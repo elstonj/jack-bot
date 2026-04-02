@@ -9,13 +9,13 @@ import anthropic
 from user_map import build_user_map, get_all_users, get_user_by_email
 from asana_client import get_enriched_tasks
 from toggl_client import get_time_summary
-from google_client import get_recent_drive_activity, get_recent_emails
+from google_client import get_recent_drive_activity, get_recent_emails, get_todays_calendar
 from slack_data_client import get_recent_slack_messages
 from research_cache import set_cache
 
 SYNTHESIS_PROMPT = """\
 You are a project manager AI for a small team. You are given data from multiple sources: \
-Asana tasks, time tracking (Toggl), Google Drive activity, Gmail subjects, and Slack messages.
+Asana tasks, time tracking (Toggl), Google Calendar, Google Drive activity, Gmail subjects, and Slack messages.
 
 Your job is to synthesize this into a prioritized daily briefing.
 
@@ -38,6 +38,8 @@ Then, for EACH team member, produce a section with EXACTLY this format:
 1. [Task name] -- [why this is priority] (Due: [date])
 2. [Task name] -- [why this is priority] (Due: [date])
 3. [Task name] -- [why this is priority] (Due: [date])
+
+_Calendar:_ [List today's meetings if any, note conflicts with focus time]
 
 _Context:_ [1-2 sentences noting relevant emails, Drive activity, or Slack threads \
 that relate to their tasks]
@@ -89,6 +91,19 @@ def _collect_gmail(users):
     return results
 
 
+def _collect_calendar(users):
+    results = {}
+    for user in users:
+        email = user["email"]
+        try:
+            events = get_todays_calendar(email)
+            if events:
+                results[user["name"]] = events
+        except Exception:
+            continue
+    return results
+
+
 def _collect_slack(slack_client, users):
     try:
         return get_recent_slack_messages(slack_client, users)
@@ -96,7 +111,7 @@ def _collect_slack(slack_client, users):
         return f"[Slack data unavailable: {e}]"
 
 
-def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, slack_messages, users):
+def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, calendar_data, slack_messages, users):
     """Build the context document for Claude."""
     sections = []
 
@@ -142,6 +157,18 @@ def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, sl
             lines.append(f"{name}:")
             for f in files[:10]:
                 lines.append(f"  - \"{f['name']}\" ({f.get('mimeType', '')}, modified {f.get('modifiedTime', '')})")
+        sections.append("\n".join(lines))
+
+    # Calendar
+    if calendar_data:
+        lines = ["=== TODAY'S CALENDAR ==="]
+        for name, events in calendar_data.items():
+            lines.append(f"{name}:")
+            for ev in events:
+                attendee_str = ""
+                if ev["attendees"]:
+                    attendee_str = f" (with: {', '.join(ev['attendees'][:5])})"
+                lines.append(f"  - {ev['start']} - {ev['end']}: {ev['summary']}{attendee_str}")
         sections.append("\n".join(lines))
 
     # Gmail
@@ -192,20 +219,22 @@ def run_daily_pipeline(slack_client):
     """Run the full daily research pipeline. Returns the full summary text."""
     users = build_user_map(slack_client)
 
-    with ThreadPoolExecutor(max_workers=5) as executor:
+    with ThreadPoolExecutor(max_workers=6) as executor:
         asana_future = executor.submit(_collect_asana)
         toggl_future = executor.submit(_collect_toggl)
         drive_future = executor.submit(_collect_drive, users)
         gmail_future = executor.submit(_collect_gmail, users)
+        calendar_future = executor.submit(_collect_calendar, users)
         slack_future = executor.submit(_collect_slack, slack_client, users)
 
         asana_tasks = asana_future.result()
         toggl_summary = toggl_future.result()
         drive_activity = drive_future.result()
         gmail_data = gmail_future.result()
+        calendar_data = calendar_future.result()
         slack_messages = slack_future.result()
 
-    context = _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, slack_messages, users)
+    context = _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, calendar_data, slack_messages, users)
 
     # Add Slack @mentions instruction
     mention_map = ""

@@ -9,6 +9,7 @@ from googleapiclient.discovery import build
 SCOPES = [
     "https://www.googleapis.com/auth/drive.readonly",
     "https://www.googleapis.com/auth/gmail.readonly",
+    "https://www.googleapis.com/auth/calendar.readonly",
 ]
 
 
@@ -76,3 +77,41 @@ def get_recent_emails(user_email, max_results=20):
         })
 
     return emails
+
+
+def get_todays_calendar(user_email):
+    """Get today's calendar events for a user.
+
+    Returns:
+        list[dict]: [{"summary": str, "start": str, "end": str, "attendees": list[str]}]
+    """
+    creds = _get_credentials(user_email)
+    if not creds:
+        return []
+    service = build("calendar", "v3", credentials=creds, cache_discovery=False)
+
+    now = datetime.now(timezone.utc)
+    start_of_day = now.replace(hour=0, minute=0, second=0, microsecond=0)
+    end_of_day = start_of_day + timedelta(days=1)
+
+    results = service.events().list(
+        calendarId="primary",
+        timeMin=start_of_day.isoformat(),
+        timeMax=end_of_day.isoformat(),
+        singleEvents=True,
+        orderBy="startTime",
+        maxResults=20,
+    ).execute()
+
+    events = []
+    for event in results.get("items", []):
+        start = event.get("start", {}).get("dateTime") or event.get("start", {}).get("date", "")
+        end = event.get("end", {}).get("dateTime") or event.get("end", {}).get("date", "")
+        attendees = [a.get("email", "") for a in event.get("attendees", [])]
+        events.append({
+            "summary": event.get("summary", "(no title)"),
+            "start": start,
+            "end": end,
+            "attendees": attendees,
+        })
+    return events
