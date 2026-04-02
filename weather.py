@@ -1,3 +1,5 @@
+from datetime import datetime, timezone
+
 import requests
 
 SITES = [
@@ -35,7 +37,7 @@ WMO_CODES = {
 
 
 def fetch_weather(lat: float, lon: float) -> dict:
-    """Fetch current weather from Open-Meteo API."""
+    """Fetch current and hourly weather from Open-Meteo API."""
     resp = requests.get(
         "https://api.open-meteo.com/v1/forecast",
         params={
@@ -49,13 +51,22 @@ def fetch_weather(lat: float, lon: float) -> dict:
                 "wind_gusts_10m",
                 "wind_direction_10m",
             ]),
+            "hourly": ",".join([
+                "wind_speed_10m",
+                "wind_gusts_10m",
+                "wind_direction_10m",
+                "precipitation_probability",
+                "precipitation",
+            ]),
             "temperature_unit": "fahrenheit",
             "wind_speed_unit": "mph",
+            "timezone": "America/Denver",
+            "forecast_hours": 24,
         },
         timeout=10,
     )
     resp.raise_for_status()
-    return resp.json()["current"]
+    return resp.json()
 
 
 def wind_direction_label(degrees: float) -> str:
@@ -65,20 +76,49 @@ def wind_direction_label(degrees: float) -> str:
     return directions[idx]
 
 
+def format_hourly_forecast(hourly: dict) -> str:
+    """Format the next 6 hours of wind and precip."""
+    now = datetime.now(timezone.utc)
+    lines = []
+    count = 0
+    for i, time_str in enumerate(hourly["time"]):
+        hour_dt = datetime.fromisoformat(time_str)
+        if hour_dt <= now:
+            continue
+        wind = hourly["wind_speed_10m"][i]
+        gusts = hourly["wind_gusts_10m"][i]
+        wind_dir = wind_direction_label(hourly["wind_direction_10m"][i])
+        precip_prob = hourly["precipitation_probability"][i]
+        precip = hourly["precipitation"][i]
+        label = hour_dt.strftime("%-I%p").lower()
+        precip_str = f"{precip_prob}%"
+        if precip > 0:
+            precip_str += f" ({precip}in)"
+        lines.append(f"  {label}: {wind} mph {wind_dir} (G{gusts}) | precip {precip_str}")
+        count += 1
+        if count >= 6:
+            break
+    return "\n".join(lines)
+
+
 def format_weather() -> str:
     """Build a formatted weather string for all flying sites."""
     blocks = []
     for site in SITES:
         try:
             data = fetch_weather(site["lat"], site["lon"])
-            code_desc = WMO_CODES.get(data["weather_code"], "Unknown")
-            wind_dir = wind_direction_label(data["wind_direction_10m"])
+            current = data["current"]
+            hourly = data["hourly"]
+            code_desc = WMO_CODES.get(current["weather_code"], "Unknown")
+            wind_dir = wind_direction_label(current["wind_direction_10m"])
+            forecast = format_hourly_forecast(hourly)
             blocks.append(
                 f"*{site['name']}*\n"
-                f"  {code_desc} | {data['temperature_2m']}°F\n"
-                f"  Wind: {data['wind_speed_10m']} mph {wind_dir} "
-                f"(gusts {data['wind_gusts_10m']} mph)\n"
-                f"  Humidity: {data['relative_humidity_2m']}%"
+                f"  {code_desc} | {current['temperature_2m']}°F\n"
+                f"  Wind: {current['wind_speed_10m']} mph {wind_dir} "
+                f"(gusts {current['wind_gusts_10m']} mph)\n"
+                f"  Humidity: {current['relative_humidity_2m']}%\n"
+                f"  _Next 6 hours:_\n{forecast}"
             )
         except Exception as e:
             blocks.append(f"*{site['name']}*\n  Error fetching weather: {e}")
