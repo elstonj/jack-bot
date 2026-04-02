@@ -10,6 +10,8 @@ SCOPES = [
     "https://www.googleapis.com/auth/drive.readonly",
     "https://www.googleapis.com/auth/gmail.readonly",
     "https://www.googleapis.com/auth/calendar.readonly",
+    "https://www.googleapis.com/auth/contacts.other.readonly",
+    "https://www.googleapis.com/auth/directory.readonly",
 ]
 
 
@@ -115,3 +117,61 @@ def get_todays_calendar(user_email):
             "attendees": attendees,
         })
     return events
+
+
+def get_contacts(user_email, max_results=100):
+    """Get contacts from Google People API — useful for client/project context.
+
+    Returns directory contacts (coworkers) and other contacts (external clients).
+
+    Returns:
+        list[dict]: [{"name": str, "email": str, "organization": str, "title": str}]
+    """
+    creds = _get_credentials(user_email)
+    if not creds:
+        return []
+
+    contacts = []
+
+    # Workspace directory (coworkers)
+    try:
+        service = build("people", "v1", credentials=creds, cache_discovery=False)
+        results = service.people().listDirectoryPeople(
+            readMask="names,emailAddresses,organizations",
+            sources=["DIRECTORY_SOURCE_TYPE_DOMAIN_PROFILE"],
+            pageSize=min(max_results, 200),
+        ).execute()
+        for person in results.get("people", []):
+            names = person.get("names", [{}])
+            emails = person.get("emailAddresses", [{}])
+            orgs = person.get("organizations", [{}])
+            contacts.append({
+                "name": names[0].get("displayName", "") if names else "",
+                "email": emails[0].get("value", "") if emails else "",
+                "organization": orgs[0].get("name", "") if orgs else "",
+                "title": orgs[0].get("title", "") if orgs else "",
+            })
+    except Exception:
+        pass
+
+    # Other contacts (external people they've interacted with)
+    try:
+        service = build("people", "v1", credentials=creds, cache_discovery=False)
+        results = service.otherContacts().list(
+            readMask="names,emailAddresses,organizations",
+            pageSize=min(max_results, 200),
+        ).execute()
+        for person in results.get("otherContacts", []):
+            names = person.get("names", [{}])
+            emails = person.get("emailAddresses", [{}])
+            orgs = person.get("organizations", [{}])
+            contacts.append({
+                "name": names[0].get("displayName", "") if names else "",
+                "email": emails[0].get("value", "") if emails else "",
+                "organization": orgs[0].get("name", "") if orgs else "",
+                "title": orgs[0].get("title", "") if orgs else "",
+            })
+    except Exception:
+        pass
+
+    return contacts

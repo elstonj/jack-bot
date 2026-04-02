@@ -9,7 +9,7 @@ import anthropic
 from user_map import build_user_map, get_all_users, get_user_by_email
 from asana_client import get_enriched_tasks
 from toggl_client import get_time_summary
-from google_client import get_recent_drive_activity, get_recent_emails, get_todays_calendar
+from google_client import get_recent_drive_activity, get_recent_emails, get_todays_calendar, get_contacts
 from slack_data_client import get_recent_slack_messages
 from research_cache import set_cache
 
@@ -104,6 +104,21 @@ def _collect_calendar(users):
     return results
 
 
+def _collect_contacts(users):
+    """Collect contacts from the first user (typically admin) to get client/org context."""
+    if not users:
+        return []
+    # Only need to pull contacts once — directory is shared across the org
+    for user in users:
+        try:
+            contacts = get_contacts(user["email"])
+            if contacts:
+                return contacts
+        except Exception:
+            continue
+    return []
+
+
 def _collect_slack(slack_client, users):
     try:
         return get_recent_slack_messages(slack_client, users)
@@ -111,7 +126,7 @@ def _collect_slack(slack_client, users):
         return f"[Slack data unavailable: {e}]"
 
 
-def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, calendar_data, slack_messages, users):
+def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, calendar_data, contacts, slack_messages, users):
     """Build the context document for Claude."""
     sections = []
 
@@ -171,6 +186,19 @@ def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, ca
                 lines.append(f"  - {ev['start']} - {ev['end']}: {ev['summary']}{attendee_str}")
         sections.append("\n".join(lines))
 
+    # Contacts (client/org context)
+    if contacts:
+        lines = ["=== KEY CONTACTS & CLIENTS ==="]
+        # Only include contacts with organization info for context
+        orgs_seen = set()
+        for c in contacts:
+            org = c.get("organization", "")
+            if org and org not in orgs_seen:
+                orgs_seen.add(org)
+                lines.append(f"  - {org}: {c['name']} ({c.get('title', '')})")
+        if len(lines) > 1:
+            sections.append("\n".join(lines))
+
     # Gmail
     if gmail_data:
         lines = ["=== RECENT EMAILS (Subject lines only) ==="]
@@ -219,12 +247,13 @@ def run_daily_pipeline(slack_client):
     """Run the full daily research pipeline. Returns the full summary text."""
     users = build_user_map(slack_client)
 
-    with ThreadPoolExecutor(max_workers=6) as executor:
+    with ThreadPoolExecutor(max_workers=7) as executor:
         asana_future = executor.submit(_collect_asana)
         toggl_future = executor.submit(_collect_toggl)
         drive_future = executor.submit(_collect_drive, users)
         gmail_future = executor.submit(_collect_gmail, users)
         calendar_future = executor.submit(_collect_calendar, users)
+        contacts_future = executor.submit(_collect_contacts, users)
         slack_future = executor.submit(_collect_slack, slack_client, users)
 
         asana_tasks = asana_future.result()
@@ -232,9 +261,10 @@ def run_daily_pipeline(slack_client):
         drive_activity = drive_future.result()
         gmail_data = gmail_future.result()
         calendar_data = calendar_future.result()
+        contacts = contacts_future.result()
         slack_messages = slack_future.result()
 
-    context = _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, calendar_data, slack_messages, users)
+    context = _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, calendar_data, contacts, slack_messages, users)
 
     # Add Slack @mentions instruction
     mention_map = ""
