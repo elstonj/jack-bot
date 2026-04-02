@@ -124,4 +124,5 @@ def format_weather() -> str:
             )
         except Exception as e:
             blocks.append(f"*{site['name']}*\n  Error fetching weather: {e}")
+    blocks.append("Detailed site info: https://weather.bst.aero")
     return "\n\n".join(blocks)

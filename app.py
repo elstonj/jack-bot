@@ -6,6 +6,8 @@ from flask import Flask, request
 
 from weather import format_weather
 from personality import get_response
+from asana_client import get_daily_summary
+from scheduler import start_scheduler
 
 load_dotenv()
 
@@ -40,6 +42,8 @@ def handle_mention(event, say, client):
 
     if message.lower().startswith("weather"):
         say(format_weather())
+    elif message.lower().startswith("tasks"):
+        say(get_daily_summary())
     else:
         user_name = resolve_user_name(client, event["user"])
         say(get_response(message, user_name))
@@ -55,6 +59,8 @@ def handle_dm(event, say, client):
 
     if text.lower().startswith("weather"):
         say(format_weather())
+    elif text.lower().startswith("tasks"):
+        say(get_daily_summary())
     else:
         user_name = resolve_user_name(client, event["user"])
         say(get_response(text, user_name))
@@ -74,6 +80,9 @@ def slack_events():
 def health():
     return "OK"
 
+
+if os.environ.get("ASANA_ACCESS_TOKEN"):
+    start_scheduler()
 
 if __name__ == "__main__":
     flask_app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 3000)))
