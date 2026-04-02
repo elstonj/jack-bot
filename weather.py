@@ -1,4 +1,5 @@
 from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
 
 import requests
 
@@ -78,11 +79,12 @@ def wind_direction_label(degrees: float) -> str:
 
 def format_hourly_forecast(hourly: dict) -> str:
     """Format the next 6 hours of wind and precip."""
-    now = datetime.now(timezone.utc)
+    denver = ZoneInfo("America/Denver")
+    now = datetime.now(denver)
     lines = []
     count = 0
     for i, time_str in enumerate(hourly["time"]):
-        hour_dt = datetime.fromisoformat(time_str)
+        hour_dt = datetime.fromisoformat(time_str).replace(tzinfo=denver)
         if hour_dt <= now:
             continue
         wind = hourly["wind_speed_10m"][i]
