@@ -20,7 +20,7 @@ handler = SlackRequestHandler(app)
 @app.command("/weather")
 def handle_weather(ack, respond):
     ack()
-    respond(format_weather())
+    respond(response_type="in_channel", text=format_weather())
 
 
 @flask_app.route("/slack/commands", methods=["POST"])
