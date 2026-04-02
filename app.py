@@ -34,6 +34,25 @@ def resolve_user_name(client, user_id):
         return "someone"
 
 
+def get_bot_user_id(client):
+    try:
+        return client.auth_test()["user_id"]
+    except Exception:
+        return None
+
+
+def fetch_history(client, channel, limit=20):
+    """Fetch recent messages from a channel/DM for context."""
+    try:
+        result = client.conversations_history(channel=channel, limit=limit)
+        # Returns newest first, reverse to chronological order
+        messages = result.get("messages", [])
+        messages.reverse()
+        return messages
+    except Exception:
+        return []
+
+
 @app.event("app_mention")
 def handle_mention(event, say, client):
     import re
@@ -46,7 +65,9 @@ def handle_mention(event, say, client):
         say(get_daily_summary())
     else:
         user_name = resolve_user_name(client, event["user"])
-        say(get_response(message, user_name))
+        history = fetch_history(client, event["channel"])
+        bot_id = get_bot_user_id(client)
+        say(get_response(message, user_name, history, bot_id))
 
 
 @app.event("message")
@@ -63,7 +84,9 @@ def handle_dm(event, say, client):
         say(get_daily_summary())
     else:
         user_name = resolve_user_name(client, event["user"])
-        say(get_response(text, user_name))
+        history = fetch_history(client, event["channel"])
+        bot_id = get_bot_user_id(client)
+        say(get_response(text, user_name, history, bot_id))
 
 
 @flask_app.route("/slack/commands", methods=["POST"])

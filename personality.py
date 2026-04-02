@@ -28,13 +28,47 @@ Don't just list commands like a help menu — grumble about it naturally."""
 client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
 
 
-def get_response(user_message: str, user_name: str = "someone") -> str:
+def build_messages(history, user_message, user_name, bot_user_id):
+    """Convert Slack conversation history into Claude messages."""
+    messages = []
+    for msg in history:
+        text = msg.get("text", "")
+        if msg.get("user") == bot_user_id or msg.get("bot_id"):
+            messages.append({"role": "assistant", "content": text})
+        else:
+            messages.append({"role": "user", "content": text})
+
+    # Merge consecutive same-role messages (Claude requires alternating roles)
+    merged = []
+    for msg in messages:
+        if merged and merged[-1]["role"] == msg["role"]:
+            merged[-1]["content"] += "\n" + msg["content"]
+        else:
+            merged.append(msg)
+
+    # Ensure conversation starts with user and ends with the new message
+    if merged and merged[0]["role"] == "assistant":
+        merged = merged[1:]
+
+    merged.append({"role": "user", "content": f"{user_name} says: {user_message}"})
+
+    # Final merge in case the last history message was also from a user
+    final = []
+    for msg in merged:
+        if final and final[-1]["role"] == msg["role"]:
+            final[-1]["content"] += "\n" + msg["content"]
+        else:
+            final.append(msg)
+
+    return final
+
+
+def get_response(user_message: str, user_name: str = "someone", history=None, bot_user_id=None) -> str:
+    messages = build_messages(history or [], user_message, user_name, bot_user_id)
     message = client.messages.create(
         model="claude-sonnet-4-20250514",
         max_tokens=300,
         system=SYSTEM_PROMPT,
-        messages=[
-            {"role": "user", "content": f"{user_name} says: {user_message}"}
-        ],
+        messages=messages,
     )
     return message.content[0].text
