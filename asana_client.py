@@ -26,13 +26,16 @@ def get_projects(workspace_gid):
     return resp.json()["data"]
 
 
-def get_tasks_for_project(project_gid):
+def get_tasks_for_project(project_gid, enriched=False):
+    opt_fields = "name,assignee.name,due_on,completed,custom_fields,notes"
+    if enriched:
+        opt_fields = "name,assignee.name,assignee.email,due_on,due_at,completed,custom_fields,notes,tags"
     resp = requests.get(
         f"{ASANA_BASE}/tasks",
         headers=_headers(),
         params={
             "project": project_gid,
-            "opt_fields": "name,assignee.name,due_on,completed,custom_fields,notes",
+            "opt_fields": opt_fields,
             "completed_since": "now",
             "limit": 100,
         },
@@ -50,6 +53,25 @@ def get_team_tasks(workspace_gid):
         tasks = get_tasks_for_project(project["gid"])
         for task in tasks:
             task["project_name"] = project["name"]
+        all_tasks.extend(tasks)
+    return all_tasks
+
+
+def get_enriched_tasks():
+    """Get all incomplete tasks with full metadata for the daily research pipeline."""
+    workspaces = get_workspaces()
+    if not workspaces:
+        return []
+    workspace_gid = workspaces[0]["gid"]
+    projects = get_projects(workspace_gid)
+    all_tasks = []
+    for project in projects:
+        tasks = get_tasks_for_project(project["gid"], enriched=True)
+        for task in tasks:
+            task["project_name"] = project["name"]
+            assignee = task.get("assignee") or {}
+            task["assignee_name"] = assignee.get("name", "Unassigned")
+            task["assignee_email"] = assignee.get("email", "")
         all_tasks.extend(tasks)
     return all_tasks
 
