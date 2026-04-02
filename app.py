@@ -28,6 +28,26 @@ def handle_weather(ack, respond):
     respond(response_type="in_channel", text=format_weather())
 
 
+@app.command("/refresh-tasks")
+def handle_refresh_tasks(ack, respond, client):
+    ack()
+    respond("Running daily research pipeline... this may take 30-60 seconds.")
+
+    def _run():
+        try:
+            from daily_research import run_daily_pipeline
+            summary = run_daily_pipeline(client)
+            client.chat_postMessage(
+                channel=os.environ.get("DAILY_TASKS_CHANNEL", "#general"),
+                text=summary,
+            )
+        except Exception as e:
+            # Post error to the user who triggered it
+            respond(f"Pipeline failed: {e}")
+
+    threading.Thread(target=_run, daemon=True).start()
+
+
 def resolve_user_name(client, user_id):
     try:
         result = client.users_info(user=user_id)
