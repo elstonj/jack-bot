@@ -5,6 +5,7 @@ from slack_bolt.adapter.flask import SlackRequestHandler
 from flask import Flask, request
 
 from weather import format_weather
+from personality import get_response
 
 load_dotenv()
 
@@ -23,31 +24,40 @@ def handle_weather(ack, respond):
     respond(response_type="in_channel", text=format_weather())
 
 
+def resolve_user_name(client, user_id):
+    try:
+        result = client.users_info(user=user_id)
+        return result["user"]["profile"].get("display_name") or result["user"]["real_name"]
+    except Exception:
+        return "someone"
+
+
 @app.event("app_mention")
-def handle_mention(event, say):
-    text = event.get("text", "").lower()
-    # Strip the bot mention to get the actual message
-    # Mentions look like: <@U12345> weather
+def handle_mention(event, say, client):
     import re
+    text = event.get("text", "")
     message = re.sub(r"<@[A-Z0-9]+>\s*", "", text).strip()
 
-    if "weather" in message:
+    if message.lower().startswith("weather"):
         say(format_weather())
     else:
-        say(f"Hi <@{event['user']}>! Try asking me about `weather`.")
+        user_name = resolve_user_name(client, event["user"])
+        say(get_response(message, user_name))
 
 
 @app.event("message")
-def handle_dm(event, say):
-    # Only respond to DMs (not channel messages without mention)
+def handle_dm(event, say, client):
     if event.get("channel_type") != "im":
         return
-    text = event.get("text", "").lower()
+    if event.get("bot_id"):
+        return
+    text = event.get("text", "").strip()
 
-    if "weather" in text:
+    if text.lower().startswith("weather"):
         say(format_weather())
     else:
-        say("Hi! Try asking me about `weather`.")
+        user_name = resolve_user_name(client, event["user"])
+        say(get_response(text, user_name))
 
 
 @flask_app.route("/slack/commands", methods=["POST"])
