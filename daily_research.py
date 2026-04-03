@@ -61,6 +61,7 @@ _Context:_ [1-2 sentences noting relevant emails, Drive activity, or Slack threa
 that relate to their tasks]
 
 _Yesterday:_ [Hours tracked] hours ([project breakdown])
+If a team member tracked 0 hours yesterday, show: _Yesterday:_ :warning: *No time tracked*
 
 Use Slack mrkdwn formatting (*bold*, _italic_). Be concise and actionable.
 Do not speculate -- only reference information present in the data.
