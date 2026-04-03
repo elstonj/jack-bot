@@ -111,16 +111,20 @@ def _collect_operations_history(slack_client):
     """Fetch recent messages from #operations for task context."""
     import time
     try:
-        oldest = str(time.time() - (7 * 86400))  # last 7 days
+        oldest = str(time.time() - (14 * 86400))  # last 14 days
         result = slack_client.conversations_history(
-            channel=OPERATIONS_CHANNEL, limit=50, oldest=oldest,
+            channel=OPERATIONS_CHANNEL, limit=100, oldest=oldest,
         )
+        raw = result.get("messages", [])
         messages = []
-        for msg in result.get("messages", []):
-            if msg.get("subtype"):
+        for msg in raw:
+            text = msg.get("text", "").strip()
+            if not text or msg.get("subtype") in ("channel_join", "channel_leave", "channel_topic", "channel_purpose"):
                 continue
-            messages.append(msg.get("text", "")[:300])
+            messages.append(text[:300])
         messages.reverse()
+        if not messages:
+            return [f"[Operations: {len(raw)} raw messages, all filtered out or empty]"]
         return messages
     except Exception as e:
         return [f"[Operations channel error: {e}]"]

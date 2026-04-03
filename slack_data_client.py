@@ -14,7 +14,7 @@ def get_recent_slack_messages(slack_client, user_map):
         return "[No SLACK_MONITORED_CHANNELS configured]"
 
     channels = [c.strip() for c in channel_ids.split(",") if c.strip()]
-    oldest = str(time.time() - 86400)  # 24 hours ago
+    oldest = str(time.time() - (7 * 86400))  # last 7 days
 
     # Build quick lookup from Slack user ID to name
     id_to_name = {}
