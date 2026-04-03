@@ -349,11 +349,21 @@ def _parse_per_user(full_summary, users):
         match = re.match(r"^### (.+)", part)
         if not match:
             continue
-        name = match.group(1).strip()
+        header = match.group(1).strip()
+
+        # Try matching by Slack mention format <@UXXXXXX>
+        mention_match = re.search(r"<@([A-Z0-9]+)>", header)
+        if mention_match:
+            slack_id = mention_match.group(1)
+            per_user[slack_id] = part.strip()
+            continue
+
+        # Fallback: match by name
         for user in users:
-            if user["name"] and user["name"].lower() in name.lower() and user["slack_user_id"]:
-                per_user[user["slack_user_id"]] = part.strip()
-                break
+            if user["name"] and user["slack_user_id"]:
+                if user["name"].lower() in header.lower():
+                    per_user[user["slack_user_id"]] = part.strip()
+                    break
     return per_user
 
 
@@ -474,12 +484,15 @@ def run_daily_pipeline(slack_client):
         operations_history=operations_history,
     )
 
-    # Build list of active team members (those with Asana tasks)
+    # Build set of known user names (from user map) for filtering
+    known_names = {u["name"].lower() for u in users if u["name"]}
+
+    # Build list of active team members (those with Asana tasks AND in user map)
     assignees_in_asana = set()
     if isinstance(asana_tasks, list):
         for t in asana_tasks:
             name = t.get("assignee_name", "")
-            if name and name != "Unassigned":
+            if name and name != "Unassigned" and name.lower() in known_names:
                 assignees_in_asana.add(name)
 
     mention_map = ""
@@ -519,6 +532,17 @@ def run_daily_pipeline(slack_client):
     team_summary_text = team_summary[0].strip() if team_summary else full_summary
 
     set_cache(full_summary, per_user, team_summary_text)
+
+    # Debug: log what was parsed
+    try:
+        parse_debug = [f"Parsed {len(per_user)} user sections from summary"]
+        for sid, section in per_user.items():
+            first_line = section.split("\n")[0][:80]
+            parse_debug.append(f"  {sid}: {first_line}")
+        parse_debug.append(f"Team summary length: {len(team_summary_text)} chars")
+        store_entry(slack_client, "DEBUG", "\n".join(parse_debug))
+    except Exception:
+        pass
 
     # Post-pipeline: extract new knowledge and store snapshot
     try:
