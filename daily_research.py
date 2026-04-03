@@ -263,6 +263,16 @@ def run_daily_pipeline(slack_client):
         errors.append(f"User mapping: {e}")
         users = []
 
+    # Log user map and data source results for debugging
+    try:
+        debug_lines = [f"Pipeline started at {datetime.now().strftime('%Y-%m-%d %H:%M')} UTC"]
+        debug_lines.append(f"Users mapped: {len(users)}")
+        for u in users:
+            debug_lines.append(f"  {u['name']} | email: {u['email']} | slack: {u['slack_user_id']} | asana: {u['asana_user_gid']} | toggl: {u['toggl_user_id']}")
+        store_entry(slack_client, "DEBUG", "\n".join(debug_lines))
+    except Exception:
+        pass
+
     # Fetch knowledge base and live data in parallel
     with ThreadPoolExecutor(max_workers=8) as executor:
         asana_future = executor.submit(_collect_asana)
@@ -282,6 +292,24 @@ def run_daily_pipeline(slack_client):
         contacts = contacts_future.result()
         slack_messages = slack_future.result()
         knowledge_context = knowledge_future.result()
+
+    # Log data source results
+    try:
+        data_lines = ["Data sources:"]
+        if isinstance(asana_tasks, list):
+            data_lines.append(f"  Asana: {len(asana_tasks)} tasks")
+            assignees = set(t.get("assignee_name", "?") for t in asana_tasks)
+            data_lines.append(f"  Asana assignees: {', '.join(assignees)}")
+        else:
+            data_lines.append(f"  Asana: {asana_tasks}")
+        data_lines.append(f"  Toggl: {type(toggl_summary).__name__} - {toggl_summary if isinstance(toggl_summary, str) else f'{len(toggl_summary)} users'}")
+        data_lines.append(f"  Drive: {len(drive_activity)} users with activity")
+        data_lines.append(f"  Gmail: {len(gmail_data)} users with emails")
+        data_lines.append(f"  Calendar: {len(calendar_data)} users with events")
+        data_lines.append(f"  Slack: {len(slack_messages) if isinstance(slack_messages, list) else slack_messages}")
+        store_entry(slack_client, "DEBUG", "\n".join(data_lines))
+    except Exception:
+        pass
 
     # Track which data sources returned errors
     if isinstance(asana_tasks, str) and "unavailable" in asana_tasks:
