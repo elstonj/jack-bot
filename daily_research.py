@@ -12,7 +12,7 @@ from toggl_client import get_time_summary
 from google_client import get_recent_drive_activity, get_recent_emails, get_todays_calendar, get_contacts
 from slack_data_client import get_recent_slack_messages
 from research_cache import set_cache
-from knowledge import get_knowledge_summary, auto_extract_knowledge, store_daily_snapshot
+from knowledge import get_knowledge_summary, auto_extract_knowledge, store_daily_snapshot, store_entry
 
 SYNTHESIS_PROMPT = """\
 You are a project manager AI for a small team. You are given data from multiple sources: \
@@ -255,7 +255,13 @@ def _parse_per_user(full_summary, users):
 
 def run_daily_pipeline(slack_client):
     """Run the full daily research pipeline. Returns the full summary text."""
-    users = build_user_map(slack_client)
+    errors = []
+
+    try:
+        users = build_user_map(slack_client)
+    except Exception as e:
+        errors.append(f"User mapping: {e}")
+        users = []
 
     # Fetch knowledge base and live data in parallel
     with ThreadPoolExecutor(max_workers=8) as executor:
@@ -276,6 +282,28 @@ def run_daily_pipeline(slack_client):
         contacts = contacts_future.result()
         slack_messages = slack_future.result()
         knowledge_context = knowledge_future.result()
+
+    # Track which data sources returned errors
+    if isinstance(asana_tasks, str) and "unavailable" in asana_tasks:
+        errors.append(asana_tasks)
+    if isinstance(toggl_summary, str) and "unavailable" in toggl_summary:
+        errors.append(toggl_summary)
+    if isinstance(slack_messages, str) and "unavailable" in slack_messages:
+        errors.append(slack_messages)
+    if not drive_activity:
+        errors.append("[Google Drive returned no data]")
+    if not gmail_data:
+        errors.append("[Gmail returned no data]")
+    if not calendar_data:
+        errors.append("[Google Calendar returned no data]")
+
+    # Log errors to the knowledge channel
+    if errors:
+        error_summary = f"Pipeline run at {datetime.now().strftime('%Y-%m-%d %H:%M')} UTC\n" + "\n".join(errors)
+        try:
+            store_entry(slack_client, "ERROR", error_summary)
+        except Exception:
+            pass
 
     context = _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, calendar_data, contacts, slack_messages, users)
 

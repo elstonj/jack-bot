@@ -11,6 +11,7 @@ Entry types:
   [TEAM]        - Team member context: strengths, capacity, preferences
   [CORRECTION]  - User corrections to task prioritization
   [INSIGHT]     - Forward-looking strategic observations
+  [ERROR]       - Pipeline errors and data source failures
 """
 
 import os

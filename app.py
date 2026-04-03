@@ -48,8 +48,11 @@ def handle_refresh_tasks(ack, respond, client, command):
                 text=summary,
             )
         except Exception as e:
-            # Post error to the user who triggered it
             respond(f"Pipeline failed: {e}")
+            try:
+                store_entry(client, "ERROR", f"/refresh-tasks failed: {e}")
+            except Exception:
+                pass
 
     threading.Thread(target=_run, daemon=True).start()
 

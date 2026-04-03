@@ -9,8 +9,15 @@ def post_daily_tasks():
     """Run the daily research pipeline and post results to Slack."""
     channel = os.environ.get("DAILY_TASKS_CHANNEL", "#general")
     client = WebClient(token=os.environ["SLACK_BOT_TOKEN"])
-    summary = run_daily_pipeline(client)
-    client.chat_postMessage(channel=channel, text=summary)
+    try:
+        summary = run_daily_pipeline(client)
+        client.chat_postMessage(channel=channel, text=summary)
+    except Exception as e:
+        from knowledge import store_entry
+        try:
+            store_entry(client, "ERROR", f"Scheduled daily pipeline failed: {e}")
+        except Exception:
+            pass
 
 
 def start_scheduler():
