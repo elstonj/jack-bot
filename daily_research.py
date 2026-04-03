@@ -64,7 +64,10 @@ _Yesterday:_ [Hours tracked] hours ([project breakdown])
 
 Use Slack mrkdwn formatting (*bold*, _italic_). Be concise and actionable.
 Do not speculate -- only reference information present in the data.
-If a team member has fewer than 3 tasks, list what they have."""
+If a team member has fewer than 3 tasks, list what they have.
+
+IMPORTANT: Include a section for EVERY team member who has tasks assigned in Asana. \
+Do not skip anyone. If the team has 12 people with tasks, produce 12 sections."""
 
 
 def _collect_asana():
@@ -471,7 +474,7 @@ def run_daily_pipeline(slack_client):
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
     message = client.messages.create(
         model="claude-sonnet-4-20250514",
-        max_tokens=2000,
+        max_tokens=4000,
         system=SYNTHESIS_PROMPT,
         messages=[{
             "role": "user",

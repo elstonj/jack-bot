@@ -96,15 +96,50 @@ def _extract_alias(email):
     return email.split("@")[0].lower() if "@" in email else ""
 
 
+def _extract_last_name(email):
+    """Try to extract a last name from the email local part.
+
+    Handles: first.last@, firstlast@, flast@, last@
+    Returns the last component after splitting on dots, or None.
+    """
+    local = _extract_alias(email)
+    if "." in local:
+        return local.split(".")[-1]
+    return None
+
+
 def _same_domain(email1, email2):
     """Check if two emails share the same domain (or known equivalent domains)."""
     domain1 = email1.split("@")[1] if "@" in email1 else ""
     domain2 = email2.split("@")[1] if "@" in email2 else ""
-    # Treat known equivalent domains as the same
     equiv = {"blackswifttech.com", "blackswifttechnologies.com"}
     if domain1 in equiv and domain2 in equiv:
         return True
     return domain1 == domain2
+
+
+def _aliases_match(email1, email2):
+    """Check if two emails likely belong to the same person.
+
+    Matches on: exact alias, or shared last name within same domain family.
+    """
+    if not _same_domain(email1, email2):
+        return False
+    alias1 = _extract_alias(email1)
+    alias2 = _extract_alias(email2)
+    if alias1 == alias2:
+        return True
+    # Last name matching: jack.elston matches elstonj (both contain "elston")
+    last1 = _extract_last_name(email1)
+    last2 = _extract_last_name(email2)
+    if last1 and last2 and last1 == last2:
+        return True
+    # Check if one alias contains the other's last name or vice versa
+    if last1 and last1 in alias2:
+        return True
+    if last2 and last2 in alias1:
+        return True
+    return False
 
 
 def build_user_map(slack_client):
@@ -154,42 +189,44 @@ def build_user_map(slack_client):
                 entry["name"] = toggl_users[email]["name"]
         unified[email] = entry
 
-    # Second pass: alias matching for unmatched entries
-    # Find entries missing a service and try to match by alias (local part of email)
-    for email, entry in list(unified.items()):
-        alias = _extract_alias(email)
-        if not alias:
-            continue
+    # Second pass: fuzzy matching for unmatched entries
+    # Match by alias or last name within same domain family
+    matched_asana = {e for e, ent in unified.items() if ent["asana_user_gid"]}
+    matched_toggl = {e for e, ent in unified.items() if ent["toggl_user_id"]}
+    matched_slack = {e for e, ent in unified.items() if ent["slack_user_id"]}
 
-        # Try to find matching aliases in other services
+    for email, entry in list(unified.items()):
         if not entry["asana_user_gid"]:
             for asana_email, asana_data in asana_users.items():
-                if asana_email in excluded_emails or asana_email in unified:
+                if asana_email in excluded_emails or asana_email in unified or asana_email in matched_asana:
                     continue
-                if _extract_alias(asana_email) == alias and _same_domain(email, asana_email):
+                if _aliases_match(email, asana_email):
                     entry["asana_user_gid"] = asana_data["asana_user_gid"]
                     if not entry["name"]:
                         entry["name"] = asana_data["name"]
+                    matched_asana.add(asana_email)
                     break
 
         if not entry["toggl_user_id"]:
             for toggl_email, toggl_data in toggl_users.items():
-                if toggl_email in excluded_emails or toggl_email in unified:
+                if toggl_email in excluded_emails or toggl_email in unified or toggl_email in matched_toggl:
                     continue
-                if _extract_alias(toggl_email) == alias and _same_domain(email, toggl_email):
+                if _aliases_match(email, toggl_email):
                     entry["toggl_user_id"] = toggl_data["toggl_user_id"]
                     if not entry["name"]:
                         entry["name"] = toggl_data["name"]
+                    matched_toggl.add(toggl_email)
                     break
 
         if not entry["slack_user_id"]:
             for slack_email, slack_data in slack_users.items():
-                if slack_email in excluded_emails or slack_email in unified:
+                if slack_email in excluded_emails or slack_email in unified or slack_email in matched_slack:
                     continue
-                if _extract_alias(slack_email) == alias and _same_domain(email, slack_email):
+                if _aliases_match(email, slack_email):
                     entry["slack_user_id"] = slack_data["slack_user_id"]
                     if not entry["name"]:
                         entry["name"] = slack_data["name"]
+                    matched_slack.add(slack_email)
                     break
 
     # Apply manual overrides
@@ -201,12 +238,34 @@ def build_user_map(slack_client):
                 ov_email = override.get("email", "").lower()
                 for email, entry in unified.items():
                     if entry["email"] == ov_email:
-                        entry.update({k: v for k, v in override.items() if v})
+                        entry.update({k: v for k, v in override.items() if v and k != "email"})
                         break
         except json.JSONDecodeError:
             pass
 
-    result = list(unified.values())
+    # Merge duplicate users (same person with different emails)
+    # After overrides, find entries that now share a slack_user_id and merge them
+    merged = {}
+    for email, entry in unified.items():
+        sid = entry.get("slack_user_id")
+        if sid and sid in merged:
+            # Merge into existing entry
+            existing = merged[sid]
+            if not existing["asana_user_gid"] and entry["asana_user_gid"]:
+                existing["asana_user_gid"] = entry["asana_user_gid"]
+            if not existing["toggl_user_id"] and entry["toggl_user_id"]:
+                existing["toggl_user_id"] = entry["toggl_user_id"]
+            if not existing["name"] and entry["name"]:
+                existing["name"] = entry["name"]
+        elif sid:
+            merged[sid] = entry
+        else:
+            # No slack ID — keep if they have Asana tasks
+            if entry["asana_user_gid"]:
+                merged[email] = entry
+
+    # Filter to only users with at least a Slack ID or Asana account
+    result = [e for e in merged.values() if e.get("slack_user_id") or e.get("asana_user_gid")]
     _user_map = result
     return result
 
