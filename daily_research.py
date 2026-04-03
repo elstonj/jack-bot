@@ -460,11 +460,21 @@ def run_daily_pipeline(slack_client):
         operations_history=operations_history,
     )
 
-    # Add Slack @mentions instruction
+    # Build list of active team members (those with Asana tasks)
+    assignees_in_asana = set()
+    if isinstance(asana_tasks, list):
+        for t in asana_tasks:
+            name = t.get("assignee_name", "")
+            if name and name != "Unassigned":
+                assignees_in_asana.add(name)
+
     mention_map = ""
+    active_list = ""
     for user in users:
         if user["slack_user_id"] and user["name"]:
             mention_map += f"  {user['name']} = <@{user['slack_user_id']}>\n"
+    for name in sorted(assignees_in_asana):
+        active_list += f"  - {name}\n"
 
     # Combine live data with knowledge base
     full_context = context
@@ -481,6 +491,7 @@ def run_daily_pipeline(slack_client):
             "content": (
                 f"Today's date is {date.today().isoformat()}.\n\n"
                 f"When referring to team members in the output, use their Slack mention format:\n{mention_map}\n\n"
+                f"REQUIRED: You MUST produce a ### section for each of these team members:\n{active_list}\n\n"
                 f"{full_context}"
             ),
         }],
