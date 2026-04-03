@@ -44,27 +44,27 @@ If a YESTERDAY'S SUMMARY is provided, note what changed — completed tasks, shi
 new items. Briefly mention key changes in the team summary.
 
 OUTPUT FORMAT:
-First, produce a TEAM SUMMARY section with a header line `:mega: *TEAM SUMMARY*` followed by \
+First, produce a team summary with header `:mega: *TEAM SUMMARY*` followed by \
 3-5 bullet points of the most critical items for today.
 
-Then, for EACH team member, produce a section with EXACTLY this compact format:
+Then, for EACH team member, produce a section starting with ### (required for parsing). \
+Use this exact compact format:
 
----
-:bust_in_silhouette: *[Person Name]*
-:one: [Task] — [why] (Due: [date])
-:two: [Task] — [why] (Due: [date])
-:three: [Task] — [why] (Due: [date])
-:calendar: [meetings today] · :clock1: [Xh yesterday on projects] or :warning: *No time tracked*
+### [Person Name]
+:red_circle: [Overdue task] — [brief reason] (Due: [date])
+:large_orange_diamond: [Due today task] — [brief reason] (Due: [date])
+:white_circle: [Upcoming task] — [brief reason] (Due: [date])
+:calendar: [meetings] · :clock1: [hours] or :warning: *No time tracked*
 
 Rules:
-- Keep each person to 5 lines MAX including the --- separator
-- Use :red_circle: before overdue tasks, :large_orange_diamond: for due today, :white_circle: for upcoming
-- If 0 hours tracked yesterday, use :warning: *No time tracked*
-- If fewer than 3 tasks, list what they have
-- Be extremely terse — no filler words
+- Each person MAX 5 lines total
+- Use :red_circle: overdue, :large_orange_diamond: due today/this week, :white_circle: later
+- Plain text task lines, no numbered emojis
+- If 0 hours tracked: :warning: *No time tracked*
+- Be extremely terse
 
-CRITICAL: You MUST produce a section for EVERY team member in the REQUIRED list. \
-Do not skip anyone. Do not stop generating early. Complete all sections."""
+CRITICAL: Produce a ### section for EVERY person in the REQUIRED list. \
+Do not stop early. All people must be included."""
 
 
 def _collect_asana():
@@ -383,12 +383,26 @@ def run_daily_pipeline(slack_client):
     except Exception:
         pass
 
-    # Test knowledge channel access
+    # Test knowledge channel access and count all messages
     try:
         knowledge_ch = os.environ.get("KNOWLEDGE_CHANNEL", "")
         if knowledge_ch:
-            test = slack_client.conversations_history(channel=knowledge_ch, limit=1)
-            store_entry(slack_client, "DEBUG", f"Knowledge channel readable: {len(test.get('messages', []))} msgs")
+            total = 0
+            cursor = None
+            while True:
+                kwargs = {"channel": knowledge_ch, "limit": 200}
+                if cursor:
+                    kwargs["cursor"] = cursor
+                test = slack_client.conversations_history(**kwargs)
+                total += len(test.get("messages", []))
+                cursor = test.get("response_metadata", {}).get("next_cursor")
+                if not cursor:
+                    break
+            # Also test get_knowledge
+            all_entries = get_knowledge(slack_client)
+            corrections = [e for e in all_entries if e["type"] == "CORRECTION"]
+            store_entry(slack_client, "DEBUG",
+                f"Knowledge channel: {total} total msgs, {len(all_entries)} parsed entries, {len(corrections)} corrections")
     except Exception as e:
         store_entry(slack_client, "DEBUG", f"Knowledge channel error: {e}")
 
