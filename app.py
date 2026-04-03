@@ -8,7 +8,7 @@ from flask import Flask, request
 
 from weather import format_weather
 from personality import get_response
-from research_cache import get_full_summary, get_user_summary, is_stale
+from research_cache import get_full_summary, get_user_summary, get_team_summary, get_per_user_sections, is_stale
 from knowledge import store_correction, store_entry
 from scheduler import start_scheduler
 
@@ -41,12 +41,20 @@ def handle_refresh_tasks(ack, respond, client, command):
 
     def _run():
         try:
+            import time as _time
             from daily_research import run_daily_pipeline
-            summary = run_daily_pipeline(client)
-            client.chat_postMessage(
-                channel=os.environ.get("DAILY_TASKS_CHANNEL", "#general"),
-                text=summary,
-            )
+            channel = os.environ.get("DAILY_TASKS_CHANNEL", "#general")
+            run_daily_pipeline(client)
+
+            # Post team summary first, then each person separately
+            team = get_team_summary()
+            if team:
+                client.chat_postMessage(channel=channel, text=team)
+                _time.sleep(0.5)
+            per_user = get_per_user_sections()
+            for section in per_user.values():
+                client.chat_postMessage(channel=channel, text=section)
+                _time.sleep(0.3)
         except Exception as e:
             respond(f"Pipeline failed: {e}")
             try:

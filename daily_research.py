@@ -373,6 +373,15 @@ def run_daily_pipeline(slack_client):
     except Exception:
         pass
 
+    # Test knowledge channel access
+    try:
+        knowledge_ch = os.environ.get("KNOWLEDGE_CHANNEL", "")
+        if knowledge_ch:
+            test = slack_client.conversations_history(channel=knowledge_ch, limit=1)
+            store_entry(slack_client, "DEBUG", f"Knowledge channel readable: {len(test.get('messages', []))} msgs")
+    except Exception as e:
+        store_entry(slack_client, "DEBUG", f"Knowledge channel error: {e}")
+
     # Get known file IDs from knowledge base to skip already-processed files
     known_file_ids = None
     try:
@@ -500,7 +509,12 @@ def run_daily_pipeline(slack_client):
     full_summary = message.content[0].text
 
     per_user = _parse_per_user(full_summary, users)
-    set_cache(full_summary, per_user)
+
+    # Extract team summary (everything before the first ### section)
+    team_summary = re.split(r"(?=^### )", full_summary, maxsplit=1, flags=re.MULTILINE)
+    team_summary_text = team_summary[0].strip() if team_summary else full_summary
+
+    set_cache(full_summary, per_user, team_summary_text)
 
     # Post-pipeline: extract new knowledge and store snapshot
     try:

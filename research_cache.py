@@ -6,20 +6,32 @@ _lock = threading.Lock()
 _cache = {
     "generated_at": None,
     "full_summary": None,
+    "team_summary": None,
     "per_user": {},
 }
 
 
-def set_cache(full_summary, per_user):
+def set_cache(full_summary, per_user, team_summary=None):
     with _lock:
         _cache["generated_at"] = datetime.now()
         _cache["full_summary"] = full_summary
+        _cache["team_summary"] = team_summary
         _cache["per_user"] = per_user
 
 
 def get_full_summary():
     with _lock:
         return _cache["full_summary"], _cache["generated_at"]
+
+
+def get_team_summary():
+    with _lock:
+        return _cache["team_summary"]
+
+
+def get_per_user_sections():
+    with _lock:
+        return dict(_cache["per_user"])
 
 
 def get_user_summary(slack_user_id):

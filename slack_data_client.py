@@ -24,20 +24,28 @@ def get_recent_slack_messages(slack_client, user_map):
 
     all_messages = []
     errors = []
+    channels_ok = 0
+    channels_empty = 0
+
     for channel_id in channels:
         channel_name = channel_id
         try:
             info = slack_client.conversations_info(channel=channel_id)
             channel_name = f"#{info['channel']['name']}"
-        except Exception as e:
-            errors.append(f"conversations_info({channel_id}): {e}")
+        except Exception:
+            # Non-fatal — we can still read history without the name
+            pass
 
         try:
             result = slack_client.conversations_history(
                 channel=channel_id, limit=50, oldest=oldest,
             )
-            msg_count = 0
-            for msg in result.get("messages", []):
+            raw_msgs = result.get("messages", [])
+            if not raw_msgs:
+                channels_empty += 1
+            else:
+                channels_ok += 1
+            for msg in raw_msgs:
                 if msg.get("bot_id") or msg.get("subtype"):
                     continue
                 user_id = msg.get("user", "")
@@ -47,16 +55,18 @@ def get_recent_slack_messages(slack_client, user_map):
                     "user_name": user_name,
                     "text": msg.get("text", ""),
                 })
-                msg_count += 1
         except Exception as e:
-            errors.append(f"conversations_history({channel_id}): {e}")
+            errors.append(f"history({channel_id}/{channel_name}): {e}")
             continue
 
         if len(all_messages) >= 100:
             break
 
-    # If we got no messages but had errors, return error info
-    if not all_messages and errors:
-        return f"[Slack errors: {'; '.join(errors)}]"
+    # Always return diagnostic info if no messages
+    if not all_messages:
+        parts = [f"[Slack: {len(channels)} channels configured, {channels_ok} readable, {channels_empty} empty in last 24h]"]
+        if errors:
+            parts.append(f"[Errors: {'; '.join(errors)}]")
+        return " ".join(parts)
 
     return all_messages
