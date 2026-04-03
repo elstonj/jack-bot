@@ -30,7 +30,12 @@ def handle_weather(ack, respond):
 
 
 @app.command("/refresh-tasks")
-def handle_refresh_tasks(ack, respond, client):
+def handle_refresh_tasks(ack, respond, client, command):
+    knowledge_channel = os.environ.get("KNOWLEDGE_CHANNEL", "")
+    if knowledge_channel and command.get("channel_id") != knowledge_channel:
+        ack()
+        respond("This command can only be run in the #jackbot-knowledge channel.")
+        return
     ack()
     respond("Running daily research pipeline... this may take 30-60 seconds.")
 
