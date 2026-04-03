@@ -121,8 +121,8 @@ def _collect_operations_history(slack_client):
             messages.append(msg.get("text", "")[:300])
         messages.reverse()
         return messages
-    except Exception:
-        return []
+    except Exception as e:
+        return [f"[Operations channel error: {e}]"]
 
 
 def _collect_drive(users, known_file_ids=None):
