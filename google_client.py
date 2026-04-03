@@ -25,24 +25,115 @@ def _get_credentials(user_email):
     return creds.with_subject(user_email)
 
 
-def get_recent_drive_activity(user_email):
-    """Get files modified in the last 24 hours visible to a user.
+def _get_shared_drive_ids(service):
+    """Get IDs of configured shared drives (Sales, Federal Projects)."""
+    target_drives = os.environ.get("GOOGLE_SHARED_DRIVES", "Sales,Federal Projects")
+    target_names = [n.strip().lower() for n in target_drives.split(",")]
+    drive_ids = []
+    try:
+        results = service.drives().list(pageSize=50).execute()
+        for drive in results.get("drives", []):
+            if drive["name"].lower() in target_names:
+                drive_ids.append({"id": drive["id"], "name": drive["name"]})
+    except Exception:
+        pass
+    return drive_ids
+
+
+def get_recent_drive_activity(user_email, known_file_ids=None):
+    """Get files modified in the last 24 hours from targeted shared drives.
+
+    Only scans Sales and Federal Projects shared drives, plus meeting notes.
+    If known_file_ids is provided, skip files already in the knowledge base.
 
     Returns:
-        list[dict]: [{"name": str, "mimeType": str, "modifiedTime": str, "webViewLink": str}]
+        list[dict]: [{"name": str, "mimeType": str, "modifiedTime": str, "webViewLink": str, "driveId": str}]
     """
     creds = _get_credentials(user_email)
     if not creds:
         return []
     service = build("drive", "v3", credentials=creds, cache_discovery=False)
     yesterday = (datetime.now(timezone.utc) - timedelta(hours=24)).isoformat()
+
+    known = set(known_file_ids or [])
+    all_files = []
+
+    # Search targeted shared drives
+    shared_drives = _get_shared_drive_ids(service)
+    for drive in shared_drives:
+        try:
+            results = service.files().list(
+                q=f"modifiedTime > '{yesterday}' and trashed = false",
+                fields="files(id,name,mimeType,modifiedTime,webViewLink)",
+                orderBy="modifiedTime desc",
+                pageSize=20,
+                corpora="drive",
+                driveId=drive["id"],
+                includeItemsFromAllDrives=True,
+                supportsAllDrives=True,
+            ).execute()
+            for f in results.get("files", []):
+                if f["id"] not in known:
+                    f["driveName"] = drive["name"]
+                    all_files.append(f)
+        except Exception:
+            continue
+
+    # Always search for meeting notes across all drives
+    try:
+        results = service.files().list(
+            q=f"name contains 'BST Internal Update Meeting' and modifiedTime > '{yesterday}' and trashed = false",
+            fields="files(id,name,mimeType,modifiedTime,webViewLink)",
+            orderBy="modifiedTime desc",
+            pageSize=5,
+            corpora="allDrives",
+            includeItemsFromAllDrives=True,
+            supportsAllDrives=True,
+        ).execute()
+        for f in results.get("files", []):
+            if f["id"] not in known and f["id"] not in {x["id"] for x in all_files}:
+                f["driveName"] = "Meeting Notes"
+                all_files.append(f)
+    except Exception:
+        pass
+
+    return all_files
+
+
+def get_meeting_notes_content(user_email, max_docs=2):
+    """Fetch the content of the most recent BST Internal Update Meeting notes.
+
+    Returns:
+        list[dict]: [{"name": str, "content": str}]
+    """
+    creds = _get_credentials(user_email)
+    if not creds:
+        return []
+    service = build("drive", "v3", credentials=creds, cache_discovery=False)
+
     results = service.files().list(
-        q=f"modifiedTime > '{yesterday}' and trashed = false",
-        fields="files(id,name,mimeType,modifiedTime,webViewLink)",
+        q="name contains 'BST Internal Update Meeting' and mimeType = 'application/vnd.google-apps.document'",
+        fields="files(id,name,modifiedTime)",
         orderBy="modifiedTime desc",
-        pageSize=20,
+        pageSize=max_docs,
+        corpora="allDrives",
+        includeItemsFromAllDrives=True,
+        supportsAllDrives=True,
     ).execute()
-    return results.get("files", [])
+
+    docs = []
+    for f in results.get("files", []):
+        try:
+            content = service.files().export(
+                fileId=f["id"], mimeType="text/plain"
+            ).execute()
+            text = content.decode("utf-8") if isinstance(content, bytes) else str(content)
+            # Truncate to keep prompt manageable
+            docs.append({"name": f["name"], "content": text[:3000]})
+        except Exception:
+            continue
+
+    return docs
 
 
 def get_recent_emails(user_email, max_results=20):

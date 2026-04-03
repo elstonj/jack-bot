@@ -7,16 +7,22 @@ from zoneinfo import ZoneInfo
 import anthropic
 
 from user_map import build_user_map, get_all_users, get_user_by_email
-from asana_client import get_enriched_tasks
+from asana_client import get_enriched_tasks, get_key_project_data, get_workspaces
 from toggl_client import get_time_summary
-from google_client import get_recent_drive_activity, get_recent_emails, get_todays_calendar, get_contacts
+from google_client import get_recent_drive_activity, get_recent_emails, get_todays_calendar, get_contacts, get_meeting_notes_content
 from slack_data_client import get_recent_slack_messages
 from research_cache import set_cache
-from knowledge import get_knowledge_summary, auto_extract_knowledge, store_daily_snapshot, store_entry
+from knowledge import get_knowledge_summary, auto_extract_knowledge, store_daily_snapshot, store_entry, get_knowledge
+
+# Operations channel for previous task summaries
+OPERATIONS_CHANNEL = "C015QR6P5S4"
 
 SYNTHESIS_PROMPT = """\
-You are a project manager AI for a small team. You are given data from multiple sources: \
-Asana tasks, time tracking (Toggl), Google Calendar, Google Drive activity, Gmail subjects, and Slack messages.
+You are a project manager AI for Black Swift Technologies (BST), a small aerospace/UAS company. \
+You are given data from multiple sources: Asana tasks (including BD Pipeline, Proposals, and \
+milestones with dollar amounts), time tracking (Toggl), Google Calendar, Google Drive activity \
+(from Sales and Federal Projects shared drives), weekly all-hands meeting notes, Gmail subjects, \
+Slack messages (including #operations channel history), and a company knowledge base.
 
 Your job is to synthesize this into a prioritized daily briefing.
 
@@ -27,7 +33,7 @@ from users, respect those — they override your default reasoning.
 PRIORITIZATION RULES (in order of weight):
 1. User corrections from the knowledge base — if someone said "X is more important", honor that
 2. OVERDUE tasks or tasks due today — always top priority
-3. Tasks on high-dollar projects (use knowledge base for project $ values and client importance)
+3. Tasks on high-dollar projects (use milestone subtask dollar amounts, BD Pipeline, and knowledge base)
 4. Tasks with risk signals: mentioned blockers in Slack, client emails about deadlines, \
 low hours tracked vs. approaching due date
 5. Tasks where someone tracked 0 hours yesterday but has upcoming deadlines
@@ -75,12 +81,53 @@ def _collect_toggl():
         return f"[Toggl data unavailable: {e}]"
 
 
-def _collect_drive(users):
+def _collect_key_projects():
+    try:
+        workspaces = get_workspaces()
+        if not workspaces:
+            return {}
+        return get_key_project_data(workspaces[0]["gid"])
+    except Exception as e:
+        return f"[Key project data unavailable: {e}]"
+
+
+def _collect_meeting_notes(users):
+    """Fetch the most recent BST Internal Update Meeting notes."""
+    for user in users:
+        try:
+            docs = get_meeting_notes_content(user["email"], max_docs=1)
+            if docs:
+                return docs
+        except Exception:
+            continue
+    return []
+
+
+def _collect_operations_history(slack_client):
+    """Fetch recent messages from #operations for task context."""
+    import time
+    try:
+        oldest = str(time.time() - (7 * 86400))  # last 7 days
+        result = slack_client.conversations_history(
+            channel=OPERATIONS_CHANNEL, limit=50, oldest=oldest,
+        )
+        messages = []
+        for msg in result.get("messages", []):
+            if msg.get("subtype"):
+                continue
+            messages.append(msg.get("text", "")[:300])
+        messages.reverse()
+        return messages
+    except Exception:
+        return []
+
+
+def _collect_drive(users, known_file_ids=None):
     results = {}
     for user in users:
         email = user["email"]
         try:
-            files = get_recent_drive_activity(email)
+            files = get_recent_drive_activity(email, known_file_ids)
             if files:
                 results[user["name"]] = files
         except Exception:
@@ -136,7 +183,7 @@ def _collect_slack(slack_client, users):
         return f"[Slack data unavailable: {e}]"
 
 
-def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, calendar_data, contacts, slack_messages, users):
+def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, calendar_data, contacts, slack_messages, users, key_projects=None, meeting_notes=None, operations_history=None):
     """Build the context document for Claude."""
     sections = []
 
@@ -161,6 +208,55 @@ def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, ca
             lines.append(f"- {task['name']} | Project: {project} | Assigned: {assignee} | Due: {due}{custom}")
             if notes:
                 lines.append(f"  Notes: {notes}")
+        sections.append("\n".join(lines))
+
+    # Key projects (BD Pipeline, Proposals, Milestones)
+    if key_projects and isinstance(key_projects, dict):
+        if key_projects.get("bd_pipeline"):
+            lines = ["=== BD PIPELINE ==="]
+            for t in key_projects["bd_pipeline"]:
+                custom = ""
+                for cf in t.get("custom_fields", []) or []:
+                    if cf and cf.get("display_value"):
+                        custom += f" [{cf.get('name', '')}: {cf['display_value']}]"
+                lines.append(f"- {t['name']} | Due: {t.get('due_on', 'N/A')}{custom}")
+            sections.append("\n".join(lines))
+
+        if key_projects.get("proposals"):
+            lines = ["=== PROPOSALS ==="]
+            for t in key_projects["proposals"]:
+                custom = ""
+                for cf in t.get("custom_fields", []) or []:
+                    if cf and cf.get("display_value"):
+                        custom += f" [{cf.get('name', '')}: {cf['display_value']}]"
+                lines.append(f"- {t['name']} | Due: {t.get('due_on', 'N/A')}{custom}")
+            sections.append("\n".join(lines))
+
+        if key_projects.get("milestones"):
+            lines = ["=== MILESTONES (with subtask dollar amounts) ==="]
+            for m in key_projects["milestones"]:
+                lines.append(f"- MILESTONE: {m['name']} | Project: {m.get('project_name', '')} | Due: {m.get('due_on', 'N/A')}")
+                for st in m.get("subtasks", []):
+                    custom = ""
+                    for cf in st.get("custom_fields", []) or []:
+                        if cf and cf.get("display_value"):
+                            custom += f" [{cf.get('name', '')}: {cf['display_value']}]"
+                    lines.append(f"  - {st['name']}{custom}")
+            sections.append("\n".join(lines))
+
+    # Meeting notes
+    if meeting_notes:
+        lines = ["=== RECENT ALL-HANDS MEETING NOTES ==="]
+        for doc in meeting_notes:
+            lines.append(f"*{doc['name']}*")
+            lines.append(doc["content"])
+        sections.append("\n".join(lines))
+
+    # Operations channel history
+    if operations_history:
+        lines = ["=== #OPERATIONS CHANNEL (recent task context) ==="]
+        for msg in operations_history[:30]:
+            lines.append(f"  - {msg}")
         sections.append("\n".join(lines))
 
     # Toggl
@@ -273,24 +369,39 @@ def run_daily_pipeline(slack_client):
     except Exception:
         pass
 
+    # Get known file IDs from knowledge base to skip already-processed files
+    known_file_ids = None
+    try:
+        known_entries = get_knowledge(slack_client, ["PROJECT"], days=30)
+        # Extract any file IDs mentioned in project entries (future optimization)
+        known_file_ids = set()
+    except Exception:
+        pass
+
     # Fetch knowledge base and live data in parallel
-    with ThreadPoolExecutor(max_workers=8) as executor:
+    with ThreadPoolExecutor(max_workers=12) as executor:
         asana_future = executor.submit(_collect_asana)
+        key_projects_future = executor.submit(_collect_key_projects)
         toggl_future = executor.submit(_collect_toggl)
-        drive_future = executor.submit(_collect_drive, users)
+        drive_future = executor.submit(_collect_drive, users, known_file_ids)
+        meeting_notes_future = executor.submit(_collect_meeting_notes, users)
         gmail_future = executor.submit(_collect_gmail, users)
         calendar_future = executor.submit(_collect_calendar, users)
         contacts_future = executor.submit(_collect_contacts, users)
         slack_future = executor.submit(_collect_slack, slack_client, users)
+        ops_future = executor.submit(_collect_operations_history, slack_client)
         knowledge_future = executor.submit(get_knowledge_summary, slack_client)
 
         asana_tasks = asana_future.result()
+        key_projects = key_projects_future.result()
         toggl_summary = toggl_future.result()
         drive_activity = drive_future.result()
+        meeting_notes = meeting_notes_future.result()
         gmail_data = gmail_future.result()
         calendar_data = calendar_future.result()
         contacts = contacts_future.result()
         slack_messages = slack_future.result()
+        operations_history = ops_future.result()
         knowledge_context = knowledge_future.result()
 
     # Log data source results
@@ -302,10 +413,16 @@ def run_daily_pipeline(slack_client):
             data_lines.append(f"  Asana assignees: {', '.join(assignees)}")
         else:
             data_lines.append(f"  Asana: {asana_tasks}")
+        if isinstance(key_projects, dict):
+            data_lines.append(f"  BD Pipeline: {len(key_projects.get('bd_pipeline', []))} items")
+            data_lines.append(f"  Proposals: {len(key_projects.get('proposals', []))} items")
+            data_lines.append(f"  Milestones: {len(key_projects.get('milestones', []))} items")
         data_lines.append(f"  Toggl: {type(toggl_summary).__name__} - {toggl_summary if isinstance(toggl_summary, str) else f'{len(toggl_summary)} users'}")
         data_lines.append(f"  Drive: {len(drive_activity)} users with activity")
+        data_lines.append(f"  Meeting notes: {len(meeting_notes)} docs")
         data_lines.append(f"  Gmail: {len(gmail_data)} users with emails")
         data_lines.append(f"  Calendar: {len(calendar_data)} users with events")
+        data_lines.append(f"  Operations: {len(operations_history)} messages")
         data_lines.append(f"  Slack: {len(slack_messages) if isinstance(slack_messages, list) else slack_messages}")
         store_entry(slack_client, "DEBUG", "\n".join(data_lines))
     except Exception:
@@ -333,7 +450,12 @@ def run_daily_pipeline(slack_client):
         except Exception:
             pass
 
-    context = _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, calendar_data, contacts, slack_messages, users)
+    context = _assemble_context(
+        asana_tasks, toggl_summary, drive_activity, gmail_data, calendar_data,
+        contacts, slack_messages, users,
+        key_projects=key_projects, meeting_notes=meeting_notes,
+        operations_history=operations_history,
+    )
 
     # Add Slack @mentions instruction
     mention_map = ""

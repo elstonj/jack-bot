@@ -57,6 +57,55 @@ def get_team_tasks(workspace_gid):
     return all_tasks
 
 
+def get_subtasks(task_gid):
+    """Get subtasks for a task (used for milestones with dollar amounts)."""
+    resp = requests.get(
+        f"{ASANA_BASE}/tasks/{task_gid}/subtasks",
+        headers=_headers(),
+        params={
+            "opt_fields": "name,assignee.name,assignee.email,due_on,completed,custom_fields,notes",
+            "limit": 50,
+        },
+        timeout=10,
+    )
+    resp.raise_for_status()
+    return resp.json()["data"]
+
+
+def search_project_by_name(workspace_gid, name_prefix):
+    """Search for projects matching a name prefix."""
+    projects = get_projects(workspace_gid)
+    return [p for p in projects if p["name"].lower().startswith(name_prefix.lower())]
+
+
+def get_milestones_for_project(project_gid):
+    """Get milestone tasks with their subtasks (which often have dollar amounts)."""
+    resp = requests.get(
+        f"{ASANA_BASE}/tasks",
+        headers=_headers(),
+        params={
+            "project": project_gid,
+            "opt_fields": "name,assignee.name,due_on,completed,custom_fields,notes,resource_subtype",
+            "completed_since": "now",
+            "limit": 100,
+        },
+        timeout=10,
+    )
+    resp.raise_for_status()
+
+    milestones = []
+    for task in resp.json()["data"]:
+        if task.get("resource_subtype") == "milestone":
+            subtasks = []
+            try:
+                subtasks = get_subtasks(task["gid"])
+            except Exception:
+                pass
+            task["subtasks"] = subtasks
+            milestones.append(task)
+    return milestones
+
+
 def get_enriched_tasks():
     """Get all incomplete tasks with full metadata for the daily research pipeline."""
     workspaces = get_workspaces()
@@ -74,6 +123,42 @@ def get_enriched_tasks():
             task["assignee_email"] = assignee.get("email", "")
         all_tasks.extend(tasks)
     return all_tasks
+
+
+def get_key_project_data(workspace_gid):
+    """Get data from key Asana projects: BD Pipeline, Proposals, and milestones.
+
+    Returns:
+        dict with keys: bd_pipeline, proposals, milestones
+    """
+    result = {"bd_pipeline": [], "proposals": [], "milestones": []}
+    projects = get_projects(workspace_gid)
+
+    for project in projects:
+        name_lower = project["name"].lower()
+        # BD Pipeline project
+        if "bd pipeline" in name_lower:
+            tasks = get_tasks_for_project(project["gid"], enriched=True)
+            for t in tasks:
+                t["project_name"] = project["name"]
+            result["bd_pipeline"] = tasks
+        # Proposals project
+        elif "proposals" in name_lower and "[001-13]" in project["name"]:
+            tasks = get_tasks_for_project(project["gid"], enriched=True)
+            for t in tasks:
+                t["project_name"] = project["name"]
+            result["proposals"] = tasks
+
+        # Collect milestones from all projects
+        try:
+            milestones = get_milestones_for_project(project["gid"])
+            for m in milestones:
+                m["project_name"] = project["name"]
+            result["milestones"].extend(milestones)
+        except Exception:
+            continue
+
+    return result
 
 
 def format_task_summary(tasks):

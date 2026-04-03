@@ -11,6 +11,7 @@ Entry types:
   [TEAM]        - Team member context: strengths, capacity, preferences
   [CORRECTION]  - User corrections to task prioritization
   [INSIGHT]     - Forward-looking strategic observations
+  [SOURCE]      - Where recurring useful info lives (drives, channels, projects)
   [ERROR]       - Pipeline errors and data source failures
 """
 
@@ -73,7 +74,7 @@ def get_knowledge(slack_client, entry_types=None, days=None):
             for msg in result.get("messages", []):
                 text = msg.get("text", "")
                 for tag in ["PRIORITY", "PROJECT", "CLIENT", "DELIVERABLE",
-                            "TEAM", "CORRECTION", "INSIGHT", "SNAPSHOT"]:
+                            "TEAM", "CORRECTION", "INSIGHT", "SNAPSHOT", "SOURCE", "ERROR", "DEBUG"]:
                     if text.startswith(f"*[{tag}]*"):
                         if entry_types is None or tag in entry_types:
                             content = text.replace(f"*[{tag}]*\n", "", 1)
@@ -99,7 +100,7 @@ def get_knowledge_summary(slack_client):
     Returns structured context: long-term priorities, project info, corrections, insights.
     """
     # Long-term knowledge (all time): priorities, projects, clients, team
-    strategic = get_knowledge(slack_client, ["PRIORITY", "PROJECT", "CLIENT", "DELIVERABLE", "TEAM"])
+    strategic = get_knowledge(slack_client, ["PRIORITY", "PROJECT", "CLIENT", "DELIVERABLE", "TEAM", "SOURCE"])
 
     # Recent corrections and insights (last 30 days)
     recent = get_knowledge(slack_client, ["CORRECTION", "INSIGHT"], days=30)
@@ -144,16 +145,21 @@ def auto_extract_knowledge(slack_client, context_text):
         model="claude-sonnet-4-20250514",
         max_tokens=800,
         system=(
-            "You extract durable business knowledge from daily work data. "
+            "You extract durable business knowledge from daily work data for Black Swift Technologies (BST). "
             "Look for NEW information not already in the existing knowledge base. "
+            "This knowledge persists and is used in future daily briefings, so focus on durable facts. "
             "Output ONLY new findings, one per line, prefixed with the type tag:\n"
-            "  [PROJECT] - project name, dollar value, client, timeline, status\n"
-            "  [CLIENT] - client relationship signals, satisfaction, risk\n"
-            "  [DELIVERABLE] - specific deliverable with date and owner\n"
-            "  [PRIORITY] - shifts in company/team priorities and why\n"
+            "  [PROJECT] - project name, dollar value, client, timeline, status, Asana project name, "
+            "shared drive location if known. Include contract values from milestone subtasks.\n"
+            "  [CLIENT] - client relationship signals, satisfaction, risk, key contacts\n"
+            "  [DELIVERABLE] - specific deliverable with date, owner, and dollar amount if known\n"
+            "  [PRIORITY] - shifts in company/team priorities and why (from meeting notes, emails, slack)\n"
             "  [TEAM] - capacity, skills, workload observations\n"
-            "  [INSIGHT] - forward-looking strategic observations\n\n"
-            "Be specific and include dates, names, and numbers. "
+            "  [INSIGHT] - forward-looking strategic observations (upcoming contracts, proposals, "
+            "competitive intel, funding opportunities)\n"
+            "  [SOURCE] - where useful recurring info lives (e.g. 'Sales shared drive has client SOWs', "
+            "'BD Pipeline project tracks all active opportunities')\n\n"
+            "Be specific and include dates, names, dollar amounts, and Asana/Drive references. "
             "If nothing genuinely new, respond with exactly: NONE"
         ),
         messages=[{
@@ -174,7 +180,7 @@ def auto_extract_knowledge(slack_client, context_text):
         line = line.strip()
         if not line:
             continue
-        for tag in ["PROJECT", "CLIENT", "DELIVERABLE", "PRIORITY", "TEAM", "INSIGHT"]:
+        for tag in ["PROJECT", "CLIENT", "DELIVERABLE", "PRIORITY", "TEAM", "INSIGHT", "SOURCE"]:
             if line.startswith(f"[{tag}]"):
                 content = line[len(f"[{tag}]"):].strip().lstrip("-").strip()
                 if content:
