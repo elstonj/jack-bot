@@ -64,7 +64,7 @@ def get_recent_slack_messages(slack_client, user_map):
 
     # Always return diagnostic info if no messages
     if not all_messages:
-        parts = [f"[Slack: {len(channels)} channels configured, {channels_ok} readable, {channels_empty} empty in last 24h]"]
+        parts = [f"[Slack: {len(channels)} channels configured, {channels_ok} had msgs, {channels_empty} empty in last 7 days]"]
         if errors:
             parts.append(f"[Errors: {'; '.join(errors)}]")
         return " ".join(parts)

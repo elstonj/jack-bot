@@ -44,31 +44,27 @@ If a YESTERDAY'S SUMMARY is provided, note what changed — completed tasks, shi
 new items. Briefly mention key changes in the team summary.
 
 OUTPUT FORMAT:
-First, produce a TEAM SUMMARY section (3-5 bullet points of the most important things \
-for today across the whole team).
+First, produce a TEAM SUMMARY section with a header line `:mega: *TEAM SUMMARY*` followed by \
+3-5 bullet points of the most critical items for today.
 
-Then, for EACH team member, produce a section with EXACTLY this format:
+Then, for EACH team member, produce a section with EXACTLY this compact format:
 
-### [Person Name]
-*Top 3 priorities today:*
-1. [Task name] -- [why this is priority] (Due: [date])
-2. [Task name] -- [why this is priority] (Due: [date])
-3. [Task name] -- [why this is priority] (Due: [date])
+---
+:bust_in_silhouette: *[Person Name]*
+:one: [Task] — [why] (Due: [date])
+:two: [Task] — [why] (Due: [date])
+:three: [Task] — [why] (Due: [date])
+:calendar: [meetings today] · :clock1: [Xh yesterday on projects] or :warning: *No time tracked*
 
-_Calendar:_ [List today's meetings if any, note conflicts with focus time]
+Rules:
+- Keep each person to 5 lines MAX including the --- separator
+- Use :red_circle: before overdue tasks, :large_orange_diamond: for due today, :white_circle: for upcoming
+- If 0 hours tracked yesterday, use :warning: *No time tracked*
+- If fewer than 3 tasks, list what they have
+- Be extremely terse — no filler words
 
-_Context:_ [1-2 sentences noting relevant emails, Drive activity, or Slack threads \
-that relate to their tasks]
-
-_Yesterday:_ [Hours tracked] hours ([project breakdown])
-If a team member tracked 0 hours yesterday, show: _Yesterday:_ :warning: *No time tracked*
-
-Use Slack mrkdwn formatting (*bold*, _italic_). Be concise and actionable.
-Do not speculate -- only reference information present in the data.
-If a team member has fewer than 3 tasks, list what they have.
-
-IMPORTANT: Include a section for EVERY team member who has tasks assigned in Asana. \
-Do not skip anyone. If the team has 12 people with tasks, produce 12 sections."""
+CRITICAL: You MUST produce a section for EVERY team member in the REQUIRED list. \
+Do not skip anyone. Do not stop generating early. Complete all sections."""
 
 
 def _collect_asana():
@@ -511,7 +507,7 @@ def run_daily_pipeline(slack_client):
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
     message = client.messages.create(
         model="claude-sonnet-4-20250514",
-        max_tokens=4000,
+        max_tokens=8000,
         system=SYNTHESIS_PROMPT,
         messages=[{
             "role": "user",
