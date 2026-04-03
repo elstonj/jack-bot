@@ -47,24 +47,24 @@ OUTPUT FORMAT:
 First, produce a team summary with header `:mega: *TEAM SUMMARY*` followed by \
 3-5 bullet points of the most critical items for today.
 
-Then, for EACH team member, produce a section starting with ### (required for parsing). \
-Use this exact compact format:
+Then produce a section for EACH team member. Use their Slack mention (e.g. <@U12345>) as the \
+section header — NOT their plain name. Format:
 
-### [Person Name]
-:red_circle: [Overdue task] — [brief reason] (Due: [date])
-:large_orange_diamond: [Due today task] — [brief reason] (Due: [date])
-:white_circle: [Upcoming task] — [brief reason] (Due: [date])
+*<@SLACK_ID>*
+1. [Task] — [reason] (Due: [date])
+2. [Task] — [reason] (Due: [date])
+3. [Task] — [reason] (Due: [date])
 :calendar: [meetings] · :clock1: [hours] or :warning: *No time tracked*
 
 Rules:
-- Each person MAX 5 lines total
-- Use :red_circle: overdue, :large_orange_diamond: due today/this week, :white_circle: later
-- Plain text task lines, no numbered emojis
+- Each person MAX 5 lines
+- Simple numbered list
 - If 0 hours tracked: :warning: *No time tracked*
-- Be extremely terse
+- Be terse
 
-CRITICAL: Produce a ### section for EVERY person in the REQUIRED list. \
-Do not stop early. All people must be included."""
+YOU MUST PRODUCE A SECTION FOR EVERY SINGLE PERSON IN THE REQUIRED LIST BELOW. \
+There will be approximately 12 people. If you have produced fewer than 12 sections, \
+you are not done. Keep going until every required person has a section."""
 
 
 def _collect_asana():
@@ -107,7 +107,7 @@ def _collect_operations_history(slack_client):
     """Fetch recent messages from #operations for task context."""
     import time
     try:
-        oldest = str(time.time() - (14 * 86400))  # last 14 days
+        oldest = str(int(time.time() - (14 * 86400)))  # last 14 days
         result = slack_client.conversations_history(
             channel=OPERATIONS_CHANNEL, limit=100, oldest=oldest,
         )
@@ -195,30 +195,44 @@ def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, ca
     names = [u["name"] for u in users if u["name"]]
     sections.append(f"=== TEAM OVERVIEW ===\nUsers: {', '.join(names)}")
 
-    # Asana
+    # Asana — filter to assigned tasks only, prioritize by due date
     if isinstance(asana_tasks, str):
         sections.append(f"=== ASANA TASKS ===\n{asana_tasks}")
     else:
-        lines = ["=== ASANA TASKS ==="]
-        for task in asana_tasks:
-            assignee = task.get("assignee_name", "Unassigned")
-            due = task.get("due_on", "No due date")
-            project = task.get("project_name", "")
-            notes = (task.get("notes", "") or "")[:200]
-            custom = ""
-            for cf in task.get("custom_fields", []) or []:
-                if cf and cf.get("display_value"):
-                    custom += f" [{cf.get('name', '')}: {cf['display_value']}]"
-            lines.append(f"- {task['name']} | Project: {project} | Assigned: {assignee} | Due: {due}{custom}")
-            if notes:
-                lines.append(f"  Notes: {notes}")
+        assigned = [t for t in asana_tasks if t.get("assignee_name", "Unassigned") != "Unassigned"]
+        # Sort: tasks with due dates first (soonest first), then no due date
+        def sort_key(t):
+            due = t.get("due_on") or "9999-99-99"
+            return due
+        assigned.sort(key=sort_key)
+        # Limit to top 10 tasks per person to keep prompt manageable
+        from collections import defaultdict
+        per_person = defaultdict(list)
+        for t in assigned:
+            name = t.get("assignee_name")
+            if len(per_person[name]) < 10:
+                per_person[name].append(t)
+
+        lines = [f"=== ASANA TASKS ({len(assigned)} assigned, {len(asana_tasks) - len(assigned)} unassigned filtered out) ==="]
+        for person_name in sorted(per_person.keys()):
+            tasks_for_person = per_person[person_name]
+            lines.append(f"\n*{person_name}:*")
+            for task in tasks_for_person:
+                due = task.get("due_on", "No due date")
+                project = task.get("project_name", "")
+                custom = ""
+                for cf in task.get("custom_fields", []) or []:
+                    if cf and cf.get("display_value"):
+                        custom += f" [{cf.get('name', '')}: {cf['display_value']}]"
+                lines.append(f"  - {task['name']} | {project} | Due: {due}{custom}")
         sections.append("\n".join(lines))
 
-    # Key projects (BD Pipeline, Proposals, Milestones)
+    # Key projects — limit to items with due dates in next 30 days
     if key_projects and isinstance(key_projects, dict):
         if key_projects.get("bd_pipeline"):
-            lines = ["=== BD PIPELINE ==="]
-            for t in key_projects["bd_pipeline"]:
+            items = key_projects["bd_pipeline"][:20]  # top 20
+            lines = [f"=== BD PIPELINE ({len(key_projects['bd_pipeline'])} total, showing top 20) ==="]
+            for t in items:
                 custom = ""
                 for cf in t.get("custom_fields", []) or []:
                     if cf and cf.get("display_value"):
@@ -227,8 +241,9 @@ def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, ca
             sections.append("\n".join(lines))
 
         if key_projects.get("proposals"):
-            lines = ["=== PROPOSALS ==="]
-            for t in key_projects["proposals"]:
+            items = key_projects["proposals"][:15]  # top 15
+            lines = [f"=== PROPOSALS ({len(key_projects['proposals'])} total, showing top 15) ==="]
+            for t in items:
                 custom = ""
                 for cf in t.get("custom_fields", []) or []:
                     if cf and cf.get("display_value"):
@@ -237,23 +252,26 @@ def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, ca
             sections.append("\n".join(lines))
 
         if key_projects.get("milestones"):
-            lines = ["=== MILESTONES (with subtask dollar amounts) ==="]
-            for m in key_projects["milestones"]:
-                lines.append(f"- MILESTONE: {m['name']} | Project: {m.get('project_name', '')} | Due: {m.get('due_on', 'N/A')}")
-                for st in m.get("subtasks", []):
-                    custom = ""
+            # Only milestones with due dates, sorted soonest first
+            ms = [m for m in key_projects["milestones"] if m.get("due_on")]
+            ms.sort(key=lambda m: m.get("due_on", "9999"))
+            ms = ms[:15]
+            lines = [f"=== UPCOMING MILESTONES ({len(ms)} with dates) ==="]
+            for m in ms:
+                dollar_info = ""
+                for st in m.get("subtasks", [])[:3]:
                     for cf in st.get("custom_fields", []) or []:
-                        if cf and cf.get("display_value"):
-                            custom += f" [{cf.get('name', '')}: {cf['display_value']}]"
-                    lines.append(f"  - {st['name']}{custom}")
+                        if cf and cf.get("display_value") and "$" in str(cf.get("display_value", "")):
+                            dollar_info += f" ${cf['display_value']}"
+                lines.append(f"- {m['name']} | {m.get('project_name', '')} | Due: {m['due_on']}{dollar_info}")
             sections.append("\n".join(lines))
 
-    # Meeting notes
+    # Meeting notes — truncate to key points
     if meeting_notes:
         lines = ["=== RECENT ALL-HANDS MEETING NOTES ==="]
         for doc in meeting_notes:
             lines.append(f"*{doc['name']}*")
-            lines.append(doc["content"])
+            lines.append(doc["content"][:1500])  # trim to 1500 chars
         sections.append("\n".join(lines))
 
     # Operations channel history
@@ -339,27 +357,30 @@ def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, ca
 def _parse_per_user(full_summary, users):
     """Parse Claude's response into per-user sections keyed by Slack user ID."""
     per_user = {}
-    # Split on ### headers
-    parts = re.split(r"(?=^### )", full_summary, flags=re.MULTILINE)
+    # Split on any line that contains a Slack mention as a header
+    # Matches: *<@U12345>*, ### <@U12345>, --- @Name, ### Name
+    parts = re.split(r"(?=^\*?<@[A-Z0-9]+>\*?$|^---\s*@|^### )", full_summary, flags=re.MULTILINE)
     for part in parts:
-        match = re.match(r"^### (.+)", part)
-        if not match:
+        part = part.strip()
+        if not part:
             continue
-        header = match.group(1).strip()
-
-        # Try matching by Slack mention format <@UXXXXXX>
-        mention_match = re.search(r"<@([A-Z0-9]+)>", header)
+        # Try to find a Slack mention anywhere in the first line
+        first_line = part.split("\n")[0]
+        mention_match = re.search(r"<@([A-Z0-9]+)>", first_line)
         if mention_match:
             slack_id = mention_match.group(1)
-            per_user[slack_id] = part.strip()
+            per_user[slack_id] = part
             continue
 
-        # Fallback: match by name
-        for user in users:
-            if user["name"] and user["slack_user_id"]:
-                if user["name"].lower() in header.lower():
-                    per_user[user["slack_user_id"]] = part.strip()
-                    break
+        # Fallback: match --- @Name or ### Name
+        match = re.match(r"^(?:---\s*@|### )(.+)", first_line)
+        if match:
+            header = match.group(1).strip()
+            for user in users:
+                if user["name"] and user["slack_user_id"]:
+                    if user["name"].lower() in header.lower():
+                        per_user[user["slack_user_id"]] = part
+                        break
     return per_user
 
 
@@ -527,9 +548,11 @@ def run_daily_pipeline(slack_client):
             "role": "user",
             "content": (
                 f"Today's date is {date.today().isoformat()}.\n\n"
-                f"When referring to team members in the output, use their Slack mention format:\n{mention_map}\n\n"
-                f"REQUIRED: You MUST produce a ### section for each of these team members:\n{active_list}\n\n"
-                f"{full_context}"
+                f"Slack mention mapping:\n{mention_map}\n\n"
+                f"{full_context}\n\n"
+                f"===== IMPORTANT =====\n"
+                f"You MUST produce a section for ALL {len(assignees_in_asana)} of these people:\n{active_list}\n"
+                f"That means {len(assignees_in_asana)} sections total. Do not stop until all are done."
             ),
         }],
     )
@@ -538,7 +561,7 @@ def run_daily_pipeline(slack_client):
     per_user = _parse_per_user(full_summary, users)
 
     # Extract team summary (everything before the first ### section)
-    team_summary = re.split(r"(?=^### )", full_summary, maxsplit=1, flags=re.MULTILINE)
+    team_summary = re.split(r"(?=^\*?<@[A-Z0-9]+>\*?$|^---\s*@|^### )", full_summary, maxsplit=1, flags=re.MULTILINE)
     team_summary_text = team_summary[0].strip() if team_summary else full_summary
 
     set_cache(full_summary, per_user, team_summary_text)
