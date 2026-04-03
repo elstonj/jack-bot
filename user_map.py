@@ -264,8 +264,9 @@ def build_user_map(slack_client):
             if entry["asana_user_gid"]:
                 merged[email] = entry
 
-    # Filter to only users with at least a Slack ID or Asana account
-    result = [e for e in merged.values() if e.get("slack_user_id") or e.get("asana_user_gid")]
+    # Only include users who have ALL THREE: Slack, Asana, and Toggl
+    result = [e for e in merged.values()
+              if e.get("slack_user_id") and e.get("asana_user_gid") and e.get("toggl_user_id")]
     _user_map = result
     return result
 
