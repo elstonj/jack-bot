@@ -12,6 +12,7 @@ from toggl_client import get_time_summary
 from google_client import get_recent_drive_activity, get_recent_emails, get_todays_calendar, get_contacts
 from slack_data_client import get_recent_slack_messages
 from research_cache import set_cache
+from knowledge import get_knowledge_summary, auto_extract_knowledge, store_daily_snapshot
 
 SYNTHESIS_PROMPT = """\
 You are a project manager AI for a small team. You are given data from multiple sources: \
@@ -19,13 +20,22 @@ Asana tasks, time tracking (Toggl), Google Calendar, Google Drive activity, Gmai
 
 Your job is to synthesize this into a prioritized daily briefing.
 
+You also receive a COMPANY KNOWLEDGE BASE with accumulated context about projects, clients, \
+priorities, and team dynamics. Use this to inform your prioritization. If there are corrections \
+from users, respect those — they override your default reasoning.
+
 PRIORITIZATION RULES (in order of weight):
-1. OVERDUE tasks or tasks due today -- always top priority
-2. Tasks on high-dollar projects (look at custom fields or project context for $ indicators)
-3. Tasks with risk signals: mentioned blockers in Slack, client emails about deadlines, \
+1. User corrections from the knowledge base — if someone said "X is more important", honor that
+2. OVERDUE tasks or tasks due today — always top priority
+3. Tasks on high-dollar projects (use knowledge base for project $ values and client importance)
+4. Tasks with risk signals: mentioned blockers in Slack, client emails about deadlines, \
 low hours tracked vs. approaching due date
-4. Tasks where someone tracked 0 hours yesterday but has upcoming deadlines
-5. Everything else by due date proximity
+5. Tasks where someone tracked 0 hours yesterday but has upcoming deadlines
+6. Upcoming deliverables from the knowledge base
+7. Everything else by due date proximity
+
+If a YESTERDAY'S SUMMARY is provided, note what changed — completed tasks, shifted priorities, \
+new items. Briefly mention key changes in the team summary.
 
 OUTPUT FORMAT:
 First, produce a TEAM SUMMARY section (3-5 bullet points of the most important things \
@@ -247,7 +257,8 @@ def run_daily_pipeline(slack_client):
     """Run the full daily research pipeline. Returns the full summary text."""
     users = build_user_map(slack_client)
 
-    with ThreadPoolExecutor(max_workers=7) as executor:
+    # Fetch knowledge base and live data in parallel
+    with ThreadPoolExecutor(max_workers=8) as executor:
         asana_future = executor.submit(_collect_asana)
         toggl_future = executor.submit(_collect_toggl)
         drive_future = executor.submit(_collect_drive, users)
@@ -255,6 +266,7 @@ def run_daily_pipeline(slack_client):
         calendar_future = executor.submit(_collect_calendar, users)
         contacts_future = executor.submit(_collect_contacts, users)
         slack_future = executor.submit(_collect_slack, slack_client, users)
+        knowledge_future = executor.submit(get_knowledge_summary, slack_client)
 
         asana_tasks = asana_future.result()
         toggl_summary = toggl_future.result()
@@ -263,6 +275,7 @@ def run_daily_pipeline(slack_client):
         calendar_data = calendar_future.result()
         contacts = contacts_future.result()
         slack_messages = slack_future.result()
+        knowledge_context = knowledge_future.result()
 
     context = _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, calendar_data, contacts, slack_messages, users)
 
@@ -271,6 +284,11 @@ def run_daily_pipeline(slack_client):
     for user in users:
         if user["slack_user_id"] and user["name"]:
             mention_map += f"  {user['name']} = <@{user['slack_user_id']}>\n"
+
+    # Combine live data with knowledge base
+    full_context = context
+    if knowledge_context:
+        full_context = f"{knowledge_context}\n\n{context}"
 
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
     message = client.messages.create(
@@ -282,7 +300,7 @@ def run_daily_pipeline(slack_client):
             "content": (
                 f"Today's date is {date.today().isoformat()}.\n\n"
                 f"When referring to team members in the output, use their Slack mention format:\n{mention_map}\n\n"
-                f"{context}"
+                f"{full_context}"
             ),
         }],
     )
@@ -290,6 +308,16 @@ def run_daily_pipeline(slack_client):
 
     per_user = _parse_per_user(full_summary, users)
     set_cache(full_summary, per_user)
+
+    # Post-pipeline: extract new knowledge and store snapshot
+    try:
+        auto_extract_knowledge(slack_client, context)
+    except Exception:
+        pass
+    try:
+        store_daily_snapshot(slack_client, full_summary)
+    except Exception:
+        pass
 
     return full_summary
 

@@ -22,8 +22,9 @@ already know this. You occasionally mutter about how everything was better befor
 
 If someone seems new, confused, says "help", or sends a vague greeting, work into your response \
 (in character) that they can use `/weather` to get current flying conditions at the local RC \
-flying sites, or say "tasks" to see the team's prioritized Asana task list. \
-Don't just list commands like a help menu — grumble about it naturally."""
+flying sites, say "tasks" to see their prioritized task list (or "tasks all" for the team), \
+use "correct: [feedback]" to fix task priorities, or "note: [info]" to teach you something \
+about projects or priorities. Don't just list commands like a help menu — grumble about it naturally."""
 
 client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
 

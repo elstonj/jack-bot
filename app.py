@@ -9,6 +9,7 @@ from flask import Flask, request
 from weather import format_weather
 from personality import get_response
 from research_cache import get_full_summary, get_user_summary, is_stale
+from knowledge import store_correction, store_entry
 from scheduler import start_scheduler
 
 load_dotenv()
@@ -99,10 +100,21 @@ def handle_mention(event, say, client):
     text = event.get("text", "")
     message = re.sub(r"<@[A-Z0-9]+>\s*", "", text).strip()
 
-    if message.lower().startswith("weather"):
+    msg_lower = message.lower()
+    if msg_lower.startswith("weather"):
         say(format_weather())
-    elif message.lower().startswith("tasks"):
+    elif msg_lower.startswith("tasks"):
         handle_tasks_command(say, message, event["user"])
+    elif msg_lower.startswith("correct:") or msg_lower.startswith("correction:"):
+        correction = re.sub(r"^correct(?:ion)?:\s*", "", message, flags=re.IGNORECASE)
+        user_name = resolve_user_name(client, event["user"])
+        store_correction(client, user_name, correction)
+        say(f"Got it. I'll factor that into future prioritization.")
+    elif msg_lower.startswith("note:") or msg_lower.startswith("remember:"):
+        note = re.sub(r"^(?:note|remember):\s*", "", message, flags=re.IGNORECASE)
+        entry_type = "PRIORITY" if any(w in msg_lower for w in ["priority", "important", "focus"]) else "INSIGHT"
+        store_entry(client, entry_type, note)
+        say(f"Noted. Stored as [{entry_type}] in the knowledge base.")
     else:
         user_name = resolve_user_name(client, event["user"])
         history = fetch_history(client, event["channel"])
@@ -118,10 +130,21 @@ def handle_dm(event, say, client):
         return
     text = event.get("text", "").strip()
 
-    if text.lower().startswith("weather"):
+    text_lower = text.lower()
+    if text_lower.startswith("weather"):
         say(format_weather())
-    elif text.lower().startswith("tasks"):
+    elif text_lower.startswith("tasks"):
         handle_tasks_command(say, text, event["user"])
+    elif text_lower.startswith("correct:") or text_lower.startswith("correction:"):
+        correction = re.sub(r"^correct(?:ion)?:\s*", "", text, flags=re.IGNORECASE)
+        user_name = resolve_user_name(client, event["user"])
+        store_correction(client, user_name, correction)
+        say(f"Got it. I'll factor that into future prioritization.")
+    elif text_lower.startswith("note:") or text_lower.startswith("remember:"):
+        note = re.sub(r"^(?:note|remember):\s*", "", text, flags=re.IGNORECASE)
+        entry_type = "PRIORITY" if any(w in text_lower for w in ["priority", "important", "focus"]) else "INSIGHT"
+        store_entry(client, entry_type, note)
+        say(f"Noted. Stored as [{entry_type}] in the knowledge base.")
     else:
         user_name = resolve_user_name(client, event["user"])
         history = fetch_history(client, event["channel"])
