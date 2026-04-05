@@ -2,6 +2,7 @@ import os
 import re
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime
+from pathlib import Path
 from zoneinfo import ZoneInfo
 
 import anthropic
@@ -13,6 +14,8 @@ from google_client import get_recent_drive_activity, get_recent_emails, get_toda
 from slack_data_client import get_recent_slack_messages
 from research_cache import set_cache
 from knowledge import get_knowledge_summary, auto_extract_knowledge, store_daily_snapshot, store_entry, get_knowledge
+
+KNOWLEDGE_DIR = Path(__file__).parent / "knowledge"
 
 # Operations channel for previous task summaries
 OPERATIONS_CHANNEL = "C015QR6P5S4"
@@ -384,6 +387,133 @@ def _parse_per_user(full_summary, users):
     return per_user
 
 
+def _has_knowledge_files():
+    """Check whether pre-distilled knowledge files are available."""
+    # Require at least the contacts directory and toggl summary to consider
+    # knowledge files usable.  asana/summary.md may not exist yet.
+    return (
+        (KNOWLEDGE_DIR / "contacts" / "directory.md").exists()
+        and (KNOWLEDGE_DIR / "toggl" / "summary.md").exists()
+    )
+
+
+def _read_file(path, max_chars=None):
+    """Read a file and return its contents, or empty string on failure."""
+    try:
+        text = Path(path).read_text()
+        if max_chars:
+            text = text[:max_chars]
+        return text
+    except Exception:
+        return ""
+
+
+def _load_knowledge_context(users=None):
+    """Load pre-distilled knowledge files into a compact context string.
+
+    This replaces the expensive live-fetch of historical data (full Asana
+    project lists, all Toggl history, full contacts list, Drive inventory)
+    with pre-scanned summaries that are much smaller.
+
+    Only summaries and team-relevant per-person files are loaded — not every
+    single project file.
+    """
+    sections = []
+
+    # --- Asana strategic overview ---
+    asana_summary = _read_file(KNOWLEDGE_DIR / "asana" / "summary.md")
+    if asana_summary:
+        sections.append(f"=== KNOWLEDGE: ASANA STRATEGIC OVERVIEW ===\n{asana_summary}")
+    else:
+        # Fall back to loading a handful of key project files for context
+        proj_dir = KNOWLEDGE_DIR / "asana" / "projects"
+        if proj_dir.exists():
+            key_files = ["001-13_bd_pipeline.md", "001-13_proposals.md",
+                         "view_major_milestones_tasks.md",
+                         "001-13_corporate_strategic_planning.md"]
+            loaded = []
+            for fname in key_files:
+                text = _read_file(proj_dir / fname, max_chars=2000)
+                if text:
+                    loaded.append(text)
+            if loaded:
+                sections.append(
+                    "=== KNOWLEDGE: KEY ASANA PROJECTS ===\n"
+                    + "\n---\n".join(loaded)
+                )
+
+    # --- Toggl overview ---
+    toggl_summary = _read_file(KNOWLEDGE_DIR / "toggl" / "summary.md")
+    if toggl_summary:
+        sections.append(f"=== KNOWLEDGE: TIME TRACKING OVERVIEW ===\n{toggl_summary}")
+
+    # --- Per-person Toggl (only for users in the current team) ---
+    if users:
+        person_dir = KNOWLEDGE_DIR / "toggl" / "by_person"
+        if person_dir.exists():
+            person_snippets = []
+            for u in users:
+                name = u.get("name", "")
+                if not name:
+                    continue
+                # Try a few filename patterns
+                candidates = [
+                    name.lower().replace(" ", "_") + ".md",
+                    name.split()[0].lower() + ".md" if " " in name else None,
+                ]
+                for cand in candidates:
+                    if cand and (person_dir / cand).exists():
+                        text = _read_file(person_dir / cand, max_chars=1500)
+                        if text:
+                            person_snippets.append(text)
+                        break
+            if person_snippets:
+                sections.append(
+                    "=== KNOWLEDGE: TEAM TIME PATTERNS ===\n"
+                    + "\n---\n".join(person_snippets)
+                )
+
+    # --- Team directory ---
+    directory = _read_file(KNOWLEDGE_DIR / "contacts" / "directory.md")
+    if directory:
+        sections.append(f"=== KNOWLEDGE: BST TEAM DIRECTORY ===\n{directory}")
+
+    # --- External contacts (truncated) ---
+    external = _read_file(KNOWLEDGE_DIR / "contacts" / "external.md", max_chars=3000)
+    if external:
+        sections.append(f"=== KNOWLEDGE: KEY EXTERNAL CONTACTS ===\n{external}")
+
+    # --- Slack channel summaries ---
+    slack_dir = KNOWLEDGE_DIR / "slack"
+    if slack_dir.exists():
+        slack_parts = []
+        for f in sorted(slack_dir.glob("*.md")):
+            text = _read_file(f, max_chars=1500)
+            if text:
+                slack_parts.append(text)
+        if slack_parts:
+            sections.append(
+                "=== KNOWLEDGE: SLACK CHANNEL CONTEXT ===\n"
+                + "\n---\n".join(slack_parts)
+            )
+
+    # --- Email patterns ---
+    email_dir = KNOWLEDGE_DIR / "email"
+    if email_dir.exists():
+        email_parts = []
+        for f in sorted(email_dir.glob("*.md")):
+            text = _read_file(f, max_chars=1000)
+            if text:
+                email_parts.append(text)
+        if email_parts:
+            sections.append(
+                "=== KNOWLEDGE: EMAIL PATTERNS ===\n"
+                + "\n---\n".join(email_parts)
+            )
+
+    return "\n\n".join(sections)
+
+
 def run_daily_pipeline(slack_client):
     """Run the full daily research pipeline. Returns the full summary text."""
     errors = []
@@ -427,6 +557,12 @@ def run_daily_pipeline(slack_client):
     except Exception as e:
         store_entry(slack_client, "DEBUG", f"Knowledge channel error: {e}")
 
+    # Determine whether pre-distilled knowledge files are available.
+    # When they are, we skip expensive historical fetches (full contacts,
+    # full Drive inventory, meeting notes) and rely on the knowledge layer
+    # for that context.  We still fetch LIVE / time-sensitive data every run.
+    use_knowledge_files = _has_knowledge_files()
+
     # Get known file IDs from knowledge base to skip already-processed files
     known_file_ids = None
     try:
@@ -436,52 +572,91 @@ def run_daily_pipeline(slack_client):
     except Exception:
         pass
 
-    # Fetch knowledge base and live data in parallel
+    # ------------------------------------------------------------------
+    # Fetch data in parallel.
+    # ALWAYS fetched (time-sensitive / live delta):
+    #   - Asana tasks (current state of assignments & due dates)
+    #   - Toggl (yesterday's hours)
+    #   - Calendar (today's meetings)
+    #   - Gmail (last 24h subject lines)
+    #   - Slack (last 24h messages)
+    #   - Operations channel (recent context)
+    #   - Slack knowledge channel (user corrections / priorities)
+    # SKIPPED when knowledge files exist (historical / slow-changing):
+    #   - Key projects (BD pipeline, proposals, milestones) — covered by
+    #     knowledge/asana/projects/*.md
+    #   - Contacts — covered by knowledge/contacts/*.md
+    #   - Drive activity — covered by knowledge/drive/*.md
+    #   - Meeting notes — covered by knowledge/slack/*.md context
+    # ------------------------------------------------------------------
     with ThreadPoolExecutor(max_workers=12) as executor:
+        # Always-live futures
         asana_future = executor.submit(_collect_asana)
-        key_projects_future = executor.submit(_collect_key_projects)
         toggl_future = executor.submit(_collect_toggl)
-        drive_future = executor.submit(_collect_drive, users, known_file_ids)
-        meeting_notes_future = executor.submit(_collect_meeting_notes, users)
         gmail_future = executor.submit(_collect_gmail, users)
         calendar_future = executor.submit(_collect_calendar, users)
-        contacts_future = executor.submit(_collect_contacts, users)
         slack_future = executor.submit(_collect_slack, slack_client, users)
         ops_future = executor.submit(_collect_operations_history, slack_client)
         knowledge_future = executor.submit(get_knowledge_summary, slack_client)
 
+        # Conditionally-live futures (skipped when knowledge files exist)
+        key_projects_future = None
+        drive_future = None
+        meeting_notes_future = None
+        contacts_future = None
+        if not use_knowledge_files:
+            key_projects_future = executor.submit(_collect_key_projects)
+            drive_future = executor.submit(_collect_drive, users, known_file_ids)
+            meeting_notes_future = executor.submit(_collect_meeting_notes, users)
+            contacts_future = executor.submit(_collect_contacts, users)
+
+        # Collect results — always-live
         asana_tasks = asana_future.result()
-        key_projects = key_projects_future.result()
         toggl_summary = toggl_future.result()
-        drive_activity = drive_future.result()
-        meeting_notes = meeting_notes_future.result()
         gmail_data = gmail_future.result()
         calendar_data = calendar_future.result()
-        contacts = contacts_future.result()
         slack_messages = slack_future.result()
         operations_history = ops_future.result()
         knowledge_context = knowledge_future.result()
 
+        # Collect results — conditional
+        key_projects = key_projects_future.result() if key_projects_future else {}
+        drive_activity = drive_future.result() if drive_future else {}
+        meeting_notes = meeting_notes_future.result() if meeting_notes_future else []
+        contacts = contacts_future.result() if contacts_future else []
+
+    # Load pre-distilled knowledge context (empty string if files missing)
+    distilled_context = ""
+    if use_knowledge_files:
+        try:
+            distilled_context = _load_knowledge_context(users)
+        except Exception as e:
+            errors.append(f"[Knowledge files load error: {e}]")
+
     # Log data source results
     try:
-        data_lines = ["Data sources:"]
+        data_lines = [f"Data sources (knowledge_files={'ON' if use_knowledge_files else 'OFF'}):"]
         if isinstance(asana_tasks, list):
             data_lines.append(f"  Asana: {len(asana_tasks)} tasks")
             assignees = set(t.get("assignee_name", "?") for t in asana_tasks)
             data_lines.append(f"  Asana assignees: {', '.join(assignees)}")
         else:
             data_lines.append(f"  Asana: {asana_tasks}")
-        if isinstance(key_projects, dict):
+        if isinstance(key_projects, dict) and key_projects:
             data_lines.append(f"  BD Pipeline: {len(key_projects.get('bd_pipeline', []))} items")
             data_lines.append(f"  Proposals: {len(key_projects.get('proposals', []))} items")
             data_lines.append(f"  Milestones: {len(key_projects.get('milestones', []))} items")
+        elif use_knowledge_files:
+            data_lines.append("  BD/Proposals/Milestones: using knowledge files")
         data_lines.append(f"  Toggl: {type(toggl_summary).__name__} - {toggl_summary if isinstance(toggl_summary, str) else f'{len(toggl_summary)} users'}")
-        data_lines.append(f"  Drive: {len(drive_activity)} users with activity")
-        data_lines.append(f"  Meeting notes: {len(meeting_notes)} docs")
+        data_lines.append(f"  Drive: {'knowledge files' if use_knowledge_files else f'{len(drive_activity)} users with activity'}")
+        data_lines.append(f"  Meeting notes: {'knowledge files' if use_knowledge_files else f'{len(meeting_notes)} docs'}")
         data_lines.append(f"  Gmail: {len(gmail_data)} users with emails")
         data_lines.append(f"  Calendar: {len(calendar_data)} users with events")
         data_lines.append(f"  Operations: {len(operations_history)} messages")
         data_lines.append(f"  Slack: {len(slack_messages) if isinstance(slack_messages, list) else slack_messages}")
+        if distilled_context:
+            data_lines.append(f"  Knowledge context: {len(distilled_context)} chars")
         store_entry(slack_client, "DEBUG", "\n".join(data_lines))
     except Exception:
         pass
@@ -493,8 +668,9 @@ def run_daily_pipeline(slack_client):
         errors.append(toggl_summary)
     if isinstance(slack_messages, str) and "unavailable" in slack_messages:
         errors.append(slack_messages)
-    if not drive_activity:
-        errors.append("[Google Drive returned no data]")
+    if not use_knowledge_files:
+        if not drive_activity:
+            errors.append("[Google Drive returned no data]")
     if not gmail_data:
         errors.append("[Gmail returned no data]")
     if not calendar_data:
@@ -534,10 +710,12 @@ def run_daily_pipeline(slack_client):
     for name in sorted(assignees_in_asana):
         active_list += f"  - {name}\n"
 
-    # Combine live data with knowledge base
+    # Combine: distilled knowledge + Slack knowledge channel + live data
     full_context = context
+    if distilled_context:
+        full_context = f"{distilled_context}\n\n{full_context}"
     if knowledge_context:
-        full_context = f"{knowledge_context}\n\n{context}"
+        full_context = f"{knowledge_context}\n\n{full_context}"
 
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
     message = client.messages.create(
@@ -586,6 +764,13 @@ def run_daily_pipeline(slack_client):
         store_daily_snapshot(slack_client, full_summary)
     except Exception:
         pass
+
+    # TODO: Trigger incremental knowledge scan after pipeline completes.
+    # This should update knowledge/ files with any new data discovered
+    # during this run (new Asana tasks, new Toggl entries, new Slack
+    # messages since last scan).  For now the scan.py scanner runs
+    # separately; integrate a lightweight "since last scan" update here
+    # once the scanner supports incremental mode.
 
     return full_summary
 

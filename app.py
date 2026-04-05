@@ -10,6 +10,7 @@ from weather import format_weather
 from personality import get_response
 from research_cache import get_full_summary, get_user_summary, get_team_summary, get_per_user_sections, is_stale
 from knowledge import store_correction, store_entry
+from knowledge_qa import answer_question
 from scheduler import start_scheduler
 
 load_dotenv()
@@ -63,6 +64,37 @@ def handle_refresh_tasks(ack, respond, client, command):
                 pass
 
     threading.Thread(target=_run, daemon=True).start()
+
+
+QUESTION_PREFIXES = ("ask:", "question:", "q:")
+QUESTION_STARTERS = (
+    "who", "what", "when", "where", "how", "which",
+    "can", "does", "is", "are", "has", "have",
+)
+
+
+def is_question(text):
+    """Return True if the message should be routed to knowledge Q&A."""
+    lower = text.lower().strip()
+    # Explicit Q&A prefix
+    if any(lower.startswith(p) for p in QUESTION_PREFIXES):
+        return True
+    # Contains a question mark
+    if "?" in text:
+        return True
+    # Starts with a question word
+    first_word = lower.split()[0] if lower.split() else ""
+    if first_word in QUESTION_STARTERS:
+        return True
+    return False
+
+
+def strip_qa_prefix(text):
+    """Remove ask:/question:/q: prefix if present."""
+    for prefix in QUESTION_PREFIXES:
+        if text.lower().startswith(prefix):
+            return text[len(prefix):].strip()
+    return text
 
 
 def resolve_user_name(client, user_id):
@@ -131,6 +163,9 @@ def handle_mention(event, say, client):
         entry_type = "PRIORITY" if any(w in msg_lower for w in ["priority", "important", "focus"]) else "INSIGHT"
         store_entry(client, entry_type, note)
         say(f"Noted. Stored as [{entry_type}] in the knowledge base.")
+    elif is_question(message):
+        question = strip_qa_prefix(message)
+        say(answer_question(question, slack_client=client))
     else:
         user_name = resolve_user_name(client, event["user"])
         history = fetch_history(client, event["channel"])
@@ -161,6 +196,9 @@ def handle_dm(event, say, client):
         entry_type = "PRIORITY" if any(w in text_lower for w in ["priority", "important", "focus"]) else "INSIGHT"
         store_entry(client, entry_type, note)
         say(f"Noted. Stored as [{entry_type}] in the knowledge base.")
+    elif is_question(text):
+        question = strip_qa_prefix(text)
+        say(answer_question(question, slack_client=client))
     else:
         user_name = resolve_user_name(client, event["user"])
         history = fetch_history(client, event["channel"])
