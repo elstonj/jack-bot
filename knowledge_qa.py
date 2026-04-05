@@ -21,7 +21,19 @@ Rules:
 - Keep answers concise for Slack — under 500 words
 - Use Slack formatting: *bold* for emphasis, bullet points with • for lists
 - Do not invent or assume information not present in the files
-- When referencing projects, include the project number (e.g. 001-07)"""
+- When referencing projects, include the project number (e.g. 001-07)
+
+You have access to several types of knowledge:
+- *Proposals & Reports*: Distilled BST proposals, technical reports, and white papers. Use these \
+to describe BST products (S2, S3, SwiftCore, MultiScat, AeroPod), capabilities, proposed uses, \
+and technical approaches. When asked to write in BST's tone or cite examples, draw from these.
+- *Budget data (Drive)*: Proposed/approved budgets, CLINs, contract values, invoices from Drive docs. \
+These show what was planned and contracted.
+- *QuickBooks actuals*: Real transaction data — invoices sent, bills paid, purchases, POs. \
+These show what was actually spent and received.
+- When asked about budget status, combine all three: proposed budget (from proposals/budgets), \
+approved/contracted amount (from budget docs), and actual spend (from QuickBooks). Calculate \
+remaining budget as: approved amount minus QuickBooks expenses. Flag if data is incomplete."""
 
 # Approximate tokens as chars/4
 MAX_CONTEXT_CHARS = 200_000  # ~50k tokens
@@ -130,6 +142,53 @@ def _match_email_files(question_lower):
     return matches
 
 
+def _match_financial_files(question_lower):
+    """Find budget and QuickBooks files matching project codes or keywords in the question."""
+    matches = []
+    # Extract project codes like 200-11, 550-1 from the question
+    project_codes = re.findall(r'(\d{3}-\d{1,2})', question_lower)
+
+    # Search budget files
+    budget_dir = os.path.join(KNOWLEDGE_DIR, "budgets")
+    if os.path.isdir(budget_dir):
+        for fpath in sorted(glob.glob(os.path.join(budget_dir, "*.md"))):
+            fname = os.path.basename(fpath).lower()
+            for code in project_codes:
+                if code.replace("-", "_") in fname:
+                    matches.append(fpath)
+                    break
+
+    # Search QuickBooks by_project files
+    qbo_dir = os.path.join(KNOWLEDGE_DIR, "quickbooks", "by_project")
+    if os.path.isdir(qbo_dir):
+        for fpath in sorted(glob.glob(os.path.join(qbo_dir, "*.md"))):
+            fname = os.path.basename(fpath).lower().replace(".md", "").replace("_", " ").replace("-", " ")
+            # Match by project code
+            for code in project_codes:
+                if code.replace("-", "_") in fname or code.replace("-", " ") in fname:
+                    matches.append(fpath)
+                    break
+            else:
+                # Also match by keyword
+                words = [w for w in re.findall(r'[a-z0-9]+', question_lower) if len(w) >= 3]
+                for word in words:
+                    if word in fname:
+                        matches.append(fpath)
+                        break
+
+    # Search proposal files for product/capability questions
+    proposals_dir = os.path.join(KNOWLEDGE_DIR, "proposals")
+    if os.path.isdir(proposals_dir):
+        for fpath in sorted(glob.glob(os.path.join(proposals_dir, "*.md"))):
+            fname = os.path.basename(fpath).lower().replace(".md", "").replace("_", " ").replace("-", " ")
+            for code in project_codes:
+                if code.replace("-", "_") in fname or code.replace("-", " ") in fname:
+                    matches.append(fpath)
+                    break
+
+    return matches
+
+
 def select_files(question):
     """Determine which knowledge files are relevant to the question."""
     q = question.lower()
@@ -183,6 +242,20 @@ def select_files(question):
         else:
             files.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "slack", "*.md"))))
 
+    # Proposals / reports / products / capabilities
+    proposal_keywords = ["proposal", "rfp", "rfi", "report", "deliverable", "white paper",
+                         "capability", "capabilities", "product", "s2", "s3", "swiftcore",
+                         "multiscat", "aeropod", "proposed use", "arctic", "volcano",
+                         "hurricane", "methane", "machine vision", "conops", "concept",
+                         "technical approach", "cite", "example", "tone", "paragraph",
+                         "describe", "description", "what is", "what has", "what can",
+                         "been used for", "been proposed"]
+    if any(kw in q for kw in proposal_keywords):
+        catalog = os.path.join(KNOWLEDGE_DIR, "proposals", "catalog.md")
+        if os.path.exists(catalog):
+            files.append(catalog)
+        files.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "proposals", "*.md"))))
+
     # Drive / documents
     drive_keywords = ["drive", "file", "document", "folder", "shared", "google drive"]
     if any(kw in q for kw in drive_keywords):
@@ -197,10 +270,35 @@ def select_files(question):
         else:
             files.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "email", "*.md"))))
 
-    # Budget / contract / money
+    # Budget / contract / money / financials
     budget_keywords = ["budget", "contract", "dollar", "money", "value", "cost",
-                       "funding", "revenue", "invoice", "price", "proposal"]
+                       "funding", "revenue", "invoice", "price", "expense",
+                       "spending", "spend", "burn rate", "remaining",
+                       "purchase order", "po ", "p.o.", "clin",
+                       "quickbooks", "qbo", "financial", "billing",
+                       "approved budget", "proposed budget", "current budget"]
     if any(kw in q for kw in budget_keywords):
+        # Prefer merged financial index files (cross-referenced data)
+        fin_overview = os.path.join(KNOWLEDGE_DIR, "financial", "overview.md")
+        if os.path.exists(fin_overview):
+            files.append(fin_overview)
+        fin_project_dir = os.path.join(KNOWLEDGE_DIR, "financial", "by_project")
+        if os.path.isdir(fin_project_dir):
+            files.extend(sorted(glob.glob(os.path.join(fin_project_dir, "*.md"))))
+
+        # Also load raw source summaries for additional context
+        budget_summary = os.path.join(KNOWLEDGE_DIR, "budgets", "summary.md")
+        if os.path.exists(budget_summary):
+            files.append(budget_summary)
+        qbo_summary = os.path.join(KNOWLEDGE_DIR, "quickbooks", "summary.md")
+        if os.path.exists(qbo_summary):
+            files.append(qbo_summary)
+
+        # Load raw per-source files for project-specific queries
+        files.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "budgets", "*.md"))))
+        files.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "quickbooks", "by_project", "*.md"))))
+
+        # Also load Asana project context
         summary = os.path.join(KNOWLEDGE_DIR, "asana", "summary.md")
         if os.path.exists(summary):
             files.append(summary)
@@ -220,10 +318,11 @@ def select_files(question):
         # Also check slack for matching project channels
         files.extend(_match_slack_files(q))
 
-    # Always try name-based matching on project files and toggl for specific lookups
+    # Always try name-based matching on project files, toggl, and financials for specific lookups
     files.extend(_match_project_files(q))
     files.extend(_match_toggl_files(q))
     files.extend(_match_email_files(q))
+    files.extend(_match_financial_files(q))
 
     # --- Fallback: if nothing matched, load summaries from each source ---
     if not files:

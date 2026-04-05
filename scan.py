@@ -37,7 +37,7 @@ if env_path.exists():
                 os.environ[key] = value
 
 
-AVAILABLE_SOURCES = ["asana", "toggl", "contacts", "slack", "email", "drive"]
+AVAILABLE_SOURCES = ["asana", "toggl", "contacts", "slack", "email", "drive", "proposals", "budgets", "quickbooks", "financial"]
 
 
 def scan_asana(mode):
@@ -160,6 +160,66 @@ def scan_drive(mode):
         print(f"  {name}: {count} files → {path.name}")
 
 
+def scan_budgets(mode):
+    from scanners.budget_scanner import scan_all
+    print(f"\n{'='*60}")
+    print(f"BUDGET SCAN — mode: {mode}")
+    print(f"{'='*60}\n")
+
+    start = time.time()
+    results = scan_all(mode=mode)
+    elapsed = time.time() - start
+
+    print(f"\nBudget scan complete: {len(results)} projects in {elapsed:.0f}s")
+    for code, doc_count, path in results:
+        print(f"  {code}: {doc_count} docs → {path.name}")
+
+
+def scan_quickbooks(mode):
+    from scanners.quickbooks_scanner import scan_all
+    print(f"\n{'='*60}")
+    print(f"QUICKBOOKS SCAN — mode: {mode}")
+    print(f"{'='*60}\n")
+
+    start = time.time()
+    results = scan_all(mode=mode)
+    elapsed = time.time() - start
+
+    print(f"\nQuickBooks scan complete: {len(results)} projects in {elapsed:.0f}s")
+    for cls_name, txn_count, path in results:
+        print(f"  {cls_name}: {txn_count} transactions → {path.name}")
+
+
+def scan_financial(mode):
+    from scanners.financial_index import build_index
+    print(f"\n{'='*60}")
+    print(f"FINANCIAL INDEX — cross-referencing all sources")
+    print(f"{'='*60}\n")
+
+    start = time.time()
+    results = build_index()
+    elapsed = time.time() - start
+
+    print(f"\nFinancial index complete: {len(results)} projects in {elapsed:.0f}s")
+    for code, path in results:
+        print(f"  {code} → {path.name}")
+
+
+def scan_proposals(mode):
+    from scanners.proposals_scanner import scan_all
+    print(f"\n{'='*60}")
+    print(f"PROPOSALS SCAN — mode: {mode}")
+    print(f"{'='*60}\n")
+
+    start = time.time()
+    results = scan_all(mode=mode)
+    elapsed = time.time() - start
+
+    print(f"\nProposals scan complete: {len(results)} documents in {elapsed:.0f}s")
+    for name, char_count, path in results:
+        print(f"  {name}: {char_count} chars → {path.name}")
+
+
 SCANNERS = {
     "asana": scan_asana,
     "toggl": scan_toggl,
@@ -167,6 +227,10 @@ SCANNERS = {
     "slack": scan_slack,
     "email": scan_email,
     "drive": scan_drive,
+    "proposals": scan_proposals,
+    "budgets": scan_budgets,
+    "quickbooks": scan_quickbooks,
+    "financial": scan_financial,
 }
 
 
@@ -199,6 +263,15 @@ def main():
         "slack": {"SLACK_BOT_TOKEN": "Slack API"},
         "email": {"GOOGLE_SERVICE_ACCOUNT_JSON": "Google API"},
         "drive": {"GOOGLE_SERVICE_ACCOUNT_JSON": "Google API"},
+        "proposals": {"GOOGLE_SERVICE_ACCOUNT_JSON": "Google API"},
+        "budgets": {"GOOGLE_SERVICE_ACCOUNT_JSON": "Google API"},
+        "quickbooks": {
+            "QUICKBOOKS_CLIENT_ID": "QuickBooks OAuth",
+            "QUICKBOOKS_CLIENT_SECRET": "QuickBooks OAuth",
+            "QUICKBOOKS_REFRESH_TOKEN": "QuickBooks OAuth",
+            "QUICKBOOKS_REALM_ID": "QuickBooks company ID",
+        },
+        "financial": {},  # reads other scanner outputs, no external API needed
     }
 
     sources = AVAILABLE_SOURCES if args.source == "all" else [args.source]

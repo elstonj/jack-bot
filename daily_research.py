@@ -511,6 +511,24 @@ def _load_knowledge_context(users=None):
                 + "\n---\n".join(email_parts)
             )
 
+    # --- Financial overview (merged cross-referenced data) ---
+    fin_overview = _read_file(KNOWLEDGE_DIR / "financial" / "overview.md", max_chars=4000)
+    if fin_overview:
+        sections.append(f"=== KNOWLEDGE: FINANCIAL HEALTH OVERVIEW ===\n{fin_overview}")
+    else:
+        # Fall back to raw source summaries if financial index hasn't been built
+        budget_summary = _read_file(KNOWLEDGE_DIR / "budgets" / "summary.md", max_chars=3000)
+        if budget_summary:
+            sections.append(f"=== KNOWLEDGE: PROJECT BUDGETS ===\n{budget_summary}")
+        qbo_summary = _read_file(KNOWLEDGE_DIR / "quickbooks" / "summary.md", max_chars=3000)
+        if qbo_summary:
+            sections.append(f"=== KNOWLEDGE: QUICKBOOKS FINANCIALS ===\n{qbo_summary}")
+
+    # --- Proposals catalog ---
+    proposals_catalog = _read_file(KNOWLEDGE_DIR / "proposals" / "catalog.md", max_chars=3000)
+    if proposals_catalog:
+        sections.append(f"=== KNOWLEDGE: PROPOSALS & REPORTS CATALOG ===\n{proposals_catalog}")
+
     return "\n\n".join(sections)
 
 
