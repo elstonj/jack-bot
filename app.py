@@ -232,7 +232,7 @@ def route_message(message, say, client, user_id, channel_id):
         say("Got it, noted for future reference.")
     elif is_question(message):
         question = strip_qa_prefix(message)
-        say(answer_question(question, slack_client=client))
+        say(answer_question(question, slack_client=client, channel_id=channel_id))
     else:
         user_name = resolve_user_name(client, user_id)
         history = fetch_history(client, channel_id)
