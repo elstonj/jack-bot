@@ -171,12 +171,9 @@ def route_message(message, say, client, user_id, channel_id):
     elif msg_lower.startswith("tasks"):
         handle_tasks_command(say, message, user_id)
     elif msg_lower in ("company finances", "company financial", "all finances"):
-        from finances import OVERVIEW_PATH
+        from finances import OVERVIEW_PATH, _summarize_for_slack
         if OVERVIEW_PATH.exists():
-            content = OVERVIEW_PATH.read_text()
-            if len(content) > 3800:
-                content = content[:3800] + "\n\n_(truncated)_"
-            say(content)
+            say(_summarize_for_slack(OVERVIEW_PATH.read_text()))
         else:
             say("No company financial overview available yet.")
     elif msg_lower.startswith(("finances", "financial")):
