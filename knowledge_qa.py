@@ -383,28 +383,50 @@ def _build_context(files):
     return "\n".join(context_parts)
 
 
-def _search_gmail(question, max_results=10):
-    """Deep search Gmail for relevant email content as a fallback.
+SEARCH_PLAN_PROMPT = """\
+You are deciding which live data sources to search to answer a question about \
+Black Swift Technologies (BST). The pre-scanned knowledge files didn't have \
+enough information.
 
-    Searches email bodies (not just subjects) across BST team members.
-    Returns formatted email snippets or empty string if nothing found.
-    """
+Available sources and what they're good for:
+- gmail: Email threads, conversations with external contacts, contract discussions, \
+  meeting follow-ups. Search by keyword.
+- slack: Channel messages, internal discussions, decisions, status updates. Search by keyword.
+- calendar: Today's meetings, who is meeting with whom, scheduled events.
+- asana: Current task assignments, project status, who is working on what.
+
+Given the question and the partial answer from knowledge files, output a JSON object with:
+- "sources": list of source names to search (e.g. ["gmail", "slack"])
+- "query": the search keywords to use (3-5 most relevant terms, no stopwords)
+- "reason": one-line explanation of what you're looking for
+
+Output ONLY the JSON object, nothing else."""
+
+
+def _plan_live_search(question, partial_answer):
+    """Ask Claude which live sources to search and what query to use."""
+    try:
+        response = client.messages.create(
+            model="claude-haiku-4-5-20251001",
+            max_tokens=200,
+            system=SEARCH_PLAN_PROMPT,
+            messages=[{"role": "user", "content": (
+                f"Question: {question}\n\n"
+                f"Partial answer from knowledge files: {partial_answer[:500]}"
+            )}],
+        )
+        import json
+        return json.loads(response.content[0].text)
+    except Exception:
+        return None
+
+
+def _search_gmail(query, max_results=5):
+    """Search Gmail for relevant emails."""
     try:
         from google_client import _get_credentials
         from googleapiclient.discovery import build as gbuild
 
-        # Build a Gmail search query from the question keywords
-        stopwords = {"the", "and", "for", "are", "but", "not", "you", "all", "can",
-                     "has", "how", "what", "when", "where", "which", "who", "why",
-                     "does", "this", "that", "with", "from", "have", "about", "should",
-                     "would", "could", "talk", "need", "want"}
-        words = [w for w in re.findall(r'[a-z0-9]+', question.lower())
-                 if len(w) >= 3 and w not in stopwords]
-        if not words:
-            return ""
-
-        gmail_query = " ".join(words[:5])  # top 5 keywords
-        # Search from a leadership email that likely has relevant threads
         admin_email = os.environ.get("GOOGLE_ADMIN_EMAIL", "elstonj@blackswifttech.com")
         creds = _get_credentials(admin_email)
         if not creds:
@@ -412,7 +434,7 @@ def _search_gmail(question, max_results=10):
 
         service = gbuild("gmail", "v1", credentials=creds)
         results = service.users().messages().list(
-            userId="me", q=gmail_query, maxResults=max_results
+            userId="me", q=query, maxResults=max_results
         ).execute()
 
         messages = results.get("messages", [])
@@ -432,22 +454,124 @@ def _search_gmail(question, max_results=10):
                 f"To: {headers.get('To', '?')}\n"
                 f"Subject: {headers.get('Subject', '?')}\n"
                 f"Date: {headers.get('Date', '?')}\n"
-                f"Snippet: {snippet}\n"
+                f"Snippet: {snippet}"
             )
-
-        if snippets:
-            return "=== GMAIL SEARCH RESULTS ===\n" + "\n---\n".join(snippets)
-        return ""
+        return "=== GMAIL SEARCH RESULTS ===\n" + "\n---\n".join(snippets)
     except Exception:
         return ""
 
 
+def _search_slack(query, slack_client):
+    """Search Slack messages across channels."""
+    try:
+        result = slack_client.search_messages(query=query, count=10, sort="timestamp")
+        messages = result.get("messages", {}).get("matches", [])
+        if not messages:
+            return ""
+
+        snippets = []
+        for msg in messages[:8]:
+            ch = msg.get("channel", {}).get("name", "?")
+            user = msg.get("username", "?")
+            text = msg.get("text", "")[:300]
+            ts = msg.get("ts", "")
+            snippets.append(f"#{ch} | {user}: {text}")
+        return "=== SLACK SEARCH RESULTS ===\n" + "\n".join(snippets)
+    except Exception:
+        return ""
+
+
+def _search_calendar(query):
+    """Search today's calendar for relevant meetings."""
+    try:
+        from google_client import get_todays_calendar
+        admin_email = os.environ.get("GOOGLE_ADMIN_EMAIL", "elstonj@blackswifttech.com")
+        events = get_todays_calendar(admin_email)
+        if not events:
+            return ""
+
+        q_lower = query.lower()
+        lines = ["=== CALENDAR (TODAY) ==="]
+        for ev in events:
+            summary = ev.get("summary", "")
+            attendees = ", ".join(ev.get("attendees", [])[:5])
+            lines.append(f"{ev['start']}-{ev['end']}: {summary} (with: {attendees})")
+        return "\n".join(lines)
+    except Exception:
+        return ""
+
+
+def _search_asana(query):
+    """Search Asana tasks by keyword."""
+    try:
+        import requests
+        headers = {"Authorization": f"Bearer {os.environ['ASANA_ACCESS_TOKEN']}"}
+        from asana_client import get_workspaces
+        workspaces = get_workspaces()
+        if not workspaces:
+            return ""
+
+        resp = requests.get(
+            f"https://app.asana.com/api/1.0/workspaces/{workspaces[0]['gid']}/tasks/search",
+            headers=headers,
+            params={
+                "text": query,
+                "opt_fields": "name,assignee.name,due_on,completed,notes,permalink_url",
+                "completed": False,
+                "limit": 10,
+            },
+            timeout=10,
+        )
+        resp.raise_for_status()
+        tasks = resp.json().get("data", [])
+        if not tasks:
+            return ""
+
+        lines = ["=== ASANA SEARCH RESULTS ==="]
+        for t in tasks[:8]:
+            assignee = t.get("assignee", {})
+            name = assignee.get("name", "Unassigned") if assignee else "Unassigned"
+            due = t.get("due_on", "no date")
+            notes_preview = (t.get("notes") or "")[:150]
+            lines.append(f"• {t['name']} | {name} | Due: {due}")
+            if notes_preview:
+                lines.append(f"  {notes_preview}")
+        return "\n".join(lines)
+    except Exception:
+        return ""
+
+
+def _run_live_searches(plan, slack_client=None):
+    """Execute the search plan across live sources. Returns combined results."""
+    results = []
+    query = plan.get("query", "")
+    if not query:
+        return ""
+
+    for source in plan.get("sources", []):
+        if source == "gmail":
+            r = _search_gmail(query)
+            if r:
+                results.append(r)
+        elif source == "slack" and slack_client:
+            r = _search_slack(query, slack_client)
+            if r:
+                results.append(r)
+        elif source == "calendar":
+            r = _search_calendar(query)
+            if r:
+                results.append(r)
+        elif source == "asana":
+            r = _search_asana(query)
+            if r:
+                results.append(r)
+
+    return "\n\n".join(results)
+
+
 def answer_question(question, slack_client=None):
-    """
-    Answer a natural language question using the knowledge files,
-    with Gmail deep search as fallback.
-    """
-    # Also pull in any knowledge channel entries (corrections, insights, feedback)
+    """Answer a question using knowledge files, with live API search as fallback."""
+    # Pull in recent knowledge channel entries (corrections, insights, feedback)
     knowledge_context = ""
     if slack_client:
         try:
@@ -474,7 +598,7 @@ def answer_question(question, slack_client=None):
     if knowledge_context:
         context = f"{knowledge_context}\n\n{context}"
 
-    user_prompt = f"""Here are the knowledge files:\n\n{context}\n\n---\nQuestion: {question}"""
+    user_prompt = f"Here are the knowledge files:\n\n{context}\n\n---\nQuestion: {question}"
 
     try:
         response = client.messages.create(
@@ -485,25 +609,31 @@ def answer_question(question, slack_client=None):
         )
         answer = response.content[0].text
 
-        # If the answer indicates lack of knowledge, try Gmail deep search
+        # If knowledge files weren't enough, search live sources
         no_info_phrases = ["don't have information", "not in my knowledge",
-                           "don't have details", "no information about"]
+                           "don't have details", "no information about",
+                           "don't have specific", "not available in"]
         if any(phrase in answer.lower() for phrase in no_info_phrases):
-            gmail_results = _search_gmail(question)
-            if gmail_results:
-                # Re-ask with Gmail context added
-                extended_prompt = (
-                    f"Here are the knowledge files:\n\n{context}\n\n"
-                    f"{gmail_results}\n\n---\n"
-                    f"Question: {question}"
-                )
-                response2 = client.messages.create(
-                    model="claude-sonnet-4-20250514",
-                    max_tokens=1200,
-                    system=QA_SYSTEM_PROMPT + "\n\nYou also have Gmail search results. Use them to supplement your answer.",
-                    messages=[{"role": "user", "content": extended_prompt}],
-                )
-                return response2.content[0].text
+            plan = _plan_live_search(question, answer)
+            if plan:
+                live_results = _run_live_searches(plan, slack_client)
+                if live_results:
+                    extended_prompt = (
+                        f"Here are the knowledge files:\n\n{context}\n\n"
+                        f"{live_results}\n\n---\n"
+                        f"Question: {question}"
+                    )
+                    response2 = client.messages.create(
+                        model="claude-sonnet-4-20250514",
+                        max_tokens=1200,
+                        system=QA_SYSTEM_PROMPT + (
+                            "\n\nYou also have live search results from connected services "
+                            "(Gmail, Slack, Calendar, Asana). Use these to supplement your answer. "
+                            "Cite the source when using live search results."
+                        ),
+                        messages=[{"role": "user", "content": extended_prompt}],
+                    )
+                    return response2.content[0].text
 
         return answer
     except Exception as e:
