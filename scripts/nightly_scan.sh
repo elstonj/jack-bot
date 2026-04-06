@@ -34,13 +34,21 @@ else
     echo "SCAN FAILED" >> "$LOG_FILE"
 fi
 
-# Run contact enrichment (depends on data from other scanners)
+# Run post-scan enrichments (depend on data from other scanners)
 echo "Running contact enrichment..." >> "$LOG_FILE"
 if python scan.py enrich-contacts >> "$LOG_FILE" 2>&1; then
     echo "Contact enrichment completed." >> "$LOG_FILE"
 else
     ERRORS="$ERRORS\nContact enrichment failed."
     echo "ENRICHMENT FAILED" >> "$LOG_FILE"
+fi
+
+echo "Running project cost tracking..." >> "$LOG_FILE"
+if python scan.py costs >> "$LOG_FILE" 2>&1; then
+    echo "Cost tracking completed." >> "$LOG_FILE"
+else
+    ERRORS="$ERRORS\nCost tracking failed."
+    echo "COST TRACKING FAILED" >> "$LOG_FILE"
 fi
 
 # Check for changes

@@ -37,7 +37,7 @@ if env_path.exists():
                 os.environ[key] = value
 
 
-AVAILABLE_SOURCES = ["asana", "toggl", "contacts", "slack", "email", "drive", "proposals", "budgets", "quickbooks", "financial", "projects", "enrich-contacts"]
+AVAILABLE_SOURCES = ["asana", "toggl", "contacts", "slack", "email", "drive", "proposals", "budgets", "quickbooks", "financial", "projects", "enrich-contacts", "costs"]
 
 
 def scan_asana(mode):
@@ -241,6 +241,18 @@ def scan_projects(mode):
     print(f"\nProject registry complete: {len(entries)} projects in {elapsed:.0f}s")
 
 
+def scan_costs(mode):
+    from scanners.cost_tracker import scan
+    print(f"\n{'='*60}")
+    print(f"PROJECT COST TRACKING")
+    print(f"{'='*60}\n")
+
+    start = time.time()
+    results = scan()
+    elapsed = time.time() - start
+    print(f"\nCost tracking complete: {len(results)} projects in {elapsed:.0f}s")
+
+
 def scan_enrich_contacts(mode):
     from scanners.contact_enrichment import enrich
     print(f"\n{'='*60}")
@@ -266,6 +278,7 @@ SCANNERS = {
     "financial": scan_financial,
     "projects": scan_projects,
     "enrich-contacts": scan_enrich_contacts,
+    "costs": scan_costs,
 }
 
 
@@ -309,6 +322,7 @@ def main():
         "financial": {},  # reads other scanner outputs, no external API needed
         "projects": {"ASANA_ACCESS_TOKEN": "Asana API"},
         "enrich-contacts": {},  # reads existing knowledge files + Claude
+        "costs": {},  # reads existing knowledge files + Claude
     }
 
     sources = AVAILABLE_SOURCES if args.source == "all" else [args.source]

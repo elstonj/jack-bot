@@ -232,10 +232,14 @@ def _resolve_channel_project(channel_id, slack_client):
             proj_file = os.path.join(KNOWLEDGE_DIR, "projects", f"{code}.md")
             if os.path.exists(proj_file):
                 files.append(proj_file)
-            # Load financial file
+            # Load financial file (revenue side)
             fin_path = _find_financial_file(code)
             if fin_path:
                 files.append(str(fin_path))
+            # Load cost file (expense side)
+            cost_path = os.path.join(KNOWLEDGE_DIR, "financial", "costs", f"{code}.md")
+            if os.path.exists(cost_path):
+                files.append(cost_path)
             # Load Asana project files matching the code
             asana_dir = os.path.join(KNOWLEDGE_DIR, "asana", "projects")
             if os.path.isdir(asana_dir):
@@ -337,14 +341,20 @@ def select_files(question, channel_files=None):
         else:
             files.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "email", "*.md"))))
 
-    # Budget / contract / money / financials
+    # Budget / contract / money / financials / costs / spending
     budget_keywords = ["budget", "contract", "dollar", "money", "value", "cost",
                        "funding", "revenue", "invoice", "price", "expense",
-                       "spending", "spend", "burn rate", "remaining",
+                       "spending", "spend", "spent", "burn rate", "remaining",
                        "purchase order", "po ", "p.o.", "clin",
                        "quickbooks", "qbo", "financial", "billing",
-                       "approved budget", "proposed budget", "current budget"]
+                       "approved budget", "proposed budget", "current budget",
+                       "how much", "labor", "hours", "rate"]
     if any(kw in q for kw in budget_keywords):
+        # Cost tracking files (actual spend: labor + materials + subs)
+        costs_dir = os.path.join(KNOWLEDGE_DIR, "financial", "costs")
+        if os.path.isdir(costs_dir):
+            files.extend(sorted(glob.glob(os.path.join(costs_dir, "*.md"))))
+
         # Prefer merged financial index files (cross-referenced data)
         fin_overview = os.path.join(KNOWLEDGE_DIR, "financial", "overview.md")
         if os.path.exists(fin_overview):
