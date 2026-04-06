@@ -125,14 +125,5 @@ def get_project_finances(slack_client, channel_id):
             except Exception:
                 continue
 
-    # 4. No match — return company overview
-    if OVERVIEW_PATH.exists():
-        overview = OVERVIEW_PATH.read_text()
-        if len(overview) > 3800:
-            overview = overview[:3800] + "\n\n_(truncated)_"
-        return f"No project mapped to this channel. Here's the company overview:\n\n{overview}"
-
-    return (
-        "No project code found for this channel. "
-        "Add a mapping in `knowledge/channel_projects.md` or set the channel topic to include the project code."
-    )
+    # 4. No match
+    return "No financial data available for this channel's project."

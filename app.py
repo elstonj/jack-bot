@@ -170,6 +170,15 @@ def route_message(message, say, client, user_id, channel_id):
         say(format_weather())
     elif msg_lower.startswith("tasks"):
         handle_tasks_command(say, message, user_id)
+    elif msg_lower in ("company finances", "company financial", "all finances"):
+        from finances import OVERVIEW_PATH
+        if OVERVIEW_PATH.exists():
+            content = OVERVIEW_PATH.read_text()
+            if len(content) > 3800:
+                content = content[:3800] + "\n\n_(truncated)_"
+            say(content)
+        else:
+            say("No company financial overview available yet.")
     elif msg_lower.startswith(("finances", "financial")):
         say(get_project_finances(client, channel_id))
     elif msg_lower.startswith("bug:"):
