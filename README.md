@@ -1,94 +1,124 @@
 # Jack Bot
 
-AI-powered project management assistant for Black Swift Technologies. Synthesizes data from Asana, Toggl, Google Workspace, and Slack into prioritized daily briefings and answers questions about projects, contacts, and team activity.
+AI-powered project management assistant for Black Swift Technologies. Synthesizes data from Asana, Toggl, Google Workspace, Slack, and Rippling into prioritized daily briefings and answers questions about projects, contacts, finances, and team activity.
 
 ## Features
 
-- **Daily Briefings** — Prioritized task summaries posted to Slack at 8am MT, personalized per team member
-- **Knowledge Q&A** — Ask questions about projects, contacts, budgets, time tracking, and more via Slack
-- **Corrections** — Team members can correct priorities with `correct: <feedback>` and the bot learns
-- **Knowledge Base** — 161 distilled files covering Asana projects, Toggl time tracking, Google contacts, Slack channel histories, email patterns, and shared drive contents
-- **Incremental Updates** — Knowledge files updated with only new data since last scan
+- **Daily Briefings** — AI-synthesized top 3 priorities per person from ALL data sources (not just Asana), posted to Slack at 8am MT weekdays
+- **OOO Detection** — Pulls PTO/sick leave from Rippling calendar; OOO team members get a palm tree instead of tasks
+- **Completed Task Detection** — Cross-references email/Slack/Drive to spot tasks that look done and suggests closing them in Asana
+- **Knowledge Q&A** — Ask questions naturally; searches knowledge files first, then falls back to live API search (Gmail, Slack, Calendar, Asana)
+- **Financial Summaries** — Say `finances` in a project channel for a clean budget/invoice summary
+- **Bug & Feature Tracking** — `bug:` and `feature:` to log items; `bugs` and `features` to list them
+- **Implicit Learning** — Any reply in the daily tasks channel is stored as feedback; teaching moments like "KS = Krateo Sky" are auto-detected and stored
+- **Project Registry** — Unified mapping of all projects to Asana, Slack channels, financial data, and contacts
+- **Personality** — Grumpy old-school Unix programmer persona for non-work chat
 
 ## Quick Start
 
 ```bash
-# Install dependencies
 python -m venv venv
-source venv/bin/activate
+source venv/activate
 pip install -r requirements.txt
-
-# Configure environment
 cp .env.example .env
 # Edit .env with your API keys
-
-# Run locally
 python app.py
 ```
 
-## Knowledge Scanning
-
-Deep historical scans distill data from all connected sources into markdown knowledge files:
-
-```bash
-# Full scan of a source (all historical data)
-python scan.py asana --mode full
-python scan.py toggl --mode full
-python scan.py contacts --mode full
-python scan.py slack --mode full
-python scan.py email --mode full
-python scan.py drive --mode full
-
-# Scan everything
-python scan.py all --mode full
-
-# Last year only
-python scan.py all --mode 1yr
-
-# Only changes since last scan
-python scan.py all --mode incremental
-```
-
-Knowledge files are stored in `knowledge/` and committed to git for deployment.
-
 ## Slack Commands
+
+All commands work via @mention or DM (no slash commands needed):
 
 | Command | Description |
 |---------|-------------|
-| `tasks` or `tasks all` | Show today's prioritized task briefing |
-| `correct: <feedback>` | Submit a correction to task prioritization |
-| `note: <info>` | Store a note in the knowledge base |
-| `weather` | Flying site weather conditions |
-| `/refresh-tasks` | Manually trigger the daily pipeline |
-| Any question | Ask about projects, contacts, budgets, etc. |
+| `help` | List all available commands |
+| `tasks` / `tasks all` | Your prioritized tasks / full team briefing |
+| `finances` | Project financial summary (in a project channel) |
+| `company finances` | Company-wide financial overview |
+| `bug: <description>` | Report a bug |
+| `feature: <description>` | Request a feature |
+| `bugs` / `features` | List open bugs or feature requests |
+| `correct: <feedback>` | Correct task priorities |
+| `note: <info>` | Teach the bot something |
+| `weather` | Flying site conditions |
+| Any question | Searches knowledge base + live APIs |
+
+Admin only: `/refresh-tasks` (in #jackbot-knowledge)
+
+## Knowledge Scanning
+
+```bash
+# Scan everything (incremental — only changes since last scan)
+python scan.py all --mode incremental
+
+# Individual sources
+python scan.py asana --mode full
+python scan.py toggl --mode full
+python scan.py contacts --mode full
+python scan.py slack --mode 1yr
+python scan.py email --mode 1yr
+python scan.py drive --mode full
+python scan.py proposals --mode full
+python scan.py budgets --mode full
+python scan.py quickbooks --mode full
+python scan.py financial              # Cross-references budgets + QB + Asana
+python scan.py projects               # Project registry from Asana overviews
+
+# Update workflow
+python scan.py all --mode incremental && git add knowledge/ && git commit && git push
+```
 
 ## Architecture
 
 ```
-app.py                  Slack Bolt server, event handlers, Flask routes
+app.py                  Slack Bolt server, unified message routing
 daily_research.py       Core pipeline: knowledge + live data -> Claude synthesis
-knowledge_qa.py         Q&A: routes questions to relevant knowledge files
+knowledge_qa.py         Q&A with live API fallback (Gmail, Slack, Calendar, Asana)
 knowledge.py            Slack channel as persistent knowledge store
-scan.py                 CLI for deep historical data scanning
-scanners/               Per-source scanners (Asana, Toggl, Slack, Email, Drive, Contacts)
-knowledge/              Distilled markdown knowledge files (161 files, ~850KB)
-  asana/projects/       Per-project summaries (65 files)
-  toggl/                Time tracking by person (24) and project (34)
-  contacts/             BST directory + 8,220 external contacts
-  slack/                Per-channel history summaries (19 channels)
-  email/                Per-person email patterns (12 people)
-  drive/                Shared drive contents (Federal Projects + Sales)
+finances.py             Project financial lookups with Claude formatting
+personality.py          Jack Bot persona for conversational messages
+user_map.py             Unified user directory across Slack/Asana/Toggl
+scan.py                 CLI for knowledge scanning
+scanners/               Per-source scanners
+  asana_scanner.py      Asana projects and tasks
+  toggl_scanner.py      Time tracking data
+  slack_scanner.py      Channel history
+  email_scanner.py      Gmail metadata
+  drive_scanner.py      Shared Drive contents
+  contacts_scanner.py   Google Contacts
+  proposals_scanner.py  Proposals and reports from Drive
+  budget_scanner.py     Budget documents from Drive
+  quickbooks_scanner.py QuickBooks transactions
+  financial_index.py    Cross-referenced financial summaries
+  project_registry_scanner.py  Unified project-to-systems mapping
+knowledge/              Distilled markdown knowledge files
+  asana/projects/       Per-project task summaries
+  toggl/                Time tracking by person and project
+  contacts/             employees.md (canonical roster) + external contacts
+  slack/                Per-channel history summaries
+  email/                Per-person email patterns
+  drive/                Shared drive contents
+  proposals/            Distilled proposals and reports
+  budgets/              Per-project budget data from Drive
+  quickbooks/           QuickBooks transaction summaries
+  financial/            Cross-referenced financial summaries per project
+  projects/             Project registry (Asana overview + Slack + financial links)
+  channel_projects.md   Slack channel -> project code mapping
 ```
 
 ## Data Sources
 
-- **Asana** — Tasks, projects, milestones, BD pipeline, proposals, dollar amounts
-- **Toggl** — Time tracking by person and project
-- **Google Drive** — Sales and Federal Projects shared drives
-- **Gmail** — Email metadata (subjects, senders, recipients)
-- **Google Calendar** — Today's meetings and attendees
-- **Google Contacts** — Team directory and external contacts
-- **Slack** — Channel histories and real-time messages
+| Source | Purpose | Live | Scanned |
+|--------|---------|------|---------|
+| Asana | Tasks, projects, milestones, BD pipeline, custom fields | Yes | Yes |
+| Toggl | Time tracking by person and project | Yes | Yes |
+| Google Drive | Sales and Federal Projects shared drives | — | Yes |
+| Gmail | Email search (subjects + body snippets in Q&A fallback) | Yes | Yes |
+| Google Calendar | Today's meetings and attendees | Yes | — |
+| Google Contacts | Team directory and external contacts | — | Yes |
+| Slack | Channel messages, real-time activity | Yes | Yes |
+| Rippling | PTO/sick leave calendar (ICS feed) | Yes | — |
+| QuickBooks | Invoices, expenses, payments | — | Yes |
 
 ## Deployment
 
