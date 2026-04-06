@@ -1,37 +1,57 @@
 # [001-12] Customer Support
 
 ## Overview
-- Client/customer: Mixed customer support operations serving various clients including CU-IRISS, ERAU, Area-I, NREL, University of Virginia, Stanford, NASA AMES, INSTAAR, NASA Langley, Howard University, Oklahoma State, and Acellent
+- Client/customer: Mixed customer support operations serving multiple clients including CU-IRISS, ERAU (Embry Riddle), Area-I, NREL, University of Virginia, Stanford, NASA AMES, INSTAAR, NASA Langley, Howard University, and Oklahoma State
 - Dollar value: Not specified in available data
 - Timeline: Ongoing operations project with tasks spanning 2024-2026
-- Status: Active (2 open tasks, 15 completed)
-- Team members involved: Nate Straus (owner), Maciej Stachura, Josh Fromm, Jack Elston, Meredith O'hara Needham
-- Risk signals: CU IRISS S2 repair has upcoming deadline (2026-01-15), one CU IRISS task has no due date but appears to be blocking NSF MUSAS website certification
+- Status: Active (2 open tasks, 15 completed; 88% completion rate)
+- Team members involved: Nate Straus (owner/primary), Maciej Stachura, Josh Fromm, Jack Elston, Meredith O'hara Needham
+- Risk signals: 
+  - CU IRISS S2 repair due January 15, 2026 (upcoming deadline)
+  - CU IRISS training flight coordination has no due date but is blocking NSF MUSAS website certification
+  - Multiple open tasks without defined due dates
 
 ## Key Deliverables & Milestones
-- CU IRISS S2 update/repair due January 15, 2026
-- CU IRISS training flight coordination (blocking NSF MUSAS website certification)
-- Ongoing customer training and support operations
-- Equipment repairs and upgrades for various aircraft models (S2, E2, S20015)
+- **CU IRISS S2 repair/return** — Due: 2026-01-15 (S2 currently in shop)
+- **CU IRISS training flight coordination** — No due date (required to certify BST on NSF MUSAS website)
+- **Ongoing aircraft repairs and upgrades** — S2, E2, S20015 models across diverse client base
+- **Payload installations and software updates** — Remote ID modules, MHP installations, Iridium upgrades
 
 ## Task Summary
 - Total tasks: 17 (2 open, 15 completed)
-- High completion rate (88% completed)
-- Most tasks handled by Nate Straus (project owner)
-- Tasks span aircraft repairs, software updates, payload installations, and customer training
-- Heavy focus on S2 and E2 aircraft models across diverse client base
+- **Completion rate: 88%**
+- **Tasks by assignee:**
+  - Nate Straus: 9 tasks (owner, primary support)
+  - Maciej Stachura: 2 tasks
+  - Jack Elston: 2 tasks
+  - Meredith O'hara Needham: 2 tasks
+  - Unassigned: 2 tasks
+- Heavy focus on aircraft model S2 and E2; primary work includes repairs, upgrades, payload installations, and customer training
 
 ## Recent Activity
-Recent completions include:
-- Acellent S0 support (Oct 2025)
-- ERAU MHP support (Oct 2025) - Embry Riddle in Tucson, AZ for big data processing
-- Area-I Turbulence Probe work (Oct 2025) - part of hurricane project fitting nosecone on competitor UAS
-- NREL E2 upgrade with remote ID module (Oct 2025) - contact John Eickhoff after original contact departed
-- University of Virginia S20013 payload work (Aug 2025) - Robin Kim, radiometer fixed, Altum camera failed
+**Recently completed (Oct 2025):**
+- Acellent S0 support (2025-10-21)
+- ERAU MHP support with big data processing for Tucson, AZ location (2025-10-21)
+- Area-I Turbulence Probe for hurricane project—nosecone installation on competitor UAS (2025-10-21)
+- NREL E2 remote ID module upgrade (2025-10-02)—primary contact John Eickhoff (john.eickhoff@nrel.gov)
 
-Currently active:
-- CU IRISS training flight coordination and S2 repair work (Contact: Brian Argrow, brian.argrow@colorado.edu)
-- NSF MUSAS website certification pending training completion
+**Previously completed:**
+- University of Virginia S20013 payload work (2025-08-27)—radiometer fixed, Altum camera awaiting replacement
+- Oklahoma State S2009 software update (2025-08-13)
+- Stanford S2 partial aircraft received and processed (2025-07-22)
+- NASA AMES S20015 MHP installation with Iridium (Rick Kolyer, completed 2025-03-19)
+
+**Currently active:**
+- CU IRISS S2 repair and training flight scheduling (Contact: Brian Argrow, brian.argrow@colorado.edu)
 
 ## Notes & Context
-Project enhances efficiency and effectiveness of customer support operations by streamlining processes and ensuring timely resolution of customer inquiries. Serves diverse client base including universities (CU, ERAU, Stanford, University of Virginia, Howard University, Oklahoma State), NASA facilities (AMES, Langley), and research institutions (NREL, INSTAAR). Work involves aircraft repairs, payload installations, software updates, and training operations. Strong customer contact tracking maintained with names and emails for ongoing relationships. Key contacts include Brian Argrow (CU-IRISS), John Eickhoff (NREL), Rick Kolyer (NASA AMES), and Mark Motter (NASA Langley).
+Project streamlines customer support operations for diverse client base including universities (CU, ERAU, Stanford, University of Virginia, Howard University, Oklahoma State), NASA facilities (AMES, Langley), research institutions (NREL, INSTAAR), and commercial partners (Area-I, Acellent). 
+
+**Key contacts maintained:**
+- Brian Argrow (CU-IRISS, brian.argrow@colorado.edu)
+- John Eickhoff (NREL, john.eickhoff@nrel.gov)
+- Rick Kolyer (NASA AMES, r.kolyer@nasa.gov, 650-604-2354)
+- Mark Motter (NASA Langley)
+- Robin Kim (University of Virginia)
+
+Work encompasses aircraft repairs, payload installations (MHP, Iridium, remote ID), software updates, GCS configuration, and training operations. Strong customer relationship management with detailed contact tracking and technical notes on equipment status. S2 and E2 aircraft are primary models serviced.

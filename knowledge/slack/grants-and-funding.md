@@ -6,9 +6,9 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 **Key Participants:** Jack Elston (primary decision-maker), Maciej (technical/proposal support), Meredith (budget/administrative), Dan Prendergast (proposal coordination), Beck Cotter (program management), Ira (ROSES/NASA work), Jeremy, Weile, and others contributing to specific proposals.
 
-**Activity Level:** High throughout the period (March 2024 - February 2025). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time.
+**Activity Level:** High throughout the period (March 2024 - April 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time.
 
-**Time Range:** March 3, 2024 - February 27, 2025
+**Time Range:** March 3, 2024 - April 6, 2026
 
 ---
 
@@ -46,6 +46,8 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 - **Navy SBIR magnetometer focus** (February 2025): Determined viable despite cost constraints; selected QuSpin for magnetometer integration, Cetacean Research Technology for hydrophone/acoustic work.
 
 - **XPrize Wildfire competition declined** (2024): Decided not to pursue due to funding requirements and lack of expertise fit; identified Rain.aero, FireFly, Anduril as serious competitors.
+
+- **Leadership continuity with partners** (April 2026): Confirmed BST comfortable taking lead role on unnamed initiative; scope discussions planned.
 
 ### Demo and Testing Decisions
 - **Overwater delivery demo accepted** (February 2025): Selected from 44 submissions (1 of 12); scheduled for Oahu, March 11, 2025, with S3 as preferred platform (15-30 mile range requirement). Phase 2 planned for summer 2026 field experimentation in Oceania.
@@ -108,7 +110,3 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 - **Max Funding:** $190K for 6-month Phase I
 - **Framework:** NightFOX for fire spotting, soil moisture monitoring (Kyle/CSU), 3D winds for fire forecasts (James/NCAR)
 - **Letters of Support:** Troy/Joe for NightFOX payload
-
-**NOAA Sources Sought**
-- **Status:** Capability statement submitted 2/6 by 10am deadline
-- **Format

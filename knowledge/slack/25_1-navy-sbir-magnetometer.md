@@ -1,7 +1,7 @@
 # #25_1-navy-sbir-magnetometer
 
 ## Overview
-This channel is focused on Black Swift Technologies' Navy Small Business Innovation Research (SBIR) project for developing magnetometer-equipped aircraft systems. The project involves integrating QuSpin magnetometers with BST's aircraft platforms for magnetic signature detection applications. Key participants include Jack, Beck, Maciej, Tyler, and Sam from BST, with external collaboration from QuSpin (Jeff), Ultra Maritime (Paul), and Navy contacts. Activity spans from October 2025 through March 2026, covering Phase I completion and Phase II proposal submission.
+This channel is focused on Black Swift Technologies' Navy Small Business Innovation Research (SBIR) project for developing magnetometer-equipped aircraft systems. The project involves integrating QuSpin magnetometers with BST's aircraft platforms for magnetic signature detection applications. Key participants include Jack, Beck, Maciej, Tyler, and Sam from BST, with external collaboration from QuSpin (Jeff), Ultra Maritime (Paul), and Navy contacts. Activity spans from October 2025 through April 2026, covering Phase I completion and Phase II proposal submission and kickoff preparation.
 
 ## Key Decisions
 
@@ -28,16 +28,22 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Payments: Final $20k payment received
 - Technical achievements: Magnetic noise target of ~30 pT RMS (half Navy requirement of 3 pT/sqrt(Hz))
 
-**Phase II (March 2026 - ongoing):**
+**Phase II (April 2026 - ongoing):**
 - Budget: $1.4M over 30 months
 - Proposal submitted March 27, 2026 (one day extension)
 - Contract signed March 25th, option start date April 12, 2026
 - Planned: 4 experimentation events, 6 S0-AD aircraft (4 base + 2 option)
+- Phase II kickoff meeting scheduled with Navy TPOC Angel Ruiz-Reyes for April 21, 2026
+- Kickoff brief due April 14, 2026
 
 ## Action Items & Commitments
 
+**Immediate (April 2026):**
+- Beck: Prepare and distribute Phase II kickoff brief using template (due April 14, 2026)
+- Team: Update kickoff brief template to include Option Period tasks
+- Beck: Schedule kickoff meeting with Angel for April 21, 2026 (confirmed)
+
 **Ongoing:**
-- Beck: Schedule kickoff meeting after Angel returns (post-April 8th)
 - Maciej: Review University of Michigan SOW for potential task cuts
 - Purchase QuSpin Gen-2.0 OTFM sensor ($11,775 budgeted)
 - Complete quad chart update for Angel to share with Navy contacts
@@ -77,6 +83,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Progress reports and deliverable submissions
 - Sensor testing at various distances and configurations
 - CAD design iterations for different aircraft configurations
+- Phase II kickoff planning and milestone tracking
 
 ## Important Resources
 
@@ -84,6 +91,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Code location: payload/quspin directory
 - QuSpin Python calibration code shared by Jeff
 - TCE planning brief (CUI - Controlled Unclassified Information)
+- Phase II Kickoff Brief template: https://docs.google.com/presentation/d/1OU8JXlp_XGyqt6y0LFuRqlQAQD6UGa9f3xG3R9C-dJs/edit?usp=sharing
 
 **Testing Facilities:**
 - Fredericksburg Geo Facility (recommended by TPOC)
@@ -98,12 +106,11 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 
 ## Recent Activity
 
-**March 2026:**
-- Phase II proposal submission completed with 33/40 technical pages by Maciej
-- Contract execution and option start date approved
-- University of Michigan budget negotiations resolved
-- Decision made to skip April TCE in favor of August participation
-- Discussion of E2 and S0-VTOL aircraft limitations due to magnetic interference
-- Planning for classified model simulation approach to avoid clearance requirements
+**April 2026:**
+- Beck distributed Phase II kickoff brief template on April 6th
+- Kickoff brief due April 14, 2026 (8 days prior to Navy meeting)
+- Navy kickoff meeting scheduled for April 21, 2026 with Angel Ruiz-Reyes
+- Brief template requires update to include Option Period tasks
+- Transition to Phase II active planning and formal coordination with Navy leadership
 
-The project has successfully transitioned from Phase I completion to Phase II execution, with strong Navy support and a clear technical path forward for the magnetometer integration challenges.
+The project has successfully transitioned from Phase I completion to Phase II execution, with formal kickoff preparations underway. Strong Navy support continues with scheduled leadership meetings to align on Phase II execution strategy.

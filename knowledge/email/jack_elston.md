@@ -1,113 +1,91 @@
 # Jack Elston — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 500
-- **Date range:** April 1–5, 2026
-- **Approximate volume:** High-frequency correspondent; 100+ messages per day typical based on sampling
+- **Total messages scanned:** 569 (500 prior + 69 new)
+- **Date range:** April 1–6, 2026
+- **Approximate volume:** High-frequency correspondent; 100+ messages per day typical
+- **New activity (Apr 6):** 69 messages, consistent with established patterns
 
 ## Key Correspondents
 
 ### Top Internal BST Contacts
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Frequent collaborator on projects, proposals, licensing, and operations
-- **Maciej Stachura** (stachura@blackswifttech.com) — Technical collaborator; involved in demos, Stanford SACL avionics work, manufacturing planning
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, contracts, compliance, and operational coordination
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — Project/proposal collaboration (HALO SOW, USMC MRT)
-- **Nathaniel Straus** (nate.straus@blackswifttech.com) — Technical collaboration on Stanford SACL | Timestamp S2 Avionics
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Continues as primary collaborator; NATO/international engagement coordination, demos, partnerships
+- **Maciej Stachura** (stachura@blackswifttech.com) — Technical projects including ET Demo Flights; involved in Navy SBIR coordination
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, contracts, payment confirmations (Maryland Business Express), invoice processing
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — HALO SOW, Navy SBIR Option Period kickoff, proposal coordination
+- **Alex Lomis** (alex.lomis@blackswifttech.com) — Operational support; Navy SBIR kickoff participant
+- **Paige Smith** (paige.smith@blackswifttech.com) — AGU26 booth coordination, media relations
 
 ### Top External Contacts
-- **Brody Basset** (bb@defensecoalitions.org) — NATO/international engagement discussions; marked IMPORTANT repeatedly
-- **Krateo Sky team** (Lisa Marie Cheney, Bob Smith, Brian Grubel, Adria Passola) — Multiple vendor/partner communications on demos and technical topics
-- **NOAA Federal contacts** (Nikolai Pawlenko, Chad Cary) — ET Demo Flights, UASD-related work
-- **Tanay Topac** (tanaytopac@stanford.edu / tanaytopac@gmail.com) — Stanford SACL | Timestamp S2 Avionics firmware development
-- **ByLight/Bryan Sparling** (bryan.sparling@bylight.com, Nicholas Phillips) — HALO SOW, USMC MRT discussions
-- **Melissa Onishi** (onishim@hawaii.edu) — External collaboration inquiry
-- **KPMG Financial DD** (Davoren, Joseph S; jdavoren@kpmg.com) — Due diligence support with partner Sona Raziabeegum (Krateo Sky)
+- **Brody Basset** (bb@defensecoalitions.org) — **Escalated activity:** European Delegation discussion scheduled Apr 6, 9am–9:30am MDT; marked IMPORTANT; continues NATO/international engagement thread
+- **Bryan Sparling & ByLight team** (bryan.sparling@bylight.com, Nicholas Phillips, Justin Baltz) — **HALO SOW kickoff:** Multiple IMPORTANT messages Apr 6 (16:29, 17:40 UTC); MRT Kickoff meeting scheduled Apr 6, 12pm–1pm MDT
+- **Krateo Sky ecosystem** (Bob Smith, Lisa Marie Cheney) — CDIC Update & Pricing Model forwarded by Prendergast (Apr 6, IMPORTANT)
+- **NOAA Federal** (Nikolai Pawlenko, Danielle Varwig, Mark Rogers, Joe Cione, Annette Hollingshead, Laura Rock) — **ET Demo Flights:** Large coordination email from Kim Kaisti (Skyfora) on Apr 6, 09:14 UTC, IMPORTANT; includes NASA/UCAR participants
+- **Kim Kaisti** (kim.kaisti@skyfora.com) — **Skyfora partnership:** Coordinating ET Demo Flights multi-agency effort (NOAA, NASA, UCAR, Embry-Riddle)
+- **Cory Dixon** (coryrdixon@gmail.com) — **Regular cadence:** Bi-weekly check-in on Apr 6; marked IMPORTANT; external relationship requiring ongoing engagement
+- **Ava Beatriz** (beatri.zava@clientgrowthtrack.com) — **Podcast opportunity:** "Podcast Guest Spot for Jack" (Apr 6, 15:50 UTC); marked IMPORTANT
+- **Navy SBIR contacts** (anthony.d.brescia.civ@us.navy.mil, angel.r.ruiz-reyes.civ@us.navy.mil) — **New option period:** Kickoff meeting scheduled Apr 21, 2026, 11am–12pm MDT
+- **Dina Marinelli** (dina.m.marinelli.civ@us.navy.mil) — **DCAA compliance:** N251-016 Phase II pre-award survey audit requirement notification (Apr 6, IMPORTANT)
+- **Tom Wilp** (tom.wilp@nanoveu.com) — Simulation collaboration (Prendergast correspondence, IMPORTANT)
+- **Uncrewed Experts** (Keven Gambold, kagambold@unmannedexperts.com) — Invoice/billing coordination on government contract FA8649-24P-0981 (multiple IMPORTANT exchanges Apr 6)
 
 ### Internal vs External
-- **~60% internal BST** (primarily Prendergast, Stachura, Needham, Cotter)
-- **~40% external** (government, partners, vendors, universities)
+- **~60% internal BST** (primary: Prendergast, Stachura, Needham, Cotter, Lomis)
+- **~40% external** (government, partners, vendors, universities, consultants)
+
+---
 
 ## Topic Patterns
 
-### Technical/Project Focus
-- **Stanford SACL | Timestamp S2 Avionics** — Recurring high-priority thread with Tanay Topac, Nathaniel Straus; firmware development
-- **HALO SOW (Black Swift)** — Multiple exchanges with ByLight team (Beck Cotter, Bryan Sparling, Nicholas Phillips)
-- **USMC MRT** — Recurring decision point ("shall we submit?"); involves Beck Cotter and ByLight
-- **Genesis Phase I planning** — Internal BST coordination (meeting on Apr 2)
-- **Demo for Canadian Special Forces** — Krateo Sky partnership demo planning
-- **ET Demo Flights** — NOAA-led effort with multiple government partners (NASA, UCAR)
+### Active/Urgent Projects (Apr 6)
 
-### Government/International
-- **NATO/International Engagement Opportunity** — With Brody Basset (Defense Coalitions); marked IMPORTANT
-- **UAS Deployment at Popocatépetl** — Volcano monitoring; USGS/CENAPRED coordination
-- **Export License Requirement for Mexico Deployment** — Compliance meeting scheduled
-- **Legacy SNAP-R Decommissioning** — Marked PRIVILEGED & CONFIDENTIAL; involves Jon Vince (external consultant)
+#### HALO SOW — ByLight Partnership
+- **Status:** Kickoff meeting scheduled Apr 6, 12pm–1pm MDT
+- **Participants:** Beck Cotter, Bryan Sparling, Nicholas Phillips, Justin Baltz, Jack Elston
+- **Activity level:** Multiple IMPORTANT exchanges on Apr 6 (16:29, 17:40 UTC)
+- **Note:** Follows existing "shall we submit?" decision pattern
 
-### Commercial/Vendor Topics
-- **Manufacturing Planning** — Pawan Thakkar (AliX Partners) discussions
-- **Quad chart for GRIN lens** — Ed Kase (E Kase Consulting)
-- **Antenna Tech** — Tech briefing shared with Krateo Sky
-- **TAA Compliant Rugged Hardware** — Tyler Steedman (E-Stone Tech)
-- **Hurricane Season Builds** — Parts sourcing with Waveform Engineering (Matt Crabtree)
+#### USMC MRT (via ByLight)
+- **Status:** Concurrent with HALO SOW discussions
+- **Participants:** Beck Cotter, Bryan Sparling, ByLight team
+- **Note:** Remains under evaluation/active development
 
-### Purchasing/Logistics
-- Heavy volume of **supplier notifications** (STMicroelectronics, DigiKey, McMaster-Carr, Amazon, USPS, UPS)
-- Subscriptions: Toggl, Driftaway Coffee, Spindrift
-- Parts/components: avionics hardware, PCBs, connectors, springs
+#### Navy SBIR Program
+- **Status:** **NEW Option Period kickoff scheduled Apr 21, 2026, 11am–12pm MDT**
+- **Participants:** Beck Cotter, Jack Elston, Alex Lomis, Maciej Stachura, Navy point-of-contact contacts (Brescia, Ruiz-Reyes)
+- **Compliance requirement:** DCAA pre-award survey audit required for Phase II (N251-016)
+- **Action item:** Meredith Needham coordinating with Navy on audit preparation
 
-### Recruitment/Career
-- Large volume of **careers@blackswifttech.com** forwarding (Jack Elston appears to route applicant inquiries)
-- Applicants: firmware engineers, mechanical engineers, flight test pilots, CAD support, robotics engineers, interns
-- Universities contacted: CU Boulder, Stanford, Colorado School of Mines, UCSD, Texas A&M, Cornell
+#### ET Demo Flights (Multi-Agency)
+- **Status:** Coordination email distributed Apr 6, 09:14 UTC
+- **Lead:** Kim Kaisti / Skyfora (orchestrating)
+- **Participants:** NOAA (Pawlenko, Varwig, Rogers, Cione, Hollingshead), NASA (Dolph, Meek), UCAR (Goodstein), Embry-Riddle (Wadler), Black Swift (Elston, Stachura, Lomis)
+- **Scope:** Multi-site ET demo coordination; appears to be actively launching
 
-## Communication Patterns
+#### International Engagement — NATO
+- **Status:** **Escalated:** European Delegation Discussion meeting Apr 6, 9am–9:30am MDT (Brody Basset, Prendergast, Cotter, Elston)
+- **Previous:** Marked IMPORTANT repeatedly in prior data; now showing active meeting schedule
+- **Partner:** Defense Coalitions (Brody Basset)
 
-### Time Patterns
-- **Active hours:** 06:00–23:00 MDT (spans early morning to late evening)
-- **Weekend activity:** Messages on Saturday, April 4 (04:42 UTC) — suggests high engagement even on weekends
-- **Surge periods:** Fridays and Thursdays show heaviest volume
+### External Communications & Partnerships
 
-### Mailing Lists / Group Communications
-- **CU Aerospace External Advisory Board (EAB)** — Spring meeting reminder and AI sub-committee discussions
-- **DARPAConnect, Midwest Defense Innovation Summit (MDIS)** — Event/opportunity notifications
-- **Aerospace Colorado members** — Large distribution list event (April 22 meeting)
-- **Government/interagency** — NOAA/NASA/USGS coordination on ET Demo Flights and Popocatépetl deployment
+#### Krateo Sky Strategic Discussions
+- **CDIC Update & Pricing Model** — Forwarded by Prendergast to Krateo Sky leadership (Bob Smith, Lisa Marie Cheney), Apr 6
+- **Continued signal of strategic partnership evaluation** (ongoing from prior financial DD activity)
 
-### Automated/Newsletter Emails
-- **UASweekly Daily Newsletter** — Industry news subscription
-- **UAS Magazine** — Sector updates
-- **Google Docs/Google Meet notifications** — Shared documents and meeting notes
-- **Procurement alerts:** USPS Informed Delivery, shipping notifications (DriftAway, Aloft Hobbies, Tag-Connect, etc.)
+#### Government/Compliance
+- **Maryland Business Express Payment** — Transaction processed; Meredith Needham managing (Apr 6)
+- **DCAA Accounting System Audit** — Pre-award requirement for Navy Phase II (N251-016); formal notification from Dina Marinelli, Navy
+- **Export licensing context** — Consistent with Popocatépetl/Mexico deployment setup from prior data
 
-### Calendar Integration
-- **Google Calendar event notifications** — Genesis Phase I planning, External Advisory Board meetings
+#### Technology/Supply Chain
+- **STMicroelectronics orders** — Multiple orders in transit (PRD171600, PRD171499); shipments delivered Apr 6
+- **SMT Supplies** — Order S-16626 delivered Apr 6
+- **Cobra Foam Inserts and Cases** — Protective packaging delivered Apr 6
+- **Battery supply inquiry** — RacePow (3x emails Apr 6, 10:19 UTC) offering 43500mAh 6S Li-Po batteries (400wh/kg); high energy density focus suggests UAS power system evaluation
+- **General procurement:** Harbor Freight, Amazon Business, eBay (RC equipment), McMaster-Carr, USPS tracking active
 
-## Key Relationships
-
-### Closest Internal Collaborators (by frequency)
-1. **Daniel Prendergast** — Operations, proposals, compliance, international engagement
-2. **Maciej Stachura** — Technical projects, demos, manufacturing
-3. **Meredith Needham** — Finance, contracts, NASA compliance (ProSAMS tracking)
-4. **Beck Cotter** — Proposals and customer-facing projects
-
-### Important External Relationships
-- **Brody Basset (Defense Coalitions)** — NATO/international business development; relationship marked IMPORTANT repeatedly
-- **Krateo Sky ecosystem** (Sona Raziabeegum, Lisa Marie Cheney, Brian Grubel, Thibault Bridel-Bertomeu) — Vendor/partner collaboration; financial DD with KPMG suggests potential acquisition or strategic partnership
-- **NOAA/Nikolai Pawlenko** — Government customer on demo flights; escalated contact
-- **Stanford University (Tanay Topac)** — Academic collaboration on avionics firmware
-- **ByLight (Bryan Sparling, Nicholas Phillips, Justin Baltz)** — Joint proposal/SOW development
-
-## Notable Observations
-
-### Signal of Strategic Activity
-- **Financial due diligence (DD) with KPMG** in progress — suggests potential M&A or capital event (Jack Elston, Sona Raziabeegum from Krateo Sky involved)
-- **NATO/international expansion** — Active engagement with Defense Coalitions on "International Engagement Opportunity"
-- **Mexico export licensing** — Indicates planned UAS deployment requiring government approval
-
-### API/Tool Integration Issues
-- **Anthropic Claude API turned off** (Apr 5) — Jack Elston's access disabled; likely internal AI tooling in use at BST
-- **GitHub activity** — Invited to emassAI/ecsdot-autoboot-release repository; suggests involvement in software development
-
-### High Priority/Confidential Threads
-- "Legacy SNAP-R Decommissioning" marked *PRIVILEGED & CONFIDENTIAL* — internal/sensitive program
-- Multiple HALO SOW and USMC MRT threads marked IMPORTANT
+### Recurring Topics (Consistent with Prior Data)
+- **Manufacturing/Supply Chain** — Heavy operational focus
+- **Recruitment:** Internship interest coordination (Dmitriy Kazantsev); William Gettinger employment application processing
+- **Podcast/Media:** Guest spot opportunity with Ava Beat

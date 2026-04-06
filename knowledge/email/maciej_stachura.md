@@ -1,116 +1,95 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 500
-- **Date range:** March 20 – April 4, 2026 (approximately 16 days)
-- **Approximate volume:** ~30 messages/day on average; highly active with multiple threads running in parallel
+- **Total messages scanned:** 510 (original 500 + 10 new)
+- **Date range:** March 20 – April 6, 2026 (approximately 18 days)
+- **Approximate volume:** ~28 messages/day on average; highly active with multiple threads running in parallel
 
 ## Key Correspondents
 
 ### Top Internal Contacts (Black Swift Technologies)
-- **Jack Elston** (elstonj@blackswifttech.com) — Extremely frequent; appears in nearly every major thread; appears to be VP/leadership
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Very frequent; operations/project coordination
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — Regular contact; business development/partnerships
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — Moderate contact; admin/logistics support
-- **Joshua Fromm**, **Alex Lomis** — NOAA/scientific project support
+- **Jack Elston** (elstonj@blackswifttech.com) — Extremely frequent; appears in nearly every major thread; appears to be VP/leadership; now directly coordinating Krateo Sky partnership and Canadian Special Forces demo
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Very frequent; operations/project coordination; forwarding critical updates (CDIC, pricing models)
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — Regular contact; business development/partnerships; actively negotiating HALO SOW with ByLight
+- **Alex Lomis** — NOAA/ET Demo operations; now appears on broader Skyfora coordination
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — Admin/logistics support
 
 ### Top External Contacts
 - **Krateo Sky team:**
-  - Brian Grubel, Adria Passola, Thibault Bridel-Bertomeu, Lisa Marie Cheney, Bob Smith — Frequent collaboration; appears to be a key partner or acquisition target
-  
-- **NOAA/Government:**
-  - Nikolai Pawlenko (NOAA Federal) — Recurring on ET (Environmental Testing?) demo flights
-  - Sara Morris (NOAA Federal), Joe Cione (NOAA Federal) — Tower/infrastructure discussions
-  - Joshua Wadler (ERAU) — Flight operations/dropsonde data
+  - Alexandre Donnadieu (alex@krateosky.com) — Direct relationship; follow-up meeting from Miami indicates ongoing partnership discussions
+  - Brian Grubel, Bob Smith, Lisa Marie Cheney — Continuing partnership coordination; CDIC (likely Krateo product) pricing model discussions active
   
 - **ByLight:**
-  - Bryan Sparling, Nicholas Phillips, Mel Marker (bryan.sparling@bylight.com, nicholas.phillips@bylight.com) — HALO SOW, USMC MRT discussions
+  - Bryan Sparling (bryan.sparling@bylight.com) — HALO SOW negotiations escalating; now looped in with Jack Elston and internal ByLight leadership (Justin Baltz, Nicholas Phillips)
+  
+- **NOAA/Government/Scientific:**
+  - Kim Kaisti (Skyfora) — Coordinating ET Demo Flights with large NOAA stakeholder group; broader ecosystem now visible including NASA LARC, UCAR, FedScoop
+  - Nikolai Pawlenko, Joe Cione, Mark Rogers, Danielle Varwig, Laura Rock (NOAA Federal) — ET operations continuing
+  - Joshua Wadler (ERAU), Chester Dolph & Chris Meek (NASA LARC), Mack Goodstein (UCAR) — Scientific/technical partners on ET Demo
   
 - **NanoVeu:**
-  - Nikhila Ravikumar, Tom Wilp, Mark Goranson — Simulation work
+  - Tom Wilp — Simulation work continuing
   
-- **Government/Agencies:**
-  - NASA (multiple contacts: Enos, Wade, Fladeland, ARC-related)
-  - USGS (Christoph Kern re: Popocatépetl deployment)
-  - Brookhaven National Lab (de Boer, Urban, McMahon) — DOE Genesis Phase I
-  
-- **Legal/Commercial:**
-  - Ryan Sykora (rsykora@kofirm.com) — Purchase agreement negotiations
-  - Ed Kase (ekaseconsulting.com) — TABA status
+- **One Nation Innovation (Coloseum):**
+  - New contact; automated proposal opportunity notification sent to company inbox
 
 ## Topic Patterns
 
-### Active Projects/Codenames
-- **ET Demo Flights** — Environmental/meteorological UAS demo with NOAA; appears to be major operational focus (multiple daily mentions)
-- **Genesis Phase I (DOE)** — DOE research project planning with Brookhaven National Lab
-- **HALO SOW** (ByLight collaboration) — Hardware/sensor integration discussion
-- **USMC MRT** — US Marine Corps Maritime Rapid Technology proposal submission
-- **S20015, S20009** — NASA contract/proposal identifiers
-- **Dragoon collaboration** — Integration with Dragoon platform (sensor/data layer)
-- **SNAP-R (Legacy Decommissioning)** — Legacy system being phased out
-- **Black Swift S2/S3 UAS** — Product variants; S3 appears newer/VTOL capable
+### Active Projects/Codenames (Confirmed/Updated)
+- **ET Demo Flights** — Now coordinated through Skyfora; large multi-agency participation (NOAA, NASA, UCAR, ERAU); appears to be active operational phase with scientific partnerships
+- **HALO SOW** — Hardware integration escalating; Bryan Sparling now directly coordinating with Jack Elston at CTO level; appears strategic/urgent
+- **Canadian Special Forces Demo** — New explicit mention; Jack Elston coordinating with Daniel Prendergast; appears to be separate live demo operation
+- **Krateo Sky Partnership** — Miami follow-up meeting occurred; now discussing CDIC product and pricing models; appears to be moving from exploration to commercialization phase
+- **Dragoon Integration** — Jack Elston scheduling meeting with Krateo Sky regarding Dragoon platform; confirms prior observation of data layer/platform integration
+- **Genesis Phase I (DOE)** — Still active but not visible in this 10-message subset
 
-### Key Geographic/Domain Focus
-- **Mexico/Popocatépetl** — UAS deployment for volcanic monitoring (CENAPRED, USGS collaboration)
-- **Canada** — Special Forces demonstration (Canadian military client)
-- **Sub-Arctic Operations** — S2 UAS specifications inquiry
-- **Wildfire monitoring** — NASA partnership on aerial firefighting/monitoring
-
-### Client/Partner Organizations
-- Krateo Sky (partner/acquisition candidate)
-- NOAA (recurring government customer)
-- NASA (Ames, GSFC contracts)
-- US Navy (NAWCAD, Phase II proposals)
-- US Military (USMC, Special Forces)
-- Universities (CU Boulder, ERAU)
-- Vantage Robotics (gimbal specs)
-- NanoVeu (sensor simulation)
+### Client/Partner Organizations (Updated)
+- **Skyfora** — New partner/vendor; now appears to be managing/coordinating ET Demo Flights
+- **Krateo Sky** — Escalating from partnership to commercialization; CDIC product pricing indicates near-term commercial activity
+- **ByLight** — HALO SOW now at executive coordination level (Jack Elston, Justin Baltz involved)
+- **NOAA/NASA/UCAR scientific consortium** — Large formal multi-agency collaboration on ET Demo
 
 ## Communication Patterns
 
 ### Time Patterns
-- **Heavy activity:** Weekdays, especially morning/afternoon (MDT timezone evident)
-- **Weekend activity:** Present but lower volume (Mar 21-22 weekend still had significant threads)
-- **Travel:** Messages suggest travel to Miami/Tampa area (late March); now traveling to Lakeland, FL (April 5-10 per hotel reservation)
+- **Continued high weekday activity** — April 6 (Monday) shows 10 messages in single day; 8-9am and 4-5pm UTC clusters (consistent with prior MDT timezone)
+- **Critical items marked IMPORTANT/UNREAD** — HALO SOW, Canadian demo, Krateo meeting, ET Demo all flagged; indicates urgent prioritization
+- **Travel context:** Maciej receiving Krateo follow-up from Miami meeting (occurred late March per prior data); Lakeland FL location (April 5-10) aligns with NOAA/ET Demo geography
 
 ### Message Types
-- **Sent:** Maciej initiates/forwards on strategic topics (partnerships, technical specs, research proposals)
-- **Inbox/Received:** Heavy volume of coordination, meeting invitations, and status updates
-- **Automated:** Google Calendar notifications, travel confirmations (United, American Airlines, hotel bookings), document shares
-
-### Mailing Lists/Groups
-- **BST Internal Update Meeting** — Regular all-hands (Mar 30, Mar 31 instances)
-- **NOAA/BlackSwift monthly** — Recurring 4th Wednesday at 12pm MST
-- **Large Krateo Sky group emails** — Multi-stakeholder coordination (20+ recipients common)
+- **Direct 1-1 coordination:** Maciej now receiving direct updates from external leadership (Alexandre Donnadieu, Bryan Sparling responses)
+- **Large stakeholder groups:** ET Demo now coordinated across 15+ participants (NOAA, NASA, UCAR, universities, vendors)
+- **Automated/informational:** One Nation Innovation proposal alerts sent to company inbox
+- **Internal forwards:** Daniel Prendergast forwarding critical business updates (CDIC pricing, Simulation status)
 
 ## Key Relationships
 
 ### Closest Internal Collaborators
-1. **Jack Elston** — Strategic partner; nearly every major decision thread includes him; appears to be co-founder/CTO level
-2. **Daniel Prendergast** — Operational execution; project/proposal management
-3. **Beck Cotter** — Business development; partnerships and Navy/DoD relationships
+1. **Jack Elston** — Strategic partner; now directly engaging on HALO SOW, Krateo partnership, Canadian demo, and Dragoon integration — appears to be CTO/co-founder level decision-maker
+2. **Daniel Prendergast** — Operational execution; now forwarding business-critical updates (pricing, partnership coordination)
+3. **Beck Cotter** — Business development; actively negotiating HALO SOW terms with ByLight
 
 ### Important External Relationships
-- **Krateo Sky leadership** (Adria Passola, Thibault Bridel-Bertomeu, Brian Grubel) — Frequent detailed coordination; likely acquisition or joint venture discussions
-- **NOAA team** (Nikolai Pawlenko, Sara Morris, Joe Cione) — Ongoing operational partnership; ET flights appear active/in-progress
-- **ByLight/Nicholas Phillips** — Hardware integration partner; HALO program appears significant
-- **DOE/Brookhaven** (Gijs de Boer) — Research funding; Genesis Phase I proposal work
-- **Alexandre Donnadieu** (alex@krateosky.com) — Direct relationship; meeting scheduled; appears to be Krateo Sky leadership
+- **Alexandre Donnadieu (Krateo Sky)** — Direct relationship; Miami follow-up indicates personal relationship and ongoing partnership negotiations
+- **Bryan Sparling (ByLight)** — HALO SOW now escalated to executive-level negotiations; appears time-sensitive/strategic
+- **Kim Kaisti (Skyfora)** — Coordinating large ET Demo Flights consortium; appears to be platform/data provider
+- **NOAA team (Pawlenko, Cione, Rogers)** — Ongoing ET Demo operations partnership
+- **Jack Elston (to external parties)** — Now directly engaged with Krateo Sky leadership (a@krateosky.com, bob@krateosky.com, brian@krateosky.com, Dragoon coordination)
 
 ## Notable Observations
 
-1. **Krateo Sky Intensity:** The volume and detail of Krateo Sky coordination (product uploads, founder dinners, recruitment coordination) suggests either a recent partnership announcement or active M&A process
+1. **HALO SOW Escalation:** Bryan Sparling escalating directly to Jack Elston and Justin Baltz (ByLight leadership) on April 6; marked IMPORTANT and UNREAD — suggests urgent/critical negotiation or technical blocker requiring C-level resolution
 
-2. **Government/Military Focus:** Significant activity with US Navy, USMC, NASA, and NOAA indicates strong DoD/government contracting business
+2. **Krateo Partnership Materialization:** Miami meeting (late March) now followed by follow-up coordination; CDIC product pricing discussions and Dragoon integration meeting scheduled — suggests transition from exploratory to commercial/integration phase
 
-3. **Travel Schedule:** Multiple hotel/flight reservations in quick succession (Miami late March, Lakeland April 5-10) suggests industry conferences or customer visits
+3. **Canadian Special Forces Demo Active:** New explicit project mention; Jack Elston directly coordinating with Daniel Prendergast — appears to be parallel live demo operation alongside ET flights
 
-4. **Technical Breadth:** Simultaneous work on UAS platforms, sensor gimbal specs, simulation software, antenna tech, and battery systems (Amprius tracking) suggests either broad product portfolio or systems integration focus
+4. **Skyfora Vendor Relationship:** New platform vendor now coordinating large scientific/operational consortium for ET Demo Flights; suggests BST may be providing aircraft/systems while Skyfora provides data/coordination layer
 
-5. **Export/Compliance:** "Export License Requirement for Mexico Deployment" meeting indicates regulatory/legal scrutiny around international UAS operations
+5. **Scientific Credibility:** ET Demo now includes formal participation from NASA LARC, UCAR, ERAU, and NOAA — indicates government R&D partnership (not commercial) with publication/scientific legitimacy potential
 
-6. **Operational Ops:** ET Demo flights appear to be active/live operations (dropsonde data, flight info, range maps, mission notes) — not just planning
+6. **Email to Personal Domain Variant:** Maciej received message at stachura@blackswifttech.com (vs. prior maciej.stachura@blackswifttech.com) — suggests alternative address or recent email system update
 
-7. **Multi-Partner Ecosystem:** Consistent coordination with universities (CU, ERAU), national labs (Brookhaven, UCAR, NOAA), vendors (NanoVeu, Vantage Robotics), and system integrators (ByLight) suggests BST operates as platform provider rather than standalone system builder
+7. **Multi-Threaded Operations:** Single day (April 6) shows Maciej on 5 distinct major projects/workstreams (Krateo, HALO, Canadian demo, ET Demo, NanoVeu simulation) — reflects senior technical/strategic role with broad portfolio responsibility
 
-8. **Strategic Communications:** Maciej's sent emails are typically forwards of strategic docs or responses on technical/partnership matters — he appears to function as senior technical/business leader rather than operations manager
+8. **Proposal Pipeline:** One Nation Innovation notification suggests company monitors innovation competitions; may represent future business development source

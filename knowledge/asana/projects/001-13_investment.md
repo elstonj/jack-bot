@@ -4,29 +4,36 @@
 - **Client/customer**: Black Swift Technologies (internal investment management)
 - **Dollar value**: $50K-$250K potential investment range across opportunities
 - **Timeline**: No specific dates defined
-- **Status**: **ARCHIVED** - project appears inactive with no task assignments or due dates
+- **Status**: **ARCHIVED** - project is inactive with no task assignments or due dates
 - **Team members involved**: None currently assigned (all tasks unassigned)
-- **Risk signals**: Project archived but with 5 open tasks; no active ownership or deadlines
+- **Risk signals**: Project archived with 5 open unassigned tasks; no active ownership or deadlines; appears deprioritized or transferred
+
+## Project Purpose
+To effectively manage and optimize investment portfolios while tracking financial performance to ensure alignment with overall financial goals and risk tolerance.
 
 ## Key Deliverables & Milestones
-No specific deliverables or milestones defined in the available data.
+No specific deliverables or milestones defined. Project consists of investment opportunity pipeline with no structured timeline.
 
 ## Task Summary
 - **Total tasks**: 5 open, 0 completed (0% completion rate)
-- **Tasks by assignee**: All 5 tasks are unassigned
-- **Notable patterns**: All investment opportunities are unowned and lack due dates; investment amounts vary significantly ($200-$250 vs $50K-$100K range)
+- **Tasks by assignee**: All 5 tasks unassigned
+- **Notable patterns**: All investment opportunities are unowned and lack due dates; investment amounts vary significantly ($200-$250 vs $50K-$100K range); mix of active interest and lower-priority follow-ups
 
 ## Recent Activity
 No recent activity evident - project is archived with no task completions or assignments.
 
+## Investment Opportunities Pipeline
+
+| Opportunity | Contact | Investment Range | Status | Notes |
+|---|---|---|---|---|
+| Cantos | Andrew Kirma | $200-$250 | Active fit | Tree Swift fund connection; slow-moving; need to fill next fund |
+| Blue Impact | Jessica Burley | $50K-$100K | Active interest | Partners to be consulted; ready to move forward |
+| Eniac | Jennifer | — | Low priority | Poor fit; insufficient customer traction; circle back later |
+| Climate Finance Solutions | Joel and Ross | — | Needs support | Requires help with proposal writing |
+| Southern Cross | Colin Gould | — | Early stage | CSU connection; Colin from CU (natural gas detection tech); business case development needed; Bert Vermussen referral |
+
 ## Notes & Context
-This appears to be an investment pipeline tracking project with several potential opportunities:
-
-**Investment Opportunities:**
-- **Andrew Kirma - Cantos**: Small investment ($200-$250), slow-moving, connection to Tree Swift fund
-- **Jessica Burley - Blue Impact**: Larger opportunity ($50K-$100K), expressing interest, partner discussions needed
-- **Jennifer - Eniac**: Poor fit due to insufficient customer traction
-- **Joel and Ross - Climate Finance Solutions**: Assistance needed with proposal writing
-- **Colin Gould - Southern Cross**: CSU connection, natural gas detection expertise, business case development potential
-
-The project purpose was portfolio optimization and financial performance tracking, but the archived status with open unassigned tasks suggests this initiative may have been deprioritized or transferred elsewhere.
+- **Fund replenishment**: Tree Swift fund connection noted for Cantos opportunity; next fund needs filling
+- **Key contacts**: Bert Vermussen involved in referral for Southern Cross opportunity
+- **Technology focus**: Natural gas detection technology from CU appears relevant to Southern Cross opportunity
+- **Project status**: Archived status with open unassigned tasks suggests this initiative was deprioritized or ownership transferred elsewhere within BST's investment evaluation process

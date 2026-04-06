@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $821,849.53
+- **Total Expenses (Bills + Purchases)**: $821,904.72
 - **Total Purchase Orders**: $0.00 (POs tracked as bills/purchases)
-- **Net Position**: -$803,955.17 (expenses exceed revenue significantly)
-- **Date Range**: April 5, 2024 – April 5, 2026 (24 months)
-- **Transaction Count**: 957+
+- **Net Position**: -$804,010.36 (expenses exceed revenue significantly)
+- **Date Range**: April 5, 2024 – April 6, 2026 (24+ months)
+- **Transaction Count**: 959+
 
 ---
 
@@ -53,7 +53,7 @@
 - **Quanta3 LLC** (Diode laser upgrade): $2,998.74
 - **I.V. Welding** (Aluminum/welding): $120.00
 
-### Materials & Direct Purchases: $406,820.10
+### Materials & Direct Purchases: $406,873.42
 - **Electronics/components** (Digi-Key, Mouser, electronics vendors): $208,187.22
 - **PCB manufacturing/assembly** (Advanced PCB, JLCPCB, FastTurn, Vyrian, Circuits West): $58,923.45
 - **Composites/structures** (Quanta3, fiber tubes, laminates, thermoset laminates): $35,578.87
@@ -61,6 +61,7 @@
 - **Motors/propulsion** (KDE, Vertiq, Amprius batteries, FetTec): $31,892.01
 - **Test/measurement equipment** (Makeflyeasy HERO VTOL x2): $1,856.00
 - **Shipping/duties/tariffs** (DHL, FedEx, duties): $26,827.72
+- **ST-LINK/V2 in-circuit debugger/programmer** (x2 units): **$52.32** *(new 2026-04-06)*
 
 ### Inventory (for future 6 S0 sales): ~$15,000+ (in Uncategorized/Inventory Asset accounts)
 
@@ -71,11 +72,11 @@
 - Conference registration & misc: $262.04
 - Local meals/coffee during travel: $815.31
 
-### Rent & Facilities: $152,498.26
+### Rent & Facilities: $152,550.58
 - **W.W. Reynolds / Goose Creek Partners** (office rent): $142,889.32
 - **Utilities** (XCEL Energy, Comcast, T-Mobile): $1,410.36
 - **Facility maintenance** (NEAT N TIDY, Ecocycle, repairs): $562.84
-- **Shop supplies** (glues, flux, solder, tape, debuggers): $4,073.74
+- **Shop supplies** (glues, flux, solder, tape, debuggers): $4,073.74 + **$52.32** *(ST-LINK debuggers, new 2026-04-06)*
 - **Software/SaaS subscriptions** (Google Workspace, Adobe, OpenAI, Slack, Flux.ai, Toggl, Constant Contact, QuickBooks, Vercel, WordPress, Hetzner, IRC Cloud, etc.): $2,504.00
 
 ### Fringe & Admin Costs: $104,654.53
@@ -86,11 +87,12 @@
 - **Bank fees** (wire transfers, service charges, finance charges): $75.00
 - **Insurance** (Liberty Mutual, Pinnacol): $534.00
 
-### Business Development/Marketing: $4,750.09
+### Business Development/Marketing: $7,110.96
 - **Airbotics Talent** (Derek Davis engagement): $3,125.00
 - **Travel for business development**: $1,624.87
 - **Conference materials (printed items for Miami)**: $360.70
 - **Shipments to potential partners** (Fort Bragg, FireScore.ai): $189.61
+- **Shipments to Miami for Convention** (Krateo Sky): **$2,360.87** *(new 2026-04-05)*
 - **FAA registration renewal**: $5.00
 - **Marketing adjustments (GoHighLevel fraudulent charges)**: -$1,540.00 (reversed)
 - **Vercel/Marketing software**: $3.29
@@ -134,22 +136,12 @@
 | 2025-07–09 | $32,000 | $7,200 | $0 | $19,444 | $2,000 | $61,000 | $121,644 |
 | 2025-10–12 | $38,000 | $12,000 | $0 | $19,472 | $4,200 | $68,000 | $141,672 |
 | 2026-01–03 | $89,000 | $92,000 | $7,077 | $20,702 | $12,000 | $122,000 | $342,779 |
-| 2026-04 (partial) | $8,600 | $22,900 | $1,400 | $7,060 | $1,500 | $60,300 | $101,760 |
+| 2026-04 (partial, through 04-06) | $8,600 | $22,952.19 | $1,400 | $7,112.32 | $2,360.87 | $60,300 | **$102,725.38** |
 
 **Observation**: Spend **accelerated dramatically in Q1 2026**, averaging ~$114K/month (Jan–Mar) vs. ~$20K–25K monthly average in 2024–2025. Primary drivers:
 1. **Increased direct labor** (Matthew Crabtree, MicroFirm, EKase consulting ramped up)
 2. **Large materials purchases** (electronics, composites for S0 production + inventory for future sales)
-3. **Miami/Florida travel** (Krateo Sky engagement, Clear Air partnerships, FII summit)
+3. **Miami/Florida travel and shipments** (Krateo Sky engagement, Clear Air partnerships, FII summit; convention shipments now logged 2026-04-05)
 4. **Payroll & tax withholding** increased as headcount/revenue expectations grew
 
----
-
-## Notable Transactions
-
-### Large Single Transactions (>$5K)
-
-| Date | Vendor/Description | Amount | Notes |
-|------|---|---|---|
-| 2026-04-03 | Invoice #1752 (Krateo Sky) | $10,860.48 | UNPAID; includes Miami travel ($5,604.84) + drone shipping ($5,255.64) |
-| 2026-03-26 | Rippling Payroll | $60,307.96 | Payroll batch |
-| 2026-03-26 | Rippling Tax Withholding | $31,261.28 
+**April 2026 YTD**: $102,725.38 
