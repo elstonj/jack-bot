@@ -2,10 +2,10 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $1.00
-- **Total Expenses (Payments):** $3,357,653.29
+- **Total Expenses (Payments):** $3,357,903.29
 - **Total Purchase Orders:** $0.00
-- **Net Position:** -$3,357,652.29
-- **Date Range:** 2024-04-05 to 2026-04-05 (24 months)
+- **Net Position:** -$3,357,902.29
+- **Date Range:** 2024-04-05 to 2026-04-06 (24 months, 1 day)
 
 ---
 
@@ -23,8 +23,8 @@
 
 ## Expenses by Cost Category
 
-**Note:** Transaction data does not include explicit account coding for cost categorization beyond project/class codes. The single explicit account tag identified:
-- **GA-Finance & Bank Charges:** $25.75 (QuickBooks Payments fee)
+**Note:** Transaction data does not include explicit account coding for cost categorization beyond project/class codes. The explicit account tags identified:
+- **GA-Finance & Bank Charges:** $275.75 (QuickBooks Payments fees: $25.75 + $250.00)
 
 All other transactions are recorded at project/class level without detailed cost category breakdown. Below is a **provisional categorization** based on vendor/project type and typical BST operations:
 
@@ -38,10 +38,10 @@ All other transactions are recorded at project/class level without detailed cost
 | **Materials & Supplies** | ~$300,000–400,000 | ~18 | Murphy's Pond CH4, CRATER, AREN, prototype build materials |
 | **Travel** | ~$50,000–75,000 | ~8 | Phase1 Aviation ($6,105), travel/logistics for field projects |
 | **Shipping/Freight** | ~$30,000–50,000 | ~5 | Implied in project expenses (not separately itemized) |
-| **Indirect Costs / G&A** | ~$25.75 | 1 | QuickBooks Payments fee ($25.75) |
+| **Indirect Costs / G&A** | ~$275.75 | 2 | QuickBooks Payments fees ($25.75 + $250.00) |
 | **Rent/Facilities** | ~$0 | 0 | None explicitly recorded |
 | **Other** | ~$800,000–1,000,000 | ~30 | Project pass-throughs, research partnerships, institutional charges |
-| **TOTAL** | **$3,357,653.29** | **86** | — |
+| **TOTAL** | **$3,357,903.29** | **87** | — |
 
 **⚠️ Limitation:** Without detailed account-level coding on each line item, precise cost categorization is not possible from this dataset. **To improve cost tracking, recommend:**
 1. Require all QB transactions to include account/cost-category tags
@@ -88,8 +88,9 @@ All other transactions are recorded at project/class level without detailed cost
 | (unclassified) | Prof. Fu-Kuo Change | $5,000.00 | 1 |
 | (unclassified) | Phase1 Aviation | $6,105.00 | 1 |
 | (unclassified) | Toyota Research Institute | $750.00 | 1 |
-| (unclassified) | QuickBooks Payments Fee | $25.75 | 1 |
-| **TOTAL** | | **$3,357,653.29** | **86** |
+| (unclassified) | Nestor Rivera | $250.00 | 1 |
+| (unclassified) | QuickBooks Payments Fees | $25.75 | 1 |
+| **TOTAL** | | **$3,357,903.29** | **87** |
 
 ---
 
@@ -121,14 +122,4 @@ All other transactions are recorded at project/class level without detailed cost
 | 2026-01 | $251,407.00 | By Light Mustang ($150K), Navy SBIR ($24,081), Navy STTR ($27,326), Autonomy ($50,000) |
 | 2026-02 | $775.75 | Toyota Research Institute ($750), QB Fee ($25.75) |
 | 2026-03 | $54,000.00 | S0 Hurricane Phase II ($54,000) |
-
-**Peak Spending Months:**  
-1. November 2025: $530,759.00
-2. March 2025: $528,405.01
-3. October 2024: $454,784.40
-
-**Average Monthly Spend:** ~$147,319
-
----
-
-## Notable
+| 2026-04 | $250.00 | Nestor Rivera (QB

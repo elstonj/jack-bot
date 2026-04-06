@@ -3,9 +3,9 @@
 ## Overview
 The operations channel serves as Black Swift Technologies' central hub for coordinating day-to-day activities, project status updates, facility management, shipping/logistics, procurement, financial tracking, and administrative matters. It functions as a working operations log where decisions are documented, action items assigned, and resources tracked.
 
-**Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), and numerous other engineers and support staff.
+**Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,421 messages across 7 batches spanning from July 2020 through early 2025. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes.
+**Activity level:** High-volume channel with 3,421+ messages across multiple batches spanning from July 2020 through April 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes.
 
 ---
 
@@ -15,7 +15,10 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **July 20, 2020:** Completed office relocation. Jack Elston coordinated with landlord. New facility includes solder station, vacuum dust management system, and industrial curtain dividers for clean/dirty room separation (divider delayed ~1 month due to COVID).
 - **May 16-17, 2023:** New office lighting installation scheduled and executed.
 - **August 2023:** Alex installed garage door seal for improved weatherproofing.
+
+### Personnel & Management
 - **June 2, 2023:** James Hannon hired as new Project Manager to address task overload and process improvements.
+- **June 6, 2023:** Jack Elston issued formal travel policy requiring Rippling approval for any leave longer than one day, citing multiple simultaneous absences by S1/S0 build team in May causing project delays.
 
 ### Equipment Procurement
 - **December 2023:** Drill press acquisition decision pending. Joshua Fromm researching floor-mounted options (Nova 58000 Voyager, Grizzly models) with ~$500+ budget needed for tooling. Jack Elston requested spreadsheet comparison for budget approval.
@@ -62,8 +65,8 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **Export documentation:** ECCN classification requests from CU Boulder for S2 aircraft in compliance process.
 - **S2 shipment from NASA Ames:** Richard Kolyer shipment postponed to January 2024 (only aircraft and ground station shipping; launcher retrofitting with safety updates continues separately).
 
-### Travel Policy (June 6, 2023)
-- **Jack Elston:** Issued formal policy requiring Rippling approval for any leave longer than one day, citing multiple simultaneous absences by S1/S0 build team in May causing project delays.
+### AI Assistant Development (April 2026)
+- **April 6, 2026:** Jack Elston implementing "Jack Bot" AI assistant that reads #operations channel history to provide task summaries and refine outputs based on team feedback. Testing with Dan Prendergast's task summaries. Team encouraged to post observations for refinement.
 
 ---
 
@@ -81,5 +84,4 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **Earlier:** VTOL rebuild with S0 hardware. Servo replacement due to crash damage. S1 airframe construction and wiring completion nearly done (as of March 2024). Remote ID testing completed.
 
 #### S2 Aircraft
-- **Status (Jan 2025):** S2 aircraft pickup by NASA Ames scheduled for Friday, December 12 (2024). One aircraft (static demo, no flying) shipped to Stanford from CU Boulder (August 2023). Another S2 with methane payload, launcher, and rail shipped to Murray State University, KY (August-September 2023).
-- **Earlier:** Refurbishment progressing with avionics nearly complete, wings/tail done, launcher wiring and testing. QC documentation and packing for multiple location shipments. Post-ISARRA issues: dead aileron, battery tray problems
+- **Status (Jan 2025):** S2 aircraft pickup by NASA Ames scheduled for Friday, December 12 (2024). One aircraft (static demo, no flying) shipped to Stanford from CU Boulder (August 2023). Another S

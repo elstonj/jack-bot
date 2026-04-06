@@ -224,7 +224,17 @@ def handle_dm(event, say, client):
     daily_channel = os.environ.get("DAILY_TASKS_CHANNEL", "")
     if daily_channel and event.get("channel") == daily_channel:
         text = event.get("text", "").strip()
-        if text:
+        if not text:
+            return
+        # If it's an explicit command, route it normally
+        text_lower = text.lower()
+        if any(text_lower.startswith(p) for p in (
+            "correct:", "correction:", "bug:", "feature:", "request:",
+            "note:", "remember:",
+        )):
+            route_message(text, say, client, event["user"], event.get("channel", ""))
+        else:
+            # Store as implicit feedback (silent — no response)
             user_name = resolve_user_name(client, event["user"])
             store_feedback(client, user_name, text)
         return

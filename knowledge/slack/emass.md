@@ -12,7 +12,7 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 - Scott and Mark (CEO) from EMASS (external partner)
 - Nikhila (external, ML model training)
 
-**Activity Level:** Ongoing active project spanning November 2025 - April 2026, with increasing intensity as hardware integration progressed.
+**Activity Level:** Ongoing active project spanning November 2025 - April 2026, with increasing intensity as hardware integration progressed. Activity continues into early April 2026.
 
 ## Key Decisions
 
@@ -79,14 +79,16 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 - Plugin loading issues in simulation environment
 - Voltage interface compatibility between hardware
 - Scope creep pressure (mixed control requests, additional output formats)
+- Financial/budgetary considerations emerging (April 6, 2026)
 
 ## Action Items & Commitments
 
-**Outstanding (as of April 1, 2026):**
+**Outstanding (as of April 6, 2026):**
 - Nikhila (EMASS) to retrain ML model with E2 flight data containing EMASS payload (as of March 8, no update received yet)
 - Dan Prendergast to order Pico 2 with headers for EMASS's new hardware requirement
 - EMASS team to: define flight plan, run scenario in simulation with hardware, freeze HW/SW interface specifications
 - Jack Elston to work on HWIL interface for EMASS hardware (pending return from Florida)
+- **Jack Elston: Financial follow-up/review (flagged April 6, 2026)**
 
 **Completed:**
 - Beck Cotter: Kickoff deck creation (Nov 2025)
@@ -97,7 +99,7 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 
 **In Progress:**
 - Dan Prendergast: Meeting EMASS on schedule and scope resets; preparing simulation tarball for external team
-- Jack Elston: HWIL integration, autonomy report (higher priority)
+- Jack Elston: HWIL integration, autonomy report (higher priority), financial review
 - Maciej: Simulation environment debugging (plugin loading)
 
 ## Client & External References
@@ -132,11 +134,10 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 
 6. **Simulation Validation:** Emphasis that EMASS team must validate their approach in simulation before hardware testing to avoid wasting BST resources
 
+7. **Financial/Budget Considerations:** Emerging concern about project finances (flagged April 6, 2026)
+
 ## Important Resources
 
 **Shared Documents/Repositories:**
 - Kickoff Presentation: https://docs.google.com/presentation/d/1Z5SP3Y6aqCO91LTuliNUwj_8Z62CY8d_QILv-DaVHCo/edit?usp=drive_link
-- Project Tracking (Asana): https://app.asana.com/1/12804948716594/project/1211903174217997/list/1211904970089530
-- E2 Gazebo model files (from Autopilot repo)
-- Flight data logs from E2 with EMASS payload (Pepper Jack, Crested Butte flights with Altum camera)
-- Gazebo SWIL
+- Project Tracking (Asana): https://app.asana.com/1/

@@ -1,10 +1,10 @@
 # Government — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $3,165,652.28
-- **Total Expenses (Bills + Purchases):** $1,235,854.17
+- **Total Invoiced (Revenue):** $3,370,916.28
+- **Total Expenses (Bills + Purchases):** $1,236,212.57
 - **Total Purchase Orders:** $433.00
-- **Net Position:** $1,929,798.11 (invoiced minus expenses)
+- **Net Position:** $2,134,703.71 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -12,21 +12,20 @@
 ## Revenue (Invoices & Payments)
 
 ### Summary
-- **Total Invoiced:** $3,165,652.28
-- **Total Collected (Outstanding Balance):** $1,929,798.11 remaining (invoices with open balances)
-- **Number of Invoices:** 60 active invoices
+- **Total Invoiced:** $3,370,916.28
+- **Total Collected (Outstanding Balance):** $2,134,703.71 remaining (invoices with open balances)
+- **Number of Invoices:** 66 active invoices
 
 ### Major Revenue Streams by Project
 
 | Project/Class | Total Invoiced | Key Invoices |
 |---------------|----------------|--------------|
 | [301-3] S0 Hurricane Phase II 2025 | $844,449.61 | Progress payments, platform deliveries, training & operations |
-| (400-5) SMM Phase II 22.4D | $849,725.00 | CLIN work (004-008): Algorithm dev, field testing, refinement |
-| [300-3] 2026 IDIQ | $360,000.00 | 6 invoices, CLIN 1001 modification P26002 |
-| [550-1] Navy SBIR Magnetometer | $268,081.00 | Kick-off, progress, final reports & TABA |
+| (400-5) SMM Phase II 22.4D | $1,699,725.00 | CLIN work (004-008): Algorithm dev, field testing, refinement; Soil Moisture Mapping |
+| [300-3] 2026 IDIQ | $504,000.00 | 6 invoices (Invoices 2-6), CLIN 1001 modification P26002 (Invoices #1737–#1741) |
+| [550-1] Navy SBIR Magnetometer | $367,940.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA |
 | [550-2] Navy STTR Hazardous Weather | $216,326.00 | Kick-off, progress, final reports & TABA |
 | [200-14] Autonomy | $156,211.00 | CLIN 0001-0005, initial through final invoicing |
-| (400-5) SMM Phase II 22.4D | $850,000.00 | Soil Moisture Mapping work |
 | [200-11] NASA Persistence Demo | $74,428.00 | Interim & final demonstration reports |
 | [200-13] CRATER (Costa Rica Volcanoes) | $80,272.00 | Kick-off, demonstrations & final report |
 | [200-12] AREN 2025 | $117,701.50 | Aerospace Engineering |
@@ -93,10 +92,11 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 
 ---
 
-### **Shipping/Freight: $3,246.03**
-**Number of transactions:** 35+  
+### **Shipping/Freight: $3,604.43**
+**Number of transactions:** 36+  
 **Key items:**
 - **Aeronet Worldwide:** $2,615.50 (battery shipping, S0 UAS to NOAA Lakeland)
+- **Direct Cost Shipping, Freight & Delivery:** $358.40 (2026-04-06, items sent to NOAA Lakeland for Maciej & Alex trip)
 - **DHL/FedEx tariffs on PCB imports:** $234.60+
 - **USPS reimbursements:** $12.25 + $25.45
 - **Various parcel shipping:** $200+ across multiple vendors
@@ -117,6 +117,13 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 ### **Other/Miscellaneous: $801.00**
 - **Tariff & import duties:** $801.00+ (split across multiple purchases, included in Materials total above)
 - **Unallocated/miscellaneous:** Minimal
+
+---
+
+## Purchase Orders
+| PO Number | Date | Vendor | Amount | Description |
+|-----------|------|--------|--------|-------------|
+| — | Various | Various | $433.00 | Outstanding purchase orders |
 
 ---
 
@@ -142,6 +149,4 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 | 2025-07 | $57,289.00 | $5,800.00 | $0.00 | $133.89 | $0.00 | $63,222.89 |
 | 2025-08 | $17,299.53 | $4,600.00 | $0.00 | $11.29 | $0.00 | $21,910.82 |
 | 2025-09 | $13,666.38 | $320.00 | $3,500.00 | $12.26 | $0.00 | $17,498.64 |
-| 2025-10 | $8,223.00 | $1,000.00 | $3,500.00 | $5.35 | $0.00 | $12,728.35 |
-| 2025-11 | $27,467.00 | $4,500.00 | $1,577.97 | $45.90 | $0.00 | $33,590.87 |
-| 2025-12 | $31,487.50 | $2,000.00 | $1,100.00 | $0
+| 2025-10 | $8,223.00 | $1,000.00 | $3,500.00 | $5.35 | $

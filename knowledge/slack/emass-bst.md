@@ -10,7 +10,7 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Moe (eMASS AI) - AI model training and optimization
 - Maciej (BST) - Vehicle parameters and specifications
 
-**Activity Level:** Highly active collaboration spanning February-April 2026, with daily communication during critical integration phases. Initial setup discussions in early February ramping to intensive HWIL (Hardware-In-The-Loop) and model training work in March-April.
+**Activity Level:** Highly active collaboration spanning February-April 2026, with daily communication during critical integration phases. Initial setup discussions in early February ramping to intensive HWIL (Hardware-In-The-Loop) and model training work in March-April. Recent activity shows transition toward flight test finalization (early April 2026).
 
 ---
 
@@ -36,12 +36,17 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 **Hardware Addition (Apr 1, 2026)**
 - Determined that a Raspberry Pi Pico 2 with headers is required for autoboot functionality
 
+**Flight Test Priority Over Research (Apr 6, 2026)**
+- Jack Elston confirmed that current Statement of Work (SOW) takes priority over eMASS internal research needs
+- Decision to defer building safety-guard-free autopilot variant until after flight test completion
+- Rationale: Removing limit checks is time-consuming; completing flight test is the immediate priority
+
 ---
 
 ## Projects & Initiatives
 
 ### ECSDoT Integration onto E2 Aircraft
-**Status:** Advanced HWIL testing phase (as of Apr 1, 2026)
+**Status:** Final flight test preparation phase (as of Apr 6, 2026)
 
 **Scope:** Integrating eMASS AI's ECSDoT energy management chip onto BST's E2 multirotor UAS for final flight testing.
 
@@ -55,12 +60,13 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - ECSDoT chip successfully connects to autopilot and receives PAYLOAD_CTRL_ACTIVE commands
 - PPO (Proximal Policy Optimization) inference running at 70 Hz
 - Model validation in SWIL (Software-In-The-Loop) environment completed
-- Real flight data model training completed; testing with HWIL setup underway
+- Real flight data model training completed; HWIL testing underway as of Apr 1
+- Model performing with minimal errors in HWIL validation
 
 **Current Work:**
-- Validating AI model performance with minimal errors (reduced from initial high error rates)
-- Implementing vehicle control limits into inference (roll/pitch ±20°, vertical speed -1.5 to 3.0 m/s, etc.)
-- HWIL validation tests with Pico 2 autoboot support in progress
+- Final HWIL validation tests with Pico 2 autoboot support in progress
+- Preparing for flight test execution with current safety-constrained autopilot
+- eMASS planning internal research study in simulation (safety-guard-free variant) as post-flight-test activity
 
 ---
 
@@ -75,11 +81,10 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Mar 24: Provided sim-only flight data (CSV file) to Prof. Moe for model training
 - Mar 25: Committed to HWIL validation with sim-only model by end of day
 - Mar 27: Committed to validate AI model with minimal errors over weekend
+- Apr 5: Requested access to safety-guard-free autopilot variant for internal research study in simulation
 
 **Pending:**
-- Validate updated AI model trained on real flight data (as of Apr 1)
-- Test with new Pico 2 autoboot hardware when obtained
-- Provide firmware and documentation for Pico 2 setup
+- Complete internal AI model study in simulation (post-flight-test, per Apr 6 decision)
 
 ### From Jack Elston (BST)
 
@@ -90,9 +95,10 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Mar 26: Delivered detailed UART connection instructions for ECSDoT-SwiftPilot integration
 - Mar 30: Clarified that cruise speed is safety parameter, not physical limit
 - Mar 31: Confirmed no existing wind/disturbance models available in Gazebo
+- Apr 6: Confirmed prioritization of flight test completion over research needs; committed to building safety-guard-free autopilot variant after SOW completion
 
 **Pending:**
-- None explicitly stated
+- None explicitly stated in immediate term
 
 ### From Dan Prendergast (BST)
 
@@ -111,22 +117,12 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 **Completed:**
 - Mar 31: Provided updated battery capacity specification: 907.2 Wh (converted from Ah, recently switched units)
 
-### Outstanding Items
-
-**Hardware Procurement:**
-- Obtain Raspberry Pi Pico 2 with headers (requested Apr 1; no confirmation of procurement yet)
-
-**Model Training & Validation:**
-- Resolve high error rates in AI surrogate model through additional waypoint data (requested Mar 24)
-- Train model on real flight data and validate in HWIL (committed by Nikhila)
-
 ---
 
 ## Client & External References
 
 ### Internal Collaboration
-- **Prof. Moe** (eMASS AI) - AI model training and optimization
-- **eMASS AI colleague** - Docker image development and SDK distribution
+- **Prof. Moe** (eMASS AI) - AI model training and optimization; initiating internal research study on AI model behavior in simulation (Apr 5)
 
 ### External Hardware/Software
 - **Gazebo Simulation** - SwiftPilot SWIL simulation environment
@@ -150,9 +146,4 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 ### 2. **Model Training & Data Collection**
 - Iterative cycles of data collection → model training → validation
 - Requests for additional varied data to improve model accuracy
-- Shift from sim-only to real flight data training (Mar 24-Apr 1)
-
-### 3. **Vehicle Parameters & Constraints**
-- Vehicle limits (roll, pitch, yaw, vertical speed, etc.)
-- Battery parameters and propulsive efficiency calculations
--
+- Shift from sim-only to real flight data training (Mar
