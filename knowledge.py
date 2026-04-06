@@ -10,8 +10,11 @@ Entry types:
   [DELIVERABLE] - Upcoming deliverables with dates
   [TEAM]        - Team member context: strengths, capacity, preferences
   [CORRECTION]  - User corrections to task prioritization
+  [FEEDBACK]    - Implicit feedback from team member replies
   [INSIGHT]     - Forward-looking strategic observations
   [SOURCE]      - Where recurring useful info lives (drives, channels, projects)
+  [BUG]         - Bug reports for Jack Bot or BST systems
+  [FEATURE]     - Feature requests for Jack Bot or BST systems
   [ERROR]       - Pipeline errors and data source failures
 """
 
@@ -44,6 +47,30 @@ def store_correction(slack_client, user_name, correction):
 def store_feedback(slack_client, user_name, feedback):
     """Store implicit feedback from a team member's reply in the tasks channel."""
     store_entry(slack_client, "FEEDBACK", f"From {user_name}: {feedback}")
+
+
+def store_bug(slack_client, user_name, description):
+    """Store a bug report."""
+    store_entry(slack_client, "BUG", f"From {user_name}: {description}")
+
+
+def store_feature(slack_client, user_name, description):
+    """Store a feature request."""
+    store_entry(slack_client, "FEATURE", f"From {user_name}: {description}")
+
+
+def list_items(slack_client, item_type):
+    """List all open BUG or FEATURE entries, formatted for Slack output."""
+    entries = get_knowledge(slack_client, [item_type])
+    if not entries:
+        label = "bugs" if item_type == "BUG" else "feature requests"
+        return f"No {label} on file."
+
+    label = ":bug: *Open Bugs*" if item_type == "BUG" else ":sparkles: *Feature Requests*"
+    lines = [label]
+    for i, entry in enumerate(entries, 1):
+        lines.append(f"{i}. {entry['content']}")
+    return "\n".join(lines)
 
 
 def store_daily_snapshot(slack_client, summary):
@@ -79,7 +106,8 @@ def get_knowledge(slack_client, entry_types=None, days=None):
             for msg in result.get("messages", []):
                 text = msg.get("text", "")
                 for tag in ["PRIORITY", "PROJECT", "CLIENT", "DELIVERABLE",
-                            "TEAM", "CORRECTION", "FEEDBACK", "INSIGHT", "SNAPSHOT", "SOURCE", "ERROR", "DEBUG"]:
+                            "TEAM", "CORRECTION", "FEEDBACK", "INSIGHT", "SNAPSHOT",
+                            "SOURCE", "BUG", "FEATURE", "ERROR", "DEBUG"]:
                     if text.startswith(f"*[{tag}]*"):
                         if entry_types is None or tag in entry_types:
                             content = text.replace(f"*[{tag}]*\n", "", 1)

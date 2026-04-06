@@ -9,7 +9,7 @@ from flask import Flask, request
 from weather import format_weather
 from personality import get_response
 from research_cache import get_full_summary, get_user_summary, get_team_summary, get_per_user_sections, is_stale
-from knowledge import store_correction, store_entry, store_feedback
+from knowledge import store_correction, store_entry, store_feedback, store_bug, store_feature, list_items
 from knowledge_qa import answer_question
 from finances import get_project_finances
 from scheduler import start_scheduler
@@ -149,20 +149,39 @@ def handle_mention(event, say, client):
     text = event.get("text", "")
     message = re.sub(r"<@[A-Z0-9]+>\s*", "", text).strip()
 
-    msg_lower = message.lower()
+    route_message(message, say, client, event["user"], event.get("channel", ""))
+
+
+def route_message(message, say, client, user_id, channel_id):
+    """Unified routing for all natural language commands."""
+    msg_lower = message.lower().strip()
+
     if msg_lower.startswith("weather"):
         say(format_weather())
     elif msg_lower.startswith("tasks"):
-        handle_tasks_command(say, message, event["user"])
+        handle_tasks_command(say, message, user_id)
     elif msg_lower.startswith(("finances", "financial")):
-        result = get_project_finances(client, event.get("channel", ""))
-        say(result)
+        say(get_project_finances(client, channel_id))
+    elif msg_lower.startswith("bug:"):
+        desc = re.sub(r"^bug:\s*", "", message, flags=re.IGNORECASE)
+        user_name = resolve_user_name(client, user_id)
+        store_bug(client, user_name, desc)
+        say(f"Bug logged. I'll track it.")
+    elif msg_lower.startswith("feature:") or msg_lower.startswith("request:"):
+        desc = re.sub(r"^(?:feature|request):\s*", "", message, flags=re.IGNORECASE)
+        user_name = resolve_user_name(client, user_id)
+        store_feature(client, user_name, desc)
+        say(f"Feature request logged.")
+    elif msg_lower in ("bugs", "bug list", "show bugs"):
+        say(list_items(client, "BUG"))
+    elif msg_lower in ("features", "feature list", "show features", "feature requests"):
+        say(list_items(client, "FEATURE"))
     elif msg_lower.startswith("correct:") or msg_lower.startswith("correction:"):
         correction = re.sub(r"^correct(?:ion)?:\s*", "", message, flags=re.IGNORECASE)
-        user_name = resolve_user_name(client, event["user"])
+        user_name = resolve_user_name(client, user_id)
         store_correction(client, user_name, correction)
         say(f"Got it. I'll factor that into future prioritization.")
-    elif msg_lower.startswith("note:") or msg_lower.startswith("remember:"):
+    elif msg_lower.startswith(("note:", "remember:")):
         note = re.sub(r"^(?:note|remember):\s*", "", message, flags=re.IGNORECASE)
         entry_type = "PRIORITY" if any(w in msg_lower for w in ["priority", "important", "focus"]) else "INSIGHT"
         store_entry(client, entry_type, note)
@@ -171,8 +190,8 @@ def handle_mention(event, say, client):
         question = strip_qa_prefix(message)
         say(answer_question(question, slack_client=client))
     else:
-        user_name = resolve_user_name(client, event["user"])
-        history = fetch_history(client, event["channel"])
+        user_name = resolve_user_name(client, user_id)
+        history = fetch_history(client, channel_id)
         bot_id = get_bot_user_id(client)
         say(get_response(message, user_name, history, bot_id))
 
@@ -194,33 +213,7 @@ def handle_dm(event, say, client):
     if event.get("channel_type") != "im":
         return
     text = event.get("text", "").strip()
-
-    text_lower = text.lower()
-    if text_lower.startswith("weather"):
-        say(format_weather())
-    elif text_lower.startswith("tasks"):
-        handle_tasks_command(say, text, event["user"])
-    elif text_lower.startswith(("finances", "financial")):
-        result = get_project_finances(client, event.get("channel", ""))
-        say(result)
-    elif text_lower.startswith("correct:") or text_lower.startswith("correction:"):
-        correction = re.sub(r"^correct(?:ion)?:\s*", "", text, flags=re.IGNORECASE)
-        user_name = resolve_user_name(client, event["user"])
-        store_correction(client, user_name, correction)
-        say(f"Got it. I'll factor that into future prioritization.")
-    elif text_lower.startswith("note:") or text_lower.startswith("remember:"):
-        note = re.sub(r"^(?:note|remember):\s*", "", text, flags=re.IGNORECASE)
-        entry_type = "PRIORITY" if any(w in text_lower for w in ["priority", "important", "focus"]) else "INSIGHT"
-        store_entry(client, entry_type, note)
-        say(f"Noted. Stored as [{entry_type}] in the knowledge base.")
-    elif is_question(text):
-        question = strip_qa_prefix(text)
-        say(answer_question(question, slack_client=client))
-    else:
-        user_name = resolve_user_name(client, event["user"])
-        history = fetch_history(client, event["channel"])
-        bot_id = get_bot_user_id(client)
-        say(get_response(text, user_name, history, bot_id))
+    route_message(text, say, client, event["user"], event.get("channel", ""))
 
 
 @flask_app.route("/slack/commands", methods=["POST"])
