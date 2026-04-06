@@ -68,6 +68,30 @@ QUESTION_STARTERS = (
 )
 
 
+def is_teaching(text):
+    """Return True if the message is teaching the bot something (acronym, fact, correction).
+
+    Detects patterns like:
+    - "KS = Krateo Sky"
+    - "KS is Krateo Sky"
+    - "KS stands for Krateo Sky"
+    - "KS means Krateo Sky"
+    - "by the way, KS is Krateo Sky"
+    - "fyi Daniel handles DCAA"
+    """
+    lower = text.lower().strip()
+    # Direct definition patterns: "X = Y", "X == Y"
+    if re.search(r"^[A-Za-z\s]{1,30}\s*=\s*.{2,}", text):
+        return True
+    # "X is/are Y" patterns (but not questions)
+    if "?" not in text and re.search(r"^[A-Za-z\s]{1,30}\s+(?:is|are|means?|stands?\s+for|refers?\s+to)\s+.{2,}", text, re.IGNORECASE):
+        return True
+    # "fyi", "btw", "for reference", "just so you know" prefixed statements
+    if re.match(r"^(?:fyi|btw|by the way|for reference|just so you know|for context)[,:\s]", lower):
+        return True
+    return False
+
+
 def is_question(text):
     """Return True if the message should be routed to knowledge Q&A."""
     lower = text.lower().strip()
@@ -202,6 +226,10 @@ def route_message(message, say, client, user_id, channel_id):
         entry_type = "PRIORITY" if any(w in msg_lower for w in ["priority", "important", "focus"]) else "INSIGHT"
         store_entry(client, entry_type, note)
         say(f"Noted. Stored as [{entry_type}] in the knowledge base.")
+    elif is_teaching(message):
+        user_name = resolve_user_name(client, user_id)
+        store_entry(client, "INSIGHT", f"From {user_name}: {message}")
+        say("Got it, noted for future reference.")
     elif is_question(message):
         question = strip_qa_prefix(message)
         say(answer_question(question, slack_client=client))
