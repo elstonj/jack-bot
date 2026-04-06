@@ -12,6 +12,7 @@ from pathlib import Path
 FINANCIAL_DIR = Path(__file__).parent / "knowledge" / "financial" / "by_project"
 OVERVIEW_PATH = Path(__file__).parent / "knowledge" / "financial" / "overview.md"
 CHANNEL_MAP_PATH = Path(__file__).parent / "knowledge" / "channel_projects.md"
+PROJECT_DIR = Path(__file__).parent / "knowledge" / "projects"
 
 
 def _load_channel_map():
@@ -89,6 +90,10 @@ def get_project_finances(slack_client, channel_id):
         path = _find_financial_file(code)
         if path:
             return _format_financial_content(path)
+        # Fall back to project registry summary
+        proj_path = PROJECT_DIR / f"{code}.md"
+        if proj_path.exists():
+            return _format_financial_content(proj_path)
         return f"Channel mapped to project `{code}` but no financial data found. Run `python scan.py financial`."
 
     # 2. Try extracting project codes from channel name/topic/purpose

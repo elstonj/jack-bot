@@ -25,12 +25,6 @@ flask_app = Flask(__name__)
 handler = SlackRequestHandler(app)
 
 
-@app.command("/weather")
-def handle_weather(ack, respond):
-    ack()
-    respond(response_type="in_channel", text=format_weather())
-
-
 @app.command("/refresh-tasks")
 def handle_refresh_tasks(ack, respond, client, command):
     knowledge_channel = os.environ.get("KNOWLEDGE_CHANNEL", "")
@@ -156,7 +150,23 @@ def route_message(message, say, client, user_id, channel_id):
     """Unified routing for all natural language commands."""
     msg_lower = message.lower().strip()
 
-    if msg_lower.startswith("weather"):
+    if msg_lower in ("help", "commands", "what can you do"):
+        say(
+            "*Here's what I can do:*\n"
+            "\n"
+            ":clipboard: *tasks* — your prioritized task list (`tasks all` for the team)\n"
+            ":partly_sunny: *weather* — flying conditions at local RC sites\n"
+            ":dollar: *finances* — project financial summary (in a project channel)\n"
+            ":bug: *bug: [description]* — report a bug\n"
+            ":sparkles: *feature: [description]* — request a feature\n"
+            ":clipboard: *bugs* / *features* — list open items\n"
+            ":arrows_counterclockwise: *correct: [feedback]* — fix task priorities\n"
+            ":memo: *note: [info]* — teach me something about projects\n"
+            ":question: Just ask a question naturally — I'll search the knowledge base\n"
+            "\n"
+            "_Or just talk to me. I'll be grumpy about it._"
+        )
+    elif msg_lower.startswith("weather"):
         say(format_weather())
     elif msg_lower.startswith("tasks"):
         handle_tasks_command(say, message, user_id)

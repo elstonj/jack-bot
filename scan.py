@@ -37,7 +37,7 @@ if env_path.exists():
                 os.environ[key] = value
 
 
-AVAILABLE_SOURCES = ["asana", "toggl", "contacts", "slack", "email", "drive", "proposals", "budgets", "quickbooks", "financial"]
+AVAILABLE_SOURCES = ["asana", "toggl", "contacts", "slack", "email", "drive", "proposals", "budgets", "quickbooks", "financial", "projects"]
 
 
 def scan_asana(mode):
@@ -220,6 +220,27 @@ def scan_proposals(mode):
         print(f"  {name}: {char_count} chars → {path.name}")
 
 
+def scan_projects(mode):
+    from scanners.project_registry_scanner import scan
+    print(f"\n{'='*60}")
+    print(f"PROJECT REGISTRY SCAN")
+    print(f"{'='*60}\n")
+
+    # Get a Slack client for channel cross-referencing
+    slack_client = None
+    try:
+        from slack_sdk import WebClient
+        slack_client = WebClient(token=os.environ["SLACK_BOT_TOKEN"])
+    except Exception as e:
+        print(f"[WARN] No Slack client available, skipping channel matching: {e}")
+
+    start = time.time()
+    entries = scan(slack_client=slack_client)
+    elapsed = time.time() - start
+
+    print(f"\nProject registry complete: {len(entries)} projects in {elapsed:.0f}s")
+
+
 SCANNERS = {
     "asana": scan_asana,
     "toggl": scan_toggl,
@@ -231,6 +252,7 @@ SCANNERS = {
     "budgets": scan_budgets,
     "quickbooks": scan_quickbooks,
     "financial": scan_financial,
+    "projects": scan_projects,
 }
 
 
@@ -272,6 +294,7 @@ def main():
             "QUICKBOOKS_REALM_ID": "QuickBooks company ID",
         },
         "financial": {},  # reads other scanner outputs, no external API needed
+        "projects": {"ASANA_ACCESS_TOKEN": "Asana API"},
     }
 
     sources = AVAILABLE_SOURCES if args.source == "all" else [args.source]

@@ -639,6 +639,11 @@ def _load_knowledge_context(users=None):
     if proposals_catalog:
         sections.append(f"=== KNOWLEDGE: PROPOSALS & REPORTS CATALOG ===\n{proposals_catalog}")
 
+    # --- Project registry ---
+    registry = _read_file(KNOWLEDGE_DIR / "projects" / "registry.md", max_chars=4000)
+    if registry:
+        sections.append(f"=== KNOWLEDGE: PROJECT REGISTRY ===\n{registry}")
+
     return "\n\n".join(sections)
 
 
