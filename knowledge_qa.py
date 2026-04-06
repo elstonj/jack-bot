@@ -318,11 +318,26 @@ def select_files(question):
         # Also check slack for matching project channels
         files.extend(_match_slack_files(q))
 
-    # Always try name-based matching on project files, toggl, and financials for specific lookups
+    # Always try name-based matching on project files, registry, toggl, and financials
     files.extend(_match_project_files(q))
     files.extend(_match_toggl_files(q))
     files.extend(_match_email_files(q))
     files.extend(_match_financial_files(q))
+
+    # Project registry — always include for people/company/contact questions
+    registry = os.path.join(KNOWLEDGE_DIR, "projects", "registry.md")
+    if os.path.exists(registry):
+        files.append(registry)
+    # Also match per-project registry files by keyword
+    proj_reg_dir = os.path.join(KNOWLEDGE_DIR, "projects")
+    if os.path.isdir(proj_reg_dir):
+        for fpath in sorted(glob.glob(os.path.join(proj_reg_dir, "*.md"))):
+            fname = os.path.basename(fpath).lower().replace(".md", "").replace("_", " ").replace("-", " ")
+            words = [w for w in re.findall(r'[a-z0-9]+', q) if len(w) >= 3]
+            for word in words:
+                if word in fname:
+                    files.append(fpath)
+                    break
 
     # --- Fallback: if nothing matched, load summaries from each source ---
     if not files:
@@ -368,17 +383,84 @@ def _build_context(files):
     return "\n".join(context_parts)
 
 
+def _search_gmail(question, max_results=10):
+    """Deep search Gmail for relevant email content as a fallback.
+
+    Searches email bodies (not just subjects) across BST team members.
+    Returns formatted email snippets or empty string if nothing found.
+    """
+    try:
+        from google_client import _get_credentials
+        from googleapiclient.discovery import build as gbuild
+
+        # Build a Gmail search query from the question keywords
+        stopwords = {"the", "and", "for", "are", "but", "not", "you", "all", "can",
+                     "has", "how", "what", "when", "where", "which", "who", "why",
+                     "does", "this", "that", "with", "from", "have", "about", "should",
+                     "would", "could", "talk", "need", "want"}
+        words = [w for w in re.findall(r'[a-z0-9]+', question.lower())
+                 if len(w) >= 3 and w not in stopwords]
+        if not words:
+            return ""
+
+        gmail_query = " ".join(words[:5])  # top 5 keywords
+        # Search from a leadership email that likely has relevant threads
+        admin_email = os.environ.get("GOOGLE_ADMIN_EMAIL", "elstonj@blackswifttech.com")
+        creds = _get_credentials(admin_email)
+        if not creds:
+            return ""
+
+        service = gbuild("gmail", "v1", credentials=creds)
+        results = service.users().messages().list(
+            userId="me", q=gmail_query, maxResults=max_results
+        ).execute()
+
+        messages = results.get("messages", [])
+        if not messages:
+            return ""
+
+        snippets = []
+        for msg_ref in messages[:5]:
+            msg = service.users().messages().get(
+                userId="me", id=msg_ref["id"], format="metadata",
+                metadataHeaders=["From", "To", "Subject", "Date"]
+            ).execute()
+            headers = {h["name"]: h["value"] for h in msg.get("payload", {}).get("headers", [])}
+            snippet = msg.get("snippet", "")
+            snippets.append(
+                f"From: {headers.get('From', '?')}\n"
+                f"To: {headers.get('To', '?')}\n"
+                f"Subject: {headers.get('Subject', '?')}\n"
+                f"Date: {headers.get('Date', '?')}\n"
+                f"Snippet: {snippet}\n"
+            )
+
+        if snippets:
+            return "=== GMAIL SEARCH RESULTS ===\n" + "\n---\n".join(snippets)
+        return ""
+    except Exception:
+        return ""
+
+
 def answer_question(question, slack_client=None):
     """
-    Answer a natural language question using the knowledge files.
-
-    Args:
-        question: The user's question text
-        slack_client: Optional Slack WebClient (unused for now, reserved for future use)
-
-    Returns:
-        Answer text string
+    Answer a natural language question using the knowledge files,
+    with Gmail deep search as fallback.
     """
+    # Also pull in any knowledge channel entries (corrections, insights, feedback)
+    knowledge_context = ""
+    if slack_client:
+        try:
+            from knowledge import get_knowledge
+            recent = get_knowledge(slack_client, ["CORRECTION", "FEEDBACK", "INSIGHT"], days=30)
+            if recent:
+                lines = ["=== RECENT KNOWLEDGE CHANNEL ENTRIES ==="]
+                for entry in recent[-20:]:
+                    lines.append(f"[{entry['type']}] {entry['content']}")
+                knowledge_context = "\n".join(lines)
+        except Exception:
+            pass
+
     files = select_files(question)
 
     if not files:
@@ -389,6 +471,9 @@ def answer_question(question, slack_client=None):
     if not context.strip():
         return "I found matching knowledge files but they appear to be empty."
 
+    if knowledge_context:
+        context = f"{knowledge_context}\n\n{context}"
+
     user_prompt = f"""Here are the knowledge files:\n\n{context}\n\n---\nQuestion: {question}"""
 
     try:
@@ -398,6 +483,28 @@ def answer_question(question, slack_client=None):
             system=QA_SYSTEM_PROMPT,
             messages=[{"role": "user", "content": user_prompt}],
         )
-        return response.content[0].text
+        answer = response.content[0].text
+
+        # If the answer indicates lack of knowledge, try Gmail deep search
+        no_info_phrases = ["don't have information", "not in my knowledge",
+                           "don't have details", "no information about"]
+        if any(phrase in answer.lower() for phrase in no_info_phrases):
+            gmail_results = _search_gmail(question)
+            if gmail_results:
+                # Re-ask with Gmail context added
+                extended_prompt = (
+                    f"Here are the knowledge files:\n\n{context}\n\n"
+                    f"{gmail_results}\n\n---\n"
+                    f"Question: {question}"
+                )
+                response2 = client.messages.create(
+                    model="claude-sonnet-4-20250514",
+                    max_tokens=1200,
+                    system=QA_SYSTEM_PROMPT + "\n\nYou also have Gmail search results. Use them to supplement your answer.",
+                    messages=[{"role": "user", "content": extended_prompt}],
+                )
+                return response2.content[0].text
+
+        return answer
     except Exception as e:
         return f"Sorry, I hit an error trying to answer that: {e}"
