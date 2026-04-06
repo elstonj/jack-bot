@@ -9,8 +9,9 @@ from flask import Flask, request
 from weather import format_weather
 from personality import get_response
 from research_cache import get_full_summary, get_user_summary, get_team_summary, get_per_user_sections, is_stale
-from knowledge import store_correction, store_entry
+from knowledge import store_correction, store_entry, store_feedback
 from knowledge_qa import answer_question
+from finances import get_project_finances
 from scheduler import start_scheduler
 
 load_dotenv()
@@ -153,6 +154,9 @@ def handle_mention(event, say, client):
         say(format_weather())
     elif msg_lower.startswith("tasks"):
         handle_tasks_command(say, message, event["user"])
+    elif msg_lower.startswith(("finances", "financial")):
+        result = get_project_finances(client, event.get("channel", ""))
+        say(result)
     elif msg_lower.startswith("correct:") or msg_lower.startswith("correction:"):
         correction = re.sub(r"^correct(?:ion)?:\s*", "", message, flags=re.IGNORECASE)
         user_name = resolve_user_name(client, event["user"])
@@ -175,9 +179,19 @@ def handle_mention(event, say, client):
 
 @app.event("message")
 def handle_dm(event, say, client):
-    if event.get("channel_type") != "im":
-        return
     if event.get("bot_id"):
+        return
+
+    # Capture replies in the daily tasks channel as implicit feedback
+    daily_channel = os.environ.get("DAILY_TASKS_CHANNEL", "")
+    if daily_channel and event.get("channel") == daily_channel:
+        text = event.get("text", "").strip()
+        if text:
+            user_name = resolve_user_name(client, event["user"])
+            store_feedback(client, user_name, text)
+        return
+
+    if event.get("channel_type") != "im":
         return
     text = event.get("text", "").strip()
 
@@ -186,6 +200,9 @@ def handle_dm(event, say, client):
         say(format_weather())
     elif text_lower.startswith("tasks"):
         handle_tasks_command(say, text, event["user"])
+    elif text_lower.startswith(("finances", "financial")):
+        result = get_project_finances(client, event.get("channel", ""))
+        say(result)
     elif text_lower.startswith("correct:") or text_lower.startswith("correction:"):
         correction = re.sub(r"^correct(?:ion)?:\s*", "", text, flags=re.IGNORECASE)
         user_name = resolve_user_name(client, event["user"])

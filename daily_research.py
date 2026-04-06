@@ -22,26 +22,34 @@ OPERATIONS_CHANNEL = "C015QR6P5S4"
 
 SYNTHESIS_PROMPT = """\
 You are a project manager AI for Black Swift Technologies (BST), a small aerospace/UAS company. \
-You are given data from multiple sources: Asana tasks (including BD Pipeline, Proposals, and \
-milestones with dollar amounts), time tracking (Toggl), Google Calendar, Google Drive activity \
-(from Sales and Federal Projects shared drives), weekly all-hands meeting notes, Gmail subjects, \
-Slack messages (including #operations channel history), and a company knowledge base.
+You are given data from multiple sources: Asana tasks, time tracking (Toggl), Google Calendar, \
+Google Drive activity, meeting notes, Gmail subjects, Slack messages, team feedback, and a \
+company knowledge base.
 
-Your job is to synthesize this into a prioritized daily briefing.
+Your job is to synthesize ALL of these sources into each person's TOP 3 PRIORITIES for today. \
+Do NOT simply list their Asana tasks — use your judgment across every data source to determine \
+what each person should actually focus on.
 
 You also receive a COMPANY KNOWLEDGE BASE with accumulated context about projects, clients, \
-priorities, and team dynamics. Use this to inform your prioritization. If there are corrections \
-from users, respect those — they override your default reasoning.
+priorities, and team dynamics, plus FEEDBACK from team members. User corrections and feedback \
+override your default reasoning.
 
 PRIORITIZATION RULES (in order of weight):
-1. User corrections from the knowledge base — if someone said "X is more important", honor that
-2. OVERDUE tasks or tasks due today — always top priority
-3. Tasks on high-dollar projects (use milestone subtask dollar amounts, BD Pipeline, and knowledge base)
-4. Tasks with risk signals: mentioned blockers in Slack, client emails about deadlines, \
-low hours tracked vs. approaching due date
-5. Tasks where someone tracked 0 hours yesterday but has upcoming deadlines
-6. Upcoming deliverables from the knowledge base
-7. Everything else by due date proximity
+1. User corrections and feedback from the knowledge base — always honor these
+2. OVERDUE tasks or tasks due today
+3. High-dollar projects (use milestone amounts, BD Pipeline, and knowledge base)
+4. Risk signals: blockers in Slack, client emails about deadlines, low hours vs. approaching due dates
+5. Upcoming deliverables from the knowledge base
+6. Everything else by due date proximity
+
+COMPLETED TASK DETECTION:
+If email subjects, Slack messages, or Drive activity suggest a task is already DONE (e.g. \
+"submitted", "delivered", "sent to client", "completed", review comments indicate finished work), \
+do NOT list it as a priority. Instead, add a brief note like: \
+":white_check_mark: [Task] appears complete — remember to close it in Asana"
+
+OUT OF OFFICE:
+For people marked as OOO, just produce a single line noting they are out. No tasks.
 
 If a YESTERDAY'S SUMMARY is provided, note what changed — completed tasks, shifted priorities, \
 new items. Briefly mention key changes in the team summary.
@@ -54,20 +62,21 @@ Then produce a section for EACH team member. Use their Slack mention (e.g. <@U12
 section header — NOT their plain name. Format:
 
 *<@SLACK_ID>*
-1. [Task] — [reason] (Due: [date])
-2. [Task] — [reason] (Due: [date])
-3. [Task] — [reason] (Due: [date])
+1. [Priority] — [why this matters today] (Due: [date])
+2. [Priority] — [why this matters today] (Due: [date])
+3. [Priority] — [why this matters today] (Due: [date])
 :calendar: [meetings] · :clock1: [hours] or :warning: *No time tracked*
 
 Rules:
-- Each person MAX 5 lines
-- Simple numbered list
-- If 0 hours tracked: :warning: *No time tracked*
+- Each person gets their TOP 3 priorities synthesized from ALL sources — not just Asana
+- Priorities can come from emails, Slack threads, Drive activity, knowledge base, etc.
+- If a task looks done based on evidence, note it as complete instead of a priority
+- OOO people get just ":palm_tree: Out of office — [reason]"
+- If 0 hours tracked yesterday: :warning: *No time tracked*
 - Be terse
 
 YOU MUST PRODUCE A SECTION FOR EVERY SINGLE PERSON IN THE REQUIRED LIST BELOW. \
-There will be approximately 12 people. If you have produced fewer than 12 sections, \
-you are not done. Keep going until every required person has a section."""
+Do not stop until every required person has a section."""
 
 
 def _collect_asana():
@@ -285,10 +294,12 @@ def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, ca
         sections.append("\n".join(lines))
 
     # Toggl
+    from toggl_client import _last_workday
+    toggl_day = _last_workday().strftime("%A %b %d")
     if isinstance(toggl_summary, str):
-        sections.append(f"=== TIME TRACKING (Yesterday) ===\n{toggl_summary}")
+        sections.append(f"=== TIME TRACKING ({toggl_day}) ===\n{toggl_summary}")
     else:
-        lines = ["=== TIME TRACKING (Yesterday) ==="]
+        lines = [f"=== TIME TRACKING ({toggl_day}) ==="]
         for email, data in toggl_summary.items():
             user = get_user_by_email(email)
             name = user["name"] if user else email
@@ -387,12 +398,52 @@ def _parse_per_user(full_summary, users):
     return per_user
 
 
+def _load_employee_roster():
+    """Load the canonical employee roster from knowledge/contacts/employees.md.
+
+    Returns a set of employee names (lowercase) for sanity-checking coverage.
+    """
+    path = KNOWLEDGE_DIR / "contacts" / "employees.md"
+    if not path.exists():
+        return set()
+    names = set()
+    for line in path.read_text().splitlines():
+        line = line.strip()
+        if line.startswith("- **") and "**" in line[4:]:
+            name = line.split("**")[1]
+            if name:
+                names.add(name.lower())
+    return names
+
+
+def _detect_ooo(calendar_data, users):
+    """Detect users who are out of office based on calendar events.
+
+    Returns a dict of {name: reason} for users who appear to be OOO.
+    """
+    # Only match explicit OOO patterns, not substrings like "off" in "Office"
+    ooo_patterns = {"ooo", "out of office", "vacation", "pto", "holiday",
+                    "sick day", "sick leave", "day off", "time off",
+                    "on leave", "on vacation", "personal day"}
+    ooo_users = {}
+    for name, events in calendar_data.items():
+        for ev in events:
+            summary_lower = ev.get("summary", "").lower().strip()
+            # All-day events have date-only start (no "T"), timed events have "T"
+            is_all_day = "T" not in ev.get("start", "T")
+            has_ooo_pattern = any(pat in summary_lower for pat in ooo_patterns)
+            if is_all_day and has_ooo_pattern:
+                ooo_users[name] = ev.get("summary", "Out of office")
+                break
+    return ooo_users
+
+
 def _has_knowledge_files():
     """Check whether pre-distilled knowledge files are available."""
-    # Require at least the contacts directory and toggl summary to consider
-    # knowledge files usable.  asana/summary.md may not exist yet.
+    # Require at least the contacts employees list and toggl summary to consider
+    # knowledge files usable.
     return (
-        (KNOWLEDGE_DIR / "contacts" / "directory.md").exists()
+        (KNOWLEDGE_DIR / "contacts" / "employees.md").exists()
         and (KNOWLEDGE_DIR / "toggl" / "summary.md").exists()
     )
 
@@ -473,10 +524,15 @@ def _load_knowledge_context(users=None):
                     + "\n---\n".join(person_snippets)
                 )
 
-    # --- Team directory ---
-    directory = _read_file(KNOWLEDGE_DIR / "contacts" / "directory.md")
-    if directory:
-        sections.append(f"=== KNOWLEDGE: BST TEAM DIRECTORY ===\n{directory}")
+    # --- Team directory (employees) ---
+    employees = _read_file(KNOWLEDGE_DIR / "contacts" / "employees.md")
+    if employees:
+        sections.append(f"=== KNOWLEDGE: BST CURRENT EMPLOYEES ===\n{employees}")
+    else:
+        # Fall back to old directory.md
+        directory = _read_file(KNOWLEDGE_DIR / "contacts" / "directory.md")
+        if directory:
+            sections.append(f"=== KNOWLEDGE: BST TEAM DIRECTORY ===\n{directory}")
 
     # --- External contacts (truncated) ---
     external = _read_file(KNOWLEDGE_DIR / "contacts" / "external.md", max_chars=3000)
@@ -709,24 +765,53 @@ def run_daily_pipeline(slack_client):
         operations_history=operations_history,
     )
 
-    # Build set of known user names (from user map) for filtering
-    known_names = {u["name"].lower() for u in users if u["name"]}
+    # Build set of known user names (from user map)
+    known_names = {u["name"].lower(): u for u in users if u["name"]}
 
-    # Build list of active team members (those with Asana tasks AND in user map)
-    assignees_in_asana = set()
-    if isinstance(asana_tasks, list):
-        for t in asana_tasks:
-            name = t.get("assignee_name", "")
-            if name and name != "Unassigned" and name.lower() in known_names:
-                assignees_in_asana.add(name)
+    # Load canonical employee roster for sanity check
+    employee_roster = _load_employee_roster()
+
+    # Detect OOO users from calendar
+    ooo_users = _detect_ooo(calendar_data, users) if calendar_data else {}
+
+    # Build the FULL team list — every user in the map gets a section.
+    # Not just people with Asana tasks — everyone.
+    all_team_members = set()
+    for u in users:
+        if u.get("name") and u.get("slack_user_id"):
+            all_team_members.add(u["name"])
+
+    # Sanity check: warn if employee roster has people missing from the user map
+    # Match on full name, first name, or last name since user map may use short names
+    if employee_roster:
+        mapped_lower = {n.lower() for n in all_team_members}
+        mapped_parts = set()
+        for n in mapped_lower:
+            mapped_parts.add(n)
+            for part in n.split():
+                mapped_parts.add(part)
+        missing = [n for n in employee_roster
+                   if n not in mapped_parts
+                   and not any(part in mapped_parts for part in n.split())]
+        if missing:
+            try:
+                store_entry(slack_client, "DEBUG",
+                    f"Employee roster sanity check: {len(missing)} employees not in user map: {', '.join(missing)}\n"
+                    f"(They may be missing a Slack, Asana, or Toggl account)")
+            except Exception:
+                pass
 
     mention_map = ""
     active_list = ""
+    ooo_list = ""
     for user in users:
         if user["slack_user_id"] and user["name"]:
             mention_map += f"  {user['name']} = <@{user['slack_user_id']}>\n"
-    for name in sorted(assignees_in_asana):
-        active_list += f"  - {name}\n"
+    for name in sorted(all_team_members):
+        if name in ooo_users:
+            ooo_list += f"  - {name} (OOO: {ooo_users[name]})\n"
+        else:
+            active_list += f"  - {name}\n"
 
     # Combine: distilled knowledge + Slack knowledge channel + live data
     full_context = context
@@ -735,6 +820,7 @@ def run_daily_pipeline(slack_client):
     if knowledge_context:
         full_context = f"{knowledge_context}\n\n{full_context}"
 
+    total_sections = len(all_team_members)
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
     message = client.messages.create(
         model="claude-sonnet-4-20250514",
@@ -747,8 +833,10 @@ def run_daily_pipeline(slack_client):
                 f"Slack mention mapping:\n{mention_map}\n\n"
                 f"{full_context}\n\n"
                 f"===== IMPORTANT =====\n"
-                f"You MUST produce a section for ALL {len(assignees_in_asana)} of these people:\n{active_list}\n"
-                f"That means {len(assignees_in_asana)} sections total. Do not stop until all are done."
+                f"You MUST produce a section for ALL {total_sections} of these people:\n\n"
+                f"ACTIVE team members (produce prioritized tasks for each):\n{active_list}\n"
+                + (f"OUT OF OFFICE today (just note they are out, no tasks):\n{ooo_list}\n" if ooo_list else "")
+                + f"That means {total_sections} sections total. Do not stop until all are done."
             ),
         }],
     )

@@ -12,8 +12,26 @@ def _headers():
     return {"Authorization": f"Basic {encoded}", "Content-Type": "application/json"}
 
 
+def _last_workday():
+    """Return the most recent workday (Mon-Fri). On Mon returns Fri, on weekends returns Fri."""
+    today = date.today()
+    # weekday(): Mon=0 ... Sun=6
+    offset = {0: 3, 6: 1, 5: 1}.get(today.weekday(), 1)  # Mon->Fri(3), Sat->Fri(1), Sun->Fri(1 day? no, Sat)
+    # More explicit:
+    wd = today.weekday()
+    if wd == 0:    # Monday -> Friday
+        offset = 3
+    elif wd == 6:  # Sunday -> Friday
+        offset = 2
+    elif wd == 5:  # Saturday -> Friday
+        offset = 1
+    else:          # Tue-Fri -> previous day
+        offset = 1
+    return today - timedelta(days=offset)
+
+
 def get_time_summary():
-    """Get yesterday's time entries grouped by user and project.
+    """Get the last workday's time entries grouped by user and project.
 
     Returns:
         dict: {email: {"total_hours": float, "projects": {name: hours}}}
@@ -22,8 +40,10 @@ def get_time_summary():
     if not wid:
         return {}
 
-    yesterday = (date.today() - timedelta(days=1)).isoformat()
-    today = date.today().isoformat()
+    workday = _last_workday()
+    next_day = (workday + timedelta(days=1)).isoformat()
+    yesterday = workday.isoformat()
+    today = next_day
 
     # Use the summary report endpoint
     resp = requests.post(

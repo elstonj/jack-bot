@@ -41,6 +41,11 @@ def store_correction(slack_client, user_name, correction):
     store_entry(slack_client, "CORRECTION", f"From {user_name}: {correction}")
 
 
+def store_feedback(slack_client, user_name, feedback):
+    """Store implicit feedback from a team member's reply in the tasks channel."""
+    store_entry(slack_client, "FEEDBACK", f"From {user_name}: {feedback}")
+
+
 def store_daily_snapshot(slack_client, summary):
     """Store the daily summary for comparison."""
     store_entry(slack_client, "SNAPSHOT", summary)
@@ -74,7 +79,7 @@ def get_knowledge(slack_client, entry_types=None, days=None):
             for msg in result.get("messages", []):
                 text = msg.get("text", "")
                 for tag in ["PRIORITY", "PROJECT", "CLIENT", "DELIVERABLE",
-                            "TEAM", "CORRECTION", "INSIGHT", "SNAPSHOT", "SOURCE", "ERROR", "DEBUG"]:
+                            "TEAM", "CORRECTION", "FEEDBACK", "INSIGHT", "SNAPSHOT", "SOURCE", "ERROR", "DEBUG"]:
                     if text.startswith(f"*[{tag}]*"):
                         if entry_types is None or tag in entry_types:
                             content = text.replace(f"*[{tag}]*\n", "", 1)
@@ -102,8 +107,8 @@ def get_knowledge_summary(slack_client):
     # Long-term knowledge (all time): priorities, projects, clients, team
     strategic = get_knowledge(slack_client, ["PRIORITY", "PROJECT", "CLIENT", "DELIVERABLE", "TEAM", "SOURCE"])
 
-    # Recent corrections and insights (last 30 days)
-    recent = get_knowledge(slack_client, ["CORRECTION", "INSIGHT"], days=30)
+    # Recent corrections, feedback, and insights (last 30 days)
+    recent = get_knowledge(slack_client, ["CORRECTION", "FEEDBACK", "INSIGHT"], days=30)
 
     # Previous day's snapshot
     snapshots = get_knowledge(slack_client, ["SNAPSHOT"], days=2)
