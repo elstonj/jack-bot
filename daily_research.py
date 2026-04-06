@@ -416,25 +416,79 @@ def _load_employee_roster():
     return names
 
 
-def _detect_ooo(calendar_data, users):
-    """Detect users who are out of office based on calendar events.
+RIPPLING_PTO_URL = (
+    "https://app.rippling.com/api/feed/calendar/pto/company/"
+    "5m0bzx1y0kkj3p1o/fcfe907c8ebaecb9f70456be1c62a14b50672e94ae3004d360be9fff2310b732/"
+    "calendar.ics?company=5e973eb93ca04e04172697e5"
+)
 
-    Returns a dict of {name: reason} for users who appear to be OOO.
+
+def _detect_ooo(calendar_data, users):
+    """Detect users who are out of office using Rippling PTO calendar.
+
+    Fetches the company ICS feed and checks for events covering today.
+    Returns a dict of {name: reason} for users who are OOO today.
     """
-    # Only match explicit OOO patterns, not substrings like "off" in "Office"
-    ooo_patterns = {"ooo", "out of office", "vacation", "pto", "holiday",
-                    "sick day", "sick leave", "day off", "time off",
-                    "on leave", "on vacation", "personal day"}
+    import requests
+
     ooo_users = {}
-    for name, events in calendar_data.items():
-        for ev in events:
-            summary_lower = ev.get("summary", "").lower().strip()
-            # All-day events have date-only start (no "T"), timed events have "T"
-            is_all_day = "T" not in ev.get("start", "T")
-            has_ooo_pattern = any(pat in summary_lower for pat in ooo_patterns)
-            if is_all_day and has_ooo_pattern:
-                ooo_users[name] = ev.get("summary", "Out of office")
-                break
+    try:
+        resp = requests.get(RIPPLING_PTO_URL, timeout=10)
+        resp.raise_for_status()
+        ics_text = resp.text
+    except Exception:
+        return ooo_users
+
+    today_str = date.today().strftime("%Y%m%d")
+
+    # Build a name lookup: lowercase first name or full name -> user map name
+    name_lookup = {}
+    for u in users:
+        uname = u.get("name", "")
+        if uname:
+            name_lookup[uname.lower()] = uname
+            # Also index by first name and last name for partial matching
+            parts = uname.lower().split()
+            for part in parts:
+                name_lookup[part] = uname
+
+    # Parse ICS events
+    for event_block in ics_text.split("BEGIN:VEVENT")[1:]:
+        summary = ""
+        dtstart = ""
+        dtend = ""
+        for line in event_block.splitlines():
+            if line.startswith("SUMMARY:"):
+                summary = line[8:]
+            if "DTSTART" in line:
+                m = re.search(r"(\d{8})", line)
+                if m:
+                    dtstart = m.group(1)
+            if "DTEND" in line:
+                m = re.search(r"(\d{8})", line)
+                if m:
+                    dtend = m.group(1)
+
+        if not (dtstart and dtend):
+            continue
+        # Check if today falls within the event range (DTEND is exclusive in ICS)
+        if dtstart <= today_str < dtend:
+            # Extract person name from summary like "Sam Hild on Time Off Request"
+            match = re.match(r"^(.+?)\s+on\s+(.+)$", summary)
+            if match:
+                person = match.group(1).strip()
+                reason = match.group(2).strip()
+                # Match to user map name
+                matched_name = name_lookup.get(person.lower())
+                if not matched_name:
+                    # Try matching by parts of the ICS name
+                    for part in person.lower().split():
+                        matched_name = name_lookup.get(part)
+                        if matched_name:
+                            break
+                if matched_name:
+                    ooo_users[matched_name] = reason
+
     return ooo_users
 
 
@@ -772,7 +826,7 @@ def run_daily_pipeline(slack_client):
     employee_roster = _load_employee_roster()
 
     # Detect OOO users from calendar
-    ooo_users = _detect_ooo(calendar_data, users) if calendar_data else {}
+    ooo_users = _detect_ooo(calendar_data, users)
 
     # Build the FULL team list — every user in the map gets a section.
     # Not just people with Asana tasks — everyone.
