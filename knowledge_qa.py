@@ -199,14 +199,21 @@ def select_files(question):
     # Contacts
     contact_keywords = ["contact", "who", "email", "phone", "nasa", "noaa",
                         "navy", "usgs", "creare", "erau", "instaar", "oklahoma",
-                        "barbados", "directory"]
+                        "barbados", "directory", "talk to", "reach out", "krateo"]
     if any(kw in q for kw in contact_keywords):
+        # Enriched contacts first (has cross-source context)
+        enriched = os.path.join(KNOWLEDGE_DIR, "contacts", "enriched.md")
+        if os.path.exists(enriched):
+            files.append(enriched)
         d = os.path.join(KNOWLEDGE_DIR, "contacts", "directory.md")
         e = os.path.join(KNOWLEDGE_DIR, "contacts", "external.md")
+        emp = os.path.join(KNOWLEDGE_DIR, "contacts", "employees.md")
         if os.path.exists(d):
             files.append(d)
         if os.path.exists(e):
             files.append(e)
+        if os.path.exists(emp):
+            files.append(emp)
 
     # Time tracking
     time_keywords = ["time", "hours", "toggl", "tracked", "tracking", "logged",
