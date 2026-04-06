@@ -114,6 +114,7 @@ MANUAL_CHANNEL_HINTS = {
     "301_3": ["hurricane", "s0-vtol"],
     "300_3": ["hurricane"],
     "026_03": ["sbir-hurricane"],
+    "044_1": ["emass"],
     "550_1": ["sbir"],
     "550_2": ["sbir"],
     "025_07": ["soil-moisture", "sbir-volcano"],

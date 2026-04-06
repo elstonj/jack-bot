@@ -106,7 +106,26 @@ def get_project_finances(slack_client, channel_id):
         if path:
             return _format_financial_content(path)
 
-    # 3. No match — return company overview
+    # 3. Try matching channel name against project registry files by name
+    if info.get("name") and PROJECT_DIR.exists():
+        ch_name = info["name"].lower().replace("-", " ")
+        for f in PROJECT_DIR.glob("*.md"):
+            if f.name == "registry.md":
+                continue
+            # Check if channel name keywords appear in the file's first few lines
+            try:
+                header = f.read_text()[:500].lower()
+                # Match if the channel name (or its words) appear in the project name
+                if ch_name in header or all(w in header for w in ch_name.split() if len(w) > 2):
+                    code = f.stem
+                    fin_path = _find_financial_file(code)
+                    if fin_path:
+                        return _format_financial_content(fin_path)
+                    return _format_financial_content(f)
+            except Exception:
+                continue
+
+    # 4. No match — return company overview
     if OVERVIEW_PATH.exists():
         overview = OVERVIEW_PATH.read_text()
         if len(overview) > 3800:
