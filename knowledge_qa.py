@@ -189,10 +189,70 @@ def _match_financial_files(question_lower):
     return matches
 
 
-def select_files(question):
+def _resolve_channel_project(channel_id, slack_client):
+    """Resolve a Slack channel to a project code and load relevant files."""
+    if not channel_id or not slack_client:
+        return [], ""
+    try:
+        from finances import _load_channel_map, _get_channel_info, _find_financial_file
+        from pathlib import Path
+
+        files = []
+        project_context = ""
+
+        # Check channel mapping
+        channel_map = _load_channel_map()
+        code = channel_map.get(channel_id)
+
+        # If no mapping, try channel name matching
+        if not code:
+            info = _get_channel_info(slack_client, channel_id)
+            ch_name = info.get("name", "")
+            if ch_name:
+                project_context = f"The user is asking from the #{ch_name} channel."
+                # Try to match channel name to project registry
+                proj_dir = os.path.join(KNOWLEDGE_DIR, "projects")
+                if os.path.isdir(proj_dir):
+                    ch_lower = ch_name.lower().replace("-", " ")
+                    for fpath in sorted(glob.glob(os.path.join(proj_dir, "*.md"))):
+                        if os.path.basename(fpath) == "registry.md":
+                            continue
+                        try:
+                            header = open(fpath).read(500).lower()
+                            if ch_lower in header or all(w in header for w in ch_lower.split() if len(w) > 2):
+                                code = os.path.basename(fpath).replace(".md", "")
+                                files.append(fpath)
+                                break
+                        except Exception:
+                            continue
+
+        if code:
+            project_context = f"The user is in a channel for project {code}. 'This project' refers to {code}."
+            # Load project registry file
+            proj_file = os.path.join(KNOWLEDGE_DIR, "projects", f"{code}.md")
+            if os.path.exists(proj_file):
+                files.append(proj_file)
+            # Load financial file
+            fin_path = _find_financial_file(code)
+            if fin_path:
+                files.append(str(fin_path))
+            # Load Asana project files matching the code
+            asana_dir = os.path.join(KNOWLEDGE_DIR, "asana", "projects")
+            if os.path.isdir(asana_dir):
+                code_pattern = code.replace("_", "-").replace("_", "[-_]")
+                for fpath in sorted(glob.glob(os.path.join(asana_dir, "*.md"))):
+                    if code.replace("_", "-") in os.path.basename(fpath) or code.replace("_", "_") in os.path.basename(fpath):
+                        files.append(fpath)
+
+        return files, project_context
+    except Exception:
+        return [], ""
+
+
+def select_files(question, channel_files=None):
     """Determine which knowledge files are relevant to the question."""
     q = question.lower()
-    files = []
+    files = list(channel_files) if channel_files else []
 
     # --- Category-based routing ---
 
@@ -576,8 +636,11 @@ def _run_live_searches(plan, slack_client=None):
     return "\n\n".join(results)
 
 
-def answer_question(question, slack_client=None):
+def answer_question(question, slack_client=None, channel_id=None):
     """Answer a question using knowledge files, with live API search as fallback."""
+    # Resolve channel to project context
+    channel_files, project_context = _resolve_channel_project(channel_id, slack_client)
+
     # Pull in recent knowledge channel entries (corrections, insights, feedback)
     knowledge_context = ""
     if slack_client:
@@ -592,7 +655,7 @@ def answer_question(question, slack_client=None):
         except Exception:
             pass
 
-    files = select_files(question)
+    files = select_files(question, channel_files=channel_files)
 
     if not files:
         return "I don't have any knowledge files loaded yet. The knowledge directory may be empty."
@@ -605,7 +668,11 @@ def answer_question(question, slack_client=None):
     if knowledge_context:
         context = f"{knowledge_context}\n\n{context}"
 
-    user_prompt = f"Here are the knowledge files:\n\n{context}\n\n---\nQuestion: {question}"
+    channel_hint = ""
+    if project_context:
+        channel_hint = f"\n\nCHANNEL CONTEXT: {project_context}\n"
+
+    user_prompt = f"Here are the knowledge files:\n\n{context}{channel_hint}\n\n---\nQuestion: {question}"
 
     try:
         response = client.messages.create(
