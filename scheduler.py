@@ -7,6 +7,7 @@ from daily_research import run_daily_pipeline
 from research_cache import get_team_summary, get_per_user_sections
 from snow_day import check_and_post as check_snow_day
 from snow_day import check_and_post_eod as check_snow_day_eod
+from eldora import check_and_post as check_eldora
 
 
 def post_daily_tasks():
@@ -62,6 +63,19 @@ def tick_snow_day_eod():
             pass
 
 
+def tick_eldora_report():
+    """6:30 AM MT weekday check for overnight snow at Eldora."""
+    client = WebClient(token=os.environ["SLACK_BOT_TOKEN"])
+    try:
+        check_eldora(client)
+    except Exception:
+        from knowledge import store_entry
+        try:
+            store_entry(client, "ERROR", "eldora report check failed")
+        except Exception:
+            pass
+
+
 def start_scheduler():
     """Start the background scheduler for cron jobs."""
     scheduler = BackgroundScheduler(timezone="America/Denver")
@@ -93,6 +107,15 @@ def start_scheduler():
         hour=15,
         minute=30,
         misfire_grace_time=1800,  # 30 min
+    )
+    # Eldora overnight snow-report bulletin: 6:30 AM MT Mon-Fri.
+    scheduler.add_job(
+        tick_eldora_report,
+        "cron",
+        day_of_week="mon-fri",
+        hour=6,
+        minute=30,
+        misfire_grace_time=1800,  # 30 min: still useful a bit late
     )
     scheduler.start()
     return scheduler
