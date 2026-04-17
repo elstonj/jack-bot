@@ -51,7 +51,16 @@ def tick_snow_day():
 def start_scheduler():
     """Start the background scheduler for cron jobs."""
     scheduler = BackgroundScheduler(timezone="America/Denver")
-    scheduler.add_job(post_daily_tasks, "cron", day_of_week="mon-fri", hour=8, minute=0)
+    # Grace window so a Railway redeploy that straddles a scheduled fire time
+    # still runs the job once it comes up, instead of silently skipping it.
+    scheduler.add_job(
+        post_daily_tasks,
+        "cron",
+        day_of_week="mon-fri",
+        hour=8,
+        minute=0,
+        misfire_grace_time=1800,  # 30 min: briefing is still useful a bit late
+    )
     # Snow-day check: top of every hour during typical working hours, Mon-Fri.
     # No point in telling the team to go get a beer at 3am.
     scheduler.add_job(
@@ -60,6 +69,7 @@ def start_scheduler():
         day_of_week="mon-fri",
         hour="10-17",
         minute=0,
+        misfire_grace_time=900,  # 15 min: still relevant within the hour
     )
     scheduler.start()
     return scheduler
