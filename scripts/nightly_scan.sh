@@ -27,7 +27,7 @@ ERRORS=""
 
 # Run incremental scan
 echo "Running incremental scan..." >> "$LOG_FILE"
-if python scan.py all --mode incremental >> "$LOG_FILE" 2>&1; then
+if python -u scan.py all --mode incremental >> "$LOG_FILE" 2>&1; then
     echo "Scan completed successfully." >> "$LOG_FILE"
 else
     ERRORS="$ERRORS\nKnowledge scan failed. Check $LOG_FILE for details."
@@ -36,7 +36,7 @@ fi
 
 # Run post-scan enrichments (depend on data from other scanners)
 echo "Running contact enrichment..." >> "$LOG_FILE"
-if python scan.py enrich-contacts >> "$LOG_FILE" 2>&1; then
+if python -u scan.py enrich-contacts >> "$LOG_FILE" 2>&1; then
     echo "Contact enrichment completed." >> "$LOG_FILE"
 else
     ERRORS="$ERRORS\nContact enrichment failed."
@@ -44,7 +44,7 @@ else
 fi
 
 echo "Running project cost tracking..." >> "$LOG_FILE"
-if python scan.py costs >> "$LOG_FILE" 2>&1; then
+if python -u scan.py costs >> "$LOG_FILE" 2>&1; then
     echo "Cost tracking completed." >> "$LOG_FILE"
 else
     ERRORS="$ERRORS\nCost tracking failed."
