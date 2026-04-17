@@ -1,45 +1,100 @@
 # BST Financial Overview (QuickBooks)
+**Period: April 6 – April 17, 2026**
+
+---
 
 ## Company Totals
-- **Total Revenue (Invoices):** $3,388,811.64
-- **Total Expenses:** $5,418,020.58
-- **Net Income:** -$2,029,208.94
+
+| Metric | Amount |
+|--------|--------|
+| **Total Revenue** | $5,526,012.92 |
+| **Total Expenses** | $2,254,531.97 |
+| **Net Income (Period)** | $262,518.07* |
+
+*Period P&L shows $262.5K net; however, cumulative project data (24+ months) shows significantly higher expenses across all classes. The two-week P&L period does not fully reflect the project balances.*
 
 ---
 
 ## By Project/Class
+**Sorted by Total Activity (Revenue + Expenses)**
 
 | Project | Total Revenue | Total Expenses | Net Position | Status |
-|---------|---------------|----------------|--------------|--------|
-| **Government** | $3,370,916.28 | $1,236,212.57 | **+$2,134,703.71** | Profitable |
-| **Unclassified** | $1.00 | $3,357,903.29 | **-$3,357,902.29** | Loss |
-| **BST Internal** | $17,894.36 | $821,904.72 | **-$804,010.36** | Loss |
+|---------|---|---|---|---|
+| **Government** | $3,885,459.28 | $1,268,419.09 | **+$2,617,040.19** | Strongest performer |
+| **Commercial** | $1,351,658.36 | $177,597.96 | **+$1,174,060.40** | Highly profitable |
+| **BST Internal** | $17,894.36 | $824,882.23 | **-$806,987.87** | Cost center (overhead/R&D) |
+| **Unclassified** | $1.00 | $3,404,632.27 | **-$3,404,631.27** | Significant unallocated expenses |
+| **TOTAL** | **$5,255,013.00** | **$5,675,531.55** | **-$420,518.55** | |
+
+---
+
+## Top Vendors
+*(Data incomplete in source; partial vendor list from recent activity)*
+
+| Rank | Vendor | Estimated Spend |
+|------|--------|---|
+| 1 | Various subcontractors & materials (Government projects) | $1.2M+ |
+| 2 | Travel & logistics (airfare, lodging, car rental) | $3,416.29 |
+| 3 | Payroll & healthcare | $6,498.51 |
+| 4 | Legal services | $5,662.50 |
+
+---
+
+## Top Customers
+*(By Invoice Amount)*
+
+| Rank | Customer | Total Invoiced | Outstanding Balance |
+|------|----------|---|---|
+| 1 | Government contracts (72 active invoices) | $3,885,459.28 | $2,617,040.19 |
+| 2 | By Light Halo [043-3] | $63,735.00 | Partial |
+| 3 | Krateo Sky | $10,860.48 | $10,860.48 |
+| 4 | Various commercial clients | $1,351,658.36 | TBD |
+| 5 | Oklahoma State University | $1.00 | Collected |
 
 ---
 
 ## Cash Flow Indicators
 
 ### Accounts Receivable (Outstanding)
-- **Government Projects:** $2,134,703.71 outstanding (66 active invoices)
-- **BST Internal:** $10,860.48 outstanding (Invoice #1752, dated 2026-04-03)
-- **Unclassified:** $0.00 (fully collected)
+- **Government projects**: $2,617,040.19 outstanding across 72 invoices
+- **BST Internal**: $10,860.48 (Krateo Sky, invoice #1752)
+- **Commercial**: Partial balance on invoice 1757 ($63,735.00 issued)
+- **Total A/R**: ~$2.7M+ (liquidity constraint)
 
-**Total A/R:** $2,145,564.19
+### Recent Large Expenses
+- **Unclassified category**: $3.4M over 24 months (requires reclassification review)
+- **Government projects**: $1.27M cumulative expenses
+- **BST Internal**: $824.9K cumulative (internal overhead/R&D)
+- **Period travel**: $3,416.29 (airfare, lodging, car rental)
+- **Legal fees**: $5,662.50
 
-### Key Concerns
-1. **Massive Unclassified Expenses:** $3.36M in expenses with only $1.00 revenue—requires immediate investigation and reclassification
-2. **BST Internal Deficit:** $804K net loss suggests internal operations are heavily subsidized or require cost review
-3. **Government Projects Only Profitable Area:** $2.13M net positive from government contracts
-
-### Recent Large Expenses (2-Day Report Period)
-- **Direct Shipping/Freight:** $358.40
-- **Business Development:** $2,360.87
-- **Shop Supplies:** $52.32
+### Project Activity Status
+- **Government**: Active (72 invoices spanning 2024–2026)
+- **Commercial**: Active (recent invoice May 8, 2026)
+- **BST Internal**: Mixed (ongoing overhead, latest invoice April 3, 2026)
+- **Unclassified**: Minimal activity (one $1 invoice from Sept 2024; major expenses unattributed)
 
 ---
 
-## Data Quality Notes
-- P&L report shows only April 5-6, 2026 (2-day snapshot) with -$2,771.59 net
-- Project-level data spans 24+ months (April 2024–September 2026)
-- **Critical:** Unclassified $3.36M expense pool requires urgent categorization and vendor review
-- Government invoices include 66 open balances requiring collection follow-up
+## Unclassified Transactions (Critical Issue)
+
+| Metric | Amount |
+|--------|--------|
+| Total Unclassified Expenses | $3,404,632.27 |
+| Revenue | $1.00 |
+| **Net Impact** | **-$3,404,631.27** |
+
+**⚠️ Key Finding**: $3.4M in expenses are not assigned to any project class. This represents **60% of total expenses** and obscures actual project profitability. **Action required**: Audit and reclassify unassigned transactions to appropriate projects (likely Government or BST Internal).
+
+---
+
+## Financial Health Summary
+
+✅ **Strengths:**
+- Government and Commercial projects are highly profitable (+$3.8M combined)
+- Strong revenue base ($5.5M invoiced)
+
+⚠️ **Concerns:**
+- Massive unclassified expense pool requires immediate investigation
+- A/R concentration in Government contracts ($2.6M outstanding) poses liquidity risk
+- BST Internal operating at significant loss (-$807K)

@@ -7,10 +7,14 @@ Key participants include:
 - **Jack Elston** (Project lead, technical decisions)
 - **Joshua Fromm** (Payload development, technical integration)
 - **Danny Troke** (Flight operations, equipment)
-- **Maciej Smolka** (Regulatory, reporting)
-- **Dan Prendergast** (Flight planning software, technical development)
+- **Maciej Smolka** (Regulatory, reporting, flight planning)
+- **Dan Prendergast** (Flight planning software, technical development, logistics)
+- **Meredith Needham** (Administrative support, travel coordination)
+- **Ethan Domagala** (Flight operations support)
+- **Nate** (Remote ID/registration support)
+- **Alex Lomis** (Team member, availability flexible)
 
-The channel covers activities from 2020 through early 2024, with high activity during deployment periods and report deadlines.
+The channel covers activities from 2020 through April 2026, with high activity during deployment periods and report deadlines.
 
 ## Key Decisions
 
@@ -33,6 +37,18 @@ The channel covers activities from 2020 through early 2024, with high activity d
 **Aircraft Selection for High-Altitude Missions (2024)**
 - Decided to focus on S3 as primary aircraft for Mexico deployment due to S2 altitude/performance limitations at 19,500-20,000 ft
 
+**Export & Regulatory (April 2026)**
+- Determined that S3 falls under "Temporary Export Exception" as a "Tool of the Trade" - no export license required for Mexico deployment
+- Required documentation identified: Letter of justification, proof of ownership, FAA registration, proof of USGS contract
+- Carnet needed to avoid import fees (1-2 day turnaround)
+- FAA Remote ID registration obtained: 20686S30001
+
+**Mexico Deployment Personnel & Timeline (April 2026)**
+- Decision made to defer Mexico deployment from planned April 19-27 window to later date (decision finalized by April 16, 2026)
+- Reason: S3 aircraft requiring repairs; issue to be resolved and testing completed by Friday April 18 required before proceeding
+- Deferral allows proper S3 testing and validation rather than proceeding with incomplete aircraft readiness
+- Packing list and travel details partially arranged but not fully executed due to postponement
+
 ## Projects & Initiatives
 
 **Makushin Volcano Monitoring (Alaska)**
@@ -49,10 +65,36 @@ The channel covers activities from 2020 through early 2024, with high activity d
 - **Restrictions**: Operations limited to west side of ridge until NASA crew qualified
 
 **Popocatépetl Volcano (Mexico)**
-- **Status**: Planning phase for deployment (target February 2025)
+- **Status**: Deployment deferred from April 19-27, 2026 to later date pending S3 aircraft repairs and testing completion
 - **Significance**: SO2 output 10-50x higher than Makushin
-- **Aircraft**: S3 selected due to high-altitude requirements (19,500-20,000 ft)
+- **Aircraft**: S3 (Registration 20686S30001) selected due to high-altitude requirements (18,000-20,000 ft)
+- **Mission Parameters (As of April 13, 2026)**:
+  - Launch height: 3,650 m (~12,000 ft)
+  - Mapping altitude: 5,500 m (18,000 ft) with 200m clearance over volcano summit
+  - Estimated climb time: 13 minutes to altitude
+  - Transit time to summit: 5.6 minutes
+  - Mapping mission duration: 40 minutes (75% overlap)
+  - Total mission duration: ~1 hour under power plus 15 minutes power-off descent
+  - Max range: ~10 km, may require directional antenna (yagi) or terrain-based approach
+  - Optimizations planned: Climb-orbit radius 500+ meters to preserve battery; possible on-site terrain analysis for LOS verification
 - **Partners**: CENAPRED (Mexican institution), AFAC, AV3 for flight approvals
+- **Key Issue**: Written permission from Mexican authorities not secured as of April 13, 2026; decision on proceeding deferred to April 15 at 4pm
+- **Payload Status**: Trace gas payload fully functional as of April 16, 2026; pitot system to be taped (no drained pitot configuration)
+
+**S10022 Aircraft Testing (April 2026)**
+- **Status**: Multiple test flights planned and conducted week of April 13-14, 2026
+- **Purpose**: Validation flights and data analysis to support confidence in aircraft systems
+- **Activities**: 
+  - Multiple flights at Sod Farm location
+  - High-altitude hover tests at multiple elevation points (Boulder at 5,600 ft, Caribou TH at ~10,000 ft, intermediate point)
+  - Analysis of performance parameters for extrapolation to higher altitudes
+  - Flight data collection (corrupt SD card issue resolved April 13)
+- **Issue**: Windy conditions limited flight opportunities; tactical planning adjusted based on weather windows
+
+**S1-22 Aircraft Testing (April 2026)**
+- **Status**: Ready for flight operations
+- **Status**: Wind conditions challenging for testing
+- **Purpose**: Support validation work and operational readiness
 
 **NASA CCRPP (Climate Change Response Program)**
 - **Status**: Multiple quarterly reports completed through Q8 (final report August 2024)
@@ -61,98 +103,21 @@ The channel covers activities from 2020 through early 2024, with high activity d
 
 ## Action Items & Commitments
 
-**Ongoing/Recent**
-- Dan Prendergast: Follow up on wire payment confirmation for S3 registration (Mexico mission)
-- CENAPRED coordination: Request overflight permits from AFAC as government-to-government approach
-- Export Classification for S3 still pending as of April 2024
-- Equipment manifest finalization for Mexico deployment with carnet documentation
+**Urgent/In Progress (April 2026)**
 
-**Historical Major Items (Completed)**
-- NASA SBIR quarterly reports (Q1-Q8) - All completed on schedule
-- Equipment shipping to Alaska deployments via ACE Air Cargo
-- Regulatory approvals: COA updates, TFR approvals, FAA experimental licenses
-- Gas sensor calibration with custom gas mixes and USGS coordination
+**S3 Aircraft Repairs & Testing**
+- Joshua Fromm: Repair S3 aircraft issue; provide repair complete timeline estimate (April 15)
+- Maciej Smolka: Oversee S3 flight testing; plan altitude validation flights at multiple elevation points
+- Status: Almost certainly not ready for testing until Friday April 17/18, 2026
 
-## Client & External References
+**Mexico Deployment (Deferred)**
+- Dan Prendergast: File carnet documentation once flight information finalized (requires crew names/flight details)
+- Nate: Print FAA Remote ID placards for S3 (20686S30001) and carry copies for border
+- Meredith Needham: Cancel Mexico hotel and car rental reservations made for April 19-27 window (Free cancellation until April 18 confirmed; Hertz cancellable before pickup)
+- Jack Elston: Confirm flight information to enable carnet filing
+- Dan Prendergast: Confirm USGS contract extension status and period of performance dates
+- All team: Determine new Mexico deployment timeline when S3 testing complete
 
-**Government Partners**
-- **NASA**: Mark Sumich (primary contact), Michael Stewart, Matt (Ames), Laura Iraci (trace gas group)
-- **USGS**: Christoph (spectrometer calibration, mission planning), Angie (Mexico coordination)
-- **Alaska DOT**: Ryan (COA approvals, TFR coordination)
-- **CENAPRED**: Mexican government institution for volcano monitoring
-- **AFAC**: Mexican aviation authority
-
-**Service Providers**
-- **AV3 (Mexico)**: Joe (joe@av3aerovisual.com) - Flight approvals and operations
-- **ACE Air Cargo**: Alaska shipping logistics ($220-4500 per shipment)
-- **Dutch Harbor Airport**: Dale (airport manager)
-- **Robin Campion**: Mexico City contact for equipment delivery
-
-**Academic Collaborators**
-- **UCR (University of Costa Rica)**: Andres - required $5000 payment for official participation
-- **Alaska Volcano Observatory**: Volcanic activity monitoring and alerts
-
-## Recurring Topics & Themes
-
-**Regulatory Challenges**
-- Continuous COA (Certificate of Authorization) updates and approvals
-- FCC compliance issues with radio systems and experimental licenses
-- Export classification requirements for international deployments
-- TFR (Temporary Flight Restriction) coordination for sensitive areas
-
-**Equipment Reliability & Logistics**
-- Shipping challenges to remote locations (Alaska, Costa Rica, Mexico)
-- Battery shipping restrictions (cannot be checked luggage)
-- Equipment calibration timing and gas supply management
-- Weather-related operational windows and limitations
-
-**Technical Integration Issues**
-- Radio system compliance and power management
-- Payload weight optimization and center of gravity calculations
-- Sensor calibration procedures and timing
-- Communication system reliability at extended ranges
-
-**Report Cycles**
-- Quarterly NASA SBIR reports with specific section assignments
-- Technical documentation for regulatory compliance
-- Mission debrief presentations and lessons learned
-
-## Important Resources
-
-**Mission Planning & Documentation**
-- Mission Planner presentation: https://docs.google.com/presentation/d/16_C6tUXqQ8RBh-Q6dcd8R2v-7iZCQ1PHek0etKsyocY/edit
-- NASA CCRPP reports in Overleaf (multiple project links)
-- Asana project for Alaska deployment: https://app.asana.com/0/1204876610650984/1204876610650984
-- Real-time mission tracking: https://airbornescience.nasa.gov/tracker/#map/FA3TNAPYAY
-
-**Technical References**
-- FAA CAPS system for COA access
-- DigiKey parts and specifications for iridium antenna systems
-- Pololu heated pitot switch specifications and power consumption data
-- McMaster-Carr parts for pressure gauges and mechanical components
-
-**Media Coverage**
-- DroneLife article about volcano monitoring project
-- NASA blog post about volcanic laboratory flights at Rincon de la Vieja
-
-## Recent Activity
-
-**Mexico Mission Planning (2024)**
-- S3 aircraft preparation for high-altitude Popocatépetl deployment
-- Export classification and regulatory approvals in progress
-- Equipment shipping coordination with customs documentation
-- CENAPRED partnership development for government-to-government permit requests
-
-**Costa Rica Mission Completion (May 2024)**
-- Successfully completed CRATER mission with NASA crew training
-- 6 flights completed despite challenging weather conditions
-- NASA personnel now qualified for independent operations
-- Mission documented with media team coverage
-
-**Technical Development**
-- Continued development of heated pitot systems for high-altitude operations
-- Battery pack optimization for extended range missions
-- Mission planning software improvements with validation features
-- Gas sensor payload refinements based on field experience
-
-The channel shows consistent activity around deployment periods, report deadlines, and technical development milestones, with strong collaboration between BST team members and external partners.
+**Ongoing/Regular**
+- Dan Prendergast: Update terrain-based flight planning tool for Los-of-Sight verification across mapping area in Mexico
+- Nate: Provide packing list updates at: https://docs.google.com/spreadsheets/d/1DXr_gKRMgTISMxkE8Tbibt-Z

@@ -1,54 +1,76 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-04-06 12:01
+Last scanned: 2026-04-17 10:51
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 5 files — [federal_projects.md](federal_projects.md)
-- **Sales** — 2 files — [sales.md](sales.md)
+- **Federal Projects** — 75 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 10 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Shared Drive Strategic Overview
+# Black Swift Technologies — Strategic Google Drive Overview
 
 ## Summary Statistics
-- **Total Drives:** 2 shared drives
-- **Total Documents:** 7 files
-- **Organization Level:** Minimal structure (files listed at root level)
+- **Total files:** 85 across 2 drives
+- **Total folders:** 17
+- **Date range:** 2021–2026 (substantive content; 2099 dates are data anomalies)
+- **Organization quality:** Good — clear hierarchical structure with project-based folders
+
+---
+
+## Drive Breakdown
+
+### Federal Projects Drive (75 files, 15 folders)
+**Focus:** Government contracts, SBIR/STTR proposals, and compliance  
+**Key clients/programs:**
+- NASA Aeronautics (multiple RFI responses by platform: Autonomy/Avionics, S3 Nomad)
+- Navy, DOE, and other federal agencies
+- CLIN-based invoicing structure (2. CLIN 1002-1006)
+
+**Organization strengths:**
+- Centralized budget/justification templates (8 files)
+- Dedicated legal compliance folder (export licenses)
+- Platform-specific NASA RFI organization
+
+**Observations:**
+- Contains majority of BST's document volume (88% of files)
+- Well-suited for complex federal compliance and multi-year contracts
+
+---
+
+### Sales Drive (10 files, 2 folders)
+**Focus:** Commercial aircraft projects (ByLight Mustang)  
+**Key project:**
+- [043-3] ByLight Mustang Phase 2 & Follow-On (Halo)
+  - SOWs, budgets, POs, design documents
+  - Recently active (last modified 2026-04-07)
+
+**Observations:**
+- Lean, project-focused structure
+- Recently created (2025-10-10), indicating new commercial initiative
+- Contains signed POs and active build tracking
+
+---
+
+## Cross-Drive Patterns
+| Drive | Primary Document Types | Status |
+|-------|------------------------|--------|
+| **Federal** | Proposals, contracts, budgets, invoices, compliance forms | Established, multi-year |
+| **Sales** | SOWs, POs, budgets, design specs | Active, new commercial work |
+
+---
 
 ## Key Observations
 
-### Drive Breakdown
+**Strengths:**
+- Clear separation of federal vs. commercial revenue streams
+- Centralized budget templates reducing inconsistency
+- Active recent updates indicating current use
 
-| Drive | File Count | Primary Content | Last Activity |
-|-------|-----------|-----------------|----------------|
-| **Federal Projects** | 5 | SBIR briefings, ISR drone materials, video files | 2026-04-06 |
-| **Sales** | 2 | Project estimates, engineering work | 2026-04-06 |
-
-### Content Patterns
-- **Federal focus:** SBIR (Small Business Innovation Research) program documentation and drone-related deliverables
-- **Sales focus:** Client-specific work estimates (ByLight Phase 2)
-- **Cross-drive observation:** No apparent overlap; drives serve distinct business functions
-
-### Notable Items
-- Air-deployed Attritable ISR Drone — appears to be core product/project
-- Multiple SBIR kick-off briefings (2025 and Option Period) — active federal funding pursuit
-- ByLight collaboration — significant client engagement with mechanical engineering work
-
-## Areas Requiring Attention
-
-⚠️ **Critical Issues:**
-- **Extremely sparse documentation** — 7 files across 2 drives suggests either incomplete migration or minimal use of shared drives
-- **No folder structure** — all files at root level; no organization by project, client, or time period
-- **No naming conventions** — inconsistent file naming (abbreviated codes vs. descriptive names)
-- **Data integrity concern** — Federal Projects drive shows video files with 2099 timestamps (likely data errors)
-- **No templates or shared resources visible** — missing standard proposals, contracts, or process documentation
-
-## Recommendations
-1. Establish folder hierarchies by client/project and document type
-2. Implement consistent naming conventions
-3. Conduct audit of timestamp anomalies (2099 dates)
-4. Consider migrating additional organizational resources to shared drives
-5. Define retention and archival policies
+**Areas for attention:**
+- Federal drive is substantially larger (75 vs. 10 files) — monitor for archive/cleanup needs
+- Naming conventions differ between drives (Federal uses "CLIN" codes; Sales uses "[043-3]" project codes)
+- No visible shared resources folder across drives (templates may be duplicated)

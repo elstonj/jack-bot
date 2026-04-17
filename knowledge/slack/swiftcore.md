@@ -1,7 +1,7 @@
 # #swiftcore
 
 ## Overview
-This channel serves as the primary technical communication hub for Black Swift Technologies' SwiftCore drone system development. It covers firmware development, tablet application updates, flight testing coordination, bug fixes, feature implementation, and release management. The channel shows very active usage with 4397 messages across 22 batches, spanning approximately 2020-2025, with key participants including Jack Elston, Ben Busby, Danny Troke, Maciej, Frank Strazzabosco, and Cory.
+This channel serves as the primary technical communication hub for Black Swift Technologies' SwiftCore drone system development. It covers firmware development, tablet application updates, flight testing coordination, bug fixes, feature implementation, and release management. The channel shows very active usage with 4397+ messages across 23 batches, spanning approximately 2020-2025, with key participants including Jack Elston, Ben Busby, Danny Troke, Maciej, Frank Strazzabosco, Cory, Dan Prendergast, Caleb Bishop, and Alex Lomis.
 
 **Key Participants:** Jack Elston, Ben Busby, Danny Troke, Maciej, Frank Strazzabosco, Cory, Dan Prendergast, Caleb Bishop, Alex Lomis
 
@@ -37,6 +37,17 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Arctic DEM integration implemented for Fairbanks area operations
 - Fixed significant terrain height discrepancies (50m difference between USGS and Google Earth in Alaska)
 
+**UI Architecture & Platform Strategy (April 2026):**
+- Decision to transition web controller as primary UI for both desktop and mobile use (via browser) rather than supporting separate native tablet app
+- Plan to maintain Android tablet UI temporarily for legacy support but focus development effort on unified web controller
+- Identified potential future TAK (Team Awareness Kit) app integration for military/DoD users as separate parallel effort if needed
+- Parameter file restructuring to align web controller packet definitions more closely with comms packets (new format while maintaining backwards compatibility temporarily)
+- Commitment to mobile-first web UI design with equal usability on phone and laptop
+
+**Multi-Radio GCS Support (April 2026):**
+- Approved feature/multi_radio_gcs branch development to support dual UAS operation with single ground control station
+- Implementation spans autopilot, comms_protocol, and web_controller repositories
+
 ## Projects & Initiatives
 
 **SwiftCore 3.2 Release (2021-2022):**
@@ -56,97 +67,64 @@ This channel serves as the primary technical communication hub for Black Swift T
 - **Challenges:** Parameter management, UI integration, XML configuration
 
 **Hurricane Web Controller (2024-2025):**
-- **Status:** Completed and ready for testing
+- **Status:** Completed and ready for testing; active validation ongoing (April 2026)
 - **Features:** Dynamic GFS overlay (10m wind speed, mean sea level pressure), storm data interface
 - **Team:** Dan Prendergast working on storm data interface
+- **Recent Activity:** Jack Elston validating changes; testing scheduled with Maciej and Alex (April 8, 2026)
 
 **App Architecture Framework (2022-2024):**
 - **Status:** Completed and merged
 - **Purpose:** Replace old sensors folder approach with XML-based app configuration
 - **Features:** Payload serial configuration, command interfaces, sensor definitions
 
+**Multi-Radio GCS Support (April 2026):**
+- **Status:** Active development in feature/multi_radio_gcs branch
+- **Objective:** Enable single GCS to manage two UAS simultaneously
+- **Scope:** Requires changes to autopilot, comms_protocol, and web_controller repositories
+- **Challenge:** Legacy codebase not originally designed for multiple connections; addressing issues with per-aircraft addressing and system initialization packets
+- **Team:** Jack Elston (autopilot/comms), Ben Busby (web controller), Maciej and Alex (testing April 8-9, 2026)
+- **Current Issues Resolved:** Transmit command buffer overflow errors, per-aircraft system_init packet routing, redundant multi-device initialization requests
+
+**Web Controller UI Redesign (April 2026):**
+- **Status:** Active development with modular layout system in progress
+- **Current Focus:** Replacing legacy tablet-centric UAS window with command-centric interface inspired by RTS game design
+- **Design Goals:** 
+  - Mobile-first responsive design usable on phone and laptop
+  - Low-click-density finger-friendly mobile interface
+  - Command window popup for quick local commands and status checking
+  - Replacement of cumbersome multi-layer OOP tablet architecture
+- **Timeline:** Modular UI layout system expected soon
+- **Team:** Ben Busby leading design; Maciej suggesting split of web (flight ops focus) vs Android (config/tuning)
+- **Philosophy:** Unified web UI long-term rather than maintaining separate tablet app
+
+**Parameter File Restructuring (April 2026):**
+- **Status:** Planning phase, not urgent
+- **Objective:** Restructure XML parameter files to map 1:1 with comms packet definitions instead of requiring custom conversion logic
+- **Current Issue:** Param files don't align with packet structure, creating parsing overhead
+- **Approach:** Maintain both old and new file formats temporarily; develop converter utility while transitioning
+- **Decision-makers:** Maciej approved new format approach; Ben Busby investigating implementation
+
 ## Action Items & Commitments
 
-**Recent Outstanding Items:**
-- **Ben Busby:** Complete SwiftCore 3.3 remaining tasks (commands view refactor, UA window display fixes, XML param file testing)
-- **Jack Elston:** Debug rotate bug and prioritize 3.3 release tasks
-- **Team:** Test hurricane web controller with S0 payload packets in simulation
-- **Infrastructure:** Complete migration from AWS to Hetzner for cost savings
+**Current Outstanding (April 2026):**
+- **Jack Elston:** 
+  - Finalize feature/multi_radio_gcs branch (multiple radio connections with per-aircraft addressing) - validation in progress
+  - Continue validation of hurricane web controller changes
+  - Clarify PayloadNodeView indentation/formatting in feature/emass branch
+  - Testing double autopilot with GCS after pulling recent fixes
+  - Debug Transmit Command Buffer Overflow errors in multi-radio implementation
+  - Investigate web controller and swil high CPU usage
 
-**Historical Completed Items:**
-- **Ben Busby:** Fixed app lockup bug caused by invalid longitude values (February 2022)
-- **Frank Strazzabosco:** Optimized STM32H743 sensor timing with multiple timer configurations (2021)
-- **Danny Troke:** Updated S1 aircraft actuator channels to match standardization
-- **Maciej:** Analyzed 200+ E2/S2 flights for voltage cutoff criteria, recommended 2.9V/cell threshold
+- **Ben Busby:** 
+  - Review and integrate multi-radio GCS changes from Jack's commits
+  - Push web controller CPU usage optimizations (in progress - improvement made April 8-10)
+  - Implement modular UI layout system for web controller redesign
+  - Design mobile-first responsive web UI for equal phone/desktop usability
+  - Fix aircraft selection feature in web controller (broken by HTMX hook, deferred until after PTO return)
+  - Investigate and fix parameter file structure mapping to comms packets
+  - Review tablet changes for feature/emass branch (SDK state machine updates)
+  - PTO scheduled (April 9, 2026) - expects code changes during absence
+  - Implement claude.md coding guidelines in autopilot and web controller repos
 
-## Client & External References
-
-**NASA:**
-- Mark Motter tablet update issues with 2019 version
-- Bruce requiring JSB simulation setup for Cicada payload requirements
-- Richard Kolyer and Jay Tomlin requiring logparse website access for payload data over GCS
-- Camera payload flights (S20018)
-- Training sessions conducted with NASA teams
-
-**NOAA:**
-- S1 upgrade with older tablet hardware
-- S0 deployment target for SwiftCore 3.3
-- Accuracy concerns for pressure measurements
-
-**NREL:**
-- Tucker discussing waypoint XML generation and controller architecture
-- Customer using scripting feature for RC Field test flights
-
-**University Partners:**
-- ERAU (Embry Riddle) training sessions and Oklahoma operations
-- OKST training preparation with hardware recommendations
-- INSTAAR group requesting Arctic DEM integration for Fairbanks flights
-
-**Other Clients:**
-- Alaris PRO partnership discussions ($5K annual manufacturer account, ML collaboration)
-- Hector/Oier granted access to logparse site for E2 logs
-- Pablo experiencing SDK bug with flight plan map acknowledgments
-
-## Recurring Topics & Themes
-
-**Weekly Development Cycle:**
-- Regular SwiftCore team meetings (moved from Mondays to Thursdays for in-person attendance)
-- Flight testing schedule requiring bug fixes/features by Wednesday weekly
-- Feature branch testing and merge cycles
-
-**Hardware Quality Control:**
-- Ongoing issues with board manufacturing quality (soldering, heat sink installation)
-- GNSS board QC process enhancements (termination resistance checks)
-- Radio board dip switch positioning (OFF position standard)
-
-**Communication Protocol Evolution:**
-- Continuous optimization of packet structures and bandwidth usage
-- Regular comms version updates (3.18.0, 3.19.0, 3.21.0, 3220)
-- Handshaking timing improvements (reduced from 4+ seconds to 30ms max)
-
-**Parameter Management:**
-- XML parameter file loading and validation system
-- Parameter diff display functionality
-- Vehicle-specific configuration management (S1, S2, E2, S0 aircraft types)
-
-**Flight Safety Systems:**
-- ECAMS error level management and aviation compliance
-- Battery monitoring and failure prevention
-- GPS loss handling and lost communications procedures
-- Magnetic declination and estimator improvements
-
-## Important Resources
-
-**Development Infrastructure:**
-- **Jenkins:** jenkins.bst.aero/binaries (replaced Ben Bot)
-- **Log Parse Site:** dev.logparse.bst.aero with 1000+ flights logged
-- **Binary Distribution:** Custom build system with web interface
-- **Documentation:** Wiki updates for S0 aircraft and JSB simulation
-
-**Technical Documentation:**
-- **VTOL State Machine:** https://lucid.app/lucidchart/cef29857-45ca-4ae1-92cd-7bec3d9a2a90/edit
-- **ECAMS Error Levels:** https://docs.google.com/spreadsheets/d/1zalkQfdGo6Y4M7P1ZSqfJZ_AmIS_GbK6q-DSee9jGdo/edit
-- **Futaba Mapping:** https://docs.google.com/spreadsheets/d/1UAizrzLiIPUrLcyrzHK8SgYEf6w9gJoQaaCq8KSd3xQ/edit
-- **Release Notes:** https://docs.google.com/document/d/1CHbNfOXdeRrFyEA28MD5UNOHqFiqyl4nTOUd8ozGCpk/edit
-
-**Hardware
+- **Maciej & Alex:** 
+  - Flight test feature/multi_radio_gcs branch with dual

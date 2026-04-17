@@ -11,8 +11,10 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 - Beck Cotter (proposals/planning)
 - Scott and Mark (CEO) from EMASS (external partner)
 - Nikhila (external, ML model training)
+- Moe (EMASS contact, made autopilot request)
+- Alex Lomis (flight operations/coordination)
 
-**Activity Level:** Ongoing active project spanning November 2025 - April 2026, with increasing intensity as hardware integration progressed. Activity continues into early April 2026.
+**Activity Level:** Ongoing active project spanning November 2025 - April 2026, with increasing intensity. Hardware integration and HWIL (Hardware-in-the-Loop) testing actively underway as of mid-April 2026.
 
 ## Key Decisions
 
@@ -39,105 +41,92 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 
 **April 2026:**
 - Ordered Pico 2 with headers for new hardware requirement from EMASS
+- **April 13-15:** Multiple firmware updates and GCS fixes deployed by Jack Elston to resolve communication issues; HWIL testing actively underway
+- **April 16:** Weather assessment indicates Monday/Tuesday (April 21-22) suitable for E2 flight testing with EMASS payload
 
 ## Projects & Initiatives
 
 ### EMASS Integration (Primary)
-**Status:** Active hardware/software integration phase as of April 2026
+**Status:** Hardware-in-the-Loop (HWIL) testing phase; real flight testing scheduled for week of April 21, 2026
 
 **Scope:**
 - Integrate EMASS's ECS-DoT evaluation board (AI chip with ML controller) onto E2 platform
 - Develop interface between EMASS hardware and E2 autopilot
 - Create simulation environment (Gazebo-based SWIL) for validation
 - Conduct flight testing with comparative analysis (controller on/off)
-- Timeline: Originally January-March 2026, pushed to March 11, 2026; further delays occurred due to EMASS team responsiveness and BST resource conflicts
+- Timeline: Originally January-March 2026, pushed to March 11, 2026; further delays occurred due to EMASS team responsiveness and BST resource conflicts; HWIL testing active as of mid-April
 
 **Technical Components:**
+
 1. **Hardware Integration:**
    - Custom mount for AI board on E2
    - UART interface with level translation (3.3V to 5V)
-   - Power delivery through 5V barrel connector
+   - Power delivery through 5V barrel connector (found USB A to micro cable insufficient; missing jumper wires between eval board and Pico board, being completed April 9)
    - Magnetometer calibration adjustments after battery relocation
+   - ECS-DoT eval board communication via two devices (UART and JTAG connections identified)
 
-2. **Firmware/Software:**
+2. **Firmware/Software (As of April 16):**
    - Autopilot modifications to accept EMASS actuator commands at 75Hz via UART
    - Two-mode operation: EMASS control or BST autopilot control (no blending)
    - EXTERNAL mode in autopilot for payload authority handoff
    - Protections to automatically revert to BST control on failure/timeout
    - Headless testing framework with pass/fail criteria
+   - Serial baud rate adjustable through tablet interface
+   - Parameter synchronization via `param_mr_0x41000002.bst` file (safety limits enforced, model tuning allowed)
+   - **Recent fixes (April 13-15):**
+     - GCS error message fixes
+     - Edge case handling
+     - Firmware build: 1057c5a5
+     - Malformed packet detection and baud rate optimization
+     - Serial link stability improvements
 
 3. **Simulation:**
    - Gazebo SWIL with realistic E2 dynamics
    - Current model implementation (with power consumption calculations)
    - Support for headless automated testing
    - Trajectory replay capability
+   - Socket-based test framework (preferred over test app for HWIL)
+
+4. **Flight Testing:**
+   - Weather-dependent: Monday/Tuesday (April 21-22) identified as favorable conditions
+   - Alex Lomis coordinating flight operations
+   - Payload activation via Payload tab on tablet (SDK tab preferred interface)
+   - Speed limit monitoring (4.0 m/s threshold triggering shutdowns when exceeded)
 
 **Known Challenges:**
 - EMASS team organization/responsiveness (especially Nikhila for ML model retraining)
-- Schedule conflicts with other BST projects (ADONIS, USGS, hurricane)
+- Schedule conflicts with other BST projects (ADONIS, USGS, hurricane, S3)
 - Integrator wind-up issues in simulator
 - Plugin loading issues in simulation environment
-- Voltage interface compatibility between hardware
-- Scope creep pressure (mixed control requests, additional output formats)
+- Voltage interface compatibility between hardware (resolved with level shifters)
+- Scope creep pressure (Moe/EMASS requesting autopilot without limits; request not escalated to Scott/Mark; rejected by Dan/Jack)
+- Serial packet dropping at standard baud rates (partially resolved with baud rate increase)
+- Payload speed limit violations during testing (model needs tuning to comply with 4.0 m/s safety limit)
 - Financial/budgetary considerations emerging (April 6, 2026)
+- HWIL setup complexity (three simultaneous processes: autopilot + UART flag, gcsDaemon, Gazebo)
 
 ## Action Items & Commitments
 
-**Outstanding (as of April 6, 2026):**
+**Outstanding (as of April 16, 2026):**
 - Nikhila (EMASS) to retrain ML model with E2 flight data containing EMASS payload (as of March 8, no update received yet)
-- Dan Prendergast to order Pico 2 with headers for EMASS's new hardware requirement
-- EMASS team to: define flight plan, run scenario in simulation with hardware, freeze HW/SW interface specifications
-- Jack Elston to work on HWIL interface for EMASS hardware (pending return from Florida)
-- **Jack Elston: Financial follow-up/review (flagged April 6, 2026)**
+- EMASS team to: dial back flight model to comply with safety speed limits (4.0 m/s); reduce speed violations during test runs
+- Moe (EMASS) to receive parameter file updates for testing
+- Dan Prendergast: Real flight test coordination for week of April 21-22; efficiency analysis script development (pending input from Moe on current calculation methodology)
+- Jack Elston: Continue HWIL stability improvements; avoid affecting S3 project (higher priority)
+- Maciej: Weather monitoring and flight readiness assessment
 
-**Completed:**
-- Beck Cotter: Kickoff deck creation (Nov 2025)
-- Dan Prendergast: E2 Gazebo model files shared with EMASS; magnetometer calibration file updates (Feb-Mar 2026)
-- Ethan Domagala: Mount and interface cable design with level shifter (Feb 2026)
-- Jack Elston: SDK telemetry modifications, dual-socket architecture, headless test framework, autopilot binary rebuild with EMASS flags (Mar 2026)
-- Maciej: Current/thrust model implementation in Gazebo (Mar 2026); test script execution (Mar 2026)
+**Completed (April 6-16):**
+- Dan Prendergast: Jumper wire connections between eval board and Pico board (April 9); socket-based test framework validation (April 14)
+- Jack Elston: Multiple firmware releases with GCS fixes, edge case handling, and packet error resolution (April 13-15); baud rate optimization guidance (April 15); parameter synchronization workflow documentation (April 15)
+- Jack Elston: Financial review initiation (April 6) - amount spent on project documented
+- Maciej: Weather assessment for flight testing (April 16)
 
 **In Progress:**
-- Dan Prendergast: Meeting EMASS on schedule and scope resets; preparing simulation tarball for external team
-- Jack Elston: HWIL integration, autonomy report (higher priority), financial review
-- Maciej: Simulation environment debugging (plugin loading)
+- HWIL integration and communication validation (Dan Prendergast, April 12-15)
+- Parameter tuning for payload safety compliance (Dan Prendergast with EMASS)
 
 ## Client & External References
 
 **EMASS Inc.:**
 - Mark: CEO
-- Scott: Primary contact from EMASS (senior, appears to be operations/management)
-- Nikhila: ML model training engineer (remote, communication challenges)
-- ECS-DoT evaluation board: Custom AI accelerator chip with onboard ML model for flight control
-
-**Internal Cross-Projects Affecting Schedule:**
-- ADONIS project
-- USGS project  
-- Hurricane project
-
-**Flight Test Locations Mentioned:**
-- Pepper Jack (previous flight test site with E2)
-- Crested Butte (previous flight test site with E2)
-- Florida (Jack Elston travel for unrelated work)
-
-## Recurring Topics & Themes
-
-1. **Scope Creep & Interface Clarity:** Repeated emphasis on need for frozen interface specifications, clear task boundaries, and resistance to expanded control formats (pitch/roll/yaw + vertical rate mixing)
-
-2. **Communication/Responsiveness Challenges:** Frustration with EMASS team's organization and response times, particularly Nikhila. Dan noted need for Scott to manage expectations within EMASS technical team.
-
-3. **Schedule Pressure:** Repeated pushback and reprioritization as project competed with other BST initiatives and EMASS delays
-
-4. **Performance Expectations Management:** Ongoing discussion about realistic vs. optimistic improvement metrics (40-85% claimed → 30% target → 10-15% realistic)
-
-5. **Technical Integration Hurdles:** Serial problems discovered during integration (voltage compatibility, integrator wind-up, plugin failures, control mode conflicts)
-
-6. **Simulation Validation:** Emphasis that EMASS team must validate their approach in simulation before hardware testing to avoid wasting BST resources
-
-7. **Financial/Budget Considerations:** Emerging concern about project finances (flagged April 6, 2026)
-
-## Important Resources
-
-**Shared Documents/Repositories:**
-- Kickoff Presentation: https://docs.google.com/presentation/d/1Z5SP3Y6aqCO91LTuliNUwj_8Z62CY8d_QILv-DaVHCo/edit?usp=drive_link
-- Project Tracking (Asana): https://app.asana.com/1/
+- Scott: Primary

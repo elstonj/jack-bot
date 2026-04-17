@@ -8,12 +8,14 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - Maciej (project lead, flight operations)
 - Ethan Domagala (design, measurements, avionics integration)
 - Dan Prendergast (flight test coordination)
-- Jack Elston (backup pilot, vehicle support)
+- Jack Elston (backup pilot, vehicle support, approvals)
 - Nate (aircraft assembly, launch support)
 - Bryan Sparling (ByLight pilot/contact)
+- Beck Cotter (program management, SOW coordination)
 - Dan H., Terry Tate, Spencer (contractors/specialists)
+- Alex Lomis (components/inventory)
 
-**Activity Level:** High, covering October 2025 through March 2026, with regular flight tests and design iterations.
+**Activity Level:** High, covering October 2025 through April 2026, with regular flight tests, design iterations, and scope management updates.
 
 ## Key Decisions
 
@@ -43,6 +45,12 @@ This channel tracks the development and flight testing of the **By Light Mustang
   - **Phase 1:** Complete red Chilli airframe (Trillium integration, 400km battery, paint, flight test) – $34K
   - **Phase 2:** Build Chilli #2 with CF tube and SwiftPilot integration – $31K
 - Spencer contracted to design improved wing with 16% performance gain; new wing design finalized April earliest with IP transfer to ByLight
+
+**April 2026 – New Program Initiative (M2/HALO)**
+- New scope added: HALO project rebranded as **M2**
+- SOW signed and filed (April 7, 2026)
+- ADS-B units procurement decision: BST to procure and provide (added to Scope 2)
+- Additional 40 hours of engineering at Sam's rate added to Scope 2
 
 ## Projects & Initiatives
 
@@ -77,6 +85,11 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - **Scope:** Build second airframe with CF tube fuselage (instead of fiberglass), SwiftPilot integration
 - **Status:** In planning phase, quoted $31K
 - **Target:** Two demo-able Chilli aircraft ready for customer by March 2026
+- **Component Needs (as of April 7, 2026):** 
+  - 10 additional actuator boards
+  - 2 GPS boards
+  - 7 additional actuators for NASA S2 wingset
+  - Available option: Small 3-in-1 actuator boards in inventory (Alex Lomis noted as potential substitute)
 
 ### Wing Development (Spencer Contractor) – IN PROGRESS
 - **Status:** Design phase, first article possible before March demo
@@ -85,34 +98,18 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - **ByLight Deliverable:** Scaled 20% larger version, finalized April earliest with IP transfer
 - **Advantage:** Can fly at 35lbs and 30m/s despite smaller footprint
 
+### M2 Program (HALO, rebranded) – NEW INITIATIVE
+- **Status:** Signed SOW as of April 7, 2026
+- **Scope Updates (April 2026):**
+  - ADS-B units procurement added (BST responsible for purchase)
+  - 40 additional engineering hours at Sam's rate
+- **Note:** Scope 2 document updated with these additions
+
 ## Action Items & Commitments
 
-**Battery Procurement – IN PROGRESS (as of early March 2026)**
+**Battery Procurement – IN PROGRESS**
 - **Commitment:** Order Amprius SA03 Pouch cells (400Wh/kg) for 3.7+ hour flight capability
 - **Owner:** Maciej/Ethan
 - **Details:** 100 cells total (~$10k), 50 cells per aircraft, cost ~$90-100 per pouch, 4-6 week lead time if not ordered immediately
 - **Contact:** george.kusaba@amprius.com
-- **Target:** 44-48 pouches per battery for 4.05 hours estimated flight time
-
-**ByLight Phase 1 Deliverables (Jan-Mar 2026) – IN PROGRESS**
-- **Quoted:** $34K (updated from $23K with detailed pricing)
-- **Owner:** Maciej/Ethan
-- **Tasks:**
-  1. Install Trillium mass model on red Chilli
-  2. Build 400+ km flight batteries
-  3. Paint airframe (not red)
-  4. Flight test 400km mission (3.7 hour Sod Farm flight)
-
-**ByLight Phase 2 – PENDING**
-- **Quoted:** $31K
-- **Owner:** TBD (likely Maciej/Ethan/Spencer)
-- **Tasks:**
-  1. Build Chilli #2 with CF tube fuselage
-  2. Modify 3D prints for diameter difference
-  3. Integrate SwiftPilot
-  4. Flight test two demo-ready Chilli aircraft
-
-**Flight Test Schedule Coordination**
-- **Owner:** Dan Prendergast, Maciej
-- **Status:** Multiple test flights scheduled, weather/availability dependent
-- **Notes:** Dan H. available Monday-Tuesday only for final phase; Ethan unavailable Dec 1 
+- **Target:** 44-48 pouches

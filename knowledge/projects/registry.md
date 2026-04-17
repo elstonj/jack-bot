@@ -1,7 +1,7 @@
 # BST Project Registry
 
 Master index of all active projects with cross-system links.
-_Generated from Asana project overviews. 47 active projects._
+_Generated from Asana project overviews. 45 active projects._
 
 | Code | Project | Customer | Budget | Slack | Financial |
 |------|---------|----------|--------|-------|-----------|
@@ -33,10 +33,8 @@ _Generated from Asana project overviews. 47 active projects._
 | 018_1 | Murphy's Pond CH4 Monitoring | Murray State | $86,862.94 | #sbir-volcano | Yes |
 | 031_1 | UMES S3 | University of Maryland Ea | $81,306 | — | Yes |
 | 032_3 | Sasquatch S0s x 4 | Notre Dame | $88,705 | — | Yes |
-| 035_1 | ADONIS Unmanned Experts | Unmanned Experts | $1,249,945 | — | Yes |
-| 043_3 | Mustang Pt. 2 | By Light | — | — | Yes |
+| 043_3 | ByLight M2/Halo | By Light | $126,629 | — | Yes |
 | 044_1 | EMASS Chip Integration | EMASS | $90,000 | — | Yes |
-| 200_14 | Autonomy | NASA | $156,211 | — | Yes |
 | 212_1 | S2 Simulator | NASA (Will Wade) | $2,900 | — | — |
 | 212_2 | NASA S2 & Parts | NASA (Will Wade) | $89,844 | — | — |
 | 300_3 | 2026 IDIQ (Hurricane) | NOAA | $483,000 | #sbir-hurricane | Yes |

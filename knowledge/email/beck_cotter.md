@@ -1,130 +1,92 @@
 # Beck Cotter — Email Patterns
 
 ## Communication Volume
-- Total messages scanned: 520 (500 previous + 20 new)
-- Date range: March-April 2026 (approximately 1 month)
-- Approximate daily volume: 16-17 emails per day
-- Heavy activity on weekdays, some weekend communication (including early mornings and late evenings)
-- **New data period**: April 6, 2026 (single day snapshot showing typical Monday activity pattern)
+- **Total messages scanned: 620** (520 previous + 100 new)
+- **Date range: March 17 – April 17, 2026** (approximately 5 weeks)
+- **Approximate daily volume: 16-17 emails per day** (consistent with prior pattern)
+- Heavy activity on weekdays (April 13-17 snapshot shows sustained weekday intensity)
+- Weekend/early morning activity continues
 
 ## Key Correspondents
 
 **Top Internal BST Contacts:**
-- Jack Elston (CEO) - strategic decisions, business development, internal coordination
-- Daniel Prendergast - proposal coordination, technical discussions, project management, vendor coordination
-- Maciej Stachura - technical project work, testing coordination, partnership management
-- Meredith Needham - contracts, administration, compliance, subcontractor coordination
-- Ethan Domagala - (new contact identified) - appears to receive forwarded correspondence on HALO SOW
+- Jack Elston (CEO) - strategic decisions, business development, internal coordination, partner escalation
+- Daniel Prendergast - proposal coordination, technical discussions, project management, vendor coordination, government relations (SOCOM, USGS)
+- Maciej Stachura - technical project work, testing coordination, partnership management, Genesis proposal development
+- Meredith Needham - contracts, administration, compliance, DCAA accounting system setup
+- Ethan Domagala - HALO SOW coordination (receiving forwarded correspondence)
+- Nathaniel Straus (new/minor) - Stanford SACL Timestamp S2 Avionics discussions
+- Joshua Fromm (new/minor) - Mexico Deployment USGS collaboration
+- Paige Smith (new/minor) - forwarding European Delegation opportunities
 
 **Top External Contacts:**
-- Navy NAWCAD personnel:
-  - Angel Ruiz-Reyes (primary technical contact) - continued active correspondence on Phase I Option Period
-  - Morris DeSimone (testing & evaluation)
-  - Megan Sloane (proposal coordination)
-  - Anthony D. Brescia (new contact identified) - copied on Phase I Option Period correspondence
-- ByLight team:
-  - Nicholas Phillips (partnership coordination, SOW development)
-  - Bryan Sparling (project leadership, tracking) - **heavily active on Apr 6** with multiple HALO SOW exchanges
-  - Justin Baltz (MRT coordination)
-- Defense Coalitions:
-  - Brody Basset (NATO/International partnerships) - **elevated activity** on European Delegation and International Engagement opportunities
-- Krateo Sky team:
-  - Bob Smith, Lisa Marie Cheney - pricing model and CDIC updates
-- Air Force:
-  - Lt Col Ryan Rickert (USAF AFRC 53 WRS/ARWO) - new contact, site visit and project follow-up
-- University partners:
-  - Paul DeMond & team at UM Maritime (Navy SBIR subcontractor)
-  - Maithreyi Gopalakrishnan at CU Boulder (PrecisionTerra NASA work)
-- National lab contacts:
-  - Gijs de Boer at Brookhaven National Lab (DOE GENESIS)
-- Equipment vendors (Tom Simcox at Bartington, Krateo Sky team)
-- International: Brody Basset (Defense Coalitions, NATO partnerships)
+- **Brookhaven National Lab (BNL) - DOE Genesis:**
+  - Gijs de Boer (gdeboer@bnl.gov) - **primary POC**, intensive collaborative proposal development (Apr 13-17 shows multiple daily Google Docs comments and meeting coordination)
+  - Nathan Urban (nurban@bnl.gov) - collaborative proposal support
+  - Fernando Llorente - technical proposal content contributor
+- **ByLight LLC - HALO SOW & MRT:**
+  - Bryan Sparling - HALO SOW coordination (Apr 6, 16)
+  - Nicholas Phillips - HALO SOW primary contact (Apr 16 intensive exchange)
+  - Carrie Mahanna - MRT UAS technical authority coordination
+  - Megan Weckter - Navy MRT submission coordination (Apr 13 sharing Navy response document)
+  - Justin Baltz, Reynaldo Betancourt, Robert Baker, Erin Blankenship, William O'Neill - broader project team
+- **Navy NAWCAD:**
+  - Angel Ruiz-Reyes - Phase I Option Period (previous pattern continues, not in new sample)
+- **CU Boulder:**
+  - Maithreyi Gopalakrishnan - PrecisionTerra NASA Phase II subcontractor scope (Apr 15)
+- **Stanford University:**
+  - Tanay Topac - S2 Avionics timestamp development (Apr 13-16, IMPORTANT flagged)
+- **USGS:**
+  - Angie Diefenbach - Mexico Deployment coordination (Apr 16, IMPORTANT)
+  - Christoph Kern - Mexico Deployment coordination
+- **SOCOM (Special Operations Command):**
+  - Michael C. Jagelewski (USSOCOM) - S0 RFI response (Apr 14)
+  - Evan M. Wolff (USSOCOM) - S0 coordination
+- **NextTech Solutions:**
+  - Trenton McKibben (Trenton.McKibben@nextechsol.com) - **Arctic Demo in Ottawa** (Apr 17, IMPORTANT)
+- **NASA:**
+  - Jennifer Schnarr (jennifer.schnarr@nasa.gov) - AFA RFI response (Apr 16)
+  - Matthew Fladeland (ARC-SG) - NASA RFI coordination (Maciej response)
+  - Kevin A. Ward - NASA Earth Observatory newsletters (subscription)
+- **Krateo Sky:**
+  - Bob Smith, Lisa Marie Cheney, Adria Passola - Arctic Demo, product partnership (Apr 17)
+- **FAA:**
+  - UAS.FAADroneZone - sUAS certificate registration (automated, Apr 16)
 
 ## Topic Patterns
 
-**Active Government Contracts & Proposals:**
-- Navy SBIR Phase I Option Period - **active coordination** (Apr 6: kickoff meeting follow-up with Angel Ruiz-Reyes and Anthony Brescia)
-- USMC MRT (Marine Robotics Technology) - ongoing
-- DOE GENESIS Phase I - ongoing planning
-- ONR STTR Phase II (N25A-T025) - ongoing
-- NASA Phase II proposals (PrecisionTerra, Wildfire management) - ongoing
-- NOAA opportunities (UxSOC NOAA UAS Services IDIQ, TC ET Team) - ongoing
-- **Navy NAWCAD WOLF ASI Division BAA (Open Call)** - **new** (identified Apr 6 via Asana attachment from Dan Prendergast)
-- **DIU Solicitation** - new posting alert received Apr 6
+**Active Government Contracts & Proposals (Priority Tier):**
 
-**Partnership & Product Development:**
-- **HALO SOW with ByLight** - **intensifying activity** (multiple exchanges Apr 6 between Beck/Bryan Sparling and Jack Elston/Nicholas Phillips/Justin Baltz)
-- Mustang project with ByLight - ongoing
-- S0/S3/S2 VTOL UAS inquiries - ongoing
-- **Canadian Special Forces demonstration** - active (referenced in Jack Elston correspondence Apr 6)
-- Dragoon project with Krateo Sky - ongoing
-- **CDIC Update & Pricing Model** with Krateo Sky - being forwarded for internal review
+**🔴 CRITICAL/ACTIVE:**
+- **DOE Genesis Phase I** - **MAJOR FOCUS** (Apr 13-17: intensive collaborative proposal development with Brookhaven, multiple daily Google Docs comments from Gijs de Boer, Fernando Llorente, Daniel Prendergast; meeting held Apr 13 1pm MDT; NOFO question submitted Apr 16; meeting notes generated via Gemini Apr 13 & 17)
+- **Navy MRT (Marine Robotics Technology)** - **ACTIVE** (Apr 13: ByLight shares Navy response document with broad BST/ByLight team; Megan Weckter coordinating with Navy (Karleigh Hall, Kristen Ferro); related to MRT UAS Notice 243-26-024, PMA-263)
+- **HALO SOW (ByLight partnership)** - **ONGOING** (Apr 16: intense back-and-forth between Beck/Nicholas Phillips (ByLight) and Jack Elston/Ethan Domagala; Jack's response flagged IMPORTANT)
+- **NASA Aero RFI** - **URGENT** (Apr 13: forwarded by Jack with May 7 @ 1pm Pacific deadline; Apr 16: Beck responds to AFA RFI question to Jennifer Schnarr)
+- **SOCOM S0 RFI** - **ACTIVE** (Apr 14: Daniel responding to Michael Jagelewski's RFI response)
 
-**International Opportunities:**
-- **NATO partnerships** - **elevated activity** (European Delegation Discussion and International Engagement Opportunity from Brody Basset, Apr 6)
-- NATO DIANA 2026 call - ongoing
-- Canadian Special Forces demonstration - continuing
-- UK Ministry of Defence (Merlin Mk2) - ongoing
-- Barbados government inquiry - ongoing
+**🟡 DEVELOPING/ALERT:**
+- **Arctic Demo in Ottawa** - **EMERGING** (Apr 17: Trenton McKibben (NextTech Solutions) sends to Jack/Daniel/Beck marked IMPORTANT; Jack forwards to Krateo Sky team (Bob Smith, Lisa Marie, Adria Passola) and internal team (Maciej, Daniel, Beck) - indicates new partnership or demonstration opportunity)
+- **NASA SBIR/STTR Program Reauthorization** - **MULTIPLE ALERTS** (Apr 14-17: NASA SBIR/STTR Program alerts, SOFWERX SBIR 26.BZ Release 1 pre-release alert (Apr 16), 2026 NASA SBIR/STTR BAA live (Apr 17) - BST actively monitoring)
+- **DIU Solicitations** - continuing (implied from prior pattern)
+- **Mexico Deployment** - **NEW** (Apr 16: Jack coordinating with Angie Diefenbach/USGS team on Mexico Deployment; includes Maciej, Daniel, Beck, Joshua Fromm; IMPORTANT flagged)
+- **PrecisionTerra NASA Phase II** - **ONGOING** (Apr 15: CU Boulder's Maithreyi Gopalakrishnan confirms proposal scope coordination with Beck and Daniel)
+- **Stanford S2 Avionics Timestamp** - **ONGOING** (Apr 13-16: multi-party discussions between Stanford (Tanay Topac), Jack, Nathaniel Straus on avionics development; IMPORTANT flagged)
 
-**Compliance & Administrative:**
-- DCAA accounting system setup - ongoing
+**🟢 SUSTAINED BACKGROUND:**
+- ONR STTR Phase II (N25A-T025)
+- USMC MRT (Marine Robotics Technology) - broader initiative
+- NOAA opportunities (UxSOC IDIQ, TC ET Team) - NOAA doc review mentioned Apr 13
+- Navy SBIR Phase I Option Period (referenced in prior data, not in new sample period)
+- DOE GENESIS Phase I (now elevated to CRITICAL)
+- ByLight Mustang project
+- S0/S3/S2 VTOL UAS inquiries
+- Dragoon project with Krateo Sky
+- Canadian Special Forces demonstration (referenced in prior data)
+- UK Ministry of Defence (Merlin Mk2)
+- Barbados government inquiry
+
+**Administrative/Compliance:**
+- **DCAA Accounting System Setup** - **IN PROGRESS** (Apr 13: Beck coordinates with Donna Kracinovich (Navy pre-award survey) and DCAA compliance consultant; Meredith Needham managing, Beck approving; marked IMPORTANT)
+- FAA sUAS Certificate Registration - **ROUTINE** (Apr 16: three registration confirmations to info@ account)
 - Contract compliance - ongoing
-- Subcontractor management - ongoing
-
-## Communication Patterns
-
-**Temporal Patterns:**
-- Heavy weekday communication (April 6 shows activity 8:58am-5:53pm MDT)
-- Rapid back-and-forth exchanges on same day (HALO SOW emails spanning 10:51am-5:40pm)
-- Multiple messages per conversation thread, indicating urgent/collaborative work
-- Time zone coordination visible (UTC timestamps from external contacts, MDT local timestamps from Beck)
-
-**Collaboration Style:**
-- Acts as primary interface between BST and Navy/government contacts
-- Forwards internal discussions and external inquiries to relevant team members (Daniel, Ethan, Jack)
-- Coordinates across multiple teams rapidly
-- Heavy use of Google Docs/Sheets for collaborative proposal writing
-- Asana task management with attachment coordination (NAWCAD BAA document shared via Asana)
-- Slack participation for internal discussions
-
-**Meeting Activity:**
-- Phase I Option Period Kickoff meeting - recently held or ongoing coordination (Apr 6)
-- Regular meetings with ByLight team on HALO SOW (evident from back-and-forth)
-- European Delegation discussions (referenced by Brody Basset)
-
-**Automated/Newsletter Traffic:**
-- Asana notifications (task updates, attachment notifications)
-- DIU solicitation alerts
-- Google Drive/Docs sharing notifications
-- Slack mentions/threads
-
-## Key Relationships
-
-**Critical Internal Collaborators:**
-- Jack Elston - Strategic decisions visible on Canadian Special Forces demo and NATO opportunities
-- Daniel Prendergast - Primary handler for vendor coordination (Krateo Sky), Air Force relationships (Lt Col Rickert), NATO partnerships (Brody Basset)
-- Maciej Stachura - Technical execution (referenced in existing knowledge)
-- Ethan Domagala - Receiving HALO SOW forwarded correspondence
-
-**Primary Government Relationship:**
-- Navy NAWCAD team - **sustained primary focus** (Apr 6 shows active Phase I Option Period coordination with Angel Ruiz-Reyes and Anthony Brescia)
-
-**Key Partnerships:**
-- ByLight LLC - **intensifying** (Bryan Sparling at 17:40 and 16:29 same day, multiple stakeholders engaged)
-- Krateo Sky - Development partnership with pricing/CDIC model under review
-- Defense Coalitions (Brody Basset) - **elevated international/NATO engagement**
-
-**Subcontractor/External Network:**
-- Air Force relationship with Lt Col Ryan Rickert (53 WRS/ARWO) - site visit follow-up suggesting potential new opportunity
-- UM Maritime, CU Boulder, Brookhaven National Lab - ongoing
-
-## Notable Observations
-
-- **HALO SOW is Hot**: April 6 shows intense, same-day coordination across ByLight (Bryan Sparling, Nicholas Phillips, Justin Baltz) and internal BST (Jack Elston, Ethan Domagala) — appears to be a critical deliverable or decision point
-- **European/NATO Expansion**: Multiple important-flagged emails from Brody Basset on same day (European Delegation, International Engagement) suggest BST is actively pursuing European market/NATO partnerships — Dan Prendergast is handling primary coordination with Jack/Beck cc'd
-- **New Navy Opportunity**: NAWCAD WOLF ASI Division BAA open call surfaced Apr 6 — Dan Prendergast actively tracking this via Asana (may represent new proposal pipeline)
-- **Air Force Engagement**: Lt Col Rickert's response to site visit follow-up suggests ongoing or new relationship with USAF 53 WRS (Air Reserve Component) — potential new contract avenue
-- **DIU Monitoring**: Continued tracking of DIU solicitations consistent with prior pattern
-- **Cross-Team Forwarding**: Beck actively forwards external inquiries and partner communications to internal team for evaluation/response (info@blackswifttech.com generic inbox also involved for incoming vendor inquiries)
-- **Sustained Intensity**: April 6 snapshot shows
+- eSignature documents - **executed

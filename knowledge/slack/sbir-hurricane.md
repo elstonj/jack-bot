@@ -1,7 +1,7 @@
 # #sbir-hurricane
 
 ## Overview
-The #sbir-hurricane channel is the primary workspace for Black Swift Technologies' SBIR Hurricane project, focused on developing the S0 unmanned aircraft system for hurricane reconnaissance missions. The channel is highly active with extensive technical discussions, operational updates, and mission planning spanning 2020-2026. Key participants include Joshua Fromm, Jack Elston, Maciej, Danny Troke, Dan Prendergast, Alex Lomis, and Nate.
+The #sbir-hurricane channel is the primary workspace for Black Swift Technologies' SBIR Hurricane project, focused on developing the S0 unmanned aircraft system for hurricane reconnaissance missions. The channel is highly active with extensive technical discussions, operational updates, and mission planning spanning 2020-2026. Key participants include Joshua Fromm, Jack Elston, Maciej, Danny Troke, Dan Prendergast, Alex Lomis, Nate, and Sam Hild.
 
 ## Key Decisions
 
@@ -31,6 +31,13 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Single operator per aircraft confirmed as acceptable by NOAA operational rules (April 2026)
 - GCS firmware updates for dual-channel radio control implemented (April 2026)
 - Use of Channel 1 designated for flight operations over Avon Park (April 2026)
+- Channel 1 selected for operational use after RF cable replacement on Channel 2 (April 2026)
+
+**Humidity Sensor Configuration (April 2026):**
+- Vaisala RSS421 heating mode confirmed as critical for accurate readings (April 2026)
+- New PSNS firmware with corrected humidity reference validation implemented (April 8, 2026)
+- Battery tracking logging enabled on all PSNS boards for sleep mode diagnostics (April 8, 2026)
+- Sensor boom compatibility identified as critical - older booms incompatible with newer sensors (April 10, 2026)
 
 ## Projects & Initiatives
 
@@ -39,107 +46,63 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Specifications: 2.6 lbs GTOW, 32.8" wingspan, 22.5 m/s cruise speed, 2+ hour endurance
 - Sensors: Vaisala RSS421, MLX90614ESF thermal sensor, 9-hole pressure system
 - Communication: 400MHz licensed band with 150+ nautical mile range demonstrated
+- 2026 Avon Park operations: Dual S0 deployments from P3 aircraft with coordinated multi-UAS capability
 
-**Multi-UAS Operations:**
-- Developing dual-aircraft capability for simultaneous operations with single operator
-- GCS infrastructure expansion to support multiple aircraft from NOAA P3 platform
-- Testing and validation of coordinated flight operations (April 2026)
+**Multi-UAS Operations (April 2026):**
+- Dual-aircraft capability for simultaneous operations with single operator demonstrated
+- GCS infrastructure supporting multiple aircraft from NOAA P3 platform
+- Closest approach between S0s: 70m achieved (April 8, 2026)
+- Range testing: S0-72 tested 80+ mile communication range (April 7, 2026)
+- Coordinated flight operations with 5km x 5km box patterns and precision altitude hold testing
 
 **Hurricane Flight Controllers:**
 - Dan Prendergast developed eyewall tracking algorithms with left/right turn capabilities
 - Inflow controller for spiral trajectory patterns
 - Center fix controller for eye navigation (first successful automated center fix achieved)
 - Controllers tested extensively in X-Plane simulation and live hurricane flights
+- Dual-aircraft operation tested with lost communications handling (battery suppression warnings confirmed as design limitation)
 
-**Ground Control Station (GCS):**
+**Ground Control Station (GCS) - Critical Issues Resolved (April 2026):**
 - Dual Swift Station systems (SwiftStation-400001 "top" and SwiftStation-400002 "bottom") for multi-channel operations
 - Rack-mounted system with HDMI output, powered USB hub
 - 400MHz radio integration with tablet interface and hot-swappable USB radio modules
 - Real-time telemetry and flight plan generation capabilities
 - Channel 1 and Channel 2 radio configuration with dynamic switching capability
 
-## Action Items & Commitments
+**GCS Issues Identified and Fixed (April 7-8, 2026):**
+- Power shutdown bug: UPS driver incorrectly reporting -0.000001A causing premature power-off at 100% battery charge
+  - Root cause: Threshold set below normal noise level when transitioning from charging to AC power
+  - Fix: Replaced current-based check with VIN + state detection (charging/discharge/USB modes)
+  - Modified HIDOpenUPS2.cpp with new getters: getInputVoltage(), getState()
+- Flight plan transmission failures: 36 failed commands during April 7 flight due to duplicate handling gap
+  - Issue: UAS receiving retransmitted COMMAND while in WAITING_FOR_WAYPOINTS state causes reset
+  - Duplicate handling exists for WAITING_FOR_FINAL_MAP_RX but missing for WAITING_FOR_WAYPOINTS
+  - Requires code fix to handle retransmitted commands gracefully
+- Tablet connectivity losses: SYSTEM_INIT requests flooding at 574 attempts with only 1 response during 10-minute disconnect
+  - Root cause: Met data rate increased from 1Hz (pre-flight) to 5Hz (flight) consuming ~90% bandwidth
+  - Impact: Nearly saturated communications bandwidth preventing proper tablet reconnection handshakes
+  - Mitigation: Requires bandwidth optimization; science team communication essential for balancing data needs
+- RSSI reporting issue: Ch2 showing -1 values while still transmitting telemetry (signal degradation masked)
+- RF cable quality: Channel 2 showing 15dB worse RSSI than Channel 1 initially, improved to 1.7dB loss (Ch1) vs 2.5dB (Ch2) after cable replacement by AOC
 
-**Manufacturing & Delivery (2025-2026):**
-- 25-30 additional aircraft for NOAA 2025 hurricane season
-- Combined NOAA and Air Force contracts requiring ~400 units
-- Long-lead item ordering: 90 days for latches, 6 weeks for phenolic tubes
-- Component costs: $7k latches, ~$25k wings, $20k deployment tubes, ~$5k fuselage tubes
-- Single S0 system estimated at $6,300 (airframe $4,200 + tube $2,100)
+**Vaisala RSS421 Humidity Sensor Issues (April 8-10, 2026):**
+- Systematic RH readings 20-30% lower than reference measurements
+- All 2025 aircraft affected; issue not present in 2024 units
+- Investigation findings:
+  - Issue isolated to PCB, not sensor boom or connectors
+  - Heating mode critical: must be ON for accurate readings
+  - Older sensor booms incompatible with newer sensors causing heating mode to disable
+  - New and old sensors read identically when tested on compatible boom/airframe combinations
+  - Firmware versions with undefined status bits 11-12 (newer Vaisala manual may clarify)
+  - Reconditioning cycle (heating time) affects stabilization but not core accuracy
+  - Post-reconditioning, some units that read low initially began reading correctly
+  - First reading often correct, then rapidly reduces (possible heater control issue)
+- Actions taken:
+  - Technical support tickets opened with Vaisala requesting updated manual for status bit definitions
+  - Settings dumps collected from known good vs bad units for comparison (Jack Elston)
+  - Comprehensive testing approach: full build/QC/preflight process to identify failure point
+  - Vaisala password: BSTOct11! (purchasing email login)
+- Current status: Benching affected units pending Vaisala documentation update
 
-**Technical Development:**
-- Complete radar altimeter testing (Innosent unit) as laser replacement
-- Address humidity sensor saturation issues in extreme weather
-- Investigate communication failures in >98% relative humidity conditions
-- Implement improved ESC re-arming capability after engine disable events
-- GCS firmware updates requiring aircraft code updates (pending implementation, April 2026)
-- Funding approval for additional GCS units for dual-aircraft capability (in progress with Nick P, April 2026)
-- Landing site preparation: 450m sand/smooth road strip near Avon Park for SW-NE approach alignment (April 2026)
-
-## Client & External References
-
-**Primary Client - NOAA:**
-- Joe (project lead), Akshar and Rebecca (P3 requirements), Nick, Nick P (funding authorization), Dana Naeher
-- AOC (Aircraft Operations Center) at Flightline Drive, Lakeland, FL 33811-2836 - receiving deliveries and operations
-- Hurricane Reconnaissance missions from P3 aircraft (NOAA42, NOAA43)
-- National Hurricane Center using S0 data in forecast models
-- Mark (operational planning and logistics support)
-
-**Partners & Vendors:**
-- Area-I: MHP integration and nose cone development
-- FirstRF (Ken): Antenna design and integration
-- Lee: Wing and deployment tube manufacturing
-- Vaisala: RSS421 sensor supplier and support
-- Lightware: Laser altimeter supplier (SF20, SF22)
-- FedEx: Expedited delivery logistics
-
-**External Validation:**
-- 53rd Weather Reconnaissance Squadron presentation opportunity
-- National Security Council visitor made White House call during mission
-- NHC and NWS considering S0 data in operational forecasts
-
-## Recurring Topics & Themes
-
-**Weekly Technical Meetings:**
-- Regular Thursday update meetings for project status
-- Integration testing coordination between team members
-- QC checklist reviews and aircraft certification processes
-
-**GCS Infrastructure Management (April 2026):**
-- Swift Station hardware maintenance and power cycle sequencing
-- Antenna cable characterization and signal strength diagnostics
-- Radio channel configuration testing and verification procedures
-- Firmware deployment coordination between ground control and aircraft systems
-
-**Hurricane Season Operations:**
-- 2024 season: 19 flights, 20.5 total hours, 11/12 successful launches in first deployment
-- Record achievements: 169 mile communication range, 106+ minute endurance
-- Operations from Lakeland, Barbados, Bermuda, and Texas bases
-- 2026 season: Preparing for ocean flights from P3 platform with multi-UAS capability
-
-**Performance Optimization:**
-- Continuous weight reduction efforts (achieved 30g reduction in 2024)
-- Power consumption optimization: 58W average (enabling 2+ hour missions)
-- Wind measurement accuracy: ±3 m/s average error vs reference data
-- GCS shutdown timing optimization (30-second difference between stations due to wiring)
-
-## Important Resources
-
-**Technical Documentation:**
-- Hurricane Controllers Operator's Manual (Dan Prendergast)
-- NetCDF file generation scripts for NOAA data delivery
-- S0 parameter files and firmware repositories
-- QC checklists and assembly procedures
-- GCS firmware update procedures and installation commands
-- Google Earth document for landing site planning and recommendations
-
-**Data Products:**
-- Real-time hurricane data: winds, pressure, temperature, humidity
-- WMO-formatted netCDF files for operational use
-- Flight summaries and telemetry analysis
-- Sea surface temperature measurements
-
-**Operational Resources:**
-- NOAA AOC contact: Flight Operations Office, 3450 Flightline Drive, Lakeland, FL 33811-2836
-- FedEx tracking capability for equipment delivery (example tracking: 870349069283)
-- GCS radio channel configuration utility
+**Data Processing & Analysis (April 7-10, 2026):**
+-

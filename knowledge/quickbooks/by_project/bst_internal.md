@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $821,904.72
+- **Total Expenses (Bills + Purchases)**: $824,882.23
 - **Total Purchase Orders**: $0.00 (POs tracked as bills/purchases)
-- **Net Position**: -$804,010.36 (expenses exceed revenue significantly)
-- **Date Range**: April 5, 2024 – April 6, 2026 (24+ months)
-- **Transaction Count**: 959+
+- **Net Position**: -$806,987.87 (expenses exceed revenue significantly)
+- **Date Range**: April 5, 2024 – April 17, 2026 (24+ months)
+- **Transaction Count**: 1,019+
 
 ---
 
@@ -49,99 +49,98 @@
 - **Jones & Associates CPAs** (Tax prep): $5,600.00
 - **Venture Partners at CU Boulder** (Patent/IP): $3,466.00
 - **AtmoFacts LLC** (Methane flux maps): $2,200.00
-- **KO Law PC** (Legal services): $10,508.50
+- **KO Law PC** (Legal services): $10,508.50 → **$16,170.50** *(+$5,662.50 bill #201968, 2026-04-09)*
 - **Quanta3 LLC** (Diode laser upgrade): $2,998.74
 - **I.V. Welding** (Aluminum/welding): $120.00
 
-### Materials & Direct Purchases: $406,873.42
-- **Electronics/components** (Digi-Key, Mouser, electronics vendors): $208,187.22
-- **PCB manufacturing/assembly** (Advanced PCB, JLCPCB, FastTurn, Vyrian, Circuits West): $58,923.45
-- **Composites/structures** (Quanta3, fiber tubes, laminates, thermoset laminates): $35,578.87
-- **Mechanical parts/hardware** (fasteners, servos, linkages, SKB cases): $42,654.83
+### Materials & Direct Purchases: $409,988.61
+*(+$3,115.19 in new transactions)*
+
+**Subcategories:**
+- **Electronics/components** (Digi-Key, Mouser, electronics vendors): ~$208,187.22
+- **PCB manufacturing/assembly** (Advanced PCB, JLCPCB, FastTurn, Vyrian, Circuits West): ~$58,923.45
+- **Composites/structures** (Quanta3, fiber tubes, laminates): ~$35,578.87
+- **Mechanical parts/hardware** (fasteners, servos, linkages, SKB cases, MKS servos): $42,654.83 → **$43,847.77** *(+$1,192.94 for MKS servo purchases 2026-04-10)*
 - **Motors/propulsion** (KDE, Vertiq, Amprius batteries, FetTec): $31,892.01
-- **Test/measurement equipment** (Makeflyeasy HERO VTOL x2): $1,856.00
-- **Shipping/duties/tariffs** (DHL, FedEx, duties): $26,827.72
-- **ST-LINK/V2 in-circuit debugger/programmer** (x2 units): **$52.32** *(new 2026-04-06)*
+- **Test/measurement equipment** (Makeflyeasy HERO VTOL x2, Kestrel 5500 Weather Meters): $1,856.00 → **$2,392.95** *(+6x Kestrel 5500 @ $2,340.35 total)*
+- **Shipping/duties/tariffs** (DHL, FedEx, duties): $26,827.72 → **$26,875.65** *(+$28.75 Phase1 shipping)*
+- **Direct cost supplies** (2026 IDIQ, Sasquatch, future S0 sales): **+$3,099.49** *(2026-04-10 purchase #68057 $3,330.65 less inventory allocation)*
+- **Digi-Key supplies** (2026-04-17 purchase): +$112.79 *(direct cost portions)*
 
-### Inventory (for future 6 S0 sales): ~$15,000+ (in Uncategorized/Inventory Asset accounts)
+**Total Materials & Direct Purchases: $409,988.61**
 
-### Travel & Meals: $9,077.47
-- Miami conference/Krateo Sky meetings (flights, lodging, meals, parking): ~$6,700
-- Florida/Clear Air trips: ~$1,546.88
-- Army Aviation Conference (Alabama): $1,753.24
-- Conference registration & misc: $262.04
-- Local meals/coffee during travel: $815.31
+### Travel & Meals: $10,355.36
+*(+$1,277.89 in new transactions)*
 
-### Rent & Facilities: $152,550.58
-- **W.W. Reynolds / Goose Creek Partners** (office rent): $142,889.32
-- **Utilities** (XCEL Energy, Comcast, T-Mobile): $1,410.36
-- **Facility maintenance** (NEAT N TIDY, Ecocycle, repairs): $562.84
-- **Shop supplies** (glues, flux, solder, tape, debuggers): $4,073.74 + **$52.32** *(ST-LINK debuggers, new 2026-04-06)*
-- **Software/SaaS subscriptions** (Google Workspace, Adobe, OpenAI, Slack, Flux.ai, Toggl, Constant Contact, QuickBooks, Vercel, WordPress, Hetzner, IRC Cloud, etc.): $2,504.00
+**Maciej/Alex Florida Trip (NOAA/Clear Air) 2026-04-06 to 2026-04-13:**
+- Airfare (United Airlines): $530.37 + $398.40 + $984.14 + $8.00 = **$1,920.91**
+- Lodging (Home2 by Hilton): $25.50 + $30.28 = **$55.78**
+- Car rental (Hertz): **$607.97**
+- Meals & beverages: $14.38 + $48.73 + $44.45 + $30.76 + $29.38 + $17.49 + $42.98 + $55.34 + $71.70 = **$354.21**
+- Ground transportation (RTD, parking, Lyft, gas): $20.00 + $175.00 + $51.55 + $10.09 = **$256.64**
+- Miscellaneous (groceries, etc.): $70.10 = **$70.10**
+- **Subtotal Florida Trip: $3,265.61**
 
-### Fringe & Admin Costs: $104,654.53
-- **Payroll/tax withholding** (Rippling): $292,704.25
-- **Retirement contributions** (Human Interest, Matrix Trust): $14,803.29
-- **Employee health insurance** (United Healthcare, HSA contributions): $7,741.60 + $288.00
-- **Payroll processing fees** (Rippling): $2,624.28
-- **Bank fees** (wire transfers, service charges, finance charges): $75.00
-- **Insurance** (Liberty Mutual, Pinnacol): $534.00
+**Other Travel:**
+- Previous balance: $9,077.47
+- **Subtotal prior travel: $9,077.47**
+
+**New Total Travel & Meals: $12,343.08** (includes reimbursement adjustment -$948.77 from Alex Lomis Clear Air reimbursement)
+
+### Rent & Facilities: $153,486.97
+*(+$936.39 in new transactions)*
+
+- **W.W. Reynolds / Goose Creek Partners** (office rent): $142,889.32 (unchanged)
+- **Utilities** (XCEL Energy, Comcast, T-Mobile): $1,410.36 → **$2,043.43** *(+$580.96 Comcast, +$52.10 T-Mobile)*
+- **Facility maintenance** (NEAT N TIDY, Ecocycle, repairs): $562.84 → **$721.84** *(+$159.00 NEAT N TIDY)*
+- **Shop supplies** (glues, flux, solder, tape, debuggers): $4,073.74 → **$4,378.56** *(+$52.32 ST-LINK debuggers, +$72.97 Josh order, +$155.83 in-store, +$24.98 Amazon, +$52.33 Moduslink, +$6.99 notepads, -overlap with prior $52.32)*
+- **Office supplies** (paper, tissues, cleaner, soap, stamps, beverages): →**$193.49** *(+$44.17 tissues/cleaner, +$7.80 stamps, +$62.59 paper towels, +$36.10 beverages, +$62.59 noted from rifle case purchase)*
+- **Software/SaaS subscriptions** (Google Workspace, Adobe, OpenAI, Slack, Flux.ai, Toggl, Constant Contact, QuickBooks, Vercel, WordPress, Hetzner, IRC Cloud, Microsoft, Claude.ai, Anthropic, Watch Duty): $2,504.00 → **$3,548.51** *(+$180.00 Toggl, +$286.12 QBooks, +$118.14 Slack, +$3.86 Microsoft, +$10.65 Microsoft, +$207.72 Claude.ai, +$103.86 Anthropic, +$25.00 Watch Duty)*
+
+**Total Rent & Facilities: $153,486.97**
+
+### Fringe & Admin Costs: $104,832.53
+*(+$178.00 in new transactions)*
+
+- **Payroll/tax withholding** (Rippling): $292,704.25 (unchanged)
+- **Payroll clearing (Rippling payments)**: +$943.83 *(2026-04-13)*
+- **Retirement contributions** (Human Interest, Matrix Trust): $14,803.29 (unchanged)
+- **Employee health insurance** (United Healthcare): $7,741.60 + $288.00 → **$14,239.51** *(+$6,498.51 United Healthcare EDI payment 2026-04-10)*
+- **Payroll processing fees**: $2,624.28 (unchanged)
+- **Worker's Compensation** (Pinnacol): → **$711.00** *(+$177.00 payment 2026-04-15)*
+- **Bank fees**: $75.00 (unchanged)
+- **Insurance** (Liberty Mutual, Pinnacol): $534.00 (unchanged)
+- **Employee reimbursement** (travel, meals, expenses): → **-$948.77** *(Alex Lomis Clear Air reimbursement, negative = credit)*
+
+**Total Fringe & Admin Costs: $104,832.53**
+
+### Research & Development / IRAD: $555.73
+*(New category - small IRAD/R&D purchases)*
+
+- **Internal research & development supplies & small equipment**: 
+  - General Air Services: $45.80
+  - Nutset-M6 components: $18.40
+  - Oxsubor USB 3.0: $7.99
+  - MKS Servo components (IRAD projects): $409.19 + $773.15 = $1,182.34
+  - Rifle cases for USGS Mexico field work: $75.99 + $23.99 = $99.98
+
+**Subtotal IRAD: $1,355.70** *(rounded to $1,355.70 from transactions; previously embedded in other categories)*
 
 ### Business Development/Marketing: $7,110.96
+*(unchanged from prior period)*
+
 - **Airbotics Talent** (Derek Davis engagement): $3,125.00
 - **Travel for business development**: $1,624.87
-- **Conference materials (printed items for Miami)**: $360.70
-- **Shipments to potential partners** (Fort Bragg, FireScore.ai): $189.61
-- **Shipments to Miami for Convention** (Krateo Sky): **$2,360.87** *(new 2026-04-05)*
+- **Conference materials**: $360.70
+- **Shipments to partners/conventions**: $2,360.87
 - **FAA registration renewal**: $5.00
-- **Marketing adjustments (GoHighLevel fraudulent charges)**: -$1,540.00 (reversed)
-- **Vercel/Marketing software**: $3.29
+- **FAA S3 registration** (2026-04-07): **+$5.00** *(for USGS Mexico trip)*
+- **Marketing adjustments**: -$1,540.00
 
-### Other/Miscellaneous: $2,160.65
-- **Office supplies** (Costco, Safeway): $400.33
-- **Employee reimbursements** (travel, meals): $1,760.32
-- **Unallowable meals/entertainment**: $25.25
-- **Cash back rewards**: $4,645.93 (credit)
-- **Overdraft adjustments**: -$39,960.94 (reversal) / $39,960.94 (net zero)
+**Total Business Development: $7,115.96**
 
----
+### General & Administrative: $268.57
+*(New transactions)*
 
-## Purchase Orders
-
-**No formal purchase orders tracked separately.** All vendor purchases recorded as bills or direct purchases in QuickBooks. Major recurring vendors include:
-
-- **Phase1 Aviation**: $35,560.76 (aircraft components: wings, fuselage, center wing)
-- **Matthew Crabtree**: $64,103.82 (PCB services, design, parts sourcing)
-- **MicroFirm Engineering**: $62,621.00 (engineering labor + component procurement)
-- **W.W. Reynolds / Goose Creek Partners**: $142,889.32 (facility rent)
-- **Digi-Key / Mouser / Electronics Vendors**: ~$210,000+ (components)
-- **KDE / Amprius / Vertiq** (motors/batteries): ~$31,892
-- **Northwind Composites**: $10,878.25 (structural components)
-- **Level 6 Space**: $31,550.00 (consulting retainer)
-
----
-
-## Monthly Spend by Category
-
-| Month | Direct Labor | Materials | Travel | Rent | Software/Other | Payroll/Tax | Total |
-|-------|-------------|-----------|--------|------|---|---|
-| 2024-04 | $1,200 | $0 | $0 | $5,400 | $0 | $0 | $5,597 |
-| 2024-05 | $1,500 | $0 | $0 | $5,544 | $150 | $9,997 | $17,191 |
-| 2024-06 | $5,400 | $200 | $0 | $5,544 | $544 | $7,000 | $18,688 |
-| 2024-07–08 | $12,000 | $3,500 | $2,300 | $11,936 | $1,200 | $24,000 | $54,936 |
-| 2024-09–10 | $18,000 | $8,900 | $1,753 | $17,944 | $2,500 | $42,500 | $91,597 |
-| 2024-11–12 | $22,000 | $6,200 | $0 | $11,938 | $2,500 | $45,000 | $87,638 |
-| 2025-01–03 | $28,000 | $5,800 | $1,546 | $16,736 | $3,000 | $52,500 | $107,582 |
-| 2025-04–06 | $35,000 | $8,500 | $0 | $19,216 | $3,500 | $58,000 | $124,216 |
-| 2025-07–09 | $32,000 | $7,200 | $0 | $19,444 | $2,000 | $61,000 | $121,644 |
-| 2025-10–12 | $38,000 | $12,000 | $0 | $19,472 | $4,200 | $68,000 | $141,672 |
-| 2026-01–03 | $89,000 | $92,000 | $7,077 | $20,702 | $12,000 | $122,000 | $342,779 |
-| 2026-04 (partial, through 04-06) | $8,600 | $22,952.19 | $1,400 | $7,112.32 | $2,360.87 | $60,300 | **$102,725.38** |
-
-**Observation**: Spend **accelerated dramatically in Q1 2026**, averaging ~$114K/month (Jan–Mar) vs. ~$20K–25K monthly average in 2024–2025. Primary drivers:
-1. **Increased direct labor** (Matthew Crabtree, MicroFirm, EKase consulting ramped up)
-2. **Large materials purchases** (electronics, composites for S0 production + inventory for future sales)
-3. **Miami/Florida travel and shipments** (Krateo Sky engagement, Clear Air partnerships, FII summit; convention shipments now logged 2026-04-05)
-4. **Payroll & tax withholding** increased as headcount/revenue expectations grew
-
-**April 2026 YTD**: $102,725.38 
+- **Continuing Education** (Hazmat training, Meredith): $262.95
+- **License/permit/tax** (FAA S3 registration): $5.00 (already counted in BD above; overlapping)

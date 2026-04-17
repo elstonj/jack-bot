@@ -4,8 +4,8 @@
 This channel is primarily used for development and testing of BST's S0 VTOL aircraft - a vertical takeoff and landing aircraft capable of transitioning to forward flight. The channel covers technical discussions, flight testing, hardware debugging, and customer delivery preparation.
 
 Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan, Dan
-Activity: High activity with 1412 messages covering approximately 2+ years of development
-Time range: Early development through recent upgrade discussions (2m wingspan proposal)
+Activity: High activity with 1412+ messages covering approximately 2+ years of development
+Time range: Early development through April 2026 (ongoing project)
 
 ## Key Decisions
 
@@ -15,6 +15,7 @@ Time range: Early development through recent upgrade discussions (2m wingspan pr
 - Operating environment: -10C to 40C, up to 20kt gusts
 - Ruddervator deflection reduced to +/- 15 degrees based on flight data
 - Hub board servo rates: 50Hz for servos, 300Hz for ESCs
+- Moving away from current ESC hardware (April 2026)
 
 **Flight Operations:**
 - Battery threshold for VTOL landing: 3V/cell based on performance data
@@ -31,11 +32,11 @@ Time range: Early development through recent upgrade discussions (2m wingspan pr
 
 ## Projects & Initiatives
 
-**S0-VTOL Development:**
+**S0-VTOL Development (Spin-Up Phase - April 2026):**
 - Status: 20/50 required test flights completed for certification
-- Major milestone: First successful transition flight (Dec 23)
-- Current focus: Reliability improvements after 2 crashes during transitions
-- Aggressive testing schedule: 10 clean flights by end of August
+- Current phase: Re-spinning work with focus on ground testing improvements before resuming flight tests
+- Major concern: Recent consecutive transition flight failures cannot be replicated on ground
+- Ground testing strategy: Moving toward test methodologies similar to S3 program with independent sensor logging
 
 **ADONIS Project:**
 - Contract deliverable: Flight testing required by March 24
@@ -53,21 +54,26 @@ Time range: Early development through recent upgrade discussions (2m wingspan pr
 - Complete 50 flight test program for S0-VTOL certification
 - Conduct customer training (completed Barbados training)
 - Update charge connector and button on interface board
+- Coordinate integrated testing setup: work with team to connect independent sensor logging system to autopilot for laptop-based ground testing (April 17, 2026)
 
 **Sam Hild:**
 - Configure Remote ID on aircraft before shipment
 - Continue thermal testing on crashed S0-VTOL hub board
 - Build 3 new aircraft with updated boards for delivery
+- Set up independent RPM logging capability using Teensy (April 17, 2026)
 
 **Alex Lomis:**
 - Add QC checklist items for future deliveries
 - Create new heat sink revision for ESC thermal management
 - Evaluate 2m wingspan upgrade option from TJIRC
+- Lead ground testing discussion to address replicability gap with flight failures
+- Design independent sensor logging system: RPM sensors and potentiometers to log motor outputs separately from autopilot commands (April 17, 2026)
 
 **Maciej:**
 - Complete GPS hover testing before transition flights
 - Continue debugging parameter corruption issues
 - Develop storage charge calculation spreadsheet
+- Coordinate S0-VTOL ground testing plan in conjunction with spin-up (April 17, 2026)
 
 ## Client & External References
 
@@ -86,6 +92,7 @@ Time range: Early development through recent upgrade discussions (2m wingspan pr
 - TJIRC - 2m wingspan upgrade option discussion
 - Jawstec - parts ordering for assembly
 - Harting - power connector specifications
+- Digikey - sourcing RPM sensors and potentiometers for ground testing (April 2026)
 
 ## Recurring Topics & Themes
 
@@ -96,6 +103,8 @@ Time range: Early development through recent upgrade discussions (2m wingspan pr
 
 **Flight Testing Challenges:**
 - Two S0-VTOL crashes after transition with power/control loss
+- Recent consecutive transition flights showing similar failure patterns that cannot be replicated on ground
+- Gap between ground test behavior and in-flight behavior
 - Voltage initialization bugs affecting battery state estimation
 - Static pressure sensor failures causing landing issues
 - Motor thrust offset problems with BLHeli_S ESCs
@@ -105,6 +114,12 @@ Time range: Early development through recent upgrade discussions (2m wingspan pr
 - GPS hardware failures (modules physically falling apart)
 - Current sensor lag affecting magnetometer calibration
 - Servo signal compatibility issues with newer Bluebird servos
+- ESC firmware/output compatibility concerns leading to hardware transition decision
+
+**Ground Testing Methodology:**
+- Need for sinusoidal motor command tests with independent RPM verification
+- Desire to log ESC outputs independently of autopilot commands over extended test periods
+- Integration of multiple sensor inputs for comprehensive ground validation
 
 ## Important Resources
 
@@ -126,7 +141,21 @@ Time range: Early development through recent upgrade discussions (2m wingspan pr
 - Forward flight efficiency: 127W at 18 m/s (actual ~20.5 m/s)
 - Aircraft weight: 2550g AUW (170g reduction from previous version)
 
+**Testing Equipment (Planned/In Development):**
+- Teensy microcontroller for independent sensor data logging
+- RPM sensors and potentiometers for motor output verification
+- Laptop-based integrated testing interface connecting independent sensors to autopilot data
+
 ## Recent Activity
+
+**Ground Testing Re-focus (April 17, 2026):**
+- Team resuming S0-VTOL work after hiatus
+- Key issue identified: Cannot replicate in-ground testing the failure modes seen in last two consecutive transition flights
+- Recognition that problem may not be simple "need more hours" but actual gap between ground and flight behavior
+- Decision to enhance ground testing methodology before proceeding with more flight tests
+- Proposal: Set up independent RPM logging during ESC/motor sinusoidal tests to verify motor outputs match commanded values
+- Hardware transition underway - moving away from current ESC platform
+- Integration planned: Jack to coordinate connecting independent sensors to autopilot for comprehensive laptop-based ground testing
 
 **Wing Upgrade Discussion:**
 - Alex Lomis presented 2m wingspan upgrade from TJIRC
@@ -137,9 +166,4 @@ Time range: Early development through recent upgrade discussions (2m wingspan pr
 **Test Program Status:**
 - 20 of 50 required test flights completed
 - Missing critical tests: 45+ minute flights with wind data, speed validation, battery limit testing
-- High wind testing (>20 mph) not yet completed
-
-**Equipment Integration:**
-- Vantage gimbal integration discussion (EO, IR, ultra low light + 3-axis gimbal)
-- Manual flight capability consideration for future versions
-- Naming convention discussion for upgraded version
+- High wind testing (>

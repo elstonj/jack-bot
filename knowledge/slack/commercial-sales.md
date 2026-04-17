@@ -12,8 +12,11 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Danny Troke (QC, testing, batteries)
 - Meredith Needham (shipping, logistics)
 - Nate (assembly, QC flights, payload prep)
+- Paige Smith (sales coordination, customer communication)
+- Beck Cotter (customer outreach, email coordination)
+- Ben Busby (team member)
 
-**Activity Level:** High-volume channel with 4,701 messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions.
+**Activity Level:** High-volume channel with 4,701+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions.
 
 ---
 
@@ -141,9 +144,4 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 **S0 Wing & Nosecone Orders (October 2023)**
 - Ordered 10 S0 wings (matching SOW requirements)
 - 2+ carbon fiber nosecones (noted many in stock already)
-- Decided against building additional S2 (new team members to learn on tail assembly instead)
-
-### Battery & Housing Decisions
-
-**E2 Battery Housing Cost Update (2024)**
-- Battery housings cost increased from
+- Decided against building additional S2 (new

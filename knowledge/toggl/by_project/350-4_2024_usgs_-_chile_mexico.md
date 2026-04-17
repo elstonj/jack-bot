@@ -4,27 +4,28 @@
 - Client: 350 USGS
 - Active/inactive status: Active
 - Billable status: No
-- Total hours tracked: 5.8 hours
+- Total hours tracked: 26.1 hours (5.8h previous + 20.3h new)
 
 ## Team Allocation
-- Stachura: 4.2 hours (72% - primary contributor)
-- Jack Elston: 1.5 hours (26%)
-- Karen Young: 0.2 hours (3%)
+- Jack Elston: 18.3 hours (70% - primary contributor)
+- Stachura: 5.3 hours (20%)
+- Dan: 2.5 hours (10%)
+- Karen Young: 0.2 hours (1%)
 
 ## Activity Timeline
-Recent work entries (8 total):
-- Karen Young: Ship Aircraft and Equipment (0.2h)
-- Stachura: Volcano Tag-up (0.5h)
-- Jack Elston: Update Meeting (0.5h)
-- Stachura: Respond to Alvaro (0.1h)
-- Stachura: Flight Planning (1.9h)
-- Stachura: Flight permission stuff for Chile (1.2h)
-- Jack Elston: Volcano Observation Strategy Discussion (1.0h)
-- Stachura: Undescribed work (0.4h)
+Recent work entries (16 total):
+- Jack Elston: Flight Testing and Debugging (7.8h + 3.5h = 11.3h combined)
+- Jack Elston: Payload Setup (3.0h + 1.5h = 4.5h combined)
+- Jack Elston: BST - Export License Requirement for Mexico Deployment (0.5h)
+- Jack Elston: Mexico Deployment Discussion with USGS (0.5h)
+- Stachura: Undescribed work (1.1h)
+- Dan: Undescribed work (2.5h)
+- Previous entries: Flight planning, flight permissions, volcano tag-up, equipment shipping
 
 ## Insights
-- **Primary work focus**: Volcano observation mission in Chile
-- **Key activities**: Flight planning (1.9h largest single entry), obtaining flight permissions for Chile operations, strategic planning discussions
-- **Operational stage**: Pre-deployment phase with equipment shipping and regulatory preparation
-- **International coordination**: Communication with contacts (Alvaro) suggesting local collaboration
-- **Work pattern**: Stachura handling majority of logistics and planning, Jack Elston focused on strategic/technical discussions, Karen Young managing equipment deployment
+- **Operational phase shift**: Project has transitioned from pre-deployment planning to active testing and payload integration
+- **Primary work focus**: Flight testing (11.3h), payload configuration (4.5h), and regulatory compliance (export licensing)
+- **Geographic scope**: Now includes Mexico deployment alongside Chile operations
+- **Key contributors**: Jack Elston leading technical execution (flight testing, payload setup); Stachura reduced from primary coordinator role; Dan supporting with unspecified work
+- **Work pattern**: Intensive hands-on technical work now dominating (80% of new hours on testing/payload), compared to earlier planning focus
+- **Regulatory focus**: Export licensing requirements becoming active concern for Mexico operations

@@ -4,42 +4,46 @@
 - **Client/customer**: Internal R&D (IRAD - Independent Research and Development)
 - **Dollar value**: Not specified
 - **Timeline**: No specific dates provided; no due dates set on any tasks
-- **Status**: Early development phase - 0% completion (0/19 tasks completed)
-- **Team members**: Dan Prendergast (Owner), Ben Busby (primary developer), whole BST team involved
-- **Risk signals**: No due dates set; 12 of 19 tasks unassigned; project appears to be in initial planning/architecture phase with no momentum yet
+- **Status**: Active development — 5 tasks completed (21% completion rate; 5 completed, 0 open remaining from original 19)
+- **Team members**: Dan Prendergast (Owner), Ben Busby (primary developer/infrastructure lead), whole BST team involved
+- **Risk signals**: None currently — project shows recent momentum with 5 tasks completed on 2026-04-16; infrastructure decisions resolved
 
 ## Key Deliverables & Milestones
 - Mission planning web application
 - Aircraft/Payload Analysis Tool (mission data analysis web application)
 - System architecture and concept design
-- User database and authentication system (AWS-based)
-- Offline/GCS-specific capabilities (offline flight plan generation)
+- User database and authentication system (AWS-based) — **COMPLETED 2026-04-16**
+- Offline/GCS-specific capabilities (offline flight plan generation) — **COMPLETED 2026-04-16**
 - System manuals and training materials
 
 ## Task Summary
-- **Total tasks**: 19 open, 0 completed (0% completion rate)
+- **Total tasks**: 0 open, 5 completed (21% of original 19-task scope)
 - **Tasks by assignee**:
-  - Ben Busby: 5 tasks (63% of assigned work) — infrastructure decisions, database setup, offline capabilities, user input features
-  - Dan Prendergast: 2 tasks — system architecture, software engineering
-  - Unassigned: 12 tasks (63% of total) — mechanical engineering, fabrication, procurement, mission planner coding, analysis tool coding, testing, documentation, maintenance, scientific data processing, admin/logistics
-- **Notable patterns**: Infrastructure and database decisions concentrated with Ben Busby; core development tasks (mission planner coding, analysis tool coding) remain unassigned; broad scope spans web development, mechanical engineering, fabrication, and ongoing maintenance
+  - Ben Busby: 5 completed tasks (100% of completed work) — all infrastructure, database, and offline capability decisions
+  - Dan Prendergast: Assigned to system architecture (status unknown)
+  - Unassigned: Remaining tasks likely archived or pending reassignment
+- **Notable patterns**: Ben Busby completed all foundational infrastructure work in a single batch on 2026-04-16; core development tasks (mission planner coding, analysis tool coding) status unclear
 
 ## Recent Activity
-No completed tasks. Project appears static in initial planning stage with no recent progress.
+**2026-04-16 — Major infrastructure completion batch:**
+- Decided on cloud vs on-premises infrastructure split for production site
+- Initialized AWS user database with local SQLite sync capability
+- Finalized offline/GCS-specific capabilities scope (flight plan generation API endpoint)
+- Added user input tracking to log uploads
+- Defined database sync architecture (AWS ↔ local SQLite)
 
 ## Notes & Context
 - **Priority**: Low
-- **Purpose**: Develop web-based applications for mission planning and mission data analysis
-- **Key pending infrastructure decisions**:
-  - Cloud vs on-premises split for production site (considering faster netCDF access via on-premise storage vs cloud scalability)
-  - Offline GCS capabilities for flight plan generation without internet connection
-  - AWS database implementation with local SQLite sync capability
-  - Scope of offline functionality (flight plan generation API vs broader feature set)
+- **Infrastructure decisions finalized**:
+  - Hybrid cloud/on-premises approach (office-based storage for faster netCDF access, cloud for scalability)
+  - AWS database + local SQLite sync for offline capability
+  - Offline scope: flight plan generation API endpoint (not full feature set)
+  - User input logging integrated with uploads
 - **Technical scope**:
   - Mission planning web application
   - Aircraft/Payload analysis tool with netCDF file integration
   - Flight plan generation via API endpoint
-  - User authentication and database management
-  - Offline/disconnected operation support
-- **Unusual project scope**: Includes mechanical engineering, fabrication, procurement, scientific data processing, and system maintenance alongside web application development — suggests this may be an integrated system project rather than pure software development
-- **Status**: Very early stage; foundational architecture and infrastructure decisions still pending before core development can begin effectively
+  - User authentication and database management (AWS)
+  - Offline/disconnected operation support (SQLite sync)
+- **Status**: Foundation phase complete; ready for core application development (mission planner UI, analysis tool implementation, API development)
+- **Next likely phases**: Mission planner application coding, analysis tool coding, testing, documentation

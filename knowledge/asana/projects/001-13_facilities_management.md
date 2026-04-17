@@ -4,12 +4,12 @@
 - **Client/customer**: Internal operations (BST office and shop space maintenance)
 - **Dollar value**: Lease costs ranging from $13.00–$14.63 NNN over 60-month term, plus $6.23 CAM for real estate taxes and building insurance
 - **Timeline**: Ongoing operational project with recurring monthly/weekly tasks
-- **Status**: Active - high completion rate (158 completed, 6 open tasks; 96% completion rate)
+- **Status**: Active - very high completion rate (158 completed, 2 open tasks; 99% completion rate)
 - **Team members involved**: Meredith O'hara Needham (primary operational owner), Nate Straus (facilities improvements & consumables)
 - **Risk signals**: 
-  - **Office Cleaning overdue** (due 2026-04-07)
-  - Rent payment due 2026-04-27 (not yet overdue but approaching)
-  - Weekly purchasing list due 2026-04-10 (not yet overdue but approaching)
+  - **Office Cleaning OVERDUE** (due 2026-04-07, now ~7+ days past due)
+  - **Ongoing Office Purchasing List due 2026-04-10** (3 days out, at risk given cleaning backlog pattern)
+  - Rent payment due 2026-04-27 (approaching, ~23 days out)
 
 ## Key Deliverables & Milestones
 - **Monthly rent payments** (~$13.00–$14.63 NNN depending on lease year, due ~27th of each month)
@@ -21,9 +21,9 @@
 - **Lease termination planning** (unassigned, no due date; notes reference $6.23 CAM for real estate taxes and building insurance)
 
 ## Task Summary
-- **Total tasks**: 164 (6 open, 158 completed) — 96% completion rate
+- **Total tasks**: 160 (2 open, 158 completed) — 99% completion rate
 - **Tasks by assignee**:
-  - **Meredith O'hara Needham**: Primary owner of recurring operational tasks (rent, cleaning, weekly purchasing). Dominates task list with consistent batch completion patterns.
+  - **Meredith O'hara Needham**: Primary owner of all recurring operational tasks (rent, cleaning, weekly purchasing). Dominates task list with consistent batch completion patterns.
   - **Nate Straus**: Facilities improvements, equipment wish list, consumables stock management
   - **Unassigned**: Lease termination planning (1 task)
 - **Notable patterns**: 
@@ -34,12 +34,12 @@
   - Rent paid monthly (~27th, though sometimes batched with other tasks)
 
 ## Recent Activity
-- **Current overdue/approaching tasks**:
-  - Office Cleaning: **OVERDUE** (due 2026-04-07)
-  - Weekly Purchasing List: Due 2026-04-10 (3 days out)
-  - Rent Payment: Due 2026-04-27 (23 days out)
-- **Recent batch completion**: 2026-04-03 batch cleared 4 weekly purchasing lists, March rent, and March office cleaning
-- **Pattern observation**: Meredith O'hara Needham tends to complete multiple tasks in batches rather than on individual due dates; office cleaning currently overdue by ~7 days
+- **Critical overdue/approaching tasks**:
+  - Office Cleaning: **OVERDUE** (due 2026-04-07, approximately 7+ days past due)
+  - Ongoing Office Purchasing List: Due 2026-04-10 (3 days remaining)
+  - Rent Payment: Due 2026-04-27 (23 days out, not yet overdue)
+- **Previous batch completion**: 2026-04-03 batch cleared 4 weekly purchasing lists, March rent, and March office cleaning
+- **Pattern observation**: Meredith O'hara Needham tends to complete multiple tasks in batches rather than on individual due dates; office cleaning currently overdue and may trigger batch completion cycle
 
 ## Notes & Context
 
@@ -54,6 +54,7 @@
   - Login credentials: purchasing@blackswifttech.com / 297EZXULBMbZyY
   - Owner: Meredith O'hara Needham
   - Team: Whole BST team supported
+  - Drive reference: https://drive.google.com/file/d/1HwqI6kJ6fMWoW2uKUGwd9
 
 **Lease Details** (60-month term with escalating NNN rates):
 | Period | Rate (NNN) | CAM |
@@ -64,6 +65,8 @@
 | Months 37–48 | $14.21 | $6.23 |
 | Months 49–60 | $14.63 | $6.23 |
 
-**Operational Focus**: Project serves as central hub for all physical office maintenance, from routine cleaning and purchasing to strategic facilities improvements and equipment management. Heavy reliance on Meredith O'hara Needham's operational execution; batch task completion workflow is efficient but occasionally results in overdue items (e.g., current cleaning task). No deadline set for lease termination planning or strategic facilities/equipment initiatives.
+**Operational Focus**: Project serves as central hub for all physical office maintenance, from routine cleaning and purchasing to strategic facilities improvements and equipment management. Heavy reliance on Meredith O'hara Needham's operational execution; batch task completion workflow is efficient but currently showing strain with overdue cleaning task. No deadline set for lease termination planning or strategic facilities/equipment initiatives.
 
 **Google Drive Reference**: Consumables stock tracker maintained at https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus)
+
+**ACTION ITEM**: Monitor for batch completion cycle. Overdue cleaning task (7+ days) combined with approaching purchasing list (3 days) suggests Meredith O'hara Needham may batch these together; also monitor rent payment due 2026-04-27.

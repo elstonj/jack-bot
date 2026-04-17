@@ -4,16 +4,16 @@
 - Client: [001] IRAD (Internal Research and Development)
 - Active/inactive status: Active
 - Billable status: Non-billable
-- Total hours tracked: 748.5 hours
+- Total hours tracked: 782.5 hours
 
 ## Team Allocation
-- Ben Busby: 554.6 hours (74.1% - Primary contributor)
-- Stachura: 185.4 hours (24.8%)
+- Ben Busby: 588.6 hours (75.2% - Primary contributor)
+- Stachura: 185.4 hours (23.7%)
 - Jack Elston: 8.5 hours (1.1%)
 
 ## Activity Timeline
 Recent work shows ongoing development with focus on:
-- **Ben Busby**: Consistent high-volume work sessions (typically 4-8 hour blocks), though most entries lack descriptions
+- **Ben Busby**: Continued high-volume work sessions; latest batch shows four sessions totaling 34.0 hours (10h, 8h, 8h, 8h blocks) - all without task descriptions
 - **Stachura**: More detailed entries showing specific feature work including:
   - VTOL code development and testing
   - E2 Gazebo modeling 
@@ -30,8 +30,8 @@ Recent work shows ongoing development with focus on:
   - Bug fixes and testing
   - Mixer code development
 - **Notable patterns**:
-  - Ben Busby carries the majority of development load but provides minimal task descriptions
+  - Ben Busby continues to carry majority of development load with minimal task descriptions
   - Stachura focuses on specific features and provides detailed work descriptions
   - Work appears to be in active development phase with frequent bug fixes and feature additions
   - Strong emphasis on VTOL capabilities and simulation accuracy
-- **Documentation gap**: 74% of Ben Busby's entries lack descriptions, making it difficult to track specific contributions
+- **Documentation gap**: 75%+ of Ben Busby's entries lack descriptions, making it difficult to track specific contributions

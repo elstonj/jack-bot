@@ -5,14 +5,18 @@
 - **Primary Contacts:** Joe Cione (NOAA), Jun Zhang (jun.zhang@noaa.gov)
 - **Contract:** 1305M225P0034
 - **Dollar value:** $1,700,000 total budget to Black Swift Technologies
-- **Timeline:** Extended through August 25, 2026 (6-month extension from original contract)
-- **Status:** Active and progressing toward 25-30 UAS delivery for FY25; contract extended with additional funding
+- **Timeline:** 
+  - **Extended through August 25, 2026** (6-month extension from original contract)
+  - Project Start: August 25, 2026 (contract end date aligns with project due date)
+  - Key testing deadlines: March 18-20, May 1 (completed as of April 2026)
+- **Status:** Active and progressing; 34 systems delivered to AOC (Dec 2025); hardware/software freeze completed (Nov 2025)
 - **Team members:** Josh Fromm (owner), Jack Elston, Maciej Stachura, Dan Prendergast, Ben Busby, Ethan Domagala, Alex Lomis, Nate Straus, Meredith O'Hara Needham
 - **Priority level:** Low
 - **Risk signals:** 
+  - **2 critical unassigned open tasks due July 31, 2026:** Web-based controller and Operator Training
+  - **13 unassigned milestone tasks with no due dates** (Prototyping, Construction, Design, Software/Firmware/Electronics, Data Processing, QC, Administrative, Meetings, Travel)
   - IAS (Indicated Airspeed) failures increasingly frequent, causing lost wind measurements and aircraft loss
-  - Multiple unassigned milestone tasks with no due dates
-  - Key testing deadlines approaching (Mar 18-20, May 1)
+  - Additional 13 S0 systems delivery (July 1, 2026) unassigned with no progress tracking
 
 ## Key Deliverables & Milestones
 
@@ -37,57 +41,62 @@
 - MultiUAS [Optional]
 
 ## Task Summary
-- **Total tasks:** 226 (27 open, 199 completed) — **88% completion rate**
-- **Key assignees and activity:**
-  - **Maciej Stachura:** IAS troubleshooting (due Mar 31), local testing verification (due Mar 20), clear air testing (due May 1)
-  - **Jack Elston:** Ground station configuration, multi-UAS testing, recent dual S0 testing and P3 configuration
-  - **Ethan Domagala:** QC Flight for new E2 (due Mar 18)
-  - **Ben Busby:** IAS LED/telemetry fixes (due Mar 31)
-  - **Josh Fromm:** Project owner, recent battery drain fixes
+- **Total tasks:** 226 (2 open, 224 completed) — **99% completion rate**
+- **Recent completions (April 2026):**
+  - Local testing to verify fixes and updates (Mar 20 due, Apr 16 completed) — Maciej Stachura
+  - Clear Air Testing (May 1 due, Apr 16 completed) — Maciej Stachura
+  - QC Flight for new E2 (Mar 18 due, Apr 9 completed) — Ethan Domagala
+- **Open tasks (Due July 31, 2026):**
+  - Web-based controller — Unassigned
+  - Operator Training — Unassigned
+- **Key assignees and recent activity:**
+  - **Maciej Stachura:** Recent testing completions (local verification, clear air testing)
+  - **Ethan Domagala:** QC flights
+  - **Jack Elston:** Multi-UAS testing, P3 configuration, IDIQ contract negotiations with NOAA
+  - **Ben Busby:** IAS LED/telemetry fixes
+  - **Josh Fromm:** Project owner, battery drain fixes
   - **Dan Prendergast:** Simulation testing, UI improvements
-  - **Many unassigned tasks:** All training deliverables, 13 S0 systems delivery, prototyping, construction, deployments, and design work
 - **Notable patterns:** 
-  - High focus on IAS malfunction fixes (multiple active/recent tasks)
-  - Strong completion rate on manufacturing and testing tasks
-  - Critical gap: unassigned milestone tasks with no due dates create scheduling risk
+  - High completion rate reflects strong execution on testing and manufacturing
+  - Critical gap: 2 open tasks unassigned 4 months before July 31 deadline
+  - 13 unassigned milestone tasks create scheduling risk
 
-## Recent Activity (March 2026)
+## Recent Activity (April 2026)
 
-**Completed (Late March):**
-- Local dual S0 test (Mar 18)
-- Configure 2nd ground station for P3 (Mar 18)
-- Test zigzag eyewall tracking in simulation (Mar 17)
-- Develop bench test for S0 drop (Mar 17)
-- Disappearing S0 fix (Mar 31)
-- Update AOC aircraft with battery drain fix (Mar 31)
+**Completed (April 2026):**
+- Clear Air Testing (May 1 due date, completed Apr 16) — Maciej Stachura
+- Local testing to verify fixes and updates (Mar 20 due date, completed Apr 16) — Maciej Stachura
+- QC Flight for new E2 (Mar 18 due date, completed Apr 9) — Ethan Domagala
 
-**In Progress:**
-- QC Flight for new E2 (due Mar 18) — Ethan Domagala
-- Local testing to verify fixes and updates (due Mar 20) — Maciej Stachura
-- IAS detector/throttle investigation (due Mar 31) — Maciej Stachura
-- IAS LED/telemetry field red indicator fix (due Mar 31) — Ben Busby
-
-**Approaching Deadlines:**
-- Clear Air Testing (May 1) — Maciej Stachura
-- Additional 13 S0 systems delivery (July 1) — Unassigned
+**Open & Approaching:**
+- Web-based controller (due July 31) — Unassigned
+- Operator Training (due July 31) — Unassigned
 
 ## Notes & Context
 
 ### Funding & Contract Status
+- **Extended contract:** Now runs through August 25, 2026 with 6-month extension
 - NOAA has **$115K + $54K earmarked** for extension/early part ordering for 3 UAS builds (as of Dec 2025)
 - First optional funding invoice ($121,650) submitted October 2025 for: 4 S0s, Hurricane Erin/Gabriella/Imelda deployment trips, support and Clear Air testing
-- Jack Elston working with NOAA on **IDIQ contract** for ongoing build orders (25-30 UAS for FY25)
+- Jack Elston actively working with NOAA on **IDIQ contract** for ongoing build orders (25-30 UAS for FY25)
 
 ### Technical Focus
 - **IAS failures are primary concern:** Recurring during flights, causing wind measurement loss and aircraft loss — increasingly frequent on 2025-10-26 flights
-- Recent fixes include: parameter adjustments (FF 3.5, Kh 1.5), RH calculation corrections, radar interrupt resolution, battery drain fixes
+- Recent fixes completed: parameter adjustments (FF 3.5, Kh 1.5), RH calculation corrections, radar interrupt resolution, battery drain fixes
 - Multi-UAS capability testing confirmed feasible; dual S0 testing successful
+- Clear Air testing completed as of April 16
 
-### Critical Gap
-**13 unassigned milestone tasks with no due dates create schedule risk:** Prototyping, Construction, Design, Software/Firmware/Electronics, Data Processing, QC, Administrative, Meetings, Travel — all essential work categories lack ownership and timeline clarity. These should be assigned and scheduled before July 1, 2026 delivery deadline.
+### Critical Issues
+1. **Two training/software deliverables unassigned with 4 months to deadline (July 31):**
+   - Web-based controller
+   - Operator Training
+   - Both require immediate assignment and scheduling
 
-### Deployment Readiness
+2. **13 unassigned milestone tasks with no due dates create delivery risk for July 1 (13 S0 systems) and Aug 25 (training CLINs) deadlines:** Prototyping, Construction, Design, Software/Firmware/Electronics, Data Processing, QC, Administrative, Meetings, Travel — all essential work categories lack ownership and timeline clarity.
+
+### Deployment Status
 - All S0 wings built and calibrated (Oct 2025)
 - Remaining 7 systems constructed (Feb 2026)
 - Hardware/software freeze completed (Nov 2025)
 - AOC release forms updated; deployment procedures documented
+- Clear Air testing completed (Apr 2026)
