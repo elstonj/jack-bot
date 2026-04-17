@@ -189,66 +189,62 @@ def _match_financial_files(question_lower):
     return matches
 
 
+def _files_from_channel_context(channel_context):
+    """Collect knowledge files that match the resolved channel's project."""
+    if not channel_context:
+        return []
+    files = []
+    code = channel_context.get("project_code")
+    if not code:
+        return files
+    proj_file = channel_context.get("project_file")
+    if proj_file and os.path.exists(proj_file):
+        files.append(proj_file)
+    fin_file = channel_context.get("financial_file")
+    if fin_file and os.path.exists(fin_file):
+        files.append(fin_file)
+    cost_path = os.path.join(KNOWLEDGE_DIR, "financial", "costs", f"{code}.md")
+    if os.path.exists(cost_path):
+        files.append(cost_path)
+    asana_dir = os.path.join(KNOWLEDGE_DIR, "asana", "projects")
+    if os.path.isdir(asana_dir):
+        code_dash = code.replace("_", "-")
+        for fpath in sorted(glob.glob(os.path.join(asana_dir, "*.md"))):
+            fname = os.path.basename(fpath)
+            if code_dash in fname or code in fname:
+                files.append(fpath)
+    return files
+
+
+def _project_context_blurb(channel_context):
+    """Render a short description of the channel/project for the Q&A prompt."""
+    if not channel_context or channel_context.get("is_dm"):
+        return ""
+    parts = []
+    name = channel_context.get("channel_name")
+    code = channel_context.get("project_code")
+    proj_name = channel_context.get("project_name")
+    if code and proj_name:
+        parts.append(
+            f"The user is in the #{name} channel, which is associated with "
+            f"project [{code}] {proj_name}. 'This project' / 'the project' / "
+            f"'we' refer to [{code}]."
+        )
+    elif code:
+        parts.append(f"The user is in the #{name} channel (project {code}).")
+    elif name:
+        parts.append(f"The user is asking from the #{name} channel.")
+    return " ".join(parts)
+
+
 def _resolve_channel_project(channel_id, slack_client):
-    """Resolve a Slack channel to a project code and load relevant files."""
+    """Backward-compatible resolver. Prefers the shared channel_context helper."""
     if not channel_id or not slack_client:
         return [], ""
     try:
-        from finances import _load_channel_map, _get_channel_info, _find_financial_file
-        from pathlib import Path
-
-        files = []
-        project_context = ""
-
-        # Check channel mapping
-        channel_map = _load_channel_map()
-        code = channel_map.get(channel_id)
-
-        # If no mapping, try channel name matching
-        if not code:
-            info = _get_channel_info(slack_client, channel_id)
-            ch_name = info.get("name", "")
-            if ch_name:
-                project_context = f"The user is asking from the #{ch_name} channel."
-                # Try to match channel name to project registry
-                proj_dir = os.path.join(KNOWLEDGE_DIR, "projects")
-                if os.path.isdir(proj_dir):
-                    ch_lower = ch_name.lower().replace("-", " ")
-                    for fpath in sorted(glob.glob(os.path.join(proj_dir, "*.md"))):
-                        if os.path.basename(fpath) == "registry.md":
-                            continue
-                        try:
-                            header = open(fpath).read(500).lower()
-                            if ch_lower in header or all(w in header for w in ch_lower.split() if len(w) > 2):
-                                code = os.path.basename(fpath).replace(".md", "")
-                                files.append(fpath)
-                                break
-                        except Exception:
-                            continue
-
-        if code:
-            project_context = f"The user is in a channel for project {code}. 'This project' refers to {code}."
-            # Load project registry file
-            proj_file = os.path.join(KNOWLEDGE_DIR, "projects", f"{code}.md")
-            if os.path.exists(proj_file):
-                files.append(proj_file)
-            # Load financial file (revenue side)
-            fin_path = _find_financial_file(code)
-            if fin_path:
-                files.append(str(fin_path))
-            # Load cost file (expense side)
-            cost_path = os.path.join(KNOWLEDGE_DIR, "financial", "costs", f"{code}.md")
-            if os.path.exists(cost_path):
-                files.append(cost_path)
-            # Load Asana project files matching the code
-            asana_dir = os.path.join(KNOWLEDGE_DIR, "asana", "projects")
-            if os.path.isdir(asana_dir):
-                code_pattern = code.replace("_", "-").replace("_", "[-_]")
-                for fpath in sorted(glob.glob(os.path.join(asana_dir, "*.md"))):
-                    if code.replace("_", "-") in os.path.basename(fpath) or code.replace("_", "_") in os.path.basename(fpath):
-                        files.append(fpath)
-
-        return files, project_context
+        from channel_context import get_channel_context
+        ctx = get_channel_context(slack_client, channel_id)
+        return _files_from_channel_context(ctx), _project_context_blurb(ctx)
     except Exception:
         return [], ""
 
@@ -470,27 +466,38 @@ Available sources and what they're good for:
   meeting follow-ups. Search by keyword.
 - slack: Channel messages, internal discussions, decisions, status updates. Search by keyword.
 - calendar: Today's meetings, who is meeting with whom, scheduled events.
-- asana: Current task assignments, project status, who is working on what.
+- asana: Current task assignments, project status, who is working on what. \
+  If a project is already identified from the channel, the bot will fetch that \
+  project's open tasks directly — so include "asana" whenever the question is \
+  about tasks, milestones, or deliverables, even if the user didn't name the project.
 
 Given the question and the partial answer from knowledge files, output a JSON object with:
 - "sources": list of source names to search (e.g. ["gmail", "slack"])
-- "query": the search keywords to use (3-5 most relevant terms, no stopwords)
+- "query": the search keywords to use (3-5 most relevant terms, no stopwords). \
+  If a project is identified, include its name or code.
 - "reason": one-line explanation of what you're looking for
 
 Output ONLY the JSON object, nothing else."""
 
 
-def _plan_live_search(question, partial_answer):
+def _plan_live_search(question, partial_answer, channel_context=None):
     """Ask Claude which live sources to search and what query to use."""
     try:
+        user_content = f"Question: {question}\n\n"
+        if channel_context and channel_context.get("project_code"):
+            code = channel_context["project_code"]
+            pname = channel_context.get("project_name") or ""
+            cname = channel_context.get("channel_name") or ""
+            user_content += (
+                f"Channel context: #{cname}, associated with project "
+                f"[{code}] {pname}.\n\n"
+            )
+        user_content += f"Partial answer from knowledge files: {partial_answer[:500]}"
         response = client.messages.create(
             model="claude-haiku-4-5-20251001",
             max_tokens=200,
             system=SEARCH_PLAN_PROMPT,
-            messages=[{"role": "user", "content": (
-                f"Question: {question}\n\n"
-                f"Partial answer from knowledge files: {partial_answer[:500]}"
-            )}],
+            messages=[{"role": "user", "content": user_content}],
         )
         import json
         return json.loads(response.content[0].text)
@@ -578,78 +585,119 @@ def _search_calendar(query):
         return ""
 
 
-def _search_asana(query):
-    """Search Asana tasks by keyword."""
+def _search_asana(query, project_gid=None):
+    """Search Asana tasks by keyword.
+
+    If project_gid is provided, first fetch that project's open tasks directly
+    (workspace text-search only returns tasks whose names/notes match the query,
+    which misses a lot of project-relevant work).
+    """
+    sections = []
+
+    if project_gid:
+        try:
+            from asana_client import get_tasks_for_project
+            proj_tasks = get_tasks_for_project(project_gid, enriched=True)
+            open_tasks = [t for t in proj_tasks if not t.get("completed")]
+            if open_tasks:
+                lines = ["=== ASANA: OPEN TASKS IN THIS CHANNEL'S PROJECT ==="]
+                for t in open_tasks[:25]:
+                    assignee = t.get("assignee") or {}
+                    aname = assignee.get("name", "Unassigned")
+                    due = t.get("due_on") or "no date"
+                    notes_preview = (t.get("notes") or "")[:150].replace("\n", " ")
+                    lines.append(f"• {t['name']} | {aname} | Due: {due} | gid:{t.get('gid', '')}")
+                    if notes_preview:
+                        lines.append(f"  {notes_preview}")
+                sections.append("\n".join(lines))
+        except Exception:
+            pass
+
     try:
         import requests
         headers = {"Authorization": f"Bearer {os.environ['ASANA_ACCESS_TOKEN']}"}
         from asana_client import get_workspaces
         workspaces = get_workspaces()
-        if not workspaces:
-            return ""
-
-        resp = requests.get(
-            f"https://app.asana.com/api/1.0/workspaces/{workspaces[0]['gid']}/tasks/search",
-            headers=headers,
-            params={
-                "text": query,
-                "opt_fields": "name,assignee.name,due_on,completed,notes,permalink_url",
-                "completed": False,
-                "limit": 10,
-            },
-            timeout=10,
-        )
-        resp.raise_for_status()
-        tasks = resp.json().get("data", [])
-        if not tasks:
-            return ""
-
-        lines = ["=== ASANA SEARCH RESULTS ==="]
-        for t in tasks[:8]:
-            assignee = t.get("assignee", {})
-            name = assignee.get("name", "Unassigned") if assignee else "Unassigned"
-            due = t.get("due_on", "no date")
-            notes_preview = (t.get("notes") or "")[:150]
-            lines.append(f"• {t['name']} | {name} | Due: {due}")
-            if notes_preview:
-                lines.append(f"  {notes_preview}")
-        return "\n".join(lines)
+        if workspaces and query:
+            resp = requests.get(
+                f"https://app.asana.com/api/1.0/workspaces/{workspaces[0]['gid']}/tasks/search",
+                headers=headers,
+                params={
+                    "text": query,
+                    "opt_fields": "name,assignee.name,due_on,completed,notes,permalink_url,projects.name",
+                    "completed": False,
+                    "limit": 10,
+                },
+                timeout=10,
+            )
+            resp.raise_for_status()
+            tasks = resp.json().get("data", [])
+            if tasks:
+                lines = ["=== ASANA KEYWORD SEARCH RESULTS ==="]
+                for t in tasks[:8]:
+                    assignee = t.get("assignee") or {}
+                    aname = assignee.get("name", "Unassigned")
+                    due = t.get("due_on") or "no date"
+                    projects = ", ".join(p.get("name", "") for p in (t.get("projects") or []))
+                    notes_preview = (t.get("notes") or "")[:150].replace("\n", " ")
+                    lines.append(f"• {t['name']} | {aname} | Due: {due} | Projects: {projects}")
+                    if notes_preview:
+                        lines.append(f"  {notes_preview}")
+                sections.append("\n".join(lines))
     except Exception:
-        return ""
+        pass
+
+    return "\n\n".join(sections)
 
 
-def _run_live_searches(plan, slack_client=None):
+def _run_live_searches(plan, slack_client=None, channel_context=None):
     """Execute the search plan across live sources. Returns combined results."""
     results = []
     query = plan.get("query", "")
-    if not query:
+    project_gid = (channel_context or {}).get("project_gid")
+
+    # If a project is identified from the channel, always pull its open tasks
+    # even if the planner didn't explicitly ask for asana.
+    sources = list(plan.get("sources", []))
+    if project_gid and "asana" not in sources:
+        sources.append("asana")
+
+    if not query and not project_gid:
         return ""
 
-    for source in plan.get("sources", []):
-        if source == "gmail":
+    for source in sources:
+        if source == "gmail" and query:
             r = _search_gmail(query)
             if r:
                 results.append(r)
-        elif source == "slack" and slack_client:
+        elif source == "slack" and slack_client and query:
             r = _search_slack(query, slack_client)
             if r:
                 results.append(r)
-        elif source == "calendar":
+        elif source == "calendar" and query:
             r = _search_calendar(query)
             if r:
                 results.append(r)
         elif source == "asana":
-            r = _search_asana(query)
+            r = _search_asana(query, project_gid=project_gid)
             if r:
                 results.append(r)
 
     return "\n\n".join(results)
 
 
-def answer_question(question, slack_client=None, channel_id=None):
+def answer_question(question, slack_client=None, channel_id=None, channel_context=None):
     """Answer a question using knowledge files, with live API search as fallback."""
-    # Resolve channel to project context
-    channel_files, project_context = _resolve_channel_project(channel_id, slack_client)
+    # Resolve channel context if not supplied by the caller
+    if channel_context is None and channel_id and slack_client:
+        try:
+            from channel_context import get_channel_context
+            channel_context = get_channel_context(slack_client, channel_id)
+        except Exception:
+            channel_context = None
+
+    channel_files = _files_from_channel_context(channel_context)
+    project_context = _project_context_blurb(channel_context)
 
     # Pull in recent knowledge channel entries (corrections, insights, feedback)
     knowledge_context = ""
@@ -682,7 +730,26 @@ def answer_question(question, slack_client=None, channel_id=None):
     if project_context:
         channel_hint = f"\n\nCHANNEL CONTEXT: {project_context}\n"
 
-    user_prompt = f"Here are the knowledge files:\n\n{context}{channel_hint}\n\n---\nQuestion: {question}"
+    # Include recent channel conversation so the bot can interpret vague
+    # references like "pushing the flight test back" or "the issue we discussed".
+    conversation_hint = ""
+    if channel_context and channel_context.get("recent_messages"):
+        try:
+            from channel_context import format_recent_messages
+            transcript = format_recent_messages(channel_context["recent_messages"])
+            if transcript:
+                cname = channel_context.get("channel_name") or channel_id
+                conversation_hint = (
+                    f"\n\nRECENT CONVERSATION in #{cname} (oldest first):\n"
+                    f"{transcript}\n"
+                )
+        except Exception:
+            pass
+
+    user_prompt = (
+        f"Here are the knowledge files:\n\n{context}"
+        f"{channel_hint}{conversation_hint}\n\n---\nQuestion: {question}"
+    )
 
     # Phrases that indicate the answer didn't actually find the info.
     no_info_phrases = ["don't have information", "not in my knowledge",
@@ -717,12 +784,17 @@ def answer_question(question, slack_client=None, channel_id=None):
 
         # If knowledge files weren't enough, search live sources
         if _unhelpful(answer):
-            plan = _plan_live_search(question, answer)
+            plan = _plan_live_search(question, answer, channel_context=channel_context)
             if plan:
-                live_results = _run_live_searches(plan, slack_client)
+                live_results = _run_live_searches(
+                    plan,
+                    slack_client=slack_client,
+                    channel_context=channel_context,
+                )
                 if live_results:
                     extended_prompt = (
-                        f"Here are the knowledge files:\n\n{context}\n\n"
+                        f"Here are the knowledge files:\n\n{context}"
+                        f"{channel_hint}{conversation_hint}\n\n"
                         f"{live_results}\n\n---\n"
                         f"Question: {question}"
                     )

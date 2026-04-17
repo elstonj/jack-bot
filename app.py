@@ -12,6 +12,13 @@ from research_cache import get_full_summary, get_user_summary, get_team_summary,
 from knowledge import store_correction, store_entry, store_feedback, store_bug, store_feature, list_items
 from knowledge_qa import answer_question
 from finances import get_project_finances
+from channel_context import get_channel_context
+from task_actions import (
+    has_pending,
+    is_task_update_intent,
+    propose_task_updates,
+    apply_task_updates,
+)
 from scheduler import start_scheduler
 
 load_dotenv()
@@ -176,6 +183,15 @@ def route_message(message, say, client, user_id, channel_id):
     """Unified routing for all natural language commands."""
     msg_lower = message.lower().strip()
 
+    # If a task-update proposal is pending for this user+channel, try to
+    # interpret the reply as a confirmation/modification/rejection. If it
+    # isn't, fall through to normal routing.
+    if has_pending(user_id, channel_id):
+        handled, response = apply_task_updates(message, user_id, channel_id, slack_client=client)
+        if handled:
+            say(response)
+            return
+
     if msg_lower in ("help", "commands", "what can you do"):
         say(
             "*Here's what I can do:*\n"
@@ -233,14 +249,36 @@ def route_message(message, say, client, user_id, channel_id):
         user_name = resolve_user_name(client, user_id)
         store_entry(client, "INSIGHT", f"From {user_name}: {message}")
         say("Got it, noted for future reference.")
+    elif is_task_update_intent(message):
+        channel_ctx = get_channel_context(client, channel_id)
+        if channel_ctx and channel_ctx.get("project_gid"):
+            say(propose_task_updates(
+                strip_qa_prefix(message), channel_ctx, user_id, channel_id
+            ))
+        else:
+            # No project resolved — fall back to Q&A so the user gets some
+            # answer instead of silence.
+            say(answer_question(
+                strip_qa_prefix(message),
+                slack_client=client,
+                channel_id=channel_id,
+                channel_context=channel_ctx,
+            ))
     elif is_question(message):
         question = strip_qa_prefix(message)
-        say(answer_question(question, slack_client=client, channel_id=channel_id))
+        channel_ctx = get_channel_context(client, channel_id)
+        say(answer_question(
+            question,
+            slack_client=client,
+            channel_id=channel_id,
+            channel_context=channel_ctx,
+        ))
     else:
         user_name = resolve_user_name(client, user_id)
-        history = fetch_history(client, channel_id)
         bot_id = get_bot_user_id(client)
-        say(get_response(message, user_name, history, bot_id))
+        channel_ctx = get_channel_context(client, channel_id)
+        history = channel_ctx["recent_messages"] if channel_ctx else fetch_history(client, channel_id)
+        say(get_response(message, user_name, history, bot_id, channel_context=channel_ctx))
 
 
 @app.event("message")

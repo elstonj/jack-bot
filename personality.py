@@ -66,12 +66,42 @@ def build_messages(history, user_message, user_name, bot_user_id):
     return final
 
 
-def get_response(user_message: str, user_name: str = "someone", history=None, bot_user_id=None) -> str:
+def _channel_addendum(channel_context):
+    """Build a short system-prompt suffix describing the channel and project."""
+    if not channel_context or channel_context.get("is_dm"):
+        return ""
+    parts = []
+    name = channel_context.get("channel_name")
+    if name:
+        parts.append(f"You are currently in the #{name} Slack channel.")
+    proj_name = channel_context.get("project_name")
+    proj_code = channel_context.get("project_code")
+    if proj_code and proj_name:
+        parts.append(
+            f"This channel is associated with BST project [{proj_code}] {proj_name}. "
+            "When the user says 'this project' or 'the project', they mean this one. "
+            "Feel free to mention the channel or project by name when it's natural."
+        )
+    elif proj_code:
+        parts.append(f"This channel is associated with BST project [{proj_code}].")
+    if not parts:
+        return ""
+    return "\n\nCONTEXT:\n" + "\n".join(parts)
+
+
+def get_response(
+    user_message: str,
+    user_name: str = "someone",
+    history=None,
+    bot_user_id=None,
+    channel_context=None,
+) -> str:
     messages = build_messages(history or [], user_message, user_name, bot_user_id)
+    system = SYSTEM_PROMPT + _channel_addendum(channel_context)
     message = client.messages.create(
         model="claude-sonnet-4-20250514",
         max_tokens=300,
-        system=SYSTEM_PROMPT,
+        system=system,
         messages=messages,
     )
     return message.content[0].text

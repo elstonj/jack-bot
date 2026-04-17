@@ -39,11 +39,36 @@ Jack Bot is an AI-powered project management assistant for Black Swift Technolog
 - Weather intent is matched on more than `startswith("weather")` — `is_weather_intent()` catches natural-language variants (e.g. "wind at the sod farm", "can we fly at BMA") and `match_sites()` filters to a specific site when one is named. Site aliases are configured in `weather.py` `SITE_ALIASES`
 - `handle_mention()` only strips the leading bot mention; embedded `@user` mentions in commands like `correct: @Joshua has time tracked` are preserved
 - Teaching moments auto-detected ("KS = Krateo Sky", "FYI...", "X stands for Y") and stored as knowledge
+- Routing order inside `route_message()` (after pending-proposal check): help → weather → tasks → company finances → finances → bug/feature/note/correct → teaching → **task-update intent** → question → personality fallback
 - Questions route to knowledge Q&A with live search fallback
 - Non-questions route to personality chat
 - Replies in #operations (daily tasks channel) stored as implicit feedback (via real-time event + pipeline-time sync fallback)
 - Explicit commands in #operations (correct:, bug:, etc.) route normally
 - Admin only: `/refresh-tasks` (in #jackbot-knowledge)
+
+### Channel Context (`channel_context.py`)
+- `get_channel_context(client, channel_id)` is the unified entry point every bot-addressed message runs through
+- Returns `{channel_name, topic, purpose, project_code, project_gid, project_name, project_summary, project_file, financial_file, recent_messages, is_dm}`
+- 5-min TTL in-memory cache per channel (name + project metadata); `recent_messages` is refreshed on every call since conversations move fast
+- DMs (channel_id starting with `D`) skip the `conversations_info` call — no channel name, no project, but recent messages still fetched
+- Project resolution order: explicit `channel_projects.md` mapping → regex project code in channel name/topic/purpose → fuzzy channel-name match against `knowledge/projects/*.md` headers
+- `project_gid` is extracted by parsing the Asana URL (`app.asana.com/.../project/<gid>`) out of the project registry file — powers the live Asana task fetch in Q&A and the task-update agent
+- Channel name + project info is injected into personality prompts (skipped for DMs) and the Q&A prompt, along with ~10 recent messages — so "pushing the flight test back" in `#usgs-volcano` resolves to project 350_4 with context
+- Q&A live search force-adds `asana` to the plan whenever a project is identified and calls `asana_client.get_tasks_for_project(project_gid)` directly (not just workspace text search)
+
+### Task-Update Agent (`task_actions.py`)
+- Conversational propose-and-confirm flow for modifying Asana tasks from a project channel — never writes without explicit user confirmation
+- Intent matched by `is_task_update_intent()` (regex over "update tasks", "shift/push/move due", "reschedule", "mark complete", "reassign", "assign X to", etc.)
+- Supported fields: `due_on`, `due_at`, `assignee`, `completed`
+- Flow:
+  1. `propose_task_updates()` fetches the project's open tasks, feeds them + the question + ~10 recent channel messages to Claude Sonnet, which returns structured JSON with either `clarifying_questions` or `proposed_changes`
+  2. Proposals stashed in `PENDING` dict keyed by `(user_id, channel_id)` with a 10-min TTL; numbered list posted to Slack
+  3. `apply_task_updates()` parses the user's next reply via Claude Haiku into `accept_all` / `accept_subset` / `reject` / `modify` / `unrelated`. `unrelated` falls through to normal routing
+  4. On accept, calls `asana_client.update_task(gid, updates)`; on modify, re-runs the propose call with the modification instruction; on reject, clears pending
+- Assignee names → Asana gids resolved via `user_map.get_all_users()` (exact then token-subset match)
+- Every successful write is logged as a `[FEEDBACK]` entry in the knowledge channel for audit trail
+- State is in-memory — lost on Railway restart (acceptable; proposals are short-lived)
+- Safety gate: no task-update flow without a project resolved from the channel
 
 ### Financial System (`finances.py`)
 - `finances` in a project channel looks up financial data via:
@@ -65,6 +90,7 @@ Jack Bot is an AI-powered project management assistant for Black Swift Technolog
 ### Personality (`personality.py`)
 - "Jack Bot" - bitter old-school Unix programmer persona
 - Used for non-question, non-command conversational messages
+- Accepts a `channel_context` kwarg; when present and not a DM, appends a CONTEXT block to the system prompt so Jack can reference the channel and resolved project naturally ("#usgs-volcano... project [350_4] 2024 USGS - Chile (Mexico)")
 
 ### Bug & Feature Tracking (`knowledge.py`)
 - `[BUG]` and `[FEATURE]` knowledge entry types stored in Slack knowledge channel
