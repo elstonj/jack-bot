@@ -189,6 +189,32 @@ def format_task_summary(tasks):
     return message.content[0].text
 
 
+ALLOWED_UPDATE_FIELDS = {"due_on", "due_at", "assignee", "completed", "name", "notes"}
+
+
+def update_task(task_gid, updates):
+    """Update fields on an Asana task.
+
+    `updates` is a dict of Asana API field names → values. Only fields in
+    ALLOWED_UPDATE_FIELDS are sent. Returns (ok: bool, error: str|None).
+    """
+    payload = {k: v for k, v in updates.items() if k in ALLOWED_UPDATE_FIELDS}
+    if not payload:
+        return False, "no updatable fields"
+    try:
+        resp = requests.put(
+            f"{ASANA_BASE}/tasks/{task_gid}",
+            headers=_headers(),
+            json={"data": payload},
+            timeout=10,
+        )
+        if resp.status_code >= 400:
+            return False, f"HTTP {resp.status_code}: {resp.text[:300]}"
+        return True, None
+    except Exception as e:
+        return False, str(e)
+
+
 def get_daily_summary():
     """Generate the full daily task summary."""
     workspaces = get_workspaces()
