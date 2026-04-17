@@ -6,6 +6,7 @@ from slack_sdk import WebClient
 from daily_research import run_daily_pipeline
 from research_cache import get_team_summary, get_per_user_sections
 from snow_day import check_and_post as check_snow_day
+from snow_day import check_and_post_eod as check_snow_day_eod
 
 
 def post_daily_tasks():
@@ -48,6 +49,19 @@ def tick_snow_day():
             pass
 
 
+def tick_snow_day_eod():
+    """EOD shutdown notice if snow fell any time today."""
+    client = WebClient(token=os.environ["SLACK_BOT_TOKEN"])
+    try:
+        check_snow_day_eod(client)
+    except Exception:
+        from knowledge import store_entry
+        try:
+            store_entry(client, "ERROR", "snow_day EOD check failed")
+        except Exception:
+            pass
+
+
 def start_scheduler():
     """Start the background scheduler for cron jobs."""
     scheduler = BackgroundScheduler(timezone="America/Denver")
@@ -67,9 +81,18 @@ def start_scheduler():
         tick_snow_day,
         "cron",
         day_of_week="mon-fri",
-        hour="10-17",
+        hour="9-17",
         minute=0,
         misfire_grace_time=900,  # 15 min: still relevant within the hour
+    )
+    # EOD shutdown notice: 3:30 PM MT Mon-Fri if snow fell today.
+    scheduler.add_job(
+        tick_snow_day_eod,
+        "cron",
+        day_of_week="mon-fri",
+        hour=15,
+        minute=30,
+        misfire_grace_time=1800,  # 30 min
     )
     scheduler.start()
     return scheduler
