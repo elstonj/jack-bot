@@ -8,7 +8,7 @@ set -euo pipefail
 
 PROJECT_DIR="/home/elstonj/Documents/jack_bot"
 LOG_FILE="$PROJECT_DIR/scripts/nightly_scan.log"
-VENV="$PROJECT_DIR/.venv"
+VENV="$PROJECT_DIR/venv"
 
 cd "$PROJECT_DIR"
 
