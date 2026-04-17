@@ -684,6 +684,28 @@ def answer_question(question, slack_client=None, channel_id=None):
 
     user_prompt = f"Here are the knowledge files:\n\n{context}{channel_hint}\n\n---\nQuestion: {question}"
 
+    # Phrases that indicate the answer didn't actually find the info.
+    no_info_phrases = ["don't have information", "not in my knowledge",
+                       "don't have details", "no information about",
+                       "don't have specific", "not available in"]
+
+    def _unhelpful(text):
+        tl = (text or "").lower()
+        return any(phrase in tl for phrase in no_info_phrases)
+
+    def _personality_fallback():
+        """Knowledge + live search came up empty — let Jack Bot answer in-character.
+
+        Routes questions unrelated to BST data (conversational, banter, the
+        tail of the snow-day message, etc.) to the persona instead of
+        returning the boilerplate "no info" sentence.
+        """
+        try:
+            from personality import get_response
+            return get_response(question)
+        except Exception:
+            return None
+
     try:
         response = client.messages.create(
             model="claude-sonnet-4-20250514",
@@ -694,10 +716,7 @@ def answer_question(question, slack_client=None, channel_id=None):
         answer = response.content[0].text
 
         # If knowledge files weren't enough, search live sources
-        no_info_phrases = ["don't have information", "not in my knowledge",
-                           "don't have details", "no information about",
-                           "don't have specific", "not available in"]
-        if any(phrase in answer.lower() for phrase in no_info_phrases):
+        if _unhelpful(answer):
             plan = _plan_live_search(question, answer)
             if plan:
                 live_results = _run_live_searches(plan, slack_client)
@@ -717,7 +736,14 @@ def answer_question(question, slack_client=None, channel_id=None):
                         ),
                         messages=[{"role": "user", "content": extended_prompt}],
                     )
-                    return response2.content[0].text
+                    answer2 = response2.content[0].text
+                    if not _unhelpful(answer2):
+                        return answer2
+
+            # Knowledge + live search both empty: let the persona take it.
+            fallback = _personality_fallback()
+            if fallback:
+                return fallback
 
         return answer
     except Exception as e:
