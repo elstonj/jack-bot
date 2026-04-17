@@ -26,7 +26,7 @@
   - **Alex Lomis:** 28+ completed tasks (primary technical lead) - hardware design, component mounts, aircraft integration, UMEX hardware integration, flight test coordination, milestone completion
   - **Jack Elston:** 4+ completed tasks - autopilot integration, simulation setup, UMEX hardware bench testing
   - **Josh Fromm:** 1 completed task - S0 AD specifications
-  - **Meredith O'hara Needham:** 2+ tasks - administrative (deliverable clarification, final invoice pending)
+  - **Meredith O'hara Needham:** 2+ tasks - administrative (deliverable clarification; final invoice sent ~Apr 7, 2026)
   - **Beck Cotter:** 1 completed task - launch meeting coordination
   - **Unassigned:** 2 open Asana milestones (Final Report placeholder — owned by UMEX, not BST)
 - **Notable Patterns:** Milestone-driven structure with formal reporting requirements; hardware-heavy integration work completed by Alex Lomis; extensive custom component design and manufacturing; training/travel required for pilot operations (Nate Straus, June 23-26)

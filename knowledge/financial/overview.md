@@ -58,7 +58,7 @@
 | **026-04** (Murphy's Pond) | Commercial | $X | $X | 3rd flight option: +$31K available | $X | 🟡 Ongoing field work |
 | **031-1** (UMES S3 VTOL) | PO/Commercial | $81,306 | $X | TBD | $X | 🟡 Delivery May 2026 |
 | **032-1** (ND S0 Air-Deployed) | PO/Commercial | $X | $X | Archived/complete | $0 | 🟢 Completed 10/2025 |
-| **035-1** (ADONIS Unmanned Experts) | Engineering services | FA8649-24P-0981-A | $X | Final report pending | $X | 🟡 90% complete; invoice pending |
+| **035-1** (ADONIS Unmanned Experts) | Engineering services | FA8649-24P-0981-A | $X | Final Report owned by UMEX (not BST); final invoice sent ~Apr 7, 2026 | $X | 🟢 Completed on BST side |
 | **039-1** (Oklahoma State S2 Refurb) | PO/Equipment | $X | $X | Completed 08/2025 | $0 | 🟢 Completed |
 | **042-1** (Stanford S2 Components) | Commercial | TBD | $X | Completed 06/2025 | $X | 🟢 Completed |
 | **043-1** (ByLight IT Services) | Task order | TBD (standing) | $X | Ongoing | $X | 🟡 Archived; no active tasks |
