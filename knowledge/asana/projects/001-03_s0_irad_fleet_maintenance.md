@@ -3,95 +3,72 @@
 ## Overview
 - **Client/Customer**: Internal BST research and development
 - **Dollar Value**: No specific dollar amounts identified, but includes 2026 funding scope items
-- **Timeline**: Long-term project with 2026 funding items; two near-term deadlines (Jan 2-9, 2026); heavy focus on 2026 season readiness
-- **Status**: Active - extensive development backlog with 168 open tasks vs 3 completed (1.8% completion rate). Marked "Low" priority despite substantial scope.
-- **Team Members**: Josh Fromm (project owner/lead), Jack Elston (avionics/firmware), Nate Straus (airframe/AD), 165 unassigned tasks
+- **Timeline**: Long-term project with 2026 funding items; heavy focus on 2026 season readiness
+- **Status**: Active - 9 open tasks, 0 completed. Marked "Low" priority despite substantial scope. (Note: Previous knowledge base showed 168 open tasks; this appears to be a filtered or sub-section view)
+- **Team Members**: Josh Fromm (project owner/lead), Jack Elston (avionics/firmware/power control), Nate Straus (airframe/AD), 7 unassigned tasks
 - **Risk Signals**:
-  - Massive backlog with minimal completion traction
-  - 165 unassigned tasks with no due dates
-  - Critical issue: "PSNS not reliably entering low power mode" marked as "Required" minimum viable
-  - Two imminent deadlines (Jan 2-9, 2026) with single assignees
-  - Heavy dependency on unassigned work for 2026 deployment readiness
+  - All 9 open tasks lack due dates
+  - Heavy concentration on Jack Elston (3 assigned power/comms tasks) with no timeline
+  - Two critical PSNS power control hardware tasks unassigned
+  - Comms issue (2026-04-09) indicates recent operational problem requiring investigation
 
 ## Key Deliverables & Milestones
-- **Follow up with Molicel on M65A cell samples/production** (Josh Fromm, Due: 2026-01-02) — Battery engineering for extended endurance
-- **Construct BST owned S0 AD for 2025 season** (Nate Straus, Due: 2026-01-09) — Airworthiness documentation
-- **2026 Funding Scope Suite** — Major system upgrades across all subsystems (sensors, power, comms, flight control, airframe)
+Current task view shows no explicit milestones; see full project knowledge base for 2026 Funding Scope and near-term deadlines (Jan 2-9, 2026).
 
 ## Task Summary
-- **Total Tasks**: 168 open, 3 completed (1.8% completion rate)
+- **Total Tasks**: 9 open, 0 completed
 - **Tasks by Assignee**:
-  - Unassigned: 165 tasks (98.2%)
-  - Josh Fromm: 2 tasks (Molicel follow-up, project ownership)
-  - Jack Elston: 1 task (RH calculation implementation)
-  - Nate Straus: 1 task (S0 airworthiness document)
-- **Task Distribution by Subject** (all open tasks):
-  - **Power Systems** (20+ tasks): Battery engineering, PSNS low-power mode, charging, ESC integration, BMS design, UN38.3 testing
-  - **Sensors** (25+ tasks): Dual GPS, magnetometer upgrades, radar optimization, IR SST relocation, GNSS passthrough, wind calculations, NDAA compliance
-  - **Flight Control** (15+ tasks): Pressure/radar altitude modes, wind thresholds, dithering, station-keep, glide path recalculation, new mission types
-  - **Communications** (10+ tasks): Data buffering, low-power radio mode, NetCDF file generation, comms pauses/buffer fixes
-  - **Data Handling** (10+ tasks): 10Hz met data, automated file creation, data dissemination, rsync server, compression
-  - **Airframe/Mechanical** (15+ tasks): Wing tunnel testing, elevator control horn, tail boom redesign, antenna improvements, conformal coating
-  - **Documentation** (5+ tasks): Training materials, construction documents, QC marks specification, inspection procedures
-  - **GCS/UI** (10+ tasks): Mobile GCS lockup, tablet display improvements, heading display, weather radar overlay
-  - **Avionics & Autopilot** (8+ tasks): Firmware updates over USB, mag cal logging, servo feedback issue, parameter loading consistency
-  - **Tube/Deployment** (10+ tasks): Integrated power switch, parachute module, shrinkage, rotary latch modifications
-  - **Other Subsystems**: HDOB improvements, checklist automation, radar alt consistency, IAS detection, sim comms
-- **Fix vs Feature Split**: Roughly 40% malfunction fixes, 60% new features/improvements (mostly 2026 funding scope)
+  - Jack Elston: 3 tasks (LCD status display, channel switching, power-off logic)
+  - Unassigned: 6 tasks (GCS sys_init bug, waypoint ETA, comms slowness, PSNS power control hardware)
+- **Task Focus** (current open set):
+  - **Power Control** (3 tasks): LCD status display, power-off logic, PSNS external pull-down, PSNS PWR_BUTTON routing — Jack Elston driving power architecture refinement
+  - **Communications** (2 tasks): Channel switching capability, slow comms on 2026-04-09 — operational issue flagged
+  - **Flight Control/GCS** (2 tasks): Rapid sys_init cycling bug, waypoint ETA display
+  - **Unassigned Hardware** (2 tasks): PSNS pull-down resistor, MCU GPIO routing — appear to be schematic/board-level design work blocking integration
 
 ## Recent Activity
-- **Recently Completed** (late 2025):
-  - Conformal coating fix on antenna PCB connector (Jack Elston, completed 2026-03-18) — flagged as date anomaly; likely data entry error
-  - Anduril Tasks (completed 2025-12-15)
-  - ALTIUS MHTP improvements (completed 2025-12-15)
-- **Approaching Deadlines**:
-  - Molicel cell follow-up (2026-01-02) — assigned to Josh Fromm
-  - S0 AD construction (2026-01-09) — assigned to Nate Straus
+- **Recent Issue**: Slow comms event logged for 2026-04-09 — suggests recent field operation or testing; root cause unknown
+- **Active Work**: Jack Elston focused on power management and ground station LCD interface
+- **Pending**: PSNS power control hardware tasks waiting for assignment/scheduling
 
 ## Notes & Context
 
-### Project Scope & Objectives
-This is a comprehensive internal R&D project optimizing the S0 (subscale uncrewed aircraft system) for 2026 hurricane research operations. The "IRAD" designation indicates Internal Research & Advanced Development. Project notes emphasize "streamlining operations and ensuring compliance with standard operating procedures."
+### Current Focus vs. Historical Backlog
+This 9-task view appears to be a **filtered or recently-prioritized subset** of the larger 168-task backlog documented in the full project knowledge base. These tasks represent near-term/active implementation work in:
+- **Power Management**: PSNS hardware refinement (pull-down, MCU GPIO routing)
+- **Ground Station UX**: LCD status display, channel switching, power logic
+- **Operations**: Comms diagnostics, GCS reliability
 
-### Critical Issues (Minimum Viable = "Required")
-- **PSNS not reliably entering low power mode** — Blocking power management strategy; essential for extended endurance missions
+### Critical PSNS Tasks (Unassigned)
+Two hardware design tasks are blocking PSNS integration:
+- **External pull-down (10K-47K) on PWR_KILLn** — May relate to power sequencing/brownout protection
+- **Route !PWR_BUTTON to spare MCU GPIO** — GPIO availability/allocation needed for button debouncing or status monitoring
 
-### Major 2026 Funding Initiatives
-1. **Power & Endurance**: Battery cell upgrade (Amprius/Molicel M65A), ESC integration onto PSNS board, regenerative charging, improved low-power modes, UN38.3 compliance
-2. **Sensors**: Dual GPS for heading, magnetometer improvements, radar rain optimization, GNSS passthrough, IR SST relocation to PSNS, Skyfora PTH integration alongside Vaisala
-3. **Flight Operations**: Pressure altitude mode, radar altitude mode, wind threshold management, new mission types (position hold, asset overflight), glide path recalculation
-4. **Data & Communications**: 10Hz meteorological data, automated NetCDF generation, data dissemination pipeline (rsync/compression), CARCAH status messaging via IRC
-5. **Autonomy & UX**: Firmware/comms/UI improvements for intuitive scientist operation, training materials, automated checklists
-6. **Airframe**: Wing tunnel testing, control horn modifications, tail boom redesign, improved waterproofing, antenna durability
+These are **schematic/board-level** decisions requiring engineer review before layout/manufacturing.
 
-### Compliance & Standards
-- **NDAA Component Origin**: Requirement to check all components and replace non-compliant items
-- **UN38.3 Battery Testing**: Required for international shipping
-- **Documentation**: Construction documents, inspection QC marks, GCS QC process
+### Jack Elston's Power/Comms Workload
+Three interrelated tasks suggest Jack is building out PSNS power state monitoring and ground station radio interface:
+- LCD display (power state, radio channel, connection status, rsync status)
+- Channel switching (radio frequency agility)
+- Power-off logic (graceful shutdown sequencing)
 
-### Operational Context — Hurricane Research
-System is optimized for Center of Circulation (COC) operations with specialized requirements:
-- Wind measurement during storm center penetration
-- High-altitude profiles (pressure/radar altitude modes)
-- Extended endurance for multi-profile missions
-- Robust communications in extreme weather
-- Data quality assurance for meteorological research (NHOP/AOC standards)
+**No due dates** — consider prioritization against full project timeline.
 
-### Technical Challenges Identified
-- **Power Management**: Charging edge cases (max charge state), sleep mode stability, quiescent current, low-voltage charging
-- **Communications**: Radio interference (430 MHz with GPS/RS421), comms pauses, buffer overflow, need for low-power radio mode inside P-3
-- **Sensor Integration**: Port clogs (MHP), bad dynamic port detection (5 affected), GPS velocity detection, magnetometer calibration logging
-- **Flight Control**: IAS detection overshoots, wind estimation robustness, engine-out recovery, glide path optimization
-- **GCS/UI**: Lockup issues (mobile GCS, gcsDaemon), slow power telemetry updates, display bugs (TAS missing, heading missing)
-- **Mechanical**: Wing pivot damping, tail boom warping, antenna moisture ingress, servo feedback-induced power-on
+### Comms Slowness (2026-04-09)
+Single task flagged for "Slow comms" on specific date. Likely field observation during testing/operations. Needs:
+- Environmental context (flight conditions, P-3 position, antenna configuration)
+- Frequency/channel in use
+- Data throughput comparison to baseline
 
-### Integration Points
-- **Deployment Tube**: Shares power domain with S0; CAN communications (firmware update path); requires coordinated power sequencing
-- **P-3 Integration**: AVAPS interference avoidance, pressurization checklist, radio power management inside airframe
-- **Ground Station**: Rack-mount system at BST, mobile tablet option, requires robustness for field operations
-- **External Partners**: Molicel (battery cells), ERAU (wind tunnel), Skyfora (sensor integration)
+### GCS Stability Issues
+- **Rapid power cycling**: sys_init fix causing lockup when toggled in/out of flight mode — may need state machine review
+- **Waypoint ETA**: Feature gap (no timeline pressure yet)
 
-### Custom Fields Usage
-- **Funding Scope**: "2026" marks items in 2026 budget allocation
-- **Fix or Feature**: Distinguishes malfunction fixes from enhancements
-- **Minimum
+---
+
+**Integration with Full Project Knowledge Base**: Refer to [001-03] complete documentation for:
+- 2026 Funding Scope detail (power, sensors, flight control, comms, airframe)
+- 168-task backlog prioritization
+- Hurricane research operational context (COC operations, NHOP/AOC standards)
+- Compliance requirements (NDAA, UN38.3, documentation)
+- External partnerships (Molicel, ERAU, Skyfora)

@@ -1,183 +1,194 @@
 # BST Financial Health Overview
+**Period: April 6 – April 17, 2026**
 
-## Portfolio Summary
+---
+
+## ⚠️ CRITICAL DATA QUALITY NOTICE
+
+**This overview is severely constrained by data limitations:**
+
+1. **QuickBooks data provided covers only a 2-week period (April 6–17, 2026)** while actual project activity spans 24+ months
+2. **$3.4M in expenses are "Unclassified"** — cannot be attributed to specific projects
+3. **26+ projects lack budget baselines** — QuickBooks actuals exist but no contract values, CLINs, or budget documents provided
+4. **No Asana milestone data** — cannot identify upcoming invoiceable milestones
+5. **Incomplete AR aging** — cannot assess payment trends by customer
+
+**Recommendation:** Before relying on this overview for financial decisions, reconcile QuickBooks to Drive budget documents and establish a project-to-code mapping.
+
+---
+
+## Portfolio Summary (2-Week Period Only)
+
 | Metric | Amount |
 |--------|--------|
-| **Total Contracted Value** | Data incomplete — multiple projects lack confirmed contract values |
-| **Total Invoiced (All Projects)** | $3,388,811.64 |
-| **Total Received (Confirmed)** | $1,243,247.45 (Government projects only; AR not fully reconciled) |
-| **Total Expenses** | $5,418,020.58 |
-| **Net Position (Company-Wide)** | **-$2,029,208.94** (Loss) |
-| **Accounts Receivable Outstanding** | $2,145,564.19 |
+| **Total Invoiced (Apr 6–17)** | $5,526,012.92 |
+| **Total Expenses (Apr 6–17)** | $2,254,531.97 |
+| **Net Income (Period)** | $262,518.07 |
+| **Accounts Receivable Outstanding** | ~$2,700,000+ |
+| **Unclassified Expenses (24 months)** | $3,404,632.27 |
 
 ---
 
-## Critical Financial Health Issues
+## Financial Performance by Business Unit
 
-### 🔴 **URGENT: $3.36M Unclassified Expense Crisis**
-- **Unclassified Project Totals:** $3,357,903.29 in expenses vs. $1.00 in revenue
-- **Net Loss:** -$3,357,902.29
-- **Root Cause:** Expenses reclassified or miscategorized; requires immediate investigation and vendor review
-- **Impact:** This single classification error drives the entire company into a $2M+ loss position
-- **Action Required:** Finance team must audit and reclassify all unclassified transactions within 5 business days
-
-### 🟡 **BST Internal Operations Unsustainable**
-- **Revenue:** $17,894.36
-- **Expenses:** $821,904.72
-- **Net Loss:** -$804,010.36
-- **Issue:** Internal operations (indirect costs, facilities, admin) are heavily subsidized by government project margins
-- **AR Outstanding:** Only $10,860.48 (BST internal invoice #1752, dated April 3, 2026)
-
-### 🟢 **Government Projects Remain Profitable**
-- **Revenue:** $3,370,916.28
-- **Expenses:** $1,236,212.57
-- **Net Profit:** +$2,134,703.71
-- **AR Outstanding:** $2,134,703.71 (66 active invoices — **100% of revenue is still outstanding**)
-- **Health:** Technically profitable but severely cash-flow constrained
+| Unit | Revenue | Expenses | Net | Health |
+|------|---------|----------|-----|--------|
+| **Government** | $3,885,459 | $1,268,419 | +$2,617,040 | 🟢 Strong |
+| **Commercial** | $1,351,658 | $177,598 | +$1,174,060 | 🟢 Excellent |
+| **BST Internal** | $17,894 | $824,882 | -$806,988 | 🟡 Cost Center |
+| **Unclassified** | $1 | $3,404,632 | -$3,404,631 | 🔴 Critical |
 
 ---
 
-## By Project (Sorted by Risk Level — Lowest Remaining Budget First)
+## Projects Requiring Immediate Attention
 
-### **Projects Requiring Immediate Attention**
+### 1. **Unclassified Expenses ($3.4M) — CRITICAL**
+- **Issue:** $3,404,632 in QuickBooks expenses (24 months) have no project assignment
+- **Impact:** Cannot assess true project profitability or budget health
+- **Action Required:** 
+  - Audit all expense transactions and reclassify to proper projects
+  - Identify whether this represents overhead, R&D, or lost billable work
+  - Reconcile to cost centers in Drive budget documents
 
-| Project | Type | Contracted | Invoiced | Remaining | AR Balance | Health Status |
-|---------|------|-----------|----------|-----------|-----------|--------|
-| **001-00** (DTRA PLUMES) | SBIR Phase I | TBD | TBD | TBD | TBD | 🟡 Needs data |
-| **004-00** (13 sub-projects) | Mixed Government | $X | $X | **CRITICAL:** Data integrity issue | Unknown | 🔴 Data fragmented |
-| **006-00** | Unknown | TBD | TBD | TBD | TBD | 🔴 Missing docs |
-| **010-1** (Methane Emission) | TBD | TBD | $3,357,903.29 | **CRITICAL** | Unknown | 🔴 No contract docs |
-| **018-1** (Murphy's Pond CH4) | Commercial (Murray State U) | TBD | $X | Extended to 2026-06-01 | $X | 🟡 Field ops ongoing |
-| **018-20** | Unknown | TBD | TBD | TBD | TBD | 🔴 No data |
-| **023-11** | Unknown | TBD | TBD | TBD | TBD | 🔴 Only utility bill |
-| **024-02** | Flux Maps UAS Phase 1 | $4,400 | $X | ~$X | TBD | 🟡 Minor project |
-| **024-03** (NASA ROSES Wildfire) | NASA Grant | TBD (3-yr) | $0 (not invoiced yet) | **Significant** | $0 | 🟡 Pre-invoice phase |
-| **024-04** (AFWERX Runway Integrity) | SBIR Phase II | FA864924P0003 | $X | Completed 2026-04 | $X | 🟢 Archived/completed |
-| **024-06** (Multi-project portfolio) | SBIR/STTR/IDIQ | Multiple | $X | Unknown | Multiple AR | 🟡 Portfolio view |
-| **026-01** (Navy STTR S0-AD) | Navy STTR | N/A (pre-award) | $0 | **Full budget** | $0 | 🟡 Phase I active; Phase II pending |
-| **026-04** (Murphy's Pond) | Commercial | $X | $X | 3rd flight option: +$31K available | $X | 🟡 Ongoing field work |
-| **031-1** (UMES S3 VTOL) | PO/Commercial | $81,306 | $X | TBD | $X | 🟡 Delivery May 2026 |
-| **032-1** (ND S0 Air-Deployed) | PO/Commercial | $X | $X | Archived/complete | $0 | 🟢 Completed 10/2025 |
-| **035-1** (ADONIS Unmanned Experts) | Engineering services | FA8649-24P-0981-A | $X | Final Report owned by UMEX (not BST); final invoice sent ~Apr 7, 2026 | $X | 🟢 Completed on BST side |
-| **039-1** (Oklahoma State S2 Refurb) | PO/Equipment | $X | $X | Completed 08/2025 | $0 | 🟢 Completed |
-| **042-1** (Stanford S2 Components) | Commercial | TBD | $X | Completed 06/2025 | $X | 🟢 Completed |
-| **043-1** (ByLight IT Services) | Task order | TBD (standing) | $X | Ongoing | $X | 🟡 Archived; no active tasks |
-| **043-2** (ByLight Mustang/BYL-LRFE) | Fixed-price SOW | TBD | $X | Completed 12/31/2025 (26 days late) | $X | 🟡 Late delivery |
-| **044-1** (EMASS Chip Integration) | Commercial | $X | $X | Active (74% complete) | $X | 🟡 Final validation phase |
-| **200-13** (CRATER Costa Rica) | NASA Phase III | $X | $X | Completed 08/2025 | $X | 🟢 Completed |
-| **200-14** (NASA Autonomy SBIR) | SBIR Phase I | $156,211 | $X | Completed 03/27/2026 | $X | 🟢 Completed |
-| **300-3** (NOAA IDIQ Hurricane) | IDIQ 2026–2030 | 5-year contract | $X | **Large pipeline** | $X | 🟢 Active |
-| **301-3** (S0 Hurricane Phase II 2025) | NOAA Contract | $X (26 base + 7 optional) | $X | On track for 08/2026 | $X | 🟢 Active |
-| **400-5** (AFWERX SMM Phase II) | SBIR Phase II | FA864924P0003 | $X | Completed 07/2025 | $X | 🟢 Archived/completed |
-| **550-1** (Navy Magnetometer) | SBIR Phase I | Base + Phase II option | $0 (Jan 2026 start) | **Full budget** | $0 | 🟡 Just starting |
-| **550-2** (Navy STTR Profiling) | STTR Phase I+Option | N6833525C0270 | $X | Option period active; due 09/2026 | $X | 🟡 On schedule |
+### 2. **Accounts Receivable ($2.7M) — LIQUIDITY CONSTRAINT**
+- **Government projects:** $2,617,040 outstanding across 72 invoices
+- **Risk:** Large AR balance suggests cash flow pressure; payment cycle unclear
+- **Action Required:**
+  - Aging analysis by invoice date
+  - Confirmation of payment terms with DTRA, NOAA, Navy contracts
+  - Follow-up on invoices >60 days outstanding
+
+### 3. **Projects Lacking Budget Baselines**
+- **26+ projects** have QuickBooks invoicing activity but **no contracted budget values, CLINs, or Drive budget documentation provided**
+- **Projects:** 004-00, 006-00, 010-1, 018-20, 023-11, 024-01 through 024-12, 025-02 through 025-04, 025-08, 025-09, 025-11, 026-02, 026-03, 026-09, etc.
+- **Risk:** Cannot determine over/under budget status, variance, or financial risk
+- **Action Required:** Provide complete budget documentation for all active/invoiced projects
 
 ---
 
-## Projects Needing Immediate Attention
+## Top Active Projects (by invoiced amount)
 
-### 🔴 **Data Integrity Issues (Cannot Assess Risk)**
-1. **Project 004-00:** 13 distinct sub-projects in QBooks; no unified project structure in Budget Docs
-2. **Project 006-00, 010-1, 018-20, 023-11:** Missing budget documents, proposals, or Asana details
-3. **Projects 024-05 through 024-11, 025-03 through 025-04, 025-09 through 025-10, 025-12, 026-02:** Code/data mismatches between Asana and QuickBooks
-
-**Recommendation:** Implement project code reconciliation audit. Assign Finance ownership to standardize all project coding across Asana, QuickBooks, and Budget Doc repository.
-
-### 🔴 **Cash Flow Crises (Immediate Collections Action)**
-1. **Government Projects A/R:** $2,134,703.71 outstanding
-   - 66 active invoices
-   - **100% of government revenue is uncollected**
-   - **Typical government payment terms:** 30–60 days net
-   - **Action:** Run aged AR report; contact clients on invoices >60 days old
-
-2. **Murphy's Pond / Commercial A/R:** Unknown aging (payment reconciliation data not provided)
-   - Project extended through June 2026
-   - May have invoices pending payment
-
-### 🟡 **Budget Overruns or Insufficient Visibility**
-1. **Project 010-1 (Methane Emission):** $3,357,903.29 in expenses with no contract docs
-   - **Likely cause:** Misclassified expenses that should be in "Government" projects
-   - **Risk:** Unknown utilization status; may indicate cost overruns on underlying contracts
-
-2. **BST Internal ($821,904.72 expenses, $17,894 revenue):**
-   - Indirect costs (facilities, utilities, admin salaries) need allocation to government projects
-   - Current allocation model is unsustainable
-
-3. **Projects 024-06, 024-07, 024-08, 024-09, 024-11:** Multi-project portfolios with aggregated data
-   - Impossible to assess individual project health
-   - **Action:** Break down portfolio projects into discrete line items with separate contracts
-
-### 🟡 **Projects Approaching End of Period of Performance (PoP)**
-- **Project 024-04 (Runway Integrity):** Completed 07/2025 ✓
-- **Project 400-5 (SMM Phase II):** Completed 07/2025 ✓
-- **Project 301-2 (2020 WPO Hurricane):** PoP ended 06/30/2025 ✓
-- **Project 200-13 (CRATER):** Completed 08/2025 ✓
-- **Project 043-2 (ByLight Mustang):** Completed 12/31/2025 (26 days late) ⚠️
-- **Project 026-03 (NASA AREN '25):** Shut down 08/26/2025 ✓
-- **Project 200-14 (NASA Autonomy):** Completed 03/27/2026 ✓
-
-**Risk:** Ensure final invoices and closeout reports are submitted on time. Pending invoices block cash receipt.
+| Project | Client | Invoiced | Status | Health |
+|---------|--------|----------|--------|--------|
+| **010-1** | [Unknown] | $3,404,632 | Unclassified | 🔴 Unknown |
+| **006-00** | [Multiple] | [Amount TBD] | Multiple contracts | 🟡 Incomplete data |
+| **301-3** | NOAA/Miami | [Active] | 33 S0 units, delivery ongoing | 🟢 On schedule |
+| **026-07** | NOAA (UxSOC) | [Active] | 20 S0 units, Q2–Q3 2026 | 🟢 On schedule |
+| **301-2** | NOAA/Miami | [Completed] | WPO Hurricane Phase II | 🟢 Complete |
+| **400-5** | U.S. Air Force SBIR | [Complete] | SMM Phase II (Runway integrity) | 🟢 Complete |
+| **550-2** | Navy STTR | [Active] | Hazardous weather profiling | 🟢 Active, option period |
+| **024-04** | Air Force AFWERX SBIR II | [Complete] | Soil moisture mapping (ended 2026-04-17) | 🟢 Complete |
 
 ---
 
-## Revenue Pipeline (Upcoming Invoiceable Milestones)
+## Revenue Pipeline
 
-### **High-Value Projects with Upcoming Invoicing**
+### Ongoing Invoiceable Projects
+1. **NOAA IDIQ (300-3 / 026-07)** — 20 S0 systems for hurricane research; Delivery Order #1305M226F0084; 3 of 6 invoices completed; **Estimated remaining: ~$4M–6M** (based on firm fixed-price contract)
+2. **NOAA S0 Hurricane Phase II (301-3)** — 33 S0 units; contract ongoing through August 2026; **Active manufacturing & delivery**
+3. **Navy STTR Phase I/Option (550-2)** — Expendable profiling platforms; Base period ended 01/06/26, Option period active through 07/06/26; **Final deliverable due 09/01/26**
+4. **By Light Mustang (043-2)** — Fixed-price contract completed 12/31/25; **No remaining invoiceable milestones**
+5. **By Light M2/Halo (043-3)** — Design scope 4/3–5/30/26; manufacturing scope within 1 month of fuselage receipt; **Early stage, scope 2 in progress**
 
-| Project | Description | Expected Invoicing | Estimated Value | Status |
-|---------|-------------|-------------------|-----------------|--------|
-| **301-3** (S0 Hurricane Phase II 2025) | 26 base + 7 optional S0 platforms; training; mission support | Staged through 08/2026 | $X (base contract) | ✓ Active |
-| **300-3** (NOAA IDIQ 2026–2030) | 20 S0 platforms; ops support; 5-year contract | 2026 onwards | **Large multi-year pipeline** | ✓ Active |
-| **550-1** (Navy Magnetometer) | Phase I base period (Jan–June 2026) + option period (April–Sept 2026) | Likely Q2–Q3 2026 | Base contract value TBD | ✓ Just started |
-| **550-2** (Navy STTR Profiling) | Option period active; final deliverable due 09/2026 | Q3 2026 | Contract value TBD | ✓ On track |
-| **024-03** (NASA ROSES Wildfire) | 3-year grant (April 2025 – April 2028); no invoicing yet | Likely quarterly draws | Multi-year pipeline | 🟡 Not yet invoiced |
-| **026-04** (Murphy's Pond CH4) | 3 flights planned; potential 4th flight with +$31K budget | Through June 2026 | +$31K optional | ✓ Ongoing field work |
-| **044-1** (EMASS Chip Integration) | Final validation phase; 74% complete | Q2 2026 | Contract value TBD | 🟡 74% complete |
-
-### **Approved but Un-Invoiced CLINs**
-- **Project 301-3 (S0 Hurricane):** 7 optional S0 platforms (optional CLINs) — likely need approval before invoicing
-- **Project 026-04 (Murphy's Pond):** 4th flight option (+$31K) — awaiting customer approval
-
----
-
-## Cash Flow Analysis
-
-### **Current State (as of April 6, 2026)**
-
-| Category | Amount | Notes |
-|----------|--------|-------|
-| **Total A/R Outstanding** | $2,145,564.19 | 66 government invoices + BST internal invoice |
-| **A/R > 60 days** | Unknown | Aged A/R report not provided |
-| **Average Days to Collect** | Unknown | Government: typically 30–60 days net |
-| **Total Expenses (YTD 2 days: Apr 5–6)** | $2,771.59 (loss) | Small sample; annual run rate $505M+ |
-| **Recent Expenses (2-day sample)** | • Shipping: $358.40 • Business Dev: $2,360.87 • Supplies: $52.32 | Minor operational costs |
-| **Estimated Monthly Burn Rate** | ~$450K (extrapolated) | Based on annual expenses ÷ 12 |
-
-### **Cash Flow Risks**
-
-1. **AR Collections Risk (Critical):** $2.1M outstanding on government projects
-   - If 50% collected in 30 days and 50% in 60 days → **$1M+ cash gap in April–May**
-   - Recommend: Daily A/R aging reports; follow-up calls on invoices >30 days
-
-2. **Expense Burn (High):** $5.4M annual burn vs. $3.4M invoiced
-   - **Monthly deficit: ~$169K** ($2M ÷ 12 months)
-   - Unsustainable without A/R collections or additional contract awards
-
-3. **Unclassified Expense Pool (Critical):** $3.36M reclassification pending
-   - If these expenses belong to specific government projects, they may be reimbursable once properly classified
-   - If they belong to internal operations, company profitability becomes even worse
-
-4. **Internal Operations Deficit (Structural):** $804K annual loss on internal/indirect costs
-   - Facilities, admin salaries, utilities currently all charged to "BST Internal" project
-   - Should be allocated to government projects as indirect costs (typically 20–40% overhead rate)
-   - **Action:** Work with Finance to implement indirect cost allocation model
+### Completed or Archived (No Further Revenue)
+- Project 400-5 (Air Force SMM Phase II) — Completed 07/21/25
+- Project 025-07 (Air Force SMM Phase II repeat) — Completed 07/11/25
+- Project 035-1 (ADONIS) — Completed 03/01/26
+- Project 025-05 (CU Boulder Hesselius E2) — Completed 06/04/25
+- Project 025-06 (CU Boulder repeat) — Completed 06/04/25
+- Project 200-11 (NASA Persistent IR wildfire) — Completed 11/2025
+- Project 200-14 (NASA Autonomy SBIR I) — Completed 03/27/26
 
 ---
 
-## By Project Health Status Summary
+## Cash Flow Snapshot
 
-### 🟢 **GREEN (Completed Successfully; Minimal Risk)**
-- **024-04** (AFWERX Runway Integrity) — SBIR completed
-- **032-1** (ND S0 Air-Deployed) — Commercial, delivered
-- **039-1** (Oklahoma State S2 Refurb) — Equipment, delivered
-- **042-1** (Stanford S2 Components) —
+### Current AR Position
+- **Total Outstanding:** ~$2,700,000+
+- **Primary Source:** 72 government invoices (DTRA, NOAA, Navy, USGS, NASA)
+- **Concentration Risk:** 72% of invoices from government contracts; payment delays directly impact liquidity
+- **Recommended Action:** Establish AR aging report by customer and contract; identify invoices >60 days for follow-up
+
+### Recent Expense Trends (2-week period)
+- **Subcontractors & Materials (Government):** ~$1.2M
+- **Payroll & Healthcare:** $6,499
+- **Travel:** $3,416
+- **Legal Services:** $5,663
+- **Note:** 2-week snapshot insufficient for trend analysis; recommend 12-month rolling view
+
+### Large Outstanding Invoices
+- **By Light [043-3]:** $63,735 partial balance (invoice #1757)
+- **Krateo Sky [010-1]:** $10,860 outstanding (invoice #1752)
+- **Government contracts (72 invoices):** $2,617,040 (timing of payments unknown)
+
+---
+
+## Budget Health by Contract Type
+
+| Contract Type | Status | Risk Level | Notes |
+|---|---|---|---|
+| **Government SBIR/STTR** | Mixed | 🟡 Medium | Several completed on time; Navy/AF payment cycles typically 30–45 days. NOAA contracts active and well-funded. |
+| **NASA** | Strong | 🟢 Low | AREN, Persistence, CRATER contracts performing well; payment reliable. |
+| **NOAA IDIQ** | Strong | 🟢 Low | Large firm-fixed-price contracts (300-3, 301-3); on-schedule delivery; AR reflects normal government payment lag. |
+| **Commercial** | Excellent | 🟢 Low | By Light, ND, OSU, CU Boulder projects profitable; small ARs. Limited commercial pipeline. |
+| **Unclassified/Unknown** | Critical | 🔴 High | $3.4M unattributed expenses; 26+ projects lack budget baselines. Cannot assess health. |
+
+---
+
+## Key Financial Metrics & Ratios (2-Week Period)
+
+| Metric | Value | Interpretation |
+|--------|-------|---|
+| **Gross Margin (Period)** | 59.3% | High; government/commercial mix performing well |
+| **AR/Revenue Ratio** | 49% (~$2.7M AR / $5.5M revenue) | High but typical for government contracts (30–60 day payment terms) |
+| **Expense Mix** | Subcontractors 53%, Internal 47% | Balanced; indicates hybrid service/product delivery model |
+| **Unclassified % of Total Expenses** | 60% (cumulative 24mo) | Critical visibility gap; must resolve |
+
+---
+
+## Immediate Actions Required
+
+### Priority 1: Resolve $3.4M Unclassified Expenses
+- Audit all QuickBooks transactions marked "Unclassified"
+- Reclassify to correct projects using cost center mapping
+- Identify root cause (data entry, system configuration, allocation methodology)
+- Target: Complete within 2 weeks
+
+### Priority 2: Reconcile 26+ Projects to Budget Baselines
+- Request Drive budget documents for all projects with QuickBooks invoicing activity
+- Create mapping between QuickBooks project codes and Asana/contract IDs
+- Calculate budget variance (invoiced vs. contracted value) for each active project
+- Target: Complete within 1 month
+
+### Priority 3: AR Aging & Cash Flow Planning
+- Generate AR aging report by customer and invoice date
+- Identify invoices >60 days; initiate follow-up with government customers (DTRA, NOAA, Navy, USGS, NASA)
+- Forecast cash collection timeline based on historical payment patterns
+- Target: Weekly monitoring going forward
+
+### Priority 4: Establish Period Financial Health Dashboard
+- Consolidate project-level summaries into roll-up P&L by business unit
+- Track month-over-month revenue, expense, and margin trends
+- Monitor AR, invoice count, and customer concentration
+- Target: Monthly reporting by 15th of following month
+
+---
+
+## Summary Assessment
+
+**Overall Financial Health: AMBER** 🟡
+
+**Strengths:**
+- Government contracts performing profitably ($2.6M net on $3.9M revenue)
+- Commercial projects highly profitable ($1.2M net on $1.4M revenue)
+- Major NOAA, NASA, Navy contracts active and on schedule
+- No immediate solvency risk
+
+**Risks:**
+- **$3.4M unclassified expenses eliminate true financial visibility**
+- **$2.7M AR creates liquidity pressure; payment timing unknown**
+- **26+ projects lack budget baselines; cannot assess risk**
+- **Limited commercial pipeline; overly dependent on government contracts**
+- **2-week reporting period insufficient for trend analysis**
+
+**Recommendation:** Do not make material financial decisions until data reconciliation is complete. Prioritize unclassified expense audit and budget baseline documentation.

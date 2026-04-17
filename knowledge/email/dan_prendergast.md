@@ -1,118 +1,81 @@
 # Dan Prendergast — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 513 (500 prior + 13 new)
-- **Date range:** February 13, 2026 – April 6, 2026 (~7.5 weeks)
+- **Total messages scanned:** 613 (513 prior + 100 new)
+- **Date range:** February 13, 2026 – April 17, 2026 (~9 weeks)
 - **Estimated volume:** ~68 messages per week; sustained heavy daily engagement
-- **Note:** Recent activity (Apr 6) shows continued Monday morning intensity with early-morning correspondence (08:50–10:51 MDT)
+- **New activity window:** April 7–17, 2026 shows concentrated operational coordination across Mexico deployment, simulation integration, and government RFI activities
 
 ## Key Correspondents
 
 ### Top Internal Contacts (BST)
-- **Jack Elston** (elstonj@blackswifttech.com) — Very frequent; leadership/strategic coordination (new: Canadian Special Forces demo follow-up)
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — Frequent; business development and partnership contacts
-- **Maciej Stachura** (stachura@blackswifttech.com) — Regular; technical and operational discussions
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — Active logistics coordination (new: export license requirement for Mexico deployment meeting scheduled)
+- **Jack Elston** (elstonj@blackswifttech.com) — Strategic leadership; ongoing Canada demo coordination, NASA RFI forwarding, Arctic demo in Ottawa
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — Business development; Navy/USMC BAA coordination, Northern Edge 2027 experimentation, MRT UAS USMC involvement
+- **Maciej Stachura** (stachura@blackswifttech.com) — Technical and operational execution; Mexico deployment coordination, AFAC RPAS permissions
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — Compliance and logistics backbone; carnet applications, export licensing, financial documentation for ATA Carnet
+- **Nathaniel Straus** (nate.straus@blackswifttech.com) — Academic/institutional coordination; Stanford SACL timestamp avionics, University of Colorado aircraft use approvals
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Operations; Mexico deployment multi-party coordination
 
 ### Top External Contacts (Updated)
-- **Nikhila Ravikumar** (Nikhila@nanoveu.com) — Very frequent technical integration; **New contact visible:** Tom Wilp (tom.wilp@nanoveu.com) — Simulation discussions
-- **Joe Villa-Michel** (joe@av3aerovisual.com) — S3 ecosystem logistics
-- **Maithreyi Gopalakrishnan** (Maithreyi.Gopalakrishnan@colorado.edu) — NASA Phase II academic partner
-- **U.S. Military/Government (Active):**
-  - **SOCOM:** Evan Wolff (evan.m.wolff.mil@socom.mil) — RFI S0 ongoing drafting (new message Apr 6)
-  - **USAF:** Lt Col Ryan A Rickert (ryan.rickert.4@us.af.mil) — 53 WRS/ARWO; site visit follow-up and [Non-DoD Source] communications
-  - **NASA/Government contacts:** Wesley Enos, Will Wade, Caden Kallhoff, Hai-Nam Tran
-- **Krateo Sky:** Bob Smith, Lisa Marie Cheney — Partnership coordination (new: CDIC Update & Pricing Model forwarded)
-- **Defense Coalitions:** Brody Basset (bb@defensecoalitions.org) — NATO international engagement (new: multiple interactions Apr 6)
-- **Academic/Research:** Global Cyber Research Institute (gcri@tamu.edu) — U.S. Space Force seminar invitation
+- **Nikhila Ravikumar** (Nikhila@nanoveu.com) — Very frequent simulation integration technical work; **Tom Wilp** (tom.wilp@nanoveu.com) and **Sergio Ruocco** (sergio@nanoveu.com) also active on simulation threads
+- **Joe Villa-Michel** (joe@av3aerovisual.com) — **CRITICAL new role:** Mexico UAS deployment coordination; AFAC permissions, Popocatépetl volcano deployment lead
+- **Paulino Alonso Rivera** (paulino.alonso@sspc.gob.mx) — **New:** Mexican government AFAC request coordinator for Popocatépetl deployment
+- **Christoph Kern** (ckern@usgs.gov) — **Elevated role:** Mexico deployment logistics; USGS liaison for Popocatépetl volcano operations
+- **Angie Diefenbach** (adiefenbach@usgs.gov) — Mexico deployment multi-party coordination (USGS lead)
+- **U.S. Military/Government (Expanded):**
+  - **SOCOM:** Michael C. Jagelewski (michael.c.jagelewski.civ@socom.mil), Evan Wolff (evan.m.wolff.mil@socom.mil) — RFI S0 ongoing (Non-DoD Source protocol active)
+  - **USAF:** Lt Col Ryan Rickert (ryan.rickert.4@us.af.mil) — 53 WRS/ARWO; RFI S0 coordination
+  - **Navy:** Marc A. Concilio (marc.a.concilio.civ@us.navy.mil) — BAA response submission coordination [Non-DoD Source]
+  - **NOAA:** Joe Cione, Jun Zhang, Annette Hollingshead, Joshua Wadler (ERAU) — UASD hurricane/atmospheric operations coordination
+- **Krateo Sky:** Bob Smith, Lisa Marie Cheney, Adria Passola — Canadian Special Forces demo coordination, Arctic demo in Ottawa
+- **NanoVeu (Simulation Partner):** Nikhila Ravikumar, Tom Wilp, Sergio Ruocco — Intensive simulation development thread (multiple messages daily Apr 8–15)
+- **By Light Innovations (USMC/Navy Partner):** Bryan Sparling, Justin Baltz, Megan Weckter — MRT UAS USMC technical coordination, HD 25C datasheet/component specs
+- **ATA Carnet/Logistics:** Sarah Heaney (sheatat@atacarnet.com) — Mexican registration US 89/26-62466, FedEx carnet tracking, financial documentation
+- **Stanford:** Tanay Topac (tanaytopac@stanford.edu) — Timestamp S2 avionics research coordination
+- **Vantage Robotics:** Armen Keuleyan (armen@vantagerobotics.com) — Axiom Greenseer gimbal specs (supplier)
+- **Marketing/Communications:** Zach Hynoski (zach.hynoski@stratacomms.agency) — EMASS drone video coordination (media/marketing partner)
+- **NextEch Solutions:** Trenton McKibben (Trenton.McKibben@nextechsol.com) — S3 VTOL UAS inquiry; Arctic demo coordination
 
 ### Internal vs External
-- **Internal:** ~30% of correspondence
-- **External:** ~70%, with continued heavy emphasis on U.S. government (military, NASA) and strategic tech partners
+- **Internal:** ~28% of correspondence
+- **External:** ~72%, with significant expansion in Mexico deployment ecosystem (USGS, Mexican government, AV3 Aerovisual), government RFI activities (SOCOM, Navy, USAF), and simulation vendor partnerships
 
 ## Topic Patterns
 
 ### Dominant Active Projects (Updated)
-1. **S3 / S3 VTOL UAS (core product)**
-   - **Canadian Special Forces demo** (new: Jack Elston follow-up Apr 6)
-   - Ongoing logistics and coordination
 
-2. **RFI S0 / SOCOM Engagement**
-   - Classified/controlled discussions continuing
-   - **New:** Draft-stage correspondence with Evan Wolff on Apr 6 — marked [Non-DoD Source]
+1. **S3 / S3 VTOL UAS (Core Product)**
+   - Canadian Special Forces demo (Krateo Sky partnership) — Arctic demo in Ottawa scheduled (Apr 17)
+   - S3 check-in coordination with Kevin Rozmiarek (University of Colorado)
 
-3. **Mexico Deployment / Export Licensing**
-   - **New:** Export License Requirement meeting scheduled for Apr 6, 2:30–3 PM (Meredith Needham coordinating)
-   - Suggests active regulatory/compliance phase for Mexico UAS deployment
+2. **Mexico Deployment / Popocatépetl Volcano UAS Operations**
+   - **NEW CRITICAL PROJECT:** Full operational pipeline visible
+   - AFAC (Autoridad Federal de Aviación Civil) request for RPAS permission at Popocatépetl volcano (Apr 14–16)
+   - Multi-agency coordination: USGS (Christoph Kern, Angie Diefenbach), Mexican government (Paulino Alonso Rivera, CENAPRED), AV3 Aerovisual (Joe Villa-Michel)
+   - Export/Carnet requirements: ATA Carnet Application 3126503, Mexican Registration US 89/26-62466, FedEx shipment tracking (Apr 15–16)
+   - Regulatory phase: Meeting scheduled Apr 6 for export license requirements
+   - **Status:** AFAC approval request submitted, carnet/registration in-flight
 
-4. **CDIC (likely Canadian Defense Infrastructure/Communications initiative)**
-   - **New:** Pricing model and updates being forwarded to Krateo Sky (Apr 6)
-   - Suggests multi-stakeholder government/partner negotiation
+3. **RFI S0 / SOCOM Engagement**
+   - Classified/controlled discussions continuing with SOCOM (Evan Wolff, Michael Jagelewski)
+   - [Non-DoD Source] messaging protocol active across multiple messages (Apr 8, 10, 14)
+   - Lt Col Ryan Rickert (USAF 53 WRS) also coordinating RFI S0 responses
 
-5. **International/NATO Engagement**
-   - **New:** Active correspondence with Brody Basset (Defense Coalitions) on NATO opportunity (multiple messages Apr 6)
-   - Consistent with prior UK MOD and international expansion threads
+4. **NanoVeu Simulation Integration (Intensive)**
+   - **NEW VOLUME:** 9+ messages Apr 8–16 between Dan, Nikhila, Tom Wilp, Sergio Ruocco
+   - Simulation development thread active at high frequency (multiple exchanges daily)
+   - Critical for S3 VTOL avionics/autonomy validation
 
-6. **USAF Site Visit / 53 WRS Coordination**
-   - **New:** Follow-up exchanges with Lt Col Rickert regarding December 2025 site visit
-   - [Non-DoD Source] messaging protocol being used (compliance/classification management)
+5. **NASA Aero RFI Responses**
+   - **NEW:** NotebookLM notebooks shared Apr 16 for three RFI responses:
+     - NASA Aero RFI: Autonomy/Avionics
+     - NASA Aero RFI: S3 Nomad
+     - NASA Aero: S0 Strato Balloon
+   - Due May 7, 2026 @ 1 PM Pacific
+   - Jack Elston forwarding RFI opportunity; collaborative response with Beck Cotter, Maciej Stachura
 
-7. **NanoVeu Simulation Integration**
-   - **New:** Tom Wilp (NanoVeu) simulation discussions on Apr 6
-
-### Visible Vendors/Suppliers (Confirmed + New)
-- NanoVeu (Tom Wilp — simulation work)
-- Krateo Sky (partnership/pricing coordination)
-- Prior: Vantage Robotics, Bartington, Teledyne FLIR, Vantor, etc.
-
-## Communication Patterns
-
-### Time Patterns (Refined)
-- **Monday morning activity:** Concentrated early-morning correspondence (08:50–10:51 MDT on Apr 6)
-- **Active across all days:** Weekends and weekdays both engaged
-- **Multiple time zones:** UTC, MDT/MST, international (NATO, UK, Canada)
-- **Early-day responsiveness:** 08:50 AM start indicates early-arrival work pattern
-
-### Mailing Lists & Group Engagement
-- **BST leadership:** Jack Elston, Beck Cotter, Maciej Stachura coordination
-- **Krateo Sky multi-party:** Bob Smith, Lisa Marie Cheney
-- **Government multi-agency:** SOCOM, USAF, NASA centers
-- **NATO/International coordination:** Defense Coalitions group efforts
-
-### Automated/Newsletter Traffic
-- **Asana:** Ongoing project management notifications
-- **Read.ai:** Weekly executive assistant meeting summaries (Apr 5 report for week of Mar 30–Apr 5)
-- **Academic/Professional Development:** Global Cyber Research Institute seminar invitation (U.S. Space Force Lt Col Kopecky)
-- **Prior newsletters/systems:** Marriott Bonvoy, Expedia, Adobe Creative Cloud, LinkedIn Sales Navigator, DOD SAFE, etc.
-
-## Key Relationships
-
-### Closest Internal Collaborators
-1. **Jack Elston** — Strategic leadership; demos, government coordination
-2. **Beck Cotter** — Business development; partnership management
-3. **Maciej Stachura** — Technical/operational execution
-4. **Meredith Needham** — Compliance and logistics backbone (export licensing now active)
-
-### Critical External Relationships
-1. **Evan Wolff (SOCOM)** — Classified RFI S0 negotiations (draft stage, ongoing)
-2. **Brody Basset (Defense Coalitions)** — NATO expansion and international opportunities (active Apr 6)
-3. **Lt Col Ryan Rickert (USAF 53 WRS)** — Site visit follow-ups and [Non-DoD Source] engagement
-4. **Krateo Sky (Bob Smith, Lisa Marie Cheney)** — CDIC pricing and partnership model discussions
-5. **NanoVeu (Tom Wilp, Nikhila Ravikumar)** — Simulation and hardware integration
-6. **Meredith Needham (Internal)** — Export compliance coordination for Mexico deployment
-
-### Partner/Government Ecosystems
-- **International/NATO:** Defense Coalitions (Brody Basset) expanding scope
-- **U.S. Military:** SOCOM (RFI S0), USAF 53 WRS (site visits and follow-ups)
-- **Academic/Research:** Global Cyber Research Institute (Space Force connections)
-- **Canada:** Special Forces demo coordination, NATO engagement
-- **Mexico:** Active deployment planning with export license requirements
-
-## Notable Observations
-
-1. **Escalating International Activity:** New NATO engagement thread (Brody Basset, Defense Coalitions) suggests strategic expansion beyond U.S. government focus
-2. **Export Compliance Critical Path:** Mexico deployment now in regulatory phase (Apr 6 meeting scheduled) — operational timing constraint
-3. **SOCOM RFI S0 Still Active:** Draft-stage correspondence suggests multi-month negotiation cycle; [Non-DoD Source] messaging protocol indicates classification awareness
-4. **Canadian Special Forces Integration:** Ongoing demo coordination with Jack Elston suggests customer validation phase
-5. **Krateo Sky Pricing Model:** CDIC update with pricing suggests partnership commercialization discussions (not purely technical)
-6. **Monday Morning
+6. **MRT UAS USMC / Navy BAA Activities**
+   - **NEW:** By Light Innovations leading MRT (Medium Range Tactical) UAS USMC effort
+   - Dan providing S3 technical specs, datasheet coordination (HD 25C, HD55-LV-CZ components)
+   - Navy BAA response submission coordination with Marc A. Concilio (NAVAIR [Non-DoD Source] protocol)
+   - Northern Edge 2027

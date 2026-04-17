@@ -1,10 +1,10 @@
 # Government — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $3,370,916.28
-- **Total Expenses (Bills + Purchases):** $1,236,212.57
+- **Total Invoiced (Revenue):** $3,885,459.28
+- **Total Expenses (Bills + Purchases):** $1,268,419.09
 - **Total Purchase Orders:** $433.00
-- **Net Position:** $2,134,703.71 (invoiced minus expenses)
+- **Net Position:** $2,617,040.19 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -12,18 +12,18 @@
 ## Revenue (Invoices & Payments)
 
 ### Summary
-- **Total Invoiced:** $3,370,916.28
-- **Total Collected (Outstanding Balance):** $2,134,703.71 remaining (invoices with open balances)
-- **Number of Invoices:** 66 active invoices
+- **Total Invoiced:** $3,885,459.28
+- **Total Collected (Outstanding Balance):** $2,617,040.19 remaining (invoices with open balances)
+- **Number of Invoices:** 72 active invoices
 
 ### Major Revenue Streams by Project
 
 | Project/Class | Total Invoiced | Key Invoices |
 |---------------|----------------|--------------|
-| [301-3] S0 Hurricane Phase II 2025 | $844,449.61 | Progress payments, platform deliveries, training & operations |
 | (400-5) SMM Phase II 22.4D | $1,699,725.00 | CLIN work (004-008): Algorithm dev, field testing, refinement; Soil Moisture Mapping |
-| [300-3] 2026 IDIQ | $504,000.00 | 6 invoices (Invoices 2-6), CLIN 1001 modification P26002 (Invoices #1737–#1741) |
-| [550-1] Navy SBIR Magnetometer | $367,940.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA |
+| [300-3] 2026 IDIQ | $576,000.00 | 6 invoices (Invoices 2-6: #1737–#1741), CLIN 1001 modification P26002 + Operational Testing & Support (#1757) |
+| [301-3] S0 Hurricane Phase II 2025 | $844,449.61 | Progress payments, platform deliveries, training & operations |
+| [550-1] Navy SBIR Magnetometer | $449,459.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748) |
 | [550-2] Navy STTR Hazardous Weather | $216,326.00 | Kick-off, progress, final reports & TABA |
 | [200-14] Autonomy | $156,211.00 | CLIN 0001-0005, initial through final invoicing |
 | [200-11] NASA Persistence Demo | $74,428.00 | Interim & final demonstration reports |
@@ -35,6 +35,17 @@
 | [350] USGS | $2,000.00 | S3 Battery |
 | (207) Volcano CCRPP | $254,997.00 | Final reports |
 | (210-10) AREN 2024 | $92,500.00 | Aerospace Engineering |
+
+**New invoices (2026-04-06 to 2026-09-28):**
+- **Invoice #1757** (2026-04-15): $18,000.00 — Operational Testing & Support, Clear Air, Lakeland FL
+- **Invoice #1737** (2026-04-15): $54,000.00 — CLIN 1001 Invoice 2 of 6
+- **Invoice #1738** (2026-05-15): $54,000.00 — CLIN 1001 Invoice 3 of 6
+- **Invoice #1739** (2026-06-15): $72,000.00 — CLIN 1001 Invoice 4 of 6
+- **Invoice #1740** (2026-07-15): $72,000.00 — CLIN 1001 Invoice 5 of 6
+- **Invoice #1741** (2026-07-30): $72,000.00 — CLIN 1001 Invoice 6 of 6
+- **Invoice #1748** (2026-04-14): $50,000.00 — Navy SBIR Kick-Off & FWA (Option Period)
+- **Invoice #1749** (2026-06-29): $35,000.00 — Navy SBIR CLIN 0006 Progress Report - Option
+- **Invoice #1750** (2026-09-28): $14,459.00 — Navy SBIR CLIN 0007 Final Report
 
 ---
 
@@ -58,8 +69,8 @@
 
 ---
 
-### **Materials & Supplies: $412,814.11**
-**Number of transactions:** 156  
+### **Materials & Supplies: $437,589.74**
+**Number of transactions:** 165  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
 - **JAWSTEC:** $19,627.62 (components for S0 platforms)
@@ -70,6 +81,14 @@
 - **Motors, brushless components:** $181.85 + $55.46
 - **S0 wing components:** Multiple purchases totaling $12,200+
 - **PCB boards, stencils, parts sourcing:** ~$30,000+
+
+**New April 2026 transactions (2026 IDIQ, Sasquatch, S0 production):**
+- **Digikey (Purchase #98710410):** $283.99 — Supplies for 2026 IDIQ ($93.99), Sasquatch ($18.80), future S0 inventory ($28.20), shop supplies ($143.00)
+- **Direct Cost Purchases (unnamed vendor, 2026-04-15):** $4,540.11 — S2 Case
+- **Purchase #68057 (2026-04-10):** $3,330.65 — 3 S0 projects (2026 IDIQ: $2,220.43 + $444.09; uncategorized asset: $666.13)
+- **Purchase (2026-04-09):** $64.77 — S0 components split across 2026 IDIQ, Sasquatch, 6 future S0s ($43.18 + $8.64 direct; $12.95 inventory)
+- **Purchase #98541533 (2026-04-09):** $23.00 — Direct cost supplies for 2026 IDIQ
+- **Amazon (2026-04-10):** $19.99 — Shop supplies (4G LTE antenna magnetic mounting base)
 
 ---
 
@@ -92,14 +111,17 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 
 ---
 
-### **Shipping/Freight: $3,604.43**
-**Number of transactions:** 36+  
+### **Shipping/Freight: $3,983.18**
+**Number of transactions:** 38+  
 **Key items:**
 - **Aeronet Worldwide:** $2,615.50 (battery shipping, S0 UAS to NOAA Lakeland)
 - **Direct Cost Shipping, Freight & Delivery:** $358.40 (2026-04-06, items sent to NOAA Lakeland for Maciej & Alex trip)
 - **DHL/FedEx tariffs on PCB imports:** $234.60+
 - **USPS reimbursements:** $12.25 + $25.45
 - **Various parcel shipping:** $200+ across multiple vendors
+
+**New April 2026 transactions:**
+- **Direct Cost Shipping (2026-04-10):** $28.75 — Shipping tool to Sean Cole (Phase1 Aviation) for S0 manufacturing ($19.17 + $3.83 direct; $5.75 inventory allocation for 6 future S0 sales)
 
 ---
 
@@ -134,19 +156,4 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 | 2024-04 | $210.00 | $0.00 | $0.00 | $0.00 | $0.00 | $210.00 |
 | 2024-05 | $97,800.00 | $0.00 | $0.00 | $0.00 | $300.00 | $98,100.00 |
 | 2024-06 | $98,025.00 | $0.00 | $25.45 | $0.00 | $112.35 | $98,162.80 |
-| 2024-07 | $4,043.00 | $0.00 | $0.00 | $0.00 | $0.00 | $4,043.00 |
-| 2024-08 | $3,111.35 | $0.00 | $0.00 | $112.35 | $0.00 | $3,223.70 |
-| 2024-09 | $3,296.60 | $0.00 | $0.00 | $0.00 | $0.00 | $3,296.60 |
-| 2024-10 | $100,611.40 | $0.00 | $0.00 | $0.00 | $0.00 | $100,611.40 |
-| 2024-11 | $4,789.40 | $0.00 | $0.00 | $0.00 | $1,425.00 | $6,214.40 |
-| 2024-12 | $53,189.40 | $0.00 | $0.00 | $0.00 | $0.00 | $53,189.40 |
-| 2025-01 | $6,909.00 | $0.00 | $0.00 | $0.00 | $0.00 | $6,909.00 |
-| 2025-02 | $4,789.40 | $0.00 | $0.00 | $0.00 | $0.00 | $4,789.40 |
-| 2025-03 | $27,078.95 | $100.00 | $0.00 | $0.00 | $0.00 | $27,178.95 |
-| 2025-04 | $11,656.25 | $0.00 | $0.00 | $0.00 | $0.00 | $11,656.25 |
-| 2025-05 | $101,206.47 | $23,500.00 | $0.00 | $146.40 | $0.00 | $124,852.87 |
-| 2025-06 | $27,180.00 | $10,000.00 | $253.04 | $194.39 | $0.00 | $37,627.43 |
-| 2025-07 | $57,289.00 | $5,800.00 | $0.00 | $133.89 | $0.00 | $63,222.89 |
-| 2025-08 | $17,299.53 | $4,600.00 | $0.00 | $11.29 | $0.00 | $21,910.82 |
-| 2025-09 | $13,666.38 | $320.00 | $3,500.00 | $12.26 | $0.00 | $17,498.64 |
-| 2025-10 | $8,223.00 | $1,000.00 | $3,500.00 | $5.35 | $
+| 2024-07 | $

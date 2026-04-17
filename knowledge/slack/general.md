@@ -1,7 +1,7 @@
 # #general
 
 ## Overview
-Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - April 2025). Key participants include Jack Elston (leadership), Maciej, Joshua Fromm, Dan Prendergast, Danny Troke, Melissa Phillips, and numerous team members.
+Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - April 2026). Key participants include Jack Elston (leadership), Maciej, Joshua Fromm, Dan Prendergast, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, and numerous team members.
 
 ## Key Decisions
 
@@ -26,6 +26,7 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **GitLab IDE Approval** (March 2024): Approved for code storage/editing
 - **Wiring Standards Update** (Feb 10, 2021): Discontinued PTFE wire for 1.25 pitch Clikmate connections; switched to Tefzel wire (dark-colored, tin or silver plated)
 - **S0 Primary Focus** (Dec 2024): S3 on pause except parts ordering; S0 prioritized for wing internal structure finalization and skin production
+- **Nomenclature Strategy for DoD/Federal Contracts** (April 10, 2026): Decision to align naming conventions with federal/DoD standards: "aircraft" for UAS, "ground control station (GCS)" for operator interface device, "datalink" for communication system. Previously called datalink "ground station" and GCS "SwiftTab/SwiftStation". Proposed renaming SwiftStation to "SwiftLink" to match federal terminology and reduce proposal confusion.
 
 ### Hardware/Facilities Decisions
 - **Roof/Building Repairs** (Aug 27-28, 2020 - May 27, 2021): Multiple roof leaks reported; TEBO contractor quote $2,450 for wall/stair repainting (Jack declined in-house option)
@@ -99,15 +100,4 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 **SMM (Soil Moisture Measurement) Project**
 - SBIR report and new LDCR system due April 11, 2024
 - Testing potential Wednesday with Ethan available 9-5 (Jan 27, 2025)
-- Awaiting dry soil conditions (<15% moisture) for 2 days data collection before final Ponds Field test (Apr 16, 2025)
-
-**ATDD Payload**
-- Due April 22, 2024
-
-**USGS LDCR (Land Data Collection and Radiometer)**
-- LDCR to OMS for testing/calibration (March 2024)
-- Camera refurbishment discussed; decision to hold off if camera tests fine without physical damage
-- L-band antenna delaminated, fan blade popped out (minor damage)
-
-**Soil Moisture Project**
-- Awaiting dry conditions for 2
+- Awaiting dry soil conditions (

@@ -1,64 +1,108 @@
 # Slack Channels Overview
 
-Last scanned: 2026-04-06 11:55
+Last scanned: 2026-04-17 10:39
 
-Total channels scanned: 6
+Total channels scanned: 17
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 1 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#emass** -- 1 messages -- [emass.md](emass.md)
-- **#emass-bst** -- 2 messages -- [emass-bst.md](emass-bst.md)
-- **#grants-and-funding** -- 5 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#operations** -- 5 messages -- [operations.md](operations.md)
-- **#sbir-hurricane** -- 48 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#2025-nasa-autonomy** -- 4 messages -- [2025-nasa-autonomy.md](2025-nasa-autonomy.md)
+- **#25_1-navy-sbir-magnetometer** -- 12 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#25_1-navy-sttr-boundary-layer** -- 17 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
+- **#by-lite-mustang** -- 13 messages -- [by-lite-mustang.md](by-lite-mustang.md)
+- **#commercial-sales** -- 10 messages -- [commercial-sales.md](commercial-sales.md)
+- **#emass** -- 37 messages -- [emass.md](emass.md)
+- **#emass-bst** -- 204 messages -- [emass-bst.md](emass-bst.md)
+- **#flight-testing** -- 82 messages -- [flight-testing.md](flight-testing.md)
+- **#general** -- 23 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 49 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#marketing** -- 83 messages -- [marketing.md](marketing.md)
+- **#operations** -- 18 messages -- [operations.md](operations.md)
+- **#s0-vtol** -- 9 messages -- [s0-vtol.md](s0-vtol.md)
+- **#s3** -- 137 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 397 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#sbir-volcano** -- 83 messages -- [sbir-volcano.md](sbir-volcano.md)
+- **#swiftcore** -- 63 messages -- [swiftcore.md](swiftcore.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Cross-Channel Strategic Overview
+# Black Swift Technologies - Strategic Slack Overview
 
-## Active Projects (Portfolio)
+## Active Projects & Programs
 
-**Core Aircraft Platforms:**
-- **S0 UAS (Hurricane Reconnaissance)** - #sbir-hurricane: Long-running SBIR project for hurricane data collection; mature technical work with established team
-- **E2 Aerial Platform** - Featured across #emass, #emass-bst, #25_1-navy-sbir-magnetometer: Primary integration testbed for new sensors and AI systems
+**Government Research (SBIR/STTR/NASA)**
+- Hurricane reconnaissance (S0 UAS) - mature, ongoing
+- Navy magnetometer integration (QuSpin sensors)
+- Navy boundary layer atmospheric sensing (tropical cyclones)
+- NASA autonomy flight control architecture (Phase I, 2025-2026)
+- Volcanic monitoring (S2/S3 with USGS collaboration)
 
-**Technology Integration Initiatives:**
-- **Navy Magnetometer SBIR** (#25_1-navy-sbir-magnetometer): QuSpin magnetometer integration for magnetic signature detection; external partnerships with Ultra Maritime and Navy contacts
-- **eMASS AI Chip Integration** (#emass, #emass-bst): ECSDoT energy management system onto E2; focuses on ML-based flight optimization and endurance improvements
-- **Government Funding Pipeline** (#grants-and-funding): Continuous SBIR/grant pursuit across NASA, DOD, NOAA, USDA
+**Commercial & Contract Work**
+- By Light Mustang (USAF Yuma testing) - two-phase development
+- eMASS AI chip integration (E2 platform energy management)
+- Various customer aircraft deliveries (E2, S2, S3, S0 variants)
 
-## Key Decision Patterns
-
-1. **Jack Elston** - Primary decision-maker across technical and strategic matters (all channels); leadership and funding decisions
-2. **Maciej** - Technical proposal support and cross-project engineering input
-3. **Dan Prendergast** - Project coordination and EMASS lead role
-4. **Joshua Fromm** - Hardware/manufacturing decisions and operational execution
-
-**Decision Style:** Consensus-driven technical discussions with clear ownership; decisions documented in operations channel for visibility
-
-## Recurring Cross-Channel Themes
-
-| Theme | Channels | Implication |
-|-------|----------|------------|
-| **Hardware Integration Complexity** | #emass, #emass-bst, #25_1-navy-sbir-magnetometer | Multiple concurrent sensor/system integrations on E2 platform; resource scheduling critical |
-| **External Partnerships** | #25_1-navy-sbir-magnetometer, #emass-bst, #grants-and-funding | Heavy reliance on vendor integration (QuSpin, eMASS, Ultra Maritime); coordination overhead |
-| **Funding-Driven Development** | #grants-and-funding, #sbir-hurricane, #25_1-navy-sbir-magnetometer | SBIR projects anchor roadmap; grant deadlines drive timelines |
-| **Test & Validation** | #sbir-hurricane, #emass, #emass-bst, #operations | Flight testing and field validation are critical path items across all projects |
-| **Operational Execution** | #operations, #sbir-hurricane | Strong operational discipline; logistics and procurement tracked centrally |
+**Platform Development**
+- S3 VTOL (hybrid fixed-wing/quadcopter, 2-3hr endurance) - active development
+- S0 VTOL (vertical takeoff transition aircraft) - testing/customer prep
+- SwiftCore firmware ecosystem - continuous updates
+- E2 multirotor platform - integration focus
 
 ## Key People & Roles
 
-- **Jack Elston** - CTO/Leadership; software/firmware expertise; grants strategy
-- **Joshua Fromm** - Hardware lead; shop/manufacturing operations
-- **Dan Prendergast** - EMASS project coordination; flight operations
-- **Maciej** - Technical problem-solving; proposal writing support
-- **Meredith Needham** - Finance and administrative coordination
-- **Nikhila** (eMASS AI) - Primary external technical lead for chip integration
+**Leadership/Decision-Making**
+- **Jack Elston** - Chief architect, firmware lead, strategic decisions, funding strategy
+- **Maciej** - Project oversight, flight operations, technical testing
+- **Joshua Fromm** - Hardware/design lead, QA, shop operations
 
-## Critical Connections
+**Technical Core**
+- **Dan Prendergast** - Project coordination, proposal development
+- **Beck Cotter** - Systems integration, testing
+- **Ben Busby** - Flight control, tablet applications
+- **Sam Hild** - Firmware development
 
-1. **E2 Platform as Shared Resource**: All three active technology projects (magnetometer, eMASS, hurricane ops) compete for E2 testing/flight time
-2. **SBIR Funding Model**: Multiple projects (Hurricane, Navy Magnetometer) operating under SBIR framework with overlapping timelines
-3. **Software/Firmware Bottleneck**: Jack Elston appears critical to all autopilot/flight control work; potential single point of failure
-4. **Operations as Integration Point**: #operations serves as master log connecting budget, scheduling, and resource allocation across all projects
+**Support Functions**
+- **Meredith Needham** - Finance, administration, budgeting
+- **Parker Vollmer** - Marketing strategy
+- **Sophia Henkels** - Web/content
+
+## Cross-Channel Themes
+
+**Integration & Modularity**
+- Recurring focus on integrating third-party sensors/hardware (magnetometers, eMASS chips, boundary layer sensors)
+- Emphasis on modular flight control architecture for rapid testing
+- Standardized platforms (S-series fixed-wing, S-VTOL, E2 multirotor) deployed across multiple missions
+
+**Government Funding Pipeline**
+- Active pursuit of SBIR/STTR/NASA funding as primary revenue stream
+- Tight coordination between proposal development, technical execution, and budget management
+- Multiple overlapping phases of funded projects
+
+**Flight Testing as Validation**
+- #flight-testing serves as central hub connecting all platform development
+- Test results drive decision-making across channels
+- Rapid iteration between firmware updates and field testing
+
+**Technical Debt & Integration Challenges**
+- Recurring themes of hardware sourcing, component compatibility, and integration debugging
+- eMASS and magnetometer channels show ongoing troubleshooting cycles
+- S3 and S0-VTOL development involve complex system verification
+
+## Decision Patterns
+
+1. **Data-Driven** - Flight test results and technical metrics drive go/no-go decisions
+2. **Hierarchical with Specialists** - Jack Elston makes strategic calls; Maciej/Joshua handle technical execution
+3. **Proposal-Driven** - Funding opportunities shape project roadmap (#grants-and-funding influences technical channels)
+4. **Integration-First** - Customer value depends on payload/sensor integration, not just airframes
+5. **Parallel Execution** - Multiple projects run simultaneously with shared core team and resources
+
+## Resource Constraints & Bottlenecks
+
+- **Jack Elston** appears over-allocated across firmware, strategy, and funding decisions
+- Flight testing availability limits validation cycles
+- Hardware integration complexity (magnetometers, eMASS) creates sequential dependencies
+- Commercial sales execution depends on completing government-funded R&D
+
+## Strategic Positioning
+
+BST operates as an **advanced R&D-to-commercialization hybrid**: government funding (SBIR/NASA) de-risks technology development, while commercial sales and contracts provide near-term revenue. Platform modularity allows rapid customization for diverse missions (hurricanes, volcanoes, boundary layer sensing, magnetometry). Success depends on integrated hardware/software execution and maintaining productive government relationships.

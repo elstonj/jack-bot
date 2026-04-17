@@ -5,12 +5,13 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 
 **Key Participants:**
 - Nikhila (eMASS AI) - Primary developer, leading chip integration and AI model implementation
-- Jack Elston (BST) - Autopilot/simulation expertise, hardware integration guidance
-- Dan Prendergast (BST) - Flight test coordination, E2 aircraft management
-- Moe (eMASS AI) - AI model training and optimization
+- Jack Elston (BST) - Autopilot/simulation expertise, hardware integration guidance, protocol specification
+- Dan Prendergast (BST) - Flight test coordination, E2 aircraft management, hardware setup lead
+- Moe/Prof. Moe (eMASS AI) - AI model training and optimization
 - Maciej (BST) - Vehicle parameters and specifications
+- Sergio Ruocco (eMASS AI) - Autoboot firmware expert, SDK bring-up and troubleshooting
 
-**Activity Level:** Highly active collaboration spanning February-April 2026, with daily communication during critical integration phases. Initial setup discussions in early February ramping to intensive HWIL (Hardware-In-The-Loop) and model training work in March-April. Recent activity shows transition toward flight test finalization (early April 2026).
+**Activity Level:** Highly active collaboration spanning February-April 2026. Initial setup in early February ramped to intensive HWIL and model training in March-April. Most recent activity (Apr 8-16, 2026) focused on hardware bring-up, SDK troubleshooting, and payload protocol debugging. Daily communication during critical phases.
 
 ---
 
@@ -41,12 +42,17 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Decision to defer building safety-guard-free autopilot variant until after flight test completion
 - Rationale: Removing limit checks is time-consuming; completing flight test is the immediate priority
 
+**Safety Limits Enforcement (Apr 15, 2026)**
+- Jack Elston determined that safety limits should remain as-is for flight testing (same as E2 specifications)
+- Decided against changing autopilot limits in simulation; instead eMASS to retrain AI model for stricter adherence to limits
+- Rationale: Simulation validation should reflect actual flight envelope constraints
+
 ---
 
 ## Projects & Initiatives
 
 ### ECSDoT Integration onto E2 Aircraft
-**Status:** Final flight test preparation phase (as of Apr 6, 2026)
+**Status:** Final flight test preparation with active payload protocol debugging (as of Apr 16, 2026)
 
 **Scope:** Integrating eMASS AI's ECSDoT energy management chip onto BST's E2 multirotor UAS for final flight testing.
 
@@ -54,19 +60,40 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - UART communication interface (/dev/ttyUSB0) between autopilot and ECSDoT chip
 - Telemetry reception → AI inference → PWM actuator output pipeline
 - Integration with SwiftPilot autopilot (pro_core_swil_MULTIROTOR)
+- Payload protocol implementation over port 55551 with GCS control via port 55555
 
-**Recent Progress:**
-- AI pipeline fully operational as of Mar 20, 2026
-- ECSDoT chip successfully connects to autopilot and receives PAYLOAD_CTRL_ACTIVE commands
-- PPO (Proximal Policy Optimization) inference running at 70 Hz
-- Model validation in SWIL (Software-In-The-Loop) environment completed
-- Real flight data model training completed; HWIL testing underway as of Apr 1
-- Model performing with minimal errors in HWIL validation
+**Recent Progress (Apr 8-16, 2026):**
+- **Hardware Bring-up (Apr 8-14):**
+  - Resolved JTAG/UART dual connection issues on Eval Board (FTDI Dual RS232-HS)
+  - Fixed Linux user permissions issue (dialout group requirement) blocking serial device access
+  - Successfully compiled and ran HelloWorld on Eval Board via Docker SDK
+  - Transitioned to Pico 2 autoboot procedure with firmware flashing
+  
+- **Payload Protocol Implementation (Apr 14-16):**
+  - Identified and corrected payload connection state cycling issue
+  - Root cause: Incorrect packet sequence understanding; AI chip was sending `PAYLOAD_CTRL_READY` too quickly after `SYSTEM_INITIALIZE`
+  - Fixed by implementing proper packet sequence per Jack Elston's protocol specification:
+    1. Continuous heartbeats (0.2s interval) from payload
+    2. Wait for `SYSTEM_INITIALIZE` request from autopilot
+    3. Respond with initialization packets
+    4. Wait for `READY` command from tablet (not from chip)
+    5. Chip can request `ACTIVE` control only after `READY` received
+    6. Send actuator packets only after autopilot confirms running state
+  - Resolved heartbeat timeout issue (reduced from higher interval to 0.2s per Jack's guidance)
+  - Fixed UART receive buffer blocking issue that prevented heartbeats during `PAYLOAD_WAITING` state (Apr 3:13 AM)
 
-**Current Work:**
-- Final HWIL validation tests with Pico 2 autoboot support in progress
-- Preparing for flight test execution with current safety-constrained autopilot
-- eMASS planning internal research study in simulation (safety-guard-free variant) as post-flight-test activity
+- **AI Model Performance Issues (Apr 14-16):**
+  - Model inference producing 4% rate of actuator values that exceed autopilot safety limits (80 violations per 2000 inferences)
+  - SHUTDOWN events occurring when AI output exceeds vrate limit (e.g., vrate = 3.01 when max is 3.0)
+  - After SHUTDOWN, tablet must resend `READY` command to reconnect
+  - Initiated model retraining for stricter adherence to safety constraints
+
+**Binaries Available (as of Apr 15-17, 2026):**
+1. **Bench Test Binary** - 40 second test with 20s @ 1300µs, 20s @ 1400µs PWM output
+2. **HWIL Gazebo Sim-Only** - AI model trained on sim-only data
+3. **HWIL Real Flight Data** - AI model trained with actual E2 flight data
+4. **Droneapp-20260402_2007** - Flight test binary with integrated AI model (latest as of Apr 17)
+5. **Test Binary** - Generic testing application
 
 ---
 
@@ -82,68 +109,16 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Mar 25: Committed to HWIL validation with sim-only model by end of day
 - Mar 27: Committed to validate AI model with minimal errors over weekend
 - Apr 5: Requested access to safety-guard-free autopilot variant for internal research study in simulation
+- Apr 6-7: Delivered bench test code and executable binaries
+- Apr 8: Assisted with Docker image access troubleshooting (token/permission verification)
+- Apr 8-9: Provided detailed hardware wiring and connection guidance
+- Apr 10: Delivered SWIL app with AI model
+- Apr 11-12: Delivered HWIL Gazebo sim-only binary with compilation instructions
+- Apr 14-15: Fixed heartbeat protocol issues (0.2s interval); implemented proper payload state machine
+- Apr 15: Identified and corrected packet sequence misunderstanding in payload protocol
+- Apr 15: Delivered updated gazebo sim-only and actual flight binaries with corrected protocol
+- Apr 15: Initiated Google Meet with Prof. Moe and Dan to discuss model training improvements
+- Apr 16-17: Delivered three updated binaries (bench test, HWIL-sim-only, droneapp) with improved stability and no autopilot violations after initial shutdowns
 
 **Pending:**
-- Complete internal AI model study in simulation (post-flight-test, per Apr 6 decision)
-
-### From Jack Elston (BST)
-
-**Completed:**
-- Feb 9: Clarified that gcsDaemon sensor errors in simulation are expected/benign
-- Mar 11: Provided candidate interface running in Gazebo sim with README instructions
-- Mar 24: Provided minor fix to third test case
-- Mar 26: Delivered detailed UART connection instructions for ECSDoT-SwiftPilot integration
-- Mar 30: Clarified that cruise speed is safety parameter, not physical limit
-- Mar 31: Confirmed no existing wind/disturbance models available in Gazebo
-- Apr 6: Confirmed prioritization of flight test completion over research needs; committed to building safety-guard-free autopilot variant after SOW completion
-
-**Pending:**
-- None explicitly stated in immediate term
-
-### From Dan Prendergast (BST)
-
-**Completed:**
-- Feb 3: Added E2 flight data logs (E20006, E20009) to shared drive; recommended using E20009 logs for final test training
-- Feb 11: Requested code review and assistance documentation
-- Feb 27: Provided 6 minutes of E2 flight data with benign and dynamic flight sections, ECS-DoT hardware mounted as per final configuration
-- Mar 20: Requested GitHub access via email dtprendergast@live.com
-- Mar 24: Provided 16-waypoint flight plan code with varying altitudes to replace test case
-
-**Pending:**
-- None explicitly stated
-
-### From Maciej (BST)
-
-**Completed:**
-- Mar 31: Provided updated battery capacity specification: 907.2 Wh (converted from Ah, recently switched units)
-
----
-
-## Client & External References
-
-### Internal Collaboration
-- **Prof. Moe** (eMASS AI) - AI model training and optimization; initiating internal research study on AI model behavior in simulation (Apr 5)
-
-### External Hardware/Software
-- **Gazebo Simulation** - SwiftPilot SWIL simulation environment
-- **GitHub Repository:** `https://github.com/emassAI/ecsdot-baremetal-sdk-blackswift`
-- **Docker Images:**
-  - `ghcr.io/emassai/ecsdot-baremetal-sdk-blackswift/ecsdot-baremetal-sdk-blackswift_amd64:release-refactor-81b5d22b` (Feb 22)
-  - `ghcr.io/emassai/ecsdot-baremetal-sdk-blackswift/ecsdot-baremetal-sdk-blackswift_amd64:release-refactor-13270a8a` (Apr 1 - with real flight data model)
-- **Vehicle Platform:** E2 multirotor UAS (two aircraft: E20006, E20009)
-- **Autopilot:** SwiftPilot (pro_core_swil_MULTIROTOR)
-- **Hardware:** Raspberry Pi Pico 2
-
----
-
-## Recurring Topics & Themes
-
-### 1. **Integration & Communication Protocol**
-- Continuous troubleshooting of UART communication and payload handshake procedures
-- Payload detection, telemetry reception, and control authority arbitration
-- GCS daemon errors and debug procedures (Feb 8-9)
-
-### 2. **Model Training & Data Collection**
-- Iterative cycles of data collection → model training → validation
-- Requests for additional varied data to improve model accuracy
-- Shift from sim-only to real flight data training (Mar
+- Update bench test binary with corrected protocol (committed for "morning" delivery, estimated Apr 15

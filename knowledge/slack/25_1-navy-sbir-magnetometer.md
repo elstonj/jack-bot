@@ -1,7 +1,7 @@
 # #25_1-navy-sbir-magnetometer
 
 ## Overview
-This channel is focused on Black Swift Technologies' Navy Small Business Innovation Research (SBIR) project for developing magnetometer-equipped aircraft systems. The project involves integrating QuSpin magnetometers with BST's aircraft platforms for magnetic signature detection applications. Key participants include Jack, Beck, Maciej, Tyler, and Sam from BST, with external collaboration from QuSpin (Jeff), Ultra Maritime (Paul), and Navy contacts. Activity spans from October 2025 through April 2026, covering Phase I completion and Phase II proposal submission and kickoff preparation.
+This channel is focused on Black Swift Technologies' Navy Small Business Innovation Research (SBIR) project for developing magnetometer-equipped aircraft systems. The project involves integrating QuSpin magnetometers with BST's aircraft platforms for magnetic signature detection applications. Key participants include Beck, Maciej, Tyler, Sam, and Alex from BST, with external collaboration from QuSpin (Jeff), Ultra Maritime (Paul), and Navy contacts. Activity spans from October 2025 through April 2026, covering Phase I completion and Phase II proposal submission and kickoff preparation.
 
 ## Key Decisions
 
@@ -21,6 +21,9 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Will plan for August TCE when system is more mature
 - Technical approach: Task O.2 will use simulated classified model to avoid SCIF/clearance requirements
 
+**April 2026:**
+- Cetacean budget reallocation: Decided to reduce Cetacean's subcontract in the Option period and reallocate ~$10K for other uses, since Cetacean is not continuing in Phase II
+
 ## Projects & Initiatives
 
 **Phase I (Completed January 2026):**
@@ -34,17 +37,20 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Contract signed March 25th, option start date April 12, 2026
 - Planned: 4 experimentation events, 6 S0-AD aircraft (4 base + 2 option)
 - Phase II kickoff meeting scheduled with Navy TPOC Angel Ruiz-Reyes for April 21, 2026
-- Kickoff brief due April 14, 2026
+- Kickoff brief due April 14, 2026 - **SUBMITTED April 14, 2026**
 
 ## Action Items & Commitments
 
-**Immediate (April 2026):**
-- Beck: Prepare and distribute Phase II kickoff brief using template (due April 14, 2026)
-- Team: Update kickoff brief template to include Option Period tasks
-- Beck: Schedule kickoff meeting with Angel for April 21, 2026 (confirmed)
+**Completed (April 2026):**
+- Beck: Prepared and distributed Phase II kickoff brief template (April 6, 2026)
+- Team: Updated kickoff brief template to include Option Period tasks
+- Maciej: Reviewed and approved submission slidedeck (April 10, 2026)
+- Alex: Reviewed and approved submission slidedeck (April 10, 2026)
+- Meredith Needham: Submitted Kickoff brief, FWA Certification, and invoices to PIEE (April 14, 2026)
 
 **Ongoing:**
-- Maciej: Review University of Michigan SOW for potential task cuts
+- Beck: Researching formal process to modify Cetacean subcontract agreement and reduce their Option period tasks
+- Maciej: Continue tracking Cetacean budget reallocation status
 - Purchase QuSpin Gen-2.0 OTFM sensor ($11,775 budgeted)
 - Complete quad chart update for Angel to share with Navy contacts
 
@@ -56,7 +62,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 ## Client & External References
 
 **Navy Contacts:**
-- Angel Ruiz-Reyes (TPOC) - primary Navy contact
+- Angel Ruiz-Reyes (TPOC) - primary Navy contact; kickoff meeting April 21, 2026
 - Tony, Marc (London TechBridge), Ed
 - Morris "DeSi" at DEVCOM
 - Megan (Navy contact for submission coordination)
@@ -66,9 +72,12 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - **QuSpin:** Jeff providing magnetometer expertise, loaning equipment, sharing Python calibration code
 - **Ultra Maritime:** Paul - Phase 2 subcontractor ($300K base, $120K option)
 - **University of Michigan:** Paul - subcontractor with budget negotiations
+- **Cetacean:** Alex coordinating on sensor array design; reducing Option period involvement, ~$10K budget being reallocated
 - **Bartington:** Sensor supplier for ground testing reference
-- **Cetacean:** Alex coordinating on sensor array design
 - **Royal Navy:** Expressed interest in magnetometer technology
+
+**Administrative:**
+- Meredith Needham (PIEE) - submitted final kickoff and FWA documentation
 
 ## Recurring Topics & Themes
 
@@ -84,6 +93,10 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Sensor testing at various distances and configurations
 - CAD design iterations for different aircraft configurations
 - Phase II kickoff planning and milestone tracking
+
+**Administrative/Contracting:**
+- Formal subcontract modifications for scope changes
+- Budget reallocation and task reduction processes
 
 ## Important Resources
 
@@ -107,10 +120,10 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 ## Recent Activity
 
 **April 2026:**
-- Beck distributed Phase II kickoff brief template on April 6th
-- Kickoff brief due April 14, 2026 (8 days prior to Navy meeting)
-- Navy kickoff meeting scheduled for April 21, 2026 with Angel Ruiz-Reyes
-- Brief template requires update to include Option Period tasks
-- Transition to Phase II active planning and formal coordination with Navy leadership
+- April 9: Beck pinged team regarding kickoff brief progress
+- April 10: Maciej and Alex confirmed satisfaction with submission slidedeck; Beck confirmed PDF will be finalized Monday before meeting
+- April 10: Maciej raised question about Cetacean budget reallocation (~$10K) since they're not continuing in Phase II; Beck confirmed formal subcontract modification process will be required
+- April 14: **Meredith Needham submitted Phase II Kickoff brief, FWA Certification, and invoices to PIEE** - all administrative Phase II startup items complete
+- Navy kickoff meeting confirmed for April 21, 2026 with Angel Ruiz-Reyes
 
-The project has successfully transitioned from Phase I completion to Phase II execution, with formal kickoff preparations underway. Strong Navy support continues with scheduled leadership meetings to align on Phase II execution strategy.
+**Project Status:** Phase II is now officially launched with all required submissions completed. Team is prepared for Navy leadership kickoff meeting on April 21. Budget optimization efforts underway regarding Cetacean subcontractor scope reduction in Option period.

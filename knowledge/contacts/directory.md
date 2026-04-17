@@ -1,6 +1,7 @@
 # BST Team Directory
 
 ## Leadership
+
 - **Jack Elston** — CEO
   - Email: elstonj@blackswifttech.com
   - Phone: 720-933-4503
@@ -49,13 +50,14 @@
   - Email: paige.smith@blackswifttech.com
   - Phone: 720-636-6707
 
-## Interns & Other
+## Interns
 
 - **Ethan Domagala** — Intern
   - Email: ethan.domagala@blackswifttech.com
   - Phone: 303-859-8141
 
 ## Unclassified
+
 - **Beck Cotter**
   - Email: beck.cotter@blackswifttech.com
 
@@ -66,6 +68,7 @@
   - Email: jameel.barkat@blackswifttech.com
 
 ## Service Accounts
+
 - **BST Technician** — Service Account
   - Email: technician@blackswifttech.com
 
@@ -81,13 +84,12 @@
 **Key Leadership:**
 - Jack Elston (CEO)
 - Maciej Stachura (CTO)
-- Meredith Needham (Office Admin)
 
 **Team Structure:**
-- **Engineering:** 7 people (4 software engineers, 1 mechanical engineer, 1 shop technician, 1 intern)
+- **Engineering:** 7 people (3 software engineers, 1 mechanical engineer, 1 shop technician, 1 intern, 1 service account)
 - **Operations & Administration:** 1 person
 - **Communications & Marketing:** 2 people
 - **Unclassified:** 3 people (titles/departments not provided)
 - **Service Accounts:** 2
 
-BST appears to be a technology-focused organization with a strong engineering core, led by a CEO and CTO. The team includes both software and mechanical engineering capabilities, with supporting roles in operations, communications, and administration.
+BST is a technology-focused organization with a strong engineering core, led by a CEO and CTO. The team includes both software and mechanical engineering capabilities, with supporting roles in operations, communications, and administration. Three team members (Beck Cotter, Daniel Prendergast, and Jameel Barkat) have no identified role or department.

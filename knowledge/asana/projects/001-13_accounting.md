@@ -4,14 +4,16 @@
 - **Client/customer:** Internal BST operations (no external client)
 - **Dollar value:** No dollar amounts identified in tasks
 - **Timeline:** Ongoing operational project with recurring monthly/quarterly/annual deadlines spanning 2026-2028
-- **Status:** Active - high completion rate (96.4%) with regular ongoing activities
+- **Status:** Active - historically high completion rate (96.4%) with 4 open tasks currently due within next 21 days
 - **Team members involved:** 
   - Meredith O'hara Needham (sole assignee for all accounting tasks)
   - References to Jack, Josh, Maciej for reporting/expense distribution
 - **Risk signals:** 
-  - **OVERDUE:** Report Wages to MyFAMLI+ (Due 2026-04-03) - critical compliance task
+  - **CRITICAL OVERDUE:** Report Wages to MyFAMLI+ (Due 2026-04-03) - compliance task overdue by 17+ days
+  - **4 open tasks due 2026-04-10 to 2026-04-24** - all currently active/in-progress during April month-end cycle
+  - "Pay Outstanding Invoices" shows "Started, incomplete" status (Due 2026-04-10) - pattern indicates recurring completion issues
+  - "Run Monthly P/L" not started (Due 2026-04-24) - critical month-end reporting task
   - Multiple upcoming quarterly and annual tax deadlines (2026-2027)
-  - Several tasks with "Started, incomplete" status (Pay Outstanding Invoices appears multiple times in this state)
   - One unassigned task (Product pricing) with no due date
 
 ## Key Deliverables & Milestones
@@ -44,13 +46,18 @@
 - DHL business account setup to optimize shipping duties/processing fees (Due 2026-04-24)
 
 ## Task Summary
-- **Total tasks:** 556 (20 open, 536 completed) - 96.4% completion rate
+- **Total tasks:** 560 (4 open, 556 completed) - 99.3% historical completion rate
+- **Current open tasks:** 4 (all assigned to Meredith O'hara Needham)
+  - Reconcile CC (part 1) - Not started, Due 2026-04-20
+  - Pay Outstanding Invoices - Started/incomplete, Due 2026-04-10 (OVERDUE)
+  - Run Monthly P/L - Not started, Due 2026-04-24
+  - Make sure all paid invoices are recorded in QB - Not started, Due 2026-04-10 (OVERDUE)
 - **All tasks assigned to:** Meredith O'hara Needham (except 1 unassigned)
 - **Custom field usage:** Heavy tracking with "Billable?: nonbillable" and "Status" fields (tracks "Not started", "Started, incomplete")
 - **Task patterns:** 
   - Strong recurring monthly/weekly rhythm (invoice checks, payroll recording, QB maintenance)
-  - Q1 tasks completed on-time on 2026-04-03
-  - Recent completion spike on 2026-04-03 suggests batch processing of month-end items
+  - Q1 tasks completed on-time on 2026-04-03 suggests batch processing capability
+  - Current 4 open tasks represent typical April month-end accounting cycle
   - Multiple duplicate task titles with different due dates indicate templated recurring tasks
 
 ## Recent Activity
@@ -61,13 +68,12 @@
 - Month-end QB recording and reconciliation tasks (batched completion)
 - Payroll recording and fundraising report updates
 
-### Upcoming Critical Deadlines (Next 30 days from 2026-04-03)
-- **OVERDUE - IMMEDIATE:** Report Wages to MyFAMLI+ (Due 2026-04-03) - requires entering Q1 wages at https://famli.colorado.gov/employers
-- **2026-04-06:** Purchases to Class and Categorize; Check Late Invoices; Make sure all paid invoices recorded in QB
-- **2026-04-10:** Pay Outstanding Invoices; Make sure all paid invoices recorded in QB
-- **2026-04-20:** Reconcile CC (part 1)
-- **2026-04-24:** Monthly P/L report; DHL business account investigation
-- **2026-04-30:** Review and fix un-categorized expenses in QB
+### Current Open Tasks - April Month-End Cycle
+- **2 tasks OVERDUE (Due 2026-04-10):**
+  - Pay Outstanding Invoices (Started, incomplete) - review unpaid invoices in Gmail folder and pay in QB
+  - Make sure all paid invoices are recorded in QB
+- **2026-04-20:** Reconcile CC (part 1) - 6 days remaining
+- **2026-04-24:** Run Monthly P/L report - 21 days remaining but "Not started" status is concern for month-end deadline
 
 ### Future Quarterly Tax Deadlines
 - Q2 Sales Tax (2026-07-09)
@@ -80,6 +86,7 @@
 ### Systems & Integrations
 - **QuickBooks:** Primary accounting system with category tracking (Category 61800 = Uncategorized Expenses flagged for review)
 - **Rippling:** Payroll processing with monthly reporting
+- **Gmail:** Unpaid invoice folder used as reference for payment workflow
 - **Google Sheets:** Shared expense tracking spreadsheet distributed to Jack, Josh, Maciej
 - **Online Tax Systems:** Boulder Online Tax System, Colorado Revenue Online, Maryland Business Express
 
@@ -98,8 +105,9 @@
 - Expense tracking spreadsheet: https://docs.google.com/spreadsheets/d/1t5BKtQgNHDP7neZd9ckM0tryijL8ZkgUJ2VoG1s4vkw/edit?usp=sharing
 - Fundraising data room for financial reports: Google Drive folder (3.0 Financial Information → 3.1 Financial Reports)
 
-### Anomalies & Notes
-- "Product pricing" task is unassigned with no due date — needs owner assignment
-- Multiple "Pay Outstanding Invoices" instances show "Started, incomplete" status — may indicate recurring issues with completion or task structure
-- Bulk completions on single dates (e.g., 2026-04-03) suggest end-of-month batch processing workflow
-- MyFAMLI+ task includes partial text cut-off in notes; full quarterly structure documented (Q1, Q2, Q3, Q4)
+### Current Concerns & Anomalies
+- **MyFAMLI+ overdue:** Task due 2026-04-03 requires immediate attention - Q1 wage reporting at https://famli.colorado.gov/employers
+- **Pay Outstanding Invoices stuck:** Shows "Started, incomplete" with notes to "Review unpaid invoices in Gmail folder and pay in Quickbooks" - suggests workflow may need review or resource constraints
+- **Month-end bunching:** All 4 open tasks cluster around typical April close (4/10, 4/20, 4/24) - workload concentration pattern
+- "Product pricing" task remains unassigned with no due date — needs owner assignment
+- Bulk completions on single dates (e.g., 2026-04-03) indicate capability for batch processing but current tasks are falling behind schedule

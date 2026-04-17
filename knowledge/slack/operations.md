@@ -3,9 +3,9 @@
 ## Overview
 The operations channel serves as Black Swift Technologies' central hub for coordinating day-to-day activities, project status updates, facility management, shipping/logistics, procurement, financial tracking, and administrative matters. It functions as a working operations log where decisions are documented, action items assigned, and resources tracked.
 
-**Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), and numerous other engineers and support staff.
+**Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination), Paige Smith (admin), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,421+ messages across multiple batches spanning from July 2020 through April 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes.
+**Activity level:** High-volume channel with 3,430+ messages across multiple batches spanning from July 2020 through April 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Recent activity (April 2026) includes AI assistant integration and ongoing project refinements.
 
 ---
 
@@ -66,7 +66,16 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **S2 shipment from NASA Ames:** Richard Kolyer shipment postponed to January 2024 (only aircraft and ground station shipping; launcher retrofitting with safety updates continues separately).
 
 ### AI Assistant Development (April 2026)
-- **April 6, 2026:** Jack Elston implementing "Jack Bot" AI assistant that reads #operations channel history to provide task summaries and refine outputs based on team feedback. Testing with Dan Prendergast's task summaries. Team encouraged to post observations for refinement.
+- **April 6, 2026:** Jack Elston implementing "Jack Bot" AI assistant that reads #operations channel history to provide task summaries and refine outputs based on team feedback.
+- **April 16-17, 2026:** Beta testing underway with team feedback. Initial bugs identified:
+  - Deadline calculation errors (showing past due dates as "2 days away" and incorrectly flagging completed projects like ADONIS final report)
+  - Task relevance issues (marking UMEX-owned tasks as BST responsibilities)
+  - Personality too critical/harsh per Paige Smith feedback
+- **April 19, 2026:** Jack Elston fixed deadline calculation bugs and improved comment picking. Preserved personality trait (team found "mean" tone helpful/appropriate). Continuing refinement cycle.
+
+### Project Status & Scheduling
+- **April 17, 2026:** Mexico flight operations moved to Fall 2026. Navy project tasks completed. (Maciej Suwinski)
+- **April 8, 2026:** Maciej Suwinski and Alex Lomis planning last-minute travel for flight testing conclusion (850pm Frontier flight possibility, decision pending test completion).
 
 ---
 
@@ -76,12 +85,4 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 #### S0-VTOL
 - **Status (Oct 2024-Jan 2025):** Voltage issue fixed and flight tested successfully. Servo control issues resolved. Hub updates completed. Motor imbalance fix in progress. **50-flight test plan underway** for delivery validation.
-- **Earlier (2023):** Multiple flight test iterations identifying pivoter failures and hub board issues. Flamewheel testing and waterproof servo selection completed. PCB design, ESC assembly design, battery enclosure design progressed.
-- **Key milestones:** Hover testing, water testing (10/3/2023), transition bug fixes, Bluebird servo testing on S1-VTOL showing good results with multiple test flights.
-
-#### S1-VTOL
-- **Status (Jan 2025):** Dronecan integration for S3 components underway. Flight testing with new setup in progress. New wing set construction required.
-- **Earlier:** VTOL rebuild with S0 hardware. Servo replacement due to crash damage. S1 airframe construction and wiring completion nearly done (as of March 2024). Remote ID testing completed.
-
-#### S2 Aircraft
-- **Status (Jan 2025):** S2 aircraft pickup by NASA Ames scheduled for Friday, December 12 (2024). One aircraft (static demo, no flying) shipped to Stanford from CU Boulder (August 2023). Another S
+- **Earlier (2023):** Multiple flight test iterations identifying pivoter failures and hub

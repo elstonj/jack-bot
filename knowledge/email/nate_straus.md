@@ -1,127 +1,103 @@
 # Nate Straus — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 500
+- **Total messages scanned:** 564 (500 previous + 64 new)
 - **Date range:** January 2025 – April 2026 (15 months)
-- **Approximate volume:** 33–35 messages per week (averaging internal + external)
+- **Approximate volume:** 35–37 messages per week (consistent with prior baseline)
+- **Recent activity (Apr 7–17, 2026):** High intensity on Stanford S2 Avionics, university partnerships, and operational planning
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Contacts (BST)
-- **Jack Elston** (elstonj@blackswifttech.com) — Appears in ~80+ messages; primary collaborator on technical projects, meetings, and operations
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — ~60+ messages; logistics, shipping, coordination with external partners
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Meeting invitations and business operations
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — Personnel/shadowing coordination
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Component sourcing and supply chain
-- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — Technical collaboration, CAD/design sharing
+- **Jack Elston** (elstonj@blackswifttech.com) — Continues as primary collaborator; now visible in Mexico Planning meetings and S2/S3 project threads; ~85+ total messages
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — Operations/logistics lead; now actively coordinating aviation insurance policy (Policy #9032844, effective 04/21/2026); ~65+ messages
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Supply chain; recent order activity on Vertiq 23-14 920kV motors
+- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — Technical collaboration; sharing USGS Volcano Gas Payload Calibration documents
+- **Daniel Prendergast, Maciej Stachura, Alex Lomis, Sam Hild** — Core team members appearing in Mexico Planning meeting invitation (Apr 13, 2026)
 
 ### Top External Contacts
-- **Tanay Topac** (tanaytopac@stanford.edu / tanaytopac@gmail.com) — Frequent, intense collaboration on "Stanford SACL | Timestamp S2 Avionics" project (appears in ~50+ messages in March–April 2026)
-- **Kevin S. Rozmiarek** (Kevin.Rozmiarek@colorado.edu) — "S3 check in" project discussions (multiple rounds Feb–Mar 2026)
-- **Isabelle Driscoll** (idriscoll@ptc.com, PTC) — Onshape licensing/discount discussions
-- **Matt Crabtree** (matt.crabtree@waveformengineering.com) — Board manufacturing ("Additional boards," "Builds for hurricane seasons")
-- **Foster Hill** (fhill@mmsolutions.biz) — Equipment cases/cases manufacturing
-- **Ken Jochim** (kjjochim@aol.com) — BAS (Boulder Aerial Society) club events and meetings
+- **Tanay Topac** (tanaytopac@stanford.edu / tanaytopac@gmail.com) — **Intensifying:** S2 Avionics collaboration dominates Apr 7–17 thread (10+ rapid exchanges); now collaborating with Stanford team members Davidi Aharon, Fu-Kuo Chang; critical technical development phase
+- **Kevin S. Rozmiarek** (Kevin.Rozmiarek@colorado.edu) — S3 project updates continue; now also coordinating on Expo event (Apr 14, 2026)
+- **Michael Rhodes** (michael.e.rhodes@colorado.edu) — Repeated contact on "Use of aircraft in demo" (Apr 7–16, starred/important); appears to be key university partner on demonstrations
+- **Brian M Argrow** (Brian.Argrow@colorado.edu) — Co-recipient on aircraft demo discussions; CU Boulder faculty
+- **Melissa Wagner** (Melissa.Wagner@colorado.edu) — Aircraft demo coordination
+- **Marco Martinez** (Marco.Martinez@colorado.edu) — **New escalation:** Facility tour request (Apr 13–14); accepted visit scheduled Apr 23, 2026, 3–4pm MDT
+- **Ken Jochim** (kjjochim@aol.com) — BAS (Boulder Aerial Society) activity; April meeting minutes and field repairs updates (Apr 13, 16)
+- **Debbie Rampy** (debbie@bolderins.com) — **New**: Insurance broker; handling aviation policy negotiations (Apr 15–17, marked IMPORTANT)
+- **Ryan Erbstoesser** (rerbstoesser@gateworks.com) — Gateworks; sales/tech support request escalation (Apr 14)
 
-### Vendors & Suppliers (Component-level)
-- **George Kusaba** (george.kusaba@amprius.com, Amprius) — Battery cells
-- **Chance Rogers** (chance.rogers@vertiq.co, Vertiq) — Motors
-- **Joshua Fromm** drives orders to: PPG (vulcanized fiber tubes), Blue Bird Technology (servos), K-mac Plastics (phenolic tubes), Mosaic Cycles (aircraft tubes)
+### Vendors & Suppliers (Recent Activity)
+- **Chance Rogers** (chance.rogers@vertiq.co, Vertiq) — Motor order (Vertiq 23-14 920kV) actively discussed (Apr 16)
+- **Eleana Zhang / eleanaxqpower0801@outlook.com** — Tailored servo systems vendor outreach (Apr 15, marked IMPORTANT)
+- **market08@jiefeigao.com** (Jiefei Gao) — PCB manufacturing partner inquiry for SwiftCore & NASA/NOAA programs (Apr 17)
 
-### External Institutions & Collaborators
-- **NASA Ames/LARC:** Isaac E. Anderson, Tyler W. Pfeifer (aircraft development partnerships)
-- **Murray State University:** Bassil El Masri, David Shelton (flight testing campaigns)
-- **University of Colorado:** Brian M Argrow, Joey Taylor (S3/E2 projects, mounting systems)
-- **UCLA:** ERTUGRUL TACIROGLU (intern inquiries)
+### External Institutions (Expanding)
+- **Stanford University:** Tanay Topac + Davidi Aharon + Fu-Kuo Chang (SACL/Timestamp S2 Avionics integration)
+- **University of Colorado Boulder:** Kevin Rozmiarek (S3), Michael Rhodes, Brian Argrow, Melissa Wagner (aircraft demo), Marco Martinez (facility tour)
+- **USGS:** Volcano Gas Payload Calibration project (shared doc Apr 13)
+- **BAS (Boulder Aerial Society):** Ken Jochim managing club operations
 
-### Newsletter/Automated (filtered signal)
-- Rippling (payroll notifications — monthly)
-- UnitedHealthcare (EOB notifications — frequent)
-- Google Meet/Gemini (meeting notes summaries)
-- Onshape alerts (design/CAD document sharing)
-- PorcupineRC, Ready Made RC (component availability alerts)
+### Newsletter/Automated (Updated)
+- **Google Gemini/Meet:** Meeting notes summaries (BST Internal Update Meeting Apr 8, 16; Mexico Planning Apr 13)
+- **Google Calendar:** Meeting acceptances and invitations
+- **Google Docs:** Ethan Domagala sharing USGS payload documents
+- **Principal Financial Group:** Dental claim processing (Apr 16)
 
 ---
 
 ## Topic Patterns
 
-### Primary Project Focus
+### Primary Project Focus (Recent Intensification)
+
 1. **"Stanford SACL | Timestamp S2 Avionics"** (S2 Aircraft Avionics System)
-   - Dominates March–April 2026 correspondence (40+ messages)
-   - Key players: Tanay Topac (Stanford), Jack Elston, Meredith Needham, David Luna
-   - Tagged consistently as IMPORTANT and starred
-   - Subject indicates active development/integration phase
+   - **Dominates Apr 7–17, 2026:** 15+ rapid-fire exchanges with Tanay Topac, Jack Elston, Stanford faculty (Davidi Aharon, Fu-Kuo Chang)
+   - Multiple exchanges per day across time zones (UTC/PDT/MDT)
+   - Consistent IMPORTANT + STARRED status
+   - **Signal:** Critical integration/technical milestone occurring; high urgency collaboration
 
-2. **S3 Project** ("S3 check in")
-   - Feb–Mar 2026 focus with Kevin Rozmiarek (CU Boulder)
-   - Multiple technical check-ins (appears in 15+ emails)
-   - Integration/cable work visible in subject lines
+2. **"Mexico Planning"** (New Meeting Series)
+   - **Scheduled:** Mon Apr 13, 2026, 1–2pm MDT (meeting time adjusted twice)
+   - **Attendees:** Full core BST team (Nate, Jack, Joshua, Ethan, Maciej, Alex, Meredith, Daniel, Sam)
+   - **Implication:** Possible deployment, field testing, or customer delivery in Mexico region
 
-3. **S0 Changes Review / Design Iterations**
-   - Feb 2026: "S0 Changes Review" meetings
-   - Design documents shared via Onshape/Google Docs
+3. **S3 Project**
+   - **Status:** Ongoing check-ins with Kevin Rozmiarek (CU Boulder)
+   - **Recent:** Apr 7, 14, 17 exchanges; appears stable (fewer rapid updates than Stanford S2)
+   - **Secondary activity:** Expo coordination mentioned (Apr 14)
 
-4. **Manufacturing & Supply Chain**
-   - "Additional boards" (circuit boards from Waveform Engineering)
-   - "Builds for hurricane seasons" (component stress testing)
-   - Component orders: batteries (Amprius), motors (Vertiq), servos (Blue Bird), tubes (PPG, K-mac)
-   - Aircraft frame materials (Mosaic Cycles, vulcanized fiber, phenolic)
+4. **Aircraft Demonstration Operations**
+   - **Subject:** "Use of aircraft in demo" — repeated Apr 7–16 between Nate, Michael Rhodes, Brian Argrow, Melissa Wagner
+   - **Status:** IMPORTANT/STARRED; appears to be active negotiation or coordination
+   - **Implication:** Demo scheduled or pending; university partners involved
 
-5. **Flight Testing & Operations**
-   - "Flight Campaign This week" (Nov 2025, Murray State University collaboration)
-   - "Ready to ship S2 back - preparations" (Nov–Dec 2025, NASA partnerships)
-   - "S2 Shipment" coordination
-   - "UAS shipping for Miami (03/25)"
+5. **USGS Volcano Gas Payload**
+   - **New project visibility:** Document shared Apr 13 by Ethan Domagala
+   - **Implication:** Payload/sensor integration work; potential customer/grant project
 
-6. **Aircraft/Vehicle-Specific**
-   - "By Light Mustang aircraft return" (Dec 2025)
-   - "Black Swift E2 mounting system" (Nov 2025)
-   - "Use of aircraft in demo" (Mar 2026)
+6. **Aviation Insurance & Regulatory**
+   - **Black Swift Technologies - Aviation Policy #9032844**
+   - **Effective date:** 04/21/2026 (policy renewal/change in progress)
+   - **Broker:** Debbie Rampy (Boulder Insurance)
+   - **Participants:** Meredith Needham (lead logistics), Jack Elston, Nate (approval authority)
+   - **Status:** Active negotiation Apr 15–17, marked IMPORTANT
+
+### Supply Chain Activity (Current)
+- **Vertiq Motors:** Vertiq 23-14 920kV orders (Joshua Fromm leading, Apr 16)
+- **PCB Manufacturing:** New inquiry from Jiefei Gao for SwiftCore & NASA/NOAA programs (Apr 17)
+- **Servo Systems:** Vendor outreach for tailored UAS servo systems (Apr 15)
 
 ### Secondary Topics
-- **Product Documentation:** "Request Manuals/handbooks for Black Swift S2" (Mar 2026)
-- **Equipment Cases:** Case manufacturers (MM Solutions, Specialty Cases, Broken Carbon repairs)
-- **Regulatory/Safety:** Boulder County Hazmat facility notifications, business appointment coordination
-- **Company Events:** "Swiftmas Save the Date" (Nov 2025), "Innovation Center Partners in Innovation Celebration" (Feb 2026)
+- **Field Repairs:** Ken Jochim update (Apr 16, marked IMPORTANT)
+- **University Partnerships:** Facility tours (Marco Martinez, CU Boulder; scheduled Apr 23)
+- **Events/Outreach:** Expo coordination with Kevin Rozmiarek (Apr 14)
+- **BAS (Boulder Aerial Society):** April meeting minutes (Al Coelho, Apr 13)
 
 ---
 
 ## Communication Patterns
 
-### Temporal Patterns
-- **Heavy weekday activity:** Emails concentrated Mon–Fri, 8am–6pm MDT/MST
-- **Rapid-fire rounds:** Evidence of same-day multiple exchanges with Stanford (Tanay Topac) across time zones (UTC/PDT/MDT), particularly Apr 3–4, 2026
-- **Off-hours/weekend:** Some personal/admin emails on weekends (e.g., Ken Jochim messages about BAS meetings)
-
-### Meeting/Internal Coordination
-- **Recurring "BST Internal Update Meetings"** — Weekly or near-weekly (visible Jan–Apr 2026), attended by ~10 core team members
-- **"Business Operations Meeting"** — Weekly Wednesday meetings (Nov 2025 onwards)
-- **Flight Testing Discussion, S0 Changes Review, S3 Integration Cable** — Project-specific meetings Feb 2026
-
-### Email Intensity
-- **Collaborative conversations:** Tanay Topac threads show 4–8 exchanges per day during active development phases
-- **Supply chain:** Joshua Fromm drives sourcing; Nate often CC'd on approvals/coordination
-- **Logistics:** Meredith Needham is primary point; Nate provides direction/approval
-
-### Mailing Lists & Group Emails
-- Jack Elston broadcasts meeting updates to ~10-person core team
-- Ken Jochim sends BAS (Boulder Aerial Society) club notices
-- Limited evidence of broad broadcast emails
-
----
-
-## Key Relationships
-
-### Closest Collaborators (by frequency & intensity)
-1. **Jack Elston** — Daily/multi-daily contact on technical projects, flight operations, and strategic initiatives; appears to be peer/co-lead
-2. **Tanay Topac** (Stanford) — Intense, focused collaboration on S2 Avionics; external academic partner with deep integration
-3. **Meredith Needham** — Operations/logistics backbone; Nate directs, she executes and coordinates with vendors/partners
-4. **Joshua Fromm** — Supply chain lead; Nate provides component/sourcing direction
-
-### External Strategic Relationships
-- **Kevin S. Rozmiarek (CU Boulder)** — University research partnership (S3 project)
-- **NASA Ames (Isaac Anderson) / NASA LARC (Tyler Pfeifer)** — Government partnership for aircraft development and testing
-- **Murray State University (Bassil El Masri, David Shelton)** — Flight testing partner for S2 operations
-- **Matt Crabt
+### Temporal Patterns (Updated)
+- **Heavy weekday activity:** Mon–Fri, 8am–6pm MDT/MST (consistent with prior)
+- **Same-day rapid exchanges:** Stanford S2 Avionics shows 4–8 

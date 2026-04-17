@@ -2,10 +2,10 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $1.00
-- **Total Expenses (Payments):** $3,357,903.29
+- **Total Expenses (Payments):** $3,404,632.27
 - **Total Purchase Orders:** $0.00
-- **Net Position:** -$3,357,902.29
-- **Date Range:** 2024-04-05 to 2026-04-06 (24 months, 1 day)
+- **Net Position:** -$3,404,631.27
+- **Date Range:** 2024-04-05 to 2026-04-17 (24 months, 12 days)
 
 ---
 
@@ -24,7 +24,7 @@
 ## Expenses by Cost Category
 
 **Note:** Transaction data does not include explicit account coding for cost categorization beyond project/class codes. The explicit account tags identified:
-- **GA-Finance & Bank Charges:** $275.75 (QuickBooks Payments fees: $25.75 + $250.00)
+- **GA-Finance & Bank Charges:** $333.00 (QuickBooks Payments fees: $25.75 + $250.00 + $7.50 + $250.00)
 
 All other transactions are recorded at project/class level without detailed cost category breakdown. Below is a **provisional categorization** based on vendor/project type and typical BST operations:
 
@@ -36,12 +36,12 @@ All other transactions are recorded at project/class level without detailed cost
 | **Subcontractors** | ~$400,000–500,000 | ~25 | University partners, research institutions, specialized vendors |
 | **Equipment** | ~$600,000–800,000 | ~20 | Navy SBIR/STTR programs, By Light Mustang ($350K), equipment-focused projects |
 | **Materials & Supplies** | ~$300,000–400,000 | ~18 | Murphy's Pond CH4, CRATER, AREN, prototype build materials |
-| **Travel** | ~$50,000–75,000 | ~8 | Phase1 Aviation ($6,105), travel/logistics for field projects |
+| **Travel** | ~$50,000–75,000 | ~8 | Phase1 Aviation ($6,105), Krateo Sky ($10,860.48), travel/logistics for field projects |
 | **Shipping/Freight** | ~$30,000–50,000 | ~5 | Implied in project expenses (not separately itemized) |
-| **Indirect Costs / G&A** | ~$275.75 | 2 | QuickBooks Payments fees ($25.75 + $250.00) |
+| **Indirect Costs / G&A** | ~$333.00 | 4 | QuickBooks Payments fees ($25.75 + $250.00 + $7.50 + $250.00) |
 | **Rent/Facilities** | ~$0 | 0 | None explicitly recorded |
 | **Other** | ~$800,000–1,000,000 | ~30 | Project pass-throughs, research partnerships, institutional charges |
-| **TOTAL** | **$3,357,903.29** | **87** | — |
+| **TOTAL** | **$3,404,632.27** | **94** | — |
 
 **⚠️ Limitation:** Without detailed account-level coding on each line item, precise cost categorization is not possible from this dataset. **To improve cost tracking, recommend:**
 1. Require all QB transactions to include account/cost-category tags
@@ -57,9 +57,9 @@ All other transactions are recorded at project/class level without detailed cost
 | (400-5) | SMM Phase II 22.4D | $949,725.10 | 7 |
 | [301-3] | S0 Hurricane Phase II 2025 | $935,473.80 | 11 |
 | [550-1] | Navy SBIR Magnetometer | $213,000.00 | 4 |
-| [550-2] | Navy STTR Hazardous Weather | $171,071.00 | 4 |
+| [550-2] | Navy STTR Hazardous Weather | $221,071.00 | 5 |
 | [043-2] | By Light Mustang | $450,000.00 | 6 |
-| [200-14] | Autonomy | $100,000.00 | 2 |
+| [200-14] | Autonomy | $156,500.00 | 4 |
 | [200-13] | CRATER (Costa Rica Volcanoes) | $80,620.37 | 4 |
 | [200-11] | NASA Persistence Demo | $109,428.00 | 4 |
 | [200-12] | AREN 2025 | $117,701.50 | 1 |
@@ -85,12 +85,14 @@ All other transactions are recorded at project/class level without detailed cost
 | [038] | University of Maryland | $1,488.00 | 2 |
 | [034] | University of Virginia | $492.50 | 1 |
 | [451] | INSTAAR Stable Isotope Lab, CU Boulder | $13,853.10 | 1 |
+| [300-3] | 2026 IDIQ | $36,000.00 | 1 |
 | (unclassified) | Prof. Fu-Kuo Change | $5,000.00 | 1 |
 | (unclassified) | Phase1 Aviation | $6,105.00 | 1 |
+| (unclassified) | Krateo Sky | $10,860.48 | 1 |
 | (unclassified) | Toyota Research Institute | $750.00 | 1 |
-| (unclassified) | Nestor Rivera | $250.00 | 1 |
-| (unclassified) | QuickBooks Payments Fees | $25.75 | 1 |
-| **TOTAL** | | **$3,357,903.29** | **87** |
+| (unclassified) | Nestor Rivera | $500.00 | 2 |
+| (unclassified) | QuickBooks Payments Fees | $333.00 | 4 |
+| **TOTAL** | | **$3,404,632.27** | **94** |
 
 ---
 
@@ -119,7 +121,4 @@ All other transactions are recorded at project/class level without detailed cost
 | 2025-10 | $242,310.00 | S0 Hurricane ($0, deferred), By Light Mustang ($100K), Navy SBIR ($49K), Navy STTR ($49K), By Light Prototype ($5,100), CRATER ($39,310) |
 | 2025-11 | $530,759.00 | S0 Hurricane ($185,850), By Light Mustang ($200K), Navy SBIR ($49K), CRATER ($39,309), NASA Persistence ($35K), Adonis ($30K) |
 | 2025-12 | $254,579.29 | By Light Mustang ($100K), S0 Hurricane ($130,020), Murphy's Pond ($24,579) |
-| 2026-01 | $251,407.00 | By Light Mustang ($150K), Navy SBIR ($24,081), Navy STTR ($27,326), Autonomy ($50,000) |
-| 2026-02 | $775.75 | Toyota Research Institute ($750), QB Fee ($25.75) |
-| 2026-03 | $54,000.00 | S0 Hurricane Phase II ($54,000) |
-| 2026-04 | $250.00 | Nestor Rivera (QB
+| 2026-01 | $251,407.00 | By Light Mustang ($150K), Navy SBIR ($24,081), Navy STTR ($27,326),

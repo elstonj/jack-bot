@@ -1,436 +1,304 @@
 # Enriched External Contacts
 
-# BLACK SWIFT TECHNOLOGIES — EXTERNAL CONTACT DIRECTORY
+# BLACK SWIFT TECHNOLOGIES — ENRICHED EXTERNAL CONTACTS
 
----
+## NASA (Multiple Centers)
 
-## NASA
+### Aerospace Research (Earth Science & Autonomy)
 
-### Key Government Contacts (Multi-Center)
+**Matthew M. Fladeland**
+- Email: matthew.m.fladeland@nasa.gov
+- Role: NASA Ames Research Center (ARC) contact
+- BST Projects: NASA SBIR autonomy (2025 Phase I, TRL-5 to TRL-7), RFI responses
+- Interaction: RFI coordination with Maciej Stachura; SwiftCore/SwiftPilot architecture reviews
+- Contact About: Flight autonomy capabilities, SBIR Phase II planning, aircraft performance data
 
-**John Glass**
-- Email: John.Glass-1@nasa.gov, John.Glass@nasa.gov
-- Role: NASA contact (center/division TBD)
-- Interaction context: Generic NASA liaison; minimal recent interaction detail
+**Jennifer L. Gustetic**
+- Email: jennifer.l.gustetic@nasa.gov
+- Role: NASA program manager
+- BST Projects: SBIR program management
+- Interaction: Proposal submissions, award notifications
+- Contact About: SBIR opportunity announcements, proposal deadlines
 
-**Daniel Goodrick**
-- Email: daniel.goodrick@nasa.gov
+**Jennifer Schnarr**
+- Email: jennifer.schnarr@nasa.gov
 - Role: NASA contact
-- Interaction context: No recent BST project involvement noted
+- BST Projects: AFA (Air Force Academy) RFI response
+- Interaction: Apr 16, 2026 RFI response coordination
+- Contact About: Academic/government partnership opportunities
 
-**Bruce D. Fisher**
-- Email: bruce.d.fisher@nasa.gov
-- Role: NASA contact
-- Interaction context: No recent interaction
-
-**Arthur B. Maples**
-- Email: arthur.b.maples@nasa.gov
-- Role: NASA contact
-- Interaction context: No recent interaction
-
-### JPL Contacts
+### JPL & Mars/Planetary Science
 
 **Andrew E. Johnson**
 - Email: Andrew.E.Johnson@jpl.nasa.gov
-- Role: JPL scientist/engineer
-- Interaction context: Limited recent activity
-
-**Tara Estlin**
-- Email: Tara.Estlin@jpl.nasa.gov
-- Role: JPL scientist
-- Interaction context: No recent BST project involvement detail
+- Role: JPL technical lead
+- BST Projects: Autonomous landing, terrain-relative navigation
+- Contact About: Vision-based autonomy, planetary landing systems
 
 **Marc Golombek**
 - Email: mgolombek@jpl.nasa.gov
-- Role: JPL scientist
-- Interaction context: No recent interaction
+- Role: JPL Mars science
+- BST Projects: Potential Mars rover/aerial platform applications
+- Contact About: Planetary science payloads
 
-### Active NASA Partnerships (Identified via Email/Slack)
-
-**Chester Dolph** (NASA LARC)
-- Role: NASA flight test coordination
-- BST projects: ET Demo Flights
-- Interaction: Flight testing partnership; part of multi-agency demo operations
-
-**Chris Meek** (NASA LARC)
-- Role: NASA LARC technical lead
-- BST projects: ET Demo Flights
-- Interaction: Scientific/technical partner on atmospheric demonstration
-
-**Wesley Enos**
-- Role: NASA contact (center TBD)
-- BST projects: Multiple proposals
-- Recent interaction: Government coordination across space/Earth observation work
-
-**Will Wade**
-- Role: NASA technical contact
-- BST projects: Flight testing and research operations
-- Interaction: Ongoing collaboration on atmospheric/climate research
-
-**Caden Kallhoff**
-- Role: NASA liaison
-- BST projects: Research partnerships
-- Interaction: Coordination on flight operations and data sharing
-
-**Hai-Nam Tran**
-- Role: NASA technical engineer
-- BST projects: Autonomous systems/navigation work
-- Interaction: Technical development support
-
-**Maithreyi Gopalakrishnan** (University of Colorado, NASA collaboration)
-- Email: Maithreyi.Gopalakrishnan@colorado.edu
-- Role: NASA Phase II academic partner
-- BST projects: PrecisionTerra (NASA Phase II proposal for wildfire/precision agriculture)
-- Interaction: Active proposal coordination; recent emails (Apr 6) showing grant development
+**T.W. Thompson**
+- Email: twthompson@jpl.nasa.gov
+- Role: JPL systems engineer
+- Contact About: Spacecraft/rover integration architecture
 
 ---
 
 ## NOAA (National Oceanic and Atmospheric Administration)
 
-### Primary NOAA Federal Contacts (GML/Atlantic Oceanographic Division)
-
-**Nikolai Pawlenko**
-- Role: NOAA Federal project coordinator
-- BST projects: ET Demo Flights (tropical storm/hurricane research atmospheric measurements)
-- Interaction: High-frequency coordination; active flight planning and data collection (March-April 2026)
-- Contact method: Email/Slack
-
-**Mark Rogers**
-- Role: NOAA Federal technical lead
-- BST projects: ET Demo Flights
-- Interaction: Mission planning and sensor validation; active March-April 2026
+### Atlantic and Hurricane Operations
 
 **Joe Cione**
-- Role: NOAA Federal scientist
-- BST projects: Hurricane research (ET Demo, tropical cyclone atmospheric measurements)
-- Interaction: Scientific lead; active operational coordination
-
-**Danielle Varwig**
-- Role: NOAA Federal engineer/operator
-- BST projects: ET Demo Flights
-- Interaction: Operational support; regular mission coordination
-
-**Laura Rock**
-- Role: NOAA Federal staff
-- BST projects: ET Demo Flights multi-agency coordination
-- Interaction: Active participant in large-scale atmospheric research operations (Mar-Apr 2026)
+- Email: joe.cione@noaa.gov
+- Role: NOAA Federal hurricane research lead
+- BST Projects: [025-2] SBIR Hurricane (S0 platform), NEOTAC (National Earth Observation Tactical Airlift Center)
+- Interaction: High-frequency event coordination, Jul 9 NEOTAC meeting, Apr 15 monthly meeting cancellation (Josh Fromm correspondence)
+- Recent Context: Leading hurricane reconnaissance missions; coordinating S0 deployment windows
+- Contact About: Hurricane field campaign scheduling, tropical cyclone operations, S0 performance validation
 
 **Jun Zhang**
-- Role: NOAA Federal scientist
-- BST projects: Navy STTR Boundary Layer; ET Demo Flights
-- Interaction: Sensor validation and turbulence measurement research
+- Email: jun.zhang@noaa.gov
+- Role: NOAA hurricane science coordinator
+- BST Projects: [025-2] Hurricane boundary layer measurements, UASD (Unmanned Aircraft Systems Division)
+- Interaction: Coordinated through Beck Cotter, Dan Prendergast on Navy STTR boundary layer project
+- Contact About: Atmospheric measurement standards, hurricane science objectives
 
-**Sara Morris**
-- Role: NOAA Federal Dragoon project lead
-- BST projects: Dragoon (observational system for atmospheric dynamics)
-- Interaction: Project leadership; introduction meetings and coordination (Mar 2026)
+**Joshua Wadler** (ERAU)
+- Email: joshua.wadler@erau.edu (NOAA assignment)
+- Role: NOAA/Embry-Riddle Aeronautical University researcher
+- BST Projects: [025-2] Navy STTR boundary layer measurements, tropical cyclone field operations
+- Interaction: Active collaboration on ocean validation, boundary layer sensor integration
+- Contact About: High-wind measurement validation, cyclone operations
 
 **Annette Hollingshead**
-- Role: NOAA Federal staff
-- BST projects: ET Demo Flights coordination
-- Interaction: Multi-agency meeting participation (Mar-Apr 2026)
+- Email: annette.hollingshead@noaa.gov
+- Role: NOAA Atlantic operations coordinator
+- BST Projects: Hurricane field operations logistics
+- Contact About: Field campaign support, coastal operations approval
 
-### Regional NOAA Contacts
+### Atmospheric & Earth Science
 
 **Wayne M. Angevine**
 - Email: wayne.m.angevine@noaa.gov
-- Role: NOAA scientist (atmospheric research)
-- Interaction context: Generic NOAA liaison
+- Role: NOAA atmospheric scientist
+- BST Projects: Atmospheric profiling, wind measurements
+- Contact About: Sensor calibration standards, atmospheric data assimilation
 
-**Peter Wolf**
-- Email: peter.wolf@noaa.gov
-- Role: NOAA contact
-- Interaction context: No recent BST project detail
+**Allison McComiskey**
+- Email: allison.mccomiskey@noaa.gov
+- Role: NOAA aerosol/atmospheric science
+- Contact About: Aerosol measurements, atmospheric chemistry payloads
 
-**Paul E. Johnston**
-- Email: paul.e.johnston@noaa.gov
-- Role: NOAA contact
-- Interaction context: Generic liaison
-
-**Gary Wick**
-- Email: gary.wick@noaa.gov
-- Role: NOAA oceanographic scientist
-- Interaction context: Potential research collaboration
-
-**Jonathan Neuhaus**
-- Email: jonathan.neuhaus@noaa.gov
-- Role: NOAA technical contact
-- Interaction context: Generic liaison
-
-**Jeff McMurphy**
-- Email: jeff.mcmurphy@noaa.gov
-- Role: NOAA staff
-- Interaction context: No recent project involvement
-
-**Treste Huse**
-- Email: treste.huse@noaa.gov
-- Role: NOAA contact
-- Interaction context: Generic liaison
-
-**Tom Evans**
-- Email: tom.evans@noaa.gov
-- Role: NOAA staff
-- Interaction context: No recent interaction
-
-**Jennifer Horsman**
-- Email: jennifer.horsman@noaa.gov
-- Role: NOAA contact
-- Interaction context: Generic liaison
+**Logan Poole**
+- Email: logan.poole@noaa.gov
+- Role: NOAA lidar/remote sensing
+- Contact About: Lidar payload integration, remote sensing applications
 
 ---
 
-## U.S. NAVY / Department of Defense
+## USGS (U.S. Geological Survey)
 
-### Navy SBIR / STTR Contacts (NAWCAD — Naval Air Warfare Center Aircraft Division)
+### Mexico Deployment (Popocatépetl Volcano)
 
-**Angel Ruiz-Reyes** (Primary Navy Technical Contact)
-- Email: angel.r.ruiz-reyes.civ@us.navy.mil
-- Title: Navy SBIR Program Manager / Technical Lead
-- BST projects: Navy SBIR Phase II — Magnetometer integration; Navy STTR Phase II — Boundary Layer Measurements
-- Role: Technical lead and primary point of contact for contract management and testing evaluation
-- Recent interaction: Active coordination on Phase II kickoff (April 2026); Option Period performance tracking
-- Contact about: Phase II technical milestones, testing schedules, performance metrics, deliverables
+**Angie Diefenbach** — **PRIMARY POC**
+- Email: adiefenbach@usgs.gov
+- Role: USGS project lead for Popocatépetl volcano monitoring
+- BST Projects: [Mexico Deployment 2026] S0 UAS for volcanic gas/thermal imaging
+- Interaction: CRITICAL escalation (marked IMPORTANT in Dan Prendergast & Josh Fromm email, Apr 16-17, 2026); multi-party coordination with CENAPRED, Mexican government, AV3 Aerovisual
+- Recent Context: Apr 16 IMPORTANT coordination email; coordinating AFAC approvals, payload integration, field logistics at active volcano
+- Contact About: Volcano monitoring objectives, RPAS deployment scheduling, CENAPRED collaboration, field site logistics
 
-**Anthony D. Brescia** (CIV)
-- Email: anthony.d.brescia.civ@us.navy.mil
-- Title: Navy contracting/administrative officer
-- BST projects: Navy SBIR Phase II (magnetometer and other programs)
-- Role: Contract administration and Phase II Option Period coordination
-- Recent interaction: Phase I Option Period kickoff meeting (Apr 21, 2026 scheduled); administrative oversight
-- Contact about: Contract administration, compliance, invoicing, Phase I Option Period execution
+**Christoph Kern**
+- Email: ckern@usgs.gov
+- Role: USGS Mexico/volcano operations lead
+- BST Projects: [Mexico Deployment 2026] S0 UAS logistics, AFAC permitting
+- Interaction: Frequent coordination with Dan Prendergast and Josh Fromm; RPAS permission request handler (Apr 15-16)
+- Contact About: Mexican aviation authorities (AFAC) liaison, field equipment logistics, partner coordination
 
-**Morris DeSimone**
-- Role: Navy testing and evaluation lead
-- BST projects: Navy SBIR Phase II — Magnetometer; TCE (Technology Capability Exchange)
-- Interaction: Testing oversight; April TCE participation (decided NOT to participate due to early development stage; targeting August TCE)
-- Contact about: Testing schedules, technical evaluation criteria, performance data
+---
 
-**Megan Sloane**
-- Role: Navy proposal/program coordinator
-- BST projects: Navy SBIR Phase II proposals
-- Interaction: Proposal coordination and package management
+## U.S. Military & Defense
 
-**Dina Marinelli**
-- Email: dina.m.marinelli.civ@us.navy.mil
-- Role: DCAA compliance and audit coordination
-- BST projects: Navy SBIR Phase II
-- Interaction: Pre-award survey audit notification (N251-016); compliance requirement (Apr 6, 2026)
-- Contact about: DCAA compliance, audit requirements, cost accounting standards
+### Navy (NAVAIR/NAWCAD)
 
-### SOCOM Contact
+**Marc A. Concilio**
+- Email: marc.a.concilio.civ@us.navy.mil
+- Role: Navy BAA program manager
+- BST Projects: [025-1] Navy SBIR Magnetometer, Navy STTR Boundary Layer, Navy MRT (Maritime Rapid Transposition)
+- Interaction: BAA response submission coordination via Beck Cotter (Apr 13-16, 2026)
+- Contact About: Navy SBIR/STTR opportunity announcements, Phase II kickoff, program reporting requirements
 
-**Evan Wolff**
+**Paul "Paul" Ultra Maritime**
+- Email: paul@ultramaritimeinc.com (private contractor supporting Navy)
+- Role: Navy magnetometer Phase II subcontractor
+- BST Projects: [025-1] Navy SBIR Magnetometer Phase II (awarded Jan 2026)
+- Interaction: Subcontract partner selected over CRT; active system integration
+- Contact About: Magnetometer sensor integration, Phase II technical milestones
+
+### Special Operations Command (SOCOM)
+
+**Michael C. Jagelewski**
+- Email: michael.c.jagelewski.civ@socom.mil
+- Role: SOCOM RFI coordinator
+- BST Projects: [S0 RFI Response] Special Operations aircraft requirement (Apr 14, 2026)
+- Interaction: S0 VTOL inquiry response via Dan Prendergast (Non-DoD Source protocol); Strategic/Operations Command interest in S3 VTOL platform
+- Contact About: Special Operations UAS requirements, extended range operations, Arctic demo interest
+
+**Evan M. Wolff**
 - Email: evan.m.wolff.mil@socom.mil
-- Title: SOCOM RFI Coordinator
-- BST projects: RFI S0 (Special Operations Command engagement)
-- Role: Requirements definition and RFI coordination
-- Recent interaction: Active drafting correspondence (Apr 6, 2026); classified/controlled information
-- Contact about: Special Operations Command requirements, RFI responses, capability demonstrations
+- Role: SOCOM operations coordinator
+- BST Projects: S0 RFI, Arctic Demo (via NextTech Solutions)
+- Interaction: S0 inquiry escalation (Apr 16, 2026)
+- Contact About: SOCOM mission requirements, demo scheduling
 
-### U.S. Air Force Contacts
+### U.S. Air Force
 
-**Lt Col Ryan A Rickert**
+**Lt Col Ryan Rickert**
 - Email: ryan.rickert.4@us.af.mil
-- Title: USAF 53 WRS/ARWO (Air Force Reserve 53rd Weather Reconnaissance Squadron / Air Reserve Wing Operations)
-- BST projects: Weather reconnaissance / atmospheric measurement systems
-- Role: USAF technical lead and site visit coordinator
-- Recent interaction: Site visit follow-up and [Non-DoD Source] communication (Apr 6, 2026)
-- Contact about: USAF weather reconnaissance requirements, demonstration scheduling, technical specifications
-
-**Victoria Wyler**
-- Email: victoria.wyler.1@us.af.mil
-- Role: USAF contact
-- Interaction context: Generic Air Force liaison
-
-**Amanda Rebhi**
-- Email: amanda.rebhi@us.af.mil
-- Role: USAF technical contact
-- Interaction context: No recent BST project detail
-
-**Kahlil Miller**
-- Email: kahlil.miller.1@us.af.mil
-- Role: USAF contact
-- Interaction context: Generic liaison
-
-**Mark Carey**
-- Email: mark.carey.4@us.af.mil
-- Role: USAF contact
-- Interaction context: No recent interaction
-
-**Heather Hanks**
-- Email: heather.hanks.2@us.af.mil
-- Role: USAF contact
-- Interaction context: Generic liaison
+- Role: 53 WRS/ARWO (Air Reconnaissance Wing, Alaskan operations)
+- BST Projects: S0 RFI Response (Apr 2026), Arctic operations interest
+- Interaction: RFI S0 coordination via Dan Prendergast (Non-DoD Source, Apr 14)
+- Contact About: Arctic operations, extended endurance requirements, 53 WRS demo opportunities
 
 ---
 
-## U.S. Geological Survey (USGS)
+## International & Commercial Partners
 
-**T.N. Williams**
-- Email: tnwillia@usgs.gov
-- Role: USGS research scientist
-- BST projects: Environmental monitoring and UAS applications
-- Interaction context: Potential volcano monitoring and environmental research partnerships
+### Krateo Sky (Strategic Partnership/Potential Acquisition)
 
-**UAS Coordination**
-- Email: uas@usgs.gov
-- Role: USGS UAS program office
-- BST projects: UAS compliance and operational coordination
-- Interaction context: UAS airspace and regulatory coordination
+**Lisa Marie Cheney** — **ESCALATING IMPORTANCE**
+- Email: LisaMarie@krateosky.com
+- Role: Krateo Sky operations/business development
+- BST Projects: [Arctic Demo in Ottawa], S3 VTOL positioning, potential employment agreement
+- Interaction: IMPORTANT exchanges Apr 17, 2026; coordinating demo logistics, performance specs brochure requests
+- Recent Context: Active engagement on Arctic Demo; strategically important for Canadian market entry and SOCOM demo
+- Contact About: Arctic demo logistics, Canadian Special Forces engagement, equipment specifications
+
+**Adria Passola**
+- Email: a@krateosky.com
+- Role: Krateo Sky chief operations/business development
+- BST Projects: [Arctic Demo in Ottawa], S3 brochure & specs, due diligence participation (KPMG DD team)
+- Interaction: Multiple IMPORTANT exchanges Apr 16-17, 2026; directly engaged with Jack Elston on performance specs
+- Recent Context: Participating in financial due diligence calls (KPMG); strategic positioning for investor meetings
+- Contact About: Demo execution, S3 performance metrics, commercial partnership terms, international market entry
+
+**Bob Smith**
+- Email: Bob@krateosky.com
+- Role: Krateo Sky commercial/technical
+- BST Projects: [Arctic Demo in Ottawa], CDIC/pricing discussions
+- Contact About: Canadian demo logistics, Canadian market partnerships
+
+**Sona Raziabeegum** — **CRITICAL: EMPLOYMENT/DCAA CONTEXT**
+- Email: sona@krateosky.com
+- Role: Krateo Sky operations (potential BST hire); DCAA compliance advisor
+- BST Projects: Cross-organizational; supporting Black Swift investor/DCAA coordination
+- Interaction: Apr 13 employment agreement discussion (Jack Elston); DCAA audit prep with Meredith Needham; KPMG due diligence team member
+- Recent Context: Non-compete & employment terms negotiated; advising on DCAA pre-award audit for Navy contract
+- Contact About: Accounting system compliance, pre-award audit readiness, employment/consulting arrangement
+
+### NextTech Solutions (Arctic Demo)
+
+**Trenton McKibben** — **IMMEDIATE CONTACT**
+- Email: Trenton.McKibben@nextechsol.com
+- Role: NextTech Solutions Arctic demo coordinator
+- BST Projects: [Arctic Demo in Ottawa] S0/S3 platform demonstration, Special Operations demo
+- Interaction: IMPORTANT Apr 17, 2026 email; also escalated S0 VTOL inquiry (Apr 16)
+- Recent Context: Coordinating demo execution in Ottawa; bridging SOCOM/NATO interest with Krateo Sky
+- Contact About: Arctic demo scheduling & logistics, SOCOM attendee coordination, follow-up demo planning
+
+### ByLight LLC (HALO SOW & MRT)
+
+**Nicholas Phillips** — **PRIMARY TECHNICAL POC**
+- Email: nicholas.phillips@bylight.com
+- Role: ByLight project manager for HALO SOW
+- BST Projects: [043-3] ByLight M2/HALO Statement of Work (active kickoff Apr 16-17, 2026)
+- Interaction: INTENSIVE Apr 16 correspondence with Beck Cotter; SOW coordination, Navy MRT submission involvement (Megan Weckter)
+- Recent Context: HALO SOW moving into execution phase; direct technical liaison for system integration
+- Contact About: HALO SOW deliverables, system integration milestones, Navy MRT coordination
+
+**Bryan Sparling**
+- Email: bryansparling@bylight.com (from #by-lite-mustang Slack)
+- Role: ByLight pilot / Yuma test coordinator
+- BST Projects: [By Light Mustang] Air Force Yuma testing, Chilli airframe flight test
+- Interaction: Weekly flight coordination; design feedback integration
+- Contact About: Mustang/Chilli flight test scheduling, aerodynamic validation results, Air Force feedback
+
+**Carrie Mahanna**
+- Email: carrie.mahanna@bylight.com
+- Role: ByLight Navy MRT technical authority
+- BST Projects: Navy MRT UAS coordination
+- Interaction: Apr 13 (Megan Weckter Navy response document sharing)
+- Contact About: Navy MRT requirements, technical approach alignment
+
+**Megan Weckter**
+- Email: megan.weckter@bylight.com
+- Role: ByLight Navy MRT submission lead
+- BST Projects: Navy MRT UAS submission coordination
+- Interaction: Apr 13, 2026 Navy response document shared with Beck Cotter
+- Contact About: Navy MRT proposal status, technical requirement clarifications
 
 ---
 
-## Federal Aviation Administration (FAA)
+## Mexico Operations Partners
 
-**UAS Help Desk**
-- Email: UAShelp@faa.gov
-- Role: FAA UAS support and guidance
-- BST projects: All UAS operations (Part 107, COAs, regulatory compliance)
-- Interaction context: General UAS operational support
+### AV3 Aerovisual (AFAC Approvals & Logistics)
 
-**333 Exemptions**
-- Email: 333exemptions@faa.gov
-- Role: FAA experimental airworthiness exemption processing
-- BST projects: Special flight authorizations for experimental aircraft (S3 VTOL)
-- Interaction context: Certification pathway for novel aircraft designs
+**Joe Villa-Michel** — **CRITICAL OPERATIONAL LEAD**
+- Email: joe@av3aerovisual.com
+- Role: AV3 Aerovisual Mexico operations director; AFAC permissions handler
+- BST Projects: [Mexico Deployment 2026] Popocatépetl volcano S0 UAS operations, AFAC approval coordination, field logistics
+- Interaction: ELEVATED Apr 15-17, 2026; Dan Prendergast primary contact; handling AFAC (Mexican civil aviation) approvals and operational permits
+- Recent Context: Leading on-the-ground coordination for volcano deployment; critical bridge between BST, USGS, Mexican government (SSPC/CENAPRED)
+- Contact About: AFAC permit status, field site logistics, payload restrictions, flight operations clearance, Mexican government liaison
 
-**9-AJV-115-EmergTech**
-- Email: 9-AJV-115-EmergTech@faa.gov
-- Role: FAA emergency/emerging technology liaison
-- BST projects: Advanced UAS technology certification and approval pathways
-- Interaction context: Policy guidance on novel autonomy and VTOL designs
+### Mexican Government (SSPC - Interior Ministry)
 
-**9-ATO-WSA-OSG-UAS**
-- Email: 9-ato-wsa-osg-uas@faa.gov
-- Role: FAA Air Traffic Organization — UAS integration office
-- BST projects: UAS airspace integration and traffic management
-- Interaction context: Operational authorization and airspace coordination
+**Paulino Alonso Rivera**
+- Email: paulino.alonso@sspc.gob.mx
+- Role: SSPC (Secretaría de Seguridad Pública y Protección Civil) government liaison
+- BST Projects: [Mexico Deployment 2026] Popocatépetl volcano RPAS operations authorization
+- Interaction: Government request coordinator for AFAC (Apr 16, 2026 correspondence)
+- Contact About: RPAS authorization, government flight permits, Popocatépetl operations approval
+
+**Constanza Rivera Pereira**
+- Email: constanza.rivera@sspc.gob.mx
+- Role: SSPC operations coordinator
+- BST Projects: [Mexico Deployment 2026] coordination
+- Contact About: Government interagency coordination, volcano monitoring collaboration
 
 ---
 
-## ACADEMIC PARTNERS
+## Academic & Research Partners
 
-### University of Colorado Boulder
+### Stanford University (S2 Avionics)
 
-**Siddharth Vedula**
-- Email: siddharth.vedula@colorado.edu
-- Role: CU Boulder researcher
-- BST projects: Research collaboration (specific project TBD)
-- Interaction context: Generic academic liaison
+**Tanay Topac** — **CRITICAL TECHNICAL LEAD**
+- Email: tanaytopac@stanford.edu / tanaytopac@gmail.com
+- Role: Stanford graduate researcher / S2 Avionics lead
+- BST Projects: [Stanford SACL S2/S3 Timestamp Avionics] development, integration testing
+- Interaction: INTENSIFYING Apr 7-17, 2026 (10+ rapid exchanges); marked IMPORTANT Apr 16; core technical collaboration with Nate Straus, involving Stanford team (Davidi Aharon, Fu-Kuo Chang)
+- Recent Context: In critical technical development phase; rapid iteration on timestamp systems for aircraft autonomy
+- Contact About: S2/S3 avionics integration, timestamp accuracy validation, Stanford-BST collaboration schedule
 
-**Pushkaraj Sahasrabudhe**
-- Email: pushkaraj.sahasrabudhe@colorado.edu
-- Role: CU Boulder academic contact
-- Interaction context: No recent BST project detail
+**Davidi Aharon**
+- Email: davidi@stanford.edu (inferred from Nate correspondence)
+- Role: Stanford S2 Avionics collaborator
+- BST Projects: [Stanford SACL S2/S3 Timestamp Avionics]
+- Contact About: Avionics technical specifications, integration milestones
 
-**Sharon Matusik**
-- Email: sharon.matusik@colorado.edu
-- Role: CU Boulder contact
-- Interaction context: Generic liaison
+**Fu-Kuo Chang**
+- Email: chang@stanford.edu (inferred)
+- Role: Stanford faculty advisor (likely)
+- Contact About: Stanford research partnership coordination
 
-**Deborah Melblom**
-- Email: deborah.melblom@colorado.edu
-- Role: CU Boulder administrator/contact
-- Interaction context: Generic liaison
+### University of Colorado Boulder (Aircraft Demo Use)
 
-**Jean Koster**
-- Email: Jean.Koster@colorado.edu
-- Role: CU Boulder researcher/contact
-- Interaction context: Generic liaison
-
-**Kevin S. Rozmiarek**
-- Email: Kevin.Rozmiarek@colorado.edu
-- Role: CU Boulder engineer/researcher
-- BST projects: S3 aircraft check-in and collaboration
-- Interaction: Regular technical collaboration (Feb-Mar 2026); Slack and email coordination with Nate Straus
-- Contact about: S3 technical updates, testing feedback, aerodynamic/control systems
-
-**Brian M. Argrow**
-- Email: (not listed in raw contacts)
-- Role: CU Boulder professor (identified via email patterns)
-- BST projects: S3/E2 projects, mounting systems development
-- Interaction: Regular academic collaboration on aircraft design and atmospheric sensing
-- Contact about: Aircraft design validation, sensor integration, research partnerships
-
-**Joey Taylor**
-- Email: (not listed)
-- Role: CU Boulder researcher (identified via Nate email)
-- BST projects: S3/E2 projects
-- Interaction: Technical collaboration on mounting systems and flight testing
-
-### Colorado State University
-
-**Rick Turley**
-- Email: rick.turley@colostate.edu
-- Role: CSU researcher/contact
-- Interaction context: Academic collaboration (generic)
-
-**Karen Mueller**
-- Email: Karen.Mueller@colostate.edu
-- Role: CSU faculty/researcher
-- Interaction context: Generic academic contact
-
-**Martha Bender**
-- Email: martha.bender@colostate.edu
-- Role: CSU researcher
-- Interaction context: Generic liaison
-
-### University of Nebraska-Lincoln
-
-**W. Woldt**
-- Email: wwoldt1@unl.edu
-- Role: UNL researcher
-- Interaction context: Generic academic liaison
-
-### University of Wyoming
-
-**Tarissa Spoonhunter**
-- Email: Tarissa.spoonhunter@uwyo.edu
-- Role: UW researcher
-- Interaction context: No recent BST project detail
-
-### University of Arizona
-
-**McClaran**
-- Email: mcclaran@u.arizona.edu
-- Role: UA researcher
-- Interaction context: Generic academic liaison
-
-### Penn State University
-
-**Johnathan Langelaan**
-- Email: jlangelaan@psu.edu
-- Role: Penn State autonomous systems researcher
-- Interaction context: Generic academic liaison
-
-### Stanford University
-
-**Tanay Topac**
-- Email: tanaytopac@stanford.edu, tanaytopac@gmail.com
-- Title: Stanford SACL Project Lead
-- BST projects: Stanford SACL | Timestamp S2 Avionics system integration
-- Role: Primary Stanford technical lead
-- Recent interaction: Intense collaboration (40+ messages, Mar-Apr 2026); daily coordination on avionics and autopilot
-- Contact context: Nate Straus and Meredith Needham primary BST contacts; frequent hardware integration meetings
-- Contact about: S2 avionics integration, autopilot firmware, timestamp systems, testing schedules
-
-**David Luna**
-- Email: dluna510@stanford.edu
-- Role: Stanford SACL project engineer
-- BST projects: Stanford S2 Avionics project
-- Interaction: Collaboration on project deliverables and technical coordination
-- Contact about: Avionics hardware, integration support, testing
-
-### University of Miami (UM Maritime)
-
-**Paul DeMond** (and team)
-- Role: UM Maritime Navy SBIR subcontractor
-- BST projects: Navy SBIR boundary layer measurements
-- Interaction: Subcontractor partnership on Phase II technical work
-- Contact about: Boundary layer sensor validation, Ocean/air-sea interaction research
-
-### Embry-Riddle Aeronautical University (ERAU)
-
-**Joshua Wadler**
-- Email: WADLERJ@erau.edu
-- Title
+**Michael Rhodes** — **PRIMARY FACILITY CONTACT**
+- Email: michael.e.rhodes@colorado.edu
+- Role: CU Boulder aircraft demo/facility coordinator
+- BST Projects: [S2/S3 Demo Use Approvals] aircraft facility access for demonstration flights
+- Interaction: MARKED IMPORTANT Apr 7-16, 2026; coordinating demo use authorization; starred in Nate

@@ -4,11 +4,11 @@
 
 This channel tracks Black Swift Technologies' grant applications, funding pursuits, and government contracting efforts across federal agencies (NASA, DOD, NOAA, USDA, etc.). It serves as the central hub for proposal submissions, funding strategy discussions, budget development, and award management.
 
-**Key Participants:** Jack Elston (primary decision-maker), Maciej (technical/proposal support), Meredith (budget/administrative), Dan Prendergast (proposal coordination), Beck Cotter (program management), Ira (ROSES/NASA work), Jeremy, Weile, and others contributing to specific proposals.
+**Key Participants:** Jack Elston (primary decision-maker), Maciej (technical/proposal support), Meredith (budget/administrative), Dan Prendergast (proposal coordination), Beck Cotter (program management), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm, and others contributing to specific proposals.
 
-**Activity Level:** High throughout the period (March 2024 - April 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time.
+**Activity Level:** High throughout the period (March 2024 - April 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Recent activity (April 2026) shows continued intensity with 4+ proposals simultaneously in development/review.
 
-**Time Range:** March 3, 2024 - April 6, 2026
+**Time Range:** March 3, 2024 - April 16, 2026
 
 ---
 
@@ -49,12 +49,28 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 - **Leadership continuity with partners** (April 2026): Confirmed BST comfortable taking lead role on unnamed initiative; scope discussions planned.
 
+- **NASA RFI submission strategy** (April 2026): Decided to submit multiple proposals (3-4) to NASA RFI due May 7:
+  1. S0 with stratospheric balloon integration (under Aeronautics Flight Accelerator)
+  2. S3 Nomad (revolutionary tech: Energy Autonomy, Environmental Hardening, Edge-AI Navigation, UTM in remote areas)
+  3. Autonomy/Avionics proposal
+  4. Potential fourth: 24-hour fire surveillance with S2 and NightFOX sensor
+  - Strategy: Draw from existing proposals (white papers, Phase II submissions, SBIR reports) to accelerate drafting using Google Notebook LM
+
+- **Navy S0-AD with ATR proposal** (April 16, 2026): Approved for submission with updated BAA number; white paper reviewed and cleared for weekend submission.
+
+- **FireScore opportunity removed** (April 14, 2026): Jack Elston directed removal from tracking due to lack of viable opportunities.
+
 ### Demo and Testing Decisions
 - **Overwater delivery demo accepted** (February 2025): Selected from 44 submissions (1 of 12); scheduled for Oahu, March 11, 2025, with S3 as preferred platform (15-30 mile range requirement). Phase 2 planned for summer 2026 field experimentation in Oceania.
 
 - **Royal Spark meeting outcome** (May 2024): Confirmed ATAK/DroneTAK integration requirement for partnership; feasible to get on base with system.
 
 - **Frank/Crimson Viper assessment** (July 2024): Frank gave 70% probability on deal from demo; explored Hawaii demo alternative as fallback option.
+
+- **NexTech Canada demo selected** (April 2026): BST selected for Ottawa demo ~May 26, 2026 (paid event, 8 vendors invited). Downselection to 3 vendors for second demo in Whitehorse later in year. Procurement potential: 180 units (60 teams × 3 platforms each). Cold weather camera integration identified as critical competitive advantage. All logistics, flight permissions, and aircraft registration to be handled by NexTech; BST responsible for piloting/operating system.
+
+### Audit & Compliance Decisions
+- **DCAA Audit notification** (April 9, 2026): Audit triggered as prerequisite for Navy SBIR Phase II funds (not required for STTR). Beck Cotter clarified this was anticipated and necessary for award; misunderstanding about accounting system readiness was corrected in DCAA response. No monetary cost unless remediation required. Also noted potential trigger of larger "Single Audit" if $750K+ in federally funded awards spent in calendar year (likely with two Navy Phase II awards).
 
 ---
 
@@ -73,40 +89,4 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 - **Status:** Submitted 3/10, NOT SELECTED (announcement 8/26)
 - **Partners:** Chris Heckman (CU) for terrain-aware flight and GPS-denied navigation
 - **Scope:** GPS-denied navigation with consideration of piggybacking on existing NASA S2 missions (Persistence demo, Costa Rica)
-- **Competition:** 1,500+ proposals submitted, ~299 selected (~20% rate)
-
-**NASA A2.02 "Adaptive and Secure Autonomy for UAS"**
-- **Status:** SELECTED for contract (announcement 7/3)
-- **Feedback:** Received by 8/26
-- **Significance:** Moves to Phase II with $1M base + $1M option (24 months each) for Navy SBIR follow-on
-
-**NASA Persistence Demo**
-- **Status:** Proposal formal request by 12/17; demo mid-January
-- **Budget:** $74.9K
-- **Payload:** NightFOX
-- **Key Contacts:** Matt Fladeland (confirmed funding for S0 balloon deployment with potential additional flight)
-
-**Kennedy Space Center StrikePad Demo**
-- **Status:** ETP due 6/9
-- **Platform:** E2 for soil moisture/strength assessment
-- **Requirements:** AES-256 encryption
-- **Contact:** Tyler Booth (KSC POC)
-
-### NOAA Programs
-
-**NOAA WPO Testbed**
-- **Status:** Submitted 12/2 as BST Prime with University of Miami, ERAU as subs
-- **Scope:** Real-time streaming of fire model data integration
-- **Budget:** $488,100-492,400 over 3 years
-- **Award Notification:** Expected late spring
-- **Team Meetings:** Weekly with Jun, Josh, Joshua (J3)
-
-**NOAA IDIQ 2026**
-- **Status:** Contract executed for $9.9M (note: submitted budget was ~$12M, discrepancy noted)
-- **Pending:** New contract for approximately 20 S0 platforms
-
-**NOAA Phase I SBIR (Wildfire)**
-- **Status:** Submitted 1/15 under topic 9.1 (Extreme Events and Cascading Hazards)
-- **Max Funding:** $190K for 6-month Phase I
-- **Framework:** NightFOX for fire spotting, soil moisture monitoring (Kyle/CSU), 3D winds for fire forecasts (James/NCAR)
-- **Letters of Support:** Troy/Joe for NightFOX payload
+- **Competition:** 1,500+ proposals submitted, ~299 selected (~
