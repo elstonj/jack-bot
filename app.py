@@ -254,12 +254,13 @@ def handle_dm(event, say, client):
         text = event.get("text", "").strip()
         if not text:
             return
-        # If it's an explicit command, route it normally
+        # Explicit commands still route, but questions/chatter stay silent —
+        # users must @mention the bot to get a response in #operations.
         text_lower = text.lower()
         if any(text_lower.startswith(p) for p in (
             "correct:", "correction:", "bug:", "feature:", "request:",
             "note:", "remember:",
-        )) or is_question(text):
+        )):
             route_message(text, say, client, event["user"], event.get("channel", ""))
         else:
             # Store as implicit feedback (silent — no response)
