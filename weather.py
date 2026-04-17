@@ -8,6 +8,52 @@ SITES = [
     {"name": "Sunny Slope Sod Farm", "lat": 40.135964, "lon": -105.069176},
 ]
 
+# Aliases people actually use when talking about each site in Slack. Keep these
+# distinctive — single-word matches like "boulder" or "sod" alone are too broad.
+SITE_ALIASES = {
+    "Boulder Model Airport": [
+        "boulder model airport", "boulder model", "model airport", "bma",
+    ],
+    "Sunny Slope Sod Farm": [
+        "sunny slope sod farm", "sunny slope", "sod farm", "the sod farm",
+    ],
+}
+
+# Words that, combined with a known site name, indicate a weather/flying-
+# conditions request.  "weather" alone is enough — see is_weather_intent().
+_WEATHER_KEYWORDS = (
+    "weather", "wind", "gust", "gusts", "gusty", "forecast", "rain",
+    "snow", "precip", "precipitation", "temperature", "temp ", "cloud",
+    "cloudy", "conditions", "fly", "flying", "flyable", "flight",
+)
+
+
+def match_sites(text: str):
+    """Return the SITES whose name or alias appears in `text` (empty if none)."""
+    tl = text.lower()
+    matched = []
+    for site in SITES:
+        aliases = SITE_ALIASES.get(site["name"], [site["name"].lower()])
+        if any(a in tl for a in aliases):
+            matched.append(site)
+    return matched
+
+
+def is_weather_intent(text: str) -> bool:
+    """Return True if `text` looks like a weather / flying-conditions request.
+
+    Matches either:
+      - the bare word "weather" anywhere in the message, OR
+      - a site name/alias combined with any weather keyword
+        (e.g. "wind at the sod farm", "can we fly at BMA today").
+    """
+    tl = text.lower().strip()
+    if "weather" in tl:
+        return True
+    if match_sites(text) and any(kw in tl for kw in _WEATHER_KEYWORDS):
+        return True
+    return False
+
 # Open-Meteo WMO weather codes
 WMO_CODES = {
     0: "Clear sky",
@@ -103,10 +149,16 @@ def format_hourly_forecast(hourly: dict) -> str:
     return "\n".join(lines)
 
 
-def format_weather() -> str:
-    """Build a formatted weather string for all flying sites."""
+def format_weather(sites=None) -> str:
+    """Build a formatted weather string.
+
+    Args:
+        sites: Optional list of SITE dicts to include. When None or empty,
+            reports on every configured site.
+    """
+    target = sites if sites else SITES
     blocks = []
-    for site in SITES:
+    for site in target:
         try:
             data = fetch_weather(site["lat"], site["lon"])
             current = data["current"]
