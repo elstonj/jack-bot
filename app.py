@@ -6,7 +6,7 @@ from slack_bolt import App
 from slack_bolt.adapter.flask import SlackRequestHandler
 from flask import Flask, request
 
-from weather import format_weather
+from weather import format_weather, is_weather_intent, match_sites
 from personality import get_response
 from research_cache import get_full_summary, get_user_summary, get_team_summary, get_per_user_sections, is_stale
 from knowledge import store_correction, store_entry, store_feedback, store_bug, store_feature, list_items
@@ -165,7 +165,9 @@ def handle_tasks_command(say, message, user_id):
 @app.event("app_mention")
 def handle_mention(event, say, client):
     text = event.get("text", "")
-    message = re.sub(r"<@[A-Z0-9]+>\s*", "", text).strip()
+    # Strip only the leading bot mention so embedded @user mentions are preserved
+    # (otherwise "correction: @Joshua has time tracked" loses its subject).
+    message = re.sub(r"^\s*<@[A-Z0-9]+>\s*", "", text).strip()
 
     route_message(message, say, client, event["user"], event.get("channel", ""))
 
@@ -190,8 +192,9 @@ def route_message(message, say, client, user_id, channel_id):
             "\n"
             "_Or just talk to me. I'll be grumpy about it._"
         )
-    elif msg_lower.startswith("weather"):
-        say(format_weather())
+    elif is_weather_intent(message):
+        matched = match_sites(message)
+        say(format_weather(sites=matched if matched else None))
     elif msg_lower.startswith("tasks"):
         handle_tasks_command(say, message, user_id)
     elif msg_lower in ("company finances", "company financial", "all finances"):

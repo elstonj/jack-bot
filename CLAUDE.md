@@ -14,6 +14,9 @@ Jack Bot is an AI-powered project management assistant for Black Swift Technolog
 - Claude synthesizes top 3 AI-interpreted priorities per person from all sources
 - Detects completed tasks via email/Slack/Drive signals; suggests closing in Asana
 - OOO users get a palm tree note instead of tasks
+- Synthesis prompt treats CORRECTION / FEEDBACK entries as absolute: if a correction says a task is done / handled externally, it's excluded from both the team summary and per-person priorities even when stale knowledge files still list it as overdue
+- `_sync_operations_feedback()` mirrors non-bot replies in #operations into `[FEEDBACK]` entries each run (dedup by Slack `ts`), so feedback persists even if the `message.channels` event isn't reaching the bot
+- Operations-channel history passed to Claude is sliced `[-30:]` (newest messages), not `[:30]`
 
 ### Knowledge Layer (`knowledge/`, `scanners/`, `scan.py`)
 - ~200+ distilled markdown files covering 11 data sources
@@ -33,10 +36,12 @@ Jack Bot is an AI-powered project management assistant for Black Swift Technolog
 - Slack Bolt app with Flask adapter for Railway
 - Unified `route_message()` handles all natural language commands
 - Commands: `help`, `tasks`, `finances`, `company finances`, `bug:`, `feature:`, `bugs`, `features`, `correct:`, `note:`, `weather`
+- Weather intent is matched on more than `startswith("weather")` — `is_weather_intent()` catches natural-language variants (e.g. "wind at the sod farm", "can we fly at BMA") and `match_sites()` filters to a specific site when one is named. Site aliases are configured in `weather.py` `SITE_ALIASES`
+- `handle_mention()` only strips the leading bot mention; embedded `@user` mentions in commands like `correct: @Joshua has time tracked` are preserved
 - Teaching moments auto-detected ("KS = Krateo Sky", "FYI...", "X stands for Y") and stored as knowledge
 - Questions route to knowledge Q&A with live search fallback
 - Non-questions route to personality chat
-- Replies in #operations (daily tasks channel) stored as implicit feedback
+- Replies in #operations (daily tasks channel) stored as implicit feedback (via real-time event + pipeline-time sync fallback)
 - Explicit commands in #operations (correct:, bug:, etc.) route normally
 - Admin only: `/refresh-tasks` (in #jackbot-knowledge)
 
@@ -111,6 +116,11 @@ See `.env.example` for required variables. Key ones:
 - Railway auto-deploys from `master` branch
 - `Procfile`: `web: gunicorn app:flask_app --bind 0.0.0.0:${PORT:-8080}`
 - Knowledge files deploy with the code via git
+
+## Local Testing
+- `python test_pipeline.py` — runs the full daily pipeline end-to-end with live Asana/Toggl/Google/Slack reads, but intercepts every Slack write (no posts to #operations, no knowledge-channel entries). Prints the team summary and per-user sections to stdout
+- `--verbose` echoes the suppressed writes so you can see what *would* have been posted (DEBUG, FEEDBACK, etc.)
+- `--full` appends Claude's raw pre-parse output
 
 ## Models Used
 - Daily synthesis: `claude-sonnet-4-20250514` (8000 max tokens)

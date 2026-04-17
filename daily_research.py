@@ -42,6 +42,15 @@ PRIORITIZATION RULES (in order of weight):
 5. Upcoming deliverables from the knowledge base
 6. Everything else by due date proximity
 
+CORRECTIONS AND FEEDBACK ARE ABSOLUTE:
+If a CORRECTION or FEEDBACK entry (or a reply in #OPERATIONS) says a task/project \
+is complete, cancelled, handled externally, or should be dropped, you MUST exclude \
+it entirely from BOTH the team summary AND the per-person priorities — even when \
+pre-distilled knowledge files still list it as open, overdue, or pending. The \
+knowledge files are refreshed periodically and may lag real-world state; live \
+corrections always win. Never reference a corrected-out item as "overdue" in the \
+team summary.
+
 COMPLETED TASK DETECTION:
 If email subjects, Slack messages, or Drive activity suggest a task is already DONE (e.g. \
 "submitted", "delivered", "sent to client", "completed", review comments indicate finished work), \
@@ -136,6 +145,80 @@ def _collect_operations_history(slack_client):
         return messages
     except Exception as e:
         return [f"[Operations channel error: {e}]"]
+
+
+def _sync_operations_feedback(slack_client):
+    """Mirror recent human replies in #operations into the knowledge channel as FEEDBACK.
+
+    The Slack app may not be subscribed to message.channels, in which case the
+    real-time event handler never fires for non-mention replies.  This pipeline-
+    time sync ensures the bot doesn't silently lose team feedback that shows up
+    as plain replies in #operations.  Dedup is by Slack ts, embedded in each
+    stored FEEDBACK entry.
+    """
+    import time
+
+    try:
+        existing = get_knowledge(slack_client, ["FEEDBACK"], days=14)
+    except Exception:
+        existing = []
+    seen_ts = set()
+    for entry in existing:
+        m = re.search(r"ts=([\d.]+)", entry.get("content", ""))
+        if m:
+            seen_ts.add(m.group(1))
+
+    try:
+        oldest = str(int(time.time() - (14 * 86400)))
+        result = slack_client.conversations_history(
+            channel=OPERATIONS_CHANNEL, limit=200, oldest=oldest,
+        )
+    except Exception:
+        return
+
+    bot_user_id = None
+    try:
+        bot_user_id = slack_client.auth_test().get("user_id")
+    except Exception:
+        pass
+
+    for msg in result.get("messages", []) or []:
+        if msg.get("bot_id") or msg.get("subtype") in (
+            "channel_join", "channel_leave", "channel_topic", "channel_purpose",
+            "bot_message",
+        ):
+            continue
+        user_id = msg.get("user")
+        if not user_id or user_id == bot_user_id:
+            continue
+        text = (msg.get("text") or "").strip()
+        if not text:
+            continue
+        ts = msg.get("ts", "")
+        if not ts or ts in seen_ts:
+            continue
+        # Skip explicit commands — those have their own storage paths
+        tl = text.lower()
+        if any(tl.startswith(p) for p in (
+            "correct:", "correction:", "bug:", "feature:", "request:",
+            "note:", "remember:",
+        )):
+            continue
+        try:
+            user_name = slack_client.users_info(user=user_id)["user"]["profile"].get(
+                "display_name"
+            ) or slack_client.users_info(user=user_id)["user"].get("real_name", "someone")
+        except Exception:
+            user_name = "someone"
+        try:
+            store_entry(
+                slack_client,
+                "FEEDBACK",
+                f"From {user_name} (ts={ts}): {text[:600]}",
+            )
+            seen_ts.add(ts)
+        except Exception:
+            continue
 
 
 def _collect_drive(users, known_file_ids=None):
@@ -286,10 +369,10 @@ def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, ca
             lines.append(doc["content"][:1500])  # trim to 1500 chars
         sections.append("\n".join(lines))
 
-    # Operations channel history
+    # Operations channel history — take the NEWEST 30 (already chronological, oldest→newest)
     if operations_history:
         lines = ["=== #OPERATIONS CHANNEL (recent task context) ==="]
-        for msg in operations_history[:30]:
+        for msg in operations_history[-30:]:
             lines.append(f"  - {msg}")
         sections.append("\n".join(lines))
 
@@ -689,6 +772,14 @@ def run_daily_pipeline(slack_client):
                 f"Knowledge channel: {total} total msgs, {len(all_entries)} parsed entries, {len(corrections)} corrections")
     except Exception as e:
         store_entry(slack_client, "DEBUG", f"Knowledge channel error: {e}")
+
+    # Mirror #operations replies → FEEDBACK entries before we read the
+    # knowledge summary, so today's prompt honors comments people made as
+    # plain replies (not just `correct:` commands).
+    try:
+        _sync_operations_feedback(slack_client)
+    except Exception as e:
+        errors.append(f"operations feedback sync: {e}")
 
     # Determine whether pre-distilled knowledge files are available.
     # When they are, we skip expensive historical fetches (full contacts,

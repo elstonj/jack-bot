@@ -104,7 +104,7 @@ Total projects scanned: 74
 | **[550-1] Navy SBIR: Magnetometer** | Dept. of Navy | $242,540 | Active (Option Period) | Sep 28, 2026 |
 | **[043-2] ByLight Mustang** | By Light IT | $450,000 | Completed | Dec 31, 2025 |
 | **[400-5] SBIR SMM DoD Phase II** | U.S. Air Force | $1,249,725 | Archived/Complete | Jul 11, 2025 |
-| **[035-1] ADONIS Unmanned Experts** | Unmanned Experts Inc. | $1,249,945 | Active (90% complete) | Feb 27, 2026 |
+| **[035-1] ADONIS Unmanned Experts** | Unmanned Experts Inc. | $1,249,945 | Completed on BST side — final invoice sent ~Apr 7, 2026; Final Report owned by UMEX, not BST | Feb 27, 2026 |
 
 ---
 
