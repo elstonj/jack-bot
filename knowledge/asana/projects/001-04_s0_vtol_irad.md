@@ -3,14 +3,15 @@
 ## Overview
 - **Client/Customer:** Multiple customers including Barbados, ERAU, NOAA, and Janet
 - **Dollar Value:** Not explicitly stated in task data
-- **Timeline:** Active project with key customer deliveries in April–June 2025; several 2026 due dates on open technical tasks indicate timeline extensions
-- **Status:** Active (High Priority) — 73% completion rate (95 completed, 35 open tasks). Hover testing initiated late February 2024; transitioning from prototype development to manufacturing/delivery phase
-- **Team Members:** Alex Lomis (primary engineer), Jack Elston (design/testing), Maciej Stachura (transition testing)
+- **Timeline:** Active project with critical customer deliveries in Q2 2025 (ERAU Apr 30, Barbados/Commercial-Ready Jun 13); extended testing phase through mid-2026
+- **Status:** Active (High Priority) — 73% completion rate (95 completed, 35 open tasks). Hover testing initiated late February 2024; transitioning from prototype development to manufacturing/delivery phase with parallel instrumented testing campaign
+- **Team Members:** Alex Lomis (primary engineer, project owner), Jack Elston (design/testing), Maciej Stachura (transition testing)
 - **Risk Signals:** 
   - 2 critical milestones unassigned with imminent due dates (ERAU Apr 30, 2025; Barbados/Commercial-Ready Jun 13, 2025)
   - Motor imbalance bug unresolved (due 2026-02-20)
   - 27 of 35 open tasks lack due dates, mostly assigned to Alex Lomis (workload concentration)
   - Build-up task unscheduled (due 2026-03-04)
+  - **NEW:** 4 major instrumented testing milestones added with 2026 deadlines, all unassigned (Apr 20, Apr 30, May 15, no date) — significant scope addition post-customer delivery phase
 
 ## Key Deliverables & Milestones
 | Milestone | Due Date | Assignee | Status |
@@ -18,24 +19,34 @@
 | **ERAU S0 Delivery** | 2025-04-30 | Unassigned | OPEN — critical |
 | **Barbados S0 Delivery (1)** | 2025-06-13 | Unassigned | OPEN — critical |
 | **First Commercially-Ready S0 VTOL** | 2025-06-13 | Unassigned | OPEN — critical |
+| **Visual Observation Bench Test** | 2026-04-20 | Alex Lomis | OPEN — 2 subtasks, both unassigned |
+| **Instrumented Bench Test** | 2026-04-30 | Alex Lomis | OPEN — 8 subtasks, all unassigned |
+| **Instrumented Flight Test** | 2026-05-15 | Alex Lomis | OPEN — 8 subtasks, all unassigned |
+| **Autopilot-Based Bench Test Rig for Future Testing** | No due date | Alex Lomis | OPEN — 2 subtasks, both unassigned |
 | **NOAA (2)** | No due date | Alex Lomis | OPEN |
 | **Janet (1)** | No due date | Alex Lomis | OPEN |
 | S0 VTOL Transition | 2025-04-11 | Jack Elston | ✅ Completed 2025-04-22 |
 | Transition Test S1 VTOL | 2024-11-22 | Maciej Stachura | ✅ Completed 2025-01-02 |
 
 ## Task Summary
-- **Total Tasks:** 130 (35 open, 95 completed)
+- **Total Tasks:** 130 (39 open, 95 completed) — *+4 new instrumented testing milestones with 20 subtasks added*
 - **Completion Rate:** 73%
 - **Tasks by Assignee:**
-  - **Alex Lomis:** 31 open (88% of open work), vast majority of completed tasks — clear workload concentration and critical bottleneck
+  - **Alex Lomis:** 31 open technical tasks (original) + 4 milestone owner assignments (instrumented testing) = primary workload concentration; 88% of open work
   - **Jack Elston:** 2 open (design updates, Remote ID solution)
-  - **Unassigned:** 2 critical milestones + motor imbalance bug fix
-- **Due Date Coverage:** Only 8 of 35 open tasks have assigned due dates; 27 tasks (77%) lack deadline visibility
+  - **Unassigned:** 2 critical Q2 2025 customer milestones + 20 instrumented testing subtasks (2026) + motor imbalance bug fix
+- **Due Date Coverage:** Only 12 of 39 open tasks have assigned due dates; 27 tasks (69%) lack deadline visibility
 
 ## Recent Activity
-**Status Update (Feb 21, 2024):** Hover testing to begin following week. Project flagged as high priority with yellow status indicator.
+**NEW (Feb 21, 2024):** Four major instrumented testing milestones added to project scope, spanning April–May 2026:
+- Visual Observation Bench Test (Apr 20)
+- Instrumented Bench Test (Apr 30) — includes eRPM sensor selection, Teensy firmware development, 1hr+ sinusoidal testing, log analysis
+- Instrumented Flight Test (May 15) — includes flight-capable integration, 30-min hover testing, parachute system investigation & integration
+- Autopilot-Based Bench Test Rig (no due date) — includes control surface encoders, current & temperature sensor investigation
 
-**Recent Completions (Sept 2025 – Jan 2025):**
+All 20 subtasks are unassigned. Combined with parallel customer delivery work (Q2 2025), this represents significant additional scope on already-concentrated workload.
+
+**Earlier Activity Summary (Sept 2024–Jan 2025):**
 - ESC programming (10-min inactivity beep removal, capacitor re-soldering) — Jul 2025
 - Kit component determination & carry case orders — May–Jul 2025
 - S0 VTOL Transition milestone — Apr 2025
@@ -49,67 +60,43 @@
 
 ### Project Phase
 - **IRAD (Internal R&D)** transitioning from prototype to early production with commercial customer deliveries Q2 2025
-- Emphasis shifting from core technical development to manufacturing optimization, assembly standardization, and regulatory compliance
+- Parallel instrumented testing campaign (2026) appears to be post-delivery validation/root-cause analysis effort, likely driven by motor imbalance bug and performance validation needs
+- Emphasis shifting from core technical development to manufacturing optimization, assembly standardization, regulatory compliance, AND long-term reliability/performance characterization
 
 ### Technical Priorities (Open Tasks)
-1. **Manufacturing & Assembly Standardization** (8 tasks)
-   - Assembly guides and wiring channel integration
-   - Drill jigs for motor boom alignment
-   - Wire harness improvements (color-coding, straightening, routing)
-   - Sonde breakout board redesign (single combined version for VTOL/Air-Deployed)
 
-2. **Electronic Integration & Packaging** (8 tasks)
-   - Autopilot mounting component (consolidate IR, Radar, Remote ID power)
-   - ESC telemetry reading (temperature monitoring)
-   - AP power connections (solid-core wire, wire bulkhead standardization with Josh)
-   - Wire splitter PCB design (tiny solderable multi-row design)
-   - ESC breakout board signal wire routing to prevent spar interference
+**Tier 1: Q2 2025 Customer Delivery (Critical Path)**
+- ERAU S0 Delivery (Apr 30, 2025) — unassigned
+- Barbados S0 Delivery (Jun 13, 2025) — unassigned
+- First Commercially-Ready S0 VTOL (Jun 13, 2025) — unassigned
+- Manufacturing & Assembly Standardization (8 tasks)
+- Electronic Integration & Packaging (8 tasks)
+- Mechanical Design Evolution (7 tasks)
+- Remote ID tag solution (Jack Elston)
 
-3. **Mechanical Design Evolution** (7 tasks)
-   - Aileron control horn mount improvement
-   - Non-yellowing nose material for S0
-   - Radar-based landing (replace laser to free fuselage space)
-   - AP mounting methods (move away from nose bonding dependency)
-   - Autopilot-to-airframe attachment improvements
-   - Dual GPS accommodation & rear motor concerns
-   - Battery pack configuration (4s2p vs 2x2 design options)
+**Tier 2: 2026 Instrumented Testing & Validation**
+- Visual Observation Bench Test (Apr 20, 2026) — 2 subtasks
+  - 15-min sinusoidal command test (visual observation)
+  - 15-min crashed flight replay (visual observation)
+- Instrumented Bench Test (Apr 30, 2026) — 8 subtasks
+  - eRPM sensor & logging device selection
+  - Teensy firmware for 9 PWM + 3 eRPM channels to SD card
+  - Hardware installation & validation
+  - 1hr+ sinusoidal test
+  - Log import & autopilot command comparison
+  - Repeat testing iteration
+- Instrumented Flight Test (May 15, 2026) — 8 subtasks
+  - Flight-capable instrumentation integration
+  - 30-min bench test with flight-capable S0
+  - Log comparison & discrepancy analysis
+  - Parachute system investigation (standalone handset trigger)
+  - Parachute integration
+  - Repeated hover testing with instrumentation & parachute
+  - Full S0 VTOL flight test with instrumentation & parachute
+- Autopilot-Based Bench Test Rig (TBD, 2026+) — 2 subtasks
+  - Automated long-endurance hardware bench testing methodology
+  - Additional sensor investigation (encoders, current, temperature)
 
-4. **Sensor & Compliance** (2 tasks)
-   - Remote ID tag solution (Jack Elston)
-   - IR surface temperature necessity evaluation
-
-5. **Unresolved Technical Issues** (2 critical)
-   - Motor imbalance bug investigation (due 2026-02-20) — **unassigned**
-   - Build-up another S0-VTOL (due 2026-03-04) — **unassigned**
-
-### Key Technical Decisions Made
-- **Servo/Actuator:** Switched to KST servo (NDAA-compliant, waterproof options identified)
-- **ESC Integration:** CAN-PWM logic consolidated onto breakout board; dual-channel capability for telemetry
-- **Power System:** Transitioned to AP power board design; evaluated Amprius cells (SA17/SA03/SA08); thermal pad on heatsink (moved from bonding)
-- **Wiring:** CAN network simplified; UART expansion for Remote ID resolved
-- **Battery:** 4s2p standard; exploring 2x2 alternative for balance without split design
-
-### Manufacturing Readiness Indicators
-- Kit component list completed (charger parts, tablet, spare props)
-- Motor mounts refined to single bushing with reamable plastic contact
-- Wing lock mechanism standardized (aligned with Josh's S3 design)
-- Carry cases ordered/adapted for new design
-- CG markings applied (+/- 10% center point limits)
-- Component sampling via CraftCloud3D in progress
-
-### Risk & Dependency Notes
-- **Critical path risk:** Two major milestones (ERAU, Barbados, Commercial-Ready) have zero assignee coverage despite Apr–Jun 2025 due dates
-- **Workload concentration:** Alex Lomis owns 88% of remaining work with no identified backup
-- **Design freeze risk:** 27 open tasks lack deadlines; unclear which technical items are prerequisites for customer deliveries vs. post-delivery refinement
-- **Regulatory compliance:** Remote ID solution in-progress (Jack); NDAA-compliant components sourced but integration ongoing
-- **Supplier dependencies:** ADONIS integration ongoing; CraftCloud3D sampling; polyjet supplier transition completed
-
-### Quality & Refinement Focus
-- Waterproofing improvements across tail servos, linkages, power button
-- Assembly ergonomics (top opening enlargement, wiring guides, straightened harnesses)
-- Thermal management (ESC overheating resolved; AP FET heating addressed)
-- Structural fit optimization (tail OD tuning, air gap creation for tail fin axle)
-
----
-
-**Overall Assessment:** S0 VTOL is in critical delivery phase. Three major customer milestones due Q2 2025 are currently unassigned while Alex Lomis carries 88% of remaining technical work. Motor imbalance bug and build-up task are deferred to 2026. Success depends on either rapid task assignment/delegation or elimination of non-critical 2025 features.
+**Tier 3: Customer Deliverables (No Due Date)**
+- NOAA (2 units) — Alex Lomis
+- Janet (1 unit

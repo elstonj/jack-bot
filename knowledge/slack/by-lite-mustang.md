@@ -13,7 +13,7 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - Bryan Sparling (ByLight pilot/contact)
 - Beck Cotter (program management, SOW coordination)
 - Dan H., Terry Tate, Spencer (contractors/specialists)
-- Alex Lomis (components/inventory)
+- Alex Lomis (components/inventory, battery design)
 
 **Activity Level:** High, covering October 2025 through April 2026, with regular flight tests, design iterations, and scope management updates.
 
@@ -52,6 +52,12 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - ADS-B units procurement decision: BST to procure and provide (added to Scope 2)
 - Additional 40 hours of engineering at Sam's rate added to Scope 2
 
+**April 17, 2026 – Battery Configuration & GTOW Confirmation**
+- Battery design finalized with three configuration options (2-pack primary, optional 3rd pack)
+- Decision: Confirm all configs below 40lbs GTOW before parts ordering
+- Battery parts ordered (April 17) from SCS and Jawstec suppliers
+- Weekly email updates to ByLight implemented (Fridays) replacing Signal messages for better tracking
+
 ## Projects & Initiatives
 
 ### Mustang 1.0 (Original Aircraft) – COMPLETED
@@ -81,6 +87,20 @@ This channel tracks the development and flight testing of the **By Light Mustang
   - Aero efficiency: 30% better than previous at 27m/s, 20% better at 30m/s
 - **Next Milestones:** 400km flight test at Sod Farm, Trillium mass model integration, battery scaling for 3.7+ hour flights
 
+### Battery Design & Pack Integration – IN PROGRESS
+- **Status:** Design finalized as of April 17, 2026; parts ordered from SCS and Jawstec
+- **Specs:**
+  - **Pack Configuration:** 2-pack primary design (950Wh capacity each, ~2.8-3kg per pack)
+  - **Secondary Option:** 3-pack config with 3rd pack in gimbal space, or alternative placement in forward payload bay
+  - **Performance:** 2-pack sufficient for 4-hour endurance target; 3rd pack provides additional capacity
+  - **Energy Density:** ~315 Wh/kg (80-85% cells, 15-20% non-cell pack weight—inefficiency due to ByLight fuselage form factor constraints)
+- **Constraints:** 
+  - Tail spar must be removed to access batteries (charge-in-place option planned as alternative)
+  - Tight fit in fuselage; may require selective material grinding
+  - Non-permanent tail attachment design required
+- **GTOW Target:** All configs must remain below 40lbs (wing load constraint)
+- **Contact:** george.kusaba@amprius.com (Amprius SA03 Pouch cells supplier)
+
 ### Chilli #2 (New Frame Build) – PLANNED
 - **Scope:** Build second airframe with CF tube fuselage (instead of fiberglass), SwiftPilot integration
 - **Status:** In planning phase, quoted $31K
@@ -89,27 +109,4 @@ This channel tracks the development and flight testing of the **By Light Mustang
   - 10 additional actuator boards
   - 2 GPS boards
   - 7 additional actuators for NASA S2 wingset
-  - Available option: Small 3-in-1 actuator boards in inventory (Alex Lomis noted as potential substitute)
-
-### Wing Development (Spencer Contractor) – IN PROGRESS
-- **Status:** Design phase, first article possible before March demo
-- **Specs:** 4-part wing design, 1.2m each, 20% smaller than Chilli A37, 16% performance improvement expected
-- **Validation:** Tested with 25lb ballast in 4G maneuvers
-- **ByLight Deliverable:** Scaled 20% larger version, finalized April earliest with IP transfer
-- **Advantage:** Can fly at 35lbs and 30m/s despite smaller footprint
-
-### M2 Program (HALO, rebranded) – NEW INITIATIVE
-- **Status:** Signed SOW as of April 7, 2026
-- **Scope Updates (April 2026):**
-  - ADS-B units procurement added (BST responsible for purchase)
-  - 40 additional engineering hours at Sam's rate
-- **Note:** Scope 2 document updated with these additions
-
-## Action Items & Commitments
-
-**Battery Procurement – IN PROGRESS**
-- **Commitment:** Order Amprius SA03 Pouch cells (400Wh/kg) for 3.7+ hour flight capability
-- **Owner:** Maciej/Ethan
-- **Details:** 100 cells total (~$10k), 50 cells per aircraft, cost ~$90-100 per pouch, 4-6 week lead time if not ordered immediately
-- **Contact:** george.kusaba@amprius.com
-- **Target:** 44-48 pouches
+  

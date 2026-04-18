@@ -4,12 +4,12 @@
 - **Client:** Overhead
 - **Active Status:** Yes
 - **Billable Status:** No
-- **Total Hours Tracked:** 13.3 hours
+- **Total Hours Tracked:** 16.6 hours
 
 ## Team Allocation
-- **Jack Elston:** 6.0 hours (45% of tracked time) — Primary contributor
-- **Stachura:** 3.8 hours (29% of tracked time)
-- **Dan:** 3.5 hours (26% of tracked time)
+- **Jack Elston:** 6.0 hours (36% of tracked time) — Primary contributor
+- **Stachura:** 7.1 hours (43% of tracked time)
+- **Dan:** 3.5 hours (21% of tracked time)
 
 ## Activity Timeline
 
@@ -20,13 +20,14 @@
 4. **RE: [EXTERNAL] Re: BlackSwift: Financial DD Kickoff Call with KPMG** — Jack Elston (1.0h)
 5. **European Delegation Discussion // Black Swift** — Jack Elston (0.5h)
 6. **Chris / Jameel / Jack** — Jack Elston (0.5h)
-7. **Untracked/No Description** — Stachura (3.8h), Dan (3.5h)
+7. **Untracked/No Description** — Stachura (7.1h), Dan (3.5h)
 
 ### Work Patterns
 - Jack Elston: Focused on business development activities including client meetings, working group participation, and financial/due diligence calls
-- Stachura & Dan: Entries lack descriptions, making work type unclear
+- Stachura: Increased contribution from 3.8h to 7.1h; entries lack descriptions, suggesting administrative work, research, or incomplete documentation
+- Dan: Consistent untracked hours with no descriptions
 
 ## Insights
 - **Work Type:** Primarily business development activities centered on pipeline development, client engagement (KS Industrial & Manufacturing), strategic partnerships (By Light collaboration), and financial due diligence processes
-- **Notable Pattern:** Jack Elston driving most documented business development efforts; significant untracked time for Stachura and Dan suggests either administrative work, preliminary research, or incomplete time entry documentation
+- **Notable Pattern:** Jack Elston driving most documented business development efforts; Stachura now represents largest share of time logged but with no entry descriptions. Suggests either supporting role activities or need for better time entry documentation
 - **Overhead Classification:** All time categorized as non-billable overhead, consistent with BD pipeline development

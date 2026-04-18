@@ -23,6 +23,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 
 **April 2026:**
 - Cetacean budget reallocation: Decided to reduce Cetacean's subcontract in the Option period and reallocate ~$10K for other uses, since Cetacean is not continuing in Phase II
+- Acoustic component approach: Continuing with separate aircraft for acoustic sensors; Navy requires drone-based solution for Phase II (April 17, 2026)
 
 ## Projects & Initiatives
 
@@ -53,6 +54,8 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Maciej: Continue tracking Cetacean budget reallocation status
 - Purchase QuSpin Gen-2.0 OTFM sensor ($11,775 budgeted)
 - Complete quad chart update for Angel to share with Navy contacts
+- Jack Elston: Evaluating potential acoustic component collaboration partner (April 17, 2026) - shared preliminary information without NDA
+- Alex Lomis: Following up on acoustic payload options for Phase II aircraft platform
 
 **Technical:**
 - Sam offered to add magnetometer support to dronecan logging program
@@ -75,6 +78,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - **Cetacean:** Alex coordinating on sensor array design; reducing Option period involvement, ~$10K budget being reallocated
 - **Bartington:** Sensor supplier for ground testing reference
 - **Royal Navy:** Expressed interest in magnetometer technology
+- **Potential acoustic partner:** Jack Elston evaluating collaboration for acoustic component (April 17, 2026); contact provided acoustic payload information; appears to be vehicle-focused company that integrates third-party sensors rather than developing their own
 
 **Administrative:**
 - Meredith Needham (PIEE) - submitted final kickoff and FWA documentation
@@ -86,6 +90,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Aircraft weight/size constraints for payload integration
 - Balancing magnetic shielding vs. calibration approaches
 - Remote data logging and WiFi control capabilities
+- Acoustic sensor integration and platform compatibility
 
 **Regular Activities:**
 - Bi-weekly internal meetings, monthly meetings with subcontractors
@@ -93,6 +98,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Sensor testing at various distances and configurations
 - CAD design iterations for different aircraft configurations
 - Phase II kickoff planning and milestone tracking
+- Vendor and partnership evaluation for complementary capabilities
 
 **Administrative/Contracting:**
 - Formal subcontract modifications for scope changes
@@ -124,6 +130,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - April 10: Maciej and Alex confirmed satisfaction with submission slidedeck; Beck confirmed PDF will be finalized Monday before meeting
 - April 10: Maciej raised question about Cetacean budget reallocation (~$10K) since they're not continuing in Phase II; Beck confirmed formal subcontract modification process will be required
 - April 14: **Meredith Needham submitted Phase II Kickoff brief, FWA Certification, and invoices to PIEE** - all administrative Phase II startup items complete
+- April 17: Jack Elston identified potential acoustic component collaboration partner; shared materials without NDA restriction. Alex Lomis noted promising acoustic payload option from this vendor. Maciej confirmed Navy requirement for drone-based acoustic solution in Phase II, ruled out vehicle-based options.
 - Navy kickoff meeting confirmed for April 21, 2026 with Angel Ruiz-Reyes
 
-**Project Status:** Phase II is now officially launched with all required submissions completed. Team is prepared for Navy leadership kickoff meeting on April 21. Budget optimization efforts underway regarding Cetacean subcontractor scope reduction in Option period.
+**Project Status:** Phase II is now officially launched with all required submissions completed. Team is prepared for Navy leadership kickoff meeting on April 21. Budget

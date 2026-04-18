@@ -11,7 +11,7 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Maciej (BST) - Vehicle parameters and specifications
 - Sergio Ruocco (eMASS AI) - Autoboot firmware expert, SDK bring-up and troubleshooting
 
-**Activity Level:** Highly active collaboration spanning February-April 2026. Initial setup in early February ramped to intensive HWIL and model training in March-April. Most recent activity (Apr 8-16, 2026) focused on hardware bring-up, SDK troubleshooting, and payload protocol debugging. Daily communication during critical phases.
+**Activity Level:** Highly active collaboration spanning February-April 2026. Initial setup in early February ramped to intensive HWIL and model training in March-April. Most recent activity (Apr 17, 2026) focused on bench test debugging. Daily communication during critical phases.
 
 ---
 
@@ -52,7 +52,7 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 ## Projects & Initiatives
 
 ### ECSDoT Integration onto E2 Aircraft
-**Status:** Final flight test preparation with active payload protocol debugging (as of Apr 16, 2026)
+**Status:** Final flight test preparation with active bench test debugging (as of Apr 17, 2026)
 
 **Scope:** Integrating eMASS AI's ECSDoT energy management chip onto BST's E2 multirotor UAS for final flight testing.
 
@@ -62,7 +62,7 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Integration with SwiftPilot autopilot (pro_core_swil_MULTIROTOR)
 - Payload protocol implementation over port 55551 with GCS control via port 55555
 
-**Recent Progress (Apr 8-16, 2026):**
+**Recent Progress (Apr 8-17, 2026):**
 - **Hardware Bring-up (Apr 8-14):**
   - Resolved JTAG/UART dual connection issues on Eval Board (FTDI Dual RS232-HS)
   - Fixed Linux user permissions issue (dialout group requirement) blocking serial device access
@@ -88,8 +88,13 @@ This channel serves as the primary collaboration hub between Black Swift Technol
   - After SHUTDOWN, tablet must resend `READY` command to reconnect
   - Initiated model retraining for stricter adherence to safety constraints
 
-**Binaries Available (as of Apr 15-17, 2026):**
-1. **Bench Test Binary** - 40 second test with 20s @ 1300µs, 20s @ 1400µs PWM output
+- **Bench Test Debugging (Apr 17):**
+  - Nikhila investigating potential race condition causing bench-test program to hang
+  - Indicates possible connectivity or state machine logic issue unrelated to simple connectivity failures
+  - Debugging underway; resolution expected same day
+
+**Binaries Available (as of Apr 17, 2026):**
+1. **Bench Test Binary** - 40 second test with 20s @ 1300µs, 20s @ 1400µs PWM output (under debugging)
 2. **HWIL Gazebo Sim-Only** - AI model trained on sim-only data
 3. **HWIL Real Flight Data** - AI model trained with actual E2 flight data
 4. **Droneapp-20260402_2007** - Flight test binary with integrated AI model (latest as of Apr 17)
@@ -118,7 +123,4 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Apr 15: Identified and corrected packet sequence misunderstanding in payload protocol
 - Apr 15: Delivered updated gazebo sim-only and actual flight binaries with corrected protocol
 - Apr 15: Initiated Google Meet with Prof. Moe and Dan to discuss model training improvements
-- Apr 16-17: Delivered three updated binaries (bench test, HWIL-sim-only, droneapp) with improved stability and no autopilot violations after initial shutdowns
-
-**Pending:**
-- Update bench test binary with corrected protocol (committed for "morning" delivery, estimated Apr 15
+- Apr 16-17: Delivered three updated binaries (bench test, HW

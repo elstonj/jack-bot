@@ -1,84 +1,96 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 610 (original 510 + 100 new)
-- **Date range:** March 20 – April 17, 2026 (approximately 29 days)
+- **Total messages scanned:** 632 (original 610 + 22 new)
+- **Date range:** March 20 – April 18, 2026 (approximately 30 days)
 - **Approximate volume:** ~21 messages/day on average; continues highly active with 5-10 major concurrent workstreams
-- **Notable spike:** April 16-17 shows concentrated activity across Mexico deployment, HALO SOW, Krateo partnership, Genesis Phase I, and NASA RFI coordination
+- **Notable activity:** April 17 remains peak coordination day; April 18 shows continued momentum with simulation updates, government RFI opportunities, and employment agreement finalization
 
 ## Key Correspondents
 
 ### Top Internal Contacts (Black Swift Technologies)
-- **Jack Elston** (elstonj@blackswifttech.com) — Remains dominant; now appears on Mexico/Popocatépetl deployment, Arctic Demo coordination, NASA RFI responses, Krateo performance specs, NOAA presentation opportunity, HALO SOW escalation, and DOE/Genesis Phase I discussions; clear decision-making authority
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Very frequent; now actively managing Mexico deployment logistics (AFAC approvals, Joe Villa-Michel coordination), simulation coordination with NanoVeu, S3 VTOL inquiry responses
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — Regular; Genesis Phase I BNL coordination, HALO SOW negotiation, SBIR/STTR topic evaluation
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — Admin/procurement; now handling MP JET parts (Alerio Tech), gimbal specs (Vantage Robotics), venture diligence reports, CU Boulder relationships
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — New contact; appears on Mexico deployment and NOAA/BST monthly coordination
-- **Nathaniel Straus** (nate.straus@blackswifttech.com) — New contact; coordinating aircraft demo use with University of Colorado; appears to handle demo logistics
+- **Jack Elston** (elstonj@blackswifttech.com) — Dominates; April 17 shows concentrated forwarding activity on Arctic Demo (Krateo), NOAA presentation coordination, Mexico deployment escalation, Genesis Phase I (with Gijs de Boer), and Krateo performance specs exchange; clear decision-making and external-facing authority
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Very frequent; now actively managing simulation coordination with NanoVeu (Nikhila Ravikumar, Tom Wilp) in parallel with operational deployments; appears on Krateo Arctic Demo forwarding
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — Regular; Genesis Phase I BNL coordination (appears on Gijs de Boer email thread April 17); HALO SOW negotiation continues
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — Admin/procurement; handling component orders and vendor coordination
 
 ### Top External Contacts
 
-**Krateo Sky (Escalating to employment/commercial phase):**
-- Adria Passola (a@krateosky.com) — Now directly exchanging performance specs brochures with Jack Elston; marked IMPORTANT
-- Bob Smith (Bob@krateosky.com), Lisa Marie Cheney (LisaMarie@krateosky.com) — Arctic Demo in Ottawa coordination (April 17); Maciej drafting intro to HALO Aerospace counter-UAS with Krateo team
-- Sona Raziabeegum (sona@krateosky.com) — Employment agreement and non-compete discussions with Jack Elston (April 13); indicates potential key hire from Krateo
+**Krateo Sky (Escalating — Now Direct Performance Specs Exchange):**
+- Adria Passola (a@krateosky.com) — Now directly exchanging performance specs brochures with Jack Elston (April 17, marked IMPORTANT); indicates formal business discussion phase
+- Bob Smith (Bob@krateosky.com), Lisa Marie Cheney (LisaMarie@krateosky.com) — Arctic Demo in Ottawa coordination (April 17 forward from Jack Elston); Maciej included on forward
 
-**Mexico/Popocatépetl Deployment (New Major Project):**
-- Christoph Kern (ckern@usgs.gov) — USGS lead; coordinating RPAS permission requests, UAS deployment at Popocatépetl volcano
-- Paulino Alonso Rivera (paulino.alonso@sspc.gob.mx), Constanza Rivera Pereira (constanza.rivera@sspc.gob.mx) — Mexican government (SSPC) coordination on volcano deployment
-- Angie Diefenbach (adiefenbach@usgs.gov) — USGS multi-agency coordination
-- Joe Villa-Michel (joe@av3aerovisual.com) — AV3 Aerovisual; handling AFAC approvals and operational logistics for Mexico deployment
-- Daniel Prendergast forwarding AFAC information and coordinating with CENAPRED (Mexican volcano monitoring)
-
-**Government/Military:**
-- Matthew Fladeland (matthew.fladeland@nasa.gov) — NASA Ames RFI inquiry; Jack Elston responding
-- Ashley Hann (ashley.hann@noaa.gov) — NOAA Uncrewed Systems Industry Engagement Forum (April 29); Jack Elston accepting presentation opportunity with Maciej CC'd
-- Joe Cione (joe.cione@noaa.gov) — NOAA Federal; NEOTAC (New Observational Technologies and Advanced Conops) meeting July 9; monthly NOAA/BST coordination
-- Michael C. Jagelewski (michael.c.jagelewski.civ@socom.mil) — USSOCOM RFI S0 coordination
-- Evan M. Wolff (evan.m.wolff.mil@socom.mil) — USSOCOM coordination
-
-**Legal/Finance:**
-- Ryan Sykora, Nadia Bryan, Niki Schwab (kofirm.com) — K&O Firm legal counsel; Black Swift purchase agreement negotiations and document coordination (marked IMPORTANT, high-frequency)
-- Ed Kase (ekaseconsulting.com) — DoW SBIR/STTR authorization and topic release coordination
-
-**Academia/Research:**
-- Gijs de Boer (gdeboer@bnl.gov), Nathan Urban (nurban@bnl.gov) — Brookhaven National Lab; Genesis Mission Phase I collaboration (DOE project)
-- Brian M Argrow (Brian.Argrow@colorado.edu), Michael Rhodes (michael.e.rhodes@colorado.edu), Melissa Wagner (Melissa.Wagner@colorado.edu) — University of Colorado; coordinating aircraft use in demo
-- Joshua Wadler (wadlerj@erau.edu) — Embry-Riddle Aeronautical University; NOAA/ET collaboration
-- Tanay Topac (tanaytopac@stanford.edu) — Stanford SACL; S2 Avionics timestamp coordination
-- David Richter (David.Richter.26@nd.edu) — Notre Dame SASCWATCH group quarterly reporting
-
-**NanoVeu (Simulation):**
-- Tom Wilp (tom.wilp@nanoveu.com) — Heavy coordination on simulation; multiple back-and-forth exchanges April 14-17
-- Nikhila Ravikumar (Nikhila@nanoveu.com), Sergio Ruocco (sergio@nanoveu.com) — Simulation status updates
+**Government/Military (RFI/Opportunities Expanding):**
+- Ashley Hann (ashley.hann@noaa.gov) — NOAA Uncrewed Systems Industry Engagement Forum presentation opportunity (April 29); Jack Elston confirming participation April 17 with Maciej CC'd; marked IMPORTANT
+- Gijs de Boer (gdeboer@bnl.gov) — Brookhaven National Lab; Genesis Phase I active coordination (April 17 email thread with Jack Elston, Beck Cotter, Maciej); marked IMPORTANT; Maciej sending direct response (April 17, 15:26)
+- Armen Keuleyan (armen@vantagerobotics.com) — Now forwarding SUAS capability RFI for F.E. Warren AFB market research opportunity directly to Maciej (April 17, marked IMPORTANT); indicates new federal opportunity pipeline
 
 **Hardware/Components:**
-- Oier Penagaricano (oier@aleriontec.com) — Alerio Tech; MP JET Parts procurement
-- Armen Keuleyan (armen@vantagerobotics.com) — Vantage Robotics; Axiom Greenseer gimbal specs
+- Jawstec (info@jawstec.com) — Order #68200 received notification (April 17); new vendor appearing in procurement chain
 
-**HALO Aerospace:**
-- Daniel Hesselius (daniel.hesselius@halo-aero.com), Jack Briggs (jack.briggs@halo-aero.com) — HALO Aerospace counter-UAS introduction drafted by Maciej to Krateo team
+**New Contact — Employment/Contractor:**
+- Corinne Spencer (corinnespencer101@gmail.com) — Employment Agreement exchange; replied to Maciej directly April 17 (marked IMPORTANT, 14:24 PDT); appears to be near finalization
 
-**Third-party:**
-- Corinne Spencer (corinnespencer101@gmail.com) — Employment agreement exchange (April 16); appears to be prospective employee hire or contractor
+**Service Providers (Operational):**
+- Toggl Track (support@track.toggl.com) — Time tracking system active; April 18 notification
+- United Airlines (refunds@united.com) — Travel refund request; April 18 (indicates recent travel, likely Mexico deployment related)
 
 ## Topic Patterns
 
-### Active Projects (Confirmed/Updated)
+### Active Projects (Updated)
 
-**Genesis Phase I (DOE) — Now Visible:**
-- Google Docs collaboration shared (April 16) with Brookhaven National Lab (Gijs de Boer, Nathan Urban)
-- Beck Cotter actively coordinating with BNL; document titled "Genesis Mission Phase I"
-- Google Gemini notes titled "Genesis BNL/BST" (April 17)
-- Indicates active Phase I execution with DOE partner at national lab
+**Genesis Phase I (DOE) — Phase I Active/Reporting:**
+- Google Gemini notes titled "Genesis BNL/BST" (April 17) created by Maciej; indicates active documentation
+- Direct email exchange between Maciej and Gijs de Boer (BNL) April 17, 15:26 responding to Jack Elston's message; Beck Cotter and Jack Elston also coordinating
+- Marked IMPORTANT throughout thread; suggests reporting cycle or Phase I milestone
 
-**Mexico/Popocatépetl Deployment — Major New Operational Project:**
-- Multi-agency coordination: Jack Elston, Daniel Prendergast, Maciej, Beck Cotter, Joshua Fromm on April 16 forwarded from Angie Diefenbach (USGS)
-- AFAC (Mexican aviation authority) approvals required for RPAS deployment at volcano
-- Involves Mexican government (SSPC), USGS, CENAPRED (volcano monitoring), AV3 Aerovisual logistics
-- Christoph Kern (USGS) managing permissions across multiple Mexican agencies
-- Multi-day coordination sequence April 14-16 indicates imminent operational phase
+**Mexico/Popocatépetl Deployment — Operational (Likely Underway):**
+- Jack Elston responding to Angie Diefenbach (USGS) April 17, 11:20 on Mexico Deployment (marked IMPORTANT)
+- United Airlines refund request (April 18) suggests travel component finalized or rerouted; timing consistent with deployment execution
+- Project remains active with multi-agency coordination (USGS, Mexican government, AV3 logistics)
 
-**ET Demo Flights — Continues:**
-- Joe Cione (NOAA) sending updated invitation for NEOTAC meeting (July 9); indicates ongoing scientific coordination
-- NOAA/BlackSwift monthly coordination active (April 17
+**Arctic Demo (Krateo) — Confirmed Imminent:**
+- Jack Elston forwarding "Arctic Demo in Ottawa" to Krateo team (Bob Smith, Lisa Marie Cheney, Adria Passola) and internal team (Maciej, Daniel Prendergast, Beck Cotter) April 17, 08:49 (marked IMPORTANT)
+- Indicates scheduled demo activity in Canada; Krateo partnership now operationalized
+
+**ET Demo Flights / NOAA Coordination:**
+- NOAA presentation opportunity April 29 at Uncrewed Systems Industry Engagement Forum confirmed (April 17); Jack Elston and Maciej participating; Ashley Hann coordinating
+- Continues scientific engagement trajectory
+
+**NanoVeu Simulation — Active Execution:**
+- Multiple IMPORTANT-marked emails on "Simulation" April 17-18 between Daniel Prendergast, Nikhila Ravikumar, and Tom Wilp
+- Back-and-forth sequence suggests active problem-solving or status updates on simulation work
+- Likely supporting operational deployments (Genesis, Mexico, Arctic Demo)
+
+**F.E. Warren AFB SUAS Opportunity — New RFI:**
+- Armen Keuleyan (Vantage Robotics) forwarding "Sources Sought / Request for Information: SUAS Capabilities for F.E. Warren AFB (Market Research)" to Maciej directly April 17 (marked IMPORTANT)
+- Indicates new federal capture opportunity; market research phase suggests early pipeline
+
+**Patent Issuance:**
+- Geoff (geodronez@gmail.com) notifying Jack Elston of issued patent "GSC-18996-1" April 17 (marked IMPORTANT); Maciej not directly on thread but likely stakeholder
+
+## Communication Patterns
+
+### Timeline Observations
+- **April 17:** Peak activity day with 11+ emails spanning Genesis, Krateo Arctic Demo, NOAA presentation, Mexico deployment, simulation, F.E. Warren AFB RFI, and employment agreement finalization
+- **April 18:** Continued momentum with simulation updates and refund processing
+- **Time zones:** Mix of UTC, PDT (-6/-7), EDT (-4); indicates distributed team and international coordination (Canada, Mexico, national labs)
+
+### Communication Type Distribution
+- **Internal forwarding:** Jack Elston heavily forwarding external partnerships and federal opportunities to Maciej, Daniel Prendergast, Beck Cotter (broadcast pattern)
+- **Direct outbound from Maciej:** Genesis Phase I response to Gijs de Boer; suggests technical/scientific correspondence
+- **Automated/Service emails:** Toggl Track, United Airlines refunds, Jawstec order confirmation, Gemini notes (operational support)
+
+## Key Relationships
+
+### Closest Internal Collaborators (by frequency and scope)
+1. **Jack Elston** — Decision-maker and primary interface for all major partnerships (Krateo, NOAA, federal RFIs, Mexico deployment); Maciej CC'd on strategic forwarding and briefed on government opportunities
+2. **Daniel Prendergast** — Co-operator on simulation execution and deployment logistics; appears to handle technical coordination with vendors (NanoVeu)
+3. **Beck Cotter** — Genesis Phase I partnership lead with Brookhaven; national lab liaison
+
+### Key External Relationships (Strategic/Operational)
+
+**Government/Federal (Expanding Pipeline):**
+- Gijs de Boer (BNL/DOE) — Phase I active partnership; direct technical correspondence with Maciej
+- Ashley Hann (NOAA) — Public-facing opportunity (April 29 presentation); ongoing uncrewed systems engagement
+- Armen Keuleyan forwarding federal opportunities — indicates V

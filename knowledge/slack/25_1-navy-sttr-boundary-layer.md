@@ -10,6 +10,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **January 2026**: Phase II proposal and final report submitted January 5, 2026 (early to avoid server issues)
 - **March 2026**: Modified Option Phase tasks approved with 4 deliverables through September 2026
 - **March 2026**: Reorganized technical objectives with calibration/validation as priority #1
+- **April 17, 2026**: Confirmed RH (relative humidity) sensor error resolved with post-processing fix applied to all current data; real-time correction now implemented in firmware
 
 ## Projects & Initiatives
 **Navy STTR Boundary Layer Measurements Project (Award: N6833535C0270)**
@@ -19,23 +20,25 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - Current focus: S0 sensor characterization, turbulence measurements, wave height detection, air-sea interactions
 
 **Technical Development Areas:**
-- S0 sensor suite: PTH at 5Hz, wind at 100Hz
+- S0 sensor suite: PTH (Vaisala) at 5Hz, wind at 100Hz, additional static pressure sensor at 100Hz
 - Cold weather specifications: -40°C to -60°C operation capability
 - De-ice heater development for standalone system with COTS process controller
 - Ocean validation missions in 4 phases testing sensing, algorithms, wave height, QC, and AI autonomy
+- **Humidity Sensor Correction**: Vaisala humidity error identified and corrected with post-processing fix; real-time correction now active in firmware (as of April 17, 2026)
 
 **Active Field Operations (April 2026):**
 - S0 UAS ocean deployment missions coordinated through NOAA AOC (Aviation Operations Center) in Lakeland
 - IRC chat coordination system for real-time field communication during flights and landing operations
+- 5 test flights completed during validation window; data recovery and post-processing in progress
 
 ## Action Items & Commitments
 **Active Commitments:**
 - **Beck Cotter**: Coordinate stakeholder engagement, obtain letters of support, schedule TPOC meetings
-- **Maciej**: Complete sensor characterization analysis, lead proposal writing, implement humidity sensor corrections; coordinate S0 landing operations during field missions
-- **Josh Wadler**: Develop turbulence metrics code, support data assimilation efforts, coordinate postdoc budget
+- **Maciej**: Complete sensor characterization analysis, lead proposal writing, implement humidity sensor corrections; coordinate S0 landing operations during field missions; **post-process data from 5 test flights; resolve multi-rate sensor data assembly for WMO format compatibility**
+- **Josh Wadler**: Develop turbulence metrics code, support data assimilation efforts, coordinate postdoc budget; **obtain post-processed data from 5 test flights; determine preferred data format for multi-rate sensor outputs**
 - **Jun Zhang**: Lead data assimilation work with Navy model, budget postdoc position; troubleshoot IRC connectivity issues with Lakeland AOC
 - **Dan Prendergast**: Complete CONOPS section development
-- **Joshua Fromm/Joe**: Support IRC connectivity and field operations coordination
+- **Joshua Fromm/Joe**: Support IRC connectivity and field operations coordination; **provide status updates on data corrections and validation**
 
 **Phase I Option Deliverables:**
 - Phase II Cal/Val Plan (due May 20)
@@ -62,6 +65,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **Technical Performance**: S0 sensor characterization and validation against established platforms
 - **Environmental Requirements**: Cold weather performance specifications and de-icing capabilities  
 - **Data Quality**: Humidity sensor corrections, turbulence algorithms, automated QC processes
+- **Multi-Rate Sensor Data Management**: Handling different sampling rates (5Hz PTH, 100Hz wind, 100Hz static pressure) in WMO-compliant formats
 - **Validation Planning**: Ocean arrays, NOAA buoys, tower comparisons for Phase II testing
 - **Stakeholder Engagement**: Regular TPOC meetings, letter of support collection, operational transition planning
 - **Field Operations Coordination**: Real-time communication systems for S0 deployment missions
@@ -85,3 +89,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 
 ## Recent Activity
 **April 8-9, 2026**: Active S0 ocean validation mission preparation with field operations support. Team coordinated real-time communication systems for landing operations. Identified IRC server connectivity issue (previous IP no longer working due to NOAA server update). Jun Zhang provided troubleshooting support, and Jack Elston clarified that NOAA updated IRC server host from IP address to DNS name "irc.omao.noaa.gov" (credentials unchanged). Issue resolved by April 9, enabling field team coordination for ongoing S0 deployment mission.
+
+**April 17, 2026**: Data quality milestone achieved. Joshua Fromm confirmed that the RH (relative humidity) sensor error identified during testing has been fully resolved. All current data files have been retroactively corrected with post-processing fix; real-time firmware correction now active providing improved accuracy going forward. Josh Wadler confirmed receipt of corrected files.
+
+**April 17, 2026**: Multi-rate sensor data management challenge identified. Maciej reported recovered data from 5 test flights showing incompatibility between different sensor sampling rates (Vaisala PTH at 5Hz, wind and static pressure at 100Hz) with WMO format constraints

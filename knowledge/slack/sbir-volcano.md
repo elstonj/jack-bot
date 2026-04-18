@@ -65,7 +65,7 @@ The channel covers activities from 2020 through April 2026, with high activity d
 - **Restrictions**: Operations limited to west side of ridge until NASA crew qualified
 
 **Popocatépetl Volcano (Mexico)**
-- **Status**: Deployment deferred from April 19-27, 2026 to later date pending S3 aircraft repairs and testing completion
+- **Status**: Deployment deferred from April 19-27, 2026 to later date; S3 aircraft repairs ongoing
 - **Significance**: SO2 output 10-50x higher than Makushin
 - **Aircraft**: S3 (Registration 20686S30001) selected due to high-altitude requirements (18,000-20,000 ft)
 - **Mission Parameters (As of April 13, 2026)**:
@@ -79,22 +79,23 @@ The channel covers activities from 2020 through April 2026, with high activity d
   - Optimizations planned: Climb-orbit radius 500+ meters to preserve battery; possible on-site terrain analysis for LOS verification
 - **Partners**: CENAPRED (Mexican institution), AFAC, AV3 for flight approvals
 - **Key Issue**: Written permission from Mexican authorities not secured as of April 13, 2026; decision on proceeding deferred to April 15 at 4pm
-- **Payload Status**: Trace gas payload fully functional as of April 16, 2026; pitot system to be taped (no drained pitot configuration)
+- **Payload Status**: 
+  - Trace gas payload fully functional as of April 16, 2026; pitot system to be taped (no drained pitot configuration)
+  - **Gas Communication Issue (April 17, 2026)**: Can connector came off during DB9 connector yanking; photogrammetry payload confirmed operational; gas sensor communication issue identified requiring optocoupler investigation
+  - Troubleshooting: UART switching did not resolve issue; requires deeper diagnostics on optocoupler wiring
 
 **S10022 Aircraft Testing (April 2026)**
-- **Status**: Multiple test flights planned and conducted week of April 13-14, 2026
+- **Status**: Multiple test flights completed week of April 13-14, 2026
 - **Purpose**: Validation flights and data analysis to support confidence in aircraft systems
 - **Activities**: 
   - Multiple flights at Sod Farm location
   - High-altitude hover tests at multiple elevation points (Boulder at 5,600 ft, Caribou TH at ~10,000 ft, intermediate point)
   - Analysis of performance parameters for extrapolation to higher altitudes
   - Flight data collection (corrupt SD card issue resolved April 13)
-- **Issue**: Windy conditions limited flight opportunities; tactical planning adjusted based on weather windows
+- **Status**: Windy conditions limited flight opportunities; tactical planning adjusted based on weather windows
 
 **S1-22 Aircraft Testing (April 2026)**
-- **Status**: Ready for flight operations
-- **Status**: Wind conditions challenging for testing
-- **Purpose**: Support validation work and operational readiness
+- **Status**: Ready for flight operations but wind conditions challenging for testing
 
 **NASA CCRPP (Climate Change Response Program)**
 - **Status**: Multiple quarterly reports completed through Q8 (final report August 2024)
@@ -106,18 +107,14 @@ The channel covers activities from 2020 through April 2026, with high activity d
 **Urgent/In Progress (April 2026)**
 
 **S3 Aircraft Repairs & Testing**
-- Joshua Fromm: Repair S3 aircraft issue; provide repair complete timeline estimate (April 15)
-- Maciej Smolka: Oversee S3 flight testing; plan altitude validation flights at multiple elevation points
-- Status: Almost certainly not ready for testing until Friday April 17/18, 2026
+- **Joshua Fromm**: Investigate gas sensor optocoupler issue; resolve wiring/diagnostics (target: next week as of April 17)
+- **Joshua Fromm**: Repair S3 aircraft issue; provide repair complete timeline estimate (April 15)
+- **Maciej Smolka**: Oversee S3 flight testing; plan altitude validation flights at multiple elevation points
+- **Status**: Almost certainly not ready for testing until Friday April 17/18, 2026; gas communication issue identified April 17 requires additional troubleshooting time
 
 **Mexico Deployment (Deferred)**
 - Dan Prendergast: File carnet documentation once flight information finalized (requires crew names/flight details)
 - Nate: Print FAA Remote ID placards for S3 (20686S30001) and carry copies for border
 - Meredith Needham: Cancel Mexico hotel and car rental reservations made for April 19-27 window (Free cancellation until April 18 confirmed; Hertz cancellable before pickup)
 - Jack Elston: Confirm flight information to enable carnet filing
-- Dan Prendergast: Confirm USGS contract extension status and period of performance dates
-- All team: Determine new Mexico deployment timeline when S3 testing complete
-
-**Ongoing/Regular**
-- Dan Prendergast: Update terrain-based flight planning tool for Los-of-Sight verification across mapping area in Mexico
-- Nate: Provide packing list updates at: https://docs.google.com/spreadsheets/d/1DXr_gKRMgTISMxkE8Tbibt-Z
+- Dan Prendergast: Confirm

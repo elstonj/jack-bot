@@ -1,10 +1,10 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 625 (525 previous + 100 new)
-- **Date range:** March 24 – April 17, 2026 (25 days)
-- **Approximate volume:** ~25 messages per day (new sample shows lower volume than previous period)
-- **Pattern:** Sustained high email load; consistent mix of newsletters, news alerts, strategic business communications, and event management
+- **Total messages scanned:** 651 (625 previous + 26 new)
+- **Date range:** March 24 – April 18, 2026 (26 days)
+- **Approximate volume:** ~25 messages per day
+- **Pattern:** Sustained high email load; consistent mix of news alerts, newsletters, strategic business communications, and event management. New sample (Apr 17-18) shows typical daily volume of ~13 messages over 2 days.
 
 ---
 
@@ -12,38 +12,42 @@
 
 ### Top Internal Senders
 1. **Jack Elston** (elstonj@blackswifttech.com) — primary internal coordinator; involved in EMASS drone video project coordination with external vendor (Zach Hynoski, Strata Comms)
-2. **Rippling** (no-reply@rippling.com) — recurring task/action notifications (appears 2x in new sample)
+2. **Rippling** (no-reply@rippling.com) — recurring task/action notifications (appears 3x total in samples)
 3. **Meredith Needham** (meredith.needham@blackswifttech.com) — AGU26 booth confirmation coordination; financial/administrative oversight
-4. **Beck Cotter** (beck.cotter@blackswifttech.com) — sharing TABA marketing materials and BST-TABA Final Report via Google Drive/Docs (appears 3x in new sample, marked IMPORTANT)
-5. **Media Relations / Joshua Baer** — community/ecosystem engagement and external vendor coordination
-6. **Gemini/Google Notes** (gemini-notes@google.com) — BST Internal Update Meeting notes (Apr 16, marked IMPORTANT)
+4. **Beck Cotter** (beck.cotter@blackswifttech.com) — sharing TABA marketing materials and BST-TABA Final Report via Google Drive/Docs
+5. **Asana** (no-reply@asana.com) — task management notifications (appears 3x total)
+6. **Gemini/Google Notes** (gemini-notes@google.com) — BST Internal Update Meeting notes
+7. **Maciej Stachura (via Google Docs)** (drive-shares-dm-noreply@google.com) — **NEW**: document sharing (E2 Declaration, marked IMPORTANT, Apr 17)
 
 ### Top External Senders (Frequent)
-1. **The New York Times** (multiple addresses: breakingnews, editorpicks, nytdirect) — breaking news, editor picks, morning briefings (~12+ in new 3-day sample; pattern confirms sustained high volume)
-2. **LinkedIn** (multiple: messages-noreply, notifications-noreply, member, jobs-listings, groups-noreply, updates-noreply) — connection requests, group notifications, job listings, search activity alerts (appears 10x+ in new sample)
-3. **AGU 2026 Manager** (AGUSales@taffyevents.com) — event booth confirmation (appears 2x in new sample, marked IMPORTANT both times)
-4. **A&SF Daily Report** (AirAndSpaceForcesMagazine@afa.org) — defense/aerospace news alerts (appears 2x in new sample)
-5. **The Athletic Pulse** (TheAthletic@e1.theathletic.com) — sports news (appears 2x in new sample, marked IMPORTANT)
-6. **UAS VISION** (russ@uasvision.com) — forwarded to Jack (media@blackswifttech.com); appears 2x in new sample
-7. **Asana** (no-reply@asana.com) — task management notifications (appears 2x in new sample)
-8. **Google Ads / Google Services** — ads performance tracking, Analytics, Search Console (Google Ads appears 3x in new sample)
+1. **The New York Times** (breakingnews, editorpicks, nytdirect) — breaking news, editor picks, morning briefings (~6 in new sample; sustained very high volume across all samples)
+2. **LinkedIn** (updates-noreply, messages-noreply, groups-noreply, etc.) — connection requests, group notifications, job listings, updates (~4 in new sample; 15+ across all samples)
+3. **AGU 2026 Manager** (AGUSales@taffyevents.com) — event booth confirmation and contract signing (appears 2x in new sample, marked IMPORTANT both times; contract now signed as of Apr 17)
+4. **A&SF Daily Report / A&SF Alerts** (AirAndSpaceForcesMagazine@afa.org) — defense/aerospace news alerts (appears 2x in new sample)
+5. **Google Ads** (ads-noreply@google.com) — ads performance tracking and consultation (appears 1x in new sample)
+6. **UAS VISION** (russ@uasvision.com) — daily UAS industry news (forwarded to Jack/media@blackswifttech.com; appears 1x in new sample)
+7. **The Athletic Pulse** (TheAthletic@e1.theathletic.com) — sports news (appears 1x in new sample, marked IMPORTANT)
 
 ### Key External Partners/Organizations (Updated)
-- **Wendy Bernal / Applied Technology Review** (wendy.bernal@appliedtechnologyreview.com) — **NEW/ACTIVE**: media feature follow-up on BST Unmanned Aerial Systems (appears 2x in new sample, marked IMPORTANT; Paige sending response on Apr 17 at 09:35)
-- **Nina Sabak / EchoBlue** (nina.sabak@echoblue.co.uk) — **NEW**: press release coordination; out-of-office response on Apr 15; Xponential USA drinks invitation (appears 2x in new sample, marked IMPORTANT)
-- **Zach Hynoski / Strata Comms** (zach.hynoski@stratacomms.agency) — **NEW**: EMASS drone video project vendor coordination with Jack Elston (appears 1x, marked IMPORTANT)
-- **Jamie Saunders / Taffy Events** (jsaunders@taffyevents.com) — password reset and AGU26 event logistics; appears multiple times
-- **AGU (American Geophysical Union)** — booth confirmation (recurring, high priority)
-- **William Harding-Terry / SAE Media Group** (will.harding-terry@saemediagroup.com) — **NEW**: Military Robotics & Autonomous Systems (MRAS) USA event outreach
-- **Lucy Jenner / SAE Media Group** (lucy.jenner@saemediagroupevents.com) — **NEW**: event brochure/keynote updates (appears 1x, marked IMPORTANT)
-- **Karishma Chhokra / Google** (chhokra@xwf.google.com) — Google Ads Consultation scheduled (Apr 29) and performance review meeting scheduled
-- **Tracy Plant / Kallman Worldwide** (via Media Relations) — **NEW**: media relations outreach; EXPOSIBRAM 2026 event (appears 2x)
+- **Wendy Bernal / Applied Technology Review** (wendy.bernal@appliedtechnologyreview.com) — **ACTIVE/ENGAGED**: media feature follow-up on BST Unmanned Aerial Systems; Paige sent response Apr 17 09:35; Wendy's reply received Apr 17 06:16 (marked IMPORTANT; appears 2x in new sample)
+- **Nina Sabak / EchoBlue** (nina.sabak@echoblue.co.uk) — press release coordination; Xponential USA drinks invitation
+- **Zach Hynoski / Strata Comms** (zach.hynoski@stratacomms.agency) — EMASS drone video project vendor coordination
+- **Jamie Saunders / Taffy Events** (jsaunders@taffyevents.com) — AGU26 booth logistics and password management
+- **AGU (American Geophysical Union)** — **CONFIRMED**: Booth contract signed Apr 17; registration now complete
+- **William Harding-Terry / SAE Media Group** (will.harding-terry@saemediagroup.com) — Military Robotics & Autonomous Systems (MRAS) USA event
+- **Lucy Jenner / SAE Media Group** (lucy.jenner@saemediagroupevents.com) — event brochure/keynote updates
+- **Karishma Chhokra / Google** (chhokra@xwf.google.com) — Google Ads Consultation and performance review
+- **Tracy Plant / Kallman Worldwide** — media relations outreach; EXPOSIBRAM 2026 event
+- **Neil Patel / Neil Patel Digital** (neil@advanced.npdigital.com) — **NEW**: marketing/AI ads consultation outreach (Apr 17)
+- **James Barlia / Capital Factory** (jamesbarlia@capitalfactory.com) — **NEW**: DC budget updates (Apr 17)
+- **Mitchell Institute / AFA** (mitchell@afa.org) — aerospace/rocket science thought leadership content (Apr 17)
+- **Inside Climate News** (memberships@insideclimatenews.org) — **NEW**: climate/environmental news (Apr 17)
 - **Previous contacts still active:** Krateo Sky, C-Astral, Inspired Flight, Flying Basket, Agritecture, Commercial UAV News, UASweekly
 
-### Internal vs External Breakdown
-- **~62% external** (news, promotions, newsletters, social platforms, events)
-- **~22% internal** (BST staff, HR/task systems, meeting coordination)
-- **~16% strategic business** (partners, event management, media relations, inbound inquiries)
+### Internal vs External Breakdown (Updated)
+- **~70% external** (news, promotions, newsletters, social platforms, events, consultants)
+- **~18% internal** (BST staff, HR/task systems, meeting coordination)
+- **~12% strategic business** (partners, event management, media relations, inbound inquiries)
 
 ---
 
@@ -51,29 +55,33 @@
 
 ### Primary Subject Themes
 
-1. **Defense/Aerospace/Military** (continued prominence)
+1. **Defense/Aerospace/Military** (sustained prominence)
    - "Experimental Ops Unit Starts Flying CCAs" (Apr 17, A&SF Daily)
-   - "Space Force's Vision for 2040" (Apr 16, A&SF)
-   - "House votes to extend warrantless surveillance law for 10 days" (Apr 17, NYT breaking)
+   - "WATCH LIVE: CJCS Caine Honors Doolittle Raiders" (Apr 17, A&SF Alerts)
+   - "We Discuss a Century of Liquid Rockets with ULA's Chief Rocket Scientist" (Apr 17, Mitchell Institute)
    - "Strait of Hormuz fully open after Lebanon deal, Iran and U.S. say" (Apr 17, NYT breaking)
-   - "Trump announces temporary Lebanon-Israel cease-fire" (Apr 16, NYT breaking)
+   - "Judge pauses Nexstar's merger with Tegna" (Apr 18, NYT breaking — media/telecom related)
 
-2. **UAS/Drone Industry** (sustained activity, evolving)
-   - **EMASS Drone Video Project** — new active project with Jack Elston and Zach Hynoski (Strata Comms) — appears in multiple threads Apr 15-16
-   - **LinkedIn engineering design requests** — continued activity (Davis Durrett marketing/design lead connection Apr 17)
-   - **UAS Magazine** — MTU Aero Engines, AeroDesignWorks acquisition, hydrogen-powered drone systems (Apr 15)
-   - **UASweekly Daily Newsletter** — appears 2x (generic UAS industry news)
-   - **Unmanned Systems Technology Newsletter** (UST Edition 155) — Apr 16
-   - **MundoGEO Newsletter** — drone logistics, Sateliot Series C, Vertical Aerospace (Apr 15)
-   - **FAA DroneZone sUAS Registrations** — **NEW**: BST appears to be processing multiple drone registrations (3 registrations submitted Apr 16: FA3NTTX9EF, FA3NTTTEAN, and receipt)
+2. **UAS/Drone Industry** (sustained activity)
+   - **EMASS Drone Video Project** — active ongoing coordination with Jack Elston and Zach Hynoski (Strata Comms)
+   - **FAA DroneZone sUAS Registrations** — BST processing multiple drone registrations
+   - **UAS industry news** — UAS VISION daily feeds; general sector monitoring
 
-3. **Media Relations & Press** (elevated activity — NEW focus)
-   - **Wendy Bernal / Applied Technology Review** — UAS feature article follow-up with BST (IMPORTANT; Paige responding Apr 17 morning)
-   - **Nina Sabak / EchoBlue** — press release coordination (Apr 15, IMPORTANT)
-   - **Tracy Plant / Kallman Worldwide** — media relations outreach and EXPOSIBRAM 2026 event
-   - **Draft emails** (Apr 15) — Paige drafting outreach to info@commercialuavnews.com and editor@geoweeknews.com (appears as incomplete DRAFT subjects)
+3. **Media Relations & Press** (elevated focus — ACTIVE)
+   - **Wendy Bernal / Applied Technology Review** — UAS feature article; **IMPORTANT conversation ongoing**; Paige responded Apr 17 morning and received reply same day
+   - **Nina Sabak / EchoBlue** — press release coordination
+   - **Tracy Plant / Kallman Worldwide** — media relations outreach
 
-4. **Marketing & Events** (significantly elevated)
-   - **AGU26 booth confirmation** — appears 2x in new sample (Apr 15, Apr 17), marked IMPORTANT both times; coordination with Meredith Needham and Jamie Saunders
-   - **Xponential USA** — drinks invitation from Nina Sabak/EchoBlue (IMPORTANT)
-   - **MRAS USA** — Military Robotics & Autonomous Systems event out
+4. **Marketing & Events** (HIGH PRIORITY)
+   - **AGU26 booth** — **CONFIRMED**: signed contract received Apr 17 (marked IMPORTANT); booth registration now complete
+   - **Xponential USA** — drinks invitation from EchoBlue contact
+   - **MRAS USA** — Military Robotics & Autonomous Systems event outreach
+   - **EXPOSIBRAM 2026** — media relations event
+
+5. **Business Development & Consulting** (NEW/EMERGING)
+   - **Google Ads consultation** — performance review and optimization (Karishma Chhokra)
+   - **Neil Patel Digital** — AI-powered paid ads adaptation guidance
+   - **Capital Factory** — DC budget/policy intelligence (likely for government relations)
+
+### Newsletter & Automated Email Patterns
+- **The New York Times** — 3 distinct feeds (breaking

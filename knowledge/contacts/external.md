@@ -99,7 +99,6 @@
     - Email: aimee.b.crowley@nasa.gov
   - **Amanda S. Brecht** — NASA Contact
     - Email: amanda.s.brecht@nasa.gov
-  - And 70+ additional NASA contacts
 
 ### NOAA (National Oceanic and Atmospheric Administration)
 - **Relationship context**: Government client/partner for atmospheric and weather research
@@ -273,4 +272,5 @@
   - **Robbie Desen** — NOAA Contact
     - Email: robbie.desen@noaa.gov
   - **Galen Scott** — NOAA Contact
-    - Email: galen.scott@noaa.
+    - Email: galen.scott@noaa.gov
+  - **Joseph Cione**

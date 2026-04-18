@@ -1,92 +1,108 @@
 # Beck Cotter — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned: 620** (520 previous + 100 new)
+- **Total messages scanned: 649** (620 previous + 29 new)
 - **Date range: March 17 – April 17, 2026** (approximately 5 weeks)
-- **Approximate daily volume: 16-17 emails per day** (consistent with prior pattern)
-- Heavy activity on weekdays (April 13-17 snapshot shows sustained weekday intensity)
-- Weekend/early morning activity continues
+- **Approximate daily volume: 16-17 emails per day** (consistent pattern)
+- **New data snapshot (Apr 17): 29 messages on single day** — indicates high-volume Friday activity, predominantly Genesis proposal work and administrative coordination
+- Weekday intensity sustained; heavy late afternoon/evening activity on Apr 17 (multiple Google Docs comments 08:04-15:32 UTC, evening exchanges 20:11-23:25 UTC)
 
 ## Key Correspondents
 
-**Top Internal BST Contacts:**
-- Jack Elston (CEO) - strategic decisions, business development, internal coordination, partner escalation
-- Daniel Prendergast - proposal coordination, technical discussions, project management, vendor coordination, government relations (SOCOM, USGS)
-- Maciej Stachura - technical project work, testing coordination, partnership management, Genesis proposal development
-- Meredith Needham - contracts, administration, compliance, DCAA accounting system setup
-- Ethan Domagala - HALO SOW coordination (receiving forwarded correspondence)
-- Nathaniel Straus (new/minor) - Stanford SACL Timestamp S2 Avionics discussions
-- Joshua Fromm (new/minor) - Mexico Deployment USGS collaboration
-- Paige Smith (new/minor) - forwarding European Delegation opportunities
+### Top Internal BST Contacts (unchanged from prior analysis)
+- Jack Elston (CEO) — strategic escalation, cross-team coordination
+- Daniel Prendergast — technical project management, Genesis proposal, Arctic Demo coordination
+- Maciej Stachura — Genesis proposal technical contributions, Google Docs collaboration
+- Meredith Needham — contracts and compliance
+- Nathaniel Straus — Asana task coordination (training schedule comment Apr 17)
 
-**Top External Contacts:**
-- **Brookhaven National Lab (BNL) - DOE Genesis:**
-  - Gijs de Boer (gdeboer@bnl.gov) - **primary POC**, intensive collaborative proposal development (Apr 13-17 shows multiple daily Google Docs comments and meeting coordination)
-  - Nathan Urban (nurban@bnl.gov) - collaborative proposal support
-  - Fernando Llorente - technical proposal content contributor
-- **ByLight LLC - HALO SOW & MRT:**
-  - Bryan Sparling - HALO SOW coordination (Apr 6, 16)
-  - Nicholas Phillips - HALO SOW primary contact (Apr 16 intensive exchange)
-  - Carrie Mahanna - MRT UAS technical authority coordination
-  - Megan Weckter - Navy MRT submission coordination (Apr 13 sharing Navy response document)
-  - Justin Baltz, Reynaldo Betancourt, Robert Baker, Erin Blankenship, William O'Neill - broader project team
-- **Navy NAWCAD:**
-  - Angel Ruiz-Reyes - Phase I Option Period (previous pattern continues, not in new sample)
-- **CU Boulder:**
-  - Maithreyi Gopalakrishnan - PrecisionTerra NASA Phase II subcontractor scope (Apr 15)
-- **Stanford University:**
-  - Tanay Topac - S2 Avionics timestamp development (Apr 13-16, IMPORTANT flagged)
-- **USGS:**
-  - Angie Diefenbach - Mexico Deployment coordination (Apr 16, IMPORTANT)
-  - Christoph Kern - Mexico Deployment coordination
-- **SOCOM (Special Operations Command):**
-  - Michael C. Jagelewski (USSOCOM) - S0 RFI response (Apr 14)
-  - Evan M. Wolff (USSOCOM) - S0 coordination
-- **NextTech Solutions:**
-  - Trenton McKibben (Trenton.McKibben@nextechsol.com) - **Arctic Demo in Ottawa** (Apr 17, IMPORTANT)
-- **NASA:**
-  - Jennifer Schnarr (jennifer.schnarr@nasa.gov) - AFA RFI response (Apr 16)
-  - Matthew Fladeland (ARC-SG) - NASA RFI coordination (Maciej response)
-  - Kevin A. Ward - NASA Earth Observatory newsletters (subscription)
-- **Krateo Sky:**
-  - Bob Smith, Lisa Marie Cheney, Adria Passola - Arctic Demo, product partnership (Apr 17)
-- **FAA:**
-  - UAS.FAADroneZone - sUAS certificate registration (automated, Apr 16)
+### Top External Contacts (updated)
+
+**🔴 CRITICAL FOCUS — Brookhaven National Lab (BNL) — DOE Genesis:**
+- **Gijs de Boer** (gdeboer@bnl.gov) — **EXTREMELY ACTIVE** (Apr 17 snapshot shows 6+ emails/Google Docs comments from de Boer alone across 07:32-20:58 UTC; calendar meeting confirmed "Accepted: Genesis BNL/BST" at 14:57 UTC; intensive real-time collaboration on proposal document)
+- Nathan Urban (nurban@bnl.gov) — tagged in collaborative proposal work
+- Fernando Llorente — **HIGHLY ACTIVE** (4+ Google Docs comment notifications Apr 17 alone, 13:06-15:26 UTC; focused on Genesis Mission Phase I DRAFT content)
+
+**🔴 CRITICAL FOCUS — NASA Aero RFI:**
+- Jennifer Schnarr (AFRC-210, NASA) — responds to Beck's question on Apr 17 23:25 UTC (marked IMPORTANT, UNREAD) — indicates active RFI response coordination
+
+**🟡 EMERGING — Arctic Demo/NextTech/Krateo Sky Partnership:**
+- Trenton McKibben (NextTech Solutions) — Apr 17 13:20 UTC initiates "Arctic Demo in Ottawa" coordination with Jack/Daniel/Beck (IMPORTANT)
+- Bob Smith, Lisa Marie Cheney, Adria Passola (Krateo Sky) — Jack forwards Arctic Demo to team same day (Apr 17 08:49 UTC), indicating partnership escalation
+
+**🟢 SUSTAINED — USGS Mexico Deployment:**
+- Angie Diefenbach (adiefenbach@usgs.gov) — Jack responds to Mexico Deployment coordination Apr 17 11:20 UTC (IMPORTANT)
 
 ## Topic Patterns
 
-**Active Government Contracts & Proposals (Priority Tier):**
+**🔴 CRITICAL/ACTIVE (Elevated Priority):**
 
-**🔴 CRITICAL/ACTIVE:**
-- **DOE Genesis Phase I** - **MAJOR FOCUS** (Apr 13-17: intensive collaborative proposal development with Brookhaven, multiple daily Google Docs comments from Gijs de Boer, Fernando Llorente, Daniel Prendergast; meeting held Apr 13 1pm MDT; NOFO question submitted Apr 16; meeting notes generated via Gemini Apr 13 & 17)
-- **Navy MRT (Marine Robotics Technology)** - **ACTIVE** (Apr 13: ByLight shares Navy response document with broad BST/ByLight team; Megan Weckter coordinating with Navy (Karleigh Hall, Kristen Ferro); related to MRT UAS Notice 243-26-024, PMA-263)
-- **HALO SOW (ByLight partnership)** - **ONGOING** (Apr 16: intense back-and-forth between Beck/Nicholas Phillips (ByLight) and Jack Elston/Ethan Domagala; Jack's response flagged IMPORTANT)
-- **NASA Aero RFI** - **URGENT** (Apr 13: forwarded by Jack with May 7 @ 1pm Pacific deadline; Apr 16: Beck responds to AFA RFI question to Jennifer Schnarr)
-- **SOCOM S0 RFI** - **ACTIVE** (Apr 14: Daniel responding to Michael Jagelewski's RFI response)
+**DOE Genesis Phase I — PEAK INTENSITY**
+- Apr 17 snapshot shows **9+ messages directly related to Genesis** (Google Docs comments from Gijs de Boer, Fernando Llorente, Maciej Stachura; email exchanges; Gemini meeting notes generated)
+- Real-time collaborative editing on "Genesis Mission_Phase I DRAFT" document
+- Multiple document updates throughout Apr 17 morning/afternoon: BNL Letter addition (08:04 UTC), proposal section contributions (08:13, 08:21, 13:06, 13:14 UTC)
+- Calendar meeting held and confirmed ("Accepted: Genesis BNL/BST" 14:57 UTC)
+- **Assessment: Proposal in final development phase, likely approaching submission deadline**
+
+**NASA Aero RFI — ACTIVE RESPONSE**
+- Apr 17 23:25 UTC: Jennifer Schnarr (NASA AFRC-210) responds to Beck's question (IMPORTANT, UNREAD)
+- Response turnaround suggests coordinated RFI completion or clarification request
+- **Assessment: Response likely due imminently (May 7 deadline per prior notes)**
+
+**Arctic Demo in Ottawa — NEWLY ESCALATED**
+- Apr 17 13:20 UTC: Trenton McKibben (NextTech Solutions) initiates "Arctic Demo in Ottawa" to Jack, Daniel, Beck (IMPORTANT)
+- Apr 17 08:49 UTC: Jack immediately forwards to Krateo Sky leadership (Bob Smith, Lisa Marie, Adria Passola) + internal team (Maciej, Daniel, Beck)
+- **Assessment: New demonstration or partnership opportunity with immediate executive attention; likely strategic partnership or government contract pursuit**
 
 **🟡 DEVELOPING/ALERT:**
-- **Arctic Demo in Ottawa** - **EMERGING** (Apr 17: Trenton McKibben (NextTech Solutions) sends to Jack/Daniel/Beck marked IMPORTANT; Jack forwards to Krateo Sky team (Bob Smith, Lisa Marie, Adria Passola) and internal team (Maciej, Daniel, Beck) - indicates new partnership or demonstration opportunity)
-- **NASA SBIR/STTR Program Reauthorization** - **MULTIPLE ALERTS** (Apr 14-17: NASA SBIR/STTR Program alerts, SOFWERX SBIR 26.BZ Release 1 pre-release alert (Apr 16), 2026 NASA SBIR/STTR BAA live (Apr 17) - BST actively monitoring)
-- **DIU Solicitations** - continuing (implied from prior pattern)
-- **Mexico Deployment** - **NEW** (Apr 16: Jack coordinating with Angie Diefenbach/USGS team on Mexico Deployment; includes Maciej, Daniel, Beck, Joshua Fromm; IMPORTANT flagged)
-- **PrecisionTerra NASA Phase II** - **ONGOING** (Apr 15: CU Boulder's Maithreyi Gopalakrishnan confirms proposal scope coordination with Beck and Daniel)
-- **Stanford S2 Avionics Timestamp** - **ONGOING** (Apr 13-16: multi-party discussions between Stanford (Tanay Topac), Jack, Nathaniel Straus on avionics development; IMPORTANT flagged)
+
+**SBIR/STTR Program Alerts — MONITORING ACTIVE**
+- Apr 17 10:14-10:15 UTC: 2026 NASA SBIR/STTR Program BAA announced (IMPORTANT, sent to proposals@ and Beck personally)
+- Apr 17 15:59 UTC: Robert Pace (NYSTEC) sends "SBIR Reauthorization" update (IMPORTANT) — potential reauthorization tracking
+- **Assessment: BST actively monitoring new opportunities; may trigger proposal submissions**
+
+**Mexico Deployment — ONGOING**
+- Apr 17 11:20 UTC: Jack responds to USGS Angie Diefenbach (IMPORTANT)
+- **Assessment: Active government coordination; possible field deployment or research collaboration**
 
 **🟢 SUSTAINED BACKGROUND:**
-- ONR STTR Phase II (N25A-T025)
-- USMC MRT (Marine Robotics Technology) - broader initiative
-- NOAA opportunities (UxSOC IDIQ, TC ET Team) - NOAA doc review mentioned Apr 13
-- Navy SBIR Phase I Option Period (referenced in prior data, not in new sample period)
-- DOE GENESIS Phase I (now elevated to CRITICAL)
+- ONR STTR Phase II
+- USMC/Navy MRT initiatives
+- NOAA programs (UxSOC, TC ET)
 - ByLight Mustang project
-- S0/S3/S2 VTOL UAS inquiries
-- Dragoon project with Krateo Sky
-- Canadian Special Forces demonstration (referenced in prior data)
-- UK Ministry of Defence (Merlin Mk2)
-- Barbados government inquiry
+- S0/S2/S3 VTOL UAS inquiries
 
-**Administrative/Compliance:**
-- **DCAA Accounting System Setup** - **IN PROGRESS** (Apr 13: Beck coordinates with Donna Kracinovich (Navy pre-award survey) and DCAA compliance consultant; Meredith Needham managing, Beck approving; marked IMPORTANT)
-- FAA sUAS Certificate Registration - **ROUTINE** (Apr 16: three registration confirmations to info@ account)
-- Contract compliance - ongoing
-- eSignature documents - **executed
+**Administrative/Routine:**
+- Asana task notifications — 4 overdue tasks flagged (Apr 17 15:32 UTC); 1 task due soon (Apr 17 14:41 UTC); Nate Straus training schedule comment (Apr 17 16:42 UTC)
+- Slack notifications from Jack Bot (Apr 17 10:59, 14:22, 15:29 UTC) — internal operations coordination
+- Newsletter subscriptions: NSBA Weekly Advocate (Apr 17), NASA Earth Observatory (Apr 17), EPA Region 8 grant alerts (Apr 17)
+- Proposal management alert: Emmanuel Gorce (EG Proposal Management) sends "US Air Force, DHA, DARPA, OSD, SOCOM open topics" (Apr 17 20:11 UTC, IMPORTANT)
+
+## Communication Patterns
+
+**Temporal Patterns (Apr 17 snapshot):**
+- **Morning burst (08:04-09:59 UTC / 02:04-03:59 MDT):** Genesis Google Docs activity begins early, coordinating with BNL team across time zones
+- **Midday surge (12:39-15:32 UTC / 06:39-09:32 MDT):** Proposal updates, RFI responses, task notifications, Arctic Demo initiation
+- **Late evening (19:48-23:25 UTC / 13:48-17:25 MDT):** Final proposal coordination, NASA response, meeting confirmations
+- **Assessment:** High-frequency real-time collaboration on Genesis; working across multiple time zones (UTC for BNL, MDT for BST, EDT/PDT for other partners)
+
+**Collaboration Tools:**
+- Google Docs comments (real-time collaborative proposal editing — primary mechanism for Genesis)
+- Asana task/project management
+- Slack internal messaging (Jack Bot notifications indicate automated workflows)
+- Email for formal coordination and external partner communication
+- Gemini meeting notes (automated meeting summarization)
+
+**Mailing Lists/Subscriptions:**
+- NASA SBIR/STTR alerts (arc-sbir-outreach@mail.nasa.gov, proposals@ alias)
+- NSBA advocacy newsletter
+- NASA Earth Observatory updates
+- EPA regional alerts (government funding opportunities)
+- Proposal management alerts (EG Proposal Management)
+
+## Key Relationships
+
+**Closest Internal Collaborators:**
+1. **Jack Elston** — Strategic steering on Genesis, Arctic Demo, Mexico Deployment; cross-team coordination
+2. **Maciej Stachura** — Technical proposal development (Genesis); emerging partnership coordination (Arctic Demo)
+3. **Daniel

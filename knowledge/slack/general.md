@@ -100,4 +100,4 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 **SMM (Soil Moisture Measurement) Project**
 - SBIR report and new LDCR system due April 11, 2024
 - Testing potential Wednesday with Ethan available 9-5 (Jan 27, 2025)
-- Awaiting dry soil conditions (
+- Awaiting dry soil conditions

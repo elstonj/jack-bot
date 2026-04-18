@@ -1,100 +1,92 @@
 # Meredith Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 623 (523 previous + 100 new)
-- **Date range:** March 23 – April 17, 2026 (approximately 3.5 weeks)
+- **Total messages scanned:** 667 (623 previous + 44 new)
+- **Date range:** March 23 – April 18, 2026 (approximately 3.8 weeks)
 - **Approximate volume:** 25–30 emails per day (mix of sent, received, and automated)
+- **New data period:** April 17–18, 2026 (44 messages, mostly automated/system notifications with critical financial and compliance activity)
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Jack Elston** (elstonj@blackswifttech.com) — Operations, contracts, manufacturing, financial matters, Navy/DCAA compliance, hotel reservations, aviation policy coordination
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Export licensing, SNAP-R decommissioning, logistics (FedEx delays)
+- **Jack Elston** (elstonj@blackswifttech.com) — Operations, contracts, manufacturing, financial matters, Navy/DCAA compliance, hotel reservations, aviation policy coordination, timesheet certification
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Export licensing, SNAP-R decommissioning, logistics
 - **Joshua Fromm** (josh.fromm@blackswifttech.com) — Parts quotes, sales orders, vendor coordination
-- **Maciej Stachura** (stachura@blackswifttech.com) — Manufacturing planning, MP JET parts coordination, Vantage Robotics specs
+- **Maciej Stachura** (stachura@blackswifttech.com) — Manufacturing planning, MP JET parts coordination
 - **Beck Cotter** (beck.cotter@blackswifttech.com) — NASA/NOAA proposals and deliverables
 - **Nathaniel Straus** (nate.straus@blackswifttech.com) — Stanford SACL/Avionics project, aviation policy
-- **Paige Smith** (paige.smith@blackswifttech.com) — AGU26 booth confirmation, event coordination
 
 ### Top External Contacts (Updated)
 
-**Financial/Tax/Audit (NEW - HIGH PRIORITY)**
-- **Travis Foerschner** (tfoerschner@kpmg.com) — KPMG financial/accounting due diligence, tax counsel for investor meetings (STARRED, IMPORTANT)
-- **Mark Kightlinger** (Mark@kcotax.com) — Tax advisor, investor financial meetings, BST prep sessions (IMPORTANT)
-- **Claudia Behnke** (chbehnke@mac.com) — Reconciliation coordination, checking detail spreadsheets, financial data sharing (frequent, IMPORTANT, STARRED)
+**Financial/Tax/Audit (CRITICAL - INVESTOR DD ACTIVE)**
+- **Mark Kightlinger** (Mark@kcotax.com) — Tax advisor, investor financial meetings, BST prep sessions, **data room and contract document coordination** (VERY HIGH FREQUENCY, STARRED, IMPORTANT)
+- **Travis Foerschner** (tfoerschner@kpmg.com) — KPMG financial/accounting due diligence, tax counsel (STARRED, IMPORTANT)
+- **Claudia Behnke** (chbehnke@mac.com) — **High-frequency Q&A on financial reconciliation, BST questions, travel coordination for project** (STARRED, IMPORTANT, VERY ACTIVE Apr 17)
 - **Bill Jones** (Bill@jonescpapc.com) — CPA, KPMG DD team coordination
 - **Cheryl Kloeckner** (Cheryl@kcotax.com) — KPMG DD financial coordination
 
-**Government/Defense (DCAA Compliance - ESCALATED)**
-- **Milena L. Pennamon (CIV DCAA WE)** (milena.l.pennamon.civ@mail.mil) — Pre-Award Accounting System Audit for Navy contract (IMPORTANT, NEW CRITICAL ITEM)
-- **Jake Nix** (jake.nix@riscpoint.com) — Introduction for DCAA Compliance consulting (RISCPoint), introduced via Krateo Sky
+**Government/Defense (DCAA Compliance - ACTIVE)**
+- **Milena L. Pennamon (CIV DCAA WE)** (milena.l.pennamon.civ@mail.mil) — Pre-Award Accounting System Audit for Navy contract (IMPORTANT, CRITICAL)
+- **Jake Nix** (jake.nix@riscpoint.com) — DCAA Compliance consulting (RISCPoint), **direct correspondence with Meredith** (IMPORTANT)
+- **Catherine Baker** (catherine.baker@riscpoint.com) — RISCPoint introduction coordination for Jake Nix / DCAA (IMPORTANT)
 - **Jon Vince** (jon.vince@rogers.com) — SNAP-R legacy system decommissioning (*PRIVILEGED & CONFIDENTIAL*)
 
 **Consulting/Specialized Services**
-- **Sona Raziabeegum** (sona@krateosky.com) — DCAA audit compliance questions, investor meeting coordination, KPMG DD (IMPORTANT)
+- **Sona Raziabeegum** (sona@krateosky.com) — DCAA audit compliance, investor meeting coordination, KPMG DD
 - **Thierry Lepoutre** (thierry@boostrconsulting.com) — R&D tax credits (Form 6765 for 2025)
-- **Ed Kase** (ed.kase@ekaseconsulting.com) — Invoice 1782 resubmission and payment coordination (IMPORTANT, STARRED)
+- **Ed Kase** (ed.kase@ekaseconsulting.com) — Invoice resubmission and payment coordination (IMPORTANT, STARRED)
 
 **Vendor/Supplier (Updated)**
-- **Geoff/GeoFlite Aerologix** (gb.aerokats@gmail.com) — AeroCam/Aeropod meeting coordination (IMPORTANT)
-- **Matt Crabtree** (matt.crabtree@waveformengineering.com) — March 2026 invoice coordination, payment processing (IMPORTANT)
+- **Debbie Rampy** (debbie@bolderins.com) — **Aviation insurance policy #9032844 (Eff. 04/21/2026)** — **HIGH-FREQUENCY correspondence Apr 17** (STARRED, IMPORTANT, 5+ exchanges in new data)
+- **Geoff/GeoFlite Aerologix** (gb.aerokats@gmail.com) — AeroCam/Aeropod meeting coordination
+- **Matt Crabtree** (matt.crabtree@waveformengineering.com) — Invoice coordination, payment processing
 - **Oier Penagaricano** (oier@aleriontec.com) — MP JET parts (STARRED, IMPORTANT)
 - **Eryan Dai** (eryan.dai@orbitalmicro.com) — Due diligence report updates
-- **Debbie Rampy** (debbie@bolderins.com) — Aviation insurance policy #9032844 (Eff. 04/21/2026) coordination (IMPORTANT)
 - **Kathi Healy** (kathi@rmiselect.com) — Shipping/logistics
-- **Betty Ross** (orders@nkhome.com) — Nielsen-Kellerman order support (IMPORTANT)
+- **Betty Ross** (orders@nkhome.com) — Nielsen-Kellerman order support
+- **Jawstec** (info@jawstec.com) — Parts order coordination (Order #68200, NEW)
+- **SendCutSend** (Purchasing channel) — Manufacturing/fabrication orders (Order S834G264, NEW)
 
 **University/Research**
-- **Tanay Topac** (tanaytopac@stanford.edu) — Stanford SACL | Timestamp S2 Avionics (continuing)
+- **Tanay Topac** (tanaytopac@stanford.edu) — Stanford SACL | Timestamp S2 Avionics
 - **David Luna** (dluna510@stanford.edu) — Stanford project collaboration
-- **Ellie Zhang** (exzha@stanford.edu) — Flight control architecture questions (IMPORTANT)
+- **Ellie Zhang** (exzha@stanford.edu) — Flight control architecture questions
 
-**Career/Recruitment (Passive)**
-- **Matt Howe** (howematt@gmail.com) — Resume submission (IMPORTANT, responded)
-- **Brandon Korn** (brandonkorn11@gmail.com) — Internship inquiry (IMPORTANT, responded)
-- **Nic Greenlaw** (nic.greenlaw11@gmail.com) — Job inquiry (responded)
+**Recruitment (Passive - Ongoing)**
+- **Matt Howe** (howematt@gmail.com) — Resume submission, **responded Apr 17** (IMPORTANT)
+- **Brandon Korn** (brandonkorn11@gmail.com) — Internship inquiry
+- **Nic Greenlaw** (nic.greenlaw11@gmail.com) — Job inquiry
+- **Tate Thomas** (via careers@blackswifttech.com) — Summer internship interest (NEW, Apr 17)
 
 **Other**
-- **Paige Smith** (paige.smith@blackswifttech.com) — AGU26 event booth confirmation (STARRED, IMPORTANT)
-- **Jamie Saunders** (jsaunders@taffyevents.com) — Event password coordination
+- **Kevin Montgomery** (kmontgomery@rippling.com) — Rippling AI system adoption (IMPORTANT, Apr 17)
+- **Michael Magdich** (michaelm@hardtechproject.com) — HardTech Project invitation (NEW, Apr 17)
+- **Jamie Saunders** (jsaunders@taffyevents.com) — Event coordination
 
 ### Internal/External Breakdown
-- **~55% internal** (Jack Elston, team coordination)
-- **~45% external** (tax/audit firms, government agencies, vendors, universities, consultants)
+- **~55% internal** (Jack Elston primary, operations coordination)
+- **~45% external** (tax/audit firms, government agencies, vendors, universities, consultants, recruitment)
 
 ---
 
 ## Topic Patterns
 
-### CRITICAL - Investor/Financing Due Diligence (NEW)
-- **KPMG Financial/Accounting Due Diligence** — Multi-party coordinated effort with tax advisors, CPA firms, and internal leadership
-  - Participants: Travis Foerschner (KPMG lead), Mark Kightlinger, Bill Jones, Cheryl Kloeckner, Sona Raziabeegum
-  - Status: "in process work product" — active Q&A phase
-  - Meredith and Jack are primary BST contacts for KPMG team (IMPORTANT, STARRED emails)
-- **Investor Financial Meetings** — Tax advisors requested for potential investor discussion
-- **Tax Due Diligence Call** — Scheduled with KPMG team (multiple partners listed)
+### CRITICAL - Investor Due Diligence (ACTIVE, HIGH PRIORITY)
+- **KPMG Financial/Accounting Due Diligence** — In active coordination phase
+  - **Data room and contract document requests** from Mark Kightlinger (multiple exchanges Apr 17, STARRED)
+  - **Financial reconciliation questions** from Claudia Behnke — BST Q&A sessions ongoing
+  - **Travel coordination** related to project (Claudia Behnke inquired Apr 17, STARRED)
+  - **Prep meeting held:** "BST Prep Meeting for KPMG discussion" (Gemini notes Apr 17)
+  - Multi-party coordination: Travis Foerschner (KPMG lead), Mark Kightlinger, Bill Jones, Cheryl Kloeckner, Sona Raziabeegum
+  - **Status:** Meredith actively responding to data requests and Q&A from tax advisors (very high engagement Apr 17)
 
-### CRITICAL - DCAA Compliance & Government Audit (ESCALATED)
+### CRITICAL - DCAA Compliance & Government Audit (ESCALATED, ACTIVE)
 - **Navy Pre-Award Accounting System Audit** — Initiated by Milena L. Pennamon (DCAA WE)
-  - Contract: Navy Phase II (likely continuation of N251-016 referenced in previous data)
-  - Requirement: Pre-award survey audit for accounting system compliance
-  - Status: Meredith responding directly to DCAA with audit details (IMPORTANT)
-- **DCAA Compliance Consulting** — Jake Nix (RISCPoint) introduced as potential DCAA consultant
-  - Coordination with Sona Raziabeegum (Krateo Sky) for introduction
+  - Contract: Navy Phase II (likely N251-016)
+  - **Status:** Direct correspondence from Meredith to Jake Nix (RISCPoint) on Apr 17 regarding DCAA compliance consulting
+  - **RISCPoint engagement:** Catherine Baker (RISCPoint) responded Apr 17 to introduce Jake Nix to Meredith
+  - Coordination partner: Sona Raziabeegum (Krateo Sky)
 
-### Government/Defense Contracts (Ongoing)
-- **SNAP-R Legacy System:** Decommissioning planning continues (*PRIVILEGED & CONFIDENTIAL*)
-- **NASA SBIR/ProSAMs:** Final reports, deliverables (80NSSC25C0155)
-- **NOAA Projects:** Funding/PO tracking
-- **Unmanned Experts Contract:** FA8649-24P-0981 — Invoice 1713 remainder payment dispute (ongoing)
-- **Export Licensing:** Mexico deployment approval
-- **STTR Sub-contract:** N6833525C0270
-
-### Stanford Collaboration (Ongoing)
-- **Stanford SACL | Timestamp S2 Avionics** — High-frequency technical coordination
-- **Flight Control Architecture** — Q&A from Ellie Zhang (Stanford)
-
-### Product/Hardware (Updated)
-- **MP JET Parts** — New active coordination with Oier Penagar
+### Government/Defense

@@ -1,10 +1,10 @@
 # Government — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $3,885,459.28
+- **Total Invoiced (Revenue):** $3,900,918.28
 - **Total Expenses (Bills + Purchases):** $1,268,419.09
 - **Total Purchase Orders:** $433.00
-- **Net Position:** $2,617,040.19 (invoiced minus expenses)
+- **Net Position:** $2,632,499.19 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -12,8 +12,8 @@
 ## Revenue (Invoices & Payments)
 
 ### Summary
-- **Total Invoiced:** $3,885,459.28
-- **Total Collected (Outstanding Balance):** $2,617,040.19 remaining (invoices with open balances)
+- **Total Invoiced:** $3,900,918.28
+- **Total Collected (Outstanding Balance):** $2,632,499.19 remaining (invoices with open balances)
 - **Number of Invoices:** 72 active invoices
 
 ### Major Revenue Streams by Project
@@ -23,7 +23,7 @@
 | (400-5) SMM Phase II 22.4D | $1,699,725.00 | CLIN work (004-008): Algorithm dev, field testing, refinement; Soil Moisture Mapping |
 | [300-3] 2026 IDIQ | $576,000.00 | 6 invoices (Invoices 2-6: #1737–#1741), CLIN 1001 modification P26002 + Operational Testing & Support (#1757) |
 | [301-3] S0 Hurricane Phase II 2025 | $844,449.61 | Progress payments, platform deliveries, training & operations |
-| [550-1] Navy SBIR Magnetometer | $449,459.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748) |
+| [550-1] Navy SBIR Magnetometer | $498,918.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750) |
 | [550-2] Navy STTR Hazardous Weather | $216,326.00 | Kick-off, progress, final reports & TABA |
 | [200-14] Autonomy | $156,211.00 | CLIN 0001-0005, initial through final invoicing |
 | [200-11] NASA Persistence Demo | $74,428.00 | Interim & final demonstration reports |
@@ -36,7 +36,7 @@
 | (207) Volcano CCRPP | $254,997.00 | Final reports |
 | (210-10) AREN 2024 | $92,500.00 | Aerospace Engineering |
 
-**New invoices (2026-04-06 to 2026-09-28):**
+**Recent invoices (2026-04-15 to 2026-09-28):**
 - **Invoice #1757** (2026-04-15): $18,000.00 — Operational Testing & Support, Clear Air, Lakeland FL
 - **Invoice #1737** (2026-04-15): $54,000.00 — CLIN 1001 Invoice 2 of 6
 - **Invoice #1738** (2026-05-15): $54,000.00 — CLIN 1001 Invoice 3 of 6
@@ -69,8 +69,8 @@
 
 ---
 
-### **Materials & Supplies: $437,589.74**
-**Number of transactions:** 165  
+### **Materials & Supplies: $437,873.73**
+**Number of transactions:** 166  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
 - **JAWSTEC:** $19,627.62 (components for S0 platforms)
@@ -83,12 +83,7 @@
 - **PCB boards, stencils, parts sourcing:** ~$30,000+
 
 **New April 2026 transactions (2026 IDIQ, Sasquatch, S0 production):**
-- **Digikey (Purchase #98710410):** $283.99 — Supplies for 2026 IDIQ ($93.99), Sasquatch ($18.80), future S0 inventory ($28.20), shop supplies ($143.00)
-- **Direct Cost Purchases (unnamed vendor, 2026-04-15):** $4,540.11 — S2 Case
-- **Purchase #68057 (2026-04-10):** $3,330.65 — 3 S0 projects (2026 IDIQ: $2,220.43 + $444.09; uncategorized asset: $666.13)
-- **Purchase (2026-04-09):** $64.77 — S0 components split across 2026 IDIQ, Sasquatch, 6 future S0s ($43.18 + $8.64 direct; $12.95 inventory)
-- **Purchase #98541533 (2026-04-09):** $23.00 — Direct cost supplies for 2026 IDIQ
-- **Amazon (2026-04-10):** $19.99 — Shop supplies (4G LTE antenna magnetic mounting base)
+- **Digikey (Purchase #98710410):** $283.99 — Supplies for 2026 IDIQ ($93.99), Sasquatch ($18.80), future S0 inventory ($28.20)
 
 ---
 
@@ -120,8 +115,7 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 - **USPS reimbursements:** $12.25 + $25.45
 - **Various parcel shipping:** $200+ across multiple vendors
 
-**New April 2026 transactions:**
-- **Direct Cost Shipping (2026-04-10):** $28.75 — Shipping tool to Sean Cole (Phase1 Aviation) for S0 manufacturing ($19.17 + $3.83 direct; $5.75 inventory allocation for 6 future S0 sales)
+**Note:** Tool shipping to Sean Cole (Phase1 Aviation) for S0 manufacturing ($28.75, 2026-04-10) is allocated to Shop Supplies/Facilities.
 
 ---
 
@@ -133,6 +127,16 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 - **License/permits:** $900.00 (Mexico drone certificate 02/04/26)
 - **Finance charges:** $75.00 (wire transfer fees)
 - **Office supplies:** $41.88 + misc shop supplies
+
+---
+
+### **Facilities/Shop Supplies: $143.00 (NEW)**
+**Number of transactions:** 1  
+**Items:**
+- **Shop supplies allocation (Digikey purchase):** $143.00 (part of Purchase #98710410, 2026-04-17)
+- **Tool shipping to Sean Cole (Phase1 Aviation):** $28.75 (2026-04-10, for S0 manufacturing)
+
+**Total Facilities category (including shipping):** $171.75
 
 ---
 
@@ -151,9 +155,12 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 
 ## Monthly Spend by Category
 
-| Month | Subcontractors | Materials | Travel | Shipping | Overhead | **Total** |
-|-------|----------------|-----------|--------|----------|----------|----------|
-| 2024-04 | $210.00 | $0.00 | $0.00 | $0.00 | $0.00 | $210.00 |
-| 2024-05 | $97,800.00 | $0.00 | $0.00 | $0.00 | $300.00 | $98,100.00 |
-| 2024-06 | $98,025.00 | $0.00 | $25.45 | $0.00 | $112.35 | $98,162.80 |
-| 2024-07 | $
+| Month | Subcontractors | Materials | Travel | Shipping | Indirect | Facilities | **Total** |
+|-------|----------------|-----------|--------|----------|----------|-----------|----------|
+| 2024-04 | $210.00 | $0.00 | $0.00 | $0.00 | $0.00 | $0.00 | $210.00 |
+| 2024-05 | $97,800.00 | $0.00 | $0.00 | $0.00 | $300.00 | $0.00 | $98,100.00 |
+| 2024-06 | $98,025.00 | $0.00 | $25.45 | $0.00 | $112.35 | $0.00 | $98,162.80 |
+| 2024-07–2026-04-16 | *[See previous summary]* | *[See previous summary]* | *[See previous summary]* | *[See previous summary]* | *[See previous summary]* | *[See previous summary]* | *[Cumulative totals above]* |
+| **2026-04** | $0.00 | $283.99 | $0.00 | $0.00 | $0.00 | $171.75 | $455.74 |
+
+---
