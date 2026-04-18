@@ -1,100 +1,95 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 616 (516 previous + 100 new)
-- **Date range:** March 16 – April 17, 2026 (approximately 33 days)
+- **Total messages scanned:** 637 (616 previous + 21 new)
+- **Date range:** March 16 – April 18, 2026 (approximately 34 days)
 - **Approximate volume:** ~19 emails per day
-- **Note:** New sample (Apr 12-17) continues heavy transactional pattern; 100% of new messages are automated vendor notifications, order confirmations, shipping alerts, or system emails. Zero human-to-human correspondence in new batch.
+- **Note:** New sample (Apr 17-18) maintains 100% automated vendor notifications, order confirmations, shipping alerts, and system emails. Zero human-to-human correspondence in new batch. All 21 messages are transactional or task assignments via Asana.
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Jack Elston** (elstonj@blackswifttech.com) — **CRITICAL ACTIVITY SPIKE**: 5 meeting invitations in Apr 12-13 alone for new "Mexico Planning" initiative (marked IMPORTANT multiple times); coordination escalating beyond Hurricane Season project
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Continues heavy vendor notifications; received Kestrel Instruments and SkyGeek emails via purchasing alias
-- **Alexis Lomis** (alex.lomis@blackswifttech.com) — Increased activity; receiving ELEGOO, AMain Hobbies, and direct vendor communications via purchasing alias (3 delivery notifications in new batch)
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — SMT Supplies product feedback request (Apr 15); suggests solder/materials purchasing collaboration
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Asana task notification "UMES S3" (Apr 16) — new project code visible
-- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — Esprit Model shipment notification routed via purchasing alias
-- **Nathaniel Straus** (nate.straus@blackswifttech.com) — Mexico Planning meeting invitee
-- **Maciej Stachura** (maciej.stachura@blackswifttech.com) — Mexico Planning meeting invitee; Harbor Freight promotional email addressed to him (Apr 12)
+- **Jack Elston** (elstonj@blackswifttech.com) — Continues critical activity; Comcast Business Account Manager contact info shared (Apr 17); ongoing Mexico Planning coordination
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — **ESCALATED ACTIVITY**: 3 consecutive Asana task assignments on Apr 17 related to Hurricane IDIQ project (deployment tube board QCs, kit assembly, board validation); indicates direct project leadership on hardware assembly work
+- **Alexis Lomis** (alex.lomis@blackswifttech.com) — Receiving ELEGOO promotional emails (Eco Flash Sale, Apr 17)
+- Daniel Prendergast, Ethan Domagala, Nathaniel Straus, Maciej Stachura — Continue as Mexico Planning attendees (no new activity in this batch)
 
-### Vendor/Supplier Contacts (Continued High Frequency)
-- **DigiKey** — 2 new orders in Apr 17 sample (PO #98710410); active procurement
-- **McMaster-Carr** — Apr 15 order confirmation + invoice (continued fasteners/supplies)
-- **UPS** — 3 delivery notifications Apr 15-17 (packages arriving)
-- **Amazon** — USB 3.0 hardware ordered, shipped, and delivered (Apr 14-15); note pads ordered and delivered (Apr 13)
-- **APC Propellers** — Order received (Apr 13), tracking update (Apr 15), order complete (Apr 15) — 3 notifications in 2-day window; suggests active propeller/rotor sourcing
-- **KDE Direct** — Shipment in transit (Apr 15)
-- **SMT Supplies** — Solder product feedback (Apr 15)
-- **eBay** — Continuous Futaba 14SG RC transmitter search alerts (7 alerts Apr 11-17); persistent active search for this specific model
-- **Hobbyking** — 2 promotional emails (new battery lineup, RC discounts)
-- **Driftaway Coffee** — Order confirmation (Apr 16) and shipment notification (Apr 17); recurring subscription active
-- **Spindrift** — Subscription order scheduled (Apr 17)
-- **SkyGeek** — 3M MRO essentials promotion routed to Joshua Fromm (Apr 15)
-- **AMain Hobbies** — 3 delivery notifications to Alex Lomis (Apr 13-14); hobby electronics arriving
-- **Cobra Foam Inserts** — SKB case feedback request to Meredith (Apr 13); cases/protection still in scope
-- **ELEGOO** — 3 promotional emails (Apr 11, 15, 17) directed to Alexis Lomis; Easter sale, Jupiter 2 product
-- **Harbor Freight** — 6 promotional emails Apr 12-17; Spring Black Friday sale emphasis recurring
-- **Nielsen Kellerman/Kestrel Instruments** — Order confirmation from "NK Sales team" routed to "Ted Miles Elston" (Apr 14) — **NOTE: Unexpected name in recipient field**; newsletter subscription
-- **USPS Informed Delivery** — Daily digests continue (8 in new sample)
-- **Vaisala** — SAHA 2026 Defence & Aerospace Exhibition (Apr 16); also RSS421 technical manual service case created (Apr 13)
-- **18650 Battery Store** — Order review request (Apr 11)
-- **Dronetag** — "Drone Detection Insights" newsletter Mar 2026 (Apr 16)
-- **Craftcloud** — Manufacturing/3D printing order message (Apr 13)
-- **SoaringUSA.com** — Package shipment (Apr 13)
-- **Freightcom** — Shipment delivery notification (Apr 13)
-- **Esprit Model** — Order #237604 shipped to Ethan Domagala (Apr 13)
-
-### External Partners (Updated)
-- **Matthew Crabtree (Waveform Engineering)** — No new activity in Apr sample
-- **microfirm@earthlink.net** — **NEW CONTACT**: Jack Elston correspondence marked IMPORTANT regarding "Board Debug / Orders" (Apr 13); bidirectional exchange suggests vendor or hardware partner
-- **Red Garden Engineering** — No new activity in new sample
+### Vendor/Supplier Contacts (Continued Pattern)
+- **SendCutSend** — Order S834G264 tracking and confirmation (Apr 17); active metal fabrication orders
+- **JawsTec** — Order #68200 received confirmation (Apr 17); precision machining/fabrication work ongoing
+- **DigiKey** — Order confirmation + PO acknowledgement (Salesorder #98710410, Apr 17); continued high-frequency component procurement
+- **UPS** — 2 delivery notifications same day (Apr 17, 12:30pm and 12:06pm EDT); active package arrivals
+- **eBay** — Futaba 14SG search alerts continue (Apr 17); persistent active transmitter sourcing
+- **USPS Informed Delivery** — Daily digest (Apr 17)
+- **Harbor Freight** — Extended Spring Black Friday sale promotion (Apr 17)
+- **Driftaway Coffee** — Order #DR20323COF shipment notification (Apr 17); subscription active
+- **ELEGOO US** — Eco Flash Sale directed to Alexis Lomis (Apr 17)
+- **The Home Depot** — Feedback request (Apr 17); tools/supplies procurement
+- **Comcast Business** — Account manager contact info provided to Jack Elston and purchasing (Apr 17); **suggests infrastructure/network setup activity**
+- **Veeam Webinar** — Data recovery/backup webinar promotion (Apr 17)
 
 ## Topic Patterns
 
 ### Procurement Focus (Expanded)
 
-**Aerospace/Aviation Hardware:**
-- Vaisala RSS421 (technical documentation request, service case #01368414)
-- SAHA 2026 Defence & Aerospace Exhibition (promotional)
-- General Air payment confirmation (Apr 12) — company unknown, possibly aircraft-related vendor
-- Kestrel Instruments (weather measurement — professional-grade; routed to "Ted Miles Elston")
-
-**Propulsion/Rotorcraft:**
-- APC Propellers (3 notifications Apr 13-15) — heavy recent activity
-- KDE Direct motors (Apr 15)
-- MKS Servos (implied from historical data)
-- Futaba 14SG transmitter (7 eBay search alerts in 7 days Apr 11-17) — **continuous active shopping**
-- Hobbyking battery and RC airframe promotions (Apr 13-16)
+**Metal Fabrication/Machining (NEW ESCALATION):**
+- SendCutSend (order S834G264, Apr 17) — metal cutting services
+- JawsTec (order #68200, Apr 17) — precision machining; stronger presence than previous sample
+- **Suggests active hardware prototyping or custom part manufacturing cycle**
 
 **Electronics & Components:**
-- DigiKey (new orders Apr 17)
-- SMT solder products (Meredith feedback, Apr 15)
-- ELEGOO electronics kits (Jupiter 2 platform, 3 promotional emails)
-- Amazon USB 3.0 hardware (Apr 14-15)
-- 18650 lithium batteries (Apr 11)
+- DigiKey (Apr 17 order + confirmation) — continued component sourcing
+- ELEGOO (Apr 17 sale) — electronics kits routed to Alexis Lomis
 
-**Fabrication/Materials:**
-- McMaster-Carr (Apr 15 order)
-- Craftcloud manufacturing (Apr 13)
-- SKB iSeries cases via Cobra Foam (Apr 13)
+**Propulsion/Rotorcraft:**
+- Futaba 14SG transmitter (persistent eBay alerts, Apr 17) — ongoing active search
 
-**Manufacturing Services:**
-- SendCutSend (not in new sample, but historical)
-- JawsTec (not in new sample, but historical)
+**Tools & Supplies:**
+- The Home Depot (feedback request, Apr 17)
+- Harbor Freight (spring sale promotions, Apr 17)
 
-**Subscriptions/Recurring:**
-- Driftaway Coffee (orders #DR20323COF, Apr 16-17)
-- Spindrift Market beverages (Apr 17)
+**Infrastructure/Network:**
+- Comcast Business account manager contact info (Apr 17) — **NEW PATTERN**: business internet/networking setup or upgrade activity involving Jack Elston
+
+**Subscriptions:**
+- Driftaway Coffee (order #DR20323COF, Apr 17) — recurring active
 
 ### Project Visibility (Updated)
 
-**"Mexico Planning"** — **NEW MAJOR PROJECT**
-- Jack Elston initiated 3 calendar invites (Apr 13, 1pm-1:30pm, then 1:30-2pm, then 2-2:30pm MDT) with updated notes each time
-- Core attendees: Sam Hild, Jack Elston, Nathaniel Straus, Joshua Fromm, Ethan Domagala, Maciej Stachura, Alex Lomis, Meredith Needham, Daniel Prendergast (8 people)
-- Google Gemini notes captured meeting (Apr 16)
-- **Marked IMPORTANT multiple times**; suggests strategic initiative, possible field operation or client engagement
+**"Mexico Planning"** — Continues as active initiative; no new meeting invites in this batch but infrastructure (Comcast Business) notification suggests on-ground logistics preparation
 
-**"UMES S3"** — **NEW PROJECT CODE**
-- Asana task [031-1] UMES S3 activity notification (Apr 16)
--
+**"[300-3] 2026 IDIQ (Hurricane)"** — **ESCALATED TO ACTIVE PRODUCTION PHASE**
+- 3 Asana task assignments from Josh Fromm on Apr 17:
+  1. "Finish deployment tube board QCs"
+  2. "Begin kit assembly"
+  3. "QC at least one of each board as they arrive to validate assembly"
+- **Indicates transition from planning/procurement to hands-on hardware assembly and quality control**
+- Sam Hild is primary QC/assembly resource on this project
+- Board delivery/assembly cycle is underway
+
+**"UMES S3"** — Status unknown in new sample
+
+## Communication Patterns
+
+- **Peak activity day:** Apr 17 (15 of 21 new messages); heavy transactional load concentrated on single day
+- **Time distribution:** Emails span UTC and US time zones (CDT, EDT, PDT); no clear early-morning or late-night pattern visible in new batch
+- **Purchasing alias routing:** Majority of vendor emails route through `purchasing@blackswifttech.com` and `purchasing@bst.aero` (note domain variation to .aero domain for coffee/beverage orders)
+- **All human task assignments:** Delivered via Asana automation; zero direct email communication from team members
+- **Unread status:** All 21 new messages marked UNREAD at time of scan
+
+## Key Relationships
+
+- **Joshua Fromm** — Direct project lead; actively assigning hardware assembly/QC tasks (most recent human contact)
+- **Jack Elston** — Strategic coordination on Mexico Planning and infrastructure decisions (Comcast)
+- **Alexis Lomis** — Collaborative procurement (receiving ELEGOO materials routed through purchasing alias)
+- **Fabrication partners** — SendCutSend and JawsTec now showing parallel activity (same-day orders/confirmations), suggesting coordinated manufacturing cycle
+
+## Notable Observations
+
+- **Domain variation:** Driftaway Coffee and one purchasing email routed to `purchasing@bst.aero` instead of `.blackswifttech.com`; suggests secondary or aerospace-focused email domain in use
+- **Manufacturing surge:** Two precision fabrication confirmations (SendCutSend, JawsTec) on same day (Apr 17) indicates hardware build cycle acceleration
+- **Assembly phase active:** Josh Fromm's 3 rapid task assignments signal immediate hands-on work; boards are arriving and need real-time QC
+- **Infrastructure prep:** Comcast Business contact suggests Mexico Planning or other field operation may require dedicated network connectivity setup
+- **Persistent transmitter search:** 7+ days of continuous Futaba 14SG eBay alerts indicates this component is either critical or in short supply; active sourcing remains unresolved
+- **Zero human-to-human email communication:** All 21 messages are purely transactional; team communication appears consolidated to Asana task system
+- **Veeam webinar receipt:** Unusual promotional email to personal BST inbox (not purchasing alias); may indicate personal interest in backup/recovery systems, or general IT broadcast

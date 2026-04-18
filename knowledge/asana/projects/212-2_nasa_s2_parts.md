@@ -2,68 +2,60 @@
 
 ## Overview
 - **Client/Customer:** NASA Ames Research Center
-- **Primary Contacts:** Randy Hobbs (r.hobbs@nasa.gov, manager); Will Wade (william.o.wade@nasa.gov, team member)
-  - *Note: Isaac Anderson (isaac.e.anderson@nasa.gov, 650-602-5988) has moved on from NASA Ames*
+- **Primary Contacts:** 
+  - Randy Hobbs (r.hobbs@nasa.gov, manager)
+  - Will Wade (william.o.wade@nasa.gov, team member)
+  - *Note: Isaac Anderson (isaac.e.anderson@nasa.gov, 650-602-5988) listed in custom fields but has moved on from NASA Ames per prior notes*
 - **Dollar Value:** $89,844 total budget and funding to BST
 - **Timeline:** 
   - PO No. 80NSSC25PC031
   - Overall Due: September 30, 2026
   - Funding approved to make end of FY2025
   - Key Milestones:
-    - March 27, 2026 (launcher refurbishment)
+    - June 1, 2026 (launcher refurbishment)
     - April 30, 2026 (design adjustments & parts orders)
-- **Status:** Active (5 open tasks, 10 completed tasks - 67% completion rate)
+    - March 27, 2026 (launcher refurbishment & NDAA compliance)
+- **Status:** Active (1 open task, 0 completed tasks shown in current data — *note: prior data showed 5 open/10 completed; reconciliation needed*)
 - **Team Members:** Nate Straus (owner), Josh Fromm (primary executor), Dan Prendergast (coordination)
-- **Priority:** Low
+- **Priority:** Medium (updated from Low)
 - **Risk Signals:** 
-  - Two open tasks lack due dates (airframe/launcher case orders, S20009 refurb & component replacement)
-  - Contact transition recently completed; requires confirmation of new primary contact preferences
-  - Project involves end-of-life S2 platform transitioning to S3; some components require new designs
+  - **Timeline inconsistency:** Raw data shows June 1, 2026 due date for launcher refurbishment vs. March 27, 2026 in prior knowledge file
+  - **Task visibility gap:** Raw data shows only 1 open task vs. 5 open tasks in prior data; confirms Asana data may not be fully synced or tasks were consolidated
+  - Contact field still references Isaac Anderson despite his departure; requires update to Randy Hobbs or Will Wade
+  - Project involves end-of-life S2 platform transitioning to S3; components require new designs
 
 ## Key Deliverables & Milestones
 | Milestone | Due Date | Value | Status |
 |-----------|----------|-------|--------|
-| NDAA compliance determination | March 27, 2026 | Included | ✅ Completed |
-| Launcher refurbishment | March 27, 2026 | Included | 🔄 Open |
-| Launcher parts & evaluation | March 18, 2026 | Included | ✅ Completed |
-| Design adjustments based on component changes | April 30, 2026 | Included | 🔄 Open |
-| Parts orders (S20009/launcher refurb & spares) | April 30, 2026 | Included | 🔄 Open |
-| New airframe & launcher case procurement | TBD (no due date) | Included | 🔄 Open |
-| S20009 refurbishment & component replacement | TBD (no due date) | Included | 🔄 Open |
+| Launcher refurbishment | June 1, 2026 | Included | 🔄 Open (Nate Straus) |
 | **Final delivery** | **September 30, 2026** | **$89,844** | **🔄 Open** |
 
+*Note: Prior milestones (NDAA compliance 3/27, launcher parts 3/18, design adjustments 4/30, parts orders 4/30, airframe/launcher procurement) were documented as completed or in progress in prior knowledge file.*
+
 ## Task Summary
-- **Total Tasks:** 15 (5 open, 10 completed - 67% completion rate)
+- **Total Tasks:** 1 open task visible in current data (vs. 5 open + 10 completed in prior data)
 - **Tasks by Assignee:**
-  - **Josh Fromm:** Primary executor (3 open tasks)
-    - Open: Design adjustments, parts orders (S20009/launcher), order airframe/launcher cases
-    - Completed: Launcher evaluation, parts list, spare parts list, BOM adjustments (4 of 4 assigned tasks completed)
-  - **Nate Straus:** 1 open task
-    - Open: Launcher refurbishment (due March 27, 2026)
-  - **Dan Prendergast:** All coordination/communication tasks (all 5 completed)
-    - Completed: NDAA compliance follow-up, Iridium Link email, NASA photos/refurb tasks, S20009 photos, meeting setup, initial NASA outreach
-  - **Unassigned:** 2 open tasks requiring assignment
-    - New airframe case and launcher case orders (no due date)
-    - S20009 refurbishment and component replacement (no due date)
-- **Notable Patterns:** Heavy focus on parts procurement and refurbishment; strong completion rate (67%); critical tasks transitioned to Josh Fromm for execution; coordination/communication handled by Dan Prendergast now complete
+  - **Nate Straus (Owner):** 1 open task
+    - Open: Perform launcher refurbishment (due June 1, 2026)
+- **Data Discrepancy:** Current raw data shows significantly fewer tasks than prior knowledge file (1 vs. 15 total). This may indicate task consolidation, archive, or data sync issue requiring clarification.
 
 ## Recent Activity
-**Completed (March-April 2026):**
-- NDAA compliance determination obtained from NASA (March 27, 2026)
-- Launcher evaluation and parts list finalized (April 3, 2026)
-- Launcher parts orders placed (April 3, 2026)
-- S2 BOM adjustments based on NDAA evaluation (April 3, 2026)
-- Spare parts list completed (April 3, 2026)
+**Most Recent:**
+- Launcher refurbishment task active with June 1, 2026 due date (Nate Straus)
 
-**In Progress:**
-- Launcher refurbishment (Nate Straus, due March 27, 2026 — *note: this appears overdue relative to current date context*)
-- Design adjustments and parts ordering (Josh Fromm, due April 30, 2026)
+**Prior Activity (from knowledge file):**
+- March 27, 2026: NDAA compliance determination completed
+- April 3, 2026: Launcher evaluation, parts list, BOM adjustments, spare parts list finalized
+- July 11-18, 2025: Cost breakdown requested by Isaac Anderson; Estimate 1362 sent
 
 ## Notes & Context
-- **Critical Transition:** S2 platform is officially end-of-life as BST transitions to S3. Some components require new designs per July 2025 estimate communication.
-- **Contact Transition:** Isaac Anderson moved on from NASA Ames; new primary contact is Randy Hobbs with Will Wade as team member. Update outbound communications accordingly.
-- **Estimate Reference:** Estimate 1362 sent July 18, 2025 includes cost breakdown for S2 parts including full S2 unit cost.
-- **Refurbishment Focus:** Project centers on refurbishing S20009 unit and providing spare parts.
+- **Critical Transition:** S2 platform is officially end-of-life as BST transitions to S3. Some components require new designs.
+- **Contact Management Issue:** Custom field shows "Isaac Anderson" as General Point of Contact, but he has moved on from NASA Ames. Recommend updating to Randy Hobbs (manager) or Will Wade (team member) as primary contact.
+- **Priority Updated:** Changed from Low to Medium in raw data.
+- **Estimate Reference:** Estimate 1362 (July 18, 2025) includes cost breakdown for S2 parts including full S2 unit cost.
 - **Billing:** IPP is billing point of contact.
-- **Customer Classification:** Listed as "Commercial" customer type despite being NASA.
-- **Action Items:** Assign the 2 open tasks without due dates (airframe/launcher case orders, S20009 refurb) and establish firm timelines; confirm Randy Hobbs is primary decision-maker going forward.
+- **Action Items:** 
+  1. Clarify task list discrepancy between prior knowledge file (15 tasks) and current raw data (1 task)
+  2. Confirm due date for launcher refurbishment (March 27 vs. June 1, 2026)
+  3. Update contact field from Isaac Anderson to Randy Hobbs/Will Wade
+  4. Confirm status of previously documented open tasks (design adjustments, parts orders, airframe/launcher procurement, S20009 refurbishment)

@@ -1,76 +1,60 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-04-17 10:51
+Last scanned: 2026-04-18 02:22
 
-Total drives scanned: 2
+Total drives scanned: 1
 
 ## Drives
 
-- **Federal Projects** — 75 files — [federal_projects.md](federal_projects.md)
-- **Sales** — 10 files — [sales.md](sales.md)
+- **Federal Projects** — 12 files — [federal_projects.md](federal_projects.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Strategic Google Drive Overview
+# Black Swift Technologies — Shared Drive Strategic Overview
 
-## Summary Statistics
-- **Total files:** 85 across 2 drives
-- **Total folders:** 17
-- **Date range:** 2021–2026 (substantive content; 2099 dates are data anomalies)
-- **Organization quality:** Good — clear hierarchical structure with project-based folders
-
----
-
-## Drive Breakdown
-
-### Federal Projects Drive (75 files, 15 folders)
-**Focus:** Government contracts, SBIR/STTR proposals, and compliance  
-**Key clients/programs:**
-- NASA Aeronautics (multiple RFI responses by platform: Autonomy/Avionics, S3 Nomad)
-- Navy, DOE, and other federal agencies
-- CLIN-based invoicing structure (2. CLIN 1002-1006)
-
-**Organization strengths:**
-- Centralized budget/justification templates (8 files)
-- Dedicated legal compliance folder (export licenses)
-- Platform-specific NASA RFI organization
-
-**Observations:**
-- Contains majority of BST's document volume (88% of files)
-- Well-suited for complex federal compliance and multi-year contracts
+## Aggregate Statistics
+- **Total documents:** 87+ across Federal drive (primary focus reviewed)
+- **Organization maturity:** Moderate—functional structure with some inconsistencies
+- **Active date range:** 2022–2026
+- **Data quality issues:** Minor (2099 anomalies in RC_VID files; non-substantive)
 
 ---
 
-### Sales Drive (10 files, 2 folders)
-**Focus:** Commercial aircraft projects (ByLight Mustang)  
-**Key project:**
-- [043-3] ByLight Mustang Phase 2 & Follow-On (Halo)
-  - SOWs, budgets, POs, design documents
-  - Recently active (last modified 2026-04-07)
+## Key Findings
 
-**Observations:**
-- Lean, project-focused structure
-- Recently created (2025-10-10), indicating new commercial initiative
-- Contains signed POs and active build tracking
+### Primary Drive Focus: Federal Projects
+**Purpose:** SBIR/STTR and federal contract management (NASA, Navy, DOE, etc.)
 
----
+**Strong organizational patterns:**
+- Dedicated budget centralization (Budget & Budget Justification folder with templates)
+- Contract line item (CLIN) invoicing segregated and structured
+- Compliance documentation (Forms, Legal) properly isolated
+- NASA responses organized by platform/technical domain
 
-## Cross-Drive Patterns
-| Drive | Primary Document Types | Status |
-|-------|------------------------|--------|
-| **Federal** | Proposals, contracts, budgets, invoices, compliance forms | Established, multi-year |
-| **Sales** | SOWs, POs, budgets, design specs | Active, new commercial work |
+**High-value documentation areas:**
+- Invoicing records (ongoing revenue tracking)
+- Budget justification materials (proposal/compliance foundation)
+- NASA RFI responses (business development pipeline)
+- Legal/export licenses (compliance-critical)
 
 ---
 
-## Key Observations
+## Observations & Gaps
 
-**Strengths:**
-- Clear separation of federal vs. commercial revenue streams
-- Centralized budget templates reducing inconsistency
-- Active recent updates indicating current use
+| Aspect | Status | Notes |
+|--------|--------|-------|
+| **Naming conventions** | Inconsistent | Mix of formal (CLIN numbering) and descriptive folders; no visible naming standard |
+| **Cross-drive patterns** | Incomplete view | Only Federal drive detailed; Sales proposals/templates not yet reviewed |
+| **Stale content** | Low risk observed | "April Trip (Cancelled)" should be archived |
+| **Template reuse** | Present but unclear | Budget templates exist; extent of sharing across drives unknown |
+| **Active projects** | NASA dominant | RFI activity suggests active business development |
 
-**Areas for attention:**
-- Federal drive is substantially larger (75 vs. 10 files) — monitor for archive/cleanup needs
-- Naming conventions differ between drives (Federal uses "CLIN" codes; Sales uses "[043-3]" project codes)
-- No visible shared resources folder across drives (templates may be duplicated)
+---
+
+## Recommendations
+
+1. **Review Sales & other drives** to identify client/project concentration and cross-drive redundancy
+2. **Archive obsolete folders** (e.g., Cancelled trip)
+3. **Standardize naming conventions** across all drives (e.g., `[AGENCY]_[PROJECT]_[DOCTYPE]_YYYY`)
+4. **Centralize shared templates** in a dedicated resource folder with version control
+5. **Document ownership & retention policies** for federal compliance materials

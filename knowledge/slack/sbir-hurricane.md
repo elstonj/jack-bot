@@ -38,6 +38,7 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - New PSNS firmware with corrected humidity reference validation implemented (April 8, 2026)
 - Battery tracking logging enabled on all PSNS boards for sleep mode diagnostics (April 8, 2026)
 - Sensor boom compatibility identified as critical - older booms incompatible with newer sensors (April 10, 2026)
+- Reconditioning cycle confirmed effective for correcting humidity sensor bias (April 17, 2026)
 
 ## Projects & Initiatives
 
@@ -85,11 +86,10 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - RSSI reporting issue: Ch2 showing -1 values while still transmitting telemetry (signal degradation masked)
 - RF cable quality: Channel 2 showing 15dB worse RSSI than Channel 1 initially, improved to 1.7dB loss (Ch1) vs 2.5dB (Ch2) after cable replacement by AOC
 
-**Vaisala RSS421 Humidity Sensor Issues (April 8-10, 2026):**
-- Systematic RH readings 20-30% lower than reference measurements
-- All 2025 aircraft affected; issue not present in 2024 units
-- Investigation findings:
-  - Issue isolated to PCB, not sensor boom or connectors
+**Vaisala RSS421 Humidity Sensor Resolution (April 8-17, 2026):**
+- Initial issue: Systematic RH readings 20-30% lower than reference measurements affecting all 2025 aircraft
+- Root cause investigation completed:
+  - Issue isolated to PCB and individual unit configuration variations, not sensor boom or connectors
   - Heating mode critical: must be ON for accurate readings
   - Older sensor booms incompatible with newer sensors causing heating mode to disable
   - New and old sensors read identically when tested on compatible boom/airframe combinations
@@ -97,12 +97,10 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
   - Reconditioning cycle (heating time) affects stabilization but not core accuracy
   - Post-reconditioning, some units that read low initially began reading correctly
   - First reading often correct, then rapidly reduces (possible heater control issue)
+- **Recent Resolution (April 17, 2026):**
+  - Jack Elston identified ~3% RH bias in "new" units compared to reference units
+  - Reconditioning cycle successfully removed the 3% bias across affected units
+  - All units now reading consistently after reconditioning
+  - Status: Issue appears resolved; units can return to service
 - Actions taken:
-  - Technical support tickets opened with Vaisala requesting updated manual for status bit definitions
-  - Settings dumps collected from known good vs bad units for comparison (Jack Elston)
-  - Comprehensive testing approach: full build/QC/preflight process to identify failure point
-  - Vaisala password: BSTOct11! (purchasing email login)
-- Current status: Benching affected units pending Vaisala documentation update
-
-**Data Processing & Analysis (April 7-10, 2026):**
--
+  - Technical support tickets opened with Vaisala requesting updated

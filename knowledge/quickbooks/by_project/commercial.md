@@ -1,10 +1,10 @@
 # Commercial — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $1,351,658.36
-- **Total Expenses (Bills + Purchases):** $177,597.96
+- **Total Invoiced (Revenue):** $1,463,287.36
+- **Total Expenses (Bills + Purchases):** $177,881.95
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $1,174,060.40 (Revenue exceeds expenses)
+- **Net Position:** $1,285,405.41 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – May 8, 2026
 
 ---
@@ -15,9 +15,9 @@
 
 | Invoice # | Date | Amount | Customer | Balance |
 |-----------|------|--------|----------|---------|
-| 1758 | 2026-04-16 | $0.00 | Black Swift Technologies | Voided |
 | 1757 | 2026-05-08 | $63,735.00 | [043-3] By Light Halo | $63,735.00 |
 | 1756 | 2026-05-08 | $47,894.00 | [043-3] By Light Halo | $47,894.00 |
+| 1758 | 2026-04-16 | $0.00 | Black Swift Technologies | Voided |
 | 1756 | 2026-04-10 | $62,500.00 | (035-1) Adonis | $62,500.00 |
 | 1755 | 2026-04-10 | $90,000.00 | [032-3] Sasquatch S0s x 4 | $90,000.00 |
 | 1753 | 2026-04-08 | $15,000.00 | [043-3] By Light Halo | $15,000.00 |
@@ -64,82 +64,121 @@
 | 1618 | 2024-04-19 | $13,853.10 | [451] INSTAAR Stable Isotope Lab, CU Boulder | Paid |
 
 ### Revenue Summary
-- **Total Invoiced:** $1,351,658.36
+- **Total Invoiced:** $1,463,287.36
 - **Total Collected (Paid):** $1,075,726.08
-- **Outstanding Balance:** $275,932.28 *(+$148,432.00 in new invoices from Apr 8–May 8, 2026)*
+- **Outstanding Balance:** $387,561.28 *(includes new invoices #1757 and #1756 from May 8, 2026)*
 
 ---
 
 ## Expenses by Category
 
 ### **Direct Labor / Subcontractors**
-**Total: $869,337.99** *(unchanged from prior period)*
+**Total: $869,337.99**
+*(No new labor or subcontractor invoices in this batch)*
 
-[Previous summary maintained as above—no new labor/subcontractor invoices in this data batch]
+[Previous summary maintained—see prior knowledge file for detailed breakdown]
 
 ---
 
 ### **Materials & Supplies**
-**Total: $68,713.82** *(+$283.96 new purchases)*
+**Total: $68,997.78** *(+$283.96 new purchases)*
 
 #### Direct Cost Purchases (Components & Supplies)
-- **Digi-Key Corp (2026-04-17):**
+- **Digi-Key Corp Purchase #98710410 (2026-04-17):**
   - $93.99 — Supplies for 2026 IDIQ
   - $18.80 — Supplies for Sasquatch (Notre Dame)
   - **Subtotal: $112.79**
 
-- **Purchase #68057 (2026-04-10):**
-  - $2,220.43 — For 3 S0 projects (2026 IDIQ, Sasquatch, 6 future sales)
-  - $444.09 — For 3 S0 projects
-  - **Subtotal: $2,664.52**
-
-- **Purchase #237604 (2026-04-09):**
-  - $74.85 — Aeronaut Yoke for Turbo and Black 2-Blade Spinners x 6
-
-- **Purchase #17274 (2026-04-09):**
-  - $234.95 — GM 17x13 Prop x 5 (Soaring USA Inc)
-
-- **Split Purchases (2026-04-09):**
-  - $43.18 — Parts (only 3 sets shipped; 40 pending)
-  - $8.64 — Split between 3 S0 projects
-
 - **Previous Materials & Supplies Balance:** $68,429.83
 
-**Total Materials & Supplies: $68,713.82**
-
----
-
-### **Shipping/Freight**
-**Total: $23.00** *(+$23.00 new shipping)*
-
-- **Purchase #28.75 (2026-04-10):**
-  - $19.17 — Shipping tool to Sean Cole (Phase1 Aviation) for S0 manufacturing
-  - $3.83 — Associated shipping costs
-  - **Subtotal: $23.00**
-
----
-
-### **Travel** (Updated from Sasquatch Invoice #1746)
-**Total: $5,650.00** *(new allocation from April 2026 invoicing)*
-
-Sasquatch S0s x 4 (Invoice #1746, 2026-04-10) includes travel & support:
-- $6,800.00 — Flight Operations support (full day, operator & technician)
-- $4,800.00 — Roundtrip flights Denver to Tampa + airport fees
-- $600.00 — Lodging (4 nights)
-- $90.00 — Full Days (2 days)
-- $100.00 — Travel Days
-- $260.00 — Car Rental (5 days)
-- **Travel Subtotal: $5,650.00**
+**Total Materials & Supplies: $68,997.78**
 
 ---
 
 ### **Equipment/Inventory**
-**Total: $46.63** *(new inventory allocations)*
+**Total: $752.83** *(+$28.20 allocation)*
 
-- **Digi-Key Corp (2026-04-17):** $28.20 — Supplies for future sales of 6 S0s
-- **Purchase #68057 (2026-04-10):** $666.13 — Uncategorized Asset (for future sales)
-- **Purchase (2026-04-09):** $12.95 — Supplies for 3 S0 projects (future sales allocation)
-- **Purchase (2026-04-10):** $5.75 — Sean Cole shipment for 6 future S0 sales
-- **Shop Supplies (Facilities):** $143.00 — From Digi-Key (allocated to facilities)
+- **Digi-Key Corp Purchase #98710410 (2026-04-17):**
+  - $28.20 — Supplies for future sales of 6 S0s
+  - **Subtotal: $28.20**
 
-**Equipment Subt
+- **Previous Equipment/Inventory Balance:** $724.63
+
+**Total Equipment/Inventory: $752.83**
+
+---
+
+### **Rent/Facilities**
+**Total: $545.36** *(+$143.00 allocation)*
+
+- **Digi-Key Corp Purchase #98710410 (2026-04-17):**
+  - $143.00 — Shop Supplies
+  - **Subtotal: $143.00**
+
+- **Previous Facilities Balance:** $402.36
+
+**Total Rent/Facilities: $545.36**
+
+---
+
+### **Shipping/Freight**
+**Total: $23.00**
+*(No new shipping transactions)*
+
+---
+
+### **Travel**
+**Total: $5,650.00**
+*(No new travel allocations)*
+
+---
+
+### **Other / Unallocated**
+**Total: $0.00**
+
+---
+
+## Expenses Summary by Category
+
+| Category | Total | # Transactions | Change |
+|----------|-------|---------------|---------| 
+| Direct Labor / Subcontractors | $869,337.99 | — | — |
+| Materials & Supplies | $68,997.78 | +1 | +$283.96 |
+| Equipment/Inventory | $752.83 | +1 | +$28.20 |
+| Rent/Facilities | $545.36 | +1 | +$143.00 |
+| Shipping/Freight | $23.00 | — | — |
+| Travel | $5,650.00 | — | — |
+| **TOTAL EXPENSES** | **$177,881.95** | **+3** | **+$455.16** |
+
+---
+
+## Purchase Orders
+**Total POs:** $1,977.50 (no new POs in this batch)
+
+---
+
+## Monthly Spend by Category
+
+### May 2026
+| Category | Amount |
+|----------|--------|
+| Materials & Supplies | $112.79 |
+| Equipment/Inventory | $28.20 |
+| Rent/Facilities | $143.00 |
+| **May Subtotal** | **$283.99** |
+
+### April 2026
+| Category | Amount |
+|----------|--------|
+| Materials & Supplies | — |
+| Equipment/Inventory | — |
+| Rent/Facilities | — |
+| **April Subtotal** | **—** |
+
+---
+
+## Notable Transactions
+
+### **LARGE NEW REVENUE (May 2026)**
+- **Invoice #1757 (2026-05-08):** $63,735.00 to [043-3] By Light Halo  
+  

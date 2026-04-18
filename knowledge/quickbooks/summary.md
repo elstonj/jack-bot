@@ -1,100 +1,88 @@
 # BST Financial Overview (QuickBooks)
-**Period: April 6 – April 17, 2026**
-
----
 
 ## Company Totals
 
 | Metric | Amount |
 |--------|--------|
-| **Total Revenue** | $5,526,012.92 |
-| **Total Expenses** | $2,254,531.97 |
-| **Net Income (Period)** | $262,518.07* |
-
-*Period P&L shows $262.5K net; however, cumulative project data (24+ months) shows significantly higher expenses across all classes. The two-week P&L period does not fully reflect the project balances.*
+| **Total Revenue (Invoices)** | $5,364,205.64 |
+| **Total Expenses** | $2,272,192.74 |
+| **Net Income** | $3,092,012.90 |
 
 ---
 
 ## By Project/Class
-**Sorted by Total Activity (Revenue + Expenses)**
+*Sorted by total activity (revenue + expenses)*
 
-| Project | Total Revenue | Total Expenses | Net Position | Status |
-|---------|---|---|---|---|
-| **Government** | $3,885,459.28 | $1,268,419.09 | **+$2,617,040.19** | Strongest performer |
-| **Commercial** | $1,351,658.36 | $177,597.96 | **+$1,174,060.40** | Highly profitable |
-| **BST Internal** | $17,894.36 | $824,882.23 | **-$806,987.87** | Cost center (overhead/R&D) |
-| **Unclassified** | $1.00 | $3,404,632.27 | **-$3,404,631.27** | Significant unallocated expenses |
-| **TOTAL** | **$5,255,013.00** | **$5,675,531.55** | **-$420,518.55** | |
+| Project | Total Revenue | Total Expenses | Net Position |
+|---------|---------------|----------------|--------------|
+| **Government** | $3,900,918.28 | $1,268,419.09 | **$2,632,499.19** |
+| **Commercial** | $1,463,287.36 | $177,881.95 | **$1,285,405.41** |
+| **BST Internal** | $17,894.36 | $825,891.70 | **-$807,997.34** |
+| **Unclassified (Period Report)** | $0.00 | $1,053.76 | **-$1,053.76** |
+
+**Key Finding:** Government and Commercial projects are highly profitable; BST Internal is significantly loss-making.
+
+---
+
+## Top Customers (by Revenue)
+
+| Customer | Amount |
+|----------|--------|
+| Government contracts (72 invoices) | $3,900,918.28 |
+| By Light Halo [043-3] | $111,629.00+ |
+| Krateo Sky | $10,860.48 |
+| *Other Commercial clients* | Remaining Commercial revenue |
 
 ---
 
 ## Top Vendors
-*(Data incomplete in source; partial vendor list from recent activity)*
+*Insufficient detail in provided data.* 
+- Direct Cost Purchases (DC): $112.79 (period)
+- Business Development (GA): $725.00 (period)
+- Shop Supplies (FA): $215.97 (period)
 
-| Rank | Vendor | Estimated Spend |
-|------|--------|---|
-| 1 | Various subcontractors & materials (Government projects) | $1.2M+ |
-| 2 | Travel & logistics (airfare, lodging, car rental) | $3,416.29 |
-| 3 | Payroll & healthcare | $6,498.51 |
-| 4 | Legal services | $5,662.50 |
-
----
-
-## Top Customers
-*(By Invoice Amount)*
-
-| Rank | Customer | Total Invoiced | Outstanding Balance |
-|------|----------|---|---|
-| 1 | Government contracts (72 active invoices) | $3,885,459.28 | $2,617,040.19 |
-| 2 | By Light Halo [043-3] | $63,735.00 | Partial |
-| 3 | Krateo Sky | $10,860.48 | $10,860.48 |
-| 4 | Various commercial clients | $1,351,658.36 | TBD |
-| 5 | Oklahoma State University | $1.00 | Collected |
+**Note:** Major vendor breakdown requires detailed bill/expense records not fully provided.
 
 ---
 
 ## Cash Flow Indicators
 
-### Accounts Receivable (Outstanding)
-- **Government projects**: $2,617,040.19 outstanding across 72 invoices
-- **BST Internal**: $10,860.48 (Krateo Sky, invoice #1752)
-- **Commercial**: Partial balance on invoice 1757 ($63,735.00 issued)
-- **Total A/R**: ~$2.7M+ (liquidity constraint)
+### Accounts Receivable (Outstanding Balances)
+
+| Project | Outstanding AR |
+|---------|-----------------|
+| **Government** | $2,632,499.19 (72 open invoices) |
+| **Commercial** | $63,735.00+ (minimum; partial data) |
+| **BST Internal** | $10,860.48 (Invoice #1752, Krateo Sky) |
+
+**Total AR:** ~$2,707,094.67+ outstanding
 
 ### Recent Large Expenses
-- **Unclassified category**: $3.4M over 24 months (requires reclassification review)
-- **Government projects**: $1.27M cumulative expenses
-- **BST Internal**: $824.9K cumulative (internal overhead/R&D)
-- **Period travel**: $3,416.29 (airfare, lodging, car rental)
-- **Legal fees**: $5,662.50
+- Business Development: $725.00 (April 2026)
+- Shop Supplies: $215.97 (April 2026)
+- Direct Cost Purchases: $112.79 (April 2026)
+
+**Note:** Most expenses are at BST Internal project (cumulative $825,891.70 over 24+ months).
 
 ### Project Activity Status
-- **Government**: Active (72 invoices spanning 2024–2026)
-- **Commercial**: Active (recent invoice May 8, 2026)
-- **BST Internal**: Mixed (ongoing overhead, latest invoice April 3, 2026)
-- **Unclassified**: Minimal activity (one $1 invoice from Sept 2024; major expenses unattributed)
+- **Government:** Active (69+ invoices through Sept 2026, strong cash generation)
+- **Commercial:** Active (recent invoices May 2026)
+- **BST Internal:** May be winding down or operational overhead (3 transactions, last invoice April 3, 2026)
 
 ---
 
-## Unclassified Transactions (Critical Issue)
+## Unclassified Transactions
+- **Period-only expenses (Apr 17-18, 2026):** $1,053.76
+  - Facilities (Shop Supplies): $215.97
+  - General & Admin (Business Development): $725.00
+  - Direct Costs (Purchases): $112.79
 
-| Metric | Amount |
-|--------|--------|
-| Total Unclassified Expenses | $3,404,632.27 |
-| Revenue | $1.00 |
-| **Net Impact** | **-$3,404,631.27** |
-
-**⚠️ Key Finding**: $3.4M in expenses are not assigned to any project class. This represents **60% of total expenses** and obscures actual project profitability. **Action required**: Audit and reclassify unassigned transactions to appropriate projects (likely Government or BST Internal).
+These appear to be overhead not yet assigned to the three named projects.
 
 ---
 
-## Financial Health Summary
-
-✅ **Strengths:**
-- Government and Commercial projects are highly profitable (+$3.8M combined)
-- Strong revenue base ($5.5M invoiced)
-
-⚠️ **Concerns:**
-- Massive unclassified expense pool requires immediate investigation
-- A/R concentration in Government contracts ($2.6M outstanding) poses liquidity risk
-- BST Internal operating at significant loss (-$807K)
+## Summary Recommendations
+1. **Priority:** Collect $2.7M+ in outstanding Government AR
+2. **Review:** BST Internal project losing $808K—determine if this is intentional overhead or project that needs restructuring
+3. **Leverage:** Commercial segment has strong 88% profit margin; consider expanding
+4. **Clarity:** Obtain detailed vendor and expense category breakdowns for better cost management

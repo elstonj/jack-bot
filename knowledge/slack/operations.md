@@ -5,7 +5,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination), Paige Smith (admin), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,430+ messages across multiple batches spanning from July 2020 through April 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Recent activity (April 2026) includes AI assistant integration and ongoing project refinements.
+**Activity level:** High-volume channel with 3,430+ messages across multiple batches spanning from July 2020 through April 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Recent activity (April 2026) continues with project refinements, AI assistant integration, and NDAA compliance discussions.
 
 ---
 
@@ -65,24 +65,16 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **Export documentation:** ECCN classification requests from CU Boulder for S2 aircraft in compliance process.
 - **S2 shipment from NASA Ames:** Richard Kolyer shipment postponed to January 2024 (only aircraft and ground station shipping; launcher retrofitting with safety updates continues separately).
 
+### NDAA Compliance (April 17, 2026)
+**Status Assessment:**
+- **S0-VTOL, S0-AD, E2:** Can be made NDAA compliant; self-certification process (no formal federal certification required)
+- **S3:** No electronics with final assembly in China; mechanical components currently manufactured in China but can be sourced domestically at increased cost; compliant or can be made compliant
+- **S0-AD:** Similar status to S3; electronic components need assessment; rotary latches contain electronics requiring review
+- **E2:** Already sold one NDAA-compliant unit (RC receiver swapped). Self-certification process confirmed by Maciej Suwinski
+- **Marketing guidance:** Avoid "NDAA Certified" terminology (no formal certification process exists). Use safer language like "NDAA Compliant" with supporting documentation (example provided: Google Doc with E2 compliance details)
+- **Decision:** Team can market NDAA compliance on S3 and S0-AD per Maciej Suwinski's guidance; focus on eliminating Chinese-origin microelectronics and final assembly concerns
+- **Responsibility:** Paige Smith coordinating marketing language and compliance documentation with input from Maciej, Joshua Fromm, and Alex Lomis
+
 ### AI Assistant Development (April 2026)
 - **April 6, 2026:** Jack Elston implementing "Jack Bot" AI assistant that reads #operations channel history to provide task summaries and refine outputs based on team feedback.
 - **April 16-17, 2026:** Beta testing underway with team feedback. Initial bugs identified:
-  - Deadline calculation errors (showing past due dates as "2 days away" and incorrectly flagging completed projects like ADONIS final report)
-  - Task relevance issues (marking UMEX-owned tasks as BST responsibilities)
-  - Personality too critical/harsh per Paige Smith feedback
-- **April 19, 2026:** Jack Elston fixed deadline calculation bugs and improved comment picking. Preserved personality trait (team found "mean" tone helpful/appropriate). Continuing refinement cycle.
-
-### Project Status & Scheduling
-- **April 17, 2026:** Mexico flight operations moved to Fall 2026. Navy project tasks completed. (Maciej Suwinski)
-- **April 8, 2026:** Maciej Suwinski and Alex Lomis planning last-minute travel for flight testing conclusion (850pm Frontier flight possibility, decision pending test completion).
-
----
-
-## Projects & Initiatives
-
-### Aircraft & Platform Development
-
-#### S0-VTOL
-- **Status (Oct 2024-Jan 2025):** Voltage issue fixed and flight tested successfully. Servo control issues resolved. Hub updates completed. Motor imbalance fix in progress. **50-flight test plan underway** for delivery validation.
-- **Earlier (2023):** Multiple flight test iterations identifying pivoter failures and hub

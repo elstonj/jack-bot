@@ -4,71 +4,67 @@
 - **Client/Customer**: Internal BST research and development
 - **Dollar Value**: No specific dollar amounts identified, but includes 2026 funding scope items
 - **Timeline**: Long-term project with 2026 funding items; heavy focus on 2026 season readiness
-- **Status**: Active - 9 open tasks, 0 completed. Marked "Low" priority despite substantial scope. (Note: Previous knowledge base showed 168 open tasks; this appears to be a filtered or sub-section view)
-- **Team Members**: Josh Fromm (project owner/lead), Jack Elston (avionics/firmware/power control), Nate Straus (airframe/AD), 7 unassigned tasks
+- **Status**: Active — Recent completion (S0 AD airframe documentation, April 2026); historically 9 open tasks documented. Current task view shows 0 open, 1 completed. (Note: Suggests recent sprint completion or project restructuring; full 168-task backlog exists in complete project documentation)
+- **Team Members**: Josh Fromm (project owner), Nate Straus (airframe/AD), Jack Elston (avionics/firmware/power control), 7 unassigned contributors in broader scope
 - **Risk Signals**:
-  - All 9 open tasks lack due dates
-  - Heavy concentration on Jack Elston (3 assigned power/comms tasks) with no timeline
-  - Two critical PSNS power control hardware tasks unassigned
-  - Comms issue (2026-04-09) indicates recent operational problem requiring investigation
+  - S0 AD completion was **54 days past due** (due 2026-01-09, completed 2026-04-17) — indicates schedule pressure on airframe documentation
+  - Historical open tasks lack due dates (power control, comms, GCS stability)
+  - Two critical PSNS power control hardware tasks remain unassigned (per prior knowledge base)
 
 ## Key Deliverables & Milestones
-Current task view shows no explicit milestones; see full project knowledge base for 2026 Funding Scope and near-term deadlines (Jan 2-9, 2026).
+- **[COMPLETED] Construct BST owned S0 AD for 2025 season** | Nate Straus | Due: 2026-01-09 | Completed: 2026-04-17
+  - Critical airframe documentation for 2025 season operations
+  - 54-day overrun suggests competing priorities or complexity in AD preparation
+
+See full project knowledge base for 2026 Funding Scope milestones and broader delivery roadmap.
 
 ## Task Summary
-- **Total Tasks**: 9 open, 0 completed
-- **Tasks by Assignee**:
-  - Jack Elston: 3 tasks (LCD status display, channel switching, power-off logic)
-  - Unassigned: 6 tasks (GCS sys_init bug, waypoint ETA, comms slowness, PSNS power control hardware)
-- **Task Focus** (current open set):
-  - **Power Control** (3 tasks): LCD status display, power-off logic, PSNS external pull-down, PSNS PWR_BUTTON routing — Jack Elston driving power architecture refinement
-  - **Communications** (2 tasks): Channel switching capability, slow comms on 2026-04-09 — operational issue flagged
-  - **Flight Control/GCS** (2 tasks): Rapid sys_init cycling bug, waypoint ETA display
-  - **Unassigned Hardware** (2 tasks): PSNS pull-down resistor, MCU GPIO routing — appear to be schematic/board-level design work blocking integration
+- **Total Tasks**: 0 open, 1 completed (current filtered view)
+- **Completed by Assignee**:
+  - Nate Straus: 1 task (S0 AD construction)
+- **Historical Task Backlog** (from prior knowledge base):
+  - Jack Elston: 3 tasks (power/comms — LCD status, channel switching, power-off logic)
+  - Unassigned: 6 tasks (GCS sys_init bug, waypoint ETA, comms slowness, PSNS hardware design)
+  - Total historical scope: 168-task backlog
 
 ## Recent Activity
-- **Recent Issue**: Slow comms event logged for 2026-04-09 — suggests recent field operation or testing; root cause unknown
-- **Active Work**: Jack Elston focused on power management and ground station LCD interface
-- **Pending**: PSNS power control hardware tasks waiting for assignment/scheduling
+- **2026-04-17**: Completed S0 AD (Airworthiness Directive) for 2025 season — major airframe documentation deliverable finished post-deadline
+- **Prior Activity**: Jack Elston focused on power management and ground station LCD interface; PSNS power control hardware tasks pending assignment (as of last knowledge sync)
 
 ## Notes & Context
 
-### Current Focus vs. Historical Backlog
-This 9-task view appears to be a **filtered or recently-prioritized subset** of the larger 168-task backlog documented in the full project knowledge base. These tasks represent near-term/active implementation work in:
-- **Power Management**: PSNS hardware refinement (pull-down, MCU GPIO routing)
-- **Ground Station UX**: LCD status display, channel switching, power logic
-- **Operations**: Comms diagnostics, GCS reliability
+### Project Status Transition
+This project view now shows **0 open tasks**, contrasting with prior documented 9 open tasks. Possible explanations:
+- Tasks moved to different project/sprint
+- Recently closed or consolidated
+- Filtered view showing only current sprint
+- **Recommend**: Verify full task list in Asana to confirm scope alignment with 168-task backlog
 
-### Critical PSNS Tasks (Unassigned)
-Two hardware design tasks are blocking PSNS integration:
-- **External pull-down (10K-47K) on PWR_KILLn** — May relate to power sequencing/brownout protection
-- **Route !PWR_BUTTON to spare MCU GPIO** — GPIO availability/allocation needed for button debouncing or status monitoring
+### S0 AD Overrun (54 days)
+Nate Straus's airframe documentation missed Jan 9 deadline by nearly 2 months. Context needed:
+- Was this related to 2025 season preparation or later operational cycle?
+- Did this delay impact fleet readiness or hurricane operations?
+- Are similar compliance documents (e.g., AD updates, inspection records) at risk?
 
-These are **schematic/board-level** decisions requiring engineer review before layout/manufacturing.
+### Historical Open Work (Power, Comms, GCS)
+Prior knowledge base documented 9 active tasks across:
+- **Power Control**: PSNS hardware refinement, MCU GPIO routing, pull-down resistor design
+- **Communications**: Slow comms diagnostics (2026-04-09 event), channel switching capability
+- **Flight Control**: GCS sys_init bug (rapid power cycling), waypoint ETA feature
 
-### Jack Elston's Power/Comms Workload
-Three interrelated tasks suggest Jack is building out PSNS power state monitoring and ground station radio interface:
-- LCD display (power state, radio channel, connection status, rsync status)
-- Channel switching (radio frequency agility)
-- Power-off logic (graceful shutdown sequencing)
+**Status unknown** — confirm if these tasks remain active, reassigned, or closed.
 
-**No due dates** — consider prioritization against full project timeline.
-
-### Comms Slowness (2026-04-09)
-Single task flagged for "Slow comms" on specific date. Likely field observation during testing/operations. Needs:
-- Environmental context (flight conditions, P-3 position, antenna configuration)
-- Frequency/channel in use
-- Data throughput comparison to baseline
-
-### GCS Stability Issues
-- **Rapid power cycling**: sys_init fix causing lockup when toggled in/out of flight mode — may need state machine review
-- **Waypoint ETA**: Feature gap (no timeline pressure yet)
+### Integration with Full Project Knowledge Base
+Refer to complete [001-03] documentation for:
+- 2026 Funding Scope detail (power, sensors, flight control, comms, airframe)
+- 168-task backlog and prioritization
+- Hurricane research operational context
+- Compliance requirements (NDAA, UN38.3, airworthiness directives)
+- External partnerships (Molicel, ERAU, Skyfora)
 
 ---
 
-**Integration with Full Project Knowledge Base**: Refer to [001-03] complete documentation for:
-- 2026 Funding Scope detail (power, sensors, flight control, comms, airframe)
-- 168-task backlog prioritization
-- Hurricane research operational context (COC operations, NHOP/AOC standards)
-- Compliance requirements (NDAA, UN38.3, documentation)
-- External partnerships (Molicel, ERAU, Skyfora)
+**Action Items**:
+- Clarify status of 9 historically-open tasks (power control, comms, GCS)
+- Review S0 AD completion for lessons learned on 54-day overrun
+- Confirm project task list alignment with full 168-task backlog

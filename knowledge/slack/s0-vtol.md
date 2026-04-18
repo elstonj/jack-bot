@@ -37,6 +37,7 @@ Time range: Early development through April 2026 (ongoing project)
 - Current phase: Re-spinning work with focus on ground testing improvements before resuming flight tests
 - Major concern: Recent consecutive transition flight failures cannot be replicated on ground
 - Ground testing strategy: Moving toward test methodologies similar to S3 program with independent sensor logging
+- S0 VTOL Test Plan created with primary steps and substasks for systematic testing approach (April 17, 2026)
 
 **ADONIS Project:**
 - Contract deliverable: Flight testing required by March 24
@@ -68,12 +69,14 @@ Time range: Early development through April 2026 (ongoing project)
 - Evaluate 2m wingspan upgrade option from TJIRC
 - Lead ground testing discussion to address replicability gap with flight failures
 - Design independent sensor logging system: RPM sensors and potentiometers to log motor outputs separately from autopilot commands (April 17, 2026)
+- Create and maintain S0 VTOL Test Plan with primary steps and substasks (April 17, 2026)
 
 **Maciej:**
 - Complete GPS hover testing before transition flights
 - Continue debugging parameter corruption issues
 - Develop storage charge calculation spreadsheet
 - Coordinate S0-VTOL ground testing plan in conjunction with spin-up (April 17, 2026)
+- Ensure parameter backup and prop-off testing before controlled flight testing (April 17, 2026)
 
 ## Client & External References
 
@@ -120,6 +123,7 @@ Time range: Early development through April 2026 (ongoing project)
 - Need for sinusoidal motor command tests with independent RPM verification
 - Desire to log ESC outputs independently of autopilot commands over extended test periods
 - Integration of multiple sensor inputs for comprehensive ground validation
+- Structured test plan approach to systematically validate S0 VTOL before flight testing resumption
 
 ## Important Resources
 
@@ -145,25 +149,14 @@ Time range: Early development through April 2026 (ongoing project)
 - Teensy microcontroller for independent sensor data logging
 - RPM sensors and potentiometers for motor output verification
 - Laptop-based integrated testing interface connecting independent sensors to autopilot data
+- S0 VTOL Test Plan document with structured test steps and substasks
 
 ## Recent Activity
 
-**Ground Testing Re-focus (April 17, 2026):**
-- Team resuming S0-VTOL work after hiatus
+**Ground Testing Re-focus & Test Plan Formalization (April 17, 2026):**
+- Alex Lomis created formal S0 VTOL Test Plan section including primary steps and additional substasks for systematic validation
+- Team resuming S0-VTOL work after hiatus with structured testing approach
 - Key issue identified: Cannot replicate in-ground testing the failure modes seen in last two consecutive transition flights
 - Recognition that problem may not be simple "need more hours" but actual gap between ground and flight behavior
 - Decision to enhance ground testing methodology before proceeding with more flight tests
-- Proposal: Set up independent RPM logging during ESC/motor sinusoidal tests to verify motor outputs match commanded values
-- Hardware transition underway - moving away from current ESC platform
-- Integration planned: Jack to coordinate connecting independent sensors to autopilot for comprehensive laptop-based ground testing
-
-**Wing Upgrade Discussion:**
-- Alex Lomis presented 2m wingspan upgrade from TJIRC
-- 33% more wing area, higher aspect ratio (14 vs 10)
-- Potential 90-minute flight time for meteorology payloads
-- Portability concerns with 2m wingspan vs backpack transport
-
-**Test Program Status:**
-- 20 of 50 required test flights completed
-- Missing critical tests: 45+ minute flights with wind data, speed validation, battery limit testing
-- High wind testing (>
+- Proposal: Set up independent RPM logging during ESC/motor sinusoidal tests to verify motor outputs match

@@ -6,9 +6,9 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 **Key Participants:** Jack Elston (primary decision-maker), Maciej (technical/proposal support), Meredith (budget/administrative), Dan Prendergast (proposal coordination), Beck Cotter (program management), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm, and others contributing to specific proposals.
 
-**Activity Level:** High throughout the period (March 2024 - April 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Recent activity (April 2026) shows continued intensity with 4+ proposals simultaneously in development/review.
+**Activity Level:** High throughout the period (March 2024 - April 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Most recent activity (April 2026) continues to show high intensity with multiple concurrent RFI submissions and ongoing technical discussions.
 
-**Time Range:** March 3, 2024 - April 16, 2026
+**Time Range:** March 3, 2024 - April 17, 2026
 
 ---
 
@@ -49,11 +49,12 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 - **Leadership continuity with partners** (April 2026): Confirmed BST comfortable taking lead role on unnamed initiative; scope discussions planned.
 
-- **NASA RFI submission strategy** (April 2026): Decided to submit multiple proposals (3-4) to NASA RFI due May 7:
+- **NASA RFI submission strategy** (April 2026, refined April 17): Decided to submit multiple proposals (3-4) to NASA RFI due May 7:
   1. S0 with stratospheric balloon integration (under Aeronautics Flight Accelerator)
   2. S3 Nomad (revolutionary tech: Energy Autonomy, Environmental Hardening, Edge-AI Navigation, UTM in remote areas)
   3. Autonomy/Avionics proposal
   4. Potential fourth: 24-hour fire surveillance with S2 and NightFOX sensor
+  - **April 17 decision:** Jack Elston requested exhaustive list of all proposal possibilities based on previous and current projects to ensure nothing is missed in RFI response
   - Strategy: Draw from existing proposals (white papers, Phase II submissions, SBIR reports) to accelerate drafting using Google Notebook LM
 
 - **Navy S0-AD with ATR proposal** (April 16, 2026): Approved for submission with updated BAA number; white paper reviewed and cleared for weekend submission.
@@ -88,5 +89,4 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 **NASA A2.01 "Revolutionizing UAS Navigation: Low SWaP-C Sensor Suite"**
 - **Status:** Submitted 3/10, NOT SELECTED (announcement 8/26)
 - **Partners:** Chris Heckman (CU) for terrain-aware flight and GPS-denied navigation
-- **Scope:** GPS-denied navigation with consideration of piggybacking on existing NASA S2 missions (Persistence demo, Costa Rica)
-- **Competition:** 1,500+ proposals submitted, ~299 selected (~
+- **

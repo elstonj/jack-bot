@@ -1,81 +1,87 @@
 # Dan Prendergast — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 613 (513 prior + 100 new)
-- **Date range:** February 13, 2026 – April 17, 2026 (~9 weeks)
-- **Estimated volume:** ~68 messages per week; sustained heavy daily engagement
-- **New activity window:** April 7–17, 2026 shows concentrated operational coordination across Mexico deployment, simulation integration, and government RFI activities
+- **Total messages scanned:** 620 (513 prior + 100 previous update + 7 new)
+- **Date range:** February 13, 2026 – April 18, 2026 (~9.5 weeks)
+- **Estimated volume:** ~65 messages per week; sustained heavy daily engagement
+- **Latest activity window:** April 17–18, 2026 shows continued focus on Arctic demo finalization, simulation integration, and Mexico deployment coordination
 
 ## Key Correspondents
 
 ### Top Internal Contacts (BST)
-- **Jack Elston** (elstonj@blackswifttech.com) — Strategic leadership; ongoing Canada demo coordination, NASA RFI forwarding, Arctic demo in Ottawa
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — Business development; Navy/USMC BAA coordination, Northern Edge 2027 experimentation, MRT UAS USMC involvement
-- **Maciej Stachura** (stachura@blackswifttech.com) — Technical and operational execution; Mexico deployment coordination, AFAC RPAS permissions
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — Compliance and logistics backbone; carnet applications, export licensing, financial documentation for ATA Carnet
-- **Nathaniel Straus** (nate.straus@blackswifttech.com) — Academic/institutional coordination; Stanford SACL timestamp avionics, University of Colorado aircraft use approvals
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Operations; Mexico deployment multi-party coordination
+- **Jack Elston** (elstonj@blackswifttech.com) — Strategic leadership; Arctic demo in Ottawa finalization (Apr 17), Mexico deployment coordination, RFI forwarding
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — Business development; Arctic demo coordination, Navy/USMC BAA coordination
+- **Maciej Stachura** (stachura@blackswifttech.com) — Technical and operational execution; Arctic demo, Mexico deployment coordination
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — Compliance and logistics backbone; carnet applications, export licensing
+- **Nathaniel Straus** (nate.straus@blackswifttech.com) — Academic/institutional coordination; S3 check-in with University of Colorado (Apr 17)
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Operations; Mexico deployment coordination
 
-### Top External Contacts (Updated)
-- **Nikhila Ravikumar** (Nikhila@nanoveu.com) — Very frequent simulation integration technical work; **Tom Wilp** (tom.wilp@nanoveu.com) and **Sergio Ruocco** (sergio@nanoveu.com) also active on simulation threads
-- **Joe Villa-Michel** (joe@av3aerovisual.com) — **CRITICAL new role:** Mexico UAS deployment coordination; AFAC permissions, Popocatépetl volcano deployment lead
-- **Paulino Alonso Rivera** (paulino.alonso@sspc.gob.mx) — **New:** Mexican government AFAC request coordinator for Popocatépetl deployment
-- **Christoph Kern** (ckern@usgs.gov) — **Elevated role:** Mexico deployment logistics; USGS liaison for Popocatépetl volcano operations
-- **Angie Diefenbach** (adiefenbach@usgs.gov) — Mexico deployment multi-party coordination (USGS lead)
-- **U.S. Military/Government (Expanded):**
-  - **SOCOM:** Michael C. Jagelewski (michael.c.jagelewski.civ@socom.mil), Evan Wolff (evan.m.wolff.mil@socom.mil) — RFI S0 ongoing (Non-DoD Source protocol active)
-  - **USAF:** Lt Col Ryan Rickert (ryan.rickert.4@us.af.mil) — 53 WRS/ARWO; RFI S0 coordination
-  - **Navy:** Marc A. Concilio (marc.a.concilio.civ@us.navy.mil) — BAA response submission coordination [Non-DoD Source]
-  - **NOAA:** Joe Cione, Jun Zhang, Annette Hollingshead, Joshua Wadler (ERAU) — UASD hurricane/atmospheric operations coordination
-- **Krateo Sky:** Bob Smith, Lisa Marie Cheney, Adria Passola — Canadian Special Forces demo coordination, Arctic demo in Ottawa
-- **NanoVeu (Simulation Partner):** Nikhila Ravikumar, Tom Wilp, Sergio Ruocco — Intensive simulation development thread (multiple messages daily Apr 8–15)
-- **By Light Innovations (USMC/Navy Partner):** Bryan Sparling, Justin Baltz, Megan Weckter — MRT UAS USMC technical coordination, HD 25C datasheet/component specs
-- **ATA Carnet/Logistics:** Sarah Heaney (sheatat@atacarnet.com) — Mexican registration US 89/26-62466, FedEx carnet tracking, financial documentation
-- **Stanford:** Tanay Topac (tanaytopac@stanford.edu) — Timestamp S2 avionics research coordination
-- **Vantage Robotics:** Armen Keuleyan (armen@vantagerobotics.com) — Axiom Greenseer gimbal specs (supplier)
-- **Marketing/Communications:** Zach Hynoski (zach.hynoski@stratacomms.agency) — EMASS drone video coordination (media/marketing partner)
-- **NextEch Solutions:** Trenton McKibben (Trenton.McKibben@nextechsol.com) — S3 VTOL UAS inquiry; Arctic demo coordination
+### Top External Contacts (Confirmed & Expanded)
+- **Nikhila Ravikumar** (Nikhila@nanoveu.com) — **Highest frequency in latest window:** Simulation integration technical work; bidirectional exchanges Apr 17–18 (unread/important flagging indicates active urgent thread); Tom Wilp also copied
+- **Krateo Sky Partnership (Arctic Demo Lead):**
+  - Bob Smith, Lisa Marie Cheney, Adria Passola — Arctic demo in Ottawa finalization (Apr 17 forward from Jack Elston with full BST ops team)
+- **Trenton McKibben** (Trenton.McKibben@nextechsol.com) — **NEW ELEVATED ROLE:** Arctic demo in Ottawa coordination (Apr 17, IMPORTANT flag); working directly with Jack Elston, Dan, Beck Cotter (likely NextEch technical role in demo ops)
+- **Kevin S. Rozmiarek** (Kevin.Rozmiarek@colorado.edu) — University of Colorado; S3 check-in coordination (Apr 17, IMPORTANT)
+- **USGS Mexico Coordination:** Angie Diefenbach (adiefenbach@usgs.gov) — Mexico deployment ongoing (Apr 17 EXTERNAL tag, IMPORTANT)
+- **NanoVeu (Simulation Partner):** Nikhila Ravikumar, Tom Wilp — Active simulation development thread continues at high frequency
 
 ### Internal vs External
 - **Internal:** ~28% of correspondence
-- **External:** ~72%, with significant expansion in Mexico deployment ecosystem (USGS, Mexican government, AV3 Aerovisual), government RFI activities (SOCOM, Navy, USAF), and simulation vendor partnerships
+- **External:** ~72%, dominated by simulation vendor (NanoVeu), Arctic demo partners (Krateo Sky, NextEch), and Mexico deployment ecosystem (USGS)
 
 ## Topic Patterns
 
-### Dominant Active Projects (Updated)
+### Dominant Active Projects (Latest Update)
 
-1. **S3 / S3 VTOL UAS (Core Product)**
-   - Canadian Special Forces demo (Krateo Sky partnership) — Arctic demo in Ottawa scheduled (Apr 17)
-   - S3 check-in coordination with Kevin Rozmiarek (University of Colorado)
+1. **Arctic Demo in Ottawa (S3 VTOL) — IMMEDIATE FOCUS**
+   - **NEW CRITICAL TIMELINE:** Apr 17 forward confirms imminent execution
+   - Multi-party coordination: Krateo Sky (Bob Smith, Lisa Marie Cheney, Adria Passola), NextEch Solutions (Trenton McKibben), full internal ops team (Jack, Beck, Maciej, Dan)
+   - NextEch solutions appears to have technical/operational role (new party to demo execution)
+   - Status: Final coordination phase (Apr 17 messaging with IMPORTANT flag)
 
-2. **Mexico Deployment / Popocatépetl Volcano UAS Operations**
-   - **NEW CRITICAL PROJECT:** Full operational pipeline visible
-   - AFAC (Autoridad Federal de Aviación Civil) request for RPAS permission at Popocatépetl volcano (Apr 14–16)
-   - Multi-agency coordination: USGS (Christoph Kern, Angie Diefenbach), Mexican government (Paulino Alonso Rivera, CENAPRED), AV3 Aerovisual (Joe Villa-Michel)
-   - Export/Carnet requirements: ATA Carnet Application 3126503, Mexican Registration US 89/26-62466, FedEx shipment tracking (Apr 15–16)
-   - Regulatory phase: Meeting scheduled Apr 6 for export license requirements
-   - **Status:** AFAC approval request submitted, carnet/registration in-flight
+2. **NanoVeu Simulation Integration (Sustained High Intensity)**
+   - **Continued high-frequency exchanges:** Apr 17–18 bidirectional with Nikhila Ravikumar (UNREAD, IMPORTANT flag on Apr 18 inbound)
+   - Tom Wilp also engaged in threads
+   - Indicates critical/urgent development work in parallel with demo execution
 
-3. **RFI S0 / SOCOM Engagement**
-   - Classified/controlled discussions continuing with SOCOM (Evan Wolff, Michael Jagelewski)
-   - [Non-DoD Source] messaging protocol active across multiple messages (Apr 8, 10, 14)
-   - Lt Col Ryan Rickert (USAF 53 WRS) also coordinating RFI S0 responses
+3. **Mexico Deployment / Popocatépetl Volcano UAS Operations (Ongoing)**
+   - USGS coordination continues (Angie Diefenbach, Apr 17 EXTERNAL tag, IMPORTANT)
+   - Status: Operational coordination phase; regulatory approvals progressing
 
-4. **NanoVeu Simulation Integration (Intensive)**
-   - **NEW VOLUME:** 9+ messages Apr 8–16 between Dan, Nikhila, Tom Wilp, Sergio Ruocco
-   - Simulation development thread active at high frequency (multiple exchanges daily)
-   - Critical for S3 VTOL avionics/autonomy validation
+4. **S3 Check-in (University of Colorado)**
+   - Kevin Rozmiarek contact from University of Colorado (Apr 17, IMPORTANT)
+   - Appears to be operational/technical coordination (flagged as important within 48hrs of Arctic demo)
 
-5. **NASA Aero RFI Responses**
-   - **NEW:** NotebookLM notebooks shared Apr 16 for three RFI responses:
-     - NASA Aero RFI: Autonomy/Avionics
-     - NASA Aero RFI: S3 Nomad
-     - NASA Aero: S0 Strato Balloon
-   - Due May 7, 2026 @ 1 PM Pacific
-   - Jack Elston forwarding RFI opportunity; collaborative response with Beck Cotter, Maciej Stachura
+## Communication Patterns
 
-6. **MRT UAS USMC / Navy BAA Activities**
-   - **NEW:** By Light Innovations leading MRT (Medium Range Tactical) UAS USMC effort
-   - Dan providing S3 technical specs, datasheet coordination (HD 25C, HD55-LV-CZ components)
-   - Navy BAA response submission coordination with Marc A. Concilio (NAVAIR [Non-DoD Source] protocol)
-   - Northern Edge 2027
+### Time & Activity
+- **High weekend/evening activity:** Apr 18 05:45 UTC (Nikhila inbound, UNREAD/IMPORTANT) — simulation work continues across time zones
+- **Friday concentration:** Apr 17 shows 6 messages spanning 08:49–19:26 across multiple coordinating threads (demo, simulation, university check-in, Mexico)
+- **Message velocity:** Multiple same-day exchanges with NanoVeu simulation partner (Apr 17–18)
+
+### Mailing Lists & Group Coordination
+- **Arctic Demo ops group:** Jack Elston coordinating 6-person distribution (Krateo Sky × 3, internal ops × 3) on Apr 17
+- **Simulation loops:** Nikhila + Tom Wilp (NanoVeu) + Dan bidirectional exchanges
+- **No visible newsletter/automated traffic** in this window
+
+## Key Relationships
+
+### Closest Active Collaborators (by latest 7-message window)
+1. **Nikhila Ravikumar (NanoVeu)** — Highest frequency in this window (3 exchanges Apr 17–18), bidirectional, flagged IMPORTANT; urgent simulation work
+2. **Jack Elston (Internal)** — Operational conductor; orchestrating Arctic demo final push and Mexico coordination
+3. **Krateo Sky team** — Arctic demo execution partners (direct coordination Apr 17)
+4. **Trenton McKibben (NextEch)** — New active external party in Arctic demo ops (Apr 17)
+
+### External Relationships of Strategic Importance
+- **NanoVeu (Simulation):** Critical technical partner for S3 VTOL autonomy; very high frequency, urgent work cycle visible
+- **Krateo Sky + NextEch (Arctic Demo):** Operational execution ecosystem for Canadian Special Forces demo
+- **USGS + Mexican Government (Mexico Deployment):** Regulatory/logistics partner ecosystem for Popocatépetl operations
+- **University of Colorado:** S3 aircraft use/operational support
+
+## Notable Observations
+
+- **Simulation work appears URGENT:** Nikhila's Apr 18 05:45 UTC unread/important message to Dan suggests active critical-path simulation debugging or validation occurring in real-time, possibly tied to imminent Arctic demo (Apr 17 coordination commenced)
+- **Trenton McKibben / NextEch elevation:** New external coordination party appearing in Arctic demo ops distribution (Apr 17), suggesting NextEch may provide technical or logistics support for Ottawa deployment
+- **Mexico deployment continues in parallel:** Despite intensive Arctic demo push on Apr 17, Angie Diefenbach (USGS) coordination also flagged IMPORTANT, indicating both projects advancing simultaneously
+- **Cross-timezone intensity:** Weekend/early-morning activity (Sat 05:45 UTC) with NanoVeu indicates simulation work is time-sensitive and may span international teams
+- **Kevin Rozmiarek / University of Colorado:** S3 check-in flagged IMPORTANT on Apr 17 (Friday before demo week) — likely final equipment/operational confirmation
