@@ -7,7 +7,7 @@ from zoneinfo import ZoneInfo
 
 import anthropic
 
-from user_map import build_user_map, get_all_users, get_user_by_email
+from user_map import build_user_map, get_all_users, get_user_by_email, get_user_by_toggl_id
 from asana_client import get_enriched_tasks, get_key_project_data, get_workspaces
 from toggl_client import get_time_summary
 from google_client import get_recent_drive_activity, get_recent_emails, get_todays_calendar, get_contacts, get_meeting_notes_content
@@ -389,11 +389,19 @@ def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, ca
         sections.append(f"=== TIME TRACKING ({toggl_day}) ===\n{toggl_summary}")
     else:
         lines = [f"=== TIME TRACKING ({toggl_day}) ==="]
-        for email, data in toggl_summary.items():
-            user = get_user_by_email(email)
-            name = user["name"] if user else email
+        for toggl_id, data in toggl_summary.items():
+            user = get_user_by_toggl_id(toggl_id)
+            name = user["name"] if user else data.get("email", f"toggl#{toggl_id}")
             proj_parts = [f"{p}: {h}h" for p, h in data["projects"].items()]
             lines.append(f"{name}: {data['total_hours']}h total ({', '.join(proj_parts)})")
+        # Explicitly note team members with no tracked time so Claude
+        # doesn't inherit stale hours from Asana assignee names alone.
+        tracked_ids = set(toggl_summary.keys())
+        untracked = [u["name"] for u in users
+                     if u.get("name") and u.get("toggl_user_id")
+                     and u["toggl_user_id"] not in tracked_ids]
+        if untracked:
+            lines.append(f"No time tracked yesterday: {', '.join(sorted(untracked))}")
         sections.append("\n".join(lines))
 
     # Drive

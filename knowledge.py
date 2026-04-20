@@ -188,21 +188,52 @@ STATUS_OVERRIDE_PROMPT = (
 )
 
 
+_STATUS_KEYWORDS = (
+    "delay", "delayed", "push", "pushed", "pushing", "moved", "move ",
+    "complete", "completed", "done", "finish", "finished", "archived",
+    "cancel", "cancelled", "canceled", "drop ", "dropped", "handled",
+    "externally", "priority", "priorities", "priority #1", "first priority",
+    "top priority", "most important", "critical", "asap",
+    "reassign", "reassigned", "no longer", "instead of",
+    "jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep",
+    "oct", "nov", "dec", "spring", "summer", "fall", "autumn", "winter",
+    "end of", "by the end",
+    "not departing", "not flying", "not going",
+)
+
+
+def _looks_like_status_change(text):
+    low = text.lower()
+    return any(kw in low for kw in _STATUS_KEYWORDS)
+
+
 def get_status_overrides(slack_client, days=30):
     """Extract structured project-status overrides from recent CORRECTION/FEEDBACK.
 
     Runs the last `days` of knowledge-channel corrections through Haiku to distill
     them into a short, authoritative list of status deltas that the daily synthesis
     prompt can pin at the top. Returns an empty string if nothing meaningful.
+
+    CORRECTION entries are always included. FEEDBACK is pre-filtered to messages
+    that mention a status-change keyword, because the channel otherwise fills with
+    casual chat that dilutes Haiku's signal and occasionally makes it return NONE.
     """
     entries = get_knowledge(slack_client, ["CORRECTION", "FEEDBACK"], days=days)
     if not entries:
         return ""
 
+    # CORRECTION is explicit — keep all. FEEDBACK is noisy — keyword-filter.
+    filtered = [
+        e for e in entries
+        if e["type"] == "CORRECTION" or _looks_like_status_change(e["content"])
+    ]
+    if not filtered:
+        return ""
+
     # Build the source text with timestamps so Haiku can cite dates and resolve conflicts
     import datetime as _dt
     lines = []
-    for entry in entries:
+    for entry in filtered:
         ts = entry.get("ts", "")
         try:
             when = _dt.datetime.fromtimestamp(float(ts)).strftime("%Y-%m-%d") if ts else ""
@@ -214,7 +245,7 @@ def get_status_overrides(slack_client, days=30):
         lines.append(f"{prefix} {entry['content'][:600]}")
     source = "\n".join(lines)
 
-    # Cap to ~60k chars to stay comfortably under Haiku context
+    # Cap to ~60k chars, keeping the most recent (tail wins for conflict resolution)
     if len(source) > 60000:
         source = source[-60000:]
 
@@ -231,6 +262,22 @@ def get_status_overrides(slack_client, days=30):
         return f"[Status override extraction failed: {e}]"
 
     if not result or result == "NONE":
+        # If Haiku dismissed everything but we clearly have CORRECTION entries,
+        # pass them through verbatim rather than losing the signal entirely.
+        corrections_only = [e for e in filtered if e["type"] == "CORRECTION"]
+        if corrections_only:
+            fallback = []
+            for e in corrections_only:
+                when = ""
+                try:
+                    import datetime as _dt2
+                    ts = e.get("ts", "")
+                    when = _dt2.datetime.fromtimestamp(float(ts)).strftime("%Y-%m-%d") if ts else ""
+                except Exception:
+                    pass
+                suffix = f" (stored {when})" if when else ""
+                fallback.append(f"- {e['content']}{suffix}")
+            return "\n".join(fallback)
         return ""
     return result
 

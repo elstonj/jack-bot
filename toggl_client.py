@@ -33,8 +33,16 @@ def _last_workday():
 def get_time_summary():
     """Get the last workday's time entries grouped by user and project.
 
+    Keyed by Toggl user ID so downstream lookups don't depend on email parity
+    between Toggl and the user map (e.g., Jack's Toggl email is `elstonj@...`
+    while the user map has `jack.elston@...`).
+
     Returns:
-        dict: {email: {"total_hours": float, "projects": {name: hours}}}
+        dict: {toggl_user_id: {
+            "email": str,
+            "total_hours": float,
+            "projects": {name: hours},
+        }}
     """
     wid = os.environ.get("TOGGL_WORKSPACE_ID")
     if not wid:
@@ -60,7 +68,7 @@ def get_time_summary():
     resp.raise_for_status()
     data = resp.json()
 
-    # Also fetch workspace users to map user IDs to emails
+    # Also fetch workspace users to map user IDs to emails (for display)
     users_resp = requests.get(
         f"{TOGGL_BASE}/api/v9/workspaces/{wid}/users",
         headers=_headers(),
@@ -72,8 +80,7 @@ def get_time_summary():
     summary = {}
     for group in data.get("groups", []):
         user_id = group.get("id")
-        email = user_email_map.get(user_id, "")
-        if not email:
+        if not user_id:
             continue
 
         total_seconds = 0
@@ -84,7 +91,8 @@ def get_time_summary():
             total_seconds += seconds
             projects[project_name] = round(seconds / 3600, 1)
 
-        summary[email] = {
+        summary[user_id] = {
+            "email": user_email_map.get(user_id, ""),
             "total_hours": round(total_seconds / 3600, 1),
             "projects": projects,
         }
