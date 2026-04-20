@@ -13,7 +13,7 @@ from toggl_client import get_time_summary
 from google_client import get_recent_drive_activity, get_recent_emails, get_todays_calendar, get_contacts, get_meeting_notes_content
 from slack_data_client import get_recent_slack_messages
 from research_cache import set_cache
-from knowledge import get_knowledge_summary, auto_extract_knowledge, store_daily_snapshot, store_entry, get_knowledge
+from knowledge import get_knowledge_summary, auto_extract_knowledge, store_daily_snapshot, store_entry, get_knowledge, get_status_overrides
 
 KNOWLEDGE_DIR = Path(__file__).parent / "knowledge"
 
@@ -50,6 +50,12 @@ pre-distilled knowledge files still list it as open, overdue, or pending. The \
 knowledge files are refreshed periodically and may lag real-world state; live \
 corrections always win. Never reference a corrected-out item as "overdue" in the \
 team summary.
+
+The user message may begin with a `PROJECT STATUS OVERRIDES` block — treat every \
+line in that block as hard truth. It is pre-distilled from team corrections and \
+supersedes any stale Asana dates or distilled knowledge files further down. If an \
+override says a project is delayed, complete, or handled externally, do NOT surface \
+its tasks as priorities or mark them overdue.
 
 COMPLETED TASK DETECTION:
 If email subjects, Slack messages, or Drive activity suggest a task is already DONE (e.g. \
@@ -822,6 +828,7 @@ def run_daily_pipeline(slack_client):
         slack_future = executor.submit(_collect_slack, slack_client, users)
         ops_future = executor.submit(_collect_operations_history, slack_client)
         knowledge_future = executor.submit(get_knowledge_summary, slack_client)
+        overrides_future = executor.submit(get_status_overrides, slack_client)
 
         # Conditionally-live futures (skipped when knowledge files exist)
         key_projects_future = None
@@ -842,6 +849,7 @@ def run_daily_pipeline(slack_client):
         slack_messages = slack_future.result()
         operations_history = ops_future.result()
         knowledge_context = knowledge_future.result()
+        status_overrides = overrides_future.result()
 
         # Collect results — conditional
         key_projects = key_projects_future.result() if key_projects_future else {}
@@ -881,6 +889,10 @@ def run_daily_pipeline(slack_client):
         data_lines.append(f"  Slack: {len(slack_messages) if isinstance(slack_messages, list) else slack_messages}")
         if distilled_context:
             data_lines.append(f"  Knowledge context: {len(distilled_context)} chars")
+        if status_overrides:
+            data_lines.append(f"  Status overrides: {len(status_overrides)} chars")
+        else:
+            data_lines.append("  Status overrides: none")
         store_entry(slack_client, "DEBUG", "\n".join(data_lines))
     except Exception:
         pass
@@ -963,12 +975,24 @@ def run_daily_pipeline(slack_client):
         else:
             active_list += f"  - {name}\n"
 
-    # Combine: distilled knowledge + Slack knowledge channel + live data
+    # Combine: status overrides (top, authoritative) + distilled knowledge +
+    # Slack knowledge channel + live data
     full_context = context
     if distilled_context:
         full_context = f"{distilled_context}\n\n{full_context}"
     if knowledge_context:
         full_context = f"{knowledge_context}\n\n{full_context}"
+    if status_overrides:
+        override_block = (
+            "===== PROJECT STATUS OVERRIDES (AUTHORITATIVE — WINS OVER ALL OTHER DATA) =====\n"
+            "The following status deltas were extracted from recent team corrections and feedback. "
+            "They override Asana task state, distilled knowledge files, and everything below. "
+            "If any of these conflict with an Asana task or a knowledge file, the override wins. "
+            "Do NOT list overridden items as priorities or as overdue.\n\n"
+            f"{status_overrides}\n"
+            "===== END OVERRIDES =====\n"
+        )
+        full_context = f"{override_block}\n{full_context}"
 
     total_sections = len(all_team_members)
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])

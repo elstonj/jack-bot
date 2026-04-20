@@ -15,15 +15,22 @@ def get_workspaces():
     return resp.json()["data"]
 
 
-def get_projects(workspace_gid):
+def get_projects(workspace_gid, include_archived=True):
     resp = requests.get(
         f"{ASANA_BASE}/projects",
         headers=_headers(),
-        params={"workspace": workspace_gid, "limit": 100},
+        params={
+            "workspace": workspace_gid,
+            "limit": 100,
+            "opt_fields": "name,archived",
+        },
         timeout=10,
     )
     resp.raise_for_status()
-    return resp.json()["data"]
+    data = resp.json()["data"]
+    if not include_archived:
+        data = [p for p in data if not p.get("archived")]
+    return data
 
 
 def get_tasks_for_project(project_gid, enriched=False):
@@ -47,7 +54,7 @@ def get_tasks_for_project(project_gid, enriched=False):
 
 def get_team_tasks(workspace_gid):
     """Get all incomplete tasks across all projects in the workspace."""
-    projects = get_projects(workspace_gid)
+    projects = get_projects(workspace_gid, include_archived=False)
     all_tasks = []
     for project in projects:
         tasks = get_tasks_for_project(project["gid"])
@@ -107,12 +114,16 @@ def get_milestones_for_project(project_gid):
 
 
 def get_enriched_tasks():
-    """Get all incomplete tasks with full metadata for the daily research pipeline."""
+    """Get all incomplete tasks with full metadata for the daily research pipeline.
+
+    Archived projects are excluded — open tasks in archived projects are treated
+    as stale and should not surface in the daily briefing.
+    """
     workspaces = get_workspaces()
     if not workspaces:
         return []
     workspace_gid = workspaces[0]["gid"]
-    projects = get_projects(workspace_gid)
+    projects = get_projects(workspace_gid, include_archived=False)
     all_tasks = []
     for project in projects:
         tasks = get_tasks_for_project(project["gid"], enriched=True)
@@ -132,7 +143,7 @@ def get_key_project_data(workspace_gid):
         dict with keys: bd_pipeline, proposals, milestones
     """
     result = {"bd_pipeline": [], "proposals": [], "milestones": []}
-    projects = get_projects(workspace_gid)
+    projects = get_projects(workspace_gid, include_archived=False)
 
     for project in projects:
         name_lower = project["name"].lower()
