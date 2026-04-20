@@ -93,7 +93,11 @@ def get_knowledge(slack_client, entry_types=None, days=None):
     if not channel:
         return []
 
-    oldest = str(time.time() - (days * 86400)) if days else "0"
+    # Slack's conversations_history silently returns 0 messages when `oldest`
+    # is a float with sub-second precision like "1774115668.4110897". Cast to
+    # int — otherwise every days-filtered read returns empty, which is what
+    # made status overrides come back as NONE despite real corrections.
+    oldest = str(int(time.time() - (days * 86400))) if days else "0"
     entries = []
     cursor = None
 
