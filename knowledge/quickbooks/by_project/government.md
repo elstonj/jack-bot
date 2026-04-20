@@ -82,7 +82,7 @@
 - **S0 wing components:** Multiple purchases totaling $12,200+
 - **PCB boards, stencils, parts sourcing:** ~$30,000+
 
-**New April 2026 transactions (2026 IDIQ, Sasquatch, S0 production):**
+**April 2026 transactions (2026 IDIQ, Sasquatch, S0 production):**
 - **Digikey (Purchase #98710410):** $283.99 — Supplies for 2026 IDIQ ($93.99), Sasquatch ($18.80), future S0 inventory ($28.20)
 
 ---
@@ -130,13 +130,11 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 
 ---
 
-### **Facilities/Shop Supplies: $143.00 (NEW)**
-**Number of transactions:** 1  
+### **Facilities/Shop Supplies: $171.75**
+**Number of transactions:** 2  
 **Items:**
 - **Shop supplies allocation (Digikey purchase):** $143.00 (part of Purchase #98710410, 2026-04-17)
-- **Tool shipping to Sean Cole (Phase1 Aviation):** $28.75 (2026-04-10, for S0 manufacturing)
-
-**Total Facilities category (including shipping):** $171.75
+- **Tool shipping to Sean Cole (Phase1 Aviation):** $28.75 (2026-04-10, for S0 manufacturing support)
 
 ---
 
@@ -164,3 +162,7 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 | **2026-04** | $0.00 | $283.99 | $0.00 | $0.00 | $0.00 | $171.75 | $455.74 |
 
 ---
+
+## Notable Transactions
+
+### Revenue Recognition (Apr–Sep 2026)

@@ -1,60 +1,50 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-04-18 02:22
+Last scanned: 2026-04-20 02:16
 
 Total drives scanned: 1
 
 ## Drives
 
-- **Federal Projects** — 12 files — [federal_projects.md](federal_projects.md)
+- **Federal Projects** — 4 files — [federal_projects.md](federal_projects.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Shared Drive Strategic Overview
+# Black Swift Technologies — Strategic Drive Overview
 
-## Aggregate Statistics
-- **Total documents:** 87+ across Federal drive (primary focus reviewed)
-- **Organization maturity:** Moderate—functional structure with some inconsistencies
-- **Active date range:** 2022–2026
-- **Data quality issues:** Minor (2099 anomalies in RC_VID files; non-substantive)
+## Summary
 
----
+BST maintains a **minimal shared drive presence** with only 4 files across the Federal Projects drive. The organization shows significant gaps in documentation infrastructure.
 
 ## Key Findings
 
-### Primary Drive Focus: Federal Projects
-**Purpose:** SBIR/STTR and federal contract management (NASA, Navy, DOE, etc.)
+### Document Volume & Organization
+- **Total Files**: 4 documents
+- **Organization Quality**: Poor — no folder structure; all files at root level
+- **File Types**: Mixed media (video files + documents)
 
-**Strong organizational patterns:**
-- Dedicated budget centralization (Budget & Budget Justification folder with templates)
-- Contract line item (CLIN) invoicing segregated and structured
-- Compliance documentation (Forms, Legal) properly isolated
-- NASA responses organized by platform/technical domain
+### Content Overview
 
-**High-value documentation areas:**
-- Invoicing records (ongoing revenue tracking)
-- Budget justification materials (proposal/compliance foundation)
-- NASA RFI responses (business development pipeline)
-- Legal/export licenses (compliance-critical)
+| Drive | Files | Key Items | Status |
+|-------|-------|-----------|--------|
+| Federal Projects | 4 | RC_VID videos (2), Genesis Mission Phase I, ISR Drone documentation | Limited scope |
 
----
+### Notable Patterns
+- **Video Files**: Two RC video files (RC_VID_0008/0009) with identical recent modification dates — possible duplicates or related media assets
+- **Project Documentation**: Genesis Mission Phase I and Air-deployed ISR Drone represent active federal initiatives
+- **Minimal Cross-Drive Activity**: No visibility into Sales, Operations, or other functional areas
 
-## Observations & Gaps
+## Areas Requiring Attention
 
-| Aspect | Status | Notes |
-|--------|--------|-------|
-| **Naming conventions** | Inconsistent | Mix of formal (CLIN numbering) and descriptive folders; no visible naming standard |
-| **Cross-drive patterns** | Incomplete view | Only Federal drive detailed; Sales proposals/templates not yet reviewed |
-| **Stale content** | Low risk observed | "April Trip (Cancelled)" should be archived |
-| **Template reuse** | Present but unclear | Budget templates exist; extent of sharing across drives unknown |
-| **Active projects** | NASA dominant | RFI activity suggests active business development |
+🚩 **Critical Gaps**:
+- Only one shared drive visible — suggests other drives may exist but weren't summarized, or centralization is incomplete
+- No folder hierarchy or organizational structure
+- Missing supporting documentation for active projects (Genesis Mission, ISR Drone)
+- No templates, SOPs, or resource libraries
+- Video files lack descriptive naming (RC_VID designation unclear)
 
----
-
-## Recommendations
-
-1. **Review Sales & other drives** to identify client/project concentration and cross-drive redundancy
-2. **Archive obsolete folders** (e.g., Cancelled trip)
-3. **Standardize naming conventions** across all drives (e.g., `[AGENCY]_[PROJECT]_[DOCTYPE]_YYYY`)
-4. **Centralize shared templates** in a dedicated resource folder with version control
-5. **Document ownership & retention policies** for federal compliance materials
+🚩 **Recommended Actions**:
+1. Implement folder structure (by project, client, or document type)
+2. Establish naming conventions across all drives
+3. Audit for missing project documentation and stale content
+4. Consolidate shared resources/templates into central locations

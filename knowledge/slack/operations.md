@@ -5,7 +5,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination), Paige Smith (admin), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,430+ messages across multiple batches spanning from July 2020 through April 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Recent activity (April 2026) continues with project refinements, AI assistant integration, and NDAA compliance discussions.
+**Activity level:** High-volume channel with 3,430+ messages across multiple batches spanning from July 2020 through April 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Recent activity (April 2026) continues with project refinements, AI assistant integration, NDAA compliance discussions, and active flight test coordination.
 
 ---
 
@@ -77,4 +77,4 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 ### AI Assistant Development (April 2026)
 - **April 6, 2026:** Jack Elston implementing "Jack Bot" AI assistant that reads #operations channel history to provide task summaries and refine outputs based on team feedback.
-- **April 16-17, 2026:** Beta testing underway with team feedback. Initial bugs identified:
+- **April 16-17, 2026:** Beta testing underway with team feedback

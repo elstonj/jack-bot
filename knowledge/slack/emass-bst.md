@@ -10,8 +10,9 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Moe/Prof. Moe (eMASS AI) - AI model training and optimization
 - Maciej (BST) - Vehicle parameters and specifications
 - Sergio Ruocco (eMASS AI) - Autoboot firmware expert, SDK bring-up and troubleshooting
+- Shantanu (eMASS AI) - Hardware verification and validation
 
-**Activity Level:** Highly active collaboration spanning February-April 2026. Initial setup in early February ramped to intensive HWIL and model training in March-April. Most recent activity (Apr 17, 2026) focused on bench test debugging. Daily communication during critical phases.
+**Activity Level:** Highly active collaboration spanning February-April 2026. Initial setup in early February ramped to intensive HWIL and model training in March-April. Most recent activity (Apr 20, 2026) focused on connection stability debugging and hardware verification. Daily communication during critical phases.
 
 ---
 
@@ -47,12 +48,16 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Decided against changing autopilot limits in simulation; instead eMASS to retrain AI model for stricter adherence to limits
 - Rationale: Simulation validation should reflect actual flight envelope constraints
 
+**3.3V Power Supply Confirmation (Apr 19, 2026)**
+- Dan Prendergast requested confirmation that 3.3V can be sourced from J18 pin #1 for the 5-to-3.3V level shifter
+- Nikhila confirmed with Shantanu that this configuration is acceptable and won't cause issues
+
 ---
 
 ## Projects & Initiatives
 
 ### ECSDoT Integration onto E2 Aircraft
-**Status:** Final flight test preparation with active bench test debugging (as of Apr 17, 2026)
+**Status:** Connection stability issues identified and under investigation (as of Apr 20, 2026)
 
 **Scope:** Integrating eMASS AI's ECSDoT energy management chip onto BST's E2 multirotor UAS for final flight testing.
 
@@ -61,8 +66,9 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Telemetry reception → AI inference → PWM actuator output pipeline
 - Integration with SwiftPilot autopilot (pro_core_swil_MULTIROTOR)
 - Payload protocol implementation over port 55551 with GCS control via port 55555
+- 5-to-3.3V level shifter powered from J18 pin #1
 
-**Recent Progress (Apr 8-17, 2026):**
+**Recent Progress (Apr 8-20, 2026):**
 - **Hardware Bring-up (Apr 8-14):**
   - Resolved JTAG/UART dual connection issues on Eval Board (FTDI Dual RS232-HS)
   - Fixed Linux user permissions issue (dialout group requirement) blocking serial device access
@@ -88,39 +94,22 @@ This channel serves as the primary collaboration hub between Black Swift Technol
   - After SHUTDOWN, tablet must resend `READY` command to reconnect
   - Initiated model retraining for stricter adherence to safety constraints
 
-- **Bench Test Debugging (Apr 17):**
-  - Nikhila investigating potential race condition causing bench-test program to hang
-  - Indicates possible connectivity or state machine logic issue unrelated to simple connectivity failures
-  - Debugging underway; resolution expected same day
+- **Connection Stability Issues (Apr 19-20):**
+  - **Problem Description:** Sporadic initial connections between autopilot and ECSDoT chip using gazebo-hwil-sim-only image
+  - **Symptoms Observed (Dan Prendergast, Apr 19):**
+    1. Inconsistent handshake behavior: Sometimes completes quickly through INIT → CONNECTING → CONNECTED → WAITING; other times gets stuck in CONNECTING state for several minutes; sometimes completes to WAITING but tablet still shows "Init" status
+    2. Slow cycling pattern every couple of minutes: connection completes successfully (reaches WAITING state), then drops back to INIT and CONNECTING, stalls for minutes before reconnecting
+    3. Cycle persists when picocom is NOT actively monitoring ttyUSB0
+    4. Picocom interference confirmed: incomplete packets when picocom is running; connection state slower but more stable without picocom
+    5. Faster initial connection when ECSDoT is connected AFTER autopilot startup, but slow cycling still occurs
+  - **Status:** Nikhila investigating root cause; appears to be related to connection state machine logic or timeout handling rather than simple connectivity failure
+  - **Next Steps:** Profile connection behavior to identify why cycles occur and tablet status doesn't sync with actual chip state
+
+- **Hardware Verification (Apr 19):**
+  - Confirmed J18 pin #1 providing 3.3V for level shifter supply
+  - Shantanu (eMASS) verified this configuration is safe and won't cause issues
 
 **Binaries Available (as of Apr 17, 2026):**
-1. **Bench Test Binary** - 40 second test with 20s @ 1300µs, 20s @ 1400µs PWM output (under debugging)
-2. **HWIL Gazebo Sim-Only** - AI model trained on sim-only data
-3. **HWIL Real Flight Data** - AI model trained with actual E2 flight data
-4. **Droneapp-20260402_2007** - Flight test binary with integrated AI model (latest as of Apr 17)
-5. **Test Binary** - Generic testing application
-
----
-
-## Action Items & Commitments
-
-### From Nikhila (eMASS AI)
-
-**Completed:**
-- Feb 13: Requested GitHub usernames to share ECSDoT SDK
-- Feb 22: Provided Docker image with sample code and build instructions
-- Mar 20: Completed AI pipeline integration; delivered binary app and source code via docker pull
-- Mar 24: Provided sim-only flight data (CSV file) to Prof. Moe for model training
-- Mar 25: Committed to HWIL validation with sim-only model by end of day
-- Mar 27: Committed to validate AI model with minimal errors over weekend
-- Apr 5: Requested access to safety-guard-free autopilot variant for internal research study in simulation
-- Apr 6-7: Delivered bench test code and executable binaries
-- Apr 8: Assisted with Docker image access troubleshooting (token/permission verification)
-- Apr 8-9: Provided detailed hardware wiring and connection guidance
-- Apr 10: Delivered SWIL app with AI model
-- Apr 11-12: Delivered HWIL Gazebo sim-only binary with compilation instructions
-- Apr 14-15: Fixed heartbeat protocol issues (0.2s interval); implemented proper payload state machine
-- Apr 15: Identified and corrected packet sequence misunderstanding in payload protocol
-- Apr 15: Delivered updated gazebo sim-only and actual flight binaries with corrected protocol
-- Apr 15: Initiated Google Meet with Prof. Moe and Dan to discuss model training improvements
-- Apr 16-17: Delivered three updated binaries (bench test, HW
+1. **Bench Test Binary** - 40 second test with 20s @ 1300µs, 20s @ 1400µs PWM output
+2. **HWIL Gazebo Sim-Only** - AI model trained on sim-only data (currently under test with connection issues)
+3. **HWIL Real Flight Data** - AI model trained with actual E2 flight

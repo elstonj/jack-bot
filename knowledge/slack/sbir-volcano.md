@@ -4,8 +4,8 @@
 This channel is primarily used for coordinating Black Swift Technologies' SBIR (Small Business Innovation Research) projects focused on volcanic monitoring using unmanned aircraft systems. The main projects involve deploying S2 and S3 aircraft with specialized sensor payloads to study volcanic emissions and activity, with NASA oversight and collaboration with USGS scientists.
 
 Key participants include:
-- **Jack Elston** (Project lead, technical decisions)
-- **Joshua Fromm** (Payload development, technical integration)
+- **Jack Elston** (Project lead, technical decisions, circuit design)
+- **Joshua Fromm** (Payload development, technical integration, diagnostics)
 - **Danny Troke** (Flight operations, equipment)
 - **Maciej Smolka** (Regulatory, reporting, flight planning)
 - **Dan Prendergast** (Flight planning software, technical development, logistics)
@@ -49,6 +49,12 @@ The channel covers activities from 2020 through April 2026, with high activity d
 - Deferral allows proper S3 testing and validation rather than proceeding with incomplete aircraft readiness
 - Packing list and travel details partially arranged but not fully executed due to postponement
 
+**Gas Payload Isolation Circuit Design (April 18, 2026)**
+- **Opto-isolator Configuration**: Determined that single-side isolated optocoupler (SparkFun OPT3001) insufficient for simultaneous TX/RX isolation; requires dual configuration
+- **Solution Selection**: Decided to use ADUM1201 magnetic isolator instead of dual optocoupler boards - simpler approach with better high-speed capability
+- **Rationale**: ADUM1201 selected for superior baud rate support; will be positioned near high-power lines with expected robust noise immunity
+- **Potential Secondary Application**: Discussed possible future application of magnetic isolators on CAN lines to motor and pivot servo to mitigate noise, though impact may be limited (noise likely capacitively coupled requiring choke near transceiver instead)
+
 ## Projects & Initiatives
 
 **Makushin Volcano Monitoring (Alaska)**
@@ -79,10 +85,11 @@ The channel covers activities from 2020 through April 2026, with high activity d
   - Optimizations planned: Climb-orbit radius 500+ meters to preserve battery; possible on-site terrain analysis for LOS verification
 - **Partners**: CENAPRED (Mexican institution), AFAC, AV3 for flight approvals
 - **Key Issue**: Written permission from Mexican authorities not secured as of April 13, 2026; decision on proceeding deferred to April 15 at 4pm
-- **Payload Status**: 
-  - Trace gas payload fully functional as of April 16, 2026; pitot system to be taped (no drained pitot configuration)
-  - **Gas Communication Issue (April 17, 2026)**: Can connector came off during DB9 connector yanking; photogrammetry payload confirmed operational; gas sensor communication issue identified requiring optocoupler investigation
-  - Troubleshooting: UART switching did not resolve issue; requires deeper diagnostics on optocoupler wiring
+- **Payload Status** (as of April 18, 2026): 
+  - Trace gas payload communication issue identified April 17; root cause determined to be single-side isolated optocoupler requiring dual configuration or replacement
+  - Solution: ADUM1201 magnetic isolator ordered/identified for implementation
+  - Photogrammetry payload confirmed operational
+  - Pitot system configured without drain (taped)
 
 **S10022 Aircraft Testing (April 2026)**
 - **Status**: Multiple test flights completed week of April 13-14, 2026
@@ -97,6 +104,11 @@ The channel covers activities from 2020 through April 2026, with high activity d
 **S1-22 Aircraft Testing (April 2026)**
 - **Status**: Ready for flight operations but wind conditions challenging for testing
 
+**S3 Design Improvement Initiative (April 18, 2026)**
+- **Status**: In-progress
+- **Focus**: Development of new S3 design generation
+- **Priority**: Jack Elston recommending focus shift to new design rather than incremental fixes to current optocoupler setup (April 18)
+
 **NASA CCRPP (Climate Change Response Program)**
 - **Status**: Multiple quarterly reports completed through Q8 (final report August 2024)
 - **Funding**: Requires 1:1 matching funds from non-NASA projects
@@ -104,17 +116,7 @@ The channel covers activities from 2020 through April 2026, with high activity d
 
 ## Action Items & Commitments
 
-**Urgent/In Progress (April 2026)**
+**Immediate/In Progress (April 18, 2026)**
 
-**S3 Aircraft Repairs & Testing**
-- **Joshua Fromm**: Investigate gas sensor optocoupler issue; resolve wiring/diagnostics (target: next week as of April 17)
-- **Joshua Fromm**: Repair S3 aircraft issue; provide repair complete timeline estimate (April 15)
-- **Maciej Smolka**: Oversee S3 flight testing; plan altitude validation flights at multiple elevation points
-- **Status**: Almost certainly not ready for testing until Friday April 17/18, 2026; gas communication issue identified April 17 requires additional troubleshooting time
-
-**Mexico Deployment (Deferred)**
-- Dan Prendergast: File carnet documentation once flight information finalized (requires crew names/flight details)
-- Nate: Print FAA Remote ID placards for S3 (20686S30001) and carry copies for border
-- Meredith Needham: Cancel Mexico hotel and car rental reservations made for April 19-27 window (Free cancellation until April 18 confirmed; Hertz cancellable before pickup)
-- Jack Elston: Confirm flight information to enable carnet filing
-- Dan Prendergast: Confirm
+**Gas Payload Isolation Circuit Design**
+- **Jack Elston**: Verify wiring diagram and finalize ADUM1201 

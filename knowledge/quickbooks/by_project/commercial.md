@@ -1,10 +1,10 @@
 # Commercial — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $1,463,287.36
+- **Total Invoiced (Revenue):** $1,575,916.36
 - **Total Expenses (Bills + Purchases):** $177,881.95
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $1,285,405.41 (Revenue exceeds expenses)
+- **Net Position:** $1,398,034.41 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – May 8, 2026
 
 ---
@@ -17,6 +17,8 @@
 |-----------|------|--------|----------|---------|
 | 1757 | 2026-05-08 | $63,735.00 | [043-3] By Light Halo | $63,735.00 |
 | 1756 | 2026-05-08 | $47,894.00 | [043-3] By Light Halo | $47,894.00 |
+| 1755 | 2026-05-08 | $63,735.00 | [043-3] By Light Halo | $63,735.00 |
+| 1754 | 2026-05-08 | $47,894.00 | [043-3] By Light Halo | $47,894.00 |
 | 1758 | 2026-04-16 | $0.00 | Black Swift Technologies | Voided |
 | 1756 | 2026-04-10 | $62,500.00 | (035-1) Adonis | $62,500.00 |
 | 1755 | 2026-04-10 | $90,000.00 | [032-3] Sasquatch S0s x 4 | $90,000.00 |
@@ -64,9 +66,9 @@
 | 1618 | 2024-04-19 | $13,853.10 | [451] INSTAAR Stable Isotope Lab, CU Boulder | Paid |
 
 ### Revenue Summary
-- **Total Invoiced:** $1,463,287.36
+- **Total Invoiced:** $1,575,916.36
 - **Total Collected (Paid):** $1,075,726.08
-- **Outstanding Balance:** $387,561.28 *(includes new invoices #1757 and #1756 from May 8, 2026)*
+- **Outstanding Balance:** $500,190.28 *(includes 4 new invoices from May 8, 2026 totaling $223,258.00 for [043-3] By Light Halo)*
 
 ---
 
@@ -169,16 +171,4 @@
 
 ### April 2026
 | Category | Amount |
-|----------|--------|
-| Materials & Supplies | — |
-| Equipment/Inventory | — |
-| Rent/Facilities | — |
-| **April Subtotal** | **—** |
-
----
-
-## Notable Transactions
-
-### **LARGE NEW REVENUE (May 2026)**
-- **Invoice #1757 (2026-05-08):** $63,735.00 to [043-3] By Light Halo  
-  
+|----------|-----
