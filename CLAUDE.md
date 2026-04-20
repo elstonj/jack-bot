@@ -3,6 +3,9 @@
 ## Project Overview
 Jack Bot is an AI-powered project management assistant for Black Swift Technologies (BST). It synthesizes data from Asana, Toggl, Google Workspace, Slack, and Rippling into prioritized daily briefings posted to Slack, and answers ad-hoc questions about projects, contacts, finances, and team activity.
 
+## Vision & Build Order
+Jack Bot is meant to **replace the head of operations and project managers** at BST — keep projects on time and under budget without a human in the loop. The daily briefing is one small read-only feature; the broader goal is budget Q&A, autonomous Asana hygiene from email/Slack evidence, interim-report composition, and eventual invoice generation (cost-reimbursable + fixed-cost milestone). Committed build order: (1) structured project-state model + spend-to-budget reconciliation, (2) auto-propose Asana closures from evidence, (3) proactive observer daemon posting a PM-only digest, (4) report composer, (5) contract-terms parsing + invoicing. Prefer changes that unlock multiple phases over single-use features.
+
 ## Architecture
 
 ### Core Pipeline (`daily_research.py`)
