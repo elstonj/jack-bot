@@ -1,69 +1,89 @@
 # Asana Projects Overview
 
-Last scanned: 2026-04-18 02:07
+Last scanned: 2026-04-20 02:08
 
-Total projects scanned: 8
+Total projects scanned: 15
 
 ## Projects
 
-- **[001-03] S0 IRAD & Fleet Maintenance** — 1 tasks — [001-03_s0_irad_fleet_maintenance.md](001-03_s0_irad_fleet_maintenance.md)
-- **[001-04] S0 VTOL IRAD** — 4 tasks — [001-04_s0_vtol_irad.md](001-04_s0_vtol_irad.md)
-- **[001-12] Customer Support** — 1 tasks — [001-12_customer_support.md](001-12_customer_support.md)
-- **[001-13] Proposals** — 1 tasks — [001-13_proposals.md](001-13_proposals.md)
-- **[001-13] Purchasing** — 42 tasks — [001-13_purchasing.md](001-13_purchasing.md)
-- **[212-2] NASA S2 & Parts** — 1 tasks — [212-2_nasa_s2_parts.md](212-2_nasa_s2_parts.md)
-- **[300-3] 2026 IDIQ (Hurricane)** — 6 tasks — [300-3_2026_idiq_hurricane.md](300-3_2026_idiq_hurricane.md)
-- **[350-4] 2024 USGS - Chile (Mexico)** — 1 tasks — [350-4_2024_usgs_-_chile_mexico.md](350-4_2024_usgs_-_chile_mexico.md)
+- **View: Flight Testing** — 4 tasks — [view_flight_testing.md](view_flight_testing.md)
+- **View: Major Milestones & Tasks** — 6 tasks — [view_major_milestones_tasks.md](view_major_milestones_tasks.md)
+- **[001-03] S0 IRAD & Fleet Maintenance** — 3 tasks — [001-03_s0_irad_fleet_maintenance.md](001-03_s0_irad_fleet_maintenance.md)
+- **[001-04] S0 VTOL IRAD** — 1 tasks — [001-04_s0_vtol_irad.md](001-04_s0_vtol_irad.md)
+- **[001-07] S3 IRAD** — 9 tasks — [001-07_s3_irad.md](001-07_s3_irad.md)
+- **[001-13] Accounting** — 1 tasks — [001-13_accounting.md](001-13_accounting.md)
+- **[001-13] Facilities Management** — 1 tasks — [001-13_facilities_management.md](001-13_facilities_management.md)
+- **[001-13] General Operations** — 1 tasks — [001-13_general_operations.md](001-13_general_operations.md)
+- **[001-13] HR General ** — 1 tasks — [001-13_hr_general.md](001-13_hr_general.md)
+- **[001-13] Marketing** — 1 tasks — [001-13_marketing.md](001-13_marketing.md)
+- **[001-13] Purchasing** — 2 tasks — [001-13_purchasing.md](001-13_purchasing.md)
+- **[044-1] EMASS Chip Integration** — 7 tasks — [044-1_emass_chip_integration.md](044-1_emass_chip_integration.md)
+- **[212-1] S2 Simulator ** — 5 tasks — [212-1_s2_simulator.md](212-1_s2_simulator.md)
+- **[301-3] S0 Hurricane Phase II - 2025** — 1 tasks — [301-3_s0_hurricane_phase_ii_-_2025.md](301-3_s0_hurricane_phase_ii_-_2025.md)
+- **[350-4] 2024 USGS - Chile (Mexico)** — 15 tasks — [350-4_2024_usgs_-_chile_mexico.md](350-4_2024_usgs_-_chile_mexico.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Project Portfolio Overview
+# Black Swift Technologies - Project Portfolio Summary
 
-## Portfolio Summary
-- **Total Active Projects:** 8
-- **Portfolio Value:** ~$697,074 (tracked projects)
-- **Overall Health:** Mixed — majority active with varied completion rates
+## Portfolio Overview
+- **Total Portfolio Value**: ~$4.8M+ (identified contracts)
+- **Active Projects**: 13 major projects across R&D, commercial, government, and internal operations
+- **Critical Phase**: Multiple projects in validation/delivery phases with April-August 2026 deadlines
 
 ---
 
-## Key Active Projects
+## Key Active Projects by Value
 
 | Project | Client | Value | Status | Key Deadline |
 |---------|--------|-------|--------|--------------|
-| **[001-04] S0 VTOL IRAD** | Multi-customer (ERAU, Barbados, NOAA, Janet) | Not specified | 73% complete (95/130 tasks) | Apr 30, 2025 (ERAU); Jun 13, 2025 (Barbados) |
-| **[300-3] 2026 IDIQ (Hurricane)** | NOAA UxSOC | $483,000 | Active; invoicing on track (3/6) | Jul 31, 2026 |
-| **[212-2] NASA S2 & Parts** | NASA Ames | $89,844 | Active | Sep 30, 2026 |
-| **[350-4] USGS Chile** | USGS Volcano Science Center | $124,230 | **COMPLETED** (Apr 20, 2026) | — |
-| **[001-13] Purchasing** | Internal operations | Not tracked | Critical load: 42 open tasks | Ongoing (Feb-Jun 2026) |
-| **[001-12] Customer Support** | Multi-university & agency | Not specified | Active (1 open task) | Ongoing |
-| **[001-03] S0 IRAD & Fleet Maintenance** | Internal R&D | Not specified | Active (recent completions) | 2026 season readiness |
-| **[001-13] Proposals** | Various | Not specified | Minimal (1 task) | TBD |
+| S0 Hurricane Phase II | NOAA/U. Miami | $1,700,000 | Active - training delivery | Aug 25, 2026 |
+| S2 Simulator | NASA Ames | $2,900 | Paid/Complete | N/A |
+| S0 IRAD & Fleet Maint. | Internal R&D | Unspecified | Active - 3 open tasks | Mar 31, 2026 |
+| EMASS Chip Integration | EMASS (Commercial) | $90,000 | Final validation (85%) | Extended/Open |
+| USGS Chile/Mexico | USGS Volcano Science | $124,230 | Active - post-mission | Oct 1, 2026 |
+| S3 IRAD | Internal R&D | Unspecified | Flight testing phase | Mar 31, 2026 |
+| Flight Testing | Internal/TBD | Unspecified | Critical validation | Apr 21-23, 2026 |
 
 ---
 
 ## Risk Areas
 
-1. **S0 VTOL IRAD**: 35 open tasks remain (27% backlog); tight Q2 2025 customer deliveries
-2. **Purchasing**: 100% open rate (42 tasks); critical operational bottleneck across all projects
-3. **Resource Constraints**: Heavy team allocation to core flight projects may strain support functions
-4. **Contact Continuity**: NASA S2 project contact change noted (Isaac Anderson departed)
+1. **Milestone Assignment Gap**: Major Milestones & Tasks (Mexico aircraft) have 6 open unassigned milestones with no tracking mechanism
+2. **Single-Point Dependencies**:
+   - Dan Prendergast: exclusive owner of Flight Testing validation (4 critical tasks)
+   - Paige Smith: sole owner of Marketing deliverable (due Apr 20, 2026)
+3. **Compressed Timelines**: Multiple validation/delivery phases clustered in March-August 2026
+4. **Contract Extensions**: EMASS project exceeded original deadline with no defined endpoint
+5. **Resource Bottleneck**: Purchasing project shows massive backlog reduction (42→2 tasks), indicating recent surge processing
 
 ---
 
 ## Team Allocation Patterns
-- **Flight Operations**: Maciej Stachura (USGS lead), Randy Hobbs/Will Wade (NASA leads)
-- **Operations/Support**: Meredith O'Hara Needham (primary purchasing processor)
-- **Business Development**: Beck Cotter (proposals)
-- *Full team roster visibility limited in current data*
+
+**High-Load Team Members**:
+- Dan Prendergast: Flight Testing (validation), EMASS Integration (lead), HR support
+- Meredith O'Hara Needham: Purchasing, Facilities, Accounting, General Operations (critical ops bottleneck)
+- Nate Straus, Maciej Stachura: Flight operations/testing support
+
+**Under-Resourced Areas**:
+- Mexico milestones: Currently unassigned (6 milestones)
+- Marketing: Single-person dependency (Paige Smith)
 
 ---
 
-## Upcoming Critical Deadlines
+## Upcoming Deadlines (Next 6 Months)
 
-| Date | Milestone |
-|------|-----------|
-| **Apr 30, 2025** | ERAU S0 VTOL delivery |
-| **Jun 13, 2025** | Barbados/Commercial S0 VTOL delivery |
-| **Jul 31, 2026** | NOAA Hurricane IDIQ project completion |
-| **Sep 30, 2026** | NASA S2 & Parts delivery |
-| **Mid-2026** | S0 VTOL extended testing phase completion |
+- **March 31, 2026**: S0 IRAD & S3 IRAD milestones
+- **April 20-24, 2026**: GNSS fixes, Flight testing, Marketing deliverable (Apr 20)
+- **April 27, 2026 – Oct 1, 2026**: USGS post-mission deliverables window
+- **July 31, 2026**: NOAA Hurricane training/controller delivery
+- **August 25, 2026**: NOAA Hurricane training completion deadline
+
+---
+
+## Operational Status
+
+**Strong Execution**: Facilities Management (99.4% completion), NASA simulator (fully paid)  
+**At Risk**: Unassigned milestones, single-point dependencies, compressed validation phases  
+**Recommendation**: Immediate resource allocation to Mexico milestones and cross-training for critical personnel

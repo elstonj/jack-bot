@@ -4,12 +4,14 @@
 - **Client/Customer**: Internal BST marketing initiative, with engagement for USAF (Col Penuela) and various conference/industry outreach
 - **Dollar Value**: No specific dollar amounts identified in task data
 - **Timeline**: Ongoing project with tasks spanning 2024-2026, no defined end date
-- **Status**: Active - 82% completion rate (23 completed, 5 open tasks in recent data; historical data shows 83% across 70 total tasks)
+- **Status**: Active but critically constrained — 1 open task (Precision Atmospheric Datasheet Rev 2, due 2026-04-20) assigned to sole owner Paige Smith
 - **Team Members**: Paige Smith (owner/primary), Dan Prendergast, Meredith O'hara Needham
 - **Risk Signals**: 
-  - **Critical capacity issue**: Paige Smith is sole assignee for all 5 open tasks with near-term deadlines (April 17 - May 28)
-  - Google Analytics significantly backlogged: 6 months of reports (Sept 2025 - April 2026) completed in single batch on 2026-04-06; suggests workflow disruption or catch-up cycle
-  - Unassigned strategic tasks remain from previous assessment (SEO Improvements, New Website, Website upkeep, ISARRA Conference, AMS Conference, generic sales decks)
+  - **CRITICAL**: Single point of failure — all active work assigned exclusively to Paige Smith
+  - **Overdue/At-risk tasks**: Wildfire video rev2 (due 2026-04-17, likely overdue); Precision Atmospheric Datasheet Rev2 (due 2026-04-20, imminent)
+  - **Capacity exhaustion**: Prior assessment showed 5 open tasks spanning April 17 - May 28; current data shows consolidation to 1 task, suggesting either completion or archival
+  - Google Analytics backlog pattern: 6 months of reports completed in single batch (2026-04-06) indicates unsustainable workflow
+  - Schedule slippage: Recent completions consistently 3-8 days late (April 2026 batch)
 
 ## Key Deliverables & Milestones
 - **Marketing Strategy & Plan**: Completed February 2025
@@ -27,7 +29,7 @@
 - **Sales Materials**: 
   - Soil Moisture Marketing Materials (completed September 2025)
   - Generic decks for hurricane, soil moisture, wildfire applications (pending, unassigned, no due date)
-  - Precision Atmospheric Datasheet Rev2 (due 2026-04-20) — **OPEN**
+  - Precision Atmospheric Datasheet Rev2 (due 2026-04-20) — **OPEN, IMMINENT**
 - **Government Outreach**: 
   - Air-deployed Capabilities Info to AFRL (completed March 2026)
   - INDOPACOM Overwater Delivery Demo (completed March 2026)
@@ -37,55 +39,49 @@
   - UFS Newsletter submission (completed 2026-04-16, 3 days late from 2026-04-13 due date)
   - S0 Weather Recon Graphic (completed 2026-04-16, no due date)
   - Kites website (completed 2026-04-16, 6 days late)
-  - Wildfire video rev2 (due 2026-04-17) — **OPEN, likely overdue**
+  - Wildfire video rev2 (due 2026-04-17) — **LIKELY OVERDUE**
 
 ## Task Summary
-- **Total Tasks**: 28 in recent data (5 open, 23 completed) - 82% completion rate
-- **Historical Total**: 70 tasks (12 open, 58 completed) - 83% completion rate suggests task consolidation or archival in Asana view
+- **Current Open Tasks**: 1 (Precision Atmospheric Datasheet Rev2, Paige Smith, due 2026-04-20)
+- **Historical Context**: Prior assessment showed 28 recent tasks (5 open, 23 completed) and 70 total historical tasks (12 open, 58 completed) — **82-83% completion rate**; current single-task view suggests significant task completion or project view filtering
 - **Tasks by Assignee**:
-  - Paige Smith: 5 open tasks + 23 recent completed tasks (100% of recent workload)
-  - Dan Prendergast: 1 completed task historically (AFRL deliverable)
-  - Meredith O'hara Needham: 1 completed task historically (WordPress login)
-  - Unassigned: 5 strategic tasks from prior assessment remain unassigned
+  - Paige Smith: 1 current open task + majority of recent completed work (exclusive ownership of active workload)
+  - Dan Prendergast: Historical contribution (1 completed task)
+  - Meredith O'hara Needham: Historical contribution (1 completed task)
+  - Unassigned: 5 strategic tasks remain unassigned (website rebuild, SEO, ISARRA/AMS conferences, generic sales decks)
 - **Notable Patterns**: 
-  - **Single point of failure**: All active work assigned to Paige Smith exclusively
-  - **Google Analytics routine**: Monthly recurring task with systematic due dates, but severe batch processing backlog (6 months completed together 2026-04-06)
-  - **Schedule slippage**: Recent completions show consistent 3-8 day delays (Kites website, multi-drop marketing, UFS newsletter all completed 2026-04-16, multiple days late)
-  - **Mix of tactical and strategic**: Meetings/calls interspersed with content creation and reporting
+  - **Severe capacity concentration**: All active tasks funnel through Paige Smith exclusively
+  - **Schedule deterioration**: April 2026 batch completions show consistent 3-8 day delays
+  - **Google Analytics routine**: Systematic monthly task with batch processing backlog (6 months cleared 2026-04-06)
+  - **Task consolidation**: Asana view now shows 1 open task vs. 5 in prior assessment; unclear if others completed, reassigned, or archived
 
 ## Recent Activity
+- **April 20, 2026 (imminent)**: Precision Atmospheric Datasheet Rev2 due — currently open, assigned to Paige Smith
+- **April 17, 2026 (likely overdue)**: Wildfire video rev2 due — status unknown from current data
 - **April 16, 2026**: Major completion batch — Kites website, UFS Newsletter submission, multi-drop marketing, S0 Weather Recon Graphic all completed (most late by 3-8 days)
-- **April 6, 2026**: Google Analytics batch processing — 6 months of reports completed in single day (Sept 2025 - April 2026), indicating significant backlog clearance
-- **March 2026**: Air-deployed Capabilities Info to AFRL and INDOPACOM Overwater Delivery Demo completed
-- **Approaching Deadlines** (as of late April 2026):
-  - Wildfire video rev2 (due 2026-04-17) — **likely overdue**
-  - Precision Atmospheric Datasheet Rev2 (due 2026-04-20)
-  - Convert content to email, enhance subscribers list (due 2026-04-21)
-  - Revisit w/ Google Ads specialist (due 2026-04-28)
-  - Google Analytics May report (due 2026-05-28)
+- **April 6, 2026**: Google Analytics batch processing — 6 months of reports completed in single day (Sept 2025 - April 2026)
 
 ## Notes & Context
-Project aims to create comprehensive marketing strategy for BST brand promotion and business growth. Strong emphasis on:
+Project aims to create comprehensive marketing strategy for BST brand promotion and business growth with emphasis on:
 
 - **Digital Presence**: Monthly Google Analytics monitoring (systematic recurring task), website improvements and audit, SEO optimization pending
 - **Industry Engagement**: Active conference participation (AFA Warfare Symposium, Mountain West UAS Meetup completed; ISARRA and AMS conferences pending)
 - **Content Development**: Whitepapers, datasheets, video production, social media content, sales collateral for key applications (hurricane, soil moisture, wildfire, precision atmospheric monitoring, kites)
 - **Government/Defense Outreach**: Strategic engagement with USAF (Col Penuela), AFRL, INDOPACOM; focus on air-deployed capabilities and EW concepts
-- **Email Marketing**: New initiative emerging (convert content to email, enhance subscribers list, due 2026-04-21)
-- **Google Ads**: Ongoing optimization with scheduled specialist review (due 2026-04-28)
+- **Email Marketing**: New initiative emerging (convert content to email, enhance subscribers list)
+- **Google Ads**: Ongoing optimization with scheduled specialist review
 - **Product Lines**: Increased focus on kites, precision atmospheric monitoring, multi-drop capabilities requiring collateral support
 
-**Key Observations**:
-- **Severe capacity bottleneck**: Paige Smith handling 100% of active marketing work; 5 open tasks span 41 days (through May 28) with video production, datasheet revision, email marketing, and analytics reporting
-- **Schedule deterioration**: Historical data showed tasks managed within deadlines; current batch shows consistent 3-8 day slippage, suggesting workload overload or resource constraints
-- **Google Analytics backlog**: 6-month backlog cleared in single day (2026-04-06) is unsustainable pattern; indicates either systematic under-resourcing or work interruption
-- **Strategic gaps remain**: Unassigned tasks (website rebuild, SEO, conference planning, sales decks) from prior assessment still lack ownership, creating ongoing technical debt
-- **Emerging email marketing**: New channel development (email subscribers list) competing for bandwidth with established deliverables
+**Critical Observations**:
+- **Single-person bottleneck**: Paige Smith owns 100% of active marketing work; current imminent deadline (Precision Atmospheric Datasheet Rev2, due 2026-04-20) with likely concurrent overdue task (Wildfire video rev2, due 2026-04-17)
+- **Task completion mystery**: Current data shows 1 open task vs. 5 open in prior assessment; determine if others (email marketing, Google Ads specialist meeting, Google Analytics report) were completed, reassigned, or removed from view
+- **Schedule slippage worsening**: Consistent 3-8 day delays in April 2026 completions indicate escalating capacity issues
+- **Google Analytics unsustainable pattern**: 6-month batch processing suggests systematic under-resourcing
+- **Strategic debt mounting**: Unassigned tasks (website rebuild, SEO, ISARRA/AMS conferences, generic sales decks) continue to lack ownership
 
-**Recommended Actions**:
-1. **Immediate**: Assess Wildfire video rev2 status (likely overdue as of April 17); determine if extension needed or if task is blocked
-2. **Redistribute workload**: Distribute Precision Atmospheric Datasheet Rev2, email marketing, and Google Ads specialist meeting to team members or external resources
-3. **Fix Google Analytics cadence**: Establish monthly reporting rhythm rather than batch processing to prevent future backlogs
-4. **Assign strategic backlog**: Assign ISARRA, AMS conferences and generic sales decks with firm deadlines and responsible parties
-5. **Email strategy**: Define scope and resource plan for emerging email marketing initiative to prevent it becoming another overload vector
-6. **Staffing**: Consider contractor support for video production, email marketing
+**Immediate Actions Needed**:
+1. **Verify task status**: Confirm whether Wildfire video rev2 (due 2026-04-17) is complete, overdue, or blocked
+2. **Assess Datasheet deadline**: Determine feasibility of Precision Atmospheric Datasheet Rev2 (due 2026-04-20) completion; consider extension if required
+3. **Locate missing tasks**: Clarify status of 4 tasks from prior assessment now absent from current view (email marketing, Google Ads, Google Analytics, likely one other)
+4. **Workload redistribution**: Immediately assign pending strategic tasks (ISARRA, AMS conferences, generic sales decks) with firm deadlines and owners
+5. **Staffing augmentation**: Urgent need for contractor or team member support

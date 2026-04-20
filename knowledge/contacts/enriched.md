@@ -4,287 +4,344 @@
 
 ## NASA
 
-### Key Government Contacts — Primary Sponsor
+### John Glass
+- **Email:** John.Glass-1@nasa.gov, John.Glass@nasa.gov
+- **Role:** NASA Contact
+- **Projects:** Government client relationship for aerospace/atmospheric research
+- **Interaction Context:** Part of 100+ NASA contact network across multiple centers
+- **Contact About:** Aerospace contracts, research collaboration
 
-- **John Glass**
-  - Email: John.Glass-1@nasa.gov
-  - Role: Program Manager/Technical POC
-  - Projects: Multiple NASA SBIR/STTR programs (autonomy, volcano monitoring, boundary layer)
-  - Recent interaction: Core contact for Phase II proposal coordination and funding management
-  - Topics to contact: SBIR Phase II submissions, proposal status, technical milestones
+### Thomas A. Weisz
+- **Email:** thomas.a.weisz@nasa.gov
+- **Role:** NASA Contact
+- **Projects:** Government research sponsor
+- **Contact About:** Research partnerships, contract opportunities
 
-- **Matthew M. Fladeland**
-  - Email: matthew.m.fladeland@nasa.gov
-  - Role: Research Scientist/Technical Lead
-  - Projects: Likely Earth Science or atmospheric research
-  - Topics to contact: Atmospheric sensing, research partnerships
+### Andrew E. Johnson
+- **Email:** Andrew.E.Johnson@jpl.nasa.gov
+- **Role:** JPL Contact
+- **Projects:** Jet Propulsion Laboratory collaboration
+- **Contact About:** JPL-led projects, technical partnerships
 
-- **Brian A. McGinley**
-  - Email: brian.a.mcginley@nasa.gov
-  - Role: Program/Technical Manager
-  - Projects: Likely Earth Science or applications programs
-  - Topics to contact: Research coordination, payload integration
+### Tara Estlin
+- **Email:** Tara.Estlin@jpl.nasa.gov
+- **Role:** JPL Contact
+- **Projects:** Technical development with JPL
+- **Contact About:** JPL autonomous systems, rover/spacecraft work
 
-### JPL (Jet Propulsion Laboratory) — Robotics & Autonomy
+### Marc Golombek
+- **Email:** mgolombek@jpl.nasa.gov
+- **Role:** JPL Contact / Mars Geology Expert
+- **Projects:** Mars rover mission support, planetary science
+- **Contact About:** Mars surface analysis, rover operations
 
-- **Andrew E. Johnson**
-  - Email: Andrew.E.Johnson@jpl.nasa.gov
-  - Role: Robotics/Autonomy Researcher
-  - Projects: Autonomy development, potential rover/mobile systems
-  - Topics to contact: Advanced flight control, autonomous navigation
+### Matthew M. Fladeland
+- **Email:** matthew.m.fladeland@nasa.gov
+- **Role:** NASA Aeronautics Contact
+- **Projects:** Atmospheric research, aeronautics development
+- **Interaction Context:** Active in NASA Aero initiatives (per Beck Cotter's RFI work)
+- **Contact About:** NASA aeronautics RFI responses, autonomy/avionics systems
 
-- **Tara Estlin**
-  - Email: Tara.Estlin@jpl.nasa.gov
-  - Role: Software/Autonomy Specialist
-  - Topics to contact: Flight autonomy, software architecture
+### Cynthia X. Zhang
+- **Email:** cynthia.x.zhang@nasa.gov
+- **Role:** NASA Contact
+- **Projects:** NASA research initiatives
+- **Contact About:** Proposal development, research collaboration
 
-- **Marc Golombek**
-  - Email: mgolombek@jpl.nasa.gov
-  - Role: Planetary Science/Geology
-  - Topics to contact: Mars rover support, scientific mission planning
+### Stephan R. Kawa
+- **Email:** stephan.r.kawa@nasa.gov
+- **Role:** NASA Atmospheric Science Contact
+- **Projects:** Atmospheric/climate research
+- **Contact About:** Climate science missions, data collection
 
-### Secondary NASA Contacts
+### Jennifer L. Gustetic
+- **Email:** jennifer.l.gustetic@nasa.gov
+- **Role:** NASA SBIR/Innovation Contact
+- **Projects:** Small Business Innovation Research administration
+- **Interaction Context:** Manages SBIR programs; BST has active Phase I/II proposals
+- **Contact About:** SBIR proposals, Phase II planning
 
-- Thomas A. Weisz, Daniel Goodrick, Bruce D. Fisher, Arthur B. Maples, Cynthia X. Zhang, Shirley J. Lapole, Brayden L. Chamberlain, Tony A. Damian, Mohammad Nourani, Judy Dove, William C. Edwards, Ranjay M. Shrestha, Daniel P. Coleman, Robert Levy, Pawan Gupta, M. M. Little, Joseph Grant-1, Jennifer L. Gustetic, Gynelle C. Steele, Kim L. Chrestenson, Stephan R. Kawa, Morris Hicks, Nakeitha Terrell, Ganiu T. Adegun, Jerry S. Esper, Roopalee D. Nesson, Sergio Mckenzie, Aimee B. Crowley, Amanda S. Brecht
-  - Email: [lastname]@nasa.gov format
-  - Role: Varies (program managers, technical leads, scientists across centers)
-  - Projects: Multiple concurrent SBIR/STTR awards and research collaborations
-  - Recent interaction: Active Phase I/II proposal coordination (2025-2026)
-  - Topics to contact: Specific to assigned proposal/project; follow POC guidance
-
-### JPL Secondary Contacts
-
-- Allyson J. Beatrice, Cesar A. Romano, Roland Brockers, T. Parker, Raymond Francis, F. Calef, Kathryn M. Stack, R. Bhartia, Marcin L. Witek, Marco B. Quadrelli, T.W. Thompson, Seungbum Kim
-  - Email: [lastname]@jpl.nasa.gov format
-  - Role: Research scientists, robotics, systems engineers
-  - Projects: Rover/autonomy support, sensor integration, mission planning
-  - Topics to contact: Robotics collaboration, sensor payload work
+### Allyson J. Beatrice
+- **Email:** Allyson.J.Beatrice@jpl.nasa.gov
+- **Role:** JPL Contact
+- **Projects:** JPL technical collaboration
+- **Contact About:** JPL systems integration
 
 ---
 
 ## NOAA (National Oceanic and Atmospheric Administration)
 
-### Government Sponsor — Atmospheric & Weather Research
+### Joe Cione
+- **Email:** joe.cione@noaa.gov
+- **Role:** NOAA Federal Contact / Hurricane/Atmospheric Science
+- **Projects:** [025-1] NOAA Boundary Layer; Hurricane reconnaissance missions
+- **Interaction Context:** Active event invitations/coordination per Josh Fromm emails; involvement in hurricane operations planning
+- **Recent Activity:** Coordinating flight test operations, field deployments
+- **Contact About:** Boundary layer measurements, hurricane reconnaissance, STTR project management
 
-- **Ashley Hann**
-  - Email: ashley.hann@noaa.gov
-  - Role: Industry Engagement Lead / NOAA Uncrewed Systems Forum Coordinator
-  - Projects: NOAA Uncrewed Systems Industry Engagement Forum
-  - Recent interaction: Confirmed BST participation in 4/29/2026 presentation (Jack Elston); marked IMPORTANT (Apr 17, 2026)
-  - Involvement: Arctic Demo coordination (Apr 17)
-  - Topics to contact: Industry engagement events, NOAA-BST collaboration opportunities, uncrewed systems policies
+### Nikolai Pawlenko
+- **Email:** (NOAA Federal)
+- **Role:** ET Demo Flights Technical Lead
+- **Projects:** [025-1] Navy STTR Boundary Layer; Field operations coordination
+- **Interaction Context:** Direct coordination with Jack Elston on flight checklists (Apr 13 email); technical lead for demonstration flights
+- **Recent Activity:** April 13–17, 2026 — active demo flight planning
+- **Contact About:** Field operations, sensor validation, boundary layer measurements
 
-- **Joe Cione**
-  - Email: joe.cione@noaa.gov
-  - Role: Research Scientist / Atmospheric Hazards Specialist
-  - Projects: Boundary layer measurements, tropical cyclone reconnaissance (Navy STTR)
-  - Recent interaction: Event invitations, mission coordination
-  - Involvement: Likely hurricane/tropical storm mission planning
-  - Topics to contact: Storm chasing operations, atmospheric data collection, field mission coordination
+### Wayne M. Angevine
+- **Email:** wayne.m.angevine@noaa.gov
+- **Role:** NOAA Atmospheric Research Contact
+- **Projects:** Atmospheric research collaborations
+- **Contact About:** Atmospheric/meteorological measurements
 
-- **Nikolai Pawlenko**
-  - Email: Not provided in contacts list (NOAA Federal)
-  - Role: Technical Lead / ET Demo Flights Coordinator
-  - Projects: Environmental Test (ET) demonstrations
-  - Recent interaction: Apr 13, 2026 checklist coordination with Jack Elston
-  - Involvement: Critical demo flight operations
-  - Topics to contact: Flight test planning, demo logistics, technical requirements
+### Paul E. Johnston
+- **Email:** paul.e.johnston@noaa.gov
+- **Role:** NOAA Contact
+- **Projects:** NOAA partnerships
+- **Contact About:** Research collaboration, data sharing
 
-### NOAA Secondary Research Contacts (High Frequency)
-
-**Operational/Mission Leads:**
-- Wayne M. Angevine, Paul E. Johnston, Gary Wick, Jonathan Neuhaus, Jeff McMurphy, Tom Evans, Jennifer Horsman, Isaac Vimont, Allison McComiskey
-  - Email: [firstname.lastname]@noaa.gov
-  - Role: Varies (atmospheric scientists, program managers, technical specialists)
-  - Projects: Atmospheric research, Earth science, weather monitoring
-  - Topics to contact: Specific research collaboration needs, data collection missions
-
-**Data/Systems Specialists:**
-- Peter Wolf, Heather Ziel, Audrey Jerauld, Courtney Smith, Jordan Rabinowitz, Dan Kelly, Kenneth Kottra, Karla Nicholl, Jeff Colton, Jordan Dale
-  - Email: [firstname.lastname]@noaa.gov
-  - Role: Data specialists, systems engineers, technical support
-  - Topics to contact: Data formats, telemetry systems, technical integration
-
-**Broader NOAA Network (200+ contacts across divisions):**
-- Additional contacts available for specialized collaborations (oceanography, meteorology, satellite operations, etc.)
-- Suggest leveraging Jack Elston or Maciej Stachura as primary points of coordination for new NOAA engagement
+### Gary Wick
+- **Email:** gary.wick@noaa.gov
+- **Role:** NOAA Contact
+- **Projects:** Government research initiatives
+- **Contact About:** Proposal partnerships, research coordination
 
 ---
 
-## GOVERNMENT PARTNERS & KEY COLLABORATORS
+## USGS (U.S. Geological Survey)
 
-### U.S. Air Force / Department of Defense
-
-- **F.E. Warren AFB (Frontier Electronic Warfare)**
-  - Contact: SUAS Capability RFI forwarded to Maciej Stachura (Apr 17, 2026, IMPORTANT)
-  - Project: Unmanned Systems Market Research / SUAS Evaluation
-  - Role: Customer for advanced UAS reconnaissance
-  - Topics: UAS capabilities, endurance, payload capacity, operational flexibility
-
-### University Partners
-
-- **University of Colorado, Boulder**
-  - **Kevin S. Rozmiarek** (Kevin.Rozmiarek@colorado.edu)
-    - Role: S3 Project Lead / Aircraft Test Coordination
-    - Projects: S3 VTOL development and flight testing
-    - Recent interaction: Active S3 check-in (Apr 17, 2026, IMPORTANT); direct coordination with Jack Elston and Nate Straus
-    - Topics: S3 flight test status, facility coordination, performance metrics
-
-  - **Michael Rhodes, Brian M Argrow, Melissa Wagner** (colorado.edu)
-    - Role: Aircraft demonstration support
-    - Projects: Aircraft performance testing, metrics validation
-    - Topics: Test flight scheduling, data collection, atmospheric science collaboration
-
-  - **Marco Martinez** (Marco.Martinez@colorado.edu)
-    - Role: Facility Manager
-    - Recent interaction: Facility tour coordination (Apr 23 visit scheduled)
-    - Topics: Test site access, facility logistics
-
-- **Stanford University**
-  - **Tanay Topac** (tanaytopac@stanford.edu / tanaytopac@gmail.com)
-    - Role: S2 Avionics / Timestamp Integration Lead
-    - Projects: Stanford SACL - S2 Avionics development
-    - Recent interaction: Sustained active collaboration (previous contact dominance)
-    - Topics: Avionics integration, timestamp synchronization, sensor fusion
-
-- **MIT**
-  - **Akarsh Aurora** (aaurora@mit.edu)
-    - Role: Unknown (marked IMPORTANT in Ethan Domagala inbox)
-    - Recent interaction: Single message marked IMPORTANT (Apr 17)
-    - Topics: Requires context from Jack Elston or team
-
-### USGS (U.S. Geological Survey)
-
-- **Angie Diefenbach**
-  - Email: adiefenbach@usgs.gov
-  - Role: Project Lead / Mexico Deployment Coordinator
-  - Projects: Mexico Deployment (USGS volcanic/atmospheric science mission)
-  - Recent interaction: Jack Elston coordinated response (Apr 17, 2026, IMPORTANT)
-  - Involvement: Field mission logistics, equipment coordination, scientist liaison
-  - Topics: Mexico deployment timeline, science objectives, equipment requirements, field support
+### Angie Diefenbach
+- **Email:** adiefenbach@usgs.gov
+- **Role:** USGS Contact / Mexico Deployment Coordinator
+- **Projects:** [301-3] Mexico Deployment (USGS coordination)
+- **Interaction Context:** Active government coordination per Jack Elston and Josh Fromm emails; primary logistics point of contact for Mexico field operations
+- **Recent Activity:** March–April 2026 — active deployment planning and execution
+- **Contact About:** Mexico deployment logistics, USGS project management, field operations coordination
 
 ---
 
-## STRATEGIC PARTNERS & VENDORS
+## BROOKHAVEN NATIONAL LABORATORY (DOE)
 
-### Krateo Sky (Acquisition Target / Strategic Partnership)
+### Gijs de Boer
+- **Email:** gdeboer@bnl.gov
+- **Role:** BNL Technical Lead / DOE Genesis Project Manager
+- **Projects:** [DOE-100] Genesis Phase I (Atmospheric Monitoring)
+- **Interaction Context:** **SUSTAINED EXTREMELY ACTIVE** — Weekend collaboration with Maciej Stachura (Apr 19, 19:48 UTC); marked IMPORTANT, UNREAD; real-time proposal coordination continues through weekend asynchronously
+- **Recent Activity:** Apr 19, 2026 — Active BNL/Genesis exchange on "FYI -- Genesis..." thread; indicates proposal in final coordination phase
+- **Assessment:** Proposal likely approaching submission window; high-priority technical/operational contact
+- **Contact About:** Genesis Phase I deliverables, proposal coordination, technical approach validation
 
-**Legal & Corporate Contacts (Due Diligence Active):**
-- **Sona Raziabeegum** (sona@krateosky.com)
-  - Role: Krateo Sky Participant / KPMG Tax DD Team Member
-  - Projects: Krateo Sky due diligence, acquisition/partnership legal coordination
-  - Recent interaction: Multi-party legal document exchanges (Apr 17-18, IMPORTANT x4); investor meeting coordination
-  - Involvement: Cross-party integration planning, tax compliance, financial structure
-  - Topics: Acquisition terms, tax structure, integration planning, financial reporting
+### Nathan Urban
+- **Email:** nurban@bnl.gov
+- **Role:** BNL Collaborator / Genesis Proposal Team
+- **Projects:** [DOE-100] Genesis Phase I
+- **Interaction Context:** Collaborative proposal work per Beck Cotter engagement
+- **Contact About:** Genesis proposal content, mission design input
 
-**Operations & Demo Leads:**
-- **Bob Smith** (Bob@krateosky.com)
-  - Role: Strategic Partnership Lead
-  - Projects: Arctic Demo in Ottawa (S3 VTOL), Performance specifications
-  - Recent interaction: Apr 17, 2026 forwarding from Jack Elston with full operations team
-  - Involvement: Demo logistics, partnership alignment
-  - Topics: Arctic Demo execution, partnership milestones, operational coordination
+---
 
-- **Lisa Marie Cheney** (LisaMarie@krateosky.com)
-  - Role: Arctic Demo Logistics Lead
-  - Projects: Arctic Demo in Ottawa (S3 VTOL)
-  - Recent interaction: Apr 17, 2026 (IMPORTANT x2) — primary point of contact for demo logistics
-  - Involvement: Transportation, venue, scheduling, on-site operations
-  - Topics: Demo timeline, resource requirements, on-site coordination, pilot briefings
+## CONTRACTOR & PARTNER ECOSYSTEM
 
-- **Adria Passola** (a@krateosky.com)
-  - Role: Marketing/Business Development
-  - Projects: Performance specs brochure, Arctic Demo support
-  - Recent interaction: Apr 17, 2026 (IMPORTANT x2) — direct performance specs exchange with Jack Elston and Maciej
-  - Involvement: Collateral development, customer-facing technical specs
-  - Topics: Product messaging, performance documentation, competitive positioning
+### Krateo Sky (Arctic Demo Lead)
 
-**Legal Counsel Supporting Krateo Sky Deal:**
-- **Nadia Bryan** (nbryan@kofirm.com) — KO Firm counsel
-  - Projects: Black Swift disclosure schedules, Krateo Sky documentation (Apr 17-18, URGENT x4)
-  - Role: Legal counsel for acquisition/partnership
+#### Lisa Marie Cheney
+- **Email:** LisaMarie@krateosky.com
+- **Role:** Krateo Sky Operations Manager / Arctic Demo Logistics Lead
+- **Projects:** [035-1] Arctic Demo in Ottawa
+- **Interaction Context:** **SUSTAINED ACTIVE** — Direct request to Jack Elston and Maciej Stachura on "Arctic Demo in Ottawa request" (Apr 20, IMPORTANT)
+- **Recent Activity:** Apr 20, 2026 — Fresh logistics request email; indicates demo planning in execution phase
+- **Assessment:** Primary logistics point of contact for Ottawa Arctic demonstration; high-priority operational coordination
+- **Contact About:** Arctic Demo logistics, aircraft delivery/retrieval, site coordination
 
-- **Kylie R. Sholty** (kylie.sholty@katten.com) — Katten LLP (corporate counsel)
-  - Projects: Black Swift-Krateo Sky documents (Apr 17-18, IMPORTANT x3)
-  - Role: Corporate counsel for deal structuring
+#### Bob Smith
+- **Email:** (Krateo Sky)
+- **Role:** Krateo Sky Partnership Contact
+- **Projects:** [035-1] Arctic Demo coordination
+- **Interaction Context:** Partnership escalation per Beck Cotter engagement
+- **Contact About:** Strategic partnership management, demo execution
 
-- Additional counsel: Ryan Sykora (rsykora@kofirm.com), Bret T. Diskin (bret.diskin@katten.com), Jon Taylor (jtaylor@kofirm.com)
+#### Adria Passola
+- **Email:** (Krateo Sky)
+- **Role:** Krateo Sky Team Member
+- **Projects:** [035-1] Arctic Demo
+- **Interaction Context:** Partnership escalation coordination
+- **Contact About:** Demo execution support
 
-### NanoVeu (Simulation & AI Partner)
+---
 
-- **Nikhila Ravikumar** (Nikhila@nanoveu.com)
-  - Role: Simulation Integration Lead / ML Model Developer
-  - Projects: E2 energy management AI integration (ECSDoT), S3 flight simulation support
-  - Recent interaction: **Highest frequency in latest window** (Apr 17-18, unread/important flagging); bidirectional exchanges on simulation and control integration
-  - Involvement: Hardware-in-the-loop (HWIL) testing, AI model training, flight physics validation
-  - BST Contacts: Dan Prendergast (primary), Jack Elston, Maciej Stachura
-  - Topics: Simulation architecture, AI model performance, HWIL test planning, integration timelines
+### NextTech Solutions
 
-- **Tom Wilp** (also copied on NanoVeu correspondence)
-  - Role: Simulation Support / Technical Specialist
-  - Topics: Simulation debugging, data validation
+#### Trenton McKibben
+- **Email:** (NextTech Solutions)
+- **Role:** NextTech Solutions Contact / Arctic Demo Coordinator
+- **Projects:** [035-1] Arctic Demo in Ottawa
+- **Interaction Context:** Arctic Demo in Ottawa coordination per Beck Cotter engagement
+- **Contact About:** Arctic Demo operations, site logistics
 
-### eMASS AI (Energy Management & AI Chip Integration)
+---
 
-- **Scott** (CEO, eMASS AI)
-  - Role: Executive Sponsor / Technical Oversight
-  - Projects: ECSDoT chip integration on E2 platform
-  - Recent interaction: Performance expectations negotiation (Jan 2026); realistic target 10-15% efficiency improvement
-  - Topics: Chip performance targets, integration milestones, phase gate approvals
+### eMASS AI (Energy Management System Integration)
 
-- **Mark** (eMASS AI)
-  - Role: Technical/Operations support
-  - Projects: ECSDoT integration
+#### Nikhila Ravikumar
+- **Email:** Nikhila@nanoveu.com
+- **Role:** eMASS AI Lead Developer / Chip Integration Lead
+- **Projects:** [002-1] eMASS Energy Management System (ECSDoT Hardware Integration onto E2)
+- **Interaction Context:** **ACTIVELY LEADING HWIL AND MODEL TRAINING** — Apr 19 simulation response forwarded by Jack Elston to Dan Prendergast; intensive daily collaboration with BST team through March–April 2026
+- **Recent Activity:** 
+  - Apr 19, 2026 — Simulation coordination response (IMPORTANT)
+  - Preceding months: Hardware-in-the-loop testing, AI model training, firmware/interface debugging
+- **Assessment:** Critical technical partner; project in active hardware integration and validation phase; approaching completion/demo milestone
+- **Key Context from Slack:**
+  - C++ firmware capability discussions (Feb 11, 2026)
+  - Energy savings methodology validated through flight time comparison (Mar 16–17, 2026)
+  - Payload architecture finalized — ECSDoT chip as primary payload on port 55551 (Mar 26, 2026)
+  - Connection stability debugging ongoing (Apr 20, 2026)
+- **Contact About:** Hardware integration status, AI model performance, HWIL test results, firmware interface stability
 
-- **Sergio Ruocco** (eMASS AI)
-  - Role: Autoboot Firmware Expert / SDK Bring-Up Specialist
-  - Projects: ECSDoT firmware development
-  - Recent interaction: Apr 17, 2026 bench test debugging
-  - Topics: Firmware troubleshooting, SDK integration, boot sequence optimization
+#### Moe (Prof. Moe)
+- **Email:** (eMASS AI)
+- **Role:** eMASS AI Model Training Lead
+- **Projects:** [002-1] eMASS ECSDoT Integration
+- **Interaction Context:** AI model training and optimization leadership
+- **Contact About:** ML model performance, training datasets, flight efficiency predictions
 
-- **Moe/Prof. Moe** (eMASS AI)
-  - Role: AI Model Training Lead
-  - Projects: AI model training for energy optimization
-  - Topics: Model performance, training data requirements
+#### Sergio Ruocco
+- **Email:** (eMASS AI)
+- **Role:** eMASS Autoboot Firmware Expert
+- **Projects:** [002-1] eMASS ECSDoT Integration
+- **Interaction Context:** SDK bring-up, firmware troubleshooting, hardware interface management
+- **Contact About:** Firmware architecture, SDK implementation, hardware verification
 
-- **Nikhila** (also listed as eMASS contact; see NanoVeu entry for primary affiliation)
+---
 
-### NextEch Solutions (Arctic Demo Support)
+### Vantage Robotics (Gimbal/Sensor Integration)
 
-- **Trenton McKibben** (Trenton.McKibben@nextechsol.com)
-  - Role: **NEW ELEVATED ROLE** — Arctic Demo Coordination / Technical Operations Lead
-  - Projects: Arctic Demo in Ottawa (S3 VTOL)
-  - Recent interaction: Apr 17, 2026 (IMPORTANT) — initiated direct coordination with Jack Elston, Dan Prendergast, Beck Cotter; appears to be NextEch technical lead for demo ops
-  - Involvement: Flight operations, technical troubleshooting, on-site coordination, pilot liaison
-  - Topics: Demo readiness, technical support, operational contingencies, logistics coordination
+#### Armen Keuleyan
+- **Email:** (Vantage Robotics)
+- **Role:** Vantage Robotics Contact / Gimbal Integration Specialist
+- **Projects:** Sensor payload integration (Axiom Greenseer gimbal/camera system)
+- **Interaction Context:** Technical discussion on Axiom Greenseer gimbal specifications with Alex Lomis (Apr 13–14 emails); gimbal/sensor integration for aircraft platforms
+- **Recent Activity:** Apr 13–14, 2026 — Specs discussion and coordination
+- **Contact About:** Gimbal specifications, sensor integration requirements, payload compatibility
 
-### Vantage Robotics (Gimbal & Sensor Integration)
+---
 
-- **Armen Keuleyan** (armen@vantagerobotics.com)
-  - Role: Gimbal/Sensor Integration Specialist
-  - Projects: Gimbal specs integration, SUAS capability RFI coordination
-  - Recent interaction: Axiom Greenseer gimbal specs discussion (Apr 13-14); SUAS capability RFI forward to Maciej (Apr 17, IMPORTANT)
-  - BST Contact: Alex Lomis (primary), Maciej Stachura
-  - Topics: Gimbal payload integration, sensor mounting, performance specs
+### Phase1 Aviation (Materials/Components)
 
-### Phase 1 Aviation (Materials & Components)
+#### Sean Cole
+- **Email:** sean@phase1av.com
+- **Role:** Phase1 Aviation Materials/Component Provider
+- **Projects:** Aircraft component sourcing, materials supply
+- **Interaction Context:** Frequent materials/component updates with Josh Fromm; established vendor relationship for aircraft development
+- **Contact About:** Aircraft materials, component sourcing, technical specifications
 
-- **Sean Cole** (sean@phase1av.com)
-  - Role: Sales / Materials Specialist
-  - Projects: Aircraft materials and component procurement
-  - Recent interaction: Sustained high frequency (materials updates)
-  - BST Contact: Joshua Fromm (primary)
-  - Topics: Parts availability, material specifications, lead times
+---
 
-### Hardware/Fabrication Vendors
+### Rapid Axis (Manufacturing Vendor)
 
-- **Jared Probst** (Rapid Axis)
-  - Email: Rapid.Axis manufacturing vendor
-  - Role: CNC Machining / Manufacturing Lead
-  - Recent interaction: Urgent parts messaging (Apr 16); active fabrication orders
-  - BST Contact: Alex Lomis, Joshua Fromm
-  - Topics: Custom part fabrication, delivery schedules, design optimization
+#### Jared Probst
+- **Email:** (Rapid Axis)
+- **Role:** Rapid Axis Manufacturing Contact
+- **Projects:** Custom parts manufacturing, urgent parts fulfillment
+- **Interaction Context:** Urgent parts messaging (Apr 16 email); direct vendor coordination with Alex Lomis
+- **Recent Activity:** Apr 16, 2026 — Urgent parts requests
+- **Contact About:** Custom manufacturing, rapid turnaround parts, technical drawings
 
-- **JawsTec** (info@jawstec.com)
-  - Role: Precision Machining / Fabrication
-  - Recent interaction: Order #68200 received confirmation (Apr 17)
+---
+
+### RAND Corporation (Simulation & Analysis)
+
+#### Cole Kramer
+- **Email:** ckramer@rand.com
+- **Role:** RAND Corporation Contact / RandSIM/Ansys Discussion Lead
+- **Projects:** Simulation support, aerodynamic/flight dynamics analysis
+- **Interaction Context:** RandSIM and Ansys discussions with Josh Fromm; technical analysis collaboration
+- **Contact About:** Simulation tools, CFD analysis, flight dynamics modeling
+
+---
+
+### By Light (Air Force Contractor)
+
+#### Nicholas Phillips
+- **Email:** nicholas.phillips@bylight.com
+- **Role:** ByLight HALO SOW Contact
+- **Projects:** [043-3] ByLight M2/Halo; HALO SOW Statement of Work
+- **Interaction Context:** Direct SOW coordination with Ethan Domagala; HALO project management
+- **Contact About:** HALO SOW deliverables, project scope, technical requirements
+
+#### Bryan Sparling
+- **Email:** (ByLight)
+- **Role:** ByLight Pilot / Flight Test Coordinator
+- **Projects:** [043-3] ByLight Mustang/Chilli Flight Testing
+- **Interaction Context:** Flight test operations lead; aircraft testing coordination at Yuma AFB
+- **Interaction Context (Slack #by-lite-mustang):** Primary ByLight pilot contact; coordinates with Maciej, Ethan, Dan Prendergast on flight operations; extensive two-phase testing (Mustang demonstration → Chilli development)
+- **Contact About:** Flight test coordination, aircraft performance validation, mission execution
+
+---
+
+### USDA / Government Research
+
+#### (Generic USDA Research Partner)
+- **Role:** USDA Research Collaboration
+- **Projects:** Soil moisture mapping, agricultural remote sensing
+- **Interaction Context:** Government research partnerships for sensor development and deployment
+- **Contact About:** Agricultural remote sensing, sensor validation, research collaboration
+
+---
+
+### MIT (Academic Partner)
+
+#### Akarsh Aurora
+- **Email:** aaurora@mit.edu
+- **Role:** MIT Research Contact
+- **Projects:** Academic research collaboration
+- **Interaction Context:** Marked IMPORTANT in Ethan Domagala correspondence
+- **Contact About:** Research partnership, technical collaboration
+
+---
+
+### University of Colorado Boulder (Research Partner)
+
+#### Kevin S. Rozmiarek
+- **Email:** Kevin.Rozmiarek@colorado.edu
+- **Role:** CU Boulder S3 Project Contact
+- **Projects:** [001-07] S3 IRAD (Inter-Departmental Research & Development)
+- **Interaction Context:** **ACTIVE CHECK-IN** — Apr 17, 2026 marked IMPORTANT; mid-project status update with Jack Elston and Nate Straus
+- **Recent Activity:** Apr 17, 2026 — S3 project status coordination
+- **Assessment:** University collaboration on S3 platform; appears to be milestone check or technical review
+- **Contact About:** S3 project status, aircraft demonstration coordination, CU facility scheduling
+
+#### Marco Martinez
+- **Email:** Marco.Martinez@colorado.edu
+- **Role:** CU Boulder Facility Coordinator
+- **Projects:** [001-07] S3 IRAD
+- **Interaction Context:** Facility tour coordination (Apr 23 visit scheduled per Nate Straus emails)
+- **Contact About:** CU facility access, test site scheduling, demonstration planning
+
+#### Michael Rhodes, Brian M Argrow, Melissa Wagner
+- **Email:** colorado.edu
+- **Role:** CU Boulder Aircraft Demonstration Team
+- **Projects:** [001-07] S3 IRAD; Aircraft demonstration coordination
+- **Interaction Context:** Aircraft demonstration coordination ongoing per Nate Straus engagement
+- **Contact About:** Aircraft testing, facility scheduling, technical collaboration
+
+---
+
+### Stanford University (Avionics Partnership)
+
+#### Tanay Topac
+- **Email:** tanaytopac@stanford.edu / tanaytopac@gmail.com
+- **Role:** Stanford SACL Lab Contact / Avionics Collaboration Lead
+- **Projects:** Stanford SACL Timestamp S2 Avionics system
+- **Interaction Context:** **SUSTAINED DOMINANT** — Previous period dominance continues per Nate Straus engagement; intensive technical collaboration on avionics systems
+- **Contact About:** Avionics system development, S2 integration, timestamp/synchronization systems
+
+---
+
+### Boulder Insurance (Aviation Policy)
+
+#### Debbie Rampy
+- **Email:** debbie@bolderins.com
+- **Role:** Boulder Insurance Broker / Aviation Policy Administrator
+- **Projects:** Black Swift Technologies Aviation Insurance Policy #9032844 (Eff. 04/21/2026)
+- **Interaction Context:** **CRITICAL ESCALATION** — High-frequency back-and-forth with Meredith Needham, Jack Elston, Ethan Domagala, and Nate Straus on policy finalization (Apr 17, 2026); 7 messages in Ethan's inbox, 4 messages on Apr 17 alone in Nate's correspondence
+- **Recent Activity:** Apr 17,

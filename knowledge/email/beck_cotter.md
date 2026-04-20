@@ -1,108 +1,123 @@
-# Beck Cotter — Email Patterns
+# Beck Cotter — Email Patterns (UPDATED)
 
 ## Communication Volume
-- **Total messages scanned: 649** (620 previous + 29 new)
-- **Date range: March 17 – April 17, 2026** (approximately 5 weeks)
-- **Approximate daily volume: 16-17 emails per day** (consistent pattern)
-- **New data snapshot (Apr 17): 29 messages on single day** — indicates high-volume Friday activity, predominantly Genesis proposal work and administrative coordination
-- Weekday intensity sustained; heavy late afternoon/evening activity on Apr 17 (multiple Google Docs comments 08:04-15:32 UTC, evening exchanges 20:11-23:25 UTC)
+- **Total messages scanned: 655** (649 previous + 6 new)
+- **Date range: March 17 – April 20, 2026** (approximately 5 weeks + 3 days)
+- **Approximate daily volume: 16-17 emails per day** (consistent pattern maintained)
+- **New data snapshot (Apr 19-20): 6 messages across 2 days** — lighter volume weekend/early Monday period; Genesis collaboration continues asynchronously; tools consolidation visible (NotebookLM sharing for RFI work)
 
 ## Key Correspondents
 
-### Top Internal BST Contacts (unchanged from prior analysis)
+### Top Internal BST Contacts (unchanged)
 - Jack Elston (CEO) — strategic escalation, cross-team coordination
 - Daniel Prendergast — technical project management, Genesis proposal, Arctic Demo coordination
-- Maciej Stachura — Genesis proposal technical contributions, Google Docs collaboration
+- Maciej Stachura — **SUSTAINED ACTIVE** (Apr 19 exchange with Gijs de Boer on Genesis; marked IMPORTANT, UNREAD) — Genesis technical contributions, Google Docs collaboration
 - Meredith Needham — contracts and compliance
-- Nathaniel Straus — Asana task coordination (training schedule comment Apr 17)
+- Nathaniel Straus — Asana task coordination
 
-### Top External Contacts (updated)
+### Top External Contacts (updated with Apr 19-20 activity)
 
 **🔴 CRITICAL FOCUS — Brookhaven National Lab (BNL) — DOE Genesis:**
-- **Gijs de Boer** (gdeboer@bnl.gov) — **EXTREMELY ACTIVE** (Apr 17 snapshot shows 6+ emails/Google Docs comments from de Boer alone across 07:32-20:58 UTC; calendar meeting confirmed "Accepted: Genesis BNL/BST" at 14:57 UTC; intensive real-time collaboration on proposal document)
-- Nathan Urban (nurban@bnl.gov) — tagged in collaborative proposal work
-- Fernando Llorente — **HIGHLY ACTIVE** (4+ Google Docs comment notifications Apr 17 alone, 13:06-15:26 UTC; focused on Genesis Mission Phase I DRAFT content)
+- **Gijs de Boer** (gdeboer@bnl.gov) — **SUSTAINED EXTREMELY ACTIVE** (Apr 19 19:48 UTC: responds to Maciej Stachura on "FYI -- Genesis..." thread, marked IMPORTANT, UNREAD; real-time collaboration continues through weekend)
+- Nathan Urban (nurban@bnl.gov) — collaborative proposal work
+- Fernando Llorente — Genesis Mission Phase I content contributions
 
 **🔴 CRITICAL FOCUS — NASA Aero RFI:**
-- Jennifer Schnarr (AFRC-210, NASA) — responds to Beck's question on Apr 17 23:25 UTC (marked IMPORTANT, UNREAD) — indicates active RFI response coordination
+- Jennifer Schnarr (AFRC-210, NASA) — active RFI response coordination (deadline May 7)
+- **NEW SIGNAL:** Apr 19 14:40 UTC NotebookLM share request for "NASA Aero RFI: Autonomy/Avionics" document (UNREAD) — indicates organized knowledge consolidation for RFI response work
 
 **🟡 EMERGING — Arctic Demo/NextTech/Krateo Sky Partnership:**
-- Trenton McKibben (NextTech Solutions) — Apr 17 13:20 UTC initiates "Arctic Demo in Ottawa" coordination with Jack/Daniel/Beck (IMPORTANT)
-- Bob Smith, Lisa Marie Cheney, Adria Passola (Krateo Sky) — Jack forwards Arctic Demo to team same day (Apr 17 08:49 UTC), indicating partnership escalation
+- Trenton McKibben (NextTech Solutions) — Arctic Demo in Ottawa coordination
+- Bob Smith, Lisa Marie Cheney, Adria Passola (Krateo Sky) — partnership escalation
 
 **🟢 SUSTAINED — USGS Mexico Deployment:**
-- Angie Diefenbach (adiefenbach@usgs.gov) — Jack responds to Mexico Deployment coordination Apr 17 11:20 UTC (IMPORTANT)
+- Angie Diefenbach (adiefenbach@usgs.gov) — active government coordination
 
 ## Topic Patterns
 
 **🔴 CRITICAL/ACTIVE (Elevated Priority):**
 
-**DOE Genesis Phase I — PEAK INTENSITY**
-- Apr 17 snapshot shows **9+ messages directly related to Genesis** (Google Docs comments from Gijs de Boer, Fernando Llorente, Maciej Stachura; email exchanges; Gemini meeting notes generated)
-- Real-time collaborative editing on "Genesis Mission_Phase I DRAFT" document
-- Multiple document updates throughout Apr 17 morning/afternoon: BNL Letter addition (08:04 UTC), proposal section contributions (08:13, 08:21, 13:06, 13:14 UTC)
-- Calendar meeting held and confirmed ("Accepted: Genesis BNL/BST" 14:57 UTC)
-- **Assessment: Proposal in final development phase, likely approaching submission deadline**
+**DOE Genesis Phase I — SUSTAINED INTENSITY**
+- Apr 19 19:48 UTC: Gijs de Boer responds to Maciej on Genesis thread (IMPORTANT, UNREAD)
+- Apr 19 14:40 UTC: Maciej initiates response to de Boer (IMPORTANT, UNREAD)
+- **Assessment: Proposal remains in active development/final coordination phase; weekend asynchronous collaboration with BNL continues; likely approaching submission window**
 
-**NASA Aero RFI — ACTIVE RESPONSE**
-- Apr 17 23:25 UTC: Jennifer Schnarr (NASA AFRC-210) responds to Beck's question (IMPORTANT, UNREAD)
-- Response turnaround suggests coordinated RFI completion or clarification request
-- **Assessment: Response likely due imminently (May 7 deadline per prior notes)**
-
-**Arctic Demo in Ottawa — NEWLY ESCALATED**
-- Apr 17 13:20 UTC: Trenton McKibben (NextTech Solutions) initiates "Arctic Demo in Ottawa" to Jack, Daniel, Beck (IMPORTANT)
-- Apr 17 08:49 UTC: Jack immediately forwards to Krateo Sky leadership (Bob Smith, Lisa Marie, Adria Passola) + internal team (Maciej, Daniel, Beck)
-- **Assessment: New demonstration or partnership opportunity with immediate executive attention; likely strategic partnership or government contract pursuit**
+**NASA Aero RFI — ACTIVE CONSOLIDATION**
+- Apr 19 14:40 UTC: NotebookLM share request for "NASA Aero RFI: Autonomy/Avionics" (UNREAD)
+- **NEW SIGNAL:** Beck or team is consolidating RFI research/knowledge into NotebookLM (Google's AI-powered research tool) — suggests organized response development, possibly for team collaboration or AI-assisted draft generation
+- **Assessment: RFI response in structured development phase; deadline May 7 remains critical**
 
 **🟡 DEVELOPING/ALERT:**
 
-**SBIR/STTR Program Alerts — MONITORING ACTIVE**
-- Apr 17 10:14-10:15 UTC: 2026 NASA SBIR/STTR Program BAA announced (IMPORTANT, sent to proposals@ and Beck personally)
-- Apr 17 15:59 UTC: Robert Pace (NYSTEC) sends "SBIR Reauthorization" update (IMPORTANT) — potential reauthorization tracking
-- **Assessment: BST actively monitoring new opportunities; may trigger proposal submissions**
+**Asana Portfolio/Task Management — ONGOING**
+- Apr 20 04:56 UTC: Unread notifications reminder
+- Apr 19 15:31 UTC: Weekly portfolio report (UNREAD) — routine portfolio tracking
+- **Assessment: Multiple overdue/pending tasks remain tracked**
 
-**Mexico Deployment — ONGOING**
-- Apr 17 11:20 UTC: Jack responds to USGS Angie Diefenbach (IMPORTANT)
-- **Assessment: Active government coordination; possible field deployment or research collaboration**
+**🟢 EXTERNAL INTELLIGENCE:**
 
-**🟢 SUSTAINED BACKGROUND:**
+**AERO 2026 Industry Newsletter**
+- Apr 19 13:20 UTC: FLARM Technology AG sends "AERO 2026 Insider‑Blick!" (IMPORTANT, CATEGORY_FORUMS, UNREAD)
+- **NEW SIGNAL:** Beck receiving aerospace industry conference/exhibition updates; likely monitoring for business opportunities or competitive intelligence
+- **Assessment: Maintains awareness of major aerospace/UAS industry events**
+
+**🟢 SUSTAINED BACKGROUND (no new signals):**
 - ONR STTR Phase II
 - USMC/Navy MRT initiatives
 - NOAA programs (UxSOC, TC ET)
 - ByLight Mustang project
 - S0/S2/S3 VTOL UAS inquiries
 
-**Administrative/Routine:**
-- Asana task notifications — 4 overdue tasks flagged (Apr 17 15:32 UTC); 1 task due soon (Apr 17 14:41 UTC); Nate Straus training schedule comment (Apr 17 16:42 UTC)
-- Slack notifications from Jack Bot (Apr 17 10:59, 14:22, 15:29 UTC) — internal operations coordination
-- Newsletter subscriptions: NSBA Weekly Advocate (Apr 17), NASA Earth Observatory (Apr 17), EPA Region 8 grant alerts (Apr 17)
-- Proposal management alert: Emmanuel Gorce (EG Proposal Management) sends "US Air Force, DHA, DARPA, OSD, SOCOM open topics" (Apr 17 20:11 UTC, IMPORTANT)
-
 ## Communication Patterns
 
-**Temporal Patterns (Apr 17 snapshot):**
-- **Morning burst (08:04-09:59 UTC / 02:04-03:59 MDT):** Genesis Google Docs activity begins early, coordinating with BNL team across time zones
-- **Midday surge (12:39-15:32 UTC / 06:39-09:32 MDT):** Proposal updates, RFI responses, task notifications, Arctic Demo initiation
-- **Late evening (19:48-23:25 UTC / 13:48-17:25 MDT):** Final proposal coordination, NASA response, meeting confirmations
-- **Assessment:** High-frequency real-time collaboration on Genesis; working across multiple time zones (UTC for BNL, MDT for BST, EDT/PDT for other partners)
+**Temporal Patterns (Apr 19-20 snapshot):**
+- **Weekend activity (Apr 19 afternoon/evening):** Asynchronous collaboration with BNL on Genesis (13:20-19:48 UTC window spans Sunday afternoon to evening across multiple time zones)
+- **Early Monday (Apr 20 04:56 UTC):** Asana notifications processed during early morning
+- **Assessment:** Weekend work continues on Genesis proposal; Beck/team maintaining continuous engagement across time zones
 
-**Collaboration Tools:**
-- Google Docs comments (real-time collaborative proposal editing — primary mechanism for Genesis)
-- Asana task/project management
-- Slack internal messaging (Jack Bot notifications indicate automated workflows)
+**Collaboration Tools (updated):**
+- Google Docs comments (real-time Genesis proposal editing)
+- **NotebookLM** (NEW) — AI-powered knowledge consolidation for NASA Aero RFI (introduced Apr 19)
+- Asana task/project management (weekly portfolio reviews)
 - Email for formal coordination and external partner communication
-- Gemini meeting notes (automated meeting summarization)
+- Slack internal messaging
 
-**Mailing Lists/Subscriptions:**
-- NASA SBIR/STTR alerts (arc-sbir-outreach@mail.nasa.gov, proposals@ alias)
+**Mailing Lists/Subscriptions (updated):**
+- NASA SBIR/STTR alerts
 - NSBA advocacy newsletter
 - NASA Earth Observatory updates
-- EPA regional alerts (government funding opportunities)
+- EPA regional alerts
 - Proposal management alerts (EG Proposal Management)
+- **FLARM Technology AG aerospace newsletter** (NEW) — industry intelligence
 
 ## Key Relationships
 
-**Closest Internal Collaborators:**
-1. **Jack Elston** — Strategic steering on Genesis, Arctic Demo, Mexico Deployment; cross-team coordination
-2. **Maciej Stachura** — Technical proposal development (Genesis); emerging partnership coordination (Arctic Demo)
-3. **Daniel
+**Closest Internal Collaborators (unchanged):**
+1. **Jack Elston** — Strategic steering
+2. **Maciej Stachura** — **SUSTAINED ACTIVE** (Genesis technical lead, direct BNL liaison Apr 19)
+3. **Daniel Prendergast** — Technical project management and partnership coordination
+4. Meredith Needham — Compliance/contracts support
+5. Nathaniel Straus — Task management
+
+**Critical External Relationships (strengthened Apr 19-20):**
+1. **Gijs de Boer (BNL)** — Real-time Genesis proposal collaboration, weekend engagement
+2. **Jennifer Schnarr (NASA AFRC)** — NASA Aero RFI response lead
+3. **Trenton McKibben (NextTech)** — Arctic Demo partnership coordinator
+4. USGS/Angie Diefenbach — Mexico Deployment government contact
+
+## Notable Observations
+
+**High-Signal Findings:**
+
+1. **Genesis Proposal Momentum Sustained:** Weekend asynchronous collaboration between Maciej/Beck and Gijs de Boer (Apr 19) indicates proposal remains in active, time-sensitive development. Likely submission deadline approaching imminently (possibly week of Apr 22-26).
+
+2. **NASA Aero RFI Knowledge Consolidation:** NotebookLM share request (Apr 19) suggests structured, technology-assisted RFI response development. This is a new workflow signal — may indicate team is using AI tools for draft generation or knowledge synthesis ahead of May 7 deadline.
+
+3. **Lightweight Weekend/Early Week Activity:** Only 6 messages across Apr 19-20 vs. 29 on Apr 17 suggests proposal work is heavily front-loaded (earlier in week), with weekends showing targeted coordination only on critical items (Genesis).
+
+4. **External Intelligence Gathering:** FLARM newsletter subscription indicates Beck monitors aerospace industry events/announcements — supports emerging Arctic Demo and partnership opportunities.
+
+5. **No New Critical Escalations Apr 19-20:** Unlike Apr 17 (multiple IMPORTANT flags), recent messages show routine notifications + critical proposal continuation. Suggests team may have reached coordination milestones or entered focused execution phase.
+
+---
+**⚠️ RECOMMEND FOLLOW-UP:** Clarify Genesis proposal submission deadline (suspected week of Apr 22); confirm NASA

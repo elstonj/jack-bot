@@ -1,8 +1,8 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned: 636 combined** (618 previous + 18 new)
-- **Date range covered: March 18 - April 18, 2026 (approximately 32 days)**
+- **Total messages scanned: 642 combined** (636 previous + 6 new)
+- **Date range covered: March 18 - April 20, 2026 (approximately 34 days)**
 - **Approximate daily volume: 20-25 emails per day**
 - High volume of automated vendor/shipping notifications (~90% of volume) mixed with critical strategic project communications
 
@@ -23,17 +23,17 @@
 - **Survival Systems USA** (sales@survivalsystemsinc.com) - Sea survival training vendor (Apr 16 - maritime operations context)
 - **Chloe (GetFPV)** (chloe@getfpv.com) - FPV drone platform vendor, direct contact (Apr 17 - marked IMPORTANT)
 
-### Vendor/Supplier Ecosystem (expanded April 18 data):
+### Vendor/Supplier Ecosystem:
 - **Electronics & Components**: DigiKey (order 98710410 Apr 17, PO acknowledgement received Apr 17), McMaster-Carr (April 15 order), STMicroelectronics, Pasternack
-- **Manufacturing & CNC**: Rapid Axis (Jared Probst), Craftcloud, SendCutSend (Order S834G264 Apr 17), JawsTec (Order #68200 received Apr 17)
+- **Manufacturing & CNC**: Rapid Axis (Jared Probst), Craftcloud, SendCutSend (Order S834G264 Apr 17, shipment notification Apr 19), JawsTec (Order #68200 received Apr 17)
 - **Propulsion/Motors**: KDE Direct (order KDE17071 Apr 15), APC Propellers (multiple orders Apr 13-15)
-- **Drones/FPV**: GetFPV (Bardwell DIY kits Apr 14; iFlight Nazgul Evoque F5 V3 promotional email Apr 17 - MARKED IMPORTANT), eBay (persistent Futaba 14SG searches, new listings Apr 17), CADDX FPV (Avatar GT2 Kit Apr 13), AMain Hobbies, Aloft Hobbies
+- **Drones/FPV**: GetFPV (Bardwell DIY kits Apr 14; iFlight Nazgul Evoque F5 V3 promotional email Apr 17 - MARKED IMPORTANT), eBay (persistent Futaba 14SG searches), CADDX FPV (Avatar GT2 Kit Apr 13), AMain Hobbies, Aloft Hobbies
 - **Batteries & Power**: 18650 Battery Store, High-Tech Battery Solutions, Hobbyking (battery lines Apr 16)
-- **Tools/General**: Harbor Freight (Spring Black Friday recurring, extended sale Apr 17), McMaster-Carr, Esprit Model, The Home Depot (feedback request Apr 17)
+- **Tools/General**: Harbor Freight (Spring Black Friday sale extended through Apr 19), McMaster-Carr, Esprit Model, The Home Depot (feedback request Apr 17)
 - **Instrumentation**: Kestrel Instruments (order Apr 14), Vaisala (RSS421 technical manual request Apr 13), Nielsen Kellerman
-- **Logistics/Travel**: Budget (car rentals), UPS (multiple package notifications Apr 17), USPS Informed Delivery (daily digest Apr 17), FedEx, U-Haul (logistics activity Apr 13-14)
-- **Subscriptions**: Driftaway Coffee (order #DR20323COF shipment notification Apr 17, feedback request Apr 17), Spindrift (beverage subscription Apr 17), Toggl Track (time tracking Apr 16-17), ELEGOO (Eco Flash Sale Apr 17)
-- **Infrastructure/Utilities**: Comcast Business (Account Manager contact information sent to Jack Elston and purchasing Apr 17 - NEW)
+- **Logistics/Travel**: Budget (car rentals), UPS (multiple package notifications Apr 17), USPS Informed Delivery (daily digest Apr 19), FedEx, U-Haul (logistics activity Apr 13-14)
+- **Subscriptions**: Driftaway Coffee (order #DR20323COF shipment notification Apr 17), Spindrift (beverage subscription - order SH62366729 confirmed Apr 20), Toggl Track (time tracking Apr 16-17), ELEGOO (Eco Flash Sale Apr 17)
+- **Infrastructure/Utilities**: Comcast Business (Account Manager contact information sent to Jack Elston and purchasing Apr 17)
 
 ## Topic Patterns
 
@@ -50,23 +50,25 @@
 - **Gimbal/Sensor systems** - Vantage Robotics Axiom Greenseer gimbal specs actively reviewed (Meredith Needham discussion with Armen Keuleyan Apr 13-14)
 - **Instrumentation** - Kestrel Instruments weather/environmental sensors (order placed Apr 14); Vaisala RSS421 technical documentation request (Apr 13)
 - **Drone platforms** - Continued FPV focus (Bardwell DIY kits, CADDX Avatar GT2, iFlight Nazgul Evoque F5 V3 — marked as IMPORTANT by GetFPV direct contact Apr 17)
-- **RC/Radio Control** - Futaba 14SG receiver/transmitter searches daily (eBay alerts continuing through Apr 17)
+- **RC/Radio Control** - Futaba 14SG receiver/transmitter searches ongoing
 - **Motors & Propellers** - KDE Direct motor order (Apr 15), APC Propellers orders (Apr 13-15)
-
-### Recurring Automated Notifications (April 17-18 pattern):
-- **Daily logistics**: USPS Informed Delivery (daily digest Apr 17), UPS package tracking (multiple alerts Apr 17), FedEx
-- **Vendor promotions**: Harbor Freight Spring Black Friday extended sale (Apr 17), eBay Futaba 14SG searches (Apr 17), ELEGOO Eco Flash Sale (Apr 17), The Home Depot feedback (Apr 17)
-- **Manufacturing orders**: SendCutSend tracking (Order S834G264 Apr 17), JawsTec order confirmation (Order #68200 Apr 17)
-- **Subscriptions**: Driftaway Coffee shipment + feedback (Apr 17), Toggl Track updates
 
 ## Communication Patterns
 
 ### Meeting Cadence:
 - **"Mexico Planning"** - Apr 13, 1:00-2:30pm MDT (Jack Elston organized, invitation updates at 2:09pm, 6:15pm, 7:08pm UTC showing real-time scheduling adjustments)
-- **"BST Internal Update Meeting"** - Weekly cadence continues (Gemini notes Apr 16)
+- **"BST Internal Update Meeting"** - Weekly cadence continues
 - **"Navy SBIR Option Period Kickoff"** - Scheduled April 21
-- **Project task management** - Daily Asana reminders (Mon-Fri): "tasks due soon" notifications at 11:01 UTC daily (Apr 17 example: 1 task due)
+- **Project task management** - Daily Asana reminders (Mon-Fri, continuing through Apr 20): "tasks due soon" notifications (Asana notifications Apr 20 at 04:12 UTC, Apr 19 at 20:08 UTC)
 
 ### Email Routing Patterns:
-- **purchasing@blackswifttech.com** - Primary inbox for vendor/logistics (majority of April 17-18 emails routed here)
-- **alex.lomis@blackswifttech.com** - Direct BST work communications, task management, strategic emails (GetFPV direct email Apr 17 to this
+- **purchasing@blackswifttech.com** - Primary inbox for vendor/logistics/automated notifications (all 6 new messages Apr 19-20 routed here)
+- **alex.lomis@blackswifttech.com** - Direct BST work communications, task management, strategic emails (Asana task notifications Apr 19-20 direct to personal email)
+
+### Recent Activity Pattern (Apr 19-20):
+- **Sunday activity** - High automated notification volume on Apr 19 (USPS digest, Harbor Freight promotional, SendCutSend shipment, Asana notifications) suggesting purchasing@blackswifttech.com is monitored over weekend
+- **Continued task tracking** - Asana notifications at 04:12 UTC Monday morning (Apr 20) indicates active project management oversight across weekend boundary
+
+## Key Relationships
+- **Closest internal collaborators** (by frequency): Jack Elston (strategic/direction), Maciej Stachura (technical coordination), Joshua Fromm (sourcing/execution), Daniel Prendergast (technical projects)
+- **Critical external vendors**: Vantage Robotics (Armen

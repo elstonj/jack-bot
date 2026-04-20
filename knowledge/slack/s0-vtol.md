@@ -30,6 +30,10 @@ Time range: Early development through April 2026 (ongoing project)
 - Sam switched from MSI to HSI clock source to fix heat sensitivity lockup issues
 - RTK heat sensitivity fixed with circuit updates (L: 27uH, R: 10 Ohm, C: 47pF)
 
+**Flight Testing Strategy (April 2026):**
+- Motor RPM measurement approach: Prioritize scheme supporting long-term feed-forward control on motor RPM difference with smaller feedback gains on yaw rate controller rather than simple independent sensor logging (April 19, 2026)
+- Failure risk mitigation: Team must choose between high-confidence ground testing, trusted parachute system, or pre-flight failure detection capability before resuming flights (April 19, 2026)
+
 ## Projects & Initiatives
 
 **S0-VTOL Development (Spin-Up Phase - April 2026):**
@@ -38,6 +42,7 @@ Time range: Early development through April 2026 (ongoing project)
 - Major concern: Recent consecutive transition flight failures cannot be replicated on ground
 - Ground testing strategy: Moving toward test methodologies similar to S3 program with independent sensor logging
 - S0 VTOL Test Plan created with primary steps and substasks for systematic testing approach (April 17, 2026)
+- Motor RPM tracking: Evaluating optimal measurement approach considering feed-forward control implementation for one-motor-out scenarios (April 19, 2026)
 
 **ADONIS Project:**
 - Contract deliverable: Flight testing required by March 24
@@ -69,7 +74,8 @@ Time range: Early development through April 2026 (ongoing project)
 - Evaluate 2m wingspan upgrade option from TJIRC
 - Lead ground testing discussion to address replicability gap with flight failures
 - Design independent sensor logging system: RPM sensors and potentiometers to log motor outputs separately from autopilot commands (April 17, 2026)
-- Create and maintain S0 VTOL Test Plan with primary steps and substasks (April 17, 2026)
+- Create and maintain S0 VTOL Test Plan with primary steps and substasks (April 17, 2026) - plan approved by Maciej
+- Consider long-term implications: Evaluate RPM measurement approaches in context of future feed-forward control implementation for one-motor-out scenarios (April 19, 2026)
 
 **Maciej:**
 - Complete GPS hover testing before transition flights
@@ -77,6 +83,8 @@ Time range: Early development through April 2026 (ongoing project)
 - Develop storage charge calculation spreadsheet
 - Coordinate S0-VTOL ground testing plan in conjunction with spin-up (April 17, 2026)
 - Ensure parameter backup and prop-off testing before controlled flight testing (April 17, 2026)
+- Advise on motor RPM measurement strategy to support eventual feed-forward control on motor RPM difference with appropriate feedback gains (April 19, 2026)
+- Work with team to determine optimal failure mitigation approach: either achieve high-confidence ground testing, develop trusted parachute system, or implement pre-flight failure detection (April 19, 2026)
 
 ## Client & External References
 
@@ -111,6 +119,7 @@ Time range: Early development through April 2026 (ongoing project)
 - Voltage initialization bugs affecting battery state estimation
 - Static pressure sensor failures causing landing issues
 - Motor thrust offset problems with BLHeli_S ESCs
+- Uncertainty over viability of high integral gain motor control in one-motor-out scenarios (April 19, 2026)
 
 **Hardware Reliability:**
 - Parameter storage corruption issues requiring interrupt suspension fixes
@@ -124,6 +133,12 @@ Time range: Early development through April 2026 (ongoing project)
 - Desire to log ESC outputs independently of autopilot commands over extended test periods
 - Integration of multiple sensor inputs for comprehensive ground validation
 - Structured test plan approach to systematically validate S0 VTOL before flight testing resumption
+- Motor RPM measurement as foundational design choice affecting long-term control architecture (April 19, 2026)
+
+**Risk Management & Flight Safety (April 2026):**
+- Recognition that ground testing alone may be insufficient to prevent in-flight failures
+- Need for systematic approach to failure mitigation: high-confidence ground testing, parachute recovery, or failure detection before flight
+- Importance of not resuming flights without confidence in failure prevention or mitigation strategy
 
 ## Important Resources
 
@@ -132,31 +147,4 @@ Time range: Early development through April 2026 (ongoing project)
 - Sprint speed: 85 knots
 - Max altitude: 18,000 ft operational, 12,000 ft launch/land
 - Max wind: 15 m/s for takeoff/landing
-- Endurance: ~55-60 minutes estimated, potentially 90 minutes with wing upgrade
-
-**Component Part Numbers:**
-- Power connector: 21004515-06 with waterproof cap 806-00028-00
-- Button: 1241.1102.7098 (IP65 rated)
-- Light pipe: 51513010250F
-- LED: 732-5662-1-ND
-
-**Performance Data:**
-- Hover power: 56A current draw (781W power consumption)
-- Forward flight efficiency: 127W at 18 m/s (actual ~20.5 m/s)
-- Aircraft weight: 2550g AUW (170g reduction from previous version)
-
-**Testing Equipment (Planned/In Development):**
-- Teensy microcontroller for independent sensor data logging
-- RPM sensors and potentiometers for motor output verification
-- Laptop-based integrated testing interface connecting independent sensors to autopilot data
-- S0 VTOL Test Plan document with structured test steps and substasks
-
-## Recent Activity
-
-**Ground Testing Re-focus & Test Plan Formalization (April 17, 2026):**
-- Alex Lomis created formal S0 VTOL Test Plan section including primary steps and additional substasks for systematic validation
-- Team resuming S0-VTOL work after hiatus with structured testing approach
-- Key issue identified: Cannot replicate in-ground testing the failure modes seen in last two consecutive transition flights
-- Recognition that problem may not be simple "need more hours" but actual gap between ground and flight behavior
-- Decision to enhance ground testing methodology before proceeding with more flight tests
-- Proposal: Set up independent RPM logging during ESC/motor sinusoidal tests to verify motor outputs match
+-
