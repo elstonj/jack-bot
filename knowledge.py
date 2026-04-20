@@ -162,6 +162,79 @@ def get_knowledge_summary(slack_client):
     return "\n\n".join(sections)
 
 
+STATUS_OVERRIDE_PROMPT = (
+    "You extract structured project/task status deltas from team corrections and feedback "
+    "posted in a Slack knowledge channel. Each entry is tagged [CORRECTION] or [FEEDBACK] and "
+    "may contain natural-language updates like 'Mexico is moved to the Fall', 'ADONIS is done, "
+    "UMEX is handling the final report', 'the Navy kickoff is tomorrow, not today'.\n\n"
+    "Your output will be pinned at the top of the daily briefing prompt as authoritative overrides "
+    "that WIN over stale Asana tasks and distilled knowledge files. So precision matters.\n\n"
+    "RULES:\n"
+    "- Only extract durable status changes that affect prioritization: delays, completions, "
+    "cancellations, reassignments, 'handled externally', date shifts.\n"
+    "- Ignore casual chat, jokes, reactions, meta-comments about the bot itself.\n"
+    "- If two entries contradict, trust the most recent one.\n"
+    "- Quote the author and date ('per Maciej, Apr 17') so the reader can trust the source.\n"
+    "- Identify the specific project or task by the name actually used in Asana when possible.\n"
+    "- Output ONLY a bulleted markdown list. One line per override. No preamble, no headers.\n"
+    "- If there are no meaningful overrides, output exactly: NONE\n\n"
+    "Example good output:\n"
+    "- Mexico USGS deployment (350-4): DELAYED to Fall 2026 — not departing April 20 (per Maciej, "
+    "Apr 17; reconfirmed by Jack, Apr 20)\n"
+    "- ADONIS (035-1): COMPLETE — UMEX is handling the final report, not BST. Project archived "
+    "and final invoice sent (per Meredith & Alex, Apr 17)\n"
+    "- Joshua Fromm priority: S3 delivery to UMES before end of May is now priority #1 "
+    "(per Jack, Apr 20)"
+)
+
+
+def get_status_overrides(slack_client, days=30):
+    """Extract structured project-status overrides from recent CORRECTION/FEEDBACK.
+
+    Runs the last `days` of knowledge-channel corrections through Haiku to distill
+    them into a short, authoritative list of status deltas that the daily synthesis
+    prompt can pin at the top. Returns an empty string if nothing meaningful.
+    """
+    entries = get_knowledge(slack_client, ["CORRECTION", "FEEDBACK"], days=days)
+    if not entries:
+        return ""
+
+    # Build the source text with timestamps so Haiku can cite dates and resolve conflicts
+    import datetime as _dt
+    lines = []
+    for entry in entries:
+        ts = entry.get("ts", "")
+        try:
+            when = _dt.datetime.fromtimestamp(float(ts)).strftime("%Y-%m-%d") if ts else ""
+        except Exception:
+            when = ""
+        prefix = f"[{entry['type']}]"
+        if when:
+            prefix += f" [{when}]"
+        lines.append(f"{prefix} {entry['content'][:600]}")
+    source = "\n".join(lines)
+
+    # Cap to ~60k chars to stay comfortably under Haiku context
+    if len(source) > 60000:
+        source = source[-60000:]
+
+    try:
+        client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+        message = client.messages.create(
+            model="claude-haiku-4-5-20251001",
+            max_tokens=1200,
+            system=STATUS_OVERRIDE_PROMPT,
+            messages=[{"role": "user", "content": source}],
+        )
+        result = message.content[0].text.strip()
+    except Exception as e:
+        return f"[Status override extraction failed: {e}]"
+
+    if not result or result == "NONE":
+        return ""
+    return result
+
+
 def auto_extract_knowledge(slack_client, context_text):
     """Use Claude to extract durable knowledge from daily data.
 

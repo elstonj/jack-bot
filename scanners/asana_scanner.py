@@ -184,11 +184,135 @@ What's been happening lately — recently completed tasks, approaching deadlines
 Any important context from task notes, custom fields, or patterns.
 
 Be factual. Include dollar amounts, dates, and names. Skip empty sections. \
-If the project is clearly archived or inactive, note that prominently."""
+If the project is clearly archived or inactive, note that prominently.
+
+TEAM CORRECTIONS ARE AUTHORITATIVE:
+If the raw data includes a `TEAM CORRECTIONS & FEEDBACK` block, those messages from \
+team members OVERRIDE the Asana task list. Asana often has stale due dates or tasks \
+that were not closed out after a real-world change. If a correction says a project is \
+delayed, complete, cancelled, or handled externally, reflect that in the Status line \
+and Recent Activity — do not describe stale Asana dates as current truth. Quote the \
+correction author and date when you override Asana data."""
 
 
-def scan_project(project, mode="full", modified_since=None):
+def _fetch_recent_corrections(days=30):
+    """Pull recent CORRECTION/FEEDBACK entries from the Slack knowledge channel.
+
+    Returns a list of dicts: [{"author": str, "content": str, "date": str, "type": str}].
+    Returns [] if no Slack token or channel configured.
+    """
+    channel = os.environ.get("KNOWLEDGE_CHANNEL", "")
+    token = os.environ.get("SLACK_BOT_TOKEN", "")
+    if not channel or not token:
+        return []
+
+    try:
+        from slack_sdk import WebClient
+    except Exception:
+        return []
+
+    try:
+        client = WebClient(token=token)
+        oldest = str(time.time() - (days * 86400))
+        entries = []
+        cursor = None
+        while True:
+            kwargs = {"channel": channel, "limit": 200, "oldest": oldest}
+            if cursor:
+                kwargs["cursor"] = cursor
+            result = client.conversations_history(**kwargs)
+            for msg in result.get("messages", []):
+                text = msg.get("text", "")
+                for tag in ("CORRECTION", "FEEDBACK"):
+                    if text.startswith(f"*[{tag}]*"):
+                        body = text.replace(f"*[{tag}]*\n", "", 1)
+                        ts = msg.get("ts", "")
+                        try:
+                            msg_date = datetime.fromtimestamp(float(ts)).strftime("%Y-%m-%d")
+                        except Exception:
+                            msg_date = ""
+                        entries.append({
+                            "type": tag,
+                            "content": body,
+                            "date": msg_date,
+                        })
+                        break
+            cursor = result.get("response_metadata", {}).get("next_cursor")
+            if not cursor:
+                break
+        return entries
+    except Exception as e:
+        print(f"  [WARN] Could not fetch corrections from Slack: {e}")
+        return []
+
+
+def _project_keywords(project_name):
+    """Extract searchable keywords from a project name.
+
+    Returns lowercase tokens: project code (e.g., '350-4', '350_4'), and
+    significant name tokens (>=4 chars, non-generic).
+    """
+    name = project_name.lower()
+    keywords = set()
+
+    code_match = re.search(r"\[?(\d{3}[-_]\d+)\]?", name)
+    if code_match:
+        code = code_match.group(1)
+        keywords.add(code)
+        keywords.add(code.replace("-", "_"))
+        keywords.add(code.replace("_", "-"))
+
+    stopwords = {
+        "the", "and", "for", "with", "from", "project", "irad", "phase",
+        "view", "fleet", "maintenance", "general", "operations", "support",
+        "pipeline", "pipeline.", "part", "new", "old",
+    }
+    cleaned = re.sub(r"[\[\]\(\)\-_,]", " ", name)
+    for token in cleaned.split():
+        token = token.strip(".")
+        if len(token) >= 4 and token not in stopwords and not token.isdigit():
+            keywords.add(token)
+
+    return keywords
+
+
+def _corrections_for_project(project_name, all_corrections):
+    """Return corrections whose text mentions this project by code or name tokens."""
+    keywords = _project_keywords(project_name)
+    if not keywords:
+        return []
+    matched = []
+    for entry in all_corrections:
+        content_lower = entry["content"].lower()
+        if any(kw in content_lower for kw in keywords):
+            matched.append(entry)
+    return matched
+
+
+def _format_corrections_block(corrections):
+    """Format matched corrections as a prepended block for the distillation prompt."""
+    if not corrections:
+        return ""
+    lines = [
+        "",
+        "=== TEAM CORRECTIONS & FEEDBACK (authoritative — override Asana if conflicting) ===",
+    ]
+    for entry in corrections:
+        date_str = f" [{entry['date']}]" if entry.get("date") else ""
+        lines.append(f"[{entry['type']}]{date_str} {entry['content'][:500]}")
+    lines.append("=== END CORRECTIONS ===")
+    return "\n".join(lines)
+
+
+def scan_project(project, mode="full", modified_since=None, corrections=None):
     """Scan a single Asana project and distill into a knowledge file.
+
+    Args:
+        project: Asana project dict
+        mode: scan mode
+        modified_since: ISO date for incremental filter
+        corrections: list of recent CORRECTION/FEEDBACK entries already keyword-
+            filtered to this project. Injected into the distillation raw text.
 
     Returns (project_name, task_count, output_path) or None on skip.
     """
@@ -228,13 +352,27 @@ def scan_project(project, mode="full", modified_since=None):
         return None
 
     # In incremental mode, skip re-distillation if no tasks were modified
-    # and a knowledge file already exists
-    if modified_since and not tasks:
+    # AND there are no team corrections that would alter the distillation.
+    # Corrections can override stale Asana state (e.g., "delayed to fall"),
+    # so they must force a re-distill even when Asana itself is unchanged.
+    if modified_since and not tasks and not corrections:
         filename = _safe_filename(project_name) + ".md"
         existing_path = PROJECTS_DIR / filename
         if existing_path.exists():
             print(f"  [SKIP] {project_name}: no changes since last scan")
             return None
+
+    # If we have corrections but no task changes, refetch tasks so the
+    # distillation has real content to work with rather than an empty list.
+    if modified_since and not tasks and corrections:
+        try:
+            tasks = _get_all_tasks_for_project(
+                project_gid,
+                include_completed=False,
+                modified_since=None,
+            )
+        except Exception:
+            pass
 
     # Fetch subtasks for milestones (they often have dollar amounts)
     milestones = [t for t in tasks if t.get("resource_subtype") == "milestone"]
@@ -289,6 +427,12 @@ def scan_project(project, mode="full", modified_since=None):
         if len(done_tasks) > 50:
             lines.append(f"  ... and {len(done_tasks) - 50} more completed tasks")
 
+    # Prepend team corrections so the distillation treats them as authoritative
+    # over any stale Asana state (past-due dates, unclosed tasks, etc.)
+    corrections_block = _format_corrections_block(corrections or [])
+    if corrections_block:
+        lines.insert(0, corrections_block)
+
     raw_text = "\n".join(lines)
 
     # Distill into knowledge file
@@ -341,6 +485,11 @@ def scan_all(mode="full", progress_callback=None):
             print("No previous scan found — falling back to full scan")
             mode = "full"
 
+    # Pull recent team corrections once, then filter per-project by keyword
+    all_corrections = _fetch_recent_corrections(days=30)
+    if all_corrections:
+        print(f"Loaded {len(all_corrections)} recent correction/feedback entries for distillation")
+
     results = []
     for i, project in enumerate(projects):
         if progress_callback:
@@ -348,7 +497,13 @@ def scan_all(mode="full", progress_callback=None):
         else:
             print(f"[{i+1}/{len(projects)}] {project['name']}")
 
-        result = scan_project(project, mode=mode, modified_since=modified_since)
+        project_corrections = _corrections_for_project(project["name"], all_corrections)
+        result = scan_project(
+            project,
+            mode=mode,
+            modified_since=modified_since,
+            corrections=project_corrections,
+        )
         if result:
             results.append(result)
         # Pace API calls (both Asana and Claude)
