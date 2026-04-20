@@ -359,3 +359,10 @@ def get_user_by_email(email):
         if user["email"] == email.lower():
             return user
     return None
+
+
+def get_user_by_toggl_id(toggl_user_id):
+    for user in _user_map:
+        if user["toggl_user_id"] == toggl_user_id:
+            return user
+    return None
