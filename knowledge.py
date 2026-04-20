@@ -97,12 +97,36 @@ def get_knowledge(slack_client, entry_types=None, days=None):
     entries = []
     cursor = None
 
+    def _history_with_retry(kwargs, max_attempts=5):
+        """Call conversations_history with rate-limit retry.
+
+        The daily pipeline fires several concurrent reads of this channel,
+        which hits Slack's per-method rate limit. Without retry, the loop
+        returned 0 entries mid-pagination and silently dropped the rest —
+        which is why status overrides came back empty despite corrections
+        being present. Retry on 429 using the Retry-After header.
+        """
+        from slack_sdk.errors import SlackApiError
+        for attempt in range(max_attempts):
+            try:
+                return slack_client.conversations_history(**kwargs)
+            except SlackApiError as e:
+                status = getattr(getattr(e, "response", None), "status_code", None)
+                if status == 429:
+                    retry_after = int(e.response.headers.get("Retry-After", 2))
+                    time.sleep(min(retry_after, 15))
+                    continue
+                raise
+        return None
+
     while True:
         try:
             kwargs = {"channel": channel, "limit": 200, "oldest": oldest}
             if cursor:
                 kwargs["cursor"] = cursor
-            result = slack_client.conversations_history(**kwargs)
+            result = _history_with_retry(kwargs)
+            if result is None:
+                break
             for msg in result.get("messages", []):
                 text = msg.get("text", "")
                 for tag in ["PRIORITY", "PROJECT", "CLIENT", "DELIVERABLE",
