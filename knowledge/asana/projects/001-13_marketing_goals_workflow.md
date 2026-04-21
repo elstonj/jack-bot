@@ -4,7 +4,7 @@
 - **Client/customer:** Internal BST marketing and business development
 - **Dollar value:** $200K ARR increase target (self-serve team goal)
 - **Timeline:** May 2024 – April 2025; tasks span 2024-05-24 to 2025-03-29, with final completion 2025-04-10
-- **Status:** **ARCHIVED** — All 9 tasks completed (100% completion)
+- **Status:** **ARCHIVED** — All 9 tasks completed (100% completion). Project cycle concluded April 2025.
 - **Team members involved:** Paige Smith, Jack Elston, multiple unassigned contributors
 - **Risk signals:** None — project fully completed
 
@@ -38,6 +38,7 @@
 - **Final task completed:** April 10, 2025 ("How do we get to #1 for drone?")
 - **Strategic planning phase:** Marketing Budget and Marketing Strategy finalized by Paige Smith on 2025-02-21
 - **Visibility push completed:** Multiple initiatives (media kit, conference submissions, website updates) finished by late October 2024
+- **Project archived:** April 2025 (end of fiscal marketing cycle)
 
 ## Notes & Context
 
@@ -62,4 +63,7 @@ Goal management workflow template used to brainstorm, draft, and approve BST's m
 - Content refresh needed on soil moisture whitepaper for business development efforts
 - Work references internal Asana project (1207199631174002) for S0 documentation
 
-The project successfully established BST's marketing framework, digital infrastructure, and strategic positioning within the geoscience and UAS communities through 2025.
+---
+
+## Archive Note
+This project successfully established BST's marketing framework, digital infrastructure, and strategic positioning within the geoscience and UAS communities through 2025. It is no longer active. New marketing goals are tracked in subsequent project cycles.

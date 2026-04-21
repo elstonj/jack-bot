@@ -3,7 +3,7 @@
 ## Overview
 - **Client/customer:** U.S. Air Force (DoD SBIR Phase II)
 - **Dollar value:** $1,249,725 total funding to Black Swift Technologies
-- **Timeline:** Late 2024 – July 2025 (due date 2025-07-11)
+- **Timeline:** Late 2024 – July 2025 (contract due date 2025-07-11)
 - **Status:** ARCHIVED – Successfully completed
 - **Team members involved:** Dan Prendergast (technical lead), Maciej Stachura, Meredith O'hara Needham, Nate Straus, Beck Cotter, Jack Elston
 - **Key contacts:** Jason Foley (Primary TPOC, jason.foley.1@us.af.mil), Thomas Shea (CO, thomas.shea.3@us.af.mil)
@@ -55,3 +55,8 @@ Development and validation of a UAS-based L-band radiometer for mapping soil int
 - **OMS collaboration:** Subcontractor handled radiometer hardware ($605,000); BST managed integration, testing, and algorithm development
 - **Deliverable #5 note:** Submitted Dec 11, 2024 for $100,000; invoicing and approval process tracked through Mar 2025
 - **Compliance:** All SBIR/STTR lifecycle certifications completed; team medical certifications obtained for flight operations
+
+---
+
+## Related Activity (April 2026)
+**Per Meredith Needham (2026-04-17):** Navy STTR submitted alongside invoice. New SBIR Magnetometer project has kick-off and FWA Certification due 2026-04-14. Asana due dates being reviewed for accuracy. Slide deck and report templates available in Award Deliverable Templates per Navy SBIR guidance at [navysbir.com/links_forms.htm](https://navysbir.com/links_forms.htm).

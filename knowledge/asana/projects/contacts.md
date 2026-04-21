@@ -9,7 +9,7 @@
 - **Risk signals**: None identified
 
 ## Key Deliverables & Milestones
-This is a contact database, not a project with deliverables. Contains 89 contacts across:
+This is a contact database, not a project with deliverables. Contains 90 contacts across:
 - **Government agencies**: NASA (Ames, Goddard, Langley, JPL), NOAA, USDA, Army, Navy (NAVAIR/NAWCAD), USAF, USGS
 - **Universities**: Stanford, UC Boulder, UC Santa Cruz, Oklahoma State, Notre Dame, Embry-Riddle, Murray State, University of Maryland Eastern Shore, University of Miami, Old Dominion, University of Washington
 - **Commercial companies**: 
@@ -19,9 +19,10 @@ This is a contact database, not a project with deliverables. Contains 89 contact
   - Business development consultants
   - Weather/climate services
   - Aerospace/aviation specialists
+  - Communications/ISP providers
 
 ## Task Summary
-- **Total tasks**: 89 open, 0 completed
+- **Total tasks**: 90 open, 0 completed
 - **Tasks by assignee**: All unassigned (contact records only)
 - **Data structure**: Each "task" represents a contact with structured custom fields:
   - Company/Agency/Name
@@ -35,6 +36,7 @@ This is a contact database, not a project with deliverables. Contains 89 contact
 
 ## Recent Activity
 - Status update from April 21 shows project is active
+- **New contact added**: Comcast (Cobb Vaughan, Account Manager) — office: 720-924-3070, cell: 720-670-7191
 - Notable upcoming activities & milestones:
   - **May 5, 2025**: Invoice 1666 submitted for S2 parts (Prof. Fu Kuo Chang, Stanford)
   - **July 2025**: Tim Handley (UC Santa Cruz) planning visit to Boulder
@@ -59,6 +61,7 @@ This is a contact database, not a project with deliverables. Contains 89 contact
 - **Russ Evans** (USAF/AFMC) — Electrical Engineer (PCI Aviation), S0 product
 - **Ryan Rickert** (USAF 53rd Weather Reconnaissance Squadron) — Chief Meteorologist, S0 product
 - **Elizabeth Sanabia** (University of Washington Applied Physics Lab) — Senior Principal Oceanographer, retired US Navy Captain
+- **Cobb Vaughan** (Comcast) — Account Manager, office: 720-924-3070, cell: 720-670-7191
 
 ### High-Priority Contacts
 - **Sabu Best** (Barbados Meteorological Services)
@@ -77,6 +80,8 @@ This is a contact database, not a project with deliverables. Contains 89 contact
 - **Design/prototyping**: Anthony Brescia (NAVAIR), Angel Ruiz-Reyes (NAVAIR)
 
 ### Service Providers & Key Vendors
+- **Communications/ISP**: 
+  - Comcast (Cobb Vaughan, Account Manager) — 720-924-3070
 - **Freight/Shipping**: 
   - Aeronet Worldwide (new primary shipper, replacing FreightPros) — Patrick Mulstay contact
   - WorldWide Express/WWEX (UPS authorized reseller as of 2025) — Kelsie Pierson account manager
@@ -112,7 +117,4 @@ This is a contact database, not a project with deliverables. Contains 89 contact
   - DSKinetic LLC (Spencer Lisenby, subcontractor pilot)
 - **Aerospace Association**: Boulder Aeromodeling Society (Nate and Jack are 2025 members)
 - **Landlord**: W. W. Reynolds Companies (Wilderness Pl location) — Amy Smith
-- **BST Internal Contractors**: 
-  - Kay Rufty (NASA AREN)
-  - Ted Miles (NASA AREN)
-  - Scott Tibbitts (Biz Dev)
+-

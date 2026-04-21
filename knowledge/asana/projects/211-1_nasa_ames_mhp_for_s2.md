@@ -6,7 +6,7 @@
 - **Timeline**: October 2024 – March 2025 (original due date: January 31, 2025)
 - **Status**: ARCHIVED (completed March 27, 2025)
 - **Team members**: Josh Fromm, Nate Straus, Jack Elston, Meredith O'hara Needham
-- **Risk signals**: None - project completed successfully with all 15 tasks finished
+- **Risk signals**: None - project completed successfully with all deliverables delivered
 
 ## Key Deliverables & Milestones
 - MHP (Meteorological Hazard Platform) hardware assembly and installation
@@ -27,6 +27,7 @@
 
 ## Recent Activity
 Project completed in March 2025 with all deliverables on or ahead of schedule:
+- **January 22, 2025**: Launcher delivered to CU partner (Kevin); awaiting return coordination
 - **March 19, 2025**: MHP installation confirmed, avionics reinstalled, SIM card testing completed, iridium firmware updated, aircraft preflight performed, technical write-up delivered
 - **March 20-21, 2025**: Aircraft packed for shipment
 - **March 27, 2025**: Aircraft shipped via FedEx to NASA Ames
@@ -37,3 +38,4 @@ Project completed in March 2025 with all deliverables on or ahead of schedule:
 - **Subcontractor**: N/A ($0 subcontract amount)
 - **Customer type**: Commercial
 - **Products/Services**: MHP product/service delivery
+- **NASA RFI**: Alex Lomis (2026-04-17, 2026-04-20) recommended reviewing a NASA RFI link on a hurricane engineering & technology call involving NASA contacts and Joe: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view (context: may indicate future opportunity or follow-on work with NASA)
