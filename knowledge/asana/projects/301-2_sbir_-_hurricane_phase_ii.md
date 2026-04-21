@@ -4,9 +4,9 @@
 - **Client/customer**: University of Miami (NOAA)
 - **Dollar value**: $344,000 total funding to BST
 - **Timeline**: Project completed and archived as of January 3, 2024
-- **Status**: ARCHIVED - Project successfully completed with all 425 tasks finished (100% completion rate)
+- **Status**: ARCHIVED — Project successfully completed with all 425 tasks finished (100% completion rate)
 - **Team members involved**: Jack Elston (Owner), Josh Fromm, Dan Prendergast, Maciej Stachura, Ben Busby, Meredith O'hara Needham, Nate Straus
-- **Risk signals**: None - project completed successfully
+- **Risk signals**: None — project completed successfully
 
 **Key Contacts:**
 - **GPC (Government Point of Contact)**: Dr. Joseph Cione, NOAA/AOML/HRD Miami, FL — joe.cione@noaa.gov, Joseph.J.Cione@OSTP.eop.gov
@@ -73,3 +73,7 @@ Final project phase (Aug-Oct 2024) focused on hurricane field operations and sys
 **Contractual Notes**: GPC (Dr. Cione) and UPC (Dr. Jun Zhang) serve as Subject Matter Experts for non-contractual technical questions. Any technical disagreements or contractual changes must be directed to the Contracting Officer (CO).
 
 **Field Deployment**: Successfully conducted hurricane field studies in partnership with NOAA Hurricane Research Division (HRD) and National Hurricane Center (NHC), with units staged at NOAA Atlantic Oceanographic and Meteorological Laboratory (AOML) in Miami.
+
+**Related Government Initiatives** (April 2026 context):
+- Team monitoring NASA RFI opportunities related to hurricane ET (Environmental Tracking) — see: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view (flagged by Alex Lomis, 4/20/26)
+- Other BST contracts in active phase: Navy STTR (submitted with invoice) and SBIR Magnetometer (kick-off and FWA Certification due April 14, 2026)

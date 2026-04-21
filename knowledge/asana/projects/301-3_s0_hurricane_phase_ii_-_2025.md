@@ -13,10 +13,10 @@
 - **Team members:** Josh Fromm (owner), Jack Elston, Maciej Stachura, Dan Prendergast, Ben Busby, Ethan Domagala, Alex Lomis, Nate Straus, Meredith O'Hara Needham
 - **Priority level:** Low
 - **Risk signals:** 
-  - **Web-based controller assigned to Ben Busby but now showing as unassigned in task system** (Due July 31, 2026) — requires status clarification
+  - **Web-based controller (due July 31, 2026) assigned to Ben Busby** — requires status clarification on progress (~4 months to delivery)
   - **13 unassigned milestone tasks with no due dates** (Prototyping, Construction, Design, Software/Firmware/Electronics, Data Processing, QC, Administrative, Meetings, Travel)
   - IAS (Indicated Airspeed) failures increasingly frequent, causing lost wind measurements and aircraft loss
-  - Additional 13 S0 systems delivery (July 1, 2026) unassigned with no progress tracking
+  - **Additional 13 S0 systems delivery (July 1, 2026) unassigned with no progress tracking**
 
 ## Key Deliverables & Milestones
 
@@ -41,20 +41,21 @@
 - MultiUAS [Optional]
 
 ## Task Summary
-- **Total tasks:** 227 (1 open, 226 completed) — **99.6% completion rate**
+- **Total tasks:** 1 open, 226 completed — **99.6% completion rate**
 - **Open task (Due July 31, 2026):**
-  - **Web-based controller** — Assigned to Ben Busby (note: prior data showed unassigned; Ben Busby now assigned)
+  - **Web-based controller** — Ben Busby (assigned, progress status unclear)
 - **Recent completions (April 2026):**
   - Local testing to verify fixes and updates (Mar 20 due, Apr 16 completed) — Maciej Stachura
   - Clear Air Testing (May 1 due, Apr 16 completed) — Maciej Stachura
   - QC Flight for new E2 (Mar 18 due, Apr 9 completed) — Ethan Domagala
 - **Key assignees and recent activity:**
-  - **Ben Busby:** IAS LED/telemetry fixes; now assigned to Web-based controller (due July 31)
+  - **Ben Busby:** IAS LED/telemetry fixes; assigned to Web-based controller (due July 31)
   - **Maciej Stachura:** Recent testing completions (local verification, clear air testing)
   - **Ethan Domagala:** QC flights
-  - **Jack Elston:** Multi-UAS testing, P3 configuration, IDIQ contract negotiations with NOAA (25-30 UAS for FY25)
+  - **Jack Elston:** Multi-UAS testing, P3 configuration, **actively negotiating IDIQ contract with NOAA for 25-30 UAS builds (FY25)**
   - **Josh Fromm:** Project owner, battery drain fixes
   - **Dan Prendergast:** Simulation testing, UI improvements
+  - **Alex Lomis:** Strategic partner engagement
 - **Notable patterns:** 
   - Extremely high completion rate (99.6%) reflects strong execution on testing and manufacturing
   - Only 1 task open with ~4 months until deadline (low immediate risk if on track)
@@ -67,6 +68,9 @@
 - Local testing to verify fixes and updates (Mar 20 due date, completed Apr 16) — Maciej Stachura
 - QC Flight for new E2 (Mar 18 due date, completed Apr 9) — Ethan Domagala
 
+**Strategic Activity (April 2026):**
+- **Alex Lomis (Apr 17 & Apr 20, 2026):** Shared NASA RFI link recommended by NASA and Joe Cione during hurricane ET call — indicates potential expansion of government partnerships beyond NOAA
+
 **Open & Approaching:**
 - Web-based controller (due July 31, 2026) — Ben Busby (assigned, mid-stage)
 
@@ -74,9 +78,12 @@
 
 ### Funding & Contract Status
 - **Extended contract:** Now runs through August 25, 2026 with 6-month extension
-- NOAA has **$115K + $54K earmarked** for extension/early part ordering for 3 UAS builds
+- NOAA has **$115K + $54K earmarked** for extension/early part ordering for 3 UAS builds or parts
 - First optional funding invoice ($121,650) submitted October 2025 for: 4 S0s, Hurricane Erin/Gabriella/Imelda deployment trips, support and Clear Air testing
-- **Jack Elston actively negotiating IDIQ contract with NOAA for 25-30 UAS builds (FY25)** — represents significant follow-on opportunity
+- **Jack Elston actively negotiating IDIQ contract with NOAA for 25-30 UAS builds (FY25)** — represents significant follow-on opportunity beyond current Phase II contract
+
+### Strategic Partnerships
+- **NASA engagement:** Alex Lomis shared NASA RFI (Apr 17 & 20, 2026) recommended by NASA and Joe Cione — suggests potential expansion of S0 platform beyond current NOAA hurricane program
 
 ### Technical Focus
 - **IAS failures remain primary concern:** Recurring during flights, causing wind measurement loss and aircraft loss — increasingly frequent on 2025-10-26 flights
@@ -85,7 +92,7 @@
 - Clear Air testing completed as of April 16, 2026
 
 ### Critical Issues
-1. **One active software/training deliverable assigned (Web-based controller to Ben Busby, due July 31)** with ~4 months lead time — status tracking needed to ensure on-schedule completion
+1. **One active software/training deliverable assigned (Web-based controller to Ben Busby, due July 31, 2026)** with ~4 months lead time — status tracking needed to ensure on-schedule completion
 
 2. **13 unassigned milestone tasks with no due dates create delivery risk** for July 1 (13 S0 systems) and Aug 25 (training CLINs) deadlines: Prototyping, Construction, Design, Software/Firmware/Electronics, Data Processing, QC, Administrative, Meetings, Travel — essential work categories lack ownership and timeline clarity
 

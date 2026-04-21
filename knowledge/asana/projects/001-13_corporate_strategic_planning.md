@@ -100,3 +100,4 @@
 - **Proposal Cadence**: Regular SBIR submission cycle with strong organizational support (LOIs, MOUs, support letters tracked systematically)
 - **Strategic Maturity**: Well-defined core values, structured marketing goals, and clear customer segmentation indicate developed business strategy
 - **Operational Transition**: Ongoing shift from spreadsheet-based financial management to integrated QuickBooks reporting (Aug 2024 update indicates this was in progress)
+- **Project Portfolio Note** (Apr 2026): Mexico USGS volcano deployment (350-4) **DELAYED to Fall 2026** per Jack (Apr 20, 2026). Any Asana tasks referencing April 2026 departure are stale; no flight planning or mission prep imminent. Navy project tasks completed; meeting reminder requested for scheduled date.

@@ -5,7 +5,7 @@
 - **Contract:** SBIR Phase III, Contract No. 80NSSC25CA043
 - **Dollar Value:** $74,428.00 (Fixed Price)
 - **Timeline:** January 2025 – September 2025 (9 months)
-- **Status:** ARCHIVED (contract completed)
+- **Status:** ARCHIVED (contract completed November 2025)
 - **Team:** Whole BST team involved
 - **Primary Contact:** Matthew Fladeland, NASA Ames Technology Transfer Office, 650.604.3325, matthew.fladeland@nasa.gov
 
@@ -17,7 +17,7 @@
 
 | Due Date | Amount | Deliverable | Status |
 |----------|--------|-------------|--------|
-| 1/28/25 | N/A | IT Security Management Plan | ✓ Completed 1/28/25 |
+| 1/30/25 | N/A | IT Security Management Plan | ✓ Completed 1/28/25 |
 | 3/28/25 | $35,000 | Demonstration Report #1 (Quarterly) | ✓ Completed 3/28/25 |
 | 9/30/25 | $35,000 | Final Report (with SF 298 & DD Form 250) | ✓ Completed 9/16/25 |
 | 8/27-28/25 | Included | Persistence Demo Event (Pawnee National Grassland) | ✓ Completed 8/28/25 |
@@ -28,7 +28,7 @@
 
 ## Task Summary
 
-**Total Tasks:** 32 (31 completed, 1 open)  
+**Total Tasks:** 32 (31 completed, 1 administrative open)  
 **Completion Rate:** 97%
 
 ### Tasks by Assignee (Completed Work)
@@ -68,6 +68,10 @@
 - 8/21/25: NightFOX flight test completed
 - 8/18/25: Payload app & Remote ID ground test finalized
 
+**New Opportunity Alert (April 2026):**
+- **04/17–04/20/26:** Alex Lomis flagged a NASA RFI (Request for Information) related to hurricane Earth Observation work, recommended by NASA and Joe for follow-up. Link: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
+- **04/20/26:** Jack Elston noted other potential demonstration opportunities (INSTAAR x2 and Ottawa/Murphy's demo) competing for scheduling.
+
 ---
 
 ## Notes & Context
@@ -101,10 +105,20 @@
 ---
 
 ## Open Items
-**1 Open Task (Unassigned):**
-- Contact information record for Matthew Fladeland (NASA) — appears to be administrative data entry, not action item. No due date; likely administrative artifact post-closure.
+**1 Open Task (Administrative):**
+- Contact information record for Matthew Fladeland (NASA) — data entry for NASA Ames Technology Transfer Office contact. No due date; administrative artifact post-closure.
+
+---
+
+## Follow-Up Opportunities (April 2026)
+
+**NASA Hurricane Earth Observation RFI:**
+- **Source:** NASA folks + Joe (external stakeholder) recommendation during hurricane ET call
+- **Status:** RFI available on SAM.gov for review
+- **Priority:** Track alongside other demo opportunities (INSTAAR x2, Ottawa/Murphy's demonstrations)
+- **Next Steps:** Alex Lomis to coordinate with Jack Elston and leadership on proposal strategy
 
 ---
 
 **Project Status: Successfully Completed & Archived**  
-All contractual obligations fulfilled, deliverables accepted, payments received, and project closed as of November 24, 2025.
+All contractual obligations fulfilled, deliverables accepted, payments received, and project closed as of November 24, 2025. Company is exploring follow-on opportunities with NASA in Earth observation domain.

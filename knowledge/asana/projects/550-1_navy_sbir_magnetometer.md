@@ -6,7 +6,7 @@
   - Secondary Contact: Anthony Brescia, Avionics Engineering S&T Domain Lead
   - Address: NAWCAD, 22347 Cedar Point Road, Bldg. 2185, Patuxent River, MD 20670
 - **Dollar Value:** $242,540 total budget
-  - Phase I: Completed (Jan 2026)
+  - Phase I: Completed (January 2026)
   - Option Period (Apr–Sep 2026): $99,459 (CLIN 0005: $50,000 + CLIN 0006: $35,000 + CLIN 0007: $14,459)
 - **Timeline:**
   - Phase I completed: January 2026
@@ -17,7 +17,7 @@
     - CLIN 0007 (Final Report): Due September 28, 2026
 - **Status:** Active – Option Period underway (started April 14, 2026)
 - **Team Members:** Alex Lomis (owner/PM), Jack Elston, Meredith O'hara Needham, Maciej Stachura, Beck Cotter, Dan Prendergast
-- **Risk Signals:** None. CLIN 0005 deliverables (kick-off report and invoice) completed on schedule (April 14, 2026). CLIN 0006 and 0007 on track.
+- **Risk Signals:** None. CLIN 0005 deliverables (kick-off report and invoice) completed on schedule (April 14, 2026). CLIN 0006 and 0007 on track. Per Maciej Stachura (Apr 17, 2026): "Tasks for the Navy project is done, but you can remind me of the meeting on the day of" — all assigned Navy work complete, team ready for next milestones.
 
 ## Key Deliverables & Milestones
 
@@ -37,15 +37,18 @@
 - All Phase I reports and invoices submitted and paid (Feb 9–11, 2026)
 
 ## Task Summary
-- **Total Tasks Visible:** 4 (2 open, 2 completed) — 50% current completion rate
-  - Note: Full project history shows 33 total tasks across Phase I and Option Period (27 Phase I tasks completed; 6 Option Period tasks, 2 now completed)
+- **Total Tasks (Asana):** 6 open, 0 completed in current view — represents Option Period deliverables + Navy contact records
+  - Full project history: 33+ total tasks across Phase I and Option Period (27 Phase I tasks completed; 6 Option Period tasks, 2 now completed)
 - **Tasks by Assignee (Current):**
-  - **Jack Elston:** 1 task completed (CLIN 0005 report submission, Apr 14 ✓)
-    - Remaining: CLIN 0006 & 0007 progress/final reports
-  - **Meredith O'hara Needham:** 1 task completed (CLIN 0005 invoice $50,000, Apr 14 ✓)
-    - Remaining: CLIN 0006 & 0007 invoices ($35,000 + $14,459)
-  - **Angel Ruiz-Reyes (Navy TPOC):** Unassigned task (no due date) — likely informational contact record
-  - **Anthony Brescia (Navy Avionics Lead):** Unassigned task (no due date) — likely informational contact record
+  - **Jack Elston:** 2 open tasks
+    - CLIN 0006 Progress Report (Due Jun 29, 2026)
+    - CLIN 0007 Final Report (Due Sep 28, 2026)
+    - *Status:* Phase I reports completed on-time; ready for Option Period deliverables
+  - **Meredith O'hara Needham:** 2 open tasks
+    - CLIN 0006 Invoice $35,000 (Due Jun 29, 2026)
+    - CLIN 0007 Invoice $14,459 (Due Sep 28, 2026)
+    - *Status:* CLIN 0005 invoice ($50,000) submitted Apr 14 ✓; confirmed with Meredith (Apr 17, 2026) that report templates and processes in place
+  - **Angel Ruiz-Reyes & Anthony Brescia:** Unassigned tasks (no due dates) — Navy contact records for reference
 - **Completion Pattern:** Phase I achieved 100% on-time delivery with clear CLIN structure. Option Period replicating same cadence: report + invoice pairs due at defined intervals.
 
 ## Recent Activity
@@ -53,6 +56,8 @@
 **Option Period Launch (April 2026):**
 - CLIN 0005 Kick-Off & FWA Certification Report submitted by Jack Elston (Apr 14, 2026) ✓
 - CLIN 0005 Invoice ($50,000) submitted by Meredith O'hara Needham (Apr 14, 2026) ✓
+- **Note (Meredith Needham, Apr 17, 2026):** Navy STTR also submitted along with invoice; confirmed kick-off and FWA Certification due date met; audit of Asana due dates underway to ensure alignment with Navy deadlines
+- **Note (Maciej Stachura, Apr 17 & 20, 2026):** "Tasks for the Navy project is done" — all team members' current Option Period work complete; team ready to proceed
 - Project status marked green (Mar 16, 2026) confirming readiness for Option Period start
 
 **Phase I Closure (January–February 2026):**
@@ -84,16 +89,22 @@
 
 **Contractual & Administrative:**
 - Navy SBIR award structure with CLIN-based deliverables
-- Reports use Navy SBIR templates (navysbir.com/links_forms.htm)
+- Report templates available at: https://navysbir.com/links_forms.htm
+- All reports must prominently display:
+  - Contractor name and business address
+  - Contract/award number
+  - CLIN details
+  - Letterhead or cover page (for progress reports)
 - Invoices submitted via WAWF (Wide Area Workflow) with receiving reports
-- All reports must prominently display contractor info, contract/award numbers, and CLIN details
 - Customer Type: Government
 - No subcontractor budget line items
 
+**Process Notes (Meredith Needham, Apr 17, 2026):**
+- Report templates and instructions located in Asana Project Brief under "Award Deliverable Templates"
+- All Asana due dates under review for alignment with Navy deadlines (work in progress post-Apr 17)
+
 **Next Milestones:**
 - **CLIN 0006 Progress Report:** Due June 29, 2026 (Jack Elston)
-- **CLIN 0006 Invoice:** Due June 29, 2026 (Meredith O'hara Needham)
+- **CLIN 0006 Invoice:** Due June 29, 2026 (Meredith O'hara Needham) — $35,000
 - **CLIN 0007 Final Report:** Due September 28, 2026 (Jack Elston)
-- **CLIN 0007 Invoice:** Due September 28, 2026 (Meredith O'hara Needham)
-
-**Priority:** Low (now Active with successful April launch; will escalate as June 29 deadline approaches).
+- **

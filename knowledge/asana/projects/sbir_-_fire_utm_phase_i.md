@@ -4,7 +4,7 @@
 - **Client/Customer**: NASA SBIR program
 - **Dollar Value**: $56,318 total invoiced ($49,818 + $6,500)
 - **Timeline**: Project started mid-2023, completed February 7, 2024
-- **Status**: ARCHIVED — Phase I completed successfully
+- **Status**: ARCHIVED — Phase I completed successfully (February 7, 2024)
 - **Team Members**: Alex Lomis (project lead/coordinator), Jack Elston (hardware/flight operations), Maciej Stachura (algorithms/data processing), Josh Fromm (manufacturing), James (external partner, likely NCAR/RAL)
 - **Key Partners**: NCAR/RAL, Colorado Center of Excellence for Advanced Technology Aerial Firefighting, CALFIRE
 
@@ -34,6 +34,7 @@
 - NASA ROSES Call application submitted March 31, 2024 (completed by Maciej Stachura)
 - CoTAK Demo exploration initiated and completed March 27, 2024
 - Post-Phase I technical investigation: Dubins path for altitude profiling control (completed October 2025)
+- **[NOTE from team feedback 2026-04-17]**: Navy STTR was submitted along with the invoice; SBIR Magnetometer has kick-off and FWA Certification due April 14, 2026 (Meredith Needham). This appears to reference a separate, newer Navy SBIR project (not the original Fire UTM Phase I).
 
 ## Notes & Context
 This Phase I pilot study demonstrated the value of targeted UAS observations for improving low-level wind and turbulence representation in active wildfire modeling. Key technical achievements included:
@@ -44,3 +45,7 @@ This Phase I pilot study demonstrated the value of targeted UAS observations for
 - Demonstrated operational procedures through coordinated flight tests (S10019 and S00001)
 
 The project required extensive regulatory coordination and stakeholder management (CALFIRE, Boulder Sheriff/Parks, FireSense team, Argonne National Lab). Successfully positioned BST for Phase II funding and established partnerships for future wildfire UAS operations. Post-project, team explored CoTAK integration and advanced control methods (Dubins paths) for potential Phase II enhancements.
+
+---
+
+**⚠️ Note**: Team feedback from April 17, 2026 references Navy SBIR and STTR submissions that appear to be separate projects, not updates to this archived Fire UTM Phase I project.

@@ -7,20 +7,23 @@
   - Project Start: 2026-07-31
   - Project Due: 2026-07-31
   - Invoice schedule: March 2026 – July 2026
-- **Status:** Active — invoicing on schedule (3 of 6 invoices completed); hardware development tasks now visible and in progress
+- **Status:** Active — invoicing on schedule (3 of 6 invoices completed); hardware development and validation tasks in progress
 - **Team Members:** 
   - Meredith O'hara Needham (project owner, invoice submissions)
   - Jack Elston (firmware/software development)
   - Sam Hild (QC, kit assembly, hardware validation)
+  - Maciej Stachura (magnetometer calibration)
+  - Nate Straus (platform rebuild/validation)
   - BST (whole team)
 - **Contract Details:** 
   - IDIQ #1305M226D0012
   - Delivery Order #1305M226F0084 (invoice against this number)
   - 20 UAS units for NOAA
 - **Risk Signals:** 
-  - **Hardware tasks now critical path:** 6 open firmware, QC, and assembly tasks with near-term deadlines (May–June 2026)
-  - **Compressed timeline:** Project start and due date both listed as 2026-07-31 (unusual; may indicate final delivery/completion date is the constraint)
-  - **Firmware tasks approaching:** Two Jack Elston firmware tasks due May 1 & May 29; one due June 26
+  - **Hardware/validation tasks now critical path:** 8 open firmware, QC, assembly, and validation tasks with near-term deadlines (May–July 2026)
+  - **Compressed timeline:** Project start and due date both listed as 2026-07-31 (constraint is final delivery/completion by end of July)
+  - **Platform rebuild due mid-May:** Nate Straus must complete BST s0 rebuild by 2026-05-15 to support later validation phases
+  - **Magnetometer calibration in final month:** Maciej Stachura's mag cal task due 2026-07-01 (tight window before final delivery)
 
 ## Key Deliverables & Milestones
 **Deliverable:** 20 UAS units for NOAA with critical atmospheric measurement capabilities
@@ -37,18 +40,20 @@
 | 6 of 6 | $72,000 | 2026-07-31 | ⏳ Open |
 | **Total** | **$483,000** | | |
 
-**Hardware/Firmware Development Milestones:**
+**Hardware/Firmware/Validation Development Milestones:**
 | Task | Owner | Due Date | Status |
 |------|-------|----------|--------|
+| Rebuild BST s0 (currently partially disassembled) | Nate Straus | 2026-05-15 | ⏳ Open |
 | Add RH / Vaisala fix to PSNS code | Jack Elston | 2026-05-01 | ⏳ Open |
 | QC at least one of each board as they arrive | Sam Hild | 2026-05-01 | ⏳ Open |
 | Finalize deployment tube firmware | Jack Elston | 2026-05-29 | ⏳ Open |
 | Finish deployment tube board QCs | Sam Hild | 2026-06-05 | ⏳ Open |
 | Begin kit assembly | Sam Hild | 2026-06-19 | ⏳ Open |
 | Finalize AP & PSNS firmware | Jack Elston | 2026-06-26 | ⏳ Open |
+| Participate in mag cal process | Maciej Stachura | 2026-07-01 | ⏳ Open |
 
 ## Task Summary
-- **Total Tasks:** 6 open, 0 completed
+- **Total Tasks:** 8 open, 0 completed
 - **Tasks by Assignee:**
   - **Jack Elston (Firmware/Software):** 3 tasks — 0% completion
     - Add RH / Vaisala fix to PSNS code (due 2026-05-01)
@@ -58,19 +63,28 @@
     - QC at least one of each board as they arrive (due 2026-05-01)
     - Finish deployment tube board QCs (due 2026-06-05)
     - Begin kit assembly (due 2026-06-19)
+  - **Nate Straus (Platform Build/Validation):** 1 task — 0% completion
+    - Rebuild BST s0 (currently partially disassembled) (due 2026-05-15)
+  - **Maciej Stachura (Calibration):** 1 task — 0% completion
+    - Participate in mag cal process (due 2026-07-01)
 - **Notable Patterns:**
-  - Hardware development tasks were previously archived/not visible; now active and tracking critical path items
-  - Firmware finalization tasks staggered May–June to support board QC and assembly workflow
+  - Hardware development tasks now visible and active (previously may have been in separate tracking)
+  - Firmware finalization staggered May–June to support QC and assembly workflow
+  - Platform rebuild task (Nate Straus) sits between firmware start and QC completion — suggests BST s0 is test/validation platform for firmware validation
+  - Magnetometer calibration is final validation gate before delivery (due 2026-07-01, just 30 days before project close)
   - Sam Hild's QC/assembly tasks dependent on Jack Elston's firmware milestones
-  - All development tasks cluster in May–June 2026, suggesting compressed final delivery window
 
 ## Recent Activity
-- **Task list updated:** Hardware development tasks now visible (previously may have been in separate tracking or archived)
+- **2026-04-17 & 2026-04-20:** Alex Lomis shared NASA RFI link recommended during hurricane engineering team call — link to SAM.gov opportunity (may represent potential follow-on or related business development)
 - **2026-04-15:** Invoice 2 of 6 ($54,000) + Travel ($18k) submitted — completed on time
 - **2026-03-13:** Invoice 1 of 6 ($36,000) submitted — completed on time
-- **Upcoming:** 
-  - Invoice 3 of 6 ($54,000) due 2026-05-14
-  - Firmware & QC tasks due 2026-05-01 (imminent)
+- **Upcoming Critical Deadlines:**
+  - **2026-05-01:** Jack Elston firmware fix + Sam Hild board QC (imminent)
+  - **2026-05-14:** Invoice 3 of 6 ($54,000) due
+  - **2026-05-15:** Nate Straus BST s0 rebuild due
+  - **2026-06-05–06-26:** QC completion and firmware finalization window
+  - **2026-07-01:** Magnetometer calibration process (final validation phase)
+  - **2026-07-31:** Final delivery and Invoice 6 due
 
 ## Notes & Context
 - **Long-term Partnership:** Continuation of NOAA collaboration since 2018 through SBIR program:
@@ -81,8 +95,4 @@
 - **Priority Level:** Low (per custom field)
 - **Invoice Processing:** All invoices tracked in QuickBooks; submitted against Delivery Order #1305M226F0084
 - **Performance:** 
-  - Invoicing 1 day ahead of schedule on Invoice 2; excellent payment execution so far
-  - Hardware development now on visible task list — indicates entry into production/assembly phase
-- **Travel Costs:** Embedded $18k travel component submitted as separate invoice line item
-- **Customer Type:** Government (federal contract)
-- **Critical Path:** Firmware finalization and QC validation must complete by late June to support final assembly and July 31 delivery deadline. Jack Elston and Sam Hild workload is high over next 3 months.
+  - Invoicing 1 day ahead of schedule on Invoice 2
