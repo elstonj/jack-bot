@@ -3,53 +3,50 @@
 ## Overview
 - **Client/Customer**: EMASS (Commercial customer)
 - **Dollar Value**: $90,000 total funding to Black Swift Technologies
-- **Timeline**: Original November 10, 2025 to January 31, 2026; **now extended with no set end date** (as of latest update); final deliverables due April 20-24, 2026
-- **Status**: Active - final validation phase in progress; **3 open tasks remaining** (down from 6 in previous report); project significantly extended beyond original deadline
+- **Timeline**: Original November 10, 2025 to January 31, 2026; **now extended with no set end date**; final validation flights due April 21–22, 2026
+- **Status**: Active - final validation phase in progress; **3 open tasks remaining** (all validation flights); previous milestones completed
 - **Team Members**: Dan Prendergast (Owner/Lead), Jack Elston, Maciej Stachura, Nate Straus, Ethan Domagala, Meredith O'hara Needham
 - **Risk Signals**: 
-  - 3 critical tasks assigned to Dan Prendergast due April 20-21 (bench test + two flights on same day)
-  - Back-to-back validation flights (April 21) create execution risk if first test reveals issues
-  - Project end date remains open-ended despite April 24 final report deadline
-  - **TEAM FEEDBACK (Maciej, 2026-04-19/20)**: EMASS flight tests are confirmed as top priority for the week, with multiple team members involved beyond just Dan
+  - **All 3 remaining open tasks assigned to Dan Prendergast alone** — single point of failure for project completion
+  - Two validation flights due same day (April 21) with sequential dependency risk
+  - **TEAM FEEDBACK (Maciej, April 19–20, 2026)**: EMASS flight tests confirmed as #1 priority this week, coordinating Dan Prendergast, Jack Elston, and Nate Straus — indicates broader team support than Asana task assignments reflect
+  - Project extension of ~3 months beyond original January 31 deadline signals scope or execution challenges
 
 ## Key Deliverables & Milestones
 - **Phase 1: Design & Alignment** (Due: Jan 28, 2026) - ✅ Completed
 - **Phase 1b: Interface Design Freeze** (Due: Feb 6, 2026) - ✅ Completed
 - **Phase 2: Integration & Firmware** (Due: Feb 13, 2026) - ✅ Completed
 - **Phase 4: Validation & Reporting** (Due: Mar 11, 2026) - ✅ Completed
-- **Final Validation Phase** (Due: Apr 20-24, 2026):
-  - Bench test for safety (April 20) — **OPEN**
-  - Functional flight test (April 21) — **OPEN**
-  - Validation Flight #1 (April 21) — **OPEN**
-  - Validation Flight #2 (April 22) — Status unclear in latest data
-  - Validation Flight #3 (April 23) — Status unclear in latest data
-  - Final Report (April 24) — Status unclear in latest data
+- **Final Validation Phase** (Due: Apr 20–24, 2026):
+  - Bench test for safety (April 20, 2026) — Status not in current task list (may be completed)
+  - Functional flight test (April 21, 2026) — **OPEN**
+  - Validation Flight #1 (April 21, 2026) — **OPEN**
+  - Validation Flight #2 (April 22, 2026) — **OPEN**
+  - Validation Flight #3 (April 23, 2026) — Not in current task list
+  - Final Report (April 24, 2026) — Not in current task list
 
 ## Task Summary
-- **Total Tasks**: 35 (3 open, completion status of remaining tasks unclear from latest raw data; previous report indicated 29 completed)
+- **Total Tasks**: 35 (3 currently open in Asana; completion status of remaining tasks unclear)
 - **Tasks by Assignee**:
-  - **Dan Prendergast**: 3 remaining open tasks all due April 20-21 (bench test, functional flight test, validation flight #1)
-  - **Other team members**: Status of assigned tasks not reflected in latest raw task list
-  - **Maciej Stachura**: Team feedback indicates active involvement in EMASS flight tests planning (as of April 19-20)
-- **Pattern**: Final validation phase heavily concentrated on Dan Prendergast; team coordination for EMASS flights confirmed by Maciej's recent feedback
+  - **Dan Prendergast**: 3 open tasks (100% of remaining work) — all validation flights due April 21–22
+  - **Other team members**: No open tasks assigned in Asana, though **TEAM FEEDBACK (Maciej, April 19–20) confirms active coordination across Jack Elston, Nate Straus, and others for EMASS flight execution**
+- **Pattern**: Final validation phase nominally concentrated on Dan Prendergast in Asana, but real execution involves broader team per Maciej's feedback
 
 ## Recent Activity
-- **Current Focus** (Week of April 20, 2026): 
-  - **TEAM FEEDBACK (Maciej, April 19-20)**: EMASS flight tests confirmed as #1 priority for the week, with coordination across team members including Dan Prendergast, Jack Elston, Nate Straus, and Ethan Domagala
-  - Three critical tasks due April 20-21: bench test, functional flight test, validation flight #1
-- **Approaching Deadlines**: 
-  - Bench test for safety (April 20, 2026)
-  - Functional flight test & Validation Flight #1 (April 21, 2026)
-  - Validation Flight #2 (April 22, 2026) — implicit
-  - Validation Flight #3 (April 23, 2026) — implicit
-  - Final Report (April 24, 2026) — implicit
+- **Current Focus** (Week of April 19–20, 2026): 
+  - **TEAM FEEDBACK (Maciej, April 19–20, 2026)**: EMASS flight tests listed as top priority this week, with team members Dan Prendergast, Jack Elston, and Nate Straus coordinating execution — indicates broader team involvement than Asana task list shows
+  - Three critical tasks due April 21–22: functional flight test, validation flights #1 and #2
+- **Immediate Deadlines**: 
+  - Functional flight test (April 21, 2026) — **OPEN**
+  - Validation Flight #1 (April 21, 2026) — **OPEN** (same day as functional test)
+  - Validation Flight #2 (April 22, 2026) — **OPEN**
 
 ## Notes & Context
 **Project Objective**: Bridge simulation results with operational testing by integrating EMASS's ECS-DoT ultra-low-power Edge A.I. System-on-Chip on a UAS platform, quantifying its impact on flight operations.
 
 **Technical Approach**: 
 - Custom PCB design integrating ECS-DoT chip with SwiftCore autopilot
-- UART interface for data communication at 50-70 Hz
+- UART interface for data communication at 50–70 Hz
 - Integration with E2 platform
 - Hardware-in-the-loop (HWIL) simulation testing (completed)
 - Structured flight trials comparing baseline vs. ECS-DoT-enabled configurations
@@ -58,15 +55,15 @@
 
 **Timeline Evolution**: 
 - Original scope: Nov 10, 2025 – Jan 31, 2026 (12 weeks)
-- Actual execution: Extended through April 24, 2026 (+3 months beyond original end date)
-- **Critical change**: Project now has no set end date in system, despite April 24 final report deadline — suggests flexibility or uncertainty about completion
+- Actual execution: Extended through April 21–22, 2026 (~4.5 months beyond original end date)
+- **No set project end date** in Asana despite April 24 final report deadline — suggests flexibility or outstanding work beyond validation flights
 
 **⚠️ Critical Path & Execution Risk**: 
-1. **Compressed Final Phase**: Three critical tasks due April 20-21 with single primary assignee (Dan Prendergast) — bench test and two flights in two days creates high execution risk
-2. **Team Coordination Confirmed**: **TEAM FEEDBACK from Maciej (April 19-20)** indicates broader team involvement in EMASS flight tests than Asana task list reflects; confirms this is top priority across team
-3. **Sequential Dependency Risk**: Functional flight test and Validation Flight #1 both due April 21 — if first flight reveals issues, subsequent validation flights and final report (April 24) at risk
-4. **Open-Ended Project Duration**: Despite April 24 final report deadline, no project end date is set in Asana — recommend clarification with Dan Prendergast on actual completion expectations
-5. **Data discrepancy**: Raw task list shows 3 open tasks (vs. 6 in previous report), but does not confirm completion of remaining validation flights #2, #3, or final report — may reflect Asana data lag
+1. **Single Point of Failure**: All 3 remaining tasks assigned exclusively to Dan Prendergast. No backup assignees in Asana despite Maciej's team feedback indicating broader participation.
+2. **Same-Day Execution Risk**: Functional flight test and Validation Flight #1 both due April 21 — if first test reveals critical issues, second test may not proceed as planned.
+3. **Team Coordination Confirmed but Underrepresented in Asana**: **TEAM FEEDBACK from Maciej (April 19–20, 2026)** explicitly lists EMASS flight tests as #1 priority with Dan Prendergast, Jack Elston, and Nate Straus involved. Asana tasks do not reflect these team assignments — recommend updating task ownership to reflect actual execution structure.
+4. **Data Gaps**: Current task list shows only 3 open tasks (functional flight test, validation flights #1–2); does not include Validation Flight #3 (April 23) or Final Report (April 24) — either these are scheduled separately or represent potential schedule risk.
+5. **Maciej's Technical Goals (April 19–20, 2026)** list EMASS flight tests as one of four concurrent priorities for the week, alongside S0-VTOL crash debugging, S3 work, and Mustang progress — indicates potential resource contention despite stated priority.
 
 **Products/Services**: Custom Payload, E2 platform integration  
 **Priority**: High  

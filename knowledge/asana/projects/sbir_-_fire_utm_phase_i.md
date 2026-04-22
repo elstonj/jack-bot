@@ -4,7 +4,7 @@
 - **Client/Customer**: NASA SBIR program
 - **Dollar Value**: $56,318 total invoiced ($49,818 + $6,500)
 - **Timeline**: Project started mid-2023, completed February 7, 2024
-- **Status**: ARCHIVED — Phase I completed successfully (February 7, 2024)
+- **Status**: **ARCHIVED** — Phase I completed successfully (February 7, 2024). All deliverables closed out; no active tasks.
 - **Team Members**: Alex Lomis (project lead/coordinator), Jack Elston (hardware/flight operations), Maciej Stachura (algorithms/data processing), Josh Fromm (manufacturing), James (external partner, likely NCAR/RAL)
 - **Key Partners**: NCAR/RAL, Colorado Center of Excellence for Advanced Technology Aerial Firefighting, CALFIRE
 
@@ -34,7 +34,7 @@
 - NASA ROSES Call application submitted March 31, 2024 (completed by Maciej Stachura)
 - CoTAK Demo exploration initiated and completed March 27, 2024
 - Post-Phase I technical investigation: Dubins path for altitude profiling control (completed October 2025)
-- **[NOTE from team feedback 2026-04-17]**: Navy STTR was submitted along with the invoice; SBIR Magnetometer has kick-off and FWA Certification due April 14, 2026 (Meredith Needham). This appears to reference a separate, newer Navy SBIR project (not the original Fire UTM Phase I).
+- **Project archived with no further activity planned for Fire UTM Phase I**
 
 ## Notes & Context
 This Phase I pilot study demonstrated the value of targeted UAS observations for improving low-level wind and turbulence representation in active wildfire modeling. Key technical achievements included:
@@ -48,4 +48,9 @@ The project required extensive regulatory coordination and stakeholder managemen
 
 ---
 
-**⚠️ Note**: Team feedback from April 17, 2026 references Navy SBIR and STTR submissions that appear to be separate projects, not updates to this archived Fire UTM Phase I project.
+## ⚠️ Related Projects (Not Part of This Archive)
+**Team Feedback (April 17–21, 2026)** indicates separate Navy SBIR and STTR projects are now active:
+- **Navy SBIR Magnetometer**: Kicked off as of April 21, 2026. Kick-off meeting and FWA Certification due April 14, 2026 (managed by Meredith Needham). Technical lead: [U0AQE94HJUT]; supported by other team members listed in Asana. Project brief and kick-off presentation template available in Asana; report templates at https://navysbir.com/links_forms.htm
+- **Navy STTR**: Submitted alongside invoicing (referenced April 17, 2026)
+
+These are distinct projects and should be tracked separately from this archived Fire UTM Phase I work.

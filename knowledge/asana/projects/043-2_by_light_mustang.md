@@ -24,7 +24,7 @@
 All invoicing milestones completed; final phase extended 26 days past original due date.
 
 ## Task Summary
-- **Total Tasks:** 36 (33 completed, 3 open)
+- **Total Tasks:** 36 (33 completed, 3 open/archived reference only)
 - **Completion Rate:** 92% (project complete)
 - **Tasks by Assignee:**
   - **Maciej Stachura:** 11 completed (flight testing, analysis, validation)

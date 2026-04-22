@@ -2,7 +2,7 @@
 
 ## Overview
 - **Client:** NASA (Richard Kolyer, NASA Ames Research Center)
-- **Budget:** $80,972 total to BST
+- **Budget:** $80,972 total; $80,972 to BST (note: project notes reference $55,976 BST + $25,000 in-country contractor, but custom field consolidates to $80,972 BST with N/A subcontractor allocation)
 - **Timeline:** Proposal due 1/27/25 → Field operations May 11-22, 2025 → Final deliverables due 9/30/25
 - **Status:** **COMPLETE** (all deliverables submitted; project archived Oct 21, 2024)
 - **Team:** Jack Elston (PIC), Dan Prendergast (Operator), Maciej Stachura, Nate Straus, Meredith O'Hara Needham
@@ -23,7 +23,7 @@ Provide continuous high-resolution infrared (IR) imagery and in-situ gas samplin
 | Final Report & NTSR | Jack Elston | 8/19/25 | ✓ 7/23/25 |
 
 ## Task Summary
-- **Total Tasks:** 1 open (administrative contact record for Richard Kolyer)
+- **Total Tasks:** 1 open (administrative contact record for Richard Kolyer — no action required)
 - **Project Completion:** 15 of 16 tasks completed (94%)
 - **Key Contributors:**
   - Jack Elston: PIC, Final Report, Demo Report #1 — 100% complete
@@ -45,16 +45,15 @@ Provide continuous high-resolution infrared (IR) imagery and in-situ gas samplin
 - **Pilot in Command:** Jack Elston
 - **Operator:** Dan Prendergast
 - **Key deliverable:** NTSR (New Technology Summary Report) — indicates this was a technology demonstration for NASA
-- **Budget note:** Total $80,972 to BST; project notes reference $55,976 BST + $25,000 in-country contractor (custom fields show total $80,972 to BST with "N/A" subcontractor allocation — likely reflects consolidated reporting)
 - **No cost overruns or timeline slippages** — project well-executed with early final report submission
-- **Open administrative task:** Richard Kolyer contact info record (no action required; for reference)
+- **Budget clarification:** Custom field lists $80,972 to BST with N/A subcontractor; project notes reference $55,976 BST + $25,000 in-country contractor (likely reflects organizational reporting consolidation)
 
-**Project Status:** Complete and archived. All deliverables delivered to NASA on time or early. No open action items.
+## Business Development — NASA Follow-On Opportunity
+**Team Note (Alex Lomis, 4/17-4/20/26):** NASA RFI (Request for Information) shared for potential hurricane ET opportunity, recommended by NASA stakeholders and Joe for team review during hurricane ET call:  
+https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
+
+*This represents potential follow-on work or new NASA opportunity; recommend internal review for business development response.*
 
 ---
 
-## Additional Context: NASA Follow-on Opportunity
-**Team Note (Alex Lomis, 4/17-4/20/26):** NASA RFI (Request for Information) link shared for potential hurricane ET (???) opportunity, recommended by NASA stakeholders and Joe for team review:  
-https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
-
-*This may represent interest in follow-on work or new NASA opportunity; recommend review for business development.*
+**Project Status:** Complete and archived. All deliverables delivered to NASA on time or early. No open action items. One administrative contact record remains in Asana for reference.

@@ -1,7 +1,7 @@
 # [200-11] Persistence Demo (NASA)
 
 ## Overview
-- **Client/Customer:** NASA (Ames Research Center)
+- **Client/Customer:** NASA Ames Research Center
 - **Contract:** SBIR Phase III, Contract No. 80NSSC25CA043
 - **Dollar Value:** $74,428.00 (Fixed Price)
 - **Timeline:** January 2025 – September 2025 (9 months)
@@ -68,10 +68,6 @@
 - 8/21/25: NightFOX flight test completed
 - 8/18/25: Payload app & Remote ID ground test finalized
 
-**New Opportunity Alert (April 2026):**
-- **04/17–04/20/26:** Alex Lomis flagged a NASA RFI (Request for Information) related to hurricane Earth Observation work, recommended by NASA and Joe for follow-up. Link: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
-- **04/20/26:** Jack Elston noted other potential demonstration opportunities (INSTAAR x2 and Ottawa/Murphy's demo) competing for scheduling.
-
 ---
 
 ## Notes & Context
@@ -113,10 +109,12 @@
 ## Follow-Up Opportunities (April 2026)
 
 **NASA Hurricane Earth Observation RFI:**
-- **Source:** NASA folks + Joe (external stakeholder) recommendation during hurricane ET call
+- **Source:** NASA contacts + Joe (external stakeholder) recommendation during hurricane ET call
+- **Alert Date:** Alex Lomis flagged on 04/17–04/20/26
 - **Status:** RFI available on SAM.gov for review
-- **Priority:** Track alongside other demo opportunities (INSTAAR x2, Ottawa/Murphy's demonstrations)
-- **Next Steps:** Alex Lomis to coordinate with Jack Elston and leadership on proposal strategy
+- **Link:** https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
+- **Competing Opportunities:** INSTAAR x2 demonstrations and Ottawa/Murphy's demonstration (per Jack Elston, 04/20/26)
+- **Next Steps:** Coordinate with Jack Elston and leadership on proposal strategy and scheduling
 
 ---
 

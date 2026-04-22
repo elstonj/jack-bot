@@ -2,399 +2,349 @@
 
 # Black Swift Technologies — External Contact Directory
 
+---
+
 ## NASA
 
-### Key Government Contacts
+### Headquarters & Centers (Multi-Center Coordination)
 
-**John Glass**
-- Email: John.Glass-1@nasa.gov, John.Glass@nasa.gov
-- Role: NASA Contact
-- Context: Primary government relationship for aerospace research contracts
+- **John Glass** — NASA Contact
+  - Email: John.Glass-1@nasa.gov
+  - Role: Government liaison
+  - Context: General NASA coordination across centers
 
-**Thomas A. Weisz**
-- Email: thomas.a.weisz@nasa.gov
-- Role: NASA Contact
-- Context: Involved in research coordination across NASA centers
+- **Thomas A. Weisz** — NASA Contact
+  - Email: thomas.a.weisz@nasa.gov
+  - Role: Technical coordination
+  - Context: Aerospace research programs
 
-**Matthew M. Fladeland**
-- Email: matthew.m.fladeland@nasa.gov
-- Role: NASA Contact
-- Context: Atmospheric research coordination
+- **Brian A. McGinley** — NASA Contact
+  - Email: brian.a.mcginley@nasa.gov
+  - Role: Program management
+  - Context: Flight operations and testing coordination
 
-**Stephan R. Kawa**
-- Email: stephan.r.kawa@nasa.gov
-- Role: NASA Contact
-- Context: Research partnership
+- **Matthew M. Fladelman** — NASA Contact
+  - Email: matthew.m.fladeland@nasa.gov
+  - Role: Research coordination
+  - Context: Atmospheric and Earth science research
 
-### JPL Contacts
+- **Stephan R. Kawa** — NASA Contact
+  - Email: stephan.r.kawa@nasa.gov
+  - Role: Technical lead
+  - Context: Advanced research initiatives
 
-**Andrew E. Johnson**
-- Email: Andrew.E.Johnson@jpl.nasa.gov
-- Role: JPL Technical Contact
-- Context: Jet Propulsion Laboratory collaboration
+### JPL (Jet Propulsion Laboratory)
 
-**Tara Estlin**
-- Email: Tara.Estlin@jpl.nasa.gov
-- Role: JPL Technical Contact
-- Context: Advanced autonomy and rover planning expertise
+- **Andrew E. Johnson** — JPL Contact
+  - Email: Andrew.E.Johnson@jpl.nasa.gov
+  - Role: Technical lead
+  - Context: Autonomous systems and navigation research
 
-**Marc Golombek**
-- Email: mgolombek@jpl.nasa.gov
-- Role: JPL Technical Contact
-- Context: Mars/planetary surface science
+- **Tara Estlin** — JPL Contact
+  - Email: Tara.Estlin@jpl.nasa.gov
+  - Role: Research scientist
+  - Context: Autonomous rover/aircraft systems
 
-**Marco B. Quadrelli**
-- Email: marco.b.quadrelli@jpl.nasa.gov
-- Role: JPL Technical Contact
-- Context: Systems engineering and mission design
+- **Marc Golombek** — JPL Contact
+  - Email: mgolombek@jpl.nasa.gov
+  - Role: Mars mission science lead
+  - Context: Landing site characterization and rover operations
+
+- **Marco B. Quadrelli** — JPL Contact
+  - Email: marco.b.quadrelli@jpl.nasa.gov
+  - Role: Systems engineer
+  - Context: Flight systems and vehicle dynamics
+
+- **Marcin L. Witek** — JPL Contact
+  - Email: marcin.l.witek@jpl.nasa.gov
+  - Role: Technical specialist
+  - Context: Advanced systems development
+
+### NASA Aeronautics Research Mission Directorate (ARMD)
+
+- **Jennifer Schnarr** — AFRC-210, NASA Aeronautics
+  - Email: (via internal BST communications)
+  - Projects: **NASA Aero RFI** (Autonomy/Avionics)
+  - Role: RFI coordinator
+  - Recent interaction: Active RFI response coordination; deadline **May 7, 2026**; Beck Cotter organizing NotebookLM knowledge consolidation for response (Apr 19, 2026)
+  - Contact about: Autonomy architecture, avionics integration capabilities, RFI response timeline
 
 ---
 
 ## NOAA (National Oceanic and Atmospheric Administration)
 
-### Primary Contacts
+### Primary Operational Contacts
 
-**Joe Cione**
-- Email: joe.cione@noaa.gov
-- Role: NOAA Federal / Event Coordination Lead
-- Projects: [025-1] SBIR Navy Boundary Layer, Hurricane/tropical cyclone monitoring
-- Context: Active event invitations and flight coordination; frequent Slack engagement; Arctic Demo planning participant
-- Recent interaction: Apr 2026 coordination on boundary layer measurements and ocean validation missions
+- **Joe Cione** — NOAA Federal, Hurricane Research
+  - Email: joe.cione@noaa.gov
+  - Projects: **[035-1] ADONIS Unmanned Experts**, boundary layer atmospheric research
+  - Role: Event coordination, technical collaboration
+  - Recent interaction: Event invitations and flight coordination (Josh Fromm emails, March 2026)
+  - Contact about: Hurricane reconnaissance missions, atmospheric measurement requirements, S0 VTOL flight operations
 
-**Nikolai Pawlenko**
-- Email: (NOAA Federal)
-- Role: ET Demo Flights Technical Lead
-- Projects: NOAA ET (Experimental/Technical) Demo operations
-- Context: Direct coordination with Jack Elston on flight checklists and technical execution (Apr 13, 2026)
-- Topic: Coordination for NOAA demos and technical validation flights
+- **Nikolai Pawlenko** — NOAA Federal, ET Demo Flights
+  - Email: (via internal BST communications)
+  - Projects: ET Demo Flights
+  - Role: Technical lead for flight demonstrations
+  - Recent interaction: Jack Elston coordination on checklist (Apr 13, 2026); flight readiness logistics
+  - Contact about: Demo flight scheduling, technical requirements, vehicle readiness
 
-### Atmospheric Research Contacts
+- **Wayne M. Angevine** — NOAA Contact
+  - Email: wayne.m.angevine@noaa.gov
+  - Role: Atmospheric research lead
+  - Context: Weather/atmosphere measurement collaboration
 
-**Wayne M. Angevine**
-- Email: wayne.m.angevine@noaa.gov
-- Role: NOAA Atmospheric Scientist
-- Context: Atmospheric research partnership
+- **Peter Wolf** — NOAA Contact
+  - Email: peter.wolf@noaa.gov
+  - Role: Research coordinator
+  - Context: Regional weather research initiatives
 
-**Gary Wick**
-- Email: gary.wick@noaa.gov
-- Role: NOAA Contact
-- Context: Cloud/aerosol research coordination
+### Instrumentation & Sensor Integration
 
-**Allison McComiskey**
-- Email: allison.mccomiskey@noaa.gov
-- Role: NOAA Aerosol Researcher
-- Context: Atmospheric aerosol science partnership
+- **Gary Wick** — NOAA Contact
+  - Email: gary.wick@noaa.gov
+  - Role: Sensor/instrumentation specialist
+  - Context: Payload integration and atmospheric measurement systems
 
-**Logan Poole**
-- Email: logan.poole@noaa.gov
-- Role: NOAA Contact
-- Context: Research collaboration
+- **Allison McComiskey** — NOAA Contact
+  - Email: allison.mccomiskey@noaa.gov
+  - Role: Atmospheric aerosol research
+  - Context: Particulate measurement and air quality monitoring
 
----
+- **Logan Poole** — NOAA Contact
+  - Email: logan.poole@noaa.gov
+  - Role: Data analysis/remote sensing
+  - Context: Satellite and airborne data integration
 
-## USGS (U.S. Geological Survey)
+### Regional & Operational Contacts
 
-**Angie Diefenbach**
-- Email: adiefenbach@usgs.gov
-- Role: USGS Government Coordinator
-- Projects: [301-3] Mexico Deployment, Volcano Monitoring (SBIR Volcano)
-- Context: Active government coordination for Mexico deployment; frequent email and Slack coordination with Maciej, Jack Elston, Joshua Fromm
-- Recent interaction: Apr 2026 ongoing deployment coordination
-- Topics: Mexico field operations, deployment logistics, monitoring mission execution
-- Status: Sustained active relationship; primary government liaison for operational missions
+- **Jonathan Neuhaus** — NOAA Contact
+  - Email: jonathan.neuhaus@noaa.gov
+  - Role: Regional operations
+  - Context: Field campaign coordination
 
----
-
-## Brookhaven National Lab (BNL) — DOE Genesis Project
-
-**Gijs de Boer**
-- Email: gdeboer@bnl.gov
-- Role: Genesis Project Technical Lead
-- Projects: DOE Genesis Phase I (Proposal in active development)
-- Context: **CRITICAL FOCUS** — Real-time collaboration continues through weekends (Apr 19, 2026 asynchronous exchange with Maciej Stachura)
-- Recent interaction: Apr 19, 2026 19:48 UTC response marked IMPORTANT, UNREAD; indicates active proposal finalization phase
-- Topics: Genesis Mission Phase I technical content, proposal coordination
-- Status: **Elevated priority** — weekend engagement indicates near-submission window
-
-**Nathan Urban**
-- Email: nurban@bnl.gov
-- Role: BNL Research Scientist
-- Projects: DOE Genesis Phase I
-- Context: Collaborative proposal work with Brookhaven team
+- **Isaac Vimont** — NOAA Contact
+  - Email: isaac.vimont@noaa.gov
+  - Role: Technical specialist
+  - Context: Systems integration and testing
 
 ---
 
-## Technology & Hardware Partners
+## USGS (United States Geological Survey)
 
-### Vantage Robotics
-
-**Armen Keuleyan**
-- Email: (Vantage Robotics)
-- Role: Gimbal/Sensor Integration Lead
-- Projects: Equipment integration for onboard systems
-- Context: Axiom Greenseer gimbal specs coordination (Apr 13-14, 2026); active vendor dialogue on payload integration
-- Topics: Gimbal specifications, sensor mounting, payload integration
-- Interaction: Direct technical coordination with Alex Lomis and Meredith Needham on integration requirements
-
-### GetFPV (FPV Drone Platform)
-
-**Chloe**
-- Email: chloe@getfpv.com
-- Role: GetFPV Sales/Support Contact
-- Projects: FPV drone platforms and components
-- Context: Marked IMPORTANT in Apr 17 email; iFlight Nazgul Evoque F5 V3 promotional engagement
-- Topics: FPV platform procurement, component sourcing
-- Status: Active vendor relationship for experimental platforms
-
-### Rapid Axis (Manufacturing)
-
-**Jared Probst**
-- Email: Rapid Axis
-- Role: Manufacturing/CNC Lead
-- Projects: Custom parts fabrication
-- Context: Urgent parts messaging (Apr 16, 2026); active vendor for expedited manufacturing needs
-- Topics: Rapid prototyping, CNC machining, parts delivery
-- Status: Preferred vendor for time-critical manufacturing
+- **Angie Diefenbach** — USGS Federal
+  - Email: adiefenbach@usgs.gov
+  - Projects: **Mexico Deployment** (SBIR Volcano Monitoring)
+  - Role: Government POC for volcanic monitoring research
+  - Recent interaction: Active deployment coordination (Jack Elston, Maciej Stachura, Josh Fromm ongoing correspondence); Hotel Royal Pedregal bookings in Mexico
+  - Contact about: Mexico deployment logistics, volcanic monitoring mission requirements, field operations scheduling, sensor payload specifications
 
 ---
 
-## Government/Aerospace Partners
+## University & Research Partners
 
 ### Stanford University
 
-**Tanay Topac**
-- Email: tanaytopac@stanford.edu / tanaytopac@gmail.com
-- Role: Stanford S2 Avionics Collaboration Lead
-- Projects: [031-1] UMES S3, Stanford SACL S2 Avionics
-- Context: Sustained active collaboration on avionics systems; previous period dominance continues with steady-state engagement
-- Topics: Flight control systems, avionics architecture, autonomous capabilities
-- Status: Mature long-term university partnership
+- **Tanay Topac** — Stanford Aero/Astronautics
+  - Email: tanaytopac@stanford.edu (also tanaytopac@gmail.com)
+  - Projects: **S2 Avionics** (SACL timestamp integration)
+  - Role: Research collaborator
+  - Recent interaction: Sustained high-frequency collaboration (Nate Straus primary contact, 87+ messages); active hardware integration
+  - Contact about: Avionics systems, timestamp synchronization, flight control integration, undergraduate research opportunities
 
 ### University of Colorado Boulder
 
-**Kevin S. Rozmiarek**
-- Email: Kevin.Rozmiarek@colorado.edu
-- Role: S3 Project Technical Lead
-- Projects: [001-07] S3 IRAD
-- Context: Active check-in thread on Apr 17, 2026 with Jack Elston; marked IMPORTANT; mid-project status update visible
-- Topics: S3 development coordination, aircraft demonstration
-- Status: Active university partnership on IRAD project
+- **Kevin S. Rozmiarek** — CU Boulder
+  - Email: Kevin.Rozmiarek@colorado.edu
+  - Projects: **[031-1] UMES S3** (aircraft demonstration)
+  - Role: Project coordinator
+  - Recent interaction: Active check-in with Jack Elston and Nate Straus (Apr 17, 2026, marked IMPORTANT); mid-project status update
+  - Contact about: S3 demonstration milestones, facility access, aircraft performance validation
 
-**Brian M Argrow, Michael Rhodes, Melissa Wagner**
-- Email: colorado.edu
-- Role: Aircraft Demonstration Team
-- Projects: Aircraft performance testing and validation
-- Context: Demonstration coordination for CU Boulder facility tour (Apr 23, 2026 scheduled with Marco Martinez)
-- Topics: Flight test support, performance validation
+- **Brian M Argrow** — CU Boulder
+  - Email: (via internal BST communications)
+  - Projects: Aircraft demonstration coordination
+  - Role: Research lead
+  - Recent interaction: Flight operations and demonstration coordination
 
-### MIT
+- **Michael Rhodes** — CU Boulder
+  - Email: (via internal BST communications)
+  - Role: Facility/aircraft operations
+  - Context: Aircraft demonstration support
 
-**Akarsh Aurora**
-- Email: aaurora@mit.edu
-- Role: External Collaborator
-- Projects: Technical partnership
-- Context: Marked IMPORTANT in Ethan Domagala correspondence
-- Status: University research partnership
+- **Melissa Wagner** — CU Boulder
+  - Email: (via internal BST communications)
+  - Role: Research coordination
+  - Context: Experimental support
 
----
+- **Marco Martinez** — CU Boulder
+  - Email: Marco.Martinez@colorado.edu
+  - Projects: S3 facility coordination
+  - Role: Facility manager
+  - Recent interaction: Facility tour coordination (Apr 23 visit scheduled; Nate Straus)
+  - Contact about: Facility access, testing windows, equipment availability
 
-## Commercial/Industry Partners
+### University of Massachusetts Lowell / UMES
 
-### Krateo Sky
-
-**Lisa Marie Cheney**
-- Email: LisaMarie@krateosky.com
-- Role: Arctic Demo Logistics Point of Contact
-- Projects: Arctic Demo in Ottawa (upcoming)
-- Context: **CRITICAL ESCALATION** — "Arctic Demo in Ottawa request" marked IMPORTANT on Apr 20, 2026; direct correspondence with Jack Elston and Maciej Stachura
-- Recent interaction: Apr 20 urgent request for Arctic operations
-- Topics: Arctic deployment logistics, site coordination, operational support
-- Status: **ACTIVE** — time-sensitive logistics coordination underway
-
-**Bob Smith, Adria Passola**
-- Email: Krateo Sky
-- Role: Partnership Escalation Contacts
-- Projects: Arctic Demo coordination
-- Context: Partnership escalation visible in Beck Cotter email threads
-- Topics: Operational support, deployment planning
-
-### NextTech Solutions
-
-**Trenton McKibben**
-- Email: NextTech Solutions
-- Role: Arctic Demo Coordinator
-- Projects: Arctic Demo in Ottawa
-- Context: Active coordination on Arctic Demo logistics (referenced in Beck Cotter correspondence)
-- Topics: Arctic operations, field support
-
-### ByLight (Air Force Contract)
-
-**Bryan Sparling**
-- Email: ByLight
-- Role: Mustang Aircraft Program Pilot/Contact
-- Projects: [043-3] ByLight M2/Halo (Mustang platform), U.S. Air Force Yuma Testing
-- Context: Flight testing coordination at Yuma; pilot for vehicle demonstrations
-- Topics: Mustang flight testing, U.S. Air Force integration
-- Status: Active USAF contract execution
-
-**Nicholas Phillips**
-- Email: nicholas.phillips@bylight.com
-- Role: HALO SOW Technical Contact
-- Projects: [043-3] ByLight M2/Halo, HALO Statement of Work
-- Context: Referenced in Ethan Domagala correspondence on HALO SOW project
-- Topics: Statement of Work execution, HALO platform coordination
+- **MIT Contact** (via internal BST communications)
+  - Contact: Akarsh Aurora (aaurora@mit.edu)
+  - Projects: **[043-3] ByLight M2/Halo** (HALO SOW)
+  - Role: Research partner
+  - Recent interaction: Marked IMPORTANT (Ethan Domagala, Apr 2026)
+  - Contact about: HALO system integration, design specifications
 
 ---
 
-## Research & Academic Partnerships
+## Industry Partners & Contractors
 
-### nanoVEU
+### Brookhaven National Laboratory (DOE)
 
-**Nikhila Ravikumar**
-- Email: Nikhila@nanoveu.com
-- Role: Simulation/ECSDoT Hardware Lead
-- Projects: E2 Energy Management System (eMASS AI integration), Simulation
-- Context: Active simulation coordination (Apr 19, 2026 IMPORTANT marked); response to Daniel Prendergast indicates ongoing partnership; intensive HWIL and model training phase (Feb-Apr 2026)
-- Recent interaction: Apr 19 simulation response coordination; daily communication during critical phases
-- Topics: Hardware-in-the-loop testing, AI model training, energy management system integration
-- Status: **ACTIVE INTENSIVE** — Critical integration partner for eMASS ECSDoT hardware
+- **Gijs de Boer** — BNL, DOE Genesis Project
+  - Email: gdeboer@bnl.gov
+  - Projects: **DOE Genesis Phase I** (Atmospheric monitoring for distributed clean energy)
+  - Role: Mission lead
+  - Recent interaction: **SUSTAINED EXTREMELY ACTIVE** as of Apr 19-20, 2026 (weekend asynchronous collaboration with Maciej Stachura on Genesis proposal, marked IMPORTANT, UNREAD); real-time proposal development coordination
+  - Contact about: Genesis Phase I proposal status, mission requirements, atmospheric measurement objectives, submission timeline (appears to be **approaching Phase I deadline**)
 
-### QuSpin (Magnetometer)
+- **Nathan Urban** — BNL
+  - Email: nurban@bnl.gov
+  - Projects: DOE Genesis Phase I
+  - Role: Collaborative proposal work
+  - Contact about: Genesis technical contributions and deliverables
 
-**Jeff**
-- Email: QuSpin
-- Role: Magnetometer Hardware/Integration Lead
-- Projects: [025-2] Navy SBIR Magnetometer (Phase II)
-- Context: External collaboration on magnetometer-equipped aircraft systems; QuSpin sensor integration lead
-- Topics: Magnetometer positioning, MuMetal shielding, sensor integration
-- Status: Phase II subcontractor relationship
+- **Fernando Llorente** — BNL
+  - Email: (via internal BST communications)
+  - Projects: DOE Genesis Phase I
+  - Role: Mission Phase content contributor
+  - Contact about: Genesis mission planning and phase objectives
 
-### Ultra Maritime (Acoustic Sensors)
+### eMASS AI (AI/ML Integration Partner)
 
-**Paul**
-- Email: Ultra Maritime
-- Role: Acoustic Sensor Subcontractor
-- Projects: [025-2] Navy SBIR Magnetometer (Phase II)
-- Context: Selected over CRT as Phase 2 subcontractor (Jan 2026); acoustic sensor integration partner
-- Topics: Acoustic sensor systems, maritime monitoring
-- Status: Phase II active subcontractor
+- **Nikhila** — eMASS AI
+  - Email: nikhila@nanoveu.com
+  - Projects: **ECSDoT Energy Management System** (E2 aircraft integration)
+  - Role: Primary developer, chip integration lead
+  - Recent interaction: **CRITICAL ACTIVE STATUS** — intensive HWIL testing and firmware debugging (Apr 20, 2026); daily communication during critical phases; connection stability debugging and hardware verification (Apr 20); Jack Elston noted simulation coordination (Apr 19, marked IMPORTANT)
+  - Contact about: ECSDoT hardware integration status, AI model training progress, firmware compatibility, E2 platform integration timeline, energy efficiency validation methodology
 
----
+- **Moe / Prof. Moe** — eMASS AI
+  - Email: (via internal BST communications)
+  - Projects: ECSDoT Energy Management System
+  - Role: AI model training and optimization
+  - Contact about: ML model performance targets, training datasets, validation approach
 
-## Insurance & Financial Services
+- **Sergio Ruocco** — eMASS AI
+  - Email: (via internal BST communications)
+  - Projects: ECSDoT Energy Management System
+  - Role: Autoboot firmware expert, SDK bring-up
+  - Contact about: Firmware implementation, SDK troubleshooting, hardware-software interface
 
-### Boulder Insurance
+- **Shantanu** — eMASS AI
+  - Email: (via internal BST communications)
+  - Projects: ECSDoT Energy Management System
+  - Role: Hardware verification and validation
+  - Contact about: Hardware performance validation, integration testing
 
-**Debbie Rampy**
-- Email: debbie@bolderins.com
-- Role: Aviation Insurance Broker
-- Projects: Black Swift Technologies Aviation Policy #9032844
-- Context: **HIGH-PRIORITY/URGENT** — 4 exchanges on Apr 17 alone; all marked IMPORTANT; policy effective 04/21/2026 (4-day deadline from Apr 17); escalated cross-team coordination with Jack Elston, Meredith Needham, Nate Straus
-- Recent interaction: Apr 17 intensive coordination on final policy negotiations
-- Topics: Aviation liability insurance, policy compliance, coverage finalization
-- Status: **CRITICAL** — Time-sensitive insurance deadline; active final negotiations
+- **Scott / Mark (CEO)** — eMASS AI Leadership
+  - Email: (via internal BST communications)
+  - Projects: ECSDoT Energy Management System strategy
+  - Role: Executive/partnership alignment
+  - Context: Performance expectations negotiation (target reset from 40-85% to 30%, BST realistic 10-15% improvement); interface freeze direction; demo-focused success criteria
 
----
+### Krateo Sky (Arctic Demo Partner)
 
-## Government Contracting & Compliance
+- **Lisa Marie Cheney** — Krateo Sky
+  - Email: LisaMarie@krateosky.com
+  - Projects: **Arctic Demo in Ottawa**
+  - Role: Primary logistics POC, partnership escalation lead
+  - Recent interaction: **SUSTAINED EXECUTION** — active request for Arctic Demo in Ottawa (Apr 20, 2026, IMPORTANT); continued primary point of contact for all deployment logistics
+  - Contact about: Arctic Demo scheduling, Ottawa logistics, partnership execution details, timeline and resource requirements
 
-### RISCPoint (DCAA Compliance)
+- **Adria Passola** — Krateo Sky
+  - Email: (via internal BST communications)
+  - Projects: Arctic Demo partnership
+  - Role: Partnership coordination
+  - Contact about: Strategic partnership alignment, deployment support
 
-**Jake Nix**
-- Email: jake.nix@riscpoint.com
-- Role: DCAA Compliance Consultant
-- Projects: Navy SBIR contracts (DCAA Pre-Award Accounting System Audit)
-- Context: Direct correspondence with Meredith Needham; marked IMPORTANT; supporting Navy contract compliance
-- Topics: DCAA accounting system audit, Navy contracting requirements, compliance documentation
-- Status: Active advisory relationship
+- **Bob Smith** — Krateo Sky
+  - Email: (via internal BST communications)
+  - Projects: Arctic Demo partnership
+  - Role: Technical/operational lead
+  - Contact about: Aircraft requirements, operational specifications for Arctic conditions
 
-**Catherine Baker**
-- Email: catherine.baker@riscpoint.com
-- Role: RISCPoint Compliance Introduction
-- Projects: DCAA audit support
-- Context: Introduction coordinator for Jake Nix / DCAA compliance work
+- **Sona Raziabeegum** — Krateo Sky Consulting
+  - Email: sona@krateosky.com
+  - Projects: DCAA audit compliance support, investor meeting coordination
+  - Role: Compliance consulting, due diligence support
+  - Context: High-frequency correspondence with Meredith Needham during investor due diligence (STARRED, IMPORTANT)
+  - Contact about: DCAA compliance requirements, investor meeting logistics
 
-### KPMG (Due Diligence & Tax)
+### NextTech Solutions (Arctic Demo)
 
-**Travis Foerschner**
-- Email: tfoerschner@kpmg.com
-- Role: KPMG Financial/Accounting Due Diligence Lead
-- Projects: Investor financial due diligence (Seed-round funding)
-- Context: **INVESTOR DD ACTIVE** — Starred, IMPORTANT; financial/accounting due diligence counsel for seed funding round
-- Topics: Financial reconciliation, tax counsel, investor documentation
-- Status: **CRITICAL** — Active financial due diligence process
+- **Trenton McKibben** — NextTech Solutions
+  - Email: (via internal BST communications)
+  - Projects: **Arctic Demo in Ottawa**
+  - Role: Arctic Demo coordination
+  - Recent interaction: Active deployment logistics (Dan Prendergast coordination, Apr 2026)
+  - Contact about: Ottawa demo scheduling, venue coordination, technical requirements for Arctic operations
 
-**Bill Jones**
-- Email: Bill@jonescpapc.com
-- Role: CPA / KPMG DD Team Coordinator
-- Projects: Investor DD financial coordination
-- Context: KPMG DD team member
-- Topics: Financial reporting, tax compliance
+### ByLight (USAF Contract Partner)
 
-### Tax & Financial Advisory
+- **Nicholas Phillips** — ByLight
+  - Email: nicholas.phillips@bylight.com
+  - Projects: **[043-3] ByLight M2/Halo USAF Contract** (Mustang aircraft development for 400km range mission)
+  - Role: Program coordinator
+  - Recent interaction: HALO SOW coordination (Ethan Domagala, Beck Cotter); active design and flight testing (Oct 2025 – Apr 2026)
+  - Contact about: Mustang/Chilli airframe development status, USAF Yuma testing schedule, COTS component specifications, design review milestones
 
-**Mark Kightlinger**
-- Email: Mark@kcotax.com
-- Role: Tax Advisor & Investor Meeting Coordinator
-- Projects: Investor financial meetings, BST financial strategy
-- Context: **VERY HIGH FREQUENCY, STARRED** — Investor DD active phase; frequent Q&A on financial reconciliation; BST prep sessions and data room coordination
-- Recent interaction: Apr 2026 ongoing investor meeting preparation
-- Topics: Tax strategy, investor meetings, financial documentation, data room management
-- Status: **PRIMARY FINANCIAL ADVISOR** — Integral to seed-round funding process
-
-**Thierry Lepoutre**
-- Email: thierry@boostrconsulting.com
-- Role: R&D Tax Credits Specialist
-- Projects: Form 6765 (2025 R&D tax credit filing)
-- Context: Specialized tax credit preparation
-- Topics: R&D tax credit documentation, Form 6765 filing
-
----
-
-## Consulting Services
-
-### Krateo Sky / DCAA Compliance
-
-**Sona Raziabeegum**
-- Email: sona@krateosky.com
-- Role: DCAA Audit Compliance Coordinator
-- Projects: Navy SBIR DCAA audit support
-- Context: Cross-functional compliance support; investor meeting coordination; KPMG DD liaison
-- Topics: DCAA compliance strategy, audit preparation, investor coordination
-
-### Boost R Consulting
-
-**Ed Kase**
-- Email: ed.kase@ekaseconsulting.com
-- Role: Invoice/Payment Coordination Lead
-- Projects: Financial/payment processing support
-- Context: Marked IMPORTANT, STARRED; handles resubmission and payment coordination
-- Topics: Invoice management, payment processing, financial documentation
+- **Bryan Sparling** — ByLight Pilot
+  - Email: (via internal BST communications)
+  - Projects: [043-3] ByLight M2/Halo (aircraft testing)
+  - Role: Test pilot, flight operations
+  - Contact about: Aircraft flight test results, pilot feedback on handling characteristics
 
 ---
 
-## Government Research Agencies (Limited Recent Context)
+## Financial & Legal Services (Investor Due Diligence Active)
 
-**Milena L. Pennamon (CIV DCAA WE)**
-- Email: milena.l.pennamon.civ@mail.mil
-- Role: DCAA Pre-Award Audit Officer
-- Projects: Navy SBIR contracts
-- Context: Marked IMPORTANT, CRITICAL; conducting Pre-Award Accounting System Audit
-- Topics: Navy contract compliance, accounting system validation
+### Tax & Accounting
 
----
+- **Mark Kightlinger** — KCOT Tax Advisors
+  - Email: Mark@kcotax.com
+  - Role: Tax advisor, investor DD lead
+  - Status: **CRITICAL — INVESTOR DUE DILIGENCE ACTIVE**
+  - Recent interaction: VERY HIGH FREQUENCY, STARRED, IMPORTANT; investor financial meetings and BST prep sessions; data room and contract document coordination
+  - Contact about: Tax filings, investor financial package preparation, due diligence documentation, financial statement review
 
-## Notes on Contact Organization
+- **Travis Foerschner** — KPMG
+  - Email: tfoerschner@kpmg.com
+  - Role: KPMG financial/accounting due diligence lead
+  - Status: **CRITICAL — INVESTOR DUE DILIGENCE ACTIVE**
+  - Recent interaction: STARRED, IMPORTANT; financial and tax counsel for investor evaluation
+  - Contact about: Financial due diligence scope, accounting standards alignment, investor reporting requirements
 
-This directory focuses on the **most important external relationships with recent (Apr 2026) or sustained interaction context**. Contacts are grouped by organizational affiliation and relationship type (government, technology partners, financial advisors, etc.).
+- **Bill Jones** — Jones CPA PC
+  - Email: Bill@jonescpapc.com
+  - Role: CPA, KPMG DD team coordination
+  - Status: **INVESTOR DUE DILIGENCE ACTIVE**
+  - Contact about: KPMG due diligence coordination, financial data preparation
 
-**Key relationship status indicators:**
-- 🔴 **CRITICAL/ELEVATED PRIORITY** — Recent urgent coordination, time-sensitive projects, or weekend/after-hours engagement
-- 🟡 **ACTIVE** — Ongoing project coordination with recent interaction
-- 🟢 **SUSTAINED** — Established long-term partnerships with steady engagement
+- **Cheryl Kloeckner** — KCOT Tax Advisors / KPMG DD Team
+  - Email: Cheryl@kcotax.com
+  - Role: KPMG DD financial coordination
+  - Contact about: KPMG financial coordination, investor documentation
 
-**Contact strategy recommendations:**
-- **Krateo Sky (Lisa Marie Cheney)** — Arctic Demo logistics urgent; prioritize response
-- **BNL (Gijs de Boer)** — Genesis proposal near submission; maintain momentum
-- **Boulder Insurance (Debbie Rampy)** — Policy deadline 04/21/2026; confirmation required
-- **KPMG/Mark Kightlinger**
+- **Claudia Behnke** — Financial Advisor
+  - Email: chbehnke@mac.com
+  - Role: High-frequency financial Q&A
+  - Status: **INVESTOR DUE DILIGENCE ACTIVE — VERY ACTIVE (Apr 17, 2026)**
+  - Recent interaction: Extensive financial reconciliation and BST questions; travel coordination; STARRED, IMPORTANT
+  - Contact about: Financial reconciliation details, investor data room questions, travel coordination for investor meetings
+
+- **Thierry Lepoutre** — BoostR Consulting
+  - Email: thierry@boostrconsulting.com
+  - Role: R&D tax credits specialist
+  - Context: Form 6765 (2025 tax year) preparation
+  - Contact about: R&D tax credit documentation, eligible expense substantiation
+
+### Compliance &

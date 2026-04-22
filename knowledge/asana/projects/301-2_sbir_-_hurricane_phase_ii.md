@@ -75,5 +75,6 @@ Final project phase (Aug-Oct 2024) focused on hurricane field operations and sys
 **Field Deployment**: Successfully conducted hurricane field studies in partnership with NOAA Hurricane Research Division (HRD) and National Hurricane Center (NHC), with units staged at NOAA Atlantic Oceanographic and Meteorological Laboratory (AOML) in Miami.
 
 **Related Government Initiatives** (April 2026 context):
-- Team monitoring NASA RFI opportunities related to hurricane ET (Environmental Tracking) — see: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view (flagged by Alex Lomis, 4/20/26)
-- Other BST contracts in active phase: Navy STTR (submitted with invoice) and SBIR Magnetometer (kick-off and FWA Certification due April 14, 2026)
+- Team monitoring **NASA RFI opportunity** related to hurricane ET (Environmental Tracking) — https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view (flagged by Alex Lomis, 4/20/26; recommended by NASA contacts and Dr. Joe Cione)
+- **Navy STTR**: Submitted with invoice (per Meredith Needham, 4/17/26)
+- **SBIR Magnetometer** (Navy): Kicked off as of 4/21/26; technical lead assigned; FWA Certification and kick-off deliverables (including slidedeck) due 4/14/26 — templates available at https://navysbir.com/links_forms.htm (per Meredith Needham, 4/17/26)
