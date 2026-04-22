@@ -27,15 +27,16 @@
 
 ## Recent Activity
 Project completed in March 2025 with all deliverables on or ahead of schedule:
+- **January 15, 2025**: R. Kolyer requested aircraft return after probe installation and requested short technical write-up of hardware & software work for NASA airworthiness review presentation
 - **January 22, 2025**: Launcher delivered to CU partner (Kevin); awaiting return coordination
 - **March 19, 2025**: MHP installation confirmed, avionics reinstalled, SIM card testing completed, iridium firmware updated, aircraft preflight performed, technical write-up delivered
 - **March 20-21, 2025**: Aircraft packed for shipment
 - **March 27, 2025**: Aircraft shipped via FedEx to NASA Ames
 
 ## Notes & Context
-- **Additional scope**: Customer requested testing of their new launcher setup; launcher modification was handled by CU partner (Kevin), with unit arriving at CU by late January 2025
-- **Documentation**: Technical write-up required for R. Kolyer's presentation at NASA airworthiness review
+- **Additional scope**: Customer requested testing of their new launcher setup; launcher modification was handled by CU partner (Kevin), with unit arriving at CU by late January 2025. Engineering review of drawings uncovered some items requiring modification (details incomplete in notes as of Jan 4, 2025).
+- **Documentation**: Technical write-up delivered to R. Kolyer for presentation at NASA airworthiness review
 - **Subcontractor**: N/A ($0 subcontract amount)
 - **Customer type**: Commercial
 - **Products/Services**: MHP product/service delivery
-- **NASA RFI**: Alex Lomis (2026-04-17, 2026-04-20) recommended reviewing a NASA RFI link on a hurricane engineering & technology call involving NASA contacts and Joe: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view (context: may indicate future opportunity or follow-on work with NASA)
+- **NASA RFI opportunity**: Alex Lomis (2026-04-17, 2026-04-20) shared a NASA RFI link recommended by NASA contacts and Joe on a hurricane engineering & technology call: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view (context: may indicate future opportunity or follow-on work with NASA)

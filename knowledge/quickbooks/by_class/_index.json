@@ -1,0 +1,24 @@
+{
+  "period": {
+    "start": "2025-04-21",
+    "end": "2026-04-21"
+  },
+  "scanned_at": "2026-04-21",
+  "projects": [
+    {
+      "project_code": "_unclassified",
+      "revenue": 5379945.4,
+      "expenses": 1853926.04,
+      "invoice_count": 68,
+      "bill_count": 117,
+      "purchase_count": 993,
+      "po_count": 4,
+      "payment_count": 50,
+      "qbo_class_names": [
+        "BST Internal",
+        "Commercial",
+        "Government"
+      ]
+    }
+  ]
+}

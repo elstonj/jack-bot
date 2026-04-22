@@ -15,9 +15,13 @@
     - CLIN 0005 (Kick-Off & FWA Certification): Due April 14, 2026 ✓ **COMPLETED**
     - CLIN 0006 (Progress Report): Due June 29, 2026
     - CLIN 0007 (Final Report): Due September 28, 2026
-- **Status:** Active – Option Period underway (started April 14, 2026)
-- **Team Members:** Alex Lomis (owner/PM), Jack Elston, Meredith O'hara Needham, Maciej Stachura, Beck Cotter, Dan Prendergast
-- **Risk Signals:** None. CLIN 0005 deliverables (kick-off report and invoice) completed on schedule (April 14, 2026). CLIN 0006 and 0007 on track. Per Maciej Stachura (Apr 17, 2026): "Tasks for the Navy project is done, but you can remind me of the meeting on the day of" — all assigned Navy work complete, team ready for next milestones.
+- **Status:** Active – Option Period underway (kicked off April 21, 2026). Per Maciej Stachura (Apr 21, 2026): "the Navy SBIR Magnetometer project has kicked off as of today. Make sure to track those tasks as part of the daily updates." **Technical lead: Jack Elston** with support from Alex Lomis, Maciej Stachura, Beck Cotter, Meredith O'hara Needham, and Dan Prendergast.
+- **Team Members:** Alex Lomis (PM/owner), Jack Elston (technical lead), Maciej Stachura, Beck Cotter, Meredith O'hara Needham, Dan Prendergast
+- **Risk Signals:** 
+  - **Heavy task load on Alex Lomis:** 7 of 13 open tasks assigned to him, spanning design, procurement, build, and flight testing through Aug 17.
+  - **Compressed timeline:** Design phase (Apr 27–May 5) feeds directly into build (May 19) and ground testing (May 29), with hand-launched flights due July 1 and Camp Pendleton demo due Aug 17—all before CLIN 0007 final report deadline (Sep 28).
+  - **Critical path dependencies:** Ground testing (May 29) depends on completed design (Apr 27) and part ordering (May 5); hand-launched flights (July 1) depend on build completion (June 12); Camp Pendleton demo (Aug 17) depends on finalized flight plans (Aug 10).
+  - **External dependencies:** Camp Pendleton permissions/frequencies (Beck Cotter, due Jun 1) and flight plan finalization (Alex Lomis, due Aug 10).
 
 ## Key Deliverables & Milestones
 
@@ -28,83 +32,54 @@
 | 0006 | Progress Report + Invoice | $35,000 | Jun 29, 2026 | In Progress |
 | 0007 | Final Report + Invoice | $14,459 | Sep 28, 2026 | Pending |
 
+**Technical Milestones (Option Period):**
+| Milestone | Owner | Due Date | Status |
+|---|---|---|---|
+| Complete design of ground testing S0-MAD (both mags) | Alex Lomis | Apr 27, 2026 | Open |
+| Preliminary design mods for reusable S0-MAD | Alex Lomis | May 1, 2026 | Open |
+| Order parts for S0-MAD reusable | Alex Lomis | May 5, 2026 | Open |
+| Design onboard logging (both mag sensors) | Jack Elston | May 8, 2026 | Open |
+| Finalize Python plotting/analysis tools | Maciej Stachura | May 13, 2026 | Open |
+| Configure settings for both mag sensors | Maciej Stachura | May 18, 2026 | Open |
+| Build ground testing S0-MAD (flight-like) | Alex Lomis | May 19, 2026 | Open |
+| Ground testing with throttle settings | Alex Lomis | May 29, 2026 | Open |
+| Finalize Camp Pendleton permissions & frequencies | Beck Cotter | Jun 1, 2026 | Open |
+| Build hand-launched S0-MAD | Alex Lomis | Jun 12, 2026 | Open |
+| Local test flights (hand-launched with both sensors) | Alex Lomis | Jul 1, 2026 | Open |
+| Finalize Camp Pendleton flight plans & aircraft | Alex Lomis | Aug 10, 2026 | Open |
+| Camp Pendleton demo flights | Alex Lomis | Aug 17, 2026 | Open |
+
 **Phase I (Completed January 2026):**
-- Magnetometer Design, Analysis, and Testing
-- Acoustic Sensor Design, Analysis, and Testing
-- S0 platform modification and CAD delivery
-- Motor interference characterization and shielding analysis
-- DD882 interim patent form filed (Jan 28, 2026)
-- All Phase I reports and invoices submitted and paid (Feb 9–11, 2026)
+- Magnetometer Design, Analysis, and Testing ✓
+- Acoustic Sensor Design, Analysis, and Testing ✓
+- S0 platform modification and CAD delivery ✓
+- Motor interference characterization and shielding analysis ✓
+- DD882 interim patent form filed (Jan 28, 2026) ✓
+- All Phase I reports and invoices submitted and paid (Feb 9–11, 2026) ✓
 
 ## Task Summary
-- **Total Tasks (Asana):** 6 open, 0 completed in current view — represents Option Period deliverables + Navy contact records
-  - Full project history: 33+ total tasks across Phase I and Option Period (27 Phase I tasks completed; 6 Option Period tasks, 2 now completed)
-- **Tasks by Assignee (Current):**
-  - **Jack Elston:** 2 open tasks
-    - CLIN 0006 Progress Report (Due Jun 29, 2026)
-    - CLIN 0007 Final Report (Due Sep 28, 2026)
-    - *Status:* Phase I reports completed on-time; ready for Option Period deliverables
-  - **Meredith O'hara Needham:** 2 open tasks
-    - CLIN 0006 Invoice $35,000 (Due Jun 29, 2026)
-    - CLIN 0007 Invoice $14,459 (Due Sep 28, 2026)
-    - *Status:* CLIN 0005 invoice ($50,000) submitted Apr 14 ✓; confirmed with Meredith (Apr 17, 2026) that report templates and processes in place
-  - **Angel Ruiz-Reyes & Anthony Brescia:** Unassigned tasks (no due dates) — Navy contact records for reference
-- **Completion Pattern:** Phase I achieved 100% on-time delivery with clear CLIN structure. Option Period replicating same cadence: report + invoice pairs due at defined intervals.
+- **Total Tasks (Current):** 13 open, 0 completed (all Option Period technical work)
+- **Full Project History:** 46+ total tasks across Phase I and Option Period (27 Phase I tasks completed; 19 Option Period tasks, 6 administrative now completed, 13 technical work ongoing)
+- **Tasks by Assignee (Current Option Period):**
+  - **Alex Lomis:** 7 open tasks (54% of workload)
+    - Design (Apr 27, May 1), procurement (May 5), build (May 19), ground testing (May 29), hand-launched flights (Jul 1), Camp Pendleton planning & demo (Aug 10, Aug 17)
+    - *Critical path owner for design→build→test sequence*
+  - **Jack Elston:** 1 open task
+    - Onboard logging design for both mag sensors (Due May 8)
+    - *Technical lead; Phase I reports completed on-time*
+  - **Maciej Stachura:** 2 open tasks
+    - Python plotting/analysis tools finalization (Due May 13)
+    - Mag sensor settings configuration (Due May 18)
+  - **Beck Cotter:** 1 open task
+    - Camp Pendleton permissions/frequencies finalization (Due Jun 1)
+  - **Meredith O'hara Needham:** 0 open tasks (administrative role)
+    - CLIN 0006 Invoice ($35,000, Due Jun 29) and CLIN 0007 Invoice ($14,459, Due Sep 28) pending in background
+  - **Dan Prendergast:** No assigned tasks
+- **Completion Pattern:** Phase I achieved 100% on-time delivery. Option Period replicating same cadence: administrative deliverables (reports + invoices) paired with technical work stream; technical milestones span Apr 27–Aug 17 with 2-month buffer before final report deadline (Sep 28).
 
 ## Recent Activity
 
-**Option Period Launch (April 2026):**
+**Option Period Kick-Off (April 2026):**
 - CLIN 0005 Kick-Off & FWA Certification Report submitted by Jack Elston (Apr 14, 2026) ✓
 - CLIN 0005 Invoice ($50,000) submitted by Meredith O'hara Needham (Apr 14, 2026) ✓
-- **Note (Meredith Needham, Apr 17, 2026):** Navy STTR also submitted along with invoice; confirmed kick-off and FWA Certification due date met; audit of Asana due dates underway to ensure alignment with Navy deadlines
-- **Note (Maciej Stachura, Apr 17 & 20, 2026):** "Tasks for the Navy project is done" — all team members' current Option Period work complete; team ready to proceed
-- Project status marked green (Mar 16, 2026) confirming readiness for Option Period start
-
-**Phase I Closure (January–February 2026):**
-- Final magnetometer and acoustic testing completed (Jan 12, 2026)
-- S0 platform design modifications and CAD delivered (Jan 5–19, 2026)
-- Motor interference characterization and shielding analysis completed
-- Final reports and invoices (CLINs 003–004) submitted (Jan 12–13, 2026)
-- DD882 interim patent form filed (Jan 28, 2026)
-- Final Phase I payment received and project closed (Feb 9–11, 2026)
-
-## Notes & Context
-
-**Technical Scope:**
-- Integrating magnetic anomaly detection (MAD) and passive acoustic sensing into S0 small UAS platform
-- Phase I demonstrated technical feasibility through laboratory testing and validation
-- Field testing component mentioned in project notes (text cut off) — likely planned for Option Period or subsequent phases
-
-**Key Phase I Achievements:**
-- S0 platform successfully modified for dual-sensor integration
-- Motor interference characterization validated with shielding solutions
-- Acoustic sensor integration with Cetacean Research Technology (CRT) completed
-- QuSpin magnetometer integration and laboratory testing successful
-- Government awarded Option Period, confirming strong Phase I performance and technical merit
-
-**Partners & Subcontractors:**
-- Cetacean Research Technology (CRT) — acoustic sensor integration
-- QuSpin — magnetometer supply and integration support
-- Work conducted at BST facilities
-
-**Contractual & Administrative:**
-- Navy SBIR award structure with CLIN-based deliverables
-- Report templates available at: https://navysbir.com/links_forms.htm
-- All reports must prominently display:
-  - Contractor name and business address
-  - Contract/award number
-  - CLIN details
-  - Letterhead or cover page (for progress reports)
-- Invoices submitted via WAWF (Wide Area Workflow) with receiving reports
-- Customer Type: Government
-- No subcontractor budget line items
-
-**Process Notes (Meredith Needham, Apr 17, 2026):**
-- Report templates and instructions located in Asana Project Brief under "Award Deliverable Templates"
-- All Asana due dates under review for alignment with Navy deadlines (work in progress post-Apr 17)
-
-**Next Milestones:**
-- **CLIN 0006 Progress Report:** Due June 29, 2026 (Jack Elston)
-- **CLIN 0006 Invoice:** Due June 29, 2026 (Meredith O'hara Needham) — $35,000
-- **CLIN 0007 Final Report:** Due September 28, 2026 (Jack Elston)
-- **
+- Navy STTR also submitted with invoice (Meredith
