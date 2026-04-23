@@ -224,17 +224,74 @@ def _load_qbo_by_class(project_code: str) -> Optional[dict]:
     return None
 
 
-def _load_purchase_totals(project_code: str) -> tuple[float, float]:
+def _project_hint_keywords(name: str) -> set[str]:
+    """Tokens from a project's name we can fuzzy-match against email text.
+
+    Drops common stopwords / structural words that would false-match other
+    projects (e.g. "phase", "view"). Only keeps tokens ≥ 4 chars or obvious
+    acronyms. Lowercased.
+    """
+    stop = {
+        "phase", "view", "project", "and", "the", "for", "with",
+        "bst", "black", "swift", "x", "ii", "iii", "iv",
+        # Category-generic words that would collide across projects:
+        "irad", "support", "general", "training", "maintenance",
+        "monitoring", "integration", "services", "x2", "x4",
+    }
+    tokens: set[str] = set()
+    for tok in re.split(r"[\s\[\]\-_,()/&:]+", name.lower()):
+        tok = tok.strip(".")
+        if not tok or tok in stop:
+            continue
+        if len(tok) >= 4 or tok.isupper():
+            tokens.add(tok)
+    return tokens
+
+
+def _purchase_matches_project(
+    record: dict,
+    canon: str,
+    variants: set[str],
+    name_keywords: set[str],
+) -> bool:
+    """True if this purchase record should be attributed to `canon`."""
+    raw_code = (record.get("project_code") or "").strip()
+    if raw_code and _canonicalize_code(raw_code) in variants:
+        return True
+
+    if not name_keywords:
+        return False
+
+    haystack = " ".join(
+        str(record.get(k) or "")
+        for k in ("project_hint", "subject", "description", "vendor", "notes")
+    ).lower()
+    if not haystack.strip():
+        return False
+
+    # Fuzzy match: require at least one keyword ≥ 5 chars hit OR 2+ keyword hits
+    long_hits = sum(1 for kw in name_keywords if len(kw) >= 5 and kw in haystack)
+    any_hits = sum(1 for kw in name_keywords if kw in haystack)
+    return long_hits >= 1 or any_hits >= 2
+
+
+def _load_purchase_totals(project_code: str, project_name: str = "") -> tuple[float, float]:
     """Sum purchasing@ email records for this project.
 
     Returns (spent_older_than_window, committed_within_window). Records with
-    `is_purchase=false` or missing amounts are ignored. Matches both dash and
-    underscore forms of the canonical code.
+    `is_purchase=false` or missing amounts are ignored.
+
+    Matching strategy:
+      1. Literal project_code match (canonical form).
+      2. Fuzzy match by project_hint/subject/description/vendor against project
+         name keywords — catches the 99% of purchase emails that reference a
+         project by informal name ("Mexico", "INSTAAR") rather than code.
     """
     if not PURCHASES_DIR.exists():
         return (0.0, 0.0)
     canon = _canonicalize_code(project_code)
     variants = {canon, canon.replace("-", "_")}
+    name_keywords = _project_hint_keywords(project_name) if project_name else set()
     cutoff = date.today() - timedelta(days=COMMITTED_WINDOW_DAYS)
     spent = 0.0
     committed = 0.0
@@ -246,10 +303,7 @@ def _load_purchase_totals(project_code: str) -> tuple[float, float]:
         for r in recs:
             if not r.get("is_purchase"):
                 continue
-            raw_code = (r.get("project_code") or "").strip()
-            if not raw_code:
-                continue
-            if _canonicalize_code(raw_code) not in variants:
+            if not _purchase_matches_project(r, canon, variants, name_keywords):
                 continue
             amt = r.get("amount_usd")
             try:
@@ -670,7 +724,7 @@ def build_project_state(
         )
 
     # --- purchases from purchasing@ emails (week 2) ---
-    purch_spent, purch_committed = _load_purchase_totals(code)
+    purch_spent, purch_committed = _load_purchase_totals(code, project_name=name)
     if purch_spent or purch_committed:
         state.budget.spent.purchases = SpendBreakdown(
             amount=purch_spent,

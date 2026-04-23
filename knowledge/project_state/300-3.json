@@ -13,29 +13,58 @@
   },
   "contract": {
     "type": "unknown",
-    "number": null,
+    "number": "1305M226D0012",
     "total_value": 483000.0,
-    "start_date": "2026-07-31",
-    "end_date": "2026-07-31",
-    "payment_cadence": null,
-    "documents": []
+    "start_date": "2026-02-01",
+    "end_date": "2031-01-31",
+    "payment_cadence": "per ordering period (annual February–January cycle); FFP per aircraft, per training course, per deployment; T&M for NRE extensions; Travel reimbursable per FTR",
+    "documents": [
+      "drive://Budget Structure",
+      "drive://(1305M226D0012) Attachment 1-Specifications_Black Swift.pdf",
+      "drive://(1305M226D0012) Attachment 2-Schedule of Items and Prices_1305M226D0012.pdf"
+    ]
   },
   "budget": {
-    "approved": 483000.0,
-    "approved_source": "asana_custom_field",
-    "line_items": [],
+    "approved": 13681750.0,
+    "approved_source": "sow_drive",
+    "line_items": [
+      {
+        "category": "Equipment",
+        "amount": 11186250.0,
+        "description": "Black Swift S0 sUAS Platforms: 150 units @ $18,000 (Period 1: $2.7M), 150 @ $18,630 (Period 2: $2.7945M), 125 @ $19,282 (Period 3: $2.410M), 125 @ $19,957 (Period 4: $2.4946M), 125 @ $20,655 (Period 5: $2.5819M)",
+        "source_doc": null
+      },
+      {
+        "category": "Labor",
+        "amount": 427500.0,
+        "description": "Operations and Training Support: Mission Days (30 @ $2,850 × 5 periods = $427.5K), Operational/Testing Support (6 @ $6,000 × 5 = $180K), Operator/Observer Training (1 @ $6,000 × 5 = $30K), Instructor Training (1 @ $600 × 5 = $3K), Course Development (Operator/Observer @ $6K × 5 = $30K, Instructor @ $6K × 5 = $30K)",
+        "source_doc": null
+      },
+      {
+        "category": "Travel",
+        "amount": 250000.0,
+        "description": "Travel for Operational Support: NTE $50,000 per ordering period × 5 periods = $250,000 (FTR-compliant per Section 5.3)",
+        "source_doc": null
+      },
+      {
+        "category": "Other",
+        "amount": 990000.0,
+        "description": "Non-recurring Engineering: Technical Documentation of Software/Hardware Development (NTE $66K × 5 = $330K), Modeling (NTE $66K × 5 = $330K), NHC operational workflow integration (NTE $66K × 5 = $330K)",
+        "source_doc": null
+      }
+    ],
     "spent": {
       "labor": {
         "amount": 83388.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-04-22"
+        "last_updated": "2026-04-23"
       },
       "purchases": {
         "amount": 0.0,
-        "source": "purchasing@ emails (not yet wired)",
-        "confidence": "placeholder",
-        "last_updated": null
+        "source": "purchasing@ emails (older than 30 days)",
+        "confidence": "estimate",
+        "last_updated": "2026-04-23"
       },
       "other_qbo": {
         "amount": 174835.11,
@@ -46,10 +75,10 @@
       "total": 258223.86,
       "by_line_item": {}
     },
-    "committed": 0.0,
-    "remaining": 224776.14,
+    "committed": 902.06,
+    "remaining": 13422624.08,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-04-23T05:34:05Z"
+    "last_reconciled": "2026-04-23T06:32:56Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -160,6 +189,6 @@
       "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
     }
   ],
-  "last_full_rebuild": "2026-04-23T05:34:05Z",
+  "last_full_rebuild": "2026-04-23T06:32:56Z",
   "last_incremental_update": null
 }

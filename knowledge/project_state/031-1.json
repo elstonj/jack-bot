@@ -29,11 +29,11 @@
         "amount": 12607.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-04-22"
+        "last_updated": "2026-04-23"
       },
       "purchases": {
         "amount": 0.0,
-        "source": "purchasing@ emails (not yet wired)",
+        "source": "purchasing@ emails (no records matched this project)",
         "confidence": "placeholder",
         "last_updated": null
       },
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 64736.15,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-04-23T05:33:26Z"
+    "last_reconciled": "2026-04-23T06:32:02Z"
   },
   "milestones": [
     {
@@ -98,6 +98,6 @@
       "text": "From Jack: <@U014U9WMK2A> - I'd probably add that the highest priority due to lead time, etc. is getting that S3 together for UMES.   We need to make whatever changes we feel are necessary to the design and get that going (if we haven't already).  Also, I believe we need to do another run of PCB's so there's some risk there.   From what <@U06KRHPQSRH> says that opportunity runs out end of may."
     }
   ],
-  "last_full_rebuild": "2026-04-23T05:33:26Z",
+  "last_full_rebuild": "2026-04-23T06:32:02Z",
   "last_incremental_update": null
 }

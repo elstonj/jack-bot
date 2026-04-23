@@ -29,11 +29,11 @@
         "amount": 23086.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-04-22"
+        "last_updated": "2026-04-23"
       },
       "purchases": {
         "amount": 0.0,
-        "source": "purchasing@ emails (not yet wired)",
+        "source": "purchasing@ emails (no records matched this project)",
         "confidence": "placeholder",
         "last_updated": null
       },
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 66866.95,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-04-23T05:33:46Z"
+    "last_reconciled": "2026-04-23T06:32:35Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -106,6 +106,6 @@
       "text": "From Maciej (ts=1776649988.110059): <@U0AQE94HJUT>, we have 4 main technical goals/milestone next week I think:\n1. EMASS flight tests (<@U04CZK4K7P0> , <@U06CCFTNBS6>, and <@U01511MEQ90>)\n2. S0-VTOL restart to find and fix the crash bug (<@U058LGYMEQ0> and <@U014ZL9FLE9>)\n3. S3 work to find the crash bug and flight test on S1-22 and hover test S3 (<@U06NQAYBLRK>, <@U01511MEQ90>, and <@U014U9WMK2A>)\n4. Mustang Progress (<@U06CCFTNBS6> and <@U058LGYMEQ0>)\nThose should all be capture in Asana (I ju"
     }
   ],
-  "last_full_rebuild": "2026-04-23T05:33:46Z",
+  "last_full_rebuild": "2026-04-23T06:32:35Z",
   "last_incremental_update": null
 }

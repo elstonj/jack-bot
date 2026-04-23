@@ -12,13 +12,17 @@
     "contacts": []
   },
   "contract": {
-    "type": "unknown",
+    "type": "t_and_m",
     "number": null,
     "total_value": 242540.0,
     "start_date": "2026-09-28",
     "end_date": "2026-09-28",
-    "payment_cadence": null,
-    "documents": []
+    "payment_cadence": "monthly milestone-based",
+    "documents": [
+      "drive://Statement of Work",
+      "drive://CRT-90P Hydrophone User Guide Rev 2.pdf",
+      "drive:// Cetacean Inv_8925194 (10.14.25).pdf"
+    ]
   },
   "budget": {
     "approved": 242540.0,
@@ -29,13 +33,13 @@
         "amount": 27587.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-04-22"
+        "last_updated": "2026-04-23"
       },
       "purchases": {
         "amount": 0.0,
-        "source": "purchasing@ emails (not yet wired)",
-        "confidence": "placeholder",
-        "last_updated": null
+        "source": "purchasing@ emails (older than 30 days)",
+        "confidence": "estimate",
+        "last_updated": "2026-04-23"
       },
       "other_qbo": {
         "amount": 8114.18,
@@ -46,10 +50,10 @@
       "total": 35701.68,
       "by_line_item": {}
     },
-    "committed": 0.0,
-    "remaining": 206838.32,
+    "committed": 185.15,
+    "remaining": 206653.17,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-04-23T05:34:31Z"
+    "last_reconciled": "2026-04-23T06:34:17Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -208,6 +212,6 @@
       "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
     }
   ],
-  "last_full_rebuild": "2026-04-23T05:34:31Z",
+  "last_full_rebuild": "2026-04-23T06:34:17Z",
   "last_incremental_update": null
 }
