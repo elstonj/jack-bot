@@ -1,0 +1,51 @@
+{
+  "project_code": "001-3",
+  "qbo_class_names": [
+    "(001-3) IRAD S0"
+  ],
+  "period": {
+    "start": "2025-04-22",
+    "end": "2026-04-22"
+  },
+  "totals": {
+    "revenue": 0.0,
+    "expenses": 38.28,
+    "by_category": {
+      "Indirect Cost:Internal Research and DevelopmentX (deleted)": 38.28
+    }
+  },
+  "invoices": [],
+  "bills": [],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2025-07-24",
+      "doc_number": "SS11383",
+      "total": 38.28,
+      "attributed": 38.279999999999994,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 15.99,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "X2208 Brushless Motor"
+        },
+        {
+          "amount": 16.99,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "SunnySky X2212 Brushless Motor"
+        },
+        {
+          "amount": 5.3,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Shipping (IRAD S0)"
+        }
+      ]
+    }
+  ],
+  "purchase_orders": [],
+  "payments": []
+}

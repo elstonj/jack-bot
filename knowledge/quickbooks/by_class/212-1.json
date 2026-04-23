@@ -1,0 +1,41 @@
+{
+  "project_code": "212-1",
+  "qbo_class_names": [
+    "[212-1] S2 Simulator + Warranty Work"
+  ],
+  "period": {
+    "start": "2025-04-22",
+    "end": "2026-04-22"
+  },
+  "totals": {
+    "revenue": 0.0,
+    "expenses": 214.5,
+    "by_category": {
+      "DIRECT COSTS:DC-Direct Cost Purchases": 214.5
+    }
+  },
+  "invoices": [],
+  "bills": [],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-03-27",
+      "doc_number": "KDE17071",
+      "total": 214.5,
+      "attributed": 214.5,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 214.5,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Brushless Motor for Heavy-Lift Electric Multi-Rotor (sUAS) Series"
+        }
+      ]
+    }
+  ],
+  "purchase_orders": [],
+  "payments": []
+}

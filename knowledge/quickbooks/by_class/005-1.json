@@ -1,0 +1,835 @@
+{
+  "project_code": "005-1",
+  "qbo_class_names": [
+    "(005-1) Barbados Meteorological Services"
+  ],
+  "period": {
+    "start": "2025-04-22",
+    "end": "2026-04-22"
+  },
+  "totals": {
+    "revenue": 0.0,
+    "expenses": 7309.76,
+    "by_category": {
+      "Indirect Cost:Travel Expenses:Lodging (deleted)": 2336.75,
+      "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)": 1585.36,
+      "Indirect Cost:Travel Expenses:Airfare (deleted)": 1497.77,
+      "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare (deleted)": 689.38,
+      "OVERHEAD:OH-Other Travel Expenses": 506.62,
+      "Inventory Asset": 221.68,
+      "DIRECT COSTS:DC-Direct Cost Purchases": 219.9,
+      "Indirect Cost:Travel Expenses:Away Meals (deleted)": 165.04,
+      "Indirect Cost:TaxesX (deleted)": 34.47,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 32.9,
+      "Sales Tax Payable": 19.89
+    }
+  },
+  "invoices": [],
+  "bills": [],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2025-07-25",
+      "doc_number": "",
+      "total": 3230.55,
+      "attributed": 743.13,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 658.0,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "Meerkat Operating System x 1"
+        },
+        {
+          "amount": 658.0,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "Meerkat Operating System x 1"
+        },
+        {
+          "amount": 658.0,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "Meerkat Operating System x 1"
+        },
+        {
+          "amount": 658.0,
+          "account": "Inventory Asset",
+          "description": "Meerkat Operating System x 1"
+        },
+        {
+          "amount": 258.0,
+          "account": "Inventory Asset",
+          "description": "MX Master 35 Wireless Mouse x 2"
+        },
+        {
+          "amount": 37.46,
+          "account": "Indirect Cost:TaxesX (deleted)",
+          "description": "Sales Tax (Barbados)"
+        },
+        {
+          "amount": 37.46,
+          "account": "Indirect Cost:TaxesX (deleted)",
+          "description": "Sales Tax (Embry Riddle)"
+        },
+        {
+          "amount": 37.46,
+          "account": "Indirect Cost:TaxesX (deleted)",
+          "description": "Sales Tax (Oklahoma)"
+        },
+        {
+          "amount": 37.47,
+          "account": "Indirect Cost:TaxesX (deleted)",
+          "description": "Sales Tax (commercial - geneal)"
+        },
+        {
+          "amount": 47.67,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Barbados)"
+        },
+        {
+          "amount": 47.67,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Embry Riddle)"
+        },
+        {
+          "amount": 47.67,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Oklahoma)"
+        },
+        {
+          "amount": 47.69,
+          "account": "Inventory Asset",
+          "description": "Shipping (commercial - general)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-09",
+      "doc_number": "",
+      "total": 22.0,
+      "attributed": 22.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "ERACTOLLXXXXXXXXXX - 4699",
+      "lines": [
+        {
+          "amount": 22.0,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "ERACTOLLXXXXXXXXXX - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-09",
+      "doc_number": "",
+      "total": 385.0,
+      "attributed": 385.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DEN PUBLIC PARKING - 4699",
+      "lines": [
+        {
+          "amount": 385.0,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "DEN PUBLIC PARKING - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-09",
+      "doc_number": "",
+      "total": 2173.13,
+      "attributed": 2173.13,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "BARBADOS HILTON - 4699",
+      "lines": [
+        {
+          "amount": 2173.13,
+          "account": "Indirect Cost:Travel Expenses:Lodging (deleted)",
+          "description": "BARBADOS HILTON - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-08",
+      "doc_number": "",
+      "total": 25.0,
+      "attributed": 25.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AA WIFI 1-888-649-6711 - 4699",
+      "lines": [
+        {
+          "amount": 25.0,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "AA WIFI 1-888-649-6711 - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-07",
+      "doc_number": "",
+      "total": 48.74,
+      "attributed": 48.74,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SOL AIRPORT - 4699",
+      "lines": [
+        {
+          "amount": 48.74,
+          "account": "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare (deleted)",
+          "description": "SOL AIRPORT - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-07",
+      "doc_number": "",
+      "total": 45.79,
+      "attributed": 45.79,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HERTZ CAR RENTAL - 4699",
+      "lines": [
+        {
+          "amount": 45.79,
+          "account": "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare (deleted)",
+          "description": "HERTZ CAR RENTAL - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-07",
+      "doc_number": "",
+      "total": 25.0,
+      "attributed": 25.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AA WIFI 1-888-649-6711 - 4699",
+      "lines": [
+        {
+          "amount": 25.0,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "AA WIFI 1-888-649-6711 - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-07",
+      "doc_number": "",
+      "total": 16.66,
+      "attributed": 16.66,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HILTON BARBA >ST MICHAE - 4699",
+      "lines": [
+        {
+          "amount": 16.66,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "HILTON BARBA >ST MICHAE - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-07",
+      "doc_number": "",
+      "total": 14.07,
+      "attributed": 14.07,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "GRAB N GO >CHRIST CHURC - 4699",
+      "lines": [
+        {
+          "amount": 14.07,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "Barbados Trip"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-07",
+      "doc_number": "",
+      "total": 5.0,
+      "attributed": 5.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "UBER *TRIP - 4699",
+      "lines": [
+        {
+          "amount": 5.0,
+          "account": "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare (deleted)",
+          "description": "UBER *TRIP - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-05",
+      "doc_number": "",
+      "total": 22.61,
+      "attributed": 22.61,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "EDEN ON THE SEA - 4699",
+      "lines": [
+        {
+          "amount": 22.61,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "Barbados Trip"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-05",
+      "doc_number": "",
+      "total": 10.9,
+      "attributed": 10.9,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HILTON BARBA >ST MICHAE - 4699",
+      "lines": [
+        {
+          "amount": 10.9,
+          "account": "Indirect Cost:Travel Expenses:Lodging (deleted)",
+          "description": "HILTON BARBA >ST MICHAE - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-05",
+      "doc_number": "",
+      "total": 7.69,
+      "attributed": 7.69,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HILTON BARBA >ST MICHAE - 4699",
+      "lines": [
+        {
+          "amount": 7.69,
+          "account": "Indirect Cost:Travel Expenses:Lodging (deleted)",
+          "description": "HILTON BARBA >ST MICHAE - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-05",
+      "doc_number": "",
+      "total": 3.02,
+      "attributed": 3.02,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HAPPY GROUP INC - 4699",
+      "lines": [
+        {
+          "amount": 3.02,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "Barbados Trip"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-05",
+      "doc_number": "",
+      "total": 288.76,
+      "attributed": 288.76,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "UNITEDXXXXXXXXXXXXXX - 7333",
+      "lines": [
+        {
+          "amount": 288.76,
+          "account": "Indirect Cost:Travel Expenses:Airfare (deleted)",
+          "description": "UNITEDXXXXXXXXXXXXXX - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-05",
+      "doc_number": "",
+      "total": 320.01,
+      "attributed": 320.01,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "UNITEDXXXXXXXXXXXXXX - 4699",
+      "lines": [
+        {
+          "amount": 320.01,
+          "account": "Indirect Cost:Travel Expenses:Airfare (deleted)",
+          "description": "UNITEDXXXXXXXXXXXXXX - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-04",
+      "doc_number": "",
+      "total": 127.09,
+      "attributed": 127.09,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HILTON BARBA >ST MICHAE - 4699",
+      "lines": [
+        {
+          "amount": 127.09,
+          "account": "Indirect Cost:Travel Expenses:Lodging (deleted)",
+          "description": "HILTON BARBA >ST MICHAE - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-04",
+      "doc_number": "",
+      "total": 12.56,
+      "attributed": 12.56,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "BAR CUTTERS INC - 4699",
+      "lines": [
+        {
+          "amount": 12.56,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "Barbados Trip"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-04",
+      "doc_number": "",
+      "total": 8.97,
+      "attributed": 8.97,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HILTON BARBA >ST MICHAE - 4699",
+      "lines": [
+        {
+          "amount": 8.97,
+          "account": "Indirect Cost:Travel Expenses:Lodging (deleted)",
+          "description": "HILTON BARBA >ST MICHAE - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-03",
+      "doc_number": "",
+      "total": 24.62,
+      "attributed": 24.62,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "D E COMPUTERS LTD SHERATO - 4699",
+      "lines": [
+        {
+          "amount": 24.62,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "D E COMPUTERS LTD SHERATO - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-03",
+      "doc_number": "",
+      "total": 49.8,
+      "attributed": 49.8,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "JUST GRILLIN - 4699",
+      "lines": [
+        {
+          "amount": 49.8,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "Barbados Trip"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-03",
+      "doc_number": "",
+      "total": 16.83,
+      "attributed": 16.83,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PY *PEETS COFFEE D51 - 4699",
+      "lines": [
+        {
+          "amount": 16.83,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "PY *PEETS COFFEE D51 - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-03",
+      "doc_number": "",
+      "total": 13.55,
+      "attributed": 13.55,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "ORLANDO AIRP QDOBA - 4699",
+      "lines": [
+        {
+          "amount": 13.55,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "ORLANDO AIRP QDOBA - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-03",
+      "doc_number": "",
+      "total": 8.97,
+      "attributed": 8.97,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HILTON BARBA >ST MICHAE - 4699",
+      "lines": [
+        {
+          "amount": 8.97,
+          "account": "Indirect Cost:Travel Expenses:Lodging (deleted)",
+          "description": "HILTON BARBA >ST MICHAE - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-02",
+      "doc_number": "",
+      "total": 486.26,
+      "attributed": 486.26,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "GO RENT-A-CAR - 4699",
+      "lines": [
+        {
+          "amount": 486.26,
+          "account": "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare (deleted)",
+          "description": "GO RENT-A-CAR - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-02",
+      "doc_number": "",
+      "total": 103.59,
+      "attributed": 103.59,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "ENTERPRISE RENT-A-CAR - 4699",
+      "lines": [
+        {
+          "amount": 103.59,
+          "account": "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare (deleted)",
+          "description": "ENTERPRISE RENT-A-CAR - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-02",
+      "doc_number": "",
+      "total": 25.0,
+      "attributed": 25.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AA WIFI 1-888-649-6711 - 4699",
+      "lines": [
+        {
+          "amount": 25.0,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "AA WIFI 1-888-649-6711 - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-02",
+      "doc_number": "",
+      "total": 15.94,
+      "attributed": 15.94,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PAR*ZAZA CUBAN COMFORT FO - 4699",
+      "lines": [
+        {
+          "amount": 15.94,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "PAR*ZAZA CUBAN COMFORT FO - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-06-28",
+      "doc_number": "",
+      "total": 535.96,
+      "attributed": 267.98,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Purchases for Embry Riddle, Barbados (VTOL) - initial order was delayed, so reordered (requested by Alex) Total is $535.96",
+      "lines": [
+        {
+          "amount": 12.98,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "10mm Extended Tip USB-C to USB 3.0 Cable Compatible x 2"
+        },
+        {
+          "amount": 12.98,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "10mm Extended Tip USB-C to USB 3.0 Cable Compatible x 2"
+        },
+        {
+          "amount": 255.65,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "Manfrotto RC2 Compact Rapid Connect Adapter x 10"
+        },
+        {
+          "amount": 255.65,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "Manfrotto RC2 Compact Rapid Connect Adapter x 10"
+        },
+        {
+          "amount": -0.65,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "promotion"
+        },
+        {
+          "amount": -0.65,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "promotion"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-06-23",
+      "doc_number": "1119934309",
+      "total": 1079.05,
+      "attributed": 239.79000000000002,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Alex Lomis provided breakdown of purchases on 07/01/25",
+      "lines": [
+        {
+          "amount": 109.95,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Oben AC-1441 4-Section Aluminum Tripod"
+        },
+        {
+          "amount": 109.95,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Oben AC-1441 4-Section Aluminum Tripod"
+        },
+        {
+          "amount": 109.95,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Oben AC-1441 4-Section Aluminum Tripod"
+        },
+        {
+          "amount": 109.95,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Oben AC-1441 4-Section Aluminum Tripod"
+        },
+        {
+          "amount": 109.95,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Oben AC-1441 4-Section Aluminum Tripod"
+        },
+        {
+          "amount": 109.95,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Oben AC-1441 4-Section Aluminum Tripod"
+        },
+        {
+          "amount": 109.95,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Oben AC-1441 4-Section Aluminum Tripod"
+        },
+        {
+          "amount": 109.95,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Oben AC-1441 4-Section Aluminum Tripod"
+        },
+        {
+          "amount": 109.95,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Oben AC-1441 4-Section Aluminum Tripod"
+        },
+        {
+          "amount": 19.89,
+          "account": "Sales Tax Payable",
+          "description": "Tax: Barbados"
+        },
+        {
+          "amount": 39.78,
+          "account": "Sales Tax Payable",
+          "description": "Tax: ERAU"
+        },
+        {
+          "amount": 29.83,
+          "account": "Sales Tax Payable",
+          "description": "Tax: Unmanned"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-06-23",
+      "doc_number": "",
+      "total": 484.83,
+      "attributed": 242.41,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Purchases for Embry Riddle, Barbados (VTOL) Total was $484.83",
+      "lines": [
+        {
+          "amount": 12.98,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "10mm Extended Tip USB-C to USB x 2"
+        },
+        {
+          "amount": 12.98,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "10mm Extended Tip USB-C to USB x 2"
+        },
+        {
+          "amount": 230.08,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "Manfrotto RC2 Compact Rapid x 9"
+        },
+        {
+          "amount": 230.09,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "Manfrotto RC2 Compact Rapid x 9"
+        },
+        {
+          "amount": -0.65,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "discount"
+        },
+        {
+          "amount": -0.65,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "discount"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-06-23",
+      "doc_number": "",
+      "total": 1241.79,
+      "attributed": 620.89,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "purchases for Embry Riddle, Barbados (Total was $1,241.79)",
+      "lines": [
+        {
+          "amount": 6.49,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "10mm Extended Tip USB-C to USB 3"
+        },
+        {
+          "amount": 6.49,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "10mm Extended Tip USB-C to USB 3"
+        },
+        {
+          "amount": 588.84,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "SAMSUNG Galaxy Tab Active5 5G x 3"
+        },
+        {
+          "amount": 588.84,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "SAMSUNG Galaxy Tab Active5 5G x 3"
+        },
+        {
+          "amount": 25.56,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "Manfrotto RC2 Compact Rapid"
+        },
+        {
+          "amount": 25.57,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "Manfrotto RC2 Compact Rapid"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-05-22",
+      "doc_number": "",
+      "total": 889.0,
+      "attributed": 889.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "ONLINE TRANSFER TO ELSTON J REF #IB0SHLSYMF EVERYDAY CHECKING AIRLINE TICKETS FOR BARBADOS",
+      "lines": [
+        {
+          "amount": 889.0,
+          "account": "Indirect Cost:Travel Expenses:Airfare (deleted)",
+          "description": "ONLINE TRANSFER TO ELSTON J REF #IB0SHLSYMF EVERYDAY CHECKING AIRLINE TICKETS FOR BARBADOS"
+        }
+      ]
+    }
+  ],
+  "purchase_orders": [],
+  "payments": []
+}

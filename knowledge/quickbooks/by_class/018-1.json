@@ -1,0 +1,895 @@
+{
+  "project_code": "018-1",
+  "qbo_class_names": [
+    "[018-1] Murphy's Pond CH4",
+    "[018] Murray State University:[018-1] Murphy's Pond CH4"
+  ],
+  "period": {
+    "start": "2025-04-22",
+    "end": "2026-04-22"
+  },
+  "totals": {
+    "revenue": 124567.32,
+    "expenses": 15982.04,
+    "by_category": {
+      "DIRECT COSTS:DC-Direct Cost Subcontractors": 8182.5,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 3018.42,
+      "Indirect Cost:Travel Expenses:Airfare (deleted)": 2192.26,
+      "OVERHEAD:OH-Other Travel Expenses": 634.75,
+      "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare (deleted)": 562.91,
+      "Indirect Cost:Travel Expenses:Lodging (deleted)": 559.3,
+      "DIRECT COSTS:DC-Direct Cost Purchases": 499.0,
+      "Indirect Cost:Travel Expenses:Away Meals (deleted)": 332.9
+    }
+  },
+  "invoices": [
+    {
+      "type": "Invoice",
+      "date": "2025-12-11",
+      "doc_number": "1728",
+      "total": 24579.29,
+      "attributed": 24579.29,
+      "vendor": "",
+      "customer": "[018-1] Murphy's Pond CH4",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 24579.29,
+          "account": "",
+          "description": "Day rental on (November 6-7, 2025) for S2 UAS including launcher and all travel cases, tool kits and field equipment. Includes  QC and archiving of collected data. Data processing for flight."
+        },
+        {
+          "amount": 24579.29,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2025-09-09",
+      "doc_number": "1698",
+      "total": 37704.37,
+      "attributed": 37704.37,
+      "vendor": "",
+      "customer": "[018-1] Murphy's Pond CH4",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 24579.29,
+          "account": "",
+          "description": "Day rental on (Sept. 6, 2025) for S2 UAS including launcher and all travel cases, tool kits and field equipment. Includes  QC and archiving of collected data. Data processing for flight."
+        },
+        {
+          "amount": 13125.08,
+          "account": "",
+          "description": "Flight planning for drone services: Drone rental, flight, data collection, maps, etc. "
+        },
+        {
+          "amount": 37704.37,
+          "account": "",
+          "description": ""
+        }
+      ]
+    }
+  ],
+  "bills": [
+    {
+      "type": "Bill",
+      "date": "2025-12-08",
+      "doc_number": "IV2025-12",
+      "total": 7350.0,
+      "attributed": 7350.0,
+      "vendor": "AtmoFacts LLC",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 7350.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "Flux Maps for Unmanned Aircraft System: Phase 3b"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2025-12-01",
+      "doc_number": "IV2025-11",
+      "total": 832.5,
+      "attributed": 832.5,
+      "vendor": "AtmoFacts LLC",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 832.5,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "Base Flux Map: Murphy's Pond 20250908 1 x CH4,\n20251106 1 x CH4 + 1 x CO2 (3 @ $370) + 25% discount (277.50)"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2025-11-20",
+      "doc_number": "103029915",
+      "total": 1269.24,
+      "attributed": 1269.24,
+      "vendor": "Aeronet Worldwide",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 1269.24,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping S2 from Murray State back to BST (pick up 11/14/25)"
+        }
+      ]
+    }
+  ],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2025-11-12",
+      "doc_number": "",
+      "total": 210.0,
+      "attributed": 210.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DEN PUBLIC PARKING - 4699",
+      "lines": [
+        {
+          "amount": 210.0,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "Last trip to Murray State - Denver airport parking"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-11-10",
+      "doc_number": "",
+      "total": 136.54,
+      "attributed": 136.54,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HERTZ CAR RENTAL - 4699",
+      "lines": [
+        {
+          "amount": 136.54,
+          "account": "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare (deleted)",
+          "description": "last trip to Murray State"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-11-10",
+      "doc_number": "",
+      "total": 13.28,
+      "attributed": 13.28,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "BURGER KING #29305 - 4699",
+      "lines": [
+        {
+          "amount": 13.28,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "last trip to Murray State"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-11-10",
+      "doc_number": "",
+      "total": 14.7,
+      "attributed": 14.7,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "8TH & ROAST CC-D - 4699",
+      "lines": [
+        {
+          "amount": 14.7,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "last trip to Murray State"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-11-10",
+      "doc_number": "",
+      "total": 3.7,
+      "attributed": 3.7,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SHELL OILXXXXXXXXXXXX - 4699",
+      "lines": [
+        {
+          "amount": 3.7,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "Last trip Murray State"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-11-10",
+      "doc_number": "",
+      "total": 19.0,
+      "attributed": 19.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "LYFT *RIDE SAT 6PM - 4699",
+      "lines": [
+        {
+          "amount": 19.0,
+          "account": "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare (deleted)",
+          "description": "Last trip to Murray State"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-11-10",
+      "doc_number": "",
+      "total": 29.1,
+      "attributed": 29.1,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SHELL OILXXXXXXXXXXXX - 4699",
+      "lines": [
+        {
+          "amount": 29.1,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "last trip to Murray state"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-11-10",
+      "doc_number": "",
+      "total": 119.72,
+      "attributed": 119.72,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "BUFFALO WILD WNGS 4243 - 4699",
+      "lines": [
+        {
+          "amount": 119.72,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "Murray state"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-11-10",
+      "doc_number": "",
+      "total": 383.52,
+      "attributed": 383.52,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HAMPTON INNS - 4699",
+      "lines": [
+        {
+          "amount": 383.52,
+          "account": "Indirect Cost:Travel Expenses:Lodging (deleted)",
+          "description": "Jack last trip to Murray State"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-11-08",
+      "doc_number": "",
+      "total": 18.0,
+      "attributed": 18.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "LOWES #00722* - 4699",
+      "lines": [
+        {
+          "amount": 18.0,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "Jack last trip to Murray State"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-11-08",
+      "doc_number": "",
+      "total": 4.24,
+      "attributed": 4.24,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SQ *FUTURE GROUNDS - 4699",
+      "lines": [
+        {
+          "amount": 4.24,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "Jack's last trip to Murray State"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-11-07",
+      "doc_number": "",
+      "total": 499.0,
+      "attributed": 499.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DRONEDEPLOY.COM - 4699",
+      "lines": [
+        {
+          "amount": 499.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Jack last trip to Murray State"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-11-07",
+      "doc_number": "",
+      "total": 8.48,
+      "attributed": 8.48,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SQ *FUTURE GROUNDS - 4699",
+      "lines": [
+        {
+          "amount": 8.48,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "Jack last trip to Murray State"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-11-06",
+      "doc_number": "",
+      "total": 10.0,
+      "attributed": 10.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MCDONALD'S F27884 - 4699",
+      "lines": [
+        {
+          "amount": 10.0,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "Final trip to Murray State"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-11-06",
+      "doc_number": "",
+      "total": 11.99,
+      "attributed": 11.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "LARIMER ST MRKT @DEN 670 - 4699\n\nFinal trip to Murray State",
+      "lines": [
+        {
+          "amount": 11.99,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "LARIMER ST MRKT @DEN 670 - 4699\n\nFinal trip to Murray State"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-11-05",
+      "doc_number": "",
+      "total": 9.87,
+      "attributed": 9.87,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PHILLIPS 66 - CF UNITED A - 4699",
+      "lines": [
+        {
+          "amount": 9.87,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "Final trip Murray State"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-11-03",
+      "doc_number": "",
+      "total": 351.35,
+      "attributed": 351.35,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HERTZ CAR RENTAL - 4699",
+      "lines": [
+        {
+          "amount": 351.35,
+          "account": "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare (deleted)",
+          "description": "HERTZ CAR RENTAL - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-10-22",
+      "doc_number": "",
+      "total": 481.96,
+      "attributed": 481.96,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Jack flight to/from Murray State (Nov. 6-7)",
+      "lines": [
+        {
+          "amount": 481.96,
+          "account": "Indirect Cost:Travel Expenses:Airfare (deleted)",
+          "description": "Jack flight to/from Murray State (Nov. 6-7)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-10-22",
+      "doc_number": "",
+      "total": 249.61,
+      "attributed": 249.61,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Jack Flight to Murray State trip #2 (Nov 6-7)",
+      "lines": [
+        {
+          "amount": 249.61,
+          "account": "Indirect Cost:Travel Expenses:Airfare (deleted)",
+          "description": "Jack Flight to Murray State trip #2 (Nov 6-7)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-13",
+      "doc_number": "",
+      "total": 53.69,
+      "attributed": 53.69,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PHILLIPS 66 - CF UNITED A - 4699",
+      "lines": [
+        {
+          "amount": 53.69,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "Trip #1 to Murray State (Jack)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-13",
+      "doc_number": "",
+      "total": 45.92,
+      "attributed": 45.92,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "ACME SEED & FEED - 4699",
+      "lines": [
+        {
+          "amount": 45.92,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "Trip #1 Murray State (Jack)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-10",
+      "doc_number": "",
+      "total": 11.38,
+      "attributed": 11.38,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HERTZ CAR RENTAL         NASHVILLE    TN",
+      "lines": [
+        {
+          "amount": 11.38,
+          "account": "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare (deleted)",
+          "description": "Trip #1 to Murray State (Jack)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-10",
+      "doc_number": "",
+      "total": 3.0,
+      "attributed": 3.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "FREIGHTPROS LLC - 4699",
+      "lines": [
+        {
+          "amount": 3.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Fee associated with S2 Shipping to Murray State (8/25/25)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-10",
+      "doc_number": "",
+      "total": 8.03,
+      "attributed": 8.03,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "FANCY FARM HARDWARE - 4699",
+      "lines": [
+        {
+          "amount": 8.03,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "Trip #1 Murray State (Jack)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-10",
+      "doc_number": "",
+      "total": 16.96,
+      "attributed": 16.96,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SHELL OILXXXXXXXXXXXX - 4699",
+      "lines": [
+        {
+          "amount": 16.96,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "Trip #1 to Murray State (Jack)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-10",
+      "doc_number": "",
+      "total": 52.68,
+      "attributed": 52.68,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SHELL OILXXXXXXXXXXXX - 4699",
+      "lines": [
+        {
+          "amount": 52.68,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "Trip #1 to Murray State (Jack)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-10",
+      "doc_number": "",
+      "total": 70.0,
+      "attributed": 70.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DEN PUBLIC PARKING - 4699",
+      "lines": [
+        {
+          "amount": 70.0,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "Trip #1 to Murray State (Jack)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-10",
+      "doc_number": "",
+      "total": 175.78,
+      "attributed": 175.78,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HAMPTON INNS - 4699",
+      "lines": [
+        {
+          "amount": 175.78,
+          "account": "Indirect Cost:Travel Expenses:Lodging (deleted)",
+          "description": "Jack trip #1 to Murray State"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-09",
+      "doc_number": "",
+      "total": 7.87,
+      "attributed": 7.87,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DAZBOG A - 4699 Coffee Shop Denver Airport\n\nTrip #1 for Murray State (Jack)",
+      "lines": [
+        {
+          "amount": 7.87,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "DAZBOG A - 4699 Coffee Shop Denver Airport\n\nTrip #1 for Murray State (Jack)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-09",
+      "doc_number": "",
+      "total": 25.4,
+      "attributed": 25.4,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "THE TITANS PRESS BOX - 4699  - restaurant in Nashville Airport\n\nTrip #1 for Murray State (Jack)",
+      "lines": [
+        {
+          "amount": 25.4,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "THE TITANS PRESS BOX - 4699  - restaurant in Nashville Airport\n\nTrip #1 for Murray State (Jack)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-09",
+      "doc_number": "",
+      "total": 29.49,
+      "attributed": 29.49,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TOWNE PARK 2287 FIRST - 4699\n\nParking for Trip #1 Murray State (Jack)",
+      "lines": [
+        {
+          "amount": 29.49,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "Parking for Trip #1 Murray State (Jack)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-09",
+      "doc_number": "",
+      "total": 86.92,
+      "attributed": 86.92,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "THE WILLOW BISTRO LLC - 4699\n\nTrip #1 (Jack)",
+      "lines": [
+        {
+          "amount": 86.92,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "THE WILLOW BISTRO LLC - 4699\n\nTrip #1 (Jack)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-08",
+      "doc_number": "",
+      "total": 30.3,
+      "attributed": 30.3,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TST*NASHHOUSE - 4699\n\nJack trip #1 to Murray State",
+      "lines": [
+        {
+          "amount": 30.3,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "TST*NASHHOUSE - 4699\n\nJack trip #1 to Murray State"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-08",
+      "doc_number": "",
+      "total": 87.31,
+      "attributed": 87.31,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HUDSONNEWS ST1107 - 4699\n\nJack trip #1 to Murray state",
+      "lines": [
+        {
+          "amount": 87.31,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "HUDSONNEWS ST1107 - 4699\n\nJack trip #1 to Murray state"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-08",
+      "doc_number": "",
+      "total": 491.92,
+      "attributed": 491.92,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Jack flight to Murray State for trip #1",
+      "lines": [
+        {
+          "amount": 491.92,
+          "account": "Indirect Cost:Travel Expenses:Airfare (deleted)",
+          "description": "Jack flight to Murray State for trip #1"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-05",
+      "doc_number": "",
+      "total": 968.77,
+      "attributed": 968.77,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Trip #1 to Murray State (Jack)",
+      "lines": [
+        {
+          "amount": 968.77,
+          "account": "Indirect Cost:Travel Expenses:Airfare (deleted)",
+          "description": "Trip #1 to Murray State (Jack)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-05",
+      "doc_number": "",
+      "total": 6.66,
+      "attributed": 6.66,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Trip #1 to Murray State (Jack)",
+      "lines": [
+        {
+          "amount": 6.66,
+          "account": "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare (deleted)",
+          "description": "Trip #1 to Murray State (Jack)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-05",
+      "doc_number": "",
+      "total": 37.98,
+      "attributed": 37.98,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Car rental for Trip #1 to Murray State (Jack)",
+      "lines": [
+        {
+          "amount": 37.98,
+          "account": "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare (deleted)",
+          "description": "Car rental for Trip #1 to Murray State (Jack)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-25",
+      "doc_number": "",
+      "total": 1694.0,
+      "attributed": 1694.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 1694.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping S2 to Murray State for 1st visit (Pick-up Date: Aug. 29, 2025)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-21",
+      "doc_number": "",
+      "total": 52.18,
+      "attributed": 52.18,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 52.18,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping supplies for freight shipment to Murray State"
+        }
+      ]
+    }
+  ],
+  "purchase_orders": [],
+  "payments": [
+    {
+      "type": "Payment",
+      "date": "2025-12-18",
+      "doc_number": "",
+      "total": 24579.29,
+      "attributed": 24579.29,
+      "vendor": "",
+      "customer": "[018-1] Murphy's Pond CH4",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 24579.29,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Payment",
+      "date": "2025-09-26",
+      "doc_number": "",
+      "total": 37704.37,
+      "attributed": 37704.37,
+      "vendor": "",
+      "customer": "[018-1] Murphy's Pond CH4",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 37704.37,
+          "account": "",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}

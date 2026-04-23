@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "project_code": "032-3",
+  "category": "contract",
+  "asana_gid": "1213345070862721",
+  "name": "Sasquatch S0s x 4",
+  "status": "active",
+  "status_notes": null,
+  "customer": {
+    "name": "Notre Dame",
+    "type": "commercial",
+    "contacts": []
+  },
+  "contract": {
+    "type": "unknown",
+    "number": null,
+    "total_value": 88705.0,
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-01",
+    "payment_cadence": null,
+    "documents": []
+  },
+  "budget": {
+    "approved": 88705.0,
+    "approved_source": "asana_custom_field",
+    "line_items": [],
+    "spent": {
+      "labor": {
+        "amount": 0.0,
+        "source": "toggl × loaded_rate",
+        "confidence": "estimate",
+        "last_updated": null
+      },
+      "purchases": {
+        "amount": 0.0,
+        "source": "purchasing@ emails (not yet wired)",
+        "confidence": "placeholder",
+        "last_updated": null
+      },
+      "other_qbo": {
+        "amount": 20795.38,
+        "source": "QBO by-class (bills + purchases + POs)",
+        "confidence": "exact",
+        "last_updated": "2026-04-22"
+      },
+      "total": 20795.38,
+      "by_line_item": {}
+    },
+    "committed": 0.0,
+    "remaining": 67909.62,
+    "burn_rate_monthly": null,
+    "last_reconciled": "2026-04-23T05:33:33Z"
+  },
+  "milestones": [],
+  "deliverables": [],
+  "team": [],
+  "risks": [],
+  "overrides": [],
+  "last_full_rebuild": "2026-04-23T05:33:33Z",
+  "last_incremental_update": null
+}

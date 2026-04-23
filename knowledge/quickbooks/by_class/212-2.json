@@ -1,0 +1,384 @@
+{
+  "project_code": "212-2",
+  "qbo_class_names": [
+    "[212-2] NASA S2 & Parts",
+    "[212] Isaac Anderson:[212-2] NASA S2 & Parts"
+  ],
+  "period": {
+    "start": "2025-04-22",
+    "end": "2026-04-22"
+  },
+  "totals": {
+    "revenue": 0.0,
+    "expenses": 13476.3,
+    "by_category": {
+      "DIRECT COSTS:DC-Direct Cost Purchases": 9474.91,
+      "DIRECT COSTS:DC-Direct Cost Subcontractors": 4000.0,
+      "Inventory Asset": 1.39
+    }
+  },
+  "invoices": [],
+  "bills": [
+    {
+      "type": "Bill",
+      "date": "2026-04-02",
+      "doc_number": "",
+      "total": 4000.0,
+      "attributed": 4000.0,
+      "vendor": "PHASE1 AVIATION LLC",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "Work for NASA S2 (212-2)",
+      "lines": [
+        {
+          "amount": 4000.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "deposit for S2 wing set and tail set"
+        }
+      ]
+    }
+  ],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-04-15",
+      "doc_number": "",
+      "total": 4540.11,
+      "attributed": 4540.11,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Order placed via email - No Asana request",
+      "lines": [
+        {
+          "amount": 4540.11,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "S2 Case"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-31",
+      "doc_number": "390686",
+      "total": 133.13,
+      "attributed": 133.13,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 133.13,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "SMA Female Bulkhead to SMA Male Cable Using RG316-DS Coax"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-31",
+      "doc_number": "98337181",
+      "total": 97.24,
+      "attributed": 97.24,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 97.24,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "TE Connectivity Linx & CONN PLUG MALE 4P GOLD SLDR CUP"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-30",
+      "doc_number": "SV56X816",
+      "total": 73.5,
+      "attributed": 73.5,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 73.5,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "items for 212-2"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-30",
+      "doc_number": "AH-72911",
+      "total": 43.34,
+      "attributed": 43.34,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SP ALOFT HOBBIES ALOFTHOBBIES.CA",
+      "lines": [
+        {
+          "amount": 43.34,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "MP Jet Aluminum Clevis x 2"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-30",
+      "doc_number": "0327JELSTON",
+      "total": 902.06,
+      "attributed": 895.06,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - Josh Fromm placed order. Projects are listed below item. \n\nHurricane project is the 3 S0 projects: 2026 IDIQ, Sasquatch, 6 future S0 sales.",
+      "lines": [
+        {
+          "amount": 4.67,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 0.93,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 1.4,
+          "account": "Inventory Asset",
+          "description": "For future sales of 6 S0s"
+        },
+        {
+          "amount": 895.06,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Purchases for 212-2 NASA S2 and parts"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-30",
+      "doc_number": "67785",
+      "total": 952.91,
+      "attributed": 952.91,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 952.91,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Parts for 212-2 NASA S2 and parts"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-30",
+      "doc_number": "539179",
+      "total": 228.76,
+      "attributed": 228.76,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 228.76,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Panasonic NCR18650GA 3450mAh 10A Battery x 50"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-30",
+      "doc_number": "98333666",
+      "total": 306.29,
+      "attributed": 306.29,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 306.29,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "SENSOR OPTICAL I2C, SERIAL"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-27",
+      "doc_number": "",
+      "total": 108.0,
+      "attributed": 108.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PAYPAL           INST XFER  260327 NORTHAMERIC     BLACK SWIFT TECHNOLOGI",
+      "lines": [
+        {
+          "amount": 108.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "DS-30A-1 White Magnum Drone Strobe x 2"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-27",
+      "doc_number": "SO19080",
+      "total": 83.69,
+      "attributed": 83.69,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Ship to Sean Cole at Phase1 Aviation.\n\nPayPal",
+      "lines": [
+        {
+          "amount": 83.69,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-27",
+      "doc_number": "22355",
+      "total": 351.81,
+      "attributed": 351.81,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Paypal",
+      "lines": [
+        {
+          "amount": 351.81,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "MKS-HV6150-H x 4 / DS6125/95/6100 Long Metal Horn"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-27",
+      "doc_number": "4771",
+      "total": 629.94,
+      "attributed": 629.94,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "virtual card",
+      "lines": [
+        {
+          "amount": 629.94,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "MD89MW Magnetic Encoder Metal Gear 25T Digital Micro Servo x 6"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-26",
+      "doc_number": "",
+      "total": 69.99,
+      "attributed": 69.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request for office supplies - added to cart",
+      "lines": [
+        {
+          "amount": 69.99,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "NOCO Genius GEN5X1"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-26",
+      "doc_number": "1128134885",
+      "total": 397.25,
+      "attributed": 397.25,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 397.25,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head x 2 &"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-26",
+      "doc_number": "",
+      "total": 98.0,
+      "attributed": 98.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PayPal",
+      "lines": [
+        {
+          "amount": 98.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "DS-30A-1 White Magnum Drone Strobe x 2"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-26",
+      "doc_number": "228120",
+      "total": 145.99,
+      "attributed": 145.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Virtual card",
+      "lines": [
+        {
+          "amount": 145.99,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Deka ETX30L AGM Battery - 400 CCA Motorcycle ATV 12V"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-26",
+      "doc_number": "26261",
+      "total": 321.29,
+      "attributed": 321.29,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 321.29,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "SKB iSeries 4719-8 Waterproof Utility Case w/Wheels"
+        }
+      ]
+    }
+  ],
+  "purchase_orders": [],
+  "payments": []
+}

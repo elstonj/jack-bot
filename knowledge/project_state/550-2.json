@@ -1,0 +1,195 @@
+{
+  "schema_version": "1.0",
+  "project_code": "550-2",
+  "category": "contract",
+  "asana_gid": "1210403425703911",
+  "name": "Navy STTR: Hazardous Weather",
+  "status": "delayed",
+  "status_notes": "FEEDBACK 2026-04-20: From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the da",
+  "customer": {
+    "name": "Dept. of the Navy",
+    "type": "government",
+    "contacts": []
+  },
+  "contract": {
+    "type": "unknown",
+    "number": null,
+    "total_value": 138494.0,
+    "start_date": null,
+    "end_date": "2026-09-01",
+    "payment_cadence": null,
+    "documents": []
+  },
+  "budget": {
+    "approved": 138494.0,
+    "approved_source": "asana_custom_field",
+    "line_items": [],
+    "spent": {
+      "labor": {
+        "amount": 25830.0,
+        "source": "toggl × $125.0/hr placeholder",
+        "confidence": "placeholder",
+        "last_updated": "2026-04-22"
+      },
+      "purchases": {
+        "amount": 0.0,
+        "source": "purchasing@ emails (not yet wired)",
+        "confidence": "placeholder",
+        "last_updated": null
+      },
+      "other_qbo": {
+        "amount": 72790.0,
+        "source": "QBO by-class (bills + purchases + POs)",
+        "confidence": "exact",
+        "last_updated": "2026-04-22"
+      },
+      "total": 98620.0,
+      "by_line_item": {}
+    },
+    "committed": 0.0,
+    "remaining": 39874.0,
+    "burn_rate_monthly": null,
+    "last_reconciled": "2026-04-23T05:34:37Z"
+  },
+  "milestones": [],
+  "deliverables": [],
+  "team": [
+    {
+      "name": "Jack Elston",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    },
+    {
+      "name": "Meredith O'hara Needham",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    }
+  ],
+  "risks": [],
+  "overrides": [
+    {
+      "source": "FEEDBACK",
+      "author": "Meredith Needham",
+      "date": "2026-04-17",
+      "text": "From Meredith Needham (ts=1775233560.409249): <@U01511MEQ90> <@U014U9WMK2A> Navy STTR was submitted a long with the invoice. SBIR Magnetometer has the kick-off and FWA Certification due on April 14th. Will review Asana due dates to make sure it's all updated"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Meredith Needham",
+      "date": "2026-04-17",
+      "text": "From Meredith Needham (ts=1775234238.796219): Yep. The links are in the Project brief in Asana. There's a template for the kick-off located there\n\n*Report Templates:* Report templates and instructions can be found under Award Deliverable Templates at<https://navysbir.com/links_forms.htm| ><https://navysbir.com/links_forms.htm>\nAll reports shall prominently show the following information on the cover of the report/data or in the letter of transmittal (if a progress report):\n1. Name and business a"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Meredith Needham",
+      "date": "2026-04-17",
+      "text": "From Meredith Needham (ts=1775234256.932539): <https://navysbir.com/links_forms.htm>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-17",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Meredith Needham",
+      "date": "2026-04-17",
+      "text": "From Meredith Needham (ts=1775233560.409249): <@U01511MEQ90> <@U014U9WMK2A> Navy STTR was submitted a long with the invoice. SBIR Magnetometer has the kick-off and FWA Certification due on April 14th. Will review Asana due dates to make sure it's all updated"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Meredith Needham",
+      "date": "2026-04-17",
+      "text": "From Meredith Needham (ts=1775234238.796219): Yep. The links are in the Project brief in Asana. There's a template for the kick-off located there\n\n*Report Templates:* Report templates and instructions can be found under Award Deliverable Templates at<https://navysbir.com/links_forms.htm| ><https://navysbir.com/links_forms.htm>\nAll reports shall prominently show the following information on the cover of the report/data or in the letter of transmittal (if a progress report):\n1. Name and business a"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Meredith Needham",
+      "date": "2026-04-17",
+      "text": "From Meredith Needham (ts=1775234256.932539): <https://navysbir.com/links_forms.htm>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-17",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-17",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-17",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-17",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-17",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-17",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-17",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-20",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-20",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-20",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-22",
+      "text": "From Maciej (ts=1776825957.633159): <@U0AQE94HJUT> the Navy SBIR Magnetometer project has kicked off as of today. Make sure to track those tasks as part of the daily updates. <@U058LGYMEQ0> is the technical lead on this project with support from the others mentioned in Asana"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-21",
+      "text": "From Maciej: <@U0AQE94HJUT> the Navy SBIR Magnetometer project has kicked off as of today. Make sure to track those tasks as part of the daily updates. <@U058LGYMEQ0> is the technical lead on this project with support from the others mentioned in Asana"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-20",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    }
+  ],
+  "last_full_rebuild": "2026-04-23T05:34:37Z",
+  "last_incremental_update": null
+}

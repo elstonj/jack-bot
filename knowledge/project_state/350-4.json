@@ -1,0 +1,241 @@
+{
+  "schema_version": "1.0",
+  "project_code": "350-4",
+  "category": "contract",
+  "asana_gid": "1205445364407714",
+  "name": "2024 USGS - Chile (Mexico)",
+  "status": "delayed",
+  "status_notes": "FEEDBACK 2026-04-20: From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the da",
+  "customer": {
+    "name": "USGS (Volcano Science Center)",
+    "type": "government",
+    "contacts": []
+  },
+  "contract": {
+    "type": "unknown",
+    "number": null,
+    "total_value": 124230.0,
+    "start_date": null,
+    "end_date": null,
+    "payment_cadence": null,
+    "documents": []
+  },
+  "budget": {
+    "approved": 124230.0,
+    "approved_source": "asana_custom_field",
+    "line_items": [],
+    "spent": {
+      "labor": {
+        "amount": 12987.5,
+        "source": "toggl × $125.0/hr placeholder",
+        "confidence": "placeholder",
+        "last_updated": "2026-04-22"
+      },
+      "purchases": {
+        "amount": 0.0,
+        "source": "purchasing@ emails (not yet wired)",
+        "confidence": "placeholder",
+        "last_updated": null
+      },
+      "other_qbo": {
+        "amount": 6420.35,
+        "source": "QBO by-class (bills + purchases + POs)",
+        "confidence": "exact",
+        "last_updated": "2026-04-22"
+      },
+      "total": 19407.85,
+      "by_line_item": {}
+    },
+    "committed": 0.0,
+    "remaining": 104822.15,
+    "burn_rate_monthly": null,
+    "last_reconciled": "2026-04-23T05:34:18Z"
+  },
+  "milestones": [
+    {
+      "name": "Sort out flight, radio, shipping, and import permissions",
+      "asana_task_gid": "1205941504825204",
+      "due_on": "2026-07-31",
+      "original_due": null,
+      "status": "open",
+      "invoice_trigger": null,
+      "evidence": []
+    },
+    {
+      "name": "Finish payload updates",
+      "asana_task_gid": "1205941504825207",
+      "due_on": "2026-08-31",
+      "original_due": null,
+      "status": "open",
+      "invoice_trigger": null,
+      "evidence": []
+    },
+    {
+      "name": "Conduct local flight testing",
+      "asana_task_gid": "1205941504825211",
+      "due_on": "2026-08-31",
+      "original_due": null,
+      "status": "open",
+      "invoice_trigger": null,
+      "evidence": []
+    },
+    {
+      "name": "Ship Aircraft and Equipment",
+      "asana_task_gid": "1205941504825213",
+      "due_on": "2026-09-01",
+      "original_due": null,
+      "status": "open",
+      "invoice_trigger": null,
+      "evidence": []
+    },
+    {
+      "name": "Conduct Mission",
+      "asana_task_gid": "1205941504825215",
+      "due_on": "2026-10-01",
+      "original_due": null,
+      "status": "open",
+      "invoice_trigger": null,
+      "evidence": []
+    }
+  ],
+  "deliverables": [],
+  "team": [
+    {
+      "name": "Dan Prendergast",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    },
+    {
+      "name": "Josh Fromm",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    },
+    {
+      "name": "Maciej Stachura",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    }
+  ],
+  "risks": [],
+  "overrides": [
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-17",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-17",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-17",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-17",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-17",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-17",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Jack",
+      "date": "2026-04-20",
+      "text": "From Jack (ts=1776694393.461569): <@U0AQE94HJUT> correction: the mexico deployment has been delayed until the fall"
+    },
+    {
+      "source": "CORRECTION",
+      "author": "Jack",
+      "date": "2026-04-20",
+      "text": "From Jack: the mexico deployment has been delayed until the fall"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Jack",
+      "date": "2026-04-20",
+      "text": "From Jack: <@U0AQE94HJUT> correction: the mexico deployment has been delayed until the fall"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-17",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-17",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Jack",
+      "date": "2026-04-20",
+      "text": "From Jack (ts=1776694393.461569): <@U0AQE94HJUT> correction: the mexico deployment has been delayed until the fall"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-20",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Jack",
+      "date": "2026-04-20",
+      "text": "From Jack (ts=1776694393.461569): <@U0AQE94HJUT> correction: the mexico deployment has been delayed until the fall"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-20",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Jack",
+      "date": "2026-04-20",
+      "text": "From Jack (ts=1776694393.461569): <@U0AQE94HJUT> correction: the mexico deployment has been delayed until the fall"
+    },
+    {
+      "source": "CORRECTION",
+      "author": "Jack",
+      "date": "2026-04-20",
+      "text": "From Jack: Mexico USGS volcano deployment (350-4) is DELAYED to Fall 2026. Not departing April 20. No flight planning, no shipping, no mission prep imminent. Any Asana tasks referencing an April deployment are stale - ignore them."
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-20",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-20",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    }
+  ],
+  "last_full_rebuild": "2026-04-23T05:34:18Z",
+  "last_incremental_update": null
+}

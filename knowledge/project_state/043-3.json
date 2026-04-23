@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "project_code": "043-3",
+  "category": "contract",
+  "asana_gid": "1213746992830083",
+  "name": "ByLight M2/Halo",
+  "status": "active",
+  "status_notes": null,
+  "customer": {
+    "name": "By Light",
+    "type": "commercial",
+    "contacts": []
+  },
+  "contract": {
+    "type": "unknown",
+    "number": null,
+    "total_value": 126629.0,
+    "start_date": "2026-05-30",
+    "end_date": "2026-05-30",
+    "payment_cadence": null,
+    "documents": []
+  },
+  "budget": {
+    "approved": 126629.0,
+    "approved_source": "asana_custom_field",
+    "line_items": [],
+    "spent": {
+      "labor": {
+        "amount": 13280.0,
+        "source": "toggl × $125.0/hr placeholder",
+        "confidence": "placeholder",
+        "last_updated": "2026-04-22"
+      },
+      "purchases": {
+        "amount": 0.0,
+        "source": "purchasing@ emails (not yet wired)",
+        "confidence": "placeholder",
+        "last_updated": null
+      },
+      "other_qbo": {
+        "amount": 2973.29,
+        "source": "QBO by-class (bills + purchases + POs)",
+        "confidence": "exact",
+        "last_updated": "2026-04-22"
+      },
+      "total": 16253.29,
+      "by_line_item": {}
+    },
+    "committed": 0.0,
+    "remaining": 110375.71,
+    "burn_rate_monthly": null,
+    "last_reconciled": "2026-04-23T05:33:40Z"
+  },
+  "milestones": [],
+  "deliverables": [],
+  "team": [
+    {
+      "name": "Alex Lomis",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    },
+    {
+      "name": "Ethan Domagala",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    },
+    {
+      "name": "Meredith O'hara Needham",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    },
+    {
+      "name": "Nate Straus",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    }
+  ],
+  "risks": [],
+  "overrides": [],
+  "last_full_rebuild": "2026-04-23T05:33:40Z",
+  "last_incremental_update": null
+}

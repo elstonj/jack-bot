@@ -1,0 +1,52 @@
+{
+  "project_code": "001-5",
+  "qbo_class_names": [
+    "(001-5) IRAD - S1"
+  ],
+  "period": {
+    "start": "2025-04-22",
+    "end": "2026-04-22"
+  },
+  "totals": {
+    "revenue": 0.0,
+    "expenses": 99.98,
+    "by_category": {
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 61.49,
+      "FACILITIES:FA-Office Supplies": 38.49
+    }
+  },
+  "invoices": [],
+  "bills": [],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-04-07",
+      "doc_number": "",
+      "total": 162.57,
+      "attributed": 99.97999999999999,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Paper towels not requested, added to the order",
+      "lines": [
+        {
+          "amount": 75.99,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "TORIBIO Double Rifle Case Soft Bag Gun Case"
+        },
+        {
+          "amount": 23.99,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "RUBY.Q 32\"/37\"/46\" Rifle Bag, Black/Khaki/Green"
+        },
+        {
+          "amount": 62.59,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "Tork Matic Paper Hand Towel Roll Natural"
+        }
+      ]
+    }
+  ],
+  "purchase_orders": [],
+  "payments": []
+}

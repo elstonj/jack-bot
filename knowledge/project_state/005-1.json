@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0",
+  "project_code": "005-1",
+  "category": "contract",
+  "asana_gid": "1208240708310901",
+  "name": "BARBADOS VTOL S0 and Training",
+  "status": "active",
+  "status_notes": null,
+  "customer": {
+    "name": "Barbados Meteorological Services",
+    "type": "commercial",
+    "contacts": []
+  },
+  "contract": {
+    "type": "unknown",
+    "number": null,
+    "total_value": 22337.0,
+    "start_date": null,
+    "end_date": "2024-10-01",
+    "payment_cadence": null,
+    "documents": []
+  },
+  "budget": {
+    "approved": 22337.0,
+    "approved_source": "asana_custom_field",
+    "line_items": [],
+    "spent": {
+      "labor": {
+        "amount": 8375.0,
+        "source": "toggl × $125.0/hr placeholder",
+        "confidence": "placeholder",
+        "last_updated": "2026-04-22"
+      },
+      "purchases": {
+        "amount": 0.0,
+        "source": "purchasing@ emails (not yet wired)",
+        "confidence": "placeholder",
+        "last_updated": null
+      },
+      "other_qbo": {
+        "amount": 7309.76,
+        "source": "QBO by-class (bills + purchases + POs)",
+        "confidence": "exact",
+        "last_updated": "2026-04-22"
+      },
+      "total": 15684.76,
+      "by_line_item": {}
+    },
+    "committed": 0.0,
+    "remaining": 6652.24,
+    "burn_rate_monthly": null,
+    "last_reconciled": "2026-04-23T05:33:07Z"
+  },
+  "milestones": [],
+  "deliverables": [],
+  "team": [
+    {
+      "name": "Alex Lomis",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    },
+    {
+      "name": "Jack Elston",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    },
+    {
+      "name": "Maciej Stachura",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    }
+  ],
+  "risks": [],
+  "overrides": [
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-04-17",
+      "text": "From Daniel Prendergast (ts=1775494066.358699): That's a decent summary for my tasks.  Curious what everyone else thinks.  Hopefully with some more training, Jack Bot can make me entirely obsolete by the end of the month."
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-04-17",
+      "text": "From Daniel Prendergast (ts=1775494066.358699): That's a decent summary for my tasks.  Curious what everyone else thinks.  Hopefully with some more training, Jack Bot can make me entirely obsolete by the end of the month."
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-04-17",
+      "text": "From Daniel Prendergast (ts=1775494066.358699): That's a decent summary for my tasks.  Curious what everyone else thinks.  Hopefully with some more training, Jack Bot can make me entirely obsolete by the end of the month."
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-17",
+      "text": "From Alex Lomis (ts=1776451579.783709): <@U083AAM8E9Y> I'm not sure any are _fully_ NDAA compliant yet but the S0 VTOL, S0 AD, and E2 all can be I believe"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-04-17",
+      "text": "From Daniel Prendergast (ts=1775494066.358699): That's a decent summary for my tasks.  Curious what everyone else thinks.  Hopefully with some more training, Jack Bot can make me entirely obsolete by the end of the month."
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-17",
+      "text": "From Alex Lomis (ts=1776451579.783709): <@U083AAM8E9Y> I'm not sure any are _fully_ NDAA compliant yet but the S0 VTOL, S0 AD, and E2 all can be I believe"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-17",
+      "text": "From Alex Lomis: <@U083AAM8E9Y> I'm not sure any are _fully_ NDAA compliant yet but the S0 VTOL, S0 AD, and E2 all can be I believe"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-04-17",
+      "text": "From Daniel Prendergast (ts=1775494066.358699): That's a decent summary for my tasks.  Curious what everyone else thinks.  Hopefully with some more training, Jack Bot can make me entirely obsolete by the end of the month."
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-04-17",
+      "text": "From Daniel Prendergast (ts=1775494066.358699): That's a decent summary for my tasks.  Curious what everyone else thinks.  Hopefully with some more training, Jack Bot can make me entirely obsolete by the end of the month."
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-20",
+      "text": "From Alex Lomis (ts=1776451579.783709): <@U083AAM8E9Y> I'm not sure any are _fully_ NDAA compliant yet but the S0 VTOL, S0 AD, and E2 all can be I believe"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-20",
+      "text": "From Maciej (ts=1776649988.110059): <@U0AQE94HJUT>, we have 4 main technical goals/milestone next week I think:\n1. EMASS flight tests (<@U04CZK4K7P0> , <@U06CCFTNBS6>, and <@U01511MEQ90>)\n2. S0-VTOL restart to find and fix the crash bug (<@U058LGYMEQ0> and <@U014ZL9FLE9>)\n3. S3 work to find the crash bug and flight test on S1-22 and hover test S3 (<@U06NQAYBLRK>, <@U01511MEQ90>, and <@U014U9WMK2A>)\n4. Mustang Progress (<@U06CCFTNBS6> and <@U058LGYMEQ0>)\nThose should all be capture in Asana (I ju"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-20",
+      "text": "From Maciej (ts=1776649988.110059): <@U0AQE94HJUT>, we have 4 main technical goals/milestone next week I think:\n1. EMASS flight tests (<@U04CZK4K7P0> , <@U06CCFTNBS6>, and <@U01511MEQ90>)\n2. S0-VTOL restart to find and fix the crash bug (<@U058LGYMEQ0> and <@U014ZL9FLE9>)\n3. S3 work to find the crash bug and flight test on S1-22 and hover test S3 (<@U06NQAYBLRK>, <@U01511MEQ90>, and <@U014U9WMK2A>)\n4. Mustang Progress (<@U06CCFTNBS6> and <@U058LGYMEQ0>)\nThose should all be capture in Asana (I ju"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-19",
+      "text": "From Maciej: <@U0AQE94HJUT>, we have 4 main technical goals/milestone next week I think:\n1. EMASS flight tests (<@U04CZK4K7P0> , <@U06CCFTNBS6>, and <@U01511MEQ90>)\n2. S0-VTOL restart to find and fix the crash bug (<@U058LGYMEQ0> and <@U014ZL9FLE9>)\n3. S3 work to find the crash bug and flight test on S1-22 and hover test S3 (<@U06NQAYBLRK>, <@U01511MEQ90>, and <@U014U9WMK2A>)\n4. Mustang Progress (<@U06CCFTNBS6> and <@U058LGYMEQ0>)\nThose should all be capture in Asana (I just added S3 tasks) make"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-04-17",
+      "text": "From Daniel Prendergast (ts=1775494066.358699): That's a decent summary for my tasks.  Curious what everyone else thinks.  Hopefully with some more training, Jack Bot can make me entirely obsolete by the end of the month."
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-17",
+      "text": "From Alex Lomis (ts=1776451579.783709): <@U083AAM8E9Y> I'm not sure any are _fully_ NDAA compliant yet but the S0 VTOL, S0 AD, and E2 all can be I believe"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-04-17",
+      "text": "From Daniel Prendergast (ts=1775494066.358699): That's a decent summary for my tasks.  Curious what everyone else thinks.  Hopefully with some more training, Jack Bot can make me entirely obsolete by the end of the month."
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-17",
+      "text": "From Alex Lomis (ts=1776451579.783709): <@U083AAM8E9Y> I'm not sure any are _fully_ NDAA compliant yet but the S0 VTOL, S0 AD, and E2 all can be I believe"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-20",
+      "text": "From Maciej (ts=1776649988.110059): <@U0AQE94HJUT>, we have 4 main technical goals/milestone next week I think:\n1. EMASS flight tests (<@U04CZK4K7P0> , <@U06CCFTNBS6>, and <@U01511MEQ90>)\n2. S0-VTOL restart to find and fix the crash bug (<@U058LGYMEQ0> and <@U014ZL9FLE9>)\n3. S3 work to find the crash bug and flight test on S1-22 and hover test S3 (<@U06NQAYBLRK>, <@U01511MEQ90>, and <@U014U9WMK2A>)\n4. Mustang Progress (<@U06CCFTNBS6> and <@U058LGYMEQ0>)\nThose should all be capture in Asana (I ju"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-04-20",
+      "text": "From Daniel Prendergast (ts=1775494066.358699): That's a decent summary for my tasks.  Curious what everyone else thinks.  Hopefully with some more training, Jack Bot can make me entirely obsolete by the end of the month."
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-20",
+      "text": "From Alex Lomis (ts=1776451579.783709): <@U083AAM8E9Y> I'm not sure any are _fully_ NDAA compliant yet but the S0 VTOL, S0 AD, and E2 all can be I believe"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-20",
+      "text": "From Maciej (ts=1776649988.110059): <@U0AQE94HJUT>, we have 4 main technical goals/milestone next week I think:\n1. EMASS flight tests (<@U04CZK4K7P0> , <@U06CCFTNBS6>, and <@U01511MEQ90>)\n2. S0-VTOL restart to find and fix the crash bug (<@U058LGYMEQ0> and <@U014ZL9FLE9>)\n3. S3 work to find the crash bug and flight test on S1-22 and hover test S3 (<@U06NQAYBLRK>, <@U01511MEQ90>, and <@U014U9WMK2A>)\n4. Mustang Progress (<@U06CCFTNBS6> and <@U058LGYMEQ0>)\nThose should all be capture in Asana (I ju"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-04-20",
+      "text": "From Daniel Prendergast (ts=1775494066.358699): That's a decent summary for my tasks.  Curious what everyone else thinks.  Hopefully with some more training, Jack Bot can make me entirely obsolete by the end of the month."
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-20",
+      "text": "From Alex Lomis (ts=1776451579.783709): <@U083AAM8E9Y> I'm not sure any are _fully_ NDAA compliant yet but the S0 VTOL, S0 AD, and E2 all can be I believe"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-20",
+      "text": "From Maciej (ts=1776649988.110059): <@U0AQE94HJUT>, we have 4 main technical goals/milestone next week I think:\n1. EMASS flight tests (<@U04CZK4K7P0> , <@U06CCFTNBS6>, and <@U01511MEQ90>)\n2. S0-VTOL restart to find and fix the crash bug (<@U058LGYMEQ0> and <@U014ZL9FLE9>)\n3. S3 work to find the crash bug and flight test on S1-22 and hover test S3 (<@U06NQAYBLRK>, <@U01511MEQ90>, and <@U014U9WMK2A>)\n4. Mustang Progress (<@U06CCFTNBS6> and <@U058LGYMEQ0>)\nThose should all be capture in Asana (I ju"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-04-20",
+      "text": "From Daniel Prendergast (ts=1775494066.358699): That's a decent summary for my tasks.  Curious what everyone else thinks.  Hopefully with some more training, Jack Bot can make me entirely obsolete by the end of the month."
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Jack",
+      "date": "2026-04-20",
+      "text": "From Jack (ts=1776707048.234929): seems reasonable.  depending on timeline we might be able to shift some older ground stations from the S0-VTOL kits.  (I hate to do that, but might be best)."
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Jack",
+      "date": "2026-04-20",
+      "text": "From Jack: seems reasonable.  depending on timeline we might be able to shift some older ground stations from the S0-VTOL kits.  (I hate to do that, but might be best)."
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-04-20",
+      "text": "From Daniel Prendergast (ts=1775494066.358699): That's a decent summary for my tasks.  Curious what everyone else thinks.  Hopefully with some more training, Jack Bot can make me entirely obsolete by the end of the month."
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-20",
+      "text": "From Alex Lomis (ts=1776451579.783709): <@U083AAM8E9Y> I'm not sure any are _fully_ NDAA compliant yet but the S0 VTOL, S0 AD, and E2 all can be I believe"
+    }
+  ],
+  "last_full_rebuild": "2026-04-23T05:33:07Z",
+  "last_incremental_update": null
+}

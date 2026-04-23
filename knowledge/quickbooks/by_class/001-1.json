@@ -1,0 +1,1780 @@
+{
+  "project_code": "001-1",
+  "qbo_class_names": [
+    "(001-1) IRAD- General",
+    "[001] Black Swift Technologies - IRAD:(001-1) IRAD- General"
+  ],
+  "period": {
+    "start": "2025-04-22",
+    "end": "2026-04-22"
+  },
+  "totals": {
+    "revenue": 0.0,
+    "expenses": 6090.15,
+    "by_category": {
+      "Indirect Cost:Internal Research and DevelopmentX (deleted)": 2952.55,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 2894.46,
+      "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)": 97.2,
+      "Tariffs (deleted)": 59.49,
+      "Indirect Cost:Supplies (deleted):Shop SuppliesX (deleted)": 35.53,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 16.1,
+      "Inventory Asset": 11.18,
+      "Indirect Cost:Office Expenses (deleted):Utilities Expense (deleted)": 10.9,
+      "Indirect Cost:Finance & Bank Charges (deleted)": 7.79,
+      "Indirect Cost:TaxesX (deleted)": 4.95
+    }
+  },
+  "invoices": [],
+  "bills": [
+    {
+      "type": "Bill",
+      "date": "2025-10-01",
+      "doc_number": "3835",
+      "total": 156.25,
+      "attributed": 156.25,
+      "vendor": "MicroFirm Engineering",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 156.25,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Various projects (1.25hrs @$125)"
+        }
+      ]
+    }
+  ],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-04-16",
+      "doc_number": "",
+      "total": 99.48,
+      "attributed": 99.48,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "U-HAUL-CTR-BOULDER #72227 - 9208",
+      "lines": [
+        {
+          "amount": 99.48,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Flight Testing - general"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-13",
+      "doc_number": "52654",
+      "total": 18.4,
+      "attributed": 18.4,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Digital card",
+      "lines": [
+        {
+          "amount": 18.4,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "NUTSET-M6"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-23",
+      "doc_number": "12503",
+      "total": 858.0,
+      "attributed": 858.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Virtual Card",
+      "lines": [
+        {
+          "amount": 858.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Makeflyeasy HERO VTOL - 1KG Payload"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-11",
+      "doc_number": "12244",
+      "total": 928.0,
+      "attributed": 928.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Purchase for work related to Krateo Sky request",
+      "lines": [
+        {
+          "amount": 928.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Makeflyeasy HERO VTOL - 1KG Payload 144km Range"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-06",
+      "doc_number": "",
+      "total": 64.97,
+      "attributed": 64.97,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Purchase made by Jack Elston. No Asana request",
+      "lines": [
+        {
+          "amount": 64.97,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Purchase made by Jack Elston. No Asana request"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-02-25",
+      "doc_number": "",
+      "total": 74.61,
+      "attributed": 74.61000000000001,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 19.8,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Long-Life, Polypropylene, Narrow, 4\" Long x 2"
+        },
+        {
+          "amount": 13.14,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Phillips Drive, 90 Degree Countersink, M3 Size, 8mm Long"
+        },
+        {
+          "amount": 12.95,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Phillips Drive, 90 Degree Countersink, M3 Size, 12mm Long"
+        },
+        {
+          "amount": 10.18,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Phillips Drive, 90 Degree Countersink, M3 Size, 6mm Long"
+        },
+        {
+          "amount": 12.89,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipping (IRAD General)"
+        },
+        {
+          "amount": 5.65,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Taxes (IRAD General)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-02-24",
+      "doc_number": "S4018184",
+      "total": 78.81,
+      "attributed": 78.81,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 19.5,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "pod_vertical.dxf x 2"
+        },
+        {
+          "amount": 48.63,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "horizontal.dxf x 3"
+        },
+        {
+          "amount": 10.68,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Tail_vertical.dxf"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-02-18",
+      "doc_number": "",
+      "total": 68.39,
+      "attributed": 68.39,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Mixing boats added after Asana request submitted",
+      "lines": [
+        {
+          "amount": 25.7,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "NEIKO 20713A Digital Tachometer"
+        },
+        {
+          "amount": 25.7,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "NEIKO 20713A Digital Tachometer"
+        },
+        {
+          "amount": 16.99,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Mixing boats"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-02-13",
+      "doc_number": "97409746",
+      "total": 120.03,
+      "attributed": 120.03,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 16.25,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "CONN PLUG HSG 4POS 2.00MM x 250"
+        },
+        {
+          "amount": 5.67,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "DESOLDER BRAID ROSIN 0.13\" 5'"
+        },
+        {
+          "amount": 4.38,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "DESOLDER BRAID ROSIN 0.035\" 5'"
+        },
+        {
+          "amount": 4.51,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "DESOLDER BRAID ROSIN 0.075\" 5'"
+        },
+        {
+          "amount": 62.46,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "CONN RCPT FMALE 4P GOLD SLDR CUP x 25"
+        },
+        {
+          "amount": 13.52,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "CONN 22-26AWG CRIMP TIN x 500"
+        },
+        {
+          "amount": 6.99,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipping (IRAD General)"
+        },
+        {
+          "amount": 6.25,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Sales Tax (IRAD General)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-02-13",
+      "doc_number": "",
+      "total": 139.99,
+      "attributed": 139.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*I25AQ5P83 - 4699",
+      "lines": [
+        {
+          "amount": 139.99,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Hoodman 5 Foot Weighted UAV Drone Landing Pad"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-02-06",
+      "doc_number": "2834175",
+      "total": 126.33,
+      "attributed": 126.33,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 11.27,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "PTFE High Temperature Stranded Wire (Gauge: 26, Length: 25 ft., Color: Yellow)"
+        },
+        {
+          "amount": 11.27,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "PTFE High Temperature Stranded Wire (Gauge: 26, Length: 25 ft., Color: Black)"
+        },
+        {
+          "amount": 11.27,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "PTFE High Temperature Stranded Wire (Gauge: 26, Length: 25 ft., Color: Blue)"
+        },
+        {
+          "amount": 11.27,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "PTFE High Temperature Stranded Wire (Gauge: 26, Length: 25 ft., Color: Green)"
+        },
+        {
+          "amount": 11.27,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "PTFE High Temperature Stranded Wire (Gauge: 26, Length: 25 ft., Color: Red)"
+        },
+        {
+          "amount": 57.99,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "45 Amp Permanently Bonded Red/Black Anderson Powerpole Connectors (Sets: 25)"
+        },
+        {
+          "amount": 11.99,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipping (IRAD General)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-01-23",
+      "doc_number": "",
+      "total": 3.08,
+      "attributed": 3.08,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Amazon.com*VH6YF72X3 - 4699",
+      "lines": [
+        {
+          "amount": 3.08,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "365 by Whole Foods Market, Wax Paper, 75 Sq Ft"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-01-21",
+      "doc_number": "2367",
+      "total": 20.04,
+      "attributed": 20.04,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 15.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Adjustable Vertical Shelf Dividers - 24 in. D Cabinet"
+        },
+        {
+          "amount": 3.75,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipping (IRAD General)"
+        },
+        {
+          "amount": 1.29,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Retail Tax (IRAD General)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-01-16",
+      "doc_number": "",
+      "total": 20.94,
+      "attributed": 5.95,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*NH0203O93 - 4699",
+      "lines": [
+        {
+          "amount": 14.99,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Amass 10 Pair XT90 Male Female Bullet Connectors Power Plug"
+        },
+        {
+          "amount": 5.95,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Edward Tools Utility Knife/Box Cutter Snap Off Blades"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-01-14",
+      "doc_number": "172528",
+      "total": 56.42,
+      "attributed": 56.42,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Paid via PayPal",
+      "lines": [
+        {
+          "amount": 22.5,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "FUTABA T6J T8J Toggle Switch Replacement - Long two position x 2"
+        },
+        {
+          "amount": 21.42,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "FUTABA T6J T8J Toggle Switch Replacement - Short three position x 2"
+        },
+        {
+          "amount": 12.5,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipping (IRAD General)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-01-13",
+      "doc_number": "",
+      "total": 36.96,
+      "attributed": 36.96,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Items 1-5 Nate request\nItem 6 - Alex",
+      "lines": [
+        {
+          "amount": 15.99,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Professional Kimtech Science Kimwipes"
+        },
+        {
+          "amount": 3.99,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "HOPELF Bamboo Toothpicks"
+        },
+        {
+          "amount": 7.99,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Amazon Basics Folding Utility Knife"
+        },
+        {
+          "amount": 8.99,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Crescent 4\" Adjustable Black Oxide Wrench"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-12-17",
+      "doc_number": "96441470",
+      "total": 26.6,
+      "attributed": 26.6,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 16.76,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "GCS Parts (CA-DKCA0-305L1-ALI0-O) x 4"
+        },
+        {
+          "amount": 6.99,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Shipping (IRAD General)"
+        },
+        {
+          "amount": 2.85,
+          "account": "Tariffs (deleted)",
+          "description": "Tariff (IRAD General)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-12-09",
+      "doc_number": "96282566",
+      "total": 99.96,
+      "attributed": 99.96,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 8.86,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "CONN SOCKET 22-24AWG CRIMP TIN x 100"
+        },
+        {
+          "amount": 6.94,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "CONN PLUG HSG 4POS 2.00MM x 100"
+        },
+        {
+          "amount": 7.75,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "CONN RCPT HSG 2POS 3.50MM x 25"
+        },
+        {
+          "amount": 67.48,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "SOLDER RA 20AWG 63/37 1LB"
+        },
+        {
+          "amount": 6.99,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Shipping (IRAD General)"
+        },
+        {
+          "amount": 1.94,
+          "account": "Tariffs (deleted)",
+          "description": "IRAD General"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-12-05",
+      "doc_number": "96225866",
+      "total": 52.65,
+      "attributed": 52.65,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 45.66,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Gecko connectors (G125-MC10605L4-0150M/Harwin Inc.) x 2"
+        },
+        {
+          "amount": 6.99,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Shipping (IRAD General)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-12-03",
+      "doc_number": "2112142",
+      "total": 61.99,
+      "attributed": 61.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "virtual card",
+      "lines": [
+        {
+          "amount": 26.0,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "1327-BK Anderson Power Products PP15/30/45 Powerpole Connector Colored Housing, Loose Piece, Red x 50"
+        },
+        {
+          "amount": 26.0,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "1327G6-BK Anderson Power Products PP15/30/45 Powerpole Connector Colored Housing, Loose Piece, Black x 50"
+        },
+        {
+          "amount": 9.99,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Shipping (IRAD General)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-11-20",
+      "doc_number": "",
+      "total": 50.69,
+      "attributed": 50.69,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON PRIME*AS5L55H23 - 4699",
+      "lines": [
+        {
+          "amount": 45.0,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "BAOFENG BF-F8HP (UV-5R 3rd Gen) 8-Watt Dual Band Two-Way Radio"
+        },
+        {
+          "amount": 5.69,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "3M Mount Tape 110 1/2x75"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-10-10",
+      "doc_number": "",
+      "total": 506.65,
+      "attributed": 435.14,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "4 Purchases charged at once: (orders were charged to BST Digi-key account instead of CC)\n$287.99 - 06/24/25\n$43.23 - 07/16/25\n$147.15 - 08/15/25",
+      "lines": [
+        {
+          "amount": 258.0,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "RF RCVR GNSS/GPS 1.575GHZ 24LCC x 2"
+        },
+        {
+          "amount": 29.99,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Shipping (IRAD General)"
+        },
+        {
+          "amount": 16.15,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "TVS DIODE 14VWM 40VC 0402 x 50"
+        },
+        {
+          "amount": 20.09,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "BATT LITHIUM 3V 5.8MAH COIN x 10"
+        },
+        {
+          "amount": 6.99,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Shipping ground (IRAD VTOL)"
+        },
+        {
+          "amount": 117.16,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "IMU ACCEL/GYRO/COMPI2C/SPI 24QFN x 20"
+        },
+        {
+          "amount": 29.99,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Shipping (IRAD General)"
+        },
+        {
+          "amount": 21.29,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "TPS54302DDCR (Texas Instruments)\nIC REG BUCK ADJ 3A SOT23 x 25"
+        },
+        {
+          "amount": 6.99,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Shipping (IRAD S3)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-10-08",
+      "doc_number": "",
+      "total": 240.43,
+      "attributed": 240.43,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MOUSER ELECTRONICS INC - 4699",
+      "lines": [
+        {
+          "amount": 181.54,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Board Mount Pressure Sensors MS5611-BT M-CAPS 3X5X1MM T&R x 20"
+        },
+        {
+          "amount": 50.0,
+          "account": "Tariffs (deleted)",
+          "description": "Tariff Duties (IRAD General)"
+        },
+        {
+          "amount": 8.89,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Shipping (IRAD General)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-27",
+      "doc_number": "",
+      "total": 37.45,
+      "attributed": 37.45,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*ZV6VU6KI3 - 4699",
+      "lines": [
+        {
+          "amount": 15.5,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "3M\u2122 Blenderm\u2122 Surgical Tape, 1525-2, 2 IN x 5 YD (5cm x 4,5m), 6 Rolls/Carton 10 Carton/Case"
+        },
+        {
+          "amount": 21.95,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "3M Dual Lock Reclosable Fastener SJ3"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-09",
+      "doc_number": "",
+      "total": 15.6,
+      "attributed": 15.6,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 15.6,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Loctite Super Glue Professional Liquid, Clear, 0.7 fl oz Bottle, 2 Pack - Superglue for Plastic, Wood, Metal, Crafts & Repair"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-05",
+      "doc_number": "27268",
+      "total": 105.25,
+      "attributed": 105.25,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 97.0,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "LiPo 4000mAh 2S 7.4v Battery Pack"
+        },
+        {
+          "amount": 8.25,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Shipping (IRAD General)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-03",
+      "doc_number": "",
+      "total": 16.99,
+      "attributed": 16.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*D03CU1EI3 - 4699",
+      "lines": [
+        {
+          "amount": 16.99,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Dura-Gold Premium 12\" Sanding Discs - 80 Grit (Box of 5)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-02",
+      "doc_number": "",
+      "total": 16.99,
+      "attributed": 16.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 16.99,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Dura-Gold Premium 12\" Sanding Discs - 120 Grit (Box of 5)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-26",
+      "doc_number": "",
+      "total": 10.9,
+      "attributed": 10.9,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "sim card for hotspot for field work",
+      "lines": [
+        {
+          "amount": 10.9,
+          "account": "Indirect Cost:Office Expenses (deleted):Utilities Expense (deleted)",
+          "description": "sim card for hotspot for field work"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-15",
+      "doc_number": "",
+      "total": 21.99,
+      "attributed": 21.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 21.99,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "SoloGood FPV Transmitter Bag Carry Case Portable for RadiomasterTX16S"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-14",
+      "doc_number": "94199377",
+      "total": 27.39,
+      "attributed": 27.39,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 17.44,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "2057-CA-DKCA1-305L0-AJI5-ND x 4"
+        },
+        {
+          "amount": 6.99,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "shipping (IRAD-General)"
+        },
+        {
+          "amount": 2.96,
+          "account": "Tariffs (deleted)",
+          "description": "Tariff fee (IRAD General)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-07",
+      "doc_number": "94084663",
+      "total": 155.75,
+      "attributed": 30.1,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 19.64,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "2057-CA-DKCA1-305L1-ALI0-ND x 4"
+        },
+        {
+          "amount": 10.46,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "931-1074-ND x 2"
+        },
+        {
+          "amount": 18.15,
+          "account": "Indirect Cost:Supplies (deleted):Shop SuppliesX (deleted)",
+          "description": "ADP-SMAM-RPSF-G-ND x 3"
+        },
+        {
+          "amount": 18.46,
+          "account": "Indirect Cost:Supplies (deleted):Shop SuppliesX (deleted)",
+          "description": "732-13869-ND x 2"
+        },
+        {
+          "amount": 16.38,
+          "account": "Indirect Cost:Supplies (deleted):Shop SuppliesX (deleted)",
+          "description": "5448-AD-SAASAC-001M-ND x 2"
+        },
+        {
+          "amount": 15.99,
+          "account": "Indirect Cost:Supplies (deleted):Shop SuppliesX (deleted)",
+          "description": "ADP-SMAFRP-SMAF-ND x 3"
+        },
+        {
+          "amount": 14.55,
+          "account": "Indirect Cost:Supplies (deleted):Shop SuppliesX (deleted)",
+          "description": "ADP-SMAF-SMAF-ND x 3"
+        },
+        {
+          "amount": 15.9,
+          "account": "Indirect Cost:Supplies (deleted):Shop SuppliesX (deleted)",
+          "description": "ADP-SMAM-SMAM-ND x 3"
+        },
+        {
+          "amount": 10.22,
+          "account": "Indirect Cost:Supplies (deleted):Shop SuppliesX (deleted)",
+          "description": "CONSMA010-ND x 2"
+        },
+        {
+          "amount": 9.01,
+          "account": "Tariffs (deleted)",
+          "description": "Tariff - Shop Supplies"
+        },
+        {
+          "amount": 6.99,
+          "account": "Indirect Cost:Supplies (deleted):Shop SuppliesX (deleted)",
+          "description": "Shipping (Shop Supplies)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-07",
+      "doc_number": "",
+      "total": 19.98,
+      "attributed": 19.98,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON RETA* OO1Q52JV3 - 4699",
+      "lines": [
+        {
+          "amount": 19.98,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Cable Matters 2-Pack Crossover Adapter x 2"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-05",
+      "doc_number": "",
+      "total": 11.97,
+      "attributed": 11.97,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON RETA* OO1Q52JV3 - 4699",
+      "lines": [
+        {
+          "amount": 11.97,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "NEIKO 01323A Ultra Low Profile Offset Screwdriver Set"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-31",
+      "doc_number": "",
+      "total": 68.84,
+      "attributed": 68.84,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "THE HOME DEPOT #1546 - 7333",
+      "lines": [
+        {
+          "amount": 68.84,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Purchases for IRAD General"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-31",
+      "doc_number": "",
+      "total": 51.53,
+      "attributed": 51.53,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON RETA* OO1Q52JV3 - 4699",
+      "lines": [
+        {
+          "amount": 26.0,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Milwaukee 902033036 23x12x12 Canvas Tool Bag W/Strap"
+        },
+        {
+          "amount": 9.99,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "DoAy Blue Painters Tape 4 Inches x 45 Yards"
+        },
+        {
+          "amount": 15.54,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "ScotchBlue Original Multi-Surface Painter's Tape"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-30",
+      "doc_number": "",
+      "total": 194.07,
+      "attributed": 194.07,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "purchased in store - IRAD confirmed by J. Elston",
+      "lines": [
+        {
+          "amount": 41.43,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "LOGITECH M720 TRIATHLON MULTI"
+        },
+        {
+          "amount": 109.04,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "MX KEYS MINI BLACK"
+        },
+        {
+          "amount": 43.6,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "USB 3.0 7 PORTS HUB 2.4A"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-25",
+      "doc_number": "",
+      "total": 3230.55,
+      "attributed": 37.47,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 658.0,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "Meerkat Operating System x 1"
+        },
+        {
+          "amount": 658.0,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "Meerkat Operating System x 1"
+        },
+        {
+          "amount": 658.0,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "Meerkat Operating System x 1"
+        },
+        {
+          "amount": 658.0,
+          "account": "Inventory Asset",
+          "description": "Meerkat Operating System x 1"
+        },
+        {
+          "amount": 258.0,
+          "account": "Inventory Asset",
+          "description": "MX Master 35 Wireless Mouse x 2"
+        },
+        {
+          "amount": 37.46,
+          "account": "Indirect Cost:TaxesX (deleted)",
+          "description": "Sales Tax (Barbados)"
+        },
+        {
+          "amount": 37.46,
+          "account": "Indirect Cost:TaxesX (deleted)",
+          "description": "Sales Tax (Embry Riddle)"
+        },
+        {
+          "amount": 37.46,
+          "account": "Indirect Cost:TaxesX (deleted)",
+          "description": "Sales Tax (Oklahoma)"
+        },
+        {
+          "amount": 37.47,
+          "account": "Indirect Cost:TaxesX (deleted)",
+          "description": "Sales Tax (commercial - geneal)"
+        },
+        {
+          "amount": 47.67,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Barbados)"
+        },
+        {
+          "amount": 47.67,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Embry Riddle)"
+        },
+        {
+          "amount": 47.67,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Oklahoma)"
+        },
+        {
+          "amount": 47.69,
+          "account": "Inventory Asset",
+          "description": "Shipping (commercial - general)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-24",
+      "doc_number": "",
+      "total": 7.55,
+      "attributed": 7.55,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "refund for unavailable items",
+      "lines": [
+        {
+          "amount": 7.55,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "refund for unavailable items"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-23",
+      "doc_number": "TSTTBBKJK",
+      "total": 141.77,
+      "attributed": 141.77,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 110.0,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Dronetag DRI x 2"
+        },
+        {
+          "amount": 31.77,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Shipping (IRAD General)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-18",
+      "doc_number": "100119607",
+      "total": 22.87,
+      "attributed": 22.869999999999997,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 13.0,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "1-1/2 in. PVC TS Flange ASTM D2466 (Socket-Type Pipe Fitting) x 4"
+        },
+        {
+          "amount": 9.87,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Shipping (IRAD General)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-18",
+      "doc_number": "G1541176",
+      "total": 197.72,
+      "attributed": 174.96000000000004,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Virtual Card",
+      "lines": [
+        {
+          "amount": 6.5,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "2 Layers Size 84x54mm 1.6mm x 10"
+        },
+        {
+          "amount": 164.8,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "6 Layers Size 70x70mm 2mm x 5"
+        },
+        {
+          "amount": -5.14,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "discount (IRAD General)"
+        },
+        {
+          "amount": 22.76,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Shipping (IRAD General)"
+        },
+        {
+          "amount": 8.8,
+          "account": "Indirect Cost:Finance & Bank Charges (deleted)",
+          "description": "Bank fee (IRAD General)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-10",
+      "doc_number": "93540703",
+      "total": 70.82,
+      "attributed": 22.93,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4699",
+      "lines": [
+        {
+          "amount": 30.42,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "SWITCH PUSHBUTTON SPST x 2"
+        },
+        {
+          "amount": 6.39,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "CONN HEADER SMD x 10"
+        },
+        {
+          "amount": 6.35,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "CONN HEADER SMD 8POS 1MM x 10"
+        },
+        {
+          "amount": 1.3,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "TVS DIODE 26VWM x 5"
+        },
+        {
+          "amount": 10.56,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "CAP ALUM POLY 120UF x 3"
+        },
+        {
+          "amount": 2.3,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "RES 10K OHM 0.05% x 5"
+        },
+        {
+          "amount": 2.3,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "RES 100K OHM 0.05% x 5"
+        },
+        {
+          "amount": 4.21,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "FUSE BOARD MOUNT x 5"
+        },
+        {
+          "amount": 2.26,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "shipping (IRAD General)"
+        },
+        {
+          "amount": 4.73,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Hurricane)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-09",
+      "doc_number": "",
+      "total": 19.98,
+      "attributed": 19.98,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*NO8BM1L00 - 5769",
+      "lines": [
+        {
+          "amount": 19.98,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "ForPro Professional Collection Disposable Nitrile Gloves x 2"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-04",
+      "doc_number": "S416T425",
+      "total": 137.14,
+      "attributed": 70.72,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "virtual card",
+      "lines": [
+        {
+          "amount": 70.72,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "S0_stand_v2.dxf x 8"
+        },
+        {
+          "amount": 66.42,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "Deployment_tube_Ballast_ca\nmera.dxf x 6"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-04",
+      "doc_number": "",
+      "total": 18.99,
+      "attributed": 18.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*N36942E41 - 4699",
+      "lines": [
+        {
+          "amount": 18.99,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "3M Medical Tape Blenderm Plastic 2\" X 5 Yards"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-04",
+      "doc_number": "",
+      "total": 27.57,
+      "attributed": 27.57,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*N36F54XL1 - 4699",
+      "lines": [
+        {
+          "amount": 9.99,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "2Pcs Drill Chuck Adapter Keyless"
+        },
+        {
+          "amount": 17.58,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "3M Blenderm Transparent"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-06-27",
+      "doc_number": "",
+      "total": 12.99,
+      "attributed": 12.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*NQ0ES8AZ1 - 4699",
+      "lines": [
+        {
+          "amount": 12.99,
+          "account": "Indirect Cost:Supplies (deleted):Shop SuppliesX (deleted)",
+          "description": "COLORTY Replacement for Ptouch Label Tape TZe-651 Black on Yellow 24mm"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-06-27",
+      "doc_number": "",
+      "total": 137.12,
+      "attributed": 137.12,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*NO4XO3WT2 - 4699",
+      "lines": [
+        {
+          "amount": 137.12,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Manfrotto RC2 Compact Rapid Connect Adapter (#3299) w/200PL-14 Plate (#3299) x 2"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-06-27",
+      "doc_number": "1120020933",
+      "total": 239.79,
+      "attributed": 239.79000000000002,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 219.9,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head x 2"
+        },
+        {
+          "amount": 19.89,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Sales tax (IRAD General)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-06-23",
+      "doc_number": "",
+      "total": 17.95,
+      "attributed": 17.95,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*NO4XO3WT2 - 4699",
+      "lines": [
+        {
+          "amount": 17.95,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "BSI Glues: Insta-Set Aerosol Accelerator 4.4 oz (125mg)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-06-20",
+      "doc_number": "",
+      "total": 16.14,
+      "attributed": 16.14,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*NA27R1QL0 - 4699",
+      "lines": [
+        {
+          "amount": 16.14,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "BSI Glues: Insta-Set Aerosol Accelerator 4.4 oz"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-06-18",
+      "doc_number": "",
+      "total": 11.43,
+      "attributed": 11.43,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*NA0UU35Y2 - 4699",
+      "lines": [
+        {
+          "amount": 11.43,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Team Associated 1657 1/4\" Hex Driver Bit"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-06-17",
+      "doc_number": "",
+      "total": 24.44,
+      "attributed": 24.439999999999998,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON RETA* NA8RJ25X1 - 4699",
+      "lines": [
+        {
+          "amount": 14.45,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Dremel EZ476 1 1/2-Inch EZ Lock Rotary Tool Cut-Off Wheels"
+        },
+        {
+          "amount": 9.99,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "44pcs Cutting Wheel Set Compatible with Plastic for Rotary Tool"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-06-12",
+      "doc_number": "0612JELSTON",
+      "total": 169.85,
+      "attributed": 109.21000000000001,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 19.04,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Heat-Shrink Tubing, 0.06\" ID Before Shrinking"
+        },
+        {
+          "amount": 20.53,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Heat-Shrink Tubing, 0.09\" ID Before Shrinking,"
+        },
+        {
+          "amount": 18.76,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "Masking Tape Shapes for Powder Coating"
+        },
+        {
+          "amount": 3.58,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "High-Temperature Abrasion-Resistant Soft Silicone Tubing for Food x 2"
+        },
+        {
+          "amount": 20.5,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Moisture-Seal Heat-Shrink Tubing x 2"
+        },
+        {
+          "amount": 11.55,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Moisture-Seal Heat-Shrink Tubing"
+        },
+        {
+          "amount": 18.22,
+          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "description": "18-8 Stainless Steel Dowel Pin x 2"
+        },
+        {
+          "amount": 20.08,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping: Hurricane"
+        },
+        {
+          "amount": 35.45,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Shipping: IRAD General"
+        },
+        {
+          "amount": 2.14,
+          "account": "Indirect Cost:TaxesX (deleted)",
+          "description": "Sales Tax: IRAD General"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-06-11",
+      "doc_number": "",
+      "total": 22.99,
+      "attributed": 22.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 22.99,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "5mL Luer Lock Syringe (No Needle)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-06-02",
+      "doc_number": "",
+      "total": 37.97,
+      "attributed": 37.97,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 37.97,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Energizer Alkaline Power AA Batteries"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-05-23",
+      "doc_number": "",
+      "total": 16.4,
+      "attributed": 16.4,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 16.4,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Dust-off falcon compressed gas"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-05-13",
+      "doc_number": "",
+      "total": 115.0,
+      "attributed": 115.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 115.0,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Weller 70 Watt Digital Soldering Station"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-05-07",
+      "doc_number": "",
+      "total": 53.24,
+      "attributed": 53.24,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 42.34,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Dremel EZ406-02, EZ - Lock Starter Kit"
+        },
+        {
+          "amount": 10.9,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Dremel 4486 Keyless Chuck - Ideal for 1/32\u201d"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-04-30",
+      "doc_number": "100204707",
+      "total": 31.48,
+      "attributed": 31.48,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 5.72,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Precision Phillips Screwdriver #1 x 60mm"
+        },
+        {
+          "amount": 4.65,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Precision Phillips Screwdriver #0 x 75mm"
+        },
+        {
+          "amount": 9.28,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Precision Slotted Screwdriver 3.0mm x 60mm x 2"
+        },
+        {
+          "amount": 9.99,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Shipping (IRAD General)"
+        },
+        {
+          "amount": 1.84,
+          "account": "Indirect Cost:TaxesX (deleted)",
+          "description": "retail tax (IRAD General)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-04-25",
+      "doc_number": "",
+      "total": 18.99,
+      "attributed": 18.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 18.99,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "ValueMax Caulk Gun"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-04-25",
+      "doc_number": "",
+      "total": 32.98,
+      "attributed": 32.98,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 15.99,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Fermerry 26 AWG Stranded Wire Spool 25ft Each 6 Colors Flexible 26 Gauge Silicone"
+        },
+        {
+          "amount": 16.99,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Fermerry 22 AWG Solid Core Wire Spool 25ft Each 6 Colors"
+        }
+      ]
+    }
+  ],
+  "purchase_orders": [
+    {
+      "type": "PurchaseOrder",
+      "date": "2026-03-18",
+      "doc_number": "1036",
+      "total": 195.0,
+      "attributed": 195.0,
+      "vendor": "E-One Moli Engery Ltd.",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 195.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "M65A cells x 30"
+        }
+      ]
+    }
+  ],
+  "payments": []
+}

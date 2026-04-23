@@ -1,0 +1,179 @@
+{
+  "project_code": "001-12",
+  "qbo_class_names": [
+    "(001-12)  General Customer Support/Project Support"
+  ],
+  "period": {
+    "start": "2025-04-22",
+    "end": "2026-04-22"
+  },
+  "totals": {
+    "revenue": 0.0,
+    "expenses": 292.34,
+    "by_category": {
+      "Indirect Cost:Internal Research and DevelopmentX (deleted)": 220.19,
+      "DIRECT COSTS:DC-Direct Cost Purchases": 43.48,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 14.23,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 13.44,
+      "Indirect Cost:Finance & Bank Charges (deleted)": 1.01
+    }
+  },
+  "invoices": [],
+  "bills": [],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-03-03",
+      "doc_number": "443390803546",
+      "total": 186.24,
+      "attributed": 37.24,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Digital card",
+      "lines": [
+        {
+          "amount": 114.85,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 9.31,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (2026 IDIQ)"
+        },
+        {
+          "amount": 22.97,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 1.87,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Sasquatch)"
+        },
+        {
+          "amount": 34.45,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": ""
+        },
+        {
+          "amount": 2.79,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipping (IRAD General)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-03",
+      "doc_number": "10783",
+      "total": 169.5,
+      "attributed": 33.9,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Umbrella company is Merchant Technologies",
+      "lines": [
+        {
+          "amount": 66.33,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 46.67,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (2026 IDIQ)"
+        },
+        {
+          "amount": 13.27,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 9.33,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Sasquatch)"
+        },
+        {
+          "amount": 19.9,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "expenses IRAD general"
+        },
+        {
+          "amount": 14.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "shipping (IRAD general)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-19",
+      "doc_number": "GIZMU8",
+      "total": 212.08,
+      "attributed": 198.44,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "For NASA Isaac Anderson customer service work on previous purchase",
+      "lines": [
+        {
+          "amount": 198.44,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "MD89MW\n13mm, Coreless, Wide Voltage, High Torque, Metal Gear Actuator x 2"
+        },
+        {
+          "amount": 13.64,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Shipping (Customer Support)"
+        },
+        {
+          "amount": 0.0,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-18",
+      "doc_number": "G1541176",
+      "total": 197.72,
+      "attributed": 22.76,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Virtual Card",
+      "lines": [
+        {
+          "amount": 6.5,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "2 Layers Size 84x54mm 1.6mm x 10"
+        },
+        {
+          "amount": 164.8,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "6 Layers Size 70x70mm 2mm x 5"
+        },
+        {
+          "amount": -5.14,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "discount (IRAD General)"
+        },
+        {
+          "amount": 22.76,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Shipping (IRAD General)"
+        },
+        {
+          "amount": 8.8,
+          "account": "Indirect Cost:Finance & Bank Charges (deleted)",
+          "description": "Bank fee (IRAD General)"
+        }
+      ]
+    }
+  ],
+  "purchase_orders": [],
+  "payments": []
+}
