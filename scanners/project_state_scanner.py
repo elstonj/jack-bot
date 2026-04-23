@@ -34,14 +34,21 @@ from project_state import (
 )
 from asana_client import get_projects as asana_get_projects, get_workspaces as asana_get_workspaces
 from .base import KNOWLEDGE_DIR, update_scan_timestamp
+from . import sow_parser
 
 QBO_BY_CLASS_DIR = KNOWLEDGE_DIR / "quickbooks" / "by_class"
+PURCHASES_DIR = KNOWLEDGE_DIR / "purchases"
 
 # Placeholder loaded labor rate until Rippling pull is wired.
 LABOR_RATE_USD_PER_HR = 125.0
 
 # How many months back to pull Toggl hours for budget math.
 TOGGL_LOOKBACK_MONTHS = 24
+
+# Purchases newer than this window are treated as "committed" (in-flight); older
+# purchases are treated as "spent" (likely reflected in QBO already, but count
+# them until we have a clean dedup against QBO bank transactions).
+COMMITTED_WINDOW_DAYS = 30
 
 
 # ---------------------------------------------------------------------------
@@ -215,6 +222,50 @@ def _load_qbo_by_class(project_code: str) -> Optional[dict]:
             except Exception:
                 continue
     return None
+
+
+def _load_purchase_totals(project_code: str) -> tuple[float, float]:
+    """Sum purchasing@ email records for this project.
+
+    Returns (spent_older_than_window, committed_within_window). Records with
+    `is_purchase=false` or missing amounts are ignored. Matches both dash and
+    underscore forms of the canonical code.
+    """
+    if not PURCHASES_DIR.exists():
+        return (0.0, 0.0)
+    canon = _canonicalize_code(project_code)
+    variants = {canon, canon.replace("-", "_")}
+    cutoff = date.today() - timedelta(days=COMMITTED_WINDOW_DAYS)
+    spent = 0.0
+    committed = 0.0
+    for p in sorted(PURCHASES_DIR.glob("20*.json")):
+        try:
+            recs = json.loads(p.read_text())
+        except Exception:
+            continue
+        for r in recs:
+            if not r.get("is_purchase"):
+                continue
+            raw_code = (r.get("project_code") or "").strip()
+            if not raw_code:
+                continue
+            if _canonicalize_code(raw_code) not in variants:
+                continue
+            amt = r.get("amount_usd")
+            try:
+                amt = float(amt or 0)
+            except (TypeError, ValueError):
+                continue
+            d = r.get("date") or ""
+            try:
+                d_parsed = date.fromisoformat(d) if d else None
+            except Exception:
+                d_parsed = None
+            if d_parsed and d_parsed >= cutoff:
+                committed += amt
+            else:
+                spent += amt
+    return (round(spent, 2), round(committed, 2))
 
 
 # ---------------------------------------------------------------------------
@@ -485,12 +536,53 @@ def _find_asana_project(all_projects: list[dict], code: str, name: str) -> Optio
     return None
 
 
+def _apply_sow_terms(state: ProjectState, terms: dict) -> None:
+    """Merge Haiku-extracted SOW/proposal terms into a ProjectState.
+
+    SOW data wins over Asana custom fields — the SOW is the authoritative
+    contract document, Asana fields are human-entered and often stale. When
+    SOW gives None we keep Asana's value.
+    """
+    approved = terms.get("budget_approved")
+    if approved is not None:
+        state.budget.approved = float(approved)
+        state.budget.approved_source = "sow_drive"
+
+    line_items = terms.get("line_items") or []
+    state.budget.line_items = [
+        BudgetLineItem(
+            category=str(li.get("category", "Other")),
+            amount=float(li.get("amount") or 0),
+            description=li.get("description"),
+        )
+        for li in line_items
+        if li.get("amount") is not None
+    ]
+
+    ctype = terms.get("contract_type")
+    if ctype in ("fixed_price", "cost_reimbursable", "t_and_m"):
+        state.contract.type = ctype  # type: ignore[assignment]
+    if terms.get("contract_number"):
+        state.contract.number = terms["contract_number"]
+    if terms.get("start_date"):
+        state.contract.start_date = terms["start_date"]
+    if terms.get("end_date"):
+        state.contract.end_date = terms["end_date"]
+    if terms.get("payment_cadence"):
+        state.contract.payment_cadence = terms["payment_cadence"]
+
+    for doc in terms.get("_source_docs") or []:
+        if doc not in state.contract.documents:
+            state.contract.documents.append(f"drive://{doc}")
+
+
 def build_project_state(
     code: str,
     name: str,
     category: Category,
     all_asana_projects: list[dict],
     toggl_hours: dict[str, float],
+    drive_user_email: Optional[str] = None,
 ) -> ProjectState:
     print(f"  [{code}] {name} ({category})")
 
@@ -535,7 +627,7 @@ def build_project_state(
         except Exception:
             pass
 
-        # Budget approved from Asana custom fields
+        # Budget approved from Asana custom fields (fallback when SOW missing)
         approved = _parse_money(
             cf.get("Total Funding to Black Swift") or cf.get("Total Budget") or ""
         )
@@ -546,6 +638,15 @@ def build_project_state(
             state.budget.approved_source = "SOW_pending"
     else:
         state.budget.approved_source = "no_asana_project"
+
+    # --- Drive SOW/proposal extraction (wins over Asana fields) ---
+    if category in ("contract", "customer_support", "bd") and drive_user_email:
+        try:
+            terms = sow_parser.extract_for_project(drive_user_email, code)
+            if terms:
+                _apply_sow_terms(state, terms)
+        except Exception as e:
+            print(f"    [WARN] SOW parse failed: {e}")
 
     # --- QBO by-class ---
     qbo = _load_qbo_by_class(code)
@@ -568,12 +669,22 @@ def build_project_state(
             last_updated=date.today().isoformat(),
         )
 
-    # --- purchases from purchasing@ emails (deferred to week 2) ---
-    state.budget.spent.purchases = SpendBreakdown(
-        amount=0.0,
-        source="purchasing@ emails (not yet wired)",
-        confidence="placeholder",
-    )
+    # --- purchases from purchasing@ emails (week 2) ---
+    purch_spent, purch_committed = _load_purchase_totals(code)
+    if purch_spent or purch_committed:
+        state.budget.spent.purchases = SpendBreakdown(
+            amount=purch_spent,
+            source=f"purchasing@ emails (older than {COMMITTED_WINDOW_DAYS} days)",
+            confidence="estimate",
+            last_updated=date.today().isoformat(),
+        )
+        state.budget.committed = purch_committed
+    else:
+        state.budget.spent.purchases = SpendBreakdown(
+            amount=0.0,
+            source="purchasing@ emails (no records matched this project)",
+            confidence="placeholder",
+        )
 
     # Totals
     state.budget.spent.total = round(
@@ -602,12 +713,16 @@ def build_project_state(
     return state
 
 
-def scan_all(filter_categories: Optional[list[str]] = None) -> list[Path]:
+def scan_all(
+    filter_categories: Optional[list[str]] = None,
+    skip_drive: bool = False,
+) -> list[Path]:
     """Build project-state JSON for every entry in categories.md.
 
     Args:
         filter_categories: if provided, only process projects whose category
             is in this list (e.g. ["contract"] for week-1 rollout).
+        skip_drive: disable SOW parsing (useful for fast iteration).
     """
     entries = load_categories()
     if filter_categories:
@@ -628,11 +743,22 @@ def scan_all(filter_categories: Optional[list[str]] = None) -> list[Path]:
     toggl_hours = _toggl_hours_by_project()
     print(f"  {len(toggl_hours)} Toggl projects with hours")
 
+    drive_email = None
+    if not skip_drive:
+        drive_email = (
+            os.environ.get("GOOGLE_ADMIN_EMAIL")
+            or "elstonj@blackswifttech.com"  # matches daily_research default
+        )
+        print(f"  SOW parsing via {drive_email}")
+
     PROJECT_STATE_DIR.mkdir(parents=True, exist_ok=True)
     written: list[Path] = []
     for code, name, category in entries:
         try:
-            state = build_project_state(code, name, category, all_projects, toggl_hours)
+            state = build_project_state(
+                code, name, category, all_projects, toggl_hours,
+                drive_user_email=drive_email,
+            )
             path = save_project_state(state)
             written.append(path)
         except Exception as e:
