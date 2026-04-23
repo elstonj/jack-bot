@@ -9,11 +9,11 @@
 - **Risk signals**: None identified
 
 ## Key Deliverables & Milestones
-This is a contact database, not a project with deliverables. Contains 90 contacts across:
+This is a contact database, not a project with deliverables. Contains 92 contacts across:
 - **Government agencies**: NASA (Ames, Goddard, Langley, JPL), NOAA, USDA, Army, Navy (NAVAIR/NAWCAD), USAF, USGS
 - **Universities**: Stanford, UC Boulder, UC Santa Cruz, Oklahoma State, Notre Dame, Embry-Riddle, Murray State, University of Maryland Eastern Shore, University of Miami, Old Dominion, University of Washington
 - **Commercial companies**: 
-  - Contractors/service providers (manufacturing, consulting, legal, accounting, insurance)
+  - Contractors/service providers (aircraft construction, manufacturing, consulting, legal, accounting, insurance)
   - Freight/logistics providers
   - Software/technology partners
   - Business development consultants
@@ -22,7 +22,7 @@ This is a contact database, not a project with deliverables. Contains 90 contact
   - Communications/ISP providers
 
 ## Task Summary
-- **Total tasks**: 90 open, 0 completed
+- **Total tasks**: 92 open, 0 completed
 - **Tasks by assignee**: All unassigned (contact records only)
 - **Data structure**: Each "task" represents a contact with structured custom fields:
   - Company/Agency/Name
@@ -36,7 +36,10 @@ This is a contact database, not a project with deliverables. Contains 90 contact
 
 ## Recent Activity
 - Status update from April 21 shows project is active
-- **New contact added**: Comcast (Cobb Vaughan, Account Manager) — office: 720-924-3070, cell: 720-670-7191
+- **New contacts added** (April 2025):
+  - **Northwind Composites** (Lee Skidmore) — UAV manufacturing subcontractor, lee@rubiconaerospace.com, (208) 290-5585, Sandpoint, ID
+  - **Phase 1 Aviation** (Sean Cole) — Aircraft construction contractor, Sean@phase1av.com, (541) 771-7233, Nampa, ID; shipping to 514 Dishman Pl, Caldwell, ID 83605
+  - **Comcast** (Cobb Vaughan, Account Manager) — office: 720-924-3070, cell: 720-670-7191
 - Notable upcoming activities & milestones:
   - **May 5, 2025**: Invoice 1666 submitted for S2 parts (Prof. Fu Kuo Chang, Stanford)
   - **July 2025**: Tim Handley (UC Santa Cruz) planning visit to Boulder
@@ -62,6 +65,8 @@ This is a contact database, not a project with deliverables. Contains 90 contact
 - **Ryan Rickert** (USAF 53rd Weather Reconnaissance Squadron) — Chief Meteorologist, S0 product
 - **Elizabeth Sanabia** (University of Washington Applied Physics Lab) — Senior Principal Oceanographer, retired US Navy Captain
 - **Cobb Vaughan** (Comcast) — Account Manager, office: 720-924-3070, cell: 720-670-7191
+- **Lee Skidmore** (Northwind Composites) — UAV manufacturing subcontractor
+- **Sean Cole** (Phase 1 Aviation) — Aircraft construction contractor
 
 ### High-Priority Contacts
 - **Sabu Best** (Barbados Meteorological Services)
@@ -92,7 +97,9 @@ This is a contact database, not a project with deliverables. Contains 90 contact
 - **Legal**: Koenig, Oelsner, Taylor, Schoenfeld & Gaddis PC (transactional law) — Dana Fredrickson contact
 - **Manufacturing**: 
   - MM Solutions (custom UAS cases) — Foster Hill
-  - Northwind Composites (UAV manufacturing) — Lee Skidmore
+  - Northwind Composites (UAV manufacturing) — Lee Skidmore, lee@rubiconaerospace.com, (208) 290-5585
+- **Aircraft Construction**:
+  - Phase 1 Aviation (aircraft construction) — Sean Cole, Sean@phase1av.com, (541) 771-7233, Nampa, ID; freight to 514 Dishman Pl, Caldwell, ID 83605
 - **Accounting/Tax**: 
   - JB Advisory Group (CPA) — Julie Beth Malone
   - Jones & Associates CPAs PC — Bill Jones
@@ -100,21 +107,4 @@ This is a contact database, not a project with deliverables. Contains 90 contact
   - GovIRG LLC (gov't contracting & accounting) — Kevin Hoskins
 - **Consulting**: 
   - Boreas Consulting (management) — Gijs de Boer
-  - P3 Tech Consulting (UAS issues) — Dawn Zoldi
-  - ByLight Professional IT Services (design/prototyping) — Bryan Sparling, Tech Lead Jeff Adelman
-- **Weather/Climate Services**:
-  - Nexus Weather & Climate — Luke Peffers
-
-### Government/Invoice Portals
-- **PIEE**: Navy/Air Force invoice submission portal
-- **IPP**: US Treasury portal for NASA/NOAA invoices
-
-### Notable Relationships & Context
-- **University Subcontracting Chain**: BST (Prime) → ERAU (sub) → University of Miami (Jun Zhang)
-- **Flight Testing**: Sunny Slope Sod Farm LLC (Longmont, CO)
-- **Pilot Resources**: 
-  - Rocky Mountain High Aviation (D. Hesselius, drone pilot)
-  - DSKinetic LLC (Spencer Lisenby, subcontractor pilot)
-- **Aerospace Association**: Boulder Aeromodeling Society (Nate and Jack are 2025 members)
-- **Landlord**: W. W. Reynolds Companies (Wilderness Pl location) — Amy Smith
--
+  - P3 Tech Consulting (UAS issues) — Dawn
