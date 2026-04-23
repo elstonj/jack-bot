@@ -5,7 +5,7 @@
 This channel tracks the development and flight testing of the **By Light Mustang aircraft**, a customer contract for the U.S. Air Force testing at Yuma. The project uses a two-phase approach: first flying the original Mustang to demonstrate its limitations for the 400km range mission, then developing the new Chilli airframe to meet full mission specs (400km range at 30m/s cruise with 4kg payload).
 
 **Key Participants:**
-- Maciej (project lead, flight operations)
+- Maciej (project lead, flight operations, task oversight)
 - Ethan Domagala (design, measurements, avionics integration)
 - Dan Prendergast (flight test coordination)
 - Jack Elston (backup pilot, vehicle support, approvals)
@@ -15,7 +15,7 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - Dan H., Terry Tate, Spencer (contractors/specialists)
 - Alex Lomis (components/inventory, battery design)
 
-**Activity Level:** High, covering October 2025 through April 2026, with regular flight tests, design iterations, and scope management updates.
+**Activity Level:** High, covering October 2025 through April 2026, with regular flight tests, design iterations, and scope management updates. Recent activity (April 20, 2026) shows ongoing task management and resource allocation discussions.
 
 ## Key Decisions
 
@@ -107,6 +107,4 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - **Target:** Two demo-able Chilli aircraft ready for customer by March 2026
 - **Component Needs (as of April 7, 2026):** 
   - 10 additional actuator boards
-  - 2 GPS boards
-  - 7 additional actuators for NASA S2 wingset
-  
+  -

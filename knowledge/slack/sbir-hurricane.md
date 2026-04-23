@@ -40,12 +40,21 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Sensor boom compatibility identified as critical - older booms incompatible with newer sensors (April 10, 2026)
 - Reconditioning cycle confirmed effective for correcting humidity sensor bias (April 17, 2026)
 
+**Display Aircraft Production (April 21-22, 2026):**
+- Approved production of 4 display S0 units: 2x 2025 models for near-term delivery (end of May target), 2x 2026 models for early-mid July delivery (April 21, 2026)
+- Display units to ship without tripods/mounts/carry cases in cardboard tubes or boxes, shipped folded (April 22, 2026)
+- Special thicker-skin wings to be commissioned for display models to improve appearance (April 21, 2026)
+- Wing springs and antenna NOT to be pre-installed on display units to reduce shipping damage risk (April 22, 2026)
+- Tripod and mount solution added to 2x display units at ~$200 cost (5 min labor) (April 22, 2026)
+- Delivery deadline: June 5, 2026 for DC event requirement; shipment to AOC or HQ for redistribution (April 22, 2026)
+
 ## Projects & Initiatives
 
 **S0 Hurricane Aircraft System:**
 - Primary deliverable: 16-18 complete S0 systems for NOAA hurricane reconnaissance (expanded to 25-30 additional for 2025 season)
+- 2026 production run: 30 operational S0s plus 5 additional "extras" for testing 2027 features
 - Specifications: 2.6 lbs GTOW, 32.8" wingspan, 22.5 m/s cruise speed, 2+ hour endurance
-- Sensors: Vaisala RSS421, MLX90614ESF thermal sensor, 9-hole pressure system
+- Sensors: Vaisala RSS421 (RS41), MLX90614ESF thermal sensor, 9-hole pressure system, Vaisala RS41 measurement rate ~5Hz (may vary with temperature)
 - Communication: 400MHz licensed band with 150+ nautical mile range demonstrated
 - 2026 Avon Park operations: Dual S0 deployments from P3 aircraft with coordinated multi-UAS capability
 
@@ -69,6 +78,7 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - 400MHz radio integration with tablet interface and hot-swappable USB radio modules
 - Real-time telemetry and flight plan generation capabilities
 - Channel 1 and Channel 2 radio configuration with dynamic switching capability
+- Dual-radio capability being added to new ground stations under procurement (~1 hour work for firmware/artwork updates) (April 21, 2026)
 
 **GCS Issues Identified and Fixed (April 7-8, 2026):**
 - Power shutdown bug: UPS driver incorrectly reporting -0.000001A causing premature power-off at 100% battery charge
@@ -84,23 +94,4 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
   - Impact: Nearly saturated communications bandwidth preventing proper tablet reconnection handshakes
   - Mitigation: Requires bandwidth optimization; science team communication essential for balancing data needs
 - RSSI reporting issue: Ch2 showing -1 values while still transmitting telemetry (signal degradation masked)
-- RF cable quality: Channel 2 showing 15dB worse RSSI than Channel 1 initially, improved to 1.7dB loss (Ch1) vs 2.5dB (Ch2) after cable replacement by AOC
-
-**Vaisala RSS421 Humidity Sensor Resolution (April 8-17, 2026):**
-- Initial issue: Systematic RH readings 20-30% lower than reference measurements affecting all 2025 aircraft
-- Root cause investigation completed:
-  - Issue isolated to PCB and individual unit configuration variations, not sensor boom or connectors
-  - Heating mode critical: must be ON for accurate readings
-  - Older sensor booms incompatible with newer sensors causing heating mode to disable
-  - New and old sensors read identically when tested on compatible boom/airframe combinations
-  - Firmware versions with undefined status bits 11-12 (newer Vaisala manual may clarify)
-  - Reconditioning cycle (heating time) affects stabilization but not core accuracy
-  - Post-reconditioning, some units that read low initially began reading correctly
-  - First reading often correct, then rapidly reduces (possible heater control issue)
-- **Recent Resolution (April 17, 2026):**
-  - Jack Elston identified ~3% RH bias in "new" units compared to reference units
-  - Reconditioning cycle successfully removed the 3% bias across affected units
-  - All units now reading consistently after reconditioning
-  - Status: Issue appears resolved; units can return to service
-- Actions taken:
-  - Technical support tickets opened with Vaisala requesting updated
+- RF cable quality: Channel 2 showing 15dB worse RSSI than Channel 1 initially, improved to 1.7dB loss (Ch1) vs 2

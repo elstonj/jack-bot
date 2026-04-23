@@ -6,9 +6,9 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 **Key Participants:** Jack Elston (primary decision-maker), Maciej (technical/proposal support), Meredith (budget/administrative), Dan Prendergast (proposal coordination), Beck Cotter (program management), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm, and others contributing to specific proposals.
 
-**Activity Level:** High throughout the period (March 2024 - April 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Most recent activity (April 2026) continues to show high intensity with multiple concurrent RFI submissions and ongoing technical discussions.
+**Activity Level:** High throughout the period (March 2024 - April 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Most recent activity (April 2026) continues to show high intensity with multiple concurrent submissions and ongoing technical discussions.
 
-**Time Range:** March 3, 2024 - April 17, 2026
+**Time Range:** March 3, 2024 - April 22, 2026
 
 ---
 
@@ -61,6 +61,19 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 - **FireScore opportunity removed** (April 14, 2026): Jack Elston directed removal from tracking due to lack of viable opportunities.
 
+- **NASA Phase I BAA topic selection** (April 21, 2026): Identified AERO.4 and AERO.7 as strongest fit:
+  - **AERO.4 – Flight Test Measurement Technologies:** Focus on advanced sensing, telemetry, data acquisition for UAV flight testing in challenging environments (wildfire, hazardous weather)
+  - **AERO.7 – Wildfire Response Requirements:** Digital/automated aerial firefighting coordination with persistent monitoring, low-visibility/GPS-independent navigation, multi-mission resource coordination
+  - **Due Date:** May 21, 2026 (quick turnaround)
+  - **Previous funding status:** Only one Phase 1 funded in wildfire topic so far; decision pending on which angle to pursue for wildfire proposal
+
+- **NASA 2026B SBIR focus** (April 21, 2026): Maciej confirmed only 2026B SBIR release contains non-space topics with BST fit (other releases space-focused)
+
+- **DOE Genesis Proposal timeline** (April 22, 2026): 
+  - Beck Cotter raised concern about lead/subcontractor arrangement change requiring renegotiation in short timeframe
+  - Due date: April 28, 2026 (potentially may move to May 1)
+  - Budget package expected from BNL partner within 1-2 days; narrative and summary documentation in progress
+
 ### Demo and Testing Decisions
 - **Overwater delivery demo accepted** (February 2025): Selected from 44 submissions (1 of 12); scheduled for Oahu, March 11, 2025, with S3 as preferred platform (15-30 mile range requirement). Phase 2 planned for summer 2026 field experimentation in Oceania.
 
@@ -69,24 +82,6 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 - **Frank/Crimson Viper assessment** (July 2024): Frank gave 70% probability on deal from demo; explored Hawaii demo alternative as fallback option.
 
 - **NexTech Canada demo selected** (April 2026): BST selected for Ottawa demo ~May 26, 2026 (paid event, 8 vendors invited). Downselection to 3 vendors for second demo in Whitehorse later in year. Procurement potential: 180 units (60 teams × 3 platforms each). Cold weather camera integration identified as critical competitive advantage. All logistics, flight permissions, and aircraft registration to be handled by NexTech; BST responsible for piloting/operating system.
-
-### Audit & Compliance Decisions
-- **DCAA Audit notification** (April 9, 2026): Audit triggered as prerequisite for Navy SBIR Phase II funds (not required for STTR). Beck Cotter clarified this was anticipated and necessary for award; misunderstanding about accounting system readiness was corrected in DCAA response. No monetary cost unless remediation required. Also noted potential trigger of larger "Single Audit" if $750K+ in federally funded awards spent in calendar year (likely with two Navy Phase II awards).
-
----
-
-## Projects & Initiatives
-
-### NASA Programs
-
-**ROSES Proposal (NOAA Collaboration)**
-- **Status:** Two submission cycles (May 2024, June 2024)
-- **Details:** Fire detection using NightFOX payload, soil moisture monitoring (with Kyle/CSU), 3D winds for fire forecasts (with James/NCAR)
-- **Scope of Work:** Flights at Sod Farm and San Luis Valley; shipping estimates from previous ROSES cycle reused
-- **Budget:** First cycle $700K total (Ira's team); second cycle $116-126K for Ira's portion
-- **Contacts:** Ira (lead), Troy/Joe (payload support letters), Matthew Fladeland (NASA Ames)
-
-**NASA A2.01 "Revolutionizing UAS Navigation: Low SWaP-C Sensor Suite"**
-- **Status:** Submitted 3/10, NOT SELECTED (announcement 8/26)
-- **Partners:** Chris Heckman (CU) for terrain-aware flight and GPS-denied navigation
-- **
+  - **Specifications Updated** (April 21, 2026): Canadian government requirements clarified:
+    - **Platform:** S3 Nomad
+    - **Range:** 120 km or 1 hour 35 minutes time

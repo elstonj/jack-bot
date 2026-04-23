@@ -1,115 +1,108 @@
 # Nate Straus — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 573 (564 previous + 9 new)
+- **Total messages scanned:** 597 (573 previous + 24 new)
 - **Date range:** January 2025 – April 2026 (15 months)
-- **Approximate volume:** 35–37 messages per week (consistent baseline)
-- **Recent activity (Apr 17, 2026):** Final day of week shows sustained intensity on aviation insurance finalization and S3 project check-ins
+- **Approximate volume:** 35–40 messages per week (consistent baseline)
+- **Recent activity (Apr 20–22, 2026):** Post-policy-finalization week shows sustained project coordination intensity; multiple parallel workstreams active simultaneously
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Contacts (BST)
-- **Jack Elston** (elstonj@blackswifttech.com) — Primary collaborator; now visible in active S3 check-in exchanges (Apr 17); continues coordinating across projects; ~87 total messages
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — Operations/logistics lead; heavily engaged in final aviation insurance policy negotiations (Policy #9032844); direct broker coordination (Apr 17); ~67+ messages
-- **Joshua Fromm, Ethan Domagala, Daniel Prendergast, Maciej Stachura, Alex Lomis, Sam Hild** — Core team continuing in project support roles
+- **Jack Elston** (elstonj@blackswifttech.com) — Primary operational hub; now visible coordinating across S3, S2 Avionics, and U-Haul logistics (Apr 20–22); rapid multi-message exchanges typical of his role; ~100+ total messages
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Procurement/vendor coordination lead; managing foam/assembly leadtime negotiations with MM Solutions (Foster Hill) and Vertiq motor orders (Chance Rogers); handling supply chain bottlenecks; ~70+ messages
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — Operations/logistics; now coordinating U-Haul rental logistics with Maciej Stachura (Apr 20–21); continues post-insurance-policy operational duties; ~70+ messages
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — **NEW VISIBLE CONTACT:** Sales/customer inquiries; forwarding external SwiftFlow Multi-Hole Probe research inquiry to Nate (Apr 21, flagged IMPORTANT with YELLOW_STAR); suggests Nate provides technical responses to prospects
+- **Maciej Stachura, Daniel Prendergast** — Core team support roles (logistics, S3 project coordination)
 
 ### Top External Contacts
-- **Tanay Topac** (tanaytopac@stanford.edu / tanaytopac@gmail.com) — Stanford S2 Avionics collaboration remains active (previous period dominance continues)
-- **Kevin S. Rozmiarek** (Kevin.Rozmiarek@colorado.edu) — **S3 Project:** Active check-in thread on Apr 17 with Jack Elston and Nate; marked IMPORTANT; appears to be mid-project status update
-- **Michael Rhodes, Brian M Argrow, Melissa Wagner** (colorado.edu) — Aircraft demonstration coordination ongoing
-- **Marco Martinez** (Marco.Martinez@colorado.edu) — Facility tour coordination (Apr 23 visit scheduled)
-- **Ken Jochim** (kjjochim@aol.com) — BAS (Boulder Aerial Society) operations
-- **Debbie Rampy** (debbie@bolderins.com) — **Insurance Broker:** Final push on aviation policy (4 messages on Apr 17 alone); coordinating with Meredith Needham and Jack Elston; policy effective 04/21/2026; marked IMPORTANT across all exchanges
+- **Tanay Topac** (tanaytopac@stanford.edu) — Stanford S2 Avionics collaboration remains active; rapid 3-message exchange with Jack Elston on Apr 20 (11:07am–22:35pm UTC span); marked IMPORTANT; project momentum continues
+- **Kevin S. Rozmiarek** (Kevin.Rozmiarek@colorado.edu) — **S3 Project:** Direct status exchange with Nate on Apr 20 (09:11am–10:08am MDT); appears resolved or documented this week
+- **Foster Hill** (fhill@mmsolutions.biz) — **MM Solutions:** Supply chain vendor; foam/assembly leadtime negotiations; 3 exchanges Apr 21–22 with Joshua Fromm; marked IMPORTANT; critical path item for production
+- **Chance Rogers** (chance.rogers@vertiq.co) — Vertiq motor supplier; order status inquiry (Apr 20, marked IMPORTANT); Joshua Fromm managing order pipeline
+- **Ellie Zhang** (via support@blackswifttech.com, forwarded by Support) — **External inquiry:** Flight Control Architecture question routed through support channel (Apr 21, marked IMPORTANT); suggests BST fielding technical inquiries from external researchers/customers
 
-### Vendors & Suppliers (Recent Activity)
-- **Chance Rogers** (chance.rogers@vertiq.co) — Vertiq motor orders (previous period)
-- **market08@jiefeigao.com** (Jiefei Gao) — PCB manufacturing inquiry forwarded to support@ address; supporting SwiftCore & NASA/NOAA programs (Apr 17)
+### Vendors & Suppliers (Active)
+- **MM Solutions (Foster Hill)** — Foam/assembly component supplier; active leadtime negotiation (Apr 21–22)
+- **Vertiq (Chance Rogers)** — Motor supplier; 23-14 920kV order status tracking (Apr 20)
+- **Toggl Track** — Time tracking tool; automated status email (Apr 20)
 
 ### Newsletter/Automated
-- Google Gemini/Meet, Google Calendar, Google Docs (unchanged from prior)
+- Google Gemini (meeting notes) — Apr 22 BST Internal Update Meeting
+- Toggl Track (time tracking automation)
+- Google Calendar, Google Docs (unchanged)
 - Principal Financial Group (unchanged)
 
 ---
 
 ## Topic Patterns
 
-### Primary Active Projects (Apr 17 Snapshot)
+### Primary Active Projects (Apr 20–22 Snapshot)
 
-1. **Stanford SACL | Timestamp S2 Avionics** (Previous period dominance)
-   - No new messages in this batch; project appears in steady-state after intensive Apr 7–16 period
+1. **Stanford SACL | Timestamp S2 Avionics**
+   - **Status:** Active exchanges between Jack Elston ↔ Tanay Topac (Apr 20)
+   - **Timeline:** 
+     - 11:07am — Jack to Tanay (outbound)
+     - 11:44am — Jack response (rapid turn)
+     - 17:40pm UTC (22:35pm UTC = ~11:35pm CET) — Tanay final message same day
+   - **Signal:** Multi-round discussion suggesting technical review, feedback loop, or milestone coordination
+   - **Flagged:** IMPORTANT across all exchanges
 
-2. **S3 Project**
-   - **Status:** Active check-in thread (Apr 17, 10:13am–10:17am MDT)
-   - **Participants:** Nate → Jack Elston; Kevin Rozmiarek (CU Boulder) responding to both; marked IMPORTANT
-   - **Signal:** Mid-project status update or milestone check; university collaboration continues
+2. **S3 Project (CU Boulder)**
+   - **Status:** Completed status check (Apr 20, 09:11am–10:23am MDT)
+   - **Participants:** Nate → Kevin Rozmiarek (initial); Jack Elston ↔ Nate (internal relay); Daniel Prendergast copied
+   - **Timeline:**
+     - 09:11am — Nate initiates to Kevin
+     - 10:08am — Kevin response
+     - 10:23am, 10:27am, 10:33am — Jack coordinates internally with Nate + Daniel
+   - **Signal:** Status check appears concluded; internal team briefing follow-up (Jack-Nate exchanges)
+   - **All marked IMPORTANT**
 
-3. **Black Swift Technologies Aviation Policy #9032844**
-   - **Effective Date:** 04/21/2026 (4 days from Apr 17)
-   - **Status:** Final negotiation phase on Apr 17 (multiple exchanges same day)
-   - **Participants:** Debbie Rampy (broker) ↔ Meredith Needham (operations lead) + Jack Elston + Nate (approval chain)
-   - **Activity Timeline:** 
-     - 10:17am — Meredith to Debbie (inquiry)
-     - 18:27pm, 18:34pm — Debbie to Meredith (rapid back-to-back responses)
-     - 13:27pm, 19:30pm — Jack Elston ↔ Debbie Rampy (escalation/approval)
-   - **All marked IMPORTANT/UNREAD**
-   - **Signal:** Policy approval/finalization expected imminently; time-sensitive before effective date
+3. **Supply Chain / Production Logistics (Emerging Critical Path)**
+   - **Foam/Assembly Component (MM Solutions)**
+     - Initiated: Apr 21, 17:02pm (Joshua Fromm to Foster Hill, "Leadtime on foam / assembly")
+     - Responses: Apr 22, 14:58pm UTC + 19:27pm UTC (same-day multiple replies from vendor)
+     - **Flagged:** IMPORTANT across all 4 messages
+     - **Signal:** Lead time inquiry suggests production schedule pressure; vendor provided rapid responses (critical item)
+   
+   - **Vertiq Motor Order (23-14 920kV)**
+     - Apr 20, 09:11am — Chance Rogers (vendor) to Joshua Fromm
+     - **Flagged:** IMPORTANT
+     - **Signal:** Order status check or delivery tracking
+   
+   - **U-Haul Logistics Coordination**
+     - Apr 20, 17:16pm — Meredith Needham forwards U-Haul order to Maciej Stachura
+     - Apr 20, 17:29pm — Maciej escalates back (Meredith + Jack copied)
+     - Apr 21, 13:11pm — Meredith's reply (flagged IMPORTANT)
+     - **Signal:** Logistics/transportation coordination for equipment/payload movement; multi-stakeholder approval
 
-4. **PCB Manufacturing Partnership**
-   - **Vendor:** Jiefei Gao (market08@jiefeigao.com)
-   - **Programs:** SwiftCore & NASA/NOAA initiatives
-   - **Status:** Initial outreach routed to support@ (not directly to Nate); categorized as forums/inquiry (Apr 17, 23:00 UTC+8)
+4. **External Sales/Technical Inquiries**
+   - **SwiftFlow Multi-Hole Probe for Drone Research**
+     - Apr 21, 06:58am — Beck Cotter (sales) forwards inquiry to Nate
+     - Apr 21, 08:20am — Nate responds, copying Jack Elston (suggesting escalation or approval needed)
+     - **Flagged:** YELLOW_STAR, IMPORTANT (Beck's initial forward)
+     - **Signal:** Prospect inquiry; Nate provides technical response; Jack may handle commercial terms
+   
+   - **Flight Control Architecture Question**
+     - Apr 21, 08:26am — Ellie Zhang inquiry routed through support@blackswifttech.com to Jack
+     - **Flagged:** IMPORTANT, CATEGORY_FORUMS
+     - **Signal:** External researcher/developer question; routed through support then to Jack for policy/response decision
 
-### Secondary Topics (Stable)
-- Mexico Planning (project active, no new messages this batch)
-- USGS Volcano Gas Payload (previous batch activity)
-- Aircraft Demonstration Operations (previous batch, ongoing)
-- BAS field repairs (previous batch activity)
+5. **Internal Operations Meeting**
+   - Apr 22, 19:27pm — Google Gemini notes from "BST Internal Update Meeting" (Apr 22)
+   - **Signal:** Regular team sync; content unknown from metadata alone
+
+### Secondary Topics (Previous Period, Stable)
+- Mexico Planning (no new activity this batch)
+- USGS Volcano Gas Payload (no new activity this batch)
+- Aircraft Demonstration Operations (no new activity this batch)
 
 ---
 
 ## Communication Patterns
 
-### Temporal Patterns (Apr 17 Detail)
-- **Morning activity (10:13am–10:17am MDT):** Nate initiates S3 check-in with Jack; Jack relays to Kevin Rozmiarek at CU
-- **Afternoon spike (13:27pm–18:34pm):** Aviation insurance policy negotiations intensify; broker Debbie Rampy sends 4 messages within 5 hours
-- **Late evening (19:26pm–19:30pm UTC / 1–2pm PDT same day):** Final policy updates flow between broker and BST team
-- **Pattern:** Time-sensitive (deadline-driven) late-week activity typical for Friday policy finalization
-
-### Message Flags
-- **IMPORTANT tag:** Applied to both S3 check-in and all aviation policy exchanges (8 of 9 messages)
-- **UNREAD:** Majority remain unread at scan time (suggesting recent/urgent arrival)
-- **SENT:** 1 message from Nate (S3 check-in response to Jack)
-
-### Inbox Organization
-- Heavy use of IMPORTANT flag for time-critical items
-- Clear priority hierarchy: Insurance/compliance (policy) and project updates (S3) flagged immediately
-
----
-
-## Key Relationships
-
-### Closest Collaborators (By Frequency)
-1. **Jack Elston** — Continues as primary operational liaison; now serving as escalation point for insurance approvals and multi-project coordination
-2. **Meredith Needham** — Direct operational coordinator; taking lead on insurance policy negotiations with broker
-3. **Kevin S. Rozmiarek (CU Boulder)** — S3 project partner; regular status check-ins
-
-### External Relationships (Priority Tier)
-- **High (Time-Critical):** Debbie Rampy (insurance broker) — Policy approval cycle active
-- **High (Active Project):** Tanay Topac + Stanford team (S2 Avionics) — Momentum from previous period continues
-- **Medium (Ongoing Collaboration):** Kevin Rozmiarek (S3), Michael Rhodes + CU Boulder team (aircraft demo)
-
----
-
-## Notable Observations
-
-1. **Insurance Policy Finalization:** Policy #9032844 is in active approval/negotiation phase with 4 days to effective date (Apr 21). Friday afternoon/evening intensity typical of compliance deadline management. Meredith Needham appears to be primary operational contact with broker; Jack Elston handling approvals.
-
-2. **S3 Project Status Check:** Apr 17 exchange suggests scheduled or triggered mid-project review with CU Boulder partner. Quick Jack Elston relay suggests internal coordination before Kevin Rozmiarek receives status request.
-
-3. **Vendor Inquiry Routing:** PCB manufacturing inquiry (Jiefei Gao) routed to generic support@ address rather than directly to Nate, suggesting procurement team handles vendor initial contact; may be escalated later if specialized.
-
-4. **No Stanford S2 Activity This Batch:** Intensity from Apr 7–16 has subsided; project appears to have reached a natural checkpoint or handoff phase.
-
-5. **Friday Workflow Pattern:** 9 messages spanning 7am–11pm UTC+0 (across three time zones) reflects distributed team managing multiple deadlines simultaneously.
+### Temporal Patterns (Apr 20–22)
+- **Monday Apr 20 Morning Burst (09:11am–11:44am MDT):** S3 status check + S2 Avionics coordination; multiple rapid exchanges within 2-hour window
+- **Monday Apr 20 Afternoon (17:16pm–17:40pm):** U-Haul logistics escalation and final S2 Av

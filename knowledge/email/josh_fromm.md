@@ -1,77 +1,84 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 652 (646 previous + 6 new)
-- **Date range:** March 25 – April 20, 2026 (27 days)
-- **Approximate volume:** ~24 emails/day (slight further decline)
-- **Note:** Continuing trend of automated/transactional dominance; 100% of latest batch (Apr 19–20) is vendor/system notifications. Zero human correspondence in this window.
+- **Total messages scanned:** 752 (652 previous + 100 new)
+- **Date range:** March 25 – April 23, 2026 (30 days)
+- **Approximate volume:** ~25 emails/day (stable)
+- **Note:** Continued dominance of automated/transactional email (~75% of latest batch). **New pattern: Apr 21–22 shows significant spike in human correspondence** — reversal of Apr 19–20 silence. Apr 23 returns to automated-only.
 
 ## Key Correspondents
 
-### Top Human Senders (by frequency — unchanged from previous batch)
+### Top Human Senders (updated rankings)
 1. **Beck Cotter** (beck.cotter@blackswifttech.com) — Internal BST — Strategic planning, Industrial Plan feedback
 2. **Jack Elston** (elstonj@blackswifttech.com) — Internal BST — NOAA coordination, Mexico Deployment, operational missions
-3. **Meredith Needham** (meredith.needham@blackswifttech.com) — Internal BST — Status updates, procurement coordination
-4. **Sean Cole** (sean@phase1av.com) — Phase1 Aviation — Materials/component updates
-5. **Cole Kramer** (ckramer@rand.com) — RAND Corporation — RandSIM/Ansys discussions
-6. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Internal BST — NASA/DoD strategy, Asana task notifications
-7. **Joe Cione** (joe.cione@noaa.gov) — NOAA Federal — Event invitations/coordination
-8. **Foster Hill** (fhill@mmsolutions.biz) — MM Solutions — Case orders
-9. **Maciej Stachura** (stachura@blackswifttech.com) — Internal BST — MP JET Parts coordination, Mexico Deployment
-10. **Angie Diefenbach** (adiefenbach@usgs.gov) — USGS Federal — Mexico Deployment coordination
+3. **Meredith Needham** (meredith.needham@blackswifttech.com) — Internal BST — Status updates, procurement coordination, tracking logistics
+4. **Chance Rogers** (chance.rogers@vertiq.co) — **Vertiq (NEW MAJOR CONTACT)** — Motor controller technical issues (81-08 240kv units, PCB problems) — **5+ exchanges Apr 21–22**
+5. **Foster Hill** (fhill@mmsolutions.biz) — MM Solutions — Foam/assembly leadtime, case orders — **3 exchanges Apr 21–22**
+6. **Sean Cole** (sean@phase1av.com) — Phase1 Aviation — Materials/component updates, new order + timeline/priorities
+7. **Cole Kramer** (ckramer@rand.com) — RAND Corporation — RandSIM/Ansys discussions
+8. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Internal BST — NASA/DoD strategy, S20009 discussion (Apr 22)
+9. **Lisa Strod** (lstrod@biscoind.com) — **Bisco Industries (NEW/ELEVATED)** — Tracking info/shipments — **IMPORTANT flagged, Apr 21–22**
+10. **Lee Skidmore** (lee@rubiconaerospace.com) — **Rubicon Aerospace (NEW MAJOR CONTACT)** — Timeline/quantities for S0 tubes, S3 center mold assembly jig CAD — **IMPORTANT, 2 exchanges Apr 20–21**
+11. **Jessica** (jessica@protospacemfg.com) — **ProtoSpace Manufacturing (NEW MAJOR CONTACT)** — RFQ 255039 (sheet metal/custom fabrication) — **IMPORTANT, 2 exchanges Apr 21**
+12. **Matteo Triacca** (matteo@solvi.ag) — **Solvi (NEW CONTACT)** — Reconnecting/product updates — **IMPORTANT, Apr 21**
+13. **Joe Cione** (joe.cione@noaa.gov) — NOAA Federal — Event invitations/coordination
+14. **Maciej Stachura** (stachura@blackswifttech.com) — Internal BST — MP JET Parts coordination
+15. **Angie Diefenbach** (adiefenbach@usgs.gov) — USGS Federal — Mexico Deployment coordination
 
-### Top Senders (Automated/Transactional — Latest batch additions)
-- **SendCutSend** (via Purchasing) — Custom metal cutting service — Shipment in transit confirmation (Apr 19; follows received order S834G264)
-- **Spindrift Market** (via Purchasing) — Beverage/refreshment supplier — Order SH62366729 confirmed (Apr 20; NEW vendor)
-- **Asana** (no-reply@asana.com) — Project management — Unread notifications batch (Apr 20)
-- **AliExpress** (ae-best-wishes-notify27@selections.aliexpress.com) — Parts marketplace — Weekly bestsellers alert (Apr 19)
-- **Harbor Freight** (via Purchasing) — Promotional alerts — Spring Black Friday sale expiration (Apr 19)
-- **USPS Informed Delivery** (via Purchasing) — Daily digest (Apr 19)
+### Top Senders (Automated/Transactional — New vendors)
+- **SendCutSend** — Metal cutting — Orders S834G264 (delivered Apr 22), SW02L252 (order tracking Apr 20)
+- **KDE Direct** — Motor components — Order KDE17135 (shipment in transit, Apr 21)
+- **Amazon.com (via Purchasing)** — Multiple orders: ADUM1201 serial components (shipped Apr 23, ordered Apr 22), cleanroom wipes (ordered Apr 21), parts shipments
+- **Craftcloud®** — Custom 3D printing/manufacturing — Order #459340813415 (entered production Apr 22, multiple status updates Apr 21–22)
+- **Rock West Composites** — Composite materials — Purchase completion prompts (Apr 21–22)
+- **UPS/USPS** — Shipping notifications (daily digests, package arrival alerts)
+- **Asana** — Project management notifications (multiple unread batches Apr 20–23)
+- **AliExpress** — Parts marketplace weekly alerts + "new obsession" item alert
+- **Harbor Freight, Verizon, Frontier Airlines, Expedia** — Promotional emails (business tools, travel)
+- **CADDX FPV, LightWare, Teledyne FLIR OEM, ProtoSpace Mfg** — Industry-specific product/tech updates
+- **Jawstec** — Order #68231 received (Apr 20)
+- **Neat N Tidy** — Booking confirmation (Apr 21; possibly office/logistics rental)
+- **U-Haul** — Contract terms & order (Apr 20–21; logistics/transport — ties to field deployment prep)
+- **Dronetag** — App/notification updates (Apr 21)
+- **High-Tech Battery Solutions, X-Plane, Spindrift Market, Gemini (Google)** — Surveys, software updates, office supplies, meeting notes
 
 ## Topic Patterns
 
-### Continued High-Priority Themes
-1. **Mexico Deployment** — Status active; no new direct correspondence in this batch but remains operational priority from previous window
-2. **Manufacturing & Parts (MP JET, Custom Machining)**
-   - **SendCutSend shipment in transit** (Apr 19) — Confirms order S834G264 proceeding through fulfillment pipeline
-   - Suggests parts fabrication cycle is advancing (from order received → shipment initiated in 2-day window)
+### High-Priority Active Themes
 
-3. **Office/Operations Support**
-   - **Spindrift Market Order SH62366729** — Beverage/refreshment supplier (likely office supplies/team sustenance for ongoing operations or field deployment)
+1. **Motor/Propulsion Systems (Vertiq 81-08 Controllers)**
+   - **81-08 240kv units** — Pricing/availability inquiry (Chance Rogers, Apr 22–23)
+   - **81-08 downward eject PCB issue** — Technical troubleshooting with Vertiq support (5+ exchanges Apr 21–22)
+   - Status: **Unresolved technical issue being actively escalated** to vendor support; critical for platform integration
 
-### Vendor Pipeline Status
-- **SendCutSend:** Order moving to in-transit phase (Apr 19)
-- **Spindrift Market:** NEW — Order confirmed Apr 20 (operational support/consumables)
+2. **Custom Manufacturing Pipeline (Accelerating)**
+   - **Craftcloud® Order #459340813415** — Status: Entered production Apr 22 (was pending shipment decision ~1 week prior)
+   - **SendCutSend Orders:** S834G264 delivered Apr 22; SW02L252 order tracking initiated Apr 20 — suggests parallel metal cutting jobs
+   - **ProtoSpace RFQ 255039** — Sheet metal/custom fabrication; account manager assigned (Apr 21)
+   - **Rubicon Aerospace S0 tubes** — Timeline/quantity negotiation (Apr 21)
+   - **Lee Skidmore (NorthwindComp) — S3 center mold assembly jig CAD** — Design iteration/manufacturing prep (Apr 20–21)
 
-## Communication Patterns
+3. **Procurement & Materials (Heavy activity)**
+   - ADUM1201 serial isolator ICs (Amazon) — 3+ units ordered, multiple shipments Apr 21–23
+   - Cleanroom wipes (Amazon) — Professional assembly environment prep
+   - Components from KDE Direct, Bisco Industries (tracking critical)
+   - Composite materials (Rock West)
+   - Foam/assembly leadtime from MM Solutions — Foster Hill quoted Apr 21–22
 
-### Time Pattern Observations (Latest batch)
-- **Apr 19, 2026:** 11:02 AM – 1:59 PM (3-hour window; Sunday; promotional/transactional only)
-- **Apr 20, 2026:** 4:02 AM – 4:03 AM (2-minute cluster; early morning automated batch)
-- **Pattern:** Minimal weekend activity; automated notifications clustering in early morning hours or promotional cycles
+4. **Platform Variants (Multiple designations visible)**
+   - **S0 tubes** (Rubicon) — Component for larger platform
+   - **S3 center mold assembly jig** (NorthwindComp CAD) — Structural/manufacturing tool
+   - **MP JET Parts** — Propulsion integration (Maciej/Meredith ongoing)
+   - Suggests **concurrent development of multiple platform variants or production scaling**
 
-### Asana Integration
-- Continued task notifications (unread batch Apr 20) — sustains active project tracking engagement
+5. **Logistics & Field Deployment Support**
+   - **U-Haul orders/contract** (Apr 20–21) — Equipment/supplies transport
+   - **Neat N Tidy booking** — Possible temporary storage/facilities rental (Apr 21)
+   - **Bisco Industries tracking** — Time-sensitive component delivery coordination
+   - Consistent with **Mexico Deployment escalation** from prior window
 
-### Mailing Lists & Group Communications
-- **Purchasing** group address remains primary aggregation point for vendor confirmations
-- No direct individual email traffic visible in this batch
-
-## Key Relationships
-
-*No changes to key relationship standings; latest batch contains only transactional notifications.*
-
-## Notable Observations
-
-1. **Complete Email Silence from Human Contacts:** This is the first batch (6+ messages) with **zero human correspondence**. Combined with Apr 17–18 pattern (96% automated), suggests Josh is either:
-   - In active field preparation or deployment phase (Mexico Deployment escalation visible in previous window)
-   - In focused execution with minimal email overhead
-   - Attending meetings or off-site coordination not reflected in email metadata
-
-2. **Accelerated Manufacturing Pipeline:** SendCutSend order progressed from "received" (Apr 17) → "shipment in transit" (Apr 19) in 48 hours. This rapid throughput suggests urgent parts sourcing for active platform build or Mexico Deployment preparation.
-
-3. **Operational Logistics Expansion:** Introduction of Spindrift Market (beverage/consumables supplier) alongside continued heavy vendor coordination indicates team mobilization or field operation prep (supplies, parts, logistics all activating simultaneously).
-
-4. **Asana Task Queue:** Unread notifications pile-up (Apr 20) suggests either inbox management during high-activity period or deliberate focus shift away from task notifications — potentially field-deployed or in execution mode rather than administrative tracking mode.
-
-5. **Weekend Activity Pattern Shift:** Apr 19 (Sunday) shows promotional email leakage (Harbor Freight, AliExpress, USPS); Apr 20 (Monday, 4 AM) shows only system notifications. Suggests inbox is less actively managed on weekends — consistent with field operation timeline.
+### External Relationship Expansion
+- **Solvi reconnection** (Matteo Triacca, Apr 21) — NEW contact or re-engagement; marked IMPORTANT
+- **Rubicon Aerospace** — NEW primary vendor relationship (S0 tubes, manufacturing)
+- **Vertiq support escalation** — Growing technical dependency (motor controller integration critical path item)
+- **ProtoSpace account management** — NEW dedicated account manager assigned (manufacturing partnership)

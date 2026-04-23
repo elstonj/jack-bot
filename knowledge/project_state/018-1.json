@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 55934.65,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-04-23T06:31:55Z"
+    "last_reconciled": "2026-04-23T09:09:37Z"
   },
   "milestones": [
     {
@@ -92,6 +92,6 @@
       "text": "From Jack: (the other ones being INSTAAR x2 and this ottawa demo or Murphy's, whatever actually happens first)"
     }
   ],
-  "last_full_rebuild": "2026-04-23T06:31:55Z",
+  "last_full_rebuild": "2026-04-23T09:09:37Z",
   "last_incremental_update": null
 }

@@ -87,6 +87,23 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 - Paige Smith prepared PDF version for delivery to Brody Basset (US Commercial Service contact)
 - Delivered successfully April 14, 2026
 
+### 3D Drone Model Format for Krateo (April 20, 2026)
+- Paige requested 3D renderings for holographic fan display at conferences
+- Jack directed technical team (engineering) to produce from OnShape models
+- **Preferred format:** .obj or .glb format; Alex Lomis confirmed availability of simplified S0 VTOL .obj model with materials
+- Alex noted Kareem likely has material assignments already completed from animation work
+- Paige to check with Krateo if S0 VTOL rendering sufficient or if E2 or S3 models also needed
+
+### Weather Data Collection Service Pricing Model (April 20, 2026)
+- Dan Prendergast proposed day-rate pricing to Nexus for weather data collection service
+- **Approved pricing:** $5,664/day + travel costs
+  - System Rental: $2,064/day (up to 4 flights)
+  - Flight Personnel: $1,800/day (1 pilot, 1 observer)
+  - Data Analyst: $1,800/day (3 hours)
+  - Travel Costs: Variable
+- Jack approved to move forward with this pricing; willing to reduce system rental by ~$1K if necessary but prefers maintaining current margin
+- Dan Prendergast and Jack agreed to present this to Nexus and observe their reaction
+
 ---
 
 ## Projects & Initiatives
@@ -125,29 +142,4 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 - Added QR code/link to quote form on back
 - Updated "Get a Quote" button color
 - Removed registration marks and centered text
-- Ready for WSJ, media kit, and sales folder distribution
-
-### S0-VTOL Wildfire Detection Video
-**Status:** Completed
-- Script approved emphasizing early-stage ignition response
-- Paige Smith provided voiceover
-- Kareem rendered with drone visuals and animation
-- Final approved August 2024 after S0 position adjustment (higher/further left from firefighter)
-- NCAR shot included to mention direct injection into major weather models
-- Production using iMovie with limited capabilities
-
-### Mexico Popocatépetl Volcano Observation Project
-**Status:** Pre-launch (as of 2024)
-- Partnership: CENAPRED and UNAM
-- Platform selected: S3 (higher capability for thin-air launch)
-- Operational site reconnaissance complete
-- Photogrammetry and mapping objectives defined
-- Press release drafted, awaiting partner approval before publication
-
-### Multi-UAS Drop Mission Marketing
-**Status:** Active content creation (April 2026)
-- Demonstrated 123 and 126-minute flights from single P-3 sortie (March 2026 Lakeland flights)
-- Proved persistent coverage capability vs single-point measurements
-- **Webpage created:** https://bst.aero/hurricane-uas-sensing/ (published April 6, 2026)
-- Newsletter content in development to drive traffic to mission site
-- Scientific data visualization in
+- Ready for WSJ

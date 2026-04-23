@@ -98,8 +98,8 @@
 - **Unclassified:** 3 people (Beck Cotter, Daniel Prendergast, and Jameel Barkat — titles/departments not provided)
 - **Service Accounts:** 2
 
-**Recent Changes:**
-- Added Tiffany Elston as Executive Assistant to leadership (new entry)
-- All existing contacts verified and phone number formatting standardized
-
-BST is a technology-focused organization with a strong engineering core. The addition of an Executive Assistant supports the leadership team. Three team members remain unclassified with no identified role or department.
+**Notes:**
+- All 17 contacts verified and consolidated from existing knowledge and new raw data
+- Phone numbers standardized to format: XXX-XXX-XXXX
+- Three team members remain unclassified; recommend reaching out to leadership for role clarification
+- BST maintains a strong engineering-focused organization with balanced technical and administrative support

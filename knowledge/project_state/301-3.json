@@ -13,7 +13,7 @@
   },
   "contract": {
     "type": "unknown",
-    "number": "1305M225Q0064",
+    "number": "RFQ 1305M225Q0064",
     "total_value": 1700000.0,
     "start_date": "2026-08-25",
     "end_date": "2026-08-25",
@@ -31,13 +31,13 @@
       {
         "category": "Labor",
         "amount": 111481.0,
-        "description": "Engineering Tasks (NRE): Laser configuration updates, AirOps fields, dual GPS for heading, 10Hz met data, firmware customization, extended endurance, manufacturability improvements, data buffering/re-transmission",
+        "description": "Engineering Tasks (NRE): laser configuration updates, AirOps modifications, dual GPS RTK, 10Hz met data, firmware/comms/UI customization, extended endurance battery tweaks, manufacturability improvements, data buffering and re-transmission",
         "source_doc": null
       },
       {
         "category": "Materials",
         "amount": 1700.0,
-        "description": "Materials for dual GPS unit, extended endurance battery tweaks, manufacturability improvements",
+        "description": "Materials for engineering tasks: dual GPS unit/antenna, extended endurance battery tweaks, manufacturability improvements",
         "source_doc": null
       },
       {
@@ -72,7 +72,7 @@
     "committed": 902.06,
     "remaining": -741321.07,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-04-23T06:33:39Z"
+    "last_reconciled": "2026-04-23T09:11:16Z"
   },
   "milestones": [
     {
@@ -232,6 +232,6 @@
       "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
     }
   ],
-  "last_full_rebuild": "2026-04-23T06:33:39Z",
+  "last_full_rebuild": "2026-04-23T09:11:16Z",
   "last_incremental_update": null
 }

@@ -1,10 +1,10 @@
 # Commercial — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $1,575,916.36
-- **Total Expenses (Bills + Purchases):** $177,881.95
+- **Total Invoiced (Revenue):** $1,702,545.36
+- **Total Expenses (Bills + Purchases):** $217,613.48
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $1,398,034.41 (Revenue exceeds expenses)
+- **Net Position:** $1,484,931.88 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – May 8, 2026
 
 ---
@@ -66,109 +66,77 @@
 | 1618 | 2024-04-19 | $13,853.10 | [451] INSTAAR Stable Isotope Lab, CU Boulder | Paid |
 
 ### Revenue Summary
-- **Total Invoiced:** $1,575,916.36
+- **Total Invoiced:** $1,702,545.36
 - **Total Collected (Paid):** $1,075,726.08
-- **Outstanding Balance:** $500,190.28 *(includes 4 new invoices from May 8, 2026 totaling $223,258.00 for [043-3] By Light Halo)*
+- **Outstanding Balance:** $626,819.28 *(includes 4 invoices from May 8, 2026 totaling $223,258.00 for [043-3] By Light Halo)*
 
 ---
 
-## Expenses by Category
+## Expenses by Cost Category
 
-### **Direct Labor / Subcontractors**
-**Total: $869,337.99**
-*(No new labor or subcontractor invoices in this batch)*
+### **Subcontractors (Direct Cost)**
+**Total: $918,167.98** *(+$48,829.99 new subcontractor expenses)*
 
-[Previous summary maintained—see prior knowledge file for detailed breakdown]
+#### Matthew Crabtree Invoices
+- **Bill #BST-April2026-1 (2026-04-22):** $11,583.56
+  - Parts and Materials: $9,652.97
+  - Subcontractor labor/costs: $1,930.59
+  
+- **Bill #BST-March2026-2 (2026-04-22):** $19,379.22
+  - Memo: Second half payment for March invoice totaling $48,448.05 (first half paid previously)
+  - Parts and Materials: $16,149.35
+  - Subcontractor labor/costs: $3,229.87
 
----
+**New Subcontractor Expenses (Direct Cost): $30,962.78**
 
-### **Materials & Supplies**
-**Total: $68,997.78** *(+$283.96 new purchases)*
+**Indirect Subcontractor Expenses (IRAD):** $7,740.69
+  - April 2026 invoice: $2,895.89
+  - March 2026 invoice: $4,844.80
 
-#### Direct Cost Purchases (Components & Supplies)
-- **Digi-Key Corp Purchase #98710410 (2026-04-17):**
-  - $93.99 — Supplies for 2026 IDIQ
-  - $18.80 — Supplies for Sasquatch (Notre Dame)
-  - **Subtotal: $112.79**
+*(Previous Subcontractor Balance: $867,338.19)*
 
-- **Previous Materials & Supplies Balance:** $68,429.83
-
-**Total Materials & Supplies: $68,997.78**
-
----
-
-### **Equipment/Inventory**
-**Total: $752.83** *(+$28.20 allocation)*
-
-- **Digi-Key Corp Purchase #98710410 (2026-04-17):**
-  - $28.20 — Supplies for future sales of 6 S0s
-  - **Subtotal: $28.20**
-
-- **Previous Equipment/Inventory Balance:** $724.63
-
-**Total Equipment/Inventory: $752.83**
+**Total Subcontractors: $918,167.98**
 
 ---
 
-### **Rent/Facilities**
-**Total: $545.36** *(+$143.00 allocation)*
+### **Materials & Supplies (Direct Cost Purchases)**
+**Total: $70,546.03** *(+$1,548.15 new purchases)*
 
-- **Digi-Key Corp Purchase #98710410 (2026-04-17):**
-  - $143.00 — Shop Supplies
-  - **Subtotal: $143.00**
+#### Recent Direct Cost Purchases
+- **Purchase #KDE17135 (2026-04-20):** $780.00
+  - KDE4215XF-465 Brushless Motor for Heavy-Lift Electric Multi-Rotor x 4
 
-- **Previous Facilities Balance:** $402.36
+- **Purchase #68231 (2026-04-20):** $355.06
+  - Propulsion system CAD files (*.step): Propulsion_-_Actuator_Tray.step; Propulsion-Motor-Mount.step, etc.
 
-**Total Rent/Facilities: $545.36**
+- **Purchase #459340813415 (2026-04-21):** $396.12
+  - Split allocation across 2026 IDIQ, Sasquatch, and future S0 sales projects
+  - $330.10 (2026 IDIQ)
+  - $66.02 (Sasquatch)
 
----
+**New Materials & Supplies (Direct Cost): $1,531.18**
 
-### **Shipping/Freight**
-**Total: $23.00**
-*(No new shipping transactions)*
+*(Previous Materials & Supplies Balance: $69,014.85)*
 
----
-
-### **Travel**
-**Total: $5,650.00**
-*(No new travel allocations)*
+**Total Materials & Supplies: $70,546.03**
 
 ---
 
-### **Other / Unallocated**
-**Total: $0.00**
+### **Equipment/Inventory (Asset Allocation)**
+**Total: $850.03** *(+$99.03 inventory allocation)*
+
+- **Purchase #459340813415 (2026-04-21):** $99.03
+  - Inventory allocation for future sales of 6 S0s
+
+*(Previous Equipment/Inventory Balance: $751.00)*
+
+**Total Equipment/Inventory: $850.03**
 
 ---
 
-## Expenses Summary by Category
+### **Indirect Costs (IRAD — Research & Development)**
+**Total: $7,740.69** *(+$7,740.69 new indirect allocations)*
 
-| Category | Total | # Transactions | Change |
-|----------|-------|---------------|---------| 
-| Direct Labor / Subcontractors | $869,337.99 | — | — |
-| Materials & Supplies | $68,997.78 | +1 | +$283.96 |
-| Equipment/Inventory | $752.83 | +1 | +$28.20 |
-| Rent/Facilities | $545.36 | +1 | +$143.00 |
-| Shipping/Freight | $23.00 | — | — |
-| Travel | $5,650.00 | — | — |
-| **TOTAL EXPENSES** | **$177,881.95** | **+3** | **+$455.16** |
-
----
-
-## Purchase Orders
-**Total POs:** $1,977.50 (no new POs in this batch)
-
----
-
-## Monthly Spend by Category
-
-### May 2026
-| Category | Amount |
-|----------|--------|
-| Materials & Supplies | $112.79 |
-| Equipment/Inventory | $28.20 |
-| Rent/Facilities | $143.00 |
-| **May Subtotal** | **$283.99** |
-
-### April 2026
-| Category | Amount |
-|----------|-----
+#### IRAD Indirect Subcontractor Expenses
+- **Matthew Crabtree — Bill #BST-April2026-1 (2026-04-22):** $2,895.89
+- **Matthew Crabtree — Bill #BST-March2026-2 (2026-04-22):** $4,844.80

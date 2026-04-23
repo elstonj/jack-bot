@@ -1,117 +1,73 @@
 # Jack Elston — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 763 (750 prior + 13 new)
-- **Date range:** April 1–20, 2026
+- **Total messages scanned:** 863 (763 prior + 100 new)
+- **Date range:** April 1–23, 2026
 - **Approximate volume:** High-frequency correspondent; 100+ messages per day typical
-- **New activity (Apr 19–20):** 13 messages; includes mix of automated/vendor communications and active project work
-- **Note:** Apr 20 data partial (early morning only); weekend activity visible (Apr 19)
+- **New activity (Apr 21–23):** 100 messages; significant surge in external partnerships, acquisition/due diligence coordination, and technical project work
+- **Activity pattern:** Sustained weekend/early-morning work (Apr 21–23); Thu Apr 23 shows intense 01:30–08:16 UTC activity window (late night/early morning work)
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal BST Contacts
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Primary collaborator; Arctic Demo coordination, Krateo Sky due diligence, simulation coordination; **recent activity (Apr 19):** forwarding Nikhila Ravikumar simulation response
-- **Maciej Stachura** (stachura@blackswifttech.com) — Technical/operational; Arctic Demo, NOAA engagement, Genesis project (BNL coordination); **recent activity (Apr 19):** active BNL/Genesis exchange with Gijs de Boer
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, logistics; Hotel Royal Pedregal bookings (Mexico deployment), aviation policy, employment processing
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — Arctic Demo coordination, operational support
-- **Nathaniel Straus** (nate.straus@blackswifttech.com) — S3 check-in coordination (Colorado University), aircraft demo authorization
-- **Alex Lomis** (alex.lomis@blackswifttech.com) — Equipment procurement; ELEGOO orders
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Primary multi-project lead; Arctic Demo, Krateo Sky due diligence, simulation coordination, C-UAS partnerships, NASA engagement; **recent activity (Apr 22–23):** forwarding strategic R&D report, coordinating Pete Torrione/CoVar SBIR discussions, NASA S20009 discussion
+- **Maciej Stachura** (stachura@blackswifttech.com) — Technical/operational; BNL Genesis, NOAA, Frequency/RF coordination with C-Astral; **recent activity (Apr 22–23):** RF frequency discussion with Samo Stopar (C-Astral), M2 fuselage design with ByLight
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, logistics, acquisition coordination; **recent activity (Apr 22–23):** invoicing, tax due diligence call coordination, R&D report distribution, bill payments to Waveform Engineering
+- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — Engineering/design; **recent activity (Apr 22):** M2 Fuselage Design Considerations with ByLight and other partners
 
 ### Top External Contacts
 
-#### **Krateo Sky Ecosystem — SUSTAINED EXECUTION**
-- **Lisa Marie Cheney** (LisaMarie@krateosky.com) — **Arctic Demo in Ottawa request** (Apr 20, IMPORTANT); continued primary logistics point of contact
+#### **Krateo Sky Ecosystem — ACQUISITION/INTEGRATION PHASE**
+- **Lisa Marie Cheney** (LisaMarie@krateosky.com) — Arctic Demo logistics (prior activity)
+- **Brian Grubel** (Brian@krateosky.com) — **Flow Engineering Overview discussion** (Apr 23, IMPORTANT); new contact escalation
+- **Adria Passola** (a@krateosky.com) — **2025 R&D Final Report recipient** (Apr 22); acquisition/integration stakeholder
+- **Sona Raziabeegum** (sona@krateosky.com) — **Meeting Today coordination** (Apr 22, IMPORTANT); active integration contact
 
-#### Government/Research
-- **Gijs de Boer** (gdeboer@bnl.gov) — **Genesis** project (Apr 19, IMPORTANT); active technical/operational exchange with Maciej Stachura; Brookhaven Lab coordination continues
+#### **Acquisition/Due Diligence — ESCALATED ACTIVITY**
+- **KPMG Team** (jdavoren@kpmg.com, aeskola@kpmg.com, jferrarella@kpmg.com, rjakubowski@kpmg.com, tfechter@kpmg.com, tfoerschner@kpmg.com) — **2025 R&D Final Report** (Apr 22, IMPORTANT); large legal/accounting group; tax due diligence coordination
+- **Ryan Sykora / Nadia Bryan** (rsykora@kofirm.com, nbryan@kofirm.com) — **Black Swift - Issues List** (Apr 22–23, IMPORTANT); legal counsel active on deal issues
+- **Thierry Lepoutre** (thierry@boostrconsulting.com) — **2025 R&D Final Report coordination** (Apr 21–22, IMPORTANT); consultant
+- **Bill Jones** (bill@jonescpapc.com), **Mark** (mark@kcotax.com) — Tax/CPA professionals; acquisition advisory team
 
-#### Technology/Infrastructure
-- **Nikhila Ravikumar** (Nikhila@nanoveu.com) — **Simulation** coordination (Apr 19, IMPORTANT); Daniel Prendergast response indicates ongoing nanoVEU partnership work
+#### **Government/Research**
+- **Gijs de Boer** (gdeboer@bnl.gov) — Genesis project (prior activity; no new Apr 21–23 messages)
+- **NASA Ames Research Center team** (caden.kallhoff@nasa.gov, hai-nam.h.tran@nasa.gov, r.hobbs@nasa.gov, wesley.r.enos@nasa.gov, william.o.wade@nasa.gov) — **BST-NASA Discussion about S20009** (Apr 22, IMPORTANT); Daniel Prendergast-led engagement
+- **John Chong** (mlchong@hko.gov.hk) — **IWTC-11 Working Group on Airborne/Seaborne/Ground-Based Observations** (Apr 22, IMPORTANT); international meteorological/climate working group
 
-### Automated/Vendor Communications (Non-Human Correspondence)
-- **Toggl Track** (support@track.toggl.com) — Time tracking tool (Apr 20, no subject)
-- **Spindrift Market** (purchasing@blackswifttech.com) — Beverage order confirmation (Apr 20)
-- **SendCutSend** (purchasing@blackswifttech.com) — Custom manufacturing/cutting service shipment (Apr 19)
-- **Harbor Freight** (purchasing@blackswifttech.com) — Tool vendor promotional (Apr 19)
-- **USPS Informed Delivery** (purchasing@blackswifttech.com) — Mail tracking (Apr 19)
-- **FLARM Technology AG** (newsletter@flarm.com) — Aviation safety/avionics newsletter (Apr 19); sent to corporate info address
-- **PDF By Belal H. Sababha** (updates@academia-mail.com) — Academic paper notification; UTSim framework/simulator (Apr 19); research interest tracking
-- **Google Alerts** (googlealerts-noreply@google.com) — **"Black Swift Technologies"** search alert (Apr 19); corporate monitoring active
-- **Joshua Baer / STATION Austin** (media@blackswifttech.com) — Weekly community event digest (Apr 19); forwarded to media list
+#### **Technology/Research Partnerships**
+- **Nikhila Ravikumar** (Nikhila@nanoveu.com) — **Simulation coordination** (Apr 22–23, IMPORTANT, multi-turn); active technical partnership with Daniel Prendergast
+- **Samo Stopar** (samo.stopar@c-astral.com) — **Frequency in US** (Apr 23, IMPORTANT); RF/regulatory coordination with Maciej Stachura
+- **Pete Torrione** (pete@covar.com) — **CoVar/BlackSwift C-UAS SBIR discussion** (Apr 22–23, IMPORTANT, multi-turn); strategic partnership on counter-UAS/drone-to-drone technology
+
+#### **Defense/Industry Forum**
+- **Brody Basset** (bb@defensecoalitions.org) — **Europe Market Access for UAS, C-UAS & Space Defense: Transatlantic Defense Industry Access Forum** (Apr 21, IMPORTANT); strategic market access event
+- **Vanessa Aponte Williams** (vapontewilliams@blueorigin.com) — **Smead EAB Subcommittee AI meeting** (Apr 21, IMPORTANT); board-level aerospace engagement (Blue Origin, CIS Lunar Industries, BAE Systems, University of Colorado)
+
+#### **Media/Speaking**
+- **Madison Alder** (madison.alder@fedscoop.com) — **Intro** (Apr 23, IMPORTANT); FedScoop journalist/media contact
+- **Ed Kase** (ed.kase@ekaseconsulting.com) — **Speaking Invitation** (Apr 21–22, IMPORTANT, multi-turn); speaking engagement coordination
+- **Sam | WeHateExercise** (sam@wehateexercise.com) — **BSW Session | Speaking Invitation** (Apr 22–23, IMPORTANT); event/speaking organizer
+
+#### **Engineering/Manufacturing**
+- **Matt Crabtree** (matt.crabtree@waveformengineering.com) — **Builds for hurricane seasons** (Apr 22, IMPORTANT); engineering collaboration
+- **Nicholas Phillips** (nicholas.phillips@bylight.com) — **M2 Fuselage Design Considerations** (Apr 23, IMPORTANT); ByLight design partner (also copied: Bryan Sparling, Craig McManus, Justin Baltz)
+- **Oier Penagaricano** (oier@aleriontec.com) — **MP JET Parts** (Apr 22, IMPORTANT); parts supplier coordination
+- **Luke Peffers** (luke.peffers@nexuswxc.com) — **Black Swift NDA** (Apr 22, IMPORTANT); likely aircraft/equipment partnership
+
+#### **Emerging Contacts**
+- **Adam Craft** (adam.c@ampriuscells.com) — **Amprius cells inquiry** (Apr 22, IMPORTANT); battery/energy technology vendor
+- **Corinne Spencer** (corinnespencer101@gmail.com) — **Employment Agreement** (Apr 23); potential hire/contractor
 
 ### Internal vs External
-- **~65% internal BST or automated** (includes vendor fulfillment, newsletters, tracking)
-- **~35% external human correspondence** (active project work: Krateo Sky logistics, BNL Genesis coordination)
+- **~55% internal BST or automated** (decreased from prior period; reflects expansion of external partnerships)
+- **~45% external human correspondence** (significant increase; acquisition, government, industry partnerships active)
 
 ---
 
 ## Topic Patterns
 
-### **Arctic Demo in Ottawa — SUSTAINED EXECUTION**
-- **Status:** Active logistics request phase (Apr 20)
-- **Key Contact:** Lisa Marie Cheney (Krateo Sky)
-- **Coordination:** Multi-party (Jack, Maciej Stachura involved)
-- **Implication:** Demo remains on critical path; logistical requirements being clarified
-
-### **Genesis Project (Brookhaven National Lab)** — ACTIVE TECHNICAL COORDINATION
-- **Status:** Technical discussion active (Apr 19)
-- **Key Players:** Gijs de Boer (BNL), Maciej Stachura (BST coordination)
-- **Pattern:** Multi-turn technical exchange visible
-- **Implication:** Appears to be operational/integration phase work
-
-### **Simulation Coordination — NANOVEU Partnership**
-- **Status:** Active technical work (Apr 19)
-- **Key Contact:** Nikhila Ravikumar (nanoVEU); Daniel Prendergast handling BST side
-- **Implication:** Continues to be key development activity
-
-### **Corporate Monitoring & Research Interest**
-- **Google Alerts:** "Black Swift Technologies" (Apr 19); suggests Jack monitors external BST coverage
-- **Academic Papers:** UTSim framework/simulator paper tracked (Apr 19); research interest in simulation methodologies
-
-### **Acquisition/Merger Due Diligence — ONGOING (no new escalation this period)**
-- No new legal correspondence in Apr 19–20 sample; previous phase likely stabilized or moved offline
-
----
-
-## Communication Patterns
-
-### Time Patterns
-- **Weekend activity:** Apr 19 (Sunday) shows continued work; emails from Daniel Prendergast, Maciej Stachura, external partners
-- **Early morning activity:** Apr 20 (04:00–06:00 UTC) includes Krateo Sky request and automated services; consistent with prior high-frequency pattern
-- **No obvious business-hours-only pattern:** Work spans weekends and early mornings
-
-### Mailing Lists & Group Communications
-- **Purchasing list** (purchasing@blackswifttech.com) — Jack subscribed to vendor confirmations and promotional emails; used for equipment procurement tracking
-- **Media list** (media@blackswifttech.com) — STATION Austin event digest; corporate comms awareness
-- **Google Alerts** — Corporate brand monitoring active
-
-### Automated/Newsletter Patterns (Separate from Human Correspondence)
-- **Vendor fulfillment:** SendCutSend, Spindrift Market, Harbor Freight, USPS tracking — suggests active procurement cycle
-- **Industry newsletters:** FLARM Technology AG (aviation/avionics) — professional interest tracking
-- **Research alerts:** Academia-mail PDFs (UTSim) — simulation/modeling research interest
-- **Time tracking:** Toggl Track (Apr 20) — active time-logging for project management
-
----
-
-## Key Relationships
-
-### **Closest Internal Collaborators** (by frequency & scope)
-1. **Daniel Prendergast** — Simulation, Arctic Demo, due diligence; multi-project partnership
-2. **Maciej Stachura** — Genesis/BNL, Arctic Demo, NOAA engagement; technical lead coordination
-3. **Meredith Needham** — Logistics, finance, aviation policy; operational enablement
-
-### **Critical External Relationships** (Apr 19–20 activity)
-- **Lisa Marie Cheney (Krateo Sky)** — Arctic Demo logistics; primary external execution contact
-- **Gijs de Boer (Brookhaven National Lab)** — Genesis project; technical/operational partnership
-- **Nikhila Ravikumar (nanoVEU)** — Simulation technology partnership; ongoing development work
-
----
-
-## Notable Observations
-
-- **Weekend/early-morning work pattern confirmed:** Apr 19–20 shows continued engagement with no off-hours slowdown; consistent with prior activity
-- **Acquisition-related legal traffic appears to have subsided** in Apr 19–20 sample (compared to Apr 17–18 surge); may indicate document exchange phase concluded or moved to offline meetings
-- **Krateo Sky engagement remains high:** Lisa Marie Cheney outreach on Apr 20 (02:00 UTC) suggests coordinated scheduling across time zones or urgent logistics finalization
-- **Genesis/BNL project gaining visibility:** Multi-turn exchange on Apr 19 between Maciej Stachura and G
+### **Acquisition/Integration — MAJOR ESCALATION (NEW)**
+- **Status:** Active document exchange, due diligence, and stakeholder coordination (Apr 21–22)
+- **Key Players:** KPMG, Ryan Sykora (legal), Thierry Lepoutre (consultant), Krateo Sky stakeholders (Adria Passola, Sona

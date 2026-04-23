@@ -4,13 +4,14 @@
 - **Client:** [001] IRAD
 - **Status:** Active
 - **Billable:** No
-- **Total Hours Tracked:** 31.8 hours
+- **Total Hours Tracked:** 36.9 hours
 
 ## Team Allocation
 | Team Member | Hours | Percentage |
 |---|---|---|
-| Nate | 20.5 | 64% |
-| Ethan Domagala | 11.2 | 35% |
+| Nate | 23.5 | 64% |
+| Ethan Domagala | 11.2 | 30% |
+| Stachura | 2.1 | 6% |
 
 **Primary Contributor:** Nate
 
@@ -24,15 +25,16 @@ Recent work entries (chronological order of activity types):
 
 **Operations & Administration:**
 - Nate: 3.0h on Parts inventory
-- Nate: 1.2h + 1.0h + 2.0h = 4.2h on emails
-- Nate: 0.5h on meeting
+- Nate: 1.2h + 1.0h + 2.0h + 1.0h + 1.0h = 6.2h on emails
+- Nate: 0.5h + 1.0h = 1.5h on meetings
 - Ethan: 0.5h on Volcano Meeting
 
-**Unspecified:**
-- Ethan: 1.0h (no description)
+**Unspecified/Other:**
+- Stachura: 2.1h (no description)
 
 ## Insights
-- **Primary Focus:** MakeFlyEasy/Krateo development and build-up activities dominate the work (roughly 24 of 31.8 hours, 75%)
-- **Work Distribution:** Nate handles both development and operational tasks (inventory, communications), while Ethan focuses primarily on build activities
-- **Communication Overhead:** Administrative time (emails, meetings) increased to 4.7 hours (15% of effort), with emails now representing a more substantial workload
+- **Primary Focus:** MakeFlyEasy/Krateo development and build-up activities remain dominant (roughly 24 of 36.9 hours, 65%)
+- **Work Distribution:** Nate continues managing both development and operational tasks (inventory, communications, purchasing); Ethan focuses on build activities; Stachura added with minimal tracked context
+- **Communication Overhead:** Administrative time increased to 7.8 hours (21% of effort), with emails now consuming 6.2 hours—significant growth from previous period
+- **New Team Member:** Stachura has entered the project with 2.1h tracked but no entry descriptions, suggesting onboarding phase or background work
 - **Internal R&D:** As a non-billable IRAD project, this represents internal research and development investment in drone/aircraft technology (MakeFlyEasy/Krateo platforms)
