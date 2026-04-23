@@ -171,7 +171,7 @@ def _format_tasks_for_prompt(tasks):
     return "\n".join(lines) if lines else "(no open tasks)"
 
 
-def _build_propose_user_prompt(question, channel_context, recent_messages):
+def _build_propose_user_prompt(question, channel_context, recent_messages, asker_name=None, asker_user_id=None):
     code = channel_context.get("project_code")
     pname = channel_context.get("project_name") or ""
     tasks = get_tasks_for_project(channel_context["project_gid"], enriched=True)
@@ -188,6 +188,18 @@ def _build_propose_user_prompt(question, channel_context, recent_messages):
     ]
     if transcript:
         parts += ["RECENT CHANNEL CONVERSATION (oldest first):", transcript, ""]
+    if asker_name:
+        parts += [
+            f"ASKER: {asker_name} (Slack <@{asker_user_id}>). "
+            f"Treat 'I', 'me', 'my' in the user request as referring to them.",
+            "",
+        ]
+    elif asker_user_id:
+        parts += [
+            f"ASKER: Slack <@{asker_user_id}> (name unresolved). "
+            f"Treat 'I', 'me', 'my' in the user request as referring to them.",
+            "",
+        ]
     parts += ["USER REQUEST:", question]
     return "\n".join(parts), open_tasks
 
@@ -236,8 +248,17 @@ def _run_proposal(question, channel_context, recent_messages, user_id, channel_i
     If Claude asks clarifying questions, returns the question text plus sets
     state = await_clarify so the next user reply gets combined back in.
     """
+    asker_name = None
+    try:
+        from user_map import get_user_by_slack_id
+        asker = get_user_by_slack_id(user_id)
+        if asker and asker.get("name"):
+            asker_name = asker["name"]
+    except Exception:
+        pass
     user_prompt, _open_tasks = _build_propose_user_prompt(
-        question, channel_context, recent_messages
+        question, channel_context, recent_messages,
+        asker_name=asker_name, asker_user_id=user_id,
     )
     if prior_clarification:
         user_prompt += f"\n\nPRIOR CLARIFICATION FROM USER:\n{prior_clarification}"
