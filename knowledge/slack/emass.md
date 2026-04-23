@@ -10,11 +10,11 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 - Maciej (controls/simulation)
 - Beck Cotter (proposals/planning)
 - Scott and Mark (CEO) from EMASS (external partner)
-- Nikhila (external, ML model training)
-- Moe (EMASS contact, made autopilot request)
+- Nikhila (external, ML model training and bench-test app development)
+- Moe (EMASS contact)
 - Alex Lomis (flight operations/coordination)
 
-**Activity Level:** Ongoing active project spanning November 2025 - April 2026, with increasing intensity. Hardware integration and HWIL (Hardware-in-the-Loop) testing actively underway; critical debugging phase as of April 17, 2026.
+**Activity Level:** Ongoing active project spanning November 2025 - April 2026, with critical intensity. Hardware-in-the-Loop (HWIL) and bench testing actively underway; real flight testing imminent (targeting early May). EMASS planning media release for their chip first week of May, creating deadline pressure.
 
 ## Key Decisions
 
@@ -43,47 +43,53 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 - Ordered Pico 2 with headers for new hardware requirement from EMASS
 - **April 13-15:** Multiple firmware updates and GCS fixes deployed by Jack Elston to resolve communication issues; HWIL testing actively underway
 - **April 16:** Weather assessment indicates Monday/Tuesday (April 21-22) suitable for E2 flight testing with EMASS payload
+- **April 20-22:** GitLab project created (`blackswifttechnologies/emass-test`) for managing test software and binaries instead of passing zip files
+- **April 22:** Committed to real-time debugging meeting with Nikhila and Moe (EMASS team) morning of April 23 (9-10am or flexible time) to troubleshoot command transmission issues; EMASS team willing to work flexible hours due to timezone/deadline pressure
 
 ## Projects & Initiatives
 
 ### EMASS Integration (Primary)
-**Status:** Hardware-in-the-Loop (HWIL) testing phase; critical debugging phase as of April 17, 2026; real flight testing scheduled for week of April 21, 2026
+**Status:** Critical debugging phase; bench testing on E2 underway; real flight testing scheduled for late April/early May, with EMASS media release planned for first week of May creating hard deadline
 
 **Scope:**
 - Integrate EMASS's ECS-DoT evaluation board (AI chip with ML controller) onto E2 platform
 - Develop interface between EMASS hardware and E2 autopilot
 - Create simulation environment (Gazebo-based SWIL) for validation
 - Conduct flight testing with comparative analysis (controller on/off)
-- Timeline: Originally January-March 2026, pushed to March 11, 2026; further delays occurred due to EMASS team responsiveness and BST resource conflicts; HWIL testing active as of mid-April; facing critical debugging issues as of April 17
+- Timeline: Originally January-March 2026, pushed to March 11, 2026; further delays occurred due to EMASS team responsiveness and BST resource conflicts; HWIL testing active as of mid-April; bench testing on E2 platform started April 21-22; real flights targeting late April/early May 2026
 
 **Technical Components:**
 
 1. **Hardware Integration:**
    - Custom mount for AI board on E2
    - UART interface with level translation (3.3V to 5V)
-   - Power delivery through 5V barrel connector (found USB A to micro cable insufficient; missing jumper wires between eval board and Pico board, being completed April 9)
+   - Power delivery through 5V barrel connector
    - Magnetometer calibration adjustments after battery relocation
-   - ECS-DoT eval board communication via two devices (UART and JTAG connections identified)
+   - ECS-DoT eval board communication via two devices (UART and JTAG connections)
+   - Serial connection options: DB9 connector or jumpers + USB microUSB (preferred per Jack Elston as of April 22)
+   - Baud rate: 460800 bps (verified working April 22)
 
-2. **Firmware/Software (As of April 17):**
+2. **Firmware/Software (As of April 22):**
    - Autopilot modifications to accept EMASS actuator commands at 75Hz via UART
    - Two-mode operation: EMASS control or BST autopilot control (no blending)
    - EXTERNAL mode in autopilot for payload authority handoff
    - Protections to automatically revert to BST control on failure/timeout
    - Headless testing framework with pass/fail criteria
-   - Serial baud rate adjustable through tablet interface
+   - Serial baud rate adjustable through tablet interface (baud rate changes must be made via tablet, not command line)
    - Parameter synchronization via `param_mr_0x41000002.bst` file (safety limits enforced, model tuning allowed)
-   - **Recent fixes (April 13-15):**
-     - GCS error message fixes
-     - Edge case handling
-     - Firmware build: 1057c5a5
-     - Malformed packet detection and baud rate optimization
-     - Serial link stability improvements
-   - **Issues identified (April 17):**
-     - Nikhila's `bench_test app` fails to connect in simulator environment; issue attributed to missing state machine fixes in `gazebo_hwil_flight_app` that were made in other application code (April 17, Dan Prendergast)
-     - Connection state fallback issue: system incorrectly transitions to "fallback to connecting" state rather than "connected" state after shutdown and error conditions (April 17, Jack Elston identified root cause)
-     - Recovery via `sys init` command expected to work but not being exercised
-     - Critical regression: Initial connection establishment now failing after recent firmware push (April 17, evening); Jack Elston reports no changes made to connection logic, only shutdown/error state handling
+   - Recent updates (April 20-22):
+     - Jack Elston added logging to capture state machine transitions and rates
+     - Telemetry adjustments to ensure timing requirements met
+     - New autopilot binary pushed April 22 with improved connection debugging
+     - Binary version: 0x358094b (per Maciej April 21)
+     - Fixes to bench-test and full-flight app connection issues
+   - **Critical Issues Identified (April 22):**
+     - **Command transmission not confirmed:** High confidence that EMASS actuator commands are not actually being transmitted to E2 autopilot despite successful connection establishment
+     - Bench-test app connects and runs but produces no effect on SimE2 (rotors stay at ~68%, no controller response)
+     - Full-flight app connection/handshake successful in simulation but behavioral validation needed
+     - Gazebo HWIL app successfully commanding motors (8-point flight plan executed cleanly; EMASS controller staying within safety limits on latest retraining)
+     - Discrepancy: gazebo-hwil-flight app works end-to-end; bench-test and live-flight apps do not command effectively
+   - Rate timing issues observed in earlier testing now attributed to connection/telemetry synchronization fixes
 
 3. **Simulation:**
    - Gazebo SWIL with realistic E2 dynamics
@@ -91,31 +97,17 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
    - Support for headless automated testing
    - Trajectory replay capability
    - Socket-based test framework (preferred over test app for HWIL)
-   - Known issue: `gazebo_hwil_flight_app` missing state machine fixes present in other codebases (April 17)
+   - Gazebo HWIL flight app confirmed working: EMASS controller flew complete 8-point flight plan with no disconnects or safety limit violations (April 22)
+   - Issue: bench-test app behaves differently in simulation (connects, takes off, starts controller, controller has no effect for 40 seconds, then times out)
 
 4. **Flight Testing:**
-   - Weather-dependent: Monday/Tuesday (April 21-22) identified as favorable conditions
+   - Scheduled for late April/early May 2026 (weather dependent; April 21-22 initial target)
    - Alex Lomis coordinating flight operations
    - Payload activation via Payload tab on tablet (SDK tab preferred interface)
    - Speed limit monitoring (4.0 m/s threshold triggering shutdowns when exceeded)
+   - Latest EMASS controller retraining successfully stays within safety limits (no limit violation disconnects observed in recent testing)
 
-**Known Challenges:**
-- EMASS team organization/responsiveness (especially Nikhila for ML model retraining and application state machine consistency)
-- Schedule conflicts with other BST projects (ADONIS, USGS, hurricane, S3)
-- Integrator wind-up issues in simulator
-- Plugin loading issues in simulation environment
-- Voltage interface compatibility between hardware (resolved with level shifters)
-- Scope creep pressure (Moe/EMASS requesting autopilot without limits; request not escalated to Scott/Mark; rejected by Dan/Jack)
-- **Critical (April 17):** Connection state machine bugs and potential regression in initial connection logic affecting HWIL testing
-- Serial packet dropping at standard baud rates (partially resolved with baud rate increase)
-- Payload speed limit violations during testing (model needs tuning to comply with 4.0 m/s safety limit)
-- Financial/budgetary considerations emerging (April 6, 2026)
-- HWIL setup complexity (three simultaneous processes: autopilot + UART flag, gcsDaemon, Gazebo)
-- Code consistency issues across applications within same project (state machine fixes not propagated)
-
-## Action Items & Commitments
-
-**Outstanding (as of April 17, 2026):**
-- Jack Elston: **URGENT** - Debug and resolve initial connection establishment failure introduced in latest firmware push (April 17, evening); clarify what changed vs. stated commit scope
-- Jack Elston: Investigate reconnection after shutdown/error condition and validate `sys init` recovery mechanism (April 17)
-- Nikhila (EMASS): Ensure `bench_test app` includes all necessary
+**GitLab Repository:**
+- Created: `https://gitlab.com/blackswifttechnologies/emass-test`
+- Purpose: Centralized management of test software, binaries, and documentation (replacing ad-hoc zip file sharing)
+- Contents (as of April 22): Autopilot binaries, README with timing requirements and debugging

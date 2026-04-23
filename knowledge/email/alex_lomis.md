@@ -1,74 +1,123 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned: 642 combined** (636 previous + 6 new)
-- **Date range covered: March 18 - April 20, 2026 (approximately 34 days)**
+- **Total messages scanned: 729 combined** (642 previous + 87 new)
+- **Date range covered: March 18 - April 23, 2026 (approximately 37 days)**
 - **Approximate daily volume: 20-25 emails per day**
-- High volume of automated vendor/shipping notifications (~90% of volume) mixed with critical strategic project communications
+- High volume of automated vendor/shipping notifications (~92% of volume) mixed with critical strategic project communications and active supplier negotiations
 
 ## Key Correspondents
 
 ### Top Internal Collaborators (BST team):
-- **Jack Elston** (elstonj@blackswifttech.com) - CEO, frequent meeting invitations (Mexico Planning meeting Apr 13), project direction, strategic initiatives, Comcast Business account coordination (Apr 17)
-- **Maciej Stachura** (stachura@blackswifttech.com) - Technical partner, Navy/NOAA coordination, Mexico Planning attendee
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) - Operational execution, component sourcing, ePropelled propulsion review (Apr 15)
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) - Technical projects (Asana task updates on UMES S3, Navy SBIR Magnetometer Apr 16)
-- **Meredith Needham** (meredith.needham@blackswifttech.com) - Operations, vendor coordination, gimbal specs (Vantage Robotics Axiom Greenseer Apr 14)
-- **Nathaniel Straus, Ethan Domagala, Sam Hild** - Mexico Planning meeting attendees (Apr 13)
+- **Jack Elston** (elstonj@blackswifttech.com) - CEO, frequent meeting invitations, strategic initiatives
+- **Maciej Stachura** (stachura@blackswifttech.com) - Technical partner, primary task assigner for Navy SBIR Magnetometer project; direct Navy coordination (Angel Ruiz-Reyes NAWCAD contact); Amprius cells inquiry forwarding (Apr 22)
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) - Operational execution, receiving Craftcloud manufacturing notifications (Order #459340813415 Apr 21-22)
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) - Technical projects
+- **Meredith Needham** (meredith.needham@blackswifttech.com) - Operations, vendor coordination; forwarded Amprius cell inquiry to Alex Lomis (Apr 22); Comcast Business follow-up coordination (Apr 20)
 
-### Key External Contacts:
-- **Nikolai Pawlenko (NOAA Federal)** - ET Demo Flights technical lead, Jack Elston coordination (Checklist email Apr 13)
-- **Armen Keuleyan (Vantage Robotics)** - Gimbal/sensor integration (Axiom Greenseer specs discussion Apr 13-14)
-- **Jared Probst (Rapid Axis)** - Manufacturing vendor, urgent parts messaging (Apr 16)
-- **Survival Systems USA** (sales@survivalsystemsinc.com) - Sea survival training vendor (Apr 16 - maritime operations context)
-- **Chloe (GetFPV)** (chloe@getfpv.com) - FPV drone platform vendor, direct contact (Apr 17 - marked IMPORTANT)
+### Key External Contacts - CRITICAL NEW:
+- **Adam Craft (Amprius)** (adam.c@ampriuscells.com) - **HIGHLY ACTIVE DIRECT NEGOTIATION** - Apr 22 shows 8 email exchanges between 11:04-23:48 UTC (spanning 12+ hours across timezone) with multiple IMPORTANT flags; indicates active battery cell sourcing negotiation; also CC'd Maciej Stachura on responses
+- **Kevin Thomas (PartsBase)** (kthomas@partsbase.com) - Aviation sourcing vendor, marked IMPORTANT (Apr 22)
+- **Angel R. Ruiz-Reyes (NAWCAD/Navy)** (angel.r.ruiz-reyes.civ@us.navy.mil) - Navy technical contact for Bartington sensor shipping and kickoff coordination (Apr 21)
+- **Anthony D. Brescia (NAWCAD/Navy)** (anthony.d.brescia.civ@us.navy.mil) - Navy stakeholder receiving kickoff presentation (Apr 21)
+- **Armen Keuleyan (Vantage Robotics)** - Gimbal/sensor integration discussions continue
+- **Nikolai Pawlenko (NOAA Federal)** - ET Demo Flights technical coordination
+- **Cobb Vaughan (Comcast Business)** (Cobb_Vaughan@comcast.com) - Account manager contact coordinated through Meredith Needham (Apr 20)
 
-### Vendor/Supplier Ecosystem:
-- **Electronics & Components**: DigiKey (order 98710410 Apr 17, PO acknowledgement received Apr 17), McMaster-Carr (April 15 order), STMicroelectronics, Pasternack
-- **Manufacturing & CNC**: Rapid Axis (Jared Probst), Craftcloud, SendCutSend (Order S834G264 Apr 17, shipment notification Apr 19), JawsTec (Order #68200 received Apr 17)
-- **Propulsion/Motors**: KDE Direct (order KDE17071 Apr 15), APC Propellers (multiple orders Apr 13-15)
-- **Drones/FPV**: GetFPV (Bardwell DIY kits Apr 14; iFlight Nazgul Evoque F5 V3 promotional email Apr 17 - MARKED IMPORTANT), eBay (persistent Futaba 14SG searches), CADDX FPV (Avatar GT2 Kit Apr 13), AMain Hobbies, Aloft Hobbies
-- **Batteries & Power**: 18650 Battery Store, High-Tech Battery Solutions, Hobbyking (battery lines Apr 16)
-- **Tools/General**: Harbor Freight (Spring Black Friday sale extended through Apr 19), McMaster-Carr, Esprit Model, The Home Depot (feedback request Apr 17)
-- **Instrumentation**: Kestrel Instruments (order Apr 14), Vaisala (RSS421 technical manual request Apr 13), Nielsen Kellerman
-- **Logistics/Travel**: Budget (car rentals), UPS (multiple package notifications Apr 17), USPS Informed Delivery (daily digest Apr 19), FedEx, U-Haul (logistics activity Apr 13-14)
-- **Subscriptions**: Driftaway Coffee (order #DR20323COF shipment notification Apr 17), Spindrift (beverage subscription - order SH62366729 confirmed Apr 20), Toggl Track (time tracking Apr 16-17), ELEGOO (Eco Flash Sale Apr 17)
-- **Infrastructure/Utilities**: Comcast Business (Account Manager contact information sent to Jack Elston and purchasing Apr 17)
+### Vendor/Supplier Ecosystem - EXPANDED:
+
+**Electronics & Components:**
+- DigiKey (order delay notification Apr 20)
+- Amazon (ADUM1201 serial components ordering Apr 22-23; AAWipes Cleanroom Wipes Apr 21)
+- McMaster-Carr
+- STMicroelectronics
+- Pasternack
+
+**Integrated Circuits & Dual Channel Isolation:**
+- ADUM1201 components (dual isolated RS-485 repeaters) - multiple orders Apr 21-23 via Amazon and ACEIRMC
+
+**Manufacturing & CNC:**
+- **Craftcloud** (Order #459340813415 - production entry Apr 22; Joshua Fromm direct recipient)
+- **SendCutSend** (Order SW02L252 new quote created Apr 20; delivery tracking Apr 22)
+- **JawsTec** (Order #68231 received Apr 20)
+- Rapid Axis (Jared Probst)
+- Rock West Composites (purchase completion reminders Apr 22)
+
+**Propulsion/Motors & Power:**
+- **KDE Direct** (Order KDE17135 confirmed Apr 20; shipment in transit Apr 21; delivery Apr 20 for KDE17071)
+- APC Propellers
+- Hobbyking (power systems 20% off Apr 20)
+- High-Tech Battery Solutions (customer survey Apr 23)
+
+**Drones/FPV/RC:**
+- GetFPV (Chloe contact continues)
+- **CADDX FPV** (Avatar GT2 Kit upgraded version - sent to both purchasing@ and alex.lomis@ Apr 22, marked IMPORTANT)
+- iFlight Nazgul Evoque F5 V3
+- eBay (persistent Futaba 14SG receiver/transmitter searches Apr 21, Apr 20)
+- **Ready Made RC LLC** (Order #420240 confirmed Apr 20; password reset Apr 20)
+- RMRC (order shipped Apr 20)
+- AMain Hobbies
+- Aloft Hobbies
+- Elegoo (Jupiter 2 Super Early Bird offer Apr 20)
+
+**Instrumentation & Sensors:**
+- Kestrel Instruments
+- Vaisala (RSS421 documentation)
+- Nielsen Kellerman
+- **LightWare microLiDAR** (Blue UAS Framework microLiDAR promotion Apr 22)
+- **Dronetag** (App push alerts & map view update Apr 21)
+- Bartington Magnetometer (sensor shipping coordination with Navy Apr 21)
+
+**Batteries & Power:**
+- 18650 Battery Store
+- **Amprius cells** (ACTIVE NEGOTIATION - Apr 22)
+
+**Tools/General:**
+- Harbor Freight (new product alert Apr 21)
+- The Home Depot
+- McMaster-Carr
+
+**Logistics/Travel:**
+- Budget (car rentals; double upgrade offer Apr 21)
+- UPS (package arrivals Apr 22, Apr 21)
+- USPS Informed Delivery (daily digests Apr 23, Apr 22, Apr 21, Apr 20)
+- FedEx
+- **U-Haul** (contract terms/order placed Apr 21; rental survey Apr 21)
+
+**Subscriptions/Services:**
+- **Toggl Track** (support email marked IMPORTANT, no subject line Apr 22 - unusual)
+- Driftaway Coffee (previous period)
+- **Spindrift Market** (beverage subscription order SH62366729 en route Apr 20)
+- Gemini/Google Notes (meeting notes auto-generated: BST Internal Update Meeting Apr 22, Navy SBIR Option Period Kickoff Meeting Apr 21)
+
+**Infrastructure/Utilities:**
+- Comcast Business (account manager contact flow Apr 20)
+- X-Plane (flight simulator v12.4.2 available Apr 22)
+
+**Cleaning/Miscellaneous:**
+- **Neat N Tidy** (booking reminder Apr 21; receipt Apr 22)
 
 ## Topic Patterns
 
-### Major Active Projects:
-- **"Mexico Planning"** - Strategic meeting held Apr 13 with 8 core BST leadership — suggests new operational or business development initiative
-- **"ET Demo Flights"** - Ongoing multi-agency coordination (NOAA, NASA, ERAU, Navy, Skyfora)
-- **"TCE schedule"** - Navy project timeline coordination
-- **"Navy SBIR Option Period"** - Kickoff meeting scheduled April 21 (Option Period milestone tracking)
-- **"UMES S3"** - Project code [031-1] with Asana updates Apr 16
-- **"Navy SBIR: Magnetometer"** - Project code [550-1] with active development (Asana task Apr 16)
+### Major Active Projects - EXPANDED:
 
-### Technical/Component Focus:
-- **Propulsion systems** - ePropelled US-based propulsion evaluation (Jack Elston forwarding to Joshua Fromm, Alex Lomis Apr 15)
-- **Gimbal/Sensor systems** - Vantage Robotics Axiom Greenseer gimbal specs actively reviewed (Meredith Needham discussion with Armen Keuleyan Apr 13-14)
-- **Instrumentation** - Kestrel Instruments weather/environmental sensors (order placed Apr 14); Vaisala RSS421 technical documentation request (Apr 13)
-- **Drone platforms** - Continued FPV focus (Bardwell DIY kits, CADDX Avatar GT2, iFlight Nazgul Evoque F5 V3 — marked as IMPORTANT by GetFPV direct contact Apr 17)
-- **RC/Radio Control** - Futaba 14SG receiver/transmitter searches ongoing
-- **Motors & Propellers** - KDE Direct motor order (Apr 15), APC Propellers orders (Apr 13-15)
+**Navy SBIR Magnetometer Project [550-1]:**
+- **Massive task assignment spike Apr 21** - Maciej Stachura assigned 9 sequential tasks to Alex Lomis (18:47-18:53 UTC):
+  1. Preliminary Design Mods for re-usable S0-MAD
+  2. Complete design of new ground testing rig for both mags
+  3. Build up ground testing S0-MAD
+  4. Conduct ground testing with different throttle settings
+  5. Build up hand-launched S0-MAD
+  6. Local test flights with hand-launched S0-MAD with both sensors
+  7. Finalize Camp Pendleton flight plans and Aircraft
+  8. Camp Pendleton demo flights
+  9. Order parts for S0-MAD Re-usable
+- **Camp Pendleton demo flights** - explicit task focus (Apr 21)
+- Navy SBIR Option Period Kickoff Meeting held Apr 21 with presentation slides
+- Bartington sensor shipping coordination with NAWCAD (Angel Ruiz-Reyes, Apr 21)
+- Ground testing rig design for dual magnetometers
+- Hand-launched S0-MAD aircraft configuration emphasis
 
-## Communication Patterns
+**Mexico Planning** - Continues from previous period (Apr 13)
 
-### Meeting Cadence:
-- **"Mexico Planning"** - Apr 13, 1:00-2:30pm MDT (Jack Elston organized, invitation updates at 2:09pm, 6:15pm, 7:08pm UTC showing real-time scheduling adjustments)
-- **"BST Internal Update Meeting"** - Weekly cadence continues
-- **"Navy SBIR Option Period Kickoff"** - Scheduled April 21
-- **Project task management** - Daily Asana reminders (Mon-Fri, continuing through Apr 20): "tasks due soon" notifications (Asana notifications Apr 20 at 04:12 UTC, Apr 19 at 20:08 UTC)
-
-### Email Routing Patterns:
-- **purchasing@blackswifttech.com** - Primary inbox for vendor/logistics/automated notifications (all 6 new messages Apr 19-20 routed here)
-- **alex.lomis@blackswifttech.com** - Direct BST work communications, task management, strategic emails (Asana task notifications Apr 19-20 direct to personal email)
-
-### Recent Activity Pattern (Apr 19-20):
-- **Sunday activity** - High automated notification volume on Apr 19 (USPS digest, Harbor Freight promotional, SendCutSend shipment, Asana notifications) suggesting purchasing@blackswifttech.com is monitored over weekend
-- **Continued task tracking** - Asana notifications at 04:12 UTC Monday morning (Apr 20) indicates active project management oversight across weekend boundary
-
-## Key Relationships
-- **Closest internal collaborators** (by frequency): Jack Elston (strategic/direction), Maciej Stachura (technical coordination), Joshua Fromm (sourcing/execution), Daniel Prendergast (technical projects)
-- **Critical external vendors**: Vantage Robotics (Armen
+**ET Demo Flights** - Ongoing multi

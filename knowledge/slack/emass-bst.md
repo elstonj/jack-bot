@@ -5,14 +5,14 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 
 **Key Participants:**
 - Nikhila (eMASS AI) - Primary developer, leading chip integration and AI model implementation
-- Jack Elston (BST) - Autopilot/simulation expertise, hardware integration guidance, protocol specification
-- Dan Prendergast (BST) - Flight test coordination, E2 aircraft management, hardware setup lead
+- Jack Elston (BST) - Autopilot/simulation expertise, hardware integration guidance, protocol specification, flight testing
+- Dan Prendergast (BST) - Flight test coordination, E2 aircraft management, hardware setup lead, simulator testing
 - Moe/Prof. Moe (eMASS AI) - AI model training and optimization
 - Maciej (BST) - Vehicle parameters and specifications
 - Sergio Ruocco (eMASS AI) - Autoboot firmware expert, SDK bring-up and troubleshooting
 - Shantanu (eMASS AI) - Hardware verification and validation
 
-**Activity Level:** Highly active collaboration spanning February-April 2026. Initial setup in early February ramped to intensive HWIL and model training in March-April. Most recent activity (Apr 20, 2026) focused on connection stability debugging and hardware verification. Daily communication during critical phases.
+**Activity Level:** Highly active collaboration spanning February-April 2026. Intensive HWIL and model training in March-April. Most recent activity (Apr 20-23, 2026) focused on connection stability debugging, packet rate corrections, and actuator communication verification. Daily communication during critical phases.
 
 ---
 
@@ -52,12 +52,23 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Dan Prendergast requested confirmation that 3.3V can be sourced from J18 pin #1 for the 5-to-3.3V level shifter
 - Nikhila confirmed with Shantanu that this configuration is acceptable and won't cause issues
 
+**Baud Rate Increase (Apr 20-21, 2026)**
+- eMASS team (Nikhila, Prof. Moe, Shantanu) proposed increasing baud rate from default to address packet rate and connectivity issues
+- Jack Elston approved all three options: 230400, 460800, or 921600 baud
+- Nikhila tested and confirmed 460800 works with both chip and autopilot
+- **Decision: Set baud rate to 460800** for improved packet transmission reliability
+
+**Event System Refactoring (Apr 20, 2026)**
+- Nikhila refactored eMASS event system to use different API functions, resolving reconnection looping issues
+- Root cause was bench test code using different function calls than gazebo_hwil and droneapp
+- Fix applied across all three application binaries (bench test, droneapp, gazebo-hwil)
+
 ---
 
 ## Projects & Initiatives
 
 ### ECSDoT Integration onto E2 Aircraft
-**Status:** Connection stability issues identified and under investigation (as of Apr 20, 2026)
+**Status:** Critical packet transmission issues identified; actuator packets not reaching outputs; testing phase ongoing (as of Apr 23, 2026)
 
 **Scope:** Integrating eMASS AI's ECSDoT energy management chip onto BST's E2 multirotor UAS for final flight testing.
 
@@ -68,7 +79,8 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Payload protocol implementation over port 55551 with GCS control via port 55555
 - 5-to-3.3V level shifter powered from J18 pin #1
 
-**Recent Progress (Apr 8-20, 2026):**
+**Progress Timeline (Apr 8-23, 2026):**
+
 - **Hardware Bring-up (Apr 8-14):**
   - Resolved JTAG/UART dual connection issues on Eval Board (FTDI Dual RS232-HS)
   - Fixed Linux user permissions issue (dialout group requirement) blocking serial device access
@@ -94,22 +106,13 @@ This channel serves as the primary collaboration hub between Black Swift Technol
   - After SHUTDOWN, tablet must resend `READY` command to reconnect
   - Initiated model retraining for stricter adherence to safety constraints
 
-- **Connection Stability Issues (Apr 19-20):**
-  - **Problem Description:** Sporadic initial connections between autopilot and ECSDoT chip using gazebo-hwil-sim-only image
-  - **Symptoms Observed (Dan Prendergast, Apr 19):**
-    1. Inconsistent handshake behavior: Sometimes completes quickly through INIT → CONNECTING → CONNECTED → WAITING; other times gets stuck in CONNECTING state for several minutes; sometimes completes to WAITING but tablet still shows "Init" status
-    2. Slow cycling pattern every couple of minutes: connection completes successfully (reaches WAITING state), then drops back to INIT and CONNECTING, stalls for minutes before reconnecting
-    3. Cycle persists when picocom is NOT actively monitoring ttyUSB0
-    4. Picocom interference confirmed: incomplete packets when picocom is running; connection state slower but more stable without picocom
-    5. Faster initial connection when ECSDoT is connected AFTER autopilot startup, but slow cycling still occurs
-  - **Status:** Nikhila investigating root cause; appears to be related to connection state machine logic or timeout handling rather than simple connectivity failure
-  - **Next Steps:** Profile connection behavior to identify why cycles occur and tablet status doesn't sync with actual chip state
+- **Connection Stability & Event System Refactoring (Apr 19-20):**
+  - **Initial Problem:** Sporadic reconnection looping in bench test app, gazebo-hwil-sim-only, and droneapp
+  - **Root Cause Identified:** Event system API usage differences between bench test code and other applications
+  - **Solution:** Nikhila refactored event system to use consistent API functions across all three binaries (Apr 20 08:38)
+  - **Result:** Reconnection looping eliminated from gazebo-hwil and droneapp; slow reconnecting loop isolated to bench test app (Apr 20 11:46)
+  - **Final Fix:** Applied same event system corrections to bench test app; looping should be resolved (Apr 20)
 
-- **Hardware Verification (Apr 19):**
-  - Confirmed J18 pin #1 providing 3.3V for level shifter supply
-  - Shantanu (eMASS) verified this configuration is safe and won't cause issues
-
-**Binaries Available (as of Apr 17, 2026):**
-1. **Bench Test Binary** - 40 second test with 20s @ 1300µs, 20s @ 1400µs PWM output
-2. **HWIL Gazebo Sim-Only** - AI model trained on sim-only data (currently under test with connection issues)
-3. **HWIL Real Flight Data** - AI model trained with actual E2 flight
+- **Picocom Interference Phenomenon (Apr 21 08:29):**
+  - Discovered unusual behavior: Sometimes no autopilot connection despite chip LEDs blinking and app running
+  - When picocom monitoring is started at 

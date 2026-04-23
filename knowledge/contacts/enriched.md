@@ -1,492 +1,425 @@
 # Enriched External Contacts
 
-# Black Swift Technologies — Enriched Contact Directory
+# BLACK SWIFT TECHNOLOGIES — EXTERNAL CONTACT DIRECTORY
 
-## NASA
+---
 
-### Johnson Space Center (JSC)
-- **John Glass**
-  - Email: John.Glass-1@nasa.gov
-  - Role: Government contact/POC
-  - Interaction context: Standing contact in BST's NASA relationships
-  - Topics: Aerospace and atmospheric research contracts
+## NASA (Multiple Centers)
 
-- **Brian A. McGinley**
-  - Email: brian.a.mcginley@nasa.gov
-  - Role: Government contact
-  - Topics: Spacecraft autonomy, flight control systems
+**Primary Role:** Government client/sponsor for aerospace and atmospheric research contracts. 100+ contacts across JPL, ARC, GSFC, LARC, JSC, and other centers.
 
-### Goddard Space Flight Center (GSFC)
-- **Matthew M. Fladeland**
-  - Email: matthew.m.fladeland@nasa.gov
-  - Role: Government contact/technical lead
-  - Projects: Atmospheric research, flight operations
-  - Topics: Aircraft integration, sensor deployment
+### JPL Contacts
 
-- **Cynthia X. Zhang**
-  - Email: cynthia.x.zhang@nasa.gov
-  - Role: Government contact
-  - Topics: Autonomy systems, flight testing
-
-- **Pawan Gupta**
-  - Email: pawan.gupta@nasa.gov
-  - Role: Government contact
-  - Topics: Satellite/atmospheric data coordination
-
-### Jet Propulsion Laboratory (JPL)
-- **Andrew E. Johnson**
+- **Andrew E. Johnson** — JPL Contact
   - Email: Andrew.E.Johnson@jpl.nasa.gov
-  - Role: Technical lead
-  - Topics: Landing systems, autonomous navigation, rover support
+  - Projects: Multiple atmospheric/research missions
+  - Role: Technical liaison
 
-- **Tara Estlin**
+- **Tara Estlin** — JPL Contact
   - Email: Tara.Estlin@jpl.nasa.gov
-  - Role: Autonomy lead
-  - Topics: Rover autonomy, onboard decision-making
+  - Projects: Autonomy and rover-related research
+  - Role: Research collaborator
 
-- **Marc Golombek**
+- **Marc Golombek** — JPL Contact
   - Email: mgolombek@jpl.nasa.gov
-  - Role: Mission lead
-  - Topics: Mars rover operations, site characterization
-
-- **T. Parker**
-  - Email: tparker@jpl.nasa.gov
-  - Role: Technical contact
-  - Topics: Rover/spacecraft systems
-
-- **Raymond Francis**
-  - Email: raymond.francis@jpl.nasa.gov
-  - Role: Technical lead
-  - Topics: Rover teleoperation, navigation systems
-
-- **F. Calef**
-  - Email: fcalef@jpl.nasa.gov
-  - Role: Mission operations
-  - Topics: Rover science operations
-
-- **Kathryn M. Stack**
-  - Email: kathryn.m.stack@jpl.nasa.gov
+  - Projects: Planetary mission planning
   - Role: Science lead
-  - Topics: Geological site characterization
 
-- **R. Bhartia**
-  - Email: rbhartia@jpl.nasa.gov
-  - Role: Instrument/payload lead
-  - Topics: Spectrometer systems
-
-- **Marcin L. Witek**
-  - Email: marcin.l.witek@jpl.nasa.gov
-  - Role: Technical contact
-  - Topics: Spacecraft systems, integration
-
-- **Marco B. Quadrelli**
-  - Email: marco.b.quadrelli@jpl.nasa.gov
-  - Role: Systems engineer/lead
-  - Topics: Flight software, spacecraft autonomy
-
-- **T.W. Thompson**
-  - Email: twthompson@jpl.nasa.gov
-  - Role: Data/mission operations
-  - Topics: Flight data management
-
-- **Seungbum Kim**
-  - Email: seungbum.kim@jpl.nasa
-  - Role: Technical contact
-  - Topics: Spacecraft/rover systems
-
-- **Allyson J. Beatrice**
+- **Allyson J. Beatrice** — JPL Contact
   - Email: Allyson.J.Beatrice@jpl.nasa.gov
-  - Role: Government contact
-  - Topics: Spacecraft operations
 
-- **Cesar A. Romano**
+- **Cesar A. Romano** — JPL Contact
   - Email: cesar.a.romano@jpl.nasa.gov
-  - Role: Technical lead
-  - Topics: Flight systems, telemetry
 
-- **Roland Brockers**
+- **Roland Brockers** — JPL Contact
   - Email: roland.brockers@jpl.nasa.gov
-  - Role: Navigation/localization expert
-  - Topics: Autonomous navigation, terrain-relative navigation (TRN)
 
-### Armstrong Flight Research Center (AFRC)
-- **Jennifer Schnarr**
-  - Email: (AFRC-210)
-  - Role: RFI Technical POC
-  - Projects: **[RFI-001] NASA Aero RFI: Autonomy/Avionics**
-  - Interaction context: Active RFI response coordination (deadline May 7, 2026); Beck Cotter consolidating RFI research via NotebookLM
-  - Topics: Autonomous flight systems, avionics integration, airborne sensing
+- **T. Parker** — JPL Contact
+  - Email: tparker@jpl.nasa.gov
+
+- **Raymond Francis** — JPL Contact
+  - Email: raymond.francis@jpl.nasa.gov
+
+- **F. Calef** — JPL Contact
+  - Email: fcalef@jpl.nasa.gov
+
+- **Kathryn M. Stack** — JPL Contact
+  - Email: kathryn.m.stack@jpl.nasa.gov
+
+- **R. Bhartia** — JPL Contact
+  - Email: rbhartia@jpl.nasa.gov
+
+- **Marcin L. Witek** — JPL Contact
+  - Email: marcin.l.witek@jpl.nasa.gov
+
+- **Marco B. Quadrelli** — JPL Contact
+  - Email: marco.b.quadrelli@jpl.nasa.gov
+
+- **T.W. Thompson** — JPL Contact
+  - Email: twthompson@jpl.nasa.gov
+
+- **Seungbum Kim** — JPL Contact
+  - Email: seungbum.kim@jpl.nasa
+
+### NASA Ames Research Center (ARC) Contacts
+
+- **Will Wade** — NASA ARC Contact
+  - Email: william.o.wade@nasa.gov
+  - Projects: [S20009] BST-NASA discussion on autonomy/SBIR topics
+  - Role: Technical program manager
+  - Recent activity: Coordinating with Dan Prendergast on S20009 project (Apr 22)
+
+- **Caden Kallhoff** — NASA ARC Contact
+  - Email: caden.kallhoff@nasa.gov
+  - Projects: Atmospheric research, autonomy initiatives
+  - Role: Technical liaison
+
+- **Hai-Nam Tran** — NASA ARC Contact
+  - Email: hai-nam.tran@nasa.gov
+  - Projects: Flight control systems research
+  - Role: Technical contributor
+
+- **Randal Hobbs** — NASA ARC Contact
+  - Email: randal.hobbs@nasa.gov
+  - Projects: UAS operations and testing
+  - Role: Test coordination
+
+- **Wesley Enos** — NASA ARC Contact
+  - Email: wesley.enos@nasa.gov
+  - Projects: Autonomy and control research
+  - Role: Technical lead
 
 ### Other NASA Centers
-- **Thomas A. Weisz**
+
+- **John Glass** — NASA Contact
+  - Email: John.Glass-1@nasa.gov, John.Glass@nasa.gov
+
+- **Thomas A. Weisz** — NASA Contact
   - Email: thomas.a.weisz@nasa.gov
-  - Role: Government contact
 
-- **Daniel Goodrick**
+- **Daniel Goodrick** — NASA Contact
   - Email: daniel.goodrick@nasa.gov
-  - Role: Government contact
 
-- **Bruce D. Fisher**
+- **Bruce D. Fisher** — NASA Contact
   - Email: bruce.d.fisher@nasa.gov
-  - Role: Government contact
 
-- **Arthur B. Maples**
+- **Arthur B. Maples** — NASA Contact
   - Email: arthur.b.maples@nasa.gov
-  - Role: Government contact
 
-- **Shirley J. Lapole**
+- **Brian A. McGinley** — NASA Contact
+  - Email: brian.a.mcginley@nasa.gov
+
+- **Matthew M. Fladeland** — NASA Contact
+  - Email: matthew.m.fladeland@nasa.gov
+
+- **Cynthia X. Zhang** — NASA Contact
+  - Email: cynthia.x.zhang@nasa.gov
+
+- **Shirley J. Lapole** — NASA Contact
   - Email: Shirley.J.Lapole@nasa.gov
-  - Role: Government contact
 
-- **Brayden L. Chamberlain**
+- **Brayden L. Chamberlain** — NASA Contact
   - Email: brayden.l.chamberlain@nasa.gov
-  - Role: Government contact
 
-- **Tony A. Damian**
+- **Tony A. Damian** — NASA Contact
   - Email: tony.a.damian@nasa.gov
-  - Role: Government contact
 
-- **Mohammad Nourani**
+- **Mohammad Nourani** — NASA Contact
   - Email: mohammad.nourani@nasa.gov
-  - Role: Government contact
 
-- **Judy Dove**
+- **Judy Dove** — NASA Contact
   - Email: judy.dove@nasa.gov
-  - Role: Government contact
 
-- **William C. Edwards**
+- **William C. Edwards** — NASA Contact
   - Email: william.c.edwards@nasa.gov
-  - Role: Government contact
 
-- **Ranjay M. Shrestha**
+- **Ranjay M. Shrestha** — NASA Contact
   - Email: ranjay.m.shrestha@nasa.gov
-  - Role: Government contact
 
-- **Daniel P. Coleman**
+- **Daniel P. Coleman** — NASA Contact
   - Email: daniel.p.coleman@nasa.gov
-  - Role: Government contact
 
-- **Robert Levy**
+- **Robert Levy** — NASA Contact
   - Email: robert.levy@nasa.gov
-  - Role: Government contact
 
-- **M. M. Little**
+- **Pawan Gupta** — NASA Contact
+  - Email: pawan.gupta@nasa.gov
+
+- **M. M. Little** — NASA Contact
   - Email: m.m.little@nasa.gov
-  - Role: Government contact
 
-- **Joseph Grant-1**
+- **Joseph Grant-1** — NASA Contact
   - Email: joseph.grant-1@nasa.gov
-  - Role: Government contact
 
-- **Jennifer L. Gustetic**
+- **Jennifer L. Gustetic** — NASA Contact
   - Email: jennifer.l.gustetic@nasa.gov
-  - Role: Government contact
 
-- **Gynelle C. Steele**
+- **Gynelle C. Steele** — NASA Contact
   - Email: gynelle.c.steele@nasa.gov
-  - Role: Government contact
 
-- **Kim L. Chrestenson**
+- **Kim L. Chrestenson** — NASA Contact
   - Email: kim.l.chrestenson@nasa.gov
-  - Role: Government contact
 
-- **Stephan R. Kawa**
+- **Stephan R. Kawa** — NASA Contact
   - Email: stephan.r.kawa@nasa.gov
-  - Role: Government contact
 
-- **Morris Hicks**
+- **Morris Hicks** — NASA Contact
   - Email: morris.hicks@nasa.gov
-  - Role: Government contact
 
-- **Nakeitha Terrell**
+- **Nakeitha Terrell** — NASA Contact
   - Email: nakeitha.terrell@nasa.gov
-  - Role: Government contact
 
-- **Ganiu T. Adegun**
+- **Ganiu T. Adegun** — NASA Contact
   - Email: ganiu.t.adegun@nasa.gov
-  - Role: Government contact
 
-- **Jerry S. Esper**
+- **Jerry S. Esper** — NASA Contact
   - Email: jerry.s.esper@nasa.gov
-  - Role: Government contact
 
-- **Roopalee D. Nesson**
+- **Roopalee D. Nesson** — NASA Contact
   - Email: roopalee.d.nesson@nasa.gov
-  - Role: Government contact
 
-- **Sergio Mckenzie**
+- **Sergio Mckenzie** — NASA Contact
   - Email: sergio.mckenzie@nasa.gov
-  - Role: Government contact
 
-- **Aimee B. Crowley**
+- **Aimee B. Crowley** — NASA Contact
   - Email: aimee.b.crowley@nasa.gov
-  - Role: Government contact
 
-- **Amanda S. Brecht**
+- **Amanda S. Brecht** — NASA Contact
   - Email: amanda.s.brecht@nasa.gov
-  - Role: Government contact
 
 ---
 
 ## NOAA (National Oceanic and Atmospheric Administration)
 
-### Active Field Operations & Research
-- **Joe Cione**
-  - Email: (inferred from Slack)
-  - Role: Event/mission coordinator, federal contact
-  - Projects: Hurricane reconnaissance, tropical cyclone field operations
-  - Interaction context: Event invitations, flight coordination (from Josh Fromm email patterns)
-  - Topics: Hurricane/storm flight operations, data collection events
+**Primary Role:** Government client/partner for atmospheric and weather research. 200+ contacts across multiple NOAA divisions.
 
-### Atmospheric & Oceanographic Research
-- **Wayne M. Angevine**
+### Key Operational Contacts
+
+- **Joe Cione** — NOAA Federal
+  - Email: joe.cione@noaa.gov
+  - Projects: [SBIR-Hurricane] S0 aircraft for hurricane reconnaissance
+  - Role: Event coordination, mission operations lead
+  - Recent activity: Event invitations and deployment coordination (ongoing through Apr 2026)
+
+- **Amy L. McIlverty** — NOAA Federal
+  - Email: amy.l.mcliverty@noaa.gov
+  - Projects: [SBIR-Hurricane] NOAA IDIQ contract
+  - Role: Contract/compliance officer
+  - Recent activity: NOAA IDIQ contract questions and compliance coordination (Apr 21, IMPORTANT)
+
+### Additional NOAA Contacts (Alphabetical)
+
+- **Wayne M. Angevine** — NOAA Contact
   - Email: wayne.m.angevine@noaa.gov
-  - Role: Atmospheric scientist
-  - Topics: Atmospheric profiling, boundary layer research
 
-- **Peter Wolf**
+- **Peter Wolf** — NOAA Contact
   - Email: peter.wolf@noaa.gov
-  - Role: Technical contact
-  - Topics: Oceanographic research, data collection
 
-- **Paul E. Johnston**
+- **Paul E. Johnston** — NOAA Contact
   - Email: paul.e.johnston@noaa.gov
-  - Role: Government contact
-  - Topics: Oceanographic/atmospheric operations
 
-- **Gary Wick**
+- **Gary Wick** — NOAA Contact
   - Email: gary.wick@noaa.gov
-  - Role: Research scientist
-  - Topics: Sea surface observations, oceanographic measurements
 
-- **Jonathan Neuhaus**
+- **Jonathan Neuhaus** — NOAA Contact
   - Email: jonathan.neuhaus@noaa.gov
-  - Role: Technical lead
-  - Topics: Atmospheric/oceanographic systems
 
-- **Jeff McMurphy**
+- **Jeff McMurphy** — NOAA Contact
   - Email: jeff.mcmurphy@noaa.gov
-  - Role: Operations coordinator
-  - Topics: Field operations, data management
 
-- **Treste Huse**
+- **Treste Huse** — NOAA Contact
   - Email: treste.huse@noaa.gov
-  - Role: Government contact
-  - Topics: Atmospheric research
 
-- **Tom Evans**
+- **Tom Evans** — NOAA Contact
   - Email: tom.evans@noaa.gov
-  - Role: Government contact
-  - Topics: Research operations
 
-- **Jennifer Horsman**
+- **Jennifer Horsman** — NOAA Contact
   - Email: jennifer.horsman@noaa.gov
-  - Role: Government contact
-  - Topics: Research coordination
 
-- **Isaac Vimont**
+- **Isaac Vimont** — NOAA Contact
   - Email: isaac.vimont@noaa.gov
-  - Role: Research scientist
-  - Topics: Atmospheric science
 
-- **Allison McComiskey**
+- **Allison McComiskey** — NOAA Contact
   - Email: allison.mccomiskey@noaa.gov
-  - Role: Atmospheric scientist
-  - Topics: Cloud/aerosol measurements
 
-- **Heather Ziel**
+- **Heather Ziel** — NOAA Contact
   - Email: heather.ziel@noaa.gov
-  - Role: Government contact
-  - Topics: Research operations
 
-- **Audrey Jerauld**
+- **Audrey Jerauld** — NOAA Contact
   - Email: audrey.jerauld@noaa.gov
-  - Role: Government contact
-  - Topics: Program coordination
 
-- **Courtney Smith**
+- **Courtney Smith** — NOAA Contact
   - Email: courtney.smith@noaa.gov
-  - Role: Government contact
-  - Topics: Research support
 
-- **Jordan Rabinowitz**
+- **Jordan Rabinowitz** — NOAA Contact
   - Email: jordan.rabinowitz@noaa.gov
-  - Role: Government contact
-  - Topics: Program operations
 
-- **Dan Kelly**
+- **Dan Kelly** — NOAA Contact
   - Email: dan.kelly@noaa.gov
-  - Role: Government contact
-  - Topics: Operations coordination
 
-- **Kenneth Kottra**
+- **Kenneth Kottra** — NOAA Contact
   - Email: kenneth.kottra@noaa.gov
-  - Role: Government contact
-  - Topics: Technical support
 
-- **Karla Nicholl**
+- **Karla Nicholl** — NOAA Contact
   - Email: KARLA.NICHOLL@noaa.gov
-  - Role: Government contact
-  - Topics: Research coordination
 
-- **Jeff Colton**
+- **Jeff Colton** — NOAA Contact
   - Email: Jeff.Colton@noaa.gov
-  - Role: Government contact
-  - Topics: Program operations
 
-- **Jordan Dale**
+- **Jordan Dale** — NOAA Contact
   - Email: jordan.dale@noaa.gov
-  - Role: Government contact
-  - Topics: Research support
 
-- **Steven Fuhrman**
+- **Steven Fuhrman** — NOAA Contact
   - Email: steven.fuhrman@noaa.gov
-  - Role: Government contact
-  - Topics: Technical operations
 
-- **Beth Jaime**
+- **Beth Jaime** — NOAA Contact
   - Email: beth.jaime@noaa.gov
-  - Role: Government contact
-  - Topics: Program coordination
 
-- **Gustavo Rubio**
+- **Gustavo Rubio** — NOAA Contact
   - Email: Gustavo.Rubio@noaa.gov
-  - Role: Government contact
-  - Topics: Research operations
 
-- **Eric Vichich**
+- **Eric Vichich** — NOAA Contact
   - Email: eric.vichich@noaa.gov
-  - Role: Government contact
-  - Topics: Technical support
 
-- **Mark Piotrowski**
+- **Mark Piotrowski** — NOAA Contact
   - Email: mark.piotrowski@noaa.gov
-  - Role: Government contact
-  - Topics: Operations coordination
 
-- **Jeff R. Johnson**
+- **Jeff R. Johnson** — NOAA Contact
   - Email: jeff.r.johnson@noaa.gov
-  - Role: Government contact
-  - Topics: Research coordination
 
-- **David Hsu**
+- **David Hsu** — NOAA Contact
   - Email: david.hsu@noaa.gov
-  - Role: Government contact
-  - Topics: Technical operations
 
-- **Denice Drass**
+- **Denice Drass** — NOAA Contact
   - Email: Denice.Drass@noaa.gov
-  - Role: Government contact
-  - Topics: Program support
 
-- **Bryand Duke**
+- **Bryand Duke** — NOAA Contact
   - Email: Bryand.Duke@noaa.gov
-  - Role: Government contact
-  - Topics: Operations coordination
 
-- **Clayton Watkins**
+- **Clayton Watkins** — NOAA Contact
   - Email: Clayton.watkins@noaa.gov
-  - Role: Government contact
-  - Topics: Research support
 
-- **John Bradley**
+- **John Bradley** — NOAA Contact
   - Email: john.brsadley@noaa.gov
-  - Role: Government contact
-  - Topics: Technical coordination
 
-- **Ross Allen**
+- **Ross Allen** — NOAA Contact
   - Email: ross.allen@noaa.gov
-  - Role: Government contact
-  - Topics: Operations support
 
-- **Virginia Chapman**
+- **Virginia Chapman** — NOAA Contact
   - Email: virginia.chapman@noaa.gov
-  - Role: Government contact
-  - Topics: Research coordination
 
-- **Jeff Jalbrzikowski**
+- **Jeff Jalbrzikowski** — NOAA Contact
   - Email: jeff.jalbrzikowski@noaa.gov
-  - Role: Government contact
-  - Topics: Technical support
 
-- **Francis Kredensor**
+- **Francis Kredensor** — NOAA Contact
   - Email: francis.kredensor@noaa.gov
-  - Role: Government contact
-  - Topics: Program operations
 
-- **Robert A. Warner**
+- **Robert A. Warner** — NOAA Contact
   - Email: Robert.A.Warner@noaa.gov
-  - Role: Government contact
-  - Topics: Operations coordination
 
-- **Abel Alagbe**
+- **Abel Alagbe** — NOAA Contact
   - Email: abel.alagbe@noaa.gov
-  - Role: Government contact
-  - Topics: Research support
 
-- **L. Shi**
+- **L. Shi** — NOAA Contact
   - Email: l.shi@noaa.gov
-  - Role: Government contact
-  - Topics: Technical operations
 
-- **Felix Martinez**
+- **Felix Martinez** — NOAA Contact
   - Email: felix.martinez@noaa.gov
-  - Role: Government contact
-  - Topics: Program coordination
 
-- **William D. Otto**
+- **William D. Otto** — NOAA Contact
   - Email: william.d.otto@noaa.gov
-  - Role: Government contact
-  - Topics: Operations support
 
-- **Ramon Perez-David**
+- **Ramon Perez-David** — NOAA Contact
   - Email: ramon.perezdavid@noaa.gov
-  - Role: Government contact
-  - Topics: Research coordination
 
-- **Jon Petry**
+- **Jon Petry** — NOAA Contact
   - Email: jon.petry@noaa.gov
-  - Role: Government contact
-  - Topics: Technical support
 
-- **Shannon Shields**
+- **Shannon Shields** — NOAA Contact
   - Email: Shannon.Shields@noaa.gov
-  - Role: Government contact
-  - Topics: Program operations
 
-- **Brent Bower**
+- **Brent Bower** — NOAA Contact
   - Email: brent.bower@noaa.gov
-  - Role: Government contact
-  - Topics: Operations coordination
 
-- **Alexandria Andonian**
+- **Alexandria Andonian** — NOAA Contact
   - Email: alexandria.andonian@noaa.gov
-  - Role: Government contact
-  - Topics: Research support
 
-- **Jesse Leach**
+- **Jesse Leach** — NOAA Contact
   - Email: jesse.leach@noaa.gov
-  - Role: Government contact
-  - Topics: Technical operations
 
-- **Rematha Jones-Collins**
+- **Rematha Jones-Collins** — NOAA Contact
   - Email: rematha.jones-collins@noaa.gov
-  - Role: Government contact
-  - Topics: Program coordination
 
-- **John Crockett**
+- **John Crockett** — NOAA Contact
   - Email: john.crockett@noaa.gov
-  - Role: Government contact
-  - Topics: Operations support
 
-- **John A. Quinlan**
+- **John A. Quinlan** — NOAA Contact
   - Email: john.a.quinlan@noaa.gov
-  - Role: Government contact
-  - Topics: Research coordination
 
-- **Lindsey Houska**
+- **Lindsey Houska** — NOAA Contact
   - Email: lindsey.houska@noaa.gov
-  - Role: Government contact
-  - Topics: Technical support
 
-- **Lisa
+- **Lisa Verzella** — NOAA Contact
+  - Email: lisa.verzella@noaa.gov
+
+- **Shawn Smith** — NOAA Contact
+  - Email: shawn.smith@noaa.gov
+
+- **Matthew Zika** — NOAA Contact
+  - Email: matthew.zika@noaa.gov
+
+- **Ashley Hill** — NOAA Contact
+  - Email: ashley.hill@noaa.gov
+
+- **Audrey Rubel** — NOAA Contact
+  - Email: audrey.rubel@noaa.gov
+
+- **Cole Rossiter** — NOAA Contact
+  - Email: cole.rossiter@noaa.gov
+
+- **Lauren Marshall** — NOAA Contact
+  - Email: lauren.marshall@noaa.gov
+
+- **Annie Gorgone** — NOAA Contact
+  - Email: annie.gorgone@noaa.gov
+
+- **Justin Keesee** — NOAA Contact
+  - Email: justin.keesee@noaa.gov
+
+- **Joel Cline** — NOAA Contact
+  - Email: joel.cline@noaa.gov
+
+- **Chung-Chu Teng** — NOAA Contact
+  - Email: chung-chu.teng@noaa.gov
+
+- **Michael McCarthy** — NOAA Contact
+  - Email: michael.mccarthy@noaa.gov
+
+- **George Perry** — NOAA Contact
+  - Email: george.perry@noaa.gov
+
+- **Philip Hoffman** — NOAA Contact
+  - Email: philip.hoffman@noaa.gov
+
+- **Noah Lawrence-Slavas** — NOAA Contact
+  - Email: noah.lawrence-slavas@noaa.gov
+
+- **Tee Her** — NOAA Contact
+  - Email: tee.her@noaa.gov
+
+- **Logan Poole** — NOAA Contact
+  - Email: logan.poole@noaa.gov
+
+- **Carly Robbins** — NOAA Contact
+  - Email: carly.robbins@noaa.gov
+
+- **Lynn Evans** — NOAA Contact
+  - Email: lynn.evans@noaa.gov
+
+- **Michael Cameron** — NOAA Contact
+  - Email: michael.cameron@noaa.gov
+
+- **Ray Young** — NOAA Contact
+  - Email: ray.young@noaa.gov
+
+- **Linda Gilbert** — NOAA Contact

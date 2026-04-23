@@ -1,61 +1,99 @@
 # Slack Channels Overview
 
-Last scanned: 2026-04-20 02:12
+Last scanned: 2026-04-23 02:18
 
-Total channels scanned: 5
+Total channels scanned: 15
 
 ## Channels
 
-- **#emass-bst** -- 7 messages -- [emass-bst.md](emass-bst.md)
-- **#operations** -- 1 messages -- [operations.md](operations.md)
-- **#s0-vtol** -- 2 messages -- [s0-vtol.md](s0-vtol.md)
-- **#s3** -- 1 messages -- [s3.md](s3.md)
-- **#sbir-volcano** -- 14 messages -- [sbir-volcano.md](sbir-volcano.md)
+- **#2025-nasa-autonomy** -- 1 messages -- [2025-nasa-autonomy.md](2025-nasa-autonomy.md)
+- **#25_1-navy-sbir-magnetometer** -- 25 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#25_1-navy-sttr-boundary-layer** -- 4 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
+- **#by-lite-mustang** -- 2 messages -- [by-lite-mustang.md](by-lite-mustang.md)
+- **#commercial-sales** -- 15 messages -- [commercial-sales.md](commercial-sales.md)
+- **#emass** -- 42 messages -- [emass.md](emass.md)
+- **#emass-bst** -- 40 messages -- [emass-bst.md](emass-bst.md)
+- **#flight-testing** -- 66 messages -- [flight-testing.md](flight-testing.md)
+- **#general** -- 5 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 18 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#logparse-website** -- 21 messages -- [logparse-website.md](logparse-website.md)
+- **#marketing** -- 19 messages -- [marketing.md](marketing.md)
+- **#operations** -- 13 messages -- [operations.md](operations.md)
+- **#s3** -- 95 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 53 messages -- [sbir-hurricane.md](sbir-hurricane.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Cross-Channel Strategic Overview
-
-## Active Projects
-
-**Primary Aircraft Development:**
-- **S3 VTOL**: Long-endurance hybrid fixed-wing/quadcopter with tilting rotors (2-3 hour target). Lead: Joshua Fromm
-- **S0 VTOL**: Vertical takeoff/landing with forward flight transition. Mature project (~2+ years), extensive flight testing underway
-- **E2 Aircraft**: Platform for eMASS AI energy management system integration (ECSDoT hardware)
-- **SBIR Volcano Monitoring**: NASA-funded projects deploying S2/S3 with specialized sensors for volcanic emissions research via USGS collaboration
-
-**Integration Initiative:**
-- eMASS AI partnership for energy management system development and AI model implementation on E2 platform
-
-## Key People & Roles
-
-| Person | Primary Role | Channels |
-|--------|-------------|----------|
-| Jack Elston | Systems architect, firmware, leadership | All channels |
-| Joshua Fromm | Lead engineer/designer, hardware/shop lead | #s3, #s0-vtol, #operations |
-| Sam Hild | Firmware development | #s3, #s0-vtol |
-| Maciej | Project oversight, testing | #s3, #s0-vtol |
-| Nikhila | eMASS AI developer, chip integration lead | #emass-bst |
-| Meredith Needham | Finance/admin | #operations |
+# Black Swift Technologies - Strategic Slack Overview
 
 ## Cross-Channel Themes
 
-**Technical Convergence:** Multiple aircraft platforms (S0, S3, E2) share common development patterns—firmware, flight testing, and hardware integration challenges appear across channels, suggesting knowledge sharing opportunities
+### 1. **Core Business: Aircraft Development & Platforms**
+BST operates a diverse fleet of unmanned aircraft systems serving distinct missions:
+- **Fixed-wing platforms**: S2, S0 (hurricane reconnaissance), S1-VTOL
+- **VTOL platforms**: S3 (hybrid quadcopter with tilting rotors, 2-3hr endurance)
+- **Multirotor platforms**: E2, Flamewheel
+- **Customer platforms**: By Light Mustang (USAF contract)
 
-**Decision Patterns:** Jack Elston serves as primary technical authority across all projects; major decisions flow through him for systems architecture and firmware validation
+All aircraft development channels (#s3, #by-lite-mustang, #flight-testing) converge on Jack Elston and Joshua Fromm for systems/firmware decisions.
 
-**Recurring Topics:**
-- Flight testing and validation cycles
-- Hardware integration challenges
-- Firmware development and autopilot systems
-- Sensor payload deployment and optimization
-- Supply chain and logistics coordination
+### 2. **Government Contracting & Funding (Primary Revenue Driver)**
+Active pursuit across federal agencies with structured pipeline:
+- **Navy SBIR/STTR**: Magnetometer integration (#25_1-navy-sbir-magnetometer), boundary layer sensing (#25_1-navy-sttr-boundary-layer)
+- **NASA**: 2025 autonomy Phase I project (#2025-nasa-autonomy)
+- **NOAA/USDA/DOD**: Ongoing proposals tracked in #grants-and-funding
+- **Decision pattern**: Jack Elston drives funding strategy; Maciej and Dan Prendergast support technical proposals; Meredith manages budgets
 
-**Operational Spine:** #operations connects scattered project work through status updates, resource allocation, and administrative tracking—links technical progress to business execution
+### 3. **Critical Personnel & Decision Authority**
 
-## Connecting Threads
+| Person | Primary Role | Key Channels |
+|--------|--------------|--------------|
+| **Jack Elston** | CEO/Technical Lead | #general, #grants-and-funding, all technical channels |
+| **Maciej** | Operations/Flight Testing Lead | #flight-testing, #s3, project coordination |
+| **Joshua Fromm** | Hardware/Design Lead | #s3, #flight-testing, #operations |
+| **Dan Prendergast** | Project Management/Proposals | #emass, #sbir-hurricane, #grants-and-funding |
+| **Ben Busby** | Infrastructure/Backend Dev | #logparse-website, data systems |
+| **Beck Cotter** | Hardware Integration | Navy projects, flight testing |
 
-- **SBIR funding** validates market viability of S2/S3 platforms in real-world monitoring applications
-- **eMASS partnership** represents commercialization pathway for energy management technology across aircraft fleet
-- **Firmware team** (Jack Elston, Sam Hild) critical bottleneck across S0, S3, and E2 development
-- **Joshua Fromm's hardware expertise** bridges aircraft design (S3) with operational execution (#operations shop management)
+### 4. **Data & Infrastructure (Enabling Layer)**
+**#logparse-website**: SwiftWeb platform centralizes flight data management across all platforms
+- Converts binary logs to NetCDF format
+- Provides analytics/visualization for fleet operations
+- Critical dependency for flight testing and mission analysis
+
+### 5. **Active Integration Projects**
+- **eMASS partnership** (#emass, #emass-bst): AI hardware integration on E2 for efficiency improvement
+- **By Light Mustang** (#by-lite-mustang): USAF contract with phased development approach
+- **Navy boundary layer/magnetometer projects**: Sensor payload integration on S0
+
+### 6. **Recurring Decision Patterns**
+1. **Technical decisions**: Jack Elston + domain expert (Joshua Fromm for hardware, Maciej for flight ops)
+2. **Funding decisions**: Jack Elston drives strategy; proposals coordinated through #grants-and-funding
+3. **Flight operations**: Maciej coordinates; issues escalated to Jack Elston
+4. **Procurement/logistics**: Joshua Fromm + Meredith Needham in #operations
+
+### 7. **Channel Ecosystem Structure**
+- **Strategic**: #general (company-wide), #grants-and-funding (revenue), #operations (execution)
+- **Technical Projects**: #sbir-hurricane, #25_1-navy-sbir-magnetometer, #25_1-navy-sttr-boundary-layer, #2025-nasa-autonomy, #s3
+- **Customer/Commercial**: #commercial-sales, #by-lite-mustang
+- **Infrastructure**: #logparse-website, #flight-testing
+- **Partnership**: #emass, #emass-bst
+- **Marketing**: #marketing (external communications)
+
+### 8. **Key Connections Across Channels**
+- **Flight testing** (#flight-testing) feeds data into **SwiftWeb** (#logparse-website) for all platforms
+- **Navy projects** leverage **S0 platform** developed in **#sbir-hurricane**
+- **S3 VTOL** development (#s3) informs STTR boundary layer project (#25_1-navy-sttr-boundary-layer)
+- **NASA autonomy** (#2025-nasa-autonomy) shares control architecture work with **flight testing** validation
+- **eMASS integration** impacts **E2 platform** performance tracked in **#flight-testing**
+
+### 9. **Project Timeline Overview**
+- **Long-running**: SBIR Hurricane (2020-2026), S3 VTOL development
+- **Current focus**: Navy STTR boundary layer, NASA autonomy Phase I (2025-2026), By Light Mustang USAF contract
+- **Recent launches**: 2025 Navy magnetometer SBIR, eMASS integration with E2
+
+### 10. **Organizational Strengths**
+- Centralized decision-making (Jack Elston) with clear technical owners
+- Strong integration across hardware, firmware, and operations
+- Government contracting expertise with active funding pipeline
+- Diverse platform portfolio supporting multiple mission types

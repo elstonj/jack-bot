@@ -4,15 +4,13 @@
     "[043-3] By Light Halo"
   ],
   "period": {
-    "start": "2025-04-22",
-    "end": "2026-04-22"
+    "start": "2026-04-22",
+    "end": "2026-04-23"
   },
   "totals": {
-    "revenue": 126629.0,
-    "expenses": 2973.29,
-    "by_category": {
-      "DIRECT COSTS:DC-Direct Cost Purchases": 2973.29
-    }
+    "revenue": 111629.0,
+    "expenses": 0.0,
+    "by_category": {}
   },
   "invoices": [
     {
@@ -60,178 +58,10 @@
           "description": ""
         }
       ]
-    },
-    {
-      "type": "Invoice",
-      "date": "2026-04-08",
-      "doc_number": "1753",
-      "total": 15000.0,
-      "attributed": 15000.0,
-      "vendor": "",
-      "customer": "[043-3] By Light Halo",
-      "balance": 15000.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 15000.0,
-          "account": "",
-          "description": "$15,000 due upon signing of contract for purchase of two (2) Chilli Double Carbon Wing and Tailsets and Actuator Boards, and ADS-B for HALO 2x platform build."
-        },
-        {
-          "amount": 15000.0,
-          "account": "",
-          "description": ""
-        }
-      ]
     }
   ],
   "bills": [],
-  "purchases": [
-    {
-      "type": "Purchase",
-      "date": "2026-04-20",
-      "doc_number": "68231",
-      "total": 355.06,
-      "attributed": 355.06,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 355.06,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
-          "description": "Propulsion_-_Actuator_Tray.step; Propulsion-Motor-Mount.step, etc."
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-04-20",
-      "doc_number": "KDE17135",
-      "total": 780.0,
-      "attributed": 780.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 780.0,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
-          "description": "KDE4215XF-465 Brushless Motor for Heavy-Lift Electric Multi-Rotor x 4"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-04-17",
-      "doc_number": "420240",
-      "total": 225.62,
-      "attributed": 225.62,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 225.62,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
-          "description": "TBS Lucid 90A 3-12S AM32 ESC x 4"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-04-17",
-      "doc_number": "S834G264",
-      "total": 125.93,
-      "attributed": 125.93,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 125.93,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
-          "description": "M2_Battery_Assembly___I_Bus_Bar.step; M2_Battery_Assembly_____Terminal.step; M2_Battery_Assembly_____Termi; M2_Battery_Assembly___Z_Bus_\nBar.step"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-04-17",
-      "doc_number": "68200",
-      "total": 849.29,
-      "attributed": 849.29,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 849.29,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
-          "description": "M2-Battery-Assembly-Battery-Casing.step"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-04-09",
-      "doc_number": "237604",
-      "total": 74.85,
-      "attributed": 74.85,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 74.85,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
-          "description": "Aeronaut Yoke for Turbo and Black 2-Blade Spinners x 6"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-04-09",
-      "doc_number": "17274",
-      "total": 234.95,
-      "attributed": 234.95,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "SOARING USA INC - 4699",
-      "lines": [
-        {
-          "amount": 234.95,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
-          "description": "GM 17x13 Prop x 5"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-03-19",
-      "doc_number": "",
-      "total": 327.59,
-      "attributed": 327.59,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No purchase request because handled directly.",
-      "lines": [
-        {
-          "amount": 327.59,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
-          "description": "Painted aircraft tube"
-        }
-      ]
-    }
-  ],
+  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

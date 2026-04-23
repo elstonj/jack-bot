@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $3,900,918.28
-- **Total Expenses (Bills + Purchases):** $1,268,419.09
+- **Total Expenses (Bills + Purchases):** $1,309,196.56
 - **Total Purchase Orders:** $433.00
-- **Net Position:** $2,632,499.19 (invoiced minus expenses)
+- **Net Position:** $2,591,721.72 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -51,12 +51,14 @@
 
 ## Expenses by Cost Category
 
-### **Subcontractors: $694,273.03**
-**Number of transactions:** 87  
+### **Subcontractors: $712,553.48**
+**Number of transactions:** 89  
 **Key vendors & items:**
 - **Weather Stream (Milestone payments):** $448,200.00 (SMM Phase II milestones 2-8)
+- **Matthew Crabtree (PCB assembly, rework, parts sourcing):** $67,425.53
+  - Bill #BST-April2026-1 (2026-04-22): $14,479.45 (Parts/Materials & IRAD allocation)
+  - Bill #BST-March2026-2 (2026-04-22): $24,224.02 (Parts/Materials & IRAD allocation; second half of $48,448.05 March invoice)
 - **Ted Miles (NASA AREN labor):** $49,350.80 (627 total hours tracked)
-- **Matthew Crabtree (PCB assembly, rework, parts sourcing):** $46,572.76
 - **MicroFirm Engineering (Hurricane work):** $84,373.13 (labor 110+ hours, parts)
 - **EKase Consulting LLC (TABA support, business consulting):** $13,600.00
 - **Embry Riddle University (STTR subcontract):** $56,290.00
@@ -69,8 +71,8 @@
 
 ---
 
-### **Materials & Supplies: $437,873.73**
-**Number of transactions:** 166  
+### **Materials & Supplies: $438,368.88**
+**Number of transactions:** 167  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
 - **JAWSTEC:** $19,627.62 (components for S0 platforms)
@@ -82,7 +84,8 @@
 - **S0 wing components:** Multiple purchases totaling $12,200+
 - **PCB boards, stencils, parts sourcing:** ~$30,000+
 
-**April 2026 transactions (2026 IDIQ, Sasquatch, S0 production):**
+**Recent transactions (April 2026):**
+- **Purchase #459340813415** (2026-04-21): $495.15 — Split between 3 S0 projects (2026 IDIQ $330.10, Sasquatch $66.02, Future S0 inventory $99.03)
 - **Digikey (Purchase #98710410):** $283.99 — Supplies for 2026 IDIQ ($93.99), Sasquatch ($18.80), future S0 inventory ($28.20)
 
 ---
@@ -92,17 +95,21 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 
 ---
 
-### **Travel: $10,432.35**
-**Number of transactions:** 40+  
+### **Travel: $10,569.49**
+**Number of transactions:** 42  
 **Key travel categories:**
-- **Airfare:** ~$6,000+ (United Airlines flights to Florida for Hurricane Melissa, Gabrielle, Ernesto operations)
+- **Airfare:** ~$6,500+ (United Airlines flights to Florida for Hurricane operations, including refunds)
+  - **Flight refund (2026-04-20):** -$974.14 (Mexico trip cancelled - USGS Volcano)
+  - **Flight refund (2026-04-20):** -$574.14 (Mexico trip cancelled - USGS Volcano)
 - **Lodging:** ~$1,500+ (Hilton Garden Inn Lakeland, Home2 Suites, hotels)
 - **Car rental & rideshare:** ~$2,000+ (Hertz, Budget.com prepays; airport parking Denver & Tampa)
+- **Tolls & ground transport:**
+  - **Hertz toll charge (2026-04-20):** $21.70 (Clear Air NOAA Florida trip)
+  - Airport parking & other tolls/gas: $77.97 + other minor charges
 - **Meals & incidentals:** ~$500+ (airports, local restaurants during field operations)
 - **EV charging:** $60.00
-- **Tolls/gas:** $77.97 + other minor charges
 
-**Notable trip concentration:** October 2025 (Hurricane Melissa), September 2025 (Hurricane Gabrielle)
+**Notable trip concentration:** October 2025 (Hurricane Melissa), September 2025 (Hurricane Gabrielle); April 2026 Florida operations (NOAA Lakeland)
 
 ---
 
@@ -115,14 +122,15 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 - **USPS reimbursements:** $12.25 + $25.45
 - **Various parcel shipping:** $200+ across multiple vendors
 
-**Note:** Tool shipping to Sean Cole (Phase1 Aviation) for S0 manufacturing ($28.75, 2026-04-10) is allocated to Shop Supplies/Facilities.
+**Note:** Tool shipping to Sean Cole (Phase1 Aviation) for S0 manufacturing ($28.75, 2026-04-10) is allocated to Facilities/Shop Supplies.
 
 ---
 
-### **Indirect Costs (Overhead, Fringe, G&A): $114,088.65**
-**Number of transactions:** 35+  
+### **Indirect Costs (Overhead, Fringe, G&A): $119,722.53**
+**Number of transactions:** 37  
 **Categories:**
-- **IRAD (Internal R&D):** ~$50,000+ (S0 VTOL development, S3 prototype work, general R&D)
+- **IRAD (Internal R&D):** ~$55,600+ (S0 VTOL development, S3 prototype work, general R&D)
+  - Matthew Crabtree IRAD allocations (April/March 2026): $7,740.69
 - **Overhead/G&A charges:** $400+ (marketing, finance/bank charges, licenses, permits)
 - **License/permits:** $900.00 (Mexico drone certificate 02/04/26)
 - **Finance charges:** $75.00 (wire transfer fees)
@@ -155,14 +163,4 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 
 | Month | Subcontractors | Materials | Travel | Shipping | Indirect | Facilities | **Total** |
 |-------|----------------|-----------|--------|----------|----------|-----------|----------|
-| 2024-04 | $210.00 | $0.00 | $0.00 | $0.00 | $0.00 | $0.00 | $210.00 |
-| 2024-05 | $97,800.00 | $0.00 | $0.00 | $0.00 | $300.00 | $0.00 | $98,100.00 |
-| 2024-06 | $98,025.00 | $0.00 | $25.45 | $0.00 | $112.35 | $0.00 | $98,162.80 |
-| 2024-07–2026-04-16 | *[See previous summary]* | *[See previous summary]* | *[See previous summary]* | *[See previous summary]* | *[See previous summary]* | *[See previous summary]* | *[Cumulative totals above]* |
-| **2026-04** | $0.00 | $283.99 | $0.00 | $0.00 | $0.00 | $171.75 | $455.74 |
-
----
-
-## Notable Transactions
-
-### Revenue Recognition (Apr–Sep 2026)
+| 2024-04 | $210.00 | $0.00 | $0

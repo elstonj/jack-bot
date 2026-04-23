@@ -6,15 +6,16 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 
 **Key Participants:**
 - Jack Elston (leadership, customer relationships, technical decisions)
-- Joshua Fromm (manufacturing, technical implementation)
+- Joshua Fromm (manufacturing, technical implementation, battery/avionics work)
 - Melissa Phillips (shipping/logistics coordination)
-- Maciej Tromba (payload/camera work)
+- Maciej Tromba (payload/camera work, customer communication)
 - Danny Troke (QC, testing, batteries)
 - Meredith Needham (shipping, logistics)
-- Nate (assembly, QC flights, payload prep)
+- Nate (assembly, QC flights, payload prep, GCS builds)
 - Paige Smith (sales coordination, customer communication)
 - Beck Cotter (customer outreach, email coordination)
 - Ben Busby (team member)
+- Dan Prendergast (project coordination, customer requests)
 
 **Activity Level:** High-volume channel with 4,701+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions.
 
@@ -55,6 +56,12 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Multiple prototype flights (goal: 10 successful flights before customer delivery)
 - Issues under investigation regarding landing transition stability
 - Remote ID integration required per COA requirements
+
+**NASA S2 Iridium Retrofit Decision (April 2026)**
+- Customer (NASA) requested estimate for adding Iridium components to S20009 and associated ground stations
+- Jack Elston decision: Advise against addition due to component obsolescence from third parties and significant engineering burden
+- Recommendation: Politely decline unless customer insists; if they do insist, may cannibalize parts from existing BST setup but flagged as "huge headache"
+- Reasoning: Iridium capability is a legacy/one-off feature reviving obsolete components; not worth production effort
 
 ### Gimbal & Camera Decisions
 
@@ -134,14 +141,4 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 
 ### Composite Sourcing Strategy
 
-**Multi-Vendor Composite Approach (October 2023)**
-- Previous: Reliance on Greeley facility (outsources to Michigan) for composites
-- New strategy: Use multiple vendors to avoid single-vendor reliance
-- Primary vendors: Ability Composites (Loveland - previous nosecone work), Phase1, Black Peak
-- Lead time estimate: t+60 days from approval
-- Composite pictures OK to share; build guides require NDA first
-
-**S0 Wing & Nosecone Orders (October 2023)**
-- Ordered 10 S0 wings (matching SOW requirements)
-- 2+ carbon fiber nosecones (noted many in stock already)
-- Decided against building additional S2 (new
+**Multi-Vendor

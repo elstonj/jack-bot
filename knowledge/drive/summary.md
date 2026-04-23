@@ -1,50 +1,67 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-04-20 02:16
+Last scanned: 2026-04-23 02:29
 
-Total drives scanned: 1
+Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 4 files — [federal_projects.md](federal_projects.md)
+- **Federal Projects** — 6 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 3 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Strategic Drive Overview
+# Black Swift Technologies — Google Drive Strategic Overview
 
-## Summary
+## Document Volume & Organization
 
-BST maintains a **minimal shared drive presence** with only 4 files across the Federal Projects drive. The organization shows significant gaps in documentation infrastructure.
+**Total Files Across Drives:** 9 files  
+**Organization Quality:** Poor — Minimal folder structure across all drives; Federal Projects uses completely flat architecture (6 files at root level), Sales drive similarly unorganized (3 files). Limited evidence of standardized naming conventions or folder hierarchy.
 
-## Key Findings
+---
 
-### Document Volume & Organization
-- **Total Files**: 4 documents
-- **Organization Quality**: Poor — no folder structure; all files at root level
-- **File Types**: Mixed media (video files + documents)
+## Key Clients/Projects by Documentation Volume
 
-### Content Overview
+| Project/Client | Drive | File Count | Status |
+|---|---|---|---|
+| **Autonomy Phase II** | Federal Projects | 1 | Active (Draft) |
+| **DoD Development Strategy** | Federal Projects | 1 | Active (2026 engagement) |
+| **Air-deployed ISR Drone (ATR)** | Federal Projects | 1 | Active |
+| **ByLight Phase 2** | Sales | 1 | Active (Work estimate) |
+| **Weather Data Services** | Sales | 1 | Active (Pricing) |
+| **Precision Atmospheric Intelligence** | Sales | 1 | Active |
 
-| Drive | Files | Key Items | Status |
-|-------|-------|-----------|--------|
-| Federal Projects | 4 | RC_VID videos (2), Genesis Mission Phase I, ISR Drone documentation | Limited scope |
+---
 
-### Notable Patterns
-- **Video Files**: Two RC video files (RC_VID_0008/0009) with identical recent modification dates — possible duplicates or related media assets
-- **Project Documentation**: Genesis Mission Phase I and Air-deployed ISR Drone represent active federal initiatives
-- **Minimal Cross-Drive Activity**: No visibility into Sales, Operations, or other functional areas
+## Cross-Drive Patterns
+
+- **Federal Projects drive:** Government contracts, proposals, technical specs, DoD stakeholder presentations
+- **Sales drive:** Pricing models, service offerings, work estimates — appears to feed into federal business development
+- **Relationship:** Sales collateral (atmospheric intelligence, weather services) likely supports federal proposals
+
+---
+
+## Important Shared Resources & Templates
+
+No shared templates identified. No resource library evident across drives.
+
+---
+
+## Document Management Observations
+
+- **Minimal naming consistency:** Mix of descriptive names and cryptic abbreviations (e.g., "ATR.pdf")
+- **No version control visible:** DRAFT designation appears in one file; unclear version management protocol
+- **No folder taxonomy:** Both drives use flat storage; no separation by client, project phase, or document type
+- **Recent activity:** All modified dates cluster in April 2026, suggesting active current projects
+
+---
 
 ## Areas Requiring Attention
 
-🚩 **Critical Gaps**:
-- Only one shared drive visible — suggests other drives may exist but weren't summarized, or centralization is incomplete
-- No folder hierarchy or organizational structure
-- Missing supporting documentation for active projects (Genesis Mission, ISR Drone)
-- No templates, SOPs, or resource libraries
-- Video files lack descriptive naming (RC_VID designation unclear)
+1. **Organizational crisis:** No folder structure creates searchability and retention risks for federal compliance
+2. **Document governance:** No apparent naming convention, versioning system, or access controls evident
+3. **Stale content risk:** Some files reference 2022 creation; unclear if materials are current or archived
+4. **Proposal management:** Active DRAFT proposals stored alongside final materials with no clear workflow
+5. **Template/resource library:** No documented best practices or reusable components for proposals, SOWs, or pricing
 
-🚩 **Recommended Actions**:
-1. Implement folder structure (by project, client, or document type)
-2. Establish naming conventions across all drives
-3. Audit for missing project documentation and stale content
-4. Consolidate shared resources/templates into central locations
+**Recommendation:** Implement folder hierarchy (by client → project → document type) and standardize naming conventions before drive volume increases.

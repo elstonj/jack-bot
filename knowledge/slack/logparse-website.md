@@ -16,6 +16,7 @@ This channel tracks the development and operation of SwiftWeb (logparse), a plat
 - **Made site publicly accessible** (removed VPN restriction); later added organizational account access controls
 - **Sep 15, 2025**: Decided to migrate plotting tools from matplotlib to Plotly/Dash for better web interactivity and independence from notebooks
 - **Oct 2025**: Approved migration of all logs from 14 organizations from old logparse site to new SwiftWeb platform
+- **Apr 21, 2026**: Decided to un-publish log_utils package from PyPI; will import as submodule in swiftweb repo instead (Ben Busby decision)
 
 ## Projects & Initiatives
 
@@ -27,12 +28,16 @@ This channel tracks the development and operation of SwiftWeb (logparse), a plat
 - Features: flight visualization, 3D flight paths with Google Maps tiles, custom SQL queries on flight metadata, WMO NetCDF generation for S0 aircraft
 
 ### Ground Station Logs (GCS) Processing
-**Status:** Operational (since Sep 2024)
+**Status:** Operational with ongoing refinements (as of Apr 2026)
 - Development began Aug 2022 for hurricane/aircraft recovery scenarios
 - Implemented SWIG C++/Python wrapper for SDK integration (completed Sep 2024)
 - Automatic flight splitting based on sys_init packets
-- Known issues: PAYLOAD_DATA_CHANNEL packets often have checksum failures; TELEMETRY_CONTROL data generation in progress
+- Known issues: 
+  - PAYLOAD_DATA_CHANNEL packets often have checksum failures
+  - GCS logs may lack sys_init or vehicle_param packets; swiftweb now handles gracefully by storing to database but not presenting NetCDF output to users (Apr 21, 2026)
+  - TELEMETRY_CONTROL data generation in progress
 - Outputs NetCDF files per flight in same format as autopilot logs
+- **Recent fix (Apr 21, 2026):** `get_info_aplog` in log_utils updated to handle GCS logs properly; system now falls back to last seen sys_init/vehicle_param packet for flight naming when packets missing
 
 ### WMO NetCDF Generation
 **Status:** Feature-complete, optimization pending (as of Jan 2026)
@@ -66,21 +71,25 @@ This channel tracks the development and operation of SwiftWeb (logparse), a plat
 - ✅ Update packaging instructions for mhp_coeff_2023_02_23.mat file handling (completed)
 - ✅ Switch to more reliable transactional email service for verification (completed May 22, 2025)
 - ✅ Implement log deletion functionality for BST users (completed Sep 26, 2025)
+- ✅ Fix GCS log processing for logs without sys_init/vehicle_param packets (completed Apr 21, 2026)
+- ✅ Un-publish log_utils from PyPI; convert to submodule import (completed Apr 21, 2026)
 - **Pending:** Switch WMO generator to background task processing (awaiting Maciej's modifications)
 - **Pending:** Add parsing support for SENSORS_RTK_HEADING packet (ID #59) (requested Mar 20, 2026)
 - **Pending:** Investigate S1-19 flight NAN value issues (assigned Apr 1, 2026)
-- **Pending:** Revisit migration of old flights from legacy site to new platform (in progress as of Oct 2025)
+- **In Progress:** Investigate missing `FLIGHT_PLAN_WAYPOINT` packets in recent S1-22 logs (assigned Apr 20, 2026; confirmed packets missing from binary as of Apr 21)
 
 ### Maciej
 - ✅ Complete automation of WMO netCDF generation code (planned for weekend following Jun 27, 2025)
 - ✅ Investigate and resolve S0-64 flight separation issues (completed Jan 26, 2026)
 - ✅ Identify protocol issue in S10019 flight (PAYLOAD_S0_SENSORS packet missing) (completed Mar 19, 2025)
 - ✅ Update log_utils repo for new SDK (completed Nov 2025)
+- ✅ Fix `get_info_aplog` function to handle GCS logs (completed Apr 21, 2026)
 
 ### Jack Elston
 - ✅ Retry S2 Costa Rica flights upload (May 23, 2025)
 - ✅ Confirm organizations for migration (completed Oct 22, 2025)
 - ✅ Request removal of invalid log_S00076_log_2 (completed Sep 26, 2025)
+- **Pending:** Confirm which flight from Apr 21, 2026 GCS upload to save (second flight only; first flight had onboard log)
 
 ### Dan Prendergast
 - **Pending:** Database schema expansion with PIC, takeoff time, land time columns (requested Jan 20, 2026)
@@ -97,25 +106,4 @@ This channel tracks the development and operation of SwiftWeb (logparse), a plat
 Free access provided to: NREL, Alerion, INSTAAR, UVA, NASA, UMES (added Aug 2025)
 
 ### Organizations Migrated from Legacy Site (Oct 2025)
-INSTAAR, WCE, AboveAndBeyondAS, GeoTech, CureCUV, NOAA-TDD, JakeAeroic, AeroIC, VerticalGeo, Alerion, Howard University, NREL, UVA, Rainmaker, ERAU
-
-## Recurring Topics & Themes
-
-### NetCDF Conversion Performance & Reliability
-- Initial conversion slow (10–15 min per file) due to CONTROL_COMMAND variable size; improved dramatically with new parser (Sep 2024)
-- Wind data missing from initial batches due to type mismatch (fixed Dec 2022)
-- Logs frequently stuck in conversion pipeline; resolved by restarting netcdf generation
-- Ongoing packet parsing issues requiring version-specific fixes
-
-### Data Quality & Packet Parsing Issues
-- Regular discovery of missing or malformed packets (PAYLOAD_DATA_CHANNEL checksums, SENSORS_RTK_HEADING, S0_SENSORS)
-- False flight separation due to system time resets (resolved Jan 26, 2026)
-- Partial uploads or file corruption from Slack data transfer
-
-### Infrastructure & Cost Management
-- Monthly AWS costs ~$150–200/month (two m5-large servers + S3); colocation alternative explored at $49/month for 1U
-- Recurring storage capacity issues requiring upgrades
-- Database connection pool exhaustion on old site (Apr 2025)
-- Server segfault issues in netcdf python library (resolved via upgrade)
-
-### User
+INSTAAR, WCE, AboveAndBeyondAS, GeoTech, CureCUV, NOAA-TDD, JakeA

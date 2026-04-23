@@ -1,35 +1,43 @@
 # Stachura — Time Tracking
 
 ## Summary
-- Total hours tracked: 1,966.9 hours (cumulative)
-- Primary projects: Corporate/Strategic Planning (356.6h), Hurricane Phase II+ (321.2h), Project 183171534 (290.9h), SwiftCore 3.3 (185.4h), 2026 IDIQ Hurricane (65.0h)
+- Total hours tracked: 1,993.9 hours (cumulative)
+- Primary projects: Corporate/Strategic Planning (369.4h), Hurricane Phase II+ (321.2h), Project 183171534 (290.9h), SwiftCore 3.3 (185.4h), 2026 IDIQ Hurricane (68.3h)
 - Time period covered: Data spans multiple months/years based on project variety
+- Latest batch: 27.1 hours added
 
 ## Project Breakdown
-- **[001-13] Corporate / Strategic Planning** (Overhead): 356.6 hours (18.1%)
-- **[301-2] SBIR - Hurricane Phase II+** (NOAA: Joe Cione): 321.2 hours (16.3%)
-- **Project 183171534**: 290.9 hours (14.8%)
-- **[001-14] SwiftCore 3.3** (IRAD): 185.4 hours (9.4%)
-- **[300-3] 2026 IDIQ (Hurricane)** (NOAA): 65.0 hours (3.3%)
-- **Project 160309352**: 144.6 hours (7.4%)
-- **[001-11] Methane Emission Detection IRAD** (IRAD): 129.0 hours (6.6%)
-- **[001-07] S3 IRAD** (IRAD): 90.3 hours (4.6%)
-- **Project 180222280**: 77.9 hours (4.0%)
-- **[200-11] ROSES Wildfire** (NASA): 70.6 hours (3.6%)
-- **Commercial Sales**: 64.6 hours (3.3%)
+- **[001-13] Corporate / Strategic Planning** (Overhead): 369.4 hours (18.5%) — *+12.8h this batch*
+- **[301-2] SBIR - Hurricane Phase II+** (NOAA: Joe Cione): 321.2 hours (16.1%)
+- **Project 183171534**: 290.9 hours (14.6%)
+- **[001-14] SwiftCore 3.3** (IRAD): 185.4 hours (9.3%)
+- **[300-3] 2026 IDIQ (Hurricane)** (NOAA): 68.3 hours (3.4%) — *+3.3h this batch*
+- **Project 160309352**: 144.6 hours (7.3%)
+- **[001-11] Methane Emission Detection IRAD** (IRAD): 129.0 hours (6.5%)
+- **[001-07] S3 IRAD** (IRAD): 95.1 hours (4.8%) — *+4.8h this batch*
+- **Project 180222280**: 77.9 hours (3.9%)
+- **[200-11] ROSES Wildfire** (NASA): 70.6 hours (3.5%)
+- **[550-1] Navy SBIR: Magnetometer** (Navy): 5.6 hours (0.3%) — *+4.1h this batch*
+- **[001-01] General IRAD** (IRAD): 2.1 hours (0.1%) — *+2.1h this batch*
+- **Commercial Sales**: 64.6 hours (3.2%)
 - **[450-1] 2020 NOAA WPO - Crested Butte SMM** (NOAA): 45.5 hours (2.3%)
-- **[400-5] SBIR - SMM DoD 22.4D Phase II** (Air Force): 42.6 hours (2.2%)
-- **[550-1] Navy SBIR: Magnetometer** (Navy): 1.5 hours (0.1%)
+- **[400-5] SBIR - SMM DoD 22.4D Phase II** (Air Force): 42.6 hours (2.1%)
 - **[350-4] 2024 USGS - Chile (Mexico)** (USGS): 1.1 hours (0.1%)
 - Other smaller projects: 79.3 hours (4.0%)
 
 ## Recent Activity
-- **[001-13] BD Pipeline**: 3.3 hours logged (undescribed entry)
-- BD Pipeline work continues at steady administrative/business development pace
-- No task descriptions provided in latest entry
+- **[001-13] Proposals**: 8.0 hours (largest activity this batch)
+- **[550-1] Navy SBIR: Magnetometer**: 4.1 hours — new/resumed activity, previously minimal (<2h cumulative)
+- **[001-07] S3 IRAD**: 4.8 hours spread across two entries
+- **[300-3] 2026 IDIQ (Hurricane)**: 3.3 hours across three small entries
+- **[001-13] General Operations**: 4.3 hours across three entries
+- **[001-01] General IRAD**: 2.1 hours (new project entry, previously untracked)
+- **No task descriptions**: All 12 recent entries lack detail; documentation gap persists
 
 ## Patterns
-- **Steady BD Pipeline activity**: Cumulative BD Pipeline/Strategic Planning hours now at 356.6h (18.1% of total), reflecting ongoing business development and administrative overhead management
-- **Hurricane program remains core**: Combined Hurricane Phase II+ and 2026 IDIQ total ~386h (19.6% of portfolio)—sustained strategic priority
-- **Documentation gap persists**: Continued lack of task descriptions across entries limits visibility into specific work activities
-- **No major portfolio shifts**: Recent activity consistent with established priorities; no new projects activated in this batch
+- **BD/Proposal focus intensifying**: Proposals now consuming 8.0h in latest batch; combined with General Operations, overhead allocation remains steady at ~18.5%
+- **Navy Magnetometer reactivating**: 4.1 hours in this batch signals renewed attention after prior dormancy (1.5h cumulative before)
+- **S3 IRAD stable**: Continued incremental work; total now 95.1h (4.8%)
+- **Hurricane portfolio steady**: 2026 IDIQ tracking consistent; combined Hurricane programs still ~19.5% of portfolio
+- **Critical documentation gap**: All entries undescribed; limits visibility into specific BD targets, proposal focus areas, and magnetometer work direction
+- **No major portfolio shifts**: Activity remains aligned with established priorities; no new strategic initiatives
