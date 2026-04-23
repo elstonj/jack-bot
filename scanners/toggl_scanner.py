@@ -317,7 +317,9 @@ def _format_person_data(user_id, user_info, summary_by_user, detailed_entries, p
             proj_name = projects.get(proj_id, {}).get("name", "No project") if proj_id else "No project"
             seconds = entry.get("time_entries", [{}])[0].get("seconds", 0) if entry.get("time_entries") else 0
             start = entry.get("start", "")[:10]
-            tags = ", ".join(entry.get("tag_ids", []) or []) if entry.get("tag_ids") else ""
+            # Toggl's detailed report returns tag_ids as ints, not strings
+            raw_tags = entry.get("tag_ids") or []
+            tags = ", ".join(str(t) for t in raw_tags)
             tag_str = f" [tags: {tags}]" if tags else ""
             lines.append(f"  - {start} | {proj_name} | {seconds / 3600:.1f}h | {desc}{tag_str}")
 
