@@ -37,7 +37,7 @@ if env_path.exists():
                 os.environ[key] = value
 
 
-AVAILABLE_SOURCES = ["asana", "toggl", "contacts", "slack", "email", "drive", "proposals", "budgets", "quickbooks", "qbo_by_class", "financial", "projects", "project_state", "enrich-contacts", "costs"]
+AVAILABLE_SOURCES = ["asana", "toggl", "contacts", "slack", "email", "drive", "proposals", "budgets", "quickbooks", "qbo_by_class", "purchasing", "financial", "projects", "project_state", "enrich-contacts", "costs"]
 
 
 def scan_asana(mode):
@@ -253,6 +253,17 @@ def scan_costs(mode):
     print(f"\nCost tracking complete: {len(results)} projects in {elapsed:.0f}s")
 
 
+def scan_purchasing(mode):
+    from scanners.purchasing_scanner import scan_all
+    print(f"\n{'='*60}")
+    print(f"PURCHASING@ MAILBOX SCAN — mode: {mode}")
+    print(f"{'='*60}\n")
+    start = time.time()
+    paths = scan_all(mode=mode)
+    elapsed = time.time() - start
+    print(f"\nPurchasing scan complete: {len(paths)} month files in {elapsed:.0f}s")
+
+
 def scan_qbo_by_class(mode):
     from scanners.qbo_by_class import scan_all
     print(f"\n{'='*60}")
@@ -301,6 +312,7 @@ SCANNERS = {
     "budgets": scan_budgets,
     "quickbooks": scan_quickbooks,
     "qbo_by_class": scan_qbo_by_class,
+    "purchasing": scan_purchasing,
     "financial": scan_financial,
     "projects": scan_projects,
     "project_state": scan_project_state,
@@ -352,6 +364,7 @@ def main():
             "QUICKBOOKS_REFRESH_TOKEN": "QuickBooks OAuth",
             "QUICKBOOKS_REALM_ID": "QuickBooks company ID",
         },
+        "purchasing": {"GOOGLE_SERVICE_ACCOUNT_JSON": "Google API"},
         "financial": {},  # reads other scanner outputs, no external API needed
         "projects": {"ASANA_ACCESS_TOKEN": "Asana API"},
         "project_state": {

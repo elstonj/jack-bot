@@ -7,6 +7,7 @@ from slack_bolt.adapter.flask import SlackRequestHandler
 from flask import Flask, request
 
 from weather import format_weather, is_weather_intent, match_sites
+from purchase_check import is_purchase_check_intent, handle_purchase_check
 from personality import get_response
 from research_cache import get_full_summary, get_user_summary, get_team_summary, get_per_user_sections, is_stale
 from knowledge import store_correction, store_entry, store_feedback, store_bug, store_feature, list_items
@@ -199,6 +200,7 @@ def route_message(message, say, client, user_id, channel_id):
             ":clipboard: *tasks* — your prioritized task list (`tasks all` for the team)\n"
             ":partly_sunny: *weather* — flying conditions at local RC sites\n"
             ":dollar: *finances* — project financial summary (in a project channel)\n"
+            ":money_with_wings: *can we buy $X of Y?* — budget check + approval routing\n"
             ":bug: *bug: [description]* — report a bug\n"
             ":sparkles: *feature: [description]* — request a feature\n"
             ":clipboard: *bugs* / *features* — list open items\n"
@@ -221,6 +223,9 @@ def route_message(message, say, client, user_id, channel_id):
             say("No company financial overview available yet.")
     elif msg_lower.startswith(("finances", "financial")):
         say(get_project_finances(client, channel_id))
+    elif is_purchase_check_intent(message):
+        channel_ctx = get_channel_context(client, channel_id)
+        say(handle_purchase_check(message, channel_ctx))
     elif msg_lower.startswith("bug:"):
         desc = re.sub(r"^bug:\s*", "", message, flags=re.IGNORECASE)
         user_name = resolve_user_name(client, user_id)
