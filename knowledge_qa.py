@@ -22,6 +22,10 @@ Rules:
 - Use Slack formatting: *bold* for emphasis, bullet points with • for lists
 - Do not invent or assume information not present in the files
 - When referencing projects, include the project number (e.g. 001-07)
+- If the user message includes an `ASKER:` block identifying who is asking, treat first-person \
+pronouns ("I", "me", "my", "mine") as referring exactly to that person. Never address the asker \
+by a different name, and never answer as if a different person were asking. If you don't know \
+the asker's identity, ask rather than guessing a name.
 
 You have access to several types of knowledge:
 - *Proposals & Reports*: Distilled BST proposals, technical reports, and white papers. Use these \
@@ -686,7 +690,7 @@ def _run_live_searches(plan, slack_client=None, channel_context=None):
     return "\n\n".join(results)
 
 
-def answer_question(question, slack_client=None, channel_id=None, channel_context=None):
+def answer_question(question, slack_client=None, channel_id=None, channel_context=None, user_id=None):
     """Answer a question using knowledge files, with live API search as fallback."""
     # Resolve channel context if not supplied by the caller
     if channel_context is None and channel_id and slack_client:
@@ -695,6 +699,37 @@ def answer_question(question, slack_client=None, channel_id=None, channel_contex
             channel_context = get_channel_context(slack_client, channel_id)
         except Exception:
             channel_context = None
+
+    # Resolve the asker so first-person pronouns bind to the right person
+    asker_hint = ""
+    if user_id:
+        asker_name = None
+        try:
+            from user_map import get_user_by_slack_id
+            asker = get_user_by_slack_id(user_id)
+            if asker and asker.get("name"):
+                asker_name = asker["name"]
+        except Exception:
+            pass
+        if not asker_name and slack_client:
+            try:
+                info = slack_client.users_info(user=user_id)
+                profile = info.get("user", {}).get("profile", {})
+                asker_name = profile.get("real_name") or profile.get("display_name")
+            except Exception:
+                pass
+        if asker_name:
+            asker_hint = (
+                f"\n\nASKER: The person asking this question is {asker_name} "
+                f"(Slack <@{user_id}>). Treat 'I', 'me', 'my' as referring to them. "
+                f"Do not address them by any other name.\n"
+            )
+        else:
+            asker_hint = (
+                f"\n\nASKER: Slack <@{user_id}> (name unresolved). Treat 'I', 'me', "
+                f"'my' as referring to them. If you need to name them, use the Slack "
+                f"mention — do not invent a name.\n"
+            )
 
     channel_files = _files_from_channel_context(channel_context)
     project_context = _project_context_blurb(channel_context)
@@ -748,7 +783,7 @@ def answer_question(question, slack_client=None, channel_id=None, channel_contex
 
     user_prompt = (
         f"Here are the knowledge files:\n\n{context}"
-        f"{channel_hint}{conversation_hint}\n\n---\nQuestion: {question}"
+        f"{channel_hint}{conversation_hint}{asker_hint}\n\n---\nQuestion: {question}"
     )
 
     # Phrases that indicate the answer didn't actually find the info.
@@ -794,7 +829,7 @@ def answer_question(question, slack_client=None, channel_id=None, channel_contex
                 if live_results:
                     extended_prompt = (
                         f"Here are the knowledge files:\n\n{context}"
-                        f"{channel_hint}{conversation_hint}\n\n"
+                        f"{channel_hint}{conversation_hint}{asker_hint}\n\n"
                         f"{live_results}\n\n---\n"
                         f"Question: {question}"
                     )

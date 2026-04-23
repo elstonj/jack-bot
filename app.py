@@ -339,6 +339,7 @@ def route_message(message, say, client, user_id, channel_id):
                 slack_client=client,
                 channel_id=channel_id,
                 channel_context=channel_ctx,
+                user_id=user_id,
             ))
     elif is_question(message):
         question = strip_qa_prefix(message)
@@ -348,6 +349,7 @@ def route_message(message, say, client, user_id, channel_id):
             slack_client=client,
             channel_id=channel_id,
             channel_context=channel_ctx,
+            user_id=user_id,
         ))
     elif is_work_update(message):
         # Legitimate work content (plans, milestones, status updates) — take

@@ -1030,6 +1030,81 @@ def run_daily_pipeline(slack_client):
     team_summary = re.split(r"(?=^\*?<@[A-Z0-9]+>\*?$|^---\s*@|^### )", full_summary, maxsplit=1, flags=re.MULTILINE)
     team_summary_text = team_summary[0].strip() if team_summary else full_summary
 
+    # Missing-section guard: every mapped team member must have a section.
+    # Claude occasionally drops someone from the output even when listed in the
+    # prompt (seen 2026-04-23: Joshua Fromm omitted, his tasks folded into Jack's).
+    # Retry once for the specific people missing, and fall back to a visible
+    # placeholder so no one is silently dropped downstream.
+    name_to_slack = {
+        u["name"]: u["slack_user_id"]
+        for u in users if u.get("name") and u.get("slack_user_id")
+    }
+    expected_slack_ids = {
+        sid for name, sid in name_to_slack.items() if name in all_team_members
+    }
+    missing_ids = expected_slack_ids - set(per_user.keys())
+    if missing_ids:
+        missing_names = [n for n, sid in name_to_slack.items() if sid in missing_ids]
+        try:
+            store_entry(slack_client, "DEBUG",
+                f"Missing sections after first pass: {sorted(missing_names)} — retrying")
+        except Exception:
+            pass
+
+        retry_active = [n for n in missing_names if n not in ooo_users]
+        retry_ooo = [n for n in missing_names if n in ooo_users]
+        retry_list_active = "".join(f"  - {n}\n" for n in retry_active)
+        retry_list_ooo = "".join(f"  - {n} (OOO: {ooo_users[n]})\n" for n in retry_ooo)
+
+        try:
+            retry_message = client.messages.create(
+                model="claude-sonnet-4-20250514",
+                max_tokens=3000,
+                system=SYNTHESIS_PROMPT,
+                messages=[{
+                    "role": "user",
+                    "content": (
+                        f"Today's date is {date.today().isoformat()}.\n\n"
+                        f"Slack mention mapping:\n{mention_map}\n\n"
+                        f"{full_context}\n\n"
+                        f"===== RETRY — MISSING SECTIONS =====\n"
+                        f"Your previous response omitted sections for the following people. "
+                        f"Produce ONLY those sections now, in the same format as the original "
+                        f"prompt (Slack-mention header, three prioritized lines, :calendar: / "
+                        f":clock1: footer). Do NOT repeat the team summary or any other "
+                        f"person's section.\n\n"
+                        + (f"ACTIVE (produce prioritized tasks):\n{retry_list_active}\n" if retry_active else "")
+                        + (f"OUT OF OFFICE (palm-tree line only):\n{retry_list_ooo}\n" if retry_ooo else "")
+                    ),
+                }],
+            )
+            retry_text = retry_message.content[0].text
+            retry_per_user = _parse_per_user(retry_text, users)
+            for sid, section in retry_per_user.items():
+                if sid in missing_ids and sid not in per_user:
+                    per_user[sid] = section
+                    full_summary += f"\n\n{section}"
+        except Exception as e:
+            try:
+                store_entry(slack_client, "DEBUG", f"Missing-section retry failed: {e}")
+            except Exception:
+                pass
+
+        # Anyone still missing gets a visible placeholder so they aren't silently dropped
+        still_missing = expected_slack_ids - set(per_user.keys())
+        for sid in still_missing:
+            name = next((n for n, s in name_to_slack.items() if s == sid), "")
+            if name in ooo_users:
+                placeholder = f"*<@{sid}>*\n:palm_tree: Out of office — {ooo_users[name]}"
+            else:
+                placeholder = (
+                    f"*<@{sid}>*\n"
+                    f":warning: Jack Bot didn't generate priorities for {name} this run — "
+                    f"check Asana directly. Retry also failed."
+                )
+            per_user[sid] = placeholder
+            full_summary += f"\n\n{placeholder}"
+
     set_cache(full_summary, per_user, team_summary_text)
 
     # Debug: log what was parsed
