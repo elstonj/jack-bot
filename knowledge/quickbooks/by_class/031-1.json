@@ -1,0 +1,477 @@
+{
+  "project_code": "031-1",
+  "qbo_class_names": [
+    "(031-1) University of Maryland Eastern Shore"
+  ],
+  "period": {
+    "start": "2025-04-22",
+    "end": "2026-04-22"
+  },
+  "totals": {
+    "revenue": 0.0,
+    "expenses": 3962.35,
+    "by_category": {
+      "Indirect Cost:Travel Expenses:Airfare (deleted)": 2539.04,
+      "Indirect Cost:Travel Expenses:Lodging (deleted)": 957.8,
+      "Indirect Cost:Travel Expenses:Away Meals (deleted)": 287.49,
+      "OVERHEAD:OH-Other Travel Expenses": 93.69,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 84.33
+    }
+  },
+  "invoices": [],
+  "bills": [],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2025-09-24",
+      "doc_number": "",
+      "total": 84.33,
+      "attributed": 84.33,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Tracking: 1ZB8C753YW78940937",
+      "lines": [
+        {
+          "amount": 84.33,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipment from UMES to BST. Jack brought an S1 to show them when he traveled for training."
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 957.8,
+      "attributed": 957.8,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HAMPTON INNS - 4699",
+      "lines": [
+        {
+          "amount": 957.8,
+          "account": "Indirect Cost:Travel Expenses:Lodging (deleted)",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 18.4,
+      "attributed": 18.4,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TST*KELLYNS KAFE - 4699",
+      "lines": [
+        {
+          "amount": 18.4,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 15.72,
+      "attributed": 15.72,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "2PROSPORTSCATER@SBIRDS - 4699",
+      "lines": [
+        {
+          "amount": 15.72,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 12.7,
+      "attributed": 12.7,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "2PROSPORTSCATER@SBIRDS - 4699",
+      "lines": [
+        {
+          "amount": 12.7,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 14.95,
+      "attributed": 14.95,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "OVGH-0170 NORFOLK TIDES - 4699",
+      "lines": [
+        {
+          "amount": 14.95,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "OVGH-0170 NORFOLK TIDES - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 41.22,
+      "attributed": 41.22,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "KROGER FUEL 3543 - 4699",
+      "lines": [
+        {
+          "amount": 41.22,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 21.95,
+      "attributed": 21.95,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SQ *RISE UP COFFEE - EAST - 4699",
+      "lines": [
+        {
+          "amount": 21.95,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 8.41,
+      "attributed": 8.41,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "STARBUCKS 52765 - 4699",
+      "lines": [
+        {
+          "amount": 8.41,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 7.4,
+      "attributed": 7.4,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DUNKIN #342111 Q35 - 4699",
+      "lines": [
+        {
+          "amount": 7.4,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 13.8,
+      "attributed": 13.8,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "OVGH-0170 NORFOLK TIDES - 4699",
+      "lines": [
+        {
+          "amount": 13.8,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "OVGH-0170 NORFOLK TIDES - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 6.9,
+      "attributed": 6.9,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "OVGH-0170 NORFOLK TIDES - 4699",
+      "lines": [
+        {
+          "amount": 6.9,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "OVGH-0170 NORFOLK TIDES - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 10.75,
+      "attributed": 10.75,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MCDONALD'S F27655 - 4699",
+      "lines": [
+        {
+          "amount": 10.75,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 7.09,
+      "attributed": 7.09,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SQ *RISE UP COFFEE - EAST - 4699",
+      "lines": [
+        {
+          "amount": 7.09,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-09",
+      "doc_number": "",
+      "total": 65.75,
+      "attributed": 65.75,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Jack travel for UMES training",
+      "lines": [
+        {
+          "amount": 65.75,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-09",
+      "doc_number": "",
+      "total": 11.32,
+      "attributed": 11.32,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "LINKWOOD CITGO - 4699\n\nJack travel for UMES training",
+      "lines": [
+        {
+          "amount": 11.32,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "LINKWOOD CITGO - 4699\n\nJack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-09",
+      "doc_number": "",
+      "total": 8.1,
+      "attributed": 8.1,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Jack travel for UMES training",
+      "lines": [
+        {
+          "amount": 8.1,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-09",
+      "doc_number": "",
+      "total": 5.57,
+      "attributed": 5.57,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SQ *IZZA POKE & COFFEE - 4699\n\nJack travel for UMES training",
+      "lines": [
+        {
+          "amount": 5.57,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "SQ *IZZA POKE & COFFEE - 4699\n\nJack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-09",
+      "doc_number": "",
+      "total": 68.06,
+      "attributed": 68.06,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Jack travel for UMES training",
+      "lines": [
+        {
+          "amount": 68.06,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-08",
+      "doc_number": "",
+      "total": 22.36,
+      "attributed": 22.36,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TST* TASTES ON THE FLY-ME - 4699   restaurant Denver Airport\n\nJack travel for UMES training",
+      "lines": [
+        {
+          "amount": 22.36,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "TST* TASTES ON THE FLY-ME - 4699   restaurant Denver Airport\n\nJack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-08",
+      "doc_number": "",
+      "total": 15.23,
+      "attributed": 15.23,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "EINSTEIN BROS BAGELS3580 - 4699\n\nJack travel for UMES training",
+      "lines": [
+        {
+          "amount": 15.23,
+          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "description": "EINSTEIN BROS BAGELS3580 - 4699\n\nJack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-08",
+      "doc_number": "",
+      "total": 5.5,
+      "attributed": 5.5,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Nyx*VendingCustomerServic - 4699\n\nVending machine - Jack travel for UMES training",
+      "lines": [
+        {
+          "amount": 5.5,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "Nyx*VendingCustomerServic - 4699\n\nVending machine - Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-07",
+      "doc_number": "",
+      "total": 513.49,
+      "attributed": 513.49,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Jack travel to UMES for training",
+      "lines": [
+        {
+          "amount": 513.49,
+          "account": "Indirect Cost:Travel Expenses:Airfare (deleted)",
+          "description": "Jack travel to UMES for training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-07",
+      "doc_number": "",
+      "total": 513.49,
+      "attributed": 513.49,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Jack travel for UMES training",
+      "lines": [
+        {
+          "amount": 513.49,
+          "account": "Indirect Cost:Travel Expenses:Airfare (deleted)",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-04",
+      "doc_number": "",
+      "total": 1512.06,
+      "attributed": 1512.06,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Jack Travel for Univ Maryland Eastern Shore training (Aug. 7-8)",
+      "lines": [
+        {
+          "amount": 1512.06,
+          "account": "Indirect Cost:Travel Expenses:Airfare (deleted)",
+          "description": "Jack Travel for Univ Maryland Eastern Shore training (Aug. 7-8)"
+        }
+      ]
+    }
+  ],
+  "purchase_orders": [],
+  "payments": []
+}

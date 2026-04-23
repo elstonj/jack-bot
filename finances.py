@@ -16,6 +16,7 @@ FINANCIAL_DIR = Path(__file__).parent / "knowledge" / "financial" / "by_project"
 OVERVIEW_PATH = Path(__file__).parent / "knowledge" / "financial" / "overview.md"
 CHANNEL_MAP_PATH = Path(__file__).parent / "knowledge" / "channel_projects.md"
 PROJECT_DIR = Path(__file__).parent / "knowledge" / "projects"
+PROJECT_STATE_DIR = Path(__file__).parent / "knowledge" / "project_state"
 
 SUMMARIZE_PROMPT = """\
 You are formatting a financial summary for Slack. Given raw project financial data, \
@@ -30,6 +31,22 @@ Rules:
 - Include invoice history if present (just invoice #, date, amount, status)
 - Include key milestones/deliverables if present
 - Max ~15 lines"""
+
+
+STATE_SUMMARIZE_PROMPT = """\
+You are formatting a project's structured state JSON for Slack. The JSON is authoritative.
+
+Rules:
+- Use *bold* for labels and key numbers
+- Use bullet points, not markdown tables (Slack doesn't render them)
+- Lead with budget: approved / spent (total + labor/qbo breakdown) / remaining / burn rate
+- Note if budget.approved is null — say "Approved budget not yet in the record" and cite approved_source
+- Include customer/contract block when present (name, type, contract number, total value, end date)
+- Include up to 4 upcoming milestones (name + due date + status)
+- If there are `overrides`, surface the most recent 1-2 as "Recent corrections from team: ..."
+- Note data-confidence quirks honestly: labor is a placeholder at $125/hr until Rippling is wired;
+  purchases from purchasing@ emails aren't yet tracked
+- Max ~18 lines"""
 
 
 def _load_channel_map():
@@ -73,6 +90,21 @@ def _find_financial_file(project_code):
     return None
 
 
+def _find_project_state(project_code):
+    """Prefer the phase-1 structured project-state JSON if present.
+
+    Looks for `knowledge/project_state/{code}.json` using both dash and
+    underscore forms since different call sites use different conventions.
+    """
+    if not PROJECT_STATE_DIR.exists():
+        return None
+    for variant in (project_code, project_code.replace("_", "-"), project_code.replace("-", "_")):
+        p = PROJECT_STATE_DIR / f"{variant}.json"
+        if p.exists():
+            return p
+    return None
+
+
 def _get_channel_info(slack_client, channel_id):
     """Get channel name, topic, and purpose."""
     try:
@@ -87,14 +119,14 @@ def _get_channel_info(slack_client, channel_id):
         return {"name": "", "topic": "", "purpose": ""}
 
 
-def _summarize_for_slack(raw_content):
-    """Use Claude to convert raw financial markdown into clean Slack output."""
+def _summarize_for_slack(raw_content, system_prompt=None):
+    """Use Claude to convert raw financial data into clean Slack output."""
     try:
         client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
         message = client.messages.create(
             model="claude-haiku-4-5-20251001",
             max_tokens=800,
-            system=SUMMARIZE_PROMPT,
+            system=system_prompt or SUMMARIZE_PROMPT,
             messages=[{"role": "user", "content": raw_content[:6000]}],
         )
         return message.content[0].text
@@ -106,18 +138,25 @@ def _summarize_for_slack(raw_content):
 
 
 def _find_project_data(channel_id, slack_client):
-    """Find the raw financial/project data for a channel. Returns (content, None) or (None, error_msg)."""
+    """Find raw data for a channel's project.
+
+    Returns (content, kind, error). `kind` is 'state' for structured JSON,
+    'markdown' for the legacy path, or None on error.
+    """
     # 1. Explicit channel-to-project mapping
     channel_map = _load_channel_map()
     if channel_id in channel_map:
         code = channel_map[channel_id]
+        state_path = _find_project_state(code)
+        if state_path:
+            return state_path.read_text(), "state", None
         path = _find_financial_file(code)
         if path:
-            return path.read_text(), None
+            return path.read_text(), "markdown", None
         proj_path = PROJECT_DIR / f"{code}.md"
         if proj_path.exists():
-            return proj_path.read_text(), None
-        return None, f"Channel mapped to project `{code}` but no financial data found."
+            return proj_path.read_text(), "markdown", None
+        return None, None, f"Channel mapped to project `{code}` but no financial data found."
 
     # 2. Project codes in channel name/topic/purpose
     info = _get_channel_info(slack_client, channel_id)
@@ -125,9 +164,12 @@ def _find_project_data(channel_id, slack_client):
     codes = _extract_project_codes(search_text)
 
     for code in sorted(codes, key=len, reverse=True):
+        state_path = _find_project_state(code)
+        if state_path:
+            return state_path.read_text(), "state", None
         path = _find_financial_file(code)
         if path:
-            return path.read_text(), None
+            return path.read_text(), "markdown", None
 
     # 3. Match channel name against project registry files
     if info.get("name") and PROJECT_DIR.exists():
@@ -139,14 +181,17 @@ def _find_project_data(channel_id, slack_client):
                 header = f.read_text()[:500].lower()
                 if ch_name in header or all(w in header for w in ch_name.split() if len(w) > 2):
                     code = f.stem
+                    state_path = _find_project_state(code)
+                    if state_path:
+                        return state_path.read_text(), "state", None
                     fin_path = _find_financial_file(code)
                     if fin_path:
-                        return fin_path.read_text(), None
-                    return f.read_text(), None
+                        return fin_path.read_text(), "markdown", None
+                    return f.read_text(), "markdown", None
             except Exception:
                 continue
 
-    return None, "No financial data available for this channel's project."
+    return None, None, "No financial data available for this channel's project."
 
 
 def get_project_finances(slack_client, channel_id):
@@ -154,8 +199,9 @@ def get_project_finances(slack_client, channel_id):
     if not channel_id:
         return "I can't determine the project for this channel."
 
-    content, error = _find_project_data(channel_id, slack_client)
+    content, kind, error = _find_project_data(channel_id, slack_client)
     if error:
         return error
 
-    return _summarize_for_slack(content)
+    prompt = STATE_SUMMARIZE_PROMPT if kind == "state" else SUMMARIZE_PROMPT
+    return _summarize_for_slack(content, system_prompt=prompt)

@@ -1,0 +1,424 @@
+{
+  "project_code": "550-2",
+  "qbo_class_names": [
+    "[550-2] Navy STTR Hazardous Weather",
+    "[550] United States Navy:[550-2] Navy STTR Hazardous Weather"
+  ],
+  "period": {
+    "start": "2025-04-22",
+    "end": "2026-04-22"
+  },
+  "totals": {
+    "revenue": 392652.0,
+    "expenses": 72790.0,
+    "by_category": {
+      "DIRECT COSTS:DC-Direct Cost Subcontractors": 72394.59,
+      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 395.41
+    }
+  },
+  "invoices": [
+    {
+      "type": "Invoice",
+      "date": "2026-03-17",
+      "doc_number": "1742",
+      "total": 50000.0,
+      "attributed": 50000.0,
+      "vendor": "",
+      "customer": "[550-2] Navy STTR Hazardous Weather",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 50000.0,
+          "account": "",
+          "description": "CLIN 0005: Kick-off Briefing\nMaterials & FWA Certification (Option)"
+        },
+        {
+          "amount": 50000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2026-01-07",
+      "doc_number": "1687",
+      "total": 6500.0,
+      "attributed": 6500.0,
+      "vendor": "",
+      "customer": "[550-2] Navy STTR Hazardous Weather",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 6500.0,
+          "account": "",
+          "description": "TABA Report"
+        },
+        {
+          "amount": 6500.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2026-01-07",
+      "doc_number": "1686",
+      "total": 20826.0,
+      "attributed": 20826.0,
+      "vendor": "",
+      "customer": "[550-2] Navy STTR Hazardous Weather",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 20826.0,
+          "account": "",
+          "description": "Final Report"
+        },
+        {
+          "amount": 20826.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2025-10-06",
+      "doc_number": "1707",
+      "total": 49000.0,
+      "attributed": 49000.0,
+      "vendor": "",
+      "customer": "[550-2] Navy STTR Hazardous Weather",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 49000.0,
+          "account": "",
+          "description": "CLIN 0002: Progress Report"
+        },
+        {
+          "amount": 49000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2025-07-22",
+      "doc_number": "1684",
+      "total": 70000.0,
+      "attributed": 70000.0,
+      "vendor": "",
+      "customer": "[550-2] Navy STTR Hazardous Weather",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 70000.0,
+          "account": "",
+          "description": "CLIN 0001: Kick-off Briefing Materials & FWA Certification"
+        },
+        {
+          "amount": 70000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    }
+  ],
+  "bills": [
+    {
+      "type": "Bill",
+      "date": "2026-01-26",
+      "doc_number": "CI010518",
+      "total": 18763.34,
+      "attributed": 18763.34,
+      "vendor": "Embry Riddle University",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 18763.34,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "Task B.3: Turbulence and Wave Height Measurements - Base\n(Months 4 and 5)"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2025-12-31",
+      "doc_number": "1323",
+      "total": 7787.5,
+      "attributed": 4100.0,
+      "vendor": "EKase Consulting, LLC",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 3237.5,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "Support for N251-016 (21.5833hrs)"
+        },
+        {
+          "amount": 4100.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "Support for N25A-T025 (27.3333hrs)"
+        },
+        {
+          "amount": 450.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": "Support for NASA Phase I (3hrs)"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2025-12-12",
+      "doc_number": "AR260926",
+      "total": 5000.0,
+      "attributed": 5000.0,
+      "vendor": "Old Dominion University Research Foundation",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "Subcontract Agreement NO. N6833525C0270\nProject No. 500567-010\n\nPayment for the award entitled \"STTR: N25A-T025-0009 - Expendable Air-Sea Profiling Observations in Hazardous Weather Conditions via Small Uncrewed Aircraft System\"",
+      "lines": [
+        {
+          "amount": 5000.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "December 2025 Invoice: STTR N25A-T025-0009 Hazardous Weather"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2025-12-02",
+      "doc_number": "CI009403",
+      "total": 18763.33,
+      "attributed": 18763.33,
+      "vendor": "Embry Riddle University",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "Bill sent in October 2025, but was not received until December 2025",
+      "lines": [
+        {
+          "amount": 18763.33,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "Task B.1: Background Review and Comparative Analysis"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2025-12-02",
+      "doc_number": "CI009922",
+      "total": 18763.33,
+      "attributed": 18763.33,
+      "vendor": "Embry Riddle University",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 18763.33,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "Task B.2: S0 Data Analysis and Enhancements"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2025-12-01",
+      "doc_number": "1744",
+      "total": 1987.5,
+      "attributed": 600.0,
+      "vendor": "EKase Consulting, LLC",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 862.5,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "TABA support for N251-016 (5.75hrs)"
+        },
+        {
+          "amount": 600.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "TABA support for N25A-T025 (4hrs)"
+        },
+        {
+          "amount": 525.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": "TABA support for NASA Phase I (3.5hrs)"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2025-11-03",
+      "doc_number": "1738",
+      "total": 2475.0,
+      "attributed": 1312.5,
+      "vendor": "EKase Consulting, LLC",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 1312.5,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "TABA support for Navy STTR (N25A-T025) 8.75hrs @ $150"
+        },
+        {
+          "amount": 1162.5,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "TABA support for Navy SBIR (N251-016) 7.75hrs @ $150"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2025-10-15",
+      "doc_number": "AR260532",
+      "total": 5000.0,
+      "attributed": 5000.0,
+      "vendor": "Old Dominion University Research Foundation",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "Subcontract Agreement NO. N6833525C0270\n\nPayment for the award entitled \"STTR: N25A-T025-0009 - Expendable Air-Sea Profiling Observations in Hazardous Weather Conditions via Small Uncrewed Aircraft System\"",
+      "lines": [
+        {
+          "amount": 5000.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "October 2025 Invoice: STTR N25A-T025-0009 Hazardous Weather"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2025-09-02",
+      "doc_number": "",
+      "total": 1725.0,
+      "attributed": 487.5,
+      "vendor": "EKase Consulting, LLC",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "Business Consulting for 550-1 and 550-2",
+      "lines": [
+        {
+          "amount": 1237.5,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "TABA support for N251-016 (550-1 NAVY SBIR: Magnetometer)"
+        },
+        {
+          "amount": 487.5,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "ABA support for N25A-T025 ([550-2] Navy STTR: Hazardous Weather)"
+        }
+      ]
+    }
+  ],
+  "purchases": [],
+  "purchase_orders": [],
+  "payments": [
+    {
+      "type": "Payment",
+      "date": "2026-04-08",
+      "doc_number": "",
+      "total": 50000.0,
+      "attributed": 50000.0,
+      "vendor": "",
+      "customer": "[550-2] Navy STTR Hazardous Weather",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 50000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Payment",
+      "date": "2026-01-21",
+      "doc_number": "",
+      "total": 6500.0,
+      "attributed": 6500.0,
+      "vendor": "",
+      "customer": "[550-2] Navy STTR Hazardous Weather",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 6500.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Payment",
+      "date": "2026-01-16",
+      "doc_number": "",
+      "total": 20826.0,
+      "attributed": 20826.0,
+      "vendor": "",
+      "customer": "[550-2] Navy STTR Hazardous Weather",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 20826.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Payment",
+      "date": "2025-10-15",
+      "doc_number": "",
+      "total": 49000.0,
+      "attributed": 49000.0,
+      "vendor": "",
+      "customer": "[550-2] Navy STTR Hazardous Weather",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 49000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Payment",
+      "date": "2025-08-07",
+      "doc_number": "",
+      "total": 70000.0,
+      "attributed": 70000.0,
+      "vendor": "",
+      "customer": "[550-2] Navy STTR Hazardous Weather",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 70000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}

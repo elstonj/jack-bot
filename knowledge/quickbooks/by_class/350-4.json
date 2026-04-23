@@ -1,0 +1,226 @@
+{
+  "project_code": "350-4",
+  "qbo_class_names": [
+    "(350-4) 2024 USGS Mexico Volcano",
+    "[350] USGS:(350-4) 2024 USGS Mexico Volcano"
+  ],
+  "period": {
+    "start": "2025-04-22",
+    "end": "2026-04-22"
+  },
+  "totals": {
+    "revenue": 0.0,
+    "expenses": 6420.35,
+    "by_category": {
+      "DIRECT COSTS:DC-Direct Cost Purchases": 2252.23,
+      "DIRECT COSTS:DC-Direct Travel": 2132.42,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 916.75,
+      "GENERAL & ADMINISTRATIVE:GA-License, Permit, Misc Tax Exp": 900.0,
+      "DIRECT COSTS:DC-Other Direct Costs": 183.86,
+      "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges": 25.0,
+      "OVERHEAD:OH-Other Travel Expenses": 10.09
+    }
+  },
+  "invoices": [],
+  "bills": [
+    {
+      "type": "Bill",
+      "date": "2026-02-04",
+      "doc_number": "103030499",
+      "total": 891.8,
+      "attributed": 891.8,
+      "vendor": "Aeronet Worldwide",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 891.8,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping batteries for Volcano project (1/19/206 pick-up date)"
+        }
+      ]
+    }
+  ],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-04-20",
+      "doc_number": "",
+      "total": 974.14,
+      "attributed": 974.14,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "UNITEDXXXXXXXXXXXXXX - 4617",
+      "lines": [
+        {
+          "amount": 974.14,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Flight to Mexico refund (trip cancelled) USGS Volcano"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-20",
+      "doc_number": "",
+      "total": 574.14,
+      "attributed": 574.14,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "UNITEDXXXXXXXXXXXXXX - 7333",
+      "lines": [
+        {
+          "amount": 574.14,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "refund for flight to Mexico (USGS) trip was cancelled"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-17",
+      "doc_number": "",
+      "total": 10.0,
+      "attributed": 10.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "UNITEDXXXXXXXXXXXXXX - 4617",
+      "lines": [
+        {
+          "amount": 10.0,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "UNITEDXXXXXXXXXXXXXX - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-16",
+      "doc_number": "",
+      "total": 574.14,
+      "attributed": 574.14,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "UNITEDXXXXXXXXXXXXXX - 7333",
+      "lines": [
+        {
+          "amount": 574.14,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "flight to Mexico for USGS- Volcano (was cancelled)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-15",
+      "doc_number": "",
+      "total": 10.09,
+      "attributed": 10.09,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PHILLIPS 66 - CF UNITED A - 9208",
+      "lines": [
+        {
+          "amount": 10.09,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "U-Haul rental gas for flight testing"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-02-04",
+      "doc_number": "",
+      "total": 900.0,
+      "attributed": 900.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "WT FED#01R01 VANTAGE BANK TEXAS /FTR/BNF=CGI USA                                      SRF#    OWXXXXXXXX068927 TRN#XXXXXXXX0361  RFB#    OWXXXXXXXX068927",
+      "lines": [
+        {
+          "amount": 900.0,
+          "account": "GENERAL & ADMINISTRATIVE:GA-License, Permit, Misc Tax Exp",
+          "description": "Payment for drone certificate to fly in Mexico"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-02-02",
+      "doc_number": "",
+      "total": 25.0,
+      "attributed": 25.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "WIRE TRANS SVC CHARGE - SEQUENCE:  XXXXXXXX7215                                       SRF#    OWXXXXXXXX001894 TRN#XXXXXXXX7215  RFB#    OWXXXXXXXX001894",
+      "lines": [
+        {
+          "amount": 25.0,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges",
+          "description": "Charge for wire transfer to Mexico"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-02-02",
+      "doc_number": "",
+      "total": 413.54,
+      "attributed": 413.54,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "WT 260202-167215 BANCO NACIONAL DE M /BNF=AV3 AEROVISUAL                              SRF#    OWXXXXXXXX001894 TRN#XXXXXXXX7215  RFB#    OWXXXXXXXX001894",
+      "lines": [
+        {
+          "amount": 413.54,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Payment to register drone in Mexico (sent via wire transfer)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-01-08",
+      "doc_number": "",
+      "total": 2047.5,
+      "attributed": 2047.5000000000002,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 932.93,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "T3H, H2S 4-20mA, 0-100 ppm"
+        },
+        {
+          "amount": 905.76,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "T3ST/F, SO2 sensor, 0-100 ppm, 4-20mA"
+        },
+        {
+          "amount": 183.86,
+          "account": "DIRECT COSTS:DC-Other Direct Costs",
+          "description": "Tariff Payment (USGS Mexico Volcano)"
+        },
+        {
+          "amount": 24.95,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (USGS Mexico Volcano)"
+        }
+      ]
+    }
+  ],
+  "purchase_orders": [],
+  "payments": []
+}

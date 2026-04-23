@@ -1,0 +1,135 @@
+{
+  "project_code": "044-1",
+  "qbo_class_names": [
+    "[044-1] EMASS Chip Integration"
+  ],
+  "period": {
+    "start": "2025-04-22",
+    "end": "2026-04-22"
+  },
+  "totals": {
+    "revenue": 55000.0,
+    "expenses": 46.8,
+    "by_category": {
+      "DIRECT COSTS:DC-Direct Cost Purchases": 27.81,
+      "FACILITIES:FA-Shop Supplies": 18.99
+    }
+  },
+  "invoices": [
+    {
+      "type": "Invoice",
+      "date": "2026-03-31",
+      "doc_number": "1747",
+      "total": 27664.21,
+      "attributed": 27664.21,
+      "vendor": "",
+      "customer": "[044-1] EMASS Chip Integration",
+      "balance": 27664.21,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 27664.21,
+          "account": "",
+          "description": "Hardware and firmware integration complete"
+        },
+        {
+          "amount": 27664.21,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2026-03-24",
+      "doc_number": "1743",
+      "total": 27335.79,
+      "attributed": 27335.79,
+      "vendor": "",
+      "customer": "[044-1] EMASS Chip Integration",
+      "balance": 27335.79,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 17594.12,
+          "account": "",
+          "description": "Principal Engineers (Elston/Stachura) 50.2689 hrs)"
+        },
+        {
+          "amount": 7437.5,
+          "account": "",
+          "description": "Engineers (29.75 hrs)"
+        },
+        {
+          "amount": 2304.17,
+          "account": "",
+          "description": "Technician (13.1667 hrs)"
+        },
+        {
+          "amount": 27335.79,
+          "account": "",
+          "description": ""
+        }
+      ]
+    }
+  ],
+  "bills": [],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-04-04",
+      "doc_number": "",
+      "total": 18.99,
+      "attributed": 18.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 18.99,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "RASPBERRY PI (TRADING) LTD"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-01",
+      "doc_number": "98395982",
+      "total": 19.27,
+      "attributed": 19.27,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 19.27,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-02-10",
+      "doc_number": "",
+      "total": 8.54,
+      "attributed": 8.54,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 8.54,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "LeMotech ABS Plastic Junction Box, Dustproof Waterproof IP65 Electrical Box"
+        }
+      ]
+    }
+  ],
+  "purchase_orders": [],
+  "payments": []
+}

@@ -1,0 +1,195 @@
+{
+  "schema_version": "1.0",
+  "project_code": "212-2",
+  "category": "contract",
+  "asana_gid": "1211457612530524",
+  "name": "NASA S2 & Parts",
+  "status": "active",
+  "status_notes": null,
+  "customer": {
+    "name": "NASA (Will Wade)",
+    "type": "commercial",
+    "contacts": []
+  },
+  "contract": {
+    "type": "unknown",
+    "number": null,
+    "total_value": 89844.0,
+    "start_date": null,
+    "end_date": "2026-09-30",
+    "payment_cadence": null,
+    "documents": []
+  },
+  "budget": {
+    "approved": 89844.0,
+    "approved_source": "asana_custom_field",
+    "line_items": [],
+    "spent": {
+      "labor": {
+        "amount": 2343.75,
+        "source": "toggl × $125.0/hr placeholder",
+        "confidence": "placeholder",
+        "last_updated": "2026-04-22"
+      },
+      "purchases": {
+        "amount": 0.0,
+        "source": "purchasing@ emails (not yet wired)",
+        "confidence": "placeholder",
+        "last_updated": null
+      },
+      "other_qbo": {
+        "amount": 13476.3,
+        "source": "QBO by-class (bills + purchases + POs)",
+        "confidence": "exact",
+        "last_updated": "2026-04-22"
+      },
+      "total": 15820.05,
+      "by_line_item": {}
+    },
+    "committed": 0.0,
+    "remaining": 74023.95,
+    "burn_rate_monthly": null,
+    "last_reconciled": "2026-04-23T05:33:59Z"
+  },
+  "milestones": [],
+  "deliverables": [],
+  "team": [
+    {
+      "name": "Josh Fromm",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    },
+    {
+      "name": "Nate Straus",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    }
+  ],
+  "risks": [],
+  "overrides": [
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-17",
+      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-17",
+      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-17",
+      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Joshua Fromm",
+      "date": "2026-04-17",
+      "text": "From Joshua Fromm (ts=1776453532.191149): it's still not clear to me the extent of ndaa on parts, but the s3 has no electronics that have final assembly in china"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Joshua Fromm",
+      "date": "2026-04-17",
+      "text": "From Joshua Fromm: it's still not clear to me the extent of ndaa on parts, but the s3 has no parts that have final assembly in china"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-17",
+      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-17",
+      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-17",
+      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Joshua Fromm",
+      "date": "2026-04-20",
+      "text": "From Joshua Fromm (ts=1776453532.191149): it's still not clear to me the extent of ndaa on parts, but the s3 has no electronics that have final assembly in china"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-17",
+      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Joshua Fromm",
+      "date": "2026-04-17",
+      "text": "From Joshua Fromm (ts=1776453532.191149): it's still not clear to me the extent of ndaa on parts, but the s3 has no electronics that have final assembly in china"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-17",
+      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Joshua Fromm",
+      "date": "2026-04-17",
+      "text": "From Joshua Fromm (ts=1776453532.191149): it's still not clear to me the extent of ndaa on parts, but the s3 has no electronics that have final assembly in china"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-20",
+      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Joshua Fromm",
+      "date": "2026-04-20",
+      "text": "From Joshua Fromm (ts=1776453532.191149): it's still not clear to me the extent of ndaa on parts, but the s3 has no electronics that have final assembly in china"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-20",
+      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Joshua Fromm",
+      "date": "2026-04-20",
+      "text": "From Joshua Fromm (ts=1776453532.191149): it's still not clear to me the extent of ndaa on parts, but the s3 has no electronics that have final assembly in china"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-20",
+      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-20",
+      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Joshua Fromm",
+      "date": "2026-04-20",
+      "text": "From Joshua Fromm (ts=1776453532.191149): it's still not clear to me the extent of ndaa on parts, but the s3 has no electronics that have final assembly in china"
+    }
+  ],
+  "last_full_rebuild": "2026-04-23T05:33:59Z",
+  "last_incremental_update": null
+}

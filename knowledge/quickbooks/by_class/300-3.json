@@ -1,0 +1,3223 @@
+{
+  "project_code": "300-3",
+  "qbo_class_names": [
+    "[300-3] 2026 IDIQ",
+    "[300] NOAA:[300-3] 2026 IDIQ"
+  ],
+  "period": {
+    "start": "2025-04-22",
+    "end": "2026-04-22"
+  },
+  "totals": {
+    "revenue": 414000.0,
+    "expenses": 174835.11,
+    "by_category": {
+      "DIRECT COSTS:DC-Direct Cost Purchases": 106085.32,
+      "DIRECT COSTS:DC-Direct Cost Subcontractors": 33640.5,
+      "Inventory Asset": 11644.56,
+      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 8509.08,
+      "DIRECT COSTS:DC-Direct Travel": 7084.26,
+      "DIRECT COSTS:DC-Other Direct Costs": 5629.35,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 1065.85,
+      "Uncategorized Asset": 646.64,
+      "GENERAL & ADMINISTRATIVE:GA-Business Development": 230.57,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 148.41,
+      "FACILITIES:FA-Shop Supplies": 106.06,
+      "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges": 33.34,
+      "FACILITIES:FA-Office Supplies": 5.75,
+      "GENERAL & ADMINISTRATIVE:Tariff/Import Duties": 5.42
+    }
+  },
+  "invoices": [
+    {
+      "type": "Invoice",
+      "date": "2026-07-30",
+      "doc_number": "1741",
+      "total": 72000.0,
+      "attributed": 72000.0,
+      "vendor": "",
+      "customer": "[300-3] 2026 IDIQ",
+      "balance": 72000.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 72000.0,
+          "account": "",
+          "description": "Invoice 6 of 6 for CLIN 1001 (Modification P26002)"
+        },
+        {
+          "amount": 72000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2026-07-15",
+      "doc_number": "1740",
+      "total": 72000.0,
+      "attributed": 72000.0,
+      "vendor": "",
+      "customer": "[300-3] 2026 IDIQ",
+      "balance": 72000.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 72000.0,
+          "account": "",
+          "description": "Invoice 5 of 6 for CLIN 1001 (Modification P26002)"
+        },
+        {
+          "amount": 72000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2026-06-15",
+      "doc_number": "1739",
+      "total": 72000.0,
+      "attributed": 72000.0,
+      "vendor": "",
+      "customer": "[300-3] 2026 IDIQ",
+      "balance": 72000.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 72000.0,
+          "account": "",
+          "description": "Invoice 4 of 6 for CLIN 1001 (Modification P26002)"
+        },
+        {
+          "amount": 72000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2026-05-15",
+      "doc_number": "1738",
+      "total": 54000.0,
+      "attributed": 54000.0,
+      "vendor": "",
+      "customer": "[300-3] 2026 IDIQ",
+      "balance": 54000.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 54000.0,
+          "account": "",
+          "description": "Invoice 3 of 6 for CLIN 1001 (Modification P26002)"
+        },
+        {
+          "amount": 54000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2026-04-15",
+      "doc_number": "1757",
+      "total": 18000.0,
+      "attributed": 18000.0,
+      "vendor": "",
+      "customer": "[300-3] 2026 IDIQ",
+      "balance": 18000.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 6000.0,
+          "account": "",
+          "description": "Operational Testing and Support - Clear Air (Primary Engineer, March 24-March 27, 2026) Lakeland, FL"
+        },
+        {
+          "amount": 6000.0,
+          "account": "",
+          "description": "Operational Testing and Support - Clear Air (Primary Engineer, April 6-April 10) Lakeland, FL"
+        },
+        {
+          "amount": 6000.0,
+          "account": "",
+          "description": "Operational Testing and Support Clear Air (Engineer, April 6-April 10) Lakeland, FL"
+        },
+        {
+          "amount": 18000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2026-04-15",
+      "doc_number": "1737",
+      "total": 54000.0,
+      "attributed": 54000.0,
+      "vendor": "",
+      "customer": "[300-3] 2026 IDIQ",
+      "balance": 54000.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 54000.0,
+          "account": "",
+          "description": "Invoice 2 of 6 for CLIN 1001 (Modification P26002)"
+        },
+        {
+          "amount": 54000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2026-03-13",
+      "doc_number": "1736",
+      "total": 36000.0,
+      "attributed": 36000.0,
+      "vendor": "",
+      "customer": "[300-3] 2026 IDIQ",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 36000.0,
+          "account": "",
+          "description": "Invoice 1 of 6 for CLIN 1001 (Modification P26002)"
+        },
+        {
+          "amount": 36000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    }
+  ],
+  "bills": [
+    {
+      "type": "Bill",
+      "date": "2026-04-22",
+      "doc_number": "BST-April2026-1",
+      "total": 14479.45,
+      "attributed": 9652.97,
+      "vendor": "Matthew Crabtree",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 9652.97,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "Parts and Materials"
+        },
+        {
+          "amount": 1930.59,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": ""
+        },
+        {
+          "amount": 2895.89,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2026-04-22",
+      "doc_number": "BST-March2026-2",
+      "total": 24224.02,
+      "attributed": 16149.35,
+      "vendor": "Matthew Crabtree",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "March invoice for $48,448.05. Paying second half. Payment complete.",
+      "lines": [
+        {
+          "amount": 16149.35,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "Parts and Materials"
+        },
+        {
+          "amount": 3229.87,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": ""
+        },
+        {
+          "amount": 4844.8,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2026-04-02",
+      "doc_number": "3901",
+      "total": 593.75,
+      "attributed": 197.91,
+      "vendor": "MicroFirm Engineering",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 296.88,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": ""
+        },
+        {
+          "amount": 197.91,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": ""
+        },
+        {
+          "amount": 39.58,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": ""
+        },
+        {
+          "amount": 59.38,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2026-03-23",
+      "doc_number": "BST-March2026-1",
+      "total": 24224.03,
+      "attributed": 16149.35,
+      "vendor": "Matthew Crabtree",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "March invoice for $48,448.05. Paying first half.",
+      "lines": [
+        {
+          "amount": 16149.35,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "Parts and Materials"
+        },
+        {
+          "amount": 3229.87,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": ""
+        },
+        {
+          "amount": 4844.81,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2026-03-11",
+      "doc_number": "1097",
+      "total": 610.5,
+      "attributed": 407.0,
+      "vendor": "PHASE1 AVIATION LLC",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "Payment for S0 Wing production (split between 3 projects - 2026 IDIQ, Sasquatch, internal)",
+      "lines": [
+        {
+          "amount": 407.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "S0 Wing"
+        },
+        {
+          "amount": 81.4,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "S0 Wing"
+        },
+        {
+          "amount": 122.1,
+          "account": "Inventory Asset",
+          "description": "S0 Wing: for 6 future S0 sales"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2026-03-10",
+      "doc_number": "1098",
+      "total": 6000.0,
+      "attributed": 4000.0,
+      "vendor": "PHASE1 AVIATION LLC",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "S0 wings for hurricane split into three projects: 2026 IDIQ, Sasquatch, future sales.",
+      "lines": [
+        {
+          "amount": 4000.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "S0 Wings"
+        },
+        {
+          "amount": 800.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "S0 Wings"
+        },
+        {
+          "amount": 1200.0,
+          "account": "Inventory Asset",
+          "description": "S0 Wings: for 6 future S0 sales"
+        }
+      ]
+    }
+  ],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-04-21",
+      "doc_number": "459340813415",
+      "total": 495.15,
+      "attributed": 330.1,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Split between 3 S0 projects: 2026 IDIQ, Sasquatch, 6 future S0 sales",
+      "lines": [
+        {
+          "amount": 330.1,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 66.02,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 99.03,
+          "account": "Inventory Asset",
+          "description": "For future sales of 6 S0s"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-20",
+      "doc_number": "",
+      "total": 21.7,
+      "attributed": 21.7,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HERTZTOLLXXXXXXXXXX - 9208",
+      "lines": [
+        {
+          "amount": 21.7,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Toll charge for NOAA Florida Trip (Clear Air)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-17",
+      "doc_number": "",
+      "total": 5516.6,
+      "attributed": 241.11,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "BUSINESS TO BUSINESS ACH Worldwide Expres PAYMENTS   260416 XXXXXXXX1216868 NTE*ZZZ*Worldwide Express payment\\",
+      "lines": [
+        {
+          "amount": 5275.49,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Business Development",
+          "description": "Shipment to Miami for Krateo Sky conference (March 2026)"
+        },
+        {
+          "amount": 241.11,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipment to NOAA for Clear Air (3/24/26)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-17",
+      "doc_number": "98710410",
+      "total": 222.5,
+      "attributed": 92.33,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 92.33,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Supplies for 2026 IDIQ"
+        },
+        {
+          "amount": 18.47,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Supplies for Sasquatch (Notre Dame)"
+        },
+        {
+          "amount": 27.7,
+          "account": "Inventory Asset",
+          "description": "Supplies for future sales of 6 S0s"
+        },
+        {
+          "amount": 84.0,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-17",
+      "doc_number": "98541533",
+      "total": 32.0,
+      "attributed": 32.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "- purchase just for 2026 IDIQ",
+      "lines": [
+        {
+          "amount": 32.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-13",
+      "doc_number": "",
+      "total": 25.5,
+      "attributed": 25.5,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HOME2 BY HILTON - 9208",
+      "lines": [
+        {
+          "amount": 25.5,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Maciej/Alex Trip to Florida - NOAA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-13",
+      "doc_number": "",
+      "total": 23.18,
+      "attributed": 23.18,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SHELL OILXXXXXXXXXXXX - 9208",
+      "lines": [
+        {
+          "amount": 23.18,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Maciej/Alex Trip to Florida - NOAA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-13",
+      "doc_number": "",
+      "total": 30.28,
+      "attributed": 30.28,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HOME2 BY HILTON - 9208",
+      "lines": [
+        {
+          "amount": 30.28,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Maciej/Alex Trip to Florida - NOAA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-13",
+      "doc_number": "",
+      "total": 175.0,
+      "attributed": 175.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DEN PUBLIC PARKING - 9208",
+      "lines": [
+        {
+          "amount": 175.0,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Maciej/Alex Trip to Florida - NOAA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-13",
+      "doc_number": "",
+      "total": 14.38,
+      "attributed": 14.38,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TST*BLACK & BREW DOWNTOW - 9208",
+      "lines": [
+        {
+          "amount": 14.38,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Maciej/Alex Trip to Florida - NOAA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-13",
+      "doc_number": "",
+      "total": 607.97,
+      "attributed": 607.97,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HERTZ CAR RENTAL - 9208",
+      "lines": [
+        {
+          "amount": 607.97,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Maciej/Alex Trip to Florida - NOAA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-11",
+      "doc_number": "",
+      "total": 74.07,
+      "attributed": 74.07,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TST*MOJO FEDERAL SWINE A - 9208",
+      "lines": [
+        {
+          "amount": 74.07,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "MOJO FEDERAL SWINE"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-10",
+      "doc_number": "",
+      "total": 19.99,
+      "attributed": 19.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*BC5DC7MJ0 - 4617",
+      "lines": [
+        {
+          "amount": 19.99,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "CORONIR 4G LTE Antenna Magnetic Mounting Base"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-10",
+      "doc_number": "",
+      "total": 48.73,
+      "attributed": 48.73,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TST* BURGER 21 - LAKELAND - 9208",
+      "lines": [
+        {
+          "amount": 48.73,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Maciej/Alex Flordia Trip - NOAA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-10",
+      "doc_number": "",
+      "total": 44.45,
+      "attributed": 44.45,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TST* SORA EATERY - 9208",
+      "lines": [
+        {
+          "amount": 44.45,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Maciej/Alex Flordia Trip - NOAA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-10",
+      "doc_number": "",
+      "total": 30.76,
+      "attributed": 30.76,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TST*BLACK & BREW SOUTHSI - 9208",
+      "lines": [
+        {
+          "amount": 30.76,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Maciej/Alex Flordia Trip - NOAA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-10",
+      "doc_number": "",
+      "total": 29.38,
+      "attributed": 29.38,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SQ *SWAN BREWING - 9208",
+      "lines": [
+        {
+          "amount": 29.38,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Maciej/Alex Flordia Trip - NOAA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-10",
+      "doc_number": "",
+      "total": 17.49,
+      "attributed": 17.49,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TAQUERIA MERLO - 9208",
+      "lines": [
+        {
+          "amount": 17.49,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Maciej/Alex Flordia Trip - NOAA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-10",
+      "doc_number": "68057",
+      "total": 3330.65,
+      "attributed": 2220.43,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "For 3 S0 projects: 2026 IDIQ, Sasquatch, 6 future sales",
+      "lines": [
+        {
+          "amount": 2220.43,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 444.09,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 666.13,
+          "account": "Uncategorized Asset",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-10",
+      "doc_number": "",
+      "total": 28.75,
+      "attributed": 19.17,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Shipping tool to Sean Cole (Phase1) for manufacture of S0s for 3 projects: 2026 IDIQ, Sasquatch, 6 future S0 sales",
+      "lines": [
+        {
+          "amount": 19.17,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Sean Cole (Phase1 Aviation)"
+        },
+        {
+          "amount": 3.83,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": ""
+        },
+        {
+          "amount": 5.75,
+          "account": "Inventory Asset",
+          "description": "Sean Cole shipment - 6 future S0 sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-09",
+      "doc_number": "",
+      "total": 64.77,
+      "attributed": 43.18,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Split between 3 S0 projects: 2026 IDIQ, Sasquatch, 6 future S0s",
+      "lines": [
+        {
+          "amount": 43.18,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "only 3 sets in stock were shipped - waiting on remaining 40"
+        },
+        {
+          "amount": 8.64,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Split between 3 S0 projects: 2026 IDIQ, Sasquatch, 6 future S0s"
+        },
+        {
+          "amount": 12.95,
+          "account": "Uncategorized Asset",
+          "description": "Split between 3 S0 projects: 2026 IDIQ, Sasquatch, 6 future S0s"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-08",
+      "doc_number": "",
+      "total": 42.98,
+      "attributed": 42.98,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "FISH CITY GRILL TOWN C - 9208",
+      "lines": [
+        {
+          "amount": 42.98,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Maciej/Alex Florida trip NOAA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-08",
+      "doc_number": "",
+      "total": 55.34,
+      "attributed": 55.34,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "FISH CITY GRILL TOWN C - 9208",
+      "lines": [
+        {
+          "amount": 55.34,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Maciej/Alex Florida trip NOAA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-07",
+      "doc_number": "",
+      "total": 8.0,
+      "attributed": 8.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "UA INFLTXXXXXXXXXXXXXX - 9208",
+      "lines": [
+        {
+          "amount": 8.0,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Maciej/Alex Florida trip NOAA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-07",
+      "doc_number": "",
+      "total": 70.1,
+      "attributed": 70.1,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PUBLIX #1854 - 9208",
+      "lines": [
+        {
+          "amount": 70.1,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Maciej/Alex Florida trip NOAA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-07",
+      "doc_number": "",
+      "total": 71.7,
+      "attributed": 71.7,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "FISH CITY GRILL TOWN C - 9208",
+      "lines": [
+        {
+          "amount": 71.7,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Maciej/Alex Florida trip NOAA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-06",
+      "doc_number": "",
+      "total": 51.55,
+      "attributed": 51.55,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "LYFT *RIDE SAT 12AM - 4699",
+      "lines": [
+        {
+          "amount": 51.55,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Maciej/Alex Florida trip NOAA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-06",
+      "doc_number": "",
+      "total": 52.43,
+      "attributed": 52.43,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HETZNER ONLINE GMBH - 7333",
+      "lines": [
+        {
+          "amount": 52.43,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Maciej/Alex Florida trip NOAA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-06",
+      "doc_number": "",
+      "total": 358.4,
+      "attributed": 358.4,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - Nate shipped items as requested by Jack",
+      "lines": [
+        {
+          "amount": 358.4,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Items sent to NOAA Lakeland for Maciej & Alex trip"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-04",
+      "doc_number": "",
+      "total": 22.79,
+      "attributed": 22.79,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "LYFT *RIDE FRI 5PM - 4617",
+      "lines": [
+        {
+          "amount": 22.79,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Maciej/Alex Florida trip NOAA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-04",
+      "doc_number": "",
+      "total": 1051.8,
+      "attributed": 1051.8,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "UNITEDXXXXXXXXXXXXXX - 7333",
+      "lines": [
+        {
+          "amount": 1051.8,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Maciej/Alex trip to Lakeland, FL"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-03",
+      "doc_number": "",
+      "total": 3294.26,
+      "attributed": 3294.26,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "RES* HOME2SUITE - 7333",
+      "lines": [
+        {
+          "amount": 3294.26,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Maciej/Alex Trip to Florida for NOAA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-02",
+      "doc_number": "",
+      "total": 2387.86,
+      "attributed": 1591.91,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request. Contracted sales rep directly via email. For all 3 S0 projects: 2026 IDIQ, Sasquatch, 6 future sales.",
+      "lines": [
+        {
+          "amount": 1591.91,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Tube x 45 (entire shipment)"
+        },
+        {
+          "amount": 318.38,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "No Asana request. Contracted sales rep directly via email. For all 3 S0 projects: 2026 IDIQ, Sasquatch, 6 future sales."
+        },
+        {
+          "amount": 477.57,
+          "account": "Inventory Asset",
+          "description": "For future sales of 6 S0s"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-02",
+      "doc_number": "0402JELSTON",
+      "total": 89.84,
+      "attributed": 33.31,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request. Josh placed order directly. Project is listed under item ordered. \n\nHurricane is for 3 projects related to S0s: 2026 IDIQ, Sasquatch and 6 future S0 sales.",
+      "lines": [
+        {
+          "amount": 39.88,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": ""
+        },
+        {
+          "amount": 33.31,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 6.66,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 9.99,
+          "account": "Uncategorized Asset",
+          "description": "6 future S0 sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-31",
+      "doc_number": "443390803546",
+      "total": 186.24,
+      "attributed": 124.16,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Digital card\n\nNo Asana Request - Josh placed order directly.",
+      "lines": [
+        {
+          "amount": 124.16,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 24.83,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 37.25,
+          "account": "Inventory Asset",
+          "description": "Future 6 S0 sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-31",
+      "doc_number": "AH-72949",
+      "total": 122.7,
+      "attributed": 81.8,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SP ALOFT HOBBIES ALOFTHOBBIES.CA",
+      "lines": [
+        {
+          "amount": 81.8,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 16.36,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 24.54,
+          "account": "Uncategorized Asset",
+          "description": "For future sales of 6 S0s"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-31",
+      "doc_number": "0330JELSTON",
+      "total": 175.1,
+      "attributed": 30.76,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Projects are listed below item. \n\nHurricane project is the 3 S0 projects: 2026 IDIQ, Sasquatch, 6 future S0 sales.",
+      "lines": [
+        {
+          "amount": 114.44,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Leaded Rosin Flux-Core Solder for Electronics"
+        },
+        {
+          "amount": 14.53,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "18-8 Stainless Steel Low-Profile Socket Head Screws"
+        },
+        {
+          "amount": 30.76,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 6.15,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 9.22,
+          "account": "Inventory Asset",
+          "description": "For future sales of 6 S0s"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-30",
+      "doc_number": "",
+      "total": 195.0,
+      "attributed": 130.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep",
+      "lines": [
+        {
+          "amount": 130.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep"
+        },
+        {
+          "amount": 26.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep"
+        },
+        {
+          "amount": 39.0,
+          "account": "Inventory Asset",
+          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-30",
+      "doc_number": "",
+      "total": 13.35,
+      "attributed": 13.35,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TST*BLACK & BREW SOUTHSI - 4699",
+      "lines": [
+        {
+          "amount": 13.35,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Jack trip to Florida for Clear Air"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-30",
+      "doc_number": "",
+      "total": 77.78,
+      "attributed": 77.78,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HERTZ CAR RENTAL - 4699",
+      "lines": [
+        {
+          "amount": 77.78,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Jack trip to Florida for Clear Air"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-30",
+      "doc_number": "",
+      "total": 140.0,
+      "attributed": 140.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DEN PUBLIC PARKING - 4699",
+      "lines": [
+        {
+          "amount": 140.0,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Jack trip to Florida for Clear Air"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-30",
+      "doc_number": "",
+      "total": 674.26,
+      "attributed": 674.26,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HILTON GARDEN INN LKLD - 4699",
+      "lines": [
+        {
+          "amount": 674.26,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Jack Trip to Florida for Clear Air"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-30",
+      "doc_number": "0327JELSTON",
+      "total": 902.06,
+      "attributed": 4.67,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - Josh Fromm placed order. Projects are listed below item. \n\nHurricane project is the 3 S0 projects: 2026 IDIQ, Sasquatch, 6 future S0 sales.",
+      "lines": [
+        {
+          "amount": 4.67,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 0.93,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 1.4,
+          "account": "Inventory Asset",
+          "description": "For future sales of 6 S0s"
+        },
+        {
+          "amount": 895.06,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Purchases for 212-2 NASA S2 and parts"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-28",
+      "doc_number": "",
+      "total": 8.63,
+      "attributed": 8.63,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TPA_6121_BayCoffee_Tea - 4699",
+      "lines": [
+        {
+          "amount": 8.63,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Jack trip to Florida (NOAA)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-28",
+      "doc_number": "",
+      "total": 8.34,
+      "attributed": 8.34,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "NOVO COFFEE A - 4699",
+      "lines": [
+        {
+          "amount": 8.34,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Jack trip to Flordia for Clear Air"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-28",
+      "doc_number": "",
+      "total": 6.14,
+      "attributed": 6.14,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "7-ELEVEN 42058 - 4699",
+      "lines": [
+        {
+          "amount": 6.14,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Jack trip to Florida for Clear Air"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-28",
+      "doc_number": "",
+      "total": 12.95,
+      "attributed": 12.95,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "7-ELEVEN 42058 - 4699",
+      "lines": [
+        {
+          "amount": 12.95,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Jack trip to Florida for Clear Air"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-28",
+      "doc_number": "",
+      "total": 17.14,
+      "attributed": 17.14,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TST*BLACK & BREW SOUTHSI - 4699",
+      "lines": [
+        {
+          "amount": 17.14,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Jack trip to Florida for Clear Air"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-28",
+      "doc_number": "",
+      "total": 43.45,
+      "attributed": 43.45,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HILTON AMERICAN GRIL - 4699",
+      "lines": [
+        {
+          "amount": 43.45,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Jack trip to Florida for Clear Air"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-27",
+      "doc_number": "",
+      "total": 31.35,
+      "attributed": 31.35,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TST* BURGER 21 - LAKELAND - 4699",
+      "lines": [
+        {
+          "amount": 31.35,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Jack trip to Florida for Clear Air"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-27",
+      "doc_number": "98304525",
+      "total": 76.74,
+      "attributed": 76.74,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Shipped directly to NOAA Lakeland, FL",
+      "lines": [
+        {
+          "amount": 71.32,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Power Cables: IL13-JP1-IS-HVCTF-3125-200 x 2"
+        },
+        {
+          "amount": 5.42,
+          "account": "GENERAL & ADMINISTRATIVE:Tariff/Import Duties",
+          "description": "Tariff duties for 2026 IDIQ"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-25",
+      "doc_number": "SH59P546",
+      "total": 81.82,
+      "attributed": 54.55,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Split between 3 S0 projects: 2026 IDIQ, Sasquatch, 6 future S0 sales",
+      "lines": [
+        {
+          "amount": 54.55,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 10.91,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 16.36,
+          "account": "Inventory Asset",
+          "description": "Future sales for 6 S0s"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-25",
+      "doc_number": "98248470",
+      "total": 21.61,
+      "attributed": 14.41,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Split between 3 S0 projects: 2026 IDIQ, Sasquatch, 6 future S0 sales",
+      "lines": [
+        {
+          "amount": 14.41,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 2.88,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 4.32,
+          "account": "Inventory Asset",
+          "description": "future sales for 6 S0's"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-25",
+      "doc_number": "67693",
+      "total": 150.17,
+      "attributed": 100.11,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Split between 3 S0 projects: 2026 IDIQ, Sasquatch, 6 future S0 sales",
+      "lines": [
+        {
+          "amount": 100.11,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 20.03,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 30.03,
+          "account": "Inventory Asset",
+          "description": "For future sales of 6 S0s"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-24",
+      "doc_number": "",
+      "total": 2519.97,
+      "attributed": 1679.98,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - Josh set up purchase via email with sales rep. Split between 3 projects: 2026 IDIQ, Sasquatch, 6 future S0 Sales",
+      "lines": [
+        {
+          "amount": 1679.98,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "No Asana request - Josh set up purchase via email with sales rep. Split between 3 projects: 2026 IDIQ, Sasquatch, 6 future S0 Sales"
+        },
+        {
+          "amount": 336.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "No Asana request - Josh set up purchase via email with sales rep. Split between 3 projects: 2026 IDIQ, Sasquatch, 6 future S0 Sales"
+        },
+        {
+          "amount": 503.99,
+          "account": "Inventory Asset",
+          "description": "Future sales of 6 S0s"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-24",
+      "doc_number": "",
+      "total": 187.03,
+      "attributed": 187.03,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HERTZ CAR RENTAL - 4699",
+      "lines": [
+        {
+          "amount": 187.03,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "rental for NOAA Clear Air set up (Florida)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-24",
+      "doc_number": "0323JELSTON",
+      "total": 150.21,
+      "attributed": 79.61,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Hurricane in Receipt means the three projects related to S0s: 2026 IDIQ, Sasquatch, 6 future S0s for sale.",
+      "lines": [
+        {
+          "amount": 30.8,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": ".4\" Long Taper Tip Nozzle with Bayonet"
+        },
+        {
+          "amount": 79.61,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 15.92,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 23.88,
+          "account": "Inventory Asset",
+          "description": "For 6 future S0s for sale"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-20",
+      "doc_number": "334139",
+      "total": 4164.75,
+      "attributed": 2776.5,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana Request because all orders must be handled directly by the sales rep. Purchase for the three S0 projects: 2026 IDIQ, Sasquatch, 6 future S0 sales\n\nShipped to Lee Skidmore (Northwind)",
+      "lines": [
+        {
+          "amount": 2776.5,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Thermoset Laminate Linen Tubes"
+        },
+        {
+          "amount": 555.3,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 832.95,
+          "account": "Inventory Asset",
+          "description": "For future sales of 6 S0s"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-19",
+      "doc_number": "SO18848",
+      "total": 1484.19,
+      "attributed": 989.46,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Ship to Sean Cole at Phase1 Aviation.\n\nFor 3 S0 projects: 2026 IDIQ, Sasquatch, 6 future sales",
+      "lines": [
+        {
+          "amount": 989.46,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Z-1118 : F-1118-39 (18 total)"
+        },
+        {
+          "amount": 197.89,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 296.84,
+          "account": "Inventory Asset",
+          "description": "Purchase for future sales of 6 S0's"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-13",
+      "doc_number": "",
+      "total": 1157.9,
+      "attributed": 771.93,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - Josh Fromm set up purchase via email. Meredith made final purchase.",
+      "lines": [
+        {
+          "amount": 771.93,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "No Asana request - Josh Fromm set up purchase via email. Meredith made final purchase."
+        },
+        {
+          "amount": 154.39,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "No Asana request - Josh Fromm set up purchase via email. Meredith made final purchase."
+        },
+        {
+          "amount": 231.58,
+          "account": "Uncategorized Asset",
+          "description": "Purchase for 6 future S0s for sale"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-12",
+      "doc_number": "7974-525",
+      "total": 1818.91,
+      "attributed": 1212.6100000000001,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Purchase request for [301-3] but are broken down for three projects. See Purchasing SOP for S0s 2026 for details.",
+      "lines": [
+        {
+          "amount": 1178.98,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 33.63,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "shipping (2026 IDIQ)"
+        },
+        {
+          "amount": 235.8,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 6.73,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Sasquatch)"
+        },
+        {
+          "amount": 353.69,
+          "account": "Inventory Asset",
+          "description": "Purchases for 6 S0s for future sales"
+        },
+        {
+          "amount": 10.08,
+          "account": "Inventory Asset",
+          "description": "shipping (Purchases for 6 S0s for future sales)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-10",
+      "doc_number": "SO-01416",
+      "total": 6470.0,
+      "attributed": 4313.33,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Split between 3 hurricane projects: 2026 IDIQ, Sasquatch, future sales of 6 S0s",
+      "lines": [
+        {
+          "amount": 4313.33,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 862.67,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 1294.0,
+          "account": "Inventory Asset",
+          "description": "For 6 future S0 sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-09",
+      "doc_number": "",
+      "total": 42.78,
+      "attributed": 28.52,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*BP6WM2SH2 - 4699",
+      "lines": [
+        {
+          "amount": 28.52,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "AMAZON MKTPL*BP6WM2SH2 - 4699"
+        },
+        {
+          "amount": 5.7,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "AMAZON MKTPL*BP6WM2SH2 - 4699"
+        },
+        {
+          "amount": 8.56,
+          "account": "Inventory Asset",
+          "description": "for 6 S0s for future sale"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-07",
+      "doc_number": "0303JELSTON",
+      "total": 53.1,
+      "attributed": 35.4,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Jack made purchase so no Asana request. For hurricane work (2026 IDIQ, Sasquatch, future sales)",
+      "lines": [
+        {
+          "amount": 35.4,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Jack made purchase so no Asana request. For hurricane work (2026 IDIQ, Sasquatch, future sales)"
+        },
+        {
+          "amount": 7.08,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Jack made purchase so no Asana request. For hurricane work (2026 IDIQ, Sasquatch, future sales)"
+        },
+        {
+          "amount": 10.62,
+          "account": "Inventory Asset",
+          "description": "For 6 S0s for future sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-06",
+      "doc_number": "0304JELSTON",
+      "total": 226.82,
+      "attributed": 143.2,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Jack made purchase so no Asana request - project is listed under item. Hurricane is split between three projects: 2026 IDIQ, Sasquatch, future sales",
+      "lines": [
+        {
+          "amount": 8.45,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Brass Slotted Flat Head Screw"
+        },
+        {
+          "amount": 136.06,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Jack made purchase so no Asana request - project is listed under item. Hurricane is split between three projects: 2026 IDIQ, Sasquatch, future sales"
+        },
+        {
+          "amount": 3.57,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipping (IRAD S3)"
+        },
+        {
+          "amount": 7.14,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (2025 IDIQ)"
+        },
+        {
+          "amount": 27.21,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Jack made purchase so no Asana request - project is listed under item. Hurricane is split between three projects: 2026 IDIQ, Sasquatch, future sales"
+        },
+        {
+          "amount": 1.43,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Sasquatch)"
+        },
+        {
+          "amount": 42.96,
+          "account": "Inventory Asset",
+          "description": "Purchase for future S0 sales (6 S0s) (includes shipping cost)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-06",
+      "doc_number": "",
+      "total": 84.18,
+      "attributed": 56.12,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*C89G346O3 - 4699",
+      "lines": [
+        {
+          "amount": 56.12,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 11.22,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 16.84,
+          "account": "Inventory Asset",
+          "description": "Expense for extra 6 S0s to be sold"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-05",
+      "doc_number": "SO1212",
+      "total": 1745.0,
+      "attributed": 1163.33,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Paid via wire transfer",
+      "lines": [
+        {
+          "amount": 1163.33,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 232.67,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 349.0,
+          "account": "Inventory Asset",
+          "description": "Purchase for six S0s to be sold eventually"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-05",
+      "doc_number": "3100095908",
+      "total": 17946.0,
+      "attributed": 11964.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 11964.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 2392.8,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 3589.2,
+          "account": "Inventory Asset",
+          "description": "Purchases for six S0s for eventual sale"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-05",
+      "doc_number": "632234",
+      "total": 167.22,
+      "attributed": 111.47999999999999,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 97.32,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 14.16,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (IDIQ)"
+        },
+        {
+          "amount": 19.46,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 2.83,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Sasquatch)"
+        },
+        {
+          "amount": 29.2,
+          "account": "Uncategorized Asset",
+          "description": "Supplies for six S0s to be sold eventually"
+        },
+        {
+          "amount": 4.25,
+          "account": "Inventory Asset",
+          "description": "Shipping - Supplies for six S0s to be sold eventually"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-04",
+      "doc_number": "",
+      "total": 25.0,
+      "attributed": 16.67,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "WIRE TRANS SVC CHARGE - SEQUENCE:  XXXXXXXX9326                                       SRF#    OWXXXXXXXX229409 TRN#XXXXXXXX9326  RFB#    OWXXXXXXXX229409",
+      "lines": [
+        {
+          "amount": 16.67,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges",
+          "description": "Bank Charge for Amprius wire payment"
+        },
+        {
+          "amount": 3.33,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges",
+          "description": "WIRE TRANS SVC CHARGE - SEQUENCE:  XXXXXXXX9326                                       SRF#    OWXXXXXXXX229409 TRN#XXXXXXXX9326  RFB#    OWXXXXXXXX229409"
+        },
+        {
+          "amount": 5.0,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges",
+          "description": "WIRE TRANS SVC CHARGE - SEQUENCE:  XXXXXXXX9326                                       SRF#    OWXXXXXXXX229409 TRN#XXXXXXXX9326  RFB#    OWXXXXXXXX229409"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-04",
+      "doc_number": "BST260303-B11697",
+      "total": 6057.0,
+      "attributed": 4038.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Wire Transfer",
+      "lines": [
+        {
+          "amount": 3781.33,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 256.67,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (2026 IDIQ)"
+        },
+        {
+          "amount": 756.27,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 51.33,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Sasquatch)"
+        },
+        {
+          "amount": 1134.4,
+          "account": "Inventory Asset",
+          "description": "Purchases for 6 S0s for future sales"
+        },
+        {
+          "amount": 77.0,
+          "account": "Inventory Asset",
+          "description": "Shipping (6 S0s for future sales)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-04",
+      "doc_number": "67167",
+      "total": 6478.69,
+      "attributed": 4319.13,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "JAWSTEC - 4699",
+      "lines": [
+        {
+          "amount": 4289.13,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 30.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (2026 IDIQ)"
+        },
+        {
+          "amount": 857.83,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 6.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Sasquatch)"
+        },
+        {
+          "amount": 1286.73,
+          "account": "Inventory Asset",
+          "description": "Purchases for 6 S0s for future sales"
+        },
+        {
+          "amount": 9.0,
+          "account": "Inventory Asset",
+          "description": "Shipping (Purchases for 6 S0s for future sales)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-03",
+      "doc_number": "",
+      "total": 25.0,
+      "attributed": 16.67,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "WIRE TRANS SVC CHARGE - SEQUENCE:  XXXXXXXX7970                                       SRF#    OWXXXXXXXX417059 TRN#XXXXXXXX7970  RFB#    OWXXXXXXXX417059",
+      "lines": [
+        {
+          "amount": 16.67,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges",
+          "description": "wire transfer service charge for Best Parts purchase"
+        },
+        {
+          "amount": 3.33,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges",
+          "description": "WIRE TRANS SVC CHARGE - SEQUENCE:  XXXXXXXX7970                                       SRF#    OWXXXXXXXX417059 TRN#XXXXXXXX7970  RFB#    OWXXXXXXXX417059"
+        },
+        {
+          "amount": 5.0,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges",
+          "description": "Wire Transfer service charge for Best Parts (Purchases for 6 S0s for future sales)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-03",
+      "doc_number": "84026",
+      "total": 567.0,
+      "attributed": 378.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "EVERYTHING BUT STROMBOLI - 7333",
+      "lines": [
+        {
+          "amount": 378.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "EVERYTHING BUT STROMBOLI - 7333"
+        },
+        {
+          "amount": 75.6,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "EVERYTHING BUT STROMBOLI - 7333"
+        },
+        {
+          "amount": 113.4,
+          "account": "Inventory Asset",
+          "description": "Purchases for 6 S0s for future sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-03",
+      "doc_number": "0303JELSTON",
+      "total": 3945.94,
+      "attributed": 2630.6200000000003,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 2582.05,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "supplies"
+        },
+        {
+          "amount": 48.57,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (2026 IDIQ)"
+        },
+        {
+          "amount": 516.41,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "supplies"
+        },
+        {
+          "amount": 9.71,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Sasquatch)"
+        },
+        {
+          "amount": 774.62,
+          "account": "Inventory Asset",
+          "description": "Purchases for 6 S0s for future sales"
+        },
+        {
+          "amount": 14.58,
+          "account": "Inventory Asset",
+          "description": "Shipping for 6 S0s for future sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-03",
+      "doc_number": "38445499",
+      "total": 1820.73,
+      "attributed": 1213.82,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MOUSER ELECTRONICS INC - 4699",
+      "lines": [
+        {
+          "amount": 1117.33,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 15.26,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (2026 IDIQ)"
+        },
+        {
+          "amount": 81.23,
+          "account": "DIRECT COSTS:DC-Other Direct Costs",
+          "description": "Tariff (2026 IDIQ)"
+        },
+        {
+          "amount": 223.47,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 3.05,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Sasquatch)"
+        },
+        {
+          "amount": 16.25,
+          "account": "DIRECT COSTS:DC-Other Direct Costs",
+          "description": "Tariff (Sasquatch)"
+        },
+        {
+          "amount": 335.2,
+          "account": "Inventory Asset",
+          "description": "Purchases for 6 S0s for future sales"
+        },
+        {
+          "amount": 4.58,
+          "account": "Inventory Asset",
+          "description": "Shipping (Purchases for 6 S0s for future sales)"
+        },
+        {
+          "amount": 24.36,
+          "account": "Inventory Asset",
+          "description": "Tariff (Purchases for 6 S0s for future sales)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-03",
+      "doc_number": "97792355",
+      "total": 1384.16,
+      "attributed": 922.77,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4699",
+      "lines": [
+        {
+          "amount": 805.29,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 8.66,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (2026 IDIQ)"
+        },
+        {
+          "amount": 108.82,
+          "account": "DIRECT COSTS:DC-Other Direct Costs",
+          "description": "Tariff (2026 IDIQ)"
+        },
+        {
+          "amount": 161.06,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 1.73,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Sasquatch)"
+        },
+        {
+          "amount": 21.76,
+          "account": "DIRECT COSTS:DC-Other Direct Costs",
+          "description": "Tariff (Sasquatch)"
+        },
+        {
+          "amount": 241.59,
+          "account": "Inventory Asset",
+          "description": "Purchases for 6 S0s for future sales"
+        },
+        {
+          "amount": 2.6,
+          "account": "Inventory Asset",
+          "description": "Shipping Purchases for 6 S0s for future sales"
+        },
+        {
+          "amount": 32.65,
+          "account": "Inventory Asset",
+          "description": "Tariff (Purchases for 6 S0s for future sales)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-03",
+      "doc_number": "7919",
+      "total": 2253.38,
+      "attributed": 1502.25,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Wire Transfer",
+      "lines": [
+        {
+          "amount": 1417.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Servos"
+        },
+        {
+          "amount": 85.25,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (2026 IDIQ)"
+        },
+        {
+          "amount": 283.4,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Servos"
+        },
+        {
+          "amount": 17.05,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Sasquatch)"
+        },
+        {
+          "amount": 425.1,
+          "account": "Inventory Asset",
+          "description": "Servos (Purchases for 6 S0s for future sales)"
+        },
+        {
+          "amount": 25.58,
+          "account": "Inventory Asset",
+          "description": "Shipping (Purchases for 6 S0s for future sales)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-03",
+      "doc_number": "404376162",
+      "total": 3.99,
+      "attributed": 3.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PIRATE SHIP * POSTAGE - 7333",
+      "lines": [
+        {
+          "amount": 3.99,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipment to Sean Cole (Phase1 Aviation) for 2026 IDIQ"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-03",
+      "doc_number": "S504U895",
+      "total": 1279.3,
+      "attributed": 852.87,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 852.87,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Deployment_tube/ Tail_piece/ Deployment tube"
+        },
+        {
+          "amount": 170.57,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Deployment_tube/ Tail_piece/ Deployment tube"
+        },
+        {
+          "amount": 255.86,
+          "account": "Inventory Asset",
+          "description": "Deployment_tube/ Tail_piece/ Deployment tube"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-03",
+      "doc_number": "443390803546",
+      "total": 186.24,
+      "attributed": 124.16,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Digital card",
+      "lines": [
+        {
+          "amount": 114.85,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 9.31,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (2026 IDIQ)"
+        },
+        {
+          "amount": 22.97,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 1.87,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Sasquatch)"
+        },
+        {
+          "amount": 34.45,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": ""
+        },
+        {
+          "amount": 2.79,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipping (IRAD General)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-03",
+      "doc_number": "TSS100029292",
+      "total": 182.5,
+      "attributed": 121.67,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 121.67,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "PC092-1250-26000-HD-11708-CG-N-IN"
+        },
+        {
+          "amount": 24.33,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "PC092-1250-26000-HD-11708-CG-N-IN"
+        },
+        {
+          "amount": 36.5,
+          "account": "Inventory Asset",
+          "description": "PC092-1250-26000-HD-11708-CG-N-IN (Purchases for 6 S0s for future sales)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-03",
+      "doc_number": "10783",
+      "total": 169.5,
+      "attributed": 113.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Umbrella company is Merchant Technologies",
+      "lines": [
+        {
+          "amount": 66.33,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 46.67,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (2026 IDIQ)"
+        },
+        {
+          "amount": 13.27,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 9.33,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Sasquatch)"
+        },
+        {
+          "amount": 19.9,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "expenses IRAD general"
+        },
+        {
+          "amount": 14.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "shipping (IRAD general)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-03",
+      "doc_number": "67125",
+      "total": 7192.87,
+      "attributed": 4795.25,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "JAWSTEC - 4699",
+      "lines": [
+        {
+          "amount": 4765.25,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "2026 IDIQ purchases"
+        },
+        {
+          "amount": 30.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (2026 IDIQ)"
+        },
+        {
+          "amount": 953.05,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Sasquatch purchases"
+        },
+        {
+          "amount": 6.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Sasquatch purchases"
+        },
+        {
+          "amount": 1429.57,
+          "account": "Inventory Asset",
+          "description": "Purchases for 6 S0s for future sales"
+        },
+        {
+          "amount": 9.0,
+          "account": "Inventory Asset",
+          "description": "shipping (Purchases for 6 S0s for future sales)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-02",
+      "doc_number": "89538",
+      "total": 259.13,
+      "attributed": 172.75,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Paypal",
+      "lines": [
+        {
+          "amount": 148.75,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 24.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (2026 IDIQ)"
+        },
+        {
+          "amount": 29.75,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 4.8,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Sasquatch)"
+        },
+        {
+          "amount": 44.63,
+          "account": "Inventory Asset",
+          "description": "Purchases for 6 S0s for future sales"
+        },
+        {
+          "amount": 7.2,
+          "account": "Inventory Asset",
+          "description": "Shipping (IRAD General)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-02",
+      "doc_number": "40864",
+      "total": 450.18,
+      "attributed": 300.12,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Shipped to Sean Cole (Phase1 Aviation)",
+      "lines": [
+        {
+          "amount": 300.12,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 60.02,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 90.04,
+          "account": "Inventory Asset",
+          "description": "Purchases for 6 S0s for future sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-02-27",
+      "doc_number": "",
+      "total": 6924.8,
+      "attributed": 4616.53,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request. Purchase handled via email by Josh Fromm",
+      "lines": [
+        {
+          "amount": 4616.53,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 923.31,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 1384.96,
+          "account": "Inventory Asset",
+          "description": "Purchases for 6 S0s for future sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-02-27",
+      "doc_number": "",
+      "total": 277.9,
+      "attributed": 185.26999999999998,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 150.67,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 34.6,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (2026 IDIQ)"
+        },
+        {
+          "amount": 30.13,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 6.92,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Sasquatch)"
+        },
+        {
+          "amount": 45.2,
+          "account": "Inventory Asset",
+          "description": "Purchases for 6 S0s for future sales"
+        },
+        {
+          "amount": 10.38,
+          "account": "Inventory Asset",
+          "description": "Shipping (Purchases for 6 S0s for future sales)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-02-27",
+      "doc_number": "1285",
+      "total": 1112.0,
+      "attributed": 741.33,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Purchase request for [301-3] but are broken down for three projects. See Purchasing SOP for S0s 2026 for details.",
+      "lines": [
+        {
+          "amount": 741.33,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 148.27,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 222.4,
+          "account": "Inventory Asset",
+          "description": "Purchases for 6 S0s for future sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-02-27",
+      "doc_number": "169328",
+      "total": 244.65,
+      "attributed": 163.1,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Purchase request for [301-3] but are broken down for three projects. See Purchasing SOP for S0s 2026 for details.",
+      "lines": [
+        {
+          "amount": 163.1,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 32.62,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 48.93,
+          "account": "Inventory Asset",
+          "description": "Purchases for 6 S0s for future sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-02-26",
+      "doc_number": "",
+      "total": 48.46,
+      "attributed": 6.67,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*C89G346O3 - 4699",
+      "lines": [
+        {
+          "amount": 6.67,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "StarTech.com 1 ft. (0.3 m) USB to Micro USB Cable"
+        },
+        {
+          "amount": 41.79,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "Paper towels and toilet paper"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-02-25",
+      "doc_number": "97671301",
+      "total": 225.94,
+      "attributed": 225.94000000000003,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 1.31,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "CONN RCPT HSG 10POS 2.00MM x 10"
+        },
+        {
+          "amount": 2.84,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "CONN SOCKET 22-26AWG CRIMP TIN x 100"
+        },
+        {
+          "amount": 180.5,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "RS-232/UART USB TO SERIAL x 10"
+        },
+        {
+          "amount": 9.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "CONN PLUG KIT USB2.0 TYPE-A x 5"
+        },
+        {
+          "amount": 1.25,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "CONN RCPT HSG 5POS 2.00MM x 10"
+        },
+        {
+          "amount": 12.99,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (2026 IDIQ)"
+        },
+        {
+          "amount": 18.05,
+          "account": "DIRECT COSTS:DC-Other Direct Costs",
+          "description": "Tariff (2026 IDIQ)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-02-18",
+      "doc_number": "66766",
+      "total": 91.13,
+      "attributed": 91.13,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "JAWSTEC - 4699",
+      "lines": [
+        {
+          "amount": 79.13,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Radio-housing-Main.step/USB-bracket-Main.step"
+        },
+        {
+          "amount": 12.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (2026 IDIQ)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-02-17",
+      "doc_number": "",
+      "total": 100.6,
+      "attributed": 100.6,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*I25AQ5P83 - 4699",
+      "lines": [
+        {
+          "amount": 9.99,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Micro USB to Printer Cable,2PCS Micro USB 5pin"
+        },
+        {
+          "amount": 90.61,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "StarTech.com 7-Port USB 2.0 Hub"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-02-13",
+      "doc_number": "66686",
+      "total": 423.53,
+      "attributed": 423.5299999999999,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 34.45,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Wing-Pivot-Housing-Main.step"
+        },
+        {
+          "amount": 41.66,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Aircraft-QR-mount-Main.step"
+        },
+        {
+          "amount": 41.15,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Internal-structure-CENTER-Main.step"
+        },
+        {
+          "amount": 34.78,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Internal-structure-LEFT-Main.step"
+        },
+        {
+          "amount": 34.78,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Internal-structure-RIGHT-Main.step"
+        },
+        {
+          "amount": 72.57,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Tail-section-Main-1-.step"
+        },
+        {
+          "amount": 40.38,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Tail-section-Main-r.step"
+        },
+        {
+          "amount": 35.44,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Tail-section-Main.step"
+        },
+        {
+          "amount": 6.69,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Wire-cap-Main.step"
+        },
+        {
+          "amount": 18.09,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Rudder-Plug-Main.step"
+        },
+        {
+          "amount": 27.84,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Elevator-plug-Main.step"
+        },
+        {
+          "amount": 14.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (2026 IDIQ Hurricane)"
+        },
+        {
+          "amount": 21.7,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Sales Tax (2026 IDIQ Hurricane)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-02-12",
+      "doc_number": "09449",
+      "total": 441.63,
+      "attributed": 127.86,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Paid via PayPal\n\nNo Asana Request because purchase made by Josh Fromm with approval from J. Elston. Project breakdown provided in Slack",
+      "lines": [
+        {
+          "amount": 57.44,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Plastic clevis, length 17 mm, slot width 1,2, pin 1 mm dia, M2 - Colour : B - black x 24"
+        },
+        {
+          "amount": 65.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Ball link V1 type, 3 mm dia, M2/M1,6 long - Colour : B - black x 20"
+        },
+        {
+          "amount": 36.97,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Brass control horn M2,5/1,5 short (for clevises MPJ 2150-2159) x 20"
+        },
+        {
+          "amount": 52.65,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Insert for metal control horn M2,5 - Material : BR - brass x 20"
+        },
+        {
+          "amount": 209.66,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Ball link V3 type, 5 mm dia, M3/2 short x 40"
+        },
+        {
+          "amount": 5.42,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (2026 IDIQ Hurricane)"
+        },
+        {
+          "amount": 14.49,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipping (IRAD S0 VTOL)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-02-06",
+      "doc_number": "119452452",
+      "total": 12949.18,
+      "attributed": 12949.179999999998,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Jack made purchase directly for IDIQ 2026 - no Asana request",
+      "lines": [
+        {
+          "amount": 11765.63,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "SENSOR PRESS DIFF 0.07PSI 8DIP x 960"
+        },
+        {
+          "amount": 6.99,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (IDIQ 2026)"
+        },
+        {
+          "amount": 1176.56,
+          "account": "DIRECT COSTS:DC-Other Direct Costs",
+          "description": "Tariff (IDIQ 2026)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-02-03",
+      "doc_number": "FDD29D8-0005",
+      "total": 1979.25,
+      "attributed": 1979.25,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Purchase set up by Jack via email - no Asana request",
+      "lines": [
+        {
+          "amount": 1116.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "4 x p400"
+        },
+        {
+          "amount": 596.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "4 x Pico Serial Motherboard"
+        },
+        {
+          "amount": 60.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "4 x 4pin Power Cable"
+        },
+        {
+          "amount": 120.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "20 x Pico Socket Cover"
+        },
+        {
+          "amount": 87.25,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (IDIQ 2026)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-01-06",
+      "doc_number": "119373449",
+      "total": 5183.87,
+      "attributed": 5183.87,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Ordered on 09/04/25, but shipped later. Jack confirmed it is for 2026 Hurricane on Slack.\n\nPayment was charged to BST \"account\" so actual payment made on 01/06/26.",
+      "lines": [
+        {
+          "amount": 4706.25,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "SENSOR PRESS DIFF 0.18PSI 8DIP x 240 (100 shipped)"
+        },
+        {
+          "amount": 6.99,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Hurricane)"
+        },
+        {
+          "amount": 470.63,
+          "account": "DIRECT COSTS:DC-Other Direct Costs",
+          "description": "Tariff (Hurricane)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-01-06",
+      "doc_number": "119221844",
+      "total": 20714.49,
+      "attributed": 20714.49,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Ordered on 09/04/25, but shipped later. Jack confirmed it is for 2026 Hurricane on Slack.\n\nPayment was charged to BST \"account\" so actual payment made on 01/06/26.",
+      "lines": [
+        {
+          "amount": 18825.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "SENSOR PRESS DIFF 0.07PSI 8DIP x 960 (400 Shipped)"
+        },
+        {
+          "amount": 6.99,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Hurricane)"
+        },
+        {
+          "amount": 1882.5,
+          "account": "DIRECT COSTS:DC-Other Direct Costs",
+          "description": "Tariff (Hurricane)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-01-06",
+      "doc_number": "118917457",
+      "total": 16055.31,
+      "attributed": 16055.31,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Ordered on 09/04/25, but shipped later. Jack confirmed it is for 2026 Hurricane on Slack.\n\nPayment was charged to BST \"account\" so actual payment made on 01/06/26",
+      "lines": [
+        {
+          "amount": 4706.25,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "SENSOR PRESS DIFF 0.18PSI 8DIP x 100 shipped (ordered 240)"
+        },
+        {
+          "amount": 9883.13,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "SENSOR PRESS DIFF 0.07PSI 8DIP x 210 shipped (ordered 960)"
+        },
+        {
+          "amount": 6.99,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Hurricane)"
+        },
+        {
+          "amount": 1458.94,
+          "account": "DIRECT COSTS:DC-Other Direct Costs",
+          "description": "Tariff Duties (Hurricane)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-01-06",
+      "doc_number": "115948456",
+      "total": 5183.87,
+      "attributed": 5183.87,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Original order placed 09/04/2025...delayed shipment. Jack placed order and provided categorization on Slack. This is for 2026 IDIQ Hurricane\n\nPayment was charged to BST \"account\" so actual payment made on 01/06/26",
+      "lines": [
+        {
+          "amount": 4706.25,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "SENSOR PRESS DIFF 0.07PSI 8DIP x 100 (shipped) (total of 960 ordered)"
+        },
+        {
+          "amount": 6.99,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Hurricane)"
+        },
+        {
+          "amount": 470.63,
+          "account": "DIRECT COSTS:DC-Other Direct Costs",
+          "description": "Tariff (IDIQ 2026)"
+        }
+      ]
+    }
+  ],
+  "purchase_orders": [],
+  "payments": [
+    {
+      "type": "Payment",
+      "date": "2026-04-06",
+      "doc_number": "",
+      "total": 36000.0,
+      "attributed": 36000.0,
+      "vendor": "",
+      "customer": "[300-3] 2026 IDIQ",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 36000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}

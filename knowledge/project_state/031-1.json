@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "project_code": "031-1",
+  "category": "contract",
+  "asana_gid": "1208230348100750",
+  "name": "UMES S3",
+  "status": "delayed",
+  "status_notes": "CORRECTION 2026-04-20: From Jack: now that the volcano work is pushed back the most important deadline for the s3 is getting one to UMES before the end of May. That's priority number one for <@U014ZL9FLE9>",
+  "customer": {
+    "name": "University of Maryland Eastern Shore",
+    "type": "commercial",
+    "contacts": []
+  },
+  "contract": {
+    "type": "unknown",
+    "number": null,
+    "total_value": 81306.0,
+    "start_date": null,
+    "end_date": "2025-05-30",
+    "payment_cadence": null,
+    "documents": []
+  },
+  "budget": {
+    "approved": 81306.0,
+    "approved_source": "asana_custom_field",
+    "line_items": [],
+    "spent": {
+      "labor": {
+        "amount": 12607.5,
+        "source": "toggl × $125.0/hr placeholder",
+        "confidence": "placeholder",
+        "last_updated": "2026-04-22"
+      },
+      "purchases": {
+        "amount": 0.0,
+        "source": "purchasing@ emails (not yet wired)",
+        "confidence": "placeholder",
+        "last_updated": null
+      },
+      "other_qbo": {
+        "amount": 3962.35,
+        "source": "QBO by-class (bills + purchases + POs)",
+        "confidence": "exact",
+        "last_updated": "2026-04-22"
+      },
+      "total": 16569.85,
+      "by_line_item": {}
+    },
+    "committed": 0.0,
+    "remaining": 64736.15,
+    "burn_rate_monthly": null,
+    "last_reconciled": "2026-04-23T05:33:26Z"
+  },
+  "milestones": [
+    {
+      "name": "Deliver S3 to UMES",
+      "asana_task_gid": "1210099783651637",
+      "due_on": "2026-05-11",
+      "original_due": null,
+      "status": "open",
+      "invoice_trigger": null,
+      "evidence": []
+    }
+  ],
+  "deliverables": [],
+  "team": [
+    {
+      "name": "Jack Elston",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    },
+    {
+      "name": "Meredith O'hara Needham",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    }
+  ],
+  "risks": [],
+  "overrides": [
+    {
+      "source": "CORRECTION",
+      "author": "Jack",
+      "date": "2026-04-20",
+      "text": "From Jack: now that the volcano work is pushed back the most important deadline for the s3 is getting one to UMES before the end of May. That's priority number one for <@U014ZL9FLE9>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Jack",
+      "date": "2026-04-20",
+      "text": "From Jack (ts=1776706257.063699): <@U014U9WMK2A> - I'd probably add that the highest priority due to lead time, etc. is getting that S3 together for UMES.   We need to make whatever changes we feel are necessary to the design and get that going (if we haven't already).  Also, I believe we need to do another run of PCB's so there's some risk there.   From what <@U06KRHPQSRH> says that opportunity runs out end of May."
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Jack",
+      "date": "2026-04-20",
+      "text": "From Jack: <@U014U9WMK2A> - I'd probably add that the highest priority due to lead time, etc. is getting that S3 together for UMES.   We need to make whatever changes we feel are necessary to the design and get that going (if we haven't already).  Also, I believe we need to do another run of PCB's so there's some risk there.   From what <@U06KRHPQSRH> says that opportunity runs out end of may."
+    }
+  ],
+  "last_full_rebuild": "2026-04-23T05:33:26Z",
+  "last_incremental_update": null
+}

@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "project_code": "044-1",
+  "category": "contract",
+  "asana_gid": "1211903174217997",
+  "name": "EMASS Chip Integration",
+  "status": "active",
+  "status_notes": null,
+  "customer": {
+    "name": "EMASS",
+    "type": "commercial",
+    "contacts": []
+  },
+  "contract": {
+    "type": "unknown",
+    "number": null,
+    "total_value": 90000.0,
+    "start_date": "2026-01-31",
+    "end_date": "2026-01-31",
+    "payment_cadence": null,
+    "documents": []
+  },
+  "budget": {
+    "approved": 90000.0,
+    "approved_source": "asana_custom_field",
+    "line_items": [],
+    "spent": {
+      "labor": {
+        "amount": 23086.25,
+        "source": "toggl × $125.0/hr placeholder",
+        "confidence": "placeholder",
+        "last_updated": "2026-04-22"
+      },
+      "purchases": {
+        "amount": 0.0,
+        "source": "purchasing@ emails (not yet wired)",
+        "confidence": "placeholder",
+        "last_updated": null
+      },
+      "other_qbo": {
+        "amount": 46.8,
+        "source": "QBO by-class (bills + purchases + POs)",
+        "confidence": "exact",
+        "last_updated": "2026-04-22"
+      },
+      "total": 23133.05,
+      "by_line_item": {}
+    },
+    "committed": 0.0,
+    "remaining": 66866.95,
+    "burn_rate_monthly": null,
+    "last_reconciled": "2026-04-23T05:33:46Z"
+  },
+  "milestones": [],
+  "deliverables": [],
+  "team": [
+    {
+      "name": "Dan Prendergast",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    },
+    {
+      "name": "Maciej Stachura",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    }
+  ],
+  "risks": [],
+  "overrides": [
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-20",
+      "text": "From Maciej (ts=1776649988.110059): <@U0AQE94HJUT>, we have 4 main technical goals/milestone next week I think:\n1. EMASS flight tests (<@U04CZK4K7P0> , <@U06CCFTNBS6>, and <@U01511MEQ90>)\n2. S0-VTOL restart to find and fix the crash bug (<@U058LGYMEQ0> and <@U014ZL9FLE9>)\n3. S3 work to find the crash bug and flight test on S1-22 and hover test S3 (<@U06NQAYBLRK>, <@U01511MEQ90>, and <@U014U9WMK2A>)\n4. Mustang Progress (<@U06CCFTNBS6> and <@U058LGYMEQ0>)\nThose should all be capture in Asana (I ju"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-20",
+      "text": "From Maciej (ts=1776649988.110059): <@U0AQE94HJUT>, we have 4 main technical goals/milestone next week I think:\n1. EMASS flight tests (<@U04CZK4K7P0> , <@U06CCFTNBS6>, and <@U01511MEQ90>)\n2. S0-VTOL restart to find and fix the crash bug (<@U058LGYMEQ0> and <@U014ZL9FLE9>)\n3. S3 work to find the crash bug and flight test on S1-22 and hover test S3 (<@U06NQAYBLRK>, <@U01511MEQ90>, and <@U014U9WMK2A>)\n4. Mustang Progress (<@U06CCFTNBS6> and <@U058LGYMEQ0>)\nThose should all be capture in Asana (I ju"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-19",
+      "text": "From Maciej: <@U0AQE94HJUT>, we have 4 main technical goals/milestone next week I think:\n1. EMASS flight tests (<@U04CZK4K7P0> , <@U06CCFTNBS6>, and <@U01511MEQ90>)\n2. S0-VTOL restart to find and fix the crash bug (<@U058LGYMEQ0> and <@U014ZL9FLE9>)\n3. S3 work to find the crash bug and flight test on S1-22 and hover test S3 (<@U06NQAYBLRK>, <@U01511MEQ90>, and <@U014U9WMK2A>)\n4. Mustang Progress (<@U06CCFTNBS6> and <@U058LGYMEQ0>)\nThose should all be capture in Asana (I just added S3 tasks) make"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-20",
+      "text": "From Maciej (ts=1776649988.110059): <@U0AQE94HJUT>, we have 4 main technical goals/milestone next week I think:\n1. EMASS flight tests (<@U04CZK4K7P0> , <@U06CCFTNBS6>, and <@U01511MEQ90>)\n2. S0-VTOL restart to find and fix the crash bug (<@U058LGYMEQ0> and <@U014ZL9FLE9>)\n3. S3 work to find the crash bug and flight test on S1-22 and hover test S3 (<@U06NQAYBLRK>, <@U01511MEQ90>, and <@U014U9WMK2A>)\n4. Mustang Progress (<@U06CCFTNBS6> and <@U058LGYMEQ0>)\nThose should all be capture in Asana (I ju"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-20",
+      "text": "From Maciej (ts=1776649988.110059): <@U0AQE94HJUT>, we have 4 main technical goals/milestone next week I think:\n1. EMASS flight tests (<@U04CZK4K7P0> , <@U06CCFTNBS6>, and <@U01511MEQ90>)\n2. S0-VTOL restart to find and fix the crash bug (<@U058LGYMEQ0> and <@U014ZL9FLE9>)\n3. S3 work to find the crash bug and flight test on S1-22 and hover test S3 (<@U06NQAYBLRK>, <@U01511MEQ90>, and <@U014U9WMK2A>)\n4. Mustang Progress (<@U06CCFTNBS6> and <@U058LGYMEQ0>)\nThose should all be capture in Asana (I ju"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-20",
+      "text": "From Maciej (ts=1776649988.110059): <@U0AQE94HJUT>, we have 4 main technical goals/milestone next week I think:\n1. EMASS flight tests (<@U04CZK4K7P0> , <@U06CCFTNBS6>, and <@U01511MEQ90>)\n2. S0-VTOL restart to find and fix the crash bug (<@U058LGYMEQ0> and <@U014ZL9FLE9>)\n3. S3 work to find the crash bug and flight test on S1-22 and hover test S3 (<@U06NQAYBLRK>, <@U01511MEQ90>, and <@U014U9WMK2A>)\n4. Mustang Progress (<@U06CCFTNBS6> and <@U058LGYMEQ0>)\nThose should all be capture in Asana (I ju"
+    }
+  ],
+  "last_full_rebuild": "2026-04-23T05:33:46Z",
+  "last_incremental_update": null
+}

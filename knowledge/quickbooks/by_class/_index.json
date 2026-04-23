@@ -1,23 +1,356 @@
 {
   "period": {
-    "start": "2025-04-21",
-    "end": "2026-04-21"
+    "start": "2025-04-22",
+    "end": "2026-04-22"
   },
-  "scanned_at": "2026-04-21",
+  "scanned_at": "2026-04-22",
   "projects": [
     {
-      "project_code": "_unclassified",
-      "revenue": 5379945.4,
-      "expenses": 1853926.04,
-      "invoice_count": 68,
-      "bill_count": 117,
-      "purchase_count": 993,
-      "po_count": 4,
-      "payment_count": 50,
+      "project_code": "001-1",
+      "revenue": 0.0,
+      "expenses": 6090.15,
+      "invoice_count": 0,
+      "bill_count": 1,
+      "purchase_count": 63,
+      "po_count": 1,
+      "payment_count": 0,
       "qbo_class_names": [
-        "BST Internal",
-        "Commercial",
-        "Government"
+        "(001-1) IRAD- General",
+        "[001] Black Swift Technologies - IRAD:(001-1) IRAD- General"
+      ]
+    },
+    {
+      "project_code": "001-11",
+      "revenue": 0.0,
+      "expenses": 436.78,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 10,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "(001-11) IRAD Methane Emission Detection"
+      ]
+    },
+    {
+      "project_code": "001-12",
+      "revenue": 0.0,
+      "expenses": 292.34,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 4,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "(001-12)  General Customer Support/Project Support"
+      ]
+    },
+    {
+      "project_code": "001-16",
+      "revenue": 0.0,
+      "expenses": 63.59,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 3,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "(001-16) SwiftStation"
+      ]
+    },
+    {
+      "project_code": "001-3",
+      "revenue": 0.0,
+      "expenses": 38.28,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 1,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "(001-3) IRAD S0"
+      ]
+    },
+    {
+      "project_code": "001-4",
+      "revenue": 0.0,
+      "expenses": 14393.88,
+      "invoice_count": 0,
+      "bill_count": 3,
+      "purchase_count": 48,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "(001-4) IRAD - S0 VTOL",
+        "[001] Black Swift Technologies - IRAD:(001-4) IRAD - S0 VTOL"
+      ]
+    },
+    {
+      "project_code": "001-5",
+      "revenue": 0.0,
+      "expenses": 99.98,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 1,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "(001-5) IRAD - S1"
+      ]
+    },
+    {
+      "project_code": "001-7",
+      "revenue": 0.0,
+      "expenses": 107363.48,
+      "invoice_count": 0,
+      "bill_count": 16,
+      "purchase_count": 110,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "(001-7) IRAD - S3",
+        "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
+      ]
+    },
+    {
+      "project_code": "005-1",
+      "revenue": 0.0,
+      "expenses": 7309.76,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 34,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "(005-1) Barbados Meteorological Services"
+      ]
+    },
+    {
+      "project_code": "012-2",
+      "revenue": 0.0,
+      "expenses": 5785.11,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 8,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "[012-2] Embry Riddle S0 VTOL"
+      ]
+    },
+    {
+      "project_code": "018-1",
+      "revenue": 124567.32,
+      "expenses": 15982.04,
+      "invoice_count": 2,
+      "bill_count": 3,
+      "purchase_count": 40,
+      "po_count": 0,
+      "payment_count": 2,
+      "qbo_class_names": [
+        "[018-1] Murphy's Pond CH4",
+        "[018] Murray State University:[018-1] Murphy's Pond CH4"
+      ]
+    },
+    {
+      "project_code": "031-1",
+      "revenue": 0.0,
+      "expenses": 3962.35,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 25,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "(031-1) University of Maryland Eastern Shore"
+      ]
+    },
+    {
+      "project_code": "032-3",
+      "revenue": 90000.0,
+      "expenses": 20795.38,
+      "invoice_count": 1,
+      "bill_count": 6,
+      "purchase_count": 49,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "[032-3] Sasquatch S0s x 4",
+        "[032] University of Notre Dame:[032-3] Sasquatch S0s x 4"
+      ]
+    },
+    {
+      "project_code": "043-3",
+      "revenue": 126629.0,
+      "expenses": 2973.29,
+      "invoice_count": 3,
+      "bill_count": 0,
+      "purchase_count": 8,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "[043-3] By Light Halo"
+      ]
+    },
+    {
+      "project_code": "044-1",
+      "revenue": 55000.0,
+      "expenses": 46.8,
+      "invoice_count": 2,
+      "bill_count": 0,
+      "purchase_count": 3,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "[044-1] EMASS Chip Integration"
+      ]
+    },
+    {
+      "project_code": "212-1",
+      "revenue": 0.0,
+      "expenses": 214.5,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 1,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "[212-1] S2 Simulator + Warranty Work"
+      ]
+    },
+    {
+      "project_code": "212-2",
+      "revenue": 0.0,
+      "expenses": 13476.3,
+      "invoice_count": 0,
+      "bill_count": 1,
+      "purchase_count": 18,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "[212-2] NASA S2 & Parts",
+        "[212] Isaac Anderson:[212-2] NASA S2 & Parts"
+      ]
+    },
+    {
+      "project_code": "300-3",
+      "revenue": 414000.0,
+      "expenses": 174835.11,
+      "invoice_count": 7,
+      "bill_count": 6,
+      "purchase_count": 102,
+      "po_count": 0,
+      "payment_count": 1,
+      "qbo_class_names": [
+        "[300-3] 2026 IDIQ",
+        "[300] NOAA:[300-3] 2026 IDIQ"
+      ]
+    },
+    {
+      "project_code": "301-3",
+      "revenue": 1656881.32,
+      "expenses": 321540.76,
+      "invoice_count": 9,
+      "bill_count": 26,
+      "purchase_count": 292,
+      "po_count": 2,
+      "payment_count": 9,
+      "qbo_class_names": [
+        "[300] NOAA:[301] Joe Cione:[301-3] S0 Hurricane Phase II 2025",
+        "[301-3] S0 Hurricane Phase II 2025"
+      ]
+    },
+    {
+      "project_code": "350-4",
+      "revenue": 0.0,
+      "expenses": 6420.35,
+      "invoice_count": 0,
+      "bill_count": 1,
+      "purchase_count": 9,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "(350-4) 2024 USGS Mexico Volcano",
+        "[350] USGS:(350-4) 2024 USGS Mexico Volcano"
+      ]
+    },
+    {
+      "project_code": "550-1",
+      "revenue": 385621.0,
+      "expenses": 8114.18,
+      "invoice_count": 7,
+      "bill_count": 5,
+      "purchase_count": 3,
+      "po_count": 0,
+      "payment_count": 4,
+      "qbo_class_names": [
+        "[550-1] Navy SBIR Magnetometer",
+        "[550] United States Navy:[550-1] Navy SBIR Magnetometer"
+      ]
+    },
+    {
+      "project_code": "550-2",
+      "revenue": 392652.0,
+      "expenses": 72790.0,
+      "invoice_count": 5,
+      "bill_count": 9,
+      "purchase_count": 0,
+      "po_count": 0,
+      "payment_count": 5,
+      "qbo_class_names": [
+        "[550-2] Navy STTR Hazardous Weather",
+        "[550] United States Navy:[550-2] Navy STTR Hazardous Weather"
+      ]
+    },
+    {
+      "project_code": "_unclassified",
+      "revenue": 2099594.76,
+      "expenses": 2022972.53,
+      "invoice_count": 32,
+      "bill_count": 66,
+      "purchase_count": 1192,
+      "po_count": 1,
+      "payment_count": 28,
+      "qbo_class_names": [
+        "",
+        "(001-8) IRAD Flight Testing",
+        "(010-1) Methane Emission Detection",
+        "(035-1) Adonis",
+        "(400-5) SMM Phase II 22.4D",
+        "Black Swift Technologies",
+        "Krateo Sky",
+        "Nestor Rivera",
+        "Phase1 Aviation",
+        "Prof. Fu-Kuo Change",
+        "Stanford University",
+        "Toyota Research Institute",
+        "Weather Stream (c)",
+        "[001-18] IRAD Soil Moisture (SMM)",
+        "[001-22] Aeropods Commercial",
+        "[001] Black Swift Technologies - IRAD",
+        "[001] Black Swift Technologies - IRAD:[001-19] IRAD Aeropods",
+        "[012] Embry-Riddle Aeronautical University",
+        "[018] Murray State University",
+        "[032-2] Display Model E2",
+        "[032] University of Notre Dame",
+        "[034] University of Virginia",
+        "[035] Unmanned Experts Inc.",
+        "[039-1] Refurbished S2 Oklahoma State",
+        "[043-1] By Light Prototype Build",
+        "[043-2] By Light Mustang",
+        "[043] By Light Professional IT Services LLC:[043-2] By Light Mustang",
+        "[200-11] NASA Persistence Demo",
+        "[200-12] AREN 2025",
+        "[200-13] CRATER (Costa Rica Volcanoes)",
+        "[200-14] Autonomy",
+        "[200] NASA:[200-11] NASA Persistence Demo",
+        "[200] NASA:[200-12] AREN 2025",
+        "[200] NASA:[200-14] Autonomy",
+        "[212] Isaac Anderson",
+        "[350] USGS",
+        "[400] Department of the Air Force",
+        "[400] Department of the Air Force:(400-5) SMM Phase II 22.4D",
+        "[452-1] Hesselius E2"
       ]
     }
   ]

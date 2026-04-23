@@ -1,0 +1,163 @@
+{
+  "project_code": "001-16",
+  "qbo_class_names": [
+    "(001-16) SwiftStation"
+  ],
+  "period": {
+    "start": "2025-04-22",
+    "end": "2026-04-22"
+  },
+  "totals": {
+    "revenue": 0.0,
+    "expenses": 63.59,
+    "by_category": {
+      "Indirect Cost:Internal Research and DevelopmentX (deleted)": 62.83,
+      "Indirect Cost:TaxesX (deleted)": 0.76
+    }
+  },
+  "invoices": [],
+  "bills": [],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2025-07-31",
+      "doc_number": "",
+      "total": 8.36,
+      "attributed": 8.36,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 8.36,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "IRAD SwiftStation supplies not available - money returned"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-29",
+      "doc_number": "",
+      "total": 8.97,
+      "attributed": 8.97,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "parts for GroundStation\nPurchased in store (Alex)",
+      "lines": [
+        {
+          "amount": 4.65,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "1/4\" Aluminum EZ Clips 15pk"
+        },
+        {
+          "amount": 4.32,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "1/2\" Copper Tube Straps"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-24",
+      "doc_number": "0722JELSTON",
+      "total": 218.4,
+      "attributed": 46.26,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "purchases categorized by purchaser in McMaster Order receipt",
+      "lines": [
+        {
+          "amount": 11.16,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Rounded Head Thread-Cutting Screws for Metal, Zinc-Plated Steel, 6-32 Thread, 5/16\" Long, Packs of 100"
+        },
+        {
+          "amount": 5.01,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Self-Retaining Washer for #6 & M3.5 Screw Size"
+        },
+        {
+          "amount": 8.04,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "emale Threaded Round Standoff, 18-8 Stainless\nSteel, 3/8\" OD x 3"
+        },
+        {
+          "amount": 9.04,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "tainless Steel Pan Head Torx Screws, 10-32\nThread Size"
+        },
+        {
+          "amount": 4.37,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "316 Stainless Steel Washer for Number 10 Screw\nSize"
+        },
+        {
+          "amount": 10.95,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "8-8 Stainless Steel Socket Head Screw"
+        },
+        {
+          "amount": 11.98,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Nylon Flat Edge Insulating Sleeve Washers for\n1/2\" Screw Size"
+        },
+        {
+          "amount": 9.71,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "8-8 Stainless Steel Narrow Cheese Head Slotted\nScrews"
+        },
+        {
+          "amount": 9.31,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "8-8 Stainless Steel Torx Flat Head Screws,"
+        },
+        {
+          "amount": 66.9,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Female Threaded Hex Standoff, Aluminum x 30"
+        },
+        {
+          "amount": 31.14,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "18-8 Stainless Steel Binding Barrel, 8-32 Thread x 3"
+        },
+        {
+          "amount": 3.6,
+          "account": "Indirect Cost:TaxesX (deleted)",
+          "description": "Sales Tax (IRAD SwiftStation)"
+        },
+        {
+          "amount": 4.01,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Sales Tax (IRAD S3)"
+        },
+        {
+          "amount": 9.37,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Sales Tax (IRAD VTOL)"
+        },
+        {
+          "amount": 5.04,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Shipping (IRAD SwiftStation)"
+        },
+        {
+          "amount": 5.62,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Shipping (IRAD S3)"
+        },
+        {
+          "amount": 13.15,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "Shipping (IRAD VTOL)"
+        }
+      ]
+    }
+  ],
+  "purchase_orders": [],
+  "payments": []
+}

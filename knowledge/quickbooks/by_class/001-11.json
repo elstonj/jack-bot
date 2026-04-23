@@ -1,0 +1,204 @@
+{
+  "project_code": "001-11",
+  "qbo_class_names": [
+    "(001-11) IRAD Methane Emission Detection"
+  ],
+  "period": {
+    "start": "2025-04-22",
+    "end": "2026-04-22"
+  },
+  "totals": {
+    "revenue": 0.0,
+    "expenses": 436.78,
+    "by_category": {
+      "Indirect Cost:Internal Research and DevelopmentX (deleted)": 303.82,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 132.96
+    }
+  },
+  "invoices": [],
+  "bills": [],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-03-11",
+      "doc_number": "",
+      "total": 41.36,
+      "attributed": 41.36,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "GENERAL AIR SERV PAYMENT    0      XXXXXXXX1636    LLC,BLACK XXXXXXXX1636",
+      "lines": [
+        {
+          "amount": 41.36,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "GENERAL AIR SERV PAYMENT    0      XXXXXXXX1636    LLC,BLACK XXXXXXXX1636"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-02-11",
+      "doc_number": "",
+      "total": 45.8,
+      "attributed": 45.8,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "GENERAL AIR SERV PAYMENT    0      XXXXXXXX6487    LLC,BLACK XXXXXXXX6487",
+      "lines": [
+        {
+          "amount": 45.8,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "GENERAL AIR SERV PAYMENT    0      XXXXXXXX6487    LLC,BLACK XXXXXXXX6487"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-01-13",
+      "doc_number": "",
+      "total": 45.8,
+      "attributed": 45.8,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "GENERAL AIR SERV PAYMENT    0      XXXXXXXX9166    LLC,BLACK XXXXXXXX9166",
+      "lines": [
+        {
+          "amount": 45.8,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "GENERAL AIR SERV PAYMENT    0      XXXXXXXX9166    LLC,BLACK XXXXXXXX9166"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-12-11",
+      "doc_number": "",
+      "total": 44.26,
+      "attributed": 44.26,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "GENERAL AIR SERV PAYMENT    0      XXXXXXXX4732    LLC,BLACK XXXXXXXX4732",
+      "lines": [
+        {
+          "amount": 44.26,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "GENERAL AIR SERV PAYMENT    0      XXXXXXXX4732    LLC,BLACK XXXXXXXX4732"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-11-12",
+      "doc_number": "",
+      "total": 43.97,
+      "attributed": 43.97,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "GENERAL AIR SERV PAYMENT    0      XXXXXXXX4126    LLC,BLACK XXXXXXXX4126",
+      "lines": [
+        {
+          "amount": 43.97,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "(IRAD 001-11 Methane)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-10-14",
+      "doc_number": "",
+      "total": 42.55,
+      "attributed": 42.55,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "GENERAL AIR SERV PAYMENT         0 XXXXXXXX3662    LLC,BLACK XXXXXXXX3662",
+      "lines": [
+        {
+          "amount": 42.55,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "(IRAD 001-11 Methane)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-11",
+      "doc_number": "",
+      "total": 43.97,
+      "attributed": 43.97,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "GENERAL AIR SERV PAYMENT         0 XXXXXXXX4810    LLC,BLACK XXXXXXXX4810",
+      "lines": [
+        {
+          "amount": 43.97,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "(IRAD 001-11 Methane)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-12",
+      "doc_number": "",
+      "total": 43.97,
+      "attributed": 43.97,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "GENERAL AIR SERV PAYMENT         0 XXXXXXXX4438    LLC,BLACK XXXXXXXX4438",
+      "lines": [
+        {
+          "amount": 43.97,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "(IRAD 001-11 Methane)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-11",
+      "doc_number": "",
+      "total": 42.55,
+      "attributed": 42.55,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "GENERAL AIR SERV PAYMENT         0 XXXXXXXX8572    LLC,BLACK XXXXXXXX8572",
+      "lines": [
+        {
+          "amount": 42.55,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "(IRAD 001-11 Methane)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-05-05",
+      "doc_number": "",
+      "total": 42.55,
+      "attributed": 42.55,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "GENERAL AIR SERV PAYMENT         0 XXXXXXXX2570    LLC,BLACK XXXXXXXX2570",
+      "lines": [
+        {
+          "amount": 42.55,
+          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "description": "(IRAD 001-11 Methane)"
+        }
+      ]
+    }
+  ],
+  "purchase_orders": [],
+  "payments": []
+}

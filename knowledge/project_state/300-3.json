@@ -1,0 +1,165 @@
+{
+  "schema_version": "1.0",
+  "project_code": "300-3",
+  "category": "contract",
+  "asana_gid": "1212864136925021",
+  "name": "2026 IDIQ (Hurricane)",
+  "status": "active",
+  "status_notes": null,
+  "customer": {
+    "name": "NOAA",
+    "type": "government",
+    "contacts": []
+  },
+  "contract": {
+    "type": "unknown",
+    "number": null,
+    "total_value": 483000.0,
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "payment_cadence": null,
+    "documents": []
+  },
+  "budget": {
+    "approved": 483000.0,
+    "approved_source": "asana_custom_field",
+    "line_items": [],
+    "spent": {
+      "labor": {
+        "amount": 83388.75,
+        "source": "toggl × $125.0/hr placeholder",
+        "confidence": "placeholder",
+        "last_updated": "2026-04-22"
+      },
+      "purchases": {
+        "amount": 0.0,
+        "source": "purchasing@ emails (not yet wired)",
+        "confidence": "placeholder",
+        "last_updated": null
+      },
+      "other_qbo": {
+        "amount": 174835.11,
+        "source": "QBO by-class (bills + purchases + POs)",
+        "confidence": "exact",
+        "last_updated": "2026-04-22"
+      },
+      "total": 258223.86,
+      "by_line_item": {}
+    },
+    "committed": 0.0,
+    "remaining": 224776.14,
+    "burn_rate_monthly": null,
+    "last_reconciled": "2026-04-23T05:34:05Z"
+  },
+  "milestones": [],
+  "deliverables": [],
+  "team": [
+    {
+      "name": "Jack Elston",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    },
+    {
+      "name": "Maciej Stachura",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    },
+    {
+      "name": "Meredith O'hara Needham",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    },
+    {
+      "name": "Nate Straus",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    },
+    {
+      "name": "Sam Hild",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    }
+  ],
+  "risks": [],
+  "overrides": [
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-17",
+      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-17",
+      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-17",
+      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-17",
+      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-17",
+      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-17",
+      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-17",
+      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-17",
+      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-20",
+      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-20",
+      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-20",
+      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-20",
+      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    }
+  ],
+  "last_full_rebuild": "2026-04-23T05:34:05Z",
+  "last_incremental_update": null
+}
