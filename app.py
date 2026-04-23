@@ -100,6 +100,77 @@ def is_teaching(text):
     return False
 
 
+_WORK_SIGNALS = (
+    "milestone", "deliverable", "deadline", "due ", "next week", "this week",
+    "last week", "next month", "yesterday", "today", "tomorrow", "kickoff",
+    "kick-off", "kick off", "go/no-go", "go no go", "launch", "demo",
+    "review", "status update",
+)
+_PLAN_VERBS = (
+    # planning / ongoing
+    "we have", "we need", "we're going", "we are going", "we'll",
+    "planning to", "plan to", "plan is", "goal is", "goals for",
+    "working on", "focus on", "focused on", "priorities ", "priority is",
+    # past-tense status
+    "wrapped up", "finished", "completed", "shipped", "delivered",
+    "went well", "got done", "landed", "merged", "pushed", "deployed",
+    "reviewed", "tested", "demo'd", "demoed",
+    # coordination
+    "let me know", "let us know", "flag me", "heads up",
+)
+
+
+def is_work_update(text):
+    """Return True for informational work content that deserves a terse ack +
+    store, not a personality monologue.
+
+    Qualifies on:
+      - ≥2 signals from the list below, OR
+      - 1 signal AND length >= 100 chars (longer messages with any work
+        indicator are almost always status-adjacent).
+
+    Signals:
+      - numbered list (1. / 2. / 3.) or bullet list (-, *)
+      - @-mentions of team members
+      - BST project code reference like [350-4] or 001-7
+      - milestone/deliverable/deadline/kickoff keywords
+      - plan verbs ("we have", "planning to", "goal is", ...)
+    """
+    lower = text.lower()
+    signals = 0
+
+    if re.search(r"(?m)^[\s>]*(?:\d+[.)]|[-*•])\s", text):
+        signals += 1
+    if re.search(r"<@[UW][A-Z0-9]+>", text):
+        signals += 1
+    if re.search(r"\[\d{3}[-_]\d+\]|\b\d{3}[-_]\d+\b", text):
+        signals += 1
+    if any(kw in lower for kw in _WORK_SIGNALS):
+        signals += 1
+    if any(kw in lower for kw in _PLAN_VERBS):
+        signals += 1
+
+    if signals >= 2:
+        return True
+    if signals >= 1 and len(text) >= 80:
+        return True
+    return False
+
+
+_TERSE_ACKS = (
+    "Noted.",
+    "Got it — stored.",
+    "Filed. Will surface it in context.",
+    "Recorded.",
+)
+
+
+def _terse_ack() -> str:
+    """Rotate through a few short acknowledgments — still dry, not a monologue."""
+    import random
+    return random.choice(_TERSE_ACKS)
+
+
 def is_question(text):
     """Return True if the message should be routed to knowledge Q&A."""
     lower = text.lower().strip()
@@ -278,6 +349,14 @@ def route_message(message, say, client, user_id, channel_id):
             channel_id=channel_id,
             channel_context=channel_ctx,
         ))
+    elif is_work_update(message):
+        # Legitimate work content (plans, milestones, status updates) — take
+        # the terse-ack-and-store path instead of subjecting the user to a
+        # sysadmin monologue. Personality is reserved for genuine off-topic
+        # chatter below.
+        user_name = resolve_user_name(client, user_id)
+        store_entry(client, "INSIGHT", f"From {user_name}: {message}")
+        say(_terse_ack())
     else:
         user_name = resolve_user_name(client, user_id)
         bot_id = get_bot_user_id(client)
