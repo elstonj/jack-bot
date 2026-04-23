@@ -12,28 +12,32 @@
     "contacts": []
   },
   "contract": {
-    "type": "unknown",
-    "number": null,
+    "type": "fixed_price",
+    "number": "N6833525C0270",
     "total_value": 138494.0,
-    "start_date": null,
-    "end_date": "2026-09-01",
-    "payment_cadence": null,
-    "documents": []
+    "start_date": "2025-07-07",
+    "end_date": "2026-12-01",
+    "payment_cadence": "milestone",
+    "documents": [
+      "drive://Black Swift DD882 N6833525C0270 SIGNED 1.pdf",
+      "drive://STTR Subcontract - ERAU Black Swift Technologies - FE (SIGNED).pdf",
+      "drive://STTR Subcontract - ERAU Black Swift Technologies - MOD 1"
+    ]
   },
   "budget": {
-    "approved": 138494.0,
-    "approved_source": "asana_custom_field",
+    "approved": 96441.0,
+    "approved_source": "sow_drive",
     "line_items": [],
     "spent": {
       "labor": {
         "amount": 25830.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-04-22"
+        "last_updated": "2026-04-23"
       },
       "purchases": {
         "amount": 0.0,
-        "source": "purchasing@ emails (not yet wired)",
+        "source": "purchasing@ emails (no records matched this project)",
         "confidence": "placeholder",
         "last_updated": null
       },
@@ -47,9 +51,9 @@
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 39874.0,
+    "remaining": -2179.0,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-04-23T05:34:37Z"
+    "last_reconciled": "2026-04-23T06:34:33Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -190,6 +194,6 @@
       "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
     }
   ],
-  "last_full_rebuild": "2026-04-23T05:34:37Z",
+  "last_full_rebuild": "2026-04-23T06:34:33Z",
   "last_incremental_update": null
 }

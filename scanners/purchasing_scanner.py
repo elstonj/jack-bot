@@ -190,7 +190,8 @@ array, no commentary):
  "status": "requested"|"approved"|"ordered"|"received"|"invoiced"|"other",
  "amount_usd": number | null,
  "vendor": string | null,
- "project_code": string | null,  // e.g. "350-4" or "001-7" — only if explicitly mentioned
+ "project_code": string | null,  // STRICT: only a literal "XXX-Y" pattern (like "350-4" or "001-7") — else null
+ "project_hint": string | null,  // free-text project reference the email uses ("Mexico", "INSTAAR S3", "Hurricane Phase II")
  "description": string | null,   // brief — what's being bought
  "notes": string | null           // anything unusual: approval chain, holds, splits
 }
@@ -200,8 +201,11 @@ Rules:
 with no $ anchor, reply-all noise.
 - amount_usd: the actual cost total as a number. If only a quote range, pick the \
 high end. If VAT or tax is separate, use the grand total. Null if unknown.
-- project_code: match `XXX-Y` patterns. If the email mentions a project by name \
-(e.g. "Mexico" or "INSTAAR") without the code, leave null — we'll match later.
+- project_code: MUST be a literal XXX-Y or XXX-YY pattern explicitly in the email \
+text (e.g. "350-4", "001-07"). Never invent a code. Never use names, vendor IDs, \
+or account numbers. If unclear, null.
+- project_hint: the project's informal name/reference if mentioned (e.g. "Mexico \
+deployment", "ADONIS", "INSTAAR"). The daily pipeline will fuzzy-match this.
 - status: "requested" = initial ask; "approved" = reply approving; "ordered" = PO \
 issued or vendor confirmation; "received" = delivery confirmed; "invoiced" = \
 invoice attached; "other" if ambiguous.

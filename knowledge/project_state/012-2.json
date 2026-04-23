@@ -29,11 +29,11 @@
         "amount": 8581.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-04-22"
+        "last_updated": "2026-04-23"
       },
       "purchases": {
         "amount": 0.0,
-        "source": "purchasing@ emails (not yet wired)",
+        "source": "purchasing@ emails (no records matched this project)",
         "confidence": "placeholder",
         "last_updated": null
       },
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 6439.03,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-04-23T05:33:14Z"
+    "last_reconciled": "2026-04-23T06:31:48Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -172,6 +172,6 @@
       "text": "From Alex Lomis (ts=1776451579.783709): <@U083AAM8E9Y> I'm not sure any are _fully_ NDAA compliant yet but the S0 VTOL, S0 AD, and E2 all can be I believe"
     }
   ],
-  "last_full_rebuild": "2026-04-23T05:33:14Z",
+  "last_full_rebuild": "2026-04-23T06:31:48Z",
   "last_incremental_update": null
 }

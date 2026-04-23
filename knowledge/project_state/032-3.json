@@ -33,7 +33,7 @@
       },
       "purchases": {
         "amount": 0.0,
-        "source": "purchasing@ emails (not yet wired)",
+        "source": "purchasing@ emails (no records matched this project)",
         "confidence": "placeholder",
         "last_updated": null
       },
@@ -49,13 +49,13 @@
     "committed": 0.0,
     "remaining": 67909.62,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-04-23T05:33:33Z"
+    "last_reconciled": "2026-04-23T06:32:08Z"
   },
   "milestones": [],
   "deliverables": [],
   "team": [],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-04-23T05:33:33Z",
+  "last_full_rebuild": "2026-04-23T06:32:08Z",
   "last_incremental_update": null
 }
