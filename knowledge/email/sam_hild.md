@@ -1,91 +1,95 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 718 (643 previous + 75 new)
-- **Date range:** March 16 – April 23, 2026 (approximately 39 days)
+- **Total messages scanned:** 739 (718 previous + 21 new)
+- **Date range:** March 16 – April 24, 2026 (approximately 40 days)
 - **Approximate volume:** ~18–19 emails per day
-- **Note:** New batch (Apr 20-23) maintains consistent pattern; ~65 of 75 messages are transactional/vendor notifications; 3–4 human task assignments via Asana; 2 direct external contacts (Frank Strazzabosco draft, Willow Skye); 1 internal notes sync (Gemini). All messages marked UNREAD at scan time.
+- **Note:** New batch (Apr 23-24) maintains consistent pattern; 17 of 21 messages are transactional/vendor notifications; 1 critical external engagement (Frank Strazzabosco power supply board discussion); 1 Asana task notification; 1 Slack email confirmation; 1 health benefits notification (personal). All messages marked UNREAD at scan time.
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Dan Prendergast** (via Asana) — **NEW ACTIVE CONTACT**: Assigned task Apr 22 on "Next rev on 3 boards with subs" under **[Iterative Ground & Flight T…]** project (incomplete subject); indicates circuit board/component revision work
-- **Maciej Stachura** (via Asana) — Continued priority; task assignment Apr 22 on "Fix GNSS Issue on S1-22 and S3" under **[[001-07] S3 IRAD]**; escalated from motor diagnostics to navigation system troubleshooting
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Continues Hurricane IDIQ lead; no direct new activity in Apr 20-23 batch, but appears as recipient on Craftcloud orders (Apr 21-22)
-- **Jack Elston** (elstonj@blackswifttech.com) — **VISIBLE EXTERNAL COORDINATION**: Forwarded chain with Matt Crabtree (Waveform Engineering) on "Update - Hurricane Season Builds - Part Sourcing" (Apr 20); marked IMPORTANT; indicates active vendor/partner communications on Hurricane project
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — Forwarded Comcast business contact coordination (Apr 20); infrastructure/communications support role visible
+- **Dan Prendergast** (via Asana) — **ACTIVE TASK LEAD**: Circuit board revisions across multiple projects; task assignments maintain momentum on iterative design cycles
+- **Maciej Stachura** (via Asana) — **CONTINUED PRIORITY**: GNSS/navigation system troubleshooting on S1-22 and S3 platforms under [001-07] S3 IRAD project
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Hurricane IDIQ lead; continues indirect involvement via procurement pipeline
+- **Jack Elston** (elstonj@blackswifttech.com) — **ESCALATED EXTERNAL COORDINATION**: New critical correspondence thread (Apr 23) on **P400 900MHz Spread Spectrum Modem** with Matt Crabtree (Waveform Engineering); marked IMPORTANT across 3 exchanged messages; forwarded Power Supply Board Re-spin discussion to Frank Strazzabosco (Apr 23); indicates Jack acting as technical intermediary/approver on design decisions
 
-### External Direct Contacts (NEW)
-- **Frank Strazzabosco** (microfirm@earthlink.net) — **SIGNIFICANT EXTERNAL CONTACT**: Draft email from Sam Hild on Apr 22 subject "Power Supply Board Re-spin"; indicates design revision discussion with external consultant/vendor
-- **Willow Skye** (willow.skye@bitleds.shop) — **HARDWARE PARTNER**: Direct reply to Sam Hild on Apr 22 re: "Hardware Solutions for Data Analytics and ML-Black Swift Technologies"; marked IMPORTANT; suggests component/subsystem supply relationship
-- **Matt Crabtree** (matt.crabtree@waveformengineering.com) — **EXTERNAL VENDOR**: Waveform Engineering; active correspondence with Jack Elston on Hurricane builds part sourcing (Apr 20); forwarded to Sam's inbox chain
+### External Direct Contacts (ELEVATED ACTIVITY)
+- **Frank Strazzabosco** (microfirm@earthlink.net) — **CRITICAL DESIGN CONSULTANT**: Direct engagement Apr 23 on "Power Supply Board Re-spin"; Sam initiates (08:36 CDT), Strazzabosco responds (09:05 CDT), Jack Elston forwards response (09:06 CDT); marked IMPORTANT; **indicates active real-time design revision cycle with external consultant involvement and internal escalation pathway**
+- **Matt Crabtree** (matt.crabtree@waveformengineering.com) — **ELEVATED VENDOR PRIORITY**: New critical thread (Apr 23) on **P400 900MHz Spread Spectrum Modem** (3 messages exchanged with Jack Elston in 6-hour window); marked IMPORTANT; suggests modem component selection/validation active for Hurricane or other platform
 
 ### Vendor/Supplier Contacts (Expanded)
 
-**Electronics & Components (NEW EMPHASIS):**
-- **ADUM1201 Serial Isolators** (via Amazon) — Multiple orders placed (Apr 21, 22); shipments tracked; suggests digital isolation circuitry for power supply or communication boards
-- **KDE Direct** — Order KDE17135 confirmed (Apr 20); KDE17071 shipped/delivered (Apr 20); likely motor controllers or ESCs
-- **DigiKey** — Order delay notification (Apr 23); component sourcing pipeline
-- **High-Tech Battery Solutions Inc** — Survey/outreach (Apr 23); battery/power system evaluation
-- **LightWare** — microLiDAR promotion (Apr 22); sensor component marketing
+**Communications/RF Components (NEW EMPHASIS):**
+- **Waveform Engineering** (Matt Crabtree) — P400 900MHz Spread Spectrum Modem procurement/evaluation active; indicates long-range telemetry or command link component under review
+- **JawsTec** — Order shipment notification (Apr 23); new vendor in supply chain; unclear component type from metadata
 
-**Manufacturing & Fabrication (Continued):**
-- **SendCutSend** — Multiple orders: S834G264 delivered (Apr 22); SW02L252 quote/tracking (Apr 20); metal fabrication pipeline continues
-- **Craftcloud** — Order #459340813415 (routed to Joshua Fromm, assigned to Sam context) entering production (Apr 22); CNC/machining services
-- **Rock West Composites** — Purchase completion reminders (Apr 22, 21); composite materials sourcing
+**Electronics & Components (Continued Ordering):**
+- **DigiKey** — PO Acknowledgement (sales order #98825513) and shipment (invoice 124681078) both Apr 23; expedited ordering/receiving cycle suggests critical path component sourcing
+- **RMRC (Ready Made RC)** — Order delivered (Apr 23); maintains RC component supply pipeline
 
-**Field/Logistics Operations (NEW PATTERN):**
-- **U-Haul** — Order placed (Apr 20); contract/terms (Apr 21); survey (Apr 21); suggests equipment/material transport, possibly field deployment prep
-- **Neat N Tidy** — Booking confirmation (Apr 21); facility/logistics support (possibly cleaning/janitorial for field staging)
-- **Ready Made RC LLC** — Order #420240 (Apr 20); password reset indicates account setup; RC components/parts sourcing
+**Fabrication & Materials (Continued):**
+- **SendCutSend** — Shipment in transit (Apr 23); metal fabrication parts continuing through production cycle
+- **Spindrift Market** — Order SH62366729 delivered (Apr 23); field operations supply (beverage/refreshment provisioning)
 
-**Hardware & Tools (Continued):**
-- **Amazon** — Multiple shipments: cleanroom wipes, ADUM isolators (Apr 21-22); production supply sourcing
-- **Harbor Freight** — Continued promotional traffic; tools/supplies
-- **The Home Depot** — Survey request (Apr 20); general supply sourcing
-- **eBay** — Searches for Futaba 14SG transmitters/receivers and Woodhead connectors (Apr 21); legacy/specialty RF components
+**Logistics/Tracking (Routine):**
+- **USPS Informed Delivery** — Daily digest (Apr 23); mail/shipment monitoring active
+- **Budget** (Budget rental/supplies) — Promotional offer routed to Joshua Fromm via purchasing alias (Apr 23)
+- **Harbor Freight** — Promotional coupon (Apr 24); tools/supplies continuing
 
-**Software & Services (NEW):**
-- **X-Plane 12.4.2** — Flight simulator promotion (Apr 22); simulation/validation tool; suggests software-in-the-loop testing or training
-- **Toggl Track** — Time tracking notifications sent to personal inbox (Apr 20, 21); project time logging active
-- **Veeam** — VeeamON conference promotion (May 12) (Apr 21); backup/disaster recovery focus
-- **OmniSync Incorporated** — Vendor decision support tool (Apr 21); vendor management/evaluation
-
-**Drone/Flight Components (NEW PATTERN):**
-- **CADDX FPV** — Avatar GT2 flight controller promotion (Apr 22); FPV/autonomous platform components
-- **Dronetag** — App update notification (Apr 21); drone identification/telemetry
-- **NewBeeDrone** — Popular component picks (Apr 20); drone motor/ESC/frame sourcing
-- **Hobbyking** — Power systems 20% off sale (Apr 20); battery/motor/controller supplier
-- **Ready Made RC** — RC component retailer account setup (Apr 20)
-
-**Miscellaneous:**
-- **Spindrift Market** — Order SH62366729 in transit (Apr 20); beverage/refreshment provisioning (field operations)
-- **Bulk Container Express** — Extended-length bulk storage promotion (Apr 22); inventory/logistics
+**Routing Note:** Multiple vendor notifications now routed through centralized `purchasing@blackswifttech.com` alias with Sam receiving copies; suggests procurement process standardization or shared inbox visibility across team.
 
 ## Topic Patterns
 
-### Active Projects (Updated Priority & Scope)
+### Active Projects (Updated with New Signals)
 
-**[001-07] S3 IRAD** — **ELEVATED PRIORITY WITH SYSTEM-LEVEL FOCUS**
-- Apr 22 task from Maciej: "Fix GNSS Issue on S1-22 and S3"
-- **Escalation:** Motor diagnostics (Apr 20) → GNSS/navigation systems (Apr 22)
-- **System scope:** Propulsion (S1-22 motor) + Navigation (GNSS on S1-22 and S3 platform)
-- Indicates integration/validation phase targeting subsystem performance
+**[001-07] S3 IRAD** — **SUSTAINED NAVIGATION SYSTEM FOCUS**
+- GNSS troubleshooting on S1-22 and S3 remains active; no new direct task activity in Apr 23-24 batch but system remains in flight/validation phase
 
-**[300-3] 2026 IDIQ (Hurricane)** — **SUSTAINED PARALLEL ACTIVITY**
-- Apr 22 task from Dan Prendergast: "Next rev on 3 boards with subs" (circuit board revision cycle)
-- Apr 20 Jack Elston correspondence with Waveform Engineering: "Hurricane Season Builds - Part Sourcing" (marked IMPORTANT)
-- Suggests concurrent assembly and component procurement activities
-- Circuit board revision work indicates design iteration ongoing (power supply board re-spin draft to Frank Strazzabosco, Apr 22)
+**[300-3] 2026 IDIQ (Hurricane)** — **CONCURRENT SUBSYSTEM DEVELOPMENT**
+- P400 900MHz Spread Spectrum Modem component evaluation active (Apr 23, Jack Elston ↔ Matt Crabtree); suggests telemetry/command link architecture decision point
+- Power Supply Board Re-spin discussion (Apr 23) involves Frank Strazzabosco and Jack Elston; indicates design revision cycle ongoing
 
-**[Iterative Ground & Flight T…]** — **NEW PROJECT VISIBLE**
-- Apr 22 task from Dan Prendergast on board revisions with substitutions
-- Incomplete subject line in Asana notification; likely "Iterative Ground & Flight Test" or similar
-- Suggests parallel test/validation program with multiple board variants
+**[Iterative Ground & Flight T…]** — **BOARD REVISION PIPELINE**
+- Circuit board revisions with substitutions continue under Dan Prendergast task assignment structure; no new Apr 23-24 tasks visible but pattern remains active
 
-**Mexico Planning** — No new activity visible in Apr 20-23 batch; still in background
+### Component/Subsystem Engineering Focus (CLARIFIED ARCHITECTURE)
 
-### Component/Subsystem Engineering Focus (NEW SIGNAL)
+**Communications/Telemetry Link:**
+- **P400 900MHz Spread Spectrum Modem** — Active procurement/evaluation (Apr 23)
+  - 900MHz ISM band frequency; long-range link candidate
+  - Spread spectrum suggests interference mitigation/security focus
+  - Vendor: Waveform Engineering (established partner)
+  - **Signal:** Critical path component with Jack Elston approval authority; 3-message exchange in 6 hours indicates time-sensitive decision
 
-**Power Supply/Board Redesign:**
-- Draft email to Frank Strazzabosco (external): "Power Supply Board
+**Power Supply Architecture:**
+- **Power Supply Board Re-spin** — Active design revision (Apr 23)
+  - External consultant Frank Strazzabosco engaged for design input
+  - Jack Elston forwarding/approving communications suggests design review checkpoint
+  - **Signal:** Board-level component iteration ongoing; external expertise sourced for power system optimization
+
+**Navigation/Positioning:**
+- **GNSS System** (S1-22, S3 platforms) — Troubleshooting/validation phase active; motor diagnostics previously escalated to GNSS integration issues
+
+### Procurement Velocity (NEW PATTERN)
+
+- **DigiKey** — Same-day PO acknowledgement + shipment notification (Apr 23, 11:27–19:33 UTC); expedited 8-hour fulfillment cycle suggests pre-positioned inventory or rushed component sourcing
+- **RMRC** — Delivered same day (Apr 23); RC components on fast supply cycle
+- **Spindrift Market** — Order in transit → delivered within 24 hours (Apr 23); field logistics support active
+
+## Communication Patterns
+
+- **Time patterns:** Emails distributed 08:36 CDT (earliest human) to 19:48 UTC (latest vendor); Jack Elston involvement at 09:06 CDT same-day on power supply escalation; Matt Crabtree responding to Jack at 19:33 UTC (10.5 hours later, evening UK time); suggests async but active 24-hour coordination cycle
+- **Mailing lists/group emails:** Purchasing alias (`purchasing@blackswifttech.com`) serving as hub for vendor notifications; Sam copied on centralized PO tracking
+- **Vendor/automated emails:** 17 of 21 messages are transactional (shipments, promotions, confirmations); maintains ~81% vendor notification baseline
+- **Human correspondence:** 4 of 21 messages are human-generated:
+  - 1 Frank Strazzabosco (design consultant, external)
+  - 3 Jack Elston ↔ Matt Crabtree (internal facilitating external vendor thread)
+  - 1 Asana task notification
+  - 1 Slack onboarding (system)
+  - 1 Personal health benefits (off-work)
+
+## Key Relationships
+
+### Internal Collaborators (by engagement type)
+- **Jack Elston** — **DESIGN APPROVAL/ESCALATION PATH**: Acts as intermediary between Sam's design work and external vendors (Frank Strazzabosco, Matt Crabtree); forwarding and approving critical component decisions; 2

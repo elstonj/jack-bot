@@ -7,16 +7,16 @@
 - **Dollar value:** $1,700,000 total budget to Black Swift Technologies
 - **Timeline:** 
   - **Extended through August 25, 2026** (6-month extension from original contract)
-  - Key training/delivery deadlines: July 31, 2026 (Web-based controller, Operator Training); August 25, 2026 (training CLINs)
+  - Key training/delivery deadlines: July 31, 2026 (Web-based controller, Operator Training); August 25, 2026 (Training CLINs)
   - Key testing deadlines: March 18-20, May 1 (completed as of April 2026)
 - **Status:** Active and progressing; 34 systems delivered to AOC (Dec 2025); hardware/software freeze completed (Nov 2025)
 - **Team members:** Josh Fromm (owner), Jack Elston, Maciej Stachura, Dan Prendergast, Ben Busby, Ethan Domagala, Alex Lomis, Nate Straus, Meredith O'Hara Needham
 - **Priority level:** Low
 - **Risk signals:** 
   - **Web-based controller (due July 31, 2026) assigned to Ben Busby** — requires status clarification on progress (~4 months to delivery)
-  - **13 unassigned milestone tasks with no due dates** (Prototyping, Construction, Design, Software/Firmware/Electronics, Data Processing, QC, Administrative, Meetings, Travel) plus critical deliverables: 10Hz Met Data, Increased Endurance, Dual GPS, GUI/usability improvements, Airops updates
-  - **Additional 13 S0 systems delivery (July 1, 2026) unassigned with no progress tracking**
-  - IAS (Indicated Airspeed) failures increasingly frequent, causing lost wind measurements and aircraft loss
+  - **13 critical unassigned milestone tasks with no due dates** (5 required: 10Hz Met Data, Increased Endurance, Dual GPS, GUI/usability improvements, Airops updates; 2 optional: Skyfora Integration, MultiUAS; plus 6 work category tasks)
+  - **Additional 13 S0 systems delivery (July 1, 2026) unassigned with no progress tracking** — high-priority deliverable with zero current visibility
+  - **IAS (Indicated Airspeed) failures increasingly frequent**, causing lost wind measurements and aircraft loss
 
 ## Key Deliverables & Milestones
 
@@ -32,13 +32,16 @@
 - **Hardware/software freeze** (Completed November 2025) ✅
 
 ### Critical Technical Milestones (All Unassigned, No Due Dates)
-- **10Hz Met Data** [Required]
-- **Increased Endurance** [Required]
-- **Dual GPS** [Required]
-- **GUI/usability improvements** [Required]
-- **Airops updates** [Required]
-- Skyfora Integration plan [Optional]
-- MultiUAS [Optional]
+**Required for contract completion:**
+- **10Hz Met Data**
+- **Increased Endurance**
+- **Dual GPS**
+- **GUI/usability improvements**
+- **Airops updates**
+
+**Optional enhancements:**
+- Skyfora Integration plan
+- MultiUAS
 
 ### Other Open Deliverables
 - **Web-based controller** (Due July 31, 2026) — Ben Busby (assigned)
@@ -47,13 +50,13 @@
 - Update onboard wind estimator (vertical) — Unassigned
 
 ## Task Summary
-- **Total tasks:** 23 open, 0 completed (current snapshot) — **significant discrepancy with April 2026 data showing 226 completed tasks**
+- **Total tasks:** 23 open, 0 completed
 - **Open & Assigned:**
   - **Web-based controller** — Ben Busby (due July 31, 2026)
 - **Open & Unassigned (critical path):**
   - Additional 13 S0 systems (due July 1, 2026)
   - Operator Training (due July 31, 2026)
-  - All 5 required technical milestones: 10Hz Met Data, Increased Endurance, Dual GPS, GUI/usability improvements, Airops updates
+  - All 5 required technical milestones (10Hz Met Data, Increased Endurance, Dual GPS, GUI/usability improvements, Airops updates)
   - Work category tasks: Prototyping, Construction, Design, Software/Firmware/Electronics, Data Processing, QC, Administrative, Meetings, Travel, Deployments, Testing
 - **Recent completions (April 2026):**
   - Local testing to verify fixes and updates (Mar 20 due, Apr 16 completed) — Maciej Stachura
@@ -68,7 +71,7 @@
 - QC Flight for new E2 (Mar 18 due date, completed Apr 9) — Ethan Domagala
 
 **Strategic Activity (April 2026):**
-- **Alex Lomis (Apr 17 & Apr 20, 2026):** Shared NASA RFI link (SAM.gov) recommended by NASA and Joe Cione during hurricane ET call — indicates potential expansion of government partnerships beyond NOAA for S0 platform
+- **Alex Lomis (Apr 17 & Apr 20, 2026):** Shared NASA RFI link (https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view) recommended by NASA and Joe Cione during hurricane ET call — indicates potential expansion of government partnerships beyond NOAA for S0 platform
 
 **Open & Approaching:**
 - Web-based controller (due July 31, 2026) — Ben Busby (assigned, mid-stage)
@@ -78,12 +81,12 @@
 
 ### Funding & Contract Status
 - **Extended contract:** Now runs through August 25, 2026 with 6-month extension
-- NOAA has **$115K + $54K earmarked** for extension/early part ordering for 3 UAS builds or parts
+- NOAA has **$115K + $54K earmarked** for extension/early part ordering for 3 UAS builds or parts (status: yet to be determined per Dec 10 update)
 - First optional funding invoice ($121,650) submitted October 2025 for: 4 S0s, Hurricane Erin/Gabriella/Imelda deployment trips, support and Clear Air testing
 - **Jack Elston actively negotiating IDIQ contract with NOAA for 25-30 UAS builds (FY25)** — represents significant follow-on opportunity beyond current Phase II contract
 
 ### Strategic Partnerships
-- **NASA engagement:** Alex Lomis shared NASA RFI (Apr 17 & 20, 2026) recommended by NASA and Joe Cione — suggests potential expansion of S0 platform beyond current NOAA hurricane program
+- **NASA engagement:** Alex Lomis shared NASA RFI (Apr 17 & 20, 2026) recommended by NASA and Joe Cione during hurricane ET call — suggests potential expansion of S0 platform beyond current NOAA hurricane program
 - NASA RFI Link: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view (per Alex Lomis, Apr 17 & 20, 2026)
 
 ### Technical Focus
@@ -92,9 +95,9 @@
 - Multi-UAS capability testing confirmed feasible; dual S0 testing successful
 - Clear Air testing completed as of April 16, 2026
 
-### Critical Issues & Discrepancies
-1. **Task list inconsistency:** Raw data shows 23 open tasks with 0 completed (appears to be a current task snapshot), but April 2026 activity notes reference 226 completed tasks with 99.6% completion rate. This represents a significant change in project tracking structure — recommend clarifying with Josh Fromm on whether task list was reset or reorganized.
+### Critical Issues & Gaps
+1. **Five required technical milestones (10Hz Met Data, Increased Endurance, Dual GPS, GUI/usability improvements, Airops updates) all unassigned with no due dates** — essential work for contract completion lacks ownership and timeline clarity, with August 25, 2026 deadline approaching.
 
-2. **Five required technical milestones (10Hz Met Data, Increased Endurance, Dual GPS, GUI/usability improvements, Airops updates) all unassigned with no due dates** — essential work for contract completion lacks ownership and timeline clarity, with August 25, 2026 deadline approaching.
+2. **One active software/training deliverable assigned (Web-based controller to Ben Busby, due July 31, 2026)** with ~4 months lead time — status tracking needed to ensure on-schedule completion.
 
-3. **One active software/training deliverable assigned (Web-based controller to Ben Busby, due July 31, 2026)** with ~4 months lead time — status tracking needed to ensure on-schedule completion.
+3. **High-priority 13 S0 systems delivery (July 1, 2026) unassigned with zero progress tracking** — occurs 2+ weeks before final training CLIN deadline (August 25, 2026); urgently needs assignment and planning.

@@ -48,6 +48,10 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Tripod and mount solution added to 2x display units at ~$200 cost (5 min labor) (April 22, 2026)
 - Delivery deadline: June 5, 2026 for DC event requirement; shipment to AOC or HQ for redistribution (April 22, 2026)
 
+**Inventory Management (April 23, 2026):**
+- SASCWATCH has one S0 left over from previous season; decision made not to allow NOAA to use it (April 23, 2026)
+- Jack Elston confirmed awareness of leftover aircraft status (April 23, 2026)
+
 ## Projects & Initiatives
 
 **S0 Hurricane Aircraft System:**
@@ -92,6 +96,4 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Tablet connectivity losses: SYSTEM_INIT requests flooding at 574 attempts with only 1 response during 10-minute disconnect
   - Root cause: Met data rate increased from 1Hz (pre-flight) to 5Hz (flight) consuming ~90% bandwidth
   - Impact: Nearly saturated communications bandwidth preventing proper tablet reconnection handshakes
-  - Mitigation: Requires bandwidth optimization; science team communication essential for balancing data needs
-- RSSI reporting issue: Ch2 showing -1 values while still transmitting telemetry (signal degradation masked)
-- RF cable quality: Channel 2 showing 15dB worse RSSI than Channel 1 initially, improved to 1.7dB loss (Ch1) vs 2
+  - Mitigation: Requires bandwidth optimization; science team communication essential for bal

@@ -2,7 +2,7 @@
 
 ## Overview
 - **Client:** NASA (Richard Kolyer, NASA Ames Research Center)
-- **Budget:** $80,972 total; $80,972 to BST (note: project notes reference $55,976 BST + $25,000 in-country contractor, but custom field consolidates to $80,972 BST with N/A subcontractor allocation)
+- **Budget:** $80,972 total to BST (project notes clarify: $55,976 BST + $25,000 in-country contractor)
 - **Timeline:** Proposal due 1/27/25 → Field operations May 11-22, 2025 → Final deliverables due 9/30/25
 - **Status:** **COMPLETE** (all deliverables submitted; project archived Oct 21, 2024)
 - **Team:** Jack Elston (PIC), Dan Prendergast (Operator), Maciej Stachura, Nate Straus, Meredith O'Hara Needham
@@ -46,7 +46,7 @@ Provide continuous high-resolution infrared (IR) imagery and in-situ gas samplin
 - **Operator:** Dan Prendergast
 - **Key deliverable:** NTSR (New Technology Summary Report) — indicates this was a technology demonstration for NASA
 - **No cost overruns or timeline slippages** — project well-executed with early final report submission
-- **Budget clarification:** Custom field lists $80,972 to BST with N/A subcontractor; project notes reference $55,976 BST + $25,000 in-country contractor (likely reflects organizational reporting consolidation)
+- **Budget clarification:** Total $80,972 to BST; project notes specify $55,976 BST + $25,000 in-country contractor (Asana custom field consolidates as N/A subcontractor)
 
 ## Business Development — NASA Follow-On Opportunity
 **Team Note (Alex Lomis, 4/17-4/20/26):** NASA RFI (Request for Information) shared for potential hurricane ET opportunity, recommended by NASA stakeholders and Joe for team review during hurricane ET call:  

@@ -1,104 +1,99 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 100 emails over ~4 days (Apr 20–23, 2026)
-- **Volume:** Approximately 25 emails/day; heavily concentrated in critical project periods
-- **Activity pattern:** Most active during business hours (6am–6pm variants across timezones), with some evening/weekend activity
+- **Total messages scanned:** 157 emails over ~4 days (Apr 20–24, 2026)
+- **Volume:** Approximately 39 emails/day; heavily concentrated in critical project periods
+- **Activity pattern:** Most active during business hours (6am–6pm variants across timezones), with significant evening/weekend activity (emails through 11pm–1am UTC/MDT)
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — appears in ~20+ threads; primary BST collaborator
-- **Jack Elston** (elstonj@blackswifttech.com) — frequent collaborator on external communications, demos, and strategic initiatives
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — Genesis/NASA program coordination
+- **Jack Elston** (elstonj@blackswifttech.com) — dominates new dataset; ~25+ threads in Apr 23–24 alone; primary BST collaborator for external negotiations, partner coordination, and document collaboration
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — appears in ~20+ threads; program-level coordination; receives forwarded external communications
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — Genesis/NASA program coordination; receives strategic forwarding; internal working group member
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — appearing in new data; appears to handle procurement/logistics (MP JET Parts, Company Disclosure Schedules coordination)
+- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — M2 Fuselage Design technical thread participant
 
 ### Top External Contacts
-- **Nikhila Ravikumar** (Nikhila@nanoveu.com) — NanoVeu; recurring "Simulation" threads (technical/integration focus)
-- **Lisa Marie Cheney / Bob Smith** (krateosky.com) — Arctic Demo in Ottawa coordination (demo/event planning)
-- **Armen Keuleyan** (Vantage Robotics) — SUAS capability opportunities, Air Force related
-- **Gijs de Boer** (Brookhaven National Lab) — Genesis mission collaboration
-- **Fernando Llorente** (Brookhaven National Lab) — Genesis mission abstract/proposal work
-- **Arthur Shune** (Skymesa Systems) — Army modular UAS payload SBIR teaming discussions
-- **Samo Stopar** (C-Astral) — Frequency/regulatory coordination for US operations
-- **Pete Torrione** (Covar) — Counter-UAS (C-UAS) and drone-to-drone technical discussions
-- **US Navy contacts** — Angel Ruiz-Reyes (NAWCAD), multiple Navy SBIR discussion participants
-- **NASA contacts** — Caden Kallhoff, Hai-Nam Tran, Randal Hobbs, Wesley Enos, Will Wade (Ames Research Center)
-
-### External Organizations Appearing
-- NanoVeu, Krateosky, C-Astral, Brookhaven National Lab (BNL), Skymesa Systems, Vantage Robotics, Inspired Flight, Nexumous, Stanford, NOAA, NASA (Ames)
+- **Nikhila Ravikumar** (Nikhila@nanoveu.com) — **ESCALATED FREQUENCY:** appears in 15+ "Simulation" threads in Apr 23–24 alone; indicates active, high-priority technical integration/troubleshooting
+- **Tom Wilp** (tom.wilp@nanoveu.com) — **NEW PROMINENCE:** 10+ Simulation thread responses; multi-person NanoVeu escalation suggests critical issue or milestone
+- **Jack Elston** (as external relay) — forwarding to/from NanoVeu team (Ravikumar, Wilp, Ruocco, Sabry) indicates centralized external communication pattern
+- **Beck Cotter / Daniel Prendergast / Gijs de Boer / Nathan Urban** (BNL) — Genesis Phase I planning continuation (Apr 23 threads); NASA collaboration active
+- **Joshua Wadler** (WADLERJ@erau.edu) — **NEW CONTACT:** CAT Flight Data coordination with NOAA (Jun Zhang); academic/research partnership
+- **Jun Zhang** (jun.zhang@noaa.gov) — NOAA affiliate; CAT Flight Data inquiry (Stachura initiated Apr 23)
+- **Brian Grubel / Lisa Marie Cheney** (Krateosky) — Arctic Demo coordination continues; camera specs, Flow Engineering partnerships
+- **Oier Penagaricano** (Aleriont) — MP JET Parts supplier coordination (new in dataset)
+- **FU-KUO CHANG** / **Tanay Topac** (Stanford) — S2 MHP (likely avionics/mission hardware) technical discussion
+- **Jeremiah Bonsmith** (Flow Engineering) — Flow Overview presentation scheduled for Apr 28; multi-partner attendance (Stachura, Elston, Krateosky)
+- **Sergio Ruocco** (sergio@nanoveu.com) — **ESCALATED:** Simulation thread participant; technical escalation from Nikhila/Tom
+- **Mohamed Sabry** (msabry@nanoveu.com) — **NEW:** Simulation thread participant; further NanoVeu escalation
+- **Corinne Spencer** (corinnespencer101@gmail.com) — Employment Agreement discussion with Elston (potential hire or contractor)
+- **Niki Schwab** (nschwab@kofirm.com) — Black Swift Issues List coordination; law firm (Kofirm) involvement suggests contracts/legal matters
+- **Sarah Barr** (sarah.barr@ncas.ac.uk) — **NEW CONTACT:** Stachura initiated inquiry about UAS for arctic conditions (Apr 23)
+- **Christopher Hartman** (chartman@umes.edu) — Black Swift Update; academic relationship
+- **Nicholas Phillips** (nicholas.phillips@bylight.com) — M2 Fuselage Design Considerations; ByLight contractor involvement
 
 ## Topic Patterns
 
-### Primary Projects/Programs
-1. **Genesis Mission** — NASA-related; abstract/Phase I proposal development; team includes BNL (de Boer, Llorente), BST (Cotter, Stachura)
-2. **Arctic Demo in Ottawa** — Demo event coordination with Krateosky; multiple planning exchanges
-3. **Navy SBIR (S20009)** — Option period kickoff meeting (Apr 21); involves US Navy technical stakeholders
-4. **Army Modular UAS Payload SBIR** — Teaming opportunity with Skymesa Systems
-5. **Simulation (NanoVeu integration)** — Recurring technical thread with Nikhila Ravikumar; appears to be performance/integration validation
-6. **M2 Fuselage Design** — Design considerations thread involving ByLight (Nicholas Phillips, Bryan Sparling, Justin Baltz, Craig McManus)
-7. **C-UAS / Counter-UAS** — Air-deployed attritable UAS with EO/IR; Navy BAA N68335-26-R-0458
+### Primary Projects/Programs (Updated)
 
-### Technical/Regulatory Topics
-- **Frequency coordination in US** — Regulatory/spectrum issue (with C-Astral)
-- **Flow Engineering Overview** — Shared with multiple partners (Inspired Flight, Nexumous, C-Astral, Vantage Robotics)
-- **Stanford SACL Timestamp S2 Avionics** — Integration/avionics discussion with Stanford
-- **Patent research** — Pitch Scientific inquiry
-- **Amprius cells** — Battery technology inquiry
+1. **Simulation Integration (NanoVeu)** — **CRITICAL ESCALATION:** 
+   - 15+ active threads Apr 23–24
+   - Multi-person NanoVeu team engaged (Nikhila, Tom Wilp, Sergio Ruocco, Mohamed Sabry)
+   - Jack Elston handling all outbound responses to NanoVeu
+   - All threads marked IMPORTANT; suggests active problem-solving or validation milestone
+   - Appears to be day-of or real-time technical coordination
 
-### Speaking/Conference Activity
-- Speaking invitation forwarding (via E. Kase Consulting)
-- Boulder Airport City Council advocacy (external networking)
+2. **Genesis Mission (NASA Phase I)** — Continuing active development
+   - Google Docs comments from Nathan Urban (BNL) on Apr 23 (07:25am)
+   - Planning meetings with Gijs de Boer, Nathan Urban (BNL), Beck Cotter
+   - Appears on track; abstract/proposal writing active
+
+3. **Arctic Conditions UAS Inquiry** — New thread
+   - Stachura initiated contact with Sarah Barr (NCAS) Apr 23
+   - Beck Cotter forwarded inquiry to Prendergast, Elston, Stachura with tag
+   - Parallel camera specs coordination with Krateosky (Cheney)
+   - Suggests new business development or RFI response cycle
+
+4. **Flow Engineering Overview / Partnership** — Scheduled event
+   - Multi-partner event scheduled Apr 28 (12pm–1pm MDT)
+   - Attendees: Stachura, Elston, Krateosky (Grubel)
+   - Jeremiah Bonsmith (Flow Engineering) organizing
+   - Suggests broader partner ecosystem activation or technical alignment meeting
+
+5. **CAT Flight Data** — New academic partnership
+   - Stachura initiated contact with Joshua Wadler (Embry-Riddle) and Jun Zhang (NOAA) Apr 23
+   - Marked IMPORTANT; involves flight test data exchange
+   - Suggests validation or research collaboration
+
+6. **Company Disclosure Schedules** — Legal/corporate preparation
+   - Jack Elston coordinating with Kofirm (law firm: Schwab, Fredrickson, Bryan, Sykora)
+   - Google Drive shared doc (v1 Shell); active revision
+   - Stachura copied; suggests either M&A, financing, or contracting preparation
+
+7. **M2 Fuselage Design Considerations** — Design phase active
+   - Ethan Domagala coordinating with ByLight (Phillips) on Apr 23
+   - Continues from previous dataset
+
+8. **Navy SBIR (S20009)** — Option period activity (continuation)
+   - Stachura forwarded DoW SBIR/STTR authorization alert to Elston Apr 23
+   - Suggests follow-on opportunity tracking
+
+### Technical/Regulatory Topics (Updated)
+
+- **S2 MHP (Mission Hardware Platform?)** — Stanford integration; Fu-Kuo Chang, Tanay Topac coordination on Apr 23
+- **MP JET Parts** — Aleriont (Oier Penagaricano) procurement; Meredith Needham handling logistics
+- **Camera Specs** — Krateosky demo requirement (Jack Elston <→> Lisa Marie Cheney)
+- **Arctic UAS Operations** — Regulatory/environmental inquiry (new thread)
+
+### Speaking/Conference Activity (Updated)
+- **Flow Engineering Overview briefing** — Scheduled Apr 28; multi-stakeholder attendance
+- **Webinar: Modular Payloads for UAS** — Beck Cotter received forwarding from Elston (Apr 23)
 
 ## Communication Patterns
 
 ### Outbound Activity (Stachura Sends)
-- **Navy/Government channels:** Direct communication with Naval personnel (Ruiz-Reyes, Brescia) — slides for kickoff, shipping coordination
-- **Partner teaming:** Responses to Skymesa (Army SBIR), Vantage Robotics (SUAS opportunities)
-- **Regulatory:** Direct contact with Navy contacts on sensor shipment
-- **Google Workspace integration:** Receiving Google Docs comments on Genesis proposals; Google Forms responses for SASCWATCH Workshop
-
-### Inbound Activity (To Stachura)
-- Heavy forwarding from internal BST team members (Prendergast, Elston, Cotter) summarizing external discussions
-- Direct contact from external partners on specific opportunities/RFI responses
-- Newsletter/automated subscriptions (NASA SBIR/STTR updates, Silverwood Technology Market Update, Google verification, DOD SAFE file transfers)
-
-### Email Frequency Patterns
-- **Peak days:** Tuesday–Wednesday (Apr 21–22) with 40–50+ active conversations
-- **Time zones:** Active across US (EDT, EST, CDT, PDT) and international (UTC, CET, IST) — suggests globally distributed team coordination
-- **Marking patterns:** High frequency of "IMPORTANT" flag on external and strategic conversations; some "UNREAD" items indicate ongoing engagement
-
-## Key Relationships
-
-### Closest Internal Collaborators
-1. **Daniel Prendergast** — Day-to-day technical/program coordination; appears on most external discussions
-2. **Jack Elston** — Strategic external liaison; handles client-facing demo/contract communication; forwarding complex conversations
-3. **Beck Cotter** — NASA/Genesis program lead; coordinates with BNL partners and government stakeholders
-
-### Strategic External Partnerships
-- **Brookhaven National Lab (BNL)** — Genesis mission (multi-year research collaboration)
-- **NanoVeu** — Simulation/integration validation partner; recurring technical coordination
-- **Krateosky** — Demonstration partner (Arctic event); multi-contact relationship suggesting significant scope
-- **C-Astral** — Frequency/regulatory coordination; operational/international considerations
-- **Skymesa Systems** — Army SBIR teaming; early-stage partnership development
-- **US Navy (NAWCAD/SBIR Program)** — Established contracting relationship; option period active
-
-### Government Stakeholders
-- **NASA Ames Research Center** — Multiple contacts across SBIR program and potential collabs
-- **US Navy** — SBIR contractor; active option period; technical partnerships
-- **NOAA** — RFI/opportunity interest (Joe Cione)
-
-## Notable Observations
-
-1. **Multi-threaded governance:** Stachura appears to manage parallel tracks — Navy SBIR kickoff, Army SBIR teaming, NASA Genesis proposal, Arctic demo — with different stakeholders per thread.
-
-2. **Technical integration focus:** Heavy emphasis on "Simulation" threads with NanoVeu suggests validation/performance work is critical path; recurring across multiple days indicates active troubleshooting or iteration.
-
-3. **Regulatory/spectrum expertise:** Direct involvement in US frequency coordination (C-Astral thread) and DOD SAFE file transfers with Navy suggest Stachura has regulatory or compliance responsibilities.
-
-4. **Proposal/funding cycle:** High concentration of SBIR-related email (Navy option period, Army SBIR, NASA Phase I) suggests Q2 2026 is a critical funding deadline period for BST.
-
-5. **Partner ecosystem:** Large network of small/medium aerospace and robotics firms (Krateosky, Skymesa, Inspired Flight, Nexumous, Vantage Robotics, C-Astral) suggests BST operates as a systems integrator or prime contractor with teaming opportunities.
-
-6. **Documentation/approval velocity:** Google Docs collaboration on Genesis abstract (multiple comment notifications) and GitLab identity verification suggest active proposal drafting and internal tool adoption.
-
-7. **Government contracting maturity:** Direct contact with Navy technical personnel (NAWCAD), multiple BAA responses, and structured SBIR option period meetings indicate established government contracting relationships.
+- **Academic/NOAA outreach:** Direct contact with Joshua Wadler and Jun Zhang on CAT Flight Data (Apr 23)
+- **Arctic business development:** Direct contact with Sarah Barr (NCAS) on UAS arctic conditions (Apr 23)
+- **Internal escalation:** Forwarding DoW SBIR/STTR alerts to Elston
+-

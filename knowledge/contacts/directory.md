@@ -92,14 +92,14 @@
 
 **Team Structure:**
 - **Leadership:** 3 people (CEO, CTO, Executive Assistant)
-- **Engineering:** 7 people (3 software engineers, 1 mechanical engineer, 1 shop technician, 1 intern, 1 service account)
+- **Engineering & Technical:** 7 people (3 software engineers, 1 mechanical engineer, 1 shop technician, 1 intern, 1 service account)
 - **Operations & Administration:** 1 person
 - **Communications & Marketing:** 2 people
-- **Unclassified:** 3 people (Beck Cotter, Daniel Prendergast, and Jameel Barkat — titles/departments not provided)
+- **Unclassified:** 3 people (Beck Cotter, Daniel Prendergast, Jameel Barkat — titles/departments unclear)
 - **Service Accounts:** 2
 
 **Notes:**
 - All 17 contacts verified and consolidated from existing knowledge and new raw data
 - Phone numbers standardized to format: XXX-XXX-XXXX
-- Three team members remain unclassified; recommend reaching out to leadership for role clarification
+- Three team members (Beck Cotter, Daniel Prendergast, Jameel Barkat) remain unclassified; recommend reaching out to leadership for role clarification
 - BST maintains a strong engineering-focused organization with balanced technical and administrative support

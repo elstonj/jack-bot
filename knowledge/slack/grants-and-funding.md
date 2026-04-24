@@ -8,7 +8,7 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 **Activity Level:** High throughout the period (March 2024 - April 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Most recent activity (April 2026) continues to show high intensity with multiple concurrent submissions and ongoing technical discussions.
 
-**Time Range:** March 3, 2024 - April 22, 2026
+**Time Range:** March 3, 2024 - April 23, 2026
 
 ---
 
@@ -73,6 +73,7 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
   - Beck Cotter raised concern about lead/subcontractor arrangement change requiring renegotiation in short timeframe
   - Due date: April 28, 2026 (potentially may move to May 1)
   - Budget package expected from BNL partner within 1-2 days; narrative and summary documentation in progress
+  - **April 23 status:** Beck Cotter confirmed receipt of all required documents from Gijs (BNL partner); proposal package complete and ready for finalization
 
 ### Demo and Testing Decisions
 - **Overwater delivery demo accepted** (February 2025): Selected from 44 submissions (1 of 12); scheduled for Oahu, March 11, 2025, with S3 as preferred platform (15-30 mile range requirement). Phase 2 planned for summer 2026 field experimentation in Oceania.
@@ -82,6 +83,4 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 - **Frank/Crimson Viper assessment** (July 2024): Frank gave 70% probability on deal from demo; explored Hawaii demo alternative as fallback option.
 
 - **NexTech Canada demo selected** (April 2026): BST selected for Ottawa demo ~May 26, 2026 (paid event, 8 vendors invited). Downselection to 3 vendors for second demo in Whitehorse later in year. Procurement potential: 180 units (60 teams × 3 platforms each). Cold weather camera integration identified as critical competitive advantage. All logistics, flight permissions, and aircraft registration to be handled by NexTech; BST responsible for piloting/operating system.
-  - **Specifications Updated** (April 21, 2026): Canadian government requirements clarified:
-    - **Platform:** S3 Nomad
-    - **Range:** 120 km or 1 hour 35 minutes time
+  - **Specifications Updated** (April 21, 2026):

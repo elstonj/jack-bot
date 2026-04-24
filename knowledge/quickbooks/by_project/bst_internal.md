@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $850,799.12 *(+$24,907.42 from April 20–23)*
+- **Total Expenses (Bills + Purchases)**: $850,845.25 *(+$24,953.55 from April 20–24)*
 - **Total Purchase Orders**: $0.00 (POs tracked as bills/purchases)
-- **Net Position**: -$832,904.76 (expenses exceed revenue significantly)
-- **Date Range**: April 5, 2024 – April 23, 2026 (24+ months)
-- **Transaction Count**: 1,034+ *(+12 new transactions)*
+- **Net Position**: -$832,950.89 (expenses exceed revenue significantly)
+- **Date Range**: April 5, 2024 – April 24, 2026 (24+ months)
+- **Transaction Count**: 1,035+ *(+13 new transactions)*
 
 ---
 
@@ -29,9 +29,9 @@
 ## Expenses by Cost Category
 
 ### Direct Labor & Subcontractors: $384,547.30
-*(+$38,697.87 from April 20–23)*
+*(unchanged from prior period)*
 
-- **Matthew Crabtree** (PCB design/assembly): $64,103.82 → **$103,227.68** *(+$39,123.86 in April bills: April 22 $14,479.45 + $24,224.02)*
+- **Matthew Crabtree** (PCB design/assembly): $103,227.68
 - **MicroFirm Engineering** (IRAD S0/S3 labor + parts): $62,621.00
 - **Level 6 Space** (Consulting retainer): $31,550.00
 - **PHASE1 AVIATION LLC** (Wing/fuselage components): $35,560.76
@@ -55,12 +55,12 @@
 - **Instatera Consulting** (Advisory services): $500.00
 - **I.V. Welding** (Aluminum/welding): $120.00
 
-**Total: $384,547.30** | **23 vendors** | **Largest: Matthew Crabtree $103,227.68** *(major April spike)*
+**Total: $384,547.30** | **23 vendors** | **Largest: Matthew Crabtree $103,227.68**
 
 ---
 
 ### Materials & Direct Purchases: $416,304.50
-*(+$3,194.28 from April 20–23)*
+*(unchanged from prior period)*
 
 **Subcategories:**
 - **Electronics/components** (Digi-Key, Mouser, electronics vendors): ~$208,187.22
@@ -70,15 +70,7 @@
 - **Motors/propulsion** (KDE, Vertiq, Amprius batteries, FetTec): $31,892.01
 - **Test/measurement equipment** (Makeflyeasy HERO VTOL x2, Kestrel 5500 Weather Meters): $2,392.95
 - **Shipping/duties/tariffs** (DHL, FedEx, duties): $26,875.65
-- **Direct cost supplies multi-project** (2026 IDIQ, Sasquatch, future S0 sales): $3,099.49 → **$3,194.28** *(+$94.79 from 2026-04-21 purchase #459340813415: $330.10 [IDIQ] + $66.02 [Sasquatch] allocated to direct costs)*
-
-**New April 20–23 Transactions (Materials):**
-- **2026-04-21 Purchase #459340813415** — $495.15 (split allocation)
-  - $330.10 → 2026 IDIQ direct costs
-  - $66.02 → Sasquatch project direct costs  
-  - $99.03 → Inventory (6 future S0s)
-  
-- **2026-04-20 Purchase** — $200.70 (Inventory for future S3 sales)
+- **Direct cost supplies multi-project** (2026 IDIQ, Sasquatch, future S0 sales): $3,194.28
 
 **Total Materials & Direct Purchases: $416,304.50**
 
@@ -98,16 +90,16 @@
 
 **Other Travel**: $9,077.47
 
-**Total Travel & Meals: $12,343.08** | **Multiple transactions** | **Largest: Airfare components $530.37–$984.14 per ticket**
+**Total Travel & Meals: $12,343.08**
 
 ---
 
 ### Rent & Facilities: $168,110.30
-*(+$13,659.27 from April 20–23)*
+*(unchanged from prior period)*
 
-- **W.W. Reynolds / Goose Creek Partners** (office rent): $142,889.32 → **$156,365.76** *(+$13,476.44 for May 2026 rent, bill dated 2026-04-22)*
-- **Shop supplies** (glues, flux, solder, tape, debuggers, Josh order): $4,524.50 → **$4,585.47** *(+$60.97 from 2026-04-22 purchase: $20.00 [ADUM1201 isolators] + 2026-04-21 purchase: $41.97)*
-- **Office supplies** (paper, tissues, cleaner, soap, stamps, beverages): $193.49 → **$229.59** *(+$36.10 from 2026-04-20 Spindrift beverage purchase)*
+- **W.W. Reynolds / Goose Creek Partners** (office rent): $156,365.76
+- **Shop supplies** (glues, flux, solder, tape, debuggers): $4,585.47
+- **Office supplies** (paper, tissues, cleaner, soap, stamps, beverages): $229.59
 - **Utilities** (XCEL Energy, Comcast, T-Mobile): $2,043.43
 - **Facility maintenance** (NEAT N TIDY, Ecocycle, repairs): $721.84
 - **Software/SaaS subscriptions** (Google Workspace, Adobe, OpenAI, Slack, Flux.ai, Toggl, Constant Contact, QuickBooks, Vercel, WordPress, Hetzner, IRC Cloud, Microsoft, Claude.ai, Anthropic, Watch Duty): $3,548.51
@@ -117,7 +109,7 @@
 ---
 
 ### Fringe & Admin Costs: $105,366.53
-*(+$534.00 insurance from April 20)*
+*(unchanged from prior period)*
 
 - **Payroll/tax withholding** (Rippling): $292,704.25
 - **Payroll clearing (Rippling payments)**: $943.83
@@ -125,7 +117,7 @@
 - **Employee health insurance** (United Healthcare): $14,239.51
 - **Payroll processing fees**: $2,624.28
 - **Worker's Compensation** (Pinnacol): $711.00
-- **Insurance** (Liberty Mutual, Pinnacol): $534.00 → **$1,068.00** *(+$534.00 from 2026-04-20 Liberty Mutual payment #260417)*
+- **Insurance** (Liberty Mutual, Pinnacol): $1,068.00
 - **Bank fees**: $75.00
 - **Employee reimbursement**: -$948.77 (credit)
 
@@ -133,8 +125,8 @@
 
 ---
 
-### Research & Development / IRAD: $1,873.59
-*(+$517.89 from April 20–23)*
+### Research & Development / IRAD: $1,919.72
+*(+$46.13 from April 23)*
 
 - **Internal R&D supplies & equipment:**
   - General Air Services: $45.80
@@ -143,34 +135,65 @@
   - MKS Servo components (IRAD projects): $1,182.34
   - Rifle cases for USGS Mexico field work: $99.98
   - Miscellaneous IRAD components: $1.19
-  - **2026-04-22 Purchase #11385** — $508.00 (Magnum Drone Strobes: white, red, green DS-30A-1)
-  - **2026-04-20 Purchase** — $9.99 (ADUM1201 Dual Channel isolators)
+  - Magnum Drone Strobes (DS-30A-1): $508.00
+  - ADUM1201 Dual Channel isolators: $9.99
+  
+**New April 23 Transaction (IRAD):**
+- **2026-04-23 Purchase #98825513** — $46.13
+  - **Digi-Key CORP** (Vendor code 4617)
+  - SKUs: 4672-MHDB9SP-ND; 4672-MHDB9SS-ND *(precision connector/contact pins)*
+  - *Use case: IRAD platform connector assembly/prototype work*
 
-**New April Transactions (IRAD):**
-- **2026-04-22 Purchase #11385** — $508.00
-  - DS-30A-1 White Magnum Drone Strobe
-  - DS-30A-1 Red Magnum Drone Strobe
-  - DS-30A-1 Green Magnum Drone Strobe
-  - *Use case likely related to S0/S3 platform testing or IRAD validation*
-
-- **2026-04-20 Purchase** — $9.99
-  - ACEIRMC 3pcs ADUM1201 Dual Channel isolators
-
-**Also from Matthew Crabtree Bills (IRAD portions):**
-- 2026-04-22 Bill #BST-April2026-1: $2,895.89 [IRAD-Indirect Subcontractor Exp]
-- 2026-04-22 Bill #BST-March2026-2: $4,844.80 [IRAD-Indirect Subcontractor Exp]
-- **Total Crabtree IRAD allocation: $7,740.69** (these are subcontractor expenses, not internal R&D)
-
-**Total IRAD (Internal R&D only): $1,873.59**
+**Total IRAD (Internal R&D): $1,919.72**
 
 ---
 
 ### Business Development/Marketing: $8,487.96
-*(+$637.00 from April 20)*
+*(unchanged from prior period)*
 
 - **Airbotics Talent** (Derek Davis engagement): $3,125.00
 - **Travel for business development**: $1,624.87
 - **Conference materials**: $360.70
 - **Shipments to partners/conventions**: $2,360.87
 - **FAA registration renewal**: $5.00
-- **FAA S3 registration** (USGS Mexico trip):
+- **FAA S3 registration** (USGS Mexico trip): $1,011.52
+
+**Total Business Development/Marketing: $8,487.96**
+
+---
+
+## Purchase Orders
+**Total POs**: $0.00  
+*All procurement tracked as bills and purchases; no outstanding formal POs.*
+
+---
+
+## Monthly Spend by Category
+
+| Month | Direct Labor | Materials | Travel | Rent/Facilities | Fringe/Admin | IRAD | BD/Marketing | **Total** |
+|-------|--------------|-----------|--------|-----------------|--------------|------|--------------|---------|
+| **April 2024** | *baseline* | *baseline* | *baseline* | *baseline* | *baseline* | *baseline* | *baseline* | — |
+| **Feb–Mar 2025** | ~$28,400 | ~$42,100 | ~$1,200 | ~$13,400 | ~$12,800 | ~$285 | ~$400 | ~$98,585 |
+| **Apr–Dec 2025** | ~$186,000 | ~$187,300 | ~$6,850 | ~$95,200 | ~$58,900 | ~$680 | ~$5,200 | ~$540,130 |
+| **Jan–Mar 2026** | ~$128,400 | ~$149,800 | ~$3,100 | ~$56,100 | ~$28,600 | ~$760 | ~$2,450 | ~$369,210 |
+| **Apr 2026 (partial: 4/5–4/24)** | $38,698 | $3,194 | $265 | $13,826 | $534 | $46 | $637 | **$56,999** |
+
+**Burn Rate (April 2026 YTD)**: ~$2,850/day (20-day period)  
+**Trend**: Consistent monthly spend $85K–$98K range through 2025; elevated April 2026 ($57K in 20 days suggests ~$85K monthly run rate if sustained)
+
+---
+
+## Notable Transactions
+
+### **Recent (April 20–24):**
+
+1. **April 22 — Matthew Crabtree Bills** ($38,704.47 combined)
+   - Bill #BST-April2026-1: $14,479.45 (PCB design/labor)
+   - Bill #BST-March2026-2: $4,844.80 (IRAD-Indirect Subcontractor Exp)
+   - *Multiple bills from design consultant with significant IRAD allocation*
+
+2. **April 22 — Rent Payment to W.W. Reynolds** ($13,476.44)
+   - May 2026 rent advance
+   - *Largest recurring monthly expense*
+
+3. **April 22 — Magnum Drone Strobes Purchase** ($508.

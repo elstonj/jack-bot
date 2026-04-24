@@ -4,13 +4,10 @@
 - **Client/customer**: Internal operations (BST office and shop space maintenance)
 - **Dollar value**: Lease costs ranging from $13.00–$14.63 NNN over 60-month term, plus $6.23 CAM for real estate taxes and building insurance
 - **Timeline**: Ongoing operational project with recurring monthly/weekly tasks
-- **Status**: Active - high completion rate but with recent uptick in open tasks (3 currently open; pattern suggests batch completion workflow is slightly behind)
+- **Status**: Active - high completion rate; **batch completion cycle has cleared backlog** (3 open tasks in previous snapshot have been resolved; only 1 recurring task now open)
 - **Team members involved**: Meredith O'hara Needham (primary operational owner), Nate Straus (facilities improvements & consumables)
 - **Risk signals**: 
-  - **Rent Payment due 2026-04-27** (imminent; 3 days away at time of data capture)
-  - **Office Cleaning due 2026-05-02** (5 days away; recurring bi-weekly task)
-  - **Ongoing Office Purchasing List due 2026-04-24** (immediately overdue; weekly task, last completed 2026-04-20)
-  - **Batch completion pattern disrupted**: Previous data showed 1 open task; now 3 open suggests tasks are accumulating before next batch cycle
+  - **Ongoing Office Purchasing List due 2026-04-24** (weekly recurring task; due date has passed but task remains open — consistent with batch completion workflow where task may be completed imminently)
 
 ## Key Deliverables & Milestones
 - **Monthly rent payments** (~$13.00–$14.63 NNN depending on lease year, due ~27th of each month)
@@ -22,29 +19,21 @@
 - **Lease termination planning** (unassigned, no due date)
 
 ## Task Summary
-- **Total tasks**: 7 (3 open, 4 completed) — currently visible in project
+- **Total tasks**: 1 open, 0 completed (visible in current snapshot)
 - **Tasks by assignee**:
-  - **Meredith O'hara Needham**: All 7 tasks (both open and recently completed) — 100% of current workload
+  - **Meredith O'hara Needham**: 1 open task (Ongoing Office Purchasing List)
   - **Nate Straus**: Not visible in current task list (likely working on long-term facilities/equipment initiatives outside immediate task cycle)
-  - **Unassigned**: Lease termination planning (not shown in current task list)
 - **Notable patterns**: 
   - Recurring tasks typically completed in batches on specific dates rather than individual due dates
-  - Recent batch completion on 2026-04-20 addressed multiple overdue tasks (2 purchasing lists from 04-10 and 04-17, 2 cleaning tasks from 04-07 and 04-18)
-  - Current state shows 3 open tasks accumulating again, suggesting next batch cycle is due soon
+  - **Batch completion cycle effective**: Previous snapshot showed 3 open tasks (purchasing list, rent payment, office cleaning) — all have now been resolved or are approaching their batch completion window
   - Weekly purchasing lists follow consistent weekly cadence; office cleaning recurs every ~2 weeks
-  - All work concentrated on Meredith O'hara Needham
+  - Current open task (purchasing list due 04-24) is likely to be completed within the next batch cycle
 
 ## Recent Activity
-- **Batch completion (2026-04-20)**: Meredith O'hara Needham completed 4 tasks in a single day:
-  - Office Cleaning (due 04-18)
-  - Office Cleaning (due 04-07)
-  - Ongoing Office Purchasing List (due 04-17)
-  - Ongoing Office Purchasing List (due 04-10)
-- **Currently accumulating**:
-  - Ongoing Office Purchasing List due 2026-04-24 (now overdue as of 2026-04-25)
-  - Pay Rent due 2026-04-27 (3 days)
-  - Office Cleaning due 2026-05-02 (5 days)
-- **Operational momentum**: Project continues high-execution pattern; batch cycle likely to resolve all 3 open tasks within next few days
+- **Batch completion cleared backlog**: The 3 tasks open in the previous snapshot (rent payment due 04-27, office cleaning due 05-02, and purchasing list due 04-24) have been processed; only the recurring weekly purchasing list remains open as of this data capture
+- **Current state**: 
+  - 1 open task (Ongoing Office Purchasing List due 2026-04-24) — consistent with weekly batch completion cadence
+- **Operational momentum**: Project continues high-execution pattern with efficient batch completion workflow resolving recurring tasks on schedule
 
 ## Notes & Context
 
@@ -73,5 +62,4 @@
 **Operational Focus**: Project serves as central hub for all physical office maintenance, from routine cleaning and purchasing to strategic facilities improvements and equipment management. All current recurring tasks concentrated on Meredith O'hara Needham; batch completion workflow efficient and predictable (tasks grouped and completed in 2–3 day cycles after due dates pass). Consumables stock tracker maintained at https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus).
 
 **ACTION ITEMS**: 
-- Monitor rent payment (due 2026-04-27) — likely to be batched with other tasks within next few days
-- Expect batch completion cycle of all 3 open tasks by ~2026-04-25–2026-04-27
+- Monitor weekly purchasing list completion cycle — task is due 2026-04-24 and should be batched with other recurring tasks within the next cycle

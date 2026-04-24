@@ -1,19 +1,19 @@
 # Jack Elston — Time Tracking
 
 ## Summary
-- Total hours tracked: 12,604.7 hours (cumulative)
-- Primary projects: Project None (7,076.8h), Project 183171534 (2,110.3h), [300-3] 2026 IDIQ (Hurricane) (1,294.1h), Project 154533463 (357.2h), [044-1] EMASS Chip Integration (28.2h)
-- Time period: Extensive historical tracking through current activity (latest batch: 26.0 hours)
+- Total hours tracked: 12,615.9 hours (cumulative)
+- Primary projects: Project None (7,076.8h), Project 183171534 (2,110.3h), [300-3] 2026 IDIQ (Hurricane) (1,294.1h), Project 154533463 (357.2h), [044-1] EMASS Chip Integration (33.0h)
+- Time period: Extensive historical tracking through current activity (latest batch: 11.2 hours)
 
 ## Project Breakdown
 - **Project None**: 7,076.8 hours (56.1% of total)
 - **Project 183171534**: 2,110.3 hours (16.7% of total)
 - **[300-3] 2026 IDIQ (Hurricane) (NOAA)**: 1,294.1 hours (10.3% of total)
 - **Project 154533463**: 357.2 hours (2.8% of total)
-- **[001-13] General Operations (Overhead)**: 189.4 hours (1.5% of total)
-- **[001-13] BD Pipeline (Overhead)**: 122.8 hours (1.0% of total)
+- **[001-13] General Operations (Overhead)**: 196.9 hours (1.6% of total)
 - **Commercial Sales**: 187.3 hours (1.5% of total)
-- **[044-1] EMASS Chip Integration**: 28.2 hours (0.2% of total)
+- **[001-13] BD Pipeline (Overhead)**: 123.8 hours (1.0% of total)
+- **[044-1] EMASS Chip Integration**: 33.0 hours (0.3% of total)
 - **[451-1] INSTAAR S3 x 2**: 6.0 hours (<0.1% of total)
 - **[350-4] 2024 USGS - Chile (Mexico)**: 16.8 hours (0.1% of total)
 - **[001-07] S3 IRAD**: 5.5 hours (<0.1% of total)
@@ -21,29 +21,24 @@
 - **Remaining projects**: 1,204.3 hours (9.6% of total)
 
 ## Recent Activity
-Most recent work (26.0 hours tracked in current batch):
+Most recent work (11.2 hours tracked in current batch):
 
-- **[044-1] EMASS Chip Integration**: 16.2 hours
-  - HWIL (Hardware-in-the-Loop) Debugging: 13.3 hours across 5 sessions (primary focus)
-  - ECSDOT Integration: 1.0 hour
-  - Concentrated effort on hardware integration and testing
+- **[001-13] General Operations**: 5.5 hours
+  - Answering Emails: 5.5 hours across 3 sessions (2.0h, 1.0h, 2.5h)
+  - Significant administrative communication load
 
-- **[451-1] INSTAAR S3 x 2**: 6.0 hours
-  - INSTAAR Flight Test: 5.0 hours (primary activity)
-  - Payload Interface Help: 1.0 hour
-  - Active flight testing phase
-
-- **[001-13] General Operations**: 2.8 hours
-  - Answering Emails: 1.8 hours
-  - BST Internal Update Meeting: 1.0 hour
+- **[044-1] EMASS Chip Integration**: 4.8 hours
+  - HWIL Debugging: 3.8 hours (primary technical focus)
+  - EMASS Update: 1.0 hour
+  - Continued hardware integration iteration
 
 - **[001-13] BD Pipeline**: 1.0 hour
-  - Project Black Swift - Tax Due Diligence Call: 1.0 hour
+  - Black Swift - Issues List: 1.0 hour
 
 ## Patterns
-- **EMASS Chip Integration intensifying**: Now represents 62% of recent tracked hours with dominant focus on HWIL debugging—suggests active hardware validation phase with repeated debugging cycles
-- **Hardware-in-the-Loop consolidation**: Multiple short HWIL debugging sessions indicate iterative problem-solving, typical of hardware integration workflow
-- **INSTAAR S3 flight testing active**: [451-1] INSTAAR S3 x 2 emerging as concurrent project with substantial flight test commitment (5.0h single session), indicating mission-critical operational phase
-- **Shift in technical focus**: Recent work heavily tilted toward hardware integration/debugging rather than software or systems-level work
-- **BD/overhead sustained**: General operations and BD pipeline remain consistent but modest (3.8h combined), maintaining business continuity while core technical work accelerates
-- **Multi-project concurrent work**: Jack actively balancing EMASS chip integration and INSTAAR flight testing in parallel, consistent with established pattern of portfolio management
+- **Administrative overhead increasing**: General Operations now consuming 49% of recent tracked hours (5.5h of 11.2h), primarily email management—suggests elevated communication demands or administrative backlog
+- **EMASS Chip Integration sustained**: Still active with HWIL debugging (3.8h), maintaining focus on hardware validation cycle despite reduced technical allocation this batch
+- **Shift toward operations**: Recent session composition tilted more toward overhead/administrative work compared to previous batch (49% vs ~11%), while technical work remains but at lower intensity
+- **BD Pipeline remains modest**: 1.0h focused on issues list management, consistent with light business development activity
+- **INSTAAR S3 flight testing paused**: No tracked hours this batch, contrasting with previous active flight test phase—may indicate completion of immediate flight test cycle or reassignment of focus
+- **Multi-project portfolio continuing**: Jack managing three active project areas (EMASS, General Ops, BD) with administrative demands now prominent relative to technical work

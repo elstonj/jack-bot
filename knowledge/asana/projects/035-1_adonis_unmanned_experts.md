@@ -21,7 +21,7 @@
 - 4x S0 AD ✓ (delivered Jan 22, 2026)
 
 ## Task Summary
-- **Total Tasks:** 45 completed, 0 open (100% completion rate)
+- **Total Tasks:** 45 completed, 0 open BST tasks (100% completion rate)
 - **Tasks by Assignee:**
   - **Alex Lomis:** 28+ completed tasks (primary technical lead) — hardware design, component mounts, aircraft integration, UMEX hardware integration, flight test coordination, milestone completion
   - **Jack Elston:** 4+ completed tasks — autopilot integration, simulation setup, UMEX hardware bench testing
@@ -59,6 +59,6 @@
 - Priority: Medium
 - Customer Type: Commercial
 
-**Important Note on Final Report:** Per Alex Lomis (2026-04-17): "I don't think we were doing anything for the ADONIS final report. That was just a timeline thing put in there and UMEX is doing it." BST had no responsibility for the final report deliverable; it was handled entirely by UMEX.
+**Final Report Clarification:** Per Alex Lomis (2026-04-17) and confirmed by Jack Elston (2026-04-17) and Daniel Prendergast (2026-04-20): BST had no responsibility for the final report deliverable. UMEX handled the final report completely. The April 2026 timeline for final report was a placeholder; BST's involvement ended with completion of aircraft delivery and flight testing in March 2026.
 
 **Program Performance:** Project successfully transitioned through all six major flight test milestones with minimal delays. All hardware deliverables completed on schedule. **Project is archived and fully closed. Do not include in future briefings or priority lists.**

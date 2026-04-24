@@ -3,7 +3,7 @@
 ## Overview
 - **Client**: Richard Kolyer, NASA Ames Research Center (r.kolyer@nasa.gov, 650-604-5503)
 - **Dollar value**: $3,470.00
-- **Timeline**: October 2024 – March 2025 (original due date: January 31, 2025)
+- **Timeline**: October 2024 – March 2025 (original due date: January 31, 2025; actual completion: March 27, 2025)
 - **Status**: ARCHIVED (completed March 27, 2025)
 - **Team members**: Josh Fromm, Nate Straus, Jack Elston, Meredith O'hara Needham
 - **Risk signals**: None - project completed successfully with all deliverables delivered

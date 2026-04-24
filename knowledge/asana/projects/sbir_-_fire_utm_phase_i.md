@@ -4,7 +4,7 @@
 - **Client/Customer**: NASA SBIR program
 - **Dollar Value**: $56,318 total invoiced ($49,818 + $6,500)
 - **Timeline**: Project started mid-2023, completed February 7, 2024
-- **Status**: **ARCHIVED** — Phase I completed successfully (February 7, 2024). All deliverables closed out; no active tasks.
+- **Status**: **ARCHIVED** — Phase I completed successfully (February 7, 2024). All deliverables closed out; no active tasks. Project is fully wound down with no further activity planned.
 - **Team Members**: Alex Lomis (project lead/coordinator), Jack Elston (hardware/flight operations), Maciej Stachura (algorithms/data processing), Josh Fromm (manufacturing), James (external partner, likely NCAR/RAL)
 - **Key Partners**: NCAR/RAL, Colorado Center of Excellence for Advanced Technology Aerial Firefighting, CALFIRE
 
@@ -49,8 +49,8 @@ The project required extensive regulatory coordination and stakeholder managemen
 ---
 
 ## ⚠️ Related Projects (Not Part of This Archive)
-**Team Feedback (April 17–21, 2026)** indicates separate Navy SBIR and STTR projects are now active:
-- **Navy SBIR Magnetometer**: Kicked off as of April 21, 2026. Kick-off meeting and FWA Certification due April 14, 2026 (managed by Meredith Needham). Technical lead: [U0AQE94HJUT]; supported by other team members listed in Asana. Project brief and kick-off presentation template available in Asana; report templates at https://navysbir.com/links_forms.htm
-- **Navy STTR**: Submitted alongside invoicing (referenced April 17, 2026)
+**Team Feedback (April 2026)** indicates separate Navy SBIR and STTR projects are now active:
+- **Navy SBIR Magnetometer**: Kicked off as of April 21, 2026 (per Maciej, 2026-04-21/22). Kick-off meeting and FWA Certification due April 14, 2026 (managed by Meredith Needham). Technical lead: U058LGYMEQ0; supported by other team members listed in Asana. Project brief, kick-off presentation template, and report templates available in Asana at https://navysbir.com/links_forms.htm
+- **Navy STTR**: Submitted alongside invoicing (per Meredith Needham, 2026-04-17)
 
 These are distinct projects and should be tracked separately from this archived Fire UTM Phase I work.

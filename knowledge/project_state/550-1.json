@@ -17,7 +17,7 @@
     "total_value": 242540.0,
     "start_date": "2026-09-28",
     "end_date": "2026-09-28",
-    "payment_cadence": "monthly milestone-based",
+    "payment_cadence": "monthly",
     "documents": [
       "drive://Statement of Work",
       "drive://CRT-90P Hydrophone User Guide Rev 2.pdf",
@@ -33,19 +33,19 @@
         "amount": 27587.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-04-23"
+        "last_updated": "2026-04-24"
       },
       "purchases": {
         "amount": 0.0,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-04-23"
+        "last_updated": "2026-04-24"
       },
       "other_qbo": {
         "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-04-23"
+        "last_updated": "2026-04-24"
       },
       "total": 27587.5,
       "by_line_item": {}
@@ -53,7 +53,7 @@
     "committed": 185.15,
     "remaining": 214767.35,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-04-23T09:11:52Z"
+    "last_reconciled": "2026-04-24T09:08:59Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -212,6 +212,6 @@
       "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
     }
   ],
-  "last_full_rebuild": "2026-04-23T09:11:52Z",
+  "last_full_rebuild": "2026-04-24T09:08:59Z",
   "last_incremental_update": null
 }

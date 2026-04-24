@@ -29,13 +29,13 @@
         "amount": 2343.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-04-23"
+        "last_updated": "2026-04-24"
       },
       "purchases": {
         "amount": 1374.59,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-04-23"
+        "last_updated": "2026-04-24"
       },
       "other_qbo": {
         "amount": 13476.3,
@@ -49,7 +49,7 @@
     "committed": 999.46,
     "remaining": 71649.9,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-04-23T09:10:31Z"
+    "last_reconciled": "2026-04-24T09:07:40Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -190,6 +190,6 @@
       "text": "From Joshua Fromm (ts=1776453532.191149): it's still not clear to me the extent of ndaa on parts, but the s3 has no electronics that have final assembly in china"
     }
   ],
-  "last_full_rebuild": "2026-04-23T09:10:31Z",
+  "last_full_rebuild": "2026-04-24T09:07:40Z",
   "last_incremental_update": null
 }

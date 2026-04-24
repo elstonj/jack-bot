@@ -4,29 +4,28 @@
 - Client: Overhead
 - Active/inactive status: Active
 - Billable status: No (overhead/internal operations)
-- Total hours tracked: 729.6 hours (696.1 + 33.5)
+- Total hours tracked: 735.6 hours (729.6 + 6.0)
 
 ## Team Allocation
-- Meredith Needham: 641.5 hours (87.9% of tracked time)
+- Meredith Needham: 641.5 hours (87.2% of tracked time)
 - Beck Cotter: 46.3 hours (6.3% of tracked time)
-- Jack Elston: 31.6 hours (4.3% of tracked time)
-- Stachura: 4.8 hours (0.7% of tracked time) — *new team member*
+- Jack Elston: 37.1 hours (5.0% of tracked time)
+- Stachura: 5.3 hours (0.7% of tracked time)
 - Dan: 4.0 hours (0.5% of tracked time)
-- Ethan Domagala: 3.3 hours (0.5% of tracked time)
+- Ethan Domagala: 3.3 hours (0.4% of tracked time)
 - Primary contributor: Meredith Needham
 
 ## Activity Timeline
-Consistent operations work with new team member introduced:
-- **Meredith Needham**: Continued daily "Operations/Admin" work (12.5 hours in this batch), maintaining 1–5+ hour sessions; consistent operational management pattern
-- **Beck Cotter**: 10.3 hours in this batch (mix of 0.5–8.8 hour blocks); undescribed work continues; supporting operations role
-- **Jack Elston**: 2.8 hours (1.8h "Answering Emails", 1.0h "BST Internal Update Meeting"); communications/administrative support
-- **Stachura**: 4.8 hours (new contributor, undescribed work in 0.6–3.3 hour blocks)
-- **Dan & Ethan Domagala**: Minimal involvement (1.0 hour each)
+Consistent operations work with increased email/communications focus:
+- **Meredith Needham**: Continued daily "Operations/Admin" work; sustaining primary operational management role
+- **Jack Elston**: 5.5 hours in this batch (5.5h total in recent entries: 2.0h + 1.0h + 2.5h "Answering Emails"); significant increase in communications/email support activities
+- **Beck Cotter**: No new entries in this batch; continued operational support
+- **Stachura**: 0.5 hours (undescribed work); minimal activity this period
+- **Dan & Ethan Domagala**: No activity in this batch
 
 ## Insights
-- **Primary work type**: General operations and administrative tasks (95%+ of tracked time); email/communications and internal meetings
-- **Team structure evolution**: Stachura introduced as new operations team member (4.8 hours tracked); role and responsibilities not yet documented
-- **Team composition stable otherwise**: Beck Cotter continuing operations support; Jack Elston continuing communications support; core team intact
-- **Specific projects ongoing**: NOAA indirect cost agreements, RFI White Paper, equipment procurement, Black Swift Reps and Warranties (Jack Elston)
-- **Work pattern**: Meredith Needham sustains primary operations management; Beck Cotter and new Stachura providing operational support
-- **Role function**: BST's core operational overhead with expanding team capacity. Meredith remains primary operations manager.
+- **Primary work type**: General operations and administrative tasks; email/communications dominating recent tracked entries (5.5 of 6.0 hours this batch)
+- **Jack Elston role evolution**: Focused increasingly on email/communications support; now tracking 37.1 total hours with substantial portion in answering emails
+- **Stachura integration**: Minimal tracked hours (5.3 total); role and responsibilities still not clearly documented
+- **Work pattern**: Email communications spike in current batch suggests operational correspondence demands; Meredith maintaining core operations oversight
+- **Team capacity**: Meredith remains primary operations manager with Beck Cotter on standby for operational support; Jack Elston positioned as primary communications handler

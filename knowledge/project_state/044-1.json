@@ -26,10 +26,10 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 23333.75,
+        "amount": 23927.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-04-23"
+        "last_updated": "2026-04-24"
       },
       "purchases": {
         "amount": 0.0,
@@ -43,13 +43,13 @@
         "confidence": "exact",
         "last_updated": "2026-04-22"
       },
-      "total": 23380.55,
+      "total": 23974.3,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 66619.45,
+    "remaining": 66025.7,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-04-23T09:10:17Z"
+    "last_reconciled": "2026-04-24T09:07:26Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -106,6 +106,6 @@
       "text": "From Maciej (ts=1776649988.110059): <@U0AQE94HJUT>, we have 4 main technical goals/milestone next week I think:\n1. EMASS flight tests (<@U04CZK4K7P0> , <@U06CCFTNBS6>, and <@U01511MEQ90>)\n2. S0-VTOL restart to find and fix the crash bug (<@U058LGYMEQ0> and <@U014ZL9FLE9>)\n3. S3 work to find the crash bug and flight test on S1-22 and hover test S3 (<@U06NQAYBLRK>, <@U01511MEQ90>, and <@U014U9WMK2A>)\n4. Mustang Progress (<@U06CCFTNBS6> and <@U058LGYMEQ0>)\nThose should all be capture in Asana (I ju"
     }
   ],
-  "last_full_rebuild": "2026-04-23T09:10:17Z",
+  "last_full_rebuild": "2026-04-24T09:07:26Z",
   "last_incremental_update": null
 }

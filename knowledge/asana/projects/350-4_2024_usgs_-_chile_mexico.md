@@ -47,7 +47,7 @@
 
 ## Recent Activity
 - **April 20, 2026 (TEAM CORRECTION — AUTHORITATIVE)**: 
-  - **Jack Elston**: "correction: the mexico deployment has been delayed until the fall. Mexico USGS volcano deployment (350-4) is DELAYED to Fall 2026. Not departing April 20. No flight planning, no shipping, no mission prep imminent. Any Asana tasks referencing an April deployment are stale - ignore them."
+  - **Jack Elston**: "Correction: the Mexico deployment has been delayed until the fall. Mexico USGS volcano deployment (350-4) is DELAYED to Fall 2026. Not departing April 20. No flight planning, no shipping, no mission prep imminent. Any Asana tasks referencing an April deployment are stale - ignore them."
   - **Maciej Stachura (April 17)**: "Mexico is moved to the Fall, so no flight planning happening soon."
   - **Action**: Mission deployment **delayed from April 20, 2026 to Fall 2026**. No flight planning, shipping, or mission prep happening soon. Asana tasks showing April–October 2026 due dates are stale.
 
@@ -67,4 +67,4 @@
   - USGS: Christoph Kern, Kevin Pesola (kpesola@usgs.gov, Vancouver office)
   - BST: Maciej Stachura (lead) — refer to him for Fall 2026 timeline details and task rescheduling
 - **Products/Services**: MHP, survey services, aircraft rental (AV3 — replacement partner search ongoing)
-- **Contract**: 140G0323P0280
+- **Contract**: 140G0323P0
