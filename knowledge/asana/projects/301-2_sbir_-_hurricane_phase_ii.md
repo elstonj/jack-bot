@@ -76,5 +76,5 @@ Final project phase (Aug-Oct 2024) focused on hurricane field operations and sys
 
 **Related Government Initiatives** (April 2026 context):
 - Team monitoring **NASA RFI opportunity** related to hurricane ET (Environmental Tracking) — https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view (flagged by Alex Lomis, 4/20/26; recommended by NASA contacts and Dr. Joe Cione)
-- **Navy STTR**: Submitted with invoice (per Meredith Needham, 4/17/26)
-- **SBIR Magnetometer** (Navy): Kicked off as of 4/21/26; technical lead assigned; FWA Certification and kick-off deliverables (including slidedeck) due 4/14/26 — templates available at https://navysbir.com/links_forms.htm (per Meredith Needham, 4/17/26)
+- **Navy STTR**: Submitted with invoice as of April 17, 2026 (per Meredith Needham, 4/17/26)
+- **SBIR Magnetometer (Navy)**: Kicked off as of April 21, 2026 per Maciej (4/21/26); technical lead assigned; FWA Certification and kick-off deliverables (including slidedeck) due April 14, 2026. Report templates available at https://navysbir.com/links_forms.htm (per Meredith Needham, 4/17/26)

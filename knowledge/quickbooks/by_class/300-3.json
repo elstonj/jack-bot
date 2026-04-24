@@ -1,20 +1,16 @@
 {
   "project_code": "300-3",
   "qbo_class_names": [
-    "[300-3] 2026 IDIQ",
-    "[300] NOAA:[300-3] 2026 IDIQ"
+    "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-04-22",
-    "end": "2026-04-23"
+    "start": "2026-04-23",
+    "end": "2026-04-24"
   },
   "totals": {
     "revenue": 270000.0,
-    "expenses": 25802.32,
-    "by_category": {
-      "DIRECT COSTS:DC-Direct Cost Subcontractors": 20641.86,
-      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 5160.46
-    }
+    "expenses": 0.0,
+    "by_category": {}
   },
   "invoices": [
     {
@@ -110,64 +106,7 @@
       ]
     }
   ],
-  "bills": [
-    {
-      "type": "Bill",
-      "date": "2026-04-22",
-      "doc_number": "BST-April2026-1",
-      "total": 14479.45,
-      "attributed": 9652.97,
-      "vendor": "Matthew Crabtree",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 9652.97,
-          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
-          "description": "Parts and Materials"
-        },
-        {
-          "amount": 1930.59,
-          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
-          "description": ""
-        },
-        {
-          "amount": 2895.89,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Bill",
-      "date": "2026-04-22",
-      "doc_number": "BST-March2026-2",
-      "total": 24224.02,
-      "attributed": 16149.35,
-      "vendor": "Matthew Crabtree",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "March invoice for $48,448.05. Paying second half. Payment complete.",
-      "lines": [
-        {
-          "amount": 16149.35,
-          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
-          "description": "Parts and Materials"
-        },
-        {
-          "amount": 3229.87,
-          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
-          "description": ""
-        },
-        {
-          "amount": 4844.8,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
-          "description": ""
-        }
-      ]
-    }
-  ],
+  "bills": [],
   "purchases": [],
   "purchase_orders": [],
   "payments": []

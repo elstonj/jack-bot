@@ -22,6 +22,7 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 - **March 2024:** COA applications submitted for two 2500' airspace blocks (RC field and Caribou ranch); actual line-of-sight limits altitude to ~1500-2000'
 - **April 2026:** S3 conversion to PWM-only control approved to address motor control issues; S1-VTOL 2030 hardware concurrent testing approved; S10020 firmware update baseline set (build hash: bf20b0b7)
 - **April 20-23, 2026:** S10022 DroneCAN firmware deployment approved and completed; aircraft returned to flight status with nose tape requirement reinforced for airspeed sensor protection
+- **April 23, 2026:** S3-MASS left pivot servo grounding issue resolved with added grounding strap; aircraft approved for flight testing with monitoring contingency
 
 ### Firmware & Code Management
 - **October 2020:** Angle-to-rate loop gains critical safety parameter — develop (8,8,3) vs. master (4,4,1.5) discrepancy required close monitoring
@@ -32,6 +33,12 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 - **April 2026:** S10022 DroneCAN firmware deployment; S10020 updated to latest code with yaw gyro diagnostics required before further flights; S3 firmware issues identified requiring feature branch merge for actuator board fixes
 - **April 20, 2026:** S10022 motor control issue resolved via canard firmware modification to free memory allocation even when system doesn't flag necessity
 - **April 21, 2026:** RTK bug identified in S10022 requiring return to facility; GNSS board orientation critical (perfect square bolt pattern requires correct alignment matching previous flights)
+- **April 23, 2026:** 
+  - S10022 comms firmware updated to latest develop branch (previous version: fd427ad); no watchdog reset (WWDG) detected in logs indicating non-reset source; Jack Elston added extra debugging to catch other reset sources
+  - New S10022 autopilot binary compiled with additional reboot diagnostics; verified with most recent actuator code reflashed
+  - S1-21 (2030 hardware + XTend) build compiled; pushed to develop repository
+  - S3-MASS build standardized using `./make S3` option to ensure all compiler flags included correctly
+  - Identical firmware code across S10022, S1-22, and S1-21 planned for April 24 testing to verify no reset bugs introduced in recent code updates
 
 ### Safety & Flight Operations
 - **February 2021:** RC field hours moved to 9:30 AM start (from 10 AM)
@@ -41,33 +48,18 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 - **April 20, 2026:** S1-22 pre-flight checklist formalized: (1) Manual hover with GPS PDOP <3 verification; (2) Joystick hover with 90° yaw confirmation and full stick forward test; (3) Motor failure contingency protocol — pilot must switch to manual throttle-down immediately if single motor loss detected in forward flight
 - **April 22, 2026:** S1-22 in-flight autopilot reset event occurred during takeoff orbit (5+ min prior to motor failure); AP reset disables engines requiring manual re-enable via tablet or "force flying" button; motor failure mitigation testing resumed with dual logging (flight log + GCS log backup)
 - **April 20, 2026:** Nose tape requirement enforced for S1-VTOL airspeed sensor protection
+- **April 23, 2026:** 
+  - Departure from BST targeted for 8:20 AM to avoid increasing winds
+  - S3-MASS testing protocol established: 30-second joystick hovers with 2-minute rest between flights (vs. 1-minute previously) to manage motor temperature
+  - S1-21 transition testing protocol: ~3 rapid flights per battery over 5 batteries (15 total flights planned) to verify no reset bugs from recent code updates
+
+### Data Logging & Management
+- **April 21, 2026:** Critical protocol established — do NOT rename files on aircraft SD cards post-flight; renaming creates high probability of overwriting existing logs; all file management must occur post-download on ground station; GCS log serves as lower-rate telemetry backup when flight logs are corrupted/incomplete
+- **April 22, 2026:** Tablet logging validated as error detection tool; SYSTEM_POWER_ON events indicate in-flight resets; GCS logs preserve lower-rate flight telemetry when aircraft logs truncate
+- **April 23, 2026:** GCS log retrieval protocol refined — both AP logs reviewed first; if no power-on reset warnings appear in tablet or AP logs, GCS log retrieved as additional diagnostic; no WWDG reset sources detected in S10022 logs requiring further investigation
 
 ### Payload Integration & Testing
 - **July 2020:** S20003 30km comms range test: 20km 900MHz achieved (below 30km requirement) — cable quality issues identified, Pasternack cable needed
 - **2021:** USGS payload specs documented in shared spreadsheet; multiple payload configurations (SMM, trace gas, photogrammetry, CO2, methane) standardized
 - **May 2022:** CO2 payload underslinging considered as fix for moment-of-inertia issues; wind cap 15-20 mph with payload confirmed
-- **August 2022:** LDCR firmware updates and AP telemetry logging verification made mandatory pre-flight
-- **September 2024:** MicaSense Altum camera image failures escalated — image files shared for manufacturer investigation
-- **April 21, 2026:** INSTAAR (Institute for Arctic and Alpine Research, University of Colorado) guest operations conducted; payload data successfully collected despite partial flight log loss
-
-### Data Logging & Management
-- **April 21, 2026:** Critical protocol established — do NOT rename files on aircraft SD cards post-flight; renaming creates high probability of overwriting existing logs; all file management must occur post-download on ground station; GCS log serves as lower-rate telemetry backup when flight logs are corrupted/incomplete
-- **April 22, 2026:** Tablet logging validated as error detection tool; SYSTEM_POWER_ON events indicate in-flight resets; GCS logs preserve lower-rate flight telemetry when aircraft logs truncate
-
----
-
-## Projects & Initiatives
-
-### Active Aircraft Platforms
-
-**S-Series Fixed Wing:**
-- S1 variants (S10005, S10011, S10018, S10019, S10020, S10022, S10023): Primary fixed-wing platform with continuous firmware testing
-  - **S10020 (April 2026):** 5 flights completed; degraded GPS error (yellow) detected during landing orbit despite RTK availability; otherwise flew well; firmware updated to bf20b0b7
-  - **S10021 (April 2026):** XTEND yaw sensitivity issue — yaw gyro (Z-axis) not reporting; mag alignment slow (20+ seconds); diagnostics show mag reading 0.001 gain correct but Z gyro stuck at 0; aircraft grounded pending hardware repair/replacement
-  - **S10022 (April 20-23, 2026):** 
-    - DroneCAN firmware deployment completed (4/20)
-    - Motor control memory allocation issue resolved via canard firmware modification (4/20)
-    - RTK bug identified requiring return to base (4/21)
-    - Repaired and reassembled with reinforced nose tape; weight 3291g with marginal glue addition; ready to return to flight testing (4/22-4/23)
-    - Comms code verified as v3.22; potential XT90 battery connector issue flagged for inspection
-    - In
+- **August 2022:** LDCR firmware updates and AP telemetry logging verification made

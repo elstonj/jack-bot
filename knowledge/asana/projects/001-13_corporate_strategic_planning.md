@@ -6,7 +6,7 @@
 - **Timeline**: No specific dates (ongoing strategic initiatives)
 - **Status**: ARCHIVED (as of June 16, 2024)
 - **Team Members**: BST Whole Team, with primary contributors Jack Elston, Maciej Stachura, Meredith O'Hara Needham
-- **Risk Signals**: Project archived with 1 remaining open task (lease termination planning); multiple major funding proposals (2024-2025) were not funded despite significant effort and dollar values
+- **Risk Signals**: Project archived with 1 remaining open task (lease termination planning); multiple major funding proposals (2024-2025) were not funded despite significant effort and dollar values; Mexico USGS deployment delayed to Fall 2026 (per Jack, Apr 20, 2026); Navy project tasks completed (per Maciej, Apr 17, 2026)
 
 ## Key Deliverables & Milestones
 
@@ -38,7 +38,7 @@
 - **Total Tasks**: 1 open, 154 completed (99.4% completion rate)
 - **Tasks by Assignee**:
   - **Jack Elston**: Strategic leadership, financial planning, business development, website updates, investor relations
-  - **Maciej Stachura**: SBIR proposal management, technical opportunities, proposal submissions (6+ proposals over 2022-2024)
+  - **Maciej Stachura**: SBIR proposal management, technical opportunities, proposal submissions (6+ proposals over 2022-2024); Navy project oversight
   - **Meredith O'Hara Needham**: Administrative support, document collection and organization, LOI/MOU/support letter curation
   - **Unassigned**: Many proposals and strategic initiatives (indicating historical workflow or project evolution)
 - **Notable Patterns**: 
@@ -57,15 +57,20 @@
 - **USDA SBIR submission** (Jul 2024)
 - **NASA Ignite Greenhouse Gas Measurement** (Jul 2024)
 
+### Project Deployments (Apr 2026 Status)
+**Per Jack (Apr 20, 2026)**: Mexico USGS volcano deployment (350-4) is **DELAYED to Fall 2026**. No departure in April 2026. No flight planning, shipping, or mission prep imminent. Any Asana tasks referencing April 2026 dates are stale and should be disregarded.
+
+**Per Maciej (Apr 17 & 20, 2026)**: Navy project tasks are completed. Meeting reminder requested for scheduled date.
+
 ### Outstanding Item
 - **Lease Termination Planning** (Open, unassigned, no due date)
   - Property: 6.23 CAM real estate with property taxes and building insurance
   - 5-year NNN (triple net) cost projection:
-    - Year 1-12 months: $13.00/month
-    - Year 2: $13.39/month
-    - Year 3: $13.79/month
-    - Year 4: $14.21/month
-    - Year 5: $14.63/month
+    - Year 1 (Months 1–12): $13.00/month
+    - Year 2 (Months 13–24): $13.39/month
+    - Year 3 (Months 25–36): $13.79/month
+    - Year 4 (Months 37–48): $14.21/month
+    - Year 5 (Months 49–60): $14.63/month
 
 ## Notes & Context
 
@@ -88,20 +93,18 @@
 - UAS (Uncrewed Aircraft Systems) observations
 - Wind and turbulence guidance systems
 - Geospatial and Earth science integration
+- USGS volcano monitoring (Mexico deployment planned for Fall 2026)
 
 ### Business Model & Operations
 - Primarily government contracts and SBIR funding
 - Moving financial management from spreadsheet-based to QuickBooks
 - Strong proposal development infrastructure (Maciej leads SBIR strategy)
 - Data room maintained for investor/partner access
-
-### Project Deployment Notes (Apr 2026)
-**CORRECTION** — Per Jack (Apr 20, 2026): Mexico USGS volcano deployment (350-4) is **DELAYED to Fall 2026**. No departure in April 2026. No flight planning, shipping, or mission prep imminent. Any Asana tasks referencing April 2026 dates are stale and should be disregarded.
-
-Per Maciej (Apr 17 & 20, 2026): Navy project tasks are completed. Meeting reminder requested for scheduled date.
+- Lease facility cost baseline: ~$13–14.63/month NNN over 5-year period
 
 ### Key Observations
 - **Funding Pipeline Health**: Multiple large proposals ($300K-$896K range) submitted but not funded in 2024-2025; suggests need to refine proposal strategy or expand pipeline diversity
 - **Proposal Cadence**: Regular SBIR submission cycle with strong organizational support (LOIs, MOUs, support letters tracked systematically)
 - **Strategic Maturity**: Well-defined core values, structured marketing goals, and clear customer segmentation indicate developed business strategy
 - **Operational Transition**: Ongoing shift from spreadsheet-based financial management to integrated QuickBooks reporting (Aug 2024 update indicates this was in progress)
+- **Deployment Status**: Mexico USGS volcano project delayed to Fall 2026; Navy project concluded; monitor for stale task references to April 2026 deployment dates

@@ -4,9 +4,9 @@
 - **Client/customer:** Internal BST marketing and business development
 - **Dollar value:** $200K ARR increase target (self-serve team goal)
 - **Timeline:** May 2024 – April 2025; tasks span 2024-05-24 to 2025-03-29, with final completion 2025-04-10
-- **Status:** **ARCHIVED** — All 9 tasks completed (100% completion). Project cycle concluded April 2025.
+- **Status:** **ARCHIVED** — All 9 tasks completed (100% completion). Project cycle concluded April 2025. No longer active.
 - **Team members involved:** Paige Smith, Jack Elston, multiple unassigned contributors
-- **Risk signals:** None — project fully completed
+- **Risk signals:** None — project fully completed and archived
 
 ## Key Deliverables & Milestones
 
@@ -71,5 +71,5 @@ This project successfully established BST's marketing framework, digital infrast
 ---
 
 ## Data Quality Note
-**Team Feedback (April 19–20, 2026) — Not Applicable to This Project:**
-Maciej's feedback regarding EMASS, S0-VTOL, S3, and Mustang work (April 19–20, 2026) pertains to active technical/flight test projects, not this archived marketing goals workflow. No corrections apply to [001-13].
+**Team Feedback (April 19–23, 2026) — Not Applicable to This Project:**
+Maciej's feedback regarding EMASS, S0-VTOL, S3, and Mustang work (April 19–23, 2026) pertains to active technical/flight test projects, not this archived marketing goals workflow. No corrections apply to [001-13].

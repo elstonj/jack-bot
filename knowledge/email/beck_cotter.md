@@ -1,75 +1,74 @@
 # Beck Cotter — Email Patterns (UPDATED)
 
 ## Communication Volume
-- **Total messages scanned: 735** (655 previous + 80 new)
-- **Date range: March 17 – April 23, 2026** (approximately 5.5 weeks)
+- **Total messages scanned: 764** (735 previous + 29 new)
+- **Date range: March 17 – April 24, 2026** (approximately 5.7 weeks)
 - **Approximate daily volume: 16-17 emails per day** (consistent pattern maintained)
-- **New data snapshot (Apr 20-23): 80 messages across 4 days** — sustained high volume; Genesis proposal in final active coordination; multiple concurrent government proposals in motion; critical contract/budget deliverables for BNL; Arctic Demo partnership escalation; new Army SBIR teaming inquiry
+- **New data snapshot (Apr 23-24): 29 messages across 2 days** — sustained high volume; Genesis Phase I final budget deliverables completed; Arctic conditions UAS inquiry escalation; DoW SBIR/STTR authorization tracking; NASA SBIR Phase II amendment activity; multiple government webinar registrations
 
 ## Key Correspondents
 
 ### Top Internal BST Contacts (updated)
-- **Jack Elston** (CEO) — strategic escalation, cross-team coordination, **Arctic Demo partnership lead** (Apr 20 cascade of Arctic Demo emails)
-- **Maciej Stachura** — **CRITICALLY ACTIVE** (Apr 20-23: Genesis coordination, Army SBIR teaming discussion, Amprius cells inquiry, Arctic Demo coordination) — technical lead on multiple fronts
-- **Daniel Prendergast** — **ELEVATED ACTIVITY** (Apr 20-23: Arctic Demo coordination, Navy BAA N68335 attritable UAS proposal, NOAA IDIQ questions, teaming discussions) — partnership and proposal management
-- Meredith Needham — **SUSTAINED CRITICAL** (Apr 20-23: NOAA IDIQ compliance, contract modifications, Arctic Demo escalation) — contracts and compliance focal point
-- Nathaniel Straus — product inquiry routing, Asana coordination
-- Ethan Domagala — **NEW SIGNAL** (Apr 22: M2 Fuselage Design Considerations thread with ByLight) — design/technical collaboration
+- **Jack Elston** (CEO) — strategic escalation, cross-team coordination, **Genesis Phase I final coordination**, webinar distribution, NASA SBIR Phase II updates, government inquiry routing
+- **Maciej Stachura** — **CRITICALLY ACTIVE** (Apr 23: DoW SBIR/STTR authorization discussion with Jack; Arctic conditions UAS inquiry to NCAS; continued technical coordination) — technical lead on multiple fronts
+- **Daniel Prendergast** — **ELEVATED ACTIVITY** (Apr 23: webinar distribution; government proposal coordination) — partnership and proposal management
+- **Ethan Domagala** — M2 Fuselage Design continued collaboration with ByLight (Apr 23)
+- Meredith Needham — contracts and compliance coordination (prior period sustained)
+- Nathaniel Straus — product inquiry routing (prior period)
 
-### Top External Contacts (updated Apr 20-23)
+### Top External Contacts (updated Apr 23-24)
 
 **🔴 CRITICAL FOCUS — Brookhaven National Lab (BNL) — DOE Genesis Phase I:**
-- **Gijs de Boer** (gdeboer@bnl.gov) — **EXTREMELY ACTIVE/SUSTAINED** (Apr 20-21: 6+ Google Docs comment notifications on Genesis Phase I Draft; Apr 21: PIMS 8105 budget/R&R form coordination; real-time proposal finalization)
-- **Erica Manfredi** (emanfredi@bnl.gov) — **NEWLY PROMINENT** (Apr 20-21: PIMS 8105 R&R Form administrative lead; budget deliverables, multiple escalation threads) — BNL administrative/grants coordinator
-- **Fernando Llorente** (fllorente@bnl.gov) — **ACTIVE** (Apr 20-22: multiple Genesis Phase I Draft Google Docs comments; Apr 21: team coordination email) — Genesis content contributor
-- Nathan Urban — collaborative proposal work (from previous period)
+- **Gijs de Boer** (gdeboer@bnl.gov) — **EXTREMELY ACTIVE/SUSTAINED** (Apr 23: PIMS 8105 final budget deliverables coordination; Genesis Phase I planning meeting follow-up; Apr 23 14:30-14:40 UTC dual response threads on planning invitation) — critical proposal lead
+- **Nathan Urban** (nurban@bnl.gov) — **ELEVATED/NEW CRITICAL** (Apr 23: 3 IMPORTANT emails on Genesis Phase I planning meeting; Google Docs comment notification on draft explaining project intent) — BNL technical/scientific lead
+- **Erica Manfredi** (emanfredi@bnl.gov) — BNL administrative lead (prior period sustained)
+- **Fernando Llorente** (fllorente@bnl.gov) — Genesis content contributor (prior period)
 
-**🔴 CRITICAL FOCUS — Navy SBIR/BAA & Army Teaming:**
-- **Marc A. Concilio** (marc.a.concilio.civ@us.navy.mil) — **NEW CRITICAL CONTACT** (Apr 20: receives Fwd: BAA N68335-26-R-0458 attritable UAS BAA; IMPORTANT escalation) — Navy technical contact/reviewer
-- **Truman B. Harris**, **Robert A. Megill**, **Kyle J. Perry** (us.navy.mil) — **NEW CRITICAL CONTACTS** (Apr 20: initial BAA N68335 distribution; Navy program managers)
-- **Arthur Shune** (arthur@skymesasystems.com) — **NEW CRITICAL CONTACT** (Apr 21: "Possible teaming fit on Army modular UAS payload SBIR"; IMPORTANT thread; multiple responses) — potential Army SBIR teaming partner
-- **Pete Torrione** (pete@covar.com) — **NEW SIGNAL** (Apr 20: Navy BAA discussion; potential teaming partner)
+**🔴 CRITICAL FOCUS — Government Proposals & Program Coordination:**
+- **Sarah Barr** (sarah.barr@ncas.ac.uk) — **NEW CRITICAL INQUIRY** (Apr 23 14:40 UTC: "Inquiry about UAS for arctic conditions" — IMPORTANT; forwarded by Maciej to Jack/Beck/Daniel Apr 23 11:04 UTC; international research partnership signal) — UK research/arctic capability inquiry
+- **Bassil El Masri** (belmasri@murraystate.edu) — **ACTIVE RESEARCH COLLABORATION** (Apr 23: "Black Swift/Flight #3" — IMPORTANT; test/flight coordination; Beck initiated contact Apr 23 10:58 UTC) — university flight test partner
 
-**🟡 EMERGING — Arctic Demo/NextTech/Krateo Sky Partnership:**
-- **Trenton McKibben** (Trenton.McKibben@nextechsol.com) — Arctic Demo coordination (Apr 20)
-- **Bob Smith** (Bob@krateosky.com) — **ESCALATED ENGAGEMENT** (Apr 20: receives full BST leadership/team on Arctic Demo in Ottawa thread; IMPORTANT)
-- **Lisa Marie Cheney** (LisaMarie@krateosky.com) — **ESCALATED ENGAGEMENT** (Apr 20: Arctic Demo partnership coordination; IMPORTANT)
-- **Adria Passola** (a@krateosky.com) — partnership escalation (Apr 20)
+**🟡 EMERGING — DoW SBIR/STTR Program Tracking:**
+- Maciej flagged **"ATTENTION: DoW SBIR/STTR Authorization and Topic Release!"** (Apr 23 13:45 UTC; marked IMPORTANT) — Department of War SBIR/STTR program tracking active
 
-**🟡 CRITICAL GOVERNMENT COORDINATION:**
-- **Amy McLiverty** (amy.l.mcliverty@noaa.gov) — **VERY ACTIVE** (Apr 20-21: NOAA IDIQ compliance questions; multiple rapid-response coordination with Meredith Needham; escalation to Jack/Beck; IMPORTANT repeated) — NOAA federal contact
-- **Christopher E. Hartman** (chartman@umes.edu) — **NEW CONTACT** (Apr 21: "Black Swift Update"; IMPORTANT) — potentially academic/research coordination
+**🟡 GOVERNMENT/RESEARCH WEBINAR ACTIVITY:**
+- **Army Applications Laboratory** (info@aal.army) — "Webinar: Modular Payloads for UAS" promotion (Apr 23 10:43 UTC)
+- **NASA SBIR/STTR Program** (proposals@blackswifttech.com) — **"2025 SBIR Phase II Solicitation Amendment"** (Apr 23 10:40 UTC; IMPORTANT; CATEGORY_FORUMS) — active NASA solicitation monitoring
 
-**🟢 RESEARCH/ACADEMIC PARTNERSHIPS:**
-- **Tanay Topac** (tanaytopac@stanford.edu) — Stanford SACL S2 Avionics timestamp coordination (Apr 20; escalated with Jack Elston)
+**🟢 CHRISTOPHER E. HARTMAN (chartman@umes.edu):**
+- **SUSTAINED ENGAGEMENT** (Apr 23 02:30 UTC: Jack responds to "Black Swift Update"; flagged IMPORTANT) — academic/research coordination (continued from prior period)
 
-**🟢 PRODUCT/SERVICES INQUIRIES (new Apr 20-23):**
-- **Abdullah Hassan** (abdullah@kurnalabs.com) — footage data question
-- **Jaehyeon Lee** (via info@) — SwiftFlow Multi-Hole Probe inquiry
-- **Beverly Mhay Quinto** (bev.defenseexpophl@gmail.com) — Drone Warfare Summit 2027 invitation
-- **Sabu Best** (sabu.best@barbados.gov.bb) — quick visit coordination (Apr 21)
+**🟢 PRODUCT/SERVICES INQUIRIES (sustained Apr 23-24):**
+- **Jaehyeon Lee** (dooly_vader@berkeley.edu) — SwiftFlow Multi-Hole Probe inquiry (Jack response Apr 23 02:42 UTC; IMPORTANT)
+- **Abdullah Hassan** (kurnalabs.com) — footage data inquiry (prior period)
+- **Beverly Mhay Quinto** (bev.defenseexpophl@gmail.com) — Drone Warfare Summit 2027 (prior period)
 
-**🟢 SUSTAINED EXTERNAL:**
-- Paul DeMond (Paul.DeMond@umaritime.com) — N251-016 Phase II status (Apr 20; IMPORTANT)
-- Ed Kase (ed.kase@ekaseconsulting.com) — NASA Phase II consultant (Apr 20; IMPORTANT)
-- Adam Craft (adam.c@ampriuscells.com) — **NEW SUPPLIER CONTACT** (Apr 22: Amprius cells inquiry; IMPORTANT; Maciej is lead) — battery cell technology vendor
-- Nanditha (Atomgeo Pvt.Ltd.) — collaboration exploration (Apr 22; international contact)
+**🟡 AUTOMATED/NEWSLETTER SUBSCRIPTIONS (Apr 23-24):**
+- **UASweekly.com** (newsletter@uasweekly.com) — "UASweekly Daily Newsletter" (Apr 23 21:02 UTC; routed to info@blackswifttech.com)
+- **OST Global Solutions, Inc.** (info@blackswifttech.com) — "Webinar Recap: Live Capture Teardown Using AI — CenTAM Opportunity" (Apr 23 20:00 UTC; UNREAD)
+- **ChatGPT** (noreply@email.openai.com) — "Studio ready, from a selfie" (Apr 23 22:59 UTC; UNREAD; personal AI tool subscription)
+- **Eventbrite** (marketing@plans.eventbrite.com) — event promotion (Apr 24 03:09 UTC)
+- **SCORE Mentors** (marketing@score.org) — "National Small Business Week Learning Lab" (Apr 23 13:46 UTC)
+- **U.S. Patent and Trademark Office** (subscriptioncenter@subscriptions.uspto.gov) — USPTO Hour event invitation (Apr 23 17:10 UTC)
+- **XBW Lithium Battery REvolution** (info@xbw.it) — battery design inquiry (Apr 24 08:12 UTC; Italian language; routed to info@)
+
+**🟢 RESEARCH PARTNER — PRIOR SUSTAINED:**
+- Tanay Topac (Stanford) — SACL S2 Avionics (prior period)
+- Paul DeMond (Maritime) — N251-016 Phase II (prior period)
+- Ed Kase (Ekase Consulting) — NASA Phase II consultant (prior period)
+- Adam Craft (Amprius) — battery cell technology (prior period)
 
 ## Topic Patterns
 
 **🔴 CRITICAL/ACTIVE — HIGHEST PRIORITY:**
 
-### **DOE Genesis Phase I Proposal — FINAL PUSH PHASE**
-- **Apr 20-21: Intensive Google Docs collaboration** — 5+ comment notifications from Gijs de Boer, Fernando Llorente, and generic Google Docs on "Genesis Mission_Phase I DRAFT"
-  - Apr 20 10:44 UTC: Generic comment notification
-  - Apr 20 10:49 UTC: Fernando Llorente suggests keeping summary broad
-  - Apr 20 11:07 UTC: Generic comment (text changes)
-  - Apr 20 13:20 UTC: Gijs de Boer adds BNL Letter; PDF availability pending
-  - Apr 20 14:07 UTC: Fernando Llorente adds AI novella content suggestion
-  - Apr 20 14:22 UTC: Gijs de Boer removes original text; past content note
-  - Apr 20 15:13 UTC: Fernando Llorente comment on revised draft
-  - Apr 22 06:20 UTC: Fernando Llorente final comment on Phase I DRAFT
-- **Apr 21: Administrative/Budget Finalization**
-  - Apr 21 08:20-14:40 UTC: PIMS 8105 R&R Form coordination between Beck, Erica Manfredi, Gijs de Boer (4+ exchanges; IMPORTANT)
-  - Apr 21 14:07 UTC: Jack Elston to Beck/Meredith: "Fwd: Completed: Modification Enclosed" (IMPORTANT) — likely contract modification
-  - Apr
+### **DOE Genesis Phase I Proposal — FINALIZATION COMPLETE (Apr 23)**
+- **Apr 23: Final Budget Deliverables & PIMS 8105 Closure**
+  - Apr 23 10:58 UTC: Beck to Gijs de Boer — **"Re: PIMS 8105 - Final Budget Deliverables"** (completion confirmation)
+  - Apr 23 16:31 UTC: Gijs de Boer to Beck — acknowledges final budget submission
+  - Apr 23 14:30-14:40 UTC: **Genesis Phase I Planning Meeting Follow-up** — Gijs de Boer & Nathan Urban exchanging responses on Apr 2 planning meeting invitation (post-meeting administrative coordination)
+  - Apr 23 07:20 UTC: Nathan Urban Google Docs comment on "Genesis Mission_P..." draft (approximately 1 page explanation section — final review phase)
+
+### **🟡 NEW/EMERGING — Arctic Conditions UAS Capability Inquiry**
+- **Apr 23 14:40 UTC: Sarah Barr (NCAS, UK)** — **"Inquiry about UAS for arctic conditions"** (IMPORTANT; CATEGORY_FORUMS)
+  - **Apr 23 11:04 UTC: Beck forwards to Daniel Prendergast, Jack Elston, Maciej

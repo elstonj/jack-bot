@@ -101,19 +101,20 @@
 ---
 
 ## Open Items
-**1 Open Task (Administrative):**
-- Contact information record for Matthew Fladeland (NASA) — data entry for NASA Ames Technology Transfer Office contact. No due date; administrative artifact post-closure.
+
+**1 Administrative Data Entry Task (No Due Date):**
+- Matthew Fladeland contact information record — data entry for NASA Ames Technology Transfer Office contact details (address: MS 202A-3 Moffett Field, CA 94035-1000). Created post-closure for reference purposes.
 
 ---
 
-## Follow-Up Opportunities (April 2026)
+## Follow-On Opportunities (April 2026)
 
 **NASA Hurricane Earth Observation RFI:**
-- **Source:** NASA contacts + Joe (external stakeholder) recommendation during hurricane ET call
-- **Alert Date:** Alex Lomis flagged on 04/17–04/20/26
+- **Source:** NASA contacts + external stakeholder "Joe" recommendation during hurricane ET call
+- **Alert Date:** Alex Lomis flagged on 04/17/26
 - **Status:** RFI available on SAM.gov for review
 - **Link:** https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
-- **Competing Opportunities:** INSTAAR x2 demonstrations and Ottawa/Murphy's demonstration (per Jack Elston, 04/20/26)
+- **Competing Internal Opportunities:** INSTAAR (2 demonstrations) and Ottawa/Murphy's demonstration (per Jack Elston, 04/20/26)
 - **Next Steps:** Coordinate with Jack Elston and leadership on proposal strategy and scheduling
 
 ---

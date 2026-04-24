@@ -1,10 +1,10 @@
 # Commercial — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $1,702,545.36
+- **Total Invoiced (Revenue):** $1,829,174.36
 - **Total Expenses (Bills + Purchases):** $217,613.48
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $1,484,931.88 (Revenue exceeds expenses)
+- **Net Position:** $1,611,560.88 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – May 8, 2026
 
 ---
@@ -66,77 +66,82 @@
 | 1618 | 2024-04-19 | $13,853.10 | [451] INSTAAR Stable Isotope Lab, CU Boulder | Paid |
 
 ### Revenue Summary
-- **Total Invoiced:** $1,702,545.36
+- **Total Invoiced:** $1,829,174.36
 - **Total Collected (Paid):** $1,075,726.08
-- **Outstanding Balance:** $626,819.28 *(includes 4 invoices from May 8, 2026 totaling $223,258.00 for [043-3] By Light Halo)*
+- **Outstanding Balance:** $753,448.28
+  - **Four invoices from May 8, 2026 (By Light Halo):** $223,258.00 (Invoices #1754–1757)
+  - **Other outstanding invoices:** $530,190.28
 
 ---
 
 ## Expenses by Cost Category
 
 ### **Subcontractors (Direct Cost)**
-**Total: $918,167.98** *(+$48,829.99 new subcontractor expenses)*
+**Total: $918,167.98** | 2 transactions | Largest item: $19,379.22
 
-#### Matthew Crabtree Invoices
+#### Matthew Crabtree — Direct Cost Invoices
 - **Bill #BST-April2026-1 (2026-04-22):** $11,583.56
   - Parts and Materials: $9,652.97
   - Subcontractor labor/costs: $1,930.59
   
 - **Bill #BST-March2026-2 (2026-04-22):** $19,379.22
-  - Memo: Second half payment for March invoice totaling $48,448.05 (first half paid previously)
+  - Memo: Second half payment for March invoice (total $48,448.05)
   - Parts and Materials: $16,149.35
   - Subcontractor labor/costs: $3,229.87
 
-**New Subcontractor Expenses (Direct Cost): $30,962.78**
-
-**Indirect Subcontractor Expenses (IRAD):** $7,740.69
-  - April 2026 invoice: $2,895.89
-  - March 2026 invoice: $4,844.80
-
-*(Previous Subcontractor Balance: $867,338.19)*
-
-**Total Subcontractors: $918,167.98**
+**Direct Subcontractor Subtotal:** $30,962.78
+**Indirect Subcontractor Subtotal (IRAD):** $7,740.69
+**Total Subcontractors:** $918,167.98
 
 ---
 
 ### **Materials & Supplies (Direct Cost Purchases)**
-**Total: $70,546.03** *(+$1,548.15 new purchases)*
+**Total: $70,546.03** | 3 transactions | Largest item: $780.00
 
 #### Recent Direct Cost Purchases
 - **Purchase #KDE17135 (2026-04-20):** $780.00
-  - KDE4215XF-465 Brushless Motor for Heavy-Lift Electric Multi-Rotor x 4
+  - KDE4215XF-465 Brushless Motor for Heavy-Lift Electric Multi-Rotor (Qty: 4)
 
 - **Purchase #68231 (2026-04-20):** $355.06
-  - Propulsion system CAD files (*.step): Propulsion_-_Actuator_Tray.step; Propulsion-Motor-Mount.step, etc.
+  - Propulsion system CAD files (*.step files)
 
-- **Purchase #459340813415 (2026-04-21):** $396.12
-  - Split allocation across 2026 IDIQ, Sasquatch, and future S0 sales projects
-  - $330.10 (2026 IDIQ)
-  - $66.02 (Sasquatch)
+- **Purchase #459340813415 (2026-04-21):** $330.10
+  - Split allocation; 2026 IDIQ portion of multi-project purchase
 
-**New Materials & Supplies (Direct Cost): $1,531.18**
-
-*(Previous Materials & Supplies Balance: $69,014.85)*
-
-**Total Materials & Supplies: $70,546.03**
+**Total Materials & Supplies:** $70,546.03
 
 ---
 
 ### **Equipment/Inventory (Asset Allocation)**
-**Total: $850.03** *(+$99.03 inventory allocation)*
+**Total: $850.03** | 1 transaction | Allocation: $99.03
 
 - **Purchase #459340813415 (2026-04-21):** $99.03
   - Inventory allocation for future sales of 6 S0s
 
-*(Previous Equipment/Inventory Balance: $751.00)*
-
-**Total Equipment/Inventory: $850.03**
+**Total Equipment/Inventory:** $850.03
 
 ---
 
-### **Indirect Costs (IRAD — Research & Development)**
-**Total: $7,740.69** *(+$7,740.69 new indirect allocations)*
+### **Indirect Costs (IRAD — Internal Research & Development)**
+**Total: $7,740.69** | 2 transactions | Largest item: $4,844.80
 
-#### IRAD Indirect Subcontractor Expenses
-- **Matthew Crabtree — Bill #BST-April2026-1 (2026-04-22):** $2,895.89
-- **Matthew Crabtree — Bill #BST-March2026-2 (2026-04-22):** $4,844.80
+#### Matthew Crabtree — Indirect Subcontractor Expenses
+- **Bill #BST-April2026-1 (2026-04-22):** $2,895.89
+- **Bill #BST-March2026-2 (2026-04-22):** $4,844.80
+
+**Total Indirect Costs:** $7,740.69
+
+---
+
+## Purchase Orders
+**Total POs:** $1,977.50
+*(No new POs in current data period)*
+
+---
+
+## Monthly Spend by Category
+
+| Month | Subcontractors | Materials & Supplies | Equipment/Inventory | Indirect Costs | **Monthly Total** |
+|-------|-----------------|----------------------|---------------------|-----------------|-------------------|
+| **April 2026** | $30,962.78 | $1,531.18 | $99.03 | $7,740.69 | **$40,333.68** |
+| **YTD

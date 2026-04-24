@@ -1,34 +1,21 @@
 {
   "period": {
-    "start": "2026-04-22",
-    "end": "2026-04-23"
+    "start": "2026-04-23",
+    "end": "2026-04-24"
   },
-  "scanned_at": "2026-04-23",
+  "scanned_at": "2026-04-24",
   "projects": [
     {
-      "project_code": "001-7",
+      "project_code": "001-1",
       "revenue": 0.0,
-      "expenses": 508.0,
+      "expenses": 46.13,
       "invoice_count": 0,
       "bill_count": 0,
       "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "(001-7) IRAD - S3"
-      ]
-    },
-    {
-      "project_code": "032-3",
-      "revenue": 0.0,
-      "expenses": 5160.46,
-      "invoice_count": 0,
-      "bill_count": 2,
-      "purchase_count": 0,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "[032] University of Notre Dame:[032-3] Sasquatch S0s x 4"
+        "(001-1) IRAD- General"
       ]
     },
     {
@@ -47,15 +34,14 @@
     {
       "project_code": "300-3",
       "revenue": 270000.0,
-      "expenses": 25802.32,
+      "expenses": 0.0,
       "invoice_count": 4,
-      "bill_count": 2,
+      "bill_count": 0,
       "purchase_count": 0,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "[300-3] 2026 IDIQ",
-        "[300] NOAA:[300-3] 2026 IDIQ"
+        "[300-3] 2026 IDIQ"
       ]
     },
     {
@@ -69,19 +55,6 @@
       "payment_count": 0,
       "qbo_class_names": [
         "[550-1] Navy SBIR Magnetometer"
-      ]
-    },
-    {
-      "project_code": "_unclassified",
-      "revenue": 0.0,
-      "expenses": 21237.13,
-      "invoice_count": 0,
-      "bill_count": 3,
-      "purchase_count": 1,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        ""
       ]
     }
   ]

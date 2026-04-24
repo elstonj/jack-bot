@@ -12,7 +12,7 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Sergio Ruocco (eMASS AI) - Autoboot firmware expert, SDK bring-up and troubleshooting
 - Shantanu (eMASS AI) - Hardware verification and validation
 
-**Activity Level:** Highly active collaboration spanning February-April 2026. Intensive HWIL and model training in March-April. Most recent activity (Apr 20-23, 2026) focused on connection stability debugging, packet rate corrections, and actuator communication verification. Daily communication during critical phases.
+**Activity Level:** Highly active collaboration spanning February-April 2026. Intensive HWIL and model training in March-April. Most recent activity (Apr 20-23, 2026) focused on connection stability debugging, packet rate corrections, control mode implementation, and actuator communication verification. Daily communication during critical phases.
 
 ---
 
@@ -63,21 +63,31 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Root cause was bench test code using different function calls than gazebo_hwil and droneapp
 - Fix applied across all three application binaries (bench test, droneapp, gazebo-hwil)
 
+**External Control Mode Implementation (Apr 23, 2026)**
+- Jack Elston identified critical missing control mode configuration: ECSDoT chip must request and operate in "external" control modes
+- **Decision: Implement dual control mode commands:**
+  - Request external control: Set `CMD_ALT_MODE` and `CMD_LAT_MODE` to `ALT_MODE_EXTERNAL` and `LAT_MODE_EXTERNAL` respectively
+  - Only send actuator packets after autopilot confirms mode change to external
+  - Relinquish control on shutdown: Set modes back to `ALT_MODE_RATE` and `LAT_MODE_AUTO`
+- Rationale: Autopilot "steps aside" only when explicitly told to operate in external mode; prevents conflicting control signals
+- Status: Verified working - "if I send those commands, I'm seeing your hardware take over control" (Jack Elston, Apr 23 12:41)
+
 ---
 
 ## Projects & Initiatives
 
 ### ECSDoT Integration onto E2 Aircraft
-**Status:** Critical packet transmission issues identified; actuator packets not reaching outputs; testing phase ongoing (as of Apr 23, 2026)
+**Status:** Near-complete payload integration with control handoff verified; pending final flight test (targeted for Apr 24, 2026). Primary issue resolved with external control mode implementation; baud rate limitation (64 Hz actuator packet rate) identified as possible baud constraint.
 
 **Scope:** Integrating eMASS AI's ECSDoT energy management chip onto BST's E2 multirotor UAS for final flight testing.
 
 **Components:**
-- UART communication interface (/dev/ttyUSB0) between autopilot and ECSDoT chip
+- UART communication interface (/dev/ttyUSB0) between autopilot and ECSDoT chip at 460800 baud
 - Telemetry reception → AI inference → PWM actuator output pipeline
 - Integration with SwiftPilot autopilot (pro_core_swil_MULTIROTOR)
 - Payload protocol implementation over port 55551 with GCS control via port 55555
 - 5-to-3.3V level shifter powered from J18 pin #1
+- External control mode signaling for safe handoff between autopilot and ECSDoT chip
 
 **Progress Timeline (Apr 8-23, 2026):**
 
@@ -98,21 +108,8 @@ This channel serves as the primary collaboration hub between Black Swift Technol
     5. Chip can request `ACTIVE` control only after `READY` received
     6. Send actuator packets only after autopilot confirms running state
   - Resolved heartbeat timeout issue (reduced from higher interval to 0.2s per Jack's guidance)
-  - Fixed UART receive buffer blocking issue that prevented heartbeats during `PAYLOAD_WAITING` state (Apr 3:13 AM)
+  - Fixed UART receive buffer blocking issue that prevented heartbeats during `PAYLOAD_WAITING` state
 
 - **AI Model Performance Issues (Apr 14-16):**
   - Model inference producing 4% rate of actuator values that exceed autopilot safety limits (80 violations per 2000 inferences)
   - SHUTDOWN events occurring when AI output exceeds vrate limit (e.g., vrate = 3.01 when max is 3.0)
-  - After SHUTDOWN, tablet must resend `READY` command to reconnect
-  - Initiated model retraining for stricter adherence to safety constraints
-
-- **Connection Stability & Event System Refactoring (Apr 19-20):**
-  - **Initial Problem:** Sporadic reconnection looping in bench test app, gazebo-hwil-sim-only, and droneapp
-  - **Root Cause Identified:** Event system API usage differences between bench test code and other applications
-  - **Solution:** Nikhila refactored event system to use consistent API functions across all three binaries (Apr 20 08:38)
-  - **Result:** Reconnection looping eliminated from gazebo-hwil and droneapp; slow reconnecting loop isolated to bench test app (Apr 20 11:46)
-  - **Final Fix:** Applied same event system corrections to bench test app; looping should be resolved (Apr 20)
-
-- **Picocom Interference Phenomenon (Apr 21 08:29):**
-  - Discovered unusual behavior: Sometimes no autopilot connection despite chip LEDs blinking and app running
-  - When picocom monitoring is started at 

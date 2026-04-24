@@ -63,6 +63,13 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Recommendation: Politely decline unless customer insists; if they do insist, may cannibalize parts from existing BST setup but flagged as "huge headache"
 - Reasoning: Iridium capability is a legacy/one-off feature reviving obsolete components; not worth production effort
 
+**E2 Battery Allocation for EMASS Project (April 2026)**
+- Jack Elston proposed offering one of BST's nicest E2 batteries to Dan Prendergast's group (NASA/EMASS project)
+- Rationale: Company has excess E2 batteries; no major flight campaigns planned for E2 (previously needed for Crested Butte SMM operations); would save manufacturing time
+- Pricing: Not full price, discounted to recover some costs while primarily saving internal labor
+- Dan Prendergast requested keeping 4 E2 batteries reserved until after EMASS completion (April 21, 2026)
+- Maciej Tromba approved proposal (April 2026)
+
 ### Gimbal & Camera Decisions
 
 **Gimbal Lens Compatibility Testing (January 2021-2022)**
@@ -126,19 +133,4 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Joshua Fromm advocated for larger carbon tube due to: increased length needed, current tube too small for hoses/causes static port clogs, brittle at step-down, time-consuming potting
 - Concerns about manufacturing precision without proper equipment
 - Resolution: Order housing from external supplier (MM Solutions to machine tubes properly)
-- Later decision (October 2021): Order 2 more avionics bays once Joshua satisfied with arrangement
-
-### GCS & Tablet Decisions
-
-**Tablet Updates (2024)**
-- Update to Tab Active 5 (WiFi) for S2 deliveries
-- New PingRX Pro ADS-B selected (old one unavailable)
-
-**GCS Production (2024)**
-- Building 3 additional GCS units (Nate assigned)
-- Allocation: Barbados 1, ERAU 1 (second unit), ADONIS 1, Oklahoma likely needs 2-3
-- No Xtend GCS available; would need to build one for potential S1 customer
-
-### Composite Sourcing Strategy
-
-**Multi-Vendor
+- Later decision (October 2021

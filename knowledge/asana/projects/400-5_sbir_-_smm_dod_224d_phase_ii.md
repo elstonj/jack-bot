@@ -34,7 +34,7 @@ Development and validation of a UAS-based L-band radiometer for mapping soil int
   - **Jack Elston:** FAA medical certifications
 - **Notable patterns:** Heavy emphasis on testing and validation; OMS payments tracked as separate subtasks; dual invoicing tracking (BST invoices to Air Force, OMS payments from BST)
 
-## Recent Activity (2025)
+## Recent Activity (2025–2026)
 - **2025-11-19:** Final OMS payment ($24,200) completed
 - **2025-09-16:** Final Report approved by TPOC
 - **2025-08-26:** Invoice acceptance confirmed
@@ -42,6 +42,7 @@ Development and validation of a UAS-based L-band radiometer for mapping soil int
 - **2025-07-21:** Final Report submitted to Air Force; Milestone 8 deliverable meeting completed
 - **2025-06-27 to 2025-07-09:** Tyndall AFB testing campaign completed; data validation and quantitative analysis finished
 - **2025-03-05:** Local field testing milestone completed (Milestone 5)
+- **2026-04-17:** Navy STTR submitted along with invoice (Meredith Needham). Project templates and kick-off slidedeck deliverable references located in Project Brief in Asana. Report templates available at [navysbir.com/links_forms.htm](https://navysbir.com/links_forms.htm)
 
 ## Notes & Context
 - **Contract number:** FA864924P0003
@@ -55,4 +56,4 @@ Development and validation of a UAS-based L-band radiometer for mapping soil int
 - **OMS collaboration:** Subcontractor handled radiometer hardware ($605,000); BST managed integration, testing, and algorithm development
 - **Deliverable #5 note:** Submitted Dec 11, 2024 for $100,000; invoicing and approval process tracked through Mar 2025
 - **Compliance:** All SBIR/STTR lifecycle certifications completed; team medical certifications obtained for flight operations
-- **Report templates:** Navy SBIR guidance and templates available at [navysbir.com/links_forms.htm](https://navysbir.com/links_forms.htm) per Meredith Needham (2026-04-17)
+- **Related projects:** Navy SBIR Magnetometer project has kicked off as of 2026-04-22 with kickoff and FWA Certification due 2026-04-14. Dan Prendergast is technical lead with support from team members noted in Asana (per Maciej, 2026-04-22).
