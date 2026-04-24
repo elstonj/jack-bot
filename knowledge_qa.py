@@ -477,11 +477,13 @@ Available sources and what they're good for:
 
 Given the question and the partial answer from knowledge files, output a JSON object with:
 - "sources": list of source names to search (e.g. ["gmail", "slack"])
-- "query": the search keywords to use (3-5 most relevant terms, no stopwords). \
-  If a project is identified, include its name or code.
+- "query": a SINGLE search-keywords STRING (3-5 most relevant terms joined by \
+  spaces, no stopwords). Must be a string, not a list. If a project is \
+  identified, include its name or code.
 - "reason": one-line explanation of what you're looking for
 
-Output ONLY the JSON object, nothing else."""
+Output ONLY the raw JSON object. Do not wrap it in ```json code fences or any \
+other markdown — the caller parses it directly with json.loads."""
 
 
 def _plan_live_search(question, partial_answer, channel_context=None):
@@ -504,7 +506,10 @@ def _plan_live_search(question, partial_answer, channel_context=None):
             messages=[{"role": "user", "content": user_content}],
         )
         import json
-        return json.loads(response.content[0].text)
+        text = response.content[0].text.strip()
+        if text.startswith("```"):
+            text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text, flags=re.MULTILINE)
+        return json.loads(text)
     except Exception:
         return None
 
@@ -692,6 +697,10 @@ def _run_live_searches(plan, slack_client=None, channel_context=None, question=N
     """
     results = []
     query = plan.get("query", "")
+    # Planner sometimes returns a list despite the prompt — coerce to string so
+    # requests doesn't emit repeated ?text= params that confuse Asana/Gmail/etc.
+    if isinstance(query, list):
+        query = " ".join(str(q) for q in query if q)
     project_gid = (channel_context or {}).get("project_gid")
 
     # Find mentioned users in the original question and resolve to Asana gids
