@@ -538,16 +538,52 @@ def _detect_ooo(calendar_data, users):
 
     today_str = date.today().strftime("%Y%m%d")
 
-    # Build a name lookup: lowercase first name or full name -> user map name
-    name_lookup = {}
+    # Build per-user (name, token_set) pairs for tighter matching.
+    # We match by exact full-name (case-insensitive) first, then fall back
+    # to requiring the ICS first+last tokens both be present in exactly
+    # one user's name tokens. Never match on a single token alone.
+    user_entries = []  # list of (original_name, lowercase_name, set_of_tokens)
+    exact_lookup = {}
     for u in users:
         uname = u.get("name", "")
-        if uname:
-            name_lookup[uname.lower()] = uname
-            # Also index by first name and last name for partial matching
-            parts = uname.lower().split()
-            for part in parts:
-                name_lookup[part] = uname
+        if not uname:
+            continue
+        lower = uname.lower()
+        tokens = set(lower.split())
+        exact_lookup[lower] = uname
+        user_entries.append((uname, lower, tokens))
+
+    def _match_ics_name(person):
+        lower = person.lower().strip()
+        if not lower:
+            return None
+        # 1) exact full-name match
+        if lower in exact_lookup:
+            return exact_lookup[lower]
+        # 2) first+last token both present in exactly one user's tokens
+        parts = lower.split()
+        if len(parts) < 2:
+            return None
+        first_tok, last_tok = parts[0], parts[-1]
+        if first_tok == last_tok:
+            # would collapse to a single-token match; refuse
+            return None
+        candidates = [
+            name for (name, _l, toks) in user_entries
+            if first_tok in toks and last_tok in toks
+        ]
+        if len(candidates) == 1:
+            return candidates[0]
+        # 3) last-name-only fallback, but only if the last token uniquely
+        # identifies one user (Rippling sometimes uses formal first names like
+        # "Daniel" while the user map has "Dan"). First-name alone is NOT
+        # allowed — first names collide too easily.
+        last_only = [
+            name for (name, _l, toks) in user_entries if last_tok in toks
+        ]
+        if len(last_only) == 1:
+            return last_only[0]
+        return None
 
     # Parse ICS events
     for event_block in ics_text.split("BEGIN:VEVENT")[1:]:
@@ -575,14 +611,7 @@ def _detect_ooo(calendar_data, users):
             if match:
                 person = match.group(1).strip()
                 reason = match.group(2).strip()
-                # Match to user map name
-                matched_name = name_lookup.get(person.lower())
-                if not matched_name:
-                    # Try matching by parts of the ICS name
-                    for part in person.lower().split():
-                        matched_name = name_lookup.get(part)
-                        if matched_name:
-                            break
+                matched_name = _match_ics_name(person)
                 if matched_name:
                     ooo_users[matched_name] = reason
 
