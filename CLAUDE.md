@@ -20,6 +20,7 @@ Jack Bot is meant to **replace the head of operations and project managers** at 
 - Synthesis prompt treats CORRECTION / FEEDBACK entries as absolute: if a correction says a task is done / handled externally, it's excluded from both the team summary and per-person priorities even when stale knowledge files still list it as overdue
 - `_sync_operations_feedback()` mirrors non-bot replies in #operations into `[FEEDBACK]` entries each run (dedup by Slack `ts`), so feedback persists even if the `message.channels` event isn't reaching the bot
 - Operations-channel history passed to Claude is sliced `[-30:]` (newest messages), not `[:30]`
+- Missing-section guard (after `_parse_per_user`): compares parsed slack IDs against every mapped team member; if any are missing, logs a `[DEBUG]` entry, runs a targeted Sonnet retry for just those people, and falls back to a visible `:warning:` placeholder section so no one is silently dropped downstream
 
 ### Knowledge Layer (`knowledge/`, `scanners/`, `scan.py`)
 - ~200+ distilled markdown files covering 11 data sources
@@ -34,6 +35,7 @@ Jack Bot is meant to **replace the head of operations and project managers** at 
 - Searches project registry files for company/contact lookups
 - **Live API fallback**: if knowledge files can't answer, Claude Haiku plans which live sources to search (Gmail, Slack, Calendar, Asana), executes the searches, then Claude Sonnet re-answers with the combined context
 - Triggered by questions in @mentions or DMs (contains `?`, question words, or `ask:` prefix)
+- `answer_question()` accepts `user_id` and resolves it via `user_map.get_user_by_slack_id()` (fallback `users_info`). An `ASKER:` block is injected into the prompt so first-person pronouns ("do *I* have tasks today") bind to the right person; the system prompt forbids addressing the asker by any other name
 
 ### Slack Integration (`app.py`)
 - Slack Bolt app with Flask adapter for Railway
@@ -69,6 +71,7 @@ Jack Bot is meant to **replace the head of operations and project managers** at 
   3. `apply_task_updates()` parses the user's next reply via Claude Haiku into `accept_all` / `accept_subset` / `reject` / `modify` / `unrelated`. `unrelated` falls through to normal routing
   4. On accept, calls `asana_client.update_task(gid, updates)`; on modify, re-runs the propose call with the modification instruction; on reject, clears pending
 - Assignee names → Asana gids resolved via `user_map.get_all_users()` (exact then token-subset match)
+- Propose prompt gets an `ASKER:` block (resolved from `user_id` via user_map) so "my tasks" / "push my due dates" bind to the requester rather than being inferred from context
 - Every successful write is logged as a `[FEEDBACK]` entry in the knowledge channel for audit trail
 - State is in-memory — lost on Railway restart (acceptable; proposals are short-lived)
 - Safety gate: no task-update flow without a project resolved from the channel
