@@ -589,14 +589,42 @@ def _search_calendar(query):
         return ""
 
 
-def _search_asana(query, project_gid=None):
+def _search_asana(query, project_gid=None, assignee_gid=None, assignee_name=None):
     """Search Asana tasks by keyword.
 
     If project_gid is provided, first fetch that project's open tasks directly
     (workspace text-search only returns tasks whose names/notes match the query,
     which misses a lot of project-relevant work).
+
+    If assignee_gid is provided, fetch that user's open tasks via the
+    workspace /tasks/search endpoint (assignee.any=gid) and prepend them — this
+    is the correct path for "what are X's tasks?" questions, which keyword
+    search can't answer.
     """
     sections = []
+
+    if assignee_gid:
+        try:
+            from asana_client import get_tasks_for_assignee
+            a_tasks = get_tasks_for_assignee(assignee_gid, enriched=True)
+            if a_tasks:
+                label_name = (assignee_name or "USER").upper()
+                lines = [f"=== ASANA: OPEN TASKS ASSIGNED TO {label_name} ==="]
+                for t in a_tasks[:25]:
+                    assignee = t.get("assignee") or {}
+                    aname = assignee.get("name", "Unassigned")
+                    due = t.get("due_on") or "no date"
+                    projects = ", ".join(p.get("name", "") for p in (t.get("projects") or []))
+                    notes_preview = (t.get("notes") or "")[:150].replace("\n", " ")
+                    line = f"• {t['name']} | {aname} | Due: {due} | gid:{t.get('gid', '')}"
+                    if projects:
+                        line += f" | Projects: {projects}"
+                    lines.append(line)
+                    if notes_preview:
+                        lines.append(f"  {notes_preview}")
+                sections.append("\n".join(lines))
+        except Exception:
+            pass
 
     if project_gid:
         try:
@@ -654,19 +682,46 @@ def _search_asana(query, project_gid=None):
     return "\n\n".join(sections)
 
 
-def _run_live_searches(plan, slack_client=None, channel_context=None):
-    """Execute the search plan across live sources. Returns combined results."""
+def _run_live_searches(plan, slack_client=None, channel_context=None, question=None):
+    """Execute the search plan across live sources. Returns combined results.
+
+    If `question` contains Slack mentions (<@UXXX>), resolve each to an Asana
+    user via user_map and add a by-assignee Asana search for that person — the
+    planner strips mentions from its query so keyword search alone misses
+    "what are <@UXXX>'s tasks?" style questions.
+    """
     results = []
     query = plan.get("query", "")
     project_gid = (channel_context or {}).get("project_gid")
 
+    # Find mentioned users in the original question and resolve to Asana gids
+    mentioned_assignees = []
+    if question:
+        slack_ids = re.findall(r'<@([A-Z0-9]+)(?:\|[^>]+)?>', question)
+        try:
+            from user_map import get_user_by_slack_id
+        except Exception:
+            get_user_by_slack_id = None
+        if get_user_by_slack_id:
+            for sid in slack_ids:
+                try:
+                    u = get_user_by_slack_id(sid)
+                except Exception:
+                    u = None
+                if u and u.get("asana_user_gid"):
+                    mentioned_assignees.append({
+                        "gid": u["asana_user_gid"],
+                        "name": u.get("name") or sid,
+                    })
+
     # If a project is identified from the channel, always pull its open tasks
-    # even if the planner didn't explicitly ask for asana.
+    # even if the planner didn't explicitly ask for asana. Same goes for
+    # when a user was mentioned — we need the by-assignee Asana search.
     sources = list(plan.get("sources", []))
-    if project_gid and "asana" not in sources:
+    if (project_gid or mentioned_assignees) and "asana" not in sources:
         sources.append("asana")
 
-    if not query and not project_gid:
+    if not query and not project_gid and not mentioned_assignees:
         return ""
 
     for source in sources:
@@ -683,9 +738,20 @@ def _run_live_searches(plan, slack_client=None, channel_context=None):
             if r:
                 results.append(r)
         elif source == "asana":
-            r = _search_asana(query, project_gid=project_gid)
-            if r:
-                results.append(r)
+            if mentioned_assignees:
+                for a in mentioned_assignees:
+                    r = _search_asana(
+                        query,
+                        project_gid=project_gid,
+                        assignee_gid=a["gid"],
+                        assignee_name=a["name"],
+                    )
+                    if r:
+                        results.append(r)
+            else:
+                r = _search_asana(query, project_gid=project_gid)
+                if r:
+                    results.append(r)
 
     return "\n\n".join(results)
 
@@ -702,8 +768,8 @@ def answer_question(question, slack_client=None, channel_id=None, channel_contex
 
     # Resolve the asker so first-person pronouns bind to the right person
     asker_hint = ""
+    asker_name = None
     if user_id:
-        asker_name = None
         try:
             from user_map import get_user_by_slack_id
             asker = get_user_by_slack_id(user_id)
@@ -747,6 +813,31 @@ def answer_question(question, slack_client=None, channel_id=None, channel_contex
                 knowledge_context = "\n".join(lines)
         except Exception:
             pass
+
+    # If the question mentions specific users, inject their cached daily-briefing
+    # sections from the 8am run — that's exactly the "what are X's tasks" data.
+    try:
+        mentioned_ids = re.findall(r'<@([A-Z0-9]+)(?:\|[^>]+)?>', question or "")
+        if mentioned_ids:
+            try:
+                import research_cache
+                per_user = research_cache.get_per_user_sections() or {}
+            except Exception:
+                per_user = {}
+            briefing_blocks = []
+            for sid in mentioned_ids:
+                section = per_user.get(sid)
+                if section:
+                    briefing_blocks.append(
+                        f"=== BRIEFING FOR <@{sid}> (generated 8am MT) ===\n{section}\n"
+                    )
+            if briefing_blocks:
+                joined = "\n".join(briefing_blocks)
+                knowledge_context = (
+                    f"{knowledge_context}\n\n{joined}" if knowledge_context else joined
+                )
+    except Exception:
+        pass
 
     files = select_files(question, channel_files=channel_files)
 
@@ -804,7 +895,18 @@ def answer_question(question, slack_client=None, channel_id=None, channel_contex
         """
         try:
             from personality import get_response
-            return get_response(question)
+            history = None
+            ctx_for_persona = None
+            if channel_context and not channel_context.get("is_dm"):
+                ctx_for_persona = channel_context
+                history = channel_context.get("recent_messages")
+            return get_response(
+                question,
+                user_name=asker_name or "someone",
+                history=history,
+                bot_user_id=None,
+                channel_context=ctx_for_persona,
+            )
         except Exception:
             return None
 
@@ -825,6 +927,7 @@ def answer_question(question, slack_client=None, channel_id=None, channel_contex
                     plan,
                     slack_client=slack_client,
                     channel_context=channel_context,
+                    question=question,
                 )
                 if live_results:
                     extended_prompt = (

@@ -52,6 +52,41 @@ def get_tasks_for_project(project_gid, enriched=False):
     return resp.json()["data"]
 
 
+def get_tasks_for_assignee(assignee_gid, workspace_gid=None, enriched=False):
+    """Fetch open tasks assigned to a specific user via workspace task search.
+
+    Uses /workspaces/{wsid}/tasks/search with assignee.any={gid} so matching is
+    by assignee rather than by task name/notes text. Returns a list of tasks.
+    """
+    if not assignee_gid:
+        return []
+    if workspace_gid is None:
+        workspaces = get_workspaces()
+        if not workspaces:
+            return []
+        workspace_gid = workspaces[0]["gid"]
+
+    opt_fields = "name,assignee.name,due_on,completed,notes,permalink_url,projects.name"
+    if enriched:
+        opt_fields = (
+            "name,assignee.name,assignee.email,due_on,due_at,completed,"
+            "custom_fields,notes,tags,permalink_url,projects.name"
+        )
+    resp = requests.get(
+        f"{ASANA_BASE}/workspaces/{workspace_gid}/tasks/search",
+        headers=_headers(),
+        params={
+            "assignee.any": assignee_gid,
+            "completed": False,
+            "opt_fields": opt_fields,
+            "limit": 50,
+        },
+        timeout=10,
+    )
+    resp.raise_for_status()
+    return resp.json().get("data", [])
+
+
 def get_team_tasks(workspace_gid):
     """Get all incomplete tasks across all projects in the workspace."""
     projects = get_projects(workspace_gid, include_archived=False)
