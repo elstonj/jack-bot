@@ -13,8 +13,9 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 - Nikhila (external, ML model training and bench-test app development)
 - Moe (EMASS contact)
 - Alex Lomis (flight operations/coordination)
+- Meredith Needham (finance/invoicing)
 
-**Activity Level:** Ongoing active project spanning November 2025 - April 2026, with critical intensity. Hardware-in-the-Loop (HWIL) and bench testing actively underway; real flight testing imminent (targeting late April/early May). EMASS planning media release for their chip first week of May, creating deadline pressure.
+**Activity Level:** Ongoing active project spanning November 2025 - April 2026+, with critical intensity. Real flight testing commenced April 23-24, 2026. EMASS media release planned for first week of May creating hard deadline.
 
 ## Key Decisions
 
@@ -50,14 +51,14 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 ## Projects & Initiatives
 
 ### EMASS Integration (Primary)
-**Status:** Critical debugging phase completed; real flight testing preparation finalized (April 23); actual flight testing scheduled to commence late April/early May 2026, with EMASS media release planned for first week of May creating hard deadline
+**Status:** Real flight testing actively underway as of April 24, 2026. EMASS controller demonstrated successful envelope protection during first flight test. Additional flight test sets planned. EMASS media release planned for first week of May creating hard deadline.
 
 **Scope:**
 - Integrate EMASS's ECS-DoT evaluation board (AI chip with ML controller) onto E2 platform
 - Develop interface between EMASS hardware and E2 autopilot
 - Create simulation environment (Gazebo-based SWIL) for validation
 - Conduct flight testing with comparative analysis (controller on/off)
-- Timeline: Originally January-March 2026, pushed to March 11, 2026; further delays occurred due to EMASS team responsiveness and BST resource conflicts; HWIL testing active as of mid-April; bench testing on E2 platform started April 21-22; real flights targeting late April/early May 2026; multiple flight test sets planned (minimum 3 sets total)
+- Timeline: Originally January-March 2026, pushed to March 11, 2026; further delays occurred due to EMASS team responsiveness and BST resource conflicts; HWIL testing active as of mid-April; bench testing on E2 platform started April 21-22; real flights commenced April 23-24, 2026; multiple flight test sets planned (minimum 3 sets total)
 
 **Technical Components:**
 
@@ -70,7 +71,7 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
    - Serial connection options: DB9 connector or jumpers + USB microUSB (preferred per Jack Elston as of April 22)
    - Baud rate: 460800 bps (verified working April 22)
 
-2. **Firmware/Software (As of April 23):**
+2. **Firmware/Software (As of April 24):**
    - Autopilot modifications to accept EMASS actuator commands at 75Hz via UART
    - Two-mode operation: EMASS control or BST autopilot control (no blending)
    - EXTERNAL mode in autopilot for payload authority handoff
@@ -84,7 +85,7 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
      - New autopilot binary pushed April 22 with improved connection debugging
      - Binary version: 0x358094b (per Maciej April 21)
      - Fixes to bench-test and full-flight app connection issues
-   - **Status Note (April 23):** Debugging session scheduled for morning of April 23 completed (noted in prior entry); issues resolved sufficiently to proceed to real flight testing
+   - **Status Note (April 24):** Envelope protection systems tested successfully during first flight; EMASS controller demonstrated ability to revert to baseline control when needed
 
 3. **Simulation:**
    - Gazebo SWIL with realistic E2 dynamics
@@ -95,7 +96,7 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
    - Gazebo HWIL flight app confirmed working: EMASS controller flew complete 8-point flight plan with no disconnects or safety limit violations (April 22)
    - Issue: bench-test app behaves differently in simulation (connects, takes off, starts controller, controller has no effect for 40 seconds, then times out)
 
-4. **Flight Testing Plan (Approved April 23):**
+4. **Flight Testing (Underway as of April 24):**
    - **Execution Order (per Jack Elston proposal, approved):**
      1. Flight 1: Easy Pattern (simple square, ~100m sides, constant MSL altitude) with BST autopilot (baseline/validation)
      2. Flight 2: Easy Pattern with EMASS controller on
@@ -103,6 +104,6 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
      4. Flight 4: Dynamic Pattern with EMASS controller on
    - Each flight to continue with lap repeats until ~20% battery, then return to land
    - Four flights per full battery (approximately)
-   - Dan Prendergast will execute first test set; expects additional test sets on later dates (minimum 3 sets total planned)
+   - Dan Prendergast executed first test set; additional test sets planned for following weeks (minimum 3 sets total planned)
    - Flight operations coordinated by Alex Lomis
-   - Expected data to be
+   - **First Flight (April 24

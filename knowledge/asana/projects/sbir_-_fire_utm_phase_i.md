@@ -34,7 +34,7 @@
 - NASA ROSES Call application submitted March 31, 2024 (completed by Maciej Stachura)
 - CoTAK Demo exploration initiated and completed March 27, 2024
 - Post-Phase I technical investigation: Dubins path for altitude profiling control (completed October 2025)
-- **Project archived with no further activity planned for Fire UTM Phase I**
+- **Project archived with no further activity planned for Fire UTM Phase I** (as of February 7, 2024)
 
 ## Notes & Context
 This Phase I pilot study demonstrated the value of targeted UAS observations for improving low-level wind and turbulence representation in active wildfire modeling. Key technical achievements included:
@@ -48,9 +48,18 @@ The project required extensive regulatory coordination and stakeholder managemen
 
 ---
 
-## ⚠️ Related Projects (Not Part of This Archive)
-**Team Feedback (April 2026)** indicates separate Navy SBIR and STTR projects are now active:
-- **Navy SBIR Magnetometer**: Kicked off as of April 21, 2026 (per Maciej, 2026-04-21/22). Kick-off meeting and FWA Certification due April 14, 2026 (managed by Meredith Needham). Technical lead: U058LGYMEQ0; supported by other team members listed in Asana. Project brief, kick-off presentation template, and report templates available in Asana at https://navysbir.com/links_forms.htm
-- **Navy STTR**: Submitted alongside invoicing (per Meredith Needham, 2026-04-17)
+## ⚠️ Related Active Projects (Not Part of This Archive)
+**Team Feedback (April 2026)** indicates these are now active separate projects — do not confuse with Fire UTM Phase I:
+
+- **Navy SBIR Magnetometer**: Kicked off April 21–22, 2026 (per Maciej, 2026-04-21/22). Kick-off meeting and FWA Certification due April 14, 2026 (managed by Meredith Needham, 2026-04-17). Technical lead: U058LGYMEQ0; supported by other team members listed in Asana. Project brief, kick-off presentation template, and report templates available in Asana at https://navysbir.com/links_forms.htm. Report templates and Award Deliverable Templates also at that URL.
+
+- **Navy STTR**: Submitted alongside invoicing as of April 17, 2026 (per Meredith Needham, 2026-04-17).
+
+**High-Priority Projects (as of April 24, 2026)** — per Maciej:
+1. S3 IRAD — targeted delivery end of May for UMES S3
+2. S0-VTOL — two deliveries for ERAU and Barbados
+3. EMASS — closing out
+4. By-Lite Mustang
+5. Navy SBIR Magnetometer — initial tasks underway
 
 These are distinct projects and should be tracked separately from this archived Fire UTM Phase I work.

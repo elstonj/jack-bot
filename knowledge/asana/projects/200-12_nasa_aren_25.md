@@ -26,11 +26,11 @@ BST participated in the AEROKATS and ROVER Education Network (AREN), a NASA Scie
 ## Recent Activity
 Project was shut down in August 2025 ahead of schedule in anticipation of Geoffrey Bland's retirement. Primary deliverable (Aeropods platform) completed testing phase in October 2025.
 
-**Team Feedback [2026-04-17, 2026-04-20]:** Alex Lomis shared a NASA RFI link recommended by NASA team and Joe on a hurricane ET call: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view — indicates potential interest in related hurricane-focused NASA opportunity.
-
 ## Notes & Context
 - Project is archived and has concluded
 - Geoffrey Bland retired August 2025, triggering project shutdown
 - One administrative task remains open (contact info for Geoffrey Bland, who is now retired)
 - No subcontractors involved in this contract
-- **Follow-up Opportunity:** Recent team feedback suggests a related NASA RFI on hurricane applications may warrant BST attention
+
+## Follow-Up Opportunity
+**Team Feedback [2026-04-17, 2026-04-20]:** Alex Lomis shared a NASA RFI link recommended by NASA team and Joe on a hurricane ET call: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view — indicates potential interest in related hurricane-focused NASA opportunity that may warrant BST attention.

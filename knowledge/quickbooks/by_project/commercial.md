@@ -1,10 +1,10 @@
 # Commercial — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $1,829,174.36
+- **Total Invoiced (Revenue):** $1,829,839.34
 - **Total Expenses (Bills + Purchases):** $217,613.48
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $1,611,560.88 (Revenue exceeds expenses)
+- **Net Position:** $1,612,225.86 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – May 8, 2026
 
 ---
@@ -15,6 +15,7 @@
 
 | Invoice # | Date | Amount | Customer | Balance |
 |-----------|------|--------|----------|---------|
+| 1759 | 2026-05-08 | $664.98 | IRISS, CU Boulder | $664.98 |
 | 1757 | 2026-05-08 | $63,735.00 | [043-3] By Light Halo | $63,735.00 |
 | 1756 | 2026-05-08 | $47,894.00 | [043-3] By Light Halo | $47,894.00 |
 | 1755 | 2026-05-08 | $63,735.00 | [043-3] By Light Halo | $63,735.00 |
@@ -66,10 +67,11 @@
 | 1618 | 2024-04-19 | $13,853.10 | [451] INSTAAR Stable Isotope Lab, CU Boulder | Paid |
 
 ### Revenue Summary
-- **Total Invoiced:** $1,829,174.36
+- **Total Invoiced:** $1,829,839.34
 - **Total Collected (Paid):** $1,075,726.08
-- **Outstanding Balance:** $753,448.28
+- **Outstanding Balance:** $754,113.26
   - **Four invoices from May 8, 2026 (By Light Halo):** $223,258.00 (Invoices #1754–1757)
+  - **One invoice from May 8, 2026 (IRISS, CU Boulder):** $664.98 (Invoice #1759)
   - **Other outstanding invoices:** $530,190.28
 
 ---
@@ -98,7 +100,7 @@
 ### **Materials & Supplies (Direct Cost Purchases)**
 **Total: $70,546.03** | 3 transactions | Largest item: $780.00
 
-#### Recent Direct Cost Purchases
+#### Direct Cost Purchases
 - **Purchase #KDE17135 (2026-04-20):** $780.00
   - KDE4215XF-465 Brushless Motor for Heavy-Lift Electric Multi-Rotor (Qty: 4)
 
@@ -141,7 +143,4 @@
 
 ## Monthly Spend by Category
 
-| Month | Subcontractors | Materials & Supplies | Equipment/Inventory | Indirect Costs | **Monthly Total** |
-|-------|-----------------|----------------------|---------------------|-----------------|-------------------|
-| **April 2026** | $30,962.78 | $1,531.18 | $99.03 | $7,740.69 | **$40,333.68** |
-| **YTD
+| Month | Subcontractors | Materials & Supplies | Equipment/Inventory | Indirect Costs | **Monthly Total

@@ -26,6 +26,7 @@ This channel tracks the development and operation of SwiftWeb (logparse), a plat
 - Supports S2, E2, Flamewheel, Dronetag, and ground station logs
 - Passed 2000 flights milestone (Mar 11, 2025)
 - Features: flight visualization, 3D flight paths with Google Maps tiles, custom SQL queries on flight metadata, WMO NetCDF generation for S0 aircraft
+- **New feature request (Apr 24, 2026)**: "Publish" link to make individual flights read-only shareable with customers
 
 ### Ground Station Logs (GCS) Processing
 **Status:** Operational with ongoing refinements (as of Apr 2026)
@@ -76,7 +77,9 @@ This channel tracks the development and operation of SwiftWeb (logparse), a plat
 - **Pending:** Switch WMO generator to background task processing (awaiting Maciej's modifications)
 - **Pending:** Add parsing support for SENSORS_RTK_HEADING packet (ID #59) (requested Mar 20, 2026)
 - **Pending:** Investigate S1-19 flight NAN value issues (assigned Apr 1, 2026)
-- **In Progress:** Investigate missing `FLIGHT_PLAN_WAYPOINT` packets in recent S1-22 logs (assigned Apr 20, 2026; confirmed packets missing from binary as of Apr 21)
+- **Pending:** Investigate missing `FLIGHT_PLAN_WAYPOINT` packets in recent S1-22 logs (assigned Apr 20, 2026; confirmed packets missing from binary as of Apr 21)
+- **New (Apr 24, 2026):** Develop "publish" feature for shareable read-only flight links (feature request from Jack Elston)
+- **New (Apr 24, 2026):** Fix date filter bug where "to" date must be set one day after today to view today's flights
 
 ### Maciej
 - ✅ Complete automation of WMO netCDF generation code (planned for weekend following Jun 27, 2025)
@@ -100,10 +103,4 @@ This channel tracks the development and operation of SwiftWeb (logparse), a plat
 - william.o.wade@nasa.gov (NASA Ames)
 - isaac.e.anderson@nasa.gov (NASA Ames)
 - tyler.willhite@nasa.gov (NASA Langley)
-- jay.m.tomlin@nasa.gov (NASA Ames)
-
-### Organizations with Site Access
-Free access provided to: NREL, Alerion, INSTAAR, UVA, NASA, UMES (added Aug 2025)
-
-### Organizations Migrated from Legacy Site (Oct 2025)
-INSTAAR, WCE, AboveAndBeyondAS, GeoTech, CureCUV, NOAA-TDD, JakeA
+- jay.m.tomlin

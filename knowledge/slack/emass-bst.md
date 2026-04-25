@@ -5,14 +5,14 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 
 **Key Participants:**
 - Nikhila (eMASS AI) - Primary developer, leading chip integration and AI model implementation
-- Jack Elston (BST) - Autopilot/simulation expertise, hardware integration guidance, protocol specification, flight testing
+- Jack Elston (BST) - Autopilot/simulation expertise, hardware integration guidance, protocol specification, flight testing, data analysis
 - Dan Prendergast (BST) - Flight test coordination, E2 aircraft management, hardware setup lead, simulator testing
 - Moe/Prof. Moe (eMASS AI) - AI model training and optimization
 - Maciej (BST) - Vehicle parameters and specifications
 - Sergio Ruocco (eMASS AI) - Autoboot firmware expert, SDK bring-up and troubleshooting
 - Shantanu (eMASS AI) - Hardware verification and validation
 
-**Activity Level:** Highly active collaboration spanning February-April 2026. Intensive HWIL and model training in March-April. Most recent activity (Apr 20-23, 2026) focused on connection stability debugging, packet rate corrections, control mode implementation, and actuator communication verification. Daily communication during critical phases.
+**Activity Level:** Highly active collaboration spanning February-April 2026. Intensive HWIL and model training in March-April. Most recent activity (Apr 20-25, 2026) focused on initial flight test execution, post-flight analysis, and controller performance evaluation. Critical first-flight test completed on Apr 24, 2026.
 
 ---
 
@@ -70,16 +70,16 @@ This channel serves as the primary collaboration hub between Black Swift Technol
   - Only send actuator packets after autopilot confirms mode change to external
   - Relinquish control on shutdown: Set modes back to `ALT_MODE_RATE` and `LAT_MODE_AUTO`
 - Rationale: Autopilot "steps aside" only when explicitly told to operate in external mode; prevents conflicting control signals
-- Status: Verified working - "if I send those commands, I'm seeing your hardware take over control" (Jack Elston, Apr 23 12:41)
+- Status: Verified working in pre-flight testing - "if I send those commands, I'm seeing your hardware take over control" (Jack Elston, Apr 23 12:41)
 
 ---
 
 ## Projects & Initiatives
 
 ### ECSDoT Integration onto E2 Aircraft
-**Status:** Near-complete payload integration with control handoff verified; pending final flight test (targeted for Apr 24, 2026). Primary issue resolved with external control mode implementation; baud rate limitation (64 Hz actuator packet rate) identified as possible baud constraint.
+**Status:** First flight test completed Apr 24, 2026. Controller performance issues identified requiring further simulation training before next live run. Critical insights gained on bumpless handover, hover stability, and actuator PWM continuity.
 
-**Scope:** Integrating eMASS AI's ECSDoT energy management chip onto BST's E2 multirotor UAS for final flight testing.
+**Scope:** Integrating eMASS AI's ECSDoT energy management chip onto BST's E2 multirotor UAS for final flight testing and validation.
 
 **Components:**
 - UART communication interface (/dev/ttyUSB0) between autopilot and ECSDoT chip at 460800 baud
@@ -89,7 +89,10 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - 5-to-3.3V level shifter powered from J18 pin #1
 - External control mode signaling for safe handoff between autopilot and ECSDoT chip
 
-**Progress Timeline (Apr 8-23, 2026):**
+**Aircraft Used in Testing:**
+- E20006: HW 2050, SW 3.0.28, comms 3.22.0, 4-rotor 10 kg multirotor, 6-cell pack
+
+**Progress Timeline (Apr 8-25, 2026):**
 
 - **Hardware Bring-up (Apr 8-14):**
   - Resolved JTAG/UART dual connection issues on Eval Board (FTDI Dual RS232-HS)
@@ -111,5 +114,4 @@ This channel serves as the primary collaboration hub between Black Swift Technol
   - Fixed UART receive buffer blocking issue that prevented heartbeats during `PAYLOAD_WAITING` state
 
 - **AI Model Performance Issues (Apr 14-16):**
-  - Model inference producing 4% rate of actuator values that exceed autopilot safety limits (80 violations per 2000 inferences)
-  - SHUTDOWN events occurring when AI output exceeds vrate limit (e.g., vrate = 3.01 when max is 3.0)
+  - Model inference producing 4

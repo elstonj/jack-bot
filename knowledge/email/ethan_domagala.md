@@ -1,7 +1,8 @@
 # Ethan Domagala — Email Patterns
 
-Only 3 emails found in scanned period.
+Only 4 emails found in scanned period.
 
-- Thu, 23 Apr 2026 17:00:08 +0000: A DoW SBIR Opportunity Matched to You (from: News and Updates <no-reply@omnisync.io>)
-- Thu, 23 Apr 2026 09:48:08 -0600: Re: M2 Fuselage Design Considerations (from: Ethan Domagala <ethan.domagala@blackswifttech.com>)
-- Thu, 23 Apr 2026 15:17:40 +0000: Your Upgrade is Still Here ✈️ (from: uAvionix <squawk@uavionix.com>)
+- Fri, 24 Apr 2026 22:49:26 +0000: Re: M2 Aircraft Update (from: Nicholas Phillips <nicholas.phillips@bylight.com>)
+- Fri, 24 Apr 2026 16:40:33 -0600: M2 Aircraft Update (from: Ethan Domagala <ethan.domagala@blackswifttech.com>)
+- Fri, 24 Apr 2026 15:05:59 +0000: 📅 You have 4 overdue tasks (from: Asana <no-reply@asana.com>)
+- Fri, 24 Apr 2026 14:57:10 +0000: Friday - tasks due soon: 5 - blackswifttech.com (from: Asana <no-reply@asana.com>)

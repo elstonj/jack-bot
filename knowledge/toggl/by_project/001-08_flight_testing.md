@@ -4,35 +4,36 @@
 - **Client:** Internal/Black Swift Technologies
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked (cumulative):** 52.5 hours
+- **Total hours tracked (cumulative):** 69.2 hours
 
 ## Team Allocation
-- **Ethan Domagala:** 28.0 hours (53%)
-- **Nate:** 24.5 hours (47%)
-- **Primary contributor:** Ethan Domagala (slight lead)
+- **Ethan Domagala:** 32.0 hours (46%)
+- **Nate:** 28.5 hours (41%)
+- **Stachura:** 8.7 hours (13%)
+- **Primary contributor:** Ethan Domagala (slight lead); Nate approaching parity
 
 ## Activity Timeline
-Recent work entries show continued activity across S1-22 test series:
+Recent work entries show continued testing activity with new team member involvement:
 
 - **S1-22 Flight Testing:** 23.2 hours total (Ethan)
-  - Latest batch: 4.0h (2.0h + 2.0h in two sessions)
-  - Previous: 16.2h across three sessions (8.2h, 5.0h, 3.0h)
+  - Status: No new activity this batch
+  - Previous activity: 4.0h most recent (2.0h + 2.0h in two sessions)
   
-- **S3 Flight Testing:** 7.7 hours total (Ethan)
-  - 4.5h, 3.2h — two sessions (no new activity this batch)
+- **S3 Flight Testing:** 11.7 hours total (Ethan + new)
+  - Ethan: 4.0h (new entry this batch)
+  - Previous: 7.7h across two sessions (4.5h, 3.2h)
+  - Resuming after pause
   
 - **Flights and logs:** 6.0 hours (Nate)
-  - New entry this batch — first descriptive contribution from Nate
+  - Status: No new activity this batch
   
-- **Support/logistical activities:** 2.5 hours (Nate)
-  - Two undescribed entries (1.0h + 1.0h)
-
-- **Other unspecified work:** 13.1 hours (Nate)
-  - Eight entries with no description from previous batch
-
+- **Support/logistical activities & unspecified work:** 18.5 hours (Nate + Stachura)
+  - Nate: 4.0h (no description, this batch)
+  - Stachura: 8.7h (no description, this batch) — **new contributor**
+  
 ## Insights
-- **Work focus:** Concentrated on S1-22 Flight Testing execution; S3 series activity paused
-- **Role shift:** Nate now providing more descriptive work (flights/logs tracking); documented contributions increasing
-- **Documentation improvement:** 50% of Nate's new entries include descriptions vs. 91% undocumented previously
-- **Workload rebalancing:** Gap narrowing between Ethan (53%) and Nate (47%); more balanced team contribution emerging
-- **Active testing pace:** Consistent S1-22 work suggests ongoing test campaign with regular flight operations
+- **Team expansion:** Stachura now contributing; marks shift from two-person to three-person team structure
+- **Work focus shift:** S3 Flight Testing resumes with Ethan engagement; S1-22 activity paused
+- **Documentation gaps:** New batch entries largely undescribed (Stachura 0%, Nate 0% documentation); contrasts with recent documentation improvements
+- **Workload distribution:** More balanced across three contributors; Ethan and Nate now at 46%/41% split
+- **Testing momentum:** Continued flight testing operations across multiple series (S1-22, S3) with expanding team capacity

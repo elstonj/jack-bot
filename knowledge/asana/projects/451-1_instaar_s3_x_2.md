@@ -3,13 +3,13 @@
 ## Overview
 - **Client/Customer**: INSTAAR, CU Boulder (CU Stable Isotope Lab)
 - **Dollar Value**: $120,000 total budget to BST
-- **Timeline**: Project due August 22, 2025 (primary deadline per custom field). S3 delivery due February 27, 2026. Operator training scheduled August 11-13, 2025. Launcher pallet expected second week of February 2025.
+- **Timeline**: Project due **May 16, 2025** (start/due date in Asana). S3 delivery task due February 27, 2026. Operator training scheduled August 11-13, 2025. Launcher pallet expected second week of February 2025.
 - **Status**: Active — replacing two damaged S2s with insurance-funded S3 units
 - **Team Members**: Josh Fromm (delivery owner), Dan Prendergast (operator training), Kevin Rozmiarek (primary contact, billing contact)
 - **Contact**: Kevin Rozmiarek, kevin.rozmiarek@colorado.edu, (512) 573-8279; Address: 4001 Discovery Dr. Boulder, CO 80303
 - **Risk Signals**: 
   - **CRITICAL**: Operator training travel not yet scheduled despite August 11-13 dates (Travel Scheduled: N) — only ~3.5 months away
-  - Delivery timeline extends to February 27, 2026 (8+ months out), but project due date is August 22, 2025 — clarify actual deadline
+  - **Timeline Discrepancy Resolved**: Project due date now shows May 16, 2025 in Asana; however, S3 delivery task is due February 27, 2026 — clarify actual delivery milestone with Josh Fromm
   - Jack (April 20, 2026) identifies INSTAAR x2 as competing near-term priority alongside Ottawa demo and Murphy's project — priority may shift
 
 ## Key Deliverables & Milestones
@@ -36,6 +36,6 @@
 - One S3 includes $10k discount due to 5% insurance deductible
 - Project Priority: Medium
 - Customer Type: Commercial
-- **Timeline Clarification Needed**: Project due date shows August 22, 2025 (custom field), but S3 delivery task is due February 27, 2026 — confirm primary milestone deadline with Josh Fromm
 - **URGENT — Training Travel**: August 11-13 dates for operator training are approaching (less than 4 months away). Travel logistics **must be scheduled immediately** — currently marked "Travel Scheduled: N". Coordinate with Dan Prendergast and Kevin Rozmiarek to book flights/accommodations.
 - Kevin Rozmiarek contact task is high priority — ensure contact details are confirmed and filed for billing/communication setup
+- **Timeline Clarification Needed**: Project start/due date shows May 16, 2025 in Asana, but S3 delivery task is due February 27, 2026 — confirm primary milestone deadline with Josh Fromm

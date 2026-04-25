@@ -15,7 +15,7 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - Dan H., Terry Tate, Spencer (contractors/specialists)
 - Alex Lomis (components/inventory, battery design)
 
-**Activity Level:** High, covering October 2025 through April 2026, with regular flight tests, design iterations, and scope management updates. Recent activity (April 20, 2026) shows ongoing task management and resource allocation discussions.
+**Activity Level:** High, covering October 2025 through April 2026, with regular flight tests, design iterations, and scope management updates. Most recent activity (April 24, 2026) indicates ongoing supply chain challenges and resource allocation for multiple airframe builds.
 
 ## Key Decisions
 
@@ -57,6 +57,11 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - Decision: Confirm all configs below 40lbs GTOW before parts ordering
 - Battery parts ordered (April 17) from SCS and Jawstec suppliers
 - Weekly email updates to ByLight implemented (Fridays) replacing Signal messages for better tracking
+
+**April 24, 2026 – Wing Supply Chain Challenge**
+- SoaringUSA Chilli 2x Carbon wings out of stock for next two months (as of April 24)
+- Available inventory: 2 wingsets on hand
+- **Constraint:** One wingset dedicated to prototype yellow M2, limiting availability for other builds (Chilli #2 or additional frames)
 
 ## Projects & Initiatives
 
@@ -101,10 +106,4 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - **GTOW Target:** All configs must remain below 40lbs (wing load constraint)
 - **Contact:** george.kusaba@amprius.com (Amprius SA03 Pouch cells supplier)
 
-### Chilli #2 (New Frame Build) – PLANNED
-- **Scope:** Build second airframe with CF tube fuselage (instead of fiberglass), SwiftPilot integration
-- **Status:** In planning phase, quoted $31K
-- **Target:** Two demo-able Chilli aircraft ready for customer by March 2026
-- **Component Needs (as of April 7, 2026):** 
-  - 10 additional actuator boards
-  -
+### Chilli #2 (New Frame Build) –
