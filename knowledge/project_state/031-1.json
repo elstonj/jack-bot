@@ -29,7 +29,7 @@
         "amount": 12607.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-04-24"
+        "last_updated": "2026-04-25"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 64736.15,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-04-24T09:06:56Z"
+    "last_reconciled": "2026-04-25T09:08:16Z"
   },
   "milestones": [
     {
@@ -96,8 +96,14 @@
       "author": "Jack",
       "date": "2026-04-20",
       "text": "From Jack: <@U014U9WMK2A> - I'd probably add that the highest priority due to lead time, etc. is getting that S3 together for UMES.   We need to make whatever changes we feel are necessary to the design and get that going (if we haven't already).  Also, I believe we need to do another run of PCB's so there's some risk there.   From what <@U06KRHPQSRH> says that opportunity runs out end of may."
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-24",
+      "text": "From Maciej: <@U0AQE94HJUT> our highest priority projects right now are: (1) S3 IRAD with a targeted delivery of end of May for the UMES S3, (2) S0-VTOL with two deliveries for ERAU and Barbados, (3) Closing out EMASS, (4) By-Lite Mustang, and (5) Initial tasks on the SBIR Magnetometer project. How are we looking on overdue tasks for those?"
     }
   ],
-  "last_full_rebuild": "2026-04-24T09:06:56Z",
+  "last_full_rebuild": "2026-04-25T09:08:16Z",
   "last_incremental_update": null
 }

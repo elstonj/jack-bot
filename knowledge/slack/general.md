@@ -1,7 +1,7 @@
 # #general
 
 ## Overview
-Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - April 2026). Key participants include Jack Elston (leadership), Maciej, Joshua Fromm, Dan Prendergast, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, and numerous team members.
+Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - April 2026). Key participants include Jack Elston (leadership), Maciej, Joshua Fromm, Dan Prendergast, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, and numerous team members.
 
 ## Key Decisions
 
@@ -33,7 +33,7 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Office Equipment Organization** (Sept 2020): Electronics workstation dedicated with organized bins for AP boards, GCS boards, etc.; deployment staging shelf by door
 - **New Printer Procurement** (Feb 5, 2025): Brother DCP-L2640DW ordered and installed; old printer retained for scanning/copying
 - **Drill Press Decommissioning** (May 16, 2024): Became worn out, no longer worth repair
-- **Recycling Service** (April 20, 2026): Arranged pickup with EcoCyle on Wednesdays; Meredith Needham managing coordination
+- **Recycling Service** (April 20, 2026): Arranged pickup with EcoCycle on Wednesdays; Meredith Needham managing coordination
 
 ## Projects & Initiatives
 
@@ -99,4 +99,4 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - Updates in progress
 
 **SMM (Soil Moisture Measurement) Project**
-- SBIR report and new LDCR system due
+- SBIR report and new

@@ -1,23 +1,10 @@
 {
   "period": {
-    "start": "2026-04-23",
-    "end": "2026-04-24"
+    "start": "2026-04-24",
+    "end": "2026-04-25"
   },
-  "scanned_at": "2026-04-24",
+  "scanned_at": "2026-04-25",
   "projects": [
-    {
-      "project_code": "001-1",
-      "revenue": 0.0,
-      "expenses": 46.13,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 1,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "(001-1) IRAD- General"
-      ]
-    },
     {
       "project_code": "043-3",
       "revenue": 111629.0,
@@ -55,6 +42,20 @@
       "payment_count": 0,
       "qbo_class_names": [
         "[550-1] Navy SBIR Magnetometer"
+      ]
+    },
+    {
+      "project_code": "_unclassified",
+      "revenue": 664.98,
+      "expenses": 0.0,
+      "invoice_count": 1,
+      "bill_count": 0,
+      "purchase_count": 0,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "",
+        "IRISS, CU Boulder"
       ]
     }
   ]

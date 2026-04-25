@@ -1,119 +1,60 @@
 {
   "project_code": "_unclassified",
   "qbo_class_names": [
-    ""
+    "",
+    "IRISS, CU Boulder"
   ],
   "period": {
-    "start": "2026-04-22",
-    "end": "2026-04-23"
+    "start": "2026-04-24",
+    "end": "2026-04-25"
   },
   "totals": {
-    "revenue": 0.0,
-    "expenses": 21237.13,
-    "by_category": {
-      "FACILITIES:FA-Rent Expense": 13476.44,
-      "DIRECT COSTS:DC-Direct Cost Subcontractors": 6192.55,
-      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 1548.14,
-      "FACILITIES:FA-Shop Supplies": 20.0
-    }
+    "revenue": 664.98,
+    "expenses": 0.0,
+    "by_category": {}
   },
-  "invoices": [],
-  "bills": [
+  "invoices": [
     {
-      "type": "Bill",
-      "date": "2026-04-22",
-      "doc_number": "BST-April2026-1",
-      "total": 14479.45,
-      "attributed": 2895.89,
-      "vendor": "Matthew Crabtree",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 9652.97,
-          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
-          "description": "Parts and Materials"
-        },
-        {
-          "amount": 1930.59,
-          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
-          "description": ""
-        },
-        {
-          "amount": 2895.89,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Bill",
-      "date": "2026-04-22",
-      "doc_number": "BST-March2026-2",
-      "total": 24224.02,
-      "attributed": 4844.8,
-      "vendor": "Matthew Crabtree",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "March invoice for $48,448.05. Paying second half. Payment complete.",
-      "lines": [
-        {
-          "amount": 16149.35,
-          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
-          "description": "Parts and Materials"
-        },
-        {
-          "amount": 3229.87,
-          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
-          "description": ""
-        },
-        {
-          "amount": 4844.8,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Bill",
-      "date": "2026-04-22",
-      "doc_number": "",
-      "total": 13476.44,
-      "attributed": 13476.44,
-      "vendor": "W. W. Reynolds Companies",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 13476.44,
-          "account": "FACILITIES:FA-Rent Expense",
-          "description": "May 2026 rent"
-        }
-      ]
-    }
-  ],
-  "purchases": [
-    {
-      "type": "Purchase",
-      "date": "2026-04-22",
-      "doc_number": "",
-      "total": 20.0,
-      "attributed": 20.0,
+      "type": "Invoice",
+      "date": "2026-04-24",
+      "doc_number": "1759",
+      "total": 664.98,
+      "attributed": 664.98,
       "vendor": "",
-      "customer": "",
-      "balance": null,
+      "customer": "IRISS, CU Boulder",
+      "balance": 664.98,
       "memo": "",
       "lines": [
         {
-          "amount": 20.0,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "10PCS ADUM1201 Serial Digital Isolator Module Magnetic Isolation SPI CAN"
+          "amount": 209.98,
+          "account": "",
+          "description": "Flap Servo"
+        },
+        {
+          "amount": 40.0,
+          "account": "",
+          "description": ""
+        },
+        {
+          "amount": 40.0,
+          "account": "",
+          "description": ""
+        },
+        {
+          "amount": 375.0,
+          "account": "",
+          "description": "Labor: 3 hours"
+        },
+        {
+          "amount": 664.98,
+          "account": "",
+          "description": ""
         }
       ]
     }
   ],
+  "bills": [],
+  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

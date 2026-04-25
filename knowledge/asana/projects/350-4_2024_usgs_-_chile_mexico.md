@@ -9,11 +9,11 @@
 - **Team Members**: Maciej Stachura (owner/project lead), Jack Elston, Dan Prendergast, Josh Fromm, Nate Straus, Ethan Domagala, Meredith O'Hara Needham
 - **Contract**: 140G0323P0280
 - **Priority**: Medium (Government customer)
-- **⚠️ Risk Signal**: 14 open tasks with spring/summer 2026 due dates are now outdated following Fall 2026 delay announcement. Task list requires immediate cleanup and rescheduling.
+- **⚠️ AUTHORITATIVE CORRECTION (April 17 & 20, 2026)**: Maciej Stachura and Jack Elston both confirmed Mexico deployment moved to Fall 2026. Jack stated: "Mexico USGS volcano deployment (350-4) is DELAYED to Fall 2026. Not departing April 20. No flight planning, no shipping, no mission prep imminent. Any Asana tasks referencing an April deployment are stale - ignore them." **All spring/summer 2026 due dates are superseded.**
 
 ## Key Deliverables & Milestones
 
-**⚠️ CRITICAL: The following milestone dates (April–October 2026) are STALE per team corrections. Actual deployment timeline has shifted to FALL 2026. Do not act on April–July 2026 due dates.**
+**⚠️ CRITICAL: The following milestone dates (April–October 2026) are STALE per team corrections (Maciej, April 17; Jack, April 20). Actual deployment timeline has shifted to FALL 2026. Do not act on April–July 2026 due dates.**
 
 | Milestone | Assignee | Asana Due Date | Status | Note |
 |-----------|----------|----------------|--------|------|
@@ -35,21 +35,21 @@
 ## Task Summary
 - **Total Tasks**: 20 open, 0 completed
 - **Tasks by Assignee**:
-  - **Dan Prendergast**: 6 open tasks (AFAC meeting, AV3 replacement search, flight approvals, permissions, flight plans, photogrammetry)
+  - **Dan Prendergast**: 6 open tasks (AFAC meeting, AV3 replacement search, flight approvals, permissions, flight plans, photogrammetry footprints)
   - **Maciej Stachura**: 2 open tasks (FLIR stoppage review, propeller testing at 5700m)
   - **Josh Fromm**: 1 open task (spare parts and packing list)
   - **Unassigned**: 11 open tasks (5 milestones + 6 open-ended work items: Test New Capabilities, Tools/Ground Equipment, S2 Improvements, Planning/Algorithms/UI, CONOPS, Kevin Pesola contact record)
 - **Notable Patterns**: 
   - Dan Prendergast owns most permitting and coordination tasks
   - Multiple milestone tasks remain unassigned (awaiting Fall 2026 rescheduling and ownership clarification)
-  - All task due dates are **superseded by Fall 2026 delay announcement**
-  - 6 open-ended tasks with no due dates (Test New Capabilities, Tools/Ground Equipment, S2 Improvements, Planning/Algorithms/UI, CONOPS) — purpose and ownership unclear
+  - **All task due dates April–October 2026 are SUPERSEDED by Fall 2026 delay announcement**
+  - 6 open-ended tasks with no due dates (Test New Capabilities, Tools/Ground Equipment, S2 Improvements, Planning/Algorithms/UI, CONOPS) — purpose and ownership unclear; may be long-term research/development tasks
 
 ## Recent Activity
 - **April 20, 2026 (TEAM CORRECTION — AUTHORITATIVE)**: 
   - **Jack Elston**: "Correction: the Mexico deployment has been delayed until the fall. Mexico USGS volcano deployment (350-4) is DELAYED to Fall 2026. Not departing April 20. No flight planning, no shipping, no mission prep imminent. Any Asana tasks referencing an April deployment are stale - ignore them."
-  - **Maciej Stachura (April 17)**: "Mexico is moved to the Fall, so no flight planning happening soon."
-  - **Action**: Mission deployment **delayed from April 20, 2026 to Fall 2026**. No flight planning, shipping, or mission prep happening soon. Asana tasks showing April–October 2026 due dates are stale.
+  - **Maciej Stachura (April 17, 2026)**: "Mexico is moved to the Fall, so no flight planning happening soon."
+  - **Action**: Mission deployment **delayed from April 20, 2026 to Fall 2026**. No flight planning, shipping, or mission prep happening soon. Asana tasks showing April–October 2026 due dates are stale and should not drive near-term decisions.
 
 ## Notes & Context
 - **Mission Purpose**: S3 aircraft deployment to Mexico for volcanic gas sampling using Multi-sensor Head Package (MHP), survey services, and aircraft rental through AV3
@@ -57,14 +57,8 @@
   - **Originally planned**: April 20, 2026
   - **Now scheduled**: Fall 2026 (per Maciej, April 17; Jack, April 20)
   - **Implication**: All spring/summer 2026 task due dates in Asana are stale; task list requires rescheduling once Fall 2026 timeline is finalized
-  - **Shipping/Flight Planning**: Not happening soon — project is in hold state pending Fall 2026 confirmation
-- **Task Cleanup Required**: 
-  - Close or reschedule April–July 2026 due dates
-  - Clarify ownership of 11 unassigned tasks, especially the 5 milestone-level deliverables
-  - Clarify purpose of 6 open-ended tasks with no due dates (Test New Capabilities, Tools/Ground Equipment, S2 Improvements, Planning/Algorithms/UI, CONOPS)
-  - Align Asana with actual Fall 2026 schedule once confirmed
+  - **Flight Planning/Shipping**: **Not happening soon** — project is in hold state pending Fall 2026 confirmation
+- **Products/Services**: MHP, Survey Services, Aircraft Rental (via AV3 — replacement partner search ongoing)
 - **Key Contacts**:
-  - USGS: Christoph Kern, Kevin Pesola (kpesola@usgs.gov, Vancouver office)
-  - BST: Maciej Stachura (lead) — refer to him for Fall 2026 timeline details and task rescheduling
-- **Products/Services**: MHP, survey services, aircraft rental (AV3 — replacement partner search ongoing)
-- **Contract**: 140G0323P0
+  - USGS: Christoph Kern, Kevin Pesola (kpesola@usgs.gov, Vancouver office, (360) 993-8963)
+  - BST: Maciej Stachura (lead) — refer to him for Fall 2026 timeline details

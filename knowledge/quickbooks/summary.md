@@ -1,55 +1,54 @@
 # BST Financial Overview (QuickBooks)
 
 ## Company Totals
-- **Total Revenue (Invoices):** $5,747,987.00
-- **Total Expenses:** $2,377,655.29
-- **Net Income:** $3,370,331.71
-
-*Note: P&L report shows only April 23-24 period (-$46.13); cumulative data spans April 2024–September 2026.*
+- **Total Revenue (Invoices):** $5,730,757.62
+  - Commercial: $1,829,839.34
+  - Government: $3,900,918.28
+- **Total Expenses:** $1,526,809.04
+  - Commercial: $217,613.48
+  - Government: $1,309,196.56
+- **Net Income Estimate:** $4,203,948.58
 
 ---
 
 ## By Project/Class
-Sorted by total activity (revenue + expenses):
 
 | Project | Total Revenue | Total Expenses | Net Position | Status |
-|---------|---------------|----------------|--------------|--------|
-| **Government** | $3,900,918.28 | $1,309,196.56 | **+$2,591,721.72** | Strong profitability; largest revenue stream |
-| **Commercial** | $1,829,174.36 | $217,613.48 | **+$1,611,560.88** | Excellent margins |
-| **BST Internal** | $17,894.36 | $850,845.25 | **-$832,950.89** | Expense-heavy; internal R&D focus |
+|---------|---|---|---|---|
+| **Government** | $3,900,918.28 | $1,309,196.56 | $2,591,721.72 | Active (72 invoices) |
+| **Commercial** | $1,829,839.34 | $217,613.48 | $1,612,225.86 | Active (3 transactions) |
 
-**Total across all projects:** $5,747,987.00 revenue | $2,377,655.29 expenses | **$3,370,331.71 net**
-
----
-
-## Top Customers
-- **By Light Halo** [043-3]: $63,735.00 + $47,894.00 (Commercial)
-- **Government contracts:** 72 active invoices totaling $3,900,918.28 (largest customer segment)
+**Note:** Government contracts represent 68% of revenue; Commercial represents 32%.
 
 ---
 
 ## Cash Flow Indicators
-- **Accounts Receivable (Outstanding):** $2,632,499.19 in Government invoices with open balances
-- **Recent Large Expenses:** $24,953.55 added April 20–24, 2026 (primarily BST Internal)
-- **Recent Activity:** Government and Commercial projects show invoices through May–September 2026; BST Internal appears active but expense-driven
+
+### Accounts Receivable (Outstanding Balances)
+- **Government:** $2,632,499.19 outstanding
+- **Commercial:** At least $664.98 outstanding (Invoice #1759 to IRISS, CU Boulder)
+- **Total A/R:** $2,633,164.17+
+
+### Recent Activity
+- Most recent invoices dated **May 8, 2026** (Commercial)
+- Government invoices span through **September 28, 2026**
+- Government project has 72 active invoices indicating ongoing operations
+
+### Purchase Orders Outstanding
+- **Commercial:** $1,977.50
+- **Government:** $433.00
+- **Total POs:** $2,410.50
 
 ---
 
-## Top Vendors
-*Data incomplete in source; primary expense categories:*
-- **Government projects:** $1,309,196.56 in bills/purchases
-- **Commercial projects:** $217,613.48 in bills/purchases
-- **BST Internal:** $850,845.25 in bills/purchases (R&D, IRAD focus)
+## Data Limitations
 
----
+The QuickBooks export is **incomplete** for the period 2026-04-24 to 2026-04-25. The P&L report shows only $664.98 in activity, while project-level data reflects much larger historical balances (back to 2024). 
 
-## Unclassified Transactions
-All transactions accounted for by project class. P&L R&D category ($46.13, April 23–24) aligns with BST Internal IRAD coding.
+**Missing Information:**
+- Top vendors by spend (vendor names not fully provided)
+- Complete customer list and top customers (data truncated)
+- Expense category breakdown
+- Unclassified transactions summary
 
----
-
-## Key Observations
-✓ **Profitability:** Government & Commercial projects are highly profitable ($4.2M combined net)  
-⚠ **Cash Management:** Government sector has $2.6M outstanding—monitor collection cycles  
-⚠ **Internal Operations:** BST Internal runs at a significant loss ($-832K), suggesting overhead/R&D investment model  
-✓ **Growth:** Multi-year data shows sustained revenue across three project lines
+**Recommendation:** Request complete export including vendor master list, full invoice details, and expense categorization for comprehensive financial analysis.

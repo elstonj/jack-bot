@@ -45,12 +45,15 @@ All invoicing milestones completed; final phase extended 26 days past original d
 
 - **Invoicing:** All milestone invoices processed on time (10/14, 11/3, 11/24, 12/17)
 
+- **Post-Completion (April 2026):** Maciej noted (2026-04-24) that By-Lite Mustang still requires follow-up work: "2 more flight opportunities" owed to the customer. They have the SWIL setup needed to test their controller; flight data provided 2026-04-24. **By-Lite remains a priority project** (ranked 4th among highest priorities as of late April 2026, per Maciej's 2026-04-24 statement). Test flights may be delayed pending new fuselage arrival.
+
 ## Notes & Context
 - **Project Type:** Long-Range Fixed-Wing Evaluation & DoD Autopilot Enablement (BYL-LRFE)
 - **Subcontractors/Partners:** DSKinetic LLC (Spencer Lisenby) and Rocky Mountain High Aviation (D. Hesselius) for pilot services
 - **Key Outputs:** Flight data analysis, prototype aircraft (Mustang 2, Stock Chilli variants), propeller optimization testing, power/range/endurance performance reports
-- **Timeline Variance:** Project completed 26 days late (due 12/5, complete 12/31) but all major milestones were on track through December; final validation and demo flights extended into late December
+- **Timeline Variance:** Project marked complete 26 days late (due 12/5, complete 12/31) but all major milestones tracked on schedule through December; final validation and demo flights extended into late December
 - **Billing Structure:** Four milestone invoices, each tied to specific effort phases ($100k each for Weeks 1, 2-4, 5-7; $50k for Weeks 8-9)
 - **Custom Field Usage:** Strong tracking via Product/Service classification, Organization/Customer, and milestone-based invoicing for budget control
+- **Outstanding Work (April 2026):** Maciej (2026-04-24) confirmed "2 more flight opportunities" are still owed to By-Lite; awaiting new fuselage to resume testing. No imminent deployment/shipping; focus is test flight scheduling.
 
-**Project successfully delivered all major design, prototype, and flight testing objectives for By Light Professional IT Services' fixed-wing evaluation program.**
+**Project successfully delivered core design, prototype, and flight testing objectives. Post-completion follow-up flights are in queue pending equipment availability.**

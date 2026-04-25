@@ -31,7 +31,7 @@
 - **Notable Patterns:** Milestone-driven structure with formal reporting requirements; hardware-heavy integration work led by Alex Lomis; extensive custom component design and manufacturing; training/travel required for pilot operations
 
 ## Recent Activity
-- **April 20, 2026:** Team confirmation — Jack Elston and Daniel Prendergast confirmed project closure and directed permanent exclusion from briefings and priorities.
+- **April 20, 2026:** Team confirmation — Jack Elston and Daniel Prendergast confirmed final project closure and directed permanent exclusion from briefings and priorities.
 - **April 10, 2026:** Project closure — Final invoice sent by Meredith O'hara Needham; Final Report milestone completed by UMEX (not BST)
 - **March 18, 2026:** Completed MS7 Swarming S0 AD Flight and Mothership-dropped Swarming Flight milestone
 - **January 22, 2026:** Delivered all aircraft (2x S0 VTOL, 4x S0 AD)
@@ -59,6 +59,8 @@
 - Priority: Medium
 - Customer Type: Commercial
 
-**Final Report Clarification:** Per Alex Lomis (2026-04-17) and confirmed by Jack Elston (2026-04-17) and Daniel Prendergast (2026-04-20): BST had no responsibility for the final report deliverable. UMEX handled the final report completely. The April 2026 timeline for final report was a placeholder; BST's involvement ended with completion of aircraft delivery and flight testing in March 2026.
+**Final Report Clarification:** Per Alex Lomis (2026-04-17) and confirmed by Jack Elston (2026-04-17) and Daniel Prendergast (2026-04-20): BST had **no responsibility** for the final report deliverable. UMEX handled the final report completely. The April 2026 timeline for final report was a placeholder; BST's involvement ended with completion of aircraft delivery and flight testing in March 2026.
 
-**Program Performance:** Project successfully transitioned through all six major flight test milestones with minimal delays. All hardware deliverables completed on schedule. **Project is archived and fully closed. Do not include in future briefings or priority lists.**
+**Program Performance:** Project successfully transitioned through all six major flight test milestones with minimal delays. All hardware deliverables completed on schedule. 
+
+**⚠️ ARCHIVAL STATUS:** Project is **permanently archived and fully closed**. Per Jack Elston (2026-04-20): "Do NOT list any ADONIS tasks as priorities, ever again. Permanently exclude from briefings." Do not include in future briefings or priority lists.

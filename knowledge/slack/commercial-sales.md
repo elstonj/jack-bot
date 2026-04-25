@@ -11,13 +11,13 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Maciej Tromba (payload/camera work, customer communication)
 - Danny Troke (QC, testing, batteries)
 - Meredith Needham (shipping, logistics)
-- Nate (assembly, QC flights, payload prep, GCS builds)
+- Nate (assembly, QC flights, payload prep, GCS builds, quotes)
 - Paige Smith (sales coordination, customer communication)
 - Beck Cotter (customer outreach, email coordination)
 - Ben Busby (team member)
 - Dan Prendergast (project coordination, customer requests)
 
-**Activity Level:** High-volume channel with 4,701+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions.
 
 ---
 
@@ -70,6 +70,17 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Dan Prendergast requested keeping 4 E2 batteries reserved until after EMASS completion (April 21, 2026)
 - Maciej Tromba approved proposal (April 2026)
 
+### Service Repair Pricing & Quoting Standards (April 2026)
+
+**S20004 Flap Servo Replacement Quote (April 24, 2026)**
+- Nate developing quote for S20004 flap servo replacement including:
+  - MD89MW servo motors x2 @ $104.99 each
+  - Servo pockets (Jawstec) x2 @ $20 per pocket
+  - Beefy clevis x2 @ $20 per linkage
+  - Labor: Quote in hours rather than dollar amount (to be calculated by Meredith)
+- **Standard labor rate established by Jack Elston: $125/hour**
+- Joshua Fromm guidance: Quote component parts ($20 for pockets and linkages) and labor hours separately; let Meredith handle final pricing compilation
+
 ### Gimbal & Camera Decisions
 
 **Gimbal Lens Compatibility Testing (January 2021-2022)**
@@ -117,20 +128,4 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 **NASA Langley S2 MHP Power Configuration (2021)**
 - Option 1: Self-powered with 2-hour battery
 - Option 2: Aircraft-powered via wing (requires left wing for power cable/wingtip drilling)
-- Team leaning toward Option 2
-
-### International Shipping Policy
-
-**Large Item International Shipping (May 2022)**
-- Customers arrange and pay for their own shipping provider for large items (larger than MHP)
-- Company coordinates with whatever provider customer uses
-- Exception: Oier/Alerion maintains existing established process (no batteries involved)
-
-### Probe Design Decisions
-
-**MHP Sensor Probe Design (July 2016)**
-- Decision: Stick with smaller/older tip style (proven design with wind tunnel data)
-- Joshua Fromm advocated for larger carbon tube due to: increased length needed, current tube too small for hoses/causes static port clogs, brittle at step-down, time-consuming potting
-- Concerns about manufacturing precision without proper equipment
-- Resolution: Order housing from external supplier (MM Solutions to machine tubes properly)
-- Later decision (October 2021
+- Team leaning toward Option
