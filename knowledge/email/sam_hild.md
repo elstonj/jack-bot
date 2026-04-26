@@ -1,94 +1,69 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 756 (739 previous + 17 new)
-- **Date range:** March 16 – April 25, 2026 (approximately 41 days)
+- **Total messages scanned:** 762 (756 previous + 6 new)
+- **Date range:** March 16 – April 26, 2026 (approximately 42 days)
 - **Approximate volume:** ~18–19 emails per day
-- **Note:** New batch (Apr 24-25) maintains transactional baseline; 1 **critical task assignment** (S3 Debug Noise on motors, [001-07] S3 IRAD from Maciej Stachura, Apr 24); 1 webinar promotion (Veeam); remaining 15 messages are vendor notifications, system alerts, and automated updates. All messages marked UNREAD at scan time.
+- **Note:** New batch (Apr 25-26) consists entirely of vendor promotions, billing notifications, and automated digests. All messages marked UNREAD at scan time. No task assignments or critical correspondence in this batch.
 
 ## Key Correspondents
 
 ### Top Internal Contacts
 - **Dan Prendergast** (via Asana) — **ACTIVE TASK LEAD**: Circuit board revisions across multiple projects; task assignments maintain momentum on iterative design cycles
-- **Maciej Stachura** (via Asana) — **ESCALATED PRIORITY**: New critical task assignment (Apr 24) on **S3 Debug Noise on motors issue** under [001-07] S3 IRAD project; indicates motor diagnostics troubleshooting active; combined with earlier GNSS troubleshooting suggests integrated navigation/motor system validation
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Hurricane IDIQ lead; continues indirect involvement via procurement pipeline
-- **Jack Elston** (elstonj@blackswifttech.com) — **DESIGN APPROVAL/ESCALATION PATH**: Acts as intermediary between Sam's design work and external vendors; forwarding and approving critical component decisions (P400 Modem, Power Supply Board); continues precedent from Apr 23
+- **Maciej Stachura** (via Asana) — **ESCALATED PRIORITY**: Critical task assignment (Apr 24) on **S3 Debug Noise on motors issue** under [001-07] S3 IRAD project; motor diagnostics troubleshooting active
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Hurricane IDIQ lead; continues indirect involvement via procurement pipeline; **NOTE:** Apr 25-26 batch shows SkyGeek promotional routed to joshua.fromm@blackswifttech.com via purchasing alias, suggesting Joshua may handle purchasing delegation or receive vendor communications through centralized account
+- **Jack Elston** (elstonj@blackswifttech.com) — **DESIGN APPROVAL/ESCALATION PATH**: Acts as intermediary between Sam's design work and external vendors; Apr 26 Constant Contact billing receipt shows Jack Elston as payment recipient (likely Constant Contact account holder for BST marketing/communications)
 
-### External Direct Contacts (Stable)
-- **Frank Strazzabosco** (microfirm@earthlink.net) — **CRITICAL DESIGN CONSULTANT**: Power Supply Board Re-spin engagement (Apr 23); no new activity in Apr 24-25 batch but relationship remains active
-- **Matt Crabtree** (matt.crabtree@waveformengineering.com) — **ELEVATED VENDOR PRIORITY**: P400 900MHz Spread Spectrum Modem evaluation (Apr 23); no new activity in Apr 24-25 batch but component selection likely ongoing
+### Vendor/Supplier Contacts (New Additions in Apr 25-26 Batch)
 
-### Vendor/Supplier Contacts (Expanded with New Suppliers)
+**Electronics & Components (NEW VENDORS):**
+- **ELEGOO US** (hello@elegoo.com) — Promotional message on **"Jupiter 2: The First Chapter, Nearly Closed"** (Apr 25); ELEGOO manufactures Arduino-compatible microcontroller boards and electronics kits; subject line suggests product launch/campaign; promotional targeting indicates established vendor relationship or mailing list subscription
+- **SkyGeek** (service@skygeek.com) — Promotional **"What Our Regulars Rely On"** (Apr 25); SkyGeek specializes in aviation/RC equipment and supplies; "regulars" language suggests subscription/loyalty program; consistent with established vendor relationship
 
-**Electronics & Components (EXPANDED SOURCING):**
-- **DigiKey** — PO Acknowledgement and shipment (Apr 23); expedited 8-hour cycle
-- **RMRC (Ready Made RC)** — Order delivered (Apr 23); RC component supply pipeline
-- **Amazon.com** — Shipment of **10PCS ADUM1201 Serial** components + 3 additional items (Apr 24); ADUM1201 is isolated gate driver IC; indicates gate drive circuit sourcing (likely power electronics/motor driver board), potentially related to power supply board re-spin or motor noise troubleshooting
+**Retail/General Supply (PROMOTIONAL TARGETING):**
+- **Harbor Freight** — 30% Off promo on items $10 & under (Apr 25); general tool/supply vendor; promotional frequency suggests active account
+- **Budget** (car rental) — Double upgrade + 25% savings promotion (Apr 25); unusual for engineering team unless travel-related lab work or field testing logistics
 
-**Motor/Propulsion Components (NEW EMPHASIS):**
-- **KDE Direct** — Order KDE17135 shipments (2 notifications, Apr 24: in-transit, then delivered); **KDE motors** are high-performance brushless motors; suggests direct motor component procurement active; timing aligns with S3 Debug Noise motor troubleshooting task assignment
-- **Hobbyking** — Promotional notification on **Power system 30% OFF** (Apr 24); hobbyking supplies motor/ESC/battery systems; promotional targeting suggests established vendor relationship
+**Logistics/Mail Monitoring (Continued):**
+- **USPS Informed Delivery** — Daily digest (Apr 25); continuing mail/shipment monitoring
 
-**Fabrication & Materials (Continued):**
-- **SendCutSend** — Metal fabrication parts (Apr 23 batch); continuing through production cycle
-- **Rock West Composites** — Purchase completion prompt (Apr 24); composite materials for structural components
-
-**Logistics/Supply Chain:**
-- **SoaringUSA.com** — Package shipment notification (Apr 24); specialized RC/soaring components supplier
-- **FedEx pickup confirmation** (Apr 24) — On-call pickup scheduled (EASB2033); outbound shipment logistics active
-- **USPS Informed Delivery** — Daily digest (Apr 24); mail/shipment monitoring
-
-**Subscriptions/Recurring Services:**
-- **Spindrift Market** — Subscription order creation notification (Apr 25); continuing field logistics support (beverage/refreshment provisioning)
-- **SecurityMetrics** — PCI compliance account expiring (Apr 24); payment processing/security compliance alert; suggests BST handles card payments (customer invoicing/lab operations)
-
-**Professional Tools/Services (NEW SIGNALS):**
-- **Toggl Track** — Automated notification (Apr 25, no subject); time tracking software; suggests Sam may be using time tracking for project/task accounting
-- **GitLab** — SSH key expiration warning (Apr 25); software development/version control access; indicates Sam has developer/technical repository access
-- **Veeam** — Webinar promotion (Apr 24, Emilee Tellez); backup/disaster recovery software; promotional targeting suggests IT infrastructure/data protection interest
+**Billing/Service Platform:**
+- **Constant Contact** — Payment receipt via purchasing alias (Apr 26); email marketing/communications platform; billing routed through BST purchasing; suggests BST uses Constant Contact for customer/external communications
 
 ## Topic Patterns
 
-### Active Projects (Updated with Acute Motor Troubleshooting)
+### Active Projects (Motor Troubleshooting Remains Primary)
 
-**[001-07] S3 IRAD** — **MOTOR SYSTEM TROUBLESHOOTING ESCALATED**
-- GNSS troubleshooting (S1-22, S3) remains active from earlier batch
-- **NEW FOCUS:** S3 Debug Noise on motors issue assigned (Apr 24, Maciej Stachura); critical path task
-- **Signal:** Motor noise diagnostics now primary near-term deliverable; KDE Direct motor shipments (Apr 24) suggest replacement/testing components; ADUM1201 gate driver sourcing (Amazon, Apr 24) indicates motor driver circuitry troubleshooting or redesign
-- **Integration signal:** Motor and GNSS systems likely coupled (earlier metadata showed motor diagnostics escalated as GNSS issue); noise isolation/remediation now active focus
+**[001-07] S3 IRAD** — **MOTOR SYSTEM TROUBLESHOOTING ONGOING**
+- S3 Debug Noise on motors task assigned Apr 24 (Maciej Stachura); no new updates in Apr 25-26 batch
+- Motor component procurement active (KDE Direct shipments Apr 24); ADUM1201 gate driver ICs indicate motor driver circuitry troubleshooting
+- GNSS troubleshooting remains active baseline from earlier batch
 
 **[300-3] 2026 IDIQ (Hurricane)** — **SUBSYSTEM DEVELOPMENT ONGOING**
-- P400 900MHz Spread Spectrum Modem evaluation (Apr 23); no new activity in Apr 24-25 batch
-- Power Supply Board Re-spin (Apr 23); no new activity in Apr 24-25 batch; likely in design iteration phase awaiting feedback
+- P400 900MHz Spread Spectrum Modem evaluation ongoing
+- Power Supply Board Re-spin design iteration phase
 
-**[Iterative Ground & Flight T…]** — **BOARD REVISION PIPELINE**
-- Circuit board revisions with Dan Prendergast continuing; no new Apr 24-25 tasks visible
+### Component/Subsystem Engineering Focus (No New Signals in Apr 25-26)
 
-### Component/Subsystem Engineering Focus (CLARIFIED WITH MOTOR EMPHASIS)
+Motor system architecture, motor driver/control circuitry, power supply architecture, and communications/telemetry subsystems remain primary focus areas based on earlier batch activity. Apr 25-26 batch contains no new technical procurement signals.
 
-**Motor System Architecture:**
-- **Brushless Motor Components** (KDE Direct, order KDE17135)
-  - KDE motors are precision high-performance brushless units
-  - Same-day in-transit + delivery (Apr 24) suggests critical path component
-  - **Signal:** Motor replacement or testing cycle active concurrent with noise troubleshooting task
+## Communication Patterns
 
-**Motor Driver/Control Circuitry:**
-- **ADUM1201 Isolated Gate Driver ICs** (10-piece order, Amazon delivered Apr 24)
-  - ADUM1201 is isolation IC for high-side/low-side gate drive applications
-  - Typical use: motor driver H-bridge or power converter circuits
-  - **Signal:** Motor driver board redesign or troubleshooting active; isolation gate drive suggests EMI/noise mitigation focus (aligns with "Debug Noise on motors" task)
+### Email Routing & Procurement Process
+- **Purchasing alias pattern:** Multiple vendors/services (Harbor Freight, Budget, USPS, Constant Contact, ELEGOO) route to purchasing@blackswifttech.com, suggesting centralized procurement email forwarding or distribution list
+- **Promotional/subscription baseline:** Apr 25-26 batch is 100% promotional, billing, and automated notifications — consistent with earlier batch pattern of vendor subscriptions and logistics monitoring
+- **Unread status:** All 6 messages in new batch marked UNREAD; suggests auto-categorization into CATEGORY_FORUMS/CATEGORY_UPDATES without active manual review required
 
-**Power Supply Architecture:**
-- **Power Supply Board Re-spin** (Apr 23 discussion); no new Apr 24-25 activity
-- **Hobbyking Power System 30% OFF** (promotional, Apr 24) — ESC/battery systems; may indicate stock replenishment interest for test systems
+### Notable Observations
 
-**Communications/Telemetry Link:**
-- **P400 900MHz Spread Spectrum Modem** — Active evaluation (no new Apr 24-25 messages)
+1. **Promotional density shift:** Apr 25-26 batch shows heavier promotional/retail promotions (Harbor Freight, Budget rental car) compared to earlier technical vendor focus; may indicate broader team purchasing activity routed to centralized account rather than Sam's direct procurement needs
 
-**Structural/Composite Materials:**
-- **Rock West Composites** — Purchase in progress (Apr 24); continued material sourcing for airframe/structural components
+2. **No critical task updates:** Unlike Apr 24 (S3 motor noise task assignment), Apr 25-26 batch contains zero work-related correspondence; suggests weekend/weekend-edge timeframe (Sat 4/25 - Sun 4/26) with normal weekend email reduction
 
-### Procurement Velocity (Continued Rapid Cycle)
-- **KDE Direct** — Same-day transit + delivery cycle (Apr 24); motor components on critical path
-- **Amazon** — Delivered Apr 24; isolated gate driver ICs and 3+ additional items
-- **SoaringUSA.com** — Shipment in transit (Apr 24
+3. **ELEGOO and SkyGeek targeting:** Both aviation/electronics specialty vendors showing promotional activity; consistent with BST's UAS/aerial vehicle engineering focus; ELEGOO Jupiter 2 reference suggests interest in microcontroller platform evolution
+
+4. **Jack Elston billing escalation:** Constant Contact payment receipt routed through purchasing (Apr 26) with Jack Elston as account holder; reinforces Jack's role in business/administrative functions beyond direct technical approval pathway
+
+---
+
+**MERGE STATUS:** Existing knowledge preserved; 6 new messages added (Apr 25-26 batch). No contradictions or changes to earlier findings. Motor troubleshooting task remains active primary focus. New vendor relationships (ELEGOO, SkyGeek) noted but not operationally active in metadata (promotional subscriptions only).

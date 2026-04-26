@@ -1,10 +1,10 @@
 # Meredith O'Hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 851 (819 previous + 32 new)
-- **Date range:** March 23 – April 25, 2026 (approximately 4 weeks + 3 days)
+- **Total messages scanned:** 867 (851 previous + 16 new)
+- **Date range:** March 23 – April 26, 2026 (approximately 5 weeks)
 - **Approximate volume:** 25–30 emails per day (mix of sent, received, and automated)
-- **New data period:** April 24–25, 2026 (32 messages; concentrated Apr 24)
+- **New data period:** April 25–26, 2026 (16 messages; mostly Apr 25)
 
 ---
 
@@ -71,3 +71,5 @@
 - **Oier Penagaricano** (oier@aleriontec.com) — Aleriont MP JET parts, **active bidirectional coordination** (Apr 24, IMPORTANT)
 - **Adam Craft** (adam.c@ampriuscells.com) — Amprius cells
 - **Nora** (nhud@nanoveu.com) — NanoVeu, **INV1743 bank transfer follow-up**
+
+### Automated/

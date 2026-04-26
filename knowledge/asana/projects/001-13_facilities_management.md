@@ -7,35 +7,33 @@
 - **Status**: Active - high completion rate; recurring batch completion cycle functioning smoothly
 - **Team members involved**: Meredith O'hara Needham (primary operational owner), Nate Straus (facilities improvements & consumables)
 - **Risk signals**: 
-  - **Ongoing Office Purchasing List due 2026-04-24** (weekly recurring task; currently open)
   - **Office Cleaning due 2026-05-02** (bi-weekly recurring task; currently open)
 
 ## Key Deliverables & Milestones
 - **Monthly rent payments** (~$13.00–$14.63 NNN depending on lease year, due ~27th of each month)
 - **Bi-weekly office cleaning** (every ~2 weeks via Neat N Tidy; next due 2026-05-02)
-- **Weekly office purchasing coordination** (ongoing collection and ordering; next due 2026-04-24)
+- **Weekly office purchasing coordination** (ongoing collection and ordering)
 - **Facilities improvements** (ongoing, no due date set)
 - **Equipment wish list** (ongoing, no due date set)
 - **Consumables stock management** (periodic, last completed 2025-11-04)
 - **Lease termination planning** (unassigned, no due date)
 
 ## Task Summary
-- **Total tasks**: 2 open, 0 completed (visible in current snapshot)
+- **Total tasks**: 1 open, 0 completed (visible in current snapshot)
 - **Tasks by assignee**:
-  - **Meredith O'hara Needham**: 2 open tasks
+  - **Meredith O'hara Needham**: 1 open task
     - Office Cleaning (due 2026-05-02)
-    - Ongoing Office Purchasing List (due 2026-04-24)
   - **Nate Straus**: Not visible in current task list (likely working on long-term facilities/equipment initiatives outside immediate task cycle)
 - **Notable patterns**: 
   - Recurring tasks typically completed in batches on specific dates rather than individual due dates
-  - Weekly purchasing lists follow consistent weekly cadence; office cleaning recurs every ~2 weeks
-  - Both current open tasks are within the expected batch completion cycle window
+  - Bi-weekly office cleaning cycle via Neat N Tidy
+  - Open task is within expected batch completion cycle window
 
 ## Recent Activity
-- **Current state**: 2 open tasks reflecting normal recurring cycle
-  - Ongoing Office Purchasing List due 2026-04-24 (weekly recurring, task notes indicate "Collect purchases for the week here")
+- **Current state**: 1 open task reflecting normal recurring cycle
   - Office Cleaning due 2026-05-02 (bi-weekly recurring via Neat N Tidy)
-- **Operational momentum**: Project continues high-execution pattern with efficient batch completion workflow resolving recurring tasks on schedule
+- **Operational momentum**: Project continues high-execution pattern with efficient batch completion workflow
+- **Note**: Ongoing Office Purchasing List task no longer visible in current snapshot (likely completed in previous batch cycle)
 
 ## Notes & Context
 
@@ -61,4 +59,4 @@
 | Months 37–48 | $14.21 | $6.23 |
 | Months 49–60 | $14.63 | $6.23 |
 
-**Operational Focus**: Project serves as central hub for all physical office maintenance, from routine cleaning and purchasing to strategic facilities improvements and equipment management. All current recurring tasks concentrated on Meredith O'hara Needham; batch completion workflow efficient and predictable (tasks grouped and completed in 2–3 day cycles after due dates pass). Consumables stock tracker maintained at https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus).
+**Operational Focus**: Project serves as central hub for all physical office maintenance, from routine cleaning and purchasing to strategic facilities improvements and equipment management. Batch completion workflow efficient and predictable (tasks grouped and completed in 2–3 day cycles after due dates pass). Consumables stock tracker maintained at https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus).

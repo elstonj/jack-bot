@@ -37,15 +37,15 @@
 | (210-10) AREN 2024 | $92,500.00 | Aerospace Engineering |
 
 **Recent invoices (2026-04-15 to 2026-09-28):**
-- **Invoice #1757** (2026-04-15): $18,000.00 — Operational Testing & Support, Clear Air, Lakeland FL
-- **Invoice #1737** (2026-04-15): $54,000.00 — CLIN 1001 Invoice 2 of 6
-- **Invoice #1738** (2026-05-15): $54,000.00 — CLIN 1001 Invoice 3 of 6
-- **Invoice #1739** (2026-06-15): $72,000.00 — CLIN 1001 Invoice 4 of 6
-- **Invoice #1740** (2026-07-15): $72,000.00 — CLIN 1001 Invoice 5 of 6
-- **Invoice #1741** (2026-07-30): $72,000.00 — CLIN 1001 Invoice 6 of 6
-- **Invoice #1748** (2026-04-14): $50,000.00 — Navy SBIR Kick-Off & FWA (Option Period)
-- **Invoice #1749** (2026-06-29): $35,000.00 — Navy SBIR CLIN 0006 Progress Report - Option
-- **Invoice #1750** (2026-09-28): $14,459.00 — Navy SBIR CLIN 0007 Final Report
+- **Invoice #1737** (2026-04-15): $54,000.00 — CLIN 1001 Invoice 2 of 6 [300-3] 2026 IDIQ
+- **Invoice #1738** (2026-05-15): $54,000.00 — CLIN 1001 Invoice 3 of 6 [300-3] 2026 IDIQ
+- **Invoice #1739** (2026-06-15): $72,000.00 — CLIN 1001 Invoice 4 of 6 [300-3] 2026 IDIQ
+- **Invoice #1740** (2026-07-15): $72,000.00 — CLIN 1001 Invoice 5 of 6 [300-3] 2026 IDIQ
+- **Invoice #1741** (2026-07-30): $72,000.00 — CLIN 1001 Invoice 6 of 6 [300-3] 2026 IDIQ
+- **Invoice #1748** (2026-04-14): $50,000.00 — Navy SBIR Kick-Off & FWA (Option Period) [550-1]
+- **Invoice #1749** (2026-06-29): $35,000.00 — Navy SBIR CLIN 0006 Progress Report - Option [550-1]
+- **Invoice #1750** (2026-09-28): $14,459.00 — Navy SBIR CLIN 0007 Final Report [550-1]
+- **Invoice #1757** (2026-04-15): $18,000.00 — Operational Testing & Support, Clear Air, Lakeland FL [300-3]
 
 ---
 
@@ -84,9 +84,9 @@
 - **S0 wing components:** Multiple purchases totaling $12,200+
 - **PCB boards, stencils, parts sourcing:** ~$30,000+
 
-**Recent transactions (April 2026):**
+**Recent transactions (April–May 2026):**
 - **Purchase #459340813415** (2026-04-21): $495.15 — Split between 3 S0 projects (2026 IDIQ $330.10, Sasquatch $66.02, Future S0 inventory $99.03)
-- **Digikey (Purchase #98710410):** $283.99 — Supplies for 2026 IDIQ ($93.99), Sasquatch ($18.80), future S0 inventory ($28.20)
+- **Digikey (Purchase #98710410)** (2026-04-17): $283.99 — Supplies for 2026 IDIQ ($93.99), Sasquatch ($18.80), future S0 inventory ($28.20)
 
 ---
 
@@ -117,7 +117,7 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 **Number of transactions:** 38+  
 **Key items:**
 - **Aeronet Worldwide:** $2,615.50 (battery shipping, S0 UAS to NOAA Lakeland)
-- **Direct Cost Shipping, Freight & Delivery:** $358.40 (2026-04-06, items sent to NOAA Lakeland for Maciej & Alex trip)
+- **Direct Cost Shipping, Freight & Delivery** (2026-04-06): $358.40 (items sent to NOAA Lakeland for Maciej & Alex trip)
 - **DHL/FedEx tariffs on PCB imports:** $234.60+
 - **USPS reimbursements:** $12.25 + $25.45
 - **Various parcel shipping:** $200+ across multiple vendors
@@ -141,8 +141,8 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 ### **Facilities/Shop Supplies: $171.75**
 **Number of transactions:** 2  
 **Items:**
-- **Shop supplies allocation (Digikey purchase):** $143.00 (part of Purchase #98710410, 2026-04-17)
-- **Tool shipping to Sean Cole (Phase1 Aviation):** $28.75 (2026-04-10, for S0 manufacturing support)
+- **Shop supplies allocation (Digikey purchase)** (2026-04-17): $143.00 (part of Purchase #98710410)
+- **Tool shipping to Sean Cole (Phase1 Aviation)** (2026-04-10): $28.75 (for S0 manufacturing support)
 
 ---
 
@@ -154,13 +154,4 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 
 ## Purchase Orders
 | PO Number | Date | Vendor | Amount | Description |
-|-----------|------|--------|--------|-------------|
-| — | Various | Various | $433.00 | Outstanding purchase orders |
-
----
-
-## Monthly Spend by Category
-
-| Month | Subcontractors | Materials | Travel | Shipping | Indirect | Facilities | **Total** |
-|-------|----------------|-----------|--------|----------|----------|-----------|----------|
-| 2024-04 | $210.00 | $0.00 | $0
+|-----------|------|--------|--------|

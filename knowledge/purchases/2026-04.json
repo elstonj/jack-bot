@@ -3730,5 +3730,83 @@
     "notes": "Out-for-delivery notification for order KDE17135; no amount or items listed",
     "date": "2026-04-24",
     "subject": "A shipment from order KDE17135 is out for delivery"
+  },
+  {
+    "id": "19dc6ca1b341818e",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "SkyGeek",
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Marketing newsletter; no purchase or amount",
+    "date": "2026-04-25",
+    "subject": "What Our Regulars Rely On"
+  },
+  {
+    "id": "19dc5906a4991eda",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "Harbor Freight",
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Promotional email; no actual purchase or amount",
+    "date": "2026-04-25",
+    "subject": "Your 30% Off Savings Weekend Is Here! Save on All Items $10 & Under"
+  },
+  {
+    "id": "19dc56457f3fabfd",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "Budget",
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Car rental promotional email; no purchase transaction",
+    "date": "2026-04-25",
+    "subject": "REMINDER: Free Double Upgrade + Save up to 25%"
+  },
+  {
+    "id": "19dc4cd42a012980",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": null,
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "USPS Informed Delivery notification; shipping status only, no purchase",
+    "date": "2026-04-25",
+    "subject": "Your Daily Digest for Sat, 4/25 is ready to view"
+  },
+  {
+    "id": "19dc4bc0cf1cd163",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "ELEGOO US",
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Product marketing newsletter; no purchase or amount",
+    "date": "2026-04-25",
+    "subject": "Jupiter 2: The First Chapter, Nearly Closed."
+  },
+  {
+    "id": "19dc8a41774115cd",
+    "is_purchase": true,
+    "status": "invoiced",
+    "amount_usd": 54.0,
+    "vendor": "Constant Contact",
+    "project_code": null,
+    "project_hint": null,
+    "description": "Constant Contact email marketing subscription payment",
+    "notes": "Auto-renewal subscription; payment method VI ending 7636",
+    "date": "2026-04-26",
+    "subject": "Constant Contact Payment Receipt for Jack Elston"
   }
 ]

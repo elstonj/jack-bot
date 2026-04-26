@@ -17,7 +17,7 @@
     "total_value": 242540.0,
     "start_date": "2026-09-28",
     "end_date": "2026-09-28",
-    "payment_cadence": "monthly",
+    "payment_cadence": "monthly milestone-based",
     "documents": [
       "drive://Statement of Work",
       "drive://CRT-90P Hydrophone User Guide Rev 2.pdf",
@@ -33,19 +33,19 @@
         "amount": 27587.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-04-25"
+        "last_updated": "2026-04-26"
       },
       "purchases": {
         "amount": 185.15,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-04-25"
+        "last_updated": "2026-04-26"
       },
       "other_qbo": {
         "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-04-25"
+        "last_updated": "2026-04-26"
       },
       "total": 27772.65,
       "by_line_item": {}
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": 214767.35,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-04-25T09:10:18Z"
+    "last_reconciled": "2026-04-26T08:54:13Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -218,6 +218,6 @@
       "text": "From Maciej: <@U0AQE94HJUT> our highest priority projects right now are: (1) S3 IRAD with a targeted delivery of end of May for the UMES S3, (2) S0-VTOL with two deliveries for ERAU and Barbados, (3) Closing out EMASS, (4) By-Lite Mustang, and (5) Initial tasks on the SBIR Magnetometer project. How are we looking on overdue tasks for those?"
     }
   ],
-  "last_full_rebuild": "2026-04-25T09:10:18Z",
+  "last_full_rebuild": "2026-04-26T08:54:13Z",
   "last_incremental_update": null
 }

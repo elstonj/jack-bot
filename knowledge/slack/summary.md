@@ -1,63 +1,50 @@
 # Slack Channels Overview
 
-Last scanned: 2026-04-25 02:23
+Last scanned: 2026-04-26 02:09
 
-Total channels scanned: 9
+Total channels scanned: 3
 
 ## Channels
 
-- **#by-lite-mustang** -- 1 messages -- [by-lite-mustang.md](by-lite-mustang.md)
-- **#commercial-sales** -- 4 messages -- [commercial-sales.md](commercial-sales.md)
-- **#emass** -- 9 messages -- [emass.md](emass.md)
-- **#emass-bst** -- 19 messages -- [emass-bst.md](emass-bst.md)
-- **#flight-testing** -- 22 messages -- [flight-testing.md](flight-testing.md)
-- **#general** -- 19 messages -- [general.md](general.md)
+- **#emass-bst** -- 9 messages -- [emass-bst.md](emass-bst.md)
+- **#flight-testing** -- 6 messages -- [flight-testing.md](flight-testing.md)
 - **#logparse-website** -- 2 messages -- [logparse-website.md](logparse-website.md)
-- **#operations** -- 20 messages -- [operations.md](operations.md)
-- **#s3** -- 27 messages -- [s3.md](s3.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Strategic Slack Overview
+# Black Swift Technologies - Cross-Channel Strategic Overview
 
-## Active Projects (Primary)
+## Active Projects
 
-| Project | Channel | Status | Lead |
-|---------|---------|--------|------|
-| **S3 VTOL** | #s3 | In development | Joshua Fromm |
-| **E2 + eMASS AI Integration** | #emass, #emass-bst | Active integration | Dan Prendergast / Nikhila |
-| **SwiftWeb (Flight Log Platform)** | #logparse-website | Operations & development | Ben Busby |
-| **By Light Mustang (USAF)** | #by-lite-mustang | Flight testing phase | Maciej |
+**SwiftWeb (logparse)** - Flight data platform converting binary logs to NetCDF format, storing in S3, with web-based visualization. Core infrastructure for data analysis across all aircraft types.
 
-## Cross-Channel Patterns
+**ECSDoT Integration** - Energy management system hardware integration onto E2 aircraft platform, involving chip integration, AI model training, and software development in partnership with eMASS AI.
 
-### Key People & Roles
-- **Jack Elston**: Systems architecture, firmware, flight operations, leadership decisions
-- **Maciej**: Project oversight, flight testing, operations coordination
-- **Joshua Fromm**: Hardware design, component sourcing, QA
-- **Ben Busby**: Infrastructure, backend systems, data platforms
-- **Dan Prendergast**: Project management, external partnerships (eMASS)
+**Fleet Flight Testing** - Continuous testing and development across S-series, E2, Flamewheel, VTOL (S0, S1, S3) platforms with emphasis on firmware/software development and troubleshooting.
 
-### Recurring Themes
-1. **Flight Testing & Operations**: Continuous cycle across #flight-testing, #by-lite-mustang, and #s3 (aircraft validation, firmware troubleshooting)
-2. **Data & Analytics**: SwiftWeb platform (#logparse-website) supports multiple aircraft types and flight operations
-3. **Hardware Integration**: E2 platform serves as integration testbed (eMASS AI chip, various payloads)
-4. **Customer Delivery**: #commercial-sales tracks quotes-to-delivery across product line
-5. **Project Coordination**: #general and #operations serve as decision logs and status hubs
+## Key People & Roles
 
-### Decision Patterns
-- Leadership (Jack Elston) makes architectural/strategic decisions in #general
-- Technical teams execute in specialized channels (#s3, #emass-bst, #flight-testing)
-- Operations (#operations) documents resource allocation and logistics
-- Flight readiness decisions involve Maciej + Jack + domain experts
+| Person | Primary Focus |
+|--------|---|
+| **Jack Elston** | Flight operations, autopilot/simulation expertise, firmware development |
+| **Maciej** | SDK/parsing, flight testing lead, flight data analysis |
+| **Ben Busby** | Infrastructure, backend systems, data handling |
+| **Nikhila (eMASS AI)** | ECSDoT chip integration, AI model implementation |
+| **Joshua Fromm** | QA, component sourcing |
 
-### Infrastructure Connections
-- **SwiftWeb** ingests logs from all aircraft platforms (S2, E2, S3, S0, ground stations)
-- **E2 platform** central for payload/hardware experimentation (eMASS AI, various sensors)
-- **Flight testing** validates developments across all project channels
+## Cross-Channel Themes
 
-## Organizational Structure
-- **Product/Engineering**: S3, eMASS integration, SwiftWeb development
-- **Operations**: Facility, procurement, shipping, finance
-- **Sales & Delivery**: Commercial contracts (USAF, universities, government agencies)
-- **Flight Operations**: Cross-platform validation and testing
+**Data Pipeline Integration** - LogParse channel feeds flight test operations with data infrastructure; flight testing generates the logs analyzed through SwiftWeb.
+
+**Multi-Platform Development** - Consistent aircraft portfolio (S2, E2, Flamewheel, S0/S1/S3 VTOL, Dronetag, ground stations) referenced across channels.
+
+**Hardware-Software Coupling** - ECSDoT integration demonstrates typical BST pattern of hardware integration with firmware/software development cycles validated through flight testing.
+
+**Partnership Model** - eMASS AI collaboration shows external technical partnerships integrated into core development workflows.
+
+## Decision Patterns & Recurring Topics
+
+- Firmware troubleshooting and iteration cycles tied to flight test results
+- Data format standardization (binary → NetCDF) enabling downstream analysis
+- Hardware integration requiring coordinated testing and validation
+- Component sourcing and QA as gating factors for flight operations
