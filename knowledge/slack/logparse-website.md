@@ -17,6 +17,7 @@ This channel tracks the development and operation of SwiftWeb (logparse), a plat
 - **Sep 15, 2025**: Decided to migrate plotting tools from matplotlib to Plotly/Dash for better web interactivity and independence from notebooks
 - **Oct 2025**: Approved migration of all logs from 14 organizations from old logparse site to new SwiftWeb platform
 - **Apr 21, 2026**: Decided to un-publish log_utils package from PyPI; will import as submodule in swiftweb repo instead (Ben Busby decision)
+- **Apr 25, 2026**: Confirmed shareable flight links should include NetCDF download capability in addition to flight path visualization and submitted info (Jack Elston requested)
 
 ## Projects & Initiatives
 
@@ -26,7 +27,8 @@ This channel tracks the development and operation of SwiftWeb (logparse), a plat
 - Supports S2, E2, Flamewheel, Dronetag, and ground station logs
 - Passed 2000 flights milestone (Mar 11, 2025)
 - Features: flight visualization, 3D flight paths with Google Maps tiles, custom SQL queries on flight metadata, WMO NetCDF generation for S0 aircraft
-- **New feature request (Apr 24, 2026)**: "Publish" link to make individual flights read-only shareable with customers
+- **New feature (Apr 24-25, 2026)**: "Publish" link to make individual flights read-only shareable with customers
+  - Includes: submitted info display, flight path visualization, NetCDF download capability
 
 ### Ground Station Logs (GCS) Processing
 **Status:** Operational with ongoing refinements (as of Apr 2026)
@@ -74,12 +76,12 @@ This channel tracks the development and operation of SwiftWeb (logparse), a plat
 - ✅ Implement log deletion functionality for BST users (completed Sep 26, 2025)
 - ✅ Fix GCS log processing for logs without sys_init/vehicle_param packets (completed Apr 21, 2026)
 - ✅ Un-publish log_utils from PyPI; convert to submodule import (completed Apr 21, 2026)
+- ✅ Fix date filter bug where "to" date must be set one day after today to view today's flights (completed Apr 25, 2026)
 - **Pending:** Switch WMO generator to background task processing (awaiting Maciej's modifications)
 - **Pending:** Add parsing support for SENSORS_RTK_HEADING packet (ID #59) (requested Mar 20, 2026)
 - **Pending:** Investigate S1-19 flight NAN value issues (assigned Apr 1, 2026)
 - **Pending:** Investigate missing `FLIGHT_PLAN_WAYPOINT` packets in recent S1-22 logs (assigned Apr 20, 2026; confirmed packets missing from binary as of Apr 21)
-- **New (Apr 24, 2026):** Develop "publish" feature for shareable read-only flight links (feature request from Jack Elston)
-- **New (Apr 24, 2026):** Fix date filter bug where "to" date must be set one day after today to view today's flights
+- **Pending (Apr 25, 2026):** Develop "publish" feature for shareable read-only flight links with NetCDF download capability (feature request from Jack Elston)
 
 ### Maciej
 - ✅ Complete automation of WMO netCDF generation code (planned for weekend following Jun 27, 2025)
@@ -99,8 +101,4 @@ This channel tracks the development and operation of SwiftWeb (logparse), a plat
 
 ## Client & External References
 
-### NASA Accounts Added (May 2025)
-- william.o.wade@nasa.gov (NASA Ames)
-- isaac.e.anderson@nasa.gov (NASA Ames)
-- tyler.willhite@nasa.gov (NASA Langley)
-- jay.m.tomlin
+###

@@ -7,12 +7,13 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Nikhila (eMASS AI) - Primary developer, leading chip integration and AI model implementation
 - Jack Elston (BST) - Autopilot/simulation expertise, hardware integration guidance, protocol specification, flight testing, data analysis
 - Dan Prendergast (BST) - Flight test coordination, E2 aircraft management, hardware setup lead, simulator testing
+- Mohamed M. Sabry (eMASS AI) - AI model training and constraint optimization
 - Moe/Prof. Moe (eMASS AI) - AI model training and optimization
 - Maciej (BST) - Vehicle parameters and specifications
 - Sergio Ruocco (eMASS AI) - Autoboot firmware expert, SDK bring-up and troubleshooting
 - Shantanu (eMASS AI) - Hardware verification and validation
 
-**Activity Level:** Highly active collaboration spanning February-April 2026. Intensive HWIL and model training in March-April. Most recent activity (Apr 20-25, 2026) focused on initial flight test execution, post-flight analysis, and controller performance evaluation. Critical first-flight test completed on Apr 24, 2026.
+**Activity Level:** Highly active collaboration spanning February-April 2026. Intensive HWIL and model training in March-April. Most recent activity (Apr 24-26, 2026) focused on post-flight analysis, controller performance evaluation, and planning next test flight with refined AI models. Critical first-flight test completed on Apr 24, 2026.
 
 ---
 
@@ -72,12 +73,30 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Rationale: Autopilot "steps aside" only when explicitly told to operate in external mode; prevents conflicting control signals
 - Status: Verified working in pre-flight testing - "if I send those commands, I'm seeing your hardware take over control" (Jack Elston, Apr 23 12:41)
 
+**Waypoint Modification for Part 107 Compliance (Apr 25, 2026)**
+- Jack Elston identified that original waypoints violated the 120m ceiling requirement for Part 107 operations
+- **Decision: Modified waypoints to ensure compliance** while maintaining test objectives
+- Updated waypoint list provided to eMASS team for AI model training and next test flight
+
+**Dual AI Model Variants for Constraint Testing (Apr 25, 2026)**
+- Mohamed M. Sabry proposed generating two updated AI models with different constraint levels for next flight
+- **Decision: Two models to be provided:**
+  - Model 1: Maximum 4% change constraint
+  - Model 2: Maximum 10% change constraint
+- Rationale: Will enable testing of AI accuracy improvements using flight data from compliant waypoint path (same path used for Gazebo training)
+- Status: Models to be sent to BST before next test flight
+
+**AI Model Control Behavior Specification (Apr 25-26, 2026)**
+- Jack Elston requested clarification on AI model behavior once activated in flight: "will it hold a point or try to fly somewhere?"
+- Mohamed M. Sabry confirmed: AI model primarily follows the planned path/waypoints and will hover if waypoints imply a hover command
+- Rationale: Model trained to track waypoint-based flight plans, not maintain fixed positions
+
 ---
 
 ## Projects & Initiatives
 
 ### ECSDoT Integration onto E2 Aircraft
-**Status:** First flight test completed Apr 24, 2026. Controller performance issues identified requiring further simulation training before next live run. Critical insights gained on bumpless handover, hover stability, and actuator PWM continuity.
+**Status:** First flight test completed Apr 24, 2026. Post-flight analysis underway. Next test flight planned for Sunday, Apr 27, 2026 (weather permitting). Controller performance issues from first flight to be addressed through updated AI models before next live run. Critical insights gained on bumpless handover, hover stability, and actuator PWM continuity.
 
 **Scope:** Integrating eMASS AI's ECSDoT energy management chip onto BST's E2 multirotor UAS for final flight testing and validation.
 
@@ -92,26 +111,4 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 **Aircraft Used in Testing:**
 - E20006: HW 2050, SW 3.0.28, comms 3.22.0, 4-rotor 10 kg multirotor, 6-cell pack
 
-**Progress Timeline (Apr 8-25, 2026):**
-
-- **Hardware Bring-up (Apr 8-14):**
-  - Resolved JTAG/UART dual connection issues on Eval Board (FTDI Dual RS232-HS)
-  - Fixed Linux user permissions issue (dialout group requirement) blocking serial device access
-  - Successfully compiled and ran HelloWorld on Eval Board via Docker SDK
-  - Transitioned to Pico 2 autoboot procedure with firmware flashing
-  
-- **Payload Protocol Implementation (Apr 14-16):**
-  - Identified and corrected payload connection state cycling issue
-  - Root cause: Incorrect packet sequence understanding; AI chip was sending `PAYLOAD_CTRL_READY` too quickly after `SYSTEM_INITIALIZE`
-  - Fixed by implementing proper packet sequence per Jack Elston's protocol specification:
-    1. Continuous heartbeats (0.2s interval) from payload
-    2. Wait for `SYSTEM_INITIALIZE` request from autopilot
-    3. Respond with initialization packets
-    4. Wait for `READY` command from tablet (not from chip)
-    5. Chip can request `ACTIVE` control only after `READY` received
-    6. Send actuator packets only after autopilot confirms running state
-  - Resolved heartbeat timeout issue (reduced from higher interval to 0.2s per Jack's guidance)
-  - Fixed UART receive buffer blocking issue that prevented heartbeats during `PAYLOAD_WAITING` state
-
-- **AI Model Performance Issues (Apr 14-16):**
-  - Model inference producing 4
+**

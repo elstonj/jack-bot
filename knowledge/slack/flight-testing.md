@@ -4,9 +4,9 @@
 
 The #flight-testing channel serves as Black Swift Technologies' primary hub for coordinating flight test operations, troubleshooting aircraft and payload issues, and tracking firmware/software development across their fleet of fixed-wing (S-series), multirotor (E2, Flamewheel), and VTOL (S0, S1-VTOL, S3) platforms.
 
-**Key Participants:** Maciej (lead flight testing/analysis), Jack Elston (firmware development), Joshua Fromm (QA/component sourcing), Ben Busby (tablet/GCS software), Nate (videography/pilot), Alex Lomis (field operations/media), Sam Hild (Remote ID integration/test pilot), Dan Prendergast (autopilot/control systems), Danny Troke (data management), Ethan Domagala (pilot), Beck Cotter (operations support), Paige Smith (media/video curation)
+**Key Participants:** Maciej (lead flight testing/analysis), Jack Elston (firmware development), Joshua Fromm (QA/component sourcing), Ben Busby (tablet/GCS software), Nate (videography/pilot), Alex Lomis (field operations/media/pilot), Sam Hild (Remote ID integration/test pilot), Dan Prendergast (autopilot/control systems/operations), Danny Troke (data management), Ethan Domagala (pilot), Beck Cotter (operations support), Paige Smith (media/video curation)
 
-**Activity Level:** Extremely high — 5,600+ messages across June 2020 through April 2026. Daily operations with multiple aircraft flights, rapid issue turnaround, continuous firmware iterations, and intensive VTOL transition testing.
+**Activity Level:** Extremely high — 5,600+ messages across June 2020 through April 2026. Daily operations with multiple aircraft flights, rapid issue turnaround, continuous firmware iterations, and intensive VTOL transition testing. Recent activity (April 2026) shows intensive multi-aircraft testing cycles with frequent coordination requirements.
 
 ---
 
@@ -24,6 +24,7 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 - **April 20-23, 2026:** S10022 DroneCAN firmware deployment approved and completed; aircraft returned to flight status with nose tape requirement reinforced for airspeed sensor protection
 - **April 23, 2026:** S3-MASS left pivot servo grounding issue resolved with added grounding strap; aircraft approved for flight testing with monitoring contingency
 - **April 24, 2026:** S1-22 cleared for extended flight testing (1+ hour accumulated with no observed issues); S3-MASS and S30001 scheduled for continued hover testing pending wind conditions
+- **April 25, 2026:** E-MASS project training data collection scheduled Monday; confirmed two relatively charged E2 batteries available for mission; waypoint plan phases configured for sequential loading during flight to maximize training data capture across one or two flights
 
 ### Firmware & Code Management
 - **October 2020:** Angle-to-rate loop gains critical safety parameter — develop (8,8,3) vs. master (4,4,1.5) discrepancy required close monitoring
@@ -55,8 +56,7 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
   - S3-MASS testing protocol established: 30-second joystick hovers with 2-minute rest between flights (vs. 1-minute previously) to manage motor temperature
   - S1-21 transition testing protocol: ~3 rapid flights per battery over 5 batteries (15 total flights planned) to verify no reset bugs from recent code updates
 - **April 24, 2026:** Sam Hild to verify motor rotations and prop clearance on wiring before flights; external notifications required (Sunny Slope Sod Farm contact required for airspace coordination); wind gusting at 30 mph deemed unsafe for S30001 and additional S1-22 flights
+- **April 25, 2026:** E-MASS training data collection scheduled Monday with standard 9:30 AM RC field operations start time; altitude constraints at Sod Farm venue confirmed (max ~1655m MSL based on ~1535m ground elevation, allowing ~120m AGL ceiling)
 
 ### Data Logging & Management
-- **April 21, 2026:** Critical protocol established — do NOT rename files on aircraft SD cards post-flight; renaming creates high probability of overwriting existing logs; all file management must occur post-download on ground station; GCS log serves as lower-rate telemetry backup when flight logs are corrupted/incomplete
-- **April 22, 2026:** Tablet logging validated as error detection tool; SYSTEM_POWER_ON events indicate in-flight resets; GCS logs preserve lower-rate flight telemetry when aircraft logs truncate
-- **April 23, 2026:** GCS log retrieval protocol refined — both AP logs reviewed first; if no
+-

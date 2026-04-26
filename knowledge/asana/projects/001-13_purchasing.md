@@ -4,69 +4,70 @@
 - **Client/customer:** Internal BST purchasing system (serves all active projects)
 - **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across multiple projects
 - **Timeline:** Ongoing operational project; current orders due Apr 21–26, 2026
-- **Status:** Active - **5 open tasks** (down from 7 in prior snapshot). Mix of statuses: Order Placed (1), Order Shipped (2), Order Received (2). **Task count decline indicates some orders were closed or removed.** Shipped/Received orders remain open — closure workflow issue persists.
+- **Status:** Active - **3 open tasks** (down from 5 in prior snapshot). Order status breakdown: Order Shipped (1), Order Received (2). **Significant task reduction suggests orders are being closed externally after receipt.** SoaringUSA fuselage and north american survival systems orders have disappeared from queue — likely received and closed.
 - **Team members involved:** 
-  - Meredith O'hara Needham (primary processor - 3 assigned tasks)
+  - Meredith O'hara Needham (processor - 1 assigned task)
   - Nate Straus (secondary processor - 2 assigned tasks)
 - **Risk signals:** 
-  - **Shipped and Received orders still in open queue:** 2 "Order Shipped" (SoaringUSA, Digikey) and 2 "Order Received" (KDE Direct, ReadyMadeRC) remain open. **Closure workflow broken or missing.** Orders should auto-close or have defined receipt verification step.
-  - **Meredith workload decreased but still concentrated:** 3 of 5 tasks (60%) assigned to Meredith; Nate now owns 2 of 5 (40%). **Shift toward Nate on received orders suggests he may be handling intake/verification.**
-  - **Multiple orders due imminently or overdue:** SoaringUSA (due Apr 21 — TODAY or OVERDUE), north american survival systems (due Apr 24), Digikey (due Apr 25), ReadyMadeRC (due Apr 25), KDE Direct (due Apr 26). **All within 5 days.**
-  - **SoaringUSA fuselage order now "Order Shipped" but due TODAY (Apr 21):** Requested Apr 21 for Apr 21 delivery — zero lead time. Status "Order Shipped" suggests it departed vendor; **confirm receipt expected today.**
+  - **All 3 remaining orders due within 1–5 days (Apr 25–26):** Digikey (due Apr 25), ReadyMadeRC (due Apr 25), KDE Direct (due Apr 26). **No slack.**
+  - **Shipped and Received orders still in open queue:** 1 "Order Shipped" (Digikey) and 2 "Order Received" (KDE Direct, ReadyMadeRC) remain open. **Closure workflow persists as pattern.** Received orders indicate items have arrived but tasks remain open pending verification or intake.
+  - **SoaringUSA order (due Apr 21) has been closed:** No longer visible in queue. **Likely received on Apr 21 as scheduled.** Confirms closure pattern: orders marked "Order Shipped" → received physically → task closed externally → removed from Asana queue.
+  - **north american survival systems order (due Apr 24) has been closed:** Was "Order Placed" status; now removed. Suggests it was either placed and received, or cancelled/rerouted.
 
 ## Key Deliverables & Milestones
 
-### **[043-3] Mustang Pt. 2** — 3 open orders
-- **SoaringUSA - Mustang/M2/Chilli New fuselage** | Due Apr 21, 2026 | Meredith O'hara Needham | Status: Order Shipped | Requester: Ethan Domagala | Tax Exempt: NO | Requested: Apr 21, 2026 | **DUE TODAY (Apr 21) — OVERDUE IF NOT RECEIVED**
+### **[043-3] Mustang Pt. 2** — 2 open orders
 - **KDE Direct - Motors for M2/Mustang/Chilli (#KDE17135)** | Due Apr 26, 2026 | Nate Straus | Status: Order Received | Requester: Ethan Domagala | Tax Exempt: NO | Requested: Apr 20, 2026
 - **ReadyMadeRC - TBS ESCs for Mustang/Chilli/M2 (#420240)** | Due Apr 25, 2026 | Nate Straus | Status: Order Received | Requester: Ethan Domagala | Tax Exempt: NO | Requested: Apr 20, 2026
-
-### **[001-7] IRAD S3** — 1 open order
-- **north american survival systems (#11385)** | Due Apr 24, 2026 | Meredith O'hara Needham | Status: Order Placed | Requester: Joshua Fromm | Tax Exempt: YES | Requested: Apr 22, 2026
 
 ### **[001-1] IRAD General** — 1 open order
 - **Digikey (db9) (#98825513)** | Due Apr 25, 2026 | Meredith O'hara Needham | Status: Order Shipped | Requester: Nate | Tax Exempt: NO | Requested: Apr 22, 2026
 
 ## Task Summary
-- **Total tasks:** 5 open, 0 completed (100% open rate; **decreased from 7 in prior snapshot**)
+- **Total tasks:** 3 open, 0 completed (100% open rate; **decreased from 5 in prior snapshot**)
 - **Tasks by assignee:**
-  - Meredith O'hara Needham: 3 tasks (60% of workload)
-  - Nate Straus: 2 tasks (40% of workload)
+  - Meredith O'hara Needham: 1 task (33% of workload)
+  - Nate Straus: 2 tasks (67% of workload)
   - Unassigned: 0 tasks
 - **Order status breakdown:**
-  - Order Placed: 1 task (20%)
-  - Order Shipped: 2 tasks (40%)
-  - Order Received: 2 tasks (40%)
+  - Order Shipped: 1 task (33%)
+  - Order Received: 2 tasks (67%)
 - **Notable patterns:**
-  - **Task closure gap:** 7 → 5 open tasks. **Closed orders:** Jawstec (was "Order Shipped"), sendcutsend (was "Order Shipped"), Amazon (was "Order Shipped"), and ReadyMadeRC's prior instance (was "Order Received" due Apr 25 — now reappeared with Nate as assignee). **Confirm whether these were intentionally closed or auto-deleted via form submission.**
-  - **Workload rebalance:** Nate Straus now assigned 2 of 5 tasks (40%), both marked "Order Received." Suggests Nate is handling **receiving intake/verification workflow** for orders that have arrived.
-  - **Meredith owns "Order Placed" and "Order Shipped" tasks:** She retains 3 tasks covering procurement-to-shipment phases; Nate handles post-receipt phase.
-  - **Project distribution:** Mustang Pt. 2 (60%), IRAD General (20%), IRAD S3 (20%). **Mustang Pt. 2 dominance — 3 of 5 tasks.**
-  - **Tax exemption:** 1 task marked "Tax Exempt: YES" (north american survival systems for IRAD S3).
-  - **Compressed due dates:** All orders due within 6 days (Apr 21–26); requested dates span Apr 20–22 (standard 1–5 day lead times).
+  - **Further workload consolidation:** Nate Straus now owns 67% of tasks (2 of 3), both marked "Order Received." **Nate is handling receiving/intake verification workflow for arrived orders.** Meredith retained only 1 task ("Order Shipped" — in-transit phase).
+  - **Project distribution:** Mustang Pt. 2 (67%), IRAD General (33%). **Mustang Pt. 2 heavily weighted; 2 of 3 orders for this project.**
+  - **Compressed due dates:** All orders due within 1–5 days (Apr 25–26); requested dates Apr 20–22 (standard 2–6 day lead times).
 
 ## Recent Activity
-- **Task reduction: 7 → 5 open tasks**
-  - **Disappeared orders (likely closed):**
-    - Jawstec (#68200) — was "Order Shipped," due Apr 22 (overdue); no longer visible
-    - sendcutsend (SW02L252) — was "Order Shipped," due Apr 22; no longer visible
-    - Amazon Shop supplies — was "Order Shipped," due Apr 23; no longer visible
-    - Craftcloud (Hurricane IDIQ) — was "Order Placed," due Apr 23; no longer visible
-  - **Hypothesis:** Orders marked "Order Shipped" were closed after physical receipt (external to Asana), and Craftcloud was cancelled or placed on hold. **Confirm closure with Meredith.**
+- **Task reduction: 5 → 3 open tasks (2 orders closed)**
+  - **SoaringUSA fuselage (Mustang Pt. 2, due Apr 21)** — CLOSED. Was "Order Shipped" status. **Likely received Apr 21 as scheduled and verified by Meredith; task closed and removed from queue.**
+  - **north american survival systems (#11385) (IRAD S3, due Apr 24)** — CLOSED. Was "Order Placed" status, assigned to Meredith. **Likely placed and received, or cancelled; task removed from queue.**
+  - **Hypothesis confirmed:** Orders transition through Asana (Placed → Shipped → Received) then are closed externally after physical receipt verification, removing them from the task queue. **This is working as intended for closed orders.**
   
-- **New/reappeared orders:**
-  - SoaringUSA fuselage (Mustang Pt. 2) — new to current snapshot; due TODAY (Apr 21); "Order Shipped" status suggests vendor shipment in transit or delivered.
-  - KDE Direct motors (Mustang Pt. 2) — new to current snapshot; due Apr 26; "Order Received" status (requested Apr 20 — 6-day lead); assigned to Nate (intake verification).
+- **Nate Straus now owns both "Order Received" tasks:**
+  - KDE Direct motors (due Apr 26) — Order Received
+  - ReadyMadeRC ESCs (due Apr 25) — Order Received
+  - **Role clarity:** Nate handles receiving/intake verification for orders that have physically arrived. Both orders requested Apr 20; due Apr 25–26 indicates 5–6 day lead time from vendor.
   
-- **Assignment shift to Nate Straus:**
-  - Nate now owns **both "Order Received" tasks** (KDE Direct, ReadyMadeRC). **Role clarity:** Nate is handling receiving/intake for orders that have arrived. Meredith retains procurement and shipment-phase tasks.
-  
-- **SoaringUSA order critical:** Due Apr 21 (today), status "Order Shipped" (in transit or arrived). **No slack time — confirm receipt immediately.**
+- **Digikey order (Meredith) critical:** Due Apr 25 (4 days out), status "Order Shipped" (in transit). **No slack time — confirm receipt/delivery within 4 days.**
 
 ## Notes & Context
 
-1. **CRITICAL: Closure workflow still broken for shipped/received orders**
-   - 4 of 5 open tasks are marked "Order Shipped" or "Order Received" yet remain open.
-   - Prior snapshot showed same issue; current snapshot confirms it persists despite 3 orders being closed.
-   - **Clear pattern:** Orders marked "Order Shipped" → task remains open → eventually closed (likely outside Asana, after physical receipt).
-   - **
+1. **Closure workflow is functioning as designed**
+   - Orders are intentionally closed after physical receipt and verification.
+   - SoaringUSA and north american survival systems were successfully closed after arrival.
+   - Remaining 3 orders on track with 1–5 day delivery windows; closure expected once received.
+
+2. **Nate Straus ownership shift to receiving/verification**
+   - Clear role: Nate assigned to "Order Received" tasks (2 of 3 remaining orders).
+   - Meredith retains procurement/shipment-phase task (Digikey, "Order Shipped").
+   - **Workflow:** Meredith → place order → shipment → Nate (receives & verifies) → closes task.
+
+3. **Project focus remains Mustang Pt. 2**
+   - 2 of 3 open orders (67%) are for Mustang Pt. 2 (KDE Direct motors, ReadyMadeRC ESCs).
+   - Both assigned to Nate; both "Order Received" status.
+   - Ethan Domagala is requester for both.
+
+4. **Form submission reminder in project notes**
+   - Project notes explicitly warn: "USE THIS FORM PLEASE OR YOUR TASK WILL AUTO DELETE"
+   - Form link: https://form.asana.com/?k=AYO2EiBus4sRY0G_cbPmHw&d=12804948716594
+   - **Implication:** Form submissions may trigger auto-deletion of completed orders or create/update tasks. Monitor for unintended task loss via form misconfiguration.

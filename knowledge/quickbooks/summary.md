@@ -1,54 +1,69 @@
 # BST Financial Overview (QuickBooks)
 
 ## Company Totals
-- **Total Revenue (Invoices):** $5,730,757.62
-  - Commercial: $1,829,839.34
+Based on the available QuickBooks data for the period:
+
+- **Total Revenue (Invoices):** $5,858,386.62
+  - Commercial: $1,957,468.34
   - Government: $3,900,918.28
-- **Total Expenses:** $1,526,809.04
+
+- **Total Expenses (Bills + Purchases):** $1,526,809.04
   - Commercial: $217,613.48
   - Government: $1,309,196.56
-- **Net Income Estimate:** $4,203,948.58
+
+- **Net Income Estimate:** $4,331,577.58
 
 ---
 
 ## By Project/Class
 
-| Project | Total Revenue | Total Expenses | Net Position | Status |
-|---------|---|---|---|---|
-| **Government** | $3,900,918.28 | $1,309,196.56 | $2,591,721.72 | Active (72 invoices) |
-| **Commercial** | $1,829,839.34 | $217,613.48 | $1,612,225.86 | Active (3 transactions) |
+### 1. Government (6 transactions)
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $3,900,918.28 |
+| Total Expenses | $1,309,196.56 |
+| Purchase Orders | $433.00 |
+| **Net Position** | **$2,591,721.72** |
+| Active Invoices | 72 |
+| Date Range | Apr 7, 2024 – Sep 28, 2026 |
 
-**Note:** Government contracts represent 68% of revenue; Commercial represents 32%.
+### 2. Commercial (2 transactions)
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $1,957,468.34 |
+| Total Expenses | $217,613.48 |
+| Purchase Orders | $1,977.50 |
+| **Net Position** | **$1,739,854.86** |
+| Date Range | Apr 5, 2024 – May 8, 2026 |
 
 ---
 
 ## Cash Flow Indicators
 
 ### Accounts Receivable (Outstanding Balances)
-- **Government:** $2,632,499.19 outstanding
-- **Commercial:** At least $664.98 outstanding (Invoice #1759 to IRISS, CU Boulder)
-- **Total A/R:** $2,633,164.17+
+- **Government Projects:** $2,632,499.19 outstanding across 72 active invoices
+- **Commercial Projects:** Partial data available; recent invoice (1759) shows $664.98 open balance
+  - Invoice 1757 to By Light Halo: $63,735.00 (partial data)
+
+**Total A/R (Government):** $2.63M+ — significant collection activity needed
 
 ### Recent Activity
-- Most recent invoices dated **May 8, 2026** (Commercial)
-- Government invoices span through **September 28, 2026**
-- Government project has 72 active invoices indicating ongoing operations
-
-### Purchase Orders Outstanding
-- **Commercial:** $1,977.50
-- **Government:** $433.00
-- **Total POs:** $2,410.50
+- Most recent invoices dated **May 8, 2026** (Commercial project)
+- Government projects extend through **September 28, 2026**
+- Active invoicing continues across both divisions
 
 ---
 
-## Data Limitations
+## Data Quality Notes
 
-The QuickBooks export is **incomplete** for the period 2026-04-24 to 2026-04-25. The P&L report shows only $664.98 in activity, while project-level data reflects much larger historical balances (back to 2024). 
+⚠️ **Incomplete Data Provided:**
+- Profit & Loss report header shows totals but no actual dollar amounts listed
+- Vendor and customer lists are truncated/incomplete
+- Full invoice detail for Commercial project is cut off
+- Project revenue breakdowns partially obscured
 
-**Missing Information:**
-- Top vendors by spend (vendor names not fully provided)
-- Complete customer list and top customers (data truncated)
-- Expense category breakdown
-- Unclassified transactions summary
-
-**Recommendation:** Request complete export including vendor master list, full invoice details, and expense categorization for comprehensive financial analysis.
+**Recommendation:** Request complete QuickBooks export including:
+- Full P&L statement with all line items
+- Complete vendor aging report
+- Complete customer aging report
+- All expense details by category

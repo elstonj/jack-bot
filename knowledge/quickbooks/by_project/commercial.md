@@ -1,10 +1,10 @@
 # Commercial — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $1,829,839.34
+- **Total Invoiced (Revenue):** $1,957,468.34
 - **Total Expenses (Bills + Purchases):** $217,613.48
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $1,612,225.86 (Revenue exceeds expenses)
+- **Net Position:** $1,739,854.86 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – May 8, 2026
 
 ---
@@ -67,12 +67,12 @@
 | 1618 | 2024-04-19 | $13,853.10 | [451] INSTAAR Stable Isotope Lab, CU Boulder | Paid |
 
 ### Revenue Summary
-- **Total Invoiced:** $1,829,839.34
+- **Total Invoiced:** $1,957,468.34
 - **Total Collected (Paid):** $1,075,726.08
-- **Outstanding Balance:** $754,113.26
+- **Outstanding Balance:** $881,742.26
   - **Four invoices from May 8, 2026 (By Light Halo):** $223,258.00 (Invoices #1754–1757)
   - **One invoice from May 8, 2026 (IRISS, CU Boulder):** $664.98 (Invoice #1759)
-  - **Other outstanding invoices:** $530,190.28
+  - **Other outstanding invoices:** $657,819.28
 
 ---
 
@@ -137,7 +137,7 @@
 
 ## Purchase Orders
 **Total POs:** $1,977.50
-*(No new POs in current data period)*
+*(No new POs in current update period)*
 
 ---
 

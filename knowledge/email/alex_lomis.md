@@ -1,26 +1,26 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned: 765 combined** (747 previous + 18 new)
-- **Date range covered: March 18 - April 25, 2026 (approximately 39 days)**
+- **Total messages scanned: 771 combined** (765 previous + 6 new)
+- **Date range covered: March 18 - April 26, 2026 (approximately 40 days)**
 - **Approximate daily volume: 20-25 emails per day**
 - High volume of automated vendor/shipping notifications (~95% of volume) mixed with critical strategic project communications and active supplier negotiations
-- **Apr 24-25 snapshot shows 18 messages**: 14 automated vendor/logistics, 2 direct correspondence (Amprius/Atmolab), 2 task management alerts
+- **Apr 25-26 snapshot shows 6 messages**: all promotional/automated (vendor offers, billing receipt, shipping digest, product promotions); no direct correspondence in this batch
 
 ## Key Correspondents
 
 ### Top Internal Collaborators (BST team):
-- **Jack Elston** (elstonj@blackswifttech.com) - CEO, frequent meeting invitations, strategic initiatives; forwarded AVAPS 2026 meeting details to team (Apr 24)
+- **Jack Elston** (elstonj@blackswifttech.com) - CEO, frequent meeting invitations, strategic initiatives; forwarded AVAPS 2026 meeting details to team (Apr 24); Constant Contact billing receipt routed Apr 26
 - **Maciej Stachura** (stachura@blackswifttech.com) - Technical partner, primary task assigner for Navy SBIR Magnetometer project; direct Navy coordination; flagged AVAPS 2026 meeting as IMPORTANT (Apr 24)
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) - Operational execution, received AVAPS 2026 meeting forwarded by Jack Elston (Apr 24)
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) - Operational execution, received AVAPS 2026 meeting forwarded by Jack Elston (Apr 24); received SkyGeek promotional email routed through purchasing Apr 25
 - **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) - Technical projects
 - **Meredith Needham** (meredith.needham@blackswifttech.com) - Operations, vendor coordination
-- **Beck Cotter** (beck.cotter@blackswifttech.com) - New correspondence pattern identified; received DON-SEC 1-Year Follow-up from Ausgar (Apr 24)
+- **Beck Cotter** (beck.cotter@blackswifttech.com) - Received DON-SEC 1-Year Follow-up from Ausgar (Apr 24)
 
 ### Key External Contacts - CRITICAL ACTIVE:
-- **Adam Craft (Amprius)** (adam.c@ampriuscells.com) - **ONGOING DIRECT NEGOTIATION** - battery cell sourcing negotiation continuing from previous period
-- **James K. Sisson (Ausgar)** (James.K.Sisson@ausgar.com) - **NEW CRITICAL**: Sent "DON-SEC/Black Swift Technologies LLC 1-Year Follow-up" marked IMPORTANT (Apr 24); copied Beck Cotter, Jack Elston, Maciej Stachura, Alex Lomis, and three other Ausgar personnel (Joseph R. Reusi, Morris A. DeSimone, Kelly B. Carruthers, Derek S. Adametz); suggests active contract/compliance review or renewal
-- **Atmolab** (info@atmolab.eu) - **NEW**: Alex initiated outbound contact regarding "Rex 110 Mini Gen2 Integration" (Apr 24); indicates sensor/instrumentation evaluation or integration discussion
+- **Adam Craft (Amprius)** (adam.c@ampriuscells.com) - **ONGOING DIRECT NEGOTIATION** - battery cell sourcing negotiation
+- **James K. Sisson (Ausgar)** (James.K.Sisson@ausgar.com) - **CRITICAL**: Sent "DON-SEC/Black Swift Technologies LLC 1-Year Follow-up" marked IMPORTANT (Apr 24); suggests active contract/compliance review or renewal
+- **Atmolab** (info@atmolab.eu) - **NEW ACTIVE**: Alex initiated outbound contact regarding "Rex 110 Mini Gen2 Integration" (Apr 24)
 - **Kevin Thomas (PartsBase)** (kthomas@partsbase.com) - Aviation sourcing vendor
 - **Angel R. Ruiz-Reyes (NAWCAD/Navy)** (angel.r.ruiz-reyes.civ@us.navy.mil) - Navy technical contact for Bartington sensor
 - **Anthony D. Brescia (NAWCAD/Navy)** (anthony.d.brescia.civ@us.navy.mil) - Navy stakeholder
@@ -32,7 +32,7 @@
 
 **Electronics & Components:**
 - **DigiKey** - sustained ordering activity
-- **Amazon** (ADUM1201 serial components delivered Apr 24; sustained ordering)
+- **Amazon** - sustained ordering (ADUM1201 components delivered Apr 24)
 - McMaster-Carr
 - STMicroelectronics
 - Pasternack
@@ -41,18 +41,18 @@
 - **Craftcloud** - active production orders
 - **SendCutSend** - sustained shipments
 - **JawsTec** - active orders
-- **SoaringUSA.com** (package delivery Apr 24) - NEW; suggests composite/airframe sourcing
+- **SoaringUSA.com** - composite/airframe sourcing
 - Rapid Axis (Jared Probst)
-- **Rock West Composites** - completion reminder received again (Apr 24); purchase completion prompt
+- **Rock West Composites** - completion reminder (Apr 24)
 
 **Propulsion/Motors & Power:**
-- **KDE Direct** (Order KDE17135 shipment delivered Apr 24; out for delivery notification Apr 24; sustained motor orders)
+- **KDE Direct** - sustained motor orders (Order KDE17135 delivered Apr 24)
 - APC Propellers
 - Hobbyking
 - High-Tech Battery Solutions
 
 **Drones/FPV/RC:**
-- **GetFPV** (Chloe contact; Nazgul Evoque V3 promotion marked IMPORTANT Apr 24; "Seeker 35" product alert continuing from previous period)
+- **GetFPV** (Nazgul Evoque V3 promotion, "Seeker 35" product alerts)
 - **CADDX FPV** (Avatar GT2 Kit)
 - iFlight Nazgul Evoque F5 V3
 - eBay
@@ -60,10 +60,10 @@
 - **RMRC**
 - AMain Hobbies
 - Aloft Hobbies
-- Elegoo
+- **Elegoo** - NEW promotional engagement (Jupiter 2 product messaging Apr 25); continued supplier relationship
 
 **Instrumentation & Sensors:**
-- **Atmolab** (Rex 110 Mini Gen2 - ACTIVE INTEGRATION DISCUSSION, Apr 24)
+- **Atmolab** (Rex 110 Mini Gen2 - ACTIVE INTEGRATION)
 - Kestrel Instruments
 - Vaisala
 - Nielsen Kellerman
@@ -76,22 +76,23 @@
 - **Amprius cells** - ACTIVE NEGOTIATION ongoing
 
 **Tools/General:**
-- **Harbor Freight** (promotion Apr 24)
+- **Harbor Freight** (30% off promotion Apr 25)
 - The Home Depot
 - McMaster-Carr
 
 **Logistics/Travel:**
-- **Budget**
+- **Budget** (free double upgrade offer Apr 25)
 - **FedEx** (on-call pickup scheduled EASB2033 Apr 24)
-- **USPS Informed Delivery** (daily digest Apr 24)
+- **USPS Informed Delivery** (daily digest Apr 25)
 - UPS
 - U-Haul
 
 **Subscriptions/Services:**
 - **Toggl Track** - support communication
-- **Spindrift Market** (subscription order will be created soon Apr 25; continued beverage subscription pattern)
+- **Spindrift Market** - beverage subscription (order creation pending Apr 25)
 - Gemini/Google Notes
-- **Asana** (2 overdue tasks Apr 24; 1 task due soon, 8 tasks assigned Apr 24; sustained project management)
+- **Asana** (task management, 2 overdue tasks, 8 assigned as of Apr 24)
+- **Constant Contact** (billing receipt for Jack Elston Apr 26)
 
 **Infrastructure/Utilities/Communications:**
 - **Comcast Business**
@@ -101,6 +102,7 @@
 
 **Cleaning/Miscellaneous:**
 - **Neat N Tidy**
+- **SkyGeek** (aviation supplies promotional email Apr 25)
 
 ## Topic Patterns
 
@@ -117,18 +119,21 @@
 - **IMPORTANT meeting flagged by Maciej Stachura and Jack Elston (Apr 24)**
 - Meeting details forwarded from external source to leadership + Alex Lomis
 - Likely aviation/autonomous vehicle conference or partner engagement
-- Requires immediate attention based on IMPORTANT marking
 
 **DON-SEC Contract/Compliance Review** - NEW/ACTIVE:
 - **1-Year Follow-up communication from Ausgar (Apr 24)** marked IMPORTANT
 - Multi-party communication (Beck Cotter, Jack Elston, Maciej Stachura involved)
 - Suggests contract renewal, compliance audit, or security review cycle
-- Ausgar appears to be contractor/partner managing DON-SEC relationship
 
 **Atmolab Rex 110 Mini Gen2 Integration** - NEW ACTIVE:
 - **Direct outbound from Alex Lomis to Atmolab (Apr 24)**
 - Sensor integration evaluation in progress
-- May be related to instrumentation expansion for Navy SBIR or other projects
 
 **Amprius Battery Cell Sourcing** - ONGOING NEGOTIATION:
-- Continued from previous period;
+- Continued from previous period
+
+## Communication Patterns
+- **Apr 25-26 sample**: All automated/promotional messages; no human correspondence visible in this 2-day window
+- **Promotional email routing**: Multiple vendor promotions and billing notifications routed through purchasing@blackswifttech.com alias, suggesting centralized procurement email management
+- **Daily automated digest pattern**: USPS Informed Delivery, daily shipping notifications from multiple vendors (sustained)
+- **Weekend activity**:
