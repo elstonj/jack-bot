@@ -7,33 +7,33 @@
 - **Status**: Active - high completion rate; recurring batch completion cycle functioning smoothly
 - **Team members involved**: Meredith O'hara Needham (primary operational owner), Nate Straus (facilities improvements & consumables)
 - **Risk signals**: 
-  - **Office Cleaning due 2026-05-02** (bi-weekly recurring task; currently open)
+  - **Pay Rent due 2026-04-27** (monthly recurring task; currently open)
 
 ## Key Deliverables & Milestones
 - **Monthly rent payments** (~$13.00–$14.63 NNN depending on lease year, due ~27th of each month)
-- **Bi-weekly office cleaning** (every ~2 weeks via Neat N Tidy; next due 2026-05-02)
+- **Bi-weekly office cleaning** (recurring via Neat N Tidy)
 - **Weekly office purchasing coordination** (ongoing collection and ordering)
 - **Facilities improvements** (ongoing, no due date set)
 - **Equipment wish list** (ongoing, no due date set)
-- **Consumables stock management** (periodic, last completed 2025-11-04)
+- **Consumables stock management** (periodic, last updated 2025-11-04)
 - **Lease termination planning** (unassigned, no due date)
 
 ## Task Summary
 - **Total tasks**: 1 open, 0 completed (visible in current snapshot)
 - **Tasks by assignee**:
   - **Meredith O'hara Needham**: 1 open task
-    - Office Cleaning (due 2026-05-02)
+    - Pay Rent (due 2026-04-27)
   - **Nate Straus**: Not visible in current task list (likely working on long-term facilities/equipment initiatives outside immediate task cycle)
 - **Notable patterns**: 
   - Recurring tasks typically completed in batches on specific dates rather than individual due dates
-  - Bi-weekly office cleaning cycle via Neat N Tidy
+  - Monthly rent payment cycle via Goose Creek landlord
   - Open task is within expected batch completion cycle window
 
 ## Recent Activity
-- **Current state**: 1 open task reflecting normal recurring cycle
-  - Office Cleaning due 2026-05-02 (bi-weekly recurring via Neat N Tidy)
+- **Current state**: 1 open task (Pay Rent due 2026-04-27)
+  - Standard monthly rent payment to Goose Creek
 - **Operational momentum**: Project continues high-execution pattern with efficient batch completion workflow
-- **Note**: Ongoing Office Purchasing List task no longer visible in current snapshot (likely completed in previous batch cycle)
+- **Note**: Bi-weekly office cleaning and purchasing coordination tasks continue on recurring schedules outside primary Asana task view
 
 ## Notes & Context
 

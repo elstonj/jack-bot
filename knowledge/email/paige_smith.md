@@ -1,10 +1,10 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 870 (852 previous + 18 new)
-- **Date range:** March 24 – April 26, 2026 (34 days)
-- **Approximate volume:** ~25.6 messages per day (stable)
-- **Pattern:** Sustained high volume dominated by news feeds, newsletters, and industry alerts (77%+ external). New 18-message sample (Apr 25–26) confirms continued weekday work intensity with **active real-time breaking news engagement** (6 NYT breaking news alerts in 24 hours spanning Trump security incident, Apr 26), sustained LinkedIn activity, and industry monitoring.
+- **Total messages scanned:** 881 (870 previous + 11 new)
+- **Date range:** March 24 – April 27, 2026 (35 days)
+- **Approximate volume:** ~25.2 messages per day (stable)
+- **Pattern:** Sustained high volume dominated by news feeds, newsletters, and industry alerts (77%+ external). New 11-message sample (Apr 26–27) confirms continued weekday work intensity with **sustained real-time breaking news engagement** (2 NYT breaking news alerts spanning Trump security incident, Apr 26), continued newsletter consumption across defense, sports, climate, and emerging government vendor portal activity.
 
 ---
 
@@ -12,44 +12,35 @@
 
 ### Top Internal Senders
 1. **Jack Elston** (elstonj@blackswifttech.com) — primary work coordinator; confirmed coordinating **flight testing updates with external partners** (NanoVEU, Strata Comms); forwarding defense/aerospace events, UxS workshops, partnership inquiries
-2. **Rippling** (no-reply@rippling.com) — task/action notifications
-3. **Meredith Needham** (meredith.needham@blackswifttech.com) — financial/administrative coordination
-4. **Asana** (no-reply@asana.com) — task management
-5. **Sales team** (sales@blackswifttech.com) — forwarding vendor inquiries and UAV simulator demos
-6. **Joshua Baer / Media Relations** (media@blackswifttech.com) — industry content forwarding
+2. **Joshua Baer / Media Relations** (media@blackswifttech.com) — industry content forwarding; STATION Austin event coordination (Apr 26)
+3. **Rippling** (no-reply@rippling.com) — task/action notifications
+4. **Meredith Needham** (meredith.needham@blackswifttech.com) — financial/administrative coordination
+5. **Asana** (no-reply@asana.com) — task management
+6. **Generic Information / Supplier-Relationship** (info@blackswifttech.com) — **NEW**: Forwarding government vendor portal registration invitations (Arab language: Ministry of Defense Vendor Portal, Apr 27); also forwarding third-party content (board games/weather chaos piece from genesis@questork.com, Apr 26)
 
 ### Top External Senders (Updated)
-1. **The New York Times** (breakingnews, editorpicks, nytdirect) — **SUSTAINED DOMINANT/INTENSIFIED**: 9 messages in new sample (Apr 25–26); **breaking news surge on Apr 26**: 3 alerts spanning Trump security incident at Washington hotel (02:21, 01:28, 00:59 UTC all within 1.5 hours), plus earlier Iran/Pakistan geopolitical coverage; editorial picks on AI dangers and Navy secretary ouster; "The Morning" briefing digest. **Signal**: Real-time breaking news consumption at very high frequency; geopolitical/security/political content prioritized.
+1. **The New York Times** (breakingnews, editorpicks, nytdirect) — **SUSTAINED DOMINANT**: 3 messages in new sample (Apr 26); **breaking news on Apr 26**: Trump security incident at Washington gala ("Gunman likely targeted Trump and top officials," gunfire incident); ICE immigration enforcement story marked IMPORTANT; "The Morning" briefing digest. **Signal**: Continued real-time breaking news consumption at very high frequency; security/political/immigration content prioritized.
 
-2. **NanoVEU** (Mark Goranson, Tom Wilp, Mohamed Sabry, Nikhila Ravikumar, Scott Smyser, Shantanu) — **ACTIVE**: Multi-party flight testing collaboration; BST participating in external UAS initiative with coordinated leadership team
+2. **NanoVEU** (Mark Goranson, Tom Wilp, Mohamed Sabry, Nikhila Ravikumar, Scott Smyser, Shantanu) — **ACTIVE**: Flight testing collaboration ongoing; Jack Elston replied to Nikhila Ravikumar on flight testing updates (Apr 26, marked IMPORTANT)
 
-3. **Strata Comms** (Zach Hynoski, zach.hynoski@stratacomms.agency) — Communications/PR agency included in NanoVEU flight testing coordination
+3. **Strata Comms** (Zach Hynoski) — Communications/PR agency included in NanoVEU flight testing coordination
 
-4. **LinkedIn** (job alerts, recruiting messages, notifications) — **SUSTAINED HIGH**: 4 messages in new sample (Apr 25–26)
-   - **Marketing Program Specialist** role at 24 Seven Talent (actively recruiting alert, Apr 25)
-   - **7 profile views** flagged IMPORTANT (Apr 25)
-   - Connection request from **Natasha Nyendwa - Farm Manager** (Apr 26)
-   - Comment notification on Alex Gilbert's post (Apr 26)
-   - **Signal**: Active LinkedIn presence with recruiter outreach and profile visibility; farm/agriculture sector connection emerging (possibly peripheral to UAS/drone applications)
+4. **LinkedIn** (job alerts, recruiting messages, notifications) — **SUSTAINED** (not visible in this sample but sustained pattern from previous)
 
-5. **Robotics.Press** (editor@robotics.press) — **NEW**: Company media coverage alert (Apr 26)
-   - Emails sent to both sales@blackswifttech.com AND info@blackswifttech.com
-   - **Signal**: BST was featured on Robotics.Press industry publication; likely PR/media relations activity
+5. **The Athletic Pulse** (TheAthletic@e1.theathletic.com) — Sports content; **new sample**: NFL Draft coverage marked IMPORTANT (Apr 26)
 
-6. **Mitchell Institute** (mitchell@afa.org) — Air Force/space policy updates; **new sample**: "Innovate to Survive: Vietnam Air Combat Perspectives Part 2" (Apr 25)
+6. **Air & Space Forces Magazine** (AirAndSpaceForcesMagazine@afa.org) — **SUSTAINED**: Weekend defense/aerospace policy read: "USAF's Unwritten Contract with Every Combat Pilot" marked IMPORTANT (Apr 26)
 
-7. **The Athletic Pulse** (TheAthletic@e1.theathletic.com) — Sports content; **new sample**: Eagles NFL update marked IMPORTANT (Apr 25)
+7. **Inside Climate News** (memberships@insideclimatenews.org) — **SUSTAINED**: Earth Day interview series announcement (Apr 26)
 
-8. **Inside Climate News** (newsletters@insideclimatenews.org) — **NEW**: Environmental/energy news; "Low-producing oil wells in Texas cause headaches for landowners" (Apr 25)
+8. **James Barlia / Capital Factory** (jamesbarlia@capitalfactory.com) — **NEW**: STATION DC Events coordinator; promoting event programming for week of Apr 26 (Apr 26)
 
-9. **WPBeginner** (Syed Balkhi, support@wpbeginner.com) — **NEW**: WordPress/web tech promotion: "See which brands ChatGPT & Gemini are recommending" (Apr 25)
-
-10. **Previous correspondents sustained**: Echo Blue (UK UAS), UAS VISION, UAS Magazine, OST Global Solutions, ChatGPT/OpenAI, Air & Space Forces Magazine
+9. **Previous correspondents sustained**: Echo Blue (UK UAS), UAS VISION, UAS Magazine, OST Global Solutions, ChatGPT/OpenAI, Mitchell Institute
 
 ### Internal vs External Breakdown (Confirmed)
 - **~77–82% external** (news, newsletters, industry publications, events, promotions, external partnerships, media alerts)
-- **~10–12% internal** (BST staff, task systems, recruiting alerts)
-- **~6–8% strategic business** (external partnerships, government opportunities, media coverage, vendor inquiries)
+- **~10–12% internal** (BST staff, task systems, media coordination)
+- **~6–8% strategic business** (external partnerships, government opportunities, vendor portal invitations)
 
 ---
 
@@ -58,47 +49,67 @@
 ### Primary Subject Themes (Updated & Expanded)
 
 1. **Active Flight Testing Collaboration** (SUSTAINED)
-   - **NanoVEU Project**: Multi-party coordination involving Jack Elston (BST), NanoVEU leadership (Mark Goranson, Tom Wilp, Mohamed Sabry), plus Strata Comms (communications agency)
-   - **Signal**: BST actively engaged in external UAS/flight testing; public communications strategy underway
+   - **NanoVEU Project**: Jack Elston coordinating flight testing updates with Nikhila Ravikumar (NanoVEU) marked IMPORTANT (Apr 26)
+   - **Signal**: Flight testing remains active priority; coordination with external partner on critical path
 
-2. **Breaking News / Real-Time Information** (INTENSIFIED)
-   - **NEW FOCUS**: High-frequency breaking news alerts (6+ NYT breaking news in 24 hours, Apr 25–26)
-   - **Trump security incident** (Apr 26, 02:21–00:59 UTC): Washington hotel attack suspect detention, gunfire near dinner, suspect details
-   - **Geopolitical/political**: Iran/Pakistan adviser trip cancellation, Navy secretary ouster (battleship conflict), AI dangers opinion piece
-   - **Domestic interest**: "Lights in the sky" Morning briefing
-   - **Signal**: Paige consuming breaking news in real-time with very short latency; strong interest in security/political developments and geopolitical news
+2. **Breaking News / Real-Time Information** (SUSTAINED)
+   - **Trump security incident** (Apr 26): Washington gala shooting; gunman targeting Trump and top officials; Justice Department assessment
+   - **Immigration/enforcement**: ICE operation targeting 85-year-old widow (marked IMPORTANT, Apr 27)
+   - **Domestic security**: High-priority breaking news consumption continues
+   - **Signal**: Paige remains engaged with real-time security and political breaking news
 
 3. **Defense/Aerospace/Space Policy** (MONITORED)
-   - Mitchell Institute: Vietnam Air Combat Perspectives (Apr 25)
-   - 7th Federal Uncrewed Systems Workshop attendance confirmed
-   - **Signal**: Sustained focus on military innovation and Air Force/space strategy
+   - Air & Space Forces Magazine: "USAF's Unwritten Contract with Every Combat Pilot" (marked IMPORTANT, Apr 26)
+   - **Signal**: Sustained focus on military culture, pilot training, Air Force strategy
 
-4. **Government Contracting Opportunities** (SUSTAINED)
-   - HOPSS alert (HHS $3.6B recompete)
-   - UAS Summit 2026 abstracts
-   - **Signal**: BST actively tracking federal small business opportunities
+4. **Government Contracting/Vendor Portal Registration** (NEW/EMERGING)
+   - **Ministry of Defense Vendor Portal invitation** (Arabic language: دعوة للتسجيل في بوابة الموردين بوزارة الدفاع, Apr 27) — forwarded by Supplier-Relationship function
+   - **Signal**: BST expanding government vendor relationships; possible international defense contracting pursuit (Arabic-language portal suggests Middle East or international defense market); internal forwarding indicates company-wide registration initiative
 
-5. **Robotics/UAS Industry Media Coverage** (NEW)
-   - **Robotics.Press feature**: BST mentioned/featured on major robotics industry publication (Apr 26)
-   - Emails routed to sales and info@ addresses (internal coordination signal)
-   - **Signal**: Company gaining industry press visibility; likely part of coordinated PR strategy (possibly tied to NanoVEU flight testing project)
+5. **Robotics/UAS Industry Media Coverage** (SUSTAINED)
+   - Previous pattern continues; no new Robotics.Press alerts in this sample
 
-6. **Technology & AI** (EMERGING)
-   - WPBeginner: ChatGPT & Gemini brand recommendations (Apr 25)
-   - **Previous**: ChatGPT Images 2.0 update
-   - **Signal**: Tracking AI tool adoption and industry coverage
+6. **Sports/General Interest** (SUSTAINED)
+   - **The Athletic Pulse**: NFL Draft coverage marked IMPORTANT (Apr 26)
+   - **Signal**: Selective engagement with sports content
 
-7. **Sports/General Interest** (SUSTAINED)
-   - **The Athletic Pulse**: NFL (Eagles coverage marked IMPORTANT, Apr 25)
-   - **Signal**: Light personal interest content, marked important suggests selective engagement
+7. **Environmental/Sustainability** (SUSTAINED)
+   - **Inside Climate News**: Earth Day interview series (Apr 26)
+   - **Signal**: Continued monitoring of climate/energy content
 
-8. **Environmental/Energy** (NEW/EMERGING)
-   - **Inside Climate News**: Texas oil well production issues (Apr 25)
-   - **Previous**: WWEA (World Wind Energy Association) membership
-   - **Signal**: Possible interest in drone applications for energy sector (wind farms, oil infrastructure inspection)
+8. **Professional Network/Events** (NEW/EMERGING)
+   - **STATION Austin events** (Joshua Baer, Media Relations, Apr 26): Weekly programming Apr 27–May 1
+   - **STATION DC events** (James Barlia, Capital Factory, Apr 26): Week-of event coordination
+   - **Signal**: Engagement with innovation hub/startup ecosystem events in Austin and DC; possible community building, recruiting, or partnership development
 
-9. **Professional Network/Recruiting Intelligence** (SUSTAINED)
-   - **LinkedIn activity**: 4 messages in new sample (profile views, job alerts, connection requests)
-   - **New connection**: Natasha Nyendwa - Farm Manager (Apr 26)
-   - **Job alert**: Marketing Program Specialist at 24 Seven Talent (Apr 25)
-   - **Signal**: Recruiter
+---
+
+## Communication Patterns
+
+### Temporal Patterns
+- **New sample spans Apr 26–27** (Sun–Mon); both weekend and early weekday activity visible
+- **Sustained overnight/early morning engagement**: Apr 27 06:10 (vendor portal), Apr 26 20:18 (flight testing update)
+- **Breaking news alerts**: Clustered on Apr 26 across multiple NYT feeds (9:45, 11:31, 12:06, 14:47 UTC)
+
+### Mailing Lists & Group Participation
+- **STATION Austin / Capital Factory events** — community hub programming
+- **STATION DC events** — secondary hub engagement
+- **Multiple NYT feeds**: breakingnews, editorpicks, nytdirect (segmented distribution)
+- **Air & Space Forces Magazine alerts**
+- **Inside Climate News memberships**
+
+### Automated/Newsletter Patterns
+- High percentage of newsletter and alert subscriptions (77%+ of volume)
+- Curated digest delivery (NYT "Morning" briefing, Athletic Pulse draft coverage)
+- Promotional event announcements (STATION weekly programming)
+
+---
+
+## Key Relationships
+
+### Closest Internal Collaborators
+1. **Jack Elston** — Primary work coordinator; flight testing updates marked IMPORTANT; shared external partnership stewardship
+2. **Joshua Baer** — Media Relations; event coordination and industry content distribution
+
+### External Relationships (Strategic Importance)
+1. **NanoVEU (Mark Goranson, Tom

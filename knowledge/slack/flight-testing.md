@@ -4,9 +4,9 @@
 
 The #flight-testing channel serves as Black Swift Technologies' primary hub for coordinating flight test operations, troubleshooting aircraft and payload issues, and tracking firmware/software development across their fleet of fixed-wing (S-series), multirotor (E2, Flamewheel), and VTOL (S0, S1-VTOL, S3) platforms.
 
-**Key Participants:** Maciej (lead flight testing/analysis), Jack Elston (firmware development), Joshua Fromm (QA/component sourcing), Ben Busby (tablet/GCS software), Nate (videography/pilot), Alex Lomis (field operations/media/pilot), Sam Hild (Remote ID integration/test pilot), Dan Prendergast (autopilot/control systems/operations), Danny Troke (data management), Ethan Domagala (pilot), Beck Cotter (operations support), Paige Smith (media/video curation)
+**Key Participants:** Maciej (lead flight testing/analysis), Jack Elston (firmware development), Joshua Fromm (QA/component sourcing), Ben Busby (tablet/GCS software), Nate (videography/pilot), Alex Lomis (field operations/media/pilot), Sam Hild (Remote ID integration/test pilot), Dan Prendergast (autopilot/control systems/operations), Danny Troke (data management), Ethan Domagala (pilot), Beck Cotter (operations support), Paige Smith (media/video curation), Sunny Slope Sod Farm (external airspace contact)
 
-**Activity Level:** Extremely high — 5,600+ messages across June 2020 through April 2026. Daily operations with multiple aircraft flights, rapid issue turnaround, continuous firmware iterations, and intensive VTOL transition testing. Recent activity (April 2026) shows intensive multi-aircraft testing cycles with frequent coordination requirements.
+**Activity Level:** Extremely high — 5,600+ messages across June 2020 through April 2026. Daily operations with multiple aircraft flights, rapid issue turnaround, continuous firmware iterations, and intensive VTOL transition testing. Recent activity (April 2026) shows intensive multi-aircraft testing cycles with frequent coordination requirements. Latest activity (April 26, 2026) indicates ongoing planning and weather-dependent operations.
 
 ---
 
@@ -56,7 +56,4 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
   - S3-MASS testing protocol established: 30-second joystick hovers with 2-minute rest between flights (vs. 1-minute previously) to manage motor temperature
   - S1-21 transition testing protocol: ~3 rapid flights per battery over 5 batteries (15 total flights planned) to verify no reset bugs from recent code updates
 - **April 24, 2026:** Sam Hild to verify motor rotations and prop clearance on wiring before flights; external notifications required (Sunny Slope Sod Farm contact required for airspace coordination); wind gusting at 30 mph deemed unsafe for S30001 and additional S1-22 flights
-- **April 25, 2026:** E-MASS training data collection scheduled Monday with standard 9:30 AM RC field operations start time; altitude constraints at Sod Farm venue confirmed (max ~1655m MSL based on ~1535m ground elevation, allowing ~120m AGL ceiling)
-
-### Data Logging & Management
--
+- **April 25, 2026:** E-MASS training data collection scheduled Monday with standard 9:30 AM RC field operations start time; altitude constraints at Sod Farm venue confirmed

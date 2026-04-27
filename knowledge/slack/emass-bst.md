@@ -91,6 +91,10 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Mohamed M. Sabry confirmed: AI model primarily follows the planned path/waypoints and will hover if waypoints imply a hover command
 - Rationale: Model trained to track waypoint-based flight plans, not maintain fixed positions
 
+**Waypoint Loading & Active Plan Verification (Apr 26, 2026)**
+- Jack Elston inquired whether eMASS is actively checking which waypoints are loaded and which flight plan is active
+- Status: Clarification pending from eMASS team regarding active monitoring of loaded waypoints and plan status in flight
+
 ---
 
 ## Projects & Initiatives
@@ -106,9 +110,4 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Integration with SwiftPilot autopilot (pro_core_swil_MULTIROTOR)
 - Payload protocol implementation over port 55551 with GCS control via port 55555
 - 5-to-3.3V level shifter powered from J18 pin #1
-- External control mode signaling for safe handoff between autopilot and ECSDoT chip
-
-**Aircraft Used in Testing:**
-- E20006: HW 2050, SW 3.0.28, comms 3.22.0, 4-rotor 10 kg multirotor, 6-cell pack
-
-**
+- External control

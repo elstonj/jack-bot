@@ -1,24 +1,37 @@
 # BST Document Catalog
 
 ## By Product/System
-### SwiftCore Platform
-- **Genesis Mission Phase I: AI-Enabled Mobile Autonomous Laboratories** - U.S. Department of Energy, April 2026 - Proposes AI-driven autonomous laboratory capabilities leveraging SwiftCore for real-time data processing and decision-making in dynamic field environments. *(genesis_mission_phase_i_draft.md)*
 
-## By Client/Agency
-### U.S. Department of Energy (DOE)
-- **Genesis Mission Phase I: AI-Enabled Mobile Autonomous Laboratories** - April 2026 - Phase I SBIR proposal for AI-driven autonomous laboratory systems under Challenge Area 11 (ASCR program). *(genesis_mission_phase_i_draft.md)*
+### SwiftCore FMS
+- **BST_ECS-DoT_Investor_Briefing** | EMASS/Nanoveu (partnership) | April 2026 | Flight management system performance in Edge-AI autonomous flight control validation program (bst_ecs-dot_investor_briefing.md)
 
-## By Application Area
-### Advanced Robotics & Autonomous Systems
-- **Genesis Mission Phase I: AI-Enabled Mobile Autonomous Laboratories** - DOE, April 2026 - Autonomous mobile laboratories with AI-driven decision-making for dynamic field environments. *(genesis_mission_phase_i_draft.md)*
+### SwiftPilot Autopilot
+- **BST_ECS-DoT_Investor_Briefing** | EMASS/Nanoveu (partnership) | April 2026 | Autopilot system integration for autonomous multirotor flight validation (bst_ecs-dot_investor_briefing.md)
 
-### Scientific Research Automation
-- **Genesis Mission Phase I: AI-Enabled Mobile Autonomous Laboratories** - DOE, April 2026 - Mobile laboratory automation with real-time data processing and autonomous sample analysis. *(genesis_mission_phase_i_draft.md)*
-
-## By Document Type
-### Phase I Research Proposals (SBIR)
-- **Genesis Mission Phase I: AI-Enabled Mobile Autonomous Laboratories** - DOE, April 2026 - DRAFT proposal for AI-enabled autonomous mobile laboratories (9-month performance period: July 2026 - March 2027). *(genesis_mission_phase_i_draft.md)*
+### E2 Multirotor
+- **BST_ECS-DoT_Investor_Briefing** | EMASS/Nanoveu (partnership) | April 2026 | Platform for Edge-AI autonomous flight control validation with first flight April 24, 2026 (bst_ecs-dot_investor_briefing.md)
 
 ---
 
-**Note:** This catalog contains 1 document. As additional BST proposals, reports, and technical documents are provided, they will be added to this master catalog with cross-references by product, client, application, and document type.
+## By Client/Agency
+
+### EMASS / Nanoveu (Partnership)
+- **BST_ECS-DoT_Investor_Briefing** | April 2026 | Investor briefing on Project ECS-DoT autonomous flight control milestone and system performance (bst_ecs-dot_investor_briefing.md)
+
+---
+
+## By Application Area
+
+### Autonomous Flight Control / Edge-AI
+- **BST_ECS-DoT_Investor_Briefing** | EMASS/Nanoveu | April 2026 | Project ECS-DoT validation of autonomous flight control systems in multirotor platform (bst_ecs-dot_investor_briefing.md)
+
+---
+
+## By Document Type
+
+### Investor Briefings / Interim Reports
+- **BST_ECS-DoT_Investor_Briefing** | EMASS/Nanoveu | April 2026 | Project milestone and system performance briefing documenting first autonomous flight validation (bst_ecs-dot_investor_briefing.md)
+
+---
+
+**Note:** This catalog currently contains one document. As additional BST proposals, reports, and technical documents are provided, this catalog will be expanded with new entries across all organizational categories.
