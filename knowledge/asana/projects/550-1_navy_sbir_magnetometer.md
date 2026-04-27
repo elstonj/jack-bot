@@ -12,52 +12,48 @@
 - **Dollar Value:** $242,540 total budget
   - Phase I: Completed (January 2026)
   - **Option Period (Apr 14 – Sep 28, 2026): $99,459**
-    - CLIN 0005 (Kick-Off & FWA Certification): $50,000 ✓ **COMPLETED** (submitted Apr 14, 2026; per Meredith Needham, Apr 17: "Navy SBIR Magnetometer has the kick-off and FWA Certification due on April 14th")
+    - CLIN 0005 (Kick-Off & FWA Certification): $50,000 ✓ **COMPLETED** (submitted Apr 14, 2026)
     - CLIN 0006 (Progress Report): $35,000 — Due Jun 29, 2026
     - CLIN 0007 (Final Report): $14,459 — Due Sep 28, 2026
 - **Timeline:**
   - Phase I completed: January 2026
   - **Option Period active:** April 14, 2026 – September 28, 2026
-  - **Project kicked off:** April 21, 2026 (per Maciej Stachura, Apr 22: "the Navy SBIR Magnetometer project has kicked off as of today")
-  - **Key Dates:**
-    - CLIN 0005 (Kick-Off & FWA Certification): Apr 14, 2026 ✓ **COMPLETED**
-    - CLIN 0006 (Progress Report): Jun 29, 2026
-    - CLIN 0007 (Final Report): Sep 28, 2026
+  - **Project kicked off:** April 21, 2026 (per Maciej Stachura, Apr 22)
+  - **Key Technical Dates:**
     - Design phase: Apr 27 – May 5
     - Build & ground testing: May 19 – May 29
     - Hand-launched flights: Jul 1
     - Camp Pendleton demo: Aug 17
-- **Status:** **Active – Option Period underway (kicked off Apr 21, 2026).**
-  - Per Maciej Stachura (Apr 22, 2026): "the Navy SBIR Magnetometer project has kicked off as of today. Make sure to track those tasks as part of the daily updates."
-  - Per Maciej (Apr 24): Navy SBIR Magnetometer is **priority #5** on current workload, behind S3 IRAD (end of May), S0-VTOL (two deliveries), EMASS closeout, and By-Lite Mustang.
-  - **Technical lead: Jack Elston** with support from Alex Lomis (PM/owner), Maciej Stachura, Beck Cotter, Meredith O'hara Needham, and Dan Prendergast.
+    - CLIN 0006 (Progress Report): Jun 29, 2026
+    - CLIN 0007 (Final Report): Sep 28, 2026
+- **Status:** **Active – Option Period underway (kicked off Apr 21, 2026).** Per Maciej Stachura (Apr 24): Navy SBIR Magnetometer is **priority #5** on current workload, behind S3 IRAD, S0-VTOL, EMASS closeout, and By-Lite Mustang.
 - **Team Members:**
-  - Alex Lomis (PM/owner)
-  - Jack Elston (technical lead)
-  - Maciej Stachura
-  - Beck Cotter
-  - Meredith O'hara Needham
-  - Dan Prendergast
+  - Alex Lomis (PM/owner, technical lead for builds & flights)
+  - Jack Elston (technical lead, onboard logging & final reporting)
+  - Maciej Stachura (Python tools, sensor configuration)
+  - Beck Cotter (Camp Pendleton coordination)
+  - Meredith O'hara Needham (administrative, invoicing, FWA certification)
+  - Dan Prendergast (support)
 - **Risk Signals:**
-  - **Heavy task load on Alex Lomis:** 8 of 19 open tasks assigned to him, spanning design, procurement, build, and flight testing through Aug 17. This represents 42% of active workload.
-  - **Compressed technical timeline:** Design phase (Apr 27–May 5) feeds directly into build (May 19) and ground testing (May 29), with hand-launched flights due Jul 1 and Camp Pendleton demo due Aug 17—all before CLIN 0007 final report deadline (Sep 28).
-  - **Critical path dependencies:** Ground testing (May 29) depends on completed design (Apr 27) and part ordering (May 5); hand-launched flights (Jul 1) depend on build completion (Jun 12); Camp Pendleton demo (Aug 17) depends on finalized flight plans (Aug 10).
-  - **External dependencies:** Camp Pendleton permissions/frequencies (Beck Cotter, due Jun 1) must be secured before demo logistics can be finalized.
-  - **Priority competition:** Per Maciej (Apr 24), Navy SBIR is #5 on priority list behind S3 IRAD, S0-VTOL, EMASS, and By-Lite Mustang—resource availability may be constrained.
+  - **Heavy task load on Alex Lomis:** 8 open tasks assigned, spanning design, procurement, build, flight testing through Aug 17 demo. Represents concentration of critical path work.
+  - **Compressed technical timeline:** Design (Apr 27–May 5) → build (May 19) → ground testing (May 29) → hand-launched flights (Jul 1) → Camp Pendleton demo (Aug 17), all before final report (Sep 28).
+  - **Critical path dependencies:** Ground testing depends on completed design & parts ordering; hand-launched flights depend on build completion; Camp Pendleton demo depends on finalized flight plans.
+  - **External dependency:** Camp Pendleton permissions/frequencies (Beck Cotter, due Jun 1) must be secured before demo logistics finalized.
+  - **Resource constraints:** Priority #5 status may limit availability of key team members during peak execution phases.
 
 ## Key Deliverables & Milestones
 
 **Option Period Administrative Deliverables:**
 | CLIN | Deliverable | Owner | Amount | Due Date | Status |
 |------|---|---|---|---|---|
-| 0005 | Kick-Off & FWA Certification Report + Invoice | Meredith O'hara Needham | $50,000 | Apr 14, 2026 | ✓ **COMPLETED** (submitted per Meredith, Apr 17) |
-| 0006 | Progress Report + Invoice | Jack Elston (report) / Meredith O'hara Needham (invoice) | $35,000 | Jun 29, 2026 | **In Progress** |
-| 0007 | Final Report + Invoice | Jack Elston (report) / Meredith O'hara Needham (invoice) | $14,459 | Sep 28, 2026 | **Pending** |
+| 0005 | Kick-Off & FWA Certification Report + Invoice | Meredith O'hara Needham | $50,000 | Apr 14, 2026 | ✓ **COMPLETED** |
+| 0006 | Progress Report + Invoice | Jack Elston / Meredith O'hara Needham | $35,000 | Jun 29, 2026 | **In Progress** |
+| 0007 | Final Report + Invoice | Jack Elston / Meredith O'hara Needham | $14,459 | Sep 28, 2026 | **Pending** |
 
 **Technical Milestones (Option Period):**
 | Milestone | Owner | Due Date | Status | Dependency |
 |---|---|---|---|---|
-| Complete design of ground testing S0-MAD (both mags) | Alex Lomis | Apr 27, 2026 | Open | Critical path start |
+| Complete design of ground testing S0-MAD (both mags) | Alex Lomis | Apr 27, 2026 | **OPEN** | Critical path start |
 | Preliminary design mods for reusable S0-MAD | Alex Lomis | May 1, 2026 | Open | Follows design phase |
 | Order parts for S0-MAD reusable | Alex Lomis | May 5, 2026 | Open | Design freeze |
 | Design onboard logging (both mag sensors) | Jack Elston | May 8, 2026 | Open | Parallel to design phase |
@@ -80,3 +76,19 @@
 - All Phase I reports and invoices submitted and paid (Feb 9–11, 2026) ✓
 
 ## Task Summary
+- **Total tasks:** 1 open, 0 completed (in current Asana view)
+  - *Note: Raw project data shows minimal Asana task capture; full milestone list above reflects tracked work per knowledge file.*
+- **Tasks by assignee (from open/tracked milestones):**
+  - Alex Lomis: 8 tasks (design, build, ground testing, hand-launched flights, Camp Pendleton demo)
+  - Jack Elston: 1 task (onboard logging design)
+  - Maciej Stachura: 2 tasks (Python tools, sensor configuration)
+  - Beck Cotter: 1 task (permissions/frequencies)
+  - Meredith O'hara Needham: Administrative (invoicing, reporting)
+- **Notable patterns:**
+  - Heavy concentration on Alex Lomis for technical execution (build, test, flight operations).
+  - Admin tasks well-separated (Meredith, invoicing).
+  - Parallel design tracks (Jack on logging, Maciej on tools).
+  - Custom fields used for contract tracking (Organization, Contact, Budget, Customer Type).
+
+## Recent Activity
+- **Apr 22, 2026 (Mac

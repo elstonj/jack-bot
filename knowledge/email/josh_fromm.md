@@ -1,10 +1,10 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 810 (803 previous + 7 new)
-- **Date range:** March 25 – April 26, 2026 (33 days)
-- **Approximate volume:** ~25 emails/day (stable)
-- **Note:** Apr 25–26 batch confirms **sustained automated/transactional dominance (100% of 7 new messages)**. All 7 are promotional/automated. **No human-to-human correspondence in Apr 25–26 window.** Baseline pattern holds — normal operations continue post-AVAPS 2026 engagement.
+- **Total messages scanned:** 817 (810 previous + 7 new)
+- **Date range:** March 25 – April 27, 2026 (34 days)
+- **Approximate volume:** ~24 emails/day (stable)
+- **Note:** Apr 26–27 batch confirms **sustained automated/transactional dominance (100% of 7 new messages)**. All 7 are promotional/automated/transactional. **No human-to-human correspondence in Apr 26–27 window.** Baseline pattern holds — normal operations continue.
 
 ## Key Correspondents
 
@@ -27,17 +27,14 @@
 16. **Angie Diefenbach** (adiefenbach@usgs.gov) — USGS Federal — Mexico Deployment coordination
 
 ### Top Senders (Automated/Transactional — updated)
-- **Constant Contact** — Payment receipt routing (Apr 26) — **Internal BST billing system flag**
-- **AliExpress** — Promotional/product suggestions (Apr 25)
-- **SkyGeek** — Aviation parts promotional (Apr 25)
-- **Harbor Freight** — Promotional (30% off, Apr 25)
-- **Budget** — Rental promotional (Apr 25)
-- **USPS Informed Delivery** — Daily digest (Apr 25)
-- **ELEGOO US** — Product promo "Jupiter 2: The First Chapter" (Apr 25) — **Routed to Alexis Lomis/purchasing@blackswifttech.com**
-- **KDE Direct** — Motor/propulsion components — Order KDE17135 (delivered Apr 24)
-- **Amazon** — Components (delivered Apr 24)
-- **FedEx Pickup Confirmation** — Outbound shipment EASB2033 (Apr 24)
-- **Hobbyking, Rock West Composites, Hillton Honors, Frontier Airlines** — Promotional (Apr 24)
+- **UPS** — Package delivery notifications (Apr 26, duplicate) — **Routed via Purchasing alias**
+- **eBay** — Component alerts ("woodhead 4023" part alert, Apr 26) — **Routed via Purchasing alias**
+- **BannerBuzz** — Promotional wallet points expired (Apr 27) — **Routed to purchasing@blackswifttech.com**
+- **AliExpress** — Promotional/product suggestions (Apr 26)
+- **USPS Informed Delivery** — Daily digest (Apr 26) — **Routed via Purchasing alias**
+- **Harbor Freight** — Promotional (30% off, Apr 26) — **Routed via Purchasing alias**
+- **Constant Contact** — Payment receipt routing (Apr 26 previous batch)
+- **SkyGeek, Budget, ELEGOO US, KDE Direct, Amazon, FedEx** — Prior period (noted in previous scan)
 
 ## Topic Patterns
 
@@ -60,7 +57,9 @@
 4. **Component Procurement Pipeline (Consolidation phase)**
    - Multiple deliveries Apr 24 (KDE, Amazon, FedEx outbound)
    - **FedEx outbound pickup EASB2033** suggests assembled components shipping out
-   - **Status:** Manufacturing assembly phase active
+   - **UPS package notifications** (Apr 26) — ongoing inbound logistics
+   - **eBay component alert (woodhead 4023)** (Apr 26) — potential part sourcing activity
+   - **Status:** Manufacturing assembly phase active, component sourcing ongoing
 
 5. **Scientific/Academic Engagement (Team-level)**
    - **AVAPS 2026 Meeting** — Forwarded to Josh, Maciej Stachura, Alexis Lomis (Apr 24)
@@ -68,11 +67,12 @@
 
 ## Communication Patterns
 
-- **Stable ~25 emails/day volume** maintained across entire scan period
-- **Apr 25–26 is 100% automated/transactional** — no human correspondence on weekend
-- **Procurement/purchasing routing** visible: emails tagged "via Purchasing" and routed to purchasing@blackswifttech.com alias suggest Josh may have purchasing authority or automated forwarding
+- **Stable ~24 emails/day volume** maintained across entire scan period
+- **Apr 26–27 is 100% automated/transactional** — no human correspondence on weekend
+- **Procurement/purchasing routing** visible: emails tagged "via Purchasing" and routed to purchasing@blackswifttech.com alias continue to expand in scope — now includes **UPS, eBay, USPS, Harbor Freight** (in addition to prior Constant Contact, ELEGOO, SkyGeek, etc.)
+- **Systematic component sourcing activity** visible through **eBay alerts** (Apr 26) — part number "woodhead 4023" suggests active component hunting/availability monitoring
 - **No mailing list participation** visible in new data
-- **Weekend promotional activity** (Apr 25–26) continues routine pattern — not signal of urgent work
+- **Weekend promotional/transactional activity** (Apr 26–27) continues routine pattern — not signal of urgent work
 
 ## Key Relationships
 
@@ -84,9 +84,9 @@
 
 ## Notable Observations
 
-- **Apr 25–26 weekend silence on human correspondence** is normal — all 7 new messages are promotional/transactional
-- **ELEGOO promotional email** routed to "Alexis Lomis" at purchasing@blackswifttech.com (Apr 25) — suggests alternative team member email alias or forwarding setup
-- **Constant Contact payment receipt** (Apr 26) routing through internal purchasing system — possible email marketing platform for BST operations
+- **Apr 26–27 weekend silence on human correspondence** is normal — all 7 new messages are promotional/transactional
+- **eBay component alert (woodhead 4023, Apr 26)** — **NEW SIGNAL:** Part-specific sourcing activity suggests active component hunting or availability monitoring; "woodhead" brand typically industrial connectors/connectors — potential avionics/control system component
+- **UPS duplicate notifications** (Apr 26, 15:00 and 14:15 EDT, 4-minute interval) — Possible delivery to multiple locations or system artifact
+- **Purchasing alias expansion:** Now 10+ automated vendors routed through purchasing@blackswifttech.com — suggests **centralized procurement inbox** or **forwarding rule for all vendor notifications**
 - **No acceleration or urgency signals** post-AVAPS 2026 engagement (Apr 24); normal operations continue
-- **FedEx outbound pickup Apr 24 (EASB2033)** + simultaneous multi-vendor deliveries suggest **manufacturing assembly pace pickup** mid-to-late April
-- **Procurement baseline:** ~88% automated/transactional; only ~12% human-to-human correspondence (unchanged)
+- **Procurement baseline:** ~88% automated/transactional; only ~12% human-to-human correspondence (unchanged

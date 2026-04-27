@@ -1,11 +1,11 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned: 771 combined** (765 previous + 6 new)
-- **Date range covered: March 18 - April 26, 2026 (approximately 40 days)**
+- **Total messages scanned: 777 combined** (771 previous + 6 new)
+- **Date range covered: March 18 - April 27, 2026 (approximately 41 days)**
 - **Approximate daily volume: 20-25 emails per day**
-- High volume of automated vendor/shipping notifications (~95% of volume) mixed with critical strategic project communications and active supplier negotiations
-- **Apr 25-26 snapshot shows 6 messages**: all promotional/automated (vendor offers, billing receipt, shipping digest, product promotions); no direct correspondence in this batch
+- High volume of automated vendor/shipping notifications (~98% of volume) mixed with critical strategic project communications and active supplier negotiations
+- **Apr 26-27 snapshot shows 6 messages**: all promotional/automated (wallet points expiration, UPS delivery notifications, Harbor Freight promotion, USPS daily digest, eBay product alert); no direct human correspondence in this batch
 
 ## Key Correspondents
 
@@ -20,7 +20,7 @@
 ### Key External Contacts - CRITICAL ACTIVE:
 - **Adam Craft (Amprius)** (adam.c@ampriuscells.com) - **ONGOING DIRECT NEGOTIATION** - battery cell sourcing negotiation
 - **James K. Sisson (Ausgar)** (James.K.Sisson@ausgar.com) - **CRITICAL**: Sent "DON-SEC/Black Swift Technologies LLC 1-Year Follow-up" marked IMPORTANT (Apr 24); suggests active contract/compliance review or renewal
-- **Atmolab** (info@atmolab.eu) - **NEW ACTIVE**: Alex initiated outbound contact regarding "Rex 110 Mini Gen2 Integration" (Apr 24)
+- **Atmolab** (info@atmolab.eu) - **ACTIVE**: Alex initiated outbound contact regarding "Rex 110 Mini Gen2 Integration" (Apr 24)
 - **Kevin Thomas (PartsBase)** (kthomas@partsbase.com) - Aviation sourcing vendor
 - **Angel R. Ruiz-Reyes (NAWCAD/Navy)** (angel.r.ruiz-reyes.civ@us.navy.mil) - Navy technical contact for Bartington sensor
 - **Anthony D. Brescia (NAWCAD/Navy)** (anthony.d.brescia.civ@us.navy.mil) - Navy stakeholder
@@ -55,12 +55,12 @@
 - **GetFPV** (Nazgul Evoque V3 promotion, "Seeker 35" product alerts)
 - **CADDX FPV** (Avatar GT2 Kit)
 - iFlight Nazgul Evoque F5 V3
-- eBay
+- **eBay** - active product monitoring (woodhead 4023 connector alert Apr 27; sustained component sourcing)
 - **Ready Made RC LLC**
 - **RMRC**
 - AMain Hobbies
 - Aloft Hobbies
-- **Elegoo** - NEW promotional engagement (Jupiter 2 product messaging Apr 25); continued supplier relationship
+- **Elegoo** - promotional engagement (Jupiter 2 product messaging Apr 25); continued supplier relationship
 
 **Instrumentation & Sensors:**
 - **Atmolab** (Rex 110 Mini Gen2 - ACTIVE INTEGRATION)
@@ -73,18 +73,18 @@
 
 **Batteries & Power:**
 - 18650 Battery Store
-- **Amprius cells** - ACTIVE NEGOTIATION ongoing
+- **Amprius cells** - ONGOING NEGOTIATION
 
 **Tools/General:**
-- **Harbor Freight** (30% off promotion Apr 25)
+- **Harbor Frost** - promotion notifications (30% off promotion ongoing; Apr 26 time-sensitive promotion "Ends Today")
 - The Home Depot
 - McMaster-Carr
 
 **Logistics/Travel:**
 - **Budget** (free double upgrade offer Apr 25)
 - **FedEx** (on-call pickup scheduled EASB2033 Apr 24)
-- **USPS Informed Delivery** (daily digest Apr 25)
-- UPS
+- **USPS Informed Delivery** (daily digest continuing through Apr 26)
+- **UPS** (duplicate package arrival notifications Apr 26; active shipment tracking)
 - U-Haul
 
 **Subscriptions/Services:**
@@ -93,6 +93,7 @@
 - Gemini/Google Notes
 - **Asana** (task management, 2 overdue tasks, 8 assigned as of Apr 24)
 - **Constant Contact** (billing receipt for Jack Elston Apr 26)
+- **BannerBuzz** - NEW: Wallet points expiration alert (Apr 27); indicates promotional/rewards account activity
 
 **Infrastructure/Utilities/Communications:**
 - **Comcast Business**
@@ -115,25 +116,21 @@
 - Camp Pendleton demo flights planned
 - Bartington sensor logistics confirmed
 
-**AVAPS 2026 Meeting** - NEW:
+**AVAPS 2026 Meeting** - ACTIVE:
 - **IMPORTANT meeting flagged by Maciej Stachura and Jack Elston (Apr 24)**
 - Meeting details forwarded from external source to leadership + Alex Lomis
 - Likely aviation/autonomous vehicle conference or partner engagement
 
-**DON-SEC Contract/Compliance Review** - NEW/ACTIVE:
+**DON-SEC Contract/Compliance Review** - ACTIVE:
 - **1-Year Follow-up communication from Ausgar (Apr 24)** marked IMPORTANT
 - Multi-party communication (Beck Cotter, Jack Elston, Maciej Stachura involved)
 - Suggests contract renewal, compliance audit, or security review cycle
 
-**Atmolab Rex 110 Mini Gen2 Integration** - NEW ACTIVE:
+**Atmolab Rex 110 Mini Gen2 Integration** - ACTIVE:
 - **Direct outbound from Alex Lomis to Atmolab (Apr 24)**
 - Sensor integration evaluation in progress
 
-**Amprius Battery Cell Sourcing** - ONGOING NEGOTIATION:
-- Continued from previous period
+**Amprius Battery Cell Sourcing** - ONGOING NEGOTIATION
 
 ## Communication Patterns
-- **Apr 25-26 sample**: All automated/promotional messages; no human correspondence visible in this 2-day window
-- **Promotional email routing**: Multiple vendor promotions and billing notifications routed through purchasing@blackswifttech.com alias, suggesting centralized procurement email management
-- **Daily automated digest pattern**: USPS Informed Delivery, daily shipping notifications from multiple vendors (sustained)
-- **Weekend activity**:
+- **Apr 26

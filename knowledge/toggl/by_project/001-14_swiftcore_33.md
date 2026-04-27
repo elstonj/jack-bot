@@ -4,12 +4,12 @@
 - Client: [001] IRAD (Internal Research and Development)
 - Active/inactive status: Active
 - Billable status: Non-billable
-- Total hours tracked: 782.5 hours
+- Total hours tracked: 784.7 hours
 
 ## Team Allocation
-- Ben Busby: 588.6 hours (75.2% - Primary contributor)
-- Stachura: 185.4 hours (23.7%)
-- Jack Elston: 8.5 hours (1.1%)
+- Ben Busby: 588.6 hours (74.9% - Primary contributor)
+- Stachura: 185.4 hours (23.6%)
+- Jack Elston: 10.7 hours (1.4%)
 
 ## Activity Timeline
 Recent work shows ongoing development with focus on:
@@ -20,7 +20,7 @@ Recent work shows ongoing development with focus on:
   - UI improvements (cruise/hover speed separation, climbout height warnings)
   - Bug fixes and tablet interface issues
   - "Orbit Here" command enhancements
-- **Jack Elston**: Limited involvement with simulator debugging and code reviews
+- **Jack Elston**: Code review work (2.2h recent entry); expanded involvement with simulator debugging and code reviews
 
 ## Insights
 - **Primary work types**:
@@ -29,9 +29,11 @@ Recent work shows ongoing development with focus on:
   - Flight control interface improvements
   - Bug fixes and testing
   - Mixer code development
+  - Code review activities
 - **Notable patterns**:
   - Ben Busby continues to carry majority of development load with minimal task descriptions
   - Stachura focuses on specific features and provides detailed work descriptions
+  - Jack Elston's role expanding slightly with more code review contributions
   - Work appears to be in active development phase with frequent bug fixes and feature additions
   - Strong emphasis on VTOL capabilities and simulation accuracy
 - **Documentation gap**: 75%+ of Ben Busby's entries lack descriptions, making it difficult to track specific contributions

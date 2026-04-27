@@ -33,17 +33,12 @@
 | Create photogrammetry footprints | Dan Prendergast | October 1, 2026 | **STALE** | Reschedule for Fall 2026 |
 
 ## Task Summary
-- **Total Tasks**: 20 open, 0 completed
-- **Tasks by Assignee**:
-  - **Dan Prendergast**: 6 open tasks (AFAC meeting, AV3 replacement search, flight approvals, permissions, flight plans, photogrammetry footprints)
-  - **Maciej Stachura**: 2 open tasks (FLIR stoppage review, propeller testing at 5700m)
-  - **Josh Fromm**: 1 open task (spare parts and packing list)
-  - **Unassigned**: 11 open tasks (5 milestones + 6 open-ended work items: Test New Capabilities, Tools/Ground Equipment, S2 Improvements, Planning/Algorithms/UI, CONOPS, Kevin Pesola contact record)
+- **Total Tasks**: 1 open, 0 completed (per current raw data; historical knowledge file showed 20 open tasks, all now stale)
+- **Current Open Task**:
+  - **Dan Prendergast**: 1 task — "Meeting with AFAC" (Due April 27, 2026 — **STALE per Fall 2026 delay**)
 - **Notable Patterns**: 
-  - Dan Prendergast owns most permitting and coordination tasks
-  - Multiple milestone tasks remain unassigned (awaiting Fall 2026 rescheduling and ownership clarification)
+  - Project is in hold state pending Fall 2026 deployment confirmation
   - **All task due dates April–October 2026 are SUPERSEDED by Fall 2026 delay announcement**
-  - 6 open-ended tasks with no due dates (Test New Capabilities, Tools/Ground Equipment, S2 Improvements, Planning/Algorithms/UI, CONOPS) — purpose and ownership unclear; may be long-term research/development tasks
 
 ## Recent Activity
 - **April 20, 2026 (TEAM CORRECTION — AUTHORITATIVE)**: 
@@ -61,4 +56,4 @@
 - **Products/Services**: MHP, Survey Services, Aircraft Rental (via AV3 — replacement partner search ongoing)
 - **Key Contacts**:
   - USGS: Christoph Kern, Kevin Pesola (kpesola@usgs.gov, Vancouver office, (360) 993-8963)
-  - BST: Maciej Stachura (lead) — refer to him for Fall 2026 timeline details
+  - BST: Maciej Stachura (lead) — refer to him for Fall 2026 timeline details and task rescheduling

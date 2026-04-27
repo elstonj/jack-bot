@@ -102,4 +102,4 @@
 - All 17 contacts verified and consolidated from existing knowledge and new raw data
 - Three team members (Beck Cotter, Daniel Prendergast, Jameel Barkat) remain unclassified; recommend reaching out to leadership for role clarification
 - BST maintains a strong engineering-focused organization with balanced technical and administrative support
-- All phone numbers standardized to XXX-XXX-XXXX format
+- All phone numbers standardized to XXX-XXX-XXXX format where available
