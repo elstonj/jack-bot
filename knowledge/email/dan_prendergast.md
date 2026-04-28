@@ -1,55 +1,83 @@
 # Dan Prendergast — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 10 emails across ~2 days (Apr 25–27, 2026)
-- **Estimated volume:** Low frequency; appears to be a curated inbox or selective monitoring period
+- **Total messages scanned:** 26 emails across ~4 days (Apr 25–28, 2026)
+- **Estimated volume:** Moderate; selective but active engagement; higher concentration on Apr 27 (12 emails in single day)
 
 ## Key Correspondents
 
 ### Internal (Black Swift Technologies)
-- **Jack Elston** (elstonj@blackswifttech.com) — Most frequent internal contact; initiating and coordinating meetings
-- **Maciej Stachura** (stachura@blackswifttech.com) — Recipient on S2 MHP discussion invite
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — Recipient on S2 MHP discussion invite
+- **Jack Elston** (elstonj@blackswifttech.com) — Primary collaborator; initiates meetings, coordinates cross-functional discussions, relays external feedback
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — Secondary internal contact; Educational Inquiries thread
+- **Maciej Stachura** (stachura@blackswifttech.com) — Recipient on S2 MHP discussion
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — Recipient on S2 MHP discussion
 
-### External
-- **Stanford University contacts:**
-  - Tanay Topac (tanaytopac@stanford.edu) — Active in S2 MHP discussion thread
-  - F.K. Chang (fkchang@stanford.edu) — Recipient on S2 MHP invite
-  - Dov Aaron (daharon@stanford.edu) — Recipient on S2 MHP invite
-- **Fu-Kuo Chang** (fukuochang@icloud.com) — Participant in S2 MHP discussions
-- **Nikhila Ravikumar** (Nikhila@nanoveu.com) — External contact on Flight Testing Updates thread
+### External (Government)
+- **NASA:**
+  - Will Wade (william.o.wade@nasa.gov, ARC-JO) — Active discussion on S20009 project
+- **U.S. Military/Defense:**
+  - Evan M. Wolff, USSOCOM (evan.m.wolff.mil@socom.mil) — RFI S0 discussion; marked IMPORTANT
+  - Michael C. Jagelewski, USSOCOM (michael.c.jagelewski.civ@socom.mil) — Copied on RFI S0 thread
+- **International Government:**
+  - Paulino Alonso Rivera (paulino.alonso@sspc.gob.mx, Mexico) — AFAC requirements discussion; marked IMPORTANT
+
+### External (Industry & Academic)
+- **NanoVeu:**
+  - Nikhila Ravikumar (Nikhila@nanoveu.com) — Flight Testing Updates; marked IMPORTANT
+  - Mohamed Sabry (msabry@nanoveu.com) — ECSDOT Meeting acceptance
+- **Stanford University:**
+  - Tanay Topac (tanaytopac@stanford.edu) — S2 MHP discussion
+  - F.K. Chang (fkchang@stanford.edu) — S2 MHP discussion
+  - Dov Aaron (daharon@stanford.edu) — S2 MHP discussion
+  - Fu-Kuo Chang (fukuochang@icloud.com) — S2 MHP discussion
+- **University of Maryland Eastern Shore:**
+  - Christopher E. Hartman (chartman@umes.edu) — Black Swift Update discussion
+- **Defense Industry:**
+  - Brody Basset (bb@defensecoalitions.org) — Europe Market Access for UAS/C-UAS discussions
 
 ## Topic Patterns
 
-### Projects/Initiatives
-- **S2 MHP** — Primary active discussion topic; multi-party meeting scheduled for Tue Apr 28, 11am–11:30am (MDT)
-- **Flight Testing Updates** — Secondary project discussion (Jack Elston coordinating)
+### Active Projects/Programs
+- **S2 MHP** — Multi-party research/development initiative (Stanford + BST internal team)
+- **S20009** — NASA discussion thread; appears to be a specific program or contract number
+- **RFI S0** — Request for Information; active engagement with USSOCOM; marked IMPORTANT
+- **Flight Testing Updates** — Ongoing NanoVeu coordination; marked IMPORTANT
+- **Popocatépetl Volcanic Gas Monitoring Campaign** — Mexico AFAC requirements; marked IMPORTANT
+- **ECSDOT Meeting** — NanoVeu meeting acceptance
+
+### Topic Clusters
+- **UAS/Drone Systems:** Modular payloads, RPAS operations, C-UAS, counter-UAS defense
+- **Defense/Aerospace:** Transatlantic defense industry access, USSOCOM engagement, NASA collaboration
+- **Market Development:** Europe market access for UAS; educational/outreach inquiries
+- **Flight Operations:** Testing coordination, volcanic gas monitoring application
 
 ### Newsletters/Subscriptions (Automated)
 - **Asana** — Weekly portfolio reporting
-- **Air & Space Forces Magazine** — Weekend news alerts on USAF/aviation topics
-
-### Domain Focus
-- Aerospace/defense (USAF, aviation combat perspectives)
-- Flight testing operations
-- Project management (Asana tracking)
+- **Air & Space Forces Magazine** — Weekend news alerts
 
 ## Communication Patterns
 
-- **High urgency markers:** Multiple emails flagged as IMPORTANT and UNREAD in rapid succession (Apr 26–27)
-- **Coordinated timing:** Rapid email exchanges on S2 MHP over 24-hour period (Sun–Mon) suggest active project coordination
-- **Multi-stakeholder coordination:** Jack Elston appears to be orchestrating discussions across Stanford academics and BST internal team
-- **Newsletter consumption:** Receives aviation/aerospace thought leadership content (Mitchell Institute, Air & Space Forces Magazine)
+- **High-priority government engagement:** Multiple IMPORTANT flags on USSOCOM (Wolff), Mexican government (Rivera), and flight testing (Ravikumar) threads — suggests Dan handles government/regulatory affairs
+- **Rapid response cycles:** Apr 27 shows 12 emails; multiple back-and-forth exchanges with Jack Elston on same-day topics (UAS modular payloads webinar, RFI responses)
+- **Direct outbound communication:** Dan originates replies directly to government agencies (NASA, USSOCOM, Mexico) — suggests he has authority/expertise on these topics
+- **Multi-stakeholder coordination:** Jack Elston acts as internal relay/coordinator; Dan maintains direct external relationships
+- **Time zone awareness:** Emails sent/received across UTC and MDT; international engagement patterns visible
 
 ## Key Relationships
 
-- **Jack Elston** — Primary internal collaborator; organizes cross-functional meetings with external partners
-- **Stanford University team** (Topac, Chang, F.K. Chang, Aaron) — Active research/development partners on S2 MHP
-- **Flight Testing vendors/partners** — Nikhila Ravikumar at NanoVeu appears to be a key external technical contact
+- **Jack Elston** — Chief internal collaborator; filters, coordinates, and escalates external discussions; appears to be operations/program manager
+- **Nikhila Ravikumar (NanoVeu)** — Flight testing operations partner; high-frequency, marked IMPORTANT coordination
+- **Evan M. Wolff (USSOCOM)** — Key military customer contact; RFI discussions
+- **Will Wade (NASA)** — Government space agency partner; S20009 program
+- **Paulino Alonso Rivera (Mexico AFAC)** — International government regulatory/operational contact
+- **Stanford University team** (Topac, Chang, Aaron) — Active research partners on S2 MHP
+- **Christopher E. Hartman (UMES)** — Academic/educational relationship; Black Swift updates
 
 ## Notable Observations
 
-- **S2 MHP appears to be a significant initiative** involving Stanford academics, multiple BST staff, and external contractors — suggests R&D or product development project
-- **Coordinated external engagement:** The level of coordination between Jack Elston, Stanford contacts, and external partners suggests this is a high-priority program
-- **Professional reading habits:** Regular consumption of aerospace/defense strategy content (Mitchell Institute, USAF publications) — aligns with domain expertise
-- **Inbox management:** Only 10 emails in 2-day window suggests Dan either has high email filtering/archiving discipline or limited external-facing responsibilities in this period
+- **Government affairs role:** Dan engages directly with NASA, USSOCOM, Mexican federal authorities, and international defense industry contacts — suggests senior business development, government relations, or program management function
+- **RFI S0 (USSOCOM) marked IMPORTANT:** This appears to be an active opportunity or requirement response with military significance
+- **Volcanic gas monitoring use case:** Popocatépetl campaign suggests BST is positioning UAS/drone systems for scientific/environmental monitoring in regulated airspace (Mexico)
+- **Transatlantic defense market:** Europe-focused UAS/C-UAS/space defense access suggests strategic market expansion effort
+- **Bimodal communication style:** Acts as both technical discussion participant (Flight Testing, UAS payloads) and business development lead (government RFIs, market access forums)
+- **Jack Elston as filter/relay:** Elston often appears on emails Dan receives but doesn't directly reply to; suggests a coordinator role between Dan and other stakeholders

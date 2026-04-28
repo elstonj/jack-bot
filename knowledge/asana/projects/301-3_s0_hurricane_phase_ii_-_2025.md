@@ -52,7 +52,7 @@
 - **Total tasks:** 23 open, 0 completed
 - **Open & Assigned:**
   - **Web-based controller** — Ben Busby (due July 31, 2026)
-- **Open & Unassigned (23 tasks, including critical path):**
+- **Open & Unassigned (22 tasks):**
   - Additional 13 S0 systems (due July 1, 2026)
   - Operator Training (due July 31, 2026)
   - All 5 required technical milestones (10Hz Met Data, Increased Endurance, Dual GPS, GUI/usability improvements, Airops updates) — no due dates
@@ -73,7 +73,7 @@
 - QC Flight for new E2 (Mar 18 due date, completed Apr 9) — Ethan Domagala
 
 **Strategic Activity (April 2026):**
-- **Alex Lomis (Apr 17 & Apr 20, 2026):** Shared NASA RFI link (https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view) recommended by NASA and Joe Cione during hurricane ET call — indicates potential expansion of government partnerships beyond NOAA for S0 platform
+- **Alex Lomis (Apr 17 & Apr 20, 2026):** Shared NASA RFI link recommended by NASA and Joe Cione during hurricane ET call — https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view — indicates potential expansion of government partnerships beyond NOAA for S0 platform
 
 **Approaching Deadlines:**
 - Web-based controller (due July 31, 2026) — Ben Busby (assigned, status unclear)
@@ -99,4 +99,4 @@
 - Clear Air testing completed as of April 16, 2026
 
 ### Critical Issues & Gaps
-1. **Five required technical milestones (10Hz
+1. **Five required technical milestones (10Hz Met Data, Increased

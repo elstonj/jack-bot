@@ -1,7 +1,7 @@
 # #swiftcore
 
 ## Overview
-This channel serves as the primary technical communication hub for Black Swift Technologies' SwiftCore drone system development. It covers firmware development, tablet application updates, flight testing coordination, bug fixes, feature implementation, and release management. The channel shows very active usage with 4397+ messages across 23 batches, spanning approximately 2020-2025, with key participants including Jack Elston, Ben Busby, Danny Troke, Maciej, Frank Strazzabosco, Cory, Dan Prendergast, Caleb Bishop, and Alex Lomis.
+This channel serves as the primary technical communication hub for Black Swift Technologies' SwiftCore drone system development. It covers firmware development, tablet application updates, flight testing coordination, bug fixes, feature implementation, and release management. The channel shows very active usage with 4397+ messages across 24 batches, spanning approximately 2020-2025, with key participants including Jack Elston, Ben Busby, Danny Troke, Maciej, Frank Strazzabosco, Cory, Dan Prendergast, Caleb Bishop, and Alex Lomis.
 
 **Key Participants:** Jack Elston, Ben Busby, Danny Troke, Maciej, Frank Strazzabosco, Cory, Dan Prendergast, Caleb Bishop, Alex Lomis
 
@@ -23,6 +23,11 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Major communications update with reduced rate communications to optimize bandwidth
 - Replaced variables with smallest possible data types requiring multiplication/division scaling
 - Communications bandwidth reduction project with packet optimization
+
+**Comms Version Bump for CAN Deployment (April 2026):**
+- Approved comms version bump due to new state added to CAN_DeploymentTubeState_t enum (April 27, 2026)
+- Rationale: Required for proper log parsing
+- Approval: Ben Busby confirmed no concerns with version bump
 
 **Weather Data Migration (2021):**
 - Weather API migration from DarkSky (discontinued by Apple) to alternative services
@@ -104,27 +109,22 @@ This channel serves as the primary technical communication hub for Black Swift T
 - **Approach:** Maintain both old and new file formats temporarily; develop converter utility while transitioning
 - **Decision-makers:** Maciej approved new format approach; Ben Busby investigating implementation
 
+**CAN Deployment Tube Enhancement (April 2026):**
+- **Status:** Active development
+- **Change:** New state added to CAN_DeploymentTubeState_t enum
+- **Comms Update:** Comms protocol version bump required for log parsing compatibility
+- **Next Steps:** Ben Busby to update log parse site once changes committed
+
 ## Action Items & Commitments
 
-**Current Outstanding (April 2026):**
+**Current Outstanding (as of April 27, 2026):**
 - **Jack Elston:** 
-  - Finalize feature/multi_radio_gcs branch (multiple radio connections with per-aircraft addressing) - validation in progress
+  - Complete feature/multi_radio_gcs branch (multiple radio connections with per-aircraft addressing) - validation in progress
   - Continue validation of hurricane web controller changes
   - Clarify PayloadNodeView indentation/formatting in feature/emass branch
   - Testing double autopilot with GCS after pulling recent fixes
   - Debug Transmit Command Buffer Overflow errors in multi-radio implementation
   - Investigate web controller and swil high CPU usage
+  - Finalize and commit new CAN_DeploymentTubeState_t enum state for deployment tube enhancement (April 27, 2026)
 
-- **Ben Busby:** 
-  - Review and integrate multi-radio GCS changes from Jack's commits
-  - Push web controller CPU usage optimizations (in progress - improvement made April 8-10)
-  - Implement modular UI layout system for web controller redesign
-  - Design mobile-first responsive web UI for equal phone/desktop usability
-  - Fix aircraft selection feature in web controller (broken by HTMX hook, deferred until after PTO return)
-  - Investigate and fix parameter file structure mapping to comms packets
-  - Review tablet changes for feature/emass branch (SDK state machine updates)
-  - PTO scheduled (April 9, 2026) - expects code changes during absence
-  - Implement claude.md coding guidelines in autopilot and web controller repos
-
-- **Maciej & Alex:** 
-  - Flight test feature/multi_radio_gcs branch with dual
+-

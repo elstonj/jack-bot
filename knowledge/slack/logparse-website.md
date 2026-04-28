@@ -18,6 +18,7 @@ This channel tracks the development and operation of SwiftWeb (logparse), a plat
 - **Oct 2025**: Approved migration of all logs from 14 organizations from old logparse site to new SwiftWeb platform
 - **Apr 21, 2026**: Decided to un-publish log_utils package from PyPI; will import as submodule in swiftweb repo instead (Ben Busby decision)
 - **Apr 25, 2026**: Confirmed shareable flight links should include NetCDF download capability in addition to flight path visualization and submitted info (Jack Elston requested)
+- **Apr 27, 2026**: Shareable flight links feature launched to production (Ben Busby deployed)
 
 ## Projects & Initiatives
 
@@ -27,8 +28,9 @@ This channel tracks the development and operation of SwiftWeb (logparse), a plat
 - Supports S2, E2, Flamewheel, Dronetag, and ground station logs
 - Passed 2000 flights milestone (Mar 11, 2025)
 - Features: flight visualization, 3D flight paths with Google Maps tiles, custom SQL queries on flight metadata, WMO NetCDF generation for S0 aircraft
-- **New feature (Apr 24-25, 2026)**: "Publish" link to make individual flights read-only shareable with customers
+- **Feature (Apr 27, 2026)**: "Publish" shareable flight links now live
   - Includes: submitted info display, flight path visualization, NetCDF download capability
+  - Deployed to production; feedback collection phase before merge (Ben Busby)
 
 ### Ground Station Logs (GCS) Processing
 **Status:** Operational with ongoing refinements (as of Apr 2026)
@@ -77,11 +79,12 @@ This channel tracks the development and operation of SwiftWeb (logparse), a plat
 - ✅ Fix GCS log processing for logs without sys_init/vehicle_param packets (completed Apr 21, 2026)
 - ✅ Un-publish log_utils from PyPI; convert to submodule import (completed Apr 21, 2026)
 - ✅ Fix date filter bug where "to" date must be set one day after today to view today's flights (completed Apr 25, 2026)
+- ✅ Deploy shareable flight links feature to production (completed Apr 27, 2026)
 - **Pending:** Switch WMO generator to background task processing (awaiting Maciej's modifications)
 - **Pending:** Add parsing support for SENSORS_RTK_HEADING packet (ID #59) (requested Mar 20, 2026)
 - **Pending:** Investigate S1-19 flight NAN value issues (assigned Apr 1, 2026)
 - **Pending:** Investigate missing `FLIGHT_PLAN_WAYPOINT` packets in recent S1-22 logs (assigned Apr 20, 2026; confirmed packets missing from binary as of Apr 21)
-- **Pending (Apr 25, 2026):** Develop "publish" feature for shareable read-only flight links with NetCDF download capability (feature request from Jack Elston)
+- **Pending:** Merge shareable flight links feature after gathering feedback (planned for Apr 28, 2026)
 
 ### Maciej
 - ✅ Complete automation of WMO netCDF generation code (planned for weekend following Jun 27, 2025)
@@ -94,11 +97,5 @@ This channel tracks the development and operation of SwiftWeb (logparse), a plat
 - ✅ Retry S2 Costa Rica flights upload (May 23, 2025)
 - ✅ Confirm organizations for migration (completed Oct 22, 2025)
 - ✅ Request removal of invalid log_S00076_log_2 (completed Sep 26, 2025)
-- **Pending:** Confirm which flight from Apr 21, 2026 GCS upload to save (second flight only; first flight had onboard log)
-
-### Dan Prendergast
-- **Pending:** Database schema expansion with PIC, takeoff time, land time columns (requested Jan 20, 2026)
-
-## Client & External References
-
-###
+- ✅ Acknowledge shareable flight links feature (Apr 27, 2026)
+- **Pending:** Confirm which flight from Apr 21, 

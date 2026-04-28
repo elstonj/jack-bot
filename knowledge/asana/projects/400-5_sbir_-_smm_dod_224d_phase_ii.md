@@ -42,10 +42,17 @@ Development and validation of a UAS-based L-band radiometer for mapping soil int
 - **2025-07-21:** Final Report submitted to Air Force; Milestone 8 deliverable meeting completed
 - **2025-06-27 to 2025-07-09:** Tyndall AFB testing campaign completed; data validation and quantitative analysis finished
 - **2025-03-05:** Local field testing milestone completed (Milestone 5)
-- **2026-04-17:** Navy STTR submitted along with invoice (Meredith Needham)
+- **2026-04-17:** Navy STTR submitted along with invoice (Meredith Needham, per team feedback)
 
 ## Related Projects
-**Navy SBIR Magnetometer project:** Kicked off 2026-04-22. Dan Prendergast is technical lead with support from team members noted in Asana (Maciej Stachura, 2026-04-22). Project brief in Asana contains kick-off slidedeck template and report template links (https://navysbir.com/links_forms.htm).
+**Navy SBIR Magnetometer project:** Kicked off 2026-04-22. Per team feedback (Maciej, 2026-04-22), Dan Prendergast is technical lead with support from team members noted in Asana (Maciej Stachura, and others). Project brief in Asana contains kick-off slidedeck template. Report templates available at https://navysbir.com/links_forms.htm.
+
+**Active priority projects (per Maciej, 2026-04-24):**
+1. S3 IRAD (targeted delivery end of May for UMES S3)
+2. S0-VTOL (two deliveries for ERAU and Barbados)
+3. EMASS closeout
+4. By-Lite Mustang
+5. Navy SBIR Magnetometer initial tasks
 
 ## Notes & Context
 - **Contract number:** FA864924P0003
@@ -57,6 +64,5 @@ Development and validation of a UAS-based L-band radiometer for mapping soil int
   - RevD data processing web interface
   - Sensor protective cover design
 - **OMS collaboration:** Subcontractor handled radiometer hardware ($605,000); BST managed integration, testing, and algorithm development
-- **Deliverable #5 note:** Submitted Dec 11, 2024 for $100,000; invoicing and approval process tracked through Mar 2025
 - **Compliance:** All SBIR/STTR lifecycle certifications completed; team medical certifications obtained for flight operations
-- **Project templates:** Project brief in Asana contains kick-off slidedeck template and links to Navy award deliverable templates (Meredith Needham, 2026-04-17)
+- **Project templates & reporting:** Navy SBIR Magnetometer project templates available in Asana Project Brief, with Report Templates and Award Deliverables available at https://navysbir.com/links_forms.htm. All reports must prominently display required cover information per Navy guidelines.

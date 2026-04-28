@@ -4,25 +4,25 @@
 - **Client/customer:** Murray State University / Dr. Bassil El Masri
 - **Dollar value:** $86,862.94 total funding to Black Swift Technologies
 - **Timeline:** Project due 2025-01-31 (original); flights extending through 2026; S2 rental due 2026-06-01
-- **Status:** Active but **at risk**. 2 flights completed (Nov & Dec 2025), Flight #3 planned Spring 2026. **CRITICAL: Flight #3 confirmation deadline (2026-04-10) has PASSED without resolution.** Per Jack Elston (2026-04-20): Murphy's Pond competes with INSTAAR x2 and Ottawa demo for scheduling priority; "whatever actually happens first" determines execution order. Timing and execution remain uncertain.
+- **Status:** Active but **at critical risk**. Flights #1 & #2 completed (Nov & Dec 2025). **Flight #3 confirmation deadline (2026-04-10) OVERDUE — remains unconfirmed as of 2026-04-20.** Per Jack Elston (2026-04-20): Murphy's Pond competes with INSTAAR x2 and Ottawa demo for scheduling priority; execution order is "whatever actually happens first" among competing projects. Timing and execution remain uncertain.
 - **Team members involved:** Jack Elston (lead technical/flight coordination), Maciej Stachura (payload configuration), Nate Straus (software), Meredith O'hara Needham (communications), Beck Cotter (owner/project lead)
 - **Risk signals:** 
-  - Flight #3 confirmation deadline (2026-04-10) **now overdue** — scheduling unresolved as of 2026-04-20 (Jack Elston); competing with INSTAAR x2 and Ottawa demo for priority
-  - S2 rental order window approaching (2026-06-01) with training/travel requirements; travel not yet scheduled
-  - Unresolved FLIR triggering issues and methane payload data rate investigation pending
+  - **Flight #3 confirmation deadline (2026-04-10) now overdue** — scheduling unresolved as of 2026-04-20 (Jack Elston); competing with INSTAAR x2 and Ottawa demo for priority
+  - S2 rental order window (2026-06-01) approaching with training/travel requirements; travel not yet scheduled
+  - Unresolved technical issues: FLIR triggering failures and methane payload data rate investigation pending
   - Project execution timing uncertain; may not proceed if competing priorities take precedence
 
 ## Key Deliverables & Milestones
 - **Flight #1:** Completed November 11, 2025
 - **Flight #2:** Completed December 11, 2025
-- **Flight #3:** Planned Spring 2026; **confirmation deadline 2026-04-10 OVERDUE — remains unconfirmed as of 2026-04-20** (Jack Elston)
-- **S2 Aircraft Rental (2 units, S0 VTOL):** Due 2026-06-01; training/travel required; travel not yet scheduled
+- **Flight #3:** Planned Spring 2026 (Target: 2026-03-02); **confirmation deadline 2026-04-10 OVERDUE — unconfirmed as of 2026-04-20** (Jack Elston)
+- **S2 Aircraft Rental (2 units, S0 VTOL):** Due 2026-06-01; training/travel required; **travel not yet scheduled**
 - **Optional Flight #4:** Dr. Masri has $31k available (offered July 2025) for potential additional flight
 
 ## Task Summary
 - **Total tasks:** 8 open, 0 completed
 - **Tasks by assignee:**
-  - **Jack Elston:** 4 open tasks (critical path items)
+  - **Jack Elston:** 4 open tasks (critical path)
     - Confirm 3rd flight dates with Bassil and Jack (Due: 2026-04-10) — **OVERDUE**
     - Flight #3 - Spring '26 (Due: 2026-04-10) — **OVERDUE**
     - Look into rate of user payload data from CO₂ payload (no due date)
@@ -31,12 +31,12 @@
     - Update overlap to 80% for FLIR and A5100 (no due date)
   - **Unassigned:** 3 tasks
     - Flight #3 milestone (Due: 2026-03-02)
-    - Bassil El Masri contact record (no due date)
-    - S2 rental order — 2 units, training/travel needed, travel not yet scheduled (Due: 2026-06-01)
+    - Bassil El Masri contact record (High priority, no due date)
+    - S2 rental order — 2 units S0 VTOL, training/travel needed, travel not yet scheduled (Due: 2026-06-01)
 - **Notable patterns:** Jack Elston concentrated on critical flight scheduling and technical troubleshooting; outstanding technical issues (FLIR triggering, camera overlap configuration, methane payload data rate) block readiness; scheduling dependency creates execution uncertainty
 
 ## Recent Activity
-- **2026-04-20 (TEAM FEEDBACK — Jack Elston):** Flight #3 dates remain unconfirmed past 2026-04-10 deadline. Murphy's Pond competes with INSTAAR x2 and Ottawa demo for scheduling priority; execution timeline is "whatever actually happens first" among competing projects.
+- **2026-04-20 (Jack Elston — TEAM FEEDBACK):** Flight #3 dates remain unconfirmed past 2026-04-10 deadline. Murphy's Pond competes with INSTAAR x2 and Ottawa demo for scheduling priority. Execution timeline is "whatever actually happens first" among competing projects.
 - **Flight #2** completed December 11, 2025
 - **Flight #1** completed November 11, 2025
 - **Active focus:** Resolving Flight #3 scheduling with Dr. Masri (unresolved); resolving FLIR triggering and camera configuration issues; preparing S2 aircraft rental order (2 units, training/travel required but not yet scheduled)

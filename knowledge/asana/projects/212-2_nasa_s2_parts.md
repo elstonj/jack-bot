@@ -21,7 +21,8 @@
   - **CRITICAL:** Two tasks (airframe/launcher case orders, S20009 refurb) are unassigned with no due dates — require immediate assignment and scheduling
   - **CRITICAL:** April 30, 2026 deadline is imminent (Josh Fromm has two critical tasks due in days)
   - **URGENT:** NASA RFI link requires immediate review and response (Alex Lomis, 2026-04-17/04-20)
-  - **BLOCKING:** NDAA compliance scope for S2 parts remains unclear per Joshua Fromm (2026-04-20) — may prevent Josh from completing parts orders on time
+  - **BLOCKING:** NDAA compliance scope for S2 parts remains unclear per Joshua Fromm (2026-04-17/04-20) — may prevent Josh from completing parts orders on time
+  - **ACTION:** Maciej (2026-04-27) instructed team to update Asana due dates to "realistic numbers" post-ByLight meeting and communicate to customer
 
 ## Key Deliverables & Milestones
 | Milestone | Due Date | Assignee | Status |
@@ -46,11 +47,12 @@
     - S20009 Refurb and component replacement
 
 ## Recent Activity
-**April 20, 2026 (Team Corrections — Authoritative):**
-- **Joshua Fromm (2026-04-20):** Reiterates NDAA compliance uncertainty — "it's still not clear to me the extent of ndaa on parts, but the s3 has no electronics that have final assembly in china." **This uncertainty directly impacts Josh's ability to place parts orders by April 30 deadline. S2 parts NDAA requirements must be clarified urgently.**
+**April 27, 2026 (Team Corrections — Authoritative):**
+- **Maciej:** Instructed team to "update the due dates in Asana to realistic numbers" and communicate with customer following ByLight meeting. **Indicates April 30 dates may require revision.** Also flagged S0-VTOL deadlines this week and requested team to begin NASA RFI analysis using AI tools.
 
-**April 17, 2026 (Team Corrections — Authoritative):**
-- **Alex Lomis (2026-04-17):** Flagged **URGENT** NASA RFI link from hurricane ET call discussion with NASA folks and Joe. **Requires immediate team review and response assessment:** https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
+**April 17–20, 2026 (Team Corrections — Authoritative):**
+- **Alex Lomis (2026-04-17, 2026-04-20):** Flagged **URGENT** NASA RFI link from hurricane ET call discussion with NASA folks and Joe. **Requires immediate team review and response assessment:** https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
+- **Joshua Fromm (2026-04-17, 2026-04-20):** Reiterates NDAA compliance uncertainty — "it's still not clear to me the extent of ndaa on parts, but the s3 has no electronics that have final assembly in china." **This uncertainty directly impacts Josh's ability to place parts orders by April 30 deadline. S2 parts NDAA requirements must be clarified urgently.**
 
 **Prior Activity:**
 - March 27, 2026: NDAA compliance determination completed
@@ -59,15 +61,14 @@
 
 ## Notes & Context
 - **Critical Transition:** S2 platform is officially end-of-life as BST transitions to S3. Some components require new designs per Estimate 1362 context.
-- **S3 NDAA Status:** Per Joshua Fromm (2026-04-20), S3 has no electronics with final assembly in China, suggesting S3 parts sourcing is NDAA-compliant. **S2 parts NDAA requirements remain unclear and require resolution before remaining parts orders.**
-- **NASA RFI Action Item (URGENT):** Alex Lomis (2026-04-17, 2026-04-20) flagged SAM.gov RFI link discussed on hurricane ET call with NASA folks and Joe. **Requires urgent team review and response assessment.** Link: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
+- **S3 NDAA Status:** Per Joshua Fromm (2026-04-17/04-20), S3 has no electronics with final assembly in China, suggesting S3 parts sourcing is NDAA-compliant. **S2 parts NDAA requirements remain unclear and require resolution before remaining parts orders.**
+- **NASA RFI Action Item (URGENT):** Alex Lomis (2026-04-17, 2026-04-20) flagged SAM.gov RFI link discussed on hurricane ET call with NASA folks and Joe. **Maciej (2026-04-27) assigned team members to begin AI-assisted analysis.** Link: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
+- **Schedule Reality Check (CRITICAL):** Maciej (2026-04-27) instructed team to update Asana due dates to "realistic numbers" post-ByLight meeting and communicate revised timeline to customer. **Suggests current April 30 dates may not be achievable and require immediate revision.**
 - **Contact Management Issue:** Custom field shows "Isaac Anderson" as General Point of Contact, but he has moved on from NASA Ames. **Recommend updating to Randy Hobbs (manager) or Will Wade (team member) as primary contact.**
 - **Billing Point of Contact:** IPP
 - **Estimate Reference:** Estimate 1362 (July 18, 2025) includes cost breakdown for S2 parts including full S2 unit cost.
 
 ## Action Items (Priority Order)
-1. **URGENT — Review NASA RFI:** Alex Lomis flagged RFI link at https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view (2026-04-17, 2026-04-20) from hurricane ET call with NASA folks and Joe — requires immediate evaluation and BST response assessment
-2. **CRITICAL — Clarify NDAA scope TODAY:** Joshua Fromm (2026-04-20) notes continued uncertainty on NDAA parts extent for S2 — **this is blocking Josh from completing parts orders due April 30.** Confirm requirements for S2 parts (S20009 refurb, launcher parts) immediately to unblock Josh's work
-3. **CRITICAL — Monitor April 30 deadline (IMMINENT):** Josh Fromm has two tasks due April 30, 2026 — design adjustments and parts order placement. Confirm on-track; NDAA clarification (item 2) may be required to proceed
-4. **CRITICAL — Assign missing tasks and set due dates:** Designate owners and schedule "Place orders for new airframe case and launcher case" and "S20009 Refurb and component replacement" immediately
-5. **Update contact field:** Change General Point of Contact from Isaac Anderson to Randy Hobbs or Will Wade
+1. **CRITICAL — Update Asana due dates to realistic timeline (2026-04-27):** Maciej directed team to update due dates post-ByLight meeting and communicate revised schedule to NASA. **Coordinate with Nate Straus/Josh Fromm immediately to reset April 30 dates if no longer achievable.**
+2. **URGENT — Begin NASA RFI analysis (2026-04-27):** Maciej assigned AI-assisted RFI review to team. Alex Lomis (2026-04-17) flagged RFI link from NASA/Joe: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view — ensure analysis is initiated and findings documented.
+3. **CRITICAL — Clarify NDAA scope TODAY:** Joshua Fromm (2026-04-17/04-20)

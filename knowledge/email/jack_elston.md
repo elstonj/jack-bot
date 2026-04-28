@@ -1,103 +1,97 @@
 # Jack Elston — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,069 (1,048 prior + 21 new)
-- **Date range:** April 1–27, 2026
-- **Approximate volume:** High-frequency correspondent; 100+ messages per day typical
-- **New activity (Apr 26–27):** 21 messages; **continued operational phase with emerging research partnership activity**
-- **Activity pattern:** Sustained weekend work (Sun Apr 26 12:07–23:12 UTC−6, Mon Apr 27 00:16–00:18 UTC−6); shift toward international & academic collaboration alongside deal/flight testing coordination
+- **Total messages scanned:** 1,169 (1,048 prior + 21 Apr 26–27 + 100 new Apr 27–28)
+- **Date range:** April 1–28, 2026
+- **Approximate volume:** High-frequency correspondent; 100+ messages/day typical
+- **New activity (Apr 27–28):** 100 messages; **sustained operational intensity with major DoD/SBIR proposal coordination surge and international defense partnership expansion**
+- **Activity pattern:** Sustained weekday morning/afternoon work (Apr 27–28 06:00–22:00 UTC−6); shift toward government proposal planning, international vendor coordination, and academic partnership acceleration
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal BST Contacts
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, logistics, acquisition coordination
-- **Maciej Stachura** (stachura@blackswifttech.com) — Technical/operational; **NEW: Genesis Phase I Technical Narrative (Apr 26, 20:42 UTC)**
-- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — Engineering/design
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — Operations coordination; **NEW: Genesis Phase I coordination, Krateo Sky partnership liaison**
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Procurement/purchasing coordination
-- **Alex Lomis** (alex.lomis@blackswifttech.com) — Operations/general coordination
-- **Alexis Lomis** (purchasing@blackswifttech.com) — Purchasing department coordination
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — **EXPANDED ROLE: Operations, Genesis Phase I coordination, DoD proposal planning, Krateo Sky liaison, Ministry of Defense vendor portal coordination**
+  - Multiple meeting invitations (DoD proposal planning Apr 28 10am–11am, Educational Inquiries forwarded)
+  - Genesis Phase I multi-turn coordination with BNL team
+  
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, logistics, R&D reporting, DCAA accounting coordination
+  - Black Swift Technologies 2025 R&D Final Report forwarding (Apr 27, 23:15 UTC with Mark Kightlinger, KPMG tax)
+  - DCAA Accounting Quote coordination with Reliascent
+  
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **KEY EXPANSION: DoD/SOCOM coordination, Flight Testing liaison, S2 MHP technical discussion acceptance**
+  - Invitation acceptance: "Discussion on S2 MHP @ Tue Apr 28 11am–11:30am (Jack Elston)" (Apr 27, 14:53 UTC)
+  - SOCOM RFI S0 coordination with Evan M. Wolff (USSOCOM)
+  - Flight Testing Updates multi-turn with NanoVeu
+  - DoD proposal planning meeting (Apr 28 10am–11am, with Jack, Maciej, Beck)
+  
+- **Maciej Stachura** (stachura@blackswifttech.com) — Technical/operational
+  - DoD proposal planning meeting invitee (Apr 28)
+  
+- **Sam Hild** (sam.hild@blackswifttech.com) — Engineering; Power Supply Board Re-spin coordination (via microfirm@earthlink.net)
+- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — M2 Aircraft Update coordination (with Nicholas Phillips, ByLight)
 
 ### Top External Contacts
 
-#### **Flight Testing & Simulation — ONGOING PRIMARY**
-- **Nikhila Ravikumar** (Nikhila@nanoveu.com) — **Active Apr 26** (20:18 UTC Jack response to Flight Testing Updates); sustained engagement continues
-- **Tom Wilp, Mohamed Sabry, Mark Goranson, Scott Smyser, Shantanu** (NanoVeu team) — Flight Testing Updates coordination
+#### **Government/Defense — MAJOR EXPANSION (Apr 27–28)**
 
-#### **Acquisition/Due Diligence — SECONDARY PHASE**
-- **Nadia Bryan** (nbryan@kofirm.com) — **Active Apr 26** (12:07 UTC Jack response re: Purchase Agreement and OA); ongoing deal coordination
+**U.S. Department of Defense / SOCOM**
+- **Evan M. Wolff** (evan.m.wolff.mil@socom.mil), **Michael C. Jagelewski** (michael.c.jagelewski.civ@socom.mil) — USSOCOM RFI S0 coordination; Daniel Prendergast acting as primary BST contact
+- **Paulino Alonso Rivera** (paulino.alonso@sspc.gob.mx) — **NEW: Mexican government (SSPC/Secretaría de Seguridad Pública Estatal)**
+  - Subject: "AFAC Requirements for RPAS Operations – Popocatépetl Volcanic Gas Monitoring Campaign" (Apr 27, 00:09 UTC; marked IMPORTANT)
+  - Multi-agency UAS regulatory/operational coordination
+  - **Recipient:** Jack Elston + Daniel Prendergast (shared responsibility)
 
-#### **NEW: Research Partnership — Genesis Phase I (EMERGING, HIGH-SIGNAL)**
-- **Fernando Jose Llorente** (fllorente@bnl.gov) — Brookhaven National Laboratory; **Genesis Phase I Technical Narrative lead** (Apr 26, 20:42 UTC; marked IMPORTANT)
-- **Gijs de Boer** (gdeboer@bnl.gov) — BNL co-investigator
-- **Nathan Urban** (nurban@bnl.gov) — BNL co-investigator
-- **Andrew McMahon** (amcmahon@bnl.gov) — BNL co-investigator
-- **Tanay Topac** (tanaytopac@stanford.edu) — **NEW: Stanford University collaborator; "Discussion on S2 MHP" — sustained multi-turn exchange (Apr 26–27, 22:16–04:34 UTC)**
-- **Fu-Kuo Chang** (fukuochang@icloud.com) — **NEW: International collaborator (likely Stanford-affiliated); "S2 MHP" technical discussion**
+**NOAA Federal**
+- **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — Ground Station coordination; **sustained 7-turn exchange Apr 27 (13:10–15:55 UTC)**
+  - Critical infrastructure/environmental monitoring application
+  - Jack primary point of contact; high-frequency responsive engagement
 
-#### **Krateo Sky Ecosystem — EXPANDED**
-- **Brian Grubel** (Brian@krateosky.com) — **NEW: Leadership/coordination contact (Apr 27, 00:18 UTC)**
-- **Scott Wine** (Scott@krateosky.com) — **NEW: Krateo Sky partner (Apr 27, 00:18 UTC)**
-- Lisa Marie Cheney (LisaMarie@krateosky.com) — Camera Data Sheet coordination (prior)
+**Brookhaven National Laboratory (BNL) — Genesis Phase I**
+- **Fernando Jose Llorente** (fllorente@bnl.gov) — Lead investigator; sustained multi-turn technical coordination (Apr 27, 09:48–17:59 UTC)
+- **Gijs de Boer** (gdeboer@bnl.gov) — Co-investigator; active technical discussions
+- **Nathan Urban** (nurban@bnl.gov) — Co-investigator; active technical discussions
 
-#### **Government/International Relations**
-- **Ministry of Defense Vendor Portal** — **NEW SIGNAL: Arabic-language Saudi/International defense vendor registration notice** (Apr 27, 00:16–06:10 UTC; forwarded by Jack to Krateo Sky leadership & Beck Cotter; marked [SENT])
-  - Suggests international defense/government partnerships under exploration
+**Federal Government Workshop/Conference**
+- **Matthew A. Burgess** (maburgess@usgs.gov) — USGS; "Call for Speakers – 7th Federal Uncrewed Systems (UxS) Workshop – March 16–18, 2027" (Apr 27, 18:53 UTC; marked IMPORTANT)
+  - Jack on speaker nomination radar for federal UxS community
 
-#### **M2 Aircraft Development, ISARRA 2026, AVAPS 2026** — (prior contacts, no new activity)
+#### **International/Defense Partnerships — GEOPOLITICAL EXPANSION**
 
----
+**Ministry of Defense Vendor Portal (Saudi Arabia/Middle East)**
+- **Bob Smith, Brian Grubel, Scott Wine** (Krateo Sky leadership) — **Multi-turn coordination Apr 27 (09:00 UTC → 14:21 UTC)**
+  - Subject: "دعوة للتسجيل في بوابة الموردين بوزارة الدفاع" (Arabic: Ministry of Defense Vendor Portal Registration Invitation)
+  - Jack initiated forwarding (Apr 27, 09:00 UTC); strategic escalation to Krateo Sky & Beck Cotter
+  - **Interpretation:** BST/Krateo Sky pursuing formal vendor registration with Middle East defense ministry
 
-## Topic Patterns
+**European Defense Industry**
+- **Brody Basset** (bb@defensecoalitions.org) — **NEW: Defense Coalitions organization (2 multi-turn exchanges Apr 27, 17:18–23:50 UTC)**
+  - Subject: "FW: Europe Market Access for UAS, C-UAS & Space Defense: Transatlantic Defense Industry Access Forum" (marked IMPORTANT)
+  - Counter-UAS (C-UAS) + Space Defense market access discussion
+  - Jack engaged in transatlantic defense industry forum coordination
 
-### **High-Signal Topics (Apr 26–27 — NEW DATA)**
+#### **Research & Academic Partnerships**
 
-1. **Genesis Phase I Technical Narrative** — **EMERGING PRIMARY FOCUS**
-   - Brookhaven National Laboratory (Fernando Llorente lead)
-   - Multi-institutional research partnership (BNL, Stanford, BST)
-   - Marked IMPORTANT; Jack, Maciej, Beck copied on Apr 26 20:42 UTC
-   - **Likely: NSF/DOE funded research initiative or Phase I SBIR/grant proposal phase**
+**Stanford University**
+- **Tanay Topac** (tanaytopac@stanford.edu) — S2 MHP technical discussion (confirmed meeting Apr 28, 11am–11:30am via Daniel Prendergast acceptance)
+- **Ellie Zhang** (exzha@stanford.edu) — "Question on Flight Control Architecture" (Apr 27, 17:14 UTC; marked IMPORTANT)
+- **Fu-Kuo Chang** (fukuochang@icloud.com) — International collaborator; S2 MHP discussion (prior)
 
-2. **Discussion on S2 MHP** — **NEW TECHNICAL COLLABORATION (ACTIVE)**
-   - **Stanford University** (Tanay Topac, Fu-Kuo Chang)
-   - Sustained 7-turn multi-party exchange Sun Apr 26 (22:16 UTC) → Mon Apr 27 (04:34 UTC)
-   - S2 = likely "Structural-Sensing" or similar domain-specific acronym
-   - MHP = unknown acronym; requires content inspection
-   - **Pattern:** Jack actively engaging in real-time international technical discussions (off-hours weekend activity)
+**University of Maryland Eastern Shore (UMES)**
+- **Christopher E. Hartman** (chartman@umes.edu) — "Black Swift Update" (Apr 27, 20:50 UTC; Jack response 09:16 UTC; marked IMPORTANT)
+  - Institutional relationship; likely research partnership or talent pipeline
 
-3. **Black Swift - Purchase Agreement and OA** — Acquisition due diligence continues (Nadia Bryan, Apr 26 12:07 UTC response)
+#### **Flight Testing & Simulation**
+- **Nikhila Ravikumar** (Nikhila@nanoveu.com), NanoVeu team — **Active multi-turn Apr 27 (13:26–18:10 UTC)**
+  - Sustained Flight Testing Updates coordination (Daniel Prendergast primary contact)
 
-4. **Flight Testing Updates** — NanoVeu coordination continues (Nikhila Ravikumar, Apr 26 20:18 UTC)
+#### **Commercial/Technical Partners**
 
-5. **Ministry of Defense Vendor Portal Registration** — **NEW GEOPOLITICAL SIGNAL**
-   - Arabic-language notice: دعوة للتسجيل في بوابة الموردين بوزارة الدفاع
-   - Forwarded by Jack (Apr 27 00:18 UTC) to:
-     - Brian Grubel & Scott Wine (Krateo Sky leadership)
-     - Beck Cotter (BST Operations)
-   - **Interpretation:** Potential Saudi Arabia or Middle East defense partnership/vendor enrollment initiative
-   - **Context:** Krateo Sky ecosystem integration may have international defense applications
+**Waveform Engineering**
+- **Matt Crabtree** (matt.crabtree@waveformengineering.com) — **"Update - Hurricane Season Builds - Part Sourcing" (Apr 27, 13:12–19:15 UTC; 3-turn exchange; marked IMPORTANT)**
+  - Active supply chain/components coordination for operational deployments
 
-### **Administrative/Routine Topics (Apr 26–27)**
-- **BannerBuzz wallet points expiration** (Apr 27 05:00 UTC; vendor marketing)
-- **UPS package notifications** (2x, Apr 26 15:00 & 14:02 EDT)
-- **Harbor Freight promotional email** (Apr 26 13:30 UTC)
-- **USPS Informed Delivery** (Apr 26 13:16 UTC)
-- **eBay alert: woodhead 4023 component** (Apr 26 06:08 UTC; parts sourcing)
-- **STATION Austin media bulletin** (Apr 26 14:02 UTC; BST event/community activity)
-- **OST Global Solutions webinar recap** (Apr 26 20:00 UTC; AI/CenTAM opportunity notice; routed via operations@bst.aero)
-- **Genesis via QuestorK blog** (Apr 26 12:56 UTC; "Board Games and Weather Forecasts: A Dicey Dance with Chaos"; likely forecasting/modeling research alert)
-
----
-
-## Communication Patterns
-
-### **Time Patterns**
-- **Weekend + early Monday activity:** Sun Apr 26 (06:08–23:12 UTC−6), Mon Apr 27 (00:16–00:18 UTC−6)
-- **Sustained off-hours engagement:** S2 MHP technical discussion spans 6+ hours (22:16 Sun → 04:34 Mon UTC)
-- **Pattern shift:** Integration of international academic collaboration alongside flight testing & deal coordination
-- **Early morning work continues:** Jack responding to Stanford/international partners on weekend late evening (their business hours likely different timezone)
-
-### **Mailing Lists & Group Participation**
-- **Genesis Phase I Technical Narrative distribution** — BNL-led (Llorente, de
+**Krateo Sky Ecosystem**
+- **Lisa Marie Cheney** (LisaMarie@krateosky.com) — Camera Data Sheet coordination (Apr 28, 00:38 UTC; marked IMPORTANT; sustained from prior period)
+- **Brian Gr

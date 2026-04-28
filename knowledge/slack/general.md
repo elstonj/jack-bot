@@ -1,7 +1,7 @@
 # #general
 
 ## Overview
-Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - April 2026). Key participants include Jack Elston (leadership), Maciej, Joshua Fromm, Dan Prendergast, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, and numerous team members.
+Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - April 2026). Key participants include Jack Elston (leadership), Dan Prendergast (business development/operations), Maciej, Joshua Fromm, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, and numerous team members.
 
 ## Key Decisions
 
@@ -12,6 +12,7 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Purchasing Policy** (July 20, 2020): All non-project purchasing goes through Melissa Phillips for budget tracking
 - **Time-Off Management Centralization** (March 2024): Requires advance notice via Rippling; one day needs one business day notice, multi-day requires one week advance approval
 - **IT Security Policy** (March 2024): No BST data on personal computers except cleared/assigned laptops; password manager required for all passwords; specific approved cloud software list
+- **DoD S0-AD Customer Engagement** (April 27, 2026): Two DoD groups (SOCOM and 53rd Weather Squadron) visiting Friday for full-day working discussion to define mission requirements and S0 modifications needed. 7 customer reps and 2 KrateoSky Business Dev reps attending. Coffee/bagels and hardware displays planned; no banners.
 
 ### Funding & Awards
 - **NASA Phase I Award** (May 26, 2021): Contract awarded for S2 all-weather capable platform development with solar integration and VTOL S2 for remote autonomous landing
@@ -27,6 +28,7 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Wiring Standards Update** (Feb 10, 2021): Discontinued PTFE wire for 1.25 pitch Clikmate connections; switched to Tefzel wire (dark-colored, tin or silver plated)
 - **S0 Primary Focus** (Dec 2024): S3 on pause except parts ordering; S0 prioritized for wing internal structure finalization and skin production
 - **Nomenclature Strategy for DoD/Federal Contracts** (April 10, 2026): Decision to align naming conventions with federal/DoD standards: "aircraft" for UAS, "ground control station (GCS)" for operator interface device, "datalink" for communication system. Previously called datalink "ground station" and GCS "SwiftTab/SwiftStation". Proposed renaming SwiftStation to "SwiftLink" to match federal terminology and reduce proposal confusion.
+- **DoD Payload Interface Standards Awareness** (April 27, 2026): Team briefed on emerging DoD standardization initiatives for payload-aircraft interfaces. Two key standards referenced: Picatinny CLIK and SOCOM Modular Payload Standard for UAS. Note that SOCOM standard is dated; potential standards competition ahead.
 
 ### Hardware/Facilities Decisions
 - **Roof/Building Repairs** (Aug 27-28, 2020 - May 27, 2021): Multiple roof leaks reported; TEBO contractor quote $2,450 for wall/stair repainting (Jack declined in-house option)
@@ -47,6 +49,7 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - RID (Remote ID) integration being tested on aircraft; CAN bus issue encountered (Feb 27, 2025)
 - Hover and battery testing planned
 - Transition simulator development underway
+- **S0-AD Variant**: DoD customer development track (SOCOM and 53rd Weather Squadron) starting April 2026; mission requirements under definition; interests include real-time tactical weather observation, weather prediction, EO/IR, and SIGINT capabilities
 
 **S1 Aircraft**
 - S1-VTOL battery testing planned (November 26, 2024)
@@ -83,20 +86,4 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - Value: $1327.76 (2021)
 - EAR99 classification
 - Allocation discussed: Kay Rufty has older model for AREN project
-- 4 units from Summit Assemblies for Area-I delivery (March 2024); testing and programming in progress
-- Fully assembled/tested units shipped to Area-I (March 2024)
-
-**Volcano System**
-- Full flight test required by end of July 2020 including heated pitot, video system, comms system with Iridium fallback, and scientific payload
-- S0 deployment scheduled August 3-7, 2020
-- Video system testing ongoing (March 2024)
-- Trace gas payload testing with span gasses (March 2024)
-- S20003 preflight for flights July 14 or 17 (March 2024)
-- Makushin packing list adjusted for Crater deployment (Apr 16, 2025)
-
-**LICOR Payload (JPL/Elevate)**
-- Design deliverable required (Sept 14, 2020)
-- Updates in progress
-
-**SMM (Soil Moisture Measurement) Project**
-- SBIR report and new
+- 4 units

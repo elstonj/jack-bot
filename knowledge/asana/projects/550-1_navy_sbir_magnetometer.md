@@ -18,7 +18,7 @@
 - **Timeline:**
   - Phase I completed: January 2026
   - **Option Period active:** April 14, 2026 – September 28, 2026
-  - **Project kicked off:** April 21, 2026 (per Maciej Stachura, Apr 22)
+  - **Project kicked off:** April 21, 2026 (per Maciej Stachura, Apr 21)
   - **Key Technical Dates:**
     - Design phase: Apr 27 – May 5
     - Build & ground testing: May 19 – May 29
@@ -77,7 +77,7 @@
 
 ## Task Summary
 - **Total tasks:** 1 open, 0 completed (in current Asana view)
-  - *Note: Raw project data shows minimal Asana task capture; full milestone list above reflects tracked work per knowledge file.*
+  - *Note: Asana task capture is minimal; full milestone list above reflects tracked work per knowledge file and team coordination.*
 - **Tasks by assignee (from open/tracked milestones):**
   - Alex Lomis: 8 tasks (design, build, ground testing, hand-launched flights, Camp Pendleton demo)
   - Jack Elston: 1 task (onboard logging design)
@@ -89,6 +89,4 @@
   - Admin tasks well-separated (Meredith, invoicing).
   - Parallel design tracks (Jack on logging, Maciej on tools).
   - Custom fields used for contract tracking (Organization, Contact, Budget, Customer Type).
-
-## Recent Activity
-- **Apr 22, 2026 (Mac
+  - Per Meredith Needham (Apr 17): Report templates

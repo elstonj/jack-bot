@@ -14,8 +14,10 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - Beck Cotter (program management, SOW coordination)
 - Dan H., Terry Tate, Spencer (contractors/specialists)
 - Alex Lomis (components/inventory, battery design)
+- Joshua Fromm (design input/materials)
+- Mel (ByLight decision-maker)
 
-**Activity Level:** High, covering October 2025 through April 2026, with regular flight tests, design iterations, and scope management updates. Most recent activity (April 24, 2026) indicates ongoing supply chain challenges and resource allocation for multiple airframe builds.
+**Activity Level:** High, covering October 2025 through April 2026, with regular flight tests, design iterations, and scope management updates. Most recent activity (April 27, 2026) indicates shift to CAD design optimization for ByLight's carbon fiber 3D-printed fuselage manufacturing.
 
 ## Key Decisions
 
@@ -63,6 +65,13 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - Available inventory: 2 wingsets on hand
 - **Constraint:** One wingset dedicated to prototype yellow M2, limiting availability for other builds (Chilli #2 or additional frames)
 
+**April 27, 2026 – Fuselage Design Strategy Pivot**
+- **Decision:** Halt physical flight testing of yellow 3D-printed prototype fuselage; pivot to CAD design optimization only
+- **Rationale:** ByLight is flexible and supportive of all design edits needed for well-engineered ISR platform
+- **Manufacturing Plan:** ByLight will 3D-print validated CAD fuselage design in carbon fiber as single 4.5-foot piece
+- **Next Step:** BST to send finalized CAD design meeting all mission requirements; ByLight manufactures CF version and BST implements avionics and control surfaces
+- **Pending Detail:** Material specification for ByLight's 3D-printed carbon fiber fuselage (Joshua Fromm flagged need for clarification on filament type)
+
 ## Projects & Initiatives
 
 ### Mustang 1.0 (Original Aircraft) – COMPLETED
@@ -73,37 +82,24 @@ This channel tracks the development and flight testing of the **By Light Mustang
   - Demonstrated need for new airframe design
   - Shipped to ByLight at 4038 Gillespie St, Fayetteville, NC for SOF week display
 
-### Chilli/MS2-4 Prototype (Primary Aircraft) – IN FLIGHT TESTING
-- **Status:** Red fiberglass fuselage airframe active, multiple flight tests completed through December 2025
-- **Configuration:**
+### Chilli/MS2-4 Prototype (Primary Aircraft) – DESIGN PHASE
+- **Status:** Transitioning from physical prototype testing to CAD optimization (as of April 27, 2026)
+- **Configuration (Last Flight-Tested):**
   - Wings: Commercial Chilli A37 from Soaring USA
-  - Fuselage: 4.5" fiberglass rocketry tube (red, Wildman Rockets)
+  - Fuselage: 4.5" fiberglass rocketry tube (red, Wildman Rockets)—being replaced with ByLight's CF 3D-printed version
   - Motors: 2x KDE 4215-465Kv
   - Props: Currently testing 17x13 RFM folding props (best performer)
   - ESC: TBS Lucid with KISS telemetry
   - Avionics: 2030 autopilot, S2 power board, 3-to-1 CAN boards
-  - Weight: Testing at 25, 30, 35 lbs (3-5 ballast plates)
-- **Recent Flight Data (Dec 2025):**
+  - Weight: Tested at 25, 30, 35 lbs (3-5 ballast plates)
+- **Flight Test Results (Dec 2025):**
   - Old fuselage: 590W at 30m/s
   - New fuselage (Ethan design): 480W at 30m/s (18% improvement)
   - At 27m/s: 335W, projecting 13 hours flight time / 1200km range as S0
   - 19 m/s stall speed (clean config)
   - Elevator incidence: 1.8° relative to wing (acceptable)
   - Aero efficiency: 30% better than previous at 27m/s, 20% better at 30m/s
-- **Next Milestones:** 400km flight test at Sod Farm, Trillium mass model integration, battery scaling for 3.7+ hour flights
-
-### Battery Design & Pack Integration – IN PROGRESS
-- **Status:** Design finalized as of April 17, 2026; parts ordered from SCS and Jawstec
-- **Specs:**
-  - **Pack Configuration:** 2-pack primary design (950Wh capacity each, ~2.8-3kg per pack)
-  - **Secondary Option:** 3-pack config with 3rd pack in gimbal space, or alternative placement in forward payload bay
-  - **Performance:** 2-pack sufficient for 4-hour endurance target; 3rd pack provides additional capacity
-  - **Energy Density:** ~315 Wh/kg (80-85% cells, 15-20% non-cell pack weight—inefficiency due to ByLight fuselage form factor constraints)
-- **Constraints:** 
-  - Tail spar must be removed to access batteries (charge-in-place option planned as alternative)
-  - Tight fit in fuselage; may require selective material grinding
-  - Non-permanent tail attachment design required
-- **GTOW Target:** All configs must remain below 40lbs (wing load constraint)
-- **Contact:** george.kusaba@amprius.com (Amprius SA03 Pouch cells supplier)
-
-### Chilli #2 (New Frame Build) –
+- **Manufacturing Path Forward (April 27):**
+  - **Current Status:** Yellow 3D-printed fiberglass fuselage will NOT be flown
+  - **Next Milestone:** Submit finalized CAD design to ByLight for validation
+  - **ByLight's Role:** Manufacture single-piece 4.5-foot carbon fiber 3D-printed fuselage from validated CAD

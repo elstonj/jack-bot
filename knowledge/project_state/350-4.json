@@ -33,7 +33,7 @@
         "amount": 12987.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-04-27"
+        "last_updated": "2026-04-28"
       },
       "purchases": {
         "amount": 0.0,
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": 104822.15,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-04-27T08:56:31Z"
+    "last_reconciled": "2026-04-28T09:13:13Z"
   },
   "milestones": [
     {
@@ -240,6 +240,6 @@
       "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
     }
   ],
-  "last_full_rebuild": "2026-04-27T08:56:31Z",
+  "last_full_rebuild": "2026-04-28T09:13:13Z",
   "last_incremental_update": null
 }

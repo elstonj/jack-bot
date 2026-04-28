@@ -11,21 +11,22 @@
 - **Project Type:** Open task order for design and prototype work; work may be converted to formal subcontracts if scope expands
 
 ## Key Context
-This is a **standing task order agreement**, not a fixed-scope project. ByLight will submit individual task orders on an as-needed basis; BST budgets, approves, completes, and invoices each task. The short DoD deadline drives rapid design and prototyping cycles.
+This is a **standing task order agreement**, not a fixed-scope project. ByLight submits individual task orders on an as-needed basis; BST budgets, approves, completes, and invoices each task. The short DoD deadline drives rapid design and prototyping cycles.
 
-**Important:** Verify labor rates with ByLight before invoicing. Larger or longer-duration work will be formalized as separate subcontracts.
+**Important:** Verify labor rates with ByLight before invoicing (see project folder). Larger or longer-duration work will be formalized as separate subcontracts.
 
 ## Task Summary
-- **Total tasks:** 2 completed, 0 open
-- **Completed by:** Beck Cotter (2 tasks)
-- **Completion rate:** 100% (all tasks marked done)
+- **Total tasks:** 0 open, 0 completed (all tasks cleared; awaiting new task orders from ByLight)
+- **Completion rate:** N/A
 
 ## Recent Activity
-1. **Waiting on initial Task Order** (completed 2025-06-26) — Initial PO received 6/26
-2. **Need useable design files** (completed 2025-08-15) — Scope flagged: files initially submitted were unusable SolidWorks format; Beck requested non-SolidWorks design files; resolved 2025-08-15
+- **Project archived** — no active tasks in system as of 2026
+- Previous tasks (2025) completed by Beck Cotter:
+  - Initial Task Order received (2025-06-26)
+  - Design file format issue resolved (2025-08-15) — SolidWorks files initially rejected; non-SolidWorks editable formats requested and delivered
+- **Pending:** ByLight task order submissions; realistic due dates in Asana need updating per Maciej's feedback (2026-04-27)
 
 ## Risk Signals & Notes
-- **Project is archived** — no active tasks
-- Design file format issue encountered early (SolidWorks files rejected; BST needed editable formats)
-- No active task orders in the system; awaiting ByLight submissions
-- $48,000 budget remains; tracking mechanism depends on ByLight task order submissions
+- Project archived with no active work; awaiting ByLight task order submissions
+- Design file format issue encountered early (now resolved)
+- **Action item (from 2026-04-27 correction):** Update Asana due dates to realistic numbers and communicate with ByLight

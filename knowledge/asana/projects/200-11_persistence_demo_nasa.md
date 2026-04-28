@@ -109,15 +109,16 @@
 
 ## Follow-On Opportunities (April 2026)
 
-**NASA Hurricane Earth Observation RFI:**
+### NASA Hurricane Earth Observation RFI
+- **Flagged by:** Alex Lomis (04/17/26)
 - **Source:** NASA contacts + external stakeholder "Joe" recommendation during hurricane ET call
-- **Alert Date:** Alex Lomis flagged on 04/17/26
-- **Status:** RFI available on SAM.gov for review
-- **Link:** https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
+- **RFI Link:** https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
 - **Competing Internal Opportunities:** INSTAAR (2 demonstrations) and Ottawa/Murphy's demonstration (per Jack Elston, 04/20/26)
-- **Next Steps:** Coordinate with Jack Elston and leadership on proposal strategy and scheduling
+- **Next Steps:** 
+  - Coordinate with Jack Elston and leadership on proposal strategy and scheduling
+  - **Action pending (04/27/26, Maciej Stachura):** Team to use AI tools to begin work on NASA RFI responses; awaiting assignment to lead coordinator
 
 ---
 
 **Project Status: Successfully Completed & Archived**  
-All contractual obligations fulfilled, deliverables accepted, payments received, and project closed as of November 24, 2025. Company is exploring follow-on opportunities with NASA in Earth observation domain.
+All contractual obligations fulfilled, deliverables accepted, payments received, and project closed as of November 24, 2025. Company is actively exploring follow-on opportunities with NASA in Earth observation domain (hurricane monitoring focus).
