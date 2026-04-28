@@ -27,7 +27,7 @@
   - **Hardware/validation tasks now critical path:** 14+ open firmware, QC, assembly, rebuild, and validation tasks with May–July deadlines
   - **Compressed timeline:** Project start and due date both listed as 2026-07-31 (final delivery/completion required by end of July)
   - **Magnetometer calibration in final month:** Maciej Stachura's mag cal task due 2026-07-01 (tight window before final delivery)
-  - **Parallel build & rebuild tracks:** Nate managing 2 rebuild tasks (BST s0 partial disassembly by 5/15; old 2024 s0 by 5/29), 2025-parts SHOW build (May 27 deadline), and 2026-parts SHOW build (July 17 deadline) simultaneously — **5 major hardware tasks**
+  - **Parallel build & rebuild tracks:** Nate managing 5 major hardware tasks (BST s0 rebuild by 5/15; 2025-parts SHOW build + tripods by 5/27; old 2024 s0 rebuild by 5/29; 2026-parts SHOW build by 7/17) simultaneously
 
 ## Key Deliverables & Milestones
 **Deliverable:** 20 UAS units for NOAA with critical atmospheric measurement capabilities
@@ -47,14 +47,14 @@
 **Hardware/Firmware/Validation Development Milestones:**
 | Task | Owner | Due Date | Status |
 |------|-------|----------|--------|
-| **Rebuild BST s0 (currently partially disassembled)** | Nate Straus | 2026-05-15 | ⏳ Open — **NEW** |
+| **Rebuild BST s0 (currently partially disassembled)** | Nate Straus | 2026-05-15 | ⏳ Open — **BLOCKING for 5/27 deadline** |
 | Add RH / Vaisala fix to PSNS code | Jack Elston | 2026-05-01 | ⏳ Open |
 | QC at least one of each board as they arrive | Sam Hild | 2026-05-01 | ⏳ Open |
-| **Investigate S0-70 rollover during CAT** | Maciej Stachura | 2026-05-08 | ⏳ Open — **BLOCKING** |
-| **Build 2 SHOW s0's using 2025 parts + ship** | Nate Straus | 2026-05-27 | ⏳ Open — **IMMINENT** |
-| **Build 2 SHOW tripods** | Nate Straus | 2026-05-27 | ⏳ Open — **IMMINENT** |
+| **Figure out why S0-70 rolled over during CAT on 04-09** | Maciej Stachura | 2026-05-08 | ⏳ Open — **BLOCKING platform stability** |
+| **Build 2 SHOW s0's using 2025 parts + ship** | Nate Straus | 2026-05-27 | ⏳ Open — **IMMINENT CRITICAL** |
+| **Build 2 SHOW tripods** | Nate Straus | 2026-05-27 | ⏳ Open — **IMMINENT CRITICAL** |
 | Finalize deployment tube firmware | Jack Elston | 2026-05-29 | ⏳ Open |
-| **Rebuild old BST s0 (2024 version) to make fully functional** | Nate Straus | 2026-05-29 | ⏳ Open — **NEW** |
+| **Rebuild old BST s0 (2024 version) to make fully functional** | Nate Straus | 2026-05-29 | ⏳ Open |
 | Finish deployment tube board QCs | Sam Hild | 2026-06-05 | ⏳ Open |
 | Begin kit assembly | Sam Hild | 2026-06-19 | ⏳ Open |
 | Finalize AP & PSNS firmware | Jack Elston | 2026-06-26 | ⏳ Open |
@@ -65,10 +65,10 @@
 - **Total Tasks:** 17 open, 0 completed
 - **Tasks by Assignee:**
   - **Nate Straus (Platform Build/Rebuild/Demonstration):** 5 tasks — 0% completion
-    - **Rebuild BST s0 (currently partially disassembled)** (due 2026-05-15) — **NEW, BLOCKING for 5/27 deadline**
-    - **Build 2 SHOW s0's using 2025 parts** (due 2026-05-27) — **CRITICAL, IMMINENT**
-    - **Build 2 SHOW tripods** (due 2026-05-27) — **CRITICAL, IMMINENT**
-    - **Rebuild old BST s0 (2024 version) to make fully functional** (due 2026-05-29) — **NEW**
+    - Rebuild BST s0 (currently partially disassembled) (due 2026-05-15) — **BLOCKING for 5/27 deadline**
+    - Build 2 SHOW s0's using 2025 parts (due 2026-05-27) — **CRITICAL, IMMINENT**
+    - Build 2 SHOW tripods (due 2026-05-27) — **CRITICAL, IMMINENT**
+    - Rebuild old BST s0 (2024 version) to make fully functional (due 2026-05-29)
     - Build 2 SHOW s0's using 2026 parts (due 2026-07-17)
   - **Jack Elston (Firmware/Software):** 3 tasks — 0% completion
     - Add RH / Vaisala fix to PSNS code (due 2026-05-01)
@@ -76,4 +76,5 @@
     - Finalize AP & PSNS firmware (due 2026-06-26)
   - **Sam Hild (QC/Assembly):** 3 tasks — 0% completion
     - QC at least one of each board as they arrive (due 2026-05-01)
-    - Finish deployment tube board QCs (due 2026-06
+    - Finish deployment tube board QCs (due 2026-06-05)
+    - Begin kit

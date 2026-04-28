@@ -6,7 +6,7 @@
 - **Address:** 8484 Westpark Dr. Ste. 600, McLean, VA 22102
 - **Dollar Value:** $450,000 total budget; $450,000 funding to Black Swift
 - **Timeline:** Started 2025-10-06; **Completed 2025-12-31** (original due date 2025-12-05)
-- **Status:** **ARCHIVED/COMPLETE** — Project marked complete Dec 31, 2025
+- **Status:** **ARCHIVED/COMPLETE** — Project marked complete Dec 31, 2025. However, **outstanding work remains**: Per Maciej (2026-04-24), "we still owe 2 more flight opportunities." Customer has SWIL setup ready to test their controller; flight data provided 2026-04-24. **By-Lite ranks 4th among highest priority projects as of late April 2026** (per Maciej 2026-04-24 priority ranking). Test flights delayed pending new fuselage arrival; no imminent deployment.
 - **Team Members:** Maciej Stachura (owner), Ethan Domagala, Nate Straus, Meredith O'hara Needham
 - **Priority:** High
 - **Product/Service:** Design/prototyping; Consulting
@@ -20,12 +20,13 @@
 | Weeks 3–4 (MS1): G2 design finalization & COTS procurement | 10/20–11/1 | $100k | ✓ Completed 11/9 |
 | Weeks 5–7 (MS2): Prototype assembly & ground integration | 11/3–11/22 | $100k | ✓ Completed 11/17 |
 | Weeks 8–9 (MS3 & 4): Flight testing & final deliverables | 11/24–12/5 | $150k ($100k + $50k) | ✓ Completed 12/31 |
+| **Post-Completion:** 2 additional flight opportunities (awaiting new fuselage) | TBD | (incl. in original contract) | ⧗ Pending equipment; scheduled after new fuselage arrival |
 
 All invoicing milestones completed; final phase extended 26 days past original due date.
 
 ## Task Summary
 - **Total Tasks:** 36 (33 completed, 3 open/archived reference only)
-- **Completion Rate:** 92% (project complete)
+- **Completion Rate:** 92% (project deliverables complete; follow-up work outstanding)
 - **Tasks by Assignee:**
   - **Maciej Stachura:** 11 completed (flight testing, analysis, validation)
   - **Ethan Domagala:** 8 completed (fabrication, fuselage design, reporting)
@@ -45,15 +46,25 @@ All invoicing milestones completed; final phase extended 26 days past original d
 
 - **Invoicing:** All milestone invoices processed on time (10/14, 11/3, 11/24, 12/17)
 
-- **Post-Completion (April 2026):** Maciej noted (2026-04-24) that By-Lite Mustang still requires follow-up work: "2 more flight opportunities" owed to the customer. They have the SWIL setup needed to test their controller; flight data provided 2026-04-24. **By-Lite remains a priority project** (ranked 4th among highest priorities as of late April 2026, per Maciej's 2026-04-24 statement). Test flights may be delayed pending new fuselage arrival.
+- **Post-Completion Follow-Up (April 2026):**
+  - **2026-04-24 (Maciej & Jack):** Confirmed "2 more flight opportunities" still owed to By-Lite. Customer has SWIL setup ready to test their own controller; flight data delivered same day. Test flights delayed pending arrival of new fuselage.
+  - **2026-04-24 (Maciej):** By-Lite ranked **4th among highest priority projects** in April 2026 (after S3 IRAD, S0-VTOL, and EMASS closeout; ahead of SBIR Magnetometer).
+  - **2026-04-27 (Maciej):** Directed team to "update the due dates in Asana to realistic numbers and let them know" (referring to By-Lite timeline discussions).
 
 ## Notes & Context
 - **Project Type:** Long-Range Fixed-Wing Evaluation & DoD Autopilot Enablement (BYL-LRFE)
-- **Subcontractors/Partners:** DSKinetic LLC (Spencer Lisenby) and Rocky Mountain High Aviation (D. Hesselius) for pilot services
+- **Subcontractors/Partners:** 
+  - DSKinetic LLC (Spencer Lisenby, spencer@dskinetic.com, 310-697-9624) — pilot services
+  - Rocky Mountain High Aviation (D. Hesselius, dhesselius@hotmail.com) — drone pilot services
 - **Key Outputs:** Flight data analysis, prototype aircraft (Mustang 2, Stock Chilli variants), propeller optimization testing, power/range/endurance performance reports
 - **Timeline Variance:** Project marked complete 26 days late (due 12/5, complete 12/31) but all major milestones tracked on schedule through December; final validation and demo flights extended into late December
 - **Billing Structure:** Four milestone invoices, each tied to specific effort phases ($100k each for Weeks 1, 2-4, 5-7; $50k for Weeks 8-9)
 - **Custom Field Usage:** Strong tracking via Product/Service classification, Organization/Customer, and milestone-based invoicing for budget control
-- **Outstanding Work (April 2026):** Maciej (2026-04-24) confirmed "2 more flight opportunities" are still owed to By-Lite; awaiting new fuselage to resume testing. No imminent deployment/shipping; focus is test flight scheduling.
+- **Outstanding Work (April 2026 Status):** 
+  - **2 additional flight opportunities** still contractually owed to By-Lite
+  - Customer ready to test their own DoD autopilot controller using SWIL setup
+  - **Blocker:** New fuselage arrival required before next test flight window can be scheduled
+  - No imminent deployment or shipping; focus is flight test scheduling once equipment arrives
+  - Due date updates pending; team to communicate realistic timeline to customer
 
-**Project successfully delivered core design, prototype, and flight testing objectives. Post-completion follow-up flights are in queue pending equipment availability.**
+**Project successfully delivered core design, prototype, and flight testing objectives. Post-completion follow-up flights are in queue pending equipment availability. By-Lite remains active priority project (Rank 4, April 2026).**

@@ -1,51 +1,65 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-04-27 02:14
+Last scanned: 2026-04-28 02:30
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 2 files — [federal_projects.md](federal_projects.md)
+- **Federal Projects** — 13 files — [federal_projects.md](federal_projects.md)
 - **Sales** — 1 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Google Drive Strategic Overview – Black Swift Technologies
+# Black Swift Technologies — Strategic Google Drive Overview
 
-## Summary Statistics
-- **Total Drives Reviewed:** 3
-- **Total Documents:** 3
-- **Overall Volume:** Minimal
+## Executive Summary
 
-## Drive-by-Drive Breakdown
+BST maintains **two active shared drives** with distinct operational purposes: Federal Projects (13 files, 5 folders) focused on government funding and procurement, and Sales (1 file) for investor/business development materials.
 
-| Drive | File Count | Status | Key Observations |
-|-------|-----------|--------|-------------------|
-| Federal Projects | 2 | Active | Video files only; recent activity (2099) |
-| Sales | 1 | Active | Single investor briefing document (2026) |
+---
 
-## Key Findings
+## Drive-by-Drive Analysis
 
-**Document Organization & Volume**
-- Extremely limited documentation across all drives (3 files total)
-- No apparent folder structure or categorization
-- Minimal cross-drive patterns due to small volume
+### Federal Projects Drive
+**Volume & Organization:** 13 files across 5 folders with clear NASA/DOE focus
+- **Primary content:** NASA SBIR/STTR proposals, Phase I BAA submissions, and subcontractor documentation
+- **Key clients:** NASA (primary), Department of Energy, Brookhaven National Lab (BNL)
+- **Date range:** 2022–2099 (recent activity 2026 forward, suggesting active proposal pipeline)
+- **Notable initiative:** NASA SaaS and commercial partners program
 
-**Content Type Distribution**
-- Federal Projects: Video assets (2 MOV files) – appears to be video library/archive
-- Sales: Business development materials (1 investor briefing)
-- No templates, shared resources, or process documentation identified
+**Observations:**
+- Well-structured folder naming by fiscal year and program type (SBIR/STTR distinction clear)
+- Strong federal contracting focus with dedicated subcontractor management (BNL_sub folder)
+- Active 2026 proposal cycle suggests ongoing federal business development
 
-**Notable Observations**
-- Federal Projects drive contains only video files with no supporting documentation (proposals, contracts, reports, etc.)
-- Sales drive lacks typical sales collateral (proposals, case studies, contracts)
-- Date discrepancies: Federal files show 2099 modification dates (likely data error)
+### Sales Drive
+**Volume & Organization:** Minimal (1 file)
+- **Content:** BST_ECS-DoT_Investor_Briefing (modified 2026-04-27)
+- **Purpose:** Investor communication/business development
+
+---
+
+## Cross-Drive Patterns & Insights
+
+| Pattern | Observation |
+|---------|-------------|
+| **Specialization** | Federal Projects handles government R&D funding; Sales handles commercial/investor outreach |
+| **Primary revenue stream** | Government contracts (SBIR/STTR) appear dominant by document volume |
+| **Collaboration** | Federal drive shows subcontractor partnerships (BNL); Sales drive shows investor engagement |
+
+---
+
+## Areas Requiring Attention
+
+1. **Sales drive underutilization** — Only 1 file suggests either centralized sales documentation elsewhere or minimal commercial pipeline documentation
+2. **Incomplete summary data** — Federal Projects summary was truncated; full proposal inventory should be reviewed
+3. **Future-dated documents** — 2099 modification date likely reflects template dates; verify actual document currency for 2026+ proposals
+
+---
 
 ## Recommendations
 
-1. **Data Audit:** Verify 2099 dates in Federal Projects drive – potential data integrity issue
-2. **Documentation Expansion:** Add supporting materials to Federal Projects (contracts, SOWs, progress reports)
-3. **Sales Enablement:** Populate Sales drive with proposal templates, case studies, and standard contracts
-4. **Folder Structure:** Implement consistent naming conventions and hierarchical organization
-5. **Inventory:** Conduct complete audit to identify if critical documents exist elsewhere or are missing entirely
+- **Audit Sales documentation** — Determine if customer proposals, contracts, and pipeline data are stored elsewhere
+- **Standardize naming conventions** — Ensure consistent date/program format across Federal Projects folders
+- **Archive/housekeeping** — Review 2022–2025 proposals for archival if cycle is complete

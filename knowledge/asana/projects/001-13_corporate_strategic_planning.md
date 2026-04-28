@@ -8,7 +8,7 @@
 - **Team Members**: BST Whole Team, with primary contributors Jack Elston, Maciej Stachura, Meredith O'Hara Needham
 - **Risk Signals**: 
   - 1 remaining open task (lease termination planning) — unassigned, no due date
-  - Multiple major funding proposals (2024-2025) were not funded despite significant effort and dollar values ($300K–$896.5K range)
+  - Multiple major funding proposals (2024-2025) were not funded despite significant effort ($300K–$896.5K range)
   - Mexico USGS deployment **DELAYED to Fall 2026** (per Jack, Apr 20, 2026) — **disregard any Asana tasks referencing April 2026 departure dates**
   - Navy project tasks completed (per Maciej, Apr 17, 2026)
 
@@ -68,17 +68,27 @@
 - **Lease Termination Planning** (Open, unassigned, no due date)
   - Property: 6.23 CAM real estate with property taxes and building insurance
   - 5-year NNN (triple net) cost projection:
-    - Year 1 (Months 1–12): $13.00/month
-    - Year 2 (Months 13–24): $13.39/month
-    - Year 3 (Months 25–36): $13.79/month
-    - Year 4 (Months 37–48): $14.21/month
-    - Year 5 (Months 49–60): $14.63/month
+    - **Months 1–12 (Year 1)**: $13.00/month NNN
+    - **Months 13–24 (Year 2)**: $13.39/month NNN
+    - **Months 25–36 (Year 3)**: $13.79/month NNN
+    - **Months 37–48 (Year 4)**: $14.21/month NNN
+    - **Months 49–60 (Year 5)**: $14.63/month NNN
 
 ## Notes & Context
 
 ### Marketing Strategy
-- **Goals (SMART)**: Increase brand awareness, drive website traffic, lead generation, grow audience, increase engagement, drive revenue
+- **SMART Goals**: 
+  - Increase brand awareness
+  - Drive website traffic
+  - Lead generation
+  - Grow audience
+  - Increase engagement
+  - Drive revenue
 - **Ideal Customer Profile**: Government/institutional customers via LinkedIn and email
+  - NOAA
+  - NASA (Aren 2023: $90K)
+  - DoD
+  - CO OEDIT ($152K)
 
 ### Key Customers & Partners
 - **Government/Institutional**: NOAA, NASA, DoD, Colorado OEDIT
@@ -110,6 +120,6 @@
 - **Strategic Maturity**: Well-defined core values, structured marketing goals, and clear customer segmentation indicate developed business strategy
 - **Operational Transition**: Ongoing shift from spreadsheet-based financial management to integrated QuickBooks reporting (Aug 2024 update indicates progress)
 - **Deployment Status (April 2026)**: 
-  - Mexico USGS volcano project **delayed to Fall 2026** — disregard April 2026 task dates
-  - Navy project concluded — no further action needed
-  - **Do not plan for April 2026 mission activity; stale Asana dates should be ignored**
+  - Mexico USGS volcano project **delayed to Fall 2026** (per Jack, Apr 20, 2026) — **disregard April 2026 task dates as stale**
+  - Navy project concluded (per Maciej, Apr 17, 2026) — no further action needed
+  - **Do not

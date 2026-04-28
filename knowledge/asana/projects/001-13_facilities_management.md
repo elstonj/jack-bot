@@ -59,4 +59,4 @@
 | Months 37–48 | $14.21 | $6.23 |
 | Months 49–60 | $14.63 | $6.23 |
 
-**Operational Focus**: Project serves as central hub for all physical office maintenance, from routine cleaning and purchasing to strategic facilities improvements and equipment management. Batch completion workflow efficient and predictable (tasks grouped and completed in 2–3 day cycles after due dates pass). Consumables stock tracker maintained at https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus).
+**Operational Focus**: Project serves as central hub for all physical office and shop space maintenance, from routine cleaning and purchasing to strategic facilities improvements and equipment management. Batch completion workflow efficient and predictable (tasks grouped and completed in 2–3 day cycles after due dates pass). Consumables stock tracker maintained at https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus).

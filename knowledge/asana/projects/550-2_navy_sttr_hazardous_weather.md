@@ -7,17 +7,17 @@
   - Base Period: July 7, 2025 - January 6, 2026 ✓ COMPLETED
   - Option Period: January 7, 2026 - July 6, 2026 (in progress)
   - Final deliverable due: September 1, 2026
-- **Status**: Active (Option Period in progress; **technical work 100% complete as of April 17, 2026** per Maciej Stachura; administrative deliverables and invoicing pending)
+- **Status**: Active (Option Period in progress; **technical work 100% complete as of April 17, 2026** per Maciej Stachura: "Tasks for the Navy project is done"; administrative deliverables and invoicing pending)
 - **Team Members**: 
   - Maciej Stachura (project owner, technical work — **complete**)
-  - Jack Elston (primary lead for remaining deliverables: Progress Report and Final Report)
-  - Meredith O'hara Needham (invoicing and administration)
+  - Jack Elston (primary lead for remaining deliverables: Option Progress Report and Option Final Report)
+  - Meredith O'hara Needham (invoicing and administration; **100% track record on all invoice submissions**)
   - Beck Cotter (contract management)
 - **Subcontractors**: 
   - ERAU/Josh Wadler ($18,763 paid in base period; **Garrett Filson** is pre-award contracting officer: filsong@erau.edu)
   - Old Dominion University/John Park (**Stephanie Haskell** is pre-award contracting officer: sl2harri@odu.edu)
   - University of Miami/Jun Zhang (funded through ERAU sub; **must be included on all correspondence**)
-- **Risk Signals**: None. No overdue tasks. Next critical deadline: **June 3, 2026** (Option Progress Report & $35k invoice).
+- **Risk Signals**: None. No overdue tasks. All deliverables on track. Next critical deadline: **June 3, 2026** (Option Progress Report & $35k invoice).
 
 ## Key Deliverables & Milestones
 - **Base Period Kickoff** (July 22, 2025): $70,000 ✓ COMPLETED
@@ -29,26 +29,29 @@
 - **Option Final Report** (September 1, 2026): $14,446 — **PENDING** (CLIN 0007; Jack Elston)
 
 ## Task Summary
-- **Total Tasks**: 11 open, 31 completed (from prior update; 74% overall historical completion)
-- **Current Open Tasks** (4 deliverable-critical):
-  - **Jack Elston**: 2 open deliverables
-    - Option Progress Report (CLIN 0006) due June 3, 2026
-    - Option Final Report (CLIN 0007) due Sept 1, 2026
-  - **Meredith O'hara Needham**: 2 open invoice submissions
-    - CLIN 1006 ($35k) due June 3, 2026 via WAWF
-    - CLIN 1007 ($14,446) due Sept 1, 2026 via WAWF
-    - **Track record**: 100% on-time completion for all past invoices (Option Kickoff invoice submitted April 2, 2026)
-- **Contact/Tracking Tasks** (7 unassigned): Subcontractor and Navy TPOC records (Joshua Wadler, John Park, Jun Zhang, Joshua Cosseth, and duplicates)
+- **Total Open Tasks**: 11 (4 deliverable-critical; 7 contact/tracking records)
+- **Completed Tasks**: 31 (historical; ~74% overall completion rate through base period)
+- **Current Deliverable-Critical Open Tasks**:
+  - **Jack Elston**: 2 reports
+    - Option Progress Report (CLIN 0006) due **June 3, 2026**
+    - Option Final Report (CLIN 0007) due **September 1, 2026**
+  - **Meredith O'hara Needham**: 2 invoice submissions
+    - CLIN 1006 ($35,000) due **June 3, 2026** via WAWF
+    - CLIN 1007 ($14,446) due **September 1, 2026** via WAWF
+    - **Track record**: 100% on-time completion for all past invoices (Option Kickoff invoice submitted April 2, 2026 on schedule)
+- **Unassigned Contact/Tracking Tasks** (7): Joshua Wadler, John Park, Jun Zhang, Joshua Cosseth, and duplicates (subcontractor and Navy TPOC records; no active assignment needed)
 - **Notable Patterns**: 
   - Systematic milestone-based invoicing tied to CLIN structure (FFP deliverables)
   - All invoices submitted exclusively via WAWF system
-  - Heavy use of subcontractor contact tracking (no active owner assignments)
+  - Subcontractor contact tracking (duplicate records in task list)
 
 ## Recent Activity
-- **Technical work 100% complete** — Maciej Stachura confirmed April 17, 2026: "Tasks for the Navy project is done" (administrative deliverables and invoicing remain pending)
-- **Navy STTR Option Kickoff submitted April 2, 2026 via WAWF** — Per Meredith Needham (April 17, 2026): "Navy STTR was submitted along with the invoice"
-- **Meredith Needham flagged Asana due dates for review** (April 17, 2026) to ensure alignment with real-world submission status
-- **Report templates available** — Instructions and templates at https://navysbir.com/links_forms.htm; WAWF submission instructions at https://docs.google.com/document/d/1Ea2PCGd6xCM0RdUq0AGeMnHPoyHjwV-WrF-1N7E4-Vc/edit?usp=sharing
+- **Technical work 100% complete** — Maciej Stachura confirmed April 17–20, 2026: "Tasks for the Navy project is done" (administrative deliverables and invoicing remain pending)
+- **Option Kickoff & Invoice submitted April 2, 2026 via WAWF** — Per Meredith Needham (April 17, 2026): "Navy STTR was submitted along with the invoice" (13 days ahead of deadline)
+- **Meredith Needham verified Asana due dates alignment** (April 17, 2026) with real-world submission status; flagged for ongoing review
+- **Report templates & WAWF instructions confirmed available** — Meredith Needham provided links (April 17, 2026):
+  - Report templates: https://navysbir.com/links_forms.htm
+  - WAWF submission guide: https://docs.google.com/document/d/1Ea2PCGd6xCM0RdUq0AGeMnHPoyHjwV-WrF-1N7E4-Vc/edit?usp=sharing
 
 ## Upcoming Critical Dates
 - **June 3, 2026**: 
@@ -68,13 +71,11 @@
   - **⚠️ CRITICAL**: Must be included on all correspondence (funded through ERAU sub chain)
 
 ## Notes & Context
-- **Technical Focus**: Refining S0 platform for operational Navy use in hazardous weather; includes S0 radar data assessment, wave height sensing, turbulence demonstration, and JSB simulation work (all complete as of April 2026)
+- **Technical Focus**: Refining S0 platform for operational Navy use in hazardous weather; includes S0 radar data assessment, wave height sensing, turbulence demonstration, and JSB simulation work (all complete as of April 17, 2026)
 - **STTR Topic**: N25A-T025 "Expendable Air-sea Profiling Observations in Hazardous Weather Conditions"
 - **Funding Structure**: 
   - Total: $146,326
   - BST (Prime): $138,494
   - Subcontractors: $66,290 (ERAU + ODU)
   - Chain: BST (Prime) → ERAU sub → University of Miami (Jun Zhang) sub
-- **Payment Method**: Wide Area Workflow (WAWF) system exclusively
-- **Report Templates & Instructions**: https://navysbir.com/links_forms.htm
-- **WAWF Submission Instructions**: https://docs.google.com/document/d/1Ea2PCGd6xCM0RdUq0AGeMnHPoyHjwV-WrF-1N7E4-Vc/edit?usp=sharing
+- **Payment Method**: Wide Area Workflow (W

@@ -9,7 +9,7 @@
 - **Risk signals**: None identified
 
 ## Key Deliverables & Milestones
-This is a contact database, not a project with deliverables. Contains 103 contacts across:
+This is a contact database, not a project with deliverables. Contains 103+ contacts across:
 - **Government agencies**: NASA (Ames, Goddard, Langley, JPL), NOAA, USDA, Army, Navy (NAVAIR/NAWCAD), USAF, USGS
 - **Universities**: Stanford, UC Boulder, UC Santa Cruz, Oklahoma State, Notre Dame, Embry-Riddle, Murray State, University of Maryland Eastern Shore, University of Miami, Old Dominion, University of Washington
 - **Commercial companies**: 
@@ -23,7 +23,7 @@ This is a contact database, not a project with deliverables. Contains 103 contac
   - Real estate
 
 ## Task Summary
-- **Total tasks**: 11 open, 0 completed
+- **Total tasks**: 1 open, 0 completed
 - **Tasks by assignee**: All unassigned (contact records only)
 - **Data structure**: Each "task" represents a contact with structured custom fields:
   - Company/Agency/Name
@@ -35,8 +35,8 @@ This is a contact database, not a project with deliverables. Contains 103 contac
   - Product associations (S0, S2, S3, E2, Aeropod, Design/prototyping)
   - Notes with context (roles, status, special instructions)
 
-### Recently Updated/Added Contacts (New in Raw Data)
-- **Lee Skidmore (Rubicon Aerospace LLC)** — UAV manufacturing subcontractor; previously owned Northwind Composites; lee@rubiconaerospace.com, (208) 290-5585
+### Recently Updated/Added Contacts
+- **Lee Skidmore (Rubicon Aerospace LLC)** — UAV manufacturing subcontractor; previously owned Northwind Composites; lee@rubiconaerospace.com, (208) 290-5585; 1323 N. Division Ave, Suite 101, Sandpoint, ID 83864
 - **Northwind Composites (CLOSED)** — Lee Skidmore contact; Lee@northwindcomp.com; 1323 N. Division Ave Suite 103, Sandpoint ID 83864; (208) 290-5585; https://northwindcomposites.com/
 - **Kay Rufty (CLOSED)** — NASA AREN contractor; kayrufty@gmail.com, Kay.rufty@blackswifttech.com; no longer working with BST as of mid-2025
 - **KCO, Inc.** — Tax firm (as of 2026); Mark Kightlinger, Mark@kcotax.com, 245 Century Cir Ste 206, Louisville CO 80027, (720) 613-0576; https://www.kcotax.com/ (replacement for Bill Jones/Jones & Associates CPAs PC who retired January 2026)
@@ -94,6 +94,3 @@ This is a contact database, not a project with deliverables. Contains 103 contac
 - Aeronet Worldwide (new primary shipper as of 2025, replacing FreightPros) — Patrick Mulstay contact
 - WorldWide Express/WWEX (UPS authorized reseller as of 2025) — Kelsie Pierson account manager
 - FreightPros (legacy, being phased out Sept 2025)
-
-**Insurance**: 
-- United Healthcare (health) — Wendy Jones

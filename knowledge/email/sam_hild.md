@@ -1,89 +1,87 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 768 (762 previous + 6 new)
-- **Date range:** March 16 – April 27, 2026 (approximately 43 days)
+- **Total messages scanned:** 789 (768 previous + 21 new)
+- **Date range:** March 16 – April 28, 2026 (approximately 44 days)
 - **Approximate volume:** ~18 emails per day
-- **Note:** New batch (Apr 26-27) consists entirely of vendor promotions, logistics notifications, and automated digests. All messages marked UNREAD at scan time. No task assignments or critical correspondence in this batch.
+- **Note:** New batch (Apr 27-28) shows **21 messages**, predominantly logistics/procurement notifications and promotions (17/21). However, **4 critical work messages** on Apr 27 visible: Vertiq motor support forwarding, Power Supply Board Re-spin active correspondence, and Hurricane Season part sourcing updates. Asana task digest indicates active task management with 2 tasks due soon + 1 newly assigned.
 
 ## Key Correspondents
 
 ### Top Internal Contacts
 - **Dan Prendergast** (via Asana) — **ACTIVE TASK LEAD**: Circuit board revisions across multiple projects; task assignments maintain momentum on iterative design cycles
 - **Maciej Stachura** (via Asana) — **ESCALATED PRIORITY**: Critical task assignment (Apr 24) on **S3 Debug Noise on motors issue** under [001-07] S3 IRAD project; motor diagnostics troubleshooting active
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Hurricane IDIQ lead; continues indirect involvement via procurement pipeline; NOTE: Promotional emails routed to joshua.fromm@blackswifttech.com via purchasing alias, suggesting Joshua may handle purchasing delegation or receive vendor communications through centralized account
-- **Jack Elston** (elstonj@blackswifttech.com) — **DESIGN APPROVAL/ESCALATION PATH**: Acts as intermediary between Sam's design work and external vendors; Constant Contact billing holder for BST marketing/communications
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — **MOTOR SYSTEM ESCALATION (NEW)**: Forwarded **Vertiq Support response** on Apr 27 regarding "Volt limit and Volts Limit Starting Voltage" — indicates motor control parameter troubleshooting; Hurricane IDIQ lead continues involvement
+- **Jack Elston** (elstonj@blackswifttech.com) — **DESIGN APPROVAL/ESCALATION/EXTERNAL LIAISON**: Apr 27 email to external contact (microfirm@earthlink.net) regarding **Power Supply Board Re-spin** indicates Jack acts as direct point of contact with external design partner; Matt Crabtree (Waveform Engineering) updates routed through Jack on Hurricane Season part sourcing
 
-### Vendor/Supplier Contacts
+### External Contacts (NEW - CRITICAL)
+
+**Design/Engineering Partners:**
+- **microfirm@earthlink.net** — **ACTIVE DESIGN PARTNER**: Direct correspondence chain on Apr 27 (Sam → microfirm → Jack → Sam) on **Power Supply Board Re-spin** design; 3 messages in sequence indicate iterative review cycle; external consultant or contractor handling power supply design iteration
+- **Matt Crabtree** (matt.crabtree@waveformengineering.com) — **WAVEFORM ENGINEERING**: Apr 27 update on "Hurricane Season Builds - Part Sourcing" routed to Jack Elston; indicates supply chain coordination for Hurricane IDIQ program with external engineering/manufacturing partner
+
+### Vendor/Supplier Contacts (Expanded)
 
 **Logistics/Shipping (Continued):**
-- **UPS** — Package arrival notifications (Apr 26, duplicate); repeated delivery confirmations suggest active ongoing shipment monitoring or subscription to tracking alerts
-- **USPS Informed Delivery** — Daily digest (Apr 26); continuing mail/shipment monitoring
-- **eBay** — New item alert for **"woodhead 4023"** (Apr 27); component/part procurement monitoring active; Woodhead is electronics connector/industrial control manufacturer; suggests specific component sourcing activity
+- **UPS** — Package delivery notification (Apr 27); continued active shipment monitoring
+- **FedEx Tracking** — Shipment tracking notification (Apr 28, shipment 871015479182); new carrier added to procurement pipeline; indicates multi-carrier logistics coordination
+- **USPS Informed Delivery** — Daily digest (Apr 27); continuing mail monitoring
+- **SendCutSend** — Order SW02L252 **DELIVERED** (Apr 27); custom metal cutting/fabrication service; indicates sheet metal, custom bracket, or structural component manufacturing active
+- **JawsTec** — Order shipment in transit (Apr 27); component vendor; order status active
 
 **Electronics & Components:**
+- **Vertiq** (via Joshua Fromm) — **MOTOR CONTROL VENDOR (NEW)**: Support response on motor voltage parameters (Volt limit, Starting Voltage); indicates active motor control troubleshooting with Vertiq motor platform/ESC
 - **ELEGOO US** — Promotional message (Apr 25); microcontroller platform vendor
 - **SkyGeek** — Promotional (Apr 25); aviation/RC equipment supplier
 
-**Retail/General Supply:**
-- **Harbor Freight** — 30% Off promotion (Apr 26); tool/supply vendor
-- **BannerBuzz** — Wallet points expiration alert (Apr 27); promotional merchandise/printing vendor; suggests BST marketing collateral ordering or company merchandise program
+**Business Services & Procurement:**
+- **Harbor Freight** — Spring coupon promotion (Apr 27); tool/supply vendor
+- **Spindrift Market** — Order SH62367658 **CONFIRMED** (Apr 28, via Purchasing); beverage vendor; suggests employee break room supplies or corporate catering program
+- **ezCater** — Cinco de Mayo promotion (Apr 27, routed to Jack Elston via Purchasing); corporate catering service; indicates team events/meetings coordination
+- **USPS Informed Delivery** — Daily digest (Apr 27); continuing mail monitoring
+- **Verizon B2B** — Business deals promotion (Apr 27, direct to Sam); telecom services vendor
 
-**Billing/Service Platform:**
-- **Constant Contact** — Payment receipt (Apr 26); email marketing/communications platform
+**Financial/Administrative:**
+- **Oracle Financial** — Remittance advice payment reference #3871847 (Apr 27); accounting/payment processing
+- **Toggl Track** — Time tracking platform notifications (2x Apr 27); task/project time tracking active
+- **Constant Contact** — Email marketing platform (previous batch)
+
+**Other:**
+- **IFC Studios** — "Prioritization at Work & Celebrate New Employee" promotional (Apr 27); corporate training/HR platform vendor
 
 ## Topic Patterns
 
-### Active Projects (Motor Troubleshooting Remains Primary)
+### Active Projects (Motor Troubleshooting + Power Supply Design Re-spin - PRIMARY FOCUS)
 
-**[001-07] S3 IRAD** — **MOTOR SYSTEM TROUBLESHOOTING ONGOING**
-- S3 Debug Noise on motors task assigned Apr 24 (Maciej Stachura); no new updates in Apr 26-27 batch
+**[001-07] S3 IRAD** — **MOTOR SYSTEM TROUBLESHOOTING ESCALATING**
+- **S3 Debug Noise on motors task** assigned Apr 24 (Maciej Stachura); **NEW ESCALATION**: Vertiq motor support response on Apr 27 regarding voltage parameter limits and starting voltage configuration — indicates motor control troubleshooting has moved to subsystem parameter tuning phase with motor platform vendor support
 - Motor component procurement active (KDE Direct shipments Apr 24); ADUM1201 gate driver ICs indicate motor driver circuitry troubleshooting
 - GNSS troubleshooting remains active baseline
 
-**[300-3] 2026 IDIQ (Hurricane)** — **SUBSYSTEM DEVELOPMENT ONGOING**
+**[300-3] 2026 IDIQ (Hurricane)** — **POWER SUPPLY RE-SPIN + PART SOURCING COORDINATION ACTIVE**
+- **Power Supply Board Re-spin** (Apr 27) — Direct correspondence between Sam, external design partner (microfirm@earthlink.net), and Jack Elston; indicates active iteration cycle on power supply design; microfirm appears to be contracted design consultant
+- **Hurricane Season Builds - Part Sourcing** (Apr 27) — Matt Crabtree/Waveform Engineering update on component availability/procurement coordination; indicates supply chain coordination with manufacturing partner on Hurricane IDIQ production builds
 - P400 900MHz Spread Spectrum Modem evaluation ongoing
-- Power Supply Board Re-spin design iteration phase
 
-### Component/Subsystem Engineering Focus
+### Component/Subsystem Engineering Focus (Updated)
 
-Motor system architecture, motor driver/control circuitry, power supply architecture, and communications/telemetry subsystems remain primary focus areas. **New signal:** eBay alert for Woodhead 4023 connectors (Apr 27) suggests connector/interface component evaluation or procurement for ongoing subsystem builds.
+- **Motor control architecture:** Voltage parameter tuning (Volt limit, Starting Voltage) with Vertiq ESC/motor platform
+- **Power supply architecture:** Board re-spin iteration phase with external design consultant (microfirm)
+- **Structural/mechanical components:** SendCutSend custom metal fabrication active (sheet metal, brackets, structural parts)
+- **Supply chain coordination:** Multi-vendor procurement tracking (UPS, FedEx, SendCutSend, JawsTec); part sourcing for Hurricane production builds
+
+### Asana Task Digest (NEW)
+- **Apr 27 alert:** 2 tasks due soon, 1 new task assigned
+- **No specific task subjects visible** in email headers; Asana digest indicates task velocity remains high
 
 ## Communication Patterns
 
 ### Email Routing & Procurement Process
-- **Centralized purchasing alias:** Vendors/services (Harbor Freight, USPS, UPS, eBay, BannerBuzz, ELEGOO, SkyGeek, Constant Contact) route to purchasing@blackswifttech.com, indicating centralized procurement email distribution or forwarding
-- **Promotional/subscription baseline:** Apr 26-27 batch is 100% promotional, logistics notifications, and automated alerts — consistent with established pattern of vendor subscriptions and shipment monitoring
-- **Unread status:** All 6 messages marked UNREAD; auto-categorized into CATEGORY_FORUMS/CATEGORY_PROMOTIONS without requiring active manual review
+- **Centralized purchasing alias:** Vendors/services (Harbor Freight, USPS, UPS, FedEx, SendCutSend, JawsTec, Spindrift, ezCater, Verizon, Oracle, IFC Studios, Toggl Track) predominantly route to purchasing@blackswifttech.com
+- **Direct vendor contacts:** Some vendors (Vertiq via Joshua Fromm, Waveform Engineering, microfirm, Toggl Track, Verizon) contact Sam or Jack directly, indicating these are primary work vendors requiring direct technical coordination
+- **Promotional/subscription baseline:** 17/21 new messages are promotional, logistics notifications, or automated alerts — consistent with established pattern
+- **Unread status:** 20/21 messages marked UNREAD; auto-categorized into appropriate categories without requiring active manual review
 
 ### Time Patterns
-- Apr 26-27 batch shows **weekend concentration** (Sun 4/26 and early Mon 4/27); delivery/logistics notifications cluster on weekend when packages may arrive; promotional emails follow typical weekend retail timing (Sunday evening deals)
-
-## Key Relationships
-
-### Internal Collaboration
-- **Maciej Stachura** — Critical path motor system troubleshooting partner on S3 IRAD
-- **Dan Prendergast** — Recurring design revision collaborator across projects
-- **Joshua Fromm** — Hurricane IDIQ program lead; procurement pipeline involvement
-- **Jack Elston** — Design approval and business/administrative escalation pathway
-
-### Vendor Relationships
-- **Logistics:** UPS, USPS, eBay (active component sourcing)
-- **Electronics suppliers:** KDE Direct (motors), ELEGOO (microcontroller platforms), SkyGeek (aviation equipment)
-- **Procurement:** Harbor Freight (tools), BannerBuzz (promotional merchandise)
-
-## Notable Observations
-
-1. **Woodhead 4023 component sourcing (NEW):** eBay alert on Apr 27 indicates active search for Woodhead industrial connectors/control components; suggests new connector or interface specification requirement in current subsystem design iteration, likely related to motor or power supply board work
-
-2. **UPS duplicate notification:** Identical "Your Packages Arrive Tomorrow" message sent twice within 14 minutes (Apr 26, 13:16 and 15:00); possible email system glitch, forwarding loop, or intentional redelivery alert due to multiple incoming packages
-
-3. **BannerBuzz wallet expiration (NEW):** Promotional merchandise vendor alert suggests BST has active customer/employee promotional merchandise program or marketing collateral ordering; wallet points expiration implies established account with procurement activity
-
-4. **Continued weekend email reduction:** Apr 26-27 batch contains zero work-related correspondence or task assignments; weekend pattern consistent with previous observations; motor troubleshooting task remains active but no status updates in this window
-
-5. **No escalations or blockers visible:** Apr 26-27 batch contains only routine logistics and promotions; no urgent task assignments or critical correspondence that would indicate project delays or production issues
-
----
-
-**MERGE STATUS:** Existing knowledge preserved; 6 new messages added (Apr 26-27 batch). New observation: Woodhead 4023 eBay sourcing alert suggests active connector/interface component evaluation. UPS duplicate notification noted. BannerBuzz vendor relationship added. No contradictions to earlier findings. Motor troubleshooting task remains active primary focus. Weekend email pattern confirmed.
+- **Apr 27 concentration:** 20/21 new messages dated Apr 27 (Monday); single message Apr 28 (Tuesday); heavy Monday activity pattern consistent with end-of-week order processing and weekly shipment arrivals
+- **Daily task digest

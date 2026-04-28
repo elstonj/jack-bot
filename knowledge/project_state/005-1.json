@@ -29,7 +29,7 @@
         "amount": 8375.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-04-27"
+        "last_updated": "2026-04-28"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 6652.24,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-04-27T08:54:16Z"
+    "last_reconciled": "2026-04-28T09:11:00Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -252,6 +252,12 @@
     {
       "source": "FEEDBACK",
       "author": "Maciej",
+      "date": "2026-04-27",
+      "text": "From Maciej: • <@U06CCFTNBS6>, after your meeting with ByLight let's update the due dates in Asana to realistic numbers and let them know.\n• <@U058LGYMEQ0>, did you need support on S0-VTOL stuff? Looks like some deadlines this week that I assume <@U01511MEQ90> or <@U06NQAYBLRK> can help with depending on their workload.\n• <@U07FN4QSNDN> or <@U01511MEQ90>, you had both mentioned using our AI tools to start on those NASA RFI's, are one of you able to get going on that soon? Otherwise I can take a "
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
       "date": "2026-04-24",
       "text": "From Maciej: <@U0AQE94HJUT> for S0 VTOL IRAD, there's one overdue task \"Visual Observation Bench Test\" along with the \"Instrumented Bench Test\" needing to be completed by next Thursday. <@U058LGYMEQ0>, any roadblocks on your end for catching up on that one overdue task and then having the instrumented bench test done by mid next week? Anything you're waiting on from others or need to order?"
     },
@@ -262,6 +268,6 @@
       "text": "From Maciej: <@U0AQE94HJUT> our highest priority projects right now are: (1) S3 IRAD with a targeted delivery of end of May for the UMES S3, (2) S0-VTOL with two deliveries for ERAU and Barbados, (3) Closing out EMASS, (4) By-Lite Mustang, and (5) Initial tasks on the SBIR Magnetometer project. How are we looking on overdue tasks for those?"
     }
   ],
-  "last_full_rebuild": "2026-04-27T08:54:16Z",
+  "last_full_rebuild": "2026-04-28T09:11:00Z",
   "last_incremental_update": null
 }

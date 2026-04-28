@@ -6,7 +6,7 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 
 **Key Participants:** Maciej (lead flight testing/analysis), Jack Elston (firmware development), Joshua Fromm (QA/component sourcing), Ben Busby (tablet/GCS software), Nate (videography/pilot), Alex Lomis (field operations/media/pilot), Sam Hild (Remote ID integration/test pilot), Dan Prendergast (autopilot/control systems/operations), Danny Troke (data management), Ethan Domagala (pilot), Beck Cotter (operations support), Paige Smith (media/video curation), Sunny Slope Sod Farm (external airspace contact)
 
-**Activity Level:** Extremely high — 5,600+ messages across June 2020 through April 2026. Daily operations with multiple aircraft flights, rapid issue turnaround, continuous firmware iterations, and intensive VTOL transition testing. Recent activity (April 2026) shows intensive multi-aircraft testing cycles with frequent coordination requirements. Latest activity (April 26, 2026) indicates ongoing planning and weather-dependent operations.
+**Activity Level:** Extremely high — 5,600+ messages across June 2020 through April 2026. Daily operations with multiple aircraft flights, rapid issue turnaround, continuous firmware iterations, and intensive VTOL transition testing. Recent activity (April 2026) shows intensive multi-aircraft testing cycles with frequent coordination requirements. Latest activity (April 27, 2026) documents S3-MASS first full flight with comprehensive post-flight analysis and tuning feedback.
 
 ---
 
@@ -25,6 +25,7 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 - **April 23, 2026:** S3-MASS left pivot servo grounding issue resolved with added grounding strap; aircraft approved for flight testing with monitoring contingency
 - **April 24, 2026:** S1-22 cleared for extended flight testing (1+ hour accumulated with no observed issues); S3-MASS and S30001 scheduled for continued hover testing pending wind conditions
 - **April 25, 2026:** E-MASS project training data collection scheduled Monday; confirmed two relatively charged E2 batteries available for mission; waypoint plan phases configured for sequential loading during flight to maximize training data capture across one or two flights
+- **April 27, 2026:** S3-MASS approved for first full autonomous flight after successful hover tests; motor_out_yaw branch deferred from S3_mass_model (integral gain tuning concerns and motor failure mitigation strategy requires further development; rudder damping gains require aircraft-specific tuning vs. S0 baseline)
 
 ### Firmware & Code Management
 - **October 2020:** Angle-to-rate loop gains critical safety parameter — develop (8,8,3) vs. master (4,4,1.5) discrepancy required close monitoring
@@ -42,6 +43,9 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
   - S3-MASS build standardized using `./make S3` option to ensure all compiler flags included correctly
   - Identical firmware code across S10022, S1-22, and S1-21 planned for April 24 testing to verify no reset bugs introduced in recent code updates
 - **April 24, 2026:** S1-22 firmware confirmed stable (develop + comms develop branches); autopilot and power board updated prior to testing; additional reset diagnostics added to codebase by Jack Elston for future troubleshooting
+- **April 27, 2026:**
+  - No firmware updates required for S10022 or S3-MASS over weekend (Jack Elston confirmed motor_out_yaw branch not relevant to today's VTOL testing)
+  - Joshua Fromm set S1-22 motor volts limit starting voltage to 0V (no other settings changed)
 
 ### Safety & Flight Operations
 - **February 2021:** RC field hours moved to 9:30 AM start (from 10 AM)
@@ -53,7 +57,4 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 - **April 20, 2026:** Nose tape requirement enforced for S1-VTOL airspeed sensor protection
 - **April 23, 2026:** 
   - Departure from BST targeted for 8:20 AM to avoid increasing winds
-  - S3-MASS testing protocol established: 30-second joystick hovers with 2-minute rest between flights (vs. 1-minute previously) to manage motor temperature
-  - S1-21 transition testing protocol: ~3 rapid flights per battery over 5 batteries (15 total flights planned) to verify no reset bugs from recent code updates
-- **April 24, 2026:** Sam Hild to verify motor rotations and prop clearance on wiring before flights; external notifications required (Sunny Slope Sod Farm contact required for airspace coordination); wind gusting at 30 mph deemed unsafe for S30001 and additional S1-22 flights
-- **April 25, 2026:** E-MASS training data collection scheduled Monday with standard 9:30 AM RC field operations start time; altitude constraints at Sod Farm venue confirmed
+  - S3-MASS testing protocol established: 30-second joystick hovers with 2-minute

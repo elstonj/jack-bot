@@ -1,18 +1,18 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned: 777 combined** (771 previous + 6 new)
-- **Date range covered: March 18 - April 27, 2026 (approximately 41 days)**
+- **Total messages scanned: 793 combined** (777 previous + 16 new)
+- **Date range covered: March 18 - April 28, 2026 (approximately 42 days)**
 - **Approximate daily volume: 20-25 emails per day**
 - High volume of automated vendor/shipping notifications (~98% of volume) mixed with critical strategic project communications and active supplier negotiations
-- **Apr 26-27 snapshot shows 6 messages**: all promotional/automated (wallet points expiration, UPS delivery notifications, Harbor Freight promotion, USPS daily digest, eBay product alert); no direct human correspondence in this batch
+- **Apr 27-28 snapshot shows 16 messages**: 15 automated/promotional (shipping, order confirmations, vendor promotions, task reminders); 1 unread support communication from Toggl Track (no subject)
 
 ## Key Correspondents
 
 ### Top Internal Collaborators (BST team):
-- **Jack Elston** (elstonj@blackswifttech.com) - CEO, frequent meeting invitations, strategic initiatives; forwarded AVAPS 2026 meeting details to team (Apr 24); Constant Contact billing receipt routed Apr 26
+- **Jack Elston** (elstonj@blackswifttech.com) - CEO, frequent meeting invitations, strategic initiatives; AVAPS 2026 meeting flagged IMPORTANT (Apr 24); appears as recipient on ezCater promotional (Apr 27)
 - **Maciej Stachura** (stachura@blackswifttech.com) - Technical partner, primary task assigner for Navy SBIR Magnetometer project; direct Navy coordination; flagged AVAPS 2026 meeting as IMPORTANT (Apr 24)
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) - Operational execution, received AVAPS 2026 meeting forwarded by Jack Elston (Apr 24); received SkyGeek promotional email routed through purchasing Apr 25
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) - Operational execution, received AVAPS 2026 meeting forwarded by Jack Elston (Apr 24)
 - **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) - Technical projects
 - **Meredith Needham** (meredith.needham@blackswifttech.com) - Operations, vendor coordination
 - **Beck Cotter** (beck.cotter@blackswifttech.com) - Received DON-SEC 1-Year Follow-up from Ausgar (Apr 24)
@@ -32,43 +32,43 @@
 
 **Electronics & Components:**
 - **DigiKey** - sustained ordering activity
-- **Amazon** - sustained ordering (ADUM1201 components delivered Apr 24)
+- **Amazon** - sustained ordering
 - McMaster-Carr
 - STMicroelectronics
 - Pasternack
 
 **Manufacturing & CNC:**
 - **Craftcloud** - active production orders
-- **SendCutSend** - sustained shipments
-- **JawsTec** - active orders
+- **SendCutSend** - sustained shipments; order SW02L252 delivered Apr 27
+- **JawsTec** - active orders; shipment in transit (Apr 27)
 - **SoaringUSA.com** - composite/airframe sourcing
 - Rapid Axis (Jared Probst)
-- **Rock West Composites** - completion reminder (Apr 24)
+- Rock West Composites
 
 **Propulsion/Motors & Power:**
-- **KDE Direct** - sustained motor orders (Order KDE17135 delivered Apr 24)
+- **KDE Direct** - sustained motor orders
 - APC Propellers
 - Hobbyking
 - High-Tech Battery Solutions
 
 **Drones/FPV/RC:**
-- **GetFPV** (Nazgul Evoque V3 promotion, "Seeker 35" product alerts)
+- **GetFPV** - product alerts and promotions
 - **CADDX FPV** (Avatar GT2 Kit)
 - iFlight Nazgul Evoque F5 V3
-- **eBay** - active product monitoring (woodhead 4023 connector alert Apr 27; sustained component sourcing)
-- **Ready Made RC LLC**
-- **RMRC**
+- **eBay** - active product monitoring and component sourcing
+- Ready Made RC LLC
+- RMRC
 - AMain Hobbies
 - Aloft Hobbies
-- **Elegoo** - promotional engagement (Jupiter 2 product messaging Apr 25); continued supplier relationship
+- **Elegoo** - promotional engagement; continued supplier relationship
 
 **Instrumentation & Sensors:**
 - **Atmolab** (Rex 110 Mini Gen2 - ACTIVE INTEGRATION)
 - Kestrel Instruments
 - Vaisala
 - Nielsen Kellerman
-- **LightWare microLiDAR**
-- **Dronetag**
+- LightWare microLiDAR
+- Dronetag
 - Bartington Magnetometer
 
 **Batteries & Power:**
@@ -76,41 +76,48 @@
 - **Amprius cells** - ONGOING NEGOTIATION
 
 **Tools/General:**
-- **Harbor Frost** - promotion notifications (30% off promotion ongoing; Apr 26 time-sensitive promotion "Ends Today")
+- **Harbor Freight** - time-sensitive promotional engagement; "Spring To-Do List" coupons sent Apr 27
 - The Home Depot
 - McMaster-Carr
 
 **Logistics/Travel:**
-- **Budget** (free double upgrade offer Apr 25)
-- **FedEx** (on-call pickup scheduled EASB2033 Apr 24)
-- **USPS Informed Delivery** (daily digest continuing through Apr 26)
-- **UPS** (duplicate package arrival notifications Apr 26; active shipment tracking)
+- **DHL Express** - **NEW**: On Demand Delivery notification marked IMPORTANT (Apr 28); active international/expedited shipment
+- **FedEx** - shipment 871015479182 in tracking (Apr 27); on-call pickup scheduled EASB2033
+- **USPS Informed Delivery** - daily digest continuing through Apr 27
+- **UPS** - package delivery notifications; "Your Packages Are Coming Today" (Apr 27)
+- Budget
 - U-Haul
 
 **Subscriptions/Services:**
-- **Toggl Track** - support communication
-- **Spindrift Market** - beverage subscription (order creation pending Apr 25)
+- **Toggl Track** - support communication with no subject line (Apr 27, marked IMPORTANT); indicates possible account issue or system notification
+- **Spindrift Market** - order SH62367658 confirmed (Apr 28); active beverage subscription
 - Gemini/Google Notes
-- **Asana** (task management, 2 overdue tasks, 8 assigned as of Apr 24)
-- **Constant Contact** (billing receipt for Jack Elston Apr 26)
-- **BannerBuzz** - NEW: Wallet points expiration alert (Apr 27); indicates promotional/rewards account activity
+- **Asana** - task management; "Monday - tasks due soon: 3" reminder (Apr 27); 2 overdue tasks, 8+ assigned
+- **Constant Contact** - billing receipt
+- BannerBuzz - Wallet points expiration alerts
+- **Oracle Finance** - Remittance Advice/payment processing (reference 3871847, Apr 27)
 
 **Infrastructure/Utilities/Communications:**
 - **Comcast Business**
 - **Verizon**
 - X-Plane
-- **SecurityMetrics** (PCI compliance account expiring reminder Apr 24)
+- SecurityMetrics
 
-**Cleaning/Miscellaneous:**
-- **Neat N Tidy**
-- **SkyGeek** (aviation supplies promotional email Apr 25)
+**Business/Event/Miscellaneous:**
+- **IFC Studios** - promotional email on "Prioritization at Work & Celebrate New Employee" (Apr 27)
+- **ezCater** - Cinco de Mayo promotion with 1000 bonus points (Apr 27)
+- **SkyGeek** - aviation supplies
+- Neat N Tidy
+
+**SBIR Support Tools - NEW:**
+- **TurboInnovate** - promotional email marked IMPORTANT (Apr 27) with subject "How TurboInnovate Supports Your SBIR Proposal"; suggests Alex is evaluating SBIR proposal writing/management tools
 
 ## Topic Patterns
 
 ### Major Active Projects - SUSTAINED:
 
 **Navy SBIR Magnetometer Project [550-1]:**
-- Task management remains primary driver (Asana: 2 overdue tasks, 8 assigned as of Apr 24)
+- Task management remains primary driver (Asana: 3 tasks due soon as of Apr 27)
 - Ground testing rig design for dual magnetometers
 - Hand-launched S0-MAD aircraft configuration
 - Camp Pendleton demo flights planned
@@ -124,13 +131,4 @@
 **DON-SEC Contract/Compliance Review** - ACTIVE:
 - **1-Year Follow-up communication from Ausgar (Apr 24)** marked IMPORTANT
 - Multi-party communication (Beck Cotter, Jack Elston, Maciej Stachura involved)
-- Suggests contract renewal, compliance audit, or security review cycle
-
-**Atmolab Rex 110 Mini Gen2 Integration** - ACTIVE:
-- **Direct outbound from Alex Lomis to Atmolab (Apr 24)**
-- Sensor integration evaluation in progress
-
-**Amprius Battery Cell Sourcing** - ONGOING NEGOTIATION
-
-## Communication Patterns
-- **Apr 26
+- Suggests contract renewal,

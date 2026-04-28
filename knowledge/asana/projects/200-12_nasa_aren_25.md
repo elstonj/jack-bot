@@ -32,5 +32,7 @@ Project was shut down in August 2025 ahead of schedule in anticipation of Geoffr
 - One administrative task remains open (contact info for Geoffrey Bland, who is now retired)
 - No subcontractors involved in this contract
 
-## Follow-Up Opportunity
-**Team Feedback [2026-04-17, 2026-04-20]:** Alex Lomis shared a NASA RFI link recommended by NASA team and Joe on a hurricane ET call: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view — indicates potential interest in related hurricane-focused NASA opportunity that may warrant BST attention.
+## Follow-Up Opportunities
+**Team Feedback [2026-04-17 & 2026-04-20], Alex Lomis:** NASA team and Joe recommended BST review a related hurricane-focused NASA RFI opportunity on SAM.gov: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view — discussed on hurricane ET call.
+
+**Team Feedback [2026-04-27], Maciej:** AI tools should be leveraged to start work on NASA RFIs. Assignment TBD depending on team workload.

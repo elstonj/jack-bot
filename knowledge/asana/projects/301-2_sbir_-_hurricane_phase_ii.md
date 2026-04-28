@@ -14,10 +14,14 @@
 - **Billing Contact**: Luis Quijada, lcq5@miami.edu
 - **Field Operations Contact**: Nick Underwood (NOAA AOC)
 
+---
+
 ## Key Deliverables & Milestones
 - **Deliver Twelve Field-Ready S0 UAS** — Due: 2024-07-31 | **Completed: 2024-07-29** (2 days early)
 - **Delivery of two (2) MHTP for use on Altius 600** — Due: 2024-04-30 | **Completed: 2024-08-17**
 - **Conduct 2x Hurricane Field Study** — Due: 2024-11-30 | **Completed: 2024-08-17**
+
+---
 
 ## Task Summary
 - **Total tasks**: 425 completed, 0 open (100% completion rate)
@@ -36,6 +40,8 @@
   - Strong emphasis on HDOB (Hurricane Data Operations) integration and scientist-facing interfaces
   - Multiple tasks related to RS421 sensor issues and replacements
 
+---
+
 ## Recent Activity
 Final project phase (Aug-Oct 2024) focused on hurricane field operations and system validation:
 - **Late July 2024**: Shipped 12 S0 UAS units to NOAA AOC (ahead of schedule)
@@ -47,6 +53,8 @@ Final project phase (Aug-Oct 2024) focused on hurricane field operations and sys
   - GCS GPS anomalies and altitude calculation
   - Engine enable problems
 - **Project closure**: January 3, 2024 status update marked completion of all work
+
+---
 
 ## Notes & Context
 
@@ -77,4 +85,9 @@ Final project phase (Aug-Oct 2024) focused on hurricane field operations and sys
 **Related Government Initiatives** (April 2026 context):
 - Team monitoring **NASA RFI opportunity** related to hurricane ET (Environmental Tracking) — https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view (flagged by Alex Lomis, 4/20/26; recommended by NASA contacts and Dr. Joe Cione)
 - **Navy STTR**: Submitted with invoice as of April 17, 2026 (per Meredith Needham, 4/17/26)
-- **SBIR Magnetometer (Navy)**: Kicked off as of April 21, 2026 per Maciej (4/21/26); technical lead assigned; FWA Certification and kick-off deliverables (including slidedeck) due April 14, 2026. Report templates available at https://navysbir.com/links_forms.htm (per Meredith Needham, 4/17/26)
+- **SBIR Magnetometer (Navy)**: **Kicked off April 21, 2026** per Maciej (4/21/26). FWA Certification and kick-off deliverables (including slidedeck) due April 14, 2026. Report templates and instructions at https://navysbir.com/links_forms.htm (per Meredith Needham, 4/17/26). Technical lead assigned; designated as one of Maciej's highest priority projects (4/24/26).
+
+---
+
+## Status as of April 2026
+**NOTE**: This project is archived and complete. The team is now focused on new initiatives (S3 IRAD, S0-VTOL, EMASS closure, By-Lite Mustang, and SBIR Magnetometer per Maciej's priority list, 4/24/26).

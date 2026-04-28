@@ -3,7 +3,7 @@
 ## Overview
 - **Client/customer:** Internal BST marketing and business development
 - **Dollar value:** $200K ARR increase target (self-serve team goal)
-- **Timeline:** May 2024 – April 2025; tasks span 2024-05-24 to 2025-03-29, with final completion 2025-04-10
+- **Timeline:** May 2024 – April 2025; project cycle concluded April 2025
 - **Status:** **ARCHIVED** — All 9 tasks completed (100% completion). Project cycle concluded April 2025. No longer active.
 - **Team members involved:** Paige Smith, Jack Elston, multiple unassigned contributors
 - **Risk signals:** None — project fully completed and archived
@@ -67,3 +67,8 @@ Goal management workflow template used to brainstorm, draft, and approve BST's m
 
 ## Archive Note
 This project successfully established BST's marketing framework, digital infrastructure, and strategic positioning within the geoscience and UAS communities through 2025. It is no longer active. New marketing goals are tracked in subsequent project cycles.
+
+---
+
+## ⚠️ Team Feedback Note
+**Note:** Team corrections dated April 19–23, 2026 reference active technical work (EMASS flight tests, S0-VTOL crash debugging, S3 work, Mustang Progress) with multiple team members assigned. These appear to belong to **a different, active project** — not this archived marketing goals workflow. This knowledge file covers only the completed marketing project cycle (May 2024 – April 2025).

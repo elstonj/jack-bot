@@ -4,11 +4,11 @@
 
 This channel tracks Black Swift Technologies' grant applications, funding pursuits, and government contracting efforts across federal agencies (NASA, DOD, NOAA, USDA, etc.). It serves as the central hub for proposal submissions, funding strategy discussions, budget development, and award management.
 
-**Key Participants:** Jack Elston (primary decision-maker), Maciej (technical/proposal support), Meredith (budget/administrative), Dan Prendergast (proposal coordination), Beck Cotter (program management), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm, and others contributing to specific proposals.
+**Key Participants:** Jack Elston (primary decision-maker), Maciej (technical/proposal support), Meredith Needham (budget/administrative), Dan Prendergast (proposal coordination), Beck Cotter (program management), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm, and others contributing to specific proposals.
 
-**Activity Level:** High throughout the period (March 2024 - April 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Most recent activity (April 2026) continues to show high intensity with multiple concurrent submissions and ongoing technical discussions.
+**Activity Level:** High throughout the period (March 2024 - April 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Most recent activity (April 27, 2026) continues at peak intensity with multiple concurrent NASA, DOD, and DOE submissions in active coordination phases.
 
-**Time Range:** March 3, 2024 - April 23, 2026
+**Time Range:** March 3, 2024 - April 27, 2026
 
 ---
 
@@ -74,13 +74,17 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
   - Due date: April 28, 2026 (potentially may move to May 1)
   - Budget package expected from BNL partner within 1-2 days; narrative and summary documentation in progress
   - **April 23 status:** Beck Cotter confirmed receipt of all required documents from Gijs (BNL partner); proposal package complete and ready for finalization
+  - **April 27 status:** Genesis DOE proposal due Friday (April 28, 2026); nearly complete and ready for submission
+
+- **NASA deadlines coordination** (April 27, 2026): Clarified multiple concurrent NASA deadlines and staggered submission approach:
+  - NASA Aero RFI Responses and SaaS responses: **Due May 7**
+  - NASA Phase II: **Due May 15**
+  - NASA Phase I: **Due May 21**
+  - DoD submissions (2025.4 cycle): **Due May 13**
+  - DoD submissions (2026 cycle): **Due June 3**
+  - Maciej suggested staggered deadlines for 3-4 NASA RFIs to avoid scrambling at deadline
+
+- **DoD solicitation review** (April 27, 2026): Dan Prendergast curating comprehensive list of DoD solicitations for team review on April 28; most due dates pushed to June (only one with May 13/15 deadline). Clarified that bot missed several that needed manual addition.
 
 ### Demo and Testing Decisions
-- **Overwater delivery demo accepted** (February 2025): Selected from 44 submissions (1 of 12); scheduled for Oahu, March 11, 2025, with S3 as preferred platform (15-30 mile range requirement). Phase 2 planned for summer 2026 field experimentation in Oceania.
-
-- **Royal Spark meeting outcome** (May 2024): Confirmed ATAK/DroneTAK integration requirement for partnership; feasible to get on base with system.
-
-- **Frank/Crimson Viper assessment** (July 2024): Frank gave 70% probability on deal from demo; explored Hawaii demo alternative as fallback option.
-
-- **NexTech Canada demo selected** (April 2026): BST selected for Ottawa demo ~May 26, 2026 (paid event, 8 vendors invited). Downselection to 3 vendors for second demo in Whitehorse later in year. Procurement potential: 180 units (60 teams × 3 platforms each). Cold weather camera integration identified as critical competitive advantage. All logistics, flight permissions, and aircraft registration to be handled by NexTech; BST responsible for piloting/operating system.
-  - **Specifications Updated** (April 21, 2026):
+- **Overwater delivery demo accepted** (February 2025): Selected from 44 submissions (1 of 12); scheduled for

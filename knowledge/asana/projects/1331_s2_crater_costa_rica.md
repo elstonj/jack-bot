@@ -57,4 +57,4 @@ https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
 
 ---
 
-**Project Status:** Complete and archived. All deliverables delivered to NASA on time or early. No open action items. One administrative contact record remains in Asana for reference. NASA has expressed interest in follow-on hurricane ET work via recent RFI — recommend BD team review.
+**Project Status:** Complete and archived. All deliverables delivered to NASA on time or early. No open action items. One administrative contact record remains in Asana for reference. NASA has expressed interest in follow-on hurricane ET work via recent RFI (4/17-4/20/26, Alex Lomis) — recommend BD team review.

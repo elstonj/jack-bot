@@ -1,10 +1,10 @@
 # Commercial — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $2,069,097.34
+- **Total Invoiced (Revenue):** $2,196,726.34
 - **Total Expenses (Bills + Purchases):** $217,613.48
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $1,851,483.86 (Revenue exceeds expenses)
+- **Net Position:** $1,979,112.86 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – May 8, 2026
 
 ---
@@ -67,12 +67,16 @@
 | 1618 | 2024-04-19 | $13,853.10 | [451] INSTAAR Stable Isotope Lab, CU Boulder | Paid |
 
 ### Revenue Summary
-- **Total Invoiced:** $2,069,097.34
+- **Total Invoiced:** $2,196,726.34
 - **Total Collected (Paid):** $1,075,726.08
-- **Outstanding Balance:** $993,371.26
-  - **Four invoices from May 8, 2026 (By Light Halo):** $223,258.00 (Invoices #1754–1757) — **NEW**
+- **Outstanding Balance:** $1,121,000.26
+  - **Four invoices from May 8, 2026 (By Light Halo):** $223,258.00 (Invoices #1754–1757) — Product delivery
+    - Invoice #1757 ($63,735.00): Two (2) built out Halo platforms ready for car launch demo
+    - Invoice #1756 ($47,894.00): Design tested Halo airframe and CAD step files
+    - Invoice #1755 ($63,735.00): Two (2) built out Halo platforms ready for car launch demo
+    - Invoice #1754 ($47,894.00): Design tested Halo airframe and CAD step files
   - **One invoice from May 8, 2026 (IRISS, CU Boulder):** $664.98 (Invoice #1759)
-  - **Other outstanding invoices:** $769,448.28
+  - **Other outstanding invoices:** $897,077.28
 
 ---
 
@@ -128,19 +132,4 @@
 **Total: $7,740.69** | 2 transactions | Largest item: $4,844.80
 
 #### Matthew Crabtree — Indirect Subcontractor Expenses
-- **Bill #BST-April2026-1 (2026-04-22):** $2,895.89
-- **Bill #BST-March2026-2 (2026-04-22):** $4,844.80
-
-**Total Indirect Costs:** $7,740.69
-
----
-
-## Purchase Orders
-**Total POs:** $1,977.50
-*(No new POs in current update period)*
-
----
-
-## Monthly Spend by Category
-
-| Month | Subcontractors | Materials & Supplies | Equipment/Inventory | Indirect Costs
+- **Bill #BST-April2026-1 (2026-04

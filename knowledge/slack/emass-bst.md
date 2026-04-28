@@ -13,7 +13,7 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Sergio Ruocco (eMASS AI) - Autoboot firmware expert, SDK bring-up and troubleshooting
 - Shantanu (eMASS AI) - Hardware verification and validation
 
-**Activity Level:** Highly active collaboration spanning February-April 2026. Intensive HWIL and model training in March-April. Most recent activity (Apr 24-26, 2026) focused on post-flight analysis, controller performance evaluation, and planning next test flight with refined AI models. Critical first-flight test completed on Apr 24, 2026.
+**Activity Level:** Highly active collaboration spanning February-April 2026. Intensive HWIL and model training in March-April. Most recent activity (Apr 27-28, 2026) focused on post-first-flight debugging, PWM value discrepancies, AI model refinement, and preparation for next flight test. Critical first-flight test completed on Apr 24, 2026.
 
 ---
 
@@ -95,19 +95,15 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Jack Elston inquired whether eMASS is actively checking which waypoints are loaded and which flight plan is active
 - Status: Clarification pending from eMASS team regarding active monitoring of loaded waypoints and plan status in flight
 
----
+**PWM Value Range Correction (Apr 27, 2026)**
+- Nikhila identified discrepancy in PWM actuator value conversion in emass_handler.cpp
+- Current code assumes range: -100→1000µs, 0→1500µs, +100→2000µs (formula: 1500 + actuators[i] * 5)
+- Flight Log User Guide references different range: 1150µs (0%) to 1900µs (100%)
+- **Decision: Pending clarification from Jack Elston on correct PWM value ranges**
+- Impact: Simple loopback test sending incoming PWM values back caused autopilot shutdown, indicating conversion error
+- Status: Awaiting corrected range specification before next test
 
-## Projects & Initiatives
-
-### ECSDoT Integration onto E2 Aircraft
-**Status:** First flight test completed Apr 24, 2026. Post-flight analysis underway. Next test flight planned for Sunday, Apr 27, 2026 (weather permitting). Controller performance issues from first flight to be addressed through updated AI models before next live run. Critical insights gained on bumpless handover, hover stability, and actuator PWM continuity.
-
-**Scope:** Integrating eMASS AI's ECSDoT energy management chip onto BST's E2 multirotor UAS for final flight testing and validation.
-
-**Components:**
-- UART communication interface (/dev/ttyUSB0) between autopilot and ECSDoT chip at 460800 baud
-- Telemetry reception → AI inference → PWM actuator output pipeline
-- Integration with SwiftPilot autopilot (pro_core_swil_MULTIROTOR)
-- Payload protocol implementation over port 55551 with GCS control via port 55555
-- 5-to-3.3V level shifter powered from J18 pin #1
-- External control
+**AI Model PWM Output Rate Adjustment (Apr 27, 2026)**
+- eMASS team (Nikhila, Prof. Moe) reduced PWM actuator output rate from 75Hz to 25Hz
+- Rationale: Concern that 75Hz was too fast for stable control
+- **Decision: Test new 4% constraint model at 25Hz

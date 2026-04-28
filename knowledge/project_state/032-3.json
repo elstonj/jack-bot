@@ -49,13 +49,13 @@
     "committed": 0.0,
     "remaining": 83544.54,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-04-27T08:54:53Z"
+    "last_reconciled": "2026-04-28T09:11:39Z"
   },
   "milestones": [],
   "deliverables": [],
   "team": [],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-04-27T08:54:53Z",
+  "last_full_rebuild": "2026-04-28T09:11:39Z",
   "last_incremental_update": null
 }
