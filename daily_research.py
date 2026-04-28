@@ -1,3 +1,4 @@
+import json
 import os
 import re
 from concurrent.futures import ThreadPoolExecutor
@@ -538,6 +539,34 @@ def _detect_ooo(calendar_data, users):
 
     today_str = date.today().strftime("%Y%m%d")
 
+    # Load uid_map.json so a Slack display_name like "Nate" still matches a
+    # Rippling ICS entry like "Nathaniel Straus" — we expand each user's
+    # token set with preferred_first / formal_first / last from the canonical
+    # identity record.
+    uid_aliases = {}  # slack_user_id -> set of extra tokens
+    uid_full_name = {}  # slack_user_id -> "Preferred Last" canonical full name
+    try:
+        uid_map_path = KNOWLEDGE_DIR / "contacts" / "uid_map.json"
+        with uid_map_path.open() as f:
+            uid_data = json.load(f)
+        for entry in uid_data.get("users", []):
+            sid = entry.get("slack_user_id")
+            if not sid:
+                continue
+            extras = set()
+            for key in ("preferred_first", "formal_first", "last", "canonical_name", "rippling_name"):
+                val = entry.get(key)
+                if val:
+                    extras.update(val.lower().split())
+            uid_aliases[sid] = extras
+            preferred = entry.get("preferred_first") or entry.get("formal_first") or ""
+            last = entry.get("last") or ""
+            full = f"{preferred} {last}".strip()
+            if full:
+                uid_full_name[sid] = full
+    except Exception:
+        pass
+
     # Build per-user (name, token_set) pairs for tighter matching.
     # We match by exact full-name (case-insensitive) first, then fall back
     # to requiring the ICS first+last tokens both be present in exactly
@@ -550,6 +579,12 @@ def _detect_ooo(calendar_data, users):
             continue
         lower = uname.lower()
         tokens = set(lower.split())
+        sid = u.get("slack_user_id")
+        if sid and sid in uid_aliases:
+            tokens |= uid_aliases[sid]
+            # Also let the canonical "Preferred Last" form satisfy the exact-match path
+            if sid in uid_full_name:
+                exact_lookup[uid_full_name[sid].lower()] = uname
         exact_lookup[lower] = uname
         user_entries.append((uname, lower, tokens))
 
