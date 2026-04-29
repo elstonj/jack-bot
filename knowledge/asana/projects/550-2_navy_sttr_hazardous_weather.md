@@ -46,9 +46,9 @@
   - Subcontractor contact tracking (duplicate records in task list)
 
 ## Recent Activity
-- **Technical work 100% complete** — Maciej Stachura confirmed April 17–20, 2026: "Tasks for the Navy project is done" (administrative deliverables and invoicing remain pending)
+- **Technical work 100% complete** — Maciej Stachura confirmed April 17–22, 2026: "Tasks for the Navy project is done" (administrative deliverables and invoicing remain pending)
 - **Option Kickoff & Invoice submitted April 2, 2026 via WAWF** — Per Meredith Needham (April 17, 2026): "Navy STTR was submitted along with the invoice" (13 days ahead of deadline)
-- **Meredith Needham verified Asana due dates alignment** (April 17, 2026) with real-world submission status; flagged for ongoing review
+- **Meredith Needham verified Asana due dates alignment** (April 17, 2026) with real-world submission status; flagged for ongoing review and committed to ensuring all dates are current
 - **Report templates & WAWF instructions confirmed available** — Meredith Needham provided links (April 17, 2026):
   - Report templates: https://navysbir.com/links_forms.htm
   - WAWF submission guide: https://docs.google.com/document/d/1Ea2PCGd6xCM0RdUq0AGeMnHPoyHjwV-WrF-1N7E4-Vc/edit?usp=sharing
@@ -78,4 +78,4 @@
   - BST (Prime): $138,494
   - Subcontractors: $66,290 (ERAU + ODU)
   - Chain: BST (Prime) → ERAU sub → University of Miami (Jun Zhang) sub
-- **Payment Method**: Wide Area Workflow (W
+- **Payment Method

@@ -52,6 +52,10 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - SASCWATCH has one S0 left over from previous season; decision made not to allow NOAA to use it (April 23, 2026)
 - Jack Elston confirmed awareness of leftover aircraft status (April 23, 2026)
 
+**Marketing & Content (April 28, 2026):**
+- Jack Elston created pull quotes for marketing content; notes they were created as jokes but indicates potential broader marketing use (April 28, 2026)
+- Dan Prendergast confirmed that quoted individuals would likely endorse/undersign the quotes (April 28, 2026)
+
 ## Projects & Initiatives
 
 **S0 Hurricane Aircraft System:**
@@ -93,7 +97,4 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
   - Issue: UAS receiving retransmitted COMMAND while in WAITING_FOR_WAYPOINTS state causes reset
   - Duplicate handling exists for WAITING_FOR_FINAL_MAP_RX but missing for WAITING_FOR_WAYPOINTS
   - Requires code fix to handle retransmitted commands gracefully
-- Tablet connectivity losses: SYSTEM_INIT requests flooding at 574 attempts with only 1 response during 10-minute disconnect
-  - Root cause: Met data rate increased from 1Hz (pre-flight) to 5Hz (flight) consuming ~90% bandwidth
-  - Impact: Nearly saturated communications bandwidth preventing proper tablet reconnection handshakes
-  - Mitigation: Requires bandwidth optimization; science team communication essential for bal
+- Tablet connectivity losses: SYSTEM_INIT requests flooding at 574 attempts

@@ -4,7 +4,7 @@
 - **Client/Customer:** Unmanned Experts Inc. (CEO: Keven Gambold, 303-717-0031, kagambold@unmannedexperts.com)
 - **Dollar Value:** $1,249,945 total project budget; $190,000 funding to Black Swift Technologies
 - **Timeline:** September 2024 - May 2026 (21 months); Project Due: February 27, 2026
-- **Status:** ⚠️ **ARCHIVED — Project Complete as of April 10, 2026.** All BST deliverables completed; final invoice sent; final report handled by UMEX. Per Jack Elston (2026-04-20): "ADONIS (035-1) project is ARCHIVED and fully complete. UMEX handled the final report, BST sent the final invoice. Do NOT list any ADONIS tasks as priorities, ever again. Permanently exclude from briefings."
+- **Status:** ✅ **ARCHIVED — Project Complete as of April 10, 2026.** All BST deliverables completed; final invoice sent; final report handled by UMEX. Per Jack Elston (2026-04-20): "ADONIS (035-1) project is ARCHIVED and fully complete. UMEX handled the final report, BST sent the final invoice. Do NOT list any ADONIS tasks as priorities, ever again. Permanently exclude from briefings."
 - **Team Members:** Alex Lomis (Project Owner/Primary), Jack Elston, Josh Fromm, Maciej Stachura, Nate Straus (PIC), Meredith O'hara Needham, Beck Cotter
 - **Risk Signals:** None. Project closed successfully with no open BST deliverables.
 
@@ -14,7 +14,7 @@
 3. **Deliverable 3: A1 Swarming Flight Tests** - Apr-Jun 2025 ✓ (Completed Jul 9, 2025)
 4. **Deliverable 4: A2 Interim Flight Tests** - Jul-Oct 2025 ✓ (Completed Nov 19, 2025)
 5. **Deliverable 5: Mothership-dropped A2 Flight Tests** - Nov 2025-Feb 2026 ✓ (Completed Mar 18, 2026)
-6. **Deliverable 6: Final Report** - ✓ (Completed Apr 10, 2026 by UMEX, not BST)
+6. **Deliverable 6: Final Report** - ✓ (Completed Apr 10, 2026 by UMEX, **not BST responsibility**)
 
 **Aircraft Deliverables:**
 - 2x S0 VTOL ✓ (delivered Jan 22, 2026)
@@ -31,8 +31,8 @@
 - **Notable Patterns:** Milestone-driven structure with formal reporting requirements; hardware-heavy integration work led by Alex Lomis; extensive custom component design and manufacturing; training/travel required for pilot operations
 
 ## Recent Activity
-- **April 20, 2026:** Final archival confirmation — Jack Elston reconfirmed: "ADONIS (035-1) project is ARCHIVED and fully complete. Do NOT list any ADONIS tasks as priorities, ever again. Permanently exclude from briefings." Daniel Prendergast (2026-04-20) confirmed final closure and directed permanent exclusion from all briefings.
-- **April 17, 2026:** Team clarification — Alex Lomis and Jack Elston confirmed BST had **no responsibility** for final report deliverable; UMEX handled it completely.
+- **April 20, 2026:** Final archival confirmation — Jack Elston: "ADONIS (035-1) project is ARCHIVED and fully complete. UMEX handled the final report, BST sent the final invoice. Do NOT list any ADONIS tasks as priorities, ever again. Permanently exclude from briefings." Daniel Prendergast (2026-04-20) confirmed: "That is complete and the entire ADONIS project has been closed out."
+- **April 17, 2026:** Team clarification — Alex Lomis and Jack Elston confirmed BST had **no responsibility** for final report deliverable; UMEX handled it completely. (Note: Jack also reported fixing AI bugs that were causing obsession with the ADONIS final report in tracking systems.)
 - **April 10, 2026:** Project closure — Final invoice sent by Meredith O'hara Needham; Final Report milestone completed by UMEX (not BST)
 - **March 18, 2026:** Completed MS7 Swarming S0 AD Flight and Mothership-dropped Swarming Flight milestone
 - **January 22, 2026:** Delivered all aircraft (2x S0 VTOL, 4x S0 AD)
@@ -60,8 +60,18 @@
 - Priority: Medium
 - Customer Type: Commercial
 
-**Final Report Clarification (TEAM-CONFIRMED):** Per Alex Lomis (2026-04-17), Jack Elston (2026-04-17), and Daniel Prendergast (2026-04-20): BST had **no responsibility** for the final report deliverable. UMEX handled the final report completely. The May 2026 timeline for final report in the contract was a placeholder; BST's involvement ended with completion of aircraft delivery and flight testing in March 2026.
+**Final Report Scope Clarification (TEAM-CONFIRMED):** Per Alex Lomis (2026-04-17) and Jack Elston (2026-04-20): BST had **no responsibility** for the final report deliverable. UMEX handled the final report completely. The May 2026 timeline for final report in the contract was a placeholder; BST's involvement ended with completion of aircraft delivery and flight testing in March 2026.
 
 **Program Performance:** Project successfully transitioned through all six major flight test milestones with minimal delays. All hardware deliverables completed on schedule.
 
-**⚠️ ARCHIVAL DIRECTIVE (PERMANENT):** Project is **ARCHIVED and fully closed as of April 10, 2026.** Per Jack Elston (2026-04-20) and Daniel Prendergast (2026-04-20): **"Do NOT list any ADONIS tasks as priorities, ever again. Permanently exclude from briefings."** This project should never appear in future briefings, priority lists, or status reports.
+---
+
+## ⚠️ ARCHIVAL DIRECTIVE (PERMANENT)
+
+**Project is ARCHIVED and fully closed as of April 10, 2026.**
+
+**Per Jack Elston (2026-04-20) and Daniel Prendergast (2026-04-20):**
+
+> "ADONIS (035-1) project is ARCHIVED and fully complete. UMEX handled the final report, BST sent the final invoice. Do NOT list any ADONIS tasks as priorities, ever again. Permanently exclude from briefings."
+
+**This project should NEVER appear in future briefings, priority lists, status reports, or task recommendations.**

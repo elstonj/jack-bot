@@ -1,93 +1,85 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 922 (881 previous + 41 new)
-- **Date range:** March 24 – April 28, 2026 (36 days)
-- **Approximate volume:** ~25.6 messages per day (sustained)
-- **Pattern:** Dominated by newsletters, alerts, and automated notifications (78–82% external/automated). New 41-message sample (Apr 27–28) confirms sustained high-volume breaking news engagement, active flight testing coordination with NanoVEU, and continued industry/defense content consumption. **Notable spike**: Apr 27 shows 23 messages in single day—predominantly evening/night activity (18:00–23:50 UTC), suggesting batch processing or off-hours email review.
+- **Total messages scanned:** 974 (922 previous + 52 new)
+- **Date range:** March 24 – April 29, 2026 (37 days)
+- **Approximate volume:** ~26.3 messages per day (sustained)
+- **Pattern:** Dominated by newsletters, alerts, and automated notifications (78–82% external/automated). New 52-message sample (Apr 28–29) confirms sustained high-volume breaking news engagement, **CRITICAL escalation in NanoVEU flight testing coordination**, Google Docs collaboration on defense/SOCOM topics, and continued industry/defense content consumption.
+- **Notable patterns**: 
+  - Apr 28: Heavy internal flight testing coordination (multiple Daniel Prendergast/Nikhila Ravikumar exchanges marked IMPORTANT)
+  - Apr 29: NASA Aero RFI, S2/S3 projects surfacing in Google Docs comments; profile views uptick (8 profile views, 2805 impressions noted)
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Senders
-1. **Jack Elston** (elstonj@blackswifttech.com) — Primary work coordinator; **NEW**: Receiving Brody Basset replies on Europe Market Access for UAS/C-UAS/Space Defense forum (marked IMPORTANT, Apr 27); continued NanoVEU flight testing stewardship
-2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **NEW/ELEVATED**: Direct collaboration with NanoVEU on flight testing; multiple flight testing updates marked IMPORTANT (Apr 27, 12:26, 13:39 CDT); coordinating directly with Nikhila Ravikumar
-3. **Rippling** (no-reply@rippling.com) — Task/action notifications
-4. **Asana** (no-reply@asana.com) — Task management
-5. **Generic Information / Supplier-Relationship** (info@blackswifttech.com) — Receiving industry newsletters and promotional content; UAS Magazine, UAS Summit & Expo, Dronitaly event promotions
-6. **Joshua Baer / Media Relations** (media@blackswifttech.com) — **NEW**: UAS VISION daily news routed to media function (Apr 27)
+1. **Jack Elston** (elstonj@blackswifttech.com) — **ESCALATED**: 
+   - Direct coordination on Europe Market Access forum (Apr 28, 15:15, 15:34, 15:44 CDT)
+   - Forwarding "BSW Session | ACTION NEEDED" (Apr 28, marked IMPORTANT)
+   - Google Docs comment on "NASA Aero RFI: S3..." (Apr 29, marked IMPORTANT)
+   - **Signal**: Active stewardship of NanoVEU partnership, European defense market entry, NASA RFI response coordination
+
+2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **CRITICAL/ELEVATED**: 
+   - **4 flight testing update exchanges with Nikhila Ravikumar** (Apr 28, 13:09, 15:44, 16:01, 17:49 CDT—all marked IMPORTANT)
+   - Google Docs share: "BST/53rd/SOCOM Discussion re S0-AD" (Apr 28, 17:34 UTC, marked IMPORTANT)
+   - **Signal**: Real-time flight testing execution; multi-party SOCOM involvement visible; Daniel acting as primary BST flight test coordinator with NanoVEU
+
+3. **Beck Cotter** — **NEW**: 
+   - Shared "Planning doc" via Google Docs (Apr 28, 17:25 UTC, marked IMPORTANT)
+   - **Signal**: Strategic planning underway; unknown role/department
+
+4. **Rippling** (no-reply@rippling.com) — Task/action notifications
+
+5. **Asana** (no-reply@asana.com) — Task management
 
 ### Top External Senders (Updated)
-1. **The New York Times** (breakingnews, editorpicks, nytdirect) — **SUSTAINED VERY HIGH**: 5 messages in new sample (Apr 27):
-   - Breaking: Trump assassination attempt at press gala (Apr 27, 18:55 UTC, marked IMPORTANT)
-   - Trump/Iran nuclear policy (Apr 27, 21:01 UTC, marked IMPORTANT)
-   - China/Meta A.I. acquisition order (Apr 27, 10:22 UTC)
-   - "The Morning" briefing digest (Apr 27, 11:00 UTC)
-   - Fashion/lifestyle piece: suit button etiquette (Apr 27, 12:01 UTC, marked IMPORTANT—anomalous marking, likely auto-flagged)
-   - **Signal**: Real-time breaking news on security/political topics remains top priority; all security/policy content marked IMPORTANT
+1. **The New York Times** (breakingnews, editorpicks, nytimes) — **SUSTAINED VERY HIGH**: 
+   - 8 messages in new sample (Apr 28):
+     - **Breaking news cluster (political/regulatory)**: F.C.C. ABC broadcast license review (18:46 UTC), Justice Dept. Comey indictment (18:30 UTC), Trump administration/ballroom proceeding (15:54 UTC), U.S. gas prices/Iran war (15:17 UTC), U.A.E./OPEC exit (13:12 UTC)—all marked or categorized as breaking news/updates
+     - **Editor picks**: Greatest living American songwriters (17:56 UTC, marked IMPORTANT), MLB rankings (20:31 UTC, marked IMPORTANT), Dementia risk medications (12:01 UTC, marked IMPORTANT)
+   - **Signal**: Continued real-time breaking news consumption focused on security/regulatory/political topics; editor picks marked IMPORTANT suggest curation
 
-2. **NanoVEU** (Nikhila Ravikumar, Mark Goranson, Tom Wilp, Mohamed Sabry, Shantanu) — **ACTIVE/CRITICAL**: 
-   - Multiple flight testing updates marked IMPORTANT (Apr 27, 14:15, 18:00, 18:10 UTC)
-   - Nikhila Ravikumar directly coordinating with both Jack Elston and Daniel Prendergast
-   - **Signal**: Flight testing actively in progress; multi-stakeholder escalation visible; real-time coordination suggests testing phase is live or imminent
+2. **NanoVEU** (Nikhila Ravikumar, Mark Goranson, Tom Wilp, Mohamed Sabry, Shantanu) — **CRITICAL ACTIVE**: 
+   - **Flight testing coordination intensified**: 4 marked IMPORTANT messages exchanged with Daniel Prendergast (Apr 28, 13:09, 15:44, 16:01, 17:49 CDT)
+   - Nikhila Ravikumar reply (Apr 28, 19:02 UTC, marked IMPORTANT)
+   - **Signal**: Flight testing actively in progress; daily coordination rhythm; multiple escalations suggest live testing phase or critical milestone
 
-3. **Brody Basset** (bb@defensecoalitions.org) — **NEW/IMPORTANT**: 
-   - 2 messages (Apr 27, 23:17, 23:50 UTC) discussing "Europe Market Access for UAS, C-UAS & Space Defense: Transatlantic Defense Industry Access Forum"
-   - Correspondence routed to Jack Elston, marked IMPORTANT
-   - **Signal**: BST pursuing European defense market access; Brody Basset appears to be defense coalition broker/facilitator
+3. **Brody Basset** (bb@defensecoalitions.org) — **SUSTAINED/IMPORTANT**: 
+   - 2 reply exchanges with Jack Elston (Apr 28, 15:34, 15:44 CDT, marked IMPORTANT)
+   - Re: "Europe Market Access for UAS, C-UAS & Space Defense: Transatlantic Defense Industry Access Forum"
+   - **Signal**: Ongoing European defense market access negotiations; Brody Basset continues as key broker
 
-4. **LinkedIn** (job alerts, recruiting, notifications, news) — **SUSTAINED**:
-   - Anduril Industries Program Manager job alert (Apr 28, 03:00 UTC)
-   - Personal profile activity: 2,805 impressions last week (Apr 27)
-   - Pending engineering design requests from "John Vittie and other clients" (Apr 27)
-   - Unmanned Systems Technology LinkedIn group activity (Apr 27)
-   - **Signal**: Active LinkedIn presence; recruiting activity visible; possible talent/business development engagement with other defense primes (Anduril)
+4. **Kylie Bliss** (kbliss@hubspot.com) — **NEW/ANOMALOUS**: 
+   - Sent to paige.smith@bst.aero (alternate domain) with subject "quick question" (Apr 28, 07:42 PDT, marked IMPORTANT)
+   - **Signal**: External contact (HubSpot); alternate email domain suggests business development or marketing relationship; marked IMPORTANT by recipient
 
-5. **The Athletic Pulse** (TheAthletic@e1.theathletic.com) — **SUSTAINED**: NFL/Super Bowl prediction content marked IMPORTANT (Apr 27, 10:33 UTC)
+5. **LinkedIn** (messages, updates, invitations, groups, recruiting) — **SUSTAINED/ACTIVE**: 
+   - **Recruiting activity**: Anduril Industries Program Manager alert (Apr 29, 02:59 UTC); $80K+ Marketing Specialist jobs (Apr 28, 15:00 UTC, marked IMPORTANT); personal profile: 8 profile views (Apr 29, marked IMPORTANT)
+   - **Group activity**: Aviation Network conversation alert (Apr 28, 18:00 UTC); UAV TECH group welcome (Apr 28, 12:59 UTC); Defense Advancement Newsletter #211 (Apr 28, 15:12 UTC); Geo Week "Continuous Capture" infrastructure (Apr 28, 20:17 UTC)
+   - **Signal**: Active professional presence; recruiting engagement sustained; infrastructure/geospatial content emerging
 
-6. **Air & Space Forces Magazine** — **SUSTAINED**: 
-   - A&SF Daily Report: B-1/B-2 extended plans (Apr 27, 03:49 UTC)
-   - Mitchell Institute: Space Force budget management (Apr 27, 05:06 UTC, marked IMPORTANT)
+6. **UAS Industry Events & Publications** — **SUSTAINED/ACTIVE**:
+   - Commercial UAV Expo: Featured in exhibit hall preview (Apr 28, 12:30 CDT)
+   - Dronitaly 2026: Interview with Paolo Angelini (Apr 28, 10:37 UTC—Italian language, routed to info@blackswifttech.com)
+   - UASweekly Daily Newsletter (Apr 28, 21:01 UTC, routed to info@)
+   - **Signal**: BST actively promoting at industry events; international expo presence
 
-7. **UAS Industry Events & Publications** — **NEW/ELEVATED**: 
-   - UAS Summit & Expo (20th Annual): speaking opportunity invitation (Apr 27)
-   - Commercial UAV Expo: "next generation of drone leaders" (Apr 27)
-   - UAS Magazine: complimentary subscription promotion (Apr 27)
-   - UASweekly Daily Newsletter (Apr 27)
-   - Dronitaly 2027: Italian drone expo (Apr 27, Italian language)
-   - **Signal**: BST (or Paige) being actively recruited for speaking/thought leadership roles; sustained conference/expo engagement
+7. **Robotics.Press** — **NEW/NOTABLE**: 
+   - Editor coverage notification: "Black Swift Technologies — your coverage on Robotics.Press" (Apr 29, 00:59 UTC, marked IMPORTANT, routed to info@blackswifttech.com)
+   - **Signal**: Media/PR coverage tracking; BST being featured on robotics news outlet
 
-8. **Echo Blue** (Nina Sabak, nina.sabak@echoblue.co.uk) — **RENEWED CONTACT**: 
-   - Re: "Your 3-month UST review" (Apr 27, 06:08 UTC, marked IMPORTANT)
-   - **Signal**: Ongoing relationship review/assessment with UK UAS partner; formal review cycle in progress
+8. **Air & Space Forces Magazine** — **SUSTAINED**: 
+   - A&SF Daily Report: Space Force commercial tech funding '27 budget (Apr 28, 03:54 UTC, marked IMPORTANT)
+   - **Signal**: Continued Space Force budget/procurement engagement
 
-9. **UAS VISION** (Russ, russ@uasvision.com) — Daily news routed to media function (Apr 27)
+9. **Aaron Voehringer (via Generic Information)** — **NEW**: 
+   - "Black Swift Tech x TQL" (Apr 28, 20:03 UTC, routed to info@)
+   - **Signal**: Partnership/vendor relationship with TQL (transportation/logistics company)
 
-10. **Previous correspondents sustained**: Zapier, Google Ads, Adobe Creative Cloud, Agritecture, Elementor, Verizon, BannerBuzz, Geo-matching, Google Ads (feedback request)
+10. **Lucy Jenner** (lucy.jenner@saemediagroupevents.com) — **NEW**: 
+    - "Two weeks to go - Loitering Munitions USA 2026" (Apr 28, 23:40 +10:00, routed to Paige directly)
+    - **Signal**: BST participating in loitering munitions industry event
 
-### Internal vs External Breakdown (Confirmed)
-- **~80% external** (news, newsletters, industry events, promotions, automated alerts)
-- **~10% internal** (BST staff, task systems, flight testing coordination)
-- **~10% strategic business** (NanoVEU partnership, Brody Basset/defense coalition, Echo Blue review, LinkedIn recruiting)
-
----
-
-## Topic Patterns
-
-### Primary Subject Themes (Updated & Expanded)
-
-1. **Active Flight Testing Collaboration — NanoVEU** (CRITICAL/ONGOING)
-   - **Multiple marked IMPORTANT messages (Apr 27)**:
-     - Daniel Prendergast coordinating flight testing updates with Nikhila Ravikumar (12:26, 13:39 CDT)
-     - Nikhila Ravikumar sending flight testing updates to both Jack Elston and Daniel Prendergast (14:15, 18:00, 18:10 UTC)
-   - **Signal**: Flight testing actively executing; coordination between BST (Daniel Prendergast, Jack Elston) and NanoVEU (Nikhila Ravikumar) intensified; multiple stakeholder escalation suggests critical phase or milestone
-
-2. **Breaking News / Real-Time Security & Political Information** (SUSTAINED/CRITICAL)
-   - **Trump security incident (Apr 27)**: Press gala assassination attempt; suspect charged (marked IMPORTANT)
-   - **Trump/Iran nuclear policy** (marked IMPORTANT)
-   - **China/Meta A.I. acquisition** (breaking news)
-   - **Signal**: Paige continues real-time consumption of security, political, and geopolitical breaking news; assassination attempt marked IMPORTANT alongside business-critical flight testing emails
-
-3. **European Defense Market Access** (NEW/EMERGING/STRATEGIC)
-   - **Brody Basset / Defense Coalitions
+11. **LightWare (via Media Relations)** — **NEW**: 
+    - "Meet the only Blue UAS-listed microLiDAR® team at Xponential" (Apr 28, 07

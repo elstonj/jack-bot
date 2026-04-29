@@ -1,83 +1,96 @@
 # Dan Prendergast — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 26 emails across ~4 days (Apr 25–28, 2026)
-- **Estimated volume:** Moderate; selective but active engagement; higher concentration on Apr 27 (12 emails in single day)
+- **Total messages scanned:** 48 emails across ~5 days (Apr 25–29, 2026)
+- **Estimated volume:** Moderate-to-active; selective but consistent engagement; concentrated activity on Apr 27–28 (heaviest days)
+- **Pattern:** High outbound initiation; direct correspondence with government/external stakeholders
 
 ## Key Correspondents
 
 ### Internal (Black Swift Technologies)
-- **Jack Elston** (elstonj@blackswifttech.com) — Primary collaborator; initiates meetings, coordinates cross-functional discussions, relays external feedback
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — Secondary internal contact; Educational Inquiries thread
-- **Maciej Stachura** (stachura@blackswifttech.com) — Recipient on S2 MHP discussion
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — Recipient on S2 MHP discussion
+- **Jack Elston** (elstonj@blackswifttech.com) — Primary internal coordinator; relay point for external discussions; receives copies on major initiatives
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — Recipient on Arctic Demo coordination
+- **Maciej Stachura** (stachura@blackswifttech.com) — S2 MHP discussion recipient
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — S2 MHP discussion recipient
 
-### External (Government)
-- **NASA:**
-  - Will Wade (william.o.wade@nasa.gov, ARC-JO) — Active discussion on S20009 project
+### External (Government & Defense)
+- **U.S. Air Force:**
+  - Ryan A. Rickert, Lt Col USAF AFRC 53 WRS/ARWO (ryan.rickert.4@us.af.mil) — **NEW; RFI S0 direct engagement; marked IMPORTANT; active multi-turn discussion**
 - **U.S. Military/Defense:**
-  - Evan M. Wolff, USSOCOM (evan.m.wolff.mil@socom.mil) — RFI S0 discussion; marked IMPORTANT
-  - Michael C. Jagelewski, USSOCOM (michael.c.jagelewski.civ@socom.mil) — Copied on RFI S0 thread
+  - Evan M. Wolff, USSOCOM (evan.m.wolff.mil@socom.mil) — RFI S0 coordination; copied on Dan's responses to USAF
+  - Michael C. Jagelewski, USSOCOM (michael.c.jagelewski.civ@socom.mil) — RFI S0 thread
+- **NASA:**
+  - Will Wade (william.o.wade@nasa.gov, ARC-JO) — S20009 project discussion
 - **International Government:**
-  - Paulino Alonso Rivera (paulino.alonso@sspc.gob.mx, Mexico) — AFAC requirements discussion; marked IMPORTANT
+  - Paulino Alonso Rivera (paulino.alonso@sspc.gob.mx, Mexico) — AFAC requirements; direct correspondence; marked IMPORTANT
 
-### External (Industry & Academic)
+### External (Industry & Aerospace Equipment)
 - **NanoVeu:**
-  - Nikhila Ravikumar (Nikhila@nanoveu.com) — Flight Testing Updates; marked IMPORTANT
-  - Mohamed Sabry (msabry@nanoveu.com) — ECSDOT Meeting acceptance
+  - Nikhila Ravikumar (Nikhila@nanoveu.com) — Flight Testing Updates; **HIGH FREQUENCY on Apr 28 (3 messages same day); marked IMPORTANT**
+  - Scott Smyser (Scott@nanoveu.com) — Additional ECSDOT Flights coordination
+- **Krateo Sky / Atmolab Integration:**
+  - Lisa Marie Cheney (LisaMarie@krateosky.com) — Atmolab Camera System discussion; marked IMPORTANT
+  - Brian Grubel (Brian@krateosky.com) — Atmolab coordination
+- **C-Astral (Slovenia):**
+  - Nejc Trost (nejc.trost@c-astral.com) — **NEW; Atmolab Camera System integration; marked IMPORTANT**
 - **Stanford University:**
-  - Tanay Topac (tanaytopac@stanford.edu) — S2 MHP discussion
+  - Tanay Topac (tanaytopac@stanford.edu) — S2 MHP data alignment; marked IMPORTANT
   - F.K. Chang (fkchang@stanford.edu) — S2 MHP discussion
   - Dov Aaron (daharon@stanford.edu) — S2 MHP discussion
   - Fu-Kuo Chang (fukuochang@icloud.com) — S2 MHP discussion
 - **University of Maryland Eastern Shore:**
-  - Christopher E. Hartman (chartman@umes.edu) — Black Swift Update discussion
+  - Christopher E. Hartman (chartman@umes.edu) — Black Swift Update; marked IMPORTANT
 - **Defense Industry:**
-  - Brody Basset (bb@defensecoalitions.org) — Europe Market Access for UAS/C-UAS discussions
+  - Brody Basset (bb@defensecoalitions.org) — Europe Market Access for UAS/C-UAS/Space Defense
+
+### External (Business Development & Geographic)
+- **Canada (Arctic Operations):**
+  - Noah Ray (nray@investottawa.ca, Invest Ottawa) — **NEW; Arctic Demo in Ottawa coordination; marked IMPORTANT**
+  - Trenton McKibben (Trenton.McKibben@nextechsol.com) — Arctic Demo partner
+- **Frontier Airlines** — Promotional (automated)
+- **Overleaf** — Collaborative document platform (S3 Manual shared by Jack Elston; automated notification)
 
 ## Topic Patterns
 
 ### Active Projects/Programs
-- **S2 MHP** — Multi-party research/development initiative (Stanford + BST internal team)
-- **S20009** — NASA discussion thread; appears to be a specific program or contract number
-- **RFI S0** — Request for Information; active engagement with USSOCOM; marked IMPORTANT
-- **Flight Testing Updates** — Ongoing NanoVeu coordination; marked IMPORTANT
-- **Popocatépetl Volcanic Gas Monitoring Campaign** — Mexico AFAC requirements; marked IMPORTANT
-- **ECSDOT Meeting** — NanoVeu meeting acceptance
+- **S2 MHP** — Multi-party Stanford research initiative; data alignment discussions ongoing
+- **S3 Manual** — **NEW; document/specification; shared via Overleaf by Jack Elston**
+- **RFI S0** — **CRITICAL; active USAF (Lt Col Rickert) + USSOCOM (Wolff) engagement; multiple same-day exchanges on Apr 28; marked IMPORTANT**
+- **Flight Testing Updates** — NanoVeu coordination; high-frequency Apr 28
+- **Popocatépetl Volcanic Gas Monitoring Campaign** — Mexico AFAC requirements; direct government correspondence
+- **Arctic Demo in Ottawa** — **NEW; Canada-based demonstration/evaluation; marked IMPORTANT; multi-stakeholder coordination**
+- **ECSDOT Flights** — **NEW; expanded flight testing request to NanoVeu**
+- **Atmolab Camera System** — **NEW; payload integration project; Krateo Sky + C-Astral partnership; marked IMPORTANT**
+- **Europe Market Access for UAS, C-UAS & Space Defense** — Transatlantic defense industry access forum
 
 ### Topic Clusters
-- **UAS/Drone Systems:** Modular payloads, RPAS operations, C-UAS, counter-UAS defense
-- **Defense/Aerospace:** Transatlantic defense industry access, USSOCOM engagement, NASA collaboration
-- **Market Development:** Europe market access for UAS; educational/outreach inquiries
-- **Flight Operations:** Testing coordination, volcanic gas monitoring application
+- **UAS/Drone Payload Systems:** Atmolab camera integration, modular payloads, ECSDOT flights, volcanic gas monitoring sensors
+- **Government/Defense RFI:** USAF + USSOCOM active request; tactical/operational engagement
+- **Flight Testing & Operations:** NanoVeu partnership, Arctic demo, ECSDOT expansion, Mexico regulatory compliance
+- **Transatlantic Defense Market:** Europe access forum, USAF engagement, international partnerships (C-Astral, Canada)
+- **Sensor/Camera Integration:** Atmolab system with Krateo Sky and C-Astral platforms
+- **Scientific/Environmental Monitoring:** Volcanic gas monitoring in Mexico; Arctic operations in Canada
 
 ### Newsletters/Subscriptions (Automated)
+- **Frontier Airlines** — Travel deals/promotions
+- **Overleaf** — Document collaboration platform notifications
 - **Asana** — Weekly portfolio reporting
 - **Air & Space Forces Magazine** — Weekend news alerts
 
 ## Communication Patterns
 
-- **High-priority government engagement:** Multiple IMPORTANT flags on USSOCOM (Wolff), Mexican government (Rivera), and flight testing (Ravikumar) threads — suggests Dan handles government/regulatory affairs
-- **Rapid response cycles:** Apr 27 shows 12 emails; multiple back-and-forth exchanges with Jack Elston on same-day topics (UAS modular payloads webinar, RFI responses)
-- **Direct outbound communication:** Dan originates replies directly to government agencies (NASA, USSOCOM, Mexico) — suggests he has authority/expertise on these topics
-- **Multi-stakeholder coordination:** Jack Elston acts as internal relay/coordinator; Dan maintains direct external relationships
-- **Time zone awareness:** Emails sent/received across UTC and MDT; international engagement patterns visible
+- **High-priority military engagement:** RFI S0 thread shows rapid back-and-forth with Lt Col Rickert (USAF) on Apr 28; marked IMPORTANT; unclassified but DoD-sourced ("[Non-DoD Source]" caveat in subject lines suggests sanitized/relayed military traffic)
+- **Direct government negotiation:** Dan responds directly to USAF and Mexican federal authorities; coordinates with USSOCOM in parallel
+- **Same-day multi-turn exchanges:** NanoVeu flight testing (3 exchanges Apr 28); RFI S0 (multiple turns Apr 28); suggests rapid decision-making or urgent clarifications
+- **Payload integration coordination:** Atmolab system involves multiple European/international suppliers (Slovenia C-Astral, US Krateo Sky); Jack Elston coordinates internally
+- **Geographic expansion signaling:** New Arctic Demo (Canada), Mexico operations, Europe market access — suggests strategic geographic diversification
+- **Multi-stakeholder project management:** Arctic Demo includes Invest Ottawa, NextTech Solutions, BST internal team (Elston, Cotter); Dan handles external coordination
+- **Time zone flexibility:** Emails sent/received across UTC, UTC+2 (C-Astral), UTC-6 (MDT), Canada timezone — Dan operates on global schedule
 
 ## Key Relationships
 
-- **Jack Elston** — Chief internal collaborator; filters, coordinates, and escalates external discussions; appears to be operations/program manager
-- **Nikhila Ravikumar (NanoVeu)** — Flight testing operations partner; high-frequency, marked IMPORTANT coordination
-- **Evan M. Wolff (USSOCOM)** — Key military customer contact; RFI discussions
-- **Will Wade (NASA)** — Government space agency partner; S20009 program
-- **Paulino Alonso Rivera (Mexico AFAC)** — International government regulatory/operational contact
-- **Stanford University team** (Topac, Chang, Aaron) — Active research partners on S2 MHP
-- **Christopher E. Hartman (UMES)** — Academic/educational relationship; Black Swift updates
-
-## Notable Observations
-
-- **Government affairs role:** Dan engages directly with NASA, USSOCOM, Mexican federal authorities, and international defense industry contacts — suggests senior business development, government relations, or program management function
-- **RFI S0 (USSOCOM) marked IMPORTANT:** This appears to be an active opportunity or requirement response with military significance
-- **Volcanic gas monitoring use case:** Popocatépetl campaign suggests BST is positioning UAS/drone systems for scientific/environmental monitoring in regulated airspace (Mexico)
-- **Transatlantic defense market:** Europe-focused UAS/C-UAS/space defense access suggests strategic market expansion effort
-- **Bimodal communication style:** Acts as both technical discussion participant (Flight Testing, UAS payloads) and business development lead (government RFIs, market access forums)
-- **Jack Elston as filter/relay:** Elston often appears on emails Dan receives but doesn't directly reply to; suggests a coordinator role between Dan and other stakeholders
+- **Nikhila Ravikumar (NanoVeu)** — **Highest frequency new contact in this batch; 3 exchanges Apr 28 alone; core flight testing operations partner; marked IMPORTANT**
+- **Ryan A. Rickert (USAF 53 WRS/ARWO)** — **New primary military contact; active RFI S0 engagement; multi-turn tactical discussion**
+- **Evan M. Wolff (USSOCOM)** — Parallel military coordination on RFI S0; Dan copies Wolff on USAF responses
+- **Jack Elston** — Internal operations/program manager; filters external coordination; manages Atmolab integration, S3 Manual, Arctic Demo logistics
+- **

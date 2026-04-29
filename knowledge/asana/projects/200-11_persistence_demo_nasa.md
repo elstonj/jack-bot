@@ -114,11 +114,12 @@
 - **Source:** NASA contacts + external stakeholder "Joe" recommendation during hurricane ET call
 - **RFI Link:** https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
 - **Competing Internal Opportunities:** INSTAAR (2 demonstrations) and Ottawa/Murphy's demonstration (per Jack Elston, 04/20/26)
-- **Next Steps:** 
-  - Coordinate with Jack Elston and leadership on proposal strategy and scheduling
-  - **Action pending (04/27/26, Maciej Stachura):** Team to use AI tools to begin work on NASA RFI responses; awaiting assignment to lead coordinator
+- **Action Items (04/27/26, Maciej Stachura):** 
+  - **Team to use AI tools to begin work on NASA RFI responses** (Jack Elston or Alex Lomis to lead, per Maciej request)
+  - Update Asana due dates to realistic numbers after ByLight meeting and communicate to stakeholders
+  - Coordinate with team on S0-VTOL workload and resource allocation
 
 ---
 
 **Project Status: Successfully Completed & Archived**  
-All contractual obligations fulfilled, deliverables accepted, payments received, and project closed as of November 24, 2025. Company is actively exploring follow-on opportunities with NASA in Earth observation domain (hurricane monitoring focus).
+All contractual obligations fulfilled, deliverables accepted, payments received, and project closed as of November 24, 2025. Company is actively exploring follow-on opportunities with NASA in Earth observation domain (hurricane monitoring focus). NASA RFI proposal work scheduled to begin in late April 2026.

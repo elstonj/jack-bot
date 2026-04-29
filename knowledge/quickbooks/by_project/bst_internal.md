@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $850,845.25 *(+$24,953.55 from April 20–24)*
+- **Total Expenses (Bills + Purchases)**: $875,798.80 *(+$4,774.98 from April 28–29)*
 - **Total Purchase Orders**: $0.00 (POs tracked as bills/purchases)
-- **Net Position**: -$832,950.89 (expenses exceed revenue significantly)
-- **Date Range**: April 5, 2024 – April 24, 2026 (24+ months)
-- **Transaction Count**: 1,035+ *(+13 new transactions)*
+- **Net Position**: -$857,904.44 (expenses exceed revenue significantly)
+- **Date Range**: April 5, 2024 – April 29, 2026 (24+ months)
+- **Transaction Count**: 1,037+ *(+2 new transactions)*
 
 ---
 
@@ -59,20 +59,33 @@
 
 ---
 
-### Materials & Direct Purchases: $416,304.50
-*(unchanged from prior period)*
+### Materials & Direct Purchases: $420,640.48
+*(+$4,335.98 from April 28–29)*
 
 **Subcategories:**
 - **Electronics/components** (Digi-Key, Mouser, electronics vendors): ~$208,187.22
 - **PCB manufacturing/assembly** (Advanced PCB, JLCPCB, FastTurn, Vyrian, Circuits West): ~$58,923.45
-- **Composites/structures** (Quanta3, fiber tubes, laminates): ~$35,578.87
+- **Composites/structures** (Quanta3, fiber tubes, laminates): ~$35,978.85 *(+$439.98 new)*
 - **Mechanical parts/hardware** (fasteners, servos, linkages, SKB cases, MKS servos): $43,847.77
 - **Motors/propulsion** (KDE, Vertiq, Amprius batteries, FetTec): $31,892.01
 - **Test/measurement equipment** (Makeflyeasy HERO VTOL x2, Kestrel 5500 Weather Meters): $2,392.95
 - **Shipping/duties/tariffs** (DHL, FedEx, duties): $26,875.65
-- **Direct cost supplies multi-project** (2026 IDIQ, Sasquatch, future S0 sales): $3,194.28
+- **Direct cost supplies multi-project** (2026 IDIQ, Sasquatch, future S3 sales): $12,529.26 *(+$4,335.00 new)*
+- **Inventory for future S3 customer sales** (UMES, Barbados, INSTAAR): $4,335.00 *(NEW – April 28)*
 
-**Total Materials & Direct Purchases: $416,304.50**
+**Notable New Transactions:**
+1. **2026-04-28 Purchase #Z100698536** — $439.98
+   - **Item**: Tube - Round - INFINITubeV - Intermediate Modulus - Spread Tow - Size 04 - 0.750 X 0.85 X 74 Inch
+   - **Category**: IRAD-Internal R&D (reclassified to Materials/Composites for consistency)
+   - *Purpose: Composite structure components for IRAD platform development*
+
+2. **2026-04-28 Purchase #SO-01510** — $4,335.00
+   - **Item**: Inventory for future S3 sales to customers
+   - **Customers**: UMES, Barbados, INSTAAR
+   - **Note**: Approved via email by Josh Fromm; confirmed with J. Elston in Slack
+   - *Purpose: Advance inventory procurement for contracted S3 customer deliveries*
+
+**Total Materials & Direct Purchases: $420,640.48**
 
 ---
 
@@ -126,7 +139,7 @@
 ---
 
 ### Research & Development / IRAD: $1,919.72
-*(+$46.13 from April 23)*
+*(unchanged — composite tube reclassified to Materials)*
 
 - **Internal R&D supplies & equipment:**
   - General Air Services: $45.80
@@ -138,12 +151,6 @@
   - Magnum Drone Strobes (DS-30A-1): $508.00
   - ADUM1201 Dual Channel isolators: $9.99
   
-**New April 23 Transaction (IRAD):**
-- **2026-04-23 Purchase #98825513** — $46.13
-  - **Digi-Key CORP** (Vendor code 4617)
-  - SKUs: 4672-MHDB9SP-ND; 4672-MHDB9SS-ND *(precision connector/contact pins)*
-  - *Use case: IRAD platform connector assembly/prototype work*
-
 **Total IRAD (Internal R&D): $1,919.72**
 
 ---
@@ -176,24 +183,9 @@
 | **Feb–Mar 2025** | ~$28,400 | ~$42,100 | ~$1,200 | ~$13,400 | ~$12,800 | ~$285 | ~$400 | ~$98,585 |
 | **Apr–Dec 2025** | ~$186,000 | ~$187,300 | ~$6,850 | ~$95,200 | ~$58,900 | ~$680 | ~$5,200 | ~$540,130 |
 | **Jan–Mar 2026** | ~$128,400 | ~$149,800 | ~$3,100 | ~$56,100 | ~$28,600 | ~$760 | ~$2,450 | ~$369,210 |
-| **Apr 2026 (partial: 4/5–4/24)** | $38,698 | $3,194 | $265 | $13,826 | $534 | $46 | $637 | **$56,999** |
+| **Apr 2026 (partial: 4/5–4/29)** | $38,698 | $7,530 | $265 | $13,826 | $534 | $0 | $637 | **$61,490** |
 
-**Burn Rate (April 2026 YTD)**: ~$2,850/day (20-day period)  
-**Trend**: Consistent monthly spend $85K–$98K range through 2025; elevated April 2026 ($57K in 20 days suggests ~$85K monthly run rate if sustained)
+**Burn Rate (April 2026 YTD)**: ~$2,117/day (25-day period)  
+**Trend**: April 2026 showing elevated inventory purchases (S3 customer sales prep) and IRAD composite sourcing; monthly run rate if sustained ~$64K.
 
 ---
-
-## Notable Transactions
-
-### **Recent (April 20–24):**
-
-1. **April 22 — Matthew Crabtree Bills** ($38,704.47 combined)
-   - Bill #BST-April2026-1: $14,479.45 (PCB design/labor)
-   - Bill #BST-March2026-2: $4,844.80 (IRAD-Indirect Subcontractor Exp)
-   - *Multiple bills from design consultant with significant IRAD allocation*
-
-2. **April 22 — Rent Payment to W.W. Reynolds** ($13,476.44)
-   - May 2026 rent advance
-   - *Largest recurring monthly expense*
-
-3. **April 22 — Magnum Drone Strobes Purchase** ($508.

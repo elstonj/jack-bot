@@ -1,121 +1,61 @@
 # Slack Channels Overview
 
-Last scanned: 2026-04-28 02:23
+Last scanned: 2026-04-29 02:22
 
-Total channels scanned: 12
+Total channels scanned: 11
 
 ## Channels
 
-- **#2025-nasa-autonomy** -- 1 messages -- [2025-nasa-autonomy.md](2025-nasa-autonomy.md)
-- **#by-lite-mustang** -- 3 messages -- [by-lite-mustang.md](by-lite-mustang.md)
 - **#emass** -- 4 messages -- [emass.md](emass.md)
-- **#emass-bst** -- 19 messages -- [emass-bst.md](emass-bst.md)
-- **#flight-testing** -- 28 messages -- [flight-testing.md](flight-testing.md)
-- **#general** -- 5 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 13 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#logparse-website** -- 2 messages -- [logparse-website.md](logparse-website.md)
-- **#marketing** -- 3 messages -- [marketing.md](marketing.md)
-- **#operations** -- 7 messages -- [operations.md](operations.md)
-- **#s3** -- 25 messages -- [s3.md](s3.md)
-- **#swiftcore** -- 3 messages -- [swiftcore.md](swiftcore.md)
+- **#emass-bst** -- 3 messages -- [emass-bst.md](emass-bst.md)
+- **#flight-testing** -- 12 messages -- [flight-testing.md](flight-testing.md)
+- **#general** -- 1 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 12 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#operations** -- 2 messages -- [operations.md](operations.md)
+- **#s0-vtol** -- 1 messages -- [s0-vtol.md](s0-vtol.md)
+- **#s3** -- 62 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 2 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#sbir-volcano** -- 3 messages -- [sbir-volcano.md](sbir-volcano.md)
+- **#swiftcore** -- 8 messages -- [swiftcore.md](swiftcore.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Cross-Channel Strategic Overview
-
-## Active Projects
-
-**NASA SBIR Phase I Autonomy (2025-2026)**
-- Layered, modular flight control architecture development
-- TRL-5 to TRL-7 advancement target
-- Led by Jack Elston, Dan Prendergast, Maciej
-
-**S3 VTOL Aircraft**
-- Long-endurance hybrid fixed-wing/quadcopter with tilting rotors
-- Target: 2-3 hour endurance with autonomous ops
-- Led by Joshua Fromm (design), Jack Elston (systems/firmware)
-
-**SwiftCore Drone System**
-- Primary technical platform for firmware, flight ops, and testing
-- Active across 2020-2025 with sustained high activity
-- Core to company's technical operations
-
-**By-Lite Mustang (USAF Contract)**
-- Two-phase approach: demonstrate limitations then develop Chilli airframe
-- Mission: 400km range at 30m/s with 4kg payload
-- Led by Maciej (flight ops), supporting full team
-
-**eMASS AI Chip Integration**
-- Custom ML-based flight controller on E2 platform
-- Energy management system (ECSDoT) hardware integration
-- Collaboration with eMASS AI; led by Dan Prendergast (BST), Nikhila (eMASS)
-
-**SwiftWeb/Logparse**
-- Flight log processing and visualization platform
-- Supports S2, E2, Flamewheel, Dronetag and ground stations
-- Led by Ben Busby (infrastructure), Maciej (SDK/parsing)
-
-## Key People & Decision Patterns
-
-**Jack Elston** - Chief technical decision-maker and strategic lead
-- Firmware/autopilot expertise, grant/funding oversight
-- Appears across autonomy, S3, SwiftCore, eMASS, and general channels
-
-**Maciej** - Operations and flight testing lead
-- Project oversight, flight testing coordination, proposal support
-- Central role in By-Lite Mustang, S3, SwiftCore, NASA autonomy
-
-**Dan Prendergast** - Business development and operations
-- eMASS project lead, grant submissions, proposal development
-- Links technical projects to funding strategy
-
-**Joshua Fromm** - Hardware/design engineer
-- S3 lead designer, QA, component sourcing, shop operations
-- Bridges design and operational concerns
-
-**Ben Busby** - Infrastructure and backend
-- SwiftWeb/logparse platform, tablet applications
-- Technical architecture decisions
-
-**Meredith Needham** - Finance and administration
-- Budget tracking, grants administration, operational support
+# Black Swift Technologies - Slack Channel Strategic Overview
 
 ## Cross-Channel Themes
 
-**Flight Testing & Validation**
-- Continuous cycle across SwiftCore, flight-testing, S3, and project-specific channels
-- All major projects rely on integrated testing feedback loop
+### Active Projects
+- **S-Series Aircraft Development**: S0 VTOL, S2/S3 platforms dominating technical discussions across #s0-vtol, #s3, #sbir-hurricane, #sbir-volcano
+- **SwiftCore System**: Core firmware/autopilot platform (#swiftcore) serving as backbone for multiple aircraft systems
+- **SBIR Initiatives**: Hurricane reconnaissance (S0) and volcanic monitoring (S2/S3) are primary government-funded programs
+- **eMASS AI Integration**: E2 platform serving as testbed for ML-based flight controller and energy management system (#emass, #emass-bst)
+- **Flight Testing Operations**: Continuous testing across fixed-wing, multirotor, and VTOL platforms (#flight-testing)
 
-**Government Contracting Focus**
-- NASA, USDA, NOAA, DOD contracts span multiple channels
-- Grants-and-funding drives project pipeline and resource allocation
-- eMASS partnership represents commercial-government hybrid approach
+### Key Decision-Makers & Their Domains
+- **Jack Elston**: Primary technical authority across firmware, autopilot, systems architecture; leads grants/funding strategy
+- **Joshua Fromm**: Lead hardware engineer/designer; drives S-series aircraft design and QA/component sourcing
+- **Maciej**: Project oversight, flight testing leadership, technical proposal support
+- **Dan Prendergast**: Business development, SBIR project lead (volcano), EMASS project lead
+- **Meredith Needham**: Finance, budget management, administrative coordination
 
-**Firmware & Autonomy Development**
-- SwiftCore serves as foundation for all platforms (S-series, E2, S3, VTOL)
-- NASA autonomy project feeds modular architecture back into core systems
+### Recurring Decision Patterns
+1. **Technical validation through flight testing** - decisions deferred to #flight-testing results
+2. **Hardware-firmware co-development** - tight iteration between #s0-vtol, #s3, #swiftcore teams
+3. **Grant-driven prioritization** - SBIR milestones in #grants-and-funding cascade into project timelines
+4. **Cross-platform integration challenges** - SwiftCore firmware adapted across multiple aircraft variants
 
-**Platform Standardization**
-- Multiple aircraft types (S2, E3, E2, S3, Mustang) share SwiftWeb infrastructure
-- Firmware development consolidation across platforms
+### Connecting Threads Across Channels
+- **SwiftCore as common infrastructure**: Referenced across #s0-vtol, #s3, #sbir-hurricane, #flight-testing as standardized autopilot/firmware platform
+- **Talent reuse**: Jack Elston, Maciej, Joshua Fromm, Sam Hild appear across 6+ channels indicating core technical team stretched across all projects
+- **Testing pipeline**: #flight-testing validates output from #s0-vtol, #s3, #swiftcore, #emass channels before operational deployment
+- **Funding constraints**: #grants-and-funding activity directly correlates with resource allocation visible in #operations and project channels
+- **SBIR programs as anchor**: #sbir-hurricane and #sbir-volcano tie together S0/S2/S3 development with revenue/timeline justification
 
-**Integration & Testing Bottlenecks**
-- By-Lite Mustang and eMASS projects both face hardware integration challenges
-- Flight testing channel coordinates across all simultaneous projects
+### Operational Hotspots
+- **#operations & #general**: Day-to-day coordination; daily standup equivalent for cross-functional awareness
+- **#grants-and-funding**: Strategic resource planning; determines which projects advance vs. pause
+- **#flight-testing**: Bottleneck/validation point; failure reports trigger engineering cycles across development channels
 
-## Decision Patterns
-
-1. **Jack Elston** drives strategic/funding decisions; Maciej executes operationally
-2. **Hardware integration projects** (eMASS, S3, Mustang) run in parallel with shared flight testing resources
-3. **Government funding shapes roadmap** - grants-and-funding channel directly influences project prioritization
-4. **Technical decisions documented in SwiftCore** then cascaded to platform-specific channels
-5. **Operations channel** serves as implementation log for decisions made in #general and #grants-and-funding
-
-## Recurring Topics
-
-- **Flight payload integration** and sensor calibration
-- **Firmware release cycles** and regression testing
-- **Budget/resource constraints** affecting project timelines
-- **Vendor coordination** for parts and hardware
-- **Log analysis** for troubleshooting and performance optimization
-- **Proposal deadlines** and grant submission cycles
+### Notable Gaps
+- Limited evidence of customer feedback loops in technical channels
+- eMASS integration (#emass, #emass-bst) appears more siloed than core BST projects

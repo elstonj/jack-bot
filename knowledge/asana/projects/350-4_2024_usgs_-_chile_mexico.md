@@ -32,13 +32,17 @@
 | Create photogrammetry footprints | Dan Prendergast | October 1, 2026 | **STALE** | Reschedule for Fall 2026 |
 
 ## Task Summary
-- **Total Tasks**: 1 open, 0 completed
+- **Total Tasks**: 20 open, 0 completed
 - **Tasks by Assignee**:
-  - **Dan Prendergast**: 1 task — "Meeting with AFAC" (Due May 4, 2026 — **STALE per Fall 2026 delay**)
+  - **Dan Prendergast**: 5 tasks (all stale, rescheduled for Fall 2026) — Meeting with AFAC, Look for AV3 replacement, Flight approvals, Ground permissions, Flight plans, Photogrammetry
+  - **Maciej Stachura**: 2 tasks (stale, rescheduled for Fall 2026) — FLIR stoppage review, Test props at 5700m
+  - **Josh Fromm**: 1 task (stale, rescheduled for Fall 2026) — Spare parts and packing list
+  - **Unassigned**: 12 tasks (including critical milestones like payload updates, local flight testing, shipping, mission conduct)
 - **Notable Patterns**: 
   - Project is in hold state pending Fall 2026 deployment confirmation
   - **All task due dates April–October 2026 are SUPERSEDED by Fall 2026 delay announcement**
   - Most action tasks (flight approvals, payload updates, shipping, mission conduct) currently unassigned — will require assignment once Fall 2026 timeline is confirmed
+  - Several unassigned tasks with no due dates (Test New Capabilities, Tools/Ground Equipment, S2 Improvements, Planning/Algorithms/UI, CONOPS)
 
 ## Recent Activity
 - **April 20, 2026 (TEAM CORRECTION — AUTHORITATIVE)**: 
@@ -54,7 +58,8 @@
   - **Implication**: All spring/summer 2026 task due dates in Asana are stale; task list requires rescheduling once Fall 2026 timeline is finalized
   - **Flight Planning/Shipping**: **Not happening soon** — project is in hold state pending Fall 2026 confirmation
 - **Products/Services**: MHP, Survey Services, Aircraft Rental (via AV3 — replacement partner search ongoing)
-- **Next Actions**: 
+- **Key Dependencies**: AV3 aircraft availability (replacement being sourced), AFAC flight approvals, CENAPED ground permissions for national park
+- **Next Actions** (Once Fall 2026 Timeline Is Locked): 
   - **For Maciej Stachura (Project Lead)**: Provide confirmation on Fall 2026 deployment date and reschedule all April–October 2026 tasks accordingly
-  - **For Dan Prendergast**: Hold on AFAC meeting and related approvals until Fall 2026 timeline is locked
+  - **For Dan Prendergast**: Initiate AFAC meetings, flight approvals, and ground permissions per Fall 2026 timeline
   - **For Josh Fromm & Unassigned Owners**: Task assignments and scheduling to follow Fall 2026 confirmation

@@ -1,10 +1,23 @@
 {
   "period": {
-    "start": "2026-04-27",
-    "end": "2026-04-28"
+    "start": "2026-04-28",
+    "end": "2026-04-29"
   },
-  "scanned_at": "2026-04-28",
+  "scanned_at": "2026-04-29",
   "projects": [
+    {
+      "project_code": "001-7",
+      "revenue": 0.0,
+      "expenses": 439.98,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 1,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "(001-7) IRAD - S3"
+      ]
+    },
     {
       "project_code": "043-3",
       "revenue": 111629.0,
@@ -42,6 +55,19 @@
       "payment_count": 0,
       "qbo_class_names": [
         "[550-1] Navy SBIR Magnetometer"
+      ]
+    },
+    {
+      "project_code": "_unclassified",
+      "revenue": 0.0,
+      "expenses": 4335.0,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 1,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        ""
       ]
     }
   ]

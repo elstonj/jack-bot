@@ -33,6 +33,7 @@ Time range: Early development through April 2026 (ongoing project)
 **Flight Testing Strategy (April 2026):**
 - Motor RPM measurement approach: Prioritize scheme supporting long-term feed-forward control on motor RPM difference with smaller feedback gains on yaw rate controller rather than simple independent sensor logging (April 19, 2026)
 - Failure risk mitigation: Team must choose between high-confidence ground testing, trusted parachute system, or pre-flight failure detection capability before resuming flights (April 19, 2026)
+- S0-VTOL ground testing to be aligned with S3 methodology (April 28, 2026)
 
 ## Projects & Initiatives
 
@@ -43,6 +44,7 @@ Time range: Early development through April 2026 (ongoing project)
 - Ground testing strategy: Moving toward test methodologies similar to S3 program with independent sensor logging
 - S0 VTOL Test Plan created with primary steps and substasks for systematic testing approach (April 17, 2026)
 - Motor RPM tracking: Evaluating optimal measurement approach considering feed-forward control implementation for one-motor-out scenarios (April 19, 2026)
+- Planned alignment meeting: Ground testing methodology to be coordinated with S3 approach (April 28, 2026)
 
 **ADONIS Project:**
 - Contract deliverable: Flight testing required by March 24
@@ -61,12 +63,14 @@ Time range: Early development through April 2026 (ongoing project)
 - Conduct customer training (completed Barbados training)
 - Update charge connector and button on interface board
 - Coordinate integrated testing setup: work with team to connect independent sensor logging system to autopilot for laptop-based ground testing (April 17, 2026)
+- Attend S0-VTOL ground testing alignment meeting (scheduled for April 29, 2026 after 1pm ops meeting)
 
 **Sam Hild:**
 - Configure Remote ID on aircraft before shipment
 - Continue thermal testing on crashed S0-VTOL hub board
 - Build 3 new aircraft with updated boards for delivery
 - Set up independent RPM logging capability using Teensy (April 17, 2026)
+- Attend S0-VTOL ground testing alignment meeting (scheduled for April 29, 2026 after 1pm ops meeting)
 
 **Alex Lomis:**
 - Add QC checklist items for future deliveries
@@ -76,6 +80,7 @@ Time range: Early development through April 2026 (ongoing project)
 - Design independent sensor logging system: RPM sensors and potentiometers to log motor outputs separately from autopilot commands (April 17, 2026)
 - Create and maintain S0 VTOL Test Plan with primary steps and substasks (April 17, 2026) - plan approved by Maciej
 - Consider long-term implications: Evaluate RPM measurement approaches in context of future feed-forward control implementation for one-motor-out scenarios (April 19, 2026)
+- Attend S0-VTOL ground testing alignment meeting (scheduled for April 29, 2026 after 1pm ops meeting)
 
 **Maciej:**
 - Complete GPS hover testing before transition flights
@@ -85,6 +90,7 @@ Time range: Early development through April 2026 (ongoing project)
 - Ensure parameter backup and prop-off testing before controlled flight testing (April 17, 2026)
 - Advise on motor RPM measurement strategy to support eventual feed-forward control on motor RPM difference with appropriate feedback gains (April 19, 2026)
 - Work with team to determine optimal failure mitigation approach: either achieve high-confidence ground testing, develop trusted parachute system, or implement pre-flight failure detection (April 19, 2026)
+- Schedule and lead S0-VTOL ground testing alignment meeting with S3 team (April 28, 2026) - planned for April 29 after 1pm ops meeting
 
 ## Client & External References
 
@@ -132,19 +138,3 @@ Time range: Early development through April 2026 (ongoing project)
 - Need for sinusoidal motor command tests with independent RPM verification
 - Desire to log ESC outputs independently of autopilot commands over extended test periods
 - Integration of multiple sensor inputs for comprehensive ground validation
-- Structured test plan approach to systematically validate S0 VTOL before flight testing resumption
-- Motor RPM measurement as foundational design choice affecting long-term control architecture (April 19, 2026)
-
-**Risk Management & Flight Safety (April 2026):**
-- Recognition that ground testing alone may be insufficient to prevent in-flight failures
-- Need for systematic approach to failure mitigation: high-confidence ground testing, parachute recovery, or failure detection before flight
-- Importance of not resuming flights without confidence in failure prevention or mitigation strategy
-
-## Important Resources
-
-**Technical Specifications:**
-- Max payload: 1 lb target
-- Sprint speed: 85 knots
-- Max altitude: 18,000 ft operational, 12,000 ft launch/land
-- Max wind: 15 m/s for takeoff/landing
--

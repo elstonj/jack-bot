@@ -14,6 +14,7 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 - Moe (EMASS contact)
 - Alex Lomis (flight operations/coordination)
 - Meredith Needham (finance/invoicing)
+- U0151201DMY (appears to be infrastructure/web portal team member)
 
 **Activity Level:** Ongoing active project spanning November 2025 - April 2026+, with critical intensity. Real flight testing commenced April 23-24, 2026. EMASS media release planned for first week of May creating hard deadline.
 
@@ -48,18 +49,19 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 - **April 22:** Committed to real-time debugging meeting with Nikhila and Moe (EMASS team) morning of April 23 (9-10am or flexible time) to troubleshoot command transmission issues; EMASS team willing to work flexible hours due to timezone/deadline pressure
 - **April 23:** Flight testing plan approved with four flights per battery using two patterns (Easy Pattern and Dynamic Pattern from emass2.xml); testing with EMASS controller on/off for each pattern to enable comparative analysis. Jack Elston's proposal to test BST autopilot first on each pattern (to validate baseline), then EMASS controller, approved by Dan Prendergast. Additional flight test sets planned for the following week.
 - **April 27:** Dan Prendergast decided not to proceed with afternoon data collection flight due to continued ECSDOT connectivity issues and control violations (VRATE and ROLL_ANGLE limit violations persisting). Decision made with assumption that Moe indicated data collection flights are for fine-tuning EMASS control model only. EMASS received 2nd invoice and are processing it. EMASS inquired about extending number of flights if necessary — decision pending on whether to establish cost per additional flight set.
+- **April 28:** Dan Prendergast confirmed willingness to fly EMASS controller in "degraded" operational mode: reliable straight-line performance with controller restart required at each waypoint/corner transition. Intent is to collect actual flight data for efficiency performance on straight legs and model tuning. Jack Elston approved with caution: monitor limit violations closely, immediate landing if violations approach severity of 2nd flight test attempt, and immediate data sharing with EMASS team for review.
 
 ## Projects & Initiatives
 
 ### EMASS Integration (Primary)
-**Status:** Real flight testing actively underway; first test set completed. Multiple campaign limitations and control tuning issues identified. Additional test sets pending (two remaining of original three planned). EMASS media release planned for first week of May creating hard deadline.
+**Status:** Real flight testing actively underway; initial test set completed with mixed results. Pragmatic reduced-scope testing plan emerging to collect efficiency data despite controller limit violations. Additional test sets pending. EMASS media release planned for first week of May creating hard deadline.
 
 **Scope:**
 - Integrate EMASS's ECS-DoT evaluation board (AI chip with ML controller) onto E2 platform
 - Develop interface between EMASS hardware and E2 autopilot
 - Create simulation environment (Gazebo-based SWIL) for validation
 - Conduct flight testing with comparative analysis (controller on/off)
-- Timeline: Originally January-March 2026, pushed to March 11, 2026; further delays occurred due to EMASS team responsiveness and BST resource conflicts; HWIL testing active as of mid-April; bench testing on E2 platform started April 21-22; real flights commenced April 23-24, 2026; three total flight test sets planned
+- Timeline: Originally January-March 2026, pushed to March 11, 2026; further delays occurred due to EMASS team responsiveness and BST resource conflicts; HWIL testing active as of mid-April; bench testing on E2 platform started April 21-22; real flights commenced April 23-24, 2026; three total flight test sets planned (two remaining as of April 27)
 
 **Technical Components:**
 
@@ -71,9 +73,9 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
    - ECS-DoT eval board communication via two devices (UART and JTAG connections)
    - Serial connection options: DB9 connector or jumpers + USB microUSB (preferred per Jack Elston as of April 22)
    - Baud rate: 460800 bps (verified working April 22)
-   - **Issue (April 27):** DB9 payload connector connectivity problems persist; USB microUSB alternative appears more reliable
+   - **Issue (April 27-28):** DB9 payload connector connectivity problems persist; USB microUSB alternative appears more reliable
 
-2. **Firmware/Software (As of April 27):**
+2. **Firmware/Software (As of April 28):**
    - Autopilot modifications to accept EMASS actuator commands at 75Hz via UART
    - Two-mode operation: EMASS control or BST autopilot control (no blending)
    - EXTERNAL mode in autopilot for payload authority handoff
@@ -87,7 +89,7 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
      - New autopilot binary pushed April 22 with improved connection debugging
      - Binary version: 0x358094b (per Maciej April 21)
      - Fixes to bench-test and full-flight app connection issues
-   - **Known Issues (April 27):** VRATE (vertical rate) and ROLL_ANGLE limit violations occurring in EMASS controller simulation app runs; persisting despite recent updates
+   - **Known Issues (April 27-28):** VRATE (vertical rate) and ROLL_ANGLE limit violations occurring in EMASS controller; persisting despite recent updates; controller performs reliably on straight legs but violates limits during waypoint transitions
 
 3. **Simulation:**
    - Gazebo SWIL with realistic E2 dynamics
@@ -95,10 +97,4 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
    - Support for headless automated testing
    - Trajectory replay capability
    - Socket-based test framework (preferred over test app for HWIL)
-   - Gazebo HWIL flight app confirmed working: EMASS controller flew complete 8-point flight plan with no disconnects or safety limit violations (April 22)
-   - **Issue (April 27):** EMASS's latest Gazebo app producing VRATE and ROLL_ANGLE limit violations when run via UART over USB; DB9 connector now working in simulation but showing same violations
-   - Bench-test app shows different behavior in simulation (connects, takes off, starts controller, controller has no effect for 40 seconds, then times out)
-
-4. **Flight Testing (Two campaigns completed/pending as of April 27):**
-   - **Execution Order (per Jack Elston proposal, approved):**
-     1
+   - Gazebo HWIL flight app confirmed working

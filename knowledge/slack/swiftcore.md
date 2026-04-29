@@ -53,6 +53,13 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Approved feature/multi_radio_gcs branch development to support dual UAS operation with single ground control station
 - Implementation spans autopilot, comms_protocol, and web_controller repositories
 
+**VTOL Landing Plan Calculation Update (April 28, 2026):**
+- Landing plan final length calculation coefficient updated from `3 * land_ias * nav_lookahead` to `4 * land_ias * nav_lookahead`
+- Rationale: Code changes made to autopilot required parameter adjustment
+- Future consideration: May transition to dynamic parameter-based calculation once new param is available
+- Decision made by: Maciej (autopilot lead)
+- Implementation by: Ben Busby
+
 ## Projects & Initiatives
 
 **SwiftCore 3.2 Release (2021-2022):**
@@ -70,6 +77,7 @@ This channel serves as the primary technical communication hub for Black Swift T
 - **Scope:** Autopilot, tablet, and communications updates for vertical takeoff/landing aircraft
 - **Testing:** S3/S10020 aircraft being used for validation
 - **Challenges:** Parameter management, UI integration, XML configuration
+- **Recent Update (April 28, 2026):** Landing plan final length calculation updated based on autopilot code changes
 
 **Hurricane Web Controller (2024-2025):**
 - **Status:** Completed and ready for testing; active validation ongoing (April 2026)
@@ -117,14 +125,5 @@ This channel serves as the primary technical communication hub for Black Swift T
 
 ## Action Items & Commitments
 
-**Current Outstanding (as of April 27, 2026):**
-- **Jack Elston:** 
-  - Complete feature/multi_radio_gcs branch (multiple radio connections with per-aircraft addressing) - validation in progress
-  - Continue validation of hurricane web controller changes
-  - Clarify PayloadNodeView indentation/formatting in feature/emass branch
-  - Testing double autopilot with GCS after pulling recent fixes
-  - Debug Transmit Command Buffer Overflow errors in multi-radio implementation
-  - Investigate web controller and swil high CPU usage
-  - Finalize and commit new CAN_DeploymentTubeState_t enum state for deployment tube enhancement (April 27, 2026)
-
+**Current Outstanding (as of April 28, 2026):**
 -
