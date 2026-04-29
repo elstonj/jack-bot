@@ -1,87 +1,84 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 789 (768 previous + 21 new)
-- **Date range:** March 16 – April 28, 2026 (approximately 44 days)
+- **Total messages scanned:** 815 (789 previous + 26 new)
+- **Date range:** March 16 – April 29, 2026 (approximately 45 days)
 - **Approximate volume:** ~18 emails per day
-- **Note:** New batch (Apr 27-28) shows **21 messages**, predominantly logistics/procurement notifications and promotions (17/21). However, **4 critical work messages** on Apr 27 visible: Vertiq motor support forwarding, Power Supply Board Re-spin active correspondence, and Hurricane Season part sourcing updates. Asana task digest indicates active task management with 2 tasks due soon + 1 newly assigned.
+- **Note:** New batch (Apr 28-29) shows **26 messages**, predominantly logistics/procurement notifications and promotions (22/26). However, **4 critical work messages** visible: Vertiq motor support forwarding (duplicate, forwarded again Apr 28), Power Supply Board Re-spin direct correspondence with external partner, and **2 new Asana task assignments** on Apr 28 — **"Rear motor spin up"** [001-07] S3 IRAD (Maciej Stachura) and flight test item task (Jack Elston, 2026-04-27 Flight Test Items). McMaster-Carr procurement activity intensified (3 messages Apr 28-29 regarding April 28th order).
 
 ## Key Correspondents
 
 ### Top Internal Contacts
 - **Dan Prendergast** (via Asana) — **ACTIVE TASK LEAD**: Circuit board revisions across multiple projects; task assignments maintain momentum on iterative design cycles
-- **Maciej Stachura** (via Asana) — **ESCALATED PRIORITY**: Critical task assignment (Apr 24) on **S3 Debug Noise on motors issue** under [001-07] S3 IRAD project; motor diagnostics troubleshooting active
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — **MOTOR SYSTEM ESCALATION (NEW)**: Forwarded **Vertiq Support response** on Apr 27 regarding "Volt limit and Volts Limit Starting Voltage" — indicates motor control parameter troubleshooting; Hurricane IDIQ lead continues involvement
-- **Jack Elston** (elstonj@blackswifttech.com) — **DESIGN APPROVAL/ESCALATION/EXTERNAL LIAISON**: Apr 27 email to external contact (microfirm@earthlink.net) regarding **Power Supply Board Re-spin** indicates Jack acts as direct point of contact with external design partner; Matt Crabtree (Waveform Engineering) updates routed through Jack on Hurricane Season part sourcing
+- **Maciej Stachura** (via Asana) — **ESCALATED PRIORITY - MOTOR DIAGNOSTICS**: Task assignment Apr 28 (NEW) on **"Rear motor spin up"** under [001-07] S3 IRAD; escalating motor control troubleshooting from S3 Debug Noise investigation to spinup characterization phase
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — **MOTOR SYSTEM ESCALATION**: Forwarded Vertiq Support response again Apr 28 (duplicate forwarding) on "Volt limit and Volts Limit Starting Voltage" — indicates continued motor parameter troubleshooting; Hurricane IDIQ lead continues involvement
+- **Jack Elston** (elstonj@blackswifttech.com) — **FLIGHT TEST LEAD/DESIGN ESCALATION**: Apr 28 task assignment (NEW) on **"Slowing front two motors in forward flight causes rear motor t…"** (subject truncated) from 2026-04-27 Flight Test Items project — indicates active flight testing with motor dynamics issues; expands from power supply re-spin to flight performance troubleshooting
 
-### External Contacts (NEW - CRITICAL)
+### External Contacts (Design/Engineering Partners)
 
-**Design/Engineering Partners:**
-- **microfirm@earthlink.net** — **ACTIVE DESIGN PARTNER**: Direct correspondence chain on Apr 27 (Sam → microfirm → Jack → Sam) on **Power Supply Board Re-spin** design; 3 messages in sequence indicate iterative review cycle; external consultant or contractor handling power supply design iteration
-- **Matt Crabtree** (matt.crabtree@waveformengineering.com) — **WAVEFORM ENGINEERING**: Apr 27 update on "Hurricane Season Builds - Part Sourcing" routed to Jack Elston; indicates supply chain coordination for Hurricane IDIQ program with external engineering/manufacturing partner
+**Design/Engineering:**
+- **microfirm@earthlink.net** — **ACTIVE DESIGN PARTNER (CONTINUED)**: Direct email from Sam to microfirm on Apr 28 (09:10 MDT) regarding **Power Supply Board Re-spin** (SENT status); indicates Sam maintains direct correspondence channel with external design consultant on iterative PSB design; Apr 28 activity suggests ongoing design cycle iteration
 
 ### Vendor/Supplier Contacts (Expanded)
 
+**Electronics & Components (NEW):**
+- **McMaster-Carr** (chi.sales@mcmaster.com, invoice.reply@mcmaster.com) — **PROCUREMENT SURGE (NEW)**: 3 messages on Apr 28-29 (order confirmation, tracking certificates, receipt) for April 28th order; indicates active component procurement; likely electrical/mechanical fasteners, hardware, or standard components for prototyping/production assembly
+
+**PCB Manufacturing (NEW):**
+- **PCBWay** (no-reply-status@mail-notify.pcbway.com) — **CIRCUIT BOARD FABRICATION (NEW)**: Status notification Apr 29 on "Your Orders Review Status"; indicates PCB layout design iteration active; likely Power Supply Board re-spin fabrication or S3 IRAD board variants
+
+**Composite Materials (NEW):**
+- **Rock West Composites** (via Purchasing) — Order #Z100698536 initiated Apr 28; composite materials supplier; indicates structural/airframe component fabrication or testing
+
 **Logistics/Shipping (Continued):**
-- **UPS** — Package delivery notification (Apr 27); continued active shipment monitoring
-- **FedEx Tracking** — Shipment tracking notification (Apr 28, shipment 871015479182); new carrier added to procurement pipeline; indicates multi-carrier logistics coordination
-- **USPS Informed Delivery** — Daily digest (Apr 27); continuing mail monitoring
-- **SendCutSend** — Order SW02L252 **DELIVERED** (Apr 27); custom metal cutting/fabrication service; indicates sheet metal, custom bracket, or structural component manufacturing active
-- **JawsTec** — Order shipment in transit (Apr 27); component vendor; order status active
+- **UPS** — Package delivery notification (Apr 28); continued active shipment monitoring
+- **FedEx** — (not in new batch but continuing)
+- **USPS Informed Delivery** — Daily digest (Apr 28); continuing mail monitoring
+- **SendCutSend** — (continuing from previous batch)
+- **JawsTec** — Order shipment in transit (Apr 28, reconfirmed); component vendor
+- **Worldwide Express** — Shipping/3PL provider (Apr 28 message); potential alternative carrier for procurement
 
-**Electronics & Components:**
-- **Vertiq** (via Joshua Fromm) — **MOTOR CONTROL VENDOR (NEW)**: Support response on motor voltage parameters (Volt limit, Starting Voltage); indicates active motor control troubleshooting with Vertiq motor platform/ESC
-- **ELEGOO US** — Promotional message (Apr 25); microcontroller platform vendor
-- **SkyGeek** — Promotional (Apr 25); aviation/RC equipment supplier
+**Electronics/RF Components:**
+- **Vertiq** (via Joshua Fromm) — **MOTOR CONTROL VENDOR (CONTINUED)**: Support response re-forwarded Apr 28; indicates ongoing motor parameter tuning requires multiple contact cycles
+- **LightWare** (via Purchasing) — Promotional on microLiDAR (Apr 28); UAS sensor supplier; suggests sensor evaluation or integration possibility for future systems
+- **ELEGOO US** — Promotional (Apr 28, routed to Alexis Lomis via Purchasing); microcontroller platform
+- **eBay Search Alert** (via Purchasing) — Futaba 14SG RC receiver/transmitter search (Apr 28); radio control equipment; suggests remote control system sourcing or evaluation
 
-**Business Services & Procurement:**
-- **Harbor Freight** — Spring coupon promotion (Apr 27); tool/supply vendor
-- **Spindrift Market** — Order SH62367658 **CONFIRMED** (Apr 28, via Purchasing); beverage vendor; suggests employee break room supplies or corporate catering program
-- **ezCater** — Cinco de Mayo promotion (Apr 27, routed to Jack Elston via Purchasing); corporate catering service; indicates team events/meetings coordination
-- **USPS Informed Delivery** — Daily digest (Apr 27); continuing mail monitoring
-- **Verizon B2B** — Business deals promotion (Apr 27, direct to Sam); telecom services vendor
+**Business Services/Procurement:**
+- **Harbor Freight** — Product alert (Apr 28); tool/supply vendor
+- **Spindrift Market** — Order in transit (Apr 28); break room/catering supplies
+- **Verde/Bold Bites** (via Purchasing) — Restaurant/catering (Apr 28); team meals/events
+- **Budget Rental** (via Purchasing) — Vehicle rental promotion (Apr 28); potential travel/logistics support
+- **Dell Rewards** (via Purchasing) — Promotional (Apr 28); IT hardware vendor
 
 **Financial/Administrative:**
-- **Oracle Financial** — Remittance advice payment reference #3871847 (Apr 27); accounting/payment processing
-- **Toggl Track** — Time tracking platform notifications (2x Apr 27); task/project time tracking active
-- **Constant Contact** — Email marketing platform (previous batch)
+- **Asana** — Task notifications (2x Apr 28); task management platform active use continues
+- **UnitedHealthcare** — Benefits notification (Apr 28); employee health benefits; directly to Sam (not routed through Purchasing)
 
-**Other:**
-- **IFC Studios** — "Prioritization at Work & Celebrate New Employee" promotional (Apr 27); corporate training/HR platform vendor
+**Other/Subscriptions:**
+- **Daniels Manufacturing Corporation** — LaceLok webinar promotion (Apr 28, routed to Joshua Fromm); potential fastening/assembly technology vendor
 
 ## Topic Patterns
 
-### Active Projects (Motor Troubleshooting + Power Supply Design Re-spin - PRIMARY FOCUS)
+### Active Projects (Motor Troubleshooting + Flight Testing + Power Supply Design — ESCALATING)
 
-**[001-07] S3 IRAD** — **MOTOR SYSTEM TROUBLESHOOTING ESCALATING**
-- **S3 Debug Noise on motors task** assigned Apr 24 (Maciej Stachura); **NEW ESCALATION**: Vertiq motor support response on Apr 27 regarding voltage parameter limits and starting voltage configuration — indicates motor control troubleshooting has moved to subsystem parameter tuning phase with motor platform vendor support
-- Motor component procurement active (KDE Direct shipments Apr 24); ADUM1201 gate driver ICs indicate motor driver circuitry troubleshooting
-- GNSS troubleshooting remains active baseline
+**[001-07] S3 IRAD — MOTOR SYSTEM PHASE ESCALATION**
+- **S3 Debug Noise on motors** (previous) → **Rear motor spin up** (NEW, Apr 28 assignment) — Indicates progression from noise debugging to characterization/spinup testing phase with Maciej Stachura; motor control troubleshooting advancing to functional spinup validation
+- **Vertiq motor support (continued)** — Voltage parameter responses re-forwarded Apr 28; indicates iterative troubleshooting with multiple contact cycles required
+- Motor component procurement active (KDE Direct, ADUM1201 gate drivers from previous batches)
+- GNSS subsystem troubleshooting baseline continues
 
-**[300-3] 2026 IDIQ (Hurricane)** — **POWER SUPPLY RE-SPIN + PART SOURCING COORDINATION ACTIVE**
-- **Power Supply Board Re-spin** (Apr 27) — Direct correspondence between Sam, external design partner (microfirm@earthlink.net), and Jack Elston; indicates active iteration cycle on power supply design; microfirm appears to be contracted design consultant
-- **Hurricane Season Builds - Part Sourcing** (Apr 27) — Matt Crabtree/Waveform Engineering update on component availability/procurement coordination; indicates supply chain coordination with manufacturing partner on Hurricane IDIQ production builds
-- P400 900MHz Spread Spectrum Modem evaluation ongoing
+**[2026-04-27] Flight Test Items (NEW PROJECT) — FLIGHT PERFORMANCE TROUBLESHOOTING**
+- **"Slowing front two motors in forward flight causes rear motor t…"** (Apr 28 task assignment from Jack Elston) — NEW flight testing phase reveals motor dynamics asymmetry issue; indicates aircraft is undergoing active flight testing with motor control anomalies identified; task subject truncated but indicates differential motor speed behavior under forward flight conditions
+- Suggests S3 IRAD flight envelope expansion or separate flight test program active
+
+**[300-3] 2026 IDIQ (Hurricane) — POWER SUPPLY RE-SPIN + PRODUCTION PREP**
+- **Power Supply Board Re-spin (continued)** — Sam's direct email to microfirm Apr 28; iterative design cycle active
+- Supply chain coordination with Waveform Engineering (previous batch) continues
+- **PCBWay order review status** (Apr 29) — Likely PSB or Hurricane-related PCB fabrication in design review phase; may feed production builds
 
 ### Component/Subsystem Engineering Focus (Updated)
 
-- **Motor control architecture:** Voltage parameter tuning (Volt limit, Starting Voltage) with Vertiq ESC/motor platform
-- **Power supply architecture:** Board re-spin iteration phase with external design consultant (microfirm)
-- **Structural/mechanical components:** SendCutSend custom metal fabrication active (sheet metal, brackets, structural parts)
-- **Supply chain coordination:** Multi-vendor procurement tracking (UPS, FedEx, SendCutSend, JawsTec); part sourcing for Hurricane production builds
-
-### Asana Task Digest (NEW)
-- **Apr 27 alert:** 2 tasks due soon, 1 new task assigned
-- **No specific task subjects visible** in email headers; Asana digest indicates task velocity remains high
-
-## Communication Patterns
-
-### Email Routing & Procurement Process
-- **Centralized purchasing alias:** Vendors/services (Harbor Freight, USPS, UPS, FedEx, SendCutSend, JawsTec, Spindrift, ezCater, Verizon, Oracle, IFC Studios, Toggl Track) predominantly route to purchasing@blackswifttech.com
-- **Direct vendor contacts:** Some vendors (Vertiq via Joshua Fromm, Waveform Engineering, microfirm, Toggl Track, Verizon) contact Sam or Jack directly, indicating these are primary work vendors requiring direct technical coordination
-- **Promotional/subscription baseline:** 17/21 new messages are promotional, logistics notifications, or automated alerts — consistent with established pattern
-- **Unread status:** 20/21 messages marked UNREAD; auto-categorized into appropriate categories without requiring active manual review
-
-### Time Patterns
-- **Apr 27 concentration:** 20/21 new messages dated Apr 27 (Monday); single message Apr 28 (Tuesday); heavy Monday activity pattern consistent with end-of-week order processing and weekly shipment arrivals
-- **Daily task digest
+- **Motor control & spinup:** Voltage parameter tuning + functional spinup characterization; now including flight performance dynamics (asymmetric motor response under forward flight)
+- **Power supply architecture:** Board re-spin iteration with external design consultant; PCB fabrication review phase active
+- **Structural/mechanical components:** Rock West Composites order (composite airframe/structural components); SendCutS

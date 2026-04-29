@@ -1,124 +1,137 @@
 # BST Document Catalog
 
+---
+
 ## By Product/System
 
-### S0 (UAS/VTOL)
-- **DOE Genesis Budget Justification** – DOE, 2026-04-27 – Budget justification for S0-VTOL UAS acquisition (3 units) under DOE Genesis program (doe_genesis_budget_justification_bst.md)
-- **NASA ARMD AFA RFI: Strato Balloon** – NASA ARMD, 2026-04-27 – RFI response proposing S0 UAS for high-altitude atmospheric research (nasa_aero_rfi_strato_balloon.md)
+### SwiftCore Flight Management System
+- **Autonomy Phase II Proposal – DRAFT** | NASA ARMD | April 2026 | NASA Phase II SBIR proposal for autonomous flight management systems (autonomy_phase_ii-proposal-draft.md)
+
+### S0 UAS (Uncrewed Aircraft System)
+- **NASA ARMD Aeronautics Flight Accelerator RFI Response: Strato Balloon** | NASA ARMD | April 2026 | RFI response for stratospheric balloon operations using S0 platform (nasa_aero_rfi_strato_balloon.md)
+
+### S0, S2, S2-VTOL
+- **Response to NASA SMD Request for Information NNH26ZDA006L** | NASA SMD | April 29, 2026 | RFI response for "Science as a Service" initiative covering multiple BST platforms (elston-jack-1-rfi.md)
 
 ### S3 Nomad
-- **NASA ARMD AFA RFI: S3 Nomad** – NASA ARMD, 2026-04-16 – RFI response for S3 Nomad platform under Aeronautics Flight Accelerator initiative (nasa_aero_rfi_s3_nomad.md)
+- **NASA ARMD Aeronautics Flight Accelerator RFI Response – S3 Nomad** | NASA ARMD | April 2026 | RFI response for S3 Nomad platform in Aeronautics Flight Accelerator Initiative (nasa_aero_rfi_s3_nomad.md)
 
-### SwiftCore FMS (Flight Management System)
-- **BST ECS-DoT Investor Briefing** – EMASS/Nanoveu, 2026-04-27 – Project report on Edge-AI flight control validation featuring SwiftCore integration with E2 multirotor (bst_ecs-dot_investor_briefing.md)
-
-### SwiftPilot Autopilot
-- **BST ECS-DoT Investor Briefing** – EMASS/Nanoveu, 2026-04-27 – Project report on autopilot development and validation (bst_ecs-dot_investor_briefing.md)
-
-### E2 Multirotor
-- **BST ECS-DoT Investor Briefing** – EMASS/Nanoveu, 2026-04-27 – Project validation using E2 platform for flight control system testing (bst_ecs-dot_investor_briefing.md)
-
-### Black Swift UAS Platform (General)
-- **AI-Enabled Mobile Autonomous Laboratories Budget Justification** – DOE, 2026-04-27 – Budget justification for Black Swift UAS platform in DOE Genesis autonomous lab project (pims_8105_budget-justification_template_foa-0003612-genesis_-_final_1pdf.md)
+### Black Swift Technologies RPAS (General)
+- **Dr. Jack Elston - Black Swift Technologies LLC (Organizational Letter of Commitment)** | DOE/Brookhaven National Laboratory | April 15, 2026 | Commitment letter for Genesis Missions AI program (dr_jack_elston__black_swift_technologies_llcpdf.md)
+- **Genesis_BST_Bio_deBoer.pdf** | DOE | April 13, 2026 | Biographical sketch mentioning Black Swift Technologies RPAS (genesis_bst_bio_deboerpdf.md)
 
 ---
 
 ## By Client/Agency
 
-### NASA
-- **NASA ARMD AFA RFI: S3 Nomad** – NASA ARMD, 2026-04-16 – RFI response for S3 Nomad platform (nasa_aero_rfi_s3_nomad.md)
-- **NASA ARMD AFA RFI: Strato Balloon** – NASA ARMD, 2026-04-27 – RFI response for S0 UAS atmospheric research (nasa_aero_rfi_strato_balloon.md)
-- **NASA ARMD AFA RFI: Autonomy and Avionics** – NASA ARMD, 2026-04-16 – Draft RFI response on autonomy/avionics capabilities (nasa_aero_rfi_autonomy_and_avionics.md)
-- **NASA FY26-27 SBIR/STTR BAA Appendix 26B-I STTR** – NASA, 2026-04-21 – STTR Phase I funding solicitation (nasa2026-2027sbirsttrbaaappendix26b-isttrpdf.md)
-- **NASA FY26-27 SBIR/STTR BAA Appendix 26B-I SBIR** – NASA, 2026-04-21 – SBIR Phase I funding solicitation (nasa2026-2027sbirsttrbaaappendix26b-isbirpdf.md)
-- **NASA FY26-27 SBIR/STTR BAA Appendix 26A-I SBIR Phase I** – NASA, 2026-04-21 – SBIR Phase I funding solicitation (nasa2026-2027sbirsttrbaaappendix26a-isbirpdf.md)
-- **Advancement of "Science as a Service" (SaaS) for NASA and Commercial Partners – RFI** – NASA SMD, 2026-04-21 – RFI for SaaS capabilities for Earth science and commercial applications (advancement_of_science_as_a_service_saas_for_nasa_and_commerical_partners-rfi_as.md)
+### NASA Aeronautics Research Mission Directorate (ARMD)
+- **Autonomy Phase II Proposal – DRAFT** | April 2026 | Draft NASA Phase II SBIR proposal for SwiftCore Flight Management System (autonomy_phase_ii-proposal-draft.md)
+- **NASA ARMD Aeronautics Flight Accelerator RFI Response: Strato Balloon** | April 2026 | RFI response for S0 platform in stratospheric operations (nasa_aero_rfi_strato_balloon.md)
+- **NASA ARMD Aeronautics Flight Accelerator RFI Response – S3 Nomad** | April 2026 | RFI response for S3 Nomad in AFA Initiative (nasa_aero_rfi_s3_nomad.md)
+- **NASA ARMD Aeronautics Flight Accelerator RFI Response: Autonomy and Avionics** | April 2026 | DRAFT RFI response on autonomy and avionics capabilities (nasa_aero_rfi_autonomy_and_avionics.md)
+
+### NASA Science Mission Directorate (SMD)
+- **Response to NASA SMD Request for Information NNH26ZDA006L** | April 29, 2026 | RFI response for "Science as a Service" (SaaS) and Venture and Technology Accelerator (VTA) programs (elston-jack-1-rfi.md)
+
+### U.S. Navy / Office of Naval Research (ONR)
+- **Navy STTR Phase I Proposal Planning Document: Expendable Air-Sea Profiling in Hazardous Weather** | January 9, 2025 | Internal planning document for Navy STTR 25.A Topic N25A-T025 (planning_doc.md)
 
 ### U.S. Department of Energy (DOE)
-- **DOE Genesis Budget Justification** – DOE, 2026-04-27 – Budget justification for S0-VTOL UAS acquisition in Genesis program (doe_genesis_budget_justification_bst.md)
-- **AI-Enabled Mobile Autonomous Laboratories Budget Justification** – DOE, 2026-04-27 – Budget justification for Black Swift UAS in autonomous lab project (pims_8105_budget-justification_template_foa-0003612-genesis_-_final_1pdf.md)
-- **Brookhaven National Laboratory Subaward Budget** – BNL (DOE), 2026-04-27 – Budget subaward document for DOE Genesis program (ws01629989-rr_subawardbudget_brookhavenpdf.md)
+- **Genesis_BST_CP_Urban.pdf** | April 22, 2026 | Current and Pending Support disclosure form for Nathan Urban (genesis_bst_cp_urbanpdf.md)
+- **Genesis_BST_Bio_Urban.pdf** | April 12, 2026 | Biographical sketch for Nathan M. Urban, Group Leader at Brookhaven NL (genesis_bst_bio_urbanpdf.md)
+- **Genesis_BST_CP_deBoer.pdf** | April 16, 2026 | Current and Pending Support disclosure form for Gijs de Boer (genesis_bst_cp_deboerpdf.md)
+- **Genesis_BST_Bio_deBoer.pdf** | April 13, 2026 | Biographical sketch for Gijs de Boer, Interim Associate; references Black Swift Technologies RPAS (genesis_bst_bio_deboerpdf.md)
+- **Dr. Jack Elston - Black Swift Technologies LLC (Organizational Letter of Commitment)** | April 15, 2026 | Commitment letter for Genesis Missions: Transforming Science and Energy with AI (DE-FOA-0003612) (dr_jack_elston__black_swift_technologies_llcpdf.md)
 
-### EMASS / Nanoveu
-- **BST ECS-DoT Investor Briefing** – EMASS/Nanoveu, 2026-04-27 – Internal/investor presentation on Edge-AI flight control project validation (bst_ecs-dot_investor_briefing.md)
+### Department of Defense (DoD)
+- **DoD 25.4 SBIR BAA FULL_R12_04132026.pdf** | April 28, 2026 | Broad Agency Announcement for DoD SBIR 25.4 Annual Program (dod_254_sbir_baa_full_r12_04132026pdf.md)
+
+### Department of War (DoW)
+- **DoW 2026 STTR BAA FULL_04132026.pdf** | April 28, 2026 | Broad Agency Announcement for FY2026 STTR Program with six monthly releases (dow_2026_sttr_baa_full_04132026pdf.md)
+- **DoW 2026 SBIR CSO FULL_R1_04132026.pdf** | April 13, 2026 | SBIR Commercial Solutions Opening (CSO) solicitation (dow_2026_sbir_cso_full_r1_04132026pdf.md)
+- **DoW 2026 SBIR BAA FULL_R1_04132026.pdf** | April 28, 2026 | Broad Agency Announcement for FY2026 SBIR Program (dow_2026_sbir_baa_full_r1_04132026pdf.md)
 
 ---
 
 ## By Application Area
 
-### High-Altitude Atmospheric Research
-- **NASA ARMD AFA RFI: Strato Balloon** – NASA ARMD, 2026-04-27 – S0 UAS for stratospheric measurement campaigns (nasa_aero_rfi_strato_balloon.md)
+### Autonomous Flight Operations
+- **Autonomy Phase II Proposal – DRAFT** | NASA ARMD | April 2026 | SwiftCore Flight Management System autonomy capabilities (autonomy_phase_ii-proposal-draft.md)
+- **NASA ARMD Aeronautics Flight Accelerator RFI Response: Autonomy and Avionics** | NASA ARMD | April 2026 | Autonomy and avionics capabilities for accelerator program (nasa_aero_rfi_autonomy_and_avionics.md)
 
-### Autonomous Laboratory Operations
-- **AI-Enabled Mobile Autonomous Laboratories Budget Justification** – DOE, 2026-04-27 – Real-time adaptive experimentation in dynamic environmental systems (pims_8105_budget-justification_template_foa-0003612-genesis_-_final_1pdf.md)
+### Stratospheric/High-Altitude Operations
+- **NASA ARMD Aeronautics Flight Accelerator RFI Response: Strato Balloon** | NASA ARMD | April 2026 | S0 platform for stratospheric balloon operations (nasa_aero_rfi_strato_balloon.md)
 
-### Flight Control Systems & Autonomy
-- **NASA ARMD AFA RFI: Autonomy and Avionics** – NASA ARMD, 2026-04-16 – BST autonomy and avionics capabilities (nasa_aero_rfi_autonomy_and_avionics.md)
-- **BST ECS-DoT Investor Briefing** – EMASS/Nanoveu, 2026-04-27 – Edge-AI flight control validation in the sky (bst_ecs-dot_investor_briefing.md)
+### Multi-Mission Science Operations
+- **Response to NASA SMD Request for Information NNH26ZDA006L** | NASA SMD | April 29, 2026 | "Science as a Service" platform leveraging S0, S2, S2-VTOL for diverse science missions (elston-jack-1-rfi.md)
+- **NASA ARMD Aeronautics Flight Accelerator RFI Response – S3 Nomad** | NASA ARMD | April 2026 | S3 Nomad for general aeronautics acceleration initiatives (nasa_aero_rfi_s3_nomad.md)
 
-### Long-Duration/High-Altitude Platform Development
-- **NASA ARMD AFA RFI: S3 Nomad** – NASA ARMD, 2026-04-16 – S3 Nomad platform capabilities (nasa_aero_rfi_s3_nomad.md)
+### Marine/Oceanographic Operations in Hazardous Conditions
+- **Navy STTR Phase I Proposal Planning Document: Expendable Air-Sea Profiling in Hazardous Weather** | U.S. Navy ONR | January 2025 | Expendable profiling systems for air-sea observations in severe weather (planning_doc.md)
 
-### Earth Science & Remote Sensing (General)
-- **Advancement of "Science as a Service" (SaaS) for NASA and Commercial Partners – RFI** – NASA SMD, 2026-04-21 – SaaS platform for Earth science missions (advancement_of_science_as_a_service_saas_for_nasa_and_commerical_partners-rfi_as.md)
-
-### Small Business Innovation/Technology Development
-- **NASA FY26-27 SBIR/STTR BAA Appendix 26B-I STTR** – NASA, 2026-04-21 – Small Business Technology Transfer opportunities (nasa2026-2027sbirsttrbaaappendix26b-isttrpdf.md)
-- **NASA FY26-27 SBIR/STTR BAA Appendix 26B-I SBIR** – NASA, 2026-04-21 – Small Business Innovation Research opportunities (nasa2026-2027sbirsttrbaaappendix26b-isbirpdf.md)
-- **NASA FY26-27 SBIR/STTR BAA Appendix 26A-I SBIR Phase I** – NASA, 2026-04-21 – SBIR Phase I funding (nasa2026-2027sbirsttrbaaappendix26a-isbirpdf.md)
+### AI/Climate Science Integration
+- **Genesis_BST_Bio_deBoer.pdf** | DOE | April 13, 2026 | Genesis Missions AI program for transforming science and energy (genesis_bst_bio_deboerpdf.md)
+- **Genesis_BST_CP_Urban.pdf** | DOE | April 22, 2026 | DOE Office of Science programs related to climate/computational science (genesis_bst_cp_urbanpdf.md)
+- **Dr. Jack Elston - Black Swift Technologies LLC (Organizational Letter of Commitment)** | DOE | April 15, 2026 | Genesis Missions: Transforming Science and Energy with AI commitment (dr_jack_elston__black_swift_technologies_llcpdf.md)
 
 ---
 
 ## By Document Type
 
-### Budget Justifications / Grant Applications
-- **DOE Genesis Budget Justification** – DOE, 2026-04-27 – S0-VTOL UAS acquisition budget (doe_genesis_budget_justification_bst.md)
-- **AI-Enabled Mobile Autonomous Laboratories Budget Justification** – DOE, 2026-04-27 – Autonomous lab platform budget (pims_8105_budget-justification_template_foa-0003612-genesis_-_final_1pdf.md)
-- **Brookhaven National Laboratory Subaward Budget** – BNL, 2026-04-27 – DOE Genesis subaward budget (ws01629989-rr_subawardbudget_brookhavenpdf.md)
+### Proposals (NASA SBIR)
+- **Autonomy Phase II Proposal – DRAFT** | NASA ARMD | April 2026 | Phase II SBIR proposal for SwiftCore Flight Management System (DRAFT status) (autonomy_phase_ii-proposal-draft.md)
 
-### RFI Responses (Request for Information)
-- **NASA ARMD AFA RFI: S3 Nomad** – NASA ARMD, 2026-04-16 – RFI response (nasa_aero_rfi_s3_nomad.md)
-- **NASA ARMD AFA RFI: Strato Balloon** – NASA ARMD, 2026-04-27 – RFI response (nasa_aero_rfi_strato_balloon.md)
-- **NASA ARMD AFA RFI: Autonomy and Avionics** – NASA ARMD, 2026-04-16 – Draft RFI response (nasa_aero_rfi_autonomy_and_avionics.md)
-- **Advancement of "Science as a Service" (SaaS) for NASA and Commercial Partners – RFI** – NASA SMD, 2026-04-21 – RFI response (advancement_of_science_as_a_service_saas_for_nasa_and_commerical_partners-rfi_as.md)
+### Requests for Information (RFI) Responses
+- **NASA ARMD Aeronautics Flight Accelerator RFI Response: Strato Balloon** | NASA ARMD | April 2026 | RFI response for S0 in Aeronautics Flight Accelerator (nasa_aero_rfi_strato_balloon.md)
+- **NASA ARMD Aeronautics Flight Accelerator RFI Response – S3 Nomad** | NASA ARMD | April 2026 | RFI response for S3 Nomad platform (nasa_aero_rfi_s3_nomad.md)
+- **NASA ARMD Aeronautics Flight Accelerator RFI Response: Autonomy and Avionics** | NASA ARMD | April 2026 | DRAFT RFI response on autonomy/avionics (nasa_aero_rfi_autonomy_and_avionics.md)
+- **Response to NASA SMD Request for Information NNH26ZDA006L** | NASA SMD | April 29, 2026 | RFI response for Science as a Service / VTA program (elston-jack-1-rfi.md)
 
-### Solicitations / Broad Agency Announcements (BAA)
-- **NASA FY26-27 SBIR/STTR BAA Appendix 26B-I STTR** – NASA, 2026-04-21 – STTR Phase I solicitation (nasa2026-2027sbirsttrbaaappendix26b-isttrpdf.md)
-- **NASA FY26-27 SBIR/STTR BAA Appendix 26B-I SBIR** – NASA, 2026-04-21 – SBIR Phase I solicitation (nasa2026-2027sbirsttrbaaappendix26b-isbirpdf.md)
-- **NASA FY26-27 SBIR/STTR BAA Appendix 26A-I SBIR Phase I** – NASA, 2026-04-21 – SBIR Phase I solicitation (nasa2026-2027sbirsttrbaaappendix26a-isbirpdf.md)
+### Internal Planning Documents
+- **Navy STTR Phase I Proposal Planning Document: Expendable Air-Sea Profiling in Hazardous Weather** | U.S. Navy ONR | January 2025 | Pre-proposal strategy document for Navy STTR (planning_doc.md)
 
-### Briefings / Project Reports
-- **BST ECS-DoT Investor Briefing** – EMASS/Nanoveu, 2026-04-27 – Project interim report on Edge-AI flight control validation (bst_ecs-dot_investor_briefing.md)
+### Biographical Sketches (DOE OMB-3145-0279)
+- **Genesis_BST_Bio_Urban.pdf** | DOE | April 12, 2026 | Biographical sketch for Nathan M. Urban (genesis_bst_bio_urbanpdf.md)
+- **Genesis_BST_Bio_deBoer.pdf** | DOE | April 13, 2026 | Biographical sketch for Gijs de Boer (genesis_bst_bio_deboerpdf.md)
 
----
+### Current and Pending Support Disclosures (DOE OMB-3145-0279)
+- **Genesis_BST_CP_Urban.pdf** | DOE | April 22, 2026 | Current and Pending Support disclosure for Nathan Urban (genesis_bst_cp_urbanpdf.md)
+- **Genesis_BST_CP_deBoer.pdf** | DOE | April 16, 2026 | Current and Pending Support disclosure for Gijs de Boer (genesis_bst_cp_deboerpdf.md)
 
-## By Date
+### Organizational Letters of Commitment
+- **Dr. Jack Elston - Black Swift Technologies LLC (Organizational Letter of Commitment)** | DOE/Brookhaven NL | April 15, 2026 | Commitment letter for Genesis Missions AI program (dr_jack_elston__black_swift_technologies_llcpdf.md)
 
-### April 2026 – Early (Apr 1-15)
-- *None in this batch*
+### Broad Agency Announcements (BAA)
+- **DoD 25.4 SBIR BAA FULL_R12_04132026.pdf** | DoD | April 28, 2026 | SBIR 25.4 Annual Program BAA, Amendment 1 (dod_254_sbir_baa_full_r12_04132026pdf.md)
+- **DoW 2026 STTR BAA FULL_04132026.pdf** | DoW | April 28, 2026 | FY2026 STTR BAA with six monthly releases (dow_2026_sttr_baa_full_04132026pdf.md)
+- **DoW 2026 SBIR BAA FULL_R1_04132026.pdf** | DoW | April 28, 2026 | FY2026 SBIR Program BAA, Release 1 (dow_2026_sbir_baa_full_r1_04132026pdf.md)
 
-### April 2026 – Mid (Apr 16-21)
-- **NASA ARMD AFA RFI: S3 Nomad** – Created 2026-04-16 (nasa_aero_rfi_s3_nomad.md)
-- **NASA ARMD AFA RFI: Autonomy and Avionics** – Created 2026-04-13, Modified 2026-04-16 (nasa_aero_rfi_autonomy_and_avionics.md)
-- **NASA FY26-27 SBIR/STTR BAA Documents (3 appendices)** – Issued 2026-04-21 (various SBIR/STTR files)
-- **Advancement of "Science as a Service" (SaaS) – RFI Amendment #1** – Amendment issued 2026-04-21 (advancement_of_science_as_a_service_saas_for_nasa_and_commerical_partners-rfi_as.md)
-
-### April 2026 – Late (Apr 22-30)
-- **DOE Genesis Budget Justification** – Modified 2026-04-27 (doe_genesis_budget_justification_bst.md)
-- **NASA ARMD AFA RFI: Strato Balloon** – Modified 2026-04-27 (nasa_aero_rfi_strato_balloon.md)
-- **AI-Enabled Mobile Autonomous Laboratories Budget Justification** – 2026-04-27 (pims_8105_budget-justification_template_foa-0003612-genesis_-_final_1pdf.md)
-- **Brookhaven National Laboratory Subaward Budget** – Created/Modified 2026-04-27 (ws01629989-rr_subawardbudget_brookhavenpdf.md)
-- **BST ECS-DoT Investor Briefing** – Created/Modified 2026-04-27; references flight date 2026-04-24 (bst_ecs-dot_investor_briefing.md)
+### Commercial Solutions Opening (CSO)
+- **DoW 2026 SBIR CSO FULL_R1_04132026.pdf** | DoW | April 13, 2026 | SBIR Commercial Solutions Opening solicitation (dow_2026_sbir_cso_full_r1_04132026pdf.md)
 
 ---
 
-## Key Personnel Index
+## Document Summary Statistics
 
-- **Dr. Jack Elston** – Principal Investigator / Technical POC / CTO (multiple documents)
-- **Dr. Maciej Stachura** – Chief Technology Officer (doe_genesis_budget_justification_bst.md)
-- **Beck Cotter** – Administrative contact / Editor (nasa_aero_rfi_s3_nomad.md, ws01629989-rr_subawardbudget_brookhavenpdf.md)
-- **Gijs de Boer** – Brookhaven National Laboratory PI (pims_8105_budget-justification_template_foa-0003612-genesis_-_final_1pdf.md)
-- **Nathan Urban** – BNL Co-I (pims_8105_budget-justification_template_foa-0003612-genesis_-_final_1pdf.md)
-- **Andrew McMahon** – BNL Team Engineer (pims_8105_budget-justification_template_foa-0003612-genesis_-_final_1pdf.md)
-- **Fernando Jose Llorente** – BNL Team Member (pims_8105_budget-justification_template_foa-0003612-genesis_-_final_1pdf.md)
-- **Michael Seablom** – NASA Earth Science Division (advancement_of_science_as_a_service_saas_for_nasa_and_commerical_partners-rfi_as.md)
+| Metric | Count |
+|--------|-------|
+| **Total Documents** | 19 |
+| **NASA Documents** | 5 |
+| **DoD/DoW Documents** | 4 |
+| **DOE Documents** | 5 |
+| **Navy/ONR Documents** | 1 |
+| **Proposals/RFI Responses** | 5 |
+| **Planning/Strategy Documents** | 1 |
+| **Personnel Biographical/Support Forms** | 6 |
+| **Letters of Commitment** | 1 |
+| **Government BAAs/Solicitations** | 4 |
+| **DRAFT Status** | 2 |
+
+---
+
+**Usage Notes:**
+- Files in parentheses indicate the markdown knowledge file name for accessing full document content
+- DRAFT documents are incomplete and may contain template sections
+- Most documents created/modified April 2026
+- Key BST personnel: Jack Elston (CEO), Beck Cotter, Gijs de Boer, Nathan Urban
+- Key systems: S0, S2, S2-VTOL, S3 Nomad, SwiftCore

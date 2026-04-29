@@ -4,14 +4,14 @@
     "(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-04-22",
-    "end": "2026-04-23"
+    "start": "2026-04-28",
+    "end": "2026-04-29"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 508.0,
+    "expenses": 439.98,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 508.0
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 439.98
     }
   },
   "invoices": [],
@@ -19,19 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-04-22",
-      "doc_number": "11385",
-      "total": 508.0,
-      "attributed": 508.0,
+      "date": "2026-04-28",
+      "doc_number": "Z100698536",
+      "total": 439.98,
+      "attributed": 439.98,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "",
+      "memo": "Virtual Card",
       "lines": [
         {
-          "amount": 508.0,
+          "amount": 439.98,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "DS-30A-1 White Magnum Drone Strobe; DS-30A-1 Red Magnum Drone Strobe; DS-30A-1 Green Magnum Drone Strobe"
+          "description": "Tube - Round - INFINITubeV - Intermediate Modulus - Spread Tow - Size 04 - 0.750 X 0.85 X 74 Inch"
         }
       ]
     }

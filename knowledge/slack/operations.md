@@ -76,5 +76,4 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **Responsibility:** Paige Smith coordinating marketing language and compliance documentation with input from Maciej, Joshua Fromm, and Alex Lomis
 
 ### AI Assistant Development (April 2026)
-- **April 6, 2026:** Jack Elston implementing "Jack Bot" AI assistant that reads #operations channel history to provide task summaries and refine outputs based on team feedback.
-- **April 16-17, 
+- **April 6, 2026:** Jack Elston implementing "Jack Bot" AI assistant that reads #operations channel history to provide task summaries and refine outputs based on team feedback. Purpose: improve communication clarity and reduce duplicate questions.

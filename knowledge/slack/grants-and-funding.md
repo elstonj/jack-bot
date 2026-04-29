@@ -4,11 +4,11 @@
 
 This channel tracks Black Swift Technologies' grant applications, funding pursuits, and government contracting efforts across federal agencies (NASA, DOD, NOAA, USDA, etc.). It serves as the central hub for proposal submissions, funding strategy discussions, budget development, and award management.
 
-**Key Participants:** Jack Elston (primary decision-maker), Maciej (technical/proposal support), Meredith Needham (budget/administrative), Dan Prendergast (proposal coordination), Beck Cotter (program management), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm, and others contributing to specific proposals.
+**Key Participants:** Jack Elston (primary decision-maker), Maciej (technical/proposal support), Meredith Needham (budget/administrative), Dan Prendergast (proposal coordination), Beck Cotter (program management), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm, Paige Smith (presentation/logistics support), and others contributing to specific proposals.
 
-**Activity Level:** High throughout the period (March 2024 - April 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Most recent activity (April 27, 2026) continues at peak intensity with multiple concurrent NASA, DOD, and DOE submissions in active coordination phases.
+**Activity Level:** High throughout the period (March 2024 - April 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Most recent activity (April 28-29, 2026) continues at peak intensity with multiple concurrent NASA, DOD, and DOE submissions in active coordination and finalization phases. Significant logistics and visitor coordination alongside proposal work.
 
-**Time Range:** March 3, 2024 - April 27, 2026
+**Time Range:** March 3, 2024 - April 29, 2026
 
 ---
 
@@ -86,5 +86,4 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 - **DoD solicitation review** (April 27, 2026): Dan Prendergast curating comprehensive list of DoD solicitations for team review on April 28; most due dates pushed to June (only one with May 13/15 deadline). Clarified that bot missed several that needed manual addition.
 
-### Demo and Testing Decisions
-- **Overwater delivery demo accepted** (February 2025): Selected from 44 submissions (1 of 12); scheduled for
+- **NASA Phase I submission limit** (April 28

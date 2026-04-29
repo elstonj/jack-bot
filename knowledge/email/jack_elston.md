@@ -1,97 +1,96 @@
 # Jack Elston — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,169 (1,048 prior + 21 Apr 26–27 + 100 new Apr 27–28)
-- **Date range:** April 1–28, 2026
-- **Approximate volume:** High-frequency correspondent; 100+ messages/day typical
-- **New activity (Apr 27–28):** 100 messages; **sustained operational intensity with major DoD/SBIR proposal coordination surge and international defense partnership expansion**
-- **Activity pattern:** Sustained weekday morning/afternoon work (Apr 27–28 06:00–22:00 UTC−6); shift toward government proposal planning, international vendor coordination, and academic partnership acceleration
+- **Total messages scanned:** 1,265 (1,169 prior + 96 new Apr 28–29)
+- **Date range:** April 1–29, 2026
+- **Approximate volume:** 100+ messages/day sustained; **Apr 28–29: 96 messages in 30 hours** indicates continued operational intensity
+- **Activity pattern:** Apr 28 peak (06:56–22:09 UTC−6); Apr 29 morning continuation (02:33–08:04 UTC); sustained government/academic coordination + procurement acceleration
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal BST Contacts
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — **EXPANDED ROLE: Operations, Genesis Phase I coordination, DoD proposal planning, Krateo Sky liaison, Ministry of Defense vendor portal coordination**
-  - Multiple meeting invitations (DoD proposal planning Apr 28 10am–11am, Educational Inquiries forwarded)
-  - Genesis Phase I multi-turn coordination with BNL team
-  
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, logistics, R&D reporting, DCAA accounting coordination
-  - Black Swift Technologies 2025 R&D Final Report forwarding (Apr 27, 23:15 UTC with Mark Kightlinger, KPMG tax)
-  - DCAA Accounting Quote coordination with Reliascent
-  
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **KEY EXPANSION: DoD/SOCOM coordination, Flight Testing liaison, S2 MHP technical discussion acceptance**
-  - Invitation acceptance: "Discussion on S2 MHP @ Tue Apr 28 11am–11:30am (Jack Elston)" (Apr 27, 14:53 UTC)
-  - SOCOM RFI S0 coordination with Evan M. Wolff (USSOCOM)
-  - Flight Testing Updates multi-turn with NanoVeu
-  - DoD proposal planning meeting (Apr 28 10am–11am, with Jack, Maciej, Beck)
-  
-- **Maciej Stachura** (stachura@blackswifttech.com) — Technical/operational
-  - DoD proposal planning meeting invitee (Apr 28)
-  
-- **Sam Hild** (sam.hild@blackswifttech.com) — Engineering; Power Supply Board Re-spin coordination (via microfirm@earthlink.net)
-- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — M2 Aircraft Update coordination (with Nicholas Phillips, ByLight)
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — Operations, DoD proposal coordination, Genesis Phase I liaison
+  - Recipient: S2 MHP discussion notes forwarded (Apr 28, 11:40 UTC−6)
+  - Recipient: US Navy unmanned test platform collaboration discussion (Apr 28, 09:58 UTC−6)
+
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, R&D reporting, DCAA compliance
+  - Sender: Re: Notes "Discussion on S2 MHP" Apr 28 (Apr 28, 15:15 UTC−6; IMPORTANT)
+  - Sender: Re: MP JET Parts (Apr 28, 11:11 UTC−6; IMPORTANT)
+  - Sender: R&D Final Report coordination with Krateo Sky/KPMG (Apr 28)
+
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — DoD/SOCOM, Flight Testing, technical liaison
+  - Primary contact for: NanoVeu Flight Testing Updates (multi-turn Apr 28; IMPORTANT)
+  - Primary contact for: SOCOM RFI S0 / USAF 53 WRS coordination (Apr 28, 11:34–17:47 UTC−6; IMPORTANT)
+  - Primary contact for: Mexican AFAC/Popocatépetl volcanic monitoring (Apr 28, 08:48 UTC−6; IMPORTANT)
+  - Primary contact for: Atmolab Camera System / C-Astral coordination (Apr 28, 14:13–16:01 UTC−6; IMPORTANT)
+  - Primary contact for: Arctic Demo in Ottawa / Invest Ottawa coordination (Apr 28, 12:55 UTC−6; IMPORTANT)
+
+- **Maciej Stachura** (stachura@blackswifttech.com) — Technical/operations
+  - Recipient: S2 MHP discussion notes (Apr 28, 11:40 UTC−6)
+  - Recipient: US Navy collaboration discussion (Apr 28, 09:58 UTC−6)
+  - Sender involved in: MP JET Parts coordination with Oier Penagaricano/Alerion Tec (Apr 28, 08:56 UTC−6; IMPORTANT)
+
+- **Sam Hild** (sam.hild@blackswifttech.com) — Engineering
+  - Sender: Re: Power Supply Board Re-spin (Apr 28, 09:10 UTC−6; IMPORTANT)
+
+- **Paige Smith** (paige.smith@blackswifttech.com) — Internal BSW session coordination
+  - Recipient: "Fwd: BSW Session | ACTION NEEDED" (Apr 28, 15:15 UTC−6)
 
 ### Top External Contacts
 
-#### **Government/Defense — MAJOR EXPANSION (Apr 27–28)**
+#### **Government/Defense — SUSTAINED HIGH ACTIVITY (Apr 28–29)**
 
-**U.S. Department of Defense / SOCOM**
-- **Evan M. Wolff** (evan.m.wolff.mil@socom.mil), **Michael C. Jagelewski** (michael.c.jagelewski.civ@socom.mil) — USSOCOM RFI S0 coordination; Daniel Prendergast acting as primary BST contact
-- **Paulino Alonso Rivera** (paulino.alonso@sspc.gob.mx) — **NEW: Mexican government (SSPC/Secretaría de Seguridad Pública Estatal)**
-  - Subject: "AFAC Requirements for RPAS Operations – Popocatépetl Volcanic Gas Monitoring Campaign" (Apr 27, 00:09 UTC; marked IMPORTANT)
-  - Multi-agency UAS regulatory/operational coordination
-  - **Recipient:** Jack Elston + Daniel Prendergast (shared responsibility)
+**U.S. Department of Defense / SOCOM / USAF**
+- **Evan M. Wolff** (evan.m.wolff.mil@socom.mil), **Michael C. Jagelewski** (michael.c.jagelewski.civ@socom.mil) — USSOCOM RFI S0 coordination
+  - Daniel Prendergast primary contact; **USAF 53 WRS involvement NEW: Lt Col Ryan A. Rickert** (ryan.rickert.4@us.af.mil)
+  - Multi-turn classified/unclassified coordination Apr 28 (11:34–17:47 UTC−6; IMPORTANT, marked "[Non-DoD Source]")
+  
+- **Ryan A. Rickert, Lt Col USAF AFRC 53 WRS/ARWO** (ryan.rickert.4@us.af.mil) — **NEW: U.S. Air Force RFI S0 coordination**
+  - Sender: RE: (U) [Non-DoD Source] Re: RFI S0 (Apr 28, 17:47 UTC; IMPORTANT)
+  - Sender: Multi-turn with SOCOM/Daniel Prendergast (Apr 28, 11:34–17:47 UTC−6)
+
+- **WAWF/DISA Federal** — **Federal contract payment notification (Apr 28, 07:38 UTC−4)**
+  - Subject: N6833525C0492 \ 6PGF9 \ CI\BST0005\1748 \ Paid
+  - Indicates active federal procurement/contract payment processing
 
 **NOAA Federal**
-- **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — Ground Station coordination; **sustained 7-turn exchange Apr 27 (13:10–15:55 UTC)**
-  - Critical infrastructure/environmental monitoring application
-  - Jack primary point of contact; high-frequency responsive engagement
+- **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — Ground Station and demo unit coordination
+  - **Sustained 5-turn exchange Apr 28 (14:13–16:37 UTC−6; IMPORTANT)**
+  - Jack primary contact; real-time responsive engagement pattern
+  - Topics: Ground station deliverables, demo unit specifications
 
-**Brookhaven National Laboratory (BNL) — Genesis Phase I**
-- **Fernando Jose Llorente** (fllorente@bnl.gov) — Lead investigator; sustained multi-turn technical coordination (Apr 27, 09:48–17:59 UTC)
-- **Gijs de Boer** (gdeboer@bnl.gov) — Co-investigator; active technical discussions
-- **Nathan Urban** (nurban@bnl.gov) — Co-investigator; active technical discussions
+**International/Geopolitical**
 
-**Federal Government Workshop/Conference**
-- **Matthew A. Burgess** (maburgess@usgs.gov) — USGS; "Call for Speakers – 7th Federal Uncrewed Systems (UxS) Workshop – March 16–18, 2027" (Apr 27, 18:53 UTC; marked IMPORTANT)
-  - Jack on speaker nomination radar for federal UxS community
+- **Paulino Alonso Rivera** (paulino.alonso@sspc.gob.mx) — **Mexican SSPC (Secretaría de Seguridad Pública Estatal)**
+  - Subject: "AFAC Requirements for RPAS Operations – Popocatépetl Volcanic Gas Monitoring Campaign"
+  - Daniel Prendergast response Apr 28, 08:48 UTC−6 (IMPORTANT, INBOX)
+  - **Shift from Apr 27 Popocatépetl focus → direct Mexican government regulatory coordination**
 
-#### **International/Defense Partnerships — GEOPOLITICAL EXPANSION**
-
-**Ministry of Defense Vendor Portal (Saudi Arabia/Middle East)**
-- **Bob Smith, Brian Grubel, Scott Wine** (Krateo Sky leadership) — **Multi-turn coordination Apr 27 (09:00 UTC → 14:21 UTC)**
-  - Subject: "دعوة للتسجيل في بوابة الموردين بوزارة الدفاع" (Arabic: Ministry of Defense Vendor Portal Registration Invitation)
-  - Jack initiated forwarding (Apr 27, 09:00 UTC); strategic escalation to Krateo Sky & Beck Cotter
-  - **Interpretation:** BST/Krateo Sky pursuing formal vendor registration with Middle East defense ministry
-
-**European Defense Industry**
-- **Brody Basset** (bb@defensecoalitions.org) — **NEW: Defense Coalitions organization (2 multi-turn exchanges Apr 27, 17:18–23:50 UTC)**
-  - Subject: "FW: Europe Market Access for UAS, C-UAS & Space Defense: Transatlantic Defense Industry Access Forum" (marked IMPORTANT)
-  - Counter-UAS (C-UAS) + Space Defense market access discussion
-  - Jack engaged in transatlantic defense industry forum coordination
-
-#### **Research & Academic Partnerships**
+#### **Academic/Research Partnerships — EXPANDED (Apr 28–29)**
 
 **Stanford University**
-- **Tanay Topac** (tanaytopac@stanford.edu) — S2 MHP technical discussion (confirmed meeting Apr 28, 11am–11:30am via Daniel Prendergast acceptance)
-- **Ellie Zhang** (exzha@stanford.edu) — "Question on Flight Control Architecture" (Apr 27, 17:14 UTC; marked IMPORTANT)
-- **Fu-Kuo Chang** (fukuochang@icloud.com) — International collaborator; S2 MHP discussion (prior)
+- **Tanay Topac** (tanaytopac@stanford.edu) — S2 MHP technical discussion, data alignment
+  - **Sustained 4-turn exchange Apr 28 (12:07–18:28 UTC; IMPORTANT)**
+  - Apr 29 continued: "Re: MHP data alignment" (00:53 UTC; UNREAD, IMPORTANT)
+  - Jack primary technical point of contact; high-engagement pattern
 
 **University of Maryland Eastern Shore (UMES)**
-- **Christopher E. Hartman** (chartman@umes.edu) — "Black Swift Update" (Apr 27, 20:50 UTC; Jack response 09:16 UTC; marked IMPORTANT)
-  - Institutional relationship; likely research partnership or talent pipeline
+- **Christopher E. Hartman** (chartman@umes.edu) — "Black Swift Update"
+  - Sustained multi-turn exchange Apr 28 (09:44–18:05 UTC; IMPORTANT)
+  - Jack primary contact; institutional relationship deepening
+
+**University of Montana**
+- **Madelyn Mettler** (MadelynMettler@montana.edu) — **NEW MAJOR: US Navy unmanned test platform collaboration + TechLink intro**
+  - Subject 1: "Unmanned test platform collaboration with US Navy" (Apr 28, 14:20 UTC; IMPORTANT)
+  - Subject 2: "Black Swift and TechLink intro" (Apr 28, 18:19 UTC; IMPORTANT; **recipients: Jack + Beck + Maciej + Daniel**)
+  - **Multi-turn exchange Apr 28 (09:58–18:05 UTC)**
+  - **Strategic significance:** Montana acting as broker for US Navy partnership; TechLink (federal tech transfer) introduction
 
 #### **Flight Testing & Simulation**
-- **Nikhila Ravikumar** (Nikhila@nanoveu.com), NanoVeu team — **Active multi-turn Apr 27 (13:26–18:10 UTC)**
-  - Sustained Flight Testing Updates coordination (Daniel Prendergast primary contact)
 
-#### **Commercial/Technical Partners**
-
-**Waveform Engineering**
-- **Matt Crabtree** (matt.crabtree@waveformengineering.com) — **"Update - Hurricane Season Builds - Part Sourcing" (Apr 27, 13:12–19:15 UTC; 3-turn exchange; marked IMPORTANT)**
-  - Active supply chain/components coordination for operational deployments
-
-**Krateo Sky Ecosystem**
-- **Lisa Marie Cheney** (LisaMarie@krateosky.com) — Camera Data Sheet coordination (Apr 28, 00:38 UTC; marked IMPORTANT; sustained from prior period)
-- **Brian Gr
+**NanoVeu (Flight Testing Contractor)**
+- **Nikhila Ravikumar** (Nikhila@nanoveu.com), **Scott Smyser** (Scott@nanoveu.com)
+  - Subject: "Flight Testing Updates" — **sustained multi-turn coordination Apr 28 (12:55–19:02 UTC; IMPORTANT)**
+  - Subject: "Additional ECSDOT Flights" (Apr 28, 15:

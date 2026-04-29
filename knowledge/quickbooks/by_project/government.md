@@ -36,16 +36,13 @@
 | (207) Volcano CCRPP | $254,997.00 | Final reports |
 | (210-10) AREN 2024 | $92,500.00 | Aerospace Engineering |
 
-**Recent invoices (2026-04-15 to 2026-09-28):**
-- **Invoice #1737** (2026-04-15): $54,000.00 — CLIN 1001 Invoice 2 of 6 [300-3] 2026 IDIQ
+**Recent invoices (2026-05-15 to 2026-09-28):**
 - **Invoice #1738** (2026-05-15): $54,000.00 — CLIN 1001 Invoice 3 of 6 [300-3] 2026 IDIQ
 - **Invoice #1739** (2026-06-15): $72,000.00 — CLIN 1001 Invoice 4 of 6 [300-3] 2026 IDIQ
+- **Invoice #1749** (2026-06-29): $35,000.00 — Navy SBIR CLIN 0006 Progress Report - Option [550-1]
 - **Invoice #1740** (2026-07-15): $72,000.00 — CLIN 1001 Invoice 5 of 6 [300-3] 2026 IDIQ
 - **Invoice #1741** (2026-07-30): $72,000.00 — CLIN 1001 Invoice 6 of 6 [300-3] 2026 IDIQ
-- **Invoice #1748** (2026-04-14): $50,000.00 — Navy SBIR Kick-Off & FWA (Option Period) [550-1]
-- **Invoice #1749** (2026-06-29): $35,000.00 — Navy SBIR CLIN 0006 Progress Report - Option [550-1]
 - **Invoice #1750** (2026-09-28): $14,459.00 — Navy SBIR CLIN 0007 Final Report [550-1]
-- **Invoice #1757** (2026-04-15): $18,000.00 — Operational Testing & Support, Clear Air, Lakeland FL [300-3]
 
 ---
 
@@ -155,3 +152,14 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 ## Purchase Orders
 | PO Number | Date | Vendor | Amount | Description |
 |-----------|------|--------|--------|
+| *No new POs* | — | — | — | — |
+
+---
+
+## Monthly Spend by Category
+
+### **2026 Year-to-Date Spend Pattern (April–September 2026)**
+
+| Month | Subcontractors | Materials & Supplies | Travel | Shipping | Indirect Costs | Facilities | Other | **Monthly Total** |
+|-------|---|---|---|---|---|---|---|---|
+| **April 2026** | $38,703.47 | $14,208.16 | $1,247.03 | $387.15 | $8,117

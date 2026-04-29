@@ -40,7 +40,7 @@ Provide continuous high-resolution infrared (IR) imagery and in-situ gas samplin
 - Project archived Oct 21, 2024
 
 ## Business Development — NASA Follow-On Opportunity
-**Team Note (Alex Lomis, 4/17-4/20/26):** NASA RFI (Request for Information) shared for potential hurricane ET opportunity, recommended by NASA stakeholders and Joe for team review during hurricane ET call:
+**Team Note (Alex Lomis, 4/17-4/20/26):** NASA RFI (Request for Information) shared for potential hurricane ET opportunity, recommended by NASA stakeholders and Joe for team review:
 
 https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
 
@@ -53,7 +53,7 @@ https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
 - **Operator:** Dan Prendergast
 - **Key deliverable:** NTSR (New Technology Summary Report) — indicates this was a technology demonstration for NASA
 - **No cost overruns or timeline slippages** — project well-executed with early final report submission
-- **Budget clarification:** Total $80,972 to BST per custom field; project notes confirm $55,976 BST + $25,000 in-country contractor allocation
+- **Budget clarification:** Total $80,972 budgeted; custom field notes confirm $55,976 BST + $25,000 in-country contractor allocation
 
 ---
 

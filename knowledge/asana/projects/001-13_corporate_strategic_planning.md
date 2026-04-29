@@ -9,7 +9,7 @@
 - **Risk Signals**: 
   - 1 remaining open task (lease termination planning) — unassigned, no due date
   - Multiple major funding proposals (2024-2025) were not funded despite significant effort ($300K–$896.5K range)
-  - Mexico USGS deployment **DELAYED to Fall 2026** (per Jack, Apr 20, 2026) — **disregard any Asana tasks referencing April 2026 departure dates**
+  - **Mexico USGS deployment DELAYED to Fall 2026** (per Jack, Apr 20, 2026) — **disregard any Asana tasks referencing April 2026 departure dates; no flight planning, shipping, or mission prep imminent**
   - Navy project tasks completed (per Maciej, Apr 17, 2026)
 
 ## Key Deliverables & Milestones
@@ -40,7 +40,7 @@
 - **Total Tasks**: 1 open, 154 completed (99.4% completion rate)
 - **Tasks by Assignee**:
   - **Jack Elston**: Strategic leadership, financial planning, business development, website updates, investor relations
-  - **Maciej Stachura**: SBIR proposal management, technical opportunities, proposal submissions (6+ proposals over 2022–2024); Navy project oversight
+  - **Maciej Stachura**: SBIR proposal management, technical opportunities, proposal submissions (6+ proposals over 2022–2024); Navy project oversight (completed as of Apr 17, 2026)
   - **Meredith O'Hara Needham**: Administrative support, document collection and organization, LOI/MOU/support letter curation
   - **Unassigned**: Many proposals and strategic initiatives (indicating historical workflow or project evolution)
 - **Notable Patterns**: 
@@ -59,10 +59,10 @@
 - **USDA SBIR submission** (Jul 2024)
 - **NASA Ignite Greenhouse Gas Measurement** (Jul 2024)
 
-### Project Deployments (April 2026 Status — Team Corrections)
+### Project Status Updates (April 2026)
 **[CORRECTION] Per Jack (Apr 20, 2026)**: Mexico USGS volcano deployment (350-4) is **DELAYED to Fall 2026**. Not departing April 20, 2026. **No flight planning, shipping, or mission prep imminent.** Any Asana tasks referencing April 2026 dates are **stale — disregard them.**
 
-**Per Maciej (Apr 17, 2026)**: Navy project tasks are completed. Meeting reminder requested for scheduled date.
+**Per Maciej (Apr 17, 2026)**: Navy project tasks are **completed**. Meeting reminder requested for scheduled date.
 
 ### Outstanding Item
 - **Lease Termination Planning** (Open, unassigned, no due date)
@@ -121,5 +121,4 @@
 - **Operational Transition**: Ongoing shift from spreadsheet-based financial management to integrated QuickBooks reporting (Aug 2024 update indicates progress)
 - **Deployment Status (April 2026)**: 
   - Mexico USGS volcano project **delayed to Fall 2026** (per Jack, Apr 20, 2026) — **disregard April 2026 task dates as stale**
-  - Navy project concluded (per Maciej, Apr 17, 2026) — no further action needed
-  - **Do not
+  - Navy project concluded (per Maciej,

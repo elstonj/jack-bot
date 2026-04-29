@@ -1,60 +1,41 @@
 {
   "project_code": "_unclassified",
   "qbo_class_names": [
-    "",
-    "IRISS, CU Boulder"
+    ""
   ],
   "period": {
-    "start": "2026-04-24",
-    "end": "2026-04-25"
+    "start": "2026-04-28",
+    "end": "2026-04-29"
   },
   "totals": {
-    "revenue": 664.98,
-    "expenses": 0.0,
-    "by_category": {}
+    "revenue": 0.0,
+    "expenses": 4335.0,
+    "by_category": {
+      "Inventory Asset": 4335.0
+    }
   },
-  "invoices": [
+  "invoices": [],
+  "bills": [],
+  "purchases": [
     {
-      "type": "Invoice",
-      "date": "2026-04-24",
-      "doc_number": "1759",
-      "total": 664.98,
-      "attributed": 664.98,
+      "type": "Purchase",
+      "date": "2026-04-28",
+      "doc_number": "SO-01510",
+      "total": 4335.0,
+      "attributed": 4335.0,
       "vendor": "",
-      "customer": "IRISS, CU Boulder",
-      "balance": 664.98,
-      "memo": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request. Josh Fromm made a request via email and confirmed with J. Elston in Slack",
       "lines": [
         {
-          "amount": 209.98,
-          "account": "",
-          "description": "Flap Servo"
-        },
-        {
-          "amount": 40.0,
-          "account": "",
-          "description": ""
-        },
-        {
-          "amount": 40.0,
-          "account": "",
-          "description": ""
-        },
-        {
-          "amount": 375.0,
-          "account": "",
-          "description": "Labor: 3 hours"
-        },
-        {
-          "amount": 664.98,
-          "account": "",
-          "description": ""
+          "amount": 4335.0,
+          "account": "Inventory Asset",
+          "description": "For future S3 sales to customers (UMES, Barbados, INSTAAR)"
         }
       ]
     }
   ],
-  "bills": [],
-  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

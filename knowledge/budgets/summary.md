@@ -1,52 +1,66 @@
 # BST Project Financial Overview
 
-## CRITICAL FINDING: Unorganized Project Portfolio
+## Active Project Budgets
 
-**Status:** The document collection contains **1,181 budget documents** with **no consistent project coding system detected**. Projects are currently unassigned and ungrouped, making comprehensive financial overview challenging.
+| Project Code | Client | Total Budget | Contract Type | Status |
+|---|---|---|---|---|
+| 350-4 | USGS | $124,230.00 | Government Contract (Support Services) | Active |
 
----
-
-## Identified Active Projects
-
-### NASA — AREN (Aeropods Commercial)
-- **Project Code:** [200] NASA
-- **Client:** NASA
-- **Known Products/Components:** MiniCam Project
-- **Budget Status:** Preliminary cost analysis phase (as of Feb 2026)
-- **Contract Type:** Commercial product development
-- **Document Source:** Drive (BST MiniCam Preliminary Cost spreadsheet)
-- **Notes:** Early-stage costing; final unit costs pending component completion
+**Project 350-4 Details:**
+- Contract Number: 140G0323P0280
+- Period of Performance: 09/01/2023 – 09/30/2025
+- Primary Focus: Volcanic data collection mission to Nevado del Ruiz, Colombia
 
 ---
 
-## Data Organization Issues
+## By Funding Source
 
-| Category | Status | Notes |
-|----------|--------|-------|
-| **Project Coding** | ❌ Missing | No standardized project codes across portfolio |
-| **Budget Consolidation** | ❌ Incomplete | 1,181 documents not yet mapped to projects |
-| **Financial Hierarchy** | ❌ Unclear | Funding source grouping incomplete |
-| **Contract Type Classification** | ⚠️ Partial | SBIR phases, IRAD, and commercial types mentioned but not fully categorized |
-| **QuickBooks Integration** | ❌ Unknown | No QB data referenced in provided summary |
+**USGS (United States Geological Survey)**
+- Project 350-4: $124,230.00
+- **Total USGS Funding: $124,230.00**
 
 ---
 
-## Recommended Immediate Actions
+## By Contract Type
 
-1. **Implement Project Code System:** Create standard coding for all 1,181 documents (e.g., BST-NASA-[project]-[year])
-2. **Budget Roll-Up:** Consolidate budget data by:
-   - Funding source (NASA, NOAA, DoD, etc.)
-   - Contract type (SBIR I/II, IRAD, commercial)
-   - Project status (Active, Proposal, Completed)
-3. **Financial Baseline:** Extract total budgets, spend-to-date, and remaining obligations
-4. **QB Reconciliation:** Map active projects to QuickBooks accounts
+**Government Contract (Support Services)**
+- Project 350-4 (USGS): $124,230.00
+- **Total Government Contracts: $124,230.00**
 
 ---
 
-## Next Steps for Complete Overview
+## Financial Health Indicators
 
-Please provide:
-- Complete project roster with codes
-- Active projects' current budget balances
-- Contract types and funding sources for major initiatives
-- Known spend/burn rates
+### Budget Structure & Deployment Scenarios
+Project 350-4 is structured around two deployment options for volcanic monitoring:
+
+**Known Budget Components (Partial Data):**
+- Roundtrip Travel (Denver–Bogotá): $8,000
+- Lodging (2 persons, 15 nights @ $270/night): $8,100
+- Meals & Incidentals (2 persons, 16 days @ $90/day): $2,880
+- Flight Team Services (2 persons, 14 days @ $1,500/day): $42,000
+- Aircraft Rental & Insurance: *[Data incomplete in source document]*
+
+### Observations
+- **Contract Duration:** 24 months (well-established timeline through Sept 2025)
+- **Deployment-Based Budget:** High operational costs concentrated in field work phases
+- **Budget Completeness:** Document appears truncated; full budget breakdown unavailable
+- **Financial Status:** No spend data, drawdown information, or milestone billing data currently available
+
+---
+
+## QuickBooks Integration Notes
+
+- **Project 350-4:** Drive-based documentation only; no QuickBooks integration data referenced
+- No financial transactions, invoices, or actual spend data available in current documents
+- Recommend cross-reference with QuickBooks to track:
+  - Actual deployment costs vs. budgeted amounts
+  - Travel expenditures and team billing
+  - Aircraft/equipment rental invoices
+  - Milestone-based payments or drawdowns
+
+---
+
+## Summary
+
+**Current Portfolio:** Single active government contract with USGS totaling **$124,230.00**. Project involves field deployment operations with significant travel and operational costs. Complete budget documentation and actual spend tracking needed for comprehensive financial health assessment.

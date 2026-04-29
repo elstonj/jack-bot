@@ -1,90 +1,74 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 31 (11 from previous scan + 20 new)
-- **Date range:** 25 Apr 2026 – 28 Apr 2026
-- **Volume:** Moderate traffic; project-driven with clusters around critical deadlines (27 Apr); mix of direct correspondence and collaborative document updates
+- **Total messages scanned:** 38 (31 from previous scan + 7 new distinct)
+- **Date range:** 25 Apr 2026 – 29 Apr 2026
+- **Volume:** Moderate-to-high traffic; heavy clustering on 28 Apr 2026 (25+ messages); mix of direct correspondence, strategic coordination, vendor engagement, and event invitations
 
 ## Key Correspondents
 
 ### Internal (Black Swift Technologies)
-- **Jack Elston** (elstonj@blackswifttech.com) — Primary coordinator; DoD proposal planning, webinar discussions, Stanford collaboration, flight testing coordination
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — High-frequency correspondent; SOCOM RFI responses, Nanoveu flight testing, Google Docs collaboration, UAS webinar threads
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — Technical project lead; Genesis Phase I narrative with BNL (multiple rapid exchanges 27 Apr)
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — S2 MHP coordination
-- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — M2 Aircraft project coordination with ByLight
+- **Jack Elston** (elstonj@blackswifttech.com) — Primary strategic coordinator; continued high frequency on MHP data alignment, Atmolab camera system, Navy collaboration, S2 MHP discussion notes, XPONENTIAL 2026, UMES updates
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Continued high-frequency technical correspondent; Flight Testing Updates (Nanoveu, multiple rapid exchanges 28 Apr), ECSDOT flights, Atmolab camera coordination, AFRC RFI S0 responses (classified/controlled)
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — Technical coordination; Navy platform collaboration, Arctic Demo Days/NexTech event (Jun 1-2), included in strategic briefings
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — MP JET Parts coordination; Quickbooks payment processing (W. W. Reynolds Companies); included in Navy collaboration thread
 
 ### External
-- **Brookhaven National Laboratory (BNL):**
-  - Gijs de Boer (gdeboer@bnl.gov) — Genesis Phase I Technical Narrative; heavily engaged 27 Apr (5+ exchanges in single thread)
-  - Nathan Urban (nurban@bnl.gov)
-  - Fernando Jose Llorente (fllorente@bnl.gov)
+- **Stanford University:**
+  - Tanay Topac (tanaytopac@stanford.edu) — MHP data alignment discussion; marked IMPORTANT (escalating from previous scan)
 - **Nanoveu:**
-  - Nikhila Ravikumar (Nikhila@nanoveu.com) — Flight Testing Updates; escalating importance (multiple IMPORTANT flags)
+  - Nikhila Ravikumar (Nikhila@nanoveu.com) — Flight Testing Updates; **CRITICAL ACTIVITY**: 4+ rapid exchanges with Daniel Prendergast on 28 Apr, all marked IMPORTANT; escalating engagement
+  - Scott Smyser (Scott@nanoveu.com) — Additional ECSDOT Flights coordination
+- **C-Astral (Croatia):**
+  - Nejc Trost (nejc.trost@c-astral.com) — Atmolab Camera System; multi-party discussion with Krateo Sky (Lisa Marie Cheney, Brian Grubel), marked IMPORTANT
+- **Krateo Sky:**
+  - Lisa Marie Cheney (LisaMarie@krateosky.com) — Atmolab Camera System discussions; multiple IMPORTANT exchanges 28 Apr
+  - Brian Grubel (Brian@krateosky.com) — Camera system coordination
+- **U.S. Air Force (AFRC):**
+  - Lt Col Ryan A. Rickert, USAF AFRC 53 WRS/ARWO (ryan.rickert.4@us.af.mil) — RFI S0 responses; classified/controlled comms ("(U) [Non-DoD Source]" framing); marked IMPORTANT; multi-party thread with SOCOM (Evan Wolff)
 - **U.S. Special Operations Command (SOCOM):**
-  - Evan M. Wolff, MIL (evan.m.wolff.mil@socom.mil) — RFI S0 responses
-  - Michael C. Jagelewski, CIV (michael.c.jagelewski.civ@socom.mil)
-- **ByLight:**
-  - Nicholas Phillips (nicholas.phillips@bylight.com) — M2 Aircraft Update coordination
+  - Evan M. Wolff, MIL (evan.m.wolff.mil@socom.mil) — RFI S0 classified coordination; part of AFRC/SOCOM multi-party thread
+- **University of Montana:**
+  - Madelyn Mettler (MadelynMettler@montana.edu) — **NEW RELATIONSHIP**: US Navy unmanned test platform collaboration; TechLink intro; marked IMPORTANT; multiple exchanges 28 Apr; Maciej included in all-hands strategic briefings
 - **University of Maryland Eastern Shore (UMES):**
-  - Christopher E. Hartman (chartman@umes.edu) — "Black Swift Update" discussions
-- **UCAR (University Corporation for Atmospheric Research):**
-  - Chloe Swanson (cswanson@ucar.edu) — AVAPS agenda (likely Atmospheric Vertical Atmospheric Profiling System)
-- **Stanford University** (from previous scan):
-  - Tanay Topac, FK Chang, David Haron
-- **Aleriontec:**
-  - Oier Penagaricano (oier@aleriontec.com) — MP JET Parts discussion (cc'd to Meredith)
-- **USGS:**
-  - Matthew A. Burgess (maburgess@usgs.gov) — 7th Federal UxS Workshop CFP (forwarded to feduxsworkshop@gmail.com)
+  - Christopher E. Hartman (chartman@umes.edu) — Black Swift Update continuation; marked IMPORTANT
+- **Flow Engineering:**
+  - Jeremiah Bonsmith (jeremiah@flowengineering.com) — Meeting invitation (Flow Overview, Apr 28, 12:10–1pm MDT); Maciej organizer/invitee
+- **Tethered Aerosystems:**
+  - tetheredaero@gmail.com — **LARGE DISTRIBUTION LIST**: Tethered Aero event (May 1, 2026, 12pm–2:30pm MDT); Maciej on broad recipient list (~60+ recipients including Jack Elston, academic/industry contacts, military contacts)
+- **Invest Ottawa:**
+  - Noah Ray (nray@investottawa.ca) — Arctic Demo in Ottawa; marked IMPORTANT (new development)
+- **NOAA:**
+  - Joe Cione (joe.cione@noaa.gov) — UxS Industry Engagement Forum Series (4/29, 3–4pm EDT); forwarded to AOML teams and Navy contact (Joshua Cossuth, CNR Arlington)
+- **EKase Consulting:**
+  - Ed Kase (ed.kase@ekaseconsulting.com) — XPONENTIAL 2026 event coordination; marked IMPORTANT; includes Jack Elston and Maciej
 
-### External (Automated/Marketing)
-- u-blox connect (info@connect.u-blox.com) — ZED-X20P-01B GPS/GNSS precision module alert
-- Robotics.Press, SkyGeek, BannerBuzz (from previous scan)
+### External (Automated/Procurement)
+- **McMaster-Carr** (invoice.reply@mcmaster.com) — Receipt for Apr 28 order; procurement activity
+- **Quickbooks** (sales@blackswifttech.com) — Bill Pay processing for W. W. Reynolds Companies
 
 ## Topic Patterns
 
-### Active Projects
-- **S2 MHP** — Stanford collaboration; discussion meeting Tue 28 Apr 2026 (ongoing from previous scan)
-- **Genesis Phase I** — BNL/BST technical narrative; **CRITICAL ACTIVITY**: 6+ exchanges between BNL team (Boer, Urban, Llorente) and Beck Cotter on 27 Apr, suggesting document review or technical revision cycle
-- **DoD Proposal Planning** — Jack Elston coordinating review topics with Beck Cotter, Daniel Prendergast, and Maciej (27 Apr, marked IMPORTANT)
-- **Flight Testing Updates** — Nanoveu partnership; escalating priority (multiple IMPORTANT flags on 27 Apr)
-- **M2 Aircraft** — ByLight collaboration; Nicholas Phillips coordinating updates with Ethan Domagala
-- **RFI S0 / SOCOM** — Daniel Prendergast engaged with SOCOM military contacts (Evan Wolff, Michael Jagelewski); marked Non-DoD Source, suggesting controlled classification context
-- **Webinar: Modular Payloads for UAS** — Internal discussion loop (Jack Elston, Daniel Prendergast, Beck Cotter); multiple back-and-forth iterations 27 Apr
-- **MP JET Parts** — Aleriontec supplier coordination
+### Active Projects (Updated/Expanded)
+- **S2 MHP (Stanford)** — Data alignment discussion (Tanay Topac); discussion notes forwarded by Jack Elston to full team 28 Apr; ongoing collaboration
+- **Flight Testing (Nanoveu)** — **ESCALATING**: 4+ IMPORTANT messages 28 Apr between Daniel Prendergast and Nanoveu (Nikhila, Scott); ECSDOT flights specifically called out; suggests active flight campaign or deliverable pressure
+- **RFI S0 / SOCOM / AFRC** — Continuing classified/controlled DoD engagement; Daniel Prendergast primary BST contact; new AFRC contact (Lt Col Rickert, 53 WRS) now actively engaged; marked IMPORTANT; suggests RFI response cycle or proposal submission
+- **Atmolab Camera System** — **NEW ACTIVITY**: Jack Elston and Daniel Prendergast coordinating with C-Astral (Nejc Trost) and Krateo Sky (Lisa Marie Cheney, Brian Grubel); marked IMPORTANT; suggests payload integration or system evaluation
+- **US Navy Unmanned Test Platform Collaboration** — **NEW MAJOR INITIATIVE**: Madelyn Mettler (University of Montana) as lead contact; Jack Elston, Beck Cotter, Maciej, Daniel Prendergast all included in strategic briefings (28 Apr); marked IMPORTANT; appears to be emerging defense/military opportunity
+- **TechLink Introduction** — Related to Navy collaboration; Madelyn Mettler coordinating BST introduction to TechLink (likely tech transfer/commercialization partner)
+- **Arctic Demo in Ottawa** — Noah Ray (Invest Ottawa) coordinating; marked IMPORTANT; new geographic/market opportunity
+- **Arctic Demo Days/NexTech** — Beck Cotter organizing event Jun 1–2, 2026; Maciej invited to coordinate
+- **MP JET Parts** — Continued Aleriontec coordination (Oier Penagaricano); Maciej sent direct response 28 Apr
+- **XPONENTIAL 2026** — Industry event coordination; Ed Kase consulting; Jack Elston and Maciej involved
 
-### Research/Academic Partnerships
-- **AVAPS** — Atmospheric profiling; UCAR contact (Chloe Swanson)
-- **Black Swift Update** — Academic outreach/update to UMES (Christopher Hartman)
+### Emerging Research/Partnership Areas
+- **Tethered Aerosystems** — Large community event (May 1, 2026); broad academic and industry participation; indicates potential multi-stakeholder atmospheric/tethered platform initiative
+- **UxS Industry Engagement Forum** — NOAA-led (Joe Cione); includes Navy participation (Joshua Cossuth); broader UAS/unmanned systems industry engagement
 
-### Instrumentation
-- **ZED-X20P-01B** — u-blox high-precision GNSS module; technical product update (28 Apr)
+### Instrumentation/Systems
+- **Atmolab Camera System** — C-Astral/Krateo Sky integration; payload relevance to atmospheric or remote sensing missions
 
 ## Communication Patterns
 
-- **Temporal clustering:** Heavy activity on 27 Apr (Monday); 20+ messages concentrated in afternoon/evening hours (12:26–21:48 UTC), suggesting compressed deadline response
-- **Rapid multi-party exchanges:** Genesis Phase I thread shows 6 sequential replies within ~6 hours (BNL team and Beck Cotter); indicates urgent technical review or revision cycle
-- **Google Docs collaboration:** Daniel Prendergast flagged document collaboration on "BST/53rd/SOCOM Di..." (subject truncated), suggesting structured proposal or planning document with Maciej tagged as reviewer/contributor
-- **CC/BCC patterns:** Nikhila Ravikumar (Nanoveu) consistently copied to both Jack Elston and Daniel Prendergast on Flight Testing Updates, indicating parallel leadership visibility
-- **SOCOM comms:** Daniel Prendergast as primary BST point of contact for SOCOM RFI exchanges; classification controlled ("Non-DoD Source" notation)
-- **Newsletter unsubscribes:** Two unsubscribe actions (27 Apr 06:31) suggest Maciej managing email volume or cleaning up automated lists
-
-## Key Relationships
-
-- **Jack Elston** — Primary strategic coordinator; bridges DoD proposals, Stanford collaboration, academic partnerships, flight testing
-- **Daniel Prendergast** — High-volume technical correspondent; SOCOM interface, Nanoveu liaison, proposal support, UAS webinar lead
-- **Beck Cotter** — Technical project owner (Genesis Phase I, Modular Payloads webinar); direct BNL engagement
-- **Brookhaven National Laboratory team** (Boer, Urban, Llorente) — Active technical collaborators; urgent document/narrative work 27 Apr
-- **Nanoveu (Nikhila Ravikumar)** — Flight testing partnership; escalating priority/importance
-- **U.S. SOCOM** (Wolff, Jagelewski) — Military customer engagement; RFI responses
-- **ByLight** (Nicholas Phillips) — M2 Aircraft vendor/partner coordination
-- **Stanford University** — Ongoing research collaboration (S2 MHP)
-- **UCAR** (Chloe Swanson) — Atmospheric research partnership (AVAPS)
-
-## Notable Observations
-
-- **Proposal/bid cycle underway:** "DoD proposal planning" thread (27 Apr) and SOCOM RFI activity suggest active pursuit of defense/government contracts; Maciej included in planning sessions
-- **Multi-stakeholder complexity:** Maciej operates at intersection of academic partnerships (Stanford, UCAR, UMES), government labs (BNL, USGS, SOCOM), and commercial vendors (Nanoveu, ByLight, Aleriontec)
-- **Instrumentation focus:** u-blox GNSS module alert suggests precision navigation/positioning capability relevance to flight testing or UAS payloads
-- **Classification awareness:** SOCOM thread explicitly notes "Non-DoD Source" framing, indicating Maciej participates in controlled/classified or sensitive communications
-- **Document collaboration:** Google Docs tag on
+- **Temporal clustering:** Heavy sustained activity on 28 Apr 2026 (20+ messages 09:44–21:36 UTC); suggests multi-day strategic coordination or deadline-driven engagement
+- **Multi-party strategic brief
