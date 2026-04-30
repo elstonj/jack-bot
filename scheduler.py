@@ -8,6 +8,8 @@ from research_cache import get_team_summary, get_per_user_sections
 from snow_day import check_and_post as check_snow_day
 from snow_day import check_and_post_eod as check_snow_day_eod
 from eldora import check_and_post as check_eldora
+from weather import format_weather
+from google_client import get_latest_email_by_subject
 
 
 def post_daily_tasks():
@@ -76,6 +78,44 @@ def tick_eldora_report():
             pass
 
 
+def post_purchasing_summary():
+    """Re-post Jack's daily purchasing summary email to #operations."""
+    channel = os.environ.get("DAILY_TASKS_CHANNEL", "#general")
+    sender = os.environ.get("PURCHASING_SUMMARY_SENDER", "elstonj@blackswifttech.com")
+    client = WebClient(token=os.environ["SLACK_BOT_TOKEN"])
+    try:
+        body = get_latest_email_by_subject(
+            sender, "Daily Purchasing Summary", sender=sender, max_age_hours=20
+        )
+        if not body:
+            return
+        text = f":package: *Daily Purchasing Summary*\n{body.strip()}"
+        # Slack hard-limits a single message at 40k chars; trim with a marker.
+        if len(text) > 39000:
+            text = text[:39000] + "\n…(truncated)"
+        client.chat_postMessage(channel=channel, text=text)
+    except Exception as e:
+        from knowledge import store_entry
+        try:
+            store_entry(client, "ERROR", f"purchasing summary post failed: {e}")
+        except Exception:
+            pass
+
+
+def post_flight_weather():
+    """Daily 8 AM MT weather report for the flight-testing channel."""
+    channel = os.environ.get("FLIGHT_TESTING_CHANNEL", "#flight-testing")
+    client = WebClient(token=os.environ["SLACK_BOT_TOKEN"])
+    try:
+        client.chat_postMessage(channel=channel, text=format_weather())
+    except Exception as e:
+        from knowledge import store_entry
+        try:
+            store_entry(client, "ERROR", f"flight-testing weather post failed: {e}")
+        except Exception:
+            pass
+
+
 def start_scheduler():
     """Start the background scheduler for cron jobs."""
     scheduler = BackgroundScheduler(timezone="America/Denver")
@@ -116,6 +156,24 @@ def start_scheduler():
         hour=6,
         minute=30,
         misfire_grace_time=1800,  # 30 min: still useful a bit late
+    )
+    # Daily 8 AM MT weather report posted to #flight-testing.
+    scheduler.add_job(
+        post_flight_weather,
+        "cron",
+        hour=8,
+        minute=0,
+        misfire_grace_time=1800,  # 30 min: forecast is still useful a bit late
+    )
+    # Daily purchasing summary re-post to #operations. The source email
+    # arrives ~07:56 MDT, so fire at 8:05 to give it slack to land.
+    scheduler.add_job(
+        post_purchasing_summary,
+        "cron",
+        day_of_week="mon-fri",
+        hour=8,
+        minute=5,
+        misfire_grace_time=3600,  # 1 hr: still useful later in the morning
     )
     scheduler.start()
     return scheduler

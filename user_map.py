@@ -1,12 +1,15 @@
 import json
 import os
 import base64
+from pathlib import Path
 import requests
 
 ASANA_BASE = "https://app.asana.com/api/1.0"
 TOGGL_BASE = "https://api.track.toggl.com/api/v9"
 
 _user_map = []
+
+UID_MAP_PATH = Path(__file__).parent / "knowledge" / "contacts" / "uid_map.json"
 
 
 def _asana_headers():
@@ -329,11 +332,52 @@ def build_user_map(slack_client):
             if entry["asana_user_gid"]:
                 merged[email] = entry
 
-    # Only include users who have ALL THREE: Slack, Asana, and Toggl
+    # Graft canonical multi-ID lists from uid_map.json onto live entries.
+    # Several people have multiple Toggl IDs (legacy + current accounts);
+    # the live workspace API only returns one entry per email, so without
+    # this step time entries logged under the "other" Toggl ID would not
+    # resolve back to the user.
+    _apply_uid_map_overrides(merged)
+
+    # Only include users who have ALL THREE: Slack, Asana, and at least one Toggl ID
     result = [e for e in merged.values()
-              if e.get("slack_user_id") and e.get("asana_user_gid") and e.get("toggl_user_id")]
+              if e.get("slack_user_id") and e.get("asana_user_gid")
+              and (e.get("toggl_user_ids") or e.get("toggl_user_id"))]
     _user_map = result
     return result
+
+
+def _apply_uid_map_overrides(merged):
+    """Augment live-built entries with canonical IDs from uid_map.json.
+
+    Adds a `toggl_user_ids` list (full set of legitimate Toggl IDs per user)
+    and ensures `toggl_user_id` is set to the canonical primary even if the
+    live Toggl API returned a different ID for that email.
+    """
+    try:
+        with UID_MAP_PATH.open() as f:
+            uid_data = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return
+
+    by_slack = {entry.get("slack_user_id"): entry
+                for entry in uid_data.get("users", []) if entry.get("slack_user_id")}
+
+    for entry in merged.values():
+        sid = entry.get("slack_user_id")
+        canonical = by_slack.get(sid)
+        if not canonical:
+            # Fall back to populating toggl_user_ids from the singular field
+            if entry.get("toggl_user_id"):
+                entry["toggl_user_ids"] = [entry["toggl_user_id"]]
+            continue
+        ids = list(canonical.get("toggl_user_ids") or [])
+        if entry.get("toggl_user_id") and entry["toggl_user_id"] not in ids:
+            ids.append(entry["toggl_user_id"])
+        entry["toggl_user_ids"] = ids
+        if ids:
+            # Pin to the canonical primary so downstream display is stable
+            entry["toggl_user_id"] = ids[0]
 
 
 def get_all_users():
@@ -363,6 +407,8 @@ def get_user_by_email(email):
 
 def get_user_by_toggl_id(toggl_user_id):
     for user in _user_map:
-        if user["toggl_user_id"] == toggl_user_id:
+        if user.get("toggl_user_id") == toggl_user_id:
+            return user
+        if toggl_user_id in (user.get("toggl_user_ids") or ()):
             return user
     return None

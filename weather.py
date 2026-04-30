@@ -1,3 +1,4 @@
+import re
 from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
 
@@ -20,11 +21,20 @@ SITE_ALIASES = {
 }
 
 # Words that, combined with a known site name, indicate a weather/flying-
-# conditions request.  "weather" alone is enough — see is_weather_intent().
+# conditions request.
 _WEATHER_KEYWORDS = (
     "weather", "wind", "gust", "gusts", "gusty", "forecast", "rain",
     "snow", "precip", "precipitation", "temperature", "temp ", "cloud",
     "cloudy", "conditions", "fly", "flying", "flyable", "flight",
+)
+
+# "weather" is also a proper-noun component in many phrases that have
+# nothing to do with the forecast (e.g. "53rd Weather Squadron", "weather
+# report meeting"). Reject those before treating the lone word as a topic.
+_WEATHER_BLOCKLIST = re.compile(
+    r"\bweather\s+(squadron|service|channel|station|company|bureau|"
+    r"underground|report|update|briefing|brief|vane|deck|man|men|woman|"
+    r"women|balloon|balloons)\b"
 )
 
 
@@ -42,15 +52,39 @@ def match_sites(text: str):
 def is_weather_intent(text: str) -> bool:
     """Return True if `text` looks like a weather / flying-conditions request.
 
-    Matches either:
-      - the bare word "weather" anywhere in the message, OR
-      - a site name/alias combined with any weather keyword
-        (e.g. "wind at the sod farm", "can we fly at BMA today").
+    The lone word "weather" is *not* enough — it appears in plenty of
+    proper-noun phrases ("53rd Weather Squadron", "weather report meeting")
+    that should not trigger a forecast post. We require one of:
+      - a known site name/alias plus a weather keyword
+        ("wind at the sod farm", "can we fly at BMA today")
+      - explicit flying-conditions phrasing ("can we fly", "flyable")
+      - "weather" used as the actual topic ("weather today",
+        "what's the weather", message starting with "weather")
     """
     tl = text.lower().strip()
-    if "weather" in tl:
-        return True
+
     if match_sites(text) and any(kw in tl for kw in _WEATHER_KEYWORDS):
+        return True
+
+    if any(p in tl for p in (
+        "can we fly", "are we flying", "flyable", "flight conditions"
+    )):
+        return True
+
+    if "weather" not in tl:
+        return False
+    if _WEATHER_BLOCKLIST.search(tl):
+        return False
+
+    if tl.startswith("weather"):
+        return True
+    if re.search(r"\bthe\s+weather\b", tl):
+        return True
+    if re.search(r"\bweather\s+(today|tomorrow|tonight|forecast|outside|like)\b", tl):
+        return True
+    if re.search(r"\bwhat'?s\s+the\s+weather\b", tl):
+        return True
+    if re.search(r"\bhow'?s\s+the\s+weather\b", tl):
         return True
     return False
 

@@ -172,6 +172,63 @@ def get_recent_emails(user_email, max_results=20):
     return emails
 
 
+def get_latest_email_by_subject(user_email, subject, sender=None, max_age_hours=36):
+    """Fetch the most recent email matching `subject` (and optional `sender`).
+
+    Returns the parsed body text, or None if no match within `max_age_hours`.
+    """
+    creds = _get_credentials(user_email)
+    if not creds:
+        return None
+    service = build("gmail", "v1", credentials=creds, cache_discovery=False)
+
+    days = max(1, max_age_hours // 24 + (1 if max_age_hours % 24 else 0))
+    q = f'subject:"{subject}" newer_than:{days}d'
+    if sender:
+        q += f" from:{sender}"
+
+    results = service.users().messages().list(
+        userId="me", q=q, maxResults=1
+    ).execute()
+    messages = results.get("messages", [])
+    if not messages:
+        return None
+
+    detail = service.users().messages().get(
+        userId="me", id=messages[0]["id"], format="full"
+    ).execute()
+
+    # Walk the MIME parts and return the first text/plain (fallback to text/html stripped)
+    def _walk(part):
+        mime = part.get("mimeType", "")
+        body = part.get("body", {})
+        data = body.get("data")
+        if data:
+            decoded = base64.urlsafe_b64decode(data + "==").decode("utf-8", errors="replace")
+            yield mime, decoded
+        for sub in part.get("parts", []) or []:
+            yield from _walk(sub)
+
+    text_plain = None
+    text_html = None
+    for mime, content in _walk(detail.get("payload", {})):
+        if mime == "text/plain" and text_plain is None:
+            text_plain = content
+        elif mime == "text/html" and text_html is None:
+            text_html = content
+
+    if text_plain:
+        return text_plain.strip()
+    if text_html:
+        # Crude HTML strip — fine for an internal summary email
+        import re as _re
+        stripped = _re.sub(r"<br\s*/?>", "\n", text_html, flags=_re.I)
+        stripped = _re.sub(r"</p\s*>", "\n\n", stripped, flags=_re.I)
+        stripped = _re.sub(r"<[^>]+>", "", stripped)
+        return stripped.strip()
+    return None
+
+
 def get_todays_calendar(user_email):
     """Get today's calendar events for a user.
 
