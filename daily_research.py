@@ -390,17 +390,48 @@ def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, ca
         sections.append(f"=== TIME TRACKING ({toggl_day}) ===\n{toggl_summary}")
     else:
         lines = [f"=== TIME TRACKING ({toggl_day}) ==="]
+        # Aggregate entries by user — a single person may have multiple
+        # Toggl IDs (legacy + current accounts) and we want one consolidated
+        # row per person rather than two anonymous "toggl#NNN" rows.
+        by_user_name = {}  # name -> {"total_hours": float, "projects": {name: hours}}
+        unmapped = []      # entries whose toggl_id didn't resolve to a user
         for toggl_id, data in toggl_summary.items():
             user = get_user_by_toggl_id(toggl_id)
-            name = user["name"] if user else data.get("email", f"toggl#{toggl_id}")
+            if user and user.get("name"):
+                bucket = by_user_name.setdefault(
+                    user["name"], {"total_hours": 0.0, "projects": {}}
+                )
+                bucket["total_hours"] += data["total_hours"]
+                for proj, hrs in data["projects"].items():
+                    bucket["projects"][proj] = bucket["projects"].get(proj, 0) + hrs
+            else:
+                unmapped.append((toggl_id, data))
+
+        for name, data in by_user_name.items():
+            proj_parts = [f"{p}: {round(h, 1)}h" for p, h in data["projects"].items()]
+            lines.append(f"{name}: {round(data['total_hours'], 1)}h total ({', '.join(proj_parts)})")
+        for toggl_id, data in unmapped:
+            label = data.get("email") or f"toggl#{toggl_id}"
             proj_parts = [f"{p}: {h}h" for p, h in data["projects"].items()]
-            lines.append(f"{name}: {data['total_hours']}h total ({', '.join(proj_parts)})")
+            lines.append(f"{label}: {data['total_hours']}h total ({', '.join(proj_parts)})")
+
         # Explicitly note team members with no tracked time so Claude
         # doesn't inherit stale hours from Asana assignee names alone.
+        # Compare against the full toggl_user_ids list per user, not just
+        # the primary, so people who logged time under a secondary ID don't
+        # get falsely flagged as untracked.
         tracked_ids = set(toggl_summary.keys())
-        untracked = [u["name"] for u in users
-                     if u.get("name") and u.get("toggl_user_id")
-                     and u["toggl_user_id"] not in tracked_ids]
+        untracked = []
+        for u in users:
+            if not u.get("name"):
+                continue
+            user_toggl_ids = set(u.get("toggl_user_ids") or [])
+            if u.get("toggl_user_id"):
+                user_toggl_ids.add(u["toggl_user_id"])
+            if not user_toggl_ids:
+                continue
+            if not (user_toggl_ids & tracked_ids):
+                untracked.append(u["name"])
         if untracked:
             lines.append(f"No time tracked yesterday: {', '.join(sorted(untracked))}")
         sections.append("\n".join(lines))
@@ -823,7 +854,8 @@ def run_daily_pipeline(slack_client):
         debug_lines = [f"Pipeline started at {datetime.now().strftime('%Y-%m-%d %H:%M')} UTC"]
         debug_lines.append(f"Users mapped: {len(users)}")
         for u in users:
-            debug_lines.append(f"  {u['name']} | email: {u['email']} | slack: {u['slack_user_id']} | asana: {u['asana_user_gid']} | toggl: {u['toggl_user_id']}")
+            toggl_ids = u.get("toggl_user_ids") or [u.get("toggl_user_id")]
+            debug_lines.append(f"  {u['name']} | email: {u['email']} | slack: {u['slack_user_id']} | asana: {u['asana_user_gid']} | toggl: {toggl_ids}")
         store_entry(slack_client, "DEBUG", "\n".join(debug_lines))
     except Exception:
         pass
