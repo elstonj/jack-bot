@@ -13,7 +13,7 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Sergio Ruocco (eMASS AI) - Autoboot firmware expert, SDK bring-up and troubleshooting
 - Shantanu (eMASS AI) - Hardware verification and validation
 
-**Activity Level:** Highly active collaboration spanning February-April 2026. Intensive HWIL and model training in March-April. Most recent activity (Apr 27-28, 2026) focused on post-first-flight debugging, PWM value discrepancies, AI model refinement, and preparation for next flight test. Critical first-flight test completed on Apr 24, 2026.
+**Activity Level:** Highly active collaboration spanning February-April 2026. Intensive HWIL and model training in March-April. Most recent activity (Apr 27-29, 2026) focused on post-first-flight debugging, PWM value discrepancies, AI model refinement, and preparation for next flight test. Critical first-flight test completed on Apr 24, 2026.
 
 ---
 

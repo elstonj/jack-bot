@@ -35,6 +35,10 @@ Time range: Early development through April 2026 (ongoing project)
 - Failure risk mitigation: Team must choose between high-confidence ground testing, trusted parachute system, or pre-flight failure detection capability before resuming flights (April 19, 2026)
 - S0-VTOL ground testing to be aligned with S3 methodology (April 28, 2026)
 
+**Ground Testing & Crash Analysis (April 29, 2026):**
+- Crash autopilot code version identified: 0xf9eb3e6c (April 29, 2026)
+- Baseline established for comparing test rig behavior against crash conditions
+
 ## Projects & Initiatives
 
 **S0-VTOL Development (Spin-Up Phase - April 2026):**
@@ -45,6 +49,7 @@ Time range: Early development through April 2026 (ongoing project)
 - S0 VTOL Test Plan created with primary steps and substasks for systematic testing approach (April 17, 2026)
 - Motor RPM tracking: Evaluating optimal measurement approach considering feed-forward control implementation for one-motor-out scenarios (April 19, 2026)
 - Planned alignment meeting: Ground testing methodology to be coordinated with S3 approach (April 28, 2026)
+- Ground testing resumed: Basic test rig operational with crash-matched autopilot code version (April 29, 2026)
 
 **ADONIS Project:**
 - Contract deliverable: Flight testing required by March 24
@@ -71,6 +76,7 @@ Time range: Early development through April 2026 (ongoing project)
 - Build 3 new aircraft with updated boards for delivery
 - Set up independent RPM logging capability using Teensy (April 17, 2026)
 - Attend S0-VTOL ground testing alignment meeting (scheduled for April 29, 2026 after 1pm ops meeting)
+- Execute basic ground testing on VTOL test rig with matched autopilot code version (April 29, 2026 - in progress)
 
 **Alex Lomis:**
 - Add QC checklist items for future deliveries
@@ -91,6 +97,7 @@ Time range: Early development through April 2026 (ongoing project)
 - Advise on motor RPM measurement strategy to support eventual feed-forward control on motor RPM difference with appropriate feedback gains (April 19, 2026)
 - Work with team to determine optimal failure mitigation approach: either achieve high-confidence ground testing, develop trusted parachute system, or implement pre-flight failure detection (April 19, 2026)
 - Schedule and lead S0-VTOL ground testing alignment meeting with S3 team (April 28, 2026) - planned for April 29 after 1pm ops meeting
+- Identify and post crash autopilot code version for ground testing comparison (April 29, 2026 - completed: 0xf9eb3e6c)
 
 ## Client & External References
 
@@ -124,17 +131,3 @@ Time range: Early development through April 2026 (ongoing project)
 - Gap between ground test behavior and in-flight behavior
 - Voltage initialization bugs affecting battery state estimation
 - Static pressure sensor failures causing landing issues
-- Motor thrust offset problems with BLHeli_S ESCs
-- Uncertainty over viability of high integral gain motor control in one-motor-out scenarios (April 19, 2026)
-
-**Hardware Reliability:**
-- Parameter storage corruption issues requiring interrupt suspension fixes
-- GPS hardware failures (modules physically falling apart)
-- Current sensor lag affecting magnetometer calibration
-- Servo signal compatibility issues with newer Bluebird servos
-- ESC firmware/output compatibility concerns leading to hardware transition decision
-
-**Ground Testing Methodology:**
-- Need for sinusoidal motor command tests with independent RPM verification
-- Desire to log ESC outputs independently of autopilot commands over extended test periods
-- Integration of multiple sensor inputs for comprehensive ground validation

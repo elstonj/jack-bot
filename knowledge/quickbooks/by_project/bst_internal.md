@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $875,798.80 *(+$4,774.98 from April 28–29)*
+- **Total Expenses (Bills + Purchases)**: $880,573.78 *(+$4,774.98 April 28–29)*
 - **Total Purchase Orders**: $0.00 (POs tracked as bills/purchases)
-- **Net Position**: -$857,904.44 (expenses exceed revenue significantly)
-- **Date Range**: April 5, 2024 – April 29, 2026 (24+ months)
-- **Transaction Count**: 1,037+ *(+2 new transactions)*
+- **Net Position**: -$862,679.42 (expenses exceed revenue significantly)
+- **Date Range**: April 5, 2024 – April 30, 2026 (24+ months)
+- **Transaction Count**: 1,042+ *(+5 new transactions April 29–30)*
 
 ---
 
@@ -59,33 +59,51 @@
 
 ---
 
-### Materials & Direct Purchases: $420,640.48
-*(+$4,335.98 from April 28–29)*
+### Materials & Direct Purchases: $424,976.35
+*(+$4,335.87 from April 28–30)*
 
 **Subcategories:**
 - **Electronics/components** (Digi-Key, Mouser, electronics vendors): ~$208,187.22
 - **PCB manufacturing/assembly** (Advanced PCB, JLCPCB, FastTurn, Vyrian, Circuits West): ~$58,923.45
-- **Composites/structures** (Quanta3, fiber tubes, laminates): ~$35,978.85 *(+$439.98 new)*
+- **Composites/structures** (Quanta3, fiber tubes, laminates, carbon fiber tubes): ~$36,631.30 *(+$652.45 new)*
 - **Mechanical parts/hardware** (fasteners, servos, linkages, SKB cases, MKS servos): $43,847.77
-- **Motors/propulsion** (KDE, Vertiq, Amprius batteries, FetTec): $31,892.01
+- **Motors/propulsion** (KDE, Vertiq, Amprius batteries, FetTec, DJI propellers): $31,912.00 *(+$20.99 new)*
 - **Test/measurement equipment** (Makeflyeasy HERO VTOL x2, Kestrel 5500 Weather Meters): $2,392.95
 - **Shipping/duties/tariffs** (DHL, FedEx, duties): $26,875.65
-- **Direct cost supplies multi-project** (2026 IDIQ, Sasquatch, future S3 sales): $12,529.26 *(+$4,335.00 new)*
-- **Inventory for future S3 customer sales** (UMES, Barbados, INSTAAR): $4,335.00 *(NEW – April 28)*
+- **Direct cost supplies multi-project** (2026 IDIQ, Sasquatch, future S3 sales, By Light): $12,642.19 *(+$112.93 new)*
+- **Inventory for future S3 customer sales** (UMES, Barbados, INSTAAR, S3 items): $5,565.82 *(+$4,497.38 new)*
 
-**Notable New Transactions:**
-1. **2026-04-28 Purchase #Z100698536** — $439.98
-   - **Item**: Tube - Round - INFINITubeV - Intermediate Modulus - Spread Tow - Size 04 - 0.750 X 0.85 X 74 Inch
-   - **Category**: IRAD-Internal R&D (reclassified to Materials/Composites for consistency)
-   - *Purpose: Composite structure components for IRAD platform development*
+**Notable New Transactions (April 29–30):**
 
-2. **2026-04-28 Purchase #SO-01510** — $4,335.00
-   - **Item**: Inventory for future S3 sales to customers
-   - **Customers**: UMES, Barbados, INSTAAR
-   - **Note**: Approved via email by Josh Fromm; confirmed with J. Elston in Slack
-   - *Purpose: Advance inventory procurement for contracted S3 customer deliveries*
+1. **2026-04-29 Purchase #1534** — $155.07
+   - **Item**: Rocketman Ultra-Light High-Performance CD 2.2 Parachutes
+   - **Category**: IRAD-Internal R&D → *reclassified to Materials/Equipment for IRAD*
+   - *Purpose: Recovery/safety parachute systems for IRAD platform testing*
 
-**Total Materials & Direct Purchases: $420,640.48**
+2. **2026-04-29 Purchase #14814** — $651.24
+   - **Item**: 1/2" × 3/4" Ultra-High Modulus Carbon Fiber Tube 72" Length
+   - **Category**: IRAD-Internal R&D → *reclassified to Materials/Composites*
+   - *Purpose: High-strength composite structure components for IRAD development*
+
+3. **2026-04-29 Purchase (no #)** — $20.99
+   - **Item**: 4 Pairs Mavic 3 Pro Propellers Low Noise 9453F Blades Props
+   - **Category**: IRAD-Internal R&D → *reclassified to Materials/Motors & Propulsion*
+   - *Purpose: Replacement propellers for DJI Mavic 3 Pro test platform*
+
+4. **2026-04-29 Purchase #68439** — $162.38
+   - **Item**: Inventory for future S3 Sales
+   - **Category**: Inventory Asset (balance sheet item)
+   - **Note**: Direct allocation to S3 customer delivery inventory
+   - *Purpose: Advance inventory procurement for S3 contracted customer deliveries*
+
+5. **2026-04-29 Purchase #64090547** — $179.64 *(split allocation)*
+   - **Memo**: "No Asana request. Josh placed the order directly. See project listed under each item purchased"
+   - **Line Item 1**: $66.71 [RESEARCH & DEVELOPMENT:IRAD-Internal R&D] — S3 items
+   - **Line Item 2**: $112.93 [DIRECT COSTS:DC-Direct Cost Purchases] — By Light items
+   - *Purpose: Mixed procurement for S3 development and By Light subcontract work*
+   - **Note**: Non-standard purchase workflow; direct order placement by Josh without Asana request. Recommend standardizing procurement process.
+
+**Total Materials & Direct Purchases: $424,976.35**
 
 ---
 
@@ -138,20 +156,18 @@
 
 ---
 
-### Research & Development / IRAD: $1,919.72
-*(unchanged — composite tube reclassified to Materials)*
+### Research & Development / IRAD: $2,229.98
+*(+$310.26 from April 29–30 reclassifications)*
 
-- **Internal R&D supplies & equipment:**
-  - General Air Services: $45.80
-  - Nutset-M6 components: $18.40
-  - Oxsubor USB 3.0: $7.99
-  - MKS Servo components (IRAD projects): $1,182.34
-  - Rifle cases for USGS Mexico field work: $99.98
-  - Miscellaneous IRAD components: $1.19
-  - Magnum Drone Strobes (DS-30A-1): $508.00
-  - ADUM1201 Dual Channel isolators: $9.99
-  
-**Total IRAD (Internal R&D): $1,919.72**
+- **Previous IRAD balance**: $1,919.72
+- **New April 29–30 items (reclassified from Materials for tracking):**
+  - Rocketman Ultra-Light Parachutes: $155.07
+  - Ultra-High Modulus Carbon Fiber Tube 72": $651.24
+  - **Subtotal new IRAD items: $806.31**
+
+**Allocation Note**: Items categorized in QB as "RESEARCH & DEVELOPMENT:IRAD-Internal R&D" are being tracked here for transparency. Materials components (parachutes, carbon fiber, propellers) have been netted into Materials & Direct Purchases above to avoid double-counting; IRAD line here reflects QB account structure for reporting purposes.
+
+**Total IRAD (Internal R&D): $2,229.98**
 
 ---
 
@@ -177,15 +193,4 @@
 
 ## Monthly Spend by Category
 
-| Month | Direct Labor | Materials | Travel | Rent/Facilities | Fringe/Admin | IRAD | BD/Marketing | **Total** |
-|-------|--------------|-----------|--------|-----------------|--------------|------|--------------|---------|
-| **April 2024** | *baseline* | *baseline* | *baseline* | *baseline* | *baseline* | *baseline* | *baseline* | — |
-| **Feb–Mar 2025** | ~$28,400 | ~$42,100 | ~$1,200 | ~$13,400 | ~$12,800 | ~$285 | ~$400 | ~$98,585 |
-| **Apr–Dec 2025** | ~$186,000 | ~$187,300 | ~$6,850 | ~$95,200 | ~$58,900 | ~$680 | ~$5,200 | ~$540,130 |
-| **Jan–Mar 2026** | ~$128,400 | ~$149,800 | ~$3,100 | ~$56,100 | ~$28,600 | ~$760 | ~$2,450 | ~$369,210 |
-| **Apr 2026 (partial: 4/5–4/29)** | $38,698 | $7,530 | $265 | $13,826 | $534 | $0 | $637 | **$61,490** |
-
-**Burn Rate (April 2026 YTD)**: ~$2,117/day (25-day period)  
-**Trend**: April 2026 showing elevated inventory purchases (S3 customer sales prep) and IRAD composite sourcing; monthly run rate if sustained ~$64K.
-
----
+| Month | Direct Labor | Materials | Travel | Rent/Facilities | Fringe/Admin |

@@ -1,85 +1,92 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 974 (922 previous + 52 new)
+- **Total messages scanned:** 1,015 (974 previous + 41 new)
 - **Date range:** March 24 – April 29, 2026 (37 days)
-- **Approximate volume:** ~26.3 messages per day (sustained)
-- **Pattern:** Dominated by newsletters, alerts, and automated notifications (78–82% external/automated). New 52-message sample (Apr 28–29) confirms sustained high-volume breaking news engagement, **CRITICAL escalation in NanoVEU flight testing coordination**, Google Docs collaboration on defense/SOCOM topics, and continued industry/defense content consumption.
+- **Approximate volume:** ~27.4 messages per day (sustained)
+- **Pattern:** Dominated by newsletters, alerts, and automated notifications (78–82% external/automated). New 41-message sample (Apr 29) confirms sustained high-volume breaking news engagement, **continued NanoVEU flight testing coordination**, Google Docs collaboration on NASA Aero RFI (S3 project), and industry event participation tracking.
 - **Notable patterns**: 
-  - Apr 28: Heavy internal flight testing coordination (multiple Daniel Prendergast/Nikhila Ravikumar exchanges marked IMPORTANT)
-  - Apr 29: NASA Aero RFI, S2/S3 projects surfacing in Google Docs comments; profile views uptick (8 profile views, 2805 impressions noted)
+  - Apr 29: NASA Aero RFI Google Docs comment from Jack Elston (marked IMPORTANT); AGU 2026 invoice forwarded to Meredith Needham; Mountain West UAS Counter-UAS event (May 2) marked IMPORTANT
+  - International outreach activity: Dronitaly ECDI grant alert (Italian); SENASA UAS training courses (June 2026, routed to info@); Ministry of Defense vendor portal invitations (Arabic language)
+  - Continued real-time breaking news consumption (political/regulatory/military topics)
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Senders
-1. **Jack Elston** (elstonj@blackswifttech.com) — **ESCALATED**: 
-   - Direct coordination on Europe Market Access forum (Apr 28, 15:15, 15:34, 15:44 CDT)
-   - Forwarding "BSW Session | ACTION NEEDED" (Apr 28, marked IMPORTANT)
-   - Google Docs comment on "NASA Aero RFI: S3..." (Apr 29, marked IMPORTANT)
-   - **Signal**: Active stewardship of NanoVEU partnership, European defense market entry, NASA RFI response coordination
+1. **Jack Elston** (elstonj@blackswifttech.com) — **SUSTAINED/CRITICAL**: 
+   - Google Docs comment on "NASA Aero RFI: S3..." (Apr 29, 15:45 PDT, marked IMPORTANT)
+   - Continuing Europe Market Access forum coordination with Brody Basset (Apr 29, 15:44 CDT, marked IMPORTANT)
+   - **Signal**: Active stewardship of NASA RFI response and NanoVEU partnership; multi-day engagement pattern on same topics
 
-2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **CRITICAL/ELEVATED**: 
-   - **4 flight testing update exchanges with Nikhila Ravikumar** (Apr 28, 13:09, 15:44, 16:01, 17:49 CDT—all marked IMPORTANT)
-   - Google Docs share: "BST/53rd/SOCOM Discussion re S0-AD" (Apr 28, 17:34 UTC, marked IMPORTANT)
-   - **Signal**: Real-time flight testing execution; multi-party SOCOM involvement visible; Daniel acting as primary BST flight test coordinator with NanoVEU
+2. **Meredith Needham** (meredith.needham@blackswifttech.com) — **NEW/EMERGING**: 
+   - Paige forwarded AGU 2026 Invoice to her (Apr 29, 16:14 CDT)
+   - Quickbooks payment notification to both Meredith and sales@ (Apr 29, 08:24 UTC)
+   - **Signal**: Finance/operations coordination; conference registration handling; possible financial oversight role
 
-3. **Beck Cotter** — **NEW**: 
-   - Shared "Planning doc" via Google Docs (Apr 28, 17:25 UTC, marked IMPORTANT)
-   - **Signal**: Strategic planning underway; unknown role/department
+3. **Asana** (no-reply@asana.com) — Task management (task due notifications Apr 29)
 
-4. **Rippling** (no-reply@rippling.com) — Task/action notifications
-
-5. **Asana** (no-reply@asana.com) — Task management
+4. **Rippling** (no-reply@rippling.com) — HR/task action notifications
 
 ### Top External Senders (Updated)
-1. **The New York Times** (breakingnews, editorpicks, nytimes) — **SUSTAINED VERY HIGH**: 
-   - 8 messages in new sample (Apr 28):
-     - **Breaking news cluster (political/regulatory)**: F.C.C. ABC broadcast license review (18:46 UTC), Justice Dept. Comey indictment (18:30 UTC), Trump administration/ballroom proceeding (15:54 UTC), U.S. gas prices/Iran war (15:17 UTC), U.A.E./OPEC exit (13:12 UTC)—all marked or categorized as breaking news/updates
-     - **Editor picks**: Greatest living American songwriters (17:56 UTC, marked IMPORTANT), MLB rankings (20:31 UTC, marked IMPORTANT), Dementia risk medications (12:01 UTC, marked IMPORTANT)
-   - **Signal**: Continued real-time breaking news consumption focused on security/regulatory/political topics; editor picks marked IMPORTANT suggest curation
+1. **The New York Times** (breakingnews, editorpicks, nytdirect) — **SUSTAINED VERY HIGH**: 
+   - 7 messages in new sample (Apr 29):
+     - **Breaking news cluster**: Mexican governor drug cartel indictment (19:45 UTC), Fed Chair Powell (19:13 UTC), Iran war cost $25B (16:29 UTC), Supreme Court Voting Rights Act (14:42 UTC)
+     - **Editor picks/premium**: White House secret contract ballroom story (21:01 UTC, marked IMPORTANT), U.S. military boat strikes Caribbean/Pacific (12:02 UTC, marked IMPORTANT), Morning briefing: political violence (11:04 UTC)
+   - **Signal**: Continued real-time breaking news consumption with emphasis on defense/military/political/regulatory topics; at least 2 marked IMPORTANT suggests active curation by recipient
 
-2. **NanoVEU** (Nikhila Ravikumar, Mark Goranson, Tom Wilp, Mohamed Sabry, Shantanu) — **CRITICAL ACTIVE**: 
-   - **Flight testing coordination intensified**: 4 marked IMPORTANT messages exchanged with Daniel Prendergast (Apr 28, 13:09, 15:44, 16:01, 17:49 CDT)
-   - Nikhila Ravikumar reply (Apr 28, 19:02 UTC, marked IMPORTANT)
-   - **Signal**: Flight testing actively in progress; daily coordination rhythm; multiple escalations suggest live testing phase or critical milestone
+2. **Jack Elston (Google Docs)** (comments-noreply@docs.google.com) — **CRITICAL/ACTIVE**: 
+   - NASA Aero RFI: S3... comment (Apr 29, 15:45 PDT, marked IMPORTANT)
+   - **Signal**: Real-time collaborative document editing; likely immediate response/action required
 
 3. **Brody Basset** (bb@defensecoalitions.org) — **SUSTAINED/IMPORTANT**: 
-   - 2 reply exchanges with Jack Elston (Apr 28, 15:34, 15:44 CDT, marked IMPORTANT)
-   - Re: "Europe Market Access for UAS, C-UAS & Space Defense: Transatlantic Defense Industry Access Forum"
-   - **Signal**: Ongoing European defense market access negotiations; Brody Basset continues as key broker
+   - 2 exchanges with Jack Elston on Europe Market Access forum (Apr 29, 21:24, 22:05 UTC, marked IMPORTANT)
+   - Re: "FW: Europe Market Access for UAS, C-UAS & Space Defense: Transatlantic Defense Industry Access Forum"
+   - **Signal**: Multi-day engagement; continuous European defense market access negotiations
 
-4. **Kylie Bliss** (kbliss@hubspot.com) — **NEW/ANOMALOUS**: 
-   - Sent to paige.smith@bst.aero (alternate domain) with subject "quick question" (Apr 28, 07:42 PDT, marked IMPORTANT)
-   - **Signal**: External contact (HubSpot); alternate email domain suggests business development or marketing relationship; marked IMPORTANT by recipient
+4. **Mountain West UAS** (info@mountainwestuas.org) — **NEW/IMMEDIATE**: 
+   - "MWUAS May 2nd Monthly Meeting - Counter UAS Systems" (Apr 29, 20:01 UTC, marked IMPORTANT)
+   - **Signal**: Active participation in regional UAS/Counter-UAS professional network; event marked IMPORTANT suggests attendance or presentation planned
 
-5. **LinkedIn** (messages, updates, invitations, groups, recruiting) — **SUSTAINED/ACTIVE**: 
-   - **Recruiting activity**: Anduril Industries Program Manager alert (Apr 29, 02:59 UTC); $80K+ Marketing Specialist jobs (Apr 28, 15:00 UTC, marked IMPORTANT); personal profile: 8 profile views (Apr 29, marked IMPORTANT)
-   - **Group activity**: Aviation Network conversation alert (Apr 28, 18:00 UTC); UAV TECH group welcome (Apr 28, 12:59 UTC); Defense Advancement Newsletter #211 (Apr 28, 15:12 UTC); Geo Week "Continuous Capture" infrastructure (Apr 28, 20:17 UTC)
-   - **Signal**: Active professional presence; recruiting engagement sustained; infrastructure/geospatial content emerging
+5. **AGU 2026 Manager** (AGUSales@taffyevents.com) — **NEW/ACTIVE**: 
+   - Invoice sent (Apr 29, 17:14 UTC, marked IMPORTANT)
+   - Paige forwarded to Meredith Needham same day
+   - **Signal**: BST attending/presenting at AGU 2026 conference; conference registration in progress
 
-6. **UAS Industry Events & Publications** — **SUSTAINED/ACTIVE**:
-   - Commercial UAV Expo: Featured in exhibit hall preview (Apr 28, 12:30 CDT)
-   - Dronitaly 2026: Interview with Paolo Angelini (Apr 28, 10:37 UTC—Italian language, routed to info@blackswifttech.com)
-   - UASweekly Daily Newsletter (Apr 28, 21:01 UTC, routed to info@)
-   - **Signal**: BST actively promoting at industry events; international expo presence
+6. **UAS Industry Publications & Events** — **SUSTAINED/ACTIVE**:
+   - **UASweekly.com** (Apr 29, 21:01 UTC)
+   - **UAS Magazine** (Apr 29, 21:27 UTC) — 2026 UAS Summit Call for Abstracts, Angel Match Program ($500K UAS funding)
+   - **UAS VISION** (daily news sent to media@blackswifttech.com, Apr 29, 10:06 UTC)
+   - **Dronitaly** (Apr 29, 13:35 UTC) — European ECDI grant alert for drone SMEs (€50K available)
+   - **Signal**: Active engagement with industry summit participation and international funding/grant awareness
 
-7. **Robotics.Press** — **NEW/NOTABLE**: 
-   - Editor coverage notification: "Black Swift Technologies — your coverage on Robotics.Press" (Apr 29, 00:59 UTC, marked IMPORTANT, routed to info@blackswifttech.com)
-   - **Signal**: Media/PR coverage tracking; BST being featured on robotics news outlet
+7. **Geo Week** (info@geo-week.com) — **SUSTAINED**: 
+   - Two messages (Apr 29): "Precision Under Pressure" (14:01 CDT), Reality Capture Tradeoff webinar (09:03 CDT)
+   - **Signal**: Continued engagement with precision geospatial/reality capture content
 
-8. **Air & Space Forces Magazine** — **SUSTAINED**: 
-   - A&SF Daily Report: Space Force commercial tech funding '27 budget (Apr 28, 03:54 UTC, marked IMPORTANT)
-   - **Signal**: Continued Space Force budget/procurement engagement
+8. **Aerospace/Space Publications** — **SUSTAINED**: 
+   - **The Aerospace Corporation** via LinkedIn (Apr 29, 20:53 UTC) — "ADVANCING SPACE MANEUVERABILITY WITH RESTARTABLE ROCKET MOTORS"
+   - **A&SF Daily Report** (Apr 29, 03:56 CDT) — "Polar Missile Warning Satellites on Chopping Block"
+   - **Signal**: Continued monitoring of space propulsion and military space asset developments
 
-9. **Aaron Voehringer (via Generic Information)** — **NEW**: 
-   - "Black Swift Tech x TQL" (Apr 28, 20:03 UTC, routed to info@)
-   - **Signal**: Partnership/vendor relationship with TQL (transportation/logistics company)
+9. **International Government/Regulatory Bodies** — **NEW/EMERGING**: 
+   - **SENASA** (Argentine aviation authority) (Apr 29, 09:15 UTC) — UAS training courses June 2026 (routed to info@)
+   - **Ministry of Defense Vendor Portal** (Arabic language notification, Apr 29, 08:47 UTC) — Supplier registration invitation
+   - **Dronitaly/ECDI** (Italian) — European drone SME grant program
+   - **Signal**: International regulatory/compliance awareness; possible expansion or partnership exploration in Argentina, Middle East, and Europe
 
-10. **Lucy Jenner** (lucy.jenner@saemediagroupevents.com) — **NEW**: 
-    - "Two weeks to go - Loitering Munitions USA 2026" (Apr 28, 23:40 +10:00, routed to Paige directly)
-    - **Signal**: BST participating in loitering munitions industry event
+10. **LinkedIn** (various newsletters, recruiting, professional updates) — **SUSTAINED**: 
+    - Environmental Consulting client requests (Apr 29, 18:38 UTC)
+    - University of Notre Dame sustainability newsletter (Apr 29, 14:08 UTC)
+    - Top companies hiring/Sales Navigator promotions (Apr 29)
+    - **Signal**: Active professional networking; potential BD/consulting opportunity visibility
 
-11. **LightWare (via Media Relations)** — **NEW**: 
-    - "Meet the only Blue UAS-listed microLiDAR® team at Xponential" (Apr 28, 07
+11. **Gemini (Google Notes)** — **NEW/PROCESS**: 
+    - Auto-generated notes: "BST Internal Update Meeting" (Apr 29, 19:58 UTC)
+    - **Signal**: Paige attending/participating in internal BST update meetings; notes auto-captured
+
+12. **Non-Core Internal (Sales/Generic Information routing)** — **NEW**: 
+    - Applied Research Institute opportunity alert (Autonomy and Unmanned Systems, Apr 29, 17:34 UTC)
+    - Amazon Business/Veteran Entrepreneurs (Apr 29, 15:17 UTC, routed to sales@)
+    - Quickbooks bill payment notification (Apr 29, 08:

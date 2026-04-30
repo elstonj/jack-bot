@@ -1,17 +1,43 @@
 {
   "period": {
-    "start": "2026-04-28",
-    "end": "2026-04-29"
+    "start": "2026-04-29",
+    "end": "2026-04-30"
   },
-  "scanned_at": "2026-04-29",
+  "scanned_at": "2026-04-30",
   "projects": [
     {
-      "project_code": "001-7",
+      "project_code": "001-1",
       "revenue": 0.0,
-      "expenses": 439.98,
+      "expenses": 20.99,
       "invoice_count": 0,
       "bill_count": 0,
       "purchase_count": 1,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "(001-1) IRAD- General"
+      ]
+    },
+    {
+      "project_code": "001-4",
+      "revenue": 0.0,
+      "expenses": 155.07,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 1,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "(001-4) IRAD - S0 VTOL"
+      ]
+    },
+    {
+      "project_code": "001-7",
+      "revenue": 0.0,
+      "expenses": 717.95,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 2,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -21,10 +47,10 @@
     {
       "project_code": "043-3",
       "revenue": 111629.0,
-      "expenses": 0.0,
+      "expenses": 352.93,
       "invoice_count": 2,
       "bill_count": 0,
-      "purchase_count": 0,
+      "purchase_count": 2,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -47,20 +73,21 @@
     {
       "project_code": "550-1",
       "revenue": 49459.0,
-      "expenses": 0.0,
+      "expenses": 399.0,
       "invoice_count": 2,
       "bill_count": 0,
       "purchase_count": 0,
-      "po_count": 0,
+      "po_count": 1,
       "payment_count": 0,
       "qbo_class_names": [
-        "[550-1] Navy SBIR Magnetometer"
+        "[550-1] Navy SBIR Magnetometer",
+        "[550] United States Navy:[550-1] Navy SBIR Magnetometer"
       ]
     },
     {
       "project_code": "_unclassified",
       "revenue": 0.0,
-      "expenses": 4335.0,
+      "expenses": 162.38,
       "invoice_count": 0,
       "bill_count": 0,
       "purchase_count": 1,
