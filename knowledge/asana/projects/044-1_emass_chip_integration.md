@@ -3,30 +3,30 @@
 ## Overview
 - **Client/Customer**: EMASS (Commercial customer)
 - **Dollar Value**: $90,000 total funding to Black Swift Technologies
-- **Timeline**: Original November 10, 2025 to January 31, 2026; **extended through April 30, 2026** for final validation and reporting
-- **Status**: **ACTIVE — Final validation phase in critical execution**. Validation Flight #1 completed April 25 (2 days early). Validation Flights #2–#3 remain open (both due April 29). Per Maciej (April 24, 2026), project is in "Closing out EMASS" phase (#3 priority) with **remaining work waiting on Dan Prendergast and Jack Elston to finish controller and complete final test flying**. **Project closure expected following April 30 Final Report delivery.**
+- **Timeline**: Original November 10, 2025 to January 31, 2026; **extended through April 30–May 4, 2026** for final validation and reporting
+- **Status**: **ACTIVE — Final validation phase in critical execution**. Validation Flight #1 completed April 25 (2 days early). Validation Flights #2–#3 remain open with updated due dates (April 30 and May 4 respectively). Per Maciej (April 24, 2026), project is in "Closing out EMASS" phase (#3 priority) with **remaining work waiting on Dan Prendergast and Jack Elston to finish controller and complete final test flying**. **Project closure expected following May 4 Final Report delivery.**
 - **Team Members**: Dan Prendergast (Owner/Lead), Jack Elston, Maciej Stachura, Nate Straus, Ethan Domagala, Meredith O'hara Needham
 - **Risk Signals**: 
-  - **Compressed final phase with zero buffer**: Both remaining validation flights due April 29; Final Report due April 30. Any slip cascades immediately to project end date.
-  - **Single point of failure on execution**: Dan Prendergast assigned to both remaining flights; Jack Elston (controller completion) and Nate Straus (flight coordination) not formally assigned to validation tasks despite active execution roles per team feedback (Maciej, April 19–20, 2026).
-  - **Controller completion still blocking**: Per Maciej (April 24, 2026), "remaining work just waiting on those guys [Dan and Jack] to finish the controller and another round of test flying." Unclear if controller was delivered by April 25 Validation Flight #1 or if testing proceeded with partial hardware.
-  - **Schedule recovery in progress but aggressive**: Bench test and functional flight test completed April 25 (4–5 days overdue); Validation Flight #1 completed April 25 (2 days early), suggesting parallel execution to catch up but no margin for Flight #2–#3.
+  - **Schedule slippage on final deliverables**: Validation Flight #2 due date shifted from April 29 to April 30 (1 day slip); Validation Flight #3 and Final Report both moved to May 4 (5 days slip from original April 29–30). Indicates compressed schedule recovery is behind.
+  - **Single point of failure on execution**: Dan Prendergast assigned to all three remaining open tasks (Flights #2–#3, Final Report); Jack Elston (controller completion) and Nate Straus (flight coordination) not formally assigned to validation tasks despite active execution roles per team feedback (Maciej, April 19–20, 2026).
+  - **Controller completion still blocking**: Per Maciej (April 24, 2026), "remaining work just waiting on those guys [Dan and Jack] to finish the controller and another round of test flying." Controller status unclear as of latest data.
+  - **Schedule recovery in progress but facing headwinds**: Bench test and functional flight test completed April 25 (4–5 days overdue); Validation Flight #1 completed April 25 (2 days early). Remaining two flights have slipped 5 days from original target, suggesting recovery momentum has stalled.
 
 ## Key Deliverables & Milestones
 - **Phase 1: Design & Alignment** (Due: Jan 28, 2026) - ✅ Completed
 - **Phase 1b: Interface Design Freeze** (Due: Feb 6, 2026) - ✅ Completed
 - **Phase 2: Integration & Firmware** (Due: Feb 13, 2026) - ✅ Completed
 - **Phase 4: Validation & Reporting** (Due: Mar 11, 2026) - ✅ Completed
-- **Final Validation Phase** (Due: Apr 27–30, 2026):
+- **Final Validation Phase** (Due: Apr 27–May 4, 2026):
   - Validation Flight #1 (April 27, 2026) — ✅ **Completed April 25, 2026** (2 days early)
-  - Validation Flight #2 (April 29, 2026) — **OPEN**
-  - Validation Flight #3 (April 29, 2026) — **OPEN**
-  - Final Report (April 30, 2026) — **OPEN** (not yet visible in raw task list; inferred from project scope)
+  - Validation Flight #2 (April 30, 2026) — **OPEN** *(slipped 1 day from Apr 29)*
+  - Validation Flight #3 (May 4, 2026) — **OPEN** *(slipped 5 days from Apr 29)*
+  - Final Report (May 4, 2026) — **OPEN** *(slipped 4 days from Apr 30)*
 
 ## Task Summary
-- **Total Tasks**: 45+ across project lifecycle (2 currently open in raw data; 43+ completed or closed)
+- **Total Tasks**: 45+ across project lifecycle (3 currently open in raw data; 42+ completed or closed)
 - **Tasks by Assignee** (Open):
-  - **Dan Prendergast**: 2 open tasks (Validation Flight #2, Validation Flight #3, both due April 29)
+  - **Dan Prendergast**: 3 open tasks (Validation Flight #2 due April 30, Validation Flight #3 due May 4, Final Report due May 4)
   - **Other team members**: No open tasks in Asana; however, **team feedback (Maciej, April 19–20, 2026) identifies Jack Elston and Nate Straus as active coordinators on EMASS flight tests**, with Jack actively working on controller completion
 - **Recent Completions** (April 25, 2026):
   - ✅ Validation Flight #1 (Dan Prendergast) — 2 days early
@@ -66,16 +66,13 @@
 
 **Timeline Evolution**: 
 - Original scope: Nov 10, 2025 – Jan 31, 2026 (12 weeks)
-- Actual execution: Extended through April 30, 2026 (~3.5 months beyond original end date)
+- Latest due dates: May 4, 2026 (~5 months beyond original end date)
 - Project notes indicate "No set end date" initially — likely reflects scope uncertainty during early phases
 
 **⚠️ Critical Execution Status** (Per April 24–25 Team Feedback & Current Task Data):
 
 1. **Controller Completion Blocking Final Flights**: As of April 24, Maciej states remaining work depends on Dan and Jack finishing controller work. Validation Flight #1 completed April 25 (2 days early), suggesting either (a) controller was delivered in the interim, or (b) testing proceeded with interim hardware. Flights #2–#3 expected to proceed once controller validation completes.
 
-2. **Severe Schedule Compression**: 
-   - Flight #2 & #3: Both due April 29 (same day, likely different test runs)
-   - Final Report: Due April 30
-   - Zero buffer for any delays on either flight or reporting
-
-3. **Task Assignment vs. Execution Reality**: Asana shows Dan Prendergast owning validation flights; actual team includes Jack Elston (controller/hardware completion) and Nate Straus (flight coordination). Jack and Nate are not formally assigned to validation flight tasks despite active hardware delivery and coordination roles per team feedback
+2. **Schedule Slippage on Final Phase**: 
+   - Flight #2: Moved to April 30 (1 day slip from Apr 29)
+   - Flight #3 &

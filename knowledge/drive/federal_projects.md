@@ -1,111 +1,96 @@
 # Federal Projects — Shared Drive
 
 ## Overview
-- **Total files:** 24 | **Total folders:** 2
+- **Total files:** 12 | **Total folders:** 2
 - **Date range:** 2022-02-07 (created) → 2099-01-24 (most recent modification)
-- **Content modification range:** 2026-04-28 → 2099-01-24
-- **Primary purpose:** Federal grant proposals, RFIs, and subcontractor budget documentation for NASA and DOE programs (SBIR/STTR, SaaS initiatives); includes personnel CVs, budget justifications, and technical documentation
+- **Content modification range:** 2026-04-29 → 2099-01-24
+- **Primary purpose:** Federal grant proposals, RFIs, and technical documentation for NASA and DoD programs (SBIR/STTR, aeronautics, autonomy, and Genesis Mission initiatives); includes personnel CVs, conflict-of-interest disclosures, strategy presentations, and submitted proposal packages
 
 ## Folder Structure
 ```
 Federal Projects/
-├── 2026 NASA Phase I - AERO.7/          [Empty — archived or in-progress NASA aeronautics folder]
-└── FY26/                                 [Active FY26 planning, SOWs, and DoD SBIR/STTR BAA documents]
+├── 6. DoD Strategy & BD/                 [Business development and military partnership presentations]
+└── Submitted Proposal/                   [Completed/submitted proposal packages and technical documents]
 ```
 
-**Note:** Previous folder structure (2026 NASA Phase I BAA 26B-1 SBIR, 2026 NASA Phase I BAA 26B-I STTR, 2026 Phase I BAA 26A-1 SBIR, BNL_sub, NASA SaaS) has been consolidated or reorganized into FY26/.
+**Note:** Previous folder structure has been significantly consolidated. Original folders (2026 NASA Phase I BAA 26B-1 SBIR, 2026 NASA Phase I BAA 26B-I STTR, 2026 Phase I BAA 26A-1 SBIR, BNL_sub, NASA SaaS, FY26/) have been archived or reorganized into two high-level categories: DoD Strategy & BD and Submitted Proposal.
 
 ## Key Documents by Category
 
-### Proposals & RFPs (5 files)
+### Proposals & RFPs (6 files)
 | Document | Path | Modified | Editor |
 |-----------|------|----------|--------|
-| Autonomy Phase II-proposal-DRAFT | Root | 2026-04-29 | Jack Elston |
-| Elston-Jack-1-RFI | Root | 2026-04-29 | Jack Elston |
-| NASA Aero RFI: Strato Balloon | Root | 2026-04-29 | Jack Elston |
 | NASA Aero RFI: S3 Nomad | Root | 2026-04-29 | Jack Elston |
-| NASA Aero RFI Autonomy and Avionics | Root | 2026-04-29 | Jack Elston |
+| NASA Aero RFI: Strato Balloon | Root | 2026-04-29 | Jack Elston |
+| NASA Aero RFI Autonomy and Avionics | Root | 2026-04-29 | Maciej Stachura |
+| Autonomy Phase II-proposal-DRAFT | Root | 2026-04-29 | Jack Elston |
+| Elston-Jack-1-RFI.pdf | Root | 2026-04-29 | Beck Cotter |
+| Elston-Jack-1-RFI | Root | 2026-04-29 | Jack Elston |
 
-### Statements of Work (3 files)
+### Presentations (1 file)
 | Document | Path | Modified | Editor |
 |-----------|------|----------|--------|
-| DoW 2026 STTR BAA FULL_04132026.pdf | FY26/ | 2026-04-28 | Beck Cotter |
-| DoW 2026 SBIR CSO FULL_R1_04132026.pdf | FY26/ | 2026-04-28 | Beck Cotter |
-| DoW 2026 SBIR BAA FULL_R1_04132026.pdf | FY26/ | 2026-04-28 | Beck Cotter |
+| 2026-05-01 53rd Weather Squadron & SOCOM Visit | 6. DoD Strategy & BD/ | 2026-04-29 | Daniel Prendergast |
 
-### Financial (1 file)
+### Documents & Reports (1 file)
 | Document | Path | Modified | Editor |
 |-----------|------|----------|--------|
-| Carnets Invoice INV000204789 for bond (April 2026).pdf | Root | 2026-04-28 | Meredith Needham |
+| Genesis Mission_Phase I DRAFT | Root | 2026-04-29 | ferllorente.93 |
 
-### Reports & Analysis (7 files — Genesis Program Personnel/CVs)
+### Submitted Proposals (1 file)
 | Document | Path | Modified | Editor |
 |-----------|------|----------|--------|
-| Genesis_BST_CP_Urban.pdf | Root | 2026-04-28 | Beck Cotter |
-| Genesis_BST_Bio_Urban.pdf | Root | 2026-04-28 | Beck Cotter |
-| Genesis_BST_COI_Urban.xlsx | Root | 2026-04-28 | Beck Cotter |
-| Genesis_BST_CP_deBoer.pdf | Root | 2026-04-28 | Beck Cotter |
-| Genesis_BST_Bio_deBoer.pdf | Root | 2026-04-28 | Beck Cotter |
-| Genesis_BST_COI_deBoer.xlsx | Root | 2026-04-28 | Beck Cotter |
-| Dr. Jack Elston_ Black Swift Technologies LLC.pdf | Root | 2026-04-28 | Beck Cotter |
+| Genesis__UAS.pdf | Submitted Proposal/ | 2026-04-29 | Beck Cotter |
 
-### Templates (2 files)
+### Templates (1 file)
 | Document | Path | Modified | Editor |
 |-----------|------|----------|--------|
-| Genesis_Mission_Phase_I_Application_Template_v2 | Root | 2026-04-28 | Beck Cotter |
-| Collaborator_Template | Root | 2026-04-28 | Beck Cotter |
+| Genesis_Mission_Phase_I_Application_Template_v2 | Root | 2026-04-29 | Beck Cotter |
 
-### Other / Reference Documents (6 files)
+### Other / Multimedia (2 files)
 | Document | Path | Modified | Editor |
 |-----------|------|----------|--------|
-| DoD 25.4 SBIR BAA FULL_R12_04022026.pdf | Root | 2026-04-28 | Beck Cotter |
-| 254D_mods_04022026.xlsx | Root | 2026-04-28 | Beck Cotter |
-| Collaborators.xlsx | Root | 2026-04-28 | Beck Cotter |
-| FY26/Planning doc | FY26/ | 2026-04-28 | Beck Cotter |
 | RC_VID_0009.MOV | Root | 2099-01-24 | Jack Elston |
 | RC_VID_0008.MOV | Root | 2099-01-24 | Jack Elston |
 
 ## Recent Activity Patterns
-- **Most active user:** Beck Cotter (16 of 24 files last edited) — primary owner of proposal coordination, personnel documentation, and budget materials
-- **Secondary user:** Jack Elston (7 of 24 files last edited) — recently updated RFI responses and Phase II proposal draft; also uploaded video files (likely technical documentation or presentation materials)
-- **Tertiary user:** Meredith Needham (1 file) — financial/procurement (invoice processing)
-- **Activity concentration:** Heavy activity on 2026-04-28 and 2026-04-29, indicating coordinated BAA/RFI response deadline push
-- **Ownership shift:** Jack Elston now actively editing RFI and proposal materials (previously Beck Cotter only); suggests collaborative proposal work or Jack Elston taking point on aeronautics/autonomy initiatives
-- **Video uploads:** Two .MOV files with 2099-01-24 timestamps (metadata error likely); uploaded by Jack Elston, possibly supporting Autonomy Phase II proposal or RFI responses
+- **Most active user:** Jack Elston (6 of 12 files last edited) — primary lead on NASA aeronautics RFIs (S3 Nomad, Strato Balloon), Autonomy Phase II proposal, and video documentation; clear ownership of technical proposal development
+- **Secondary users:** 
+  - Beck Cotter (3 of 12 files) — Genesis Mission template management and submitted proposal package coordination
+  - Daniel Prendergast (1 file) — DoD/SOCOM business development presentation (2026-05-01)
+  - Maciej Stachura (1 file) — NASA Aero RFI: Autonomy and Avionics
+  - ferllorente.93 (1 file) — Genesis Mission Phase I draft document
+- **Activity concentration:** Heavy activity on 2026-04-29 (11 of 12 files), indicating coordinated deadline push for NASA RFI responses and Genesis Mission proposal submissions
+- **Folder reorganization:** Shift from granular BAA/program-specific folders to high-level strategic folders (DoD Strategy & BD, Submitted Proposal) suggests maturing proposal management structure and archived/inactive program folders
+- **Video uploads:** Two .MOV files with 2099-01-24 timestamps (metadata error likely); uploaded by Jack Elston, possibly supporting technical documentation or external partnership presentations
 
 ## Client/Project Document Mapping
 
-### NASA — Multiple 2026 Programs
+### NASA — Aeronautics & Autonomy Programs
 | Program | Documents | Status | Notes |
 |---------|-----------|--------|-------|
-| **NASA Aeronautics RFIs** | S3 Nomad RFI, Strato Balloon RFI, Autonomy and Avionics RFI, Elston-Jack-1-RFI | Active RFI responses | Jack Elston recently updated all four RFI files (2026-04-29) |
-| **NASA Autonomy Phase II** | Autonomy Phase II-proposal-DRAFT, Dr. Jack Elston_ Black Swift Technologies LLC.pdf | Proposal draft in progress | Jack Elston lead; includes personnel CV/bio |
-| **NASA Genesis Mission** | Genesis_Mission_Phase_I_Application_Template_v2, Genesis_BST_CP_Urban.pdf, Genesis_BST_Bio_Urban.pdf, Genesis_BST_COI_Urban.xlsx, Genesis_BST_CP_deBoer.pdf, Genesis_BST_Bio_deBoer.pdf, Genesis_BST_COI_deBoer.xlsx | Active proposal preparation | Two key personnel tracked: Urban and deBoer (COI = Conflict of Interest disclosures) |
+| **NASA Aeronautics RFIs** | S3 Nomad RFI, Strato Balloon RFI, Autonomy and Avionics RFI, Elston-Jack-1-RFI (×2) | RFI responses submitted | Jack Elston & Maciej Stachura lead; coordinated 2026-04-29 submission |
+| **NASA Autonomy Phase II Proposal** | Autonomy Phase II-proposal-DRAFT, Dr. Jack Elston_ Black Swift Technologies LLC.pdf (from previous data) | Proposal in draft | Jack Elston lead; technical proposal development underway |
 
-### DoD / SBIR / STTR Programs
+### NASA / DOE — Genesis Mission Program
 | Program | Documents | Status | Notes |
 |---------|-----------|--------|-------|
-| **DoD 25.4 SBIR BAA** | DoD 25.4 SBIR BAA FULL_R12_04022026.pdf, 254D_mods_04022026.xlsx | BAA review/mods | Government solicitation with BST modifications tracker |
-| **FY26 STTR BAA** | DoW 2026 STTR BAA FULL_04132026.pdf | SOW prepared | Statement of Work ready for submission |
-| **FY26 SBIR CSO** | DoW 2026 SBIR CSO FULL_R1_04132026.pdf | SOW prepared | Statement of Work (Commercialization Success Outcome track) |
-| **FY26 SBIR BAA** | DoW 2026 SBIR BAA FULL_R1_04132026.pdf | SOW prepared | Statement of Work (general SBIR track) |
+| **Genesis Mission Phase I** | Genesis Mission_Phase I DRAFT, Genesis__UAS.pdf (submitted), Genesis_Mission_Phase_I_Application_Template_v2 | **Submitted 2026-04-29** | ferllorente.93 drafted proposal; Beck Cotter coordinated submission to Submitted Proposal/ folder; template used for personnel documentation (Urban, deBoer CVs/COI from previous data) |
 
-### Cross-Project / Internal Resources
-| Resource | Documents | Status | Notes |
+### DoD / SBIR / SOCOM Partnership
+| Program | Documents | Status | Notes |
 |-----------|-----------|--------|-------|
-| **Collaborators/Partnerships** | Collaborators.xlsx, Collaborator_Template | Tracking active | Master list of project collaborators and template for consistent tracking |
-| **FY26 Planning** | FY26/Planning doc | Planning phase | High-level FY26 initiative planning |
-| **Financial/Procurement** | Carnets Invoice INV000204789 for bond (April 2026).pdf | Processed | Bond invoice (possibly proposal/performance bond) |
+| **DoD Strategy & Business Development** | 2026-05-01 53rd Weather Squadron & SOCOM Visit | BD meeting preparation | Daniel Prendergast prepared presentation; indicates active SOCOM/53rd WX Sq partnership exploration (post-2026-04-29) |
 
 ## Important Templates & Shared Resources
-- **Genesis_Mission_Phase_I_Application_Template_v2** (`Root/`) — Master template for DOE Genesis Phase I applications; used for generating personnel CVs and COI disclosures
-- **Collaborator_Template** (`Root/`) — Standardized template for tracking project collaborators across proposals
-- **Genesis Personnel Package (Urban & deBoer)** — CV, biographical, and conflict-of-interest documents generated from template for Genesis proposal submissions; may be reusable across other federal proposals with similar personnel requirements
+- **Genesis_Mission_Phase_I_Application_Template_v2** (`Root/`) — Master template for DOE Genesis Phase I applications; enables rapid personnel documentation (CVs, bios, conflict-of-interest disclosures) and application standardization across federal proposals
+- **Personnel Documentation System** — Cross-referenced with previous data: Genesis proposal uses standardized CV/COI templates for key personnel (Urban, deBoer); Jack Elston has dedicated biography document for multiple proposal submissions
 
 ## Notes & Observations
-- **Folder reorganization:** Previous structure (separate 2026 BAA folders, BNL_sub) consolidated into FY26/; suggests more streamlined proposal management
-- **2026 NASA Phase I - AERO.7/** folder is empty but retained — likely placeholder for upcoming aeronautics BAA responses or archived work
-- **Personnel focus:** Genesis Mission proposal includes detailed personnel documentation (CVs, bios, COI disclosures) for two key staff (Urban, deBoer); Jack Elston also has dedicated bio/CV document
-- **Video files:** RC_VID_0008/0009.MOV with future timestamps (2099-01-24) likely metadata errors; assess if relevant to proposal work or separate project documentation
-- **Activity shift:** RFI and proposal updates moved from Beck Cotter (2026-04-27 in previous data) to Jack Elston (2026-04-29 in current data), suggesting Jack Elston now leads aeronautics and autonomy proposal efforts
-- **Financial:** Single invoice from Meredith Needham suggests procurement or finance team is engaged; bond likely supports proposal/contract execution
+- **Significant folder consolidation:** Drive now has only 2 folders vs. previous 5+. Archive/inactive program folders (FY26/, 2026 NASA Phase I - AERO.7/) have been removed from current view, suggesting either archival to separate storage or deletion of inactive proposals
+- **New stakeholder involvement:** Daniel Prendergast (DoD Strategy & BD presentation) and ferllorente.93 (Genesis Mission draft) indicate expanded team collaboration or department-specific proposal leads
+- **Maciej Stachura's emergence:** Authored Autonomy and Avionics RFI; appears to be technical co-author on autonomy-related proposals alongside Jack Elston
+- **Genesis Mission milestone:** Submitted proposal document in dedicated "Submitted Proposal/" folder indicates completed and submitted application as of 2026-04-29
+- **DoD Strategy shift:** 2026-05-01 SOCOM/53rd Weather Squadron meeting (post-proposal deadline) suggests strategic business development pivot toward military partnerships, potentially following Genesis Mission submission
+- **Video content:** RC_VID files lack descriptive metadata; recommend verification with Jack Elston for relevance to aeronautics RFI responses or partnership presentation materials
+- **Data consistency:** Current raw data shows 12 files in 2 folders, but knowledge base historically tracked 24 files across multiple folders—confirms significant archive/consolidation action between previous and current snapshots

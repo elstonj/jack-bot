@@ -1,105 +1,89 @@
 # Beck Cotter — Email Patterns (UPDATED)
 
 ## Communication Volume
-- **61 messages scanned** over ~4 days (26–29 Apr 2026)
-- Peak activity: Mon 27 Apr 2026 (28 messages); secondary peak: Tue 28 Apr (20 messages)
-- Approximate daily volume: ~15 emails/day during active periods
-- High concentration of IMPORTANT flags across government/proposal/partnership threads
+- **82 messages scanned** over ~4 days (26–29 Apr 2026)
+- Peak activity: Tue 28 Apr 2026 (20 messages); sustained secondary activity: Wed 29 Apr (21 new messages)
+- Approximate daily volume: ~15–20 emails/day during active periods
+- High concentration of IMPORTANT flags across government/proposal/partnership threads and technical collaboration
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Jack Elston** (elstonj@blackswifttech.com) — Most frequent correspondent; initiates and coordinates across multiple proposal/partnership threads; 15+ interactions documented
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 10+ interactions; co-recipient on military RFIs, Navy collaboration, and DoD proposal work
-- **Maciej Stachura** (stachura@blackswifttech.com) — 6+ interactions; appears on DoD proposals, Navy collaboration, and XPONENTIAL conference coordination
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — Emerging contact; included on S2 MHP discussion notes
+- **Jack Elston** (elstonj@blackswifttech.com) — Primary coordinator; 18+ interactions documented; initiates proposals, flight coordination, and Krateo Sky partnership engagement
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 12+ interactions; co-lead on military RFIs, Navy collaboration, PrecisionTerra NASA Phase II, and 53rd Weather Squadron visit coordination
+- **Maciej Stachura** (stachura@blackswifttech.com) — 7+ interactions; DoD proposals, Navy collaboration, M2 update coordination
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — 4+ interactions; S2 MHP, Flight #3 coordination
+- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — NEW: M2 update recipient; emerging technical collaboration
+- **Paige Smith** (paige.smith@blackswifttech.com) — NEW: NASA Aero RFI S3 co-author; real-time Google Docs collaboration; marked IMPORTANT
 
 ### Top External Contacts
 
+**Brookhaven National Laboratory (BNL) — Expanded:**
+- **Gijs de Boer** (gdeboer@bnl.gov) — Genesis Phase I lead; Beck sending/receiving technical narrative revisions (29 Apr); marked IMPORTANT; rapid iteration cycle
+- **Fernando Jose Llorente** (fllorente@bnl.gov) — Genesis Phase I co-lead; providing detailed technical feedback on abstract (29 Apr); marked IMPORTANT; direct collaborative engagement with Beck
+- **Kenneth Koebel** (kkoebel@bnl.gov) — NEW: Genesis Phase I team member; cc'd on technical narrative discussions
+
 **Academic/Research Partners (expanded):**
-- **Madelyn Mettler** (MadelynMettler@montana.edu) — NEW: High-frequency correspondent; multiple IMPORTANT threads on "Unmanned test platform collaboration with US Navy"; appears to be coordinating institutional partnership; 6+ message exchanges
-- **Christopher E Hartman** (chartman@umes.edu) — Ongoing "Black Swift Update" discussions; Jack initiating follow-ups
-- **Bassil El Masri** (belmasri@murraystate.edu) — Flight #3 coordination (from prior data)
+- **Madelyn Mettler** (MadelynMettler@montana.edu) — Navy unmanned test platform collaboration (from prior period)
+- **Bassil El Masri** (belmasri@murraystate.edu) — Flight #3 coordination; marked IMPORTANT; 4+ message exchanges on 29 Apr indicating active test scheduling
+- **Kevin Rozmiarek** (kevin.rozmiarek@colorado.edu) — NEW: Black Swift S3 topic; Beck drafting communication (12:33 AM 29 Apr)
+- **Maithreyi Gopalakrishnan** (Maithreyi.Gopalakrishnan@colorado.edu) — NEW: PrecisionTerra NASA Phase II Proposal subcontractor scope; marked IMPORTANT; Daniel coordinating with Beck included
 
-**Government/Military (expanded):**
-- **Ryan A Rickert, Lt Col USAF** (ryan.rickert.4@us.af.mil, 53 WRS/ARWO) — NEW: Direct Air Force engagement on RFI S0; marked IMPORTANT; multiple exchanges with Daniel Prendergast
-- **Evan M Wolff** (evan.m.wolff.mil@socom.mil, USSOCOM) — Continued engagement on RFI S0 coordination
-- **Kevin A Ward** (kevin.a.ward@nasa.gov, NASA Earth Observatory) — Newsletter/updates subscription
+**Industry Partners — NEW:**
+- **Krateo Sky Partnership:** 
+  - Lisa Marie Cheney (LisaMarie@krateosky.com)
+  - Bob Smith (Bob@krateosky.com)
+  - Adria Passola (a@krateosky.com)
+  - Brian Grubel (Brian@krateosky.com)
+  - Jack initiating "S3 Flights" coordination with full BST team (29 Apr); suggests integrated flight operations partnership
 
-**Brookhaven National Laboratory (BNL):**
-- **Nathan Urban** (nurban@bnl.gov) — Genesis Phase I continuation; Beck drafting technical content (note: "DRAFT" subject on 28 Apr)
+**Other External:**
+- **Bryan Sparling** (bryan.sparling@bylight.com) — NEW: M2 update recipient; external technical partner (ByLight Aviation)
+- **Joshua Elliott, ARC Director** (arcinit@substack.com, Substack) — NEW: Newsletter/thought leadership on weather modification; marked IMPORTANT; suggests emerging research interest
 
-**New External Relationships:**
-- **Noah Ray** (nray@investottawa.ca, Invest Ottawa) — NEW: Arctic Demo in Ottawa initiative; co-recipient with BST team and NeXtech Solutions; marked IMPORTANT
-- **Trenton McKibben** (Trenton.McKibben@nextechsol.com, NeXtech Solutions) — Arctic Demo partnership
-- **Ed Kase** (ed.kase@ekaseconsulting.com, EKase Consulting) — XPONENTIAL 2026 conference coordination with Jack and Maciej
-
-**Media/Press (automated):**
-- **Robotics.Press** (editor@robotics.press) — Coverage notification marked IMPORTANT
-- **XBW Lithium Battery** (info@xbw.it) — Newsletter (Italian-language battery tech content)
-- **NASA Earth Observatory** (kevin.a.ward@nasa.gov) — Weekly newsletter subscription
+**Media/Automated:**
+- **UASweekly.com** (newsletter@uasweekly.com) — Daily UAS industry newsletter
+- **Google Docs collaborative notifications** — Jack, Paige Smith, Fernando Llorente commenting on shared documents (real-time proposal work)
+- **Gemini Notes** (gemini-notes@google.com) — Meeting notes auto-generated for "SkyMesa Systems/BST" (29 Apr)
 
 ### Internal vs External Breakdown
-- ~65% internal BST correspondence
-- ~35% external (government labs, military, academic institutions, event/consulting partners, media)
+- ~68% internal BST correspondence
+- ~32% external (government labs, academic institutions, industry partners, media/newsletters)
 
 ## Topic Patterns
 
 ### Primary Projects/Initiatives (Updated)
 
-1. **Genesis Phase I (BNL)** — Continues from prior period; Beck drafting narrative revisions (Draft email to Nathan Urban 28 Apr)
-2. **US Navy Unmanned Test Platform Collaboration** — NEW: Major initiative with Montana State (Mettler); Jack organizing multi-party engagement with Beck, Daniel, Maciej; marked IMPORTANT across 6+ message thread; appears to involve institutional/academic partnership
-3. **RFI S0 (Air Force/SOCOM)** — Escalated engagement; now includes direct Lt Col Rickert (USAF 53rd Wing Reconnaissance Squadron); Daniel coordinating with both USAF and USSOCOM; marked IMPORTANT
-4. **S2 MHP (Modular Hover Platform)** — Internal discussion notes forwarded by Jack to Beck, Meredith, Maciej, Daniel
-5. **NASA Aero RFI: S3** — NEW: Paige Smith involved; Google Docs collaboration with Jack comment notification to Beck; marked IMPORTANT
-6. **Arctic Demo in Ottawa** — NEW: International demonstration initiative with Invest Ottawa and NeXtech Solutions; marked IMPORTANT; suggests Canadian market/partnership expansion
-7. **Black Swift and TechLink Intro** — NEW: Montana State University-facilitated introduction; marked IMPORTANT; broader tech sector/partnership development
+1. **Genesis Phase I (BNL)** — **Escalated activity:** Beck in direct rapid iteration with de Boer and Llorente on technical narrative revisions (29 Apr); marked IMPORTANT; multiple same-day exchanges; indicates proposal deadline imminent
+2. **NASA Aero RFI: S3** — **Escalated activity:** Multi-stakeholder real-time collaboration (Jack, Paige Smith, Fernando Llorente); Google Docs comments marked IMPORTANT (29 Apr); Paige and Jack providing editorial feedback on abstract/narrative
+3. **PrecisionTerra NASA Phase II Proposal** — **NEW:** University of Colorado (Maithreyi Gopalakrishnan) leading; BST positioned as subcontractor; scope discussion active with Daniel and Beck involved; marked IMPORTANT
+4. **S3 Flights (Krateo Sky Partnership)** — **NEW & MAJOR:** Jack coordinating integrated flight operations with Krateo Sky team (4 contacts) and full BST core team (Beck, Meredith, Daniel, Maciej); initiating 29 Apr; suggests expanded commercial/industry partnership
+5. **M2 Update** — **NEW:** Beck authoring technical update to Bryan Sparling (ByLight), Jack, Ethan Domagala, Maciej (29 Apr); appears to be flight platform or technical system status
+6. **Black Swift/Flight #3** — Continuing academic test coordination with Bassil El Masri (Murray State); marked IMPORTANT; 4+ message exchanges on 29 Apr; appears to involve payload/mission planning
+7. **53rd Weather Squadron & SOCOM Visit** — **NEW:** Formal invitation from Daniel (Fri May 1, 1:30–3:30 PM MDT); indicates in-person military stakeholder engagement; Beck primary recipient
+8. **US Navy Unmanned Test Platform Collaboration** — Ongoing Montana State partnership (from prior data)
 
 ### Secondary Topics
-- **Black Swift Update** — Ongoing academic relationship management with UMES (Hartman)
-- **DOE SBIR/STTR Programs** — Jack forwarding program management changes to Beck
-- **XPONENTIAL 2026** — Conference coordination with consulting partner
-- **Media/PR Coverage** — Robotics.Press coverage notification
+- **Black Swift S3** — DRAFT communication to Kevin Rozmiarek (University of Colorado); indicates academic outreach or technology demo coordination
+- **SkyMesa Systems/BST Meeting** — 29 Apr meeting notes auto-generated; suggests potential partnership or customer engagement discussion
+- **DOE SBIR/STTR Programs** — Continued agency engagement (from prior period)
+- **Autonomy and Unmanned Systems Opportunity Alert** — Applied Research Institute notification to BST; newer funding opportunity area
 
 ### Automated/Newsletter Traffic
-- NASA Earth Observatory weekly digest
-- XBW Lithium Battery newsletter (Italian language)
-- Google Docs/Drive sharing notifications (work documents)
-- Robotics.Press media coverage notifications
+- UASWeekly.com daily newsletter
+- Joshua Elliott/ARC Director Substack (weather research/modification)
+- Google Docs/Drive sharing and collaborative comments
+- Applied Research Institute opportunity alerts
+- Gemini AI meeting note generation
 
 ## Communication Patterns
 
 ### Time & Frequency
-- **Peak activity:** Tue 28 Apr 2026 (morning through evening, multiple time zones)
-- **Google Docs real-time collaboration:** Jack commenting on NASA Aero RFI doc early morning 29 Apr (00:06 UTC)
-- **Rapid threading:** Navy collaboration shows same-day back-and-forth with Mettler (9:57 AM → 5:16 PM UTC, spanning multiple Jack-mediated responses)
-- **International coordination:** Messages spanning UTC, EDT, and Mountain time zones (NATO/Canadian/US stakeholders)
+- **Sustained 24-hour activity:** Messages spanning 10:39 AM MDT (29 Apr) through 22:50 UTC (22:50 PM 29 Apr); indicates high operational tempo
+- **Real-time collaboration:** Google Docs comments from Jack, Paige Smith, Fernando Llorente arriving within minutes of each other (15:13–15:50 UTC 29 Apr); proposal deadline pressure evident
+- **Rapid response cycles:** BNL technical narrative thread shows Beck sending response (14:53 MDT), BNL team responding (20:39–22:50 UTC), suggesting coordinated late-evening work across US time zones
+- **Early morning drafting:** Beck drafting Black Swift S3 message at 12:33 AM MDT (29 Apr)
+- **International/multi-timezone coordination:** Emails spanning PDT (–7), MDT (–6), EDT (–5), and UTC (+0)
 
 ### Email Threading & Patterns
-- **Navy collaboration:** 6+ messages in primary thread, involving Jack as coordinator with Beck/Daniel/Maciej as core team members
-- **RFI S0:** Multi-recipient chain (Daniel → USAF/SOCOM → back to Daniel), escalating military engagement
-- **Google Docs workflow:** Shared planning documents with Paige Smith and Jack; real-time collaboration on proposals
-- **Broadcast threads:** TechLink intro sent to full team (Jack, Beck, Maciej, Daniel) from academic partner
-
-### Mailing Lists & Subscriptions
-- proposals@blackswifttech.com (NASA/DOE programs)
-- info@blackswifttech.com (company-wide updates, TQL initiative, press coverage)
-- NASA Earth Observatory (kevin.a.ward@nasa.gov) — personal subscription
-- Personal interest: Rock Creek Curling Club (forwarding Spring Youth Practices to curling contacts 28 Apr)
-
-## Key Relationships
-
-### Closest Internal Collaborators
-1. **Jack Elston** — Primary coordinator and initiator; bridges internal team (Beck, Daniel, Maciej, Meredith) with external partners; manages proposal pipeline and partnership development
-2. **Daniel Prendergast** — Co-lead on military/government engagement (RFI S0, Navy collaboration); direct contact with USAF and USSOCOM
-3. **Maciej Stachura** — Co-participant in proposals and Navy collaboration; involved in conference coordination
-
-### Important External Relationships (Ranked by New Activity)
-
-**Tier 1 — Active Institutional Partners:**
-1. **Montana State University (Madelyn Mettler)** — Navy collaboration lead; multiple IMPORTANT exchanges; appears to be faciliting both Navy engagement AND TechLink partnership introduction; high strategic value
-2. **BNL Team (Urban, Llorente, de Boer)** — Continued technical collaboration on Genesis Phase I; Beck actively drafting content
-
-**Tier 2 — Military/Government Stakeholders:**
-1. **US Air Force (Lt Col Ryan Rickert, 53 WRS/ARWO)** — Direct RFI S0 engagement; represents institutional Air Force interest
-2. **USSO
+- **Genesis Phase I:** 3+ message thread (Beck ↔ Llorente ↔

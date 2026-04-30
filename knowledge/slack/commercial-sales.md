@@ -10,14 +10,14 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Melissa Phillips (shipping/logistics coordination)
 - Maciej Tromba (payload/camera work, customer communication)
 - Danny Troke (QC, testing, batteries)
-- Meredith Needham (shipping, logistics)
+- Meredith Needham (shipping, logistics, quote coordination)
 - Nate (assembly, QC flights, payload prep, GCS builds, quotes)
 - Paige Smith (sales coordination, customer communication)
 - Beck Cotter (customer outreach, email coordination)
 - Ben Busby (team member)
 - Dan Prendergast (project coordination, customer requests)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Recent activity as of April 29, 2026.
 
 ---
 
@@ -41,6 +41,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Two S3 systems ordered by INSTAAR (June 1, 2025 deadline)
 - UMES S3 training planned for late May with funding deadline 5/31/2025
 - S3 becoming primary aircraft platform replacing S2
+- **UMES S3 Order (April 2026):** 3 S3 battery packs and 2 S2 battery packs included in order; Joshua Fromm requesting clarification on S2 battery pack inclusion since S2 is end-of-life (April 29, 2026)
 
 **E2 Tilted Rotor Configuration (August 2022)**
 - E2-13: Keep untilted rotors initially, parts ordered for future conversion
@@ -123,9 +124,4 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 
 **MHP (Modular Hovering Payload) Production Plan (2021)**
 - Production plan: 5 aeropods + 5 regular MHP units
-- Allocation: 1-NASA, 2-L3 Harris, 1-S1 project, 1-BST internal, balance for S2 integrations
-
-**NASA Langley S2 MHP Power Configuration (2021)**
-- Option 1: Self-powered with 2-hour battery
-- Option 2: Aircraft-powered via wing (requires left wing for power cable/wingtip drilling)
-- Team leaning toward Option
+- Allocation: 1-NASA, 2-L3

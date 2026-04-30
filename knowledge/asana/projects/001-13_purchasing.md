@@ -3,86 +3,65 @@
 ## Overview
 - **Client/customer:** Internal BST purchasing system (serves all active projects)
 - **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across multiple projects
-- **Timeline:** Ongoing operational project; current orders due Apr 12–30, 2026
-- **Status:** Active - **6 open tasks**. Queue expanded with new order (rockwest for S3, due Apr 30). One task (jawstec for S0 parts) is in "Order Shipped" status and approaching due date (Apr 12). All others tracking normally on schedule.
+- **Timeline:** Ongoing operational project; current orders due Apr 29–May 1, 2026
+- **Status:** Active - **12 open tasks** (doubled from 6 in prior snapshot). Queue expanded significantly with new orders for bearings, rocketman, clearwater composites, Amazon propellers, and jawstec S3 parts. All tasks in "Order Placed" or "Order Received" status; no overdue tasks currently visible. **NOTE:** jawstec for S0 parts (#68057, due Apr 12) from prior snapshot is **no longer in task list** — assume closed/resolved.
 - **Team members involved:** 
-  - Meredith O'hara Needham (processor/project owner; 2 assigned tasks)
-  - Nate Straus (receiving/verification; 4 assigned tasks)
+  - Meredith O'hara Needham (processor/project owner; 7 assigned tasks — 58% of workload)
+  - Nate Straus (receiving/verification; 5 assigned tasks — 42% of workload)
 - **Risk signals:** 
-  - **CRITICAL:** jawstec for S0 parts (#68057) is **due Apr 12, 2026** with status "Order Shipped" — this is likely **overdue or imminent** (order placed Apr 10; 2-day lead time). Assigned to Meredith; requires immediate verification/closure.
-  - Rockwest order (due Apr 30) just entered queue with "Order Placed" status (Meredith); normal progression.
+  - **Queue doubled in size** (6 → 12 tasks); indicates high procurement velocity or batch submission.
+  - **Meredith carries 7 tasks (all "Order Placed" status)** — verify processing capacity and order placement timing (8 orders due Apr 29–May 1).
+  - **Nate has 5 "Order Received" tasks** — follow-up verification expected within 2–3 days.
 
 ## Key Deliverables & Milestones
 
-### **[300-3] 2026 IDIQ (Hurricane)** — 1 open order
-- **jawstec for S0 parts (#68057)** | **Due Apr 12, 2026** ⚠️ | Meredith O'hara Needham | Status: Order Shipped | Requester: Joshua Fromm | Tax Exempt: YES | Requested: Apr 10, 2026
+### **[001-4] IRAD S0 VTOL** — 1 open order
+- **rocketman for s0 VTOL IRAD (#1534)** | Due May 1, 2026 | Meredith O'hara Needham | Status: Order Placed | Requester: Joshua Fromm | Tax Exempt: NO | Requested: Apr 29, 2026
 
-### **[043-3] Mustang Pt. 2** — 1 open order
+### **[001-7] IRAD S3** — 1 open order
+- **clearwater composites for s3 parts (#14814)** | Due May 1, 2026 | Meredith O'hara Needham | Status: Order Placed | Requester: Joshua Fromm | Tax Exempt: YES | Requested: Apr 29, 2026
+
+### **[001-1] IRAD General** — 2 open orders
+- **Amazon- Mavic 3 Propellers** | Due May 1, 2026 | Meredith O'hara Needham | Status: Order Placed | Requester: Ethan Domagala | Tax Exempt: NO | Requested: Apr 29, 2026
+- **Digikey (db9) (#98825513)** | Due Apr 30, 2026 | Nate Straus | Status: Order Received | Requester: Nate | Tax Exempt: NO | Requested: Apr 22, 2026
+
+### **[043-3] Mustang Pt. 2** — 3 open orders
+- **DragonPlate- ByLight tails (#174005)** | Due May 1, 2026 | Meredith O'hara Needham | Status: Order Placed | Requester: Ethan Domagala | Tax Exempt: NO | Requested: Apr 29, 2026
+- **JawsTec- Mustang/Chilli/M2 (#68231)** | Due May 1, 2026 | Nate Straus | Status: Order Received | Requester: Ethan Domagala | Tax Exempt: NO | Requested: Apr 20, 2026
 - **Jawstec (#68200)** | Due Apr 29, 2026 | Nate Straus | Status: Order Received | Requester: Alex | Tax Exempt: NO | Requested: Apr 17, 2026
 
 ### **[001-7] IRAD S3** — 1 open order
 - **north american survival systems (#11385)** | Due Apr 29, 2026 | Nate Straus | Status: Order Received | Requester: Joshua Fromm | Tax Exempt: YES | Requested: Apr 22, 2026
 
-### **[001-1] IRAD General** — 1 open order
-- **Digikey (db9) (#98825513)** | Due Apr 30, 2026 | Nate Straus | Status: Order Received | Requester: Nate | Tax Exempt: NO | Requested: Apr 22, 2026
-
-### **General Sales (No Specific Project)** — 2 open orders
-- **sendcutsend for S3 parts / sales (SW02L252)** | Due Apr 29, 2026 | Nate Straus | Status: Order Received | Requester: Joshua Fromm | Tax Exempt: NO | Requested: Apr 21, 2026
-- **rockwest for S3 (#Z100698536)** | Due Apr 30, 2026 | Meredith O'hara Needham | Status: Order Placed | Requester: Joshua Fromm | Tax Exempt: YES | Requested: Apr 28, 2026
+### **General Sales (No Specific Project)** — 4 open orders
+- **bearings for s3** | Due Apr 30, 2026 | Meredith O'hara Needham | Status: Not specified | Requester: Joshua Fromm | Tax Exempt: YES | Requested: Apr 30, 2026
+- **rockwest for s3 (#Z100698536)** | Due Apr 30, 2026 | Meredith O'hara Needham | Status: Order Placed | Requester: Joshua Fromm | Tax Exempt: YES | Requested: Apr 28, 2026
+- **jawstec for s3 parts (#68439)** | Due May 1, 2026 | Meredith O'hara Needham | Status: Order Placed | Requester: Joshua Fromm | Tax Exempt: YES | Requested: Apr 29, 2026
+- **sendcutsend for s3 parts / sales (SW02L252)** | Due Apr 29, 2026 | Nate Straus | Status: Order Received | Requester: Joshua Fromm | Tax Exempt: NO | Requested: Apr 21, 2026
 
 ## Task Summary
-- **Total tasks:** 6 open, 0 completed (100% open rate; **increased from 4 in prior snapshot**)
+- **Total tasks:** 12 open, 0 completed (100% open rate; **doubled from 6 in prior snapshot**)
 - **Tasks by assignee:**
-  - Nate Straus: 4 tasks (67% of workload) — 4 "Order Received" status
-  - Meredith O'hara Needham: 2 tasks (33% of workload) — 1 "Order Shipped" (overdue), 1 "Order Placed"
+  - Meredith O'hara Needham: 7 tasks (58% of workload) — all "Order Placed" status
+  - Nate Straus: 5 tasks (42% of workload) — all "Order Received" status
 - **Order status breakdown:**
-  - Order Received: 4 tasks (67%)
-  - Order Shipped: 1 task (17%) — ⚠️ **OVERDUE**
-  - Order Placed: 1 task (17%)
+  - Order Placed: 7 tasks (58%) — Meredith's portfolio
+  - Order Received: 5 tasks (42%) — Nate's portfolio
 - **Notable patterns:**
-  - **Queue grew by 2 tasks** since last snapshot (added rockwest for General Sales and jawstec for Hurricane IDIQ).
-  - **Jawstec for S0 parts is critical:** Shipped status with Apr 12 due date suggests order cycle complete; needs immediate closure or escalation.
-  - **Nate dominates receiving (4 of 6 tasks):** All assigned to "Order Received" status; typical for receiving/verification workflow.
-  - **Meredith carries execution risk:** 1 overdue shipping task + 1 new order placed task.
-  - **Project distribution:** General Sales (2 orders), [043-3] Mustang (1), [001-7] IRAD S3 (1), [300-3] Hurricane (1), [001-1] IRAD General (1).
+  - **Queue doubled from 6 to 12 tasks** — major expansion in procurement cycle; likely batch submission or project ramp-up.
+  - **Meredith now carries 7 Order Placed tasks** (vs. 2 in prior snapshot) — significant processing workload concentrated with single owner.
+  - **Due dates clustered:** 8 orders due Apr 29–May 1 (tight timeline); 2 orders due Apr 30; 1 order due May 1.
+  - **Nate receives/verifies:** All 5 assigned tasks in "Order Received" status; expected workflow progression.
+  - **Project distribution:** General Sales (4 orders), [043-3] Mustang (3), [001-7] IRAD S3 (1), [001-1] IRAD General (2), [001-4] IRAD S0 VTOL (1).
+  - **Jawstec vendor appears 3 times:**
+    - jawstec for s3 parts (#68439, General Sales, Meredith, Order Placed, due May 1)
+    - JawsTec- Mustang/Chilli/M2 (#68231, Mustang, Nate, Order Received, due May 1)
+    - Jawstec (#68200, Mustang, Nate, Order Received, due Apr 29)
+  - **Joshua Fromm** is dominant requester (8 of 12 orders); Ethan Domagala (3); Nate & Alex (1 each).
+  - **Tax exemption:** 5 orders tax-exempt (YES); 7 taxable.
 
 ## Recent Activity
-- **Queue expanded from 4 to 6 tasks:**
-  - **NEW:** rockwest for S3 (General Sales) — Order Placed, due Apr 30 | Requested Apr 28 (2-day lead time, Meredith assigned).
-  - **NEW (or previously untracked):** jawstec for S0 parts ([300-3] Hurricane) — Order Shipped, due Apr 12 | Requested Apr 10 (2-day order cycle; **now overdue or at deadline**).
-  
-- **Retained from prior snapshot:**
-  - Jawstec (Mustang Pt. 2) — Order Received, due Apr 29 (no change).
-  - sendcutsend (General Sales) — Order Received, due Apr 29 (no change).
-  - north american survival systems (IRAD S3) — Order Received, due Apr 29 (no change).
-  - Digikey (IRAD General) — Order Received, due Apr 30 (no change).
-
-- **⚠️ CRITICAL ACTION REQUIRED:**
-  - **jawstec for S0 parts** task is in "Order Shipped" status with a **Apr 12, 2026 due date.** This is either **overdue** (if current date is past Apr 12) or at immediate deadline. Meredith must verify receipt and transition task to closure or escalate if order is delayed.
-
-## Notes & Context
-
-1. **Jawstec vendor appears twice in queue**
-   - "Jawstec" (#68200, Mustang Pt. 2, Nate, Order Received, due Apr 29)
-   - "jawstec for s0 parts" (#68057, Hurricane IDIQ, Meredith, Order Shipped, **due Apr 12**)
-   - Same vendor but different orders/projects/requesters. Not a duplicate; monitor for separate tracking.
-
-2. **Overdue order — immediate escalation needed**
-   - **jawstec for S0 parts** requested Apr 10 with 2-day lead time; marked "Order Shipped" with Apr 12 due date.
-   - If current date is >= Apr 12, this task requires **immediate verification and closure** or **escalation** if order delayed.
-   - Assigned to Meredith (processor); should be flagged for same-day resolution.
-
-3. **New project entry: [300-3] 2026 IDIQ (Hurricane)**
-   - First appearance in purchasing queue; indicates Hurricane IDIQ project is actively sourcing parts.
-   - jawstec for S0 parts is high-priority (overdue status).
-
-4. **Receiving/verification workflow steady**
-   - Nate assigned to 4 "Order Received" tasks; standard progression.
-   - Expected closure within 2–3 days as orders arrive/verify.
-   - Meredith responsible for order placement and shipping task follow-up.
-
-5. **Form submission compliance maintained**
-   - All 6 tasks properly structured with required custom fields (vendor, requester, request date, project, approval, tax exempt).
-   - Form link remains: https://form.asana.com/?k=AYO2EiBus4sRY0G_cbPmHw&d=12804948716594
-
-6. **Tax exemption tracking**
+- **Queue expanded from 6 to 12 tasks (100% increase):**
+  - **NEW:** bearings for s3 (General Sales, Meredith, due Apr 30) — no status specified, likely just submitted.
+  - **NEW:** rocketman for s0 VTOL IRAD (S0 VTOL, Meredith, Order Placed, due May 1).
+  - **NEW:** clearwater composites for s3 parts (I

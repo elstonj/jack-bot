@@ -4,14 +4,15 @@
     "(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-04-28",
-    "end": "2026-04-29"
+    "start": "2026-04-29",
+    "end": "2026-04-30"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 439.98,
+    "expenses": 717.95,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 439.98
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 676.01,
+      "DIRECT COSTS:DC-Direct Cost Purchases": 41.94
     }
   },
   "invoices": [],
@@ -19,19 +20,42 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-04-28",
-      "doc_number": "Z100698536",
-      "total": 439.98,
-      "attributed": 439.98,
+      "date": "2026-04-29",
+      "doc_number": "14814",
+      "total": 651.24,
+      "attributed": 651.24,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "Virtual Card",
+      "memo": "",
       "lines": [
         {
-          "amount": 439.98,
+          "amount": 651.24,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Tube - Round - INFINITubeV - Intermediate Modulus - Spread Tow - Size 04 - 0.750 X 0.85 X 74 Inch"
+          "description": "1/2\" x 3/4\" Ultra-High Modulus Carbon Fiber Tube 72\" Length"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-29",
+      "doc_number": "64090547",
+      "total": 179.64,
+      "attributed": 66.71,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request. Josh placed the order directly. See project listed under each item purchased",
+      "lines": [
+        {
+          "amount": 66.71,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "S3 items"
+        },
+        {
+          "amount": 112.93,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "By Light items"
         }
       ]
     }

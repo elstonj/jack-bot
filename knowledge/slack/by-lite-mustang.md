@@ -6,7 +6,7 @@ This channel tracks the development and flight testing of the **By Light Mustang
 
 **Key Participants:**
 - Maciej (project lead, flight operations, task oversight)
-- Ethan Domagala (design, measurements, avionics integration)
+- Ethan Domagala (design, CAD optimization, measurements, avionics integration)
 - Dan Prendergast (flight test coordination)
 - Jack Elston (backup pilot, vehicle support, approvals)
 - Nate (aircraft assembly, launch support)
@@ -17,7 +17,7 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - Joshua Fromm (design input/materials)
 - Mel (ByLight decision-maker)
 
-**Activity Level:** High, covering October 2025 through April 2026, with regular flight tests, design iterations, and scope management updates. Most recent activity (April 27, 2026) indicates shift to CAD design optimization for ByLight's carbon fiber 3D-printed fuselage manufacturing.
+**Activity Level:** High, covering October 2025 through April 2026, with regular flight tests, design iterations, and scope management updates. Most recent activity (April 29, 2026) indicates CAD design finalization phase with ByLight carbon fiber manufacturing expected mid-late May 2026.
 
 ## Key Decisions
 
@@ -72,6 +72,11 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - **Next Step:** BST to send finalized CAD design meeting all mission requirements; ByLight manufactures CF version and BST implements avionics and control surfaces
 - **Pending Detail:** Material specification for ByLight's 3D-printed carbon fiber fuselage (Joshua Fromm flagged need for clarification on filament type)
 
+**April 29, 2026 – CAD Design Completion & Manufacturing Timeline**
+- Ethan finalized CAD optimization work during the week of April 29
+- **Expected Flight Timeline:** BST to receive and fly carbon fiber fuselage versions mid-late May 2026
+- Asana task due dates updated to reflect ByLight's timeline expectations
+
 ## Projects & Initiatives
 
 ### Mustang 1.0 (Original Aircraft) – COMPLETED
@@ -82,13 +87,13 @@ This channel tracks the development and flight testing of the **By Light Mustang
   - Demonstrated need for new airframe design
   - Shipped to ByLight at 4038 Gillespie St, Fayetteville, NC for SOF week display
 
-### Chilli/MS2-4 Prototype (Primary Aircraft) – DESIGN PHASE
-- **Status:** Transitioning from physical prototype testing to CAD optimization (as of April 27, 2026)
-- **Configuration (Last Flight-Tested):**
+### Chilli/MS2-4 Prototype (Primary Aircraft) – CAD OPTIMIZATION PHASE
+- **Status:** CAD design finalization completed as of April 29, 2026; awaiting ByLight carbon fiber 3D-printed manufacturing (expected mid-late May)
+- **Finalized Configuration (Last Flight-Tested):**
   - Wings: Commercial Chilli A37 from Soaring USA
-  - Fuselage: 4.5" fiberglass rocketry tube (red, Wildman Rockets)—being replaced with ByLight's CF 3D-printed version
+  - Fuselage: Being replaced with ByLight's CF 3D-printed single 4.5-foot piece (replacing red 4.5" fiberglass Wildman Rockets tube)
   - Motors: 2x KDE 4215-465Kv
-  - Props: Currently testing 17x13 RFM folding props (best performer)
+  - Props: 17x13 RFM folding props (best performer)
   - ESC: TBS Lucid with KISS telemetry
   - Avionics: 2030 autopilot, S2 power board, 3-to-1 CAN boards
   - Weight: Tested at 25, 30, 35 lbs (3-5 ballast plates)
@@ -98,8 +103,4 @@ This channel tracks the development and flight testing of the **By Light Mustang
   - At 27m/s: 335W, projecting 13 hours flight time / 1200km range as S0
   - 19 m/s stall speed (clean config)
   - Elevator incidence: 1.8° relative to wing (acceptable)
-  - Aero efficiency: 30% better than previous at 27m/s, 20% better at 30m/s
-- **Manufacturing Path Forward (April 27):**
-  - **Current Status:** Yellow 3D-printed fiberglass fuselage will NOT be flown
-  - **Next Milestone:** Submit finalized CAD design to ByLight for validation
-  - **ByLight's Role:** Manufacture single-piece 4.5-foot carbon fiber 3D-printed fuselage from validated CAD
+  - Aero efficiency: 30% better than previous at 27m/

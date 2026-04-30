@@ -3,7 +3,7 @@
 ## Financial Summary
 - **Total Invoiced (Revenue):** $3,900,918.28
 - **Total Expenses (Bills + Purchases):** $1,309,196.56
-- **Total Purchase Orders:** $433.00
+- **Total Purchase Orders:** $832.00
 - **Net Position:** $2,591,721.72 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
@@ -68,12 +68,13 @@
 
 ---
 
-### **Materials & Supplies: $438,368.88**
-**Number of transactions:** 167  
+### **Materials & Supplies: $438,767.88**
+**Number of transactions:** 168  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
 - **JAWSTEC:** $19,627.62 (components for S0 platforms)
-- **Amprius battery systems:** $28,637.13 (wire transfers, 01/06/26)
+- **Amprius battery systems:** $28,637.13 (wire transfers, 01/06/26) + **$399.00** (2026-04-29, SA504 x7 quote #00001876)
+  - **Total Amprius: $29,036.13**
 - **Microwave Filter Company / Pressure sensor imports:** $46,079.48 (tariffs included)
 - **General electronics components:** ~$50,000+ (various suppliers)
 - **Composite materials (thermoset laminates, tubes):** $4,164.75
@@ -84,6 +85,7 @@
 **Recent transactions (April–May 2026):**
 - **Purchase #459340813415** (2026-04-21): $495.15 — Split between 3 S0 projects (2026 IDIQ $330.10, Sasquatch $66.02, Future S0 inventory $99.03)
 - **Digikey (Purchase #98710410)** (2026-04-17): $283.99 — Supplies for 2026 IDIQ ($93.99), Sasquatch ($18.80), future S0 inventory ($28.20)
+- **PO #1037 (2026-04-29):** $399.00 — Amprius Technologies, SA504 x7 [DIRECT COSTS]
 
 ---
 
@@ -150,16 +152,7 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 ---
 
 ## Purchase Orders
+
 | PO Number | Date | Vendor | Amount | Description |
-|-----------|------|--------|--------|
-| *No new POs* | — | — | — | — |
-
----
-
-## Monthly Spend by Category
-
-### **2026 Year-to-Date Spend Pattern (April–September 2026)**
-
-| Month | Subcontractors | Materials & Supplies | Travel | Shipping | Indirect Costs | Facilities | Other | **Monthly Total** |
-|-------|---|---|---|---|---|---|---|---|
-| **April 2026** | $38,703.47 | $14,208.16 | $1,247.03 | $387.15 | $8,117
+|-----------|------|--------|--------|-------------|
+| PO #1037 | 2026-04-29 | Amprius Technologies | $399.00 | SA504 x7 (quote #00001876); Ship via customer FedEx account 341-

@@ -1,7 +1,7 @@
 # #swiftcore
 
 ## Overview
-This channel serves as the primary technical communication hub for Black Swift Technologies' SwiftCore drone system development. It covers firmware development, tablet application updates, flight testing coordination, bug fixes, feature implementation, and release management. The channel shows very active usage with 4397+ messages across 24 batches, spanning approximately 2020-2025, with key participants including Jack Elston, Ben Busby, Danny Troke, Maciej, Frank Strazzabosco, Cory, Dan Prendergast, Caleb Bishop, and Alex Lomis.
+This channel serves as the primary technical communication hub for Black Swift Technologies' SwiftCore drone system development. It covers firmware development, tablet application updates, flight testing coordination, bug fixes, feature implementation, and release management. The channel shows very active usage with 4397+ messages across 24+ batches, spanning approximately 2020-2025, with key participants including Jack Elston, Ben Busby, Danny Troke, Maciej, Frank Strazzabosco, Cory, Dan Prendergast, Caleb Bishop, and Alex Lomis.
 
 **Key Participants:** Jack Elston, Ben Busby, Danny Troke, Maciej, Frank Strazzabosco, Cory, Dan Prendergast, Caleb Bishop, Alex Lomis
 
@@ -77,7 +77,7 @@ This channel serves as the primary technical communication hub for Black Swift T
 - **Scope:** Autopilot, tablet, and communications updates for vertical takeoff/landing aircraft
 - **Testing:** S3/S10020 aircraft being used for validation
 - **Challenges:** Parameter management, UI integration, XML configuration
-- **Recent Update (April 28, 2026):** Landing plan final length calculation updated based on autopilot code changes
+- **Recent Update (April 28-29, 2026):** Landing plan final length calculation updated and validated; distance display fixed and deployed via APK; vertical landing for S1 aircraft tested with 17m/s IAS and 2.25s lookahead resulting in correct 114m approach length
 
 **Hurricane Web Controller (2024-2025):**
 - **Status:** Completed and ready for testing; active validation ongoing (April 2026)
@@ -121,9 +121,4 @@ This channel serves as the primary technical communication hub for Black Swift T
 - **Status:** Active development
 - **Change:** New state added to CAN_DeploymentTubeState_t enum
 - **Comms Update:** Comms protocol version bump required for log parsing compatibility
-- **Next Steps:** Ben Busby to update log parse site once changes committed
-
-## Action Items & Commitments
-
-**Current Outstanding (as of April 28, 2026):**
--
+- **Next

@@ -4,14 +4,14 @@
     "(001-1) IRAD- General"
   ],
   "period": {
-    "start": "2026-04-23",
-    "end": "2026-04-24"
+    "start": "2026-04-29",
+    "end": "2026-04-30"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 46.13,
+    "expenses": 20.99,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 46.13
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 20.99
     }
   },
   "invoices": [],
@@ -19,19 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-04-23",
-      "doc_number": "98825513",
-      "total": 46.13,
-      "attributed": 46.13,
+      "date": "2026-04-29",
+      "doc_number": "",
+      "total": 20.99,
+      "attributed": 20.99,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "DKC*DIGI KEY CORP - 4617",
+      "memo": "",
       "lines": [
         {
-          "amount": 46.13,
+          "amount": 20.99,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "4672-MHDB9SP-ND\u200e; \u200e4672-MHDB9SS-ND\u200e"
+          "description": "4 Pairs Mavic 3 Pro Propellers Low Noise 9453F Blades Props"
         }
       ]
     }

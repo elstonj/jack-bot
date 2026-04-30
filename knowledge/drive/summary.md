@@ -1,56 +1,49 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-04-29 02:29
+Last scanned: 2026-04-30 02:22
 
-Total drives scanned: 2
+Total drives scanned: 1
 
 ## Drives
 
-- **Federal Projects** — 24 files — [federal_projects.md](federal_projects.md)
-- **Sales** — 1 files — [sales.md](sales.md)
+- **Federal Projects** — 12 files — [federal_projects.md](federal_projects.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Strategic Drive Overview
+# Black Swift Technologies — Google Drive Strategic Overview
 
 ## Summary Statistics
-- **Total files across drives:** 25
-- **Total folders:** 3
-- **Active date range:** 2022–2099 (Federal drive created 2022; most recent activity Jan 2099)
-- **Primary focus:** Federal contracting (SBIR/STTR, NASA, DOE) and early-stage sales activity
-
----
-
-## Drive-by-Drive Breakdown
-
-### Federal Projects Drive (Primary)
-- **File count:** 24 | **Folders:** 2
-- **Content:** Federal grant proposals, RFIs, personnel CVs, budget justifications, SOWs, and DoD SBIR/STTR documentation
-- **Key programs:** NASA (Phase I SBIR/STTR, aeronautics), DOE, SaaS initiatives
-- **Status:** Active (FY26 folder contains current planning documents); older folders (2026 NASA Phase I BAA variants, BNL_sub) appear consolidated or archived
-- **Notable:** Empty "2026 NASA Phase I - AERO.7" folder suggests recent restructuring
-
-### Sales Drive (Secondary)
-- **File count:** 1 | **Minimal activity**
-- **Content:** Single S2 MHP discussion note (April 2026)
-- **Status:** Nascent or underdeveloped; appears to lack proposal templates, client records, or pipeline documentation
-
----
+- **Total Files:** 12 across Federal Projects drive
+- **Organization:** 2 active folders with significant consolidation history
+- **Date Range:** 2022–2099 (note: future-dated documents present)
+- **Primary Focus:** Federal contracting (NASA SBIR/STTR, DoD partnerships)
 
 ## Key Observations
 
-### Strengths
-- **Clear federal focus:** BST has established infrastructure for grant-driven business (SBIR/STTR, NASA, DOE)
-- **Consolidated structure:** Recent reorganization into FY26 folder suggests active housekeeping
+### Document Volume & Organization
+- **Modest but focused collection:** 12 files suggests selective, high-value documentation rather than comprehensive archival
+- **Recent consolidation:** Original 6+ folder structure collapsed into 2 folders, indicating cleanup or reorganization effort
+- **Quality concern:** Incomplete folder structure note suggests documentation of the reorganization may be incomplete
 
-### Areas Needing Attention
-- **Sales drive underdeveloped:** Only 1 document; no visible client folders, proposals, or templates
-- **Cross-drive patterns unclear:** No evidence of shared templates or resource libraries between Federal and Sales drives
-- **Naming conventions inconsistent:** Federal drive uses mixed date/program formats; Sales uses minimal documentation
-- **Documentation gaps:** No visible contracts, MSAs, or client relationship records in either drive
+### Strategic Content Areas
 
-### Recommendations
-1. Expand Sales drive with client folders, proposal templates, and pipeline tracking
-2. Create shared resource library (templates, CVs, boilerplate language) accessible across drives
-3. Document naming conventions and folder structure standards
-4. Review archived Federal folders (2026 NASA Phase I variants) for stale content removal
+| Drive | Key Focus | Notable Elements |
+|-------|-----------|------------------|
+| Federal Projects | Government contracting | NASA SBIR/STTR proposals; DoD strategy; personnel CVs; compliance documents (conflict-of-interest disclosures) |
+
+### Cross-Drive Patterns
+- **Limited visibility:** Only one drive summarized; cannot assess cross-drive patterns, client distribution, or resource sharing
+
+### Important Assets
+- **Proposal templates/packages:** Submitted proposal documents (reusable frameworks)
+- **Strategic content:** DoD Business Development presentations
+- **Compliance documentation:** Personnel CVs and conflict-of-interest disclosures
+
+## Areas Requiring Attention
+
+1. **Organizational clarity:** Folder consolidation incomplete—documentation of folder structure changes missing
+2. **Date anomalies:** Future-dated modifications (2099) suggest possible data errors or test entries
+3. **Limited context:** Incomplete drive summary prevents full assessment of document lifecycle and archival needs
+
+## Recommendation
+Request complete inventory of other shared drives (Sales, Operations, etc.) to establish full strategic overview and identify cross-drive redundancies or gaps.

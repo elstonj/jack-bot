@@ -4,14 +4,14 @@
     ""
   ],
   "period": {
-    "start": "2026-04-28",
-    "end": "2026-04-29"
+    "start": "2026-04-29",
+    "end": "2026-04-30"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 4335.0,
+    "expenses": 162.38,
     "by_category": {
-      "Inventory Asset": 4335.0
+      "Inventory Asset": 162.38
     }
   },
   "invoices": [],
@@ -19,19 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-04-28",
-      "doc_number": "SO-01510",
-      "total": 4335.0,
-      "attributed": 4335.0,
+      "date": "2026-04-29",
+      "doc_number": "68439",
+      "total": 162.38,
+      "attributed": 162.38,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "No Asana request. Josh Fromm made a request via email and confirmed with J. Elston in Slack",
+      "memo": "",
       "lines": [
         {
-          "amount": 4335.0,
+          "amount": 162.38,
           "account": "Inventory Asset",
-          "description": "For future S3 sales to customers (UMES, Barbados, INSTAAR)"
+          "description": "For future S3 Sales"
         }
       ]
     }
