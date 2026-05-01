@@ -1,49 +1,71 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-04-30 02:22
+Last scanned: 2026-05-01 02:21
 
-Total drives scanned: 1
+Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 12 files — [federal_projects.md](federal_projects.md)
+- **Federal Projects** — 20 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 4 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
 # Black Swift Technologies — Google Drive Strategic Overview
 
-## Summary Statistics
-- **Total Files:** 12 across Federal Projects drive
-- **Organization:** 2 active folders with significant consolidation history
-- **Date Range:** 2022–2099 (note: future-dated documents present)
-- **Primary Focus:** Federal contracting (NASA SBIR/STTR, DoD partnerships)
+## Document Volume & Organization
 
-## Key Observations
+**Total Assets:** ~24 files across 2 active shared drives
+- **Federal Projects:** 20 files, 2 folders (consolidated structure)
+- **Sales:** 4 files, minimal organization
 
-### Document Volume & Organization
-- **Modest but focused collection:** 12 files suggests selective, high-value documentation rather than comprehensive archival
-- **Recent consolidation:** Original 6+ folder structure collapsed into 2 folders, indicating cleanup or reorganization effort
-- **Quality concern:** Incomplete folder structure note suggests documentation of the reorganization may be incomplete
+**Organization Quality:** Moderate. Federal drive shows deliberate consolidation and clear categorization; Sales drive lacks folder structure.
 
-### Strategic Content Areas
+---
 
-| Drive | Key Focus | Notable Elements |
-|-------|-----------|------------------|
-| Federal Projects | Government contracting | NASA SBIR/STTR proposals; DoD strategy; personnel CVs; compliance documents (conflict-of-interest disclosures) |
+## Key Clients & Projects
 
-### Cross-Drive Patterns
-- **Limited visibility:** Only one drive summarized; cannot assess cross-drive patterns, client distribution, or resource sharing
+| Drive | Primary Focus | Key Clients/Programs |
+|-------|---------------|---------------------|
+| **Federal** | Grant proposals & compliance | NASA (Aero RFI), DoD (SBIR/STTR), Genesis Mission initiatives |
+| **Sales** | Customer transactions & notes | UMES (UAS project) |
 
-### Important Assets
-- **Proposal templates/packages:** Submitted proposal documents (reusable frameworks)
-- **Strategic content:** DoD Business Development presentations
-- **Compliance documentation:** Personnel CVs and conflict-of-interest disclosures
+**Documentation Concentration:** Federal projects dominate BST's shared drive activity, suggesting heavy government contracting focus.
 
-## Areas Requiring Attention
+---
 
-1. **Organizational clarity:** Folder consolidation incomplete—documentation of folder structure changes missing
-2. **Date anomalies:** Future-dated modifications (2099) suggest possible data errors or test entries
-3. **Limited context:** Incomplete drive summary prevents full assessment of document lifecycle and archival needs
+## Cross-Drive Patterns
 
-## Recommendation
-Request complete inventory of other shared drives (Sales, Operations, etc.) to establish full strategic overview and identify cross-drive redundancies or gaps.
+- **Federal drive** contains proposal packages, budgets, technical responses, and submission confirmations (upstream/bid phase)
+- **Sales drive** contains meeting notes, invoices, and POs (downstream/delivery phase)
+- **Notable gap:** No dedicated Operations, Finance, or HR shared drives visible in provided summaries
+
+---
+
+## Important Shared Resources & Templates
+
+- Personnel CVs and conflict-of-interest disclosures (Federal drive)
+- Budget justification templates (Federal drive)
+- Meeting notes standardized format using Gemini AI (Sales drive)
+
+---
+
+## Document Management Observations
+
+**Strengths:**
+- Federal drive uses clear folder taxonomy (Confirmations, Energy Harvesting, program-level organization)
+- Consistent timestamp naming in Sales notes (date/time format)
+
+**Concerns:**
+- Sales drive lacks folder hierarchy for scaling
+- Heavy reliance on Gemini-generated notes; no clear review/approval workflow visible
+- Broad date range (2022–2099) suggests potential data integrity issues or placeholder future dates
+
+---
+
+## Areas Needing Attention
+
+1. **Stale/Test Data:** 2099 modification dates likely indicate test entries; recommend audit
+2. **Sales Drive Organization:** 4 files at root level; recommend subfolders for project/client separation
+3. **Missing Documentation:** No visibility into operations, contracts, or internal procedures
+4. **Naming Consistency:** Federal drive uses formal naming; Sales uses informal timestamps—standardize across org

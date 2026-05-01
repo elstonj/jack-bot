@@ -38,6 +38,11 @@
   - Email: nate.straus@blackswifttech.com
   - Phone: 303-809-8707
 
+### Interns
+- **Ethan Domagala** — Intern
+  - Email: ethan.domagala@blackswifttech.com
+  - Phone: 303-859-8141
+
 ## Operations & Administration
 
 - **Meredith Needham** — Office Admin
@@ -53,12 +58,6 @@
 - **Paige Smith** — Communications & Digital Marketing Specialist
   - Email: paige.smith@blackswifttech.com
   - Phone: 720-636-6707
-
-## Interns
-
-- **Ethan Domagala** — Intern
-  - Email: ethan.domagala@blackswifttech.com
-  - Phone: 303-859-8141
 
 ## Unclassified
 
@@ -92,14 +91,14 @@
 
 **Team Structure:**
 - **Leadership:** 3 people
-- **Engineering & Technical:** 7 people (3 software engineers, 1 mechanical engineer, 1 shop technician, 1 intern, 1 service account)
+- **Engineering & Technical:** 7 people (3 software engineers, 1 mechanical engineer, 1 shop technician, 1 intern)
 - **Operations & Administration:** 1 person
 - **Communications & Marketing:** 2 people
-- **Unclassified:** 3 people (roles/departments unknown)
+- **Unclassified:** 3 people (Beck Cotter, Daniel Prendergast, Jameel Barkat — roles/departments unknown)
 - **Service Accounts:** 2
 
 **Notes:**
-- All 17 contacts verified and consolidated from existing knowledge and new raw data
-- Three team members (Beck Cotter, Daniel Prendergast, Jameel Barkat) remain unclassified; recommend reaching out to leadership for role clarification
+- All 17 contacts verified and consolidated from existing knowledge and raw directory data
+- Three team members remain unclassified; recommend reaching out to leadership for role clarification
 - BST maintains a strong engineering-focused organization with balanced technical and administrative support
-- All phone numbers standardized to XXX-XXX-XXXX format where available
+- All contact information standardized and up-to-date

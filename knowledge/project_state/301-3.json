@@ -31,19 +31,19 @@
       {
         "category": "Labor",
         "amount": 111481.0,
-        "description": "Engineering Tasks (NRE): Laser configuration updates, AirOps fields, Dual GPS for heading, 10Hz met data, firmware customization, extended endurance, manufacturability improvements, data buffering and re-transmission",
+        "description": "Engineering Tasks (NRE): laser config, AirOps updates, dual GPS RTK, 10Hz met data, firmware customization, battery endurance, manufacturability, data buffering",
         "source_doc": null
       },
       {
         "category": "Materials",
         "amount": 1700.0,
-        "description": "Materials for engineering tasks: Dual GPS unit ($1,000), extended endurance battery tweaks ($200), manufacturability improvements ($500)",
+        "description": "Materials for dual GPS, extended endurance battery tweaks, manufacturability improvements",
         "source_doc": null
       },
       {
         "category": "Travel",
         "amount": 20852.0,
-        "description": "Clear Air Testing 2025 ($4,852) and Hurricane Flights 2025 ($16,000)",
+        "description": "Clear Air Testing 2025 and Hurricane Flights 2025",
         "source_doc": null
       }
     ],
@@ -52,13 +52,13 @@
         "amount": 551211.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-04-30"
+        "last_updated": "2026-05-01"
       },
       "purchases": {
         "amount": 902.06,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-04-30"
+        "last_updated": "2026-05-01"
       },
       "other_qbo": {
         "amount": 321540.76,
@@ -72,7 +72,7 @@
     "committed": 0.0,
     "remaining": -741321.07,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-04-30T09:04:49Z"
+    "last_reconciled": "2026-05-01T09:07:01Z"
   },
   "milestones": [
     {
@@ -232,6 +232,6 @@
       "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
     }
   ],
-  "last_full_rebuild": "2026-04-30T09:04:49Z",
+  "last_full_rebuild": "2026-05-01T09:07:01Z",
   "last_incremental_update": null
 }

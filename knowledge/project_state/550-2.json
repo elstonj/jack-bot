@@ -33,7 +33,7 @@
         "amount": 25830.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-04-30"
+        "last_updated": "2026-05-01"
       },
       "purchases": {
         "amount": 0.0,
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": -2179.0,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-04-30T09:05:41Z"
+    "last_reconciled": "2026-05-01T09:07:51Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -200,6 +200,6 @@
       "text": "From Daniel Prendergast: <@U0AQE94HJUT> FYI, my priority today is to make slides for the 53rd Weather Squadron and SOCOM visit this Friday.  EMASS validation flights probably won't happen today.  We cannot perform those flights until they send us a new controller binary in the emass-bst slack channel.  EMASS validation flight #3 will most likely be Monday at the earliest.  EMASS validation flight #2 possibly tomorrow."
     }
   ],
-  "last_full_rebuild": "2026-04-30T09:05:41Z",
+  "last_full_rebuild": "2026-05-01T09:07:51Z",
   "last_incremental_update": null
 }

@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $880,573.78 *(+$4,774.98 April 28–29)*
-- **Total Purchase Orders**: $0.00 (POs tracked as bills/purchases)
-- **Net Position**: -$862,679.42 (expenses exceed revenue significantly)
-- **Date Range**: April 5, 2024 – April 30, 2026 (24+ months)
-- **Transaction Count**: 1,042+ *(+5 new transactions April 29–30)*
+- **Total Expenses (Bills + Purchases)**: $885,348.76 *(+$4,774.98 April 28–29; +$1,772.74 April 30–May 1)*
+- **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
+- **Net Position**: -$867,454.40 (expenses exceed revenue significantly)
+- **Date Range**: April 5, 2024 – May 1, 2026 (24+ months)
+- **Transaction Count**: 1,047+ *(+10 new transactions April 29–May 1)*
 
 ---
 
@@ -32,6 +32,7 @@
 *(unchanged from prior period)*
 
 - **Matthew Crabtree** (PCB design/assembly): $103,227.68
+- **Jameel Barkat** (Investment consulting): $60,000.00
 - **MicroFirm Engineering** (IRAD S0/S3 labor + parts): $62,621.00
 - **Level 6 Space** (Consulting retainer): $31,550.00
 - **PHASE1 AVIATION LLC** (Wing/fuselage components): $35,560.76
@@ -39,7 +40,6 @@
 - **Ted Miles** (Aeropods work): $17,267.60
 - **James Hannon** (Project management): $17,700.00
 - **KO Law PC** (Legal services): $16,170.50
-- **Jameel Barkat** (Investment consulting): $60,000.00
 - **David Hendrickson** (Business development): $10,174.87
 - **Summit Assembly** (PCB assembly): $8,970.67
 - **Northwind Composites** (Fiberglass/composites): $10,878.25
@@ -59,51 +59,55 @@
 
 ---
 
-### Materials & Direct Purchases: $424,976.35
-*(+$4,335.87 from April 28–30)*
+### Materials & Direct Purchases: $429,792.08
+*(+$4,335.87 from April 28–30; +$239.86 from April 30–May 1)*
 
 **Subcategories:**
 - **Electronics/components** (Digi-Key, Mouser, electronics vendors): ~$208,187.22
 - **PCB manufacturing/assembly** (Advanced PCB, JLCPCB, FastTurn, Vyrian, Circuits West): ~$58,923.45
-- **Composites/structures** (Quanta3, fiber tubes, laminates, carbon fiber tubes): ~$36,631.30 *(+$652.45 new)*
-- **Mechanical parts/hardware** (fasteners, servos, linkages, SKB cases, MKS servos): $43,847.77
-- **Motors/propulsion** (KDE, Vertiq, Amprius batteries, FetTec, DJI propellers): $31,912.00 *(+$20.99 new)*
+- **Composites/structures** (Quanta3, fiber tubes, laminates, carbon fiber tubes): ~$36,631.30 *(+$652.45 new Apr 28–30)*
+- **Mechanical parts/hardware** (fasteners, servos, linkages, SKB cases, MKS servos, bearings): $43,971.92 *(+$124.15 new Apr 30–May 1)*
+- **Motors/propulsion** (KDE, Vertiq, Amprius batteries, FetTec, DJI propellers): $31,912.00 *(+$20.99 new Apr 28–30)*
 - **Test/measurement equipment** (Makeflyeasy HERO VTOL x2, Kestrel 5500 Weather Meters): $2,392.95
-- **Shipping/duties/tariffs** (DHL, FedEx, duties): $26,875.65
-- **Direct cost supplies multi-project** (2026 IDIQ, Sasquatch, future S3 sales, By Light): $12,642.19 *(+$112.93 new)*
-- **Inventory for future S3 customer sales** (UMES, Barbados, INSTAAR, S3 items): $5,565.82 *(+$4,497.38 new)*
+- **Shipping/duties/tariffs** (DHL, FedEx, duties): $27,104.51 *(+$228.86 new Apr 30)*
+- **Direct cost supplies multi-project** (2026 IDIQ, Sasquatch, future S3 sales, By Light): $12,642.19 *(+$112.93 new Apr 28–30)*
+- **Inventory for future S3 customer sales** (UMES, Barbados, INSTAAR, S3 items): $6,426.54 *(+$4,497.38 new Apr 28–30; +$363.36 new Apr 30–May 1)*
 
-**Notable New Transactions (April 29–30):**
+**Notable New Transactions (April 30 – May 1):**
 
-1. **2026-04-29 Purchase #1534** — $155.07
-   - **Item**: Rocketman Ultra-Light High-Performance CD 2.2 Parachutes
-   - **Category**: IRAD-Internal R&D → *reclassified to Materials/Equipment for IRAD*
-   - *Purpose: Recovery/safety parachute systems for IRAD platform testing*
+1. **2026-04-30 Purchase (no #)** — $228.36 (Split PayPal allocation)
+   - **Items**: Tariff/Import Duties for BlueBird Shipment
+   - **Line Items**:
+     - $152.24 [GENERAL & ADMINISTRATIVE:Tariff/Import Duties] — IDIQ
+     - $30.45 [GENERAL & ADMINISTRATIVE:Tariff/Import Duties] — Sasquatch
+     - $45.67 [GENERAL & ADMINISTRATIVE:Tariff/Import Duties] — Future S0 sales (6 units)
+   - **Category**: *Reclassified to Shipping/Duties/Tariffs*
+   - *Purpose: Import duty fees for multiple projects on single BlueBird shipment*
 
-2. **2026-04-29 Purchase #14814** — $651.24
-   - **Item**: 1/2" × 3/4" Ultra-High Modulus Carbon Fiber Tube 72" Length
-   - **Category**: IRAD-Internal R&D → *reclassified to Materials/Composites*
-   - *Purpose: High-strength composite structure components for IRAD development*
-
-3. **2026-04-29 Purchase (no #)** — $20.99
-   - **Item**: 4 Pairs Mavic 3 Pro Propellers Low Noise 9453F Blades Props
-   - **Category**: IRAD-Internal R&D → *reclassified to Materials/Motors & Propulsion*
-   - *Purpose: Replacement propellers for DJI Mavic 3 Pro test platform*
-
-4. **2026-04-29 Purchase #68439** — $162.38
+2. **2026-04-30 Purchase #68473** — $904.32
    - **Item**: Inventory for future S3 Sales
-   - **Category**: Inventory Asset (balance sheet item)
-   - **Note**: Direct allocation to S3 customer delivery inventory
-   - *Purpose: Advance inventory procurement for S3 contracted customer deliveries*
+   - **Category**: Inventory Asset (balance sheet) → *tracked in Materials/Inventory for S3*
+   - *Purpose: Direct inventory procurement for S3 customer deliveries*
 
-5. **2026-04-29 Purchase #64090547** — $179.64 *(split allocation)*
-   - **Memo**: "No Asana request. Josh placed the order directly. See project listed under each item purchased"
-   - **Line Item 1**: $66.71 [RESEARCH & DEVELOPMENT:IRAD-Internal R&D] — S3 items
-   - **Line Item 2**: $112.93 [DIRECT COSTS:DC-Direct Cost Purchases] — By Light items
-   - *Purpose: Mixed procurement for S3 development and By Light subcontract work*
-   - **Note**: Non-standard purchase workflow; direct order placement by Josh without Asana request. Recommend standardizing procurement process.
+3. **2026-04-30 Purchase #SX79V088** — $516.91
+   - **Item**: Inventory for future S3 Sales
+   - **Category**: Inventory Asset (balance sheet) → *tracked in Materials/Inventory for S3*
+   - *Purpose: Advance inventory for S3 contracted customer deliveries*
 
-**Total Materials & Direct Purchases: $424,976.35**
+4. **2026-04-30 Purchase #C80812959** — $123.15
+   - **Item**: DEEP GROOVE BALL BEARING - for future sales of S3
+   - **Category**: Inventory Asset (balance sheet) → *tracked in Materials/Inventory for S3*
+   - *Purpose: Mechanical components for S3 platform assembly*
+
+5. **2026-04-30 PO #1038** — $1,700.00 | **Amprius Technologies** | **Outstanding**
+   - **Item**: SA112 x 200 (Quote #00001879)
+   - **Category**: Inventory Asset (balance sheet) → *tracked in Materials/Inventory for S3*
+   - **Memo**: "Ship using customer FedEx account: 341-698949341. Ship together with SA504 order (Quote #: 1876)"
+   - **PO Status**: Open/Outstanding
+   - *Purpose: Amprius battery inventory for S3 customer deliveries*
+   - **Note**: Large order suggests significant customer commitment or bulk inventory buildup for multiple S3 units
+
+**Total Materials & Direct Purchases: $429,792.08**
 
 ---
 
@@ -156,41 +160,25 @@
 
 ---
 
+### Tariffs & Import Duties: $228.36
+*(New category — April 30, $228.36)*
+
+**Breakdown by Project:**
+- **IDIQ project**: $152.24
+- **Sasquatch project**: $30.45
+- **Future S0 sales (6 units)**: $45.67
+
+**Total Tariffs & Import Duties: $228.36** | **1 transaction** | **Multi-project allocation on single BlueBird shipment**
+
+**Note**: Previously embedded in "Shipping/Duties/Tariffs" subtotal; separated here for transparency on import compliance costs.
+
+---
+
 ### Research & Development / IRAD: $2,229.98
-*(+$310.26 from April 29–30 reclassifications)*
+*(unchanged from prior period; note: IRAD materials reclassified to Materials & Direct Purchases)*
 
 - **Previous IRAD balance**: $1,919.72
-- **New April 29–30 items (reclassified from Materials for tracking):**
+- **April 28–29 items reclassified to Materials**:
   - Rocketman Ultra-Light Parachutes: $155.07
   - Ultra-High Modulus Carbon Fiber Tube 72": $651.24
-  - **Subtotal new IRAD items: $806.31**
-
-**Allocation Note**: Items categorized in QB as "RESEARCH & DEVELOPMENT:IRAD-Internal R&D" are being tracked here for transparency. Materials components (parachutes, carbon fiber, propellers) have been netted into Materials & Direct Purchases above to avoid double-counting; IRAD line here reflects QB account structure for reporting purposes.
-
-**Total IRAD (Internal R&D): $2,229.98**
-
----
-
-### Business Development/Marketing: $8,487.96
-*(unchanged from prior period)*
-
-- **Airbotics Talent** (Derek Davis engagement): $3,125.00
-- **Travel for business development**: $1,624.87
-- **Conference materials**: $360.70
-- **Shipments to partners/conventions**: $2,360.87
-- **FAA registration renewal**: $5.00
-- **FAA S3 registration** (USGS Mexico trip): $1,011.52
-
-**Total Business Development/Marketing: $8,487.96**
-
----
-
-## Purchase Orders
-**Total POs**: $0.00  
-*All procurement tracked as bills and purchases; no outstanding formal POs.*
-
----
-
-## Monthly Spend by Category
-
-| Month | Direct Labor | Materials | Travel | Rent/Facilities | Fringe/Admin |
+  - Subtotal recl

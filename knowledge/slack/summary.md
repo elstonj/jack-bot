@@ -1,77 +1,70 @@
 # Slack Channels Overview
 
-Last scanned: 2026-04-30 02:15
+Last scanned: 2026-05-01 02:14
 
-Total channels scanned: 10
+Total channels scanned: 7
 
 ## Channels
 
-- **#by-lite-mustang** -- 3 messages -- [by-lite-mustang.md](by-lite-mustang.md)
-- **#commercial-sales** -- 2 messages -- [commercial-sales.md](commercial-sales.md)
-- **#emass-bst** -- 1 messages -- [emass-bst.md](emass-bst.md)
-- **#flight-testing** -- 5 messages -- [flight-testing.md](flight-testing.md)
-- **#general** -- 12 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 12 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#operations** -- 1 messages -- [operations.md](operations.md)
-- **#s0-vtol** -- 6 messages -- [s0-vtol.md](s0-vtol.md)
-- **#s3** -- 32 messages -- [s3.md](s3.md)
-- **#swiftcore** -- 21 messages -- [swiftcore.md](swiftcore.md)
+- **#commercial-sales** -- 3 messages -- [commercial-sales.md](commercial-sales.md)
+- **#emass-bst** -- 2 messages -- [emass-bst.md](emass-bst.md)
+- **#flight-testing** -- 11 messages -- [flight-testing.md](flight-testing.md)
+- **#general** -- 7 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 10 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#s0-vtol** -- 26 messages -- [s0-vtol.md](s0-vtol.md)
+- **#s3** -- 44 messages -- [s3.md](s3.md)
 
 ## Strategic Summary
 
 # Black Swift Technologies - Cross-Channel Strategic Overview
 
-## Active Projects
+## Active Projects & Product Lines
 
-**Aircraft Development (Core Portfolio)**
-- **S3 VTOL**: Long-endurance hybrid fixed-wing/quadcopter with tilting rotors (2-3 hour target) - primary development in #s3
-- **S0 VTOL**: Vertical takeoff aircraft with forward flight transition - active testing in #s0-vtol
-- **SwiftCore System**: Firmware, tablet app, and flight control platform (2020-2025+) - central hub in #swiftcore
-- **By Light Mustang**: USAF contract for 400km range missions at Yuma - phased approach (original aircraft + new Chilli airframe)
-- **eMASS ECSDoT Integration**: Energy management system hardware on E2 platform - collaborative development with eMASS AI
+**Aircraft Platforms:**
+- **S-Series VTOL** (S0, S3): Long-endurance vertical takeoff/landing aircraft with hybrid fixed-wing/quadcopter architecture. S3 targets 2-3 hour endurance with automatic flight ops. High development activity with iterative testing.
+- **E2**: Multirotor platform serving as testbed for energy management integration and payload development.
+- **Fixed-Wing S-Series**: Established product line with active flight testing and customer delivery.
 
-**Fleet Support**
-- Multiple platforms in active flight testing: S-series (fixed-wing), E2/Flamewheel (multirotor), S0/S1-VTOL/S3 (VTOL)
+**Strategic Integrations:**
+- **ECSDoT Energy Management System** (eMASS AI partnership): Hardware integration onto E2 platform with AI model training component. Nikhila (eMASS) and Jack Elston driving technical collaboration.
 
-## Key People & Decision Patterns
+## Key Decision-Makers & Roles
 
-**Technical Leadership**
-- **Jack Elston**: Systems architect/firmware lead, autopilot/simulation expert, primary decision-maker across funding and strategy
-- **Joshua Fromm**: Lead engineer/designer (S3), hardware/shop operations, QA and component sourcing
-- **Maciej**: Project oversight, flight operations lead, testing coordination, proposal support
+| Person | Primary Role(s) |
+|--------|-----------------|
+| **Jack Elston** | Leadership, autopilot/firmware architecture, grants strategy, systems integration |
+| **Joshua Fromm** | Lead S3 designer, QA, component sourcing, testing oversight |
+| **Maciej** | Flight testing lead, technical proposal support, project oversight |
+| **Sam Hild** | Firmware development (S0, S3) |
+| **Dan Prendergast** | Business development, operations, proposal writing |
+| **Meredith Needham** | Budget management, administrative support |
 
-**Specialized Roles**
-- **Sam Hild**: Firmware development (S3, S0-VTOL)
-- **Ben Busby**: SwiftCore/tablet application development
-- **Nikhila (eMASS AI)**: ECSDoT chip integration and AI model lead
-- **Meredith Needham**: Finance, budget, administrative coordination
-- **Dan Prendergast**: Business development, proposals, sales coordination
+## Decision Patterns
 
-**Decision Pattern**: Jack Elston drives strategic/funding decisions; technical teams (Elston, Fromm, Maciej) handle execution; domain specialists handle specific subsystems.
+1. **Hardware-first validation**: Technical decisions driven by iterative flight testing and real-world performance data
+2. **Collaborative architecture**: Cross-functional teams (firmware, systems, flight ops) involved in platform decisions
+3. **Government/grant-driven priorities**: Funding pursuit shapes R&D roadmap; Jack Elston acts as primary filter for go/no-go decisions
+4. **Customer-responsive development**: Commercial sales feedback directly influences platform features and integration priorities
 
-## Recurring Topics
+## Recurring Topics Across Channels
 
-1. **Flight Testing & Troubleshooting**: Continuous cycle of firmware updates, hardware debugging, payload integration across fleet
-2. **Funding & Grants**: Active pursuit across NASA, DOD, NOAA, USDA - central strategy in #grants-and-funding
-3. **Customer Delivery**: Orders, quotes, integrations, and lifecycle management (universities, government, international)
-4. **Integration Challenges**: Hardware-firmware coordination, payload compatibility, system-level testing
-5. **Operations & Logistics**: Procurement, shipping, facility management, financial tracking
+| Topic | Channels | Context |
+|-------|----------|---------|
+| **Flight test results & firmware iterations** | #s0-vtol, #s3, #flight-testing | Core development feedback loop; drives specification refinements |
+| **Hardware integration challenges** | #emass-bst, #flight-testing, #commercial-sales | Component sourcing, compatibility testing, payload integration |
+| **Funding & proposal strategy** | #grants-and-funding, #general, #commercial-sales | Government contracts (DOD, NASA, NOAA, USDA) shape product roadmap |
+| **Delivery schedules & customer requirements** | #commercial-sales, #flight-testing, #general | University research programs and government agencies drive timelines |
+| **Firmware/software development** | #s0-vtol, #s3, #emass-bst, #flight-testing | Jack Elston and Sam Hild coordinate across platforms |
 
 ## Cross-Channel Connections
 
-| Theme | Channels Involved | Connection |
-|-------|-------------------|-----------|
-| **Flight Testing Coordination** | #flight-testing, #s3, #s0-vtol, #swiftcore, #by-lite-mustang | Real-time troubleshooting and firmware/hardware iteration across all platforms |
-| **SwiftCore Platform** | #swiftcore, #flight-testing, #s3, #s0-vtol, #operations | Core control system used across multiple aircraft; drives technical decisions |
-| **Customer Projects** | #by-lite-mustang, #emass-bst, #commercial-sales | Revenue-generating development with external partners; technical execution tracked in project channels |
-| **Funding to Execution** | #grants-and-funding → #general, #operations → project channels | Grant awards enable aircraft development; strategy communicated via #general, execution in #operations |
-| **Hardware-Firmware Loop** | #swiftcore, project channels (#s3, #s0-vtol), #flight-testing | Firmware updates developed in #swiftcore; tested across projects; issues escalated to #flight-testing |
-| **Operations Support** | #operations, #general, project channels | Shop/procurement (Joshua), finance (Meredith), and admin support enable all development |
+- **Development → Testing → Sales Pipeline**: Aircraft mature through #s0-vtol/#s3 → #flight-testing validation → #commercial-sales delivery
+- **Strategic Funding Impact**: #grants-and-funding decisions influence which platforms get priority (e.g., VTOL focus may reflect grant competitiveness)
+- **eMASS Partnership Model**: #emass-bst activities represent BST's strategy for expanding energy management capabilities, likely driven by commercial demand signals from #commercial-sales
+- **Core Team Continuity**: Jack Elston, Joshua Fromm, Maciej, Sam Hild appear across 4+ channels—indicating deep integration of R&D and operations
 
-## Key Insights
+## Organizational Health Indicators
 
-- **Parallel Development Model**: Multiple aircraft projects run simultaneously with shared firmware/control infrastructure (SwiftCore)
-- **Test-Driven Iteration**: High-frequency flight testing drives rapid firmware and hardware refinement across channels
-- **Integration-Heavy**: Success depends on seamless hardware-firmware-payload coordination; reflected in troubleshooting volume
-- **Commercial Viability**: Mix of government contracts (USAF Mustang), research partnerships (universities via eMASS), and direct sales
-- **Jack Elston as Hub**: Appears across funding, technical decisions, and strategic planning—indicates centralized decision-making at leadership level
+- **High activity density**: Sustained 2+ year engagement across multiple channels suggests mature product lines and stable funding
+- **Clear role specialization**: Minimal overlap in decision authority; defined expertise areas
+- **Customer-facing maturity**: Active commercial sales and university partnerships indicate market validation beyond early R&D

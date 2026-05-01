@@ -1,19 +1,16 @@
 {
   "project_code": "550-1",
   "qbo_class_names": [
-    "[550-1] Navy SBIR Magnetometer",
-    "[550] United States Navy:[550-1] Navy SBIR Magnetometer"
+    "[550-1] Navy SBIR Magnetometer"
   ],
   "period": {
-    "start": "2026-04-29",
-    "end": "2026-04-30"
+    "start": "2026-04-30",
+    "end": "2026-05-01"
   },
   "totals": {
     "revenue": 49459.0,
-    "expenses": 399.0,
-    "by_category": {
-      "DIRECT COSTS:DC-Direct Cost Purchases": 399.0
-    }
+    "expenses": 0.0,
+    "by_category": {}
   },
   "invoices": [
     {
@@ -65,25 +62,6 @@
   ],
   "bills": [],
   "purchases": [],
-  "purchase_orders": [
-    {
-      "type": "PurchaseOrder",
-      "date": "2026-04-29",
-      "doc_number": "1037",
-      "total": 399.0,
-      "attributed": 399.0,
-      "vendor": "Amprius Technoloies",
-      "customer": "",
-      "balance": null,
-      "memo": "Ship using customer FedEx account : 341-698949341",
-      "lines": [
-        {
-          "amount": 399.0,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
-          "description": "SA504 x 7 (quote #00001876)"
-        }
-      ]
-    }
-  ],
+  "purchase_orders": [],
   "payments": []
 }

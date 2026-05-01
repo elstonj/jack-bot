@@ -5,7 +5,7 @@ This channel is primarily used for development and testing of BST's S0 VTOL airc
 
 Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan, Dan
 Activity: High activity with 1412+ messages covering approximately 2+ years of development
-Time range: Early development through April 2026 (ongoing project)
+Time range: Early development through April 30, 2026 (ongoing project)
 
 ## Key Decisions
 
@@ -39,17 +39,27 @@ Time range: Early development through April 2026 (ongoing project)
 - Crash autopilot code version identified: 0xf9eb3e6c (April 29, 2026)
 - Baseline established for comparing test rig behavior against crash conditions
 
+**Ground Testing Methodology (April 30, 2026):**
+- Sinusoidal loop testing will require custom firmware (small change at output stage)
+- Instrumentation approach prioritized: PWM sensors to be deployed first, followed by ordering remaining instrumentation components (Hall effect rotation sensors, couplers, optical RPM sensors)
+- Existing PWM-to-UART device available for immediate setup
+- S3 ground testing methodology includes 15-minute run warm-up as QC-like test to verify hardware/mechanical integrity (Joshua Fromm recommendation, April 30, 2026)
+- Visual observations alone insufficient for crash failure diagnosis; instrumentation logging required for meaningful data
+
 ## Projects & Initiatives
 
 **S0-VTOL Development (Spin-Up Phase - April 2026):**
 - Status: 20/50 required test flights completed for certification
-- Current phase: Re-spinning work with focus on ground testing improvements before resuming flight tests
-- Major concern: Recent consecutive transition flight failures cannot be replicated on ground
-- Ground testing strategy: Moving toward test methodologies similar to S3 program with independent sensor logging
-- S0 VTOL Test Plan created with primary steps and substasks for systematic testing approach (April 17, 2026)
-- Motor RPM tracking: Evaluating optimal measurement approach considering feed-forward control implementation for one-motor-out scenarios (April 19, 2026)
-- Planned alignment meeting: Ground testing methodology to be coordinated with S3 approach (April 28, 2026)
-- Ground testing resumed: Basic test rig operational with crash-matched autopilot code version (April 29, 2026)
+- Current phase: Intensive ground testing with instrumentation improvements before resuming flight tests
+- Recent ground testing status: No obvious CAN issues detected in latest test results; maximum command delay was 19.5ms; no Fletcher errors occurred (April 30, 2026)
+- Ground testing focus: Preparing sinusoidal loop test with appropriate instrumentation; evaluating existing PWM-to-UART device for immediate deployment
+- Next steps: Order instrumentation components (ESC telemetry loggers, eRPM sensors, PWM loggers, optical RPM sensors for motors; PWM loggers and Hall effect rotation sensors for servos) while continuing current test regime
+- Major concern: Consecutive transition flight failures cannot be replicated on ground - instrumentation critical for identifying root cause
+- Baseline comparison: Test rig behavior now being compared against crash conditions with matched autopilot code version (0xf9eb3e6c)
+
+**S1-20 Aircraft Reference Data:**
+- Reference aircraft completed 213 total flights with 10.5 hours combined flight time over past year
+- 172 transition flights totaling 10.2 hours of forward flight (April 30, 2026)
 
 **ADONIS Project:**
 - Contract deliverable: Flight testing required by March 24
@@ -65,39 +75,32 @@ Time range: Early development through April 2026 (ongoing project)
 
 **Jack Elston:**
 - Complete 50 flight test program for S0-VTOL certification
-- Conduct customer training (completed Barbados training)
-- Update charge connector and button on interface board
-- Coordinate integrated testing setup: work with team to connect independent sensor logging system to autopilot for laptop-based ground testing (April 17, 2026)
-- Attend S0-VTOL ground testing alignment meeting (scheduled for April 29, 2026 after 1pm ops meeting)
+- Retrieve PWM-to-UART board for instrumentation setup (committed April 30, 2026)
+- Evaluate sinusoidal test feasibility using existing firmware-based approaches for S0 AD version (April 30, 2026)
+- Coordinate integrated testing setup with instrumentation logging priority
 
 **Sam Hild:**
-- Configure Remote ID on aircraft before shipment
-- Continue thermal testing on crashed S0-VTOL hub board
+- Execute ground testing with current setup before deploying advanced instrumentation (April 30, 2026)
+- Preserve crashed autopilot code version during ground testing iterations
+- Deploy PWM sensors as minimum instrumentation requirement before proceeding with more complex tests (April 30, 2026)
 - Build 3 new aircraft with updated boards for delivery
-- Set up independent RPM logging capability using Teensy (April 17, 2026)
-- Attend S0-VTOL ground testing alignment meeting (scheduled for April 29, 2026 after 1pm ops meeting)
-- Execute basic ground testing on VTOL test rig with matched autopilot code version (April 29, 2026 - in progress)
-
-**Alex Lomis:**
-- Add QC checklist items for future deliveries
-- Create new heat sink revision for ESC thermal management
-- Evaluate 2m wingspan upgrade option from TJIRC
-- Lead ground testing discussion to address replicability gap with flight failures
-- Design independent sensor logging system: RPM sensors and potentiometers to log motor outputs separately from autopilot commands (April 17, 2026)
-- Create and maintain S0 VTOL Test Plan with primary steps and substasks (April 17, 2026) - plan approved by Maciej
-- Consider long-term implications: Evaluate RPM measurement approaches in context of future feed-forward control implementation for one-motor-out scenarios (April 19, 2026)
-- Attend S0-VTOL ground testing alignment meeting (scheduled for April 29, 2026 after 1pm ops meeting)
+- Set up independent RPM logging capability
 
 **Maciej:**
-- Complete GPS hover testing before transition flights
-- Continue debugging parameter corruption issues
-- Develop storage charge calculation spreadsheet
-- Coordinate S0-VTOL ground testing plan in conjunction with spin-up (April 17, 2026)
-- Ensure parameter backup and prop-off testing before controlled flight testing (April 17, 2026)
-- Advise on motor RPM measurement strategy to support eventual feed-forward control on motor RPM difference with appropriate feedback gains (April 19, 2026)
-- Work with team to determine optimal failure mitigation approach: either achieve high-confidence ground testing, develop trusted parachute system, or implement pre-flight failure detection (April 19, 2026)
-- Schedule and lead S0-VTOL ground testing alignment meeting with S3 team (April 28, 2026) - planned for April 29 after 1pm ops meeting
-- Identify and post crash autopilot code version for ground testing comparison (April 29, 2026 - completed: 0xf9eb3e6c)
+- Generate sinusoidal firmware version for crashed S0 autopilot code if requested by Sam (offered April 30, 2026)
+- Continue parameter corruption debugging
+- Coordinate S0-VTOL ground testing plan in conjunction with spin-up
+- Lead ground testing methodology alignment between S0 and S3 programs
+
+**Alex Lomis:**
+- Manage instrumentation documentation in Asana task (April 30, 2026)
+- Instrumention specification includes: ESC telemetry + eRPM + PWM logger + optical RPM for motors; PWM logger, Hall effect rotation sensors, couplers for servos; ESC telemetry for power data
+- Coordinate ordering of instrumentation components with supply chain (April 30, 2026)
+- Design and implement sensor logging system to enable data-driven failure analysis
+
+**Joshua Fromm:**
+- Contribute S3 ground testing methodology insights to S0 program (April 30, 2026)
+- Recommend 15-minute warm-up run as QC-like test for hardware/mechanical verification
 
 ## Client & External References
 
@@ -116,7 +119,7 @@ Time range: Early development through April 2026 (ongoing project)
 - TJIRC - 2m wingspan upgrade option discussion
 - Jawstec - parts ordering for assembly
 - Harting - power connector specifications
-- Digikey - sourcing RPM sensors and potentiometers for ground testing (April 2026)
+- Digikey - sourcing RPM sensors, Hall effect sensors, optical components, and other instrumentation (April 2026)
 
 ## Recurring Topics & Themes
 
@@ -131,3 +134,5 @@ Time range: Early development through April 2026 (ongoing project)
 - Gap between ground test behavior and in-flight behavior
 - Voltage initialization bugs affecting battery state estimation
 - Static pressure sensor failures causing landing issues
+
+**Ground Testing Instrumentation Strategy (April

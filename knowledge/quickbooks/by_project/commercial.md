@@ -1,10 +1,10 @@
 # Commercial — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $2,323,429.34
-- **Total Expenses (Bills + Purchases):** $217,933.12
+- **Total Invoiced (Revenue):** $2,447,164.34
+- **Total Expenses (Bills + Purchases):** $218,161.48
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,105,496.22 (Revenue exceeds expenses)
+- **Net Position:** $2,229,002.86 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – May 8, 2026
 
 ---
@@ -67,20 +67,33 @@
 | 1618 | 2024-04-19 | $13,853.10 | [451] INSTAAR Stable Isotope Lab, CU Boulder | Paid |
 
 ### Revenue Summary
-- **Total Invoiced:** $2,323,429.34
+- **Total Invoiced:** $2,447,164.34
 - **Total Collected (Paid):** $1,075,726.08
-- **Outstanding Balance:** $1,247,703.26
-  - **Four invoices from May 8, 2026 (By Light Halo):** $223,258.00 (Invoices #1754–1757) — Product delivery
+- **Outstanding Balance:** $1,371,438.26
+  - **Four invoices from May 8, 2026 (By Light Halo):** $223,258.00 (Invoices #1754–1757)
     - Invoice #1757 ($63,735.00): Two (2) built out Halo platforms ready for car launch demo
     - Invoice #1756 ($47,894.00): Design tested Halo airframe and CAD step files
     - Invoice #1755 ($63,735.00): Two (2) built out Halo platforms ready for car launch demo
     - Invoice #1754 ($47,894.00): Design tested Halo airframe and CAD step files
   - **One invoice from May 8, 2026 (IRISS, CU Boulder):** $664.98 (Invoice #1759)
-  - **Other outstanding invoices:** $1,023,780.28
+  - **Other outstanding invoices:** $1,147,515.28
 
 ---
 
 ## Expenses by Cost Category
+
+### **Indirect Costs (General & Administrative — Tariffs/Import Duties)**
+**Total: $228.36** | 1 transaction | Largest item: $152.24
+
+#### Tariff & Import Duties
+- **Purchase (2026-04-30):** $228.36 (PayPal)
+  - $152.24 — Duties fee for BlueBird Shipment (IDIQ allocation)
+  - $30.45 — Duties fee for BlueBird Shipment (Sasquatch S0s allocation)
+  - $45.67 — Duties fee for BlueBird Shipment (Future sales of 6 S0s allocation)
+
+**Total Indirect Costs (G&A Tariffs):** $228.36
+
+---
 
 ### **Materials & Supplies (Direct Cost Purchases)**
 **Total: $70,659.57** | 4 transactions | Largest item: $780.00
@@ -112,21 +125,4 @@
 - **Bill #BST-April2026-1 (2026-04-22):** $3,107.25
   - Indirect labor/overhead allocation
 
-- **Bill #BST-March2026-2 (2026-04-22):** $4,844.80
-  - Second half payment for March invoice
-  - Indirect labor/overhead allocation
-
-#### Purchase-Based IRAD Allocation
-- **Purchase #64090547 (2026-04-29):** $66.71
-  - S3 items classified as IRAD
-
-**Total Indirect Costs (IRAD):** $7,807.62
-
----
-
-### **Subcontractors (Direct Cost)**
-**Total: $918,167.98** | 2 transactions | Largest item: $19,379.22
-
-#### Matthew Crabtree — Direct Cost Invoices
-- **Bill #BST-April2026-1 (2026-04-22):** $11,583.56
-  - Parts and Materials: $9,652.
+- **Bill #BST-March2026-2 (2026-04-22):** $4,

@@ -1,10 +1,10 @@
 # Government — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $3,900,918.28
-- **Total Expenses (Bills + Purchases):** $1,309,196.56
+- **Total Invoiced (Revenue):** $3,915,377.28
+- **Total Expenses (Bills + Purchases):** $1,309,424.92
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $2,591,721.72 (invoiced minus expenses)
+- **Net Position:** $2,605,952.36 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -12,8 +12,8 @@
 ## Revenue (Invoices & Payments)
 
 ### Summary
-- **Total Invoiced:** $3,900,918.28
-- **Total Collected (Outstanding Balance):** $2,632,499.19 remaining (invoices with open balances)
+- **Total Invoiced:** $3,915,377.28
+- **Total Collected (Outstanding Balance):** $2,646,958.19 remaining (invoices with open balances)
 - **Number of Invoices:** 72 active invoices
 
 ### Major Revenue Streams by Project
@@ -68,8 +68,8 @@
 
 ---
 
-### **Materials & Supplies: $438,767.88**
-**Number of transactions:** 168  
+### **Materials & Supplies: $438,996.24**
+**Number of transactions:** 169  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
 - **JAWSTEC:** $19,627.62 (components for S0 platforms)
@@ -86,6 +86,7 @@
 - **Purchase #459340813415** (2026-04-21): $495.15 — Split between 3 S0 projects (2026 IDIQ $330.10, Sasquatch $66.02, Future S0 inventory $99.03)
 - **Digikey (Purchase #98710410)** (2026-04-17): $283.99 — Supplies for 2026 IDIQ ($93.99), Sasquatch ($18.80), future S0 inventory ($28.20)
 - **PO #1037 (2026-04-29):** $399.00 — Amprius Technologies, SA504 x7 [DIRECT COSTS]
+- **PayPal Purchase (2026-04-30):** $228.36 — Tariff/Import Duties (see Indirect Costs below)
 
 ---
 
@@ -125,11 +126,17 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 
 ---
 
-### **Indirect Costs (Overhead, Fringe, G&A): $119,722.53**
-**Number of transactions:** 37  
+### **Indirect Costs (Overhead, Fringe, G&A): $119,950.89**
+**Number of transactions:** 38  
 **Categories:**
 - **IRAD (Internal R&D):** ~$55,600+ (S0 VTOL development, S3 prototype work, general R&D)
   - Matthew Crabtree IRAD allocations (April/March 2026): $7,740.69
+- **Tariff/Import Duties:** $1,029.36 (allocated to General & Administrative)
+  - PayPal tariff charges (2026-04-30): $228.36
+    - BlueBird Shipment duties (IDIQ): $152.24
+    - BlueBird Shipment duties (Sasquatch): $30.45
+    - BlueBird Shipment duties (Future sales of 6 S0s): $45.67
+  - Previous tariff/import duties: $801.00
 - **Overhead/G&A charges:** $400+ (marketing, finance/bank charges, licenses, permits)
 - **License/permits:** $900.00 (Mexico drone certificate 02/04/26)
 - **Finance charges:** $75.00 (wire transfer fees)
@@ -141,18 +148,4 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 **Number of transactions:** 2  
 **Items:**
 - **Shop supplies allocation (Digikey purchase)** (2026-04-17): $143.00 (part of Purchase #98710410)
-- **Tool shipping to Sean Cole (Phase1 Aviation)** (2026-04-10): $28.75 (for S0 manufacturing support)
-
----
-
-### **Other/Miscellaneous: $801.00**
-- **Tariff & import duties:** $801.00+ (split across multiple purchases, included in Materials total above)
-- **Unallocated/miscellaneous:** Minimal
-
----
-
-## Purchase Orders
-
-| PO Number | Date | Vendor | Amount | Description |
-|-----------|------|--------|--------|-------------|
-| PO #1037 | 2026-04-29 | Amprius Technologies | $399.00 | SA504 x7 (quote #00001876); Ship via customer FedEx account 341-
+- **Tool shipping to Sean Cole (Phase1 Aviation)** (2026-

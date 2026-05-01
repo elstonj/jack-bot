@@ -1,45 +1,53 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 959 (915 previous + 44 new)
-- **Date range:** March 25 – April 30, 2026 (37 days)
-- **Approximate volume:** ~25.9 emails/day (stable, slight uptick continuing)
-- **Apr 29–30 activity:** 44 new messages span Wednesday (Apr 29) peak operational day and Thursday (Apr 30) early morning — **continued high-intensity composite procurement, servo/motor controller integration, Atmolab camera system coordination with international partners, and foam/assembly leadtime validation**
+- **Total messages scanned:** 1,024 (959 previous + 65 new)
+- **Date range:** March 25 – May 1, 2026 (38 days)
+- **Approximate volume:** ~26.9 emails/day (sustained high volume)
+- **Apr 30 – May 1 activity:** 65 new messages span end-of-month procurement surge (Apr 30) and early May operational continuity — **sustained composite/battery/bearing sourcing, motor controller finalization, Rock West composite fulfillment issues, Amprius battery cell coordination escalation, and multi-vendor shipping logistics**
 
 ## Key Correspondents
 
 ### Top Human Senders (updated rankings)
-1. **Chance Rogers** (chance.rogers@vertiq.co) — Vertiq — **SUSTAINED PRIORITY:** Motor controller technical troubleshooting (81-08 240kv units + Volt limit specs)
-2. **Jack Elston** (elstonj@blackswifttech.com) — Internal BST — **SUSTAINED/ESCALATED:** Atmolab camera system coordination (now direct correspondence with Nejc Trost/C-Astral, Jure Dolinar/Atmolab EU); operational missions; Asana task notifications on S3 First Article (Mexico aircraft)
-3. **Meredith Needham** (meredith.needham@blackswifttech.com) — Internal BST — Composite shipping coordination (PT Shipping/Northwind Composites liaison), servo procurement, logistics tracking
-4. **Foster Hill** (fhill@mmsolutions.biz) — **MM Solutions** — **NEW/ACTIVE:** Foam and assembly leadtime inquiry (IMPORTANT, direct exchange Apr 29)
-5. **Support (Vertiq)** (support@vertiq.co) — Vertiq technical support — **ONGOING:** Volt limit/Starting Voltage technical specifications (draft response Apr 29)
-6. **Thomas Cooke** (Thomas@mksservosusa.com) — MKS Servos USA — HBL599SL-DroneCAN servo lead time inquiry (forwarded to Meredith Apr 29)
-7. **Nejc Trost** (nejc.trost@c-astral.com) — **C-Astral (Slovenia)** — **SUSTAINED EXTERNAL PARTNER:** Atmolab camera system coordination (direct correspondence continuing Apr 29)
-8. **Jure Dolinar** (jure.dolinar@atmolab.eu) — **Atmolab EU** — **NEW DIRECT CONTACT:** Camera system technical discussion (IMPORTANT, Apr 29 10:51 UTC)
-9. **Jošt Laznik** (jost.laznik@atmolab.eu) — **Atmolab EU** — **NEW:** Camera system integration (Apr 29)
-10. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Internal BST — **NEW:** Atmolab camera system coordination (central to multi-party chain Apr 29)
-11. **PT Shipping** (ptshipping@ppgintl.onmicrosoft.com / ptshipping@ppgintl.com) — Logistics coordinator — Northwind Composites shipping BOL coordination (ongoing)
-12. **Lee Skidmore** (lee@northwindcomp.com) — **Northwind Composites** — Shipment tracking coordination (direct correspondence with Meredith, Apr 29 14:06 UTC)
+1. **Chance Rogers** (chance.rogers@vertiq.co) — Vertiq — **SUSTAINED PRIORITY:** Motor controller technical troubleshooting (81-08 240kv units + Volt limit specs) — *draft response completed Apr 30*
+2. **Jack Elston** (elstonj@blackswifttech.com) — Internal BST — **SUSTAINED/ESCALATED:** Atmolab camera system coordination; operational missions; Asana task notifications
+3. **Meredith Needham** (meredith.needham@blackswifttech.com) — Internal BST — **ESCALATED:** Composite shipping coordination; **Amprius SA112 battery cell order coordination (IMPORTANT, multi-party Apr 30)**; servo procurement; logistics tracking (DHL shipment 6962330605 forwarded Apr 30)
+4. **George Kusaba** (george.kusaba@amprius.com) — **Amprius** — **NEW/CRITICAL:** Battery cell procurement — **SA112 cells order status** (4-party chain: George, Neha Dubey, Meredith, Josh spanning Apr 30 17:35–May 1 01:58 UTC)
+5. **Joshua Lyon** (Joshua.Lyon@rockwestcomposites.com) — **Rock West Composites** — **ESCALATED:** **OUT OF STOCK notification** for Order #Z100698536 (Apr 30 19:30 UTC, marked IMPORTANT); Josh responds directly (Apr 30 15:00 MDT)
+6. **Sales** (Sales@clearwatercomposites.com) — **Clearwater Composites** — **NEW DIRECT CONTACT:** Order #14814 coordination (Josh replies Apr 30 11:25 MDT; Sales responds Apr 30 17:35 UTC, marked IMPORTANT)
+7. **Neha Dubey** (neha.dubey@amprius.com) — **Amprius** — **NEW:** Battery cell order discussion (May 1 01:58 UTC, marked IMPORTANT)
+8. **Sage Rawlings** (Sage.Rawlings@1rockwest.com) — **Rock West Composites** — **ESCALATED:** Out-of-stock order escalation (direct coordination with Josh Apr 30)
 
 ### Top Automated/Transactional Senders (expanded)
-- **Asana** — 4 task/project notifications (Apr 29, S3 First Article and general project activity) — **PROCUREMENT ACTIVITY**
-- **Amazon.com (via Purchasing)** — Order placed/shipped: "4 Pairs Mavic 3 Pro..." (Apr 30 03:38–17:22 UTC) — **NEW PROCUREMENT: Mavic 3 Pro accessories (drone equipment)**
-- **Rocketman Parachutes Store** — Order #1534 confirmed + shipment notification (Apr 29 21:44–21:48 UTC) — **NEW VENDOR: parachute/recovery systems**
-- **Clearwater Composites** — 3 order confirmations + password reset (Apr 29 14:12–20:48 UTC) — **NEW VENDOR: composite materials (duplicate orders?)**
-- **Rock West Composites** — 2 order follow-ups + "Complete Your Purchase" reminder (Apr 29, ongoing coordination)
-- **DragonPlate** — Order receipt confirmation (Apr 29 16:26–16:30 UTC, routed to both Jack Elston and Maciej Stachura) — **NEW VENDOR: composite materials**
-- **JawsTec** — Order shipment notification (Apr 29 16:54 UTC)
-- **High-Tech Battery Solutions Inc** — Feedback request (Apr 30 03:38 UTC) — **NEW VENDOR: battery systems**
-- **Kollmorgen** — UAV motor promotion (Apr 29 11:48 PDT) — **motor vendor**
-- **ProtoSpace Mfg** — Design-to-manufacturing marketing (Apr 29 19:45 UTC)
-- **Future Electronics** — Design conversion calculator promotion (Apr 29 10:29 EDT)
-- **Gemini (Google Notes)** — "BST Internal Update Meeting" notes (Apr 29 19:58 UTC) — **INTERNAL COORDINATION**
-- **Hobbyking** — Labor Day sale promotion (Apr 29 13:20 UTC)
-- **eBay (via Purchasing)** — Futaba 14SG receiver/transmitter alerts (Apr 29 06:06 PDT) — **radio control equipment**
-- **UAS VISION** — Daily drone industry news (Apr 29 10:06 UTC)
-- **Driftaway Coffee** — Shipment notification (Apr 29 23:05 UTC, routed to purchasing@bst.aero)
-- **Evie May / DBSetz** — **Custom Server Configurations** inquiry (Apr 29 09:23 PDT, IMPORTANT) — **IT/infrastructure discussion**
+- **Asana** — 4 task notifications (Apr 30 – May 1) — **SUSTAINED PROCUREMENT ACTIVITY**
+- **DHL Express (via Purchasing)** — **6 shipment notifications (AWB 6962330605)** (Apr 30 – May 1, multiple timestamps) — **CRITICAL INBOUND DELIVERY (materials tracking escalation)**
+  - One-time code authentication request (Apr 30 19:59 UTC)
+  - Payment receipts ($228.36 USD via PayPal Apr 30 13:31 PDT)
+- **SendCutSend** — 3 messages (order SX79V088 created, shipped, formal quote) (Apr 30 17:13–18:01 UTC) — **NEW VENDOR: metal fabrication/cutting services**
+- **123Bearing** — 2 messages (order confirmed + shipped) (Apr 30 15:13–16:05 UTC) — **NEW VENDOR: bearing components**
+- **Craftcloud®** — 4 messages (Order #459340813415 from Wehrmeyer Group — invoice, status updates, shipment) (Apr 30 15:13–21:13 UTC) — **MANUFACTURING/FABRICATION SERVICE**
+- **Rock West Composites** — 2 messages (out-of-stock alert, escalation) (Apr 30 19:30–21:13 UTC) — **CRITICAL FULFILLMENT ISSUE**
+- **Clearwater Composites** — 2 messages (order #14814 completion confirmation, sales coordination) (Apr 30 17:35–19:31 UTC) — **SUSTAINED COMPOSITE SOURCING**
+- **Xometry** — 2 duplicate CNC Machining quote ready notifications (Apr 30 18:30–19:30 EDT) — **MACHINING SERVICES**
+- **JawsTec** — Order #68473 received (Apr 30 19:37 UTC) — **ELECTRONICS/COMPONENTS**
+- **DragonPlate/Allred & Associates** — Order Acknowledgment 174005 (Apr 30 10:57 EDT) — **SUSTAINED COMPOSITE VENDOR**
+- **Rippling** — Payroll notification (Apr 30 18:45 UTC) — **ADMINISTRATIVE**
+- **Hilton Honors** — Travel/loyalty promotion (May 1 00:12 UTC) — **PERSONAL/ADMINISTRATIVE**
+- **Spindrift Customer Support** — Subscription order confirmation (May 1 04:02 UTC) — **PERSONAL**
+- **Driftaway Coffee** — Order #DR22306COF confirmed (Apr 30 23:02 UTC, routed to purchasing@bst.aero) — **OFFICE SUPPLIES**
+- **Harbor Freight** — Promotional deals (2 messages, Apr 30) — **PROMOTIONAL**
+- **KST (KST Servos)** — Labor Day promotional (Apr 30 12:02 UTC, marked IMPORTANT) — **SERVO/MOTOR VENDOR**
+- **Kollmorgen** — Xponential 2026 aerospace trade show invitation (Booth #36023) (Apr 30 07:04 PDT, marked PROMOTIONAL) — **INDUSTRY EVENT**
+- **eBay (via Purchasing)** — Futaba 14SG receiver/transmitter alerts (Apr 30 06:30 PDT) — **RADIO CONTROL EQUIPMENT**
+- **UAS VISION** — Daily drone industry news (Apr 30 10:06 UTC) — **INDUSTRY NEWSLETTER**
+- **Luminary** — Physics AI Model marketing (Apr 30 14:22 PDT) — **PROMOTIONAL**
+- **AliExpress** — Special delivery promotion (Apr 30 11:18 PDT) — **PROMOTIONAL**
+- **ProtoSpace Mfg** — Bus bar design marketing (Apr 30 19:30 UTC) — **DESIGN/FABRICATION VENDOR**
+- **The Flexpipe Team** — Workstation/flow optimization marketing (Apr 30 10:27 EDT) — **PROMOTIONAL**
+- **Igor from Solvi** — Crop height measurement webinar (Apr 30 14:18 UTC) — **AGRICULTURAL DRONE CONTENT**
+- **SecurityMetrics** — PCI compliance support (2 messages, Apr 30 08:12 MDT) — **COMPLIANCE/SECURITY**
+- **USPS Informed Delivery** — Daily mail digest (Apr 30 13:28 UTC) — **TRACKING**
+- **ADC (no-reply)** — AWB 6962330605 documentation (2 messages, Apr 30–May 1) — **INTERNATIONAL SHIPPING SUPPORT**
 
 ---
 
@@ -47,23 +55,9 @@
 
 ### Critical/Escalated Themes (Continued + New)
 
-1. **Motor Controller Technical Troubleshooting (Vertiq — SUSTAINED)**
-   - **Subject:** "Re: [Vertiq Support] Re: Question about Volt limit and Volts Limit Starting Voltage" — Draft response from Josh Apr 29 13:31 MDT
-   - **Status:** Technical resolution near completion; follow-up validation in progress
-   - **Implication:** Flight testing/integration phase progressing steadily
+1. **Motor Controller Technical Finalization (Vertiq — SUSTAINED)**
+   - **Subject:** "Re: [Vertiq Support] Re: Question about Volt limit and Volts Limit Starting Voltage" — Draft completed Apr 30 14:28 MDT
+   - **Status:** Technical specifications resolved; response ready for submission
+   - **Implication:** Flight testing/integration phase advancing to next validation stage
 
-2. **Servo Motor Sourcing (SUSTAINED + NEW ASSEMBLY COORDINATION)**
-   - **MKS Servos USA (HBL599SL-DroneCAN):** Forwarded to Meredith Needham Apr 29 14:12 MDT — lead time tracking
-   - **New discovery:** Josh directly contacts **Foster Hill (MM Solutions)** Apr 29 11:20 MDT — **"Leadtime on foam / assembly"** (IMPORTANT)
-   - **Implication:** Assembly/integration services sourcing; foam structural components; may be critical path for airframe assembly
-   - **Status:** Multi-vendor assembly coordination escalating
-
-3. **Atmolab Camera System Integration (ESCALATED TO DIRECT TECHNICAL COORDINATION)**
-   - **Direct participants identified:**
-     - **Jure Dolinar** (jure.dolinar@atmolab.eu) — Atmolab EU technical contact
-     - **Jošt Laznik** (jost.laznik@atmolab.eu) — Atmolab EU
-     - **Nejc Trost** (nejc.trost@c-astral.com) — C-Astral integration lead
-     - **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Internal BST technical POC (NEW VISIBILITY)
-     - **Jack Elston** — Internal coordination/escalation lead
-   - **Flow:** Multi-party coordination chain Apr 29 10:40–10:51 UTC (Nejc → Daniel → Jošt/Jure, then Jure responds)
-   - **Status:** Technical integration discussion active; multi-timezone
+2. **Battery Cell Sourcing — Amprius SA112 (CRITICAL — NEW ESCAL
