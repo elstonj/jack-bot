@@ -2,65 +2,108 @@
 
 ## Active Project Budgets
 
-| Project Code | Client | Total Budget | Contract Type | Status |
-|---|---|---|---|---|
-| 350-4 | USGS | $124,230.00 | Government Contract (Support Services) | Active |
+### Project 031-1: S3 Project
+- **Project Code:** 031-1
+- **Client/Funding Agency:** University of Maryland Eastern Shore (UMES)
+- **Project Contact:** Chris Hartman (Engineering and Aviation Sciences Department)
+- **Contract Manager:** Robert Drayton (UMES)
+- **Vendor:** Black Swift Technologies LLC, Boulder, CO
+- **Total Budget:** $81,306.00
+- **Contract Type:** Equipment Purchase Order
+- **Purchase Order:** #142750 (issued 09-05-2024)
 
-**Project 350-4 Details:**
-- Contract Number: 140G0323P0280
-- Period of Performance: 09/01/2023 – 09/30/2025
-- Primary Focus: Volcanic data collection mission to Nevado del Ruiz, Colombia
+**Budget Breakdown:**
+| Item | Amount |
+|------|--------|
+| S3 VTOL UAS Flight System (1x) | $65,000.00 |
+| S3 Battery (2x @ $3,669 each) | $7,338.00 |
+| Spare Battery S2 (2x @ $984 each) | $1,968.00 |
+| Operator Training (1x) | $3,000.00 |
+| Shipping and Handling | $4,000.00 |
+| **Total** | **$81,306.00** |
+
+**Status:** Hardware procurement with training component; PO issued September 2024
+
+---
+
+## Unassigned/Portfolio Projects
+
+**Document Collection:** 1,181 budget documents identified spanning multiple projects
+
+**Funding Sources Identified (Partial):**
+- NASA (AREN - Aeropods Commercial program)
+- NOAA
+- DoD (Department of Defense)
+- Other federal agencies
+
+**Known Projects in Portfolio:**
+1. **MiniCam Project** (NASA AREN - Aeropods Commercial)
+   - Status: Preliminary/Commercial product costing phase
+   - Document: BST MiniCam Preliminary Cost (February 2026).xlsx
+   - Last Modified: 2026-03-04
+   - Budget Data: Unit cost breakdown in progress (incomplete in provided data)
 
 ---
 
 ## By Funding Source
 
-**USGS (United States Geological Survey)**
-- Project 350-4: $124,230.00
-- **Total USGS Funding: $124,230.00**
+| Funding Source | Known Projects | Total Budget (Known) |
+|---|---|---|
+| University of Maryland Eastern Shore (UMES) | 1 (Project 031-1) | $81,306.00 |
+| NASA | 1+ (MiniCam at minimum) | *Unspecified* |
+| NOAA | Multiple | *Unspecified* |
+| DoD | Multiple | *Unspecified* |
+| Other Federal Agencies | Multiple | *Unspecified* |
 
 ---
 
 ## By Contract Type
 
-**Government Contract (Support Services)**
-- Project 350-4 (USGS): $124,230.00
-- **Total Government Contracts: $124,230.00**
+| Contract Type | Projects | Total Known |
+|---|---|---|
+| Equipment Purchase Order (PO) | Project 031-1 | $81,306.00 |
+| Commercial Product Development | MiniCam (preliminary stage) | *Unspecified* |
+| SBIR Phase I | *Unknown - in portfolio* | *Unspecified* |
+| SBIR Phase II | *Unknown - in portfolio* | *Unspecified* |
+| IRAD | *Unknown - in portfolio* | *Unspecified* |
 
 ---
 
 ## Financial Health Indicators
 
-### Budget Structure & Deployment Scenarios
-Project 350-4 is structured around two deployment options for volcanic monitoring:
+### Project 031-1 (S3 Project)
+- ✓ **Status:** Clear purchase order issued; hardware procurement underway
+- ✓ **Timeline:** PO dated September 5, 2024 (active)
+- ⚠️ **Note:** Training component ($3,000) and equipment delivery contingent on vendor fulfillment
 
-**Known Budget Components (Partial Data):**
-- Roundtrip Travel (Denver–Bogotá): $8,000
-- Lodging (2 persons, 15 nights @ $270/night): $8,100
-- Meals & Incidentals (2 persons, 16 days @ $90/day): $2,880
-- Flight Team Services (2 persons, 14 days @ $1,500/day): $42,000
-- Aircraft Rental & Insurance: *[Data incomplete in source document]*
-
-### Observations
-- **Contract Duration:** 24 months (well-established timeline through Sept 2025)
-- **Deployment-Based Budget:** High operational costs concentrated in field work phases
-- **Budget Completeness:** Document appears truncated; full budget breakdown unavailable
-- **Financial Status:** No spend data, drawdown information, or milestone billing data currently available
+### Portfolio Projects (Unassigned)
+- ⚠️ **Data Limitation:** 1,181 documents exist but lack centralized summary
+- ⚠️ **Visibility Gap:** No clear spend-to-date or remaining budget figures provided for portfolio
+- ⚠️ **Stage Unknown:** Project stages (active/proposal/completed) noted but specific budget status unclear
 
 ---
 
 ## QuickBooks Integration Notes
 
-- **Project 350-4:** Drive-based documentation only; no QuickBooks integration data referenced
-- No financial transactions, invoices, or actual spend data available in current documents
-- Recommend cross-reference with QuickBooks to track:
-  - Actual deployment costs vs. budgeted amounts
-  - Travel expenditures and team billing
-  - Aircraft/equipment rental invoices
-  - Milestone-based payments or drawdowns
+- **Project 031-1:** No QuickBooks reference found in provided documents; appears to be Drive-only budget tracking via PO documentation
+- **Unassigned Portfolio:** 1,181 documents referenced but no QB integration details provided in materials reviewed
+- **Recommendation:** Verify whether PO #142750 and associated project expenses are recorded in QuickBooks accounting system
 
 ---
 
-## Summary
+## Data Completeness Assessment
 
-**Current Portfolio:** Single active government contract with USGS totaling **$124,230.00**. Project involves field deployment operations with significant travel and operational costs. Complete budget documentation and actual spend tracking needed for comprehensive financial health assessment.
+| Dimension | Status |
+|---|---|
+| Clearly defined projects | 1 of many |
+| Budget amounts with detail | Project 031-1 complete; portfolio incomplete |
+| Funding source visibility | Partial (031-1 clear; 1,180+ docs unorganized) |
+| Contract type classification | Minimal; 031-1 identified as PO only |
+| Spend/remaining data | Not provided for any project |
+| QB cross-reference | Not available |
+
+**Next Steps Recommended:**
+1. Index the 1,181 unassigned documents by project code
+2. Extract budget summaries for all active projects
+3. Consolidate QB accounting data with project budgets
+4. Establish project financial health dashboard

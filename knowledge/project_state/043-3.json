@@ -26,10 +26,10 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 18415.0,
+        "amount": 20342.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-04-30"
+        "last_updated": "2026-05-01"
       },
       "purchases": {
         "amount": 0.0,
@@ -38,18 +38,18 @@
         "last_updated": null
       },
       "other_qbo": {
-        "amount": 352.93,
+        "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-04-30"
+        "last_updated": "2026-05-01"
       },
-      "total": 18767.93,
+      "total": 20342.5,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 107861.07,
+    "remaining": 106286.5,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-04-30T09:03:29Z"
+    "last_reconciled": "2026-05-01T09:05:43Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -82,6 +82,6 @@
       "text": "From Maciej: • <@U06CCFTNBS6>, after your meeting with ByLight let's update the due dates in Asana to realistic numbers and let them know.\n• <@U058LGYMEQ0>, did you need support on S0-VTOL stuff? Looks like some deadlines this week that I assume <@U01511MEQ90> or <@U06NQAYBLRK> can help with depending on their workload.\n• <@U07FN4QSNDN> or <@U01511MEQ90>, you had both mentioned using our AI tools to start on those NASA RFI's, are one of you able to get going on that soon? Otherwise I can take a "
     }
   ],
-  "last_full_rebuild": "2026-04-30T09:03:29Z",
+  "last_full_rebuild": "2026-05-01T09:05:43Z",
   "last_incremental_update": null
 }

@@ -40,6 +40,7 @@
   - **Critical path dependencies:** Ground testing depends on completed design & parts ordering; hand-launched flights depend on build completion; Camp Pendleton demo depends on finalized flight plans.
   - **External dependency:** Camp Pendleton permissions/frequencies (Beck Cotter, due Jun 1) must be secured before demo logistics finalized.
   - **Resource constraints:** Priority #5 status may limit availability of key team members during peak execution phases.
+  - **Asana task lag:** Raw data shows only 1 open task (Preliminary Design Mods for re-usable S0-MAD due May 1) vs. 13 technical + 4 administrative tasks in prior knowledge file. Suggests tasks either not entered in raw Asana export or bulk-closed without status updates. Recommend synchronization check.
 
 ## Key Deliverables & Milestones
 
@@ -54,7 +55,7 @@
 | Milestone | Owner | Due Date | Status | Dependency |
 |---|---|---|---|---|
 | Complete design of ground testing S0-MAD (both mags) | Alex Lomis | Apr 27, 2026 | **OPEN** | Critical path start |
-| Preliminary design mods for reusable S0-MAD | Alex Lomis | May 1, 2026 | **OPEN** | Follows design phase |
+| Preliminary design mods for reusable S0-MAD | Alex Lomis | May 1, 2026 | **OPEN** (in raw data) | Follows design phase |
 | Order parts for S0-MAD reusable | Alex Lomis | May 5, 2026 | **OPEN** | Design freeze |
 | Design onboard logging (both mag sensors) | Jack Elston | May 8, 2026 | **OPEN** | Parallel to design phase |
 | Finalize Python plotting/analysis tools | Maciej Stachura | May 13, 2026 | **OPEN** | Data processing prep |
@@ -76,13 +77,8 @@
 - All Phase I reports and invoices submitted and paid (Feb 9–11, 2026) ✓
 
 ## Task Summary
-- **Total tasks:** 19 open, 0 completed
-  - 2 administrative contact records (Angel Ruiz-Reyes, Anthony Brescia)
-  - 4 reporting/invoicing tasks (2 reports + 2 invoices)
-  - 13 technical execution tasks
-- **Tasks by assignee:**
-  - Alex Lomis: 8 tasks (design, procurement, build, ground testing, hand-launched flights, Camp Pendleton)
-  - Jack Elston: 3 tasks (onboard logging design, Progress Report CLIN 0006, Final Report CLIN 0007)
-  - Maciej Stachura: 2 tasks (Python tools, sensor configuration) — *Per Maciej (Apr 22): "Tasks for the Navy project is done"*
-  - Beck Cotter: 1 task (Camp Pendleton permissions/frequencies)
-  - Meredith O'
+- **Asana tasks (raw data):** 1 open, 0 completed
+  - Single visible task: Preliminary Design Mods for re-usable S0-MAD (Alex Lomis, due May 1)
+  - **Note:** Prior knowledge file listed 19 open tasks (13 technical + 4 admin + 2 contacts). Discrepancy suggests Asana task list may be incomplete or bulk-closed. Recommend verification.
+- **Tasks by assignee (from knowledge file):**
+  - Alex Lomis: 8

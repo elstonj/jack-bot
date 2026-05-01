@@ -1,76 +1,84 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 841 (815 previous + 26 new)
-- **Date range:** March 16 – April 30, 2026 (approximately 46 days)
-- **Approximate volume:** ~18 emails per day
-- **Note:** New batch (Apr 29-30) shows **26 messages**, predominantly logistics/procurement notifications and promotions (24/26). **2 critical work messages visible:** Toggl Track time-tracking notification (Apr 29) and **Asana task reminder** (Apr 29, "2 tasks due soon"). **Gemini Notes export** (Apr 29) from "BST Internal Update Meeting" suggests internal strategic/management communication. Composite materials procurement intensified with **Clearwater Composites** and **DragonPlate** orders (new vendors Apr 29); **Mavic 3 Pro DJI drone parts** ordered (Apr 29-30, Amazon); **Rocketman Parachutes** order confirmed and shipping (Apr 29).
+- **Total messages scanned:** 884 (841 previous + 43 new)
+- **Date range:** March 16 – May 1, 2026 (approximately 47 days)
+- **Approximate volume:** ~18–19 emails per day
+- **Note:** New batch (Apr 30 – May 1) shows **43 messages**, predominantly logistics/procurement notifications (41/43). **1 critical work message:** Asana task reminder (Apr 30, "2 tasks due soon"). **1 administrative message:** Rippling payroll notification (Apr 30). Procurement activity remains elevated with **SendCutSend** metal fabrication orders (SX79V088, Apr 30), **Clearwater Composites** order completion (Apr 30), **JawsTec** component order (Order #68473, Apr 30), **123Bearing** orders confirmed and shipped (Apr 30), **Craftcloud** manufacturing order (Order #459340813415, Apr 30 — routed to Joshua Fromm), **DragonPlate/Allred & Associates** order acknowledgment (Order 174005, Apr 30). **DHL Express international shipment** (AWB: 6962330605, multiple status updates Apr 30 – May 1) indicates incoming components from overseas supplier.
 
 ## Key Correspondents
 
 ### Top Internal Contacts
 - **Dan Prendergast** (via Asana) — **ACTIVE TASK LEAD**: Circuit board revisions across multiple projects; task assignments maintain momentum on iterative design cycles
-- **Maciej Stachura** (via Asana & Purchasing) — **ESCALATED PRIORITY - MOTOR DIAGNOSTICS + PROCUREMENT**: Task assignment Apr 28 on **"Rear motor spin up"** under [001-07] S3 IRAD; DragonPlate password recovery routed Apr 29 (composite materials vendor account); indicates Maciej involved in structural component ordering; Harbor Freight 25% off coupon misdirected to Sam's inbox but addressed to "MACIEJ" — suggests Maciej is active procurement user on shared vendor account
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — **MOTOR SYSTEM ESCALATION**: Forwarded Vertiq Support response on motor voltage parameter troubleshooting (previous batch); Hurricane IDIQ lead continues involvement
-- **Jack Elston** (elstonj@blackswifttech.com) — **FLIGHT TEST LEAD/DESIGN ESCALATION**: Apr 28 task assignment on flight motor dynamics issue; DragonPlate order receipt routed to Jack Elston Apr 29 (composite materials for flight structures)
+- **Maciej Stachura** (via Asana & Purchasing) — **ESCALATED PRIORITY - MOTOR DIAGNOSTICS + PROCUREMENT**: Task assignment activity continues; composite materials vendor management active
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — **MOTOR SYSTEM + PROCUREMENT ESCALATION**: Direct involvement in Rock West Composites order management (RE: Order #Z100698536, Apr 30 – communication with vendor Sage Rawlings); invoice routing from Craftcloud (Order #459340813415, Apr 30) indicates Fromm involved in manufacturing procurement decisions; continues as primary Hurricane IDIQ and flight test lead
+- **Jack Elston** (elstonj@blackswifttech.com) — **FLIGHT TEST + PROCUREMENT LEAD**: PayPal receipt for DHL Express shipment (Apr 30, $228.36) routed to Jack Elston; Clearwater Composites order confirmation (Apr 30) addressed to Jack Elston; continues as critical flight test airframe contact
 
-### External Contacts (Design/Engineering Partners)
-
-**Design/Engineering:**
-- **microfirm@earthlink.net** — **ACTIVE DESIGN PARTNER (CONTINUED)**: Direct email from Sam on Power Supply Board Re-spin (previous batch); maintains ongoing design iteration channel
-
-### Vendor/Supplier Contacts (Significantly Expanded)
-
-**Composite Materials/Structural (NEW/EXPANDED — MAJOR ACTIVITY):**
-- **Rock West Composites** — Multiple messages Apr 29 (promotional, "complete purchase" reminder); continuing from Apr 28 order #Z100698536
-- **Clearwater Composites** (info@clearwatercomposites.com) — **NEW COMPOSITE VENDOR (EXPANDED)**: 3 messages Apr 29 (2x order confirmation, password reset request); indicates new account setup/activation for composite orders; dual sourcing with Rock West Composites suggests increased structural component volume
-- **DragonPlate** (via Purchasing) — **NEW COMPOSITE VENDOR (CRITICAL)**: 2 messages Apr 29 (order receipt to Jack Elston, password recovery to Maciej Stachura); carbon fiber/composite structural supplier; orders routed to flight test lead and motor diagnostics lead — indicates structural components for [001-07] S3 and flight test items
-
-**Drone/Aerial Systems Components (NEW):**
-- **Amazon** — **Mavic 3 Pro drone parts** ordered/shipped Apr 29-30 (4 pairs — likely propellers, batteries, or replacement parts); DJI platform components; **NEW PROCUREMENT CATEGORY** suggests sensor/platform evaluation or replacement component sourcing for UAS systems
-- **Rocketman Parachutes Store** (via Purchasing) — **Order #1534 confirmed and in transit** (Apr 29); parachute recovery system supplier; **NEW CRITICAL VENDOR** — indicates active recovery system procurement for aircraft platforms; may signal S3 IRAD flight envelope expansion or recovery system integration testing
-- **Hobbyking** — Promotional "Labor Day sale" (Apr 29); RC hobby electronics/components; continuing vendor relationship from previous batches
-
-**Electronics & Components (Continued):**
-- **JawsTec** — Order #68439 received (Apr 29); component vendor continues active procurement
-
-**Radio Control Systems (Continued):**
-- **eBay Search Alert** — **Futaba 14SG transmitter/receiver** (Apr 29, new alert); RC control equipment sourcing continues; suggests remote control system component sourcing or evaluation for flight test platform
-
-**Battery/Power Systems (NEW):**
-- **High-Tech Battery Solutions Inc** (sales@techbatterysolutions.com) — **NEW VENDOR (FEEDBACK REQUEST)**: "We'd love your feedback" promotional (Apr 29); battery supplier attempting to re-engage; likely relevant to power supply redesign work or system power budget
-
-**Consumables/Facilities:**
-- **Driftaway Coffee** (ops@driftaway.coffee) — Coffee shipment upcoming (Apr 29); office supplies/break room
-- **Dell Rewards** — Membership benefits promotional (Apr 29, routed to Purchasing)
-- **Harbor Freight** — Product alerts/promotions continuing (Apr 29)
-
-**Business/Telecom (NEW):**
-- **Verizon Business Internet** (communications@b2binfo.verizonwireless.com) — **DIRECT TO SAM (NOT ROUTED)**: Reliability/speed promotional (Apr 29); suggests potential network/connectivity infrastructure evaluation or contract renewal cycle
-
-**Time Tracking/Productivity (NEW):**
-- **Toggl Track** (support@track.toggl.com) — **DIRECT TO SAM (NEW)**: Notification (Apr 29, no subject); time tracking software; indicates Sam or team is actively using time-tracking system for project hours/resource allocation
-
-**Administrative/Management:**
-- **Gemini** (gemini-notes@google.com) — **DIRECT TO SAM (NEW)**: Notes export "BST Internal Update Meeting" Apr 29 (UNREAD); suggests Sam attended or receives minutes from internal strategic/management meetings; indicates involvement in higher-level BST planning/coordination
-
-**Logistics/Shipping (Continued):**
-- **USPS Informed Delivery** — Daily digest (Apr 29)
-- **UPS, FedEx** — (continuing from previous tracking)
+### External Contacts (Engineering Partners)
+- **microfirm@earthlink.net** — Design partner (continued from previous)
+- **Sage Rawlings** (Sage.Rawlings@1rockwest.com) — **Rock West Composites contact**: Direct vendor communication Apr 30 regarding stock status on Order #Z100698536; Joshua Fromm engaged in troubleshooting out-of-stock items with vendor
 
 ## Topic Patterns
 
-### Active Projects (Motor Troubleshooting + Flight Testing + Power Supply Design + Recovery Systems — EXPANDED SCOPE)
+### Active Projects (Motor Troubleshooting + Flight Testing + Power Supply Design + Recovery Systems + Metal Fabrication Phase — EXPANDED)
 
-**[001-07] S3 IRAD — MOTOR SYSTEM + STRUCTURAL COMPONENTS PHASE**
-- **Rear motor spin up** (Apr 28 assignment, Maciej Stachura) — Escalation from noise debugging to functional spinup validation continues
-- **Vertiq motor parameter tuning** (voltage limits, starting voltage) — Iterative support cycle continues
-- **DragonPlate composite orders** (Apr 29, routed to Maciej & Jack Elston) — **NEW**: Structural components (carbon fiber airframe, fairings, motor mounts) being sourced for S3 platform; indicates transition from debug/lab phase to structural integration phase
-- **Rock West Composites + Clearwater Composites orders** (Apr 29) — Dual composite sourcing suggests high-volume or multiple structural subsystem requirements; expanded structural development
+**[001-07] S3 IRAD — MOTOR SYSTEM + STRUCTURAL + METAL FABRICATION PHASE**
+- **Rear motor spin up** — Continues from previous batch
+- **Vertiq motor parameter tuning** — Continues
+- **Composite structural orders** (Clearwater, Rock West, DragonPlate) — Orders transitioning from pending to confirmed/shipped status (Apr 30)
+  - **Clearwater Composites Order #14814** (Apr 30, completed) — Joshua Fromm direct communication with vendor; indicates structural composite fulfillment
+  - **Rock West Order #Z100698536** (Apr 30, out-of-stock escalation) — Fromm & Sage Rawlings engaged in stock remediation; Joshua Lyon (Purchasing) copied on escalation — indicates urgency in composite procurement pipeline
+  - **DragonPlate/Allred & Associates Order 174005** (Apr 30) — Order acknowledgment received; structural components in fulfillment phase
+- **SendCutSend metal fabrication** (Order SX79V088, Apr 30) — **NEW METAL COMPONENT PRODUCTION**: Custom metal parts/brackets being fabricated; formal quote and order tracking active; indicates transition from composite/electronics to integrated metal assembly
+- **123Bearing orders** (Apr 30, confirmed & shipped) — Bearing/mechanical component procurement; indicates rotating element integration phase
+- **DHL international shipment** (AWB: 6962330605, Apr 30 – May 1) — **OVERSEAS COMPONENT DELIVERY**: Multiple status updates indicate inbound shipment from international supplier; likely high-value electronics or specialized components; routed through Purchasing indicating direct Sam involvement
 
-**[2026-04-27] Flight Test Items — FLIGHT PERFORMANCE + RECOVERY SYSTEMS (EXPANDED)**
-- **"Slowing front two motors in forward flight causes rear motor t…"** (Apr 28 task assignment) — Flight testing reveals motor dynamics asymmetry; active flight envelope exploration
-- **Rocketman Parachutes Order #1534** (Apr 29, confirmed & shipping) — **NEW CRITICAL SUBSYSTEM**: Parachute recovery system integration for flight test platform; indicates flight envelope expansion into higher-risk regimes requiring redundant recovery; **suggests advanced flight test phase or transition to tethered/autonomous flight testing with safety systems**
-- **DragonPlate order receipt to Jack Elston** (Apr 29) — Structural components for flight test airframe
+**[2026-04-27] Flight Test Items — FLIGHT PERFORMANCE + RECOVERY SYSTEMS**
+- **Jack Elston procurement** (DHL payment Apr 30, Clearwater order Apr 30) — Flight test airframe structural components confirmed shipped
+- **Rocketman Parachutes** — Recovery system procurement continues from previous batch
 
-**[300-3] 2026 IDIQ (Hurricane)
+**[300-3] 2026 IDIQ (Hurricane)**
+- **Joshua Fromm continued engagement** on composite procurement and order management
+
+### Vendor/Supplier Orders (Expanded Manufacturing & Logistics)
+
+**Metal Fabrication (NEW PRIMARY CATEGORY):**
+- **SendCutSend** (via Purchasing) — **NEW MANUFACTURING PARTNER**: 3 messages Apr 30 (formal quote SX79V088, order confirmation, tracking); custom metal parts/brackets being cut/fabricated; indicates design transition to metal assembly phase
+
+**Mechanical Components (NEW):**
+- **123Bearing** (via Purchasing) — **2 messages Apr 30** (order confirmed, order shipped); bearing/mechanical procurement active; indicates rotating assemblies integration
+
+**International Logistics (NEW/ESCALATED):**
+- **DHL Express** (via Purchasing) — **4 messages Apr 30 – May 1** on shipment AWB: 6962330605; international in-transit component delivery; duplicate status updates suggest high-priority tracking; **DHL payment receipt** routed to Jack Elston (PayPal, $228.36, Apr 30) — indicates advance payment for expedited international shipment
+
+**Manufacturing/Job Shop (CONTINUED):**
+- **Craftcloud** (via Purchasing) — **4 messages Apr 30** (invoice to Joshua Fromm, order status updates, in-transit notification); Order #459340813415 from The Wehrmeyer Group, LLC; manufacturing order nearing delivery; indicates contract manufacturing involvement for complex parts assembly
+
+**Composite Materials (CONTINUED/ACTIVE):**
+- **Clearwater Composites** (Apr 30, order complete) — Structural composite fulfillment
+- **Rock West Composites** (Apr 30, out-of-stock escalation) — Stock remediation in progress; Joshua Fromm + Purchasing actively managing vendor relationship
+
+**Electronics & Components (CONTINUED):**
+- **JawsTec** (Apr 30, Order #68473 received) — Component vendor procurement continues
+
+**Bearings/Mechanical (NEW):**
+- **123Bearing** (Apr 30, confirmed & shipped) — Bearing orders active
+
+**Specialty Equipment (CONTINUED):**
+- **eBay Search Alert** (Apr 30) — Futaba 14SG RC control equipment search continues
+
+**Tools/Facilities (CONTINUED):**
+- **Harbor Freight** (May 1, Socket set promotion; Apr 30, Generator Days) — Tool procurement ongoing
+- **Driftaway Coffee** (Apr 30, Order #DR22306COF confirmed) — Office supplies/break room
+
+**Administrative/IT:**
+- **GitLab** (May 1, SSH key expired) — **DIRECT TO SAM (NEW)**: Development infrastructure notification; indicates Sam or team maintains active GitLab repository access for CAD/firmware/design files
+- **Rippling** (Apr 30, payroll notification) — **DIRECT TO SAM**: HR/payroll system integration
+- **SecurityMetrics** (Apr 30, PCI compliance) — Payment processing compliance
+
+## Communication Patterns
+
+### Routing & Distribution
+- **Purchasing aggregate inbox** (purchasing@blackswifttech.com) remains primary routing point for vendor notifications (39/43 messages routed here)
+- **Direct-to-Sam messages** (3 total):
+  - GitLab SSH key expiration (May 1) — development infrastructure

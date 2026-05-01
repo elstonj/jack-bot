@@ -4,14 +4,15 @@
     ""
   ],
   "period": {
-    "start": "2026-04-29",
-    "end": "2026-04-30"
+    "start": "2026-04-30",
+    "end": "2026-05-01"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 162.38,
+    "expenses": 3290.05,
     "by_category": {
-      "Inventory Asset": 162.38
+      "Inventory Asset": 3244.38,
+      "GENERAL & ADMINISTRATIVE:Tariff/Import Duties": 45.67
     }
   },
   "invoices": [],
@@ -19,23 +20,106 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-04-29",
-      "doc_number": "68439",
-      "total": 162.38,
-      "attributed": 162.38,
+      "date": "2026-04-30",
+      "doc_number": "",
+      "total": 228.36,
+      "attributed": 45.67,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Paid via paypal",
+      "lines": [
+        {
+          "amount": 152.24,
+          "account": "GENERAL & ADMINISTRATIVE:Tariff/Import Duties",
+          "description": "Duties fee for BlueBird Shipment (IDIQ)"
+        },
+        {
+          "amount": 30.45,
+          "account": "GENERAL & ADMINISTRATIVE:Tariff/Import Duties",
+          "description": "Duties fee for BlueBird Shipment (Sasquatch)"
+        },
+        {
+          "amount": 45.67,
+          "account": "GENERAL & ADMINISTRATIVE:Tariff/Import Duties",
+          "description": "Duties fee for BlueBird Shipment (Future sales of 6 S0s)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-30",
+      "doc_number": "68473",
+      "total": 904.32,
+      "attributed": 904.32,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 162.38,
+          "amount": 904.32,
           "account": "Inventory Asset",
           "description": "For future S3 Sales"
         }
       ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-30",
+      "doc_number": "SX79V088",
+      "total": 516.91,
+      "attributed": 516.91,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 516.91,
+          "account": "Inventory Asset",
+          "description": "For future sales of S3"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-30",
+      "doc_number": "C80812959",
+      "total": 123.15,
+      "attributed": 123.15,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "For future sales of S3",
+      "lines": [
+        {
+          "amount": 123.15,
+          "account": "Inventory Asset",
+          "description": "DEEP GROOVE BALL BEARING - for future sales of S3"
+        }
+      ]
     }
   ],
-  "purchase_orders": [],
+  "purchase_orders": [
+    {
+      "type": "PurchaseOrder",
+      "date": "2026-04-30",
+      "doc_number": "1038",
+      "total": 1700.0,
+      "attributed": 1700.0,
+      "vendor": "Amprius Technoloies",
+      "customer": "",
+      "balance": null,
+      "memo": "Ship using customer FedEx account : 341-698949341\n\nShip together with SA504 order (Quote #: 1876)",
+      "lines": [
+        {
+          "amount": 1700.0,
+          "account": "Inventory Asset",
+          "description": "SA112 x 200 (Quote #00001879)"
+        }
+      ]
+    }
+  ],
   "payments": []
 }

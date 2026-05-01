@@ -10,14 +10,15 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Melissa Phillips (shipping/logistics coordination)
 - Maciej Tromba (payload/camera work, customer communication)
 - Danny Troke (QC, testing, batteries)
-- Meredith Needham (shipping, logistics, quote coordination)
+- Meredith Needham (shipping, logistics, quote coordination, invoice tracking)
 - Nate (assembly, QC flights, payload prep, GCS builds, quotes)
 - Paige Smith (sales coordination, customer communication)
 - Beck Cotter (customer outreach, email coordination)
 - Ben Busby (team member)
 - Dan Prendergast (project coordination, customer requests)
+- Dan H (CU - external customer, E2 battery interest)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Recent activity as of April 29, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Recent activity as of April 30, 2026.
 
 ---
 
@@ -71,6 +72,12 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Dan Prendergast requested keeping 4 E2 batteries reserved until after EMASS completion (April 21, 2026)
 - Maciej Tromba approved proposal (April 2026)
 
+**Used E2 Battery Pricing Decision (April 30, 2026)**
+- Customer Dan H (CU) interested in purchasing used E2 battery pack
+- Maciej Tromba seeking guidance on discount vs. new pack ($3,699)
+- Rationale for discount: Significant labor savings from not building new unit
+- No final pricing decision documented yet (pending response)
+
 ### Service Repair Pricing & Quoting Standards (April 2026)
 
 **S20004 Flap Servo Replacement Quote (April 24, 2026)**
@@ -117,11 +124,4 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Noted: Setup requires removal for storage between flights
 
 **Micasense Altum Camera Resolution (2024)**
-- Channels 2 and 5 had exposure saturation issues post-firmware update
-- Camera sent back to Micasense multiple times for diagnosis
-- Final resolution: Internal circuit board replaced, fan replaced, full recalibration done
-- Issues not reproducible on ground testing; uncertain if fully resolved
-
-**MHP (Modular Hovering Payload) Production Plan (2021)**
-- Production plan: 5 aeropods + 5 regular MHP units
-- Allocation: 1-NASA, 2-L3
+- Channels 2 and 5 had exposure

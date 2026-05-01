@@ -1,81 +1,102 @@
 # Asana Projects Overview
 
-Last scanned: 2026-04-30 02:07
+Last scanned: 2026-05-01 02:08
 
-Total projects scanned: 12
+Total projects scanned: 15
 
 ## Projects
 
-- **View: Flight Testing** — 2 tasks — [view_flight_testing.md](view_flight_testing.md)
-- **[001-04] S0 VTOL IRAD** — 4 tasks — [001-04_s0_vtol_irad.md](001-04_s0_vtol_irad.md)
-- **[001-07] S3 IRAD** — 9 tasks — [001-07_s3_irad.md](001-07_s3_irad.md)
-- **[001-13] Accounting** — 1 tasks — [001-13_accounting.md](001-13_accounting.md)
+- **View: Flight Testing** — 1 tasks — [view_flight_testing.md](view_flight_testing.md)
+- **[001-04] S0 VTOL IRAD** — 2 tasks — [001-04_s0_vtol_irad.md](001-04_s0_vtol_irad.md)
+- **[001-12] Customer Support** — 1 tasks — [001-12_customer_support.md](001-12_customer_support.md)
+- **[001-13] Accounting** — 3 tasks — [001-13_accounting.md](001-13_accounting.md)
 - **[001-13] BD Pipeline** — 1 tasks — [001-13_bd_pipeline.md](001-13_bd_pipeline.md)
 - **[001-13] HR General ** — 1 tasks — [001-13_hr_general.md](001-13_hr_general.md)
-- **[001-13] Proposals** — 6 tasks — [001-13_proposals.md](001-13_proposals.md)
-- **[001-13] Purchasing** — 12 tasks — [001-13_purchasing.md](001-13_purchasing.md)
-- **[043-3] ByLight M2/Halo** — 3 tasks — [043-3_bylight_m2halo.md](043-3_bylight_m2halo.md)
-- **[044-1] EMASS Chip Integration** — 3 tasks — [044-1_emass_chip_integration.md](044-1_emass_chip_integration.md)
+- **[001-13] Proposals** — 2 tasks — [001-13_proposals.md](001-13_proposals.md)
+- **[001-13] Purchasing** — 13 tasks — [001-13_purchasing.md](001-13_purchasing.md)
+- **[005-1] BARBADOS VTOL S0 and Training ** — 1 tasks — [005-1_barbados_vtol_s0_and_training.md](005-1_barbados_vtol_s0_and_training.md)
+- **[031-1] UMES S3** — 1 tasks — [031-1_umes_s3.md](031-1_umes_s3.md)
+- **[043-3] ByLight M2/Halo** — 4 tasks — [043-3_bylight_m2halo.md](043-3_bylight_m2halo.md)
+- **[044-1] EMASS Chip Integration** — 1 tasks — [044-1_emass_chip_integration.md](044-1_emass_chip_integration.md)
 - **[212-2] NASA S2 & Parts** — 2 tasks — [212-2_nasa_s2_parts.md](212-2_nasa_s2_parts.md)
-- **[350-4] 2024 USGS - Chile (Mexico)** — 1 tasks — [350-4_2024_usgs_-_chile_mexico.md](350-4_2024_usgs_-_chile_mexico.md)
+- **[300-3] 2026 IDIQ (Hurricane)** — 2 tasks — [300-3_2026_idiq_hurricane.md](300-3_2026_idiq_hurricane.md)
+- **[550-1] NAVY SBIR: Magnetometer** — 1 tasks — [550-1_navy_sbir_magnetometer.md](550-1_navy_sbir_magnetometer.md)
 
 ## Strategic Summary
 
 # Black Swift Technologies – Project Portfolio Overview
 
 ## Portfolio Summary
-- **Total Active Projects:** 11 major projects + supporting operations
-- **Estimated Portfolio Value:** $5.8M+ (proposals + active contracts)
-- **Active Contracts:** ~$304K (NASA S2, USGS Chile, EMASS, VTOL IRAD)
-- **Proposal Pipeline:** $5.2M+ pending (6 active proposals)
+- **Total Identifiable Value:** ~$1.395M across tracked projects
+- **Active Projects:** 12 major initiatives
+- **Critical Status Projects:** 4 (UMES S3, Barbados VTOL, EMASS, NOAA Hurricane)
+- **Operational/Support Projects:** 4 (Purchasing, HR/Accounting, Customer Support, BD Pipeline)
 
 ---
 
-## Key Active Projects
+## Key Active Projects by Value
 
 | Project | Client | Value | Status | Key Deadline |
 |---------|--------|-------|--------|--------------|
-| **[001-07] S3 IRAD** | Internal R&D | Not tracked | ✅ Milestone completed (4/28/26) | — |
-| **[350-4] USGS Chile** | USGS | $124,230 | Active, **DELAYED** | Deploy Fall 2026 |
-| **[044-1] EMASS Chip Integration** | EMASS | $90,000 | Active, critical phase | Validation Flights #2–#3: ~May 1 |
-| **[212-2] NASA S2 & Parts** | NASA Ames | $89,844 | Active | PO in execution |
-| **[001-04] S0 VTOL IRAD** | Internal R&D | High priority | Active, hover testing phase | Visual Bench Test: 4/30/26; Flight Test: 6/5/26 |
-| **[043-3] ByLight M2/Halo** | ByLight | Not tracked | Active, 2 open tasks | — |
-| **[001-13] BD Pipeline** | Mixed (gov/academic/commercial) | $2.3M+ pipeline | Active management | Q2 2026 deadlines |
-| **[001-13] Proposals** | Mixed | $5.2M+ potential | 6 open proposals | Various (NAWCAD $1.53M, DoD SBIR/STTR, NASA, Army) |
+| [300-3] NOAA Hurricane IDIQ | NOAA/UxSOC | $483,000 | **CRITICAL** | Jul 31, 2026 |
+| [550-1] Navy SBIR Magnetometer | Navy/NAVAIR | *TBD* | Active | *TBD* |
+| [212-2] NASA S2 & Parts | NASA Ames | $89,844 | Active | *TBD* |
+| [043-3] ByLight M2/Halo | By Light (Commercial) | $126,629 | Active | May 30, 2026 |
+| [044-1] EMASS Chip Integration | EMASS (Commercial) | $90,000 | **CRITICAL** | May 4, 2026 |
+| [031-1] UMES S3 | UMES | $81,306 | **CRITICAL** | May 31, 2026 |
+| [005-1] Barbados VTOL S0 | Barbados Met. Services | $22,337 | **CRITICAL** | May 1, 2026 |
+| [001-13] BD Pipeline | Internal | $2.3M+ (pipeline) | Active | Q2 2026 |
 
 ---
 
-## Risk Areas
+## Critical Risk Areas
 
-1. **USGS Deployment Delay** – Chile project pushed to Fall 2026 (originally April 2026); confirm revised timeline impact
-2. **EMASS Final Validation** – Two critical validation flights due ~May 1; Dan Prendergast allocated to both; tight schedule
-3. **Proposal Pipeline Concentration** – $5.2M pending across 6 proposals; success rate and timing critical to revenue
-4. **NASA Contact Update** – Isaac Anderson contact outdated; recommend immediate switchover to Randy Hobbs/Will Wade
-5. **Purchasing Queue Surge** – 12 open tasks (doubled from 6); supply chain risk if orders delayed
-6. **S0 VTOL Timeline** – Multiple bench/flight tests through June 2026; resource-intensive phase ahead
+### **IMMEDIATE (Next 30 Days)**
+1. **EMASS Chip Integration [044-1]** – Final validation through May 4; Validation Flight #1 completed on-time (Apr 25)
+2. **ByLight M2/Halo [043-3]** – All 4 CAD tasks due May 1 (29 days early); bottleneck: single resource (Ethan Domagala) managing entire workload
+3. **Barbados VTOL [005-1]** – S0 delivery due May 1; original Oct 2024 deadline already passed
+
+### **URGENT (May–June 2026)**
+4. **UMES S3 [031-1]** – Executive priority per Jack Elston; S3 delivery due May 11, training July 23–25; $75K funding expires May 31
+5. **NOAA Hurricane [300-3]** – Hardware development in critical path; 3 of 6 invoices completed; project launch Jul 31
+6. **NASA S2 [212-2]** – Contact field outdated (Isaac Anderson moved on); requires immediate update to Randy Hobbs or Will Wade
+
+### **Data Integrity Issues**
+- **BD Pipeline [001-13]** – Asana shows only 1 open task, contradicts prior tracking; requires reconciliation
+- **Navy SBIR Magnetometer [550-1]** – Dollar value and timeline incomplete
+- **Customer Support [001-12]** – Summary truncated; May 2026 design freeze mentioned but status unclear
 
 ---
 
 ## Team Allocation Patterns
 
-- **Dan Prendergast:** EMASS validation (critical path, 2 flights in May)
-- **Alex Lomis:** S0 VTOL IRAD (owner, whole-team project); ByLight CAD/design
-- **Beck Cotter:** Proposals (owner, 6 active proposals)
-- **Meredith O'hara Needham:** HR/Accounting operational tasks
-- **Whole Team:** S0 VTOL IRAD, Proposals (cross-functional allocation)
+- **Alex Lomis:** S0 VTOL IRAD (2 tasks), ByLight M2/Halo
+- **Dan Prendergast:** Flight Testing validation, DevX Autonomy proposal
+- **Ethan Domagala:** ByLight M2/Halo CAD (bottleneck – 4 tasks, single resource)
+- **Meredith O'hara Needham:** Accounting/HR (3 tasks)
+- **Beck Cotter:** Genesis Mission DOE proposal
+- **Jack Elston:** Executive oversight (UMES S3 priority direction)
+- **Purchasing/Support Teams:** Distributed across 13+ operational tasks; 2 orders shipped
 
 ---
 
-## Upcoming Deadlines (Next 60 Days)
+## Upcoming Deadlines (Priority Order)
 
-- **April 29–May 1, 2026** – Purchasing orders due; EMASS Validation Flights #2–#3
-- **April 30, 2026** – S0 VTOL Visual Observation Bench Test
-- **May 15, 2026** – S0 VTOL Instrumented Bench Test
-- **May 4, 2026** – EMASS final validation/reporting window closes
+| Date | Project | Milestone |
+|------|---------|-----------|
+| May 1, 2026 | [043-3] ByLight CAD | All 4 tasks due |
+| May 1, 2026 | [005-1] Barbados | S0 VTOL delivery |
+| May 4, 2026 | [044-1] EMASS | Final validation completion |
+| May 11, 2026 | [031-1] UMES S3 | S3 delivery to client |
+| May 31, 2026 | [031-1] UMES S3 | Funding expires |
+| Jul 31, 2026 | [300-3] NOAA | Project launch/completion |
 
 ---
 
-## Recommendation
+## Recommendations
 
-Prioritize EMASS validation flight execution (critical customer deliverable) and confirm USGS Chile revised Fall 2026 timeline with stakeholders. Monitor proposal pipeline closely; validate funding assumptions for top-tier opportunities (NAWCAD $1.53M, DoD SBIR/STTR).
+1. **Resolve ByLight bottleneck:** Redistribute Ethan Domagala's CAD workload or defer non-critical tasks
+2. **Update NASA contact info:** Replace outdated Isaac Anderson reference
+3. **Reconcile BD Pipeline data:** Clarify discrepancy between Asana and prior tracking
+4. **Confirm Navy SBIR scope:** Obtain complete timeline and budget documentation
+5. **Monitor UMES/Barbados in parallel:** Two critical May deadlines require coordinated resource planning

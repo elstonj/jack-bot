@@ -6,7 +6,7 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 
 **Key Participants:** Maciej (lead flight testing/analysis), Jack Elston (firmware development), Joshua Fromm (QA/component sourcing), Ben Busby (tablet/GCS software), Nate (videography/pilot), Alex Lomis (field operations/media/pilot), Sam Hild (Remote ID integration/test pilot), Dan Prendergast (autopilot/control systems/operations), Danny Troke (data management), Ethan Domagala (pilot), Beck Cotter (operations support), Paige Smith (media/video curation), Sunny Slope Sod Farm (external airspace contact), Chris & Kevin (external clients/stakeholders), Christoph & Angie (internal stakeholders)
 
-**Activity Level:** Extremely high — 5,600+ messages across June 2020 through April 2026. Daily operations with multiple aircraft flights, rapid issue turnaround, continuous firmware iterations, and intensive VTOL transition testing. Recent activity (April 2026) shows intensive multi-aircraft testing cycles with frequent coordination requirements. Latest activity (April 28-29, 2026) documents post-S3-MASS first full flight analysis, concurrent S1-22 landing profile optimization, E-MASS controller binary testing preparations, and coordinated multi-aircraft flight planning.
+**Activity Level:** Extremely high — 5,600+ messages across June 2020 through April 2026. Daily operations with multiple aircraft flights, rapid issue turnaround, continuous firmware iterations, and intensive VTOL transition testing. Recent activity (April 2026) shows intensive multi-aircraft testing cycles with frequent coordination requirements. Latest activity (April 29-30, 2026) documents S1-22 pitch fix flight testing, Remote ID (RID) firmware updates, and concurrent ADS-B transmission improvements.
 
 ---
 
@@ -28,6 +28,7 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 - **April 27, 2026:** S3-MASS approved for first full autonomous flight after successful hover tests; motor_out_yaw branch deferred from S3_mass_model (integral gain tuning concerns and motor failure mitigation strategy requires further development; rudder damping gains require aircraft-specific tuning vs. S0 baseline)
 - **April 28, 2026:** S3-MASS successful first full autonomous flight completed; S1-22 landing profile optimization scheduled for concurrent testing to inform S3 future flights
 - **April 29, 2026:** S3 prioritized for continued tuning flights with S10022 and S-MASS as lower priority backup options; S3 requires Jack Elston and Alex Lomis availability for mission success; E-MASS controller binary expected from external team around noon with afternoon E2 testing contingent on simulation validation passing
+- **April 30, 2026:** S1-22 pitch fix flight testing approved; takeoff pitch trim adjusted to 5 and 10 degrees for evaluation; Remote ID (RID) update scheduled for S3-MASS testing pending firmware readiness
 
 ### Firmware & Code Management
 - **October 2020:** Angle-to-rate loop gains critical safety parameter — develop (8,8,3) vs. master (4,4,1.5) discrepancy required close monitoring
@@ -49,10 +50,8 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
   - No firmware updates required for S10022 or S3-MASS over weekend (Jack Elston confirmed motor_out_yaw branch not relevant to VTOL testing)
   - Joshua Fromm set S1-22 motor volts limit starting voltage to 0V (no other settings changed)
 - **April 29, 2026:** E-MASS external controller team developing new controller binary; delivery expected around noon with simulation testing required before E2 flight testing in afternoon
-
-### Safety & Flight Operations
-- **February 2021:** RC field hours moved to 9:30 AM start (from 10 AM)
-- **July 2024:** For non-production test aircraft, mandated short manual hover on first flight of day to catch critical issues quickly
-- **March 2025:** Fleet maintenance system reinstated using Asana project tracking per-aircraft repairs/inspections
-- **April 2026:** Dead IMU (Z-axis gyro) on S10021 identified as critical grounding condition; aircraft should not fly without functional yaw gyro reporting; lost motor events on S1-VTOL during transition require investigation before subsequent flights
-- **April 20, 2026:** S1-22 pre-flight checklist formalized: (1) Manual hover with GPS PDOP <3 verification; (2) Joystick
+- **April 30, 2026:** 
+  - Sam Hild identified Remote ID (RID) firmware issue requiring minor autopilot change; Jack Elston implemented fix and deployed to develop branch within minutes (pushed with additional ADS-B transmission checks)
+  - Jack Elston pushed Remote ID firmware fix to develop branch (13:32); Maciej confirmed S1-22 pitch fix flight test successful with 5 and 10 degree takeoff pitch trials and committed to merging pitch fix branch into develop
+  - Sam Hild offered rapid validation testing on "MM" aircraft (likely multirotor test platform)
+  - Jack Elston identified

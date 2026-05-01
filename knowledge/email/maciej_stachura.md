@@ -1,80 +1,71 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 72 (38 from previous scan + 34 new distinct)
-- **Date range:** 25 Apr 2026 – 30 Apr 2026
-- **Volume:** High sustained traffic; continued heavy clustering (29–30 Apr 2026); mix of strategic coordination, legal/employment engagement, technical project updates, and multi-party negotiations
+- **Total messages scanned:** 95 (72 from previous scan + 23 new distinct)
+- **Date range:** 25 Apr 2026 – 01 May 2026
+- **Volume:** Sustained high traffic continuing into early May; 30 Apr 2026 remains peak activity day (16+ new messages); mix of strategic coordination, legal/employment finalization, technical project updates, multi-party negotiations, and emerging academic partnerships
 
 ## Key Correspondents
 
 ### Internal (Black Swift Technologies)
-- **Jack Elston** (elstonj@blackswifttech.com) — Primary strategic coordinator; continued high frequency on Atmolab, S3 Flights, Navy collaboration, XPONENTIAL, employment agreement coordination (KO Firm legal), Krateo Sky negotiations (Boulder Visit), Genesis Mission (Brookhaven), M2 update, Mexico project
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical correspondent; Flight Testing, Atmolab Camera coordination (with C-Astral/Atmolab), Mexico project (USGS), S3 Flights, RFI S0
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — Technical/project coordination; Genesis Phase I Technical Narrative (Brookhaven Lab), M2 update (with ByLight), Navy collaboration, Arctic Demo Days
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — Included in S3 Flights and M2 update coordination
-- **Nathaniel Straus** (nate.straus@blackswifttech.com) — **NEW CONTACT**: Aircraft demo coordination with University of Colorado (Michael Rhodes); marked IMPORTANT; flight testing/demo operations
+- **Jack Elston** (elstonj@blackswifttech.com) — **Sustained primary coordinator**; continues high frequency on Krateo Sky Boulder Visit, Employment Agreement (KO Firm legal coordination), Genesis/BNL proposal, S3 Flights, Navy collaboration, Atmolab Camera System, RFI S0, MHP data alignment (Stanford)
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Sustained technical correspondent**; continued on S3 Flights, Krateo Sky Atmolab Camera discussions, C-UAS/Drone-to-Drone technical (CoVar), RFI S0
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — **ELEVATED ROLE**: Now primary lead on Genesis/BNL proposal (Gijs de Boer, Nathan Urban, Fernando Llorente); S3 updates to USGS partners (Christoph Kern, A. Diefenbach); University of Colorado S3 coordination (Kevin Rozmiarek); Navy unmanned test platform (Madelyn Mettler, Montana); marked IMPORTANT consistently
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — Referenced in earlier data; no new messages in this batch
+- **Nathaniel Straus** (nate.straus@blackswifttech.com) — Referenced in earlier data; no new messages in this batch
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — **NEW/VISIBLE CONTACT**: Supply chain/procurement coordination; Rock West Composites, Clearwater Composites orders; marked IMPORTANT
 
 ### External (Strategic/Technical Partners)
-- **Krateo Sky:**
-  - Lisa Marie Cheney (LisaMarie@krateosky.com) — **ESCALATING ENGAGEMENT**: Boulder Visit coordination (29–30 Apr, marked IMPORTANT); S3 Flights discussion; multiple rapid exchanges with Jack, Daniel, Maciej; suggests in-person strategic meeting or integration phase
-  - Bob Smith (Bob@krateosky.com) — Boulder Visit participant; marked IMPORTANT
-  - Sona Raziabeegum (sona@krateosky.com) — "Checking In" conversation with Jack and Maciej (29 Apr, marked IMPORTANT); new/emerging contact
-  - Adria Passola (a@krateosky.com) — S3 Flights coordination
-  
-- **C-Astral & Atmolab (Payload Integration):**
-  - Nejc Trost (nejc.trost@c-astral.com) — Atmolab Camera System; continued high-frequency technical coordination (29 Apr); marked IMPORTANT
-  - Jure Dolinar (jure.dolinar@atmolab.eu) — Atmolab Camera System technical discussion; Jošt Laznik also present
-  - Jošt Laznik (jost.laznik@atmolab.eu) — Atmolab Camera System discussion
 
-- **Brookhaven National Laboratory (BNL):**
-  - Gijs de Boer (gdeboer@bnl.gov) — **NEW PROJECT**: Genesis Phase I Technical Narrative; marked IMPORTANT; multi-party with Fernando Llorente, Kenneth Koebel; suggests major research grant or DoE collaboration
-  - Fernando Jose Llorente (fllorente@bnl.gov) — Genesis Phase I coordination; active Google Docs collaboration on abstract
-  - Kenneth Koebel (kkoebel@bnl.gov) — Genesis Phase I participant
+**Krateo Sky — CRITICAL ONGOING ENGAGEMENT:**
+- **Lisa Marie Cheney** (LisaMarie@krateosky.com) — **Direct escalation with Maciej**: Boulder Visit follow-up (30 Apr 06:59 UTC, marked IMPORTANT); Atmolab Camera System discussion (30 Apr 19:10 & 19:16 UTC, marked IMPORTANT); multiple rapid exchanges suggest post-meeting coordination or integration planning
+- **Bob Smith** (Bob@krateosky.com) — RFI S0 discussion with Maciej (30 Apr 06:58 UTC, marked SENT); Daniel Prendergast also involved; marked IMPORTANT
+- Adria Passola, Sona Raziabeegum — Referenced in earlier data; no new messages
 
-- **University of Colorado Boulder:**
-  - Michael Rhodes (michael.e.rhodes@colorado.edu) — **NEW RELATIONSHIP**: "Use of aircraft in demo" coordination; marked IMPORTANT; multi-exchange with Nathaniel Straus; suggests demonstration or operational test
+**Brookhaven National Laboratory (BNL) — MAJOR PROJECT ESCALATION:**
+- **Gijs de Boer** (gdeboer@bnl.gov) — **Genesis UAS-AI Proposal**: Beck Cotter leading multi-party proposal coordination (30 Apr 14:59 UTC); includes Maciej, Jack Elston; marked IMPORTANT; proposal appears in advanced coordination phase
+- **Fernando Jose Llorente** (fllorente@bnl.gov) — Genesis proposal active contributor
+- **Nathan Urban** (nurban@bnl.gov) — **NEW CONTACT**: Genesis proposal participant
+- **Gijs de Boer** (follow-up) — Responding to Genesis proposal status (30 Apr 21:15 UTC, marked IMPORTANT)
 
-- **USGS:**
-  - Christoph Kern (ckern@usgs.gov) — **NEW PROJECT**: Mexico project; marked IMPORTANT; multi-party with Daniel Prendergast, Jack, Maciej; suggests field operations or research partnership
+**University of Colorado / Academic Partners:**
+- **Kevin Rozmiarek** (kevin.rozmiarek@colorado.edu) — **NEW/EMERGING**: S3 project coordination with Beck Cotter (30 Apr 16:18 UTC, marked IMPORTANT); suggests CU as academic partner or field site
+- **Tanay Topac** (tanaytopac@stanford.edu) — **NEW PROJECT**: "MHP data alignment" discussion with Jack (30 Apr 15:36 UTC, marked IMPORTANT); suggests research collaboration or data management task
 
-- **ByLight (Subcontractor/Partner):**
-  - Bryan Sparling (bryan.sparling@bylight.com) — M2 update; marked IMPORTANT; included with Beck, Jack, Maciej, Ethan Domagala (BST)
+**US Navy / Defense Partners:**
+- **Madelyn Mettler** (MadelynMettler@montana.edu) — **Sustained activity**: Unmanned test platform collaboration with US Navy; multiple exchanges with Beck Cotter and Jack Elston (30 Apr, marked IMPORTANT); suggests Montana-based operations or testing
 
-- **KO Firm (Legal/Employment):**
-  - Ryan Sykora (rsykora@kofirm.com) — **CRITICAL NEW ACTIVITY**: Black Swift Employment Agreement; "Checking in" conversation (29–30 Apr, marked IMPORTANT); multiple rapid exchanges; suggests ongoing legal/employment negotiation or agreement finalization
-  - Nadia Bryan (nbryan@kofirm.com) — Employment Agreement coordination; marked IMPORTANT
-  - Niki Schwab (nschwab@kofirm.com) — Employment Agreement; marked IMPORTANT; direct correspondence with Jack, Maciej
-  - Dan Fredrickson (dfredrickson@kofirm.com) — Employment Agreement participant
+**USGS — Sustained Engagement:**
+- **Christoph Kern** (ckern@usgs.gov) — S3 update from Beck Cotter (30 Apr 16:31 UTC, marked IMPORTANT); continued Mexico project coordination
+- **A. Diefenbach** (adiefenbach@usgs.gov) — **NEW CONTACT**: S3 update coordination with Kern
 
-### External (Automated/Procurement)
-- **High-Tech Battery Solutions Inc** (sales@techbatterysolutions.com) — Solicitation email to purchasing@ (30 Apr)
+**CoVar (Defense Contractor):**
+- **Nathan Varberg** (nvarberg@covar.com) — **NEW PROJECT**: C-UAS / Drone-to-Drone technical discussion (30 Apr 17:13 UTC, marked IMPORTANT); Pete Torrione also involved; Daniel Prendergast as BST point of contact; suggests counter-UAS capability exploration or partnership inquiry
+
+**C-Astral / Atmolab — Payload Integration Continues:**
+- Nejc Trost (nejc.trost@c-astral.com) — Referenced in earlier data; Atmolab Camera System discussion with Krateo Sky now visible (Lisa Marie Cheney forwarding/coordinating); suggests multi-party integration milestone
+
+**KO Firm (Legal/Employment) — CRITICAL ACTIVITY CONTINUES:**
+- **Nadia Bryan** (nbryan@kofirm.com) — **TWO TRACKS NOW VISIBLE**: 
+  - "Checking in" / Employment Agreement (with Jack and Maciej, 30 Apr 08:35–19:50 UTC, marked IMPORTANT; rapid exchanges suggest document review or signature cycle)
+  - "Black Swift - Operating Agreement" (30 Apr 16:08 UTC, marked UNREAD, with Ryan Sykora, Jack, Maciej); **NEW AGREEMENT TYPE** — suggests corporate structure/entity reorganization in addition to employment terms
+- **Ryan Sykora** (rsykora@kofirm.com) — Operating Agreement coordination; continued high engagement
+- **Niki Schwab**, **Dan Fredrickson** — Referenced in earlier data; no new messages in this batch
+
+### External (Supply Chain / Procurement)
+- **Rock West Composites** (Sage Rawlings, sage.rawlings@1rockwest.com) — Joshua Fromm coordinating order #Z100698536 (30 Apr 15:00 UTC, marked IMPORTANT); OUT OF STOCK status suggests critical component procurement
+- **Clearwater Composites** (Sales@clearwatercomposites.com) — Joshua Fromm coordinating order #14814 (30 Apr 11:26 UTC); ongoing composite material supply
+- **Spindrift Customer Support** (shop@drinkspindrift.com) — Subscription order notification (01 May 04:02 UTC, to purchasing@); automated/low-priority
+- **EAA 648** (info@eaa648.org) — Longmont Fly In booth registration (30 Apr 19:00 UTC, to [unspecified]); **possible promotional/events presence**
 
 ## Topic Patterns
 
-### Active/Escalating Projects (Updated)
+### Active/Escalating Projects (UPDATED)
 
-- **S3 Flights** — **NEW/ESCALATING**: Jack Elston coordinating multi-party discussion with Krateo Sky (Lisa, Bob, Adria, Brian), Beck Cotter, Meredith, Daniel, Maciej (29 Apr, marked IMPORTANT); suggests new flight campaign phase or upcoming demonstrations
+**Genesis Phase I / BNL UAS-AI Proposal — MAJOR ESCALATION:**
+- Beck Cotter now primary lead on "Black Swift/BNL Genesis UAS-AI Proposal" (30 Apr 14:59 UTC, marked IMPORTANT)
+- Multi-party coordination: Gijs de Boer, Nathan Urban, Fernando Llorente (BNL), Jack Elston, Maciej Stachura
+- Follow-up response from Gijs de Boer (30 Apr 21:15 UTC, marked IMPORTANT)
+- **Implication:** Proposal in active final coordination/submission phase; likely NSF, DOE, or DARPA funding cycle
 
-- **Krateo Sky / Boulder Visit** — **CRITICAL ESCALATION**: In-person strategic meeting coordination (29–30 Apr); Maciej initiated direct contact with Lisa Marie Cheney and Bob Smith; Jack, Daniel also involved; multiple marked IMPORTANT exchanges suggest partnership negotiation, integration planning, or operational handoff
-
-- **Genesis Phase I (Brookhaven National Laboratory)** — **NEW MAJOR PROJECT**: Beck Cotter leading technical narrative development; collaborative Google Docs with Fernando Llorente (BNL); Gijs de Boer, Kenneth Koebel, Jošt Laznik also involved (29 Apr); marked IMPORTANT; suggests DOE, NSF, or major research funding proposal/phase delivery
-
-- **Atmolab Camera System Integration** — **SUSTAINED ACTIVITY**: Payload integration advancing; technical discussion between C-Astral (Nejc), Atmolab (Jure, Jošt), Daniel Prendergast (29 Apr, marked IMPORTANT); Jack Elston's continued coordination suggests system delivery or integration milestone
-
-- **Mexico Project (USGS)** — **NEW PROJECT**: Christoph Kern (USGS) initiating multi-party discussion with Daniel, Maciej, Jack (29 Apr, marked IMPORTANT); field operations or research mission implied
-
-- **M2 Update** — Beck Cotter coordinating with ByLight (Bryan Sparling), Jack, Ethan Domagala, Maciej (29 Apr, marked IMPORTANT); suggests project status milestone or technical update
-
-- **Aircraft Demo / University of Colorado** — **NEW OPERATIONAL ACTIVITY**: Michael Rhodes (CU) coordinating "Use of aircraft in demo"; Nathaniel Straus (BST) as primary contact; marked IMPORTANT; multiple exchanges 29 Apr; suggests upcoming demonstration or validation flight
-
-- **RFI S0 / SOCOM / AFRC** — Continued (referenced in earlier scan); no new escalation visible in new data
-
-- **Navy Unmanned Test Platform Collaboration** — Continued from earlier scan; no new messages visible in new data
-
-### Legal/Employment Activity
-- **Black Swift Employment Agreement** — **CRITICAL NEW ACTIVITY**: KO Firm (legal) coordinating employment agreement with Maciej and Jack (29–30 Apr); multiple marked IMPORTANT emails; Ryan Sykora, Nadia Bryan, Niki Schwab, Dan Fredrickson all engaged; "Checking in" language suggests ongoing negotiation or document review cycle; **possible equity, executive, or senior hire agreement**
-
-## Communication Patterns
-
-- **Temporal clustering:** Sustained high activity 29–30 Apr 2026 (20+ messages); concentrated between 09:40–20:51 UTC, with priority around mid-day strategic discussions and evening follow-ups
-- **Multi-party coordination style:**
+**Krateo Sky

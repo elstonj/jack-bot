@@ -4,16 +4,13 @@
     "[043-3] By Light Halo"
   ],
   "period": {
-    "start": "2026-04-29",
-    "end": "2026-04-30"
+    "start": "2026-04-30",
+    "end": "2026-05-01"
   },
   "totals": {
     "revenue": 111629.0,
-    "expenses": 352.93,
-    "by_category": {
-      "DIRECT COSTS:DC-Direct Cost Purchases": 310.99,
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 41.94
-    }
+    "expenses": 0.0,
+    "by_category": {}
   },
   "invoices": [
     {
@@ -64,49 +61,7 @@
     }
   ],
   "bills": [],
-  "purchases": [
-    {
-      "type": "Purchase",
-      "date": "2026-04-29",
-      "doc_number": "174005",
-      "total": 240.0,
-      "attributed": 240.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 240.0,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
-          "description": "Braided Carbon Fiber Hexagonal Tubing ~ 0.75\" ID x 48\"\nSKU: FDPBT-H*.75x48G"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-04-29",
-      "doc_number": "64090547",
-      "total": 179.64,
-      "attributed": 112.93,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request. Josh placed the order directly. See project listed under each item purchased",
-      "lines": [
-        {
-          "amount": 66.71,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "S3 items"
-        },
-        {
-          "amount": 112.93,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
-          "description": "By Light items"
-        }
-      ]
-    }
-  ],
+  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

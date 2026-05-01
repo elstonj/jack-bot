@@ -6,9 +6,9 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 **Key Participants:** Jack Elston (primary decision-maker), Maciej (technical/proposal support), Meredith Needham (budget/administrative), Dan Prendergast (proposal coordination), Beck Cotter (program management), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm, Paige Smith (presentation/logistics support), Arthur (technical partner for payload work), and others contributing to specific proposals.
 
-**Activity Level:** High throughout the period (March 2024 - April 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Most recent activity (April 28-29, 2026) continues at peak intensity with multiple concurrent NASA, DOD, and DOE submissions in active coordination and finalization phases. Significant logistics and visitor coordination alongside proposal work.
+**Activity Level:** High throughout the period (March 2024 - April 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Most recent activity (April 28-30, 2026) demonstrates peak intensity with multiple concurrent NASA, DOD, and DOE submissions in final coordination and submission phases. Significant external partnerships and customer engagement alongside proposal work.
 
-**Time Range:** March 3, 2024 - April 29, 2026
+**Time Range:** March 3, 2024 - April 30, 2026
 
 ---
 
@@ -49,13 +49,16 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 - **Leadership continuity with partners** (April 2026): Confirmed BST comfortable taking lead role on unnamed initiative; scope discussions planned.
 
-- **NASA RFI submission strategy** (April 2026, refined April 17): Decided to submit multiple proposals (3-4) to NASA RFI due May 7:
-  1. S0 with stratospheric balloon integration (under Aeronautics Flight Accelerator)
-  2. S3 Nomad (revolutionary tech: Energy Autonomy, Environmental Hardening, Edge-AI Navigation, UTM in remote areas)
-  3. Autonomy/Avionics proposal
-  4. Potential fourth: 24-hour fire surveillance with S2 and NightFOX sensor
-  - **April 17 decision:** Jack Elston requested exhaustive list of all proposal possibilities based on previous and current projects to ensure nothing is missed in RFI response
+- **NASA RFI submission strategy** (April 2026, refined through April 30):
+  - **April 17 decision:** Jack Elston requested exhaustive list of all proposal possibilities based on previous and current projects
+  - **April 30 final decision:** Decided to submit **4 RFIs** (not 3) due to May 7 deadline:
+    1. S0 with stratospheric balloon integration (under Aeronautics Flight Accelerator)
+    2. S3 Nomad (revolutionary tech: Energy Autonomy, Environmental Hardening, Edge-AI Navigation, UTM in remote areas)
+    3. Autonomy/Avionics proposal
+    4. 24-hour fire surveillance with S2 and NightFOX sensor (includes Albatross concept integration)
+  - **April 30:** Jack Elston decided against combining Albatross concept with S3 Nomad; proceeded with separate 24-hour fire surveillance RFI instead to avoid overwhelming reviewers with 5+ proposals
   - Strategy: Draw from existing proposals (white papers, Phase II submissions, SBIR reports) to accelerate drafting using Google Notebook LM
+  - **April 30:** Jack Elston requested expedited submission of all 4 RFIs same day if feasible
 
 - **Navy S0-AD with ATR proposal** (April 16, 2026): Approved for submission with updated BAA number; white paper reviewed and cleared for weekend submission.
 
@@ -69,12 +72,11 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 - **NASA 2026B SBIR focus** (April 21, 2026): Maciej confirmed only 2026B SBIR release contains non-space topics with BST fit (other releases space-focused)
 
-- **DOE Genesis Proposal timeline** (April 22, 2026): 
-  - Beck Cotter raised concern about lead/subcontractor arrangement change requiring renegotiation in short timeframe
-  - Due date: April 28, 2026 (potentially may move to May 1)
-  - Budget package expected from BNL partner within 1-2 days; narrative and summary documentation in progress
-  - **April 23 status:** Beck Cotter confirmed receipt of all required documents from Gijs (BNL partner); proposal package complete and ready for finalization
-  - **April 27 status:** Genesis DOE proposal due Friday (April 28, 2026); nearly complete and ready for submission
+- **DOE Genesis Proposal finalization** (April 22-30, 2026): 
+  - **April 22:** Beck Cotter raised concern about lead/subcontractor arrangement change requiring renegotiation in short timeframe; due date April 28, 2026 (potentially May 1)
+  - **April 23:** Beck Cotter confirmed receipt of all required documents from Gijs (BNL partner); proposal package complete
+  - **April 27:** Genesis proposal nearly complete and ready for submission
+  - **April 30 SUBMITTED:** DOE Genesis Mission proposal successfully submitted with 629K total budget (293K subcontract to BNL), Period of Performance starts 7/1/2026
 
 - **NASA deadlines coordination** (April 27, 2026): Clarified multiple concurrent NASA deadlines and staggered submission approach:
   - NASA Aero RFI Responses and SaaS responses: **Due May 7**
@@ -82,8 +84,4 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
   - NASA Phase I: **Due May 21**
   - DoD submissions (2025.4 cycle): **Due May 13**
   - DoD submissions (2026 cycle): **Due June 3**
-  - Maciej suggested staggered deadlines for 3-4 NASA RFIs to avoid scrambling at deadline
-
-- **DoD solicitation review** (April 27, 2026): Dan Prendergast curating comprehensive list of DoD solicitations for team review on April 28; most due dates pushed to June (only one with May 13/15 deadline). Clarified that bot missed several that needed manual addition.
-
-- **NASA Phase
+  - Maciej suggested staggered deadlines for 

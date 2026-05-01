@@ -13,6 +13,7 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Time-Off Management Centralization** (March 2024): Requires advance notice via Rippling; one day needs one business day notice, multi-day requires one week advance approval
 - **IT Security Policy** (March 2024): No BST data on personal computers except cleared/assigned laptops; password manager required for all passwords; specific approved cloud software list
 - **DoD S0-AD Customer Engagement** (April 27, 2026): Two DoD groups (SOCOM and 53rd Weather Squadron) visiting Friday for full-day working discussion to define mission requirements and S0 modifications needed. 7 customer reps and 2 KrateoSky Business Dev reps attending. Coffee/bagels and hardware displays planned; no banners.
+- **April 30, 2026 Preparation for Customer Presentation**: Aircraft setup required in shop before 9am on May 1, 2026 for display purposes (likely continuation of DoD S0-AD engagement follow-up).
 
 ### Funding & Awards
 - **NASA Phase I Award** (May 26, 2021): Contract awarded for S2 all-weather capable platform development with solar integration and VTOL S2 for remote autonomous landing
@@ -49,7 +50,7 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - RID (Remote ID) integration being tested on aircraft; CAN bus issue encountered (Feb 27, 2025)
 - Hover and battery testing planned
 - Transition simulator development underway
-- **S0-AD Variant**: DoD customer development track (SOCOM and 53rd Weather Squadron) starting April 2026; mission requirements under definition; interests include real-time tactical weather observation, weather prediction, EO/IR, and SIGINT capabilities
+- **S0-AD Variant**: DoD customer development track (SOCOM and 53rd Weather Squadron) starting April 2026; mission requirements under definition; interests include real-time tactical weather observation, weather prediction, EO/IR, and SIGINT capabilities; aircraft preparation for display at customer engagement (April 30, 2026)
 
 **S1 Aircraft**
 - S1-VTOL battery testing planned (November 26, 2024)
@@ -78,12 +79,4 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - Two E2 aircraft (E20006, E20007) ready for NREL deployment (Sept 11, 2020)
 - E20007 on storage charge but operational for low hover test
 - Battery specifications: weight 4.10kg, max power 2200W, nominal 1550W
-- Handset binding required; QC not completed initially
-
-### Payload and Sensing Systems
-
-**MHP (Mobile Hydro Platform/Multi-purpose Hardware)**
-- Value: $1327.76 (2021)
-- EAR99 classification
-- Allocation discussed: Kay Rufty has older model for AREN project
-- 4 units
+- Handset binding required; QC not

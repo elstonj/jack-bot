@@ -4,12 +4,12 @@
 - Client: [001] IRAD (Internal Research and Development)
 - Active/inactive status: Active
 - Billable status: Non-billable
-- Total hours tracked: 784.7 hours
+- Total hours tracked: 786.2 hours
 
 ## Team Allocation
-- Ben Busby: 588.6 hours (74.9% - Primary contributor)
+- Ben Busby: 588.6 hours (74.8% - Primary contributor)
 - Stachura: 185.4 hours (23.6%)
-- Jack Elston: 10.7 hours (1.4%)
+- Jack Elston: 12.2 hours (1.6%)
 
 ## Activity Timeline
 Recent work shows ongoing development with focus on:
@@ -20,20 +20,21 @@ Recent work shows ongoing development with focus on:
   - UI improvements (cruise/hover speed separation, climbout height warnings)
   - Bug fixes and tablet interface issues
   - "Orbit Here" command enhancements
-- **Jack Elston**: Code review work (2.2h recent entry); expanded involvement with simulator debugging and code reviews
+- **Jack Elston**: Expanded involvement with code review work and avionics integration; latest entry includes RID and ADSB fixes (1.5h)
 
 ## Insights
 - **Primary work types**:
   - VTOL (Vertical Takeoff and Landing) system development
   - Gazebo simulation modeling for E2 platform
   - Flight control interface improvements
+  - Avionics system fixes (RID - Remote ID, ADSB - Automatic Dependent Surveillance-Broadcast)
   - Bug fixes and testing
   - Mixer code development
   - Code review activities
 - **Notable patterns**:
   - Ben Busby continues to carry majority of development load with minimal task descriptions
   - Stachura focuses on specific features and provides detailed work descriptions
-  - Jack Elston's role expanding slightly with more code review contributions
+  - Jack Elston's role expanding with more specialized avionics/integration work alongside code reviews
   - Work appears to be in active development phase with frequent bug fixes and feature additions
-  - Strong emphasis on VTOL capabilities and simulation accuracy
+  - Strong emphasis on VTOL capabilities, simulation accuracy, and avionics integration
 - **Documentation gap**: 75%+ of Ben Busby's entries lack descriptions, making it difficult to track specific contributions

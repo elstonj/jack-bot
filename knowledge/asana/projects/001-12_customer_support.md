@@ -20,13 +20,12 @@
 - **CU-IRISS NSF MUSAS certification** — Contingent on completion of S2 training flight; Brian Argrow (CU-IRISS) to update website post-training
 
 ## Task Summary
-- **Total tasks in Asana:** 2 open, 0 completed
+- **Total tasks in Asana:** 1 open, 0 completed
 - **Current assignees:**
-  - Nate Straus: 2 open tasks
-    - CU IRISS (S2 and training) — No due date; details include repair return and training flight scheduling
+  - Nate Straus: 1 open task
     - CU IRISS update/repair S2 — Due 2026-05-01 (completion target)
 - **Notable patterns:**
-  - Only 2 tasks visible in Asana despite active multi-client operations
+  - Only 1 task visible in Asana despite active multi-client operations
   - **Missing from Asana (per Maciej Stachura, 2026-04-24 — authoritative):**
     - S3 design tasks (battery, case, other components) — likely Josh Fromm; due by end of May 2026
     - S3 build phase major tasks — owner to be confirmed; scope and timeline to be defined
@@ -53,4 +52,4 @@
 - **Brian Argrow (CU-IRISS)** — Customer contact (brian.argrow@colorado.edu); awaiting S2 training flight and NSF MUSAS certification update
 - **Jack Elston, Meredith O'hara Needham** — Team members (roles TBD in available data)
 
-**Status note:** Asana reflects only 2 tasks despite active multi-client operations and urgent S3 first customer build. S3 design and build work is active but not yet formally captured in task system. **Recommend immediate sync meeting with Josh Fromm and identified S3 build owner to formalize design and build task structure.**
+**Status note:** Asana reflects only 1 task despite active multi-client operations and urgent S3 first customer build. S3 design and build work is active but not yet formally captured in task system. **Recommend immediate sync meeting with Josh Fromm and identified S3 build owner to formalize design and build task structure.**

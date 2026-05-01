@@ -13,7 +13,7 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Sergio Ruocco (eMASS AI) - Autoboot firmware expert, SDK bring-up and troubleshooting
 - Shantanu (eMASS AI) - Hardware verification and validation
 
-**Activity Level:** Highly active collaboration spanning February-April 2026. Intensive HWIL and model training in March-April. Most recent activity (Apr 27-29, 2026) focused on post-first-flight debugging, PWM value discrepancies, AI model refinement, and preparation for next flight test. Critical first-flight test completed on Apr 24, 2026.
+**Activity Level:** Highly active collaboration spanning February-April 2026. Intensive HWIL and model training in March-April. Most recent activity (Apr 30, 2026) focused on post-flight controller calibration and improving AI mode flight duration. Critical first-flight test completed on Apr 24, 2026.
 
 ---
 
@@ -107,3 +107,9 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - eMASS team (Nikhila, Prof. Moe) reduced PWM actuator output rate from 75Hz to 25Hz
 - Rationale: Concern that 75Hz was too fast for stable control
 - **Decision: Test new 4% constraint model at 25Hz
+
+---
+
+## Projects & Initiatives
+
+**ECSDoT Integration
