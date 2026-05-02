@@ -1,17 +1,19 @@
 {
   "project_code": "300-3",
   "qbo_class_names": [
-    "[300-3] 2026 IDIQ"
+    "[300-3] 2026 IDIQ",
+    "[300] NOAA:[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-04-30",
-    "end": "2026-05-01"
+    "start": "2026-05-01",
+    "end": "2026-05-02"
   },
   "totals": {
     "revenue": 270000.0,
-    "expenses": 152.24,
+    "expenses": 4593.97,
     "by_category": {
-      "GENERAL & ADMINISTRATIVE:Tariff/Import Duties": 152.24
+      "DIRECT COSTS:DC-Direct Cost Purchases": 3781.47,
+      "DIRECT COSTS:DC-Direct Cost Subcontractors": 812.5
     }
   },
   "invoices": [
@@ -40,7 +42,7 @@
     },
     {
       "type": "Invoice",
-      "date": "2026-07-15",
+      "date": "2026-07-02",
       "doc_number": "1740",
       "total": 72000.0,
       "attributed": 72000.0,
@@ -63,7 +65,7 @@
     },
     {
       "type": "Invoice",
-      "date": "2026-06-15",
+      "date": "2026-07-02",
       "doc_number": "1739",
       "total": 72000.0,
       "attributed": 72000.0,
@@ -86,7 +88,7 @@
     },
     {
       "type": "Invoice",
-      "date": "2026-05-15",
+      "date": "2026-05-01",
       "doc_number": "1738",
       "total": 54000.0,
       "attributed": 54000.0,
@@ -108,37 +110,32 @@
       ]
     }
   ],
-  "bills": [],
-  "purchases": [
+  "bills": [
     {
-      "type": "Purchase",
-      "date": "2026-04-30",
-      "doc_number": "",
-      "total": 228.36,
-      "attributed": 152.24,
-      "vendor": "",
+      "type": "Bill",
+      "date": "2026-05-01",
+      "doc_number": "3912",
+      "total": 4593.97,
+      "attributed": 4593.969999999999,
+      "vendor": "MicroFirm Engineering",
       "customer": "",
-      "balance": null,
-      "memo": "Paid via paypal",
+      "balance": 4593.97,
+      "memo": "",
       "lines": [
         {
-          "amount": 152.24,
-          "account": "GENERAL & ADMINISTRATIVE:Tariff/Import Duties",
-          "description": "Duties fee for BlueBird Shipment (IDIQ)"
+          "amount": 812.5,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "Hours: 6.5 @ $125"
         },
         {
-          "amount": 30.45,
-          "account": "GENERAL & ADMINISTRATIVE:Tariff/Import Duties",
-          "description": "Duties fee for BlueBird Shipment (Sasquatch)"
-        },
-        {
-          "amount": 45.67,
-          "account": "GENERAL & ADMINISTRATIVE:Tariff/Import Duties",
-          "description": "Duties fee for BlueBird Shipment (Future sales of 6 S0s)"
+          "amount": 3781.47,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
         }
       ]
     }
   ],
+  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

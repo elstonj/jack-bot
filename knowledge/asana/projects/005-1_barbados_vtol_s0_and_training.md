@@ -8,7 +8,7 @@
   - Original project due: 2024-10-01 (**PASSED**)
   - S0 VTOL delivery/handoff due: May 1, 2026
   - Handoff meeting: June 23, 2026
-  - Training window: May 5, 2025 week (Sabu Best availability)
+  - Training window: May 5, 2025 week (Sabu Best availability for preliminary materials review)
   - Travel/training delivery: July 1–4, 2026
 - **Status:** **CRITICAL DELAY** — Original due date (Oct 2024) passed. As of late April 2026, **S0-VTOL has an active crash bug under investigation** (week of April 20, 2026); restart and flight tests in progress. **Bench test work overdue as of 2026-04-24** ("Visual Observation Bench Test"); "Instrumented Bench Test" due mid-week after 2026-04-24 (Maciej Stachura, 2026-04-24). S0 VTOL delivery blocker threatens May 1 handoff date. Operator training unassigned with no due date. Major deliverables remain open.
   - **Per Maciej Stachura (2026-04-24):** S0-VTOL is ranked #2 among top 5 BST company priorities: (1) S3 IRAD with end-of-May delivery target; (2) **S0-VTOL (two deliveries: ERAU and Barbados)**; (3) EMASS closeout; (4) By-Lite Mustang; (5) SBIR Magnetometer.
@@ -33,7 +33,7 @@
 
 ## Task Summary
 
-**Total Tasks:** 1 open (Asana); 3+ subtasks/dependencies not yet formalized in Asana
+**Total Tasks:** 1 open formal task in Asana (Barbados S0 VTOL handoff); 3+ subtasks/dependencies tracked in notes and team communications
 
 ### By Assignee
 - **Alex Lomis (Project Owner):** 
@@ -63,4 +63,4 @@
 
 ## Recent Activity
 
-- **2026-04-24 (Maciej Stachura):**
+- **2

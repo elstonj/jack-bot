@@ -1,0 +1,15 @@
+[
+  {
+    "id": "19de444d1b3521bd",
+    "is_purchase": true,
+    "status": "ordered",
+    "amount_usd": null,
+    "vendor": "Protolabs",
+    "project_code": null,
+    "project_hint": "s3",
+    "description": "CNC machining: Lower mounting bracket",
+    "notes": "Order 9102-034 received by vendor; delivery confirmation pending",
+    "date": "",
+    "subject": ""
+  }
+]

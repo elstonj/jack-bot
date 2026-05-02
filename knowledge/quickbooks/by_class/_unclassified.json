@@ -1,64 +1,153 @@
 {
   "project_code": "_unclassified",
   "qbo_class_names": [
-    ""
+    "",
+    "Black Swift Technologies:[001-22] Aeropods Commercial"
   ],
   "period": {
-    "start": "2026-04-30",
-    "end": "2026-05-01"
+    "start": "2026-05-01",
+    "end": "2026-05-02"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 3290.05,
+    "expenses": 9517.14,
     "by_category": {
-      "Inventory Asset": 3244.38,
-      "GENERAL & ADMINISTRATIVE:Tariff/Import Duties": 45.67
+      "Inventory Asset": 7513.94,
+      "DIRECT COSTS:DC-Direct Cost Subcontractors": 1990.83,
+      "RESEARCH & DEVELOPMENT": 9.74,
+      "FACILITIES:FA-Office Supplies": 2.63
     }
   },
   "invoices": [],
-  "bills": [],
+  "bills": [
+    {
+      "type": "Bill",
+      "date": "2026-05-01",
+      "doc_number": "",
+      "total": 1990.83,
+      "attributed": 1990.83,
+      "vendor": "Ted Miles",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 1990.83,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "Aeropods work (March & April 2026) 32 hours @ $62.20"
+        }
+      ]
+    }
+  ],
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-04-30",
-      "doc_number": "",
-      "total": 228.36,
-      "attributed": 45.67,
+      "date": "2026-05-01",
+      "doc_number": "2026050283273",
+      "total": 359.97,
+      "attributed": 359.97,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "Paid via paypal",
+      "memo": "For future S3 Sales",
       "lines": [
         {
-          "amount": 152.24,
-          "account": "GENERAL & ADMINISTRATIVE:Tariff/Import Duties",
-          "description": "Duties fee for BlueBird Shipment (IDIQ)"
-        },
-        {
-          "amount": 30.45,
-          "account": "GENERAL & ADMINISTRATIVE:Tariff/Import Duties",
-          "description": "Duties fee for BlueBird Shipment (Sasquatch)"
-        },
-        {
-          "amount": 45.67,
-          "account": "GENERAL & ADMINISTRATIVE:Tariff/Import Duties",
-          "description": "Duties fee for BlueBird Shipment (Future sales of 6 S0s)"
+          "amount": 359.97,
+          "account": "Inventory Asset",
+          "description": "NS20*6.2 Prop-2PCS/PAIR"
         }
       ]
     },
     {
       "type": "Purchase",
-      "date": "2026-04-30",
-      "doc_number": "68473",
-      "total": 904.32,
-      "attributed": 904.32,
+      "date": "2026-05-01",
+      "doc_number": "",
+      "total": 58.16,
+      "attributed": 12.37,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 904.32,
+          "amount": 45.79,
+          "account": "RESEARCH & DEVELOPMENT",
+          "description": ""
+        },
+        {
+          "amount": 12.37,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "Paper towels/toilet paper"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-01",
+      "doc_number": "",
+      "total": 1700.0,
+      "attributed": 1700.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "For Future S3 sales\nNo Asana request - Josh contact them directly via email",
+      "lines": [
+        {
+          "amount": 1700.0,
+          "account": "Inventory Asset",
+          "description": "SA112 x 200 (Quote #00001879) - for future S3 sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-01",
+      "doc_number": "9102-034",
+      "total": 1689.05,
+      "attributed": 1689.05,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana Request - Josh put in order directly.",
+      "lines": [
+        {
+          "amount": 1689.05,
+          "account": "Inventory Asset",
+          "description": "For upcoming sales of S3"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-01",
+      "doc_number": "4164-549",
+      "total": 2262.54,
+      "attributed": 2262.54,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana Request - Josh put in order directly.",
+      "lines": [
+        {
+          "amount": 2262.54,
+          "account": "Inventory Asset",
+          "description": "For upcoming sales of S3"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-01",
+      "doc_number": "68490",
+      "total": 1358.86,
+      "attributed": 1358.86,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 1358.86,
           "account": "Inventory Asset",
           "description": "For future S3 Sales"
         }
@@ -66,60 +155,23 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-04-30",
-      "doc_number": "SX79V088",
-      "total": 516.91,
-      "attributed": 516.91,
+      "date": "2026-05-01",
+      "doc_number": "1J585099",
+      "total": 143.52,
+      "attributed": 143.52,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 516.91,
+          "amount": 143.52,
           "account": "Inventory Asset",
-          "description": "For future sales of S3"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-04-30",
-      "doc_number": "C80812959",
-      "total": 123.15,
-      "attributed": 123.15,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "For future sales of S3",
-      "lines": [
-        {
-          "amount": 123.15,
-          "account": "Inventory Asset",
-          "description": "DEEP GROOVE BALL BEARING - for future sales of S3"
+          "description": "For future S3 sales"
         }
       ]
     }
   ],
-  "purchase_orders": [
-    {
-      "type": "PurchaseOrder",
-      "date": "2026-04-30",
-      "doc_number": "1038",
-      "total": 1700.0,
-      "attributed": 1700.0,
-      "vendor": "Amprius Technoloies",
-      "customer": "",
-      "balance": null,
-      "memo": "Ship using customer FedEx account : 341-698949341\n\nShip together with SA504 order (Quote #: 1876)",
-      "lines": [
-        {
-          "amount": 1700.0,
-          "account": "Inventory Asset",
-          "description": "SA112 x 200 (Quote #00001879)"
-        }
-      ]
-    }
-  ],
+  "purchase_orders": [],
   "payments": []
 }

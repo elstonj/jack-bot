@@ -1,21 +1,21 @@
 {
   "period": {
-    "start": "2026-04-30",
-    "end": "2026-05-01"
+    "start": "2026-05-01",
+    "end": "2026-05-02"
   },
-  "scanned_at": "2026-05-01",
+  "scanned_at": "2026-05-02",
   "projects": [
     {
-      "project_code": "032-3",
+      "project_code": "001-1",
       "revenue": 0.0,
-      "expenses": 30.45,
+      "expenses": 45.79,
       "invoice_count": 0,
       "bill_count": 0,
       "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "[032-3] Sasquatch S0s x 4"
+        "(001-1) IRAD- General"
       ]
     },
     {
@@ -34,23 +34,24 @@
     {
       "project_code": "300-3",
       "revenue": 270000.0,
-      "expenses": 152.24,
+      "expenses": 4593.97,
       "invoice_count": 4,
-      "bill_count": 0,
-      "purchase_count": 1,
+      "bill_count": 1,
+      "purchase_count": 0,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "[300-3] 2026 IDIQ"
+        "[300-3] 2026 IDIQ",
+        "[300] NOAA:[300-3] 2026 IDIQ"
       ]
     },
     {
       "project_code": "550-1",
       "revenue": 49459.0,
-      "expenses": 0.0,
+      "expenses": 399.0,
       "invoice_count": 2,
       "bill_count": 0,
-      "purchase_count": 0,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -60,14 +61,15 @@
     {
       "project_code": "_unclassified",
       "revenue": 0.0,
-      "expenses": 3290.05,
+      "expenses": 9517.14,
       "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 4,
-      "po_count": 1,
+      "bill_count": 1,
+      "purchase_count": 7,
+      "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        ""
+        "",
+        "Black Swift Technologies:[001-22] Aeropods Commercial"
       ]
     }
   ]

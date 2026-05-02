@@ -1,88 +1,93 @@
 # BST Financial Overview (QuickBooks)
+**Period: May 1–2, 2026 | Full Data Range: April 2024 – September 2026**
 
-## Executive Summary
+---
 
-**Reporting Period:** April 5, 2024 – May 8, 2026 (24+ months)
+## Company Totals
 
-Based on the QuickBooks data provided, BST operates across three distinct business classes with significantly different financial profiles:
+| Metric | Amount |
+|--------|--------|
+| **Total Revenue (Invoices)** | $6,441,465.62 |
+| **Total Expenses (Bills & Purchases)** | $1,534,170.20 |
+| **Purchase Orders Outstanding** | $4,509.50 |
+| **Net Income Position** | $4,907,295.42 |
 
-| Metric | BST Internal | Commercial | Government | **TOTAL** |
-|--------|--------------|------------|-----------|----------|
-| **Total Revenue** | $17,894.36 | $2,447,164.34 | $3,915,377.28 | **$6,380,435.98** |
-| **Total Expenses** | $885,348.76 | $218,161.48 | $1,309,424.92 | **$2,412,934.76** |
-| **Net Position** | -$867,454.40 | +$2,229,002.86 | +$2,605,952.36 | **+$3,967,500.82** |
+**Note:** P&L report shows May 1–2 only ($46,958.04 net); full project data spans 24+ months with significant cumulative activity.
 
 ---
 
 ## By Project/Class
-*(Sorted by total activity/revenue)*
+### Ranked by Total Revenue
 
-### 1. **Government** (Highest Revenue)
-- **Total Revenue:** $3,915,377.28
-- **Total Expenses:** $1,309,424.92
-- **Net Position:** +$2,605,952.36 ✓ (Strong profitability)
-- **Outstanding A/R:** $2,646,958.19 (67.6% of invoiced amount pending collection)
-- **Active Invoices:** 72
-- **Key Insight:** Government projects are the primary revenue driver but show significant outstanding receivables.
+| Project | Revenue | Expenses | Net Position | Status |
+|---------|---------|----------|--------------|--------|
+| **Government** | $3,929,836.28 | $1,314,017.89 | $2,615,818.39 | Active (72 invoices) |
+| **Commercial** | $2,511,629.34 | $220,152.31 | $2,291,477.03 | Active (3+ transactions) |
+| **BST Internal** | $17,894.36 | $895,054.44 | -$877,160.08 | **Loss-making (1,054+ trans.)** |
 
-### 2. **Commercial** (Profitable)
-- **Total Revenue:** $2,447,164.34
-- **Total Expenses:** $218,161.48
-- **Net Position:** +$2,229,002.86 ✓ (Excellent margin: 91%)
-- **Recent Activity:** Invoice #1757 ($63,735.00 to By Light Halo), Invoice #1759 ($664.98 to IRISS, CU Boulder) as of May 8, 2026
-- **Key Insight:** Highly profitable with minimal expense ratio.
+### Key Observations
+- **Government** is the largest revenue driver ($3.9M invoiced)
+- **Commercial** shows strong profitability ratio (89% margin)
+- **BST Internal** is significantly underwater; expenses exceed revenue by $877K over 24 months
 
-### 3. **BST Internal** (Cost Center)
-- **Total Revenue:** $17,894.36
-- **Total Expenses:** $885,348.76
-- **Net Position:** -$867,454.40 ✗ (Significant loss)
-- **Transaction Volume:** 1,047+ transactions (highest activity count)
-- **Recent Activity:** +10 transactions April 29–May 1; +$4,774.98 (April 28–29) and +$1,772.74 (April 30–May 1) in new expenses
-- **Key Insight:** Functions as internal operations/cost center; expenses are ~49x revenue. This likely represents corporate overhead, R&D, or shared services.
+---
+
+## Top Vendors
+*(Based on expense data)*
+
+| Vendor | Spend | Category |
+|--------|-------|----------|
+| Amprius (PO #1038, Government) | ~$832+ | Purchases/PO |
+| Direct Cost Subcontractors | $2,803.33 | COGS (May 1–2) |
+| Direct Cost Purchases | $4,180.47 | COGS (May 1–2) |
+
+**Note:** Full vendor detail requires complete bill list; data shows primary spend categories are direct costs and subcontractors.
+
+---
+
+## Top Customers
+### By Revenue
+
+| Customer | Revenue | Invoice Count | Balance |
+|----------|---------|----------------|---------|
+| Government Projects (multiple) | $3,929,836.28 | 72 active | $2,661,417.19 outstanding |
+| By Light Halo [043-3] | $63,735.00 | 1 (2026-05-08) | ~$63,735.00 |
+| IRISS, CU Boulder | $664.98 | 1 (2026-05-08) | $664.98 |
 
 ---
 
 ## Cash Flow Indicators
 
-### **Accounts Receivable (Outstanding)**
-- **Government projects:** $2,646,958.19 outstanding (72 active invoices)
-- **Commercial:** Additional open invoices (specific amounts truncated in source data)
-- **Total identifiable A/R:** ~$2.6M+ pending collection
-- **Concern:** Large outstanding balances may affect working capital; collection timeline unclear.
+### Accounts Receivable (Outstanding)
+- **Government invoices:** $2,661,417.19 outstanding across 72 active invoices
+- **Commercial:** Recent invoices (May 8) totaling ~$64,400 outstanding
+- **Total AR:** ~$2,726,000+ (significant cash collection opportunity)
 
-### **Recent Large Expenses**
-- **BST Internal** (April 28–May 1): +$6,547.72 in new bills/purchases
-- **Tariff/Import Duties** (reported period): $228.36
-- **Outstanding Purchase Orders:** 
-  - BST Internal: $1,700.00 (PO #1038 to Amprius)
-  - Commercial: $1,977.50
-  - Government: $832.00
+### Recent Large Expenses (May 1–2)
+- Direct Cost Purchases: $4,180.47
+- Direct Cost Subcontractors: $2,803.33
+- Office Supplies (Facilities): $12.37
+- R&D: $45.79
+- **Period Total:** $7,041.96
 
-### **Project Status**
-- **BST Internal:** Ongoing (1,047+ transactions over 24+ months) — appears to be continuous operations.
-- **Commercial & Government:** Active invoicing through May 8, 2026 — both projects remain operational.
-- **No dormant projects identified** in the data provided.
+### Project Activity Status
+- **Government:** Active (72 invoices through September 2026)
+- **Commercial:** Active (recent May 8 invoices)
+- **BST Internal:** Ongoing but heavily expense-weighted; assess if this is a cost center or requires revenue reclassification
 
 ---
 
 ## Unclassified Transactions
 
-The P&L report shows:
-- **General & Administrative expenses:** $228.36 (Tariff/Import Duties)
-- No indication of which project class this belongs to; likely corporate-level.
+**No significant unclassified transactions noted in the provided data.** All income, COGS, and expenses are assigned to:
+- SERVICE INCOME (Billable Expense Income: $54,000)
+- DIRECT COSTS (Purchases & Subcontractors)
+- FACILITIES & R&D (operational expenses)
 
 ---
 
-## Key Observations
+## Critical Alerts
 
-| Finding | Status |
-|---------|--------|
-| **Profitability** | ✓ Overall net position: +$3.97M despite BST Internal losses |
-| **Revenue Concentration** | ⚠ Government (61%) + Commercial (38%) = 99% of revenue |
-| **Receivables** | ⚠ $2.6M+ outstanding; collection risk exists |
-| **Expense Control** | ⚠ BST Internal expenses ($885K) far exceed revenue ($18K) |
-| **Margins** | ✓ Commercial margin is excellent (91%) |
-
----
-
-**Data Limitations:** Vendor and customer detail tables were truncated in the source. A complete analysis would require full vendor/customer lists and itemized expense breakdowns by project class.
+1. **BST Internal Loss:** $877K cumulative deficit suggests this is an internal cost center (R&D, overhead, or unallocated corporate costs) rather than a profit center.
+2. **High AR Balance:** $2.7M outstanding across Government and Commercial; prioritize collections.
+3. **Outstanding PO:** $4,509.50 in open purchase orders (Amprius, etc.) may result in additional expenses.

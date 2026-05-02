@@ -1,6 +1,7 @@
 # Nate Straus — Email Patterns
 
-Only 2 emails found in scanned period.
+Only 3 emails found in scanned period.
 
-- Thu, 30 Apr 2026 18:45:06 +0000 (UTC): You just got paid! (4/1/26 - 4/30/26) (from: Rippling <no-reply@rippling.com>)
-- Thu, 30 Apr 2026 15:36:58 +0000: Re: MHP data alignment (from: Tanay Topac <tanaytopac@stanford.edu>)
+- Fri,  1 May 2026 21:50:40 +0000: Deploying UAS swarms in the core of a Cat 5 hurricane isnt something out of a sci-fi. Meet the team that made it possible. (from: Black Swift Technologies <paige.smith@blackswifttech.com>)
+- Fri, 1 May 2026 14:08:41 -0600: Re: Fw: Use of aircraft in demo (from: Nathaniel Straus <nate.straus@blackswifttech.com>)
+- Fri, 1 May 2026 09:34:28 -0600: Re: S20004 repair (from: Nathaniel Straus <nate.straus@blackswifttech.com>)

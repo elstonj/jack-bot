@@ -26,10 +26,10 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 27012.5,
+        "amount": 27075.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-01"
+        "last_updated": "2026-05-02"
       },
       "purchases": {
         "amount": 0.0,
@@ -43,13 +43,13 @@
         "confidence": "exact",
         "last_updated": "2026-04-22"
       },
-      "total": 27059.3,
+      "total": 27121.8,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 62940.7,
+    "remaining": 62878.2,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-01T09:06:02Z"
+    "last_reconciled": "2026-05-02T09:02:07Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -136,6 +136,6 @@
       "text": "From Maciej (ts=1777068240.557319): Similar question for <@U01511MEQ90> and <@U04CZK4K7P0> on EMASS. I think we're in good shape there with the remaining work just waiting on those guys to finish the controller and another round of test flying for us."
     }
   ],
-  "last_full_rebuild": "2026-05-01T09:06:02Z",
+  "last_full_rebuild": "2026-05-02T09:02:07Z",
   "last_incremental_update": null
 }

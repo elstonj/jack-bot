@@ -28,19 +28,19 @@
     - CLIN 0007 (Final Report): Sep 28, 2026
 - **Status:** **Active – Option Period underway (kicked off Apr 21, 2026).** Per Maciej Stachura (Apr 24): Navy SBIR Magnetometer is **priority #5** on current workload, behind S3 IRAD, S0-VTOL, EMASS closeout, and By-Lite Mustang.
 - **Team Members:**
-  - Alex Lomis (PM/owner, technical lead for builds & flights)
+  - Alex Lomis (PM/Owner, technical lead for builds & flights)
   - Jack Elston (technical lead, onboard logging & final reporting)
-  - Maciej Stachura (Python tools, sensor configuration) — *Per Apr 22 feedback: Tasks marked complete as of kick-off*
+  - Maciej Stachura (Python tools, sensor configuration)
   - Beck Cotter (Camp Pendleton coordination)
   - Meredith O'hara Needham (administrative, invoicing, FWA certification)
   - Dan Prendergast (support)
 - **Risk Signals:**
-  - **Heavy task load on Alex Lomis:** 8 open tasks spanning design, procurement, build, flight testing through Aug 17 demo. Represents concentration of critical path work.
+  - **Heavy task load concentration on Alex Lomis:** 8 open technical tasks spanning design, procurement, build, and flight testing through Aug 17 demo. Critical path work concentrated on single PM.
   - **Compressed technical timeline:** Design (Apr 27–May 5) → build (May 19) → ground testing (May 29) → hand-launched flights (Jul 1) → Camp Pendleton demo (Aug 17), all before final report (Sep 28).
   - **Critical path dependencies:** Ground testing depends on completed design & parts ordering; hand-launched flights depend on build completion; Camp Pendleton demo depends on finalized flight plans.
   - **External dependency:** Camp Pendleton permissions/frequencies (Beck Cotter, due Jun 1) must be secured before demo logistics finalized.
-  - **Resource constraints:** Priority #5 status may limit availability of key team members during peak execution phases.
-  - **Asana task lag:** Raw data shows only 1 open task (Preliminary Design Mods for re-usable S0-MAD due May 1) vs. 13 technical + 4 administrative tasks in prior knowledge file. Suggests tasks either not entered in raw Asana export or bulk-closed without status updates. Recommend synchronization check.
+  - **Asana/task tracking lag:** Raw data shows only 1 open task in Asana vs. 13 technical + 4 administrative tasks tracked in project knowledge file. Tasks appear tracked externally or in bulk-closed status without visibility updates. Recommend synchronization check before next priority review.
+  - **Priority #5 status:** Resource constraints may limit team availability during peak execution phases (May–Aug).
 
 ## Key Deliverables & Milestones
 
@@ -55,7 +55,7 @@
 | Milestone | Owner | Due Date | Status | Dependency |
 |---|---|---|---|---|
 | Complete design of ground testing S0-MAD (both mags) | Alex Lomis | Apr 27, 2026 | **OPEN** | Critical path start |
-| Preliminary design mods for reusable S0-MAD | Alex Lomis | May 1, 2026 | **OPEN** (in raw data) | Follows design phase |
+| Preliminary design mods for reusable S0-MAD | Alex Lomis | May 1, 2026 | **OPEN** | Follows design phase |
 | Order parts for S0-MAD reusable | Alex Lomis | May 5, 2026 | **OPEN** | Design freeze |
 | Design onboard logging (both mag sensors) | Jack Elston | May 8, 2026 | **OPEN** | Parallel to design phase |
 | Finalize Python plotting/analysis tools | Maciej Stachura | May 13, 2026 | **OPEN** | Data processing prep |
@@ -78,7 +78,7 @@
 
 ## Task Summary
 - **Asana tasks (raw data):** 1 open, 0 completed
-  - Single visible task: Preliminary Design Mods for re-usable S0-MAD (Alex Lomis, due May 1)
-  - **Note:** Prior knowledge file listed 19 open tasks (13 technical + 4 admin + 2 contacts). Discrepancy suggests Asana task list may be incomplete or bulk-closed. Recommend verification.
+  - Single visible task: Preliminary Design Mods for re-usable S0-MAD (Alex Lomis, due May 1, 2026)
+  - **Discrepancy Note:** Prior knowledge file tracked 13 technical + 4 administrative + 2 contact tasks. Raw Asana export shows only 1 task. Tasks appear to be tracked in project management system outside Asana or in bulk-closed status. Recommend task list reconciliation.
 - **Tasks by assignee (from knowledge file):**
-  - Alex Lomis: 8
+  - Alex Lomis: 8 open technical tasks (design, procurement, build, flight testing)

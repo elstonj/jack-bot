@@ -5,7 +5,7 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 
 **Key participants:** Jack Elston (leadership/strategy), Parker Vollmer (marketing), Sophia Henkels (content/web), Paige Smith (marketing), Alex Lomis (video/technical), Beck Cotter, Kareem, Dan Prendergast, Maciej, Brody Basset (external contact - US Commercial Service)
 
-**Activity level:** High frequency discussions across June 2024-April 2026 period, with multiple concurrent projects in various stages.
+**Activity level:** High frequency discussions across June 2024-May 2026 period, with multiple concurrent projects in various stages.
 
 ---
 
@@ -104,20 +104,26 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 - Jack approved to move forward with this pricing; willing to reduce system rental by ~$1K if necessary but prefers maintaining current margin
 - Dan Prendergast and Jack agreed to present this to Nexus and observe their reaction
 
+### SBIR Awards Count Verification (May 1, 2026)
+- **Updated SBIR achievement numbers:** 17 Phase I and 8 Phase II awards (per Beck Cotter, May 1, 2026)
+- Previous marketing copy referenced "11 SBIR awards" — requires update
+- Jack suggested using updated total from SBIR.gov portfolio page (https://www.sbir.gov/portfolio/404583) but noted uncertainty about exact total
+- **Action needed:** Marketing copy to be updated with accurate SBIR award count for use in promotional materials
+
 ---
 
 ## Projects & Initiatives
 
 ### Newsletter Development
-**Status:** Active/Launched (since June 2024)
-- Launched June 10 with strong engagement metrics
+**Status:** Active/Ongoing (since June 2024)
+- Launched June 10, 2024 with strong engagement metrics
 - Using MailerLite for distribution
-- Domain verification completed through Hover account
+- Domain verification completed through Hover account; re-verified May 1, 2026 by Jack per Paige's request
 - Converting website content to email newsletter format
 - April 2026: Marketing team reformatting flight mission content into newsletter articles
 
 ### Products & Services Web Pages
-**Status:** In progress/Completed
+**Status:** Completed/Active maintenance
 - Products page updated June 13, 2024 with GIF under SwiftCore
 - Popup form remains on page despite Jack's requests for removal (noted June 13, 15, 2024)
 - Services page drafted July 4, 2024 by Sophia; Jack provided version with comments
@@ -130,16 +136,4 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 - Included concrete examples, awards, and achievements per team feedback
 - Ready for distribution with press releases
 
-### Soil Moisture Mapping (SMM) Whitepaper
-**Status:** Approved for print (July 19, 2024)
-- Extended to 16 pages due to printing constraints
-- Removed pages 4-5, moved S2 product pages after introduction
-- Expanded background/sensor wording per Sophia's evening revision (July 23, 2024)
-
-### S0 Air Deployed Data Sheet
-**Status:** Approved for distribution (July 19, 2024)
-- Finalized with dual metric/imperial display
-- Added QR code/link to quote form on back
-- Updated "Get a Quote" button color
-- Removed registration marks and centered text
-- Ready for WSJ
+### Soil Moisture Mapping

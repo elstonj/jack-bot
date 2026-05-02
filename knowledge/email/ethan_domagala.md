@@ -1,8 +1,7 @@
 # Ethan Domagala — Email Patterns
 
-Only 4 emails found in scanned period.
+Only 3 emails found in scanned period.
 
-- Thu, 30 Apr 2026 22:34:37 +0000: 👉 You have unread notifications (from: Asana <no-reply@asana.com>)
-- Thu, 30 Apr 2026 18:45:05 +0000 (UTC): You just got paid! (4/1/26 - 4/30/26) (from: Rippling <no-reply@rippling.com>)
-- Thu, 30 Apr 2026 14:57:10 +0000: Thursday - tasks due soon: 4 - blackswifttech.com (from: Asana <no-reply@asana.com>)
-- Thu, 30 Apr 2026 13:56:30 +0000: Checking In – American Progressive Circuits (from: APC Sales <sales@pcbapc.com>)
+- Fri,  1 May 2026 21:50:40 +0000: Deploying UAS swarms in the core of a Cat 5 hurricane isnt something out of a sci-fi. Meet the team that made it possible. (from: Black Swift Technologies <paige.smith@blackswifttech.com>)
+- Fri, 1 May 2026 14:52:42 +0000: Friday - tasks due soon: 5 - blackswifttech.com (from: Asana <no-reply@asana.com>)
+- Fri, 01 May 2026 12:35:44 +0000: Edge AI challenges in SwiftCore autonomy development (from: Robert Wilson <robert.wilson@fastblaize.com>)

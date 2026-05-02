@@ -4,14 +4,15 @@
     "(001-1) IRAD- General"
   ],
   "period": {
-    "start": "2026-04-29",
-    "end": "2026-04-30"
+    "start": "2026-05-01",
+    "end": "2026-05-02"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 20.99,
+    "expenses": 45.79,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 20.99
+      "RESEARCH & DEVELOPMENT": 36.05,
+      "FACILITIES:FA-Office Supplies": 9.74
     }
   },
   "invoices": [],
@@ -19,19 +20,24 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-04-29",
+      "date": "2026-05-01",
       "doc_number": "",
-      "total": 20.99,
-      "attributed": 20.99,
+      "total": 58.16,
+      "attributed": 45.79,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 20.99,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "4 Pairs Mavic 3 Pro Propellers Low Noise 9453F Blades Props"
+          "amount": 45.79,
+          "account": "RESEARCH & DEVELOPMENT",
+          "description": ""
+        },
+        {
+          "amount": 12.37,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "Paper towels/toilet paper"
         }
       ]
     }

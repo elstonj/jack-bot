@@ -1,7 +1,7 @@
 # #general
 
 ## Overview
-Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - April 2026). Key participants include Jack Elston (leadership), Dan Prendergast (business development/operations), Maciej, Joshua Fromm, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, and numerous team members.
+Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - May 2026). Key participants include Jack Elston (leadership), Dan Prendergast (business development/operations), Maciej, Joshua Fromm, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, and numerous team members.
 
 ## Key Decisions
 
@@ -14,6 +14,7 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **IT Security Policy** (March 2024): No BST data on personal computers except cleared/assigned laptops; password manager required for all passwords; specific approved cloud software list
 - **DoD S0-AD Customer Engagement** (April 27, 2026): Two DoD groups (SOCOM and 53rd Weather Squadron) visiting Friday for full-day working discussion to define mission requirements and S0 modifications needed. 7 customer reps and 2 KrateoSky Business Dev reps attending. Coffee/bagels and hardware displays planned; no banners.
 - **April 30, 2026 Preparation for Customer Presentation**: Aircraft setup required in shop before 9am on May 1, 2026 for display purposes (likely continuation of DoD S0-AD engagement follow-up).
+- **Outside Door Lock Issue** (May 1, 2026): Outside door lock malfunctioning (warps when hot); inside door should be locked as backup when leaving. Joshua Fromm provided fix: push down on mechanism.
 
 ### Funding & Awards
 - **NASA Phase I Award** (May 26, 2021): Contract awarded for S2 all-weather capable platform development with solar integration and VTOL S2 for remote autonomous landing
@@ -50,7 +51,7 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - RID (Remote ID) integration being tested on aircraft; CAN bus issue encountered (Feb 27, 2025)
 - Hover and battery testing planned
 - Transition simulator development underway
-- **S0-AD Variant**: DoD customer development track (SOCOM and 53rd Weather Squadron) starting April 2026; mission requirements under definition; interests include real-time tactical weather observation, weather prediction, EO/IR, and SIGINT capabilities; aircraft preparation for display at customer engagement (April 30, 2026)
+- **S0-AD Variant**: DoD customer development track (SOCOM and 53rd Weather Squadron) starting April 2026; mission requirements under definition; interests include real-time tactical weather observation, weather prediction, EO/IR, and SIGINT capabilities; aircraft preparation for display at customer engagement scheduled for May 1, 2026
 
 **S1 Aircraft**
 - S1-VTOL battery testing planned (November 26, 2024)
@@ -76,7 +77,4 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - OnShape models maintained with access for team and guests
 
 **E2 Aircraft**
-- Two E2 aircraft (E20006, E20007) ready for NREL deployment (Sept 11, 2020)
-- E20007 on storage charge but operational for low hover test
-- Battery specifications: weight 4.10kg, max power 2200W, nominal 1550W
-- Handset binding required; QC not
+- Two E2 aircraft (E20006, E20007) ready for NREL deployment (Sept 11, 2
