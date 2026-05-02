@@ -11,9 +11,10 @@
   - **Design task scope for S3 partially undefined** — Battery, case, and other components needed by end of May; Josh Fromm to confirm full scope
   - **Build phase tasks missing from Asana** — Maciej requesting major tasks be captured for visibility and coordination
   - **CU-IRISS S2 training coordination pending** — Awaiting repair completion and scheduling to enable NSF MUSAS certification update
+  - **CU-IRISS S2 due date updated** — Now 2026-05-08 (was 2026-05-01 in previous data)
 
 ## Key Deliverables & Milestones
-- **CU-IRISS S2 repair/update** — Due: 2026-05-01 (Nate Straus) — On track; includes return of S2 and scheduling training flight for Brian Argrow and CU team
+- **CU-IRISS S2 repair/update** — Due: 2026-05-08 (Nate Straus) — On track; includes return of S2 and scheduling training flight for Brian Argrow and CU team
 - **S3 first customer build (ACTIVE PRIORITY)** — Target: End of May 2026 design freeze
   - Design tasks: Battery, case, and other components (Josh Fromm to confirm by end of May)
   - Build phase: Requires task capture in Asana for visibility and coordination (owner to be confirmed)
@@ -23,7 +24,7 @@
 - **Total tasks in Asana:** 1 open, 0 completed
 - **Current assignees:**
   - Nate Straus: 1 open task
-    - CU IRISS update/repair S2 — Due 2026-05-01 (completion target)
+    - CU IRISS update/repair S2 — Due 2026-05-08 (completion target; updated from 2026-05-01)
 - **Notable patterns:**
   - Only 1 task visible in Asana despite active multi-client operations
   - **Missing from Asana (per Maciej Stachura, 2026-04-24 — authoritative):**
@@ -36,7 +37,7 @@
 2. **Build phase owner (TBD):** Capture major S3 build tasks in Asana for visibility and coordination with design phase
 3. **Maciej:** Tracking S3 project coordination; seeking confirmation of build phase owner
 
-**CU-IRISS S2 status:** Repair/update on track for May 1, 2026 delivery (Nate Straus). Training flight scheduling and NSF MUSAS certification update pending upon repair completion.
+**CU-IRISS S2 status:** Repair/update on track for May 8, 2026 delivery (Nate Straus; **updated from May 1**). Training flight scheduling and NSF MUSAS certification update pending upon repair completion.
 
 ## Notes & Context
 **Urgent action items (Maciej Stachura, 2026-04-24 — overrides Asana task list):**

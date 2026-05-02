@@ -3,60 +3,55 @@
 ## Overview
 - **Client/customer:** Internal BST purchasing system (serves all active projects)
 - **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across multiple projects
-- **Timeline:** Ongoing operational project; current orders due Apr 30–May 2, 2026
-- **Status:** Active - **13 open tasks** (increased from 12). All tasks remain open with no completions. Order statuses now include "Order Shipped" (2 tasks), indicating fulfillment progress. **Meredith now carries 9 tasks (69% of workload); Nate carries 4 (31%)** — workload imbalance has increased.
-- **Team members involved:** 
-  - Meredith O'hara Needham (processor/project owner; 9 assigned tasks — 69% of workload)
-  - Nate Straus (receiving/verification; 4 assigned tasks — 31% of workload)
-- **Risk signals:** 
-  - **Task count up 1 from prior snapshot (12 → 13).** Two new orders added: **pololu for s3** and **jawstec for s3** (duplicate vendor/project).
-  - **Meredith workload increased to 9 tasks (69%)** — concentration risk on single processor.
-  - **Two orders now show "Order Shipped" status** (bearings for s3, rocketman for s0 VTOL) — positive fulfillment signal, but verify receipt tracking with Nate.
-  - **Due dates remain tight:** 5 orders due Apr 30; 7 due May 1–2. No overdue tasks currently.
-  - **Jawstec vendor appears 4 times** (same as prior, plus new duplicate); verify ordering consolidation.
+- **Timeline:** Ongoing operational project; critical orders due May 1–3, 2026; backlog orders due Jun 30, 2026
+- **Status:** Active — **22 open tasks** (increased significantly from 13). All tasks remain open with no completions. Order fulfillment progressing: 3 tasks show "Order Shipped," 2 show "Order Received," 7 show "Order Placed," and 8 show "Order Placed in Inventory" (backlog/unassigned). **Meredith carries 13 tasks (59% of workload); Nate carries 2 (9%); 7 unassigned (32%)** — workload now distributed but concentration on Meredith remains; new unassigned backlog category signals intake/assignment delays.
+- **Team members involved:**
+  - Meredith O'hara Needham (processor/project owner; 13 assigned tasks — 59% of workload)
+  - Nate Straus (receiving/verification; 2 assigned tasks — 9% of workload)
+  - **Unassigned: 7 tasks (32%)** — new in this snapshot; backlog orders (due Jun 30) awaiting assignment
+- **Risk signals:**
+  - **Task count doubled from 13 to 22 (+9 tasks).** Significant intake surge, mostly unassigned backlog (7 tasks due Jun 30).
+  - **Meredith workload increased to 13 tasks (59%)** — still high concentration; Nate's workload dropped to 2 tasks (9%), suggesting Meredith absorbed new intake.
+  - **7 unassigned tasks with Jun 30 due dates** — "Order Placed in Inventory" status suggests backlog or pending assignment. May indicate capacity constraint on Meredith or deliberate hold for later processing.
+  - **Critical deadlines May 1–3:** 10 assigned tasks due May 1–3 (Meredith 9, Nate 1). Tightest is May 1 (7 tasks).
+  - **Jawstec vendor appears 5+ times across orders** — consolidation opportunity to verify no duplicate orders.
+  - **Two new projects in scope:** [300-3] 2026 IDIQ (Hurricane) (2 unassigned backlog tasks) and [043-3] Mustang Pt. 2 (2 unassigned backlog tasks); existing [001-7] IRAD S3, [001-4] IRAD S0 VTOL, [001-1] IRAD General remain active.
 
 ## Key Deliverables & Milestones
 
-### **[001-4] IRAD S0 VTOL** — 1 open order
-- **rocketman for s0 VTOL IRAD (#1534)** | Due May 1, 2026 | Meredith O'hara Needham | Status: **Order Shipped** | Requester: Joshua Fromm | Tax Exempt: NO | Requested: Apr 29, 2026
+### **Assigned Orders (Meredith & Nate) — Due May 1–3, 2026**
 
-### **[001-7] IRAD S3** — 1 open order
-- **clearwater composites for s3 parts (#14814)** | Due May 1, 2026 | Meredith O'hara Needham | Status: Order Placed | Requester: Joshua Fromm | Tax Exempt: YES | Requested: Apr 29, 2026
+#### **[300-3] 2026 IDIQ (Hurricane)** — 2 open orders
+- **sendcutsend order for s0 tooling** | Due May 1, 2026 | Meredith O'hara Needham | Status: Not specified | Requester: Joshua Fromm | Tax Exempt: YES
+- **jawstec for s0 parts** | Due May 1, 2026 | Meredith O'hara Needham | Status: Not specified | Requester: Joshua Fromm | Tax Exempt: YES
 
-### **[001-1] IRAD General** — 2 open orders
-- **Amazon- Mavic 3 Propellers** | Due May 2, 2026 | Nate Straus | Status: Order Received | Requester: Ethan Domagala | Tax Exempt: NO | Requested: Apr 29, 2026
-- **Digikey (db9) (#98825513)** | Due Apr 30, 2026 | Nate Straus | Status: Order Received | Requester: Nate | Tax Exempt: NO | Requested: Apr 22, 2026
+#### **[001-7] IRAD S3** — 1 open order
+- **clearwater composites for s3 parts (#14814)** | Due May 1, 2026 | Meredith O'hara Needham | Status: Order Placed | Requester: Joshua Fromm | Tax Exempt: YES
 
-### **[043-3] Mustang Pt. 2** — 2 open orders
-- **DragonPlate- ByLight tails (#174005)** | Due May 1, 2026 | Meredith O'hara Needham | Status: Order Placed | Requester: Ethan Domagala | Tax Exempt: NO | Requested: Apr 29, 2026
-- **JawsTec- Mustang/Chilli/M2 (#68231)** | Due May 1, 2026 | Nate Straus | Status: Order Received | Requester: Ethan Domagala | Tax Exempt: NO | Requested: Apr 20, 2026
+#### **[001-4] IRAD S0 VTOL** — 1 open order
+- **rocketman for s0 VTOL IRAD (#1534)** | Due May 1, 2026 | Meredith O'hara Needham | Status: **Order Shipped** | Requester: Joshua Fromm | Tax Exempt: NO
 
-### **General Sales (No Specific Project)** — 7 open orders
-- **bearings for s3 (#C80812959)** | Due May 2, 2026 | Meredith O'hara Needham | Status: **Order Shipped** | Requester: Joshua Fromm | Tax Exempt: YES | Requested: Apr 30, 2026
-- **rockwest for s3 (#Z100698536)** | Due Apr 30, 2026 | Meredith O'hara Needham | Status: Order Placed | Requester: Joshua Fromm | Tax Exempt: YES | Requested: Apr 28, 2026
-- **jawstec for s3 parts (#68439)** | Due May 1, 2026 | Meredith O'hara Needham | Status: Order Placed | Requester: Joshua Fromm | Tax Exempt: YES | Requested: Apr 29, 2026
-- **jawstec for s3 (#68473)** | Due May 2, 2026 | Meredith O'hara Needham | Status: Order Placed | Requester: Joshua Fromm | Tax Exempt: YES | Requested: Apr 30, 2026 | **NEW**
-- **sendcutsend for s3 (#SX79V088)** | Due May 2, 2026 | Meredith O'hara Needham | Status: Order Placed | Requester: Joshua Fromm | Tax Exempt: YES | Requested: Apr 30, 2026 | **NEW**
-- **pololu for s3** | Due May 1, 2026 | Meredith O'hara Needham | Status: Not specified | Requester: Joshua Fromm | Tax Exempt: YES | Requested: May 1, 2026 | **NEW**
-- **jawstec for s3 parts** | Due May 1, 2026 | Meredith O'hara Needham | Status: Not specified | Requester: Joshua Fromm | Tax Exempt: YES | Requested: May 1, 2026 | **NEW (possible duplicate of #68439)**
+#### **[001-1] IRAD General** — 3 open orders
+- **Amazon XT90, flux pen** | Due May 3, 2026 | Meredith O'hara Needham | Status: **Order Shipped** | Requester: Nate | Tax Exempt: NO
+- **Amazon- Mavic 3 Propellers** | Due May 2, 2026 | Nate Straus | Status: **Order Received** | Requester: Ethan Domagala | Tax Exempt: NO
+- **Digikey (db9) (#98825513)** | Due Jun 30, 2026 | Unassigned | Status: Order Placed in Inventory | Requester: Nate | Tax Exempt: NO
 
-## Task Summary
-- **Total tasks:** 13 open, 0 completed (100% open rate; +1 from prior snapshot)
-- **Tasks by assignee:**
-  - Meredith O'hara Needham: 9 tasks (69% of workload) — 6 Order Placed, 2 Order Shipped, 1 unspecified status
-  - Nate Straus: 4 tasks (31% of workload) — all "Order Received" status
-- **Order status breakdown:**
-  - Order Placed: 7 tasks (54%)
-  - Order Received: 4 tasks (31%)
-  - **Order Shipped: 2 tasks (15%)** — new status indicator; bearings and rocketman orders en route
-  - Unspecified: 2 tasks (15%) — pololu and jawstec (duplicate) lack explicit status
-- **Notable patterns:**
-  - **Meredith workload now 69% (9/13 tasks)** — up from 58% in prior snapshot; concentration risk.
-  - **Two new tasks added** (pololu, jawstec duplicate) — no change in Nate's workload (still 4 tasks).
-  - **Due dates:** 5 orders due Apr 30; 7 due May 1; 1 due May 2. Tightest deadline is Apr 30 (rockwest).
-  - **Jawstec vendor appears 4 times** (jawstec #68439, #68473, and two unnamed jawstec entries):
-    - jawstec for s3 parts (#68439, General Sales, Meredith, Order Placed, due May 1)
-    - jawstec for s3 (#68473, General Sales, Meredith, Order Placed, due May 2) — **NEW**
-    - jawstec for s3 parts (General Sales, Meredith, status unspecified, due May 1) — **NEW; possible duplicate of #68439**
-    - JawsTec- Mustang/Chilli/M2 (#68231, Mustang, Nate, Order Received, due May 1)
-  - **Joshua From
+#### **[043-3] Mustang Pt. 2** — 3 open orders (2 assigned, 1 unassigned backlog)
+- **DragonPlate- ByLight tails (#174005)** | Due May 1, 2026 | Meredith O'hara Needham | Status: Order Placed | Requester: Ethan Domagala | Tax Exempt: NO
+- **JawsTec- Mustang/Chilli/M2 (#68231)** | Due May 1, 2026 | Nate Straus | Status: **Order Received** | Requester: Ethan Domagala | Tax Exempt: NO
+- **Sendcutsend (#S834G264)** | Due Jun 30, 2026 | **Unassigned** | Status: Order Placed in Inventory | Requester: Alex | Tax Exempt: NO
+
+#### **General Sales (No Specific Project)** — 5 open orders (all assigned to Meredith)
+- **jawstec for s3 parts (#68439)** | Due May 1, 2026 | Meredith O'hara Needham | Status: Order Placed | Requester: Joshua Fromm | Tax Exempt: YES
+- **tmotor for s3 sales (2026050283273)** | Due May 3, 2026 | Meredith O'hara Needham | Status: Order Placed | Requester: Joshua Fromm | Tax Exempt: YES
+- **jawstec for s3 parts (#68490)** | Due May 3, 2026 | Meredith O'hara Needham | Status: Order Placed | Requester: Joshua Fromm | Tax Exempt: YES
+- **pololu for s3 (#1J585099)** | Due May 3, 2026 | Meredith O'hara Needham | Status: Order Placed | Requester: Joshua Fromm | Tax Exempt: YES
+- **jawstec for s3 (#68473)** | Due May 2, 2026 | Meredith O'hara Needham | Status: Order Placed | Requester: Joshua Fromm | Tax Exempt: YES
+- **sendcutsend for s3 (#SX79V088)** | Due May 2, 2026 | Meredith O'hara Needham | Status: Order Placed | Requester: Joshua Fromm | Tax Exempt: YES
+- **bearings for s3 (#C80812959)** | Due May 2, 2026 | Meredith O'hara Needham | Status: **Order Shipped** | Requester: Joshua Fromm | Tax Exempt: YES
+
+### **Unassigned Backlog (Due Jun 30, 2026)** — 7 orders
+
+#### **[300-3] 2026 IDIQ (Hurricane)** — 2 unassigned orders
+- **jawstec for s0 parts (#68057)** | Due Jun 30, 2026 | **Unassigned** | Status: Order Placed in Inventory | Requester: Joshua Fromm | Tax Exempt: YES
+- **Digikey hurricane / shop supplies (#98710410)** | Due Jun 30, 

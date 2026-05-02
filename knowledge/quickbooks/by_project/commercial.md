@@ -1,10 +1,10 @@
 # Commercial — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $2,447,164.34
-- **Total Expenses (Bills + Purchases):** $218,161.48
+- **Total Invoiced (Revenue):** $2,511,629.34
+- **Total Expenses (Bills + Purchases):** $220,152.31
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,229,002.86 (Revenue exceeds expenses)
+- **Net Position:** $2,291,477.03 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – May 8, 2026
 
 ---
@@ -67,20 +67,31 @@
 | 1618 | 2024-04-19 | $13,853.10 | [451] INSTAAR Stable Isotope Lab, CU Boulder | Paid |
 
 ### Revenue Summary
-- **Total Invoiced:** $2,447,164.34
+- **Total Invoiced:** $2,511,629.34
 - **Total Collected (Paid):** $1,075,726.08
-- **Outstanding Balance:** $1,371,438.26
+- **Outstanding Balance:** $1,435,903.26
   - **Four invoices from May 8, 2026 (By Light Halo):** $223,258.00 (Invoices #1754–1757)
     - Invoice #1757 ($63,735.00): Two (2) built out Halo platforms ready for car launch demo
     - Invoice #1756 ($47,894.00): Design tested Halo airframe and CAD step files
     - Invoice #1755 ($63,735.00): Two (2) built out Halo platforms ready for car launch demo
     - Invoice #1754 ($47,894.00): Design tested Halo airframe and CAD step files
   - **One invoice from May 8, 2026 (IRISS, CU Boulder):** $664.98 (Invoice #1759)
-  - **Other outstanding invoices:** $1,147,515.28
+  - **Other outstanding invoices:** $1,211,980.28
 
 ---
 
 ## Expenses by Cost Category
+
+### **Subcontractors (Direct Cost)**
+**Total: $1,990.83** | 1 transaction | Largest item: $1,990.83
+
+#### Direct Cost Subcontractor Services
+- **Bill from Ted Miles (2026-05-01):** $1,990.83
+  - Aeropods work (March & April 2026): 32 hours @ $62.20/hour
+
+**Total Subcontractors:** $1,990.83
+
+---
 
 ### **Indirect Costs (General & Administrative — Tariffs/Import Duties)**
 **Total: $228.36** | 1 transaction | Largest item: $152.24
@@ -112,17 +123,11 @@
   - Braided Carbon Fiber Hexagonal Tubing ~ 0.75" ID x 48" (SKU: FDPBT-H*.75x48G)
 
 - **Purchase #64090547 (2026-04-29):** $112.93 [By Light items portion]
-  - Direct cost materials allocation (See Indirect Costs for IRAD allocation)
+  - Direct cost materials allocation
 
 **Total Materials & Supplies:** $70,659.57
 
 ---
 
 ### **Indirect Costs (IRAD — Internal Research & Development)**
-**Total: $7,807.62** | 2 transactions | Largest item: $4,844.80
-
-#### Matthew Crabtree — Indirect Subcontractor Expenses
-- **Bill #BST-April2026-1 (2026-04-22):** $3,107.25
-  - Indirect labor/overhead allocation
-
-- **Bill #BST-March2026-2 (2026-04-22):** $4,
+**Total: $

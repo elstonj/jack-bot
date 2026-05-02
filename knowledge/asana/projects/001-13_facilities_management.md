@@ -7,11 +7,11 @@
 - **Status**: Active - high completion rate; recurring batch completion cycle functioning smoothly
 - **Team members involved**: Meredith O'hara Needham (primary operational owner), Nate Straus (facilities improvements & consumables)
 - **Risk signals**: 
-  - **Pay Rent due 2026-04-27** (monthly recurring task; currently open)
+  - **Office Cleaning due 2026-05-02** (bi-weekly recurring task; currently open)
 
 ## Key Deliverables & Milestones
 - **Monthly rent payments** (~$13.00–$14.63 NNN depending on lease year, due ~27th of each month)
-- **Bi-weekly office cleaning** (recurring via Neat N Tidy)
+- **Bi-weekly office cleaning** (recurring via Neat N Tidy, due 2026-05-02)
 - **Weekly office purchasing coordination** (ongoing collection and ordering)
 - **Facilities improvements** (ongoing, no due date set)
 - **Equipment wish list** (ongoing, no due date set)
@@ -19,21 +19,21 @@
 - **Lease termination planning** (unassigned, no due date)
 
 ## Task Summary
-- **Total tasks**: 1 open, 0 completed (visible in current snapshot)
+- **Total tasks**: 1 open, 0 completed
 - **Tasks by assignee**:
   - **Meredith O'hara Needham**: 1 open task
-    - Pay Rent (due 2026-04-27)
+    - Office Cleaning (due 2026-05-02)
   - **Nate Straus**: Not visible in current task list (likely working on long-term facilities/equipment initiatives outside immediate task cycle)
 - **Notable patterns**: 
   - Recurring tasks typically completed in batches on specific dates rather than individual due dates
-  - Monthly rent payment cycle via Goose Creek landlord
+  - Bi-weekly cleaning cycle via Neat N Tidy
   - Open task is within expected batch completion cycle window
 
 ## Recent Activity
-- **Current state**: 1 open task (Pay Rent due 2026-04-27)
-  - Standard monthly rent payment to Goose Creek
+- **Current state**: 1 open task (Office Cleaning due 2026-05-02)
+  - Standard bi-weekly cleaning cycle via Neat N Tidy
 - **Operational momentum**: Project continues high-execution pattern with efficient batch completion workflow
-- **Note**: Bi-weekly office cleaning and purchasing coordination tasks continue on recurring schedules outside primary Asana task view
+- **Note**: Monthly rent payments and weekly purchasing coordination continue on recurring schedules outside primary Asana task view
 
 ## Notes & Context
 
@@ -59,4 +59,4 @@
 | Months 37–48 | $14.21 | $6.23 |
 | Months 49–60 | $14.63 | $6.23 |
 
-**Operational Focus**: Project serves as central hub for all physical office and shop space maintenance, from routine cleaning and purchasing to strategic facilities improvements and equipment management. Batch completion workflow efficient and predictable (tasks grouped and completed in 2–3 day cycles after due dates pass). Consumables stock tracker maintained at https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus).
+**Operational Focus**: Project serves as central hub for all physical office and shop space maintenance, found under the Operations portfolio. Batch completion workflow efficient and predictable (tasks grouped and completed in 2–3 day cycles after due dates pass). Consumables stock tracker maintained at https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus).

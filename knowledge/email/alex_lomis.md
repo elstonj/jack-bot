@@ -1,88 +1,72 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned: 912 combined** (862 previous + 50 new)
-- **Date range covered: March 18 - May 1, 2026 (approximately 45 days)**
+- **Total messages scanned: 956 combined** (912 previous + 44 new)
+- **Date range covered: March 18 - May 2, 2026 (approximately 46 days)**
 - **Approximate daily volume: 20-25 emails per day**
-- **Apr 30 - May 1 snapshot shows 50 messages**: 48 automated/promotional (vendor confirmations, shipping notifications, promotions, task reminders, payroll); 2 critical human communications (Toggl Track support notification, Asana task reminder)
-- Extremely high volume of vendor/logistics notifications (~96% of volume) with minimal human correspondence in this window, suggesting either automated filtering at work or a period focused on execution/procurement rather than strategic communications
+- **May 1-2 snapshot (44 messages)**: 40 automated/promotional (vendor confirmations, shipping notifications, promotions, task reminders); 3 critical human communications (Jure Dolinar/Atmolab technical update, Robert Wilson/FastBlaize edge AI inquiry, Paige Smith internal BST team update); 1 HR/benefits notification (Rippling insurance enrollment)
+- Sustained extremely high volume of vendor/logistics notifications (~91% of new volume) confirming procurement-heavy execution phase; minimal strategic correspondence; growing pattern of Protolabs rapid quote iterations (4 orders submitted within 6-minute window on May 1, 15:43-15:57 UTC)
 
 ## Key Correspondents
 
 ### Top Internal Collaborators (BST team):
-- **Jack Elston** (elstonj@blackswifttech.com, purchasing@blackswifttech.com alias) - CEO, strategic initiatives; **actively coordinating Atmolab Camera System integration**; managing Clearwater Composites orders (Order #14814) and vendor relationships
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) - Operational execution; **directly managing Rock West Composites communications** (Order #Z100698536 out-of-stock coordination); Craftcloud order management; Clearwater Composites vendor coordination (Apr 30)
-- **Maciej Stachura** (stachura@blackswifttech.com) - Technical partner (previous data)
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) - Technical projects (previous data)
-- **Meredith Needham** (meredith.needham@blackswifttech.com) - Operations, vendor coordination (previous data)
-- **Beck Cotter** (beck.cotter@blackswifttech.com) - Operational support (previous data)
+- **Jack Elston** (elstonj@blackswifttech.com, purchasing@blackswifttech.com alias) - CEO, strategic initiatives; **actively coordinating Atmolab Camera System integration** (May 1, 17:39); managing vendor relationships and catering coordination (ezCater); receiving technical updates from Jure Dolinar
+- **Joshua Fromm** (josh.fromm@blackswifttech.com, purchasing@blackswifttech.com alias) - Operational execution; **directly managing Pololu component orders** (Order 1J585099, May 1, 19:30 & 19:33); receiving Rock West Composites purchase completion notices; sustained supplier coordination role
+- **Paige Smith** (paige.smith@blackswifttech.com) - **NEW CONTACT**: Internal communications; sent promotional/brand messaging about hurricane UAS swarm deployment (May 1, 21:50); suggests marketing or internal communications function
+- **Maciej Stachura**, **Daniel Prendergast**, **Meredith Needham**, **Beck Cotter** - (sustained from previous data)
 
 ### Key External Contacts - ONGOING PROJECTS:
 
 **Atmolab Camera System Integration - CONTINUED ACTIVE:**
-- **Nejc Trost (C-Astral)** - Primary technical lead (previous data)
-- **Jure Dolinar (Atmolab)** - Technical coordination (previous data)
-- **Jošt Laznik (Atmolab)** - Technical support (previous data)
-- **Sage Rawlings (Rock West Composites)** (Sage.Rawlings@1rockwest.com) - **ACTIVE VENDOR COORDINATION**: Managing order #Z100698536 stock status and fulfillment (Apr 30, 20:08-15:00 UTC coordination chain); direct contact for composite supply issues
+- **Jure Dolinar (Atmolab)** (jure.dolinar@atmolab.eu) - **ACTIVE TECHNICAL LEAD**: Sent update to Jack Elston and Nejc Trost on May 1, 17:39; marked IMPORTANT; direct coordination on camera system integration progress
+- **Nejc Trost (C-Astral)** - Technical coordination (May 1, 17:39 email chain)
+- **Jošt Laznik (Atmolab)** - (previous data)
 
-**Battery Cell Sourcing - ESCALATION ONGOING:**
-- **George Kusaba (Amprius)** (previous data)
-- **Neha Dubey (Amprius)** (previous data)
+**NEW EXTERNAL CONTACT - POTENTIAL STRATEGIC PARTNERSHIP:**
+- **Robert Wilson (FastBlaize)** (robert.wilson@fastblaize.com) - **CRITICAL NEW CONTACT**: Sent inquiry about "Low-power edge AI for UAS platforms" to alex.lomis@bst.aero on May 1, 12:30 UTC; marked IMPORTANT and in INBOX; suggests new vendor evaluation or partnership exploration for AI/edge computing capabilities
 
-### Vendor/Supplier Ecosystem - EXPANDED ACTIVITY:
+### Vendor/Supplier Ecosystem - SIGNIFICANTLY EXPANDED:
 
-**Electronics & Components:**
-- **Amazon** - Mavic 3 Pro accessories delivery confirmed (Apr 30, 19:12 UTC)
-- **DigiKey** - (previous data)
-- **eBay** - Futaba 14SG receiver/transmitter monitoring (Apr 30, 06:30 UTC; previous pattern sustained)
-
-**Manufacturing & CNC:**
-- **Craftcloud** - **ACTIVE EXECUTION**: Order #459340813415 in production pipeline (Apr 30, 15:13-21:13 UTC); invoice generated, pre-shipment and shipment confirmation (Apr 30, 21:13 UTC); appears to be primary CNC/3D printing vendor with active workload
-- **SendCutSend** - **ACTIVE**: Order SX79V088 tracking updates; formal quote generation (Apr 30, 18:01 & 17:13 UTC); multiple orders in pipeline
-- **JawsTec** - **ACTIVE**: Order #68473 received (Apr 30, 19:37 UTC); sustained production orders
-- **Rock West Composites** - **CRITICAL SUPPLY ISSUE**: Order #Z100698536 marked OUT OF STOCK (Apr 30, 20:08 UTC); escalated to Joshua Fromm for resolution; indicates high demand or supply chain pressure
-- **123Bearing** - **NEW ACTIVE VENDOR**: Order confirmed and shipped (Apr 30, 16:05-16:39 UTC); bearing/mechanical component sourcing
+**Manufacturing & Prototyping - ACCELERATION SPIKE:**
+- **Protolabs** - **DRAMATIC INCREASE**: 6 orders and quotes submitted in rapid succession on May 1 (15:42-15:57 UTC + 16:00 UTC). Orders: 5345-257, 9102-034, 4164-549. Multiple duplicate quote notifications suggest either quote comparison workflow or system duplication. Indicates high-frequency rapid prototyping cycle with multiple concurrent design iterations or parallel manufacturing tracks
+- **Craftcloud** - (previous data - sustained)
+- **SendCutSend** - Formal quote generation (May 1, 21:43); sustained metal cutting/fabrication supplier
+- **JawsTec** - Order #68490 received (May 1, 15:23); sustained CNC/precision manufacturing vendor
 
 **Composites & Structural:**
-- **Clearwater Composites** - **ACCELERATED ACTIVITY**: Order #14814 completed (Apr 30, 19:31 UTC); Jack Elston and Joshua Fromm directly managing vendor relationship (Apr 30, 18:45-11:26 UTC exchange); appears to be primary composite supplier with sustained high volume
-- **DragonPlate** - **ACTIVE**: Order Acknowledgment 174005 received via Allred & Associates (Apr 30, 10:57 UTC); carbon fiber sourcing continuing
-- **Rock West Composites** - Sustained supplier (previous data)
+- **Rock West Composites** - "Complete Your Purchase" reminder (May 1, 15:05); suggests order in cart/pending finalization; sustained critical supplier
+- **Clearwater Composites** - (previous data)
+- **DragonPlate** - (previous data)
 
-**Logistics & Shipping:**
-- **DHL Express** - **CRITICAL ACTIVITY SPIKE**: 7 separate DHL notifications (Apr 30, 19:37-20:31 UTC + May 1, 00:42-00:48 UTC) including import duty payment alerts and on-demand delivery notifications; Shipment AWB: 6962330605 with multiple status updates; **IMPORTANT**: suggests international shipment with customs/duty implications; high-value or time-sensitive delivery
-- **USPS Informed Delivery** - Daily digest tracking (Apr 30, 13:28 UTC)
-- **Tracking notifications** - General delivery confirmation (Apr 30, 20:26 UTC)
+**Electronics & Motors:**
+- **Pololu Electronics** - **ACTIVE COMPONENT SOURCING**: Order 1J585099 being processed and shipped (May 1, 19:30 & 19:33 UTC); directed to Joshua Fromm; indicates ongoing motion control or robotics component procurement
+- **T-MOTOR** - **NEW ACTIVITY**: Paid order invoice value declaration (May 1, 18:09); suggests high-value motor/propulsion component procurement with customs/duties implications
+- **GetFPV** (chloe@getfpv.com) - **NEW DIRECT CONTACT**: Sent promotional email directly to alex.lomis@blackswifttech.com (not through purchasing alias) on May 1, 16:13 about BETAFPV 0702 Motors; marked IMPORTANT; suggests Alex has direct personal relationship with supplier contact or specific motor evaluation in progress
+- **ELEGOO US** - Electronics/materials supplier (May 1, 13:03)
 
-**Bearings & Mechanical:**
-- **123Bearing** - **NEW**: Order confirmation and shipment (Apr 30, 16:05-16:39 UTC)
+**Logistics & Shipping - CRITICAL ACTIVITY:**
+- **DHL Express** - **SUSTAINED INTERNATIONAL SHIPMENT**: 3 additional "DHL On Demand Delivery" notifications (May 1, 16:57, 18:39, 19:33 UTC) to alex.lomis@blackswifttech.com marked IMPORTANT; shipment AWB 6962330605 continues with status updates (May 2, 00:49 UTC); pattern confirms high-value time-sensitive international delivery with customs/duties implications
+- **FedEx** - Tracking updates and delivery notifications (May 1, 09:21 & 10:05 UTC, shipment 871015479182); active domestic logistics
+- **USPS/Spindrift Market** - Delivery confirmations (May 1, 17:27 & 17:25 UTC, order SH62367658)
+
+**Components & Specialized:**
+- **PCBWay** - **NEW VENDOR**: Order review status notification (May 2, 10:17 UTC); indicates PCB fabrication/electronics manufacturing outsourcing activated
+- **Wintopay** - **NEW SERVICE**: Order confirmation (May 1, 18:09); payment processing or financial service (unclear from header)
+- **General Air Service** - **NEW VENDOR**: Invoice notification (May 2, 02:00 UTC, invoice 97519991-1, order 10099275, control# HOUSE); pneumatic/air tools or aerospace-related components
+- **Amazon** - Kester 2331-ZX Water solder flux and 3 additional items ordered (May 1, 16:57); shipped (May 1, 17:41); soldering/electronics assembly materials
+- **eBay** - Woodhead 4023 connector/electrical components monitoring (May 1, 06:15)
 
 **Tools & General:**
-- **Harbor Freight** - Sustained promotional engagement (Apr 30, 12:14 UTC; May 1, 04:55 UTC)
-- **The Home Depot** - (previous data)
+- **Harbor Freight** - Multiple promotional alerts (May 1, 04:55; May 2, 04:55; May 1, 13:01); sustained tool/equipment supplier engagement
+- **Spindrift Market** - Grocery/food delivery (May 1, 17:27 & 17:25); office supply or food service
 
-**Recovery/Safety:**
-- Rocketman Parachutes - Order #1534 shipped (previous data)
+**Parachutes & Safety:**
+- **Rocketman Parachutes** - May check-in/sustaining communication (May 1, 17:08); ongoing supplier relationship
 
-**Food/Beverage/Non-work:**
-- **Driftaway Coffee** - **NEW**: Order #DR22306COF confirmed (Apr 30, 23:02 UTC, MARKED IMPORTANT); personal subscription or office supply
-- **Moe's Broadway Bagel** - **NEW**: Order confirmed (Apr 30, 19:01 UTC); office food/catering
+**Food & Office Supply:**
+- **Driftaway Coffee** - Shipment in transit (May 1, 10:22); sustained subscription/office supply
+- **ezCater** - Promotional/bonus point reminder to Jack Elston via purchasing alias (May 1, 13:01); catering vendor with bonus point system integration
 
-**Software & Services - ACTIVE TOOLS:**
-- **Asana** - Task management; 4 tasks due soon notification (Apr 30, 10:01 UTC); indicates active project management and task assignment workflow
-- **Toggl Track** - Time tracking; notification received (May 1, 00:07 UTC); time tracking integration active
-- **Rippling** - Payroll/HR platform; paycheck notification for period 4/1/26-4/30/26 (Apr 30, 18:45 UTC)
-- **SecurityMetrics** - PCI compliance support (Apr 30, 08:12 UTC); payment processing security
-- **Weebly/Square Pay** - Payment processing setup (Apr 30, 18:57 UTC)
-
-**Content & Engineering Resources:**
-- **Rand Simulation** - Engineering simulation content (Apr 30, 09:01 UTC, MARKED IMPORTANT); CAD/FEA/simulation tools engagement
-- **The Flexpipe Team** - Workflow/workstation content (Apr 30, 10:27 UTC)
-
-## Topic Patterns
-
-**Active Projects & Systems (from subject/vendor patterns):**
-- **Atmolab Camera System integration** - Camera system evaluation/integration with C-Astral partnership; sustained multi-party technical coordination
-- **Composite airframe/structure** - High activity in Clearwater Composites and Rock West orders; urgent supply constraint on Rock West order
-- **CNC/precision manufacturing** - Active Craftcloud, SendCutSend, JawsTec pipelines with multiple concurrent orders
-- **Drone/aircraft platform** - Mavic 3 Pro accessories procurement; Futaba RC control system monitoring; suggests platform evaluation or test vehicle
-- **Battery/power systems** - Amprius cell negotiation escalation ongoing (previous data
+**Software & Services:**
+- **Asana** - 3 overdue tasks (May 1, 15:42) and 4 tasks due soon (May 1, 10:01); active project management with task tracking (overdue indicates execution pressure)
+- **Rippling**

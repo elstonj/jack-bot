@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $885,348.76 *(+$4,774.98 April 28–29; +$1,772.74 April 30–May 1)*
+- **Total Expenses (Bills + Purchases)**: $895,054.44 *(+$9,705.66 May 1–2)*
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$867,454.40 (expenses exceed revenue significantly)
-- **Date Range**: April 5, 2024 – May 1, 2026 (24+ months)
-- **Transaction Count**: 1,047+ *(+10 new transactions April 29–May 1)*
+- **Net Position**: -$877,160.08 (expenses exceed revenue significantly)
+- **Date Range**: April 5, 2024 – May 2, 2026 (24+ months)
+- **Transaction Count**: 1,054+ *(+7 new transactions May 1–2)*
 
 ---
 
@@ -59,55 +59,61 @@
 
 ---
 
-### Materials & Direct Purchases: $429,792.08
-*(+$4,335.87 from April 28–30; +$239.86 from April 30–May 1)*
+### Materials & Direct Purchases: $439,497.74
+*(+$9,705.66 from May 1–2)*
 
 **Subcategories:**
 - **Electronics/components** (Digi-Key, Mouser, electronics vendors): ~$208,187.22
 - **PCB manufacturing/assembly** (Advanced PCB, JLCPCB, FastTurn, Vyrian, Circuits West): ~$58,923.45
-- **Composites/structures** (Quanta3, fiber tubes, laminates, carbon fiber tubes): ~$36,631.30 *(+$652.45 new Apr 28–30)*
-- **Mechanical parts/hardware** (fasteners, servos, linkages, SKB cases, MKS servos, bearings): $43,971.92 *(+$124.15 new Apr 30–May 1)*
-- **Motors/propulsion** (KDE, Vertiq, Amprius batteries, FetTec, DJI propellers): $31,912.00 *(+$20.99 new Apr 28–30)*
+- **Composites/structures** (Quanta3, fiber tubes, laminates, carbon fiber tubes): ~$36,631.30
+- **Mechanical parts/hardware** (fasteners, servos, linkages, SKB cases, MKS servos, bearings): $43,971.92
+- **Motors/propulsion** (KDE, Vertiq, Amprius batteries, FetTec, DJI propellers): $31,912.00
 - **Test/measurement equipment** (Makeflyeasy HERO VTOL x2, Kestrel 5500 Weather Meters): $2,392.95
-- **Shipping/duties/tariffs** (DHL, FedEx, duties): $27,104.51 *(+$228.86 new Apr 30)*
-- **Direct cost supplies multi-project** (2026 IDIQ, Sasquatch, future S3 sales, By Light): $12,642.19 *(+$112.93 new Apr 28–30)*
-- **Inventory for future S3 customer sales** (UMES, Barbados, INSTAAR, S3 items): $6,426.54 *(+$4,497.38 new Apr 28–30; +$363.36 new Apr 30–May 1)*
+- **Shipping/duties/tariffs** (DHL, FedEx, duties): $27,104.51
+- **Direct cost supplies multi-project** (2026 IDIQ, Sasquatch, future S3 sales, By Light): $12,642.19
+- **Inventory for future S3 customer sales** (UMES, Barbados, INSTAAR, S3 items): $16,131.20 *(+$9,705.66 new May 1–2)*
 
-**Notable New Transactions (April 30 – May 1):**
+**Notable New Transactions (May 1–2):**
 
-1. **2026-04-30 Purchase (no #)** — $228.36 (Split PayPal allocation)
-   - **Items**: Tariff/Import Duties for BlueBird Shipment
-   - **Line Items**:
-     - $152.24 [GENERAL & ADMINISTRATIVE:Tariff/Import Duties] — IDIQ
-     - $30.45 [GENERAL & ADMINISTRATIVE:Tariff/Import Duties] — Sasquatch
-     - $45.67 [GENERAL & ADMINISTRATIVE:Tariff/Import Duties] — Future S0 sales (6 units)
-   - **Category**: *Reclassified to Shipping/Duties/Tariffs*
-   - *Purpose: Import duty fees for multiple projects on single BlueBird shipment*
-
-2. **2026-04-30 Purchase #68473** — $904.32
-   - **Item**: Inventory for future S3 Sales
+1. **2026-05-01 Purchase #2026050283273** — $359.97
+   - **Item**: NS20*6.2 Prop-2PCS/PAIR
    - **Category**: Inventory Asset (balance sheet) → *tracked in Materials/Inventory for S3*
-   - *Purpose: Direct inventory procurement for S3 customer deliveries*
+   - *Purpose: Propeller inventory for S3 customer deliveries*
 
-3. **2026-04-30 Purchase #SX79V088** — $516.91
-   - **Item**: Inventory for future S3 Sales
+2. **2026-05-01 Purchase (no #)** — $1,700.00 | **Amprius Technologies**
+   - **Item**: SA112 x 200 (Quote #00001879) - for future S3 sales
    - **Category**: Inventory Asset (balance sheet) → *tracked in Materials/Inventory for S3*
-   - *Purpose: Advance inventory for S3 contracted customer deliveries*
+   - **Memo**: "For Future S3 sales. No Asana request - Josh contact them directly via email"
+   - *Purpose: Amprius battery inventory for S3 customer deliveries (matches PO #1038 from April 30)*
 
-4. **2026-04-30 Purchase #C80812959** — $123.15
-   - **Item**: DEEP GROOVE BALL BEARING - for future sales of S3
+3. **2026-05-01 Purchase #9102-034** — $1,689.05
+   - **Item**: For upcoming sales of S3
    - **Category**: Inventory Asset (balance sheet) → *tracked in Materials/Inventory for S3*
-   - *Purpose: Mechanical components for S3 platform assembly*
+   - **Memo**: "No Asana Request - Josh put in order directly."
+   - *Purpose: General S3 inventory procurement*
 
-5. **2026-04-30 PO #1038** — $1,700.00 | **Amprius Technologies** | **Outstanding**
-   - **Item**: SA112 x 200 (Quote #00001879)
+4. **2026-05-01 Purchase #4164-549** — $2,262.54
+   - **Item**: For upcoming sales of S3
    - **Category**: Inventory Asset (balance sheet) → *tracked in Materials/Inventory for S3*
-   - **Memo**: "Ship using customer FedEx account: 341-698949341. Ship together with SA504 order (Quote #: 1876)"
-   - **PO Status**: Open/Outstanding
-   - *Purpose: Amprius battery inventory for S3 customer deliveries*
-   - **Note**: Large order suggests significant customer commitment or bulk inventory buildup for multiple S3 units
+   - **Memo**: "No Asana Request - Josh put in order directly."
+   - *Purpose: General S3 inventory procurement*
 
-**Total Materials & Direct Purchases: $429,792.08**
+5. **2026-05-01 Purchase #68490** — $1,358.86
+   - **Item**: For future S3 Sales
+   - **Category**: Inventory Asset (balance sheet) → *tracked in Materials/Inventory for S3*
+   - *Purpose: S3 inventory procurement*
+
+6. **2026-05-01 Purchase #1J585099** — $143.52
+   - **Item**: For future S3 sales
+   - **Category**: Inventory Asset (balance sheet) → *tracked in Materials/Inventory for S3*
+   - *Purpose: S3 inventory procurement*
+
+**Inventory for S3 Summary (May 1–2):**
+- **Total May 1–2 additions**: $7,514.10 (6 transactions)
+- **Cumulative S3 Inventory**: $16,131.20
+- **Pattern**: Direct procurement by Josh (bypassing Asana); focus on propellers (NS20), batteries (Amprius SA112), and unspecified mechanical/electrical components for S3 customer fulfillment
+
+**Total Materials & Direct Purchases: $439,497.74**
 
 ---
 
@@ -130,16 +136,16 @@
 ---
 
 ### Rent & Facilities: $168,110.30
-*(unchanged from prior period)*
+*(unchanged from prior period; +$12.37 May 1 office supplies)*
 
 - **W.W. Reynolds / Goose Creek Partners** (office rent): $156,365.76
 - **Shop supplies** (glues, flux, solder, tape, debuggers): $4,585.47
-- **Office supplies** (paper, tissues, cleaner, soap, stamps, beverages): $229.59
+- **Office supplies** (paper, tissues, cleaner, soap, stamps, beverages): $241.96 *(+$12.37 May 1: paper towels/toilet paper)*
 - **Utilities** (XCEL Energy, Comcast, T-Mobile): $2,043.43
 - **Facility maintenance** (NEAT N TIDY, Ecocycle, repairs): $721.84
 - **Software/SaaS subscriptions** (Google Workspace, Adobe, OpenAI, Slack, Flux.ai, Toggl, Constant Contact, QuickBooks, Vercel, WordPress, Hetzner, IRC Cloud, Microsoft, Claude.ai, Anthropic, Watch Duty): $3,548.51
 
-**Total Rent & Facilities: $168,110.30**
+**Total Rent & Facilities: $168,122.67** *(+$12.37)*
 
 ---
 
@@ -160,8 +166,18 @@
 
 ---
 
+### Research & Development / IRAD: $2,280.23
+*(+$45.79 May 1)*
+
+**Previous balance**: $2,229.98  
+**May 1 addition**: $45.79 [RESEARCH & DEVELOPMENT] — (office/lab supplies purchase)
+
+**Total Research & Development: $2,280.23**
+
+---
+
 ### Tariffs & Import Duties: $228.36
-*(New category — April 30, $228.36)*
+*(unchanged from prior period)*
 
 **Breakdown by Project:**
 - **IDIQ project**: $152.24
@@ -170,15 +186,12 @@
 
 **Total Tariffs & Import Duties: $228.36** | **1 transaction** | **Multi-project allocation on single BlueBird shipment**
 
-**Note**: Previously embedded in "Shipping/Duties/Tariffs" subtotal; separated here for transparency on import compliance costs.
-
 ---
 
-### Research & Development / IRAD: $2,229.98
-*(unchanged from prior period; note: IRAD materials reclassified to Materials & Direct Purchases)*
+## Purchase Orders
 
-- **Previous IRAD balance**: $1,919.72
-- **April 28–29 items reclassified to Materials**:
-  - Rocketman Ultra-Light Parachutes: $155.07
-  - Ultra-High Modulus Carbon Fiber Tube 72": $651.24
-  - Subtotal recl
+| PO # | Date | Vendor | Amount | Description | Status |
+|------|------|--------|--------|-------------|--------|
+| #1038 | 2026-04-30 | Amprius Technologies | $1,700.00 | SA112 x 200 (Quote #00001879) — for future S3 sales | Outstanding |
+
+**Total Purchase Orders**: $1

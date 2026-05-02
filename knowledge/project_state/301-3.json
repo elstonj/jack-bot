@@ -31,19 +31,19 @@
       {
         "category": "Labor",
         "amount": 111481.0,
-        "description": "Engineering Tasks (NRE): laser config, AirOps updates, dual GPS RTK, 10Hz met data, firmware customization, battery endurance, manufacturability, data buffering",
+        "description": "Engineering Tasks (NRE): Laser configuration, AirOps updates, Dual GPS RTK, 10Hz met data, firmware/comms customization, extended endurance battery tweaks, manufacturability improvements, data buffering/re-transmission",
         "source_doc": null
       },
       {
         "category": "Materials",
         "amount": 1700.0,
-        "description": "Materials for dual GPS, extended endurance battery tweaks, manufacturability improvements",
+        "description": "Materials for engineering tasks: Dual GPS ($1,000), Extended endurance battery ($200), Manufacturability improvements ($500)",
         "source_doc": null
       },
       {
         "category": "Travel",
         "amount": 20852.0,
-        "description": "Clear Air Testing 2025 and Hurricane Flights 2025",
+        "description": "Clear Air Testing 2025 ($4,852) and Hurricane Flights 2025 ($16,000)",
         "source_doc": null
       }
     ],
@@ -52,13 +52,13 @@
         "amount": 551211.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-01"
+        "last_updated": "2026-05-02"
       },
       "purchases": {
         "amount": 902.06,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-05-01"
+        "last_updated": "2026-05-02"
       },
       "other_qbo": {
         "amount": 321540.76,
@@ -72,7 +72,7 @@
     "committed": 0.0,
     "remaining": -741321.07,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-01T09:07:01Z"
+    "last_reconciled": "2026-05-02T09:03:07Z"
   },
   "milestones": [
     {
@@ -232,6 +232,6 @@
       "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
     }
   ],
-  "last_full_rebuild": "2026-05-01T09:07:01Z",
+  "last_full_rebuild": "2026-05-02T09:03:07Z",
   "last_incremental_update": null
 }
