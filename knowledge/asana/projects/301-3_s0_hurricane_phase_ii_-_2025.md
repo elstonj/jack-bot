@@ -84,7 +84,7 @@
 
 ### Funding & Contract Status
 - **Extended contract:** Now runs through August 25, 2026 with 6-month extension
-- NOAA has **$115K + $54K earmarked** for extension/early part ordering for 3 UAS builds or parts (status: yet to be determined per Dec 10 update)
+- NOAA has **$115K + $54K earmarked** for extension/early part ordering for 3 UAS builds or parts (status: yet to be determined per Dec 10, 2025 update)
 - First optional funding invoice ($121,650) submitted October 2025 for: 4 S0s, Hurricane Erin/Gabriella/Imelda deployment trips, support and Clear Air testing
 - **Jack Elston actively negotiating IDIQ contract with NOAA for 25-30 UAS builds (FY25)** — represents significant follow-on opportunity beyond current Phase II contract
 
@@ -99,4 +99,4 @@
 - Clear Air testing completed as of April 16, 2026
 
 ### Critical Issues & Gaps
-1. **Five required technical milestones (10Hz Met Data, Increased
+1. **Five required technical milestones** (10Hz

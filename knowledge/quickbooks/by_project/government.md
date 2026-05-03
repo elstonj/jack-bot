@@ -39,9 +39,9 @@
 **Recent invoices (2026-05-01 to 2026-09-28):**
 - **Invoice #1738** (2026-05-01): $54,000.00 — CLIN 1001 Invoice 3 of 6 [300-3] 2026 IDIQ
 - **Invoice #1739** (2026-07-02): $72,000.00 — CLIN 1001 Invoice 4 of 6 [300-3] 2026 IDIQ
-- **Invoice #1749** (2026-06-29): $35,000.00 — Navy SBIR CLIN 0006 Progress Report - Option [550-1]
 - **Invoice #1740** (2026-07-02): $72,000.00 — CLIN 1001 Invoice 5 of 6 [300-3] 2026 IDIQ
 - **Invoice #1741** (2026-07-30): $72,000.00 — CLIN 1001 Invoice 6 of 6 [300-3] 2026 IDIQ
+- **Invoice #1749** (2026-06-29): $35,000.00 — Navy SBIR CLIN 0006 Progress Report - Option [550-1]
 - **Invoice #1750** (2026-09-28): $14,459.00 — Navy SBIR CLIN 0007 Final Report [550-1]
 
 ---

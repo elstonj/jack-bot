@@ -14,7 +14,7 @@ Provide continuous high-resolution infrared (IR) imagery and in-situ gas samplin
 ## Key Deliverables & Milestones
 | Deliverable | Owner | Due Date | Status |
 |---|---|---|---|
-| Proposal & Statement of Work | — | 1/27/25 | ✓ Submitted |
+| Proposal & Statement of Work | — | 1/27/25 | ✓ Submitted 1/22/25 |
 | Security Management Plan | Unassigned | 3/21/25 | ✓ 3/26/25 |
 | Kick-Off Meeting | Meredith O'Hara Needham | 3/21/25 | ✓ 3/26/25 |
 | Mission planning scripts & tools | Dan Prendergast | 5/8-5/9/25 | ✓ Completed 5/8-5/10 |
@@ -28,7 +28,7 @@ Provide continuous high-resolution infrared (IR) imagery and in-situ gas samplin
 - **Key Contributors:**
   - Jack Elston: PIC, Final Report, Demo Report #1 — 100% complete
   - Dan Prendergast: Lead operator, mission planning — 100% complete
-  - Maciej Stachura: Software verification — 100% complete
+  - Maciej Stachura: Software verification, field operations — 100% complete
   - Nate Straus: Packing/logistics — 100% complete
   - Meredith O'Hara Needham: Kick-off coordination — 100% complete
 
@@ -37,14 +37,14 @@ Provide continuous high-resolution infrared (IR) imagery and in-situ gas samplin
 - **Demonstration Report #1** completed 5/21/25 (2 days late, minor) — includes full flight data
 - **Field operations** executed 5/11-5/22/25 with three-person team (Jack, Dan, Maciej)
 - All pre-deployment tasks completed on schedule or ahead (mission planning scripts, checklists, briefing templates finalized by 5/10)
-- Project archived Oct 21, 2024
+- **Project archived Oct 21, 2024**
 
 ## Business Development — NASA Follow-On Opportunity
-**Team Note (Alex Lomis, 4/17-4/20/26):** NASA RFI (Request for Information) shared for potential hurricane ET opportunity, recommended by NASA stakeholders and Joe for team review:
+**Team Feedback (Alex Lomis, 4/17-4/20/26):** NASA RFI (Request for Information) shared for potential hurricane ET (environmental tracking) opportunity, recommended by NASA stakeholders and Joe for team review:
 
 https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
 
-*This represents potential follow-on work or new NASA opportunity; recommend internal review for business development response.*
+*This represents potential follow-on work or new NASA opportunity; recommend internal BD review and response consideration.*
 
 ## Notes & Context
 - **Platform:** S2 (vTOL aircraft)
@@ -52,9 +52,10 @@ https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
 - **Pilot in Command:** Jack Elston
 - **Operator:** Dan Prendergast
 - **Key deliverable:** NTSR (New Technology Summary Report) — indicates this was a technology demonstration for NASA
-- **No cost overruns or timeline slippages** — project well-executed with early final report submission
-- **Budget clarification:** Total $80,972 budgeted; custom field notes confirm $55,976 BST + $25,000 in-country contractor allocation
+- **No cost overruns or timeline slippages** — project well-executed with early final report submission (27 days ahead)
+- **Budget note:** Custom field shows $80,972 as "Total Funding to Black Swift," but project notes clarify actual BST allocation is $55,976 with $25,000 allocated to in-country contractor
+- **Billing contact:** PIEE
 
 ---
 
-**Project Status:** Complete and archived. All deliverables delivered to NASA on time or early. No open action items. One administrative contact record remains in Asana for reference. NASA has expressed interest in follow-on hurricane ET work via recent RFI (4/17-4/20/26, Alex Lomis) — recommend BD team review.
+**Project Status:** Complete and archived. All deliverables delivered to NASA on time or early. No open action items. One administrative contact record remains in Asana for reference only. NASA has expressed interest in follow-on hurricane ET work via recent RFI (Alex Lomis, 4/17-4/20/26) — recommend BD team review for response opportunity.

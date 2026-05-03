@@ -3,14 +3,14 @@
 ## Overview
 - **Client/customer:** Murray State University / Dr. Bassil El Masri
 - **Dollar value:** $86,862.94 total funding to Black Swift Technologies
-- **Timeline:** Project due 2025-01-31 (original); flights extending through 2026; S2 rental due 2026-06-01
-- **Status:** Active but **at critical risk**. Flights #1 & #2 completed (Nov & Dec 2025). **Flight #3 confirmation deadline (2026-04-10) OVERDUE — remains unconfirmed as of 2026-04-20.** Per Jack Elston (2026-04-20): Murphy's Pond competes with INSTAAR x2 and Ottawa demo for scheduling priority; execution order is "whatever actually happens first" among competing projects. Timing and execution remain uncertain.
+- **Timeline:** Funding expires 2026-12-31. Flights #1 & #2 completed (Nov & Dec 2025). Flight #3 target Spring 2026 (2026-03-02); **confirmation deadline 2026-04-10 now OVERDUE**. S2 rental due 2026-06-01.
+- **Status:** **Active but at critical risk.** Per Jack Elston (2026-04-20): Flight #3 confirmation past deadline and unresolved; Murphy's Pond competes with INSTAAR x2 and Ottawa demo for scheduling priority. Execution order is "whatever actually happens first" among competing projects. Timing and execution remain uncertain.
 - **Team members involved:** Jack Elston (lead technical/flight coordination), Maciej Stachura (payload configuration), Nate Straus (software), Meredith O'hara Needham (communications), Beck Cotter (owner/project lead)
 - **Risk signals:** 
-  - **Flight #3 confirmation deadline (2026-04-10) now overdue** — scheduling unresolved as of 2026-04-20 (Jack Elston); competing with INSTAAR x2 and Ottawa demo for priority
-  - S2 rental order window (2026-06-01) approaching with training/travel requirements; travel not yet scheduled
-  - Unresolved technical issues: FLIR triggering failures and methane payload data rate investigation pending
-  - Project execution timing uncertain; may not proceed if competing priorities take precedence
+  - **Flight #3 confirmation deadline (2026-04-10) OVERDUE** — scheduling unresolved as of 2026-04-20 (Jack Elston); competing with INSTAAR x2 and Ottawa demo
+  - S2 rental order window (2026-06-01) approaching; travel not yet scheduled despite "Training/Travel Needed: Y"
+  - Unresolved technical issues: FLIR triggering failures, methane payload data rate investigation pending
+  - Funding expires 2026-12-31; project execution timeline uncertain and may be deprioritized relative to competing projects
 
 ## Key Deliverables & Milestones
 - **Flight #1:** Completed November 11, 2025
@@ -33,7 +33,7 @@
     - Flight #3 milestone (Due: 2026-03-02)
     - Bassil El Masri contact record (High priority, no due date)
     - S2 rental order — 2 units S0 VTOL, training/travel needed, travel not yet scheduled (Due: 2026-06-01)
-- **Notable patterns:** Jack Elston concentrated on critical flight scheduling and technical troubleshooting; outstanding technical issues (FLIR triggering, camera overlap configuration, methane payload data rate) block readiness; scheduling dependency creates execution uncertainty
+- **Notable patterns:** Jack Elston concentrated on critical flight scheduling and technical troubleshooting; outstanding technical issues (FLIR triggering, camera overlap configuration, methane payload data rate) block readiness; scheduling dependency creates execution uncertainty against competing projects
 
 ## Recent Activity
 - **2026-04-20 (Jack Elston — TEAM FEEDBACK):** Flight #3 dates remain unconfirmed past 2026-04-10 deadline. Murphy's Pond competes with INSTAAR x2 and Ottawa demo for scheduling priority. Execution timeline is "whatever actually happens first" among competing projects.
@@ -51,6 +51,7 @@
 - **Customer type:** Commercial; no subcontractors
 - **Priority:** Low
 - **Initial engagement:** Dr. Masri reached out May 2024; project confirmed to proceed with vertical takeoff capability (July/August 2025 start)
+- **Funding constraint:** Funding expires December 31, 2026 — all project work must conclude by this date
 - **Technical history:** 
   - S2 experienced software issues during August 1 test flight; reverted to Oklahoma State's known-good configuration (Nate Straus, Aug 13, 2025)
   - FLIR triggering issues unresolved; camera overlap (FLIR + A5100) target 80% pending configuration update by Maciej Stachura

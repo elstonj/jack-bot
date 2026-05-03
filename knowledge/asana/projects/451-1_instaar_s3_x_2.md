@@ -25,7 +25,7 @@
   - Unassigned: 1 task (Kevin Rozmiarek contact info, High priority)
 
 ## Recent Activity
-- **April 20, 2026** (Jack): INSTAAR x2 noted as competing near-term delivery priority alongside Ottawa demo and Murphy's project — actual sequence TBD.
+- **April 20, 2026** (Jack): INSTAAR x2 noted as competing near-term delivery priority alongside Ottawa demo and Murphy's project — "whatever actually happens first" — actual sequence TBD.
 - January 8, 2025: Kevin Rozmiarek confirmed 3–4 week launcher shipping timeline; pallet delivery expected second week of February 2025.
 - December 11, 2024: Estimates approved.
 - No tasks completed to date.

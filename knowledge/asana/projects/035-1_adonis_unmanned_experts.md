@@ -32,7 +32,7 @@
 
 ## Recent Activity
 - **April 20, 2026:** Final archival confirmation — Jack Elston: "ADONIS (035-1) project is ARCHIVED and fully complete. UMEX handled the final report, BST sent the final invoice. Do NOT list any ADONIS tasks as priorities, ever again. Permanently exclude from briefings." Daniel Prendergast (2026-04-20) confirmed: "That is complete and the entire ADONIS project has been closed out."
-- **April 17, 2026:** Team clarification — Alex Lomis and Jack Elston confirmed BST had **no responsibility** for final report deliverable; UMEX handled it completely. (Note: Jack also reported fixing AI bugs that were causing obsession with the ADONIS final report in tracking systems.)
+- **April 17, 2026:** Team clarification — Alex Lomis and Jack Elston confirmed BST had **no responsibility** for final report deliverable; UMEX handled it completely. (Jack also reported fixing AI bugs that were causing obsession with the ADONIS final report in tracking systems.)
 - **April 10, 2026:** Project closure — Final invoice sent by Meredith O'hara Needham; Final Report milestone completed by UMEX (not BST)
 - **March 18, 2026:** Completed MS7 Swarming S0 AD Flight and Mothership-dropped Swarming Flight milestone
 - **January 22, 2026:** Delivered all aircraft (2x S0 VTOL, 4x S0 AD)

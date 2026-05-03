@@ -6,7 +6,7 @@
 - **Address:** 8484 Westpark Dr. Ste. 600, McLean, VA 22102
 - **Dollar Value:** $450,000 total budget; $450,000 funding to Black Swift
 - **Timeline:** Started 2025-10-06; Marked complete 2025-12-31 (original due date 2025-12-05)
-- **Status:** **ARCHIVED/DELIVERY COMPLETE** — Core project deliverables finished Dec 31, 2025. **Outstanding contractual work remains:** Per Jack (2026-04-24), "we still owe 2 more flight opportunities." Per Maciej (2026-04-24), By-Lite is **Priority 4 among active projects** (after S3 IRAD, S0-VTOL, EMASS closeout). **Blocker:** New fuselage arrival required before next test flights can be scheduled; no imminent deployment or mission prep.
+- **Status:** **ARCHIVED/DELIVERY COMPLETE** — Core project deliverables finished Dec 31, 2025. **Outstanding contractual work remains:** Per Jack (2026-04-24/30), "we still owe 2 more flight opportunities." Per Maciej (2026-04-24/30), By-Lite is **Priority 4 among active projects** (after S3 IRAD, S0-VTOL, EMASS closeout). **Blocker:** New fuselage arrival required before next test flights can be scheduled; no imminent deployment or mission prep.
 - **Team Members:** Maciej Stachura (owner), Ethan Domagala, Nate Straus, Meredith O'hara Needham
 - **Priority:** High
 - **Product/Service:** Design/prototyping; Consulting
@@ -47,9 +47,9 @@ All invoicing milestones completed and paid; core delivery 26 days past original
 - **All Milestone Invoices Processed:** 10/14, 11/3, 11/24, 12/17
 
 - **Post-Completion Status (April 2026):**
-  - **2026-04-24 (Jack & Maciej):** Confirmed "2 more flight opportunities" still contractually owed. Customer has SWIL setup ready to test their own controller; flight data delivered 2026-04-24. **Next test flights blocked pending new fuselage arrival.**
-  - **2026-04-24 (Maciej):** By-Lite ranked **Priority 4** among active projects (1=S3 IRAD, 2=S0-VTOL, 3=EMASS closeout, 4=By-Lite Mustang, 5=SBIR Magnetometer).
-  - **2026-04-24 (Maciej):** Directed team: "tell them…there won't be any test flights next week or until we get that new fuse so they're aware that it's them causing the delay." Team to update Asana due dates to realistic numbers and notify customer.
+  - **2026-04-24/30 (Jack & Maciej):** Confirmed "2 more flight opportunities" still contractually owed. Customer has SWIL setup ready to test their own controller; flight data delivered 2026-04-24. **Next test flights blocked pending new fuselage arrival.**
+  - **2026-04-24/30 (Maciej):** By-Lite ranked **Priority 4** among active projects (1=S3 IRAD, 2=S0-VTOL, 3=EMASS closeout, 4=By-Lite Mustang, 5=SBIR Magnetometer).
+  - **2026-04-24/30 (Maciej):** Directed team: "tell them…there won't be any test flights next week or until we get that new fuse so they're aware that it's them causing the delay." Team to update Asana due dates to realistic numbers and notify customer.
 
 ## Notes & Context
 - **Project Type:** Long-Range Fixed-Wing Evaluation & DoD Autopilot Enablement (BYL-LRFE)

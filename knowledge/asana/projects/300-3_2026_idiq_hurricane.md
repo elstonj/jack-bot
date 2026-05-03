@@ -7,13 +7,13 @@
   - Project Start: 2026-07-31
   - Project Due: 2026-07-31
   - Invoice schedule: March 2026 – July 2026
-- **Status:** **ACTIVE — CRITICAL PHASE.** 4 of 6 invoices completed (Invoice 3 submitted 2026-05-01, 3 days early). Hardware development and validation tasks in critical path. Multiple near-term deadlines in May–June 2026 with significant open work.
+- **Status:** **ACTIVE — CRITICAL PHASE.** 4 of 6 invoices completed (Invoice 3 submitted 2026-05-01, 3 days early). 22 open tasks with compressed May–June timeline. Heavy workload on Nate Straus (platform builds) and Jack Elston (firmware). Multiple near-term deadlines with critical path items due by end of May.
 - **Team Members:** 
   - Meredith O'hara Needham (project owner, invoice submissions)
   - Jack Elston (firmware/software development)
-  - Sam Hild (QC, hardware validation)
-  - Nate Straus (platform rebuild/validation, s0 builds, servo assembly)
-  - Maciej Stachura (platform validation/testing)
+  - Sam Hild (QC, hardware validation, kit assembly)
+  - Nate Straus (platform rebuild/validation, S0 builds, servo assembly)
+  - Maciej Stachura (platform validation/testing, magnetic calibration)
   - Alex Lomis (strategic partnerships, NASA opportunities)
   - BST (whole team)
 - **Contract Details:** 
@@ -22,11 +22,18 @@
   - 20 UAS units for NOAA
   - Background: SBIR Phase I (2018) and Phase II (2019–2020) collaboration; current IDIQ builds on prior partnership
 - **Risk Signals:** 
-  - **CRITICAL NEAR-TERM DEADLINE:** Invoice 3 of 6 ($54k) due 2026-05-04; **already completed 2026-05-01** ✅
-  - **Compressed May–June timeline:** 6 tasks due by 2026-06-05 with 11 open tasks total
-  - **Servo assembly and linkage tasks WITHOUT DUE DATES:** 5 tasks (Wire Servos for wings/tails, Install servos in tails, Construct linkages, Assembly latch carrier trays) assigned to Nate Straus with no deadline specified — **requires clarification on integration into build schedule**
-  - **Final 2025 S0 builds due 2026-06-30:** Nate Straus must complete full system packing for delivery with only ~6 weeks remaining
-  - **Platform stability investigation resolved or closed:** May 2026 S0-70 rollover follow-up task is no longer in the open task list (previously due 2026-05-08); status unknown — confirm closure with Maciej Stachura
+  - **🚨 CRITICAL NEAR-TERM DEADLINES (MAY 27 – MAY 29):**
+    - **Build up 2 SHOW s0's using 2025 parts — MUST SHIP MAY 27th** (Nate Straus)
+    - **Build 2 show tripods to ship with SHOW s0 2025's — DUE MAY 27th** (Nate Straus)
+    - **Finalize deployment tube firmware — DUE MAY 29th** (Jack Elston)
+  - **🚨 OVERDUE/IMMINENT (as of 2026-04-20):**
+    - **QC at least one of each board as they arrive — DUE MAY 1** (Sam Hild) — NOW PAST DUE
+    - **Add RH / Vaisala fix to PSNS code — DUE MAY 1** (Jack Elston) — NOW PAST DUE
+    - **Figure out why S0-70 rolled over during CAT on 04-09 — DUE MAY 8** (Maciej Stachura) — APPROACHING OVERDUE
+  - **Servo assembly and linkage tasks WITHOUT DUE DATES:** 5 tasks (Wire Servos for wings/tails, Install servos in tails, Construct linkages, Assembly latch carrier trays) — **requires urgent scheduling to integrate into build plan**
+  - **22 open tasks vs. prior 11:** Task list has doubled; new visibility reveals significant scope (SHOW s0 builds, deployment tube board QCs, kit assembly)
+  - **Nate Straus workload:** 7 active platform/assembly tasks spanning May–July; at least 5 lack due dates. Risk of bottleneck on hardware delivery path.
+  - **Final 2025 S0 delivery due 2026-06-30:** ~6 weeks to complete full system packing after SHOW units ship (May 27).
 
 ## Key Deliverables & Milestones
 **Deliverable:** 20 UAS units for NOAA with critical atmospheric measurement capabilities
@@ -46,37 +53,20 @@
 **Hardware/Firmware/Validation Development Milestones:**
 | Task | Owner | Due Date | Status | Priority |
 |------|-------|----------|--------|----------|
-| QC at least one of each board as they arrive | Sam Hild | 2026-05-01 | ⏳ Open | HIGH |
-| Add RH / Vaisala fix to PSNS code | Jack Elston | 2026-05-01 | ⏳ Open | HIGH |
+| **Build up 2 SHOW s0's using 2025 parts — MUST SHIP MAY 27** | Nate Straus | 2026-05-27 | ⏳ Open | **CRITICAL** |
+| **Build 2 show tripods to ship with SHOW s0 2025's** | Nate Straus | 2026-05-27 | ⏳ Open | **CRITICAL** |
+| **Add RH / Vaisala fix to PSNS code** | Jack Elston | 2026-05-01 | ⏳ **OVERDUE** | **CRITICAL** |
+| **QC at least one of each board as they arrive** | Sam Hild | 2026-05-01 | ⏳ **OVERDUE** | **CRITICAL** |
+| **Finalize deployment tube firmware** | Jack Elston | 2026-05-29 | ⏳ Open | HIGH |
+| **Figure out why S0-70 rolled over during CAT on 04-09** | Maciej Stachura | 2026-05-08 | ⏳ **APPROACHING OVERDUE** | HIGH |
+| Rebuild BST s0 (currently partially disassembled) | Nate Straus | 2026-05-15 | ⏳ Open | HIGH |
+| Finish deployment tube board QCs | Sam Hild | 2026-06-05 | ⏳ Open | HIGH |
 | Submit Invoice 4 of 6 ($72k) | Meredith O'hara Needham | 2026-06-05 | ⏳ Open | HIGH |
+| Begin kit assembly | Sam Hild | 2026-06-19 | ⏳ Open | HIGH |
 | Rebuild old BST s0 (2024 version) | Nate Straus | 2026-06-19 | ⏳ Open | MEDIUM |
-| Finish 2025 S0's (full system packed) for delivery | Nate Straus | 2026-06-30 | ⏳ Open | **CRITICAL** |
+| **Finish 2025 S0's (full system packed) for delivery** | Nate Straus | 2026-06-30 | ⏳ Open | **CRITICAL** |
+| Finalize AP & PSNS firmware | Jack Elston | 2026-06-26 | ⏳ Open | HIGH |
 | Submit Invoice 5 of 6 ($72k) | Meredith O'hara Needham | 2026-07-02 | ⏳ Open | HIGH |
-| **Construct linkages** | Nate Straus | *No due date* | ⏳ Open | ⚠️ UNSCHEDULED |
-| **Wire Servos for wings** | Nate Straus | *No due date* | ⏳ Open | ⚠️ UNSCHEDULED |
-| **Wire servos for tails** | Nate Straus | *No due date* | ⏳ Open | ⚠️ UNSCHEDULED |
-| **Install servos in tails** | Nate Straus | *No due date* | ⏳ Open | ⚠️ UNSCHEDULED |
-| **Assembly latch carrier trays** | Nate Straus | *No due date* | ⏳ Open | ⚠️ UNSCHEDULED |
-
-## Task Summary
-- **Total Tasks:** 11 open, 1 completed
-- **Tasks by Assignee:**
-  - **Nate Straus (Platform Build/Assembly):** 7 tasks — 0% completion
-    - Rebuild old BST s0 (2024 version) (due 2026-06-19)
-    - **Finish 2025 S0's (full system packed) (due 2026-06-30) — CRITICAL**
-    - Construct linkages (**NO DUE DATE** — ⚠️)
-    - Wire Servos for wings (**NO DUE DATE** — ⚠️)
-    - Wire servos for tails (**NO DUE DATE** — ⚠️)
-    - Install servos in tails (**NO DUE DATE** — ⚠️)
-    - Assembly latch carrier trays (**NO DUE DATE** — ⚠️)
-  - **Jack Elston (Firmware/Software):** 1 task — 0% completion
-    - Add RH / vaisala fix to PSNS code (due 2026-05-01)
-  - **Sam Hild (QC):** 1 task — 0% completion
-    - QC at least one of each board as they arrive (due 2026-05-01)
-  - **Meredith O'hara Needham (Invoice Submissions):** 2 tasks — 0% completion (3 invoices completed)
-    - Submit Invoice 4 of 6 ($72k) (due 2026-06-05)
-    - Submit Invoice 5 of 6 ($72k) (due 2026-07-02)
-
-## Recent Activity
-- **Invoice 3 of 6 ($54k) submitted early:** Completed 2026-05-01, 3 days ahead of due date (2026-05-04) — strong execution on financial milestone tracking.
-- **Hardware task list streamlined:** Previous knowledge file included 17 tasks; current list shows 11 open tasks. Tasks related to "Build 2 SHOW s
+| Build up 2 SHOW s0's using 2026 parts | Nate Straus | 2026-07-17 | ⏳ Open | MEDIUM |
+| Participate in mag cal process | Maciej Stachura | 2026-07-01 | ⏳ Open | MEDIUM |
+| Submit Invoice 6 of 6 ($72k) | Meredith O'hara Needham | 2026-07-31

@@ -4,7 +4,7 @@
 - **Client/customer**: University of Miami (NOAA)
 - **Dollar value**: $344,000 total funding to BST
 - **Timeline**: Project completed and archived as of January 3, 2024
-- **Status**: ARCHIVED — Project successfully completed with all 425 tasks finished (100% completion rate)
+- **Status**: **ARCHIVED** — Project successfully completed with all 425 tasks finished (100% completion rate)
 - **Team members involved**: Jack Elston (Owner), Josh Fromm, Dan Prendergast, Maciej Stachura, Ben Busby, Meredith O'hara Needham, Nate Straus
 - **Risk signals**: None — project completed successfully
 
@@ -85,9 +85,16 @@ Final project phase (Aug-Oct 2024) focused on hurricane field operations and sys
 **Related Government Initiatives** (April 2026 context):
 - Team monitoring **NASA RFI opportunity** related to hurricane ET (Environmental Tracking) — https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view (flagged by Alex Lomis, 4/20/26; recommended by NASA contacts and Dr. Joe Cione)
 - **Navy STTR**: Submitted with invoice as of April 17, 2026 (per Meredith Needham, 4/17/26)
-- **SBIR Magnetometer (Navy)**: **Kicked off April 21, 2026** per Maciej (4/21/26). FWA Certification and kick-off deliverables (including slidedeck) due April 14, 2026. Report templates and instructions at https://navysbir.com/links_forms.htm (per Meredith Needham, 4/17/26). Technical lead assigned; designated as one of Maciej's highest priority projects (4/24/26).
+- **SBIR Magnetometer (Navy)**: **Kicked off April 21, 2026** per Maciej (4/21/26). FWA Certification and kick-off deliverables (including slidedeck) due April 14, 2026 (per Meredith Needham, 4/17/26). Report templates and instructions at https://navysbir.com/links_forms.htm. Technical lead assigned; designated as one of Maciej's highest priority projects (4/24/26).
 
 ---
 
 ## Status as of April 2026
-**NOTE**: This project is archived and complete. The team is now focused on new initiatives (S3 IRAD, S0-VTOL, EMASS closure, By-Lite Mustang, and SBIR Magnetometer per Maciej's priority list, 4/24/26).
+**NOTE**: This project is archived and complete. The team is now focused on new initiatives: 
+- **(1) S3 IRAD** with a targeted delivery of end of May for the UMES S3
+- **(2) S0-VTOL** with two deliveries for ERAU and Barbados
+- **(3) Closing out EMASS**
+- **(4) By-Lite Mustang**
+- **(5) SBIR Magnetometer** (initial tasks, Navy technical lead assigned)
+
+Per Maciej (4/24/26 & 4/30/26): These are the highest priority projects, and daily tracking of overdue tasks is being monitored.

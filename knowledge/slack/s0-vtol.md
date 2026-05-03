@@ -5,7 +5,7 @@ This channel is primarily used for development and testing of BST's S0 VTOL airc
 
 Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan, Dan
 Activity: High activity with 1412+ messages covering approximately 2+ years of development
-Time range: Early development through May 1, 2026 (ongoing project)
+Time range: Early development through May 2, 2026 (ongoing project)
 
 ## Key Decisions
 
@@ -36,7 +36,7 @@ Time range: Early development through May 1, 2026 (ongoing project)
 - Failure risk mitigation: Team must choose between high-confidence ground testing, trusted parachute system, or pre-flight failure detection capability before resuming flights (April 19, 2026)
 - S0-VTOL ground testing to be aligned with S3 methodology (April 28, 2026)
 
-**Ground Testing & Crash Analysis (April 29 - May 1, 2026):**
+**Ground Testing & Crash Analysis (April 29 - May 2, 2026):**
 - Crash autopilot code version identified: 0xf9eb3e6c (April 29, 2026)
 - Baseline established for comparing test rig behavior against crash conditions
 - Sinusoidal loop testing will require custom firmware (small change at output stage)
@@ -48,6 +48,12 @@ Time range: Early development through May 1, 2026 (ongoing project)
 - PWM-to-UART board may no longer be required for instrumentation given DShot 300 implementation on test rig
 - DShot telemetry decoding library available in Autopilot/shared/devices/actuators directory
 
+**Crash Aircraft Failure Pattern (May 2, 2026):**
+- Aircraft experienced back-to-back failures with different characteristics: first failure showed ~30% throttle command shift in PWM mode (manageable), second failure showed same issue but worse after switching to DShot protocol
+- Potential ESC/PWM scaling issue identified that may cause command shifting
+- DShot protocol attempted as mitigation for the underlying scaling issue but made failure worse
+- Sam conducting oscilloscope testing to determine if cause is related to the identified issue (May 2, 2026)
+
 ## Projects & Initiatives
 
 **S0-VTOL Development (Spin-Up Phase - April-May 2026):**
@@ -58,7 +64,8 @@ Time range: Early development through May 1, 2026 (ongoing project)
 - Next steps: Order instrumentation components (ESC telemetry loggers, eRPM sensors, PWM loggers, optical RPM sensors for motors; PWM loggers and Hall effect rotation sensors for servos) while continuing current test regime
 - Major concern: Consecutive transition flight failures cannot be replicated on ground - instrumentation critical for identifying root cause
 - Baseline comparison: Test rig behavior now being compared against crash conditions with matched autopilot code version (0xf9eb3e6c)
-- **Pending Decision (May 1, 2026):** Whether to prioritize parachute system integration and resume flight testing if CAN termination issue (S01006) identified as likely crash cause, versus continuing extended ground testing phase
+- Critical issue under investigation: ESC/PWM scaling problem causing throttle command shifts; differences in behavior between PWM and DShot protocols suggest hardware-level issue rather than software problem (May 2, 2026)
+- **Pending Decision (May 1-2, 2026):** Whether to prioritize parachute system integration and resume flight testing if underlying ESC scaling issue can be resolved, versus continuing extended ground testing phase
 
 **S1-20 Aircraft Reference Data:**
 - Reference aircraft completed 213 total flights with 10.5 hours combined flight time over past year
@@ -87,6 +94,7 @@ Time range: Early development through May 1, 2026 (ongoing project)
 - Preserve crashed autopilot code version during ground testing iterations
 - Deploy PWM sensors as minimum instrumentation requirement before proceeding with more complex tests (April 30, 2026)
 - Investigating DShot version on test rig and implications for instrumentation strategy (May 1, 2026)
+- **Conducting oscilloscope testing to determine root cause of throttle command scaling issue (May 2, 2026)**
 - Build 3 new aircraft with updated boards for delivery
 - Set up independent RPM logging capability
 
@@ -96,29 +104,9 @@ Time range: Early development through May 1, 2026 (ongoing project)
 - Coordinate S0-VTOL ground testing plan in conjunction with spin-up
 - Lead ground testing methodology alignment between S0 and S3 programs
 - **Investigating S01006 CAN termination issue as potential cause of recent crash (May 1, 2026)**
+- **Tracking back-to-back failure pattern: throttle command shift (~30% in PWM, worse in DShot) and potential ESC/PWM scaling issue (May 2, 2026)**
 
 **Alex Lomis:**
 - Manage instrumentation documentation in Asana task (April 30, 2026)
 - Instrumentation specification includes: ESC telemetry + eRPM + PWM logger + optical RPM for motors; PWM logger, Hall effect rotation sensors, couplers for servos; ESC telemetry for power data
-- Coordinate ordering of instrumentation components with supply chain (April 30, 2026)
-- Design and implement sensor logging system to enable data-driven failure analysis
-- Confirmed DShot 300 running on test rig (May 1, 2026)
-
-**Joshua Fromm:**
-- Contribute S3 ground testing methodology insights to S0 program (April 30, 2026)
-- Recommend 15-minute warm-up run as QC-like test for hardware/mechanical verification
-
-## Client & External References
-
-**Customers:**
-- Embry Riddle Aeronautical University (ERAU) - receiving two aircraft
-- Barbados deployment - one aircraft delivered, training completed
-- Stanford team - provided aerodynamic model for research
-
-**Partners/Competitors:**
-- TruWeather - developing competing weather multi-rotor with AFWERX Phase II funding
-- Teledyne FLIR - discussing ATR (Automatic Target Recognition) integration
-- Airlogix GOR platform - competitive intelligence reference
-- Vantage gimbal integration from Vesper quad rotor project
-
-**Suppliers:**
+- Coordinate ordering of instrumentation components with

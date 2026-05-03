@@ -33,7 +33,7 @@
         "amount": 25830.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-02"
+        "last_updated": "2026-05-03"
       },
       "purchases": {
         "amount": 0.0,
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": -2179.0,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-02T09:03:57Z"
+    "last_reconciled": "2026-05-03T09:00:48Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -99,6 +99,24 @@
     },
     {
       "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-17",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-17",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-17",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
       "author": "Meredith Needham",
       "date": "2026-04-17",
       "text": "From Meredith Needham (ts=1775233560.409249): <@U01511MEQ90> <@U014U9WMK2A> Navy STTR was submitted a long with the invoice. SBIR Magnetometer has the kick-off and FWA Certification due on April 14th. Will review Asana due dates to make sure it's all updated"
@@ -142,24 +160,6 @@
     {
       "source": "FEEDBACK",
       "author": "Maciej",
-      "date": "2026-04-17",
-      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-04-17",
-      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-04-17",
-      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
       "date": "2026-04-20",
       "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
     },
@@ -174,12 +174,6 @@
       "author": "Maciej",
       "date": "2026-04-20",
       "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-04-22",
-      "text": "From Maciej (ts=1776825957.633159): <@U0AQE94HJUT> the Navy SBIR Magnetometer project has kicked off as of today. Make sure to track those tasks as part of the daily updates. <@U058LGYMEQ0> is the technical lead on this project with support from the others mentioned in Asana"
     },
     {
       "source": "FEEDBACK",
@@ -195,11 +189,17 @@
     },
     {
       "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-22",
+      "text": "From Maciej (ts=1776825957.633159): <@U0AQE94HJUT> the Navy SBIR Magnetometer project has kicked off as of today. Make sure to track those tasks as part of the daily updates. <@U058LGYMEQ0> is the technical lead on this project with support from the others mentioned in Asana"
+    },
+    {
+      "source": "FEEDBACK",
       "author": "Daniel Prendergast",
       "date": "2026-04-29",
       "text": "From Daniel Prendergast: <@U0AQE94HJUT> FYI, my priority today is to make slides for the 53rd Weather Squadron and SOCOM visit this Friday.  EMASS validation flights probably won't happen today.  We cannot perform those flights until they send us a new controller binary in the emass-bst slack channel.  EMASS validation flight #3 will most likely be Monday at the earliest.  EMASS validation flight #2 possibly tomorrow."
     }
   ],
-  "last_full_rebuild": "2026-05-02T09:03:57Z",
+  "last_full_rebuild": "2026-05-03T09:00:48Z",
   "last_incremental_update": null
 }

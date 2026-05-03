@@ -12,12 +12,12 @@
     "contacts": []
   },
   "contract": {
-    "type": "unknown",
+    "type": "fixed_price",
     "number": "1305M226D0012",
     "total_value": 483000.0,
     "start_date": "2026-02-01",
     "end_date": "2031-01-31",
-    "payment_cadence": "Ordering Period (annual), Task Order / Milestone based for NRE",
+    "payment_cadence": "per ordering period; platforms at delivery; services upon completion/acceptance",
     "documents": [
       "drive://Budget Structure",
       "drive://(1305M226D0012) Attachment 1-Specifications_Black Swift.pdf",
@@ -25,43 +25,73 @@
     ]
   },
   "budget": {
-    "approved": 13281250.0,
+    "approved": 13281750.0,
     "approved_source": "sow_drive",
     "line_items": [
       {
         "category": "Equipment",
-        "amount": 10386250.0,
-        "description": "Black Swift S0 sUAS Platforms: Period 1: 150 @ $18,000 = $2,700,000; Period 2: 150 @ $18,630 = $2,794,500; Period 3: 125 @ $19,282 = $2,410,250; Period 4: 125 @ $19,957 = $2,494,625; Period 5: 125 @ $20,655 = $2,581,875",
+        "amount": 11380250.0,
+        "description": "Black Swift S0 sUAS Platforms (675 units across 5 ordering periods at escalating unit prices: $18,000–$20,655)",
         "source_doc": null
       },
       {
         "category": "Labor",
-        "amount": 429000.0,
-        "description": "Operations and Training Support Services across 5 periods: Mission Days Operational Support (30 days × $2,850 × 5 periods = $427,500); Operator & Observer Training (5 × $6,000 = $30,000); Instructor Training (5 × $600 = $3,000); less $31,500 double-count = $429,000 net",
+        "amount": 427500.0,
+        "description": "Mission Days Operational support (150 days across 5 periods at $2,850/day)",
         "source_doc": null
       },
       {
         "category": "Labor",
-        "amount": 60000.0,
-        "description": "Course Development: Operator and Observer Course Development + Instructor Training Course Development (2 courses × $6,000 × 5 periods = $60,000)",
+        "amount": 180000.0,
+        "description": "Operational and Testing Support (30 sessions across 5 periods at $6,000/session)",
+        "source_doc": null
+      },
+      {
+        "category": "Labor",
+        "amount": 30000.0,
+        "description": "Operator and Observer Training Sessions (5 sessions at $6,000 each)",
+        "source_doc": null
+      },
+      {
+        "category": "Labor",
+        "amount": 3000.0,
+        "description": "Instructor Training Sessions (5 sessions at $600 each)",
         "source_doc": null
       },
       {
         "category": "Travel",
         "amount": 250000.0,
-        "description": "Travel for Operational Support (5 periods × $50,000 NTE per period)",
+        "description": "Travel for Operational Support (5 periods × $50,000 NTE)",
         "source_doc": null
       },
       {
-        "category": "Other",
-        "amount": 990000.0,
-        "description": "Non-Recurring Engineering: Technical Documentation ($66,000 × 5 = $330,000); NRE Modeling ($66,000 × 5 = $330,000); NHC Workflow Integration ($66,000 × 5 = $330,000)",
+        "category": "Labor",
+        "amount": 30000.0,
+        "description": "Operator and Observer Course Development (5 × $6,000)",
         "source_doc": null
       },
       {
-        "category": "Other",
-        "amount": 72000.0,
-        "description": "Operational and Testing Support (6 days × $6,000 × 5 periods = $180,000); net after correction $72,000",
+        "category": "Labor",
+        "amount": 30000.0,
+        "description": "Instructor Training Course Development (5 × $6,000)",
+        "source_doc": null
+      },
+      {
+        "category": "Labor",
+        "amount": 330000.0,
+        "description": "Technical Documentation of Software and Hardware Development NRE (5 periods × $66,000 NTE)",
+        "source_doc": null
+      },
+      {
+        "category": "Labor",
+        "amount": 330000.0,
+        "description": "Non-recurring Engineering Modeling (5 periods × $66,000 NTE)",
+        "source_doc": null
+      },
+      {
+        "category": "Labor",
+        "amount": 330000.0,
+        "description": "Non-recurring Engineering National Hurricane Center operational workflow integration (5 periods × $66,000 NTE)",
         "source_doc": null
       }
     ],
@@ -70,27 +100,27 @@
         "amount": 84403.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-02"
+        "last_updated": "2026-05-03"
       },
       "purchases": {
         "amount": 902.06,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-05-02"
+        "last_updated": "2026-05-03"
       },
       "other_qbo": {
-        "amount": 4593.97,
+        "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-05-02"
+        "last_updated": "2026-05-03"
       },
-      "total": 89899.78,
+      "total": 85305.81,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 13191350.22,
+    "remaining": 13196444.19,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-02T09:02:29Z"
+    "last_reconciled": "2026-05-03T08:59:22Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -201,6 +231,6 @@
       "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
     }
   ],
-  "last_full_rebuild": "2026-05-02T09:02:29Z",
+  "last_full_rebuild": "2026-05-03T08:59:22Z",
   "last_incremental_update": null
 }

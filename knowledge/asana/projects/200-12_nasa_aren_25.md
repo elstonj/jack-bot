@@ -36,4 +36,4 @@ Project was shut down in August 2025 ahead of schedule in anticipation of Geoffr
 
 **NASA Hurricane RFI (2026-04-17 & 2026-04-20), Alex Lomis:** NASA team and Joe recommended BST review a related hurricane-focused NASA RFI opportunity on SAM.gov: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view — discussed on hurricane ET call.
 
-**AI Tool Leverage for NASA RFIs (2026-04-27), Maciej:** Team members expressed interest in using AI tools to start work on NASA RFIs. Assignment pending team workload. Maciej flagged this as a potential near-term action item.
+**AI Tool Leverage for NASA RFIs (2026-04-27), Maciej:** Team members expressed interest in using AI tools to start work on NASA RFIs. Maciej flagged this as a potential near-term action item pending team workload availability.

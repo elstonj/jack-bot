@@ -89,8 +89,6 @@
 - **Bill from Ted Miles (2026-05-01):** $1,990.83
   - Aeropods work (March & April 2026): 32 hours @ $62.20/hour
 
-**Total Subcontractors:** $1,990.83
-
 ---
 
 ### **Indirect Costs (General & Administrative — Tariffs/Import Duties)**
@@ -102,12 +100,10 @@
   - $30.45 — Duties fee for BlueBird Shipment (Sasquatch S0s allocation)
   - $45.67 — Duties fee for BlueBird Shipment (Future sales of 6 S0s allocation)
 
-**Total Indirect Costs (G&A Tariffs):** $228.36
-
 ---
 
 ### **Materials & Supplies (Direct Cost Purchases)**
-**Total: $70,659.57** | 4 transactions | Largest item: $780.00
+**Total: $70,659.57** | 5 transactions | Largest item: $780.00
 
 #### Direct Cost Purchases
 - **Purchase #KDE17135 (2026-04-20):** $780.00
@@ -122,12 +118,19 @@
 - **Purchase #174005 (2026-04-29):** $240.00
   - Braided Carbon Fiber Hexagonal Tubing ~ 0.75" ID x 48" (SKU: FDPBT-H*.75x48G)
 
-- **Purchase #64090547 (2026-04-29):** $112.93 [By Light items portion]
-  - Direct cost materials allocation
-
-**Total Materials & Supplies:** $70,659.57
+- **Purchase #64090547 (2026-04-29):** $112.93
+  - Direct cost materials allocation (By Light items portion)
 
 ---
 
-### **Indirect Costs (IRAD — Internal Research & Development)**
-**Total: $
+### **Other Expenses**
+**Total: $147,273.55** | Multiple transactions
+
+#### Other Unallocated Costs
+- Various purchases and allocations not yet categorized into primary cost buckets
+
+---
+
+## Monthly Spend by Category
+
+| Month | Subcontractors | Materials & Supplies |

@@ -466,5 +466,83 @@
     "notes": "Invoice notification with payment processing fee notice \u2014 no purchase details or amount disclosed",
     "date": "2026-05-02",
     "subject": "97519991-1 invoice from General Air Service for 10099275  control# HOUSE"
+  },
+  {
+    "id": "19dec3d7bd91e58e",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": null,
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Harbor Freight promotional email - spam/newsletter",
+    "date": "2026-05-02",
+    "subject": "10 DAYS OF DEALS! Day 3: 35% Off All MADDOX Auto Shop Tools, Equipment, and Diagnostic Products"
+  },
+  {
+    "id": "19deab8a92b1faf8",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": null,
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "PayPal account maintenance notification - not a purchase",
+    "date": "2026-05-02",
+    "subject": "Update your expired card information for PayPal"
+  },
+  {
+    "id": "19de9e3471cfe369",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": null,
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Lenovo Rewards monthly recap - promotional/rewards email, no purchase transaction",
+    "date": "2026-05-02",
+    "subject": "Your My Lenovo Rewards Monthly Recap"
+  },
+  {
+    "id": "19de95202377f1e9",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": null,
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Harbor Freight promotional email - spam/newsletter",
+    "date": "2026-05-02",
+    "subject": "It\u2019s GENERATOR DAYS! Get 20% Off All PREDATOR Gas Generators"
+  },
+  {
+    "id": "19de8ec589e8fd0d",
+    "is_purchase": true,
+    "status": "received",
+    "amount_usd": null,
+    "vendor": "Rocketman Parachutes Store",
+    "project_code": null,
+    "project_hint": null,
+    "description": "Rocketman Ultra-Light High-Performance CD 2.2 Parachutes (48 in.)",
+    "notes": "Order #1534 out for delivery, USPS tracking 9200190267338826090397, estimated delivery 5/2/2026",
+    "date": "2026-05-02",
+    "subject": "A shipment from order #1534 is out for delivery"
+  },
+  {
+    "id": "19de8dc107efe0b7",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": null,
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "USPS Informed Delivery daily digest - shipping notification with no purchase anchor",
+    "date": "2026-05-02",
+    "subject": "Your Daily Digest for Sat, 5/2 is ready to view"
   }
 ]
