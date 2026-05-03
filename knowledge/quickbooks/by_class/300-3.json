@@ -1,20 +1,16 @@
 {
   "project_code": "300-3",
   "qbo_class_names": [
-    "[300-3] 2026 IDIQ",
-    "[300] NOAA:[300-3] 2026 IDIQ"
+    "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-05-01",
-    "end": "2026-05-02"
+    "start": "2026-05-02",
+    "end": "2026-05-03"
   },
   "totals": {
-    "revenue": 270000.0,
-    "expenses": 4593.97,
-    "by_category": {
-      "DIRECT COSTS:DC-Direct Cost Purchases": 3781.47,
-      "DIRECT COSTS:DC-Direct Cost Subcontractors": 812.5
-    }
+    "revenue": 216000.0,
+    "expenses": 0.0,
+    "by_category": {}
   },
   "invoices": [
     {
@@ -85,56 +81,9 @@
           "description": ""
         }
       ]
-    },
-    {
-      "type": "Invoice",
-      "date": "2026-05-01",
-      "doc_number": "1738",
-      "total": 54000.0,
-      "attributed": 54000.0,
-      "vendor": "",
-      "customer": "[300-3] 2026 IDIQ",
-      "balance": 54000.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 54000.0,
-          "account": "",
-          "description": "Invoice 3 of 6 for CLIN 1001 (Modification P26002)"
-        },
-        {
-          "amount": 54000.0,
-          "account": "",
-          "description": ""
-        }
-      ]
     }
   ],
-  "bills": [
-    {
-      "type": "Bill",
-      "date": "2026-05-01",
-      "doc_number": "3912",
-      "total": 4593.97,
-      "attributed": 4593.969999999999,
-      "vendor": "MicroFirm Engineering",
-      "customer": "",
-      "balance": 4593.97,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 812.5,
-          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
-          "description": "Hours: 6.5 @ $125"
-        },
-        {
-          "amount": 3781.47,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
-          "description": ""
-        }
-      ]
-    }
-  ],
+  "bills": [],
   "purchases": [],
   "purchase_orders": [],
   "payments": []

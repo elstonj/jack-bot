@@ -4,15 +4,13 @@
     "[550-1] Navy SBIR Magnetometer"
   ],
   "period": {
-    "start": "2026-05-01",
-    "end": "2026-05-02"
+    "start": "2026-05-02",
+    "end": "2026-05-03"
   },
   "totals": {
     "revenue": 49459.0,
-    "expenses": 399.0,
-    "by_category": {
-      "DIRECT COSTS:DC-Direct Cost Purchases": 399.0
-    }
+    "expenses": 0.0,
+    "by_category": {}
   },
   "invoices": [
     {
@@ -63,26 +61,7 @@
     }
   ],
   "bills": [],
-  "purchases": [
-    {
-      "type": "Purchase",
-      "date": "2026-05-01",
-      "doc_number": "",
-      "total": 399.0,
-      "attributed": 399.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request - Alex Lomis reached out directly via email",
-      "lines": [
-        {
-          "amount": 399.0,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
-          "description": "8643C6/Max10.8Ah/4.25V x 7"
-        }
-      ]
-    }
-  ],
+  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

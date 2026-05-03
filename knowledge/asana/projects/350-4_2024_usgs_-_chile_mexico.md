@@ -33,16 +33,21 @@
 | Create photogrammetry footprints | Dan Prendergast | October 1, 2026 | **STALE** | Reschedule for Fall 2026 |
 
 ## Task Summary
-- **Total Tasks**: 1 open, 0 completed (as of latest raw data)
+- **Total Tasks**: 20 open, 0 completed
 - **Tasks by Assignee**:
-  - **Dan Prendergast**: 1 open task — Look at proposal/contract for AV3 budget and assign to Paulino (due May 18, 2026 — STALE)
+  - **Dan Prendergast**: 6 tasks — Meeting with AFAC, Look at AV3 proposal/contract, Obtain flight approvals, Verify ground permissions, Flight plans, Photogrammetry footprints (all due May–October 2026 — **STALE**)
+  - **Maciej Stachura**: 2 tasks — Look at FLIR stoppage at Murray State, Test props for 5700m operations (due Aug 3, 2026 — **STALE**)
+  - **Josh Fromm**: 1 task — Spare parts and packing list (due Oct 1, 2026 — **STALE**)
+  - **Unassigned**: 11 tasks — Flight/radio/shipping/import permissions, Payload updates, Local flight testing, Ship aircraft/equipment, Conduct mission, Test New Capabilities, Tools/Ground Equipment, S2 Improvements, Planning/Algorithms/UI, CONOPS
 - **Notable Patterns**: 
+  - **All 20 tasks are open with NO completions**
   - Project is in hold state pending Fall 2026 deployment confirmation
-  - **All task due dates April–October 2026 are SUPERSEDED by Fall 2026 delay announcement**
-  - Most action tasks currently unassigned or deprioritized — will require assignment once Fall 2026 timeline is confirmed
+  - **ALL task due dates April–October 2026 are SUPERSEDED by Fall 2026 delay announcement**
+  - Most action tasks remain unassigned or deprioritized — will require assignment/rescheduling once Fall 2026 timeline is confirmed
+  - Several tasks lack due dates entirely (Test New Capabilities, Tools/Ground Equipment, S2 Improvements, Planning/Algorithms/UI, CONOPS)
 
 ## Recent Activity
-- **April 20, 2026 (TEAM CORRECTION — AUTHORITATIVE)**: 
+- **April 20, 2026 (TEAM CORRECTIONS — AUTHORITATIVE)**: 
   - **Jack Elston**: "Mexico USGS volcano deployment (350-4) is DELAYED to Fall 2026. Not departing April 20. No flight planning, no shipping, no mission prep imminent. Any Asana tasks referencing an April deployment are stale - ignore them."
   - **Maciej Stachura (April 17, 2026)**: "Mexico is moved to the Fall, so no flight planning happening soon."
   - **Action**: Mission deployment **delayed from April 20, 2026 to Fall 2026**. No flight planning, shipping, or mission prep happening soon. Asana tasks showing April–October 2026 due dates are stale and should not drive near-term decisions.
@@ -56,7 +61,6 @@
   - **Flight Planning/Shipping**: **Not happening soon** — project is in hold state pending Fall 2026 confirmation
 - **Products/Services**: MHP, Survey Services, Aircraft Rental (via AV3 — replacement partner search ongoing)
 - **Key Dependencies**: AV3 aircraft availability (replacement being sourced), AFAC flight approvals, CENAPED ground permissions for national park, AV3 contract/budget clarification (assign to Paulino)
-- **Next Actions** (Once Fall 2026 Timeline Is Locked): 
-  - **For Maciej Stachura (Project Lead)**: Provide confirmation on Fall 2026 deployment date and reschedule all April–October 2026 tasks accordingly
-  - **For Dan Prendergast**: Review AV3 proposal/contract and assign to Paulino; initiate AFAC meetings, flight approvals, and ground permissions per Fall 2026 timeline
-  - **For Unassigned Owners**: Task assignments and scheduling to follow Fall 2026 confirmation
+- **Upcoming Operational Considerations**: 
+  - High-altitude operations (5700m elevation) — propeller testing required
+  - FLIR payload integration — review Murray State stoppage

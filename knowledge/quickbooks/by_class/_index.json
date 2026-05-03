@@ -1,23 +1,10 @@
 {
   "period": {
-    "start": "2026-05-01",
-    "end": "2026-05-02"
+    "start": "2026-05-02",
+    "end": "2026-05-03"
   },
-  "scanned_at": "2026-05-02",
+  "scanned_at": "2026-05-03",
   "projects": [
-    {
-      "project_code": "001-1",
-      "revenue": 0.0,
-      "expenses": 45.79,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 1,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "(001-1) IRAD- General"
-      ]
-    },
     {
       "project_code": "043-3",
       "revenue": 111629.0,
@@ -33,43 +20,28 @@
     },
     {
       "project_code": "300-3",
-      "revenue": 270000.0,
-      "expenses": 4593.97,
-      "invoice_count": 4,
-      "bill_count": 1,
+      "revenue": 216000.0,
+      "expenses": 0.0,
+      "invoice_count": 3,
+      "bill_count": 0,
       "purchase_count": 0,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "[300-3] 2026 IDIQ",
-        "[300] NOAA:[300-3] 2026 IDIQ"
+        "[300-3] 2026 IDIQ"
       ]
     },
     {
       "project_code": "550-1",
       "revenue": 49459.0,
-      "expenses": 399.0,
+      "expenses": 0.0,
       "invoice_count": 2,
       "bill_count": 0,
-      "purchase_count": 1,
+      "purchase_count": 0,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
         "[550-1] Navy SBIR Magnetometer"
-      ]
-    },
-    {
-      "project_code": "_unclassified",
-      "revenue": 0.0,
-      "expenses": 9517.14,
-      "invoice_count": 0,
-      "bill_count": 1,
-      "purchase_count": 7,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "",
-        "Black Swift Technologies:[001-22] Aeropods Commercial"
       ]
     }
   ]

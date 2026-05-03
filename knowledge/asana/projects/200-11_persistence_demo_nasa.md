@@ -5,9 +5,9 @@
 - **Contract:** SBIR Phase III, Contract No. 80NSSC25CA043
 - **Dollar Value:** $74,428.00 (Fixed Price)
 - **Timeline:** January 2025 – September 2025 (9 months)
-- **Status:** ARCHIVED (contract completed November 2025)
+- **Status:** ARCHIVED (contract completed and closed November 24, 2025)
 - **Team:** Whole BST team involved
-- **Primary Contact:** Matthew Fladeland, NASA Ames Technology Transfer Office, 650.604.3325, matthew.fladeland@nasa.gov
+- **Primary Contact:** Matthew Fladeland, NASA Ames Technology Transfer Office, 650.604.3325, matthew.fladeland@nasa.gov, MS 202A-3 Moffett Field, CA 94035-1000
 
 **Project Objective:** Demonstrate persistent IR measurements over wildfires using small, fixed-wing uncrewed aircraft (S2 platform) and establish a scalable, operational CONOPS for 24-hour wildfire monitoring.
 
@@ -55,8 +55,7 @@
 ## Recent Activity
 
 **Contract Closeout Sequence (Late November 2025):**
-- 11/24/25: Final payment confirmed received; project closure approved
-- 11/24/25: Project officially closed by Dan Prendergast
+- 11/24/25: Final payment confirmed received; project closure approved and officially closed by Dan Prendergast
 
 **Final Deliverables Submitted (September–October 2025):**
 - 10/13/25: Flight Report, New Technology Summary, Final Summary Chart, Final New Technology Certification (Jack Elston)
@@ -103,7 +102,7 @@
 ## Open Items
 
 **1 Administrative Data Entry Task (No Due Date):**
-- Matthew Fladeland contact information record — data entry for NASA Ames Technology Transfer Office contact details (address: MS 202A-3 Moffett Field, CA 94035-1000). Created post-closure for reference purposes.
+- Matthew Fladeland contact information record — data entry for NASA Ames Technology Transfer Office contact details (address: MS 202A-3 Moffett Field, CA 94035-1000). Created post-closure for reference purposes. **Status:** Open (administrative; no deadline).
 
 ---
 
@@ -115,9 +114,9 @@
 - **RFI Link:** https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
 - **Competing Internal Opportunities:** INSTAAR (2 demonstrations) and Ottawa/Murphy's demonstration (per Jack Elston, 04/20/26)
 - **Action Items (04/27/26, Maciej Stachura):** 
-  - **Team to use AI tools to begin work on NASA RFI responses** (Jack Elston or Alex Lomis to lead, per Maciej request)
+  - **Team to use AI tools to begin work on NASA RFI responses** (Jack Elston or Alex Lomis to lead)
   - Update Asana due dates to realistic numbers after ByLight meeting and communicate to stakeholders
-  - Coordinate with team on S0-VTOL workload and resource allocation
+  - Coordinate with team on S0-VTOL workload and resource allocation; assess Dan Prendergast and Ethan Domagala availability for support on time-sensitive S0-VTOL deliverables
 
 ---
 

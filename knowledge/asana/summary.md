@@ -1,118 +1,128 @@
 # Asana Projects Overview
 
-Last scanned: 2026-05-02 02:07
+Last scanned: 2026-05-03 02:13
 
-Total projects scanned: 11
+Total projects scanned: 28
 
 ## Projects
 
-- **[001-01] General IRAD** — 1 tasks — [001-01_general_irad.md](001-01_general_irad.md)
-- **[001-12] Customer Support** — 1 tasks — [001-12_customer_support.md](001-12_customer_support.md)
-- **[001-13] Accounting** — 2 tasks — [001-13_accounting.md](001-13_accounting.md)
-- **[001-13] BD Pipeline** — 3 tasks — [001-13_bd_pipeline.md](001-13_bd_pipeline.md)
+- **SBIR - Fire UTM Phase I** — 0 tasks — [sbir_-_fire_utm_phase_i.md](sbir_-_fire_utm_phase_i.md)
+- **SOCOM S0-AD** — 7 tasks — [socom_s0-ad.md](socom_s0-ad.md)
+- **[001-12] Customer Support** — 2 tasks — [001-12_customer_support.md](001-12_customer_support.md)
+- **[001-13] Corporate / Strategic Planning** — 1 tasks — [001-13_corporate_strategic_planning.md](001-13_corporate_strategic_planning.md)
 - **[001-13] Facilities Management** — 1 tasks — [001-13_facilities_management.md](001-13_facilities_management.md)
-- **[001-13] Proposals** — 4 tasks — [001-13_proposals.md](001-13_proposals.md)
-- **[001-13] Purchasing** — 22 tasks — [001-13_purchasing.md](001-13_purchasing.md)
-- **[005-1] BARBADOS VTOL S0 and Training ** — 1 tasks — [005-1_barbados_vtol_s0_and_training.md](005-1_barbados_vtol_s0_and_training.md)
-- **[043-3] ByLight M2/Halo** — 4 tasks — [043-3_bylight_m2halo.md](043-3_bylight_m2halo.md)
-- **[300-3] 2026 IDIQ (Hurricane)** — 12 tasks — [300-3_2026_idiq_hurricane.md](300-3_2026_idiq_hurricane.md)
-- **[550-1] NAVY SBIR: Magnetometer** — 1 tasks — [550-1_navy_sbir_magnetometer.md](550-1_navy_sbir_magnetometer.md)
+- **[001-13] Marketing Goals Workflow** — 0 tasks — [001-13_marketing_goals_workflow.md](001-13_marketing_goals_workflow.md)
+- **[001-13] Purchasing** — 8 tasks — [001-13_purchasing.md](001-13_purchasing.md)
+- **[005-1] BARBADOS VTOL S0 and Training ** — 4 tasks — [005-1_barbados_vtol_s0_and_training.md](005-1_barbados_vtol_s0_and_training.md)
+- **[012-2] ERAU VTOL S0** — 5 tasks — [012-2_erau_vtol_s0.md](012-2_erau_vtol_s0.md)
+- **[018-1] Murphy's Pond CH4 Monitoring** — 8 tasks — [018-1_murphys_pond_ch4_monitoring.md](018-1_murphys_pond_ch4_monitoring.md)
+- **[031-1] UMES S3** — 12 tasks — [031-1_umes_s3.md](031-1_umes_s3.md)
+- **[035-1] ADONIS Unmanned Experts** — 1 tasks — [035-1_adonis_unmanned_experts.md](035-1_adonis_unmanned_experts.md)
+- **[043-1] ByLight Professional IT Services** — 0 tasks — [043-1_bylight_professional_it_services.md](043-1_bylight_professional_it_services.md)
+- **[043-2] By Light Mustang** — 3 tasks — [043-2_by_light_mustang.md](043-2_by_light_mustang.md)
+- **[044-1] EMASS Chip Integration** — 5 tasks — [044-1_emass_chip_integration.md](044-1_emass_chip_integration.md)
+- **[1331] S2 CRATER (Costa Rica)** — 1 tasks — [1331_s2_crater_costa_rica.md](1331_s2_crater_costa_rica.md)
+- **[200-11] Persistence Demo (NASA)** — 1 tasks — [200-11_persistence_demo_nasa.md](200-11_persistence_demo_nasa.md)
+- **[200-12] NASA AREN '25** — 1 tasks — [200-12_nasa_aren_25.md](200-12_nasa_aren_25.md)
+- **[211-1] NASA Ames MHP for S2** — 0 tasks — [211-1_nasa_ames_mhp_for_s2.md](211-1_nasa_ames_mhp_for_s2.md)
+- **[212-2] NASA S2 & Parts** — 5 tasks — [212-2_nasa_s2_parts.md](212-2_nasa_s2_parts.md)
+- **[300-3] 2026 IDIQ (Hurricane)** — 22 tasks — [300-3_2026_idiq_hurricane.md](300-3_2026_idiq_hurricane.md)
+- **[301-2] SBIR - Hurricane Phase II+** — 0 tasks — [301-2_sbir_-_hurricane_phase_ii.md](301-2_sbir_-_hurricane_phase_ii.md)
+- **[301-3] S0 Hurricane Phase II - 2025** — 23 tasks — [301-3_s0_hurricane_phase_ii_-_2025.md](301-3_s0_hurricane_phase_ii_-_2025.md)
+- **[350-4] 2024 USGS - Chile (Mexico)** — 20 tasks — [350-4_2024_usgs_-_chile_mexico.md](350-4_2024_usgs_-_chile_mexico.md)
+- **[400-5] SBIR - SMM DoD 22.4D Phase II** — 0 tasks — [400-5_sbir_-_smm_dod_224d_phase_ii.md](400-5_sbir_-_smm_dod_224d_phase_ii.md)
+- **[451-1] INSTAAR S3 x 2** — 3 tasks — [451-1_instaar_s3_x_2.md](451-1_instaar_s3_x_2.md)
+- **[550-1] NAVY SBIR: Magnetometer** — 19 tasks — [550-1_navy_sbir_magnetometer.md](550-1_navy_sbir_magnetometer.md)
+- **[550-2] Navy STTR: Hazardous Weather** — 11 tasks — [550-2_navy_sttr_hazardous_weather.md](550-2_navy_sttr_hazardous_weather.md)
 
 ## Strategic Summary
 
 # Black Swift Technologies — Project Portfolio Overview
 
 ## Portfolio Summary
-
-| Metric | Value |
-|--------|-------|
-| **Active Projects** | 10 core projects + 3 operational systems |
-| **Total Identified Value** | ~$3.2M+ (proposals + active contracts) |
-| **Open Tasks** | 35+ across portfolio |
-| **Critical Deadlines** | Q2 2026 (May–July) |
+- **Total Active Project Value:** ~$5.1M (funded projects)
+- **Active Projects:** 13 projects across government, academic, and commercial sectors
+- **Archived/Completed:** 9 projects successfully closed
+- **Critical Risk Areas:** 3 projects with urgent deadline pressures
 
 ---
 
 ## Key Active Projects
 
-### High-Value / High-Priority
-
 | Project | Client | Value | Status | Key Deadline |
 |---------|--------|-------|--------|--------------|
-| **[300-3] 2026 IDIQ (Hurricane)** | NOAA UxSOC | $483K | **CRITICAL** — 4/6 invoices complete; hardware validation in progress | Jul 31, 2026 |
-| **[550-1] NAVY SBIR: Magnetometer** | Navy (NAWCAD) | TBD | Active development | TBD |
-| **[BD Pipeline]** | Multi-sector | $2.3M+ | Active pipeline | Q2 2026 (urgent) |
-| **[001-13] Proposals** | Mixed | ~$1.09M opportunity | 3 in flight, 1 completed | Various (Q2–Q3 2026) |
-| **[043-3] ByLight M2/Halo** | By Light (Commercial) | $126.6K | Active — 4 CAD tasks due | May 1, 2026 |
-| **[005-1] BARBADOS VTOL S0** | Barbados Met Services | $22.3K (paid) | Delivery phase | May 1, 2026; Training Jun 23, 2026 |
-
-### Operational / Support
-
-| Project | Scope | Status |
-|---------|-------|--------|
-| **[001-13] Purchasing** | Internal procurement | **ALERT**: 22 open tasks (↑ from 13); critical orders May 1–3, 2026 |
-| **[001-12] Customer Support** | 10+ customer accounts | Active; S3 design freeze May 2026 |
-| **[001-13] Facilities** | Office/shop maintenance | Healthy — high completion rate |
-| **[001-13] Accounting** | Finance operations | 2 open tasks (Meredith O'hara Needham) |
-| **[001-01] General IRAD** | R&D | 1 open task (Dan Prendergast) |
+| [301-3] S0 Hurricane Phase II | NOAA/U Miami | $1.7M | Active | Jul 31, 2026 |
+| [400-5] SMM DoD Phase II | USAF (DoD SBIR) | $1.25M | Archived | Jul 11, 2025 |
+| [300-3] 2026 IDIQ (Hurricane) | NOAA UxSOC | $483K | **Critical** | Jul 31, 2026 |
+| [035-1] ADONIS Unmanned Experts | Unmanned Experts Inc. | $190K | Archived (Apr 10, 26) | Feb 27, 2026 |
+| [550-2] Navy STTR: Hazardous Weather | ONR | $146K | Active (Option Phase) | Sep 1, 2026 |
+| [031-1] UMES S3 | U Maryland Eastern Shore | $81K | **Critical** | May 31, 2026 |
+| [212-2] NASA S2 & Parts | NASA Ames | $89K | Active | Sep 2026 |
+| [451-1] INSTAAR S3 x2 | CU Boulder | $120K | Active | Feb 27, 2026 |
+| [018-1] Murphy's Pond CH4 | Murray State U | $87K | **At Risk** | Dec 31, 2026 |
+| [044-1] EMASS Chip Integration | EMASS | $90K | Active (Final Phase) | May 4, 2026 |
+| [350-4] USGS Chile | USGS Volcano Science | $124K | Active—Delayed | Fall 2026 |
+| [005-1] Barbados VTOL S0 | Barbados Met Services | $22K | Active | Jun 23, 2026 |
+| [012-2] ERAU VTOL S0 | Embry-Riddle Aero | $20K | **Overdue 20+ months** | May 26, 2025 |
 
 ---
 
-## Risk Areas
+## Critical Risk Areas
 
-### 🔴 Critical
+### 🔴 **Deadline Urgency**
+1. **[031-1] UMES S3** — Jack Elston priority directive (Apr 20): "Getting one to UMES before end of May — priority #1." S3 delivery due May 11, funding expires May 31.
+2. **[300-3] 2026 IDIQ** — 22 open tasks compressed into May–June window; 4 of 6 invoices completed; high execution risk.
+3. **[018-1] Murphy's Pond** — Flight #3 confirmation deadline (Apr 10) now **OVERDUE**; funding expires Dec 31, 2026.
 
-1. **[300-3] NOAA Hurricane (Jul 31, 2026)** — Hardware validation accelerating; close monitoring required
-2. **[043-3] ByLight M2/Halo (May 1, 2026)** — Single-point dependency (Ethan Domagala) on 4 CAD tasks; 29 days to deadline
-3. **[001-13] Purchasing** — Task volume spike (22 open); critical fulfillment window May 1–3, 2026
+### 🟠 **Schedule Delays**
+- **[012-2] ERAU VTOL S0** — 20+ months overdue (original due Aug 2024); 2 additional VTOLs owed by May 2025 (status unknown).
+- **[350-4] USGS Chile** — Deployment pushed to Fall 2026 (originally Apr 2026).
 
-### 🟡 Moderate
-
-1. **[BD Pipeline]** — Data integrity issues partially resolved; $2.3M pipeline needs tracking tightening
-2. **[001-12] Customer Support** — 10+ concurrent customer accounts; May design freeze approaching
-3. **Accounting/Operations** — Limited team capacity (Meredith O'hara Needham concentrated across multiple functions)
-
-### ⚠️ Timeline Compression
-
-May 2026 is a convergence point:
-- ByLight CAD deliverables (May 1)
-- Purchasing critical orders (May 1–3)
-- Customer Support S3 design freeze
-- BARBADOS VTOL delivery prep (May 1)
-- NOAA invoices span through May
+### 🟡 **Operational Dependencies**
+- **[001-13] Purchasing** — 8 open critical orders due May 1–3, 2026; high-volume across multiple projects.
+- **[550-1] Navy SBIR: Magnetometer** — Status details incomplete; ongoing development tracked.
 
 ---
 
 ## Team Allocation Patterns
 
-| Team Member | Primary Roles | Workload Signal |
-|--------------|---------------|-----------------|
-| **Meredith O'hara Needham** | Facilities, Accounting | High concentration; across multiple projects |
-| **Ethan Domagala** | ByLight M2/Halo CAD | **Bottleneck risk** — 4 tasks, single assignee |
-| **Beck Cotter** | Proposals Owner | Proposal pipeline management |
-| **Dan Prendergast** | R&D / General IRAD | Light |
-| **Angel Ruiz-Reyes / Navy TPOC** | Navy contract liaison | External |
+**Primary Leads:**
+- Jack Elston (executive/owner decisions, flight ops, PIC roles)
+- Dan Prendergast (technical/operator training, SOCOM S0-AD)
+- Maciej Stachura (project coordination, execution)
+- Josh Fromm (delivery/logistics)
+- Meredith O'Hara Needham (facilities, corporate ops)
+
+**Sparse Task Assignment:**
+- SOCOM S0-AD: 7 open tasks, 0 assigned individuals (risk flag).
+- Multiple projects show distributed small-team model.
 
 ---
 
-## Upcoming Critical Deadlines
+## Upcoming Critical Deadlines (May–July 2026)
 
-| When | What | Owner |
-|------|------|-------|
-| **May 1, 2026** | ByLight CAD tasks; BARBADOS VTOL delivery; Purchasing critical orders | Multiple |
-| **May 1–3, 2026** | Purchasing order fulfillment window | Purchasing team |
-| **May 5, 2025** | BARBADOS training materials review (Sabu Best) | Training lead |
-| **May 2026** | Customer Support S3 design freeze | Support team |
-| **Jun 23, 2026** | BARBADOS handoff meeting | TBD |
-| **Jun 30, 2026** | Purchasing backlog orders | Purchasing team |
-| **Jul 31, 2026** | NOAA Hurricane project due | Hardware/validation team |
+| Date | Project | Deliverable |
+|------|---------|-------------|
+| May 1–3, 2026 | [001-13] Purchasing | Critical order fulfillment |
+| May 4, 2026 | [044-1] EMASS | Final validation/reporting |
+| May 11, 2026 | [031-1] UMES S3 | S3 delivery (PRIORITY #1) |
+| May 31, 2026 | [031-1] UMES S3 | Funding expiration |
+| Jun 23, 2026 | [005-1] Barbados | S0 handoff meeting |
+| Jul 1, 2026 | [301-3] Hurricane Phase II | Additional 13 S0 systems delivery |
+| Jul 31, 2026 | [300-3] 2026 IDIQ & [301-3] Hurricane | Final invoicing/deliverables |
 
 ---
 
-## Recommendations
+## Key Observations
 
-1. **Immediate**: Redistribute ByLight CAD tasks from Ethan Domagala or accelerate timeline
-2. **Q2 Planning**: Coordinate May 1 convergence (3+ simultaneous deliverables)
-3. **Data Governance**: Finalize BD Pipeline integrity resolution
-4. **Capacity**: Assess Meredith O'hara Needham's bandwidth across facilities/accounting/operations
-5. **Purchasing**: Monitor 22-task backlog; ensure May 1–3 fulfillment on track
+✅ **Strengths:**
+- Strong government/research sector presence (NOAA, NASA, DoD, USGS).
+- Demonstrated delivery on archived projects (9 successful completions).
+- Established client relationships with repeat business.
+
+⚠️ **Concerns:**
+- Schedule pressure concentrated in May–July 2026 window.
+- Multiple projects approaching critical funding expirations.
+- ERAU deliverable 20+ months overdue; relationship/contractual risk.
+- Sparse task assignment on SOCOM S0-AD suggests unclear ownership.
+- Murphy's Pond confirmation deadline already missed.

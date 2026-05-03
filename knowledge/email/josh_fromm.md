@@ -1,67 +1,92 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,080 (1,024 previous + 56 new)
-- **Date range:** March 25 – May 2, 2026 (39 days)
-- **Approximate volume:** ~27.7 emails/day (sustained high volume)
-- **May 1–2 activity:** 56 new messages span end-of-week procurement surge and weekend operational continuity — **sustained manufacturing order processing (Protolabs 3 concurrent orders), motor controller finalization confirmation (Vertiq), Xometry CNC quote advancement, component shipments (DHL, FedEx, Pololu, Amazon), and external vendor communication escalation (Santiago Silva/Xometry point-of-contact assignment)**
+- **Total messages scanned:** 1,088 (1,024 previous + 56 from May 1–2 + 8 new)
+- **Date range:** March 25 – May 3, 2026 (39 days)
+- **Approximate volume:** ~27.9 emails/day (sustained high volume)
+- **May 2–3 activity:** 8 new messages — **exclusively promotional/transactional (no operational emails)** — Weekend message flow dominated by personal shopping alerts, logistics tracking, and automated vendor communications
 
 ## Key Correspondents
 
-### Top Human Senders (updated rankings)
-1. **Chance Rogers** (chance.rogers@vertiq.co) — Vertiq — **SUSTAINED PRIORITY:** Motor controller technical troubleshooting (81-08 240kv units + Volt limit specs) — **RESOLVED May 1 14:06 EDT** (Josh submitted response May 1 10:55 MDT)
-2. **Jack Elston** (elstonj@blackswifttech.com) — Internal BST — **SUSTAINED/ESCALATED:** Atmolab camera system coordination; operational missions; Asana task notifications
-3. **Meredith Needham** (meredith.needham@blackswifttech.com) — Internal BST — **SUSTAINED:** Amprius SA112 battery cell order coordination; logistics tracking
-4. **Santiago Silva** (santiago.silva@xometry.com) — **Xometry** — **NEW/ESCALATED DIRECT CONTACT:** **Point-of-contact assignment (May 1 17:01 EDT, marked IMPORTANT)** — CNC Machining quote Q05-8284-7892 (May 1 10:00 EDT, marked IMPORTANT) — **Strategic vendor relationship upgrade**
-5. **Joshua Lyon** (Joshua.Lyon@rockwestcomposites.com) — **Rock West Composites** — **SUSTAINED:** Composite supply chain coordination
-6. **Jure Dolinar** (jure.dolinar@atmolab.eu) — **Atmolab** — **SUSTAINED:** Camera system technical coordination (May 1 17:39 UTC, marked IMPORTANT, CC'd to Jack Elston & Nejc Trost)
-7. **George Kusaba** (george.kusaba@amprius.com) — **Amprius** — Battery cell procurement
-8. **Neha Dubey** (neha.dubey@amprius.com) — **Amprius** — Battery cell order discussion (Meredith's coordination May 1 10:16 MDT, marked IMPORTANT)
-9. **Sean Cole** (sean@phase1av.com) — **Phase 1 AV** — **NEW DIRECT CONTACT:** Josh sends "Some S3 vids" (May 1 15:38 MDT) — **Possible testing/validation partner or media/documentation contact**
-10. **Samantha** (Samantha@bestinparts.com) — **Best In Parts** — **NEW DIRECT CONTACT:** Josh coordinates "New CNC parts order for Black Swift" (May 1 15:02 MDT) — **CNC parts sourcing vendor**
+### Top Human Senders (no change from May 1–2 snapshot)
+1. **Chance Rogers** (chance.rogers@vertiq.co) — Vertiq — Motor controller technical coordination
+2. **Jack Elston** (elstonj@blackswifttech.com) — Internal BST — Atmolab camera system; operational missions; Asana
+3. **Meredith Needham** (meredith.needham@blackswifttech.com) — Internal BST — Battery cell procurement coordination
+4. **Santiago Silva** (santiago.silva@xometry.com) — Xometry — **Strategic vendor point-of-contact**
+5. **Joshua Lyon** (Joshua.Lyon@rockwestcomposites.com) — Rock West Composites — Composite supply chain
+6. **Jure Dolinar** (jure.dolinar@atmolab.eu) — Atmolab — Camera system technical coordination
+7. **George Kusaba** & **Neha Dubey** (Amprius) — Battery procurement
+8. **Sean Cole** (sean@phase1av.com) — Phase 1 AV — Media/testing coordination
+9. **Samantha** (Samantha@bestinparts.com) — Best In Parts — CNC parts sourcing
 
-### Top Automated/Transactional Senders (expanded)
+### Top Automated/Transactional Senders (updated)
 
-**Manufacturing & Fabrication Services (HEAVILY ESCALATED):**
-- **Protolabs** — **6 messages spanning 3 concurrent orders (May 1):**
-  - Order 5345-257: Quote shared, received, ready for manufacturing (May 1 15:08–21:10 UTC)
-  - Order 9102-034: Quote shared (2x), received, ready for manufacturing (May 1 15:43–18:47 UTC)
-  - Order 4164-549: Quote shared (2x), received, ready for manufacturing (May 1 15:43–18:47 UTC)
-  - **IMPLICATION:** Multiple parallel design-to-manufacturing cycles active simultaneously (potential multi-subsystem fabrication sprint)
-- **Xometry** — 3 messages (CNC quote ready May 1 22:30 EDT, reminder May 1 08:08 EDT, Santiago Silva direct contact escalation) — **SUSTAINED MACHINING VENDOR WITH ELEVATED POINT-OF-CONTACT**
-- **SendCutSend** — 1 message (formal quote created, May 1 21:43 UTC) — **Metal fabrication/cutting vendor**
+**Promotional/Shopping (May 2–3 spike):**
+- **Harbor Freight** — 2 messages (MADDOX auto tools 35% off May 3; generator sale May 2) — **Regular promotional follow-up**
+- **AliExpress** — 1 message (personalized product reminder May 2, direct to josh.fromm@blackswifttech.com) — **Continued component/parts browsing**
+- **Expedia** — 1 message (sub-$200 flights May 2, direct to josh.fromm@blackswifttech.com) — **Personal travel browsing**
+- **Lenovo Rewards** — 1 message (monthly recap May 2, via purchasing@blackswifttech.com) — **Hardware/equipment shopping tracking**
+- **PayPal** — 1 message (expired card alert May 2, routed via purchasing@blackswifttech.com to Jack Elston) — **Payment method maintenance**
 
-**Component & Materials Supply (SUSTAINED):**
-- **Pololu Sales** — 2 messages (order 1J585099 processing & shipped, May 1 15:22–19:30 UTC) — **Electronics/control components**
-- **JawsTec** — 1 message (Order #68490 received, May 1 15:23 UTC) — **Electronics supplier**
-- **Amazon** — 2 messages (Kester 2331-ZX Water solder ordered & shipped, May 1 16:57–17:39 UTC) — **Electronics materials**
-- **T-MOTOR** — 1 message (Paid Order Invoice Value Declaration, May 1 18:09 UTC) — **Motor/propulsion components**
-- **Rock West Composites** — 1 message (Complete Your Purchase reminder, May 1 15:05 MDT) — **Composite materials**
+**Logistics/Tracking (May 2):**
+- **Rocketman Parachutes** — 1 message (order #1534 out for delivery May 2) — **Recovery system component inbound**
+- **USPS Informed Delivery** — 1 message (daily digest May 2) — **Continues postal tracking pattern**
 
-**Logistics & Shipping (SUSTAINED HIGH VOLUME):**
-- **DHL Express** — 1 message (Shipment 6962330605, May 2 00:49 UTC) — **Continues critical material tracking**
-- **FedEx Tracking** — 2 messages (shipment 871015479182 out for delivery & updated ETA, May 1 10:00–10:21 CDT) — **Active inbound delivery**
-- **Driftaway Coffee** — 2 messages (order DR22306COF shipment en route & review request, May 1 10:22 UTC & May 1 23:09 UTC) — **Office supplies**
-- **Spindrift Market** — 2 messages (order SH62367658 in transit & delivered, May 1 17:27 UTC & May 1 17:08 UTC) — **Marketplace orders**
+## Topic Patterns
 
-**Asana & Task Management:**
-- **Asana** — 2 notifications (May 2 00:00 UTC & May 1 18:12 UTC) — **SUSTAINED TASK COORDINATION**
+### Active Projects & Manufacturing (no new subjects in May 2–3 batch)
+- Protolabs 3 concurrent orders (subsystem fabrication sprint)
+- Vertiq motor controller troubleshooting (81-08 240kv units) — appears **resolved**
+- Xometry CNC machining quote Q05-8284-7892
+- Amprius SA112 battery cell procurement
+- Atmolab camera system integration
+- Rock West Composites integration
 
-**Administrative/Compliance:**
-- **Human Interest** — 1 message (401(k) contribution processing, May 2 01:10 UTC) — **Payroll/benefits**
-- **General Air Service** — 1 message (Invoice for control, May 2 02:00 UTC) — **NEW VENDOR: Appears aviation/aerospace related (general air service)**
-- **Rippling** — Previously noted payroll vendor
-- **SecurityMetrics** — Previously noted compliance
+### Component/Materials Shopping Patterns
+- **Continued:** Electronics components (Pololu, JawsTec, Amazon solder), motors (T-MOTOR), composites, CNC parts
+- **May 2–3 spike in promotional emails** suggests weekend browsing/comparison shopping (AliExpress, Harbor Freight, Lenovo, Expedia)
 
-**Marketing/Promotional (High volume, lower priority):**
-- **Harbor Freight** — 2 messages (air tools/hoses deal, generator promotion, May 2 04:55 UTC & May 1 13:55 UTC)
-- **Hobbyking** — 1 message (Labor Day sale reminder, May 1 14:07 UTC)
-- **Rocketman Parachutes** — 1 message (May Check-In, May 1 17:25 UTC, marked IMPORTANT) — **Possible parachute recovery system supplier**
-- **Birdcall** — 1 message (restaurant promotion, May 1 15:31 UTC, marked IMPORTANT as personal food interest)
-- **Big Red F** — 1 message (May promotions, May 1 16:06 UTC)
-- **AliExpress** — 1 message (product interest, May 1 15:22 PDT)
-- **eBay** — 1 message (woodhead 4023 alert, May 1 06:15 MST) — **Continued RC/connector component monitoring**
-- **ELEGOO US** — 1 message (electronics materials promo, May 1 13:01 UTC)
+## Communication Patterns
 
-**Industry News & Content:**
-- **UAS VISION
+### Time & Volume Observations
+- **May 1:** Peak operational activity (56 messages) — end-of-week manufacturing surge, vendor escalations, order confirmations
+- **May 2–3:** Shift to promotional/personal shopping (8 messages, no operational emails) — **weekend pattern consistent with previous end-of-week surge**
+- **Message routing:** Some promotional emails routed through `purchasing@blackswifttech.com` (Harbor Freight, Lenovo, PayPal, USPS, Rocketman Parachutes) — **suggests shared/forwarded purchasing account or team email list**
+- **Direct personal email:** AliExpress and Expedia sent directly to josh.fromm@blackswifttech.com — **personal shopping using work email**
+
+### Mailing Lists & Automated Streams
+- **Asana:** Task/project notifications (sustained)
+- **Logistics:** DHL, FedEx, USPS, Rocketman (tracking alerts)
+- **Procurement automation:** Multiple vendors sending quotes/shipment notifications
+- **Promotional:** Harbor Freight, AliExpress, Lenovo, Expedia (high frequency, lower priority)
+
+## Key Relationships
+
+### Critical Collaborators (by frequency & project impact)
+1. **Chance Rogers (Vertiq)** — Technical motor controller troubleshooting — **appears resolved by May 1**
+2. **Jack Elston (Internal)** — Operational mission coordination, camera system integration
+3. **Meredith Needham (Internal)** — Logistics & procurement tracking for batteries
+4. **Santiago Silva (Xometry)** — **Elevated to direct point-of-contact** (May 1) — strategic vendor relationship
+5. **Jure Dolinar (Atmolab)** — Camera system technical lead (May 1 IMPORTANT email with CC to Jack Elston & Nejc Trost)
+
+### External Vendors (Strategic Importance)
+- **Xometry** — CNC machining (direct POC assigned)
+- **Protolabs** — Rapid 3D printing/fabrication (3 concurrent orders)
+- **Rock West Composites** — Composite structures
+- **Amprius** — Battery cells (high-value procurement)
+- **Rocketman Parachutes** — Recovery systems (order in transit)
+- **Best In Parts** — CNC parts sourcing
+
+## Notable Observations
+
+1. **End-of-week manufacturing surge pattern confirmed:** May 1 contained 56 messages across Protolabs (3 orders), Xometry, SendCutSend, component shipments, and motor troubleshooting resolution. This aligns with **design-to-manufacturing cycle compression** (multiple parallel subsystems).
+
+2. **Weekend promotional shift:** May 2–3 received only 8 emails, all promotional/personal/transactional — **no operational emails on weekends** — Josh maintains operational work discipline.
+
+3. **Vendor relationship elevation:** Santiago Silva (Xometry) assigned as direct POC (May 1 17:01 EDT, marked IMPORTANT) — suggests **increased CNC machining volume or project criticality requiring dedicated contact**.
+
+4. **Personal email mixing:** Josh uses work email (josh.fromm@blackswifttech.com) for personal shopping alerts (AliExpress, Expedia), while company purchasing emails are routed through purchasing@blackswifttech.com — **potential email management or forwarding workflow**.
+
+5. **Recovery systems in procurement:** Rocketman Parachutes order #1534 in transit (May 2) — **consistent with autonomous systems design requiring redundancy/safety systems**.
+
+6. **Multi-vendor fabrication orchestration:** May 1 shows simultaneous activity across Protolabs (3 orders), Xometry CNC, SendCutSend metal, component suppliers, and shipping logistics — **evidence of coordinated multi-subsystem manufacturing sprint**.

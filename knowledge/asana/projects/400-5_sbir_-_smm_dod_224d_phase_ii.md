@@ -42,17 +42,7 @@ Development and validation of a UAS-based L-band radiometer for mapping soil int
 - **2025-07-21:** Final Report submitted to Air Force; Milestone 8 deliverable meeting completed
 - **2025-06-27 to 2025-07-09:** Tyndall AFB testing campaign completed; data validation and quantitative analysis finished
 - **2025-03-05:** Local field testing milestone completed (Milestone 5)
-- **2026-04-17:** Navy STTR submitted along with invoice (Meredith Needham, per team feedback)
-
-## Related Projects
-**Navy SBIR Magnetometer project:** Kicked off 2026-04-22. Per team feedback (Maciej, 2026-04-22), Dan Prendergast is technical lead with support from team members noted in Asana (Maciej Stachura, and others). Project brief in Asana contains kick-off slidedeck template. Report templates available at https://navysbir.com/links_forms.htm. All reports must prominently display required cover information per Navy guidelines.
-
-**Active priority projects (per Maciej, 2026-04-24):**
-1. S3 IRAD (targeted delivery end of May for UMES S3)
-2. S0-VTOL (two deliveries for ERAU and Barbados)
-3. EMASS closeout
-4. By-Lite Mustang
-5. Navy SBIR Magnetometer initial tasks
+- **2026-04-17:** Navy STTR submitted with invoice (Meredith Needham, per team feedback)
 
 ## Notes & Context
 - **Contract number:** FA864924P0003
@@ -65,5 +55,3 @@ Development and validation of a UAS-based L-band radiometer for mapping soil int
   - Sensor protective cover design
 - **OMS collaboration:** Subcontractor handled radiometer hardware ($605,000); BST managed integration, testing, and algorithm development
 - **Compliance:** All SBIR/STTR lifecycle certifications completed; team medical certifications obtained for flight operations
-- **Project templates & reporting:** Navy SBIR Magnetometer project templates available in Asana Project Brief, with Report Templates and Award Deliverables available at https://navysbir.com/links_forms.htm. All reports must prominently display required cover information per Navy guidelines.
-- **Team feedback (2026-04-17):** Meredith Needham confirmed Navy STTR submitted with invoice; Navy SBIR Magnetometer has kick-off and FWA Certification due April 14th. Asana due dates will be reviewed and updated.

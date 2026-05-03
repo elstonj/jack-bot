@@ -98,8 +98,8 @@
 - **Service Accounts:** 2
 
 **Notes:**
-- All 17 contacts verified and consolidated
+- All 17 contacts verified and consolidated from both existing knowledge and new raw data
+- Complete consistency across names, emails, titles, and phone numbers (reformatted to standard format)
 - Three team members remain unclassified; recommend reaching out to leadership for role clarification
 - BST maintains a strong engineering-focused organization with balanced technical and administrative support
-- All contact information standardized and up-to-date
-- New data merged: verified consistency across all names, emails, titles, and phone numbers
+- All contact information standardized and current
