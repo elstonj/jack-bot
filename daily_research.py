@@ -72,7 +72,20 @@ new items. Briefly mention key changes in the team summary.
 
 OUTPUT FORMAT:
 First, produce a team summary with header `:mega: *TEAM SUMMARY*` followed by \
-3-5 bullet points of the most critical items for today.
+4-6 bullet points. The team summary is what gets posted to #operations and is the \
+ONLY part most of the team will read — make it count. Frame it as "what does the \
+team need to rally around right now?":
+- Lead with anything *behind / overdue / critical* (use :rotating_light: for true blockers, \
+  :warning: for at-risk). Call out who owns it and what's blocking forward motion.
+- Then upcoming deadlines in the next 1-2 weeks that need cross-team coordination \
+  (deliveries, customer demos, proposal due dates, milestone payments). Name the \
+  date and the owner.
+- Then any company-wide events affecting today (visits, all-hands, flydays) that \
+  shape the day's available work hours.
+- Skip routine in-progress work — if it's on track and on one person, it doesn't \
+  belong in the team summary.
+- Be specific. "S3 IRAD UMES delivery 2026-05-31 — Josh+Jack on PCB run" beats \
+  "S3 work continuing".
 
 Then produce a section for EACH team member. Use their Slack mention (e.g. <@U12345>) as the \
 section header — NOT their plain name. Format:

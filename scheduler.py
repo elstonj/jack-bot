@@ -7,7 +7,7 @@ from slack_sdk import WebClient
 import anthropic
 
 from daily_research import run_daily_pipeline
-from research_cache import get_team_summary, get_per_user_sections
+from research_cache import get_team_summary, get_per_user_sections  # noqa: F401  per_user still used by DM path via cache
 from snow_day import check_and_post as check_snow_day
 from snow_day import check_and_post_eod as check_snow_day_eod
 from eldora import check_and_post as check_eldora
@@ -62,24 +62,41 @@ def _reformat_purchasing_for_slack(raw_body: str) -> str:
         return decoded
 
 
+def _bot_dm_footer(client) -> str:
+    """One-line nudge telling the team how to get their personal top 3 via DM.
+
+    Per-user sections are still generated and cached every run — they're just
+    no longer broadcast to #operations. Anyone can pull their own list (and
+    leave feedback) by DMing the bot.
+    """
+    try:
+        bot_user_id = client.auth_test()["user_id"]
+        mention = f"<@{bot_user_id}>"
+    except Exception:
+        mention = "@Jack Bot"
+    return (
+        f":speech_balloon: _DM {mention} `tasks` for your personal top 3 today — "
+        f"or just chat to give feedback / corrections._"
+    )
+
+
 def post_daily_tasks():
-    """Run the daily research pipeline and post results as ordered messages."""
+    """Run the daily research pipeline and post the team summary to #operations.
+
+    Per-user sections are still generated (DM `tasks` command pulls them from
+    the cache) but are no longer broadcast — the channel post is now strictly
+    a team-level overview.
+    """
     channel = os.environ.get("DAILY_TASKS_CHANNEL", "#general")
     client = WebClient(token=os.environ["SLACK_BOT_TOKEN"])
     try:
         run_daily_pipeline(client)
 
-        # Post team summary first
         team = get_team_summary()
         if team:
             client.chat_postMessage(channel=channel, text=team)
-            time.sleep(0.5)  # Small delay to preserve ordering
-
-        # Post each person's section as a separate message
-        per_user = get_per_user_sections()
-        for section in per_user.values():
-            client.chat_postMessage(channel=channel, text=section)
-            time.sleep(0.3)
+            time.sleep(0.5)
+            client.chat_postMessage(channel=channel, text=_bot_dm_footer(client))
 
     except Exception as e:
         from knowledge import store_entry
