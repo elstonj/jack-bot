@@ -1,4 +1,5 @@
 import re
+import time
 from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
 
@@ -117,37 +118,55 @@ WMO_CODES = {
 }
 
 
-def fetch_weather(lat: float, lon: float) -> dict:
-    """Fetch current and hourly weather from Open-Meteo API."""
-    resp = requests.get(
-        "https://api.open-meteo.com/v1/forecast",
-        params={
-            "latitude": lat,
-            "longitude": lon,
-            "current": ",".join([
-                "temperature_2m",
-                "relative_humidity_2m",
-                "weather_code",
-                "wind_speed_10m",
-                "wind_gusts_10m",
-                "wind_direction_10m",
-            ]),
-            "hourly": ",".join([
-                "wind_speed_10m",
-                "wind_gusts_10m",
-                "wind_direction_10m",
-                "precipitation_probability",
-                "precipitation",
-            ]),
-            "temperature_unit": "fahrenheit",
-            "wind_speed_unit": "mph",
-            "timezone": "America/Denver",
-            "forecast_hours": 24,
-        },
-        timeout=10,
-    )
-    resp.raise_for_status()
-    return resp.json()
+def fetch_weather(lat: float, lon: float, retries: int = 2) -> dict:
+    """Fetch current and hourly weather from Open-Meteo API.
+
+    Open-Meteo's free tier occasionally drops a connection or stalls past the
+    10s timeout. Retry the call a couple of times before giving up so a single
+    blip doesn't blank out a site in the daily report.
+    """
+    params = {
+        "latitude": lat,
+        "longitude": lon,
+        "current": ",".join([
+            "temperature_2m",
+            "relative_humidity_2m",
+            "weather_code",
+            "wind_speed_10m",
+            "wind_gusts_10m",
+            "wind_direction_10m",
+        ]),
+        "hourly": ",".join([
+            "wind_speed_10m",
+            "wind_gusts_10m",
+            "wind_direction_10m",
+            "precipitation_probability",
+            "precipitation",
+        ]),
+        "temperature_unit": "fahrenheit",
+        "wind_speed_unit": "mph",
+        "timezone": "America/Denver",
+        "forecast_hours": 24,
+    }
+    last_exc = None
+    for attempt in range(retries + 1):
+        try:
+            resp = requests.get(
+                "https://api.open-meteo.com/v1/forecast",
+                params=params,
+                timeout=10,
+            )
+            resp.raise_for_status()
+            return resp.json()
+        except (requests.exceptions.Timeout,
+                requests.exceptions.ConnectionError,
+                requests.exceptions.HTTPError) as e:
+            last_exc = e
+            if attempt < retries:
+                time.sleep(1.5 * (attempt + 1))
+                continue
+            raise
+    raise last_exc  # unreachable, but keeps mypy happy
 
 
 def wind_direction_label(degrees: float) -> str:
