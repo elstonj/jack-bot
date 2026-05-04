@@ -47,18 +47,17 @@ def handle_refresh_tasks(ack, respond, client, command):
         try:
             import time as _time
             from daily_research import run_daily_pipeline
+            from scheduler import _bot_dm_footer
             channel = os.environ.get("DAILY_TASKS_CHANNEL", "#general")
             run_daily_pipeline(client)
 
-            # Post team summary first, then each person separately
+            # Post team summary only. Per-user sections still go into the
+            # cache so DM `tasks` works, but they don't get broadcast.
             team = get_team_summary()
             if team:
                 client.chat_postMessage(channel=channel, text=team)
                 _time.sleep(0.5)
-            per_user = get_per_user_sections()
-            for section in per_user.values():
-                client.chat_postMessage(channel=channel, text=section)
-                _time.sleep(0.3)
+                client.chat_postMessage(channel=channel, text=_bot_dm_footer(client))
         except Exception as e:
             respond(f"Pipeline failed: {e}")
             try:
