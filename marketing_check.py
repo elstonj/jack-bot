@@ -1,18 +1,17 @@
 """Marketing assist morning check.
 
-Each weekday morning we look across the last ~30 hours for signals where
-Paige Smith (BST's Communications & Digital Marketing Specialist) has
-been tagged or mentioned — Slack pings in monitored channels and
-knowledge-channel entries about milestones, customer wins, demos, etc.
+Each weekday morning we sweep the last ~30 hours of company activity —
+recent messages from monitored Slack channels, plus substantive knowledge-
+channel entries — and ask Claude whether anything is marketing-worthy:
+contracts won, deliveries completed, flight tests succeeded, demos /
+visits, hires, press hits, customer wins.
 
-If anything looks marketing-worthy we hand the signals to Claude and ask
-for: a one-line "why this matters", a draft social post in BST's voice,
-and the supporting details. The result lands in #marketing for Paige to
-edit and ship. Quiet mornings are silent — `check_and_post` returns
-without posting if nothing in the window is noteworthy.
+If yes, we post a draft suggestion to #marketing pinging Paige (BST's
+Communications & Digital Marketing Specialist) — she'll be the one
+shipping the actual social post. Quiet days post nothing.
 
-Dedup uses the same trailing-marker pattern eldora.py / snow_day.py do:
-once we've posted today, we won't post again.
+Same trailing-marker dedup pattern eldora.py / snow_day.py use: once
+we've posted today, we won't post again.
 """
 
 from __future__ import annotations
@@ -21,26 +20,26 @@ import json
 import os
 import re
 import time
-from datetime import datetime, timedelta
+from datetime import datetime
 from zoneinfo import ZoneInfo
 
 import anthropic
 
 from knowledge import get_knowledge
 
-# Paige Smith — Communications & Digital Marketing Specialist.
-# Stable IDs sourced from knowledge/contacts/uid_map.json. If they ever
-# change the symptom is silent no-ops, not bad posts.
+# Paige Smith — Communications & Digital Marketing Specialist. We ping
+# her on the resulting post; she's NOT the trigger / filter for content.
+# Stable ID sourced from knowledge/contacts/uid_map.json. If it changes,
+# the symptom is a broken @-mention, not a wrong-content post.
 PAIGE_SLACK_ID = "U083AAM8E9Y"
-PAIGE_EMAIL = "paige.smith@blackswifttech.com"
-PAIGE_NAME_TOKENS = ("paige", "smith")
 
 _MARKER = "_— marketing assist suggestion_"
 _LOOKBACK_HOURS = 30  # cover overnight + late posts from yesterday afternoon
+_MAX_SLACK_MESSAGES = 200
+_MAX_KNOWLEDGE_ENTRIES = 60
 
-# Knowledge entry types worth scanning for marketing signal. We exclude
-# DEBUG / ERROR / SOURCE / SNAPSHOT (pipeline-trace noise that often dumps
-# the full user roster — including Paige's email — into the channel).
+# Knowledge entry types worth scanning. We exclude DEBUG / ERROR / SOURCE /
+# SNAPSHOT (pipeline-trace noise) and BUG / FEATURE (internal issue tracking).
 _RELEVANT_KNOWLEDGE_TYPES = {
     "PROJECT", "CLIENT", "DELIVERABLE", "TEAM",
     "CORRECTION", "FEEDBACK", "INSIGHT", "PRIORITY",
@@ -48,52 +47,78 @@ _RELEVANT_KNOWLEDGE_TYPES = {
 
 
 GATE_PROMPT = """\
-You are screening recent BST (Black Swift Technologies, an aerospace / UAS
-company) internal signals for content that Paige Smith — Communications &
-Digital Marketing Specialist — should know about and potentially post on
-the company's social channels.
+You are scanning the last ~30 hours of internal activity at BST (Black
+Swift Technologies, a small Boulder-based aerospace / UAS company) for
+moments worth posting about on the company's social channels. The post
+will be drafted for Paige Smith — BST's Communications & Digital Marketing
+Specialist — to edit and ship.
 
-You are given a JSON blob of:
-- Slack mentions / messages where @Paige was tagged or named in monitored
-  channels in the last ~30 hours
-- Recent knowledge-channel entries (milestones, project updates, feedback,
-  insights) that mention Paige or marketing-relevant events
+You are given a JSON blob containing:
+- "slack_messages": recent posts across monitored Slack channels
+- "knowledge_entries": recent substantive entries from the bot's knowledge
+  channel (project updates, feedback, insights, deliverables, corrections)
 
-Decide whether ANY of these signals describes a moment worth posting about
-externally. Marketing-worthy means: a customer milestone, a flight test or
-delivery achievement, a contract / award announcement, an event (visit,
-demo, talk), a product or capability launch, a hiring announcement, a
-press hit, or a notable photo / video opportunity.
+Look for ANY of the following — across ALL data, regardless of who posted
+or who was tagged:
 
-Routine internal logistics, day-to-day task assignments, or generic
-"@paige can you handle X" pings with no concrete event attached are NOT
-marketing-worthy on their own.
+MARKETING-WORTHY:
+- Contract won, award announced, grant funded, RFP / proposal accepted
+- Project milestone completed, hardware delivered, customer accepted
+- Successful flight test, capability demonstrated, range / endurance record
+- Customer or partner visit (DOD/USAF/NASA/SOCOM, university, primes)
+- Demo, talk, or conference attendance
+- Product or capability launch
+- New hire announcement
+- Press hit, quote in an article, podcast appearance
+- Notable photo / video opportunity (good visual that should be captured)
+- Public-facing customer quote or testimonial
+
+NOT MARKETING-WORTHY (skip these even if they came up):
+- Routine task assignments, "@person can you do X" requests
+- Internal logistics, scheduling, time-tracking discussions
+- Bug reports, debugging conversations, code review
+- Questions / status checks / "where are we on Y"
+- Generic in-progress updates with no concrete achievement
+- Internal meeting prep, agenda items, draft documents
+- Procurement / shipping discussions unless tied to a milestone
 
 Output ONE JSON object — no fences, no preamble, no closing prose:
 
 {
-  "noteworthy": true | false,
-  "headline": "one short line on what happened" | null,
-  "suggested_post": "draft social post in BST's professional-but-warm voice
-    (max ~280 chars, partner names OK, avoid hashtag spam)" | null,
-  "details": ["pertinent detail 1", "pertinent detail 2", ...],
-  "sources": ["short pointer to which input signals informed this", ...]
+  "items": [
+    {
+      "headline": "one short line on what happened",
+      "suggested_post": "draft social post in BST's professional-but-warm
+        voice (max ~280 chars, partner names OK, light on hashtags)",
+      "details": ["pertinent detail 1", "pertinent detail 2", ...],
+      "sources": ["short pointer to which input signals informed this", ...]
+    },
+    ...
+  ]
 }
 
-If noteworthy is false, set headline and suggested_post to null and use
-empty arrays for details and sources. Never invent facts — every concrete
-detail must trace to the input signals.
+Rules:
+- Return an empty "items" array if nothing in the window is marketing-worthy.
+  Quiet days are normal — do NOT manufacture content.
+- Each item is ONE distinct event. If two messages describe the same
+  milestone, merge them into one item.
+- Cap at 3 items. If more than 3 events qualify, pick the top 3 by impact.
+- Never invent facts. Every concrete detail (names, dates, contract values,
+  customer names) must trace to the input signals.
+- BST's voice: precise, technical when relevant, never breathless. Mention
+  partners and customers by name when they're public. Avoid "thrilled" /
+  "excited to announce" if you can carry the news on its own merit.
 """
 
 
-def _gather_slack_mentions(slack_client) -> list[dict]:
-    """Recent messages in monitored channels that tag/mention Paige."""
+def _gather_slack_activity(slack_client) -> list[dict]:
+    """Pull recent messages across monitored channels — full sweep, no filter."""
     raw_channels = os.environ.get("SLACK_MONITORED_CHANNELS", "")
     if not raw_channels:
         return []
     channels = [c.strip() for c in raw_channels.split(",") if c.strip()]
     oldest = str(int(time.time() - _LOOKBACK_HOURS * 3600))
-    mention_token = f"<@{PAIGE_SLACK_ID}>"
+
     out: list[dict] = []
     for channel_id in channels:
         try:
@@ -103,7 +128,7 @@ def _gather_slack_mentions(slack_client) -> list[dict]:
             channel_name = channel_id
         try:
             res = slack_client.conversations_history(
-                channel=channel_id, limit=80, oldest=oldest,
+                channel=channel_id, limit=100, oldest=oldest,
             )
         except Exception:
             continue
@@ -111,30 +136,21 @@ def _gather_slack_mentions(slack_client) -> list[dict]:
             if msg.get("subtype") or msg.get("bot_id"):
                 continue
             text = (msg.get("text") or "").strip()
-            if not text:
+            if not text or len(text) < 8:
                 continue
-            low = text.lower()
-            if (mention_token in text
-                    or "paige" in low
-                    or all(t in low for t in PAIGE_NAME_TOKENS)):
-                out.append({
-                    "channel": channel_name,
-                    "user_id": msg.get("user", ""),
-                    "text": text[:600],
-                    "ts": msg.get("ts", ""),
-                })
-        if len(out) >= 50:
+            out.append({
+                "channel": channel_name,
+                "user_id": msg.get("user", ""),
+                "text": text[:600],
+                "ts": msg.get("ts", ""),
+            })
+        if len(out) >= _MAX_SLACK_MESSAGES:
             break
-    return out
+    return out[:_MAX_SLACK_MESSAGES]
 
 
 def _gather_knowledge_entries(slack_client) -> list[dict]:
-    """Knowledge-channel entries from the last 3 days that mention Paige.
-
-    Filters to substantive entry types only — DEBUG and SOURCE entries
-    routinely dump the full user roster (including Paige's email), which
-    would otherwise match every pipeline run as a false signal.
-    """
+    """Substantive knowledge-channel entries from the last 3 days."""
     try:
         entries = get_knowledge(
             slack_client,
@@ -143,16 +159,17 @@ def _gather_knowledge_entries(slack_client) -> list[dict]:
         )
     except Exception:
         return []
-    matches: list[dict] = []
+    out = []
     for e in entries:
-        content = (e.get("content") or "").lower()
-        if "paige" in content:
-            matches.append({
-                "type": e.get("type", ""),
-                "content": (e.get("content") or "")[:800],
-                "ts": e.get("ts", ""),
-            })
-    return matches[:50]
+        content = (e.get("content") or "").strip()
+        if not content:
+            continue
+        out.append({
+            "type": e.get("type", ""),
+            "content": content[:800],
+            "ts": e.get("ts", ""),
+        })
+    return out[-_MAX_KNOWLEDGE_ENTRIES:]  # most recent N
 
 
 def _ask_claude(signals: dict) -> dict:
@@ -160,15 +177,15 @@ def _ask_claude(signals: dict) -> dict:
         client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
         msg = client.messages.create(
             model="claude-sonnet-4-20250514",
-            max_tokens=1000,
+            max_tokens=2500,
             system=GATE_PROMPT,
-            messages=[{"role": "user", "content": json.dumps(signals)[:14000]}],
+            messages=[{"role": "user", "content": json.dumps(signals)[:30000]}],
         )
         raw = msg.content[0].text.strip().strip("`")
         raw = re.sub(r"^json\s*", "", raw, flags=re.IGNORECASE)
         return json.loads(raw)
     except Exception:
-        return {"noteworthy": False}
+        return {"items": []}
 
 
 def _already_posted_today(slack_client, channel: str) -> bool:
@@ -190,37 +207,44 @@ def _already_posted_today(slack_client, channel: str) -> bool:
     return False
 
 
-def _format_post(verdict: dict) -> str:
-    headline = (verdict.get("headline") or "").strip()
-    suggested = (verdict.get("suggested_post") or "").strip()
-    details = verdict.get("details") or []
-    sources = verdict.get("sources") or []
-    lines = [f":mega: *Marketing assist* — heads-up <@{PAIGE_SLACK_ID}>"]
-    if headline:
-        lines.append(f"*Why this matters:* {headline}")
-    if suggested:
+def _format_post(items: list[dict]) -> str:
+    lines = [
+        f":mega: *Marketing assist* — heads-up <@{PAIGE_SLACK_ID}>, "
+        f"{'something' if len(items) == 1 else 'a few things'} from the "
+        f"last day worth posting about:"
+    ]
+    for i, item in enumerate(items, start=1):
+        headline = (item.get("headline") or "").strip()
+        suggested = (item.get("suggested_post") or "").strip()
+        details = item.get("details") or []
+        sources = item.get("sources") or []
         lines.append("")
-        lines.append("*Suggested post:*")
-        for ln in suggested.splitlines():
-            lines.append(f"> {ln}")
-    if details:
-        lines.append("")
-        lines.append("*Pertinent details:*")
-        for d in details[:8]:
-            lines.append(f"• {d}")
-    if sources:
-        lines.append("")
-        lines.append("_Source signals: " + "; ".join(str(s) for s in sources[:5]) + "_")
+        prefix = f"*{i}.*" if len(items) > 1 else "*•*"
+        lines.append(f"{prefix} {headline}" if headline else prefix)
+        if suggested:
+            lines.append("")
+            lines.append("*Suggested post:*")
+            for ln in suggested.splitlines():
+                lines.append(f"> {ln}")
+        if details:
+            lines.append("")
+            lines.append("*Pertinent details:*")
+            for d in details[:8]:
+                lines.append(f"• {d}")
+        if sources:
+            lines.append(
+                "_Source: " + "; ".join(str(s) for s in sources[:5]) + "_"
+            )
     lines.append("")
     lines.append(_MARKER)
     return "\n".join(lines)
 
 
 def check_and_post(slack_client) -> bool:
-    """Run the morning marketing scan; post a draft to #marketing if anything is noteworthy.
+    """Sweep recent activity; post a draft to #marketing if anything is noteworthy.
 
     Returns True if a post was made, False otherwise (no signals, already
-    posted today, Claude said nothing's noteworthy, or post failed).
+    posted today, Claude found nothing noteworthy, or post failed).
     """
     channel = os.environ.get("MARKETING_CHANNEL", "")
     if not channel:
@@ -228,19 +252,21 @@ def check_and_post(slack_client) -> bool:
     if _already_posted_today(slack_client, channel):
         return False
 
-    slack_signals = _gather_slack_mentions(slack_client)
+    slack_signals = _gather_slack_activity(slack_client)
     knowledge_signals = _gather_knowledge_entries(slack_client)
     if not slack_signals and not knowledge_signals:
         return False
 
     verdict = _ask_claude({
-        "slack_mentions": slack_signals,
+        "slack_messages": slack_signals,
         "knowledge_entries": knowledge_signals,
     })
-    if not verdict.get("noteworthy"):
+    items = verdict.get("items") or []
+    items = [i for i in items if isinstance(i, dict) and i.get("headline")]
+    if not items:
         return False
 
-    text = _format_post(verdict)
+    text = _format_post(items[:3])
     try:
         slack_client.chat_postMessage(channel=channel, text=text)
         return True
