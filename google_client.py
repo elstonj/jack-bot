@@ -220,12 +220,26 @@ def get_latest_email_by_subject(user_email, subject, sender=None, max_age_hours=
     if text_plain:
         return text_plain.strip()
     if text_html:
-        # Crude HTML strip — fine for an internal summary email
+        # Crude HTML strip — fine for an internal summary email. Block-level
+        # tags need to leave a newline behind, otherwise field boundaries in a
+        # Gemini/Gmail summary collapse into one long run-on line
+        # ("Vendor: XOrder Date: YItems: Z...").
+        import html as _html
         import re as _re
-        stripped = _re.sub(r"<br\s*/?>", "\n", text_html, flags=_re.I)
-        stripped = _re.sub(r"</p\s*>", "\n\n", stripped, flags=_re.I)
-        stripped = _re.sub(r"<[^>]+>", "", stripped)
-        return stripped.strip()
+        s = text_html
+        s = _re.sub(r"<br\s*/?>", "\n", s, flags=_re.I)
+        s = _re.sub(
+            r"</(p|div|li|tr|h[1-6]|section|article|header|footer|table)\s*>",
+            "\n",
+            s,
+            flags=_re.I,
+        )
+        s = _re.sub(r"</td\s*>", " | ", s, flags=_re.I)
+        s = _re.sub(r"<[^>]+>", "", s)
+        s = _html.unescape(s)
+        s = _re.sub(r"[ \t]+\n", "\n", s)
+        s = _re.sub(r"\n{3,}", "\n\n", s)
+        return s.strip()
     return None
 
 

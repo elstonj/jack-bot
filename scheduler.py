@@ -1,7 +1,10 @@
+import html
 import os
 import time
 from apscheduler.schedulers.background import BackgroundScheduler
 from slack_sdk import WebClient
+
+import anthropic
 
 from daily_research import run_daily_pipeline
 from research_cache import get_team_summary, get_per_user_sections
@@ -10,6 +13,53 @@ from snow_day import check_and_post_eod as check_snow_day_eod
 from eldora import check_and_post as check_eldora
 from weather import format_weather
 from google_client import get_latest_email_by_subject
+
+
+PURCHASING_REFORMAT_PROMPT = """\
+You are reformatting a daily purchasing summary email for Slack. The input is the body of
+a Gemini-generated report. It may arrive in any of these shapes — handle them all:
+  (a) markdown with pipe-delimited tables (| Vendor | Order ID | ... |)
+  (b) one long run-on line where field labels are concatenated with no separators
+      ("Vendor: XOrder Date: YItems Ordered: Z...") — split on the labels
+  (c) loose prose with one entry per paragraph
+
+Rules:
+- Decode any HTML entities you see (&#39; → ', &quot; → ", &amp; → &, etc.)
+- Drop preamble like "Here is the summary..." / "Below is a summary..." and any
+  date-range header — the parent message already has a title
+- Use *bold* for section headers and vendor names (Slack mrkdwn, not markdown headings)
+- Group entries under section headers like *New / Confirmed Orders*,
+  *Shipped / In Transit*, *Delivered*. If the source has no sections, infer them
+  from each entry's status. Skip empty sections.
+- Format each order as exactly:
+    *<Vendor>* — Order `<id>`
+    • Items: <short summary, ≤ 120 chars; collapse long part lists>
+    • Total: $X    (omit this line if no amount given)
+    • Status: <tracking #, ETA, backorder note, etc.>
+- Drop fields that say "Not provided", "Not specified", "N/A", "Unknown", or are empty
+- Preserve concrete data: dollar amounts, tracking numbers, expected ship/delivery dates
+- Don't add commentary, recommendations, or invent details
+- One blank line between entries; no horizontal rules; no markdown headings (#, ##)
+- Output the formatted body only — no preamble, no closing remarks, no code fences"""
+
+
+def _reformat_purchasing_for_slack(raw_body: str) -> str:
+    """Convert the purchasing email body into Slack-friendly mrkdwn.
+
+    Falls back to the (entity-decoded) raw body if Claude is unavailable.
+    """
+    decoded = html.unescape(raw_body)
+    try:
+        client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+        msg = client.messages.create(
+            model="claude-haiku-4-5-20251001",
+            max_tokens=3000,
+            system=PURCHASING_REFORMAT_PROMPT,
+            messages=[{"role": "user", "content": decoded[:15000]}],
+        )
+        return msg.content[0].text.strip()
+    except Exception:
+        return decoded
 
 
 def post_daily_tasks():
@@ -89,7 +139,8 @@ def post_purchasing_summary():
         )
         if not body:
             return
-        text = f":package: *Daily Purchasing Summary*\n{body.strip()}"
+        formatted = _reformat_purchasing_for_slack(body.strip())
+        text = f":package: *Daily Purchasing Summary*\n{formatted}"
         # Slack hard-limits a single message at 40k chars; trim with a marker.
         if len(text) > 39000:
             text = text[:39000] + "\n…(truncated)"
