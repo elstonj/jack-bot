@@ -11,6 +11,7 @@ from research_cache import get_team_summary, get_per_user_sections  # noqa: F401
 from snow_day import check_and_post as check_snow_day
 from snow_day import check_and_post_eod as check_snow_day_eod
 from eldora import check_and_post as check_eldora
+from marketing_check import check_and_post as check_marketing
 from weather import format_weather
 from google_client import get_latest_email_by_subject
 
@@ -145,6 +146,19 @@ def tick_eldora_report():
             pass
 
 
+def tick_marketing_check():
+    """Morning scan for marketing-worthy signals tagging Paige; post to #marketing if any."""
+    client = WebClient(token=os.environ["SLACK_BOT_TOKEN"])
+    try:
+        check_marketing(client)
+    except Exception as e:
+        from knowledge import store_entry
+        try:
+            store_entry(client, "ERROR", f"marketing check failed: {e}")
+        except Exception:
+            pass
+
+
 def post_purchasing_summary():
     """Re-post Jack's daily purchasing summary email to #operations."""
     channel = os.environ.get("DAILY_TASKS_CHANNEL", "#general")
@@ -241,6 +255,17 @@ def start_scheduler():
         day_of_week="mon-fri",
         hour=8,
         minute=5,
+        misfire_grace_time=3600,  # 1 hr: still useful later in the morning
+    )
+    # Marketing assist scan to #marketing. Fires after the 8:00 daily
+    # pipeline so it sees fresh knowledge entries from this morning's run,
+    # but stays cheap by re-using the same data sources.
+    scheduler.add_job(
+        tick_marketing_check,
+        "cron",
+        day_of_week="mon-fri",
+        hour=8,
+        minute=15,
         misfire_grace_time=3600,  # 1 hr: still useful later in the morning
     )
     scheduler.start()
