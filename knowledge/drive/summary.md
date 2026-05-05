@@ -1,49 +1,53 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-05-03 02:19
+Last scanned: 2026-05-05 02:22
 
-Total drives scanned: 1
+Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 2 files — [federal_projects.md](federal_projects.md)
+- **Federal Projects** — 15 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 2 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies – Google Drive Strategic Overview
+# Black Swift Technologies - Shared Drive Strategic Overview
 
-## Summary
+## Summary Statistics
+- **Total documents:** 17 files across 2 drives
+- **Organization quality:** Poor - minimal folder structure, flat hierarchies
+- **Active period:** 2022–2026 (ongoing activity)
 
-BST's shared drive infrastructure appears minimally utilized with only **2 files** across the documented system.
+## Drive-Specific Observations
 
-### Drive Status
+### Federal Projects Drive (15 files)
+**Primary focus:** Government contracting (NASA, DOE, DoD)
+- **Content types:** Proposals, RFIs, grant documentation, correspondence
+- **Key clients:** NASA (Atmospheric Energy Harvesting focus), DOE, DoD
+- **Notable projects:** 
+  - Autonomy Phase II proposal (DRAFT status, May 2026)
+  - NASA Aero RFI initiatives
+- **Critical issue:** **No folder organization** — all 15 files at root level creates retrieval and version control challenges
+- **Status concern:** Autonomy Phase II marked as DRAFT with recent modifications suggests active proposal development
 
-| Drive | File Count | Organization | Status |
-|-------|-----------|--------------|--------|
-| Federal Projects | 2 | Minimal | Sparse |
+### Sales Drive (2 files)
+**Primary focus:** Transactional records
+- **Content:** Invoice and purchase order documentation
+- **Recent activity:** May 2024–May 2026
+- **Note:** Minimal volume; appears to be archive rather than active sales hub
 
-### Key Observations
+## Key Observations
 
-**Document Volume & Organization**
-- Extremely limited documentation footprint (2 files total)
-- No discernible folder structure or categorization
-- Drives lack the expected documentation volume for an active organization
+| Aspect | Finding |
+|--------|---------|
+| **Documentation gaps** | Sales drive severely underdeveloped; no proposals, contracts, or client records visible |
+| **Version control** | Duplicate NASA Aero RFI files (PDF + working copy) suggest informal versioning |
+| **Naming consistency** | Mixed conventions; some files include dates, others don't |
+| **Stale content risk** | No clear archive strategy; old and current proposals commingled |
+| **Cross-drive patterns** | Federal/government focus dominates; commercial/private sector underrepresented |
 
-**Content Type**
-- Both files are video assets (RC_VID_0008.MOV, RC_VID_0009.MOV)
-- Likely reconnaissance or project documentation
-- No supporting collateral, project plans, or contracts
-
-**Metadata Concern**
-- Modification dates show 2099-01-24 (future date) — suggests potential timestamp anomalies or data import issues
-
-### Areas Requiring Attention
-
-1. **Incomplete Inventory** – Only one drive provided for review; insufficient to assess full organizational structure
-2. **Missing Core Documentation** – No visible client files, proposals, contracts, templates, or project management artifacts
-3. **Data Quality** – Invalid timestamp requires investigation
-4. **Governance Gaps** – No apparent naming conventions, folder hierarchy, or retention policies documented
-
-### Recommendation
-
-Conduct full drive audit to establish baseline of all shared drives, implement standardized folder structures, and define document management policies.
+## Recommended Attention Areas
+1. **Implement folder hierarchies** in Federal Projects by client/year/project type
+2. **Establish version control protocol** (remove duplicates, mark status in filenames)
+3. **Expand Sales drive** with templates, contracts, and client records
+4. **Archive strategy** for completed proposals (pre-2024)

@@ -26,20 +26,19 @@
     - Camp Pendleton demo: Aug 17
     - CLIN 0006 (Progress Report): Jun 29, 2026
     - CLIN 0007 (Final Report): Sep 28, 2026
-- **Status:** **Active – Option Period underway (kicked off Apr 21, 2026).** Per Maciej Stachura (Apr 24, Apr 30): Navy SBIR Magnetometer is **priority #5** on current workload, behind S3 IRAD, S0-VTOL, EMASS closeout, and By-Lite Mustang. All technical tasks for Maciej's scope are complete as of Apr 20, 2026 (per Maciej: "Tasks for the Navy project is done").
+- **Status:** **Active – Option Period underway.** Per Maciej Stachura (Apr 24, Apr 30): Navy SBIR Magnetometer is **priority #5** on current workload. However, **Asana data shows significant compression:** only 1 open task remains ("Order parts for S0-MAD Re-usable," due May 5, 2026), vs. 19 open tasks documented in previous knowledge file. This suggests either: (a) tasks have been aggressively closed/archived since last update, or (b) Asana task list is stale. **See Risk Signals below.**
 - **Team Members:**
-  - Alex Lomis (PM/Owner, technical lead for builds & flights) — 9 open technical tasks (critical path)
-  - Jack Elston (technical lead, onboard logging & final reporting) — 3 open tasks (design + 2 reports)
-  - Maciej Stachura (Python tools, sensor configuration) — 2 open tasks, both COMPLETE per Apr 20 feedback
-  - Beck Cotter (Camp Pendleton coordination) — 1 open task (due Jun 1)
-  - Meredith O'hara Needham (administrative, invoicing, FWA certification) — 2 open tasks (invoices)
+  - Alex Lomis (PM/Owner, technical lead for builds & flights) — 1 open task visible in current data
+  - Jack Elston (technical lead, onboard logging & final reporting) — no open tasks visible
+  - Maciej Stachura (Python tools, sensor configuration) — no open tasks visible
+  - Beck Cotter (Camp Pendleton coordination) — no open tasks visible
+  - Meredith O'hara Needham (administrative, invoicing, FWA certification) — no open tasks visible
   - Dan Prendergast (support)
 - **Risk Signals:**
-  - **Critical path dependency on Alex Lomis:** 9 open technical tasks spanning design, procurement, build, and flight testing through Aug 17 demo. Heavy concentration on single PM with compressed timeline (Apr 27 – Aug 17).
-  - **Compressed technical timeline:** Design (Apr 27–May 5) → build (May 19) → ground testing (May 29) → hand-launched flights (Jul 1) → Camp Pendleton demo (Aug 17), all before final report (Sep 28).
-  - **External dependency:** Camp Pendleton permissions/frequencies (Beck Cotter, due Jun 1) must be secured before demo logistics finalized (Aug 10).
+  - **CRITICAL: Task list compression mismatch.** Previous knowledge file documented 19 open technical tasks spanning design, procurement, build, and flight testing through Aug 17. Current Asana export shows only 1 open task. This is a **red flag for task tracking currency.** Either tasks have been bulk-closed without status update, or the Asana export is incomplete/filtered. **Recommend immediate audit with team to confirm actual project status vs. Asana visibility.**
+  - **Compressed technical timeline remains:** Design (Apr 27–May 5) → build (May 19) → ground testing (May 29) → hand-launched flights (Jul 1) → Camp Pendleton demo (Aug 17), all before final report (Sep 28). Single remaining visible task (parts order, due May 5) is at design freeze point.
   - **Priority #5 status:** Resource constraints may limit team availability during peak execution phases (May–Aug).
-  - **Asana task alignment:** Raw data now shows 19 open tasks, matching tracked scope. All tasks properly documented in Asana as of this update.
+  - **External dependency:** Camp Pendleton permissions/frequencies (Beck Cotter, due Jun 1) must be secured before demo logistics finalized (Aug 10). No open task visible for this critical path item.
 
 ## Key Deliverables & Milestones
 
@@ -55,7 +54,7 @@
 |---|---|---|---|---|
 | Complete design of ground testing S0-MAD (both mags) | Alex Lomis | Apr 27, 2026 | **OPEN** | Critical path start |
 | Preliminary design mods for reusable S0-MAD | Alex Lomis | May 1, 2026 | **OPEN** | Follows design phase |
-| Order parts for S0-MAD reusable | Alex Lomis | May 5, 2026 | **OPEN** | Design freeze |
+| **Order parts for S0-MAD reusable** | **Alex Lomis** | **May 5, 2026** | **OPEN** | **Only task visible in current Asana data; Design freeze point** |
 | Design onboard logging (both mag sensors) | Jack Elston | May 8, 2026 | **OPEN** | Parallel to design phase |
 | Finalize Python plotting/analysis tools | Maciej Stachura | May 13, 2026 | **COMPLETE** | Per Maciej (Apr 20): "Tasks for the Navy project is done" |
 | Configure settings for both mag sensors | Maciej Stachura | May 18, 2026 | **COMPLETE** | Per Maciej (Apr 20): "Tasks for the Navy project is done" |
@@ -76,9 +75,5 @@
 - All Phase I reports and invoices submitted and paid (Feb 9–11, 2026) ✓
 
 ## Task Summary
-- **Asana tasks (current):** 19 open, 0 completed
-  - 13 technical tasks (design, build, test, flight operations)
-  - 4 administrative tasks (reports & invoices)
-  - 2 contact reference tasks (TPOC & secondary contact info)
-- **Tasks by assignee:**
-  - **
+- **Asana tasks (current):** 1 open, 0 completed
+  - **Discrepancy alert:** Previous knowledge file documented 

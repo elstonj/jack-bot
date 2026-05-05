@@ -12,11 +12,11 @@
 
 ## Key Deliverables & Milestones
 
-**⚠️ CRITICAL: The following milestone dates (April–October 2026) are STALE per team corrections (Maciej, April 17; Jack, April 20). Actual deployment timeline has shifted to FALL 2026. Do not act on April–July 2026 due dates.**
+**⚠️ CRITICAL: All milestone dates (April–October 2026) are STALE per team corrections from Maciej Stachura (April 17, 2026) and Jack Elston (April 20, 2026). Actual deployment timeline has shifted to FALL 2026. Do not act on April–July 2026 due dates.**
 
 | Milestone | Assignee | Asana Due Date | Status | Note |
 |-----------|----------|----------------|--------|------|
-| Meeting with AFAC | Dan Prendergast | May 4, 2026 | **STALE** | Reschedule for Fall 2026 |
+| Meeting with AFAC | Dan Prendergast | May 7, 2026 | **STALE** | Reschedule for Fall 2026 |
 | Look for replacement for AV3 | Dan Prendergast | May 18, 2026 | **STALE** | Reschedule for Fall 2026 |
 | Look at proposal/contract for AV3 budget and assign to Paulino | Dan Prendergast | May 18, 2026 | **STALE** | Reschedule for Fall 2026 |
 | Obtain flight approvals from AFAC | Dan Prendergast | July 1, 2026 | **STALE** | Reschedule for Fall 2026 |
@@ -33,18 +33,13 @@
 | Create photogrammetry footprints | Dan Prendergast | October 1, 2026 | **STALE** | Reschedule for Fall 2026 |
 
 ## Task Summary
-- **Total Tasks**: 20 open, 0 completed
-- **Tasks by Assignee**:
-  - **Dan Prendergast**: 6 tasks — Meeting with AFAC, Look at AV3 proposal/contract, Obtain flight approvals, Verify ground permissions, Flight plans, Photogrammetry footprints (all due May–October 2026 — **STALE**)
-  - **Maciej Stachura**: 2 tasks — Look at FLIR stoppage at Murray State, Test props for 5700m operations (due Aug 3, 2026 — **STALE**)
-  - **Josh Fromm**: 1 task — Spare parts and packing list (due Oct 1, 2026 — **STALE**)
-  - **Unassigned**: 11 tasks — Flight/radio/shipping/import permissions, Payload updates, Local flight testing, Ship aircraft/equipment, Conduct mission, Test New Capabilities, Tools/Ground Equipment, S2 Improvements, Planning/Algorithms/UI, CONOPS
+- **Total Tasks**: 1 open, 0 completed (Note: Prior knowledge file listed 20 open tasks; current raw data shows only 1 active task. Likely most tasks have been archived or deprioritized pending Fall 2026 timeline confirmation.)
+- **Current Open Tasks**:
+  - **Dan Prendergast**: 1 task — Meeting with AFAC (due May 7, 2026 — **STALE, reschedule for Fall 2026**)
 - **Notable Patterns**: 
-  - **All 20 tasks are open with NO completions**
   - Project is in hold state pending Fall 2026 deployment confirmation
   - **ALL task due dates April–October 2026 are SUPERSEDED by Fall 2026 delay announcement**
-  - Most action tasks remain unassigned or deprioritized — will require assignment/rescheduling once Fall 2026 timeline is confirmed
-  - Several tasks lack due dates entirely (Test New Capabilities, Tools/Ground Equipment, S2 Improvements, Planning/Algorithms/UI, CONOPS)
+  - Task list will require rescheduling and reassignment once Fall 2026 timeline is confirmed
 
 ## Recent Activity
 - **April 20, 2026 (TEAM CORRECTIONS — AUTHORITATIVE)**: 
@@ -64,3 +59,4 @@
 - **Upcoming Operational Considerations**: 
   - High-altitude operations (5700m elevation) — propeller testing required
   - FLIR payload integration — review Murray State stoppage
+- **Admin Notes**: Working with USGS on Jan/Feb timing (per Maciej for updates)

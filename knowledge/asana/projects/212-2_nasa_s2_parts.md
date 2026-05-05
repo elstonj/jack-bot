@@ -13,14 +13,15 @@
   - **Funding approved to make end of FY2025**
   - Key Milestones (⚠️ **see Status note below**):
     - April 30, 2026 (design adjustments & parts orders) — **REQUIRES IMMEDIATE REVISION per Maciej (2026-04-27)**
-    - June 1, 2026 (launcher refurbishment)
-- **Status:** Active — 5 open tasks, 0 completed. **⚠️ CRITICAL: April 30 due dates are stale. Per Maciej (2026-04-27): "update the due dates in Asana to realistic numbers" post-ByLight meeting. Revised dates must be communicated to NASA Ames (Randy Hobbs/Will Wade) immediately.**
+    - June 1, 2026 (launcher refurbishment) — **REVISED to June 30, 2026 per latest task data**
+- **Status:** Active — 1 open task, 0 completed. **⚠️ CRITICAL: April 30 due dates are stale. Per Maciej (2026-04-27): "update the due dates in Asana to realistic numbers" post-ByLight meeting. Revised dates must be communicated to NASA Ames (Randy Hobbs/Will Wade) immediately.**
 - **Team Members:** Nate Straus (owner), Josh Fromm (primary executor), Dan Prendergast (coordination), Alex Lomis (oversight)
 - **Priority:** Medium
 - **Risk Signals:** 
   - **CRITICAL:** April 30, 2026 deadline **OVERRIDDEN by Maciej (2026-04-27)** — dates are stale and must be revised to "realistic numbers" post-ByLight meeting
   - **CRITICAL:** NDAA compliance scope for S2 parts remains unresolved per Joshua Fromm (2026-04-17, 2026-04-20) — **directly blocks Josh Fromm from completing parts orders**
   - **URGENT:** NASA RFI review and response assessment required per Alex Lomis (2026-04-17, 2026-04-20); Maciej (2026-04-27) assigned AI-assisted RFI analysis to team
+  - **NOTE:** Launcher refurbishment due date appears to have shifted from June 1 to June 30, 2026 (per current task data)
 
 ## Key Deliverables & Milestones
 | Milestone | Due Date | Assignee | Status |
@@ -29,20 +30,21 @@
 | Place orders for S20009/launcher refurb parts and spares | April 30, 2026* | Josh Fromm | 🔄 Open — **⚠️ DUE DATE REQUIRES REVISION; BLOCKED by NDAA uncertainty** |
 | Place orders for new airframe case and launcher case | No due date | Unassigned | 🔄 Open |
 | S20009 Refurb and component replacement | No due date | Unassigned | 🔄 Open |
-| Perform launcher refurbishment | June 1, 2026 | Nate Straus | 🔄 Open |
+| Perform launcher refurbishment | June 30, 2026 | Nate Straus | 🔄 Open |
 | **Final delivery** | **September 30, 2026** | **Nate Straus** | **🔄 Open** |
 
 *Per Maciej (2026-04-27): "update the due dates in Asana to realistic numbers." Current April 30 dates are stale and must be revised; revised schedule should be communicated to NASA Ames (Randy Hobbs/Will Wade).
 
 ## Task Summary
-- **Total Tasks:** 5 open tasks, 0 completed
+- **Total Tasks:** 1 visible open task in current Asana snapshot (Perform launcher refurbishment), 0 completed
+  - *Note: Historical knowledge file references 5 open tasks; discrepancy suggests task consolidation, completion, or data lag. Confirm with team.*
 - **Tasks by Assignee:**
-  - **Josh Fromm:** 2 open tasks (both due April 30, 2026 per Asana, **but dates are STALE per Maciej 2026-04-27**)
+  - **Nate Straus:** 1 visible open task
+    - Perform launcher refurbishment (June 30, 2026)
+  - **Josh Fromm:** 2 referenced open tasks (both due April 30, 2026 per historical knowledge, **but dates are STALE per Maciej 2026-04-27**)
     - Adjust designs based on component changes
     - Place orders for S20009/launcher refurb parts and spares — **BLOCKED by unresolved NDAA compliance scope per Joshua Fromm (2026-04-17, 2026-04-20)**
-  - **Nate Straus:** 1 open task
-    - Perform launcher refurbishment (June 1, 2026)
-  - **Unassigned:** 2 open tasks with no due dates
+  - **Unassigned:** 2 referenced open tasks with no due dates
     - Place orders for new airframe case and launcher case
     - S20009 Refurb and component replacement
   - **Project Owner:** Nate Straus
@@ -64,7 +66,6 @@
 
 ## Notes & Context
 - **Schedule Reality Check (CRITICAL — OVERRIDES ASANA):** Maciej (2026-04-27) instructed team to update Asana due dates to "realistic numbers" post-ByLight meeting. **The current April 30, 2026 dates for Josh Fromm's two tasks are NO LONGER ACCURATE and must be revised immediately.** Communicate revised timeline to NASA Ames (Randy Hobbs/Will Wade).
+- **Task Discrepancy:** Current Asana snapshot shows 1 open task (Perform launcher refurbishment); historical knowledge file references 5 open tasks. Verify whether Josh Fromm's tasks have been archived, consolidated, or are in a separate view. Confirm launcher refurbishment due date: June 1 (historical) vs. June 30 (current data).
 - **Critical Transition:** S2 platform is officially end-of-life as BST transitions to S3. S2 is now a legacy product; several components require new designs per Estimate 1362 context.
-- **NDAA Compliance Blocker (CRITICAL):** Joshua Fromm (2026-04-17, 2026-04-20) confirms uncertainty on S2 parts NDAA scope. Per Fromm: S3 has no electronics with final assembly in China, but S2 NDAA requirements remain unclear. **This directly prevents parts orders from proceeding.** Must be resolved before Josh can finalize part selection and place orders.
-- **NASA RFI Action Item (URGENT):** Alex Lomis (2026-04-17, 2026-04-20) flagged SAM.gov RFI link discussed on hurricane ET call with NASA folks and Joe. **Maciej (2026-04-27) assigned AI-assisted RFI analysis to team (Alex Lomis or Josh Fromm to lead).** Link: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
-- **Contact Management Issue:** Custom field shows "Isaac Anderson" as General Point of Contact, but he has moved on from NASA Ames. **Recommend updating to Randy Hobbs (r
+- **NDAA Compliance Blocker (CRITICAL):** Joshua Fromm (2026-04-17, 2026-04-20) confirms uncertainty on S2 parts NDAA scope. Per Fromm: S3 has no electronics with final assembly in China, but S2 NDAA requirements remain unclear. **This directly prevents parts

@@ -1,7 +1,7 @@
 # #25_1-navy-sttr-boundary-layer
 
 ## Overview
-This channel manages Black Swift Technologies' Navy STTR project focused on boundary layer measurements using the S0 UAS platform. The project aims to develop atmospheric sensing capabilities for hazardous weather conditions, particularly tropical cyclones and high wind environments. Key participants include Beck Cotter, Maciej, Josh Wadler, Jun Zhang, Dan Prendergast, Jack Elston, Joshua Fromm, and Joe. The channel shows high activity from July 2024 through April 2026, covering Phase I completion, Phase II proposal development, and active field operations including ocean validation missions.
+This channel manages Black Swift Technologies' Navy STTR project focused on boundary layer measurements using the S0 UAS platform. The project aims to develop atmospheric sensing capabilities for hazardous weather conditions, particularly tropical cyclones and high wind environments. Key participants include Beck Cotter, Maciej, Josh Wadler, Jun Zhang, Dan Prendergast, Jack Elston, Joshua Fromm, Joe, and Meredith Needham (Navy contact/administrator). The channel shows high activity from July 2024 through May 2026, covering Phase I completion, Phase II proposal development, and active field operations including ocean validation missions.
 
 ## Key Decisions
 - **July 2024**: Focused Phase 1 on tropical cyclone/high wind measurements rather than cold weather applications
@@ -27,7 +27,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - Ocean validation missions in 4 phases testing sensing, algorithms, wave height, QC, and AI autonomy
 - **Humidity Sensor Correction**: Vaisala humidity error identified and corrected with post-processing fix; real-time correction now active in firmware (as of April 17, 2026)
 
-**Active Field Operations (April 2026):**
+**Active Field Operations (April-May 2026):**
 - S0 UAS ocean deployment missions coordinated through NOAA AOC (Aviation Operations Center) in Lakeland
 - IRC chat coordination system for real-time field communication during flights and landing operations
 - 5 test flights completed during validation window; data recovery and post-processing in progress
@@ -44,6 +44,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **Jun Zhang**: Lead data assimilation work with Navy model, budget postdoc position; troubleshoot IRC connectivity issues with Lakeland AOC; **requested 1 Hz version of dataset for TDR comparison**
 - **Dan Prendergast**: Complete CONOPS section development
 - **Joshua Fromm/Joe**: Support IRC connectivity and field operations coordination; provide status updates on data corrections and validation
+- **BST Team**: **Progress Report due Wednesday, June 3, 2026** - utilize templates from https://navysbir.com/links_forms.htm
 
 **Phase I Option Deliverables:**
 - Phase II Cal/Val Plan (due May 20)
@@ -52,8 +53,9 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - Stakeholder engagement (due September 20)
 
 ## Client & External References
-**Primary Navy Contact:**
+**Primary Navy Contacts:**
 - Josh Cossuth (TPOC) - Navy stakeholder providing feedback and reviews
+- Meredith Needham - Navy program administrator managing reporting requirements and deadlines
 
 **Collaborators:**
 - NOAA: Dropsonde comparisons, CAO tower access in Colorado; AOC (Aviation Operations Center) in Lakeland for field operations coordination
@@ -75,6 +77,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **Validation Planning**: Ocean arrays, NOAA buoys, tower comparisons for Phase II testing
 - **Stakeholder Engagement**: Regular TPOC meetings, letter of support collection, operational transition planning
 - **Field Operations Coordination**: Real-time communication systems for S0 deployment missions
+- **Program Reporting**: Regular progress reports and Navy SBIR documentation requirements
 
 ## Important Resources
 **Documentation:**
@@ -82,17 +85,10 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - Work plan gantt chart: https://docs.google.com/spreadsheets/d/12BKEpLk5307ZSQYOEnzULTR-TKdUv2ZP5Cp72o9fzgw/edit
 - Kickoff brief template: https://docs.google.com/presentation/d/12CdhWT4xQpLgt3OGQCEe99Fzdr94ZLVnDpWchSBYMS4/edit
 - IRC connectivity instructions (shared via Google Doc by Jun Zhang)
+- Navy SBIR Report Templates: https://navysbir.com/links_forms.htm
 
 **Data Sources:**
 - NDBC buoy data: https://www.ndbc.noaa.gov/obs.shtml
 - NOAA CAO tower: 3-second raw data and 1-minute QC'd data at 30m, 100m, 508m
 - NOAA dropsonde data from Hurricane Gabrielle flights
 - TDR (Tropical Cyclone Data Repository): Target for 1 Hz downsampled dataset distribution
-
-**Field Operations:**
-- IRC Server: irc.omao.noaa.gov (updated April 2026, replaces previous IP 140.90.144.132:6697)
-- Port: 6697
-- Use case: Real-time ground coordination during S0 flight operations
-
-## Recent Activity
-**April 8-9, 2026**: Active S0 ocean validation mission preparation with field operations support. Team coordinated real-time communication systems for landing operations. Identified IRC server connectivity issue (

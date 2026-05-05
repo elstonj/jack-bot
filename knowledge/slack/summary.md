@@ -1,51 +1,61 @@
 # Slack Channels Overview
 
-Last scanned: 2026-05-02 02:13
+Last scanned: 2026-05-05 02:16
 
-Total channels scanned: 5
+Total channels scanned: 8
 
 ## Channels
 
-- **#flight-testing** -- 10 messages -- [flight-testing.md](flight-testing.md)
-- **#general** -- 7 messages -- [general.md](general.md)
-- **#marketing** -- 6 messages -- [marketing.md](marketing.md)
-- **#s0-vtol** -- 11 messages -- [s0-vtol.md](s0-vtol.md)
-- **#s3** -- 4 messages -- [s3.md](s3.md)
+- **#25_1-navy-sbir-magnetometer** -- 2 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#25_1-navy-sttr-boundary-layer** -- 1 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
+- **#emass** -- 4 messages -- [emass.md](emass.md)
+- **#emass-bst** -- 4 messages -- [emass-bst.md](emass-bst.md)
+- **#flight-testing** -- 11 messages -- [flight-testing.md](flight-testing.md)
+- **#general** -- 5 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 11 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#s3** -- 19 messages -- [s3.md](s3.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Slack Channel Strategic Overview
+# Black Swift Technologies - Strategic Channel Overview
 
-## Core Product Development Structure
+## Core Project Clusters
 
-BST operates three parallel aircraft development tracks:
-- **S3**: Long-endurance hybrid VTOL (2-3 hour target) with tilting rotors
-- **S0**: Transitional VTOL platform with established testing protocols
-- **Legacy platforms**: Fixed-wing S-series, multirotor (E2, Flamewheel)
+### Government-Funded R&D Projects
+- **Navy SBIR (Magnetometer)**: QuSpin magnetometer integration for magnetic anomaly detection (MAD) on aircraft platforms
+- **Navy STTR (Boundary Layer)**: Atmospheric sensing for hazardous weather on S0 UAS platform
+- **eMASS Integration**: Custom AI hardware and energy management system (ECSDoT) evaluation on E2 platform
 
-**Key technical leads span multiple channels**: Joshua Fromm (design/QA), Jack Elston (systems/firmware), Sam Hild (firmware), Maciej (testing/operations)
+### Internal Platform Development
+- **S3 VTOL**: Long-endurance hybrid fixed-wing/quadcopter with tilting rotors (2-3 hour target)
+- **Flight Testing**: Cross-platform testing hub covering S-series, E2, S0, S1-VTOL, and S3 aircraft
+
+### Business Development
+- **Grants & Funding**: Federal agency proposals (NASA, DOD, NOAA, USDA) and award management
+
+---
+
+## Key Personnel & Roles
+
+| Person | Primary Function |
+|--------|-----------------|
+| Jack Elston | Leadership, firmware/autopilot decisions, grant strategy |
+| Maciej | Project oversight, flight testing, technical proposals |
+| Joshua Fromm | S3 lead engineer, QA, component sourcing |
+| Dan Prendergast | Business development, EMASS lead, proposals |
+| Sam Hild | Firmware development |
+| Meredith Needham | Budget/admin, Navy liaison |
+
+---
 
 ## Cross-Channel Themes
 
-### 1. **Flight Testing as Central Coordination Hub**
-#flight-testing acts as the operational nerve center, pulling data and issues from #s0-vtol and #s3 development channels. Maciej drives testing across all platforms; issues discovered in testing flow back to engineering channels for resolution.
+**Active Parallel Development**: Multiple government contracts running simultaneously with internal VTOL program (S3)
 
-### 2. **Leadership & Decision-Making**
-Jack Elston appears as consistent decision-maker across technical (#s3, #s0-vtol, #flight-testing) and strategic (#general, #marketing) channels—indicating centralized technical leadership with strategic input.
+**Integration Focus**: eMASS and Navy projects both emphasize hardware integration and testing on existing platforms
 
-### 3. **Project Velocity Signals**
-- #s0-vtol shows 1412+ messages over 2+ years (mature, actively troubleshooting)
-- #s3 discussions suggest newer/active development phase
-- #flight-testing high activity indicates continuous iteration cycle
+**Flight Test Dependency**: Navy projects and eMASS rely heavily on #flight-testing coordination for validation
 
-### 4. **Business-to-Product Pipeline**
-#general serves operational/announcement function; #marketing handles external narrative. Dan Prendergast's business development activity in #general connects to customer delivery preparation discussions in #s0-vtol.
+**Leadership Centralization**: Jack Elston appears as decision-maker across grants, firmware, and strategic initiatives
 
-### 5. **Recurring Technical Patterns**
-Hardware debugging, firmware development, and payload integration appear consistently across flight-testing, s0-vtol, and s3—indicating these are persistent engineering challenges across platforms.
-
-## Strategic Observations
-
-- **Concentration of expertise**: Small core team (Elston, Fromm, Hild, Maciej, Sam Hild) spans product and testing
-- **Execution focus**: Heavy emphasis on flight-testing validation vs. strategic planning channels
-- **Multi-platform maintenance**: Team manages legacy and new platforms simultaneously, likely resource constraint
+**Government Relations**: Navy projects and grants channel show structured coordination with federal agencies and program administrators

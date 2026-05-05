@@ -16,7 +16,7 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 - Meredith Needham (finance/invoicing)
 - U0151201DMY (appears to be infrastructure/web portal team member)
 
-**Activity Level:** Ongoing active project spanning November 2025 - April 2026+, with critical intensity. Real flight testing commenced April 23-24, 2026. EMASS media release planned for first week of May creating hard deadline.
+**Activity Level:** Ongoing active project spanning November 2025 - May 2026+. Real flight testing commenced April 23-24, 2026. EMASS media release planned for first week of May creating hard deadline. Project entering critical phase with emerging concerns about EMASS controller performance specifications.
 
 ## Key Decisions
 
@@ -51,17 +51,20 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 - **April 27:** Dan Prendergast decided not to proceed with afternoon data collection flight due to continued ECSDOT connectivity issues and control violations (VRATE and ROLL_ANGLE limit violations persisting). Decision made with assumption that Moe indicated data collection flights are for fine-tuning EMASS control model only. EMASS received 2nd invoice and are processing it. EMASS inquired about extending number of flights if necessary — decision pending on whether to establish cost per additional flight set.
 - **April 28:** Dan Prendergast confirmed willingness to fly EMASS controller in "degraded" operational mode: reliable straight-line performance with controller restart required at each waypoint/corner transition. Intent is to collect actual flight data for efficiency performance on straight legs and model tuning. Jack Elston approved with caution: monitor limit violations closely, immediate landing if violations approach severity of 2nd flight test attempt, and immediate data sharing with EMASS team for review.
 
+**May 4, 2026:**
+- Moe (EMASS) indicated controller update/specification change under discussion: update rate potentially reduced from 75Hz to 14Hz during recent meeting with Dan Prendergast. Jack Elston flagged critical concern: 14Hz update rate is insufficient for disturbance rejection in real flight operations and unlikely to work despite potentially functioning in simulation. Maciej expressed skepticism about repeated specification reductions from EMASS team.
+
 ## Projects & Initiatives
 
 ### EMASS Integration (Primary)
-**Status:** Real flight testing actively underway; initial test set completed with mixed results. Pragmatic reduced-scope testing plan emerging to collect efficiency data despite controller limit violations. Additional test sets pending. EMASS media release planned for first week of May creating hard deadline.
+**Status:** Real flight testing completed initial test set with mixed results. Follow-up test flights executed in degraded controller mode to collect efficiency data. Significant concern emerging regarding EMASS controller specifications—potential reduction from 75Hz to 14Hz update rate flagged as inadequate for flight control. Invoice processing ongoing with EMASS team.
 
 **Scope:**
 - Integrate EMASS's ECS-DoT evaluation board (AI chip with ML controller) onto E2 platform
 - Develop interface between EMASS hardware and E2 autopilot
 - Create simulation environment (Gazebo-based SWIL) for validation
 - Conduct flight testing with comparative analysis (controller on/off)
-- Timeline: Originally January-March 2026, pushed to March 11, 2026; further delays occurred due to EMASS team responsiveness and BST resource conflicts; HWIL testing active as of mid-April; bench testing on E2 platform started April 21-22; real flights commenced April 23-24, 2026; three total flight test sets planned (two remaining as of April 27)
+- Timeline: Originally January-March 2026, pushed to March 11, 2026; further delays occurred due to EMASS team responsiveness and BST resource conflicts; HWIL testing active as of mid-April; bench testing on E2 platform started April 21-22; real flights commenced April 23-24, 2026; three total flight test sets planned (one completed, two in progress as of May 4)
 
 **Technical Components:**
 
@@ -75,8 +78,8 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
    - Baud rate: 460800 bps (verified working April 22)
    - **Issue (April 27-28):** DB9 payload connector connectivity problems persist; USB microUSB alternative appears more reliable
 
-2. **Firmware/Software (As of April 28):**
-   - Autopilot modifications to accept EMASS actuator commands at 75Hz via UART
+2. **Firmware/Software (As of May 4):**
+   - Autopilot modifications to accept EMASS actuator commands at 75Hz via UART (subject to change pending controller specification revision)
    - Two-mode operation: EMASS control or BST autopilot control (no blending)
    - EXTERNAL mode in autopilot for payload authority handoff
    - Protections to automatically revert to BST control on failure/timeout
@@ -88,13 +91,4 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
      - Telemetry adjustments to ensure timing requirements met
      - New autopilot binary pushed April 22 with improved connection debugging
      - Binary version: 0x358094b (per Maciej April 21)
-     - Fixes to bench-test and full-flight app connection issues
-   - **Known Issues (April 27-28):** VRATE (vertical rate) and ROLL_ANGLE limit violations occurring in EMASS controller; persisting despite recent updates; controller performs reliably on straight legs but violates limits during waypoint transitions
-
-3. **Simulation:**
-   - Gazebo SWIL with realistic E2 dynamics
-   - Current model implementation (with power consumption calculations)
-   - Support for headless automated testing
-   - Trajectory replay capability
-   - Socket-based test framework (preferred over test app for HWIL)
-   - Gazebo HWIL flight app confirmed working
+     - Fixes to bench-test and full

@@ -1,7 +1,7 @@
 # #25_1-navy-sbir-magnetometer
 
 ## Overview
-This channel is focused on Black Swift Technologies' Navy Small Business Innovation Research (SBIR) project for developing magnetometer-equipped aircraft systems. The project involves integrating QuSpin magnetometers with BST's aircraft platforms for magnetic signature detection applications (MAD - Magnetic Anomaly Detection). Key participants include Beck, Maciej, Tyler, Sam, Alex Lomis, Joshua Fromm, and Jack Elston from BST, with external collaboration from QuSpin (Jeff), Ultra Maritime (Paul), and Navy contacts. Activity spans from October 2025 through April 2026, covering Phase I completion and Phase II proposal submission and kickoff preparation.
+This channel is focused on Black Swift Technologies' Navy Small Business Innovation Research (SBIR) project for developing magnetometer-equipped aircraft systems. The project involves integrating QuSpin magnetometers with BST's aircraft platforms for magnetic signature detection applications (MAD - Magnetic Anomaly Detection). Key participants include Beck, Maciej, Tyler, Sam, Alex Lomis, Joshua Fromm, and Jack Elston from BST, with external collaboration from QuSpin (Jeff), Ultra Maritime (Paul), and Navy contacts. Activity spans from October 2025 through May 2026, covering Phase I completion and Phase II proposal submission, kickoff, and ongoing Option period development.
 
 ## Key Decisions
 
@@ -54,7 +54,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Deliverable: Reusable hand-launched S0 analog for local testing and Marine use case
 - Navy will primarily launch from UH-60 helicopters
 
-**Technical Development (April 2026):**
+**Technical Development (April 2026 - May 2026):**
 - Reusable MAD S0 configuration:
   - Smaller commercial LiPo battery (30-45 minutes TOF target)
   - New antenna to reduce landing damage
@@ -63,6 +63,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
   - Small skids on wing tips for level landing and anti-grab
   - SF20/C half-size laser rangefinder for landing (proven reliable from prior use)
 - Ground testing: Bartington sensor to be shipped by Angel for comparison testing against QuSpin
+- Status as of May 4, 2026: Prioritizing SBIR tasks with some team members focused on other projects (S0-VTOL bug)
 
 ## Action Items & Commitments
 
@@ -79,11 +80,11 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 **Ongoing:**
 - Beck: Finalizing CRT subcontract closure modification this week (April 20, 2026)
 - Maciej: Leading development planning for August Camp Pendleton demo
-- Alex Lomis & Joshua Fromm: Design and build reusable MAD S0 with new configuration
+- **Alex Lomis: Prioritizing SBIR tasks this week before leaving (May 4, 2026)** - working on reusable MAD S0 design and build
+- Joshua Fromm: Design and build reusable MAD S0 with new configuration
 - Team: Prepare for ground testing with Bartington sensor (pending shipment from Navy TPOC)
-- Angel Ruiz-Reyes (Navy): Ship Bartington sensor to BST for ground testing
 - Maciej: Continue coordinating with Angel and Tony on progress updates, including non-working ground tests
-- Sam: Continue dronecan logging program with magnetometer support
+- Sam: Continue dronecan logging program with magnetometer support (currently focused on S0-VTOL bug)
 - Technical team: Validate reusable S0 magnetic signature vs final air-deployed version
 
 **Launcher Development (Future/Phase II):**
@@ -104,7 +105,4 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Navy STP office (navystp.com)
 
 **External Partners:**
-- **QuSpin:** Jeff providing magnetometer expertise, loaning equipment, sharing Python calibration code
-- **Ultra Maritime:** Paul - Phase 2 subcontractor ($300K base, $120K option); involved in launcher discussions
-- **University of Michigan:** Paul - subcontractor with budget negotiations
-- **Bartington:** Sensor supplier; Navy will provide sensor for ground testing comparison
+- **QuSpin:** Jeff providing magnetometer expertise

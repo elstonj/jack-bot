@@ -4,11 +4,11 @@
 - **Client:** ByLight
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 109.1 hours (101.6h previous + 7.5h new batch)
+- **Total hours tracked:** 117.1 hours (109.1h previous + 8.0h new batch)
 
 ## Team Allocation
-- **Ethan Domagala:** 76.3 hours (70%)
-- **Alex:** 30.8 hours (28%)
+- **Ethan Domagala:** 84.3 hours (72%)
+- **Alex:** 30.8 hours (26%)
 - **Nate:** 2.0 hours (2%)
 
 **Primary contributor:** Ethan Domagala
@@ -16,16 +16,16 @@
 ## Activity Timeline
 
 **Ethan Domagala** — ByLight M2 Design work
-- Latest session: 7.5h — "ByLight M2 Design"
-- Cumulative: 76.3 hours across all tracked time
+- Latest session: 8.0h — "ByLight M2 Design"
+- Cumulative: 84.3 hours across all tracked time
 - Consistent focus on design iterations with uninterrupted momentum
 - All tracked entries consistently labeled "ByLight M2 Design"
-- Proportion of project total increasing (now 70%)
+- Proportion of project total increasing (now 72%)
 
 **Alex** — Undescribed work
-- Sessions: 8.2h, 8.2h, 8.7h (no activity in latest batch)
+- Sessions: 8.2h, 8.2h, 8.7h (no recent activity)
 - Three large blocks with no descriptions provided
-- Accounts for 28% of project hours
+- Accounts for 26% of project hours
 
 **Nate** — Kit preparation
 - Single session: 2.0h
@@ -33,9 +33,9 @@
 
 ## Insights
 - **Primary work type:** Design activities for ByLight M2 product (Ethan's exclusive and sustained focus)
-- **Ethan's dominance solidifying:** Added 7.5 hours in latest batch; now represents 70% of all project time with clear upward trajectory
-- **Documentation gap persists:** Alex remains the critical visibility issue—30.8 hours (28% of project) with zero descriptions across all entries
+- **Ethan's dominance solidifying:** Added 8.0 hours in latest batch; now represents 72% of all project time with clear upward trajectory
+- **Documentation gap persists:** Alex remains the critical visibility issue—30.8 hours (26% of project) with zero descriptions across all entries
 - **Work pattern consistency:** Ethan maintains granular tracking with clear descriptions; Alex continues larger time blocks without detail
 - **Non-billable status:** Project remains internal/non-billable despite sustained multi-person development effort
 
-**Recommendation:** Urgent—Request Alex provide retrospective descriptions for all 30.8 hours of tracked work to restore project visibility and knowledge documentation. This represents a significant information gap at 28% of total project time.
+**Recommendation:** Urgent—Request Alex provide retrospective descriptions for all 30.8 hours of tracked work to restore project visibility and knowledge documentation. This represents a significant information gap at 26% of total project time.
