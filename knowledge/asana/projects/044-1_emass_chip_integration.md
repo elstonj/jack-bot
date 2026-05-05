@@ -3,33 +3,32 @@
 ## Overview
 - **Client/Customer**: EMASS (Commercial customer)
 - **Dollar Value**: $90,000 total funding to Black Swift Technologies
-- **Timeline**: Original November 10, 2025 to January 31, 2026; **extended through May 4, 2026** for final validation and reporting
-- **Status**: **ACTIVE — Final validation phase in critical execution**. Validation Flight #1 completed April 25 (2 days early). Per Maciej (April 24, 2026), project is in "Closing out EMASS" phase (#3 priority). **Remaining work blocked on controller delivery from EMASS**: Per Daniel Prendergast (April 29, 2026), "We cannot perform those flights until they send us a new controller binary in the emass-bst slack channel. EMASS validation flight #3 will most likely be Monday at the earliest. EMASS validation flight #2 possibly tomorrow." Controller binary is **external dependency blocking Flights #2–#3**. Final Report due May 4, 2026.
+- **Timeline**: Original November 10, 2025 to January 31, 2026; **extended through May 2026** for final validation and reporting
+- **Status**: **ACTIVE — Final validation phase in critical execution**. Validation Flight #1 completed April 25 (2 days early). Per Maciej (April 24, 2026), project is in "Closing out EMASS" phase (#3 priority). **Remaining work blocked on controller delivery from EMASS**: Per Daniel Prendergast (April 29, 2026), "We cannot perform those flights until they send us a new controller binary in the emass-bst slack channel. EMASS validation flight #3 will most likely be Monday at the earliest. EMASS validation flight #2 possibly tomorrow." Controller binary is **external dependency blocking Flights #2–#3**. Final Report due (no formal due date in latest Asana snapshot).
 - **Team Members**: Dan Prendergast (Owner/Lead), Jack Elston, Maciej Stachura, Nate Straus, Ethan Domagala, Meredith O'hara Needham
 - **Risk Signals**: 
   - **External blocker on controller delivery**: EMASS must deliver new controller binary to proceed with Validation Flights #2–#3 (Daniel Prendergast, April 29, 2026). This is blocking progress as of April 29.
-  - **Schedule at risk**: Validation Flight #2 due April 30 (1 day away as of April 29, execution uncertain); Validation Flight #3 due May 4 (extended 5 days from original Apr 29 target); Final Report due May 4. Daniel Prendergast indicated Flight #3 "most likely Monday at the earliest" (May 3–4).
-  - **Single point of failure on execution**: Dan Prendergast assigned to Flights #2–#3 and Final Report in Asana; Jack Elston and Nate Straus active in field coordination but not formally assigned in Asana.
+  - **No formal due dates on remaining tasks**: Latest Asana data shows Validation Flight #3 and Final Report with no due date assigned, creating visibility gap. Validation Flight #2 due May 6, 2026 (6 days beyond original May 4 extended target).
+  - **Single point of failure on execution**: Dan Prendergast assigned to all 3 open tasks (Flights #2–#3 and Final Report); Jack Elston and Nate Straus active in field coordination but not formally assigned in Asana.
 
 ## Key Deliverables & Milestones
 - **Phase 1: Design & Alignment** (Due: Jan 28, 2026) - ✅ Completed
 - **Phase 1b: Interface Design Freeze** (Due: Feb 6, 2026) - ✅ Completed
 - **Phase 2: Integration & Firmware** (Due: Feb 13, 2026) - ✅ Completed
 - **Phase 4: Validation & Reporting** (Due: Mar 11, 2026) - ✅ Completed
-- **Final Validation Phase** (Due: Apr 27–May 4, 2026):
+- **Final Validation Phase** (Due: May 2026):
   - Validation Flight #1 (April 27, 2026) — ✅ **Completed April 25, 2026** (2 days early)
-  - Validation Flight #2 (April 30, 2026) — **OPEN — BLOCKED** *(awaiting EMASS controller binary)*
-  - Validation Flight #3 (May 4, 2026) — **OPEN — BLOCKED** *(awaiting EMASS controller binary)*
-  - Final Report (May 4, 2026) — **OPEN**
+  - Validation Flight #2 (May 6, 2026) — **OPEN — BLOCKED** *(awaiting EMASS controller binary)*
+  - Validation Flight #3 (No formal due date) — **OPEN — BLOCKED** *(awaiting EMASS controller binary)*
+  - Final Report (No formal due date) — **OPEN**
 
 ## Task Summary
-- **Total Tasks**: 5 open (as of April 30, 2026 raw data); 42+ completed across project lifecycle
+- **Total Tasks**: 3 open (as of latest Asana snapshot); 42+ completed across project lifecycle
 - **Tasks by Assignee** (Current Open):
-  - **Dan Prendergast**: 3 open tasks
-    - Validation Flight #2 (Due April 30) — **BLOCKED, external dependency**
-    - Validation Flight #3 (Due May 4) — **BLOCKED, external dependency**
-    - Final Report (Due May 4)
-  - **Maciej Stachura**: 2 open tasks (data analysis, no due date assigned)
+  - **Dan Prendergast**: 3 open tasks (100% of remaining work)
+    - Validation Flight #2 (Due May 6, 2026) — **BLOCKED, external dependency**
+    - Validation Flight #3 (No due date) — **BLOCKED, external dependency**
+    - Final Report (No due date)
   - **Note**: Jack Elston and Nate Straus actively executing flight coordination per Maciej (April 19–20, 2026) but not formally assigned in Asana
 - **Recent Completions** (April 25, 2026):
   - ✅ Validation Flight #1 (Dan Prendergast) — 2 days early
@@ -73,9 +72,11 @@
 
 **Timeline Evolution**: 
 - Original scope: Nov 10, 2025 – Jan 31, 2026 (12 weeks)
-- Latest due dates: May 4, 2026 (~5 months beyond original end date)
+- Extended: May 2026 (~5 months beyond original end date)
 - Project notes indicate "No set end date" initially — likely reflects scope uncertainty during early phases
+- **Latest Asana data shows misalignment**: Validation Flight #3 and Final Report lack due dates despite project needing closure
 
 **⚠️ CRITICAL EXECUTION STATUS** (April 29–30, 2026 — Authoritative Team Feedback):
 
 1. **External Dependency Blocking Final Flights**: As of April 29, Daniel Prendergast (Owner) states Validation Flights #2–#3 cannot proceed until EMASS delivers new controller binary. This is **external risk outside BST control**
+2. **Due Date Drift in Asana**: Latest snapshot shows Validation Flight #2 due May 6 (6 days past

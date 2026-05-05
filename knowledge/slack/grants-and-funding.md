@@ -6,9 +6,9 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 **Key Participants:** Jack Elston (primary decision-maker), Maciej (technical/proposal support), Meredith Needham (budget/administrative), Dan Prendergast (proposal coordination), Beck Cotter (program management), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm, Paige Smith (presentation/logistics support), Arthur (technical partner for payload work), and others contributing to specific proposals.
 
-**Activity Level:** High throughout the period (March 2024 - April 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Most recent activity (April 28-30, 2026) demonstrates peak intensity with multiple concurrent NASA, DOD, and DOE submissions in final coordination and submission phases. Significant external partnerships and customer engagement alongside proposal work.
+**Activity Level:** High throughout the period (March 2024 - May 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Most recent activity (April 28 - May 4, 2026) demonstrates peak intensity with multiple concurrent NASA, DOD, and DOE submissions in final coordination and submission phases. Significant external partnerships and customer engagement alongside proposal work.
 
-**Time Range:** March 3, 2024 - April 30, 2026
+**Time Range:** March 3, 2024 - May 4, 2026
 
 ---
 
@@ -72,7 +72,7 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 - **NASA 2026B SBIR focus** (April 21, 2026): Maciej confirmed only 2026B SBIR release contains non-space topics with BST fit (other releases space-focused)
 
-- **DOE Genesis Proposal finalization** (April 22-30, 2026): 
+- **DOE Genesis Proposal finalized** (April 22-30, 2026): 
   - **April 22:** Beck Cotter raised concern about lead/subcontractor arrangement change requiring renegotiation in short timeframe; due date April 28, 2026 (potentially May 1)
   - **April 23:** Beck Cotter confirmed receipt of all required documents from Gijs (BNL partner); proposal package complete
   - **April 27:** Genesis proposal nearly complete and ready for submission
@@ -84,4 +84,5 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
   - NASA Phase I: **Due May 21**
   - DoD submissions (2025.4 cycle): **Due May 13**
   - DoD submissions (2026 cycle): **Due June 3**
-  - Maciej suggested staggered deadlines for 
+
+- **EXTIC opportunity evaluation** (May

@@ -4,29 +4,31 @@
 - Client: Overhead
 - Active/inactive status: Active
 - Billable status: No (overhead/internal operations)
-- Total hours tracked: 819.6 hours (812.2 + 7.4)
+- Total hours tracked: 834.4 hours (819.6 + 14.8)
 
 ## Team Allocation
-- Meredith Needham: 668.8 hours (81.6% of tracked time)
-- Beck Cotter: 74.3 hours (9.1% of tracked time)
-- Jack Elston: 60.3 hours (7.4% of tracked time)
-- Stachura: 10.4 hours (1.3% of tracked time)
+- Meredith Needham: 675.0 hours (80.9% of tracked time)
+- Beck Cotter: 74.3 hours (8.9% of tracked time)
+- Jack Elston: 67.8 hours (8.1% of tracked time)
+- Stachura: 11.6 hours (1.4% of tracked time)
 - Dan: 5.5 hours (0.7% of tracked time)
 - Ethan Domagala: 3.8 hours (0.5% of tracked time)
 - Primary contributor: Meredith Needham
 
 ## Activity Timeline
-Consistent operations work with steady administrative engagement:
-- **Meredith Needham**: 6.9 hours "Operations/Admin" (latest batch); maintaining dominant operational management role with steady, documented contributions
-- **Dan**: 0.5 hours (no description); continues pattern of minimal, undocumented entries
+Consistent operations and communications work with notable shift in Jack Elston activity:
+- **Meredith Needham**: 6.2 hours "Operations/Admin" (latest batch); sustained operational management leadership
+- **Jack Elston**: 7.5 hours total—2.0 hours "Answering Emails" + 5.5 hours "Krateo Sky Response" (increased engagement, shift toward client-facing/project work)
+- **Stachura**: 1.2 hours (0.6h + 0.6h, both undescribed); continues pattern of minimal documented entries
 - **Beck Cotter**: No new entries (4.0h undescribed entry from prior batch remains outstanding)
-- **Jack Elston, Stachura, Ethan Domagala**: No new entries
+- **Dan, Ethan Domagala**: No new entries
 
 ## Insights
-- **Primary work type**: General operations and administrative management (Meredith); email/communications and legal documentation (Jack Elston from prior batch)
+- **Primary work type**: General operations/admin (Meredith); email communications and Krateo Sky Response work (Jack Elston—emerging secondary focus); undocumented contributions (Stachura)
 - **Documentation concern (escalated)**:
-  - Beck Cotter: 4.0h undescribed (recurring issue across multiple batches; ~5.4% of Beck's total time without context)
-  - Dan: 0.5h undescribed (latest entry); now has 1.0h total without task descriptions (~18% of Dan's tracked time)
-  - **Urgent recommendation: enforce task description policy for Beck Cotter and Dan entries—establish baseline requirement for all time entries**
-- **Work pattern**: Stable operational baseline; Meredith sustains 81%+ allocation; secondary contributors (Beck, Jack) and minimal contributors (Dan, Stachura, Ethan) maintain consistent roles
-- **Team stability**: No personnel changes; continued consistent team allocation with Meredith's dominance
+  - Stachura: 1.2h undescribed (recurring across batches; ~10.3% of Stachura's total time without context)
+  - Beck Cotter: 4.0h undescribed (persistent outstanding issue; ~5.4% of Beck's total time)
+  - Dan: 0.5h undescribed; now has 1.0h total without task descriptions (~18% of Dan's tracked time)
+  - **Urgent: enforce task description policy across Beck Cotter, Stachura, and Dan—establish mandatory baseline for all entries**
+- **Work pattern**: Stable operational baseline maintained by Meredith (81%); Jack Elston showing increased activity with identifiable project work (Krateo Sky Response); secondary contributors maintaining minimal roles
+- **Team composition**: Stable; no personnel changes

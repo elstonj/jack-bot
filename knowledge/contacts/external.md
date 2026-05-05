@@ -4,7 +4,7 @@
 
 ### NASA (Multiple Centers)
 - **Relationship context**: Primary government client/sponsor for aerospace and atmospheric research contracts
-- **Key contacts**: 100+ contacts across JPL, ARC, GSFC, LARC, JSC, and other centers
+- **Key contacts**: 50+ contacts across JPL, ARC, GSFC, LARC, JSC, and other centers
   - **John Glass** — NASA Contact
     - Email: John.Glass-1@nasa.gov, John.Glass@nasa.gov
   - **Thomas A. Weisz** — NASA Contact
@@ -102,7 +102,7 @@
 
 ### NOAA (National Oceanic and Atmospheric Administration)
 - **Relationship context**: Government client/partner for atmospheric and weather research
-- **Key contacts**: 200+ contacts across multiple NOAA divisions
+- **Key contacts**: 100+ contacts across multiple NOAA divisions
   - **Wayne M. Angevine** — NOAA Contact
     - Email: wayne.m.angevine@noaa.gov
   - **Peter Wolf** — NOAA Contact

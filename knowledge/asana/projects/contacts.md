@@ -23,7 +23,7 @@ This is a contact database, not a project with deliverables. Contains 103+ conta
   - Real estate
 
 ## Task Summary
-- **Total tasks**: 1 open, 0 completed
+- **Total tasks**: 2 open, 0 completed
 - **Tasks by assignee**: All unassigned (contact records only)
 - **Data structure**: Each "task" represents a contact with structured custom fields:
   - Company/Agency/Name
@@ -47,6 +47,7 @@ This is a contact database, not a project with deliverables. Contains 103+ conta
 - **Jones & Associates CPAs PC (CLOSED)** — Tax consultant; Bill Jones (retired January 2026), info@jonescpapc.com, 947 Pope Dr Erie CO 80516, (303) 254-6613
 - **Koenig, Oelsner, Taylor, Schoenfeld & Gaddis PC** — Law firm (transactional law); Dan Fredrickson, dfredrickson@kofirm.com, 2475 Broadway Boulder CO 80304; https://kofirm.com/
 - **W. W. Reynolds Companies** — Landlord (Wilderness Pl); Amy Smith, ar@wwreynolds.com, 1320 Pearl Street #300 Boulder CO 80302, (303) 442-8687 mobile (303) 941-8243; https://wwreynolds.com/
+- **Atwood Insurance Group** — Health insurance broker; Chad Atwood, chad@theaiginc.com, (970) 481-1492; P.O. Box 38, Severance CO 80546; https://theaiginc.com/; contact annually in April for health plan renewal
 
 ## Recent Activity
 - Status update from April 21 shows project is active
@@ -91,6 +92,4 @@ This is a contact database, not a project with deliverables. Contains 103+ conta
 - Comcast (Cobb Vaughan, Account Manager) — 720-924-3070
 
 **Freight/Shipping**: 
-- Aeronet Worldwide (new primary shipper as of 2025, replacing FreightPros) — Patrick Mulstay contact
-- WorldWide Express/WWEX (UPS authorized reseller as of 2025) — Kelsie Pierson account manager
-- FreightPros (legacy, being phased out Sept 2025)
+- Aeronet Worldwide (new primary shi

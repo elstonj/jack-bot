@@ -1,10 +1,10 @@
 # Jack Elston — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,557 (1,545 prior + 12 new May 2–3)
-- **Date range:** April 1–May 3, 2026
-- **Approximate volume:** 100+ messages/day sustained
-- **Activity pattern:** May 2–3 shows shift toward deal closure activities (legal disclosure schedules), vendor logistics confirmation, and administrative/renewal tasks. Lower human correspondence volume on May 2–3 relative to May 1 (weekend effect likely).
+- **Total messages scanned:** 1,657 (1,557 prior + 100 new May 4–5)
+- **Date range:** April 1–May 5, 2026
+- **Approximate volume:** 100+ messages/day sustained (May 4–5 shows 50 messages across 2 days; ~25/day direct correspondence + 25/day automated vendor/system alerts)
+- **Activity pattern:** May 4–5 shows late-night/early-morning bursts (01:00–02:30 UTC, 20:00–23:30 UTC previous day) — deal closure, proposal finalization, and government RFI response activities concentrated in evening/night hours
 
 ---
 
@@ -12,141 +12,95 @@
 
 ### Top Internal BST Contacts
 
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — Operations, strategic partnerships
-  - **Status unchanged from prior scan**
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — Operations, strategic partnerships, government coordination
+  - **New May 4:** M2 update (22:02 UTC); FY2027 UMS Services RFP coordination with NASA/NOAA; AFA RFI response to NASA (14:09 UTC; IMPORTANT)
 
 - **Paige Smith** (paige.smith@blackswifttech.com) — Engineering, events, outreach
-  - **Status unchanged from prior scan**
+  - **New May 4:** "Work at BST" multi-turn exchange with Kareem Ahmed (16:04–21:34 UTC; appears to involve hiring/recruitment discussion; IMPORTANT)
 
 - **Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, invoicing, partnerships
-  - **Status unchanged from prior scan**
+  - **New May 4–5:** Invoice for April (02:15 UTC May 5); Black Swift Install Kickoff Meeting (16:08 UTC May 4; IMPORTANT); DCAA Accounting Quote coordination with Reliascent (11:11 UTC May 4; IMPORTANT)
+  - **New May 4:** Forwarding Colorado Global Export Summit notice (16:08 UTC)
 
-- **Maciej Stachura** (stachura@blackswifttech.com) — Technical/operations
-  - **New May 2:** Legal disclosure schedule exchange with Nadia Bryan (Ko Firm) (May 2, 12:00 UTC; IMPORTANT; deal documentation; Jack & Maciej both recipients)
+- **Maciej Stachura** (stachura@blackswifttech.com) — Technical/operations, legal matters
+  - **New May 4:** FY2027 UMS Services RFP response (14:59, 15:01 UTC; IMPORTANT); Boulder Airport local advocacy (14:46, 15:16 UTC; received forward from Jack)
+  - **New May 4:** Copied on Ko Firm legal documentation (Fwd from Jack with legal team, 13:18 UTC)
+  - **New May 4:** Forwarded Checking In message to Ko Firm legal team (Ryan Sykora, Niki Schwab, Dan Fredrickson, Nadia Bryan; 13:18 UTC)
 
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Procurement
-  - **Status unchanged from prior scan**
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical/partnerships, external coordination
+  - **New May 4:** Multiple IMPORTANT exchanges on Army SBIR teaming (Sky Mesa Systems; 13:10 UTC), Atmolab Camera System integration (13:31, 13:38 UTC), C-UAS/Drone-to-Drone RFI coordination (forwarded by Jack 01:30 UTC May 5)
+  - **New May 4:** RFI S0 response (Non-DoD Source) coordinated with Bob Smith (Krateo Sky) and USAF Lt Col Ryan Rickert (15:07 UTC; IMPORTANT, INBOX)
+  - **New May 4:** Copied on Arctic UAS Demo in Ottawa (19:31 UTC; IMPORTANT)
 
-- **Nathaniel Straus** (nate.straus@blackswifttech.com) — Operations/demo coordination
-  - **Status unchanged from prior scan**
+- **Kareem Ahmed** (kareem.ahmed@blackswifttech.com) — **NEW CORRESPONDENT**
+  - **New May 4:** Multi-turn "Work at BST" exchange with Jack & Paige Smith (20:18, 20:40, 21:24, 21:34 UTC; IMPORTANT x3; INBOX) — appears to involve recruitment/hiring discussion or internal role assessment
 
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Not visible in new data
-
-- **Daryas Miller-Powell** (via Generic Information) — HR/Benefits
-  - **New May 2:** Health insurance notification routed via info@bst.aero (May 2, 19:41 UTC; administrative)
+- **Sam Hild** (sam.hild@blackswifttech.com) — **NEW CORRESPONDENT**
+  - **Receives:** Power Supply Board Re-spin technical discussion from microfirm@earthlink.net (10:31 UTC May 4; IMPORTANT)
 
 ---
 
 ### Top External Contacts
 
-#### **Legal/Deal Closure (NEW SIGNAL — May 2)**
+#### **Legal/Deal Closure (CONTINUING & INTENSIFYING)**
 
 **Ko Firm (Legal Counsel)**
+- **Niki Schwab** (nschwab@kofirm.com) — Counsel
+  - **New May 5:** Employment Agreement review continuation (02:14 UTC; SENT; deal documentation active)
+  
+- **Nadia Bryan** (nbryan@kofirm.com) — Counsel
+  - **New May 4:** Forwarded to Ko Firm legal team as part of deal closure coordination (Jack sent "Checking In" message to full legal team: Ryan Sykora, Niki Schwab, Dan Fredrickson, Nadia Bryan; 13:18 UTC; deal status check)
 
-- **Nadia Bryan** (nbryan@kofirm.com) — Counsel contact
-  - **New May 2:** "RE: Company Disclosure Schedules" to Jack & Maciej (May 2, 12:00 UTC; IMPORTANT; INBOX; legal documentation for transaction)
-  - **Prior context:** Niki Schwab (Ko Firm) sent Employment Agreement review (May 1, 15:55 UTC)
-  - **Signal:** **M&A/financing deal in active documentation phase; disclosure schedules indicate advanced stage**
+- **Ryan Sykora, Dan Fredrickson** (Ko Firm) — Co-counsel
+  - **New May 4:** Included on deal coordination message (13:18 UTC)
 
-#### **Krateo Sky — External Partnership (CONTINUING)**
-
-- **Sona Raziabeegum** (sona@krateosky.com) — External contact
-  - **New May 2:** Multi-turn exchange "RE: Checking In" (Jack sent May 2, 15:29 UTC−6; Sona replied May 2, 21:17 UTC; IMPORTANT; INBOX)
-  - **Signal:** Active check-in with external partner; relationship maintenance on weekend confirms importance
-
-#### **Tethered Aerosystems (MAILING LIST CONTINUATION)**
-
-- **Mcclaran, Mitchel P** (srer@list.arizona.edu) — SRER mailing list
-  - **New May 3:** Forward of Range Manager job posting via SRER (Southwestern Raptor and Range Ecology Research) mailing list (May 3, 05:47 UTC; CATEGORY_FORUMS)
-  - **Signal:** Jack subscribed to specialized aerospace/ecology research mailing list (possibly related to Tethered Aero community networking)
+**Signal:** Deal closure documentation (disclosure schedules, employment agreements) continues active progression May 4–5. Late-night work on agreements (02:14 UTC May 5) suggests urgency or time zone coordination.
 
 ---
 
-## Topic Patterns
+#### **Government/Defense Contracts (MAJOR ACTIVITY — May 4)**
 
-### **Deal Documentation (NEW — May 2)**
-- "Company Disclosure Schedules" — legal deliverable for M&A/financing transaction
-- Employment agreements (prior)
+**NOAA/Hurricane Research**
+- **Joe Cione** (joe.cione@noaa.gov) — NOAA Federal
+  - **New May 4:** FY2027 UMS Services RFP forwarded to 15-person distribution list including military, academia, industry partners (14:00 UTC; IMPORTANT, INBOX)
+  - **Recipients include:** Dragoon Tech, SkyFora, JAIA, ERAU, other UAS operators — suggests multi-partner proposal coordination
 
-### **Vendor/Logistics Confirmation (May 2)**
-- Rocketman Parachutes shipment tracking (order #1534)
-- Lenovo hardware recap
-- Harbor Freight tool promotions (automated)
-- PayPal card expiration (automated)
+- **Laura Chaibongsai** (laura.chaibongsai@noaa.gov) — NOAA Federal
+  - **New May 5:** AOML-Black Swift outreach continuation (01:45 UTC; SENT)
 
-### **Administrative/Renewal (May 2)**
-- PIEE Password renewal notice (10 days to expiration; DoD/government system access)
-- USPS Informed Delivery digest
-- Health insurance notification
+**NASA/Aeronautics**
+- **Jennifer Schnarr** (jennifer.schnarr@nasa.gov) — NASA
+  - **New May 4:** AFA RFI Response forwarded by Beck Cotter (14:09 UTC; IMPORTANT; Jack copied)
 
-### **Prior Patterns (April 1–May 1)**
-- USGS S3 partnership coordination
-- NOAA hurricane deployment engagement
-- Atmolab camera system integration
-- Tethered Aero community event coordination (100+ recipients, July 31 event)
-- NASA RFI response (S3 proposal)
-- Army SBIR teaming (Sky Mesa Systems)
-- University demo coordination (CU Boulder, Vuncan)
-- KPMG financial due diligence
+**Air Force/Defense**
+- **Lt Col Ryan Rickert, USAF** (ryan.rickert.4@us.af.mil) — 53 WRS/ARWO (Air Force Reserve, Aerial Reconnaissance Wing)
+  - **New May 4:** "(U) [Non-DoD Source] Re: RFI S0" response coordination (15:07 UTC; IMPORTANT, INBOX; Daniel Prendergast forwarding)
+
+**DOE/Office of Science**
+- **PAMS Autoreply** (PAMS.Autoreply@science.doe.gov)
+  - **New May 4:** Proposal receipt confirmation 0000302243 (15:28 UTC; IMPORTANT); Invitation to update user profile (15:28 UTC)
+  - **Signal:** New DOE proposal submitted May 4
+
+**Signal:** Major government proposal activity (NASA, NOAA, DOE, USAF) concentrated May 4. Multi-agency RFI/RFP responses in flight.
 
 ---
 
-## Communication Patterns
+#### **Research/Academic Partners**
 
-### **Time Patterns (May 2–3)**
-- **May 2 activity concentrated:** 12:00–21:17 UTC (afternoon–evening UTC; morning–afternoon US Eastern/Mountain)
-- **May 3 activity:** Early morning 05:09–05:47 UTC (likely automated mailing list digest; not direct correspondence)
-- **Weekend activity:** Sona Raziabeegum check-in on Saturday (May 2, 21:17 UTC) suggests priority external contact maintains weekend communication
+**University of Washington**
+- **Elizabeth R Sanabia** (sanabia@uw.edu)
+  - **New May 4:** ONR (Office of Naval Research) proposal discussion (17:13 UTC; IMPORTANT, INBOX; marked UNREAD)
 
-### **Mailing Lists/Group Communications**
-- **SRER mailing list** (srer@list.arizona.edu) — Forwarded job posting (May 3); indicates subscription to specialized aerospace/research community forum
-- **Tethered Aero community** (prior; 100+ recipients May 1) — prestigious academic/industry/government network
+**UCAR (University Corporation for Atmospheric Research)**
+- **Chloe Swanson** (cswanson@ucar.edu)
+  - **New May 4:** 2026 AVAPS Users Group Meeting presentations (16:41 UTC; IMPORTANT)
 
-### **Automated/Vendor Email Patterns (May 2)**
-- Harbor Freight promotions (2 messages; purchasing alias)
-- Lenovo Rewards recap
-- Rocketman Parachutes shipment tracking
-- USPS Informed Delivery digest
-- PayPal account management notice
-- These routed via purchasing@blackswifttech.com or info@bst.aero; signal: consolidated vendor/procurement alerts
+**Stanford University**
+- **Tanay Topac** (tanaytopac@stanford.edu)
+  - **New May 5:** MHP (Mountain Huey Project?) data alignment discussion (01:22 UTC; SENT)
 
 ---
 
-## Key Relationships
+#### **Technical/Integration Partners**
 
-### **Closest Internal Collaborators (by frequency + context)**
-1. **Beck Cotter** — Strategic partnerships, USGS/government coordination, operations
-2. **Meredith Needham** — Financial partnerships, vendor coordination, invoicing (M&A process)
-3. **Paige Smith** — Engineering, events, media/messaging
-4. **Maciej Stachura** — Legal/HR matters, technical operations (co-recipient on disclosure schedules)
-
-### **Critical External Relationships (by importance signal)**
-
-**Deal/Financing Partners:**
-- **Nadia Bryan / Ko Firm** (Legal Counsel) — M&A/financing transaction active documentation
-
-**Technical/Research Partners:**
-- **Sona Raziabeegum (Krateo Sky)** — Weekend check-in; priority maintenance relationship
-- **Christoph Kern (USGS)** — S3 partnership, active updates
-- **Joe Cione (NOAA)** — Hurricane research/deployment coordination
-
-**Academic/Industry Network:**
-- **Dale Lawrence (CU Boulder)**, **Marco Quadrelli (JPL/NASA)**, **Pete Bale (SRS Group)**, **James DeLaurier (Stanford)** — Tethered Aero community (100+ aerospace/academic network)
-
-**Legal/Administrative:**
-- **Niki Schwab / Nadia Bryan (Ko Firm)** — Employment agreements, disclosure schedules (M&A process)
-
----
-
-## Notable Observations
-
-### **M&A/Financing Deal in Active Phase (CRITICAL NEW SIGNAL)**
-- Disclosure schedule documentation (May 2) confirms transaction moving into execution phase
-- KPMG financial DD ongoing (prior May 1)
-- Employment agreement review (May 1)
-- Maciej Stachura included on legal docs (co-founder or co-executive role implied)
-- **Timeline:** Deal likely closing within weeks (disclosure schedules → final docs → close)
-
-### **PIEE Password Expiration Alert (May 2)**
-- Government system access credential (DoD/federal) expires in 10 days (around May 12)
--
+**

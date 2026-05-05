@@ -4,22 +4,24 @@
 - **Client:** [001] IRAD
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked (cumulative):** 11.0 hours
+- **Total hours tracked (cumulative):** 18.2 hours
 
 ## Team Allocation
-- **Nate:** 9.0 hours (primary contributor)
-- **Jack Elston:** 2.0 hours
+- **Nate:** 16.2 hours (primary contributor, 89%)
+- **Jack Elston:** 2.0 hours (11%)
 
 ## Activity Timeline
 - **2.0 hours** - IRISS Support (Jack Elston)
 - **4.0 hours** - IRISS (Nate)
 - **1.0 hour** - S20004 wing repair (Nate)
 - **4.0 hours** - Undescribed work (Nate)
+- **7.2 hours** - S2 servos and calibration (Nate)
 
 ## Insights
-- Work spans IRISS support activities and hardware repair (S20004 wing repair)
-- Nate is the dominant contributor with 82% of tracked time (9.0 of 11.0 hours)
-- Non-billable internal support and repair work
-- Recent activity indicates shift toward hands-on repair work in addition to software support
-- Mix of support and field work suggests diverse customer support responsibilities
-- Latest batch includes 4.0 hours with no entry description; suggest clarifying context with Nate for project records
+- Work spans IRISS software support and hardware maintenance/calibration tasks
+- Nate dominates project activity with 89% of tracked time
+- Recent shift toward hands-on hardware work: S20004 wing repair and S2 servo calibration indicate field/bench maintenance responsibilities
+- Non-billable internal support and repair work for IRAD customer
+- Latest work focused on servo systems and calibration—suggests ongoing vehicle/equipment maintenance
+- Jack's involvement limited to early IRISS support phase; Nate has taken over most responsibilities
+- Pattern indicates mixed support duties: software support + field repair/maintenance work
