@@ -37,6 +37,7 @@ _MARKER = "_— marketing assist suggestion_"
 _LOOKBACK_HOURS = 30  # cover overnight + late posts from yesterday afternoon
 _MAX_SLACK_MESSAGES = 200
 _MAX_KNOWLEDGE_ENTRIES = 60
+_DEDUP_LOOKBACK_DAYS = 14  # don't re-suggest a topic we've already pitched recently
 
 # Knowledge entry types worth scanning. We exclude DEBUG / ERROR / SOURCE /
 # SNAPSHOT (pipeline-trace noise) and BUG / FEATURE (internal issue tracking).
@@ -53,41 +54,52 @@ moments worth posting about on the company's social channels. The post
 will be drafted for Paige Smith — BST's Communications & Digital Marketing
 Specialist — to edit and ship.
 
-You are given a JSON blob containing:
-- "slack_messages": recent posts across monitored Slack channels
-- "knowledge_entries": recent substantive entries from the bot's knowledge
-  channel (project updates, feedback, insights, deliverables, corrections)
+CADENCE CALIBRATION — read this carefully:
+BST has, on average, 1-2 marketing-worthy moments PER WEEK, not per day.
+Most weekdays you should return ZERO items. A normal week looks like:
+3-4 days with zero items, 1-2 days with one item, occasionally a day with
+two. If you find yourself returning items every day, your bar is too low.
+When in doubt, return zero. It is much better to miss a borderline event
+than to post about a non-event.
 
-Look for ANY of the following — across ALL data, regardless of who posted
-or who was tagged:
+You are given:
+- "slack_messages": recent posts across monitored Slack channels (~30h)
+- "knowledge_entries": recent substantive knowledge-channel entries (~3 days)
+- "already_pitched": headlines this bot has ALREADY suggested in #marketing
+  in the last 2 weeks. NEVER re-suggest the same event under any rephrasing.
 
-MARKETING-WORTHY:
-- Contract won, award announced, grant funded, RFP / proposal accepted
-- Project milestone completed, hardware delivered, customer accepted
-- Successful flight test, capability demonstrated, range / endurance record
-- Customer or partner visit (DOD/USAF/NASA/SOCOM, university, primes)
-- Demo, talk, or conference attendance
-- Product or capability launch
-- New hire announcement
-- Press hit, quote in an article, podcast appearance
-- Notable photo / video opportunity (good visual that should be captured)
-- Public-facing customer quote or testimonial
+WHAT QUALIFIES — post-tense, concrete, named, public-facing:
+- Contract WON or grant FUNDED (not submitted, not pending — actually awarded)
+- Hardware DELIVERED to a named customer (not "preparing to deliver")
+- Flight test or demo COMPLETED with a notable result (range, endurance,
+  payload, conditions). "Successful flight test of S0 in [conditions]."
+- Customer or partner visit that ALREADY HAPPENED (post-event recap with
+  something concrete to say — names, what was shown, takeaways)
+- Talk GIVEN at a conference, panel, or event (after the fact)
+- Press hit that's actually been published
+- New hire whose start has already been announced internally
+- Capability or product launch that has actually shipped
 
-NOT MARKETING-WORTHY (skip these even if they came up):
-- Routine task assignments, "@person can you do X" requests
-- Internal logistics, scheduling, time-tracking discussions
-- Bug reports, debugging conversations, code review
-- Questions / status checks / "where are we on Y"
-- Generic in-progress updates with no concrete achievement
-- Internal meeting prep, agenda items, draft documents
-- Procurement / shipping discussions unless tied to a milestone
+WHAT DOES NOT QUALIFY — refuse these even if they're in the data:
+- "Preparing for", "looking forward to", "next week", "this Friday" — any
+  upcoming event. Wait until it has happened.
+- Proposals SUBMITTED (those are routine; only WINS qualify).
+- "Opportunities emerging", contacts in early conversation, leads,
+  potential demos under discussion.
+- Internal task assignments, logistics, scheduling, time tracking.
+- Bug reports, debugging, code review, internal meetings, agenda items.
+- Questions, status checks, "where are we on Y".
+- Procurement, shipping notifications, vendor coordination.
+- Anything you'd describe as "in progress" or "continuing" rather than "done".
+- Anything substantively similar to an "already_pitched" headline, even if
+  the new framing differs.
 
 Output ONE JSON object — no fences, no preamble, no closing prose:
 
 {
   "items": [
     {
-      "headline": "one short line on what happened",
+      "headline": "one short line on what happened (past tense)",
       "suggested_post": "draft social post in BST's professional-but-warm
         voice (max ~280 chars, partner names OK, light on hashtags)",
       "details": ["pertinent detail 1", "pertinent detail 2", ...],
@@ -98,16 +110,16 @@ Output ONE JSON object — no fences, no preamble, no closing prose:
 }
 
 Rules:
-- Return an empty "items" array if nothing in the window is marketing-worthy.
-  Quiet days are normal — do NOT manufacture content.
-- Each item is ONE distinct event. If two messages describe the same
-  milestone, merge them into one item.
-- Cap at 3 items. If more than 3 events qualify, pick the top 3 by impact.
-- Never invent facts. Every concrete detail (names, dates, contract values,
-  customer names) must trace to the input signals.
-- BST's voice: precise, technical when relevant, never breathless. Mention
-  partners and customers by name when they're public. Avoid "thrilled" /
-  "excited to announce" if you can carry the news on its own merit.
+- Empty "items" is the EXPECTED output. Quiet days post nothing. Do NOT
+  manufacture content from in-progress work.
+- Each item is ONE distinct event. Merge duplicates.
+- Cap at 3 items per day. Realistically you'll almost never hit that.
+- Headlines must be past tense ("Delivered S3 to USGS", "Hosted SOCOM at
+  Boulder facility") — never future tense ("Preparing for...", "Will host...").
+- Never invent facts. Every concrete detail (names, dates, customers,
+  values) must trace to the input signals.
+- BST's voice: precise, technical when relevant, never breathless. Avoid
+  "thrilled" / "excited to announce" — let the news carry itself.
 """
 
 
@@ -170,6 +182,37 @@ def _gather_knowledge_entries(slack_client) -> list[dict]:
             "ts": e.get("ts", ""),
         })
     return out[-_MAX_KNOWLEDGE_ENTRIES:]  # most recent N
+
+
+def _gather_recent_pitches(slack_client, channel: str) -> list[str]:
+    """Pull headlines this bot has already pitched to #marketing in the
+    last `_DEDUP_LOOKBACK_DAYS` days.
+
+    Headlines are extracted from our own marker-bearing posts. We hand
+    these back to Claude as `already_pitched` so it can refuse to
+    re-pitch the same event under a new framing.
+    """
+    oldest = str(int(time.time() - _DEDUP_LOOKBACK_DAYS * 86400))
+    try:
+        res = slack_client.conversations_history(
+            channel=channel, limit=200, oldest=oldest,
+        )
+    except Exception:
+        return []
+    headlines: list[str] = []
+    # Match either "*1.* <headline>" / "*2.* ..." (multi-item posts) or
+    # "*•* <headline>" (single-item posts). Both shapes are produced by
+    # _format_post.
+    pattern = re.compile(r"^\*(?:\d+\.|•)\*\s+(.+?)$", re.MULTILINE)
+    for m in res.get("messages", []) or []:
+        text = m.get("text") or ""
+        if _MARKER not in text:
+            continue
+        for hit in pattern.findall(text):
+            hit = hit.strip()
+            if hit:
+                headlines.append(hit[:200])
+    return headlines
 
 
 def _ask_claude(signals: dict) -> dict:
@@ -256,10 +299,12 @@ def check_and_post(slack_client) -> bool:
     knowledge_signals = _gather_knowledge_entries(slack_client)
     if not slack_signals and not knowledge_signals:
         return False
+    already_pitched = _gather_recent_pitches(slack_client, channel)
 
     verdict = _ask_claude({
         "slack_messages": slack_signals,
         "knowledge_entries": knowledge_signals,
+        "already_pitched": already_pitched,
     })
     items = verdict.get("items") or []
     items = [i for i in items if isinstance(i, dict) and i.get("headline")]
