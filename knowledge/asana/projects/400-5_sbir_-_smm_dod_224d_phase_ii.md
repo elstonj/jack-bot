@@ -42,7 +42,7 @@ Development and validation of a UAS-based L-band radiometer for mapping soil int
 - **2025-07-21:** Final Report submitted to Air Force; Milestone 8 deliverable meeting completed
 - **2025-06-27 to 2025-07-09:** Tyndall AFB testing campaign completed; data validation and quantitative analysis finished
 - **2025-03-05:** Local field testing milestone completed (Milestone 5)
-- **2026-04-17:** Navy STTR submitted with invoice (Meredith Needham, per team feedback)
+- **2026-04-17:** Navy STTR submitted with invoice (Meredith Needham, per team feedback 2026-04-17)
 
 ## Notes & Context
 - **Contract number:** FA864924P0003
@@ -55,3 +55,4 @@ Development and validation of a UAS-based L-band radiometer for mapping soil int
   - Sensor protective cover design
 - **OMS collaboration:** Subcontractor handled radiometer hardware ($605,000); BST managed integration, testing, and algorithm development
 - **Compliance:** All SBIR/STTR lifecycle certifications completed; team medical certifications obtained for flight operations
+- **Related Navy activity:** Navy STTR was submitted alongside this project invoice (2026-04-17). A follow-on Navy SBIR Magnetometer project has kicked off as of 2026-04-22 with technical lead assignment confirmed.

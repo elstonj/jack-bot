@@ -89,8 +89,7 @@
 - **Jack Elston actively negotiating IDIQ contract with NOAA for 25-30 UAS builds (FY25)** — represents significant follow-on opportunity beyond current Phase II contract
 
 ### Strategic Partnerships
-- **NASA engagement:** Alex Lomis shared NASA RFI (Apr 17 & 20, 2026) recommended by NASA and Joe Cione during hurricane ET call — suggests potential expansion of S0 platform beyond current NOAA hurricane program
-- NASA RFI Link: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
+- **NASA engagement:** Alex Lomis shared NASA RFI (Apr 17 & 20, 2026) recommended by NASA and Joe Cione during hurricane ET call — https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view — suggests potential expansion of S0 platform beyond current NOAA hurricane program
 
 ### Technical Focus
 - **IAS failures remain primary concern:** Recurring during flights, causing wind measurement loss and aircraft loss — increasingly frequent on 2025-10-26 flights
@@ -99,4 +98,4 @@
 - Clear Air testing completed as of April 16, 2026
 
 ### Critical Issues & Gaps
-1. **Five required technical milestones** (10Hz
+1. **Five required technical milestones** (10Hz Met Data, Increased End

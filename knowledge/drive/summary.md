@@ -1,53 +1,68 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-05-05 02:22
+Last scanned: 2026-05-06 02:30
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 15 files — [federal_projects.md](federal_projects.md)
-- **Sales** — 2 files — [sales.md](sales.md)
+- **Federal Projects** — 9 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 3 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Shared Drive Strategic Overview
+# Black Swift Technologies — Google Drive Strategic Overview
 
-## Summary Statistics
-- **Total documents:** 17 files across 2 drives
-- **Organization quality:** Poor - minimal folder structure, flat hierarchies
-- **Active period:** 2022–2026 (ongoing activity)
+## Document Volume & Organization
 
-## Drive-Specific Observations
+**Total documented scope:** ~27 files across 2 drives reviewed
+- **Federal Projects:** 24 files (robust volume)
+- **Sales:** 3 files (minimal scope)
 
-### Federal Projects Drive (15 files)
-**Primary focus:** Government contracting (NASA, DOE, DoD)
-- **Content types:** Proposals, RFIs, grant documentation, correspondence
-- **Key clients:** NASA (Atmospheric Energy Harvesting focus), DOE, DoD
-- **Notable projects:** 
-  - Autonomy Phase II proposal (DRAFT status, May 2026)
-  - NASA Aero RFI initiatives
-- **Critical issue:** **No folder organization** — all 15 files at root level creates retrieval and version control challenges
-- **Status concern:** Autonomy Phase II marked as DRAFT with recent modifications suggests active proposal development
+**Organization quality:** Federal drive shows strong structure with categorized proposals and tracking systems. Sales drive is minimal with limited folder hierarchy.
 
-### Sales Drive (2 files)
-**Primary focus:** Transactional records
-- **Content:** Invoice and purchase order documentation
-- **Recent activity:** May 2024–May 2026
-- **Note:** Minimal volume; appears to be archive rather than active sales hub
+## Key Clients/Projects
 
-## Key Observations
+### High-Activity Areas
+- **Federal Projects dominates:** NASA, DOE, NOAA, and DoD opportunities
+- **Notable initiatives:**
+  - Autonomy Phase II (proposal in draft, last updated 2026-05-05)
+  - FY27 NOAA UMS (dedicated subfolder with RFP priorities)
+  - NASA Aero RFI (Atmospheric focus)
+- **Sales:** CoVar partnership and ZEUS project (Letters of Support)
 
-| Aspect | Finding |
-|--------|---------|
-| **Documentation gaps** | Sales drive severely underdeveloped; no proposals, contracts, or client records visible |
-| **Version control** | Duplicate NASA Aero RFI files (PDF + working copy) suggest informal versioning |
-| **Naming consistency** | Mixed conventions; some files include dates, others don't |
-| **Stale content risk** | No clear archive strategy; old and current proposals commingled |
-| **Cross-drive patterns** | Federal/government focus dominates; commercial/private sector underrepresented |
+## Cross-Drive Patterns
 
-## Recommended Attention Areas
-1. **Implement folder hierarchies** in Federal Projects by client/year/project type
-2. **Establish version control protocol** (remove duplicates, mark status in filenames)
-3. **Expand Sales drive** with templates, contracts, and client records
-4. **Archive strategy** for completed proposals (pre-2024)
+| Drive | Content Type | Volume |
+|-------|---|---|
+| **Federal Projects** | Proposals, RFIs, reports, contracts, budgets, correspondence | High |
+| **Sales** | Letters of support, partnership documentation | Minimal |
+
+**Observation:** Federal drive serves as primary documentation hub; Sales drive appears to reference/support federal initiatives rather than independent commercial pipeline.
+
+## Shared Resources & Templates
+
+- **Master Proposal Tracking** — centralized tracking system for federal opportunities
+- **RFP response priorities** — standardized approach to federal submissions
+- Letter of Support templates — reusable for partnerships (evidenced by CoVar/ZEUS variants)
+
+## Document Management Observations
+
+- **Naming conventions:** Descriptive, mostly consistent (e.g., "Autonomy Phase II-proposal-DRAFT")
+- **Version control:** Some duplicates noted (two CoVar support letters suggest version iteration)
+- **Date consistency:** Recent activity cluster (2026-05-05) indicates active management; drive creation (2022) shows mature history
+
+## Areas Requiring Attention
+
+1. **Root-level clutter:** Federal drive stores 23 files at root level; subfolder organization could be expanded (only 1 subfolder active)
+2. **Draft documentation:** "DRAFT" proposals lack clear completion timeline or status indicators
+3. **Sales drive underutilized:** Minimal documentation suggests either (a) sales processes underdocumented, or (b) managed elsewhere
+4. **Potential duplication:** CoVar letter variants need consolidation/version clarity
+5. **2099 timestamp anomaly:** Single file shows year 2099 modification date (data error or placeholder?)
+
+## Recommendations
+
+- Expand Federal drive folder structure by project/fiscal year
+- Implement status tracking (Draft → Submitted → Awarded) for proposals
+- Audit Sales drive completeness; consolidate or integrate with Federal if appropriate
+- Standardize version control practices

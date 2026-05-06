@@ -2,7 +2,7 @@
 
 ## Overview
 - **Client/Customer:** Embry-Riddle Aeronautical University (ERAU) — Kevin Adkins, adkinsk@erau.edu, 386.481.9059
-- **Dollar Value:** $20,805.39 (S0 unit); 4 additional VTOLs pending evaluation (estimated value TBD, contingent on S0 performance validation); 2 additional VTOLs owed by May 2025 (status unknown)
+- **Dollar Value:** $20,805.39 (S0 unit); 4 additional VTOLs pending evaluation (estimated, contingent on S0 performance validation); 2 additional VTOLs owed by May 2025 (status unknown)
 - **Timeline:** 
   - Original due date: August 16, 2024 (**20+ months overdue**)
   - Custom field due: May 26, 2025 (**stale — does not reflect current technical status**)
@@ -13,7 +13,7 @@
 - **Risk Signals:** 
   - **CRITICAL DELAY:** 20+ months past original due date; unit still in active troubleshooting as of April 24, 2026
   - **ACTIVE CRASH BUG:** Per Maciej (April 20, 2026), S0-VTOL restart underway as one of 4 primary technical milestones to "find and fix the crash bug" — primary blocker for delivery
-  - **OVERDUE BENCH TESTS:** Per Maciej (April 24 & 30, 2026), Visual Observation Bench Test is **overdue**; Instrumented Bench Test **due by April 25, 2026** (Thursday of that week) — Maciej (April 24) requesting roadblock assessment and ETA from U058LGYMEQ0
+  - **OVERDUE BENCH TESTS:** Per Maciej (April 24 & 30, 2026), Visual Observation Bench Test is **overdue**; Instrumented Bench Test **due by April 25, 2026** (deadline passed as of April 30, 2026) — Maciej (April 24) requesting roadblock assessment and ETA from U058LGYMEQ0; no update provided by April 30
   - **DUAL DELIVERY OBLIGATION — BARBADOS UNKNOWN:** Per Maciej (April 24 & 30, 2026), S0-VTOL has "two deliveries for ERAU and Barbados" — Barbados delivery is **new information, not previously documented**; requires urgent clarification on contract status, dollar value, timeline, and whether this is a separate unit or impacts ERAU delivery; may compete for unit or engineering resources with ERAU
   - **NDAA Compliance Not Finalized:** Per Alex Lomis (April 17, 2026), S0 VTOL "can be" NDAA compliant but is not "_fully_ NDAA compliant yet" — regulatory pathway exists but work ongoing
   - **Ownership Vacuum:** 4 of 5 logistics tasks remain unassigned (Ship, Verify Payment, Close Project) with no due dates — only "Final due date for delivery" assigned to Jack Elston, who has not set a date
@@ -26,7 +26,7 @@
 - **Status:** NOT YET SHIPPED; unit in active troubleshooting as of April 24, 2026
 - **Active Blockers:** 
   - **Visual Observation Bench Test — OVERDUE** (per Maciej, April 24 & 30, 2026)
-  - **Instrumented Bench Test — DUE APRIL 25, 2026** (per Maciej, April 24, 2026) — **Status as of April 30 unknown; deadline has passed** — Maciej (April 24) requesting ETA from U058LGYMEQ0 on catching up overdue task and meeting deadline
+  - **Instrumented Bench Test — DUE APRIL 25, 2026** (per Maciej, April 24, 2026) — **Status as of April 30 unknown; deadline has passed** — Maciej (April 24) requesting ETA from U058LGYMEQ0 on catching up overdue task and meeting deadline; no update provided
   - **Crash bug root cause analysis and fix** — active; no ETA set; assigned to U058LGYMEQ0 and U014ZL9FLE9 per Maciej (April 20, 2026)
 - **Contingent on:** 
   - Bench testing completion (overdue; April 25 deadline passed)
@@ -42,7 +42,7 @@
 
 ### S0-VTOL Bench Testing (CRITICAL — OVERDUE & TIME-CRITICAL)
 - **Visual Observation Bench Test — OVERDUE** as of April 24 & 30, 2026 per Maciej
-- **Instrumented Bench Test — DUE APRIL 25, 2026** per Maciej (April 24, 2026) — **deadline has passed as of April 30 feedback; current status unknown**
+- **Instrumented Bench Test — DUE APRIL 25, 2026** per Maciej (April 24, 2026) — **deadline has passed as of April 30; current status unknown**
 - **Assignee:** U058LGYMEQ0 (engineering staff per Maciej April 24, 2026)
 - **Status:** Maciej (April 24 & 30, 2026) requesting roadblock assessment and ETA on catching up overdue task and meeting deadline; as of April 30, no update provided — potential further delays or completion not yet communicated
 
@@ -53,6 +53,4 @@
 
 ### Training at BST Facility — June 2025 target (STALE; DEFERRED)
 - **Assignee:** Dan Prendergast
-- **Status:** Not started; contingent on S0-VTOL delivery, crash bug resolution, validation, and bench test completion — likely pushed beyond June 2025 given April 2026 active troubleshooting
-
-### Future Revenue
+- **Status:** Not started; contingent on S0-VTOL delivery, crash bug resolution, validation, and bench test completion — likely pushed beyond June 2025 given April 

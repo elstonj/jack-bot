@@ -1,102 +1,94 @@
 # Beck Cotter — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 25 (across 2 scan periods: 2–5 May 2026)
+- **Total messages scanned:** 68 (combined across 2 scan periods)
 - **Date range:** 2 May 2026 – 5 May 2026
-- **Volume:** ~6 emails per day (May 4 was the heaviest day with 17 messages)
+- **Volume:** ~17 emails per day average
+- **Peak activity:** Tuesday, 5 May 2026 (43 new messages in single day) — indicates major proposal sprint/deadline cycle
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Jack Elston** (elstonj@blackswifttech.com) — most frequent collaborator; multiple UNREAD/IMPORTANT exchanges on M2, FY2027 UMS RFPs, and C-UAS drone projects
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — involved in RFI responses and USAF coordination
-- **Maciej Stachura** (stachura@blackswifttech.com) — FY2027 UMS Services RFP discussions
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — administrative/HR matters (health insurance, internal rates)
+- **Jack Elston** (elstonj@blackswifttech.com) — primary collaborator; dominates new dataset with 20+ exchanges on S0™ VTOL, ONR proposals, NASA Phase II, M2 updates, Army SBIR teaming, VCU RFP
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — military/defense liaison; active on Army SBIR, C-UAS, ONR, Arctic demo coordination
+- **Maciej Stachura** (stachura@blackswifttech.com) — FY2027 UMS, S0™ VTOL, M2 project discussions
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — proposal intake/routing (VCU RFP forward)
+- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — M2 project involvement (NEW)
+- **Bryan Sparling** (bryan.sparling@bylight.com) — M2 project collaborator (NEW)
 
 ### Top External Contacts
-- **Jennifer Schnarr, NASA** (jennifer.schnarr@nasa.gov) — AFA RFI Response lead contact; multiple exchanges over 2 days
-- **Joe Cione, NOAA** (joe.cione@noaa.gov) — FY2027 UMS Services RFP distribution (large multi-org group email)
-- **Kevin S. Rozmiarek** (Kevin.Rozmiarek@colorado.edu) — Black Swift S3 project discussion
-- **Gijs de Boer, Brookhaven National Lab** (gdeboer@bnl.gov) — Black Swift/BNL Genesis UAS-AI Proposal
-- **Stephen Rowlands, Invest Ottawa** (SRowlands@investottawa.ca) — Arctic UAS Demo coordination
-- **Chad Atwood, The AIG Inc.** (chad@theaiginc.com) — health insurance vendor
+- **Jennifer Schnarr, NASA AFRC-210** (jennifer.schnarr@nasa.gov) — AFA RFI response; same-day replies continuing
+- **Joe Cione, NOAA Federal** (joe.cione@noaa.gov) — FY2027 UMS RFP; large coordinated group (14+ recipients)
+- **Gijs de Boer, BNL** (gdeboer@bnl.gov) — Genesis UAS-AI proposal (auto-reply; away status)
+- **Chidong Zhang, NOAA Federal** (chidong.zhang@noaa.gov) — S0™ VTOL discussion (NEW, direct engagement)
+- **Arthur Shune, Skymesa Systems** (arthur@skymesasystems.com) — Army modular UAS payload SBIR teaming (NEW)
+- **Ed Kase, E. Kase Consulting** (ed.kase@ekaseconsulting.com) — NASA Phase II proposal, TABA status updates, external consultant/prime contractor (NEW)
+- **Elizabeth Sanabia, University of Washington** (sanabia@uw.edu) — ONR proposal collaboration (NEW)
+- **Tessa Rivera, GovPointe HQ Launch** (trivera@govpointehqlaunch.us) — VCU RFP coordination (NEW)
 
 ### External Organizations in Correspondence
-- NASA (AFRC-210)
-- NOAA (Federal and Affiliate)
-- Brookhaven National Lab (BNL)
-- University of Colorado Boulder
-- Dragoon Tech, Stra­to Solutions Inc., Sky Fora, JAIA (vendor/partner ecosystem)
-- Invest Ottawa, Embry-Riddle Aeronautical University (ERAU)
-- DoE Office of Science, Grants.gov
+- **Government/Federal:** NASA (AFRC-210), NOAA (Federal & Affiliate), ONR (Office of Naval Research), Army (SBIR), DoE Office of Science (implied)
+- **National Labs/Universities:** Brookhaven National Lab, University of Washington, Virginia Commonwealth University (VCU), Embry-Riddle
+- **Vendor/Partner Ecosystem:** Dragoon Tech, Strato Solutions, Sky Fora, JAIA, Skymesa Systems, GovPointe HQ Launch, ByLight Advanced Technology
+- **Government Webinar/Support:** GoToWebinar (NOAA Hurricane Field Program)
 
 ## Topic Patterns
 
-### Primary Focus Areas
-1. **UAS/Drone Programs**
-   - "C-UAS // Drone-to-Drone" (counter-UAS capability)
-   - "FY2027 UMS Services Requests for Proposals" (recurring, urgent)
-   - "Black Swift S3" (internal product/project)
-   - "Arctic UAS Demo in Ottawa"
+### Primary Focus Areas (Updated)
 
-2. **Government Proposals & RFIs**
-   - "AFA RFI Response - Black Swift Technologies, LLC" (NASA/Air Force Association)
-   - "Black Swift/BNL Genesis UAS-AI Proposal"
-   - "RFI S0" (USAF coordination)
-   - DOE proposal submission (PAMS tracking)
+1. **S0™ VTOL Program** (NEW/ESCALATED)
+   - "S0™ VTOL Discussion" — multiple exchanges with NOAA, internal team on 5 May
+   - Appears to be active development/capability discussion with government customer
+   - Direct engagement with Chidong Zhang (NOAA technical contact)
 
-3. **Military/Defense Contracts**
-   - USAF involvement (Lt Col Ryan Rickert, 53 WRS/ARWO)
-   - "Army modular UAS payload SBIR"
-   - "TABA status through April" (contract tracking)
+2. **Government Proposals & RFIs** (EXPANDED)
+   - **NASA Phase II** — active proposal development with Ed Kase consulting; Autonomy Phase II draft in progress
+   - **NASA SBIR/STTR** — Phase I solicitations open alert
+   - **AFA RFI Response** — continuing exchanges with Jennifer Schnarr (NASA AFRC-210)
+   - **ONR Proposal** — University of Washington collaboration (Elizabeth Sanabia); marked IMPORTANT
+   - **Black Swift/BNL Genesis UAS-AI** — still in flight despite auto-reply from Gijs de Boer
 
-4. **Administrative/Operations**
-   - "M2 update" (internal project/milestone)
-   - "Internal Rates for 2026"
-   - "Black Swift health insurance renewal"
+3. **Military/Defense Contracts** (EXPANDED)
+   - **Army Modular UAS Payload SBIR** — active teaming discussions with Skymesa Systems, Arthur Shune; multiple internal exchanges Prendergast/Elston/Shune
+   - **C-UAS / Drone-to-Drone** — Prendergast engaged in technical discussion (5 May)
+   - **TABA Status** — contract tracking with Ed Kase (ext. consultant)
+
+4. **UMS/Drone Services** (ONGOING)
+   - **FY2027 UMS Services RFP** — Joe Cione coordinating large multi-org response; Beck acknowledged/replied 13:01 on 5 May
+
+5. **Internal Projects**
+   - **M2 Update** — Elston/Sparling/Domagala/Stachura; multiple exchanges early 5 May
+   - **VCU (Virginia Commonwealth University) RFP** — intake from Meredith; routed to Elston/Beck for proposal decision (11:06–11:21 AM 5 May sprint)
+
+6. **Academic/Research**
+   - Various university partnerships (VCU, UW, CU Boulder, ERAU)
+
+### External Contact Themes
+- Government agencies issuing RFPs/RFIs (NASA, NOAA, ONR, Army)
+- Tech/vendor ecosystem for teaming (Skymesa, Dragoon, Strato, Sky Fora, JAIA, ByLight)
+- External proposal consultants (Ed Kase Consulting)
+- Geographic/demo partners (Invest Ottawa, University of Washington)
 
 ## Communication Patterns
 
-### Time Distribution
-- Heavy activity on **Monday, 4 May 2026** (17 of 25 messages) — suggests proposal submission or major deadline
-- Responses continuing into **Tuesday, 5 May** (early morning 01:26–01:30)
-- Weekend activity (Saturday, 2 May) — only 2 messages (automated/admin)
+### Time Distribution (5 May focused)
+- **Extreme concentration:** 43 of 68 total messages on single day (5 May)
+- **Time range:** 02:27 AM (earliest) through 21:01 PM (latest) — 18+ hour work window
+- **Early morning bursts:** 02:27–06:33 AM (Jack Elston/Ed Kase exchanges on ONR, TABA, NASA Phase II)
+- **Mid-morning sprint:** 08:45–11:46 AM (VCU RFP intake, M2 updates, Army SBIR teaming, FY2027 UMS response)
+- **Afternoon/evening:** 13:01–21:01 PM (S0™ VTOL escalation, NASA responses, NOAA webinar confirmations)
+- **Suggests:** Multi-deadline convergence or proposal submission event on 5 May
 
 ### Email Types
-- **Direct correspondence** with external government agencies (NASA, NOAA, DOE, BNL)
-- **Internal collaboration chains** on proposals and technical projects
-- **Automated/system emails:** Grants.gov tracking, DOE PAMS confirmation, UASweekly newsletter
-- **Personal correspondence:** Curling team logistics (non-work)
+- **Urgent internal coordination** — IMPORTANT flags on 80%+ of work-related messages
+- **External government/partner responses** — same-day turnaround (NASA, NOAA, BNL)
+- **Group coordination emails** — large CC/BCC on RFP distributions (14+ recipients on NOAA FY2027)
+- **Google Docs collaboration** — real-time proposal drafting (Ed Kase comments on Autonomy Phase II)
+- **Automated/system:** NASA SBIR solicitations, NASA Earth Observatory newsletter, NOAA Hurricane webinar reminders, UASweekly newsletter
 
-### Mailing List / Group Email Participation
-- Large NOAA FY2027 RFP distribution (14+ recipients across multiple organizations) — suggests Beck is known contact for UAS RFP opportunities
+### Mailing Lists & Group Participation
+- **NOAA FY2027 RFP distribution:** 14+ organizations (Dragoon Tech, Strato Solutions, Sky Fora, JAIA, ERAM, NOAA Affiliate contacts) — Beck is direct recipient; indicates key UAS sector player
+- **NASA SBIR/STTR alerts** — routed to proposals@blackswifttech.com
+- **NOAA Hurricane Field Program webinars** — registered participant (may be research/customer development)
 
 ## Key Relationships
-
-### Closest Internal Collaborators
-1. **Jack Elston** — appears as primary technical/project collaborator; multiple urgent exchanges on proposals and ongoing projects
-2. **Daniel Prendergast** — USAF/military contracting liaison
-3. **Maciej Stachura** — FY2027 RFP workstream
-
-### Key External Relationships (by importance)
-- **NASA/Jennifer Schnarr** — active, reciprocal communication on AFA RFI; same-day multiple exchanges
-- **NOAA/Joe Cione** — strategic relationship; included in major RFP distribution
-- **BNL/Gijs de Boer** — academic/lab partnership on UAS-AI proposal
-- **University of Colorado Boulder** — S3 project collaboration
-- **Invest Ottawa** — geographic/demo partnership for Arctic operations
-
-## Notable Observations
-
-1. **Intense proposal activity** — 4 May shows concentrated effort on multiple government RFI/RFP submissions (NASA AFA, NOAA FY2027, DOE, Army SBIR); suggests coordinated proposal sprint or quarterly deadline cycle.
-
-2. **Multi-agency engagement** — Beck is visible contact across NASA, NOAA, DoE, USAF, and international partners (Canada); indicates senior or business development role at BST.
-
-3. **UAS/drone focus** — 80%+ of work-related subjects involve unmanned aircraft systems, counter-UAS, or payload development; core company competency area.
-
-4. **Well-connected partner ecosystem** — receives forwarded RFPs from government contacts; suggests BST is recognized player in UAS/drone market.
-
-5. **Marked as IMPORTANT frequently** — most substantive emails are flagged, indicating focused inbox management on critical items.
-
-6. **Late-night/early-morning activity** — responses at 01:30 AM suggest deadline-driven work or asynchronous collaboration with West Coast/international contacts.
-
-7. **Non-work email** — one personal email visible (curling team logistics to mimi@rockcreekcurling.com), suggesting some boundary between personal and work communications.

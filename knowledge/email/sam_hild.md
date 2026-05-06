@@ -1,84 +1,81 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 980 (928 previous + 52 new)
-- **Date range:** March 16 – May 5, 2026 (approximately 51 days)
+- **Total messages scanned:** 1,010 (980 previous + 30 new)
+- **Date range:** March 16 – May 6, 2026 (approximately 52 days)
 - **Approximate volume:** ~19 emails per day
-- **Note:** New batch (May 3–5) shows **52 messages**. **98% automated/logistics notifications** (51/52). **1 direct human correspondence** (May 4, Frank Strazzabosco re: Power Supply Board Re-spin). Shift toward purchasing account centralization continues — all vendor communications now routing through `purchasing@blackswifttech.com` distribution.
+- **Note:** New batch (May 5–6) shows **30 messages**. **97% automated/logistics notifications** (29/30). **1 direct human correspondence** (May 6, 01:37 AM Frank Strazzabosco re: Power Supply Board Re-spin — continuation of May 4–5 design iteration). Purchasing account centralization remains stable; all vendor communications routing through `purchasing@blackswifttech.com` distribution.
 
 ## Key Correspondents
 
 ### Top Internal Contacts
 - **Dan Prendergast** (via Asana) — Circuit board revisions (task assignment momentum continues)
-- **Maciej Stachura** (via Asana & Purchasing; explicitly mentioned in Harbor Freight coupon, May 4) — Motor diagnostics & procurement escalation; active tool procurement recipient
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — **MOTOR + PROCUREMENT ESCALATION CONTINUES**: Motor controller & motor procurement leadership continues
-- **Jack Elston** (elstonj@blackswifttech.com) — **FLIGHT TEST + PURCHASING ACCOUNT MANAGEMENT**: PayPal account management (3 card updates, May 4); **Offshore Electrics order confirmation** (Ord# 100531902, May 4) — routed to Jack Elston directly; continues as flight test & purchasing authority
+- **Maciej Stachura** (via Asana & Purchasing) — Motor diagnostics & procurement escalation; active tool procurement recipient
+- **Joshua Fromm** (josh.fromm@blackswifttech.com, purchasing@blackswifttech.com) — **MOTOR + PROCUREMENT ESCALATION CONTINUES**: Motor controller & motor procurement leadership; now receiving direct vendor notifications (T-MOTOR delivery, May 6; Pirate Ship shipping payment, May 5; SkyGeek promotional, May 5; Craftcloud delivery confirmation, May 5)
+- **Jack Elston** (elstonj@blackswifttech.com, via Asana) — **FLIGHT TEST + PURCHASING ACCOUNT MANAGEMENT**: Asana task mention "ADS-B for S30002" (May 5, [001-13] Purchasing) — continues avionics integration authority
 - **Joshua Schwager** (via Purchasing) — Design decision authority on precision manufacturing
-- **Meredith O'Hara Needham** (via Asana & HeliDirect) — **NEW/ESCALATED**: Asana task mention "ADS-B for S30002" (May 4, [001-13] Purchasing); **HeliDirect account holder** (reward points, May 4); indicates purchasing/integration role on avionics systems
-- **Meredith Needham** (purchasing@blackswifttech.com recipient on HeliDirect communications) — Appears to be Meredith O'Hara Needham's purchasing alias
+- **Meredith O'Hara Needham** (via Asana & Purchasing) — **ESCALATED**: Asana mention (May 5) "Meredith mentioned you yesterday" (task reminder) — purchasing/integration role on avionics systems; active task collaboration
 
 ### External Contacts (Engineering Partners & Vendors)
-- **Frank Strazzabosco** (microfirm@earthlink.net) — **ACTIVE DESIGN PARTNER**: Direct correspondence on "Power Supply Board Re-spin" (May 4, 2 exchanges); indicates ongoing PCB design iteration with external firm
+- **Frank Strazzabosco** (microfirm@earthlink.net) — **ACTIVE DESIGN PARTNER — SUSTAINED ENGAGEMENT**: Direct correspondence continues with 2 emails in new batch (May 5, 16:50 & May 6, 01:37); indicates ongoing PCB design iteration with multiple revision cycles; high-priority engineering partnership
 
 ## Topic Patterns
 
-### Active Projects (Motor System + Flight Test Integration + Power Supply Design + Avionics Integration + Recovery Systems — RAPID COMPONENT PROCUREMENT PHASE)
+### Active Projects (Motor System + Flight Test Integration + Power Supply Design + Avionics Integration + Recovery Systems + Facilities Expansion — SUSTAINED PROCUREMENT PHASE)
 
-**[001-07] S3 IRAD — MOTOR SYSTEM + STRUCTURAL + METAL FABRICATION + ELECTRONICS INTEGRATION PHASE (ACCELERATING)**
+**[001-07] S3 IRAD — MOTOR SYSTEM + STRUCTURAL + METAL FABRICATION + ELECTRONICS INTEGRATION PHASE (SUSTAINED)**
 
-**Motor & Drive Systems (CONTINUED/ACCELERATED):**
-- **Hall Sensor components** — **Rotatable Hall Sensor** (Amazon order, May 4) — 3 units shipped; indicates motor feedback/commutation system procurement active
-- **Servo motor components** — **ServoCity motor controller order** (#300043410, May 4–5, 3 status updates) — **RAPID ORDER ITERATION SIGNAL**: Order confirmation (May 4, 18:59), then 2 additional status updates (May 4, 21:14/21:18) within ~20 minutes; indicates design change or urgent expediting
+**Motor & Drive Systems (CONTINUED):**
+- **T-MOTOR delivery notification** (May 6, 01:50 AM, routed to Josh Fromm via purchasing) — **Motor/propulsion system component delivery confirmed**; indicates electric motor or drive system procurement active
+- **ServoCity motor controller order** — Continues from previous batch (high-frequency status updates pattern established)
 - **Pololu motor controllers** — Continues from previous batch
 
-**Electronics & Control Systems (MAJOR EXPANSION):**
-- **Hall sensors + servo components** — Real-time motor feedback system
-- **XT90 connectors** (Amazon, May 4, delivered) — **High-current battery connectors** for power distribution
-- **Rigid fasteners** — **MECCANIXITY Rigid Screw connectors** (Amazon, May 4, shipped); structural assembly hardware
-- **DigiKey electronics order** (Invoice 125224587, May 4, shipped) — Electronic component procurement confirmed
-- **Offshore Electrics order** (Ord# 100531902, May 4, via Jack Elston) — **NEW VENDOR**: Electrical/power systems component procurement
-- **Master Electronics promotional** (May 4) — Sensor component promotion; indicates active sensor procurement
+**Electronics & Control Systems (SUSTAINED):**
+- **DigiKey electronics** — Continues from previous batch
+- **Offshore Electrics orders** (Order status update May 5, 11:20 AM; Shipment notification May 5, 15:20 UTC) — **2 vendor notifications within 4 hours** indicates rapid order processing; electrical/power systems component procurement in transit
+- **XT90 connectors** — High-current power distribution continues
 
-**Power Supply & Energy Systems (DESIGN ITERATION):**
-- **Power Supply Board Re-spin** (May 4, direct correspondence with Frank Strazzabosco/Microfirm) — **ACTIVE PCB DESIGN ITERATION**: 2 email exchanges indicate design revision cycle ongoing; power management electronics in active development
-- **Amazon XT90 connectors + electrical components** — Power distribution system assembly
+**Power Supply & Energy Systems (DESIGN ITERATION — SUSTAINED):**
+- **Power Supply Board Re-spin** (May 5, 16:50 & May 6, 01:37 direct correspondence with Frank Strazzabosco) — **CONTINUED ACTIVE DESIGN CYCLE**: 2 additional email exchanges in this batch; indicates rapid iteration/refinement phase; multiple revision exchanges suggest design complexity or urgent timeline pressure
 
-**Flight Test & Avionics Integration (NEW/ESCALATED):**
-- **ADS-B system** (Asana mention via Meredith O'Hara Needham, May 4, [001-13] Purchasing) — **Automatic Dependent Surveillance-Broadcast** avionics procurement; indicates regulatory/flight test instrumentation requirement
-- **uAvionix vendor activation** (May 4, account activation + order received) — **NEW AVIONICS VENDOR**: Likely ADS-B or transponder supplier; account setup + order confirmation same day (10:19–10:20 AM) indicates rapid onboarding
-- **Rocketman Parachutes** (Order #1534, delivered May 4) — **Recovery system delivery confirmed**; integration/testing phase active
+**Flight Test & Avionics Integration (SUSTAINED):**
+- **ADS-B for S30002** (Asana mention via Jack Elston, May 5, 13:24) — Automatic Dependent Surveillance-Broadcast avionics procurement continues; active task tracking indicates integration milestone tracking
+- **uAvionix vendor** — Account activation continues from May 4
 
 **Metal & Precision Fabrication (CONTINUED):**
-- **SendCutSend** (Order SW65S791, May 4, tracking active) — Metal fabrication order in production/shipping
-- **JawsTec** (Order #68514, May 4, received; prior Order #68490 from May 1) — **RAPID ITERATION**: 2 orders within ~1 week; indicates mechanical component rapid cycling
-- **Protolabs orders** — Continues from previous batch
+- **SendCutSend** (2 shipment notifications May 5 & May 6) — **Rapid sequential notifications** (May 5, 21:30 UTC & May 6, 04:50 UTC ~7 hours apart); indicates multiple concurrent metal fabrication orders or expedited fulfillment
+- **JawsTec** (Promotional "New materials" message May 5, 16:29) — Continues as active precision mechanical parts supplier; promotional suggests potential new material procurement window
 
 **Mechanical Components & Hardware (EXPANDED):**
-- **JawsTec** — Precision mechanical parts supplier; 2 concurrent orders (May 1 & May 4)
-- **ServoCity** — Motor/servo hardware; 3 status updates May 4–5
-- **Amazon fasteners + connectors** — Structural assembly hardware procurement acceleration
+- **Craftcloud®** (3 messages May 5: new message 19:49, out for delivery 15:14, delivered confirmation 16:14) — **ACTIVE MANUFACTURING SERVICES**: Multiple order status updates same day (Order #459340813415) indicates manufacturing job active or completed; precision parts/assembly services supplier
+- **Pirate Ship** (Shipping payment $28.76, May 5, 20:22) — Logistics/shipping service integration; payment processing active
 
-**Logistics & Infrastructure (NEW/EXPANDED CATEGORY):**
-- **Tool & Equipment Procurement** — **Harbor Freight promotions** (4 messages, May 3–5): Chainsaws/pole saws (25% off, May 5), Ammo boxes (45% off, May 5), FRANKLIN carts (35% off, May 4), PREDATOR gas generators (20% off, May 3); suggests workshop/lab facility expansion or equipment library management
-- **Comcast Business Internet** (monthly report, May 5) — Network infrastructure management
-- **Verizon Small Business Days** (promotional, May 4) — Potential telecom/connectivity procurement window
+**Avionics & Aerospace Systems (NEW/ESCALATED):**
+- **SkyGeek** (Promotional raffle, May 5, 16:01, routed to Josh Fromm) — **Propeller/aerospace component supplier**; promotional indicates customer relationship active
+- **Vaisala** (Promotional "Future Artillery 2026" event, May 5, 13:00) — **NEW VENDOR/INDUSTRY EVENT**: Vaisala specializes in environmental sensors and measurement; "Future Artillery" event suggests defense/aerospace industry engagement
+- **HeliDirect order** (Shipment notification HDR653461 May 5, 19:20) — Helicopter/rotorcraft components continuing shipment
 
-**[2026-04-27/05-05] Flight Test Integration & Recovery Systems**
-- **Rocketman Parachutes** — **Delivered** May 4; integration phase active
-- **HeliDirect order** (HDR653461, May 4, confirmed + reward tracking) — **Helicopter/rotorcraft components** (hobby or test platform); indicates potential aerial platform procurement or test vehicle integration
+**Logistics & Infrastructure (SUSTAINED):**
+- **Tool & Equipment Procurement** — Harbor Freight continues (2 messages May 6: ICON Torque Wrench + QUINN Impact Socket Set, May 6; 10 Days of Deals Day 6)
+- **Shipping/Fulfillment** — USPS Informed Delivery (May 5, 13:22), UPS tracking (2 notifications May 5: 14:30 & 15:38), FedEx Billing Online (May 5, 13:24), Pirate Ship payment (May 5, 20:22)
+- **Comcast Business Internet** — Network infrastructure continues
+- **Billing & Invoicing** (May 5, 20:01) — Black Swift billing system notifications to purchasing distribution
 
-**[300-3] 2026 IDIQ (Hurricane)**
-- **Jack Elston continued escalated engagement** — Offshore Electrics ordering authority; flight test/electrical system procurement
+**Workspace/Facilities Management (NEW SIGNAL):**
+- **Neat N Tidy** (Receipt notification May 6, 05:05) — **NEW VENDOR**: Cleaning/janitorial services supplier; indicates facility/workspace management procurement active
 
-### Vendor/Supplier Orders (Comprehensive Electronics + Mechanical + Logistics Pipeline — MAJOR EXPANSION)
+**Software/Infrastructure (CONTINUING):**
+- **Toggl Track** (Support message May 5, 22:12, no subject) — Time tracking software; support contact suggests potential issue or account management activity
+- **Veeam Team** (Promotional "VeeamON Online" event May 5, 13:13) — Data protection/backup software vendor; event notification suggests continued infrastructure monitoring interest
 
-**Motor & Servo Systems (PRIORITY):**
-- **ServoCity** (#300043410, May 4–5) — **3 rapid status updates**; motor/servo hardware integration
-- **Pololu** — Motor controller procurement continues
+### Vendor/Supplier Orders (Comprehensive Pipeline — SUSTAINED WITH NEW ADDITIONS)
 
-**Electronics & Sensors (EXPANDED):**
-- **DigiKey** (Invoice 125224587, May 4) — Electronic component distributor; order shipped
-- **Offshore Electrics** (Ord# 100531902, May 4) — **NEW**: Electrical/power systems vendor
-- **Master Electronics** (May 4, promotional) — Sensor component supplier
-- **ELEGOO US** (May 4, promotional) — Electronics/prototyping supplies
-- **uAvionix** (Account activated
+**Motor & Drive Systems (PRIORITY):**
+- **T-MOTOR** (Delivery notification May 6) — **NEW/ESCALATED**: Motor propulsion component supplier; direct notification to Josh Fromm indicates priority vendor
+- **ServoCity** — Servo/motor hardware continues
+- **Pololu** — Motor controller continues
+
+**Electronics & Power Systems (EXPANDED):**
+- **DigiKey** — Electronic components continues
+- **Offshore Electrics** (Status update May 5 11:20, Shipment May 5 15:20) — **Rapid dual notification** indicates order fulfillment acceleration
+- **Master Electronics** —

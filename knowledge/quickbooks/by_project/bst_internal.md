@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $895,054.44 *(+$9,705.66 May 1–2)*
+- **Total Expenses (Bills + Purchases)**: $905,659.88 *(+$10,605.44 May 1–6)*
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$877,160.08 (expenses exceed revenue significantly)
-- **Date Range**: April 5, 2024 – May 2, 2026 (24+ months)
-- **Transaction Count**: 1,054+ *(+7 new transactions May 1–2)*
+- **Net Position**: -$887,765.52 (expenses exceed revenue significantly)
+- **Date Range**: April 5, 2024 – May 6, 2026 (24+ months)
+- **Transaction Count**: 1,072+ *(+25 new transactions May 1–6)*
 
 ---
 
@@ -59,139 +59,115 @@
 
 ---
 
-### Materials & Direct Purchases: $439,497.74
-*(+$9,705.66 from May 1–2)*
+### Materials & Direct Purchases: $440,183.84
+*(+$686.10 from May 3–6)*
 
 **Subcategories:**
-- **Electronics/components** (Digi-Key, Mouser, electronics vendors): ~$208,187.22
+- **Electronics/components** (Digi-Key, Mouser, electronics vendors): ~$208,643.93 *(+$455.71 May 4: Digi-Key gimbal rangefinder/RF filter)*
 - **PCB manufacturing/assembly** (Advanced PCB, JLCPCB, FastTurn, Vyrian, Circuits West): ~$58,923.45
 - **Composites/structures** (Quanta3, fiber tubes, laminates, carbon fiber tubes): ~$36,631.30
 - **Mechanical parts/hardware** (fasteners, servos, linkages, SKB cases, MKS servos, bearings): $43,971.92
 - **Motors/propulsion** (KDE, Vertiq, Amprius batteries, FetTec, DJI propellers): $31,912.00
 - **Test/measurement equipment** (Makeflyeasy HERO VTOL x2, Kestrel 5500 Weather Meters): $2,392.95
-- **Shipping/duties/tariffs** (DHL, FedEx, duties): $27,104.51
+- **Shipping/duties/tariffs** (DHL, FedEx, duties): $27,312.72 *(+$310.81 May 5: Alerion Tech/MP Jet shipment from Spain)*
 - **Direct cost supplies multi-project** (2026 IDIQ, Sasquatch, future S3 sales, By Light): $12,642.19
-- **Inventory for future S3 customer sales** (UMES, Barbados, INSTAAR, S3 items): $16,131.20 *(+$9,705.66 new May 1–2)*
+- **Inventory for future S3/S0 customer sales** (UMES, Barbados, INSTAAR, S3/S0 items): $17,698.38 *(+$1,567.18 May 1–6)*
 
-**Notable New Transactions (May 1–2):**
+**Notable New Transactions (May 3–6):**
 
-1. **2026-05-01 Purchase #2026050283273** — $359.97
-   - **Item**: NS20*6.2 Prop-2PCS/PAIR
-   - **Category**: Inventory Asset (balance sheet) → *tracked in Materials/Inventory for S3*
-   - *Purpose: Propeller inventory for S3 customer deliveries*
+1. **2026-05-04 Bill #104** — $1,200.00 | **Claudia Behnke**
+   - **Item**: April 2026 accounting (12 hrs @ $120/hr)
+   - **Category**: General & Administrative / GA-Accounting Fees
+   - *Purpose: Monthly accounting/financial services*
+   - **Note**: This is a bill, not a purchase. Reclassified to **Fringe & Admin Costs** (see section below)
 
-2. **2026-05-01 Purchase (no #)** — $1,700.00 | **Amprius Technologies**
-   - **Item**: SA112 x 200 (Quote #00001879) - for future S3 sales
-   - **Category**: Inventory Asset (balance sheet) → *tracked in Materials/Inventory for S3*
-   - **Memo**: "For Future S3 sales. No Asana request - Josh contact them directly via email"
-   - *Purpose: Amprius battery inventory for S3 customer deliveries (matches PO #1038 from April 30)*
+2. **2026-05-05 Purchase** — $28.76
+   - **Item**: Shipping tool to Sean Cole (Phase1) for S3 IRAD work
+   - **Category**: Research & Development / IRAD-Internal R&D
+   - **Memo**: "Shipment request by Josh Fromm"
+   - *Purpose: IRAD support for Phase1 collaboration*
 
-3. **2026-05-01 Purchase #9102-034** — $1,689.05
-   - **Item**: For upcoming sales of S3
-   - **Category**: Inventory Asset (balance sheet) → *tracked in Materials/Inventory for S3*
-   - **Memo**: "No Asana Request - Josh put in order directly."
-   - *Purpose: General S3 inventory procurement*
+3. **2026-05-05 Purchase #HVHNB9** — $330.14
+   - **Item**: S20004 repair CU IRISS
+   - **Category**: Research & Development / IRAD-Internal R&D
+   - *Purpose: Equipment repair for internal R&D*
 
-4. **2026-05-01 Purchase #4164-549** — $2,262.54
-   - **Item**: For upcoming sales of S3
-   - **Category**: Inventory Asset (balance sheet) → *tracked in Materials/Inventory for S3*
-   - **Memo**: "No Asana Request - Josh put in order directly."
-   - *Purpose: General S3 inventory procurement*
+4. **2026-05-05 Purchase** — $310.81 | **Alerion Tech / MP Jet Order #09449**
+   - **Multi-line allocation:**
+     - $207.21 [DIRECT COSTS: DC-Direct Cost Shipping, Freight & Delivery] — Shipment from Alerion Tech (Spain) to BST
+     - $41.44 [DIRECT COSTS: DC-Direct Cost Shipping, Freight & Delivery]
+     - $62.16 [Inventory Asset] — For future sales of 6 S0s
+   - **Memo**: FEDEX37097183 - 4699
+   - *Purpose: International freight for S0 inventory components*
 
-5. **2026-05-01 Purchase #68490** — $1,358.86
-   - **Item**: For future S3 Sales
-   - **Category**: Inventory Asset (balance sheet) → *tracked in Materials/Inventory for S3*
-   - *Purpose: S3 inventory procurement*
+5. **2026-05-04 Purchase** — $314.08 | **People Center / GSuite**
+   - **Category**: Fringe / FR-Administrative Fees (Payroll)
+   - **Memo**: BUSINESS TO BUSINESS ACH PEOPLE CENTER GSUITE_RES
+   - *Purpose: Payroll/HR system subscription*
+   - **Note**: Reclassified to **Fringe & Admin Costs** (see section below)
 
-6. **2026-05-01 Purchase #1J585099** — $143.52
-   - **Item**: For future S3 sales
-   - **Category**: Inventory Asset (balance sheet) → *tracked in Materials/Inventory for S3*
-   - *Purpose: S3 inventory procurement*
+6. **2026-05-04 Purchase** — $512.35 | **People Center**
+   - **Category**: Fringe / FR-Administrative Fees (Payroll)
+   - **Memo**: BUSINESS TO BUSINESS ACH PEOPLE CENTER BILL
+   - *Purpose: Payroll processing/billing*
+   - **Note**: Reclassified to **Fringe & Admin Costs** (see section below)
 
-**Inventory for S3 Summary (May 1–2):**
-- **Total May 1–2 additions**: $7,514.10 (6 transactions)
-- **Cumulative S3 Inventory**: $16,131.20
-- **Pattern**: Direct procurement by Josh (bypassing Asana); focus on propellers (NS20), batteries (Amprius SA112), and unspecified mechanical/electrical components for S3 customer fulfillment
+7. **2026-05-04 Purchase** — $288.00 | **Rippling HSA Contribution**
+   - **Category**: Fringe / FR-Employee Healthcare
+   - **Memo**: BUSINESS TO BUSINESS ACH Cont Rippling HSAcontrbt
+   - *Purpose: Health Savings Account employer contribution*
+   - **Note**: Reclassified to **Fringe & Admin Costs** (see section below)
 
-**Total Materials & Direct Purchases: $439,497.74**
+8. **2026-05-04 Purchase** — $427.87 | **Verde Boulder (Restaurant)**
+   - **Category**: Unallowable GA / UC-Meals & Entertainment
+   - **Memo**: TST*VERDE - BOULDER - 4617
+   - **Amount**: $427.87
+   - *Purpose: Lunch for Krateo Sky and 53rd visit*
+   - **Note**: Meals & entertainment may have indirect cost allocation implications; reclassified to **Other/Unallowable** for tracking
 
----
+9. **2026-05-04 Purchase** — $993.46 | **Credit Card Reward Redemption**
+   - **Category**: Interest Income (credit/negative expense)
+   - **Memo**: CREDIT-REWARD REDEMPTION - 4617
+   - *Purpose: Chase/credit card rewards earned*
+   - **Note**: This is a credit (income offset) and reduces net expenses
 
-### Travel & Meals: $12,343.08
-*(unchanged from prior period)*
+10. **2026-05-04 Purchase** — $14.79
+    - **Item**: Meccanixity Rigid Screw Coupling 6mm to 10mm
+    - **Category**: Research & Development / IRAD-Internal R&D
+    - **Memo**: "Second request in Asana was out of stock, so replaced with new purchase"
+    - *Purpose: Component substitution for IRAD work*
 
-**Maciej/Alex Florida Trip (NOAA/Clear Air) 2026-04-06 to 2026-04-13:**
-- Airfare (United Airlines): $1,920.91
-- Lodging (Home2 by Hilton): $55.78
-- Car rental (Hertz): $607.97
-- Meals & beverages: $354.21
-- Ground transportation (RTD, parking, Lyft, gas): $256.64
-- Miscellaneous (groceries, etc.): $70.10
-- **Subtotal Florida Trip: $3,265.61**
+11. **2026-05-04 Purchase** — $155.94
+    - **Item**: Rotatable Hall Sensor x 6
+    - **Category**: Research & Development / IRAD-Internal R&D
+    - **Memo**: "Second request in Asana was out of stock, so replaced with new purchase"
+    - *Purpose: Sensor components for IRAD development*
 
-**Other Travel**: $9,077.47
+12. **2026-05-04 Purchase #300043410** — $75.77
+    - **Item**: 10mm Round Servo Shaft (25 Tooth Spline, 36mm Length) x 6
+    - **Category**: Research & Development / IRAD-Internal R&D
+    - *Purpose: Servo component for IRAD*
 
-**Total Travel & Meals: $12,343.08**
+13. **2026-05-04 Purchase** — $23.96
+    - **Item**: Eagle Tree Systems Optical RPM Sensor x 3
+    - **Category**: Research & Development / IRAD-Internal R&D
+    - *Purpose: Sensor components for motor/propulsion R&D*
 
----
+14. **2026-05-04 Purchase #HDR653461** — $27.94
+    - **Item**: Hobbywing - RPM Sensor For High-Voltage ESC x 3
+    - **Category**: Research & Development / IRAD-Internal R&D
+    - *Purpose: Motor control sensor components*
 
-### Rent & Facilities: $168,110.30
-*(unchanged from prior period; +$12.37 May 1 office supplies)*
+15. **2026-05-04 Purchase #YX1724706** — $685.76
+    - **Item**: Unspecified
+    - **Category**: Inventory Asset (balance sheet)
+    - *Purpose: For future S3 sales*
+    - **Note**: Tracked in S3/S0 Inventory subcategory
 
-- **W.W. Reynolds / Goose Creek Partners** (office rent): $156,365.76
-- **Shop supplies** (glues, flux, solder, tape, debuggers): $4,585.47
-- **Office supplies** (paper, tissues, cleaner, soap, stamps, beverages): $241.96 *(+$12.37 May 1: paper towels/toilet paper)*
-- **Utilities** (XCEL Energy, Comcast, T-Mobile): $2,043.43
-- **Facility maintenance** (NEAT N TIDY, Ecocycle, repairs): $721.84
-- **Software/SaaS subscriptions** (Google Workspace, Adobe, OpenAI, Slack, Flux.ai, Toggl, Constant Contact, QuickBooks, Vercel, WordPress, Hetzner, IRC Cloud, Microsoft, Claude.ai, Anthropic, Watch Duty): $3,548.51
+16. **2026-05-04 Purchase #106880** — $441.36
+    - **Item**: pingRX Pro
+    - **Category**: Research & Development / IRAD-Internal R&D
+    - *Purpose: Communication/telemetry equipment for IRAD*
 
-**Total Rent & Facilities: $168,122.67** *(+$12.37)*
-
----
-
-### Fringe & Admin Costs: $105,366.53
-*(unchanged from prior period)*
-
-- **Payroll/tax withholding** (Rippling): $292,704.25
-- **Payroll clearing (Rippling payments)**: $943.83
-- **Retirement contributions** (Human Interest, Matrix Trust): $14,803.29
-- **Employee health insurance** (United Healthcare): $14,239.51
-- **Payroll processing fees**: $2,624.28
-- **Worker's Compensation** (Pinnacol): $711.00
-- **Insurance** (Liberty Mutual, Pinnacol): $1,068.00
-- **Bank fees**: $75.00
-- **Employee reimbursement**: -$948.77 (credit)
-
-**Total Fringe & Admin Costs: $105,366.53**
-
----
-
-### Research & Development / IRAD: $2,280.23
-*(+$45.79 May 1)*
-
-**Previous balance**: $2,229.98  
-**May 1 addition**: $45.79 [RESEARCH & DEVELOPMENT] — (office/lab supplies purchase)
-
-**Total Research & Development: $2,280.23**
-
----
-
-### Tariffs & Import Duties: $228.36
-*(unchanged from prior period)*
-
-**Breakdown by Project:**
-- **IDIQ project**: $152.24
-- **Sasquatch project**: $30.45
-- **Future S0 sales (6 units)**: $45.67
-
-**Total Tariffs & Import Duties: $228.36** | **1 transaction** | **Multi-project allocation on single BlueBird shipment**
-
----
-
-## Purchase Orders
-
-| PO # | Date | Vendor | Amount | Description | Status |
-|------|------|--------|--------|-------------|--------|
-| #1038 | 2026-04-30 | Amprius Technologies | $1,700.00 | SA112 x 200 (Quote #00001879) — for future S3 sales | Outstanding |
-
-**Total Purchase Orders**: $1
+17. **2026-05-04 Purchase #99012523** — $455.71 | **Digi-Key**
+    - **Item**: 

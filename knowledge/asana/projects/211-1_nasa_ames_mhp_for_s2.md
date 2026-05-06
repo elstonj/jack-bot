@@ -27,7 +27,7 @@
 
 ## Recent Activity
 Project completed in March 2025 with all deliverables on or ahead of schedule:
-- **January 4, 2025**: Engineering review of launcher drawings uncovered items requiring modification (handled by CU partner)
+- **January 4, 2025**: Engineering review of launcher drawings uncovered items requiring modification (handled by CU partner Kevin)
 - **January 15, 2025**: R. Kolyer requested aircraft return after probe installation and requested short technical write-up of hardware & software work for NASA airworthiness review presentation
 - **January 22, 2025**: Launcher delivered to CU partner (Kevin); awaiting return coordination
 - **March 19, 2025**: MHP installation confirmed, avionics reinstalled, SIM card testing completed, iridium firmware updated, aircraft preflight performed, technical write-up delivered
@@ -41,4 +41,4 @@ Project completed in March 2025 with all deliverables on or ahead of schedule:
 - **Customer type**: Commercial
 - **Products/Services**: MHP product/service delivery
 - **NASA RFI opportunity**: Per Alex Lomis (2026-04-17, 2026-04-20), NASA contacts and Joe recommended a NASA RFI link shared on a hurricane engineering & technology call: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view (context: may indicate future opportunity or follow-on work with NASA; team discussion ongoing about using AI tools to pursue NASA RFIs)
-- **Team action item** (Maciej, 2026-04-27): Team members considering using AI tools to start work on NASA RFI opportunities; coordination needed to assign ownership.
+- **Team action item** (Maciej, 2026-04-27, 2026-05-04): Team members considering using AI tools to start work on NASA RFI opportunities; coordination needed to assign ownership between available team members

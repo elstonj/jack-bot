@@ -15,10 +15,10 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Paige Smith (sales coordination, customer communication)
 - Beck Cotter (customer outreach, email coordination)
 - Ben Busby (team member)
-- Dan Prendergast (project coordination, customer requests)
+- Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead)
 - Dan H (CU - external customer, E2 battery interest)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Recent activity as of April 30, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: May 5, 2026.
 
 ---
 
@@ -64,6 +64,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Jack Elston decision: Advise against addition due to component obsolescence from third parties and significant engineering burden
 - Recommendation: Politely decline unless customer insists; if they do insist, may cannibalize parts from existing BST setup but flagged as "huge headache"
 - Reasoning: Iridium capability is a legacy/one-off feature reviving obsolete components; not worth production effort
+- **CONFIRMED (May 5, 2026):** Dan Prendergast confirmed "No iridium on the NASA S2 and spare components" - decision finalized
 
 **E2 Battery Allocation for EMASS Project (April 2026)**
 - Jack Elston proposed offering one of BST's nicest E2 batteries to Dan Prendergast's group (NASA/EMASS project)
@@ -120,8 +121,4 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 
 **Trisonica Sphere Alignment Solution (2022)**
 - Current: Only marked with 'N' - requires manual alignment on each flight
-- Decision: Need machined or 3D-printed alignment solution (requires screws, not quick-connect)
-- Noted: Setup requires removal for storage between flights
-
-**Micasense Altum Camera Resolution (2024)**
-- Channels 2 and 5 had exposure
+- Decision: Need machined or 3D-printed alignment solution (

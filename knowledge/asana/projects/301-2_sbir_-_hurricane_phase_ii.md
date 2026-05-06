@@ -58,7 +58,7 @@ Final project phase (Aug-Oct 2024) focused on hurricane field operations and sys
 
 ## Notes & Context
 
-**Project Type**: SBIR Phase II+ Government Research Contract
+**Project Type**: SBIR Phase II Government Research Contract
 
 **Products Developed**: 
 - S0 UAS systems (12 units delivered)
@@ -82,19 +82,37 @@ Final project phase (Aug-Oct 2024) focused on hurricane field operations and sys
 
 **Field Deployment**: Successfully conducted hurricane field studies in partnership with NOAA Hurricane Research Division (HRD) and National Hurricane Center (NHC), with units staged at NOAA Atlantic Oceanographic and Meteorological Laboratory (AOML) in Miami.
 
-**Related Government Initiatives** (April 2026 context):
-- Team monitoring **NASA RFI opportunity** related to hurricane ET (Environmental Tracking) — https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view (flagged by Alex Lomis, 4/20/26; recommended by NASA contacts and Dr. Joe Cione)
-- **Navy STTR**: Submitted with invoice as of April 17, 2026 (per Meredith Needham, 4/17/26)
-- **SBIR Magnetometer (Navy)**: **Kicked off April 21, 2026** per Maciej (4/21/26). FWA Certification and kick-off deliverables (including slidedeck) due April 14, 2026 (per Meredith Needham, 4/17/26). Report templates and instructions at https://navysbir.com/links_forms.htm. Technical lead assigned; designated as one of Maciej's highest priority projects (4/24/26).
+---
+
+## Related Opportunities & Initiatives (as of April 2026)
+
+**NASA RFI - Hurricane ET (Environmental Tracking)**
+- **Recommendation**: NASA contacts and Dr. Joe Cione (NOAA/project GPC) recommended BST investigate this opportunity
+- **RFI Link**: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
+- **Status**: Flagged for team evaluation (Alex Lomis, 4/20/26)
+- **Relevance**: Direct extension of Hurricane Phase II+ technical capabilities
+
+**Navy STTR**
+- **Status**: Submitted with invoice as of April 17, 2026 (Meredith Needham, 4/17/26)
+
+**SBIR Magnetometer (Navy)**
+- **Status**: **KICKED OFF April 21, 2026** per Maciej (4/21/26)
+- **Key Deliverables**: 
+  - FWA Certification — Due: April 14, 2026
+  - Kick-off Slidedeck (template provided) — Due: April 14, 2026
+  - Report templates and instructions: https://navysbir.com/links_forms.htm
+- **Technical Lead**: Designated team member (per Maciej, 4/21/26)
+- **Priority**: Maciej flagged this as one of the highest priority projects for daily tracking (4/24/26 & 4/30/26)
 
 ---
 
-## Status as of April 2026
-**NOTE**: This project is archived and complete. The team is now focused on new initiatives: 
-- **(1) S3 IRAD** with a targeted delivery of end of May for the UMES S3
-- **(2) S0-VTOL** with two deliveries for ERAU and Barbados
-- **(3) Closing out EMASS**
-- **(4) By-Lite Mustang**
-- **(5) SBIR Magnetometer** (initial tasks, Navy technical lead assigned)
+## Current Team Priorities (as of April 2026)
 
-Per Maciej (4/24/26 & 4/30/26): These are the highest priority projects, and daily tracking of overdue tasks is being monitored.
+Per Maciej (4/24/26 & 4/30/26), the highest priority projects with daily overdue task tracking are:
+1. **S3 IRAD** — Targeted delivery end of May for UMES S3
+2. **S0-VTOL** — Two deliveries (ERAU and Barbados)
+3. **Closing out EMASS**
+4. **By-Lite Mustang**
+5. **SBIR Magnetometer** (initial tasks) — Navy technical lead assigned
+
+*Note: Hurricane Phase II+ is archived. These represent current active work.*

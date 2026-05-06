@@ -4,15 +4,14 @@
     "(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-04-29",
-    "end": "2026-04-30"
+    "start": "2026-05-03",
+    "end": "2026-05-06"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 717.95,
+    "expenses": 925.83,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 676.01,
-      "DIRECT COSTS:DC-Direct Cost Purchases": 41.94
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 925.83
     }
   },
   "invoices": [],
@@ -20,42 +19,55 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-04-29",
-      "doc_number": "14814",
-      "total": 651.24,
-      "attributed": 651.24,
+      "date": "2026-05-05",
+      "doc_number": "",
+      "total": 28.76,
+      "attributed": 28.76,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Shipment request by Josh Fromm",
+      "lines": [
+        {
+          "amount": 28.76,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipping tool to Sean Cole (Phase1) for S3 IRAD work"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-04",
+      "doc_number": "106880",
+      "total": 441.36,
+      "attributed": 441.36,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 651.24,
+          "amount": 441.36,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "1/2\" x 3/4\" Ultra-High Modulus Carbon Fiber Tube 72\" Length"
+          "description": "pingRX Pro"
         }
       ]
     },
     {
       "type": "Purchase",
-      "date": "2026-04-29",
-      "doc_number": "64090547",
-      "total": 179.64,
-      "attributed": 66.71,
+      "date": "2026-05-04",
+      "doc_number": "99012523",
+      "total": 455.71,
+      "attributed": 455.71,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "No Asana request. Josh placed the order directly. See project listed under each item purchased",
+      "memo": "DKC*DIGI KEY CORP - 4617",
       "lines": [
         {
-          "amount": 66.71,
+          "amount": 455.71,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "S3 items"
-        },
-        {
-          "amount": 112.93,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
-          "description": "By Light items"
+          "description": "250 M GIMBAL RANGEFINDER MODULE; RF FILTER BANDPASS 942MHZ INLINE"
         }
       ]
     }

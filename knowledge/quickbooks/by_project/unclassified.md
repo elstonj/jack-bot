@@ -2,10 +2,10 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $1.00
-- **Total Expenses (Payments):** $3,404,632.27
+- **Total Expenses (Payments):** $3,510,632.27
 - **Total Purchase Orders:** $0.00
-- **Net Position:** -$3,404,631.27
-- **Date Range:** 2024-04-05 to 2026-04-17 (24 months, 12 days)
+- **Net Position:** -$3,510,631.27
+- **Date Range:** 2024-04-05 to 2026-05-06 (24 months, 31 days)
 
 ---
 
@@ -41,7 +41,7 @@ All other transactions are recorded at project/class level without detailed cost
 | **Indirect Costs / G&A** | ~$333.00 | 4 | QuickBooks Payments fees ($25.75 + $250.00 + $7.50 + $250.00) |
 | **Rent/Facilities** | ~$0 | 0 | None explicitly recorded |
 | **Other** | ~$800,000–1,000,000 | ~30 | Project pass-throughs, research partnerships, institutional charges |
-| **TOTAL** | **$3,404,632.27** | **94** | — |
+| **TOTAL** | **$3,510,632.27** | **97** | — |
 
 **⚠️ Limitation:** Without detailed account-level coding on each line item, precise cost categorization is not possible from this dataset. **To improve cost tracking, recommend:**
 1. Require all QB transactions to include account/cost-category tags
@@ -67,7 +67,7 @@ All other transactions are recorded at project/class level without detailed cost
 | [200-7] | Volcano CCRPP | $360,982.00 | 5 |
 | (301-2) | 2020 WPO Hurricane Phase II | $168,462.58 | 2 |
 | (350-4) | 2024 USGS Mexico Volcano | $124,230.00 | 1 |
-| (035-1) | Adonis | $76,500.00 | 4 |
+| (035-1) | Adonis | $110,500.00 | 5 |
 | (031-1) | University of Maryland Eastern Shore | $102,181.00 | 2 |
 | [039-1] | Refurbished S2 Oklahoma State | $57,814.00 | 1 |
 | [018-1] | Murphy's Pond CH4 | $62,084.68 | 3 |
@@ -85,14 +85,18 @@ All other transactions are recorded at project/class level without detailed cost
 | [038] | University of Maryland | $1,488.00 | 2 |
 | [034] | University of Virginia | $492.50 | 1 |
 | [451] | INSTAAR Stable Isotope Lab, CU Boulder | $13,853.10 | 1 |
-| [300-3] | 2026 IDIQ | $36,000.00 | 1 |
+| [300-3] | 2026 IDIQ | $108,000.00 | 3 |
 | (unclassified) | Prof. Fu-Kuo Change | $5,000.00 | 1 |
 | (unclassified) | Phase1 Aviation | $6,105.00 | 1 |
 | (unclassified) | Krateo Sky | $10,860.48 | 1 |
 | (unclassified) | Toyota Research Institute | $750.00 | 1 |
 | (unclassified) | Nestor Rivera | $500.00 | 2 |
 | (unclassified) | QuickBooks Payments Fees | $333.00 | 4 |
-| **TOTAL** | | **$3,404,632.27** | **94** |
+| **TOTAL** | | **$3,510,632.27** | **97** |
+
+**New/Updated May 2026 Transactions:**
+- **(035-1) Adonis:** +$34,000.00 (total now $110,500.00)
+- **[300-3] 2026 IDIQ:** +$72,000.00 (+$54,000.00 + $18,000.00; total now $108,000.00)
 
 ---
 
@@ -119,6 +123,4 @@ All other transactions are recorded at project/class level without detailed cost
 | 2025-08 | $284,340.10 | S0 Hurricane ($105,610), Navy STTR ($70,000), SMM Phase II ($99,725), Isaac Anderson ($2,900), Phase1 Aviation ($6,105) |
 | 2025-09 | $112,492.50 | Navy SBIR ($70,000), CRATER ($39,310), Murphy's Pond ($37,704), NASA Persistence ($4,428), UVA ($492.50) |
 | 2025-10 | $242,310.00 | S0 Hurricane ($0, deferred), By Light Mustang ($100K), Navy SBIR ($49K), Navy STTR ($49K), By Light Prototype ($5,100), CRATER ($39,310) |
-| 2025-11 | $530,759.00 | S0 Hurricane ($185,850), By Light Mustang ($200K), Navy SBIR ($49K), CRATER ($39,309), NASA Persistence ($35K), Adonis ($30K) |
-| 2025-12 | $254,579.29 | By Light Mustang ($100K), S0 Hurricane ($130,020), Murphy's Pond ($24,579) |
-| 2026-01 | $251,407.00 | By Light Mustang ($150K), Navy SBIR ($24,081), Navy STTR ($27,326),
+| 2025-11 | $530,759.00 | S0 Hurricane ($185,850), By Light Mustang ($200K), Navy SBIR ($49K), CRATER ($39,309), NASA Persistence ($35K), Adonis ($30

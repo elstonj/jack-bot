@@ -3,38 +3,47 @@
 ## Overview
 - **Owner:** Beck Cotter
 - **Team:** BST (Whole Team)
-- **Status:** Active — 3 open proposals in flight, 1 recently completed
-- **Total Funding Opportunity:** ~$1.09M across active proposals
+- **Status:** Active — 5 open proposals in flight, 3 recently completed
+- **Total Funding Opportunity:** ~$1.35M+ across active proposals
+  - Genesis Mission DOE w/BNL: $336.6K to BST (total $629.8K with $293.2K subcontracted)
+  - PrecisionTerra NASA subcontract: $91.8K to BST (Phase II potential up to $637.5K over 24 months)
   - NASA Phase I (Wildfire Persistence): $225K to BST
-  - Genesis Mission DOE w/BNL: $336.6K to BST (total proposal $629.8K with $293.2K subcontracted)
-  - DevX Autonomy: Funding amount TBD (confidence: 0)
+  - Chidong Zhang / S0 VTOL (NOAA): Amount TBD
+  - ONR w/Beth Sanabia: Amount TBD
+  - NASA Aero RFI: Amount TBD
 
 ## Key Deliverables & Milestones
 
 | Proposal | Organization | Due Date | Budget (to BST) | Period of Performance | Status |
 |----------|--------------|----------|-----------------|----------------------|--------|
+| NASA Aero RFI | NASA | 2026-05-07 @ 2:00pm | TBD | — | Started but incomplete |
 | Genesis Mission DOE w/BNL | DOE w/BNL | 2026-05-01 | $336,635 | 9 months (500–750K total) | Submitted, under review |
-| NASA Phase I - Wildfire Persistence | NASA | 2026-05-21 | $225,000 | 6 months (max $225K) | Started but incomplete |
-| DevX Autonomy | DoD - Army | 2026-07-31 | TBD | Open call | Not yet started |
+| PrecisionTerra NASA subcontract | PrecisionTerra (NASA Phase I/II) | 2026-05-15 | $91,833 | Phase II: up to $637.5K over 24 months | Started but incomplete |
+| Chidong Zhang / S0 VTOL | NOAA | No due date | TBD | Potential spring 2028 deployment | Early stage |
+| ONR w/Beth Sanabia | ONR | No due date | TBD | — | Not yet started |
 
-**Key Dates:**
-- Genesis Mission: **Due 2026-05-01** (submitted, under review)
-- NASA Wildfire: **Due 2026-05-21 at 3:00pm** (ProSams submission required)
-- DevX Autonomy: Due 2026-07-31
+**Recent Completions:**
+- NOAA/FY27 OMAO - Joe (completed 2026-05-05, due 2026-07-01)
+- ARMY Modular Payloads for UAS (completed 2026-05-05, due 2026-06-03)
 
 ## Task Summary
-- **Total:** 4 tasks (3 open, 1 completed)
+- **Total:** 8 tasks (5 open, 3 completed)
 - **By Assignee:**
-  - **Beck Cotter:** 2 open (Genesis Mission, NASA Wildfire) + 1 completed
-  - **Dan Prendergast:** 1 open (DevX Autonomy)
+  - **Beck Cotter:** 4 open + 2 completed — managing Genesis Mission, PrecisionTerra subcontract, NASA Aero RFI, Chidong Zhang NOAA opportunity
+  - **Dan Prendergast:** (DevX Autonomy from previous data — not shown in current task list)
+  - **Unassigned:** 1 open (ONR w/Beth Sanabia)
 
 ## Recent Activity
-- Genesis Mission DOE proposal completed submission as of 2026-05-01 (now under review)
-- NASA Wildfire Persistence proposal is underway; due 2026-05-21 with hard 3:00pm deadline
-- DevX Autonomy (long-term open call from Army T2COM/AAL) remains in early stage
+- **2026-05-05:** Two proposals completed (NOAA/FY27 OMAO, ARMY Modular Payloads)
+- **2026-05-07 (imminent):** NASA Aero RFI due @ 2:00pm — started but incomplete; includes shared Google Doc for call details
+- **2026-05-15:** PrecisionTerra NASA subcontract due — Phase II solicitation expected by early 2026; Phase II budgets increased (now $1.275M base for Phase II, enabling subcontract up to $637.5K over 24 months)
+- **Beck's Recent Update (2026-05-04):** Notebooks set up for each proposal with templates, RFIs, and relevant proposals as sources; awaiting AI processing
 
 ## Notes & Context
-- **NASA Wildfire Persistence** references AERO.7.S26B focus area and includes shared drive: https://drive.google.com/drive/folders/1V3ALs2YmvbdLL4fhHeK3qspRcsxQmkct
-- **Genesis Mission** targets Challenge Area 11 (AI-Driven Autonomous Laboratories) with Advanced Robotics focus; includes a $293.2K subcontract component
+- **NASA Aero RFI:** Due 2026-05-07 @ 2:00pm (hard deadline); full call details in shared Google Doc
+- **Genesis Mission:** Still under review after 2026-05-01 submission; Challenge Area 11 (AI-Driven Autonomous Laboratories), Advanced Robotics focus; includes 5-page Phase I narrative and $293.2K subcontract component
+- **PrecisionTerra Subcontract:** Significant funding upside — Phase II increased to $1.275M base (from previous cap); BST subcontract can reach $637.5K over 24 months
+- **Chidong Zhang / S0 VTOL (NOAA):** Ongoing conversation about spring 2028 deployment cruise; call for proposals anticipated; early-stage outreach
+- **ONR w/Beth Sanabia:** Unassigned; no due date or funding amount yet established
 - **All proposals show Funding/Confidence: 0** — may indicate early-stage or incomplete confidence assessments
-- 1 task completed but unassigned with no due date (2026-05-01) — likely administrative closure
+- **Template & AI readiness:** Beck has established proposal notebooks with templates and source materials; AI processing underway as of 2026-05-04
