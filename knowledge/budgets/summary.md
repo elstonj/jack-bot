@@ -1,77 +1,90 @@
 # BST Project Financial Overview
 
-## Active Project Budgets
+## Active Project Budgets Summary
 
-| Project Code | Client | Total Budget | Contract Type | Period | Status |
-|---|---|---|---|---|---|
-| **200-12** | NASA SMD (AREN) | $117,701.50 | Science Activation / Cooperative Agreement | 2025 (multi-year 2021–present) | Active |
-| **550-1** | US Navy (DoN) | *Base: ~$393K+* | SBIR Phase I (Base) + Phase II Option | Jan 2027–Jun 2029 (Base); Jul 2029–Jun 2030 (Option) | Proposed/Future |
-| **550-2** | US Navy (DNR) | $245,772.00 | STTR Phase I + Option | Jul 2025–Jan 2026 (Base); Feb 2026+ (Option) | Active (Base complete; Option active) |
+### Project 031-1 (S3 Project)
+- **Client:** University of Maryland Eastern Shore (UMES)
+- **Total Budget:** $81,306.00
+- **Contract Type:** Direct Equipment Purchase / Research Support
+- **Status:** Purchase Order #142750 issued September 5, 2024
+- **Budget Breakdown:**
+  - S3 VTOL UAS Flight System: $65,000.00
+  - S3 Batteries (qty 2): $7,338.00
+  - Spare S2 Batteries (qty 2): $1,968.00
+  - Operator Training: $3,000.00
+  - Shipping & Handling: $4,000.00 (approx., data incomplete)
+- **Spend Status:** Unknown (likely fully obligated or in fulfillment)
+
+### Project 200-14 (Adaptive and Secure Autonomy for UAS)
+- **Client/Funding Agency:** NASA Shared Services Center (Stennis Space Center, MS)
+- **Total Budget:** $150,000.00 (Phase I SBIR)
+- **Contract Type:** SBIR Phase I
+- **Contract Number:** 80NSSC25C0155
+- **Period of Performance:** September 29, 2025 – March 27, 2026 (6 months)
+- **Principal Investigator:** Dr. Jack Elston
+- **Budget Breakdown:** Labor categories identified (detailed breakdown incomplete in source doc)
+- **Spend Status:** Unknown (project start date is future-dated; currently in pre-execution phase)
 
 ---
 
 ## By Funding Source
 
-| Funding Source | Project(s) | Total Funded |
+| Funding Source | Project Code(s) | Total Funded |
 |---|---|---|
-| **NASA Science Mission Directorate** | 200-12 | $117,701.50 |
-| **United States Navy** | 550-1, 550-2 | ~$639K+ (Phase I/II combined) |
+| University of Maryland Eastern Shore (UMES) | 031-1 | $81,306.00 |
+| NASA / Shared Services Center (SBIR) | 200-14 | $150,000.00 |
+| **TOTAL** | | **$231,306.00** |
 
 ---
 
 ## By Contract Type
 
-| Contract Type | Project(s) | Total |
+| Contract Type | Project Code(s) | Total Funded |
 |---|---|---|
-| **Science Activation / Cooperative Agreement** | 200-12 | $117,701.50 |
-| **SBIR Phase I (with Phase II Option)** | 550-1 | ~$393K+ (Base; Phase II TBD) |
-| **STTR Phase I (with Option)** | 550-2 | $245,772.00 |
+| Equipment Purchase / Research Support | 031-1 | $81,306.00 |
+| SBIR Phase I | 200-14 | $150,000.00 |
+| **TOTAL** | | **$231,306.00** |
 
 ---
 
 ## Financial Health Indicators
 
-### Project 200-12 (NASA AREN)
-- **Status:** ✓ Active, stable funding
-- **Notes:** 2025 proposed budget of $117,701.50; part of established multi-year cooperative agreement (NNX16AB95A) running since 2021
-- **Key Personnel:** Kay Rufty (Aerospace Engineer, Co-I), Ted Miles (Senior Engineering Technician), consultants Jack Elston & Maciej Stachura
-- **Budget Detail:** Labor-based; aerospace engineer rate $71.53/hr burdened; additional cost categories incomplete in source doc
+### Project 031-1 (S3 Project)
+- **Concern Level:** MINIMAL
+- **Notes:**
+  - Small project with fixed, encumbered budget via purchase order (issued Sept 2024)
+  - No evidence of budget overruns or scope changes in available documents
+  - Equipment and training deliverables are clearly scoped
+  - **Data Gap:** No invoice history or spend tracking available; unable to confirm current cash flow status
 
-### Project 550-1 (Navy SBIR Magnetometer)
-- **Status:** ⚠ Future award; Phase II proposed
-- **Timeline:** Base period begins January 2027 (future)
-- **Notes:** Base period budget ~$393K+ (Direct Labor $207,368 + Fringe 29.28% + Overhead 46.67% + Subcontract costs TBD)
-- **Structure:** 30-month base (2027–2029) + 12-month Phase II option (2029–2030)
-- **Prime/Sub:** Black Swift Technologies (Prime), Ultra Maritime (Subcontractor)
-- **Concern:** Document incomplete; full subcontract and Phase II costs not fully shown
-
-### Project 550-2 (Navy STTR Profiling Observations)
-- **Status:** ✓ Active; base period complete, option period active
-- **Timeline:** Base Jul 22, 2025 – Jan 7, 2026 (complete); Option extends Feb 2026+
-- **Total Allocation:** $245,772 (Base $146,326 + Option $99,446)
-- **Budget Status:** Base period invoicing likely complete; option period in execution
-- **Notes:** Relatively small STTR Phase I award; manageable burn rate through Q1 2026
+### Project 200-14 (Adaptive and Secure Autonomy for UAS)
+- **Concern Level:** LOW (Pre-Execution Phase)
+- **Notes:**
+  - Project start date is September 29, 2025 (future)
+  - 6-month performance period with standard Phase I SBIR structure
+  - Labor budget framework established but detailed rates/allocations incomplete in available docs
+  - **Data Gap:** Complete labor rate schedule, milestone schedule, and invoicing plan not provided; unable to assess cash flow timing
 
 ---
 
 ## QuickBooks Integration Notes
 
-| Project | QB Integration | Notes |
+| Project | QB Status | Notes |
 |---|---|---|
-| **200-12** | Unknown | Drive-only document; no QB reference found. Recommend cross-check with active labor tracking. |
-| **550-1** | Unknown | Proposed/future award (Jan 2027 start); QB setup pending contract award confirmation. Document incomplete. |
-| **550-2** | Unknown | Active contract since Jul 2025; Drive-only data. Base period execution complete—recommend QB reconciliation for invoicing. |
+| 031-1 (S3 Project) | **Drive-Only** | Budget data in spreadsheet/document only; no QB system references found |
+| 200-14 | **Drive-Only** | Budget data in document form; no QB system references found |
+
+**Integration Gap:** Neither project shows explicit QuickBooks integration in provided documents. Recommend verifying:
+- Whether projects are coded in active QB instance
+- Cost tracking and invoice workflows
+- Reconciliation schedule between Drive documents and QB records
 
 ---
 
-## Summary
+## Key Outstanding Questions
 
-**Total Known Funded Amount (across active & proposed):** ~$757K–$800K+  
-**Active Cash Flow:** Projects 200-12 and 550-2 (Navy STTR option period continuing into 2026)  
-**Upcoming:** Project 550-1 (Navy SBIR) ramp-up expected Jan 2027
-
-**Data Gaps & Recommendations:**
-1. Project 550-1 document is incomplete (subcontract costs, Phase II full proposal not shown)
-2. No QB cross-reference available for any project; recommend establishing GL mapping for each
-3. Project 200-12 budget detail incomplete (labor shown; materials, travel, other directs TBD)
-4. Verify 550-2 invoicing status post-base period (Jan 2026) before option period milestone
+1. **Project 031-1:** What is the current delivery status and invoice payment status of PO #142750?
+2. **Project 031-1:** Is the remaining budget allocation (if any) beyond the $81,306 PO documented?
+3. **Project 200-14:** What are the detailed labor rates, overhead burden rates, and material/ODC allocations?
+4. **Project 200-14:** What is the invoicing schedule (monthly, milestone-based)?
+5. **Both Projects:** Which QB cost centers/project codes are assigned?

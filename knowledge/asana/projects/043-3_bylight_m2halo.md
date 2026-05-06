@@ -6,37 +6,39 @@
 - **Total Budget:** $126,629 (all funding to Black Swift)
 - **Priority:** High
 - **Timeline:** Start 2026-05-30 | Due 2026-05-30
-- **Status:** Active — 4 open CAD tasks, all assigned to Ethan Domagala with 2026-05-01 deadline
+- **Status:** Active — 1 open task (Send CAD to ByLight, due 2026-05-06). **Timeline extended due to cancellation of India demo** (per Ethan, 2026-05-05)
 - **Team Members:** Ethan Domagala (lead), Alex Lomis, Nate Straus
 - **Risk Signals:** 
-  - All 4 open tasks concentrated with single assignee (Ethan), due 2026-05-01
-  - 29-day buffer between CAD deadline and project completion (potential schedule pressure if rework needed)
-  - No completion progress visible in current snapshot
+  - ~~All 4 open tasks concentrated with single assignee~~ **RESOLVED** — All 4 CAD tasks completed 2026-05-05 (4 days after original 05-01 deadline)
+  - Final deliverable (Send CAD) due 2026-05-06 — imminent
 
 ## Key Deliverables & Milestones
 1. Design and Build SA03 Pouch Cell Battery — **[COMPLETED]** — Alex Lomis
 2. Replace/update rusted car launch fasteners, railing if needed — **[NOT TRACKED IN CURRENT DATA]** — (previously assigned to Nate Straus)
-3. CAD Updates (due 2026-05-01) — Ethan Domagala:
-   - Confirm CG in CAD
-   - Edit CAD files for car launch mounting points
-   - Edit CAD files for gimbal implementation
-   - Edit CAD files for avionics hot swap
+3. CAD Updates — **[COMPLETED 2026-05-05]** — Ethan Domagala:
+   - Confirm CG in CAD ✓ (due 05-01, completed 05-05)
+   - Edit CAD files for car launch mounting points ✓ (due 05-01, completed 05-05)
+   - Edit CAD files for gimbal implementation ✓ (due 05-01, completed 05-05)
+   - Edit CAD files for avionics hot swap ✓ (due 05-01, completed 05-05)
+4. Send CAD to ByLight — **[OPEN]** — Ethan Domagala — Due 2026-05-06
 
-**Project completion due:** 2026-05-30
+**Project completion due:** 2026-05-30 (extended from original timeline per India demo cancellation)
 
 ## Task Summary
-- **Total:** 4 open tasks (0 completed in current data)
+- **Total:** 1 open, 4 completed
 - **By Assignee:**
-  - Ethan Domagala: 4 open CAD tasks (0% completion rate)
+  - Ethan Domagala: 4 completed CAD tasks (100% completion), 1 open (Send CAD)
   - Alex Lomis: 1 completed task (battery pouch cell — historical)
   - Nate Straus: 1 task untracked in new data (fasteners/railing)
-- **Pattern:** Heavy CAD consolidation — Ethan managing 4 concurrent edits, all same due date
+- **Pattern:** CAD work successfully consolidated and completed by Ethan; final step is client delivery
 
 ## Recent Activity
-No new task completions in current snapshot. All 4 CAD tasks remain open with 2026-05-01 deadline. Nate's fastener/railing task is not visible in current task list — status unclear (may be completed, closed, or deprioritized).
+**2026-05-05:** All 4 CAD tasks completed by Ethan Domagala (4 days after original 2026-05-01 deadline). Timeline updated following ByLight meeting regarding India demo cancellation and "yellow version" project clarification.
+
+**Pending:** Send CAD to ByLight due 2026-05-06 (next business action).
 
 ## Notes & Context
+- **Timeline Update (Authoritative):** Per Ethan Domagala (2026-05-05): "ByLight project timeline has been extended due to cancellation of a demo in India. Furthermore, the 'yellow version' project has been clarified and Asana tasks and timelines have been updated accordingly." — The original 2026-05-30 project due date may no longer reflect the current commitment; Asana data should be treated as stale for scheduling purposes until confirmed post-meeting.
 - High-priority commercial project with substantial budget ($126K+)
-- **Resource concentration risk:** Ethan Domagala is sole assignee for all 4 active CAD work items (CG confirmation, car launch mounting, gimbal implementation, avionics hot swap)
-- 29-day margin between CAD deadline (05-01) and project end (05-30) may be tight if rework or integration issues arise
-- Previous knowledge indicated fastener/railing work assigned to Nate Straus — no longer visible in task list; verify completion status or task consolidation
+- Resource concentration (Ethan) has been successfully de-risked through task completion
+- **Action needed:** Verify final due dates and "yellow version" scope clarification in updated Asana records; nonfiscal fastener/railing task (Nate Straus) status remains unclear

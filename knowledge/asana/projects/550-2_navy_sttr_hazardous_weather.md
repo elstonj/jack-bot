@@ -71,11 +71,10 @@
   - **⚠️ CRITICAL**: Must be included on all correspondence (funded through ERAU sub chain)
 
 ## Notes & Context
-- **Technical Focus**: Refining S0 platform for operational Navy use in hazardous weather; includes S0 radar data assessment, wave height sensing, turbulence demonstration, and JSB simulation work (all complete as of April 17, 2026)
+- **Technical Focus**: Refining S0 platform for operational Navy use in hazardous weather; includes S0 radar data assessment, wave height sensing, turbulence demonstration, and JSB simulation work (all **complete as of April 17, 2026** per Maciej Stachura)
 - **STTR Topic**: N25A-T025 "Expendable Air-sea Profiling Observations in Hazardous Weather Conditions"
 - **Funding Structure**: 
   - Total: $146,326
   - BST (Prime): $138,494
   - Subcontractors: $66,290 (ERAU + ODU)
-  - Chain: BST (Prime) → ERAU sub → University of Miami (Jun Zhang) sub
-- **Payment Method
+  - Chain: BST (Prime) → ERAU sub → University of Miami

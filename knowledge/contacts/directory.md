@@ -103,7 +103,7 @@
 
 **Notes:**
 - All contact information verified and consolidated from existing knowledge and new raw directory data
-- All 17 contacts confirmed with standardized phone number formatting
+- All phone numbers standardized to XXX-XXX-XXXX format
 - Three team members remain unclassified; recommend reaching out to leadership for role clarification
 - BST maintains an engineering-focused organization with balanced technical and administrative support
 - All contact details current and complete

@@ -1,10 +1,10 @@
 # Commercial — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $2,511,629.34
-- **Total Expenses (Bills + Purchases):** $220,152.31
+- **Total Invoiced (Revenue):** $2,575,364.34
+- **Total Expenses (Bills + Purchases):** $220,459.12
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,291,477.03 (Revenue exceeds expenses)
+- **Net Position:** $2,354,905.22 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – May 8, 2026
 
 ---
@@ -67,16 +67,16 @@
 | 1618 | 2024-04-19 | $13,853.10 | [451] INSTAAR Stable Isotope Lab, CU Boulder | Paid |
 
 ### Revenue Summary
-- **Total Invoiced:** $2,511,629.34
+- **Total Invoiced:** $2,575,364.34
 - **Total Collected (Paid):** $1,075,726.08
-- **Outstanding Balance:** $1,435,903.26
+- **Outstanding Balance:** $1,499,638.26
   - **Four invoices from May 8, 2026 (By Light Halo):** $223,258.00 (Invoices #1754–1757)
     - Invoice #1757 ($63,735.00): Two (2) built out Halo platforms ready for car launch demo
     - Invoice #1756 ($47,894.00): Design tested Halo airframe and CAD step files
     - Invoice #1755 ($63,735.00): Two (2) built out Halo platforms ready for car launch demo
     - Invoice #1754 ($47,894.00): Design tested Halo airframe and CAD step files
   - **One invoice from May 8, 2026 (IRISS, CU Boulder):** $664.98 (Invoice #1759)
-  - **Other outstanding invoices:** $1,211,980.28
+  - **Other outstanding invoices:** $1,275,715.28
 
 ---
 
@@ -91,19 +91,20 @@
 
 ---
 
-### **Indirect Costs (General & Administrative — Tariffs/Import Duties)**
-**Total: $228.36** | 1 transaction | Largest item: $152.24
+### **Shipping/Freight (Direct Cost)**
+**Total: $248.65** | 1 transaction | Largest item: $248.65
 
-#### Tariff & Import Duties
-- **Purchase (2026-04-30):** $228.36 (PayPal)
-  - $152.24 — Duties fee for BlueBird Shipment (IDIQ allocation)
-  - $30.45 — Duties fee for BlueBird Shipment (Sasquatch S0s allocation)
-  - $45.67 — Duties fee for BlueBird Shipment (Future sales of 6 S0s allocation)
+#### Direct Cost Shipping, Freight & Delivery
+- **Purchase – FedEx Shipment (2026-05-05):** $310.81 (total)
+  - $207.21 — Shipment from Alerion Tech in Spain to BST (Items from MP Jet, order #09449)
+  - $41.44 — Allocation to Sasquatch S0s project
+  - $62.16 — Allocation to Inventory Asset (future sales of 6 S0s)
+  - **Direct cost allocation (DC-DC-Direct Cost Shipping):** $248.65
 
 ---
 
 ### **Materials & Supplies (Direct Cost Purchases)**
-**Total: $70,659.57** | 5 transactions | Largest item: $780.00
+**Total: $70,746.82** | 6 transactions | Largest item: $780.00
 
 #### Direct Cost Purchases
 - **Purchase #KDE17135 (2026-04-20):** $780.00
@@ -121,16 +122,7 @@
 - **Purchase #64090547 (2026-04-29):** $112.93
   - Direct cost materials allocation (By Light items portion)
 
----
-
-### **Other Expenses**
-**Total: $147,273.55** | Multiple transactions
-
-#### Other Unallocated Costs
-- Various purchases and allocations not yet categorized into primary cost buckets
-
----
-
-## Monthly Spend by Category
-
-| Month | Subcontractors | Materials & Supplies |
+- **Purchase #68514 (2026-05-04):** $87.44
+  - $58.29 — Direct cost purchases
+  - $11.66 — Direct cost purchases
+  - $17.49 — Inventory

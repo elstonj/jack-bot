@@ -1,94 +1,92 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 35 (33 new + 2 existing)
-- **Date range:** 1 May – 5 May 2026
-- **Volume:** ~7 emails per day (high activity during May 4-5)
+- **Total messages scanned:** 98 (63 new + 35 existing)
+- **Date range:** 1 May – 6 May 2026
+- **Volume:** ~14 emails per day (peak activity 5 May; sustained high volume through 6 May)
+- **Pattern:** Increasingly active; 6 May shows continued engagement despite being a Wednesday
 
 ## Key Correspondents
 
 ### Top Senders
-1. **Jack Elston** (elstonj@blackswifttech.com) — 9 emails received
-2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 5 emails received
-3. **Joe Cione** (joe.cione@noaa.gov) — 2 emails received
-4. **Jure Dolinar** (jure.dolinar@atmolab.eu) — 2 emails received
+1. **Jack Elston** (elstonj@blackswifttech.com) — 20+ emails received (continued escalation)
+2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 10+ emails received
+3. **Ryan Sykora** (rsykora@kofirm.com) — 5 emails received (legal escalation)
+4. **Joe Cione** (joe.cione@noaa.gov) — 2 emails received (plus large broadcast on UMS RFP)
+5. **Jure Dolinar** (jure.dolinar@atmolab.eu) — 2 emails received
+6. **Beck Cotter** (beck.cotter@blackswifttech.com) — 3 emails received
+7. **Tanay Topac** (tanaytopac@stanford.edu) — 2 emails received
+8. **Niki Schwab** (nschwab@kofirm.com) — 1 email received (legal, marked IMPORTANT)
 
-### Top Recipients
-1. **Jack Elston** (elstonj@blackswifttech.com) — 1 email sent (Maciej as sender)
-2. **Tiffany Elston** (antwine@gmail.com) — 1 email sent
-3. **mack@ucar.edu** — 1 email sent
-4. **Jure Dolinar** (jure.dolinar@atmolab.eu) — 1 email sent
+### Top Recipients (Maciej as primary recipient or cc'd)
+1. **Jack Elston** — primary looper/coordinator (Maciej consistently cc'd on critical issues)
+2. **Niki Schwab / Ko&Firm team** — legal agreement loop (new escalation)
+3. **NOAA team** (Joe Cione, Jason Dunion broadcast) — large research consortium
+4. **Daniel Prendergast, Beck Cotter** — internal technical/proposal teams
+5. **Tanay Topac** (Stanford) — data alignment collaboration
 
 ### Internal vs External
-- **Internal BST:** Jack Elston, Daniel Prendergast, Beck Cotter
-- **External academic/research:** NOAA (Joe Cione, Chidong Zhang), UCAR (Chloe Swanson, mack@ucar.edu), Stanford (Tanay Topac)
-- **External vendors/partners:** Atmolab (EU), Krateo Sky, Sky Mesa Systems, Dragoon Tech, Stra-Solutions, SkyFORA, JAIA
-- **Government:** NOAA Federal, USAF (Lt Col Ryan Rickert), NASA (jennifer.schnarr@nasa.gov), DOE
+- **Internal BST:** Jack Elston, Daniel Prendergast, Beck Cotter, Nathaniel Straus, Meredith Needham, Ethan Domagala
+- **External academic/research:** NOAA (Joe Cione, Chidong Zhang, Jason Dunion, Jun Zhang, Annette Hollingshead), UCAR, Stanford (Tanay Topac), CU Boulder (Michael Rhodes), University of Washington (sanabia@uw.edu), Embry Riddle (Josh Wadler)
+- **External vendors/partners:** Atmolab (EU), Krateo Sky, Sky Mesa Systems, TB2 Aerospace (Hank Scott), CoVar (Nathan Varberg)
+- **Government:** NOAA Federal, USAF (Lt Col Ryan Rickert), NASA (Jennifer Schnarr), USGS (Matthew Burgess), DOE/PNNL (Rolanda Jundt), ONR (Navy)
+- **Legal:** Ko&Firm (Nadia Bryan, Niki Schwab, Ryan Sykora, Dan Fredrickson)
+- **Consulting:** EKase Consulting (Ed Kase — TABA status, NASA Phase II tracking)
+- **Personal/Professional:** JJC (josephjcione@gmail.com) — CV referral network
 
 ## Topic Patterns
 
 ### Recurring Subjects
-- **UMS (Unmanned Systems) Procurement:** "FY2027 UMS Services Requests for Proposals" — appears multiple times, high importance
-- **C-UAS / Drone-to-Drone:** Military/defense applications
-- **Atmolab Camera System:** Multi-party technical discussion (Maciej, Prendergast, Dolinar, Krateo Sky)
-- **RFI Responses:** "(U) [Non-DoD Source] Re: RFI S0" — unclassified DoD-adjacent work
-- **S0™ VTOL:** Product/platform discussion with NOAA
-- **Employment/Legal:** "Black Swift - Employment Agreement" (with law firm Ko&Firm)
-- **Company Disclosure Schedules:** Legal/compliance (existing pattern continues)
-- **RD41 tubes:** Technical component discussion with UCAR
-- **MHP data alignment:** Data standardization project
-- **M2 update:** Internal project status
-- **TABA status:** Monthly tracking metric
+- **UMS (Unmanned Systems) Procurement:** "FY2027 UMS Services Requests for Proposals" — multi-party government solicitation (NOAA as lead)
+- **Legal/Corporate Governance (ESCALATED):**
+  - "Black Swift - Employment Agreement" — active with Niki Schwab, Ryan Sykora
+  - "Black Swift - tax comments" — tax structuring discussion (Ko&Firm)
+  - "Black Swift - MIPA" — appears to be corporate/IP agreement
+  - "Company Disclosure Schedules" — board-level compliance
+  - "Checking In" — general legal/governance check-in
+- **S0™ VTOL Discussion:** Active product/platform discussion with NOAA (Chidong Zhang); Jack Elston as coordinator
+- **Atmolab Camera System:** Multi-party technical vendor negotiation (Prendergast, Dolinar, Krateo Sky coordination)
+- **RFI Responses:** "(U) [Non-DoD Source] Re: RFI S0" — unclassified DoD-adjacent technical responses
+- **SBIR Programs:**
+  - "Army modular UAS payload SBIR" — Prendergast leading vendor coordination (Sky Mesa Systems, etc.)
+  - "NASA Phase II" — tracked by EKase Consulting
+- **ONR Proposal:** University collaboration (Sanabia @ UW, Prendergast, Cotter)
+- **Naval/Military Collaboration:**
+  - "Unmanned test platform collaboration with US Navy" — Jack Elston forwarding to Maciej + Prendergast
+  - "Home Combatant Command" — USAF Lt Col Rickert coordination
+- **M2 Update:** Internal project/product status (Cotter, Sparling, Domagala)
+- **MHP Data Alignment:** Stanford (Topac) — data standardization/integration project
+- **TABA Status:** Tracking metric via EKase Consulting
+- **C-UAS / Drone-to-Drone:** Military defense application (Prendergast-to-CoVar)
+- **Vuncan Demo:** TB2 Aerospace (Hank Scott) — demonstration/test event
 
 ### External Organizations Mentioned
-- **NOAA** (dominant): Joe Cione, Chidong Zhang — weather/atmospheric research focus
-- **UCAR/University of Colorado:** Academic partnership
-- **Ko&Firm** (nbryan@kofirm.com, Niki Schwab): Legal counsel
-- **Krateo Sky:** Camera/sensor integration partner
-- **Atmolab:** EU camera system vendor
-- **Stanford:** Tanay Topac (technical collaboration)
-- **USAF/DoD:** RFI responses, procurement activity
-- **NASA:** jennifer.schnarr@nasa.gov (AFA RFI)
+- **NOAA (dominant):** Joe Cione, Chidong Zhang, Jason Dunion, Jun Zhang, Annette Hollingshead — weather/hurricane research; UMS RFP coordinator
+- **US Navy:** Direct collaboration on unmanned test platform; Josh Cossuth, Navy Research Lab contacts
+- **USAF:** Lt Col Ryan Rickert (53 WRS/ARWO), Amanda Nelson — combatant command coordination
+- **NASA:** Jennifer Schnarr (AFA RFI), Phase II SBIR program
+- **USGS:** Matthew Burgess (DOI UxS Conference)
+- **Stanford University:** Tanay Topac (MHP data alignment, high-priority)
+- **University of Washington:** Elizabeth Sanabia (ONR proposal)
+- **Ko&Firm Law Firm:** Nadia Bryan, Niki Schwab, Ryan Sykora, Dan Fredrickson — employment, tax, corporate governance
+- **EKase Consulting:** Ed Kase — tracking TABA status, NASA Phase II progression
+- **Krateo Sky, Sky Mesa Systems, Atmolab, TB2 Aerospace:** Hardware/sensor vendors
+- **Dragoon Tech, Stra-Solutions, SkyFORA, JAIA:** Multi-vendor UMS RFP consortium
+
+### New Government/Research Contacts
+- **Jason Dunion (NOAA/AOML HRD):** Large broadcast on NASA MTS training; Maciej invited directly
+- **Rolanda Jundt (PNNL/DOE):** ARM Account Review action item (deadline May 13)
+- **Clipper Defense Awards:** Kevin Ross contacted Maciej directly on "Army UAS/C-UAS" topic
 
 ## Communication Patterns
 
 ### Timing
-- Heavy activity **Monday 4 May** and **Tuesday 5 May** (bulk of emails)
-- Weekend activity: Saturday 2 May (existing pattern), Sunday 3 May (CV submission, personal contact)
-- Late night sends: Jack Elston sending to Maciej at 01:22–02:14 on Tue 5 May (overnight work)
+- **Peak day: Tuesday, 5 May** — sustained 40+ emails from 02:27 AM through evening (overnight work continues)
+- **Jack Elston overnight sends:** Multiple sends at 02:27–02:29 AM (early Tuesday morning)
+- **Immediate responses:** Ken-hour turnaround on legal matters, RFI/RFP responses, technical coordination
+- **6 May continuation:** Newsletter/promotional traffic (IntechOpen, Leaders Week London); administrative receipts (T-MOTOR delivery, Neat N Tidy)
 
 ### Email Lists & Groups
-- **NOAA group email:** Joe Cione broadcast to large team (Dragoon, Stra-Solutions, SkyFORA, JAIA, Embry Riddle) on FY2027 UMS RFP
-- **Ko&Firm legal team:** Jack Elston looping multiple partners + Maciej on company agreements
-- **Automated/System emails:** DOE PAMS (system updates), TeamTriNet (promotional), Google Business Profile (review notification)
-
-### Key Mailing Patterns
-- **Jack Elston acts as primary coordinator:** forwards RFIs, RFPs, status updates to Maciej
-- **Maciej receives but rarely initiates:** appears as recipient in chains; when he does send, it's targeted (to Jure Dolinar, Jack, Tiffany)
-- **Newsletter:** The Cryptonite Weekly (existing pattern, tech/venture news)
-
-## Key Relationships
-
-### Closest Internal Collaborators
-1. **Jack Elston** (elstonj@blackswifttech.com) — primary contact; loops Maciej into DoD/government RFI/RFP responses, legal matters, project updates
-2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — technical collaboration on sensors/systems (Atmolab camera, USAF RFI, payload SBIR)
-3. **Beck Cotter** (beck.cotter@blackswifttech.com) — proposal submissions, stakeholder coordination (NASA, Kevin Rozmiarek)
-
-### Key External Technical Partners
-- **Jure Dolinar (Atmolab):** Active vendor negotiation on camera system integration
-- **Joe Cione (NOAA):** Government research customer; coordinates multi-vendor RFP distribution
-- **Kevin Rozmiarek (CU Boulder):** "Black Swift S3" product discussion
-
-### External Legal/Business
-- **Ko&Firm** (Nadia Bryan, Niki Schwab, Ryan Sykora, Dan Fredrickson): Employment agreements, company disclosures
-
-## Notable Observations
-
-1. **Government Contracting Focus:** Heavy DoD/NASA/NOAA activity; multiple RFI/RFP responses suggest active pursuit of government contracts
-2. **Sensor/Hardware Integration:** Atmolab camera system is active development thread; RD41 tubes and MHP data suggest sensor payload work
-3. **Employment Activity (New):** Legal involvement with Ko&Firm on employment agreements suggests recent hiring or restructuring
-4. **University Partnerships:** NOAA, UCAR, Stanford, CU Boulder — academic research tie-ins for UAS work
-5. **Role Ambiguity:** Maciej appears as stakeholder/decision-maker in technical matters but not as primary initiator; Jack Elston functions as point-person
-6. **Personal/Professional Boundary:** Interaction with Tiffany Elston on "Boulder Airport" civic matter suggests personal/professional overlap with leadership
-7. **Personal Network:** Email from "JJC" (josephjcione@gmail.com) re: "Jaxon's CV" — possible family connection or personal referral (separate from Joe Cione NOAA)
-8. **Overnight Operations:** Jack Elston's late-night sends to Maciej (early Tue morning) suggest active deal/response timing pressure
+- **NOAA Large Broadcast:** Joe Cione's FY2027 UMS RFP distributed to ~25+ recipients (multi-vendor consortium)
+- **NASA MTS Training Broadcast:** Jason Dunion to ~60 recipients (Maciej invited directly as primary attendee, not cc'd passively)
+- **Ko&Firm Legal Loop

@@ -4,14 +4,16 @@
     "[032-3] Sasquatch S0s x 4"
   ],
   "period": {
-    "start": "2026-04-30",
-    "end": "2026-05-01"
+    "start": "2026-05-03",
+    "end": "2026-05-06"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 30.45,
+    "expenses": 53.1,
     "by_category": {
-      "GENERAL & ADMINISTRATIVE:Tariff/Import Duties": 30.45
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 33.15,
+      "Inventory Asset": 10.62,
+      "DIRECT COSTS:DC-Direct Cost Purchases": 9.33
     }
   },
   "invoices": [],
@@ -19,29 +21,57 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-04-30",
+      "date": "2026-05-05",
       "doc_number": "",
-      "total": 228.36,
-      "attributed": 30.45,
+      "total": 310.81,
+      "attributed": 41.44,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "Paid via paypal",
+      "memo": "FEDEX37097183 - 4699",
       "lines": [
         {
-          "amount": 152.24,
-          "account": "GENERAL & ADMINISTRATIVE:Tariff/Import Duties",
-          "description": "Duties fee for BlueBird Shipment (IDIQ)"
+          "amount": 207.21,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipment from Alerion Tech in Spain to BST. (Items are from MP Jet, order #09449)"
         },
         {
-          "amount": 30.45,
-          "account": "GENERAL & ADMINISTRATIVE:Tariff/Import Duties",
-          "description": "Duties fee for BlueBird Shipment (Sasquatch)"
+          "amount": 41.44,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": ""
         },
         {
-          "amount": 45.67,
-          "account": "GENERAL & ADMINISTRATIVE:Tariff/Import Duties",
-          "description": "Duties fee for BlueBird Shipment (Future sales of 6 S0s)"
+          "amount": 62.16,
+          "account": "Inventory Asset",
+          "description": "For future sales of 6 S0s"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-04",
+      "doc_number": "68514",
+      "total": 87.44,
+      "attributed": 11.66,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 58.29,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 11.66,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 17.49,
+          "account": "Inventory Asset",
+          "description": "For future sales of 6 S0s"
         }
       ]
     }

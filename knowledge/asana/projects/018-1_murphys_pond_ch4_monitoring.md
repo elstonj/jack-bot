@@ -7,9 +7,9 @@
 - **Status:** **Active but at critical risk.** Per Jack Elston (2026-04-20): Flight #3 confirmation past deadline and unresolved; Murphy's Pond competes with INSTAAR x2 and Ottawa demo for scheduling priority. Execution order is "whatever actually happens first" among competing projects. Timing and execution remain uncertain.
 - **Team members involved:** Jack Elston (lead technical/flight coordination), Maciej Stachura (payload configuration), Nate Straus (software), Meredith O'hara Needham (communications), Beck Cotter (owner/project lead)
 - **Risk signals:** 
-  - **Flight #3 confirmation deadline (2026-04-10) OVERDUE** — scheduling unresolved as of 2026-04-20 (Jack Elston); competing with INSTAAR x2 and Ottawa demo
-  - S2 rental order window (2026-06-01) approaching; travel not yet scheduled despite "Training/Travel Needed: Y"
-  - Unresolved technical issues: FLIR triggering failures, methane payload data rate investigation pending
+  - **Flight #3 confirmation deadline (2026-04-10) OVERDUE** — scheduling unresolved as of 2026-04-20 (Jack Elston); competing with INSTAAR x2 and Ottawa demo for priority
+  - S2 rental order window (2026-06-01) approaching; training/travel required but **travel not yet scheduled** (Asana task shows "Travel Scheduled: N")
+  - Unresolved technical issues: FLIR triggering failures, methane payload data rate investigation pending, camera overlap (FLIR + A5100) target 80% not yet configured
   - Funding expires 2026-12-31; project execution timeline uncertain and may be deprioritized relative to competing projects
 
 ## Key Deliverables & Milestones
@@ -32,7 +32,7 @@
   - **Unassigned:** 3 tasks
     - Flight #3 milestone (Due: 2026-03-02)
     - Bassil El Masri contact record (High priority, no due date)
-    - S2 rental order — 2 units S0 VTOL, training/travel needed, travel not yet scheduled (Due: 2026-06-01)
+    - S2 rental order — 2 units S0 VTOL, training/travel needed, **travel not yet scheduled** (Due: 2026-06-01)
 - **Notable patterns:** Jack Elston concentrated on critical flight scheduling and technical troubleshooting; outstanding technical issues (FLIR triggering, camera overlap configuration, methane payload data rate) block readiness; scheduling dependency creates execution uncertainty against competing projects
 
 ## Recent Activity

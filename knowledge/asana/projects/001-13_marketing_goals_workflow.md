@@ -63,12 +63,10 @@ Goal management workflow template used to brainstorm, draft, and approve BST's m
 - Content refresh needed on soil moisture whitepaper for business development efforts
 - Work references internal Asana project (1207199631174002) for S0 documentation
 
----
-
 ## Archive Note
 This project successfully established BST's marketing framework, digital infrastructure, and strategic positioning within the geoscience and UAS communities through 2025. It is no longer active. New marketing goals are tracked in subsequent project cycles.
 
 ---
 
-## ⚠️ Clarification
-**Note:** Team feedback from April 2026 (from Maciej) references active technical work on EMASS flight tests, S0-VTOL debugging, S3 work, and Mustang Progress. These belong to **a different, active engineering project** — not this archived marketing goals workflow. This knowledge file covers only the completed marketing project cycle (May 2024 – April 2025).
+## ⚠️ Important Clarification
+**This archived project is separate from active technical engineering work.** Team feedback from April 2026 (Maciej) references concurrent active projects with EMASS flight tests, S0-VTOL debugging, S3 work, and Mustang progress — those belong to different, active engineering initiatives and should not be confused with this completed marketing goals workflow (May 2024 – April 2025).

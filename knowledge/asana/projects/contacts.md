@@ -23,7 +23,7 @@ This is a contact database, not a project with deliverables. Contains 103+ conta
   - Real estate
 
 ## Task Summary
-- **Total tasks**: 2 open, 0 completed
+- **Total tasks**: 1 open, 0 completed
 - **Tasks by assignee**: All unassigned (contact records only)
 - **Data structure**: Each "task" represents a contact with structured custom fields:
   - Company/Agency/Name
@@ -36,6 +36,7 @@ This is a contact database, not a project with deliverables. Contains 103+ conta
   - Notes with context (roles, status, special instructions)
 
 ### Recently Updated/Added Contacts
+- **Phase 1 Aviation** — Contractor for aircraft construction; Sean Cole (contact), Sean@phase1av.com, (541) 771-7233; USPS: 17493 N. Gaffney Ave, Nampa ID 83687; Non-USPS shipments: 514 Dishman Pl, Caldwell ID 83605; https://phase1av.com/
 - **Lee Skidmore (Rubicon Aerospace LLC)** — UAV manufacturing subcontractor; previously owned Northwind Composites; lee@rubiconaerospace.com, (208) 290-5585; 1323 N. Division Ave, Suite 101, Sandpoint, ID 83864
 - **Northwind Composites (CLOSED)** — Lee Skidmore contact; Lee@northwindcomp.com; 1323 N. Division Ave Suite 103, Sandpoint ID 83864; (208) 290-5585; https://northwindcomposites.com/
 - **Kay Rufty (CLOSED)** — NASA AREN contractor; kayrufty@gmail.com, Kay.rufty@blackswifttech.com; no longer working with BST as of mid-2025
@@ -83,13 +84,4 @@ This is a contact database, not a project with deliverables. Contains 103+ conta
 - **S2**: Prof. Fu Kuo Chang (Stanford), Tanay Topac (Stanford)
 - **S3**: Christopher Hartman (University of Maryland Eastern Shore), Trenton McKibben (NexTech Solutions LLC)
 - **E2**: Daniel Hesselius (Univ. of Colorado)
-- **Aeropod**: Geoffrey Bland (NASA Ames)
-- **Design/prototyping**: Anthony Brescia (NAVAIR), Angel Ruiz-Reyes (NAVAIR)
-
-### Service Providers & Key Vendors
-
-**Communications/ISP**: 
-- Comcast (Cobb Vaughan, Account Manager) — 720-924-3070
-
-**Freight/Shipping**: 
-- Aeronet Worldwide (new primary shi
+- **Aeropod**: Geoffrey Bland (NASA 

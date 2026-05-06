@@ -87,6 +87,7 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Real-time telemetry and flight plan generation capabilities
 - Channel 1 and Channel 2 radio configuration with dynamic switching capability
 - Dual-radio capability being added to new ground stations under procurement (~1 hour work for firmware/artwork updates) (April 21, 2026)
+- P3 GCS with BOM documented in 2026 planning sheet (referenced May 5, 2026)
 
 **GCS Issues Identified and Fixed (April 7-8, 2026):**
 - Power shutdown bug: UPS driver incorrectly reporting -0.000001A causing premature power-off at 100% battery charge
@@ -96,5 +97,4 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Flight plan transmission failures: 36 failed commands during April 7 flight due to duplicate handling gap
   - Issue: UAS receiving retransmitted COMMAND while in WAITING_FOR_WAYPOINTS state causes reset
   - Duplicate handling exists for WAITING_FOR_FINAL_MAP_RX but missing for WAITING_FOR_WAYPOINTS
-  - Requires code fix to handle retransmitted commands gracefully
-- Tablet connectivity losses: SYSTEM_INIT requests flooding at 574 attempts
+  - Requires code fix

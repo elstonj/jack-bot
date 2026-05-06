@@ -2,39 +2,43 @@
   "project_code": "_unclassified",
   "qbo_class_names": [
     "",
-    "Black Swift Technologies:[001-22] Aeropods Commercial"
+    "(035-1) Adonis"
   ],
   "period": {
-    "start": "2026-05-01",
-    "end": "2026-05-02"
+    "start": "2026-05-03",
+    "end": "2026-05-06"
   },
   "totals": {
-    "revenue": 0.0,
-    "expenses": 9517.14,
+    "revenue": 34000.0,
+    "expenses": 4501.17,
     "by_category": {
-      "Inventory Asset": 7513.94,
-      "DIRECT COSTS:DC-Direct Cost Subcontractors": 1990.83,
-      "RESEARCH & DEVELOPMENT": 9.74,
-      "FACILITIES:FA-Office Supplies": 2.63
+      "GENERAL & ADMINISTRATIVE:GA-Accounting Fees": 1200.0,
+      "Interest Income": 993.46,
+      "FRINGE:FR-Administrative Fees (Payroll)": 826.43,
+      "Inventory Asset": 701.69,
+      "UNALLOWABLE GA:UC-Meals & Entertainment": 427.87,
+      "FRINGE:FR-Employee Healthcare": 288.0,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 49.73,
+      "DIRECT COSTS:DC-Direct Cost Purchases": 13.99
     }
   },
   "invoices": [],
   "bills": [
     {
       "type": "Bill",
-      "date": "2026-05-01",
-      "doc_number": "",
-      "total": 1990.83,
-      "attributed": 1990.83,
-      "vendor": "Ted Miles",
+      "date": "2026-05-04",
+      "doc_number": "104",
+      "total": 1200.0,
+      "attributed": 1200.0,
+      "vendor": "Claudia Behnke",
       "customer": "",
       "balance": 0.0,
       "memo": "",
       "lines": [
         {
-          "amount": 1990.83,
-          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
-          "description": "Aeropods work (March & April 2026) 32 hours @ $62.20"
+          "amount": 1200.0,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Accounting Fees",
+          "description": "Aprili 2026 (12hrs @ $120)"
         }
       ]
     }
@@ -42,136 +46,188 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-05-01",
-      "doc_number": "2026050283273",
-      "total": 359.97,
-      "attributed": 359.97,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "For future S3 Sales",
-      "lines": [
-        {
-          "amount": 359.97,
-          "account": "Inventory Asset",
-          "description": "NS20*6.2 Prop-2PCS/PAIR"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-01",
+      "date": "2026-05-05",
       "doc_number": "",
-      "total": 58.16,
-      "attributed": 12.37,
+      "total": 310.81,
+      "attributed": 62.16,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "",
+      "memo": "FEDEX37097183 - 4699",
       "lines": [
         {
-          "amount": 45.79,
-          "account": "RESEARCH & DEVELOPMENT",
+          "amount": 207.21,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipment from Alerion Tech in Spain to BST. (Items are from MP Jet, order #09449)"
+        },
+        {
+          "amount": 41.44,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
           "description": ""
         },
         {
-          "amount": 12.37,
-          "account": "FACILITIES:FA-Office Supplies",
-          "description": "Paper towels/toilet paper"
+          "amount": 62.16,
+          "account": "Inventory Asset",
+          "description": "For future sales of 6 S0s"
         }
       ]
     },
     {
       "type": "Purchase",
-      "date": "2026-05-01",
+      "date": "2026-05-04",
       "doc_number": "",
-      "total": 1700.0,
-      "attributed": 1700.0,
+      "total": 314.08,
+      "attributed": 314.08,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "For Future S3 sales\nNo Asana request - Josh contact them directly via email",
+      "memo": "BUSINESS TO BUSINESS ACH PEOPLE CENTER    GSUITE_RES        VWWKW9R24OGQW3V BUSINESS CHECKING",
       "lines": [
         {
-          "amount": 1700.0,
-          "account": "Inventory Asset",
-          "description": "SA112 x 200 (Quote #00001879) - for future S3 sales"
+          "amount": 314.08,
+          "account": "FRINGE:FR-Administrative Fees (Payroll)",
+          "description": "BUSINESS TO BUSINESS ACH PEOPLE CENTER    GSUITE_RES        VWWKW9R24OGQW3V BUSINESS CHECKING"
         }
       ]
     },
     {
       "type": "Purchase",
-      "date": "2026-05-01",
-      "doc_number": "9102-034",
-      "total": 1689.05,
-      "attributed": 1689.05,
+      "date": "2026-05-04",
+      "doc_number": "",
+      "total": 512.35,
+      "attributed": 512.35,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "No Asana Request - Josh put in order directly.",
+      "memo": "BUSINESS TO BUSINESS ACH PEOPLE CENTER    BILL              BGMYZO8XZM24KWR BUSINESS CHECKING",
       "lines": [
         {
-          "amount": 1689.05,
-          "account": "Inventory Asset",
-          "description": "For upcoming sales of S3"
+          "amount": 512.35,
+          "account": "FRINGE:FR-Administrative Fees (Payroll)",
+          "description": "BUSINESS TO BUSINESS ACH PEOPLE CENTER    BILL              BGMYZO8XZM24KWR BUSINESS CHECKING"
         }
       ]
     },
     {
       "type": "Purchase",
-      "date": "2026-05-01",
-      "doc_number": "4164-549",
-      "total": 2262.54,
-      "attributed": 2262.54,
+      "date": "2026-05-04",
+      "doc_number": "",
+      "total": 288.0,
+      "attributed": 288.0,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "No Asana Request - Josh put in order directly.",
+      "memo": "BUSINESS TO BUSINESS ACH Cont Rippling    HSAcontrbt               1773616  Black Swift Technologi",
       "lines": [
         {
-          "amount": 2262.54,
-          "account": "Inventory Asset",
-          "description": "For upcoming sales of S3"
+          "amount": 288.0,
+          "account": "FRINGE:FR-Employee Healthcare",
+          "description": "BUSINESS TO BUSINESS ACH Cont Rippling    HSAcontrbt               1773616  Black Swift Technologi"
         }
       ]
     },
     {
       "type": "Purchase",
-      "date": "2026-05-01",
-      "doc_number": "68490",
-      "total": 1358.86,
-      "attributed": 1358.86,
+      "date": "2026-05-04",
+      "doc_number": "",
+      "total": 427.87,
+      "attributed": 427.87,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TST*VERDE - BOULDER - 4617",
+      "lines": [
+        {
+          "amount": 427.87,
+          "account": "UNALLOWABLE GA:UC-Meals & Entertainment",
+          "description": "Lunch for Krateo Sky and 53rd visit"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-04",
+      "doc_number": "",
+      "total": 993.46,
+      "attributed": 993.46,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "CREDIT-REWARD REDEMPTION - 4617",
+      "lines": [
+        {
+          "amount": 993.46,
+          "account": "Interest Income",
+          "description": "CREDIT-REWARD REDEMPTION - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-04",
+      "doc_number": "YX1724706",
+      "total": 685.76,
+      "attributed": 685.76,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 1358.86,
-          "account": "Inventory Asset",
-          "description": "For future S3 Sales"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-01",
-      "doc_number": "1J585099",
-      "total": 143.52,
-      "attributed": 143.52,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 143.52,
+          "amount": 685.76,
           "account": "Inventory Asset",
           "description": "For future S3 sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-04",
+      "doc_number": "68514",
+      "total": 87.44,
+      "attributed": 17.49,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 58.29,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 11.66,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": ""
+        },
+        {
+          "amount": 17.49,
+          "account": "Inventory Asset",
+          "description": "For future sales of 6 S0s"
         }
       ]
     }
   ],
   "purchase_orders": [],
-  "payments": []
+  "payments": [
+    {
+      "type": "Payment",
+      "date": "2026-05-04",
+      "doc_number": "",
+      "total": 34000.0,
+      "attributed": 34000.0,
+      "vendor": "",
+      "customer": "(035-1) Adonis",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 34000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    }
+  ]
 }

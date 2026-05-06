@@ -1,61 +1,79 @@
 # Slack Channels Overview
 
-Last scanned: 2026-05-05 02:16
+Last scanned: 2026-05-06 02:23
 
-Total channels scanned: 8
+Total channels scanned: 9
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 2 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#25_1-navy-sttr-boundary-layer** -- 1 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
-- **#emass** -- 4 messages -- [emass.md](emass.md)
+- **#commercial-sales** -- 2 messages -- [commercial-sales.md](commercial-sales.md)
 - **#emass-bst** -- 4 messages -- [emass-bst.md](emass-bst.md)
-- **#flight-testing** -- 11 messages -- [flight-testing.md](flight-testing.md)
-- **#general** -- 5 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 11 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#s3** -- 19 messages -- [s3.md](s3.md)
+- **#general** -- 8 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 9 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#marketing** -- 1 messages -- [marketing.md](marketing.md)
+- **#operations** -- 2 messages -- [operations.md](operations.md)
+- **#s0-vtol** -- 14 messages -- [s0-vtol.md](s0-vtol.md)
+- **#s3** -- 20 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 5 messages -- [sbir-hurricane.md](sbir-hurricane.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Strategic Channel Overview
+# Black Swift Technologies - Cross-Channel Strategic Overview
 
-## Core Project Clusters
+## Active Projects
 
-### Government-Funded R&D Projects
-- **Navy SBIR (Magnetometer)**: QuSpin magnetometer integration for magnetic anomaly detection (MAD) on aircraft platforms
-- **Navy STTR (Boundary Layer)**: Atmospheric sensing for hazardous weather on S0 UAS platform
-- **eMASS Integration**: Custom AI hardware and energy management system (ECSDoT) evaluation on E2 platform
+**Aircraft Systems (Primary Focus)**
+- **S0/S0-VTOL**: Hurricane reconnaissance unmanned aircraft (SBIR-funded). Primary development vehicle with extensive flight testing and customer delivery prep
+- **S3**: Long-endurance VTOL hybrid fixed-wing/quadcopter with tilting rotors (2-3 hour target endurance)
+- **E2**: Platform for eMASS AI energy management system integration (ECSDoT hardware)
+- **E2, S2, S3**: Commercial sales variants serving universities, government (NASA, NOAA), and international customers
 
-### Internal Platform Development
-- **S3 VTOL**: Long-endurance hybrid fixed-wing/quadcopter with tilting rotors (2-3 hour target)
-- **Flight Testing**: Cross-platform testing hub covering S-series, E2, S0, S1-VTOL, and S3 aircraft
+**Cross-Project Integration**
+- eMASS AI collaboration (#emass-bst) on autopilot/simulation and AI model training for E2 platform
+- Consistent technical architecture leveraging Jack Elston's autopilot/simulation expertise across platforms
 
-### Business Development
-- **Grants & Funding**: Federal agency proposals (NASA, DOD, NOAA, USDA) and award management
+## Key Decision-Makers & Roles
 
----
+| Role | Primary Channels | Responsibility |
+|------|------------------|-----------------|
+| **Jack Elston** | General, Grants, Operations, Marketing | Leadership, strategic decisions, proposal direction |
+| **Maciej** | Multiple technical channels | Project oversight, testing, proposal support |
+| **Joshua Fromm** | S0-VTOL, S3, Operations | Hardware design, shop operations |
+| **Dan Prendergast** | General, Commercial-Sales, Grants | Business development, proposals |
+| **Meredith Needham** | Grants, Operations | Budget, finance, administration |
+| **Sam Hild** | S3, S0-VTOL | Firmware development |
 
-## Key Personnel & Roles
+## Recurring Decision Patterns
 
-| Person | Primary Function |
-|--------|-----------------|
-| Jack Elston | Leadership, firmware/autopilot decisions, grant strategy |
-| Maciej | Project oversight, flight testing, technical proposals |
-| Joshua Fromm | S3 lead engineer, QA, component sourcing |
-| Dan Prendergast | Business development, EMASS lead, proposals |
-| Sam Hild | Firmware development |
-| Meredith Needham | Budget/admin, Navy liaison |
-
----
+1. **Funding-Driven**: Heavy SBIR/government grant activity (#grants-and-funding) influences technical priorities and timelines
+2. **Hardware-First**: Physical testing and flight operations drive project milestones (#sbir-hurricane, #s0-vtol, #s3)
+3. **Centralized Leadership**: Jack Elston provides cross-channel strategic direction with task delegation to subject matter experts
+4. **Integration Focus**: Projects overlap deliberately (shared engineers, reused autopilot architecture, common platforms)
 
 ## Cross-Channel Themes
 
-**Active Parallel Development**: Multiple government contracts running simultaneously with internal VTOL program (S3)
+**Technical Continuity**
+- Autopilot/firmware architecture shared across S0, S3, E2 platforms
+- Jack Elston and Sam Hild appear across hardware development channels indicating standardized technical approach
 
-**Integration Focus**: eMASS and Navy projects both emphasize hardware integration and testing on existing platforms
+**Commercial-to-Technical Feedback Loop**
+- Sales commitments (#commercial-sales) drive technical milestones in development channels
+- Customer requirements (university research, government agencies) inform project specifications
 
-**Flight Test Dependency**: Navy projects and eMASS rely heavily on #flight-testing coordination for validation
+**Grant-Driven Timeline Pressure**
+- #grants-and-funding decisions cascade to #sbir-hurricane and #s0-vtol activity
+- Budget cycles and proposal deadlines create coordination points across operations
 
-**Leadership Centralization**: Jack Elston appears as decision-maker across grants, firmware, and strategic initiatives
+**People & Continuity**
+- Consistent core team (Elston, Fromm, Maciej, Prendergast) across 2020-2026 period indicates stability
+- Specialized roles (Hild on firmware, Needham on finance) prevent silos
 
-**Government Relations**: Navy projects and grants channel show structured coordination with federal agencies and program administrators
+## Operational Nexus Points
+
+- **#operations**: Central coordination hub connecting finance (Needham), hardware (Fromm), leadership (Elston), and project teams
+- **#general**: Company announcements and cross-functional visibility; ensures all channels align with leadership messaging
+- **#grants-and-funding**: Translates funding cycles into technical resource allocation across all aircraft programs
+
+## Strategic Positioning
+
+BST operates as a **vertically integrated aircraft company** with SBIR/government funding as primary revenue driver, supplemented by commercial sales to research institutions and agencies. Success depends on coordinated execution across hardware development, grant writing, and customer delivery.

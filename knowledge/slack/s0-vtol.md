@@ -3,9 +3,9 @@
 ## Overview
 This channel is primarily used for development and testing of BST's S0 VTOL aircraft - a vertical takeoff and landing aircraft capable of transitioning to forward flight. The channel covers technical discussions, flight testing, hardware debugging, and customer delivery preparation.
 
-Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan, Dan
-Activity: High activity with 1412+ messages covering approximately 2+ years of development
-Time range: Early development through May 2, 2026 (ongoing project)
+Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan Domagala, Dan
+Activity: High activity with 1420+ messages covering approximately 2+ years of development
+Time range: Early development through May 5, 2026 (ongoing project)
 
 ## Key Decisions
 
@@ -54,17 +54,28 @@ Time range: Early development through May 2, 2026 (ongoing project)
 - DShot protocol attempted as mitigation for the underlying scaling issue but made failure worse
 - Sam conducting oscilloscope testing to determine if cause is related to the identified issue (May 2, 2026)
 
+**Test Rig Motor Failure (May 5, 2026):**
+- Brief motor command freeze (~1 second) followed by all three motor shutdown observed during overnight test run (May 5, 2026)
+- Ailerons and tail surfaces continued operating during motor shutdown event
+- Motor shutdown potentially caused by switched output to ESC from battery on autopilot (Jack Elston's working hypothesis, May 5, 2026)
+
 ## Projects & Initiatives
 
 **S0-VTOL Development (Spin-Up Phase - April-May 2026):**
 - Status: 20/50 required test flights completed for certification
 - Current phase: Intensive ground testing with instrumentation improvements before resuming flight tests
-- Recent ground testing status: No obvious CAN issues detected in latest test results; maximum command delay was 19.5ms; no Fletcher errors occurred (April 30, 2026)
+- Recent ground testing status: 
+  - No obvious CAN issues detected in latest test results; maximum command delay was 19.5ms; no Fletcher errors occurred (April 30, 2026)
+  - Overnight test run on May 5 produced motor shutdown event during operation, logs retained for analysis
+  - Sam conducting systematic testing overnight with logs being preserved for failure analysis (May 5, 2026)
 - Ground testing focus: Preparing sinusoidal loop test with appropriate instrumentation; evaluating DShot 300 telemetry for output signal logging (May 1, 2026)
 - Next steps: Order instrumentation components (ESC telemetry loggers, eRPM sensors, PWM loggers, optical RPM sensors for motors; PWM loggers and Hall effect rotation sensors for servos) while continuing current test regime
-- Major concern: Consecutive transition flight failures cannot be replicated on ground - instrumentation critical for identifying root cause
+- Major concern: Consecutive transition flight failures cannot be replicated on ground - instrumentation critical for identifying root cause; new motor shutdown event on test rig may provide diagnostic data
 - Baseline comparison: Test rig behavior now being compared against crash conditions with matched autopilot code version (0xf9eb3e6c)
-- Critical issue under investigation: ESC/PWM scaling problem causing throttle command shifts; differences in behavior between PWM and DShot protocols suggest hardware-level issue rather than software problem (May 2, 2026)
+- Critical issue under investigation: 
+  - ESC/PWM scaling problem causing throttle command shifts; differences in behavior between PWM and DShot protocols (May 2, 2026)
+  - Motor command freeze followed by shutdown event on test rig (May 5, 2026)
+  - Potential ESC-to-battery switched output issue on autopilot (May 5, 2026)
 - **Pending Decision (May 1-2, 2026):** Whether to prioritize parachute system integration and resume flight testing if underlying ESC scaling issue can be resolved, versus continuing extended ground testing phase
 
 **S1-20 Aircraft Reference Data:**
@@ -88,25 +99,12 @@ Time range: Early development through May 2, 2026 (ongoing project)
 - Provided DShot telemetry decoding library reference (May 1, 2026)
 - Offered to develop output signal logger for AP if needed (May 1, 2026)
 - Coordinate integrated testing setup with instrumentation logging priority
+- Troubleshooting test rig motor shutdown event: attempted CAN disconnect/reconnect, hub power reset, and ESC power reset to recover throttle command (May 5, 2026)
+- Investigating hypothesis that motor shutdown caused by switched output to ESC from battery on autopilot (May 5, 2026)
 
 **Sam Hild:**
 - Execute ground testing with current setup before deploying advanced instrumentation (April 30, 2026)
 - Preserve crashed autopilot code version during ground testing iterations
 - Deploy PWM sensors as minimum instrumentation requirement before proceeding with more complex tests (April 30, 2026)
 - Investigating DShot version on test rig and implications for instrumentation strategy (May 1, 2026)
-- **Conducting oscilloscope testing to determine root cause of throttle command scaling issue (May 2, 2026)**
-- Build 3 new aircraft with updated boards for delivery
-- Set up independent RPM logging capability
-
-**Maciej:**
-- Generate sinusoidal firmware version for crashed S0 autopilot code if requested by Sam (offered April 30, 2026)
-- Continue parameter corruption debugging
-- Coordinate S0-VTOL ground testing plan in conjunction with spin-up
-- Lead ground testing methodology alignment between S0 and S3 programs
-- **Investigating S01006 CAN termination issue as potential cause of recent crash (May 1, 2026)**
-- **Tracking back-to-back failure pattern: throttle command shift (~30% in PWM, worse in DShot) and potential ESC/PWM scaling issue (May 2, 2026)**
-
-**Alex Lomis:**
-- Manage instrumentation documentation in Asana task (April 30, 2026)
-- Instrumentation specification includes: ESC telemetry + eRPM + PWM logger + optical RPM for motors; PWM logger, Hall effect rotation sensors, couplers for servos; ESC telemetry for power data
-- Coordinate ordering of instrumentation components with
+- Conducting oscilloscope testing to

@@ -23,8 +23,8 @@ Provide continuous high-resolution infrared (IR) imagery and in-situ gas samplin
 | Final Report & NTSR | Jack Elston | 8/19/25 | ✓ 7/23/25 |
 
 ## Task Summary
-- **Total Tasks:** 1 administrative (contact record for Richard Kolyer — no action required)
-- **Project Completion:** 15 of 16 tasks completed (94%)
+- **Total Tasks:** 1 administrative contact record (Richard Kolyer — no action required)
+- **Project Completion:** 100% — all deliverables delivered to NASA on time or early
 - **Key Contributors:**
   - Jack Elston: PIC, Final Report, Demo Report #1 — 100% complete
   - Dan Prendergast: Lead operator, mission planning — 100% complete
@@ -55,6 +55,7 @@ https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
 - **No cost overruns or timeline slippages** — project well-executed with early final report submission (27 days ahead)
 - **Budget note:** Custom field shows $80,972 as "Total Funding to Black Swift," but project notes clarify actual BST allocation is $55,976 with $25,000 allocated to in-country contractor
 - **Billing contact:** PIEE
+- **Field operation dates:** Jack, Dan, Maciej traveled May 11-22, 2025
 
 ---
 

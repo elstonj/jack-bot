@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $3,929,836.28
-- **Total Expenses (Bills + Purchases):** $1,314,017.89
+- **Total Expenses (Bills + Purchases):** $1,314,499.56
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $2,615,818.39 (invoiced minus expenses)
+- **Net Position:** $2,615,336.72 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -69,8 +69,8 @@
 
 ---
 
-### **Materials & Supplies: $439,395.24**
-**Number of transactions:** 170  
+### **Materials & Supplies: $439,566.53**
+**Number of transactions:** 172  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
 - **JAWSTEC:** $19,627.62 (components for S0 platforms)
@@ -84,8 +84,11 @@
 - **PCB boards, stencils, parts sourcing:** ~$30,000+
 
 **Recent transactions (May 2026):**
-- **Bill #3912 (MicroFirm Engineering)** (2026-05-01): $3,781.47 [DIRECT COSTS:DC-Direct Cost Purchases] (parts allocation from Hurricane work)
-- **Purchase (Amprius Technologies)** (2026-05-01): $399.00 — SA504 x7 batteries (8643C6/Max10.8Ah/4.25V x 7) [DIRECT COSTS:DC-Direct Cost Purchases] — *Note: Memo indicates direct outreach from Alex Lomis via email, no formal Asana request*
+- **Purchase #SW65S791** (2026-05-04): $83.29 [DC-Direct Cost Purchases]
+- **Purchase #68514** (2026-05-04): $87.44 [DC-Direct Cost Purchases]
+  - $58.29 DC-Direct Cost Purchases
+  - $11.66 DC-Direct Cost Purchases
+  - $17.49 Inventory Asset (For future sales of 6 S0s)
 
 ---
 
@@ -112,11 +115,15 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 
 ---
 
-### **Shipping/Freight: $3,983.18**
-**Number of transactions:** 38+  
+### **Shipping/Freight: $4,293.99**
+**Number of transactions:** 39+  
 **Key items:**
 - **Aeronet Worldwide:** $2,615.50 (battery shipping, S0 UAS to NOAA Lakeland)
 - **Direct Cost Shipping, Freight & Delivery** (2026-04-06): $358.40 (items sent to NOAA Lakeland for Maciej & Alex trip)
+- **FedEx Shipment FEDEX37097183** (2026-05-05): $310.81 (Alerion Tech shipment from Spain to BST; MP Jet order #09449)
+  - $207.21 DC-Direct Cost Shipping, Freight & Delivery (main shipment)
+  - $41.44 DC-Direct Cost Shipping, Freight & Delivery
+  - $62.16 Inventory Asset (For future sales of 6 S0s)
 - **DHL/FedEx tariffs on PCB imports:** $234.60+
 - **USPS reimbursements:** $12.25 + $25.45
 - **Various parcel shipping:** $200+ across multiple vendors
@@ -138,13 +145,4 @@ No standalone equipment purchases; equipment purchases categorized under Materia
   - Previous tariff/import duties: $801.00
 - **Overhead/G&A charges:** $400+ (marketing, finance/bank charges, licenses, permits)
 - **License/permits:** $900.00 (Mexico drone certificate 02/04/26)
-- **Finance charges:** $75.00 (wire transfer fees)
-- **Office supplies:** $41.88 + misc shop supplies
-
----
-
-### **Facilities/Shop Supplies: $171.75**
-**Number of transactions:** 2  
-**Items:**
-- **Shop supplies allocation (Digikey purchase)** (2026-04-17): $143.00 (part of Purchase #98710410)
-- **Tool
+- **Finance charges:** $75.00 (wire transfer

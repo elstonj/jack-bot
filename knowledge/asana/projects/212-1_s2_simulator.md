@@ -7,60 +7,74 @@
   - **Legacy contact:** Isaac Anderson (isaac.e.anderson@nasa.gov, 650-602-5988) — *no longer primary point of contact as of Dec 30, 2025*
 - **Dollar value:** $2,900 (fully funded and paid in full on August 22, 2025)
 - **Timeline:** Project started 2025; final delivery due May 13, 2026
-- **Status:** Active — critical phase with compressed final timeline; only 1 task currently visible in Asana (discrepancy between knowledge file and raw task list suggests stale Asana data)
+- **Status:** Active — critical final phase; only 1 open task visible in Asana (significant discrepancy from knowledge file suggests stale or archived tasks)
 - **Team members involved:** 
   - Nate Straus (owner)
-  - Jack Elston (software configuration)
+  - Jack Elston (software configuration, operational checks)
   - BST Whole Team
 - **Risk signals:** 
-  - **DATA DISCREPANCY:** Knowledge file lists 5 tasks (4 open); raw data shows only 1 open task. Asana task list may be stale or incomplete.
-  - **CRITICAL:** Previous slippage — Ship sim system completed April 20 (19 days late vs. original March 31 deadline)
-  - **CRITICAL:** Remaining final phase tasks (Build Sim System, Delivery System and Documentation) appear missing from current Asana view — verify whether these are archived, on hold, or not yet created
+  - **CRITICAL DATA DISCREPANCY:** Knowledge file references 5 tasks (4 open); current Asana shows only 1 open task (Operational Checks). Missing tasks: Load OS/software, Build Sim System, Deliver System and Documentation. **Verify whether these are archived, completed without closure, or not yet created.**
+  - **CRITICAL:** Previous delivery slippage — Ship sim system completed April 20, 2026 (19 days late vs. March 31 planned)
+  - **CRITICAL:** Compressed final timeline — Build Sim System due May 6 with delivery May 13 leaves minimal buffer before final deadline
 
 ## Key Deliverables & Milestones
 | Deliverable | Due Date | Status | Assignee | Notes |
 |---|---|---|---|---|
-| Load OS/software and configure sim machine | May 4, 2026 | Open | Jack Elston | Visible in current Asana data |
-| Build Sim System | May 6, 2026 | Open* | **UNASSIGNED** | *Per knowledge file; not visible in raw task data — verify status |
-| Operational Checks | May 6, 2026 | Open* | Jack Elston | *Per knowledge file; not visible in raw task data — verify status |
-| Deliver System and Documentation | May 13, 2026 | Open* | **UNASSIGNED** | *Per knowledge file; not visible in raw task data — verify status |
+| Load OS/software and configure sim machine | May 4, 2026 | Unknown* | Jack Elston | Listed in knowledge file; not visible in current Asana |
+| Build Sim System | May 6, 2026 | Unknown* | **UNASSIGNED** | Listed in knowledge file; not visible in current Asana |
+| Operational Checks | May 6, 2026 | Open | Jack Elston | Currently visible in Asana |
+| Deliver System and Documentation | May 13, 2026 | Unknown* | **UNASSIGNED** | Listed in knowledge file; not visible in current Asana |
 | Ship sim system | Mar 31, 2026 (planned) | ✓ Completed Apr 20, 2026 | — | 19 days overdue |
-| Create Documentation | Jan 23, 2026 | ✓ Completed | — | Delivered early |
-| Determine Requirements | Jan 23, 2026 | ✓ Completed | — | Delivered early |
+| Create Documentation | Jan 23, 2026 | ✓ Completed | — | Completed early |
+| Determine Requirements | Jan 23, 2026 | ✓ Completed | — | Completed early |
+
+*Knowledge file references these; current Asana export shows only Operational Checks as open. Status reconciliation required.
 
 ## Task Summary
-- **Current Asana visibility:** 1 open task (Load OS/software and configure sim machine, Jack Elston, due May 4, 2026)
-- **Knowledge file vs. raw data discrepancy:** Knowledge file references 5 tasks (4 open); raw task export shows only 1 task
-  - **Possible explanations:** Tasks archived/completed but not closed in Asana; tasks exist in Asana but not exported in raw data; knowledge file includes external tracking not in Asana
-  - **ACTION REQUIRED:** Reconcile task list — verify status of Build Sim System, Operational Checks, and Deliver System & Documentation tasks
-- **Assignee focus:**
-  - **Jack Elston:** 1 visible task (Load OS/software); likely responsible for additional tasks per knowledge file (Operational Checks due same day as Build Sim System)
-  - **Unassigned:** Build Sim System and Delivery/Documentation (per knowledge file)
+- **Open tasks:** 1 visible (Operational Checks, Jack Elston, due May 6, 2026)
+- **Completed tasks:** 2 (Create Documentation, Determine Requirements — both Jan 23, 2026)
+- **Data integrity issue:** Knowledge file lists 5 tasks (4 open); current Asana shows 1 open. 
+  - **Possible explanations:** 
+    - Tasks archived or marked complete in Asana but not reflected in this export
+    - Tasks exist in Asana but filtered out of raw data export
+    - Knowledge file includes external tracking or placeholder tasks not yet created in Asana
+  - **ACTION REQUIRED:** Verify status of Load OS/software (Jack Elston, May 4), Build Sim System (unassigned, May 6), and Delivery/Documentation (unassigned, May 13)
 
 ## Recent Activity
+- **December 30, 2025:** NASA contact transition from Isaac Anderson to Randy Hobbs (primary) with team support (Will Wade, Farina Remo, Hai-Nam Tran)
 - **April 20, 2026:** Ship sim system completed (19 days overdue vs. March 31 target)
-- **December 30, 2025:** NASA contact transition: Isaac Anderson → Randy Hobbs (primary) with team support
-- **January 23, 2026:** Documentation and requirements determination completed
+- **January 23, 2026:** Create Documentation and Determine Requirements completed
 - **August 22, 2025:** Payment received ($2,900)
 
 ## Notes & Context
 - **Scope includes two components:**
   1. **Paid work:** Purchase and build S2 Simulator ($2,900 — fully paid Aug 22, 2025)
-  2. **Warranty work:** Unpaid repairs on Isaac Anderson's S2 airframe (flap servo replacement) — completed per knowledge file
+  2. **Warranty work:** Unpaid repairs on Isaac Anderson's S2 airframe (flap servo replacement) — noted as "Completed repairs" in project notes
+
+- **CRITICAL DATA INTEGRITY ISSUE:** 
+  - Raw Asana export shows 1 open task; knowledge file references 4 open tasks
+  - Recommend immediate Asana audit to verify whether missing tasks (Load OS/software, Build Sim System, Deliver System & Documentation) are:
+    - Still active and assigned
+    - Completed but not closed
+    - Archived
+    - Not yet created
   
-- **DATA INTEGRITY ISSUE:** Raw Asana export shows significantly fewer tasks than knowledge file. Before proceeding with execution, verify:
-  - Are remaining tasks (Build Sim System, Operational Checks, Deliver System & Documentation) still active in Asana, or have they been archived/completed?
-  - Is the knowledge file reflecting real-time project state, or outdated tracking?
-  - Confirm whether Jack Elston's May 4–6 capacity can handle both Load OS/software and Operational Checks (two simultaneous critical tasks)
+- **Timeline compression risk:** 
+  - Original delivery window (Feb 27–Mar 31) shifted to May 4–13
+  - Previous shipping task slipped 19 days (Apr 20 actual vs. Mar 31 planned)
+  - Remaining critical path: Load OS/software (May 4) → Build Sim System (May 6) → Deliver System & Documentation (May 13) — only 1-day buffer before final delivery
+  - Given prior slippage, recommend immediate verification that Jack Elston has capacity and that all tasks are properly tracked
 
-- **Timeline compression:** Original delivery window (Feb 27–Mar 31) has shifted to May 4–13. Shipping already slipped 19 days (Apr 20 actual). Final Build Sim System due May 6 leaves only 1-day buffer before May 13 delivery. This timeline is extremely tight given recent overruns.
-
-- **Contact management:** All future communication routes through Randy Hobbs and NASA team. Isaac Anderson is no longer active.
+- **Contact management:** 
+  - Route all future communication through Randy Hobbs (primary) with NASA team support
+  - Isaac Anderson no longer active but was listed in legacy custom fields
+  - Raw project notes still reference Isaac as contact — recommend updating custom fields to reflect Randy Hobbs as primary
 
 - **Payment status:** Fully funded — no budget risk.
 
 - **IMMEDIATE ACTIONS REQUIRED:**
-  1. **Reconcile Asana task list** — confirm status of all 5 tasks referenced in knowledge file
-  2. **Verify Jack Elston's May 4–6 capacity** for simultaneous OS/software and operational checks
-  3. **Assign critical unassigned tasks** (Build Sim System, Delivery/Documentation) if they remain open
-  4. **Root cause analysis:** Investigate 19-day shipping delay to assess risk to final May 2026 delivery window
+  1. **Reconcile Asana task list** — confirm real-time status of all remaining tasks (Load OS/software, Build Sim System, Operational Checks, Deliver System & Documentation)
+  2. **Assign unassigned critical tasks** (Build Sim System, Delivery/Documentation) if still open
+  3. **Verify Jack Elston's May 4–6 capacity** for potentially simultaneous Load OS/software and Operational Checks tasks
+  4. **Update custom fields** — change primary contact from Isaac Anderson to Randy Hobbs
+  5. **Root cause analysis:** Investigate 19-day shipping delay to assess risk mitigation for final May 2026 delivery window
