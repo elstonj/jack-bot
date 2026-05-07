@@ -31,6 +31,10 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Launcher development: Deferred CAD/explosive launch development to Phase II; focus Option period on manual hand-throw launch from UH-60 (April 21, 2026)
 - Future launcher approach: Estes rocket assist identified as solution for boat/vehicle-based launches; tube-launched system for non-recoverable boat-based deployment (April 23, 2026)
 
+**May 2026:**
+- S0-MAD Reusable flight article: Decided to reuse as many parts as possible from the ADONIS S0 for the reusable MAD S0 flight article rather than building a new aircraft (May 6, 2026)
+- Ground test rig: Bartington sensor successfully integrated mechanically into ground test rig (May 6, 2026)
+
 ## Projects & Initiatives
 
 **Phase I (Completed January 2026):**
@@ -53,21 +57,32 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Demo audience: Marine groups interested in fixed-wing MAD options (currently use quads that are too slow or easy to shoot down)
 - Deliverable: Reusable hand-launched S0 analog for local testing and Marine use case
 - Navy will primarily launch from UH-60 helicopters
+- Local mag flights: Planned for July 1st, 2026 (May 6, 2026)
 
-**Technical Development (April 2026 - May 2026):**
+**Technical Development (May 2026 - ongoing):**
 - Reusable MAD S0 configuration:
+  - Stock S0 airframe with lighter weight operation
   - Smaller commercial LiPo battery (30-45 minutes TOF target)
   - New antenna to reduce landing damage
   - Launch rail for deployment
   - Fixed spline wing attachment (vs swivel)
   - Small skids on wing tips for level landing and anti-grab
   - SF20/C half-size laser rangefinder for landing (proven reliable from prior use)
-- Ground testing: Bartington sensor to be shipped by Angel for comparison testing against QuSpin
-- Status as of May 4, 2026: Prioritizing SBIR tasks with some team members focused on other projects (S0-VTOL bug)
+  - Parts sourced from ADONIS S0 where possible to minimize new construction
+- Ground testing: Bartington sensor mechanically integrated into ground test rig as of May 6, 2026
+- Launcher development: Design phase (targeted completion during week of May 12-16, 2026 per Alex Lomis); parts ordering planned for June 15, 2026 to allow iteration before July 1st local mag flights
+- Bartington sensor logging: Dronecan logging program being updated to support Bartington sensor with dynamic memory allocation (Sam Hild working on this, May 6, 2026)
+- Status as of May 6, 2026: Team transitioning from S0-VTOL bug work to SBIR task prioritization
+
+**Royal Navy Engagement (May 2026 - new):**
+- New initiative to respond to Royal Navy interest/ROI
+- Lead: TBD (Asana task assigned May 6, 2026)
+- Materials location: Sales folder in Google Drive created May 6, 2026 (https://drive.google.com/drive/folders/1aXrfLIr-WFW9i5cYveByW0DRerX8SBzI?usp=drive_link)
+- Jack Elston drafting initial response document (May 6, 2026)
 
 ## Action Items & Commitments
 
-**Completed (April 2026):**
+**Completed (April-May 2026):**
 - Beck: Prepared and distributed Phase II kickoff brief template (April 6, 2026)
 - Team: Updated kickoff brief template to include Option Period tasks
 - Maciej: Reviewed and approved submission slidedeck (April 10, 2026)
@@ -76,33 +91,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Maciej & Alex: Attended Navy Option Kickoff meeting (April 21, 2026); obtained Angel's signoff on task modifications
 - Beck: Confirmed Camp Pendleton TCE dates (Aug 17-28) from Morris "DeSi" schedule (April 21, 2026)
 - Maciej: Created detailed Phase II Option tasks list in Asana with dates (April 21-22, 2026)
-
-**Ongoing:**
-- Beck: Finalizing CRT subcontract closure modification this week (April 20, 2026)
-- Maciej: Leading development planning for August Camp Pendleton demo
-- **Alex Lomis: Prioritizing SBIR tasks this week before leaving (May 4, 2026)** - working on reusable MAD S0 design and build
-- Joshua Fromm: Design and build reusable MAD S0 with new configuration
-- Team: Prepare for ground testing with Bartington sensor (pending shipment from Navy TPOC)
-- Maciej: Continue coordinating with Angel and Tony on progress updates, including non-working ground tests
-- Sam: Continue dronecan logging program with magnetometer support (currently focused on S0-VTOL bug)
-- Technical team: Validate reusable S0 magnetic signature vs final air-deployed version
-
-**Launcher Development (Future/Phase II):**
-- Jack Elston & Joshua Fromm: Evaluate Estes rocket assist system for boat/vehicle launch applications
-- Assess tube-launched system feasibility for non-recoverable boat-based deployment
-- Explore potential collaboration with Saildrone and other vendors on vehicle-based launch integration
-- CAD-based explosive launch development deferred to Phase II
-
-## Client & External References
-
-**Navy Contacts:**
-- Angel Ruiz-Reyes (TPOC) - primary Navy contact; conducted Option Kickoff meeting April 21, 2026; will ship Bartington sensor; available for technical feedback and guidance
-- Tony - Navy MAD/UAS subject matter expert with prior experience on multiple MAD systems; interested in regular progress updates
-- Marc (London TechBridge)
-- Ed
-- Morris "DeSi" (DEVCOM) - provided Camp Pendleton TCE schedule (Aug 17-28, 2026)
-- Megan (Navy contact for submission coordination)
-- Navy STP office (navystp.com)
-
-**External Partners:**
-- **QuSpin:** Jeff providing magnetometer expertise
+- Beck: Closed CRT subcontract closure modification (April 20, 2026)
+- Maciej: Integrated Bartington sensor mechanically into ground test rig (May 6, 2026)
+- Beck: Sent email to Angel confirming Bartington sensor receipt and integration (May 6, 2026)
+- Jack Elston

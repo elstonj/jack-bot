@@ -73,4 +73,4 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - NDVI analysis results presented by Jack Elston with high-resolution camera calculations
 - Missing S2 during shipment to deployment found in FedEx overgood facility Florida (March 24, 2025); recovered and delivered via UPS by March 25
 
-**
+##

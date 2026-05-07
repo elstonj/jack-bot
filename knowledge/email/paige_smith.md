@@ -1,74 +1,68 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,211 (1,173 previous + 38 new)
-- **Date range:** March 24 – May 6, 2026 (44 days)
-- **Approximate volume:** ~27.5 messages per day (sustained consistency)
-- **Pattern:** Dominated by newsletters, alerts, and automated notifications (82–86% external/automated). New 38-message sample (May 5–6) confirms sustained high-volume breaking news engagement, industry conference promotions, and federal agency coordination.
+- **Total messages scanned:** 1,252 (1,211 previous + 41 new)
+- **Date range:** March 24 – May 7, 2026 (45 days)
+- **Approximate volume:** ~27.8 messages per day (sustained consistency)
+- **Pattern:** Dominated by newsletters, alerts, and automated notifications (84–88% external/automated). New 41-message sample (May 6–7) confirms sustained high-volume breaking news engagement, defense/energy sector event promotions, federal agency coordination, and data-driven partnership work.
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Senders
-1. **Jack Elston** (elstonj@blackswifttech.com) — **SUSTAINED/CRITICAL/FEDERAL PARTNERSHIPS**:
-   - **2 new messages (May 5–6)**:
-     - "Fwd: REMINDER – Monthly DOI UxS Conference Call – TOMORROW, May 6th @ 13:00 Eastern (10:00 Pacific)" (May 5, 17:53, marked IMPORTANT/UNREAD) — **NEW SIGNAL**: Department of Interior Unmanned Systems monthly coordination call; Paige is participant/invitee
-     - "Re: AOML-Black Swift outreach" (May 5, 08:25, forwarding to Laura Chaibongsai at NOAA Federal, marked IMPORTANT/UNREAD) — NOAA partnership escalation continues
-   - **Pattern**: Central hub for federal agency coordination (DOI, NOAA); recruiting/hiring; external partnerships. DOI UxS call suggests BST has operational relationship with Interior Department on unmanned systems policy/projects.
+1. **Jack Elston** (elstonj@blackswifttech.com) — **SUSTAINED/CRITICAL/FEDERAL PARTNERSHIPS & INTERNAL OPERATIONS**:
+   - **3 new messages (May 6–7)**:
+     - "Updated invitation with note: BST Internal Update Meeting @ Thu May 7, 2026 1pm - 2pm (MDT)" (May 6, 18:29, marked IMPORTANT) — **NEW SIGNAL**: All-hands internal update meeting; core team includes Josh Fromm, Alex Lomis, Maciej Stachura, Daniel Prendergast, Ethan Domagala, Meredith Needham, Sam Hild, Beck Cotter, Nathaniel Straus
+     - "Fwd: Fw: Aerospace Colorado Happy Hour May 13" (May 6, 12:38, CATEGORY_FORUMS) — Local aerospace networking event
+     - "Re: S0 data impact study - 10% Model Improvement" (May 6, 14:06, forwarded to Joe Cione at NOAA Federal, marked IMPORTANT) — **NEW SIGNAL**: S0 data project with 10% model improvement; Joe Cione is NOAA hurricane/atmospheric researcher contact
+   - **Pattern**: Central hub for federal partnerships (DOI, NOAA), internal operations, and local aerospace community engagement.
 
-2. **Meredith Needham** (meredith.needham@blackswifttech.com) — **SUSTAINED/OPERATIONS**:
-   - Continued QuickBooks bill payment coordination (referenced in May 5 payments to Microfirm Engineering)
+2. **Laura Chaibongsai** (laura.chaibongsai@noaa.gov) — **NEW/SUSTAINED/FEDERAL TECHNICAL PARTNERSHIP**:
+   - **2 new messages (May 6)**:
+     - "Re: S0 data impact study - 10% Model Improvement" (May 6, 16:27, marked IMPORTANT) — NOAA Federal responding directly; escalated to Jack Elston
+     - "Re: AOML-Black Swift outreach" (May 6, 12:41, Paige sent) — Paige actively corresponding on NOAA Atlantic Oceanographic partnership
+   - **Signal**: Active technical data exchange; S0 data (likely satellite oceanographic data) being integrated into BST models with measurable performance gains.
 
-3. **Laura Chaibongsai** (laura.chaibongsai@noaa.gov) — **NEW/FEDERAL AGENCY DIRECT CONTACT**:
-   - **1 new message (May 5, 10:22, marked IMPORTANT/UNREAD)**:
-     - "Re: AOML-Black Swift outreach" — NOAA Federal responding directly to BST outreach; indicates active federal partnership discussion (Atlantic Oceanographic & Meteorological Laboratory likely involvement)
+3. **Danielle Varwig** (danielle.varwig@noaa.gov) — **NEW/SUSTAINED/FEDERAL DIRECT COORDINATION**:
+   - **2 new messages (May 6)**:
+     - "Re: Black Swift Communications" (May 6, 12:19, marked IMPORTANT) — NOAA Federal responding to Paige
+     - "Re: Black Swift Communications" (May 6, 09:55, Paige sent) — Paige initiating direct coordination
+   - **Signal**: Separate communication channel from AOML outreach; suggests multiple NOAA division engagement points.
 
-4. **Danielle Varwig** (danielle.varwig@noaa.gov) — **NEW/FEDERAL AGENCY DIRECT CONTACT**:
-   - **1 new message (May 5, 15:35, marked IMPORTANT/UNREAD)**:
-     - "Re: Black Swift Communications" — NOAA Federal direct communication to Paige; separate from AOML outreach thread; suggests multiple NOAA integration points
+4. **Meredith Needham** (meredith.needham@blackswifttech.com) — **SUSTAINED/OPERATIONS & VENDOR MANAGEMENT**:
+   - **3 new messages (May 6)**:
+     - "Fwd: Payment Schedule" (May 6, 10:00, Paige forwarding) — Vendor payment coordination
+     - Two QuickBooks Bill Pay notifications (May 6, 16:15 & 16:12, from sales@blackswifttech.com) — Processing payments to **Aeronet Worldwide** (vendor name visible)
+   - **Pattern**: Continues operational expense management and vendor coordination.
 
-5. **Nina Sabak** (nina.sabak@echoblue.co.uk) — **NEW/EXTERNAL TECHNICAL CONTACT**:
-   - **1 new message (May 5, 05:26, marked IMPORTANT/UNREAD)**:
-     - "dashboard / UST results" — Technical results/data delivery; Echo Blue appears to be external vendor/partner; "UST" likely refers to Unmanned Systems Technology or similar domain
+5. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **NEW/INTERNAL OPERATIONS**:
+   - "Canceled event: Business Operations Meeting @ Wed May 6, 2026 2pm - 2:30pm (MDT)" (May 6, 20:04, marked UNREAD) — Calendar management
 
 ### Top External Senders (Updated)
 
-1. **The New York Times** (breakingnews, editorpicks, nytdirect) — **SUSTAINED VERY HIGH**:
-   - **6 new messages (May 5–6)**:
-     - **Breaking news**: F.D.A. blocked Covid/shingles vaccine research publication (May 5, 20:22 UTC); G.O.P. proposes $1B for Trump's ballroom in immigration bill (May 5, 18:10 UTC)
-     - **Editor picks & Morning briefing**: "The rise of eyes began with just one" (May 5, 21:00 UTC, marked IMPORTANT); Met Gala coverage (May 5, 14:11 UTC, marked IMPORTANT); "The best Met Gala looks" (May 5, 10:55 UTC, marked IMPORTANT)
-     - **Promotional**: $1/week subscription offers (May 6, 04:36 UTC)
-   - **Signal**: Sustained real-time news consumption; Mix of political/health policy news with lifestyle coverage (Met Gala marked IMPORTANT — consistent with prior pattern of blended work/personal content engagement)
+1. **The New York Times** (breakingnews, editorpicks, nytdirect, nytimes) — **SUSTAINED VERY HIGH**:
+   - **7 new messages (May 6–7)**:
+     - **Breaking news**: "Purported Epstein suicide note is released" (May 6, 22:48, marked UNREAD); "Ted Turner, creator of CNN, dies at 87" (May 6, 15:21, marked UNREAD)
+     - **Editor picks & lifestyle**: "The chocolate bars culinary professionals recommend" (May 6, 21:16, marked IMPORTANT); "A $440,000 breast reduction: how doctors cashed in on a law" (May 6, 14:05)
+     - **Morning briefing**: "The Morning: The cruise from hell" (May 6, 10:52, marked IMPORTANT)
+     - **Promotions**: "$1/wk" sale offer (May 7, 05:37)
+   - **Signal**: Sustained daily real-time news consumption (breaking news, political economy, lifestyle marked IMPORTANT); consistent with prior behavior.
 
-2. **LinkedIn** — **SUSTAINED/HIGH RECRUITING & PROFESSIONAL VISIBILITY**:
-   - **5 new messages (May 5–6)**:
-     - Profile engagement: "10 profile views" (May 6, 04:59 UTC, marked IMPORTANT); "Liz Warren, Ph.D. and others share their thoughts" (May 6, 02:59 UTC); "add Scott Tibbitts" (May 6, 00:59 UTC)
-     - Recruiting intelligence: "Defense Advancement Newsletter Edition 212" (May 5, 15:03 UTC)
-   - **Signal**: Sustained professional visibility; continues passive recruiter engagement
+2. **Google Ads** — **SUSTAINED/HIGH PLATFORM ENGAGEMENT**:
+   - **4 new messages (May 6–7)**:
+     - "Your campaign could be getting 1.36 more Conversions" (May 6, 20:46, marked UNREAD) — Performance metrics notification
+     - "Google's most advanced image generation model for your campaigns 🍌" (May 6, 15:53, marked UNREAD) — New AI feature rollout
+     - "[Action Requested] Participate in a Google Ads Early Tester Program!" (May 6, 13:52) — Beta testing invitation
+   - **Signal**: Active Google Ads account management; enrolled in early tester programs; suggests BST marketing campaign execution.
 
-3. **Commercial UAS & Defense Industry Publications** — **SUSTAINED/INDUSTRY-FOCUSED**:
-   - **UASweekly** (May 5, 21:01 UTC, marked UNREAD) — Daily newsletter
-   - **UAS Magazine** (May 5, 12:06 UTC) — Podcast: "What's New and Next at XPONENTIAL 2026" (May 5, 12:06 UTC)
-   - **UAS VISION** (May 5, 10:05 UTC) — Russ sending to Jack at media@blackswifttech.com; "DAILY NEWS"
-   - **Z3 Technology** (May 5, 14:01 UTC) — "Join Z3 Technology at AUVSI Xponential 2026!" (May 5, 14:01 UTC) — Competitor/vendor visibility at major industry conference
-   - **Commercial UAV News / Energy Drone & Robotics News**: "The Grid's New Crew Has Propellers" (May 5, 07:37 UTC, marked IMPORTANT) — Energy infrastructure/grid modernization applications for drones
-   - **Signal**: Heavy XPONENTIAL 2026 conference focus (May 9 approaching); Energy sector applications emerging as interest area
+3. **Commercial UAS & Defense Industry Publications** — **SUSTAINED/HIGH INDUSTRY-FOCUSED**:
+   - **UAS VISION** (May 6, 10:06, DAILY NEWS, sent to Jack at media@blackswifttech.com) — Routed through Jack; daily UAS industry coverage
+   - **Commercial UAV News** (May 6, 10:30, "Covering XPONENTIAL — let's connect", marked UNREAD) — XPONENTIAL 2026 media outreach
+   - **MundoGEO Newsletter** (May 6, 20:01, **2 identical copies** to info@bst.aero AND info@blackswifttech.com) — "CHCNAV ViLi i100 in Real-World Surveying | AirData UAV Joins the Commercial Drone Alliance | US Army Corps of Engineers awards Fugro five‑year contract | Second Gen 6 Aircraft Accelerates Wisk's Flight Test Program" — **NEW SIGNAL**: Corps of Engineers procurement contracts; commercial drone alliance activity; competitor/partner activity tracking (Wisk flight test acceleration)
+   - **Signal**: Heavy XPONENTIAL 2026 media engagement; Geo Week/surveying applications; Corps of Engineers contract intelligence.
 
-4. **Defense/Military Publications** — **SUSTAINED/DEFENSE-FOCUSED**:
-   - **A&SF Daily Report** (May 5, 03:53 UTC) — "Charting F-47's R&D Budget" (space/defense acquisition tracking)
-   - **Military Robotics and Autonomous Systems USA 2026** (May 5, 23:00 UTC, from Will Fry at SAE Media Group Events) — Conference promotion for Arlington VA event
-   - **AFRIDEX 2026** (May 5, 16:45 UTC, from Jack Newman/Kallman Worldwide) — "Enter Africa's Fast-Growing Defense Market" — African defense market expansion
-   - **Signal**: Sustained space/defense policy awareness; International defense market events (Africa) now visible; Robotics/autonomous systems conference circuit engagement
-
-5. **Industry Events & Conferences** — **NEW/HIGH PRIORITY SIGNAL**:
-   - **Geo Week / GeoAI Webinar** (May 5, 10:01 UTC) — "From GeoAI Hype to Real Results — Live Webinar" (Geospatial AI applications)
-   - **CCU Virtual Career Fair** (May 5, 16:56 UTC, via Media Relations) — University recruiting outreach
-   - **Canva Create IRL** (May 5, 15:14 UTC) — Design/marketing event
-   - **Google Marketing Live** (May 5, 12:06 UTC, Google Ads) — Marketing platform event promotion
-   - **Signal**: Broad conference/event participation across UAS, defense, energy, marketing, and recruiting domains; suggests Paige manages multi-stakeholder event strategy
-
-6. **Marketing & SaaS Tools** — **SUSTAINED/OPERATIONAL**:
-   - All in One SEO (May 5, 14:02 UTC) — Spring sale extension
-   - Google Ads (May 5, 12:53 & 12:06 UTC) — Contact options & event promotion
-   - BannerBuzz (May 5, 12:00
+4. **Defense & Military Event Promotions** — **SUSTAINED/NEW FOCUS AREAS**:
+   - **Loitering Munitions USA** (May 7, 00:39, "One Week to Go | Join the U.S. Loitering Munitions Community in Arlington", marked UNREAD) — **NEW/SIGNIFICANT SIGNAL**: Defense event for loitering munitions (kamikaze drones); U.S. military unmanned systems focus expanding
+   - **A&SF Daily Report** (May 6, 03:49, "EA-37 Fleet to Nearly Double in Size", marked UNREAD) — Defense acquisition/fleet expansion tracking
+   - **SSD 2026 | Defence Expo** (May 6, 10:41, "35 Days Until SSD 2026 — Final Exhibitor Spaces Remaining

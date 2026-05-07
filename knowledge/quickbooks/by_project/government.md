@@ -1,10 +1,10 @@
 # Government — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $3,929,836.28
-- **Total Expenses (Bills + Purchases):** $1,314,499.56
+- **Total Invoiced (Revenue):** $4,076,295.28
+- **Total Expenses (Bills + Purchases):** $1,315,401.19
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $2,615,336.72 (invoiced minus expenses)
+- **Net Position:** $2,760,894.09 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -12,8 +12,8 @@
 ## Revenue (Invoices & Payments)
 
 ### Summary
-- **Total Invoiced:** $3,929,836.28
-- **Total Collected (Outstanding Balance):** $2,661,417.19 remaining (invoices with open balances)
+- **Total Invoiced:** $4,076,295.28
+- **Total Collected (Outstanding Balance):** $2,808,876.19 remaining (invoices with open balances)
 - **Number of Invoices:** 72 active invoices
 
 ### Major Revenue Streams by Project
@@ -21,9 +21,9 @@
 | Project/Class | Total Invoiced | Key Invoices |
 |---------------|----------------|--------------|
 | (400-5) SMM Phase II 22.4D | $1,699,725.00 | CLIN work (004-008): Algorithm dev, field testing, refinement; Soil Moisture Mapping |
-| [300-3] 2026 IDIQ | $576,000.00 | 6 invoices (Invoices 2-6: #1737–#1741), CLIN 1001 modification P26002 + Operational Testing & Support (#1757) |
+| [300-3] 2026 IDIQ | $720,000.00 | 6 invoices (Invoices 2-6: #1737–#1741), CLIN 1001 modification P26002 + Operational Testing & Support (#1757) |
 | [301-3] S0 Hurricane Phase II 2025 | $844,449.61 | Progress payments, platform deliveries, training & operations |
-| [550-1] Navy SBIR Magnetometer | $513,377.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750) |
+| [550-1] Navy SBIR Magnetometer | $562,836.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750) |
 | [550-2] Navy STTR Hazardous Weather | $216,326.00 | Kick-off, progress, final reports & TABA |
 | [200-14] Autonomy | $156,211.00 | CLIN 0001-0005, initial through final invoicing |
 | [200-11] NASA Persistence Demo | $74,428.00 | Interim & final demonstration reports |
@@ -115,10 +115,13 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 
 ---
 
-### **Shipping/Freight: $4,293.99**
-**Number of transactions:** 39+  
+### **Shipping/Freight: $5,195.62**
+**Number of transactions:** 40+  
 **Key items:**
 - **Aeronet Worldwide:** $2,615.50 (battery shipping, S0 UAS to NOAA Lakeland)
+  - **Bill #103031641** (2026-05-06): $601.09 + $120.22 = **$721.31** (Shipping products from Paramount Tube to Northwind Composites for S0 projects)
+    - $180.32 allocated to Inventory Asset (For future sales of 6 S0s)
+    - **Direct Cost Shipping total from this bill: $721.31**
 - **Direct Cost Shipping, Freight & Delivery** (2026-04-06): $358.40 (items sent to NOAA Lakeland for Maciej & Alex trip)
 - **FedEx Shipment FEDEX37097183** (2026-05-05): $310.81 (Alerion Tech shipment from Spain to BST; MP Jet order #09449)
   - $207.21 DC-Direct Cost Shipping, Freight & Delivery (main shipment)
@@ -141,8 +144,3 @@ No standalone equipment purchases; equipment purchases categorized under Materia
   - PayPal tariff charges (2026-04-30): $228.36
     - BlueBird Shipment duties (IDIQ): $152.24
     - BlueBird Shipment duties (Sasquatch): $30.45
-    - BlueBird Shipment duties (Future sales of 6 S0s): $45.67
-  - Previous tariff/import duties: $801.00
-- **Overhead/G&A charges:** $400+ (marketing, finance/bank charges, licenses, permits)
-- **License/permits:** $900.00 (Mexico drone certificate 02/04/26)
-- **Finance charges:** $75.00 (wire transfer

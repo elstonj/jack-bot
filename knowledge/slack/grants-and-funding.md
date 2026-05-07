@@ -8,7 +8,7 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 **Activity Level:** High throughout the period (March 2024 - May 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Most recent activity (May 1-5, 2026) demonstrates continued peak intensity with multiple concurrent NASA, DOD, and DOE submissions in final coordination and submission phases. Significant external partnerships and customer engagement alongside proposal work.
 
-**Time Range:** March 3, 2024 - May 5, 2026
+**Time Range:** March 3, 2024 - May 6, 2026
 
 ---
 
@@ -85,4 +85,4 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
   - DoD submissions (2025.4 cycle): **Due May 13**
   - DoD submissions (2026 cycle): **Due June 3**
 
-- **FY27 RFP planning
+- **TB2 Aerospace modular payload

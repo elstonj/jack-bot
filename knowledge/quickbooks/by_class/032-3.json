@@ -1,81 +1,52 @@
 {
   "project_code": "032-3",
   "qbo_class_names": [
-    "[032-3] Sasquatch S0s x 4"
+    "[032] University of Notre Dame:[032-3] Sasquatch S0s x 4"
   ],
   "period": {
-    "start": "2026-05-03",
-    "end": "2026-05-06"
+    "start": "2026-05-06",
+    "end": "2026-05-07"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 53.1,
+    "expenses": 120.22,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 33.15,
-      "Inventory Asset": 10.62,
-      "DIRECT COSTS:DC-Direct Cost Purchases": 9.33
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 96.18,
+      "Inventory Asset": 24.04
     }
   },
   "invoices": [],
-  "bills": [],
-  "purchases": [
+  "bills": [
     {
-      "type": "Purchase",
-      "date": "2026-05-05",
-      "doc_number": "",
-      "total": 310.81,
-      "attributed": 41.44,
-      "vendor": "",
+      "type": "Bill",
+      "date": "2026-05-06",
+      "doc_number": "103031641",
+      "total": 901.63,
+      "attributed": 120.22,
+      "vendor": "Aeronet Worldwide",
       "customer": "",
-      "balance": null,
-      "memo": "FEDEX37097183 - 4699",
-      "lines": [
-        {
-          "amount": 207.21,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": "Shipment from Alerion Tech in Spain to BST. (Items are from MP Jet, order #09449)"
-        },
-        {
-          "amount": 41.44,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": ""
-        },
-        {
-          "amount": 62.16,
-          "account": "Inventory Asset",
-          "description": "For future sales of 6 S0s"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-04",
-      "doc_number": "68514",
-      "total": 87.44,
-      "attributed": 11.66,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
+      "balance": 0.0,
       "memo": "",
       "lines": [
         {
-          "amount": 58.29,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "amount": 601.09,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shiping products from Paramount Tube to Northwind Composites for S0 projects"
+        },
+        {
+          "amount": 120.22,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
           "description": ""
         },
         {
-          "amount": 11.66,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
-          "description": ""
-        },
-        {
-          "amount": 17.49,
+          "amount": 180.32,
           "account": "Inventory Asset",
-          "description": "For future sales of 6 S0s"
+          "description": ""
         }
       ]
     }
   ],
+  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

@@ -1,81 +1,74 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,010 (980 previous + 30 new)
-- **Date range:** March 16 – May 6, 2026 (approximately 52 days)
-- **Approximate volume:** ~19 emails per day
-- **Note:** New batch (May 5–6) shows **30 messages**. **97% automated/logistics notifications** (29/30). **1 direct human correspondence** (May 6, 01:37 AM Frank Strazzabosco re: Power Supply Board Re-spin — continuation of May 4–5 design iteration). Purchasing account centralization remains stable; all vendor communications routing through `purchasing@blackswifttech.com` distribution.
+- **Total messages scanned:** 1,033 (1,010 previous + 23 new)
+- **Date range:** March 16 – May 7, 2026 (approximately 53 days)
+- **Approximate volume:** ~19.5 emails per day
+- **New batch (May 6–7):** 23 messages. **~65% automated/logistics** (vendor notifications, promotional emails, shipping updates, payment confirmations). **~35% direct human correspondence** (5 direct emails: 4 from Frank Strazzabosco re: Power Supply Board Re-spin; 1 from Jack Elston re: meeting cancellation/update).
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Dan Prendergast** (via Asana) — Circuit board revisions (task assignment momentum continues)
-- **Maciej Stachura** (via Asana & Purchasing) — Motor diagnostics & procurement escalation; active tool procurement recipient
-- **Joshua Fromm** (josh.fromm@blackswifttech.com, purchasing@blackswifttech.com) — **MOTOR + PROCUREMENT ESCALATION CONTINUES**: Motor controller & motor procurement leadership; now receiving direct vendor notifications (T-MOTOR delivery, May 6; Pirate Ship shipping payment, May 5; SkyGeek promotional, May 5; Craftcloud delivery confirmation, May 5)
-- **Jack Elston** (elstonj@blackswifttech.com, via Asana) — **FLIGHT TEST + PURCHASING ACCOUNT MANAGEMENT**: Asana task mention "ADS-B for S30002" (May 5, [001-13] Purchasing) — continues avionics integration authority
-- **Joshua Schwager** (via Purchasing) — Design decision authority on precision manufacturing
-- **Meredith O'Hara Needham** (via Asana & Purchasing) — **ESCALATED**: Asana mention (May 5) "Meredith mentioned you yesterday" (task reminder) — purchasing/integration role on avionics systems; active task collaboration
+- **Jack Elston** (elstonj@blackswifttech.com) — **ESCALATED**: Now direct correspondent on Power Supply Board Re-spin (May 6, 16:49); meeting coordination (S0 Meeting cancellation May 6; BST Internal Update Meeting invitation May 7); leadership visibility on critical design work
+- **Frank Strazzabosco** (microfirm@earthlink.net) — **INTENSIFIED ENGAGEMENT**: 5 emails in new batch (May 6, 08:50, 16:33, 17:35, 19:30 + 1 from Frank May 6, 10:54) over ~11 hours — **RAPID ITERATION CYCLE** on Power Supply Board Re-spin; indicates urgent design refinement or critical issue resolution
+- **Dan Prendergast** (via Asana) — Circuit board revisions continue
+- **Maciej Stachura** (via Asana & Purchasing) — Motor diagnostics & procurement escalation continue
+- **Joshua Fromm** (josh.fromm@blackswifttech.com, purchasing@blackswifttech.com) — Motor + procurement escalation continues; now also copied on internal meeting invitations
+- **Meredith O'Hara Needham** (via Purchasing & direct vendor routing) — **NEW DIRECT VENDOR ROUTING**: HeliDirect shipment notification (May 6, 18:33) routed to "Meredith Needham <purchasing@blackswifttech.com>" indicates expanded purchasing authority or primary contact status for rotorcraft components
 
 ### External Contacts (Engineering Partners & Vendors)
-- **Frank Strazzabosco** (microfirm@earthlink.net) — **ACTIVE DESIGN PARTNER — SUSTAINED ENGAGEMENT**: Direct correspondence continues with 2 emails in new batch (May 5, 16:50 & May 6, 01:37); indicates ongoing PCB design iteration with multiple revision cycles; high-priority engineering partnership
+- **Frank Strazzabosco** (microfirm@earthlink.net) — **CRITICAL DESIGN PARTNER — URGENT PHASE**: 5 direct emails in 11-hour window (May 6, 08:50–19:30); rapid back-and-forth pattern indicates design emergency, critical revision cycle, or time-sensitive engineering decision; marked IMPORTANT in 3 of 4 received messages
 
 ## Topic Patterns
 
-### Active Projects (Motor System + Flight Test Integration + Power Supply Design + Avionics Integration + Recovery Systems + Facilities Expansion — SUSTAINED PROCUREMENT PHASE)
+### Active Projects (MOTOR SYSTEM + FLIGHT TEST INTEGRATION + POWER SUPPLY DESIGN — CRITICAL PHASE)
 
-**[001-07] S3 IRAD — MOTOR SYSTEM + STRUCTURAL + METAL FABRICATION + ELECTRONICS INTEGRATION PHASE (SUSTAINED)**
+**[001-07] S3 IRAD — POWER SUPPLY BOARD DESIGN (URGENT — REAL-TIME ITERATION)**
+
+- **Power Supply Board Re-spin** — **CRITICAL DESIGN CYCLE ESCALATED**: 5 direct correspondence emails in single 11-hour window (May 6) with external design partner Frank Strazzabosco; Jack Elston now participating in thread (May 6, 16:49); indicates either design defect requiring immediate correction, timing-critical revision, or urgent customer/stakeholder pressure
+- **Design iteration velocity:** Multiple back-and-forth cycles within hours suggests either remote real-time collaboration or high-stakes decision-making
+- **Stakeholder involvement:** Jack Elston's entry into thread suggests executive/leadership awareness of issue
 
 **Motor & Drive Systems (CONTINUED):**
-- **T-MOTOR delivery notification** (May 6, 01:50 AM, routed to Josh Fromm via purchasing) — **Motor/propulsion system component delivery confirmed**; indicates electric motor or drive system procurement active
-- **ServoCity motor controller order** — Continues from previous batch (high-frequency status updates pattern established)
-- **Pololu motor controllers** — Continues from previous batch
-
-**Electronics & Control Systems (SUSTAINED):**
-- **DigiKey electronics** — Continues from previous batch
-- **Offshore Electrics orders** (Order status update May 5, 11:20 AM; Shipment notification May 5, 15:20 UTC) — **2 vendor notifications within 4 hours** indicates rapid order processing; electrical/power systems component procurement in transit
-- **XT90 connectors** — High-current power distribution continues
-
-**Power Supply & Energy Systems (DESIGN ITERATION — SUSTAINED):**
-- **Power Supply Board Re-spin** (May 5, 16:50 & May 6, 01:37 direct correspondence with Frank Strazzabosco) — **CONTINUED ACTIVE DESIGN CYCLE**: 2 additional email exchanges in this batch; indicates rapid iteration/refinement phase; multiple revision exchanges suggest design complexity or urgent timeline pressure
+- **MKS Servos USA order receipt** (Order #22540, May 6, 19:06, routed to purchasing) — **NEW VENDOR/SERVO EXPANSION**: MKS specializes in servo motors and control systems; new order suggests additional servo/control component procurement or system expansion
 
 **Flight Test & Avionics Integration (SUSTAINED):**
-- **ADS-B for S30002** (Asana mention via Jack Elston, May 5, 13:24) — Automatic Dependent Surveillance-Broadcast avionics procurement continues; active task tracking indicates integration milestone tracking
-- **uAvionix vendor** — Account activation continues from May 4
+- **ADS-B for S30002** — Continues from previous batch
+- **BST Internal Update Meeting** (May 7, 1pm–2pm, Jack Elston organizer) — **TEAM-WIDE STATUS MEETING**: Sam Hild invited along with 9 other core team members (Joshua Fromm, Alex Lomis, Maciej Stachura, Daniel Prendergast, Ethan Domagala, Meredith Needham, Beck Cotter, Nathaniel Straus, Paige Smith); suggests major project milestone or status synchronization required
 
-**Metal & Precision Fabrication (CONTINUED):**
-- **SendCutSend** (2 shipment notifications May 5 & May 6) — **Rapid sequential notifications** (May 5, 21:30 UTC & May 6, 04:50 UTC ~7 hours apart); indicates multiple concurrent metal fabrication orders or expedited fulfillment
-- **JawsTec** (Promotional "New materials" message May 5, 16:29) — Continues as active precision mechanical parts supplier; promotional suggests potential new material procurement window
+**Rotorcraft Components (CONTINUED):**
+- **HeliDirect** (Promotional message May 6, 18:33) — Continues as active supplier; routed directly to Meredith Needham <purchasing@blackswifttech.com>
 
-**Mechanical Components & Hardware (EXPANDED):**
-- **Craftcloud®** (3 messages May 5: new message 19:49, out for delivery 15:14, delivered confirmation 16:14) — **ACTIVE MANUFACTURING SERVICES**: Multiple order status updates same day (Order #459340813415) indicates manufacturing job active or completed; precision parts/assembly services supplier
-- **Pirate Ship** (Shipping payment $28.76, May 5, 20:22) — Logistics/shipping service integration; payment processing active
+**Logistics & Shipping (SUSTAINED):**
+- **UPS** — Package cleared customs (May 6, 16:16); packages arriving tomorrow notification (May 6, 14:05) — **INTERNATIONAL SHIPMENT INBOUND**: Customs clearance indicates overseas component delivery
+- **USPS Informed Delivery** (May 6, 13:26) — Daily mail digest continues
 
-**Avionics & Aerospace Systems (NEW/ESCALATED):**
-- **SkyGeek** (Promotional raffle, May 5, 16:01, routed to Josh Fromm) — **Propeller/aerospace component supplier**; promotional indicates customer relationship active
-- **Vaisala** (Promotional "Future Artillery 2026" event, May 5, 13:00) — **NEW VENDOR/INDUSTRY EVENT**: Vaisala specializes in environmental sensors and measurement; "Future Artillery" event suggests defense/aerospace industry engagement
-- **HeliDirect order** (Shipment notification HDR653461 May 5, 19:20) — Helicopter/rotorcraft components continuing shipment
+**Financial/Invoicing (NEW SIGNAL):**
+- **PHASE1 AVIATION LLC** — **NEW VENDOR/SIGNIFICANT PAYMENT**: Invoice #1105 (May 6, 21:25), payment method saved (May 6, 21:28), payment confirmation (May 6, 21:29); triple notification within 4 minutes indicates either new vendor setup or substantial transaction; "PHASE1 AVIATION LLC" suggests aerospace/aviation component or service provider
+  - **Status:** All three notifications routed to purchasing@blackswifttech.com distribution; timing suggests real-time payment processing
 
-**Logistics & Infrastructure (SUSTAINED):**
-- **Tool & Equipment Procurement** — Harbor Freight continues (2 messages May 6: ICON Torque Wrench + QUINN Impact Socket Set, May 6; 10 Days of Deals Day 6)
-- **Shipping/Fulfillment** — USPS Informed Delivery (May 5, 13:22), UPS tracking (2 notifications May 5: 14:30 & 15:38), FedEx Billing Online (May 5, 13:24), Pirate Ship payment (May 5, 20:22)
-- **Comcast Business Internet** — Network infrastructure continues
-- **Billing & Invoicing** (May 5, 20:01) — Black Swift billing system notifications to purchasing distribution
+**Tooling & Equipment Procurement (SUSTAINED):**
+- **Harbor Freight** (2 messages May 6–7: ICON Pliers 8-Piece, YUKON 5-Drawer Rolling Tool Cabinet Day 7 promotional; BAUER Tools upgrade message) — Continues tool procurement pattern
+- **Dell Technologies** (Tech Refresh event May 6, 09:32) — **IT/INFRASTRUCTURE**: Promotional suggests potential computer/workstation upgrade cycle
 
-**Workspace/Facilities Management (NEW SIGNAL):**
-- **Neat N Tidy** (Receipt notification May 6, 05:05) — **NEW VENDOR**: Cleaning/janitorial services supplier; indicates facility/workspace management procurement active
+**Maker/Prototype Components (NEW VENDOR):**
+- **ELEGOO US** (Time-limited promotional May 6, 13:02, routed to Alexis Lomis <purchasing@blackswifttech.com>) — **NEW SUPPLIER**: Electronics maker kits/components; promotional suggests new customer relationship or reorder opportunity
 
-**Software/Infrastructure (CONTINUING):**
-- **Toggl Track** (Support message May 5, 22:12, no subject) — Time tracking software; support contact suggests potential issue or account management activity
-- **Veeam Team** (Promotional "VeeamON Online" event May 5, 13:13) — Data protection/backup software vendor; event notification suggests continued infrastructure monitoring interest
+### Meetings & Internal Coordination
 
-### Vendor/Supplier Orders (Comprehensive Pipeline — SUSTAINED WITH NEW ADDITIONS)
+- **S0 Meeting canceled** (May 6, 10:30–11:00 AM) — Meeting cancellation by Jack Elston; timing suggests conflict with urgent Power Supply Board work
+- **BST Internal Update Meeting scheduled** (May 7, 1:00–2:00 PM) — **MANDATORY TEAM SYNC**: 10 core personnel invited; suggests major status checkpoint or decision point
 
-**Motor & Drive Systems (PRIORITY):**
-- **T-MOTOR** (Delivery notification May 6) — **NEW/ESCALATED**: Motor propulsion component supplier; direct notification to Josh Fromm indicates priority vendor
-- **ServoCity** — Servo/motor hardware continues
-- **Pololu** — Motor controller continues
+## Communication Patterns
 
-**Electronics & Power Systems (EXPANDED):**
-- **DigiKey** — Electronic components continues
-- **Offshore Electrics** (Status update May 5 11:20, Shipment May 5 15:20) — **Rapid dual notification** indicates order fulfillment acceleration
-- **Master Electronics** —
+- **Rapid iteration cycles:** Frank Strazzabosco correspondence shows 5 emails in 11-hour window (May 6, 08:50–19:30) with send-response-send pattern indicating real-time problem-solving or urgent design decisions
+- **Executive escalation:** Jack Elston's participation in Power Supply Board thread (May 6, 16:49) after Sam & Frank had been iterating suggests issue escalation or decision-making authority required
+- **Batch timing:** Heavy concentration on May 6 (20 of 23 messages), with new batch arriving May 7 morning
+- **Vendor notification routing:** All purchasing notifications route through `purchasing@blackswifttech.com` distribution; some vendors (HeliDirect, ELEGOO) have individual team member addresses in TO field (Meredith Needham, Alexis Lomis) indicating primary contact assignments
+- **High-priority marking:** Frank Strazzabosco emails marked IMPORTANT; Jack Elston correspondence marked IMPORTANT
+- **Time zone patterns:** Messages span UTC (vendor notifications) and MDT (internal communications); Frank Strazzabosco using Mountain Time zone (UTC-6)
+
+## Key Relationships
+
+**Critical Design Partnership:**
+- **Frank Strazzabosco (microfirm@earthlink.net)** — Primary external design engineer; now engaged in real-time, urgent design iteration on Power Supply Board;

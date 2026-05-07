@@ -29,7 +29,7 @@
         "amount": 8581.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-06"
+        "last_updated": "2026-05-07"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 6439.03,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-06T09:16:09Z"
+    "last_reconciled": "2026-05-07T09:03:21Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -79,7 +79,25 @@
       "source": "FEEDBACK",
       "author": "Alex Lomis",
       "date": "2026-04-17",
+      "text": "From Alex Lomis (ts=1776451579.783709): <@U083AAM8E9Y> I'm not sure any are _fully_ NDAA compliant yet but the S0 VTOL, S0 AD, and E2 all can be I believe"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Alex Lomis",
+      "date": "2026-04-17",
       "text": "From Alex Lomis: <@U083AAM8E9Y> I'm not sure any are _fully_ NDAA compliant yet but the S0 VTOL, S0 AD, and E2 all can be I believe"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-20",
+      "text": "From Maciej (ts=1776649988.110059): <@U0AQE94HJUT>, we have 4 main technical goals/milestone next week I think:\n1. EMASS flight tests (<@U04CZK4K7P0> , <@U06CCFTNBS6>, and <@U01511MEQ90>)\n2. S0-VTOL restart to find and fix the crash bug (<@U058LGYMEQ0> and <@U014ZL9FLE9>)\n3. S3 work to find the crash bug and flight test on S1-22 and hover test S3 (<@U06NQAYBLRK>, <@U01511MEQ90>, and <@U014U9WMK2A>)\n4. Mustang Progress (<@U06CCFTNBS6> and <@U058LGYMEQ0>)\nThose should all be capture in Asana (I ju"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-20",
+      "text": "From Maciej (ts=1776649988.110059): <@U0AQE94HJUT>, we have 4 main technical goals/milestone next week I think:\n1. EMASS flight tests (<@U04CZK4K7P0> , <@U06CCFTNBS6>, and <@U01511MEQ90>)\n2. S0-VTOL restart to find and fix the crash bug (<@U058LGYMEQ0> and <@U014ZL9FLE9>)\n3. S3 work to find the crash bug and flight test on S1-22 and hover test S3 (<@U06NQAYBLRK>, <@U01511MEQ90>, and <@U014U9WMK2A>)\n4. Mustang Progress (<@U06CCFTNBS6> and <@U058LGYMEQ0>)\nThose should all be capture in Asana (I ju"
     },
     {
       "source": "FEEDBACK",
@@ -102,12 +120,6 @@
     {
       "source": "FEEDBACK",
       "author": "Alex Lomis",
-      "date": "2026-04-17",
-      "text": "From Alex Lomis (ts=1776451579.783709): <@U083AAM8E9Y> I'm not sure any are _fully_ NDAA compliant yet but the S0 VTOL, S0 AD, and E2 all can be I believe"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Alex Lomis",
       "date": "2026-04-20",
       "text": "From Alex Lomis (ts=1776451579.783709): <@U083AAM8E9Y> I'm not sure any are _fully_ NDAA compliant yet but the S0 VTOL, S0 AD, and E2 all can be I believe"
     },
@@ -134,18 +146,6 @@
       "author": "Alex Lomis",
       "date": "2026-04-20",
       "text": "From Alex Lomis (ts=1776451579.783709): <@U083AAM8E9Y> I'm not sure any are _fully_ NDAA compliant yet but the S0 VTOL, S0 AD, and E2 all can be I believe"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-04-20",
-      "text": "From Maciej (ts=1776649988.110059): <@U0AQE94HJUT>, we have 4 main technical goals/milestone next week I think:\n1. EMASS flight tests (<@U04CZK4K7P0> , <@U06CCFTNBS6>, and <@U01511MEQ90>)\n2. S0-VTOL restart to find and fix the crash bug (<@U058LGYMEQ0> and <@U014ZL9FLE9>)\n3. S3 work to find the crash bug and flight test on S1-22 and hover test S3 (<@U06NQAYBLRK>, <@U01511MEQ90>, and <@U014U9WMK2A>)\n4. Mustang Progress (<@U06CCFTNBS6> and <@U058LGYMEQ0>)\nThose should all be capture in Asana (I ju"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-04-20",
-      "text": "From Maciej (ts=1776649988.110059): <@U0AQE94HJUT>, we have 4 main technical goals/milestone next week I think:\n1. EMASS flight tests (<@U04CZK4K7P0> , <@U06CCFTNBS6>, and <@U01511MEQ90>)\n2. S0-VTOL restart to find and fix the crash bug (<@U058LGYMEQ0> and <@U014ZL9FLE9>)\n3. S3 work to find the crash bug and flight test on S1-22 and hover test S3 (<@U06NQAYBLRK>, <@U01511MEQ90>, and <@U014U9WMK2A>)\n4. Mustang Progress (<@U06CCFTNBS6> and <@U058LGYMEQ0>)\nThose should all be capture in Asana (I ju"
     },
     {
       "source": "FEEDBACK",
@@ -208,6 +208,6 @@
       "text": "From Maciej (ts=1777068011.376009): <@U0AQE94HJUT> for S0 VTOL IRAD, there's one overdue task \"Visual Observation Bench Test\" along with the \"Instrumented Bench Test\" needing to be completed by next Thursday. <@U058LGYMEQ0>, any roadblocks on your end for catching up on that one overdue task and then having the instrumented bench test done by mid next week? Anything you're waiting on from others or need to order?"
     }
   ],
-  "last_full_rebuild": "2026-05-06T09:16:09Z",
+  "last_full_rebuild": "2026-05-07T09:03:21Z",
   "last_incremental_update": null
 }

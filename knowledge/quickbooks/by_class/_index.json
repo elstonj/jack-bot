@@ -1,60 +1,21 @@
 {
   "period": {
-    "start": "2026-05-03",
-    "end": "2026-05-06"
+    "start": "2026-05-06",
+    "end": "2026-05-07"
   },
-  "scanned_at": "2026-05-06",
+  "scanned_at": "2026-05-07",
   "projects": [
-    {
-      "project_code": "001-12",
-      "revenue": 0.0,
-      "expenses": 330.14,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 1,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "(001-12)  General Customer Support/Project Support"
-      ]
-    },
-    {
-      "project_code": "001-4",
-      "revenue": 0.0,
-      "expenses": 298.4,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 5,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "(001-4) IRAD - S0 VTOL"
-      ]
-    },
-    {
-      "project_code": "001-7",
-      "revenue": 0.0,
-      "expenses": 925.83,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 3,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "(001-7) IRAD - S3"
-      ]
-    },
     {
       "project_code": "032-3",
       "revenue": 0.0,
-      "expenses": 53.1,
+      "expenses": 120.22,
       "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 2,
+      "bill_count": 1,
+      "purchase_count": 0,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "[032-3] Sasquatch S0s x 4"
+        "[032] University of Notre Dame:[032-3] Sasquatch S0s x 4"
       ]
     },
     {
@@ -72,15 +33,16 @@
     },
     {
       "project_code": "300-3",
-      "revenue": 288000.0,
-      "expenses": 348.79,
+      "revenue": 216000.0,
+      "expenses": 601.09,
       "invoice_count": 3,
-      "bill_count": 0,
-      "purchase_count": 3,
+      "bill_count": 1,
+      "purchase_count": 0,
       "po_count": 0,
-      "payment_count": 2,
+      "payment_count": 0,
       "qbo_class_names": [
-        "[300-3] 2026 IDIQ"
+        "[300-3] 2026 IDIQ",
+        "[300] NOAA:[300-3] 2026 IDIQ"
       ]
     },
     {
@@ -98,16 +60,15 @@
     },
     {
       "project_code": "_unclassified",
-      "revenue": 34000.0,
-      "expenses": 4501.17,
+      "revenue": 0.0,
+      "expenses": 5680.32,
       "invoice_count": 0,
       "bill_count": 1,
-      "purchase_count": 8,
+      "purchase_count": 1,
       "po_count": 0,
-      "payment_count": 1,
+      "payment_count": 0,
       "qbo_class_names": [
-        "",
-        "(035-1) Adonis"
+        ""
       ]
     }
   ]

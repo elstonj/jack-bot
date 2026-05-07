@@ -110,6 +110,12 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 - Jack suggested using updated total from SBIR.gov portfolio page (https://www.sbir.gov/portfolio/404583) but noted uncertainty about exact total
 - **Action needed:** Marketing copy to be updated with accurate SBIR award count for use in promotional materials
 
+### S2 Product End-of-Life & S3 Launch Timing (May 6, 2026)
+- **Confirmed:** S2 is end-of-life
+- **S3 status:** Not yet for sale, but launch imminent ("soon" per Jack Elston)
+- Paige Smith clarified product timeline; Jack confirmed S3 launch expected in near term
+- Implications: Marketing materials should be updated to reflect S2 EOL status and prepare for S3 product launch communications
+
 ---
 
 ## Projects & Initiatives
@@ -125,15 +131,4 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 ### Products & Services Web Pages
 **Status:** Completed/Active maintenance
 - Products page updated June 13, 2024 with GIF under SwiftCore
-- Popup form remains on page despite Jack's requests for removal (noted June 13, 15, 2024)
-- Services page drafted July 4, 2024 by Sophia; Jack provided version with comments
-- Concern about large banners requiring excessive scrolling
-
-### Website Media Kit
-**Status:** Completed (July 1-4, 2024)
-- Parker developed content
-- Sophia created draft in Canva
-- Included concrete examples, awards, and achievements per team feedback
-- Ready for distribution with press releases
-
-### Soil Moisture Mapping
+- Popup form remains on page despite Jack's requests

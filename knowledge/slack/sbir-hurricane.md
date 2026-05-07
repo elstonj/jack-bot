@@ -1,7 +1,7 @@
 # #sbir-hurricane
 
 ## Overview
-The #sbir-hurricane channel is the primary workspace for Black Swift Technologies' SBIR Hurricane project, focused on developing the S0 unmanned aircraft system for hurricane reconnaissance missions. The channel is highly active with extensive technical discussions, operational updates, and mission planning spanning 2020-2026. Key participants include Joshua Fromm, Jack Elston, Maciej, Danny Troke, Dan Prendergast, Alex Lomis, Nate, and Sam Hild.
+The #sbir-hurricane channel is the primary workspace for Black Swift Technologies' SBIR Hurricane project, focused on developing the S0 unmanned aircraft system for hurricane reconnaissance missions. The channel is highly active with extensive technical discussions, operational updates, and mission planning spanning 2020-2026. Key participants include Joshua Fromm, Jack Elston, Maciej, Danny Troke, Dan Prendergast, Alex Lomis, Nate, Sam Hild, Beck Cotter, and Paige Smith.
 
 ## Key Decisions
 
@@ -56,15 +56,30 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Jack Elston created pull quotes for marketing content; notes they were created as jokes but indicates potential broader marketing use (April 28, 2026)
 - Dan Prendergast confirmed that quoted individuals would likely endorse/undersign the quotes (April 28, 2026)
 
+**Stock Inventory Build (May 6, 2026):**
+- Jack Elston initiated procurement of 20 additional S0 aircraft units to maintain stock inventory for operational opportunities (May 6, 2026)
+- Decision made to use current 2026 configuration without waiting for 2027 mods (May 6, 2026)
+- Estimated 3-month production timeline from start to completion for the 20 units (May 6, 2026)
+- End of July delivery deadline maintained as priority for all active production (May 6, 2026)
+- Joshua Fromm to advise on parts procurement timing to maximize parallel assembly once decision finalized (May 6, 2026)
+
 ## Projects & Initiatives
 
 **S0 Hurricane Aircraft System:**
-- Primary deliverable: 16-18 complete S0 systems for NOAA hurricane reconnaissance (expanded to 25-30 additional for 2025 season)
-- 2026 production run: 30 operational S0s plus 5 additional "extras" for testing 2027 features
+- 2026 operational production: 30 S0s plus 5 additional "extras" for testing 2027 features; additional 20-unit stock build approved (May 6, 2026)
+- Primary delivery timeline: End of July 2026 for operational units
+- Secondary delivery: Display S0 units by June 5, 2026 for DC event, with QC/packaging of previously built units by July 1, 2026
+- Early storm contingency: Units to be QC'd and packaged by July 1, 2026 in event of early hurricane season (May 6, 2026)
 - Specifications: 2.6 lbs GTOW, 32.8" wingspan, 22.5 m/s cruise speed, 2+ hour endurance
 - Sensors: Vaisala RSS421 (RS41), MLX90614ESF thermal sensor, 9-hole pressure system, Vaisala RS41 measurement rate ~5Hz (may vary with temperature)
 - Communication: 400MHz licensed band with 150+ nautical mile range demonstrated
 - 2026 Avon Park operations: Dual S0 deployments from P3 aircraft with coordinated multi-UAS capability
+
+**Performance Validation & Impact:**
+- NOAA impact study showing 10% improvement in intensity forecasts (May 6, 2026)
+- More detailed impact study: 5-15% improvement on specific storms, average 5% across dataset (May 6, 2026)
+- S0 UAS data classified as TRL-9 (fully operational) by NOAA personnel (May 6, 2026)
+- Data from 2024-2025 hurricane seasons analyzed for operational impact
 
 **Multi-UAS Operations (April 2026):**
 - Dual-aircraft capability for simultaneous operations with single operator demonstrated
@@ -80,21 +95,5 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Controllers tested extensively in X-Plane simulation and live hurricane flights
 - Dual-aircraft operation tested with lost communications handling (battery suppression warnings confirmed as design limitation)
 
-**Ground Control Station (GCS) - Critical Issues Resolved (April 2026):**
-- Dual Swift Station systems (SwiftStation-400001 "top" and SwiftStation-400002 "bottom") for multi-channel operations
-- Rack-mounted system with HDMI output, powered USB hub
-- 400MHz radio integration with tablet interface and hot-swappable USB radio modules
-- Real-time telemetry and flight plan generation capabilities
-- Channel 1 and Channel 2 radio configuration with dynamic switching capability
-- Dual-radio capability being added to new ground stations under procurement (~1 hour work for firmware/artwork updates) (April 21, 2026)
-- P3 GCS with BOM documented in 2026 planning sheet (referenced May 5, 2026)
-
-**GCS Issues Identified and Fixed (April 7-8, 2026):**
-- Power shutdown bug: UPS driver incorrectly reporting -0.000001A causing premature power-off at 100% battery charge
-  - Root cause: Threshold set below normal noise level when transitioning from charging to AC power
-  - Fix: Replaced current-based check with VIN + state detection (charging/discharge/USB modes)
-  - Modified HIDOpenUPS2.cpp with new getters: getInputVoltage(), getState()
-- Flight plan transmission failures: 36 failed commands during April 7 flight due to duplicate handling gap
-  - Issue: UAS receiving retransmitted COMMAND while in WAITING_FOR_WAYPOINTS state causes reset
-  - Duplicate handling exists for WAITING_FOR_FINAL_MAP_RX but missing for WAITING_FOR_WAYPOINTS
-  - Requires code fix
+**Ground Control Station (GCS) - Enhanced Capability (May 6, 2026):**
+- New local S0 ground station operational

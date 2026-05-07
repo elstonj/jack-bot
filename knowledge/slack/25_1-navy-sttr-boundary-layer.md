@@ -1,7 +1,7 @@
 # #25_1-navy-sttr-boundary-layer
 
 ## Overview
-This channel manages Black Swift Technologies' Navy STTR project focused on boundary layer measurements using the S0 UAS platform. The project aims to develop atmospheric sensing capabilities for hazardous weather conditions, particularly tropical cyclones and high wind environments. Key participants include Beck Cotter, Maciej, Josh Wadler, Jun Zhang, Dan Prendergast, Jack Elston, Joshua Fromm, Joe, and Meredith Needham (Navy contact/administrator). The channel shows high activity from July 2024 through May 2026, covering Phase I completion, Phase II proposal development, and active field operations including ocean validation missions.
+This channel manages Black Swift Technologies' Navy STTR project focused on boundary layer measurements using the S0 UAS platform. The project aims to develop atmospheric sensing capabilities for hazardous weather conditions, particularly tropical cyclones and high wind environments. Key participants include Beck Cotter, Maciej, Josh Wadler, Jun Zhang, Dan Prendergast, Jack Elston, Joshua Fromm, Joe, and Meredith Needham (Navy contact/administrator). The channel shows high activity from July 2024 through May 2026, covering Phase I completion, Phase II proposal development, and active field operations including ocean validation missions and CAT (Convective and Atmospheric Turbulence) flights.
 
 ## Key Decisions
 - **July 2024**: Focused Phase 1 on tropical cyclone/high wind measurements rather than cold weather applications
@@ -12,6 +12,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **March 2026**: Reorganized technical objectives with calibration/validation as priority #1
 - **April 17, 2026**: Confirmed RH (relative humidity) sensor error resolved with post-processing fix applied to all current data; real-time correction now implemented in firmware
 - **April 20, 2026**: Approved data format strategy for multi-rate sensor outputs: full-rate dataset as primary deliverable with 1 Hz downsampled version for TDR (Tropical Cyclone Data Repository) comparison
+- **May 6, 2026**: Established CAT flights (2026-03-26, 2026-04-07, 2026-04-09) as primary focus for Phase I Option Progress Report analysis; confirmed 53rd Weather Wing partnership for S0 dropsondes over WHOI arrays during Phase II
 
 ## Projects & Initiatives
 **Navy STTR Boundary Layer Measurements Project (Award: N6833535C0270)**
@@ -26,69 +27,70 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - De-ice heater development for standalone system with COTS process controller
 - Ocean validation missions in 4 phases testing sensing, algorithms, wave height, QC, and AI autonomy
 - **Humidity Sensor Correction**: Vaisala humidity error identified and corrected with post-processing fix; real-time correction now active in firmware (as of April 17, 2026)
+- **Wind Data Improvements**: Dual GPS heading data enabling improved wind estimation techniques for CAT flights
 
 **Active Field Operations (April-May 2026):**
 - S0 UAS ocean deployment missions coordinated through NOAA AOC (Aviation Operations Center) in Lakeland
+- CAT (Convective and Atmospheric Turbulence) Flights with P3 platform:
+  - **2026-03-26**: First dual S0 test (5 dropsondes deployed)
+  - **2026-04-07**: Second dual S0 test with rain (9 sondes: dropsondes, Streamsondes, Sphere sondes; S0 flew at 500m and 1000m for radar comparison)
+  - **2026-04-09**: Recovered S0 test with scattered rain (4 sondes)
 - IRC chat coordination system for real-time field communication during flights and landing operations
 - 5 test flights completed during validation window; data recovery and post-processing in progress
 
-**Data Products (April 20, 2026):**
-- Full-rate multi-sensor dataset from 5 test flights (primary deliverable maintaining 5Hz PTH, 100Hz wind, 100Hz static pressure sampling rates)
+**Data Products (May 6, 2026):**
+- Full-rate multi-sensor dataset from 5 test flights and CAT flights (primary deliverable maintaining 5Hz PTH, 100Hz wind, 100Hz static pressure sampling rates)
 - 1 Hz downsampled version for TDR (Tropical Cyclone Data Repository) comparison and analysis
+- Processed dropsonde data (post-processed with Aspen QC)
+- TDR radar data from CAT flights (available for 04/07 and 04/09)
+- Streamsonde data (post-processing status: TBD on real-time QC files)
+
+**Data Repository Structure (May 6, 2026):**
+- Centralized Google Drive: Maciej's NOAA folder → 2026 subfolder → CAT subfolder for organized data management
+- Contains: Dropsonde data, TDR data, Streamsonde data, S0 files with improved wind estimates
 
 ## Action Items & Commitments
 **Active Commitments:**
-- **Beck Cotter**: Coordinate stakeholder engagement, obtain letters of support, schedule TPOC meetings
-- **Maciej**: Complete sensor characterization analysis, lead proposal writing, implement humidity sensor corrections; coordinate S0 landing operations during field missions; post-process data from 5 test flights; **deliver full-rate and 1 Hz downsampled data products by end of day April 20, 2026**
-- **Josh Wadler**: Develop turbulence metrics code, support data assimilation efforts, coordinate postdoc budget; obtain corrected post-processed data from 5 test flights; **prefer full-rate data format for analysis**
-- **Jun Zhang**: Lead data assimilation work with Navy model, budget postdoc position; troubleshoot IRC connectivity issues with Lakeland AOC; **requested 1 Hz version of dataset for TDR comparison**
-- **Dan Prendergast**: Complete CONOPS section development
-- **Joshua Fromm/Joe**: Support IRC connectivity and field operations coordination; provide status updates on data corrections and validation
-- **BST Team**: **Progress Report due Wednesday, June 3, 2026** - utilize templates from https://navysbir.com/links_forms.htm
+- **Beck Cotter**: Provided Progress Report (CLIN0007) and Final Report (CLIN0007) templates by May 6, 2026; continue stakeholder engagement coordination
+- **Maciej**: 
+  - Analyze 5 CAT flights with focus on winds using dual GPS heading data (in progress May 6)
+  - Work with James Pinto on ISARRA wind data improvements for publication (week of May 6)
+  - Lead Phase II Cal/Val plan development; schedule brief meeting next week (week of May 13)
+  - Compile updated CAT files with improved wind estimation techniques
+  - Contribute to centralized data folder structure
+- **Josh Wadler**: 
+  - Post-processed dropsonde data uploaded to shared folder (completed May 6)
+  - Streamsonde post-processing: actively working on real-time QC files (TBD)
+  - Uploaded sonde and comparison data to folder (completed May 6)
+  - Support QC analysis from CAT flights
+  - **Unavailable week of May 10-16, 2026** (out Friday to next Friday)
+  - Will participate in Phase II Cal/Val planning upon return
+- **Jun Zhang**: 
+  - Sourcing dropsonde data from HRD or AOC for CAT flights (in progress May 6)
+  - Radar data retrieval for 04/07 flight from raw TDR files (in progress May 6)
+  - TDR data processing (uploaded to CAT folder May 6)
+  - Creating centralized CAT subfolder in NOAA folder for team data organization
+  - Coordinating data access and organization for analysis
+- **Team**: 
+  - **Progress Report (CLIN0006) due Wednesday, June 3, 2026** - utilize templates from https://navysbir.com/links_forms.htm and Google Docs templates
+  - Gather Phase II Cal/Val partnership info (WHOI arrays via 53rd Weather Wing, ocean arrays contacts from Josh W., other sources)
+  - Meeting planned week of May 13, 2026 for Phase II Cal/Val plan finalization
 
 **Phase I Option Deliverables:**
-- Phase II Cal/Val Plan (due May 20)
+- Phase II Cal/Val Plan (due May 20) - meeting scheduled next week to finalize
 - Additional cal/val with NOAA data/ISARRA (due June 20)  
 - De-ice heaters design (due July 20)
 - Stakeholder engagement (due September 20)
 
 ## Client & External References
 **Primary Navy Contacts:**
-- Josh Cossuth (TPOC) - Navy stakeholder providing feedback and reviews
+- Josh Cossuth (TPOC) - Navy stakeholder providing feedback and reviews; less interested in over-land data
 - Meredith Needham - Navy program administrator managing reporting requirements and deadlines
 
-**Collaborators:**
-- NOAA: Dropsonde comparisons, CAO tower access in Colorado; AOC (Aviation Operations Center) in Lakeland for field operations coordination
-- NASA Glenn IRT: Tunnel access for Phase 2 testing (authorization letter needed)
-- NCAR: Terry Hock and Holger providing Vaisala humidity correction formulas
-- Kevin Lacroix: Naval Meteorology and Oceanography Command
-- Nick Pawlenko: Letter of support provider
-- WHOI: Ocean measurements collaboration
-- USF: Moorings west of Florida for testing
-- OOI buoys: Turbulence comparison data
-- TDR (Tropical Cyclone Data Repository): Target repository for 1 Hz downsampled data products
-- Lakeland AOC data tech "Mach": Support for field operations connectivity
-
-## Recurring Topics & Themes
-- **Technical Performance**: S0 sensor characterization and validation against established platforms
-- **Environmental Requirements**: Cold weather performance specifications and de-icing capabilities  
-- **Data Quality**: Humidity sensor corrections, turbulence algorithms, automated QC processes
-- **Multi-Rate Sensor Data Management**: Handling different sampling rates (5Hz PTH, 100Hz wind, 100Hz static pressure) in WMO-compliant formats; dual data product strategy for full-rate and downsampled outputs
-- **Validation Planning**: Ocean arrays, NOAA buoys, tower comparisons for Phase II testing
-- **Stakeholder Engagement**: Regular TPOC meetings, letter of support collection, operational transition planning
-- **Field Operations Coordination**: Real-time communication systems for S0 deployment missions
-- **Program Reporting**: Regular progress reports and Navy SBIR documentation requirements
-
-## Important Resources
-**Documentation:**
-- Meeting notes: https://docs.google.com/document/d/1UiSBC5bAeXPg5TmXkQCgDjfXaVGQ0cApGp7pMXogH0U/edit
-- Work plan gantt chart: https://docs.google.com/spreadsheets/d/12BKEpLk5307ZSQYOEnzULTR-TKdUv2ZP5Cp72o9fzgw/edit
-- Kickoff brief template: https://docs.google.com/presentation/d/12CdhWT4xQpLgt3OGQCEe99Fzdr94ZLVnDpWchSBYMS4/edit
-- IRC connectivity instructions (shared via Google Doc by Jun Zhang)
-- Navy SBIR Report Templates: https://navysbir.com/links_forms.htm
-
-**Data Sources:**
-- NDBC buoy data: https://www.ndbc.noaa.gov/obs.shtml
-- NOAA CAO tower: 3-second raw data and 1-minute QC'd data at 30m, 100m, 508m
-- NOAA dropsonde data from Hurricane Gabrielle flights
-- TDR (Tropical Cyclone Data Repository): Target for 1 Hz downsampled dataset distribution
+**Collaborators & Partners:**
+- **53rd Weather Wing**: Confirmed interest in dropping S0s over WHOI arrays during Phase II as part of training exercises
+- NOAA: 
+  - Dropsonde data from CAT flights (HRD source via Jun Zhang)
+  - AOC (Aviation Operations Center) in Lakeland for field operations coordination and flight computer data access
+  - P3 platform hosting CAT flights
+-

@@ -1,19 +1,19 @@
 {
   "project_code": "300-3",
   "qbo_class_names": [
-    "[300-3] 2026 IDIQ"
+    "[300-3] 2026 IDIQ",
+    "[300] NOAA:[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-05-03",
-    "end": "2026-05-06"
+    "start": "2026-05-06",
+    "end": "2026-05-07"
   },
   "totals": {
-    "revenue": 288000.0,
-    "expenses": 348.79,
+    "revenue": 216000.0,
+    "expenses": 601.09,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 165.77,
-      "DIRECT COSTS:DC-Direct Cost Purchases": 129.92,
-      "Inventory Asset": 53.1
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 480.88,
+      "Inventory Asset": 120.21
     }
   },
   "invoices": [
@@ -87,120 +87,37 @@
       ]
     }
   ],
-  "bills": [],
-  "purchases": [
+  "bills": [
     {
-      "type": "Purchase",
-      "date": "2026-05-05",
-      "doc_number": "",
-      "total": 310.81,
-      "attributed": 207.21,
-      "vendor": "",
+      "type": "Bill",
+      "date": "2026-05-06",
+      "doc_number": "103031641",
+      "total": 901.63,
+      "attributed": 601.09,
+      "vendor": "Aeronet Worldwide",
       "customer": "",
-      "balance": null,
-      "memo": "FEDEX37097183 - 4699",
-      "lines": [
-        {
-          "amount": 207.21,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": "Shipment from Alerion Tech in Spain to BST. (Items are from MP Jet, order #09449)"
-        },
-        {
-          "amount": 41.44,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": ""
-        },
-        {
-          "amount": 62.16,
-          "account": "Inventory Asset",
-          "description": "For future sales of 6 S0s"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-04",
-      "doc_number": "SW65S791",
-      "total": 83.29,
-      "attributed": 83.29,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
+      "balance": 0.0,
       "memo": "",
       "lines": [
         {
-          "amount": 83.29,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-04",
-      "doc_number": "68514",
-      "total": 87.44,
-      "attributed": 58.29,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
+          "amount": 601.09,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shiping products from Paramount Tube to Northwind Composites for S0 projects"
+        },
         {
-          "amount": 58.29,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "amount": 120.22,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
           "description": ""
         },
         {
-          "amount": 11.66,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
-          "description": ""
-        },
-        {
-          "amount": 17.49,
+          "amount": 180.32,
           "account": "Inventory Asset",
-          "description": "For future sales of 6 S0s"
+          "description": ""
         }
       ]
     }
   ],
+  "purchases": [],
   "purchase_orders": [],
-  "payments": [
-    {
-      "type": "Payment",
-      "date": "2026-05-04",
-      "doc_number": "",
-      "total": 54000.0,
-      "attributed": 54000.0,
-      "vendor": "",
-      "customer": "[300-3] 2026 IDIQ",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 54000.0,
-          "account": "",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Payment",
-      "date": "2026-05-04",
-      "doc_number": "",
-      "total": 18000.0,
-      "attributed": 18000.0,
-      "vendor": "",
-      "customer": "[300-3] 2026 IDIQ",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 18000.0,
-          "account": "",
-          "description": ""
-        }
-      ]
-    }
-  ]
+  "payments": []
 }
