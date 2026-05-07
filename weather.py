@@ -227,7 +227,10 @@ def format_weather(sites=None) -> str:
                 f"  Humidity: {current['relative_humidity_2m']}%\n"
                 f"  _Next 6 hours:_\n{forecast}"
             )
-        except Exception as e:
-            blocks.append(f"*{site['name']}*\n  Error fetching weather: {e}")
+        except Exception:
+            # Skip the block entirely on fetch failure — the URL line at
+            # the end of the message gives the team a place to check.
+            # If every site fails, the output collapses to just the URL.
+            continue
     blocks.append("Detailed site info: https://weather.bst.aero")
     return "\n\n".join(blocks)

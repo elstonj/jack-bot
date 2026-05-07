@@ -44,19 +44,27 @@ PRIORITIZATION RULES (in order of weight):
 6. Everything else by due date proximity
 
 CORRECTIONS AND FEEDBACK ARE ABSOLUTE:
-If a CORRECTION or FEEDBACK entry (or a reply in #OPERATIONS) says a task/project \
-is complete, cancelled, handled externally, or should be dropped, you MUST exclude \
-it entirely from BOTH the team summary AND the per-person priorities — even when \
-pre-distilled knowledge files still list it as open, overdue, or pending. The \
-knowledge files are refreshed periodically and may lag real-world state; live \
-corrections always win. Never reference a corrected-out item as "overdue" in the \
-team summary.
+A CORRECTION or FEEDBACK entry, or a reply in #OPERATIONS, ALWAYS overrides whatever \
+Asana / Toggl / distilled knowledge files say. The knowledge files are refreshed \
+periodically and lag real-world state; live human input always wins. Apply EVERY \
+correction faithfully — not just the obvious ones:
+- "complete / cancelled / handled externally / done / dropped" → exclude entirely \
+  from the team summary AND per-person priorities. Never call it "overdue".
+- "caught up / back on track / no longer blocked / no longer behind" → do NOT flag it \
+  as :rotating_light:, :warning:, "behind", "critical", or "catching up" in the team \
+  summary. It's healthy; treat it like routine in-progress work and likely OMIT it \
+  from the team summary entirely (which is reserved for behind / critical items).
+- "now priority #1 / elevated / higher priority this month" → SURFACE it in the team \
+  summary as a top item even if Asana hasn't been updated yet. The team needs to know \
+  what to rally around.
+- Date shifts ("moved to Friday", "delayed to Fall") → use the override date, not the \
+  Asana date. Don't flag as overdue if the override sets a future date.
+- Reassignments ("Beck is handling X now") → surface under the new owner's section.
 
-The user message may begin with a `PROJECT STATUS OVERRIDES` block — treat every \
-line in that block as hard truth. It is pre-distilled from team corrections and \
-supersedes any stale Asana dates or distilled knowledge files further down. If an \
-override says a project is delayed, complete, or handled externally, do NOT surface \
-its tasks as priorities or mark them overdue.
+The user message may begin with a `PROJECT STATUS OVERRIDES` block — treat every line \
+as hard truth and apply ALL of it, not just the lines that match the obvious "complete / \
+delayed" pattern. If an override says something is caught up, don't flag it as critical. \
+If an override elevates something, surface it.
 
 COMPLETED TASK DETECTION:
 If email subjects, Slack messages, or Drive activity suggest a task is already DONE (e.g. \
@@ -188,21 +196,33 @@ def _sync_operations_feedback(slack_client):
         if m:
             seen_ts.add(m.group(1))
 
-    try:
-        oldest = str(int(time.time() - (14 * 86400)))
-        result = slack_client.conversations_history(
-            channel=OPERATIONS_CHANNEL, limit=200, oldest=oldest,
-        )
-    except Exception:
-        return
-
     bot_user_id = None
     try:
         bot_user_id = slack_client.auth_test().get("user_id")
     except Exception:
         pass
 
-    for msg in result.get("messages", []) or []:
+    # Page through the full 14-day window. A single 200-message page only
+    # covers a few days in a busy channel, so older replies (including
+    # important @-mentions from earlier in the week) silently dropped off
+    # before this loop ever saw them.
+    oldest = str(int(time.time() - (14 * 86400)))
+    all_msgs: list[dict] = []
+    cursor = None
+    for _ in range(10):  # hard cap so a Slack API quirk can't spin us forever
+        kwargs = {"channel": OPERATIONS_CHANNEL, "limit": 200, "oldest": oldest}
+        if cursor:
+            kwargs["cursor"] = cursor
+        try:
+            result = slack_client.conversations_history(**kwargs)
+        except Exception:
+            break
+        all_msgs.extend(result.get("messages", []) or [])
+        cursor = result.get("response_metadata", {}).get("next_cursor")
+        if not cursor:
+            break
+
+    for msg in all_msgs:
         if msg.get("bot_id") or msg.get("subtype") in (
             "channel_join", "channel_leave", "channel_topic", "channel_purpose",
             "bot_message",
