@@ -3,47 +3,47 @@
 ## Overview
 - **Owner:** Beck Cotter
 - **Team:** BST (Whole Team)
-- **Status:** Active — 5 open proposals in flight, 3 recently completed
-- **Total Funding Opportunity:** ~$1.35M+ across active proposals
-  - Genesis Mission DOE w/BNL: $336.6K to BST (total $629.8K with $293.2K subcontracted)
-  - PrecisionTerra NASA subcontract: $91.8K to BST (Phase II potential up to $637.5K over 24 months)
-  - NASA Phase I (Wildfire Persistence): $225K to BST
-  - Chidong Zhang / S0 VTOL (NOAA): Amount TBD
-  - ONR w/Beth Sanabia: Amount TBD
-  - NASA Aero RFI: Amount TBD
+- **Status:** Active — 4 open proposals in flight, 2 recently completed (DoD SBIR/STTR), plus 5 earlier-stage proposals from prior knowledge file
+- **Total Funding Opportunity:** ~$1.35M+ across active proposals (see Key Deliverables table)
+- **Immediate Risk:** NASA RFI and NASA SaaS RFI both due **2026-05-07 @ 2:00pm** — NASA SaaS marked "under review" but NASA Aero RFI still "incomplete"
 
 ## Key Deliverables & Milestones
 
-| Proposal | Organization | Due Date | Budget (to BST) | Period of Performance | Status |
-|----------|--------------|----------|-----------------|----------------------|--------|
-| NASA Aero RFI | NASA | 2026-05-07 @ 2:00pm | TBD | — | Started but incomplete |
-| Genesis Mission DOE w/BNL | DOE w/BNL | 2026-05-01 | $336,635 | 9 months (500–750K total) | Submitted, under review |
-| PrecisionTerra NASA subcontract | PrecisionTerra (NASA Phase I/II) | 2026-05-15 | $91,833 | Phase II: up to $637.5K over 24 months | Started but incomplete |
-| Chidong Zhang / S0 VTOL | NOAA | No due date | TBD | Potential spring 2028 deployment | Early stage |
-| ONR w/Beth Sanabia | ONR | No due date | TBD | — | Not yet started |
+| Proposal | Organization | Due Date | Budget (to BST) | Status |
+|----------|--------------|----------|-----------------|--------|
+| **NASA Aero RFI** | NASA | **2026-05-07 @ 2:00pm** | TBD | **Started but incomplete** — URGENT |
+| **NASA SaaS and Commercial Partners (RFI)** | NASA | **2026-05-07 @ 2:00pm** | TBD | **Submitted, under review** |
+| **2026 DoD SBIR BAA - Runtime Assured Autonomy** | DoD-USAF | 2026-06-03 | TBD | Open — Dan Prendergast |
+| **2026 DoD SBIR BAA - Low-cost Modular Payload UAS for EW** | DoD-USAF | 2026-06-03 | TBD | Open — Dan Prendergast |
+| Genesis Mission DOE w/BNL | DOE w/BNL | 2026-05-01 | $336,635 | Submitted, under review |
+| PrecisionTerra NASA subcontract | PrecisionTerra (NASA Phase I/II) | 2026-05-15 | $91,833 | Started but incomplete |
+| Chidong Zhang / S0 VTOL | NOAA | No due date | TBD | Early stage |
+| ONR w/Beth Sanabia | ONR | No due date | TBD | Not yet started |
 
 **Recent Completions:**
-- NOAA/FY27 OMAO - Joe (completed 2026-05-05, due 2026-07-01)
+- DoD STTR 2026 BAA (Dan Prendergast, completed 2026-05-06, due 2026-06-03)
+- DoD SBIR 2026 BAA (Dan Prendergast, completed 2026-05-06, due 2026-06-03)
+- NOAA/FY27 OMAO (Joe, completed 2026-05-05, due 2026-07-01)
 - ARMY Modular Payloads for UAS (completed 2026-05-05, due 2026-06-03)
 
 ## Task Summary
-- **Total:** 8 tasks (5 open, 3 completed)
+- **Total:** 6 tasks shown in new data (4 open, 2 completed) + 5 earlier-stage proposals from prior knowledge file
 - **By Assignee:**
-  - **Beck Cotter:** 4 open + 2 completed — managing Genesis Mission, PrecisionTerra subcontract, NASA Aero RFI, Chidong Zhang NOAA opportunity
-  - **Dan Prendergast:** (DevX Autonomy from previous data — not shown in current task list)
-  - **Unassigned:** 1 open (ONR w/Beth Sanabia)
+  - **Beck Cotter:** 2 open (NASA Aero RFI, NASA SaaS RFI) — both due 2026-05-07 @ 2:00pm
+  - **Dan Prendergast:** 2 open (2026 DoD SBIR BAA proposals) + 2 recently completed (DoD STTR, DoD SBIR BAA) — due 2026-06-03
+  - **Unassigned:** ONR w/Beth Sanabia (from prior data)
+- **Completion Rate (new data):** 33% (2 of 6 completed)
 
 ## Recent Activity
-- **2026-05-05:** Two proposals completed (NOAA/FY27 OMAO, ARMY Modular Payloads)
-- **2026-05-07 (imminent):** NASA Aero RFI due @ 2:00pm — started but incomplete; includes shared Google Doc for call details
-- **2026-05-15:** PrecisionTerra NASA subcontract due — Phase II solicitation expected by early 2026; Phase II budgets increased (now $1.275M base for Phase II, enabling subcontract up to $637.5K over 24 months)
-- **Beck's Recent Update (2026-05-04):** Notebooks set up for each proposal with templates, RFIs, and relevant proposals as sources; awaiting AI processing
+- **2026-05-06:** Two DoD proposals completed (STTR 2026 BAA, SBIR 2026 BAA) by Dan Prendergast
+- **2026-05-07 (TODAY/IMMINENT):** 
+  - **NASA Aero RFI due @ 2:00pm** — started but incomplete; shared Google Doc for call details available
+  - **NASA SaaS and Commercial Partners RFI due @ 2:00pm** — marked "submitted, under review" with Google Drive folder for supporting materials
+- **2026-06-03:** Two new DoD SBIR BAA proposals due (Dan Prendergast) — Runtime Assured Autonomy and Low-cost Modular Payload UAS for EW
+- **2026-05-15:** PrecisionTerra NASA subcontract due (from prior knowledge file)
 
 ## Notes & Context
-- **NASA Aero RFI:** Due 2026-05-07 @ 2:00pm (hard deadline); full call details in shared Google Doc
-- **Genesis Mission:** Still under review after 2026-05-01 submission; Challenge Area 11 (AI-Driven Autonomous Laboratories), Advanced Robotics focus; includes 5-page Phase I narrative and $293.2K subcontract component
-- **PrecisionTerra Subcontract:** Significant funding upside — Phase II increased to $1.275M base (from previous cap); BST subcontract can reach $637.5K over 24 months
-- **Chidong Zhang / S0 VTOL (NOAA):** Ongoing conversation about spring 2028 deployment cruise; call for proposals anticipated; early-stage outreach
-- **ONR w/Beth Sanabia:** Unassigned; no due date or funding amount yet established
-- **All proposals show Funding/Confidence: 0** — may indicate early-stage or incomplete confidence assessments
-- **Template & AI readiness:** Beck has established proposal notebooks with templates and source materials; AI processing underway as of 2026-05-04
+- **🚨 CRITICAL:** NASA RFI deadlines are today (2026-05-07 @ 2:00pm). NASA Aero RFI is marked incomplete; NASA SaaS RFI is under review but completion status unclear. Beck Cotter is owner for both.
+- **DoD SBIR/STTR Activity:** Dan Prendergast completed two DoD proposals (STTR and BAA) on 2026-05-06 and now has two new DoD SBIR BAA proposals due 2026-06-03. New topics focus on autonomous Air Force platforms (Runtime Assured Autonomy) and low-cost modular EW payload UAS (Group 3 and below).
+- **All active proposals show Funding/Confidence: 0** — may indicate early-stage assessment or incomplete confidence ratings.
+- **Prior Knowledge File Context:** Five additional proposals tracked (Genesis Mission $336.6K, PrecisionTerra $91.8K potential Phase II reach, NASA Phase I Wildfire $225K, Chidong Zhang/S0 VTOL NOAA, ONR w/Beth Sanabia). These remain active alongside new data set.

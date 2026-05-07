@@ -1,24 +1,24 @@
 # Nate Straus — Time Tracking
 
 ## Summary
-- Total hours tracked: 1,382.0 hours (increased 8.2 hours from previous 1,373.8)
+- Total hours tracked: 1,390.2 hours (increased 8.2 hours from previous 1,382.0)
 - Primary projects: SBIR Hurricane Phase II+ / 2026 IDIQ (NOAA), Project 183171534, S2 IRAD & Fleet Maintenance, UMES S3, Flight Testing
-- Time period covered: Ongoing tracking with Customer Support workload receding; renewed activity on NOAA and new university client work
+- Time period covered: Ongoing tracking with sustained focus on NOAA Hurricane portfolio; new university client work established; Customer Support workload receded
 
 ## Project Breakdown
-- **[301-2] SBIR - Hurricane Phase II+ (NOAA: Joe Cione)**: 481.9 hours (34.8%)
-- **Project 183171534**: 353.4 hours (25.6%)
-- **[001-06] S2 IRAD & Fleet Maintenance (IRAD)**: 151.8 hours (11.0%)
-- **Project 160309352**: 128.0 hours (9.3%)
+- **[301-2] SBIR - Hurricane Phase II+ (NOAA: Joe Cione)**: 481.9 hours (34.6%)
+- **Project 183171534**: 353.4 hours (25.4%)
+- **[001-06] S2 IRAD & Fleet Maintenance (IRAD)**: 151.8 hours (10.9%)
+- **Project 160309352**: 128.0 hours (9.2%)
+- **[300-3] 2026 IDIQ (Hurricane) (NOAA)**: 35.7 hours (2.6%) — **+8.2 hours this batch** — undescribed work; now third activity batch
 - **[001-08] Flight Testing (IRAD)**: 46.0 hours (3.3%)
 - **[001-07] S3 IRAD (IRAD)**: 40.6 hours (2.9%)
-- **[001-01] General IRAD (IRAD)**: 44.4 hours (3.2%) — **+1.0 hours this batch** — email, administrative
+- **[001-01] General IRAD (IRAD)**: 44.4 hours (3.2%) — email, administrative
 - **[001-05] S1 IRAD & Fleet Maintenance (IRAD)**: 28.5 hours (2.1%)
-- **[300-3] 2026 IDIQ (Hurricane) (NOAA)**: 27.5 hours (2.0%) — **+3.0 hours this batch** — undescribed work
-- **[031-1] UMES S3 (University of Maryland Eastern Shore)**: 4.2 hours (0.3%) — **NEW in this batch** — Tails work
+- **[031-1] UMES S3 (University of Maryland Eastern Shore)**: 4.2 hours (0.3%) — Tails work
 - **[451-1] INSTAAR S3 x 2**: 19.2 hours (1.4%)
 - **Commercial Sales**: 22.2 hours (1.6%)
-- **[001-12] Customer Support (IRAD)**: 16.2 hours (1.2%) — *no new activity this batch*
+- **[001-12] Customer Support (IRAD)**: 16.2 hours (1.2%) — no new activity
 - **[043-3] ByLight M2/Halo**: 8.0 hours (0.6%)
 - **[212-2] NASA S2 & Parts**: 2.2 hours (0.2%)
 - **[001-20] PTO**: 6.0 hours (0.4%)
@@ -26,30 +26,35 @@
 - **[400-5] SBIR - Soil Moisture Mapping (Department of the Air Force)**: 2.1 hours (0.2%)
 
 ## Recent Activity
-- **Customer Support plateau**: No new hours logged this batch—previous spike (11.2h across two batches) appears to have concluded; S2 servo/calibration work for IRISS client S20004 likely complete or transitioning
-- **NOAA project resumption**: 3.0 hours back to [300-3] 2026 IDIQ (Hurricane) with no task description—first activity on this project in last two batches; represents return to primary portfolio work
-- **New client engagement**: 4.2 hours on **[031-1] UMES S3** (University of Maryland Eastern Shore)—new project in tracking system; work tagged as "Tails"—likely aircraft tail inspection, repair, or fabrication
-- **Administrative baseline maintained**: 1.0 hour on General IRAD (email, etc.)—consistent with prior pattern
+- **2026 IDIQ sustained engagement**: 8.2 hours logged, continuing pattern from prior batch (+3.0h). This is third consecutive batch with activity on [300-3]; project clearly reactivated and stabilized back into portfolio; **no task description provided again**—documentation gap persists
+- **NOAA Hurricane portfolio strengthened**: Cumulative NOAA hours now 517.6 (37.2% of total)—primary focus area with both SBIR Phase II+ and 2026 IDIQ active
+- **UMES S3 remains dormant**: 4.2 hours from prior batch; no new activity this cycle—suggests single service event or initial onboarding rather than sustained engagement
+- **Customer Support fully dormant**: No hours this batch or prior batch; previously active S20004 work appears conclusively closed
 
 ## Patterns
-- **Customer Support de-escalation**: 7.2h spike two batches ago now dormant (0h this batch)—indicates service event completion or customer issue resolved; return to project-based work
-- **Primary portfolio reactivation**: NOAA 2026 IDIQ returns to active work after two-batch gap; consistent with project schedule resumption or allocation rebalancing
-- **New university partnership entry**: UMES S3 appears for first time with specific task (Tails); 4.2h commitment suggests either:
-  - New research collaboration on S3 aircraft
-  - Contracted maintenance/inspection work for educational institution
-  - BST equipment stationed at UMES requiring on-site support
-- **Documentation variance**: 2026 IDIQ (3.0h) logged without task description—contrasts with improved specificity in prior batches; suggests either routine administrative work or data entry gap
-- **Work type distribution normalizing**: This batch returns to pattern of distributed effort across multiple projects (3 projects) versus prior two batches dominated by single Customer Support ticket (87% concentration)
+- **2026 IDIQ reactivation sustained**: Three consecutive batches of activity (3.0h, 8.2h cumulative in last two) signals project is not transient; pattern suggests either:
+  - Regular ongoing work cadence (approximately 3-5h per cycle expected)
+  - Project phase resumption after prior pause
+  - Allocation shift favoring Hurricane portfolio relative to other IRAD work
+- **Documentation deterioration on 2026 IDIQ**: Both recent entries (3.0h and 8.2h) logged without task description—inconsistent with improved documentation discipline established earlier; suggests either routine/repetitive work, administrative backfill, or data entry process breakdown
+- **UMES S3 entry appears isolated**: Single 4.2h batch suggests one-time service engagement or initial contract work; no follow-on activity indicates either:
+  - Work completed in single session
+  - Sporadic engagement model (repair/maintenance calls)
+  - Project awaiting next phase trigger
+- **Customer Support cycle concluded**: 11.2h spike followed by complete dormancy (two batches) confirms IRISS S20004 service event fully resolved
+- **Portfolio concentration increasing**: NOAA now 37.2% of tracked hours (up from 36.8%); represents deliberate or systemic rebalancing toward Hurricane-focused work
 
 ## Recommendations
-1. **Confirm UMES S3 scope and duration**: 4.2h entry is new; clarify:
-   - Is this ongoing contracted work or one-time service event?
-   - What "Tails" work entails (inspection, repair, fabrication, testing)?
-   - Duration forecast and frequency of engagement with University of Maryland Eastern Shore
-   - Billing model and whether project should be expanded tracking given entry into portfolio
-2. **Document 2026 IDIQ work**: 3.0h hours logged without description; add task specificity to align with improved documentation discipline established in prior batches (e.g., "Tails," "servo calibration")
-3. **Validate Customer Support closure**: No hours this batch after 11.2h spike—confirm with Nate whether:
-   - IRISS S20004 S2 servo/calibration work concluded (project debrief needed)
-   - Is this repeating maintenance cycle with spacing between visits (forecast pattern)?
-   - Are remaining open issues elevated or closed?
-4. **Monitor portfolio rebalancing**: Primary projects (NOAA 60.4% cumulative) were dormant two batches, now resuming; track whether this signals project phase shift or temporary Customer Support diversion
+1. **Escalate 2026 IDIQ documentation**: Third consecutive batch with undescribed work totaling 11.2 hours. Action:
+   - Request Nate provide retroactive task descriptions for prior 3.0h and current 8.2h batches
+   - Establish standing requirement: all 2026 IDIQ entries must include task tag or description (e.g., "Hurricane modeling," "Data prep," "Deliverable review")
+   - Clarify whether work is routine/repetitive (if so, document template for efficiency) or genuinely ad-hoc
+2. **Define UMES S3 engagement model**: Confirm with Nate whether 4.2h "Tails" work was:
+   - Single contracted visit (project complete)
+   - Pilot engagement (expect sporadic future work)
+   - Ongoing support (forecast monthly cadence)
+   - If ongoing: add to standing portfolio review; clarify billing and scope boundaries
+3. **Monitor NOAA portfolio concentration**: Two NOAA projects now represent 37.2% of tracked hours; validate against:
+   - Authorized resource allocation targets
+   - Whether this reflects actual business priority or administrative burden (admin tasks miscoded as project work)
+   - Capacity planning for H2 (risk of overallocation if Customer Support spikes return)

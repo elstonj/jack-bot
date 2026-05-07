@@ -1,91 +1,97 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned: 1,038 combined** (962 previous + 48 from May 4-5 + 28 new from May 5-6)
-- **Date range covered: March 18 - May 6, 2026 (approximately 50 days)**
+- **Total messages scanned: 1,064 combined** (1,038 previous + 26 from May 6-7)
+- **Date range covered: March 18 - May 7, 2026 (approximately 51 days)**
 - **Approximate daily volume: 20-25 emails per day**
-- **May 5-6 snapshot (28 messages)**: 96% automated/promotional (vendor orders, shipment tracking, logistics, account activations); 3 human/strategic messages (1 direct vendor inquiry to Doodle Labs, 2 system notifications); task management and time tracking alerts
-- **Sustained procurement acceleration**: High-velocity component and equipment sourcing continues through May 6; logistics notifications intensifying (UPS, FedEx, USPS, Craftcloud, HeliDirect multiple daily updates)
+- **May 6-7 snapshot (26 messages)**: 88% automated/promotional (vendor alerts, logistics, payment processing, tool deals); 12% human/strategic (1 direct vendor reply from Doodle Labs, 4 internal meetings/task assignments, 2 radio equipment quote communications, 1 Navy sensor update)
 
 ## Key Correspondents
 
 ### Top Internal Collaborators (BST team):
-- **Jack Elston** (elstonj@blackswifttech.com, purchasing@blackswifttech.com alias) - CEO; payment processing and strategic decisions
-- **Joshua Fromm** (josh.fromm@blackswifttech.com, purchasing@blackswifttech.com alias) - Operational execution; direct recipient of promotional/vendor alerts; logistics coordination
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) - Hardware/vision systems lead; scheduled May 5 meeting on "Computer Vision Hardware for S0 & S3"
-- **Maciej Stachura** (stachura@blackswifttech.com) - Technical coordination; Atmolab camera system integration
-- **Meredith Needham** - Purchasing coordination
-- **Paige Smith**, **Beck Cotter** - Sustained collaborators
+- **Jack Elston** (elstonj@blackswifttech.com) - CEO; meeting coordination (canceled S0 meeting May 6, internal update meeting May 7 1pm MDT)
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) - Operational execution; internal meeting recipient
+- **Maciej Stachura** (stachura@blackswifttech.com) - Technical coordination; assigned 2 critical tasks via Asana May 6 (S0-AD launcher design and ground testing)
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) - Hardware systems; internal meeting recipient
+- **Beck Cotter** (beck.cotter@blackswifttech.com) - Navy sensor integration coordination
+- **Meredith Needham** (meredith.needham@blackswifttech.com) - Purchasing coordination; radio quote intermediary
+- **Ethan Domagala, Sam Hild, Nathaniel Straus, Paige Smith** - Internal meeting participants (May 7)
 
-### Key External Contacts - ONGOING PROJECTS:
+### Key External Contacts - ACTIVE ENGAGEMENTS:
 
-**Atmolab Camera System Integration (ACTIVE):**
-- **Jure Dolinar (Atmolab)** - Technical lead; replied May 4 on camera system status
+**Wireless Communication Systems (ACTIVE EVALUATION):**
+- **Doodle Labs (customerservice@doodlelabs.com)** - REPLIED to Alex Lomis May 7, 04:51 UTC on "Mesh Rider Nano Refurb" inquiry; marked IMPORTANT (first vendor response in dataset; indicates active vendor engagement phase)
 
-**Strategic Partnership Evaluation:**
-- **Robert Wilson (FastBlaize)** - Edge AI for UAS platforms inquiry (ongoing)
+**Radio/Communication Equipment (NEW):**
+- **Jeff Catherwood (Microhard Corp, jcatherwood@microhardcorp.com)** - Radio equipment quote correspondence; Alex replied May 6, 11:06 AM; Meredith initiated contact May 6, 09:57 AM; marked IMPORTANT (suggests radio/telemetry system evaluation)
 
-**NEW - Wireless Communication Systems:**
-- **Doodle Labs (Mesh Rider Nano)** - Alex initiated direct contact May 5, 11:40 AM CDT with inquiry about "Mesh Rider Nano Refurb"; indicates evaluation of airborne mesh networking for UAS
-- **GetFPV (Chloe)** - Commercial drone platform vendor; Firefly 20 Pro & 25 Mini product alerts (marked IMPORTANT May 5)
+**Battery Systems (NEW):**
+- **Carlita (MG UAV Battery, carlita@mg-uavbattery.com)** - REPLIED May 7, 10:52 AM UTC on "20000mAh 6S Semi Solid State UAV Battery"; marked IMPORTANT (suggests evaluation of advanced battery technology for UAV applications)
 
-**Battery/Power Systems:**
-- **Novan (T-MOTOR)** - Delivery notification May 6, 01:50 UTC (order fulfillment)
-- **Tattu/GenSace** - XPONENTIAL 2026 partnership
+**Servo Systems:**
+- **MKS Servos USA** (sales@mksservosusa.com) - Order receipt #22540 May 6 (servo motor component procurement)
 
-**Instrumentation & Environmental Sensing:**
-- **Met One Instruments (Powered by Acoem)** - Newsletter subscriber (Jeff contact); environmental/air quality monitoring systems
-- **Vaisala** - Conference outreach "Future Artillery 2026" May 5 (environmental/weather monitoring; military/defense application signal)
+**Navy/Defense Partnerships:**
+- **Angel R. Ruiz-Reyes (NAWCAD/US Navy, angel.r.ruiz-reyes.civ@us.navy.mil)**
+- **Anthony D. Brescia (NAWCAD/US Navy, anthony.d.brescia.civ@us.navy.mil)**
+- Beck Cotter coordinated "Bartington Sensor update" with Navy contacts May 6 (marked IMPORTANT)
+
+**Drone/RC Components:**
+- **HeliDirect** (sales@helidirect.com) - Promotional outreach to Meredith Needham May 6
+
+### Top Vendors (Continued):
+- **Harbor Freight** - Sustained daily deal engagement (May 7: ICON pliers, YUKON tool cabinet; May 6: BAUER tools promotion)
+- **UPS** - Multiple package tracking updates (cleared customs May 6, arrival notifications)
+- **PHASE1 AVIATION LLC** - NEW; Invoice 1105 processed via QuickBooks Payments May 6, 21:25-21:29 UTC; payment method saved; suggests new vendor relationship or service contract
+- **USPS, eBay, QuickBooks Payments** - Logistics and payment processing
 
 ## Topic Patterns
 
-### Manufacturing & Fabrication (sustained acceleration):
-- **JawsTec** - CNC ordering; "New materials just dropped" promotional May 5 (material science emphasis)
-- **SendCutSend** - Metal fabrication; shipment notifications May 5-6 (2 shipments in 24-hour window)
-- **Craftcloud** - 3D printing/manufacturing; Order #459340813415 multiple status updates May 5 (out for delivery, delivered same day; suggests time-critical prototyping)
-- **Protolabs** - Rapid manufacturing (from previous data)
+### Active Projects - Navy SBIR Program:
+- **[550-1] NAVY SBIR: Magnetom...** - Asana tasks assigned May 6:
+  - "Design of S0-AD ground launcher complete" (task assigned by Maciej)
+  - "Build up and ground test of S0-AD Launcher" (task assigned by Maciej)
+  - *S0-AD launcher system appears to be core deliverable in Navy SBIR contract*
 
-### Electronics & Components (ACCELERATING):
-- **T-MOTOR** - Delivery notification May 6; active component fulfillment
-- **DigiKey, Pololu, ServoCity, Amazon** - Sustained component sourcing (from previous data)
-- **Offshore Electrics** - Shipment notification May 5; order status update May 5; electrical systems component availability
-- **GetFPV** - Commercial drone components (Firefly 20 Pro & 25 Mini); marked IMPORTANT by system, suggesting strategic interest in existing commercial platforms
+### Radio/Telemetry Systems (NEW - ACTIVE PROCUREMENT):
+- **Microhard Corp radios** - Quote initiated by Meredith May 6; Alex responded same day; marked IMPORTANT; suggests evaluation of secure/industrial radio systems for UAS
+- **Doodle Labs Mesh Rider Nano** - Vendor responded to refurbished unit inquiry; active evaluation continues
 
-### Propulsion & Power Systems:
-- **Vaisala** - "Future Artillery 2026" event invitation (May 5); atmospheric/weather monitoring + military applications signal; possible propulsion/trajectory systems relevance
+### Battery Technology (NEW - ADVANCED SYSTEMS):
+- **MG UAV Battery 20000mAh 6S Semi Solid State** - Carlita replied May 7; marked IMPORTANT; indicates evaluation of next-generation semi-solid-state battery technology for extended flight duration/payload capacity
 
-### Logistics & Shipping Infrastructure:
-- **Pirate Ship** - Shipping payment ($28.76 May 5); alternative shipping platform
-- **FedEx Billing Online** - Invoice notification May 5; business logistics account
-- **USPS Informed Delivery** - Daily digest coordination May 5
-- **UPS** - Multiple tracking notifications (May 5: "Your Package Arrives Tomorrow" + standard tracking)
+### Servo Systems:
+- **MKS Servos USA** - Order #22540 May 6; component for mechanical actuation systems
 
-### IT Infrastructure & Workspace:
-- **FileCloud** - NEW; cloud file storage system onboarded May 5, 12:42 PM EDT (marked IMPORTANT); suggests deployment of enterprise file management
-- **Toggl Track** - Time tracking system alert May 5, 23:27 UTC (marked IMPORTANT, no subject); team productivity/project tracking ongoing
-- **Neat N Tidy** - Cleaning/facility services receipt May 6 (sustained workspace management)
+### Sensor Systems (Navy Integration):
+- **Bartington Sensors** - Beck Cotter coordinated update with Navy NAWCAD contacts May 6 (marked IMPORTANT); likely magnetometer or environmental sensor integration for Navy SBIR platform
 
-### Vendor Outreach (Strategic Evaluation):
-- **Budget** - Promotional "Double Deal" May 5 (tools/equipment; Joshua Fromm specifically targeted)
-- **Harbor Freight** - "10 DAYS OF DEALS Day 6: $40 Off Torque Wrench + $80 Off Impact Socket Set" May 6 (emphasis on precision tools); sustained heavy engagement
-- **SkyGeek** - Aviation/aerospace propeller vendor promotion (May 5); industry-specific tools/parts
+### Hardware & Tools (Sustained):
+- **Harbor Freight** - Daily deal engagement continues; emphasis on precision tools (ICON pliers, YUKON tool cabinets)
+- **Dell Technologies** - Tech refresh event promotion May 6 (IT infrastructure refresh signal)
+- **ELEGOO** - Maker electronics/prototyping promotion May 6
 
-### Environmental & Defense Sensing:
-- **Met One Instruments** - Newsletter (environmental monitoring; potential atmospheric/weather integration)
-- **Vaisala** - Future Artillery 2026 conference (atmospheric/sensing systems for defense applications)
+### Logistics & Payment Infrastructure (Continued):
+- **PHASE1 AVIATION LLC** - NEW vendor; invoice 1105 processed; suggests aircraft/aviation services or components
+- **QuickBooks Payments** - Payment processing for Phase1 Aviation invoice
+- **eBay Payments Terms Update** - Account management
 
 ## Communication Patterns
-- **Automated/Promotional Dominance**: 96% of May 5-6 volume (27/28 messages); consistent with May 2-4 pattern
-- **Peak Logistics Window**: May 5, 12:30-20:00 UTC (concentrated shipment notifications across 8 vendors: Craftcloud 3x, HeliDirect, Offshore Electrics 2x, UPS 2x, SendCutSend, USPS, FedEx)
-- **Direct Vendor Inquiry (NOTABLE)**: May 5, 11:40 AM CDT — Alex Lomis directly emailed **Doodle Labs** (customerservice@doodlelabs.com) about "Mesh Rider Nano Refurb" — first outbound human correspondence to external vendor in dataset; suggests active evaluation phase for wireless mesh systems
-- **Strategic Promotional Engagement**: GetFPV marked IMPORTANT by system (Firefly 20 Pro & 25 Mini); FileCloud onboarding marked IMPORTANT; suggests selective interest in specific vendor/platform offerings
-- **Mailing List/Automated Subscriptions (expanded)**: 
-  - Harbor Freight (daily deals), HeliDirect (shipment alerts), Craftcloud (order status), SendCutSend (shipment tracking), Offshore Electrics (order/shipment status), SkyGeek (promotional), JawsTec (material updates), USPS/UPS/FedEx/Pirate Ship (logistics), GetFPV (product availability), Met One Instruments (newsletter), Vaisala (event/partnership outreach)
-  - **Conference/Event Targeting**: Vaisala "Future Artillery 2026" (May 5) — appears to be defense/military technology event
-- **System Notifications (task/time management)**:
-  - **Asana** - Task due reminder May 5 (blackswifttech.com project)
-  - **Toggl Track** - Time tracking alert May 5 23:27 UTC (IMPORTANT, marked for review)
-  - **FileCloud** - System welcome/setup May 5 (IMPORTANT, new platform deployment)
 
-## Key Relationships
-- **Closest Internal Collaborators**: Jack Elston (CEO/strategic), Joshua Fromm (day
+- **Automated/Promotional Dominance**: 88% of May 6-7 volume (23/26 messages)
+- **Strategic Human Correspondence (12%)**: 
+  - **Doodle Labs reply** (May 7, 04:51 UTC) — first vendor reply from wireless inquiry; marked IMPORTANT
+  - **Carlita/MG UAV Battery reply** (May 7, 10:52 AM) — advanced battery technology discussion; marked IMPORTANT
+  - **Microhard Corp quote coordination** (May 6, ongoing thread with Alex, Meredith, Jeff Catherwood) — radio system procurement; marked IMPORTANT
+  - **Asana task assignments** (May 6, 15:06 UTC) — 2 critical S0-AD launcher tasks from Maciej Stachura
+  - **Navy sensor coordination** (May 6, 10:51 AM) — Beck Cotter/Bartington sensor update to Navy NAWCAD contacts; marked IMPORTANT
+  - **Internal meeting** (May 7 1pm MDT) — Updated invitation from Jack Elston to full team; replaces May 6 canceled S0 meeting
+
+- **Peak Activity Window**: May 6, 09:00-18:00 UTC (meeting cancellations, task assignments, quote correspondence, Navy coordination, logistics notifications)
+
+- **Strategic Meeting Activity**:
+  - **S0 Meeting canceled** May 6, 10:30am MDT (Jack Elston notification)
+  - **BST Internal Update Meeting scheduled** May 7, 1pm MDT (Jack Elston, full team attendance)
+
+- **Mailing List/Automated Subscriptions (Expanded)**:
+  - Harbor Freight (daily deal engagement continues), USPS, UPS, eBay, QuickBooks Payments, HeliDirect, ELEGOO, Dell Technologies,

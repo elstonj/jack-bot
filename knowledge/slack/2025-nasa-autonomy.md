@@ -5,7 +5,7 @@ This channel is for the 2025 NASA SBIR Phase I autonomy project focused on devel
 
 **Key participants:** Jack Elston, Dan Prendergast, Maciej, Ben Busby, Beck Cotter, Meredith Needham
 
-**Activity level:** High activity throughout the project period with regular meetings and deliverables. Project completion phase (March-April 2026) shows transition to Phase II planning. Currently in active Phase II proposal development stage with multiple BAA opportunities under evaluation.
+**Activity level:** High activity throughout the project period with regular meetings and deliverables. Project completion phase (March-April 2026) shows transition to Phase II planning. Currently in active Phase II proposal development stage with multiple BAA opportunities under evaluation. Recent focus (May 2026) on Phase II proposal requirements including capital commitments documentation.
 
 ## Key Decisions
 - **October 2025:** Decided against using NASA's Core Flight System (cFS) due to being too heavyweight for BST's needs, despite it being designed for spacecraft
@@ -20,12 +20,12 @@ This channel is for the 2025 NASA SBIR Phase I autonomy project focused on devel
 - **Safe Sandbox Environment:** Creating supervisory control system capable of overriding experimental control inputs
 - **ML Controller Development:** Training simple ML controllers for terrain following using altitude control datasets
 - **Hardware Integration:** Porting FreeRTOS to AP hardware and implementing Nix on Raspberry Pi
-- **Phase II Proposal:** Active development across multiple NASA SBIR/STTR BAA opportunities; strategic alignment assessment underway for best fit subtopics
+- **Phase II Proposal:** Active development across multiple NASA SBIR/STTR BAA opportunities; strategic alignment assessment underway for best fit subtopics; currently working on Phase II proposal components including capital commitments addendum
 
 ## Action Items & Commitments
 - **Dan Prendergast:** Led architecture design, slide deck creation, and report writing
-- **Beck Cotter:** Project management, report coordination, client communications; **initiated Phase II draft proposal (April 9, 2026); forwarded NASA '26 BAA announcements (April 21, 2026); identified Phase II proposal fit across multiple BAA opportunities and evaluated subtopic alignments (April 27, 2026)**
-- **Jack Elston:** Hardware implementation, sensor integration, technical oversight
+- **Beck Cotter:** Project management, report coordination, client communications; initiated Phase II draft proposal (April 9, 2026); forwarded NASA '26 BAA announcements (April 21, 2026); identified Phase II proposal fit across multiple BAA opportunities and evaluated subtopic alignments (April 27, 2026); identified capital commitments addendum requirement (May 6, 2026)
+- **Jack Elston:** Hardware implementation, sensor integration, technical oversight; tasked with coordinating capital commitment letters from Adria, Bob, and Lisa Marie (May 6, 2026)
 - **Ben Busby:** Simulation environment development and testing
 - **Maciej:** System architecture input and technical guidance
 - **Meredith Needham:** Successfully submitted all Phase I deliverables to ProSAMS (March 27, 2026); confirmed acceptance (April 9, 2026)
@@ -40,6 +40,7 @@ This channel is for the 2025 NASA SBIR Phase I autonomy project focused on devel
 - **RTI International:** DDS middleware provider (Connext Cert and Connext Express products)
 - **Anduril:** Referenced for AI system swapping demonstration capabilities
 - **JSBSim:** Flight simulation software integration
+- **Potential Capital Commitment Sources:** Adria, Bob, and Lisa Marie (internal BST contacts for market validation letters)
 
 ## Recurring Topics & Themes
 - Weekly meetings on Thursdays at 2pm
@@ -48,6 +49,7 @@ This channel is for the 2025 NASA SBIR Phase I autonomy project focused on devel
 - Hardware-software integration challenges
 - Phase II proposal preparation and BAA guidance
 - Identification and evaluation of best-fit subtopics across multiple NASA solicitations
+- Phase II proposal component completion and capital commitment documentation
 
 ## Important Resources
 - [Project Brief](https://docs.google.com/document/d/1xfT370jdPLRoWR2VJVo4v83mDSp7kEqQv0qcRbBXN34/edit?usp=sharing)
@@ -74,10 +76,10 @@ This channel is for the 2025 NASA SBIR Phase I autonomy project focused on devel
   - Focus: Adaptive decision-making, real-time autonomy
   - *BST Fit:* Edge autonomy + adaptive sampling capabilities
 
-## Recent Activity
-- **April 27, 2026:** Beck Cotter analyzes three separate NASA BAA opportunities (SBIR 26A-1, SBIR 26B-1, STTR 26B-1) and identifies strong technical fit across multiple AERO subtopics; May 21, 3:00pm Mountain deadline identified
-- **April 21, 2026:** Beck Cotter forwards NASA '26 BAA announcements to team
-- **April 14, 2026:** NASA confirms SBIR/STTR program reauthorization; Phase II guidance expected shortly
-- **April 9, 2026:** All Phase I deliverables officially accepted in ProSAMS system; Beck Cotter initiates Phase II draft proposal in anticipation of NASA guidance
-- **March 27, 2026:** Final report and all deliverables successfully submitted by Meredith Needham
-- **March
+## Phase II Proposal Requirements (May 2026)
+
+### Capital Commitments Addendum (Newly Identified)
+- **Requirement:** Section 3.4.6 of Phase II proposal requires Letters of Capital Commitment
+- **Purpose:** Act as indication of market validation and add credibility to proposed effort
+- **Source:** Must come from potential customers, end users, strategic partners, or investors
+- **Format:** Maximum

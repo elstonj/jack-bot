@@ -1,7 +1,6 @@
 # Sales — Shared Drive
 
-Small drive with 3 files.
+Small drive with 2 files.
 
-- Letter of Support for CoVar.pdf (modified 2026-05-05)
-- Letter of Support for CoVar (modified 2026-05-05)
-- BlackSwift_DanielPrendergast_ZEUS_LetterOfSupport.docx (modified 2026-05-05)
+- BST Response - LM UK MAD UAV EOI 2026 (DRAFT) (modified 2026-05-06)
+- EOI - Lockheed Martin UK MAD UAV 2026 v1.docx (modified 2026-05-06)

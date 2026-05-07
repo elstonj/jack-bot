@@ -1,10 +1,10 @@
 # Jack Elston — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,757 (1,657 prior + 100 new May 5–6)
-- **Date range:** April 1–May 6, 2026
-- **Approximate volume:** 100+ messages/day sustained; May 5–6 shows 50 messages across 2 days (~25/day direct correspondence + 25/day automated vendor/system alerts)
-- **Activity pattern:** Continuing late-night/early-morning bursts (00:15–06:31 UTC May 6; 12:26–23:18 UTC May 5) — deal closure, government RFI responses, and proposal finalization concentrated in evening/night hours; pattern intensifying with legal/tax documentation cycling May 5–6
+- **Total messages scanned:** 1,839 (1,757 prior + 82 new May 6–7)
+- **Date range:** April 1–May 7, 2026
+- **Approximate volume:** 100+ messages/day sustained; May 6–7 shows 82 messages across 2 days (~41/day direct correspondence + automated vendor/system alerts)
+- **Activity pattern:** Continuing late-night/early-morning bursts; May 6 activity concentrated 09:00–20:59 MDT with critical deal and government proposal coordination; sustained evening work (20:00–00:59 UTC) on legal/tax documentation and research partnerships
 
 ---
 
@@ -13,76 +13,59 @@
 ### Top Internal BST Contacts
 
 - **Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, partnerships, deal coordination
-  - **New May 5–6:** HIGH VELOCITY: Multiple deal documentation exchanges with Ko Firm legal team (Company Disclosure Schedules, Employment Agreement reviews, DCAA Accounting coordination). Tax comments cycle with Ryan Sykora (Ko Firm) forwarded May 5. Embry Riddle payments/disclosure question (11:34, 11:46 UTC). Black Swift Install Kickoff Meeting followup (10:56 UTC). 401(k) Plan admin task routing (12:27, 12:57 UTC).
-  - **Pattern:** Primary internal coordinator on deal close and financial compliance
+  - **New May 6–7:** CONTINUING DEAL CLOSE CYCLE: Tax comments forwarded from Ko Firm (09:12 UTC May 6 TO Ryan Sykora; SENT). Black Swift Install Kickoff Meeting coordination with ReliAscent (Christy Evans) continuing (14:08, 14:30 UTC May 6; IMPORTANT). Multiple internal memo distributions and bill payment processing (QuickBooks notifications).
+  - **Pattern:** Primary internal finance/deal close coordinator; managing both tax documentation and operational integration activities simultaneously
 
 - **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical partnerships, government coordination
-  - **New May 5–6:** CONTINUING HIGH ACTIVITY: Army SBIR teaming with Sky Mesa Systems (multiple exchanges 11:04–19:26 UTC; IMPORTANT x4). C-UAS/Drone-to-Drone RFI response with Nathan Varberg (Covar) (13:21 UTC; IMPORTANT). Vuncan Demo coordination with Hank Scott/TB2 Aerospace (10:20, 14:29 UTC). Arctic UAS Demo Ottawa followup with Stephen Rowlands/Invest Ottawa (14:46 UTC; IMPORTANT). Navy unmanned test platform collaboration forwarded by Jack (11:20 UTC; SENT).
-  - **Pattern:** Primary technical lead on government/defense teaming proposals
-
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — Operations, government coordination
-  - **New May 5–6:** FY2027 UMS Services RFP coordination with NOAA/multi-agency (Beck responds to Joe Cione RFP May 5 13:01 UTC; IMPORTANT; Jack copied). S0™ VTOL Discussion forwarded by Jack to Beck/Daniel/Maciej (16:59 UTC May 5; SENT).
-  - **Pattern:** Government proposal lead; S0™ VTOL product discussions active
+  - **New May 6–7:** VERY HIGH VELOCITY on government/defense RFIs and technical partnerships:
+    - **Arctic UAS Demo Ottawa:** Follow-up coordination with Krateo Sky (Bob Smith, Lisa Marie Cheney) and international partners (12:41, 12:45, 13:07, 13:14 UTC May 6; IMPORTANT x2; SENT x2). Direct responses to Jack's direction.
+    - **Vuncan Demo:** Hank Scott (TB2 Aerospace) technical coordination (13:00, 13:15 UTC May 6; IMPORTANT x2)
+    - **C-UAS // Drone-to-Drone RFI:** Nathan Varberg (Covar) technical response cycle (12:44, 16:32 UTC May 6; IMPORTANT x2)
+    - **UK MAD UAV Expression of Interest:** Multi-internal coordination with Beck Cotter, Maciej Stachura; Jack forwarding direction (09:47, 12:47 UTC May 6; SENT x2; also Beck Cotter & Maciej coordinating 09:30, 09:37 UTC; IMPORTANT x2)
+    - **S0 RFI (USSOCOM):** Daniel responding to Evan M. Wolff (USSOCOM) (12:36 UTC May 6; IMPORTANT; forwarded from DoD)
+    - **NOAA-NASA AFA Proposal Discussion:** Chris Meek (NASA LARC) hosting multi-agency proposal discussion; Jack & Maciej included on invitation (17:09 UTC May 6; IMPORTANT)
+  - **Pattern:** Primary technical lead executing multiple concurrent government/defense responses; high-frequency coordination with Jack on decision routing and partner management
 
 - **Maciej Stachura** (stachura@blackswifttech.com) — Technical/operations, legal matters
-  - **New May 5–6:** S0™ VTOL Discussion coordination (16:59 UTC May 5; SENT). Employment Agreement reviews with Ko Firm (18:48 UTC May 5; copied by Niki Schwab; IMPORTANT). Included on NOAA FY2027 UMS Services RFP responses.
+  - **New May 6–7:** FY27 UMS Concept Portfolio presentation coordination with Jack (17:43, 17:35, 19:30 UTC May 6; IMPORTANT x2; includes Jack response SENT 17:43 UTC). UK MAD UAV coordination (09:30 UTC May 6; IMPORTANT). Included on NOAA-NASA AFA multi-agency proposal discussion (17:09 UTC May 6; IMPORTANT). Research partnership with Brian Argrow (CU Boulder) on SCUA revisit (18:42 UTC May 6; IMPORTANT).
+  - **Pattern:** Technical lead on both government proposals and research partnerships; concurrent work on portfolio definition (FY27 planning)
 
-- **Paige Smith** (paige.smith@blackswifttech.com) — Engineering, events, outreach
-  - **New May 5:** DOI UxS Conference Call reminder forwarded by Jack (17:53 UTC May 5; SENT)
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — Operations, government coordination
+  - **New May 6–7:** UK MAD UAV Expression of Interest coordination (09:10, 09:37 UTC May 6; IMPORTANT x2). Internal routing with Maciej & Jack (09:10 UTC May 6 forwarding; IMPORTANT).
+  - **Pattern:** Operations/government proposal lead; continuing multi-proposal pipeline management
+
+- **Sam Hild** (sam.hild@blackswifttech.com) — Engineering
+  - **New May 6–7:** Power Supply Board Re-spin technical coordination with Frank Strazzabosco (microfirm@earthlink.net, external vendor). Multiple exchange cycles 10:54–16:33 UTC May 6 (IMPORTANT x4). Jack also responding to Sam on this technical issue (16:49 UTC May 6; SENT).
+  - **Pattern:** Hardware engineering lead; active component supplier coordination on board re-spin iteration
 
 ---
 
 ### Top External Contacts
 
-#### **Legal/Deal Closure (ACCELERATING)**
+#### **Legal/Deal Closure (ACCELERATING PHASE)**
 
-**Ko Firm (Legal Counsel) — ACTIVE DEAL CLOSE CYCLE**
+**Ko Firm (Legal Counsel) — ACTIVE TAX & DEAL CLOSE CYCLE**
 
 - **Ryan Sykora** (rsykora@kofirm.com) — Lead counsel
-  - **NEW May 5–6:** THREE critical tax & deal documentation cycles:
-    - Tax comments exchange (17:47 UTC May 5 SENT; 20:02, 21:24 UTC May 5 FROM Ko; 00:14, 00:15 UTC May 6 FROM Ko — **dual identical subject lines, late-night coordination**; IMPORTANT x3; UNREAD)
-    - MIPA (Mutual Information/NDA?) documentation coordination (15:59 UTC May 5 SENT; 21:24 UTC May 5 FROM Ko; IMPORTANT)
-    - Disclosure Schedules review (17:41 UTC May 5 SENT; 23:18 UTC May 5 FROM Nadia; forwarded from Ko; IMPORTANT)
-  - **Signal:** Tax year-end/deal finalization documentation actively cycling late night May 5–6; multiple concurrent deal tracks (MIPA, disclosure schedules, employment agreements)
+  - **NEW May 6:** THREE critical tax & deal documentation cycles active:
+    - **Tax comments forwarding and review:** 09:12 UTC (Jack TO Ryan SENT); 15:51, 15:51 UTC (Ryan FROM Ko to Jack; IMPORTANT x2; dual timestamps); 17:42 UTC (Ryan FW to Jack; IMPORTANT)
+    - **Black Swift Discussion track:** 15:51 UTC (Ryan to Jack + Brian Rogers, M. Baker Tax Law; IMPORTANT)
+    - **Multiple concurrent deal tracks** implied by "FW: Black Swift - tax comments" subject line pattern
+  - **Signal:** Tax year-end/deal finalization documentation actively cycling May 6 across multiple Ko Firm attorneys and external tax counsel (Brian Rogers, M. Baker Tax Law). **Late-morning/afternoon coordination (09:00–17:42 UTC) suggests same-day turnaround expectations.**
 
-- **Niki Schwab** (nschwab@kofirm.com) — Counsel
-  - **NEW May 5–6:** Employment Agreement review continuation (17:52 UTC May 5 SENT; 18:48 UTC May 5 FROM Niki; IMPORTANT; copied to Maciej Stachura)
+#### **Government/Defense Contracts (MULTI-AGENCY PUSH INTENSIFYING)**
 
-- **Nadia Bryan** (nbryan@kofirm.com) — Counsel
-  - **NEW May 5–6:** Disclosure Schedules forwarded & coordination (17:41 UTC May 5 SENT; 23:18 UTC May 5 FROM Nadia FW; IMPORTANT; also 11:15 UTC May 5 SENT re: "Checking In"; 12:49 UTC May 5 Meredith coordinating with Nadia on Company Disclosure Schedules; IMPORTANT)
+**NOAA/Hurricane Research & UMS Services — NEW MAY 11 MILESTONE**
 
-**Signal:** Deal documentation on **three concurrent tracks** (Tax, MIPA/Legal, Disclosure Schedules, Employment Agreements) with Ko Firm legal team working May 5–6 across UTC time zones. Late-night/early-morning work pattern (00:14–00:15 UTC May 6) indicates deadline pressure or time-zone coordination. **This is NOT speculative acquisition chatter — this is active deal machinery.**
-
----
-
-#### **Government/Defense Contracts (CONTINUING MULTI-AGENCY PUSH)**
-
-**NOAA/Hurricane Research & UMS Services**
 - **Joe Cione** (joe.cione@noaa.gov) — NOAA Federal
-  - **NEW May 5:** FY2027 UMS Services RFP coordination forwarded to multi-agency distribution (15:18 UTC May 5; IMPORTANT, INBOX; Beck Cotter responds same day 13:01 UTC with Jack copied)
-  - **Recipients include:** Dragoon Tech, SkyFora, JAIA, ERAU, and others — multi-team proposal coordination continuing
+  - **NEW May 6–7:** 
+    - **LOI Candidate Proposals Group Discussion scheduled:** May 11, 2026, 9:00–10:15am MDT (20:39 UTC May 6; IMPORTANT; INBOX). Participants include:
+      - **NOAA Team:** Annette Hollingshead, Jun Zhang, Joshua Wadler (ERAU), Danielle Varwig, John Walker, Laura Rock, Mark Rogers, Nikolai Pawlenko
+      - **BST Team:** Jack Elston, Maciej Stachura
+      - **Partner Vendors:** JAIA (ian@jaia.tech, michael.rock@jaia.tech, stephanie.paquette@jaia.tech), Dragoon Tech (jasondouglas@dragoon.tech, jonpfafflin@dragoon.tech, seanculbertson@dragoon.tech), Voltitude (jonny.king@voltitude.co.uk), Strato Solutions (pstevens@stratosolutionsinc.com, rchan@stratosolutionsinc.com)
+      - **Signal:** Formal LOI stage for FY2027 UMS Services RFP; multi-vendor proposal team with clear leadership structure. **May 11 LOI discussion is critical milestone.**
+    - **Previous RFP forwarding:** 22:17 UTC May 6 (UNREAD; IMPORTANT; INBOX)
+    - **S0 data impact study coordination:** 14:04, 14:06 UTC May 6 (Joe to Annette re: "10% Model Improvement"; Jack responding SENT 14:06 UTC; IMPORTANT)
+  - **Pattern:** Primary government customer contact; managing multi-vendor proposal teaming and technical data discussions; **May 11 LOI decision is immediate near-term priority**
 
-**NASA/Aeronautics**
-- **Jennifer Schnarr** (jennifer.schnarr@nasa.gov) — NASA
-  - **NEW May 5:** AFA (Air Force Academy?) RFI Response feedback (17:40 UTC May 5 FROM NASA; Beck Cotter TO Jack; IMPORTANT)
-  - **Signal:** NASA AFA RFI response continues active engagement
-
-**US Army/SBIR**
-- **Arthur Shune** (arthur@skymesasystems.com) — Sky Mesa Systems (teaming partner)
-  - **NEW May 5:** Possible teaming fit on Army modular UAS payload SBIR (multiple exchanges 11:04–19:26 UTC May 5; IMPORTANT x4)
-  - **Participants:** Jack & Daniel Prendergast (BST) coordinating with Arthur Shune (Sky Mesa Systems); multiple decision cycles visible
-  - **Signal:** Army SBIR proposal actively in teaming negotiation phase May 5
-
-**Air Force/C-UAS**
-- **Nathan Varberg** (nvarberg@covar.com) — Covar (C-UAS partner)
-  - **NEW May 5:** C-UAS // Drone-to-Drone RFI response coordination (13:21 UTC; IMPORTANT; Daniel Prendergast forwarding)
-
-**DOE (Status from prior period)**
-- DOE proposal 0000302243 submitted May 4; autoreply received
-
----
-
-#### **Research/Academic Partners**
-
-**Stanford University**
-- **
+**NASA

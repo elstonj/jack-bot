@@ -1,44 +1,47 @@
 {
   "project_code": "_unclassified",
   "qbo_class_names": [
-    "",
-    "(035-1) Adonis"
+    ""
   ],
   "period": {
-    "start": "2026-05-03",
-    "end": "2026-05-06"
+    "start": "2026-05-06",
+    "end": "2026-05-07"
   },
   "totals": {
-    "revenue": 34000.0,
-    "expenses": 4501.17,
+    "revenue": 0.0,
+    "expenses": 5680.32,
     "by_category": {
-      "GENERAL & ADMINISTRATIVE:GA-Accounting Fees": 1200.0,
-      "Interest Income": 993.46,
-      "FRINGE:FR-Administrative Fees (Payroll)": 826.43,
-      "Inventory Asset": 701.69,
-      "UNALLOWABLE GA:UC-Meals & Entertainment": 427.87,
-      "FRINGE:FR-Employee Healthcare": 288.0,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 49.73,
-      "DIRECT COSTS:DC-Direct Cost Purchases": 13.99
+      "Inventory Asset": 5536.06,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 144.26
     }
   },
   "invoices": [],
   "bills": [
     {
       "type": "Bill",
-      "date": "2026-05-04",
-      "doc_number": "104",
-      "total": 1200.0,
-      "attributed": 1200.0,
-      "vendor": "Claudia Behnke",
+      "date": "2026-05-06",
+      "doc_number": "103031641",
+      "total": 901.63,
+      "attributed": 180.32,
+      "vendor": "Aeronet Worldwide",
       "customer": "",
       "balance": 0.0,
       "memo": "",
       "lines": [
         {
-          "amount": 1200.0,
-          "account": "GENERAL & ADMINISTRATIVE:GA-Accounting Fees",
-          "description": "Aprili 2026 (12hrs @ $120)"
+          "amount": 601.09,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shiping products from Paramount Tube to Northwind Composites for S0 projects"
+        },
+        {
+          "amount": 120.22,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": ""
+        },
+        {
+          "amount": 180.32,
+          "account": "Inventory Asset",
+          "description": ""
         }
       ]
     }
@@ -46,188 +49,23 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-05-05",
-      "doc_number": "",
-      "total": 310.81,
-      "attributed": 62.16,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "FEDEX37097183 - 4699",
-      "lines": [
-        {
-          "amount": 207.21,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": "Shipment from Alerion Tech in Spain to BST. (Items are from MP Jet, order #09449)"
-        },
-        {
-          "amount": 41.44,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": ""
-        },
-        {
-          "amount": 62.16,
-          "account": "Inventory Asset",
-          "description": "For future sales of 6 S0s"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-04",
-      "doc_number": "",
-      "total": 314.08,
-      "attributed": 314.08,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "BUSINESS TO BUSINESS ACH PEOPLE CENTER    GSUITE_RES        VWWKW9R24OGQW3V BUSINESS CHECKING",
-      "lines": [
-        {
-          "amount": 314.08,
-          "account": "FRINGE:FR-Administrative Fees (Payroll)",
-          "description": "BUSINESS TO BUSINESS ACH PEOPLE CENTER    GSUITE_RES        VWWKW9R24OGQW3V BUSINESS CHECKING"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-04",
-      "doc_number": "",
-      "total": 512.35,
-      "attributed": 512.35,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "BUSINESS TO BUSINESS ACH PEOPLE CENTER    BILL              BGMYZO8XZM24KWR BUSINESS CHECKING",
-      "lines": [
-        {
-          "amount": 512.35,
-          "account": "FRINGE:FR-Administrative Fees (Payroll)",
-          "description": "BUSINESS TO BUSINESS ACH PEOPLE CENTER    BILL              BGMYZO8XZM24KWR BUSINESS CHECKING"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-04",
-      "doc_number": "",
-      "total": 288.0,
-      "attributed": 288.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "BUSINESS TO BUSINESS ACH Cont Rippling    HSAcontrbt               1773616  Black Swift Technologi",
-      "lines": [
-        {
-          "amount": 288.0,
-          "account": "FRINGE:FR-Employee Healthcare",
-          "description": "BUSINESS TO BUSINESS ACH Cont Rippling    HSAcontrbt               1773616  Black Swift Technologi"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-04",
-      "doc_number": "",
-      "total": 427.87,
-      "attributed": 427.87,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "TST*VERDE - BOULDER - 4617",
-      "lines": [
-        {
-          "amount": 427.87,
-          "account": "UNALLOWABLE GA:UC-Meals & Entertainment",
-          "description": "Lunch for Krateo Sky and 53rd visit"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-04",
-      "doc_number": "",
-      "total": 993.46,
-      "attributed": 993.46,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "CREDIT-REWARD REDEMPTION - 4617",
-      "lines": [
-        {
-          "amount": 993.46,
-          "account": "Interest Income",
-          "description": "CREDIT-REWARD REDEMPTION - 4617"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-04",
-      "doc_number": "YX1724706",
-      "total": 685.76,
-      "attributed": 685.76,
+      "date": "2026-05-06",
+      "doc_number": "1105",
+      "total": 5500.0,
+      "attributed": 5500.0,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 685.76,
+          "amount": 5500.0,
           "account": "Inventory Asset",
-          "description": "For future S3 sales"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-04",
-      "doc_number": "68514",
-      "total": 87.44,
-      "attributed": 17.49,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 58.29,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
-          "description": ""
-        },
-        {
-          "amount": 11.66,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
-          "description": ""
-        },
-        {
-          "amount": 17.49,
-          "account": "Inventory Asset",
-          "description": "For future sales of 6 S0s"
+          "description": "Payment for 2 S3 ship sets"
         }
       ]
     }
   ],
   "purchase_orders": [],
-  "payments": [
-    {
-      "type": "Payment",
-      "date": "2026-05-04",
-      "doc_number": "",
-      "total": 34000.0,
-      "attributed": 34000.0,
-      "vendor": "",
-      "customer": "(035-1) Adonis",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 34000.0,
-          "account": "",
-          "description": ""
-        }
-      ]
-    }
-  ]
+  "payments": []
 }

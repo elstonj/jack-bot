@@ -3,9 +3,9 @@
 ## Overview
 This channel is primarily used for development and testing of BST's S0 VTOL aircraft - a vertical takeoff and landing aircraft capable of transitioning to forward flight. The channel covers technical discussions, flight testing, hardware debugging, and customer delivery preparation.
 
-Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan Domagala, Dan
+Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan Domagala, Dan, Ben Busby
 Activity: High activity with 1420+ messages covering approximately 2+ years of development
-Time range: Early development through May 5, 2026 (ongoing project)
+Time range: Early development through May 6, 2026 (ongoing project)
 
 ## Key Decisions
 
@@ -54,29 +54,39 @@ Time range: Early development through May 5, 2026 (ongoing project)
 - DShot protocol attempted as mitigation for the underlying scaling issue but made failure worse
 - Sam conducting oscilloscope testing to determine if cause is related to the identified issue (May 2, 2026)
 
-**Test Rig Motor Failure (May 5, 2026):**
+**Test Rig Motor Failure & Investigation (May 5-6, 2026):**
 - Brief motor command freeze (~1 second) followed by all three motor shutdown observed during overnight test run (May 5, 2026)
 - Ailerons and tail surfaces continued operating during motor shutdown event
-- Motor shutdown potentially caused by switched output to ESC from battery on autopilot (Jack Elston's working hypothesis, May 5, 2026)
+- Motor shutdown potentially caused by switched output to ESC from battery on autopilot (Jack Elston's initial hypothesis, May 5, 2026)
+- Investigation findings (May 6, 2026):
+  - Hub board was sending 0s on DShot protocol; logs showed three >3-second gaps from AP starting at 3.5 hours
+  - Motors shut down at first gap in packets at approximately 3 hours 25 minutes
+  - Hub board still receiving power and outputting previous PWM during all gaps
+  - Autopilot gaps appear to be logging issues (coinciding with missing IMU data), not actual command transmission failures (May 6, 2026)
+  - Pivot command bug identified by Maciej and fixed with updated binary; pivots were receiving commands but at much slower rate than other surfaces (May 6, 2026)
+  - Pivot slow motion caused by gyro drift in attitude estimator after magnetometer failure at ~65 minutes into log; pivots attempting to hold heading (May 6, 2026)
+  - Channel 2 occasional values exceeding 2000µs limit (2001-2005µs) determined to be normal behavior for some surfaces on aircraft, not an error (May 6, 2026)
+  - Magnetometer issues resolved after replacing SD card with fresh card (May 6, 2026)
+  - ESC behavior verified stable: tested ESC with constant throttle (1200µs) and simulated errors over entire input range - no unexpected halts or failures observed (May 6, 2026)
 
 ## Projects & Initiatives
 
 **S0-VTOL Development (Spin-Up Phase - April-May 2026):**
 - Status: 20/50 required test flights completed for certification
-- Current phase: Intensive ground testing with instrumentation improvements before resuming flight tests
+- Current phase: Intensive ground testing with instrumentation improvements before resuming flight tests; root cause identification for May 5 motor shutdown event
 - Recent ground testing status: 
-  - No obvious CAN issues detected in latest test results; maximum command delay was 19.5ms; no Fletcher errors occurred (April 30, 2026)
   - Overnight test run on May 5 produced motor shutdown event during operation, logs retained for analysis
-  - Sam conducting systematic testing overnight with logs being preserved for failure analysis (May 5, 2026)
-- Ground testing focus: Preparing sinusoidal loop test with appropriate instrumentation; evaluating DShot 300 telemetry for output signal logging (May 1, 2026)
-- Next steps: Order instrumentation components (ESC telemetry loggers, eRPM sensors, PWM loggers, optical RPM sensors for motors; PWM loggers and Hall effect rotation sensors for servos) while continuing current test regime
-- Major concern: Consecutive transition flight failures cannot be replicated on ground - instrumentation critical for identifying root cause; new motor shutdown event on test rig may provide diagnostic data
-- Baseline comparison: Test rig behavior now being compared against crash conditions with matched autopilot code version (0xf9eb3e6c)
-- Critical issue under investigation: 
-  - ESC/PWM scaling problem causing throttle command shifts; differences in behavior between PWM and DShot protocols (May 2, 2026)
-  - Motor command freeze followed by shutdown event on test rig (May 5, 2026)
-  - Potential ESC-to-battery switched output issue on autopilot (May 5, 2026)
-- **Pending Decision (May 1-2, 2026):** Whether to prioritize parachute system integration and resume flight testing if underlying ESC scaling issue can be resolved, versus continuing extended ground testing phase
+  - May 6 analysis of logs revealed multiple issues:
+    - Pivot control bug in test firmware (identified and fixed by Maciej)
+    - Magnetometer failure after ~65 minutes (not due to hardware issue, resolved with fresh SD card)
+    - Autopilot data gaps appear to be SD card logging artifacts rather than communication failures
+    - ESC functionality verified stable under error injection testing
+  - Fresh SD card deployed for subsequent testing sessions
+  - Noise machine testing resumed May 6 evening (ongoing)
+- Ground testing focus: Continuing systematic testing protocol with fresh SD card; monitoring for motor shutdown reoccurrence; verifying pivot control behavior with updated firmware
+- Major concern: Motor shutdown event on May 5 still requires full root cause determination; previous crash failures cannot be replicated on ground
+- Next steps: Continue noise machine overnight testing with fresh SD card; analyze complete logs once available; potentially resume advanced instrumentation deployment if systematic testing yields stable behavior
+- **Status Update (May 6, 2026):** Investigation narrowed down multiple potential causes; motor shutdown not attributable to ESC input handling or hub board DShot transmission; likely related to autopilot command sequence or timing during specific test conditions
 
 **S1-20 Aircraft Reference Data:**
 - Reference aircraft completed 213 total flights with 10.5 hours combined flight time over past year
@@ -95,16 +105,4 @@ Time range: Early development through May 5, 2026 (ongoing project)
 ## Action Items & Commitments
 
 **Jack Elston:**
-- Complete 50 flight test program for S0-VTOL certification
-- Provided DShot telemetry decoding library reference (May 1, 2026)
-- Offered to develop output signal logger for AP if needed (May 1, 2026)
-- Coordinate integrated testing setup with instrumentation logging priority
-- Troubleshooting test rig motor shutdown event: attempted CAN disconnect/reconnect, hub power reset, and ESC power reset to recover throttle command (May 5, 2026)
-- Investigating hypothesis that motor shutdown caused by switched output to ESC from battery on autopilot (May 5, 2026)
-
-**Sam Hild:**
-- Execute ground testing with current setup before deploying advanced instrumentation (April 30, 2026)
-- Preserve crashed autopilot code version during ground testing iterations
-- Deploy PWM sensors as minimum instrumentation requirement before proceeding with more complex tests (April 30, 2026)
-- Investigating DShot version on test rig and implications for instrumentation strategy (May 1, 2026)
-- Conducting oscilloscope testing to
+- Complete 50 flight test program for S0-VT

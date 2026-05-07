@@ -33,7 +33,7 @@
         "amount": 13147.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-06"
+        "last_updated": "2026-05-07"
       },
       "purchases": {
         "amount": 0.0,
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": 104662.15,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-06T09:18:06Z"
+    "last_reconciled": "2026-05-07T09:05:18Z"
   },
   "milestones": [
     {
@@ -163,6 +163,24 @@
     },
     {
       "source": "FEEDBACK",
+      "author": "Jack",
+      "date": "2026-04-20",
+      "text": "From Jack (ts=1776694393.461569): <@U0AQE94HJUT> correction: the mexico deployment has been delayed until the fall"
+    },
+    {
+      "source": "CORRECTION",
+      "author": "Jack",
+      "date": "2026-04-20",
+      "text": "From Jack: the mexico deployment has been delayed until the fall"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Jack",
+      "date": "2026-04-20",
+      "text": "From Jack: <@U0AQE94HJUT> correction: the mexico deployment has been delayed until the fall"
+    },
+    {
+      "source": "FEEDBACK",
       "author": "Maciej",
       "date": "2026-04-17",
       "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
@@ -211,24 +229,6 @@
     },
     {
       "source": "FEEDBACK",
-      "author": "Jack",
-      "date": "2026-04-20",
-      "text": "From Jack (ts=1776694393.461569): <@U0AQE94HJUT> correction: the mexico deployment has been delayed until the fall"
-    },
-    {
-      "source": "CORRECTION",
-      "author": "Jack",
-      "date": "2026-04-20",
-      "text": "From Jack: the mexico deployment has been delayed until the fall"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Jack",
-      "date": "2026-04-20",
-      "text": "From Jack: <@U0AQE94HJUT> correction: the mexico deployment has been delayed until the fall"
-    },
-    {
-      "source": "FEEDBACK",
       "author": "Maciej",
       "date": "2026-04-20",
       "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
@@ -240,6 +240,6 @@
       "text": "From Jack (ts=1776694393.461569): <@U0AQE94HJUT> correction: the mexico deployment has been delayed until the fall"
     }
   ],
-  "last_full_rebuild": "2026-05-06T09:18:06Z",
+  "last_full_rebuild": "2026-05-07T09:05:18Z",
   "last_incremental_update": null
 }

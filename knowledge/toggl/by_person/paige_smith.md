@@ -1,30 +1,37 @@
 # Paige Smith — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 128.2 hours
-- **Primary project:** Marketing (001-13) — 100% of tracked time
+- **Total hours tracked:** 135.8 hours
+- **Primary project:** Marketing (001-13) — 94.4% of tracked time
+- **Secondary:** Unallocated/No Project — 5.6% of tracked time
 - **Client:** Overhead (internal)
 - **Time period:** Ongoing tracking
 
 ## Project Breakdown
 | Project | Client | Hours | % of Total |
 |---------|--------|-------|-----------|
-| [001-13] Marketing | Overhead | 128.2 | 100% |
+| [001-13] Marketing | Overhead | 128.2 | 94.4% |
+| No Project (Unallocated) | — | 7.6 | 5.6% |
 
 ## Recent Activity
-Paige continues exclusive focus on the Marketing project (001-13). Most recent entries show:
-- 7.1 hours (no description) — *latest entry*
-- 6.5 hours (no description)
-- 4.6 hours (no description)
-- 2.6 hours (no description)
+Paige's most recent entry represents a **change in tracking behavior**:
+- **7.6 hours (no project assigned, no description)** — *latest entry* ⚠️
+- Prior entries: All attributed to Marketing (001-13), though undocumented
 
-Session lengths remain highly varied, ranging from 1.0 to 9.0+ hours per entry. The pattern of undocumented time entries persists—all recent entries lack descriptions.
+This is the first instance of time logged without project assignment. Combined with the continued lack of description, this suggests either:
+- Accidental/incomplete time entry
+- Shift to general/overhead work not yet categorized
+- Logging issue requiring clarification
 
 ## Patterns
-- **Single project focus:** All 128.2 hours allocated entirely to one internal marketing project (no change)
-- **Inconsistent logging detail:** Majority of entries continue to lack descriptions or task-level detail (pattern persists with no improvement across data batches)
-- **Varied session lengths:** Time entries consistently range widely (1.0h to 9.0h+), suggesting either different task types or variable daily work patterns
-- **No client diversity:** No external client work visible
-- **Consistent engagement:** Regular, ongoing time entries indicate sustained marketing project involvement
+- **Primary focus remains Marketing:** 94.4% of all tracked time still on [001-13]
+- **New concern: Project assignment gaps:** 7.6 hours now unallocated—first occurrence of this pattern
+- **Persistent documentation deficit:** 100% of recent entries lack descriptions across all projects
+- **Varied session lengths:** Pattern continues (1.0h to 9.0h+ ranges)
+- **No client diversity:** All assigned time remains internal
 
-**Recommendation:** Continue encouraging detailed time entry descriptions (e.g., "Email campaigns," "Social media strategy," "Content planning," "Budget analysis") to identify specific marketing activities and improve project visibility. The lack of detail in the majority of entries limits ability to track work quality or task types. Recent data shows no improvement in documentation practices—escalate or formalize documentation requirements.
+## Recommendations
+1. **Clarify the unallocated 7.6 hours:** Determine if this should be assigned to Marketing (001-13) or if it represents legitimate non-marketing work
+2. **Reinforce project tagging:** The first unallocated entry suggests tracking process drift—formalize project assignment requirements
+3. **Escalate documentation:** Continue pushing for descriptions; lack of detail now spans entire tracking history with zero improvement
+4. **Follow up:** Contact Paige to confirm whether recent entry was data entry error or indicates shift in work allocation

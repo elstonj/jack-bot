@@ -63,12 +63,15 @@
 
 - **Beck Cotter**
   - Email: beck.cotter@blackswifttech.com
+  - Notes: Role and department unknown
 
 - **Daniel Prendergast**
   - Email: daniel.prendergast@blackswifttech.com
+  - Notes: Role and department unknown
 
 - **Jameel Barkat**
   - Email: jameel.barkat@blackswifttech.com
+  - Notes: Role and department unknown
 
 ## Service Accounts
 
@@ -102,8 +105,7 @@
 - **Service Accounts:** 2
 
 **Notes:**
-- All contact information verified and consolidated from existing knowledge and new raw directory data
-- All phone numbers standardized to XXX-XXX-XXXX format
+- All contact information verified and consolidated; phone numbers standardized to XXX-XXX-XXXX format
 - Three team members remain unclassified; recommend reaching out to leadership for role clarification
 - BST maintains an engineering-focused organization with balanced technical and administrative support
 - All contact details current and complete

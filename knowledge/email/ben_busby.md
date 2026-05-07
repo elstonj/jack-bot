@@ -1,8 +1,6 @@
 # Ben Busby — Email Patterns
 
-Only 4 emails found in scanned period.
+Only 2 emails found in scanned period.
 
-- Tue, 5 May 2026 17:04:46 -0500 (CDT): You're getting a shipment 871448477540 (from: "'FedEx Tracking' via Administration" <admin@blackswifttech.com>)
-- Tue, 5 May 2026 20:48:06 +0000: NASA ProSAMS Password Reset (from: admin via Administration <admin@blackswifttech.com>)
-- Tue, 5 May 2026 20:46:34 +0000: NASA ProSAMS Password Reset (from: admin via Administration <admin@blackswifttech.com>)
-- Tue, 05 May 2026 09:33:56 -0700: Order ID: HVHNB9 Successfully paid, Thank you! (from: Hitec CS <no.reply.hiteccs@gmail.com>)
+- Thu, 07 May 2026 00:51:14 +0000 (UTC): My FAMLI+ Employer Profile Changes (from: CDLE FAMLI Alerts <cdle_famli-alerts@state.co.us>)
+- Wed, 6 May 2026 12:38:34 -0600: Fwd: Fw: Aerospace Colorado Happy Hour May 13 (from: Jack Elston <elstonj@blackswifttech.com>)

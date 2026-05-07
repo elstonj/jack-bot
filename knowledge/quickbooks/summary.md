@@ -1,102 +1,78 @@
 # BST Financial Overview (QuickBooks)
-**Period: April 5, 2024 – May 8, 2026**
-
----
 
 ## Company Totals
 
 | Metric | Amount |
 |--------|--------|
-| **Total Revenue (Invoices)** | $6,505,096.98 |
-| **Total Expenses (Bills + Purchases)** | $5,451,251.83 |
-| **Net Income (Long-term)** | $1,053,845.15 |
-| **Outstanding A/R** | $2,661,417.19 |
-| **P&L Period (May 3–6)** | -$3,705.10 *(short period)* |
+| **Total Revenue (Invoices)** | $6,796,182.98 |
+| **Total Expenses** | $2,453,327.26 |
+| **Net Income (Estimated)** | $4,342,855.72 |
 
 ---
 
 ## By Project/Class
-**Sorted by Total Activity (Revenue + Expenses)**
 
-| Project | Revenue | Expenses | Net Position | Status |
-|---------|---------|----------|--------------|--------|
-| **Government** | $3,929,836.28 | $1,314,499.56 | +$2,615,336.72 | Profitable |
-| **Commercial** | $2,575,364.34 | $220,459.12 | +$2,354,905.22 | Highly Profitable |
-| **BST Internal** | $17,894.36 | $905,659.88 | -$887,765.52 | Loss (R&D/Internal Ops) |
-| **Unclassified** | $1.00 | $3,510,632.27 | -$3,510,631.27 | Cost Center (No Revenue) |
+| Project | Total Revenue | Total Expenses | Net Position | Status |
+|---------|---------------|----------------|--------------|--------|
+| **Government** | $4,076,295.28 | $1,315,401.19 | **$2,760,894.09** | Primary revenue driver |
+| **Commercial** | $2,701,993.34 | $221,360.75 | **$2,480,632.59** | Strong profitability |
+| **BST Internal** | $17,894.36 | $916,165.32 | **-$898,270.96** | Cost center (negative) |
 
-**Key Insight:** Government and Commercial projects are generating strong margins. BST Internal and Unclassified categories represent overhead and internal operations with no corresponding revenue.
-
----
-
-## Top Vendors
-*(By spend amount – highest first)*
-
-| Vendor | Amount | Project(s) |
-|--------|--------|-----------|
-| *(Data incomplete in raw export)* | — | — |
-
-**Note:** Vendor details truncated in source data. Review Bills & Expenses report in QB for complete vendor breakdown.
-
----
-
-## Top Customers
-*(By revenue – highest first)*
-
-| Customer | Revenue | Balance Outstanding | Status |
-|----------|---------|-------------------|--------|
-| By Light Halo [043-3] | $63,735.00 | $63,735.00 | Unpaid (recent) |
-| IRISS, CU Boulder | $664.98 | $664.98 | Unpaid (recent) |
-| Oklahoma State University [039] | $1.00 | $0.00 | Paid |
-
-**Note:** Government contracts (72 invoices) represent the bulk of revenue; individual customer data truncated in export. Outstanding A/R across Government contracts: **$2,661,417.19**.
+### Key Observations:
+- **Government** projects generate 60% of total revenue ($4.1M) with healthy margins
+- **Commercial** projects show the strongest profitability ratio (92% net margin)
+- **BST Internal** operations run at a substantial loss, suggesting overhead/administrative costs
 
 ---
 
 ## Cash Flow Indicators
 
-### Accounts Receivable (Outstanding)
-- **Government projects:** $2,661,417.19 (active invoices with open balances)
-- **Commercial projects:** ~$64,400 (recent invoices from May 2026)
-- **Total A/R:** ~$2,725,817.19
+### Accounts Receivable (Outstanding Invoices)
+- **Government projects**: $2,808,876.19 outstanding across 72 active invoices
+- **Commercial projects**: At least $63,735.00 recent outstanding (Invoice #1757, May 8)
+- **Total AR**: ~$2.87M+ in uncollected revenue
 
-### Recent Large Expenses (May 1–6, 2026)
-- BST Internal: +$10,605.44 in new transactions
-- Direct costs, payroll, and R&D continued
+### Recent Activity (May 1–7, 2026)
+- **BST Internal**: +$10,505.44 in new expenses
+- **Commercial**: Invoice #1759 ($664.98) and #1757 ($63,735.00) issued May 8
+- **Government**: Transaction volume ongoing
 
 ### Outstanding Purchase Orders
-- **BST Internal:** $1,700.00 (Amprius – PO #1038)
-- **Commercial:** $1,977.50
-- **Government:** $832.00
-- **Total:** $4,509.50
+- **Government**: $832.00 outstanding
+- **Commercial**: $1,977.50 outstanding
+- **BST Internal**: $1,700.00 (PO #1038 to Amprius)
 
-### Project Activity Assessment
-- **Government & Commercial:** Active with recent invoicing (May 2026)
-- **BST Internal:** Ongoing operations (1,072+ transactions over 24 months; +25 new May 1–6)
-- **Unclassified:** Minimal revenue; large cost center — likely allocation/overhead
+---
+
+## Top Customers (Commercial & Government)
+
+| Customer | Project | Recent Invoice | Amount |
+|----------|---------|-----------------|--------|
+| By Light Halo [043-3] | Commercial | #1757 (May 8) | $63,735.00 |
+| IRISS, CU Boulder | Commercial | #1759 (May 8) | $664.98 |
+| *Government contracts* | Government | 72 active invoices | $4,076,295.28 |
 
 ---
 
 ## Unclassified Transactions
 
-| Metric | Amount |
-|--------|--------|
-| Total Invoiced | $1.00 |
-| Total Expenses | $3,510,632.27 |
-| Net Position | -$3,510,631.27 |
-| Transaction Count | 3 |
+**Profit & Loss Report Summary (May 6–7):**
+- Direct Costs (Shipping, Freight & Delivery): $721.31
+- No revenue recorded in this specific 2-day window
+- Net Income (2-day period): -$721.31
 
-**Issue:** $3.51M in expenses assigned to "Unclassified" class with only $1 in corresponding revenue. **Recommendation:** Review QB transaction classifications. These may be:
-- Corporate overhead not allocated to projects
-- Cost pools awaiting distribution
-- Mis-classified internal transfers
+This minimal activity suggests the P&L excerpt covers a short reporting period and does not reflect the full picture shown in the project-level data.
 
 ---
 
-## Summary & Observations
+## Financial Health Summary
 
-1. **Overall Health:** Positive. Company is net-positive $1.05M over 24 months.
-2. **Revenue Quality:** Government (60%) and Commercial (40%) contracts drive profitability; both have strong margins.
-3. **Cash Flow Risk:** $2.7M outstanding A/R. Monitor collection timelines, especially on Government contracts.
-4. **Cost Control:** ~$3.5M in unclassified expenses needs reclassification for accurate project costing.
-5. **Short-term Performance:** May 3–6 period shows -$3,705 (4-day period; not indicative of ongoing trend).
+✅ **Strengths:**
+- Strong overall profitability ($4.3M net income)
+- Government contracts provide stable, large-scale revenue
+- Commercial projects highly profitable (92% margin)
+
+⚠️ **Concerns:**
+- Significant AR concentration ($2.87M+) creates cash flow risk
+- BST Internal operations at -$898K deficit (investigate cost drivers)
+- Payment collection timing critical given large outstanding balances

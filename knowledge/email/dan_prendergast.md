@@ -1,91 +1,85 @@
 # Dan Prendergast — Email Patterns
 
 ## Communication Volume
-- Total messages scanned: 37 (24 new + 13 existing)
-- Date range: 2–5 May 2026
-- Approximate volume: 6–8 emails/day during this period
-- Recent activity: Very high (dominated by 5 May with 18 of 24 new emails; sustained multi-threaded conversations)
+- Total messages scanned: 54 (17 new + 37 existing)
+- Date range: 2–6 May 2026
+- Approximate volume: 6–9 emails/day during this period
+- Recent activity: Sustained high volume; 6 May showed coordinated rapid-fire responses (12:36–14:57 UTC/MT cluster), suggesting decision-making or deal closure windows
 
 ## Key Correspondents
 
 **Top Internal Contacts:**
-- Jack Elston (elstonj@blackswifttech.com) — 11 emails (primary hub for forwarding, forwarding, technical coordination across multiple projects)
-- Maciej Stachura (stachura@blackswifttech.com) — 3 emails (forwarded on RFI, Navy collaboration, S0 VTOL)
-- Beck Cotter (beck.cotter@blackswifttech.com) — 2 emails (Arctic demo, S0 VTOL forwarding)
+- Jack Elston (elstonj@blackswifttech.com) — 15+ emails (continued primary hub; now also fielding UK MAD UAV inquiry and Arctic demo coordination)
+- Maciej Stachura (stachura@blackswifttech.com) — 4+ emails (FY27 UMS Concept Portfolio review, multi-org forwarding, RFI responses)
+- Beck Cotter (beck.cotter@blackswifttech.com) — 3+ emails (DoD SBIR/STTR topic distribution, demo coordination)
 
 **Top External Contacts:**
 - Jure Dolinar / Atmolab (jure.dolinar@atmolab.eu) — 3 emails (camera system integration, active negotiation)
 - Arthur Shune / Skyesa Systems (arthur@skymesasystems.com) — 3 emails (Army modular UAS payload SBIR teaming)
-- Jack Elston forwarding from external: Chidong Zhang / NOAA (chidong.zhang@noaa.gov), Tanay Topac / Stanford (tanaytopac@stanford.edu), sanabia@uw.edu (ONR proposal)
-- Bob Smith / Krateo Sky (Bob@krateosky.com) — 2 emails (RFI S0 responses)
-- Hank Scott / TB2 Aerospace (hank@tb2aerospace.com) — 2 emails (Vuncan demo coordination)
+- Hank Scott / TB2 Aerospace (hank@tb2aerospace.com) — 3 emails (Vuncan demo coordination — now marked IMPORTANT)
+- Stephen Rowlands / Invest Ottawa (SRowlands@investottawa.ca) — 3 emails (Arctic UAS demo coordination, marked IMPORTANT)
+- Bob Smith / Krateo Sky (Bob@krateosky.com) — 2 emails (RFI S0 responses; now also copied on Arctic demo forward)
 - Will Wade / NASA Ames (william.o.wade@nasa.gov) — 2 emails (BST-NASA discussion, S20009 project)
-- Stephen Rowlands / Invest Ottawa (SRowlands@investottawa.ca) — 2 emails (Arctic UAS demo)
-- Ryan Rickert / USAF 53 WRS (ryan.rickert.4@us.af.mil) — 2 emails (RFI response, combatant command)
-- Nathan Varberg / COVAR (nvarberg@covar.com) — 1 email (C-UAS / Drone-to-Drone discussion)
+- **NEW:** Evan M. Wolff / USSOCOM (evan.m.wolff.mil@socom.mil) — 1 email (RFI S0 response, classified markup)
+- **NEW:** Alasdair Brackenridge / Lockheed Martin (alasdair.brackenridge@global.lmco.com) — 1 email (Expression of Interest for UK MAD UAV, marked IMPORTANT)
+- **NEW:** Maithreyi Gopalakrishnan / University of Colorado (Maithreyi.Gopalakrishnan@colorado.edu) — 1 email (PrecisionTerra NASA Phase II Proposal, marked IMPORTANT)
+- **NEW:** Vulcan SOF Notifications (Notifications@vulcan-sof.com) — 1 email (automated opportunity alerts: DOW deadline, SOF/Army programs)
 
-**Internal vs External:** ~35% internal (BST), ~65% external (vendor, partner, government, academia)
+**Internal vs External:** ~28% internal (BST), ~72% external (vendor, partner, government, academia, automated)
 
 ## Topic Patterns
 
 **Primary Project Themes:**
-- **S0™ VTOL Discussion** — NEW: High-priority coordination (Jack forwarding to NOAA's Chidong Zhang; multi-party coordination with Beck, Maciej)
-- **Atmolab Camera System** — Ongoing negotiation (Jure Dolinar active, technical coordination with Jack)
-- **RFI S0 (Request for Information)** — Government response continuing (Non-DoD Source classified, with Ryan Rickert/USAF 53 WRS)
-- **Army Modular UAS Payload SBIR** — Active teaming discussion with Skyesa Systems (Arthur Shune); multiple rapid exchanges with Dan
-- **Vuncan Demo** — NEW: Coordination with TB2 Aerospace (Hank Scott); Jack also coordinating
-- **Arctic UAS Demo** — Confirmation with Invest Ottawa (Stephen Rowlands)
-- **C-UAS / Drone-to-Drone** — External collaboration discussion (COVAR, Nathan Varberg)
-- **MHP Data Alignment** — Technical coordination involving Stanford (Tanay Topac) and Jack Elston
-- **Unmanned Test Platform Collaboration with US Navy** — NEW: Jack forwarded (status unknown, forwarded to Maciej and Dan)
-- **BST-NASA Discussion (S20009)** — NEW: Will Wade / NASA Ames technical exchange
-- **Home Combatant Command** — NEW: Correspondence with USAF 53 WRS (Ryan Rickert) — subject line suggests geographic/operational scope question
-- **ONR Proposal** — NEW: Jack coordinating with University of Washington (sanabia@uw.edu)
 
-**External Organizations:**
-- NanoVeu (referenced in prior data; no new emails in this batch)
-- Atmolab (EU-based camera/sensor vendor, active)
-- Skyesa Systems (Arthur Shune, Army SBIR teaming)
-- TB2 Aerospace (Hank Scott, Vuncan demo)
-- NOAA Federal (Chidong Zhang, S0 VTOL discussion)
-- NASA Ames Research Center (Will Wade, S20009 project)
-- USAF 53rd Weapons Range Squadron (ongoing RFI and tactical discussions)
-- COVAR (drone/UAS systems, C-UAS work)
-- Stanford University (Tanay Topac, MHP data research)
-- University of Washington (ONR proposal coordination)
-- Invest Ottawa (business development/demo)
-- Krateo Sky (continued RFI coordination)
+- **S0™ VTOL Discussion** — Ongoing (NOAA coordination, multi-party internal forwarding; RFI responses now include USSOCOM contact)
+
+- **Vuncan Demo** — **ESCALATED to IMPORTANT:** Hank Scott (TB2 Aerospace) rapid response on 6 May; Dan responding same-day (suggests time-critical logistics or decision milestone)
+
+- **Arctic UAS Demo (Ottawa)** — **HIGH PRIORITY:** Stephen Rowlands (Invest Ottawa) marked IMPORTANT; Dan forwarding internally to Jack, Maciej, and Krateo Sky partners (Bob Smith, Lisa Marie Cheney); coordination on 6 May suggests imminent event or approval gate
+
+- **RFI S0 (Request for Information)** — **EXPANDING REACH:** Now includes USSOCOM (evan.m.wolff.mil@socom.mil, classified "U" markup), in addition to prior USAF 53 WRS contact; suggests government-wide interest or multi-command requirement
+
+- **Atmolab Camera System** — Ongoing negotiation (continued from prior batch)
+
+- **Army Modular UAS Payload SBIR** — Active teaming with Skyesa Systems (continued)
+
+- **UK MAD UAV Expression of Interest** — **NEW, HIGH PRIORITY:** Alasdair Brackenridge / Lockheed Martin (global.lmco.com) inquiring about capability/partnership; marked IMPORTANT; Dan responded same-day to Jack (suggests escalation path or strategic interest)
+
+- **BST_FY27_UMS_Concept_Portfolio** — **NEW, STRATEGIC:** Jack Elston shared presentation (Google Slides) to Dan and Maciej; marked IMPORTANT; Maciej forwarded to Jack (likely for review/feedback cycle). Suggests internal strategic planning or board-level preparation
+
+- **PrecisionTerra NASA Phase II Proposal** — **NEW:** Maithreyi Gopalakrishnan (U of Colorado) inquiring about BST subcontractor scope; marked IMPORTANT; suggests BST being evaluated for Phase II roles in NASA-funded research
+
+- **DoD SBIR/STTR Topic Release** — Automated monthly alert from DOW (Vulcan SOF); Dan forwarded to Beck Cotter (likely for team review/bid planning)
+
+- **C-UAS / Drone-to-Drone** — Continued (Dan responded on 6 May)
+
+**External Organizations (NEW):**
+- Lockheed Martin (UK MAD UAV inquiry — major OEM relationship)
+- USSOCOM (U.S. Special Operations Command — new government contact for S0 RFI)
+- University of Colorado (PrecisionTerra NASA research collaboration)
+- Vulcan (SOF opportunity platform; automated alerts)
 
 ## Communication Patterns
 
-- **Day concentration:** Extremely heavy on 5 May 2026 (18 of 24 new emails; dominated activity from 09:20 through 17:40)
-- **Time patterns:** Mixed UTC/US Eastern/Central times; Stanford and NOAA contacts on UTC (suggesting async handoff or coast-spanning collaboration)
-- **Rapid multi-threaded exchanges:** Multiple threads show quick back-and-forth (Army SBIR, Vuncan, Atmolab) suggesting urgent triage or decision-making
-- **Jack Elston as central hub:** Acts as forwarder for external partnerships (NOAA, Navy, ONR, Stanford) to Dan and Maciej — suggests Jack scouts/qualifies partnerships before escalating to Dan
-- **Automated/Newsletters:** None visible in new data
-- **Response patterns:** Dan responds rapidly within same hours to Jack, Arthur Shune, Bob Smith, Will Wade (suggests blocking time for email reviews or mobile monitoring)
+- **Day concentration:** 6 May 2026 shows coordinated rapid-fire cluster (12:36–14:57 UTC/MT); 11 of 17 new messages on this single day, with response times of 1–5 minutes (Dan processing multiple deal/demo topics simultaneously)
+- **Time zones:** Now spanning UTC, US Eastern, US Mountain, and UK (Lockheed Martin); suggests global business development
+- **Response patterns:** Dan responds immediately to IMPORTANT-flagged messages (Vuncan, Arctic demo, UK MAD UAV); suggests email flagging system is effective signal for urgency
+- **Internal forwarding:** Dan now forwarding externally-initiated inquiries (Arctic demo) to internal + external partners (Krateo Sky), suggesting deal orchestration or vendor coordination role
+- **Automated feeds:** Vulcan SOF notifications (DOW alerts) — suggests BST actively monitoring federal opportunity pipeline
+- **Google Workspace usage:** Jack using Google Slides for collaborative portfolio sharing (FY27 UMS Concept), indicating team uses shared documents for strategy/planning
 
 ## Key Relationships
 
 **Closest Internal Collaborators:**
-- Jack Elston — now clearly established as **primary technical/business development intermediary** (11 messages, forwarding external opportunities, co-coordinating multi-org deals)
-- Maciej Stachura — secondary partner on multi-org coordination (RFI, Navy, S0 VTOL)
-- Beck Cotter — tertiary, specific to demo/event coordination (Arctic, S0 VTOL)
+- Jack Elston — **reinforced as primary partner:** 15+ messages, handling UK MAD UAV inquiry triage, fielding government RFI responses, collaborating on strategic portfolio (FY27 UMS). Acts as both business development scout and technical coordinator.
+- Maciej Stachura — **elevated to strategic review:** now reviewing FY27 UMS Concept Portfolio alongside Jack; suggests involvement in long-term planning or board/investor presentations
+- Beck Cotter — **operations/program manager:** DoD SBIR/STTR monitoring, demo logistics (Arctic event)
 
-**Important External Partners:**
-- **Skyesa Systems (Arthur Shune)** — active near-term teaming opportunity (Army SBIR); rapid multi-message exchange suggests timeline pressure
-- **Atmolab (Jure Dolinar)** — ongoing procurement/integration deal (camera system)
-- **NASA Ames (Will Wade)** — government technical partnership (S20009 project, active discussion)
-- **NOAA Federal (Chidong Zhang, via Jack Elston)** — NEW important relationship; S0 VTOL suggests water/weather/atmospheric sensing application
-- **TB2 Aerospace (Hank Scott)** — Vuncan demo collaboration (likely product demo or test platform)
-- **USAF 53 WRS (Ryan Rickert)** — government technical point of contact (RFI and operational planning)
-- **Stanford University (Tanay Topac)** — academic research partnership (MHP data)
-- **Invest Ottawa** — business development / international demonstration opportunity
+**Important External Partners (TIER 1 — Active Negotiation/Decision Gates):**
+- **TB2 Aerospace (Hank Scott)** — Vuncan Demo marked IMPORTANT; rapid same-day response suggests imminent event or go/no-go decision
+- **Invest Ottawa (Stephen Rowlands)** — Arctic UAS Demo marked IMPORTANT; international demo opportunity with internal coordination (Krateo Sky partnership), suggests approval/logistics finalization
+- **Lockheed Martin (Alasdair Brackenridge)** — UK MAD UAV Expression of Interest (major OEM); same-day response suggests strategic significance
+- **University of Colorado (Maithreyi Gopalakrishnan)** — PrecisionTerra NASA Phase II subcontractor inquiry (marked IMPORTANT); suggests BST has relevant capabilities or prior relationship
 
-## Notable Observations
-
-- **S0™ VTOL is breakthrough or urgent:** Marked IMPORTANT by Jack, multi-party internal forward (Beck, Maciej), and coordinated to NOAA Federal. Trademark (™) notation suggests product codename or formal capability designation. Timing and multi-stakeholder attention suggest this may be new business or government requirement.
-
-- **Jack Elston's role is **business development / partnership scouting**:** Pattern shows Jack receives external inquiries/opportunities (NOAA, Navy, ONR, Stanford), qualifies them, then forwards to Dan + relevant internal stakeholders (Maciej for technical, Beck for ops). This is deliberate funnel pattern.
-
-- **Government relationships are broadening:** New contacts visible in 5 May batch include NOAA, NASA, and Navy (via Jack's forward) — suggests BST is expanding beyond
+**Important External Partners (TIER 2 — Ongoing Integration/Capability):**
+-
