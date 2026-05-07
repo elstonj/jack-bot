@@ -247,10 +247,13 @@ def handle_mention(event, say, client):
     # (otherwise "correction: @Joshua has time tracked" loses its subject).
     message = re.sub(r"^\s*<@[A-Z0-9]+>\s*", "", text).strip()
 
-    route_message(message, say, client, event["user"], event.get("channel", ""))
+    route_message(
+        message, say, client, event["user"], event.get("channel", ""),
+        event_ts=event.get("ts", ""),
+    )
 
 
-def route_message(message, say, client, user_id, channel_id):
+def route_message(message, say, client, user_id, channel_id, event_ts=""):
     """Unified routing for all natural language commands."""
     msg_lower = message.lower().strip()
 
@@ -355,8 +358,24 @@ def route_message(message, say, client, user_id, channel_id):
         # the terse-ack-and-store path instead of subjecting the user to a
         # sysadmin monologue. Personality is reserved for genuine off-topic
         # chatter below.
+        #
+        # When the work update landed in #operations, store as FEEDBACK with
+        # a (ts=...) tag so:
+        #   1. STATUS_OVERRIDE_PROMPT picks it up and pins it at the top of
+        #      the next morning's synthesis prompt as a hard override (the
+        #      synthesis prompt's "ABSOLUTE" rule applies to CORRECTION /
+        #      FEEDBACK only — INSIGHT lacks that weight).
+        #   2. Tomorrow's _sync_operations_feedback dedups against the
+        #      embedded ts and doesn't double-mirror the message.
+        # Outside #operations (DMs, project channels), keep storing as
+        # INSIGHT — the channel-context isn't team-wide feedback there.
         user_name = resolve_user_name(client, user_id)
-        store_entry(client, "INSIGHT", f"From {user_name}: {message}")
+        ops_channel = os.environ.get("DAILY_TASKS_CHANNEL", "")
+        if channel_id and ops_channel and channel_id == ops_channel:
+            ts_part = f" (ts={event_ts})" if event_ts else ""
+            store_entry(client, "FEEDBACK", f"From {user_name}{ts_part}: {message}")
+        else:
+            store_entry(client, "INSIGHT", f"From {user_name}: {message}")
         say(_terse_ack())
     else:
         user_name = resolve_user_name(client, user_id)
