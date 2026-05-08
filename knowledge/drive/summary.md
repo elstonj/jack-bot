@@ -1,78 +1,60 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-05-07 02:22
+Last scanned: 2026-05-08 02:23
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 15 files — [federal_projects.md](federal_projects.md)
+- **Federal Projects** — 9 files — [federal_projects.md](federal_projects.md)
 - **Sales** — 2 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
 # Black Swift Technologies — Strategic Drive Overview
 
-## Summary Statistics
-- **Total documents:** 25+ files across 2 major shared drives
-- **Date range:** 2022–2099 (active federal projects with future-dated data)
-- **Primary focus:** Federal contracting, proposals, and commercial sales opportunities
+## Document Volume & Organization
 
----
+| Drive | File Count | Folders | Organization Quality |
+|-------|-----------|---------|----------------------|
+| Federal Projects | 9 | 0 | Poor — Root-level only, no subdirectories |
+| Sales | 2 | — | Minimal — Duplicate versions (draft + final) |
+| **Total** | **11** | **0** | **Needs structural improvement** |
 
-## Drive Breakdown
+## Key Clients & Projects
 
-### Federal Projects Drive
-**Scale:** 15 files | 1 subfolder | Well-organized
+### Federal Projects (Primary Focus)
+- **Agencies:** NASA, DOE, NOAA, DoD
+- **Active proposal:** Autonomy Phase II (DRAFT, modified 2026-05-07)
+- **Activity level:** Moderate; files span 2022–2099 range (likely metadata anomaly on future dates)
+- **Document types:** Proposals, RFIs, reports, budgets, flight test documentation
 
-**Key Characteristics:**
-- Dedicated to NASA, DOE, NOAA, and DoD opportunities
-- Includes proposal development, budget tracking, and flight test data
-- Contains Phase I/II SBIR materials and technical reports
-- Data subfolder holds time-stamped NetCDF flight test files (April 2026)
+### Sales (Secondary)
+- **Client:** Lockheed Martin UK
+- **Project:** MAD UAV EOI (Expression of Interest)
+- **Status:** Dual versions suggest workflow in progress (draft + response)
 
-**Notable Content:**
-- Autonomy Phase II proposal (DRAFT, last updated 2026-05-06)
-- Phase I Final Report templates and instructions
-- Root-level proposals, presentations, and video materials
+## Cross-Drive Patterns
 
-**Observations:**
-- Strong organization with dedicated data folder for test artifacts
-- Active development cycle with recent proposal drafts
-- Mix of templates and active documentation suggests ongoing federal pursuit strategy
+**Observed:** Federal drive focuses on government contracts/grants; Sales drive handles commercial/prime contractor opportunities. **Limited overlap** — compartmentalized by business development channel.
 
-### Sales Drive
-**Scale:** 2 files | Minimal structure
+## Critical Observations
 
-**Key Characteristics:**
-- Focused on Lockheed Martin UK MAD UAV opportunity (2026)
-- Both files are EOI/response documents (drafted simultaneously 2026-05-06)
+### 🚨 Areas Needing Attention
+1. **Federal Projects — No folder structure:** 9 files at root level; impossible to distinguish proposals from budgets from correspondence at scale
+2. **Missing archived data:** `/Data/` folder (8 NetCDF flight test files) referenced but absent—verify if archived, deleted, or moved
+3. **Sales drive — Version control:** Draft + final stored together without clear naming convention (same date modified)
+4. **Metadata anomalies:** Federal drive shows 2099-01-24 modification date (likely system error)
 
-**Notable Content:**
-- BST Response to Lockheed Martin EOI (DRAFT)
-- EOI document v1
-
-**Observations:**
-- Nascent or narrowly-scoped drive
-- Recent activity suggests active business development
-- Limited cross-linking visible to Federal Projects materials
-
----
-
-## Cross-Drive Patterns & Gaps
-
-| Pattern | Observation |
-|---------|-------------|
-| **Proposal focus** | Federal drive dominates with structured SBIR/grant materials; Sales drive shows commercial partnership opportunities |
-| **File age** | Federal drive well-maintained with recent updates; Sales drive brand new (May 2026) |
-| **Organization quality** | Federal drive uses logical folder structure; Sales drive minimal |
-| **Templates/Resources** | Federal drive contains reusable Phase I report instructions; Sales drive lacks visible templates |
-
----
+### ✓ Strengths
+- Federal drive clearly labeled by agency/opportunity type in filenames
+- Sales drive shows active pursuit of new contracts
+- Minimal duplication across drives (good separation of concerns)
 
 ## Recommendations
 
-1. **Sales drive:** Expand folder structure and integrate templates from Federal drive (e.g., proposal formats, budget templates)
-2. **Documentation standardization:** Confirm naming conventions across drives (currently: mixed formats)
-3. **Stale content audit:** Review any pre-2024 documents in Federal drive for archival or updates
-4. **Cross-reference linking:** Consider shared resources folder for templates, brand guidelines, and boilerplate language used across federal and commercial pursuits
+1. **Create folder hierarchy** in Federal Projects: `/[Agency]/[Fiscal-Year]/` or `/[Project-Name]/Proposals|Budgets|Reports/`
+2. **Establish version control:** Retire draft versions or use consistent naming (e.g., `v1-DRAFT`, `v2-FINAL`)
+3. **Locate archived flight test data** in `/Data/` — verify retention/archival status
+4. **Add metadata standards:** Date-prefixed filenames (YYYY-MM) for chronological clarity
+5. **Monitor stale content:** Flag documents >12 months old for review/archive

@@ -1,85 +1,106 @@
 # Asana Projects Overview
 
-Last scanned: 2026-05-07 02:07
+Last scanned: 2026-05-08 02:07
 
-Total projects scanned: 12
+Total projects scanned: 17
 
 ## Projects
 
-- **Contacts** — 16 tasks — [contacts.md](contacts.md)
 - **View: Flight Testing** — 1 tasks — [view_flight_testing.md](view_flight_testing.md)
+- **[001-03] S0-AD IRAD** — 0 tasks — [001-03_s0-ad_irad.md](001-03_s0-ad_irad.md)
+- **[001-07] S3 IRAD** — 2 tasks — [001-07_s3_irad.md](001-07_s3_irad.md)
+- **[001-13] Accounting** — 16 tasks — [001-13_accounting.md](001-13_accounting.md)
+- **[001-13] Facilities Management** — 5 tasks — [001-13_facilities_management.md](001-13_facilities_management.md)
+- **[001-13] General Operations** — 2 tasks — [001-13_general_operations.md](001-13_general_operations.md)
 - **[001-13] HR General ** — 1 tasks — [001-13_hr_general.md](001-13_hr_general.md)
-- **[001-13] Proposals** — 6 tasks — [001-13_proposals.md](001-13_proposals.md)
-- **[001-13] Purchasing** — 13 tasks — [001-13_purchasing.md](001-13_purchasing.md)
-- **[043-3] ByLight M2/Halo** — 1 tasks — [043-3_bylight_m2halo.md](043-3_bylight_m2halo.md)
+- **[001-13] Proposals** — 3 tasks — [001-13_proposals.md](001-13_proposals.md)
+- **[001-13] Purchasing** — 9 tasks — [001-13_purchasing.md](001-13_purchasing.md)
+- **[001-22] Fleet Maintenance** — 1 tasks — [001-22_fleet_maintenance.md](001-22_fleet_maintenance.md)
+- **[001-23] SOCOM S0-AD** — 0 tasks — [001-23_socom_s0-ad.md](001-23_socom_s0-ad.md)
+- **[043-3] ByLight M2/Halo** — 3 tasks — [043-3_bylight_m2halo.md](043-3_bylight_m2halo.md)
 - **[044-1] EMASS Chip Integration** — 1 tasks — [044-1_emass_chip_integration.md](044-1_emass_chip_integration.md)
-- **[200-12] NASA AREN '25** — 1 tasks — [200-12_nasa_aren_25.md](200-12_nasa_aren_25.md)
-- **[212-1] S2 Simulator ** — 1 tasks — [212-1_s2_simulator.md](212-1_s2_simulator.md)
+- **[300-3] 2026 IDIQ (Hurricane)** — 1 tasks — [300-3_2026_idiq_hurricane.md](300-3_2026_idiq_hurricane.md)
 - **[350-4] 2024 USGS - Chile (Mexico)** — 1 tasks — [350-4_2024_usgs_-_chile_mexico.md](350-4_2024_usgs_-_chile_mexico.md)
-- **[550-1] NAVY SBIR: Magnetometer** — 7 tasks — [550-1_navy_sbir_magnetometer.md](550-1_navy_sbir_magnetometer.md)
-- **[550-2] Navy STTR: Hazardous Weather** — 8 tasks — [550-2_navy_sttr_hazardous_weather.md](550-2_navy_sttr_hazardous_weather.md)
+- **[550-1] NAVY SBIR: Magnetometer** — 1 tasks — [550-1_navy_sbir_magnetometer.md](550-1_navy_sbir_magnetometer.md)
+- **[550-2] Navy STTR: Hazardous Weather** — 1 tasks — [550-2_navy_sttr_hazardous_weather.md](550-2_navy_sttr_hazardous_weather.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies – Project Portfolio Summary
+# Black Swift Technologies (BST) Project Portfolio Summary
 
 ## Portfolio Overview
 
 | Metric | Value |
 |--------|-------|
-| **Active Projects** | 9 |
-| **Total Tracked Value** | ~$383K (confirmed) + ~$1.35M+ (proposals) |
-| **Archived Projects** | 1 |
-| **Critical Deadlines** | 3 imminent (May 2026) |
+| **Total Quantified Value** | $843,556 |
+| **Active Client Projects** | 5 |
+| **Internal/Operational Projects** | 8 |
+| **Archived/Inactive Projects** | 2 |
 
 ---
 
-## Key Active Projects
+## Key Active Projects (Client Work)
 
-### High-Value Contracts
-- **[550-2] Navy STTR: Hazardous Weather** — $146.3K | Option period active through July 6, 2026 | Final deliverable Sept 1, 2026
-- **[350-4] USGS Chile/Mexico** — $124.2K | **DELAYED to Fall 2026** (originally April 2026) | Through Aug 30, 2025 contract end
-- **[550-1] Navy SBIR: Magnetometer** — Active | Navy NAVAIR/NAWCAD customer
-- **[044-1] EMASS Chip Integration** — $90K | Final validation phase | **BLOCKED on external dependency** | Extended through May 2026
-- **[212-1] S2 Simulator** — $2.9K | NASA Ames | Primary contact changed Dec 30, 2025
-
-### Operational & Strategic
-- **[001-13] Purchasing** — Internal operations | **13 open tasks** (↑2 from prior) | Nate Straus now holds 46% of assignments | Critical orders due May 3–8, 2026 | **1 overdue item (Mar 25)**
-- **[001-13] Proposals** — $1.35M+ funding opportunity | 4 active proposals | **2 NASA RFIs due May 7, 2026 @ 2:00pm** — NASA SaaS under review, NASA Aero RFI incomplete
-- **Flight Testing** — 1 open task (Validation Flight #2, Dan Prendergast)
-- **HR General** — 1 open task (Unemployment account check)
-- **Contacts** — Internal database (green status)
-
-### Minor/Archived
-- **[043-3] ByLight M2/Halo** — 1 open task (CAD delivery)
-- **[200-12] NASA AREN '25** — Archived (shut down Aug 2025)
+| Project | Client | Value | Status | Key Deadline |
+|---------|--------|-------|--------|--------------|
+| [300-3] 2026 IDIQ (Hurricane) | NOAA | $483,000 | **CRITICAL — Overdue items** | July 31, 2026 |
+| [550-2] Navy STTR: Hazardous Weather | Navy ONR | $146,326 | Option Period in progress | Sept 1, 2026 |
+| [550-1] Navy SBIR: Magnetometer | Navy NAVAIR | *Not specified* | Active | *Not specified* |
+| [350-4] USGS Chile (Mexico) | USGS | $124,230 | **DELAYED** (Fall 2026) | Aug 30, 2025 contract |
+| [044-1] EMASS Chip Integration | EMASS (Commercial) | $90,000 | **BLOCKED** on external validation | May 2026 |
 
 ---
 
-## Critical Risk Areas
+## Risk Areas
 
-| Risk | Impact | Timeline |
-|------|--------|----------|
-| **Purchasing backlog surge** | 13 open tasks; critical May 3–8 orders; 1 overdue | Immediate |
-| **Proposal deadline crunch** | 2 NASA RFIs due May 7, 2026 @ 2:00pm; 1 incomplete | **5 days** |
-| **EMASS external blocker** | Final validation halted pending external input | TBD |
-| **USGS deployment delay** | 18-month slip (April 2026 → Fall 2026) | Ongoing impact |
+### 🔴 Critical
+- **[300-3] NOAA Hurricane**: Significant overdue deliverables with critical path concerns
+- **[044-1] EMASS**: Project blocked pending external validation flight completion (Validation Flight #2 pending with Dan Prendergast)
+
+### 🟡 High
+- **[350-4] USGS Chile**: Deployment delayed from April 2026 to Fall 2026
+- **[001-07] S3 IRAD**: Latest update November 2023 (stale data); recent milestones (April 2026) suggest active work but documentation outdated
+
+---
+
+## Internal Operations Status
+
+| Project | Owner | Tasks | Notes |
+|---------|-------|-------|-------|
+| [001-13] Purchasing | Team | 9 open | Critical orders due May 1–9, 2026; workload shift to Nate Straus (55.6%) |
+| [001-13] Accounting | M. Needham | Monthly cycle | Recurring; current open tasks due May–June 2026 |
+| [001-13] Facilities | M. Needham | Ongoing | Active; high completion rate |
+| [001-13] Proposals | Beck Cotter | 3 open | NASA subcontract & RFI submissions |
+| [001-22] Fleet Maintenance | Dan Prendergast | 1 open | Minimal activity; 8 aircraft in scope |
+| [043-3] ByLight M2/Halo | Team | 3 open | Hardware work + invoice scope ($47,894) |
 
 ---
 
 ## Team Allocation Patterns
 
-- **Nate Straus** — Sharp increase in purchasing assignments (46% of current load)
-- **Dan Prendergast** — Flight testing & EMASS validation lead
-- **Beck Cotter** — Proposals owner; whole-team coordination
-- **Ethan Domagala** — ByLight CAD deliverable
-- **Meredith O'hara Needham** — HR/compliance, archived AREN project owner
+- **Meredith O'hara Needham**: Operations hub (Accounting, Facilities, HR, Purchasing backup)
+- **Nate Straus**: Purchasing primary (55.6% of purchasing tasks)
+- **Dan Prendergast**: Flight testing & fleet operations
+- **Beck Cotter**: Proposals & business development
+- **Maciej Stachura**: Navy STTR project lead
 
 ---
 
-## Upcoming Deadlines (Next 60 Days)
+## Upcoming Critical Deadlines
 
-1. **May 3–8, 2026** — Critical purchasing orders due
-2. **May 7, 2026 @ 2:00pm** — NASA RFI submissions (2 proposals)
-3. **July 6, 2026** — Navy STTR Option Period conclusion
-4. **September 1, 2026** — Navy STTR final deliverable
+| Date | Project | Item |
+|------|---------|------|
+| May 1–9, 2026 | [001-13] Purchasing | Critical orders due |
+| May 2026 | [044-1] EMASS | Final validation completion |
+| Sept 1, 2026 | [550-2] Navy STTR | Final deliverable |
+| July 31, 2026 | [300-3] NOAA Hurricane | Project completion & invoicing |
+| Fall 2026 | [350-4] USGS | Deployment window |
+
+---
+
+## Recommendations
+
+1. **Immediate**: Address [300-3] NOAA overdue items and [044-1] EMASS external dependency blockers
+2. **Near-term**: Update [001-07] S3 IRAD project documentation (last update Nov 2023)
+3. **Planning**: Confirm [550-1] Navy SBIR budget and timeline details
+4. **Capacity**: Monitor purchasing/operations load on M. Needham and Nate Straus through May 2026

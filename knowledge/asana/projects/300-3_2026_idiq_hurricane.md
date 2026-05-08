@@ -7,7 +7,7 @@
   - Project Start: 2026-07-31
   - Project Due: 2026-07-31
   - Invoice schedule: March 2026 – July 2026
-- **Status:** **ACTIVE — CRITICAL PHASE.** 4 of 6 invoices completed (Invoice 3 submitted 2026-05-01, 3 days early). **22 open tasks** across platform builds, firmware, QC, and kit assembly. Multiple **OVERDUE and APPROACHING OVERDUE** items with critical path impact to May 22–27 hardware ship dates.
+- **Status:** **ACTIVE — CRITICAL PHASE.** 4 of 6 invoices completed (Invoice 3 submitted 2026-05-01, 3 days early). **SIGNIFICANT OVERDUE ITEMS** with critical path impact to May 22–27 hardware ship dates and June 30 final delivery deadline.
 - **Team Members:** 
   - Meredith O'hara Needham (project owner, invoice submissions)
   - Jack Elston (firmware/software development)
@@ -21,15 +21,12 @@
   - 20 UAS units for NOAA
   - Background: SBIR Phase I (2018) and Phase II (2019–2020) collaboration; current IDIQ builds on prior partnership
 - **Risk Signals:** 
-  - 🚨 **CRITICAL OVERDUE:** "Add RH / Vaisala fix to PSNS code" (Jack Elston) **DUE 2026-05-01 — NOW PAST DUE.** No task closure visible.
-  - 🚨 **APPROACHING OVERDUE (5 days):** "Figure out why S0-70 rolled over during CAT on 04-09" (Maciej Stachura) **DUE 2026-05-08.** 
-  - 🚨 **CRITICAL MAY 22 DEADLINES (MUST SHIP MAY 27):**
-    - "Build up 2 SHOW s0's using 2025 parts" (Nate Straus) — DUE 2026-05-22
-    - "Build 2 show tripods" (Nate Straus) — DUE 2026-05-22
-    - "QC at least one of each board" (Sam Hild) — DUE 2026-05-15
+  - 🚨 **CRITICAL OVERDUE:** "Add RH / Vaisala fix to PSNS code" (Jack Elston) **DUE 2026-05-01 — NOW PAST DUE.** Firmware fix blocking downstream QC/assembly. No closure visible in current task list.
+  - 🚨 **OVERDUE (past due by 1+ days):** "Figure out why S0-70 rolled over during CAT on 04-09" (Maciej Stachura) **DUE 2026-05-08.** Only 1 task currently visible in Asana — suggests most task tracking may be external or recently archived.
+  - 🚨 **CRITICAL MAY 22 DEADLINES (MUST SHIP MAY 27):** Multiple platform builds and tripod assembly tasks approaching/overdue with hard delivery constraint.
   - 🚨 **NATE STRAUS WORKLOAD BOTTLENECK:** 7 active tasks with critical path impact; 4 with firm deadlines (May 15–22). Risk of hardware delivery delay.
-  - 🚨 **JACK ELSTON FIRMWARE DEPENDENCY:** Overdue RH/Vaisala fix blocks downstream QC/assembly work. Two firmware tasks (AP/PSNS finalization and deployment tube) due June 26 and May 29.
-  - **Final system delivery deadline 2026-06-30:** ~4 weeks to pack full systems for NOAA after SHOW ship date.
+  - 🚨 **JACK ELSTON FIRMWARE DEPENDENCY:** Overdue RH/Vaisala fix blocks downstream work. Two firmware tasks due June 26 and May 29.
+  - **Final system delivery deadline 2026-06-30:** ~4 weeks to pack full 20-unit systems for NOAA after SHOW ship date.
 
 ## Key Deliverables & Milestones
 
@@ -51,7 +48,7 @@
 | Task | Owner | Due Date | Status | Priority | Notes |
 |------|-------|----------|--------|----------|-------|
 | **Add RH / Vaisala fix to PSNS code** | Jack Elston | 2026-05-01 | 🚨 **OVERDUE** | **CRITICAL** | Firmware fix blocking downstream QC/assembly. |
-| **Figure out why S0-70 rolled over during CAT on 04-09** | Maciej Stachura | 2026-05-08 | ⏳ **APPROACHING OVERDUE** | HIGH | Validation milestone; 5 days past due. |
+| **Figure out why S0-70 rolled over during CAT on 04-09** | Maciej Stachura | 2026-05-08 | 🚨 **OVERDUE** | HIGH | Validation milestone; appears only open task currently in Asana. |
 | **QC at least one of each board** | Sam Hild | 2026-05-15 | ⏳ Open | **CRITICAL** | Hardware validation gate; enables assembly flow. |
 | **Rebuild BST s0 (currently partially disassembled)** | Nate Straus | 2026-05-15 | ⏳ Open | HIGH | Platform availability for testing. |
 | **Build up 2 SHOW s0's using 2025 parts** | Nate Straus | 2026-05-22 | ⏳ Open | **CRITICAL** | **MUST SHIP MAY 27.** Controls primary delivery milestone. |
@@ -65,4 +62,8 @@
 | **Finish 2025 S0's (full system packed)** | Nate Straus | 2026-06-30 | ⏳ Open | **CRITICAL** | **FINAL DELIVERY GATE.** All 20 units must be packed and ready. |
 | **Build up 2 SHOW s0's using 2026 parts** | Nate Straus | 2026-07-17 | ⏳ Open | HIGH | Secondary unit build; buffer capacity. |
 | **Participate in magnetic calibration** | Maciej Stachura | 2026-07-01 | ⏳ Open | MEDIUM | Sensor calibration; late-stage activity. |
-| **Submit Invoice 5 of 6** |
+
+## Task Summary
+- **Total tasks in Asana:** 1 open, 0 completed
+- **Current visible task:** "Figure out why S0-70 rolled over during CAT on 04-09" (Maciej Stachura) — **OVERDUE as of 2026-05-08**
+- **Assessment:** Asana task list appears **significantly

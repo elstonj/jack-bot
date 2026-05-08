@@ -1,85 +1,68 @@
 # Dan Prendergast — Email Patterns
 
 ## Communication Volume
-- Total messages scanned: 54 (17 new + 37 existing)
-- Date range: 2–6 May 2026
+- Total messages scanned: 66 (12 new + 54 existing)
+- Date range: 2–8 May 2026
 - Approximate volume: 6–9 emails/day during this period
-- Recent activity: Sustained high volume; 6 May showed coordinated rapid-fire responses (12:36–14:57 UTC/MT cluster), suggesting decision-making or deal closure windows
+- Recent activity: Sustained high volume continuing through 8 May; 6–7 May shows concentrated activity across multiple project threads (PrecisionTerra, Atmolab, Arctic demo, UK MAD UAV, S0 data studies)
 
 ## Key Correspondents
 
 **Top Internal Contacts:**
-- Jack Elston (elstonj@blackswifttech.com) — 15+ emails (continued primary hub; now also fielding UK MAD UAV inquiry and Arctic demo coordination)
-- Maciej Stachura (stachura@blackswifttech.com) — 4+ emails (FY27 UMS Concept Portfolio review, multi-org forwarding, RFI responses)
-- Beck Cotter (beck.cotter@blackswifttech.com) — 3+ emails (DoD SBIR/STTR topic distribution, demo coordination)
+- Jack Elston (elstonj@blackswifttech.com) — 15+ emails (continued primary hub; now also receiving NOAA S0 data impact study from Joe Cione; receiving UK MOD Merlin Mk2/US Navy SBIR inquiry)
+- Maciej Stachura (stachura@blackswifttech.com) — 4+ emails (FY27 UMS Concept Portfolio review, now also copied on NOAA S0 study; multi-org forwarding)
+- Beck Cotter (beck.cotter@blackswifttech.com) — 3+ emails (DoD SBIR/STTR monitoring, now also responding to Lockheed Martin EOI on behalf of BST — elevated to external-facing role)
+- Joshua Fromm (josh.fromm@blackswifttech.com) — **NEW:** 1 email (NOAA S0 data impact study recipient; technical team member)
+- Alex Lomis (alex.lomis@blackswifttech.com) — **NEW:** 1 email (NOAA S0 data impact study recipient; technical team member)
+- Nathaniel Straus (nate.straus@blackswifttech.com) — **NEW:** 1 email (aircraft demo logistics coordination with U of Colorado, marked IMPORTANT)
 
 **Top External Contacts:**
-- Jure Dolinar / Atmolab (jure.dolinar@atmolab.eu) — 3 emails (camera system integration, active negotiation)
+- Jure Dolinar / Atmolab (jure.dolinar@atmolab.eu) — 4+ emails (camera system integration, bilateral negotiation active — marked IMPORTANT on 7 May; appears resolved or decision-point reached)
 - Arthur Shune / Skyesa Systems (arthur@skymesasystems.com) — 3 emails (Army modular UAS payload SBIR teaming)
-- Hank Scott / TB2 Aerospace (hank@tb2aerospace.com) — 3 emails (Vuncan demo coordination — now marked IMPORTANT)
+- Hank Scott / TB2 Aerospace (hank@tb2aerospace.com) — 3 emails (Vuncan demo coordination)
 - Stephen Rowlands / Invest Ottawa (SRowlands@investottawa.ca) — 3 emails (Arctic UAS demo coordination, marked IMPORTANT)
-- Bob Smith / Krateo Sky (Bob@krateosky.com) — 2 emails (RFI S0 responses; now also copied on Arctic demo forward)
+- Bob Smith / Krateo Sky (Bob@krateosky.com) — 3 emails (RFI S0 responses; Arctic demo coordination, now responding to Dan on 7 May)
 - Will Wade / NASA Ames (william.o.wade@nasa.gov) — 2 emails (BST-NASA discussion, S20009 project)
-- **NEW:** Evan M. Wolff / USSOCOM (evan.m.wolff.mil@socom.mil) — 1 email (RFI S0 response, classified markup)
-- **NEW:** Alasdair Brackenridge / Lockheed Martin (alasdair.brackenridge@global.lmco.com) — 1 email (Expression of Interest for UK MAD UAV, marked IMPORTANT)
-- **NEW:** Maithreyi Gopalakrishnan / University of Colorado (Maithreyi.Gopalakrishnan@colorado.edu) — 1 email (PrecisionTerra NASA Phase II Proposal, marked IMPORTANT)
-- **NEW:** Vulcan SOF Notifications (Notifications@vulcan-sof.com) — 1 email (automated opportunity alerts: DOW deadline, SOF/Army programs)
+- Evan M. Wolff / USSOCOM (evan.m.wolff.mil@socom.mil) — 1 email (RFI S0 response, classified markup)
+- Alasdair Brackenridge / Lockheed Martin (alasdair.brackenridge@global.lmco.com) — 2 emails (UK MAD UAV EOI; now receiving formal response from Beck Cotter on 7 May — escalation/formalization of interest)
+- Maithreyi Gopalakrishnan / University of Colorado (Maithreyi.Gopalakrishnan@colorado.edu) — 3 emails (PrecisionTerra NASA Phase II Proposal, bilateral response exchange on 7 May; marked IMPORTANT)
+- Nejc Trost / C-Astral (nejc.trost@c-astral.com) — **NEW:** 1 email (camera system integration partner; marked IMPORTANT on 7 May; suggests supplier or technical collaboration)
+- Joe Cione / NOAA Federal (joe.cione@noaa.gov) — **NEW:** 1 email (S0 data impact study forwarded to multi-person BST team; suggests government validation/case study opportunity)
+- Simon Laurence / UK MOD (Simon.Laurence157@mod.gov.uk) — **NEW:** 1 email (Merlin Mk2/US Navy SBIR inquiry to Jack Elston; marked IMPORTANT; suggests UK Ministry of Defence evaluating BST platform for Navy program)
+- Michael Rhodes / University of Colorado (michael.e.rhodes@colorado.edu) — **NEW:** 1 email (aircraft demo logistics coordination with Nathaniel Straus; marked IMPORTANT)
 
-**Internal vs External:** ~28% internal (BST), ~72% external (vendor, partner, government, academia, automated)
+**Internal vs External:** ~30% internal (BST), ~70% external (vendor, partner, government, academia, automated)
 
 ## Topic Patterns
 
 **Primary Project Themes:**
 
-- **S0™ VTOL Discussion** — Ongoing (NOAA coordination, multi-party internal forwarding; RFI responses now include USSOCOM contact)
+- **S0™ VTOL Discussion** — **ESCALATED to GOVERNMENT VALIDATION:** Joe Cione (NOAA Federal) forwarded S0 data impact study showing "10% Model Improvement" to multi-person BST team (Joshua Fromm, Jack Elston, Maciej Stachura, Dan Prendergast, Alex Lomis); suggests government agency quantifying platform value, potential case study or procurement justification
 
-- **Vuncan Demo** — **ESCALATED to IMPORTANT:** Hank Scott (TB2 Aerospace) rapid response on 6 May; Dan responding same-day (suggests time-critical logistics or decision milestone)
+- **Vuncan Demo** — Ongoing (marked IMPORTANT in prior batch)
 
-- **Arctic UAS Demo (Ottawa)** — **HIGH PRIORITY:** Stephen Rowlands (Invest Ottawa) marked IMPORTANT; Dan forwarding internally to Jack, Maciej, and Krateo Sky partners (Bob Smith, Lisa Marie Cheney); coordination on 6 May suggests imminent event or approval gate
+- **Arctic UAS Demo (Ottawa)** — Ongoing coordination (Dan responding to Bob Smith on 7 May); logistical thread still active
 
-- **RFI S0 (Request for Information)** — **EXPANDING REACH:** Now includes USSOCOM (evan.m.wolff.mil@socom.mil, classified "U" markup), in addition to prior USAF 53 WRS contact; suggests government-wide interest or multi-command requirement
+- **Atmolab Camera System** — **DECISION POINT REACHED:** Jure Dolinar and Dan exchanged responses on 7 May (12:57 MT and 16:06 UTC respectively); Nejc Trost (C-Astral, potentially an alternative or related supplier) also marked IMPORTANT same day (21:10 CET); suggests either negotiation closure or technical specification refinement with multiple suppliers
 
-- **Atmolab Camera System** — Ongoing negotiation (continued from prior batch)
+- **PrecisionTerra NASA Phase II Proposal** — **ACTIVELY NEGOTIATING:** Maithreyi Gopalakrishnan and Dan exchanged multiple messages on 7 May (13:10 MT, 20:43 UTC incoming, 15:07 MT outgoing); bilateral scope discussion suggests BST moving toward formalization of subcontractor role
 
-- **Army Modular UAS Payload SBIR** — Active teaming with Skyesa Systems (continued)
+- **UK MAD UAV Expression of Interest** — **ESCALATED TO FORMAL RESPONSE:** Beck Cotter (BST) sent formal EOI Response to Alasdair Brackenridge (Lockheed Martin) on 7 May, marked IMPORTANT; Dan not directly on email, but suggests orchestrated internal response process (Jack Elston likely coordinating response content)
 
-- **UK MAD UAV Expression of Interest** — **NEW, HIGH PRIORITY:** Alasdair Brackenridge / Lockheed Martin (global.lmco.com) inquiring about capability/partnership; marked IMPORTANT; Dan responded same-day to Jack (suggests escalation path or strategic interest)
+- **Merlin Mk2 / US Navy SBIR** — **NEW, HIGH PRIORITY:** Simon Laurence (UK MOD, simon.laurence157@mod.gov.uk) inquired to Jack Elston on 7 May about Merlin Mk2 platform in US Navy SBIR context; marked IMPORTANT; suggests UK Ministry of Defence exploring BST platform for U.S. Navy program participation (potential UK-US defence collaboration)
 
-- **BST_FY27_UMS_Concept_Portfolio** — **NEW, STRATEGIC:** Jack Elston shared presentation (Google Slides) to Dan and Maciej; marked IMPORTANT; Maciej forwarded to Jack (likely for review/feedback cycle). Suggests internal strategic planning or board-level preparation
+- **Aircraft Demo Logistics** — **NEW:** Nathaniel Straus (BST) coordinated with Michael Rhodes (U of Colorado) on "Use of aircraft in demo" (7 May, marked IMPORTANT); tied to PrecisionTerra/Arctic demo operations; suggests physical demonstration or flight validation in progress
 
-- **PrecisionTerra NASA Phase II Proposal** — **NEW:** Maithreyi Gopalakrishnan (U of Colorado) inquiring about BST subcontractor scope; marked IMPORTANT; suggests BST being evaluated for Phase II roles in NASA-funded research
+- **DoD SBIR/STTR Topic Release** — Ongoing (Beck Cotter monitoring)
 
-- **DoD SBIR/STTR Topic Release** — Automated monthly alert from DOW (Vulcan SOF); Dan forwarded to Beck Cotter (likely for team review/bid planning)
+- **C-UAS / Drone-to-Drone** — Continued
 
-- **C-UAS / Drone-to-Drone** — Continued (Dan responded on 6 May)
-
-**External Organizations (NEW):**
-- Lockheed Martin (UK MAD UAV inquiry — major OEM relationship)
-- USSOCOM (U.S. Special Operations Command — new government contact for S0 RFI)
-- University of Colorado (PrecisionTerra NASA research collaboration)
-- Vulcan (SOF opportunity platform; automated alerts)
+**External Organizations (NEW/UPDATED):**
+- C-Astral (Nejc Trost) — camera system or integration supplier (marked IMPORTANT; may be alternative to Atmolab or complementary system)
+- NOAA Federal (Joe Cione) — government agency validating S0 platform performance
+- UK Ministry of Defence (Simon Laurence) — evaluating BST platform for UK-US naval SBIR collaboration
 
 ## Communication Patterns
 
-- **Day concentration:** 6 May 2026 shows coordinated rapid-fire cluster (12:36–14:57 UTC/MT); 11 of 17 new messages on this single day, with response times of 1–5 minutes (Dan processing multiple deal/demo topics simultaneously)
-- **Time zones:** Now spanning UTC, US Eastern, US Mountain, and UK (Lockheed Martin); suggests global business development
-- **Response patterns:** Dan responds immediately to IMPORTANT-flagged messages (Vuncan, Arctic demo, UK MAD UAV); suggests email flagging system is effective signal for urgency
-- **Internal forwarding:** Dan now forwarding externally-initiated inquiries (Arctic demo) to internal + external partners (Krateo Sky), suggesting deal orchestration or vendor coordination role
-- **Automated feeds:** Vulcan SOF notifications (DOW alerts) — suggests BST actively monitoring federal opportunity pipeline
-- **Google Workspace usage:** Jack using Google Slides for collaborative portfolio sharing (FY27 UMS Concept), indicating team uses shared documents for strategy/planning
-
-## Key Relationships
-
-**Closest Internal Collaborators:**
-- Jack Elston — **reinforced as primary partner:** 15+ messages, handling UK MAD UAV inquiry triage, fielding government RFI responses, collaborating on strategic portfolio (FY27 UMS). Acts as both business development scout and technical coordinator.
-- Maciej Stachura — **elevated to strategic review:** now reviewing FY27 UMS Concept Portfolio alongside Jack; suggests involvement in long-term planning or board/investor presentations
-- Beck Cotter — **operations/program manager:** DoD SBIR/STTR monitoring, demo logistics (Arctic event)
-
-**Important External Partners (TIER 1 — Active Negotiation/Decision Gates):**
-- **TB2 Aerospace (Hank Scott)** — Vuncan Demo marked IMPORTANT; rapid same-day response suggests imminent event or go/no-go decision
-- **Invest Ottawa (Stephen Rowlands)** — Arctic UAS Demo marked IMPORTANT; international demo opportunity with internal coordination (Krateo Sky partnership), suggests approval/logistics finalization
-- **Lockheed Martin (Alasdair Brackenridge)** — UK MAD UAV Expression of Interest (major OEM); same-day response suggests strategic significance
-- **University of Colorado (Maithreyi Gopalakrishnan)** — PrecisionTerra NASA Phase II subcontractor inquiry (marked IMPORTANT); suggests BST has relevant capabilities or prior relationship
-
-**Important External Partners (TIER 2 — Ongoing Integration/Capability):**
--
+- **Day concentration:** 7 May 2026 shows sustained multi-thread coordination (08:29–21:10 UTC/MT spanning ~13 hours); Dan responding across 4+ active negotiation streams (PrecisionTerra, Atmolab, Arctic demo, C-Astral inquiry)
+- **Time zones:** Now spanning UTC, US Eastern, US Mountain, UK (MOD), and Central European Time (Atmolab,

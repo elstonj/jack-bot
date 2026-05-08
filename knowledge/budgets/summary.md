@@ -2,56 +2,77 @@
 
 ## Active Project Budgets
 
-| Project Code | Client | Contract Type | Total Budget | Period | Status |
-|---|---|---|---|---|---|
-| 550-2 | U.S. Navy (Department of Naval Research) | STTR Phase I + Option | $245,772.00 | Jul 22, 2025 – Jan 7, 2026 (+ Feb 2026 option) | Active |
-
-### Project 550-2 Details
-- **Contract Number:** N6833525C0270
-- **Title:** N25A-T025 Expendable Air-sea Profiling Observations in Hazardous Weather Conditions
-- **Prime Contractor:** Black Swift Technologies, LLC
-- **Award Date:** July 22, 2025
-
-**Budget Breakdown:**
-- Phase I Base Period: $146,326.00
-- Option Period: $99,446.00
-- **Phase I + Option Total: $245,772.00**
-- Phase II Proposed Costs: (data incomplete in source document)
+| Project Code | Client | Total Budget | Contract Type | Period of Performance | Status |
+|--------------|--------|--------------|----------------|----------------------|--------|
+| 200-14 | NASA / Stennis Space Center | $150,000 | SBIR Phase I | Sept 29, 2025 – March 27, 2026 (6 months) | Active |
+| [200] NASA AREN | NASA | *Unknown* | Commercial (MiniCam) | Preliminary stage | Proposal/Concept |
+| Multiple Unassigned | NASA, NOAA, DoD, others | *Multiple awards* | Mixed portfolio | Various | Mixed stages |
 
 ---
 
 ## By Funding Source
 
-| Funding Agency | Total Committed | Project Count |
-|---|---|---|
-| U.S. Navy (DNR) | $245,772.00 | 1 |
-| **TOTAL** | **$245,772.00** | **1** |
+### NASA
+- **Project 200-14 (Stennis Space Center):** $150,000 (SBIR Phase I)
+- **[200] NASA AREN / MiniCam:** Budget TBD (Commercial product development)
+- **Portfolio Total (1,181 docs):** Multiple active/proposed awards across various NASA centers
+
+### NOAA, DoD, and Other Agencies
+- **Unassigned portfolio:** ~1,179 additional budget documents indicate active funding across multiple federal agencies
+- **Specific amounts:** Not yet extracted from portfolio documents
 
 ---
 
 ## By Contract Type
 
-| Contract Type | Project Count | Total Budget |
-|---|---|---|
-| STTR Phase I + Option | 1 | $245,772.00 |
+| Contract Type | Count | Known Amounts |
+|---------------|-------|----------------|
+| SBIR Phase I | 1 confirmed | $150,000 (Project 200-14) |
+| SBIR Phase II | Unknown | Unknown |
+| IRAD | Unknown | Unknown |
+| Commercial | 1 (MiniCam) | Under development (preliminary costing) |
+| Other Federal | Unknown | Unknown |
 
 ---
 
 ## Financial Health Indicators
 
-- **Active Phase I Contract:** Project 550-2 is currently funded through January 7, 2026 with option period extending into February 2026
-- **Option Period Status:** Option period confirmed for February 2026
-- **Phase II:** Proposed costs referenced but not yet detailed in available documents
-- **No Budget Concerns Flagged:** Phase I funding is clearly allocated
+### Project 200-14 — NASA SBIR Phase I
+- **Status:** ✓ Healthy – New award, 6-month contract
+- **Timeline:** Active through March 27, 2026
+- **Alert:** Mid-contract review point at ~3 months (late December 2025)
+- **Personnel:** Led by Dr. Jack Elston (labor breakdown documented but rates/hours incomplete in provided excerpt)
+- **Concern:** Labor cost schedule not fully visible in excerpt provided
+
+### Unassigned Portfolio (1,181 documents)
+- **Status:** ⚠ Requires organization
+- **Action Required:** Project codes and financial summaries needed to assess:
+  - Budget burn rates
+  - Remaining funds by project
+  - Upcoming milestone payments
+  - Funding expirations
+- **Data Gap:** No QuickBooks spend data cross-referenced with drive documents
+
+### MiniCam Commercial Project
+- **Status:** Preliminary cost analysis phase
+- **Type:** Internal product costing (not government-funded development)
+- **Next Step:** Unit cost refinement and pricing model completion
 
 ---
 
 ## QuickBooks Integration Notes
 
-- **Project 550-2:** Navy contract details available in Drive documentation only
-- **Status:** No QuickBooks integration data referenced in provided materials
-- **Recommendation:** Verify if Phase I invoicing and spending data exist in QuickBooks for budget tracking and reconciliation
+- **Project 200-14:** No QuickBooks data referenced in provided budget document
+- **Unassigned Portfolio:** 1,181 documents appear to be drive-only; no QB linkage indicated
+- **Recommendation:** Cross-reference QB Project/Cost Code "200-14" against NASA Contract #80NSSC25C0155 to verify expense tracking alignment
+- **Gap:** Portfolio-wide financial reconciliation needed between drive-based budgets and QB actuals
 
 ---
 
-**Notes:** Limited dataset (1 active project). Document reference indicates Phase II proposal data is incomplete. Recommend full financial reconciliation once additional projects and QuickBooks data are available.
+## Next Steps to Complete Overview
+
+1. Extract and organize project codes from 1,181 unassigned documents
+2. Locate labor rates and hour allocations for Project 200-14
+3. Retrieve QuickBooks spend data for all active projects
+4. Map proposal documents to awarded contracts with funding amounts
+5. Identify projects nearing funding exhaustion or milestone payments

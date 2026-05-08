@@ -4,31 +4,32 @@
 - Client: Overhead
 - Active/inactive status: Active
 - Billable status: No (overhead/internal operations)
-- Total hours tracked: 847.9 hours (840.8 + 7.1)
+- Total hours tracked: 866.6 hours (847.9 + 18.7)
 
 ## Team Allocation
-- Meredith Needham: 687.5 hours (81.0% of tracked time)
-- Beck Cotter: 74.3 hours (8.8% of tracked time)
-- Jack Elston: 67.8 hours (8.1% of tracked time)
-- Stachura: 12.6 hours (1.5% of tracked time)
-- Dan: 5.5 hours (0.6% of tracked time)
-- Ethan Domagala: 3.8 hours (0.4% of tracked time)
+- Meredith Needham: 693.7 hours (80.0% of tracked time)
+- Jack Elston: 81.6 hours (9.4% of tracked time)
+- Beck Cotter: 74.3 hours (8.6% of tracked time)
+- Dan: 9.5 hours (1.1% of tracked time)
+- Stachura: 13.6 hours (1.6% of tracked time)
+- Ethan Domagala: 4.6 hours (0.5% of tracked time)
 - Primary contributor: Meredith Needham
 
 ## Activity Timeline
 Consistent operations and communications work with stable patterns:
-- **Meredith Needham**: 6.1 hours "Operations/Admin" (latest batch); sustained operational management leadership; continuing steady cadence of administrative duties
-- **Stachura**: 1.0 hours total (0.8h + 0.2h, both undescribed); continues pattern of minimal documented entries with persistent lack of task descriptions
-- **Jack Elston**: 7.5 hours total—2.0 hours "Answering Emails" + 5.5 hours "Krateo Sky Response" (established secondary focus on client-facing/project work)
-- **Beck Cotter**: No new entries (4.0h undescribed entry from prior batch remains outstanding)
-- **Dan, Ethan Domagala**: No new entries
+- **Meredith Needham**: 6.2 hours "Operations/Admin" (latest batch); sustained operational management leadership
+- **Jack Elston**: 6.8 hours total—4.8 hours "Answering Emails" + 1.0 hour "BST Internal Update Meeting" + 1.0 hour "Answering Emails"; secondary focus on email communications and internal meetings
+- **Ethan Domagala**: 0.8 hours "Weekly Meeting" (newly active in this batch)
+- **Dan**: 4.0 hours undescribed (100% of entries in this batch lack descriptions)
+- **Stachura**: 1.0 hours undescribed (continuing pattern of minimal documented entries)
+- **Beck Cotter**: No new entries in this batch
 
 ## Insights
-- **Primary work type**: General operations/admin (Meredith); email communications and Krateo Sky Response work (Jack Elston); undocumented contributions (Stachura)
-- **Documentation concern (escalated)**:
-  - **Stachura**: 1.0h undescribed in this batch; recurring across batches; ~10.5% of Stachura's total time without context—**pattern worsening**
-  - Beck Cotter: 4.0h undescribed (persistent outstanding issue; ~5.4% of Beck's total time)
-  - Dan: 0.5h undescribed (18% of Dan's tracked time)
-  - **URGENT: Enforce task description policy immediately for Stachura (recurring violations), Beck Cotter, and Dan—establish mandatory baseline for all entries. Stachura requires corrective action to prevent further policy non-compliance.**
-- **Work pattern**: Stable operational baseline maintained by Meredith (81%); Jack Elston maintaining identified project work; secondary contributors unchanged
+- **Primary work type**: General operations/admin (Meredith); email communications and internal meetings (Jack Elston); undocumented contributions (Dan, Stachura)
+- **Documentation concern (ESCALATED—CRITICAL)**:
+  - **Dan**: 4.0 hours undescribed in this batch; now 4.0 of 9.5 total hours (42% of Dan's tracked time) without context—**pattern emerging and worsening rapidly**
+  - **Stachura**: 1.0 hours undescribed; continues recurring pattern; ~7.4% of Stachura's total time without documentation
+  - **Beck Cotter**: 4.0 hours undescribed (persistent outstanding issue; ~5.4% of Beck's total time)
+  - **URGENT: Immediate corrective action required—Dan now shows majority of entries undescribed. Enforce mandatory task description policy across all team members. Stachura and Dan require immediate compliance intervention.**
+- **Work pattern**: Stable operational baseline maintained by Meredith (80%); Jack Elston maintaining email/communications focus; Ethan Domagala shows renewed engagement; secondary contributors unchanged
 - **Team composition**: Stable; no personnel changes

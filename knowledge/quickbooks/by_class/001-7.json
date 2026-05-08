@@ -1,73 +1,104 @@
 {
   "project_code": "001-7",
   "qbo_class_names": [
-    "(001-7) IRAD - S3"
+    "(001-7) IRAD - S3",
+    "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-05-03",
-    "end": "2026-05-06"
+    "start": "2026-05-07",
+    "end": "2026-05-08"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 925.83,
+    "expenses": 2561.44,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 925.83
+      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 2300.0,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 261.44
     }
   },
   "invoices": [],
-  "bills": [],
-  "purchases": [
+  "bills": [
     {
-      "type": "Purchase",
-      "date": "2026-05-05",
-      "doc_number": "",
-      "total": 28.76,
-      "attributed": 28.76,
-      "vendor": "",
+      "type": "Bill",
+      "date": "2026-05-07",
+      "doc_number": "receiver_v03",
+      "total": 1250.0,
+      "attributed": 1250.0,
+      "vendor": "Summit Assembly, LLC",
       "customer": "",
-      "balance": null,
-      "memo": "Shipment request by Josh Fromm",
+      "balance": 0.0,
+      "memo": "April 2026 work",
       "lines": [
         {
-          "amount": 28.76,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Shipping tool to Sean Cole (Phase1) for S3 IRAD work"
+          "amount": 950.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": "PCB Assembly Assembly x 30"
+        },
+        {
+          "amount": 300.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": "Set Up"
         }
       ]
     },
     {
+      "type": "Bill",
+      "date": "2026-05-07",
+      "doc_number": "gnss_mag-v061",
+      "total": 1050.0,
+      "attributed": 1050.0,
+      "vendor": "Summit Assembly, LLC",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "April 2026 work",
+      "lines": [
+        {
+          "amount": 750.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": "PCB Assembly Assembly x 10"
+        },
+        {
+          "amount": 300.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": "Set Up"
+        }
+      ]
+    }
+  ],
+  "purchases": [
+    {
       "type": "Purchase",
-      "date": "2026-05-04",
-      "doc_number": "106880",
-      "total": 441.36,
-      "attributed": 441.36,
+      "date": "2026-05-07",
+      "doc_number": "3001681172",
+      "total": 214.02,
+      "attributed": 214.02,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 441.36,
+          "amount": 214.02,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "pingRX Pro"
+          "description": "Quick latch adnodized blue Air Cleaner Latch Kit x 6"
         }
       ]
     },
     {
       "type": "Purchase",
-      "date": "2026-05-04",
-      "doc_number": "99012523",
-      "total": 455.71,
-      "attributed": 455.71,
+      "date": "2026-05-07",
+      "doc_number": "E6040634",
+      "total": 47.42,
+      "attributed": 47.42,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "DKC*DIGI KEY CORP - 4617",
+      "memo": "",
       "lines": [
         {
-          "amount": 455.71,
+          "amount": 47.42,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "250 M GIMBAL RANGEFINDER MODULE; RF FILTER BANDPASS 942MHZ INLINE"
+          "description": "Quik Latch QL-25-08-04 Mini Latch Pin, 1/4-20 x 4"
         }
       ]
     }

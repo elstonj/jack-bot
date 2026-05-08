@@ -29,16 +29,17 @@
     - Camp Pendleton demo: Aug 17, 2026 (pending)
     - CLIN 0006 (Progress Report): Jun 29, 2026
     - CLIN 0007 (Final Report): Sep 28, 2026
-- **Status:** **Active – Option Period in execution.** Design phase completed early (May 6); parts ordered. Current work focuses on ground testing, launcher design/build, and UK Navy EOI. See Recent Activity for latest progress.
+- **Status:** **Active – Option Period in execution.** Design phase completed early (May 6); parts ordered. Current work focuses on ground testing, launcher design/build, and UK Navy EOI. One open task: Jack Elston's onboard logging design (due May 8 — **approaching deadline**).
 - **Team Members:**
   - Alex Lomis (PM/Owner, technical lead for builds & flights) — primary execution lead
-  - Jack Elston (technical lead, onboard logging & final reporting)
+  - Jack Elston (technical lead, onboard logging & final reporting) — **1 active task**
   - Maciej Stachura (Python tools, sensor configuration) — completed assigned tasks as of Apr 20
-  - Beck Cotter (Camp Pendleton coordination, UK Navy EOI) — due May 19
-  - Meredith O'hara Needham (administrative, invoicing, FWA certification) — CLIN 0005 delivered Apr 14
+  - Beck Cotter (Camp Pendleton coordination, UK Navy EOI)
+  - Meredith O'hara Needham (administrative, invoicing, FWA certification)
   - Dan Prendergast (support)
 - **Risk Signals:**
-  - **Priority #5 status with compressed timeline:** Option period runs Apr 14 – Sep 28 (6.5 months) to complete design → build → ground test → hand-launched flights → Camp Pendleton demo + three Navy reports. Team bandwidth is constrained by higher priorities (S3 IRAD, S0-VTOL, EMASS closure).
+  - **APPROACHING DEADLINE:** Jack Elston's "Design of onboard logging of both mag sensors" due May 8 — status in Asana shows **open** (may be in progress or stalled).
+  - **Priority #5 with compressed timeline:** Option period runs Apr 14 – Sep 28 (6.5 months) to complete design → build → ground test → hand-launched flights → Camp Pendleton demo + three Navy reports. Team bandwidth is constrained by higher priorities (S3 IRAD, S0-VTOL, EMASS closure).
   - **Critical external dependency:** Camp Pendleton permissions & frequencies (Beck Cotter, due Jun 1) must be secured before demo logistics finalized (Aug 10).
   - **New launcher development:** S0-AD ground launcher is on critical path (design due Jun 5, build/test due Jun 15) — adds complexity beyond original magnetometer integration scope.
 
@@ -57,7 +58,7 @@
 | Complete design of ground testing S0-MAD (both mags) | Alex Lomis | Apr 27, 2026 | ✓ **COMPLETED** (May 6) | Design phase completed early |
 | Preliminary design mods for reusable S0-MAD | Alex Lomis | May 1, 2026 | ✓ **COMPLETED** (May 6) | Design phase completed early |
 | **Order parts for S0-MAD reusable** | **Alex Lomis** | **May 5, 2026** | **✓ COMPLETED (May 6)** | **Parts procurement complete** |
-| Design onboard logging (both mag sensors) | Jack Elston | May 8, 2026 | **Open** | In progress |
+| **Design onboard logging (both mag sensors)** | **Jack Elston** | **May 8, 2026** | **🔴 OPEN – APPROACHING DEADLINE** | **In progress or at risk** |
 | Finalize Python plotting/analysis tools | Maciej Stachura | May 13, 2026 | ✓ **COMPLETE** | Per Maciej (Apr 20): "Tasks for the Navy project is done" |
 | Configure settings for both mag sensors | Maciej Stachura | May 18, 2026 | ✓ **COMPLETE** | Per Maciej (Apr 20): "Tasks for the Navy project is done" |
 | **Conduct ground testing with different throttle settings** | **Alex Lomis** | **May 22, 2026** | **OPEN** | Critical next phase |
@@ -75,10 +76,4 @@
 - Acoustic Sensor Design, Analysis, and Testing ✓
 - S0 platform modification and CAD delivery ✓
 - Motor interference characterization and shielding analysis ✓
-- DD882 interim patent form filed (Jan 28, 2026) ✓
-- All Phase I reports and invoices submitted and paid (Feb 9–11, 2026) ✓
-
-## Task Summary
-- **Asana tasks (current export):** 4 open, 3 completed
-  - **Recently Completed (May 6):**
-    - Order
+- DD882 interim patent form filed (Jan 28

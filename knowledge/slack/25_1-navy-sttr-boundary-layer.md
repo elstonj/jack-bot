@@ -13,6 +13,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **April 17, 2026**: Confirmed RH (relative humidity) sensor error resolved with post-processing fix applied to all current data; real-time correction now implemented in firmware
 - **April 20, 2026**: Approved data format strategy for multi-rate sensor outputs: full-rate dataset as primary deliverable with 1 Hz downsampled version for TDR (Tropical Cyclone Data Repository) comparison
 - **May 6, 2026**: Established CAT flights (2026-03-26, 2026-04-07, 2026-04-09) as primary focus for Phase I Option Progress Report analysis; confirmed 53rd Weather Wing partnership for S0 dropsondes over WHOI arrays during Phase II
+- **May 7, 2026**: Data analysis underway on rain flight (1,000 m box) showing good agreement with dropsondes; P3 wind measurements showing larger discrepancies than expected, investigating potential radar data gaps for eastern region coverage needed for S0 comparisons
 
 ## Projects & Initiatives
 **Navy STTR Boundary Layer Measurements Project (Award: N6833535C0270)**
@@ -42,7 +43,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - Full-rate multi-sensor dataset from 5 test flights and CAT flights (primary deliverable maintaining 5Hz PTH, 100Hz wind, 100Hz static pressure sampling rates)
 - 1 Hz downsampled version for TDR (Tropical Cyclone Data Repository) comparison and analysis
 - Processed dropsonde data (post-processed with Aspen QC)
-- TDR radar data from CAT flights (available for 04/07 and 04/09)
+- TDR radar data from CAT flights (available for 04/07 and 04/09; 04/07 data sparse at 1-km coverage with insufficient eastern region data per May 7 findings)
 - Streamsonde data (post-processing status: TBD on real-time QC files)
 
 **Data Repository Structure (May 6, 2026):**
@@ -58,6 +59,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
   - Lead Phase II Cal/Val plan development; schedule brief meeting next week (week of May 13)
   - Compile updated CAT files with improved wind estimation techniques
   - Contribute to centralized data folder structure
+  - Assess P3 wind measurement discrepancies relative to dropsonde measurements (May 7 investigation)
 - **Josh Wadler**: 
   - Post-processed dropsonde data uploaded to shared folder (completed May 6)
   - Streamsonde post-processing: actively working on real-time QC files (TBD)
@@ -65,6 +67,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
   - Support QC analysis from CAT flights
   - **Unavailable week of May 10-16, 2026** (out Friday to next Friday)
   - Will participate in Phase II Cal/Val planning upon return
+  - Investigate TDR radar data gaps and salvage options for eastern region coverage needed for S0 comparisons (May 7, involving Paul from NOAA/TDR team)
 - **Jun Zhang**: 
   - Sourcing dropsonde data from HRD or AOC for CAT flights (in progress May 6)
   - Radar data retrieval for 04/07 flight from raw TDR files (in progress May 6)
@@ -77,20 +80,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
   - Meeting planned week of May 13, 2026 for Phase II Cal/Val plan finalization
 
 **Phase I Option Deliverables:**
-- Phase II Cal/Val Plan (due May 20) - meeting scheduled next week to finalize
+- Phase II Cal/Val Plan (due May 20) - meeting scheduled week of May 13 to finalize
 - Additional cal/val with NOAA data/ISARRA (due June 20)  
 - De-ice heaters design (due July 20)
 - Stakeholder engagement (due September 20)
-
-## Client & External References
-**Primary Navy Contacts:**
-- Josh Cossuth (TPOC) - Navy stakeholder providing feedback and reviews; less interested in over-land data
-- Meredith Needham - Navy program administrator managing reporting requirements and deadlines
-
-**Collaborators & Partners:**
-- **53rd Weather Wing**: Confirmed interest in dropping S0s over WHOI arrays during Phase II as part of training exercises
-- NOAA: 
-  - Dropsonde data from CAT flights (HRD source via Jun Zhang)
-  - AOC (Aviation Operations Center) in Lakeland for field operations coordination and flight computer data access
-  - P3 platform hosting CAT flights
--

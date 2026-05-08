@@ -10,14 +10,15 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - Dan Prendergast (flight test coordination)
 - Jack Elston (backup pilot, vehicle support, approvals)
 - Nate (aircraft assembly, launch support)
-- Bryan Sparling (ByLight pilot/contact)
+- Bryan Sparling (ByLight pilot/contact, invoice/payment coordination)
 - Beck Cotter (program management, SOW coordination)
 - Dan H., Terry Tate, Spencer (contractors/specialists)
 - Alex Lomis (components/inventory, battery design)
 - Joshua Fromm (design input/materials)
 - Mel (ByLight decision-maker)
+- Meredith Needham (invoicing/accounting)
 
-**Activity Level:** High, covering October 2025 through April 2026, with regular flight tests, design iterations, and scope management updates. Most recent activity (April 29, 2026) indicates CAD design finalization phase with ByLight carbon fiber manufacturing expected mid-late May 2026.
+**Activity Level:** High, covering October 2025 through May 2026, with regular flight tests, design iterations, and scope management updates. Most recent activity (May 7, 2026) indicates CAD design completion and payment processing for ByLight carbon fiber manufacturing phase.
 
 ## Key Decisions
 
@@ -72,10 +73,11 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - **Next Step:** BST to send finalized CAD design meeting all mission requirements; ByLight manufactures CF version and BST implements avionics and control surfaces
 - **Pending Detail:** Material specification for ByLight's 3D-printed carbon fiber fuselage (Joshua Fromm flagged need for clarification on filament type)
 
-**April 29, 2026 – CAD Design Completion & Manufacturing Timeline**
-- Ethan finalized CAD optimization work during the week of April 29
-- **Expected Flight Timeline:** BST to receive and fly carbon fiber fuselage versions mid-late May 2026
-- Asana task due dates updated to reflect ByLight's timeline expectations
+**May 7, 2026 – Payment Clearance & CAD Release**
+- Invoice #1753 ($15K) issued April 8, 2026 with follow-up sent April 27, 2026
+- Payment confirmed received May 7, 2026 (2-day clearing period expected)
+- CAD design released to ByLight May 7 at 14:37 after payment confirmation
+- Maciej noted the released CAD is "a step down from the original fuse you designed" by Ethan, suggesting design compromises were made in the final iteration
 
 ## Projects & Initiatives
 
@@ -87,11 +89,11 @@ This channel tracks the development and flight testing of the **By Light Mustang
   - Demonstrated need for new airframe design
   - Shipped to ByLight at 4038 Gillespie St, Fayetteville, NC for SOF week display
 
-### Chilli/MS2-4 Prototype (Primary Aircraft) – CAD OPTIMIZATION PHASE
-- **Status:** CAD design finalization completed as of April 29, 2026; awaiting ByLight carbon fiber 3D-printed manufacturing (expected mid-late May)
+### Chilli/MS2-4 Prototype (Primary Aircraft) – CAD FINALIZED, AWAITING MANUFACTURING
+- **Status:** CAD design optimization completed and delivered to ByLight May 7, 2026; awaiting ByLight carbon fiber 3D-printed manufacturing (expected mid-late May)
 - **Finalized Configuration (Last Flight-Tested):**
   - Wings: Commercial Chilli A37 from Soaring USA
-  - Fuselage: Being replaced with ByLight's CF 3D-printed single 4.5-foot piece (replacing red 4.5" fiberglass Wildman Rockets tube)
+  - Fuselage: ByLight's CF 3D-printed single 4.5-foot piece (replacing red 4.5" fiberglass Wildman Rockets tube prototype)
   - Motors: 2x KDE 4215-465Kv
   - Props: 17x13 RFM folding props (best performer)
   - ESC: TBS Lucid with KISS telemetry
@@ -100,7 +102,4 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - **Flight Test Results (Dec 2025):**
   - Old fuselage: 590W at 30m/s
   - New fuselage (Ethan design): 480W at 30m/s (18% improvement)
-  - At 27m/s: 335W, projecting 13 hours flight time / 1200km range as S0
-  - 19 m/s stall speed (clean config)
-  - Elevator incidence: 1.8° relative to wing (acceptable)
-  - Aero efficiency: 30% better than previous at 27m/
+  - At 27m/s: 335

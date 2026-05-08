@@ -5,7 +5,7 @@ This channel is primarily used for development and testing of BST's S0 VTOL airc
 
 Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan Domagala, Dan, Ben Busby
 Activity: High activity with 1420+ messages covering approximately 2+ years of development
-Time range: Early development through May 6, 2026 (ongoing project)
+Time range: Early development through May 7, 2026 (ongoing project)
 
 ## Key Decisions
 
@@ -69,24 +69,28 @@ Time range: Early development through May 6, 2026 (ongoing project)
   - Magnetometer issues resolved after replacing SD card with fresh card (May 6, 2026)
   - ESC behavior verified stable: tested ESC with constant throttle (1200µs) and simulated errors over entire input range - no unexpected halts or failures observed (May 6, 2026)
 
+**Pivot Servo Issues (May 7, 2026):**
+- Left front pivot stopped moving during test; one previous crash correlated with stuck pivoter
+- Pivot PWM range for left front: min 2080µs, center 1985µs, max 1010µs
+- Sam Hild identified PWM "shift" issue: signal appears corrupted/attenuated rather than changed in value (May 7, 2026)
+- Initial hypothesis: Voltage-related issue, possibly faulty level shift circuit (May 7, 2026)
+
 ## Projects & Initiatives
 
-**S0-VTOL Development (Spin-Up Phase - April-May 2026):**
+**S0-VTOL Development (Spin-Up Phase - May 2026):**
 - Status: 20/50 required test flights completed for certification
-- Current phase: Intensive ground testing with instrumentation improvements before resuming flight tests; root cause identification for May 5 motor shutdown event
-- Recent ground testing status: 
-  - Overnight test run on May 5 produced motor shutdown event during operation, logs retained for analysis
-  - May 6 analysis of logs revealed multiple issues:
-    - Pivot control bug in test firmware (identified and fixed by Maciej)
-    - Magnetometer failure after ~65 minutes (not due to hardware issue, resolved with fresh SD card)
-    - Autopilot data gaps appear to be SD card logging artifacts rather than communication failures
-    - ESC functionality verified stable under error injection testing
-  - Fresh SD card deployed for subsequent testing sessions
-  - Noise machine testing resumed May 6 evening (ongoing)
-- Ground testing focus: Continuing systematic testing protocol with fresh SD card; monitoring for motor shutdown reoccurrence; verifying pivot control behavior with updated firmware
-- Major concern: Motor shutdown event on May 5 still requires full root cause determination; previous crash failures cannot be replicated on ground
-- Next steps: Continue noise machine overnight testing with fresh SD card; analyze complete logs once available; potentially resume advanced instrumentation deployment if systematic testing yields stable behavior
-- **Status Update (May 6, 2026):** Investigation narrowed down multiple potential causes; motor shutdown not attributable to ESC input handling or hub board DShot transmission; likely related to autopilot command sequence or timing during specific test conditions
+- Current phase: Intensive ground testing with instrumentation improvements; investigating multiple hardware issues discovered through ground testing
+- Recent issues discovered (May 7, 2026):
+  - Stuck pivot servo on left front actuator during overnight testing
+  - PWM "shift" signal degradation (voltage/level shift circuit suspected)
+  - CAN Bus wiring issues: missing termination on hub board, should use twisted pair at 1M bus speed
+  - Actuator packet CRC bug on hub board
+  - Multiple autopilot resets (4) and shutdowns (2) during overnight test run
+  - Corrupted SD card (possibly caused by autopilot resets)
+  - Servo power demand analysis needed to diagnose pivot sticking
+- Testing surface firmware noted as non-production code; issues may not apply to production build
+- Focus shifted to power system analysis and level shift circuit debugging
+- **Status Update (May 7, 2026):** Multiple cascading hardware and firmware issues identified in recent testing; team investigating whether pivot sticking is power-related or control signal issue; PWM signal integrity problems suggest potential level shift or bus power distribution problems
 
 **S1-20 Aircraft Reference Data:**
 - Reference aircraft completed 213 total flights with 10.5 hours combined flight time over past year
@@ -99,10 +103,4 @@ Time range: Early development through May 6, 2026 (ongoing project)
 
 **Customer Deliveries:**
 - ERAU: Two S0-VTOLs scheduled
-- Barbados: One S0-VTOL delivered, training conducted by Jack
-- Multiple QC issues identified requiring process improvements
-
-## Action Items & Commitments
-
-**Jack Elston:**
-- Complete 50 flight test program for S0-VT
+- Barbados

@@ -1,21 +1,35 @@
 {
   "period": {
-    "start": "2026-05-06",
-    "end": "2026-05-07"
+    "start": "2026-05-07",
+    "end": "2026-05-08"
   },
-  "scanned_at": "2026-05-07",
+  "scanned_at": "2026-05-08",
   "projects": [
     {
-      "project_code": "032-3",
+      "project_code": "001-7",
       "revenue": 0.0,
-      "expenses": 120.22,
+      "expenses": 2561.44,
       "invoice_count": 0,
-      "bill_count": 1,
-      "purchase_count": 0,
+      "bill_count": 2,
+      "purchase_count": 2,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "[032] University of Notre Dame:[032-3] Sasquatch S0s x 4"
+        "(001-7) IRAD - S3",
+        "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
+      ]
+    },
+    {
+      "project_code": "031-1",
+      "revenue": 0.0,
+      "expenses": 1221.39,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 1,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "(031-1) University of Maryland Eastern Shore"
       ]
     },
     {
@@ -34,15 +48,14 @@
     {
       "project_code": "300-3",
       "revenue": 216000.0,
-      "expenses": 601.09,
+      "expenses": 479.8,
       "invoice_count": 3,
-      "bill_count": 1,
-      "purchase_count": 0,
+      "bill_count": 0,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "[300-3] 2026 IDIQ",
-        "[300] NOAA:[300-3] 2026 IDIQ"
+        "[300-3] 2026 IDIQ"
       ]
     },
     {
@@ -61,9 +74,9 @@
     {
       "project_code": "_unclassified",
       "revenue": 0.0,
-      "expenses": 5680.32,
+      "expenses": 306.08,
       "invoice_count": 0,
-      "bill_count": 1,
+      "bill_count": 0,
       "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,

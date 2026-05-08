@@ -1,78 +1,57 @@
 # BST Financial Overview (QuickBooks)
+**Period: May 7–8, 2026 | Cumulative: April 2024 – May 2026**
+
+---
 
 ## Company Totals
 
 | Metric | Amount |
 |--------|--------|
-| **Total Revenue (Invoices)** | $6,796,182.98 |
-| **Total Expenses** | $2,453,327.26 |
-| **Net Income (Estimated)** | $4,342,855.72 |
+| **Total Revenue (Invoiced)** | $6,859,917.98 |
+| **Total Expenses (Bills + Purchases)** | $2,466,946.65 |
+| **Net Income (Gross Position)** | $4,392,971.33 |
+
+*Note: P&L report shows only May 7–8 activity ($111,629 revenue, $4,262.63 expenses, $107,366.37 net)*
 
 ---
 
 ## By Project/Class
+**Sorted by Total Revenue (Highest First)**
 
-| Project | Total Revenue | Total Expenses | Net Position | Status |
-|---------|---------------|----------------|--------------|--------|
-| **Government** | $4,076,295.28 | $1,315,401.19 | **$2,760,894.09** | Primary revenue driver |
-| **Commercial** | $2,701,993.34 | $221,360.75 | **$2,480,632.59** | Strong profitability |
-| **BST Internal** | $17,894.36 | $916,165.32 | **-$898,270.96** | Cost center (negative) |
-
-### Key Observations:
-- **Government** projects generate 60% of total revenue ($4.1M) with healthy margins
-- **Commercial** projects show the strongest profitability ratio (92% net margin)
-- **BST Internal** operations run at a substantial loss, suggesting overhead/administrative costs
+| Project | Revenue | Expenses | Net Position | Status |
+|---------|---------|----------|--------------|--------|
+| **Government** | $4,076,295.28 | $1,316,187.07 | **+$2,760,108.21** | Active (72 invoices) |
+| **Commercial** | $2,765,728.34 | $222,582.14 | **+$2,543,146.20** | Active |
+| **BST Internal** | $17,894.36 | $927,177.44 | **-$909,283.08** | High deficit |
 
 ---
 
 ## Cash Flow Indicators
 
-### Accounts Receivable (Outstanding Invoices)
-- **Government projects**: $2,808,876.19 outstanding across 72 active invoices
-- **Commercial projects**: At least $63,735.00 recent outstanding (Invoice #1757, May 8)
-- **Total AR**: ~$2.87M+ in uncollected revenue
+### Accounts Receivable (Outstanding Balances)
+- **Government Projects**: $2,808,876.19 outstanding (69% of invoiced revenue)
+- **Commercial**: $63,735.00+ outstanding (recent May 8 invoice)
+- **Total AR**: ~$2,872,611+ in open balances
 
-### Recent Activity (May 1–7, 2026)
-- **BST Internal**: +$10,505.44 in new expenses
-- **Commercial**: Invoice #1759 ($664.98) and #1757 ($63,735.00) issued May 8
-- **Government**: Transaction volume ongoing
+### Recent Activity (May 1–8)
+- **BST Internal**: +$11,012.32 in new expenses
+- **New Invoices**: Commercial (#1759, #1757) on May 8
+- **Purchase Orders Outstanding**: $4,509.50 total
+  - Amprius (PO #1038): $1,700.00
+  - Other vendors: $1,977.50–$2,809.50
 
-### Outstanding Purchase Orders
-- **Government**: $832.00 outstanding
-- **Commercial**: $1,977.50 outstanding
-- **BST Internal**: $1,700.00 (PO #1038 to Amprius)
-
----
-
-## Top Customers (Commercial & Government)
-
-| Customer | Project | Recent Invoice | Amount |
-|----------|---------|-----------------|--------|
-| By Light Halo [043-3] | Commercial | #1757 (May 8) | $63,735.00 |
-| IRISS, CU Boulder | Commercial | #1759 (May 8) | $664.98 |
-| *Government contracts* | Government | 72 active invoices | $4,076,295.28 |
+### Projects with No Recent Activity
+- **BST Internal**: Last invoice #175 (date not shown; likely archived/complete)
+- Most activity concentrated in Government & Commercial classes
 
 ---
 
-## Unclassified Transactions
+## Key Observations
 
-**Profit & Loss Report Summary (May 6–7):**
-- Direct Costs (Shipping, Freight & Delivery): $721.31
-- No revenue recorded in this specific 2-day window
-- Net Income (2-day period): -$721.31
+⚠️ **BST Internal Class**: Significant deficit (-$909,283.08) suggests this is an overhead/R&D cost center rather than a revenue-generating project.
 
-This minimal activity suggests the P&L excerpt covers a short reporting period and does not reflect the full picture shown in the project-level data.
+✓ **Government & Commercial**: Both highly profitable; Government dominates revenue ($4.1M).
 
----
+⚠️ **Cash Position**: Despite $6.86M in invoiced revenue, $2.87M+ remains uncollected—critical for cash flow management.
 
-## Financial Health Summary
-
-✅ **Strengths:**
-- Strong overall profitability ($4.3M net income)
-- Government contracts provide stable, large-scale revenue
-- Commercial projects highly profitable (92% margin)
-
-⚠️ **Concerns:**
-- Significant AR concentration ($2.87M+) creates cash flow risk
-- BST Internal operations at -$898K deficit (investigate cost drivers)
-- Payment collection timing critical given large outstanding balances
+⚠️ **Period Limitation**: Provided data spans 24+ months. May 7–8 P&L shows only $111,629 in activity for a 2-day window.
