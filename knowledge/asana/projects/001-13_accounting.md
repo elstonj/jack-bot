@@ -4,28 +4,41 @@
 - **Owner:** Meredith O'hara Needham
 - **Team:** BST (Whole Team)
 - **Status:** Active — ongoing monthly accounting maintenance
-- **Timeline:** Recurring monthly tasks; current cycle due dates in May 2026
+- **Timeline:** Recurring monthly tasks; current open tasks due 2026-05-11 through 2026-06-05
 
 ## Key Deliverables & Milestones
 Recurring monthly accounting cycle:
-- **By 2026-05-01:** Pay outstanding invoices; record all paid invoices in QuickBooks
-- **By 2026-05-04:** Categorize and classify purchases; review and fix uncategorized expenses; check late invoices
+- **By 15th of month:** Pay outstanding invoices; record all paid invoices in QuickBooks
+- **By 29th of month:** Run Monthly P&L
+- **By 5th of following month:** Update Fundraising Financial Reports; Record Payroll in QuickBooks
 - **Ongoing (Mondays):** Check late invoices weekly
 
 ## Task Summary
-- **Total:** 12 tasks (6 open, 6 completed)
+- **Total:** 16 tasks (7 open, 9 completed)
 - **All tasks assigned to:** Meredith O'hara Needham
-- **All tasks marked:** Nonbillable
-- **Completion pattern:** Recent batch of 6 tasks (April cycle) completed on 2026-05-04, slightly overdue to the original due dates (2026-04-24 and 2026-04-27)
+- **All tasks marked:** Nonbillable (internal work)
+- **Completion pattern:** Recent batch (9 tasks) completed on 2026-05-07, mostly on schedule or 1–3 days overdue
+  - Notable: Several duplicate task instances (e.g., "Make sure all paid invoices are recorded in QB" appears 3 times; "Pay Outstanding Invoices" appears 2 times)
+  - "Run Monthly P/L" completed 2026-05-07 despite 2026-04-24 due date (13 days late)
 
 ## Recent Activity
-- **Completed (2026-05-04):** Full April accounting cycle closed out — paid invoices, recorded transactions, reviewed uncategorized expenses, checked late invoices, initiated DHL business account setup
-- **In Progress:** May cycle tasks opened; "Pay Outstanding Invoices" marked as Started but incomplete
-- **Pattern:** Monthly tasks tend to complete a few days after scheduled due dates
+- **Completed (2026-05-07):** Large batch of May accounting cycle tasks closed — paid invoices, recorded QB transactions, updated fundraising reports, recorded payroll, checked late invoices
+- **In Progress (Open):**
+  - "Pay Outstanding Invoices" (due 2026-05-15) — Started, incomplete
+  - "Make sure all paid invoices are recorded in QB" (due 2026-05-11) — Not yet started
+  - "Check Late Invoices every Monday" (due 2026-05-11) — Recurring task
+  - "Run Monthly P/L" (due 2026-05-29) — Not yet started
+  - "Update Fundraising Financial Reports" (due 2026-06-05) — Not yet started
+  - "Record Payroll in Quickbooks" (due 2026-06-05) — Not yet started
+- **Pattern:** Tasks complete a few days after due date; batch processing approach (many completed same day)
 
 ## Notes & Context
-- All accounting tasks nonbillable internal work
+- All accounting tasks are nonbillable internal work
 - Key workflow: Gmail review → QuickBooks recording → categorization → P&L review
 - Purchases tracking spreadsheet shared monthly with Jack, Josh, and Maciej
-- Outstanding action: DHL business account setup to reduce processing fees on shipments (completed 2026-05-04)
-- Recurring Monday task for late invoice monitoring
+- **Task duplication:** Asana list shows duplicate instances of recurring tasks (same title, same assignee, different due dates). This may indicate template-based monthly creation or incomplete archiving of prior cycles.
+- **SOP references:**
+  - Payroll recording: https://docs.google.com/document/d/1vGjlPEUN_BA
+  - Fundraising reports location: https://drive.google.com/drive/folders/1HloGsiJWk8hx6AIyN5yCVwC
+- **Process note:** Payroll and QB recording pull from Rippling Payroll Report and banking feed
+- No risk signals — recent completion rate strong; no tasks significantly overdue

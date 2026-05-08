@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $4,076,295.28
-- **Total Expenses (Bills + Purchases):** $1,315,401.19
+- **Total Expenses (Bills + Purchases):** $1,316,187.07
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $2,760,894.09 (invoiced minus expenses)
+- **Net Position:** $2,760,108.21 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -69,8 +69,8 @@
 
 ---
 
-### **Materials & Supplies: $439,566.53**
-**Number of transactions:** 172  
+### **Materials & Supplies: $440,352.41**
+**Number of transactions:** 173  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
 - **JAWSTEC:** $19,627.62 (components for S0 platforms)
@@ -82,8 +82,13 @@
 - **Motors, brushless components:** $181.85 + $55.46
 - **S0 wing components:** Multiple purchases totaling $12,200+
 - **PCB boards, stencils, parts sourcing:** ~$30,000+
+- **Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head** (2026-05-07, Purchase #1288885721): **$479.80** [DIRECT COSTS] + $306.08 [Inventory Asset for future S3 sales]
+  - **Direct Cost Materials & Supplies impact: $479.80**
 
 **Recent transactions (May 2026):**
+- **Purchase #1288885721** (2026-05-07): $785.88 total
+  - $479.80 [DC-Direct Cost Purchases] — Oben AC-1441 tripod x 4
+  - $306.08 [Inventory Asset] — Oben AC-1441 tripod x 2
 - **Purchase #SW65S791** (2026-05-04): $83.29 [DC-Direct Cost Purchases]
 - **Purchase #68514** (2026-05-04): $87.44 [DC-Direct Cost Purchases]
   - $58.29 DC-Direct Cost Purchases
@@ -135,12 +140,4 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 
 ---
 
-### **Indirect Costs (Overhead, Fringe, G&A): $119,950.89**
-**Number of transactions:** 38  
-**Categories:**
-- **IRAD (Internal R&D):** ~$55,600+ (S0 VTOL development, S3 prototype work, general R&D)
-  - Matthew Crabtree IRAD allocations (April/March 2026): $7,740.69
-- **Tariff/Import Duties:** $1,029.36 (allocated to General & Administrative)
-  - PayPal tariff charges (2026-04-30): $228.36
-    - BlueBird Shipment duties (IDIQ): $152.24
-    - BlueBird Shipment duties (Sasquatch): $30.45
+### **Indirect Costs (Overhead, Fringe, G&A): $119,

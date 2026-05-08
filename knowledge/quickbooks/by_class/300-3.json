@@ -1,19 +1,18 @@
 {
   "project_code": "300-3",
   "qbo_class_names": [
-    "[300-3] 2026 IDIQ",
-    "[300] NOAA:[300-3] 2026 IDIQ"
+    "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-05-06",
-    "end": "2026-05-07"
+    "start": "2026-05-07",
+    "end": "2026-05-08"
   },
   "totals": {
     "revenue": 216000.0,
-    "expenses": 601.09,
+    "expenses": 479.8,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 480.88,
-      "Inventory Asset": 120.21
+      "DIRECT COSTS:DC-Direct Cost Purchases": 292.93,
+      "Inventory Asset": 186.87
     }
   },
   "invoices": [
@@ -87,37 +86,32 @@
       ]
     }
   ],
-  "bills": [
+  "bills": [],
+  "purchases": [
     {
-      "type": "Bill",
-      "date": "2026-05-06",
-      "doc_number": "103031641",
-      "total": 901.63,
-      "attributed": 601.09,
-      "vendor": "Aeronet Worldwide",
+      "type": "Purchase",
+      "date": "2026-05-07",
+      "doc_number": "1288885721",
+      "total": 785.88,
+      "attributed": 479.8,
+      "vendor": "",
       "customer": "",
-      "balance": 0.0,
-      "memo": "",
+      "balance": null,
+      "memo": "Inventory Asset is for future sales of S3",
       "lines": [
         {
-          "amount": 601.09,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": "Shiping products from Paramount Tube to Northwind Composites for S0 projects"
+          "amount": 479.8,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head x 4"
         },
         {
-          "amount": 120.22,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": ""
-        },
-        {
-          "amount": 180.32,
+          "amount": 306.08,
           "account": "Inventory Asset",
-          "description": ""
+          "description": "Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head x 2"
         }
       ]
     }
   ],
-  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

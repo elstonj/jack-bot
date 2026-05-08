@@ -13,7 +13,7 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Time-Off Management Centralization** (March 2024): Requires advance notice via Rippling; one day needs one business day notice, multi-day requires one week advance approval
 - **IT Security Policy** (March 2024): No BST data on personal computers except cleared/assigned laptops; password manager required for all passwords; specific approved cloud software list
 - **DoD S0-AD Customer Engagement** (April 27, 2026): Two DoD groups (SOCOM and 53rd Weather Squadron) visiting Friday for full-day working discussion to define mission requirements and S0 modifications needed. 7 customer reps and 2 KrateoSky Business Dev reps attending. Coffee/bagels and hardware displays planned; no banners.
-- **April 30, 2026 Preparation for Customer Presentation**: Aircraft setup required in shop before 9am on May 1, 2026 for display purposes (continuation of DoD S0-AD engagement follow-up).
+- **May 1, 2026 DoD Customer Presentation Preparation**: Aircraft setup required in shop before 9am on May 1, 2026 for display purposes (continuation of DoD S0-AD engagement follow-up).
 - **Outside Door Lock Issue** (May 1, 2026): Outside door lock malfunctioning (warps when hot); inside door should be locked as backup when leaving. Joshua Fromm provided fix: push down on mechanism.
 - **Daycare in Loft** (May 5, 2026): BVSD and DPS school closures due to snow; Jack Elston arranged daycare in the loft with Claire present for employees with children.
 
@@ -72,5 +72,3 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - Battery specifications: weight 1.3kg, max power 900W, nominal 250W
 - NDVI analysis results presented by Jack Elston with high-resolution camera calculations
 - Missing S2 during shipment to deployment found in FedEx overgood facility Florida (March 24, 2025); recovered and delivered via UPS by March 25
-
-##

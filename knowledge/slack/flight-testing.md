@@ -4,9 +4,9 @@
 
 The #flight-testing channel serves as Black Swift Technologies' primary hub for coordinating flight test operations, troubleshooting aircraft and payload issues, and tracking firmware/software development across their fleet of fixed-wing (S-series), multirotor (E2, Flamewheel), and VTOL (S0, S1-VTOL, S3) platforms.
 
-**Key Participants:** Maciej (lead flight testing/analysis), Jack Elston (firmware development), Joshua Fromm (QA/component sourcing), Ben Busby (tablet/GCS software), Nate (videography/pilot), Alex Lomis (field operations/media/pilot), Sam Hild (Remote ID integration/test pilot), Dan Prendergast (autopilot/control systems/operations), Danny Troke (data management), Ethan Domagala (pilot), Beck Cotter (operations support), Paige Smith (media/video curation), Sunny Slope Sod Farm (external airspace contact), Chris & Kevin (external clients/stakeholders), Christoph & Angie (internal stakeholders)
+**Key Participants:** Maciej (lead flight testing/analysis), Jack Elston (firmware development), Joshua Fromm (QA/component sourcing), Ben Busby (tablet/GCS software), Nate (videography/pilot), Alex Lomis (field operations/media/pilot), Sam Hild (Remote ID integration/test pilot), Dan Prendergast (autopilot/control systems/operations), Danny Troke (data management), Ethan Domagala (pilot), Beck Cotter (operations support), Paige Smith (media/video curation), Sunny Slope Sod Farm (external airspace contact), Chris & Kevin (external clients/stakeholders), Christoph & Angie (internal stakeholders), Dan H. (external contact/AUVSI show)
 
-**Activity Level:** Extremely high — 5,600+ messages across June 2020 through May 2026. Daily operations with multiple aircraft flights, rapid issue turnaround, continuous firmware iterations, and intensive VTOL transition testing. Current activity (May 2026) shows ongoing S10022 and S1-22 flight testing with Remote ID diagnostics and S3-MASS tuning continuation planned.
+**Activity Level:** Extremely high — 5,600+ messages across June 2020 through May 2026. Daily operations with multiple aircraft flights, rapid issue turnaround, continuous firmware iterations, and intensive VTOL transition testing. Current activity (May 2026) shows ongoing S10022 and S1-22 flight testing with Remote ID diagnostics, S3-MASS tuning continuation, and IRISS project missions planned.
 
 ---
 
@@ -31,6 +31,7 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 - **April 30, 2026:** S1-22 pitch fix flight testing approved; takeoff pitch trim adjusted to 5 and 10 degrees for evaluation; Remote ID (RID) update scheduled for S3-MASS testing pending firmware readiness
 - **May 1, 2026:** S10022 flight completed successfully with identified vibration on hover and RID baud rate issue requiring investigation and correction
 - **May 4, 2026:** S1-22 flight testing contingent on wind conditions; winds dropped below 10 mph, Alex Lomis confirmed available for operations; Remote ID warnings identified in both flight and ground modes during recent testing — Sam Hild deprioritized RID fix vs. S0-VTOL work but committed to investigating
+- **May 7, 2026:** S3-MASS flight testing scheduled for May 8, 2026 with 9am departure; favorable weather forecasted (small rain chance at 3pm); Maciej leading with S3 to be transported in RAV; video documentation requested with Mavic drone
 
 ### Firmware & Code Management
 - **October 2020:** Angle-to-rate loop gains critical safety parameter — develop (8,8,3) vs. master (4,4,1.5) discrepancy required close monitoring
@@ -51,6 +52,4 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 - **April 27, 2026:**
   - No firmware updates required for S10022 or S3-MASS over weekend (Jack Elston confirmed motor_out_yaw branch not relevant to VTOL testing)
   - Joshua Fromm set S1-22 motor volts limit starting voltage to 0V (no other settings changed)
-- **April 29, 2026:** E-MASS external controller team developing new controller binary; delivery expected around noon with simulation testing required before E2 flight testing in afternoon
-- **April 30, 2026:** 
-  - Sam Hild identified Remote ID (RID) firmware issue requiring minor autopilot change; Jack Elston implemented fix and deployed to develop branch within minutes (pushed with additional ADS-B transmission checks)
+- **April 29, 

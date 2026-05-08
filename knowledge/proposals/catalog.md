@@ -2,70 +2,80 @@
 
 ## By Product/System
 
+### SwiftCore Flight Management System
+- **Autonomy Phase II Proposal – DRAFT** | NASA ARMD | April 2026 | Phase II SBIR proposal for autonomous flight management capabilities (autonomy_phase_ii-proposal-draft.md)
+
 ### S3 UAS
-- **Phase 2 Sections for BST** – NASA (PrecisionTerra), 2026-03-24 to 2026-04-03 – Phase 2 work plan for S3 UAS subcontract with NASA (phase_2_sections_for_bstdocx.md)
+- **Phase 2 Sections for BST** | NASA (via PrecisionTerra) | March–April 2026 | Phase 2 work plan for S3 UAS research and development subcontract (phase_2_sections_for_bstdocx.md)
 
 ### E2 UAS
-- **Phase 2 Sections for BST** – NASA (PrecisionTerra), 2026-03-24 to 2026-04-03 – Phase 2 work plan referencing E2 UAS platform (phase_2_sections_for_bstdocx.md)
+- **Phase 2 Sections for BST** | NASA (via PrecisionTerra) | March–April 2026 | Phase 2 work plan including E2 UAS development activities (phase_2_sections_for_bstdocx.md)
 
 ### S2 UAS
-- **Phase 2 Sections for BST** – NASA (PrecisionTerra), 2026-03-24 to 2026-04-03 – Phase 2 work plan referencing S2 UAS predecessor system (phase_2_sections_for_bstdocx.md)
+- **Phase 2 Sections for BST** | NASA (via PrecisionTerra) | March–April 2026 | Phase 2 work plan referencing S2 UAS as predecessor platform (phase_2_sections_for_bstdocx.md)
 
-### SwiftCore Flight Management System
-- **Autonomy Phase II Proposal – DRAFT** – NASA ARMD, April 2026 – NASA Phase II SBIR proposal for autonomous flight management capabilities (autonomy_phase_ii-proposal-draft.md)
+### Flight Control Systems & Multi-Vehicle Autonomy
+- **Capital Commitments Letter – Krateo Sky** | NASA SBIR | May 2026 | Krateo Sky commitment letter for flight control systems and multi-vehicle coordination autonomy work (capital_commitments_ks_draft.md)
 
 ---
 
 ## By Client/Agency
 
 ### NASA
-- **Phase 2 Sections for BST** – PrecisionTerra Prime, 2026-03-24 to 2026-04-03 – Phase 2 subcontract work plan for S3/E2/S2 UAS systems (phase_2_sections_for_bstdocx.md)
-- **Autonomy Phase II Proposal – DRAFT** – NASA ARMD (Convergent Aeronautics Solutions), April 2026 – Phase II SBIR proposal for SwiftCore autonomy enhancements (autonomy_phase_ii-proposal-draft.md)
+- **Autonomy Phase II Proposal – DRAFT** | ARMD/Convergent Aeronautics Solutions | April 2026 | Phase II SBIR autonomy proposal with SwiftCore focus (autonomy_phase_ii-proposal-draft.md)
+- **NASA AERO.7 Phase I** | SBIR Program | May 2026 | Phase I technical proposal template for subtopic AERO.7.S26B (nasa_aero7_phase_i.md)
+- **Phase 2 Sections for BST** | Via PrecisionTerra (prime contractor) | March–April 2026 | Phase 2 subcontract work plan for UAS development (phase_2_sections_for_bstdocx.md)
+- **Budget Justification** | Via PrecisionTerra (prime contractor) | February 2026 | Subcontract budget narrative and justification (budget_justification.md)
 
-### U.S. Navy / Office of Naval Research (ONR)
-- **Navy STTR Phase I Proposal Planning Document** – ONR, 2024-12-10 to 2025-01-09 – Internal strategy planning for expendable air-sea profiling in hazardous weather (Topic N25A-T025) (planning_doc.md)
-- **Progress Report Template 2-1-24** – Navy STTR, 2026-05-06 – Blank SBIR/STTR progress report template for Navy Hazardous Weather program (Progress_Report_Template_2-1-24.md)
-
-### Department of the Navy (DON) - General
-- **Phase I Final Report Instructions - CLIN 0007** – DON, 2023-01-27 (document created 2026-05-06) – Standard template and instructions for Navy SBIR/STTR Phase I final reporting (Phase_I_Final_Report_Instructions_CLIN0007.md)
+### NASA SBIR/STTR Program
+- **Capital Commitments Letter – Krateo Sky** | Krateo Sky partner commitment | May 2026 | Non-binding letter of capital support for Phase II autonomy work (capital_commitments_ks_draft.md)
 
 ---
 
 ## By Application Area
 
-### Hazardous Weather Operations
-- **Navy STTR Phase I Proposal Planning Document** – ONR, 2024-12-10 to 2025-01-09 – Expendable air-sea profiling observation systems for hazardous weather conditions (planning_doc.md)
-- **Progress Report Template 2-1-24** – Navy STTR, 2026-05-06 – Progress reporting template for Navy Hazardous Weather Phase I program (Progress_Report_Template_2-1-24.md)
-
 ### Autonomous Flight Operations
-- **Autonomy Phase II Proposal – DRAFT** – NASA ARMD, April 2026 – SwiftCore Flight Management System Phase II development for autonomous aircraft operations (autonomy_phase_ii-proposal-draft.md)
+- **Autonomy Phase II Proposal – DRAFT** | NASA ARMD | April 2026 | SwiftCore FMS for autonomous vehicle operations and convergent aeronautics (autonomy_phase_ii-proposal-draft.md)
+- **Capital Commitments Letter – Krateo Sky** | NASA SBIR | May 2026 | Multi-vehicle coordination and machine learning integration for autonomy (capital_commitments_ks_draft.md)
 
-### Multi-Platform UAS Research
-- **Phase 2 Sections for BST** – NASA (PrecisionTerra), 2026-03-24 to 2026-04-03 – Phase 2 research and development across S2/S3/E2 UAS platforms (phase_2_sections_for_bstdocx.md)
+### UAS Research & Development
+- **Phase 2 Sections for BST** | NASA (via PrecisionTerra) | March–April 2026 | Phase 2 development plan for S2, E2, and S3 platforms (phase_2_sections_for_bstdocx.md)
+
+### Aeronautics Technology
+- **NASA AERO.7 Phase I** | NASA SBIR | May 2026 | Phase I proposal for aeronautics research subtopic (nasa_aero7_phase_i.md)
 
 ---
 
 ## By Document Type
 
-### Proposals
-- **Phase 2 Sections for BST** – NASA (PrecisionTerra), 2026-03-24 to 2026-04-03 – Phase 2 proposal sections for NASA subcontract (phase_2_sections_for_bstdocx.md)
-- **Autonomy Phase II Proposal – DRAFT** – NASA ARMD, April 2026 – NASA Phase II SBIR proposal draft (autonomy_phase_ii-proposal-draft.md)
+### Proposals (SBIR Phase I & II)
+- **Autonomy Phase II Proposal – DRAFT** | NASA ARMD | April 2026 | Phase II SBIR proposal (DRAFT status) (autonomy_phase_ii-proposal-draft.md)
+- **NASA AERO.7 Phase I** | NASA SBIR | May 2026 | Phase I proposal template/draft (nasa_aero7_phase_i.md)
 
-### Planning & Strategy Documents
-- **Navy STTR Phase I Proposal Planning Document** – ONR, 2024-12-10 to 2025-01-09 – Internal pre-proposal strategy and planning for Navy STTR submission (planning_doc.md)
+### Work Plans & Subcontract Sections
+- **Phase 2 Sections for BST** | NASA (via PrecisionTerra) | March–April 2026 | Phase 2 work plan and technical sections for subcontract (phase_2_sections_for_bstdocx.md)
 
-### Templates & Instructions
-- **Phase I Final Report Instructions - CLIN 0007** – DON, 2023-01-27 (updated 2026-05-06) – Standard template and instructions for Navy SBIR/STTR Phase I final reports (Phase_I_Final_Report_Instructions_CLIN0007.md)
-- **Progress Report Template 2-1-24** – Navy STTR, 2026-05-06 – Blank progress report template for Navy STTR programs (Progress_Report_Template_2-1-24.md)
+### Budget & Financial Documents
+- **Budget Justification** | NASA (via PrecisionTerra) | February 2026 | Subcontract budget narrative (budget_justification.md)
+- **Capital Commitments Letter – Krateo Sky** | Krateo Sky/NASA SBIR | May 2026 | Letter of capital commitment from industry partner (capital_commitments_ks_draft.md)
 
 ---
 
-## Document Summary Matrix
+## By Status
 
-| Document | Client | Type | Date | Key System | Status |
-|----------|--------|------|------|-----------|--------|
-| Phase 2 Sections for BST | NASA | Proposal | 2026-03-24 | S2/S3/E2 UAS | Active |
-| Navy STTR Phase I Planning | ONR | Planning | 2024-12-10 | (Air-sea profiling) | Pre-proposal |
-| Autonomy Phase II Proposal | NASA ARMD | Proposal | April 2026 | SwiftCore | DRAFT |
-| Phase I Final Report Instructions | DON | Template | 2023-01-27 | General | Active |
-| Progress Report Template 2-1-24 | Navy STTR | Template | 2026-05-06 | General | Active |
+### Draft / In Progress
+- Autonomy Phase II Proposal – DRAFT
+- NASA AERO.7 Phase I (template/draft)
+- Capital Commitments Letter – Krateo Sky (draft)
+- Phase 2 Sections for BST (in development)
+
+### Completed
+- Budget Justification (finalized February 2026)
+
+---
+
+## Quick Reference by Key Personnel
+
+- **Beck Cotter:** Autonomy Phase II Proposal – DRAFT, NASA AERO.7 Phase I, Capital Commitments Letter – Krateo Sky, Budget Justification
+- **Daniel Prendergast:** Phase 2 Sections for BST
+- **Maithreyi Gopalakrishnan, Dmitriy Zusin, Surendra Makam:** Phase 2 Sections for BST (contributors)

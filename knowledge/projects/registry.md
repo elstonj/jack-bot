@@ -1,16 +1,16 @@
 # BST Project Registry
 
 Master index of all active projects with cross-system links.
-_Generated from Asana project overviews. 46 active projects._
+_Generated from Asana project overviews. 47 active projects._
 
 | Code | Project | Customer | Budget | Slack | Financial |
 |------|---------|----------|--------|-------|-----------|
 | 001_01 | General IRAD | — | — | — | Yes |
-| 001_02 | E2 IRAD & Fleet Maintenance | — | — | — | Yes |
-| 001_03 | S0 IRAD & Fleet Maintenance | — | — | — | Yes |
+| 001_02 | E2 IRAD | — | — | — | Yes |
+| 001_03 | S0-AD IRAD | — | — | — | Yes |
 | 001_04 | S0 VTOL IRAD | — | — | — | Yes |
-| 001_05 | S1 IRAD & Fleet Maintenance | — | — | — | Yes |
-| 001_06 | S2 IRAD & Fleet Maintenance | — | — | — | Yes |
+| 001_05 | S1 IRAD | — | — | — | Yes |
+| 001_06 | S2 IRAD | — | — | — | Yes |
 | 001_07 | S3 IRAD | — | — | — | Yes |
 | 001_09 | SwiftCore 4.0 | — | — | — | Yes |
 | 001_10 | SwiftCore 3.2 | — | — | — | Yes |
@@ -28,6 +28,8 @@ _Generated from Asana project overviews. 46 active projects._
 | 001_14 | SwiftCore 3.3 | — | — | — | Yes |
 | 001_16 | SwiftStation IRAD | — | — | — | Yes |
 | 001_20 | SMM IRAD | — | — | — | Yes |
+| 001_22 | Fleet Maintenance | — | — | — | Yes |
+| 001_23 | SOCOM S0-AD | — | — | — | Yes |
 | 005_1 | BARBADOS VTOL S0 and Training | Barbados Meteorological S | $22,337 | — | — |
 | 012_2 | ERAU VTOL S0 | Embry-Riddle Aeronautical | $20,805.39 | — | — |
 | 018_1 | Murphy's Pond CH4 Monitoring | Murray State | $86,862.94 | #sbir-volcano | Yes |
@@ -50,7 +52,6 @@ _Generated from Asana project overviews. 46 active projects._
 | — | Contacts | — | — | — | — |
 | — | View: Shop Pipeline | — | — | — | — |
 | — | View: Operator Training / Flights | — | — | — | — |
-| — | SOCOM S0-AD | — | — | — | — |
 
 ## Channel → Project Lookup
 

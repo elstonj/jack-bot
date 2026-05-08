@@ -1,118 +1,170 @@
 # Federal Projects — Shared Drive
 
 ## Overview
-- **Total files:** 15 | **Folders:** 1
+- **Total files:** 9 | **Folders:** 0
 - **Date range:** 2022-02-07 (created) → 2099-01-24 (modified)
-- **Primary purpose:** Storage of federal grant proposals, RFIs, reports, and related correspondence for NASA, DOE, NOAA, and DoD opportunities. Includes budget tracking, proposal development materials, and flight test data collection.
+- **Primary purpose:** Storage of federal grant proposals, RFIs, reports, budgets, and related correspondence for NASA, DOE, NOAA, and DoD opportunities. Includes budget tracking, proposal development materials, and flight test documentation.
 
 ## Folder Structure
-- **Root level:** 7 files (proposals, templates, presentations, videos)
-- **Data/** — 8 files (NetCDF flight test data files, time-stamped from April 2026)
+- **Root level only:** 9 files (no subdirectories in current snapshot)
+  - **Note:** Previous structure included `/Data/` folder with 8 NetCDF flight test files. These are not present in current raw data; verify if archived, moved, or pruned.
 
 ## Key Documents by Category
 
 ### Proposals & RFPs (1 file)
 | Document | Path | Last Modified | Editor |
 |-----------|------|---------------|--------|
-| Autonomy Phase II-proposal-DRAFT | /Autonomy Phase II-proposal-DRAFT | 2026-05-06 | Beck Cotter |
+| Autonomy Phase II-proposal-DRAFT | /Autonomy Phase II-proposal-DRAFT | 2026-05-07 | Beck Cotter |
 
-### Reports & Analysis (2 files)
+### Financial (3 files)
 | Document | Path | Last Modified | Editor |
 |-----------|------|---------------|--------|
-| Phase_I_Final_Report_Instructions_CLIN0007 | /Phase_I_Final_Report_Instructions_CLIN0007 | 2026-05-06 | Beck Cotter |
-| Progress_Report_Template_2-1-24 | /Progress_Report_Template_2-1-24 | 2026-05-06 | Beck Cotter |
+| NASA A2.02 Autonomy Phase II budget | /NASA A2.02 Autonomy Phase II budget | 2026-05-07 | Beck Cotter |
+| PrecisionTerra budget .xlsx | /PrecisionTerra budget .xlsx | 2026-05-07 | Beck Cotter |
+| Budget Justification | /Budget Justification | 2026-05-07 | Beck Cotter |
 
 ### Documents & Drafts (2 files)
 | Document | Path | Last Modified | Editor |
 |-----------|------|---------------|--------|
-| Phase 2 Sections for BST.docx | /Phase 2 Sections for BST.docx | 2026-05-06 | Daniel Prendergast |
-| Planning doc | /Planning doc | 2026-05-06 | Daniel Prendergast |
+| NASA AERO.7 Phase I | /NASA AERO.7 Phase I | 2026-05-07 | Beck Cotter |
+| Capital Commitments KS draft | /Capital Commitments KS draft | 2026-05-07 | Beck Cotter |
 
-### Media (2 files)
+### Other (3 files)
 | Document | Path | Last Modified | Editor |
 |-----------|------|---------------|--------|
+| Phase 2 Sections for BST.docx | /Phase 2 Sections for BST.docx | 2026-05-07 | Beck Cotter |
 | RC_VID_0009.MOV | /RC_VID_0009.MOV | 2099-01-24 | Jack Elston |
 | RC_VID_0008.MOV | /RC_VID_0008.MOV | 2099-01-24 | Jack Elston |
 
-### Flight Test Data (8 files)
-| Document | Path | Last Modified | Editor |
-|-----------|------|---------------|--------|
-| D20260409_164309QC.nc | /Data/D20260409_164309QC.nc | 2026-05-06 | Joshua Wadler |
-| D20260409_164316QC.nc | /Data/D20260409_164316QC.nc | 2026-05-06 | Joshua Wadler |
-| D20260409_141143QC.nc | /Data/D20260409_141143QC.nc | 2026-05-06 | Joshua Wadler |
-| D20260409_152056QC.nc | /Data/D20260409_152056QC.nc | 2026-05-06 | Joshua Wadler |
-| D20260407_181504QC.nc | /Data/D20260407_181504QC.nc | 2026-05-06 | Joshua Wadler |
-| D20260407_181445QC.nc | /Data/D20260407_181445QC.nc | 2026-05-06 | Joshua Wadler |
-| D20260407_170314QC.nc | /Data/D20260407_170314QC.nc | 2026-05-06 | Joshua Wadler |
-| D20260407_170320QC.nc | /Data/D20260407_170320QC.nc | 2026-05-06 | Joshua Wadler |
-
-**Note:** NetCDF files are quality-controlled (.QC) flight test data from autonomous aircraft operations (April 7–9, 2026). Timestamps in filename format YYYYMMDD_HHMMSS indicate multiple test runs per day.
+**Note:** Video files retain anomalous 2099-01-24 timestamp (metadata error).
 
 ## Recent Activity Patterns
-- **Most active editor:** Joshua Wadler (8 files, 100% flight test data) — owns data acquisition and QC pipeline
-- **Secondary contributors:**
-  - Beck Cotter (3 files) — proposal drafting and report template management; reduced activity from previous cycle
-  - Daniel Prendergast (2 files) — Phase 2 proposal sections and planning documentation
-  - Jack Elston (2 files, video media with timestamp errors)
-- **Activity concentration:** All substantive edits clustered on **2026-05-06** (proposal finalization, template updates, data processing). Video files show persistent metadata error (2099-01-24 timestamp).
-- **Notable shift:** Introduction of **flight test data directory** indicates transition from proposal/planning phase to **active platform testing and validation**. Data processing (QC flagging) suggests mission readiness activities supporting Phase II proposal claims.
+- **Most active editor:** Beck Cotter (7 files, 78% of activity) — owns proposal drafting, budget development, and phase planning; significantly increased focus on financials
+- **Secondary contributor:** Jack Elston (2 files) — video media ownership; unchanged from prior cycle
+- **Activity concentration:** All substantive document edits clustered on **2026-05-07** (one day after prior cycle's 2026-05-06), suggesting continued proposal finalization and budget refinement sprint
+- **Notable shift:** 
+  - **Flight test `/Data/` folder has been removed** from root-level view; 8 NetCDF files and associated directory no longer appear in current snapshot. **Action required:** Determine if moved to separate archive, reassigned to another drive, or intentionally pruned.
+  - **New financial focus:** Introduction of three budget files (NASA A2.02, PrecisionTerra, Justification) indicates **cost proposal development phase**; suggests NASA Autonomy Phase II proposal approaching submission deadline
+  - **New program entry:** "NASA AERO.7 Phase I" document indicates potential parallel opportunity or early-phase portfolio expansion beyond existing Autonomy track
 
 ## Client/Project Document Mapping
 
 ### NASA Autonomy Program (Phase II SBIR/STTR)
-- **Autonomy Phase II-proposal-DRAFT** — active proposal in development
-- **Phase 2 Sections for BST.docx** — section drafts (updated by Daniel Prendergast 2026-05-06; originally from Precision Terra contributor)
-- **Planning doc** — associated planning materials
-- **Progress_Report_Template_2-1-24** — template for Phase II progress reporting
-- **Phase_I_Final_Report_Instructions_CLIN0007** — instructions for Phase I closeout/transition reporting
-- **Flight test data (Data/ folder)** — autonomous aircraft platform validation data likely supporting Phase II technical proposal and demonstrating TRL advancement
+- **Autonomy Phase II-proposal-DRAFT** — active proposal in development (updated 2026-05-07)
+- **Phase 2 Sections for BST.docx** — modular proposal sections (updated 2026-05-07)
+- **NASA A2.02 Autonomy Phase II budget** — Phase II cost proposal and budget spreadsheet
+- **Budget Justification** — narrative justification for Phase II budget line items
+- **Flight test data** — *previously located in `/Data/` folder; currently missing from drive snapshot; verify archival status*
 
-### AFRL/SBIR Program
-- **Phase_I_Final_Report_Instructions_CLIN0007** — may relate to prior AFRL Phase I (AFX22.4) completion and Phase II transition
+### NASA AERO.7 Program (Phase I - New or Emerging)
+- **NASA AERO.7 Phase I** — Phase I proposal or planning document (newly visible, updated 2026-05-07)
+- **Capital Commitments KS draft** — may relate to facilities/infrastructure commitments for AERO.7 or other programs
 
-### Cross-Cutting Federal Programs
-- **Master Proposal Tracking** — *not present in this dataset; verify in drive root or archived*
-- Documents suggest ongoing NASA Autonomy focus with potential parallel DOE, NOAA, or DoD activities not reflected in current drive snapshot
+### PrecisionTerra (Subcontractor/Partner)
+- **PrecisionTerra budget .xlsx** — budget allocation or cost share for subcontractor involvement
+- **Phase 2 Sections for BST.docx** — noted in prior cycle as containing Precision Terra contributor input; continues to reflect multi-party proposal development
 
-### Flight Test Campaign (April 2026)
-- **Data/** directory contains 8 quality-controlled telemetry files from April 7–9, 2026
-- Timestamps suggest 2–4 test flights per day across two days
-- **Associated media:** RC_VID_0008/0009.MOV may be video documentation of flight tests (dates to be verified)
-- **Purpose:** Platform validation for atmospheric monitoring/autonomy capabilities; likely generates claims and validation data for Phase II proposal
+### AFRL/DOE/NOAA Programs
+- No active documents currently visible; verify if proposals under development in other drives or archived
+
+### Flight Test Campaign (Status TBD)
+- **RC_VID_0008.MOV, RC_VID_0009.MOV** — video documentation of autonomous platform testing
+- **Associated flight test data** — previously stored in `/Data/` (8 NetCDF files from April 7–9, 2026); **current location unknown**
 
 ## Important Templates & Shared Resources
 
-### Reporting & Compliance
-- **Progress_Report_Template_2-1-24** — standardized template for NASA SBIR Phase II progress reporting; reusable across grant cycles
-- **Phase_I_Final_Report_Instructions_CLIN0007** — instruction set for final Phase I closeout; ensures compliance with NASA/AFRL contract requirements
+### Budget Development
+- **NASA A2.02 Autonomy Phase II budget** — standardized budget spreadsheet for NASA SBIR Phase II submissions; likely reusable template for future federal proposals
+- **Budget Justification** — narrative template supporting cost proposals
 
-### Proposal Development
-- **Phase 2 Sections for BST.docx** — modular Phase II proposal sections; enables rapid proposal adaptation and subcontractor/team collaboration
+### Proposal Sections
+- **Phase 2 Sections for BST.docx** — modular proposal sections enabling rapid assembly and multi-author collaboration across BST and subcontractor teams
 
-### Data Management
-- **Data/** folder structure with NetCDF QC files — suggests formalized data pipeline (acquisition → quality control → archive) supporting both research and proposal validation
+### Financial Planning
+- **PrecisionTerra budget .xlsx** — subcontractor/partner cost allocation template
 
 ## Outstanding Issues & Recommendations
 
-1. **Video timestamp errors:** RC_VID_0008/0009.MOV retain 2099-01-24 timestamps. Correct metadata and clarify relationship to April 2026 flight tests.
+### **CRITICAL: Data Archival/Loss**
+1. **Flight test `/Data/` folder has disappeared** from current drive snapshot. The prior knowledge file documented 8 NetCDF files (D20260407_*.nc, D20260409_*.nc) as critical validation data for Phase II proposal claims.
+   - **Action:** Immediately verify whether:
+     - Data was moved to a separate "Flight Data" or "Testing" drive
+     - Data was archived in Google Vault or organizational archive
+     - Data was deleted intentionally (if so, document justification)
+     - Sync/export error in raw data pull
+   - **Impact:** If lost, re-obtain from Joshua Wadler (prior editor) or regenerate from source platforms
 
-2. **Data organization improvement:** Flight test data in `/Data/` lacks metadata, README, or context documentation. Recommend adding:
-   - Data dictionary/README describing NetCDF variable structure
-   - Flight log or test plan cross-reference
-   - Sensor configuration and calibration notes
-   - Data provenance (platform, mission ID, conditions)
+2. **Video timestamp errors persist:** RC_VID_0008/0009.MOV retain anomalous 2099-01-24 metadata. Confirm:
+   - Actual date/time of recording (likely April 2026 to align with flight test data)
+   - Relationship to flight test campaign
+   - Whether videos should be co-located with flight data or retained at root level
 
-3. **Proposal tracking gap:** Previous knowledge file referenced **Master Proposal Tracking** document. Verify current location — if removed, rebuild centralized NASA/DOE/NOAA pipeline tracker to prevent proposal schedule conflicts or overlapping resource demands.
+### **Portfolio & Program Expansion**
+3. **NASA AERO.7 Phase I emergence:** New program document indicates proposal pipeline expansion. Clarify:
+   - Is AERO.7 in preparation for Phase I submission, or Phase I active with Phase II planning underway?
+   - Resource allocation between Autonomy Phase II (active) and AERO.7 (new)?
+   - Budget relationship between programs (overlap, separate budgets, shared infrastructure)?
 
-4. **Reduced Beck Cotter activity:** Shift from 6→3 files edited suggests potential delegation or resource reallocation. Confirm proposal management ownership and review timelines for Autonomy Phase II draft maturity.
+4. **Capital Commitments KS draft:** Unclear whether this relates to facilities for AERO.7, Autonomy Phase II, or shared infrastructure. Recommend:
+   - Add explicit program tag to filename (e.g., "Capital Commitments KS draft - AERO.7")
+   - Clarify scope (land, facilities, equipment, personnel commitments)
 
-5. **New investigator:** Joshua Wadler emergence as primary editor (flight data) indicates team expansion or specialized role assignment in data acquisition. Document his responsibilities and access controls.
+### **Organization & Documentation**
+5. **Root-level flatness increases clutter:** As proposal portfolio grows (Autonomy Phase II + AERO.7 + subcontractor budgets), recommend immediate restructuring:
+   ```
+   /NASA_Autonomy_Phase2/
+     - Autonomy Phase II-proposal-DRAFT
+     - Phase 2 Sections for BST.docx
+     - NASA A2.02 Autonomy Phase II budget
+     - Budget Justification
+     - [Flight test data - pending recovery]
+   
+   /NASA_AERO7_Phase1/
+     - NASA AERO.7 Phase I
+     - Capital Commitments KS draft
+   
+   /Subcontractors/
+     - PrecisionTerra budget .xlsx
+   
+   /Media/
+     - RC_VID_0008.MOV
+     - RC_VID_0009.MOV
+   
+   /Archive/
+     - [Prior cycle documents, RFIs, closed proposals]
+   ```
 
-6. **Archive/cleanup needed:** Verify whether previous 24-file dataset (including RFI documents, budgets, NOAA materials) was intentionally pruned or resides elsewhere in drive. If archived, establish clear versioning and retrieval procedures.
+6. **Missing documentation from prior cycle:** Previous knowledge file referenced:
+   - Progress_Report_Template_2-1-24
+   - Phase_I_Final_Report_Instructions_CLIN0007
+   - Planning doc
+   
+   These are no longer visible in raw data. If intentionally archived, document location. If deleted, confirm they are not needed for active proposals.
 
-7. **Organizational scaling (continued):** Current 15-file structure remains flat. Recommend implementing proposal-year-based hierarchy:
-   - `/FY27/` (NOAA UMS, new RFPs)
-   - `/NASA_Autonomy_Phase2/` (active draft, data, templates)
-   - `/Data/` → consider sub-folders by test date or mission ID
-   - `/Templates/` (consolidate progress reports, final report instructions)
-   - `/Archive/` (RFIs, prior proposals, closed projects)
+7. **Beck Cotter workload concentration:** 7 of 9 files last edited by Beck Cotter (78%) indicates single point of failure for proposal management. Recommend:
+   - Cross-train Daniel Prendergast or other team member on proposal drafting
+   - Establish peer review process for budget documents before submission
+   - Document proposal timeline and milestone ownership
+
+### **Data Governance**
+8. **Flight test data repatriation:** Joshua Wadler (prior primary editor of `/Data/` files) should be contacted to:
+   - Confirm data archival location
+   - Provide data dictionary/README for NetCDF files
+   - Clarify data retention requirements for Phase II proposal validation and reporting
+   - Establish permanent home for test data (consider dedicated "Flight Testing" drive if expanding UAS operations)
+
+### **Upcoming Deadlines (Inferred)**
+- **NASA Autonomy Phase II proposal:** Active draft with budget finalization (2026-05-07 edits suggest imminent submission)
+- **NASA AERO.7 Phase I:** Early-stage planning; capital commitments draft suggests facility/infrastructure decisions needed
+
+---
+
+## Summary of Changes from Prior Knowledge File
+| Item | Prior State | Current State | Interpretation |
+|------|-------------|---------------|-----------------|
+| Total files | 15 | 9 | Net loss of 6 files (primarily flight test data) |
+| Folder structure | Root + `/Data/` subdirectory | Root level only | Data folder removed; archival status unknown |
+| Flight test data | 8 NetCDF files, complete | Missing | **Critical action required** |
+| Financial documents | 0 | 3 (budgets + justification) | Proposal entering cost phase |
+| Program count | 1 (Autonomy Phase II) | 2 (+ AERO.7) | Portfolio expansion |
+| Most active editor | Joshua Wadler (flight data) | Beck Cotter (proposals/budgets) | Shift from testing to proposal finalization phase |

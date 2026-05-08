@@ -1,89 +1,71 @@
 # Meredith O'Hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,302 (1,279 previous + 23 new from May 6–7)
-- **Date range:** March 23 – May 7, 2026 (approximately 6.7 weeks)
-- **Approximate volume:** 25–30 emails per day (mix of sent, received, and automated)
-- **New data period:** May 6–7, 2026 (23 messages; continued compliance/accounting implementation, vendor/parts coordination, tax coordination, internal meeting scheduling, and routine automated notifications)
+- **Total messages scanned:** 1,379 (1,302 previous + 77 new from May 7–8)
+- **Date range:** March 23 – May 8, 2026 (approximately 6.8 weeks)
+- **Approximate volume:** 25–35 emails per day (mix of sent, received, and automated)
+- **New data period:** May 7–8, 2026 (77 messages; major W-9 compliance sweep, vendor payment processing, tax strategy coordination, radio procurement follow-up, and routine automated notifications)
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Jack Elston** (elstonj@blackswifttech.com) — **ONGOING HIGH FREQUENCY:** Operations, contracts, manufacturing, financial matters, Navy/DCAA compliance, tax matters, timesheet certification, project coordination; **New activity (May 6):** BST Internal Update Meeting scheduling (May 7, 1pm–2pm MDT; broadcast to 10+ team members including Meredith); **Tax comments forwarding** (May 6, IMPORTANT/STARRED; FW from external tax counsel)
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Parts quotes, sales orders, vendor coordination, manufacturing timelines; **New activity (May 6):** Foam/assembly leadtime coordination with Foster Hill (MM Solutions); involved in radio quote coordination chain
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — **New activity (May 6):** Internal rates coordination with Claudia Behnke (cc'd on rates email)
-- **Paige Smith** (paige.smith@blackswifttech.com) — **New activity (May 6):** Payment Schedule forwarding (IMPORTANT; indicates cash flow/vendor payment coordination)
+- **Jack Elston** (elstonj@blackswifttech.com) — **CONTINUED HIGH FREQUENCY:** Operations, financial matters, compliance, escalations; **New activity (May 7):** Forwarded Rippling action items (IMPORTANT/STARRED); Invoice escalation from Thinh Nguyen (Accounts Payable); coordinating with Sona Raziabeegum (Krateo Sky) on invoices; Meredith forwarding vendor correspondence to Jack for approval/coordination
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — **New activity (May 7):** CC'd on Foster Hill communications regarding payment approval (SO-42885); continued parts/manufacturing coordination
+- **Maciej Stachura** (purchasing@blackswifttech.com) — **New activity (May 8):** Protolabs invoice/shipping notifications routed to Maciej; indicates Maciej managing procurement/parts pipeline
 
-### Top External Contacts
+### Top External Contacts — **NEW W-9 COMPLIANCE PUSH (HIGH VOLUME)**
 
-**Financial/Tax/Accounting (ACTIVE COORDINATION)**
-- **Claudia Behnke** (chbehnke@mac.com) — **Internal Rates for 2026 RE:** (May 6, IMPORTANT/STARRED; Claudia sent response; cc'd Beck Cotter; indicates ongoing rate review/compensation discussion)
-- **Mark Kightlinger** (Mark@kcotax.com; KCO Tax) — **MIPA Review coordination** (May 6, SENT by Meredith; indicates tax planning/strategy review in progress)
-- **Jack Elston** (forwarded tax comments) — External tax counsel comments forwarded by Jack (May 6, IMPORTANT/STARRED; indicates multi-party tax strategy discussion)
+**W-9 Form Requests — BROAD SWEEP (May 7, 12:37–12:51 PM MDT)**
+Meredith initiated bulk W-9 requests to contractors/consultants (likely triggered by tax/accounting audit or year-end compliance requirement):
+- **Spencer (DSkinetic)** — spencer@dskinetic.com
+- **Ed Kase (E-Kase Consulting)** — ed.kase@ekaseconsulting.com
+- **Lee Skidmore (Rubicon Aerospace)** — lee@rubiconaerospace.com
+- **Lee (Northwind Corp)** — lee@northwindcomp.com
+- **Amy Smith (WW Reynolds)** — amy@wwreynolds.com
+- **Sean Cole (Phase1 Aviation)** — Sean@phase1av.com
+- **Daniel Hesselius (Rocky Mountain High Aviation)** — Rockymountainhighaviation@outlook.com; also daniel.hesselius@colorado.edu (academic affiliation)
+- **Thinh Nguyen (Independent Contractor)** — thinh991@yahoo.com
+- **Ted Miles** — ted59@msn.com
 
-**Compliance/Accounting Implementation (CONTINUED ESCALATION)**
-- **Christy Evans** (cevans@reliascent.com; Reliascent) — **Black Swift Install Kickoff Meeting RE:** (May 6, IMPORTANT; Christy sent follow-up; Meredith responded; Meredith also forwarded meeting details); **Rippling Access granted RE:** (May 6, IMPORTANT; Christy acknowledged receipt; indicates Reliascent integration proceeding)
+**W-9 Responses Received (May 7, afternoon/evening UTC)** — Rapid responses indicate active contractor relationships:
+- **Lee Skidmore** (Rubicon Aerospace) — RE: W-9 form needed for files [IMPORTANT]
+- **Amy Smith** (WW Reynolds) — RE: W-9 Form Request [IMPORTANT, multiple responses]
+- **Lee** (Northwind Corp) — RE: W-9 form needed for files [IMPORTANT]
+- **Ed Kase** (E-Kase Consulting) — RE: Copy of W-9 Needed for files [IMPORTANT]
+- **Daniel Hesselius** (Rocky Mountain High Aviation) — RE: W-9 Form Needed [IMPORTANT, multiple responses]
+- **Dawn Zoldi** (P3 Tech Consulting) — RE: W-9 Form Request [IMPORTANT, multiple rapid responses]
 
-**Vendor/Parts & Logistics (ACTIVE PIPELINE)**
-- **Foster Hill** (fhill@mmsolutions.biz; MM Solutions) — **Ready to pay Quote 00018935 RE:** (May 6, IMPORTANT; Foster Hill responded requesting payment confirmation; Meredith sent approval to pay; indicates active purchase order processing); **Leadtime on foam/assembly RE:** (May 6, IMPORTANT; Foster Hill responded to Joshua Fromm; Joshua coordinated with team; appears to be manufacturing/assembly timeline critical path item)
-- **Jeff Catherwood** (jcatherwood@microhardcorp.com; Microhard Corp) — **Quote for radios RE:** (May 6, IMPORTANT; Jeff responded to Meredith's initial quote request; Alex Lomis also responded; indicates radio/communications equipment procurement in progress)
-- **PHASE1 AVIATION LLC** — **Invoice 1105 processing** (May 6; QB Payments confirmation and payment method saved; indicates aviation services/parts vendor with active invoicing)
-- **Aeronet Worldwide** — **QB Bill Pay processing** (May 6, UNREAD; payment scheduled; indicates ongoing vendor payment)
+**Financial/Tax/Accounting (CONTINUED ESCALATION)**
+- **Mark Kightlinger** (KCO Tax) — **RE: Review of MIPA and Questions (May 7, 20:13 UTC; IMPORTANT)** — Multi-party tax strategy discussion continues; Ryan Sykora (external legal) also participating
+- **Ryan Sykora** (rsykora@kofirm.com; Law Firm) — **RE: Review of MIPA and Questions (May 7, 20:25 UTC; IMPORTANT)** — New external legal counsel identified; appears to be contract/compliance review
+- **Chad Atwood** (chad@theaiginc.com; The AIG Inc) — **Re: Question about Rippling due date (May 7, 10:06 AM MDT; IMPORTANT)** — New contact; Rippling implementation coordination; suggests external HR/payroll consulting
 
-**Administrative/HR Systems**
-- **CDLE FAMLI Alerts** (cdle_famli-alerts@state.co.us; Colorado Department of Labor & Employment) — **My FAMLI+ Employer Profile Changes** (May 7, IMPORTANT/UNREAD; sent to Karen Young (admin@blackswifttech.com); routed to Meredith's inbox; indicates state-level family leave/payroll compliance notifications)
+**Vendor/Parts & Logistics (CONTINUED ACTIVE PIPELINE)**
+- **Foster Hill** (fhill@mmsolutions.biz; MM Solutions) — **RE: Ready to pay Quote 00018935 > SO-42885 (May 7, 16:30–16:51 UTC; IMPORTANT)** — Multiple rapid responses; payment authorization finalized; Joshua Fromm CC'd; critical manufacturing item
+- **Jeff Catherwood** (jcatherwood@microhardcorp.com; Microhard Corp) — **Re: Quote for radios (May 7, 14:28 MDT; SENT)** — Continued radio equipment coordination; Alex Lomis also responding; appears to be moving toward order
 
-**Automated Vendors/Procurement Channels (ROUTINE)**
-- **Harbor Freight** (via Purchasing) — 10 Days of Deals promotional (May 7, forwarded through purchasing@blackswifttech.com; Budget/tool alerts)
-- **eBay** (via Purchasing) — Payments Terms of Use update (May 6; indicates eBay account activity)
-- **QuickBooks Payments** — Payment confirmations and bill pay notifications (May 6; multiple confirmations for vendor payments to Phase1 Aviation, Aeronet Worldwide)
-- **Rippling Support** (support@rippling.com) — Contractor access provisioning (referenced in prior period; now active with Christy Evans access granted)
+**Automated/Shipping Notifications (HIGH VOLUME — May 7–8)**
+- **JawsTec** (info@jawstec.com) — **Possible order delay (May 7, 21:36–21:53 UTC; IMPORTANT, multiple alerts)** — Vendor flagging supply chain delays; indicates critical parts procurement
+- **Speedway Motors** — **Order shipment confirmations (May 7; IMPORTANT)** — Shipping confirmed for parts orders
+- **Protolabs** — **Invoice 100-A000806052 & Order 5345-257 shipping confirmation (May 8, 06:03 & 19:21 UTC)** — Rapid prototyping/manufacturing vendor; active production orders
+- **Amazon.com** — **Shipped: 3x Rotatable Hall Sensor (May 8, 04:50 UTC)** — Electronics components arrival
+- **DHL** — **Shipment Notification 2550810194 (May 8, 16:18 MYT; duplicate alerts)** — International logistics tracking
+- **Allred & Associates Inc / DragonPlate** — **Invoice & Tracking 174005 (May 7)** — Composite materials supplier
+- **B&H Photo** — **Order #1128888572 Confirmed (May 7)** — Electronics/camera equipment procurement
+- **Harbor Freight** — **10 Days of Deals promotional & purchase confirmation (May 8; UNREAD)** — Budget tool/equipment channel
+- **Slack** — **Plan renewal confirmation (May 8, 07:14 UTC)** — Team communications platform active
 
----
+**QuickBooks Bill Pay (ACTIVE PAYMENT PROCESSING)**
+- **Summit Assembly, LLC** — **Processing payment (May 7, 17:06–18:12 UTC; UNREAD, multiple notifications)** — New vendor; assembly/manufacturing services; appears on active payment schedule
+- **Multiple QB Payment Scheduled notifications** — Several bill payments being coordinated through QB (May 7)
 
-## Topic Patterns
+**Administrative/HR/Facilities**
+- **Ty Wisecup** (tywise722@yahoo.com) — **Re: Interest in Career Opportunities with Black Swift (May 7, 16:30 UTC; IMPORTANT)** — Recruitment inquiry; Meredith responded directly; indicates HR/hiring coordination
+- **Amy Smith** (amy@wwreynolds.com) — **REMINDER NOTICE: 2840 Wilderness - Parking Lot Repair May 9-10 (May 7, 15:07 UTC; STARRED/IMPORTANT)** — Broadcast to 10+ recipients; facilities management; BST likely located at 2840 Wilderness address
 
-### Active Projects/Procurement
-- **Radio/Communications Equipment** — Quote for radios from Microhard Corp (Jeff Catherwood); Alex Lomis and Meredith coordinating; appears to be priority item
-- **Foam/Assembly Materials** — Foster Hill/MM Solutions leadtime coordination; appears on critical path for manufacturing
-- **Aviation Services/Parts** — Phase1 Aviation LLC invoice processing; ongoing vendor relationship with active billing
-- **Reliascent/DCAA Compliance Onboarding** — Black Swift Install Kickoff Meeting continued; Rippling access provisioning; active implementation phase
+**Rippling Integration (ONGOING)**
+- **Rippling support** — **Action required: You have pending tasks (May 7, 11:05 UTC; STARRED/IMPORTANT)** — Jack Elston forwarded to Meredith; payroll/HR platform implementation tasks pending
 
-### Tax/Financial Coordination
-- **2026 Internal Rates Review** — Multi-party discussion (Claudia Behnke, Beck Cotter, Meredith)
-- **MIPA Review** — Coordination with Mark Kightlinger (KCO Tax); indicates tax planning/strategy in progress
-- **External Tax Counsel Input** — Jack Elston forwarding tax comments; IMPORTANT/STARRED flagging suggests significant strategy implications
-
-### Vendor Payment/Cash Flow
-- **Payment Schedule coordination** — Paige Smith forwarding payment schedule (IMPORTANT; indicates cash flow management active)
-- **QB Bill Pay processing** — Multiple vendor payments being scheduled/processed (Phase1 Aviation, Aeronet Worldwide, others)
-
----
-
-## Communication Patterns
-
-### Time Patterns
-- **Heavy activity window:** May 6, 2026 (9:57 AM – 4:37 PM MDT; 10+ messages)
-- **Broadcast meeting:** Jack Elston's BST Internal Update Meeting scheduled for May 7, 1pm–2pm MDT; Meredith on attendee list with 9+ other team members
-- **Typical pattern:** Emails cluster around business hours (MDT); quick turnaround responses within same business day
-
-### Message Types
-- **Direct coordination:** Meredith initiates vendor quotes, payment approvals, tax reviews; expects rapid responses
-- **Forwarding/escalation:** Jack Elston forwards critical items (tax comments, meeting updates) to Meredith
-- **Payment processing:** Meredith approves vendor payments; QB notifications routed to her for tracking
-- **Automated/administrative:** Purchasing channel alerts, QB notifications, state compliance alerts routed to admin/Meredith
-
-### Group Communications
-- **BST Internal Update Meeting** (May 7) — Broadcast to 10+ staff; suggests all-hands or department-wide coordination
-- **Purchasing channel emails** — Harbor Freight, eBay, QB routed through purchasing@blackswifttech.com (shared inbox pattern)
-
----
-
-## Key Relationships
-
-### Closest Internal Collaborators
-1. **Jack Elston** — Clear escalation path; Jack forwards critical items (tax, compliance, meetings) directly to Meredith; suggests Meredith is point-of-contact for operational/financial decisions
-2. **Joshua Fromm** — Vendor/parts procurement partner; Joshua manages lead times and quotes; Meredith approves payments
-3. **Christy Evans** (Reliascent) —
+**Sona Raziabeegum** (sona@krat

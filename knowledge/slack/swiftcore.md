@@ -60,6 +60,12 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Decision made by: Maciej (autopilot lead)
 - Implementation by: Ben Busby
 
+**OpenWRT Build Infrastructure (May 7, 2026):**
+- Added comms_utils stub for OpenWRT-specific builds in web controller repository
+- Stub provides binary data reading functions for little-endian integer and float conversions (Uint16, Int16, Uint32, Int32, Uint64, Int64, Float32, Float64)
+- No changes to core web controller repository; stub is isolated to OpenWRT builds only
+- Implementation by: Jack Elston
+
 ## Projects & Initiatives
 
 **SwiftCore 3.2 Release (2021-2022):**
@@ -90,15 +96,16 @@ This channel serves as the primary technical communication hub for Black Swift T
 - **Purpose:** Replace old sensors folder approach with XML-based app configuration
 - **Features:** Payload serial configuration, command interfaces, sensor definitions
 
-**Multi-Radio GCS Support (April 2026):**
+**Multi-Radio GCS Support (April 2026-ongoing):**
 - **Status:** Active development in feature/multi_radio_gcs branch
 - **Objective:** Enable single GCS to manage two UAS simultaneously
 - **Scope:** Requires changes to autopilot, comms_protocol, and web_controller repositories
 - **Challenge:** Legacy codebase not originally designed for multiple connections; addressing issues with per-aircraft addressing and system initialization packets
 - **Team:** Jack Elston (autopilot/comms), Ben Busby (web controller), Maciej and Alex (testing April 8-9, 2026)
 - **Current Issues Resolved:** Transmit command buffer overflow errors, per-aircraft system_init packet routing, redundant multi-device initialization requests
+- **Latest (May 7, 2026):** OpenWRT build infrastructure enhancements with binary utilities stub for proper data format handling
 
-**Web Controller UI Redesign (April 2026):**
+**Web Controller UI Redesign (April 2026-ongoing):**
 - **Status:** Active development with modular layout system in progress
 - **Current Focus:** Replacing legacy tablet-centric UAS window with command-centric interface inspired by RTS game design
 - **Design Goals:** 
@@ -110,15 +117,6 @@ This channel serves as the primary technical communication hub for Black Swift T
 - **Team:** Ben Busby leading design; Maciej suggesting split of web (flight ops focus) vs Android (config/tuning)
 - **Philosophy:** Unified web UI long-term rather than maintaining separate tablet app
 
-**Parameter File Restructuring (April 2026):**
+**Parameter File Restructuring (April 2026-ongoing):**
 - **Status:** Planning phase, not urgent
-- **Objective:** Restructure XML parameter files to map 1:1 with comms packet definitions instead of requiring custom conversion logic
-- **Current Issue:** Param files don't align with packet structure, creating parsing overhead
-- **Approach:** Maintain both old and new file formats temporarily; develop converter utility while transitioning
-- **Decision-makers:** Maciej approved new format approach; Ben Busby investigating implementation
-
-**CAN Deployment Tube Enhancement (April 2026):**
-- **Status:** Active development
-- **Change:** New state added to CAN_DeploymentTubeState_t enum
-- **Comms Update:** Comms protocol version bump required for log parsing compatibility
-- **Next
+- **Objective:** Restructure XML parameter files

@@ -50,4 +50,5 @@ Major milestones (from prior knowledge base, dates superseded):
   - AFAC flight approvals
   - CENAPED ground permissions for national park
   - Flight, radio, shipping, and import permissions (high complexity for Chile/Mexico operations)
+- **Admin Notes**: Working with USGS on Jan/Feb timing — see Maciej for updates
 - **Data Quality Note**: Current raw data snapshot (Nov 22, 2023) shows 1 open task; prior knowledge base documented 20 open tasks. This discrepancy suggests either stale raw data or recent task archival. Recommend verifying current task inventory with Maciej Stachura before making scheduling decisions.

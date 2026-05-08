@@ -4,64 +4,40 @@
     ""
   ],
   "period": {
-    "start": "2026-05-06",
-    "end": "2026-05-07"
+    "start": "2026-05-07",
+    "end": "2026-05-08"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 5680.32,
+    "expenses": 306.08,
     "by_category": {
-      "Inventory Asset": 5536.06,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 144.26
+      "DIRECT COSTS:DC-Direct Cost Purchases": 186.87,
+      "Inventory Asset": 119.21
     }
   },
   "invoices": [],
-  "bills": [
-    {
-      "type": "Bill",
-      "date": "2026-05-06",
-      "doc_number": "103031641",
-      "total": 901.63,
-      "attributed": 180.32,
-      "vendor": "Aeronet Worldwide",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 601.09,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": "Shiping products from Paramount Tube to Northwind Composites for S0 projects"
-        },
-        {
-          "amount": 120.22,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": ""
-        },
-        {
-          "amount": 180.32,
-          "account": "Inventory Asset",
-          "description": ""
-        }
-      ]
-    }
-  ],
+  "bills": [],
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-05-06",
-      "doc_number": "1105",
-      "total": 5500.0,
-      "attributed": 5500.0,
+      "date": "2026-05-07",
+      "doc_number": "1288885721",
+      "total": 785.88,
+      "attributed": 306.08,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "",
+      "memo": "Inventory Asset is for future sales of S3",
       "lines": [
         {
-          "amount": 5500.0,
+          "amount": 479.8,
+          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "description": "Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head x 4"
+        },
+        {
+          "amount": 306.08,
           "account": "Inventory Asset",
-          "description": "Payment for 2 S3 ship sets"
+          "description": "Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head x 2"
         }
       ]
     }

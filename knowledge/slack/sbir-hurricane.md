@@ -48,6 +48,25 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Tripod and mount solution added to 2x display units at ~$200 cost (5 min labor) (April 22, 2026)
 - Delivery deadline: June 5, 2026 for DC event requirement; shipment to AOC or HQ for redistribution (April 22, 2026)
 
+**Display Aircraft Tripod Configuration (May 7, 2026):**
+- All 4 display S0 units approved to include tripods: 2 units shipping end of May + 2 units for early-mid July (May 7, 2026)
+- Jack Elston confirmed all display aircraft should have tripods included (May 7, 2026)
+
+**Ground Control Station Silkscreen Labeling (May 7, 2026):**
+- Radio channel designation decided as "RADIO A / RADIO B" to minimize confusion with other numbering schemes (May 7, 2026)
+- Jack Elston approved RADIO A/B nomenclature over alternatives (RADIO 1/2, CH 1/2, etc.) (May 7, 2026)
+
+**Ground Control Station Design & Procurement (May 7, 2026):**
+- Joshua Fromm to review and modify ground station parts procurement list before finalization (May 7, 2026)
+- RF connector modification implemented for radio compatibility (May 7, 2026)
+- Jack Elston's suggested quantities approved as baseline for testing + 2 upcoming builds with overage on cheap parts (May 7, 2026)
+- Joshua Fromm to provide updated procurement recommendations by May 8, 2026 (May 7, 2026)
+
+**Ground Control Station Operational Handover Planning (May 7, 2026):**
+- Discussion initiated regarding whether GCS units being produced are intended for NOAA operational handover (May 7, 2026)
+- Proposal suggested: duplicate testing station at BST for troubleshooting issues NOAA may encounter with remotely operated stations (May 7, 2026)
+- Status: Under consideration for decision (May 7, 2026)
+
 **Inventory Management (April 23, 2026):**
 - SASCWATCH has one S0 left over from previous season; decision made not to allow NOAA to use it (April 23, 2026)
 - Jack Elston confirmed awareness of leftover aircraft status (April 23, 2026)
@@ -71,29 +90,4 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Secondary delivery: Display S0 units by June 5, 2026 for DC event, with QC/packaging of previously built units by July 1, 2026
 - Early storm contingency: Units to be QC'd and packaged by July 1, 2026 in event of early hurricane season (May 6, 2026)
 - Specifications: 2.6 lbs GTOW, 32.8" wingspan, 22.5 m/s cruise speed, 2+ hour endurance
-- Sensors: Vaisala RSS421 (RS41), MLX90614ESF thermal sensor, 9-hole pressure system, Vaisala RS41 measurement rate ~5Hz (may vary with temperature)
-- Communication: 400MHz licensed band with 150+ nautical mile range demonstrated
-- 2026 Avon Park operations: Dual S0 deployments from P3 aircraft with coordinated multi-UAS capability
-
-**Performance Validation & Impact:**
-- NOAA impact study showing 10% improvement in intensity forecasts (May 6, 2026)
-- More detailed impact study: 5-15% improvement on specific storms, average 5% across dataset (May 6, 2026)
-- S0 UAS data classified as TRL-9 (fully operational) by NOAA personnel (May 6, 2026)
-- Data from 2024-2025 hurricane seasons analyzed for operational impact
-
-**Multi-UAS Operations (April 2026):**
-- Dual-aircraft capability for simultaneous operations with single operator demonstrated
-- GCS infrastructure supporting multiple aircraft from NOAA P3 platform
-- Closest approach between S0s: 70m achieved (April 8, 2026)
-- Range testing: S0-72 tested 80+ mile communication range (April 7, 2026)
-- Coordinated flight operations with 5km x 5km box patterns and precision altitude hold testing
-
-**Hurricane Flight Controllers:**
-- Dan Prendergast developed eyewall tracking algorithms with left/right turn capabilities
-- Inflow controller for spiral trajectory patterns
-- Center fix controller for eye navigation (first successful automated center fix achieved)
-- Controllers tested extensively in X-Plane simulation and live hurricane flights
-- Dual-aircraft operation tested with lost communications handling (battery suppression warnings confirmed as design limitation)
-
-**Ground Control Station (GCS) - Enhanced Capability (May 6, 2026):**
-- New local S0 ground station operational
+- Sensors: Vaisala RSS421 (RS41), MLX90614ESF thermal sensor, 9-hole pressure system, Vaisala RS41

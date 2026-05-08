@@ -1,79 +1,76 @@
 # Slack Channels Overview
 
-Last scanned: 2026-05-07 02:16
+Last scanned: 2026-05-08 02:15
 
-Total channels scanned: 10
+Total channels scanned: 9
 
 ## Channels
 
-- **#2025-nasa-autonomy** -- 2 messages -- [2025-nasa-autonomy.md](2025-nasa-autonomy.md)
-- **#25_1-navy-sbir-magnetometer** -- 16 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#25_1-navy-sttr-boundary-layer** -- 41 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
-- **#general** -- 8 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 8 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#marketing** -- 2 messages -- [marketing.md](marketing.md)
-- **#operations** -- 8 messages -- [operations.md](operations.md)
-- **#s0-vtol** -- 51 messages -- [s0-vtol.md](s0-vtol.md)
-- **#s3** -- 1 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 29 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#25_1-navy-sttr-boundary-layer** -- 3 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
+- **#by-lite-mustang** -- 13 messages -- [by-lite-mustang.md](by-lite-mustang.md)
+- **#flight-testing** -- 5 messages -- [flight-testing.md](flight-testing.md)
+- **#general** -- 1 messages -- [general.md](general.md)
+- **#operations** -- 2 messages -- [operations.md](operations.md)
+- **#s0-vtol** -- 17 messages -- [s0-vtol.md](s0-vtol.md)
+- **#s3** -- 5 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 15 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#swiftcore** -- 1 messages -- [swiftcore.md](swiftcore.md)
 
 ## Strategic Summary
 
 # Black Swift Technologies - Strategic Channel Overview
 
+## Core Business Areas
+
+**Aircraft Development Programs:**
+- **S-Series (Core Platform):** S0 VTOL and S3 VTOL dominate development, with extensive firmware/hardware work in #s0-vtol and #s3
+- **SwiftCore System:** Integrated drone control platform spanning firmware, tablet applications, and flight operations (#swiftcore)
+- **Customer Contracts:** By Light Mustang (Air Force/Yuma testing) represents external revenue work with phased development approach
+
+**Government Funding:**
+- SBIR Hurricane project (#sbir-hurricane) - primary long-term development vehicle for S0 reconnaissance capabilities
+- Navy STTR boundary layer measurement project (#25_1-navy-sttr-boundary-layer) - atmospheric sensing advancement
+- Both leverage S0 platform as testbed
+
+## Key Decision Makers & Roles
+
+| Person | Primary Role |
+|--------|---|
+| Jack Elston | Leadership, systems architecture, firmware oversight |
+| Joshua Fromm | Lead engineer, hardware/shop operations, QA |
+| Maciej | Project management, flight testing coordination, field operations |
+| Dan Prendergast | Business development, operations management |
+| Sam Hild | Firmware development (SwiftCore, S3) |
+| Danny Troke | Multi-project technical work |
+
 ## Cross-Channel Themes
 
-### Active Projects
-**Government-Funded Research (Primary Focus)**
-- **SBIR Hurricane**: S0 UAS for hurricane reconnaissance (longest-running, highly active)
-- **Navy SBIR Magnetometer**: QuSpin magnetometer integration for MAD systems
-- **Navy STTR Boundary Layer**: Atmospheric sensing for tropical cyclones on S0 platform
-- **NASA Autonomy (2025)**: Layered flight control architecture (TRL-5 to TRL-7)
+**Technical Integration:**
+- S0 platform serves dual purpose: core SBIR/Navy project vehicle AND foundation for customer work (Mustang testing framework)
+- SwiftCore firmware deployed across multiple aircraft platforms—single system serving diverse missions
+- Repeated flight test cycles across #s0-vtol, #s3, #flight-testing indicate iterative development methodology
 
-**Core Product Development**
-- **S0 VTOL**: Main platform for most government projects; extensive flight testing and hardware iteration
-- **S3 VTOL**: Next-generation hybrid fixed-wing/quadcopter with 2-3 hour endurance
+**Operational Patterns:**
+- Maciej functions as primary flight test coordinator—bottleneck/hub for field validation across all programs
+- Joshua Fromm manages hardware procurement and shop logistics—centralized supply chain
+- #operations tracks resource allocation; #general announces strategic decisions
 
-### Key People & Roles
+**Recurring Topics:**
+- Firmware bugs and fixes (Jack Elston focal point)
+- Component sourcing and hardware availability
+- Flight test scheduling and weather delays
+- Payload integration and sensor validation
+- Regulatory/mission requirement changes (Navy/Air Force specifications)
 
-| Person | Primary Role(s) |
-|--------|-----------------|
-| **Jack Elston** | Leadership, systems architect, primary decision-maker for funding/strategy |
-| **Joshua Fromm** | Lead engineer, hardware/shop operations |
-| **Maciej** | Technical lead, project oversight, testing coordination |
-| **Dan Prendergast** | Business development, operations, proposals |
-| **Beck Cotter** | Technical contributor across Navy projects and autonomy |
-| **Sam Hild** | Firmware development (S0/S3) |
-| **Meredith Needham** | Finance, administration, Navy liaison |
-| **Alex Lomis** | Technical contributor to hurricane and magnetometer projects |
+## Strategic Priorities (2025-2026)
 
-### Decision Patterns
-1. **Funding-driven roadmap**: #grants-and-funding drives project timeline and priorities
-2. **Centralized leadership**: Jack Elston approves strategic decisions; disseminated via #general
-3. **Technical collaboration**: Multi-channel involvement suggests matrix structure around platform (S0/S3) and project type
-4. **Government agency focus**: Navy and NASA dominate active projects; external partners (QuSpin, Navy contacts) integrated into channels
+1. **SBIR Hurricane continuity** - Multi-year government funding driving S0 development
+2. **Navy STTR delivery** - Atmospheric sensing capability advancement
+3. **Mustang contract execution** - Near-term Air Force revenue with Chilli airframe development underway
+4. **S3 maturation** - Long-endurance VTOL for future market applications
 
-### Recurring Topics
+## Information Gaps
 
-**Across All Channels:**
-- Flight testing results and hardware debugging
-- Budget tracking and resource allocation
-- Proposal submissions and government deliverables
-- Personnel coordination and workload management
-- Technical architecture decisions
-
-**Platform-Specific:**
-- S0: Integration of payloads (magnetometer, atmospheric sensors); hurricane mission requirements
-- S3: VTOL transition mechanics; tilting rotor development; endurance optimization
-
-**Government-Project Specific:**
-- TRL advancement metrics
-- Phase gates and milestone delivery
-- Navy/NASA compliance and reporting
-- Payload integration timelines
-
-## Organizational Structure Implied
-- **Product teams** aligned around platforms (S0, S3) with cross-functional participation
-- **Funding team** (#grants-and-funding) managing pipeline of government contracts
-- **Operations** coordinating execution across all projects
-- **Leadership** (Jack/Maciej/Dan) maintaining strategic alignment via #general
+- Finance/budget discussions appear limited to #operations
+- Customer communication channels not visible in summary set
+- Marketing/sales strategy not evident in provided channels
