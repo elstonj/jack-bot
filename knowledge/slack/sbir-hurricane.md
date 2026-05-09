@@ -33,6 +33,23 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Use of Channel 1 designated for flight operations over Avon Park (April 2026)
 - Channel 1 selected for operational use after RF cable replacement on Channel 2 (April 2026)
 
+**Ground Control Station Silkscreen Labeling (May 7, 2026):**
+- Radio channel designation decided as "RADIO A / RADIO B" to minimize confusion with other numbering schemes (May 7, 2026)
+- Jack Elston approved RADIO A/B nomenclature over alternatives (RADIO 1/2, CH 1/2, etc.) (May 7, 2026)
+
+**Ground Control Station Design & Procurement (May 7-8, 2026):**
+- Joshua Fromm to review and modify ground station parts procurement list before finalization (May 7, 2026)
+- RF connector modification implemented for radio compatibility (May 7, 2026)
+- Jack Elston's suggested quantities approved as baseline for testing + 2 upcoming builds with overage on cheap parts (May 7, 2026)
+- Joshua Fromm confirmed procurement list would only require cable change; most major components (USB hub, power brick, etc.) can be ordered (May 8, 2026)
+- Jack Elston submitted openups and batteries for purchase to avoid duplication (May 8, 2026)
+- Joshua Fromm updated comprehensive procurement spreadsheet (2026 DUAL tab) with all components except stocked materials like ring terminals and clikmates (May 8, 2026)
+
+**Ground Control Station Operational Handover Planning (May 7, 2026):**
+- Discussion initiated regarding whether GCS units being produced are intended for NOAA operational handover (May 7, 2026)
+- Proposal suggested: duplicate testing station at BST for troubleshooting issues NOAA may encounter with remotely operated stations (May 7, 2026)
+- Status: Under consideration for decision (May 7, 2026)
+
 **Humidity Sensor Configuration (April 2026):**
 - Vaisala RSS421 heating mode confirmed as critical for accurate readings (April 2026)
 - New PSNS firmware with corrected humidity reference validation implemented (April 8, 2026)
@@ -51,21 +68,6 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 **Display Aircraft Tripod Configuration (May 7, 2026):**
 - All 4 display S0 units approved to include tripods: 2 units shipping end of May + 2 units for early-mid July (May 7, 2026)
 - Jack Elston confirmed all display aircraft should have tripods included (May 7, 2026)
-
-**Ground Control Station Silkscreen Labeling (May 7, 2026):**
-- Radio channel designation decided as "RADIO A / RADIO B" to minimize confusion with other numbering schemes (May 7, 2026)
-- Jack Elston approved RADIO A/B nomenclature over alternatives (RADIO 1/2, CH 1/2, etc.) (May 7, 2026)
-
-**Ground Control Station Design & Procurement (May 7, 2026):**
-- Joshua Fromm to review and modify ground station parts procurement list before finalization (May 7, 2026)
-- RF connector modification implemented for radio compatibility (May 7, 2026)
-- Jack Elston's suggested quantities approved as baseline for testing + 2 upcoming builds with overage on cheap parts (May 7, 2026)
-- Joshua Fromm to provide updated procurement recommendations by May 8, 2026 (May 7, 2026)
-
-**Ground Control Station Operational Handover Planning (May 7, 2026):**
-- Discussion initiated regarding whether GCS units being produced are intended for NOAA operational handover (May 7, 2026)
-- Proposal suggested: duplicate testing station at BST for troubleshooting issues NOAA may encounter with remotely operated stations (May 7, 2026)
-- Status: Under consideration for decision (May 7, 2026)
 
 **Inventory Management (April 23, 2026):**
 - SASCWATCH has one S0 left over from previous season; decision made not to allow NOAA to use it (April 23, 2026)
@@ -88,6 +90,4 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - 2026 operational production: 30 S0s plus 5 additional "extras" for testing 2027 features; additional 20-unit stock build approved (May 6, 2026)
 - Primary delivery timeline: End of July 2026 for operational units
 - Secondary delivery: Display S0 units by June 5, 2026 for DC event, with QC/packaging of previously built units by July 1, 2026
-- Early storm contingency: Units to be QC'd and packaged by July 1, 2026 in event of early hurricane season (May 6, 2026)
-- Specifications: 2.6 lbs GTOW, 32.8" wingspan, 22.5 m/s cruise speed, 2+ hour endurance
-- Sensors: Vaisala RSS421 (RS41), MLX90614ESF thermal sensor, 9-hole pressure system, Vaisala RS41
+- Early storm contingency: Units to be QC'd and packaged by July 1, 2026 in event of early hurricane season (May 6, 2

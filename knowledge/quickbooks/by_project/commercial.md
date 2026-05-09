@@ -1,10 +1,10 @@
 # Commercial — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $2,765,728.34
+- **Total Invoiced (Revenue):** $2,829,357.34
 - **Total Expenses (Bills + Purchases):** $222,582.14
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,543,146.20 (Revenue exceeds expenses)
+- **Net Position:** $2,606,775.20 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – May 8, 2026
 
 ---
@@ -67,16 +67,16 @@
 | 1618 | 2024-04-19 | $13,853.10 | [451] INSTAAR Stable Isotope Lab, CU Boulder | Paid |
 
 ### Revenue Summary
-- **Total Invoiced:** $2,765,728.34
+- **Total Invoiced:** $2,829,357.34
 - **Total Collected (Paid):** $1,075,726.08
-- **Outstanding Balance:** $1,690,002.26
+- **Outstanding Balance:** $1,753,631.26
   - **Four invoices from May 8, 2026 (By Light Halo):** $223,258.00 (Invoices #1754–1757)
     - Invoice #1757 ($63,735.00): Two (2) built out Halo platforms ready for car launch demo
     - Invoice #1756 ($47,894.00): Design tested Halo airframe and CAD step files
     - Invoice #1755 ($63,735.00): Two (2) built out Halo platforms ready for car launch demo
     - Invoice #1754 ($47,894.00): Design tested Halo airframe and CAD step files
   - **One invoice from May 8, 2026 (IRISS, CU Boulder):** $664.98 (Invoice #1759)
-  - **Other outstanding invoices:** $1,466,079.28
+  - **Other outstanding invoices:** $1,529,708.28
 
 ---
 
@@ -110,10 +110,10 @@
 ---
 
 ### **Materials & Supplies (Direct Cost Purchases)**
-**Total: $71,968.21** | 7 transactions | Largest item: $1,221.39
+**Total: $72,189.60** | 8 transactions | Largest item: $1,221.39
 
 #### Direct Cost Purchases
-- **Purchase #00018935 (2026-05-07):** $1,221.39 *(NEW)*
+- **Purchase #00018935 (2026-05-07):** $1,221.39
   - S3 Case (UMES) — Placed by Josh Fromm via email; no Asana request
 
 - **Purchase #KDE17135 (2026-04-20):** $780.00
@@ -124,3 +124,5 @@
 
 - **Purchase #459340813415 (2026-04-21):** $330.10
   - Split allocation; 2026
+
+*Additional unspec

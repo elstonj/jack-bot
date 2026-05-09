@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $927,177.44 *(+$11,012.32 May 1–8)*
+- **Total Expenses (Bills + Purchases)**: $927,245.37 *(+$67.93 May 8–9)*
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$909,283.08 (expenses exceed revenue significantly)
-- **Date Range**: April 5, 2024 – May 8, 2026 (24+ months)
-- **Transaction Count**: 1,079+ *(+32 new transactions May 1–8)*
+- **Net Position**: -$909,350.99 (expenses exceed revenue significantly)
+- **Date Range**: April 5, 2024 – May 9, 2026 (24+ months)
+- **Transaction Count**: 1,081+ *(+2 new transactions May 8–9)*
 
 ---
 
@@ -29,7 +29,7 @@
 ## Expenses by Cost Category
 
 ### Direct Labor & Subcontractors: $384,547.30
-*(unchanged from prior period; no new May 1–8 transactions)*
+*(unchanged from prior period; no new May 8–9 transactions)*
 
 - **Matthew Crabtree** (PCB design/assembly): $103,227.68
 - **Jameel Barkat** (Investment consulting): $60,000.00
@@ -59,8 +59,8 @@
 
 ---
 
-### IRAD Indirect R&D (Subcontractors & Internal): $5,932.18
-*(+$3,073.74 new, May 7)*
+### IRAD Indirect R&D (Subcontractors & Internal): $5,943.77
+*(+$11.59 new, May 8)*
 
 This category covers research & development work allocated to internal IRAD projects, including subcontracted PCB assembly and internal R&D materials.
 
@@ -77,95 +77,80 @@ This category covers research & development work allocated to internal IRAD proj
 
 **Subtotal Indirect Subcontractors**: $2,300.00 | **2 transactions** | **Vendor: Summit Assembly, LLC**
 
-**Internal R&D Materials & Equipment (May 4–7):**
+**Internal R&D Materials & Equipment (May 4–8):**
 
-1. **2026-05-07 Purchase #3001681172** — $214.02
+1. **2026-05-08 Purchase** — $11.59
+   - Item: Shipping tool to Sean Cole (Phase1) for S3 IRAD work
+   - Memo: Shipment request verbally by Josh Fromm
+   - *Purpose: S3 IRAD logistics support*
+
+2. **2026-05-07 Purchase #3001681172** — $214.02
    - Item: Quick Latch Anodized Blue Air Cleaner Latch Kit x 6
    - *Purpose: IRAD component procurement*
 
-2. **2026-05-07 Purchase #E6040634** — $47.42
+3. **2026-05-07 Purchase #E6040634** — $47.42
    - Item: Quik Latch QL-25-08-04 Mini Latch Pin, 1/4-20 x 4
    - *Purpose: IRAD hardware/component*
 
-3. **2026-05-05 Purchase** — $28.76 *(from prior period)*
+4. **2026-05-05 Purchase** — $28.76
    - Item: Shipping tool to Sean Cole (Phase1) for S3 IRAD work
    - *Purpose: S3 IRAD logistics support*
 
-4. **2026-05-05 Purchase #HVHNB9** — $330.14 *(from prior period)*
+5. **2026-05-05 Purchase #HVHNB9** — $330.14
    - Item: S20004 repair CU IRISS
    - *Purpose: Equipment repair for internal R&D*
 
-5. **2026-05-04 Purchase** — $14.79 *(from prior period)*
+6. **2026-05-04 Purchase** — $14.79
    - Item: Meccanixity Rigid Screw Coupling 6mm to 10mm
    - *Purpose: IRAD mechanical component*
 
-6. **2026-05-04 Purchase** — $155.94 *(from prior period)*
+7. **2026-05-04 Purchase** — $155.94
    - Item: Rotatable Hall Sensor x 6
    - *Purpose: IRAD sensor procurement*
 
-7. **2026-05-04 Purchase #300043410** — $75.77 *(from prior period)*
+8. **2026-05-04 Purchase #300043410** — $75.77
    - Item: 10mm Round Servo Shaft (25 Tooth Spline, 36mm Length) x 6
    - *Purpose: IRAD mechanical component*
 
-8. **2026-05-04 Purchase** — $23.96 *(from prior period)*
+9. **2026-05-04 Purchase** — $23.96
    - Item: Eagle Tree Systems Optical RPM Sensor x 3
    - *Purpose: IRAD sensor/measurement*
 
-9. **2026-05-04 Purchase #HDR653461** — $27.94 *(from prior period)*
-   - Item: Hobbywing RPM Sensor For High-Voltage ESC x 3
-   - *Purpose: IRAD motor/drive sensor*
+10. **2026-05-04 Purchase #HDR653461** — $27.94
+    - Item: Hobbywing RPM Sensor For High-Voltage ESC x 3
+    - *Purpose: IRAD motor/drive sensor*
 
-10. **2026-05-04 Purchase #106880** — $441.36 *(from prior period)*
+11. **2026-05-04 Purchase #106880** — $441.36
     - Item: pingRX Pro
     - *Purpose: IRAD communication/telemetry equipment*
 
-**Subtotal Internal R&D Materials**: $3,632.18 | **10 transactions** | **Largest: pingRX Pro $441.36, CU IRISS repair $330.14**
+**Subtotal Internal R&D Materials**: $3,643.77 | **11 transactions** | **Largest: pingRX Pro $441.36, CU IRISS repair $330.14**
 
-**Total IRAD R&D: $5,932.18** | **12 transactions** | **Largest: Summit Assembly PCB work $1,250.00**
+**Total IRAD R&D: $5,943.77** | **13 transactions** | **Largest: Summit Assembly PCB work $1,250.00**
 
 ---
 
 ### Materials & Direct Purchases: $461,209.62
-*(+$11,339.68 from May 1–8)*
+*(unchanged from May 1–8 analysis)*
 
 **Subcategories:**
-- **Electronics/components** (Digi-Key, Mouser, electronics vendors): ~$209,099.64 *(unchanged)*
-- **PCB manufacturing/assembly** (Advanced PCB, JLCPCB, FastTurn, Vyrian, Circuits West): ~$58,923.45 *(unchanged)*
-- **Composites/structures** (Quanta3, fiber tubes, laminates, carbon fiber tubes): ~$36,631.30 *(unchanged)*
-- **Mechanical parts/hardware** (fasteners, servos, linkages, SKB cases, MKS servos, bearings): $43,971.92 *(unchanged)*
-- **Motors/propulsion** (KDE, Vertiq, Amprius batteries, FetTec, DJI propellers): $31,912.00 *(unchanged)*
-- **Test/measurement equipment** (Makeflyeasy HERO VTOL x2, Kestrel 5500 Weather Meters): $2,392.95 *(unchanged)*
+- **Electronics/components** (Digi-Key, Mouser, electronics vendors): ~$209,099.64
+- **PCB manufacturing/assembly** (Advanced PCB, JLCPCB, FastTurn, Vyrian, Circuits West): ~$58,923.45
+- **Composites/structures** (Quanta3, fiber tubes, laminates, carbon fiber tubes): ~$36,631.30
+- **Mechanical parts/hardware** (fasteners, servos, linkages, SKB cases, MKS servos, bearings): $43,971.92
+- **Motors/propulsion** (KDE, Vertiq, Amprius batteries, FetTec, DJI propellers): $31,912.00
+- **Test/measurement equipment** (Makeflyeasy HERO VTOL x2, Kestrel 5500 Weather Meters): $2,392.95
 - **Shipping/Freight** (DHL, FedEx, duties, international freight): $28,935.84 *(+$721.31 May 6)*
 - **Direct cost supplies multi-project** (2026 IDIQ, Sasquatch, future S3 sales, By Light): $12,641.38 *(+$480.59 May 7)*
 - **Inventory for future S3/S0 customer sales** (UMES, Barbados, INSTAAR, S3/S0 items; 2x S3 ship sets): $32,582.96 *(+$7,752.19 May 4–7)*
-- **Tripods & camera gear for S3 sales** (Oben AC-1441 Tripod): $479.80 *(new May 7)*
+- **Tripods & camera gear for S3 sales** (Oben AC-1441 Tripod): $479.80
 
-**New Transactions Detail (May 4–8):**
-
-**May 6 — Shipping/Freight:**
-1. **Bill #103031641** — $901.63 | **Aeronet Worldwide**
-   - Shipping: $721.31 (S0 project logistics — Paramount Tube to Northwind Composites)
-   - Inventory: $180.32 (S0 project inventory asset)
-   - *Purpose: Logistical coordination for S0 composite/structural components*
-
-**May 4–6 — Inventory for S3/S0 Sales:**
-2. **Purchase #1105** (2026-05-06) — $5,500.00
-   - Item: Payment for 2 S3 ship sets
-   - *Purpose: S3 inventory procurement for future customer sales*
-
-3. **Purchase #1288885721** (2026-05-07) — $785.88
-   - **Multi-line allocation:**
-     - $479.80 [DIRECT COSTS: DC-Direct Cost Purchases] — Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head x 4
-     - $306.08 [Inventory Asset] — Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head x 2 (S3 future sales)
-   - **Memo**: Inventory Asset is for future sales of S3
-   - **Categorization**: Direct cost supplies ($479.80) + Inventory for S3 sales ($306.08)
-
-**Total Materials & Direct Purchases: $461,209.62** | **Largest new items: S3 ship sets $5,500.00, Tripod kit $785.88**
+**Total Materials & Direct Purchases: $461,209.62** | **Largest items: S3 ship sets $5,500.00, Tripod kit $785.88, Electronics/components $209,099.64**
 
 ---
 
 ### Fringe & Administrative Costs: $2,823.32
-*(unchanged from May 1–7 period; no new May 8 transactions)*
+*(unchanged from May 1–7 period)*
 
 **Breakdown:**
 - **Payroll processing & HR systems** (People Center GSuite, People Center billing): $826.35
@@ -173,4 +158,45 @@ This category covers research & development work allocated to internal IRAD proj
 - **Accounting & bookkeeping** (Claudia Behnke, April 2026 accounting): $1,200.00
 - **Other administrative services**: $508.97
 
-**Total: $2,823.32** | **4 transactions** |
+**Total: $2,823.32** | **4 transactions**
+
+---
+
+### Facilities & Shop Supplies: $56.34
+*(+$56.34 new, May 8)*
+
+**New Transaction (May 8):**
+- **Purchase #52080239** (2026-05-08): $56.34
+  - Item: HAZMAT label – Lithium Metal Batteries UN 3090
+  - Memo: No Asana request; purchase made by M. Needham after request from Josh Fromm
+  - *Purpose: Safety/compliance labeling for battery inventory handling*
+
+**Total Facilities & Shop Supplies: $56.34** | **1 transaction** | **Largest: HAZMAT label $56.34**
+
+---
+
+### Other / Unallocated: $0.00
+*(no change)*
+
+---
+
+## Purchase Orders
+
+| PO # | Date | Vendor | Amount | Status | Description |
+|------|------|--------|--------|--------|-------------|
+| #1038 | *outstanding* | Amprius | $1,700.00 | **OPEN** | Battery procurement (not yet received/billed) |
+
+**Total Purchase Orders: $1,700.00** | **1 outstanding PO**
+
+---
+
+## Monthly Spend by Category
+
+### May 2026 (May 1–9)
+| Category | Amount | # Transactions |
+|----------|--------|-----------------|
+| Direct Labor & Subcontractors | $0.00 | 0 |
+| IRAD Indirect R&D | $11.59 | 1 |
+| Materials & Direct Purchases | $7,753.78 | 4 |
+| Facilities & Shop Supplies | $56.34 | 1 |
+|

@@ -15,9 +15,9 @@
     "type": "t_and_m",
     "number": null,
     "total_value": 242540.0,
-    "start_date": "2025-07-30",
-    "end_date": "2025-10-14",
-    "payment_cadence": "Paid In Advance",
+    "start_date": "2026-09-28",
+    "end_date": "2026-09-28",
+    "payment_cadence": "monthly",
     "documents": [
       "drive://Statement of Work",
       "drive://CRT-90P Hydrophone User Guide Rev 2.pdf",
@@ -25,42 +25,35 @@
     ]
   },
   "budget": {
-    "approved": 1323.0,
-    "approved_source": "sow_drive",
-    "line_items": [
-      {
-        "category": "Labor",
-        "amount": 1323.0,
-        "description": "T&M Charges for R&D development work from 7/30/25 thru 10/14/25: (9) Hours @ $147/hr (senior engineer)",
-        "source_doc": null
-      }
-    ],
+    "approved": 242540.0,
+    "approved_source": "asana_custom_field",
+    "line_items": [],
     "spent": {
       "labor": {
         "amount": 28858.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-08"
+        "last_updated": "2026-05-09"
       },
       "purchases": {
         "amount": 185.15,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-05-08"
+        "last_updated": "2026-05-09"
       },
       "other_qbo": {
         "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-05-08"
+        "last_updated": "2026-05-09"
       },
       "total": 29043.9,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": -27720.9,
+    "remaining": 213496.1,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-08T09:07:16Z"
+    "last_reconciled": "2026-05-09T09:07:22Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -173,19 +166,19 @@
     {
       "source": "FEEDBACK",
       "author": "Maciej",
-      "date": "2026-04-17",
-      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-04-17",
-      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
       "date": "2026-04-20",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-17",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-17",
       "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
     },
     {
@@ -241,8 +234,20 @@
       "author": "Maciej",
       "date": "2026-05-06",
       "text": "From Maciej: <@U0AQE94HJUT>, the Navy SBIR is mostly caught up, I just updated Asana. Also, I'm updating tasks for the Navy STTR which will be a higher priority this month, so make sure to mention that tomorrow"
+    },
+    {
+      "source": "CORRECTION",
+      "author": "Jack",
+      "date": "2026-05-08",
+      "text": "From Jack: the navy sttr has priority, the SBIR is mostly on schedule"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Jack",
+      "date": "2026-05-08",
+      "text": "From Jack: <@U0AQE94HJUT> correction: the navy sttr has priority, the SBIR is mostly on schedule"
     }
   ],
-  "last_full_rebuild": "2026-05-08T09:07:16Z",
+  "last_full_rebuild": "2026-05-09T09:07:22Z",
   "last_incremental_update": null
 }

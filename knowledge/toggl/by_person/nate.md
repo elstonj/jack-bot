@@ -1,18 +1,19 @@
 # Nate Straus — Time Tracking
 
 ## Summary
-- Total hours tracked: 1,398.2 hours (increased 8.0 hours from previous 1,390.2)
+- Total hours tracked: 1,405.0 hours (increased 6.8 hours from previous 1,398.2)
 - Primary projects: SBIR Hurricane Phase II+ / 2026 IDIQ (NOAA), Project 183171534, S2 IRAD & Fleet Maintenance, S3 IRAD, Flight Testing
-- Time period covered: Ongoing tracking with sustained NOAA Hurricane portfolio focus; shift in IRAD allocation toward S3 work
+- Time period covered: Ongoing tracking with sustained NOAA Hurricane portfolio focus; S3 IRAD and Proposals projects now showing consistent activity
 
 ## Project Breakdown
-- **[301-2] SBIR - Hurricane Phase II+ (NOAA: Joe Cione)**: 481.9 hours (34.5%)
-- **Project 183171534**: 353.4 hours (25.3%)
-- **[001-06] S2 IRAD & Fleet Maintenance (IRAD)**: 151.8 hours (10.9%)
-- **Project 160309352**: 128.0 hours (9.2%)
-- **[001-07] S3 IRAD (IRAD)**: 48.6 hours (3.5%) — **+8.0 hours this batch** — reactivated work
-- **[300-3] 2026 IDIQ (Hurricane) (NOAA)**: 35.7 hours (2.6%) — no new activity
-- **[001-08] Flight Testing (IRAD)**: 46.0 hours (3.3%)
+- **[301-2] SBIR - Hurricane Phase II+ (NOAA: Joe Cione)**: 481.9 hours (34.3%)
+- **Project 183171534**: 353.4 hours (25.1%)
+- **[001-06] S2 IRAD & Fleet Maintenance (IRAD)**: 151.8 hours (10.8%)
+- **Project 160309352**: 128.0 hours (9.1%)
+- **[001-07] S3 IRAD (IRAD)**: 50.4 hours (3.6%) — **+1.8 hours this batch** — sustained engagement
+- **[001-08] Flight Testing (IRAD)**: 49.2 hours (3.5%) — **+3.2 hours this batch**
+- **[001-13] Proposals (IRAD)**: 1.8 hours (0.1%) — **NEW PROJECT, +1.8 hours this batch**
+- **[300-3] 2026 IDIQ (Hurricane) (NOAA)**: 35.7 hours (2.5%) — no new activity
 - **[001-01] General IRAD (IRAD)**: 44.4 hours (3.2%) — email, administrative
 - **[001-05] S1 IRAD & Fleet Maintenance (IRAD)**: 28.5 hours (2.0%)
 - **[451-1] INSTAAR S3 x 2**: 19.2 hours (1.4%)
@@ -26,39 +27,44 @@
 - **[400-5] SBIR - Soil Moisture Mapping (Department of the Air Force)**: 2.1 hours (0.2%)
 
 ## Recent Activity
-- **S3 IRAD reactivated**: 8.0 hours logged with no task description—second consecutive batch of activity on [001-07] after prior dormancy. Project now shows sustained engagement pattern (40.6h + 8.0h = 48.6h cumulative)
-- **2026 IDIQ static**: No new hours this batch; remains at 35.7 hours with documentation gap from prior entries unresolved
-- **NOAA Hurricane portfolio holding steady**: 517.6 hours (37.0% of total)—slight percentage decline due to S3 IRAD reallocation rather than absolute hour reduction
+- **Flight Testing sustained**: 3.2 hours logged with no task description; project now at 49.2 hours cumulative showing continued active engagement
+- **S3 IRAD reactivated again**: 1.8 hours logged with no task description; third consecutive batch of activity, now at 50.4 hours cumulative—confirms sustained engagement pattern (not isolated spike)
+- **Proposals project initiated**: New project [001-13] with 1.8 hours logged, no description—appears to be internal IRAD proposal/business development work
+- **2026 IDIQ remains static**: Still at 35.7 hours with no new activity or documentation
 
 ## Patterns
-- **S3 IRAD work pattern emerging**: Two consecutive batches (prior batch + 8.0h this batch) suggest either:
-  - Project restarted after prior pause
-  - Sustained deliverable or testing cycle underway
-  - Shifted allocation within IRAD S-series work
-  - Notably: **no task description provided again**—consistent with documentation gap seen on 2026 IDIQ
-- **Documentation discipline degradation**: S3 IRAD entry follows same pattern as 2026 IDIQ (undescribed work). Combined with prior 2026 IDIQ gaps, this suggests either:
-  - Systemic issue with how routine IRAD work is being logged
-  - Intentional consolidation of similar tasks under single project codes
-  - Data entry process breakdown across multiple projects simultaneously
-- **NOAA focus remaining primary**: Despite S3 IRAD uptick, Hurricane portfolio still 37% of tracked hours—continues as primary workload driver
-- **Customer Support remains dormant**: Three consecutive batches with zero activity confirms IRISS S20004 engagement fully concluded
+- **Documentation discipline further degraded**: All three entries in this batch (100%) lack task descriptions:
+  - Flight Testing: 3.2h undescribed
+  - S3 IRAD: 1.8h undescribed (third consecutive batch)
+  - Proposals: 1.8h undescribed (new project, no baseline context)
+  - This is a systematic issue across multiple projects, not isolated occurrences
+  
+- **S3 IRAD now clearly active work stream**: Third consecutive batch of activity (8.0h + 1.8h = 9.8h logged in last two batches after prior dormancy) establishes this as reactivated/ongoing initiative; however, complete absence of work descriptions prevents understanding scope, deliverables, or timeline
+
+- **Flight Testing remains priority IRAD work**: Sustained hours (3.2h this batch) consistent with prior activity level; continuing as active engineering project
+
+- **New Proposals project emerges**: First appearance of [001-13] suggests either:
+  - New business development cycle initiated
+  - Proposal effort for existing or prospective work
+  - Cannot assess priority/scope without descriptions
+
+- **NOAA Hurricane portfolio holding at 37.0%**: 517.6 hours of 1,405.0 total—slight percentage decline due to IRAD reallocation, not absolute hour reduction
 
 ## Recommendations
-1. **Urgent: Address recurring documentation gap on [001-07] S3 IRAD and [300-3] 2026 IDIQ**:
-   - Both projects now have multiple entries with zero task descriptions
-   - Request Nate provide: task/deliverable names, work type (design, testing, documentation, analysis), and scope of current phase
-   - Establish mandatory tagging/description requirement for all IRAD S-series work going forward
-   - Determine if this is routine maintenance work (create descriptor template) or ad-hoc engineering (requires full documentation per entry)
+1. **URGENT: Implement mandatory task descriptions for all time entries, effective immediately**:
+   - 100% of entries in this batch are undescribed—escalates from recurring pattern to systemic breakdown
+   - Require: task/deliverable name, work type (design, testing, documentation, analysis, proposal), and estimated completion timeline
+   - Establish standard tagging format for IRAD S-series work (S2, S3, etc.) to enable rollup and tracking
 
-2. **Clarify S3 IRAD work scope and cadence**:
-   - Confirm whether recent 8.0h batch is:
-     - Part of ongoing service/maintenance cycle (expect regular monthly allocations)
-     - Time-bounded project phase (clarify end date and deliverables)
-     - Unplanned ramp-up (assess impact on other IRAD priorities)
-   - Update forecast for H2 IRAD allocation if S3 work is sustained
+2. **Clarify S3 IRAD and Proposals work scope**:
+   - S3 IRAD: 50.4 hours accumulated with zero documentation—determine deliverables, timeline, and expected allocation pattern
+   - Proposals: Establish baseline (1.8h) and clarify: proposal for which project(s)? Timeline? Expected hours?
+   - Both projects require retroactive task descriptions + forward documentation protocol before next batch
 
-3. **Consolidate 2026 IDIQ status**:
-   - Project has accumulated 35.7h across three batches with **zero documentation**
-   - Determine: is work genuinely continuing or is this administrative backfill/allocation adjustment?
-   - If continuing: mandatory retroactive task descriptions + forward documentation protocol
-   - If administrative: reclassify or close out; avoid phantom project hours
+3. **Resolve 2026 IDIQ phantom project status**:
+   - 35.7 hours with zero documentation remains unaddressed from prior recommendation
+   - Confirm: is work continuing or is this administrative allocation that should be closed?
+   - If continuing: mandatory retroactive documentation required
+   - If complete: formally close project and redistribute any remaining allocation context
+
+4. **

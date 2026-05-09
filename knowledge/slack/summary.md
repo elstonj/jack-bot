@@ -1,76 +1,76 @@
 # Slack Channels Overview
 
-Last scanned: 2026-05-08 02:15
+Last scanned: 2026-05-09 02:16
 
-Total channels scanned: 9
+Total channels scanned: 11
 
 ## Channels
 
-- **#25_1-navy-sttr-boundary-layer** -- 3 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
-- **#by-lite-mustang** -- 13 messages -- [by-lite-mustang.md](by-lite-mustang.md)
-- **#flight-testing** -- 5 messages -- [flight-testing.md](flight-testing.md)
-- **#general** -- 1 messages -- [general.md](general.md)
-- **#operations** -- 2 messages -- [operations.md](operations.md)
-- **#s0-vtol** -- 17 messages -- [s0-vtol.md](s0-vtol.md)
-- **#s3** -- 5 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 15 messages -- [sbir-hurricane.md](sbir-hurricane.md)
-- **#swiftcore** -- 1 messages -- [swiftcore.md](swiftcore.md)
+- **#2025-nasa-autonomy** -- 4 messages -- [2025-nasa-autonomy.md](2025-nasa-autonomy.md)
+- **#25_1-navy-sbir-magnetometer** -- 1 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#by-lite-mustang** -- 2 messages -- [by-lite-mustang.md](by-lite-mustang.md)
+- **#emass-bst** -- 2 messages -- [emass-bst.md](emass-bst.md)
+- **#flight-testing** -- 10 messages -- [flight-testing.md](flight-testing.md)
+- **#grants-and-funding** -- 3 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#marketing** -- 3 messages -- [marketing.md](marketing.md)
+- **#operations** -- 3 messages -- [operations.md](operations.md)
+- **#s3** -- 24 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 8 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#swiftcore** -- 2 messages -- [swiftcore.md](swiftcore.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Strategic Channel Overview
+# Black Swift Technologies - Cross-Channel Strategic Overview
 
-## Core Business Areas
+## Active Projects
 
-**Aircraft Development Programs:**
-- **S-Series (Core Platform):** S0 VTOL and S3 VTOL dominate development, with extensive firmware/hardware work in #s0-vtol and #s3
-- **SwiftCore System:** Integrated drone control platform spanning firmware, tablet applications, and flight operations (#swiftcore)
-- **Customer Contracts:** By Light Mustang (Air Force/Yuma testing) represents external revenue work with phased development approach
+**Core Development Platforms:**
+- **S-Series Aircraft**: S0 (hurricane reconnaissance), S1-VTOL, S3 (VTOL hybrid with 2-3hr endurance)
+- **SwiftCore**: Primary drone system with firmware, tablet app, and flight testing infrastructure
+- **E2 Platform**: Multirotor aircraft undergoing eMASS AI energy management integration
 
-**Government Funding:**
-- SBIR Hurricane project (#sbir-hurricane) - primary long-term development vehicle for S0 reconnaissance capabilities
-- Navy STTR boundary layer measurement project (#25_1-navy-sttr-boundary-layer) - atmospheric sensing advancement
-- Both leverage S0 platform as testbed
+**Government Contracts & SBIR Projects:**
+- SBIR Hurricane (primary focus, 2020-2026)
+- Navy SBIR Magnetometer (MAD detection systems)
+- NASA 2025 Autonomy SBIR (Phase I, TRL-5 to TRL-7)
+- By Light Mustang (USAF contract, Yuma testing, 400km range requirement)
 
-## Key Decision Makers & Roles
+**Technology Integration:**
+- eMASS AI partnership for ECSDoT energy management on E2
+- QuSpin magnetometer integration for naval applications
 
-| Person | Primary Role |
-|--------|---|
-| Jack Elston | Leadership, systems architecture, firmware oversight |
-| Joshua Fromm | Lead engineer, hardware/shop operations, QA |
-| Maciej | Project management, flight testing coordination, field operations |
-| Dan Prendergast | Business development, operations management |
-| Sam Hild | Firmware development (SwiftCore, S3) |
-| Danny Troke | Multi-project technical work |
+## Key Organizational Patterns
 
-## Cross-Channel Themes
+**Leadership/Decision Authority:**
+- Jack Elston: Overall technical strategy, funding decisions, major commitments
+- Maciej: Project operations, flight testing, technical oversight
+- Joshua Fromm: Hardware design, manufacturing, component sourcing
 
-**Technical Integration:**
-- S0 platform serves dual purpose: core SBIR/Navy project vehicle AND foundation for customer work (Mustang testing framework)
-- SwiftCore firmware deployed across multiple aircraft platforms—single system serving diverse missions
-- Repeated flight test cycles across #s0-vtol, #s3, #flight-testing indicate iterative development methodology
+**Cross-Functional Roles:**
+- Jack Elston appears across technical, funding, and strategic channels
+- Maciej bridges operations, flight testing, and project management
+- Dan Prendergast, Ben Busby: Autonomy and control systems specialists
 
-**Operational Patterns:**
-- Maciej functions as primary flight test coordinator—bottleneck/hub for field validation across all programs
-- Joshua Fromm manages hardware procurement and shop logistics—centralized supply chain
-- #operations tracks resource allocation; #general announces strategic decisions
+## Recurring Themes & Decision Patterns
 
-**Recurring Topics:**
-- Firmware bugs and fixes (Jack Elston focal point)
-- Component sourcing and hardware availability
-- Flight test scheduling and weather delays
-- Payload integration and sensor validation
-- Regulatory/mission requirement changes (Navy/Air Force specifications)
+1. **Funding-Driven Development**: Grant applications drive project timelines; channels show tight coupling between #grants-and-funding and technical project channels
+2. **Flight Test as Validation**: #flight-testing serves as critical feedback loop for all platform development
+3. **Hardware-Software Integration**: Consistent challenges integrating new sensors/systems (magnetometers, energy management) with flight platforms
+4. **Government Compliance**: SBIR projects require structured phase progression and TRL advancement documentation
+5. **Iterative Platform Evolution**: Projects typically involve demonstration phase (prove limitations) followed by refined development phase
 
-## Strategic Priorities (2025-2026)
+## Cross-Channel Connections
 
-1. **SBIR Hurricane continuity** - Multi-year government funding driving S0 development
-2. **Navy STTR delivery** - Atmospheric sensing capability advancement
-3. **Mustang contract execution** - Near-term Air Force revenue with Chilli airframe development underway
-4. **S3 maturation** - Long-endurance VTOL for future market applications
+- **#sbir-hurricane + #flight-testing**: Continuous test/iterate cycle for S0 development
+- **#2025-nasa-autonomy + #swiftcore**: NASA autonomy project leveraging SwiftCore firmware foundations
+- **#emass-bst + #flight-testing + #operations**: Hardware integration requires coordination across all three
+- **#by-lite-mustang + #flight-testing**: Two-phase approach (baseline then new design) uses shared test infrastructure
+- **#grants-and-funding + all technical channels**: Funding strategy drives technical roadmap and resource allocation
+- **#25_1-navy-sbir-magnetometer + #flight-testing**: Integration testing depends on available aircraft platforms and flight ops
 
-## Information Gaps
+## Organizational Maturity Indicators
 
-- Finance/budget discussions appear limited to #operations
-- Customer communication channels not visible in summary set
-- Marketing/sales strategy not evident in provided channels
+- Multi-year project continuity (2020-2026 spanning several channels)
+- Structured government contracting experience (SBIR Phase I/II processes)
+- Modular platform architecture enabling rapid sensor/system integration
+- Clear technical leadership with established decision-making hierarchy

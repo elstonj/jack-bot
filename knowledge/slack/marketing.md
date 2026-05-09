@@ -116,19 +116,16 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 - Paige Smith clarified product timeline; Jack confirmed S3 launch expected in near term
 - Implications: Marketing materials should be updated to reflect S2 EOL status and prepare for S3 product launch communications
 
+### S0 VTOL Wildfire Visualizer Video Edits (May 8, 2026)
+- Paige Smith created two versions (with and without captions) of S0 VTOL Wildfire Visualizer content
+- **Jack's feedback on text corrections needed:**
+  - Change "accelerating at over 100mph" to **"capable of sprinting at over 100mph"**
+  - Change **"The NightFOX payload"** to **"Onboard thermal sensors penetrate"** (remove specific payload reference)
+- Otherwise approved ("looks great!")
+- Status: Minor edits pending approval
+
 ---
 
 ## Projects & Initiatives
 
 ### Newsletter Development
-**Status:** Active/Ongoing (since June 2024)
-- Launched June 10, 2024 with strong engagement metrics
-- Using MailerLite for distribution
-- Domain verification completed through Hover account; re-verified May 1, 2026 by Jack per Paige's request
-- Converting website content to email newsletter format
-- April 2026: Marketing team reformatting flight mission content into newsletter articles
-
-### Products & Services Web Pages
-**Status:** Completed/Active maintenance
-- Products page updated June 13, 2024 with GIF under SwiftCore
-- Popup form remains on page despite Jack's requests

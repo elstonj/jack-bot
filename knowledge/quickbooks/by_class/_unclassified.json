@@ -1,43 +1,96 @@
 {
   "project_code": "_unclassified",
   "qbo_class_names": [
-    ""
+    "",
+    "NOAA UASD",
+    "NOAA UxSOC"
   ],
   "period": {
-    "start": "2026-05-07",
-    "end": "2026-05-08"
+    "start": "2026-05-08",
+    "end": "2026-05-09"
   },
   "totals": {
-    "revenue": 0.0,
-    "expenses": 306.08,
+    "revenue": 9320.0,
+    "expenses": 56.34,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Cost Purchases": 186.87,
-      "Inventory Asset": 119.21
+      "FACILITIES:FA-Shop Supplies": 56.34
     }
   },
-  "invoices": [],
+  "invoices": [
+    {
+      "type": "Invoice",
+      "date": "2026-05-08",
+      "doc_number": "1762",
+      "total": 4660.0,
+      "attributed": 4660.0,
+      "vendor": "",
+      "customer": "NOAA UASD",
+      "balance": 4660.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 4500.0,
+          "account": "",
+          "description": "Display Model S0. Includes a tripod and the \"collar\" that supports the S0."
+        },
+        {
+          "amount": 160.0,
+          "account": "",
+          "description": "Shipping S0 display model to NOAA UxSOC"
+        },
+        {
+          "amount": 4660.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2026-05-08",
+      "doc_number": "1761",
+      "total": 4660.0,
+      "attributed": 4660.0,
+      "vendor": "",
+      "customer": "NOAA UxSOC",
+      "balance": 4660.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 4500.0,
+          "account": "",
+          "description": "Display Model S0. Includes a tripod and the \"collar\" that supports the S0."
+        },
+        {
+          "amount": 160.0,
+          "account": "",
+          "description": "Shipping S0 display model to NOAA UxSOC"
+        },
+        {
+          "amount": 4660.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    }
+  ],
   "bills": [],
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-05-07",
-      "doc_number": "1288885721",
-      "total": 785.88,
-      "attributed": 306.08,
+      "date": "2026-05-08",
+      "doc_number": "52080239",
+      "total": 56.34,
+      "attributed": 56.34,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "Inventory Asset is for future sales of S3",
+      "memo": "No Asana request - purchase made by M. Needham after request from Josh Fromm.",
       "lines": [
         {
-          "amount": 479.8,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
-          "description": "Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head x 4"
-        },
-        {
-          "amount": 306.08,
-          "account": "Inventory Asset",
-          "description": "Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head x 2"
+          "amount": 56.34,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "HAZMAT label: Lithium Metal Batteries UN 3090"
         }
       ]
     }

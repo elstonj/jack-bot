@@ -66,6 +66,11 @@ This channel serves as the primary technical communication hub for Black Swift T
 - No changes to core web controller repository; stub is isolated to OpenWRT builds only
 - Implementation by: Jack Elston
 
+**Multi-Radio Feature Merge (May 8, 2026):**
+- Multi-radio GCS feature merged into main branch after completion of flight testing and GCS validation
+- Jack Elston notified team of merge; feature ready for production use
+- No anticipated impact on parallel development efforts but team advised to report any issues
+
 ## Projects & Initiatives
 
 **SwiftCore 3.2 Release (2021-2022):**
@@ -97,13 +102,12 @@ This channel serves as the primary technical communication hub for Black Swift T
 - **Features:** Payload serial configuration, command interfaces, sensor definitions
 
 **Multi-Radio GCS Support (April 2026-ongoing):**
-- **Status:** Active development in feature/multi_radio_gcs branch
+- **Status:** Merged to main branch (May 8, 2026) after flight testing and GCS validation completed
 - **Objective:** Enable single GCS to manage two UAS simultaneously
-- **Scope:** Requires changes to autopilot, comms_protocol, and web_controller repositories
-- **Challenge:** Legacy codebase not originally designed for multiple connections; addressing issues with per-aircraft addressing and system initialization packets
-- **Team:** Jack Elston (autopilot/comms), Ben Busby (web controller), Maciej and Alex (testing April 8-9, 2026)
-- **Current Issues Resolved:** Transmit command buffer overflow errors, per-aircraft system_init packet routing, redundant multi-device initialization requests
+- **Scope:** Changes to autopilot, comms_protocol, and web_controller repositories
+- **Resolved Issues:** Transmit command buffer overflow errors, per-aircraft system_init packet routing, redundant multi-device initialization requests
 - **Latest (May 7, 2026):** OpenWRT build infrastructure enhancements with binary utilities stub for proper data format handling
+- **Latest (May 8, 2026):** Feature fully merged; no anticipated impact on other development but team monitoring for issues
 
 **Web Controller UI Redesign (April 2026-ongoing):**
 - **Status:** Active development with modular layout system in progress
@@ -115,8 +119,4 @@ This channel serves as the primary technical communication hub for Black Swift T
   - Replacement of cumbersome multi-layer OOP tablet architecture
 - **Timeline:** Modular UI layout system expected soon
 - **Team:** Ben Busby leading design; Maciej suggesting split of web (flight ops focus) vs Android (config/tuning)
-- **Philosophy:** Unified web UI long-term rather than maintaining separate tablet app
-
-**Parameter File Restructuring (April 2026-ongoing):**
-- **Status:** Planning phase, not urgent
-- **Objective:** Restructure XML parameter files
+- **Philosophy:** Unified web UI long-term rather than maintaining separate tablet

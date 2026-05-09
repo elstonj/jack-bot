@@ -6,9 +6,9 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 **Key Participants:** Jack Elston (primary decision-maker), Maciej (technical/proposal support), Meredith Needham (budget/administrative), Dan Prendergast (proposal coordination), Beck Cotter (program management), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm, Paige Smith (presentation/logistics support), Arthur (technical partner for payload work), and others contributing to specific proposals.
 
-**Activity Level:** High throughout the period (March 2024 - May 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Most recent activity (May 1-5, 2026) demonstrates continued peak intensity with multiple concurrent NASA, DOD, and DOE submissions in final coordination and submission phases. Significant external partnerships and customer engagement alongside proposal work.
+**Activity Level:** Extremely high throughout the period (March 2024 - May 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Peak intensity reached in late April - early May 2026 with multiple concurrent NASA, DOD, and DOE submissions in final coordination and submission phases, plus immediate pipeline work beginning. Significant external partnerships and customer engagement alongside proposal work.
 
-**Time Range:** March 3, 2024 - May 6, 2026
+**Time Range:** March 3, 2024 - May 8, 2026
 
 ---
 
@@ -76,13 +76,11 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
   - **April 22:** Beck Cotter raised concern about lead/subcontractor arrangement change requiring renegotiation in short timeframe; due date April 28, 2026 (potentially May 1)
   - **April 23:** Beck Cotter confirmed receipt of all required documents from Gijs (BNL partner); proposal package complete
   - **April 27:** Genesis proposal nearly complete and ready for submission
-  - **April 30 SUBMITTED:** DOE Genesis Mission proposal successfully submitted with 629K total budget (293K subcontract to BNL), Period of Performance starts 7/1/2026
+  - **April 30 SUBMITTED:** DOE Genesis Mission proposal successfully submitted with $336K to BST total budget ($293K subcontract to BNL), Period of Performance starts 7/1/2026
 
 - **NASA deadlines coordination** (April 27, 2026): Clarified multiple concurrent NASA deadlines and staggered submission approach:
-  - NASA Aero RFI Responses and SaaS responses: **Due May 7**
+  - NASA Aero RFI Responses and SaaS responses: **Due May 7** ✓ SUBMITTED
   - NASA Phase II: **Due May 15**
   - NASA Phase I: **Due May 21**
   - DoD submissions (2025.4 cycle): **Due May 13**
-  - DoD submissions (2026 cycle): **Due June 3**
-
-- **TB2 Aerospace modular payload
+  - DoD submissions (2026 cycle): **Due June 3

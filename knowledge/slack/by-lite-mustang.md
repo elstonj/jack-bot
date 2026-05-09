@@ -18,7 +18,7 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - Mel (ByLight decision-maker)
 - Meredith Needham (invoicing/accounting)
 
-**Activity Level:** High, covering October 2025 through May 2026, with regular flight tests, design iterations, and scope management updates. Most recent activity (May 7, 2026) indicates CAD design completion and payment processing for ByLight carbon fiber manufacturing phase.
+**Activity Level:** High, covering October 2025 through May 2026, with regular flight tests, design iterations, and scope management updates. Most recent activity (May 8, 2026) confirms payment received from ByLight, clearing the path for carbon fiber manufacturing phase.
 
 ## Key Decisions
 
@@ -73,11 +73,14 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - **Next Step:** BST to send finalized CAD design meeting all mission requirements; ByLight manufactures CF version and BST implements avionics and control surfaces
 - **Pending Detail:** Material specification for ByLight's 3D-printed carbon fiber fuselage (Joshua Fromm flagged need for clarification on filament type)
 
-**May 7, 2026 – Payment Clearance & CAD Release**
+**May 7, 2026 – Payment Confirmation & CAD Release**
 - Invoice #1753 ($15K) issued April 8, 2026 with follow-up sent April 27, 2026
-- Payment confirmed received May 7, 2026 (2-day clearing period expected)
 - CAD design released to ByLight May 7 at 14:37 after payment confirmation
 - Maciej noted the released CAD is "a step down from the original fuse you designed" by Ethan, suggesting design compromises were made in the final iteration
+
+**May 8, 2026 – Payment Clearance Confirmation**
+- Initial $15K payment confirmed received (May 8, 2026)
+- Clears authorization to proceed with ByLight carbon fiber manufacturing phase
 
 ## Projects & Initiatives
 
@@ -89,8 +92,8 @@ This channel tracks the development and flight testing of the **By Light Mustang
   - Demonstrated need for new airframe design
   - Shipped to ByLight at 4038 Gillespie St, Fayetteville, NC for SOF week display
 
-### Chilli/MS2-4 Prototype (Primary Aircraft) – CAD FINALIZED, AWAITING MANUFACTURING
-- **Status:** CAD design optimization completed and delivered to ByLight May 7, 2026; awaiting ByLight carbon fiber 3D-printed manufacturing (expected mid-late May)
+### Chilli/MS2-4 Prototype (Primary Aircraft) – CAD FINALIZED, MANUFACTURING AUTHORIZED
+- **Status:** CAD design finalized and released to ByLight (May 7, 2026); awaiting ByLight carbon fiber 3D-printed manufacturing (expected mid-late May). Payment received (May 8, 2026) clears manufacturing authorization.
 - **Finalized Configuration (Last Flight-Tested):**
   - Wings: Commercial Chilli A37 from Soaring USA
   - Fuselage: ByLight's CF 3D-printed single 4.5-foot piece (replacing red 4.5" fiberglass Wildman Rockets tube prototype)
@@ -100,6 +103,4 @@ This channel tracks the development and flight testing of the **By Light Mustang
   - Avionics: 2030 autopilot, S2 power board, 3-to-1 CAN boards
   - Weight: Tested at 25, 30, 35 lbs (3-5 ballast plates)
 - **Flight Test Results (Dec 2025):**
-  - Old fuselage: 590W at 30m/s
-  - New fuselage (Ethan design): 480W at 30m/s (18% improvement)
-  - At 27m/s: 335
+  - Old fuselage: 590

@@ -1,6 +1,5 @@
 # [001-13] Proposals
 
-Small project with 3 tasks.
-- [Open] PrecisionTerra NASA subcontract — Beck Cotter
-- [Open] NASA Aero RFI — Beck Cotter
-- [Open] NASA SaaS and commercial partners — Beck Cotter
+Small project with 2 tasks.
+- [Open] 2026 DoD SBIR BAA - Runtime Assured Autonomy — Dan Prendergast
+- [Open] 2026 DoD SBIR BAA - Low-cost Modular Payload UAS for EW — Dan Prendergast

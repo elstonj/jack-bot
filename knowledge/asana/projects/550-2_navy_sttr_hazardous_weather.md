@@ -18,9 +18,13 @@
   - ERAU/Josh Wadler ($18,763 paid in base period; wadlerj@erau.edu; Pre-Award Contracting Officer: Garrett Filson, filsong@erau.edu)
   - Old Dominion University/John Park (h1park@odu.edu; Pre-Award Contracting Officer: Stephanie Haskell, sl2harri@odu.edu)
   - University of Miami/Jun Zhang (jun.zhang@earth.miami.edu; **CRITICAL: must be included on all correspondence** — funds handled through ERAU sub)
-- **Risk Signals**: 
-  - **Current Asana shows only 1 open task** (Fix ISARRA data, due May 8, 2026 assigned to Maciej), but **previous knowledge file listed 8 open technical tasks** spanning May–June with Progress Report and Final Report due dates. This represents a **significant reduction in visible open work** — either tasks were completed/closed in Asana, or the previous list reflected planned work not yet formalized in current Asana state. **Recommend confirmation with Maciej on current task status vs. reported completion**.
-  - June 3, 2026 Progress Report ($35k invoice) and September 1, 2026 Final Report ($14.4k invoice) remain critical deliverables per existing knowledge; current Asana does not show these as open tasks but they remain contractually due.
+
+## Risk Signals
+- **Asana Task Discrepancy**: Current Asana shows only 1 open task (Fix ISARRA data, due May 8, 2026), but previous knowledge file listed 8 open technical tasks spanning May–June with Progress Report and Final Report due dates. This represents a significant reduction in visible open work — either tasks were completed/closed in Asana, or the previous list reflected planned work not yet formalized in current Asana state. **Recommend confirmation with Maciej on current task status vs. reported completion**.
+- **Critical Deliverables Not Yet Visible as Open Tasks**: 
+  - Option Progress Report (June 3, 2026; $35,000) 
+  - Option Final Report (September 1, 2026; $14,446)
+  - These remain contractually due but do not appear in current Asana open task list. **Action needed before June 3 deadline**.
 
 ## Key Deliverables & Milestones
 - **Base Period Kickoff** (July 22, 2025): $70,000 ✓ COMPLETED
@@ -36,14 +40,13 @@
   - Fix ISARRA data for James Pinto (Maciej Stachura, due May 8, 2026)
 - **Completed Tasks**: 31 historical (~74% overall completion rate through base period)
 - **Tasks by Assignee**:
-  - **Maciej Stachura**: 1 open task (ISARRA data fix due May 8)
+  - **Maciej Stachura**: 1 open task (ISARRA data fix due May 8); responsible for Progress Report (June 3) and Final Report (Sept 1) deliverables
   - **Meredith O'hara Needham**: Invoicing administration (100% on-time track record; upcoming invoices due June 3 and September 1)
 - **Notable Pattern**: Significant discrepancy between current Asana state (1 task) and prior knowledge file (8 open tasks). Previous file indicated heavy May–June task concentration; current Asana shows minimal open work. **Status clarification recommended**.
 
 ## Recent Activity
-- **Feb 13, 2026 Status Update**: Green status summary posted; next steps noted but not detailed in new raw data.
-- **Current Asana state**: Only 1 open technical task visible (ISARRA data fix, due May 8). This is a **marked reduction from previous knowledge file's 8 open tasks**, suggesting either completion/closure or Asana data drift. 
-- **Critical deliverables not yet visible as open Asana tasks**: Option Progress Report (June 3) and Final Report (Sept 1) remain contractually due but do not appear in current open task list.
+- **Feb 13, 2026**: Green status summary posted; next steps noted but not detailed in current raw data.
+- **Current Asana state**: Only 1 open technical task visible (ISARRA data fix for James Pinto, due May 8, 2026). Marked reduction from previous knowledge file's 8 open tasks, suggesting either completion/closure or Asana data drift.
 
 ## Upcoming Critical Dates
 - **May 8, 2026**: Fix ISARRA data for James Pinto (Maciej Stachura)
@@ -68,4 +71,4 @@
 - **Project Focus**: Refining the S0 platform and demonstrating its utility for operational Navy use through targeted R&D.
 - **Billing**: All invoices submitted via WAWF system.
 - **Subcontractor Coordination**: Jun Zhang (University of Miami) is funded through ERAU sub but must be included on all project correspondence.
-- **Action Item**: Reconcile current Asana task list (1 open) with prior knowledge file (8 open tasks May–June). Confirm whether technical work is complete or tasks need Asana update before June 3 Progress Report deadline.
+- **Action Item (Priority)**: Reconcile current Asana task list (1 open) with prior knowledge file (8 open tasks May–June). Confirm whether technical work is complete or tasks need Asana update before June 3 Progress Report deadline. Ensure Progress Report and Final Report tasks are formally tracked in Asana.
