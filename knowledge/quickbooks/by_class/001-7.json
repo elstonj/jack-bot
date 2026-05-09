@@ -1,104 +1,37 @@
 {
   "project_code": "001-7",
   "qbo_class_names": [
-    "(001-7) IRAD - S3",
-    "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
+    "(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-05-07",
-    "end": "2026-05-08"
+    "start": "2026-05-08",
+    "end": "2026-05-09"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 2561.44,
+    "expenses": 11.59,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 2300.0,
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 261.44
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 11.59
     }
   },
   "invoices": [],
-  "bills": [
-    {
-      "type": "Bill",
-      "date": "2026-05-07",
-      "doc_number": "receiver_v03",
-      "total": 1250.0,
-      "attributed": 1250.0,
-      "vendor": "Summit Assembly, LLC",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "April 2026 work",
-      "lines": [
-        {
-          "amount": 950.0,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
-          "description": "PCB Assembly Assembly x 30"
-        },
-        {
-          "amount": 300.0,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
-          "description": "Set Up"
-        }
-      ]
-    },
-    {
-      "type": "Bill",
-      "date": "2026-05-07",
-      "doc_number": "gnss_mag-v061",
-      "total": 1050.0,
-      "attributed": 1050.0,
-      "vendor": "Summit Assembly, LLC",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "April 2026 work",
-      "lines": [
-        {
-          "amount": 750.0,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
-          "description": "PCB Assembly Assembly x 10"
-        },
-        {
-          "amount": 300.0,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
-          "description": "Set Up"
-        }
-      ]
-    }
-  ],
+  "bills": [],
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-05-07",
-      "doc_number": "3001681172",
-      "total": 214.02,
-      "attributed": 214.02,
+      "date": "2026-05-08",
+      "doc_number": "",
+      "total": 11.59,
+      "attributed": 11.59,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "",
+      "memo": "Shipment request verbally by Josh Fromm",
       "lines": [
         {
-          "amount": 214.02,
+          "amount": 11.59,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Quick latch adnodized blue Air Cleaner Latch Kit x 6"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-07",
-      "doc_number": "E6040634",
-      "total": 47.42,
-      "attributed": 47.42,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 47.42,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Quik Latch QL-25-08-04 Mini Latch Pin, 1/4-20 x 4"
+          "description": "Shipping tool to Sean Cole (Phase1) for S3 IRAD work"
         }
       ]
     }

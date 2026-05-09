@@ -49,6 +49,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Planned: 4 experimentation events, 6 S0-AD aircraft (4 base + 2 option)
 - Phase II kickoff meeting completed April 21, 2026 with TPOC Angel Ruiz-Reyes
 - Kickoff brief submitted April 14, 2026
+- **Status Update (May 8, 2026):** Informal indication received that Phase II award appears likely based on "rumblings" from Navy contacts (not yet official)
 
 **Phase II Option Period (August 2026 - focus area):**
 - Status: Task modifications approved by Navy on April 21, 2026
@@ -92,6 +93,4 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Beck: Confirmed Camp Pendleton TCE dates (Aug 17-28) from Morris "DeSi" schedule (April 21, 2026)
 - Maciej: Created detailed Phase II Option tasks list in Asana with dates (April 21-22, 2026)
 - Beck: Closed CRT subcontract closure modification (April 20, 2026)
-- Maciej: Integrated Bartington sensor mechanically into ground test rig (May 6, 2026)
-- Beck: Sent email to Angel confirming Bartington sensor receipt and integration (May 6, 2026)
-- Jack Elston
+- Maciej: Integrated Bartington sensor mechanically into ground test rig (

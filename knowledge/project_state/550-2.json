@@ -33,7 +33,7 @@
         "amount": 25830.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-08"
+        "last_updated": "2026-05-09"
       },
       "purchases": {
         "amount": 0.0,
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": -2179.0,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-08T09:07:31Z"
+    "last_reconciled": "2026-05-09T09:07:37Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -148,19 +148,19 @@
     {
       "source": "FEEDBACK",
       "author": "Maciej",
-      "date": "2026-04-17",
-      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-04-17",
-      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
       "date": "2026-04-20",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-17",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-17",
       "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
     },
     {
@@ -216,8 +216,20 @@
       "author": "Daniel Prendergast",
       "date": "2026-05-04",
       "text": "From Daniel Prendergast (ts=1777477970.596279): <@U0AQE94HJUT> FYI, my priority today is to make slides for the 53rd Weather Squadron and SOCOM visit this Friday.  EMASS validation flights probably won't happen today.  We cannot perform those flights until they send us a new controller binary in the emass-bst slack channel.  EMASS validation flight #3 will most likely be Monday at the earliest.  EMASS validation flight #2 possibly tomorrow."
+    },
+    {
+      "source": "CORRECTION",
+      "author": "Jack",
+      "date": "2026-05-08",
+      "text": "From Jack: the navy sttr has priority, the SBIR is mostly on schedule"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Jack",
+      "date": "2026-05-08",
+      "text": "From Jack: <@U0AQE94HJUT> correction: the navy sttr has priority, the SBIR is mostly on schedule"
     }
   ],
-  "last_full_rebuild": "2026-05-08T09:07:31Z",
+  "last_full_rebuild": "2026-05-09T09:07:37Z",
   "last_incremental_update": null
 }

@@ -1,5 +1,5 @@
 # BST Financial Overview (QuickBooks)
-**Period: May 7–8, 2026 | Cumulative: April 2024 – May 2026**
+**Period: May 8–9, 2026 | Full Data Range: April 2024 – May 2026**
 
 ---
 
@@ -7,51 +7,63 @@
 
 | Metric | Amount |
 |--------|--------|
-| **Total Revenue (Invoiced)** | $6,859,917.98 |
-| **Total Expenses (Bills + Purchases)** | $2,466,946.65 |
-| **Net Income (Gross Position)** | $4,392,971.33 |
-
-*Note: P&L report shows only May 7–8 activity ($111,629 revenue, $4,262.63 expenses, $107,366.37 net)*
+| **Total Revenue (Invoices)** | $7,005,427.62 |
+| **Total Expenses (Bills & Purchases)** | $2,506,014.58 |
+| **Net Position** | **$4,499,413.04** |
+| **Outstanding Purchase Orders** | $4,509.50 |
 
 ---
 
-## By Project/Class
-**Sorted by Total Revenue (Highest First)**
+## Financial Performance by Project/Class
+
+**Ranked by Total Revenue (Highest First)**
 
 | Project | Revenue | Expenses | Net Position | Status |
 |---------|---------|----------|--------------|--------|
-| **Government** | $4,076,295.28 | $1,316,187.07 | **+$2,760,108.21** | Active (72 invoices) |
-| **Commercial** | $2,765,728.34 | $222,582.14 | **+$2,543,146.20** | Active |
-| **BST Internal** | $17,894.36 | $927,177.44 | **-$909,283.08** | High deficit |
+| **Government** | $4,176,070.28 | $1,316,187.07 | $2,859,883.21 | Largest revenue driver |
+| **Commercial** | $2,829,357.34 | $222,582.14 | $2,606,775.20 | Highly profitable |
+| **BST Internal** | $17,894.36 | $927,245.37 | -$909,350.99 | Expense-heavy; cost center |
 
 ---
 
 ## Cash Flow Indicators
 
 ### Accounts Receivable (Outstanding Balances)
-- **Government Projects**: $2,808,876.19 outstanding (69% of invoiced revenue)
-- **Commercial**: $63,735.00+ outstanding (recent May 8 invoice)
-- **Total AR**: ~$2,872,611+ in open balances
+- **Government Projects**: $2,908,551.19 outstanding across 74 active invoices
+- **Commercial Projects**: $63,735.00+ outstanding (invoice #1757 to By Light Halo)
+- **Total Outstanding**: ~$2,972,286.19+
 
-### Recent Activity (May 1–8)
-- **BST Internal**: +$11,012.32 in new expenses
-- **New Invoices**: Commercial (#1759, #1757) on May 8
-- **Purchase Orders Outstanding**: $4,509.50 total
-  - Amprius (PO #1038): $1,700.00
-  - Other vendors: $1,977.50–$2,809.50
+⚠️ **Note:** Over $2.9M in invoiced revenue remains uncollected, primarily from government clients.
 
-### Projects with No Recent Activity
-- **BST Internal**: Last invoice #175 (date not shown; likely archived/complete)
-- Most activity concentrated in Government & Commercial classes
+### Recent Activity (May 8–9, 2026)
+- **2 new transactions recorded**
+- Minimal expenses in period ($67.93): Shop supplies ($56.34) + IRAD R&D ($11.59)
+- Recent large invoice: $63,735.00 to By Light Halo (Commercial)
+
+### Outstanding Purchase Orders
+- **BST Internal**: $1,700.00 (Amprius, PO #1038)
+- **Commercial**: $1,977.50
+- **Government**: $832.00
 
 ---
 
-## Key Observations
+## Project Assessment
 
-⚠️ **BST Internal Class**: Significant deficit (-$909,283.08) suggests this is an overhead/R&D cost center rather than a revenue-generating project.
+| Project | Notes |
+|---------|-------|
+| **Government** | Active, high revenue, largest AR balance; 74+ invoices suggest ongoing programs |
+| **Commercial** | Profitable and lean; small team or selective engagements |
+| **BST Internal** | Internal cost center; 1,081+ transactions over 24 months suggest significant R&D/overhead absorption |
 
-✓ **Government & Commercial**: Both highly profitable; Government dominates revenue ($4.1M).
+---
 
-⚠️ **Cash Position**: Despite $6.86M in invoiced revenue, $2.87M+ remains uncollected—critical for cash flow management.
+## Data Completeness Note
 
-⚠️ **Period Limitation**: Provided data spans 24+ months. May 7–8 P&L shows only $111,629 in activity for a 2-day window.
+The vendor and customer breakdowns provided were truncated in the source data. Key observations:
+- **By Light Halo** is a significant commercial customer ($63,735 recent invoice)
+- **IRISS, CU Boulder** is a smaller commercial client ($664.98 recent invoice)
+- Top vendors and complete customer lists require full data extraction
+
+---
+
+**Summary:** BST is profitable overall at **$4.5M net**, driven by Government and Commercial projects. However, **significant AR concentration in Government** ($2.9M outstanding) creates cash flow risk. BST Internal operates as an internal cost center with negative $909K net position.

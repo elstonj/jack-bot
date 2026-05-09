@@ -1,48 +1,60 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,274 (1,217 previous + 57 from May 7–8)
-- **Date range:** March 25 – May 8, 2026 (45 days)
-- **Approximate volume:** ~28.3 emails/day (sustained high volume)
-- **May 7–8 activity:** 57 new messages — **Heavy operational/logistics surge** — May 7 dominated (49 messages, mixed human + transactional); May 8 lighter (8 messages); primary operational focus includes CNC parts tracking continuation, servo technical coordination follow-up, manufacturing quote responses (ProtoSpace, MicroHard), composite material orders (DragonPlate), sheet metal work (SendCutSend), metal stock/tools (Speedway Motors), and sensor components (Hall sensors via Amazon); heavy logistics/shipping tracking (UPS, DHL, Speedway, B&H Photo, JawsTec); internal meeting notes capture
+- **Total messages scanned:** 1,311 (1,274 previous + 37 from May 8–9)
+- **Date range:** March 25 – May 9, 2026 (46 days)
+- **Approximate volume:** ~28.5 emails/day (sustained high volume)
+- **May 8–9 activity:** 37 new messages — **Continued operational surge with shift toward hazmat/battery logistics and wing structure coordination** — May 8 dominated (35 messages, mixed human + transactional); May 9 lighter (2 messages); primary operational focus includes hazmat battery shipping case research (MM Solutions), wing structure documentation updates (Phase 1 AV), manufacturing quote follow-ups (Xometry ×2, ProtoSpace), parts inventory tracking (McMaster-Carr, Uline, JawsTec, HeliDirect, SendCutSend), and transactional logistics (DHL ×3 duplicate tracking, Pirate Ship, USPS, Amazon Hall sensors)
 
 ## Key Correspondents
 
 ### Top Human Senders (Updated)
-1. **Samantha** (Samantha@bestinparts.com) — Best In Parts — **Ongoing CNC coordination escalation** — May 8 09:37 UTC reply on order BST260505-B13699, marked IMPORTANT — **Multi-day tracking thread continues with high priority status**
-2. **Foster Hill** (fhill@mmsolutions.biz) — MM Solutions — **CRITICAL PAYMENT COORDINATION** — May 7 exchanges (16:51, 17:04 UTC, routed through Meredith Needham) on "Quote 00018935 > SO-42885", marked IMPORTANT — **Production order readiness escalation** (shift from May 6 foam/assembly leadtime crisis to May 7 payment authorization)
-3. **Chance Rogers** (chance.rogers@vertiq.co) — Vertiq — **Order tracking escalation** — May 7 09:47 UTC direct email marked IMPORTANT re: "Tracking SO-01510"; Josh replied 10:52 and 11:46 UTC same day — **Critical component/subsystem order status**
-4. **Jack Elston** (elstonj@blackswifttech.com) — Internal BST — DragonPlate order routed to him (May 7 18:33 UTC, 2 messages) — **Composite material procurement** — Continues strategic coordination
-5. **Joe Cione** (joe.cione@noaa.gov) — NOAA Federal — **NEW RESEARCH IMPACT DATA** — May 7 08:29 UTC, marked IMPORTANT, "S0 data impact study - 10% Model Improvement", forwarded to Josh, Jack Elston, Maciej Stachura, Daniel Prendergast, Alex Lomis — **Multi-stakeholder government research deliverable/milestone**
-6. **Meredith Needham** (meredith.needham@blackswifttech.com) — Internal BST — **Payment/procurement liaison escalation** — May 7 exchanges with Foster Hill (10:37–11:02 UTC) on payment authorization for MM Solutions quote — **Budget/payment gating function**
-7. **Joshua Fromm** (josh.fromm@blackswifttech.com) — Self-sent operational replies:
-   - May 7 10:37 UTC to Thomas Cooke (MKS Servos) — Servo availability follow-up
-   - May 7 11:46 UTC to Chance Rogers (Vertiq) — Order tracking response
-   - May 7 11:49 UTC to MicroHard Corp — CAD/STEP file request for enclosure pMDDL1624-SWP
-   - May 7 15:25 UTC to ProtoSpace Mfg — RFQ 255039 follow-up with account manager
+1. **Foster Hill** (fhill@mmsolutions.biz) — MM Solutions — **CRITICAL HAZMAT LOGISTICS ESCALATION** — May 8 19:13 UTC reply marked IMPORTANT on "Shipping case options for Hazmat (class 9) battery shipping" — Josh initiated May 8 12:51 — **Production readiness now includes safety/regulatory shipping requirements** — indicates battery component integration or final assembly stage
+2. **Sean Cole** (sean@phase1av.com) — Phase 1 AV — **NEW CRITICAL CONTACT — WING STRUCTURE DESIGN COORDINATION** — May 8 exchanges:
+   - Josh sent "Wing root rib alignment part" (11:25 PDT, 18:25 UTC)
+   - Sean replied "RE: Wing root rib alignment part" (17:57 UTC, marked IMPORTANT)
+   - Josh sent "Minor update to Wing structure guide" (12:52 MDT, 18:52 UTC)
+   - **Indicates active aircraft/wing component design iteration and documentation updates**
+3. **Jessica** (jessica@protospacemfg.com) — ProtoSpace Mfg — **ACCOUNT MANAGER INTRODUCTION & RFQ ESCALATION** — May 8 10:41 CDT marked IMPORTANT re: "RFQ 255039" — **Continues manufacturing quote follow-up with personalized account support**
+4. **Santiago Silva** (santiago.silva@xometry.com) — Xometry — **DUAL QUOTE ESCALATION WITH PRICING NEGOTIATION** — May 8 ×2 messages, both marked IMPORTANT:
+   - "Re: Xometry Quote Q05-8284-7892" (10:01 CDT)
+   - "Quote Follow Up | Q32-0323-4998 | Manual Pricing Reduction" (11:08 CDT)
+   - **Indicates active negotiation on two concurrent manufacturing quotes with manual price adjustment offered**
+5. **Samantha** (Samantha@bestinparts.com) — Best In Parts — CNC coordination (ongoing from previous period)
+6. **Chance Rogers** (chance.rogers@vertiq.co) — Vertiq — Order tracking (ongoing from previous period)
+7. **Meredith Needham** (meredith.needham@blackswifttech.com) — Internal BST — **Receives HeliDirect marketing** (May 8 20:01 UTC) routed to purchasing@, suggests procurement liaison role continues
 
-### Top Automated/Transactional Senders (Updated May 7–8)
+### Top Automated/Transactional Senders (Updated May 8–9)
 
-**Shipping/Logistics (Major surge):**
-- **DHL Express/DHL — DO NOT REPLY** — **5 messages** (May 7 12:13, 16:16 UTC; May 8 16:18 ×2, routed to purchasing@; May 7 23:44 MYT) — **Tracking #2550810194 repeated** — Indicates **multiple shipment notification bounce-backs or same international inbound** with customs/on-demand delivery messaging — **Heavy international component import activity**
-- **UPS** — 2 messages (May 7 14:25, 15:15 EDT) — "Your Packages Arrive Tomorrow" + tracking — **Domestic inbound consolidation**
-- **USPS Informed Delivery** — 1 message (May 7 13:27 UTC) — Daily digest
-- **Speedway Motors** — 4 messages (May 7 20:44–22:32 UTC) — Account registration + order placed/shipped + rewards enrollment — **NEW VENDOR** — Automotive/motorsports parts & tools platform activated
-- **B&H Photo Video** — 4 messages (May 7 13:21–19:36 EDT) — Order #1128888572 password reset + profile update + order confirmation + shipped notification — **Video/imaging equipment order placed and shipped same day**
-- **JawsTec** — 3 messages (May 7 21:51–22:21 UTC) — **Possible order delay ×3 (duplicate warnings)** — Indicates supplier communication concern or system error — **Order in-transit with delivery uncertainty flagged**
-- **SendCutSend** — 1 message (May 7 17:04 UTC, order SW65S791 delivered) — **Sheet metal/laser cutting service** — **Production work completed and shipped**
-- **ProtoLabs** — 2 messages (May 8 06:03, May 7 19:21 UTC) — Invoice #100-A000806052 + shipping confirmation order 5345-257 — **Rapid prototyping/manufacturing service** — Two concurrent orders with May 8 billing
+**Shipping/Logistics (Continued heavy activity):**
+- **DHL Express — DO NOT REPLY** — **3 messages** (May 9 15:14, 15:13, 08:35 MYT) — **Tracking #2550810194 continues repeating (sixth occurrence total)** — All routed to purchasing@ — **Indicates same international shipment with persistent notification issues OR multiple DHL import attempts with status updates** — **High probability of critical component import stuck in customs/delivery holding**
+- **UPS/USPS Informed Delivery** — Continued daily digest tracking
+- **Pirate Ship** — 1 message (May 8 18:27 UTC) — Receipt for $11.59 payment — **Shipping label/postage service** — Indicates small package outbound logistics
+- **HeliDirect** — 3 messages (May 8 ×3: 20:01 UTC marketing, 16:24 UTC out for delivery HDR653461, 12:59 UTC order out for delivery) — **Order HDR653461 in active delivery pipeline** — **Helicopter/drone components or related systems supplier**
+- **SendCutSend** — 1 message (May 8 16:24 UTC, order SX79V088 delivered) — **Sheet metal work order** — (Second SendCutSend order; previous order SW65S791)
+- **JawsTec** — 1 message (May 8 20:57 UTC) — "Your order from JawsTec is on its way!" — **Order status resolved** (previous May 7 duplicate delay warnings)
 
-**Procurement/Payment (Updated):**
-- **Protolabs (routed to Maciej Stachura)** — May 8 & May 7 — Two separate manufacturing orders in flight
-- **Amazon.com** — 1 message (May 8 04:50 UTC) — "Shipped: 3 Rotatable Hall Sensor,..." — **Sensor component order shipped** — **Likely for motor/encoder feedback systems**
+**Procurement/Suppliers (New/Updated):**
+- **McMaster-Carr** — 2 messages (May 8 16:58 CDT + 16:26 CDT) — Order confirmation + tracking certificates — **NEW VENDOR ACTIVATION** — Industrial supply platform — Order placed May 8
+- **Uline** — 2 messages (May 8 19:13 CDT confirmation + 13:44 CDT order confirmation) — Order 52080239 — **NEW VENDOR ACTIVATION** — Maintenance/industrial supply platform — Shipped same day
+- **Amazon.com** — 2 messages (May 8 22:05 ×2 UTC) — Delivered Hall sensors (duplicate notification) — Confirms May 7 sensor order delivery
+- **ProtoSpace Mfg** — 1 message (May 8 12:52 PDT) — Marketing email on "Chemical conversion coating without the wait" — Manufacturing process optimization outreach
 
-**Promotional/Marketing (May 7–8):**
-- **Harbor Freight** — 2 messages (May 8 04:50, 06:03 UTC; continuing May 7) — "10 DAYS OF DEALS Day 8" + "$34.99 In-Store Purchase Free Gift" — **Ongoing tool promotion engagement**
-- **AliExpress** — 1 message (May 7 11:02 PDT) — "we thought of you" — **Continued bulk electronics marketplace follow-up**
-- **Xometry** — 1 message (May 7 09:03 UTC, to josh.fromm@) — "NEW: Clear, Rigid, and Flexible Printing Materials" — **3D printing/additive manufacturing platform marketing**
-- **Fictiv** — 1 message (May 7 09:13 CDT) — "CNC Quotes w/ Drawings: Clarity Unlocked" — **CNC manufacturing marketplace promotion**
-- **Kollmorgen/Regal Rexnord** — 1 message (May 7 07:18 PDT, marked PROMOTIONS) — "Join Kollmorgen... at Xponential 2026 – Booth #36023" — **Aerospace & Defense trade show invite**
-- **Hilton Honors** — 1 message (May 7 22:28 UTC, marked CATEGORY_PROMOTIONS) — "130K Points offer toward summer escape" — **Travel reward marketing**
-- **Budget Car Rental** — 1 message (May 7 16:07 MDT, marked PROMOTIONS) — "traveling soon? Claim your Double Deal" — **Travel/rental marketing**
-- **Frontier Airlines** — 1 message (May 7 12:44 UTC, marked **IMPORTANT + PROMOTIONS**) — CEO message "We're your value airline" — **Travel marketing flagged as important (possible
+**Mailing Lists/Newsletters:**
+- **UAS Vision** (russ@uasvision.com) — 1 message (May 8 10:05 UTC) — "DAILY NEWS" — **UAS/drone industry news digest subscription** — Indicates aerospace/UAS sector focus
+- **Asana** — 1 message (May 8 16:47 UTC) — Task notification — Project management platform activity
+
+**Trade Show/Event Invites:**
+- **Chris Haller** (chris@spacesoftwaresummit.com) — 1 message (May 8 15:11 GMT, marked PROMOTIONS) — "Don't Miss Your Chance to Share at Space Software Summit" — **Speaking opportunity OR attendance invite** — Aerospace/space software focus
+- **Kollmorgen** — 1 message (May 8 07:34 PDT, marked PROMOTIONS) — "Join Kollmorgen at Xponential 2026 – Booth #36023" — Aerospace & Defense trade show
+
+**Promotional/Marketing (May 8–9):**
+- **Harbor Freight** — 2 messages (May 9 05:03 UTC Day 9 + May 8 17:57 UTC exclusive offers) — "10 DAYS OF DEALS" continuation — Tool promotions ongoing
+- **Birdcall** (fast casual restaurant) — 1 message (May 8 16:03 UTC, marked **IMPORTANT + PROMOTIONS**) — "Last Chance for FREE 5-Piece Tenders" — **Personal/local restaurant marketing (unusual to flag as important)**
+- **AliExpress** — 1 message (May 8 12:13 PDT, marked CATEGORY_PROMOTIONS) — "Bestsellers made more affordable"
+- **TraceParts** — 1 message (May 8 16:35 CEST, marked PROMOTIONS) — "Enhance robotic systems performance" — 3D CAD content platform
+- **Expedia.com** — 1 message (May 8 02:52 MDT, marked PROMOTIONS) — Hotel deals under $150
+
+## Topic Patterns
+
+### Primary Operational Themes

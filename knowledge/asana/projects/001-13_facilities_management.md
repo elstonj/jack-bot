@@ -21,25 +21,22 @@
 - **Lease termination planning** (unassigned, no due date)
 
 ## Task Summary
-- **Total tasks**: 2 open, 3 completed
+- **Total tasks**: 2 open, 0 completed (in current data snapshot)
 - **Tasks by assignee**:
-  - **Meredith O'hara Needham**: 2 open, 3 completed (~60% completion rate)
+  - **Meredith O'hara Needham**: 2 open
     - Office Cleaning (due 2026-05-16, open)
-    - Ongoing Office Purchasing List (due 2026-05-15, open)
+    - Ongoing Office Purchasing List (due 2026-05-15, open; notes: "Collect purchases for the week here")
 - **Notable patterns**: 
   - Recurring tasks completed in batches, typically 1–8 days after due date
-  - Most recent batch (2026-05-01 through 2026-05-08): all three completed on 2026-05-07 (single day batch)
+  - Historical batch completion: most recent batch (2026-05-01 through 2026-05-08) all completed on 2026-05-07 (single day batch)
   - Predictable operational rhythm; delays are structural to workflow, not anomalies
   - High task completion rate despite consistent "late" closure dates
 
 ## Recent Activity
-- **2026-05-07**: Batch completion of three recurring tasks
-  - Ongoing Office Purchasing List (due 2026-05-01) — completed 2026-05-07
-  - Office Cleaning (due 2026-05-02) — completed 2026-05-07
-  - Ongoing Office Purchasing List (due 2026-05-08) — completed 2026-05-07
-- **Current state**: 2 open tasks in next batch cycle
+- **Current state**: 2 open tasks in active batch cycle
   - Ongoing Office Purchasing List due 2026-05-15
   - Office Cleaning due 2026-05-16
+- **Historical pattern**: Previous batches consistently closed 1–8 days after due date, with all tasks in a batch completed on the same day
 - **Operational momentum**: Project continues efficient batch completion pattern; recurring schedule is stable and predictable
 
 ## Notes & Context

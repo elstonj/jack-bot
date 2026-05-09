@@ -1,10 +1,10 @@
 # Government — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $4,076,295.28
+- **Total Invoiced (Revenue):** $4,176,070.28
 - **Total Expenses (Bills + Purchases):** $1,316,187.07
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $2,760,108.21 (invoiced minus expenses)
+- **Net Position:** $2,859,883.21 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -12,9 +12,9 @@
 ## Revenue (Invoices & Payments)
 
 ### Summary
-- **Total Invoiced:** $4,076,295.28
-- **Total Collected (Outstanding Balance):** $2,808,876.19 remaining (invoices with open balances)
-- **Number of Invoices:** 72 active invoices
+- **Total Invoiced:** $4,176,070.28
+- **Total Collected (Outstanding Balance):** $2,908,551.19 remaining (invoices with open balances)
+- **Number of Invoices:** 74 active invoices
 
 ### Major Revenue Streams by Project
 
@@ -23,7 +23,7 @@
 | (400-5) SMM Phase II 22.4D | $1,699,725.00 | CLIN work (004-008): Algorithm dev, field testing, refinement; Soil Moisture Mapping |
 | [300-3] 2026 IDIQ | $720,000.00 | 6 invoices (Invoices 2-6: #1737–#1741), CLIN 1001 modification P26002 + Operational Testing & Support (#1757) |
 | [301-3] S0 Hurricane Phase II 2025 | $844,449.61 | Progress payments, platform deliveries, training & operations |
-| [550-1] Navy SBIR Magnetometer | $562,836.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750) |
+| [550-1] Navy SBIR Magnetometer | $612,295.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750) |
 | [550-2] Navy STTR Hazardous Weather | $216,326.00 | Kick-off, progress, final reports & TABA |
 | [200-14] Autonomy | $156,211.00 | CLIN 0001-0005, initial through final invoicing |
 | [200-11] NASA Persistence Demo | $74,428.00 | Interim & final demonstration reports |
@@ -35,13 +35,15 @@
 | [350] USGS | $2,000.00 | S3 Battery |
 | (207) Volcano CCRPP | $254,997.00 | Final reports |
 | (210-10) AREN 2024 | $92,500.00 | Aerospace Engineering |
+| NOAA UASD & UxSOC | $9,320.00 | **NEW:** Display Model S0 units with tripods & shipping (Invoices #1761–#1762, 2026-05-08) |
 
-**Recent invoices (2026-05-01 to 2026-09-28):**
-- **Invoice #1738** (2026-05-01): $54,000.00 — CLIN 1001 Invoice 3 of 6 [300-3] 2026 IDIQ
+**Recent invoices (2026-05-08 to 2026-09-28):**
+- **Invoice #1761** (2026-05-08): $4,660.00 — Display Model S0 + tripod + shipping [NOAA UxSOC]
+- **Invoice #1762** (2026-05-08): $4,660.00 — Display Model S0 + tripod + shipping [NOAA UASD]
+- **Invoice #1749** (2026-06-29): $35,000.00 — Navy SBIR CLIN 0006 Progress Report - Option [550-1]
 - **Invoice #1739** (2026-07-02): $72,000.00 — CLIN 1001 Invoice 4 of 6 [300-3] 2026 IDIQ
 - **Invoice #1740** (2026-07-02): $72,000.00 — CLIN 1001 Invoice 5 of 6 [300-3] 2026 IDIQ
 - **Invoice #1741** (2026-07-30): $72,000.00 — CLIN 1001 Invoice 6 of 6 [300-3] 2026 IDIQ
-- **Invoice #1749** (2026-06-29): $35,000.00 — Navy SBIR CLIN 0006 Progress Report - Option [550-1]
 - **Invoice #1750** (2026-09-28): $14,459.00 — Navy SBIR CLIN 0007 Final Report [550-1]
 
 ---
@@ -74,7 +76,7 @@
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
 - **JAWSTEC:** $19,627.62 (components for S0 platforms)
-- **Amprius battery systems:** $28,637.13 (wire transfers, 01/06/26) + **$399.00** (2026-04-29, SA504 x7 quote #00001876) + **$399.00** (2026-05-01, 8643C6/Max10.8Ah/4.25V x 7)
+- **Amprius battery systems:** $28,637.13 (wire transfers, 01/06/26) + $399.00 (2026-04-29, SA504 x7 quote #00001876) + $399.00 (2026-05-01, 8643C6/Max10.8Ah/4.25V x 7)
   - **Total Amprius: $29,435.13**
 - **Microwave Filter Company / Pressure sensor imports:** $46,079.48 (tariffs included)
 - **General electronics components:** ~$50,000+ (various suppliers)
@@ -133,11 +135,4 @@ No standalone equipment purchases; equipment purchases categorized under Materia
   - $41.44 DC-Direct Cost Shipping, Freight & Delivery
   - $62.16 Inventory Asset (For future sales of 6 S0s)
 - **DHL/FedEx tariffs on PCB imports:** $234.60+
-- **USPS reimbursements:** $12.25 + $25.45
-- **Various parcel shipping:** $200+ across multiple vendors
-
-**Note:** Tool shipping to Sean Cole (Phase1 Aviation) for S0 manufacturing ($28.75, 2026-04-10) is allocated to Facilities/Shop Supplies.
-
----
-
-### **Indirect Costs (Overhead, Fringe, G&A): $119,
+- **USPS reimbursements:**

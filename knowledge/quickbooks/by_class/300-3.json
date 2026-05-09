@@ -4,16 +4,13 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-05-07",
-    "end": "2026-05-08"
+    "start": "2026-05-08",
+    "end": "2026-05-09"
   },
   "totals": {
     "revenue": 216000.0,
-    "expenses": 479.8,
-    "by_category": {
-      "DIRECT COSTS:DC-Direct Cost Purchases": 292.93,
-      "Inventory Asset": 186.87
-    }
+    "expenses": 0.0,
+    "by_category": {}
   },
   "invoices": [
     {
@@ -87,31 +84,7 @@
     }
   ],
   "bills": [],
-  "purchases": [
-    {
-      "type": "Purchase",
-      "date": "2026-05-07",
-      "doc_number": "1288885721",
-      "total": 785.88,
-      "attributed": 479.8,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Inventory Asset is for future sales of S3",
-      "lines": [
-        {
-          "amount": 479.8,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
-          "description": "Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head x 4"
-        },
-        {
-          "amount": 306.08,
-          "account": "Inventory Asset",
-          "description": "Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head x 2"
-        }
-      ]
-    }
-  ],
+  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

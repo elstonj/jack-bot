@@ -5,7 +5,7 @@ This channel is for the 2025 NASA SBIR Phase I autonomy project focused on devel
 
 **Key participants:** Jack Elston, Dan Prendergast, Maciej, Ben Busby, Beck Cotter, Meredith Needham
 
-**Activity level:** High activity throughout the project period with regular meetings and deliverables. Project completion phase (March-April 2026) shows transition to Phase II planning. Currently in active Phase II proposal development stage with multiple BAA opportunities under evaluation. Recent focus (May 2026) on Phase II proposal requirements including capital commitments documentation.
+**Activity level:** High activity throughout the project period with regular meetings and deliverables. Project completion phase (March-April 2026) shows transition to Phase II planning. Currently in active Phase II proposal development stage with multiple BAA opportunities under evaluation. Recent focus (May 2026) on Phase II proposal requirements including capital commitments documentation, budget refinement, and aircraft platform acquisition specifications.
 
 ## Key Decisions
 - **October 2025:** Decided against using NASA's Core Flight System (cFS) due to being too heavyweight for BST's needs, despite it being designed for spacecraft
@@ -14,18 +14,23 @@ This channel is for the 2025 NASA SBIR Phase I autonomy project focused on devel
 - **December 2025:** Decided not to mark any information as proprietary in the interim report since it was developed using SBIR funds
 - **April 2026:** Proceeding with Phase II proposal under new NASA SBIR BAA structure following Congressional reauthorization
 - **April 27, 2026:** Evaluating Phase II proposal fit across multiple NASA BAA opportunities (SBIR 26A-1, SBIR 26B-1, STTR 26B-1) with May 21, 2026 deadline
+- **May 8, 2026:** Phase II aircraft platform acquisition strategy finalized—shifting from daily rental model to dedicated platform purchases for testing campaign:
+  - **1x S3 VTOL**
+  - **2x S0-VTOL** (with potential redesign opportunity)
+  - **2x E2 multirotor** (with potential redesign opportunity)
+  - **Dropped S2 fixed-wing** from original platform list
 
 ## Projects & Initiatives
 - **SwiftCore 4.0/SwiftPilot Architecture:** Development of modular flight control system with layered approach
 - **Safe Sandbox Environment:** Creating supervisory control system capable of overriding experimental control inputs
 - **ML Controller Development:** Training simple ML controllers for terrain following using altitude control datasets
 - **Hardware Integration:** Porting FreeRTOS to AP hardware and implementing Nix on Raspberry Pi
-- **Phase II Proposal:** Active development across multiple NASA SBIR/STTR BAA opportunities; strategic alignment assessment underway for best fit subtopics; currently working on Phase II proposal components including capital commitments addendum
+- **Phase II Proposal:** Active development across multiple NASA SBIR/STTR BAA opportunities; strategic alignment assessment underway for best fit subtopics; currently working on Phase II proposal components including capital commitments addendum and detailed budget specifications for hardware, components, and aircraft platforms
 
 ## Action Items & Commitments
 - **Dan Prendergast:** Led architecture design, slide deck creation, and report writing
-- **Beck Cotter:** Project management, report coordination, client communications; initiated Phase II draft proposal (April 9, 2026); forwarded NASA '26 BAA announcements (April 21, 2026); identified Phase II proposal fit across multiple BAA opportunities and evaluated subtopic alignments (April 27, 2026); identified capital commitments addendum requirement (May 6, 2026)
-- **Jack Elston:** Hardware implementation, sensor integration, technical oversight; tasked with coordinating capital commitment letters from Adria, Bob, and Lisa Marie (May 6, 2026)
+- **Beck Cotter:** Project management, report coordination, client communications; initiated Phase II draft proposal (April 9, 2026); forwarded NASA '26 BAA announcements (April 21, 2026); identified Phase II proposal fit across multiple BAA opportunities and evaluated subtopic alignments (April 27, 2026); identified capital commitments addendum requirement (May 6, 2026); clarifying Phase II budget details for components and platform acquisition (May 8, 2026)
+- **Jack Elston:** Hardware implementation, sensor integration, technical oversight; tasked with coordinating capital commitment letters from Adria, Bob, and Lisa Marie (May 6, 2026); provided specification guidance for Phase II aircraft platform acquisition strategy (May 8, 2026)
 - **Ben Busby:** Simulation environment development and testing
 - **Maciej:** System architecture input and technical guidance
 - **Meredith Needham:** Successfully submitted all Phase I deliverables to ProSAMS (March 27, 2026); confirmed acceptance (April 9, 2026)
@@ -50,6 +55,7 @@ This channel is for the 2025 NASA SBIR Phase I autonomy project focused on devel
 - Phase II proposal preparation and BAA guidance
 - Identification and evaluation of best-fit subtopics across multiple NASA solicitations
 - Phase II proposal component completion and capital commitment documentation
+- Phase II budget specifications and platform acquisition planning
 
 ## Important Resources
 - [Project Brief](https://docs.google.com/document/d/1xfT370jdPLRoWR2VJVo4v83mDSp7kEqQv0qcRbBXN34/edit?usp=sharing)
@@ -70,16 +76,4 @@ This channel is for the 2025 NASA SBIR Phase I autonomy project focused on devel
   
 - **AERO.4.02 – Resilient Control and Navigation for UAS**
   - Focus: Robust flight control, operations under disturbances and uncertainty
-  - *BST Fit:* Direct alignment with Black Swift's high-wind/turbulence operations capabilities
   
-- **AERO.5.01 – Intelligent Flight Systems and Autonomy**
-  - Focus: Adaptive decision-making, real-time autonomy
-  - *BST Fit:* Edge autonomy + adaptive sampling capabilities
-
-## Phase II Proposal Requirements (May 2026)
-
-### Capital Commitments Addendum (Newly Identified)
-- **Requirement:** Section 3.4.6 of Phase II proposal requires Letters of Capital Commitment
-- **Purpose:** Act as indication of market validation and add credibility to proposed effort
-- **Source:** Must come from potential customers, end users, strategic partners, or investors
-- **Format:** Maximum

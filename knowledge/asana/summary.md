@@ -1,106 +1,131 @@
 # Asana Projects Overview
 
-Last scanned: 2026-05-08 02:07
+Last scanned: 2026-05-09 02:07
 
-Total projects scanned: 17
+Total projects scanned: 11
 
 ## Projects
 
-- **View: Flight Testing** — 1 tasks — [view_flight_testing.md](view_flight_testing.md)
-- **[001-03] S0-AD IRAD** — 0 tasks — [001-03_s0-ad_irad.md](001-03_s0-ad_irad.md)
-- **[001-07] S3 IRAD** — 2 tasks — [001-07_s3_irad.md](001-07_s3_irad.md)
-- **[001-13] Accounting** — 16 tasks — [001-13_accounting.md](001-13_accounting.md)
-- **[001-13] Facilities Management** — 5 tasks — [001-13_facilities_management.md](001-13_facilities_management.md)
-- **[001-13] General Operations** — 2 tasks — [001-13_general_operations.md](001-13_general_operations.md)
-- **[001-13] HR General ** — 1 tasks — [001-13_hr_general.md](001-13_hr_general.md)
-- **[001-13] Proposals** — 3 tasks — [001-13_proposals.md](001-13_proposals.md)
-- **[001-13] Purchasing** — 9 tasks — [001-13_purchasing.md](001-13_purchasing.md)
-- **[001-22] Fleet Maintenance** — 1 tasks — [001-22_fleet_maintenance.md](001-22_fleet_maintenance.md)
-- **[001-23] SOCOM S0-AD** — 0 tasks — [001-23_socom_s0-ad.md](001-23_socom_s0-ad.md)
-- **[043-3] ByLight M2/Halo** — 3 tasks — [043-3_bylight_m2halo.md](043-3_bylight_m2halo.md)
-- **[044-1] EMASS Chip Integration** — 1 tasks — [044-1_emass_chip_integration.md](044-1_emass_chip_integration.md)
-- **[300-3] 2026 IDIQ (Hurricane)** — 1 tasks — [300-3_2026_idiq_hurricane.md](300-3_2026_idiq_hurricane.md)
-- **[350-4] 2024 USGS - Chile (Mexico)** — 1 tasks — [350-4_2024_usgs_-_chile_mexico.md](350-4_2024_usgs_-_chile_mexico.md)
+- **[001-07] S3 IRAD** — 7 tasks — [001-07_s3_irad.md](001-07_s3_irad.md)
+- **[001-13] Accounting** — 2 tasks — [001-13_accounting.md](001-13_accounting.md)
+- **[001-13] BD Pipeline** — 2 tasks — [001-13_bd_pipeline.md](001-13_bd_pipeline.md)
+- **[001-13] Facilities Management** — 2 tasks — [001-13_facilities_management.md](001-13_facilities_management.md)
+- **[001-13] Proposals** — 2 tasks — [001-13_proposals.md](001-13_proposals.md)
+- **[001-13] Purchasing** — 12 tasks — [001-13_purchasing.md](001-13_purchasing.md)
+- **[005-1] BARBADOS VTOL S0 and Training ** — 1 tasks — [005-1_barbados_vtol_s0_and_training.md](005-1_barbados_vtol_s0_and_training.md)
+- **[043-3] ByLight M2/Halo** — 1 tasks — [043-3_bylight_m2halo.md](043-3_bylight_m2halo.md)
+- **[300-3] 2026 IDIQ (Hurricane)** — 2 tasks — [300-3_2026_idiq_hurricane.md](300-3_2026_idiq_hurricane.md)
 - **[550-1] NAVY SBIR: Magnetometer** — 1 tasks — [550-1_navy_sbir_magnetometer.md](550-1_navy_sbir_magnetometer.md)
 - **[550-2] Navy STTR: Hazardous Weather** — 1 tasks — [550-2_navy_sttr_hazardous_weather.md](550-2_navy_sttr_hazardous_weather.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies (BST) Project Portfolio Summary
+# Black Swift Technologies – Project Portfolio Overview
 
-## Portfolio Overview
+## Portfolio Summary
 
 | Metric | Value |
 |--------|-------|
-| **Total Quantified Value** | $843,556 |
-| **Active Client Projects** | 5 |
-| **Internal/Operational Projects** | 8 |
-| **Archived/Inactive Projects** | 2 |
+| **Total Tracked Value** | ~$651,663+ |
+| **Active Government Contracts** | 4 (Navy SBIR/STTR, NOAA IDIQ) |
+| **Active Internal Projects** | 4 (S3 IRAD, Purchasing, Facilities, BD Pipeline) |
+| **Active Commercial/International** | 1 (Barbados VTOL) |
+| **Total Active Projects** | 9+ |
 
 ---
 
-## Key Active Projects (Client Work)
+## Key Active Projects
 
-| Project | Client | Value | Status | Key Deadline |
-|---------|--------|-------|--------|--------------|
-| [300-3] 2026 IDIQ (Hurricane) | NOAA | $483,000 | **CRITICAL — Overdue items** | July 31, 2026 |
-| [550-2] Navy STTR: Hazardous Weather | Navy ONR | $146,326 | Option Period in progress | Sept 1, 2026 |
-| [550-1] Navy SBIR: Magnetometer | Navy NAVAIR | *Not specified* | Active | *Not specified* |
-| [350-4] USGS Chile (Mexico) | USGS | $124,230 | **DELAYED** (Fall 2026) | Aug 30, 2025 contract |
-| [044-1] EMASS Chip Integration | EMASS (Commercial) | $90,000 | **BLOCKED** on external validation | May 2026 |
+### High-Value / Critical Phase
+1. **[300-3] 2026 IDIQ (Hurricane)** — $483,000 | NOAA/UxSOC
+   - Status: **CRITICAL.** 4/6 invoices completed; firmware fix completed 7 days late
+   - Deadline: July 31, 2026 (invoice cycle March–July)
+   - Risk: One overdue validation task remains open
+
+2. **[550-2] Navy STTR: Hazardous Weather** — $146,326 | Dept. of Navy (ONR)
+   - Status: Option Period in progress (Jan 7 – Jul 6, 2026)
+   - Final deliverable: September 1, 2026
+   - Lead: Maciej Stachura
+
+3. **[550-1] NAVY SBIR: Magnetometer** — Value TBD | NAVAIR/NAWCAD
+   - Status: Active (details partially provided)
+   - TPOC: Angel Ruiz-Reyes; Secondary: Anthony Brescia
+
+### Medium-Value / Development Stage
+4. **[001-07] S3 IRAD** — Internal R&D | Active since 2023
+   - **First Article (Mexico) milestone: COMPLETED April 28, 2026**
+   - Key completed milestones: Mass Model Test (Mar 9), Mexico Capabilities (Dec 16), Flamewheel Test (Nov 18)
+   - Status: Progressing on schedule
+
+5. **[005-1] Barbados VTOL S0 & Training** — $22,337 | Barbados Meteorological Services
+   - S0 VTOL delivery: May 22, 2026
+   - S0 VTOL handoff: June 23, 2026
+   - Status: On track (original 2024 deadline passed; current milestones ahead)
+
+### Operational / Support
+6. **[001-13] Purchasing** — Ongoing | All projects
+   - Status: **12 open tasks** (↑ from 9); high workload concentration
+   - Team: Nate Straus (58.3%), Meredith O'hara Needham (41.7%)
+   - Critical orders due: May 1–10, 2026
+
+7. **[001-13] Facilities Management** — Ongoing | Internal operations
+   - Cost: $13.00–$14.63 NNN + $6.23 CAM over 60-month lease
+   - Status: High completion rate; smooth recurring cycles
+
+8. **[001-13] BD Pipeline** — $2.3M+ historical | Sales pipeline
+   - Status: **CRITICAL VISIBILITY GAP** — Asana shows $0 in current pipeline; data integrity issue
+   - Deadlines: Many Q2 2026 opportunities now past due
+
+9. **[001-13] Accounting & [001-13] Proposals** — Minor operational
+   - 2 open accounting tasks (invoices, QB records) — Meredith O'hara Needham
+   - 2 DoD SBIR proposals (2026 BAA) — Dan Prendergast
+
+10. **[043-3] ByLight M2/Halo** — Minor maintenance
+    - 1 task: Launch fastener/railing repair — Nate Straus
 
 ---
 
 ## Risk Areas
 
-### 🔴 Critical
-- **[300-3] NOAA Hurricane**: Significant overdue deliverables with critical path concerns
-- **[044-1] EMASS**: Project blocked pending external validation flight completion (Validation Flight #2 pending with Dan Prendergast)
-
-### 🟡 High
-- **[350-4] USGS Chile**: Deployment delayed from April 2026 to Fall 2026
-- **[001-07] S3 IRAD**: Latest update November 2023 (stale data); recent milestones (April 2026) suggest active work but documentation outdated
-
----
-
-## Internal Operations Status
-
-| Project | Owner | Tasks | Notes |
-|---------|-------|-------|-------|
-| [001-13] Purchasing | Team | 9 open | Critical orders due May 1–9, 2026; workload shift to Nate Straus (55.6%) |
-| [001-13] Accounting | M. Needham | Monthly cycle | Recurring; current open tasks due May–June 2026 |
-| [001-13] Facilities | M. Needham | Ongoing | Active; high completion rate |
-| [001-13] Proposals | Beck Cotter | 3 open | NASA subcontract & RFI submissions |
-| [001-22] Fleet Maintenance | Dan Prendergast | 1 open | Minimal activity; 8 aircraft in scope |
-| [043-3] ByLight M2/Halo | Team | 3 open | Hardware work + invoice scope ($47,894) |
+| Risk | Impact | Status |
+|------|--------|--------|
+| **BD Pipeline Data Loss** | Revenue visibility; opportunity tracking | 🔴 CRITICAL — $2.3M+ historical pipeline shows $0 current value |
+| **NOAA IDIQ Firmware Delay** | Schedule slippage | 🟠 ACTIVE — 7-day delay; overdue validation remains |
+| **Purchasing Workload Concentration** | Burnout, bottleneck | 🟠 ACTIVE — 58% load on Nate Straus; 12 open tasks |
+| **BD Pipeline Past-Due Q2 2026 Opportunities** | Lost revenue | 🟠 ACTIVE — Multiple deadlines passed; visibility degraded |
+| **S3 IRAD Timeline** | Milestone tracking | 🟢 On track (latest snapshot dated Nov 29, 2023; needs update) |
 
 ---
 
 ## Team Allocation Patterns
 
-- **Meredith O'hara Needham**: Operations hub (Accounting, Facilities, HR, Purchasing backup)
-- **Nate Straus**: Purchasing primary (55.6% of purchasing tasks)
-- **Dan Prendergast**: Flight testing & fleet operations
-- **Beck Cotter**: Proposals & business development
-- **Maciej Stachura**: Navy STTR project lead
+| Team Member | Primary Roles | Load |
+|---|---|---|
+| **Nate Straus** | Purchasing, facilities, maintenance | Heavy (58% of 12 purchasing tasks) |
+| **Meredith O'hara Needham** | Purchasing, facilities, accounting | Heavy (42% of purchasing; accounting tasks) |
+| **Maciej Stachura** | Navy STTR project owner | Medium |
+| **Dan Prendergast** | Proposal development (DoD SBIR) | Low–Medium |
+| **Other team members** | S3 IRAD, various projects | Unspecified |
 
 ---
 
-## Upcoming Critical Deadlines
+## Upcoming Key Deadlines
 
-| Date | Project | Item |
-|------|---------|------|
-| May 1–9, 2026 | [001-13] Purchasing | Critical orders due |
-| May 2026 | [044-1] EMASS | Final validation completion |
-| Sept 1, 2026 | [550-2] Navy STTR | Final deliverable |
-| July 31, 2026 | [300-3] NOAA Hurricane | Project completion & invoicing |
-| Fall 2026 | [350-4] USGS | Deployment window |
+| Date | Milestone | Project | Status |
+|------|-----------|---------|--------|
+| **May 1–10, 2026** | Critical purchase orders | Purchasing | Active |
+| **May 22, 2026** | S0 VTOL delivery | Barbados | On track |
+| **June 23, 2026** | S0 VTOL handoff meeting | Barbados | Planned |
+| **July 6, 2026** | Navy STTR Option Period ends | [550-2] | In progress |
+| **July 31, 2026** | NOAA IDIQ project due | [300-3] | 🔴 Critical phase (1 task overdue) |
+| **September 1, 2026** | Navy STTR final deliverable | [550-2] | On schedule |
 
 ---
 
 ## Recommendations
 
-1. **Immediate**: Address [300-3] NOAA overdue items and [044-1] EMASS external dependency blockers
-2. **Near-term**: Update [001-07] S3 IRAD project documentation (last update Nov 2023)
-3. **Planning**: Confirm [550-1] Navy SBIR budget and timeline details
-4. **Capacity**: Monitor purchasing/operations load on M. Needham and Nate Straus through May 2026
+1. **Urgent**: Recover BD Pipeline visibility — conduct data audit and update $0 pipeline values
+2. **Urgent**: Close overdue NOAA IDIQ validation task (July 31 hard deadline)
+3. **Important**: Redistribute purchasing workload from Nate Straus to mitigate burnout risk
+4. **Important**: Update S3 IRAD snapshot (data from Nov 2023; confirm current status post-April 2026 milestone)
+5. **Track**: Barbados VTOL May 22 delivery and June 23 handoff readiness
