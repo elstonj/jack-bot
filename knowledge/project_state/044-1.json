@@ -29,7 +29,7 @@
         "amount": 27137.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-09"
+        "last_updated": "2026-05-10"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 62815.7,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-09T09:05:54Z"
+    "last_reconciled": "2026-05-10T08:51:40Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -154,6 +154,6 @@
       "text": "From Daniel Prendergast: <@U06KRHPQSRH> did EMASS ever pay the second invoice?"
     }
   ],
-  "last_full_rebuild": "2026-05-09T09:05:54Z",
+  "last_full_rebuild": "2026-05-10T08:51:40Z",
   "last_incremental_update": null
 }

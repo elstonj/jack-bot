@@ -1,66 +1,66 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,093 (1,070 previous + 23 new)
-- **Date range:** March 16 – May 9, 2026 (approximately 55 days)
-- **Approximate volume:** ~19.9 emails per day
-- **New batch (May 8–9):** 23 messages. **~96% automated/logistics** (vendor shipments, order confirmations, tracking notifications, promotional emails). **~4% direct human correspondence** (1 direct email: Matt Crabtree to Jack Elston re: Hurricane Season Builds - Part Sourcing; 1 Asana task alert; 1 Toggl Track time-tracking notification).
+- **Total messages scanned:** 1,103 (1,093 previous + 10 new)
+- **Date range:** March 16 – May 10, 2026 (approximately 56 days)
+- **Approximate volume:** ~19.7 emails per day
+- **New batch (May 9–10):** 10 messages. **~100% automated/logistics** (vendor shipments, order confirmations, promotional emails, shipping digests). **Zero direct human correspondence in this batch.**
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Jack Elston** (elstonj@blackswifttech.com, purchasing@blackswifttech.com) — **ESCALATED PROJECT VISIBILITY**: Now appears as direct recipient of external partner correspondence (Matt Crabtree/Waveform Engineering re: Hurricane Season Builds - Part Sourcing, May 8, 16:55 UTC, marked IMPORTANT); indicates executive-level partnership coordination on external sourcing initiatives
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — **NEW ACTIVITY**: Pirate Ship shipping label payment receipt routed to Josh Fromm (May 8, 18:27 UTC); suggests direct involvement in logistics/shipping coordination
-- **Meredith O'Hara Needham** (purchasing@blackswifttech.com) — **PRIMARY ROTORCRAFT VENDOR CONTACT CONFIRMED**: HeliDirect newsletter content (Protos 380/420 rotor upgrade documentation) directly routed May 8, 20:01 UTC; reinforces rotorcraft-specific procurement responsibility
-- **Frank Strazzabosco, Dan Prendergast, Maciej Stachura** — No new direct correspondence in this batch (previous patterns continue via Asana)
+- **Jack Elston** (elstonj@blackswifttech.com, purchasing@blackswifttech.com) — Executive-level partnership coordination on external sourcing initiatives (Hurricane Season Builds - Part Sourcing)
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Direct involvement in logistics/shipping coordination
+- **Meredith O'Hara Needham** (purchasing@blackswifttech.com) — Primary rotorcraft vendor contact; receives rotorcraft-specific procurement notifications
 
 ### External Contacts (Engineering Partners, Component Suppliers & Logistics)
 
-**NEW EXTERNAL PARTNER SIGNAL:**
-- **Matt Crabtree** (matt.crabtree@waveformengineering.com) — **CRITICAL EXTERNAL ENGINEERING PARTNER — NEW VISIBILITY**: Direct email to Jack Elston (May 8, 16:55 UTC) marked IMPORTANT, subject "RE: Update - Hurricane Season Builds - Part Sourcing"; indicates external engineering firm collaboration on seasonal production scaling; appears to be pre-existing thread continuing into May 8; **Waveform Engineering** likely key systems integration or design partner
+**Engineering Partner:**
+- **Matt Crabtree** (matt.crabtree@waveformengineering.com, Waveform Engineering) — External engineering partner on Hurricane Season Builds - Part Sourcing collaboration
 
-**Active Vendors (Sustained):**
-- **DHL Global Logistics** — **CONTINUED MULTI-LEG SHIPMENT**: 3 additional notifications (May 9, 08:35 MYT; May 9, 15:13 MYT; May 9, 15:14 MYT) for same tracking #2550810194; confirms high-value international shipment still in transit through Asian timezone (MYT = Malaysia Time); indicates component arrival expected within 24–48 hours
-- **JawsTec** — **ORDER STATUS RESOLVED**: "Your order from JawsTec is on its way!" (May 8, 20:57 UTC); previous delay notifications cleared; order now shipping normally
-- **Amazon** — **MOTOR SENSOR DELIVERY CONFIRMED**: 2x delivery notifications for 3x Rotatable Hall Sensors (duplicate notifications May 8, 22:05 UTC); inventory now on-site for motor feedback system assembly
-- **HeliDirect** — **ROTORCRAFT COMPONENT DELIVERY**: Shipment from Order HDR653461 out for delivery (May 8, 12:59 UTC) and delivered (May 8, 16:23 UTC); indicates rotorcraft components/subsystems received on schedule
-- **SendCutSend** — **METAL FABRICATION DELIVERY**: Order SX79V088 delivered (May 8, 16:24 UTC); indicates precision metal components (brackets, mounts, structural parts) now available for assembly
-- **McMaster-Carr** — **NEW ACTIVE VENDOR**: Order confirmation (May 8, 16:26 CDT) and tracking certificates (May 8, 16:58 CDT); suggests industrial fasteners, bearings, or standard mechanical components procurement
-- **Uline** — **INDUSTRIAL SUPPLIES**: Order 52080239 confirmation (May 8, 13:44 CDT) and shipping notification (May 8, 19:09 CDT); likely packaging, safety, or warehouse supplies
-- **Pirate Ship** — **SHIPPING LABEL SERVICE**: Payment receipt for $11.59 (May 8, 18:27 UTC) routed to Josh Fromm; indicates domestic shipment preparation (small package = likely component sample or interim shipment)
-- **Harbor Freight** — **PROMOTIONAL ENGAGEMENT**: "10 Days of Deals" (May 9, 05:03 UTC) featuring floor jacks and tools; suggests shop/facility maintenance tooling awareness or preparatory equipment procurement for assembly operations
+**Active Vendors (Sustained & Confirmed):**
+- **DHL Global Logistics** — **CONTINUED CRITICAL INBOUND SHIPMENT**: 4 additional notifications (May 10, 05:06, 05:32, 07:59, 08:00 MYT) for same tracking #2550810194; now showing **consecutive high-frequency updates over 3-hour window** (May 10, 05:06–08:00 MYT), indicating **final delivery stage** — package expected to clear Malaysian customs/distribution hub within hours; **critical component arrival imminent**
+- **McMaster-Carr** — **RECEIPT CONFIRMATION**: Invoice receipt for May 8 order (May 9, 19:26 UTC); order processed and confirmed
+- **HeliDirect** — **PROMOTIONAL/SALES ACTIVITY**: Flash sale notification (May 9, 13:30 UTC) routed to Meredith Needham; indicates continued vendor relationship engagement
+- **Harbor Freight** — **SUSTAINED PROMOTIONAL ENGAGEMENT**: 2 additional promotional emails (May 9 free gift offer, May 10 Day 10 of deals featuring BADLAND Winches 35% off); ongoing tool/equipment procurement awareness
+- **ArcBest** — **NEW VENDOR SIGNAL**: Newsletter/promotional email (May 9, 09:05 UTC); likely logistics/transportation services provider (ArcBest is LTL freight company); suggests possible heavy equipment or bulk component shipment coordination
+
+**Automated Systems:**
+- **USPS Informed Delivery** — Daily shipping digest system active (May 9); indicates domestic mail/package tracking integrated into procurement workflow
 
 ## Topic Patterns
 
-### Active Projects (POWER SUPPLY DESIGN + MOTOR SYSTEMS + ROTORCRAFT COMPONENTS + FLIGHT TEST INTEGRATION + COMPOSITE STRUCTURES — EXECUTION PHASE)
+### Active Projects (EXECUTION PHASE — CRITICAL COMPONENT INBOUND)
 
-**[001-07] S3 IRAD — POWER SUPPLY BOARD DESIGN (ITERATION PHASE COMPLETE, FABRICATION STAGE)**
-- No new correspondence with Frank Strazzabosco in this batch; suggests design iteration cycle from May 6–7 resolved
-- **Asana task overdue alert** (May 8, 15:54 UTC) indicates project management checkpoints active; task completion enforcement beginning
+**International Supply Chain (FINAL DELIVERY STAGE):**
+- **DHL Shipment #2550810194 — ACCELERATING DELIVERY TIMELINE**: 4 consecutive notifications over 3-hour window (May 10, 05:06–08:00 MYT) indicate rapid progression through Malaysia distribution network; **final leg of international transit underway**; expected delivery within 12–24 hours
 
-**Motor & Drive Systems (COMPONENT INTEGRATION PHASE):**
-- **Hall Sensors Delivered** — 3x Rotatable Hall Sensors now in inventory (Amazon, May 8); confirms motor position feedback/commutation control system components ready for integration
-- **McMaster-Carr Order** — New industrial components supplier active; likely acquiring bearings, fasteners, or motor mounting hardware to support motor subsystem final assembly
+**Rotorcraft Components & Subsystems (VENDOR RELATIONSHIP ACTIVE):**
+- **HeliDirect Flash Sale** — Promotional engagement (May 9); suggests opportunity-based procurement or component availability monitoring
 
-**Rotorcraft Components & Subsystems (DELIVERY CONFIRMED):**
-- **HeliDirect Order HDR653461 Delivered** — Rotorcraft components (May 8, 16:23 UTC); indicates scheduled component arrival on-time; rotor upgrades, transmission parts, or control systems now available
-- **Protos 380/420 Rotor Technical Documentation** — HeliDirect newsletter (May 8, 20:01 UTC) focused on rotor efficiency/upgrade path; suggests platform-specific performance optimization discussion ongoing within team
+**Motor & Drive Systems (PROCUREMENT CONFIRMED):**
+- **McMaster-Carr Receipt Processed** — May 8 order officially received and invoiced (May 9); mechanical/bearing/fastener components now in accounting pipeline
 
-**Composite Structures & Metal Fabrication (DELIVERY PHASE INITIATED):**
-- **SendCutSend Order SX79V088 Delivered** — Precision metal components (May 8, 16:24 UTC); second SendCutSend delivery in batch; indicates sustained custom bracket/mount/structural component fabrication supporting composite integration workflow
-- **McMaster-Carr Mechanical Components** — New supplier activation suggests scaling mechanical assembly operations (fasteners, hardware, standard parts for high-volume integration)
-
-**International Logistics & Supply Chain (CRITICAL INBOUND — ASIA-PACIFIC REGION):**
-- **DHL Shipment #2550810194 — Malaysia Transit** — 3 additional MYT-timezone notifications (May 9, progressive timestamps 08:35, 15:13, 15:14) indicate package moving through Malaysia distribution hub; **critical high-value component or assembly approaching final leg of international transit**; expected delivery within 24–48 hours
-- **Domestic Shipping Preparation** — Pirate Ship label payment ($11.59, May 8, 18:27) routed to Josh Fromm suggests parallel domestic small-package shipment; likely component sample, interim delivery, or inter-facility transfer
-
-**Precision Optics/Imaging (SUSTAINED, NO NEW ACTIVITY)**
-- B&H Photo Video order from May 7 continues in operational phase; no new procurement signals
-
-**Manufacturing & Assembly Operations (NEW SIGNAL):**
-- **Harbor Freight Tool Promotions** — Floor jacks and tool sales promotions (May 9) suggest equipment procurement consideration; possible expansion of assembly/test facility infrastructure or preparation for vehicle-scale testing/transport operations
+**Logistics & Warehouse Operations (EMERGING):**
+- **Harbor Freight Winch Promotion** — Sustained tool/equipment procurement interest; 35% discount on BADLAND Winches (May 10) suggests possible equipment acquisition for assembly/test facility or vehicle transport/securing operations
+- **ArcBest Engagement** — LTL freight company outreach; possible indicator of preparing for bulk inbound shipment logistics or heavy component delivery coordination
 
 ## Communication Patterns
 
-- **Vendor notification consolidation**: ~96% of new batch routed through purchasing@blackswifttech.com alias; confirms centralized procurement tracking system in place
-- **Asana task management**: Overdue
+- **Vendor notification centralization**: ~100% of new batch routed through purchasing@blackswifttech.com alias; confirms robust centralized procurement tracking
+- **DHL acceleration pattern**: Shift from 3 notifications (May 9) to 4 notifications in compressed 3-hour window (May 10, 05:06–08:00 MYT); **characteristic of final distribution hub processing** before international clearance/domestic handoff
+- **No direct human correspondence**: Entire 10-message batch consists of automated vendor/logistics notifications and promotional emails; suggests period of quiet between human collaborators or asynchronous project coordination
+- **Promotional email persistence**: Harbor Freight and HeliDirect continue aggressive promotional outreach; may indicate subscribed status or prior inquiry/purchase history
+
+## Key Relationships
+
+- **Jack Elston + Matt Crabtree (Waveform Engineering)** — Active external engineering partnership on seasonal production scaling (Hurricane Season Builds)
+- **Meredith O'Hara Needham + Rotorcraft Component Vendors** — Sustained rotorcraft procurement pipeline; HeliDirect prioritized relationship
+- **Joshua Fromm + Logistics Coordination** — Direct involvement in shipping/fulfillment operations (Pirate Ship, DHL tracking)
+
+## Notable Observations
+
+- **DHL Shipment #2550810194 Reaching Critical Threshold**: Acceleration from 3 notifications (May 9) to 4 in 3-hour window (May 10) is textbook pattern for final international distribution hub stage; **high-value component expected to clear customs/logistics hub and enter domestic delivery within 24 hours**; recommend readiness for urgent receipt/integration
+- **No human correspondence in past 48 hours**: Entire May 9–10 batch is purely automated; suggests either (a) weekend communication hiatus, or (b) project coordination occurring through asynchronous channels (Asana, Slack, meeting notes)
+- **Emerging Winch/Heavy Equipment Interest**: Harbor Freight BADLAND Winch promotion and new ArcBest logistics provider outreach may signal preparation for vehicle-scale testing, transport, or facility upgrade operations (counterintuitive to current small-component-focused workflow, but worth monitoring)
+- **Rotorcraft Component Velocity Remains High**: HeliDirect flash sale + previous delivery confirmations indicate sustained rotorcraft subsystem procurement pace; no delays flagged in this batch

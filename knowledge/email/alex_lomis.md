@@ -1,10 +1,10 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned: 1,127 combined** (1,102 previous + 25 from May 8-9)
-- **Date range covered: March 18 - May 9, 2026 (approximately 53 days)**
+- **Total messages scanned: 1,136 combined** (1,127 previous + 9 from May 9-10)
+- **Date range covered: March 18 - May 10, 2026 (approximately 54 days)**
 - **Approximate daily volume: 20-25 emails per day**
-- **May 8-9 snapshot (25 messages)**: 96% automated/promotional (logistics, vendor confirmations, tool deals); 4% human/strategic (1 GetFPV antenna product email marked IMPORTANT, 1 Asana task assignment, 1 Synopsys innovation resources)
+- **May 9-10 snapshot (9 messages)**: 100% automated/promotional and logistics (DHL duplicate notifications, McMaster-Carr receipt, Harbor Freight deals, USPS digest, ArcBest newsletter)
 
 ## Key Correspondents
 
@@ -26,40 +26,43 @@
 **Edge AI Systems (STRATEGIC):**
 - **Robert Wilson (FastBlaize, robert.wilson@fastblaize.com)** - Replied May 7, 12:43 UTC on "Low-power edge AI for UAS platforms"; marked IMPORTANT
 
-### Expanded Vendor Network (May 8-9):
+### Expanded Vendor Network (May 9-10):
 
-**Logistics & Shipping (CRITICAL INBOUND VOLUME):**
-- **DHL** - 5 duplicate shipment notifications (tracking 2550810194) May 8-9, 16:18-15:14 UTC; indicates high-value or time-sensitive international shipment; potential component delivery or materials order
-- **USPS Informed Delivery** - Daily digest tracking May 8, 12:59 UTC
+**Logistics & Shipping (CRITICAL INBOUND VOLUME - ESCALATING):**
+- **DHL** - 4 consecutive duplicate shipment notifications (tracking 2550810194) May 10, 05:06-08:00 MYT (within 3-hour window); indicates high-value or time-sensitive international shipment with potential delivery status urgency; 7 total DHL notifications across May 8-10
+- **USPS Informed Delivery** - Daily digest May 9, 13:23 UTC (continued tracking)
 - **Pirate Ship** - $11.59 payment receipt May 8, 18:27 UTC (via Josh Fromm); shipping label service
 
-**Industrial/Mechanical Supply (NEW ACTIVE):**
-- **McMaster-Carr** - Order confirmation & tracking (chi.sales@mcmaster.com) May 8, 16:26 & 16:58 UTC; industrial parts/fasteners procurement; marked as important vendor engagement
+**Industrial/Mechanical Supply (SUSTAINED):**
+- **McMaster-Carr** - Order receipt confirmation May 9, 19:26 UTC; continued industrial parts/fasteners procurement engagement
 - **Uline** - Order 52080239 confirmation & shipping May 8, 13:44 & 19:09 UTC; industrial supply logistics
 
 **Metal Fabrication/Machining (CONTINUED):**
 - **SendCutSend** - Order SX79V088 delivered May 8, 16:24 UTC; custom metal cutting service
 
-**RF/Drone Components (NEW - MARKED IMPORTANT):**
-- **GetFPV (Chloe, chloe@getfpv.com)** - TrueRC X-21 5.8GHz Antenna promotion May 8, 14:00 UTC; marked IMPORTANT & INBOX; indicates active FPV/drone RF systems evaluation or procurement
-- **HeliDirect** - Multiple shipment notifications (order HDR653461) May 8, 12:59 & 16:24 UTC; drone/helicopter component supplier; promotional content on Protos 380→420 stretch mod May 8, 20:01 UTC (addressing to Meredith Needham)
+**RF/Drone Components (ACTIVE):**
+- **GetFPV (Chloe, chloe@getfpv.com)** - TrueRC X-21 5.8GHz Antenna promotion May 8, 14:00 UTC; marked IMPORTANT & INBOX
+- **HeliDirect** - Multiple shipment notifications (order HDR653461) May 8, 12:59 & 16:24 UTC; drone/helicopter component supplier; promotional content on Protos 380→420 stretch mod May 8, 20:01 UTC
 
 **Composite/Materials (CONTINUED):**
 - **DragonPlate** - (Previous: order shipped May 7)
 
 **Sensors/Electronics (SUSTAINED):**
-- **Amazon.com** - "Rotatable Hall Sensor" (qty 3) duplicate delivery notifications May 8, 22:05 UTC (redundant messages); confirmed delivered
+- **Amazon.com** - "Rotatable Hall Sensor" (qty 3) delivery confirmed May 8, 22:05 UTC
 
-**Specialized Tools & Equipment:**
-- **Harbor Freight** - 2 promotional offers May 9, 05:03 UTC & May 8, 15:36 UTC; floor jack deals (DAYTONA 4-ton, PITTSBURGH 2-ton); suggests mechanical assembly/maintenance capability
+**Specialized Tools & Equipment (SUSTAINED WITH ESCALATING PROMOTIONS):**
+- **Harbor Freight** - 3 promotional offers May 8-10 (floor jacks, BADLAND Winches 35% off May 10, free gift promotion May 9); escalating promotional frequency suggests active buyer engagement or in-progress purchasing campaign
+
+**Freight/Logistics Partners (NEW):**
+- **ArcBest** - Newsletter/promotional content May 9, 09:05 UTC; freight logistics provider; may indicate large shipment or freight shipping coordination
 
 **On-Demand Manufacturing:**
-- **JawsTec** - "Your order is on its way" notification May 8, 20:57 UTC; order dispatch confirmation (resolved from prior delay status)
+- **JawsTec** - Order dispatch notification May 8, 20:57 UTC
 
 ### Mailing Lists & Automated Systems:
-- **Asana** - 2 tasks assigned May 8, 15:36 UTC (distinct from previous S0-AD tasks)
-- **Synopsys** - "Next wave of innovation" resources email May 8, 12:03 UTC (to alex.lomis@blackswifttech.com); indicates design/simulation tool engagement
-- **USPS, DHL, HeliDirect, Harbor Freight, Amazon** - Continued high-velocity logistics tracking
+- **Asana** - 2 tasks assigned May 8, 15:36 UTC
+- **Synopsys** - "Next wave of innovation" resources email May 8, 12:03 UTC
+- **USPS, DHL, HeliDirect, Harbor Freight, Amazon, ArcBest** - Continued high-velocity logistics tracking and promotional engagement
 
 ## Topic Patterns
 
@@ -72,26 +75,27 @@
 ### Edge AI/Autonomous Systems (STRATEGIC EVALUATION):
 - **FastBlaize low-power edge AI** - UAS platform computing/autonomy capability evaluation
 
-### RF Systems & FPV (NEW - MARKED IMPORTANT):
-- **TrueRC X-21 5.8GHz Antenna** - GetFPV email marked IMPORTANT; "Ultra Long Range FPV" product; suggests long-range communication, telemetry, or video downlink architecture evaluation
-- **HeliDirect Protos drone components** - Rotor/platform upgrade content; indicates drone platform testing or development
+### RF Systems & FPV (ACTIVE):
+- **TrueRC X-21 5.8GHz Antenna** - GetFPV email marked IMPORTANT; "Ultra Long Range FPV" product; long-range communication or video downlink architecture evaluation
 
-### Mechanical Assembly & Maintenance (EXPANDING):
-- **McMaster-Carr industrial supplies** - Fasteners, hardware, mechanical components
-- **Harbor Freight floor jacks** - 4-ton & 2-ton capacity; suggests chassis/frame assembly, maintenance bays, or mechanical test labs
+### Mechanical Assembly, Maintenance & Logistics (EXPANDING):
+- **McMaster-Carr industrial supplies** - Fasteners, hardware, mechanical components (receipt May 9)
+- **Harbor Freight floor jacks & winches** - 4-ton/2-ton floor jacks plus BADLAND Winches 35% off promotion (May 10); suggests expanded chassis assembly, heavy equipment handling, or mechanical test lab capability
+- **HeliDirect drone components** - Rotor/platform upgrade content; helicopter/drone platform testing/development
+- **ArcBest freight logistics** - Large shipment or freight coordination (new contact)
 
 ### Composite/Structural Materials (CONTINUED):
 - **Carbon fiber components** - DragonPlate shipped May 7
 
 ### Sensor Systems (SUSTAINED):
-- **Rotatable Hall Sensors (qty 3)** - Magnetic field/orientation measurement; delivery confirmed May 8
+- **Rotatable Hall Sensors (qty 3)** - Delivery confirmed May 8
 
 ### Manufacturing & Fabrication (MULTI-VENDOR):
 - **SendCutSend metal cutting** - Custom parts delivery May 8
-- **JawsTec** - On-demand manufacturing (order now dispatched, prior delays resolved)
+- **JawsTec** - On-demand manufacturing (dispatch May 8)
 
-### Infrastructure & Design Tools (NEW):
-- **Synopsys** - Design/simulation/EDA innovation resources; suggests advanced circuit design, FPGA, or signal integrity work
+### Infrastructure & Design Tools:
+- **Synopsys** - Design/simulation/EDA innovation resources
 
-### Logistics & Supply Chain (SUSTAINED ULTRA-HIGH VOLUME):
-- **DHL international (
+### Logistics & Supply Chain (SUSTAINED ULTRA-HIGH VOLUME - ESCALATING):
+- **DHL international shipment (2550810194)** - 4 duplicate notifications within

@@ -6,9 +6,9 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 **Key Participants:** Jack Elston (primary decision-maker), Maciej (technical/proposal support), Meredith Needham (budget/administrative), Dan Prendergast (proposal coordination), Beck Cotter (program management), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm, Paige Smith (presentation/logistics support), Arthur (technical partner for payload work), and others contributing to specific proposals.
 
-**Activity Level:** Extremely high throughout the period (March 2024 - May 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Peak intensity reached in late April - early May 2026 with multiple concurrent NASA, DOD, and DOE submissions in final coordination and submission phases, plus immediate pipeline work beginning. Significant external partnerships and customer engagement alongside proposal work.
+**Activity Level:** Extremely high throughout the period (March 2024 - May 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Peak intensity reached in late April - early May 2026 with multiple concurrent NASA, DOD, and DOE submissions in final coordination and submission phases. Significant external partnerships and customer engagement alongside proposal work.
 
-**Time Range:** March 3, 2024 - May 8, 2026
+**Time Range:** March 3, 2024 - May 9, 2026
 
 ---
 
@@ -78,9 +78,9 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
   - **April 27:** Genesis proposal nearly complete and ready for submission
   - **April 30 SUBMITTED:** DOE Genesis Mission proposal successfully submitted with $336K to BST total budget ($293K subcontract to BNL), Period of Performance starts 7/1/2026
 
-- **NASA deadlines coordination** (April 27, 2026): Clarified multiple concurrent NASA deadlines and staggered submission approach:
-  - NASA Aero RFI Responses and SaaS responses: **Due May 7** ✓ SUBMITTED
+- **NASA deadlines coordination** (April 27-30, 2026): Clarified multiple concurrent NASA deadlines and staggered submission approach:
+  - NASA Aero RFI Responses and SaaS responses: **Due May 7** ✓ **SUBMITTED** (May 9 confirmed received by Jack Elston)
   - NASA Phase II: **Due May 15**
   - NASA Phase I: **Due May 21**
   - DoD submissions (2025.4 cycle): **Due May 13**
-  - DoD submissions (2026 cycle): **Due June 3
+  - DoD submissions
