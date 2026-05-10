@@ -8,8 +8,7 @@
 - **Team members involved**: Meredith O'hara Needham (primary operational owner), Nate Straus (facilities improvements & consumables)
 - **Risk signals**: 
   - **Office Cleaning due 2026-05-16** (recurring; currently open)
-  - **Ongoing Office Purchasing List due 2026-05-15** (recurring; currently open)
-  - Note: Both tasks consistently completed 1–8 days after due date in batch cycle (see Recent Activity)
+  - Note: Tasks consistently completed 1–8 days after due date in batch cycle (structural to workflow, not an anomaly)
 
 ## Key Deliverables & Milestones
 - **Monthly rent payments** (~$13.00–$14.63 NNN depending on lease year, due ~25th–27th of each month)
@@ -21,21 +20,20 @@
 - **Lease termination planning** (unassigned, no due date)
 
 ## Task Summary
-- **Total tasks**: 2 open, 0 completed (in current data snapshot)
+- **Total tasks**: 1 open, 0 completed (in current data snapshot)
 - **Tasks by assignee**:
-  - **Meredith O'hara Needham**: 2 open
+  - **Meredith O'hara Needham**: 1 open
     - Office Cleaning (due 2026-05-16, open)
-    - Ongoing Office Purchasing List (due 2026-05-15, open; notes: "Collect purchases for the week here")
 - **Notable patterns**: 
   - Recurring tasks completed in batches, typically 1–8 days after due date
-  - Historical batch completion: most recent batch (2026-05-01 through 2026-05-08) all completed on 2026-05-07 (single day batch)
+  - Historical batch completion: most recent batches all completed on same-day cycles after due dates pass
   - Predictable operational rhythm; delays are structural to workflow, not anomalies
   - High task completion rate despite consistent "late" closure dates
 
 ## Recent Activity
-- **Current state**: 2 open tasks in active batch cycle
-  - Ongoing Office Purchasing List due 2026-05-15
+- **Current state**: 1 open task in active cycle
   - Office Cleaning due 2026-05-16
+- **Note**: "Ongoing Office Purchasing List" task appears to have been archived or completed from previous snapshot; only Office Cleaning remains on active list
 - **Historical pattern**: Previous batches consistently closed 1–8 days after due date, with all tasks in a batch completed on the same day
 - **Operational momentum**: Project continues efficient batch completion pattern; recurring schedule is stable and predictable
 

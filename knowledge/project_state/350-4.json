@@ -5,7 +5,7 @@
   "asana_gid": "1205445364407714",
   "name": "2024 USGS - Chile (Mexico)",
   "status": "delayed",
-  "status_notes": "FEEDBACK 2026-04-20: From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the da",
+  "status_notes": "CORRECTION 2026-04-20: From Jack: Mexico USGS volcano deployment (350-4) is DELAYED to Fall 2026. Not departing April 20. No flight planning, no shipping, no mission prep imminent. Any Asana tasks referencing an April deplo",
   "customer": {
     "name": "USGS (Volcano Science Center)",
     "type": "government",
@@ -33,7 +33,7 @@
         "amount": 13147.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-09"
+        "last_updated": "2026-05-10"
       },
       "purchases": {
         "amount": 0.0,
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": 104662.15,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-09T09:07:03Z"
+    "last_reconciled": "2026-05-10T08:52:51Z"
   },
   "milestones": [
     {
@@ -199,6 +199,12 @@
     },
     {
       "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-20",
+      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
       "author": "Jack",
       "date": "2026-04-20",
       "text": "From Jack (ts=1776694393.461569): <@U0AQE94HJUT> correction: the mexico deployment has been delayed until the fall"
@@ -232,14 +238,8 @@
       "author": "Jack",
       "date": "2026-04-20",
       "text": "From Jack: Mexico USGS volcano deployment (350-4) is DELAYED to Fall 2026. Not departing April 20. No flight planning, no shipping, no mission prep imminent. Any Asana tasks referencing an April deployment are stale - ignore them."
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-04-20",
-      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
     }
   ],
-  "last_full_rebuild": "2026-05-09T09:07:03Z",
+  "last_full_rebuild": "2026-05-10T08:52:51Z",
   "last_incremental_update": null
 }

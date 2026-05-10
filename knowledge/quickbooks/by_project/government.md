@@ -35,16 +35,18 @@
 | [350] USGS | $2,000.00 | S3 Battery |
 | (207) Volcano CCRPP | $254,997.00 | Final reports |
 | (210-10) AREN 2024 | $92,500.00 | Aerospace Engineering |
-| NOAA UASD & UxSOC | $9,320.00 | **NEW:** Display Model S0 units with tripods & shipping (Invoices #1761–#1762, 2026-05-08) |
+| NOAA UASD & UxSOC | $9,320.00 | Display Model S0 units with tripods & shipping (Invoices #1761–#1762, 2026-05-08) |
 
-**Recent invoices (2026-05-08 to 2026-09-28):**
-- **Invoice #1761** (2026-05-08): $4,660.00 — Display Model S0 + tripod + shipping [NOAA UxSOC]
-- **Invoice #1762** (2026-05-08): $4,660.00 — Display Model S0 + tripod + shipping [NOAA UASD]
-- **Invoice #1749** (2026-06-29): $35,000.00 — Navy SBIR CLIN 0006 Progress Report - Option [550-1]
-- **Invoice #1739** (2026-07-02): $72,000.00 — CLIN 1001 Invoice 4 of 6 [300-3] 2026 IDIQ
-- **Invoice #1740** (2026-07-02): $72,000.00 — CLIN 1001 Invoice 5 of 6 [300-3] 2026 IDIQ
-- **Invoice #1741** (2026-07-30): $72,000.00 — CLIN 1001 Invoice 6 of 6 [300-3] 2026 IDIQ
-- **Invoice #1750** (2026-09-28): $14,459.00 — Navy SBIR CLIN 0007 Final Report [550-1]
+### Recent Invoices (2026-06-29 to 2026-09-28)
+| Invoice # | Date | Amount | Project | Description | Balance |
+|-----------|------|--------|---------|-------------|---------|
+| #1749 | 2026-06-29 | $35,000.00 | [550-1] Navy SBIR Magnetometer | CLIN 0006: Progress Report - Option | $35,000.00 |
+| #1739 | 2026-07-02 | $72,000.00 | [300-3] 2026 IDIQ | CLIN 1001 Invoice 4 of 6 | $72,000.00 |
+| #1740 | 2026-07-02 | $72,000.00 | [300-3] 2026 IDIQ | CLIN 1001 Invoice 5 of 6 | $72,000.00 |
+| #1741 | 2026-07-30 | $72,000.00 | [300-3] 2026 IDIQ | CLIN 1001 Invoice 6 of 6 | $72,000.00 |
+| #1750 | 2026-09-28 | $14,459.00 | [550-1] Navy SBIR Magnetometer | CLIN 0007: Final Report | $14,459.00 |
+
+**Recent invoice total (last 3 months):** $265,459.00
 
 ---
 
@@ -134,5 +136,4 @@ No standalone equipment purchases; equipment purchases categorized under Materia
   - $207.21 DC-Direct Cost Shipping, Freight & Delivery (main shipment)
   - $41.44 DC-Direct Cost Shipping, Freight & Delivery
   - $62.16 Inventory Asset (For future sales of 6 S0s)
-- **DHL/FedEx tariffs on PCB imports:** $234.60+
-- **USPS reimbursements:**
+- **DHL/FedEx tariffs on PCB imports:** $

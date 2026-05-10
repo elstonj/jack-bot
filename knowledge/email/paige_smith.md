@@ -1,10 +1,10 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,336 (1,298 previous + 38 new)
-- **Date range:** March 24 – May 9, 2026 (47 days)
-- **Approximate volume:** ~28.4 messages per day (sustained consistency)
-- **Pattern:** Continues to be dominated by newsletters, alerts, and automated notifications (84–88% external/automated). New 38-message sample (May 8–9) confirms sustained engagement with breaking news, UAS/defense industry focus, marketing technology tools, and creative asset collaboration. **INTENSIFIED SIGNAL**: Multi-turn rapid iteration on 3D rendering project with Krateo Sky; elevated LinkedIn recruitment visibility.
+- **Total messages scanned:** 1,350 (1,336 previous + 14 new)
+- **Date range:** March 24 – May 10, 2026 (48 days)
+- **Approximate volume:** ~28.1 messages per day (sustained consistency)
+- **Pattern:** Continues to be dominated by newsletters, alerts, and automated notifications (88–91% external/automated). New 14-message sample (May 9–10) confirms sustained engagement with breaking news, defense industry intelligence, and recruitment visibility. **CONTINUED SIGNAL**: Heavy NYT breaking news consumption (5 messages in 48 hours); elevated LinkedIn recruitment activity; emerging interest in climate/energy policy and aerospace strategy.
 
 ---
 
@@ -12,67 +12,101 @@
 
 ### Top Internal Senders
 1. **Jack Elston** (elstonj@blackswifttech.com) — **SUSTAINED/CRITICAL/FEDERAL PARTNERSHIPS & INTERNAL OPERATIONS**:
-   - **Continued pattern** — Central hub for federal partnerships and industry intelligence routing.
-   - UAS VISION Daily News routed through Jack's email (May 8, 10:05).
+   - Central hub for federal partnerships and industry intelligence routing.
 
 2. **Laura Chaibongsai** (laura.chaibongsai@noaa.gov) — **SUSTAINED/FEDERAL TECHNICAL PARTNERSHIP**:
-   - Pattern continues; no new messages in this sample.
+   - Pattern continues.
 
 3. **Danielle Varwig** (danielle.varwig@noaa.gov) — **SUSTAINED/FEDERAL DIRECT COORDINATION**:
-   - Pattern continues; no new messages in this sample.
+   - Pattern continues.
 
 4. **Meredith Needham** (meredith.needham@blackswifttech.com) — **SUSTAINED/OPERATIONS & VENDOR MANAGEMENT**:
-   - Pattern continues; no new messages in this sample.
+   - Pattern continues.
 
 5. **Thibault Bridel-Bertomeu** (Thibault@krateosky.com) — **ELEVATED/MARKETING & CREATIVE ASSETS**:
-   - **8 new messages (May 8)** — **SIGNIFICANT ESCALATION FROM PREVIOUS 3 MESSAGES**:
-     - Multi-turn iterative exchange: 4 Paige SENT messages (09:29, 09:31, 12:14, 12:31 CDT), 4 Thibault responses (15:30, 15:33, 18:37, 18:59 UTC)
-     - All flagged IMPORTANT; indicates active creative review cycle with same-day turnaround
-     - **Subject**: "Re: 3D Renders Black Swift" (sustained across all 8 messages)
-   - **Signal**: **HIGH-PRIORITY CREATIVE PROJECT** — Daily iterative feedback loop on 3D product visualization. Krateo Sky delivering multiple render revisions; Paige providing rapid feedback. Suggests marketing collateral sprint or upcoming presentation deadline.
+   - Sustained multi-turn iterative 3D render feedback cycle from May 8.
 
-6. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **NEW/TECHNICAL OPERATIONS**:
-   - **3 new messages (May 8)** — **NOT DIRECTLY TO PAIGE; BUT IN HER INBOX**:
-     - "Re: Flight Testing Updates" (Daniel to Mark Goranson/Nikhila Ravikumar, May 12:53 CDT, IMPORTANT)
-     - "Re: Flight Testing Updates" (Mark to Daniel/Nikhila, May 18:59 UTC, IMPORTANT)
-     - "Re: Flight Testing Updates" (Nikhila to Daniel, May 18:02 UTC, IMPORTANT)
-   - **External partner**: **Mark Goranson** (Mark@nanoveu.com) / **Nikhila Ravikumar** (Nikhila@nanoveu.com) — **NanoVEU** (likely avionics/sensor partner)
-   - **Signal**: Paige copied on technical flight testing discussions with external partner NanoVEU; indicates involvement in testing coordination or performance validation.
+6. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **SUSTAINED/TECHNICAL OPERATIONS**:
+   - Flight testing coordination with NanoVEU partners.
 
 ### Top External Senders (Updated)
 
-1. **The New York Times** (breakingnews, editorpicks, nytimes, nytdirect) — **SUSTAINED VERY HIGH**:
-   - **9 new messages (May 8–9)**:
-     - **Breaking news (4)**: Trump F.D.A. commissioner firing plan; ABC First Amendment "The View" dispute; Virginia House map struck down; U.S. added 115,000 jobs in April (economic/labor data)
-     - **Editor picks & lifestyle (2)**: Purported Epstein suicide note analysis (marked IMPORTANT); Face-lifts status symbol opinion piece (marked IMPORTANT)
-     - **Morning briefing (2)**: "The Morning: Going for broke" (May 8, 10:25, marked IMPORTANT); "The Morning: Sticker shock" (May 7, in previous sample)
-     - **Sports (1)**: The Athletic Pulse — "The most important season in league history" (May 8, 10:17, marked IMPORTANT)
-   - **Pattern**: Consistent daily real-time consumption of political/economic policy, legal/justice reporting, lifestyle/culture, and sports. **11 marked IMPORTANT** suggests curated consumption of analysis pieces beyond headline scanning.
+1. **The New York Times** (breakingnews, editorpicks, nytdirect, nytimes) — **SUSTAINED VERY HIGH**:
+   - **5 new messages (May 9–10)**:
+     - **Breaking news (3)**: Hantavirus outbreak cruise ship disembarkation (2 messages, May 9–10); Jet fatality at Denver airport (May 9)
+     - **Editor picks (2)**: GLP-1 "food noise" health/wellness analysis (May 9, marked IMPORTANT); Medical routines for older adults (May 9)
+     - **Morning briefing (1)**: "The Morning: Running late" (May 10, marked IMPORTANT)
+   - **Pattern**: Consistent real-time breaking news consumption (health/public health, aviation safety, policy). **2 marked IMPORTANT** indicates prioritized analysis reading. **Total NYT engagement across full sample: 14+ messages in 48 hours** — confirms daily multi-segment subscription consumption (breaking, editor picks, morning briefing, sports).
 
-2. **LinkedIn** (messages, notifications, updates, job alerts) — **NEW/SIGNIFICANTLY ELEVATED**:
-   - **6 new messages (May 8–9)**:
-     - "11 people looked at your profile" (May 9, 04:59, marked IMPORTANT, UNREAD)
-     - "Vantage Robotics recently posted" (May 9, 02:59, marked IMPORTANT, UNREAD)
-     - "👤 Paige, add Stacy Wright" (May 9, 00:59, UNREAD)
-     - "Black Swift Technologies, Engineering Design request from Javen Courageux and other clients are available" (May 8, 19:38, marked IMPORTANT, UNREAD)
-     - "I want to connect" — Steve Wolf (May 8, 18:59, UNREAD)
-   - **Signal**: **SUSTAINED RECRUITMENT VISIBILITY** — 11 profile views, multiple connection requests, engineering design requests through platform. LinkedIn marked as IMPORTANT multiple times; profile actively visible in recruiter/partner searches. **Vantage Robotics engagement** suggests industry peer monitoring or partnership exploration.
+2. **LinkedIn** (messages, notifications, job alerts) — **SUSTAINED/ELEVATED RECRUITMENT VISIBILITY**:
+   - **3 new messages (May 9)**:
+     - "You appeared in 2 searches" (May 9, 16:59, marked UNREAD)
+     - "Paige, meet Brandon Tseng at Shield AI 🤛" (May 9, 12:59, marked UNREAD)
+     - "Content Strategist, gUP Content Product Strategy role at Google: Actively recruiting" (May 9, 18:59, marked UNREAD)
+   - **Signal**: **CONTINUED HIGH RECRUITMENT VISIBILITY** — Profile appearing in active recruiter searches; peer connection suggestions from defense/autonomy sector (Shield AI); external recruiter outreach for strategic content roles at Google. Suggests sustained market visibility and/or active profile optimization.
 
-3. **Google Ads** — **SUSTAINED/PLATFORM OPTIMIZATION**:
-   - **2 new messages (May 8)**:
-     - "Last chance to participate in a Google Ads user study" (May 8, 13:52 PDT, marked IMPORTANT, UNREAD)
-     - "Reminder: make it easy for valuable leads to contact you" (May 8, 13:10 PDT, UNREAD)
-   - **Pattern**: Ongoing Google Ads campaign management; marked IMPORTANT suggests active account optimization or lead generation focus.
+3. **Defense & Aerospace Industry Intelligence** — **SUSTAINED/STRATEGIC POLICY FOCUS**:
+   - **Mitchell Institute** (May 9, 05:08, "Want to Reset the Air Force? Lessons from the Reagan Build-Up - Aerospace Advantage 289", marked UNREAD)
+   - **Signal**: Sustained engagement with Air Force modernization strategy and historical defense industrial policy analysis. Complements previous CENTCOM, FY27 Defense Budget, and UAS VISION consumption.
 
-4. **UAS & Defense Industry Publications** — **SUSTAINED/HIGH INDUSTRY-FOCUSED**:
-   - **3 new messages (May 8)**:
-     - **UAS VISION** (May 8, 10:05, Daily News to media@blackswifttech.com, routed to Jack)
-     - **A&SF Daily Report** (May 8, 03:41 CDT, "CENTCOM Launches 'Self-Defense Strikes' on Iran", marked UNREAD)
-     - **Mitchell Institute** (May 8, 05:52 CDT, "FY27 Defense Budget Assessment and Upcoming Events w Gen. Whiting and Brig. Gen. Fernengel", marked UNREAD)
-   - **Commercial UAV Expo** (May 8, 07:00 CDT, "Your Super Saver rate is waiting — but only until midnight tonight", marked UNREAD — suggests active event registration/consideration)
-   - **Pattern**: Sustained daily consumption of UAS industry intelligence, military/defense budget analysis, and event notifications. Commercial UAV Expo super saver rate indicates potential conference attendance planning.
+4. **Breaking News & Public Health** — **NEW/EMERGING PATTERN**:
+   - **3 new messages (May 9–10)** on hantavirus outbreak cruise ship incidents (marked UNREAD)
+   - **Signal**: Real-time tracking of public health/maritime safety incidents. May indicate interest in regulatory, maritime commerce, or epidemiological policy implications.
 
-5. **Marketing Technology & Analytics Tools** — **NEW/PLATFORM ADOPTION PHASE**:
-   - **Monster Insights** (May 8, 18:49, "Transform your analytics game today [50% OFF]", marked UNREAD)
-   - **Zapier Product** (May 8, 18:02, "The SDK beta is filling up fast", marked UNREAD)
-   - **Neil
+5. **Climate & Energy Policy** — **NEW/EMERGING PATTERN**:
+   - **Inside Climate News** (May 9, 10:14, "Companies have staked claims for more than 100 lithium-mine projects in the U.S. Tribes are among the most affected", marked UNREAD)
+   - **Signal**: **NEW VERTICAL** — Emerging interest in critical minerals supply chain, tribal sovereignty/land rights, and U.S. domestic energy independence policy. Suggests broader climate/energy policy monitoring beyond traditional defense focus.
+
+6. **Sports Content** — **SUSTAINED**:
+   - **The Athletic Pulse** (May 9, 10:42, "A franchise goes full chaos mode", marked IMPORTANT, UNREAD)
+   - Pattern continues from previous sample; marked IMPORTANT suggests curated consumption of analysis beyond headlines.
+
+7. **Technology & Marketing Tools** — **SUSTAINED**:
+   - **WPBeginner** (May 9, 18:49, "How to sell to international customers in WordPress", marked UNREAD)
+   - Continues previous pattern of marketing/e-commerce platform exploration.
+
+---
+
+## Topic Patterns
+
+### High-Priority Subjects
+1. **3D Renders & Marketing Collateral** — Krateo Sky iterative creative review (May 8 sustained)
+2. **Flight Testing & Avionics Integration** — NanoVEU technical partnership coordination
+3. **Defense Policy & Air Force Strategy** — Reagan Build-Up aerospace analysis, FY27 budget assessment
+4. **UAS Industry Intelligence** — Daily VISION news, CENTCOM ops, commercial expo event consideration
+5. **Critical Minerals & Energy Independence** — Lithium mining claims, tribal land impacts
+6. **Breaking News/Real-Time Intelligence** — Public health (hantavirus), aviation safety (Denver jet), economic/labor data, policy changes
+
+### External Organizations Appearing Frequently
+- **Krateo Sky** (3D visualization partner)
+- **NanoVEU** (avionics/sensor technical partner)
+- **Shield AI** (peer/competitor in autonomy; LinkedIn connection suggestion)
+- **Google** (content strategy recruitment outreach)
+- **Mitchell Institute / Air Force Association** (defense policy)
+- **The New York Times** (primary news consumption)
+- **LinkedIn** (recruitment/networking platform)
+
+---
+
+## Communication Patterns
+
+### Time Patterns
+- **High activity windows**: Early morning (05:00–07:00 UTC), midday (10:00–12:00 UTC), evening (17:00–20:00 UTC)
+- **Weekend activity**: Sustained weekend engagement (May 9–10) across NYT, LinkedIn, industry newsletters
+- **Multi-segment daily consumption**: Breaking news, editor picks, morning briefing, sports — suggests structured daily routine reading
+
+### Automated & Newsletter-Driven Engagement
+- **88–91% of inbox is automated** (newsletters, alerts, job alerts, breaking news feeds)
+- **Marked IMPORTANT consistently applied to**:
+  - NYT Editor Picks (lifestyle, health analysis)
+  - NYT Morning Briefing (daily digest)
+  - Sports analysis (The Athletic)
+  - LinkedIn profile visibility metrics
+  - Google Ads platform notifications
+  - Defense policy analysis (Mitchell Institute, military budget assessments)
+- **Pattern**: Curated consumption suggests intentional filtering for strategic/analytical content vs. headline scanning
+
+### Mailing Lists & Group Subscriptions
+- **NYT (multi-segment)**: Breaking news, Editor Picks, Morning Briefing, nytdirect
+- **LinkedIn**: Job alerts, connection suggestions, recruiter outreach
+- **Industry newsletters**: Mitchell Institute, UAS VISION, A&SF Daily Report, Commercial UA
