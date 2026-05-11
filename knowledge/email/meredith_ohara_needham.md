@@ -1,10 +1,10 @@
 # Meredith O'Hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,414 (1,404 previous + 10 new from May 9–10)
-- **Date range:** March 23 – May 10, 2026 (approximately 7 weeks)
+- **Total messages scanned:** 1,426 (1,414 previous + 12 new from May 10–11)
+- **Date range:** March 23 – May 11, 2026 (approximately 7.5 weeks)
 - **Approximate volume:** 25–35 emails per day (mix of sent, received, and automated)
-- **New data period:** May 9–10, 2026 (10 messages; predominantly automated vendor/logistics notifications; minimal human-initiated activity)
+- **New data period:** May 10–11, 2026 (12 messages; 100% automated/transactional; zero human-initiated correspondence)
 
 ---
 
@@ -27,42 +27,63 @@
 - **NanoVEU:** Mark Goranson (Mark@nanoveu.com); Nikhila Ravikumar (Nikhila@nanoveu.com) — Flight testing collaboration
 
 **Vendor/Parts & Logistics**
-- **McMaster-Carr** (invoice.reply@mcmaster.com) — **CONTINUED:** Receipt for May 8th Order (May 9, 19:26 EDT); industrial/mechanical parts supplier
-- **DHL** — **PERSISTENT:** Shipment Notification 2550810194 (4 duplicate alerts May 10, 05:06–08:00 MYT); international logistics tracking continues with high notification frequency
-- **Harbor Freight** — **PROMOTIONAL:** Continuing daily deal notifications (May 9–10); promotional channel active
-- **HeliDirect** (sales@helidirect.com) — **NEW PROMOTIONAL CONTACT (May 9):** Flash sale notification; helicopter/aerospace equipment vendor
-- **ArcBest** (arcbest@arcb.com) — **NEW PROMOTIONAL CONTACT (May 9):** Logistics/freight services promotional email
-- **USPS Informed Delivery** — **NEW AUTOMATED SERVICE (May 9):** Daily mail digest service; indicates physical mail tracking in use
+- **McMaster-Carr** (invoice.reply@mcmaster.com) — Industrial/mechanical parts supplier
+- **DHL** — **PERSISTENT ACTIVE SHIPMENT:** Multiple alerts for 2550810194 continuing through May 11; now includes Import Duty Payment Alert (May 11, 03:36 UTC); indicates customs/international clearance phase
+- **UPS** — **NEW ACTIVE SHIPMENT (May 10):** Package arrival notification; domestic logistics
+- **USPS Informed Delivery** — Daily mail digest service active
+- **HeliDirect** (sales@helidirect.com) — Helicopter/aerospace equipment vendor; continues promotional engagement
+- **Harbor Freight** — Tools/equipment promotional vendor (continuing)
+- **Speedway Motors** (via Purchasing alias) — **NEW VENDOR:** Automotive/motorsports parts vendor promotional email
+- **AMain Hobbies** (sales@t.amain.com) — **NEW VENDOR:** Consumer rewards/hobbyist equipment (routed to purchasing@blackswifttech.com)
+- **Toggl Inc** (invoices@blackswifttech.com) — **NEW VENDOR:** Time tracking/productivity software; receipt flagged May 10
+
+**Partnership/Community**
+- **Capital Factory** (noreply@union.vc) — **NEW CONTACT:** Startup community/venture capital office hours; Dan Kryzanowski office hours offer (May 10)
 
 ---
 
 ## Topic Patterns
 
-**Procurement & Parts Pipeline (CONTINUED HIGH VOLUME)**
-- Industrial parts (McMaster-Carr receipt ongoing)
-- International shipping tracking (DHL 2550810194 — persistent across multiple days with increasing notification frequency)
-- Promotional/equipment vendors: Harbor Freight (tools), HeliDirect (aerospace equipment), ArcBest (logistics)
+**Procurement & Parts Pipeline (CONTINUED & INTENSIFYING)**
+- Industrial/mechanical parts (McMaster-Carr — ongoing)
+- International shipping with customs coordination (DHL 2550810194 — now at import duty stage; multi-day tracking with escalating complexity)
+- Domestic logistics (UPS package arrival)
+- Automotive/motorsports parts interest (Speedway Motors — NEW)
+- Consumer/hobbyist equipment (AMain Hobbies — NEW)
+- Helicopter/aerospace equipment (HeliDirect — continuing)
+- General tools/equipment (Harbor Freight — continuing)
 
-**New Vendor/Service Signals**
-- **HeliDirect:** Helicopter equipment flash sale suggests potential equipment procurement or research phase
-- **USPS Informed Delivery:** Tracking physical mail delivery; indicates document/hardware receipt coordination
+**Software/Productivity Tools**
+- **Toggl Inc receipt (May 10):** Time tracking software; indicates potential adoption or renewal of project management/time tracking infrastructure
+
+**Business Development/Community Engagement**
+- **Capital Factory office hours (May 10):** Startup ecosystem networking; Dan Kryzanowski engagement suggests venture capital or business partnership exploration
+
+**Recruitment/HR**
+- **"Lavender" employment inquiry (May 11, 03:57 UTC):** Incoming inquiry related to mechanical engineering openings; flagged to careers@blackswifttech.com (not directly to Meredith, but on her email radar via internal distribution)
+
+**Information/Subscriptions**
+- **Bloomberg Spring Sale (May 10):** Financial/news subscription promotional; suggests interest in market intelligence or business news
 
 ---
 
 ## Communication Patterns
 
 **New Data Volume Distribution:**
-- **May 9:** 6 messages (afternoon/early morning: 09:05–19:26 UTC/EDT; automated notifications dominate)
-- **May 10:** 4 messages (early morning: 05:02–08:00 UTC/MYT; automated notifications only)
+- **May 10:** 8 messages (afternoon/evening: 13:21–23:33 UTC; all automated/promotional/transactional)
+- **May 11:** 4 messages (early morning: 03:36–07:56 UTC; all automated; DHL import duty alert + recruitment inquiry + vendor rewards)
 
-**Automated/Transactional Email Patterns (May 9–10):**
-- **DHL Notification Anomaly:** 4 duplicate alerts for same shipment (2550810194) within 2.5 hours (May 10, 05:06–08:00 MYT); suggests tracking system issue or multiple notification triggers
-- **Promotional/Informational:** Harbor Freight (2x), HeliDirect, ArcBest, USPS Informed Delivery
-- **Vendor receipts/confirmations:** McMaster-Carr
+**Automated/Transactional Email Breakdown (May 10–11):**
+- **Logistics/Shipping:** DHL (2x — including new import duty alert), UPS (1x), USPS Informed Delivery (1x) = 4 messages
+- **Vendor Promotional/Rewards:** HeliDirect, Harbor Freight, Speedway Motors, AMain Hobbies = 4 messages
+- **Software/Subscriptions:** Toggl Inc receipt, Bloomberg promotional = 2 messages
+- **Community/Recruitment:** Capital Factory office hours, employment inquiry = 2 messages
 
-**Notable Pattern:**
-- **No human-initiated correspondence** in this 10-message batch; all activity is automated/transactional
-- **Procurement/logistics focus** continues; DHL multi-notification suggests active or delayed international shipment
+**Notable Patterns:**
+- **Zero human-initiated correspondence** across entire 12-message batch; all activity is transactional/automated
+- **Email alias routing:** Many vendor/automated emails routed through `purchasing@blackswifttech.com` alias rather than direct to meredith.needham@blackswifttech.com (except HeliDirect, AMain Hobbies, Bloomberg)
+- **DHL Escalation:** Import duty alert represents customs clearance phase; shipment 2550810194 now requires active intervention/payment resolution (contrasts with earlier passive tracking notifications)
+- **Vendor Diversity Increasing:** New vendor contacts (Speedway Motors, Capital Factory engagement) suggest expanding procurement scope or business development activity
 
 ---
 
@@ -79,14 +100,17 @@
 1. **Christy Evans (Reliascent)** — Active client
 2. **NanoVEU (Mark Goranson & Nikhila Ravikumar)** — Partner; flight testing collaboration
 3. **Nikolai Pawlenko (NOAA Federal)** — Government client
-4. **DHL** — Active international logistics provider (persistent shipment tracking)
+4. **DHL** — Critical active logistics provider (time-sensitive international shipment in customs/duty phase)
+5. **Capital Factory** — Emerging business development/partnership channel
 
 ---
 
 ## Notable Observations
 
-- **DHL Notification Anomaly (May 10):** Four identical shipment alerts for 2550810194 within 2.5 hours suggests either tracking system malfunction or a critical status change triggering multiple notifications. Shipment was initially flagged May 8–9; persistent tracking indicates important/time-sensitive international delivery
-- **Human Communication Pause:** This 10-message batch contains zero human-initiated emails (contrasts sharply with May 8's active client/project coordination). May 9–10 appears to be operational/logistics processing with no new client engagement
-- **Helicopter Equipment Interest:** HeliDirect flash sale notification suggests potential equipment procurement or R&D exploration; worth flagging as new vendor channel
-- **Physical Mail Tracking Active:** USPS Informed Delivery signup indicates coordination of physical deliveries (documents, hardware, or certifications likely)
-- **Promotional Email Accumulation:** Harbor Freight promotional emails continue to reach purchasing inbox; vendor newsletter channel remains open but represents low-priority notifications
+- **DHL Import Duty Alert (May 11, 03:36 UTC):** Shipment 2550810194 has escalated from passive tracking to active intervention required; customs/import duty payment now due. This represents critical operational status change. Timeline suggests delivery window is imminent, and payment resolution is blocking final clearance.
+
+- **Complete Communication Silence from Human Contacts (May 10–11):** Zero emails from Jack Elston, Daniel Prendergast, Beck Cotter, Joshua Fromm, or external clients (Reliascent, NOAA, NanoVEU) during this period. Contrasts with May 8–9's active project/client coordination. Suggests either weekend lull or active parallel work streams not visible in email metadata.
+
+- **Capital Factory Engagement (May 10, 23:33 UTC):** Office hours invitation from venture capital-adjacent community platform; Dan Kryzanowski specific offer suggests pre-existing relationship or targeted outreach. Indicates potential business development, partnership exploration, or capital-raising activity at BST level.
+
+- **Recruitment

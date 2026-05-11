@@ -33,7 +33,7 @@
         "amount": 25830.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-10"
+        "last_updated": "2026-05-11"
       },
       "purchases": {
         "amount": 0.0,
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": -2179.0,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-10T08:53:25Z"
+    "last_reconciled": "2026-05-11T08:54:44Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -75,24 +75,6 @@
   "overrides": [
     {
       "source": "FEEDBACK",
-      "author": "Meredith Needham",
-      "date": "2026-04-17",
-      "text": "From Meredith Needham (ts=1775233560.409249): <@U01511MEQ90> <@U014U9WMK2A> Navy STTR was submitted a long with the invoice. SBIR Magnetometer has the kick-off and FWA Certification due on April 14th. Will review Asana due dates to make sure it's all updated"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Meredith Needham",
-      "date": "2026-04-17",
-      "text": "From Meredith Needham (ts=1775234238.796219): Yep. The links are in the Project brief in Asana. There's a template for the kick-off located there\n\n*Report Templates:* Report templates and instructions can be found under Award Deliverable Templates at<https://navysbir.com/links_forms.htm| ><https://navysbir.com/links_forms.htm>\nAll reports shall prominently show the following information on the cover of the report/data or in the letter of transmittal (if a progress report):\n1. Name and business a"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Meredith Needham",
-      "date": "2026-04-17",
-      "text": "From Meredith Needham (ts=1775234256.932539): <https://navysbir.com/links_forms.htm>"
-    },
-    {
-      "source": "FEEDBACK",
       "author": "Maciej",
       "date": "2026-04-17",
       "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
@@ -120,6 +102,24 @@
       "author": "Maciej",
       "date": "2026-04-17",
       "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Meredith Needham",
+      "date": "2026-04-17",
+      "text": "From Meredith Needham (ts=1775233560.409249): <@U01511MEQ90> <@U014U9WMK2A> Navy STTR was submitted a long with the invoice. SBIR Magnetometer has the kick-off and FWA Certification due on April 14th. Will review Asana due dates to make sure it's all updated"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Meredith Needham",
+      "date": "2026-04-17",
+      "text": "From Meredith Needham (ts=1775234238.796219): Yep. The links are in the Project brief in Asana. There's a template for the kick-off located there\n\n*Report Templates:* Report templates and instructions can be found under Award Deliverable Templates at<https://navysbir.com/links_forms.htm| ><https://navysbir.com/links_forms.htm>\nAll reports shall prominently show the following information on the cover of the report/data or in the letter of transmittal (if a progress report):\n1. Name and business a"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Meredith Needham",
+      "date": "2026-04-17",
+      "text": "From Meredith Needham (ts=1775234256.932539): <https://navysbir.com/links_forms.htm>"
     },
     {
       "source": "FEEDBACK",
@@ -230,6 +230,6 @@
       "text": "From Jack: <@U0AQE94HJUT> correction: the navy sttr has priority, the SBIR is mostly on schedule"
     }
   ],
-  "last_full_rebuild": "2026-05-10T08:53:25Z",
+  "last_full_rebuild": "2026-05-11T08:54:44Z",
   "last_incremental_update": null
 }

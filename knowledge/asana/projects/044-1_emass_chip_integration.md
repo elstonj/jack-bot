@@ -8,7 +8,7 @@
 - **Team Members**: Dan Prendergast (Owner/Lead), Jack Elston, Maciej Stachura, Nate Straus, Ethan Domagala, Meredith O'hara Needham
 - **Risk Signals**: 
   - **🔴 CRITICAL: External blocker on controller delivery from EMASS** — Per Daniel Prendergast (May 4, 2026): "We cannot perform those flights until they send us a new controller binary in the emass-bst slack channel. EMASS validation flight #3 will most likely be Monday at the earliest. EMASS validation flight #2 possibly tomorrow." This is **outside BST control** and actively blocking progress.
-  - **Asana due date discrepancy**: Validation Flight #2 now shows due May 11, 2026 in current export (vs. May 6 in prior snapshot) — suggests Asana was updated but team feedback (May 4) indicates flights still blocked on controller delivery.
+  - **Asana task list incomplete**: Current export shows only 1 open task (Validation Flight #2); Validation Flight #3 and Final Report confirmed open in team feedback but not appearing in Asana export.
   - **No formal due dates on Validation Flight #3 and Final Report** — Creates visibility gap on project closure timeline.
   - **Single point of failure on execution** — Dan Prendergast assigned to all remaining open tasks; Jack Elston and Nate Straus execute field coordination but not formally assigned in Asana.
 
@@ -24,7 +24,7 @@
   - Final Report (No formal due date) — **OPEN**
 
 ## Task Summary
-- **Total Tasks**: 1 open task in current Asana export (Validation Flight #2); 2 additional open tasks (Validation Flight #3, Final Report) referenced in team feedback but not appearing in current task list
+- **Total Tasks**: 1 open task in current Asana export; 2 additional open tasks (Validation Flight #3, Final Report) confirmed in team feedback but not appearing in task list
 - **Tasks by Assignee**:
   - **Dan Prendergast**: 1 task in Asana (Validation Flight #2, Due May 11, 2026) — **BLOCKED, external dependency**
   - **Note**: Jack Elston and Nate Straus actively coordinating field execution per team feedback but not formally assigned in Asana
@@ -76,6 +76,6 @@
 
 1. **External Dependency Blocking All Remaining Flights** (Daniel Prendergast, May 4): Validation Flights #2–#3 cannot proceed until EMASS delivers new controller binary to the emass-bst Slack channel. This is **external risk outside BST control**. Flight schedule is now contingent on EMASS delivery, not BST execution.
 
-2. **Asana Task Data Incomplete**: Current Asana export shows only 1 open task (Validation Flight #2, due May 11); team feedback confirms Validation Flight #3 and Final Report remain open but missing from export. Recommend verifying complete task list in Asana.
+2. **Asana Task Data Incomplete**: Current Asana export shows only 1 open task (Validation Flight #2, due May 11); team feedback confirms Validation Flight #3 and Final Report remain open but missing from current task export. Recommend verifying complete task list in Asana for visibility.
 
-3. **No Formal Due Dates on Final Deliverables**: Validation Flight #3 and Final Report lack due date assignments, creating ambiguity on project closure target. May 2026 is the extended outer bound,
+3. **No Formal Due Dates on Final Deliverables**: Validation Flight #3 and Final Report lack due date assignments, creating ambiguity on project closure target. May 2026 is the extended outer bound.

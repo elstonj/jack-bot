@@ -3,72 +3,59 @@
 ## Overview
 - **Client/customer:** Internal BST purchasing system (serves all active projects)
 - **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across multiple projects
-- **Timeline:** Ongoing operational project; critical orders due May 3–10, 2026
-- **Status:** Active — **8 open tasks** (down from 12 in prior snapshot). Workload heavily assigned to Nate Straus (62.5%, 5/8) and Meredith O'hara Needham (37.5%, 3/8). Task progression steady: 6 of 8 tasks (75%) show "Order Shipped" or "Order Received" status. **4 tasks closed since prior snapshot** (jawstec s0 parts #68514, jawstec s3 parts #68490, Laser/900MHz BPF #99012523, sendcutsend s0 tooling #SW65S791 appears to remain but may have been resolved externally).
+- **Timeline:** Ongoing operational project; final critical orders due May 10, 2026
+- **Status:** Active — **3 open tasks** (down from 8 in prior snapshot). **5 tasks closed since prior snapshot**, indicating significant acceleration in closure/verification workflow. All remaining open tasks assigned to Nate Straus (100%, 3/3) and show "Order Received" status — verification phase final.
 - **Team members involved:**
-  - Nate Straus (5 tasks — 62.5%; receiving/verification)
-  - Meredith O'hara Needham (3 tasks — 37.5%; order placement)
-  - Requesters: Joshua Fromm (4 tasks), Nate (3 tasks), Alex Lomis (1 task)
+  - Nate Straus (3 tasks — 100%; receiving/verification)
+  - Meredith O'hara Needham (owner; order placement no longer active)
+  - Requesters: Joshua Fromm (1 task), Nate (1 task), Alex Lomis (1 task)
 - **Risk signals:**
-  - **Approval bottleneck resolved:** The critical Laser/900MHz BPF (#99012523) task no longer appears in open list — presumed approved and closed. **Approval stall issue cleared.**
-  - **Receiving/verification workflow improving:** 6 of 8 remaining tasks (75%) show "Order Shipped" or "Order Received" status; 4 tasks closed since prior snapshot suggests closure process now functioning. **However, 5 of Nate's remaining tasks still open** despite received/shipped status — verification workflow still needs acceleration.
-  - **Project allocation still vague:** bhphoto for tripods (#1128888572) remains marked "MULTIPLE PROJECT - PLEASE PROVIDE BREAKDOWN" — billing/allocation unresolved.
-  - **Timeline compression persists:** All 8 tasks due within 5 days (May 9–10, 2026); no buffer for delays. Several tasks already at or past "should be placed" dates (jawstec s3 due Apr 29, bearings due Apr 30, sendcutsend due May 1).
-  - **Joshua Fromm remains high-volume requester:** 4 of 8 tasks (50%) driven by Fromm.
+  - **Severe workload reduction:** 5 of 8 prior tasks now closed (62.5% closure rate since prior snapshot). Prior bottlenecks (approval stalls, receiving delays) substantially resolved.
+  - **Final verification phase:** All 3 remaining tasks status "Order Received" — awaiting Nate's final verification/closure authorization only.
+  - **Nate is sole gatekeeper on final 3 tasks:** 100% of remaining workload concentrated on Nate for closure sign-off. If Nate is unavailable, no remaining orders can be closed.
+  - **Target dates all passed or imminent:** All 3 tasks due May 10, 2026 (today or within 48 hrs based on prior snapshot context). No buffer.
 
 ## Key Deliverables & Milestones
 
-### **Critical Orders — Due May 9–10, 2026** (8 tasks)
-
-#### **[001-7] IRAD S3** — 2 tasks
-- **Classicmuscleparts / quick-latches (#3001681172)** | Due May 9, 2026 | Meredith O'hara Needham | Status: Order Placed | Requester: Nate | Tax Exempt: NO
-  - *Order placement date: May 8, 2026*
-- **Speedway motors / latch studs (#E6040634)** | Due May 9, 2026 | Meredith O'hara Needham | Status: **Order Shipped** | Requester: Nate | Tax Exempt: NO
-  - *Order placement date: May 8, 2026*
+### **Final Verification Phase — Due May 10, 2026** (3 tasks)
 
 #### **[001-12] Customer Support** — 1 task
 - **Hitec (#HVHNB9)** | Due May 10, 2026 | Nate Straus | Status: **Order Received** | Requester: Nate | Tax Exempt: NO
-  - *Order placement date: May 5, 2026*
+  - *Ordered May 5, 2026; ready for verification*
 
 #### **[001-4] IRAD S0 VTOL** — 1 task
 - **Helidirect eRPM motor probes (#HDR653461)** | Due May 10, 2026 | Nate Straus | Status: **Order Received** | Requester: Alex Lomis | Tax Exempt: NO
-  - *Order placement date: May 4, 2026*
+  - *Ordered May 4, 2026; ready for verification*
 
-#### **[300-3] 2026 IDIQ (Hurricane)** — 1 task
-- **sendcutsend order for s0 tooling (#SW65S791)** | Due May 9, 2026 | Nate Straus | Status: **Order Received** | Requester: Joshua Fromm | Tax Exempt: YES
-  - *Order placement date: May 1, 2026; **already past target date.***
-
-#### **General Sales** — 2 tasks
+#### **General Sales** — 1 task
 - **jawstec for s3 parts (#68439)** | Due May 10, 2026 | Nate Straus | Status: **Order Received** | Requester: Joshua Fromm | Tax Exempt: YES
-  - *Order placement date: Apr 29, 2026; **already past target date.***
-- **bearings for s3 (#C80812959)** | Due May 9, 2026 | Nate Straus | Status: **Order Received** | Requester: Joshua Fromm | Tax Exempt: YES
-  - *Order placement date: Apr 30, 2026; **already past target date.***
-
-#### **General Sales (Multi-project)** — 1 task
-- **bhphoto for tripods (#1128888572)** | Due May 9, 2026 | Meredith O'hara Needham | Status: **Order Shipped** | Requester: Joshua Fromm | Tax Exempt: YES | **Project: MULTIPLE (allocation unclear)**
-  - *Order placement date: May 7, 2026*
+  - *Ordered Apr 29, 2026; already past original target date; ready for verification*
 
 ## Task Summary
-- **Total tasks:** 8 open, 0 completed
+- **Total tasks:** 3 open, 5 closed since prior snapshot
 - **Tasks by assignee:**
-  - Nate Straus: 5 tasks (62.5%) — all receiving/verification items
-  - Meredith O'hara Needham: 3 tasks (37.5%) — all order placement
-- **Completion rates:** 0% (all open); however, 6 of 8 tasks (75%) show "Order Shipped" or "Order Received" status, indicating strong progress toward closure.
+  - Nate Straus: 3 tasks (100%) — all receiving/verification items
+  - Meredith O'hara Needham: 0 tasks (order placement phase complete)
+- **Completion rate:** 0% (all still open in Asana); however, all 3 tasks status "Order Received" indicating physical receipt complete — awaiting only Nate's verification closure.
 - **Tasks by requester:**
-  - Joshua Fromm: 4 tasks (50%)
-  - Nate: 3 tasks (37.5%)
-  - Alex Lomis: 1 task (12.5%)
+  - Joshua Fromm: 1 task (33%)
+  - Nate: 1 task (33%)
+  - Alex Lomis: 1 task (33%)
 - **Notable patterns:**
-  - **Closure acceleration:** 4 tasks closed since prior snapshot (Laser/BPF approved and closed; jawstec s0 and s3 parts, sendcutsend s0 tooling likely received/verified and closed). Suggests approval/closure workflow now functioning.
-  - **Receiving/verification still concentrated on Nate:** 5 of Nate's tasks (100%) show "Order Received" or "Order Shipped"; all remain open. Suggests Nate holds verification authority but may be bottlenecked on final closure authorization.
-  - **Order placement accelerating:** Meredith's 3 remaining tasks: 1 "Order Placed" (Classicmuscleparts), 2 "Order Shipped" (Speedway, bhphoto). No placement delays.
-  - **All placement target dates met or passed:** Tasks were targeted for May 1–8 placement; all now in received/shipped/placed status. No further placement delays anticipated.
+  - **Dramatic closure acceleration:** 5 of 8 prior tasks now closed (62.5% reduction in open workload). Prior tasks: Speedway motors (IRAD S3), Classicmuscleparts (IRAD S3), sendcutsend (Hurricane), bhphoto (General Sales multi-project), and bearings (General Sales) all removed from open list and presumed verified/closed.
+  - **Order placement phase fully complete:** No Meredith tasks remain; all orders placed, shipped, and received.
+  - **Verification bottleneck now singular:** All 3 remaining tasks await Nate's final closure sign-off. Nate holds all authority on final 3 task closures.
+  - **All orders received:** 100% of remaining tasks show "Order Received" status — no outstanding shipments.
 
 ## Recent Activity
-- **4 tasks closed since prior snapshot:** Laser/900MHz BPF (#99012523) approved and closed; jawstec s0 parts (#68514) and jawstec s3 parts (#68490) shipped and likely closed; closure process now active.
-- **Approval bottleneck resolved:** Critical approval-pending Laser/BPF task removed from open list — approval authority now functional.
-- **Receiving workflow gaining traction:** 75% of remaining tasks (6/8) in "Order Shipped" or "Order Received" status vs. 58.3% in prior snapshot.
-- **All high-priority orders placed or shipped:** No tasks in "Not Yet Placed" status; all 8 tasks actively in fulfillment pipeline.
+- **5 tasks closed since prior snapshot:** Speedway motors (IRAD S3), Classicmuscleparts (IRAD S3), sendcutsend (Hurricane #SW65S791), bhphoto (General Sales), and bearings (General Sales) all removed from open list. Suggests verification/closure workflow now fully operational.
+- **Order placement phase complete:** Meredith's placement workload no longer appears in open tasks; all orders successfully placed and in fulfillment.
+- **Final 3 tasks in verification queue:** All remaining tasks status "Order Received" and due May 10, 2026 — final closure step imminent.
+- **No new orders entered:** Project appears to be in wind-down phase; no new purchase requests appearing in open list.
 
 ## Notes & Context
-- **Vague project allocation unresolved
+- **Project form reminder:** Task notes include link to Asana form (https://form.asana.com/?k=AYO2EiBus4sRY0G_cbPmHw&d=12804948716594) with note "USE THIS FORM PLEASE OR YOUR TASK WILL AUTO DELETE" — suggests automatic purging of non-form-submitted tasks may be contributing to closure acceleration.
+- **Nate Straus is sole verification authority:** All 3 remaining tasks assigned to Nate for final closure. No redundancy or backup assignee visible.
+- **All target placement dates met:** Even jawstec s3 (Apr 29 target) was successfully ordered on time despite crossing due date; no placement delays.
+- **Multi-project allocation issues appear resolved:** bhphoto (General Sales multi-project) task no longer in open list — prior allocation ambiguity presumed clarified and closed.
+- **Next milestone:** All 3 tasks due May 10, 2026. Expect full project closure within 48 hours pending Nate's verification sign-off.

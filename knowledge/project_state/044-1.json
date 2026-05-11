@@ -29,7 +29,7 @@
         "amount": 27137.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-10"
+        "last_updated": "2026-05-11"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 62815.7,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-10T08:51:40Z"
+    "last_reconciled": "2026-05-11T08:52:58Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -138,6 +138,12 @@
     {
       "source": "FEEDBACK",
       "author": "Daniel Prendergast",
+      "date": "2026-05-07",
+      "text": "From Daniel Prendergast: <@U06KRHPQSRH> did EMASS ever pay the second invoice?"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
       "date": "2026-05-04",
       "text": "From Daniel Prendergast (ts=1777477970.596279): <@U0AQE94HJUT> FYI, my priority today is to make slides for the 53rd Weather Squadron and SOCOM visit this Friday.  EMASS validation flights probably won't happen today.  We cannot perform those flights until they send us a new controller binary in the emass-bst slack channel.  EMASS validation flight #3 will most likely be Monday at the earliest.  EMASS validation flight #2 possibly tomorrow."
     },
@@ -146,14 +152,8 @@
       "author": "Daniel Prendergast",
       "date": "2026-05-08",
       "text": "From Daniel Prendergast (ts=1778171546.352389): <@U06KRHPQSRH> did EMASS ever pay the second invoice?"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Daniel Prendergast",
-      "date": "2026-05-07",
-      "text": "From Daniel Prendergast: <@U06KRHPQSRH> did EMASS ever pay the second invoice?"
     }
   ],
-  "last_full_rebuild": "2026-05-10T08:51:40Z",
+  "last_full_rebuild": "2026-05-11T08:52:58Z",
   "last_incremental_update": null
 }

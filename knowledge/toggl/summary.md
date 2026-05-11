@@ -1,7 +1,7 @@
 # Toggl Time Tracking Overview
 
 ## Key Metrics
-- **Total hours tracked:** 32,363.0 hours (2020-2026)
+- **Total hours tracked:** 32,363.5 hours (2020-2026)
 - **Number of active team members:** 26
 - **Number of projects tracked:** 52 projects with time, 151 total projects in workspace
 
@@ -9,7 +9,7 @@
 
 ### Hours by Team Member (Ranked)
 1. **Jack Elston:** 12,711.7 hours (39.3% of total time)
-2. **Stachura:** 2,098.8 hours
+2. **Stachura:** 2,099.3 hours
 3. **Kay Rufty:** 1,974.0 hours
 4. **Alex:** 1,903.1 hours
 5. **Josh Fromm:** 1,799.4 hours
@@ -28,8 +28,8 @@
 *Remaining 10 team members account for ~4,300 hours combined*
 
 ### Utilization Patterns
-- **Last active period:** May 8-9, 2026 (51.2 hours tracked)
-- **Current period (May 9-10):** No time entries recorded — *potential gap in tracking or team downtime*
+- **Last active period:** May 10-11, 2026 (0.5 hours tracked) — *minimal activity*
+- **Current tracking status:** Very light weekend/off-hours activity
 - **Core active contributors:** Jack Elston, Stachura, Nate, Sam Hild, Ethan Domagala, Paige Smith, Meredith Needham
 
 ## Project Portfolio
@@ -41,25 +41,21 @@
 4. **[200-12] Aeropods (NASA):** 1,972.1 hours (6.1%)
 5. **[001-04] S0 VTOL IRAD:** 1,314.1 hours (4.1%)
 6. **[001-13] Corporate/Strategic Planning & Overhead:** 1,441.2 hours (4.5%)
-   - **General Operations:** 72.5 hours
-   - **Marketing:** 22.3 hours
-   - **BD Pipeline:** 18.4 hours
-   - **Proposals:** 3.9 hours
 7. **[200-7] SBIR - Volcano CCRPP:** 1,248.1 hours (3.9%)
-8. **[001-07] S3 IRAD:** 134.1 hours (0.4%)
-9. **[300-3] 2026 IDIQ (Hurricane):** 146.4 hours (0.5%)
+8. **[001-16] SwiftStation IRAD:** 901.3 hours (2.8%)
+9. **[001-14] SwiftCore 3.3 IRAD:** 787.2 hours (2.4%)
 10. **[400-5] SBIR - Soil Moisture Mapping (Air Force):** 1,006.2 hours (3.1%)
 11. **[001-08] Flight Testing IRAD:** 923.8 hours (2.9%)
-12. **[001-16] SwiftStation IRAD:** 901.3 hours (2.8%)
-13. **[001-14] SwiftCore 3.3 IRAD:** 787.2 hours (2.4%)
+12. **[300-3] 2026 IDIQ (Hurricane):** 146.9 hours (0.5%) — *updated with +0.5 hrs*
+13. **[001-07] S3 IRAD:** 134.1 hours (0.4%)
 14. **[043-3] ByLight M2/Halo:** 117.7 hours (0.4%)
-15. **[001-20] PTO:** 8.0 hours
-16. **[031-1] UMES S3:** 4.2 hours
-17. **[044-1] EMASS Chip Integration:** 38.0 hours
+15. **[044-1] EMASS Chip Integration:** 38.0 hours
+16. **[001-20] PTO:** 8.0 hours
+17. **[031-1] UMES S3:** 4.2 hours
 
 ### Client Distribution
 - **IRAD (Internal R&D):** ~5,963.6 hours (18.4%)
-- **NOAA:** 3,425.4 hours (10.6%)
+- **NOAA:** 3,425.9 hours (10.6%) — *updated with +0.5 hrs*
 - **NASA:** 2,058.8 hours (6.4%)
 - **Department of Air Force:** 1,258.5 hours (3.9%)
 - **Overhead/Corporate/Operations/Marketing:** 1,441.2 hours (4.5%)
@@ -69,22 +65,20 @@
 
 ## Patterns & Insights
 
-### Recent Activity (May 8-9, 2026)
-- **S3 IRAD testing:** Sustained focus with Jack Elston and Nate driving flight testing efforts
-- **S0 VTOL development:** Sam Hild primary contributor (8.7 hours)
-- **Operations overhead:** Significant email management and administrative work (11.1 hours)
-- **Marketing sustained:** Paige Smith continuing consistent engagement (6.6 hours)
-- **Core testing team:** Jack Elston, Nate, Stachura collaborating across IRAD projects
+### Recent Activity (May 10-11, 2026)
+- **Minimal tracking:** Only 0.5 hours logged — likely weekend or reduced operations
+- **NOAA work continued:** Stachura logged 0.5 hours to [300-3] 2026 IDIQ (Hurricane)
+- **No other team activity recorded:** Suggests weekend downtime or voluntary tracking
 
 ### Key Observations
-- **Jack Elston dominance:** Controls 39.3% of all tracked time; central to operations, S3 testing, and leadership
-- **Unallocated time significant:** 26.3% of hours lack project assignment — indicates need for improved time tracking discipline
-- **IRAD portfolio strong:** 18.4% of hours invested in internal R&D across 8+ projects (S0/S3 VTOL, SwiftCore, SwiftStation, Flight Testing)
-- **Client mix stable:** NOAA (10.6%) and NASA (6.4%) are primary external revenue drivers
-- **No time entries May 9-10:** Data gap suggests potential weekend/downtime or tracking lapse
+- **Jack Elston dominance:** Continues to control 39.3% of all tracked time
+- **Unallocated time significant:** 26.3% of hours lack project assignment — ongoing discipline issue
+- **IRAD portfolio strong:** 18.4% of hours invested in internal R&D across multiple projects
+- **Client mix stable:** NOAA (10.6%) and NASA (6.4%) remain primary external revenue drivers
+- **Weekend activity low:** Consistent with expected business hours pattern
 
 ### Resource Allocation Status
-- **Billable/Client-funded:** ~13,422.4 hours (41.4%)
+- **Billable/Client-funded:** ~13,422.9 hours (41.4%)
 - **Internal IRAD/Operations:** ~7,404.8 hours (22.9%)
 - **Unallocated/Untracked:** ~8,526.3 hours (26.3%)
 - **PTO:** 8.0 hours (0.02%)
