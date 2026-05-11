@@ -1,10 +1,10 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,103 (1,093 previous + 10 new)
-- **Date range:** March 16 – May 10, 2026 (approximately 56 days)
-- **Approximate volume:** ~19.7 emails per day
-- **New batch (May 9–10):** 10 messages. **~100% automated/logistics** (vendor shipments, order confirmations, promotional emails, shipping digests). **Zero direct human correspondence in this batch.**
+- **Total messages scanned:** 1,111 (1,093 baseline + 10 previous new batch + 8 latest)
+- **Date range:** March 16 – May 11, 2026 (approximately 57 days)
+- **Approximate volume:** ~19.5 emails per day
+- **Latest batch (May 10–11):** 8 messages. **100% automated/logistics** (vendor shipments, order confirmations, promotional emails, shipping digests, customs alerts). **Zero direct human correspondence in this batch.**
 
 ## Key Correspondents
 
@@ -12,6 +12,7 @@
 - **Jack Elston** (elstonj@blackswifttech.com, purchasing@blackswifttech.com) — Executive-level partnership coordination on external sourcing initiatives (Hurricane Season Builds - Part Sourcing)
 - **Joshua Fromm** (josh.fromm@blackswifttech.com) — Direct involvement in logistics/shipping coordination
 - **Meredith O'Hara Needham** (purchasing@blackswifttech.com) — Primary rotorcraft vendor contact; receives rotorcraft-specific procurement notifications
+- **Alex Lomis** (purchasing@blackswifttech.com) — NEW: Appears as recipient on hobby/rewards email from AMain Hobbies; suggests involvement in retail vendor relationship management or procurement alias participation
 
 ### External Contacts (Engineering Partners, Component Suppliers & Logistics)
 
@@ -19,48 +20,61 @@
 - **Matt Crabtree** (matt.crabtree@waveformengineering.com, Waveform Engineering) — External engineering partner on Hurricane Season Builds - Part Sourcing collaboration
 
 **Active Vendors (Sustained & Confirmed):**
-- **DHL Global Logistics** — **CONTINUED CRITICAL INBOUND SHIPMENT**: 4 additional notifications (May 10, 05:06, 05:32, 07:59, 08:00 MYT) for same tracking #2550810194; now showing **consecutive high-frequency updates over 3-hour window** (May 10, 05:06–08:00 MYT), indicating **final delivery stage** — package expected to clear Malaysian customs/distribution hub within hours; **critical component arrival imminent**
-- **McMaster-Carr** — **RECEIPT CONFIRMATION**: Invoice receipt for May 8 order (May 9, 19:26 UTC); order processed and confirmed
-- **HeliDirect** — **PROMOTIONAL/SALES ACTIVITY**: Flash sale notification (May 9, 13:30 UTC) routed to Meredith Needham; indicates continued vendor relationship engagement
-- **Harbor Freight** — **SUSTAINED PROMOTIONAL ENGAGEMENT**: 2 additional promotional emails (May 9 free gift offer, May 10 Day 10 of deals featuring BADLAND Winches 35% off); ongoing tool/equipment procurement awareness
-- **ArcBest** — **NEW VENDOR SIGNAL**: Newsletter/promotional email (May 9, 09:05 UTC); likely logistics/transportation services provider (ArcBest is LTL freight company); suggests possible heavy equipment or bulk component shipment coordination
+- **DHL Global Logistics** — **CRITICAL SHIPMENT #2550810194 CUSTOMS CLEARANCE PHASE**: Import Duty Payment Alert received (May 11, 03:36 UTC); shipment now in customs documentation/duty assessment stage; new DHL notification (May 11, 06:18:59 MYT) confirms continued tracking progression; **expected domestic delivery imminent after duty clearance**
+- **UPS** — **NEW VENDOR SIGNAL**: Package delivery notification (May 10, 14:25 EDT) indicating arrival within 24 hours; adds second major parcel carrier to active inbound logistics
+- **McMaster-Carr** — Order confirmations/invoices confirmed (previous batch)
+- **HeliDirect** — **SUSTAINED ENGAGEMENT**: Rewards program promotional email (May 10, 18:35 UTC) routed to Meredith Needham; indicates customer loyalty/account status with rotorcraft supplier
+- **Harbor Freight** — **SUSTAINED PROMOTIONAL ENGAGEMENT**: Final promotional push (May 10, 13:58 UTC) "LAST CALL" free gift offer ($34.99 spend threshold); indicates active promotional subscription
+- **Speedway Motors** — **NEW VENDOR SIGNAL**: Preference/category management email (May 10, 20:45 UTC); suggests procurement interest in automotive/motorsport components or tools; may indicate emerging vehicle platform testing/assembly focus
+- **AMain Hobbies** — **NEW VENDOR SIGNAL**: Customer rewards points notification (May 11, 07:56 UTC) routed to Alex Lomis; suggests RC/hobby electronics or drone component procurement channel (AMain Hobbies specializes in RC vehicles, drones, hobby electronics)
 
 **Automated Systems:**
-- **USPS Informed Delivery** — Daily shipping digest system active (May 9); indicates domestic mail/package tracking integrated into procurement workflow
+- **USPS Informed Delivery** — Daily shipping digest system active (May 10); domestic mail/package tracking integrated into procurement workflow
+- **UPS** — Parcel tracking system active (new in this batch)
 
 ## Topic Patterns
 
-### Active Projects (EXECUTION PHASE — CRITICAL COMPONENT INBOUND)
+### Active Projects (CRITICAL CUSTOMS/DUTY CLEARANCE PHASE)
 
-**International Supply Chain (FINAL DELIVERY STAGE):**
-- **DHL Shipment #2550810194 — ACCELERATING DELIVERY TIMELINE**: 4 consecutive notifications over 3-hour window (May 10, 05:06–08:00 MYT) indicate rapid progression through Malaysia distribution network; **final leg of international transit underway**; expected delivery within 12–24 hours
+**International Supply Chain (CUSTOMS PHASE — FINAL BARRIER):**
+- **DHL Shipment #2550810194 — CUSTOMS DUTY ASSESSMENT**: Import Duty Payment Alert (May 11, 03:36 UTC) indicates shipment has reached customs documentation stage; duty assessment underway; continued notification (May 11, 06:18:59 MYT) shows tracking progression; **expected clearance within 24–48 hours post-payment**
 
 **Rotorcraft Components & Subsystems (VENDOR RELATIONSHIP ACTIVE):**
-- **HeliDirect Flash Sale** — Promotional engagement (May 9); suggests opportunity-based procurement or component availability monitoring
+- **HeliDirect Rewards Program** — Customer loyalty email (May 10); indicates active account status and sustained procurement relationship
 
-**Motor & Drive Systems (PROCUREMENT CONFIRMED):**
-- **McMaster-Carr Receipt Processed** — May 8 order officially received and invoiced (May 9); mechanical/bearing/fastener components now in accounting pipeline
+**Emerging Automotive/Vehicle Platform Interest (NEW SIGNAL):**
+- **Speedway Motors Engagement** — Category preference management (May 10); LTL automotive/motorsport supplier; suggests possible vehicle-scale component sourcing or assembly platform development
+- **UPS Inbound Package** — Domestic parcel delivery (May 10) with no subject detail; timing aligns with other component inbound logistics
 
-**Logistics & Warehouse Operations (EMERGING):**
-- **Harbor Freight Winch Promotion** — Sustained tool/equipment procurement interest; 35% discount on BADLAND Winches (May 10) suggests possible equipment acquisition for assembly/test facility or vehicle transport/securing operations
-- **ArcBest Engagement** — LTL freight company outreach; possible indicator of preparing for bulk inbound shipment logistics or heavy component delivery coordination
+**Hobby Electronics/Drone Components (NEW SIGNAL):**
+- **AMain Hobbies Rewards** — Customer loyalty notification (May 11) routed to Alex Lomis; AMain Hobbies specializes in RC vehicles, drones, hobby electronics; suggests potential interest in small-scale UAV components or electronics testing
+
+**Tool & Equipment Procurement (SUSTAINED):**
+- **Harbor Freight Promotional** — Final promotional offer (May 10); continued engagement with tool/equipment supplier
 
 ## Communication Patterns
 
-- **Vendor notification centralization**: ~100% of new batch routed through purchasing@blackswifttech.com alias; confirms robust centralized procurement tracking
-- **DHL acceleration pattern**: Shift from 3 notifications (May 9) to 4 notifications in compressed 3-hour window (May 10, 05:06–08:00 MYT); **characteristic of final distribution hub processing** before international clearance/domestic handoff
-- **No direct human correspondence**: Entire 10-message batch consists of automated vendor/logistics notifications and promotional emails; suggests period of quiet between human collaborators or asynchronous project coordination
-- **Promotional email persistence**: Harbor Freight and HeliDirect continue aggressive promotional outreach; may indicate subscribed status or prior inquiry/purchase history
+- **Vendor notification centralization maintained**: All automated notifications routed through purchasing@blackswifttech.com alias; robust centralized procurement tracking continues
+- **DHL shipment progression**: Shift from logistics notifications to **customs duty alert** (May 11); characteristic progression for international parcels clearing final regulatory barrier; high-value component confirmed
+- **Multiple carrier coordination**: DHL + UPS now both active simultaneously (May 10); suggests coordinated multi-parcel inbound strategy or arrival overlap
+- **No direct human correspondence**: Entire 18-message batch (10 May 9–10 + 8 May 10–11) consists of automated notifications and promotional emails; extended period without human-to-human email coordination; consistent with asynchronous/meeting-based project updates
+- **New vendor category activation**: Speedway Motors and AMain Hobbies represent new supplier categories (automotive/motorsport + hobby electronics); suggests expanding procurement scope beyond current rotorcraft/mechanical focus
+- **Promotional fatigue signals**: Harbor Freight escalating from discount offers to "LAST CALL" urgency; typical end-of-campaign pattern
 
 ## Key Relationships
 
 - **Jack Elston + Matt Crabtree (Waveform Engineering)** — Active external engineering partnership on seasonal production scaling (Hurricane Season Builds)
-- **Meredith O'Hara Needham + Rotorcraft Component Vendors** — Sustained rotorcraft procurement pipeline; HeliDirect prioritized relationship
-- **Joshua Fromm + Logistics Coordination** — Direct involvement in shipping/fulfillment operations (Pirate Ship, DHL tracking)
+- **Meredith O'Hara Needham + Rotorcraft Component Vendors (HeliDirect)** — Sustained rotorcraft procurement pipeline with active customer loyalty program
+- **Alex Lomis + Hobby Electronics/Retail Vendors** — NEW: Emerging relationship with specialty hobby/RC electronics suppliers (AMain Hobbies); suggests potential alt procurement pathway for small-scale components
+- **Joshua Fromm + Multi-Carrier Logistics** — Coordination across DHL, UPS, USPS; expanded domestic + international shipping orchestration
 
 ## Notable Observations
 
-- **DHL Shipment #2550810194 Reaching Critical Threshold**: Acceleration from 3 notifications (May 9) to 4 in 3-hour window (May 10) is textbook pattern for final international distribution hub stage; **high-value component expected to clear customs/logistics hub and enter domestic delivery within 24 hours**; recommend readiness for urgent receipt/integration
-- **No human correspondence in past 48 hours**: Entire May 9–10 batch is purely automated; suggests either (a) weekend communication hiatus, or (b) project coordination occurring through asynchronous channels (Asana, Slack, meeting notes)
-- **Emerging Winch/Heavy Equipment Interest**: Harbor Freight BADLAND Winch promotion and new ArcBest logistics provider outreach may signal preparation for vehicle-scale testing, transport, or facility upgrade operations (counterintuitive to current small-component-focused workflow, but worth monitoring)
-- **Rotorcraft Component Velocity Remains High**: HeliDirect flash sale + previous delivery confirmations indicate sustained rotorcraft subsystem procurement pace; no delays flagged in this batch
+- **DHL Shipment #2550810194 Now in Customs Duty Phase**: Transition from logistics hub notifications to **Import Duty Payment Alert** (May 11, 03:36 UTC) signals final regulatory clearance stage; high-value component confirmation; **expect domestic delivery within 24–48 hours post-duty payment**; critical component arrival imminent — likely time-sensitive for production/integration
+- **Multiple Inbound Parcels Converging (May 10–11)**: DHL international + UPS domestic + USPS domestic digest all active simultaneously; suggests coordinated component delivery window or urgent fulfillment operation startup
+- **Expanding Procurement Categories (New Signals)**: 
+  - **Speedway Motors** (automotive/motorsport) = possible vehicle platform testing or ground-based systems development
+  - **AMain Hobbies** (drone/RC/hobby electronics) = potential small-scale UAV components, flight controllers, or sensor procurement
+  - Together suggest **diversification beyond current rotorcraft focus** into complementary vehicle platforms or test systems
+- **Extended Non-Human Communication Window**: 18+ consecutive automated messages across 48 hours (May 9–11) with zero direct human correspondence; consistent with either weekend activity hiatus or active project coordination occurring through synchronous meetings/Slack/Asana; worth verifying if concurrent project milestones align with communication gap
+- **Rotorcraft Component Velocity Remains High with Loyalty Signals**: HeliDirect rewards engagement +

@@ -39,11 +39,11 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - IRC chat coordination system for real-time field communication during flights and landing operations
 - 5 test flights completed during validation window; data recovery and post-processing in progress
 
-**Data Products (May 6, 2026):**
+**Data Products (May 6-10, 2026):**
 - Full-rate multi-sensor dataset from 5 test flights and CAT flights (primary deliverable maintaining 5Hz PTH, 100Hz wind, 100Hz static pressure sampling rates)
 - 1 Hz downsampled version for TDR (Tropical Cyclone Data Repository) comparison and analysis
 - Processed dropsonde data (post-processed with Aspen QC)
-- TDR radar data from CAT flights (available for 04/07 and 04/09; 04/07 data sparse at 1-km coverage with insufficient eastern region data per May 7 findings)
+- TDR radar data from CAT flights (available for 04/07 and 04/09; 04/07 data sparse at 1-km coverage with insufficient eastern region data per May 7 findings; reprocessing by Paul/NOAA TDR team pending as of May 10)
 - Streamsonde data (post-processing status: TBD on real-time QC files)
 
 **Data Repository Structure (May 6, 2026):**
@@ -74,13 +74,11 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
   - TDR data processing (uploaded to CAT folder May 6)
   - Creating centralized CAT subfolder in NOAA folder for team data organization
   - Coordinating data access and organization for analysis
+  - **Following up with Paul (NOAA/TDR team) on reprocessing TDR data for better eastern region coverage** (May 10)
+  - Gathering P3 altitude information for wind measurement comparison analysis
 - **Team**: 
   - **Progress Report (CLIN0006) due Wednesday, June 3, 2026** - utilize templates from https://navysbir.com/links_forms.htm and Google Docs templates
   - Gather Phase II Cal/Val partnership info (WHOI arrays via 53rd Weather Wing, ocean arrays contacts from Josh W., other sources)
   - Meeting planned week of May 13, 2026 for Phase II Cal/Val plan finalization
 
 **Phase I Option Deliverables:**
-- Phase II Cal/Val Plan (due May 20) - meeting scheduled week of May 13 to finalize
-- Additional cal/val with NOAA data/ISARRA (due June 20)  
-- De-ice heaters design (due July 20)
-- Stakeholder engagement (due September 20)

@@ -33,7 +33,7 @@
         "amount": 13147.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-10"
+        "last_updated": "2026-05-11"
       },
       "purchases": {
         "amount": 0.0,
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": 104662.15,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-10T08:52:51Z"
+    "last_reconciled": "2026-05-11T08:54:11Z"
   },
   "milestones": [
     {
@@ -240,6 +240,6 @@
       "text": "From Jack: Mexico USGS volcano deployment (350-4) is DELAYED to Fall 2026. Not departing April 20. No flight planning, no shipping, no mission prep imminent. Any Asana tasks referencing an April deployment are stale - ignore them."
     }
   ],
-  "last_full_rebuild": "2026-05-10T08:52:51Z",
+  "last_full_rebuild": "2026-05-11T08:54:11Z",
   "last_incremental_update": null
 }

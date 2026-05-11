@@ -46,7 +46,8 @@
 | #1741 | 2026-07-30 | $72,000.00 | [300-3] 2026 IDIQ | CLIN 1001 Invoice 6 of 6 | $72,000.00 |
 | #1750 | 2026-09-28 | $14,459.00 | [550-1] Navy SBIR Magnetometer | CLIN 0007: Final Report | $14,459.00 |
 
-**Recent invoice total (last 3 months):** $265,459.00
+**Recent invoice total (last 3 months, 2026-06-29 to 2026-09-28):** $265,459.00  
+*(No new invoices in 2026-05-10 to 2026-05-11 period; data already integrated above)*
 
 ---
 
@@ -134,6 +135,4 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 - **Direct Cost Shipping, Freight & Delivery** (2026-04-06): $358.40 (items sent to NOAA Lakeland for Maciej & Alex trip)
 - **FedEx Shipment FEDEX37097183** (2026-05-05): $310.81 (Alerion Tech shipment from Spain to BST; MP Jet order #09449)
   - $207.21 DC-Direct Cost Shipping, Freight & Delivery (main shipment)
-  - $41.44 DC-Direct Cost Shipping, Freight & Delivery
-  - $62.16 Inventory Asset (For future sales of 6 S0s)
-- **DHL/FedEx tariffs on PCB imports:** $
+  - $41.44 DC-Direct

@@ -1,64 +1,54 @@
 # BST Financial Overview (QuickBooks)
 
-## ⚠️ Data Quality Note
-The QuickBooks export provided is **incomplete**. The P&L Report shows headers only without actual dollar amounts, and the per-project data is truncated. Below is what can be extracted:
+## ⚠️ Data Limitation Notice
+The QuickBooks export provided is incomplete. The Profit & Loss report shows only headers without actual dollar amounts, and project data is partially cut off. Below is analysis based on available information.
 
 ---
 
 ## Company Totals
+Based on available Government project data (appears to be the primary/only classified project):
+
 | Metric | Amount |
 |--------|--------|
-| Total Revenue (Invoiced) | *Data incomplete* |
-| Total Expenses | *Data incomplete* |
-| Net Income | *Data incomplete* |
+| **Total Revenue (Invoiced)** | $4,176,070.28 |
+| **Total Expenses** | $1,316,187.07 |
+| **Outstanding Receivables** | $2,908,551.19 |
+| **Net Position (Invoiced - Expenses)** | $2,859,883.21 |
 
-**From Government project alone:**
-- Revenue: $4,176,070.28
-- Expenses: $1,316,187.07
-- Net Position: $2,859,883.21
+**Note:** These figures are from the Government project only. Complete company totals from the P&L report are not readable in the provided data.
 
 ---
 
 ## By Project/Class
 
-### 1. Government
-| Metric | Amount |
-|--------|--------|
+### Government
+| Category | Amount |
+|----------|--------|
 | Total Revenue | $4,176,070.28 |
 | Total Expenses | $1,316,187.07 |
-| Net Position | $2,859,883.21 |
+| Purchase Orders | $832.00 |
+| **Net Position** | **$2,859,883.21** |
 | Active Invoices | 74 |
-| Date Range | Apr 2024 – Sep 2026 |
-
-**Note:** This is the only project with detailed data provided.
+| Date Range | 2024-04-07 to 2026-09-28 |
 
 ---
 
 ## Cash Flow Indicators
 
-### Accounts Receivable (Government Project)
-- **Outstanding Invoice Balance:** $2,908,551.19
-- **Collection Rate:** 70.3% of invoiced amount collected
+**Outstanding Accounts Receivable:** $2,908,551.19
+- Represents 70% of total invoiced revenue still uncollected
+- **Action needed:** Review aging of outstanding invoices
 
-### Observations
-- Significant AR balance suggests invoices awaiting payment
-- 74 active invoices indicates ongoing work
-
----
-
-## Top Vendors & Customers
-*Data incomplete* – vendor and customer breakdowns not provided in export.
+**Active Invoice Count:** 74 invoices
+- Suggests ongoing project activity
 
 ---
 
-## Unclassified Transactions
-- Purchase Orders issued: $832.00 (Government project)
-- Cannot determine classification of other transactions without complete report
+## Data Gaps & Action Items
+- ❌ Top Vendors list - not provided
+- ❌ Top Customers detail - not provided  
+- ❌ Other Projects/Classes - data cut off
+- ❌ Recent large expenses - not itemized
+- ❌ Complete P&L totals - headers only
 
----
-
-## **Action Items**
-1. **Request complete P&L report** with all line items and totals
-2. **Provide full per-project breakdown** for all classes (if multiple projects exist)
-3. **Include vendor and customer summaries** for complete financial picture
-4. **Clarify reporting period** – data spans Apr 2024–Sep 2026 (24+ months)
+**Recommendation:** Request a complete QuickBooks export including all projects, vendor details, and full P&L statement for comprehensive analysis.
