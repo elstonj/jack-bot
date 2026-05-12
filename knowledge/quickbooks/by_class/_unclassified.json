@@ -2,95 +2,96 @@
   "project_code": "_unclassified",
   "qbo_class_names": [
     "",
-    "NOAA UASD",
-    "NOAA UxSOC"
+    "Black Swift Technologies"
   ],
   "period": {
-    "start": "2026-05-08",
-    "end": "2026-05-09"
+    "start": "2026-05-11",
+    "end": "2026-05-12"
   },
   "totals": {
-    "revenue": 9320.0,
-    "expenses": 56.34,
+    "revenue": 197188.0,
+    "expenses": 11686.12,
     "by_category": {
-      "FACILITIES:FA-Shop Supplies": 56.34
+      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 10773.62,
+      "SALES & MARKETING:SM-Conferences/Seminars": 912.5
     }
   },
   "invoices": [
     {
       "type": "Invoice",
-      "date": "2026-05-08",
-      "doc_number": "1762",
-      "total": 4660.0,
-      "attributed": 4660.0,
+      "date": "2026-05-11",
+      "doc_number": "1763",
+      "total": 197188.0,
+      "attributed": 197188.0,
       "vendor": "",
-      "customer": "NOAA UASD",
-      "balance": 4660.0,
+      "customer": "Black Swift Technologies",
+      "balance": 197188.0,
       "memo": "",
       "lines": [
         {
-          "amount": 4500.0,
+          "amount": 65000.0,
           "account": "",
-          "description": "Display Model S0. Includes a tripod and the \"collar\" that supports the S0."
+          "description": "4 meter wingspan aircraft capable of VTOL operations. Compatible with S2 payloads. Comes with 1 battery, hard shipping case, grounds station, tablet with SwiftTab software."
         },
         {
-          "amount": 160.0,
+          "amount": 36000.0,
           "account": "",
-          "description": "Shipping S0 display model to NOAA UxSOC"
+          "description": "VTOL Variant of the S0 UAS capable of providing pressure, temperature and RH measurements. Includes charger, cables and protective case."
         },
         {
-          "amount": 4660.0,
+          "amount": 56188.0,
           "account": "",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Invoice",
-      "date": "2026-05-08",
-      "doc_number": "1761",
-      "total": 4660.0,
-      "attributed": 4660.0,
-      "vendor": "",
-      "customer": "NOAA UxSOC",
-      "balance": 4660.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 4500.0,
-          "account": "",
-          "description": "Display Model S0. Includes a tripod and the \"collar\" that supports the S0."
+          "description": "Includes E2 UAS airframe, avionics package consisting of SwiftCore\u2122 Flight Management System (includes SwiftTab\u2122 user interface installed on an Android-based Control Tablet, Futaba 14SG Handset, and SwiftStation\u2122 RTK enabled Ground Control Unit), toolkit, tripod, battery, charger, and hard sided shi"
         },
         {
-          "amount": 160.0,
+          "amount": 40000.0,
           "account": "",
-          "description": "Shipping S0 display model to NOAA UxSOC"
+          "description": "Avionics systems for bench testing."
         },
         {
-          "amount": 4660.0,
+          "amount": 197188.0,
           "account": "",
           "description": ""
         }
       ]
     }
   ],
-  "bills": [],
+  "bills": [
+    {
+      "type": "Bill",
+      "date": "2026-06-01",
+      "doc_number": "7020",
+      "total": 10773.62,
+      "attributed": 10773.62,
+      "vendor": "Boostr Consulting LLC",
+      "customer": "",
+      "balance": 10773.62,
+      "memo": "Paid when taxes are paid",
+      "lines": [
+        {
+          "amount": 10773.62,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": "R&D Tax Credits 2025"
+        }
+      ]
+    }
+  ],
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-05-08",
-      "doc_number": "52080239",
-      "total": 56.34,
-      "attributed": 56.34,
+      "date": "2026-05-11",
+      "doc_number": "",
+      "total": 912.5,
+      "attributed": 912.5,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "No Asana request - purchase made by M. Needham after request from Josh Fromm.",
+      "memo": "AMERICAN GEOPHYSICAL U - 7333",
       "lines": [
         {
-          "amount": 56.34,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "HAZMAT label: Lithium Metal Batteries UN 3090"
+          "amount": 912.5,
+          "account": "SALES & MARKETING:SM-Conferences/Seminars",
+          "description": "Half of payment for conference"
         }
       ]
     }

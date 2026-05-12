@@ -3,84 +3,111 @@
 ## By Product/System
 
 ### SwiftCore Flight Management System
-- **Autonomy Phase II Proposal – DRAFT** | NASA ARMD | April 2026 | Phase II proposal for autonomous flight management capabilities (autonomy_phase_ii-proposal-draft.md)
+- **Autonomy Phase II Proposal – DRAFT** | NASA ARMD | April 2026 | Phase II SBIR proposal for autonomous UAS flight control and ML integration (autonomy_phase_ii-proposal-draft.md)
+- **Phase I Final Report – Draft** | NASA ARMD | March 2026 | Phase I completion report on adaptive autonomy architecture (phase_i-final-report-draft.md)
+- **BST Phase II Review and Visualization Plan** | NASA SBIR | May 2026 | Internal editorial and review guidance for Phase II proposal (bst_phase2_review_and_visualization_plan.md)
 
-### Not Product-Specific
-- NASA AERO.7 Phase I | NASA | May 2026 | Incomplete SBIR Phase I proposal template (nasa_aero7_phase_i.md)
-- DAF Agile EW Technical Volume Template | Department of Air Force | May 2026 | Proposal template for Electronic Warfare program (daf_agile_ew_technical_volume_template.md)
-- Runtime Assured Autonomy Technical Volume Template | DoD/DAF | May 2026 | Blank SBIR/STTR Phase I proposal template (runtime_assured_autonomy_technical_volume_template.md)
+### S3 VTOL Aircraft
+- **Invoice 1763** | Black Swift Technologies | May 2026 | Equipment purchase order including 1x S3 VTOL unit (invoice_1763pdf.md)
+- **BST Phase II Review and Visualization Plan** | NASA SBIR | May 2026 | References S3 airframe specifications and capabilities (bst_phase2_review_and_visualization_plan.md)
+
+### S2 Airframe
+- **BST Phase II Review and Visualization Plan** | NASA SBIR | May 2026 | Discusses S2 platform capabilities and integration (bst_phase2_review_and_visualization_plan.md)
+
+### S0 UAS
+- **Invoice 1763** | Black Swift Technologies | May 2026 | Equipment purchase includes S0 UAS unit (invoice_1763pdf.md)
+- **BST Phase II Review and Visualization Plan** | NASA SBIR | May 2026 | References S0 airframe for autonomy testing (bst_phase2_review_and_visualization_plan.md)
+
+### E2 UAS
+- **Invoice 1763** | Black Swift Technologies | May 2026 | Equipment purchase includes E2 UAS unit (invoice_1763pdf.md)
+- **BST Phase II Review and Visualization Plan** | NASA SBIR | May 2026 | References E2 airframe for mission operations (bst_phase2_review_and_visualization_plan.md)
+
+### SwiftTab (Ground Control Interface)
+- **Invoice 1763** | Black Swift Technologies | May 2026 | Equipment purchase includes SwiftTab units (invoice_1763pdf.md)
+
+### SwiftStation (Ground Control Station)
+- **Invoice 1763** | Black Swift Technologies | May 2026 | Equipment purchase includes SwiftStation unit (invoice_1763pdf.md)
+
+### SwiftSim (Simulation Environment)
+- **BST Phase II Review and Visualization Plan** | NASA SBIR | May 2026 | References simulation platform for algorithm development (bst_phase2_review_and_visualization_plan.md)
+
+### SwiftDeploy (Deployment Framework)
+- **BST Phase II Review and Visualization Plan** | NASA SBIR | May 2026 | References deployment tools for autonomy systems (bst_phase2_review_and_visualization_plan.md)
 
 ---
 
 ## By Client/Agency
 
-### NASA
-- **Autonomy Phase II Proposal – DRAFT** | Aeronautics Research Mission Directorate (ARMD) | April 2026 | Phase II proposal for SwiftCore autonomous flight management (autonomy_phase_ii-proposal-draft.md)
-- **NASA AERO.7 Phase I** | NASA SBIR | May 2026 | Incomplete Phase I proposal template for subtopic AERO.7.S26B (nasa_aero7_phase_i.md)
+### NASA (Aeronautics Research Mission Directorate – ARMD)
+- **Autonomy Phase II Proposal – DRAFT** | SBIR Phase II | April 2026 | Draft proposal for autonomous flight control and ML integration (autonomy_phase_ii-proposal-draft.md)
+- **Phase I Final Report – Draft** | SBIR Phase I | March 2026 | Final report on Subtopic A2.02: Enabling Aircraft Autonomy; Contract 80NSSC25C0155 (phase_i-final-report-draft.md)
+- **BST Phase II Review and Visualization Plan** | SBIR Program | May 2026 | Internal editorial guidance for Phase II proposal submission (bst_phase2_review_and_visualization_plan.md)
 
 ### Department of the Air Force (DAF)
-- **DAF Agile EW Technical Volume Template** | DAF SBIR/STTR | May 2026 | Proposal template for Electronic Warfare program (daf_agile_ew_technical_volume_template.md)
-- **DAF_26.BZ_PH I_R1_v2.pdf** | DAF/DoW | May 2026 | SBIR Phase I submission instructions and topic index for 2026 BAA Release 1 (daf_26bz_ph_i_r1_v2pdf.md)
+- **DAF Agile EW Technical Volume Template** | Agile EW SBIR/STTR | May 2026 | Template and formatting instructions for Electronic Warfare proposals (daf_agile_ew_technical_volume_template.md)
 
-### Department of Defense (DoD) / Department of War (DoW)
-- **Runtime Assured Autonomy Technical Volume Template** | DoD/DAF | May 2026 | SBIR/STTR Phase I template for Runtime Assured Autonomy program (runtime_assured_autonomy_technical_volume_template.md)
-- **DoW Solicitation Appendix A: Technical Volume Template** | DoW SBIR/STTR | May 2026 | Generic Phase I Technical Volume proposal template and instructions (.docx) (dow_solicitation_appendix_a__technical_volume_templatedocx.md)
-- **DoW SBIR/STTR Phase I Technical Volume Template** | DoW SBIR/STTR | May 2026 | Generic Phase I Technical Volume proposal template and instructions (.pdf) (dow_solicitation_appendix_a__technical_volume_templatepdf.md)
-
-### Small Business Administration (SBA)
-- **FWA_Training (3).pdf** | SBA | March 2021 | Training course on fraud, waste, and abuse prevention in SBIR/STTR programs (fwa_training_3pdf.md)
+### Black Swift Technologies (Internal)
+- **Invoice 1763** | Internal Equipment Purchase | May 2026 | Purchase order for airframes, flight systems, and ground control equipment (invoice_1763pdf.md)
 
 ---
 
 ## By Application Area
 
-### Autonomy & Flight Management
-- **Autonomy Phase II Proposal – DRAFT** | NASA ARMD | April 2026 | SwiftCore autonomous flight management system development (autonomy_phase_ii-proposal-draft.md)
-- **Runtime Assured Autonomy Technical Volume Template** | DoD/DAF | May 2026 | Template for Runtime Assured Autonomy proposals (runtime_assured_autonomy_technical_volume_template.md)
+### Autonomous Flight Control & UAS Autonomy
+- **Autonomy Phase II Proposal – DRAFT** | NASA ARMD | April 2026 | Modular autonomy architecture for flight control, ML integration, and multi-vehicle coordination (autonomy_phase_ii-proposal-draft.md)
+- **Phase I Final Report – Draft** | NASA ARMD | March 2026 | Phase I research on adaptive autonomy, secure flight control, and machine learning for UAS (phase_i-final-report-draft.md)
+- **BST Phase II Review and Visualization Plan** | NASA SBIR | May 2026 | Phase II research plan with focus on SwiftCore autonomy capabilities (bst_phase2_review_and_visualization_plan.md)
 
-### Electronic Warfare
-- **DAF Agile EW Technical Volume Template** | DAF | May 2026 | Proposal template for Agile Electronic Warfare program (daf_agile_ew_technical_volume_template.md)
+### Electronic Warfare (EW)
+- **DAF Agile EW Technical Volume Template** | DAF | May 2026 | Template for Agile EW SBIR/STTR proposals (daf_agile_ew_technical_volume_template.md)
 
-### Aeronautics Research
-- **NASA AERO.7 Phase I** | NASA SBIR | May 2026 | Proposal for AERO.7.S26B aeronautics subtopic (nasa_aero7_phase_i.md)
-
-### Compliance & Training
-- **FWA_Training (3).pdf** | SBA | March 2021 | Fraud, waste, and abuse prevention training for SBIR/STTR participants (fwa_training_3pdf.md)
+### Multi-Vehicle Coordination
+- **Autonomy Phase II Proposal – DRAFT** | NASA ARMD | April 2026 | Addresses multi-vehicle coordination as part of modular autonomy approach (autonomy_phase_ii-proposal-draft.md)
+- **Phase I Final Report – Draft** | NASA ARMD | March 2026 | Includes research on multi-vehicle coordination mechanisms (phase_i-final-report-draft.md)
 
 ---
 
 ## By Document Type
 
-### Proposals (Completed or Draft)
-- **Autonomy Phase II Proposal – DRAFT** | NASA | April 2026 | Phase II proposal with SwiftCore details; incomplete/draft status (autonomy_phase_ii-proposal-draft.md)
-- **NASA AERO.7 Phase I** | NASA | May 2026 | Phase I proposal draft/template; incomplete (nasa_aero7_phase_i.md)
+### Proposals
+- **Autonomy Phase II Proposal – DRAFT** | NASA ARMD | April 2026 | NASA SBIR Phase II proposal; draft status with incomplete sections (autonomy_phase_ii-proposal-draft.md)
+- **DAF Agile EW Technical Volume Template** | DAF | May 2026 | Template document providing formatting and content guidance for Electronic Warfare SBIR/STTR proposals (daf_agile_ew_technical_volume_template.md)
 
-### Proposal Templates & Instructions
-- **DAF Agile EW Technical Volume Template** | DAF | May 2026 | Formatting instructions and blank template for Agile EW proposals (daf_agile_ew_technical_volume_template.md)
-- **Runtime Assured Autonomy Technical Volume Template** | DoD/DAF | May 2026 | Blank SBIR/STTR Phase I template for RTAA program (runtime_assured_autonomy_technical_volume_template.md)
-- **DoW Solicitation Appendix A: Technical Volume Template (.docx)** | DoW | May 2026 | Generic Phase I Technical Volume template and instructions in Word format (dow_solicitation_appendix_a__technical_volume_templatedocx.md)
-- **DoW SBIR/STTR Phase I Technical Volume Template (.pdf)** | DoW | May 2026 | Generic Phase I Technical Volume template and instructions in PDF format (dow_solicitation_appendix_a__technical_volume_templatepdf.md)
+### Final Reports
+- **Phase I Final Report – Draft** | NASA ARMD | March 2026 | Phase I SBIR completion report on adaptive autonomy for UAS; Contract 80NSSC25C0155 (phase_i-final-report-draft.md)
 
-### Solicitation Documents & Instructions
-- **DAF_26.BZ_PH I_R1_v2.pdf** | DAF/DoW | May 2026 | 2026 SBIR BAA Release 1 submission instructions, topics, and guidance (daf_26bz_ph_i_r1_v2pdf.md)
+### Internal Planning & Editorial Documents
+- **BST Phase II Review and Visualization Plan** | NASA SBIR | May 2026 | Internal review guidance, editorial priorities, and visualization strategies for Phase II proposal (bst_phase2_review_and_visualization_plan.md)
 
-### Training & Compliance Materials
-- **FWA_Training (3).pdf** | SBA | March 2021 | Educational training course on fraud, waste, and abuse prevention (fwa_training_3pdf.md)
+### Invoices & Purchase Orders
+- **Invoice 1763** | Black Swift Technologies | May 2026 | Equipment purchase order for S3, S0, E2 airframes and ground control systems; Net 30 terms (invoice_1763pdf.md)
 
----
-
-## Summary Statistics
-- **Total Documents:** 10
-- **Completed/Draft Proposals:** 2
-- **Templates & Instructions:** 5
-- **Solicitation Guidance:** 1
-- **Training/Compliance:** 1
-- **Unique Clients:** 5 (NASA, DAF, DoD/DoW, SBA)
-- **Products Featured:** 1 primary (SwiftCore)
+### Templates & Instructions
+- **DAF Agile EW Technical Volume Template** | DAF | May 2026 | Proposal template with formatting instructions and section requirements (daf_agile_ew_technical_volume_template.md)
 
 ---
 
-## Notes
-- Most documents dated May 2026 appear to be work-in-progress or template materials from recent proposal development efforts
-- Only **Autonomy Phase II Proposal** and **NASA AERO.7 Phase I** reference substantive BST work; the rest are procedural/administrative documents
-- SwiftCore Flight Management System is the only named BST product across this document set
+## By Date
+
+### April 2026
+- **Autonomy Phase II Proposal – DRAFT** | NASA ARMD | April 8–9, 2026 (autonomy_phase_ii-proposal-draft.md)
+
+### May 2026
+- **Invoice 1763** | Black Swift Technologies | May 11, 2026 (invoice_1763pdf.md)
+- **BST Phase II Review and Visualization Plan** | NASA SBIR | May 11, 2026 (bst_phase2_review_and_visualization_plan.md)
+- **DAF Agile EW Technical Volume Template** | DAF | May 8, 2026 (daf_agile_ew_technical_volume_template.md)
+
+### March 2026
+- **Phase I Final Report – Draft** | NASA ARMD | March 2026 (phase_i-final-report-draft.md)
+
+---
+
+## Document Status Summary
+
+| Document | Status | Notes |
+|----------|--------|-------|
+| Autonomy Phase II Proposal – DRAFT | DRAFT | Incomplete; template sections unfilled |
+| Phase I Final Report – Draft | DRAFT | Final report version |
+| Invoice 1763 | ACTIVE | Equipment purchase order |
+| DAF Agile EW Technical Volume Template | TEMPLATE | Instructional document; not a substantive proposal |
+| BST Phase II Review and Visualization Plan | ACTIVE | Internal editorial guidance |

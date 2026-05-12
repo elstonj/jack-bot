@@ -8,13 +8,13 @@ Key participants include:
 - **Joshua Fromm** (Payload development, technical integration, diagnostics)
 - **Danny Troke** (Flight operations, equipment)
 - **Maciej Smolka** (Regulatory, reporting, flight planning)
-- **Dan Prendergast** (Flight planning software, technical development, logistics)
+- **Dan Prendergast** (Flight planning software, technical development, logistics, contracting inquiries)
 - **Meredith Needham** (Administrative support, travel coordination)
 - **Ethan Domagala** (Flight operations support)
 - **Nate** (Remote ID/registration support)
 - **Alex Lomis** (Team member, availability flexible)
 
-The channel covers activities from 2020 through April 2026, with high activity during deployment periods and report deadlines.
+The channel covers activities from 2020 through May 2026, with high activity during deployment periods and report deadlines.
 
 ## Key Decisions
 
@@ -74,7 +74,7 @@ The channel covers activities from 2020 through April 2026, with high activity d
 - **Restrictions**: Operations limited to west side of ridge until NASA crew qualified
 
 **Popocatépetl Volcano (Mexico)**
-- **Status**: Deployment deferred from April 19-27, 2026; S3 aircraft repairs and testing ongoing
+- **Status**: Deployment deferred from April 19-27, 2026; awaiting S3 aircraft repairs and testing completion; documentation review ongoing (as of May 11, 2026)
 - **Significance**: SO2 output 10-50x higher than Makushin
 - **Aircraft**: S3 (Registration 20686S30001) selected due to high-altitude requirements (18,000-20,000 ft)
 - **Mission Parameters (As of April 13, 2026)**:
@@ -87,6 +87,8 @@ The channel covers activities from 2020 through April 2026, with high activity d
   - Max range: ~10 km, may require directional antenna (yagi) or terrain-based approach
   - Optimizations planned: Climb-orbit radius 500+ meters to preserve battery; possible on-site terrain analysis for LOS verification
 - **Partners**: CENAPRED (Mexican institution), AFAC, AV3 for flight approvals
+- **AV3 Relationship** (as of May 11, 2026):
+  - Status of formal documentation (SoW, contract) under review - Dan Prendergast requesting clarification on formal relationship documentation
 - **Regulatory Status**: Written permission from Mexican authorities not secured as of April 13, 2026
 - **Payload Status** (as of April 18, 2026): 
   - Trace gas payload: Communication issue resolved with ADUM1201 magnetic isolator solution
@@ -117,9 +119,4 @@ The channel covers activities from 2020 through April 2026, with high activity d
 **NASA CCRPP (Climate Change Response Program)**
 - **Status**: Multiple quarterly reports completed through Q8 (final report August 2024)
 - **Funding**: Requires 1:1 matching funds from non-NASA projects
-- **Components**: Hurricane sampling, soil moisture, wind measurement, UI improvements, terrain mapping
-
-## Action Items & Commitments
-
-**Operating Manual Development (April 28, 2026)**
-- **Jack Elston**: Developing and refining operating manual via Overleaf document for flight permissions; shared with team for collaborative editing; committed to continued refin
+- **Components

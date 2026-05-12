@@ -19,14 +19,14 @@
 - **Phase 4: Validation & Reporting** (Due: Mar 11, 2026) - ✅ Completed
 - **Final Validation Phase** (Extended to May 2026):
   - Validation Flight #1 (April 27, 2026) — ✅ **Completed April 25, 2026** (2 days early)
-  - Validation Flight #2 (Due May 11, 2026) — **🔴 OPEN — BLOCKED** *(awaiting EMASS controller binary per Daniel Prendergast, May 4, 2026)*
+  - Validation Flight #2 (Due May 13, 2026) — **🔴 OPEN — BLOCKED** *(awaiting EMASS controller binary per Daniel Prendergast, May 4, 2026)*
   - Validation Flight #3 (No formal due date) — **🔴 OPEN — BLOCKED** *(awaiting EMASS controller binary per Daniel Prendergast, May 4, 2026)*
   - Final Report (No formal due date) — **OPEN**
 
 ## Task Summary
-- **Total Tasks**: 1 open task in current Asana export; 2 additional open tasks (Validation Flight #3, Final Report) confirmed in team feedback but not appearing in task list
+- **Total Tasks**: 1 task in current Asana export (Validation Flight #2); 2 additional open tasks (Validation Flight #3, Final Report) confirmed in team feedback but not appearing in task list
 - **Tasks by Assignee**:
-  - **Dan Prendergast**: 1 task in Asana (Validation Flight #2, Due May 11, 2026) — **BLOCKED, external dependency**
+  - **Dan Prendergast**: 1 task in Asana (Validation Flight #2, Due May 13, 2026) — **BLOCKED, external dependency**
   - **Note**: Jack Elston and Nate Straus actively coordinating field execution per team feedback but not formally assigned in Asana
 - **Recent Completions** (April 25, 2026):
   - ✅ Validation Flight #1 (Dan Prendergast) — 2 days early
@@ -76,6 +76,6 @@
 
 1. **External Dependency Blocking All Remaining Flights** (Daniel Prendergast, May 4): Validation Flights #2–#3 cannot proceed until EMASS delivers new controller binary to the emass-bst Slack channel. This is **external risk outside BST control**. Flight schedule is now contingent on EMASS delivery, not BST execution.
 
-2. **Asana Task Data Incomplete**: Current Asana export shows only 1 open task (Validation Flight #2, due May 11); team feedback confirms Validation Flight #3 and Final Report remain open but missing from current task export. Recommend verifying complete task list in Asana for visibility.
+2. **Asana Task Data Incomplete**: Current Asana export shows only 1 open task (Validation Flight #2, due May 13); team feedback confirms Validation Flight #3 and Final Report remain open but missing from current task export. Recommend verifying complete task list in Asana for visibility.
 
-3. **No Formal Due Dates on Final Deliverables**: Validation Flight #3 and Final Report lack due date assignments, creating ambiguity on project closure target. May 2026 is the extended outer bound.
+3. **No Formal Due Dates on Final Deliverables**: Validation Flight #3 and Final Report lack due date assignments, creating ambiguity on project closure target. May 2026 is the extended outer bound. **Action**: Assign formal due dates to Validation Flight #3 

@@ -17,7 +17,7 @@
     "total_value": 483000.0,
     "start_date": "2026-02-01",
     "end_date": "2031-01-31",
-    "payment_cadence": "By ordering period (annual); NRE and ODC are not-to-exceed with labor rates provided at task order level",
+    "payment_cadence": "per ordering period (annual)",
     "documents": [
       "drive://Budget Structure",
       "drive://(1305M226D0012) Attachment 1-Specifications_Black Swift.pdf",
@@ -30,67 +30,61 @@
     "line_items": [
       {
         "category": "Equipment",
-        "amount": 10980750.0,
-        "description": "Black Swift S0 sUAS Platforms: 150 EA @ $18,000 (Period 1) + 150 EA @ $18,630 (Period 2) + 125 EA @ $19,282 (Period 3) + 125 EA @ $19,957 (Period 4) + 125 EA @ $20,655 (Period 5) = $2,700,000 + $2,794,500 + $2,410,250 + $2,494,625 + $2,581,875",
+        "amount": 13981250.0,
+        "description": "Black Swift S0 sUAS Platforms: 150 EA @ $18,000 (Period 1), 150 EA @ $18,630 (Period 2), 125 EA @ $19,282 (Period 3), 125 EA @ $19,957 (Period 4), 125 EA @ $20,655 (Period 5)",
         "source_doc": null
       },
       {
         "category": "Labor",
-        "amount": 1485.0,
-        "description": "Operator and Observer Training Sessions + Instructor Training Sessions: 5 periods × ($6,000 + $600) = $6,600 × 5 = $33,000 total training",
+        "amount": 258000.0,
+        "description": "Mission Days Operational support (30 days × 5 periods @ $2,850/day = $427,500), Operational and Testing Support (6 sessions × 5 periods @ $6,000 = $180,000), Operator/Observer Training (1 session × 5 periods @ $6,000 = $30,000), Instructor Training (1 session × 5 periods @ $600 = $3,000)",
         "source_doc": null
       },
       {
-        "category": "Other",
-        "amount": 129000.0,
-        "description": "Mission Days Operational Support: 30 EA @ $2,850/period × 5 periods = $85,500 × 5; Operational and Testing Support: 6 EA @ $6,000/period × 5 periods = $36,000 × 5; subtotal $605,500",
-        "source_doc": null
-      },
-      {
-        "category": "Other",
+        "category": "Travel",
         "amount": 250000.0,
-        "description": "Travel for Operational Support (NTE): $50,000 per ordering period × 5 periods = $250,000",
+        "description": "Travel for Operational Support (5 periods × $50,000 NTE each)",
         "source_doc": null
       },
       {
         "category": "Other",
         "amount": 60000.0,
-        "description": "Course Development (Operator and Observer + Instructor Training): $6,000 + $6,000 per period × 5 periods = $12,000 × 5 = $60,000",
+        "description": "Operator and Observer Course Development (5 periods × $6,000 = $30,000), Instructor Training Course Development (5 periods × $6,000 = $30,000)",
         "source_doc": null
       },
       {
-        "category": "Other",
+        "category": "Subcontracts",
         "amount": 990000.0,
-        "description": "Non-Recurring Engineering (NRE): Technical Documentation, Modeling, and NHC Workflow Integration at $66,000 NTE each × 3 categories × 5 periods = $198,000 × 5 = $990,000",
+        "description": "Non-recurring Engineering: Technical Documentation (5 periods × $66,000 NTE), Modeling (5 periods × $66,000 NTE), NHC workflow integration (5 periods × $66,000 NTE). Total: $990,000 NTE",
         "source_doc": null
       }
     ],
     "spent": {
       "labor": {
-        "amount": 87906.25,
+        "amount": 89156.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-11"
+        "last_updated": "2026-05-12"
       },
       "purchases": {
         "amount": 902.06,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-05-11"
+        "last_updated": "2026-05-12"
       },
       "other_qbo": {
-        "amount": 0.0,
+        "amount": 4027.16,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-05-11"
+        "last_updated": "2026-05-12"
       },
-      "total": 88808.31,
+      "total": 94085.47,
       "by_line_item": {}
     },
-    "committed": 0.0,
-    "remaining": 13592441.69,
+    "committed": 68.7,
+    "remaining": 13587095.83,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-11T08:53:18Z"
+    "last_reconciled": "2026-05-12T09:03:36Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -201,6 +195,6 @@
       "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
     }
   ],
-  "last_full_rebuild": "2026-05-11T08:53:18Z",
+  "last_full_rebuild": "2026-05-12T09:03:36Z",
   "last_incremental_update": null
 }

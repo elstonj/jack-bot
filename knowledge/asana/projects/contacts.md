@@ -24,7 +24,7 @@ This is a contact database, not a project with deliverables. Contains 100+ conta
 - **Government invoice portals**: PIEE (Navy/Air Force), IPP (NASA/NOAA/USGS)
 
 ## Task Summary
-- **Total tasks**: 16 open, 0 completed
+- **Total tasks**: 1 open, 0 completed
 - **Tasks by assignee**: All unassigned (contact records only)
 - **Data structure**: Each "task" represents a contact with structured custom fields:
   - Company/Agency/Name
@@ -50,10 +50,10 @@ This is a contact database, not a project with deliverables. Contains 100+ conta
 - **Atwood Insurance Group** — Health insurance broker; Chad Atwood, chad@theaiginc.com, (970) 481-1492; P.O. Box 38, Severance CO 80546; https://theaiginc.com/; contact annually in April for health plan renewal
 
 ### Closed/Inactive Contacts
+- **Jones & Associates CPAs PC (CLOSED)** — Tax consultant; Bill Jones (retired January 2026), info@jonescpapc.com, 947 Pope Dr Erie CO 80516, (303) 254-6613; **Note**: Still appears as open task in Asana (likely stale record; replaced by KCO, Inc.)
 - **Northwind Composites (CLOSED)** — Lee Skidmore contact; Lee@northwindcomp.com; 1323 N. Division Ave Suite 103, Sandpoint ID 83864; (208) 290-5585; https://northwindcomposites.com/
 - **Kay Rufty (CLOSED)** — NASA AREN contractor; kayrufty@gmail.com, Kay.rufty@blackswifttech.com; no longer working with BST as of mid-2025
 - **JB Advisory Group (CLOSED)** — CPA; Julie Beth Malone, juliebeth@jbadvisorygroup.com, 2595 Trailridge DR E Lafayette CO 80026, (720) 798-4441; did not have a background with government contracting, services ended
-- **Jones & Associates CPAs PC (CLOSED)** — Tax consultant; Bill Jones (retired January 2026), info@jonescpapc.com, 947 Pope Dr Erie CO 80516, (303) 254-6613
 - **Jennifer Rowe (CLOSED)** — Contractor (FAR, DCAA rules and regulations); jennifer@instaterallc.com, (303) 319-2062; 2555 S. Leyden St Denver CO 80222; https://www.instaterallc.com/
 - **Freight Pros (CLOSED)** — First vendor for domestic freight shipping; Joshua Campos, joshua.campos@freightpros.com, (737) 237-0585, FAX (512) 686-3788; 3307 Northland Drive Suite 360, Austin Texas 78731; possibly being replaced by Aeronet (Sept. 2025); https://www.freightpros.com/
 - **Derek Davis (CLOSED)** — (617) 959-1702
@@ -61,4 +61,4 @@ This is a contact database, not a project with deliverables. Contains 100+ conta
 - **Jameel Barkat (CLOSED)** — Contractor (business development); jameel@capricornxcap.com; 6851 S. Gaylord St. Apt 2331, Centennial CO 80122
 - **Michael Irvin (CLOSED)** — Marketing consultant; michael.irvin@zoho.com; 1860 Red Cloud Road, Longmont CO 80504
 - **Pembroke Defense Consulting (CLOSED)** — Business development; David Hendrickson, dhendrickson@pembrokedefense.com, (703) 946-1156; 9808 Pembroke Dr, Hagerstown MD 21740
-- **Scott Tibbitts (CLOSED)** — Business development; scott.tibbitts@blackswifttech.com; 
+- **Scott

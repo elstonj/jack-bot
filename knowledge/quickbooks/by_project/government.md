@@ -1,10 +1,10 @@
 # Government — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $4,176,070.28
-- **Total Expenses (Bills + Purchases):** $1,316,187.07
+- **Total Invoiced (Revenue):** $4,373,258.28
+- **Total Expenses (Bills + Purchases):** $1,316,203.01
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $2,859,883.21 (invoiced minus expenses)
+- **Net Position:** $3,057,055.27 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -12,9 +12,9 @@
 ## Revenue (Invoices & Payments)
 
 ### Summary
-- **Total Invoiced:** $4,176,070.28
-- **Total Collected (Outstanding Balance):** $2,908,551.19 remaining (invoices with open balances)
-- **Number of Invoices:** 74 active invoices
+- **Total Invoiced:** $4,373,258.28
+- **Total Collected (Outstanding Balance):** $3,105,739.19 remaining (invoices with open balances)
+- **Number of Invoices:** 75 active invoices
 
 ### Major Revenue Streams by Project
 
@@ -35,19 +35,21 @@
 | [350] USGS | $2,000.00 | S3 Battery |
 | (207) Volcano CCRPP | $254,997.00 | Final reports |
 | (210-10) AREN 2024 | $92,500.00 | Aerospace Engineering |
+| **Black Swift Technologies (Internal/Sales)** | **$197,188.00** | **Equipment sales: S0 4m VTOL, S0 VTOL Variant, E2 UAS, Avionics systems** |
 | NOAA UASD & UxSOC | $9,320.00 | Display Model S0 units with tripods & shipping (Invoices #1761–#1762, 2026-05-08) |
 
-### Recent Invoices (2026-06-29 to 2026-09-28)
+### Recent Invoices (2026-05-11 to 2026-09-28)
 | Invoice # | Date | Amount | Project | Description | Balance |
 |-----------|------|--------|---------|-------------|---------|
+| **#1763** | **2026-05-11** | **$197,188.00** | **Black Swift Technologies** | **Equipment Sales: S0 4m VTOL ($65k), S0 VTOL Variant ($36k), E2 UAS ($56.188k), Avionics ($40k)** | **$197,188.00** |
 | #1749 | 2026-06-29 | $35,000.00 | [550-1] Navy SBIR Magnetometer | CLIN 0006: Progress Report - Option | $35,000.00 |
 | #1739 | 2026-07-02 | $72,000.00 | [300-3] 2026 IDIQ | CLIN 1001 Invoice 4 of 6 | $72,000.00 |
 | #1740 | 2026-07-02 | $72,000.00 | [300-3] 2026 IDIQ | CLIN 1001 Invoice 5 of 6 | $72,000.00 |
 | #1741 | 2026-07-30 | $72,000.00 | [300-3] 2026 IDIQ | CLIN 1001 Invoice 6 of 6 | $72,000.00 |
 | #1750 | 2026-09-28 | $14,459.00 | [550-1] Navy SBIR Magnetometer | CLIN 0007: Final Report | $14,459.00 |
 
-**Recent invoice total (last 3 months, 2026-06-29 to 2026-09-28):** $265,459.00  
-*(No new invoices in 2026-05-10 to 2026-05-11 period; data already integrated above)*
+**Recent invoice total (2026-05-11 to 2026-09-28):** $462,647.00  
+**New invoices in this update:** Invoice #1763 ($197,188.00)
 
 ---
 
@@ -74,8 +76,8 @@
 
 ---
 
-### **Materials & Supplies: $440,352.41**
-**Number of transactions:** 173  
+### **Materials & Supplies: $440,668.16**
+**Number of transactions:** 177  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
 - **JAWSTEC:** $19,627.62 (components for S0 platforms)
@@ -90,20 +92,28 @@
 - **Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head** (2026-05-07, Purchase #1288885721): **$479.80** [DIRECT COSTS] + $306.08 [Inventory Asset for future S3 sales]
   - **Direct Cost Materials & Supplies impact: $479.80**
 
-**Recent transactions (May 2026):**
-- **Purchase #1288885721** (2026-05-07): $785.88 total
-  - $479.80 [DC-Direct Cost Purchases] — Oben AC-1441 tripod x 4
-  - $306.08 [Inventory Asset] — Oben AC-1441 tripod x 2
-- **Purchase #SW65S791** (2026-05-04): $83.29 [DC-Direct Cost Purchases]
-- **Purchase #68514** (2026-05-04): $87.44 [DC-Direct Cost Purchases]
-  - $58.29 DC-Direct Cost Purchases
-  - $11.66 DC-Direct Cost Purchases
-  - $17.49 Inventory Asset (For future sales of 6 S0s)
+**Recent transactions (2026-05-11):**
+- **Purchase (Amazon)** (2026-05-11): $16.94 [DC-Direct Material Purchases]
+  - StarTech.com 1 ft Micro USB Cable: $6.95
+  - Micro USB to Printer Cable 2PCS: $9.99
+- **Purchase #99157746 (Digi Key)** (2026-05-11): $2,259.20 [DC-Direct Material Purchases]
+  - Specific component sourcing for Government projects
+- **Purchase #39155920** (2026-05-11): $106.35
+  - $76.44 [DC-Direct Material Purchases] — Ground station components for 2026 IDIQ
+  - $29.91 [GA-Tariff/Import Duties]
+- **Purchase #2561507246** (2026-05-11): $159.97 [DC-Direct Material Purchases]
+  - TRACO Power TPP 65-112E-J 65W AC/DC Power Supply (Chassis Mount) x 3 — Ground station for 2026 IDIQ
+- **Purchase #605111011462** (2026-05-11): $68.70 [DC-Direct Material Purchases]
+  - Switch Guard Aluminum 1-Inch — Ground station for 2026 IDIQ
+- **Purchase #991518** (2026-05-11): $1,416.00 [DC-Direct Material Purchases]
+  - Ground station components for 2026 IDIQ
+
+**Total new materials & supplies (2026-05-11): $4,027.16**
 
 ---
 
 ### **Equipment (Direct Cost): $0.00**
-No standalone equipment purchases; equipment purchases categorized under Materials & Supplies or Subcontractors.
+No standalone equipment purchases in new data; equipment purchases categorized under Materials & Supplies or Subcontractors.
 
 ---
 
@@ -121,18 +131,4 @@ No standalone equipment purchases; equipment purchases categorized under Materia
 - **Meals & incidentals:** ~$500+ (airports, local restaurants during field operations)
 - **EV charging:** $60.00
 
-**Notable trip concentration:** October 2025 (Hurricane Melissa), September 2025 (Hurricane Gabrielle); April–May 2026 Florida operations (NOAA Lakeland)
-
----
-
-### **Shipping/Freight: $5,195.62**
-**Number of transactions:** 40+  
-**Key items:**
-- **Aeronet Worldwide:** $2,615.50 (battery shipping, S0 UAS to NOAA Lakeland)
-  - **Bill #103031641** (2026-05-06): $601.09 + $120.22 = **$721.31** (Shipping products from Paramount Tube to Northwind Composites for S0 projects)
-    - $180.32 allocated to Inventory Asset (For future sales of 6 S0s)
-    - **Direct Cost Shipping total from this bill: $721.31**
-- **Direct Cost Shipping, Freight & Delivery** (2026-04-06): $358.40 (items sent to NOAA Lakeland for Maciej & Alex trip)
-- **FedEx Shipment FEDEX37097183** (2026-05-05): $310.81 (Alerion Tech shipment from Spain to BST; MP Jet order #09449)
-  - $207.21 DC-Direct Cost Shipping, Freight & Delivery (main shipment)
-  - $41.44 DC-Direct
+**Notable trip concentration:** October 2025 (Hurricane Melissa), September 

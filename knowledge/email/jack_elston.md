@@ -1,10 +1,10 @@
 # Jack Elston — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,052 (2,032 prior + 20 new May 10–11)
-- **Date range:** April 1–May 11, 2026
-- **Approximate volume:** 100+ messages/day sustained; May 10–11 shows 20 messages (heavily weighted toward vendor/logistics automation, promotional content, and billing notifications)
-- **Activity pattern:** May 10 afternoon–evening (13:00–23:33 UTC) concentrated on logistics, billing, and external event invitations; May 11 early morning (03:19–07:56 UTC) shows continued automation and community engagement
+- **Total messages scanned:** 2,135 (2,052 prior + 83 new May 11–12)
+- **Date range:** April 1–May 12, 2026
+- **Approximate volume:** 100+ messages/day sustained; May 11–12 shows 83 messages concentrated on government/defense coordination (Navy/NOAA), capital partnerships, technical payload systems, and logistics automation
+- **Activity pattern:** May 11 distributed throughout day (08:28–21:21 UTC / 02:28–15:21 MDT); May 12 early morning (05:00–07:53 UTC / 23:00–01:53 previous MDT) shows vendor/logistics automation and community engagement notifications
 
 ---
 
@@ -12,97 +12,77 @@
 
 ### Top Internal BST Contacts
 
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, partnerships, deal coordination
-  - **Continuing pattern:** Display Quote coordination with NOAA (Nikolai Pawlenko; 11:48 MDT May 8). Forwarded Colorado GCN Reception invitation (08:27 MDT May 8). **Note:** Appears as purchaser contact for vendor marketing (HeliDirect sales routed to purchasing@blackswifttech.com, addressed to Meredith Needham; **May 10 NEW:** 18:35 UTC May 10, HeliDirect rewards program).
-
 - **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical partnerships, government coordination
-  - **May 10 CONFIRMED:** **BST-SkyMesa Collaboration meeting** executed (Mon May 11, 2026 11am–12pm MDT; May 10 confirmation from prior data). Jack, Arthur Shune (Sky Mesa Systems), Beck Cotter, Maciej Stachura confirmed attendance.
-  - **Pattern:** SBIR teaming coordination accelerating toward formal partnership phase.
+  - **May 11 ESCALATION:** Received forwarded Navy message from Angel Ruiz-Reyes (NAWCAD) regarding **TCE 26.2** (IMPORTANT); coordinating with Jack, Beck Cotter, Maciej Stachura on response (08:32 MDT). Jack responded same morning (08:32 MDT).
+  - **Continuing:** Atmolab Camera System coordination with Jure Dolinar / C-Astral (May 11, 13:27 UTC; IMPORTANT). Vuncan Demo discussion with Hank Scott / TB2 Aerospace (May 11, 16:29 MDT; IMPORTANT).
 
 - **Beck Cotter** (beck.cotter@blackswifttech.com) — Operations, government coordination
-  - **May 10 CONFIRMED:** Included on BST-SkyMesa Collaboration meeting.
-  - **Continuing pattern:** NASA Phase II, Krateo Sky capital coordination; Colorado GCN Reception.
+  - **May 12 NEW (CRITICAL):** Received Lockheed Martin response from **Alasdair Brackenridge** (alasdair.brackenridge@global.lmco.com) re: **"EXTERNAL: Black Swift Technologies EOI Response"** (07:53 UTC May 12; UNREAD, IMPORTANT). **Signal:** LMCo bid/EOI evaluation escalation — May 12 timing suggests immediate follow-up window.
+  - **May 11:** NASA Phase II Capital Commitment Letter coordination with Krateo Sky (09:22 MDT; IMPORTANT). Included on Navy TCE 26.2 response (08:32 MDT).
 
 - **Maciej Stachura** (stachura@blackswifttech.com) — Technical/operations
-  - **May 10 CONFIRMED:** Included on BST-SkyMesa Collaboration meeting.
+  - **May 11:** Included on Navy TCE 26.2 coordination response (08:32 MDT).
+
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, partnerships, deal coordination
+  - **May 11 ACTIVE:** Multiple IMPORTANT threads: Renewal Info negotiation with Chad Atwood / The AIG Inc (11:34–12:46 MDT; 3 exchanges). Boostr Consulting LLC payment canceled (19:12 UTC; IMPORTANT). R&D Invoice discussion with Thierry Lepoutre / Boostr Consulting (11:34–13:55 UTC; IMPORTANT). Mechanical Engineering hiring inquiry (Lavender; 12:41 MDT; IMPORTANT).
+  - **Continuing:** Finance and partnership deal coordination.
 
 ### Top External Contacts
 
-#### **Government/NOAA (CRITICAL ESCALATION)**
+#### **Government/Navy (CRITICAL ESCALATION — May 11)**
+
+**Angel R. Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil) — NAWCAD (Naval Air Warfare Center Aircraft Division)
+- **May 11 NEW (CRITICAL TIMING):** Forwarded **"TCE 26.2"** discussion to Jack, Daniel Prendergast, Beck Cotter, Maciej Stachura (13:10 UTC May 11; IMPORTANT). Multi-exchange chain with Daniel Klier (NSWC IHD) discussing **TCE 26.2** (13:10, 14:45, 15:02, 15:03 UTC May 11).
+  - **Signal:** Jack directly engaged on Navy technical evaluation (TCE 26.2); immediate response required (08:32 MDT same-day). Precedes Lockheed Martin EOI response (May 12).
+
+**Daniel E. Klier** (daniel.e.klier.civ@us.navy.mil) — NSWC IHD (Naval Surface Warfare Center)
+- **May 11:** TCE 26.2 coordination with Ruiz-Reyes (parallel to Jack engagement); multi-stakeholder Navy procurement chain visible.
+
+#### **Government/NOAA (Continuing Pattern)**
 
 **Joe Cione** (joe.cione@noaa.gov) — NOAA Federal
-- **May 10 NEW (CRITICAL TIMING):** Joe responding to Mark DeMaria on **"LOI Candidate Proposals" group discussion** scheduled **Mon May 11, 2026 9am–10:15am (MDT)** (16:45 PDT May 10; IMPORTANT; UNREAD).
-  - **Signal:** Jack invited to NOAA proposal evaluation/LOI candidate discussion. Immediately precedes BST-SkyMesa meeting (11am same day). **Two critical government/partnership meetings back-to-back May 11.**
-  - **Prior:** Hosted FY27 RFP Q&A Session 1 (May 8); "James Bond" project coordination.
+- **May 11:** LOI Candidate Proposals discussion (from prior data; meeting occurred 9am–10:15am MDT May 11).
 
-**Mark DeMaria** (mark.demaria@noaa.gov) — NOAA Affiliate
-- **May 10 NEW (PARALLEL CHAIN):** Mark responding on same **LOI Candidate Proposals** discussion (08:47 MDT May 10; IMPORTANT; UNREAD).
-  - **Signal:** Multi-NOAA stakeholder coordination on proposal candidacy; Jack appears as invited participant in selection/evaluation process.
+#### **Capital/Partnership Coordination**
 
-#### **Technical Payload Coordination**
+**Sona Raziabeegum** (sona@krateosky.com) — Krateo Sky
+- **May 11 NEW (IMPORTANT):** Responded to Jack's "Checking In" message (20:58 UTC; IMPORTANT). Jack had initiated contact (11:18 MDT).
+- **Also May 11:** Beck Cotter coordinated NASA Phase II Capital Commitment Letter request with Sona (09:22 MDT; IMPORTANT).
+- **Pattern:** Capital commitment & partnership tracking; Jack as primary liaison.
 
-**Ed Kase** (ed.kase@ekaseconsulting.com) — External technical consultant
-- **Continuing pattern:** S2 payload specs active coordination (May 9).
+**Roger Riley** (Roger@krateosky.com) — Krateo Sky
+- **May 11 NEW:** Jack responded to Krateo Sky introduction (08:41 MDT; SENT).
 
-#### **Government/Defense Contracts (SBIR)**
+#### **Lockheed Martin (NEW CRITICAL CONTACT)**
 
-**Arthur Shune** (arthur@skymesasystems.com) — Sky Mesa Systems
-- **Continuing pattern:** Army modular UAS payload SBIR teaming; May 11 meeting confirmed.
+**Alasdair Brackenridge** (alasdair.brackenridge@global.lmco.com) — Lockheed Martin
+- **May 12 NEW (CRITICAL):** Responded to **"EXTERNAL: Black Swift Technologies EOI Response"** (07:53 UTC; UNREAD, IMPORTANT; routed to Beck Cotter). **Signal:** LMCo evaluation of BST EOI submission — high-priority external partnership/bid response.
 
-#### **Legal/Deal Closure**
+#### **Technical Payload & Systems Integration**
 
-**Ko Firm (Legal Counsel)** — INDUSTRIAL PLAN & SERVICES AGREEMENT FINALIZATION
-- **Continuing pattern:** Industrial plan structural phase and services agreement concurrently active (May 8).
+**Matt Crabtree** (matt.crabtree@waveformengineering.com) — Waveform Engineering
+- **May 11 NEW (IMPORTANT):** Responded to Jack re: **"Update - Hurricane Season Builds - Part Sourcing"** (16:39 UTC; IMPORTANT). Jack had replied earlier (10:57 MDT).
+- **Pattern:** Hurricane reconnaissance/monitoring platform builds; active supply chain coordination.
 
----
+**Jure Dolinar** (jure.dolinar@atmolab.eu) — Atmolab
+- **May 11:** Atmolab Camera System coordination with Daniel Prendergast and Nejc Trost (C-Astral) (13:27 UTC; IMPORTANT).
 
-## Topic Patterns
+**Hank Scott** (hank@tb2aerospace.com) — TB2 Aerospace
+- **May 11 NEW (IMPORTANT):** Responded to Daniel Prendergast re: **"Vuncan Demo"** (13:59 MDT; IMPORTANT). Daniel replied (13:01 MDT).
+- **Pattern:** Vuncan demo/product coordination; potential vendor/integration partnership.
 
-### Government/NOAA Proposals & LOI Evaluation
-- **"LOI Candidate Proposals"** — Group discussion Mon May 11, 9am–10:15am MDT; Jack invited directly (May 10 NEW; CRITICAL)
-- **NOAA FY27 RFP** — Ongoing Q&A and proposal coordination (May 8)
-- **"James Bond" project** — Coordination with Joe Cione (May 8)
+#### **Academic/Research (NEW)**
 
-### Technical/Product Development
-- **S2 Payload Specs** — Ongoing with Ed Kase (May 9)
-- **Atmolab Camera System Integration** — Multi-vendor coordination (May 8)
-- **Flight Testing** — NanoVEU coordination (May 8)
+**Elizabeth R Sanabia** (sanabia@uw.edu) — University of Washington
+- **May 11 NEW (UNREAD, IMPORTANT):** Responded to Jack re: **"ONR proposal"** (20:10 EDT May 11; IMPORTANT).
+- **Signal:** Office of Naval Research (ONR) proposal coordination; academic research partnership.
 
-### Government/Defense Contracts (SBIR)
-- **Army Modular UAS Payload SBIR — Sky Mesa Systems** — Teaming meeting **May 11, 11am–12pm MDT** (confirmed May 10)
-- **NASA Phase II** — Capital Commitment Letter execution with Krateo Sky (May 8)
+#### **Technical Infrastructure/Software**
 
-### Legal/Corporate Structuring
-- **Industrial Plan Structural Concerns** — Ko Firm multi-attorney coordination (May 8)
-- **Services Agreement** — Concurrent discussion (May 8)
+**Christopher Wede** (wede@xwf.google.com) — Google (xWF)
+- **May 11 NEW (UNREAD, IMPORTANT):** Responded re: **"Introduction to Cameyo Specialist - Black Swift Tech - Cameyo"** (16:22 MDT; IMPORTANT).
+- **Pattern:** Remote desktop/virtualization software (Cameyo) specialist coordination for BST infrastructure.
 
-### Logistics/Procurement/Billing
-- **Vendor shipments:** DHL (Import Duty Payment Alert **May 11 NEW**; Shipment Notification 2550810194 **May 11 NEW**), UPS (delivery notification May 10), Toggl Inc invoice (May 10)
-- **Promotional/marketing automation:** AMain Hobbies rewards, Harbor Freight (May 10), HeliDirect (May 10), Speedway Motors (May 10), USPS Informed Delivery (May 10)
-- **Billing/accounts:** Capital One Business Spark Cash Plus statement (May 10), Intuit account notification (May 11)
-- **Research tools:** Abcam research posters/pathways (May 10)
+#### **Industry/Vendor Partnerships (NEW)**
 
-### Community/Professional Development
-- **Colorado Companies to Watch — Boulder Chapter Alumni Happy Hour** (May 11 NEW; direct to Jack; UNREAD; community engagement signal)
-- **Capital Factory office hours** — Dan Kryzanowski facilitation (May 10)
-- **Rule4 Fox Summer Gear Pick-Up event** (May 10)
-- **STATION Austin weekly events** (May 10; Joshua Baer/Media Relations)
-
----
-
-## Communication Patterns
-
-### Time Zones & Activity
-- **May 10:** Afternoon–evening surge (13:00–23:33 UTC) concentrated on billing notifications, promotional emails, and external event invitations
-- **May 11:** Early morning activity (03:19–07:56 UTC / 21:19–01:56 MDT previous night into morning) on community engagement, logistics, and vendor automation
-- **Pattern:** Sustained 24/7 responsiveness; automation and promotional content heavily weighted in recent 48 hours; **critical government/partnership meetings (May 11, 9am and 11am MDT) preceded by late-night/early-morning email activity**
-
-### Mailing Lists & Group Participation
-- **NOAA (Mark DeMaria/Joe Cione) — LOI Candidate Proposals group** (May 10; active participant in multi-stakeholder proposal evaluation)
-- **BST internal group emails** (Intuit account, Lavender careers forum, Joshua Baer/STATION Austin media) — passive/broadcast
-- **Colorado Companies to Watch — Boulder Chapter** (direct contact; active alumni engagement)
-- **Capital Factory / venture ecosystem** (operations@bst.aero receiving office hours invitations)
-
-### Newsletter/Automated Email Patterns
-- **Vendor/logistics automation:** DHL (shipments, duties), UPS, USPS Informed Delivery, Toggl Inc (invoicing)
-- **Promotional/marketing:** Harbor Freight, AMain Ho
+**

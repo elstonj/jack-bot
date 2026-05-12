@@ -4,14 +4,14 @@
     "(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-05-08",
-    "end": "2026-05-09"
+    "start": "2026-05-11",
+    "end": "2026-05-12"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 11.59,
+    "expenses": 108.84,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 11.59
+      "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 108.84
     }
   },
   "invoices": [],
@@ -19,19 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-05-08",
+      "date": "2026-05-11",
       "doc_number": "",
-      "total": 11.59,
-      "attributed": 11.59,
+      "total": 108.84,
+      "attributed": 108.84,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "Shipment request verbally by Josh Fromm",
+      "memo": "",
       "lines": [
         {
-          "amount": 11.59,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Shipping tool to Sean Cole (Phase1) for S3 IRAD work"
+          "amount": 108.84,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties",
+          "description": "Duties fee for S3 shipment from China supplier"
         }
       ]
     }
