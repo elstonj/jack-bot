@@ -33,6 +33,7 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 - **May 4, 2026:** S1-22 flight testing contingent on wind conditions; winds dropped below 10 mph, Alex Lomis confirmed available for operations; Remote ID warnings identified in both flight and ground modes during recent testing — Sam Hild deprioritized RID fix vs. S0-VTOL work but committed to investigating
 - **May 7, 2026:** S3-MASS flight testing scheduled for May 8, 2026 with 9am departure; favorable weather forecasted (small rain chance at 3pm); Maciej leading with S3 to be transported in RAV; video documentation requested with Mavic drone
 - **May 8, 2026:** E-MASS payload testing shifted from Sunny Slope Sod Farm to model airfield location; Jack Elston to lead when returning from current operations; E-MASS controller showing drift issues in simulation between waypoints (65-80% completion before failure) but with slower failure rate and good pre-failure warning indicators for manual intervention
+- **May 11, 2026:** S3-MASS flight testing scheduled for May 12, 2026; Maciej planned 1 tuning flight (~35 minutes) + potential second flight for extra time-on-float (TOF) testing if tuning progresses well; 5-6 S1-22 flights possible with additional personnel; promotional video capture planned with new nose cone; E-MASS testing deferred to Thursday (May 14-15)
 
 ### Firmware & Code Management
 - **October 2020:** Angle-to-rate loop gains critical safety parameter — develop (8,8,3) vs. master (4,4,1.5) discrepancy required close monitoring
@@ -47,7 +48,4 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
   - S10022 comms firmware updated to latest develop branch (previous version: fd427ad); no watchdog reset (WWDG) detected in logs indicating non-reset source; Jack Elston added extra debugging to catch other reset sources
   - New S10022 autopilot binary compiled with additional reboot diagnostics; verified with most recent actuator code reflashed
   - S1-21 (2030 hardware + XTend) build compiled; pushed to develop repository
-  - S3-MASS build standardized using `./make S3` option to ensure all compiler flags included correctly
-  - Identical firmware code across S10022, S1-22, and S1-21 planned for April 24 testing to verify no reset bugs introduced in recent code updates
-- **April 24, 2026:** S1-22 firmware confirmed stable (develop + comms develop branches); autopilot and power board updated prior to testing; additional reset diagnostics added to codebase by Jack Elston for future troubleshooting
--
+  - S3-MASS build standardized using `./make S3` option

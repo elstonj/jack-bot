@@ -5,7 +5,7 @@
 - **Primary Contact**: Christoph Kern (USGS); Kevin Pesola (kpesola@usgs.gov, USGS Vancouver office, 1300 SE Cardinal Court Suite 100 Vancouver, WA 98683, (360) 993-8963)
 - **Dollar Value**: $124,230 (total budget and funding to BST)
 - **Timeline**: Contract end date August 30, 2025; **DEPLOYMENT DELAYED TO FALL 2026** (originally planned for April 20, 2026)
-- **Status**: **ACTIVE — DELAYED** — Mission deployment originally scheduled for April 20, 2026 has been **postponed to Fall 2026** per Maciej Stachura (April 17, 2026) and Jack Elston (April 20, 2026). **No flight planning, shipping, or mission prep happening soon.** Current Asana task inventory (1 open) reflects reduced visibility pending Fall 2026 rescheduling.
+- **Status**: **ACTIVE — DELAYED** — Mission deployment originally scheduled for April 20, 2026 has been **postponed to Fall 2026** per Maciej Stachura (April 17, 2026) and Jack Elston (April 20, 2026). **No flight planning, shipping, or mission prep happening soon.** Current Asana task inventory reflects reduced visibility pending Fall 2026 rescheduling.
 - **Team Members**: Maciej Stachura (owner/project lead), Jack Elston, Dan Prendergast, Josh Fromm, Nate Straus, Ethan Domagala, Meredith O'Hara Needham
 - **Contract**: 140G0323P0280
 - **Priority**: Medium (Government customer)
@@ -15,7 +15,8 @@
 **⚠️ CRITICAL: All milestone dates in Asana (April–October 2026) are STALE per team corrections from Maciej Stachura (April 17, 2026) and Jack Elston (April 20, 2026). Actual deployment timeline has shifted to FALL 2026. Do not act on spring/summer 2026 due dates.**
 
 Major milestones (original planned dates, now superseded):
-- **Meeting with AFAC** | Dan Prendergast | Asana due: May 11, 2026 | **STALE — reschedule for Fall 2026**
+- **Operator Manual and Flight CONOPS for AFAC** | Dan Prendergast | Asana due: May 11, 2026 | **STALE — reschedule for Fall 2026**
+- **Meeting with AFAC** | Dan Prendergast | **STALE**
 - **Look for replacement for AV3** | Dan Prendergast | **STALE**
 - **Obtain flight approvals from AFAC** | **STALE**
 - **Verify ground permissions for national park** | **STALE**
@@ -25,7 +26,7 @@ Major milestones (original planned dates, now superseded):
 ## Task Summary
 - **Total Tasks**: 1 open task, 0 completed (current snapshot)
 - **Tasks by Assignee**:
-  - **Dan Prendergast**: 1 open task — Meeting with AFAC (Due May 11, 2026 — **STALE per April 2026 team corrections**)
+  - **Dan Prendergast**: 1 open task — "Operator Manual and Flight CONOPS for AFAC" (Due May 11, 2026 — **STALE per April 2026 team corrections**)
 - **Notable Patterns**: 
   - Current raw data shows only 1 open task; prior knowledge base documented 20 open tasks. This reflects task list archival/reorganization pending Fall 2026 rescheduling.
   - **All visible tasks carry stale Asana due dates** (spring/summer 2026); do not rely for prioritization.

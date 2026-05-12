@@ -8,7 +8,7 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 **Activity Level:** Extremely high throughout the period (March 2024 - May 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Peak intensity reached in late April - early May 2026 with multiple concurrent NASA, DOD, and DOE submissions in final coordination and submission phases. Significant external partnerships and customer engagement alongside proposal work.
 
-**Time Range:** March 3, 2024 - May 9, 2026
+**Time Range:** March 3, 2024 - May 11, 2026
 
 ---
 
@@ -83,4 +83,5 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
   - NASA Phase II: **Due May 15**
   - NASA Phase I: **Due May 21**
   - DoD submissions (2025.4 cycle): **Due May 13**
-  - DoD submissions
+
+- **NOAA

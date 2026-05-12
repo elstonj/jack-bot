@@ -4,14 +4,14 @@
     "(001-12)  General Customer Support/Project Support"
   ],
   "period": {
-    "start": "2026-05-03",
-    "end": "2026-05-06"
+    "start": "2026-05-11",
+    "end": "2026-05-12"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 330.14,
+    "expenses": 289.57,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 330.14
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 289.57
     }
   },
   "invoices": [],
@@ -19,19 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-05-05",
-      "doc_number": "HVHNB9",
-      "total": 330.14,
-      "attributed": 330.14,
+      "date": "2026-05-11",
+      "doc_number": "USW554503",
+      "total": 289.57,
+      "attributed": 289.57,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 330.14,
+          "amount": 289.57,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "For the S20004 repair CU IRISS"
+          "description": "7-Port USB 2.0 Hub - Metal Industrial USB-A Hub with ESD Protection & 350W Surge Protection x 2"
         }
       ]
     }

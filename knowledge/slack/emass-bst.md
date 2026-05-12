@@ -7,13 +7,13 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Nikhila (eMASS AI) - Primary developer, leading chip integration and AI model implementation
 - Jack Elston (BST) - Autopilot/simulation expertise, hardware integration guidance, protocol specification, flight testing, data analysis
 - Dan Prendergast (BST) - Flight test coordination, E2 aircraft management, hardware setup lead, simulator testing
-- Mohamed M. Sabry (eMASS AI) - AI model training and constraint optimization
+- Mohamed M. Sabry (eMASS AI) - AI model training and constraint optimization, PPO (Proximal Policy Optimization) control strategy
 - Moe/Prof. Moe (eMASS AI) - AI model training and optimization
 - Maciej (BST) - Vehicle parameters and specifications
 - Sergio Ruocco (eMASS AI) - Autoboot firmware expert, SDK bring-up and troubleshooting
 - Shantanu (eMASS AI) - Hardware verification and validation
 
-**Activity Level:** Highly active collaboration spanning February-April 2026, with continued activity into May 2026. Intensive HWIL and model training in March-April. Critical first-flight test completed on Apr 24, 2026. Recent activity (May 4-5, 2026) focused on testing methodology and flight plan preparation for controller evaluation. Current activity (May 8, 2026) indicates preparation for simulation testing before next flight test iteration.
+**Activity Level:** Highly active collaboration spanning February-April 2026, with continued activity into May 2026. Intensive HWIL and model training in March-April. Critical first-flight test completed on Apr 24, 2026. Recent activity (May 4-5, 2026) focused on testing methodology and flight plan preparation for controller evaluation. Current activity (May 8-11, 2026) indicates preparation for simulation testing and refinement of control architecture before next flight test iteration.
 
 ---
 
@@ -104,5 +104,4 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Status: Awaiting corrected range specification before next test
 
 **AI Model PWM Output Rate - Initial Adjustment (Apr 27, 2026)**
-- eMASS team (Nikhila, Prof. Moe) reduced PWM actuator output rate from 75Hz to 25Hz
-- Rationale: Concern that 75Hz was too fast for stable control
+- eMASS team (Nikhila, Prof. Moe) reduced PWM actuator output rate from 75Hz to

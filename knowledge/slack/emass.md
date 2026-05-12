@@ -16,7 +16,7 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 - Meredith Needham (finance/invoicing)
 - U0151201DMY (appears to be infrastructure/web portal team member)
 
-**Activity Level:** Ongoing active project spanning November 2025 - May 2026+. Real flight testing commenced April 23-24, 2026. EMASS media release planned for first week of May creating hard deadline. Project entering critical phase with emerging concerns about EMASS controller performance specifications.
+**Activity Level:** Ongoing active project spanning November 2025 - May 2026+. Real flight testing commenced April 23-24, 2026. EMASS media release planned for first week of May creating hard deadline. Project entering critical phase with emerging concerns about EMASS controller performance specifications and fundamental ML model training approach.
 
 ## Key Decisions
 
@@ -54,41 +54,36 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 **May 4, 2026:**
 - Moe (EMASS) indicated controller update/specification change under discussion: update rate potentially reduced from 75Hz to 14Hz during recent meeting with Dan Prendergast. Jack Elston flagged critical concern: 14Hz update rate is insufficient for disturbance rejection in real flight operations and unlikely to work despite potentially functioning in simulation. Maciej expressed skepticism about repeated specification reductions from EMASS team.
 
+**May 11, 2026:**
+- Dan Prendergast planned to share E2 autopilot PID gains with EMASS during evening meeting (with Maciej's approval after clarifying the cascading nature of the gains: roll/pitch Kp=8, yaw Kp=1.5 are angle-to-rate converters only, with separate rate PIDs handling actual control)
+- Jack Elston cautioned against sharing implementation details beyond XML parameters, citing ongoing IP protection negotiations with EMASS
+- **Fundamental concern surfaced:** EMASS ML model likely not ingesting telemetry data at sufficient rate or with correct signal composition to properly train for path navigation. Dan Prendergast identified multiple potential issues:
+  - EMASS cost function appears to lack trajectory-following terms despite recent addition of next waypoint lat/lon/alt to input vector (~2 weeks prior)
+  - Telemetry rate mismatch: some signals arriving at EMASS significantly slower than BST autopilot operates
+  - EMASS controller update rate may be too low to recover from aircraft state divergence
+  - EMASS team may lack expertise to properly structure cost function for navigation task
+- Jack Elston recommended reverting to simplest possible validation: pure hover performance, then simple velocity tracking, rather than attempting full waypoint-based path navigation
+- Dan Prendergast disagreed: hovering was never the original intent; fundamental issues with EMASS model training architecture would manifest equally in hover as in path following
+
 ## Projects & Initiatives
 
 ### EMASS Integration (Primary)
-**Status:** Real flight testing completed initial test set with mixed results. Follow-up test flights executed in degraded controller mode to collect efficiency data. Significant concern emerging regarding EMASS controller specifications—potential reduction from 75Hz to 14Hz update rate flagged as inadequate for flight control. Invoice processing ongoing with EMASS team.
+**Status:** Real flight testing completed initial test set with mixed results. Follow-up test flights executed in degraded controller mode to collect efficiency data. Critical emerging concern regarding EMASS controller specifications and ML model training approach. Invoice processing ongoing with EMASS team. Project entering decision point regarding viability of EMASS ML model with current architecture.
+
+**Current Critical Issues (as of May 11):**
+1. **ML Model Training Deficiencies:**
+   - EMASS model may not be properly ingesting trajectory/navigation information despite receiving waypoint data
+   - Cost function structure unclear regarding whether it includes trajectory-following objectives
+   - Telemetry data rate to EMASS significantly slower than BST autopilot operation rate
+   - Model may be fundamentally incapable of waypoint-based path navigation as currently implemented
+
+2. **Controller Specification Uncertainty:**
+   - Update rate potentially reduced from 75Hz to 14Hz (flagged May 4 as insufficient for flight control)
+   - Repeated specification changes from EMASS team raising confidence concerns
 
 **Scope:**
 - Integrate EMASS's ECS-DoT evaluation board (AI chip with ML controller) onto E2 platform
 - Develop interface between EMASS hardware and E2 autopilot
 - Create simulation environment (Gazebo-based SWIL) for validation
 - Conduct flight testing with comparative analysis (controller on/off)
-- Timeline: Originally January-March 2026, pushed to March 11, 2026; further delays occurred due to EMASS team responsiveness and BST resource conflicts; HWIL testing active as of mid-April; bench testing on E2 platform started April 21-22; real flights commenced April 23-24, 2026; three total flight test sets planned (one completed, two in progress as of May 4)
-
-**Technical Components:**
-
-1. **Hardware Integration:**
-   - Custom mount for AI board on E2
-   - UART interface with level translation (3.3V to 5V)
-   - Power delivery through 5V barrel connector
-   - Magnetometer calibration adjustments after battery relocation
-   - ECS-DoT eval board communication via two devices (UART and JTAG connections)
-   - Serial connection options: DB9 connector or jumpers + USB microUSB (preferred per Jack Elston as of April 22)
-   - Baud rate: 460800 bps (verified working April 22)
-   - **Issue (April 27-28):** DB9 payload connector connectivity problems persist; USB microUSB alternative appears more reliable
-
-2. **Firmware/Software (As of May 4):**
-   - Autopilot modifications to accept EMASS actuator commands at 75Hz via UART (subject to change pending controller specification revision)
-   - Two-mode operation: EMASS control or BST autopilot control (no blending)
-   - EXTERNAL mode in autopilot for payload authority handoff
-   - Protections to automatically revert to BST control on failure/timeout
-   - Headless testing framework with pass/fail criteria
-   - Serial baud rate adjustable through tablet interface (baud rate changes must be made via tablet, not command line)
-   - Parameter synchronization via `param_mr_0x41000002.bst` file (safety limits enforced, model tuning allowed)
-   - Recent updates (April 20-22):
-     - Jack Elston added logging to capture state machine transitions and rates
-     - Telemetry adjustments to ensure timing requirements met
-     - New autopilot binary pushed April 22 with improved connection debugging
-     - Binary version: 0x358094b (per Maciej April 21)
-     - Fixes to bench-test and full
+- Timeline: Originally January-March 2026, pushed to March 11, 2026; further delays occurred due to EMASS team responsiveness and BS

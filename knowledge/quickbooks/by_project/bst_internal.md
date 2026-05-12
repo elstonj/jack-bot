@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $927,245.37 *(+$67.93 May 8–9)*
+- **Total Expenses (Bills + Purchases)**: $939,945.70 *(+$1,310.93 May 11–Jun 1)*
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$909,350.99 (expenses exceed revenue significantly)
-- **Date Range**: April 5, 2024 – May 9, 2026 (24+ months)
-- **Transaction Count**: 1,081+ *(+2 new transactions May 8–9)*
+- **Net Position**: -$922,051.34 (expenses exceed revenue significantly)
+- **Date Range**: April 5, 2024 – June 1, 2026 (24+ months)
+- **Transaction Count**: 1,085+ *(+4 new transactions May 11–Jun 1)*
 
 ---
 
@@ -29,7 +29,7 @@
 ## Expenses by Cost Category
 
 ### Direct Labor & Subcontractors: $384,547.30
-*(unchanged from prior period; no new May 8–9 transactions)*
+*(unchanged from prior period; no new May 11–Jun 1 transactions)*
 
 - **Matthew Crabtree** (PCB design/assembly): $103,227.68
 - **Jameel Barkat** (Investment consulting): $60,000.00
@@ -59,98 +59,125 @@
 
 ---
 
-### IRAD Indirect R&D (Subcontractors & Internal): $5,943.77
-*(+$11.59 new, May 8)*
+### IRAD Indirect R&D (Subcontractors & Internal): $16,857.46
+*(+$10,913.69 new, May 11–Jun 1)*
 
-This category covers research & development work allocated to internal IRAD projects, including subcontracted PCB assembly and internal R&D materials.
+This category covers research & development work allocated to internal IRAD projects, including subcontracted PCB assembly, internal R&D materials, and R&D tax credit payments.
 
-**Subcontractors — PCB Assembly (Summit Assembly, May 7):**
-- **Bill #receiver_v03** (2026-05-07): $1,250.00
-  - PCB Assembly x 30: $950.00
-  - Set Up: $300.00
-  - *Purpose: April 2026 receiver PCB assembly work*
+**Subcontractors — PCB Assembly & Tax Credits:**
 
-- **Bill #gnss_mag-v061** (2026-05-07): $1,050.00
-  - PCB Assembly x 10: $750.00
-  - Set Up: $300.00
-  - *Purpose: April 2026 GNSS/mag PCB assembly work*
+1. **Bill #receiver_v03** (2026-05-07): $1,250.00
+   - PCB Assembly x 30: $950.00
+   - Set Up: $300.00
+   - *Purpose: April 2026 receiver PCB assembly work*
 
-**Subtotal Indirect Subcontractors**: $2,300.00 | **2 transactions** | **Vendor: Summit Assembly, LLC**
+2. **Bill #gnss_mag-v061** (2026-05-07): $1,050.00
+   - PCB Assembly x 10: $750.00
+   - Set Up: $300.00
+   - *Purpose: April 2026 GNSS/mag PCB assembly work*
 
-**Internal R&D Materials & Equipment (May 4–8):**
+3. **Bill #7020** (2026-06-01): $10,773.62 *(NEW)*
+   - Vendor: Boostr Consulting LLC
+   - R&D Tax Credits 2025
+   - Memo: Paid when taxes are paid
+   - *Purpose: 2025 R&D tax credit filing/payment*
 
-1. **2026-05-08 Purchase** — $11.59
+**Subtotal Indirect Subcontractors**: $13,073.62 | **3 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62**
+
+**Internal R&D Materials & Equipment (May 4–11):**
+
+1. **2026-05-11 Purchase** — $289.57 *(NEW)*
+   - Item: 7-Port USB 2.0 Hub - Metal Industrial USB-A Hub with ESD Protection & 350W Surge Protection x 2
+   - *Purpose: IRAD test/measurement equipment*
+
+2. **2026-05-08 Purchase** — $11.59
    - Item: Shipping tool to Sean Cole (Phase1) for S3 IRAD work
    - Memo: Shipment request verbally by Josh Fromm
    - *Purpose: S3 IRAD logistics support*
 
-2. **2026-05-07 Purchase #3001681172** — $214.02
+3. **2026-05-07 Purchase #3001681172** — $214.02
    - Item: Quick Latch Anodized Blue Air Cleaner Latch Kit x 6
    - *Purpose: IRAD component procurement*
 
-3. **2026-05-07 Purchase #E6040634** — $47.42
+4. **2026-05-07 Purchase #E6040634** — $47.42
    - Item: Quik Latch QL-25-08-04 Mini Latch Pin, 1/4-20 x 4
    - *Purpose: IRAD hardware/component*
 
-4. **2026-05-05 Purchase** — $28.76
+5. **2026-05-05 Purchase** — $28.76
    - Item: Shipping tool to Sean Cole (Phase1) for S3 IRAD work
    - *Purpose: S3 IRAD logistics support*
 
-5. **2026-05-05 Purchase #HVHNB9** — $330.14
+6. **2026-05-05 Purchase #HVHNB9** — $330.14
    - Item: S20004 repair CU IRISS
    - *Purpose: Equipment repair for internal R&D*
 
-6. **2026-05-04 Purchase** — $14.79
+7. **2026-05-04 Purchase** — $14.79
    - Item: Meccanixity Rigid Screw Coupling 6mm to 10mm
    - *Purpose: IRAD mechanical component*
 
-7. **2026-05-04 Purchase** — $155.94
+8. **2026-05-04 Purchase** — $155.94
    - Item: Rotatable Hall Sensor x 6
    - *Purpose: IRAD sensor procurement*
 
-8. **2026-05-04 Purchase #300043410** — $75.77
+9. **2026-05-04 Purchase #300043410** — $75.77
    - Item: 10mm Round Servo Shaft (25 Tooth Spline, 36mm Length) x 6
    - *Purpose: IRAD mechanical component*
 
-9. **2026-05-04 Purchase** — $23.96
-   - Item: Eagle Tree Systems Optical RPM Sensor x 3
-   - *Purpose: IRAD sensor/measurement*
+10. **2026-05-04 Purchase** — $23.96
+    - Item: Eagle Tree Systems Optical RPM Sensor x 3
+    - *Purpose: IRAD sensor/measurement*
 
-10. **2026-05-04 Purchase #HDR653461** — $27.94
+11. **2026-05-04 Purchase #HDR653461** — $27.94
     - Item: Hobbywing RPM Sensor For High-Voltage ESC x 3
     - *Purpose: IRAD motor/drive sensor*
 
-11. **2026-05-04 Purchase #106880** — $441.36
+12. **2026-05-04 Purchase #106880** — $441.36
     - Item: pingRX Pro
     - *Purpose: IRAD communication/telemetry equipment*
 
-**Subtotal Internal R&D Materials**: $3,643.77 | **11 transactions** | **Largest: pingRX Pro $441.36, CU IRISS repair $330.14**
+**Subtotal Internal R&D Materials**: $3,783.84 | **12 transactions** | **Largest: pingRX Pro $441.36, CU IRISS repair $330.14**
 
-**Total IRAD R&D: $5,943.77** | **13 transactions** | **Largest: Summit Assembly PCB work $1,250.00**
+**Total IRAD R&D: $16,857.46** | **15 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62, Summit Assembly PCB work $1,250.00**
 
 ---
 
-### Materials & Direct Purchases: $461,209.62
-*(unchanged from May 1–8 analysis)*
+### Materials & Direct Purchases: $462,122.55
+*(+$912.93 new, May 11)*
 
-**Subcategories:**
+**Subcategories (with May 11 updates):**
 - **Electronics/components** (Digi-Key, Mouser, electronics vendors): ~$209,099.64
 - **PCB manufacturing/assembly** (Advanced PCB, JLCPCB, FastTurn, Vyrian, Circuits West): ~$58,923.45
 - **Composites/structures** (Quanta3, fiber tubes, laminates, carbon fiber tubes): ~$36,631.30
 - **Mechanical parts/hardware** (fasteners, servos, linkages, SKB cases, MKS servos, bearings): $43,971.92
 - **Motors/propulsion** (KDE, Vertiq, Amprius batteries, FetTec, DJI propellers): $31,912.00
 - **Test/measurement equipment** (Makeflyeasy HERO VTOL x2, Kestrel 5500 Weather Meters): $2,392.95
-- **Shipping/Freight** (DHL, FedEx, duties, international freight): $28,935.84 *(+$721.31 May 6)*
+- **Shipping/Freight** (DHL, FedEx, duties, international freight): $29,657.15 *(+$721.31 May 6, +$108.84 May 11 duties)*
 - **Direct cost supplies multi-project** (2026 IDIQ, Sasquatch, future S3 sales, By Light): $12,641.38 *(+$480.59 May 7)*
 - **Inventory for future S3/S0 customer sales** (UMES, Barbados, INSTAAR, S3/S0 items; 2x S3 ship sets): $32,582.96 *(+$7,752.19 May 4–7)*
 - **Tripods & camera gear for S3 sales** (Oben AC-1441 Tripod): $479.80
 
-**Total Materials & Direct Purchases: $461,209.62** | **Largest items: S3 ship sets $5,500.00, Tripod kit $785.88, Electronics/components $209,099.64**
+**Total Materials & Direct Purchases: $462,122.55** | **Largest items: S3 ship sets $5,500.00, Tripod kit $785.88, Electronics/components $209,099.64**
+
+**Notable**: May 11 duties charge ($108.84) reflects tariff/import costs on S3 shipment from China supplier.
+
+---
+
+### Sales & Marketing Costs: $912.50
+*(NEW category, +$912.50 May 11)*
+
+**Breakdown:**
+- **Conferences/Seminars**: $912.50
+  - **2026-05-11 Purchase** — $912.50
+    - Vendor: American Geophysical Union (AGU) — Conference code 7333
+    - Description: Half payment for conference
+    - *Purpose: Conference registration/attendance for S3/business development*
+
+**Total Sales & Marketing: $912.50** | **1 transaction** | **Largest: AGU Conference $912.50**
 
 ---
 
 ### Fringe & Administrative Costs: $2,823.32
-*(unchanged from May 1–7 period)*
+*(unchanged from May 1–9 period)*
 
 **Breakdown:**
 - **Payroll processing & HR systems** (People Center GSuite, People Center billing): $826.35
@@ -161,42 +188,3 @@ This category covers research & development work allocated to internal IRAD proj
 **Total: $2,823.32** | **4 transactions**
 
 ---
-
-### Facilities & Shop Supplies: $56.34
-*(+$56.34 new, May 8)*
-
-**New Transaction (May 8):**
-- **Purchase #52080239** (2026-05-08): $56.34
-  - Item: HAZMAT label – Lithium Metal Batteries UN 3090
-  - Memo: No Asana request; purchase made by M. Needham after request from Josh Fromm
-  - *Purpose: Safety/compliance labeling for battery inventory handling*
-
-**Total Facilities & Shop Supplies: $56.34** | **1 transaction** | **Largest: HAZMAT label $56.34**
-
----
-
-### Other / Unallocated: $0.00
-*(no change)*
-
----
-
-## Purchase Orders
-
-| PO # | Date | Vendor | Amount | Status | Description |
-|------|------|--------|--------|--------|-------------|
-| #1038 | *outstanding* | Amprius | $1,700.00 | **OPEN** | Battery procurement (not yet received/billed) |
-
-**Total Purchase Orders: $1,700.00** | **1 outstanding PO**
-
----
-
-## Monthly Spend by Category
-
-### May 2026 (May 1–9)
-| Category | Amount | # Transactions |
-|----------|--------|-----------------|
-| Direct Labor & Subcontractors | $0.00 | 0 |
-| IRAD Indirect R&D | $11.59 | 1 |
-| Materials & Direct Purchases | $7,753.78 | 4 |
-| Facilities & Shop Supplies | $56.34 | 1 |
-|

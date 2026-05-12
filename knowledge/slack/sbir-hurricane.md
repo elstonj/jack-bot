@@ -84,10 +84,10 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - End of July delivery deadline maintained as priority for all active production (May 6, 2026)
 - Joshua Fromm to advise on parts procurement timing to maximize parallel assembly once decision finalized (May 6, 2026)
 
-## Projects & Initiatives
+**Autodesk Board Manufacturing (May 11, 2026):**
+- AP boards delivered by Matt with identified quality issue: female header pin rows had pins slipping and not fully seating on couple boards (May 11, 2026)
+- Matt reported he corrected the issues on all boards (May 11, 2026)
 
-**S0 Hurricane Aircraft System:**
-- 2026 operational production: 30 S0s plus 5 additional "extras" for testing 2027 features; additional 20-unit stock build approved (May 6, 2026)
-- Primary delivery timeline: End of July 2026 for operational units
-- Secondary delivery: Display S0 units by June 5, 2026 for DC event, with QC/packaging of previously built units by July 1, 2026
-- Early storm contingency: Units to be QC'd and packaged by July 1, 2026 in event of early hurricane season (May 6, 2
+**Critical Long-Lead Items for Production (May 11, 2026):**
+- ~$400/system cost identified as achieving compressed leadtime from ~3 months to ~1.5 months delivery (May 11, 2026)
+- Long-lead items (>1 month) identified: rotary latches, tubes, servos (May 

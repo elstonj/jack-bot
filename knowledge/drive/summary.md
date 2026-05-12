@@ -1,45 +1,62 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-05-11 02:14
+Last scanned: 2026-05-12 02:20
 
-Total drives scanned: 1
+Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 2 files — [federal_projects.md](federal_projects.md)
+- **Federal Projects** — 9 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 1 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Shared Drive Overview
+# Black Swift Technologies — Strategic Drive Overview
 
-## Summary
+## Drive Summary
 
-BST's shared drive infrastructure is **severely underdeveloped** with minimal documentation and organization. Only one drive was analyzed, containing 2 video files with no contextual organization.
+**Total Inventory:** 2 shared drives analyzed
+- **Federal Projects:** 9 files, 2 folders
+- **Sales:** 1 file
 
-## Key Observations
+---
 
-### Drive Content
-- **Federal Projects drive**: 2 video files only (RC_VID_0008/0009.MOV)
-- **Total documents analyzed**: 2 files
-- **Organization quality**: Poor – no folder structure, no metadata context
+## Key Findings
 
-### Critical Gaps
-- **No visible business documentation**: No proposals, contracts, project plans, or client records
-- **No templates or resources**: Absence of standard documents, SOWs, or compliance materials
-- **Minimal structure**: Files lack descriptive naming beyond video ID numbers
-- **Single drive**: Suggests incomplete drive setup (no Sales, Operations, Finance, or Admin drives visible)
+### Document Volume & Organization
+- **Federal Projects** is the primary documentation hub, housing government contract materials (proposals, budgets, reports)
+- **Sales** drive is significantly underdeveloped with minimal content
+- Federal drive uses basic folder structure (FY27 LOI Data Buy, Quotes) but mostly flat root-level organization
 
-### Data Quality Issues
-- Future-dated timestamps (2099-01-24) suggest metadata errors or test data
-- No version control or document management apparent
-- No clear file organization hierarchy
+### Major Client/Project Focus
+- **NASA Autonomy Phase II** — dominant project with multiple deliverables:
+  - Proposal (draft stage as of 2026-05-11)
+  - Budget documentation
+  - Phase I final report
+  - Review & visualization plan
+- **Data acquisition initiatives** (FY27 LOI Data Buy)
+- **DAF Agile EW** technical work (template present)
 
-## Recommendations
+### Cross-Drive Patterns
+- **Federal Projects:** Contains proposals, contracts, budgets, reports, templates, and supporting media (videos)
+- **Sales:** Minimal presence; cost/origin platform component data only
 
-1. **Audit existing drives** – Verify if other shared drives exist and assess their usage
-2. **Establish drive framework** – Create dedicated drives for Sales, Contracts, Operations, and Finance
-3. **Implement naming conventions** – Standardize file naming and folder structure
-4. **Add documentation** – Populate with essential templates, policies, and project records
-5. **Review video files** – Clarify purpose of RC_VID files and organize appropriately
+### Shared Resources & Templates
+- DAF Agile EW Technical_Volume_Template (reusable for proposals)
+- Phase II budget template structure
 
-**Status**: BST's shared drive system requires foundational buildout before strategic optimization is possible.
+### Document Management Observations
+- **Federal Projects:** Inconsistent naming (mix of descriptive titles and file codes like RC_VID_0008.MOV)
+- **Draft documents** remain in primary storage without clear version control or archival pathway
+- Video files (MOV format) stored with contracts—consider consolidating media assets
+- No apparent naming convention standard across drives
+
+---
+
+## Areas Requiring Attention
+
+1. **Sales Drive Underutilization** — Single file suggests missing proposal pipeline, client documentation, or outdated content
+2. **Draft Document Management** — Multiple draft proposals lack version dating or staging folder separation
+3. **Stale Content Risk** — Phase I reports and older proposals should be archived or clearly marked as historical
+4. **Folder Hierarchy** — Federal drive lacks project-based organization; should consolidate by contract/project ID rather than fiscal year alone
+5. **Cross-Drive Coordination** — No apparent link between Sales pipeline and Federal project awards/contracts
