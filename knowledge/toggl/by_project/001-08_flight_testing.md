@@ -4,13 +4,13 @@
 - **Client:** Internal/Black Swift Technologies
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked (cumulative):** 76.1 hours
+- **Total hours tracked (cumulative):** 80.9 hours
 
 ## Team Allocation
-- **Ethan Domagala:** 34.2 hours (45%)
-- **Nate:** 33.2 hours (44%)
+- **Ethan Domagala:** 34.2 hours (42%)
+- **Nate:** 38.0 hours (47%)
 - **Stachura:** 8.7 hours (11%)
-- **Primary contributor:** Ethan Domagala
+- **Primary contributor:** Nate (recently surpassed Ethan)
 
 ## Activity Timeline
 Recent work entries show continued Flight Testing focus:
@@ -27,13 +27,15 @@ Recent work entries show continued Flight Testing focus:
 - **Flights and logs:** 6.0 hours (Nate)
   - Status: No new activity this batch
   
-- **Unspecified/support activities:** 23.0 hours (Nate + Stachura)
-  - Current batch: 3.2h (Nate, no description provided)
-  - Previous: 19.8 hours
+- **Unspecified/support activities:** 27.8 hours (Nate + Stachura)
+  - Current batch: 4.8h (Nate, no description provided)
+  - Previous: 23.0 hours
+  - **Trend:** Three consecutive undescribed entries from Nate in this category
 
 ## Insights
-- **Nate contribution growing:** Now at 44% of project hours (up from 41%); two consecutive work entries this batch suggest increased engagement
-- **Ethan remains lead:** Still 45% of project hours, though proportion slightly lower as Nate's allocation increases
-- **Documentation gap persistent:** Current Nate entry lacks description for second consecutive batch—recommend standardizing time entry labeling protocol
+- **Nate now primary contributor:** 47% of project hours (up from 44%); has surpassed Ethan's 42% allocation
+- **Ethan proportion declining:** Down to 42% from 45% as Nate's engagement increases
+- **Documentation gap critical:** Three consecutive Nate entries lack descriptions—this represents 8.0 hours (10% of project total) without clarity on work type; **urgent: standardize time entry labeling protocol**
 - **Team structure stable:** Three-person team maintained (Ethan, Nate, Stachura)
-- **Testing operations ongoing:** Flight testing activity continues; Nate's recent entries suggest possible shift toward hands-on testing or support operations rather than documentation/logs
+- **Testing operations ongoing:** Shift in primary contributor suggests possible handoff of operational/hands-on testing responsibilities from Ethan to Nate
+- **Ethan focus narrowing:** Recent activity concentrated in S3 Flight Testing; S1-22 testing appears paused

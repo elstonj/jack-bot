@@ -1,10 +1,10 @@
 # Government — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $4,373,258.28
-- **Total Expenses (Bills + Purchases):** $1,316,203.01
+- **Total Invoiced (Revenue):** $4,387,717.28
+- **Total Expenses (Bills + Purchases):** $1,322,945.91
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,057,055.27 (invoiced minus expenses)
+- **Net Position:** $3,064,771.37 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -12,8 +12,8 @@
 ## Revenue (Invoices & Payments)
 
 ### Summary
-- **Total Invoiced:** $4,373,258.28
-- **Total Collected (Outstanding Balance):** $3,105,739.19 remaining (invoices with open balances)
+- **Total Invoiced:** $4,387,717.28
+- **Total Collected (Outstanding Balance):** $3,120,198.19 remaining (invoices with open balances)
 - **Number of Invoices:** 75 active invoices
 
 ### Major Revenue Streams by Project
@@ -49,7 +49,7 @@
 | #1750 | 2026-09-28 | $14,459.00 | [550-1] Navy SBIR Magnetometer | CLIN 0007: Final Report | $14,459.00 |
 
 **Recent invoice total (2026-05-11 to 2026-09-28):** $462,647.00  
-**New invoices in this update:** Invoice #1763 ($197,188.00)
+**New invoices in this update:** Invoice #1763 ($197,188.00); previous invoices #1739–#1741, #1749–#1750 confirmed.
 
 ---
 
@@ -76,8 +76,8 @@
 
 ---
 
-### **Materials & Supplies: $440,668.16**
-**Number of transactions:** 177  
+### **Materials & Supplies: $444,695.32**
+**Number of transactions:** 179  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
 - **JAWSTEC:** $19,627.62 (components for S0 platforms)
@@ -85,14 +85,15 @@
   - **Total Amprius: $29,435.13**
 - **Microwave Filter Company / Pressure sensor imports:** $46,079.48 (tariffs included)
 - **General electronics components:** ~$50,000+ (various suppliers)
-- **Composite materials (thermoset laminates, tubes):** $4,164.75
+- **Composite materials (thermoset laminates, tubes):** $4,164.75 + $2,776.50
+  - **Total composite materials: $6,941.25**
 - **Motors, brushless components:** $181.85 + $55.46
 - **S0 wing components:** Multiple purchases totaling $12,200+
 - **PCB boards, stencils, parts sourcing:** ~$30,000+
 - **Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head** (2026-05-07, Purchase #1288885721): **$479.80** [DIRECT COSTS] + $306.08 [Inventory Asset for future S3 sales]
   - **Direct Cost Materials & Supplies impact: $479.80**
 
-**Recent transactions (2026-05-11):**
+**Recent transactions (2026-05-11 to 2026-05-18):**
 - **Purchase (Amazon)** (2026-05-11): $16.94 [DC-Direct Material Purchases]
   - StarTech.com 1 ft Micro USB Cable: $6.95
   - Micro USB to Printer Cable 2PCS: $9.99
@@ -107,28 +108,21 @@
   - Switch Guard Aluminum 1-Inch — Ground station for 2026 IDIQ
 - **Purchase #991518** (2026-05-11): $1,416.00 [DC-Direct Material Purchases]
   - Ground station components for 2026 IDIQ
+- **Purchase #334139** (2026-05-18): **$4,164.75** [Multiple allocations]
+  - $2,776.50 [DC-Direct Material Purchases] — Thermoset Laminate Linen Tubes
+  - $555.30 [DC-Direct Material Purchases] — (component allocation)
+  - $832.95 [Inventory Asset] — For future sales of 6 S0s
+  - **Project scope:** 2026 IDIQ, Sasquatch, 6 future S0 sales
+  - **Vendor:** Northwind Composites (shipped to Lee Skidmore)
+- **Purchase** (2026-05-13): **$1,912.00** [DC-Direct Material Purchases]
+  - p400 1W 900 MHz FHSS / 2W 400 MHz x 4 (radio modules)
+  - Pico Serial Motherboard x 4
+  - **Project scope:** Ground station/platform components
 
-**Total new materials & supplies (2026-05-11): $4,027.16**
+**Total new materials & supplies (2026-05-11 to 2026-05-18): $9,903.91**
+**Cumulative materials & supplies (prior + new): $444,695.32**
 
 ---
 
 ### **Equipment (Direct Cost): $0.00**
-No standalone equipment purchases in new data; equipment purchases categorized under Materials & Supplies or Subcontractors.
-
----
-
-### **Travel: $10,569.49**
-**Number of transactions:** 42  
-**Key travel categories:**
-- **Airfare:** ~$6,500+ (United Airlines flights to Florida for Hurricane operations, including refunds)
-  - **Flight refund (2026-04-20):** -$974.14 (Mexico trip cancelled - USGS Volcano)
-  - **Flight refund (2026-04-20):** -$574.14 (Mexico trip cancelled - USGS Volcano)
-- **Lodging:** ~$1,500+ (Hilton Garden Inn Lakeland, Home2 Suites, hotels)
-- **Car rental & rideshare:** ~$2,000+ (Hertz, Budget.com prepays; airport parking Denver & Tampa)
-- **Tolls & ground transport:**
-  - **Hertz toll charge (2026-04-20):** $21.70 (Clear Air NOAA Florida trip)
-  - Airport parking & other tolls/gas: $77.97 + other minor charges
-- **Meals & incidentals:** ~$500+ (airports, local restaurants during field operations)
-- **EV charging:** $60.00
-
-**Notable trip concentration:** October 2025 (Hurricane Melissa), September 
+No standalone equipment

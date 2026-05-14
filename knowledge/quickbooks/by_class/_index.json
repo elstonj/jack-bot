@@ -1,30 +1,30 @@
 {
   "period": {
-    "start": "2026-05-11",
-    "end": "2026-05-12"
+    "start": "2026-05-12",
+    "end": "2026-05-14"
   },
-  "scanned_at": "2026-05-12",
+  "scanned_at": "2026-05-14",
   "projects": [
     {
-      "project_code": "001-12",
+      "project_code": "001-11",
       "revenue": 0.0,
-      "expenses": 289.57,
+      "expenses": 44.32,
       "invoice_count": 0,
       "bill_count": 0,
       "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "(001-12)  General Customer Support/Project Support"
+        "(001-11) IRAD Methane Emission Detection"
       ]
     },
     {
       "project_code": "001-7",
       "revenue": 0.0,
-      "expenses": 108.84,
+      "expenses": 318.97,
       "invoice_count": 0,
       "bill_count": 0,
-      "purchase_count": 1,
+      "purchase_count": 3,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -32,12 +32,51 @@
       ]
     },
     {
+      "project_code": "032-3",
+      "revenue": 0.0,
+      "expenses": 555.3,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 1,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "[032-3] Sasquatch S0s x 4"
+      ]
+    },
+    {
+      "project_code": "043-3",
+      "revenue": 47894.0,
+      "expenses": 0.0,
+      "invoice_count": 1,
+      "bill_count": 0,
+      "purchase_count": 0,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "[043-3] By Light Halo"
+      ]
+    },
+    {
+      "project_code": "212-2",
+      "revenue": 0.0,
+      "expenses": 306.29,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 1,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "[212-2] NASA S2 & Parts"
+      ]
+    },
+    {
       "project_code": "300-3",
       "revenue": 216000.0,
-      "expenses": 4027.16,
+      "expenses": 4688.5,
       "invoice_count": 3,
       "bill_count": 0,
-      "purchase_count": 6,
+      "purchase_count": 2,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -59,16 +98,15 @@
     },
     {
       "project_code": "_unclassified",
-      "revenue": 197188.0,
-      "expenses": 11686.12,
-      "invoice_count": 1,
-      "bill_count": 1,
-      "purchase_count": 1,
+      "revenue": 0.0,
+      "expenses": 63669.53,
+      "invoice_count": 0,
+      "bill_count": 2,
+      "purchase_count": 4,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "",
-        "Black Swift Technologies"
+        ""
       ]
     }
   ]

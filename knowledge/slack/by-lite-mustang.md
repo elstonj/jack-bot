@@ -18,7 +18,7 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - Mel (ByLight decision-maker)
 - Meredith Needham (invoicing/accounting)
 
-**Activity Level:** High, covering October 2025 through May 2026, with regular flight tests, design iterations, and scope management updates. Most recent activity (May 8, 2026) confirms payment received from ByLight, clearing the path for carbon fiber manufacturing phase.
+**Activity Level:** High, covering October 2025 through May 2026, with regular flight tests, design iterations, and scope management updates. Most recent activity (May 13, 2026) confirms submission of Deliverable 1 invoice for $47,894.
 
 ## Key Decisions
 
@@ -82,6 +82,9 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - Initial $15K payment confirmed received (May 8, 2026)
 - Clears authorization to proceed with ByLight carbon fiber manufacturing phase
 
+**May 13, 2026 – Deliverable 1 Invoice Submission**
+- Deliverable 1 invoice for $47,894 submitted to ByLight for payment
+
 ## Projects & Initiatives
 
 ### Mustang 1.0 (Original Aircraft) – COMPLETED
@@ -93,14 +96,11 @@ This channel tracks the development and flight testing of the **By Light Mustang
   - Shipped to ByLight at 4038 Gillespie St, Fayetteville, NC for SOF week display
 
 ### Chilli/MS2-4 Prototype (Primary Aircraft) – CAD FINALIZED, MANUFACTURING AUTHORIZED
-- **Status:** CAD design finalized and released to ByLight (May 7, 2026); awaiting ByLight carbon fiber 3D-printed manufacturing (expected mid-late May). Payment received (May 8, 2026) clears manufacturing authorization.
+- **Status:** CAD design finalized and released to ByLight (May 7, 2026); ByLight carbon fiber 3D-printed manufacturing in progress. Payment received (May 8, 2026) clears manufacturing authorization. Deliverable 1 invoice ($47,894) submitted May 13, 2026.
 - **Finalized Configuration (Last Flight-Tested):**
   - Wings: Commercial Chilli A37 from Soaring USA
   - Fuselage: ByLight's CF 3D-printed single 4.5-foot piece (replacing red 4.5" fiberglass Wildman Rockets tube prototype)
   - Motors: 2x KDE 4215-465Kv
   - Props: 17x13 RFM folding props (best performer)
   - ESC: TBS Lucid with KISS telemetry
-  - Avionics: 2030 autopilot, S2 power board, 3-to-1 CAN boards
-  - Weight: Tested at 25, 30, 35 lbs (3-5 ballast plates)
-- **Flight Test Results (Dec 2025):**
-  - Old fuselage: 590
+  - Avionics: 2030 autopilot, S2 power board, 3-to

@@ -59,10 +59,10 @@
 - **USDA SBIR submission** (Jul 2024)
 - **NASA Ignite Greenhouse Gas Measurement** (Jul 2024)
 
-### Project Status Updates (April 2026)
+### Project Status Updates (April 2026 — TEAM CORRECTIONS AUTHORITATIVE)
 **[CORRECTION, per Jack, Apr 20, 2026]**: Mexico USGS volcano deployment (350-4) is **DELAYED to Fall 2026**. Not departing April 20, 2026. **No flight planning, shipping, or mission prep imminent.** Any Asana tasks referencing April 2026 dates are **stale — disregard them.**
 
-**[CORRECTION, per Maciej, Apr 17, 2026]**: Navy project tasks are **completed**. Meeting reminder requested for scheduled date.
+**[CORRECTION, per Maciej, Apr 17, 2026]**: Navy project tasks are **completed**. Maciej requests meeting reminder on the scheduled date for that project.
 
 ### Outstanding Item
 - **Lease Termination Planning** (Open, unassigned, no due date)
@@ -119,6 +119,5 @@
 - **Proposal Cadence**: Regular SBIR submission cycle with strong organizational support (LOIs, MOUs, support letters tracked systematically)
 - **Strategic Maturity**: Well-defined core values, structured marketing goals, and clear customer segmentation indicate developed business strategy
 - **Operational Transition**: Ongoing shift from spreadsheet-based financial management to integrated QuickBooks reporting (Aug 2024 update indicates progress)
-- **Deployment Status (April 2026)**: 
-  - Mexico USGS volcano project **delayed to Fall 2026** (per Jack, Apr 20, 2026) — **disregard April 2026 task dates as stale**
-  - Navy project concluded (per
+- **Deployment Status (April 2026, per team corrections)**: 
+  - Mexico USGS volcano project **delayed to Fall 2026** (per Jack, Apr 20, 2026) — **disreg

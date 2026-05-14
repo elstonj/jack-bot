@@ -4,7 +4,7 @@
 - **Client/Customer**: Internal maintenance project for BST autopilot system
 - **Dollar Value**: Not specified
 - **Timeline**: Active maintenance project with tasks spanning 2022–2023; last activity November 2023
-- **Status**: Active maintenance (99% completion rate, 302 of 305 tasks complete)
+- **Status**: Active maintenance (99% completion rate, 302 of 305 tasks complete). **Note: May 2026 feedback from Daniel Prendergast indicates ongoing process improvements for fleet maintenance integration, but no changes to SwiftCore 3.2 project status reported.**
 - **Team Members**: Jack Elston (Owner), Ben Busby, Maciej Stachura, with whole BST team involvement
 - **Risk Signals**: 3 open tasks in "Ready for Testing" status with no due dates; generally low risk given low priority rating and stable completion history
 

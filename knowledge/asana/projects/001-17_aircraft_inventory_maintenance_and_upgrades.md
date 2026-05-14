@@ -4,8 +4,8 @@
 - **Client/customer:** Internal BST development project
 - **Dollar value:** Not specified
 - **Timeline:** Multi-year project spanning 2018–2025, with final activity in December 2025
-- **Status:** **ARCHIVED** – All 180 tasks completed (100% completion rate)
-- **Team members involved:** Nate Straus, Ben Busby, Maciej Stachura, Josh Fromm, Jack Elston; majority of tasks unassigned
+- **Status:** **ARCHIVED** – Project concluded with all deliverables completed (180 tasks, 100% completion)
+- **Team members involved:** Nate Straus, Ben Busby, Maciej Stachura, Josh Fromm, Jack Elston; majority of historical tasks unassigned
 - **Risk signals:** None (project complete)
 
 ## Key Deliverables & Milestones
@@ -62,4 +62,7 @@
 - Blade torque specifications determined through hardware testing with loctite (2021)
 - Extensive supplier relationships (Hacker Motors, SKB cases, Lee for cost updates)
 
-**Status:** Project successfully concluded with all deliverables completed. No outstanding work or risk items.
+**Ongoing fleet processes (as of May 2026):**
+- Daniel Prendergast introduced a post-flight issue reporting form (May 2026) that automatically routes aircraft and equipment issues to either the "Fleet Maintenance" Asana Project (hardware) or equivalent project for other issue types. This has become part of standard BST post-flight procedures.
+
+**Status:** Project successfully concluded with all deliverables completed. No outstanding development work. Future maintenance tracked through separate Fleet Maintenance workflow.

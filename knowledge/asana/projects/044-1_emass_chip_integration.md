@@ -4,30 +4,30 @@
 - **Client/Customer**: EMASS (Commercial customer)
 - **Dollar Value**: $90,000 total funding to Black Swift Technologies
 - **Timeline**: Original November 10, 2025 to January 31, 2026; **extended through May 2026** for final validation and reporting
-- **Status**: **ACTIVE — Final validation phase, BLOCKED on external dependency**. Validation Flight #1 completed April 25 (2 days early). Per Daniel Prendergast (May 4, 2026), project cannot proceed with remaining validation flights until EMASS delivers new controller binary. **This is blocking Validation Flights #2–#3 as of May 4, 2026** (most recent team feedback).
+- **Status**: **ACTIVE — Final validation phase, INDEFINITELY POSTPONED**. Per Jack Elston (May 12, 2026): "emass is likely delayed, we're waiting on them to get a working system to test, so de-prioritize it, but we don't want to drag this out more than a month." Per Daniel Prendergast (May 13, 2026): "EMASS Validation Flight #2 is postponed indefinitely until they get us a functioning controller." **This is blocking all remaining validation flights.**
 - **Team Members**: Dan Prendergast (Owner/Lead), Jack Elston, Maciej Stachura, Nate Straus, Ethan Domagala, Meredith O'hara Needham
 - **Risk Signals**: 
-  - **🔴 CRITICAL: External blocker on controller delivery from EMASS** — Per Daniel Prendergast (May 4, 2026): "We cannot perform those flights until they send us a new controller binary in the emass-bst slack channel. EMASS validation flight #3 will most likely be Monday at the earliest. EMASS validation flight #2 possibly tomorrow." This is **outside BST control** and actively blocking progress.
-  - **Asana task list incomplete**: Current export shows only 1 open task (Validation Flight #2); Validation Flight #3 and Final Report confirmed open in team feedback but not appearing in Asana export.
-  - **No formal due dates on Validation Flight #3 and Final Report** — Creates visibility gap on project closure timeline.
-  - **Single point of failure on execution** — Dan Prendergast assigned to all remaining open tasks; Jack Elston and Nate Straus execute field coordination but not formally assigned in Asana.
+  - **🔴 CRITICAL: Project indefinitely postponed on external EMASS controller delivery** — Per Daniel Prendergast (May 13, 2026): "EMASS Validation Flight #2 is postponed indefinitely until they get us a functioning controller." Per Jack Elston (May 12, 2026): "we're waiting on them to get a working system to test, so de-prioritize it, but we don't want to drag this out more than a month." **This is outside BST control.**
+  - **⚠️ Financial risk**: Daniel Prendergast inquired whether EMASS paid the second invoice (May 7–8, 2026) — suggests possible payment delays or disputes.
+  - **Asana task data incomplete**: Current export shows only 1 open task (Validation Flight #2); Validation Flight #3 and Final Report confirmed open in earlier team feedback but not appearing in Asana export.
+  - **Single point of failure on execution** — Dan Prendergast assigned to remaining open task; Jack Elston and Nate Straus execute field coordination but not formally assigned in Asana.
 
 ## Key Deliverables & Milestones
 - **Phase 1: Design & Alignment** (Due: Jan 28, 2026) - ✅ Completed
 - **Phase 1b: Interface Design Freeze** (Due: Feb 6, 2026) - ✅ Completed
 - **Phase 2: Integration & Firmware** (Due: Feb 13, 2026) - ✅ Completed
 - **Phase 4: Validation & Reporting** (Due: Mar 11, 2026) - ✅ Completed
-- **Final Validation Phase** (Extended to May 2026):
+- **Final Validation Phase** (Extended to May 2026, now indefinitely postponed):
   - Validation Flight #1 (April 27, 2026) — ✅ **Completed April 25, 2026** (2 days early)
-  - Validation Flight #2 (Due May 13, 2026) — **🔴 OPEN — BLOCKED** *(awaiting EMASS controller binary per Daniel Prendergast, May 4, 2026)*
-  - Validation Flight #3 (No formal due date) — **🔴 OPEN — BLOCKED** *(awaiting EMASS controller binary per Daniel Prendergast, May 4, 2026)*
-  - Final Report (No formal due date) — **OPEN**
+  - Validation Flight #2 (originally due May 13, 2026) — **🔴 INDEFINITELY POSTPONED** *(awaiting functioning controller binary from EMASS per Daniel Prendergast, May 13, 2026)*
+  - Validation Flight #3 — **🔴 INDEFINITELY POSTPONED** *(awaiting functioning controller binary from EMASS per Daniel Prendergast, May 13, 2026)*
+  - Final Report — **OPEN**
 
 ## Task Summary
-- **Total Tasks**: 1 task in current Asana export (Validation Flight #2); 2 additional open tasks (Validation Flight #3, Final Report) confirmed in team feedback but not appearing in task list
+- **Total Tasks**: 1 task in current Asana export (Validation Flight #2); 2 additional open tasks (Validation Flight #3, Final Report) confirmed in earlier team feedback but not appearing in task list
 - **Tasks by Assignee**:
-  - **Dan Prendergast**: 1 task in Asana (Validation Flight #2, Due May 13, 2026) — **BLOCKED, external dependency**
-  - **Note**: Jack Elston and Nate Straus actively coordinating field execution per team feedback but not formally assigned in Asana
+  - **Dan Prendergast**: 1 task in Asana (Validation Flight #2, **no due date**, indefinitely postponed) — **BLOCKED on EMASS controller delivery**
+  - **Note**: Jack Elston and Nate Straus actively coordinated field execution per team feedback but not formally assigned in Asana
 - **Recent Completions** (April 25, 2026):
   - ✅ Validation Flight #1 (Dan Prendergast) — 2 days early
   - ✅ Functional flight test (Dan Prendergast) — 4 days late (due April 21)
@@ -37,22 +37,33 @@
 
 ## Recent Activity
 
-**May 4, 2026 (Team Feedback — Authoritative, Daniel Prendergast)**:
-- **EXTERNAL BLOCKER CONFIRMED — Controller binary delivery from EMASS is blocking all remaining validation flights**
-- Quote: "We cannot perform those flights until they send us a new controller binary in the emass-bst slack channel. EMASS validation flight #3 will most likely be Monday at the earliest. EMASS validation flight #2 possibly tomorrow."
-- Daniel's priority shifted to 53rd Weather Squadron and SOCOM visit slides (this Friday, May 9, 2026)
-- **Flight schedule now entirely contingent on EMASS delivery, not BST execution or schedule pressure**
+**May 13, 2026 (Team Feedback — AUTHORITATIVE, Daniel Prendergast)**:
+- **PROJECT INDEFINITELY POSTPONED ON EMASS CONTROLLER DELIVERY**
+- Quote: "CU IRISS training is complete. EMASS Validation Flight #2 is postponed indefinitely until they get us a functioning controller."
+- **Validation Flights #2 and #3 cannot proceed.**
 
-**April 30, 2026 (Team Feedback — Reconfirmed, Maciej)**:
-- **EMASS confirmed as Priority #3** for near-term closure: "our highest priority projects right now are: (1) S3 IRAD…, (2) S0-VTOL…, (3) **Closing out EMASS**…"
+**May 12, 2026 (Team Feedback — AUTHORITATIVE, Jack Elston)**:
+- **De-prioritize EMASS; impose 1-month hold limit**
+- Quote: "emass is likely delayed, we're waiting on them to get a working system to test, so de-prioritize it, but we don't want to drag this out more than a month"
+- Signals acceptance that external delay is expected but sets boundary: do not allow this to drag beyond ~June 12, 2026 before escalation or re-evaluation.
 
-**April 19–20, 2026 (Team Feedback — Authoritative, Maciej)**:
-- **EMASS flight tests listed as Goal #1 for the week** with Dan Prendergast, Jack Elston, and Nate Straus actively coordinating
-- Validation work confirmed in active execution phase
+**May 7–8, 2026 (Team Feedback — Daniel Prendergast)**:
+- **Financial question raised**: "did EMASS ever pay the second invoice?"
+- Suggests possible invoice/payment gap or dispute; may indicate broader customer relationship friction alongside technical delays.
+
+**May 4, 2026 (Team Feedback — Earlier context, Daniel Prendergast)**:
+- Confirmed external blocker: "We cannot perform those flights until they send us a new controller binary in the emass-bst slack channel."
+- Daniel's priority shifted to 53rd Weather Squadron and SOCOM visit slides (May 9, 2026).
+
+**April 30, 2026 (Team Feedback — Maciej)**:
+- **EMASS ranked as Priority #3** for closure: "our highest priority projects right now are: (1) S3 IRAD…, (2) S0-VTOL…, (3) **Closing out EMASS**…"
+- Confirms intention to complete despite external delays.
+
+**April 19–20, 2026 (Team Feedback — Maciej)**:
+- **EMASS flight tests listed as Goal #1 for the week** with Dan Prendergast, Jack Elston, and Nate Straus actively coordinating.
 
 **April 25, 2026**:
-- ✅ **Validation Flight #1 completed 2 days ahead of schedule** — demonstrates capability and effective test execution
-- ✅ Functional flight test and bench test for safety both completed same day (4–5 days overdue)
+- ✅ **Validation Flight #1 completed 2 days ahead of schedule** — demonstrates BST capability and effective test execution despite ongoing external dependencies.
 
 ## Notes & Context
 
@@ -70,12 +81,8 @@
 **Timeline Evolution**: 
 - Original scope: Nov 10, 2025 – Jan 31, 2026 (12 weeks)
 - Extended: May 2026 (~5 months beyond original end date)
-- Project notes indicate "No set end date" initially — reflects scope uncertainty during early phases, now resolved to May 2026
+- **Now indefinitely postponed on EMASS controller delivery** (as of May 13, 2026)
 
-**⚠️ CRITICAL EXECUTION STATUS** (May 4, 2026 — Authoritative Team Feedback, Most Recent):
+---
 
-1. **External Dependency Blocking All Remaining Flights** (Daniel Prendergast, May 4): Validation Flights #2–#3 cannot proceed until EMASS delivers new controller binary to the emass-bst Slack channel. This is **external risk outside BST control**. Flight schedule is now contingent on EMASS delivery, not BST execution.
-
-2. **Asana Task Data Incomplete**: Current Asana export shows only 1 open task (Validation Flight #2, due May 13); team feedback confirms Validation Flight #3 and Final Report remain open but missing from current task export. Recommend verifying complete task list in Asana for visibility.
-
-3. **No Formal Due Dates on Final Deliverables**: Validation Flight #3 and Final Report lack due date assignments, creating ambiguity on project closure target. May 2026 is the extended outer bound. **Action**: Assign formal due dates to Validation Flight #3 
+## 

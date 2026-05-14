@@ -30,30 +30,30 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 28858.75,
+        "amount": 30932.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-12"
+        "last_updated": "2026-05-14"
       },
       "purchases": {
         "amount": 185.15,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-05-12"
+        "last_updated": "2026-05-14"
       },
       "other_qbo": {
         "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-05-12"
+        "last_updated": "2026-05-14"
       },
-      "total": 29043.9,
+      "total": 31117.65,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 213496.1,
+    "remaining": 211422.35,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-12T09:04:52Z"
+    "last_reconciled": "2026-05-14T09:20:48Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -166,13 +166,13 @@
     {
       "source": "FEEDBACK",
       "author": "Maciej",
-      "date": "2026-04-20",
+      "date": "2026-04-17",
       "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
     },
     {
       "source": "FEEDBACK",
       "author": "Maciej",
-      "date": "2026-04-17",
+      "date": "2026-04-20",
       "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
     },
     {
@@ -225,6 +225,12 @@
     },
     {
       "source": "FEEDBACK",
+      "author": "Jack",
+      "date": "2026-05-08",
+      "text": "From Jack: <@U0AQE94HJUT> correction: the navy sttr has priority, the SBIR is mostly on schedule"
+    },
+    {
+      "source": "FEEDBACK",
       "author": "Maciej",
       "date": "2026-05-06",
       "text": "From Maciej (ts=1778079465.330239): <@U0AQE94HJUT>, the Navy SBIR is mostly caught up, I just updated Asana. Also, I'm updating tasks for the Navy STTR which will be a higher priority this month, so make sure to mention that tomorrow"
@@ -246,14 +252,8 @@
       "author": "Jack",
       "date": "2026-05-08",
       "text": "From Jack: the navy sttr has priority, the SBIR is mostly on schedule"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Jack",
-      "date": "2026-05-08",
-      "text": "From Jack: <@U0AQE94HJUT> correction: the navy sttr has priority, the SBIR is mostly on schedule"
     }
   ],
-  "last_full_rebuild": "2026-05-12T09:04:52Z",
+  "last_full_rebuild": "2026-05-14T09:20:48Z",
   "last_incremental_update": null
 }

@@ -11,5 +11,18 @@
     "notes": "Order 9102-034 received by vendor; delivery confirmation pending",
     "date": "",
     "subject": ""
+  },
+  {
+    "id": "19e2316339382976",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "Speedway Motors",
+    "project_code": null,
+    "project_hint": null,
+    "description": "Community engagement email",
+    "notes": "Marketing/newsletter; not a purchase",
+    "date": "",
+    "subject": ""
   }
 ]

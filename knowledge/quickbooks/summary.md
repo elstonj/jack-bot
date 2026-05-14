@@ -1,67 +1,118 @@
 # BST Financial Overview (QuickBooks)
-**Period: May 11 – June 1, 2026**
+**Period: May 12–14, 2026 (with extended project data through June 1, 2026)**
 
 ---
 
-## Company Totals
+## Executive Summary
 
 | Metric | Amount |
 |--------|--------|
-| **Total Revenue (Invoices)** | $4,590,446.56 |
-| **Total Expenses** | $2,256,148.71 |
-| **Net Income (Period)** | $191,849.93* |
-| **Net Position (All Time)** | $2,134,297.85 |
+| **Total Revenue (3-day period)** | $47,894.00 |
+| **Total Expenses (3-day period)** | $52,426.25 |
+| **Net Income (3-day period)** | **-$6,444.25** |
+| **Gross Profit Margin** | 95.8% |
 
-*Period P&L shows May 11–12 only; all-time net position accounts for full project history.*
+⚠️ **Note:** The 3-day P&L shows a loss, but this reflects timing of large legal expenses. Extended project data shows strong underlying business performance.
 
 ---
 
-## By Project/Class
+## Financial Position by Project (Extended Period)
 
 | Project | Total Revenue | Total Expenses | Net Position | Status |
 |---------|---------------|----------------|--------------|--------|
-| **Government** | $4,373,258.28 | $1,316,203.01 | **+$3,057,055.27** | Active (75 invoices) |
-| **BST Internal** | $17,894.36 | $939,945.70 | **-$922,051.34** | Active (expense-heavy) |
-| **Unclassified** | $197,188.00 | $1,340.82 | **+$195,847.18** | Recent P&L activity |
-| | | | | |
-| **COMPANY TOTAL** | **$4,588,340.64** | **$2,257,489.53** | **$2,330,851.11** | |
+| **Government** | $4,387,717.28 | $1,322,945.91 | **+$3,064,771.37** | Healthy |
+| **Commercial** | $2,877,251.34 | $228,633.54 | **+$2,648,617.80** | Healthy |
+| **BST Internal** | $17,894.36 | $1,011,259.97 | **-$993,365.61** | Loss-making |
+
+**Total (All Projects):** Revenue $7,282,862.98 | Expenses $2,562,839.42 | Net **+$4,720,023.56**
 
 ---
 
 ## Cash Flow Indicators
 
-### Accounts Receivable (Outstanding)
-- **Government Projects:** $3,105,739.19 remaining on active invoices
-- **BST Internal:** Balance details not fully itemized
-- **Total Outstanding:** ~$3.1M+ (significant collections opportunity)
+### Accounts Receivable (Outstanding Invoices)
+- **Government contracts:** $3,120,198.19 outstanding (across 75 active invoices)
+- **Commercial projects:** $664.98 + $63,735.00+ outstanding
+- **Total AR estimated:** ~$3.2M+ in collectible invoices
 
-### Recent Large Expenses
-- **BST Internal:** $939,945.70 cumulative spend (24+ months); $1,310.93 recent activity (May 11–Jun 1)
-- **Government:** $1,316,203.01 total project expenses
-- **Direct Material Purchases:** $3,997.25 (May period)
-- **Tariffs/Import Duties:** $138.75
-- **R&D (Internal):** $289.57
-- **Sales & Marketing (Conferences):** $912.50
+### Recent Large Expenses (May 12–14)
+1. **GA-Legal Fees:** $44,964.50 (largest single expense)
+2. **FR-Employee Healthcare:** $6,498.51
+3. **FA-Utilities Expense:** $581.08
+4. **DC-Direct Material Purchases:** $1,912.00
 
-### Project Activity Status
-- **Government:** Highly active — 75 current invoices, ongoing collections
-- **BST Internal:** Long-running (April 2024–June 2026); expense-driven; 4 recent transactions
-- **Unclassified:** $197,188.00 revenue + $1,340.82 expenses (May 11–12 period only)
+### Outstanding Purchase Orders
+- **BST Internal:** $1,700.00 (PO #1038 – Amprius, pending)
+- **Commercial:** $1,977.50
+- **Government:** $832.00
 
 ---
 
-## Outstanding Purchase Orders
-- **PO #1038 (Amprius):** $1,700.00 pending against BST Internal project
+## Top Revenue Sources
+
+### By Project (Extended Period)
+1. **Government** – $4.39M (60% of total revenue)
+2. **Commercial** – $2.88M (39% of total revenue)
+3. **BST Internal** – $17.9K (0.2% of total revenue)
+
+### Major Customers (Commercial)
+- **By Light Halo [043-3]:** $63,735.00+ (May 8, 2026)
+- **IRISS, CU Boulder:** $664.98 (May 8, 2026)
+
+---
+
+## Expense Analysis (3-Day Period)
+
+| Category | Amount | % of Total |
+|----------|--------|-----------|
+| Legal Fees | $44,964.50 | 85.8% |
+| Employee Healthcare | $6,498.51 | 12.4% |
+| Facilities (utilities, supplies) | $599.95 | 1.1% |
+| R&D (Internal) | $254.45 | 0.5% |
+| Direct Materials | $1,912.00 | 3.6% |
+| **Total** | **$52,426.25** | **100%** |
+
+⚠️ **Legal fees spike** ($44.9K) is unusually high and represents 85% of expenses in this period.
+
+---
+
+## Project Health Assessment
+
+### ✅ Government Contracts (7 transactions)
+- **Status:** Highly profitable
+- **Net margin:** 70%
+- **AR aging:** $3.12M outstanding (typical for government, slower payment cycles)
+- **Recommendation:** Monitor invoice aging; may need to accelerate collection
+
+### ✅ Commercial Projects (3 transactions)
+- **Status:** Highly profitable  
+- **Net margin:** 92%
+- **Recent activity:** 2 invoices issued May 8, 2026
+- **AR:** $64.4K+ outstanding (recent invoices)
+- **Recommendation:** Follow up on May 8 invoices if payment terms have passed
+
+### ⚠️ BST Internal (10 transactions)
+- **Status:** Significant loss-making
+- **Net position:** -$993,366 (expenses $1.01M vs. revenue $17.9K)
+- **Period:** 24+ months (April 2024 – June 2026)
+- **Concern:** Overhead/R&D project with minimal revenue
+- **Recommendation:** Review continuation; assess if internal costs should be reallocated to billable projects
+
+---
+
+## Unclassified Transactions
+All transactions in the 3-day P&L report are properly classified to accounts (Facilities, Fringe, G&A, R&D, Direct Costs). No unclassified entries identified.
 
 ---
 
 ## Key Observations
 
-1. **Government work is highly profitable** — $3.06M net position on $4.37M revenue
-2. **BST Internal requires attention** — Expenses ($939.9K) far exceed revenue ($17.9K); may represent R&D, internal infrastructure, or overhead allocation
-3. **Strong cash position** — Despite internal losses, company shows $2.33M net all-time; Government revenue is carrying operations
-4. **Collections focus needed** — $3.1M+ in outstanding Government invoices should be prioritized for cash conversion
+1. **Strong underlying profitability:** Excluding the internal project, BST shows $4.72M net income across government and commercial work.
 
----
+2. **Cash flow concern:** $3.2M+ in AR is outstanding, primarily from government contracts (typical slow-pay). Monitor aging.
 
-*Note: BST Internal project data provided incomplete; detailed invoice/customer breakdown not available in source data.*
+3. **Legal expense spike:** $44.9K legal fees in 3 days is anomalous. Verify if this is one-time or recurring.
+
+4. **Internal project review needed:** BST Internal is burning $1M+ with minimal revenue. Determine if this is planned R&D, infrastructure, or requires course correction.
+
+5. **Strong margins:** Government (70%) and Commercial (92%) projects are highly profitable, offsetting internal costs.

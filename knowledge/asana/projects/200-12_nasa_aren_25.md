@@ -17,27 +17,32 @@ BST participated in the AEROKATS and ROVER Education Network (AREN), a NASA Scie
   - **NASA email:** geoffrey.l.bland@nasa.gov (retired August 2025)
   - **Personal emails:** gbaerokats@gmail.com, geodronez@gmail.com
   - **Current role:** Manages/runs Aeropods project post-retirement from NASA
+  - **Location:** Goddard Space Flight Center, Wallops Flight Facility, Wallops Island, VA 23337
 - **Billing POC:** PIEE
-- **Location:** Goddard Space Flight Center, Wallops Flight Facility, Wallops Island, VA 23337
+- **Primary Deliverable Product:** Aeropod
 
 ## Task Summary
 - **Total Tasks:** 1 open (administrative contact info), 0 completed
 - **Status:** One unassigned high-priority task tracking Geoffrey Bland contact information (no due date)
-- **Product Focus:** Aeropod
+- **Notes:** Contact management task includes multiple email addresses and Geoffrey's transition from NASA to private Aeropods management role
 
 ## Recent Activity
-- Project shut down in August 2025 ahead of schedule in anticipation of Geoffrey Bland's retirement from NASA
-- Geoffrey Bland transitioned to private role managing Aeropods project post-retirement
-- One administrative contact info task remains open (unassigned, no due date)
+- Project archived August 2025 ahead of original 2026-03-02 due date
+- Geoffrey Bland retired from NASA (August 2025), now manages Aeropods project independently
+- One administrative contact info task remains open and unassigned
 - Primary deliverable (Aeropods platform) completed testing phase in October 2025
 
 ## Notes & Context
 - Project is archived and concluded
-- No subcontractors involved in this contract
-- One open contact management task needs assignment/closure (Geoffrey Bland is now retired from NASA but actively involved with Aeropods via personal email)
+- No subcontractors involved
+- One open contact management task needs assignment/closure
+- Geoffrey Bland remains active in Aeropods domain via personal email addresses (gbaerokats@gmail.com, geodronez@gmail.com)
 
 ## Follow-Up Opportunities
 
-**NASA Hurricane RFI (2026-04-17 & 2026-04-20, Alex Lomis):** NASA team and Joe recommended BST review a related hurricane-focused NASA RFI opportunity on SAM.gov: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view — discussed on hurricane ET call.
+**NASA Hurricane RFI Exploration:** Alex Lomis (2026-04-17, 2026-04-20) identified a related hurricane-focused NASA RFI opportunity recommended by NASA team and Joe:
+- **Link:** https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
+- **Context:** Discussed on hurricane engineering team call
+- **Status:** Awaiting BST review
 
-**AI Tool Leverage for NASA RFIs (2026-04-27 & 2026-05-04, Maciej):** Team expressed interest in using AI tools to start work on NASA RFIs. Maciej flagged this as a potential near-term action item pending team workload availability. As of 2026-05-04, Maciej requested one of two named team members begin work on NASA RFIs "soon" using BST's AI tools.
+**AI Tool Leverage for NASA RFIs:** Maciej (2026-04-27, 2026-05-04) flagged team interest in using AI tools to begin work on NASA RFIs. As of 2026-05-04, Maciej requested one of two named team members begin work on NASA RFIs "soon" using BST's AI tools, pending workload availability.

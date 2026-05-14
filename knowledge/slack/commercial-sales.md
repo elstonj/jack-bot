@@ -18,7 +18,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead)
 - Dan H (CU - external customer, E2 battery interest)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: May 5, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: May 12, 2026.
 
 ---
 
@@ -59,7 +59,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Issues under investigation regarding landing transition stability
 - Remote ID integration required per COA requirements
 
-**NASA S2 Iridium Retrofit Decision (April 2026)**
+**NASA S2 Iridium Retrofit Decision (April-May 2026)**
 - Customer (NASA) requested estimate for adding Iridium components to S20009 and associated ground stations
 - Jack Elston decision: Advise against addition due to component obsolescence from third parties and significant engineering burden
 - Recommendation: Politely decline unless customer insists; if they do insist, may cannibalize parts from existing BST setup but flagged as "huge headache"
@@ -79,6 +79,12 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Rationale for discount: Significant labor savings from not building new unit
 - No final pricing decision documented yet (pending response)
 
+**S2 Battery Configuration - Big Bus Bar Modification (May 12, 2026)**
+- Joshua Fromm identified that multiple Iris batteries (units #2, #3, #5) do not have the "big bus bar mod"
+- Jack Elston decision: Flight path must be limited and old 14" prop must be used with these units
+- **Issue identified (May 12, 2026):** Unit lacks old 14" prop; Josh Fromm noted discrepancy
+- **XML Configuration Review (May 12, 2026):** Jack Elston directed verification against S2 master setup; Nate confirmed XML check was completed before flap servo replacement
+
 ### Service Repair Pricing & Quoting Standards (April 2026)
 
 **S20004 Flap Servo Replacement Quote (April 24, 2026)**
@@ -89,6 +95,10 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
   - Labor: Quote in hours rather than dollar amount (to be calculated by Meredith)
 - **Standard labor rate established by Jack Elston: $125/hour**
 - Joshua Fromm guidance: Quote component parts ($20 for pockets and linkages) and labor hours separately; let Meredith handle final pricing compilation
+
+**Flap Servo Replacement Implementation (May 12, 2026)**
+- Nate completed XML verification and flap servo replacement on aircraft
+- Work validated against S2 master setup specifications
 
 ### Gimbal & Camera Decisions
 
@@ -109,16 +119,4 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 
 **TeAx Thermal Camera Frame Skip Setting (2022)**
 - Original: ~1.1 FPS skip-8-frames mode to overcome WiFi download limitations
-- Attempted: Single-capture mode with A5100 trigger board (~3 fps every frame with GPS tags)
-- Camera's FFC (flat field correction) causes frame drops (5 of 2000 triggers)
-- Decision: Extended trigger pulse from 200ms to 300ms to prevent FFC conflicts
-- Single image captures chosen as solution for better Pix4d compatibility
-
-**TeAx Frame Rate Optimization (2021)**
-- Current frame size: 2 minutes of video = 400MB (45-minute download time)
-- Decision: Reduce frame rate from 8.33Hz to ~4Hz if FOV/flight height/overlap calculations support
-- Frame skip easily adjustable via USB program
-
-**Trisonica Sphere Alignment Solution (2022)**
-- Current: Only marked with 'N' - requires manual alignment on each flight
-- Decision: Need machined or 3D-printed alignment solution (
+- Attempted: Single-capture mode

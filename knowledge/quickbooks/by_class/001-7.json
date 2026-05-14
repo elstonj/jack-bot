@@ -4,13 +4,14 @@
     "(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-05-11",
-    "end": "2026-05-12"
+    "start": "2026-05-12",
+    "end": "2026-05-14"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 108.84,
+    "expenses": 318.97,
     "by_category": {
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 210.13,
       "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 108.84
     }
   },
@@ -19,19 +20,55 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-05-11",
+      "date": "2026-05-13",
+      "doc_number": "",
+      "total": 49.87,
+      "attributed": 49.87,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Shipment request verbally by Josh Fromm",
+      "lines": [
+        {
+          "amount": 49.87,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipping tool to Lee Skidmore for S3 IRAD work"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-12",
       "doc_number": "",
       "total": 108.84,
       "attributed": 108.84,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "",
+      "memo": "D34574316 - 7333",
       "lines": [
         {
           "amount": 108.84,
           "account": "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties",
           "description": "Duties fee for S3 shipment from China supplier"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-12",
+      "doc_number": "YE1730257",
+      "total": 160.26,
+      "attributed": 160.26,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 160.26,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": ""
         }
       ]
     }

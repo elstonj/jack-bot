@@ -3,9 +3,9 @@
 ## Overview
 This channel is for the 2025 NASA SBIR Phase I autonomy project focused on developing a layered, modular flight control architecture for rapid integration and testing of advanced autonomy flight components. The project ran from September 2025 to March 2026, aiming to advance from TRL-5 to TRL-7.
 
-**Key participants:** Jack Elston, Dan Prendergast, Maciej, Ben Busby, Beck Cotter, Meredith Needham
+**Key participants:** Jack Elston, Dan Prendergast, Maciej, Ben Busby, Beck Cotter, Meredith Needham, Paige (documentation coordination)
 
-**Activity level:** High activity throughout the project period with regular meetings and deliverables. Project completion phase (March-April 2026) shows transition to Phase II planning. Currently in active Phase II proposal development stage with multiple BAA opportunities under evaluation. Recent focus (May 2026) on Phase II proposal requirements including capital commitments documentation, budget refinement, aircraft platform acquisition specifications, and equipment necessity assessment.
+**Activity level:** High activity throughout the project period with regular meetings and deliverables. Project completion phase (March-April 2026) shows transition to Phase II planning. Currently in active Phase II proposal development stage with multiple BAA opportunities under evaluation. Recent focus (May 2026) on Phase II proposal requirements including capital commitments documentation, budget refinement, aircraft platform acquisition specifications, equipment necessity assessment, and ProSAMS submission refinement. Very recent activity (May 13, 2026) shows final documentation polish and submission preparation.
 
 ## Key Decisions
 - **October 2025:** Decided against using NASA's Core Flight System (cFS) due to being too heavyweight for BST's needs, despite it being designed for spacecraft
@@ -27,15 +27,16 @@ This channel is for the 2025 NASA SBIR Phase I autonomy project focused on devel
 - **Safe Sandbox Environment:** Creating supervisory control system capable of overriding experimental control inputs
 - **ML Controller Development:** Training simple ML controllers for terrain following using altitude control datasets
 - **Hardware Integration:** Porting FreeRTOS to AP hardware and implementing Nix on Raspberry Pi
-- **Phase II Proposal:** Active development across multiple NASA SBIR/STTR BAA opportunities; strategic alignment assessment underway for best fit subtopics; currently working on Phase II proposal components including capital commitments addendum, detailed budget specifications for hardware/components/aircraft platforms, and equipment necessity assessment
+- **Phase II Proposal:** Active development across multiple NASA SBIR/STTR BAA opportunities; strategic alignment assessment underway for best fit subtopics; working on Phase II proposal components including capital commitments addendum, detailed budget specifications for hardware/components/aircraft platforms, equipment necessity assessment, and ProSAMS submission refinement (May 13, 2026)
 
 ## Action Items & Commitments
-- **Dan Prendergast:** Led architecture design, slide deck creation, and report writing
-- **Beck Cotter:** Project management, report coordination, client communications; initiated Phase II draft proposal (April 9, 2026); forwarded NASA '26 BAA announcements (April 21, 2026); identified Phase II proposal fit across multiple BAA opportunities and evaluated subtopic alignments (April 27, 2026); identified capital commitments addendum requirement (May 6, 2026); clarifying Phase II budget details for components and platform acquisition (May 8, 2026); evaluating TABA/Ed service inclusion in Phase II budget (May 11, 2026); seeking clarification from Meredith on standalone SwiftCore pricing for bench testing equipment assessment (May 11, 2026)
-- **Jack Elston:** Hardware implementation, sensor integration, technical oversight; tasked with coordinating capital commitment letters from Adria, Bob, and Lisa Marie (May 6, 2026); provided specification guidance for Phase II aircraft platform acquisition strategy (May 8, 2026); provided technical assessment of TABA/Ed value for Phase II project (May 11, 2026)
+- **Dan Prendergast:** Led architecture design, slide deck creation, and report writing; made refinements to ProSAMS entries (Technical Abstract, Potential Non-NASA Applications, Identification and Significance of the Innovation) with corrections to ensure accuracy (May 13, 2026)
+- **Beck Cotter:** Project management, report coordination, client communications; initiated Phase II draft proposal (April 9, 2026); forwarded NASA '26 BAA announcements (April 21, 2026); identified Phase II proposal fit across multiple BAA opportunities and evaluated subtopic alignments (April 27, 2026); identified capital commitments addendum requirement (May 6, 2026); clarifying Phase II budget details for components and platform acquisition (May 8, 2026); evaluating TABA/Ed service inclusion in Phase II budget (May 11, 2026); seeking clarification from Meredith on standalone SwiftCore pricing for bench testing equipment assessment (May 11, 2026); re-uploading ProSAMS entries following Dan's refinements (May 13, 2026)
+- **Jack Elston:** Hardware implementation, sensor integration, technical oversight; tasked with coordinating capital commitment letters from Adria, Bob, and Lisa Marie (May 6, 2026); provided specification guidance for Phase II aircraft platform acquisition strategy (May 8, 2026); provided technical assessment of TABA/Ed value for Phase II project (May 11, 2026); updated graphics in technical documentation for improved readability (May 13, 2026); notified Paige of documentation updates (May 13, 2026)
 - **Ben Busby:** Simulation environment development and testing
 - **Maciej:** System architecture input and technical guidance
 - **Meredith Needham:** Successfully submitted all Phase I deliverables to ProSAMS (March 27, 2026); confirmed acceptance (April 9, 2026); providing QuickBooks pricing information for SwiftCore and platform bundles to support Phase II budget refinement (requested May 11, 2026)
+- **Paige:** Documentation coordination and technical documentation updates; notified of graphics updates (May 13, 2026)
 
 ## Client & External References
 - **NASA technical monitor:** Regular check-ins scheduled
@@ -49,6 +50,7 @@ This channel is for the 2025 NASA SBIR Phase I autonomy project focused on devel
 - **JSBSim:** Flight simulation software integration
 - **TABA/Ed:** Service provider for [service type unspecified]; $25K/year cost; excluded from Phase II budget May 11, 2026
 - **Potential Capital Commitment Sources:** Adria, Bob, and Lisa Marie (internal BST contacts for market validation letters)
+- **"KS":** Capital commitment letter received (May 13, 2026)
 
 ## Recurring Topics & Themes
 - Weekly meetings on Thursdays at 2pm
@@ -60,12 +62,10 @@ This channel is for the 2025 NASA SBIR Phase I autonomy project focused on devel
 - Phase II proposal component completion and capital commitment documentation
 - Phase II budget specifications, equipment necessity assessment, and platform acquisition planning
 - Bench testing equipment and tooling requirements optimization
+- ProSAMS submission content refinement and accuracy verification
 
 ## Important Resources
 - [Project Brief](https://docs.google.com/document/d/1xfT370jdPLRoWR2VJVo4v83mDSp7kEqQv0qcRbBXN34/edit?usp=sharing)
 - [Interim Report Template](https://docs.google.com/document/d/1zB5fkJEJmn-KII4yVmLDrRTQFNqrQrmycCZCCDq1ZxE/edit?usp=sharing)
 - [Final Report](https://docs.google.com/document/d/1Dg9tzGtKsSBTjYPShF7k4-jW6oDg_4mDccaysqntCow/edit?usp=drive_link)
-- [Requirements Spreadsheet and Class Diagrams](https://drive.google.com/drive/u/1/folders/1fU4wNZkqyi-Sp6FQAon63HDnblM5ZkBw)
-- [NotebookLM Project](https://notebooklm.google.com/notebook/4646fa50-3289-490f-a5c5-883f0f2a95a9)
-- [ECAMS Spreadsheet](https://docs.google.com/spreadsheets/d/1zalkQfdGo6Y4M7P1ZSqfJZ_AmIS_GbK6q-DSee9jGdo/edit?gid=1240731158#gid=1240731158)
-- [Phase II Draft Proposal](https://docs.google.com/document/d/1dFh7orVpGlvggoF2mXrAlYtKE9wuXRrIh4_cJIk/edit?usp=sharing) -
+- [Requirements Spreadsheet and Class Diagrams](https://drive.google.com/drive/u/1/folders/1fU4wNZkq

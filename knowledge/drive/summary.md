@@ -1,62 +1,68 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-05-12 02:20
+Last scanned: 2026-05-14 02:34
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 9 files — [federal_projects.md](federal_projects.md)
+- **Federal Projects** — 16 files — [federal_projects.md](federal_projects.md)
 - **Sales** — 1 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
 # Black Swift Technologies — Strategic Drive Overview
 
-## Drive Summary
-
-**Total Inventory:** 2 shared drives analyzed
-- **Federal Projects:** 9 files, 2 folders
-- **Sales:** 1 file
-
----
-
-## Key Findings
-
-### Document Volume & Organization
-- **Federal Projects** is the primary documentation hub, housing government contract materials (proposals, budgets, reports)
-- **Sales** drive is significantly underdeveloped with minimal content
-- Federal drive uses basic folder structure (FY27 LOI Data Buy, Quotes) but mostly flat root-level organization
-
-### Major Client/Project Focus
-- **NASA Autonomy Phase II** — dominant project with multiple deliverables:
-  - Proposal (draft stage as of 2026-05-11)
-  - Budget documentation
-  - Phase I final report
-  - Review & visualization plan
-- **Data acquisition initiatives** (FY27 LOI Data Buy)
-- **DAF Agile EW** technical work (template present)
-
-### Cross-Drive Patterns
-- **Federal Projects:** Contains proposals, contracts, budgets, reports, templates, and supporting media (videos)
-- **Sales:** Minimal presence; cost/origin platform component data only
-
-### Shared Resources & Templates
-- DAF Agile EW Technical_Volume_Template (reusable for proposals)
-- Phase II budget template structure
-
-### Document Management Observations
-- **Federal Projects:** Inconsistent naming (mix of descriptive titles and file codes like RC_VID_0008.MOV)
-- **Draft documents** remain in primary storage without clear version control or archival pathway
-- Video files (MOV format) stored with contracts—consider consolidating media assets
-- No apparent naming convention standard across drives
+## Summary Statistics
+- **Total documented files:** 17 files across 2 drives
+- **Organization quality:** Minimal; Federal drive shows basic structure with one subfolder, Sales drive has single file
+- **Date range:** 2022–2099 (note: future-dated files suggest data entry errors)
 
 ---
 
-## Areas Requiring Attention
+## Drive-by-Drive Analysis
 
-1. **Sales Drive Underutilization** — Single file suggests missing proposal pipeline, client documentation, or outdated content
-2. **Draft Document Management** — Multiple draft proposals lack version dating or staging folder separation
-3. **Stale Content Risk** — Phase I reports and older proposals should be archived or clearly marked as historical
-4. **Folder Hierarchy** — Federal drive lacks project-based organization; should consolidate by contract/project ID rather than fiscal year alone
-5. **Cross-Drive Coordination** — No apparent link between Sales pipeline and Federal project awards/contracts
+### Federal Projects Drive (16 files)
+**Primary focus:** Government contracts, proposals, and budget tracking
+
+**Key clients/projects:**
+- NASA Autonomy Phase II (proposal + budget documents)
+- ONR (Office of Naval Research) — Sanabia contract with proposal response
+- Navy SBIR/STTR programs (magnetometer, multiple tracking sheets)
+- DoD IDIQQ (2026 CLIN tracking)
+- AREN program
+
+**Document types:**
+- Proposals and responses (Autonomy Phase II draft, ONR proposal v2)
+- Budget tracking sheets (monthly tracking for 3+ projects)
+- Contracts and delivery orders (1305M226 series)
+- Supporting materials (commitment letters, milestone plans)
+
+**Issues identified:**
+- **Poor naming conventions:** "Untitled presentation" and "Untitled document" lack descriptive context
+- **Stale media:** Two video files (RC_VID_0008/0009.MOV) appear unrelated to federal contracts
+- **Minimal folder structure:** Only 1 subfolder for 16 files; projects mixed at root level
+- **Future dates:** Files show modification dates in 2026 and 2099 (likely data errors)
+
+### Sales Drive (1 file)
+- Single document: Notre Dame Direct Deposit Advice (banking/admin, not sales-related)
+- Severely underdeveloped; no active sales pipeline documentation visible
+
+---
+
+## Cross-Drive Patterns & Observations
+
+| Drive | Primary Content | Organization | Health |
+|-------|---|---|---|
+| Federal | Contracts, proposals, budgets | Minimal (1 subfolder) | ⚠️ Needs restructuring |
+| Sales | Administrative (1 file) | N/A | ❌ Inactive/incomplete |
+
+---
+
+## Recommendations
+
+1. **Immediate:** Rename and archive "Untitled" documents; remove video files or move to media repository
+2. **Structure:** Implement project-based folders in Federal drive (NASA, ONR, Navy SBIR as separate folders)
+3. **Sales drive:** Populate with active proposals, pipeline, and client files or deactivate
+4. **Templates:** Leverage ONR budget template across projects; document naming/storage standards
+5. **Date audit:** Verify file modification dates (2099 entries are erroneous)

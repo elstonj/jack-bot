@@ -1,80 +1,71 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,397 (1,332 previous + 65 from May 11–12)
-- **Date range:** March 25 – May 12, 2026 (49 days)
-- **Approximate volume:** ~28.5 emails/day (sustained high volume)
-- **May 11–12 activity:** 65 new messages — **Massive operational surge on May 11 (62 messages); logistics/component deliveries peak; import duty payment completed; manufacturing quotes finalized**
+- **Total messages scanned:** 1,485 (1,397 previous + 88 from May 12–14)
+- **Date range:** March 25 – May 14, 2026 (51 days)
+- **Approximate volume:** ~29.1 emails/day (sustained high volume)
+- **May 12–14 activity:** 88 new messages — **Continued operational surge; manufacturing/component delivery phase ongoing; vendor support escalations active**
 
 ## Key Correspondents
 
 ### Top Human Senders (Updated)
-1. **Foster Hill** (fhill@mmsolutions.biz) — MM Solutions — **ELEVATED: Active quote negotiation May 11 (3 exchanges)**
+1. **Foster Hill** (fhill@mmsolutions.biz) — MM Solutions — **ACTIVE: Quote SO-42885 (Quote 00018935) ready-to-pay status confirmed May 12**
 2. **Sean Cole** (sean@phase1av.com) — Phase 1 AV
-3. **Santiago Silva** (santiago.silva@xometry.com) — Xometry — **RE: project contact coordination**
-4. **Jessica** (jessica@protospacemfg.com) — ProtoSpace Mfg — **ELEVATED: RFQ 255039 design review (2 exchanges)**
+3. **Santiago Silva** (santiago.silva@xometry.com) — Xometry
+4. **Jessica** (jessica@protospacemfg.com) — ProtoSpace Mfg — **ACTIVE: RFQ 255039 design review exchange May 13**
 5. **Samantha** (Samantha@bestinparts.com) — Best In Parts
-6. **Chance Rogers** (chance.rogers@vertiq.co) — Vertiq
-7. **Bob Bannick** (bob.bannick@protolabs.com) — ProtoLabs — **NEW FREQUENT CONTACT: Urgent pivot mount order escalation (3 exchanges May 11)**
-8. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Internal — **Atmolab Camera System forward**
+6. **Chance Rogers** (chance.rogers@vertiq.co) — Vertiq — **ACTIVE: Tracking SO-01510 escalation (2 exchanges May 12–13)**
+7. **Bob Bannick** (bob.bannick@protolabs.com) — ProtoLabs — **ACTIVE: Pivot mount order #5345-257 / 1845-0475-003 status May 12**
+8. **Neha Dubey** (neha.dubey@amprius.com) — Amprius — **NEW CONTACT: Invoice correspondence May 13** — Battery/energy storage vendor
+9. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Internal — **ACTIVE: SOCOM RFI correspondence forwarded May 12 (evan.m.wolff.mil@socom.mil)**
+10. **Lee Skidmore** (Lee@northwindcomp.com) — Northwind Computing — **NEW ACTIVE: Small project troubleshooting ("I made an oops") May 13**
+11. **Tonya Trenkle** (tonya@uavionix.com) — uAvionix — **NEW CONTACT: Support escalation for delayed order #106880 (placed May 4, not yet received) May 13**
 
-### Top Automated/Transactional Senders (Updated May 11–12)
+### Top Automated/Transactional Senders (Updated May 12–14)
 
-**Shipping/Logistics (PEAK DELIVERY PHASE):**
-- **DHL Express** — **2 new messages (May 11)** — **Tracking #2550810194: Payment Receipt (15:56 UTC) — Import duty PAID, shipment released** — Marks customs clearance completion
-- **UPS** — 1 message (May 11 11:00 EDT) — "Your Package Is Coming Today" — Domestic delivery tracking
-- **USPS Informed Delivery** — 1 message (May 11 13:42 UTC) — Daily digest
-- **Speedway Motors** — 2 messages (May 11) — Order delivery confirmation + educational content ("Radiator Cores")
-- **JawsTec** — 1 message (May 11 20:06 UTC) — "Your order from JawsTec is on its way!"
-- **eBay** — 1 message (May 11 06:20 MST) — Futaba RC receivers/transmitters tracking — **RC/hobby supplier active**
+**Manufacturing/Rapid Prototyping (PEAK ACTIVITY):**
+- **ProtoLabs** — **4 new messages (May 12–14)** 
+  - Order #4164-549: Shipping confirmation (May 12 18:08 UTC) + Delayed shipment notification (May 12 22:30 UTC, May 13 00:30 UTC, May 14 00:30 UTC) — **Escalating delay pattern**
+  - Order #9102-034: Shipping confirmation (May 12 18:08 UTC)
+  - Invoice #100-A000808195 + #100-A000808174 (May 13 06:18–06:19 UTC)
+- **ProtoSpace Mfg** — Marketing/educational content (sheet metal bending guide May 13)
+- **PCBWay** — Order review status notification (May 13 00:42 UTC) — **NEW SUPPLIER: PCB manufacturing**
+- **Generic manufacturing vendor** — Design review notification (May 11, per prior data)
 
-**Electronics/Components (NEW SUPPLIERS ACTIVE):**
-- **Mouser Electronics** — 2 messages (May 11) — PO 39155920 shipment + tariff details — **High-value component order with tariff implications**
-- **DigiKey** — 2 messages (May 11) — Order confirmation (PO 99151808) + promotional (aerospace/defense interconnects)
-- **RS Electronics** — 4 messages (May 11 12:28–12:30 CDT) — Account setup/verification sequence (billing address, shipping address, sales order confirmation)
-- **DataPro International** — 2 messages (May 11) — Order confirmation + shipment notification
-- **Amazon** — 3 messages (May 11) — 2 orders (Amazon Basics + USB cables/items)
-- **StarTech** — 1 message (May 11 16:29 EDT) — Online order confirmation
-- **B&H Photo** — 1 message (May 12 00:29 EDT) — Package delayed notification
+**Component/Electronics Supply (SUSTAINED SURGE):**
+- **McMaster-Carr** — **3 new messages (May 13)** — Order confirmation + certificates/tracking + receipt for May 13 order — **Ongoing consumables/hardware ordering**
+- **DigiKey** — **2 new messages (May 12)** — Shipping confirmation (invoice 125612294) + delay notification — **Order in transit with delay flagged**
+- **Mouser Electronics** — (From prior data: May 11 activity sustained)
+- **Amazon** — **2 new messages (May 12–13)** — Shipped notification + delivery update (Traovien Micro USB + 1 more item)
+- **StarTech** — **2 new messages (May 12)** — Invoice + order update
+- **B&H Photo** — Delivery confirmation (May 12)
+- **General Air** — **IMPORTANT: Payment confirmation #10099275 for BLACK SWIFT TECHNOLOGIES LLC (May 13 05:03 UTC)** — **Aviation/aerospace supplier**
 
-**Manufacturing/Design Services:**
-- **ProtoLabs (Bob Bannick)** — **3 routed messages (May 11)** — Urgent pivot mount order (5345-257 / 1845-0475-003 / R_V196) — Case #03371815 — **Design review + delivery coordination**
-- **ProtoSpace (Jessica)** — Routed RFQ response (15:16 UTC) — Design review feedback
-- **Generic sales** — 1 message (17:25 UTC) — "We're reviewing your design — next steps coming soon"
+**Shipping & Logistics (ONGOING):**
+- **DHL Express** — **4 new messages (May 12–13)** — Shipment notifications #2550810194 (May 13 00:37 UTC = duplicate of May 11 clearance), On Demand Delivery options (May 12 17:47 UTC, 17:55 UTC, 18:30 UTC)
+- **UPS** — **2 new messages (May 12)** — "Your Packages Arrive Tomorrow" (x2 messages, 14:10 & 15:00 EDT)
+- **USPS Informed Delivery** — Daily digests (May 12–13)
+- **Pirate Ship** — **NEW: Receipt for $49.87 payment (May 13 20:45 UTC)** — Shipping label service
+- **FedEx Billing Online** — Invoice ready for payment (May 14 00:52 CDT) — **Outstanding FedEx charges**
+
+**Vendor Support/Escalations (NEW PATTERNS):**
+- **uAvionix Support** — **3 new messages (May 12–13)** 
+  - Email verification loop (May 12 17:47 UTC)
+  - Support ticket #49117 created (May 12 17:47 UTC + duplicate May 13 06:20 UTC)
+  - Follow-up from Tonya Trenkle (May 13 06:20 UTC)
+  - **ISSUE: Order #106880 placed May 4, not yet received; multiple follow-up calls unanswered** — **Critical vendor delivery problem**
 
 **Promotional/Marketing (Sustained):**
-- **Frontier Airlines** — 2 messages (May 11) — Promotional deals ($49 fares, $59.99 membership)
-- **Harbor Freight** — 1 message (May 11 17:55 UTC) — Coupon/deals refresh
-- **X-Plane** — 1 message (May 11 19:29 UTC) — Beta release notification (simulation software)
-- **DigiKey promotional** — 2 messages (May 11) — Aerospace/defense interconnects + embedded processing/5G converters
-- **ELEGOO** — 1 message (May 11 16:03 UTC, sent to Alexis Lomis/purchasing@) — Centauri Carbon 2 (3D printing/robotics)
-- **ezCater** — 1 message (May 11 13:05 UTC, sent to Jack Elston/purchasing@) — Team lunch catering
-
-**Vendor Account/System Messages:**
-- **Multiple "Verify email address" loops** — 4 messages (May 11 14:38–14:42 CDT) — RS Electronics verification sequence
-- **Account preference dialogs** — RS, Mouser, StarTech — Account/address/preference setup patterns
-
-**News/Information:**
-- **UAS Vision** — 1 message (May 11 10:06 UTC) — Daily industry digest (maintained subscription)
-- **COSMOS (OpenC3)** — 1 message (May 11 16:41 GMT, sent to josh.fromm@bst.aero address variant) — **Control systems software update notification**
-
-### Internal Correspondents (New/Updated)
-- **Meredith Needham** — Procurement liaison — **Forwarded import duty alert (09:56 UTC May 11), responded to with duty payment confirmation (10:06 UTC)**
-- **Daniel Prendergast** — **Atmolab Camera System forward (13:35 PDT May 11)** — **NEW internal project visibility**
-
-### External Non-Vendor Contact (New)
-- **Sarah Cascio** (sarah@ecocycle.org) — **Eco-Cycle Invoice Payments [IMPORTANT]** — Sustainability/environmental vendor or partner
-
-### International Outreach (New)
-- **Miglia Motores Elétricos** (vendas@migliamotores.com.br) — **Brazilian Electric Propulsion Optimization for Long-Endurance** [IMPORTANT] — Sent to info@blackswifttech.com — **Unsolicited business development pitch or partnership inquiry**
-
-## Topic Patterns
-
-### Primary Operational Themes (Updated May 11–12)
-
-1. **International Component Import Completion** — **DHL #2550810194 duty paid (May 11 15:56 UTC)** — Import successfully cleared; high-value component(s) now released for delivery
-2. **Manufacturing Quote Finalization** — Foster Hill (MM Solutions) quote negotiation concluded (3 exchanges May 11, status: "Ready to pay")
-3. **ProtoSpace RFQ Design Review** — RFQ 255039 design review cycle active (Meredith → Josh → Jessica → Josh exchange May 11)
-4. **ProtoLabs Urgent Pivot Mount Order** — Order #5345-257 / Part 1845-0475-003 (R_V196 case) — Case #03371815 — Expedited delivery coordination (Bob Bannick 3 exchanges)
-5. **Component Procurement Surge** — Mouser (PO 39155920, tariff-flagged), DigiKey (PO 99151808), RS Electronics (new account setup), DataPro, Amazon, StarTech — **Multi-supplier simultaneous ordering pattern**
-6. **RC/Hobby Component Supply** — eBay (Futaba 14SG receivers/transmitters), Speedway
+- **Frontier Airlines** — **2 new messages (May 12)** — 50% off base fares + $399 GoWild annual membership
+- **Hobbyking** — **2 new messages (May 12–13)** — Warehouse sales (up to 60% off), batteries clearance (up to 25% off)
+- **Harbor Freight** — **2 new messages (May 13)** — 25% coupon + new product alert + summer yard prep (May 13)
+- **Speedway Motors** — **2 new messages (May 13)** — Car community + MAHLE horsepower upsell
+- **AliExpress** — "Tiny joy alert" promotional (May 13)
+- **Rocketman Parachutes Store** — **NEW: Ultra-Light High-Performance CD 2.2 Parachutes** (May 13) — **Airborne recovery/payload system supplier**
+- **HeliDirect** — **2 new messages (May 12–13)** — Goosky Helicopters + Stratos 200/Nitron 50/Flywing Bell 407 inventory updates — **RC helicopter supplier**
+- **Teledyne FLIR OEM** — **2 new messages (May 12)** — Smaller SWaP (Size, Weight, Power) thermal imaging pitch (sent to both josh.fromm@blackswifttech.com and josh.fromm@bst.aero) — **Sensor/imaging vendor**
+- **TraceParts** — **2 new messages (May 12–13)** — Hybrid capacitors for automotive + design/tech trends — **CAD component library / hybrid capacitor supplier**
+- **Hilton Honors** — 20% travel savings (May 13)
+- **Expedia** — Flight booking promotion (May 13)
+- **Birdcall** — BOGO wraps (May 12) — **Local food delivery**
+- **

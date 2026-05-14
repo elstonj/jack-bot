@@ -16,6 +16,7 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **May 1, 2026 DoD Customer Presentation Preparation**: Aircraft setup required in shop before 9am on May 1, 2026 for display purposes (continuation of DoD S0-AD engagement follow-up).
 - **Outside Door Lock Issue** (May 1, 2026): Outside door lock malfunctioning (warps when hot); inside door should be locked as backup when leaving. Joshua Fromm provided fix: push down on mechanism.
 - **Daycare in Loft** (May 5, 2026): BVSD and DPS school closures due to snow; Jack Elston arranged daycare in the loft with Claire present for employees with children.
+- **Beth's Budget Request** (May 12, 2026): External stakeholder (Beth) requesting deliverables by Thursday; Beck Cotter assigned to work up budget pending specific equipment needs and personnel details from Jack Elston.
 
 ### Funding & Awards
 - **NASA Phase I Award** (May 26, 2021): Contract awarded for S2 all-weather capable platform development with solar integration and VTOL S2 for remote autonomous landing
@@ -70,5 +71,4 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
   - Unique wind measurement and ice/cloud interaction dataset collected
 - Prominently displayed with NASA administrator at press conference (Oct 11, 2021)
 - Battery specifications: weight 1.3kg, max power 900W, nominal 250W
-- NDVI analysis results presented by Jack Elston with high-resolution camera calculations
-- Missing S2 during shipment to deployment found in FedEx overgood facility Florida (March 24, 2025); recovered and delivered via UPS by March 25
+- NDVI analysis results presented

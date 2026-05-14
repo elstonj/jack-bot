@@ -48,18 +48,27 @@ The project required extensive regulatory coordination and stakeholder managemen
 
 ---
 
-## ⚠️ Note on Related Active Projects
-**As of April 2026**, per team feedback from Meredith Needham and Maciej Stachura, the following are now **separate active projects** — do not conflate with this archived Fire UTM Phase I work:
+## ⚠️ Related Active Projects (as of April–May 2026)
+Per team feedback (Meredith Needham, Maciej Stachura, Jack Elston), the following are **separate active projects** — do not conflate with this archived Fire UTM Phase I work:
 
-- **Navy SBIR Magnetometer**: Kicked off April 22, 2026 (per Maciej, 2026-04-22). FWA Certification due April 14, 2026 (managed by Meredith Needham). Technical lead: U058LGYMEQ0. Project brief, kick-off presentation template, and report templates available in Asana. Report templates and Award Deliverable Templates at https://navysbir.com/links_forms.htm.
+### Navy SBIR Magnetometer
+- **Kick-off Date**: April 22, 2026 (per Maciej Stachura, 2026-04-22)
+- **Technical Lead**: U058LGYMEQ0
+- **Key Deadline**: FWA Certification due April 14, 2026 (managed by Meredith Needham)
+- **Status**: Mostly on schedule (per Maciej Stachura, 2026-05-06)
+- **Deliverables**: Kick-off presentation template and report templates available in Asana; Award Deliverable Templates at https://navysbir.com/links_forms.htm
+- **Note**: Requires prominent display of company name and business information on all reports/cover pages per Navy requirements
 
-- **Navy STTR**: Submitted April 17, 2026 alongside invoicing (per Meredith Needham, 2026-04-17).
+### Navy STTR
+- **Submission Date**: April 17, 2026 (submitted alongside invoice, per Meredith Needham, 2026-04-17)
+- **Priority Status**: **HIGH PRIORITY** — has priority over SBIR Magnetometer work (per Jack Elston, 2026-05-08; Maciej Stachura, 2026-05-06)
+- **Status**: Under active development; task updates ongoing in Asana
 
-**High-Priority Projects (as of April 24-30, 2026)** — per Maciej Stachura:
-1. S3 IRAD — targeted delivery end of May for UMES S3
-2. S0-VTOL — two deliveries for ERAU and Barbados
-3. EMASS — closing out
-4. By-Lite Mustang
-5. Navy SBIR Magnetometer — initial tasks underway
-
-These are distinct projects and should be tracked separately from this archived Fire UTM Phase I work.
+### Current Priority Projects (as of April 30, 2026)
+Per Maciej Stachura (2026-04-30) and Jack Elston (2026-05-08):
+1. **Navy STTR** — **Top Priority**
+2. **S3 IRAD** — Targeted delivery end of May for UMES S3
+3. **S0-VTOL** — Two deliveries for ERAU and Barbados
+4. **EMASS** — Closing out
+5. **By-Lite Mustang**
+6. **Navy SBIR Magnetometer** — Initial tasks underway; mostly on schedule
