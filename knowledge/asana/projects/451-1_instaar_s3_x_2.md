@@ -2,11 +2,11 @@
 
 ## Overview
 - **Client/Customer**: INSTAAR, CU Boulder (CU Stable Isotope Lab)
-- **Dollar Value**: $120,000 total budget to BST
+- **Dollar Value**: $120,000 total to BST
 - **Timeline**: 
   - S3 delivery due **February 27, 2026** (Josh Fromm)
   - Operator training scheduled **August 11–13, 2025** (Dan Prendergast)
-  - Launcher pallet expected **second week of February 2025** (3–4 week shipping from order)
+  - Launcher pallet expected **second week of February 2025** (3–4 week shipping from order; confirmed January 8, 2025)
   - Estimates approved **December 11, 2024**
 - **Status**: Active — replacing two damaged S2s with insurance-funded S3 units
 - **Team Members**: Josh Fromm (delivery owner), Dan Prendergast (operator training), Kevin Rozmiarek (primary & billing contact)

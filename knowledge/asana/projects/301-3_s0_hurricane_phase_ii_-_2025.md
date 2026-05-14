@@ -86,10 +86,10 @@
 - **Extended contract:** Now runs through August 25, 2026 with 6-month extension
 - NOAA has **$115K + $54K earmarked** for extension/early part ordering for 3 UAS builds or parts (status: yet to be determined per Dec 10, 2025 update)
 - First optional funding invoice ($121,650) submitted October 2025 for: 4 S0s, Hurricane Erin/Gabriella/Imelda deployment trips, support and Clear Air testing
-- **Jack Elston actively negotiating IDIQ contract with NOAA for 25-30 UAS builds (FY25)** — represents significant follow-on opportunity beyond current Phase II contract
 
-### Strategic Partnerships
+### Strategic Partnerships & Follow-On Opportunities
 - **NASA engagement:** Alex Lomis shared NASA RFI (Apr 17 & 20, 2026) recommended by NASA and Joe Cione during hurricane ET call — https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view — suggests potential expansion of S0 platform beyond current NOAA hurricane program
+- **Jack Elston actively negotiating IDIQ contract with NOAA for 25-30 UAS builds (FY25)** — represents significant follow-on opportunity beyond current Phase II contract
 
 ### Technical Focus
 - **IAS failures remain primary concern:** Recurring during flights, causing wind measurement loss and aircraft loss — increasingly frequent on 2025-10-26 flights
@@ -98,4 +98,4 @@
 - Clear Air testing completed as of April 16, 2026
 
 ### Critical Issues & Gaps
-1. **Five required technical milestones** (10Hz Met Data, Increased End
+1. **Five required technical milestones** (10Hz Met

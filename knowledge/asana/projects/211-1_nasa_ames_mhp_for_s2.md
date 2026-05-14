@@ -40,5 +40,5 @@ Project completed in March 2025 with all deliverables on or ahead of schedule:
 - **Subcontractor**: N/A ($0 subcontract amount)
 - **Customer type**: Commercial
 - **Products/Services**: MHP product/service delivery
-- **NASA RFI opportunity**: Per Alex Lomis (2026-04-17, 2026-04-20), NASA contacts and Joe recommended a NASA RFI link shared on a hurricane engineering & technology call: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view (context: may indicate future opportunity or follow-on work with NASA; team discussion ongoing about using AI tools to pursue NASA RFIs)
-- **Team action item** (Maciej, 2026-04-27, 2026-05-04): Team members considering using AI tools to start work on NASA RFI opportunities; coordination needed to assign ownership between available team members
+- **NASA RFI opportunity**: Per Alex Lomis (April 17, 2026), NASA contacts and Joe recommended a NASA RFI link shared on a hurricane engineering & technology call: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view (context: may indicate future opportunity or follow-on work with NASA)
+- **Team action item** (Maciej, April 27 & May 4, 2026): Team members considering using AI tools to start work on NASA RFI opportunities; coordination needed to assign ownership between available team members — Maciej asking for update on who will take the lead

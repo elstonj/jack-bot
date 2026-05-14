@@ -3,64 +3,63 @@
 ## Overview
 - **Client/customer:** Internal BST purchasing system (serves all active projects)
 - **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across multiple projects
-- **Timeline:** Ongoing operational project; critical Hurricane GCS orders due May 11–13, 2026; inventory items due July 10, 2026
-- **Status:** **Active — 14 open tasks** (dramatic reversal from 3 tasks in prior snapshot). **Major workflow change detected:** Prior verification-focused phase (Nate receiving/closing) has been replaced by new order placement phase (Meredith placing orders for Hurricane GCS and General Sales). This represents either a data reset or a new purchasing cycle beginning. **⚠️ URGENT: Workflow structure has fundamentally shifted — see Recent Activity.**
+- **Timeline:** Ongoing operational project; critical Hurricane GCS orders due May 11–13, 2026; secondary orders due May 14–15, 2026
+- **Status:** **Active — 15 open tasks, 0 completed.** Workflow now stabilized into two concurrent phases: **(1) Order Placement** (Meredith placing Hurricane GCS and misc. orders) and **(2) Receiving/Verification** (Nate verifying received items). This represents a mature, sustained purchasing cycle—no longer a reset pattern. **⚠️ CRITICAL: Multiple tasks now overdue or due within 24–48 hours; Nate's receiving queue has grown to 5 items.**
 - **Team members involved:**
-  - Meredith O'hara Needham (10 tasks — 71%; order placement for Hurricane GCS, jawstec s3)
-  - Nate Straus (2 tasks — 14%; receiving/verification for Servocity, jawstec s3 parts)
-  - Unassigned (2 tasks — 14%; inventory items awaiting assignment)
-  - Requesters: Nate (9 tasks), Joshua Fromm (4 tasks), Alex Lomis (1 task)
+  - Meredith O'hara Needham (9 tasks — 60%; order placement for Hurricane GCS, jawstec s3 & s0, PCBWay)
+  - Nate Straus (5 tasks — 33%; receiving/verification for jawstec, Servocity, bhphoto, Offshore Electrics)
+  - Unassigned (1 task — 7%; jawstec for s3 & s0 parts awaiting project breakdown)
+  - Requesters: Joshua Fromm (6 tasks), Nate (4 tasks), Alex Lomis (3 tasks)
 - **Risk signals:**
-  - **Workflow collapse/reset:** Prior snapshot showed 3 tasks all "Order Received" awaiting Nate's verification closure. Current snapshot shows 14 open tasks, mostly "Order Placed" or "Order Shipped" assigned to Meredith for placement — suggests prior 5 verified/closed tasks have been replaced or a new purchasing cycle has opened.
-  - **Microhard task (Meredith) due May 11 — overdue or imminent:** Target placement date May 11, 2026; task still assigned to Meredith in "open" state with no status. If today is May 11 or later, this order may not have been placed.
-  - **5 Hurricane GCS orders due May 13 with "Order Placed" or "Order Shipped" status:** Amazon, Digikey Gateworks, Startech, Digikey x3, Mouser, RS-Online, DataPro all aimed at May 13 due date. Most show "Order Placed" or "Order Shipped" — suggest fulfillment in progress but not yet received.
-  - **jawstec s3 (#68473) overdue:** Due May 2, 2026; status "Order Shipped"; still open in Asana. Requester: Joshua Fromm. Likely shipped but not yet verified/closed by receiving team.
-  - **2 unassigned inventory items (Speedway motors, pololu, rocketman) due July 10:** No assignee; status "Order Placed in Inventory"; due dates May 1–8 for placement but due date shows July 10. These may be long-lead items awaiting receiving/verification or awaiting inventory intake assignment.
-  - **Nate Straus concentrated on 2 receiving tasks only:** Servocity and jawstec s3 parts both assigned to Nate with "Order Received" status — but both due May 13 (not May 10 as prior snapshot showed). Nate's capacity appears reduced compared to prior 3-task snapshot.
+  - **Meredith's Hurricane GCS orders due May 13, most showing "Order Shipped" or "Order Placed":** 7 tasks (Amazon, Digikey x2, Mouser, RS-Online, DataPro, Startech) due May 13; 5 already show "Order Shipped" status. If today is May 13+, these shipments must be tracked for receipt.
+  - **PCBWay order (Alex) due May 14, status "Order Placed":** Placement target was May 12; task shows May 14 due date. May already be in transit.
+  - **Nate's receiving queue expanded to 5 items, all due May 13–15:** Servocity, jawstec s3 parts, jawstec s0 parts, bhphoto tripods, and Offshore Electrics optical rpm probes all show "Order Received" status—awaiting Nate's verification closure. Nate's capacity may be stretched.
+  - **jawstec s3 (#68473) now due May 15, was due May 2:** Status "Order Received" (Nate); 13+ days past original May 2 target. Likely received late or due date was extended.
+  - **Unassigned jawstec order (s3 & s0 parts) due May 14, project breakdown required:** Task assigned to Meredith but notes "MULT" (multiple project) with request to provide breakdown. Cannot be closed without project clarification.
+  - **bhphoto tripods due May 14, "MULTIPLE PROJECT":** Status "Order Received" (Nate); assigned to multiple projects. Nate cannot verify without clear project allocation.
 
 ## Key Deliverables & Milestones
 
-### **Immediate Placement Phase — Due May 11, 2026** (1 task)
+### **Order Placement Phase — Due May 13, 2026** (7 Hurricane GCS tasks)
 
-#### **[300-3] 2026 IDIQ (Hurricane)** — 1 task
-- **Microhard / Hurricane GCS** | Due May 11, 2026 | Meredith O'hara Needham | Status: (none listed) | Requester: Nate | Tax Exempt: NO
-  - *Target placement: May 11, 2026. No status provided; may be overdue or imminent.*
-
-### **Order Placed Phase — Due May 13, 2026** (8 tasks)
-
-#### **[300-3] 2026 IDIQ (Hurricane)** — 7 tasks
-- **Amazon / Hurricane GCS** | Due May 13, 2026 | Meredith O'hara Needham | Status: **Order Placed** | Requester: Nate | Tax Exempt: NO
-- **Digikey Gateworks / Hurricane GCS (#99157746)** | Due May 13, 2026 | Meredith O'hara Needham | Status: **Order Placed** | Requester: Nate | Tax Exempt: NO
-- **Digikey / Hurricane GCS x3 (#99151808)** | Due May 13, 2026 | Meredith O'hara Needham | Status: **Order Placed** | Requester: Nate | Tax Exempt: NO
-- **Mouser / Hurricane GCS (#39155920)** | Due May 13, 2026 | Meredith O'hara Needham | Status: **Order Shipped** | Requester: Nate | Tax Exempt: NO
-- **RS-Online / Hurricane GCS (#2561507246)** | Due May 13, 2026 | Meredith O'hara Needham | Status: **Order Shipped** | Requester: Nate | Tax Exempt: NO
-- **DataPro / Hurricane GCS (#605111011462)** | Due May 13, 2026 | Meredith O'hara Needham | Status: **Order Shipped** | Requester: Nate | Tax Exempt: NO
+#### **[300-3] 2026 IDIQ (Hurricane)** — 6 tasks
+- **Amazon / Hurricane GCS** | Due May 13, 2026 | Meredith O'hara Needham | Status: **Order Shipped** | Requester: Nate
+- **Digikey Gateworks / Hurricane GCS (#99157746)** | Due May 13, 2026 | Meredith O'hara Needham | Status: **Order Placed** | Requester: Nate
+- **Digikey / Hurricane GCS x3 (#99151808)** | Due May 13, 2026 | Meredith O'hara Needham | Status: **Order Shipped** | Requester: Nate
+- **Mouser / Hurricane GCS (#39155920)** | Due May 13, 2026 | Meredith O'hara Needham | Status: **Order Shipped** | Requester: Nate
+- **RS-Online / Hurricane GCS (#2561507246)** | Due May 13, 2026 | Meredith O'hara Needham | Status: **Order Shipped** | Requester: Nate
+- **DataPro / Hurricane GCS (#605111011462)** | Due May 13, 2026 | Meredith O'hara Needham | Status: **Order Shipped** | Requester: Nate
 
 #### **[001-1] IRAD General** — 1 task
-- **Startech / Hurricane GCS (#USW554503)** | Due May 13, 2026 | Meredith O'hara Needham | Status: **Order Placed** | Requester: Nate | Tax Exempt: NO
-  - *Billed to [001-1] IRAD General; other Hurricane items billed to [300-3]*
+- **Startech / Hurricane GCS (#USW554503)** | Due May 13, 2026 | Meredith O'hara Needham | Status: **Order Shipped** | Requester: Nate
 
-### **Overdue/Shipped — Awaiting Verification** (1 task)
-
-#### **General Sales (No Specific Project)** — 1 task
-- **jawstec for s3 (#68473)** | **Due May 2, 2026** ⚠️ | Meredith O'hara Needham | Status: **Order Shipped** | Requester: Joshua Fromm | Tax Exempt: YES
-  - *Ordered Apr 30, 2026; now 8+ days overdue. Status shows shipped but not yet received/verified in Asana.*
-
-### **Receiving/Verification Phase — Due May 13, 2026** (2 tasks)
-
-#### **[001-4] IRAD S0 VTOL** — 1 task
-- **Servocity (#300043410)** | Due May 13, 2026 | Nate Straus | Status: **Order Received** | Requester: Alex Lomis | Tax Exempt: NO
-  - *Ordered May 4, 2026; received and ready for Nate's verification closure.*
-
-#### **General Sales (No Specific Project)** — 1 task
-- **jawstec for s3 parts (#68490)** | Due May 13, 2026 | Nate Straus | Status: **Order Received** | Requester: Joshua Fromm | Tax Exempt: YES
-  - *Ordered May 1, 2026; received and ready for Nate's verification closure.*
-
-### **Inventory/Long-Lead Phase — Due July 10, 2026** (3 tasks, unassigned)
+### **Secondary Order Placement Phase — Due May 14, 2026** (2 tasks)
 
 #### **[001-7] IRAD S3** — 1 task
-- **Speedway motors / latch studs (#E6040634)** | Due July 10, 2026 | **Unassigned** | Status: **Order Placed in Inventory** | Requester: Nate | Tax Exempt: NO
-  - *Requested for May 8 placement; now in inventory queue.*
+- **PCBWay (#YE1730257)** | Due May 14, 2026 | Meredith O'hara Needham | Status: **Order Placed** | Requester: Alex | Placement target: May 12, 2026
+  - *Likely in transit; on schedule.*
 
-#### **General Sales (No Specific Project)** — 1 task
-- **pololu for s3 (#1J585099)** | Due July 10, 2026 | **Unassigned** | Status: **Order Placed in
+#### **MULTIPLE PROJECT (Breakdown Required)** — 1 task
+- **jawstec for s3 & s0 parts** | Due May 14, 2026 | **Unassigned** | Status: (none) | Requester: Joshua Fromm | Placement target: May 14, 2026 | Tax Exempt: YES
+  - **⚠️ BLOCKED:** Task notes "MULT" (multiple projects); requires breakdown in description before closure. Cannot allocate costs without project clarification.
+
+### **Receiving/Verification Phase — Due May 13–15, 2026** (5 tasks, all assigned to Nate Straus)
+
+#### **[001-4] IRAD S0 VTOL** — 2 tasks
+- **Servocity (#300043410)** | Due May 13, 2026 | Nate Straus | Status: **Order Received** | Requester: Alex Lomis | Placement date: May 4, 2026
+  - *Received and ready for verification closure.*
+- **Offshore Electrics optical rpm probes (#100531902)** | Due May 15, 2026 | Nate Straus | Status: **Order Received** | Requester: Alex Lomis | Placement date: May 4, 2026
+  - *Received and ready for verification closure.*
+
+#### **[300-3] 2026 IDIQ (Hurricane)** — 1 task
+- **jawstec for s0 parts (#68514)** | Due May 14, 2026 | Nate Straus | Status: **Order Received** | Requester: Joshua Fromm | Placement date: May 1, 2026
+  - *Received and ready for verification closure.*
+
+#### **General Sales (No Specific Project)** — 2 tasks
+- **jawstec for s3 (#68473)** | **Due May 15, 2026** (was due May 2) ⚠️ | Nate Straus | Status: **Order Received** | Requester: Joshua Fromm | Placement date: Apr 30, 2026
+  - *Received 13+ days late. Ready for verification closure.*
+- **jawstec for s3 parts (#68490)** | Due May 13, 2026 | Nate Straus | Status: **Order Received** | Requester: Joshua Fromm | Placement date: May 1, 2026
+  - *Received and ready for verification closure.*
+
+#### **MULTIPLE PROJECT (Breakdown Required)** — 1 task
+- **bhphoto for tripods (#1128888572)** | Due May 14, 

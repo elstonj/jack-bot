@@ -4,41 +4,18 @@
     "[043-3] By Light Halo"
   ],
   "period": {
-    "start": "2026-05-08",
-    "end": "2026-05-09"
+    "start": "2026-05-12",
+    "end": "2026-05-14"
   },
   "totals": {
-    "revenue": 111629.0,
+    "revenue": 47894.0,
     "expenses": 0.0,
     "by_category": {}
   },
   "invoices": [
     {
       "type": "Invoice",
-      "date": "2026-05-08",
-      "doc_number": "1755",
-      "total": 63735.0,
-      "attributed": 63735.0,
-      "vendor": "",
-      "customer": "[043-3] By Light Halo",
-      "balance": 63735.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 63735.0,
-          "account": "",
-          "description": "Two (2) built out Halo platforms ready for car launch demo (launch/land/recover)."
-        },
-        {
-          "amount": 63735.0,
-          "account": "",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Invoice",
-      "date": "2026-05-08",
+      "date": "2026-05-13",
       "doc_number": "1754",
       "total": 47894.0,
       "attributed": 47894.0,

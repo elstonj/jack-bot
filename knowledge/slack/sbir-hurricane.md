@@ -62,12 +62,14 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Display units to ship without tripods/mounts/carry cases in cardboard tubes or boxes, shipped folded (April 22, 2026)
 - Special thicker-skin wings to be commissioned for display models to improve appearance (April 21, 2026)
 - Wing springs and antenna NOT to be pre-installed on display units to reduce shipping damage risk (April 22, 2026)
+- All 4 display S0 units approved to include tripods: 2 units shipping end of May + 2 units for early-mid July (May 7, 2026)
+- Jack Elston confirmed all display aircraft should have tripods included (May 7, 2026)
 - Tripod and mount solution added to 2x display units at ~$200 cost (5 min labor) (April 22, 2026)
 - Delivery deadline: June 5, 2026 for DC event requirement; shipment to AOC or HQ for redistribution (April 22, 2026)
 
-**Display Aircraft Tripod Configuration (May 7, 2026):**
-- All 4 display S0 units approved to include tripods: 2 units shipping end of May + 2 units for early-mid July (May 7, 2026)
-- Jack Elston confirmed all display aircraft should have tripods included (May 7, 2026)
+**Display Aircraft Shipping (May 12, 2026):**
+- Two display S0 units remaining at BST; other two units have addresses managed by another team member (May 12, 2026)
+- Joshua Fromm coordinating logistics to ship all 4 tripods to respective locations (May 12, 2026)
 
 **Inventory Management (April 23, 2026):**
 - SASCWATCH has one S0 left over from previous season; decision made not to allow NOAA to use it (April 23, 2026)
@@ -89,5 +91,4 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Matt reported he corrected the issues on all boards (May 11, 2026)
 
 **Critical Long-Lead Items for Production (May 11, 2026):**
-- ~$400/system cost identified as achieving compressed leadtime from ~3 months to ~1.5 months delivery (May 11, 2026)
-- Long-lead items (>1 month) identified: rotary latches, tubes, servos (May 
+- ~

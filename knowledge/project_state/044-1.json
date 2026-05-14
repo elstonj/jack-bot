@@ -4,8 +4,8 @@
   "category": "contract",
   "asana_gid": "1211903174217997",
   "name": "EMASS Chip Integration",
-  "status": "active",
-  "status_notes": null,
+  "status": "delayed",
+  "status_notes": "CORRECTION 2026-05-12: From Jack: emass is likely delayed, we're waiting on them to get a working system to test, so de-prioritize it, but we don't want to drag this out more than a month",
   "customer": {
     "name": "EMASS",
     "type": "commercial",
@@ -26,10 +26,10 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 27137.5,
+        "amount": 27262.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-12"
+        "last_updated": "2026-05-14"
       },
       "purchases": {
         "amount": 0.0,
@@ -43,13 +43,13 @@
         "confidence": "exact",
         "last_updated": "2026-04-22"
       },
-      "total": 27184.3,
+      "total": 27309.3,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 62815.7,
+    "remaining": 62690.7,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-12T09:03:16Z"
+    "last_reconciled": "2026-05-14T09:19:16Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -138,6 +138,12 @@
     {
       "source": "FEEDBACK",
       "author": "Daniel Prendergast",
+      "date": "2026-05-08",
+      "text": "From Daniel Prendergast (ts=1778171546.352389): <@U06KRHPQSRH> did EMASS ever pay the second invoice?"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
       "date": "2026-05-07",
       "text": "From Daniel Prendergast: <@U06KRHPQSRH> did EMASS ever pay the second invoice?"
     },
@@ -150,10 +156,16 @@
     {
       "source": "FEEDBACK",
       "author": "Daniel Prendergast",
-      "date": "2026-05-08",
-      "text": "From Daniel Prendergast (ts=1778171546.352389): <@U06KRHPQSRH> did EMASS ever pay the second invoice?"
+      "date": "2026-05-13",
+      "text": "From Daniel Prendergast: <@U0AQE94HJUT> CU IRISS training is complete.  EMASS Validation Flight #2 is postponed indefinitely until they get us a functioning controller."
+    },
+    {
+      "source": "CORRECTION",
+      "author": "Jack",
+      "date": "2026-05-12",
+      "text": "From Jack: emass is likely delayed, we're waiting on them to get a working system to test, so de-prioritize it, but we don't want to drag this out more than a month"
     }
   ],
-  "last_full_rebuild": "2026-05-12T09:03:16Z",
+  "last_full_rebuild": "2026-05-14T09:19:16Z",
   "last_incremental_update": null
 }

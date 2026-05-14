@@ -62,7 +62,7 @@
 - Priority: Medium
 - Customer Type: Commercial
 
-**Final Report Scope Clarification (TEAM-CONFIRMED):** Per **Alex Lomis (2026-04-17)** and **Jack Elston (2026-04-20)**: BST had **no responsibility** for the final report deliverable. UMEX handled the final report completely. The May 2026 timeline for final report in the contract was a placeholder; BST's involvement ended with completion of aircraft delivery and flight testing in March 2026.
+**Final Report Scope Clarification (TEAM-CONFIRMED):** Per **Alex Lomis (2026-04-17)** and **Jack Elston (2026-04-17, 2026-04-20)**: BST had **no responsibility** for the final report deliverable. UMEX handled the final report completely. The May 2026 timeline for final report in the contract was a placeholder; BST's involvement ended with completion of aircraft delivery and flight testing in March 2026. **Per Daniel Prendergast (2026-04-20):** "you can stop hazing Alex about the ADONIS final report. That is complete and the entire ADONIS project has been closed out."
 
 **Program Performance:** Project successfully transitioned through all six major flight test milestones with minimal delays. All hardware deliverables completed on schedule.
 

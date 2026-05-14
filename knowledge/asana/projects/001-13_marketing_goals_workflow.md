@@ -69,4 +69,4 @@ This project successfully established BST's marketing framework, digital infrast
 ---
 
 ## ⚠️ Important Clarification
-**This archived project is separate from active technical engineering work.** Team feedback from April 2026 (Maciej) references concurrent active projects with EMASS flight tests, S0-VTOL debugging, S3 work, and Mustang progress — those belong to different, active engineering initiatives and should not be confused with this completed marketing goals workflow (May 2024 – April 2025).
+**This archived project is separate from active technical engineering work.** As noted by Maciej (April 2026), concurrent active projects include EMASS flight tests, S0-VTOL debugging, S3 work, and Mustang progress — those belong to different, active engineering initiatives and should not be confused with this completed marketing goals workflow (May 2024 – April 2025).

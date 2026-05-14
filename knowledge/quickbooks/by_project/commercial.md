@@ -1,11 +1,11 @@
 # Commercial — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $2,829,357.34
-- **Total Expenses (Bills + Purchases):** $222,582.14
+- **Total Invoiced (Revenue):** $2,877,251.34
+- **Total Expenses (Bills + Purchases):** $228,633.54
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,606,775.20 (Revenue exceeds expenses)
-- **Date Range:** April 5, 2024 – May 8, 2026
+- **Net Position:** $2,648,617.80 (Revenue exceeds expenses)
+- **Date Range:** April 5, 2024 – May 18, 2026
 
 ---
 
@@ -19,7 +19,7 @@
 | 1757 | 2026-05-08 | $63,735.00 | [043-3] By Light Halo | $63,735.00 |
 | 1756 | 2026-05-08 | $47,894.00 | [043-3] By Light Halo | $47,894.00 |
 | 1755 | 2026-05-08 | $63,735.00 | [043-3] By Light Halo | $63,735.00 |
-| 1754 | 2026-05-08 | $47,894.00 | [043-3] By Light Halo | $47,894.00 |
+| 1754 | 2026-05-13 | $47,894.00 | [043-3] By Light Halo | $47,894.00 |
 | 1758 | 2026-04-16 | $0.00 | Black Swift Technologies | Voided |
 | 1756 | 2026-04-10 | $62,500.00 | (035-1) Adonis | $62,500.00 |
 | 1755 | 2026-04-10 | $90,000.00 | [032-3] Sasquatch S0s x 4 | $90,000.00 |
@@ -67,15 +67,15 @@
 | 1618 | 2024-04-19 | $13,853.10 | [451] INSTAAR Stable Isotope Lab, CU Boulder | Paid |
 
 ### Revenue Summary
-- **Total Invoiced:** $2,829,357.34
+- **Total Invoiced:** $2,877,251.34
 - **Total Collected (Paid):** $1,075,726.08
-- **Outstanding Balance:** $1,753,631.26
-  - **Four invoices from May 8, 2026 (By Light Halo):** $223,258.00 (Invoices #1754–1757)
-    - Invoice #1757 ($63,735.00): Two (2) built out Halo platforms ready for car launch demo
-    - Invoice #1756 ($47,894.00): Design tested Halo airframe and CAD step files
-    - Invoice #1755 ($63,735.00): Two (2) built out Halo platforms ready for car launch demo
-    - Invoice #1754 ($47,894.00): Design tested Halo airframe and CAD step files
-  - **One invoice from May 8, 2026 (IRISS, CU Boulder):** $664.98 (Invoice #1759)
+- **Outstanding Balance:** $1,801,525.26
+  - **Five invoices to [043-3] By Light Halo (May 8–13, 2026):** $271,152.00
+    - Invoice #1757 (2026-05-08): $63,735.00 — Two (2) built out Halo platforms ready for car launch demo
+    - Invoice #1756 (2026-05-08): $47,894.00 — Design tested Halo airframe and CAD step files
+    - Invoice #1755 (2026-05-08): $63,735.00 — Two (2) built out Halo platforms ready for car launch demo
+    - Invoice #1754 (2026-05-13): $47,894.00 — Design tested Halo airframe and CAD step files *(NEW)*
+  - **One invoice from May 8, 2026 (IRISS, CU Boulder):** $664.98
   - **Other outstanding invoices:** $1,529,708.28
 
 ---
@@ -110,19 +110,12 @@
 ---
 
 ### **Materials & Supplies (Direct Cost Purchases)**
-**Total: $72,189.60** | 8 transactions | Largest item: $1,221.39
+**Total: $76,802.35** | 11 transactions | Largest item: $2,776.50
 
 #### Direct Cost Purchases
-- **Purchase #00018935 (2026-05-07):** $1,221.39
-  - S3 Case (UMES) — Placed by Josh Fromm via email; no Asana request
-
-- **Purchase #KDE17135 (2026-04-20):** $780.00
-  - KDE4215XF-465 Brushless Motor for Heavy-Lift Electric Multi-Rotor (Qty: 4)
-
-- **Purchase #68231 (2026-04-20):** $355.06
-  - Propulsion system CAD files (*.step files)
-
-- **Purchase #459340813415 (2026-04-21):** $330.10
-  - Split allocation; 2026
-
-*Additional unspec
+- **Purchase #334139 (2026-05-18):** $4,164.75 *(NEW)*
+  - $2,776.50 — Thermoset Laminate Linen Tubes (shipped to Lee Skidmore/Northwind Composites)
+  - $555.30 — Additional materials
+  - $832.95 — Allocation to Inventory Asset (future sales of 6 S0s)
+  - **Direct cost allocation:** $3,331.80
+  - Note: All orders handled directly by sales rep; applies to 2026 IDIQ, Sasquatch, and 6 future S0 sales

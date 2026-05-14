@@ -1,61 +1,26 @@
 {
   "project_code": "_unclassified",
   "qbo_class_names": [
-    "",
-    "Black Swift Technologies"
+    ""
   ],
   "period": {
-    "start": "2026-05-11",
-    "end": "2026-05-12"
+    "start": "2026-05-12",
+    "end": "2026-05-14"
   },
   "totals": {
-    "revenue": 197188.0,
-    "expenses": 11686.12,
+    "revenue": 0.0,
+    "expenses": 63669.53,
     "by_category": {
+      "GENERAL & ADMINISTRATIVE:GA-Legal Fees": 44964.5,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 10773.62,
-      "SALES & MARKETING:SM-Conferences/Seminars": 912.5
+      "FRINGE:FR-Employee Healthcare": 6498.51,
+      "DIRECT COSTS:DC-Direct Material Purchases": 666.36,
+      "FACILITIES:FA-Utilities Expense": 581.08,
+      "Inventory Asset": 166.59,
+      "FACILITIES:FA-Office Supplies": 18.87
     }
   },
-  "invoices": [
-    {
-      "type": "Invoice",
-      "date": "2026-05-11",
-      "doc_number": "1763",
-      "total": 197188.0,
-      "attributed": 197188.0,
-      "vendor": "",
-      "customer": "Black Swift Technologies",
-      "balance": 197188.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 65000.0,
-          "account": "",
-          "description": "4 meter wingspan aircraft capable of VTOL operations. Compatible with S2 payloads. Comes with 1 battery, hard shipping case, grounds station, tablet with SwiftTab software."
-        },
-        {
-          "amount": 36000.0,
-          "account": "",
-          "description": "VTOL Variant of the S0 UAS capable of providing pressure, temperature and RH measurements. Includes charger, cables and protective case."
-        },
-        {
-          "amount": 56188.0,
-          "account": "",
-          "description": "Includes E2 UAS airframe, avionics package consisting of SwiftCore\u2122 Flight Management System (includes SwiftTab\u2122 user interface installed on an Android-based Control Tablet, Futaba 14SG Handset, and SwiftStation\u2122 RTK enabled Ground Control Unit), toolkit, tripod, battery, charger, and hard sided shi"
-        },
-        {
-          "amount": 40000.0,
-          "account": "",
-          "description": "Avionics systems for bench testing."
-        },
-        {
-          "amount": 197188.0,
-          "account": "",
-          "description": ""
-        }
-      ]
-    }
-  ],
+  "invoices": [],
   "bills": [
     {
       "type": "Bill",
@@ -74,24 +39,106 @@
           "description": "R&D Tax Credits 2025"
         }
       ]
+    },
+    {
+      "type": "Bill",
+      "date": "2026-05-12",
+      "doc_number": "202535",
+      "total": 44964.5,
+      "attributed": 44964.5,
+      "vendor": "KO Law PC",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 44964.5,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Legal Fees",
+          "description": "Investment Transaction (4/2/26 to 4/30/26) 60hrs + Outside council fee"
+        }
+      ]
     }
   ],
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-05-11",
-      "doc_number": "",
-      "total": 912.5,
-      "attributed": 912.5,
+      "date": "2026-05-18",
+      "doc_number": "334139",
+      "total": 4164.75,
+      "attributed": 832.95,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "AMERICAN GEOPHYSICAL U - 7333",
+      "memo": "No Asana Request because all orders must be handled directly by the sales rep. Purchase for the three S0 projects: 2026 IDIQ, Sasquatch, 6 future S0 sales\n\nShipped to Lee Skidmore (Northwind) \nOrder placed 3/20 - payment occurs when it is shipped",
       "lines": [
         {
-          "amount": 912.5,
-          "account": "SALES & MARKETING:SM-Conferences/Seminars",
-          "description": "Half of payment for conference"
+          "amount": 2776.5,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Thermoset Laminate Linen Tubes"
+        },
+        {
+          "amount": 555.3,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": ""
+        },
+        {
+          "amount": 832.95,
+          "account": "Inventory Asset",
+          "description": "For future sales of 6 S0s"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-12",
+      "doc_number": "",
+      "total": 18.87,
+      "attributed": 18.87,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON RETA* BF1JI3E01 - 4617",
+      "lines": [
+        {
+          "amount": 18.87,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "Toilet paper"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-12",
+      "doc_number": "",
+      "total": 581.08,
+      "attributed": 581.08,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "COMCAST-XFINITY  CABLE SVCS 260511 5394880         JACK *ELSTON",
+      "lines": [
+        {
+          "amount": 581.08,
+          "account": "FACILITIES:FA-Utilities Expense",
+          "description": "COMCAST-XFINITY  CABLE SVCS 260511 5394880         JACK *ELSTON"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-12",
+      "doc_number": "",
+      "total": 6498.51,
+      "attributed": 6498.51,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "BUSINESS TO BUSINESS ACH UNITED HEALTHCAR EDI PAYMTS        XXXXXXXX6330    08133~IEA*1*260508131~",
+      "lines": [
+        {
+          "amount": 6498.51,
+          "account": "FRINGE:FR-Employee Healthcare",
+          "description": "BUSINESS TO BUSINESS ACH UNITED HEALTHCAR EDI PAYMTS        XXXXXXXX6330    08133~IEA*1*260508131~"
         }
       ]
     }

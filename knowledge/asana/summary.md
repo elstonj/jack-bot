@@ -1,103 +1,162 @@
 # Asana Projects Overview
 
-Last scanned: 2026-05-12 02:07
+Last scanned: 2026-05-14 02:16
 
-Total projects scanned: 12
+Total projects scanned: 41
 
 ## Projects
 
-- **Contacts** — 1 tasks — [contacts.md](contacts.md)
+- **Commercial Sales** — 1 tasks — [commercial_sales.md](commercial_sales.md)
+- **Contacts** — 2 tasks — [contacts.md](contacts.md)
+- **SBIR - Fire UTM Phase I** — 0 tasks — [sbir_-_fire_utm_phase_i.md](sbir_-_fire_utm_phase_i.md)
 - **View: Flight Testing** — 1 tasks — [view_flight_testing.md](view_flight_testing.md)
-- **[001-13] Accounting** — 5 tasks — [001-13_accounting.md](001-13_accounting.md)
-- **[001-13] General Operations** — 2 tasks — [001-13_general_operations.md](001-13_general_operations.md)
-- **[001-13] HR General ** — 2 tasks — [001-13_hr_general.md](001-13_hr_general.md)
-- **[001-13] Proposals** — 1 tasks — [001-13_proposals.md](001-13_proposals.md)
-- **[001-13] Purchasing** — 14 tasks — [001-13_purchasing.md](001-13_purchasing.md)
-- **[031-1] UMES S3** — 3 tasks — [031-1_umes_s3.md](031-1_umes_s3.md)
-- **[043-3] ByLight M2/Halo** — 4 tasks — [043-3_bylight_m2halo.md](043-3_bylight_m2halo.md)
+- **View: Shop Pipeline** — 1 tasks — [view_shop_pipeline.md](view_shop_pipeline.md)
+- **[001-07] S3 IRAD** — 8 tasks — [001-07_s3_irad.md](001-07_s3_irad.md)
+- **[001-09] SwiftCore 4.0** — 165 tasks — [001-09_swiftcore_40.md](001-09_swiftcore_40.md)
+- **[001-10] SwiftCore 3.2** — 3 tasks — [001-10_swiftcore_32.md](001-10_swiftcore_32.md)
+- **[001-11] Methane Emission Detection IRAD** — 1 tasks — [001-11_methane_emission_detection_irad.md](001-11_methane_emission_detection_irad.md)
+- **[001-12] Customer Support** — 1 tasks — [001-12_customer_support.md](001-12_customer_support.md)
+- **[001-13] Accounting** — 1 tasks — [001-13_accounting.md](001-13_accounting.md)
+- **[001-13] BD Pipeline** — 1 tasks — [001-13_bd_pipeline.md](001-13_bd_pipeline.md)
+- **[001-13] Corporate / Strategic Planning** — 1 tasks — [001-13_corporate_strategic_planning.md](001-13_corporate_strategic_planning.md)
+- **[001-13] Marketing Goals Workflow** — 0 tasks — [001-13_marketing_goals_workflow.md](001-13_marketing_goals_workflow.md)
+- **[001-13] Proposals** — 2 tasks — [001-13_proposals.md](001-13_proposals.md)
+- **[001-13] Purchasing** — 15 tasks — [001-13_purchasing.md](001-13_purchasing.md)
+- **[001-14] SwiftCore 3.3** — 78 tasks — [001-14_swiftcore_33.md](001-14_swiftcore_33.md)
+- **[001-17] Aircraft Inventory Maintenance and Upgrades** — 0 tasks — [001-17_aircraft_inventory_maintenance_and_upgrades.md](001-17_aircraft_inventory_maintenance_and_upgrades.md)
+- **[001-23] SOCOM S0-AD** — 7 tasks — [001-23_socom_s0-ad.md](001-23_socom_s0-ad.md)
+- **[005-1] BARBADOS VTOL S0 and Training ** — 4 tasks — [005-1_barbados_vtol_s0_and_training.md](005-1_barbados_vtol_s0_and_training.md)
+- **[012-2] ERAU VTOL S0** — 5 tasks — [012-2_erau_vtol_s0.md](012-2_erau_vtol_s0.md)
+- **[018-1] Murphy's Pond CH4 Monitoring** — 3 tasks — [018-1_murphys_pond_ch4_monitoring.md](018-1_murphys_pond_ch4_monitoring.md)
+- **[031-1] UMES S3** — 1 tasks — [031-1_umes_s3.md](031-1_umes_s3.md)
+- **[035-1] ADONIS Unmanned Experts** — 1 tasks — [035-1_adonis_unmanned_experts.md](035-1_adonis_unmanned_experts.md)
+- **[043-1] ByLight Professional IT Services** — 0 tasks — [043-1_bylight_professional_it_services.md](043-1_bylight_professional_it_services.md)
+- **[043-2] By Light Mustang** — 3 tasks — [043-2_by_light_mustang.md](043-2_by_light_mustang.md)
+- **[043-3] ByLight M2/Halo** — 2 tasks — [043-3_bylight_m2halo.md](043-3_bylight_m2halo.md)
 - **[044-1] EMASS Chip Integration** — 1 tasks — [044-1_emass_chip_integration.md](044-1_emass_chip_integration.md)
-- **[350-4] 2024 USGS - Chile (Mexico)** — 1 tasks — [350-4_2024_usgs_-_chile_mexico.md](350-4_2024_usgs_-_chile_mexico.md)
-- **[550-1] NAVY SBIR: Magnetometer** — 2 tasks — [550-1_navy_sbir_magnetometer.md](550-1_navy_sbir_magnetometer.md)
+- **[1331] S2 CRATER (Costa Rica)** — 1 tasks — [1331_s2_crater_costa_rica.md](1331_s2_crater_costa_rica.md)
+- **[200-11] Persistence Demo (NASA)** — 1 tasks — [200-11_persistence_demo_nasa.md](200-11_persistence_demo_nasa.md)
+- **[200-12] NASA AREN '25** — 1 tasks — [200-12_nasa_aren_25.md](200-12_nasa_aren_25.md)
+- **[211-1] NASA Ames MHP for S2** — 0 tasks — [211-1_nasa_ames_mhp_for_s2.md](211-1_nasa_ames_mhp_for_s2.md)
+- **[212-2] NASA S2 & Parts** — 5 tasks — [212-2_nasa_s2_parts.md](212-2_nasa_s2_parts.md)
+- **[300-3] 2026 IDIQ (Hurricane)** — 21 tasks — [300-3_2026_idiq_hurricane.md](300-3_2026_idiq_hurricane.md)
+- **[301-2] SBIR - Hurricane Phase II+** — 0 tasks — [301-2_sbir_-_hurricane_phase_ii.md](301-2_sbir_-_hurricane_phase_ii.md)
+- **[301-3] S0 Hurricane Phase II - 2025** — 23 tasks — [301-3_s0_hurricane_phase_ii_-_2025.md](301-3_s0_hurricane_phase_ii_-_2025.md)
+- **[350-4] 2024 USGS - Chile (Mexico)** — 20 tasks — [350-4_2024_usgs_-_chile_mexico.md](350-4_2024_usgs_-_chile_mexico.md)
+- **[400-5] SBIR - SMM DoD 22.4D Phase II** — 0 tasks — [400-5_sbir_-_smm_dod_224d_phase_ii.md](400-5_sbir_-_smm_dod_224d_phase_ii.md)
+- **[451-1] INSTAAR S3 x 2** — 3 tasks — [451-1_instaar_s3_x_2.md](451-1_instaar_s3_x_2.md)
+- **[550-1] NAVY SBIR: Magnetometer** — 1 tasks — [550-1_navy_sbir_magnetometer.md](550-1_navy_sbir_magnetometer.md)
+- **[550-2] Navy STTR: Hazardous Weather** — 1 tasks — [550-2_navy_sttr_hazardous_weather.md](550-2_navy_sttr_hazardous_weather.md)
 
 ## Strategic Summary
 
 # Black Swift Technologies – Project Portfolio Overview
 
 ## Portfolio Summary
-- **Total Project Value**: ~$622,165 (tracked across active client projects)
-- **Active Projects**: 8 major initiatives
-- **Critical Status**: 2 projects at high urgency; 1 project blocked on external dependency
-- **Internal Operations**: 5 ongoing operational projects (accounting, HR, purchasing, proposals, contacts)
+
+**Total Identifiable Value**: ~$6.4M across active projects (excluding internal/unvalued projects)
+
+**Active Projects**: 25+ with 10+ at critical urgency
+**Archived/Completed**: 12 projects successfully closed
+**Status**: Mixed – several high-value projects on track; multiple delivery delays and resource conflicts
 
 ---
 
-## Key Active Projects
+## Key Active Projects by Value
 
 | Project | Client | Value | Status | Key Deadline |
 |---------|--------|-------|--------|--------------|
-| **[031-1] UMES S3** | University of Maryland Eastern Shore | $81,306 | **CRITICAL URGENCY** | May 11, 2026 (S3 delivery) |
-| **[350-4] USGS Chile** | USGS Volcano Science Center | $124,230 | Active — Delayed | Fall 2026 (deployment postponed from Apr 2026) |
-| **[043-3] ByLight M2/Halo** | By Light (Commercial) | $126,629 | Active — Invoicing Phase | May 30, 2026 |
-| **[044-1] EMASS Chip Integration** | EMASS (Commercial) | $90,000 | Active — **BLOCKED** | May 2026 (extended; awaiting external validation) |
-| **[550-1] NAVY SBIR Magnetometer** | Department of Navy (NAVAIR) | *Value not specified* | Active | *Timeline pending* |
-| Flight Testing | Internal R&D | — | Active | 1 open task (Validation Flight #2) |
+| [301-3] Hurricane Phase II 2025 | NOAA/UM | $1.7M | Active, extended | Jul 31, 2026 |
+| [400-5] SMM DoD 22.4D Ph II | Air Force | $1.25M | ✅ Completed | Jul 11, 2025 |
+| [035-1] ADONIS | Unmanned Experts | $1.25M | ✅ Completed Apr 2026 | — |
+| [300-3] 2026 IDIQ Hurricane | NOAA | $483K | Active | May 27, 2026 (ship) |
+| [550-2] Navy STTR Hazardous Weather | ONR | $146K | In progress | Sep 1, 2026 |
+| [550-1] Navy SBIR Magnetometer | NAVAIR | — | Active, ongoing | TBD |
+| [350-4] 2024 USGS Chile | USGS | $124K | **DELAYED** → Fall 2026 | Fall 2026 |
+| [451-1] INSTAAR S3 x2 | CU Boulder | $120K | Active, critical | Feb 27, 2026 |
+| [031-1] UMES S3 | UMES | $81K | **CRITICAL** | May 31, 2026 |
+| [018-1] Murphy's Pond CH4 | Murray State | $87K | Active | Dec 31, 2026 |
+| [212-2] NASA S2 & Parts | NASA Ames | $90K | Active | TBD |
+| [044-1] EMASS Chip Integration | EMASS | $90K | Deprioritized/delayed | May 2026 |
+| [005-1] Barbados S0 VTOL | Barbados Met | $22K | Active | May 22, 2026 |
+| [012-2] ERAU S0 VTOL | ERAU | $21K | **20+ MO OVERDUE** | — |
 
 ---
 
-## Risk Areas
+## Critical Risk Areas
 
-1. **UMES S3 — Critical Path Risk**
-   - Delivery deadline May 11, 2026 (imminent)
-   - Executive priority flagged by Jack Elston (4/20/26)
-   - Training scheduled July 23–25, 2026 (post-delivery)
+### 🔴 **Delivery Delays & Overdue Projects**
+- **[012-2] ERAU S0 VTOL**: 20+ months overdue (due Aug 2024; current status unclear)
+- **[350-4] USGS Chile**: Deployment delayed from Apr 2026 → Fall 2026
+- **[301-3] Hurricane Phase II**: Extended contract through Aug 2026 (originally earlier)
+- **[044-1] EMASS**: Deprioritized; waiting on external validation system
 
-2. **ByLight M2/Halo — Invoice Overdue**
-   - Scope 1 invoice due May 18 now overdue
-   - Status marked "DATE TENTATIVE"
+### 🟠 **Imminent Critical Deadlines (May–Jul 2026)**
+- **[031-1] UMES S3**: S3 delivery due **May 11, 2026** — highest priority per Jack Elston (Apr 20)
+- **[005-1] Barbados S0**: S0 delivery due **May 22, 2026**; training **Jul 1–4**
+- **[451-1] INSTAAR x2**: S3 delivery due **Feb 27, 2026** (potentially missed)
+- **[300-3] IDIQ Hurricane**: Hardware ship date **May 27, 2026**
+- **[301-3] Hurricane Ph II**: Deliverables due **Jul 1, 31, 2026**
 
-3. **EMASS Chip Integration — External Dependency Block**
-   - Project stalled pending external validation
-   - Validation Flight #1 completed early (Apr 25), but cannot proceed further
+### 🟠 **Resource Conflicts**
+- **UMES, INSTAAR, Murphy's Pond, IDIQ, Hurricane Phase II** all competing for same production/delivery bandwidth (May–Jul 2026)
+- Jack Elston flagged UMES as "priority number one" vs. INSTAAR/Ottawa demo contention
 
-4. **USGS Chile — Timeline Slippage**
-   - Deployment delayed from April 2026 → Fall 2026 (17-month slip)
-   - Contract end August 30, 2025 (appears to conflict with Fall 2026 deployment; clarification needed)
+### 🟡 **Data Integrity & Status Issues**
+- **[001-09] SwiftCore 4.0**: Conflicting task counts (165 open vs. 0 open in different reports)
+- **[001-13] BD Pipeline**: Pipeline historically $2.3M+ but shows $0 in current Asana (data loss suspected)
+- **[012-2] ERAU**: Barbados obligation and contract terms unclear; dollar values incomplete
 
-5. **Purchasing Operations — Surge in Workload**
-   - Jump from 3 to 14 open tasks
-   - Critical deadlines: Hurricane GCS orders (May 11–13, 2026); inventory (July 10, 2026)
+### 🟡 **Internal Projects at Yellow/Overdue**
+- **[001-14] SwiftCore 3.3**: 78 open tasks, overdue milestones (status as of Nov 28, 2023)
+- **[001-13] Purchasing**: 15 open tasks; Hurricane GCS critical orders due May 11–15, 2026
+- **[001-13] BD Pipeline**: Many opportunities past due (Q2 2026); sales pipeline tracking stalled
 
 ---
 
 ## Team Allocation Patterns
 
-- **Dan Prendergast**: Flight testing lead; DoD SBIR proposal lead
-- **Ethan Domagala**: ByLight M2/Halo project owner
-- **Jack Elston**: Executive oversight on UMES priority
-- **Meredith O'hara Needham**: Finance/operations (accounting, HR, invoicing across projects)
-- **Nate Straus**: Field work (ByLight)
-- **Beck Cotter**: Contact database owner
+**Core Leadership Engaged**:
+- **Jack Elston**: Owner/PM on UMES, INSTAAR, Murphy's Pond; strategic decisions
+- **Dan Prendergast**: Technical lead on Navy/SOCOM projects, S3 IRAD, demos, proposals
+- **Maciej Stachura**: Hardware/development across SwiftCore, S3 IRAD, Hurricane Phase II
+- **Nate Straus**: Production/aircraft delivery; Shop Pipeline coordinator
+- **Meredith O'Hara Needham**: Finance/contracts; invoicing (NOAA, IDIQ, Barbados, ByLight)
+- **Josh Fromm**: S3 IRAD, INSTAAR, NASA Ames coordination
+- **Ben Busby**: SwiftCore development; customer support
+
+**Capacity Bottleneck**: Production/delivery timeline (May–Jul 2026) heavily loaded; multiple simultaneous aircraft builds/integrations compete for same pool.
 
 ---
 
 ## Upcoming Critical Deadlines
 
-| Date | Milestone | Project |
-|------|-----------|---------|
-| **May 11–13, 2026** | Hurricane GCS orders | Purchasing |
-| **May 11, 2026** | S3 VTOL delivery | UMES S3 |
-| **May 18, 2026** | Scope 1 invoice due (overdue) | ByLight M2/Halo |
-| **May 30, 2026** | Project due date | ByLight M2/Halo |
-| **May 31, 2026** | Project due; S3 funding expires | UMES S3 |
-| **July 10, 2026** | Inventory items due | Purchasing |
-| **Fall 2026** | USGS Chile deployment (delayed) | USGS Chile |
+| Date | Project | Deliverable |
+|------|---------|-------------|
+| May 11, 2026 | [031-1] UMES | S3 VTOL delivery (PRIMARY) |
+| May 11–15, 2026 | [001-13] Purchasing | Hurricane GCS critical orders |
+| May 22, 2026 | [005-1] Barbados | S0 VTOL delivery |
+| May 27, 2026 | [300-3] IDIQ Hurricane | Hardware ship date (SHOW units) |
+| Jun 30, 2026 | [018-1] Murphy's Pond | Flight #3 due; S2 rental |
+| Jul 1, 2026 | [301-3] Hurricane Ph II | 13 S0 systems + controller delivery |
+| Jul 31, 2026 | [301-3] Hurricane Ph II | Web controller & operator training |
+| Sep 1, 2026 | [550-2] Navy STTR | Final deliverable |
+| Fall 2026 | [350-4] USGS Chile | Deployment (delayed from Apr 2026) |
 
 ---
 
-## Recommendations
+## Summary Assessment
 
-1. **Escalate UMES S3** – Confirm resource allocation; track daily progress to May 11 delivery
-2. **Resolve EMASS Block** – Identify external dependency owner; establish unblock timeline
-3. **Clarify USGS Timeline** – Reconcile Aug 2025 contract end vs. Fall 2026 deployment
-4. **Address ByLight Invoice** – Resolve overdue status immediately
-5. **Monitor Purchasing Workflow** – Investigate 14-task surge; ensure critical GCS orders stay on track
+**Strengths**:
+- Strong contract pipeline with government agencies (NOAA, Navy, NASA, USGS)
+- Recent successful project completions (ADONIS, SMM DoD Phase II, Persistence Demo)
+- Core R&D projects advancing (S3 IRAD, SwiftCore evolution)
+
+**Vulnerabilities**:
+- **Production bottleneck** in May–Jul 2026; simultaneous delivery obligations may not be achievable
+- **UMES flagged as highest priority** but resource conflicts evident with INSTAAR/Murphy's Pond
+- **Long-standing overdue item** (ERAU, 20+ months) suggests execution or contract clarity gaps
+- **Data quality issues** in pipeline/strategic planning dashboards
+- Internal process projects (purchasing, accounting, proposals) show open task accumulation
+
+**Recommendation**: Immediate review of May–Jul 2026 production schedule and resource reallocation required to avoid further delivery delays.

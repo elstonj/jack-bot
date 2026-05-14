@@ -5,7 +5,7 @@ This channel is primarily used for development and testing of BST's S0 VTOL airc
 
 Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan Domagala, Dan, Ben Busby
 Activity: High activity with 1420+ messages covering approximately 2+ years of development
-Time range: Early development through May 7, 2026 (ongoing project)
+Time range: Early development through May 13, 2026 (ongoing project)
 
 ## Key Decisions
 
@@ -75,6 +75,10 @@ Time range: Early development through May 7, 2026 (ongoing project)
 - Sam Hild identified PWM "shift" issue: signal appears corrupted/attenuated rather than changed in value (May 7, 2026)
 - Initial hypothesis: Voltage-related issue, possibly faulty level shift circuit (May 7, 2026)
 
+**Parachute/Ejection System (May 13, 2026):**
+- Team considering Peregrine CO2 ejection device (8g/12g option) from Apogee Rockets as parachute deployment mechanism
+- Joshua Fromm indicated team comfort with loading own pyro charges using small amounts of black powder (May 13, 2026)
+
 ## Projects & Initiatives
 
 **S0-VTOL Development (Spin-Up Phase - May 2026):**
@@ -90,17 +94,7 @@ Time range: Early development through May 7, 2026 (ongoing project)
   - Servo power demand analysis needed to diagnose pivot sticking
 - Testing surface firmware noted as non-production code; issues may not apply to production build
 - Focus shifted to power system analysis and level shift circuit debugging
-- **Status Update (May 7, 2026):** Multiple cascading hardware and firmware issues identified in recent testing; team investigating whether pivot sticking is power-related or control signal issue; PWM signal integrity problems suggest potential level shift or bus power distribution problems
+- **Status Update (May 7-13, 2026):** Multiple cascading hardware and firmware issues identified in recent testing; team investigating whether pivot sticking is power-related or control signal issue; PWM signal integrity problems suggest potential level shift or bus power distribution problems; parachute ejection system selection in progress to support failure risk mitigation strategy
 
 **S1-20 Aircraft Reference Data:**
-- Reference aircraft completed 213 total flights with 10.5 hours combined flight time over past year
-- 172 transition flights totaling 10.2 hours of forward flight (April 30, 2026)
-
-**ADONIS Project:**
-- Contract deliverable: Flight testing required by March 24
-- Hardware: No S0 deliveries after flights, team retains aircraft
-- Priority shifted to simulation interface setup with Gateworks board
-
-**Customer Deliveries:**
-- ERAU: Two S0-VTOLs scheduled
-- Barbados
+- Reference aircraft completed 213 total flights with 10.5 hours combined flight time over past

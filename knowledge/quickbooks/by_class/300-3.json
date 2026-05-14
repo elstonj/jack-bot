@@ -4,15 +4,15 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-05-11",
-    "end": "2026-05-12"
+    "start": "2026-05-12",
+    "end": "2026-05-14"
   },
   "totals": {
     "revenue": 216000.0,
-    "expenses": 4027.16,
+    "expenses": 4688.5,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 3997.25,
-      "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 29.91
+      "DIRECT COSTS:DC-Direct Material Purchases": 4133.2,
+      "Inventory Asset": 555.3
     }
   },
   "invoices": [
@@ -90,119 +90,47 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-05-11",
+      "date": "2026-05-18",
+      "doc_number": "334139",
+      "total": 4164.75,
+      "attributed": 2776.5,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana Request because all orders must be handled directly by the sales rep. Purchase for the three S0 projects: 2026 IDIQ, Sasquatch, 6 future S0 sales\n\nShipped to Lee Skidmore (Northwind) \nOrder placed 3/20 - payment occurs when it is shipped",
+      "lines": [
+        {
+          "amount": 2776.5,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Thermoset Laminate Linen Tubes"
+        },
+        {
+          "amount": 555.3,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": ""
+        },
+        {
+          "amount": 832.95,
+          "account": "Inventory Asset",
+          "description": "For future sales of 6 S0s"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-13",
       "doc_number": "",
-      "total": 16.94,
-      "attributed": 16.94,
+      "total": 1912.0,
+      "attributed": 1912.0,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "AMAZON MKTPL*BJ1W59YR0 - 4617",
+      "memo": "",
       "lines": [
         {
-          "amount": 6.95,
+          "amount": 1912.0,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "StarTech.com 1 ft / 30cm Micro USB Cable"
-        },
-        {
-          "amount": 9.99,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Micro USB to Printer Cable,2PCS Micro USB 5pin Male to USB"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-11",
-      "doc_number": "99157746",
-      "total": 2259.2,
-      "attributed": 2259.2,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "DKC*DIGI KEY CORP - 4617",
-      "lines": [
-        {
-          "amount": 2259.2,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-11",
-      "doc_number": "39155920",
-      "total": 106.35,
-      "attributed": 106.35,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Specifically for ground stations for 2026 IDIQ",
-      "lines": [
-        {
-          "amount": 76.44,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": ""
-        },
-        {
-          "amount": 29.91,
-          "account": "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-11",
-      "doc_number": "2561507246",
-      "total": 159.97,
-      "attributed": 159.97,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Specifically for ground stations for 2026 IDIQ",
-      "lines": [
-        {
-          "amount": 159.97,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "TRACO Power TPP 65-112E-J 65W AC/DC Power Supply in a Chassis Mount Plastic Case x 3"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-11",
-      "doc_number": "605111011462",
-      "total": 68.7,
-      "attributed": 68.7,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Specifically for ground station for 2026 IDIQ",
-      "lines": [
-        {
-          "amount": 68.7,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Switch Guard Aluminum 1-Inch"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-11",
-      "doc_number": "991518",
-      "total": 1416.0,
-      "attributed": 1416.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Specifically for ground stations for 2026 IDIQ",
-      "lines": [
-        {
-          "amount": 1416.0,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": ""
+          "description": "p400 1W 900 MHz FHSS / 2W 400 MHz x 4; Pico Serial Motherboard x 4"
         }
       ]
     }

@@ -84,35 +84,37 @@ Final project phase (Aug-Oct 2024) focused on hurricane field operations and sys
 
 ---
 
-## Related Opportunities & Initiatives (as of April 2026)
+## Related Opportunities & Initiatives (as of May 2026)
 
 **NASA RFI - Hurricane ET (Environmental Tracking)**
-- **Recommendation**: NASA contacts and Dr. Joe Cione (NOAA/project GPC) recommended BST investigate this opportunity
+- **Recommendation**: NASA contacts and Dr. Joe Cione (NOAA/project GPC) recommended BST investigate this opportunity (Alex Lomis, 4/17/26)
 - **RFI Link**: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
-- **Status**: Flagged for team evaluation (Alex Lomis, 4/20/26)
+- **Status**: Flagged for team evaluation
 - **Relevance**: Direct extension of Hurricane Phase II+ technical capabilities
 
 **Navy STTR**
-- **Status**: Submitted with invoice as of April 17, 2026 (Meredith Needham, 4/17/26)
+- **Status**: Submitted with invoice (Meredith Needham, 4/17/26)
+- **Current Priority**: **HIGH** — Jack Elston flagged Navy STTR as priority over SBIR Magnetometer (5/8/26)
 
 **SBIR Magnetometer (Navy)**
-- **Status**: **KICKED OFF April 21, 2026** per Maciej (4/21/26)
+- **Status**: Kicked off April 21, 2026 (Maciej, 4/21/26)
 - **Key Deliverables**: 
   - FWA Certification — Due: April 14, 2026
   - Kick-off Slidedeck (template provided) — Due: April 14, 2026
   - Report templates and instructions: https://navysbir.com/links_forms.htm
 - **Technical Lead**: Designated team member (per Maciej, 4/21/26)
-- **Priority**: Maciej flagged this as one of the highest priority projects for daily tracking (4/24/26 & 4/30/26)
+- **Current Status**: Mostly on schedule (Maciej, 5/6/26); Jack Elston notes Navy STTR has priority, SBIR is mostly on schedule (5/8/26)
 
 ---
 
-## Current Team Priorities (as of April 2026)
+## Current Team Priorities (as of May 2026)
 
 Per Maciej (4/24/26 & 4/30/26), the highest priority projects with daily overdue task tracking are:
 1. **S3 IRAD** — Targeted delivery end of May for UMES S3
 2. **S0-VTOL** — Two deliveries (ERAU and Barbados)
 3. **Closing out EMASS**
 4. **By-Lite Mustang**
-5. **SBIR Magnetometer** (initial tasks) — Navy technical lead assigned
+5. **Navy STTR** (elevated priority, 5/8/26 correction from Jack)
+6. **SBIR Magnetometer** (initial tasks, mostly on schedule)
 
 *Note: Hurricane Phase II+ is archived. These represent current active work.*

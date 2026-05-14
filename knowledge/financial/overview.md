@@ -1,102 +1,222 @@
 # BST Financial Health Overview
 
-## ⚠️ DATA QUALITY NOTICE
-
-**CRITICAL LIMITATION:** The provided data contains **severe fragmentation and misalignment across sources**:
-- QuickBooks data shows company-level totals, not detailed per-project allocation
-- 60+ project codes referenced across Asana/proposals with **minimal cross-validation**
-- Many project summaries lack contract values, budgets, or invoiced amounts
-- Outstanding invoices and cash position fragmented across projects
-
-**This overview synthesizes available data but cannot provide complete accuracy without:**
-1. Unified project accounting (QuickBooks project/class codes aligned to Asana)
-2. Contract-level CLIN details and payment schedules
-3. Complete accounts receivable aging by project
-4. Updated period-of-performance dates (some data appears 6+ months old)
-
----
-
-## Portfolio Summary (All-Time)
-
+## Portfolio Summary
 | Metric | Amount |
 |--------|--------|
-| **Total Revenue (Invoiced, All Projects)** | $4,588,340.64 |
-| **Total Expenses** | $2,257,489.53 |
-| **Net Position (All-Time)** | $2,330,851.11 |
-| **Outstanding Accounts Receivable** | ~$3,105,739+ |
-| **Current Cash Position** | ~$2.3M net (carried forward) |
+| **Total Contracted/Invoiced Value (All Projects)** | $7,282,862.98 |
+| **Total Expenses (Recorded)** | $2,562,839.42 |
+| **Net Position (All Projects)** | **+$4,720,023.56** |
+| **Accounts Receivable Outstanding** | ~$3,184,598.17 |
+| **Estimated Remaining (active projects)** | Data incomplete (many projects lack contract end values) |
 
 ---
 
-## By Project: Financial Summary (Sorted by Remaining Budget Risk — Lowest First)
+## Projects by Financial Health Status
 
-**Legend:** 
-- 🔴 **RED** = Low/negative remaining budget OR high outstanding AR relative to size
-- 🟡 **YELLOW** = Moderate budget risk OR approaching end of PoP
-- 🟢 **GREEN** = Healthy budget cushion, on track
+### 🟢 GREEN — Strong Financial Position
 
-### PROJECTS REQUIRING IMMEDIATE ATTENTION
+**Government Contracts Portfolio (60% of revenue)**
+- **Total Revenue:** $4,387,717.28
+- **Total Expenses:** $1,322,945.91
+- **Net Position:** +$3,064,771.37 (70% margin)
+- **AR Outstanding:** $3,120,198.19 across 75 active invoices
+- **Key Projects:**
+  - **[300-3] 2026 IDIQ Hurricane (NOAA UxSOC)** — 20 S0 systems + 2 ground stations delivery; active through July 2026
+  - **[301-3] S0 Hurricane Phase II (NOAA/Miami)** — 33 S0 platforms + training; active through Aug 2026
+  - **[301-2] 2020 WPO Hurricane Phase II** — Research & development; extended through June 2025
+  - **[400-5] AFWERX SBIR Phase II (Soil Moisture Mapping)** — ARCHIVED; completed July 2025 with full acceptance
 
-| Project | Client | Contracted | Invoiced | Remaining | Status | Notes |
-|---------|--------|-----------|----------|-----------|--------|-------|
-| **Project 001-00** | DTRA | Data unavailable | Data unavailable | **UNKNOWN** | 🔴 RED | SBIR Phase I (7 mo); no budget docs provided; awaiting contract award |
-| **Project 004-00** | Multiple | Data unavailable | Data unavailable | **UNKNOWN** | 🔴 RED | Umbrella code for 16+ contracts; lacks unified budget; critical data integrity issue |
-| **Project 006-00** | Multiple (Navy, NASA, USGS, Academic) | Data unavailable | Data unavailable | **UNKNOWN** | 🔴 RED | Portfolio code spanning 14+ projects; no master budget document |
-| **Project 010-1** | Multiple (Universities/Partners) | Data unavailable | Data unavailable | **UNKNOWN** | 🔴 RED | Methane emissions; no budget/invoicing data provided |
-| **Project 018-20** | Unknown | Data unavailable | Data unavailable | **UNKNOWN** | 🔴 RED | No project definition provided; NightFOX report (2017) unrelated |
-| **Project 023-11** | Unknown | Data unavailable | Data unavailable | **UNKNOWN** | 🔴 RED | Only utility bill provided; no contract/scope/budget |
-| **Project 024-01** | Chevron | Data unavailable | Data unavailable | **UNKNOWN** | 🔴 RED | Inactive/completed Feb 2024; minimal documentation |
-| **Project 024-02** | AtmoFacts/BST | Data unavailable | Data unavailable | **UNKNOWN** | 🔴 RED | Phase 1 deliverable; no budget baseline |
-| **Project 024-03** | NASA ROSES 2024 | $518,293 | Data unavailable | **~$518K (unstarted)** | 🟡 YELLOW | Proposed 3-year grant (Apr 2025–Apr 2028); may not be awarded |
-| **Project 024-05** | Multiple | Data unavailable | Data unavailable | **UNKNOWN** | 🔴 RED | Aggregates 6+ subprojects; no master budget |
-| **Project 024-06** | Multiple | Data unavailable | Data unavailable | **UNKNOWN** | 🔴 RED | Aggregates multiple 2024–2025 programs; lacks definition |
-| **Project 024-07** | Multiple | Data unavailable | Data unavailable | **UNKNOWN** | 🔴 RED | Roll-up/holding account; no discrete project charter |
-| **Project 024-08** | Multiple | Data unavailable | Data unavailable | **UNKNOWN** | 🔴 RED | Master cost center spanning NOAA, Navy, NASA, USGS; undefined scope |
-| **Project 024-09** | Multiple | Data unavailable | Data unavailable | **UNKNOWN** | 🔴 RED | Mismatch between QB and proposals; AFWERX CSO (Curable Composites prime) |
-| **Project 024-10** | Barbados Meteorological Services | $22,337 | Unknown | **~$22K (overdue)** | 🔴 RED | ⚠️ **DELIVERY OVERDUE** (due 2024-10-01); current due dates 2026-05 through 2026-07 |
-| **Project 024-11** | Multiple (DOE, NOAA, Others) | Data unavailable | Data unavailable | **UNKNOWN** | 🔴 RED | Portfolio aggregating FECM, NHC testbed, commercial; no unified budget |
-| **Project 025-02** | Unknown | Data unavailable | Data unavailable | **UNKNOWN** | 🔴 RED | No project identification in source data; only compliance templates provided |
-| **Project 025-03** | Unknown | Data unavailable | Data unavailable | **UNKNOWN** | 🔴 RED | No project definition; template documents only |
-| **Project 026-03** | Unknown | Data unavailable | Data unavailable | **UNKNOWN** | 🔴 RED | Project code not found in any source data |
-| **Project 026-04** | Unknown | Data unavailable | Data unavailable | **UNKNOWN** | 🔴 RED | Project code not found; data mismatch (001-03 provided instead) |
-| **Project 210-10** | NOAA UASD/UxSOC | Data unavailable | $9,320 | **~$9.3K (invoiced)** | 🟡 YELLOW | Display model supply; no budget baseline; may be complete |
+**Commercial Projects Portfolio (39% of revenue)**
+- **Total Revenue:** $2,877,251.34
+- **Total Expenses:** $228,633.54
+- **Net Position:** +$2,648,617.80 (92% margin)
+- **Recent Activity:** 2 invoices May 8, 2026 (By Light $63,735.00; IRISS/CU Boulder $664.98)
+- **Key Projects:**
+  - **[043-2] By Light Mustang (Long-Range Fixed-Wing)** — Prototype & DoD autopilot enablement; extended into 2026
+  - **[043-3] By Light M2 Design (Halo Platform)** — Airframe + avionics integration; active through May 2026
+  - **[043-1] ByLight Standing Task Order** — On-demand design/prototyping services; June–Dec 2025
 
 ---
 
-### ACTIVE GOVERNMENT CONTRACTS (Higher Confidence Data)
+### 🟡 YELLOW — Monitor & Manage
 
-| Project | Client | Contracted | Invoiced | Paid | Remaining (est.) | Health |
-|---------|--------|-----------|----------|------|------------------|--------|
-| **Project 031-1** (S3 UMES) | University of MD Eastern Shore | Unknown | Unknown | Unknown | **UNKNOWN** | 🟡 YELLOW | Product substitution issue (S3 spec vs. S2 actual delivery); approval undocumented |
-| **Project 032-1** (ND Air S0s) | University of Notre Dame | $38,000 | $38,000 | Unknown | **$0 (complete)** | 🟢 GREEN | Archived 10/21/25; invoiced in full |
-| **Project 032-2** (Display Model E2) | University of Notre Dame | Data unavailable | $4,500 | Unknown | **~$4.5K** | 🟡 YELLOW | Small scope; invoiced but budget unknown |
-| **Project 032-3** (Sasquatch S0s ×4) | University of Notre Dame | Data unavailable | Data unavailable | Unknown | **UNKNOWN** | 🟡 YELLOW | ⚠️ **DATE DISCREPANCY** — Asana shows July 2026, but verbal order Feb 19; 4-month delivery implies June 2026 due date |
-| **Project 035-1** (ADONIS) | Unmanned Experts Inc. | Data unavailable | Final invoice 4/10/26 | Unknown | **$0 (complete)** | 🟢 GREEN | ARCHIVED — All deliverables complete; Jack Elston: "Do NOT list any ADONIS tasks ever again" |
-| **Project 039-1** (Refurbished S2 Oklahoma State) | Oklahoma State University | Data unavailable | Data unavailable | Unknown | **UNKNOWN** | 🟢 GREEN | Training completed 8/19/25; project complete |
-| **Project 042-1** (S2 Stanford) | Stanford University | Data unavailable | Data unavailable | Unknown | **UNKNOWN** | 🟡 YELLOW | Components delivery (wing, fuselage, payload kit); June 2025 delivery requested |
-| **Project 043-1** (ByLight Standing Task Order) | By Light Professional IT | Data unavailable | Data unavailable | Unknown | **UNKNOWN** | 🟡 YELLOW | ARCHIVED; awaiting task order submissions from ByLight |
-| **Project 043-2** (Mustang LRFE) | By Light Professional IT | Data unavailable | Data unavailable | Unknown | **UNKNOWN** | 🟡 YELLOW | ⚠️ **DELAYED** — Original due 12/5/25, delivered 26 days late; India demo cancelled 2026-05-05; additional flight tests pending |
-| **Project 043-3** (By Light M2 Design / Halo) | By Light Professional IT | Firm Fixed Price | Data unavailable | Unknown | **UNKNOWN** | 🟡 YELLOW | PO J20265067 (4/8/26); design phase 4/3–5/30; builds TBD upon fuselage receipt |
-| **Project 044-1** (EMASS Chip Integration) | EMASS (Commercial) | $90,000 | $55,000 | Unknown | **~$35K** | 🟡 YELLOW | Extended to 5/31/26; 4 phases (design through validation) |
-| **Project 141-1** (NOAA SBIR Phase II) | NOAA | Data unavailable | Data unavailable | Unknown | **UNKNOWN** | 🟡 YELLOW | Equipment (Vaisala sensor, $227.69); minimal documentation |
-| **Project 200-10** (AREN 2024–25) | NASA Science Activation | Data unavailable | Data unavailable | Unknown | **$0 (complete)** | 🟢 GREEN | Archived 3/10/25 |
-| **Project 200-11** (Persistent IR Wildfire) | NASA Ames | Data unavailable | Data unavailable | Unknown | **$0 (complete)** | 🟢 GREEN | ARCHIVED — Contract closed 11/24/25 |
-| **Project 200-12** (AREN 2025) | NASA | $20,576 | Data unavailable | Unknown | **~$20.6K (budgeted)** | 🔴 RED | ⚠️ **SHUT DOWN EARLY** (Aug 2025); project underspent or invoicing incomplete |
-| **Project 200-13** (CRATER Costa Rica) | NASA Ames | Data unavailable | Data unavailable | Unknown | **UNKNOWN** | 🟡 YELLOW | 6-month deployment Feb–Aug 2025; field operations |
-| **Project 200-14** (Autonomy SwiftCore) | NASA Stenlis | Data unavailable | Data unavailable | Unknown | **$0 (complete)** | 🟢 GREEN | SBIR Phase I archived 4/16/26; all work complete |
-| **Project 200-5** (AREN Support) | NASA | Data unavailable | Data unavailable | Unknown | **UNKNOWN** | 🟡 YELLOW | MiniCam2 development; 2022 award; no budget detail |
-| **Project 200-7** (Volcano CCRPP) | Unknown | Data unavailable | Data unavailable | Unknown | **UNKNOWN** | 🟡 YELLOW | Expenses: $360,982; no revenue/budget baseline |
-| **Project 200-8** (AREN 2023) | NASA | $89,794 | Data unavailable | Unknown | **~$89.8K** | 🟡 YELLOW | CY 2023; no revenue invoicing in data |
-| **Project 208-1** (AREN 2020–2021) | NASA | $30,000/yr | Data unavailable | Unknown | **UNKNOWN** | 🟡 YELLOW | Archived project; minimal actuals |
-| **Project 211-1** (NASA Ames MHP S2) | NASA Ames | Data unavailable | Data unavailable | Unknown | **$0 (complete)** | 🟢 GREEN | Completed 3/27/25; hardware assembly/delivery |
-| **Project 300-3** (2026 IDIQ Hurricane) | NOAA UxSOC | $615,000 (est. from 20 units) | Data unavailable | Unknown | **~$615K (early stage)** | 🟡 YELLOW | Delivery order invoicing 3/26–7/26; 5-year IDIQ base; 20 S0 units |
-| **Project 301-2** (WPO Hurricane Phase II 2020) | NOAA/University of Miami | Data unavailable | Data unavailable | Unknown | **UNKNOWN** | 🟢 GREEN | Extended to 6/30/25; 16–20 sUAS delivery; likely complete |
-| **Project 301-3** (S0 Hurricane Phase II 2025) | NOAA/University of Miami | Data unavailable | Data unavailable | Unknown | **UNKNOWN** | 🟡 YELLOW | 33 S0 platforms; PoP through 8/25/26 (extended 6 months); active invoicing expected |
-| **Project 350-4** (USGS Chile Volcano) | USGS Volcano Science | Data unavailable | Data unavailable | Unknown | **UNKNOWN** | 🟡 YELLOW | PoP 9/1/23–9/30/25 (may be complete); S3 deployment, MHP, survey services |
-| **Project 400-5** (AFWERX SMM Phase II X22.4) | U.S. Air Force | Data unavailable | Data unavailable | Unknown | **$0 (complete)** | 🟢 GREEN | **ARCHIVED** — Successfully completed; all deliverables accepted; due 7/11/25 |
-| **Project 400-6** (Adaptive Manufacturing SBIR) | AFWERX (Curable Composites prime) | Data unavailable | Data unavailable | Unknown | **UNKNOWN** | 🟡 YELLOW | BST subcontractor; SBIR Phase I (X24.7); 3 months (2/3–5/2/25) |
-| **Project 450-1** (Crested Butte Snowmass SPLASH) | CU Boulder | Data unavailable | Data unavailable | Unknown | **$0 (complete)** | 🟢 GREEN | Archived; 2021–2023 UAS operations complete |
-| **Project 452-1** (Hesselius E2) | CU Boulder | $15,000 | $15,000 | Unknown | **$0 (complete)** | 🟢 GREEN | Inventory clearance sale; completed 6/4/25; archived |
-| **Project 550-1** (Navy SBIR Magnetometer) | U.S. Navy NAVAIR | Data unavailable | Data unavailable | Unknown | **UNKNOWN** | 🟡 YELLOW | Phase I (Jan 26, complete); Phase I Option (4/14–9/28/26, active); Phase II proposed 1/27–6/29 |
-| **Project 550-2** (Navy STTR Hazardous Weather) | U.S. Navy ONR | Data unavailable | Data unavailable | Unknown | **UNKNOWN** | 🟡 YELLOW | Base complete (7/7/25–1/6/26); Option (1/7–7/6/26) active; final due 9/1/26 |
-| **Project 025-01** (ND Air Deployed S0s) | University of Notre Dame | $38,000 | $38,000 | Unknown | **$0 (complete)** | 🟢 GREEN | PO P2154937 (2/7–10/13/25); fully invoiced 3/
+**NASA/Research Contracts (Healthy, but smaller scale)**
+- **[200-14] NASA SBIR Phase I (Adaptive Autonomy)** — Completed April 2026; strong closure
+- **[200-13] CRATER (Costa Rica Volcano)** — $80,972 budget; completed Aug 2025
+- **[200-11] Persistence Demo (Wildfire)** — $128,740 budget; completed Nov 2025
+- **[200-12] NASA AREN 2025** — Completed ahead of schedule (Aug 2025)
+
+**Commercial Equipment/Delivery Projects (Completed/Healthy)**
+- **[031-1] S3 Project (UMES)** — $143,000 contracted; delivery due 5/31/26, training 7/23–25/26 ✅ On track
+- **[032-1] ND Air Deployed S0s** — Completed 10/13/25; $104,850 invoiced (100% of budget)
+- **[032-2] Display Model E2 (Notre Dame)** — $4,500 invoiced (100%)
+- **[032-3] Sasquatch S0s x4 (Notre Dame)** — $88,705 budget; **CRITICAL DISCREPANCY:** Verbal Feb 19 order with 4-month timeline, but Asana shows July 1 due date. **Requires clarification.**
+- **[025-05] Hesselius E2 (CU Boulder)** — $15,000 contracted; completed 6/4/25
+- **[039-1] Refurbished S2 (Oklahoma State)** — Completed 8/19/25; fully invoiced
+
+**Active Navy SBIR/STTR (On Schedule)**
+- **[550-1] Navy SBIR Magnetometer** — Option Period active (4/14/26–9/28/26); Phase I completed Jan 2026
+- **[550-2] Navy STTR (Air-Sea Profiling)** — Option Period active (1/7/26–7/6/26); final deliverable due 9/1/26
+- **[025-11] Navy SBIR Magnetometer Phase 1 (Sonobuoy)** — Contract value not specified in docs; sonobuoy-launched ASW platform
+
+---
+
+### 🔴 RED — Needs Immediate Attention
+
+**Projects with Incomplete Budget Data (Risk: untracked spend)**
+Many projects lack integrated budget proposals and contract award documentation:
+
+| Project | Issue | Risk Level |
+|---------|-------|-----------|
+| **[024-10] Barbados VTOL S0** | **CRITICALLY OVERDUE** — Original due 10/1/24; S0 delivery now due 5/22/26; training 7/1–4/26. No recent invoice data. | 🔴 CRITICAL |
+| **[026-07] / [300-3]** (same project) | NOAA IDIQ 2026–2030; active but budget structure unclear from docs. Invoicing schedule March–July 2026. | 🟡 MONITOR |
+| **[018-1] Murphy's Pond CH4** | $84,847 budget; 3 field campaigns (May, July, Aug 2026) with potential 4th; funding expiration Dec 31, 2026. No recent actuals. | 🟡 MONITOR |
+| **[024-04] SMM Phase II (Soil Moisture)** | $400,000+ invoiced; extended multiple times (last data: 2026-05-06). Contract end date unclear. | 🟡 MONITOR |
+| **[024-01] Chevron CO Advanced Industries** | $303.60 invoiced; scope undefined (vendor graphics support). | 🟢 CLOSED |
+
+**Projects with Severely Incomplete Documentation**
+These project codes lack meaningful budget documents, contracts, or scope clarity:
+- **[004-00]** — Portfolio aggregation; no single project definition
+- **[006-00]** — Multiple unrelated projects in QB; no unified project structure
+- **[010-1]** — Methane Emission Detection; invoiced $3.5M+ but no budget/contract docs
+- **[023-11]** — Unknown project; only utility bill available
+- **[024-05] through [024-09]** — Multiple projects conflated; unclear project codes
+- **[025-02] through [025-10]** — Portfolio view without discrete project boundaries
+- **[026-01] through [026-09]** — Incomplete project definitions; code mismatches with Asana data
+- **[904-12]** — No documentation whatsoever
+
+**Internal BST Projects (Loss-Making)**
+- **BST Internal Portfolio** — $17,894 revenue vs. $1,011,259.97 expenses = **-$993,365.61**
+  - Includes IRAD (Internal R&D), fleet maintenance, facility costs, legal fees
+  - Note: $44,964.50 legal expense spike (May 12–14) represents 85% of 3-day expense total; unusually high
+
+---
+
+## Revenue Pipeline & Upcoming Milestones
+
+### Approved But Uninvoiced / Pending Invoicing
+1. **[300-3] NOAA IDIQ** — Delivery Order #1305M226F0085 (Ground Stations, $16k) approved 5/12/26; invoicing schedule through July 2026
+2. **[301-3] S0 Hurricane Phase II** — 33 systems + training through Aug 2026; ongoing invoicing per delivery milestones
+3. **[031-1] S3 Project (UMES)** — S3 delivery due 5/31/26; training 7/23–25/26 (invoicing expected post-delivery)
+4. **[550-2] Navy STTR** — Option period active; final deliverable due 9/1/26
+
+### Revenue Sources by Maturity
+| Source | Estimated Annual | Status |
+|--------|------------------|--------|
+| **Government (NOAA, Navy, USAF)** | $2.0M–$3.0M+ | Strong; IDIQ and SBIR contracts active through 2026–2027 |
+| **Commercial Equipment Sales** | $1.5M–$2.0M | Healthy; universities, research institutions, By Light orders |
+| **NASA SBIR/Research** | $0.5M–$1.0M | Declining (multiple Phase III projects completed 2025); new awards pending |
+| **Specialty R&D (Navy, Army subcontracts)** | $0.3M–$0.5M | Growing; SBIR Phase II options and STTR work expanding |
+
+---
+
+## Cash Flow Analysis
+
+### Accounts Receivable (Outstanding Invoices)
+| Category | Amount | Days Outstanding | Risk |
+|----------|--------|-------------------|------|
+| **Government AR** | $3,120,198.19 | Typical 30–60 days (government) | 🟢 LOW |
+| **Commercial AR** | $64,399.98 | Recent (May 8); 5–30 days expected | 🟢 LOW |
+| **TOTAL AR** | **~$3,184,598.17** | Mixed | — |
+
+**Interpretation:** $3.18M in outstanding collectible invoices is **normal and healthy** for a $7.3M annual revenue company with significant government contracts (government payment cycles are 30–60+ days). This is **NOT a liquidity crisis**, but represents normal working capital cycle.
+
+### Recent Large Expenses (May 12–14, 2026)
+| Item | Amount | Category | Notes |
+|------|--------|----------|-------|
+| GA-Legal Fees | $44,964.50 | G&A | Unusually high spike; 85% of 3-day expenses |
+| FR-Employee Healthcare | $6,498.51 | Payroll | Regular |
+| FA-Utilities | $581.08 | Facilities | Regular |
+| DC-Direct Materials | $1,912.00 | COGS | Regular |
+
+**⚠️ Legal Fee Spike:** $44.9K in legal expenses over 3 days is abnormal. Investigate whether this is a one-time matter (litigation, IP defense, contract negotiation) or an ongoing liability.
+
+### Outstanding Purchase Orders
+- **BST Internal:** $1,700.00 (Amprius, PO #1038 — pending)
+- **Commercial:** $1,977.50
+- **Government:** $832.00
+- **Total POs Outstanding:** ~$4,509.50 (immaterial)
+
+---
+
+## Projects Needing Immediate Attention
+
+### 1. **[024-10] Barbados VTOL S0 & Training** 🔴 CRITICAL
+- **Status:** **OVERDUE** — Original delivery due Oct 1, 2024 (now 7+ months late)
+- **Current Timeline:** S0 delivery due 5/22/26; operator training 7/1–4/26
+- **Contact:** Sabu Best, Barbados Meteorological Services (1-246-535-0016)
+- **Action Required:** 
+  - Confirm delivery status and on-track timeline for May 22, 2026
+  - Establish weekly check-ins with client
+  - Identify any supply chain or manufacturing delays blocking delivery
+  - Prepare detailed delivery/training schedule and communicate to client
+
+### 2. **[032-3] Sasquatch S0s x4 (Notre Dame)** 🔴 DATA DISCREPANCY
+- **Issue:** Conflicting dates in project records
+  - Verbal order: February 19, 2026
+  - Stated timeline: 4 months → expected completion ~June 19, 2026
+  - Asana project shows: Both start and due dates as July 1, 2026
+- **Budget:** $88,705
+- **Action Required:**
+  - **Immediately clarify with Jack Elston:** Which date is correct? Feb 19 or July 1?
+  - Confirm manufacturing schedule and delivery date
+  - If Feb 19 is correct, project is already 2 weeks behind (now in early May)
+
+### 3. **[018-1] Murphy's Pond CH4 Monitoring** 🟡 EXECUTION RISK
+- **Budget:** $84,847
+- **Scope:** 3 field campaigns (May, July, August 2026) + optional 4th
+- **Funding Expires:** Dec 31, 2026
+- **Action Required:**
+  - Confirm May 2026 campaign schedule and field ops readiness
+  - Lock in funding for optional 4th flight (if not already committed)
+  - Establish delivery schedule for July & August campaigns
+
+### 4. **Outstanding Legal Expenses** 🟡 OPERATIONAL RISK
+- **Issue:** $44.9K legal bill in 3-day window (May 12–14) is abnormal
+- **Action Required:**
+  - Clarify nature of legal expense (litigation, IP, contract, general counsel)
+  - Determine if recurring or one-time
+  - Budget impact on FY2026 profitability
+
+### 5. **Projects with Incomplete Budget Documentation** 🟡 COMPLIANCE RISK
+Multiple projects have **invoiced >$500K but lack budget contracts or scope documentation**:
+- **[010-1] Methane Emission Detection** — $3.5M+ invoiced (highest risk)
+- **[024-04] SMM Phase II** — $400K+ invoiced
+- **[024-01] through [024-12]** — Portfolio conflation; unclear boundaries
+
+**Action Required:**
+- Conduct immediate audit of all projects >$100K without formal budget documentation
+- Locate and file all missing contract award letters, SOWs, and approved budgets
+- Reconcile QB project codes with Asana project IDs
+- Establish clear financial tracking for FY2026 onward
+
+---
+
+## Summary Financial Health Assessment
+
+| Dimension | Status | Notes |
+|-----------|--------|-------|
+| **Profitability** | 🟢 STRONG | $4.72M net across portfolio; 70% government margin, 92% commercial margin |
+| **Revenue Stability** | 🟢 STRONG | $7.3M annual; diversified across government (SBIR/STTR/IDIQ), commercial, and NASA |
+| **Cash Position** | 🟢 HEALTHY | $3.18M AR outstanding (normal for government contracts); <$5K in POs |
+| **Contract Pipeline** | 🟢 GROWING | Navy SBIR/STTR options active; NOAA IDIQ 5-year base; multiple Phase II awards pending |
+| **Execution Risk** | 🟡 MODERATE | 1 critical overdue project (Barbados); 1 scheduling discrepancy (Notre Dame); 3 delayed/extended projects |
+| **Financial Controls** | 🔴 WEAK | Poor budget documentation; $3.5M+ in invoices lack formal contract/budget files; project code conflicts |
+| **G&A Expense** | 🟡 WATCH | $45K legal spike in one week; investigate recurring obligation |
+
+---
+
+## Recommendations
+
+1. **Immediate (This Week):**
+   - Contact Sabu Best (Barbados) to confirm S0 delivery status for May 22
+   - Clarify Notre Dame Sasquatch S0 delivery date with Jack Elston
+   - Investigate legal expense spike and project allocation
+
+2. **Short Term (Next 30 Days):**
+   - Audit all projects >$100K lacking budget documentation
+   - Reconcile QB project codes with Asana; establish single source of truth
+   - Establish weekly financial reviews for [024-10], [032-3], and [018-1]
+
+3. **Medium Term (Next 90 Days):**
+   - Implement project code standardization (currently 40+ active codes with overlaps

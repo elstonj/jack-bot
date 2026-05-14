@@ -4,9 +4,9 @@
 
 The #flight-testing channel serves as Black Swift Technologies' primary hub for coordinating flight test operations, troubleshooting aircraft and payload issues, and tracking firmware/software development across their fleet of fixed-wing (S-series), multirotor (E2, Flamewheel), and VTOL (S0, S1-VTOL, S3) platforms.
 
-**Key Participants:** Maciej (lead flight testing/analysis), Jack Elston (firmware development), Joshua Fromm (QA/component sourcing), Ben Busby (tablet/GCS software), Nate (videography/pilot), Alex Lomis (field operations/media/pilot), Sam Hild (Remote ID integration/test pilot), Dan Prendergast (autopilot/control systems/operations), Danny Troke (data management), Ethan Domagala (pilot), Beck Cotter (operations support), Paige Smith (media/video curation), Sunny Slope Sod Farm (external airspace contact), Chris & Kevin (external clients/stakeholders), Christoph & Angie (internal stakeholders), Dan H. (external contact/AUVSI show)
+**Key Participants:** Maciej (lead flight testing/analysis), Jack Elston (firmware development), Joshua Fromm (QA/component sourcing), Ben Busby (tablet/GCS software), Nate (videography/pilot), Alex Lomis (field operations/media/pilot), Sam Hild (Remote ID integration/test pilot), Dan Prendergast (autopilot/control systems/operations), Danny Troke (data management), Ethan Domagala (pilot), Beck Cotter (operations support), Paige Smith (media/video curation), Sunny Slope Sod Farm (external airspace contact/CU training partner), Chris & Kevin (external clients/stakeholders), Christoph & Angie (internal stakeholders), Dan H. (external contact/AUVSI show)
 
-**Activity Level:** Extremely high — 5,600+ messages across June 2020 through May 2026. Daily operations with multiple aircraft flights, rapid issue turnaround, continuous firmware iterations, and intensive VTOL transition testing. Current activity (May 2026) shows ongoing S10022 and S1-22 flight testing with Remote ID diagnostics, S3-MASS tuning continuation, and IRISS project missions with E-MASS payload integration.
+**Activity Level:** Extremely high — 5,600+ messages across June 2020 through May 2026. Daily operations with multiple aircraft flights, rapid issue turnaround, continuous firmware iterations, and intensive VTOL transition testing. Current activity (May 2026) shows ongoing S10022 and S1-22 flight testing with Remote ID diagnostics, S3-MASS tuning continuation, IRISS project missions with E-MASS payload integration, and CU training operations at Sunny Slope Sod Farm.
 
 ---
 
@@ -34,18 +34,19 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 - **May 7, 2026:** S3-MASS flight testing scheduled for May 8, 2026 with 9am departure; favorable weather forecasted (small rain chance at 3pm); Maciej leading with S3 to be transported in RAV; video documentation requested with Mavic drone
 - **May 8, 2026:** E-MASS payload testing shifted from Sunny Slope Sod Farm to model airfield location; Jack Elston to lead when returning from current operations; E-MASS controller showing drift issues in simulation between waypoints (65-80% completion before failure) but with slower failure rate and good pre-failure warning indicators for manual intervention
 - **May 11, 2026:** S3-MASS flight testing scheduled for May 12, 2026; Maciej planned 1 tuning flight (~35 minutes) + potential second flight for extra time-on-float (TOF) testing if tuning progresses well; 5-6 S1-22 flights possible with additional personnel; promotional video capture planned with new nose cone; E-MASS testing deferred to Thursday (May 14-15)
+- **May 12, 2026:** 
+  - S3-MASS flight testing plan confirmed: 2 flights after CU S2 training operations complete (9am start time approved)
+  - 4 additional S3 flights scheduled for Friday Fly day (May 17)
+  - S1-VTOL failure testing stretch goal approved for week: flight terminate, pitot cover left on, lost GPS transition, lost mags, etc.
+  - Concurrent dual-aircraft operations approved: CU training with S2 at Sod Farm (Dan Prendergast and Nate leading) while Maciej runs S1-22 and S3 flights on separate channel
+  - S1-22 pitch up maneuver code change (wait until off ground) and rotor dump forward timing adjustment approved for testing
+  - S2 flight plan parameters: CU S2 `Limits` tab `Flight Path` maximum value verified/set to 9 degrees
+  - Alex Lomis confirmed to provide video/AV equipment for Friday operations
+  - Log collection from CU flights prioritized for battery performance analysis during takeoff climbouts
 
 ### Firmware & Code Management
 - **October 2020:** Angle-to-rate loop gains critical safety parameter — develop (8,8,3) vs. master (4,4,1.5) discrepancy required close monitoring
 - **February 2021:** Tablet app parameter validation feature added as non-intrusive compromise after initial disagreement on comparison button inclusion
 - **February 2021:** S1-5 reverted from develop to master code due to IAS calculation stall/launch problems
 - **March 2024:** Feature branches (feature/ias_clog_new_detector, feature/dronetag) approved for testing; feature/s3_mass_model branch merged into develop with identified firmware bugs fixed (3/24)
-- **February 2025:** S0-VTOL takeoff default set to 50m for testing; S1-22 tail offset mechanically adjusted to 4.5-5 degrees rather than electronic trim
-- **April 2026:** S10022 DroneCAN firmware deployment; S10020 updated to latest code with yaw gyro diagnostics required before further flights; S3 firmware issues identified requiring feature branch merge for actuator board fixes
-- **April 20, 2026:** S10022 motor control issue resolved via canard firmware modification to free memory allocation even when system doesn't flag necessity
-- **April 21, 2026:** RTK bug identified in S10022 requiring return to facility; GNSS board orientation critical (perfect square bolt pattern requires correct alignment matching previous flights)
-- **April 23, 2026:**
-  - S10022 comms firmware updated to latest develop branch (previous version: fd427ad); no watchdog reset (WWDG) detected in logs indicating non-reset source; Jack Elston added extra debugging to catch other reset sources
-  - New S10022 autopilot binary compiled with additional reboot diagnostics; verified with most recent actuator code reflashed
-  - S1-21 (2030 hardware + XTend) build compiled; pushed to develop repository
-  - S3-MASS build standardized using `./make S3` option
+- **February 2025:** S0-VTOL takeoff default set to 50m for testing; S1-22 tail offset mechanically adjusted to 4

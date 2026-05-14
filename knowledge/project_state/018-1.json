@@ -29,7 +29,7 @@
         "amount": 14946.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-12"
+        "last_updated": "2026-05-14"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 55934.65,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-12T09:02:37Z"
+    "last_reconciled": "2026-05-14T09:18:38Z"
   },
   "milestones": [
     {
@@ -64,6 +64,12 @@
   ],
   "deliverables": [],
   "team": [
+    {
+      "name": "Beck Cotter",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    },
     {
       "name": "Jack Elston",
       "role": null,
@@ -92,6 +98,6 @@
       "text": "From Jack: (the other ones being INSTAAR x2 and this ottawa demo or Murphy's, whatever actually happens first)"
     }
   ],
-  "last_full_rebuild": "2026-05-12T09:02:37Z",
+  "last_full_rebuild": "2026-05-14T09:18:38Z",
   "last_incremental_update": null
 }

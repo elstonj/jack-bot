@@ -1,7 +1,7 @@
 # #swiftcore
 
 ## Overview
-This channel serves as the primary technical communication hub for Black Swift Technologies' SwiftCore drone system development. It covers firmware development, tablet application updates, flight testing coordination, bug fixes, feature implementation, and release management. The channel shows very active usage with 4397+ messages across 24+ batches, spanning approximately 2020-2025, with key participants including Jack Elston, Ben Busby, Danny Troke, Maciej, Frank Strazzabosco, Cory, Dan Prendergast, Caleb Bishop, and Alex Lomis.
+This channel serves as the primary technical communication hub for Black Swift Technologies' SwiftCore drone system development. It covers firmware development, tablet application updates, flight testing coordination, bug fixes, feature implementation, and release management. The channel shows very active usage with 4400+ messages across 25+ batches, spanning approximately 2020-2025, with key participants including Jack Elston, Ben Busby, Danny Troke, Maciej, Frank Strazzabosco, Cory, Dan Prendergast, Caleb Bishop, and Alex Lomis.
 
 **Key Participants:** Jack Elston, Ben Busby, Danny Troke, Maciej, Frank Strazzabosco, Cory, Dan Prendergast, Caleb Bishop, Alex Lomis
 
@@ -71,6 +71,14 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Jack Elston notified team of merge; feature ready for production use
 - No anticipated impact on parallel development efforts but team advised to report any issues
 
+**Comms Code Generation Refactoring (May 13, 2026):**
+- Decision to create feature branch `feature/fix_type_resolution` for standardizing comms code generation syntax
+- Objective: Fix enum vs struct type definition syntax inconsistencies across C/Java/Python code generators
+- Rationale: Recent Go generation changes exposed mixing of syntax styles; affecting C code generation used for flight testing
+- Approach: Use consistent syntax across all language generators regardless of namespace
+- Implementation by: Ben Busby
+- Status: Fix completed and available for testing (May 13, 2026); Jack Elston to validate
+
 ## Projects & Initiatives
 
 **SwiftCore 3.2 Release (2021-2022):**
@@ -111,12 +119,4 @@ This channel serves as the primary technical communication hub for Black Swift T
 
 **Web Controller UI Redesign (April 2026-ongoing):**
 - **Status:** Active development with modular layout system in progress
-- **Current Focus:** Replacing legacy tablet-centric UAS window with command-centric interface inspired by RTS game design
-- **Design Goals:** 
-  - Mobile-first responsive design usable on phone and laptop
-  - Low-click-density finger-friendly mobile interface
-  - Command window popup for quick local commands and status checking
-  - Replacement of cumbersome multi-layer OOP tablet architecture
-- **Timeline:** Modular UI layout system expected soon
-- **Team:** Ben Busby leading design; Maciej suggesting split of web (flight ops focus) vs Android (config/tuning)
-- **Philosophy:** Unified web UI long-term rather than maintaining separate tablet
+- **Current Focus:** Replacing legacy tablet-c
