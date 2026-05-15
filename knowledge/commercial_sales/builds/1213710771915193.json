@@ -1,0 +1,40 @@
+{
+  "asana_gid": "1213710771915193",
+  "asana_task_name": "NextTech Solutions - S3 Arctic",
+  "customer": "NextTech Solutions",
+  "customer_contact": "Trenton McKibbon",
+  "customer_email": "Trenton.mckibben@nexttechsol.com",
+  "receive_by": null,
+  "ship_to": null,
+  "items": [
+    {
+      "description": "S3 Arctic platform with EO/IR gimbal, 120km range capability",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "none",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "NextTech Solutions (DoD integrator) evaluating S3 Arctic for tactical deployment. Requires 120km range (1h 35min TOF) with EO/IR gimbal. Demo schedule: Ottawa flight test June-Aug 2026, vendor meet-and-greet, Arctic demo Whitehorse Nov-Apr 2027 to validate for Joint Forces Command purchases. Early-stage evaluation; customer does not expect 100% solution yet.",
+  "missing_fields": [
+    "ship_to",
+    "receive_by",
+    "items",
+    "parts"
+  ],
+  "last_evidence_date": "2026-05-14"
+}

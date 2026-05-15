@@ -1,0 +1,55 @@
+{
+  "asana_gid": "1213756777376150",
+  "asana_task_name": "University of Colorado Boulder",
+  "customer": "University of Colorado Boulder",
+  "customer_contact": "Jazlynn Hall",
+  "customer_email": "jazlynn.hall@colorado.edu",
+  "receive_by": null,
+  "ship_to": null,
+  "items": [
+    {
+      "description": "E2",
+      "quantity": 1
+    },
+    {
+      "description": "RGB, multispectral, thermal and/or lidar sensors",
+      "quantity": 1
+    },
+    {
+      "description": "Swiftcore flight management system",
+      "quantity": 1
+    },
+    {
+      "description": "Extra batteries",
+      "quantity": 1
+    },
+    {
+      "description": "Travel case",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "estimate_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": "2026-04-10",
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "New professor at CU Boulder seeking E2 with integrated sensor payload (MS, lidar, thermal preferred). Grant proposal decision due end of March 2026; equipment purchase anticipated August 2026 when professor starts position. Beck sent pricing sheet 2026-04-10.",
+  "missing_fields": [
+    "ship_to",
+    "receive_by",
+    "payment_state confirmation"
+  ],
+  "last_evidence_date": "2026-04-10"
+}

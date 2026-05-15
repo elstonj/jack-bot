@@ -1,0 +1,708 @@
+"""Commercial sales & support pipeline — data model and Slack renderer.
+
+Two parallel pipelines tracked together:
+  - Build: a customer order moving through payment / build / shipping state machines
+  - SupportCase: a customer device moving through diagnose / repair / shipping
+
+Both are persisted as JSON under knowledge/commercial_sales/{builds,support}/ and
+rendered into a single morning Slack post for #commercial-sales by render_digest().
+
+The scanner (scanners/commercial_sales_scanner.py) populates and merges these
+records from Asana / Gmail (info@, sales@, support@) / Slack each night.
+"""
+
+from __future__ import annotations
+
+import json
+import re
+from dataclasses import dataclass, field, asdict
+from datetime import date, datetime
+from pathlib import Path
+from typing import Optional
+
+
+KNOWLEDGE_DIR = Path(__file__).parent / "knowledge" / "commercial_sales"
+BUILDS_DIR = KNOWLEDGE_DIR / "builds"
+SUPPORT_DIR = KNOWLEDGE_DIR / "support"
+
+
+# --- State machines ---------------------------------------------------------
+# Order matters: index in the list = how far along we are.
+
+PAYMENT_STATES = ["none", "estimate_sent", "invoice_sent", "paid"]
+BUILD_STATES = ["none", "parts_ordered", "in_assembly", "in_qc", "complete", "packaged"]
+SHIP_STATES = ["none", "awaiting_pickup", "in_transit", "delivered"]
+
+SUPPORT_STATES = [
+    "intake", "diagnosing", "rma_issued", "received",
+    "under_repair", "in_qc", "complete", "shipped",
+]
+
+# Default owners. Overridable per record via the `owners` dict.
+# Keys are responsibility areas, values are display names; the renderer will
+# resolve to a Slack mention when given a name→slack_id map.
+DEFAULT_OWNERS = {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate",
+    "support": "Nate",  # support escalation; Beck handles intake conversation
+}
+
+
+# --- Data model -------------------------------------------------------------
+
+
+@dataclass
+class Item:
+    description: str
+    quantity: int = 1
+
+    def to_dict(self) -> dict:
+        return asdict(self)
+
+    @classmethod
+    def from_dict(cls, d: dict) -> "Item":
+        return cls(description=d.get("description", ""), quantity=int(d.get("quantity", 1) or 1))
+
+
+@dataclass
+class Part:
+    """A part needed for a build, with order/receipt tracking."""
+    name: str
+    ordered: bool = False
+    received: bool = False
+    vendor: Optional[str] = None
+    order_date: Optional[str] = None  # ISO date
+
+    def to_dict(self) -> dict:
+        return asdict(self)
+
+    @classmethod
+    def from_dict(cls, d: dict) -> "Part":
+        return cls(
+            name=d.get("name", ""),
+            ordered=bool(d.get("ordered", False)),
+            received=bool(d.get("received", False)),
+            vendor=d.get("vendor"),
+            order_date=d.get("order_date"),
+        )
+
+
+@dataclass
+class Build:
+    # Identity / source
+    asana_gid: str  # canonical anchor; tasks in the Commercial Sales Asana project
+    asana_task_name: Optional[str] = None  # raw Asana task name — used as subtitle for same-customer disambiguation
+    customer: str = ""
+    customer_contact: Optional[str] = None
+    customer_email: Optional[str] = None
+
+    # Dates
+    receive_by: Optional[str] = None  # ISO date
+
+    # Logistics
+    ship_to: Optional[str] = None  # multi-line address as a single string
+
+    # Contents
+    items: list[Item] = field(default_factory=list)
+
+    # State machines (string values from the *_STATES lists)
+    payment_state: str = "none"
+    build_state: str = "none"
+    ship_state: str = "none"
+
+    # Payment details
+    estimate_date: Optional[str] = None
+    invoice_date: Optional[str] = None
+    invoice_amount: Optional[float] = None
+    invoice_number: Optional[str] = None
+    paid_date: Optional[str] = None
+
+    # Parts checklist (build phase 1 → parts_ordered)
+    parts: list[Part] = field(default_factory=list)
+
+    # Shipping
+    tracking_number: Optional[str] = None
+    carrier: Optional[str] = None
+    shipped_date: Optional[str] = None
+
+    # Owners (overrides on top of DEFAULT_OWNERS)
+    owners: dict[str, str] = field(default_factory=dict)
+
+    # Meta
+    notes: Optional[str] = None
+    missing_fields: list[str] = field(default_factory=list)
+    last_evidence_date: Optional[str] = None  # ISO date of most recent source signal
+
+    def owner(self, role: str) -> str:
+        return self.owners.get(role) or DEFAULT_OWNERS.get(role, "")
+
+    def primary_owner_role(self) -> str:
+        """Which responsibility area is on the hot seat right now?
+
+        Walks the state machines in workflow order and returns the role that
+        owns the next required action. The renderer uses this to decide who to
+        @-ping in the missing-info callout.
+        """
+        # Pre-payment: interface (Beck)
+        if self.payment_state in ("none", "estimate_sent"):
+            return "interface"
+        # Invoice sent but not paid: still interface to chase payment
+        if self.payment_state == "invoice_sent":
+            return "interface"
+        # Paid but parts not yet ordered: invoicing (Meredith)
+        if self.payment_state == "paid" and self.build_state in ("none", "parts_ordered"):
+            return "invoicing"
+        # In assembly or QC: build (Nate)
+        if self.build_state in ("in_assembly", "in_qc"):
+            return "build"
+        # Build complete but not shipped: invoicing (Meredith handles shipping)
+        return "invoicing"
+
+    def to_dict(self) -> dict:
+        d = asdict(self)
+        d["items"] = [i.to_dict() if hasattr(i, "to_dict") else i for i in self.items]
+        d["parts"] = [p.to_dict() if hasattr(p, "to_dict") else p for p in self.parts]
+        return d
+
+    @classmethod
+    def from_dict(cls, d: dict) -> "Build":
+        return cls(
+            asana_gid=d.get("asana_gid", ""),
+            asana_task_name=d.get("asana_task_name"),
+            customer=d.get("customer", ""),
+            customer_contact=d.get("customer_contact"),
+            customer_email=d.get("customer_email"),
+            receive_by=d.get("receive_by"),
+            ship_to=d.get("ship_to"),
+            items=[Item.from_dict(x) for x in d.get("items", []) if isinstance(x, dict)],
+            payment_state=d.get("payment_state", "none"),
+            build_state=d.get("build_state", "none"),
+            ship_state=d.get("ship_state", "none"),
+            estimate_date=d.get("estimate_date"),
+            invoice_date=d.get("invoice_date"),
+            invoice_amount=d.get("invoice_amount"),
+            invoice_number=d.get("invoice_number"),
+            paid_date=d.get("paid_date"),
+            parts=[Part.from_dict(x) for x in d.get("parts", []) if isinstance(x, dict)],
+            tracking_number=d.get("tracking_number"),
+            carrier=d.get("carrier"),
+            shipped_date=d.get("shipped_date"),
+            owners=dict(d.get("owners", {})),
+            notes=d.get("notes"),
+            missing_fields=list(d.get("missing_fields", [])),
+            last_evidence_date=d.get("last_evidence_date"),
+        )
+
+
+@dataclass
+class SupportCase:
+    # Identity
+    case_id: str  # bot-generated, e.g. "SC-2026-001" — or Asana gid when available
+    asana_gid: Optional[str] = None
+    customer: str = ""
+    customer_contact: Optional[str] = None
+    customer_email: Optional[str] = None
+
+    # What's broken
+    device: Optional[str] = None  # "SuperSwift S/N 2024-018"
+    serial_number: Optional[str] = None
+    reported_issue: Optional[str] = None
+
+    # State machine
+    state: str = "intake"  # one of SUPPORT_STATES
+
+    # RMA / shipping
+    rma_number: Optional[str] = None
+    received_date: Optional[str] = None
+    shipped_back_date: Optional[str] = None
+    tracking_number: Optional[str] = None
+    carrier: Optional[str] = None
+
+    # Linked build
+    linked_build_gid: Optional[str] = None  # FK to Build.asana_gid when matched
+
+    # Owners
+    owners: dict[str, str] = field(default_factory=dict)
+
+    # Meta
+    notes: Optional[str] = None
+    missing_fields: list[str] = field(default_factory=list)
+    last_evidence_date: Optional[str] = None
+
+    def owner(self, role: str) -> str:
+        return self.owners.get(role) or DEFAULT_OWNERS.get(role, "")
+
+    def primary_owner_role(self) -> str:
+        if self.state in ("intake", "diagnosing"):
+            return "interface"
+        if self.state == "rma_issued":
+            return "interface"  # waiting for customer to send the unit back
+        if self.state in ("received", "under_repair", "in_qc"):
+            return "support"
+        return "invoicing"  # shipping it back out
+
+    def to_dict(self) -> dict:
+        return asdict(self)
+
+    @classmethod
+    def from_dict(cls, d: dict) -> "SupportCase":
+        return cls(
+            case_id=d.get("case_id", ""),
+            asana_gid=d.get("asana_gid"),
+            customer=d.get("customer", ""),
+            customer_contact=d.get("customer_contact"),
+            customer_email=d.get("customer_email"),
+            device=d.get("device"),
+            serial_number=d.get("serial_number"),
+            reported_issue=d.get("reported_issue"),
+            state=d.get("state", "intake"),
+            rma_number=d.get("rma_number"),
+            received_date=d.get("received_date"),
+            shipped_back_date=d.get("shipped_back_date"),
+            tracking_number=d.get("tracking_number"),
+            carrier=d.get("carrier"),
+            linked_build_gid=d.get("linked_build_gid"),
+            owners=dict(d.get("owners", {})),
+            notes=d.get("notes"),
+            missing_fields=list(d.get("missing_fields", [])),
+            last_evidence_date=d.get("last_evidence_date"),
+        )
+
+
+# --- Persistence ------------------------------------------------------------
+
+
+def _safe_id(s: str) -> str:
+    """Make a string filesystem-safe."""
+    return re.sub(r"[^a-zA-Z0-9_-]", "_", s)[:80]
+
+
+def save_build(b: Build) -> Path:
+    BUILDS_DIR.mkdir(parents=True, exist_ok=True)
+    path = BUILDS_DIR / f"{_safe_id(b.asana_gid)}.json"
+    path.write_text(json.dumps(b.to_dict(), indent=2, default=str))
+    return path
+
+
+def save_support(c: SupportCase) -> Path:
+    SUPPORT_DIR.mkdir(parents=True, exist_ok=True)
+    path = SUPPORT_DIR / f"{_safe_id(c.case_id)}.json"
+    path.write_text(json.dumps(c.to_dict(), indent=2, default=str))
+    return path
+
+
+def load_builds() -> list[Build]:
+    if not BUILDS_DIR.exists():
+        return []
+    builds = []
+    for f in sorted(BUILDS_DIR.glob("*.json")):
+        try:
+            builds.append(Build.from_dict(json.loads(f.read_text())))
+        except Exception:
+            continue
+    return builds
+
+
+def load_support_cases() -> list[SupportCase]:
+    if not SUPPORT_DIR.exists():
+        return []
+    cases = []
+    for f in sorted(SUPPORT_DIR.glob("*.json")):
+        try:
+            cases.append(SupportCase.from_dict(json.loads(f.read_text())))
+        except Exception:
+            continue
+    return cases
+
+
+# --- Rendering --------------------------------------------------------------
+# Slack mrkdwn output. Emoji shortcodes get rendered by Slack into icons.
+
+PAYMENT_LABELS = {
+    "none": ("estimate", ":hourglass:"),
+    "estimate_sent": ("estimate", ":white_check_mark:"),
+    "invoice_sent": ("invoice", ":white_check_mark:"),
+    "paid": ("paid", ":white_check_mark:"),
+}
+
+BUILD_LABELS = {
+    "none": ("not started", ":white_circle:"),
+    "parts_ordered": ("parts ordered", ":hourglass:"),
+    "in_assembly": ("in assembly", ":wrench:"),
+    "in_qc": ("in QC", ":mag:"),
+    "complete": ("complete", ":white_check_mark:"),
+    "packaged": ("packaged", ":package:"),
+}
+
+SHIP_LABELS = {
+    "none": ("not ready", ":white_circle:"),
+    "awaiting_pickup": ("awaiting pickup", ":hourglass:"),
+    "in_transit": ("in transit", ":truck:"),
+    "delivered": ("delivered", ":white_check_mark:"),
+}
+
+SUPPORT_LABELS = {
+    "intake": (":hourglass:", "intake"),
+    "diagnosing": (":mag:", "diagnosing"),
+    "rma_issued": (":envelope:", "RMA issued — awaiting return"),
+    "received": (":inbox_tray:", "received"),
+    "under_repair": (":wrench:", "under repair"),
+    "in_qc": (":mag_right:", "in QC"),
+    "complete": (":white_check_mark:", "complete"),
+    "shipped": (":truck:", "shipped back to customer"),
+}
+
+
+def _resolve_owner(name: str, name_to_slack: Optional[dict[str, str]]) -> str:
+    """Resolve an owner display name to a Slack mention if possible."""
+    if not name:
+        return "—"
+    if not name_to_slack:
+        return name
+    # Direct match
+    if name in name_to_slack:
+        return f"<@{name_to_slack[name]}>"
+    # First-name match
+    lower = name.lower()
+    for n, sid in name_to_slack.items():
+        if n.lower() == lower or n.lower().split()[0] == lower:
+            return f"<@{sid}>"
+    return name
+
+
+def _progress_line(label: str, current_state: str, states: list[str], state_labels: dict) -> str:
+    """Render a single state-machine line: 'Build  ✅ paid → ⏳ parts → ☐ assembly ...'"""
+    try:
+        idx = states.index(current_state)
+    except ValueError:
+        idx = 0
+    parts = []
+    for i, state in enumerate(states):
+        if state == "none":
+            continue  # 'none' is implicit; don't render
+        text, _emoji = state_labels[state]
+        if i < idx:
+            marker = ":white_check_mark:"
+        elif i == idx:
+            # Active step — use the state's own emoji
+            marker = state_labels[state][1]
+        else:
+            marker = ":white_circle:"
+        parts.append(f"{marker} {text}")
+    return f"   *{label}*   " + "  →  ".join(parts)
+
+
+def _render_parts_checklist(parts: list[Part]) -> str:
+    if not parts:
+        return ""
+    lines = []
+    for p in parts:
+        if p.received:
+            marker = ":white_check_mark:"
+        elif p.ordered:
+            marker = ":hourglass:"
+        else:
+            marker = ":white_circle:"
+        suffix = ""
+        if p.vendor:
+            suffix = f" _(from {p.vendor})_"
+        lines.append(f"      {marker} {p.name}{suffix}")
+    return "\n".join(lines)
+
+
+def _render_items(items: list[Item]) -> str:
+    if not items:
+        return "      _(contents not yet captured)_"
+    return "\n".join(
+        f"      • {i.quantity}× {i.description}" if i.quantity > 1 else f"      • {i.description}"
+        for i in items
+    )
+
+
+# Field → responsibility-area routing tables. Used by _render_missing so the
+# ping in the callout matches *what* is missing, not just where the record sits
+# in the overall pipeline.
+BUILD_FIELD_ROLES = {
+    # invoicing (Meredith)
+    "ship_to": "invoicing",
+    "tracking_number": "invoicing",
+    "carrier": "invoicing",
+    "shipped_date": "invoicing",
+    "invoice_number": "invoicing",
+    "invoice_date": "invoicing",
+    "invoice_amount": "invoicing",
+    # build (Nate) — `items` only routes to build once build_state has moved
+    # past "none"; otherwise it's still interface's job to capture the order.
+    "parts": "build",
+    "build_state": "build",
+    "build_state_confirmation": "build",
+    # interface (Beck) — everything else
+    "customer": "interface",
+    "customer_contact": "interface",
+    "customer_email": "interface",
+    "estimate_date": "interface",
+    "receive_by": "interface",
+    "payment_state": "interface",
+}
+
+SUPPORT_FIELD_ROLES = {
+    # interface (Beck) — intake info
+    "serial_number": "interface",
+    "device": "interface",
+    "reported_issue": "interface",
+    # invoicing (Meredith) — RMA + return shipping
+    "rma_number": "invoicing",
+    "tracking_number": "invoicing",
+    "carrier": "invoicing",
+}
+
+# Display order so multi-owner callouts read consistently.
+_ROLE_ORDER = ["invoicing", "build", "support", "interface"]
+
+
+def _route_field(record, field_name: str) -> str:
+    """Return the responsibility area for a single missing field on the record."""
+    if isinstance(record, SupportCase):
+        return SUPPORT_FIELD_ROLES.get(field_name, "support")
+    # Build
+    if field_name == "items":
+        # Only counts as build's problem once a build has actually started.
+        if getattr(record, "build_state", "none") != "none":
+            return "build"
+        return "interface"
+    return BUILD_FIELD_ROLES.get(field_name, "interface")
+
+
+def _render_missing(record, name_to_slack: Optional[dict[str, str]]) -> str:
+    """Render the missing-info callout @-pinging the right owner(s).
+
+    Routes each missing field to the responsibility area that owns it (rather
+    than blanket-pinging whoever is on the hot seat in the overall pipeline),
+    then groups the display by owner. Single-owner callouts stay compact;
+    multi-owner callouts use a small `For @X: fields` block per owner.
+    """
+    if not record.missing_fields:
+        return ""
+
+    # Group fields by responsibility area.
+    by_role: dict[str, list[str]] = {}
+    for fld in record.missing_fields:
+        role = _route_field(record, fld)
+        by_role.setdefault(role, []).append(fld)
+
+    if not by_role:
+        return ""
+
+    # Sort roles for stable, sensible display order.
+    roles_in_order = [r for r in _ROLE_ORDER if r in by_role]
+    # Catch any role we didn't anticipate.
+    for r in by_role:
+        if r not in roles_in_order:
+            roles_in_order.append(r)
+
+    # Single-owner: keep the compact original layout.
+    if len(roles_in_order) == 1:
+        role = roles_in_order[0]
+        mention = _resolve_owner(record.owner(role), name_to_slack)
+        fields_str = ", ".join(by_role[role])
+        return (
+            f"   :warning: _Missing:_ {fields_str}\n"
+            f"      {mention} — reply in thread to fill in."
+        )
+
+    # Multi-owner: list one row per owner, then a single combined reply prompt.
+    lines = ["   :warning: _Missing:_"]
+    mentions = []
+    for role in roles_in_order:
+        mention = _resolve_owner(record.owner(role), name_to_slack)
+        mentions.append(mention)
+        fields_str = ", ".join(by_role[role])
+        lines.append(f"      _For_ {mention}: {fields_str}")
+    lines.append(f"      {' '.join(mentions)} — reply in thread to fill in.")
+    return "\n".join(lines)
+
+
+def _build_subtitle(customer: str, asana_task_name: Optional[str]) -> str:
+    """Return a ` — _{cleaned}_` subtitle when the Asana task name adds info beyond the customer.
+
+    Skip when the task name is empty, equals the customer, or is just the customer plus
+    a tiny suffix (≤ len(customer) + 5). Strips leading bracketed codes like `[1323]`.
+    """
+    if not asana_task_name:
+        return ""
+    name = asana_task_name.strip()
+    if not name:
+        return ""
+    cust = (customer or "").strip()
+    if cust and name.lower() == cust.lower():
+        return ""
+    if cust and cust.lower() in name.lower() and len(name) <= len(cust) + 5:
+        return ""
+    cleaned = re.sub(r"^(?:\[[^\]]+\]\s*)+", "", name).strip()
+    if not cleaned:
+        return ""
+    # Re-check after cleaning in case the brackets were the only differentiator.
+    if cust and cleaned.lower() == cust.lower():
+        return ""
+    if cust and cust.lower() in cleaned.lower() and len(cleaned) <= len(cust) + 5:
+        return ""
+    return f" — _{cleaned}_"
+
+
+def render_build_card(b: Build, name_to_slack: Optional[dict[str, str]] = None) -> str:
+    """Render one Build as a Slack mrkdwn card."""
+    header_emoji = ":wrench:"
+    if b.ship_state == "delivered":
+        header_emoji = ":white_check_mark:"
+    elif b.payment_state == "none":
+        header_emoji = ":envelope_with_arrow:"
+
+    customer = b.customer or "_(customer name not captured)_"
+    subtitle = _build_subtitle(b.customer, b.asana_task_name)
+    receive_by = f"   :calendar: receive by *{b.receive_by}*" if b.receive_by else ""
+
+    ship_addr = ""
+    if b.ship_to:
+        # Indent multi-line address
+        addr_lines = b.ship_to.strip().split("\n")
+        ship_addr = "   :round_pushpin: " + " · ".join(line.strip() for line in addr_lines if line.strip())
+
+    interface = _resolve_owner(b.owner("interface"), name_to_slack)
+    invoicing = _resolve_owner(b.owner("invoicing"), name_to_slack)
+    build_owner = _resolve_owner(b.owner("build"), name_to_slack)
+    owners_line = f"   :busts_in_silhouette: {interface} _(interface)_ · {invoicing} _(invoice/ship)_ · {build_owner} _(build)_"
+
+    contents_block = "   *Contents:*\n" + _render_items(b.items)
+
+    payment_line = _progress_line(
+        ":money_with_wings:  Payment", b.payment_state, PAYMENT_STATES, PAYMENT_LABELS
+    )
+    build_line = _progress_line(
+        ":wrench:  Build  ", b.build_state, BUILD_STATES, BUILD_LABELS
+    )
+    parts_block = _render_parts_checklist(b.parts)
+    ship_line = _progress_line(
+        ":truck:  Shipping", b.ship_state, SHIP_STATES, SHIP_LABELS
+    )
+    if b.tracking_number:
+        ship_line += f"\n      _tracking: {b.carrier or ''} {b.tracking_number}_".rstrip()
+
+    missing_block = _render_missing(b, name_to_slack)
+
+    sections = [
+        f"{header_emoji}  *{customer}*{subtitle}",
+        receive_by,
+        ship_addr,
+        owners_line,
+        "",
+        contents_block,
+        "",
+        payment_line,
+        build_line,
+        parts_block,
+        ship_line,
+    ]
+    if b.notes:
+        sections.append(f"   :memo: _{b.notes.strip()}_")
+    if missing_block:
+        sections.append(missing_block)
+    return "\n".join(s for s in sections if s)
+
+
+def render_support_card(c: SupportCase, name_to_slack: Optional[dict[str, str]] = None) -> str:
+    """Render one SupportCase as a Slack mrkdwn card."""
+    customer = c.customer or "_(customer name not captured)_"
+    device = c.device or "device TBD"
+    if c.serial_number and not (c.device and c.serial_number in c.device):
+        device = f"{device} (S/N {c.serial_number})"
+
+    state_emoji, state_label = SUPPORT_LABELS.get(c.state, (":question:", c.state))
+
+    interface = _resolve_owner(c.owner("interface"), name_to_slack)
+    support_owner = _resolve_owner(c.owner("support"), name_to_slack)
+    invoicing = _resolve_owner(c.owner("invoicing"), name_to_slack)
+    owners_line = (
+        f"   :busts_in_silhouette: {interface} _(intake)_ · "
+        f"{support_owner} _(repair)_ · {invoicing} _(return ship)_"
+    )
+
+    lines = [f":wrench:  *{customer}* — {device}"]
+    lines.append(f"   {state_emoji}  *Status:* {state_label}")
+    if c.reported_issue:
+        lines.append(f"   :speech_balloon: _{c.reported_issue.strip()}_")
+    if c.rma_number:
+        lines.append(f"   :hash: RMA `{c.rma_number}`")
+    if c.linked_build_gid:
+        lines.append(f"   :link: linked to a prior build (`{c.linked_build_gid}`)")
+    lines.append(owners_line)
+    if c.tracking_number:
+        lines.append(f"   :truck: _{c.carrier or ''} {c.tracking_number}_".rstrip())
+    missing = _render_missing(c, name_to_slack)
+    if missing:
+        lines.append(missing)
+    return "\n".join(lines)
+
+
+def render_digest(
+    builds: list[Build],
+    cases: list[SupportCase],
+    name_to_slack: Optional[dict[str, str]] = None,
+    today: Optional[date] = None,
+) -> str:
+    """Render the full morning post for #commercial-sales."""
+    today = today or date.today()
+    pieces = [f":package:  *Customer Builds & Support — {today.strftime('%A %B %d')}*"]
+
+    # Filter out builds that have been delivered for more than ~30 days (clutter)
+    def is_active(b: Build) -> bool:
+        if b.ship_state != "delivered":
+            return True
+        if not b.shipped_date:
+            return True
+        try:
+            shipped = datetime.fromisoformat(b.shipped_date).date()
+            return (today - shipped).days < 30
+        except Exception:
+            return True
+
+    active_builds = [b for b in builds if is_active(b)]
+    if not active_builds:
+        pieces.append("\n_No active customer builds in the pipeline._")
+    else:
+        pieces.append(f"\n*Active Builds — {len(active_builds)}*")
+        for b in active_builds:
+            pieces.append("")
+            pieces.append(render_build_card(b, name_to_slack))
+
+    active_cases = [c for c in cases if c.state != "shipped"]
+    if active_cases:
+        pieces.append("")
+        pieces.append("─" * 40)
+        pieces.append(f"\n*Support — {len(active_cases)} active*")
+        for c in active_cases:
+            pieces.append("")
+            pieces.append(render_support_card(c, name_to_slack))
+    elif cases:
+        # All support is shipped/closed — still note it briefly
+        pieces.append("")
+        pieces.append("─" * 40)
+        pieces.append(f"\n*Support* — _no active cases ({len(cases)} closed)_")
+
+    pieces.append("")
+    pieces.append(
+        "_Reply in thread to any card to add missing info "
+        "(e.g. \"ship by Jun 1\", \"tracking 1Z999...\", \"Joshua doing assembly on this one\")._"
+    )
+    return "\n".join(pieces)
+
+
+# --- CLI for quick inspection ----------------------------------------------
+
+if __name__ == "__main__":
+    import sys
+    builds = load_builds()
+    cases = load_support_cases()
+    print(f"Loaded {len(builds)} builds, {len(cases)} support cases")
+    print()
+    print(render_digest(builds, cases))

@@ -1,0 +1,43 @@
+{
+  "asana_gid": "1210812587995014",
+  "asana_task_name": "Michigan Technological University - S0 and S2",
+  "customer": "Michigan Technological University",
+  "customer_contact": "Dr. Shawn Brueshaber",
+  "customer_email": "srbruesh@mtu.edu",
+  "receive_by": null,
+  "ship_to": null,
+  "items": [
+    {
+      "description": "Blackswift S0",
+      "quantity": 1
+    },
+    {
+      "description": "Blackswift S2",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "estimate_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Michigan Tech interested in S0 and S2 for atmospheric profiling research. Estimate sent per custom field. First contact 2025-07-14 via website.",
+  "missing_fields": [
+    "ship_to",
+    "receive_by",
+    "parts"
+  ],
+  "last_evidence_date": "2026-04-23"
+}

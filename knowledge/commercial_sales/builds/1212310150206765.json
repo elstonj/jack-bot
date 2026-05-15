@@ -1,0 +1,36 @@
+{
+  "asana_gid": "1212310150206765",
+  "asana_task_name": "Acellant S2",
+  "customer": "Acellant",
+  "customer_contact": "",
+  "customer_email": "",
+  "receive_by": "2026-05-22",
+  "ship_to": "",
+  "items": [],
+  "payment_state": "none",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": "",
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": "",
+  "carrier": "",
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Acellant S2 build tracked via Asana. Due 2026-05-22. Last contact 2026-01-14.",
+  "missing_fields": [
+    "customer_contact",
+    "customer_email",
+    "ship_to",
+    "items",
+    "parts"
+  ],
+  "last_evidence_date": "2026-01-14"
+}

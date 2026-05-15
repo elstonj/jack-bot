@@ -1,0 +1,39 @@
+{
+  "asana_gid": "1205971100510799",
+  "asana_task_name": "[1313] ERAU 4 S0 VTOL",
+  "customer": "Embry-Riddle Aeronautical University",
+  "customer_contact": "Kevin Adkins",
+  "customer_email": "adkinsk@erau.edu",
+  "receive_by": null,
+  "ship_to": "Embry-Riddle Aeronautical University, Attn: Accounts Payable, 1 Aerospace Boulevard, Daytona Beach, FL 32114-3900, United States",
+  "items": [
+    {
+      "description": "S0 VTOL",
+      "quantity": 4
+    }
+  ],
+  "payment_state": "invoice_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": "2026-01-08",
+  "invoice_amount": 2462.5,
+  "invoice_number": "1730",
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "This is the grant-funded follow-on order for 4 additional S0 VTOL units (Asana task [1313]). Prior orders: 2 VTOL units paid in full (Invoices 1667 & 1545); currently awaiting delivery with settlement discussions in progress per internal disclosure docs. Current invoice 1730 ($2,462.50) is open/unpaid. Project expected delivery late summer 2025 per registry; customer evaluating initial delivery before committing to this batch.",
+  "missing_fields": [
+    "receive_by",
+    "parts",
+    "build_state"
+  ],
+  "last_evidence_date": "2026-05-05"
+}
