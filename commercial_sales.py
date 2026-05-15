@@ -644,6 +644,87 @@ def render_support_card(c: SupportCase, name_to_slack: Optional[dict[str, str]] 
     return "\n".join(lines)
 
 
+def render_card_sequence(
+    builds: list[Build],
+    cases: list[SupportCase],
+    name_to_slack: Optional[dict[str, str]] = None,
+    today: Optional[date] = None,
+) -> list[dict]:
+    """Render the digest as a sequence of separate Slack messages.
+
+    Each entry is a dict with:
+      - kind: "header" | "build" | "support" | "divider" | "footer"
+      - text: Slack mrkdwn message body
+      - id:   asana_gid (for builds) or case_id (for support cases), else None.
+              The scheduler captures the Slack ts of each posted card and
+              stores ts → id so Phase 2 reply-handling can look up which
+              record a threaded reply is updating.
+
+    Use this for the live post. `render_digest()` produces the same content
+    as one big string for terminal previews and test fixtures.
+    """
+    today = today or date.today()
+    sequence: list[dict] = []
+
+    def is_active(b: Build) -> bool:
+        if b.ship_state != "delivered":
+            return True
+        if not b.shipped_date:
+            return True
+        try:
+            shipped = datetime.fromisoformat(b.shipped_date).date()
+            return (today - shipped).days < 30
+        except Exception:
+            return True
+
+    active_builds = [b for b in builds if is_active(b)]
+    active_cases = [c for c in cases if c.state != "shipped"]
+
+    # Header — anchors the day, includes counts so users can read just this.
+    header_lines = [f":package:  *Customer Builds & Support — {today.strftime('%A %B %d')}*"]
+    if active_builds:
+        header_lines.append(f"*{len(active_builds)} active build{'s' if len(active_builds) != 1 else ''}*"
+                            + (f" · *{len(active_cases)} support*" if active_cases else ""))
+    elif active_cases:
+        header_lines.append(f"*{len(active_cases)} active support case{'s' if len(active_cases) != 1 else ''}* — no active builds")
+    else:
+        header_lines.append("_No active customer builds or support cases._")
+    sequence.append({"kind": "header", "id": None, "text": "\n".join(header_lines)})
+
+    for b in active_builds:
+        sequence.append({
+            "kind": "build",
+            "id": b.asana_gid,
+            "text": render_build_card(b, name_to_slack),
+        })
+
+    if active_cases:
+        sequence.append({
+            "kind": "divider",
+            "id": None,
+            "text": "─" * 40 + f"\n*Support — {len(active_cases)} active*",
+        })
+        for c in active_cases:
+            sequence.append({
+                "kind": "support",
+                "id": c.case_id,
+                "text": render_support_card(c, name_to_slack),
+            })
+
+    # Footer — usage hint. Always last so it doesn't break thread context.
+    sequence.append({
+        "kind": "footer",
+        "id": None,
+        "text": (
+            "_Reply in thread to any card above to add missing info or update state — "
+            "\"ship by Jun 1\", \"tracking 1Z999...\", \"Joshua doing assembly on this one\". "
+            "The reply gets routed to the specific build/case._"
+        ),
+    })
+
+    return sequence
+
+
 def render_digest(
     builds: list[Build],
     cases: list[SupportCase],

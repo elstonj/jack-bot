@@ -47,7 +47,11 @@ def main():
         result = scan_all(mode="incremental", slack_client=slack_client)
         print(f"\nScanner result: {result}\n", file=sys.stderr)
 
-    from commercial_sales import load_builds, load_support_cases, render_digest
+    from commercial_sales import (
+        load_builds,
+        load_support_cases,
+        render_card_sequence,
+    )
 
     builds = load_builds()
     cases = load_support_cases()
@@ -63,7 +67,6 @@ def main():
             print(f"\n=== CASE {c.case_id} ({c.customer}) ===", file=sys.stderr)
             print(json.dumps(c.to_dict(), indent=2, default=str), file=sys.stderr)
 
-    # Build a name → slack_id map so the rendered output shows mentions
     name_to_slack = {}
     try:
         from slack_sdk import WebClient
@@ -79,7 +82,18 @@ def main():
     except Exception as e:
         print(f"# (Couldn't build user_map for mentions: {e})", file=sys.stderr)
 
-    print(render_digest(builds, cases, name_to_slack=name_to_slack))
+    # Render as the sequence of separate messages that the scheduler will post.
+    # Each message is shown with a separator so it's easy to see what hits Slack.
+    sequence = render_card_sequence(builds, cases, name_to_slack=name_to_slack)
+    print(f"# Sequence: {len(sequence)} messages will be posted", file=sys.stderr)
+    for i, entry in enumerate(sequence, 1):
+        sep_label = f"[{i:02d}/{len(sequence):02d}] {entry['kind']}"
+        if entry["id"]:
+            sep_label += f"  id={entry['id']}"
+        print("\n" + "═" * 70)
+        print(f"  {sep_label}")
+        print("═" * 70)
+        print(entry["text"])
 
 
 if __name__ == "__main__":

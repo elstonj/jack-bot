@@ -257,7 +257,12 @@ def _extract_body(payload: dict) -> str:
 
 
 def _extract_attachments(payload: dict) -> list[dict]:
-    """Return [{name, mime, size}] for each attachment (file-only, no inline)."""
+    """Return [{name, mime, size, attachment_id}] for each attachment (file-only, no inline).
+
+    attachment_id lets us later fetch the actual bytes via
+    `service.users().messages().attachments().get(...)` — kept lazy so we
+    only pay for the PDFs we actually use as evidence on a Build.
+    """
     out = []
 
     def walk(p):
@@ -265,13 +270,172 @@ def _extract_attachments(payload: dict) -> list[dict]:
         mime = p.get("mimeType") or ""
         body = p.get("body") or {}
         size = body.get("size") or 0
+        attachment_id = body.get("attachmentId") or ""
         if filename and size > 1000:  # skip tiny inline parts
-            out.append({"name": filename, "mime": mime, "size": size})
+            out.append({
+                "name": filename,
+                "mime": mime,
+                "size": size,
+                "attachment_id": attachment_id,
+            })
         for sub in p.get("parts") or []:
             walk(sub)
 
     walk(payload)
     return out
+
+
+# --- PDF document handling --------------------------------------------------
+# Customer-facing invoices/estimates/quotes/POs sit on customer-thread emails
+# as PDF attachments. Fetching their bytes and passing them to Haiku as
+# document content blocks lets the extraction fill in ship_to, line items,
+# and dollar amounts that text bodies don't carry. Bounded by per-Build caps
+# to keep cost predictable.
+
+# Filename substrings that strongly suggest a financial/order doc.
+PDF_INTEREST_KEYWORDS = (
+    "invoice", "estimate", "quote", "pricing",
+    "purchase order", "order confirmation", "sales order",
+)
+# Additional regex patterns for tokens like "PO" that need word-boundary care
+# so we don't match unrelated filenames containing "po" as a substring.
+PDF_INTEREST_REGEXES = (
+    re.compile(r"\bpo\b", re.IGNORECASE),       # "PO J20265067", "PO-1234"
+    re.compile(r"\bp\.o\.", re.IGNORECASE),     # "P.O. 1234"
+)
+PDF_MAX_BYTES_PER_DOC = 5 * 1024 * 1024   # skip PDFs >5 MB (cost guard)
+PDF_MAX_DOCS_PER_BUILD = 3                # per Haiku call
+PDF_MAX_TOTAL_BYTES_PER_BUILD = 8 * 1024 * 1024
+
+
+def _is_interesting_pdf(attachment: dict) -> bool:
+    """Decide whether this attachment is a PDF worth fetching as evidence."""
+    fn_lower = (attachment.get("name") or "").lower()
+    fn_orig = attachment.get("name") or ""
+    mime = (attachment.get("mime") or "").lower()
+    size = attachment.get("size") or 0
+    if not (mime == "application/pdf" or fn_lower.endswith(".pdf")):
+        return False
+    if size > PDF_MAX_BYTES_PER_DOC:
+        return False
+    if any(kw in fn_lower for kw in PDF_INTEREST_KEYWORDS):
+        return True
+    return any(rx.search(fn_orig) for rx in PDF_INTEREST_REGEXES)
+
+
+def _candidate_invoice_numbers(filename: str) -> list[str]:
+    """Pull every plausible invoice-number-like digit run from a PDF filename.
+
+    Returns a list (preserving order) of digit runs of length 4-8 that aren't
+    obvious years. Lets the caller try each against QBO since some filenames
+    contain multiple numbers (e.g. "PO J20265067 - Invoice 1754.pdf").
+
+    Uses non-word-character separators rather than `\\b` because `\\b` treats
+    underscore as a word char, breaking patterns like "invoice_1754.pdf".
+    """
+    if not filename:
+        return []
+    out = []
+    # (?<![0-9]) ... (?![0-9]) is a hand-rolled boundary that ignores _ and -
+    for m in re.finditer(r"(?<![0-9])(\d{4,8})(?![0-9])", filename):
+        n = m.group(1)
+        # Skip obvious years
+        if len(n) == 4 and 1900 <= int(n) <= 2099:
+            continue
+        out.append(n)
+    return out
+
+
+def _qbo_project_hint_for_pdf(filename: str) -> Optional[str]:
+    """If a PDF's filename references a QBO invoice number, return the project
+    line that invoice was billed to (e.g. '[043-3] By Light Halo'). None when
+    no match — Haiku then has only the filename + email context to work with.
+
+    QBO customer strings already carry the project-code prefix when applicable,
+    so the project alignment falls out for free.
+    """
+    candidates = _candidate_invoice_numbers(filename)
+    if not candidates:
+        return None
+    invoices = _load_qbo_invoices()
+    for cand in candidates:
+        stripped = cand.lstrip("0")
+        for inv in invoices:
+            num = inv.get("number", "").lstrip("0")
+            if num and num == stripped:
+                return inv.get("customer")
+    return None
+
+
+def _fetch_pdf_bytes(service, msg_id: str, attachment_id: str) -> Optional[bytes]:
+    """Pull a Gmail attachment's raw bytes. Returns None on any failure."""
+    if not (service and msg_id and attachment_id):
+        return None
+    try:
+        att = service.users().messages().attachments().get(
+            userId="me", messageId=msg_id, id=attachment_id,
+        ).execute()
+    except Exception as e:
+        print(f"  [WARN] PDF fetch failed for msg {msg_id}: {e}")
+        return None
+    data = att.get("data")
+    if not data:
+        return None
+    try:
+        return base64.urlsafe_b64decode(data + "===")
+    except Exception:
+        return None
+
+
+def _collect_pdf_docs_for_build(service, emails: list[dict]) -> list[dict]:
+    """Across the emails picked for a Build, fetch up to PDF_MAX_DOCS_PER_BUILD
+    interesting PDF attachments and return them as Anthropic document content
+    blocks ready to drop into the messages list.
+
+    Newest emails are inspected first. Stops at the per-Build doc and byte caps.
+    """
+    if not service or not emails:
+        return []
+    sorted_emails = sorted(emails, key=lambda e: e.get("date") or "", reverse=True)
+    docs: list[dict] = []
+    total_bytes = 0
+    for e in sorted_emails:
+        for att in (e.get("attachments") or []):
+            if len(docs) >= PDF_MAX_DOCS_PER_BUILD:
+                return docs
+            if not _is_interesting_pdf(att):
+                continue
+            blob = _fetch_pdf_bytes(service, e.get("id", ""), att.get("attachment_id", ""))
+            if not blob:
+                continue
+            if total_bytes + len(blob) > PDF_MAX_TOTAL_BYTES_PER_BUILD:
+                return docs
+            total_bytes += len(blob)
+            b64 = base64.standard_b64encode(blob).decode("ascii")
+            qbo_hint = _qbo_project_hint_for_pdf(att.get("name", ""))
+            context = (
+                f"Attachment '{att.get('name','')}' from email dated "
+                f"{e.get('date','')} ({e.get('mailbox','')}), "
+                f"subject: {e.get('subject','')[:120]}"
+            )
+            if qbo_hint:
+                context += (
+                    f". QBO records this invoice/document under project line "
+                    f"'{qbo_hint}'. If that line doesn't match the current Build, "
+                    f"treat the PDF as background reference only — do NOT extract "
+                    f"items, ship_to, or amounts from it for this Build."
+                )
+            docs.append({
+                "type": "document",
+                "source": {
+                    "type": "base64",
+                    "media_type": "application/pdf",
+                    "data": b64,
+                },
+                "title": att.get("name", "")[:80],
+                "context": context,
+            })
+    return docs
 
 
 def _fetch_admin_query_emails(query: str, mailbox_label: str, cap: int) -> list[dict]:
@@ -829,6 +993,18 @@ You are given:
   - Asana task details: name, notes, custom fields, due date, assignee.
   - Recent emails from sales@/info@ that mention this customer.
   - Recent Slack #commercial-sales messages that mention this customer.
+  - (Possibly) PDF attachments from those emails — typically invoices,
+    estimates, quotes, or POs. These are the source documents for
+    ship-to address, itemized line items, dollar amounts, and invoice
+    numbers. Read them as authoritative for those fields. IMPORTANT:
+    each PDF's `context` says which BST project line QBO has it under
+    (e.g. "project line '[043-3] By Light Halo'"). If that project line
+    is clearly different from the current Asana task / Build (e.g. the
+    task is "ByLight Mustang Follow-on" but the PDF is for "[043-3] By
+    Light Halo"), treat the PDF as background only and DO NOT extract
+    items, ship_to, or amounts from it. When in doubt, prefer NOT to
+    populate fields rather than carrying over data from a sibling
+    project — the missing-info callout will prompt humans to fill in.
 
 Produce ONE JSON object as your reply — a complete updated Build record. Output
 ONLY valid JSON, no commentary, no markdown fences.
@@ -890,9 +1066,13 @@ Rules:
   Default to the existing state if evidence is ambiguous — don't speculate.
 - ship_state: only "in_transit" if you see a tracking number or carrier confirmation;
   "delivered" if explicit delivery confirmation.
-- items: parse from estimate or invoice attachments mentioned in the email body
-  (subject lines, line items in quoted body text). If you only have an attachment
-  filename like "Estimate-2026-018.pdf" with no body content, leave items as-is.
+- items: when an invoice/estimate/quote PDF is attached, read the line items
+  out of the PDF directly. Otherwise parse from email subject lines and
+  quoted body text. Filename alone (no content) is not enough to invent items.
+- ship_to: when an invoice/estimate PDF carries a Bill-To / Ship-To block,
+  use the Ship-To address verbatim (multi-line OK). Otherwise leave as-is.
+- invoice_number / invoice_amount: read from the invoice PDF when present;
+  otherwise rely on QBO INVOICES evidence above.
 - parts: small-aerospace components like "flight controllers", "ESCs", "servos",
   "cameras", "airframe shells". Mark `ordered` when a purchase email is visible;
   `received` only when a delivery is confirmed.
@@ -911,7 +1091,8 @@ Rules:
 
 def _haiku_extract_build(task: dict, existing: Optional[Build],
                          emails: list[dict], slack_msgs: list[dict],
-                         knowledge_evidence: str = "") -> tuple[Optional[Build], bool]:
+                         knowledge_evidence: str = "",
+                         gmail_service=None) -> tuple[Optional[Build], bool]:
     """Call Haiku to produce/update a Build record from raw evidence.
 
     Returns (build, drop_existing):
@@ -966,6 +1147,18 @@ def _haiku_extract_build(task: dict, existing: Optional[Build],
             "chatter on a delivered unit is post-delivery — NOT QC.)\n"
         )
 
+    # Fetch up to PDF_MAX_DOCS_PER_BUILD interesting PDF attachments
+    # (invoices/estimates/quotes) from the picked emails. Bounded by per-Build
+    # doc + byte caps. Empty list if no PDFs match or no service available.
+    pdf_docs = _collect_pdf_docs_for_build(gmail_service, emails)
+    pdf_note = ""
+    if pdf_docs:
+        names = ", ".join(d.get("title", "") for d in pdf_docs)[:300]
+        pdf_note = (
+            f"\nPDF ATTACHMENTS PROVIDED (read for ship-to address, line items, "
+            f"dollar amounts, invoice/estimate numbers): {names}\n"
+        )
+
     user_content = (
         "CURRENT JSON RECORD:\n"
         f"{json.dumps(existing_json, indent=2)}\n\n"
@@ -973,6 +1166,7 @@ def _haiku_extract_build(task: dict, existing: Optional[Build],
         + f"{task_block}\n\n"
         + ("RECENT EMAILS:\n" + "\n\n".join(email_blocks) + "\n\n" if email_blocks else "")
         + ("RECENT SLACK:\n" + slack_note + "\n".join(slack_blocks) + "\n\n" if slack_blocks else "")
+        + pdf_note
         + "Produce the updated JSON Build record now."
     )
 
@@ -980,13 +1174,20 @@ def _haiku_extract_build(task: dict, existing: Optional[Build],
     if len(user_content) > 90000:
         user_content = user_content[:90000] + "\n[TRUNCATED]"
 
+    # Build the message content list. When PDFs are present we use the multi-
+    # block format; otherwise stay with the single string for simplicity.
+    if pdf_docs:
+        message_content = pdf_docs + [{"type": "text", "text": user_content}]
+    else:
+        message_content = user_content
+
     try:
         client = get_claude_client()
         resp = client.messages.create(
             model=DISTILL_MODEL,
             max_tokens=2500,
             system=BUILD_EXTRACTION_PROMPT,
-            messages=[{"role": "user", "content": user_content}],
+            messages=[{"role": "user", "content": message_content}],
         )
         text = resp.content[0].text.strip()
     except Exception as e:
@@ -1445,6 +1646,11 @@ def scan_all(mode: str = "incremental", slack_client=None) -> dict:
     asana_tasks = _fetch_commercial_sales_tasks(project["gid"])
     print(f"  Fetched {len(asana_tasks)} Commercial Sales tasks")
 
+    # Admin Gmail service — used for shared-address scans AND for lazy PDF
+    # attachment fetching during per-Build Haiku extraction. Built once and
+    # passed through so we don't pay the auth/setup cost per Build.
+    admin_gmail = _build_admin_gmail_service()
+
     # 2. Pull emails for each shared address from the admin mailbox
     # (info@/sales@/support@ are distribution groups, not directly impersonable —
     # see SHARED_ADDRESSES comment).
@@ -1537,7 +1743,8 @@ def scan_all(mode: str = "incremental", slack_client=None) -> dict:
 
         existing = existing_record
         updated, drop_existing = _haiku_extract_build(
-            task, existing, matched_emails, matched_slack, knowledge_evidence=evidence
+            task, existing, matched_emails, matched_slack,
+            knowledge_evidence=evidence, gmail_service=admin_gmail,
         )
         if updated is not None:
             # Stamp the Asana task name so the renderer can disambiguate
