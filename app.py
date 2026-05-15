@@ -26,6 +26,17 @@ from commercial_sales_reply import (
     handle_thread_followup as cs_handle_thread_followup,
     lookup_record_for_thread as cs_lookup_record_for_thread,
 )
+from commercial_sales_admin import (
+    has_pending as cs_admin_has_pending,
+    is_show_filtered_intent,
+    parse_force_include_target,
+    parse_create_task_target,
+    handle_show_filtered,
+    handle_force_include_propose,
+    handle_force_include_followup,
+    handle_create_task_propose,
+    handle_create_task_followup,
+)
 from scheduler import start_scheduler
 
 load_dotenv()
@@ -396,10 +407,49 @@ def handle_dm(event, say, client):
     if event.get("bot_id"):
         return
 
+    cs_channel = os.environ.get("COMMERCIAL_SALES_CHANNEL", "")
+
+    # Commercial-sales top-level admin commands: "show filtered" + "track this: <x>".
+    # Threaded replies (the reply-to-update flow) are handled separately below.
+    if (
+        cs_channel
+        and event.get("channel") == cs_channel
+        and not event.get("thread_ts")
+    ):
+        text = (event.get("text") or "").strip()
+        user_id = event.get("user", "")
+        if text and user_id:
+            try:
+                resp = None
+                # Pending? Route to whichever follow-up handler matches.
+                # commercial_sales_admin._get_pending stores kind so both
+                # follow-up funcs return None on a mismatch — we try both.
+                if cs_admin_has_pending(user_id, cs_channel):
+                    resp = (
+                        handle_force_include_followup(text, user_id, cs_channel)
+                        or handle_create_task_followup(text, user_id, cs_channel)
+                    )
+                elif is_show_filtered_intent(text):
+                    resp = handle_show_filtered()
+                else:
+                    # Try the two command intents.
+                    target = parse_force_include_target(text)
+                    if target:
+                        resp = handle_force_include_propose(target, user_id, cs_channel)
+                    else:
+                        target = parse_create_task_target(text)
+                        if target:
+                            resp = handle_create_task_propose(target, user_id, cs_channel)
+                if resp:
+                    client.chat_postMessage(channel=cs_channel, text=resp)
+                    return
+            except Exception as e:
+                store_entry(client, "ERROR", f"commercial-sales admin handler: {e}")
+        # Fall through if no admin command matched — top-level chatter is silent.
+
     # Commercial-sales thread replies: route to the reply-to-update flow.
     # Fires only for threaded replies under one of Jack's per-build cards;
     # top-level messages in #commercial-sales fall through to other routing.
-    cs_channel = os.environ.get("COMMERCIAL_SALES_CHANNEL", "")
     if (
         cs_channel
         and event.get("channel") == cs_channel

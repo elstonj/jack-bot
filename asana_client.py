@@ -238,6 +238,33 @@ def format_task_summary(tasks):
 ALLOWED_UPDATE_FIELDS = {"due_on", "due_at", "assignee", "completed", "name", "notes"}
 
 
+def create_task(project_gid, name, notes="", custom_fields=None):
+    """Create a new Asana task in `project_gid` and return (new_gid, error).
+
+    custom_fields is an optional dict of {asana_custom_field_gid: value}.
+    """
+    if not project_gid or not name:
+        return None, "missing project_gid or name"
+    payload = {"projects": [project_gid], "name": name}
+    if notes:
+        payload["notes"] = notes
+    if custom_fields:
+        payload["custom_fields"] = custom_fields
+    try:
+        resp = requests.post(
+            f"{ASANA_BASE}/tasks",
+            headers=_headers(),
+            json={"data": payload},
+            timeout=10,
+        )
+        if resp.status_code >= 400:
+            return None, f"HTTP {resp.status_code}: {resp.text[:300]}"
+        data = resp.json().get("data", {})
+        return data.get("gid"), None
+    except Exception as e:
+        return None, str(e)
+
+
 def update_task(task_gid, updates):
     """Update fields on an Asana task.
 
