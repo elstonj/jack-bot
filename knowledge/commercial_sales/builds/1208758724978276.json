@@ -1,0 +1,39 @@
+{
+  "asana_gid": "1208758724978276",
+  "asana_task_name": "S0 VTOL (Oklahoma)",
+  "customer": "Oklahoma State University",
+  "customer_contact": "Jamey D. Jacob, PhD",
+  "customer_email": "jdjacob@okstate.edu",
+  "receive_by": null,
+  "ship_to": null,
+  "items": [
+    {
+      "description": "S0 VTOL",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "estimate_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": "2024-11-14",
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Estimate 1336 sent 11/14/24 for S0 VTOL. Customer needs three separate systems (S2, E2, S0 VTOL) for funding purposes. Refurbished S2 shipped April 2025 (Invoice 1654, PAID). S0 VTOL awaiting PO approval; BST vendor setup completed. No invoice yet for S0 VTOL.",
+  "missing_fields": [
+    "ship_to",
+    "receive_by",
+    "parts"
+  ],
+  "last_evidence_date": "2026-04-14"
+}

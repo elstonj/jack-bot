@@ -1,0 +1,40 @@
+{
+  "asana_gid": "1211537088605200",
+  "asana_task_name": "SOCOM - CRADA for S0-AD Dev",
+  "customer": "USAF SOCOM",
+  "customer_contact": "TSgt Evan Wolff",
+  "customer_email": "evan.m.wolff.mil@socom.mil",
+  "receive_by": "2026-10-30",
+  "ship_to": null,
+  "items": [
+    {
+      "description": "S0-AD UAS (air-droppable variant for C-130 demo)",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "none",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "SOCOM/USAF development opportunity: S0-AD for C-130 air-drop demo in Fall 2026. Referenced by Dr. Cione (NOAA). TSgt Wolff interested in air-launched/air-dropped UAS capabilities. Internal working meeting held 2026-04-27 with SOCOM and 53rd Weather Squadron to define mission requirements.",
+  "missing_fields": [
+    "ship_to",
+    "estimate_date",
+    "payment_state",
+    "parts"
+  ],
+  "last_evidence_date": "2026-04-29"
+}

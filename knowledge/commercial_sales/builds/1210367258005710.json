@@ -1,0 +1,40 @@
+{
+  "asana_gid": "1210367258005710",
+  "asana_task_name": "NASA Ames - S3 (qty.2)",
+  "customer": "NASA Ames Research Center",
+  "customer_contact": "Will Wade",
+  "customer_email": "William.o.wade@nasa.gov",
+  "receive_by": null,
+  "ship_to": null,
+  "items": [
+    {
+      "description": "S3 Quadcopter",
+      "quantity": 2
+    }
+  ],
+  "payment_state": "estimate_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "NASA Ames procurement for 2x S3 units. Quote sent; estimated value $65,000. Lead status 'Maybe Later' \u2014 follow-up email needed.",
+  "missing_fields": [
+    "ship_to",
+    "receive_by",
+    "parts",
+    "estimate_date"
+  ],
+  "last_evidence_date": "2026-05-14"
+}

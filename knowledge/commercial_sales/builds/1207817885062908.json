@@ -1,0 +1,47 @@
+{
+  "asana_gid": "1207817885062908",
+  "asana_task_name": "Mercaterra Atlantic LLC",
+  "customer": "Mercaterra Atlantic LLC",
+  "customer_contact": "Ivan Vandog",
+  "customer_email": "iv@mercaterra.us",
+  "receive_by": null,
+  "ship_to": "Davis, CA 95616",
+  "items": [
+    {
+      "description": "Profiling Drone with WP-V3 Atmospheric Characterization Payload integration",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "none",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [
+    {
+      "name": "WP-V3 Atmospheric Characterization Payload (multidimensional ultrasonic anemometer)",
+      "ordered": false,
+      "received": false,
+      "vendor": "",
+      "order_date": null
+    }
+  ],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Urgent RFQ for custom atmospheric profiling UAS with 5+ lbs payload capacity, 20+ min flight time, and integrated WP-V3 sensor. Customer deadline was 7/10/24; marked 'Closed' in Asana with no response recorded.",
+  "missing_fields": [
+    "estimate_date",
+    "receive_by",
+    "items"
+  ],
+  "last_evidence_date": "2024-07-08"
+}

@@ -1,0 +1,57 @@
+{
+  "asana_gid": "1206482266586173",
+  "asana_task_name": "NASA Ames",
+  "customer": "NASA Ames Research Center",
+  "customer_contact": "Randy Hobbs",
+  "customer_email": "r.hobbs@nasa.gov",
+  "receive_by": null,
+  "ship_to": null,
+  "items": [
+    {
+      "description": "S2 Simulator",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "paid",
+  "build_state": "complete",
+  "ship_state": "delivered",
+  "estimate_date": null,
+  "invoice_date": "2024-11-04",
+  "invoice_amount": 3470.0,
+  "invoice_number": "1633",
+  "paid_date": "2025-08-22",
+  "parts": [
+    {
+      "name": "Iridium components (transceiver/antenna)",
+      "ordered": false,
+      "received": false,
+      "vendor": null,
+      "order_date": null
+    },
+    {
+      "name": "Ground stations (2x)",
+      "ordered": false,
+      "received": false,
+      "vendor": null,
+      "order_date": null
+    },
+    {
+      "name": "Spare tail with antenna capability",
+      "ordered": false,
+      "received": false,
+      "vendor": null,
+      "order_date": null
+    }
+  ],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "S2 Simulator purchased and paid (Inv #1633, $3,470 on 2024-11-04, paid 2025-08-22). Contact transitioned from Isaac Anderson to Randy Hobbs with Will Wade, Farina Remo, Hai-Nam Tran. April 2026 Slack discussion re: adding Iridium components to aircraft S20009, 2x ground stations, and spare tail \u2014 estimate requested but no evidence of order yet. Isaac Anderson's unit also received warranty repairs (flap servo, payload computer, mux board) at no charge.",
+  "missing_fields": [],
+  "last_evidence_date": "2026-05-05"
+}

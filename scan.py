@@ -37,7 +37,7 @@ if env_path.exists():
                 os.environ[key] = value
 
 
-AVAILABLE_SOURCES = ["asana", "toggl", "contacts", "slack", "email", "drive", "proposals", "budgets", "quickbooks", "qbo_by_class", "purchasing", "financial", "projects", "project_state", "enrich-contacts", "costs"]
+AVAILABLE_SOURCES = ["asana", "toggl", "contacts", "slack", "email", "drive", "proposals", "budgets", "quickbooks", "qbo_by_class", "purchasing", "financial", "projects", "project_state", "enrich-contacts", "costs", "commercial_sales"]
 
 
 def scan_asana(mode):
@@ -289,6 +289,30 @@ def scan_project_state(mode):
     print(f"\nProject-state scan complete: {len(paths)} files in {elapsed:.0f}s")
 
 
+def scan_commercial_sales(mode):
+    from scanners.commercial_sales_scanner import scan_all
+    print(f"\n{'='*60}")
+    print(f"COMMERCIAL SALES SCAN — mode: {mode}")
+    print(f"{'='*60}\n")
+
+    # Slack client for #commercial-sales history (optional but recommended)
+    slack_client = None
+    try:
+        from slack_sdk import WebClient
+        slack_client = WebClient(token=os.environ["SLACK_BOT_TOKEN"])
+    except Exception as e:
+        print(f"[WARN] No Slack client available, skipping channel history: {e}")
+
+    start = time.time()
+    result = scan_all(mode=mode, slack_client=slack_client)
+    elapsed = time.time() - start
+
+    print(f"\nCommercial sales scan complete in {elapsed:.0f}s")
+    print(f"  Builds:           {result['builds']}")
+    print(f"  Support cases:    {result['support']}")
+    print(f"  Unmapped domains: {result['unmapped_domains']}")
+
+
 def scan_enrich_contacts(mode):
     from scanners.contact_enrichment import enrich
     print(f"\n{'='*60}")
@@ -318,6 +342,7 @@ SCANNERS = {
     "project_state": scan_project_state,
     "enrich-contacts": scan_enrich_contacts,
     "costs": scan_costs,
+    "commercial_sales": scan_commercial_sales,
 }
 
 
@@ -374,6 +399,11 @@ def main():
         },
         "enrich-contacts": {},  # reads existing knowledge files + Claude
         "costs": {},  # reads existing knowledge files + Claude
+        "commercial_sales": {
+            "ASANA_ACCESS_TOKEN": "Asana API",
+            "GOOGLE_SERVICE_ACCOUNT_JSON": "Google API (info@/sales@/support@)",
+            "SLACK_BOT_TOKEN": "Slack API (#commercial-sales history)",
+        },
     }
 
     sources = AVAILABLE_SOURCES if args.source == "all" else [args.source]

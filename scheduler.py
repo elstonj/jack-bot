@@ -14,6 +14,7 @@ from eldora import check_and_post as check_eldora
 from marketing_check import check_and_post as check_marketing
 from weather import format_weather
 from google_client import get_latest_email_by_subject
+from commercial_sales import load_builds, load_support_cases, render_digest
 
 
 PURCHASING_REFORMAT_PROMPT = """\
@@ -184,6 +185,53 @@ def post_purchasing_summary():
             pass
 
 
+def post_commercial_sales_digest():
+    """Daily morning post to #commercial-sales summarizing customer builds + support.
+
+    Loads pre-scanned knowledge/commercial_sales/{builds,support}/*.json (refreshed
+    nightly by `python scan.py commercial_sales --mode incremental`) and renders
+    one card per active Build / SupportCase. No LLM call at post time — purely
+    a deterministic render of pre-extracted records.
+    """
+    channel = os.environ.get("COMMERCIAL_SALES_CHANNEL")
+    if not channel:
+        return  # Not configured; skip silently
+    client = WebClient(token=os.environ["SLACK_BOT_TOKEN"])
+    try:
+        builds = load_builds()
+        cases = load_support_cases()
+        if not builds and not cases:
+            return  # Nothing to report — no empty post
+
+        # Build a name → slack_id map so the @-pings in missing-info callouts
+        # resolve to actual Slack mentions
+        name_to_slack = {}
+        try:
+            from user_map import build_user_map
+            users = build_user_map(client)
+            for u in users:
+                if u.get("name") and u.get("slack_user_id"):
+                    name_to_slack[u["name"]] = u["slack_user_id"]
+                    # Also map first-name so "Beck"/"Meredith"/"Nate" resolve
+                    first = u["name"].split()[0] if u["name"] else ""
+                    if first and first not in name_to_slack:
+                        name_to_slack[first] = u["slack_user_id"]
+        except Exception:
+            pass
+
+        text = render_digest(builds, cases, name_to_slack=name_to_slack)
+        # Slack hard-caps a single message at 40k chars; long pipelines need splitting
+        if len(text) > 39000:
+            text = text[:39000] + "\n…(truncated)"
+        client.chat_postMessage(channel=channel, text=text)
+    except Exception as e:
+        from knowledge import store_entry
+        try:
+            store_entry(client, "ERROR", f"commercial-sales digest post failed: {e}")
+        except Exception:
+            pass
+
+
 def post_flight_weather():
     """Daily 8 AM MT weather report for the flight-testing channel."""
     channel = os.environ.get("FLIGHT_TESTING_CHANNEL", "#flight-testing")
@@ -267,6 +315,17 @@ def start_scheduler():
         hour=8,
         minute=15,
         misfire_grace_time=3600,  # 1 hr: still useful later in the morning
+    )
+    # Commercial sales & support pipeline digest to #commercial-sales.
+    # Renders pre-scanned knowledge/commercial_sales/ JSON records — no LLM
+    # call at post time, so it's safe to fire concurrently with the 8:00 daily.
+    scheduler.add_job(
+        post_commercial_sales_digest,
+        "cron",
+        day_of_week="mon-fri",
+        hour=8,
+        minute=2,
+        misfire_grace_time=1800,  # 30 min: still useful a bit late
     )
     scheduler.start()
     return scheduler
