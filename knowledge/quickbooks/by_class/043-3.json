@@ -4,41 +4,55 @@
     "[043-3] By Light Halo"
   ],
   "period": {
-    "start": "2026-05-12",
-    "end": "2026-05-14"
+    "start": "2026-05-14",
+    "end": "2026-05-15"
   },
   "totals": {
-    "revenue": 47894.0,
-    "expenses": 0.0,
-    "by_category": {}
+    "revenue": 0.0,
+    "expenses": 48.07,
+    "by_category": {
+      "DIRECT COSTS:DC-Direct Material Purchases": 33.42,
+      "Inventory Asset": 11.83,
+      "FACILITIES:FA-Shop Supplies": 2.81
+    }
   },
-  "invoices": [
+  "invoices": [],
+  "bills": [],
+  "purchases": [
     {
-      "type": "Invoice",
-      "date": "2026-05-13",
-      "doc_number": "1754",
-      "total": 47894.0,
-      "attributed": 47894.0,
+      "type": "Purchase",
+      "date": "2026-05-14",
+      "doc_number": "0513JELSTON",
+      "total": 366.29,
+      "attributed": 48.07,
       "vendor": "",
-      "customer": "[043-3] By Light Halo",
-      "balance": 47894.0,
-      "memo": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request. Josh placed the order directly. See project listed under each item purchased",
       "lines": [
         {
-          "amount": 47894.0,
-          "account": "",
-          "description": "Design tested Halo airframe and CAD step files."
+          "amount": 206.62,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "For IDIQ 2026"
         },
         {
-          "amount": 47894.0,
-          "account": "",
+          "amount": 90.17,
+          "account": "Inventory Asset",
+          "description": "Future S3 Sales"
+        },
+        {
+          "amount": 48.07,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "For By Light"
+        },
+        {
+          "amount": 21.43,
+          "account": "FACILITIES:FA-Shop Supplies",
           "description": ""
         }
       ]
     }
   ],
-  "bills": [],
-  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

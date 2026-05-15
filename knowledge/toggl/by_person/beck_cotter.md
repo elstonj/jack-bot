@@ -1,27 +1,26 @@
 # Beck Cotter — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 177.5 hours
-- **Primary projects:** General Operations (86.3h), Proposals (91.2h), PTO (16.0h)
-- **Time period covered:** Ongoing tracking with latest batch of 6 entries (24.0h)
+- **Total hours tracked:** 193.5 hours
+- **Primary projects:** Proposals (99.2h), General Operations (94.3h), PTO (16.0h)
+- **Time period covered:** Ongoing tracking with latest batch of 4 entries (16.0h)
 
 ## Project Breakdown
 | Project | Hours | Percentage | Client |
 |---------|-------|-----------|--------|
-| [001-13] Proposals | 91.2 | 51% | [001] IRAD |
-| [001-13] General Operations | 86.3 | 49% | Overhead |
-| [001-20] PTO | 16.0 | 11% | — |
+| [001-13] Proposals | 99.2 | 51% | [001] IRAD |
+| [001-13] General Operations | 94.3 | 49% | Overhead |
+| [001-20] PTO | 16.0 | 9% | — |
 
 ## Recent Activity
-- **Latest entries:** Six entries totaling 24.0 hours—strict alternating pattern of 4.0h General Operations (no description) and 4.0h Proposals (no description)
-- **Consistent tagging:** Previous Proposals entries maintained "mostly genesis" tag, though no tags present in this batch—IRAD/Genesis project tracking continues
-- **No task descriptions:** All six entries lack descriptions; previous batch included "mostly genesis" tagging that appears to have been dropped in current tracking
-- Perfect 50/50 split maintained between operational and proposal work (12.0h each)
+- **Latest entries:** Four entries totaling 16.0 hours—strict alternating pattern of 4.0h General Operations and 4.0h Proposals (no descriptions)
+- **Consistent tagging:** Previous "mostly genesis" tags on Proposals entries have been discontinued; current batch shows no tags or descriptions
+- **Perfect 50/50 split maintained:** Latest batch continues exact parity (8.0h each project)
 
 ## Patterns
-- **Perfect 50/50 balance:** Work alternates in exact parity between General Operations and Proposals—demonstrates deliberate dual-priority allocation with no drift toward either project
-- **Standardized 4.0-hour blocks:** All entries consistently use half-day allocations, confirming established practice across multiple tracking batches
-- **Reduced documentation trend:** Prior batches included "mostly genesis" tagging on Proposals; current batch shows no tags or descriptions—suggests either shift to minimal documentation or tagging system change
-- **Stable project portfolio:** No new projects; work remains confined to overhead operations and IRAD proposal development
+- **Perfect 50/50 balance:** Work consistently alternates in exact parity between General Operations and Proposals across all tracking batches—demonstrates deliberate dual-priority allocation with no drift
+- **Standardized 4.0-hour blocks:** All entries use half-day allocations; pattern consistent across entire tracking history
+- **Reduced documentation trend:** Prior batches included "mostly genesis" tagging on Proposals; current and recent batches show no tags or descriptions—indicates shift to minimal documentation
+- **Stable project portfolio:** Work remains confined to overhead operations and IRAD proposal development with no new projects
 - **Unchanged PTO:** 16.0 hours remains discrete; no new time-off entries
-- **Focus areas:** Dual priority on General Operations overhead and IRAD Proposals development continues with flawless 50/50 maintenance—pattern validates across all tracking batches with increasing emphasis on Proposals (now 51% vs. 41% in prior summary)
+- **Focus areas:** Dual priority on General Operations overhead and IRAD Proposals development continues with flawless 50/50 maintenance across all tracking periods

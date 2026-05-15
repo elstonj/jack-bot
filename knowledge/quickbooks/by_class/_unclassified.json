@@ -4,20 +4,19 @@
     ""
   ],
   "period": {
-    "start": "2026-05-12",
-    "end": "2026-05-14"
+    "start": "2026-05-14",
+    "end": "2026-05-15"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 63669.53,
+    "expenses": 14351.41,
     "by_category": {
-      "GENERAL & ADMINISTRATIVE:GA-Legal Fees": 44964.5,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 10773.62,
-      "FRINGE:FR-Employee Healthcare": 6498.51,
-      "DIRECT COSTS:DC-Direct Material Purchases": 666.36,
-      "FACILITIES:FA-Utilities Expense": 581.08,
-      "Inventory Asset": 166.59,
-      "FACILITIES:FA-Office Supplies": 18.87
+      "Inventory Asset": 2434.14,
+      "DIRECT COSTS:DC-Direct Material Purchases": 972.23,
+      "FACILITIES:FA-Shop Supplies": 92.17,
+      "Uncategorized Asset": 64.19,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 15.06
     }
   },
   "invoices": [],
@@ -42,19 +41,19 @@
     },
     {
       "type": "Bill",
-      "date": "2026-05-12",
-      "doc_number": "202535",
-      "total": 44964.5,
-      "attributed": 44964.5,
-      "vendor": "KO Law PC",
+      "date": "2026-05-14",
+      "doc_number": "",
+      "total": 1700.0,
+      "attributed": 1700.0,
+      "vendor": "Amprius Technoloies",
       "customer": "",
       "balance": 0.0,
       "memo": "",
       "lines": [
         {
-          "amount": 44964.5,
-          "account": "GENERAL & ADMINISTRATIVE:GA-Legal Fees",
-          "description": "Investment Transaction (4/2/26 to 4/30/26) 60hrs + Outside council fee"
+          "amount": 1700.0,
+          "account": "Inventory Asset",
+          "description": "SA112 x 200 (Quote #00001879)"
         }
       ]
     }
@@ -90,55 +89,139 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-05-12",
+      "date": "2026-05-14",
+      "doc_number": "0513JELSTON",
+      "total": 366.29,
+      "attributed": 111.6,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request. Josh placed the order directly. See project listed under each item purchased",
+      "lines": [
+        {
+          "amount": 206.62,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "For IDIQ 2026"
+        },
+        {
+          "amount": 90.17,
+          "account": "Inventory Asset",
+          "description": "Future S3 Sales"
+        },
+        {
+          "amount": 48.07,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "For By Light"
+        },
+        {
+          "amount": 21.43,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-14",
       "doc_number": "",
-      "total": 18.87,
-      "attributed": 18.87,
+      "total": 70.0,
+      "attributed": 70.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request. Josh Fromm made a request via email.",
+      "lines": [
+        {
+          "amount": 70.0,
+          "account": "Inventory Asset",
+          "description": "For future S3 sales to customers (UMES, Barbados, INSTAAR)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-14",
+      "doc_number": "",
+      "total": 97.85,
+      "attributed": 79.25,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "FEDEX37097183 - 4699",
+      "lines": [
+        {
+          "amount": 18.6,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Amprius Technologies shipment for Navy 550-1 (order 11674)"
+        },
+        {
+          "amount": 79.25,
+          "account": "Uncategorized Asset",
+          "description": "Amprius Technologies shipment for future S3 sales (order 11675)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-14",
+      "doc_number": "",
+      "total": 65.97,
+      "attributed": 65.97,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "AMAZON RETA* BF1JI3E01 - 4617",
       "lines": [
         {
-          "amount": 18.87,
-          "account": "FACILITIES:FA-Office Supplies",
-          "description": "Toilet paper"
+          "amount": 45.98,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "SoloGood FPV Transmitter Bag Carry Case x 2"
+        },
+        {
+          "amount": 19.99,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "3M Blenderm Transparent"
         }
       ]
     },
     {
       "type": "Purchase",
-      "date": "2026-05-12",
+      "date": "2026-05-14",
       "doc_number": "",
-      "total": 581.08,
-      "attributed": 581.08,
+      "total": 19.67,
+      "attributed": 19.67,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "COMCAST-XFINITY  CABLE SVCS 260511 5394880         JACK *ELSTON",
+      "memo": "AMAZON RETA* BF1JI3E01 - 4617",
       "lines": [
         {
-          "amount": 581.08,
-          "account": "FACILITIES:FA-Utilities Expense",
-          "description": "COMCAST-XFINITY  CABLE SVCS 260511 5394880         JACK *ELSTON"
+          "amount": 19.67,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "3M Medical Tape Blenderm Plastic 2\" X 5 Yards"
         }
       ]
     },
     {
       "type": "Purchase",
-      "date": "2026-05-12",
-      "doc_number": "",
-      "total": 6498.51,
-      "attributed": 6498.51,
+      "date": "2026-05-14",
+      "doc_number": "68728",
+      "total": 1037.48,
+      "attributed": 698.35,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "BUSINESS TO BUSINESS ACH UNITED HEALTHCAR EDI PAYMTS        XXXXXXXX6330    08133~IEA*1*260508131~",
+      "memo": "",
       "lines": [
         {
-          "amount": 6498.51,
-          "account": "FRINGE:FR-Employee Healthcare",
-          "description": "BUSINESS TO BUSINESS ACH UNITED HEALTHCAR EDI PAYMTS        XXXXXXXX6330    08133~IEA*1*260508131~"
+          "amount": 698.35,
+          "account": "Inventory Asset",
+          "description": "Future S3 Sales"
+        },
+        {
+          "amount": 339.13,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": ""
         }
       ]
     }

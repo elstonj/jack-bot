@@ -4,33 +4,31 @@
 - Client: Overhead
 - Active/inactive status: Active
 - Billable status: No (overhead/internal operations)
-- Total hours tracked: 909.2 hours (880.5 + 28.7)
+- Total hours tracked: 928.1 hours (909.2 + 18.9)
 
 ## Team Allocation
-- Meredith Needham: 712.0 hours (78.3% of tracked time)
-- Jack Elston: 90.9 hours (10.0% of tracked time)
-- Beck Cotter: 86.3 hours (9.5% of tracked time)
-- Stachura: 14.6 hours (1.6% of tracked time)
-- Dan: 10.5 hours (1.2% of tracked time)
+- Meredith Needham: 721.0 hours (77.6% of tracked time)
+- Jack Elston: 94.3 hours (10.2% of tracked time)
+- Beck Cotter: 94.3 hours (10.2% of tracked time)
+- Stachura: 15.6 hours (1.7% of tracked time)
+- Dan: 10.5 hours (1.1% of tracked time)
 - Ethan Domagala: 5.6 hours (0.6% of tracked time)
 - Primary contributor: Meredith Needham
 
 ## Activity Timeline
-Consistent operations and communications work with emerging patterns:
-- **Meredith Needham** (latest batch): 12.2 hours "Operations/Admin"—sustained operational management leadership
-- **Beck Cotter** (latest batch): 12.0 hours total—**all undescribed (three entries: 4.0h + 4.0h + 4.0h)**; consistent pattern of zero documentation
-- **Jack Elston** (latest batch): 1.5 hours "Black Swift Industrial Plan: Final Review Prior to Close"—shift from email/agreements to project-specific review work
-- **Ethan Domagala**: 1.0 hours "Weekly Meeting"
-- **Dan**: 1.0 hours undescribed
+Consistent operations and communications work with escalating documentation concerns:
+- **Meredith Needham** (latest batch): 6.5 hours "Operations/Admin"—sustained operational management across three entries
+- **Beck Cotter** (latest batch): 8.0 hours total—**all undescribed (two entries: 4.0h + 4.0h)**; documentation failure continues unabated
+- **Jack Elston** (latest batch): 3.4 hours "Answering Emails"—return to communications work (shift from project-specific review)
 - **Stachura**: 1.0 hours undescribed
 
 ## Insights
-- **Primary work type**: General operations/admin (Meredith); project review work (Jack Elston); undocumented contributions (Beck Cotter, Dan, Stachura)
-- **Jack Elston evolution**: Transitioned from "Black Swift Services Agreement" to "Black Swift Industrial Plan" review—indicates ongoing involvement in strategic/closing activities
-- **Documentation concern (CRITICAL—ESCALATING)**:
-  - **Beck Cotter**: 12.0 hours undescribed in this batch alone; **13.9% of Beck's total tracked time (86.3h) lacks context**—**CRITICAL ISSUE: 100% of recent entries undescribed; represents complete documentation failure for this contributor**
-  - **Dan**: 5.0 hours undescribed; 47.6% of total tracked time (10.5h) without context—**persistent pattern; no improvement**
-  - **Stachura**: 2.0 hours undescribed; ~13.7% of total tracked time without documentation
-  - **ACTION REQUIRED (URGENT)**: Beck Cotter requires immediate intervention—recent batch shows systematic refusal/failure to document work. Mandatory compliance enforcement needed across all team members.
-- **Work pattern**: Stable operational baseline maintained by Meredith (~78%); Jack Elston sustaining strategic/project involvement (~10%); Beck Cotter contributing significant time but with zero accountability/documentation; secondary contributors unchanged
+- **Primary work type**: General operations/admin (Meredith); email/communications (Jack Elston); undocumented contributions (Beck Cotter, Stachura)
+- **Jack Elston shift**: Reverted from "Black Swift Industrial Plan" review to routine email communications—may indicate project phase completion or prioritization change
+- **Documentation concern (CRITICAL—ESCALATING FURTHER)**:
+  - **Beck Cotter**: 8.0 hours undescribed in this batch; **21.9 hours undescribed across recent two batches**; **23.2% of Beck's total tracked time (94.3h) now lacks context**—**ESCALATION: 100% of recent entries continue to be undescribed; systematic pattern indicates non-compliance**
+  - **Stachura**: 2.0 hours now undescribed; ~12.8% of total tracked time without documentation—persistent pattern
+  - **Dan**: Unchanged at 5.0 hours undescribed; 47.6% of total time without context
+  - **ACTION REQUIRED (URGENT—ESCALATING)**: Beck Cotter's documentation failure is now chronic and systematic. Two consecutive batches with 100% undescribed entries (16.0h combined). Requires immediate intervention with compliance enforcement and potential disciplinary action if not corrected.
+- **Work pattern**: Stable operational baseline maintained by Meredith (~77.6%); Jack Elston sustaining communications/operational support (~10.2%); Beck Cotter contributing significant hours with zero accountability; secondary contributors stable
 - **Team composition**: Stable; no personnel changes

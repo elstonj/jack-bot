@@ -1,0 +1,45 @@
+{
+  "asana_gid": "1210051293082791",
+  "asana_task_name": "[1352] Vanderbilt University-E2 System",
+  "customer": "Vanderbilt University",
+  "customer_contact": "",
+  "customer_email": "",
+  "receive_by": null,
+  "ship_to": "",
+  "items": [
+    {
+      "description": "E2 System",
+      "quantity": 1
+    },
+    {
+      "description": "Soil Moisture",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "estimate_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": "",
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": "",
+  "carrier": "",
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Quote sent to contact who was at CU but moving to Vanderbilt. Estimated value $71,494. First contact 2025-03-14. No recent activity; QBO shows no matching invoice for Vanderbilt University.",
+  "missing_fields": [
+    "customer_contact",
+    "customer_email",
+    "ship_to",
+    "receive_by",
+    "parts"
+  ],
+  "last_evidence_date": "2026-05-14"
+}

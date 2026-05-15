@@ -29,11 +29,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Estimate 1336 sent 11/14/24 for S0 VTOL. Customer needs three separate systems (S2, E2, S0 VTOL) for funding purposes. Refurbished S2 shipped April 2025 (Invoice 1654, PAID). S0 VTOL awaiting PO approval; BST vendor setup completed. No invoice yet for S0 VTOL.",
+  "notes": "Estimate 1336 sent 11/14/24. Customer requested three separate systems (S2, E2, S0 VTOL) broken into three estimates for funding purposes. Refurbished S2 delivered and paid in April 2025. S0 VTOL estimate unofficially approved pending PO; BST vendor registration completed. Awaiting customer purchase order.",
   "missing_fields": [
     "ship_to",
     "receive_by",
+    "items",
     "parts"
   ],
-  "last_evidence_date": "2026-04-14"
+  "last_evidence_date": "2026-05-12"
 }

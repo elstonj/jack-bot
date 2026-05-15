@@ -1,9 +1,8 @@
 # Ben Busby — Email Patterns
 
-Only 5 emails found in scanned period.
+Only 4 emails found in scanned period.
 
-- Wed, 13 May 2026 20:14:36 +0000: Re: Fw: Use of aircraft in demo (from: Michael Rhodes <michael.e.rhodes@colorado.edu>)
-- Wed, 13 May 2026 14:13:54 -0600: Re: Fw: Use of aircraft in demo (from: Ben Busby <ben.busby@blackswifttech.com>)
-- Wed, 13 May 2026 14:05:34 -0600: Re: Fw: Use of aircraft in demo (from: Daniel Prendergast <daniel.prendergast@blackswifttech.com>)
-- Wed, 13 May 2026 15:45:53 +0000: Direct Deposit Advice (from: "'acctpay@nd.edu' via Administration" <admin@blackswifttech.com>)
-- Tue, 12 May 2026 11:35:44 -0400: 5G speed that keeps up with your workday (from: "AT&T Business" <business@responses.att-mail.com>)
+- Thu, 14 May 2026 12:31:05 -0500 (CDT): Dodge Data shares important industry insights (from: Egnyte <programs@egnyte.com>)
+- Thu, 14 May 2026 17:17:12 +0000: Today was a good day at work…or was it? (from: "'Concentra' via Administration" <admin@blackswifttech.com>)
+- Thu, 14 May 2026 14:20:56 +0000: Lockheed Martin ToI - 2026 R2 (from: "'FC-Lmc, SBIR' via Administration" <admin@blackswifttech.com>)
+- Thu, 14 May 2026 08:51:09 +0000: [ACTION POSSIBLY REQUIRED] Your Slack Support Data and FedRAMP (from: "'Slack' via Administration" <admin@blackswifttech.com>)

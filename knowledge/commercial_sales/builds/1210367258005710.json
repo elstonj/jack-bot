@@ -3,24 +3,53 @@
   "asana_task_name": "NASA Ames - S3 (qty.2)",
   "customer": "NASA Ames Research Center",
   "customer_contact": "Will Wade",
-  "customer_email": "William.o.wade@nasa.gov",
-  "receive_by": null,
+  "customer_email": "william.o.wade@nasa.gov",
+  "receive_by": "2026-09-30",
   "ship_to": null,
   "items": [
     {
-      "description": "S3 Quadcopter",
-      "quantity": 2
+      "description": "S2 Unmanned Aircraft System (complete system and spare parts)",
+      "quantity": 1
     }
   ],
-  "payment_state": "estimate_sent",
-  "build_state": "none",
+  "payment_state": "invoice_sent",
+  "build_state": "parts_ordered",
   "ship_state": "none",
   "estimate_date": null,
-  "invoice_date": null,
-  "invoice_amount": null,
-  "invoice_number": null,
+  "invoice_date": "2024-11-04",
+  "invoice_amount": 3470.0,
+  "invoice_number": "1633",
   "paid_date": null,
-  "parts": [],
+  "parts": [
+    {
+      "name": "S2 airframe and components",
+      "ordered": true,
+      "received": false,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    },
+    {
+      "name": "Spare parts (including tail, wings, fuse)",
+      "ordered": true,
+      "received": false,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    },
+    {
+      "name": "Ground stations (qty 2)",
+      "ordered": true,
+      "received": false,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    },
+    {
+      "name": "Iridium components (optional add)",
+      "ordered": false,
+      "received": false,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    }
+  ],
   "tracking_number": null,
   "carrier": null,
   "shipped_date": null,
@@ -29,12 +58,9 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "NASA Ames procurement for 2x S3 units. Quote sent; estimated value $65,000. Lead status 'Maybe Later' \u2014 follow-up email needed.",
+  "notes": "NASA Ames S2 follow-on. PO 80NSSC25PC031 executed with Sep 30, 2026 delivery target. S20009 unit identified; assembling parts lists and determining replacements for obsolete components. FY25 funds may require earlier delivery per Hai-Nam Tran. Iridium add-on under evaluation.",
   "missing_fields": [
-    "ship_to",
-    "receive_by",
-    "parts",
-    "estimate_date"
+    "ship_to"
   ],
   "last_evidence_date": "2026-05-14"
 }

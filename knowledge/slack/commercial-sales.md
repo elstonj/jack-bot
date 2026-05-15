@@ -17,8 +17,10 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Ben Busby (team member)
 - Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead)
 - Dan H (CU - external customer, E2 battery interest)
+- Bassil (customer - methane research, travel May 19-June 9, 2026)
+- Stefan (Atmofacts - external partner, methane algorithm tuning)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: May 12, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: May 14, 2026.
 
 ---
 
@@ -100,23 +102,14 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Nate completed XML verification and flap servo replacement on aircraft
 - Work validated against S2 master setup specifications
 
-### Gimbal & Camera Decisions
+### Customer Flight Campaign & Payload Decisions
 
-**Gimbal Lens Compatibility Testing (January 2021-2022)**
-- Multiple lens testing required: 16mm, 20mm, 35mm, 50mm, 85mm f/1.8
-- 85mm f/1.8 heavy lens (484g) causes balance issues; requires 200g ballast repositioning
-- Smaller lenses cause vibration issues
-- Zoom lenses incompatible with gimbal
-- Decision: Create setup chart for customers on weight placement for different lenses
-- Ballast movement: 200g between pitch and roll positions depending on lens
-
-**Thermal/Photogrammetry Lens FOV Matching (2024)**
-- Selected FLIR Vue Pro R with 45° FOV (13mm lens)
-- Paired with Sony 20mm lens for photogrammetry to match narrower FLIR FOV
-- Sony 16mm = 73°, Sony 20mm = 61° selected for consistency
-
-### Payload & Sensor Decisions
-
-**TeAx Thermal Camera Frame Skip Setting (2022)**
-- Original: ~1.1 FPS skip-8-frames mode to overcome WiFi download limitations
-- Attempted: Single-capture mode
+**Bassil Methane Research Flight Campaign (May 2026)**
+- Customer travel window: May 19 - June 9, 2026; latest possible date for 4th flight: October 2026
+- **Flight 3 Scheduling Challenge (May 14, 2026):** 
+  - Beck Cotter inquired about scheduling Flight 3 for late June or July
+  - Jack Elston noted scheduling conflict with Ottawa demo
+  - Maciej Tromba stated June flight would require S2 (lighter S3 not ready by then)
+  - **Jack Elston preference:** Avoid S2 - cited previous difficult/stressful operations ("that was very stressful / hard to operate")
+  - **Jack Elston recommendation:** Propose Fall 2026 or Spring 2027 instead, noting S2 operations are problematic for this mission
+  - **Issue:** Stefan (Atmofacts) claims to have tuned methane algorithm for S2; may need updates for S

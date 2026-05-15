@@ -8,11 +8,11 @@
   "ship_to": null,
   "items": [
     {
-      "description": "S2 Unmanned Aircraft",
+      "description": "S2",
       "quantity": 2
     },
     {
-      "description": "Electric Field Measurement Payload",
+      "description": "Electric Field Measurement payload",
       "quantity": 1
     }
   ],
@@ -21,7 +21,7 @@
   "ship_state": "none",
   "estimate_date": "2023-08-21",
   "invoice_date": null,
-  "invoice_amount": null,
+  "invoice_amount": 279188.97,
   "invoice_number": null,
   "paid_date": null,
   "parts": [],
@@ -33,10 +33,10 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Estimate created August 21, 2023 for two S2 aircraft with multiple payloads including custom Electric Field Measurement payload. No updates since estimate. International customer in Armenia.",
+  "notes": "Estimate created August 21, 2023 for two S2 aircraft with Electric Field Measurement payload. No updates since estimate; status remains at email out.",
   "missing_fields": [
-    "receive_by",
     "ship_to",
+    "receive_by",
     "parts"
   ],
   "last_evidence_date": "2023-08-21"

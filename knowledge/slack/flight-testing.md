@@ -43,10 +43,8 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
   - S2 flight plan parameters: CU S2 `Limits` tab `Flight Path` maximum value verified/set to 9 degrees
   - Alex Lomis confirmed to provide video/AV equipment for Friday operations
   - Log collection from CU flights prioritized for battery performance analysis during takeoff climbouts
+- **May 14, 2026:** S1-VTOL failure testing comprehensive test plan approved for May 15 flight operations; includes mag failure landing (gyro integration), loss of laser on landing, low battery flight terminate with transition, joystick transition, lost GPS, and loss of engine in flight. Loss of pitot and loss of pitot + GPS deferred due to simulation crashes; Jack Elston approved conducting tests at higher altitude to minimize takeover risk. S1-VTOL failure testing to be developed into customer training scenario after validation.
+- **May 14, 2026:** Emergency procedures training expansion approved by Dan Prendergast and Jack Elston; proposal to include 4G negative dive and loss-of-system scenarios in standard customer training curriculum
 
 ### Firmware & Code Management
-- **October 2020:** Angle-to-rate loop gains critical safety parameter — develop (8,8,3) vs. master (4,4,1.5) discrepancy required close monitoring
-- **February 2021:** Tablet app parameter validation feature added as non-intrusive compromise after initial disagreement on comparison button inclusion
-- **February 2021:** S1-5 reverted from develop to master code due to IAS calculation stall/launch problems
-- **March 2024:** Feature branches (feature/ias_clog_new_detector, feature/dronetag) approved for testing; feature/s3_mass_model branch merged into develop with identified firmware bugs fixed (3/24)
-- **February 2025:** S0-VTOL takeoff default set to 50m for testing; S1-22 tail offset mechanically adjusted to 4
+- **October 2020:** Angle-to-rate loop gains critical safety parameter — develop (8,8,3) vs

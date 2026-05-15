@@ -3,29 +3,33 @@
 ## Overview
 - **Owner:** Dan Prendergast
 - **Purpose:** Track required maintenance actions across company aircraft fleet
-- **Aircraft in scope:** E20006, E20009, E20014, S10022, S10005, S20009, S20004, S30001
-- **Status:** Active (minimal activity)
+- **Aircraft in scope:** E20006, E20009, E20014, S10022, S10005, S20009, S20004, S30001 (plus S10021, now active)
+- **Status:** Active
 - **Dollar value:** Not specified
-- **Timeline:** No defined project timeline
+- **Timeline:** No defined project timeline; current task due 2026-05-18
 
 ## Key Deliverables & Milestones
 None defined.
 
 ## Task Summary
 - **Total tasks:** 1 open, 0 completed
+- **Tasks by assignee:**
+  - Jack Elston: 1 open task (0% completion)
 - **Current open task:**
-  - "Test issue ***" (Unassigned, no due date)
-    - Work type: Repair
-    - Aircraft status: Up (Operational)
-    - QC Required: Yes
-    - Affected aircraft: E20006
-    - Issue type: Hardware
+  - "Fix AP on S10021" (Jack Elston, Due: 2026-05-18)
+    - Work Type: Fix
+    - Aircraft Status: Down (Grounded)
+    - QC Required: No
+    - Affected Aircraft: S10021
+    - Issue Type: Hardware
+    - Description: Autopilot doesn't boot up after swap
 
 ## Recent Activity
-Single test/placeholder task present with no due date or assignment. No recent completions.
+Single active maintenance task assigned to Jack Elston. Aircraft S10021 is currently grounded pending autopilot hardware repair.
 
 ## Notes & Context
 - Project structure uses aircraft tail numbers as section headers (List view)
-- Custom fields configured: Repair vs New Feature, Aircraft Up vs Down, QC Required
-- The open task appears to be a template or placeholder ("Test issue ***") rather than an active maintenance item — likely needs to be deleted or replaced with real maintenance tasks
-- **Recommendation:** Verify whether this task should be archived and populate the project with actual fleet maintenance requirements organized by aircraft tail number
+- Custom fields configured: Repair vs New Feature, Aircraft Up vs Down, QC Required, Hardware/Software distinction
+- **Note:** S10021 appears in active task but was not listed in original aircraft scope (E20006, E20009, E20014, S10022, S10005, S20009, S20004, S30001) — may indicate fleet expansion or scope update
+- Previous placeholder task ("Test issue ***") has been replaced with a real maintenance item
+- The autopilot repair is a hardware issue with no QC requirement, and the aircraft is grounded until complete

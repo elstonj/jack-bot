@@ -8,7 +8,7 @@
   "ship_to": "Davis, CA 95616",
   "items": [
     {
-      "description": "Profiling Drone with WP-V3 Atmospheric Characterization Payload integration",
+      "description": "Profiling Drone with WP-V3 Atmospheric Characterization Payload (multidimensional ultrasonic anemometer)",
       "quantity": 1
     }
   ],
@@ -25,7 +25,7 @@
       "name": "WP-V3 Atmospheric Characterization Payload (multidimensional ultrasonic anemometer)",
       "ordered": false,
       "received": false,
-      "vendor": "",
+      "vendor": null,
       "order_date": null
     }
   ],
@@ -37,11 +37,10 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Urgent RFQ for custom atmospheric profiling UAS with 5+ lbs payload capacity, 20+ min flight time, and integrated WP-V3 sensor. Customer deadline was 7/10/24; marked 'Closed' in Asana with no response recorded.",
+  "notes": "Customer requested quote for custom profiling drone system with 5+ lb carrying capacity, 20+ minute flight time, integrated WP-V3 payload for atmospheric measurements over agricultural fields in California. Urgent deadline of 7/10/24 indicated. No response recorded; opportunity marked Closed with $0 value.",
   "missing_fields": [
     "estimate_date",
-    "receive_by",
-    "items"
+    "receive_by"
   ],
   "last_evidence_date": "2024-07-08"
 }

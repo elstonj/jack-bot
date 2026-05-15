@@ -1,0 +1,44 @@
+{
+  "asana_gid": "1210367257543500",
+  "asana_task_name": "UC Santa Cruz - S3",
+  "customer": "UC Santa Cruz Ocean Sciences",
+  "customer_contact": "Tim Handley, Xavier Prochaska",
+  "customer_email": "thandley@ucsc.edu",
+  "receive_by": null,
+  "ship_to": null,
+  "items": [
+    {
+      "description": "S2",
+      "quantity": 1
+    },
+    {
+      "description": "S3",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "none",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "UC Santa Cruz Ocean Sciences expressed interest in S2 and S3 platforms for atmospheric profiling. Kevin Rozmiarek provided a 10/10 recommendation. Visit from Xavier Prochaska, Tim Handley, and Alex Terrazas planned for July 17-18 (not yet confirmed). Jack Elston is assigned.",
+  "missing_fields": [
+    "ship_to",
+    "receive_by",
+    "parts",
+    "estimate_date"
+  ],
+  "last_evidence_date": "2025-08-08"
+}

@@ -26,6 +26,7 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **WPO Funding Approved** (May 27, 2021): Two NOAA efforts funded: soil moisture maps near Crested Butte and Area-I payload/tube-deployed S0 support
 - **BizWest Mercury 100** (Apr 26, 2021): Named one of 2021 fastest-growing companies in Boulder Valley
 - **Albatross Competition** (Mar 3, 2025): BST not selected; Mississippi State team selected
+- **T-Mobile Direct-to-Cell S0 Integration Project** (May 14, 2026): High-priority opportunity being pushed to T-Mobile leadership; potential funding for 20 S0 aircraft purchases + R&D funding to integrate T-Mobile's high bandwidth direct-to-cell system with S0 for live HD video transmission from storms in 2027 season. Jack Elston coordinated NOAA outreach to T-Mobile to propose using S0 as flagship demonstration of T-Mobile's new direct-to-cell capability.
 
 ### Technical Decisions
 - **GitLab IDE Approval** (March 2024): Approved for code storage/editing
@@ -55,20 +56,10 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - Hover and battery testing planned
 - Transition simulator development underway
 - **S0-AD Variant**: DoD customer development track (SOCOM and 53rd Weather Squadron) starting April 2026; mission requirements under definition; interests include real-time tactical weather observation, weather prediction, EO/IR, and SIGINT capabilities; aircraft preparation for display at customer engagement scheduled for May 1, 2026
+- **S0 with T-Mobile Direct-to-Cell**: Being positioned as flagship system for demonstrating T-Mobile's high bandwidth direct-to-cell capability for live HD storm video transmission; potential 20 aircraft order if project moves forward with T-Mobile funding in 2027
 
 **S1 Aircraft**
 - S1-VTOL battery testing planned (November 26, 2024)
 - Magnetic testing planned at RC field
 - S1-19 photo identified as better company profile image
-- New Sony camera (ILX-LR1) identified as potential upgrade: full frame, 60MP, 50MP video, $3K cost
-- **S1-22**: Final fixes undergoing testing; Maciej planned test on May 5, 2026 after snow stopped
-
-**S2 Platform**
-- Multiple successful flights completed (Oct 13, 2021 onward)
-- INSTAAR Greenland field campaign: 105 total flights completed before aircraft loss (S2-0010)
-  - Up to 11 flights in single day
-  - Lost on final day to icing/cloud formation incident
-  - Unique wind measurement and ice/cloud interaction dataset collected
-- Prominently displayed with NASA administrator at press conference (Oct 11, 2021)
-- Battery specifications: weight 1.3kg, max power 900W, nominal 250W
-- NDVI analysis results presented
+- New Sony camera (ILX-LR1) identified as potential upgrade: full frame, 60

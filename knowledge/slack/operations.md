@@ -1,7 +1,3 @@
-Reviewed, that's a good update. Let me update the knowledge file with this new information.
-
----
-
 # #operations
 
 ## Overview
@@ -80,4 +76,6 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **Responsibility:** Paige Smith coordinating marketing language and compliance documentation with input from Maciej, Joshua Fromm, and Alex Lomis
 
 ### AI Assistant Integration (April-May 2026)
-- **April 6, 2026:** Jack Elston implementing "Jack Bot" AI
+- **April 6, 2026:** Jack Elston implementing "Jack Bot" AI assistant for knowledge management and Slack integration.
+
+### Maintenance Reporting Process (May 14, 2
