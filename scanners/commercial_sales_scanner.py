@@ -1153,7 +1153,8 @@ Rules:
 def _haiku_extract_build(task: dict, existing: Optional[Build],
                          emails: list[dict], slack_msgs: list[dict],
                          knowledge_evidence: str = "",
-                         gmail_service=None) -> tuple[Optional[Build], bool]:
+                         gmail_service=None,
+                         force_include: bool = False) -> tuple[Optional[Build], bool]:
     """Call Haiku to produce/update a Build record from raw evidence.
 
     Returns (build, drop_existing):
@@ -1220,6 +1221,16 @@ def _haiku_extract_build(task: dict, existing: Optional[Build],
             f"dollar amounts, invoice/estimate numbers): {names}\n"
         )
 
+    force_note = ""
+    if force_include:
+        force_note = (
+            "\nFORCE-INCLUDE OVERRIDE: a BST team member has explicitly told the "
+            "bot to track this build in the digest. SKIP the is_customer_build "
+            "filter (Step 0 hard-drop and Step 2 drop signals). Always return "
+            "`is_customer_build: true`. Still produce the full structured "
+            "record — just don't filter it out.\n"
+        )
+
     user_content = (
         "CURRENT JSON RECORD:\n"
         f"{json.dumps(existing_json, indent=2)}\n\n"
@@ -1228,6 +1239,7 @@ def _haiku_extract_build(task: dict, existing: Optional[Build],
         + ("RECENT EMAILS:\n" + "\n\n".join(email_blocks) + "\n\n" if email_blocks else "")
         + ("RECENT SLACK:\n" + slack_note + "\n".join(slack_blocks) + "\n\n" if slack_blocks else "")
         + pdf_note
+        + force_note
         + "Produce the updated JSON Build record now."
     )
 
@@ -1758,6 +1770,17 @@ def scan_all(mode: str = "incremental", slack_client=None) -> dict:
     all_customer_tokens: set[str] = set()
     new_builds: list[Build] = []
 
+    # Force-include override: gids the user has explicitly told the bot to
+    # surface in the digest, bypassing the is_customer_build filter. Set via
+    # the `track this: ...` admin command.
+    try:
+        from commercial_sales_admin import get_force_include_gids
+        force_include_gids = get_force_include_gids()
+        if force_include_gids:
+            print(f"  Force-include list: {len(force_include_gids)} gids")
+    except Exception:
+        force_include_gids = set()
+
     dropped_gids: list[str] = []
     for i, task in enumerate(asana_tasks):
         print(f"  [{i + 1}/{len(asana_tasks)}] {task.get('name','?')[:60]}")
@@ -1803,9 +1826,11 @@ def scan_all(mode: str = "incremental", slack_client=None) -> dict:
             matched_emails = matched_emails[:EVIDENCE_EMAILS_PER_BUILD + PER_BUILD_DIRECT_EMAIL_CAP]
 
         existing = existing_record
+        is_forced = task["gid"] in force_include_gids
         updated, drop_existing = _haiku_extract_build(
             task, existing, matched_emails, matched_slack,
             knowledge_evidence=evidence, gmail_service=admin_gmail,
+            force_include=is_forced,
         )
         if updated is not None:
             # Stamp the Asana task name so the renderer can disambiguate
@@ -1816,8 +1841,13 @@ def scan_all(mode: str = "incremental", slack_client=None) -> dict:
             new_builds.append(updated)
             time.sleep(0.3)  # gentle pacing for Anthropic
         elif drop_existing:
-            # Haiku explicitly said this isn't a customer build — delete any
-            # stale JSON file for it so it stops appearing in the digest.
+            # Haiku explicitly said this isn't a customer build. Force-include
+            # gids should never hit this branch (the filter is bypassed by the
+            # force_include flag) — but defensively, if a forced gid lands
+            # here anyway, preserve any existing record rather than deleting.
+            if is_forced and existing:
+                new_builds.append(existing)
+                continue
             stale = BUILDS_DIR / f"{task['gid']}.json"
             if stale.exists():
                 stale.unlink()
