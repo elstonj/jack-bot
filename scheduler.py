@@ -14,7 +14,11 @@ from eldora import check_and_post as check_eldora
 from marketing_check import check_and_post as check_marketing
 from weather import format_weather
 from google_client import get_latest_email_by_subject
-from commercial_sales import load_builds, load_support_cases, render_digest
+from commercial_sales import (
+    load_builds,
+    load_support_cases,
+    render_card_sequence,
+)
 
 
 PURCHASING_REFORMAT_PROMPT = """\
@@ -188,11 +192,19 @@ def post_purchasing_summary():
 def post_commercial_sales_digest():
     """Daily morning post to #commercial-sales summarizing customer builds + support.
 
-    Loads pre-scanned knowledge/commercial_sales/{builds,support}/*.json (refreshed
-    nightly by `python scan.py commercial_sales --mode incremental`) and renders
-    one card per active Build / SupportCase. No LLM call at post time — purely
-    a deterministic render of pre-extracted records.
+    Posts each Build / SupportCase as its own top-level Slack message so users
+    can reply in-thread to update a specific record. Captures every posted
+    message ts and writes a {ts: {kind, id}} map to
+    knowledge/commercial_sales/_message_map.json — Phase 2 reply-handler reads
+    that map to figure out which Build/SupportCase a threaded reply is
+    targeting.
+
+    No LLM call at post time — purely a deterministic render of pre-scanned
+    JSON records from knowledge/commercial_sales/{builds,support}/.
     """
+    import json
+    from pathlib import Path
+
     channel = os.environ.get("COMMERCIAL_SALES_CHANNEL")
     if not channel:
         return  # Not configured; skip silently
@@ -203,8 +215,6 @@ def post_commercial_sales_digest():
         if not builds and not cases:
             return  # Nothing to report — no empty post
 
-        # Build a name → slack_id map so the @-pings in missing-info callouts
-        # resolve to actual Slack mentions
         name_to_slack = {}
         try:
             from user_map import build_user_map
@@ -212,18 +222,42 @@ def post_commercial_sales_digest():
             for u in users:
                 if u.get("name") and u.get("slack_user_id"):
                     name_to_slack[u["name"]] = u["slack_user_id"]
-                    # Also map first-name so "Beck"/"Meredith"/"Nate" resolve
                     first = u["name"].split()[0] if u["name"] else ""
                     if first and first not in name_to_slack:
                         name_to_slack[first] = u["slack_user_id"]
         except Exception:
             pass
 
-        text = render_digest(builds, cases, name_to_slack=name_to_slack)
-        # Slack hard-caps a single message at 40k chars; long pipelines need splitting
-        if len(text) > 39000:
-            text = text[:39000] + "\n…(truncated)"
-        client.chat_postMessage(channel=channel, text=text)
+        sequence = render_card_sequence(builds, cases, name_to_slack=name_to_slack)
+
+        # Slack rate limit ≈ 1 message / sec for chat.postMessage on the
+        # standard tier. Sleep between posts so we don't get throttled.
+        # Worst case is ~25 messages → ~13s total — acceptable.
+        message_map = {
+            "scan_date": __import__("datetime").date.today().isoformat(),
+            "channel": channel,
+            "messages": {},  # ts → {kind, id}
+        }
+        for entry in sequence:
+            text = entry["text"]
+            if len(text) > 39000:
+                text = text[:39000] + "\n…(truncated)"
+            resp = client.chat_postMessage(channel=channel, text=text)
+            ts = resp.get("ts") if isinstance(resp, dict) else getattr(resp, "data", {}).get("ts")
+            if ts and entry["id"]:
+                message_map["messages"][ts] = {
+                    "kind": entry["kind"],
+                    "id": entry["id"],
+                }
+            time.sleep(0.5)
+
+        # Persist the ts → record map so the reply-handler can route threaded
+        # replies. Overwrites the prior scan's map (replies on stale messages
+        # are out of scope for now; thread parent ts is captured the moment
+        # we post each card).
+        map_path = Path(__file__).parent / "knowledge" / "commercial_sales" / "_message_map.json"
+        map_path.parent.mkdir(parents=True, exist_ok=True)
+        map_path.write_text(json.dumps(message_map, indent=2))
     except Exception as e:
         from knowledge import store_entry
         try:
