@@ -615,6 +615,11 @@ def render_build_card(b: Build, name_to_slack: Optional[dict[str, str]] = None) 
         sections.append(f"_{b.notes.strip()}_")
     if missing_block:
         sections.append(missing_block)
+    # Hidden routing token at the bottom — lets the reply-handler look up
+    # which Build a threaded reply is updating even after Railway redeploys
+    # wipe the in-memory _message_map.json. Slack renders backticks as
+    # inline code so it's visually unobtrusive.
+    sections.append(f"`build:{b.asana_gid}`")
     return "\n".join(s for s in sections if s)
 
 
@@ -647,6 +652,7 @@ def render_support_card(c: SupportCase, name_to_slack: Optional[dict[str, str]] 
     missing = _render_missing(c, name_to_slack)
     if missing:
         sections.append(missing)
+    sections.append(f"`case:{c.case_id}`")
     return "\n".join(s for s in sections if s)
 
 
