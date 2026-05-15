@@ -20,7 +20,29 @@
   "invoice_amount": null,
   "invoice_number": null,
   "paid_date": null,
-  "parts": [],
+  "parts": [
+    {
+      "name": "Flight controller",
+      "ordered": false,
+      "received": false,
+      "vendor": null,
+      "order_date": null
+    },
+    {
+      "name": "ESC",
+      "ordered": false,
+      "received": false,
+      "vendor": null,
+      "order_date": null
+    },
+    {
+      "name": "Servos",
+      "ordered": false,
+      "received": false,
+      "vendor": null,
+      "order_date": null
+    }
+  ],
   "tracking_number": null,
   "carrier": null,
   "shipped_date": null,
@@ -29,12 +51,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Early-stage concept for S0 VTOL launch/recovery from NOAA research vessel Ron Brown with autonomous ship landing capability. Jack Elston provided preliminary planning-level estimates (75\u201390 min endurance, ~25\u201335 km mission radius for 1 km profile, 4.5 km max altitude AGL). Potential Spring 2028 mission; awaiting formal proposal call from NOAA before proceeding.",
+  "notes": "Early-stage concept for autonomous ship launch/landing from NOAA research vessel Ron Brown. Mission targets ~15,000 ft ceiling, 1+ km vertical sounding, 45-day cruise duration, ~8 hr data turnaround. Potential Spring 2028 mission with ~$18k preliminary funding identified. Publications collaboration required.",
   "missing_fields": [
     "ship_to",
     "receive_by",
-    "parts",
-    "estimate_date"
+    "estimate_date",
+    "invoice_number"
   ],
-  "last_evidence_date": "2026-05-08"
+  "last_evidence_date": "2026-04-30"
 }

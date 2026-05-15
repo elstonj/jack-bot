@@ -319,38 +319,42 @@ def load_support_cases() -> list[SupportCase]:
 # --- Rendering --------------------------------------------------------------
 # Slack mrkdwn output. Emoji shortcodes get rendered by Slack into icons.
 
+# State-machine display labels. Each maps the stored state value to a short
+# phrase used on the single-line `Phase:` summary. Order matters elsewhere
+# (see *_STATES) — these are only the display strings.
+
 PAYMENT_LABELS = {
-    "none": ("estimate", ":hourglass:"),
-    "estimate_sent": ("estimate", ":white_check_mark:"),
-    "invoice_sent": ("invoice", ":white_check_mark:"),
-    "paid": ("paid", ":white_check_mark:"),
+    "none": "estimate pending",
+    "estimate_sent": "estimate sent",
+    "invoice_sent": "invoice sent",
+    "paid": "paid",
 }
 
 BUILD_LABELS = {
-    "none": ("not started", ":white_circle:"),
-    "parts_ordered": ("parts ordered", ":hourglass:"),
-    "in_assembly": ("in assembly", ":wrench:"),
-    "in_qc": ("in QC", ":mag:"),
-    "complete": ("complete", ":white_check_mark:"),
-    "packaged": ("packaged", ":package:"),
+    "none": "not started",
+    "parts_ordered": "parts ordered",
+    "in_assembly": "in assembly",
+    "in_qc": "in QC",
+    "complete": "complete",
+    "packaged": "packaged",
 }
 
 SHIP_LABELS = {
-    "none": ("not ready", ":white_circle:"),
-    "awaiting_pickup": ("awaiting pickup", ":hourglass:"),
-    "in_transit": ("in transit", ":truck:"),
-    "delivered": ("delivered", ":white_check_mark:"),
+    "none": "not ready",
+    "awaiting_pickup": "awaiting pickup",
+    "in_transit": "in transit",
+    "delivered": "delivered",
 }
 
 SUPPORT_LABELS = {
-    "intake": (":hourglass:", "intake"),
-    "diagnosing": (":mag:", "diagnosing"),
-    "rma_issued": (":envelope:", "RMA issued — awaiting return"),
-    "received": (":inbox_tray:", "received"),
-    "under_repair": (":wrench:", "under repair"),
-    "in_qc": (":mag_right:", "in QC"),
-    "complete": (":white_check_mark:", "complete"),
-    "shipped": (":truck:", "shipped back to customer"),
+    "intake": "intake",
+    "diagnosing": "diagnosing",
+    "rma_issued": "RMA issued — awaiting return",
+    "received": "received at BST",
+    "under_repair": "under repair",
+    "in_qc": "in QC",
+    "complete": "complete",
+    "shipped": "shipped back to customer",
 }
 
 
@@ -371,53 +375,54 @@ def _resolve_owner(name: str, name_to_slack: Optional[dict[str, str]]) -> str:
     return name
 
 
-def _progress_line(label: str, current_state: str, states: list[str], state_labels: dict) -> str:
-    """Render a single state-machine line: 'Build  ✅ paid → ⏳ parts → ☐ assembly ...'"""
-    try:
-        idx = states.index(current_state)
-    except ValueError:
-        idx = 0
+def _phase_line(b: "Build") -> str:
+    """One-line 'Phase:' summary for a Build.
+
+    Shows only the segments that have actual state (skips `none`). Compact
+    text labels — replaces the prior 3 multi-step progress chains. Example:
+        Phase: invoice sent · in assembly · awaiting pickup
+    """
     parts = []
-    for i, state in enumerate(states):
-        if state == "none":
-            continue  # 'none' is implicit; don't render
-        text, _emoji = state_labels[state]
-        if i < idx:
-            marker = ":white_check_mark:"
-        elif i == idx:
-            # Active step — use the state's own emoji
-            marker = state_labels[state][1]
-        else:
-            marker = ":white_circle:"
-        parts.append(f"{marker} {text}")
-    return f"   *{label}*   " + "  →  ".join(parts)
+    parts.append(PAYMENT_LABELS.get(b.payment_state, b.payment_state))
+    if b.build_state and b.build_state != "none":
+        parts.append(BUILD_LABELS.get(b.build_state, b.build_state))
+    if b.ship_state and b.ship_state != "none":
+        parts.append(SHIP_LABELS.get(b.ship_state, b.ship_state))
+    return "*Phase:* " + " · ".join(parts)
+
+
+# Checkbox-style markers — single glyph in brackets reads as a checklist
+# without needing emoji. `~` (tilde) is a deliberate "in-flight" mark
+# between received (✓) and pending (space).
+_PART_RECEIVED = "[✓]"
+_PART_ORDERED  = "[~]"
+_PART_PENDING  = "[ ]"
 
 
 def _render_parts_checklist(parts: list[Part]) -> str:
     if not parts:
         return ""
-    lines = []
+    lines = ["*Parts:*"]
     for p in parts:
         if p.received:
-            marker = ":white_check_mark:"
+            marker = _PART_RECEIVED
         elif p.ordered:
-            marker = ":hourglass:"
+            marker = _PART_ORDERED
         else:
-            marker = ":white_circle:"
-        suffix = ""
-        if p.vendor:
-            suffix = f" _(from {p.vendor})_"
-        lines.append(f"      {marker} {p.name}{suffix}")
+            marker = _PART_PENDING
+        suffix = f"  _(from {p.vendor})_" if p.vendor else ""
+        lines.append(f"  {marker} {p.name}{suffix}")
     return "\n".join(lines)
 
 
 def _render_items(items: list[Item]) -> str:
     if not items:
-        return "      _(contents not yet captured)_"
-    return "\n".join(
-        f"      • {i.quantity}× {i.description}" if i.quantity > 1 else f"      • {i.description}"
-        for i in items
-    )
+        return "_(contents not yet captured)_"
+    lines = ["*Contents:*"]
+    for i in items:
+        qty = f"{i.quantity}× " if i.quantity > 1 else ""
+        lines.append(f"  • {qty}{i.description}")
+    return "\n".join(lines)
 
 
 # Field → responsibility-area routing tables. Used by _render_missing so the
@@ -501,25 +506,19 @@ def _render_missing(record, name_to_slack: Optional[dict[str, str]]) -> str:
         if r not in roles_in_order:
             roles_in_order.append(r)
 
-    # Single-owner: keep the compact original layout.
+    # Single-owner: one short line.
     if len(roles_in_order) == 1:
         role = roles_in_order[0]
         mention = _resolve_owner(record.owner(role), name_to_slack)
         fields_str = ", ".join(by_role[role])
-        return (
-            f"   :warning: _Missing:_ {fields_str}\n"
-            f"      {mention} — reply in thread to fill in."
-        )
+        return f":warning: *Missing:* {fields_str} — {mention} reply in thread."
 
-    # Multi-owner: list one row per owner, then a single combined reply prompt.
-    lines = ["   :warning: _Missing:_"]
-    mentions = []
+    # Multi-owner: bullets, one row per owner, then a combined reply prompt.
+    lines = [":warning: *Missing info* — reply in thread to fill in:"]
     for role in roles_in_order:
         mention = _resolve_owner(record.owner(role), name_to_slack)
-        mentions.append(mention)
         fields_str = ", ".join(by_role[role])
-        lines.append(f"      _For_ {mention}: {fields_str}")
-    lines.append(f"      {' '.join(mentions)} — reply in thread to fill in.")
+        lines.append(f"  • {mention} — {fields_str}")
     return "\n".join(lines)
 
 
@@ -551,7 +550,21 @@ def _build_subtitle(customer: str, asana_task_name: Optional[str]) -> str:
 
 
 def render_build_card(b: Build, name_to_slack: Optional[dict[str, str]] = None) -> str:
-    """Render one Build as a Slack mrkdwn card."""
+    """Render one Build as a Slack mrkdwn card.
+
+    Layout — short, scannable, low emoji noise:
+        :wrench:  *Customer* — _Asana task subtitle_
+        Owners: @Beck · @Meredith (invoice/ship) · @Nate (build)
+        *Phase:* invoice sent · in assembly · awaiting pickup
+        *Contents:*
+          • 2× SuperSwift
+          • spare props
+        *Parts:*  (when present)
+          ✓ ESCs
+          · flight controllers
+        _notes_
+        :warning: *Missing* — @owners — fields
+    """
     header_emoji = ":wrench:"
     if b.ship_state == "delivered":
         header_emoji = ":white_check_mark:"
@@ -560,88 +573,81 @@ def render_build_card(b: Build, name_to_slack: Optional[dict[str, str]] = None) 
 
     customer = b.customer or "_(customer name not captured)_"
     subtitle = _build_subtitle(b.customer, b.asana_task_name)
-    receive_by = f"   :calendar: receive by *{b.receive_by}*" if b.receive_by else ""
+
+    receive_by = ""
+    if b.receive_by:
+        receive_by = f"Receive by *{b.receive_by}*"
 
     ship_addr = ""
     if b.ship_to:
-        # Indent multi-line address
         addr_lines = b.ship_to.strip().split("\n")
-        ship_addr = "   :round_pushpin: " + " · ".join(line.strip() for line in addr_lines if line.strip())
+        ship_addr = "Ship to: " + " · ".join(line.strip() for line in addr_lines if line.strip())
 
     interface = _resolve_owner(b.owner("interface"), name_to_slack)
     invoicing = _resolve_owner(b.owner("invoicing"), name_to_slack)
     build_owner = _resolve_owner(b.owner("build"), name_to_slack)
-    owners_line = f"   :busts_in_silhouette: {interface} _(interface)_ · {invoicing} _(invoice/ship)_ · {build_owner} _(build)_"
+    owners_line = f"Owners: {interface} · {invoicing} · {build_owner}"
 
-    contents_block = "   *Contents:*\n" + _render_items(b.items)
+    phase_line = _phase_line(b)
 
-    payment_line = _progress_line(
-        ":money_with_wings:  Payment", b.payment_state, PAYMENT_STATES, PAYMENT_LABELS
-    )
-    build_line = _progress_line(
-        ":wrench:  Build  ", b.build_state, BUILD_STATES, BUILD_LABELS
-    )
+    contents_block = _render_items(b.items)
     parts_block = _render_parts_checklist(b.parts)
-    ship_line = _progress_line(
-        ":truck:  Shipping", b.ship_state, SHIP_STATES, SHIP_LABELS
-    )
+
+    tracking = ""
     if b.tracking_number:
-        ship_line += f"\n      _tracking: {b.carrier or ''} {b.tracking_number}_".rstrip()
+        tracking = f"Tracking: {b.carrier or ''} {b.tracking_number}".strip()
 
     missing_block = _render_missing(b, name_to_slack)
 
+    # Section order — anchor (header), context (owners, dates, ship_to),
+    # phase summary, content, then notes + missing-info.
     sections = [
         f"{header_emoji}  *{customer}*{subtitle}",
+        owners_line,
         receive_by,
         ship_addr,
-        owners_line,
-        "",
+        phase_line,
         contents_block,
-        "",
-        payment_line,
-        build_line,
         parts_block,
-        ship_line,
+        tracking,
     ]
     if b.notes:
-        sections.append(f"   :memo: _{b.notes.strip()}_")
+        sections.append(f"_{b.notes.strip()}_")
     if missing_block:
         sections.append(missing_block)
     return "\n".join(s for s in sections if s)
 
 
 def render_support_card(c: SupportCase, name_to_slack: Optional[dict[str, str]] = None) -> str:
-    """Render one SupportCase as a Slack mrkdwn card."""
+    """Render one SupportCase as a Slack mrkdwn card. Same low-emoji layout
+    as builds, with a single state label instead of three state machines."""
     customer = c.customer or "_(customer name not captured)_"
     device = c.device or "device TBD"
     if c.serial_number and not (c.device and c.serial_number in c.device):
         device = f"{device} (S/N {c.serial_number})"
 
-    state_emoji, state_label = SUPPORT_LABELS.get(c.state, (":question:", c.state))
+    state_label = SUPPORT_LABELS.get(c.state, c.state)
 
     interface = _resolve_owner(c.owner("interface"), name_to_slack)
     support_owner = _resolve_owner(c.owner("support"), name_to_slack)
     invoicing = _resolve_owner(c.owner("invoicing"), name_to_slack)
-    owners_line = (
-        f"   :busts_in_silhouette: {interface} _(intake)_ · "
-        f"{support_owner} _(repair)_ · {invoicing} _(return ship)_"
-    )
+    owners_line = f"Owners: {interface} · {support_owner} · {invoicing}"
 
-    lines = [f":wrench:  *{customer}* — {device}"]
-    lines.append(f"   {state_emoji}  *Status:* {state_label}")
-    if c.reported_issue:
-        lines.append(f"   :speech_balloon: _{c.reported_issue.strip()}_")
+    sections = [f":wrench:  *{customer}* — {device}"]
+    sections.append(f"*Status:* {state_label}")
+    sections.append(owners_line)
     if c.rma_number:
-        lines.append(f"   :hash: RMA `{c.rma_number}`")
+        sections.append(f"RMA `{c.rma_number}`")
     if c.linked_build_gid:
-        lines.append(f"   :link: linked to a prior build (`{c.linked_build_gid}`)")
-    lines.append(owners_line)
+        sections.append(f"Linked to prior build `{c.linked_build_gid}`")
+    if c.reported_issue:
+        sections.append(f"_{c.reported_issue.strip()}_")
     if c.tracking_number:
-        lines.append(f"   :truck: _{c.carrier or ''} {c.tracking_number}_".rstrip())
+        sections.append(f"Tracking: {c.carrier or ''} {c.tracking_number}".strip())
     missing = _render_missing(c, name_to_slack)
     if missing:
-        lines.append(missing)
-    return "\n".join(lines)
+        sections.append(missing)
+    return "\n".join(s for s in sections if s)
 
 
 def render_card_sequence(

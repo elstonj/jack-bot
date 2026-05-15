@@ -33,12 +33,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "UC Santa Cruz Ocean Sciences expressed interest in S2 and S3 platforms for atmospheric profiling. Kevin Rozmiarek provided a 10/10 recommendation. Visit from Xavier Prochaska, Tim Handley, and Alex Terrazas planned for July 17-18 (not yet confirmed). Jack Elston is assigned.",
+  "notes": "UC Santa Cruz Ocean Sciences interested in S2 and S3 platforms. Kevin Rozmiarek provided strong referral. Site visit from Xavier Prochaska, Tim Handley, and Alex Terrazas planned for July 17-18 (not yet confirmed). Lead is actively interested.",
   "missing_fields": [
-    "ship_to",
     "receive_by",
-    "parts",
-    "estimate_date"
+    "ship_to",
+    "invoice_date",
+    "invoice_amount"
   ],
   "last_evidence_date": "2025-08-08"
 }

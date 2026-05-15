@@ -1,52 +1,75 @@
 {
   "asana_gid": "1206482266586173",
   "asana_task_name": "NASA Ames",
-  "customer": "NASA",
-  "customer_contact": "Randy Hobbs",
-  "customer_email": "r.hobbs@nasa.gov",
+  "customer": "NASA Ames",
+  "customer_contact": "Randy Hobbs, Will Wade, Farina Remo",
+  "customer_email": "r.hobbs@nasa.gov, william.o.wade@nasa.gov, farina.c.remo@nasa.gov",
   "receive_by": null,
   "ship_to": null,
   "items": [
     {
       "description": "S2 Simulator",
       "quantity": 1
+    },
+    {
+      "description": "S2 (S20009) with Iridium components",
+      "quantity": 1
+    },
+    {
+      "description": "Ground stations with Iridium",
+      "quantity": 2
+    },
+    {
+      "description": "Spare tail with Iridium antenna",
+      "quantity": 1
+    },
+    {
+      "description": "Warranty/repair work: flap servo replacement, payload computer fix, mux board replacement",
+      "quantity": 1
     }
   ],
   "payment_state": "paid",
-  "build_state": "complete",
-  "ship_state": "delivered",
+  "build_state": "in_assembly",
+  "ship_state": "none",
   "estimate_date": null,
-  "invoice_date": "2024-11-04",
-  "invoice_amount": 3470.0,
+  "invoice_date": "2025-08-22",
+  "invoice_amount": 2900.0,
   "invoice_number": "1633",
   "paid_date": "2025-08-22",
   "parts": [
     {
+      "name": "Iridium components/modules",
+      "ordered": true,
+      "received": false,
+      "vendor": "",
+      "order_date": null
+    },
+    {
+      "name": "Iridium antenna",
+      "ordered": true,
+      "received": false,
+      "vendor": "",
+      "order_date": null
+    },
+    {
       "name": "Flap servo",
       "ordered": true,
-      "received": true,
-      "vendor": null,
+      "received": false,
+      "vendor": "",
       "order_date": null
     },
     {
       "name": "Payload computer",
       "ordered": true,
-      "received": true,
-      "vendor": null,
+      "received": false,
+      "vendor": "",
       "order_date": null
     },
     {
       "name": "Mux board",
       "ordered": true,
-      "received": true,
-      "vendor": null,
-      "order_date": null
-    },
-    {
-      "name": "Iridium components",
-      "ordered": false,
       "received": false,
-      "vendor": null,
+      "vendor": "",
       "order_date": null
     }
   ],
@@ -58,9 +81,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "NASA Ames S2 Simulator (S20009) purchased for $3,470.00 (paid 2025-08-22). Includes warranty repairs: flap servo replacement, payload computer fix, mux board replacement (parts and labor). Contact: Randy Hobbs (r.hobbs@nasa.gov); team includes Will Wade and Farina Remo. May 2026: NASA declined Iridium components for original S2 but requested estimate for adding them to S20009, 2x ground stations, and spare tail as potential follow-on work.",
+  "notes": "NASA Ames primary contact transitioned from Isaac Anderson to Randy Hobbs (r.hobbs@nasa.gov) as of Dec 30, 2025. Build includes S2 Simulator ($2,900 paid Aug 22, 2025), repairs to customer's existing S2 (S20009) including flap servo, payload computer, and mux board replacement (warranty, unpaid), plus Iridium component retrofit to S20009, ground stations, and spare tail. Recent Slack activity (Apr 22\u2013May 5, 2026) indicates Iridium parts estimation in progress; red/blue paint color selection underway for wings and fuselage. Isaac's original S2 is also receiving warranty repair work (flap servo, computer, mux board).",
   "missing_fields": [
-    "ship_to"
+    "ship_to",
+    "receive_by",
+    "parts.vendor",
+    "estimate for Iridium retrofit cost"
   ],
-  "last_evidence_date": "2026-05-14"
+  "last_evidence_date": "2026-05-05"
 }

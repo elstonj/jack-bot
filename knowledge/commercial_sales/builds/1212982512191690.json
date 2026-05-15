@@ -4,15 +4,15 @@
   "customer": "National Oceanography Centre (NOC)",
   "customer_contact": "Adrien Martin",
   "customer_email": "admartin@noc.ac.uk",
-  "receive_by": null,
+  "receive_by": "2026-05-15",
   "ship_to": null,
   "items": [
     {
-      "description": "LDCR with L-band sensor system",
+      "description": "LDCR (L-band radiometer system)",
       "quantity": 1
     },
     {
-      "description": "S3 aircraft platform integration",
+      "description": "S3 platform integration (potential)",
       "quantity": 1
     }
   ],
@@ -26,14 +26,14 @@
   "paid_date": null,
   "parts": [
     {
-      "name": "L-band radiometer antenna system",
+      "name": "L-band antenna system",
       "ordered": false,
       "received": false,
       "vendor": null,
       "order_date": null
     },
     {
-      "name": "Hyperspectral radiometer (broadband 0.4-1.8GHz)",
+      "name": "Hyperspectral radiometer (new sensor)",
       "ordered": false,
       "received": false,
       "vendor": null,
@@ -48,12 +48,13 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "NOC/ARIA-funded Greenland Project for autonomous salinity/SST mapping on Greenland coast. Target 2027 UK shakedown, 2028 Greenland deployment. Requirements: 100km range (3hr), goal 600km (6hr), sub-10\u00b0C operation. Evaluating LDCR L-band on S3 platform integration. Maciej Stachura is Asana assignee.",
+  "notes": "UK-funded ARIA science project for autonomous long-endurance UAS to measure Greenland ice sheet melt. Early-stage concept exploration between LDCR/L-band on S3 vs. solar drones/airships/drone-in-a-box systems. 2027 UK shakedown, 2028 Greenland deployment. Contact Adrien Martin is engaged.",
   "missing_fields": [
     "ship_to",
-    "receive_by",
     "items",
-    "parts"
+    "payment_state",
+    "invoice_date",
+    "invoice_amount"
   ],
-  "last_evidence_date": "2026-05-13"
+  "last_evidence_date": "2026-03-17"
 }
