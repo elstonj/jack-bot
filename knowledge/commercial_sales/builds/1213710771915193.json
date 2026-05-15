@@ -4,11 +4,11 @@
   "customer": "NextTech Solutions",
   "customer_contact": "Trenton McKibbon",
   "customer_email": "Trenton.mckibben@nexttechsol.com",
-  "receive_by": null,
+  "receive_by": "2026-08-31",
   "ship_to": null,
   "items": [
     {
-      "description": "S3 Arctic configuration with EO/IR gimbal, 120km range (1h 35min TOF)",
+      "description": "S3 Arctic with EO/IR gimbal, 120km range (1h 35min TOF)",
       "quantity": 1
     }
   ],
@@ -22,21 +22,14 @@
   "paid_date": null,
   "parts": [
     {
-      "name": "EO/IR gimbal (small/light form factor)",
+      "name": "EO/IR gimbal (small/light configuration)",
       "ordered": false,
       "received": false,
       "vendor": null,
       "order_date": null
     },
     {
-      "name": "Flight controller",
-      "ordered": false,
-      "received": false,
-      "vendor": null,
-      "order_date": null
-    },
-    {
-      "name": "Battery pack (extended range configuration)",
+      "name": "Battery pack (payload padding for range extension)",
       "ordered": false,
       "received": false,
       "vendor": null,
@@ -51,11 +44,11 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "NextTech Solutions (DoD integrator) evaluating S3 platform with 120km range and EO/IR gimbal for potential Joint Forces Command procurement. Three-phase demo plan: June-Aug flight test in Ottawa, vendor meet & greet, Arctic demo in Whitehorse Nov-Apr 2027. Currently gathering info on past S2 Arctic ops and Canadian vendor partnerships.",
+  "notes": "NextTech Solutions (DoD integrator) evaluating S3 Arctic for tactical deployment with JFC Canada. Demo flight test planned June\u2013August 2026 in Ottawa; Arctic validation Nov 2026\u2013April 2027 in Whitehorse. Potential procurement by Joint Forces Command for Rangers. BST owes customer info on past S2 Arctic ops and Canadian company contacts (Microhard).",
   "missing_fields": [
     "ship_to",
-    "receive_by",
-    "parts"
+    "estimate_date",
+    "parts (EO/IR gimbal vendor & specs)"
   ],
   "last_evidence_date": "2026-05-14"
 }

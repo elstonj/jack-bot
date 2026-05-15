@@ -37,12 +37,13 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Canadian Rangers demo (Ottawa) planned for June 2026. Customer (NexTech/Canadian Defense Forces) wants S3 with 120km range (1h 35min TOF) and EO/IR gimbal. Multi-phase: flight test Ottawa Jun-Aug 2026, vendor meet-and-greet, Arctic demo Whitehorse Nov 2026-Apr 2027, potential procurement by Joint Forces Command.",
+  "notes": "Canadian Rangers demo in Ottawa planned for June 2026. NexTech Solutions (DoD integrator) evaluating S3 for tactical deployment; 120km range / 1h 35min TOF required with EO/IR gimbal. Follow-on demos planned: vendor meet-and-greet Ottawa, Arctic demo Whitehorse Nov-Apr 2027, potential Joint Forces Command purchase.",
   "missing_fields": [
+    "ship_to",
     "customer_contact",
     "customer_email",
-    "ship_to",
-    "parts"
+    "invoice_number",
+    "invoice_amount"
   ],
   "last_evidence_date": "2026-05-14"
 }

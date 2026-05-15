@@ -12,7 +12,7 @@
       "quantity": 1
     },
     {
-      "description": "E2 Photogrammetry Payload (with gimbal and Sony A7R IV)",
+      "description": "E2 Photogrammetry Payload (or custom multispectral/thermal/lidar)",
       "quantity": 1
     },
     {
@@ -20,7 +20,7 @@
       "quantity": 1
     },
     {
-      "description": "Custom Payload Integration",
+      "description": "Travel case",
       "quantity": 1
     }
   ],
@@ -32,7 +32,29 @@
   "invoice_amount": null,
   "invoice_number": null,
   "paid_date": null,
-  "parts": [],
+  "parts": [
+    {
+      "name": "E2 UAS Airframe",
+      "ordered": false,
+      "received": false,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    },
+    {
+      "name": "SwiftCore Flight Management System",
+      "ordered": false,
+      "received": false,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    },
+    {
+      "name": "E2 Battery (spare)",
+      "ordered": false,
+      "received": false,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    }
+  ],
   "tracking_number": null,
   "carrier": null,
   "shipped_date": null,
@@ -41,11 +63,11 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "New professor at CU Boulder seeking E2 with multi-sensor payload (RGB, multispectral, thermal, lidar preferred). Pricing sheet sent 2026-04-10. Customer anticipates purchase in August 2026 upon starting new position. Grant proposal decision window: Mar 31 \u2013 Oct 31, 2026.",
+  "notes": "New professor at CU Boulder interested in E2 system with custom sensor payload (multispectral, thermal, lidar preferred but cost-constrained). Pricing sheet sent 2026-04-10. Customer will not purchase until August 2026 when new position starts. Awaiting grant proposal finalization by end of month; needs equipment decision by Oct 31, 2026.",
   "missing_fields": [
     "ship_to",
-    "invoice_number",
+    "items",
     "invoice_amount"
   ],
-  "last_evidence_date": "2026-04-29"
+  "last_evidence_date": "2026-04-10"
 }

@@ -655,9 +655,12 @@ def _is_internal(addr: str) -> bool:
 
 
 def _customer_tokens(task: dict) -> set[str]:
-    """Extract tokens we can match emails/slack against for one Asana task.
+    """Extract DISTINCTIVE tokens we can match emails/slack against for one
+    Asana task.
 
-    Uses the task name and any custom-field that names a customer/organization.
+    Filters out generic words like "university", "research", "national" —
+    without this, a Michigan Tech task matches every email mentioning any
+    university, and the per-Build evidence gets flooded with noise.
     """
     tokens = set()
     name = (task.get("name") or "").lower()
@@ -679,7 +682,7 @@ def _customer_tokens(task: dict) -> set[str]:
             for tok in re.sub(r"[^\w\s]", " ", val).split():
                 if len(tok) >= 4 and not tok.isdigit():
                     tokens.add(tok)
-    return tokens
+    return tokens - GENERIC_CUSTOMER_TOKENS
 
 
 def _filter_emails_for_tokens(emails: list[dict], tokens: set[str], limit: int) -> list[dict]:
@@ -782,11 +785,18 @@ def _load_qbo_invoices() -> list[dict]:
 def _qbo_invoices_for_customer(customer: str, project_code: Optional[str]) -> list[dict]:
     """Find QBO invoices that match either the customer name tokens or
     the project code (extracted from QBO 'customer' fields like '[043-3] By Light Halo').
+
+    Token matching filters out generic words ("university", "research", "national",
+    "laboratory", etc.) before comparing — without this, "Michigan Technological
+    University" matches Stanford / Embry-Riddle / UMD / etc. on the shared
+    "university" token and causes Haiku to falsely conclude a QBO invoice exists.
     """
     invoices = _load_qbo_invoices()
     if not invoices:
         return []
-    customer_tokens = _tokens_for_match(customer)
+    # Distinctive customer tokens — strip generic words to avoid false matches
+    # on common nouns shared across customers.
+    customer_tokens = _tokens_for_match(customer) - GENERIC_CUSTOMER_TOKENS
     matched = []
     seen = set()
     for inv in invoices:
@@ -802,15 +812,18 @@ def _qbo_invoices_for_customer(customer: str, project_code: Optional[str]) -> li
                 matched.append(inv)
                 seen.add(key)
                 continue
-        # Token overlap (need at least 1 token of length >= 4)
+        # Token overlap on *distinctive* tokens only (length >= 4, not generic).
         if customer_tokens:
-            inv_tokens = _tokens_for_match(inv_cust)
+            inv_tokens = _tokens_for_match(inv_cust) - GENERIC_CUSTOMER_TOKENS
             if customer_tokens & inv_tokens:
                 matched.append(inv)
                 seen.add(key)
                 continue
-        # Substring fallback for short customer names ("ByLight" → "By Light")
-        if customer and len(customer) >= 4:
+        # Substring fallback for short / single-word customer names
+        # ("ByLight" → "By Light"). Skipped when customer has no distinctive
+        # tokens left after filtering — otherwise "research" would match
+        # any customer with "research" in the name.
+        if customer and len(customer) >= 4 and customer_tokens:
             cust_squashed = re.sub(r"\s+", "", customer.lower())
             inv_squashed = re.sub(r"\s+", "", inv_cust_lower)
             if cust_squashed in inv_squashed or inv_squashed in cust_squashed:
@@ -1009,12 +1022,60 @@ You are given:
 Produce ONE JSON object as your reply — a complete updated Build record. Output
 ONLY valid JSON, no commentary, no markdown fences.
 
-FIRST: decide whether this Asana task represents a real customer build. Some
-BD Pipeline tasks are internal action items (e.g. "Send slides", "Cleanup
-deck", "Develop concept", "Internal review") rather than tracked sales. If
-it's NOT a real customer build, output:
+FIRST: decide whether this Asana task represents a real, ACTIVE customer
+build worth surfacing in tomorrow's #commercial-sales digest. If NOT, output:
   {"is_customer_build": false, "asana_gid": "<gid>", "reason": "<1-sentence>"}
 and stop. Otherwise output is_customer_build=true and the full schema below.
+
+Decision tree — evaluate in THIS order, first match wins:
+
+STEP 0 (HARD DROP — no carve-outs). If ALL of these are true, the BST team
+has explicitly closed this opportunity at $0 value. The QBO invoices you
+see in the evidence belong to a DIFFERENT task for the same customer
+entity. DROP without exception:
+  • Asana custom field "Next Steps (Sales)" is "Closed", "Lost", or
+    "No action needed"
+  • Asana custom field "Closed Value" is "0.00" or "$0.00"
+  • Asana custom field "Estimated/Quoted Value" is "0.00" or "$0.00"
+If you find these three together, drop and cite all three in `reason`. Do
+NOT keep on the basis of QBO invoices for the customer entity — those
+belong to a different task.
+
+STEP 1 (KEEP overrides — only when Step 0 didn't fire). If ANY of these is
+true, KEEP the build regardless of what other Asana custom fields say. These are the load-bearing signals
+that "BST has skin in the game":
+  • A QBO invoice exists for this customer entity (paid or unpaid). BST is
+    on the hook to deliver or to collect. Stale Asana fields, "Closed"
+    statuses, and $0 closed-values are all overridden by an actual QBO
+    invoice. ERAU-style "paid but legal settlement pending" is KEEP.
+    NOTE: when QBO INVOICES evidence is provided above, use those entries
+    — if 1+ rows reference this customer's entity, KEEP.
+  • Substantive email/Slack activity in the last 90 days about this specific
+    customer (not generic newsletter / partner traffic). Implies live
+    engagement even when Asana hasn't been updated.
+  • An explicit receive_by date in the future within the next 6 months
+    (someone is on the hook for a near-term delivery).
+
+STEP 2 (DROP signals). If none of the KEEP overrides apply, drop when ANY
+of these is true:
+  (a) Task is an internal action item ("Send slides", "Cleanup deck",
+      "Develop concept", "Internal review") — no customer-facing scope.
+  (b) Asana custom field "Next Steps (Sales)" is "Lost", "Closed", or
+      "No action needed".
+  (c) Asana custom field "Closed Value" is "0.00" or "$0.00".
+  (d) Asana custom field "Lead Response" is "No Response".
+  (e) STALE: last contact in Asana > 6 months ago AND no recent email/Slack
+      activity. Having a filled-in customer_email or detailed Sales Notes
+      from a year+ ago is NOT engagement — engagement means recent traffic.
+
+The DROP rules apply by default to anything not caught by STEP 1. Cold
+leads with no traction are excluded — the user trusts real opportunities
+will pop back in once they get traction (recent email/Slack/QBO).
+
+When dropping, the `reason` should cite the specific signal (custom field
+value, days since last contact, lack of QBO match). When keeping despite
+a "Closed" Asana field, the `reason` block isn't needed but `notes` should
+mention which KEEP signal applied (e.g. "kept due to QBO invoice 1667").
 
 Schema (omit any field you can't infer, keep existing values when no new evidence):
 {

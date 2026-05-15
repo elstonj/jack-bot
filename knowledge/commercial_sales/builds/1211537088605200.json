@@ -5,7 +5,7 @@
   "customer_contact": "TSgt Evan Wolff",
   "customer_email": "evan.m.wolff.mil@socom.mil",
   "receive_by": "2026-10-30",
-  "ship_to": "Evan Wolff, 3-3242 Malvesti St, Fort Bragg, NC 28310",
+  "ship_to": null,
   "items": [
     {
       "description": "S0-AD UAS",
@@ -14,26 +14,26 @@
   ],
   "payment_state": "none",
   "build_state": "none",
-  "ship_state": "delivered",
+  "ship_state": "none",
   "estimate_date": null,
   "invoice_date": null,
   "invoice_amount": null,
   "invoice_number": null,
   "paid_date": null,
   "parts": [],
-  "tracking_number": "889475552978",
-  "carrier": "FedEx",
-  "shipped_date": "2026-03-11",
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
   "owners": {
     "interface": "Beck",
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Demo S0-AD unit shipped to SOCOM (TSgt Evan Wolff) on 2026-03-11 for C-130 air-drop demo event Fall 2026. SOCOM received unit by 2026-03-17. In-person working discussion held 2026-04-25 with SOCOM and 53rd Weather Squadron to define mission requirements and S0-AD specifications. Potential for earlier drop opportunity with unknown aircraft; may require autonomous rally-point flight with ground takeover.",
+  "notes": "SOCOM (TSgt Evan Wolff) interested in S0-AD UAS for C-130 air-launch demo Fall 2026. Recent DoD engagement (4/27 working meeting with SOCOM and 53rd Weather Squadron to define mission requirements and S0 additional development needs). S0-AD datasheet sent 10/3/25.",
   "missing_fields": [
+    "ship_to",
     "items",
-    "parts",
-    "payment_state"
+    "parts"
   ],
-  "last_evidence_date": "2026-05-06"
+  "last_evidence_date": "2026-04-29"
 }

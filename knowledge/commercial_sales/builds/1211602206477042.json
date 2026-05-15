@@ -1,0 +1,41 @@
+{
+  "asana_gid": "1211602206477042",
+  "asana_task_name": "S0-AD for USAF WC-130J Weather Squadrons",
+  "customer": "USAF",
+  "customer_contact": "Russell Evans & Elizabeth Sanabia",
+  "customer_email": "russell.evans.ctr@us.af.mil",
+  "receive_by": null,
+  "ship_to": null,
+  "items": [
+    {
+      "description": "S0-AD system",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "none",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "USAF WC-130J Weather Squadrons lead engineer (Russ Evans) inquiry for facility tour and Q&A to explore future drone integration. Visit tentatively scheduled 12/2. Products of interest: S0-AD. Active engagement from DoD customer exploring integration pathways.",
+  "missing_fields": [
+    "receive_by",
+    "ship_to",
+    "items",
+    "invoice_number",
+    "invoice_amount"
+  ],
+  "last_evidence_date": "2026-04-27"
+}

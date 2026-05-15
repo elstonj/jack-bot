@@ -25,21 +25,21 @@
       "name": "Hitec servo (left flap)",
       "ordered": true,
       "received": false,
-      "vendor": "",
+      "vendor": "Hacker",
       "order_date": null
     },
     {
       "name": "Hitec servo (replacement)",
       "ordered": true,
       "received": false,
-      "vendor": "",
+      "vendor": "Hitec",
       "order_date": null
     },
     {
-      "name": "S20004 wings (new units)",
+      "name": "Wings (new units)",
       "ordered": true,
       "received": false,
-      "vendor": "",
+      "vendor": "BST",
       "order_date": null
     }
   ],
@@ -51,12 +51,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "CU Boulder IRISS S20004 repair: failed left flap servo (Hacker model) requires replacement with 2x Hitec servos and new wings. Invoice #1759 sent 2026-05-08 for $664.98. Repair work in progress; as of 2026-05-12 Slack note indicates none of IRISS's batteries have the big bus bar mod.",
+  "notes": "S20004 repair: left flap servo failed (dead servo tone). Requires replacement with 2x Hitec servos and both wing replacement units. Invoice #1759 sent 2026-05-08 for $664.98. Repair work in progress; 3 months overdue per ops notes.",
   "missing_fields": [
     "ship_to",
     "receive_by",
     "customer_email",
-    "parts.vendor"
+    "paid_date"
   ],
-  "last_evidence_date": "2026-05-14"
+  "last_evidence_date": "2026-05-12"
 }
