@@ -20,6 +20,12 @@ from task_actions import (
     propose_task_updates,
     apply_task_updates,
 )
+from commercial_sales_reply import (
+    has_pending as cs_has_pending,
+    handle_thread_reply as cs_handle_thread_reply,
+    handle_thread_followup as cs_handle_thread_followup,
+    lookup_record_for_thread as cs_lookup_record_for_thread,
+)
 from scheduler import start_scheduler
 
 load_dotenv()
@@ -388,6 +394,41 @@ def route_message(message, say, client, user_id, channel_id, event_ts=""):
 @app.event("message")
 def handle_dm(event, say, client):
     if event.get("bot_id"):
+        return
+
+    # Commercial-sales thread replies: route to the reply-to-update flow.
+    # Fires only for threaded replies under one of Jack's per-build cards;
+    # top-level messages in #commercial-sales fall through to other routing.
+    cs_channel = os.environ.get("COMMERCIAL_SALES_CHANNEL", "")
+    if (
+        cs_channel
+        and event.get("channel") == cs_channel
+        and event.get("thread_ts")
+        and event.get("thread_ts") != event.get("ts")  # don't trigger on the parent itself
+    ):
+        text = (event.get("text") or "").strip()
+        if not text:
+            return
+        thread_ts = event["thread_ts"]
+        user_id = event.get("user", "")
+        try:
+            if cs_has_pending(thread_ts):
+                resp = cs_handle_thread_followup(client, event)
+            else:
+                # Only respond when the thread is actually under one of our
+                # cards (silent on unrelated threads). Lookup is short-circuited
+                # by lookup_record_for_thread returning None.
+                if not cs_lookup_record_for_thread(client, cs_channel, thread_ts):
+                    return
+                resp = cs_handle_thread_reply(client, event)
+            if resp:
+                client.chat_postMessage(
+                    channel=cs_channel,
+                    thread_ts=thread_ts,
+                    text=resp,
+                )
+        except Exception as e:
+            store_entry(client, "ERROR", f"commercial-sales reply handler: {e}")
         return
 
     # Capture replies in the daily tasks channel as implicit feedback
