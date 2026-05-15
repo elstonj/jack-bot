@@ -1,7 +1,7 @@
 {
   "asana_gid": "1212982512191690",
   "asana_task_name": "National Oceanography Centre - Greenland Project",
-  "customer": "National Oceanography Centre",
+  "customer": "National Oceanography Centre (NOC)",
   "customer_contact": "Adrien Martin",
   "customer_email": "admartin@noc.ac.uk",
   "receive_by": null,
@@ -12,7 +12,7 @@
       "quantity": 1
     },
     {
-      "description": "S3 airframe for antenna integration",
+      "description": "S3 aircraft platform integration",
       "quantity": 1
     }
   ],
@@ -26,21 +26,14 @@
   "paid_date": null,
   "parts": [
     {
-      "name": "L-band radiometer antenna",
+      "name": "L-band radiometer antenna system",
       "ordered": false,
       "received": false,
       "vendor": null,
       "order_date": null
     },
     {
-      "name": "Flight controller",
-      "ordered": false,
-      "received": false,
-      "vendor": null,
-      "order_date": null
-    },
-    {
-      "name": "Power distribution system",
+      "name": "Hyperspectral radiometer (broadband 0.4-1.8GHz)",
       "ordered": false,
       "received": false,
       "vendor": null,
@@ -55,12 +48,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Early-stage research partnership with UK-funded ARIA program. NOC exploring autonomous system for long-term salinity/SST mapping on Greenland coast (2028 deployment). Initial interest in existing LDCR L-band system on S3 platform; also exploring broadband 0.4\u20131.8 GHz hyperspectral radiometer. 100 km range (3 hr) minimum, 600 km (6 hr) desired. Operating in <10\u00b0C arctic conditions.",
+  "notes": "NOC/ARIA-funded Greenland Project for autonomous salinity/SST mapping on Greenland coast. Target 2027 UK shakedown, 2028 Greenland deployment. Requirements: 100km range (3hr), goal 600km (6hr), sub-10\u00b0C operation. Evaluating LDCR L-band on S3 platform integration. Maciej Stachura is Asana assignee.",
   "missing_fields": [
     "ship_to",
     "receive_by",
     "items",
     "parts"
   ],
-  "last_evidence_date": "2026-03-17"
+  "last_evidence_date": "2026-05-13"
 }

@@ -4,27 +4,23 @@
   "customer": "University of Colorado Boulder",
   "customer_contact": "Jazlynn Hall",
   "customer_email": "jazlynn.hall@colorado.edu",
-  "receive_by": null,
+  "receive_by": "2026-08-31",
   "ship_to": null,
   "items": [
     {
-      "description": "E2",
+      "description": "Black Swift E2 UAS Flight System",
       "quantity": 1
     },
     {
-      "description": "RGB, multispectral, thermal and/or lidar sensors",
+      "description": "E2 Photogrammetry Payload (with gimbal and Sony A7R IV)",
       "quantity": 1
     },
     {
-      "description": "Swiftcore flight management system",
+      "description": "E2 Battery (spare)",
       "quantity": 1
     },
     {
-      "description": "Extra batteries",
-      "quantity": 1
-    },
-    {
-      "description": "Travel case",
+      "description": "Custom Payload Integration",
       "quantity": 1
     }
   ],
@@ -45,11 +41,11 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "New professor at CU Boulder seeking E2 with integrated sensor payload (MS, lidar, thermal preferred). Grant proposal decision due end of March 2026; equipment purchase anticipated August 2026 when professor starts position. Beck sent pricing sheet 2026-04-10.",
+  "notes": "New professor at CU Boulder seeking E2 with multi-sensor payload (RGB, multispectral, thermal, lidar preferred). Pricing sheet sent 2026-04-10. Customer anticipates purchase in August 2026 upon starting new position. Grant proposal decision window: Mar 31 \u2013 Oct 31, 2026.",
   "missing_fields": [
     "ship_to",
-    "receive_by",
-    "payment_state confirmation"
+    "invoice_number",
+    "invoice_amount"
   ],
-  "last_evidence_date": "2026-04-10"
+  "last_evidence_date": "2026-04-29"
 }

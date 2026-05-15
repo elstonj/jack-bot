@@ -35,14 +35,15 @@
 - Website updates including "About" page/leadership team refresh (Oct 2023)
 - Products and services pricing review in QuickBooks (Oct 2023)
 - Marketing strategy development
+- LARTA advisory engagement (completed Aug 7, 2023)
 
 ## Task Summary
-- **Total Tasks**: 1 open, 154 completed (99.4% completion rate)
+- **Total Tasks**: 1 open, 155 completed (99.4% completion rate)
 - **Tasks by Assignee**:
   - **Jack Elston**: Strategic leadership, financial planning, business development, website updates, investor relations
   - **Maciej Stachura**: SBIR proposal management, technical opportunities, proposal submissions (6+ proposals over 2022–2024); Navy project oversight (completed as of Apr 17, 2026)
   - **Meredith O'Hara Needham**: Administrative support, document collection and organization, LOI/MOU/support letter curation
-  - **Unassigned**: Many proposals and strategic initiatives (indicating historical workflow or project evolution)
+  - **Unassigned**: Many proposals and strategic initiatives (including LARTA advisor engagement)
 - **Notable Patterns**: 
   - Heavy emphasis on government funding (NASA, USDA, NSF, DoD)
   - Extensive use of custom fields tracking funding amounts and funding status
@@ -58,6 +59,7 @@
 - **Financial projections update** (Aug 2024) — Integration goal: move financial reporting from Jack's spreadsheet to QuickBooks
 - **USDA SBIR submission** (Jul 2024)
 - **NASA Ignite Greenhouse Gas Measurement** (Jul 2024)
+- **LARTA advisor engagement** (completed Aug 7, 2023)
 
 ### Project Status Updates (April 2026 — TEAM CORRECTIONS AUTHORITATIVE)
 **[CORRECTION, per Jack, Apr 20, 2026]**: Mexico USGS volcano deployment (350-4) is **DELAYED to Fall 2026**. Not departing April 20, 2026. **No flight planning, shipping, or mission prep imminent.** Any Asana tasks referencing April 2026 dates are **stale — disregard them.**
@@ -119,5 +121,4 @@
 - **Proposal Cadence**: Regular SBIR submission cycle with strong organizational support (LOIs, MOUs, support letters tracked systematically)
 - **Strategic Maturity**: Well-defined core values, structured marketing goals, and clear customer segmentation indicate developed business strategy
 - **Operational Transition**: Ongoing shift from spreadsheet-based financial management to integrated QuickBooks reporting (Aug 2024 update indicates progress)
-- **Deployment Status (April 2026, per team corrections)**: 
-  - Mexico USGS volcano project **delayed to Fall 2026** (per Jack, Apr 20, 2026) — **disreg
+- **Deployment Status (April 2026, per team corrections

@@ -24,7 +24,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Acellant S2 build tracked via Asana. Due 2026-05-22. Last contact 2026-01-14.",
+  "notes": "S2 build for Acellant, due 2026-05-22.",
   "missing_fields": [
     "customer_contact",
     "customer_email",

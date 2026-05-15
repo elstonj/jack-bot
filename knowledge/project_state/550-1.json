@@ -17,7 +17,7 @@
     "total_value": 242540.0,
     "start_date": "2026-09-28",
     "end_date": "2026-09-28",
-    "payment_cadence": "monthly",
+    "payment_cadence": "monthly milestone-based",
     "documents": [
       "drive://Statement of Work",
       "drive://CRT-90P Hydrophone User Guide Rev 2.pdf",
@@ -30,30 +30,30 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 30932.5,
+        "amount": 33041.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-14"
+        "last_updated": "2026-05-15"
       },
       "purchases": {
         "amount": 185.15,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-05-14"
+        "last_updated": "2026-05-15"
       },
       "other_qbo": {
-        "amount": 0.0,
+        "amount": 417.6,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-05-14"
+        "last_updated": "2026-05-15"
       },
-      "total": 31117.65,
+      "total": 33644.0,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 211422.35,
+    "remaining": 208896.0,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-14T09:20:48Z"
+    "last_reconciled": "2026-05-15T09:08:37Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -226,6 +226,18 @@
     {
       "source": "FEEDBACK",
       "author": "Jack",
+      "date": "2026-05-11",
+      "text": "From Jack (ts=1778249224.812399): <@U0AQE94HJUT> correction: the navy sttr has priority, the SBIR is mostly on schedule"
+    },
+    {
+      "source": "CORRECTION",
+      "author": "Jack",
+      "date": "2026-05-08",
+      "text": "From Jack: the navy sttr has priority, the SBIR is mostly on schedule"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Jack",
       "date": "2026-05-08",
       "text": "From Jack: <@U0AQE94HJUT> correction: the navy sttr has priority, the SBIR is mostly on schedule"
     },
@@ -240,20 +252,8 @@
       "author": "Maciej",
       "date": "2026-05-06",
       "text": "From Maciej: <@U0AQE94HJUT>, the Navy SBIR is mostly caught up, I just updated Asana. Also, I'm updating tasks for the Navy STTR which will be a higher priority this month, so make sure to mention that tomorrow"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Jack",
-      "date": "2026-05-11",
-      "text": "From Jack (ts=1778249224.812399): <@U0AQE94HJUT> correction: the navy sttr has priority, the SBIR is mostly on schedule"
-    },
-    {
-      "source": "CORRECTION",
-      "author": "Jack",
-      "date": "2026-05-08",
-      "text": "From Jack: the navy sttr has priority, the SBIR is mostly on schedule"
     }
   ],
-  "last_full_rebuild": "2026-05-14T09:20:48Z",
+  "last_full_rebuild": "2026-05-15T09:08:37Z",
   "last_incremental_update": null
 }

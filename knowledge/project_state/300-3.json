@@ -13,84 +13,55 @@
   },
   "contract": {
     "type": "unknown",
-    "number": "1305M226D0012",
+    "number": null,
     "total_value": 483000.0,
-    "start_date": "2026-02-01",
-    "end_date": "2031-01-31",
-    "payment_cadence": "Ordering periods annual (Feb 1 through Jan 31 each year); travel and NRE are not-to-exceed line items",
-    "documents": [
-      "drive://Budget Structure",
-      "drive://(1305M226D0012) Attachment 1-Specifications_Black Swift.pdf",
-      "drive://(1305M226D0012) Attachment 2-Schedule of Items and Prices_1305M226D0012.pdf"
-    ]
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "payment_cadence": null,
+    "documents": []
   },
   "budget": {
-    "approved": 13281750.0,
-    "approved_source": "sow_drive",
-    "line_items": [
-      {
-        "category": "Equipment",
-        "amount": 10386250.0,
-        "description": "Black Swift S0 sUAS Platforms: 150 units @ $18,000 (Period 1) + 150 @ $18,630 (Period 2) + 125 @ $19,282 (Period 3) + 125 @ $19,957 (Period 4) + 125 @ $20,655 (Period 5)",
-        "source_doc": null
-      },
-      {
-        "category": "Labor",
-        "amount": 429000.0,
-        "description": "Mission Days Operational support: 30 days @ $2,850 per period × 5 periods = $427,500; Operational and Testing Support: 6 @ $6,000 per period × 5 periods = $180,000; Operator and Observer Training: 1 @ $6,000 × 5 = $30,000; Instructor Training: 1 @ $600 × 5 = $3,000",
-        "source_doc": null
-      },
-      {
-        "category": "Travel",
-        "amount": 250000.0,
-        "description": "Travel for Operational Support: NTE $50,000 per ordering period × 5 periods",
-        "source_doc": null
-      },
-      {
-        "category": "Other",
-        "amount": 60000.0,
-        "description": "Course Development: Operator and Observer Course Development ($6,000 × 5 = $30,000) + Instructor Training Course Development ($6,000 × 5 = $30,000)",
-        "source_doc": null
-      },
-      {
-        "category": "Other",
-        "amount": 990000.0,
-        "description": "Non-Recurring Engineering: Technical Documentation NTE $66,000 × 5 periods + Modeling NTE $66,000 × 5 periods + NHC operational workflow integration NTE $66,000 × 5 periods = $990,000 total",
-        "source_doc": null
-      }
-    ],
+    "approved": 483000.0,
+    "approved_source": "asana_custom_field",
+    "line_items": [],
     "spent": {
       "labor": {
-        "amount": 89937.5,
+        "amount": 90468.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-14"
+        "last_updated": "2026-05-15"
       },
       "purchases": {
         "amount": 902.06,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-05-14"
+        "last_updated": "2026-05-15"
       },
       "other_qbo": {
-        "amount": 4688.5,
+        "amount": 3322.25,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-05-14"
+        "last_updated": "2026-05-15"
       },
-      "total": 95528.06,
+      "total": 94693.06,
       "by_line_item": {}
     },
     "committed": 68.7,
-    "remaining": 13186153.24,
+    "remaining": 388238.24,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-14T09:19:35Z"
+    "last_reconciled": "2026-05-15T09:07:32Z"
   },
   "milestones": [],
   "deliverables": [],
   "team": [
     {
       "name": "Jack Elston",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    },
+    {
+      "name": "Josh Fromm",
       "role": null,
       "allocation_pct": null,
       "hours_last_30d": null
@@ -195,6 +166,6 @@
       "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
     }
   ],
-  "last_full_rebuild": "2026-05-14T09:19:35Z",
+  "last_full_rebuild": "2026-05-15T09:07:32Z",
   "last_incremental_update": null
 }

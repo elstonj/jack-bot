@@ -6,9 +6,9 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 **Key Participants:** Jack Elston (primary decision-maker), Maciej (technical/proposal support), Meredith Needham (budget/administrative), Dan Prendergast (proposal coordination), Beck Cotter (program management), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm, Paige Smith (presentation/logistics support), Arthur (technical partner for payload work), and others contributing to specific proposals.
 
-**Activity Level:** Extremely high throughout the period (March 2024 - May 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Peak intensity reached in late April - early May 2026 with multiple concurrent NASA, DOD, and DOE submissions in final coordination and submission phases. Significant external partnerships and customer engagement alongside proposal work.
+**Activity Level:** Extremely high throughout the period (March 2024 - May 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Peak intensity continues through May 2026 with multiple concurrent submissions in final coordination and submission phases. Significant external partnerships and customer engagement alongside proposal work.
 
-**Time Range:** March 3, 2024 - May 12, 2026
+**Time Range:** March 3, 2024 - May 14, 2026
 
 ---
 
@@ -84,4 +84,4 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
   - NASA Phase I: **Due May 21**
   - DoD submissions (2025.4 cycle): **Due May 13**
 
-- **NOAA
+- **NOAA proposal development ongoing** (through May 2026): Multiple

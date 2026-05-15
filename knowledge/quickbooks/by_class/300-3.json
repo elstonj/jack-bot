@@ -4,15 +4,16 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-05-12",
-    "end": "2026-05-14"
+    "start": "2026-05-14",
+    "end": "2026-05-15"
   },
   "totals": {
     "revenue": 216000.0,
-    "expenses": 4688.5,
+    "expenses": 3322.25,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 4133.2,
-      "Inventory Asset": 555.3
+      "DIRECT COSTS:DC-Direct Material Purchases": 2475.72,
+      "Inventory Asset": 834.44,
+      "FACILITIES:FA-Shop Supplies": 12.09
     }
   },
   "invoices": [
@@ -118,19 +119,57 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-05-13",
-      "doc_number": "",
-      "total": 1912.0,
-      "attributed": 1912.0,
+      "date": "2026-05-14",
+      "doc_number": "0513JELSTON",
+      "total": 366.29,
+      "attributed": 206.62,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request. Josh placed the order directly. See project listed under each item purchased",
+      "lines": [
+        {
+          "amount": 206.62,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "For IDIQ 2026"
+        },
+        {
+          "amount": 90.17,
+          "account": "Inventory Asset",
+          "description": "Future S3 Sales"
+        },
+        {
+          "amount": 48.07,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "For By Light"
+        },
+        {
+          "amount": 21.43,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-14",
+      "doc_number": "68728",
+      "total": 1037.48,
+      "attributed": 339.13,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 1912.0,
+          "amount": 698.35,
+          "account": "Inventory Asset",
+          "description": "Future S3 Sales"
+        },
+        {
+          "amount": 339.13,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "p400 1W 900 MHz FHSS / 2W 400 MHz x 4; Pico Serial Motherboard x 4"
+          "description": ""
         }
       ]
     }

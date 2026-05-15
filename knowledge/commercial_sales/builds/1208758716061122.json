@@ -29,11 +29,13 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Quote sent for S2. Delivery dependent on prior S0 completion; S0 currently in flight testing with known bug. Paperwork nearly complete. Hand-off expected July 2-4.",
+  "notes": "S2 quote sent; customer (Barbados government meteorological services) waiting on funding. S0 VTOL delivery is a prerequisite for S2 progression. S0 had a lingering bug being resolved through flight testing as of March 2026; target was end-of-year 2025 delivery but slipped. SO hand-off expected July 2-4, 2026.",
   "missing_fields": [
     "ship_to",
     "receive_by",
-    "parts"
+    "invoice_number",
+    "invoice_amount",
+    "invoice_date"
   ],
-  "last_evidence_date": "2026-03-17"
+  "last_evidence_date": "2026-05-14"
 }

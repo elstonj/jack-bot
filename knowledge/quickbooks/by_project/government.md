@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $4,387,717.28
-- **Total Expenses (Bills + Purchases):** $1,322,945.91
+- **Total Expenses (Bills + Purchases):** $1,323,744.78
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,064,771.37 (invoiced minus expenses)
+- **Net Position:** $3,063,972.50 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -38,7 +38,7 @@
 | **Black Swift Technologies (Internal/Sales)** | **$197,188.00** | **Equipment sales: S0 4m VTOL, S0 VTOL Variant, E2 UAS, Avionics systems** |
 | NOAA UASD & UxSOC | $9,320.00 | Display Model S0 units with tripods & shipping (Invoices #1761–#1762, 2026-05-08) |
 
-### Recent Invoices (2026-05-11 to 2026-09-28)
+### Recent Invoices (2026-05-14 to 2026-09-28)
 | Invoice # | Date | Amount | Project | Description | Balance |
 |-----------|------|--------|---------|-------------|---------|
 | **#1763** | **2026-05-11** | **$197,188.00** | **Black Swift Technologies** | **Equipment Sales: S0 4m VTOL ($65k), S0 VTOL Variant ($36k), E2 UAS ($56.188k), Avionics ($40k)** | **$197,188.00** |
@@ -49,7 +49,7 @@
 | #1750 | 2026-09-28 | $14,459.00 | [550-1] Navy SBIR Magnetometer | CLIN 0007: Final Report | $14,459.00 |
 
 **Recent invoice total (2026-05-11 to 2026-09-28):** $462,647.00  
-**New invoices in this update:** Invoice #1763 ($197,188.00); previous invoices #1739–#1741, #1749–#1750 confirmed.
+**All invoices confirmed through 2026-09-28.**
 
 ---
 
@@ -76,16 +76,16 @@
 
 ---
 
-### **Materials & Supplies: $444,695.32**
-**Number of transactions:** 179  
+### **Materials & Supplies: $449,555.15**
+**Number of transactions:** 185  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
 - **JAWSTEC:** $19,627.62 (components for S0 platforms)
-- **Amprius battery systems:** $28,637.13 (wire transfers, 01/06/26) + $399.00 (2026-04-29, SA504 x7 quote #00001876) + $399.00 (2026-05-01, 8643C6/Max10.8Ah/4.25V x 7)
-  - **Total Amprius: $29,435.13**
+- **Amprius battery systems:** $28,637.13 (wire transfers, 01/06/26) + $399.00 (2026-04-29, SA504 x7 quote #00001876) + $399.00 (2026-05-01, 8643C6/Max10.8Ah/4.25V x 7) + **$399.00 (2026-05-14, SA504 x7 quote #00001876)**
+  - **Total Amprius: $29,834.13**
 - **Microwave Filter Company / Pressure sensor imports:** $46,079.48 (tariffs included)
 - **General electronics components:** ~$50,000+ (various suppliers)
-- **Composite materials (thermoset laminates, tubes):** $4,164.75 + $2,776.50
+- **Composite materials (thermoset laminates, tubes):** $4,164.75 + $2,776.50 (Northwind Composites, 2026-05-18)
   - **Total composite materials: $6,941.25**
 - **Motors, brushless components:** $181.85 + $55.46
 - **S0 wing components:** Multiple purchases totaling $12,200+
@@ -93,36 +93,46 @@
 - **Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head** (2026-05-07, Purchase #1288885721): **$479.80** [DIRECT COSTS] + $306.08 [Inventory Asset for future S3 sales]
   - **Direct Cost Materials & Supplies impact: $479.80**
 
-**Recent transactions (2026-05-11 to 2026-05-18):**
-- **Purchase (Amazon)** (2026-05-11): $16.94 [DC-Direct Material Purchases]
-  - StarTech.com 1 ft Micro USB Cable: $6.95
-  - Micro USB to Printer Cable 2PCS: $9.99
-- **Purchase #99157746 (Digi Key)** (2026-05-11): $2,259.20 [DC-Direct Material Purchases]
-  - Specific component sourcing for Government projects
-- **Purchase #39155920** (2026-05-11): $106.35
-  - $76.44 [DC-Direct Material Purchases] — Ground station components for 2026 IDIQ
-  - $29.91 [GA-Tariff/Import Duties]
-- **Purchase #2561507246** (2026-05-11): $159.97 [DC-Direct Material Purchases]
-  - TRACO Power TPP 65-112E-J 65W AC/DC Power Supply (Chassis Mount) x 3 — Ground station for 2026 IDIQ
-- **Purchase #605111011462** (2026-05-11): $68.70 [DC-Direct Material Purchases]
-  - Switch Guard Aluminum 1-Inch — Ground station for 2026 IDIQ
-- **Purchase #991518** (2026-05-11): $1,416.00 [DC-Direct Material Purchases]
-  - Ground station components for 2026 IDIQ
-- **Purchase #334139** (2026-05-18): **$4,164.75** [Multiple allocations]
+**Recent transactions (2026-05-14 to 2026-05-18):**
+- **Purchase (Amprius Technologies)** (2026-05-14): **$399.00** [DC-Direct Material Purchases]
+  - SA504 x 7 (quote #00001876) — Battery systems for Navy SBIR projects
+  
+- **Purchase #0513JELSTON** (2026-05-14): **$366.29** [Mixed allocations]
+  - $206.62 [DC-Direct Material Purchases] — For IDIQ 2026
+  - $90.17 [Inventory Asset] — Future S3 Sales
+  - $48.07 [DC-Direct Material Purchases] — For By Light
+  - $21.43 [FACILITIES:FA-Shop Supplies] — *See Facilities category*
+  
+- **Purchase #334139 (Northwind Composites)** (2026-05-18): **$4,164.75** [Mixed allocations]
   - $2,776.50 [DC-Direct Material Purchases] — Thermoset Laminate Linen Tubes
-  - $555.30 [DC-Direct Material Purchases] — (component allocation)
+  - $555.30 [DC-Direct Material Purchases]
   - $832.95 [Inventory Asset] — For future sales of 6 S0s
   - **Project scope:** 2026 IDIQ, Sasquatch, 6 future S0 sales
-  - **Vendor:** Northwind Composites (shipped to Lee Skidmore)
-- **Purchase** (2026-05-13): **$1,912.00** [DC-Direct Material Purchases]
-  - p400 1W 900 MHz FHSS / 2W 400 MHz x 4 (radio modules)
-  - Pico Serial Motherboard x 4
-  - **Project scope:** Ground station/platform components
+  
+- **Purchase #68728** (2026-05-14): **$1,037.48** [Mixed allocations]
+  - $339.13 [DC-Direct Material Purchases]
+  - $698.35 [Inventory Asset] — Future S3 Sales
 
-**Total new materials & supplies (2026-05-11 to 2026-05-18): $9,903.91**
-**Cumulative materials & supplies (prior + new): $444,695.32**
+**Total new direct cost materials & supplies (2026-05-14 to 2026-05-18): $3,859.83**  
+**Cumulative materials & supplies (all direct costs): $449,555.15**
 
 ---
 
-### **Equipment (Direct Cost): $0.00**
-No standalone equipment
+### **Shipping/Freight: $18.60**
+**Number of transactions:** 1  
+**Details:**
+- **FedEx shipment (2026-05-14, Purchase FEDEX37097183):** $18.60 [DC-Direct Cost Shipping, Freight & Delivery]
+  - Amprius Technologies shipment for Navy SBIR project [550-1] (order #11674)
+  - *Note: Additional $79.25 for future S3 sales inventory asset in separate category*
+
+---
+
+### **Rent/Facilities: $21.43**
+**Number of transactions:** 1  
+**Details:**
+- **Shop Supplies** (2026-05-14, Purchase #0513JELSTON): $21.43 [FA-Shop Supplies]
+  - Part of mixed facility/direct cost allocation from Josh's direct order
+
+---
+
+### **Indirect Costs: $1,823

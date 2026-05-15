@@ -1,4 +1,5 @@
 # View: Flight Testing
 
-Small project with 1 tasks.
-- [Open] Validation Flight #2 — Dan Prendergast
+Small project with 2 tasks.
+- [Open] Make checklists — Ethan Domagala
+- [Open] Make Flight Test Form — Ethan Domagala

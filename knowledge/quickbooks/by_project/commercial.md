@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $2,877,251.34
-- **Total Expenses (Bills + Purchases):** $228,633.54
+- **Total Expenses (Bills + Purchases):** $228,940.83 *(+$307.29 from new transactions)*
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,648,617.80 (Revenue exceeds expenses)
+- **Net Position:** $2,648,310.51 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – May 18, 2026
 
 ---
@@ -74,7 +74,7 @@
     - Invoice #1757 (2026-05-08): $63,735.00 — Two (2) built out Halo platforms ready for car launch demo
     - Invoice #1756 (2026-05-08): $47,894.00 — Design tested Halo airframe and CAD step files
     - Invoice #1755 (2026-05-08): $63,735.00 — Two (2) built out Halo platforms ready for car launch demo
-    - Invoice #1754 (2026-05-13): $47,894.00 — Design tested Halo airframe and CAD step files *(NEW)*
+    - Invoice #1754 (2026-05-13): $47,894.00 — Design tested Halo airframe and CAD step files
   - **One invoice from May 8, 2026 (IRISS, CU Boulder):** $664.98
   - **Other outstanding invoices:** $1,529,708.28
 
@@ -110,12 +110,13 @@
 ---
 
 ### **Materials & Supplies (Direct Cost Purchases)**
-**Total: $76,802.35** | 11 transactions | Largest item: $2,776.50
+**Total: $77,108.64** | 13 transactions | Largest item: $2,776.50
 
 #### Direct Cost Purchases
-- **Purchase #334139 (2026-05-18):** $4,164.75 *(NEW)*
+- **Purchase #334139 (2026-05-18):** $4,164.75
   - $2,776.50 — Thermoset Laminate Linen Tubes (shipped to Lee Skidmore/Northwind Composites)
   - $555.30 — Additional materials
   - $832.95 — Allocation to Inventory Asset (future sales of 6 S0s)
   - **Direct cost allocation:** $3,331.80
-  - Note: All orders handled directly by sales rep; applies to 2026 IDIQ, Sasquatch, and 6 future S0 sales
+  - **Projects:** 2026 IDIQ, Sasquatch S0s, 6 future S0 sales
+  -

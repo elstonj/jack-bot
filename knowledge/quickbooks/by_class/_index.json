@@ -1,36 +1,10 @@
 {
   "period": {
-    "start": "2026-05-12",
-    "end": "2026-05-14"
+    "start": "2026-05-14",
+    "end": "2026-05-15"
   },
-  "scanned_at": "2026-05-14",
+  "scanned_at": "2026-05-15",
   "projects": [
-    {
-      "project_code": "001-11",
-      "revenue": 0.0,
-      "expenses": 44.32,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 1,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "(001-11) IRAD Methane Emission Detection"
-      ]
-    },
-    {
-      "project_code": "001-7",
-      "revenue": 0.0,
-      "expenses": 318.97,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 3,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "(001-7) IRAD - S3"
-      ]
-    },
     {
       "project_code": "032-3",
       "revenue": 0.0,
@@ -46,11 +20,11 @@
     },
     {
       "project_code": "043-3",
-      "revenue": 47894.0,
-      "expenses": 0.0,
-      "invoice_count": 1,
+      "revenue": 0.0,
+      "expenses": 48.07,
+      "invoice_count": 0,
       "bill_count": 0,
-      "purchase_count": 0,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -73,10 +47,10 @@
     {
       "project_code": "300-3",
       "revenue": 216000.0,
-      "expenses": 4688.5,
+      "expenses": 3322.25,
       "invoice_count": 3,
       "bill_count": 0,
-      "purchase_count": 2,
+      "purchase_count": 3,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -86,23 +60,24 @@
     {
       "project_code": "550-1",
       "revenue": 49459.0,
-      "expenses": 0.0,
+      "expenses": 417.6,
       "invoice_count": 2,
-      "bill_count": 0,
-      "purchase_count": 0,
+      "bill_count": 1,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "[550-1] Navy SBIR Magnetometer"
+        "[550-1] Navy SBIR Magnetometer",
+        "[550] United States Navy:[550-1] Navy SBIR Magnetometer"
       ]
     },
     {
       "project_code": "_unclassified",
       "revenue": 0.0,
-      "expenses": 63669.53,
+      "expenses": 14351.41,
       "invoice_count": 0,
       "bill_count": 2,
-      "purchase_count": 4,
+      "purchase_count": 7,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [

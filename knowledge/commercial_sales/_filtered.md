@@ -4,51 +4,32 @@ _Tasks and email threads Haiku flagged as NOT a customer build / NOT a real supp
 _Use this to spot anything that was filtered too aggressively. To force-include a build,_
 _reply in #commercial-sales with `track this: <customer or gid>` (Phase 2 feature)._
 
-_Last updated 2026-05-14 17:58 (generated from scan log)._
+_Last updated 2026-05-15 03:23._
 
 ## Builds filtered out of the digest
 
-| Date | Asana task | Reason |
-|------|------------|--------|
-| 2026-05-14 | Send P-3 Integration doc to DoD meeting participants | This is an internal action item (Send P-3 Integration doc to DoD meeting participants) rather than a tracked customer bu |
-| 2026-05-14 | Cleanup DOD slides and Send out to group | Internal action item to clean up and distribute DoD presentation slides, not a tracked customer build. |
-| 2026-05-14 | EW Concepts Development | This is an internal BD Pipeline task for EW concepts development with a partner (DoW, FirstRF, 3dB Labs, BAE), not a tra |
-| 2026-05-14 | S0-AD with ATR | Task name 'S0-AD with ATR' is an internal action item/concept development, not a tracked customer build order. |
-| 2026-05-14 | Urban Sky Stratospheric Balloon | This is a speculative BD/partnership exploration task ('Potential collaboration'), not a tracked customer build with con |
-| 2026-05-14 | M&R Solutions/FireScore Sensor | This is a BD pipeline task for a demo/evaluation (demo in LA, camera integration, gimbal design) with no evidence of a c |
-| 2026-05-14 | S0-AD for USAF WC-130J Weather Squadrons | This is a BD/facility visit task for a government customer (USAF WC-130J team), not a tracked product build or sales ord |
-| 2026-05-14 | UK Royal Navy ASW Magnetometer Concept | This is a BD/concept development task for a potential future subcontract under Lockheed Martin UK, not a tracked custome |
-| 2026-05-14 | Nexus Weather | Asana task 'Nexus Weather' with assignee Dan Prendergast appears to be an internal project or concept development, not a |
-| 2026-05-14 | Develop concepts for KaraDag cooperation | Task is internal BD concept development, not a tracked customer build order. |
-| 2026-05-14 | Breon Defence Systems | This is a business development outreach task (scheduled visit/partnership discussion), not a customer build order. |
-| 2026-05-14 | Ultra PCS - pneumatic launcher collab | This is a collaborative engineering discussion (pneumatic launcher development for USAF/NOAA) rather than a tracked cust |
-| 2026-05-14 | TurfLogic - Soil Moisture Sensor | This is a BD Pipeline lead/inquiry task, not a customer build order. TurfLogic is in early discovery phase (call schedul |
-| 2026-05-14 | UC Santa Cruz - S3 | Asana task represents a sales prospect/lead (UC Santa Cruz - S3) rather than a confirmed customer build order in progres |
-| 2026-05-14 | [1323] [450] INSTAAR VTOL Estimate | This is an internal BD Pipeline task (estimate preparation for grant application) rather than a tracked customer build o |
-| 2026-05-14 | [1352] Vanderbilt University-E2 System | This is a BD Pipeline task for a proposal/quote stage with no evidence of an actual customer build order or invoice; it |
-| 2026-05-14 | Spatial Logic | Spatial Logic is a BD/partnership inquiry task, not a customer build order. Recent emails show outreach from vendors (At |
-| 2026-05-14 | 18th Combat Weather - SSgt Garrett Jansen | This is a pre-sales inquiry/lead for USAF 18 Combat Weather Squadron, not a customer build order. The task documents ini |
-| 2026-05-14 | Skyways | Cold inbound lead awaiting initial sales call; no customer build, parts, items, or payment activity—this is a BD Pipelin |
-| 2026-05-14 | Synergist, Mobility Accelerator | This is a BD Pipeline task for early-stage requirement-gathering and partner identification, not a tracked customer buil |
-| 2026-05-14 | Racing Surfaces Laboratory | This is a student sponsorship request from CU Autonomous Racing, not a commercial customer build order for Black Swift a |
-| 2026-05-14 | [450] Alaska Coastline Erosion Surveys (University of Colora | This is a BD Pipeline inquiry task (quote request from University of Colorado for potential drone rental/data collection |
-| 2026-05-14 | Reveal Technology | This is a BD Pipeline lead (Reveal Technology contact from July 2024) with no customer build activity—emails are vendor |
-| 2026-05-14 | [1285, 1290] NASA AFRC S2 Payload Kit and MHP | Internal BD Pipeline task tracking NASA funding status; no active customer build order or delivery commitment. |
-| 2026-05-14 | [1302] NASA Ames (Chris Scofield) Nosecone and payload kit | Task title '[1302] NASA Ames (Chris Scofield) Nosecone and payload kit' with status 'E.mail out' and zero quoted/closed |
-| 2026-05-14 | [1298] ERAU - S0 & S0 VTOL deployment | This is a stalled sales lead from a grant proposal that was not funded; no active customer build in progress. |
-| 2026-05-14 | Peter Sutherland - Laboratoire d'Océanographie Physique et S | This is a BD Pipeline task for a prospective customer inquiry (MHP interest), not a confirmed customer build with purcha |
-
-## Email threads filtered out of support pipeline
-
-| Date | Reason |
-|------|--------|
-| 2026-05-14 | This is a pre-sales technical inquiry about flight control architecture from a research institution, not a customer-repo |
-| 2026-05-14 | Email is a press coverage notification from Robotics.Press, not a customer support case involving a delivered BST device |
-| 2026-05-14 | This is a pre-sales technical inquiry from a university researcher asking about flight control architecture specificatio |
-| 2026-05-14 | Pre-sales technical inquiry about mounting system and payload integration from prospect, not a customer with a delivered |
-| 2026-05-14 | This is a pre-sales technical inquiry about ASME certification and quote verification for a prospective new S2 system pu |
-| 2026-05-14 | Pre-sales technical inquiry from a prospect asking about S2 UAS specifications and capabilities, not a customer with a d |
-| 2026-05-14 | This is a pre-sales technical inquiry about radio specifications and purchasing a spare S-2 UAS, not a support case for |
-| 2026-05-14 | Pre-sales technical inquiry from NASA prospect requesting radio specifications and emission information for a potential |
-| 2026-05-14 | This is a partnership/investment pitch inquiry, not a customer reporting an issue with a delivered BST device. |
-| 2026-05-14 | This is a pre-sales quote request for an S2 SIM system from a prospect, not a customer reporting an issue with a deliver |
+| Gid | Date | Asana task | Reason |
+|-----|------|------------|--------|
+| `1214467659747519` | 2026-05-15 | Send P-3 Integration doc to DoD meeting participants | Internal action item (Send P-3 Integration doc to DoD meeting participants) — not a customer build or product delivery. |
+| `1214467659747516` | 2026-05-15 | Cleanup DOD slides and Send out to group | Internal action item to clean up and send DoD slides — not a tracked customer build. |
+| `1211374849277042` | 2026-05-15 | EW Concepts Development | This is a BD/concept development task, not a tracked customer build — 'EW Concepts Development' with DoW is internal strategic work, not an active sales order. |
+| `1211892779240607` | 2026-05-15 | S0-AD with ATR | Task name 'S0-AD with ATR' appears to be an internal project code or development item rather than a tracked customer build with a real sales transaction. |
+| `1211925735227149` | 2026-05-15 | Urban Sky Stratospheric Balloon | This is an early-stage business development / partnership exploration task, not a confirmed customer build with defined deliverables, items, or pricing. |
+| `1212280407794948` | 2026-05-15 | M&R Solutions/FireScore Sensor | This is a business development pipeline task for a custom sensor payload demo, not a tracked customer build with defined items, ship-to address, or purchase agreement. |
+| `1211602206477042` | 2026-05-15 | S0-AD for USAF WC-130J Weather Squadrons | This is a business development / facility tour inquiry, not a customer build order. The task documents a USAF team's exploratory visit to learn about BST products for potential future integration, not |
+| `1212843096762001` | 2026-05-15 | UK Royal Navy ASW Magnetometer Concept | This is a concept/BD exploration task with Lockheed Martin UK and Royal Navy, not a tracked customer build order with defined items, ship-to, or delivery timeline. |
+| `1213361370552423` | 2026-05-15 | Nexus Weather | Nexus Weather is a BD/strategic initiative task (DoD roadmap discussion, weather radar collaboration exploration) rather than a specific customer build with deliverables. |
+| `1213560538361427` | 2026-05-15 | Develop concepts for KaraDag cooperation | Asana task 'Develop concepts for KaraDag cooperation' is an internal BD/concept development action item, not a tracked customer build. |
+| `1213208155996862` | 2026-05-15 | Breon Defence Systems  | This is a business development / partnership exploration task, not a tracked customer build or sales order. |
+| `1210813239774018` | 2026-05-15 | Ultra PCS - pneumatic launcher collab | This is a collaborative engineering discussion/feasibility task with Ultra PCS on pneumatic launcher design, not a tracked customer build with defined deliverables, ship-to address, or payment terms. |
+| `1210571738941062` | 2026-05-15 | TurfLogic - Soil Moisture Sensor | This is a pre-sales inquiry and NDA negotiation, not an active customer build order. |
+| `1208663032843969` | 2026-05-15 | [1323] [450] INSTAAR VTOL Estimate  | This is an internal sales pipeline task (estimate for grant application) rather than a tracked customer build order. |
+| `1211151418219895` | 2026-05-15 | Spatial Logic | This is a BD Pipeline task representing incoming business development inquiries (WIPO patent survey and Atomgeo collaboration outreach), not a tracked customer build for BST products. |
+| `1210802645477201` | 2026-05-15 | 18th Combat Weather - SSgt Garrett Jansen | This is a BD pipeline inquiry from USAF 18 Combat Weather Squadron — a pre-sales opportunity discussion, not a confirmed customer build order. |
+| `1211035608658591` | 2026-05-15 | Skyways  | This is a cold sales inquiry / BD pipeline item (waiting to schedule initial sales call), not yet a confirmed customer build with purchase commitment. |
+| `1208791234740725` | 2026-05-15 | Synergist, Mobility Accelerator | Internal BD pipeline task for requirements gathering and partner identification, not a customer build order. |
+| `1208185314692566` | 2026-05-15 | [450] Alaska Coastline Erosion Surveys (University of Colorado) | This is a quote inquiry for potential aircraft rental and data collection services, not a confirmed customer build order. |
+| `1207858359164381` | 2026-05-15 | Reveal Technology | This is a BD Pipeline lead-tracking task for a prospective customer (Reveal Technology), not an active customer build. The Asana record shows initial contact only with 'Lead status: Contacted' and 'Ne |
+| `1204583657474493` | 2026-05-15 | [1285, 1290] NASA AFRC S2 Payload Kit and MHP | This is a NASA Ames research coordination task (S2 Payload Kit) with funding pending and no active customer purchase order; the Asana notes indicate estimate review and funding awaiting, not a confirm |
+| `1205360652382905` | 2026-05-15 | [1302] NASA Ames (Chris Scofield) Nosecone and payload kit | Task name references 'Chris Scofield' and 'Nosecone and payload kit' but no customer build evidence, invoice, or project alignment found; appears to be a BD/internal action item with no associated QBO |
+| `1205785613117687` | 2026-05-15 | Peter Sutherland - Laboratoire d'Océanographie Physique et Spatiale | This is a BD Pipeline task tracking an inquiry/lead, not an active customer build with confirmed order or commitment. |

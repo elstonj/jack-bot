@@ -33,11 +33,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Michigan Tech interested in S0 and S2 for atmospheric profiling research. Estimate sent per custom field. First contact 2025-07-14 via website.",
+  "notes": "Initial contact 2025-07-14 via website. Customer (Dr. Shawn Brueshaber) interested in S0 and S2 UAVs for atmospheric profiling with options for aerial imaging and aerosol measurement systems. Quote sent; estimated value $21,000. No matching QBO invoice found for Michigan Tech. Next step: invoice upon order confirmation.",
   "missing_fields": [
     "ship_to",
     "receive_by",
-    "parts"
+    "parts",
+    "invoice_number"
   ],
   "last_evidence_date": "2026-04-23"
 }

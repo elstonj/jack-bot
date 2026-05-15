@@ -29,7 +29,7 @@
   "ship_state": "none",
   "estimate_date": "2025-10-31",
   "invoice_date": null,
-  "invoice_amount": null,
+  "invoice_amount": 56000,
   "invoice_number": null,
   "paid_date": null,
   "parts": [],
@@ -41,10 +41,11 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Quote for E2/Training/Engineering sent 10/31/2025 for $56k. Bruce Cogan (retired NASA) leading research proposal with Cal State Northridge for NASA ULI program. Need VTOL UAV for 2-way communication flight testing with city/building infrastructure; potential flight controller programming required.",
+  "notes": "Research proposal for NASA ULI with Cal State Northridge. Retired NASA contact Bruce Cogan requesting VTOL UAV for flight testing 2-way communication with city/building infrastructure. Quote for ~$56k sent 10/31/2025 covering E2 aircraft, avionics, ground station, training, simulation, and engineering support for control law modifications. No recent movement; estimate stage.",
   "missing_fields": [
     "ship_to",
     "receive_by",
+    "invoice_number",
     "parts"
   ],
   "last_evidence_date": "2025-10-31"

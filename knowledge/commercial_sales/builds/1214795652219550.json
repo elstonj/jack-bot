@@ -4,15 +4,11 @@
   "customer": "Canadian Defense Forces / NexTech",
   "customer_contact": "",
   "customer_email": "",
-  "receive_by": null,
-  "ship_to": "Ottawa, Canada",
+  "receive_by": "2026-06-25",
+  "ship_to": "",
   "items": [
     {
-      "description": "S3 UAS with 120km range (1h 35min TOF)",
-      "quantity": 1
-    },
-    {
-      "description": "EO/IR gimbal",
+      "description": "S3 UAS with EO/IR gimbal",
       "quantity": 1
     }
   ],
@@ -26,14 +22,7 @@
   "paid_date": null,
   "parts": [
     {
-      "name": "EO/IR gimbal (small/light variant)",
-      "ordered": false,
-      "received": false,
-      "vendor": "",
-      "order_date": null
-    },
-    {
-      "name": "Extended-range battery pack",
+      "name": "EO/IR gimbal",
       "ordered": false,
       "received": false,
       "vendor": "",
@@ -48,12 +37,11 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Demo flight planned for Ottawa June-August 2026 to validate 120km range. Vendor meet-and-greet also scheduled. Arctic demo in Whitehorse Nov-April 2027 planned to prove capabilities for Canadian Rangers operations.",
+  "notes": "Canadian Rangers demo (Ottawa) planned for June 2026. Customer (NexTech/Canadian Defense Forces) wants S3 with 120km range (1h 35min TOF) and EO/IR gimbal. Multi-phase: flight test Ottawa Jun-Aug 2026, vendor meet-and-greet, Arctic demo Whitehorse Nov 2026-Apr 2027, potential procurement by Joint Forces Command.",
   "missing_fields": [
     "customer_contact",
     "customer_email",
-    "receive_by",
-    "items",
+    "ship_to",
     "parts"
   ],
   "last_evidence_date": "2026-05-14"

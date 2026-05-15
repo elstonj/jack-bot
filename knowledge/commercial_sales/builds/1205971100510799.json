@@ -5,21 +5,33 @@
   "customer_contact": "Kevin Adkins",
   "customer_email": "adkinsk@erau.edu",
   "receive_by": null,
-  "ship_to": "Embry-Riddle Aeronautical University, Attn: Accounts Payable, 1 Aerospace Boulevard, Daytona Beach, FL 32114-3900, United States",
+  "ship_to": "Kevin Adkins\nEmbry-Riddle Aeronautical University\nAttn: Central Receiving\n1 Aerospace Boulevard\nDaytona Beach, FL 32114-3900\nUnited States",
   "items": [
     {
-      "description": "S0 VTOL",
-      "quantity": 4
+      "description": "S0 UAS - VTOL",
+      "quantity": 2
+    },
+    {
+      "description": "Samsung Galaxy Tab Active2",
+      "quantity": 1
+    },
+    {
+      "description": "SwiftStation\u2122 Ground Station",
+      "quantity": 1
+    },
+    {
+      "description": "S0 Case",
+      "quantity": 1
     }
   ],
-  "payment_state": "invoice_sent",
-  "build_state": "none",
+  "payment_state": "paid",
+  "build_state": "in_qc",
   "ship_state": "none",
   "estimate_date": null,
-  "invoice_date": "2026-01-08",
-  "invoice_amount": 2462.5,
-  "invoice_number": "1730",
-  "paid_date": null,
+  "invoice_date": "2025-05-07",
+  "invoice_amount": 21181.81,
+  "invoice_number": "1667",
+  "paid_date": "2025-05-07",
   "parts": [],
   "tracking_number": null,
   "carrier": null,
@@ -29,11 +41,10 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "This is the grant-funded follow-on order for 4 additional S0 VTOL units (Asana task [1313]). Prior orders: 2 VTOL units paid in full (Invoices 1667 & 1545); currently awaiting delivery with settlement discussions in progress per internal disclosure docs. Current invoice 1730 ($2,462.50) is open/unpaid. Project expected delivery late summer 2025 per registry; customer evaluating initial delivery before committing to this batch.",
+  "notes": "Two S0 VTOL units paid in full (Invoice 1667, May 2025). Currently in extended flight testing/validation phase tracking a bug; Beck reported daily flight testing in progress as of March 2026 with goal to resolve and deliver. Training scheduled June 2025 @ BST (historical note).",
   "missing_fields": [
-    "receive_by",
-    "parts",
-    "build_state"
+    "shipped_date",
+    "ship_state"
   ],
-  "last_evidence_date": "2026-05-05"
+  "last_evidence_date": "2026-03-17"
 }
