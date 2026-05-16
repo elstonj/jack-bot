@@ -32,10 +32,10 @@
   "build_state": "in_assembly",
   "ship_state": "none",
   "estimate_date": null,
-  "invoice_date": "2025-08-22",
-  "invoice_amount": 2900.0,
+  "invoice_date": "2024-11-04",
+  "invoice_amount": 3470.0,
   "invoice_number": "1633",
-  "paid_date": "2025-08-22",
+  "paid_date": "2024-11-04",
   "parts": [
     {
       "name": "Iridium components/modules",
@@ -81,12 +81,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "NASA Ames primary contact transitioned from Isaac Anderson to Randy Hobbs (r.hobbs@nasa.gov) as of Dec 30, 2025. Build includes S2 Simulator ($2,900 paid Aug 22, 2025), repairs to customer's existing S2 (S20009) including flap servo, payload computer, and mux board replacement (warranty, unpaid), plus Iridium component retrofit to S20009, ground stations, and spare tail. Recent Slack activity (Apr 22\u2013May 5, 2026) indicates Iridium parts estimation in progress; red/blue paint color selection underway for wings and fuselage. Isaac's original S2 is also receiving warranty repair work (flap servo, computer, mux board).",
+  "notes": "Primary NASA Ames contact transitioned from Isaac Anderson to Randy Hobbs (r.hobbs@nasa.gov) as of Dec 30, 2025. Build includes S2 Simulator and Iridium retrofit to existing S2 (S20009), 2\u00d7 ground stations, and spare tail. Isaac's original S2 also receiving warranty repair work (flap servo, payload computer, mux board). QBO Invoice #1633 dated 2024-11-04 for $3,470 marked PAID. Recent Slack activity (May 15, 2026) confirms in-assembly status with Iridium parts estimation in progress. Paint color selection underway.",
   "missing_fields": [
     "ship_to",
     "receive_by",
     "parts.vendor",
-    "estimate for Iridium retrofit cost"
+    "parts.received status"
   ],
-  "last_evidence_date": "2026-05-05"
+  "last_evidence_date": "2026-05-15"
 }

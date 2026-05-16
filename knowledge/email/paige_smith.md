@@ -1,62 +1,55 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,530 (1,488 previous + 42 new)
-- **Date range:** March 24 – May 15, 2026 (53 days)
+- **Total messages scanned:** 1,555 (1,530 previous + 25 new)
+- **Date range:** March 24 – May 16, 2026 (54 days)
 - **Approximate volume:** ~28.8 messages per day (sustained consistency)
-- **Pattern:** New 42-message sample (May 14–15) confirms **continued 88–92% automated/newsletter-driven baseline**. Heavy concentration in defense/UAS/space industry intelligence, geopolitical news (NYT multi-segment), professional development platforms (LinkedIn, web tools), and recruiting/event visibility. **Krateo Sky 3D render iteration previously active** (no new activity in this sample). **Internal operations meetings documented and ongoing** (weekly Wednesday recurring). **Weekend activity pattern sustained** (May 15 activity at 02:59 UTC). **Profile visibility elevated** (11 search appearances documented).
+- **Pattern:** New 25-message sample (May 15–16) confirms **continued 88–92% automated/newsletter-driven baseline**. Heavy concentration in defense/UAS/space industry intelligence, geopolitical news (NYT multi-segment), professional development platforms (LinkedIn, web tools), and recruiting/event visibility. **Internal operations meetings documented and ongoing** (weekly Wednesday recurring). **Weekend activity pattern sustained** (May 16 activity at 02:21 UTC). **Profile visibility elevated** (13 search appearances in new sample alone).
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Senders
-1. **Jack Elston** (elstonj@blackswifttech.com) — **SUSTAINED/CRITICAL/FEDERAL PARTNERSHIPS & INTERNAL OPERATIONS**:
-   - **New message (May 14, 08:54, IMPORTANT)**: "Re: Aeropods check-in and moving forward" — confirms ongoing project coordination on Aeropods (hardware/systems integration); Jack forwarding discussion to Meredith Needham indicates multi-party operational review.
-   - **Continuing context:** Weekly BST Internal Update Meeting (Wednesday 1–1:30pm MDT) participation confirmed.
+1. **Jack Elston** (elstonj@blackswifttech.com, also media@blackswifttech.com) — **SUSTAINED/CRITICAL/FEDERAL PARTNERSHIPS & INTERNAL OPERATIONS & MEDIA AGGREGATION**:
+   - **Continuing context:** Weekly BST Internal Update Meeting (Wednesday 1–1:30pm MDT) participation confirmed. Media distribution hub for external intelligence (UAS VISION forwarding on May 15, 10:08 UTC routed to media@ alias).
+   - **NEW SIGNAL (May 15, 10:08)**: UAS VISION DAILY NEWS forwarded via Jack's media@ address confirms Jack operating as internal news/intelligence aggregator for team situational awareness.
 
-2. **Meredith Needham** (meredith.needham@blackswifttech.com) — **SUSTAINED/OPERATIONS & PROJECT COORDINATION**:
-   - **New messages (May 14, 11:04 & escalation pattern, IMPORTANT)**: "Re: Aeropods check-in and moving forward" — indicates Meredith as primary project owner/decision-maker on Aeropods status; Jack Elston replying to her thread (reverse recipient pattern from typical); subject marked IMPORTANT in both directions.
-   - **Additional signal (May 14, 16:59 & 17:03)**: Quickbooks Bill Pay notifications routed to meredith.needham@blackswifttech.com + sales@blackswifttech.com — suggests Meredith managing financial operations/vendor payments alongside operations.
-   - **Continuing context:** Weekly Business Operations Meeting (Wednesday 1:30–2:30pm, rotating times) participation confirmed.
+2. **Meredith Needham** (meredith.needham@blackswifttech.com) — **SUSTAINED/OPERATIONS & FINANCIAL MANAGEMENT**:
+   - **NEW MESSAGES (May 15, 17:24 & 17:16, DUPLICATE)**: Quickbooks Bill Pay notifications — **NEW VENDOR SIGNAL**: "Processing payment to Amprius Technologies" — battery/energy storage supplier flagged; duplicate processing suggests transaction confirmation workflow or payment dispute/retry.
+   - **Continuing context:** Weekly Business Operations Meeting (Wednesday 1:30–2:30pm, rotating times); financial operations/vendor payments management confirmed.
 
 ### Top External Senders (Updated)
 
 1. **The New York Times** (breakingnews, editorpicks, nytdirect) — **SUSTAINED VERY HIGH (primary time consumer)**:
-   - **9 new messages (May 14–15)**:
-     - **Breaking news (5)**: Cuba oil shortage (May 14, 22:16), Supreme Court abortion pill access ruling (May 14, 21:59), Yale medical school discrimination lawsuit (DOJ vs Yale, May 14, 19:58), Indian billionaire fraud charges dropped (May 14, 15:44), China airport message to Trump (May 14, 16:09)
-     - **Editor picks (2)**: Kennedy heir campaign erratic behavior (May 14, 21:01, marked IMPORTANT), China airport message (May 14, 16:09, marked IMPORTANT)
-     - **Morning briefing (1)**: "Who's running in 2028?" (May 14, 10:43, marked IMPORTANT)
-     - **Promotional (1)**: "$1/wk sale" (May 14, 14:30)
-   - **Pattern expansion:** Geopolitical focus intensifying (Cuba, China-Trump, India trade/legal); domestic policy pivots evident (education discrimination, abortion access). Three messages marked IMPORTANT by Paige suggest heightened attention to policy/geopolitical themes.
+   - **5 new messages (May 15–16)**:
+     - **Breaking news (3)**: Supreme Court Virginia House map ruling (May 15, 23:51, NOT marked IMPORTANT — deprioritized), Tina Peters 2020 election denier release (May 15, 20:52, NOT marked IMPORTANT), Militia commander charged with plots against Jewish sites (May 15, 17:39, NOT marked IMPORTANT).
+     - **Morning briefing (1)**: "The Morning: At the summit" (May 15, 10:49, marked IMPORTANT) — summit attendance/policy briefing.
+     - **Editor picks (1)**: Lily Allen portrait/artist career story (May 15, 13:01, marked IMPORTANT) — **ANOMALY**: art/culture focus (rare in pattern); suggests cultural interest or algorithm drift.
+   - **Pattern shift**: **DEPRIORITIZATION SIGNAL**: Election denial/domestic militia storylines NOT marked IMPORTANT (May 15 batch); indicates possible filter tuning or reduced political urgency. Morning briefing and arts culture pieces marked IMPORTANT instead — suggest policy/summit focus elevated, sensationalism reduced.
 
-2. **Air and Space Forces Magazine / Mitchell Institute (AFA.org)** — **ELEVATED/DEFENSE POLICY & CONGRESSIONAL BRIEFINGS**:
-   - **4 new messages (May 14–15, 3 marked IMPORTANT)**:
-     - **News alert (May 14, 14:38, IMPORTANT)**: "Momentum Builds for More than 100 B-21s" — procurement/platform expansion signal.
-     - **Budget briefing (May 14, 05:37, IMPORTANT)**: "🚀 Happening Today! Who manages the Space Force's budget?" — Space Force budget oversight event (same-day invitation).
-     - **Congressional briefing (May 14, 07:15, IMPORTANT)**: "🌎Rescheduled! Capitol Hill Defense Perspectives: Conversation With Rep Pfluger (R-TX)" — Defense-focused House member (Texas delegation); rescheduled event indicates ongoing engagement.
-     - **Daily briefing (May 14, 03:53, IMPORTANT)**: "USAF Eyes Next-Gen Reaper" — drone platform evolution tracking.
-   - **NEW PATTERN SIGNAL:** Three AFA/Mitchell Institute messages marked IMPORTANT; indicates active tracking of defense procurement, Space Force budgeting, and congressional defense perspectives. Rep Pfluger (TX) connection suggests potential defense industrial base/acquisition interest.
+2. **Air and Space Forces Magazine / Mitchell Institute (AFA.org)** — **SUSTAINED ELEVATION/DEFENSE POLICY & SPACE FORCE OPERATIONS**:
+   - **2 new messages (May 15–16, both marked IMPORTANT)**:
+     - **Space Command briefing (May 15, 07:55)**: "🌎 SPACECOM Commander + Lessons from the Reagan Build-Up" — Space Command leadership + historical defense policy comparison; marks escalation from budget/procurement to strategic command posture.
+     - **KC-46 technical alert (May 16, 03:44, marked IMPORTANT)**: "New KC-46 Remote Vision System Slips to 2028" — **ACQUISITION DELAY SIGNAL**: Air Force tanker program (Boeing KC-46) remote operations capability delayed; suggests tracking critical USAF platform development and acquisition schedule impacts.
+   - **Signal**: **SUSTAINED ELEVATION with STRATEGIC FOCUS SHIFT**: From congressional briefings + budget + drone platform evolution (May 14 sample) to Space Command operations + USAF major platform delays (May 15–16 sample). Indicates active tracking of strategic command readiness and acquisition program health.
 
-3. **LinkedIn** (updates, messages, notifications, groups, news) — **SUSTAINED ELEVATION/PROFESSIONAL VISIBILITY & RECRUITMENT**:
-   - **7 new messages (May 14–15)**:
-     - **Job market intelligence (2)**: "Marketing Manager (Space Tech / Deep Tech) role paying up to $130K / year" (May 14, 16:59); earlier job opening notification (May 14) — suggests active job market monitoring despite current role.
-     - **Company activity (1)**: "Black Swift Technologies recently posted" (May 15, 02:59, marked IMPORTANT) — BST thought leadership/content engagement.
-     - **Profile engagement (3)**: "Your profile is popular - 11 search appearances" (May 14, 14:59); "Paige, add William Minton" (May 15, 00:59); "12 people looked at your profile" (previous sample) — sustained recruiter attention (11 searches in single period).
-     - **Group activity (1)**: "Don't miss conversations in Aviation Week MRO" (May 14, 17:55, marked IMPORTANT) — **NEW GROUP**: Maintenance/repair/overhaul community; complements earlier Aviation Network membership.
-   - **Signal**: **CONTINUED ELEVATION**: 11 profile search appearances; inbound job notifications (Space Tech focus); active recruiter visibility; group participation widening to include MRO/maintenance engineering alongside commercial UAS and defense/space.
+3. **LinkedIn** (updates, messages, notifications, groups, news) — **ELEVATED VISIBILITY & RECRUITMENT INTENSITY**:
+   - **4 new messages (May 15–16, 2 marked IMPORTANT)**:
+     - **Profile engagement (2)**: "13 people looked at your profile" (May 16, 02:21, marked IMPORTANT); "Tim Cahill, President, Missiles and Fire Control, is popular in your network" (May 15, 18:59, NOT marked IMPORTANT but HIGH SIGNAL).
+     - **Job market intelligence (1)**: "Marketing Specialist: Turner Construction Company and hired roles near you" (May 16, 00:59, marked IMPORTANT) — construction/commercial sector job placement (divergent from defense/UAS pattern).
+     - **Client/Service request (1)**: "Industrial Design request from John Knight and other clients are available" (May 15, 16:38, marked IMPORTANT) — **NEW SIGNAL**: Inbound service/consulting requests for BST (industrial design capability signaling).
+   - **CRITICAL NEW SIGNAL — May 15, 18:59**: **Tim Cahill, President, Missiles and Fire Control (Lockheed Martin division)** flagged as "popular in your network" — **MAJOR DEFENSE INDUSTRIAL CONNECTION**: LM Missiles & Fire Control is RMS/precision munitions/autonomous weapons division; Paige's network proximity to Tim Cahill (division president level) suggests defense contractor relationship mapping or recruitment/partnership visibility. **NOT marked IMPORTANT by Paige** (algorithm-suggested, not user-prioritized), but strategically significant.
+   - **Pattern**: **13 profile searches in 24 hours** (May 16, 02:21); recruiter attention sustained at high level. Inbound consulting requests (industrial design) suggest BST service offerings gaining traction. Tim Cahill connection indicates Paige networked into LM defense ecosystem.
 
-4. **UAS Industry Intelligence** — **SUSTAINED/MULTI-SOURCE**:
-   - **3 new messages (May 14)**:
-     - **UASweekly.com** (May 14, 21:02): UASweekly Daily Newsletter
-     - **Unmanned Systems Technology via LinkedIn** (May 14, 15:00 & 11:04): UST Newsletter Editions 161 & 162 — dual LinkedIn-distributed newsletters suggest algorithm-driven professional feed curation.
-     - **Commercial UAV Expo** (May 14, 09:01): "You Decide the Most Innovative UAS Tech of the Year" — industry award/showcase platform.
-   - **Pattern**: Consistent multi-daily UAS intelligence (newsletters + event visibility); no specific project mentions in subject lines.
+4. **UAS Industry Intelligence & Events** — **SUSTAINED/MULTI-SOURCE & CONFERENCE VISIBILITY**:
+   - **2 new messages (May 15)**:
+     - **UAS Magazine via BBI** (May 15, 16:05): "Recent Top News from UAS Magazine" — routed to info@blackswifttech.com (company-wide distribution, not personal inbox pick-up).
+     - **UAS VISION Daily News** (May 15, 10:08): Routed via Jack Elston (media@ aggregation, confirming May 14 pattern continuation).
+   - **Pattern**: Continued multi-daily UAS intelligence; no new project signals.
 
-5. **UAS VISION** (russ@uasvision.com) — **NEW/EXTERNAL UAS INTELLIGENCE**:
-   - **1 new message (May 14, 10:07)**: "DAILY NEWS" sent to media@blackswifttech.com (Jack forwarding/aggregation) — suggests UAS VISION operating as external news wire for BST media/communications team; Paige likely copied for situational awareness.
-
-6. **Defense/Aerospace Event Platforms** — **NEW/ELEVATED VISIBILITY**:
-   - **SAE Media Group** (May 14, 07:01): "The Loitering Munitions Hub is live: Create you account today." — specialized defense tech event/platform (loitering weapons/autonomous systems focus); suggests tactical interest alignment.
-   - **Mitchell Institute / AFA** (previous analysis): Congressional/policy briefings (not event promotions).
-   - **Geo Week / ROK Technologies** (May 14, 16:30): "Is It Time to Move Beyond A
+5. **Defense/Aerospace Events & Conferences** — **NEW/ELEVATED VISIBILITY**:
+   - **3 new messages (May 15, mixed IMPORTANT flags)**:
+     - **SOFEX 2026** (May 15, 16:02, dual routing): Brian Keller/Kallman Worldwide + Media Relations alias — "A Strategic Opportunity for U.S. Exhibitors" — **SOFEX is Special Operations Forces Exchange** (military equipment/tech tradeshow, Jordan-hosted annually); suggests BST consideration of special operations market participation or vendor relationship.
+     - **SSD 2026 Defence Expo** (May 15, 15:06): "26 Days Until SSD 2026 — Final Exhibitor Spaces Remaining" — routed via sales@blackswifttech.com to sales@bst.aero; **SSD is Singapore Defense & Security Expo**; suggests BST sales team actively pursuing international defense/security market visibility (Asia-Pacific region).
+     - **Military Robotics & Autonomous Systems (MRAS USA 2026)** (May 15, 23:00): "Speaker Insight: The Future of Human–Machine Teaming at MRAS

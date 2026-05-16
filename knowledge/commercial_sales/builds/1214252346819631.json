@@ -13,7 +13,7 @@
     }
   ],
   "payment_state": "invoice_sent",
-  "build_state": "in_assembly",
+  "build_state": "complete",
   "ship_state": "none",
   "estimate_date": null,
   "invoice_date": "2026-05-08",
@@ -51,12 +51,13 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "S20004 repair: left flap servo failed (dead servo tone). Requires replacement with 2x Hitec servos and both wing replacement units. Invoice #1759 sent 2026-05-08 for $664.98. Repair work in progress; 3 months overdue per ops notes.",
+  "notes": "S20004 repair completed as of 2026-05-15 per Slack. Left flap servo failed (dead servo tone); replaced with 2x Hitec servos and both wing replacement units. Invoice #1759 sent 2026-05-08 for $664.98 (unpaid). Build marked complete; awaiting customer pickup/shipment instructions.",
   "missing_fields": [
     "ship_to",
     "receive_by",
     "customer_email",
-    "paid_date"
+    "paid_date",
+    "shipped_date"
   ],
-  "last_evidence_date": "2026-05-12"
+  "last_evidence_date": "2026-05-15"
 }

@@ -1,21 +1,16 @@
 {
   "project_code": "550-1",
   "qbo_class_names": [
-    "[550-1] Navy SBIR Magnetometer",
-    "[550] United States Navy:[550-1] Navy SBIR Magnetometer"
+    "[550-1] Navy SBIR Magnetometer"
   ],
   "period": {
-    "start": "2026-05-14",
-    "end": "2026-05-15"
+    "start": "2026-05-15",
+    "end": "2026-05-16"
   },
   "totals": {
     "revenue": 49459.0,
-    "expenses": 417.6,
-    "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 399.0,
-      "Uncategorized Asset": 15.06,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 3.54
-    }
+    "expenses": 0.0,
+    "by_category": {}
   },
   "invoices": [
     {
@@ -65,51 +60,8 @@
       ]
     }
   ],
-  "bills": [
-    {
-      "type": "Bill",
-      "date": "2026-05-14",
-      "doc_number": "",
-      "total": 399.0,
-      "attributed": 399.0,
-      "vendor": "Amprius Technoloies",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 399.0,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "SA504 x 7 (quote #00001876)"
-        }
-      ]
-    }
-  ],
-  "purchases": [
-    {
-      "type": "Purchase",
-      "date": "2026-05-14",
-      "doc_number": "",
-      "total": 97.85,
-      "attributed": 18.6,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "FEDEX37097183 - 4699",
-      "lines": [
-        {
-          "amount": 18.6,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": "Amprius Technologies shipment for Navy 550-1 (order 11674)"
-        },
-        {
-          "amount": 79.25,
-          "account": "Uncategorized Asset",
-          "description": "Amprius Technologies shipment for future S3 sales (order 11675)"
-        }
-      ]
-    }
-  ],
+  "bills": [],
+  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

@@ -90,6 +90,5 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - AP boards delivered by Matt with identified quality issue: female header pin rows had pins slipping and not fully seating on couple boards (May 11, 2026)
 - Matt reported he corrected the issues on all boards (May 11, 2026)
 
-## Projects & Initiatives
-
-**S0 Aircraft Production (20-unit stock build - May 
+**Equipment & Infrastructure Procurement (May 15, 2026):**
+- Jack El

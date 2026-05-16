@@ -33,13 +33,14 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Interested in S0 and S2 for atmospheric profiling at Michigan Tech. Estimate sent per Asana custom field. Contact is Dr. Shawn Brueshaber (srbruesh@mtu.edu). Quote value listed as $21,000.",
+  "notes": "Michigan Tech interested in S0 and S2 for atmospheric profiling. Estimate sent 2025-07-14 for $21,000. Customer inquiry mentions interest in aerial imaging and aerosol measurement system options for S2.",
   "missing_fields": [
     "ship_to",
     "receive_by",
+    "estimate_date",
     "invoice_date",
     "invoice_amount",
     "invoice_number"
   ],
-  "last_evidence_date": "2025-07-14"
+  "last_evidence_date": "2026-05-15"
 }

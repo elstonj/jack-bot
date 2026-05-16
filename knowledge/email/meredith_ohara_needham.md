@@ -1,107 +1,88 @@
 # Meredith O'Hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,610 (1,565 previous + 45 new from May 14–15)
-- **Date range:** March 23 – May 15, 2026 (approximately 8 weeks)
+- **Total messages scanned:** 1,688 (1,610 previous + 78 new from May 15–16)
+- **Date range:** March 23 – May 16, 2026 (approximately 8 weeks)
 - **Approximate volume:** 25–40 emails per day (mix of sent, received, and automated)
-- **New data period:** May 14–15, 2026 (45 messages; ~55% transactional/automated; ~45% human-initiated; continued vendor coordination, finance reconciliation, and flight testing activity)
+- **New data period:** May 15–16, 2026 (78 messages; ~65% transactional/automated; ~35% human-initiated; **OUT OF OFFICE MODE ACTIVE** — all responses are auto-replies; significant pending workload visible in Asana notifications; 8 overdue tasks flagged)
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Jack Elston** (elstonj@blackswifttech.com) — Operations, financial matters, compliance, escalations; Aeropods project check-in and coordination (May 14, marked IMPORTANT); facility reconciliation costs (2840 Wilderness Place); continued regular strategic exchange
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Parts/manufacturing coordination; payment routing; vendor escalations; SO-01510 tracking (May 14)
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — Client-facing technical lead; **ACTIVE FLIGHT TESTING:** "Black Swift/Flight #3" multi-exchange coordination with Bassil El Masri (Murray State University) (May 14, marked IMPORTANT); ongoing project engineering
-- **Claudia Behnke** (chbehnke@mac.com; also chbcafe@gmail.com) — **INTENSIFIED ACTIVITY CONTINUES:** 2025 accounting reconciliation ($3K overbilling issue, May 14, marked IMPORTANT and STARRED); spreadsheet "20260430_BS" shared May 14; accounting asset tracking; multiple daily exchanges
+- **Jack Elston** (elstonj@blackswifttech.com) — Operations, financial/legal matters, compliance, escalations; **NEW/LEGAL:** "Black Swift - Disclosure Schedules" exchange with external counsel Nadia Bryan (nbryan@kofirm.com) (May 15, marked IMPORTANT); also receives updates on SNAP-R classification/ECCN matters (May 15); continued strategic coordination
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Parts/manufacturing coordination; **ACTIVE:** Return label coordination with Rubicon Aerospace (Lee Skidmore) (May 15, marked IMPORTANT); continued vendor escalation loop
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — Technical lead; **NEW/SBIR OPPORTUNITY:** "Possible teaming fit on Army modular UAS payload SBIR" discussion with external partner Sky Mesa Systems (Arthur Shune) (May 15, marked IMPORTANT); Asana comment notification on University of Colorado project (May 15); active proposal/partnership pipeline
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **CRITICAL EXPORT CONTROL:** "SNAP-R - Classification Accepted and Control No. Z1893789" (May 15, marked IMPORTANT); **NEW MEETING:** ECCN for S3 meeting scheduled May 18, 2026 2pm MDT (May 15, marked IMPORTANT); also coordinating with external export control consultant Jon Vince (jon.vince@rogers.com); ongoing export compliance and classification tracking
+- **Claudia Behnke** — (prior relationship; not active in new data window)
 
 ### Top External Contacts
 
-**Client/Project Coordination**
-- **Christy Evans** (cevans@reliascent.com; Reliascent) — Kick-off follow-up and proposal information exchange (May 14, marked IMPORTANT); active client engagement
+**Legal & Compliance**
+- **Nadia Bryan** (nbryan@kofirm.com; K&O Firm) — **ACTIVE LEGAL MATTER:** "Black Swift - Disclosure Schedules" — multi-party discussion between Meredith, Jack Elston, and Nadia (May 15, marked IMPORTANT); appears to be formal legal/disclosure document exchange
 
-**Flight Testing & Partnership**
-- **Bassil El Masri** (belmasri@murraystate.edu; Murray State University) — **CRITICAL ACTIVE PROJECT:** "Black Swift/Flight #3" multi-exchange coordination with Beck Cotter (May 14, marked IMPORTANT); rapid back-and-forth technical discussion (4 exchanges in short timeframe)
-- **NanoVEU:** Ongoing flight testing collaboration (prior data)
+**Export Control & Classification**
+- **Jon Vince** (jon.vince@rogers.com) — **CRITICAL:** SNAP-R classification accepted; Control Number Z1893789; multiple exchanges May 15 with Daniel Prendergast and Meredith (marked IMPORTANT); specialist in export control/ECCN matters
+- **Tanay Topac** (tanaytopac@stanford.edu; Stanford University) — **NEW:** "MHP data alignment" discussion; forwarded to Jack Elston May 15 (marked IMPORTANT); academic/research partnership or data coordination
 
-**Vendor/Parts & Manufacturing (CONTINUED HIGH ACTIVITY)**
+**Business Development & Teaming**
+- **Arthur Shune** (arthur@skymesasystems.com; Sky Mesa Systems) — **NEW/SBIR PROPOSAL:** "Possible teaming fit on Army modular UAS payload SBIR" (May 15, marked IMPORTANT); multi-party coordination with Beck Cotter and Daniel Prendergast; active business development/proposal opportunity
+- **Lavender** (lavenderg@proton.me) — **NEW/HIRING:** Mechanical Engineering opening inquiry; Meredith sent out-of-office reply May 15 (marked IMPORTANT); candidate for BST position
 
-*Electronics & Components:*
-- **Protolabs** — **CONTINUED INTENSIFIED ACTIVITY:** Invoice 100-A000809286 (May 15); Order 4164-549 shipping confirmation (May 14); Order 4164-549 delivery and invoice tracking (prior data); marked IMPORTANT
-- **DataPro International Inc.** — Order 605111011462 Delivered (May 14); ongoing
-- **Jawstec** — **NEW/ACTIVE:** Order #68728 received confirmation (May 14, marked IMPORTANT)
-- **PCBWay** — **NEW/ACTIVE:** Orders shipped notification (May 14, marked IMPORTANT)
-- **Mouser, DigiKey, RS Online, StarTech, B&H Photo, Amazon** — Ongoing automated confirmations
+**Vendor/Supply Chain (CONTINUED ACTIVITY)**
 
-*Aerospace/Mechanical Parts:*
-- **McMaster-Carr** — Ongoing (prior data)
-- **MM Solutions** — Invoice 00051799 (May 14); Quote 00018935 > SO-42885 coordination (Foster Hill, prior data)
+*Logistics & Returns:*
+- **Lee Skidmore** (lee@rubiconaerospace.com; Rubicon Aerospace) — **ACTIVE RETURN COORDINATION:** Return label status update (May 15, marked IMPORTANT); Meredith sent multiple responses; ongoing vendor issue resolution with Joshua Fromm in loop
 
-*Logistics & Distribution:*
-- **Rubicon Aerospace (Lee Skidmore)** — **NEW/ACTIVE:** Return label coordination (May 14, marked IMPORTANT); 2-way exchange with Meredith and Joshua Fromm; vendor issue escalation
-- **Driftaway Coffee** — Order #DR24247COF confirmed (May 14); loyalty points notification (May 14); purchasing@bst.aero recipient
+*Electrical/Components:*
+- **Marlo** (marlo@kmac-distribution.com; KMAC Distribution) — Order #155090320 status check (May 15, marked IMPORTANT); Meredith sent out-of-office reply
+- **Joshua Schwager** (quote 6096-715) — Quote ready for review (May 15); transactional vendor coordination
+- **CJ Pony Parts Inc** — Order #81999387 update (May 15, marked IMPORTANT); indicates automotive/mechanical parts sourcing
 
-*Radio/Comms:*
-- **Microhard Corp** (Jeff Catherwood) — Quote for radios; request for quote exchanges (May 14); ongoing negotiation
+*Logistics/Shipping:*
+- **DHL** — Shipment 2213881180 tracking (multiple notifications May 15–16); high-velocity logistics tracking
+- **Amazon** — Multiple shipments May 15 (Traovien Micro USB items, 3M Medical Tape Blenderm); USPS Informed Delivery tracking active
+- **SecurityMetrics** — Two Quick Questions contact (May 15, 4x duplicate; possible system error)
 
-*Batteries/Energy Storage:*
-- **Amprius** (Neha Dubey) — Invoice coordination (May 14)
+*Subscriptions & Services:*
+- **Quickbooks Bill Pay** — Amprius Technologies payment processing (May 15); continuing vendor payment cycle
+- **Bloomberg** — News subscription and promotional content
+- **UHC/UnitedHealthcare** — Benefits/health statement (May 15)
 
-**Contractor/Vendor Setup & Administration**
-- **Katarina Schare** (katarina@havenlybaked.com; Havenly Baked) — **NEW/COMPLEX:** Reconciliation costs for 2840 Wilderness Place facility (May 14, marked IMPORTANT); Jack Elston and Meredith both engaged; multi-party discussion
-- **Christopher Hartman** (chartman@umes.edu; University of Maryland Eastern Shore) — Upcoming training question coordination (multiple exchanges May 14, marked IMPORTANT)
-- **Zachary Reyes** (zachreyes17@gmail.com) — **NEW/HIRING:** Job application inquiry to careers@ (May 14); Meredith's personal response (marked IMPORTANT)
-
-**Financial/Business Services**
-- **Jonathan Adkins** (jonathana@richtr.io; Richtr Financial Studio) — **NEW/ACTIVE:** "Black Swift Technologies < > Richtr Financial Studio" business/financial discussion (May 14, marked IMPORTANT); Jack Elston cc'd
-- **Quickbooks Bill Pay** (quickbooks@notification.intuit.com) — Two scheduled bill payments confirmed (May 14)
-- **Gemini (Google Notes)** — "Bookkeeping Up-Date Meeting" notes captured (May 14)
-
-**HR/Training & Compliance**
-- **OSHA Education Center** — IATA Training promotional (May 15, marked IMPORTANT)
-
-**Promotional/Automated (Non-Core)**
-- **Spindrift Customer Support** — Subscription order notification (May 15)
-- **Harbor Freight** — Promotional (May 15)
-- **Budget Car Rental** — Promotional (May 14)
-- **Speedway Motors** — Customer feedback survey (May 14)
-- **Asana** — Project task notifications (May 15)
+**Other**
+- **Capital Factory** (noreply@union.vc) — Office hours notification (8x duplicates May 15; likely bounce/routing error); operations@bst.aero recipient; accelerator/investor network activity
 
 ---
 
 ## Topic Patterns
 
-### Project/Work Focus Areas
-- **Aeropods Project:** Ongoing check-in and forward planning (May 14); Jack Elston involvement; appears to be strategic initiative
-- **Black Swift/Flight #3:** Active flight testing program with Murray State University; technical/operational coordination (May 14)
-- **Supply Chain & Manufacturing:** Protolabs (PCB/parts manufacturing), McMaster-Carr, DataPro, Jawstec; high volume of order tracking and invoicing
-- **Logistics & Returns:** Rubicon Aerospace return label coordination; vendor issue resolution
-- **Accounting/Finance Reconciliation:** 2025 overbilling ($3K issue with Claudia Behnke); facility cost reconciliation (2840 Wilderness Place)
-- **Radio/Comms Procurement:** Microhard Corp quote negotiation
+### Project/Work Focus Areas (NEW & ONGOING)
+- **Army Modular UAS Payload SBIR:** Beck Cotter and Arthur Shune (Sky Mesa Systems) teaming proposal; active business development (May 15)
+- **SNAP-R Export Classification:** Control Number Z1893789 accepted; Daniel Prendergast and Jon Vince coordinating ECCN details; scheduled ECCN for S3 meeting May 18 (May 15) — **EXPORT CONTROL CRITICAL**
+- **Black Swift Disclosure Schedules:** Legal matter with K&O Firm (Nadia Bryan); Jack Elston engaged; likely related to financing, acquisition, or regulatory filing (May 15)
+- **MHP Data Alignment:** Stanford University (Tanay Topac); forwarded to Jack Elston as IMPORTANT; research/data coordination (May 15)
+- **Supply Chain & Parts:** Continued high volume of vendor order tracking (DHL, Amazon, KMAC, CJ Pony, Amprius)
+- **Return Logistics:** Rubicon Aerospace return label resolution (May 15)
 
-### Recurring Themes
-- Order confirmations and tracking (transactional)
-- Invoice payment scheduling and reconciliation
-- Vendor coordination and escalation
-- Flight testing logistics and multi-party coordination
-- Financial reconciliation and accounting oversight
-- Facility/property-related cost discussions
+### Recurring Subject Themes
+- Order tracking and delivery confirmations (transactional)
+- Vendor quote reviews and coordination
+- Export control/ECCN classification milestones
+- Legal/formal disclosure document exchange
+- Business development and partnership teaming proposals
+- Task/project management via Asana (8 overdue tasks flagged May 15)
+- Facility/operational logistics (USPS tracking, DHL shipments)
 
 ---
 
 ## Communication Patterns
 
 ### Time & Frequency
-- **May 14, 2026:** Heavy activity day — 30+ human/transactional messages; multiple exchanges 11:00–17:00 MDT; back-and-forth flight testing discussion with Beck Cotter and Murray State (rapid multi-exchange pattern)
-- **May 15, 2026:** Light activity — mostly transactional/automated notifications
-- **Marked IMPORTANT emails:** Concentrated on financial matters (overbilling, reconciliation), flight testing, vendor escalations, and hiring/contractor setup
+- **May 15, 2026 (Friday):** Heavy activity day — 60+ messages; **OUT OF OFFICE AUTO-REPLIES ACTIVE** (responses sent 04:05–17:07 PDT, all marked "Out of Office"); significant incoming message volume despite absence
+- **May 16, 2026 (Saturday):** Light activity — mostly transactional (DHL duplicates, Asana notifications, email system bounces)
+- **Marked IMPORTANT emails:** Concentrated on legal matters (Disclosure Schedules), export control (SNAP-R/ECCN), business development (SBIR teaming), and vendor escalations
 
-### Communication Patterns
-- **Internal escalations:** Jack Elston frequently copied on financial/operational decisions
-- **Group coordination:** Beck Cotter with academic/partner institutions (Murray State)
-- **Vendor loop:** Automated confirmations routed through purchasing@ alias; Claudia Behnke receives invoices for accounting review
-- **Multi-party discussions:** Complex negotiations (Richtr Financial, facility costs, return logistics) involve 3+ parties with rapid iteration
-- **Email aliases:** Heavy use of purchasing@blackswifttech.com and purchasing@bst.aero for vendor routing
-
----
+### Out-of-Office Mode (NEW FINDING)
+- **Status:** Meredith is out of office as of May 15, 16:00 PDT
+- **Auto-reply pattern:** All personal/direct emails receive out-of-office responses (

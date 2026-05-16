@@ -1,0 +1,59 @@
+{
+  "asana_gid": "1205318673933832",
+  "asana_task_name": "[1298] ERAU - S0 & S0 VTOL deployment ",
+  "customer": "Embry-Riddle Aeronautical University",
+  "customer_contact": "Kevin Adkins",
+  "customer_email": "adkinsk@erau.edu",
+  "receive_by": null,
+  "ship_to": "Kevin Adkins, Embry-Riddle Aeronautical University, Attn: Central Receiving, 1 Aerospace Boulevard, Daytona Beach, FL 32114-3900, United States",
+  "items": [
+    {
+      "description": "S0 UAS - VTOL",
+      "quantity": 2
+    },
+    {
+      "description": "Samsung Galaxy Tab Active2",
+      "quantity": 1
+    },
+    {
+      "description": "SwiftStation\u2122 Ground Station",
+      "quantity": 1
+    },
+    {
+      "description": "S0 Case",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "paid",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": "2025-05-07",
+  "invoice_amount": 21181.81,
+  "invoice_number": "1667",
+  "paid_date": "2025-05-07",
+  "parts": [
+    {
+      "name": "S0 VTOL airframe",
+      "ordered": true,
+      "received": false,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    }
+  ],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "ERAU ordered 2 S0 VTOL units, both paid in full (Inv 1667 $21,181.81 + earlier Inv 1545 $15,028.39 = ~$36k total). Legal disclosure indicates BST is in settlement discussions for delayed delivery. Asana custom fields show 'Closed' and '$0 closed value', but these are OVERRIDDEN by active QBO invoices and settlement language indicating real obligation to deliver. Keep due to QBO invoice evidence and active legal commitment.",
+  "missing_fields": [
+    "receive_by",
+    "build_state",
+    "shipped_date"
+  ],
+  "last_evidence_date": "2026-05-15"
+}

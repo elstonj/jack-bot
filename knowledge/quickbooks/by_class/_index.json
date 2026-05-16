@@ -1,9 +1,9 @@
 {
   "period": {
-    "start": "2026-05-14",
-    "end": "2026-05-15"
+    "start": "2026-05-15",
+    "end": "2026-05-16"
   },
-  "scanned_at": "2026-05-15",
+  "scanned_at": "2026-05-16",
   "projects": [
     {
       "project_code": "032-3",
@@ -16,19 +16,6 @@
       "payment_count": 0,
       "qbo_class_names": [
         "[032-3] Sasquatch S0s x 4"
-      ]
-    },
-    {
-      "project_code": "043-3",
-      "revenue": 0.0,
-      "expenses": 48.07,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 1,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "[043-3] By Light Halo"
       ]
     },
     {
@@ -47,10 +34,10 @@
     {
       "project_code": "300-3",
       "revenue": 216000.0,
-      "expenses": 3322.25,
+      "expenses": 2776.5,
       "invoice_count": 3,
       "bill_count": 0,
-      "purchase_count": 3,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -60,24 +47,23 @@
     {
       "project_code": "550-1",
       "revenue": 49459.0,
-      "expenses": 417.6,
+      "expenses": 0.0,
       "invoice_count": 2,
-      "bill_count": 1,
-      "purchase_count": 1,
+      "bill_count": 0,
+      "purchase_count": 0,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "[550-1] Navy SBIR Magnetometer",
-        "[550] United States Navy:[550-1] Navy SBIR Magnetometer"
+        "[550-1] Navy SBIR Magnetometer"
       ]
     },
     {
       "project_code": "_unclassified",
       "revenue": 0.0,
-      "expenses": 14351.41,
+      "expenses": 11606.57,
       "invoice_count": 0,
-      "bill_count": 2,
-      "purchase_count": 7,
+      "bill_count": 1,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [

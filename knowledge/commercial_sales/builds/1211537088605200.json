@@ -5,7 +5,7 @@
   "customer_contact": "TSgt Evan Wolff",
   "customer_email": "evan.m.wolff.mil@socom.mil",
   "receive_by": "2026-10-30",
-  "ship_to": null,
+  "ship_to": "Evan Wolff, 3-3242 Malvesti St, Fort Bragg, NC 28310",
   "items": [
     {
       "description": "S0-AD UAS",
@@ -29,11 +29,10 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "SOCOM (TSgt Evan Wolff) interested in S0-AD UAS for C-130 air-launch demo Fall 2026. Recent DoD engagement (4/27 working meeting with SOCOM and 53rd Weather Squadron to define mission requirements and S0 additional development needs). S0-AD datasheet sent 10/3/25.",
+  "notes": "SOCOM (TSgt Evan Wolff) engaged in S0-AD development for C-130 air-launch demo Fall 2026. Active engagement: in-person working meeting 4/27/26 with SOCOM and 53rd Weather Squadron to define mission requirements and S0 additional development needs. S0-AD datasheet sent 10/3/25. Demo unit loaned to Wolff 3/11/26 (FedEx 889475552978); received and showed to leadership. Concept includes autonomous flight to rally point programmed pre-launch, with ground operator takeover. SOCOM exploring accelerated demo timeline beyond Fall 2026 exercise.",
   "missing_fields": [
-    "ship_to",
     "items",
     "parts"
   ],
-  "last_evidence_date": "2026-04-29"
+  "last_evidence_date": "2026-05-06"
 }

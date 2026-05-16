@@ -1,46 +1,52 @@
 # BST Project Financial Overview
 
-## CRITICAL ORGANIZATIONAL NOTE
+## ⚠️ CRITICAL DATA ORGANIZATION ISSUE
 
-**Status:** The provided budget data is **incomplete and unstructured**. The document references 1,181 budget documents across multiple projects but provides:
-- ❌ No complete project codes
-- ❌ No total budget figures
-- ❌ No contract values or spending data
-- ❌ Incomplete project summary (cuts off at table header)
-- ❌ No funding source totals
-- ❌ No QuickBooks cross-reference data
+**Status:** The provided budget data is incomplete and unstructured. The document collection contains **1,181 budget documents** but lacks:
+- Clearly defined individual project codes
+- Systematic budget summaries per project
+- Consolidated financial totals
+- QuickBooks cross-reference data
 
----
-
-## Identified Project Fragments
-
-### NASA — AREN (Aeropods Commercial) [200]
-- **Project Name:** MiniCam Project
-- **Document:** BST MiniCam Preliminary Cost Analysis (February 2026)
-- **Status:** Preliminary/Commercial product costing
-- **Data Available:** Unit cost breakdown table (incomplete in provided data)
-- **Next Steps Needed:** Complete cost table, total project budget, contract type, timeline
+**Recommendation:** Project codes need to be standardized and documents properly indexed before reliable financial overview can be created.
 
 ---
 
-## Data Quality Issues
+## Partial Data Identified
 
-| Issue | Impact | Resolution |
-|-------|--------|-----------|
-| 1,181 documents referenced but no index provided | Cannot account for all projects | Request complete project roster |
-| No project codes consistently used | Cannot track finances per project | Standardize coding system |
-| Partial document excerpts | Incomplete financial picture | Provide full document contents |
-| Multiple agencies mentioned (NASA, NOAA, DoD) but no breakdown | Cannot group by funding source | Provide summary table by agency |
-| No QuickBooks data referenced | Cannot reconcile GL accounts | Clarify QB integration status |
+### **Project [200] - NASA AREN (Aeropods Commercial)**
+- **Client:** NASA
+- **Product:** MiniCam
+- **Status:** Preliminary/Commercial costing phase
+- **Document Type:** Cost analysis spreadsheet (BST_MiniCam_Preliminary_Cost_Feb2026.xlsx)
+- **Last Updated:** 2026-03-04
+- **Budget Data:** Unit cost breakdown initiated (incomplete in provided excerpt)
+- **Contract Type:** Commercial product development
+- **QuickBooks Integration:** Unknown
 
 ---
 
-## Immediate Requirements to Complete This Overview
+## Data Gaps Requiring Resolution
 
-**Please provide:**
-1. Complete list of active project codes with client assignments
-2. Total contract values and budget allocations by project
-3. Current spend/burn rates where available
-4. Contract type classification (SBIR Phase I/II, IRAD, Commercial, etc.)
-5. QuickBooks project mapping (if applicable)
-6. Budget constraint/risk items identified in finance reviews
+| Category | Status |
+|----------|--------|
+| **Total Project Count** | ~1,181 docs, but unclear how many unique projects |
+| **Active Projects** | Not clearly delineated |
+| **Total Portfolio Budget** | Not calculable from current data |
+| **Funding Sources** | Mentioned: NASA, NOAA, DoD (requires breakdown) |
+| **Contract Types** | SBIR Phase I/II, IRAD, Commercial (not yet categorized) |
+| **Financial Health Assessment** | Cannot perform without complete budget data |
+| **QB Integration Status** | No matching data provided |
+
+---
+
+## Next Steps Required
+
+1. **Standardize project nomenclature** (establish consistent project codes)
+2. **Index all 1,181 documents** by project code and funding source
+3. **Extract complete budget figures** from each project file
+4. **Cross-reference with QuickBooks** active accounts
+5. **Establish spend-tracking data** by project
+6. **Resubmit organized dataset** for comprehensive financial overview
+
+**Current Status:** Ready to process structured data once organizational framework is established.

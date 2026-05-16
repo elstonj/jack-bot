@@ -4,8 +4,8 @@
   "category": "contract",
   "asana_gid": "1211903174217997",
   "name": "EMASS Chip Integration",
-  "status": "delayed",
-  "status_notes": "CORRECTION 2026-05-12: From Jack: emass is likely delayed, we're waiting on them to get a working system to test, so de-prioritize it, but we don't want to drag this out more than a month",
+  "status": "complete",
+  "status_notes": "FEEDBACK 2026-05-13: From Daniel Prendergast: <@U0AQE94HJUT> CU IRISS training is complete.  EMASS Validation Flight #2 is postponed indefinitely until they get us a functioning controller.",
   "customer": {
     "name": "EMASS",
     "type": "commercial",
@@ -29,7 +29,7 @@
         "amount": 27262.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-15"
+        "last_updated": "2026-05-16"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 62690.7,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-15T09:07:11Z"
+    "last_reconciled": "2026-05-16T09:04:58Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -107,6 +107,18 @@
     },
     {
       "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-24",
+      "text": "From Maciej: Similar question for <@U01511MEQ90> and <@U04CZK4K7P0> on EMASS. I think we're in good shape there with the remaining work just waiting on those guys to finish the controller and another round of test flying for us."
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-24",
+      "text": "From Maciej: <@U0AQE94HJUT> our highest priority projects right now are: (1) S3 IRAD with a targeted delivery of end of May for the UMES S3, (2) S0-VTOL with two deliveries for ERAU and Barbados, (3) Closing out EMASS, (4) By-Lite Mustang, and (5) Initial tasks on the SBIR Magnetometer project. How are we looking on overdue tasks for those?"
+    },
+    {
+      "source": "FEEDBACK",
       "author": "Daniel Prendergast",
       "date": "2026-05-04",
       "text": "From Daniel Prendergast (ts=1777477970.596279): <@U0AQE94HJUT> FYI, my priority today is to make slides for the 53rd Weather Squadron and SOCOM visit this Friday.  EMASS validation flights probably won't happen today.  We cannot perform those flights until they send us a new controller binary in the emass-bst slack channel.  EMASS validation flight #3 will most likely be Monday at the earliest.  EMASS validation flight #2 possibly tomorrow."
@@ -130,16 +142,10 @@
       "text": "From Daniel Prendergast: <@U0AQE94HJUT> FYI, my priority today is to make slides for the 53rd Weather Squadron and SOCOM visit this Friday.  EMASS validation flights probably won't happen today.  We cannot perform those flights until they send us a new controller binary in the emass-bst slack channel.  EMASS validation flight #3 will most likely be Monday at the earliest.  EMASS validation flight #2 possibly tomorrow."
     },
     {
-      "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-04-24",
-      "text": "From Maciej: Similar question for <@U01511MEQ90> and <@U04CZK4K7P0> on EMASS. I think we're in good shape there with the remaining work just waiting on those guys to finish the controller and another round of test flying for us."
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-04-24",
-      "text": "From Maciej: <@U0AQE94HJUT> our highest priority projects right now are: (1) S3 IRAD with a targeted delivery of end of May for the UMES S3, (2) S0-VTOL with two deliveries for ERAU and Barbados, (3) Closing out EMASS, (4) By-Lite Mustang, and (5) Initial tasks on the SBIR Magnetometer project. How are we looking on overdue tasks for those?"
+      "source": "CORRECTION",
+      "author": "Jack",
+      "date": "2026-05-12",
+      "text": "From Jack: emass is likely delayed, we're waiting on them to get a working system to test, so de-prioritize it, but we don't want to drag this out more than a month"
     },
     {
       "source": "FEEDBACK",
@@ -164,14 +170,8 @@
       "author": "Daniel Prendergast",
       "date": "2026-05-13",
       "text": "From Daniel Prendergast: <@U0AQE94HJUT> CU IRISS training is complete.  EMASS Validation Flight #2 is postponed indefinitely until they get us a functioning controller."
-    },
-    {
-      "source": "CORRECTION",
-      "author": "Jack",
-      "date": "2026-05-12",
-      "text": "From Jack: emass is likely delayed, we're waiting on them to get a working system to test, so de-prioritize it, but we don't want to drag this out more than a month"
     }
   ],
-  "last_full_rebuild": "2026-05-15T09:07:11Z",
+  "last_full_rebuild": "2026-05-16T09:04:58Z",
   "last_incremental_update": null
 }

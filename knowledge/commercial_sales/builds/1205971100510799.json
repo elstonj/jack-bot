@@ -24,8 +24,8 @@
       "quantity": 1
     }
   ],
-  "payment_state": "paid",
-  "build_state": "none",
+  "payment_state": "invoice_sent",
+  "build_state": "in_qc",
   "ship_state": "none",
   "estimate_date": null,
   "invoice_date": "2025-05-07",
@@ -63,10 +63,10 @@
     "invoicing": "Meredith",
     "build": "Alex Lomis"
   },
-  "notes": "Embry-Riddle ordered 2 S0 VTOL units (Inv #1667 paid May 2025; Inv #1545 paid Jan 2023). Legal disclosure indicates BST experienced delivery delays and intends to enter settlement agreement. Project registry notes expected delivery in late summer; training planned June 2025. Customer evaluating potential follow-on purchase of 4 additional units if grant funded.",
+  "notes": "Invoice #1667 (May 2025, $21,181.81) paid; new unpaid invoice #1730 (Jan 2026, $2,462.50) suggests follow-on charges or adjustments. Beck's March 2026 email indicates flight testing in progress with bug tracking\u2014system still undergoing QC before delivery. Customer expects delivery in late summer 2025 per project registry; training planned June 2025 at BST. ERAU evaluating grant-funded follow-on purchase of 4 additional S0 VTOLs.",
   "missing_fields": [
     "receive_by",
-    "build_state"
+    "shipped_date"
   ],
-  "last_evidence_date": "2026-05-05"
+  "last_evidence_date": "2026-05-15"
 }
