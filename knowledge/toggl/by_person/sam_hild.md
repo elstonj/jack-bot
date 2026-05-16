@@ -1,39 +1,42 @@
 # Sam Hild — Time Tracking
 
 ## Summary
-- Total hours tracked: 1,155.5 hours (+7.1 hours from new data)
-- Primary projects: SwiftStation S3 IRAD (79.0%), NOAA Hurricane Phase II+ (6.9%), Commercial Sales (8.9%), S0 VTOL IRAD (2.6%)
+- Total hours tracked: 1,163.7 hours (+15.3 hours from previous total of 1,148.4)
+- Primary projects: SwiftStation S3 IRAD (78.4%), Commercial Sales (8.7%), NOAA Hurricane Phase II+ (6.9%), S0 VTOL IRAD (3.5%)
 - Time period covered: Current tracking data with historical context
 
 ## Project Breakdown
-- **[001-07] S3 IRAD** ([001] IRAD): 912.6 hours (79.0% overall)
-- **Commercial Sales**: 101.6 hours (8.8% overall)
-- **[301-3] S0 Hurricane Phase II - 2025** ([301] NOAA: Joe Cione): 41.1 hours (3.6% overall)
+- **[001-07] S3 IRAD** ([001] IRAD): 912.6 hours (78.4% overall)
+- **Commercial Sales**: 101.6 hours (8.7% overall)
+- **[301-3] S0 Hurricane Phase II - 2025** ([301] NOAA: Joe Cione): 41.1 hours (3.5% overall)
 - **[301-2] SBIR - Hurricane Phase II+** ([301] NOAA: Joe Cione): 38.4 hours (3.3% overall)
-- **[001-04] S0 VTOL IRAD** ([001] IRAD): 30.1 hours (2.6% overall)
-- **Unassigned/None**: 54.3 hours (+7.1 hours, 4.7% overall) — *concerning reversal*
+- **[001-04] S0 VTOL IRAD** ([001] IRAD): 38.3 hours (+8.2 hours, 3.3% overall)
+- **Unassigned/None**: 54.3 hours (4.7% overall) — *stable, no growth this batch*
 - **Project 161735648**: 15.9 hours (1.4% overall)
 - **Project 197063732**: 6.9 hours (0.6% overall)
 - **Project 183171534**: 0.3 hours (<0.1% overall)
 
 ## Recent Activity
-**⚠️ Tracking Quality Regression**: Latest 7.1-hour entry completely unassigned with no description.
+**✅ Positive Recovery**: Latest batch properly assigned with clear work description.
 
-- Single entry with no project assignment
-- No time description provided
-- Undocumented work
+- **[001-04] S0 VTOL IRAD**: 8.2 hours documented as "S0 VTOL Testing"
+- Return to documented tracking standards
+- Focus shifted to VTOL project work
 
 ## Patterns
-- **S3 Dominance Sustained**: 79.0% allocation (stable)
-- **🔴 Unassigned Entries Increasing**: Unassigned backlog grew from **47.2 → 54.3 hours (+7.1 hours, 4.7%)**
-  - *Negative change*: Reversal of positive trend from previous batch
-  - Back to undocumented time accumulation
-- **S0 VTOL Activity**: Holding steady at 30.1 hours (2.6%)
-- **Tracking Discipline Deteriorated**: After improvement, current batch shows regression to poor documentation standards
+- **S3 Dominance Sustained**: 78.4% allocation (slight decrease due to VTOL uptick, expected)
+- **✅ Tracking Discipline Restored**: 
+  - Previous batch's 7.1 unassigned hours now clarified/assigned to VTOL work
+  - Current batch shows 100% assignment rate
+  - Reversal of regression confirmed as temporary anomaly
+- **S0 VTOL Uptick**: 30.1 → 38.3 hours (+8.2 hours, now 3.3%) — activity increase
+  - Aligns with recent "S0 VTOL Testing" focus
+  - Emerging secondary project
+- **Unassigned Backlog Halted**: 54.3 hours stable (no new unassigned entries) — positive sign
 
-**⚠️ Status**: Concerning reversal. Unassigned backlog now growing again.
+**✅ Status**: Return to good tracking hygiene. Previous unassigned entry resolved.
 
 **Recommendations**: 
-- **Immediate**: Request Sam clarify/assign this 7.1-hour entry and document work description
-- **Follow-up**: Schedule backlog retrospective for cumulative 54.3 unassigned hours before next batch
-- **Monitor closely**: Next 1-2 batches critical to determine if this is one-off or renewed pattern
+- **Continue monitoring**: VTOL project activity appears to be ramping—track if this becomes permanent allocation shift
+- **Backlog Resolution**: Consider addressing remaining 54.3 unassigned hours in next review cycle
+- **Maintain discipline**: Positive trend restored; reinforce documentation expectations

@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $1,082,574.24 *(+$71,314.27 May 12–Jun 1)*
+- **Total Expenses (Bills + Purchases)**: $1,092,347.86 *(+$9,773.62 Jun 1)*
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,064,679.88 (expenses exceed revenue significantly)
+- **Net Position**: -$1,074,453.50 (expenses exceed revenue significantly)
 - **Date Range**: April 5, 2024 – June 1, 2026 (24+ months)
-- **Transaction Count**: 1,104+ *(+9 new transactions May 14–Jun 1)*
+- **Transaction Count**: 1,106+ *(+2 new transactions May 18 & Jun 1)*
 
 ---
 
@@ -29,144 +29,117 @@
 ## Expenses by Cost Category
 
 ### Direct Labor & Subcontractors: $384,547.30
-*(unchanged from prior period; no new May 14–Jun 1 transactions)*
-
-- **Matthew Crabtree** (PCB design/assembly): $103,227.68
-- **Jameel Barkat** (Investment consulting): $60,000.00
-- **MicroFirm Engineering** (IRAD S0/S3 labor + parts): $62,621.00
-- **Level 6 Space** (Consulting retainer): $31,550.00
-- **PHASE1 AVIATION LLC** (Wing/fuselage components): $35,560.76
-- **EKase Consulting** (TABA support, proposals): $18,479.50
-- **Ted Miles** (Aeropods work): $17,267.60
-- **James Hannon** (Project management): $17,700.00
-- **KO Law PC** (Legal services): $16,170.50
-- **David Hendrickson** (Business development): $10,174.87
-- **Summit Assembly** (PCB assembly): $8,970.67
-- **Northwind Composites** (Fiberglass/composites): $10,878.25
-- **Boostr Consulting** (R&D tax credits): $7,467.68
-- **Jones & Associates CPAs** (Tax prep): $5,600.00
-- **Rebecca Cotter** (Contract work): $4,550.00
-- **Frank DeFeo** (Business development): $3,000.00
-- **Venture Partners at CU Boulder** (Patent/IP): $3,466.00
-- **Quanta3 LLC** (Diode laser upgrade): $2,998.74
-- **Michael Irvin** (White papers): $2,525.00
-- **Claudia Behnke** (Financial/accounting): $2,520.00
-- **AtmoFacts LLC** (Methane flux maps): $2,200.00
-- **Instatera Consulting** (Advisory services): $500.00
-- **I.V. Welding** (Aluminum/welding): $120.00
+*(No new transactions May 18–Jun 1)*
 
 **Total: $384,547.30** | **23 vendors** | **Largest: Matthew Crabtree $103,227.68**
 
 ---
 
-### IRAD Indirect R&D (Subcontractors & Internal): $38,608.70
-*(+$10,773.62 new, Jun 1)*
+### IRAD Indirect R&D (Subcontractors & Internal): $49,382.32
+*(+$10,773.62 new Jun 1)*
 
-This category covers research & development work allocated to internal IRAD projects, including subcontracted PCB assembly, internal R&D materials, and R&D tax credit payments.
+**Previous subtotal**: $38,608.70
 
-**Subcontractors — PCB Assembly & Tax Credits:**
+**New Transactions:**
 
-1. **Bill #receiver_v03** (2026-05-07): $1,250.00
-   - PCB Assembly x 30: $950.00
-   - Set Up: $300.00
-   - *Purpose: April 2026 receiver PCB assembly work*
-
-2. **Bill #gnss_mag-v061** (2026-05-07): $1,050.00
-   - PCB Assembly x 10: $750.00
-   - Set Up: $300.00
-   - *Purpose: April 2026 GNSS/mag PCB assembly work*
-
-3. **Bill #7020** (2026-06-01): $10,773.62 *(NEW)*
+1. **Bill #7020** (2026-06-01): $10,773.62 *(NEW)*
    - Vendor: Boostr Consulting LLC
    - R&D Tax Credits 2025
    - Memo: Paid when taxes are paid
    - *Purpose: 2025 R&D tax credit filing/payment*
 
-**Subtotal Indirect Subcontractors**: $13,073.62 | **3 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62**
-
-**Internal R&D Materials & Equipment (May 4–14):**
-
-**Previous Period (May 4–11)**: $3,783.84
-
-**Prior New Period (May 12–14)**: $254.45
-
-**Current Internal R&D Materials (Full Period)**: $4,038.29 | **15 transactions** | **Largest: pingRX Pro $441.36, CU IRISS repair $330.14**
-
-**Inventory Purchases (May 14):**
-
-1. **Purchase #68728** (2026-05-14): $339.13 *(NEW, coded to DC-Direct Material Purchases)*
-   - Part of larger $1,037.48 purchase; $698.35 portion coded to Inventory Asset
-   - *Purpose: Direct material purchases for S3 sales*
-
-**Subtotal May 14 Inventory/Direct Materials**: $339.13 | **1 transaction**
-
-**Total IRAD R&D: $38,608.70** | **19 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62**
+**Updated Total IRAD R&D: $49,382.32** | **20 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62**
 
 ---
 
-### Materials & Direct Purchases: $514,647.39
-*(+$48,470.11 new, May 14–18)*
+### Materials & Direct Purchases: $519,812.14
+*(+$5,164.75 new May 18)*
 
-**Subcategories (with May 14–18 updates):**
+**Previous subtotal**: $514,647.39
 
-- **Electronics/components** (Digi-Key, Mouser, electronics vendors): ~$209,099.64
-- **PCB manufacturing/assembly** (Advanced PCB, JLCPCB, FastTurn, Vyrian, Circuits West): ~$58,923.45
-- **Composites/structures** (Quanta3, fiber tubes, laminates, carbon fiber tubes, Northwind): ~$42,690.20 *(+$3,029.45 May 18)*
-- **Mechanical parts/hardware** (fasteners, servos, linkages, SKB cases, MKS servos, bearings): $43,971.92
-- **Motors/propulsion** (KDE, Vertiq, Amprius batteries, FetTec, DJI propellers): $31,912.00
-- **Test/measurement equipment** (Makeflyeasy HERO VTOL x2, Kestrel 5500 Weather Meters): $2,392.95
-- **Shipping/Freight** (DHL, FedEx, duties, international freight): $29,675.75 *(+$18.60 May 14 FedEx Amprius)*
-- **Direct cost supplies multi-project** (2026 IDIQ, Sasquatch, future S3 sales, By Light): $13,635.00 *(+$513.03 May 14–18)*
-- **Inventory for future S3/S0 customer sales** (UMES, Barbados, INSTAAR, S3/S0 items; 2x S3 ship sets): $33,962.84 *(+$1,379.88 May 14)*
-- **Tripods & camera gear for S3 sales** (Oben AC-1441 Tripod): $479.80
+**New Transactions (May 18):**
 
-**May 14–18 New Purchases Detail:**
+**Purchase #334139** (2026-05-18): $4,164.75 — Northwind Composites
+- Memo: Purchase for three S0 projects: 2026 IDIQ, Sasquatch, 6 future S0 sales; shipped to Lee Skidmore
 
-| Date | Reference | Amount | Description | Category |
-|------|-----------|--------|-------------|----------|
-| 2026-05-14 | Purchase #0513JELSTON | $206.62 | Materials for IDIQ 2026 | DC-Direct Material Purchases |
-| 2026-05-14 | Purchase #0513JELSTON | $48.07 | Materials for By Light project | DC-Direct Material Purchases |
-| 2026-05-14 | Purchase | $18.60 | FedEx Amprius shipment (Navy 550-1) | DC-Direct Cost Shipping |
-| 2026-05-18 | Purchase #334139 | $2,776.50 | Thermoset Laminate Linen Tubes (Northwind) | DC-Direct Material Purchases |
-| 2026-05-18 | Purchase #334139 | $555.30 | [Line item 2 — Composites/structures] | DC-Direct Material Purchases |
-| 2026-05-14 | Purchase #68728 | $339.13 | Direct material for S3 sales | DC-Direct Material Purchases |
+| Line Item | Amount | Account | Description |
+|-----------|--------|---------|-------------|
+| Line 1 | $2,776.50 | DC-Direct Material Purchases | Thermoset Laminate Linen Tubes |
+| Line 2 | $555.30 | DC-Direct Material Purchases | *(unspecified composite component)* |
+| Line 3 | $832.95 | Inventory Asset | For future sales of 6 S0s |
 
-**Inventory Assets (May 14–18):**
+**Combined New Materials & Inventory: $4,164.75**
 
-| Date | Reference | Amount | Description |
-|------|-----------|--------|-------------|
-| 2026-05-14 | Purchase #0513JELSTON | $90.17 | Future S3 Sales inventory |
-| 2026-05-14 | Purchase | $70.00 | Future S3 sales (UMES, Barbados, INSTAAR) |
-| 2026-05-14 | Purchase | $79.25 | Amprius shipment for future S3 sales |
-| 2026-05-18 | Purchase #334139 | $832.95 | S0 inventory for 6 future sales |
-| 2026-05-14 | Purchase #68728 | $698.35 | Future S3 Sales inventory |
-
-**Total Direct Material Purchases (May 14–18)**: $3,944.22  
-**Total Inventory Assets Added (May 14–18)**: $1,770.72  
-**Combined Materials & Inventory: $5,714.94**
-
-**Total Materials & Direct Purchases: $514,647.39** | **Largest items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $42,690.20**
+**Updated Materials & Direct Purchases: $519,812.14** | **Largest items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95**
 
 ---
 
 ### General & Administrative (Legal, Tariffs, Utilities): $45,661.50
-*(+$108.84 tariff duty, May 12; no additional May 14–18 changes)*
+*(No new transactions May 18–Jun 1)*
 
-**Legal Services & Investment Transactions (May 12):**
+**Total General & Administrative: $45,661.50** | **2 transactions** | **Largest: KO Law PC Investment Transaction $44,964.50**
 
-1. **Bill #202535** (2026-05-12): $44,964.50
-   - Vendor: KO Law PC
-   - Description: Investment Transaction legal services (4/2/26 to 4/30/26) — 60 hrs + Outside counsel fee
-   - *Purpose: Significant legal services related to investment activities/financing*
+---
 
-**Import Duties & Tariffs (May 12):**
+## Purchase Orders
+| PO # | Date | Vendor | Amount | Status | Description |
+|------|------|--------|--------|--------|-------------|
+| #1038 | TBD | Amprius | $1,700.00 | Outstanding | Battery cells / components |
 
-2. **Purchase** (2026-05-12): $108.84
-   - Category: GA-Tariff/Import Duties
-   - Memo: D34574316 - 7333
-   - Description: Duties fee for S3 shipment from China supplier
-   - *Purpose: Import tariff/customs duty on S3 shipment*
+---
 
-**Cumulative Legal Fees:** KO Law PC total now $61,135.00 (prior $16,170.50 + May 12 $44,964.50)
+## Monthly Spend by Category
 
-**Total General & Administrative: $45,661.50** | **2 transactions** | **Largest: KO Law PC Investment Transaction
+| Month | Direct Labor & Subs | IRAD R&D | Materials & Purchases | G&A | Total |
+|-------|---------------------|----------|------------------------|-----|-------|
+| May 2026 (12–18) | $0 | $0 | $5,714.94 | $108.84 | $5,823.78 |
+| May 2026 (18 only) | $0 | $0 | $4,164.75 | $0 | $4,164.75 |
+| June 2026 (1) | $0 | $10,773.62 | $0 | $0 | $10,773.62 |
+| **Total (May 12–Jun 1)** | **$0** | **$10,773.62** | **$9,879.69** | **$108.84** | **$20,762.15** |
+| **Prior cumulative** | **$384,547.30** | **$38,608.70** | **$504,767.70** | **$45,552.66** | **$973,476.36** |
+| **Grand Total** | **$384,547.30** | **$49,382.32** | **$514,647.39** | **$45,661.50** | **$994,238.51** |
+
+**Burn Rate Analysis (May 12–Jun 1, 20 days):**
+- Daily average: $1,038.11
+- Monthly projection (30 days): $31,143.30
+
+**Key Trend**: Minimal operational spending (no direct labor charges) during May 18–Jun 1 period; primary activity is R&D tax credit payment (Jun 1) and materials procurement for S0 projects (May 18).
+
+---
+
+## Notable Transactions
+
+### High-Value / Strategic Transactions
+
+1. **KO Law PC Investment Services — $44,964.50 (May 12)**
+   - Large legal services bill tied to investment/financing activities
+   - Cumulative KO Law total now $61,135.00
+   - *Impact*: Indicates significant corporate/investment activity
+
+2. **Boostr Consulting R&D Tax Credits — $10,773.62 (Jun 1)**
+   - 2025 R&D tax credit filing/payment
+   - *Impact*: Partial offset to prior R&D spending; timing aligns with tax preparation cycle
+
+3. **Northwind Composites (Multi-Project) — $4,164.75 (May 18)**
+   - Multi-project purchase: 2026 IDIQ, Sasquatch, 6 future S0 sales
+   - Thermoset laminate tubes + inventory accumulation
+   - *Impact*: Indicates parallel S0 project scaling; inventory investment for future revenue
+
+### Outstanding Items Requiring Resolution
+
+- **Phase1 Aviation Double-Payment**: $6,105.00 balance on invoice #1696 (20 wings) — recommend credit memo or recovery
+- **Outstanding Receivables**: $17,894.36 (100% of invoiced revenue) — all three invoices unpaid
+- **Outstanding PO #1038**: $1,700.00 Amprius battery cells — follow up on delivery/receipt
+
+---
+
+## Summary of Changes (May 12–Jun 1)
+
+| Category | Prior | New | Change | % Change |
+|----------|-------|-----|--------|----------|
+| Total Expenses | $1,082,574.24 | $1,092,347.86 | +$9,773.62 | +0.90% |
+| IRAD R&D | $38,608.70 | $49,382.32 | +$10,773.62 | +27.9% |
+| Materials & Purchases | $514,647.39 | $519,812.14 | +$5,164.75 | +1.00% |
+| Net Position | -$1,064,679.88 | -$1,074,453.50 | -$9,773.62 | (deficit worsened) |
+
+**Net Position Change**: Expense increase of $9,773.62 offsets any potential revenue collection; receivables remain fully outstanding.

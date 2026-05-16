@@ -2,63 +2,78 @@
 
 ## By Product/System
 
-### SwiftCore Flight Management System
-- **Autonomy Phase II Proposal – DRAFT** | NASA ARMD | April 2026 | Phase II SBIR proposal for autonomous flight management capabilities (autonomy_phase_ii-proposal-draft.md)
-- **NASA AERO.7 Phase I DRAFT** | NASA ARMD | May 2026 | Persistent wildfire monitoring with SwiftCore autopilot integration (nasa_aero7_phase_i_draft.md)
+### SwiftCore (Flight Management System & Ecosystem)
+- **A2.02-1017 Phase II Technical Narrative BST** — NASA ARMD, May 2026 — Phase II proposal detailing SwiftCore autonomy capabilities, RTA Kit, SwiftSim, SwiftDeploy, SwiftBus, and SwiftPilot integration (a202-1017_phase_ii_technical_narrative_bstpdf.md)
+- **Autonomy Phase II Proposal – DRAFT** — NASA ARMD (Convergent Aeronautics Solutions), April 2026 — SwiftCore Flight Management System development for autonomous UAS operations (autonomy_phase_ii-proposal-draft.md)
 
-### S0 / Hurricane-S0 sUAS Platform
-- **BST ONR Proposal Response v5** | ONR (via University of Washington) | May 2026 | Technical approach for S0-MET / S0-ARO hurricane observation systems (bst_onr_proposal_response_v5.md)
-- **BST ONR Proposal Response v2** | ONR (via University of Washington) | May 2026 | Weather/SST/ARO sUAS for WC-130J tube deployment operations (bst_onr_proposal_response_v2.md)
+### S2 (Fixed-Wing UAS)
+- **A2.02-1017 Phase II Technical Narrative BST** — NASA ARMD, May 2026 — Referenced as platform for autonomy testing (a202-1017_phase_ii_technical_narrative_bstpdf.md)
 
-### S3 (Black Swift S3)
-- **NASA AERO.7 Phase I DRAFT** | NASA ARMD | May 2026 | Fixed-wing UAS for persistent wildfire monitoring and airspace safety (nasa_aero7_phase_i_draft.md)
+### S3 (VTOL UAS)
+- **NASA AERO.7 Phase I DRAFT** — NASA ARMD, May 2026 — Primary platform for persistent wildfire monitoring and airspace safety applications (nasa_aero7_phase_i_draft.md)
+- **A2.02-1017 Phase II Technical Narrative BST** — NASA ARMD, May 2026 — Referenced as VTOL platform for autonomy testing (a202-1017_phase_ii_technical_narrative_bstpdf.md)
+
+### E2 (Multirotor)
+- **A2.02-1017 Phase II Technical Narrative BST** — NASA ARMD, May 2026 — Referenced as multirotor platform for autonomy integration (a202-1017_phase_ii_technical_narrative_bstpdf.md)
+
+### Hurricane-S0 (sUAS)
+- **S0-MET / S0-ARO: 6.4 ONR Subcontract Response** — ONR (Prime: University of Washington), May 2026 — 2–3 Hurricane-S0 units per year over 3-year contract for hurricane/maritime operations (bst_onr_proposal_response_final_submitted.md)
+
+### NightFOX Payload
+- **NASA AERO.7 Phase I DRAFT** — NASA ARMD, May 2026 — NOAA-developed payload integrated with S3 for wildfire detection (nasa_aero7_phase_i_draft.md)
 
 ---
 
 ## By Client/Agency
 
-### NASA (Aeronautics Research Mission Directorate – ARMD)
-- **Autonomy Phase II Proposal – DRAFT** | April 2026 | Phase II SBIR for SwiftCore autonomous flight management (autonomy_phase_ii-proposal-draft.md)
-- **NASA AERO.7 Phase I DRAFT** | May 2026 | Phase I SBIR for persistent wildfire monitoring and airspace safety with S3 and NightFOX (nasa_aero7_phase_i_draft.md)
+### NASA
+- **NASA AERO.7 Phase I DRAFT** — Aeronautics Research Mission Directorate (SBIR FY26-27, Subtopic AERO.7.S36B), May 2026 — Persistent wildfire monitoring and airspace safety using S3 with NightFOX payload (nasa_aero7_phase_i_draft.md)
+- **Submission Endorsements.pdf** — NASA SBIR Phase I, May 2026 — Endorsement form for AERO.7 submission with Jack S. Elston (CEO) as PI and Business Official (submission_endorsementspdf.md)
+- **Endorsements.pdf** — NASA SBIR/STTR Phase II, May 2026 — Formal endorsement page for Phase II proposal with Jack Elston as signatory (endorsementspdf.md)
+- **A2.02-1017 Phase II Technical Narrative BST** — Aeronautics Research Mission Directorate (Topic A2.02: Autonomy for UAS), May 2026 — SwiftCore-based autonomy development; Contract 80NSSC25C0155 (Phase I) (a202-1017_phase_ii_technical_narrative_bstpdf.md)
+- **Autonomy Phase II Proposal – DRAFT** — Aeronautics Research Mission Directorate (Convergent Aeronautics Solutions program), April 2026 — SwiftCore autonomy development; draft status (autonomy_phase_ii-proposal-draft.md)
 
-### Office of Naval Research (ONR) – via University of Washington
-- **BST ONR Proposal Response v5** | May 2026 | S0-MET / S0-ARO technical approach for hurricane observation (bst_onr_proposal_response_v5.md)
-- **BST ONR Proposal Response v2** | May 2026 | Weather/SST/ARO sUAS for WC-130J tube deployment (bst_onr_proposal_response_v2.md)
+### Office of Naval Research (ONR)
+- **S0-MET / S0-ARO: 6.4 ONR Subcontract Response** — ONR Advanced Component Development & Prototypes program (Prime: University of Washington, PI: Dr. Elizabeth Sanabia), May 2026 — Hurricane-S0 sUAS development for maritime/hurricane operations (bst_onr_proposal_response_final_submitted.md)
 
 ---
 
 ## By Application Area
 
-### Hurricane/Tropical Cyclone Operations
-- **BST ONR Proposal Response v5** | ONR | May 2026 | Hurricane-S0 platform for S0-MET / S0-ARO meteorological and aerosol remote observation (bst_onr_proposal_response_v5.md)
-- **BST ONR Proposal Response v2** | ONR | May 2026 | S0 weather/SST/ARO sUAS integration with WC-130J hurricane reconnaissance aircraft (bst_onr_proposal_response_v2.md)
+### Wildfire Monitoring & Airspace Safety
+- **NASA AERO.7 Phase I DRAFT** — NASA ARMD, May 2026 — Persistent wildfire monitoring using S3 with NightFOX payload; airspace integration and safety protocols (nasa_aero7_phase_i_draft.md)
 
-### Wildfire Monitoring
-- **NASA AERO.7 Phase I DRAFT** | NASA ARMD | May 2026 | Persistent wildfire monitoring using S3 fixed-wing UAS with NightFOX payload (nasa_aero7_phase_i_draft.md)
+### UAS Autonomy & Flight Management
+- **A2.02-1017 Phase II Technical Narrative BST** — NASA ARMD, May 2026 — SwiftCore ecosystem (RTA Kit, SwiftSim, SwiftDeploy, SwiftBus, SwiftPilot) for autonomous flight management across S2, S3, E2 platforms (a202-1017_phase_ii_technical_narrative_bstpdf.md)
+- **Autonomy Phase II Proposal – DRAFT** — NASA ARMD, April 2026 — SwiftCore Flight Management System autonomy advancement (autonomy_phase_ii-proposal-draft.md)
 
-### Autonomous Flight Operations
-- **Autonomy Phase II Proposal – DRAFT** | NASA ARMD | April 2026 | SwiftCore autopilot enhancements for autonomous UAS operations (autonomy_phase_ii-proposal-draft.md)
-
-### Airspace Safety & Operations
-- **NASA AERO.7 Phase I DRAFT** | NASA ARMD | May 2026 | Airspace operations integration for persistent aerial surveillance (nasa_aero7_phase_i_draft.md)
+### Hurricane & Maritime Operations
+- **S0-MET / S0-ARO: 6.4 ONR Subcontract Response** — ONR, May 2026 — Hurricane-S0 sUAS for maritime surveillance and hurricane monitoring in support of WC-130J operations (bst_onr_proposal_response_final_submitted.md)
 
 ---
 
 ## By Document Type
 
-### Phase II SBIR Proposals
-- **Autonomy Phase II Proposal – DRAFT** | NASA ARMD | April 2026 | SwiftCore autonomous flight management Phase II technical proposal (autonomy_phase_ii-proposal-draft.md)
+### NASA SBIR Phase I Proposals
+- **NASA AERO.7 Phase I DRAFT** — Technical proposal (draft) for SBIR FY26-27, Subtopic AERO.7.S36B; persistent wildfire monitoring focus (nasa_aero7_phase_i_draft.md)
 
-### Phase I SBIR Proposals
-- **NASA AERO.7 Phase I DRAFT** | NASA ARMD | May 2026 | Wildfire monitoring and airspace safety Phase I technical proposal (nasa_aero7_phase_i_draft.md)
+### NASA SBIR Phase II Proposals
+- **A2.02-1017 Phase II Technical Narrative BST** — Full technical narrative; SwiftCore autonomy ecosystem detailed across multiple platforms (a202-1017_phase_ii_technical_narrative_bstpdf.md)
+- **Autonomy Phase II Proposal – DRAFT** — Draft Phase II proposal; SwiftCore Flight Management System focus; incomplete template sections (autonomy_phase_ii-proposal-draft.md)
 
-### Proposal Responses / Technical Approaches
-- **BST ONR Proposal Response v5** | ONR (UW Prime) | May 2026 | Technical approach for hurricane observation sUAS platform (bst_onr_proposal_response_v5.md)
-- **BST ONR Proposal Response v2** | ONR (UW Prime) | May 2026 | Technical approach for weather/SST/ARO sUAS deployment (bst_onr_proposal_response_v2.md)
+### SBIR/STTR Endorsement & Administrative Documents
+- **Submission Endorsements.pdf** — NASA SBIR Phase I endorsement form; Jack S. Elston (CEO) as Business Official and PI; May 2026 (submission_endorsementspdf.md)
+- **Endorsements.pdf** — NASA SBIR/STTR Phase II endorsement page; Jack Elston signatory; May 2026 (endorsementspdf.md)
+
+### ONR Subcontract Responses
+- **S0-MET / S0-ARO: 6.4 ONR Subcontract Response** — Technical approach and proposal response for ONR 6.4 program; Hurricane-S0 sUAS development (bst_onr_proposal_response_final_submitted.md)
 
 ---
 
-## Document Status Notes
-- **DRAFT documents:** Autonomy Phase II, NASA AERO.7 Phase I – incomplete; templates sections under development
-- **Internal review drafts:** BST ONR v2 – revised from earlier 4 May version
-- **Active/current:** BST ONR v5 – most recent version dated 2026-05-14
+## Summary Statistics
+- **Total Documents Cataloged:** 6 unique documents
+- **NASA Proposals:** 5 documents (4 Phase I/II technical, 1 endorsement set)
+- **ONR Proposals:** 1 document
+- **Primary Product Focus:** SwiftCore (2 docs), S3 (2 docs), Hurricane-S0 (1 doc)
+- **Date Range:** April–May 2026
+- **Status:** 5 finalized/submitted; 1 draft

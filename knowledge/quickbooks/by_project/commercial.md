@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $2,877,251.34
-- **Total Expenses (Bills + Purchases):** $228,940.83 *(+$307.29 from new transactions)*
+- **Total Expenses (Bills + Purchases):** $229,247.12 *(+$306.29 from new transactions)*
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,648,310.51 (Revenue exceeds expenses)
+- **Net Position:** $2,648,004.22 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – May 18, 2026
 
 ---
@@ -110,13 +110,12 @@
 ---
 
 ### **Materials & Supplies (Direct Cost Purchases)**
-**Total: $77,108.64** | 13 transactions | Largest item: $2,776.50
+**Total: $77,414.93** | 14 transactions | Largest item: $2,776.50
 
 #### Direct Cost Purchases
-- **Purchase #334139 (2026-05-18):** $4,164.75
+- **Purchase #334139 (2026-05-18):** $4,164.75 ⚠️ *[DUPLICATE ENTRY - ALREADY RECORDED]*
   - $2,776.50 — Thermoset Laminate Linen Tubes (shipped to Lee Skidmore/Northwind Composites)
   - $555.30 — Additional materials
   - $832.95 — Allocation to Inventory Asset (future sales of 6 S0s)
   - **Direct cost allocation:** $3,331.80
-  - **Projects:** 2026 IDIQ, Sasquatch S0s, 6 future S0 sales
-  -
+  - **Projects:** 2026 IDIQ,

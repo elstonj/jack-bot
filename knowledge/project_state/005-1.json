@@ -29,7 +29,7 @@
         "amount": 8375.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-15"
+        "last_updated": "2026-05-16"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 6652.24,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-15T09:06:03Z"
+    "last_reconciled": "2026-05-16T09:03:53Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -75,6 +75,18 @@
   ],
   "risks": [],
   "overrides": [
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-04-17",
+      "text": "From Daniel Prendergast (ts=1775494066.358699): That's a decent summary for my tasks.  Curious what everyone else thinks.  Hopefully with some more training, Jack Bot can make me entirely obsolete by the end of the month."
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-04-17",
+      "text": "From Daniel Prendergast (ts=1775494066.358699): That's a decent summary for my tasks.  Curious what everyone else thinks.  Hopefully with some more training, Jack Bot can make me entirely obsolete by the end of the month."
+    },
     {
       "source": "FEEDBACK",
       "author": "Daniel Prendergast",
@@ -131,9 +143,9 @@
     },
     {
       "source": "FEEDBACK",
-      "author": "Daniel Prendergast",
-      "date": "2026-04-17",
-      "text": "From Daniel Prendergast (ts=1775494066.358699): That's a decent summary for my tasks.  Curious what everyone else thinks.  Hopefully with some more training, Jack Bot can make me entirely obsolete by the end of the month."
+      "author": "Alex Lomis",
+      "date": "2026-04-20",
+      "text": "From Alex Lomis (ts=1776451579.783709): <@U083AAM8E9Y> I'm not sure any are _fully_ NDAA compliant yet but the S0 VTOL, S0 AD, and E2 all can be I believe"
     },
     {
       "source": "FEEDBACK",
@@ -186,12 +198,6 @@
     {
       "source": "FEEDBACK",
       "author": "Daniel Prendergast",
-      "date": "2026-04-17",
-      "text": "From Daniel Prendergast (ts=1775494066.358699): That's a decent summary for my tasks.  Curious what everyone else thinks.  Hopefully with some more training, Jack Bot can make me entirely obsolete by the end of the month."
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Daniel Prendergast",
       "date": "2026-04-20",
       "text": "From Daniel Prendergast (ts=1775494066.358699): That's a decent summary for my tasks.  Curious what everyone else thinks.  Hopefully with some more training, Jack Bot can make me entirely obsolete by the end of the month."
     },
@@ -233,9 +239,15 @@
     },
     {
       "source": "FEEDBACK",
-      "author": "Alex Lomis",
-      "date": "2026-04-20",
-      "text": "From Alex Lomis (ts=1776451579.783709): <@U083AAM8E9Y> I'm not sure any are _fully_ NDAA compliant yet but the S0 VTOL, S0 AD, and E2 all can be I believe"
+      "author": "Maciej",
+      "date": "2026-04-24",
+      "text": "From Maciej: <@U0AQE94HJUT> for S0 VTOL IRAD, there's one overdue task \"Visual Observation Bench Test\" along with the \"Instrumented Bench Test\" needing to be completed by next Thursday. <@U058LGYMEQ0>, any roadblocks on your end for catching up on that one overdue task and then having the instrumented bench test done by mid next week? Anything you're waiting on from others or need to order?"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-04-24",
+      "text": "From Maciej: <@U0AQE94HJUT> our highest priority projects right now are: (1) S3 IRAD with a targeted delivery of end of May for the UMES S3, (2) S0-VTOL with two deliveries for ERAU and Barbados, (3) Closing out EMASS, (4) By-Lite Mustang, and (5) Initial tasks on the SBIR Magnetometer project. How are we looking on overdue tasks for those?"
     },
     {
       "source": "FEEDBACK",
@@ -248,6 +260,12 @@
       "author": "Jack",
       "date": "2026-04-20",
       "text": "From Jack: seems reasonable.  depending on timeline we might be able to shift some older ground stations from the S0-VTOL kits.  (I hate to do that, but might be best)."
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-05-04",
+      "text": "From Maciej (ts=1777309788.790849): • <@U06CCFTNBS6>, after your meeting with ByLight let's update the due dates in Asana to realistic numbers and let them know.\n• <@U058LGYMEQ0>, did you need support on S0-VTOL stuff? Looks like some deadlines this week that I assume <@U01511MEQ90> or <@U06NQAYBLRK> can help with depending on their workload.\n• <@U07FN4QSNDN> or <@U01511MEQ90>, you had both mentioned using our AI tools to start on those NASA RFI's, are one of you able to get going on that soon? "
     },
     {
       "source": "FEEDBACK",
@@ -269,18 +287,6 @@
     },
     {
       "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-04-24",
-      "text": "From Maciej: <@U0AQE94HJUT> for S0 VTOL IRAD, there's one overdue task \"Visual Observation Bench Test\" along with the \"Instrumented Bench Test\" needing to be completed by next Thursday. <@U058LGYMEQ0>, any roadblocks on your end for catching up on that one overdue task and then having the instrumented bench test done by mid next week? Anything you're waiting on from others or need to order?"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-04-24",
-      "text": "From Maciej: <@U0AQE94HJUT> our highest priority projects right now are: (1) S3 IRAD with a targeted delivery of end of May for the UMES S3, (2) S0-VTOL with two deliveries for ERAU and Barbados, (3) Closing out EMASS, (4) By-Lite Mustang, and (5) Initial tasks on the SBIR Magnetometer project. How are we looking on overdue tasks for those?"
-    },
-    {
-      "source": "FEEDBACK",
       "author": "Jack",
       "date": "2026-05-06",
       "text": "From Jack (ts=1778019802.867609): It's part of his training."
@@ -290,12 +296,6 @@
       "author": "Jack",
       "date": "2026-05-05",
       "text": "From Jack: It's part of his training."
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-05-04",
-      "text": "From Maciej (ts=1777309788.790849): • <@U06CCFTNBS6>, after your meeting with ByLight let's update the due dates in Asana to realistic numbers and let them know.\n• <@U058LGYMEQ0>, did you need support on S0-VTOL stuff? Looks like some deadlines this week that I assume <@U01511MEQ90> or <@U06NQAYBLRK> can help with depending on their workload.\n• <@U07FN4QSNDN> or <@U01511MEQ90>, you had both mentioned using our AI tools to start on those NASA RFI's, are one of you able to get going on that soon? "
     },
     {
       "source": "FEEDBACK",
@@ -310,6 +310,6 @@
       "text": "From Daniel Prendergast: <@U0AQE94HJUT> CU IRISS training is complete.  EMASS Validation Flight #2 is postponed indefinitely until they get us a functioning controller."
     }
   ],
-  "last_full_rebuild": "2026-05-15T09:06:03Z",
+  "last_full_rebuild": "2026-05-16T09:03:53Z",
   "last_incremental_update": null
 }

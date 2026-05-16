@@ -45,7 +45,7 @@ _Generated from Asana project overviews. 48 active projects._
 | 451_1 | INSTAAR S3 x 2 | INSTAAR, CU Boulder | $120,000 | — | — |
 | 550_1 | NAVY SBIR: Magnetometer | Dept of the Navy | $242,540 | #sbir-hurricane, #sbir-volcano | Yes |
 | 550_2 | Navy STTR: Hazardous Weather | Dept. of the Navy | $146,326 | #sbir-hurricane, #sbir-volcano | Yes |
-| — | View: Flight Testing | — | — | #flight-testing | — |
+| — | Flight Testing | — | — | #flight-testing | — |
 | — | View: Major Milestones & Tasks | — | — | — | — |
 | — | View: Weekly Meetings | — | — | — | — |
 | — | View: Shipping | — | — | — | — |
@@ -67,4 +67,4 @@ _Generated from Asana project overviews. 48 active projects._
 | C015DKC4WG1 | #sbir-volcano | 550_1 | NAVY SBIR: Magnetometer |
 | C01510XMGRG | #sbir-hurricane | 550_2 | Navy STTR: Hazardous Weather |
 | C015DKC4WG1 | #sbir-volcano | 550_2 | Navy STTR: Hazardous Weather |
-| C01510MGT8A | #flight-testing | — | View: Flight Testing |
+| C01510MGT8A | #flight-testing | — | Flight Testing |

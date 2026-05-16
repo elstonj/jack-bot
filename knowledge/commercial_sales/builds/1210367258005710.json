@@ -1,0 +1,40 @@
+{
+  "asana_gid": "1210367258005710",
+  "asana_task_name": "NASA Ames - S3 (qty.2)",
+  "customer": "NASA Ames Research Center",
+  "customer_contact": "Will Wade",
+  "customer_email": "William.o.wade@nasa.gov",
+  "receive_by": null,
+  "ship_to": null,
+  "items": [
+    {
+      "description": "S3 Quadcopter",
+      "quantity": 2
+    }
+  ],
+  "payment_state": "estimate_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "NASA Ames S3 opportunity (qty 2). Quote sent per custom field; estimated value $65,000. Lead response 'Maybe Later' but this is current customer with ongoing relationship. No recent activity on this specific S3 task\u2014last contact via Asana notes only. Monitor for follow-up after initial contact.",
+  "missing_fields": [
+    "receive_by",
+    "ship_to",
+    "build_state",
+    "parts"
+  ],
+  "last_evidence_date": "2026-05-15"
+}

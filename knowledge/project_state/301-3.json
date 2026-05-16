@@ -31,19 +31,19 @@
       {
         "category": "Labor",
         "amount": 111481.0,
-        "description": "Engineering Tasks (NRE): Laser configuration updates, AirOps field additions, Dual GPS for heading, 10Hz met data, Firmware customization, Extended endurance battery tweaks, Manufacturability improvements, Data buffering and re-transmission",
+        "description": "Engineering Tasks (NRE): laser configuration, AirOps updates, dual GPS, 10Hz met data, firmware customization, battery endurance, manufacturability improvements, data buffering",
         "source_doc": null
       },
       {
         "category": "Materials",
         "amount": 1700.0,
-        "description": "Materials for Dual GPS unit, Extended endurance battery tweaks, Manufacturability improvements",
+        "description": "Materials for dual GPS ($1,000), extended endurance battery tweaks ($200), manufacturability improvements ($500)",
         "source_doc": null
       },
       {
         "category": "Travel",
         "amount": 20852.0,
-        "description": "Clear Air Testing 2025 ($4,852) and Hurricane Flights 2025 ($16,000)",
+        "description": "Clear Air Testing 2025 ($4,852), Hurricane Flights 2025 ($16,000)",
         "source_doc": null
       }
     ],
@@ -52,13 +52,13 @@
         "amount": 551586.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-15"
+        "last_updated": "2026-05-16"
       },
       "purchases": {
         "amount": 902.06,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-05-15"
+        "last_updated": "2026-05-16"
       },
       "other_qbo": {
         "amount": 321540.76,
@@ -72,7 +72,7 @@
     "committed": 68.7,
     "remaining": -741764.77,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-15T09:07:43Z"
+    "last_reconciled": "2026-05-16T09:06:04Z"
   },
   "milestones": [
     {
@@ -198,13 +198,13 @@
     {
       "source": "FEEDBACK",
       "author": "Alex Lomis",
-      "date": "2026-04-20",
+      "date": "2026-04-17",
       "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
     },
     {
       "source": "FEEDBACK",
       "author": "Alex Lomis",
-      "date": "2026-04-17",
+      "date": "2026-04-20",
       "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
     },
     {
@@ -232,6 +232,6 @@
       "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
     }
   ],
-  "last_full_rebuild": "2026-05-15T09:07:43Z",
+  "last_full_rebuild": "2026-05-16T09:06:04Z",
   "last_incremental_update": null
 }

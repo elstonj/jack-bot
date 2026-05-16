@@ -1,68 +1,50 @@
 # Slack Channels Overview
 
-Last scanned: 2026-05-15 02:16
+Last scanned: 2026-05-16 02:15
 
-Total channels scanned: 8
+Total channels scanned: 7
 
 ## Channels
 
-- **#2025-nasa-autonomy** -- 1 messages -- [2025-nasa-autonomy.md](2025-nasa-autonomy.md)
-- **#commercial-sales** -- 6 messages -- [commercial-sales.md](commercial-sales.md)
-- **#flight-testing** -- 12 messages -- [flight-testing.md](flight-testing.md)
-- **#general** -- 13 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 21 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#operations** -- 2 messages -- [operations.md](operations.md)
-- **#s3** -- 30 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 7 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#commercial-sales** -- 1 messages -- [commercial-sales.md](commercial-sales.md)
+- **#emass-bst** -- 3 messages -- [emass-bst.md](emass-bst.md)
+- **#flight-testing** -- 14 messages -- [flight-testing.md](flight-testing.md)
+- **#general** -- 1 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 4 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#s3** -- 14 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 5 messages -- [sbir-hurricane.md](sbir-hurricane.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Cross-Channel Strategic Overview
-
-## Active Projects & Programs
-
-**Government/SBIR Focus:**
-- **SBIR Hurricane (S0)**: Long-running hurricane reconnaissance platform (2020-2026), primary focus in #sbir-hurricane
-- **2025 NASA Autonomy**: Phase I project (Sept 2025-Mar 2026) developing modular flight control architecture, advancing from TRL-5 to TRL-7
-- **S3 VTOL**: Hybrid fixed-wing/quadcopter with tilting rotors, targeting 2-3 hour endurance with autonomous operations
-
-**Commercial/Operational:**
-- Active aircraft fleet: S-series (fixed-wing), E2/Flamewheel (multirotor), S0/S1/S3 (VTOL variants)
-- Customer delivery pipeline across universities, government agencies (NASA, NOAA), and international clients
-- Ongoing grant applications across federal agencies (NASA, DOD, NOAA, USDA)
-
-## Key Decision-Makers & Roles
-
-| Person | Primary Role(s) |
-|--------|-----------------|
-| **Jack Elston** | Leadership, funding strategy, technical decisions, primary decision-maker |
-| **Maciej** | Technical oversight, flight testing/analysis, project coordination, proposal support |
-| **Joshua Fromm** | Lead design/engineering, hardware/shop operations, QA/component sourcing |
-| **Dan Prendergast** | Business development, operations, proposal writing |
-| **Meredith Needham** | Budget/finance, administrative coordination, documentation |
-| **Sam Hild** | Firmware development |
-| **Beck Cotter** | Flight testing, autonomy project support |
+# Black Swift Technologies - Strategic Channel Overview
 
 ## Cross-Channel Themes
 
-**Technical Development Pipeline:** Projects flow from SBIR/government funding (#grants-and-funding, #sbir-hurricane, #2025-nasa-autonomy) → engineering design (#s3, #flight-testing) → flight validation (#flight-testing) → commercial deployment (#commercial-sales)
+### Active Projects
+- **SBIR Hurricane (S0)**: Primary government-funded reconnaissance aircraft; extensive technical development and mission planning
+- **S3 VTOL**: Long-endurance hybrid fixed-wing/quadcopter with tilting rotors; core product development focus
+- **E2 Platform**: Multi-role aircraft serving as baseline for payload integrations and commercial applications
+- **ECSDoT Integration**: Energy management system collaboration with eMASS AI for E2 platform enhancement
 
-**Flight Testing as Integration Hub:** #flight-testing serves as quality gate and troubleshooting center for all aircraft platforms, directly supporting both SBIR/government projects and commercial deliverables
+### Key Decision-Makers & Roles
+- **Jack Elston**: Strategic leadership, autopilot/firmware expertise, primary funding decision authority
+- **Joshua Fromm**: Lead design engineer, QA, component sourcing
+- **Maciej**: Technical project oversight, flight testing leadership, proposal support
+- **Dan Prendergast**: Business development, operations, proposal writing
+- **Meredith Needham**: Budget and administrative management
 
-**Funding Drives Roadmap:** Grant strategy in #grants-and-funding shapes project priorities; successful awards (SBIR Hurricane, NASA Autonomy) become primary technical focuses
+### Decision Patterns
+1. **Funding-Driven Development**: Grant/SBIR programs (#grants-and-funding) heavily influence technical priorities and timelines
+2. **Hardware-First Testing**: Flight testing (#flight-testing) validates design decisions; issues drive rapid iteration
+3. **Centralized Engineering**: Small technical core (Fromm, Elston, Maciej) owns major architecture decisions
+4. **Government-First Market**: SBIR, NASA, DOD, NOAA relationships dominate over commercial sales
 
-**Operations Enables Delivery:** #operations and #commercial-sales work in parallel—operations manages production/logistics while commercial-sales manages customer relationships and order fulfillment
+### Recurring Topics Across Channels
+- **Firmware/autopilot updates**: Jack Elston drives specifications; impacts flight testing and all aircraft platforms
+- **Component sourcing & supply chain**: Joshua Fromm coordinates; affects project timelines
+- **Battery/endurance performance**: Critical constraint across S3, E2, and ECSDoT projects
+- **Flight test results & troubleshooting**: Loops back to design decisions in #s3 and #sbir-hurricane
+- **Proposal deadlines**: Drive resource allocation visible across technical and commercial channels
 
-## Recurring Decision Patterns
-
-- **Top-down technical decisions**: Jack Elston establishes strategic direction; Maciej and Joshua execute/validate
-- **Proposal-driven development**: Government funding opportunities directly spawn new technical projects
-- **Iterative flight testing**: Continuous firmware/hardware refinement cycle between engineering teams and flight test operations
-- **Budget-constrained prioritization**: Funding availability explicitly shapes project timelines and resource allocation
-
-## Critical Connections
-
-- **S3 platform development** bridges #s3 (design) → #flight-testing (validation) → #commercial-sales (customer delivery)
-- **Autonomy research** (NASA project) feeds into S3's automatic flight operations capability
-- **SBIR Hurricane** remains longest-running project with sustained funding, providing operational stability
-- **Personnel overlap** across channels enables knowledge transfer but creates potential coordination bottlenecks
+### Organizational Structure Insight
+BST operates as a **project-based portfolio** with shared technical infrastructure (firmware, platforms, test facilities). Jack Elston functions as CEO/CTO; engineering decisions cascade through Fromm and Elston; Maciej serves as operations/testing lead; business development (Prendergast) and admin (Needham) support commercial and grant execution.

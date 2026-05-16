@@ -1,97 +1,58 @@
 # BST Financial Overview (QuickBooks)
-**Report Period: May 14–15, 2026 | Full Dataset: April 2024 – June 2026**
-
----
 
 ## Company Totals
-
-| Metric | Amount |
-|--------|--------|
-| **Total Revenue (Invoices)** | $7,177,862.98 |
-| **Total Expenses (Bills + COGS)** | $2,635,259.85 |
-| **Net Income Estimate** | **$4,542,603.13** |
-
-*Note: P&L report shows -$1,424.78 for May 14–15 only (2-day period with minimal invoicing but material purchases recorded).*
+- **Total Revenue (Invoices):** $7,265,968.62
+  - Commercial: $2,877,251.34
+  - Government: $4,387,717.28
+  - BST Internal: $17,894.36
+  
+- **Total Expenses:** $2,649,504.51
+  - Commercial: $229,247.12
+  - Government: $1,327,909.53
+  - BST Internal: $1,092,347.86
+  
+- **Net Income Estimate:** $4,616,464.11
 
 ---
 
 ## By Project/Class
+*(Sorted by total activity)*
 
-| Project | Revenue | Expenses | Net Position | Activity Level |
-|---------|---------|----------|--------------|-----------------|
-| **Government** | $4,387,717.28 | $1,323,744.78 | **$3,063,972.50** | High (75 invoices) |
-| **Commercial** | $2,877,251.34 | $228,940.83 | **$2,648,310.51** | Moderate (recent activity) |
-| **BST Internal** | $17,894.36 | $1,082,574.24 | **-$1,064,679.88** | Low (cost center) |
-
-**Key Insight:** Government and Commercial projects are highly profitable; BST Internal is an operational cost center with minimal revenue against substantial expenses.
-
----
-
-## Top Vendors (by spend)
-
-Based on available data:
-1. **Material suppliers** – $1,299.11 (recent COGS purchases)
-2. **Shipping/freight vendors** – $18.60
-3. **Facilities/shop supplies** – $107.07
-4. **Amprius** – $1,700.00 (outstanding PO #1038)
-
-*Full vendor list not detailed in provided data; suggest running Vendor Summary report for complete ranking.*
-
----
-
-## Top Customers (by revenue)
-
-| Customer | Invoice # | Date | Amount |
-|----------|-----------|------|--------|
-| (Government contracts) | Multiple | 2024–2026 | $4,387,717.28 |
-| IRISS, CU Boulder | 1759 | 2026-05-08 | $664.98 |
-| (Commercial customer) | 1757 | 2026-05-08 | $63,735.00+ |
-
-*Detailed customer list incomplete; Government class dominates revenue (61% of total).*
+| Project | Total Revenue | Total Expenses | Net Position |
+|---------|---------------|----------------|--------------|
+| **Government** | $4,387,717.28 | $1,327,909.53 | **+$3,059,807.75** |
+| **Commercial** | $2,877,251.34 | $229,247.12 | **+$2,648,004.22** |
+| **BST Internal** | $17,894.36 | $1,092,347.86 | **-$1,074,453.50** |
 
 ---
 
 ## Cash Flow Indicators
 
-### Accounts Receivable (Outstanding Balances)
-| Class | Outstanding Balance |
-|-------|---------------------|
-| **Government** | $3,120,198.19 |
-| **Commercial** | Not separately detailed |
-| **BST Internal** | Not separately detailed |
-| **TOTAL AR Estimate** | **$3,120,000+** |
+### Accounts Receivable (Outstanding)
+- **Government:** $3,120,198.19 outstanding across 75 active invoices
+- **Commercial:** Includes recent invoices (e.g., #1759 for $664.98 as of May 8, 2026)
+- **Total AR:** ~$3.1M+ pending collection
 
-**⚠️ Liquidity Note:** $3.1M+ in open invoices represents significant working capital tied up; monitor collection cycles.
+### Recent Large Expenses
+- BST Internal: $9,773.62 (June 1, 2026)
+- BST Internal: $306.29 direct material purchases (May 15-16, 2026)
+- Government segment: $1.33M+ in total expenses (largest expense category)
 
-### Recent Large Expenses (May 12–Jun 1)
-- **BST Internal:** $71,314.27 in new expenses
-- **Direct material purchases:** $1,299.11
-- **Shop supplies:** $107.07
+### Outstanding Purchase Orders
+- BST Internal: $1,700.00 (PO #1038 - Amprius, outstanding)
+- Commercial: $1,977.50
+- Government: $832.00
 
-### Project Activity Status
-- **Government:** Active (10 recent transactions, 75 invoices, ongoing)
-- **Commercial:** Active (recent invoices May 8, 2026)
-- **BST Internal:** Low activity but sustained operational spending
-
----
-
-## Unclassified Transactions
-
-**2-Day Period (May 14–15, 2026) Summary:**
-- **COGS Direct Costs:** $1,317.71 (material purchases + shipping)
-- **Facility Expenses:** $107.07 (shop supplies)
-- **Total:** $1,424.78
-
-These appear **classified** to cost categories but may lack project assignment. Recommend:
-- Review allocation to project classes (especially BST Internal)
-- Verify COGS entries are tied to correct revenue projects
-- Confirm shop supplies support which operational area
+### Project Status Notes
+- **Government & Commercial:** Both profitable; active invoicing through May-June 2026
+- **BST Internal:** Significant net loss (-$1.07M); expenses vastly exceed revenue; heavy operational/overhead costs
 
 ---
 
-## Recommendations
+## Key Observations
 
-1. **Accounts Receivable:** With $3.1M+ outstanding, prioritize collection on Government contracts
-2. **BST Internal profitability:** Address $1.06M negative net position; consider cost reductions or revenue allocation
-3. **Commercial strength:** Profitable segment; assess expansion opportunity
-4. **Complete data export:** Some vendor and customer details were truncated; run full summary reports for detailed analysis
+⚠️ **Profitability driven by Government & Commercial segments** — Combined net profit of $5.7M+ masks the substantial losses in BST Internal operations.
+
+⚠️ **Cash flow concern:** ~$3.1M in Government AR outstanding; collection timing critical for liquidity.
+
+⚠️ **BST Internal segment** appears to be operational/overhead; review necessity of $1.09M in expenses against $17.9K in revenue.

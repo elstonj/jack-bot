@@ -4,19 +4,16 @@
     ""
   ],
   "period": {
-    "start": "2026-05-14",
-    "end": "2026-05-15"
+    "start": "2026-05-15",
+    "end": "2026-05-16"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 14351.41,
+    "expenses": 11606.57,
     "by_category": {
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 10773.62,
-      "Inventory Asset": 2434.14,
-      "DIRECT COSTS:DC-Direct Material Purchases": 972.23,
-      "FACILITIES:FA-Shop Supplies": 92.17,
-      "Uncategorized Asset": 64.19,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 15.06
+      "DIRECT COSTS:DC-Direct Material Purchases": 666.36,
+      "Inventory Asset": 166.59
     }
   },
   "invoices": [],
@@ -36,24 +33,6 @@
           "amount": 10773.62,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
           "description": "R&D Tax Credits 2025"
-        }
-      ]
-    },
-    {
-      "type": "Bill",
-      "date": "2026-05-14",
-      "doc_number": "",
-      "total": 1700.0,
-      "attributed": 1700.0,
-      "vendor": "Amprius Technoloies",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 1700.0,
-          "account": "Inventory Asset",
-          "description": "SA112 x 200 (Quote #00001879)"
         }
       ]
     }
@@ -84,144 +63,6 @@
           "amount": 832.95,
           "account": "Inventory Asset",
           "description": "For future sales of 6 S0s"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-14",
-      "doc_number": "0513JELSTON",
-      "total": 366.29,
-      "attributed": 111.6,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request. Josh placed the order directly. See project listed under each item purchased",
-      "lines": [
-        {
-          "amount": 206.62,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "For IDIQ 2026"
-        },
-        {
-          "amount": 90.17,
-          "account": "Inventory Asset",
-          "description": "Future S3 Sales"
-        },
-        {
-          "amount": 48.07,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "For By Light"
-        },
-        {
-          "amount": 21.43,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-14",
-      "doc_number": "",
-      "total": 70.0,
-      "attributed": 70.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request. Josh Fromm made a request via email.",
-      "lines": [
-        {
-          "amount": 70.0,
-          "account": "Inventory Asset",
-          "description": "For future S3 sales to customers (UMES, Barbados, INSTAAR)"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-14",
-      "doc_number": "",
-      "total": 97.85,
-      "attributed": 79.25,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "FEDEX37097183 - 4699",
-      "lines": [
-        {
-          "amount": 18.6,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": "Amprius Technologies shipment for Navy 550-1 (order 11674)"
-        },
-        {
-          "amount": 79.25,
-          "account": "Uncategorized Asset",
-          "description": "Amprius Technologies shipment for future S3 sales (order 11675)"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-14",
-      "doc_number": "",
-      "total": 65.97,
-      "attributed": 65.97,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "AMAZON RETA* BF1JI3E01 - 4617",
-      "lines": [
-        {
-          "amount": 45.98,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "SoloGood FPV Transmitter Bag Carry Case x 2"
-        },
-        {
-          "amount": 19.99,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "3M Blenderm Transparent"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-14",
-      "doc_number": "",
-      "total": 19.67,
-      "attributed": 19.67,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "AMAZON RETA* BF1JI3E01 - 4617",
-      "lines": [
-        {
-          "amount": 19.67,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "3M Medical Tape Blenderm Plastic 2\" X 5 Yards"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-14",
-      "doc_number": "68728",
-      "total": 1037.48,
-      "attributed": 698.35,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 698.35,
-          "account": "Inventory Asset",
-          "description": "Future S3 Sales"
-        },
-        {
-          "amount": 339.13,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": ""
         }
       ]
     }

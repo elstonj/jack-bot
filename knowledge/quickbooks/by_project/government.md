@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $4,387,717.28
-- **Total Expenses (Bills + Purchases):** $1,323,744.78
+- **Total Expenses (Bills + Purchases):** $1,327,909.53
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,063,972.50 (invoiced minus expenses)
+- **Net Position:** $3,059,807.75 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -38,7 +38,7 @@
 | **Black Swift Technologies (Internal/Sales)** | **$197,188.00** | **Equipment sales: S0 4m VTOL, S0 VTOL Variant, E2 UAS, Avionics systems** |
 | NOAA UASD & UxSOC | $9,320.00 | Display Model S0 units with tripods & shipping (Invoices #1761–#1762, 2026-05-08) |
 
-### Recent Invoices (2026-05-14 to 2026-09-28)
+### Recent Invoices (2026-05-15 to 2026-09-28)
 | Invoice # | Date | Amount | Project | Description | Balance |
 |-----------|------|--------|---------|-------------|---------|
 | **#1763** | **2026-05-11** | **$197,188.00** | **Black Swift Technologies** | **Equipment Sales: S0 4m VTOL ($65k), S0 VTOL Variant ($36k), E2 UAS ($56.188k), Avionics ($40k)** | **$197,188.00** |
@@ -76,8 +76,8 @@
 
 ---
 
-### **Materials & Supplies: $449,555.15**
-**Number of transactions:** 185  
+### **Materials & Supplies: $453,719.90**
+**Number of transactions:** 186  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
 - **JAWSTEC:** $19,627.62 (components for S0 platforms)
@@ -85,8 +85,8 @@
   - **Total Amprius: $29,834.13**
 - **Microwave Filter Company / Pressure sensor imports:** $46,079.48 (tariffs included)
 - **General electronics components:** ~$50,000+ (various suppliers)
-- **Composite materials (thermoset laminates, tubes):** $4,164.75 + $2,776.50 (Northwind Composites, 2026-05-18)
-  - **Total composite materials: $6,941.25**
+- **Composite materials (thermoset laminates, tubes):** 
+  - $4,164.75 + $2,776.50 (Northwind Composites, 2026-05-18) = **$6,941.25 total**
 - **Motors, brushless components:** $181.85 + $55.46
 - **S0 wing components:** Multiple purchases totaling $12,200+
 - **PCB boards, stencils, parts sourcing:** ~$30,000+
@@ -104,8 +104,8 @@
   - $21.43 [FACILITIES:FA-Shop Supplies] — *See Facilities category*
   
 - **Purchase #334139 (Northwind Composites)** (2026-05-18): **$4,164.75** [Mixed allocations]
-  - $2,776.50 [DC-Direct Material Purchases] — Thermoset Laminate Linen Tubes
-  - $555.30 [DC-Direct Material Purchases]
+  - **$2,776.50 [DC-Direct Material Purchases]** — Thermoset Laminate Linen Tubes
+  - **$555.30 [DC-Direct Material Purchases]** — Additional direct materials
   - $832.95 [Inventory Asset] — For future sales of 6 S0s
   - **Project scope:** 2026 IDIQ, Sasquatch, 6 future S0 sales
   
@@ -113,8 +113,8 @@
   - $339.13 [DC-Direct Material Purchases]
   - $698.35 [Inventory Asset] — Future S3 Sales
 
-**Total new direct cost materials & supplies (2026-05-14 to 2026-05-18): $3,859.83**  
-**Cumulative materials & supplies (all direct costs): $449,555.15**
+**Total new direct cost materials & supplies (2026-05-14 to 2026-05-18): $4,164.75**  
+**Cumulative materials & supplies (all direct costs): $453,719.90**
 
 ---
 
@@ -131,8 +131,8 @@
 **Number of transactions:** 1  
 **Details:**
 - **Shop Supplies** (2026-05-14, Purchase #0513JELSTON): $21.43 [FA-Shop Supplies]
-  - Part of mixed facility/direct cost allocation from Josh's direct order
+  - Part of mixed facility/direct cost allocation
 
 ---
 
-### **Indirect Costs: $1,823
+### **Indirect Costs: $
