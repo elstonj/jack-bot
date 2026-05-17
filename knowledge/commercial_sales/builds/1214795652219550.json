@@ -37,7 +37,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Canadian Rangers demo in Ottawa planned for June 2026. NexTech Solutions (DoD integrator) evaluating S3 for tactical deployment; 120km range / 1h 35min TOF required with EO/IR gimbal. Follow-on demos planned: vendor meet-and-greet Ottawa, Arctic demo Whitehorse Nov-Apr 2027, potential Joint Forces Command purchase. Recent substantive Slack engagement 2026-05-15 confirms active planning.",
+  "notes": "Canadian Rangers demo in Ottawa planned for June 2026. NexTech Solutions (DoD integrator) evaluating S3 for tactical deployment; 120km range / 1h 35min TOF required with EO/IR gimbal. Follow-on demos planned: vendor meet-and-greet Ottawa, Arctic demo Whitehorse Nov-Apr 2027, potential Joint Forces Command purchase. Recent substantive Slack engagement 2026-05-15 confirms active planning. Estimate pending.",
   "missing_fields": [
     "ship_to",
     "customer_contact",

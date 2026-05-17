@@ -4,51 +4,51 @@
 - **Client/Customer:** Internal R&D project (IRAD), with pilot testing at PDCE facility and engagement with Crowheart Energy
 - **Dollar Value:** Targeting $1M investment (open task, unassigned)
 - **Timeline:** Project started in early 2023; Annual Report 2024 completed September 2024; Annual Report 2025 due September 1, 2025
-- **Status:** **CRITICAL DATA QUALITY ISSUE** — Asana shows only 2 completed tasks as of Nov 28, 2023 (9+ months stale). Prior comprehensive updates documented 164 total tasks with 14 open and 91% completion rate. **Team is almost certainly tracking work outside Asana or project structure has shifted significantly.** Work is actively ongoing (Annual Report 2024 completed Sept 2024, pilot testing with Crowheart in progress). **Recommend immediate confirmation with Maciej Stachura on current tracking system and actual project status.**
+- **Status:** **CRITICAL DATA QUALITY ISSUE — DO NOT RELY ON ASANA FOR CURRENT STATUS.** Raw Asana data shows only 1 completed task (Annual Report due Sept 1, 2023, completed Aug 30, 2023) with 0 open tasks as of Nov 28, 2023. This contradicts documented project progress: Annual Report 2024 was completed September 6, 2024; Crowheart Energy pilot in active progress; patent work ongoing. **Work is actively being tracked outside Asana or project structure has fundamentally shifted.** Recommend immediate confirmation with Maciej Stachura on current tracking system and actual project status before relying on any Asana dates or task assignments.
 - **Team Members:** Maciej Stachura (owner), Jack Elston, Josh Fromm, Nate Straus, plus whole BST team
 - **Risk Signals:** 
-  - **CRITICAL:** Asana data decay — last meaningful update Nov 28, 2023; no visibility into work from Nov 2023 onwards
+  - **CRITICAL:** Asana data decay — last meaningful update Nov 28, 2023; no visibility into work from Nov 2023 onwards despite documented Sept 2024 Annual Report completion
   - **CRITICAL:** 10+ unassigned business development tasks (customer outreach, investment close, patent applications) remain without clear owners or due dates
   - Patent work stalled (Jack Elston's tasks lack deadlines; IP disclosure risk)
   - Annual Report 2025 due September 1, 2025 — owner/status unknown
-  - Crowheart Energy MVP demo status unknown (MSA executed, vendor onboarded Feb 2024, but no recent activity visible)
+  - Crowheart Energy MVP demo status unknown (MSA executed, vendor onboarded Feb 2024, but no recent activity visible in Asana)
   - Project marked as "Low" priority despite $1M revenue potential
 
 ## Key Deliverables & Milestones
 - **Delta Brick and Climate Coal Mine Survey** - Completed November 13, 2023 — Notes indicate "first revenues" expected
-- **PDCE Ridge Test** - Completed November 13, 2023 (per prior data)
-- **Final Report** - Completed March 5, 2024 (per prior data; was due May 31, 2024)
-- **Annual Report 2024** - Completed September 6, 2024 (per prior data; due September 1, 2024)
+- **PDCE Ridge Test** - Completed November 13, 2023
+- **Final Report** - Completed March 5, 2024
+- **Annual Report 2024** - Completed September 6, 2024 (due September 1, 2024)
 - **Annual Report 2025** - Due September 1, 2025 *(status unknown; unassigned)*
-- **Crowheart Energy MVP Demo** - MSA executed, vendor onboarded Feb 2024; next immediate step to unlock investment momentum (per prior data)
+- **Crowheart Energy MVP Demo** - MSA executed, vendor onboarded Feb 2024; next immediate step to unlock investment momentum
 - **Close $1M Investment** - Open task (unassigned); no due date; contingent on field release testing and customer pilot results
 - **Patent Applications** - In progress with Jack Elston and Messner/Scott Hawranek; multiple open subtasks (draft, high-level pass, formal application) with no due dates
 
 ## Task Summary
-- **Total Tasks (Historical):** 164 tasks documented across project history; prior comprehensive update: 14 open, 150 completed (91% completion rate)
 - **Current Asana View (Nov 28, 2023 — 9+ months stale):** 
   - 0 open tasks visible
-  - 2 completed tasks shown:
-    - Delta Brick and Climate survey (completed Nov 13, 2023) — first revenues
-    - Balance sheet/proforma task (completed Sept 7, 2023)
-  - **Note:** This view contradicts prior comprehensive data showing 14 open tasks. Almost certainly a filtered, archived, or incomplete view.
-- **Tasks by Assignee (from prior comprehensive data):**
-  - Jack Elston: 3 open tasks (patent work, flight testing)
-  - Nate Straus: 1 open task (gas detector calibration — on hold)
-  - Unassigned: 10 critical open tasks (Annual Report 2025, product pilot, $1M investment, customer outreach, HRM follow-up, patent applications)
+  - 1 completed task shown: Annual Report due Sept 1, 2023 (completed Aug 30, 2023)
+  - **Note:** This view contradicts documented project progress showing active work through Sept 2024 and ongoing pilots. Almost certainly a filtered, archived, or incomplete view.
+- **Historical Task Tracking (from prior comprehensive data):**
+  - 164 total tasks documented across project history
+  - Prior snapshot: 14 open, 150 completed (91% completion rate)
+  - Tasks by Assignee:
+    - Jack Elston: 3 open tasks (patent work, flight testing)
+    - Nate Straus: 1 open task (gas detector calibration — on hold)
+    - Unassigned: 10 critical open tasks (Annual Report 2025, product pilot, $1M investment, customer outreach, HRM follow-up, patent applications)
 - **Notable Patterns:** 
   - Heavy completion of technical development tasks historically
   - Remaining work concentrated on commercialization, patents, and business development
   - **All most critical business-development tasks unassigned and lack due dates**
-  - **Asana appears to show filtered or archived view; actual task status and work progress unknown**
+  - **Asana appears to show filtered or archived view; actual current task status unknown**
 
 ## Recent Activity
-- **September 2024:** Annual Report 2024 completed (per prior data)
+- **September 2024:** Annual Report 2024 completed (not visible in current Asana raw data)
 - **November 13, 2023:** Delta Brick and Climate coal mine survey completed — notes indicate "first revenues" expected
-- **February 2024:** Crowheart Energy vendor onboarding completed; ready for MVP demo (per prior data)
-- **Earlier 2024:** PDCE Ridge Test, COI to Crowheart, bench testing, METEC controlled leak testing completed (per prior data)
-- **September 7, 2023:** Balance sheet/proforma task completed with support from Entrepreneurial Solutions (CU MBA grad student team)
-- **Asana Activity:** Minimal — latest raw data from Nov 28, 2023; no visible activity since then; contradicts actual project progress (Annual Report 2024 completed Sept 2024)
+- **February 2024:** Crowheart Energy vendor onboarding completed; ready for MVP demo (not visible in current Asana raw data)
+- **Earlier 2024:** PDCE Ridge Test, COI to Crowheart, bench testing, METEC controlled leak testing completed
+- **August 30, 2023:** Annual Report due Sept 1, 2023 completed
+- **Asana Activity:** Minimal in raw data — latest snapshot Nov 28, 2023 with only 1 visible completed task; contradicts actual project progress
 
 ## Notes & Context
 - **Technical Development Status:** Methane detection service successfully developed and validated through field testing. Ready for customer pilots and field release validation.
@@ -60,8 +60,8 @@
 - **Investment Path:** $1M investment close depends on successful field release testing and customer pilot results; warm HRM introductions available
 - **Patent Status:** Working with Messner/Scott Hawranek on three subtasks (draft, high-level pass, formal application) — **all lack assigned deadlines; represents IP protection risk**
 - **Financial Planning:** CU recommended Entrepreneurial Solutions (small consulting firm, CU MBA grad student team) as cost-effective alternative to fractional CFO for proforma/balance sheet work (completed Sept 7, 2023)
-- **Priority Level:** Low (Asana custom field) — may explain resource constraints and why tasks remain unassigned despite revenue potential
-- **Data Quality Issue:** **Severe discrepancy between prior comprehensive task data (164 tasks, 14 open) and current raw data (0 open, 2 completed visible, last updated Nov 28, 2023). This represents 9+ months of data gap despite documented completion of Annual Report 2024 in September 2024. Either Asana is filtered/archived or work has moved entirely to external tracking system. DO NOT rely on Asana for current project status.**
+- **Priority Level:** Low (Asana custom field) — may explain resource constraints and why critical tasks remain unassigned despite $1M revenue potential
+- **Data Quality Issue:** **Severe discrepancy between prior comprehensive task data (164 tasks, 14 open) and current raw data (0 open, 1 completed visible, last updated Nov 28, 2023). This represents 9+ months of data gap despite documented completion of Annual Report 2024 in September 2024. Either Asana is filtered/archived or work has moved entirely to external tracking system. DO NOT rely on Asana for current project status.**
 
 ## Recommendations for AI Assistant
 1. **URGENT — Data Validation:** Before making any decisions based on Asana data, confirm with Maciej Stachura whether:

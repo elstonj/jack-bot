@@ -25,7 +25,7 @@
     }
   ],
   "payment_state": "paid",
-  "build_state": "none",
+  "build_state": "in_qc",
   "ship_state": "none",
   "estimate_date": null,
   "invoice_date": "2025-05-07",
@@ -49,10 +49,9 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "ERAU ordered 2 S0 VTOL units, both paid in full (Inv 1667 $21,181.81 + earlier Inv 1545 $15,028.39 = ~$36k total). Legal disclosure indicates BST is in settlement discussions for delayed delivery. Asana custom fields show 'Closed' and '$0 closed value', but these are OVERRIDDEN by active QBO invoices and settlement language indicating real obligation to deliver. Keep due to QBO invoice evidence and active legal commitment.",
+  "notes": "ERAU ordered 2 S0 VTOL units, paid in full (Inv 1667 $21,181.81 paid 2025-05-07). BST actively flight-testing to resolve identified bugs; Beck's 2026-03-17 email confirms daily flight testing and commitment to delivery. Active engagement via email as recently as 2026-03-17. Invoice 1730 ($2,462.50 unpaid, 2026-01-08) suggests ongoing support/refurbishment work for customer. Build is in flight-test validation phase, not yet ready for shipment.",
   "missing_fields": [
     "receive_by",
-    "build_state",
     "shipped_date"
   ],
   "last_evidence_date": "2026-05-15"

@@ -7,7 +7,6 @@
 - **Status**: Active - high completion rate; recurring batch completion cycle functioning smoothly
 - **Team members involved**: Meredith O'hara Needham (primary operational owner), Nate Straus (facilities improvements & consumables)
 - **Risk signals**: 
-  - **Ongoing Office Purchasing List due 2026-05-15** (recurring; currently open)
   - **Office Cleaning due 2026-05-16** (recurring; currently open)
   - Note: Tasks consistently completed 1–8 days after due date in batch cycle (structural to workflow, not an anomaly)
 
@@ -21,10 +20,9 @@
 - **Lease termination planning** (unassigned, no due date)
 
 ## Task Summary
-- **Total tasks**: 2 open, 0 completed (in current data snapshot)
+- **Total tasks**: 1 open, 0 completed (in current data snapshot)
 - **Tasks by assignee**:
-  - **Meredith O'hara Needham**: 2 open
-    - Ongoing Office Purchasing List (due 2026-05-15, open) — weekly collection point for office purchases
+  - **Meredith O'hara Needham**: 1 open
     - Office Cleaning (due 2026-05-16, open) — bi-weekly cleaning coordination via Neat N Tidy
 - **Notable patterns**: 
   - Recurring tasks completed in batches, typically 1–8 days after due date
@@ -33,10 +31,10 @@
   - High task completion rate despite consistent "late" closure dates
 
 ## Recent Activity
-- **Current state**: 2 open tasks in active cycle (both recurring)
-  - Ongoing Office Purchasing List due 2026-05-15 (Meredith O'hara Needham)
+- **Current state**: 1 open task in active cycle (recurring)
   - Office Cleaning due 2026-05-16 (Meredith O'hara Needham)
 - **Operational momentum**: Project continues efficient batch completion pattern; recurring schedule is stable and predictable
+- **Data update**: "Ongoing Office Purchasing List" task removed from current task list (may have been archived or consolidated into workflow)
 
 ## Notes & Context
 

@@ -1,10 +1,10 @@
 # Jack Elston — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,400 (2,314 prior + 86 new May 15–16)
+- **Total messages scanned:** 2,411 (2,314 prior + 97 new May 15–16)
 - **Date range:** April 1–May 16, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **May 15–16 activity:** 86 new messages showing critical escalation in Krateo Sky partnership discussions (industrial plan drafting, integration workshop scheduling, HR data requests), NASA/NOAA 777 Proposal active coordination, legal/disclosure document finalization (Nadia Bryan/KO Firm), propulsion vendor evaluation (ePropelled), and continued operational/procurement activity. May 15 concentrated on multi-stakeholder coordination, legal disclosure scheduling, vendor technical collaboration, and strategic partnership deepening.
+- **May 15–16 activity:** 97 new messages. May 16 shows 11 messages with heavy Krateo Sky weekend activity (internal team coordination, personal sync scheduling), government/regulatory contact (Elmer Richardson/trade.gov), industry events (Boulder Startup Week), and automated purchasing/vendor updates. Weekend communication pattern indicates active deal/partnership momentum.
 
 ---
 
@@ -41,6 +41,7 @@
 #### **Krateo Sky (CRITICAL ESCALATION — STRATEGIC PARTNERSHIP/POTENTIAL ACQUISITION)**
 
 **Sona Raziabeegum** (sona@krateosky.com) — Krateo Sky Partnership/Strategy Lead
+- **May 16 NEW (CRITICAL ESCALATION):** Sent "Re: Sona / Jack Sync" to Jack (16:42:31 UTC; UNREAD, IMPORTANT). **Signal:** Personal strategic sync between Jack and Sona ongoing over weekend; likely discussing partnership/industrial plan next steps or integration workshop rescheduling.
 - **May 15 NEW (CRITICAL ESCALATION):** Sent **"Black Swift Industrial Plan: Updated Draft for Your Approval"** to Jack and Maciej Stachura (22:54 UTC; IMPORTANT, UNREAD). **Signal:** Krateo Sky moving from partnership discussions to formal business structure planning. Industrial plan (likely post-acquisition or joint entity structure) in draft stage requiring BST approval.
 - **May 15 NEW (IMPORTANT):** Jack responded to Sona's earlier email re: Integration Workshop scheduling/decline (16:34 MDT; SENT).
 - **May 15 NEW (CRITICAL):** Sona sent "RE: Declined: PLACEHOLDER: KS x Black Swift Integration Workshop" (22:31 UTC; IMPORTANT, UNREAD). **Signal:** Calendar coordination around strategic workshop; workshop still being negotiated/rescheduled.
@@ -48,16 +49,14 @@
 - **May 14 prior:** Sona had requested "BST Data Request: Benefits & Payroll Evaluation" (May 15, 01:47 UTC from prior data).
 - **Pattern:** Rapid escalation from operational updates → strategic integration workshop → industrial plan drafting → HR/payroll data exchange. **Strong signal of acquisition discussions or formal joint venture structuring.**
 
-**Bob Smith, Lisa Marie Cheney** (Krateo Sky)
-- **May 15 NEW:** Recipients of broad KS team email "PLACEHOLDER: KS x Black Swift Integration Workshop" (Sona to Lisa Marie, Bob, Thibault Bridel-Bertomeu, Adria Passola, Brian Grubel, Roger Riley, Lluis Pedragosa, Jack Elston) (21:57 UTC; IMPORTANT). **Signal:** Cleared personnel and core integration team.
+**Brian Grubel** (Brian@krateosky.com) — Krateo Sky Leadership
+- **May 16 NEW (IMPORTANT):** Sent "Re: Fun Friday Update" to Jack, Adria Passola, Scott Wine, Bob Smith, Lisa Marie Cheney, Sona Raziabeegum (12:34:11 UTC; UNREAD, IMPORTANT). **Signal:** Broad Krateo Sky team weekend engagement; internal strategic updates being shared with Jack.
+- **May 15 NEW:** Recipient of broad KS team email "PLACEHOLDER: KS x Black Swift Integration Workshop" from Sona (21:57 UTC; IMPORTANT).
+
+**Lisa Marie Cheney** (LisaMarie@krateosky.com) — Krateo Sky Operations/Coordination
+- **May 16 NEW (IMPORTANT):** Sent "Re: Fun Friday Update" to Jack, Brian Grubel, Adria Passola, Scott Wine, Bob Smith, Sona Raziabeegum (14:54:06 UTC; UNREAD, IMPORTANT). **Signal:** Team-wide engagement on weekend strategic updates.
+- **May 15 NEW:** Recipient of broad KS team email from Sona (21:57 UTC; IMPORTANT).
 
 **Adria Passola** (a@krateosky.com) — Krateo Sky Technical/Vendor Liaison
-- **May 15 NEW (IMPORTANT):** Recipient of Jack's forwarded ePropelled propulsion vendor email (14:55 MDT; SENT). Jack forwarded to Adria and Brian Grubel.
-- **May 15 NEW (IMPORTANT):** Sent response "Re: ePropelled - US Based Propulsion for Black Swift Technologies" to Jack, Brian Grubel, Roger Riley (21:09 UTC; IMPORTANT, UNREAD). **Signal:** Krateo Sky/Adria actively evaluating propulsion integration options for BST systems.
-- **May 15 NEW:** Recipient of "PLACEHOLDER: KS x Black Swift Integration Workshop" from Sona (21:57 UTC; IMPORTANT).
-
-**Roger Riley** (Roger@krateosky.com) — Krateo Sky Business Development/Vendor
-- **May 15 NEW (IMPORTANT):** Sent "RE: ePropelled - US Based Propulsion for Black Swift Technologies" to Jack and Adria Passola (22:00 UTC; IMPORTANT, UNREAD). **Signal:** Roger actively engaged in propulsion vendor technical/commercial evaluation.
-- **May 15 NEW:** Recipient of Sona's Integration Workshop email (21:57 UTC; IMPORTANT).
-
-**Brian Grubel, Thibault Bridel-Bertomeu
+- **May 16 NEW (IMPORTANT):** Recipient of Brian Grubel's "Re: Fun Friday Update" (12:34:11 UTC; UNREAD, IMPORTANT).
+- **May 16 NEW (IMPORTANT):** Recipient of Lisa Marie Cheney's "Re: Fun Friday Update" (14:54:06 UTC; UNREAD, IMPORTANT).

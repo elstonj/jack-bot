@@ -4,7 +4,7 @@
 - **Client/customer**: Internal BST development project
 - **Dollar value**: Not specified
 - **Timeline**: Active development branch; no target release date specified
-- **Status**: Active development (yellow status as of Nov 28, 2023, with overdue milestones and 78 open tasks). No recent team corrections indicate delays or status changes beyond Asana data.
+- **Status**: Active development (yellow status as of Nov 28, 2023, with overdue milestones). 78 open tasks with no due dates assigned; 375 completed tasks overall (83% completion rate). No recent team corrections indicate delays or status changes beyond Asana data.
 - **Team members**: Jack Elston (owner), Maciej Stachura, Ben Busby, whole BST team
 - **Risk signals**: 78 open tasks with no due dates assigned; multiple flight-critical bugs in joystick control, landing detection, flight termination, and surface actuation; significant concentration of safety/stability concerns requiring resolution before production release
 
@@ -22,11 +22,11 @@
 - Unified Estimator (completed 2026-02-03)
 
 ## Task Summary
-- **Total tasks**: 78 open, 375 completed (83% completion rate overall)
+- **Total tasks**: 78 open, 376 completed (83% completion rate overall)
 - **Tasks by assignee**:
   - Jack Elston: ~40 open tasks (majority workload; focus on surface control, payload systems, calibration, joystick mode, power management, sensors, logging, actuators)
   - Maciej Stachura: ~30 open tasks (VTOL/control systems focus; transition control, landing, wind alignment, navigation, motor control, estimator, fault analysis)
-  - Ben Busby: ~8 open tasks (tablet/UI focus; scripting, landing plan sync, XML configuration, log parsing, communications packets)
+  - Ben Busby: ~8 open tasks (tablet/UI focus; scripting, landing plan sync, XML configuration, log parsing, communications packets) — most recent activity Nov 9, 2023 (wind barb display feature completed)
 - **Notable patterns**: 
   - Heavy focus on VTOL systems (transitions, landing, motor control, climbout, wind alignment)
   - Flight-critical issues concentrated in joystick mode, landing detection, flight termination, and surface actuation
@@ -35,24 +35,16 @@
   - Custom field priority designation: Low (despite flight-critical open items)
 
 ## Recent Activity
-Latest team feedback (May 2026) from Daniel Prendergast relates to fleet maintenance process integration (post-flight issue capture form), not SwiftCore 3.3 development status. No corrections override Asana task list data.
-
-Recent task completion activity (Feb 2026 timestamps) shows intensive VTOL and control system development:
-- Landing system refinements (laser-based flare, altitude management, orbit sizing)
-- Motor and transition control improvements (rotation smoothing, pitch command tuning, motor bump fixes)
-- Wind estimation with real-time MHP integration
-- Climbout automation (timeout handling, time generation from height)
-- Joystick control improvements and abort functionality
-- Controller tuning across multiple aircraft models (S0, S1-22, S10020)
-- Parameter management and initialization fixes
-- RTK, GNSS, and sensor startup improvements
+- **Nov 9, 2023**: Ben Busby completed "Add wind barb display" task (status: Passed; feature branch: develop). Wind barbs now conform to standard for wind mapping on tablet app.
+- Latest team feedback (May 2026) from Daniel Prendergast relates to fleet maintenance process integration (post-flight issue capture form), not SwiftCore 3.3 development status. No corrections override Asana task list data.
+- Earlier completion activity (Feb 2026 timestamps) shows intensive VTOL and control system development: landing system refinements, motor/transition control improvements, wind estimation, climbout automation, joystick improvements, controller tuning, RTK/GNSS/sensor startup work.
 
 ## Notes & Context
 
 **Core Development Focus:**
 - **VTOL Integration**: Major effort on VTOL aircraft support with multi-phase transitions, landing systems, wind alignment, and motor feedback during critical phases
 - **Hardware Expansion**: Supporting legacy (S0, S1, S2) and next-gen hardware (2030, 2040, 2050, 3000) plus commercial variants
-- **Advanced Capabilities**: Scripting engine, payload control via serial interface, dual pitot systems, real-time wind estimation, tablet app integration
+- **Advanced Capabilities**: Scripting engine, payload control via serial interface, dual pitot systems, real-time wind estimation, tablet app integration (including wind barb visualization)
 - **Multi-Mode Operations**: Fixed-wing, multirotor, tailsitter support with mode switching and abort logic
 
 **Flight-Critical Open Issues Requiring Priority Resolution:**
@@ -95,4 +87,4 @@ Recent task completion activity (Feb 2026 timestamps) shows intensive VTOL and c
 - Pitch/roll command limits need validation
 - Front motors throttle up after landed mode on S1-22 ground tests
 
-The 375 completed tasks versus 78 open indicates significant progress on feature development, but the nature and concentration of open issues (particularly around flight-critical systems like landing, termination, joystick control, and surface actuation) combined with complete absence of due dates suggests the codebase requires prioritized stability hardening, safety validation, and systematic testing before production releases. The low priority custom field designation appears inconsistent with the severity of open flight-critical items.
+The 376 completed tasks versus 78 open indicates significant progress on feature development, but the nature and concentration of open issues (particularly around flight-critical systems like landing, termination, joystick control, and surface actuation) combined with complete absence of due dates suggests the codebase requires prioritized stability hardening, safety validation, and systematic testing before production releases. The low priority custom field designation appears inconsistent with the severity of open flight-critical items.

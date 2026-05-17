@@ -4,7 +4,7 @@
 - **Client/customer**: University of Miami (NOAA)
 - **Dollar value**: $344,000 total funding to BST
 - **Timeline**: Project completed and archived as of January 3, 2024
-- **Status**: **ARCHIVED** — Project successfully completed with all 425 tasks finished (100% completion rate)
+- **Status**: **ARCHIVED** — Project successfully completed with all deliverables finished (100% completion rate)
 - **Team members involved**: Jack Elston (Owner), Josh Fromm, Dan Prendergast, Maciej Stachura, Ben Busby, Meredith O'hara Needham, Nate Straus
 - **Risk signals**: None — project completed successfully
 
@@ -18,18 +18,18 @@
 
 ## Key Deliverables & Milestones
 - **Deliver Twelve Field-Ready S0 UAS** — Due: 2024-07-31 | **Completed: 2024-07-29** (2 days early)
-- **Delivery of two (2) MHTP for use on Altius 600** — Due: 2024-04-30 | **Completed: 2024-08-17**
+- **Delivery of Two MHTP for use on Altius 600** — Due: 2024-04-30 | **Completed: 2024-08-17**
 - **Conduct 2x Hurricane Field Study** — Due: 2024-11-30 | **Completed: 2024-08-17**
 
 ---
 
 ## Task Summary
-- **Total tasks**: 425 completed, 0 open (100% completion rate)
+- **Total tasks**: 425+ completed, 0 open (100% completion rate)
 - **Primary assignees**:
-  - **Jack Elston**: Led most technical flight operations, flight control algorithm troubleshooting, GCS/HDOB integration, wind estimation fixes
-  - **Josh Fromm**: Project management, QC/final assembly coordination, weekly status updates, manufacturing coordination
+  - **Jack Elston**: Led most technical flight operations, flight control algorithm troubleshooting, GCS/HDOB integration, wind estimation fixes, sensor QC, magnetometer calibration
+  - **Josh Fromm**: Project management, QC/final assembly coordination, weekly status updates, manufacturing coordination, housing installation, sealing
   - **Dan Prendergast**: Flight algorithm testing and validation
-  - **Maciej Stachura**: Flight control algorithms, vertical wind bias correction, pitot tube diagnostics
+  - **Maciej Stachura**: Flight control algorithms, vertical wind bias correction, pitot tube diagnostics, code updates with wind tunnel calibrations and real-time wind estimation
   - **Ben Busby**: Flight operations, preflight checklist procedures, path planning optimization
   - **Meredith O'hara Needham**: Manufacturing (MHTP modules), shipping coordination, sensor management
   - **Nate Straus**: Manufacturing, packing/shipping logistics
@@ -39,10 +39,13 @@
   - Intensive flight operations and troubleshooting phase (August-October 2024) addressing wind estimation, GPS/altitude issues, flight termination logic
   - Strong emphasis on HDOB (Hurricane Data Operations) integration and scientist-facing interfaces
   - Multiple tasks related to RS421 sensor issues and replacements
+  - Detailed MHTP board development and validation workflow (sensor procurement, PCB QC, wind tunnel calibrations, magnetometer calibration, dynamic pressure testing)
 
 ---
 
 ## Recent Activity
+**Project Status**: Archived January 3, 2024. All work completed successfully.
+
 Final project phase (Aug-Oct 2024) focused on hurricane field operations and system validation:
 - **Late July 2024**: Shipped 12 S0 UAS units to NOAA AOC (ahead of schedule)
 - **August 2024**: MHTP modules delivered, early hurricane field study operations began
@@ -70,6 +73,7 @@ Final project phase (Aug-Oct 2024) focused on hurricane field operations and sys
 - Vertical wind estimation algorithms
 - Mission planning for tropical cyclone research
 - Real-time data transmission and GCS integration
+- RS421 sensor interface for robust data transmission in harsh conditions
 
 **Key Technical Achievements**:
 - Successful HDOB integration with GCS
@@ -77,6 +81,8 @@ Final project phase (Aug-Oct 2024) focused on hurricane field operations and sys
 - Robust flight termination logic and failsafe procedures
 - Multi-system coordination (S0 UAS with P3 aircraft altitude separation protocols)
 - Tablet-based field operations interface
+- MHTP board development with magnetometer calibration and dynamic pressure testing capability
+- Raw sensor data logging for post-flight analysis and clog mitigation in precipitation
 
 **Contractual Notes**: GPC (Dr. Cione) and UPC (Dr. Jun Zhang) serve as Subject Matter Experts for non-contractual technical questions. Any technical disagreements or contractual changes must be directed to the Contracting Officer (CO).
 

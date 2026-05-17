@@ -51,7 +51,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Estimate sent 2026-05-05 with preliminary planning-level specs for S0 VTOL ship launch/landing from NOAA research vessel Ron Brown. Customer awaiting call for proposals (Spring 2028 mission target). Recent substantive email engagement (2026-05-08 Chidong follow-up indicates active pursuit).",
+  "notes": "Estimate sent 2026-05-05 with preliminary planning-level specs for S0 VTOL ship launch/landing from NOAA research vessel Ron Brown. Customer awaiting call for proposals (Spring 2028 mission target). Recent substantive email engagement confirms active pursuit. ~$18k preliminary funding identified.",
   "missing_fields": [
     "receive_by",
     "ship_to",

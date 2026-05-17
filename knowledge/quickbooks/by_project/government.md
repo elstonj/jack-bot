@@ -76,12 +76,12 @@
 
 ---
 
-### **Materials & Supplies: $453,719.90**
-**Number of transactions:** 186  
+### **Materials & Supplies: $457,884.65**
+**Number of transactions:** 187  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
 - **JAWSTEC:** $19,627.62 (components for S0 platforms)
-- **Amprius battery systems:** $28,637.13 (wire transfers, 01/06/26) + $399.00 (2026-04-29, SA504 x7 quote #00001876) + $399.00 (2026-05-01, 8643C6/Max10.8Ah/4.25V x 7) + **$399.00 (2026-05-14, SA504 x7 quote #00001876)**
+- **Amprius battery systems:** $28,637.13 (wire transfers, 01/06/26) + $399.00 (2026-04-29, SA504 x7 quote #00001876) + $399.00 (2026-05-01, 8643C6/Max10.8Ah/4.25V x 7) + $399.00 (2026-05-14, SA504 x7 quote #00001876)
   - **Total Amprius: $29,834.13**
 - **Microwave Filter Company / Pressure sensor imports:** $46,079.48 (tariffs included)
 - **General electronics components:** ~$50,000+ (various suppliers)
@@ -114,7 +114,7 @@
   - $698.35 [Inventory Asset] — Future S3 Sales
 
 **Total new direct cost materials & supplies (2026-05-14 to 2026-05-18): $4,164.75**  
-**Cumulative materials & supplies (all direct costs): $453,719.90**
+**Cumulative materials & supplies (all direct costs): $457,884.65** *(updated from $453,719.90)*
 
 ---
 
@@ -132,7 +132,3 @@
 **Details:**
 - **Shop Supplies** (2026-05-14, Purchase #0513JELSTON): $21.43 [FA-Shop Supplies]
   - Part of mixed facility/direct cost allocation
-
----
-
-### **Indirect Costs: $

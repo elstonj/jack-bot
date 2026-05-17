@@ -16,14 +16,14 @@
       "quantity": 1
     }
   ],
-  "payment_state": "estimate_sent",
+  "payment_state": "invoice_sent",
   "build_state": "none",
   "ship_state": "none",
-  "estimate_date": null,
-  "invoice_date": null,
-  "invoice_amount": null,
-  "invoice_number": null,
-  "paid_date": null,
+  "estimate_date": "2024-12-01",
+  "invoice_date": "2025-12-11",
+  "invoice_amount": 57814.0,
+  "invoice_number": "1728",
+  "paid_date": "2025-12-17",
   "parts": [],
   "tracking_number": null,
   "carrier": null,
@@ -33,12 +33,9 @@
     "invoicing": "Meredith",
     "build": null
   },
-  "notes": "Murray State research grant for CH4 emissions monitoring at Murphy's Pond, Kentucky. Project approved January 2025; vendor registration completed. Multiple flight campaigns planned May\u2013October 2025. Quote #1343 ($86,862.94) submitted December 2024 as part of NASA proposal. Estimate #1347 also provided. Travel dates confirmed May 2025\u2013October 2025; first vertical takeoff deployment planned late July/August 2025.",
+  "notes": "Multi-trip S2 rental project for CH4 emissions monitoring at Murphy's Pond, Kentucky. Project approved January 2025; BST vendor-registered and approved. Trip #2 (Nov 6-7, 2025) invoiced #1728 and paid Dec 17. Dr. Masri inquiring about cost for remaining 2 flights. Travel window May\u2013October 2025; flights 3 and 4 being scheduled for late June/July and October. Total budget $86,862.94.",
   "missing_fields": [
-    "ship_to",
-    "invoice_number",
-    "invoice_date",
-    "invoice_amount"
+    "ship_to"
   ],
   "last_evidence_date": "2026-05-14"
 }
