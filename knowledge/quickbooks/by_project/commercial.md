@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $2,877,251.34
-- **Total Expenses (Bills + Purchases):** $229,247.12 *(+$306.29 from new transactions)*
+- **Total Expenses (Bills + Purchases):** $229,553.41
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,648,004.22 (Revenue exceeds expenses)
+- **Net Position:** $2,647,697.93 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – May 18, 2026
 
 ---
@@ -105,17 +105,22 @@
   - $207.21 — Shipment from Alerion Tech in Spain to BST (Items from MP Jet, order #09449)
   - $41.44 — Allocation to Sasquatch S0s project
   - $62.16 — Allocation to Inventory Asset (future sales of 6 S0s)
-  - **Direct cost allocation (DC-DC-Direct Cost Shipping):** $248.65
+  - **Direct cost allocation:** $248.65
 
 ---
 
 ### **Materials & Supplies (Direct Cost Purchases)**
-**Total: $77,414.93** | 14 transactions | Largest item: $2,776.50
+**Total: $79,205.76** | 14 transactions | Largest item: $4,164.75
 
 #### Direct Cost Purchases
-- **Purchase #334139 (2026-05-18):** $4,164.75 ⚠️ *[DUPLICATE ENTRY - ALREADY RECORDED]*
+- **Purchase #334139 (2026-05-18):** $4,164.75
   - $2,776.50 — Thermoset Laminate Linen Tubes (shipped to Lee Skidmore/Northwind Composites)
   - $555.30 — Additional materials
   - $832.95 — Allocation to Inventory Asset (future sales of 6 S0s)
   - **Direct cost allocation:** $3,331.80
-  - **Projects:** 2026 IDIQ,
+  - **Projects:** 2026 IDIQ, Sasquatch S0s, future S0 sales
+
+---
+
+### **Other**
+**Total: $147,216.51** | [Requires account-level detail from source QB

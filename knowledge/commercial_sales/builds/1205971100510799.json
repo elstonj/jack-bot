@@ -63,7 +63,7 @@
     "invoicing": "Meredith",
     "build": "Alex Lomis"
   },
-  "notes": "Invoice #1667 (May 2025, $21,181.81) paid; new unpaid invoice #1730 (Jan 2026, $2,462.50) suggests follow-on charges or adjustments. Beck's March 2026 email indicates flight testing in progress with bug tracking\u2014system still undergoing QC before delivery. Customer expects delivery in late summer 2025 per project registry; training planned June 2025 at BST. ERAU evaluating grant-funded follow-on purchase of 4 additional S0 VTOLs.",
+  "notes": "Invoice #1667 (May 2025, $21,181.81) paid. Unpaid invoice #1730 (Jan 2026, $2,462.50) indicates follow-on charges/adjustments. System in QC with flight testing ongoing; Beck's March 2026 email confirms daily flight testing with bug tracking in progress. Customer Kevin Adkins confirms patience with resolution timeline. Training planned June 2025 at BST. ERAU evaluating grant-funded follow-on purchase of 4 additional S0 VTOLs.",
   "missing_fields": [
     "receive_by",
     "shipped_date"

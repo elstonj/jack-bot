@@ -19,7 +19,7 @@
   "payment_state": "estimate_sent",
   "build_state": "none",
   "ship_state": "none",
-  "estimate_date": null,
+  "estimate_date": "2025-07-14",
   "invoice_date": null,
   "invoice_amount": null,
   "invoice_number": null,
@@ -37,7 +37,6 @@
   "missing_fields": [
     "ship_to",
     "receive_by",
-    "estimate_date",
     "invoice_date",
     "invoice_amount",
     "invoice_number"

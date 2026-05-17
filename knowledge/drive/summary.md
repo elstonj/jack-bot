@@ -1,65 +1,46 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-05-16 02:21
+Last scanned: 2026-05-17 02:12
 
 Total drives scanned: 1
 
 ## Drives
 
-- **Federal Projects** — 9 files — [federal_projects.md](federal_projects.md)
+- **Federal Projects** — 3 files — [federal_projects.md](federal_projects.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Shared Drive Strategic Overview
+# Black Swift Technologies — Strategic Drive Overview
 
-## Summary Statistics
-- **Total documented files:** 33 (Federal Projects drive)
-- **Organization quality:** Minimal formal structure; 30 root-level files with only 1 subfolder
-- **Date range:** 2022–2099 (note: future dates suggest data anomalies)
-- **Primary focus:** Federal contracting and government proposals
+## Summary
 
----
+BST maintains a **minimal shared drive footprint** with only 3 documents across the Federal Projects drive. The organization shows **early-stage development** with limited cross-drive structure.
 
-## Key Findings
+## Key Observations
 
 ### Document Volume & Organization
-- **Federal Projects drive** is the primary repository with moderate file count (33 files)
-- **Critical gap:** 91% of documents stored at root level; only one organized subfolder (ONR/Sanabia)
-- **Organization quality: Poor** — flat structure makes navigation and version control difficult
+- **Total Documents:** 3 files
+- **Organization Quality:** Poor — flat structure with no folder hierarchy
+- **Naming Conventions:** Inconsistent (cryptic codes like "RC_VID_0009" vs. descriptive titles like "NASA AERO.7")
 
-### Primary Business Focus
-| Focus Area | Evidence |
-|-----------|----------|
-| **Government Contracts** | NASA autonomy phases, Navy SBIR/STTR, DoD/ONR initiatives |
-| **Key Client:** ONR (Office of Naval Research) | Multiple proposal versions; dedicated budget templates |
-| **Budget & Finance** | Dedicated budget tracking and financial documentation |
+### Content Breakdown
+| Type | Count | Notes |
+|------|-------|-------|
+| Video Files | 2 | RC_VID_0008.MOV, RC_VID_0009.MOV |
+| Project Documents | 1 | NASA AERO.7 Phase I DRAFT |
 
-### Cross-Drive Patterns
-- **Only one drive analyzed**, limiting ability to assess Sales/Operations/Federal patterns
-- Recommendation: Review Sales and Operations drives to compare proposal/contract organization
-
-### Shared Resources & Templates
-- ONR budget template available (root level)
-- Proposal response templates exist (multiple versions: v2, v5)
-- **Issue:** Templates buried in root; not clearly designated or centrally located
-
----
+### Client/Project Priorities
+- **NASA/Aerospace:** Primary focus (Phase I research document)
+- **Video Assets:** Two undated video files (likely technical or promotional content)
 
 ## Areas Requiring Attention
 
-| Issue | Severity | Notes |
-|-------|----------|-------|
-| **Root-level clutter** | High | 30 files at root level; folders needed by project/client/fiscal year |
-| **Version control** | High | Multiple proposal versions (v2, v5) lack clear metadata; no version naming convention visible |
-| **Stale documents** | Medium | 2022 creation date suggests older files may exist; unclear retention/archival |
-| **Template accessibility** | Medium | Reusable templates not centralized or clearly marked |
-| **Metadata gaps** | Medium | No dates/editors visible for all documents; incomplete audit trail |
+⚠️ **Critical Issues:**
+- **Incomplete metadata** — video files lack descriptive names or folder organization
+- **Draft status** — NASA project marked as draft with no clear approval tracking
+- **Future-dated files** — RC_VID files show modification dates in 2099 (likely data error)
+- **No cross-drive visibility** — Unable to assess Sales, Federal contracts, or resource templates
 
----
+## Recommendation
 
-## Recommendations
-1. **Restructure root level** → Create folders by: Project/Client → Fiscal Year → Document Type
-2. **Establish naming conventions** → `[Client]_[ProjectName]_[DocumentType]_v[#]_[Date]`
-3. **Centralize templates** → Create dedicated "Templates & Resources" folder
-4. **Audit remaining drives** → Map Sales/Operations/Admin drives for complete organizational picture
-5. **Implement version control policy** → Clear guidance on v1, v2, final, archived status
+Establish **foundational folder structure** (by project/client, phase, document type) and implement consistent naming conventions before drive expansion. Audit timestamps on video files.

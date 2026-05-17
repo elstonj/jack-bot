@@ -33,13 +33,13 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "UC Santa Cruz Ocean Sciences interested in S2 and S3 platforms. Kevin Rozmiarek provided strong referral. Site visit from Xavier Prochaska, Tim Handley, and Alex Terrazas planned for July 17-18 (not yet confirmed). Lead is actively interested. Kept due to recent Slack activity and active lead engagement (Lead Response: Interested).",
+  "notes": "UC Santa Cruz Ocean Sciences interested in S2 and S3 platforms. Kevin Rozmiarek provided strong referral. Site visit from Xavier Prochaska, Tim Handley, and Alex Terrazas planned for July 17-18 (not yet confirmed). Lead Response: Interested. Kept due to recent Slack activity (2026-05-15) confirming active engagement and estimate-pending phase.",
   "missing_fields": [
     "receive_by",
     "ship_to",
+    "estimate_date",
     "invoice_date",
-    "invoice_amount",
-    "estimate_date"
+    "invoice_amount"
   ],
   "last_evidence_date": "2026-05-15"
 }

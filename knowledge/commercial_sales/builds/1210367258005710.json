@@ -4,23 +4,71 @@
   "customer": "NASA Ames Research Center",
   "customer_contact": "Will Wade",
   "customer_email": "William.o.wade@nasa.gov",
-  "receive_by": null,
+  "receive_by": "2026-09-30",
   "ship_to": null,
   "items": [
     {
-      "description": "S3 Quadcopter",
+      "description": "S2 Simulator",
+      "quantity": 1
+    },
+    {
+      "description": "S2 (S20009) with Iridium components",
+      "quantity": 1
+    },
+    {
+      "description": "Ground stations with Iridium",
       "quantity": 2
+    },
+    {
+      "description": "Spare tail with Iridium antenna",
+      "quantity": 1
     }
   ],
-  "payment_state": "estimate_sent",
-  "build_state": "none",
+  "payment_state": "paid",
+  "build_state": "in_assembly",
   "ship_state": "none",
   "estimate_date": null,
-  "invoice_date": null,
-  "invoice_amount": null,
-  "invoice_number": null,
-  "paid_date": null,
-  "parts": [],
+  "invoice_date": "2024-11-04",
+  "invoice_amount": 3470.0,
+  "invoice_number": "1633",
+  "paid_date": "2024-11-04",
+  "parts": [
+    {
+      "name": "Iridium components/modules",
+      "ordered": true,
+      "received": false,
+      "vendor": "",
+      "order_date": null
+    },
+    {
+      "name": "Iridium antenna",
+      "ordered": true,
+      "received": false,
+      "vendor": "",
+      "order_date": null
+    },
+    {
+      "name": "Flap servo",
+      "ordered": true,
+      "received": false,
+      "vendor": "",
+      "order_date": null
+    },
+    {
+      "name": "Payload computer",
+      "ordered": true,
+      "received": false,
+      "vendor": "",
+      "order_date": null
+    },
+    {
+      "name": "Mux board",
+      "ordered": true,
+      "received": false,
+      "vendor": "",
+      "order_date": null
+    }
+  ],
   "tracking_number": null,
   "carrier": null,
   "shipped_date": null,
@@ -29,12 +77,9 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "NASA Ames S3 opportunity (qty 2). Quote sent per custom field; estimated value $65,000. Lead response 'Maybe Later' but this is current customer with ongoing relationship. No recent activity on this specific S3 task\u2014last contact via Asana notes only. Monitor for follow-up after initial contact.",
+  "notes": "NASA Ames S2 system build (PO 80NSSC25PC031) with S20009 airframe, S2 Simulator, 2x ground stations with Iridium, and warranty/repair work (flap servo, payload computer, mux board). Delivery target Sep 30, 2026 per executed PO. Currently in assembly with Iridium component sourcing underway. Recent NASA contact (Feb 2026) confirmed FY25 fund timing constraints. Kept due to QBO invoice 1633 (paid) and recent Slack activity (May 2026) confirming active build status.",
   "missing_fields": [
-    "receive_by",
-    "ship_to",
-    "build_state",
-    "parts"
+    "ship_to"
   ],
   "last_evidence_date": "2026-05-15"
 }

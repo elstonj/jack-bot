@@ -8,7 +8,7 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 **Activity Level:** Extremely high throughout the period (March 2024 - May 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Peak intensity continues through May 2026 with multiple concurrent submissions in final coordination and submission phases. Significant external partnerships and customer engagement alongside proposal work.
 
-**Time Range:** March 3, 2024 - May 15, 2026
+**Time Range:** March 3, 2024 - May 16, 2026
 
 ---
 
@@ -49,7 +49,7 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 - **Leadership continuity with partners** (April 2026): Confirmed BST comfortable taking lead role on unnamed initiative; scope discussions planned.
 
-- **NASA RFI submission strategy** (April 2026, refined through April 30):
+- **NASA RFI submission strategy** (April 17-30, 2026):
   - **April 17 decision:** Jack Elston requested exhaustive list of all proposal possibilities based on previous and current projects
   - **April 30 final decision:** Decided to submit **4 RFIs** (not 3) due to May 7 deadline:
     1. S0 with stratospheric balloon integration (under Aeronautics Flight Accelerator)
@@ -82,4 +82,4 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
   - NASA Aero RFI Responses and SaaS responses: **Due May 7** ✓ **SUBMITTED** (May 9 confirmed received by Jack Elston)
   - NASA Phase II: **Due May 15** ✓ **SUBMITTED** (May 15 confirmed by Beck Cotter)
   - NASA Phase I: **Due May 21**
-  - DoD submissions (2025.4 cycle): **Due May 
+  - DoD submissions (2025.4 cycle): **Due May 23

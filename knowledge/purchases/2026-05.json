@@ -4314,5 +4314,57 @@
     "notes": "Marketing/promotional email; no purchase anchor",
     "date": "2026-05-15",
     "subject": "Better in Pairs: Buy Any 2, Shipping is FREE! \ud83d\udce6"
+  },
+  {
+    "id": "19e3297083a99add",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "Speedway Motors",
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Marketing newsletter with product listings; no purchase request or transaction",
+    "date": "2026-05-16",
+    "subject": "Front Suspension Geometry 101"
+  },
+  {
+    "id": "19e315cece5dc6c3",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "Budget",
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Marketing promotion for car rental Memorial Day sale; no purchase order or transaction",
+    "date": "2026-05-16",
+    "subject": "\u23f3 Don't wait! Get these Memorial Day deals, Joshua."
+  },
+  {
+    "id": "19e3156c5440fbd4",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "Harbor Freight",
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Marketing email promoting Inside Track Club membership and free bucket offer; no purchase transaction",
+    "date": "2026-05-16",
+    "subject": "2 DAYS LEFT! Who Wants a Free Bucket?"
+  },
+  {
+    "id": "19e30f5c1a0f6834",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": null,
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "USPS Informed Delivery notification of incoming mail; shipping/logistics notification with no purchase anchor",
+    "date": "2026-05-16",
+    "subject": "Your Daily Digest for Sat, 5/16 is ready to view"
   }
 ]

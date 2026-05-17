@@ -105,7 +105,7 @@
 - **Service Accounts:** 2
 
 **Notes:**
-- All contact information verified and current
+- All contact information verified and current with no discrepancies between existing and new data
 - Three team members remain unclassified; recommend reaching out to leadership for role clarification
 - BST maintains an engineering-focused organization with balanced technical and administrative support
-- All phone numbers normalized to standard format (XXX-XXX-XXXX)
+- No changes to roster or contact information from previous directory update

@@ -4,76 +4,94 @@
 - **Client/customer:** Internal BST purchasing system (serves all active projects)
 - **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across multiple projects
 - **Timeline:** Ongoing operational project
-- **Status:** **ACTIVE with CRITICAL DATA INCONSISTENCY.** New raw data shows only **4 open tasks** (all assigned to Meredith, due May 16–18, 2026), contradicting the existing knowledge file which documented 21 open tasks with bulk reassignment to Unassigned and July 13 due dates. **The previous July 13 dates appear to have been reversed or were a data anomaly.** Current focus is immediate May 16–18 placement cycle. However, the absence of Nate's receiving/verification queue in new data suggests either (1) receiving tasks are tracked separately or in a different view, or (2) the workflow has changed. **⚠️ RECOMMEND: Confirm with Meredith and Nate whether receiving/verification phase is still active or has moved to external tracking.**
+- **Status:** **ACTIVE.** Significant data reduction from previous snapshot (21 → 4 → 2 open tasks). Current focus: May 16 placement cycle with 2 imminent orders. **⚠️ CRITICAL UNKNOWNS: (1) Receiving/verification phase (Nate's queue) no longer visible in task list — confirm if workflow has changed or tasks moved elsewhere. (2) Two tasks from previous data (Binder Checklist Sleeves, shipping supplies, both due May 18) are absent from new raw data — clarify if cancelled, completed, or incorrectly removed.**
 - **Team members involved:**
-  - Meredith O'hara Needham (4 tasks actively assigned)
-  - Nate Straus (appears as requester, not assignee; receiving queue not visible in new data)
-  - Joshua Fromm (requester on 2 tasks)
-  - Ethan Domagala (requester on 1 task)
+  - Meredith O'hara Needham (2 tasks actively assigned)
+  - Nate Straus (requester on 1 task; receiving queue status unknown)
+  - Joshua Fromm (requester on 1 task)
 - **Risk signals:**
-  - **Blocked task:** jawstec s3 & s0 parts (#68728) requires project breakdown; currently marked "MULTIPLE PROJECT — PLEASE PROVIDE BREAKDOWN IN DESCRIPTION."
-  - **Imminent deadlines:** 4 tasks due May 16–18, 2026 (placement targets May 14–18); all currently assigned and in process.
-  - **Receiving/verification tasks missing:** Existing knowledge file documented Nate's active receiving queue; not visible in new data. Unclear if workflow has changed or tasks are managed elsewhere.
+  - **Blocked task:** jawstec s3 & s0 parts (#68728) marked "MULTIPLE PROJECT — PLEASE PROVIDE BREAKDOWN IN THE DESCRIPTION"; cannot proceed without project cost allocation from Joshua Fromm.
+  - **Imminent deadline:** Both open tasks due May 16, 2026 (placement target May 14, 2026) — both already marked "Order Placed" but deadline is immediate.
+  - **Data inconsistency:** Previous snapshot showed 4 tasks (including 2 due May 18); new raw data shows only 2. **Action: Confirm whether Binder Checklist Sleeves and shipping supplies tasks were completed, cancelled, or archival.**
+  - **Receiving queue missing:** Nate's receiving/verification tasks no longer appear in Asana. **Action: Confirm with Meredith and Nate whether receiving phase is still active or managed externally.**
 
 ## Key Deliverables & Milestones
 
-### **Current Cycle (May 16–18, 2026)**
-4 open tasks, all with Meredith O'hara Needham; placement targets May 14–18:
+### **Current Cycle (May 16, 2026)**
+2 open tasks, both with Meredith O'hara Needham; both due May 16 (placement target May 14):
 
-1. **Amazon Shop supplies** | Due May 16, 2026 | Status: Order Placed | Project: [001-1] IRAD General | Requester: Nate | Placement target: May 14
-2. **jawstec for s3 & s0 parts (#68728)** | Due May 16, 2026 | Status: Order Placed | Project: **MULTIPLE PROJECT — BREAKDOWN REQUIRED** | Requester: Joshua Fromm | Placement target: May 14 | Tax Exempt: YES
-   - ⚠️ **BLOCKED:** Requires project breakdown in description.
-3. **Amazon- Binder Checklist Sleeves** | Due May 18, 2026 | Status: Open | Project: [001-1] IRAD General | Requester: Ethan Domagala | Placement target: May 18 | Tax Exempt: NO
-4. **amazon for shipping supplies** | Due May 18, 2026 | Status: Open | Project: Shop Supplies | Requester: Joshua Fromm | Placement target: May 18 | Tax Exempt: YES
+1. **Amazon Shop supplies** | Due May 16, 2026 | Status: Order Placed | Project: Shop Supplies (bills to [001-1] IRAD Gene) | Requester: Nate | Tax Exempt: NO
+2. **jawstec for s3 & s0 parts (#68728)** | Due May 16, 2026 | Status: Order Placed | Project: **MULTIPLE PROJECT — BREAKDOWN REQUIRED** | Requester: Joshua Fromm | Tax Exempt: YES
+   - ⚠️ **BLOCKED:** Cannot complete order until Joshua provides cost breakdown by project in task description.
 
 ## Task Summary
-- **Total tasks:** 4 open, 0 completed (visible in new data)
-  - Note: Existing knowledge file documented 21 open tasks. The discrepancy suggests either data refresh, task consolidation, or the previous 21-task view included archived or duplicate entries.
+- **Total tasks:** 2 open, 0 completed (new raw data)
+  - **Previous snapshot:** 4 open tasks (including 2 due May 18)
+  - **Data anomaly:** Tasks for Binder Checklist Sleeves and shipping supplies (both May 18) are missing from new raw data. **Status unknown — confirm if completed, cancelled, or removed in error.**
 - **Tasks by assignee:**
-  - **Meredith O'hara Needham:** 4/4 open (100% assigned, all in-process)
-  - **Unassigned:** 0
+  - **Meredith O'hara Needham:** 2/2 open (100% assigned, both in-process)
 - **Requesters:**
-  - Joshua Fromm: 2 tasks
-  - Nate: 1 task
-  - Ethan Domagala: 1 task
+  - Joshua Fromm: 1 task (blocked, requires input)
+  - Nate: 1 task (active)
 - **Project distribution:**
-  - [001-1] IRAD General: 2 tasks
-  - Shop Supplies: 2 tasks
-  - MULTIPLE PROJECT (blocked): 1 task
+  - Shop Supplies: 1 task
+  - MULTIPLE PROJECT (breakdown pending): 1 task
 
 ## Recent Activity
-- **May 16–18 deadline window is NOW ACTIVE.** All 4 tasks are due within the next ~1–2 days (assuming current date is mid-May 2026).
-- **Two tasks already in "Order Placed" status:** Amazon Shop supplies and jawstec s3 & s0 parts (both due May 16), indicating order placement is in motion.
-- **Two tasks awaiting placement:** Binder Checklist Sleeves and shipping supplies (both due May 18).
-- **Blocked task unresolved:** jawstec s3 & s0 parts still requires project breakdown; no recent updates in task notes.
+- **May 16, 2026 deadline is imminent.** Both tasks are due today or within 24 hours (assuming current date is mid-May 2026).
+- **Both tasks marked "Order Placed"** — Meredith has initiated orders but cannot finalize jawstec task without project breakdown.
+- **Tasks due May 18 have vanished** from new raw data (Amazon Binder Checklist Sleeves, shipping supplies). **Unclear if completed, cancelled, or removed.** Recommend immediate verification.
+- **No recent task notes or status updates** visible in raw data for either open task.
 
 ## Notes & Context
 
-### **Data Consistency Issue Resolved (Partially)**
-The existing knowledge file documented a dramatic shift from 15 mature tasks (May urgency) to 21 tasks (reassigned to Unassigned, all due July 13) as a potential system reset or data corruption. The new raw data shows only 4 tasks, all assigned to Meredith with May 16–18 due dates. **This suggests the July 13 dates were either a temporary system error or the knowledge file captured an intermediate state.** The current task list appears to be the authoritative view. However, **the complete absence of Nate's receiving/verification tasks is unexplained** — these were a critical part of the two-phase workflow documented in the existing file.
+### **Critical Data Inconsistency**
+Previous knowledge file documented 4 open tasks (2 due May 16, 2 due May 18). New raw data shows only 2 tasks (both due May 16). **The two May 18 tasks are missing.** Possible explanations:
+- Completed and auto-archived
+- Cancelled or deleted in error
+- Completed but not yet removed from task list in previous snapshot
+- **Action: Contact Meredith immediately to confirm status of:**
+  - Amazon Binder Checklist Sleeves (due May 18)
+  - amazon for shipping supplies (due May 18)
 
-### **Workflow Structure**
-- **Phase 1 (Order Placement):** Meredith O'hara Needham — currently active for 4 tasks.
-- **Phase 2 (Receiving/Verification):** Nate Straus — **not visible in current task list.** Unclear if this phase is:
-  - Paused or deprioritized
-  - Tracked in a separate Asana section
-  - Handled via email/external system
-  - **Action needed: Confirm with Meredith and Nate.**
+### **Receiving/Verification Workflow Status Unknown**
+The existing knowledge file documented a two-phase workflow:
+- **Phase 1 (Order Placement):** Meredith — currently visible and active
+- **Phase 2 (Receiving/Verification):** Nate Straus — **not visible in any current task data**
+
+Nate appears only as a "requester" on the Amazon Shop supplies task, not as an assignee. His receiving/verification queue is absent. **Possible explanations:**
+- Receiving tasks are tracked in a separate project or section
+- Workflow has been simplified or paused
+- Tasks are managed via email or external system
+- **Action: Confirm with Meredith and Nate whether receiving phase is still active and where tasks are tracked.**
 
 ### **Blocked Items**
-- **jawstec s3 & s0 parts (#68728):** Assigned to multiple projects but no breakdown provided. Meredith cannot proceed with order until requester (Joshua Fromm) specifies which portions bill to which projects. **This is a requester responsibility and should be escalated to Joshua immediately.**
+- **jawstec for s3 & s0 parts (#68728):** 
+  - Status: Order Placed, but cannot finalize without project breakdown
+  - Assigned to: MULTIPLE PROJECT — breakdown required
+  - Requester: Joshua Fromm
+  - **Action: Escalate to Joshua to provide cost allocation by project (e.g., "X to [001-1], Y to [001-2]") in task description immediately. Order is due May 16.**
 
 ### **Custom Field Usage**
-- **Tax Exempt:** Consistently populated (YES/NO)
+- **Tax Exempt:** Consistently populated (YES for jawstec, NO for Amazon Shop supplies)
 - **Requires Approval:** All current tasks = NO
-- **Status:** Some tasks show "Order Placed" (indicates action taken); others "Open" (awaiting placement)
-- **Project billing:** Mix of specific projects ([001-1], Shop Supplies) and MULTIPLE PROJECT breakdowns
-
-### **Key Contacts**
-- **Order Placement:** Meredith O'hara Needham (meredith@blackswift.aero assumed)
-- **Receiving/Verification:** Nate Straus (status unknown; follow up)
-- **Primary Requesters:** Joshua Fromm, Nate, Ethan Domagala
+- **Status:** Both tasks = "Order Placed" (indicates action in progress, awaiting finalization or delivery)
+- **Project billing:** Mix of specific projects (Shop Supplies/[001-1]) and MULTIPLE PROJECT (awaiting breakdown)
 
 ### **Form Requirement**
-Project notes specify all requests must use the Asana form or tasks will auto-delete:
+All purchasing requests must use the Asana form or tasks will auto-delete:
 https://form.asana.com/?k=AYO2EiBus4sRY0G_cbPmHw&d=12804948716594
+
+This may explain the disappearance of tasks not submitted via form, though previous tasks appear to have been form-submitted.
+
+### **Key Contacts**
+- **Order Placement:** Meredith O'hara Needham
+- **Receiving/Verification:** Nate Straus (status/role unclear; follow up)
+- **Requesters:** Joshua Fromm (jawstec — currently blocking), Nate (Amazon — active)
+
+---
+
+## Immediate Action Items
+1. **Confirm status of missing May 18 tasks** (Binder Checklist Sleeves, shipping supplies) with Meredith.
+2. **Escalate blocked jawstec task to Joshua Fromm** — requires project cost breakdown by May 16 deadline.
+3. **Verify receiving/verification workflow status** with Meredith and Nate — determine if Asana tasks exist elsewhere or if workflow has changed.
