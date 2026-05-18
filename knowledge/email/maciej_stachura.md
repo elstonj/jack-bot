@@ -2,5 +2,5 @@
 
 Only 2 emails found in scanned period.
 
-- Sat, 16 May 2026 20:13:28 +0000: NIST Outdoor Small UAS Procurement - May 28 (from: Henry Reith <henry@mccarrenaiplatform.com>)
-- Sat, 16 May 2026 13:06:43 +0000: ST, SF joint venture adds 767 freighter MRO customers (from: Cargo Facts <informg@royalmedia.com>)
+- Mon, 18 May 2026 06:42:00 +0000: 23 Days Until SSD 2026 — Final Exhibitor Spaces Remaining (from: "SSD2026 | Defence Expo" <info@supplysecurity.eu>)
+- Mon, 18 May 2026 06:41:48 +0000: 23 Days Until SSD 2026 — Final Exhibitor Spaces Remaining (from: "'SSD2026 | Defence Expo' via Sales" <sales@blackswifttech.com>)

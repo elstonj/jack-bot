@@ -16,7 +16,7 @@
       "quantity": 1
     }
   ],
-  "payment_state": "none",
+  "payment_state": "estimate_sent",
   "build_state": "none",
   "ship_state": "none",
   "estimate_date": null,
@@ -48,13 +48,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "UK-funded ARIA science project for autonomous long-endurance UAS to measure Greenland ice sheet melt. Early-stage concept exploration; team deciding between solar drones, airships, or drone-in-a-box systems. 2027 UK shakedown, 2028 Greenland deployment. LDCR with L-band may satisfy mission; potential S3 integration under consideration. Last direct contact 2026-01-21 (Adrien Martin engaged with technical team).",
+  "notes": "UK-funded ARIA science project for autonomous long-endurance UAS to measure Greenland ice sheet melt. 2027 UK shakedown, 2028 Greenland deployment. LDCR with L-band may satisfy mission; S3 integration under consideration. Team engaged (Adrien Martin, Eryan Dai, Al Gasiewski, Christine Gommenginger) on technical feasibility of NEDT <0.3K stability and RFI mitigation. Estimate pending phase per Slack #commercial-sales.",
   "missing_fields": [
     "ship_to",
     "estimate_date",
     "invoice_date",
-    "invoice_amount",
-    "payment_state"
+    "invoice_amount"
   ],
   "last_evidence_date": "2026-05-15"
 }

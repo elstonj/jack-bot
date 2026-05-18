@@ -1,7 +1,7 @@
 # Toggl Time Tracking Overview
 
 ## Key Metrics
-- **Total hours tracked:** 32,714.8 hours (2020-2026)
+- **Total hours tracked:** 32,722.8 hours (2020-2026)
 - **Number of active team members:** 26
 - **Number of projects tracked:** 52 projects with time, 151 total projects in workspace
 
@@ -20,7 +20,7 @@
 10. **Parker:** 1,218.7 hours
 11. **Ethan Domagala:** 284.6 hours
 12. **Sam Hild:** 211.2 hours
-13. **Beck Cotter:** 201.5 hours
+13. **Beck Cotter:** 209.5 hours (+8.0 hrs recent)
 14. **Paige Smith:** 132.9 hours
 15. **Meredith Needham:** 90.6 hours
 16. **Ben Busby:** 56.0 hours
@@ -28,12 +28,10 @@
 *Remaining 10 team members account for ~4,300 hours combined*
 
 ### Utilization Patterns
-- **Latest tracking period:** May 15-17, 2026 — *No time entries recorded (May 16-17 data gap)*
-- **Previous sustained activity (May 14-15):** 149.7 hours across core team — Jack Elston (9.0 hrs), Nate (9.2 hrs), Sam Hild (8.2 hrs), Ben Busby (8.0 hrs), Beck Cotter (8.0 hrs), Ethan Domagala (8.0 hrs), Dan (7.0 hrs)
-- **Core activity focus:** University collaboration (UMES S3), flight testing operations, and SwiftCore 4.0 development
-- **Ben Busby consistent leadership:** 48.0 hours total on SwiftCore 4.0 across three tracked periods
-- **Ethan Domagala flight testing:** 16.0 hours designated for S3 Flight Testing
-- **Nate university liaison:** 15.4 hours on UMES S3 collaboration (emerging role)
+- **Latest tracking period:** May 17-18, 2026 — **8.0 hours recorded** (Beck Cotter active on overhead/proposals)
+- **Previous activity (May 14-15):** 149.7 hours across core team
+- **Beck Cotter activity:** 8.0 hours split between General Operations (4.0 hrs) and Proposals (4.0 hrs) — continuing operational/strategic support role
+- **Core team momentum:** Consistent engagement on SwiftCore 4.0, S3 Flight Testing, and university collaboration
 
 ## Project Portfolio
 
@@ -42,53 +40,55 @@
 2. **Project 183171534:** 4,535.8 hours (13.9%)
 3. **[301-2] SBIR - Hurricane Phase II+ (NOAA):** 3,279.0 hours (10.0%)
 4. **[200-12] Aeropods (NASA):** 1,972.1 hours (6.0%)
-5. **[001-13] Corporate/Strategic Planning & Overhead:** 1,506.3 hours (4.6%)
+5. **[001-13] Corporate/Strategic Planning & Overhead:** 1,510.3 hours (+4.0 hrs recent) (4.6%)
 6. **[001-04] S0 VTOL IRAD:** 1,322.3 hours (4.0%)
 7. **[200-7] SBIR - Volcano CCRPP:** 1,248.1 hours (3.8%)
 8. **[001-08] Flight Testing IRAD:** 936.6 hours (2.9%)
 9. **[001-16] SwiftStation IRAD:** 901.3 hours (2.8%)
 10. **[001-14] SwiftCore 3.3 IRAD:** 789.4 hours (2.4%)
 11. **[400-5] SBIR - Soil Moisture Mapping (Air Force):** 1,006.2 hours (3.1%)
-12. **[001-09] SwiftCore 4.0 IRAD:** 48.0 hours (0.15%) — *Ben Busby exclusive focus*
-13. **[001-07] S3 IRAD:** 189.6 hours (0.58%)
-14. **[031-1] UMES S3:** 15.4 hours (0.05%) — *Nate university collaboration*
-15. **[001-13] Proposals IRAD:** 37.0 hours (0.11%)
-16. **[001-12] Customer Support IRAD:** 16.5 hours (0.05%)
-17. **[300-3] 2026 IDIQ (Hurricane):** 164.8 hours (0.50%)
-18. **[043-3] ByLight M2/Halo:** 131.2 hours (0.4%)
-19. **[550-1] Navy SBIR: Magnetometer:** 16.6 hours (0.05%)
-20. **[301-3] S0 Hurricane Phase II - 2025 (NOAA):** 10.2 hours (0.03%)
+12. **[001-09] SwiftCore 4.0 IRAD:** 48.0 hours (0.15%)
+13. **[001-13] Proposals IRAD:** 41.0 hours (+4.0 hrs recent) (0.13%)
+14. **[001-07] S3 IRAD:** 189.6 hours (0.58%)
+15. **[031-1] UMES S3:** 15.4 hours (0.05%)
 
-### Client Distribution
-- **IRAD (Internal R&D):** ~6,399.8 hours (19.6%) — SwiftCore 4.0, S3, S0 VTOL, Flight Testing, Proposals focus
+### Client Distribution (Updated)
+- **IRAD (Internal R&D):** ~6,403.8 hours (19.6%) — SwiftCore 4.0, S3, S0 VTOL, Flight Testing, Proposals focus
 - **NOAA:** 3,459.0 hours (10.6%)
 - **NASA:** 2,058.8 hours (6.3%)
 - **Department of Air Force:** 1,258.5 hours (3.9%)
-- **University of Maryland Eastern Shore:** 15.4 hours (0.05%) — *Emerging university partnership*
-- **Overhead/Corporate/Operations:** 1,518.3 hours (4.6%)
+- **Overhead/Corporate/Operations:** 1,522.3 hours (+4.0 hrs recent) (4.6%)
 - **Unallocated:** 8,544.2 hours (26.1%)
+- **University of Maryland Eastern Shore:** 15.4 hours (0.05%)
 - **Other (Navy, ByLight, USGS, Academic):** 148.2 hours (0.4%)
 - **PTO:** 8.0 hours
 
 ## Patterns & Insights
 
-### Current Status (May 16-17, 2026)
-- **Data gap:** No time entries recorded for May 16-17 — suggests potential weekend period or tracking pause
-- **Prior momentum:** May 14-15 showed 149.7 hours across 7 core team members with strong engagement
+### Current Activity (May 17-18, 2026)
+- **Beck Cotter engaged:** 8.0 hours split evenly between General Operations and Proposals
+- **Focus:** Operational coordination and strategic proposal development
+- **Resumption trend:** Activity resumes after May 16-17 data gap, indicating normal operational schedule
 
 ### Strategic Initiatives in Focus
-1. **SwiftCore 4.0 Acceleration:** Ben Busby leading with 48+ hours dedicated; positioned as priority product development
-2. **Flight Testing Operations:** Ethan Domagala designated lead with 16+ hours; S3 vehicle testing emphasis
-3. **University Collaboration:** UMES S3 partnership with Nate as liaison (15.4 hours cumulative) — emerging strategic initiative
-4. **S0 VTOL Development:** Sam Hild driving testing work (8.2+ recent hours)
+1. **SwiftCore 4.0 Acceleration:** Core product development priority (48+ dedicated hours)
+2. **Flight Testing Operations:** S3 vehicle testing with designated leadership
+3. **University Collaboration:** UMES partnership maturing (15.4 hours cumulative)
+4. **Proposal Pipeline:** Sustained investment in new business development (41+ hours)
 
-### Team Structure
-- **Jack Elston:** Dominant resource (39% of all time); mixed between operational/administrative and technical coordination
+### Team Structure & Specialization
+- **Jack Elston:** Dominant operational resource (39% of all time)
+- **Beck Cotter:** Proposals and overhead specialist (continuing recent pattern of operational focus)
 - **Core specialists:** Nate (university liaison), Ethan (flight testing), Ben (product development), Sam (vehicle testing)
-- **Distributed portfolio:** 26 active team members suggests matrix structure across multiple concurrent projects/clients
+- **Distributed portfolio:** 26 active team members across matrix structure
 
 ### Billable vs. Non-Billable
 - **SBIR/Contract Revenue:** ~8,002.3 hours (24.4%) — NOAA, NASA, Air Force
-- **IRAD/Internal:** ~6,399.8 hours (19.6%)
-- **Overhead/Unallocated:** ~10,062.5 hours (30.7%) — requires clarification on allocation
+- **IRAD/Internal:** ~6,403.8 hours (19.6%)
+- **Overhead/Unallocated:** ~10,066.5 hours (30.7%)
 - **Remaining:** ~8,250.2 hours (25.2%)
+
+### Notes
+- New tracking data represents continuation of normal operational patterns
+- Beck Cotter's recent focus on proposals and general operations aligns with overhead/strategic planning category
+- No significant shift in project portfolio or team allocation observed in latest period

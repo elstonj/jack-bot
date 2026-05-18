@@ -18,11 +18,7 @@
   - ERAU/Josh Wadler ($18,763 paid in base period; wadlerj@erau.edu; Pre-Award Contracting Officer: Garrett Filson, filsong@erau.edu)
   - Old Dominion University/John Park (h1park@odu.edu; Pre-Award Contracting Officer: Stephanie Haskell, sl2harri@odu.edu)
   - University of Miami/Jun Zhang (jun.zhang@earth.miami.edu; **CRITICAL: must be included on all correspondence** — funds handled through ERAU sub)
-
-## Risk Signals & Status Notes
-- **Team Correction (Maciej, 2026-04-17 & 2026-05-06)**: "Tasks for the Navy project is done" but also "updating tasks for the Navy STTR which will be a higher priority this month." This indicates technical work completion but active task updates underway. **Asana state (1 open task) aligns with this correction**.
-- **Correction (Jack, 2026-05-08)**: "the navy sttr has priority, the SBIR is mostly on schedule" — Navy STTR elevated to top priority through end of option period.
-- **Invoicing Confirmed (Meredith, 2026-04-17)**: "Navy STTR was submitted along with the invoice" — latest invoice submission complete; next invoices due June 3 and September 1.
+- **Risk Signals**: One open task (Phase II Cal/Val Plan) due May 18, 2026 (Maciej Stachura); Progress Report (June 3) and Final Report (Sept 1) still in progress.
 
 ## Key Deliverables & Milestones
 - **Base Period Kickoff** (July 22, 2025): $70,000 ✓ COMPLETED
@@ -30,26 +26,26 @@
 - **Base Period Final Report** (January 5, 2026): $20,826 ✓ COMPLETED
 - **TABA Report** (January 5, 2026): $6,500 ✓ COMPLETED
 - **Option Period Kickoff** (April 2, 2026): $50,000 ✓ COMPLETED
+- **Phase II Cal/Val Plan** (May 18, 2026): **OPEN** (assigned to Maciej Stachura)
 - **Option Progress Report** (June 3, 2026): $35,000 — **IN PROGRESS** (CLIN 0006; assigned to Maciej Stachura)
 - **Option Final Report** (September 1, 2026): $14,446 — **PENDING** (CLIN 0007; assigned to Maciej Stachura)
 
 ## Task Summary
-- **Total Open Tasks in Current Asana**: 1
-  - Add mag-IMU alignment (Maciej Stachura, due May 13, 2026)
+- **Total Open Tasks**: 1
+  - Phase II Cal/Val Plan (Maciej Stachura, due May 18, 2026)
 - **Completed Tasks**: 31 historical (~74% overall completion rate through base period)
 - **Tasks by Assignee**:
-  - **Maciej Stachura**: 1 open task (Add mag-IMU alignment due May 13); responsible for Progress Report (June 3) and Final Report (Sept 1) deliverables; **prioritized through May–June per team feedback (2026-05-06)**
+  - **Maciej Stachura**: 1 open task (Phase II Cal/Val Plan due May 18); responsible for Progress Report (June 3) and Final Report (Sept 1) deliverables; **prioritized through May–June per team feedback (2026-05-06)**
   - **Meredith O'hara Needham**: Invoicing administration (100% on-time track record; latest invoice submitted; next invoices due June 3 and September 1)
-- **Notable Pattern**: Significant reduction from prior knowledge file (8 open tasks May–June) to current state (1 task). Team corrections confirm technical work completion; Maciej noted active task updates underway as of May 6. Asana now reflects this completion.
 
 ## Recent Activity
 - **April 17, 2026**: Invoice and Navy STTR progress report submitted (Meredith); templates and instructions confirmed at navysbir.com.
 - **May 6, 2026**: Maciej updated Asana with Navy STTR task priority elevation; Navy SBIR mostly caught up.
 - **May 8, 2026**: Jack confirmed Navy STTR has priority; SBIR on schedule.
-- **May 13, 2026**: One remaining technical task due (Add mag-IMU alignment, Maciej).
+- **New task identified** (raw data): Phase II Cal/Val Plan due May 18, 2026 (Maciej Stachura) — replaces prior "Add mag-IMU alignment" task.
 
 ## Upcoming Critical Dates
-- **May 13, 2026**: Add mag-IMU alignment (Maciej Stachura) — **FINAL OPEN TASK**
+- **May 18, 2026**: Phase II Cal/Val Plan (Maciej Stachura) — **OPEN TASK**
 - **June 3, 2026**: 
   - Option Progress Report due (CLIN 0006; $35,000) — **IN PROGRESS**
   - Invoice submission to WAWF (Meredith O'hara Needham, CLIN 1006)
@@ -72,5 +68,5 @@
 - **Billing**: All invoices submitted via WAWF system. Latest invoice confirmed submitted April 17.
 - **Subcontractor Coordination**: Jun Zhang (University of Miami) is funded through ERAU sub but must be included on all project correspondence.
 - **Report Templates**: Available at https://navysbir.com/links_forms.htm. All reports must prominently display required cover information per Navy guidelines.
-- **Status (per team feedback)**: Technical tasks substantially complete as of early May; focus now on Progress Report (due June 3) and Final Report (due Sept 1). Maciej is updating Asana with May–June priority tasks.
+- **Status (per team feedback)**: Technical tasks substantially complete as of early May; focus now on Cal/Val Plan (due May 18), Progress Report (due June 3), and Final Report (due Sept 1). Maciej is actively updating Asana with May–June priority tasks.
 - **Priority**: Navy STTR elevated to top priority through end of option period (per Jack, May 8).

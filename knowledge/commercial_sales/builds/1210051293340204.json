@@ -16,7 +16,7 @@
       "quantity": 1
     }
   ],
-  "payment_state": "invoice_sent",
+  "payment_state": "paid",
   "build_state": "none",
   "ship_state": "none",
   "estimate_date": "2024-12-01",
@@ -33,7 +33,7 @@
     "invoicing": "Meredith",
     "build": null
   },
-  "notes": "Multi-trip S2 rental project for CH4 emissions monitoring at Murphy's Pond, Kentucky. Project approved January 2025; BST vendor-registered and approved. Trip #2 (Nov 6-7, 2025) invoiced #1728 and paid Dec 17. Dr. Masri inquiring about cost for remaining 2 flights. Travel window May\u2013October 2025; flights 3 and 4 being scheduled for late June/July and October. Total budget $86,862.94.",
+  "notes": "Multi-trip S2 rental project for CH4 emissions monitoring at Murphy's Pond, Kentucky. Trip #2 (Nov 6-7, 2025) invoiced #1728 and paid Dec 17. Dr. Masri inquiring about cost for remaining 2 flights (scheduled late June/July and October 2025). Total project budget $86,862.94; funded through Dec 31, 2026. KEEP: Active QBO invoice #1728 (paid Dec 17, 2025) + recent customer email (Jan 20, 2026) requesting pricing for flights 3\u20134 confirms live engagement despite Asana 'No action needed' status.",
   "missing_fields": [
     "ship_to"
   ],

@@ -4,9 +4,9 @@
 - **Client/customer**: Internal BST development project
 - **Dollar value**: Not specified
 - **Timeline**: Active development branch; no target release date specified
-- **Status**: Active development (yellow status as of Nov 28, 2023, with overdue milestones). 78 open tasks with no due dates assigned; 375 completed tasks overall (83% completion rate). No recent team corrections indicate delays or status changes beyond Asana data.
+- **Status**: Active development (yellow status as of Nov 28, 2023). Previous snapshot showed 78 open tasks with no due dates assigned; 375 completed tasks overall (83% completion rate). New data shows task list may be filtered or represents a subset view. No recent team corrections indicate delays or status changes beyond Asana data.
 - **Team members**: Jack Elston (owner), Maciej Stachura, Ben Busby, whole BST team
-- **Risk signals**: 78 open tasks with no due dates assigned; multiple flight-critical bugs in joystick control, landing detection, flight termination, and surface actuation; significant concentration of safety/stability concerns requiring resolution before production release
+- **Risk signals**: Multiple flight-critical bugs in joystick control, landing detection, flight termination, and surface actuation; 78 open tasks with no due dates assigned; significant concentration of safety/stability concerns requiring resolution before production release; low priority custom field designation appears inconsistent with severity of open items
 
 ## Key Deliverables & Milestones
 **Open Milestones (no due dates assigned):**
@@ -26,7 +26,7 @@
 - **Tasks by assignee**:
   - Jack Elston: ~40 open tasks (majority workload; focus on surface control, payload systems, calibration, joystick mode, power management, sensors, logging, actuators)
   - Maciej Stachura: ~30 open tasks (VTOL/control systems focus; transition control, landing, wind alignment, navigation, motor control, estimator, fault analysis)
-  - Ben Busby: ~8 open tasks (tablet/UI focus; scripting, landing plan sync, XML configuration, log parsing, communications packets) — most recent activity Nov 9, 2023 (wind barb display feature completed)
+  - Ben Busby: ~8 open tasks (tablet/UI focus; scripting, landing plan sync, XML configuration, log parsing, communications packets)
 - **Notable patterns**: 
   - Heavy focus on VTOL systems (transitions, landing, motor control, climbout, wind alignment)
   - Flight-critical issues concentrated in joystick mode, landing detection, flight termination, and surface actuation

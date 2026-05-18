@@ -29,7 +29,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Estimate 1336 sent 11.14.24 for S0 VTOL (one of three requested systems broken into separate estimates for funding). Customer awaiting BST vendor setup approval to issue PO. Refurbished S2 was delivered and paid in April 2025; waiting on E2 and S0 VTOL orders. Receive-by date is 2026-04-24 (now past due); last contact 2025-04-14. No recent activity in 90+ days. Kept due to substantive engagement: customer has active multi-item ordering relationship (S2 paid, E2 and S0 VTOL pending) and explicit future receive-by date within 6-month window.",
+  "notes": "Estimate 1336 sent 11.14.24 for S0 VTOL (one of three requested systems broken into separate estimates for funding). Customer awaiting BST vendor setup approval to issue PO. Refurbished S2 was delivered and paid in April 2025 (Inv #1654, $57,814.00); waiting on E2 and S0 VTOL orders. Receive-by date 2026-04-24 is now past due. Kept due to multi-item active ordering relationship with explicit future receive-by date and QBO evidence of prior paid delivery (S2).",
   "missing_fields": [
     "ship_to",
     "invoice_number",

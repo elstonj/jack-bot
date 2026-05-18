@@ -1,10 +1,10 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,568 (1,555 previous + 13 new)
-- **Date range:** March 24 – May 17, 2026 (55 days)
-- **Approximate volume:** ~28.5 messages per day (sustained consistency)
-- **Pattern:** New 13-message sample (May 16–17, primarily May 16) confirms **continued ~90% automated/newsletter-driven baseline**. Heavy concentration in news aggregation (NYT multi-segment, defense/aerospace intelligence, professional development). **Weekend activity pattern sustained** (May 16–17 activity concentrated 10:06–23:24 UTC; anomalous 03:11 UTC Sunday activity). **Profile visibility continues elevated** (11 new search appearances on May 16 alone).
+- **Total messages scanned:** 1,578 (1,555 previous + 13 prior sample + 10 new)
+- **Date range:** March 24 – May 18, 2026 (56 days)
+- **Approximate volume:** ~28.2 messages per day (sustained consistency)
+- **Pattern:** New 10-message sample (May 17–18) confirms **continued ~90% automated/newsletter-driven baseline**. Weekend concentration (May 17–18, 10:31–21:01 UTC) consistent with established Saturday/Sunday activity pattern. No anomalous time clustering observed.
 
 ---
 
@@ -17,58 +17,72 @@
 2. **Meredith Needham** (meredith.needham@blackswifttech.com) — **SUSTAINED/OPERATIONS & FINANCIAL MANAGEMENT**:
    - **Continuing context:** Weekly Business Operations Meeting (Wednesday 1:30–2:30pm); financial operations/vendor payments management confirmed.
 
+3. **BST Sales/Generic Distribution Lists** (sales@blackswifttech.com, info@blackswifttech.com, media@blackswifttech.com) — **NEW PATTERN/TRADE SHOW & INDUSTRY EVENT DISTRIBUTION**:
+   - **3 new messages (May 17–18)**: SSD 2026 Defence Expo (May 18, 06:41, UNREAD); RMAME 2026 Rocky Mountain Advanced Manufacturing Expo (May 17, 20:10, UNREAD); STATION Austin event digest (May 17, 14:02, UNREAD).
+   - **Signal:** Paige appears on internal event/industry expo distribution lists; suggests **participation in or awareness of BST's trade show/conference calendar** (defense/aerospace + manufacturing sectors). Receipts to company-wide distribution indicates **company-level event coordination or vendor outreach**.
+
 ### Top External Senders (Updated)
 
-1. **The New York Times** (breakingnews, editorpicks, nytdirect) — **SUSTAINED VERY HIGH (primary time consumer, expanding diversification)**:
-   - **5 new messages (May 16–17)**:
-     - **Breaking news (3)**: Bill Cassidy Louisiana primary loss (May 17, 03:11, UNREAD/NOT IMPORTANT); Bulgaria Eurovision win (May 16, 23:24, UNREAD/NOT IMPORTANT); Manhattan vehicle-into-crowd incident (May 16, 18:12, UNREAD/NOT IMPORTANT).
-     - **Morning briefing (1)**: "The Morning: 'Whatever feeds your head'" (May 16, 10:06, marked IMPORTANT) — philosophical/cultural morning briefing framing.
-     - **Editor picks (1)**: "Kash Patel's snorkeling at Pearl Harbor raises new ethical issues" (May 16, 12:01, marked IMPORTANT) — political ethics/government official conduct story.
-   - **Pattern shift sustained**: **DEPRIORITIZATION of domestic political/sensational news** (election primary, vehicle incident, Eurovision NOT marked important); **PRIORITIZATION of ethical governance issues and cultural content**. Breaking news alerts still subscribed but algorithmically filtered as lower-priority by user behavior.
+1. **The New York Times** (breakingnews, editorpicks, nytdirect) — **SUSTAINED VERY HIGH (further refinement toward health/wellness/cultural content)**:
+   - **4 new messages (May 17–18)**:
+     - **Morning briefing (1)**: "The Morning: Good luck, grads!" (May 17, 11:34, marked IMPORTANT) — commencement/education content.
+     - **Editor picks (2, both marked IMPORTANT)**: "4 drugs that may increase your dementia risk" (May 17, 21:01); "When should a cavity be filled? Not all dentists agree." (May 17, 12:01) — **HEALTH/MEDICAL DECISION-MAKING CONTENT**: Both marked IMPORTANT, representing shift toward personal health intelligence over news/politics.
+   - **Pattern escalation:** **DEPRIORITIZATION OF POLITICAL/BREAKING NEWS CONFIRMED; ELEVATION OF PERSONAL HEALTH & WELLNESS CONTENT**: All new editor picks marked IMPORTANT are medical/health-focused, not political. Suggests active curation toward wellness information or possible healthcare research interest.
 
-2. **Air and Space Forces Magazine / Mitchell Institute (AFA.org, mitchell@afa.org)** — **SUSTAINED ELEVATION/STRATEGIC AEROSPACE & ALLIED DEFENSE**:
-   - **1 new message (May 16, 05:02, marked IMPORTANT)**:
-     - **Swedish Air Force leadership (May 16, 05:02)**: "Maj Gen Wickman, Commander of the Swedish AF - Aerospace Advantage 290" — **ALLIED FOREIGN MILITARY LEADERSHIP SIGNAL**: Swedish Air Force commander featured; indicates tracking of NATO allied air force capabilities and strategic leadership. Follows May 15 Space Command/Reagan build-up theme; suggests deepening focus on allied/partner nation defense posture and strategic doctrine.
-   - **Pattern**: **ESCALATION CONFIRMED**: Strategic command leadership (US Space Command → Swedish Air Force Commander) indicates Paige actively monitoring allied defense modernization and multinational aerospace policy.
+2. **The Athletic Pulse** (TheAthletic@e1.theathletic.com) — **SUSTAINED ELEVATION/SPORTS ENTERTAINMENT**:
+   - **1 new message (May 17, 10:59, marked IMPORTANT)**: "Free-for-all at the PGA" — golf/PGA tour coverage. Continued sports engagement pattern (previously Knicks; now golf); marked IMPORTANT indicates active subscription engagement.
 
-3. **LinkedIn** (updates, messages, notifications, groups, news) — **SUSTAINED ELEVATION & ACTIVE RECRUITMENT ATTENTION**:
-   - **3 new messages (May 16, all marked IMPORTANT except job listing)**:
-     - **Profile engagement (2, both IMPORTANT)**: "11 search appearances" (May 16, 18:59); "You're on a roll on LinkedIn!" (May 16, 22:59) — **SUSTAINED HIGH-FREQUENCY RECRUITER ATTENTION**: 11 profile searches in single day (May 16); cumulative 24 searches in 48 hours (May 15–16). User engagement message ("on a roll") suggests active profile activity, endorsements, or visibility amplification.
-     - **Job market intelligence (1, NOT IMPORTANT)**: "Product Marketing Manager role at EnergyHub posted 5/1/26" (May 16, 16:59) — **ENERGY SECTOR JOB ALERT**: EnergyHub (clean energy/smart grid software company); product marketing role; deprioritized by user (NOT marked IMPORTANT) but represents cross-sector job matching (energy/sustainability divergent from defense focus).
-   - **LinkedIn message request (May 17, 00:59)**: "Add Michael M." — inbound contact/networking expansion.
-   - **Signal**: **SUSTAINED EXTREMELY HIGH RECRUITER INTEREST**: 11 searches in single day represents top-tier profile visibility in technology/defense sectors. User deprioritizing energy sector job alerts (EnergyHub) but engaging with recruiter/connector activity suggests **active network expansion rather than active job search**.
+3. **Inside Climate News** (newsletters@insideclimatenews.org) — **ELEVATED/ENVIRONMENTAL INTELLIGENCE**:
+   - **1 new message (May 17, 10:31, marked IMPORTANT)**: "What to expect as El Niño approaches" — climate/weather pattern analysis. **Now marked IMPORTANT** (previously NOT marked in May 16 sample); **SIGNAL ESCALATION**: Climate/environmental intelligence elevated from secondary to actively prioritized reading.
 
-4. **Mitchell Institute / Air & Space Forces Magazine** — (see #2 above, now consolidated with AFA)
+4. **Toggl Track** (support@track.toggl.com) — **NEW/TIME TRACKING PRODUCTIVITY TOOL**:
+   - **1 new message (May 18, 06:06, marked IMPORTANT, no subject line)**:
+     - **Toggl Track support/notification**: Blank subject suggests system notification, account activity alert, or automated service message. Marked IMPORTANT despite missing content indicates **active use of Toggl Track time-tracking software**. **Inference**: Paige uses time-tracking tools (possible BST requirement, project billing, or personal productivity tracking). No prior Toggl messages in dataset suggests **recent activation or account change** (May 18).
 
-5. **UAS Industry Intelligence & Events** — **SUSTAINED/MULTI-SOURCE**:
-   - No new messages in this sample (last activity May 15); pattern continues.
+5. **Perkonsen Energy** (perkonsenergy.notifications@mail.ozols.lv) — **NEW/EUROPEAN BATTERY MANUFACTURER OUTREACH**:
+   - **1 new message (May 18, 08:04, UNREAD, CATEGORY_FORUMS)**: "Battery solutions manufactured in Europe" — unsolicited vendor outreach.
+   - **Signal**: Cold outreach from Latvia-based battery manufacturer; routed to info@blackswifttech.com (company general inbox) but visible in Paige's email stream. Suggests **possible vendor outreach to BST's general contact** or **Paige CC'd on company vendor communications**. Connects to observed Amprius Technologies (battery supplier) and energy sector job alerts.
 
-6. **The Athletic Pulse** (TheAthletic@e1.theathletic.com) — **NEW/PERSONAL INTEREST SIGNAL**:
-   - **1 new message (May 16, 10:50, marked IMPORTANT)**: "The Knicks are for real?" — **PERSONAL/SPORTS INTEREST IDENTIFIED**: New York Knicks NBA team coverage; marked IMPORTANT indicates active sports entertainment subscription and engagement. **Anomaly**: Divergent from all prior professional/defense/aerospace patterns; suggests personal interest outside work domain.
+6. **Air and Space Forces Magazine / Mitchell Institute (AFA.org, mitchell@afa.org)** — **SUSTAINED ELEVATION/STRATEGIC AEROSPACE & ALLIED DEFENSE**:
+   - No new messages in this sample (last activity May 16); pattern continues.
 
-7. **Inside Climate News** (newsletters@insideclimatenews.org) — **NEW/ENVIRONMENTAL INTELLIGENCE SIGNAL**:
-   - **1 new message (May 16, 10:14, NOT marked IMPORTANT)**: "In Puerto Rico, an innovative water treatment system fortifies a community" — **SUSTAINABILITY/INFRASTRUCTURE INTEREST**: Environmental news subscription; not user-prioritized but indicates awareness of climate/water infrastructure solutions. Possible connection to sustainable technology interests or cross-sector awareness.
-
-8. **WPBeginner / Web Marketing (Syed Balkhi - support@wpbeginner.com)** — **NEW/MARKETING SERVICES OUTREACH**:
-   - **1 new message (May 16, 14:10, marked IMPORTANT)**: "Rank #1 on Google — in 5 languages, by next month [Spots are limited]" — **UNSOLICITED MARKETING/SEO SERVICES**: Cold outreach for search ranking optimization; user marked IMPORTANT (unusual for promotional content) suggests either **mistaken flag or intentional review of competing marketing services pitch** (possible BST marketing/visibility strategy evaluation).
+7. **LinkedIn** — **SUSTAINED ELEVATION & ACTIVE RECRUITMENT ATTENTION**:
+   - No new messages in this 10-message sample; pattern of 11+ profile searches per day sustained from prior period.
 
 ---
 
 ## Topic Patterns
 
 ### Primary Themes (Confirmed & Sustained)
-1. **Defense & Aerospace Policy**: Space Force operations, USAF acquisition programs (KC-46 delays), allied air force capabilities (Swedish AF)
-2. **UAS/Drone Intelligence**: Multi-daily industry news feeds (UAS Magazine, UAS VISION)
-3. **Geopolitical News**: NYT breaking news (political cycles, international incidents, government ethics)
-4. **Professional Development & Network Visibility**: LinkedIn recruiter activity, job market intelligence
+1. **Defense & Aerospace Policy**: Space Force operations, USAF acquisition programs, allied air force capabilities
+2. **UAS/Drone Intelligence**: Multi-daily industry news feeds
+3. **Professional Development & Network Visibility**: LinkedIn recruiter activity, job market intelligence
+4. **Trade Shows & Industry Expos**: SSD 2026 Defence Expo, RMAME 2026 (Advanced Manufacturing), STATION Austin
 
-### Secondary Themes (New/Emergent)
-5. **Sports/Entertainment**: NBA (New York Knicks) — personal interest
-6. **Environmental/Climate**: Water treatment systems, climate policy — secondary awareness
-7. **Web Marketing/Digital Services**: SEO/Google ranking services — possible business development research
+### Secondary Themes (Elevated/Refined)
+5. **Personal Health & Wellness Intelligence**: Dementia risk factors, dental care, medication decision-making — **ELEVATED TO ACTIVELY MARKED IMPORTANT**
+6. **Sports/Entertainment**: NBA (Knicks), PGA golf — active engagement
+7. **Climate/Environmental Intelligence**: El Niño patterns, weather analysis — **ELEVATED TO ACTIVELY MARKED IMPORTANT**
+8. **Battery/Energy Technology**: European battery manufacturers, energy sector vendors — possible supply chain or technology research
 
 ### Client/Organization Names Visible
-- **Amprius Technologies** (battery/energy supplier, vendor payment processing)
-- **Turner Construction Company** (job market signal)
-- **EnergyHub** (clean energy software, job listing)
-- **Lockheed Martin / Missiles & Fire Control** (Tim Cahill connection, defense industrial ecosystem)
+- **Amprius Technologies** (battery/energy supplier)
+- **Turner Construction Company** 
+- **EnergyHub** (clean energy software)
+- **Lockheed Martin / Missiles & Fire Control**
+- **Perkonsen Energy** (Latvia, battery manufacturer — NEW)
+- **Black Swift Technologies** (internal trade show/expo participation)
+
+---
+
+## Communication Patterns
+
+### Temporal Patterns
+- **Weekend concentration**: May 17–18 messages clustered 10:31–21:01 UTC (Sunday morning to evening)
+- **Early morning activity**: May 18, 06:06–08:04 (Monday morning, likely pre-work inbox review)
+- **Sustained 90% newsletter/automated baseline**: No human-to-human correspondence in new sample; all external messages system-generated or subscription-based
+- **All new messages marked UNREAD** in fresh sample (May 17–18), indicating weekend batch arrival before processing
+
+### Mailing Lists & Group Distribution
+- **Internal BST distribution lists**: sales@blackswifttech.com, info@blackswifttech.com, media@blackswifttech.com (trade show/event broadcasts)
+- **NYT subscriber segments**: editorpicks, nytdirect (tiered/topic

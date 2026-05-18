@@ -1,9 +1,9 @@
 {
-  "asana_gid": "1213756777376150",
-  "asana_task_name": "University of Colorado Boulder",
-  "customer": "University of Colorado Boulder",
-  "customer_contact": "Jazlynn Hall",
-  "customer_email": "jazlynn.hall@colorado.edu",
+  "asana_gid": "1208185314692566",
+  "asana_task_name": "[450] Alaska Coastline Erosion Surveys (University of Colorado)",
+  "customer": "University of Colorado",
+  "customer_contact": "Julia Moriarty",
+  "customer_email": "Julia.Moriarty@colorado.edu",
   "receive_by": "2026-08-31",
   "ship_to": null,
   "items": [
@@ -27,7 +27,7 @@
   "payment_state": "estimate_sent",
   "build_state": "none",
   "ship_state": "none",
-  "estimate_date": "2026-04-10",
+  "estimate_date": null,
   "invoice_date": null,
   "invoice_amount": null,
   "invoice_number": null,
@@ -63,10 +63,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "New professor at CU Boulder (Jazlynn Hall) interested in E2 system with custom sensor payload (multispectral, thermal, lidar preferred but cost-constrained). Pricing sheet sent 2026-04-10. Customer will not purchase until August 2026 when new position starts. Awaiting grant proposal finalization; needs equipment decision by Oct 31, 2026. Note: separate QBO invoices exist for INSTAAR repair work (Inv #1618, #1759) but those are for different customer entity (INSTAAR, CU Boulder) and project.",
+  "notes": "Academic research project for Alaskan north slope lagoons and coastline surveys. Estimate sent via Slack 2026-05-15 with receive-by date of 2026-08-31 for summer 2026 deployment.",
   "missing_fields": [
     "ship_to",
-    "invoice_amount"
+    "invoice_number",
+    "invoice_amount",
+    "invoice_date"
   ],
-  "last_evidence_date": "2026-05-17"
+  "last_evidence_date": "2026-05-15"
 }

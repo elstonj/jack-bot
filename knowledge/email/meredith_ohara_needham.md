@@ -1,10 +1,10 @@
 # Meredith O'Hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,697 (1,610 previous + 78 from May 15–16 + 9 new from May 16)
-- **Date range:** March 23 – May 16, 2026 (approximately 8 weeks)
+- **Total messages scanned:** 1,708 (1,697 previous + 11 new from May 17–18)
+- **Date range:** March 23 – May 18, 2026 (approximately 8 weeks)
 - **Approximate volume:** 25–40 emails per day (mix of sent, received, and automated)
-- **May 16 new data:** 9 messages; **100% transactional/automated/promotional**; **OUT OF OFFICE MODE REMAINS ACTIVE** — 2 additional out-of-office auto-replies sent (06:15 and 12:12 PDT); continuing to generate system bounce-back responses to marketing emails
+- **May 17–18 new data:** 11 messages; **100% transactional/automated/promotional**; **OUT OF OFFICE MODE CONTINUES ACTIVE** — 1 additional out-of-office auto-reply sent (May 17, 11:00:42 to Bloomberg subscription bounce address); no human-initiated correspondence
 
 ---
 
@@ -20,6 +20,7 @@
 
 **Legal & Compliance**
 - **Nadia Bryan** (nbryan@kofirm.com; K&O Firm) — Black Swift disclosure schedules legal matter
+- **Microhard Systems** (via DocHub finalization, May 17) — Mutual Nondisclosure Agreement finalized
 
 **Export Control & Classification**
 - **Jon Vince** (jon.vince@rogers.com) — SNAP-R classification (Control Number Z1893789); ECCN coordination
@@ -32,6 +33,12 @@
 - **Lee Skidmore** (lee@rubiconaerospace.com; Rubicon Aerospace) — Return logistics coordination
 - **Marlo** (marlo@kmac-distribution.com; KMAC Distribution) — Parts orders
 
+**Hobby/Specialty Retail** (routing through purchasing@blackswifttech.com)
+- **HeliDirect** (sales@helidirect.com) — Helicopter parts/components (Spirit W3 FBL, XL Power Stratos 200)
+- **Hobbyking** (news@notify.hobbyking.com) — Hobby electronics/RC components
+- **DigiKey** (purchasing alerts) — Electronics distributor
+- **Spindrift Market** — Beverage/refreshment ordering
+
 ---
 
 ## Topic Patterns
@@ -41,15 +48,18 @@
 - **SNAP-R Export Classification:** Control Number Z1893789 accepted; ECCN for S3 meeting scheduled May 18, 2026 2pm MDT
 - **Black Swift Disclosure Schedules:** Formal legal matter with K&O Firm and Jack Elston (May 15)
 - **MHP Data Alignment:** Stanford University research coordination (May 15)
+- **Microhard Systems NDA:** Finalized mutual nondisclosure agreement (May 17) — NEW; suggests emerging partnership or vendor relationship
 
 ### Recurring Subject Themes
-- Vendor order tracking and delivery (DHL, Amazon, USPS, KMAC)
+- Vendor order tracking and delivery (DHL, Amazon, USPS, KMAC, DigiKey, Spindrift, Speedway Motors)
+- **Hobby/specialty electronics and helicopter components** (HeliDirect, Hobbyking) — NEW emphasis; suggests either personal hobby or emerging product line/integration work
 - Export control/classification milestones
 - Legal disclosure document exchange
 - Business development and partnership proposals
 - Task/project management via Asana (8 overdue tasks flagged May 15)
-- Promotional/marketing emails (Budget, Harbor Freight, Speedway Motors, Axios news)
+- Promotional/marketing emails (Budget, Harbor Freight, Speedway Motors, Axios news, Bloomberg)
 - Health/benefits statements (UnitedHealthcare)
+- Industry events (Rocky Mountain Advanced Manufacturing Expo registration, September 18, 2026) — NEW
 
 ---
 
@@ -57,18 +67,21 @@
 
 ### Time & Frequency
 - **May 15, 2026 (Friday):** Heavy activity (60+ messages); out-of-office mode activated; concentrated IMPORTANT/legal/export control items
-- **May 16, 2026 (Saturday):** Light activity (9 messages); **100% automated/transactional/promotional**; 2 additional out-of-office auto-replies generated to marketing emails (Budget at 06:15 PDT, UnitedHealthcare at 12:12 PDT); no human-initiated correspondence
+- **May 16–18, 2026 (Saturday–Monday):** Light activity (20 messages); **100% automated/transactional/promotional/system-generated**; 1 additional out-of-office auto-reply sent (May 17, 11:00 PDT to Bloomberg); no human-initiated correspondence
+- **Weekend purchasing pattern:** Continued high volume of hobby/electronics and promotional emails Sunday May 17 (6 messages), suggesting either automated subscriptions or weekend activity before full absence took effect
 
 ### Out-of-Office Status
 - **Active since:** May 15, 16:00 PDT
-- **Auto-reply behavior:** System generating bounce-back responses to promotional/transactional emails; indicates email forwarding or catch-all auto-reply rule actively engaged
-- **Pending workload:** 8 overdue Asana tasks flagged as of May 15
+- **Duration extension:** Now confirmed through at least May 18 (Monday morning)
+- **Auto-reply behavior:** System generating bounce-back responses to promotional/transactional emails; May 17 reply to Bloomberg subscription list indicates catch-all auto-reply rule remains comprehensive
+- **Pending workload:** 8 overdue Asana tasks flagged as of May 15; ECCN for S3 meeting scheduled May 18 at 2pm MDT (meeting may proceed without Meredith present, or may be rescheduled)
 
 ### Email System Patterns
 - Receiving high volume of purchase-related promotional emails (forwarded via purchasing@blackswifttech.com routing)
-- Active USPS Informed Delivery subscription (daily digest tracking)
-- Newsletter subscriptions (Axios, Bloomberg, etc.) continue during absence
-- Marketing email filtering is working but triggering auto-reply bounce-backs
+- Active subscriptions continue: Bloomberg, Axios, Hobbyking, Herald Freight, Speedway Motors, DigiKey alerts
+- **NEW pattern:** Emerging hobby electronics/RC component subscriptions (HeliDirect, Hobbyking) not previously flagged; may indicate new product exploration or personal hobby
+- USPS Informed Delivery subscription continues
+- Generic BST info@ address receiving event registration notifications (RMAME Expo, Perkons Energy battery solutions)
 
 ---
 
@@ -83,29 +96,18 @@
 ### External Relationships (importance & activity)
 - **Jon Vince** (export control consultant) — Active on time-critical ECCN scheduling
 - **Nadia Bryan** (K&O Firm legal counsel) — Formal legal matter (disclosure schedules)
+- **Microhard Systems** (via DocHub) — **NEW; partnership escalation** (mutual NDA finalized May 17)
 - **Arthur Shune** (Sky Mesa Systems) — Active business development opportunity
 - **Lee Skidmore** (Rubicon Aerospace) — Vendor escalation requiring coordination
+- **HeliDirect** (emerging contact) — **NEW; specialty components supplier** (hobby or product integration)
 
 ---
 
 ## Notable Observations
 
-1. **Out-of-Office Threshold:** Meredith transitioned to full out-of-office mode May 15 afternoon and remains in that state through May 16; all direct emails receive auto-replies; system is generating bounce-back responses to marketing emails, indicating a comprehensive auto-reply rule (not selective forwarding).
+1. **Out-of-Office Extended Through Monday May 18:** Meredith remains in full out-of-office mode through at least Monday morning. May 17 auto-reply to Bloomberg indicates comprehensive catch-all rule still active. The **May 18, 2pm MDT ECCN for S3 meeting is scheduled** while she is away — meeting may be delegated, rescheduled, or proceeding without her.
 
-2. **Critical Path Items Stacked at Departure:** Multiple IMPORTANT/URGENT items were processed immediately before out-of-office activation:
-   - SNAP-R classification approval (Control Z1893789)
-   - ECCN for S3 meeting scheduled May 18 (3 days after departure)
-   - Legal disclosure schedules exchange with external counsel
-   - SBIR teaming proposal coordination
-   - Vendor return escalation with Rubicon
-   
-   This suggests either a planned absence with intentional pre-departure task completion, or an unexpected departure with urgent items pushed through.
-
-3. **Email Volume Composition Shift:** May 16 shows zero human-initiated correspondence — only transactional (UnitedHealthcare), promotional (Budget, Harbor Freight, Speedway Motors, Axios), and system-generated (USPS Informed Delivery, out-of-office bounces). This is consistent with weekend + out-of-office status.
-
-4. **Purchasing System Routing Pattern:** Multiple external vendor emails (Budget, Harbor Freight, Speedway Motors, USPS) are being routed through `purchasing@blackswifttech.com`, suggesting either:
-   - Meredith's email is subscribed to purchasing alerts/forums
-   - A shared purchasing inbox is forwarding to her
-   - Vendor marketing emails are reaching the purchasing alias and being auto-forwarded
-
-5. **No Delegation Visible:** Despite 8 overdue Asana tasks and a scheduled ECCN meeting May 18, no evidence of delegation or hand-off communications in available headers. Tasks appear pending her return.
+2. **Microhard Systems NDA Finalized (May 17):** A new mutual nondisclosure agreement was finalized via DocHub during her absence. This suggests:
+   - Pre-negotiated deal that reached completion without her direct involvement May 17
+   - Or, this was queued for signature/finalization before her departure and completed automatically
+   - Indicates emerging partnership or vendor relationship requiring follow-up upon return

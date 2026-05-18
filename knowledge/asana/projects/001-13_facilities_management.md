@@ -3,15 +3,15 @@
 ## Overview
 - **Client/customer**: Internal operations (BST office and shop space maintenance)
 - **Dollar value**: Lease costs ranging from $13.00–$14.63 NNN over 60-month term, plus $6.23 CAM for real estate taxes and building insurance
-- **Timeline**: Ongoing operational project with recurring weekly/bi-weekly tasks
+- **Timeline**: Ongoing operational project with recurring monthly and bi-weekly tasks
 - **Status**: Active - high completion rate; recurring batch completion cycle functioning smoothly
 - **Team members involved**: Meredith O'hara Needham (primary operational owner), Nate Straus (facilities improvements & consumables)
 - **Risk signals**: 
-  - **Office Cleaning due 2026-05-16** (recurring; currently open)
+  - **Pay Rent due 2026-05-25** (recurring monthly; currently open)
   - Note: Tasks consistently completed 1–8 days after due date in batch cycle (structural to workflow, not an anomaly)
 
 ## Key Deliverables & Milestones
-- **Monthly rent payments** (~$13.00–$14.63 NNN depending on lease year, due ~25th–27th of each month)
+- **Monthly rent payments** (~$13.00–$14.63 NNN depending on lease year, plus $6.23 CAM, due ~25th of each month)
 - **Weekly office purchasing coordination** (recurring collection and ordering, due ~1st–15th of month on weekly cycle)
 - **Bi-weekly office cleaning** (via Neat N Tidy, scheduled separately from primary task list)
 - **Facilities improvements** (ongoing, no due date set)
@@ -23,7 +23,7 @@
 - **Total tasks**: 1 open, 0 completed (in current data snapshot)
 - **Tasks by assignee**:
   - **Meredith O'hara Needham**: 1 open
-    - Office Cleaning (due 2026-05-16, open) — bi-weekly cleaning coordination via Neat N Tidy
+    - Pay Rent (due 2026-05-25, open) — monthly rent payment to Goose Creek
 - **Notable patterns**: 
   - Recurring tasks completed in batches, typically 1–8 days after due date
   - Historical batch completion: most recent batches all completed on same-day cycles after due dates pass
@@ -32,9 +32,9 @@
 
 ## Recent Activity
 - **Current state**: 1 open task in active cycle (recurring)
-  - Office Cleaning due 2026-05-16 (Meredith O'hara Needham)
+  - Pay Rent due 2026-05-25 (Meredith O'hara Needham)
 - **Operational momentum**: Project continues efficient batch completion pattern; recurring schedule is stable and predictable
-- **Data update**: "Ongoing Office Purchasing List" task removed from current task list (may have been archived or consolidated into workflow)
+- **Data update**: Task list now reflects "Pay Rent" as the primary open task (replacing "Office Cleaning" from prior snapshot); confirms monthly rent payment workflow is active and on schedule
 
 ## Notes & Context
 
