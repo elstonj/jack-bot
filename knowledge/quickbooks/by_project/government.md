@@ -55,29 +55,8 @@
 
 ## Expenses by Cost Category
 
-### **Subcontractors: $713,366.45**
-**Number of transactions:** 90  
-**Key vendors & items:**
-- **Weather Stream (Milestone payments):** $448,200.00 (SMM Phase II milestones 2-8)
-- **Matthew Crabtree (PCB assembly, rework, parts sourcing):** $67,425.53
-  - Bill #BST-April2026-1 (2026-04-22): $14,479.45 (Parts/Materials & IRAD allocation)
-  - Bill #BST-March2026-2 (2026-04-22): $24,224.02 (Parts/Materials & IRAD allocation; second half of $48,448.05 March invoice)
-- **Ted Miles (NASA AREN labor):** $49,350.80 (627 total hours tracked)
-- **MicroFirm Engineering (Hurricane work):** $84,744.10 (labor 110+ hours, parts)
-  - **Bill #3912** (2026-05-01): $812.50 (6.5 hours @ $125/hr, direct cost subcontractor allocation)
-- **EKase Consulting LLC (TABA support, business consulting):** $13,600.00
-- **Embry Riddle University (STTR subcontract):** $56,290.00
-- **Old Dominion University Research Foundation (STTR N25A-T025):** $10,000.00
-- **PHASE1 AVIATION LLC (S0 Wings):** $24,105.00
-- **Northwind Composites (S0 fuselage, launcher tubes, machining):** $20,696.53
-- **Summit Assembly LLC (PCB assembly):** $13,744.00
-- **Cetacean Research Technology (R&D development):** $1,323.00
-- **University of Colorado Boulder (Black Swift/NASA Night Fox):** $1,840.00
-
----
-
-### **Materials & Supplies: $457,884.65**
-**Number of transactions:** 187  
+### **Materials & Supplies: $461,872.65**
+**Number of transactions:** 188  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
 - **JAWSTEC:** $19,627.62 (components for S0 platforms)
@@ -86,7 +65,11 @@
 - **Microwave Filter Company / Pressure sensor imports:** $46,079.48 (tariffs included)
 - **General electronics components:** ~$50,000+ (various suppliers)
 - **Composite materials (thermoset laminates, tubes):** 
-  - $4,164.75 + $2,776.50 (Northwind Composites, 2026-05-18) = **$6,941.25 total**
+  - **Northwind Composites:**
+    - $2,776.50 (2026-05-18, Thermoset Laminate Linen Tubes) [DC-Direct Material Purchases]
+    - $555.30 (2026-05-18, Direct materials) [DC-Direct Material Purchases]
+    - $4,164.75 (2026-05-18, Total purchase including $832.95 inventory asset for 6 future S0s)
+  - **Total composite materials: $6,941.25**
 - **Motors, brushless components:** $181.85 + $55.46
 - **S0 wing components:** Multiple purchases totaling $12,200+
 - **PCB boards, stencils, parts sourcing:** ~$30,000+
@@ -108,13 +91,34 @@
   - **$555.30 [DC-Direct Material Purchases]** — Additional direct materials
   - $832.95 [Inventory Asset] — For future sales of 6 S0s
   - **Project scope:** 2026 IDIQ, Sasquatch, 6 future S0 sales
+  - **Vendor:** Northwind Composites (Lee Skidmore)
   
 - **Purchase #68728** (2026-05-14): **$1,037.48** [Mixed allocations]
   - $339.13 [DC-Direct Material Purchases]
   - $698.35 [Inventory Asset] — Future S3 Sales
 
-**Total new direct cost materials & supplies (2026-05-14 to 2026-05-18): $4,164.75**  
-**Cumulative materials & supplies (all direct costs): $457,884.65** *(updated from $453,719.90)*
+**Total direct cost materials & supplies through 2026-09-28: $461,872.65** *(updated from $453,719.90)*
+
+---
+
+### **Subcontractors: $713,366.45**
+**Number of transactions:** 90  
+**Key vendors & items:**
+- **Weather Stream (Milestone payments):** $448,200.00 (SMM Phase II milestones 2-8)
+- **Matthew Crabtree (PCB assembly, rework, parts sourcing):** $67,425.53
+  - Bill #BST-April2026-1 (2026-04-22): $14,479.45 (Parts/Materials & IRAD allocation)
+  - Bill #BST-March2026-2 (2026-04-22): $24,224.02 (Parts/Materials & IRAD allocation; second half of $48,448.05 March invoice)
+- **Ted Miles (NASA AREN labor):** $49,350.80 (627 total hours tracked)
+- **MicroFirm Engineering (Hurricane work):** $84,744.10 (labor 110+ hours, parts)
+  - **Bill #3912** (2026-05-01): $812.50 (6.5 hours @ $125/hr, direct cost subcontractor allocation)
+- **EKase Consulting LLC (TABA support, business consulting):** $13,600.00
+- **Embry Riddle University (STTR subcontract):** $56,290.00
+- **Old Dominion University Research Foundation (STTR N25A-T025):** $10,000.00
+- **PHASE1 AVIATION LLC (S0 Wings):** $24,105.00
+- **Northwind Composites (S0 fuselage, launcher tubes, machining):** $20,696.53
+- **Summit Assembly LLC (PCB assembly):** $13,744.00
+- **Cetacean Research Technology (R&D development):** $1,323.00
+- **University of Colorado Boulder (Black Swift/NASA Night Fox):** $1,840.00
 
 ---
 
@@ -126,9 +130,3 @@
   - *Note: Additional $79.25 for future S3 sales inventory asset in separate category*
 
 ---
-
-### **Rent/Facilities: $21.43**
-**Number of transactions:** 1  
-**Details:**
-- **Shop Supplies** (2026-05-14, Purchase #0513JELSTON): $21.43 [FA-Shop Supplies]
-  - Part of mixed facility/direct cost allocation

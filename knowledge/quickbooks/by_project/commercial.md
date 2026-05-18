@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $2,877,251.34
-- **Total Expenses (Bills + Purchases):** $229,553.41
+- **Total Expenses (Bills + Purchases):** $233,718.16
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,647,697.93 (Revenue exceeds expenses)
+- **Net Position:** $2,643,533.18 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – May 18, 2026
 
 ---
@@ -82,6 +82,21 @@
 
 ## Expenses by Cost Category
 
+### **Materials & Supplies (Direct Cost Purchases)**
+**Total: $83,370.51** | 15 transactions | Largest item: $4,164.75
+
+#### Direct Cost Material Purchases
+- **Purchase #334139 (2026-05-18):** $4,164.75
+  - $2,776.50 — Thermoset Laminate Linen Tubes (shipped to Lee Skidmore/Northwind Composites)
+  - $555.30 — Additional materials
+  - $832.95 — Allocation to Inventory Asset (future sales of 6 S0s)
+  - **Direct cost allocation:** $3,331.80
+  - **Projects:** 2026 IDIQ, Sasquatch S0s, future S0 sales
+
+- **Previous materials purchases (detailed in prior knowledge file):** $79,038.71
+
+---
+
 ### **Subcontractors (Direct Cost)**
 **Total: $1,990.83** | 1 transaction | Largest item: $1,990.83
 
@@ -109,18 +124,4 @@
 
 ---
 
-### **Materials & Supplies (Direct Cost Purchases)**
-**Total: $79,205.76** | 14 transactions | Largest item: $4,164.75
-
-#### Direct Cost Purchases
-- **Purchase #334139 (2026-05-18):** $4,164.75
-  - $2,776.50 — Thermoset Laminate Linen Tubes (shipped to Lee Skidmore/Northwind Composites)
-  - $555.30 — Additional materials
-  - $832.95 — Allocation to Inventory Asset (future sales of 6 S0s)
-  - **Direct cost allocation:** $3,331.80
-  - **Projects:** 2026 IDIQ, Sasquatch S0s, future S0 sales
-
----
-
 ### **Other**
-**Total: $147,216.51** | [Requires account-level detail from source QB

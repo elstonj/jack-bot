@@ -50,6 +50,20 @@
   - Regular SBIR submission cycle (annual/biennial)
   - Strong investor outreach activity (2022–2023 timeframe)
 
+## Marketing Strategy
+- **SMART Goals**: 
+  - Increase brand awareness
+  - Drive website traffic
+  - Lead generation
+  - Grow audience
+  - Increase engagement
+  - Drive revenue
+- **Ideal Customer Profile**: Government/institutional customers via LinkedIn and email
+  - **NOAA**
+  - **NASA** (Aren 2023: $90K)
+  - **DoD**
+  - **CO OEDIT** ($152K)
+
 ## Recent Activity
 
 ### Completed Tasks (2024-2025)
@@ -78,20 +92,6 @@
 
 ## Notes & Context
 
-### Marketing Strategy
-- **SMART Goals**: 
-  - Increase brand awareness
-  - Drive website traffic
-  - Lead generation
-  - Grow audience
-  - Increase engagement
-  - Drive revenue
-- **Ideal Customer Profile**: Government/institutional customers via LinkedIn and email
-  - NOAA
-  - NASA (Aren 2023: $90K)
-  - DoD
-  - CO OEDIT ($152K)
-
 ### Key Customers & Partners
 - **Government/Institutional**: NOAA, NASA, DoD, Colorado OEDIT
 - **Investor Outreach** (2022–2023): 
@@ -119,6 +119,6 @@
 ### Key Observations
 - **Funding Pipeline Health**: Multiple large proposals ($300K–$896.5K range) submitted but not funded in 2024–2025; suggests need to refine proposal strategy or expand pipeline diversity
 - **Proposal Cadence**: Regular SBIR submission cycle with strong organizational support (LOIs, MOUs, support letters tracked systematically)
-- **Strategic Maturity**: Well-defined core values, structured marketing goals, and clear customer segmentation indicate developed business strategy
+- **Strategic Maturity**: Well-defined core values, structured marketing goals (SMART framework), and clear customer segmentation (government/institutional via LinkedIn/email) indicate developed business strategy
 - **Operational Transition**: Ongoing shift from spreadsheet-based financial management to integrated QuickBooks reporting (Aug 2024 update indicates progress)
-- **Deployment Status (April 2026)**: Mexico USGS volcano deployment delayed to Fall 2026
+- **

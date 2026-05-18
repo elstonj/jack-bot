@@ -1,10 +1,10 @@
 # Jack Elston — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,411 (2,314 prior + 97 new May 15–16)
-- **Date range:** April 1–May 16, 2026
+- **Total messages scanned:** 2,423 (2,314 prior + 97 May 15–16 + 12 May 17–18)
+- **Date range:** April 1–May 18, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **May 15–16 activity:** 97 new messages. May 16 shows 11 messages with heavy Krateo Sky weekend activity (internal team coordination, personal sync scheduling), government/regulatory contact (Elmer Richardson/trade.gov), industry events (Boulder Startup Week), and automated purchasing/vendor updates. Weekend communication pattern indicates active deal/partnership momentum.
+- **May 17–18 activity:** 12 new messages. Pattern shift toward vendor/procurement notifications and continued Krateo Sky engagement (personal sync with Lisa Marie Cheney). Weekend activity sustained through Monday morning.
 
 ---
 
@@ -13,27 +13,20 @@
 ### Top Internal BST Contacts
 
 - **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical partnerships, government coordination, vendor/facility liaison
-  - **May 15 NEW (IMPORTANT):** Sent invitation to TB2 Aerospace visit (May 28, 10:30am–12pm MDT) to Jack and Maciej Stachura (18:36 UTC; IMPORTANT). Recipients: Jack Elston, Maciej Stachura. **Signal:** In-person aerospace/manufacturing partnership development.
-  - **May 15 NEW (IMPORTANT):** Coordinating Arctic UAS Demo in Ottawa with Stephen Rowlands/Invest Ottawa (13:40 MDT; IMPORTANT). **Signal:** International UAS demonstration coordination; Canadian market/partnership exploration.
-  - **May 15 NEW (IMPORTANT):** Coordinating Atmolab Camera System vendor integration (12:42 MDT; IMPORTANT). **Signal:** Sensor/payload integration with EU vendor.
-  - **May 15 NEW (IMPORTANT):** Coordinating AFAC Approval information with AV3 Aerovisual (Joe Villa-Michel) (12:16 MDT; IMPORTANT). **Signal:** Regulatory approval pathway coordination.
-  - **May 15 NEW (IMPORTANT):** Discussing Vuncan Demo coordination (10:24 MDT; IMPORTANT). Contact: Hank Scott/TB2 Aerospace. **Signal:** Product demo orchestration.
+  - May 15 signals: TB2 Aerospace visit coordination (May 28), Arctic UAS Demo (Ottawa/Canadian market), Atmolab Camera System integration, AFAC Approval pathway, Vuncan Demo coordination
   - **Continuing:** Central hub for government, vendor, facility, and partnership coordination.
 
 - **Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, operations, partnerships
-  - **May 15 NEW (IMPORTANT):** Received employment opportunity forwarding ("Interested in BST - Mech. Eng. Openings?" forwarded to Meredith 00:07 UTC; IMPORTANT, SENT). **Signal:** Recruitment activity; engineering hiring pipeline.
-  - **May 15 NEW:** Involved in bill pay processing to Amprius Technologies (battery supplier) (17:16–17:24 UTC). **Signal:** Continued material procurement/payments.
+  - May 15 signals: Recruitment activity (engineering hiring), bill pay processing (Amprius Technologies/batteries)
+  - **May 17–18 NOTE:** Appears as recipient of vendor notifications (HeliDirect) routed through purchasing@blackswifttech.com alias
   - **Continuing:** Critical to operations, finance, and strategic partnerships.
 
 - **Maciej Stachura** (stachura@blackswifttech.com) — Operations, technical coordination, partnerships
-  - **May 15 NEW (IMPORTANT):** Recipient of Krateo Sky Industrial Plan draft approval email from Sona Raziabeegum (22:54 UTC; IMPORTANT, UNREAD) alongside Jack Elston. **Signal:** Maciej has operational/technical sign-off authority on partnership structuring.
-  - **May 15 NEW (IMPORTANT):** Included on TB2 Aerospace visit invitation from Daniel Prendergast (18:36 UTC; IMPORTANT).
-  - **May 15 NEW (IMPORTANT):** Recipient of Krateo Sky/Sona Raziabeegum email re: BST Data Request (Benefits & Payroll Evaluation) (05:17 UTC prior data; IMPORTANT).
+  - May 15 signals: Krateo Sky Industrial Plan draft approval authority, TB2 Aerospace visit, operational/technical sign-off role
   - **Continuing:** Multi-dimensional operational, technical, and partnership role.
 
 - **Beck Cotter** (beck.cotter@blackswifttech.com) — Operations, technical partnerships
-  - **May 15 NEW (IMPORTANT):** Sent S0 datasheet email to Elizabeth R Sanabia (UW) and Jack Elston (18:55 EDT; IMPORTANT). **Signal:** Active ONR proposal technical specification finalization.
-  - **May 15 NEW (IMPORTANT):** Recipient of S0 datasheet response from Elizabeth R Sanabia (23:06 UTC; IMPORTANT, UNREAD). **Signal:** Academic partner providing critical technical feedback.
+  - May 15 signals: ONR proposal technical specification finalization, S0 datasheet coordination with UW partner
   - **Continuing:** ONR/academic partnership technical lead.
 
 ### Top External Contacts
@@ -41,22 +34,89 @@
 #### **Krateo Sky (CRITICAL ESCALATION — STRATEGIC PARTNERSHIP/POTENTIAL ACQUISITION)**
 
 **Sona Raziabeegum** (sona@krateosky.com) — Krateo Sky Partnership/Strategy Lead
-- **May 16 NEW (CRITICAL ESCALATION):** Sent "Re: Sona / Jack Sync" to Jack (16:42:31 UTC; UNREAD, IMPORTANT). **Signal:** Personal strategic sync between Jack and Sona ongoing over weekend; likely discussing partnership/industrial plan next steps or integration workshop rescheduling.
-- **May 15 NEW (CRITICAL ESCALATION):** Sent **"Black Swift Industrial Plan: Updated Draft for Your Approval"** to Jack and Maciej Stachura (22:54 UTC; IMPORTANT, UNREAD). **Signal:** Krateo Sky moving from partnership discussions to formal business structure planning. Industrial plan (likely post-acquisition or joint entity structure) in draft stage requiring BST approval.
-- **May 15 NEW (IMPORTANT):** Jack responded to Sona's earlier email re: Integration Workshop scheduling/decline (16:34 MDT; SENT).
-- **May 15 NEW (CRITICAL):** Sona sent "RE: Declined: PLACEHOLDER: KS x Black Swift Integration Workshop" (22:31 UTC; IMPORTANT, UNREAD). **Signal:** Calendar coordination around strategic workshop; workshop still being negotiated/rescheduled.
-- **May 15 NEW (IMPORTANT):** Sona sent "RE: BST Data Request: Benefits & Payroll Evaluation" (17:36 UTC; IMPORTANT, UNREAD). **Signal:** Krateo Sky processing HR/benefits evaluation data previously requested by Jack (May 15, 09:58 MDT; SENT).
-- **May 14 prior:** Sona had requested "BST Data Request: Benefits & Payroll Evaluation" (May 15, 01:47 UTC from prior data).
+- **May 16 signal:** Personal strategic sync ("Re: Sona / Jack Sync") on weekend (16:42:31 UTC; UNREAD)
+- **May 15 signals:** Industrial plan draft approval, integration workshop rescheduling, HR/payroll data exchange
 - **Pattern:** Rapid escalation from operational updates → strategic integration workshop → industrial plan drafting → HR/payroll data exchange. **Strong signal of acquisition discussions or formal joint venture structuring.**
 
 **Brian Grubel** (Brian@krateosky.com) — Krateo Sky Leadership
-- **May 16 NEW (IMPORTANT):** Sent "Re: Fun Friday Update" to Jack, Adria Passola, Scott Wine, Bob Smith, Lisa Marie Cheney, Sona Raziabeegum (12:34:11 UTC; UNREAD, IMPORTANT). **Signal:** Broad Krateo Sky team weekend engagement; internal strategic updates being shared with Jack.
-- **May 15 NEW:** Recipient of broad KS team email "PLACEHOLDER: KS x Black Swift Integration Workshop" from Sona (21:57 UTC; IMPORTANT).
+- **May 16 signal:** "Re: Fun Friday Update" sent to broad KS team including Jack (12:34:11 UTC; UNREAD)
+- **Pattern:** Weekend strategic team updates being shared with Jack Elston
 
 **Lisa Marie Cheney** (LisaMarie@krateosky.com) — Krateo Sky Operations/Coordination
-- **May 16 NEW (IMPORTANT):** Sent "Re: Fun Friday Update" to Jack, Brian Grubel, Adria Passola, Scott Wine, Bob Smith, Sona Raziabeegum (14:54:06 UTC; UNREAD, IMPORTANT). **Signal:** Team-wide engagement on weekend strategic updates.
-- **May 15 NEW:** Recipient of broad KS team email from Sona (21:57 UTC; IMPORTANT).
+- **May 17 NEW:** Jack sent "Re: Fun Friday Update" to Lisa Marie Cheney (23:50:08 -0600; SENT)
+- **May 16 prior:** Sent "Re: Fun Friday Update" broad team email
+- **Pattern:** Continued weekend engagement on Krateo Sky strategy
 
 **Adria Passola** (a@krateosky.com) — Krateo Sky Technical/Vendor Liaison
-- **May 16 NEW (IMPORTANT):** Recipient of Brian Grubel's "Re: Fun Friday Update" (12:34:11 UTC; UNREAD, IMPORTANT).
-- **May 16 NEW (IMPORTANT):** Recipient of Lisa Marie Cheney's "Re: Fun Friday Update" (14:54:06 UTC; UNREAD, IMPORTANT).
+- May 16 signals: Team-wide engagement on weekend strategic updates
+
+---
+
+## Topic Patterns
+
+### Strategic Partnerships
+- **Krateo Sky (dominant):** Industrial plan, integration workshop, benefits/payroll evaluation, partnership structuring
+- **TB2 Aerospace:** In-person visit coordination (May 28), Vuncan Demo
+- **Arctic UAS:** International demonstration (Ottawa/Canadian market via Invest Ottawa)
+- **Academic partnerships:** UW (Elizabeth R Sanabia), ONR proposals
+
+### Vendor/Procurement (May 17–18 spike)
+- **Battery suppliers:** Amprius Technologies (ongoing)
+- **Components:** DigiKey (shipments), Hobbyking (flash deals)
+- **Equipment suppliers:** Speedway Motors, Harbor Freight, Spindrift (beverages/office supplies)
+- **Helicopter/RC equipment:** HeliDirect (Spirit W3 FBL wiring guides)
+- **European battery solutions:** Dace Spandega/Perkonsenerģija (notifications)
+
+### Events & Forums
+- **SSD 2026 Defence Expo** (23 days remaining — exhibitor spaces)
+- **Rocky Mountain Advanced Manufacturing Expo** (September 18, 2026 registration)
+- **Boulder Startup Week** (prior data)
+- **STATION Austin** (Joshua Baer/Media Relations — May 18–22 weekly updates)
+
+### Regulatory/Government
+- **Trade.gov contact** (Elmer Richardson — prior data)
+- **AFAC Approval pathway** coordination
+
+---
+
+## Communication Patterns
+
+### Time Patterns
+- **Weekend activity sustained:** Multiple messages May 15–17 on Saturday/Sunday (Krateo Sky syncs, personal correspondence with Lisa Marie Cheney)
+- **Early morning Monday (May 18):** Purchasing/vendor notifications accumulate (02:20–08:04 UTC)
+- **High frequency on strategic items:** Krateo Sky emails show same-day/next-day turnarounds (hours apart)
+
+### Message Categories (May 17–18)
+- **Vendor/Purchasing notifications:** 10/12 new messages (83%)
+- **Strategic/Personal correspondence:** 2/12 (Krateo Sky, Lisa Marie Cheney sync)
+- **Unread rate:** 11/12 unread (92%) — suggests May 17–18 messages just arrived
+
+### Mailing Lists/Group Emails
+- **Krateo Sky internal team broadcasts:** Brian Grubel, Sona Raziabeegum send to broad KS + Jack circulation
+- **Purchasing broadcasts:** Vendor notifications routed through purchasing@blackswifttech.com alias (DigiKey, Speedway, Harbor Freight, Spindrift, Hobbyking)
+- **Info/Sales broadcasts:** SSD 2026 Expo (sales@blackswifttech.com → sales@bst.aero), RMAME Expo, STATION Austin
+
+### Automated Email Patterns (Separate from Human Correspondence)
+- **Vendor notifications:** 8 messages (Speedway Motors, Spindrift, DigiKey, Harbor Freight, Hobbyking, HeliDirect, Dace Spandega, Principal bill)
+- **Event/Forum notifications:** 3 messages (SSD 2026, RMAME Expo, STATION Austin)
+- **Total automated:** ~11/12 messages (92% of May 17–18 sample) — indicates purchasing/sourcing activity scaling
+
+---
+
+## Key Relationships
+
+### Closest Internal Collaborators (by frequency + strategic importance)
+1. **Maciej Stachura** — Operations/technical authority; joint approval on Krateo Sky Industrial Plan
+2. **Daniel Prendergast** — Government, vendor, facility coordination hub
+3. **Meredith Needham** — Finance, operations, partnerships (recruitment, bill pay authority)
+4. **Beck Cotter** — ONR/academic partnership technical lead
+
+### Critical External Relationships
+1. **Sona Raziabeegum (Krateo Sky)** — Personal strategic syncs; acquisition/joint venture discussions
+2. **Brian Grubel (Krateo Sky Leadership)** — Broad strategic team engagement
+3. **Lisa Marie Cheney (Krateo Sky Ops)** — Operational coordination; personal weekend correspondence
+4. **Daniel Prendergast's contacts:**
+   - **Hank Scott (TB2 Aerospace)** — Manufacturing partner; visit May 28
+   - **Stephen Rowlands (Invest Ottawa)** — Canadian UAS demonstration coordination
+   - **Joe Villa-Michel (AV3 Aerovisual)** — AFAC regulatory approval
+   - **Elizabeth R Sanabia (UW)**

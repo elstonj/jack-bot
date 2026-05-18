@@ -30,6 +30,6 @@ Single active maintenance task assigned to Jack Elston. Aircraft S10021 is curre
 ## Notes & Context
 - Project structure uses aircraft tail numbers as section headers (List view)
 - Custom fields configured: Repair vs New Feature, Aircraft Up vs Down, QC Required, Hardware/Software distinction
-- **Note:** S10021 appears in active task but was not listed in original aircraft scope (E20006, E20009, E20014, S10022, S10005, S20009, S20004, S30001) — may indicate fleet expansion or scope update
-- Previous placeholder task ("Test issue ***") has been replaced with a real maintenance item
+- **Note:** S10021 appears in active task but was not listed in original aircraft scope (E20006, E20009, E20014, S10022, S10005, S20009, S20004, S30001) — indicates fleet expansion or scope update
 - The autopilot repair is a hardware issue with no QC requirement, and the aircraft is grounded until complete
+- Fleet tracking is operational with one active maintenance action; other aircraft sections likely contain no current tasks

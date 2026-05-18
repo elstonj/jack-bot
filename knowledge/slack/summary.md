@@ -1,18 +1,13 @@
 # Slack Channels Overview
 
-Last scanned: 2026-05-16 02:15
+Last scanned: 2026-05-18 02:11
 
-Total channels scanned: 7
+Total channels scanned: 2
 
 ## Channels
 
-- **#commercial-sales** -- 1 messages -- [commercial-sales.md](commercial-sales.md)
-- **#emass-bst** -- 3 messages -- [emass-bst.md](emass-bst.md)
-- **#flight-testing** -- 14 messages -- [flight-testing.md](flight-testing.md)
+- **#flight-testing** -- 1 messages -- [flight-testing.md](flight-testing.md)
 - **#general** -- 1 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 4 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#s3** -- 14 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 5 messages -- [sbir-hurricane.md](sbir-hurricane.md)
 
 ## Strategic Summary
 
@@ -20,31 +15,32 @@ Total channels scanned: 7
 
 ## Cross-Channel Themes
 
-### Active Projects
-- **SBIR Hurricane (S0)**: Primary government-funded reconnaissance aircraft; extensive technical development and mission planning
-- **S3 VTOL**: Long-endurance hybrid fixed-wing/quadcopter with tilting rotors; core product development focus
-- **E2 Platform**: Multi-role aircraft serving as baseline for payload integrations and commercial applications
-- **ECSDoT Integration**: Energy management system collaboration with eMASS AI for E2 platform enhancement
+### Active Projects & Platforms
+- **Aircraft Portfolio:** Fixed-wing (S-series), multirotor (E2, Flamewheel), and VTOL platforms (S0, S1-VTOL, S3)
+- **Development Focus:** Firmware/software development, payload integration, and flight testing coordination
+- **Operational Scope:** Spans from component sourcing to field testing to company-wide announcements
 
-### Key Decision-Makers & Roles
-- **Jack Elston**: Strategic leadership, autopilot/firmware expertise, primary funding decision authority
-- **Joshua Fromm**: Lead design engineer, QA, component sourcing
-- **Maciej**: Technical project oversight, flight testing leadership, proposal support
-- **Dan Prendergast**: Business development, operations, proposal writing
-- **Meredith Needham**: Budget and administrative management
+### Key People & Roles
+| Person | Primary Role |
+|--------|-------------|
+| **Jack Elston** | Leadership, firmware development |
+| **Maciej** | Lead flight testing and analysis |
+| **Joshua Fromm** | QA and component sourcing |
+| **Dan Prendergast** | Business development and operations |
+| **Ben Busby** | Flight testing operations |
+
+*Additional core team:* Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Nate, Alex Lomis
 
 ### Decision Patterns
-1. **Funding-Driven Development**: Grant/SBIR programs (#grants-and-funding) heavily influence technical priorities and timelines
-2. **Hardware-First Testing**: Flight testing (#flight-testing) validates design decisions; issues drive rapid iteration
-3. **Centralized Engineering**: Small technical core (Fromm, Elston, Maciej) owns major architecture decisions
-4. **Government-First Market**: SBIR, NASA, DOD, NOAA relationships dominate over commercial sales
+- **#flight-testing** = Technical troubleshooting and operational coordination (firmware, aircraft systems, payloads)
+- **#general** = Company-wide announcements, strategic decisions, and cross-functional coordination
 
-### Recurring Topics Across Channels
-- **Firmware/autopilot updates**: Jack Elston drives specifications; impacts flight testing and all aircraft platforms
-- **Component sourcing & supply chain**: Joshua Fromm coordinates; affects project timelines
-- **Battery/endurance performance**: Critical constraint across S3, E2, and ECSDoT projects
-- **Flight test results & troubleshooting**: Loops back to design decisions in #s3 and #sbir-hurricane
-- **Proposal deadlines**: Drive resource allocation visible across technical and commercial channels
+### Recurring Topics
+- Flight test execution and analysis
+- Hardware/firmware debugging and integration
+- QA and component management
+- Team coordination and operational planning
 
-### Organizational Structure Insight
-BST operates as a **project-based portfolio** with shared technical infrastructure (firmware, platforms, test facilities). Jack Elston functions as CEO/CTO; engineering decisions cascade through Fromm and Elston; Maciej serves as operations/testing lead; business development (Prendergast) and admin (Needham) support commercial and grant execution.
+### Cross-Channel Connections
+- Flight testing issues flow between channels (technical details in #flight-testing, company updates in #general)
+- Same core team members active across both channels, indicating tight operational integration

@@ -26,10 +26,10 @@
 ## Task Summary
 - **Total tasks**: 425+ completed, 0 open (100% completion rate)
 - **Primary assignees**:
-  - **Jack Elston**: Led most technical flight operations, flight control algorithm troubleshooting, GCS/HDOB integration, wind estimation fixes, sensor QC, magnetometer calibration
-  - **Josh Fromm**: Project management, QC/final assembly coordination, weekly status updates, manufacturing coordination, housing installation, sealing
+  - **Jack Elston**: Led most technical flight operations, flight control algorithm troubleshooting, GCS/HDOB integration, wind estimation fixes, sensor QC, magnetometer calibration, MHTP development and hardware verification
+  - **Josh Fromm**: Project management, QC/final assembly coordination, weekly status updates, manufacturing coordination, housing installation, sealing, MHTP mechanical assembly
   - **Dan Prendergast**: Flight algorithm testing and validation
-  - **Maciej Stachura**: Flight control algorithms, vertical wind bias correction, pitot tube diagnostics, code updates with wind tunnel calibrations and real-time wind estimation
+  - **Maciej Stachura**: Flight control algorithms, vertical wind bias correction, pitot tube diagnostics, code updates with wind tunnel calibrations and real-time wind estimation, MHTP firmware development and testing
   - **Ben Busby**: Flight operations, preflight checklist procedures, path planning optimization
   - **Meredith O'hara Needham**: Manufacturing (MHTP modules), shipping coordination, sensor management
   - **Nate Straus**: Manufacturing, packing/shipping logistics
@@ -38,13 +38,19 @@
   - Heavy focus on field deployment readiness with extensive testing, QC, and shipping coordination (July 2024)
   - Intensive flight operations and troubleshooting phase (August-October 2024) addressing wind estimation, GPS/altitude issues, flight termination logic
   - Strong emphasis on HDOB (Hurricane Data Operations) integration and scientist-facing interfaces
-  - Multiple tasks related to RS421 sensor issues and replacements
-  - Detailed MHTP board development and validation workflow (sensor procurement, PCB QC, wind tunnel calibrations, magnetometer calibration, dynamic pressure testing)
+  - Multiple tasks related to RS421 sensor interface robustness and reliability
+  - Detailed MHTP board development and validation workflow spanning 2023: sensor procurement, PCB QC, wind tunnel calibrations, magnetometer calibration, dynamic pressure testing, firmware updates, housing installation, sealing, and data integration verification
 
 ---
 
 ## Recent Activity
 **Project Status**: Archived January 3, 2024. All work completed successfully.
+
+**MHTP Deliverable Timeline (2023)**:
+- **March-April 2023**: Sensor ordering, mechanical component procurement, initial QC, code updates with wind tunnel calibrations and real-time wind estimation
+- **April-May 2023**: Board testing, S2 test rig installation, dynamic pressure clog testing, sealing, serial number assignment
+- **May 2023**: Sent to Area-I for initial integration
+- **July-September 2023**: Data retrieval verification, magnetometer calibration completion, firmware orientation updates, completed 2023-09-21
 
 Final project phase (Aug-Oct 2024) focused on hurricane field operations and system validation:
 - **Late July 2024**: Shipped 12 S0 UAS units to NOAA AOC (ahead of schedule)
@@ -74,17 +80,25 @@ Final project phase (Aug-Oct 2024) focused on hurricane field operations and sys
 - Mission planning for tropical cyclone research
 - Real-time data transmission and GCS integration
 - RS421 sensor interface for robust data transmission in harsh conditions
+- Dynamic pressure measurement with raw sensor data logging for clog mitigation in precipitation
 
 **Key Technical Achievements**:
-- Successful HDOB integration with GCS
-- Wind estimation algorithm refinement (including vertical wind bias correction)
+- Successful HDOB integration with GCS and Area-I computer
+- Wind estimation algorithm refinement including real-time capability and vertical wind bias correction
 - Robust flight termination logic and failsafe procedures
 - Multi-system coordination (S0 UAS with P3 aircraft altitude separation protocols)
 - Tablet-based field operations interface
-- MHTP board development with magnetometer calibration and dynamic pressure testing capability
-- Raw sensor data logging for post-flight analysis and clog mitigation in precipitation
+- MHTP board development with:
+  - Magnetometer calibration procedure (over UART)
+  - Dynamic pressure testing capability for clog detection
+  - Firmware updates with correct sensor orientation defaults
+  - Raw sensor data output for post-flight analysis and precipitation performance assessment
+  - Data retrieval verification via Area-I computer interface
+- RS421 interface robustness (final verification task)
 
-**Contractual Notes**: GPC (Dr. Cione) and UPC (Dr. Jun Zhang) serve as Subject Matter Experts for non-contractual technical questions. Any technical disagreements or contractual changes must be directed to the Contracting Officer (CO).
+**Contractual Notes**: 
+- GPC (Dr. Cione) and UPC (Dr. Jun Zhang) serve as Subject Matter Experts for non-contractual technical questions
+- Any technical disagreements or contractual changes must be directed to the Contracting Officer (CO)
 
 **Field Deployment**: Successfully conducted hurricane field studies in partnership with NOAA Hurricane Research Division (HRD) and National Hurricane Center (NHC), with units staged at NOAA Atlantic Oceanographic and Meteorological Laboratory (AOML) in Miami.
 
@@ -109,18 +123,4 @@ Final project phase (Aug-Oct 2024) focused on hurricane field operations and sys
   - Kick-off Slidedeck (template provided) — Due: April 14, 2026
   - Report templates and instructions: https://navysbir.com/links_forms.htm
 - **Technical Lead**: Designated team member (per Maciej, 4/21/26)
-- **Current Status**: Mostly on schedule (Maciej, 5/6/26); Jack Elston notes Navy STTR has priority, SBIR is mostly on schedule (5/8/26)
-
----
-
-## Current Team Priorities (as of May 2026)
-
-Per Maciej (4/24/26 & 4/30/26), the highest priority projects with daily overdue task tracking are:
-1. **S3 IRAD** — Targeted delivery end of May for UMES S3
-2. **S0-VTOL** — Two deliveries (ERAU and Barbados)
-3. **Closing out EMASS**
-4. **By-Lite Mustang**
-5. **Navy STTR** (elevated priority, 5/8/26 correction from Jack)
-6. **SBIR Magnetometer** (initial tasks, mostly on schedule)
-
-*Note: Hurricane Phase II+ is archived. These represent current active work.*
+- **Current Status**: Mostly on schedule (
