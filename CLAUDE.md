@@ -42,9 +42,9 @@ Jack Bot is meant to **replace the head of operations and project managers** at 
 - Unified `route_message()` handles all natural language commands
 - Commands: `help`, `tasks`, `finances`, `company finances`, `bug:`, `feature:`, `bugs`, `features`, `correct:`, `note:`, `weather`
 - Weather intent is matched on more than `startswith("weather")` — `is_weather_intent()` catches natural-language variants (e.g. "wind at the sod farm", "can we fly at BMA") and `match_sites()` filters to a specific site when one is named. Site aliases are configured in `weather.py` `SITE_ALIASES`
-- `handle_mention()` only strips the leading bot mention; embedded `@user` mentions in commands like `correct: @Joshua has time tracked` are preserved
+- `handle_mention()` only strips the leading bot mention; embedded `@user` mentions in commands like `correct: @Joshua has time tracked` are preserved. The strip regex accepts both `<@U…>` and the pipe form `<@U…|Display Name>` Slack delivers in some contexts
 - Teaching moments auto-detected ("KS = Krateo Sky", "FYI...", "X stands for Y") and stored as knowledge
-- Routing order inside `route_message()` (after pending-proposal check): help → weather → tasks → company finances → finances → bug/feature/note/correct → teaching → **task-update intent** → question → personality fallback
+- Routing order inside `route_message()` (after pending-proposal check): help → weather → tasks → company finances → finances → purchase check → bug/feature/note/correct → teaching → **task-update intent** → **(in #commercial-sales) commercial-sales update intent** → **(in #commercial-sales) commercial-sales inquiry intent** → question → personality fallback
 - Questions route to knowledge Q&A with live search fallback
 - Non-questions route to personality chat
 - Replies in #operations (daily tasks channel) stored as implicit feedback (via real-time event + pipeline-time sync fallback)
@@ -76,6 +76,20 @@ Jack Bot is meant to **replace the head of operations and project managers** at 
 - State is in-memory — lost on Railway restart (acceptable; proposals are short-lived)
 - Safety gate: no task-update flow without a project resolved from the channel
 
+### Commercial Sales Pipeline (`commercial_sales.py`, `commercial_sales_inquiry.py`, `commercial_sales_reply.py`, `commercial_sales_admin.py`, `scanners/commercial_sales_scanner.py`)
+- Tracks customer orders (`Build`) and repairs (`SupportCase`) for BST's commercial side. Two parallel state machines per Build (payment / build / ship) plus one for SupportCase. Persisted as JSON under `knowledge/commercial_sales/{builds,support}/`. Anchor: Asana gid (Build) or `SC-YYYY-NNN` (SupportCase).
+- **Morning digest** — `scheduler.py::post_commercial_sales_digest` runs at 8:02am Mon-Fri, loads JSONs only (no LLM at post-time), renders one Slack card per active record into `#commercial-sales` with owner pings, state, contents, parts checklist, and a missing-info callout routing each gap to its responsible owner (Beck/Meredith/Nate per `BUILD_FIELD_ROLES` in `commercial_sales.py`).
+- **Filter** — `is_active(b)` keeps everything not in `ship_state="delivered"`, OR delivered within 30 days. Setting `ship_state=delivered + shipped_date=<date>` drops a record off the active list after 30 days.
+- **Thread replies** (`commercial_sales_reply.py`) — any reply under a card runs Haiku via `PARSE_REPLY_SYSTEM` to extract structured `{field, value}` updates. Prompt explicitly enumerates enum values and maps common phrases (e.g. "this is done / completed / shipped" on a Build → emit `ship_state=delivered + shipped_date=today + build_state=complete`). Without the synonyms, "this has been completed" used to set `ship_state="completed"` (invalid) and reject the whole update. Validated updates go through propose-and-confirm; on accept, `_apply_update_to_record` + `_save_record` write the JSON.
+- **Top-level inquiry** (`commercial_sales_inquiry.py::handle_inquiry`) — `#commercial-sales` messages asking about shipping/address/parts/POC/payment/serial/RMA/status (`is_inquiry_intent`) route here instead of falling through to `is_work_update`. Three branches:
+  1. **No match** → ask for customer + product + ship date, stub a placeholder JSON under `knowledge/commercial_sales/builds/_stubs/` so the next scan can promote it, log `[KNOWLEDGE_GAP]` (`record=unmatched`).
+  2. **Match + field has value** → answer directly.
+  3. **Match + field empty** → @-ping the right owner via `BUILD_FIELD_ROLES` / `SUPPORT_FIELD_ROLES`, log `[KNOWLEDGE_GAP]` with the specific field + record id.
+- **Top-level updates** (`commercial_sales_inquiry.py::handle_update_propose`) — `#commercial-sales` messages with action verbs (`is_update_intent`: "add X as owner to Y", "mark Z complete", "set ship_to for W to ...", "tracking 1Z999... for V") route here. Haiku via `UPDATE_PARSE_SYSTEM` extracts `(target, field, value)` tuples, supports multi-target ("to A and B"), defaults `add … as owner` without a role to `interface`. Each target is resolved via the same `_match_record` matcher as the inquiry flow, validated via `commercial_sales_reply._validate_update`, then proposed with before→after diffs for owner edits. On accept, applies + saves + logs `[FEEDBACK]` for audit.
+- **Pending state** is in-memory (lost on Railway restart, acceptable). The `commercial_sales_inquiry.PENDING` dict is keyed on `(user_id, channel_id)` with `kind ∈ {"inquiry", "update_proposal"}`. The unified `has_pending` + `handle_followup` dispatcher in that module is the single entry point `app.py` calls before normal intent routing.
+- **Admin commands** (`commercial_sales_admin.py`) — `show filtered` lists records the scanner dropped, `track this: <ref>` force-includes one from the filtered list, `create task for: <customer>` drafts a BD Pipeline Asana task. All propose-and-confirm.
+- **Phase 1 scanner** — `python scan.py commercial_sales --mode incremental` walks Asana commercial-sales tasks + impersonates `info@`/`sales@`/`support@` via the service account + reads `#commercial-sales` and runs Haiku per-record to update JSONs. The `_filtered.md` + `_unmapped_customers.md` files surface what didn't fit.
+
 ### Financial System (`finances.py`)
 - `finances` in a project channel looks up financial data via:
   1. Channel-to-project mapping (`knowledge/channel_projects.md`)
@@ -102,6 +116,10 @@ Jack Bot is meant to **replace the head of operations and project managers** at 
 - `[BUG]` and `[FEATURE]` knowledge entry types stored in Slack knowledge channel
 - `bug:` / `feature:` to log; `bugs` / `features` to list
 - Persists across deploys via Slack channel storage
+
+### Knowledge Entry Types (`knowledge.py`)
+The knowledge channel is the persistent store for everything that needs to survive a Railway redeploy. Each entry is `*[TYPE]*\n<content>`. Types: `PRIORITY`, `PROJECT`, `CLIENT`, `DELIVERABLE`, `TEAM`, `CORRECTION`, `FEEDBACK`, `INSIGHT`, `SOURCE`, `BUG`, `FEATURE`, `ERROR`, `SNAPSHOT`, `DEBUG`, `KNOWLEDGE_GAP`.
+- `[KNOWLEDGE_GAP]` is written by the commercial-sales inquiry handler whenever it can't fully answer — either `record=unmatched` (no Build/SupportCase resolved) or `field=<name> record=<gid>` (record matched but the field is empty). Body format: `field=… record=… asker=… inquiry=…`. These accumulate as the to-do list for tightening scanners — repeated misses on the same field tell you where the scanner needs more reach (PDF parsing, additional email regex, etc.).
 
 ## Key Data Sources
 | Source | Client | Scanner |
@@ -153,6 +171,8 @@ See `.env.example` for required variables. Key ones:
 - `python test_pipeline.py` — runs the full daily pipeline end-to-end with live Asana/Toggl/Google/Slack reads, but intercepts every Slack write (no posts to #operations, no knowledge-channel entries). Prints the team summary and per-user sections to stdout
 - `--verbose` echoes the suppressed writes so you can see what *would* have been posted (DEBUG, FEEDBACK, etc.)
 - `--full` appends Claude's raw pre-parse output
+- `python test_commercial_sales.py` — dry-run the commercial-sales digest render against current JSONs; `--scan` refreshes the JSONs first
+- `python test_commercial_sales_inquiry.py` — exercises `is_inquiry_intent`, `is_update_intent`, the no-match / matched-field / empty-field inquiry branches, and the multi-target update propose flow against live JSONs with intercepted Slack writes. `--verbose` dumps the captured posts (KNOWLEDGE_GAP, FEEDBACK)
 
 ## Models Used
 - Daily synthesis: `claude-sonnet-4-20250514` (8000 max tokens)
