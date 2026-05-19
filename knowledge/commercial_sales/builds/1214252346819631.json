@@ -14,7 +14,7 @@
   ],
   "payment_state": "invoice_sent",
   "build_state": "complete",
-  "ship_state": "none",
+  "ship_state": "delivered",
   "estimate_date": null,
   "invoice_date": "2026-05-08",
   "invoice_amount": 664.98,
@@ -45,7 +45,7 @@
   ],
   "tracking_number": "",
   "carrier": "",
-  "shipped_date": null,
+  "shipped_date": "2026-05-15",
   "owners": {
     "interface": "Beck",
     "invoicing": "Meredith",
@@ -56,8 +56,7 @@
     "ship_to",
     "receive_by",
     "customer_email",
-    "paid_date",
-    "shipped_date"
+    "paid_date"
   ],
   "last_evidence_date": "2026-05-18"
 }
