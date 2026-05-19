@@ -101,6 +101,46 @@ def main(argv):
         for p in fake.posted:
             print(f"  >> {p}")
 
+    # 5. Update intent — Beck's exact 2026-05-18 message ----------------
+    PENDING.clear()
+    print("\n== Beck's 'add Dan as owner' (multi-target update propose) ==")
+    from commercial_sales_inquiry import (
+        is_update_intent,
+        handle_update_propose,
+    )
+    msg = "add Dan Prendergast as owner to Canadian Defense Forces and NOAA - S0 launch off Ron Brown"
+    print(f"is_update_intent: {is_update_intent(msg)}")
+    fake = FakeSlackClient()
+    resp = handle_update_propose(
+        msg,
+        user_id="U07FN4QSNDN",
+        channel_id="C014L88992B",
+        slack_client=fake,
+        asker_name="Beck Cotter",
+    )
+    print(resp)
+    pend = PENDING.get(("U07FN4QSNDN", "C014L88992B"))
+    print(f"_(pending kind={pend.get('kind') if pend else None} "
+          f"resolved={len(pend.get('resolved', [])) if pend else 0})_")
+    if verbose and pend:
+        for r in pend.get("resolved", []):
+            print(f"  resolved >> {r}")
+
+    # 6. Update intent — "mark X complete" mapping -----------------------
+    PENDING.clear()
+    print("\n== 'mark <build> complete' (should propose ship_state=delivered + shipped_date) ==")
+    msg = "mark the Oklahoma S0 build complete and delivered today"
+    print(f"is_update_intent: {is_update_intent(msg)}")
+    fake = FakeSlackClient()
+    resp = handle_update_propose(
+        msg,
+        user_id="U01511MEQ90",
+        channel_id="C014L88992B",
+        slack_client=fake,
+        asker_name="Jack Elston",
+    )
+    print(resp)
+
     print("\nDone.")
 
 

@@ -92,6 +92,43 @@ def is_inquiry_intent(text: str) -> bool:
     return any(kw in low for kw in _INQUIRY_KEYWORDS)
 
 
+# --- Update intent detection ---------------------------------------------
+#
+# Action verbs that suggest the user wants to mutate a record. Followed by
+# Haiku to extract the structured {target, field, value} tuples. Gate stays
+# permissive so we don't drop legitimate updates phrased loosely.
+
+_UPDATE_VERB_PATTERNS = [
+    r"\badd\s+\S.*\b(?:as|to|on)\b",        # "add Dan as owner to X"
+    r"\bset\s+\S",                          # "set ship_to for X to ..."
+    r"\bmark\s+\S.*\b(?:complete|completed|done|finished|shipped|delivered|paid|invoiced)\b",
+    r"\bchange\s+\S.*\bto\b",
+    r"\bupdate\s+\S",
+    r"\breplace\s+\S.*\bwith\b",
+    r"\breassign\s+\S",
+    r"\b(?:invoice|invoiced|paid|shipped|delivered|complete[d]?)\b\s+(?:the|on|for)?\s*\S+",
+    r"\btracking\s+\S",                     # "tracking 1Z999... for X"
+    r"\bshift\s+\S.*\b(?:due|deadline|ship)\b",
+    r"\bmove\s+\S.*\b(?:due|deadline|ship)\b",
+]
+_UPDATE_INTENT_RE = re.compile("|".join(_UPDATE_VERB_PATTERNS), re.IGNORECASE)
+
+
+def is_update_intent(text: str) -> bool:
+    """Permissive gate — return True if the message looks like an update
+    command targeted at a customer build/case in #commercial-sales.
+
+    Strictly excludes questions (those go to is_inquiry_intent). The verb
+    pattern requires an action word + a target token, so "let's mark it done"
+    in chat won't fire unless followed by a record reference.
+    """
+    if not text:
+        return False
+    if "?" in text:
+        return False
+    return bool(_UPDATE_INTENT_RE.search(text))
+
+
 # --- Pending state --------------------------------------------------------
 
 
@@ -118,9 +155,42 @@ def _clear_pending(user_id: str, channel_id: str) -> None:
     PENDING.pop((user_id, channel_id), None)
 
 
+_PENDING_KINDS = ("inquiry", "update_proposal")
+
+
 def has_pending(user_id: str, channel_id: str) -> bool:
+    """True when this module is waiting on a follow-up from this user in this
+    channel — either an inquiry disambiguation/stub flow OR an update propose-
+    and-confirm. Routing layer calls this before normal intent dispatch so the
+    follow-up text doesn't get misclassified."""
     p = _get_pending(user_id, channel_id)
-    return bool(p) and p.get("kind") == "inquiry"
+    return bool(p) and p.get("kind") in _PENDING_KINDS
+
+
+def handle_followup(
+    text: str,
+    user_id: str,
+    channel_id: str,
+    slack_client,
+    asker_name: str,
+) -> Optional[str]:
+    """Dispatcher for any pending follow-up from this module. Returns the
+    Slack-ready response, or None if the pending state didn't match (caller
+    should fall through to normal routing).
+    """
+    pending = _get_pending(user_id, channel_id)
+    if not pending:
+        return None
+    kind = pending.get("kind")
+    if kind == "inquiry":
+        return handle_inquiry_followup(
+            text, user_id, channel_id, slack_client, asker_name
+        )
+    if kind == "update_proposal":
+        return handle_update_followup(
+            text, user_id, channel_id, slack_client, asker_name
+        )
+    return None
 
 
 # --- Haiku helpers --------------------------------------------------------
@@ -649,3 +719,392 @@ def handle_inquiry_followup(
         )
 
     return None
+
+
+# --- Update propose-and-confirm flow -------------------------------------
+#
+# Top-level #commercial-sales messages like "add Dan as owner to Canadian
+# Defense Forces" used to fall through to is_work_update and get a fake
+# "Got it — stored." ack while losing the actual write. This flow gives
+# those messages the same propose-and-confirm treatment as a threaded
+# reply — Haiku extracts (target, field, value) tuples, we resolve each
+# target via the inquiry matcher, then propose the edits and wait for
+# confirmation. On accept, we apply via the reply module's validated
+# apply/save plumbing.
+
+UPDATE_PARSE_SYSTEM = """\
+You parse a Slack message in BST's #commercial-sales channel that is asking
+to UPDATE one or more customer builds or support cases. The message may
+reference multiple records ("add Dan as owner to A and B" = two updates).
+
+Output one JSON object — no fences, no commentary:
+
+{
+  "updates": [
+    {
+      "target": "<customer or product or task name as written in the message>",
+      "field":  "<field name from allowed list>",
+      "value":  <new value>,
+      "rationale": "<one short sentence>"
+    }
+  ],
+  "ambiguous": ["<things you couldn't resolve>"]
+}
+
+Allowed fields (Build):  customer, customer_contact, customer_email,
+  receive_by, ship_to, items, parts, payment_state, build_state, ship_state,
+  estimate_date, invoice_date, invoice_amount, invoice_number, paid_date,
+  tracking_number, carrier, shipped_date, owners, notes.
+Allowed fields (SupportCase): customer, customer_contact, customer_email,
+  device, serial_number, reported_issue, state, rma_number, received_date,
+  shipped_back_date, tracking_number, carrier, linked_build_gid, owners, notes.
+
+State-machine enums (MUST match exactly, never invent):
+  payment_state: none, estimate_sent, invoice_sent, paid
+  build_state:   none, parts_ordered, in_assembly, in_qc, complete, packaged
+  ship_state:    none, awaiting_pickup, in_transit, delivered
+  (case) state:  intake, diagnosing, rma_issued, received, under_repair,
+                 in_qc, complete, shipped
+
+Multi-target patterns:
+  "add Dan as owner to A and B" → emit two entries, same field/value, target=A and target=B
+  "mark A and B complete" → two entries (or four if you also emit shipped_date / build_state)
+
+Owners — value is a PARTIAL dict containing only the roles to override:
+  - "add X as owner" (no role specified) → {"interface": "X"} (interface is
+    the customer-relationship role; this is the right default when the user
+    doesn't say "as build owner" or "as billing contact")
+  - "add X as build owner" / "X is doing assembly" → {"build": "X"}
+  - "X handles billing" / "X is the invoice owner" → {"invoicing": "X"}
+  - "X owns support" → {"support": "X"}
+
+Common-phrase interpretation for Build records (when no other context):
+  "mark X complete / done / shipped / delivered" →
+    Emit BOTH:
+      {field: "ship_state", value: "delivered"}
+      {field: "shipped_date", value: "<today>"}  (caller injects today's date)
+    If user implies the build (not just the order) is finished, ALSO emit:
+      {field: "build_state", value: "complete"}
+    If user implies payment was received ("paid / settled"), ALSO emit:
+      {field: "payment_state", value: "paid"}
+      {field: "paid_date", value: "<today>"}
+
+For SupportCase: "mark X complete" → {field: "state", value: "complete"};
+  "shipped back to customer" → {field: "state", value: "shipped"}.
+
+Dates: emit "YYYY-MM-DD". For "today" use the date the caller injects.
+
+When the target is ambiguous (no record reference at all), put a note in
+`ambiguous` and emit no update for that piece.
+
+Never invent values not present in the message. If unsure, leave it for
+the user to clarify rather than fabricating.
+"""
+
+
+UPDATE_CONFIRM_SYSTEM = """\
+The user just replied to a proposed-updates message. Decide their intent.
+Output one JSON object — no fences, no commentary:
+
+{
+  "intent": "accept_all" | "accept_subset" | "reject" | "modify" | "unrelated",
+  "accepted_indices": [int, ...],
+  "modification_request": "string"
+}
+
+- "accept_all"  — yes / confirm / apply
+- "accept_subset" — pick by number (1-based); fill accepted_indices
+- "reject"      — cancel / no / never mind
+- "modify"      — restated; fill modification_request with the new phrasing
+- "unrelated"   — message is off-topic for this proposal
+"""
+
+
+def _to_reply_kind(k: str) -> str:
+    """commercial_sales_inquiry uses 'support' for SupportCase, but the
+    reply module's _validate_update + _apply_update_to_record use 'case'.
+    Convert at the boundary so both modules stay independent."""
+    return "case" if k == "support" else k
+
+
+def _match_target_to_record(target: str, builds, cases) -> list[dict]:
+    """Run the inquiry matcher with target as the customer/product hint."""
+    extracted = {"customer_hint": target, "product_hint": target, "topic": "update"}
+    return _match_record(extracted, builds, cases)
+
+
+def _format_update_value(value) -> str:
+    if value is None:
+        return "_(none)_"
+    if isinstance(value, dict):
+        return ", ".join(f"{k}={v!r}" for k, v in value.items())
+    if isinstance(value, (list, tuple)):
+        return ", ".join(str(v) for v in value)
+    return str(value)
+
+
+def _format_owner_change(record, value) -> str:
+    """Render owner updates as before→after for clarity."""
+    if not isinstance(value, dict):
+        return _format_update_value(value)
+    parts = []
+    current = dict(record.owners or {}) if record else {}
+    for role, new_name in value.items():
+        old = current.get(role) or DEFAULT_OWNERS.get(role, "—")
+        parts.append(f"{role}: {old} → {new_name}")
+    return "; ".join(parts)
+
+
+def handle_update_propose(
+    text: str,
+    user_id: str,
+    channel_id: str,
+    slack_client,
+    asker_name: str,
+) -> Optional[str]:
+    """Parse an update message, resolve targets, propose changes.
+
+    Returns the proposal text to post, or a clarification request if
+    targets couldn't be resolved.
+    """
+    today = datetime.now().strftime("%Y-%m-%d")
+    user_block = f"Today is {today}.\n\nUser message:\n{text}"
+    try:
+        parsed = _call_claude_json(UPDATE_PARSE_SYSTEM, user_block, max_tokens=800)
+    except Exception as e:
+        return f"_(I couldn't parse that update — try again? Error: {e})_"
+
+    raw_updates = parsed.get("updates") or []
+    ambiguous = parsed.get("ambiguous") or []
+    if not raw_updates and not ambiguous:
+        return None  # Haiku said nothing — let routing fall through
+
+    builds = load_builds()
+    cases = load_support_cases()
+
+    # Resolve each (target, field, value) → concrete (record, field, value).
+    # When a target matches multiple candidates, stash an ambiguity entry
+    # rather than silently picking the top result.
+    resolved: list[dict] = []
+    unresolved: list[str] = list(ambiguous)
+    target_cache: dict[str, list[dict]] = {}
+
+    for u in raw_updates:
+        target = (u.get("target") or "").strip()
+        field = (u.get("field") or "").strip()
+        value = u.get("value")
+        rationale = (u.get("rationale") or "").strip()
+        if not target or not field:
+            unresolved.append(f"missing target or field on update {u!r}")
+            continue
+
+        # Per-target match cache so "add Dan to A and B" doesn't re-call Haiku
+        # for each field-tuple on the same target.
+        if target not in target_cache:
+            target_cache[target] = _match_target_to_record(target, builds, cases)
+        matches = target_cache[target]
+
+        if not matches:
+            unresolved.append(f"no record matched '{target}'")
+            continue
+        if len(matches) > 1 and matches[0].get("confidence") != "high":
+            label_list = ", ".join(
+                f"{m.get('label','?')} ({m.get('id','?')})" for m in matches[:3]
+            )
+            unresolved.append(
+                f"'{target}' could match multiple: {label_list} — re-state with a more specific name"
+            )
+            continue
+
+        top = matches[0]
+        kind, record = _record_by_id(top.get("id", ""), builds, cases)
+        if not record:
+            unresolved.append(f"matched '{target}' to {top.get('id')} but couldn't load it")
+            continue
+
+        # Validate up front so we don't propose junk
+        validator_kind = _to_reply_kind(kind)
+        try:
+            from commercial_sales_reply import _validate_update
+        except Exception as e:
+            return f"_(Couldn't import update validator: {e})_"
+        ok, reason = _validate_update(validator_kind, {"field": field, "value": value})
+        if not ok:
+            unresolved.append(f"{top.get('label','?')}: {reason}")
+            continue
+
+        resolved.append({
+            "record_id": top.get("id"),
+            "record_kind": kind,           # "build" | "support"
+            "validator_kind": validator_kind,  # "build" | "case"
+            "label": top.get("label") or top.get("id"),
+            "field": field,
+            "value": value,
+            "rationale": rationale,
+        })
+
+    if not resolved:
+        body = "_I couldn't resolve any of that to a record I track."
+        if unresolved:
+            body += "_\n\n_Issues:_\n" + "\n".join(f"  • {u}" for u in unresolved)
+        else:
+            body += "_"
+        return body
+
+    _set_pending(user_id, channel_id, {
+        "kind": "update_proposal",
+        "stage": "await_confirm",
+        "resolved": resolved,
+        "unresolved": unresolved,
+        "original": text,
+    })
+
+    # Build proposal message — group by record so two changes to the same
+    # Build show under one heading.
+    by_record: dict[str, list[dict]] = {}
+    for r in resolved:
+        by_record.setdefault(r["record_id"], []).append(r)
+
+    lines = ["Proposed updates:"]
+    idx = 1
+    for record_id, items in by_record.items():
+        label = items[0]["label"]
+        lines.append(f"\n*{label}* `{record_id}`")
+        # Reload the record so we can render owner diffs nicely
+        kind, record = _record_by_id(record_id, builds, cases)
+        for r in items:
+            if r["field"] == "owners":
+                value_str = _format_owner_change(record, r["value"])
+            else:
+                value_str = _format_update_value(r["value"])
+            lines.append(f"  {idx}. `{r['field']}` → {value_str}")
+            if r["rationale"]:
+                lines.append(f"     _{r['rationale']}_")
+            idx += 1
+    if unresolved:
+        lines.append("\n_Couldn't resolve:_")
+        for u in unresolved:
+            lines.append(f"  • {u}")
+    lines.append("\nReply *yes* to apply, *no* to cancel, *1,3* to apply specific items, or restate to refine.")
+    return "\n".join(lines)
+
+
+def handle_update_followup(
+    text: str,
+    user_id: str,
+    channel_id: str,
+    slack_client,
+    asker_name: str,
+) -> Optional[str]:
+    """Apply, reject, or refine a pending update proposal.
+
+    Returns the response text, or None if the reply is unrelated (router
+    falls through to normal handling).
+    """
+    pending = _get_pending(user_id, channel_id)
+    if not pending or pending.get("kind") != "update_proposal":
+        return None
+
+    resolved = pending.get("resolved") or []
+    if not resolved:
+        _clear_pending(user_id, channel_id)
+        return None
+
+    summary = "\n".join(
+        f"{i+1}. {r['label']} — {r['field']} = {r['value']}"
+        for i, r in enumerate(resolved)
+    )
+    parse_input = f"Pending update proposal:\n{summary}\n\nUser reply:\n{text}"
+    try:
+        intent_obj = _call_claude_json(UPDATE_CONFIRM_SYSTEM, parse_input, max_tokens=300)
+    except Exception:
+        return None
+
+    intent = intent_obj.get("intent", "unrelated")
+    if intent == "unrelated":
+        return None
+    if intent == "reject":
+        _clear_pending(user_id, channel_id)
+        return "Cancelled — no changes applied."
+
+    if intent == "modify":
+        mod = (intent_obj.get("modification_request") or text).strip()
+        _clear_pending(user_id, channel_id)
+        # Re-run the propose flow with the modified instruction
+        return handle_update_propose(mod, user_id, channel_id, slack_client, asker_name)
+
+    if intent == "accept_subset":
+        indices = intent_obj.get("accepted_indices") or []
+        to_apply = [resolved[i-1] for i in indices if 1 <= i <= len(resolved)]
+    else:
+        # accept_all
+        to_apply = resolved
+
+    if not to_apply:
+        _clear_pending(user_id, channel_id)
+        return "Nothing to apply."
+
+    # Apply each — load fresh record, mutate, save.
+    try:
+        from commercial_sales_reply import _apply_update_to_record, _save_record
+    except Exception as e:
+        return f"_(Couldn't import update apply: {e})_"
+
+    builds = load_builds()
+    cases = load_support_cases()
+    applied: list[str] = []
+    failures: list[str] = []
+    seen_records: dict[str, tuple[str, object]] = {}
+
+    for r in to_apply:
+        rid = r["record_id"]
+        if rid not in seen_records:
+            kind, record = _record_by_id(rid, builds, cases)
+            if not record:
+                failures.append(f"{r['label']}: record gone")
+                continue
+            seen_records[rid] = (kind, record)
+        kind, record = seen_records[rid]
+        try:
+            _apply_update_to_record(
+                r["validator_kind"], record,
+                {"field": r["field"], "value": r["value"]},
+            )
+            applied.append(f"{r['label']} — {r['field']}")
+        except Exception as e:
+            failures.append(f"{r['label']} — {r['field']}: {e}")
+
+    # Save each touched record once
+    for kind, record in seen_records.values():
+        try:
+            _save_record(_to_reply_kind(kind), record)
+        except Exception as e:
+            failures.append(f"save failed: {e}")
+
+    _clear_pending(user_id, channel_id)
+
+    # Audit trail
+    try:
+        from knowledge import store_entry
+        original = pending.get("original", "")[:160]
+        store_entry(
+            slack_client, "FEEDBACK",
+            f"Commercial-sales top-level update by {asker_name}: "
+            f"applied=[{', '.join(applied) or 'none'}] "
+            f"failed=[{', '.join(failures) or 'none'}] "
+            f"(from: {original!r})",
+        )
+    except Exception:
+        pass
+
+    lines = []
+    if applied:
+        lines.append(f":white_check_mark: Applied:")
+        for a in applied:
+            lines.append(f"  • {a}")
+    if failures:
+        lines.append(f":warning: Failed:")
+        for f in failures:
+            lines.append(f"  • {f}")
+    lines.append("_Next nightly scan will pick up the JSON changes; tomorrow's digest will reflect them._")
+    return "\n".join(lines)
