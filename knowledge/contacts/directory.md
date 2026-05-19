@@ -105,7 +105,7 @@
 - **Service Accounts:** 2
 
 **Notes:**
-- All contact information verified and consistent across existing knowledge and new data
+- All contact information verified and consistent across existing and new data
 - Three team members remain unclassified; recommend reaching out to leadership for role clarification
 - BST maintains an engineering-focused organization with balanced technical and administrative support
-- No roster changes from previous directory update
+- No roster changes from previous directory update; data sets are in full alignment

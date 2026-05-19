@@ -20,7 +20,9 @@
   - **Option Period active:** April 14, 2026 – September 28, 2026
   - **Project kicked off:** April 21, 2026
   - **Key Upcoming Dates:**
-    - Ground testing: May 22, 2026
+    - Ground testing setup: May 19, 2026
+    - Sensor configuration: May 18, 2026
+    - Ground testing execution: May 22, 2026
     - S0-AD launcher design: Jun 5, 2026
     - S0-AD launcher build & test: Jun 15, 2026
     - Camp Pendleton demo: Aug 17, 2026 (flights scheduled Sep 14–25, 2026)
@@ -35,10 +37,12 @@
   - Meredith O'hara Needham (administrative, invoicing, FWA certification)
   - Dan Prendergast (support)
 - **Risk Signals:**
+  - **Two open tasks with imminent/near-term due dates:**
+    - "Settings for both Mag Sensors" (Maciej Stachura, due May 18) — *may be stale; Maciej reported Navy tasks "done" as of Apr 20 & May 6*
+    - "Build up ground testing S0-MAD" (Alex Lomis, due May 19) — critical for May 22 ground testing execution
   - **Compressed timeline:** Option period (6.5 months) to complete design → build → ground test → hand-launched flights → Camp Pendleton demo + three Navy reports. Team bandwidth constrained by higher-priority projects (S3 IRAD, S0-VTOL, EMASS closure, Navy STTR).
   - **Critical external dependency:** Camp Pendleton permissions & frequencies (Beck Cotter, due Jun 1) must be secured before demo logistics finalized (Aug 10).
   - **New launcher development:** S0-AD ground launcher is on critical path (design due Jun 5, build/test due Jun 15) — adds scope beyond original magnetometer integration.
-  - **One task remains open:** "Settings for both Mag Sensors" assigned to Maciej Stachura, due May 18, 2026. Per prior notes, Maciej reported tasks "done" as of Apr 20 & May 6—may reflect stale Asana status.
 
 ## Key Deliverables & Milestones
 
@@ -59,8 +63,9 @@
 | Order parts for S0-MAD reusable | Alex Lomis | May 5, 2026 | ✓ **COMPLETED** (May 6) | Parts procurement complete |
 | Design onboard logging (both mag sensors) | Jack Elston | May 8, 2026 | **OPEN** | Blocks ground testing |
 | Finalize Python plotting/analysis tools | Maciej Stachura | May 13, 2026 | ✓ **COMPLETE** | Per Maciej (Apr 20 & May 6) |
-| Configure settings for both mag sensors | Maciej Stachura | May 18, 2026 | **OPEN (Asana)** | *Note: Maciej reported Navy tasks "done" as of Apr 20 & May 6—may reflect stale Asana record* |
-| Conduct ground testing with different throttle settings | Alex Lomis | May 22, 2026 | **OPEN** | Dependent on onboard logging design |
+| Configure settings for both mag sensors | Maciej Stachura | May 18, 2026 | **OPEN (Asana)** | *Asana shows open; Maciej reported Navy tasks "done" as of Apr 20 & May 6—likely stale Asana record* |
+| **Build up ground testing S0-MAD** | **Alex Lomis** | **May 19, 2026** | **OPEN** | **Critical: due before May 22 ground testing execution** |
+| Conduct ground testing with different throttle settings | Alex Lomis | May 22, 2026 | **OPEN** | Dependent on S0-MAD build completion (May 19) and onboard logging design |
 | Submit UK Navy EOI | Beck Cotter | May 19, 2026 | ✓ **COMPLETED** (May 11, 2026) | Submitted early |
 | Design of S0-AD ground launcher complete | Alex Lomis | Jun 5, 2026 | **OPEN** | New launcher development |
 | Finalize Camp Pendleton permissions & frequencies | Beck Cotter | Jun 1, 2026 | **OPEN** | External coordination; critical path |
@@ -68,8 +73,4 @@
 | Build hand-launched S0-MAD | Alex Lomis | Jun 12, 2026 | **OPEN** | Ground testing results dependent |
 | Local test flights (hand-launched with both sensors) | Alex Lomis | Jul 1, 2026 | **OPEN** | Hand-launched build dependent |
 | Finalize Camp Pendleton flight plans & aircraft | Alex Lomis | Aug 10, 2026 | **OPEN** | Permissions confirmed dependent |
-| Camp Pendleton demo flights | Alex Lomis | Aug 17, 2026 → **Sep 14–25, 2026** | **IN PLANNING** | Actual flight window: Sep 14–25, 2026 |
-
-## Task Summary
-- **Total tasks in Asana:** 1 open, 0 completed (reflects stale record)
-- **Notable discrepancy:** Raw Asana data shows only 1 open task ("Settings for both Mag Sensors" / Maciej Stachura, due May 18). However, the knowledge file and prior status updates indicate multiple open technical milestones (
+| Camp Pendleton demo flights | Alex Lomis | Aug

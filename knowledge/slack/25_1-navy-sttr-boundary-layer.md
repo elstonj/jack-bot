@@ -14,6 +14,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **April 20, 2026**: Approved data format strategy for multi-rate sensor outputs: full-rate dataset as primary deliverable with 1 Hz downsampled version for TDR (Tropical Cyclone Data Repository) comparison
 - **May 6, 2026**: Established CAT flights (2026-03-26, 2026-04-07, 2026-04-09) as primary focus for Phase I Option Progress Report analysis; confirmed 53rd Weather Wing partnership for S0 dropsondes over WHOI arrays during Phase II
 - **May 7, 2026**: Data analysis underway on rain flight (1,000 m box) showing good agreement with dropsondes; P3 wind measurements showing larger discrepancies than expected, investigating potential radar data gaps for eastern region coverage needed for S0 comparisons
+- **May 18, 2026**: Confirmed P-3 altitude at 10,000 ft during CAT flights; validated for TDR analysis comparison with S0 wind data
 
 ## Projects & Initiatives
 **Navy STTR Boundary Layer Measurements Project (Award: N6833535C0270)**
@@ -32,7 +33,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 
 **Active Field Operations (April-May 2026):**
 - S0 UAS ocean deployment missions coordinated through NOAA AOC (Aviation Operations Center) in Lakeland
-- CAT (Convective and Atmospheric Turbulence) Flights with P3 platform:
+- CAT (Convective and Atmospheric Turbulence) Flights with P3 platform (P-3 operating at 10,000 ft altitude):
   - **2026-03-26**: First dual S0 test (5 dropsondes deployed)
   - **2026-04-07**: Second dual S0 test with rain (9 sondes: dropsondes, Streamsondes, Sphere sondes; S0 flew at 500m and 1000m for radar comparison)
   - **2026-04-09**: Recovered S0 test with scattered rain (4 sondes)
@@ -68,6 +69,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
   - **Unavailable week of May 10-16, 2026** (out Friday to next Friday)
   - Will participate in Phase II Cal/Val planning upon return
   - Investigate TDR radar data gaps and salvage options for eastern region coverage needed for S0 comparisons (May 7, involving Paul from NOAA/TDR team)
+  - Coordinating TDR analysis setup for P-3 wind comparison (May 18)
 - **Jun Zhang**: 
   - Sourcing dropsonde data from HRD or AOC for CAT flights (in progress May 6)
   - Radar data retrieval for 04/07 flight from raw TDR files (in progress May 6)
@@ -75,10 +77,6 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
   - Creating centralized CAT subfolder in NOAA folder for team data organization
   - Coordinating data access and organization for analysis
   - **Following up with Paul (NOAA/TDR team) on reprocessing TDR data for better eastern region coverage** (May 10)
-  - Gathering P3 altitude information for wind measurement comparison analysis
+  - Gathering P3 altitude information for wind measurement comparison analysis (completed May 18 - confirmed 10,000 ft)
 - **Team**: 
-  - **Progress Report (CLIN0006) due Wednesday, June 3, 2026** - utilize templates from https://navysbir.com/links_forms.htm and Google Docs templates
-  - Gather Phase II Cal/Val partnership info (WHOI arrays via 53rd Weather Wing, ocean arrays contacts from Josh W., other sources)
-  - Meeting planned week of May 13, 2026 for Phase II Cal/Val plan finalization
-
-**Phase I Option Deliverables:**
+  - **Progress Report (CLIN0006) due Wednesday, June 3, 

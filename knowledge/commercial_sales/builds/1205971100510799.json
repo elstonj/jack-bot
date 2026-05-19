@@ -63,10 +63,10 @@
     "invoicing": "Meredith",
     "build": "Alex Lomis"
   },
-  "notes": "Invoice #1667 (May 2025, $21,181.81) PAID. Outstanding invoice #1730 (Jan 2026, $2,462.50) for follow-on charges. System in QC; Beck's March 2026 email confirms daily flight testing with bug tracking in progress. Customer Kevin Adkins confirms patience with resolution timeline. Training planned June 2025 at BST. QBO records confirm active engagement with multiple paid invoices.",
+  "notes": "Invoice #1667 (May 2025, $21,181.81) PAID. Outstanding invoice #1730 (Jan 2026, $2,462.50) for follow-on charges remains unpaid. System in QC with daily flight testing in progress (Beck email March 2026); bug tracking underway with customer Kevin Adkins confirming patience with resolution timeline. Training planned June 2025 at BST. QBO records confirm active engagement and paid invoices warrant KEEP status despite outstanding balance on #1730.",
   "missing_fields": [
     "receive_by",
     "shipped_date"
   ],
-  "last_evidence_date": "2026-05-15"
+  "last_evidence_date": "2026-05-18"
 }

@@ -1,4 +1,4 @@
 # Commercial Sales
 
 Small project with 1 tasks.
-- [Done] Deliver Two MHTP Units to Area-I — Unassigned
+- [Done] [1292] INSTAAR Batteries and Props — Unassigned

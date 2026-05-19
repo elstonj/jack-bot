@@ -1,6 +1,6 @@
 # Commercial Sales — Pipeline Index
 
-_Last scanned 2026-05-18 03:12_
+_Last scanned 2026-05-19 03:17_
 
 ## Builds (16)
 
@@ -9,7 +9,7 @@ _Last scanned 2026-05-18 03:12_
 | CU Boulder IRISS | — | invoice_sent | complete | none | `1214252346819631` |
 | University of Colorado Boulder | 2026-08-31 | estimate_sent | none | none | `1213756777376150` |
 | Oklahoma State University | 2026-04-24 | estimate_sent | none | none | `1208758724978276` |
-| USAF SOCOM | 2026-10-30 | none | none | none | `1211537088605200` |
+| USAF SOCOM | 2026-10-30 | estimate_sent | none | none | `1211537088605200` |
 | USAF | 2026-05-01 | none | none | none | `1211602206477042` |
 | National Oceanography Centre (NOC) | 2026-05-15 | estimate_sent | none | none | `1212982512191690` |
 | NOAA | — | estimate_sent | none | none | `1213688340764301` |
@@ -19,9 +19,9 @@ _Last scanned 2026-05-18 03:12_
 | Michigan Technological University | — | estimate_sent | none | none | `1210812587995014` |
 | Murray State University | 2025-10-31 | paid | none | none | `1210051293340204` |
 | NASA Ames Research Center | 2026-09-30 | paid | in_assembly | none | `1210367258005710` |
-| University of Colorado | 2026-08-31 | estimate_sent | none | none | `1208185314692566` |
 | Embry-Riddle Aeronautical University | — | invoice_sent | in_qc | none | `1205971100510799` |
-| NASA Ames | — | paid | in_assembly | none | `1206482266586173` |
+| NASA Ames | 2026-09-30 | paid | in_assembly | none | `1206482266586173` |
+| Embry-Riddle Aeronautical University | — | invoice_sent | in_qc | none | `1205318673933832` |
 
 ## Support Cases (0)
 

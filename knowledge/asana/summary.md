@@ -1,117 +1,81 @@
 # Asana Projects Overview
 
-Last scanned: 2026-05-18 02:08
+Last scanned: 2026-05-19 02:07
 
-Total projects scanned: 16
+Total projects scanned: 15
 
 ## Projects
 
 - **Commercial Sales** — 1 tasks — [commercial_sales.md](commercial_sales.md)
 - **Flight Testing** — 1 tasks — [flight_testing.md](flight_testing.md)
-- **SBIR - Volcano CCRPP** — 1 tasks — [sbir_-_volcano_ccrpp.md](sbir_-_volcano_ccrpp.md)
-- **View: Major Milestones & Tasks** — 1 tasks — [view_major_milestones_tasks.md](view_major_milestones_tasks.md)
 - **[001-13] Accounting** — 3 tasks — [001-13_accounting.md](001-13_accounting.md)
-- **[001-13] Corporate / Strategic Planning** — 1 tasks — [001-13_corporate_strategic_planning.md](001-13_corporate_strategic_planning.md)
 - **[001-13] Facilities Management** — 1 tasks — [001-13_facilities_management.md](001-13_facilities_management.md)
 - **[001-13] General Operations** — 2 tasks — [001-13_general_operations.md](001-13_general_operations.md)
-- **[001-13] Purchasing** — 2 tasks — [001-13_purchasing.md](001-13_purchasing.md)
-- **[001-14] SwiftCore 3.3** — 1 tasks — [001-14_swiftcore_33.md](001-14_swiftcore_33.md)
+- **[001-13] Proposals** — 2 tasks — [001-13_proposals.md](001-13_proposals.md)
+- **[001-13] Purchasing** — 9 tasks — [001-13_purchasing.md](001-13_purchasing.md)
+- **[001-14] SwiftCore 3.3** — 5 tasks — [001-14_swiftcore_33.md](001-14_swiftcore_33.md)
 - **[001-22] Fleet Maintenance** — 1 tasks — [001-22_fleet_maintenance.md](001-22_fleet_maintenance.md)
-- **[031-1] UMES S3** — 1 tasks — [031-1_umes_s3.md](031-1_umes_s3.md)
-- **[301-2] SBIR - Hurricane Phase II+** — 1 tasks — [301-2_sbir_-_hurricane_phase_ii.md](301-2_sbir_-_hurricane_phase_ii.md)
-- **[350-4] 2024 USGS - Chile (Mexico)** — 1 tasks — [350-4_2024_usgs_-_chile_mexico.md](350-4_2024_usgs_-_chile_mexico.md)
-- **[550-1] NAVY SBIR: Magnetometer** — 1 tasks — [550-1_navy_sbir_magnetometer.md](550-1_navy_sbir_magnetometer.md)
+- **[031-1] UMES S3** — 2 tasks — [031-1_umes_s3.md](031-1_umes_s3.md)
+- **[300-3] 2026 IDIQ (Hurricane)** — 1 tasks — [300-3_2026_idiq_hurricane.md](300-3_2026_idiq_hurricane.md)
+- **[350-4] 2024 USGS - Chile (Mexico)** — 2 tasks — [350-4_2024_usgs_-_chile_mexico.md](350-4_2024_usgs_-_chile_mexico.md)
+- **[451-1] INSTAAR S3 x 2** — 2 tasks — [451-1_instaar_s3_x_2.md](451-1_instaar_s3_x_2.md)
+- **[550-1] NAVY SBIR: Magnetometer** — 2 tasks — [550-1_navy_sbir_magnetometer.md](550-1_navy_sbir_magnetometer.md)
 - **[550-2] Navy STTR: Hazardous Weather** — 1 tasks — [550-2_navy_sttr_hazardous_weather.md](550-2_navy_sttr_hazardous_weather.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Project Portfolio Overview
+# Black Swift Technologies — Project Portfolio Summary
 
-## Portfolio Summary
-- **Total Active Project Value**: ~$696,000 (tracked projects with budgets)
-- **Active Projects**: 8 major projects + 6 operational/support projects
-- **Completion Rate**: High across operational projects; critical delays in customer-facing deliverables
-- **Key Risk**: **Two projects at critical urgency with May–June 2026 deadlines**
-
----
-
-## Active Projects by Status
-
-### 🔴 CRITICAL URGENCY
-**[031-1] UMES S3** — $81,306
-- **Deadline**: S3 delivery May 11, 2026; project due May 31, 2026
-- **Status**: Active; Jack Elston flagged as "priority number one"
-- **Risk**: Training scheduled July 23–25 (after delivery window); timeline extremely tight
-
-**[550-2] Navy STTR: Hazardous Weather** — $138,494 (BST portion)
-- **Deadline**: Final deliverable September 1, 2026
-- **Status**: Option period in progress (Jan 7–July 6, 2026); technical tasks prioritized May–June
-- **Note**: Base period completed successfully
-
-### 🟡 ACTIVE — DELAYED
-**[350-4] 2024 USGS - Chile (Mexico)** — $124,230
-- **Original Deployment**: April 20, 2026
-- **Revised Deployment**: Fall 2026 (significant delay)
-- **Client**: USGS Volcano Science Center; contract ends August 30, 2025
-- **Status**: Active but schedule slipped
-
-### 🟢 ACTIVE — ON TRACK
-**[001-14] SwiftCore 3.3** — Internal development
-- **Status**: Active development; 83% task completion (375 of ~450 tasks done)
-- **Note**: No target release date specified; 78 open tasks without due dates
-
-**[550-1] NAVY SBIR: Magnetometer** — Internal development
-- **Client**: Navy NAVAIR/NAWCAD
-- **Status**: Active; detailed contact established (TPOC: Angel Ruiz-Reyes)
-
-**[001-13] Purchasing** — Internal operations
-- **Status**: Active; stabilized at 2 open tasks (both due May 18, 2026)
-
-**[001-13] Facilities Management** — Internal operations
-- **Status**: Active; high completion rate with recurring monthly/bi-weekly cycle
-
-**[001-22] Fleet Maintenance** — Internal operations
-- **Owner**: Dan Prendergast
-- **Aircraft tracked**: 9 aircraft (E-series and S-series)
-- **Status**: Active; 1 open task due May 18, 2026
-
-### 🟢 ARCHIVED (Completed)
-**[301-2] SBIR - Hurricane Phase II+** — $344,000 (completed Jan 3, 2024)
+## Portfolio Overview
+- **Total Project Value (Quantified):** ~$1,438,000+
+- **Active Projects:** 13
+- **Status:** Multiple critical deadlines in May–July 2026; significant operational momentum
 
 ---
 
-## Team Allocation Patterns
-- **Meredith O'Hara Needham**: Accounting (3 tasks), Facilities, General Operations, Purchasing oversight
-- **Dan Prendergast**: Fleet Maintenance owner
-- **Jack Elston**: UMES S3 priority lead; SwiftCore development
-- **Ethan Domagala**: Flight Testing checklist task
-- **Navy/USGS Projects**: Specialized contacts assigned; technical leads TBD in summaries
+## Key Active Projects by Value
 
----
-
-## Upcoming Critical Deadlines
-| Date | Project | Deliverable |
-|------|---------|-------------|
-| May 11, 2026 | UMES S3 | S3 VTOL delivery to customer |
-| May 18, 2026 | Purchasing, Fleet Maintenance | Task completion |
-| May 31, 2026 | UMES S3 | Project completion date |
-| July 6, 2026 | Navy STTR | Option period end |
-| September 1, 2026 | Navy STTR | Final deliverable |
-| Fall 2026 | USGS Chile | Delayed deployment |
+| Project | Client | Value | Status | Critical Deadline |
+|---------|--------|-------|--------|-------------------|
+| [300-3] 2026 IDIQ (Hurricane) | NOAA | $499,000 | Active | Hardware ship: 5/27/26 |
+| [550-2] Navy STTR: Hazardous Weather | Dept. of Navy (ONR) | $146,326 | Active (Option Period) | Final deliverable: 9/1/26 |
+| [550-1] Navy SBIR: Magnetometer | Dept. of Navy (NAVAIR) | *Not specified* | Active | *Not specified* |
+| [031-1] UMES S3 | UMES | $81,306 | **CRITICAL** | S3 delivery: 5/29/26 |
+| [451-1] INSTAAR S3 x2 | CU Boulder | $120,000 | Active (Delayed) | S3 delivery: 2/27/26 (past due) |
+| [350-4] 2024 USGS – Chile (Mexico) | USGS Volcano Science Center | $124,230 | Active (Delayed) | Deployment: Fall 2026 |
+| [001-14] SwiftCore 3.3 | Internal (Flight-Critical) | Not specified | Active | 4 open tasks due: 5/18/26 |
 
 ---
 
 ## Risk Areas
-1. **Schedule Compression**: UMES S3 delivery (May 11) + training (July 23–25) = tight integration window
-2. **Delayed Deployment**: USGS Chile slipped from April 2026 to Fall 2026; contract ends Aug 30, 2025
-3. **Resource Concentration**: Meredith O'Hara Needham heavily loaded on internal operations; single point of failure
-4. **Unassigned Tasks**: Corporate/Strategic Planning has 1 unassigned lease termination task; Commercial Sales/Volcano CCRPP marked done but unassigned
-5. **SwiftCore Release**: No target date specified despite 83% completion; dependency risk for other projects
+
+1. **UMES S3 (031-1):** Delivery due **May 29, 2026** — flagged as "critical urgency" by project leadership
+2. **INSTAAR S3 x2 (451-1):** Originally due Feb 27, 2026 — **currently past schedule**; replacement aircraft required
+3. **NOAA Hurricane (300-3):** Hardware ship date **May 27, 2026** — tight coordination required
+4. **SwiftCore 3.3 (001-14):** Flight-critical system; 4 tasks concentrated with single assignee (Maciej Stachura), due 5/18/26
+5. **USGS Chile (350-4):** Contract end date 8/30/25 but deployment delayed to Fall 2026 — timeline misalignment
 
 ---
 
-## Recommendations
-- Clarify SwiftCore 3.3 release date and resource allocation
-- Establish weekly UMES S3 status reviews (8 weeks to May 11 delivery)
-- Confirm Navy STTR May–June technical task priority and resource plan
-- Reassess USGS Chile timeline post-August 2025 contract end
+## Team Allocation Patterns
+
+- **Concentrated assignments:** Maciej Stachura (SwiftCore 3.3), Meredith O'hara Needham (operations/accounting)
+- **Project leadership:** Jack Elston (UMES, Fleet Maintenance), Dan Prendergast (Fleet Maintenance), Josh Fromm (INSTAAR), Beck Cotter (Proposals)
+- **Operations backbone:** Internal projects (Purchasing, Facilities, Accounting, General Operations) managed by small team; 9 open purchasing tasks (high volume, May 2026)
+
+---
+
+## Upcoming Critical Deadlines
+
+- **May 18, 2026:** SwiftCore 3.3 tasks; Fleet Maintenance task
+- **May 27, 2026:** NOAA Hurricane hardware ship date
+- **May 29, 2026:** UMES S3 delivery (critical)
+- **May 31, 2026:** UMES project funding expires
+- **July 31, 2026:** NOAA Hurricane project start/due date
+- **September 1, 2026:** Navy STTR final deliverable
+
+---
+
+## Summary
+
+BST portfolio is healthy in value and client mix (government + academia) but faces **compressed delivery schedules in May–July 2026**. Two S3 aircraft projects are critical path items. Internal operations and purchasing momentum are strong. Flight-critical SwiftCore 3.3 development shows excellent progress (78→4 open tasks) but concentration risk with single assignee should be monitored.

@@ -3,138 +3,201 @@
 ## Portfolio Summary
 | Metric | Amount |
 |--------|--------|
-| **Total Invoiced (All Projects)** | $7,265,468.62 |
-| **Total Expenses (Direct Costs)** | $2,653,975.55 |
-| **Net Position** | $4,611,493.07 |
-| **Total Accounts Receivable** | $3,183,933.19+ |
-| **Outstanding Purchase Orders** | $4,509.50 |
+| **Total Invoiced** | $7,421,644.98 |
+| **Total Expenses** | $2,563,975.55 |
+| **Net Income (Company-Wide)** | $4,857,669.43 |
+| **Outstanding Accounts Receivable** | ~$3,199,536 |
+| **Open Purchase Orders** | $4,509.50 |
 
 ---
 
-## Financial Performance by Segment
+## Company-Level Financial Health: **STRONG**
 
-| Segment | Revenue | Expenses | Net Position | Margin |
-|---------|---------|----------|--------------|--------|
-| **Government** | $4,387,717.28 | $1,327,909.53 | +$3,059,807.75 | 69.7% |
-| **Commercial** | $2,877,251.34 | $233,718.16 | +$2,643,533.18 | 91.9% |
-| **BST Internal** | $17,894.36 | $1,092,347.86 | -$1,074,453.50 | -5,997% |
-| **TOTAL** | **$7,265,468.62** | **$2,653,975.55** | **+$4,611,493.07** | **63.5%** |
+Black Swift Technologies maintains robust profitability across government and commercial segments, with **$4.86M net income** on $7.42M in invoiced revenue. However, **$3.2M in outstanding receivables represents a significant liquidity constraint** requiring active collection management.
+
+---
+
+## By Segment (Sorted by Profitability)
+
+### **1. Commercial Projects — Highly Profitable**
+| Metric | Amount |
+|--------|--------|
+| **Total Revenue** | $2,956,589.34 |
+| **Total Expenses** | $233,718.16 |
+| **Net Position** | **+$2,722,871.18** |
+| **Net Margin** | **92.1%** |
+| **Status** | ✅ **GREEN** |
+
+**Key Notes:**
+- Exceptionally efficient operations; minimal overhead allocation
+- Recent activity: University of Maryland Eastern Shore invoice #1765 ($79,338.00, unpaid as of May 2026)
+- Equipment/platform sales (E2, S2, S3 units) driving strong margins
+
+**Projects Needing Attention:**
+- **Project 031-1 (UMES S3)** — ⚠️ **PRODUCT SPECIFICATION MISMATCH**: Contract specifies S3 VTOL delivery, but BST may have delivered S2 variant. Financial impact and contractual resolution unclear; recommend immediate clarification with client.
+
+---
+
+### **2. Government Projects — Strong & Stable**
+| Metric | Amount |
+|--------|--------|
+| **Total Revenue** | $4,387,717.28 |
+| **Total Expenses** | $1,327,909.53 |
+| **Net Position** | **+$3,059,807.75** |
+| **Net Margin** | **69.8%** |
+| **Status** | ✅ **GREEN** |
+
+**Key Notes:**
+- 75 active invoices spanning April 2024 – September 2026
+- **Outstanding Receivables: $3,120,198.19** — largest cash flow impact
+- Primary clients: NOAA, U.S. Navy, U.S. Air Force, NASA
+- Healthy margins support sustained operations
+
+**Cash Flow Risk:**
+- Government invoices typically take 30–60 days to pay; recommend accelerated collection outreach for invoices >60 days outstanding
+
+---
+
+### **3. BST Internal (Overhead/Cost Center) — RED FLAG**
+| Metric | Amount |
+|--------|--------|
+| **Total Revenue** | $17,894.36 |
+| **Total Expenses** | $1,092,347.86 |
+| **Net Position** | **-$1,074,453.50** |
+| **Status** | 🔴 **RED** |
+
+**Critical Finding:**
+- Expenses exceed revenue by **1,110x** over 24+ months
+- **This is an internal overhead cost center**, not a revenue-generating project
+- Likely used to allocate indirect costs (management, facilities, HR, IT infrastructure)
+- **Recommendation**: Verify allocation methodology is correct; ensure cost distribution to billable projects is accurate
 
 ---
 
 ## Projects Requiring Immediate Attention
 
-### 🔴 **CRITICAL — Schedule/Delivery Risk**
+### **HIGH PRIORITY**
 
-| Project | Client | Issue | Financial Impact | Due Date |
-|---------|--------|-------|------------------|----------|
-| **024-10** (Barbados S0 VTOL) | Barbados Met Services | S0 VTOL delivery **CRITICALLY DELAYED** | $38K+ invoiced; handoff delayed to June 2026 | May 22, 2026 ⛔ |
-| **031-1** (UMES S3) | Univ. Maryland Eastern Shore | S3 delivery **OVERDUE**; spec mismatch unresolved | $83,000 approved; final invoice pending | May 11, 2026 ⛔ |
-| **350-4** (USGS Volcano - Chile) | USGS Volcano Science Center | Mission **DELAYED TO FALL 2026**; was scheduled April 20 | $40,000+ contracted | Sept 2026 ⚠️ |
+| Project | Issue | Amount at Risk | Action Required |
+|---------|-------|-----------------|-----------------|
+| **031-1 (UMES S3)** | Product specification mismatch (S3 vs. S2 delivery) | ~$100K–150K | Clarify delivery status and contractual terms immediately |
+| **Government A/R** | Outstanding receivables >60 days | $3,120,198 | Launch accelerated collections campaign; follow up with Navy, NOAA, USAF |
+| **Barbados S0 VTOL (024-10)** | Original delivery date (Oct 2024) passed; revised due May 2026 | ~$250K–300K | Confirm delivery status; update payment schedule |
 
-### 🟡 **HIGH PRIORITY — Budget/AR Issues**
+### **MEDIUM PRIORITY**
 
-| Project | Client | Issue | AR Balance | Status |
-|---------|--------|-------|------------|--------|
-| **301-3** (S0 Hurricane Phase II 2025) | NOAA/Univ. Miami | **Largest government contract** ($360K+); ongoing through Aug 2026 | $150K+ estimated | Active |
-| **300-3** (2026 IDIQ - NOAA UxSOC) | NOAA | Major 5-year IDIQ for 20 S0 units + 2 stations; critical for revenue pipeline | Invoicing begins 2026 | Pre-invoicing |
-| **026-07** (2026 IDIQ – Hurricane) | NOAA/UxSOC | **DUPLICATE or related** to 300-3; unclear project segregation | TBD | Pre-invoicing |
-| **Government Portfolio** | Multiple | **$3.12M in outstanding AR** across 75 invoices | $3,120,198.19 | Collections pipeline |
-
-### 🟠 **MODERATE CONCERN — Low Remaining Budget / Nearing Close**
-
-| Project | Invoiced | Remaining | Health |
-|---------|----------|-----------|--------|
-| **025-07** (SMM Phase II 22.4D) | $465,000+ | ~$0 | ✅ ARCHIVED (Completed July 2025) |
-| **200-11** (Persistence Demo - NASA) | $84,000+ | ~$0 | ✅ ARCHIVED (Closed Nov 2025) |
-| **200-14** (Adaptive Autonomy SBIR) | $55,000+ | ~$0 | ✅ ARCHIVED (Closed April 2026) |
-| **035-1** (ADONIS) | $205,000+ | ~$0 | ✅ ARCHIVED (Completed April 2026) |
-| **039-1** (Refurbished S2 Oklahoma State) | $50,000+ | ~$0 | ✅ ARCHIVED (Completed Aug 2025) |
-| **452-1** (Hesselius E2) | $15,000 | ~$0 | ✅ ARCHIVED (Completed June 2025) |
+| Project | Issue | Status |
+|---------|-------|--------|
+| **043-2 (By Light Mustang)** | Completed Dec 2025 (26 days late); outstanding contractual work pending | $450K fixed-price; additional T&M may be disputed |
+| **301-3 (S0 Hurricane Phase II 2025)** | NOAA contract extended through Aug 2026; revenue concentration risk | Largest active contract; monitor delivery schedule |
+| **200-13 (CRATER)** | NASA contract completed; final payments may be pending | $87,500 contract value |
 
 ---
 
-## Revenue Pipeline & Upcoming Invoiceable Work
+## Revenue Pipeline (Upcoming Invoiceable Milestones)
 
-### **Near-Term (Q2–Q3 2026)**
-1. **300-3 / 026-07 (NOAA 2026 IDIQ)** — 20 S0 platforms + 2 ground stations
-   - Contractual value: TBD (likely $1M+)
-   - Status: Pre-invoicing; delivery/invoicing begins July 2026
-   - **Risk:** High complexity, multi-unit manufacturing timeline
+### **Near-Term (Next 90 Days)**
+- **Project 043-3 (By Light M2/Halo)**: Design & testing due 5/30/2026; manufacturing completion within 1 month → anticipated invoicing June–July 2026
+- **Project 301-3 (S0 Hurricane)**: Ongoing operational support; regular milestone invoicing through Aug 2026
+- **Project 024-10 (Barbados S0 VTOL)**: Delivery due May 22, 2026; training July 1–4, 2026 → milestone invoicing April–July 2026
 
-2. **301-3 (S0 Hurricane Phase II 2025)** — Ongoing through Aug 2026
-   - Invoiced: $360,982+
-   - Outstanding: $150K+ likely
-   - Status: Active operations with NOAA
+### **Mid-Term (90–180 Days)**
+- **Project 024-03 (NASA ROSES Wildfire)**: Grant execution Feb 2025 – Apr 2028; first field campaign invoicing likely Q3 2025
+- **Project 200-14 (NASA Stennis SwiftCore)**: Phase I due March 27, 2026 (completed); Phase II option likely upcoming
+- **Project 300-3 (NOAA IDIQ Hurricane)**: 20-unit S0 delivery series; invoicing March–July 2026 (delivery order #1305M226F0084)
 
-3. **031-1 (UMES S3)** — Pending final invoice
-   - Contracted: $83,000
-   - Status: Delivery overdue; awaiting resolution
-
-4. **024-10 (Barbados S0 VTOL)** — Training & handoff
-   - Invoiced: $38,000+
-   - Status: Platform delivery delayed; training July 2026
-
-### **Medium-Term (Q3–Q4 2026)**
-- **550-1 (Navy Magnetometer Phase II)** — Ongoing R&D; future options
-- **550-2 (Navy STTR Hazardous Weather)** — Phase II option period active through July 2026
-- **043-2 (By Light Mustang)** — Extended into 2026 (India demo cancelled)
-- **026-02 (Navy STTR Phase II – Hazardous Weather)** — Proposal preparation phase
+### **Critical Revenue Dependency**
+- **Government/NOAA projects represent 59% of total revenue** → concentration risk; ensure contract renewals are pursued proactively
 
 ---
 
-## Accounts Receivable Analysis
+## Cash Flow Summary
 
-| Category | Balance | Invoice Count | Days Outstanding | Priority |
-|----------|---------|----------------|------------------|----------|
-| **Government (75 invoices)** | $3,120,198.19 | 75 | TBD | Routine |
-| **Commercial** | $63,735.00 | 2+ | TBD | Low |
-| **TOTAL AR** | **$3,183,933.19+** | **77+** | — | **STRONG** |
+### **Accounts Receivable by Segment**
+| Segment | Amount | Days Outstanding (Est.) | Risk Level |
+|---------|--------|-------------------------|-----------|
+| **Government** | $3,120,198.19 | 30–60 days (typical) | 🟡 MEDIUM |
+| **Commercial** | $79,338.00 | 30 days (recent invoice) | 🟢 LOW |
+| **Total A/R** | **$3,199,536** | — | 🟡 **MEDIUM** |
 
-**Interpretation:** AR is **healthy and substantial**. Government contracts typically have 30–60-day payment terms; this $3.1M balance represents **1–2 months of government revenue** and is normal for this business model.
-
----
-
-## Cash Flow Indicators
-
-### ✅ **Positive Signals**
-- **Strong net position:** +$4.6M (company-wide profitability)
-- **Excellent commercial margin:** 91.9% on $2.88M commercial revenue
-- **Government revenue growing:** $4.39M (60% of portfolio) with consistent invoicing
-- **Substantial AR recovery potential:** $3.18M in outstanding invoices
-- **Major pipeline contract:** NOAA 2026 IDIQ (20 platforms + infrastructure) approaching invoicing phase
-
-### ⚠️ **Cash Flow Concerns**
-1. **BST Internal segment is loss-making:** -$1.07M (overhead allocation); verify this is R&D/facility absorption
-2. **Three critical delivery delays** affecting cash recognition:
-   - Barbados S0 VTOL (2 months late)
-   - UMES S3 (overdue; specification mismatch)
-   - USGS Volcano mission (pushed to Fall 2026)
-3. **Accounts Receivable aging:** Need confirmation of government payment cycles; $3.1M balance requires monitoring
-4. **Manufacturing capacity constraints:** Multiple concurrent orders (NOAA 20-unit IDIQ, Navy options, Notre Dame orders) may stress production
+**Cash Flow Outlook:**
+- Expected payment collection (60-day window): $3.2M influx
+- Current burn rate: ~$213K/month (expenses)
+- **Liquidity should normalize within 2 pay cycles** (government + commercial collections)
 
 ---
 
-## Projects Needing Data Clarification
+## Key Risks & Recommendations
 
-The following project codes appear in QuickBooks actuals but lack clear isolation or supporting documentation:
+### **IMMEDIATE ACTIONS (This Month)**
 
-- **004-00, 006-00, 010-1, 023-11, 024-01–024-09, 025-02–025-03, 025-09, 026-02–026-05, 026-09, 026-2**
+1. **Government A/R Recovery**
+   - Generate aging receivable report (>60 days); contact Navy, NOAA, USAF billing offices
+   - Estimate recovery: $2.5M–$3.0M within 30 days
+   - Impact: +$2.5M–$3.0M cash position improvement
 
-**Recommendation:** Reconcile project code structure in QuickBooks with Asana project tracker. Many appear to be portfolio aggregations or legacy codes rather than discrete projects.
+2. **Resolve UMES S3 Specification Issue**
+   - Clarify product delivered (S3 or S2 variant) and contractual compliance
+   - Determine if financial adjustment or re-delivery is required
+   - Potential impact: $100K–$150K contract resolution
+
+3. **Barbados VTOL Delivery Tracking**
+   - Confirm May 22, 2026 delivery timeline is achievable
+   - Identify any supply chain or manufacturing delays
+   - Estimated invoice value: $250K–$300K
 
 ---
 
-## Summary Recommendation
+### **30–60 Day ACTIONS**
 
-**Financial health is STRONG overall**, but execution risk is ELEVATED due to:
-1. **Three critical schedule slips** affecting near-term cash recognition
-2. **Manufacturing capacity constraints** amid growing order pipeline (20-unit NOAA IDIQ, Navy options, commercial orders)
-3. **Internal overhead allocation** (-$1.07M "BST Internal") needs review to distinguish between R&D investment and operational burden
-4. **Project code sprawl** makes portfolio management and forecasting difficult; recommend consolidation/clarification
+4. **Verify Internal Cost Allocation**
+   - Audit BST Internal (negative $1.07M) to confirm:
+     - Overhead allocation methodology is appropriate
+     - All direct project costs are properly coded to revenue projects
+     - No misclassification of billable labor as "internal"
 
-**Action items:**
-- Expedite resolution of Barbados S0 VTOL and UMES S3 delivery issues
-- Confirm government AR payment cycles and establish collection follow-up for invoices >60 days outstanding
-- Develop detailed manufacturing schedule for NOAA 2026 IDIQ and Navy Phase II options
-- Clarify "BST Internal" cost allocation and justify as strategic R&D or overhead absorption
+5. **Monitor By Light Mustang Contract**
+   - 26-day delivery delay; clarify any outstanding work/disputes
+   - Ensure $450K fixed-price payment is received in full
+   - Document any additional T&M claims to support future invoicing
+
+6. **NOAA/Hurricane Contracts Revenue Assurance**
+   - 59% of company revenue concentrated in government; diversify pipeline
+   - Prioritize pursuit of Phase II options and contract renewals for:
+     - Project 301-3 (S0 Hurricane Phase II)
+     - Project 200-13 (CRATER)
+     - Project 026-07 (NOAA IDIQ Hurricane)
+
+---
+
+## Strategic Observations
+
+### **Strengths**
+✅ **Exceptional profitability** — 65% net margin company-wide  
+✅ **Diversified client base** — NOAA, Navy, USAF, NASA, NASA SBIR, commercial customers  
+✅ **Proven platform** — S0, S2, S3, E2 UAS driving recurring revenue  
+✅ **Strong margins on commercial work** — 92% net; supports company stability  
+
+### **Vulnerabilities**
+⚠️ **Concentration risk** — 59% of revenue from government/NOAA  
+⚠️ **Cash flow timing** — $3.2M A/R creates working capital constraint  
+⚠️ **Project execution risk** — Multiple projects overdue (Barbados, By Light); delivery delays impact revenue recognition  
+⚠️ **Overhead allocation** — $1.07M BST Internal may obscure true project profitability  
+
+### **Recommended Strategic Actions**
+1. **Accelerate government A/R collections** — Target $3.2M recovery within 60 days
+2. **Diversify revenue stream** — Pursue commercial contracts to reduce government dependence (currently 59%)
+3. **Tighten project delivery** — Reduce delays (By Light 26 days late, Barbados POP slipped)
+4. **Validate cost allocation** — Confirm BST Internal overhead is properly distributed; audit for misclassified labor
+5. **Pursue contract renewals** — Proactively prepare Phase II proposals for SBIR/STTR programs expiring in 2026–2027
+
+---
+
+## Overall Assessment: **STRONG — WITH LIQUIDITY MANAGEMENT FOCUS**
+
+**Bottom Line:**
+- BST is **financially healthy and profitable** ($4.86M net income)
+- **Primary concern is cash flow timing**, not fundamentals
+- **Concentrate on A/R collection** over next 30–60 days to unlock $3.2M liquidity
+- **Monitor delivery schedules** to ensure revenue recognition stays on track
+- **Diversify revenue** away from government concentration (currently 59%)

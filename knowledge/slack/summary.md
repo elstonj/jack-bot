@@ -1,13 +1,19 @@
 # Slack Channels Overview
 
-Last scanned: 2026-05-18 02:11
+Last scanned: 2026-05-19 02:15
 
-Total channels scanned: 2
+Total channels scanned: 8
 
 ## Channels
 
-- **#flight-testing** -- 1 messages -- [flight-testing.md](flight-testing.md)
+- **#25_1-navy-sttr-boundary-layer** -- 2 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
+- **#commercial-sales** -- 22 messages -- [commercial-sales.md](commercial-sales.md)
+- **#flight-testing** -- 2 messages -- [flight-testing.md](flight-testing.md)
 - **#general** -- 1 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 8 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#operations** -- 2 messages -- [operations.md](operations.md)
+- **#s3** -- 7 messages -- [s3.md](s3.md)
+- **#sbir-volcano** -- 2 messages -- [sbir-volcano.md](sbir-volcano.md)
 
 ## Strategic Summary
 
@@ -15,32 +21,39 @@ Total channels scanned: 2
 
 ## Cross-Channel Themes
 
-### Active Projects & Platforms
-- **Aircraft Portfolio:** Fixed-wing (S-series), multirotor (E2, Flamewheel), and VTOL platforms (S0, S1-VTOL, S3)
-- **Development Focus:** Firmware/software development, payload integration, and flight testing coordination
-- **Operational Scope:** Spans from component sourcing to field testing to company-wide announcements
+### Active Projects
+- **Navy STTR (Boundary Layer)**: Atmospheric sensing for hazardous weather via S0 UAS platform
+- **SBIR Volcano**: Volcanic monitoring using S2/S3 aircraft with specialized sensors (NASA/USGS collaboration)
+- **S3 VTOL Development**: Hybrid fixed-wing/quadcopter with tilting rotors; 2-3 hour endurance target
+- **Flight Testing Operations**: Continuous testing across S-series, E2, Flamewheel, and VTOL platforms
 
-### Key People & Roles
-| Person | Primary Role |
-|--------|-------------|
-| **Jack Elston** | Leadership, firmware development |
-| **Maciej** | Lead flight testing and analysis |
-| **Joshua Fromm** | QA and component sourcing |
-| **Dan Prendergast** | Business development and operations |
-| **Ben Busby** | Flight testing operations |
+### Key Decision-Makers & Roles
+- **Jack Elston**: Overall leadership, firmware architecture, grants strategy, final approvals
+- **Joshua Fromm**: Lead engineer/designer (S3), QA, component sourcing, shop operations
+- **Maciej**: Flight testing lead, project oversight, technical proposal support, analysis
+- **Dan Prendergast**: Business development, proposals, operations coordination
+- **Meredith Needham**: Budget management, administrative functions, Navy contact interface
 
-*Additional core team:* Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Nate, Alex Lomis
-
-### Decision Patterns
-- **#flight-testing** = Technical troubleshooting and operational coordination (firmware, aircraft systems, payloads)
-- **#general** = Company-wide announcements, strategic decisions, and cross-functional coordination
+### Funding & Business Strategy
+- Heavy government contracting focus: Navy STTR, NASA SBIR, NOAA, USDA
+- #grants-and-funding as central coordination hub for proposals and awards
+- Commercial sales channel shows parallel effort in university and international markets
+- Budget tracking integrated with operations and grant execution
 
 ### Recurring Topics
-- Flight test execution and analysis
-- Hardware/firmware debugging and integration
-- QA and component management
-- Team coordination and operational planning
+- **Firmware/Software Development**: Persistent across flight-testing, S3, and general channels
+- **Hardware Integration & Testing**: Aircraft platforms (S0, S1, S2, S3) with payload compatibility
+- **Logistics & Procurement**: Supply chain management tied to project deadlines
+- **Government Compliance**: Administrative and reporting requirements for funded projects
+
+### Decision Patterns
+- Technical decisions driven by Jack Elston + specialist leads (Joshua Fromm, Maciej)
+- Budget/financial decisions routed through Meredith Needham
+- Proposal strategy and grant submissions coordinated in dedicated channel with broad input
+- Field operations autonomously managed by Maciej with escalation protocols
 
 ### Cross-Channel Connections
-- Flight testing issues flow between channels (technical details in #flight-testing, company updates in #general)
-- Same core team members active across both channels, indicating tight operational integration
+- **Projects → Testing**: Navy STTR and SBIR volcano projects feed into #flight-testing for validation
+- **Operations → Sales**: Procurement and logistics support commercial delivery timelines
+- **S3 Development → Flight Testing**: S3 platform development milestones tracked in both channels
+- **Grants → Operations/Commercial**: Funded projects create operational workload; success creates sales opportunities

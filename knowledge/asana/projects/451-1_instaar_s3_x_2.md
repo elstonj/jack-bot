@@ -22,11 +22,10 @@
 - **Estimates Approved**: December 11, 2024
 
 ## Task Summary
-- **Total Tasks**: 3 open, 0 completed (0% completion rate)
+- **Total Tasks**: 2 open, 0 completed (0% completion rate)
 - **Tasks by Assignee**:
   - Josh Fromm: 1 task — S3 delivery due Feb 27, 2026
   - Dan Prendergast: 1 task — Operator training Aug 11–13, 2025 (High urgency, travel not yet scheduled)
-  - Unassigned: 1 task — Kevin Rozmiarek contact/POC info (High priority)
 
 ## Recent Activity
 - **April 20, 2026** (Jack): INSTAAR x2 flagged as competing near-term delivery priority alongside Ottawa demo and Murphy's project — "whatever actually happens first" — actual sequence TBD.
@@ -38,5 +37,4 @@
 - **Insurance-funded replacement** for two damaged S2 units.
 - One S3 includes **$10k discount** (5% insurance deductible applied to total).
 - **URGENT — Operator Training Travel**: Dates are August 11–13, 2025 (~4 months out). Travel logistics **must be scheduled immediately**. Coordinate with Dan Prendergast and Kevin Rozmiarek to book flights and accommodations.
-- Kevin Rozmiarek contact task is high priority — confirm details and file for billing/communication.
 - **Project Priority**: Medium | **Customer Type**: Commercial

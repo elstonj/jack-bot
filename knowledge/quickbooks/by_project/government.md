@@ -55,8 +55,8 @@
 
 ## Expenses by Cost Category
 
-### **Materials & Supplies: $461,872.65**
-**Number of transactions:** 188  
+### **Materials & Supplies: $466,037.40**
+**Number of transactions:** 189  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
 - **JAWSTEC:** $19,627.62 (components for S0 platforms)
@@ -97,7 +97,7 @@
   - $339.13 [DC-Direct Material Purchases]
   - $698.35 [Inventory Asset] — Future S3 Sales
 
-**Total direct cost materials & supplies through 2026-09-28: $461,872.65** *(updated from $453,719.90)*
+**Total direct cost materials & supplies through 2026-09-28: $466,037.40** *(updated with Northwind composite direct costs: +$3,331.80)*
 
 ---
 
@@ -127,6 +127,4 @@
 **Details:**
 - **FedEx shipment (2026-05-14, Purchase FEDEX37097183):** $18.60 [DC-Direct Cost Shipping, Freight & Delivery]
   - Amprius Technologies shipment for Navy SBIR project [550-1] (order #11674)
-  - *Note: Additional $79.25 for future S3 sales inventory asset in separate category*
-
----
+  - *Note: Additional $79.25 for future S3 sales

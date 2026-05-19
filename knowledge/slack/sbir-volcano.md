@@ -74,7 +74,7 @@ The channel covers activities from 2020 through May 2026, with high activity dur
 - **Restrictions**: Operations limited to west side of ridge until NASA crew qualified
 
 **Popocatépetl Volcano (Mexico)**
-- **Status**: Deployment deferred from April 19-27, 2026; awaiting S3 aircraft repairs and testing completion; documentation review ongoing (as of May 11, 2026)
+- **Status**: Deployment deferred from April 19-27, 2026; awaiting S3 aircraft repairs and testing completion; documentation review ongoing as of May 18, 2026
 - **Significance**: SO2 output 10-50x higher than Makushin
 - **Aircraft**: S3 (Registration 20686S30001) selected due to high-altitude requirements (18,000-20,000 ft)
 - **Mission Parameters (As of April 13, 2026)**:
@@ -87,16 +87,20 @@ The channel covers activities from 2020 through May 2026, with high activity dur
   - Max range: ~10 km, may require directional antenna (yagi) or terrain-based approach
   - Optimizations planned: Climb-orbit radius 500+ meters to preserve battery; possible on-site terrain analysis for LOS verification
 - **Partners**: CENAPRED (Mexican institution), AFAC, AV3 for flight approvals
-- **AV3 Relationship** (as of May 11, 2026):
-  - Status of formal documentation (SoW, contract) under review - Dan Prendergast requesting clarification on formal relationship documentation
+- **AV3 Relationship** (as of May 18, 2026):
+  - **Status**: Unresolved - no SOW or contract found in shared drive
+  - **Question raised by Dan Prendergast**: No written agreement located; unclear if relationship is verbal only or documented elsewhere
+  - **Action needed**: Clarification on formal relationship documentation and agreement status with AV3
 - **Regulatory Status**: Written permission from Mexican authorities not secured as of April 13, 2026
 - **Payload Status** (as of April 18, 2026): 
   - Trace gas payload: Communication issue resolved with ADUM1201 magnetic isolator solution
   - Photogrammetry payload: Confirmed operational
   - Pitot system: Configured without drain (taped)
-- **Documentation** (as of April 28-29, 2026):
-  - Operating manual in development via Overleaf for flight permissions
-  - Initial draft shared with team for collaborative refinement
+- **Documentation** (as of May 18, 2026):
+  - Operating manual in development via Overleaf for AFAC flight permissions
+  - Manual reported as "really complete according to AFAC requirements"
+  - Dan Prendergast questioning thoroughness and origin of manual (potential AI generation)
+  - Manual requires detailed review despite completeness appearance
 
 **S10022 Aircraft Testing (April 2026)**
 - **Status**: Multiple test flights completed week of April 13-14, 2026
@@ -114,9 +118,4 @@ The channel covers activities from 2020 through May 2026, with high activity dur
 **S3 Design Improvement Initiative (April 18, 2026)**
 - **Status**: In-progress
 - **Focus**: Development of new S3 design generation
-- **Priority**: Jack Elston recommending focus shift to new design rather than incremental fixes
-
-**NASA CCRPP (Climate Change Response Program)**
-- **Status**: Multiple quarterly reports completed through Q8 (final report August 2024)
-- **Funding**: Requires 1:1 matching funds from non-NASA projects
-- **Components
+- **Priority**:

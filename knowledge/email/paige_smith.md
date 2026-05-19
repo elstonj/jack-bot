@@ -1,88 +1,69 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,578 (1,555 previous + 13 prior sample + 10 new)
-- **Date range:** March 24 – May 18, 2026 (56 days)
-- **Approximate volume:** ~28.2 messages per day (sustained consistency)
-- **Pattern:** New 10-message sample (May 17–18) confirms **continued ~90% automated/newsletter-driven baseline**. Weekend concentration (May 17–18, 10:31–21:01 UTC) consistent with established Saturday/Sunday activity pattern. No anomalous time clustering observed.
+- **Total messages scanned:** 1,628 (1,578 previous + 50 new)
+- **Date range:** March 24 – May 19, 2026 (57 days)
+- **Approximate volume:** ~28.6 messages per day (sustained consistency)
+- **Pattern:** New 50-message sample (May 18–19) confirms **sustained ~85–90% automated/newsletter-driven baseline**. Heavy Monday clustering (May 18, 03:50–23:20 UTC) with secondary burst on Tuesday morning (May 19, 02:21–02:59 UTC). Consistent with weekend inbox accumulation + early-week processing pattern.
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Senders
-1. **Jack Elston** (elstonj@blackswifttech.com, also media@blackswifttech.com) — **SUSTAINED/CRITICAL/FEDERAL PARTNERSHIPS & INTERNAL OPERATIONS & MEDIA AGGREGATION**:
-   - **Continuing context:** Weekly BST Internal Update Meeting (Wednesday 1–1:30pm MDT) participation confirmed. Media distribution hub for external intelligence.
+1. **Jack Elston** (elstonj@blackswifttech.com, media@blackswifttech.com) — **SUSTAINED/CRITICAL/FEDERAL PARTNERSHIPS & INTERNAL OPERATIONS & MEDIA AGGREGATION**:
+   - **Continuing context:** Weekly BST Internal Update Meeting participation confirmed. Media distribution hub for external intelligence.
+   - **New signal (May 18):** UAS VISION daily news forwarded to media@blackswifttech.com (Jack's aggregation channel); Paige receives downstream copy, indicating **Jack is primary curator of UAS/defense intelligence feeds for organization**.
 
 2. **Meredith Needham** (meredith.needham@blackswifttech.com) — **SUSTAINED/OPERATIONS & FINANCIAL MANAGEMENT**:
-   - **Continuing context:** Weekly Business Operations Meeting (Wednesday 1:30–2:30pm); financial operations/vendor payments management confirmed.
+   - **Continuing context:** Weekly Business Operations Meeting participation confirmed.
 
-3. **BST Sales/Generic Distribution Lists** (sales@blackswifttech.com, info@blackswifttech.com, media@blackswifttech.com) — **NEW PATTERN/TRADE SHOW & INDUSTRY EVENT DISTRIBUTION**:
-   - **3 new messages (May 17–18)**: SSD 2026 Defence Expo (May 18, 06:41, UNREAD); RMAME 2026 Rocky Mountain Advanced Manufacturing Expo (May 17, 20:10, UNREAD); STATION Austin event digest (May 17, 14:02, UNREAD).
-   - **Signal:** Paige appears on internal event/industry expo distribution lists; suggests **participation in or awareness of BST's trade show/conference calendar** (defense/aerospace + manufacturing sectors). Receipts to company-wide distribution indicates **company-level event coordination or vendor outreach**.
+3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **NEW/ELEVATED/TECHNICAL OPERATIONS & FLIGHT TESTING**:
+   - **4 new messages (May 18, 16:06–23:20 UTC)**: Multi-threaded exchange with Mark Goranson (Mark@nanoveu.com) on "Flight Testing Updates" — **ALL marked IMPORTANT/UNREAD**.
+   - **Signal:** Paige appears CC'd on or receiving forwarded technical flight testing correspondence with **external partner NanoVEU** (likely flight test vendor/partner). Exchange timing (16:06 MDT → 22:10 UTC → 23:20 UTC same-day across time zones) suggests **real-time technical coordination on active flight testing operations**.
+   - **Inference:** Prendergast is operations/engineering lead; Paige has oversight/awareness of flight testing milestones.
+
+4. **Beck Cotter** (beck.cotter@blackswifttech.com) — **NEW/INTERNAL COMMUNICATIONS & COMPANY NEWSLETTERS**:
+   - **1 new message (May 18, 14:59 MDT)**: "Fwd: Spring 2026 Newsletter Spectacular" sent to all@blackswifttech.com, marked IMPORTANT.
+   - **Signal:** Company-wide newsletter distribution; Paige receives internal communications broadcasts.
+
+5. **BST Sales/Generic Distribution Lists** (sales@blackswifttech.com, info@blackswifttech.com, media@blackswifttech.com) — **SUSTAINED/EXPANDED/TRADE SHOW, EVENT & VENDOR OUTREACH**:
+   - **5 new messages (May 18)**:
+     - **Generic Information inbox forwarded messages (3)**:
+       - Vahid Eghtesad / Fortuna Investments introduction (20:29 UTC)
+       - rwandel / QGround Control Support and FMS Software Download (11:45 UTC) — **UAS ground control software vendor**
+       - Corrin Wisniewski / Open roles (17:56 UTC) — **recruitment inquiry**
+     - **Sales/Amazon Business (1)**: Backup payment notification (14:15 UTC)
+     - **Media distribution (1)**: Geo-matching SLAM/mobile mapping products digest (14:24 UTC)
+   - **Signal:** Paige appears on company vendor intake channels; receives cold outreach for equipment, software, and services. **Info@blackswifttech.com appears to be catch-all for vendor solicitations and partner inquiries**.
 
 ### Top External Senders (Updated)
 
-1. **The New York Times** (breakingnews, editorpicks, nytdirect) — **SUSTAINED VERY HIGH (further refinement toward health/wellness/cultural content)**:
-   - **4 new messages (May 17–18)**:
-     - **Morning briefing (1)**: "The Morning: Good luck, grads!" (May 17, 11:34, marked IMPORTANT) — commencement/education content.
-     - **Editor picks (2, both marked IMPORTANT)**: "4 drugs that may increase your dementia risk" (May 17, 21:01); "When should a cavity be filled? Not all dentists agree." (May 17, 12:01) — **HEALTH/MEDICAL DECISION-MAKING CONTENT**: Both marked IMPORTANT, representing shift toward personal health intelligence over news/politics.
-   - **Pattern escalation:** **DEPRIORITIZATION OF POLITICAL/BREAKING NEWS CONFIRMED; ELEVATION OF PERSONAL HEALTH & WELLNESS CONTENT**: All new editor picks marked IMPORTANT are medical/health-focused, not political. Suggests active curation toward wellness information or possible healthcare research interest.
+1. **The New York Times** (breakingnews, editorpicks, nytdirect) — **SUSTAINED VERY HIGH/MIXED CONTENT PATTERN**:
+   - **12 new messages (May 18, spanning 12:01–23:20 UTC)**:
+     - **Breaking news (8)**: San Diego mosque shooting (3 variants), California fire evacuation, ICE agent/Venezuelan immigrant shooting, Mangione case gun evidence, Trump administration "lawfare" fund ($1.8B), Trump approval rating (marked IMPORTANT).
+     - **Editor picks (2)**: "Trump's comments reveal an out-of-touch billionaire, critics say" (marked IMPORTANT); "The yuppies changed everything" (marked IMPORTANT).
+     - **Morning briefing (1)**: "The Morning: The fighting never ends" (marked IMPORTANT).
+     - **Subscription promo (1)**: "$1/wk savings offer".
+   - **Pattern shift: REVERSION TO POLITICAL/BREAKING NEWS EMPHASIS**: Previous sample (May 17–18) showed health/wellness content marked IMPORTANT; this batch shows **return to political content marked IMPORTANT** (Trump comments, approval rating, lawfare fund, yuppies cultural piece). **Suggests curated news diet oscillates between health/wellness and political/cultural content based on daily news cycle**.
 
-2. **The Athletic Pulse** (TheAthletic@e1.theathletic.com) — **SUSTAINED ELEVATION/SPORTS ENTERTAINMENT**:
-   - **1 new message (May 17, 10:59, marked IMPORTANT)**: "Free-for-all at the PGA" — golf/PGA tour coverage. Continued sports engagement pattern (previously Knicks; now golf); marked IMPORTANT indicates active subscription engagement.
+2. **LinkedIn** — **SUSTAINED ELEVATION & ACTIVE ENGAGEMENT/CONTENT CREATION**:
+   - **9 new messages (May 19, 02:21–02:59 UTC)**:
+     - **Engagement metrics (2)**: "Paige, you're on a roll on LinkedIn!" (May 18, 22:59); "Paige, your posts got 57 impressions last week" (May 18, 19:55) — **active content creator**.
+     - **Network activity (4)**: PteroDynamics Inc. company post (02:59); Jared Bartels comment on Chip Bollendonk's post (02:21); Aviation Network group conversations alert (17:56); LinkedIn app promotion (15:43).
+     - **Job market intelligence (2)**: "Marketing Specialist salary trends: 8.3K jobs paying $80K+" (00:59); LinkedIn app promo (15:43).
+     - **Networking messages (1)**: "LinkedIn is better on the app" (15:43).
+   - **Signal: MAJOR ESCALATION IN LINKEDIN ACTIVITY**:
+     - **PteroDynamics Inc. mention (NEW)**: Paige received alert about PteroDynamics posting activity. **PteroDynamics is leading UAS/drone manufacturer** (competitor/adjacent to BST). Alert marked IMPORTANT/UNREAD suggests **active monitoring of PteroDynamics' public activity** (job postings, company updates, recruitment signals).
+     - **Content creation confirmed**: 57 impressions last week indicates Paige is **actively posting on LinkedIn** (not just consuming).
+     - **Jared Bartels engagement (NEW)**: Comment on Chip Bollendonk's post — **both appear to be aerospace/defense industry contacts** (further network mapping needed).
+     - **Job market tracking continues**: Marketing Specialist salary trends (8.3K jobs paying $80K+) marked IMPORTANT — **ongoing job market intelligence gathering** or **recruitment/hiring interest**.
 
-3. **Inside Climate News** (newsletters@insideclimatenews.org) — **ELEVATED/ENVIRONMENTAL INTELLIGENCE**:
-   - **1 new message (May 17, 10:31, marked IMPORTANT)**: "What to expect as El Niño approaches" — climate/weather pattern analysis. **Now marked IMPORTANT** (previously NOT marked in May 16 sample); **SIGNAL ESCALATION**: Climate/environmental intelligence elevated from secondary to actively prioritized reading.
+3. **The Athletic Pulse** (TheAthletic@e1.theathletic.com) — **SUSTAINED ELEVATION/SPORTS ENTERTAINMENT**:
+   - **1 new message (May 18, 10:04 UTC)**: "Oof, Detroit" (marked IMPORTANT) — sports commentary, likely NBA/sports reaction.
 
-4. **Toggl Track** (support@track.toggl.com) — **NEW/TIME TRACKING PRODUCTIVITY TOOL**:
-   - **1 new message (May 18, 06:06, marked IMPORTANT, no subject line)**:
-     - **Toggl Track support/notification**: Blank subject suggests system notification, account activity alert, or automated service message. Marked IMPORTANT despite missing content indicates **active use of Toggl Track time-tracking software**. **Inference**: Paige uses time-tracking tools (possible BST requirement, project billing, or personal productivity tracking). No prior Toggl messages in dataset suggests **recent activation or account change** (May 18).
-
-5. **Perkonsen Energy** (perkonsenergy.notifications@mail.ozols.lv) — **NEW/EUROPEAN BATTERY MANUFACTURER OUTREACH**:
-   - **1 new message (May 18, 08:04, UNREAD, CATEGORY_FORUMS)**: "Battery solutions manufactured in Europe" — unsolicited vendor outreach.
-   - **Signal**: Cold outreach from Latvia-based battery manufacturer; routed to info@blackswifttech.com (company general inbox) but visible in Paige's email stream. Suggests **possible vendor outreach to BST's general contact** or **Paige CC'd on company vendor communications**. Connects to observed Amprius Technologies (battery supplier) and energy sector job alerts.
-
-6. **Air and Space Forces Magazine / Mitchell Institute (AFA.org, mitchell@afa.org)** — **SUSTAINED ELEVATION/STRATEGIC AEROSPACE & ALLIED DEFENSE**:
-   - No new messages in this sample (last activity May 16); pattern continues.
-
-7. **LinkedIn** — **SUSTAINED ELEVATION & ACTIVE RECRUITMENT ATTENTION**:
-   - No new messages in this 10-message sample; pattern of 11+ profile searches per day sustained from prior period.
-
----
-
-## Topic Patterns
-
-### Primary Themes (Confirmed & Sustained)
-1. **Defense & Aerospace Policy**: Space Force operations, USAF acquisition programs, allied air force capabilities
-2. **UAS/Drone Intelligence**: Multi-daily industry news feeds
-3. **Professional Development & Network Visibility**: LinkedIn recruiter activity, job market intelligence
-4. **Trade Shows & Industry Expos**: SSD 2026 Defence Expo, RMAME 2026 (Advanced Manufacturing), STATION Austin
-
-### Secondary Themes (Elevated/Refined)
-5. **Personal Health & Wellness Intelligence**: Dementia risk factors, dental care, medication decision-making — **ELEVATED TO ACTIVELY MARKED IMPORTANT**
-6. **Sports/Entertainment**: NBA (Knicks), PGA golf — active engagement
-7. **Climate/Environmental Intelligence**: El Niño patterns, weather analysis — **ELEVATED TO ACTIVELY MARKED IMPORTANT**
-8. **Battery/Energy Technology**: European battery manufacturers, energy sector vendors — possible supply chain or technology research
-
-### Client/Organization Names Visible
-- **Amprius Technologies** (battery/energy supplier)
-- **Turner Construction Company** 
-- **EnergyHub** (clean energy software)
-- **Lockheed Martin / Missiles & Fire Control**
-- **Perkonsen Energy** (Latvia, battery manufacturer — NEW)
-- **Black Swift Technologies** (internal trade show/expo participation)
-
----
-
-## Communication Patterns
-
-### Temporal Patterns
-- **Weekend concentration**: May 17–18 messages clustered 10:31–21:01 UTC (Sunday morning to evening)
-- **Early morning activity**: May 18, 06:06–08:04 (Monday morning, likely pre-work inbox review)
-- **Sustained 90% newsletter/automated baseline**: No human-to-human correspondence in new sample; all external messages system-generated or subscription-based
-- **All new messages marked UNREAD** in fresh sample (May 17–18), indicating weekend batch arrival before processing
-
-### Mailing Lists & Group Distribution
-- **Internal BST distribution lists**: sales@blackswifttech.com, info@blackswifttech.com, media@blackswifttech.com (trade show/event broadcasts)
-- **NYT subscriber segments**: editorpicks, nytdirect (tiered/topic
+4. **SAE Media Group / Defense & Aerospace Conferences** — **ELEVATED/MILITARY ROBOTICS & UAV EVENTS**:
+   - **3 new messages (May 18, 07:00–23:02 +1000)**:
+     - **MRAS USA 2026**: "Enhancing combat medevac through multi-domain integration" (23:02 +1000) — military robotics/autonomous systems conference.
+     - **UAV Technology Conference**: "New Military Perspectives Tailored for You" (23:00 +1000, marked IMPORTANT) — defense-focused UAV event.
+     - **Lo

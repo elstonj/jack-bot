@@ -1,113 +1,80 @@
 # Meredith O'Hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,708 (1,697 previous + 11 new from May 17–18)
-- **Date range:** March 23 – May 18, 2026 (approximately 8 weeks)
+- **Total messages scanned:** 1,772 (1,708 previous + 64 new from May 18–19)
+- **Date range:** March 23 – May 19, 2026 (approximately 8 weeks)
 - **Approximate volume:** 25–40 emails per day (mix of sent, received, and automated)
-- **May 17–18 new data:** 11 messages; **100% transactional/automated/promotional**; **OUT OF OFFICE MODE CONTINUES ACTIVE** — 1 additional out-of-office auto-reply sent (May 17, 11:00:42 to Bloomberg subscription bounce address); no human-initiated correspondence
+- **May 18–19 new data:** 64 messages; **~35% human-initiated (23 sent/received from Meredith directly); ~65% transactional/automated/promotional**
+- **Notable shift:** Out-of-office mode ended May 18 morning; Meredith returned to active email and correspondence. High activity May 18 (52 messages) with critical urgent items resolved same-day.
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Jack Elston** (elstonj@blackswifttech.com) — Operations, financial/legal matters, compliance, escalations; legal disclosure schedules coordination; MHP data alignment forwarding
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Parts/manufacturing coordination; return label coordination with vendors
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — Technical lead; Army modular UAS payload SBIR teaming discussions; project coordination via Asana
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Export control and SNAP-R classification coordination; ECCN scheduling
+- **Jack Elston** (elstonj@blackswifttech.com) — Operations, financial/legal matters, compliance, escalations; legal disclosure schedules (Black Swift - Disclosure Schedules thread active May 18)
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Parts/manufacturing coordination, vendor payment coordination, return label coordination; escalation on payment-ready items (Lisa Strod/BISCO payment coordination May 18)
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — Technical lead, business development; forwarded company newsletter May 18
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Export control and SNAP-R classification coordination; ECCN for S3 coordination; actively copied on Flight Testing Updates thread with NanoVeu (Mark Goranson) May 18
+- **Nathaniel Straus** (nate.straus@blackswifttech.com) — NEW; forwarded Amazon order update May 18 (appears to be parts/manufacturing coordination)
 
 ### Top External Contacts
 
 **Legal & Compliance**
-- **Nadia Bryan** (nbryan@kofirm.com; K&O Firm) — Black Swift disclosure schedules legal matter
-- **Microhard Systems** (via DocHub finalization, May 17) — Mutual Nondisclosure Agreement finalized
+- **Nadia Bryan** (nbryan@kofirm.com; K&O Firm) — Black Swift disclosure schedules legal matter (thread active through May 18, 22:36 UTC; legal matter ongoing)
 
 **Export Control & Classification**
-- **Jon Vince** (jon.vince@rogers.com) — SNAP-R classification (Control Number Z1893789); ECCN coordination
-- **Tanay Topac** (tanaytopac@stanford.edu; Stanford University) — MHP data alignment partnership
+- **Jon Vince** (jon.vince@rogers.com) — SNAP-R classification (Control Number Z1893789 accepted; coordination complete as of May 18 morning)
 
-**Business Development**
-- **Arthur Shune** (arthur@skymesasystems.com; Sky Mesa Systems) — Army modular UAS payload SBIR teaming proposal
+**Flight Testing & Technical Partners**
+- **Mark Goranson** (Mark@nanoveu.com; NanoVeu) — **NEW/ELEVATED PRIORITY**; Flight Testing Updates thread (active May 18, multiple exchanges); appears to be active technical partner or test vendor
+- **Jeff Catherwood** (jcatherwood@microhardcorp.com; Microhard Corp) — Radio/communications equipment quotes (May 18: "Request for quote" and "Quote for radios" exchanges); likely related to NDA finalized earlier
 
-**Vendor/Supply Chain**
-- **Lee Skidmore** (lee@rubiconaerospace.com; Rubicon Aerospace) — Return logistics coordination
-- **Marlo** (marlo@kmac-distribution.com; KMAC Distribution) — Parts orders
+**Supply Chain & Vendor Coordination**
+- **Marlo** (marlo@k-mac-plastics.net; K-MAC Plastics) — **ELEVATED PRIORITY**; new order request May 18 11:15–11:39 (urgent parts order; marked IMPORTANT)
+- **Lisa Strod** (lstrod@biscoind.com; BISCO Distribution) — **URGENT PAYMENT COORDINATION**; "Ready for payment" thread May 18 (marked IMPORTANT; Meredith coordinated payment with Joshua Fromm 11:46 AM; invoice follow-up with UMES Accounts Payable 11:57 AM)
+- **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov; NOAA Federal) — **NEW/GOVERNMENT CLIENT**; Display Quote conversation May 18 (marked IMPORTANT; Meredith responded 11:45 AM); suggests government procurement opportunity
 
-**Hobby/Specialty Retail** (routing through purchasing@blackswifttech.com)
-- **HeliDirect** (sales@helidirect.com) — Helicopter parts/components (Spirit W3 FBL, XL Power Stratos 200)
-- **Hobbyking** (news@notify.hobbyking.com) — Hobby electronics/RC components
-- **DigiKey** (purchasing alerts) — Electronics distributor
-- **Spindrift Market** — Beverage/refreshment ordering
+**Real Estate / Non-Business**
+- **Katarina Schare** (katarina@havenlybaked.com; Havenly Baked) — **PERSONAL/PROPERTY MATTER**; "Connecting about reconciliation costs for 2840 Wilderness Place" thread (marked IMPORTANT; multiple exchanges May 18 09:25–23:04; property address suggests personal real estate/rental property coordination; Meredith initiated contact May 18 09:25, Katarina responded with discussion of reconciliation costs)
+
+**Hobby/Specialty Retail & Electronics Vendors**
+- **HeliDirect** (sales@helidirect.com) — Active hobby helicopter components (SAB Helicopters promotional May 18)
+- **AMain Hobbies** (sales@t.amain.com) — Hobby electronics orders (Hobbywing RPM sensors for high-voltage ESC; shipment notification May 19 03:24)
 
 ---
 
 ## Topic Patterns
 
 ### Critical/Active Projects
-- **Army Modular UAS Payload SBIR:** Beck Cotter + Sky Mesa Systems teaming (May 15)
-- **SNAP-R Export Classification:** Control Number Z1893789 accepted; ECCN for S3 meeting scheduled May 18, 2026 2pm MDT
-- **Black Swift Disclosure Schedules:** Formal legal matter with K&O Firm and Jack Elston (May 15)
-- **MHP Data Alignment:** Stanford University research coordination (May 15)
-- **Microhard Systems NDA:** Finalized mutual nondisclosure agreement (May 17) — NEW; suggests emerging partnership or vendor relationship
+- **SNAP-R Export Classification (COMPLETED):** Control Number Z1893789 accepted; ECCN coordination finalized May 18 morning; Meredith confirmed completion with Daniel Prendergast 09:26–09:31
+- **Black Swift Disclosure Schedules:** Ongoing legal coordination with K&O Firm and Jack Elston (thread continued through May 18)
+- **Flight Testing Program:** **NEW/ELEVATED**; Mark Goranson (NanoVeu) Flight Testing Updates thread active May 18 (multiple time-sensitive exchanges flagged IMPORTANT); appears to be active test program with external partner
+- **ECCN for S3 Meeting:** Scheduled May 18, 2pm MDT; Gemini Notes reminder sent to Meredith 20:10 UTC May 18 (meeting occurred or was managed)
 
 ### Recurring Subject Themes
-- Vendor order tracking and delivery (DHL, Amazon, USPS, KMAC, DigiKey, Spindrift, Speedway Motors)
-- **Hobby/specialty electronics and helicopter components** (HeliDirect, Hobbyking) — NEW emphasis; suggests either personal hobby or emerging product line/integration work
-- Export control/classification milestones
-- Legal disclosure document exchange
-- Business development and partnership proposals
-- Task/project management via Asana (8 overdue tasks flagged May 15)
-- Promotional/marketing emails (Budget, Harbor Freight, Speedway Motors, Axios news, Bloomberg)
-- Health/benefits statements (UnitedHealthcare)
-- Industry events (Rocky Mountain Advanced Manufacturing Expo registration, September 18, 2026) — NEW
+- **Vendor payment coordination (URGENT):** BISCO Distribution payment escalation (Lisa Strod, Joshua Fromm coordination May 18)
+- **Parts orders and supply chain:** K-MAC Plastics new order (11:15–11:39 AM); Paramount Tube purchase request (11:28 AM); DigiKey orders (with shipment delay notification); Mouser Electronics orders; McMaster-Carr orders; Protospace Mfg USA receipt
+- **Manufacturing/procurement components:** Southco Latches order forwarded via Joshua Fromm; reinforced kraft shipping materials (Amazon); Hobbywing RPM sensors (hobby/specialty electronics)
+- **Government/institutional procurement:** NOAA Federal Display Quote conversation (Nikolai Pawlenko May 18)
+- **Hobby/specialty electronics:** Continued emphasis on HeliDirect, AMain Hobbies, SoloGood FPV transmitters, SAB Helicopters
+- **Legal/real estate:** Personal property reconciliation costs discussion (Havenly Baked, 2840 Wilderness Place address)
+
+### External Organizations & Vendors Appearing in May 18–19 Data
+- **NanoVeu** (Flight Testing partner) — Time-sensitive technical coordination
+- **Microhard Corp** (radio/communications) — Equipment quotes
+- **NOAA Federal** — Government procurement opportunity
+- **BISCO Distribution** — Critical payment escalation
+- **K-MAC Plastics** — Urgent parts order
+- **DigiKey, Mouser Electronics, McMaster-Carr, Paramount Tube, Protospace Mfg USA** — Standard manufacturing suppliers
+- **Phase 1 Aviation LLC** — QuickBooks payment confirmation (new vendor context; aircraft/aviation-related)
+- **CAPS Aviation** — Liferafts repair station inquiry (aviation-related; forwarded to purchasing May 18 21:41)
 
 ---
 
 ## Communication Patterns
 
-### Time & Frequency
-- **May 15, 2026 (Friday):** Heavy activity (60+ messages); out-of-office mode activated; concentrated IMPORTANT/legal/export control items
-- **May 16–18, 2026 (Saturday–Monday):** Light activity (20 messages); **100% automated/transactional/promotional/system-generated**; 1 additional out-of-office auto-reply sent (May 17, 11:00 PDT to Bloomberg); no human-initiated correspondence
-- **Weekend purchasing pattern:** Continued high volume of hobby/electronics and promotional emails Sunday May 17 (6 messages), suggesting either automated subscriptions or weekend activity before full absence took effect
-
-### Out-of-Office Status
-- **Active since:** May 15, 16:00 PDT
-- **Duration extension:** Now confirmed through at least May 18 (Monday morning)
-- **Auto-reply behavior:** System generating bounce-back responses to promotional/transactional emails; May 17 reply to Bloomberg subscription list indicates catch-all auto-reply rule remains comprehensive
-- **Pending workload:** 8 overdue Asana tasks flagged as of May 15; ECCN for S3 meeting scheduled May 18 at 2pm MDT (meeting may proceed without Meredith present, or may be rescheduled)
-
-### Email System Patterns
-- Receiving high volume of purchase-related promotional emails (forwarded via purchasing@blackswifttech.com routing)
-- Active subscriptions continue: Bloomberg, Axios, Hobbyking, Herald Freight, Speedway Motors, DigiKey alerts
-- **NEW pattern:** Emerging hobby electronics/RC component subscriptions (HeliDirect, Hobbyking) not previously flagged; may indicate new product exploration or personal hobby
-- USPS Informed Delivery subscription continues
-- Generic BST info@ address receiving event registration notifications (RMAME Expo, Perkons Energy battery solutions)
-
----
-
-## Key Relationships
-
-### Closest Collaborators (by frequency & urgency)
-1. **Daniel Prendergast** — Export control/ECCN critical path items (SNAP-R classification)
-2. **Jack Elston** — Legal/compliance escalations and strategic coordination
-3. **Beck Cotter** — Technical/business development (SBIR proposal pipeline)
-4. **Joshua Fromm** — Vendor/supply chain issue resolution
-
-### External Relationships (importance & activity)
-- **Jon Vince** (export control consultant) — Active on time-critical ECCN scheduling
-- **Nadia Bryan** (K&O Firm legal counsel) — Formal legal matter (disclosure schedules)
-- **Microhard Systems** (via DocHub) — **NEW; partnership escalation** (mutual NDA finalized May 17)
-- **Arthur Shune** (Sky Mesa Systems) — Active business development opportunity
-- **Lee Skidmore** (Rubicon Aerospace) — Vendor escalation requiring coordination
-- **HeliDirect** (emerging contact) — **NEW; specialty components supplier** (hobby or product integration)
-
----
-
-## Notable Observations
-
-1. **Out-of-Office Extended Through Monday May 18:** Meredith remains in full out-of-office mode through at least Monday morning. May 17 auto-reply to Bloomberg indicates comprehensive catch-all rule still active. The **May 18, 2pm MDT ECCN for S3 meeting is scheduled** while she is away — meeting may be delegated, rescheduled, or proceeding without her.
-
-2. **Microhard Systems NDA Finalized (May 17):** A new mutual nondisclosure agreement was finalized via DocHub during her absence. This suggests:
-   - Pre-negotiated deal that reached completion without her direct involvement May 17
-   - Or, this was queued for signature/finalization before her departure and completed automatically
-   - Indicates emerging partnership or vendor relationship requiring follow-up upon return
+### Time & Frequency (May 18–19 Activity)
+- **May 18, 2026 (Monday):** Heavy activity spike; **52 messages in single day**; concentrated between **09:25–11:57 AM MDT** (7 human-initiated sent emails); returned from out-of-office; urgent items resolved same-day (SNAP-R confirmation, vendor payments, quote responses, parts orders)
+- **May 18 afternoon/evening:** Continued monitoring of incoming transactional emails (payment confirmations, shipment notifications, order confirmations); Asana unread notifications flag 18:32 UTC; Gemini Notes meeting reminder 20:10 UTC
+- **May 18 late evening:** Personal property reconciliation exchange with Katarina Schare (23:04 

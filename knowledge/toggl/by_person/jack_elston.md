@@ -1,19 +1,20 @@
 # Jack Elston — Time Tracking
 
 ## Summary
-- Total hours tracked: 12,738.3 hours (cumulative)
-- Primary projects: Project None (7,079.0h), Project 183171534 (2,110.3h), [300-3] 2026 IDIQ (Hurricane) (1,303.0h), Project 154533463 (357.2h), [001-13] General Operations (249.6h)
-- Time period: Extensive historical tracking through current activity (latest batch: 9.0 hours)
+- Total hours tracked: 12,749.5 hours (cumulative)
+- Primary projects: Project None (7,079.0h), Project 183171534 (2,110.3h), [300-3] 2026 IDIQ (Hurricane) (1,303.0h), Project 154533463 (357.2h), [001-13] General Operations (252.1h)
+- Time period: Extensive historical tracking through current activity (latest batch: 11.2 hours)
 
 ## Project Breakdown
 - **Project None**: 7,079.0 hours (55.6% of total)
 - **Project 183171534**: 2,110.3 hours (16.6% of total)
 - **[300-3] 2026 IDIQ (Hurricane) (NOAA)**: 1,303.0 hours (10.2% of total)
 - **Project 154533463**: 357.2 hours (2.8% of total)
-- **[001-13] General Operations (Overhead)**: 249.6 hours (1.96% of total)
+- **[001-13] General Operations (Overhead)**: 252.1 hours (1.98% of total)
+- **[001-13] Proposals (IRAD)**: 63.5 hours (0.5% of total)
 - **Commercial Sales**: 187.3 hours (1.5% of total)
+- **[001-13] Marketing (Overhead)**: 4.0 hours (0.03% of total)
 - **[001-13] BD Pipeline (Overhead)**: 130.8 hours (1.0% of total)
-- **[001-13] Proposals (IRAD)**: 58.7 hours (0.5% of total)
 - **[001-07] S3 IRAD**: 25.5 hours (0.2% of total)
 - **[044-1] EMASS Chip Integration**: 41.7 hours (0.3% of total)
 - **[001-14] SwiftCore 3.3 (IRAD)**: 6.7 hours (0.1% of total)
@@ -21,20 +22,26 @@
 - **Remaining projects**: 1,205.8 hours (9.5% of total)
 
 ## Recent Activity
-Most recent work (9.0 hours tracked in current batch):
+Most recent work (11.2 hours tracked in current batch):
 
-- **[001-07] S3 IRAD**: 5.0 hours (55.6% of batch)
-  - Flight Testing: 5.0h (hands-on aircraft testing focus)
+- **[001-13] Proposals (IRAD)**: 4.8 hours (42.9% of batch)
+  - 2026 NASA Phase I: 2.8h (primary focus)
+  - 2026 NASA Phase I: 1.0h (continued work)
+  - SOCOM Mod Payload Std for Low-cost EW UAS Proposal: 1.0h (emerging opportunity)
 
-- **[001-13] General Operations**: 4.0 hours (44.4% of batch)
-  - Answering Emails: 2.0h (administrative communication)
-  - Document Review - KS: 2.0h (likely Kansas-related documentation or site review)
+- **[001-13] Marketing (Overhead)**: 4.0 hours (35.7% of batch)
+  - Guest Speaker at the Denver Mining Club: 4.0h (external engagement/business development)
+
+- **[001-13] General Operations (Overhead)**: 2.5 hours (22.3% of batch)
+  - Answering Emails: 1.0h (administrative communication)
+  - Sona / Jack Sync: 1.5h (likely internal synchronization meeting or performance review)
 
 ## Patterns
-- **S3 IRAD acceleration**: Flight Testing now dominates current batch (5.0h); [001-07] S3 IRAD increased from 20.5h cumulative to 25.5h, suggesting active shift toward hands-on testing work
-- **Rebalanced workload**: Current batch shows shift away from proposals (previous 4.0h) back toward core technical work (5.0h flight testing)
-- **Overhead maintenance**: 4.0h General Operations sustained (similar to previous 3.4h), maintaining consistent administrative load
-- **Document review activity**: New "Document Review - KS" entry suggests expanded administrative/documentation responsibilities, possibly related to Kansas operations or KSC (Kennedy Space Center) engagement
-- **Proposal surge has normalized**: After 4.0h proposal work in previous batch, current work focuses on technical execution rather than business development
-- **Technical project focus**: Current allocation emphasizes hands-on testing (S3 IRAD flight work) over strategic/proposal activities, indicating project maturation or milestone phase
-- **Consistent multi-project engagement**: Maintains primary focus between S3 IRAD technical work and General Operations overhead
+- **Proposal work resurged**: 4.8h in current batch versus proposal work declining in previous batch; 2026 NASA Phase I is primary focus (3.8h cumulative in current batch), indicating active pursuit of significant NASA opportunity
+- **Public engagement expanded**: New 4.0h Marketing activity (Guest Speaker at Denver Mining Club) represents external visibility/business development effort—new category for recent activity
+- **Diversifying proposal pipeline**: Introduction of SOCOM EW UAS proposal alongside NASA work suggests broadening capture strategy across defense modernization opportunities
+- **Overhead responsibilities continue**: General Operations and now Marketing indicate leadership/BD role beyond technical execution
+- **S3 IRAD flight testing paused**: Previous 5.0h flight testing batch not continued in current data; focus shifted back to proposal and marketing work, suggesting cyclical prioritization
+- **Leadership/visibility indicators**: Combination of proposal writing, public speaking, and internal sync meetings suggests Jack has grown into business development and strategy role beyond technical project focus
+- **Multi-proposal juggling**: Managing at least 2 active proposal efforts (NASA Phase I, SOCOM) concurrently while maintaining external visibility
+- **Overall shift**: Movement away from technical execution (flight testing) toward business development, proposals, and external engagement
