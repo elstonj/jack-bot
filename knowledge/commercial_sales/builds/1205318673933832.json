@@ -1,6 +1,6 @@
 {
-  "asana_gid": "1205971100510799",
-  "asana_task_name": "[1313] ERAU 4 S0 VTOL",
+  "asana_gid": "1205318673933832",
+  "asana_task_name": "[1298] ERAU - S0 & S0 VTOL deployment ",
   "customer": "Embry-Riddle Aeronautical University",
   "customer_contact": "Kevin Adkins",
   "customer_email": "adkinsk@erau.edu",
@@ -31,24 +31,10 @@
   "invoice_date": "2025-05-07",
   "invoice_amount": 21181.81,
   "invoice_number": "1667",
-  "paid_date": "2025-05-07",
+  "paid_date": null,
   "parts": [
     {
       "name": "S0 VTOL airframe",
-      "ordered": true,
-      "received": false,
-      "vendor": "Black Swift Technologies",
-      "order_date": null
-    },
-    {
-      "name": "Samsung Galaxy Tab Active2",
-      "ordered": true,
-      "received": false,
-      "vendor": "Black Swift Technologies",
-      "order_date": null
-    },
-    {
-      "name": "SwiftStation Ground Station",
       "ordered": true,
       "received": false,
       "vendor": "Black Swift Technologies",
@@ -61,12 +47,13 @@
   "owners": {
     "interface": "Beck",
     "invoicing": "Meredith",
-    "build": "Alex Lomis"
+    "build": "Nate"
   },
-  "notes": "Invoice #1667 (May 2025, $21,181.81) PAID. Outstanding invoice #1730 (Jan 2026, $2,462.50) for follow-on charges remains unpaid. System in QC with daily flight testing in progress (Beck email March 2026); bug tracking underway with customer Kevin Adkins confirming patience with resolution timeline. Training planned June 2025 at BST. QBO records confirm active engagement and paid invoices warrant KEEP status despite outstanding balance on #1730.",
+  "notes": "KEEP override: QBO invoice #1667 (2025-05-07, $21,181.81) exists and is paid in full, plus legal disclosure (2026-05-05) confirms two S0 VTOL units ordered and paid for with delivery delays pending settlement agreement. Asana task marked 'Closed' with $0 values, but QBO invoices and substantive recent email/legal activity (2026-05-05) override stale status. Currently in QC per Slack card (2026-05-18). Invoice 1545 (2023-01-10, $15,028.39) is separate historical transaction; Invoice 1730 (2026-01-08, $2,462.50) balance due.",
   "missing_fields": [
     "receive_by",
-    "shipped_date"
+    "shipped_date",
+    "tracking_number"
   ],
   "last_evidence_date": "2026-05-18"
 }

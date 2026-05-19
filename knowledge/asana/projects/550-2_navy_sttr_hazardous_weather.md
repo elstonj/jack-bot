@@ -7,7 +7,7 @@
   - Base Period: July 7, 2025 - January 6, 2026 ✓ COMPLETED
   - Option Period: January 7, 2026 - July 6, 2026 (in progress)
   - Final deliverable due: September 1, 2026
-- **Status**: Active (Option Period in progress; technical tasks prioritized for May–June)
+- **Status**: Active (Option Period in progress; technical tasks prioritized for May–June; Phase II Cal/Val Plan due May 18)
 - **Team Members**: 
   - Maciej Stachura (project owner; primary technical lead)
   - Jack Elston (supporting deliverables)
@@ -18,7 +18,7 @@
   - ERAU/Josh Wadler ($18,763 paid in base period; wadlerj@erau.edu; Pre-Award Contracting Officer: Garrett Filson, filsong@erau.edu)
   - Old Dominion University/John Park (h1park@odu.edu; Pre-Award Contracting Officer: Stephanie Haskell, sl2harri@odu.edu)
   - University of Miami/Jun Zhang (jun.zhang@earth.miami.edu; **CRITICAL: must be included on all correspondence** — funds handled through ERAU sub)
-- **Risk Signals**: One open task (Phase II Cal/Val Plan) due May 18, 2026 (Maciej Stachura); Progress Report (June 3) and Final Report (Sept 1) still in progress.
+- **Risk Signals**: One open task (Phase II Cal/Val Plan) due May 18, 2026 (Maciej Stachura); Progress Report (June 3) and Final Report (Sept 1) still pending completion.
 
 ## Key Deliverables & Milestones
 - **Base Period Kickoff** (July 22, 2025): $70,000 ✓ COMPLETED
@@ -36,13 +36,12 @@
 - **Completed Tasks**: 31 historical (~74% overall completion rate through base period)
 - **Tasks by Assignee**:
   - **Maciej Stachura**: 1 open task (Phase II Cal/Val Plan due May 18); responsible for Progress Report (June 3) and Final Report (Sept 1) deliverables; **prioritized through May–June per team feedback (2026-05-06)**
-  - **Meredith O'hara Needham**: Invoicing administration (100% on-time track record; latest invoice submitted; next invoices due June 3 and September 1)
+  - **Meredith O'hara Needham**: Invoicing administration (100% on-time track record; latest invoice submitted April 17; next invoices due June 3 and September 1)
 
 ## Recent Activity
 - **April 17, 2026**: Invoice and Navy STTR progress report submitted (Meredith); templates and instructions confirmed at navysbir.com.
 - **May 6, 2026**: Maciej updated Asana with Navy STTR task priority elevation; Navy SBIR mostly caught up.
 - **May 8, 2026**: Jack confirmed Navy STTR has priority; SBIR on schedule.
-- **New task identified** (raw data): Phase II Cal/Val Plan due May 18, 2026 (Maciej Stachura) — replaces prior "Add mag-IMU alignment" task.
 
 ## Upcoming Critical Dates
 - **May 18, 2026**: Phase II Cal/Val Plan (Maciej Stachura) — **OPEN TASK**
@@ -65,8 +64,8 @@
 
 ## Notes & Context
 - **Project Focus**: Refining the S0 platform and demonstrating its utility for operational Navy use through targeted R&D.
-- **Billing**: All invoices submitted via WAWF system. Latest invoice confirmed submitted April 17.
-- **Subcontractor Coordination**: Jun Zhang (University of Miami) is funded through ERAU sub but must be included on all project correspondence.
+- **Billing**: All invoices submitted via WAWF system. Latest invoice confirmed submitted April 17; next submissions due June 3 and September 1.
+- **Subcontractor Coordination**: Jun Zhang (University of Miami) is funded through ERAU sub but **must be included on all project correspondence**.
 - **Report Templates**: Available at https://navysbir.com/links_forms.htm. All reports must prominently display required cover information per Navy guidelines.
 - **Status (per team feedback)**: Technical tasks substantially complete as of early May; focus now on Cal/Val Plan (due May 18), Progress Report (due June 3), and Final Report (due Sept 1). Maciej is actively updating Asana with May–June priority tasks.
 - **Priority**: Navy STTR elevated to top priority through end of option period (per Jack, May 8).

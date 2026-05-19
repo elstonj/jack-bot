@@ -1,68 +1,70 @@
 # Dan Prendergast — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 52 (33 previous + 19 new)
-- **Date range:** 10 May 2026 – 15 May 2026
-- **Activity pattern:** Sustained high-intensity engagement across 6-day window. 15 May shows 14 messages (major spike), with concentrated outbound activity 10:24–16:31 MDT (morning-afternoon), plus inbound government/international coordination 16:01–23:06 UTC. Peak periods: government exercise coordination (14–15 May), international AFAC approval workflow (15 May), SBIR/Army payload teaming (15 May), SNAP-R classification processing (15 May).
+- **Total messages scanned:** 59 (52 previous + 7 new)
+- **Date range:** 10 May 2026 – 19 May 2026
+- **Activity pattern:** High-intensity engagement sustained through 19 May. New data (18–19 May) shows 7 messages: 6 outbound (9:21–16:19 MDT on 18 May) plus 1 automated notification (19 May 05:04 UTC). Activity moderating from 15 May spike but remaining operationally focused. Key threads: SNAP-R classification follow-up, flight testing coordination, Arctic demo logistics (battery shipment), SOCOM briefing prep, SBIR opportunities.
 
 ## Key Correspondents
 
 ### Outbound (who Dan emails — updated)
-1. **Evan M Wolff** (evan.m.wolff.mil@socom.mil) — USSOCOM — 3 replies on (U) Clearance Verification (14–15 May); continued escalated engagement
-2. **Jon Vince** (jon.vince@rogers.com) — SNAP-R/external — 3 replies on Classification Accepted/Control No. Z1893789 (15 May 12:16–12:29 MDT); rapid same-day exchange
-3. **Arthur Shune** (arthur@skymesasystems.com) — SkyMesa Systems — 1 reply on Army modular UAS payload SBIR (15 May 12:49 MDT)
-4. **Joe Villa-Michel** (joe@av3aerovisual.com) — AV3 Aerovisual — 2 replies on AFAC Approval/Requisitos (15 May 12:16–12:42 MDT); Spanish-language technical coordination
-5. **Paulino Alonso Rivera** (paulino.alonso@sspc.gob.mx) — Mexican government (SSPC/AFAC) — 1 reply on Requisitos solicitados por la AFAC (15 May 12:10 MDT); direct international government engagement
-6. **Jure Dolinar** (jure.dolinar@atmolab.eu) — Atmolab — 1 reply on Atmolab Camera System (15 May 12:42 MDT)
-7. **Michael Rhodes** (michael.e.rhodes@colorado.edu) — University of Colorado — 1 reply on Use of aircraft in demo (15 May 11:55 MDT)
-8. **Hank Scott** (hank@tb2aerospace.com) — TB2 Aerospace — 1 reply on Vuncan Demo (15 May 10:24 MDT)
-9. **Stephen Rowlands** (SRowlands@investottawa.ca) — Invest Ottawa — 1 reply on Arctic UAS Demo in Ottawa (15 May 13:40 MDT); Canadian government/investment contact
-10. [Previous outbound contacts remain active]
+1. **Evan M Wolff** (evan.m.wolff.mil@socom.mil) — USSOCOM — 3 replies (14–15 May); continued escalated engagement
+2. **Jon Vince** (jon.vince@rogers.com) — SNAP-R/external — 3 replies (15 May); rapid same-day exchange
+3. **Meredith Needham** (meredith.needham@blackswifttech.com) — BST internal/compliance — 2 replies (15 May, 18 May 09:31); SNAP-R classification notifications and logistics coordination
+4. **Mark Goranson** (Mark@nanoveu.com) — NanoVeu — 2 replies (18 May 16:06, 16:19); flight testing coordination (dual same-day replies suggest active troubleshooting or schedule negotiation)
+5. **Arthur Shune** (arthur@skymesasystems.com) — SkyMesa Systems — 1 reply (15 May); Army modular UAS payload SBIR
+6. **Joe Villa-Michel** (joe@av3aerovisual.com) — AV3 Aerovisual — 2 replies (15 May); AFAC Approval coordination
+7. **Paulino Alonso Rivera** (paulino.alonso@sspc.gob.mx) — Mexican government (SSPC/AFAC) — 1 reply (15 May)
+8. **Jure Dolinar** (jure.dolinar@atmolab.eu) — Atmolab — 1 reply (15 May); camera system integration
+9. **Michael Rhodes** (michael.e.rhodes@colorado.edu) — University of Colorado — 1 reply (15 May); aircraft use in demo
+10. **Hank Scott** (hank@tb2aerospace.com) — TB2 Aerospace — 1 reply (15 May); Vuncan Demo
+11. **Stephen Rowlands** (SRowlands@investottawa.ca) — Invest Ottawa — 1 reply (15 May); Arctic UAS Demo coordination
+12. **Robert Correia, Patrick Mulstay, Jeff Dauz, Adrian Sepulveda** (AeroNet) — 1 group reply (18 May 11:24); battery shipment logistics to Ottawa; cc: Meredith Needham
+13. **William P Gallagher** (william.p.gallagher@navy.mil) — USN — 1 reply (18 May 09:42); subject blank/redacted
+14. **Darrel Tenney** (darrel.tenney@compass-svs-inc.com) — Compass SVS Inc — 1 reply (18 May 09:42); subject blank/redacted
+15. **Mac McAlister** (mac.mcalister@ihapl.edu) — IHAPL (educational/research institution) — 1 reply (18 May 09:21); SOCOM Mod Payload Overview Briefing
 
 ### Inbound (who emails Dan — updated)
-1. **Evan M Wolff** (evan.m.wolff.mil@socom.mil) — USSOCOM — 1 incoming (15 May 14:39 UTC); marked IMPORTANT; Non-DoD Source caveat
-2. **Jon Vince** (jon.vince@rogers.com) — SNAP-R — 1 incoming (15 May 21:58 UTC); marked IMPORTANT; classification control number
-3. **Bryan Sparling** (bryan.sparling@bylight.com) — ByLight (federal contractor) — 1 incoming on Vulcan RFI (15 May 18:42 UTC); marked IMPORTANT; cc: Maciej Stachura
-4. **Joe Villa-Michel** (joe@av3aerovisual.com) — AV3 Aerovisual — 1 incoming on AFAC Approval (15 May 16:59 UTC); marked IMPORTANT
+1. **Evan M Wolff** (evan.m.wolff.mil@socom.mil) — USSOCOM — 1 incoming (15 May 14:39 UTC)
+2. **Jon Vince** (jon.vince@rogers.com) — SNAP-R — 1 incoming (15 May 21:58 UTC)
+3. **Bryan Sparling** (bryan.sparling@bylight.com) — ByLight Solutions — 1 incoming (15 May 18:42 UTC)
+4. **Joe Villa-Michel** (joe@av3aerovisual.com) — AV3 Aerovisual — 1 incoming (15 May 16:59 UTC)
+5. **OmniSync** (no-reply@omnisync.io) — SBIR matching service — 1 automated notification (19 May 05:04 UTC); DoW SBIR opportunity alert
 
-### New External Contacts
-- **Jon Vince** (jon.vince@rogers.com) — SNAP-R program/classification authority; frequent rapid exchanges
-- **Bryan Sparling** (bryan.sparling@bylight.com) — ByLight Solutions; Vulcan RFI (federal contract bid)
-- **Paulino Alonso Rivera** (paulino.alonso@sspc.gob.mx) — Mexican government (SSPC = Secretaría de Seguridad Pública Común); AFAC (aviation authority) approval contact
-- **Joe Villa-Michel** (joe@av3aerovisual.com) — AV3 Aerovisual; international business development/approval intermediary
-- **Stephen Rowlands** (SRowlands@investottawa.ca) — Invest Ottawa; Arctic UAS demo coordination
-
-### New Internal BST Involvement
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — NEW: receiving SNAP-R classification notifications (15 May); likely compliance/legal/security role
-- **Maciej Stachura** — now cc'd on Vulcan RFI from external contractor (ByLight)
+### New Contacts (18 May batch)
+- **Mark Goranson** (Mark@nanoveu.com) — NanoVeu; flight testing partner; active technical coordination
+- **AeroNet team** (Robert Correia, Patrick Mulstay, Jeff Dauz, Adrian Sepulveda) — logistics/supply chain for Arctic demo battery shipment
+- **William P Gallagher** (william.p.gallagher@navy.mil) — USN contact; subject redacted
+- **Darrel Tenney** (darrel.tenney@compass-svs-inc.com) — Compass SVS Inc; subject redacted
+- **Mac McAlister** (mac.mcalister@ihapl.edu) — IHAPL (Institute of Human and Animal Performance Learning?); SOCOM briefing audience
 
 ## Topic Patterns
 
 ### Active/Primary Projects (updated)
-1. **Vuncan Demo** — 1 reply (15 May 10:24); ongoing coordination
-2. **Flight Testing Updates** — ongoing (aircraft use coordination)
-3. **Aircraft Use in Demo/Flight Testing** — 1 reply to CU (15 May 11:55); continued
-4. **Atmolab Camera System** — 1 reply (15 May 12:42); ongoing integration
-5. **Autonomy Phase II** — collaborative documentation (ongoing from 14 May)
-6. **Arctic UAS Demo in Ottawa** — NEW: 1 reply to Invest Ottawa (15 May 13:40); Canadian government/investment demo activity
-7. **Army Modular UAS Payload SBIR** — NEW: 1 reply to SkyMesa Systems on teaming fit (15 May 12:49); marked IMPORTANT in Beck Cotter's outbound; SBIRs = competitive government contracts
+1. **Flight Testing Updates** — 2 replies to NanoVeu (18 May 16:06, 16:19); dual rapid exchange indicates active coordination/issue resolution
+2. **Vuncan Demo** — ongoing (15 May)
+3. **Arctic UAS Demo in Ottawa** — logistics phase: battery shipment coordination with AeroNet (18 May 11:24); Canadian government/investment demo activity
+4. **Army Modular UAS Payload SBIR** — ongoing from 15 May; DoW SBIR automated alert (19 May suggests Dan subscribed to DoW opportunities)
+5. **Autonomy Phase II** — ongoing from 14 May
+6. **Atmolab Camera System** — ongoing (15 May)
+7. **Vuncan Demo** — continues
+8. **SOCOM Mod Payload Overview Briefing** — NEW: 1 outbound to IHAPL (18 May 09:21); briefing preparation/delivery to educational institution with apparent SOCOM connection
 
 ### Government/Military/Classified (expanded)
-8. **(U) Clearance Verification for Upcoming Exercise** — 1 reply to USSOCOM (15 May 11:19); 1 incoming from USSOCOM (15 May 14:39) with Non-DoD Source caveat; ongoing exercise coordination
-9. **Vulcan RFI** — NEW: incoming from ByLight Solutions federal contractor (15 May 18:42 UTC); marked IMPORTANT; cc: Maciej Stachura; appears to be competitive federal bid/solicitation response
-10. **SNAP-R - Classification Accepted (Control No. Z1893789)** — NEW: high-activity thread (3 outbound, 2 inbound on 15 May); classification approval from Jon Vince/SNAP-R authority; forwarded to Meredith Needham (BST compliance); indicates classified project clearance/approved data handling
-11. **AFAC Approval (Requisitos solicitados por la AFAC)** — NEW: 3-way international coordination chain (Dan ↔ Joe Villa-Michel ↔ Paulino Alonso Rivera/Mexican government); Spanish-language technical requirements for Mexican aviation authority; marked IMPORTANT; suggests cross-border UAS export/operation approval workflow
+9. **(U) Clearance Verification for Upcoming Exercise** — ongoing USSOCOM coordination (15 May)
+10. **SNAP-R - Classification Accepted (Control No. Z1893789)** — follow-up to Meredith Needham on 18 May 09:31; continued compliance coordination post-approval
+11. **AFAC Approval (Requisitos solicitados por la AFAC)** — ongoing Mexican government coordination (15 May)
+12. **Vulcan RFI** — ongoing from 15 May (competitive federal bid response)
+13. **Navy/Compass SVS Coordination** — NEW: blank-subject reply to USN (william.p.gallagher@navy.mil) and Compass SVS (18 May 09:42); subject redacted suggests classified or sensitive content
+
+### Government/SBIR Pipeline
+- **DoW SBIR matching service** — Dan actively subscribed; receives automated opportunity alerts (19 May OmniSync alert); indicates systematic pursuit of Department of War/DoD SBIR contracts
 
 ### Automated/System Emails
-- [No new automated emails in this batch; focus shifted to human-directed high-priority correspondence]
+- **OmniSync SBIR alert** (19 May 05:04 UTC) — automated promotional category; DoW SBIR opportunity matching service
 
 ## Communication Patterns
 
-### Time of Day (15 May)
-- **Morning (MDT):** 10:24–12:49 — outbound burst to 5 contacts (Vuncan, USSOCOM, aircraft use, Atmolab, SBIR, Ottawa)
-- **Early afternoon (MDT):** 13:40 — Canadian government reply
-- **Afternoon (UTC/late MDT equivalent):** 14:39–18:58 UTC (08:39–12:58 MDT) — inbound from USSOCOM, ByLight, AV3
-- **Evening (UTC):** 21:58–23:06 UTC (15:58–17:06 MDT) — late SNAP-R and Spanish-language coordination
-
-### Response Behavior
-- **Same-day rapid replies:** SNAP-R
+### Time of Day (18 May cluster)
+- **Morning (MDT):** 09:21–11:24 — outbound burst to 5 contacts (SOCOM briefing, Navy/Compass, SNAP-R follow-up, AeroNet logistics)
+- **Afternoon (MDT):** 16:06–16:19

@@ -26,10 +26,10 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 15451.25,
+        "amount": 16305.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-18"
+        "last_updated": "2026-05-19"
       },
       "purchases": {
         "amount": 0.0,
@@ -38,24 +38,24 @@
         "last_updated": null
       },
       "other_qbo": {
-        "amount": 1221.39,
+        "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-05-08"
+        "last_updated": "2026-05-19"
       },
-      "total": 16672.64,
+      "total": 16305.0,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 64633.36,
+    "remaining": 65001.0,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-18T08:55:09Z"
+    "last_reconciled": "2026-05-19T09:01:49Z"
   },
   "milestones": [
     {
       "name": "Deliver S3 to UMES",
       "asana_task_gid": "1210099783651637",
-      "due_on": "2026-05-11",
+      "due_on": "2026-05-29",
       "original_due": null,
       "status": "open",
       "invoice_trigger": null,
@@ -122,6 +122,6 @@
       "text": "From Maciej (ts=1777067599.182059): <@U0AQE94HJUT> our highest priority projects right now are: (1) S3 IRAD with a targeted delivery of end of May for the UMES S3, (2) S0-VTOL with two deliveries for ERAU and Barbados, (3) Closing out EMASS, (4) By-Lite Mustang, and (5) Initial tasks on the SBIR Magnetometer project. How are we looking on overdue tasks for those?"
     }
   ],
-  "last_full_rebuild": "2026-05-18T08:55:09Z",
+  "last_full_rebuild": "2026-05-19T09:01:49Z",
   "last_incremental_update": null
 }

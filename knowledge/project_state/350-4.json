@@ -33,7 +33,7 @@
         "amount": 13241.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-18"
+        "last_updated": "2026-05-19"
       },
       "purchases": {
         "amount": 0.0,
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": 104568.4,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-18T08:56:56Z"
+    "last_reconciled": "2026-05-19T09:03:24Z"
   },
   "milestones": [
     {
@@ -192,6 +192,6 @@
       "text": "From Jack (ts=1776694393.461569): <@U0AQE94HJUT> correction: the mexico deployment has been delayed until the fall"
     }
   ],
-  "last_full_rebuild": "2026-05-18T08:56:56Z",
+  "last_full_rebuild": "2026-05-19T09:03:24Z",
   "last_incremental_update": null
 }

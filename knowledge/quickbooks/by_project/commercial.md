@@ -1,10 +1,10 @@
 # Commercial — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $2,877,251.34
+- **Total Invoiced (Revenue):** $2,956,589.34
 - **Total Expenses (Bills + Purchases):** $233,718.16
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,643,533.18 (Revenue exceeds expenses)
+- **Net Position:** $2,722,871.18 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – May 18, 2026
 
 ---
@@ -15,6 +15,7 @@
 
 | Invoice # | Date | Amount | Customer | Balance |
 |-----------|------|--------|----------|---------|
+| **1765** | **2026-05-18** | **$79,338.00** | **(031-1) University of Maryland Eastern Shore** | **$79,338.00** |
 | 1759 | 2026-05-08 | $664.98 | IRISS, CU Boulder | $664.98 |
 | 1757 | 2026-05-08 | $63,735.00 | [043-3] By Light Halo | $63,735.00 |
 | 1756 | 2026-05-08 | $47,894.00 | [043-3] By Light Halo | $47,894.00 |
@@ -67,33 +68,43 @@
 | 1618 | 2024-04-19 | $13,853.10 | [451] INSTAAR Stable Isotope Lab, CU Boulder | Paid |
 
 ### Revenue Summary
-- **Total Invoiced:** $2,877,251.34
+- **Total Invoiced:** $2,956,589.34
 - **Total Collected (Paid):** $1,075,726.08
-- **Outstanding Balance:** $1,801,525.26
-  - **Five invoices to [043-3] By Light Halo (May 8–13, 2026):** $271,152.00
-    - Invoice #1757 (2026-05-08): $63,735.00 — Two (2) built out Halo platforms ready for car launch demo
-    - Invoice #1756 (2026-05-08): $47,894.00 — Design tested Halo airframe and CAD step files
-    - Invoice #1755 (2026-05-08): $63,735.00 — Two (2) built out Halo platforms ready for car launch demo
-    - Invoice #1754 (2026-05-13): $47,894.00 — Design tested Halo airframe and CAD step files
-  - **One invoice from May 8, 2026 (IRISS, CU Boulder):** $664.98
-  - **Other outstanding invoices:** $1,529,708.28
+- **Outstanding Balance:** $1,880,863.26
+
+#### Notable Recent Invoice (May 18, 2026)
+- **Invoice #1765 — University of Maryland Eastern Shore:** $79,338.00 (Outstanding)
+  - $65,000.00 — S3 UAS (4 meter wingspan, VTOL capable, S2 payload compatible, includes battery, hard case, grounds station, tablet + SwiftTab)
+  - $7,338.00 — S3 battery pack
+  - $3,000.00 — Two days training (SwiftCore FMS, emergency procedures, regulatory requirements, simulation + flight training)
+  - $4,000.00 — S3 UAS shipping
+
+#### Remaining Outstanding Invoices Summary
+- **Five invoices to [043-3] By Light Halo (May 8–13, 2026):** $271,152.00
+- **One invoice from May 8, 2026 (IRISS, CU Boulder):** $664.98
+- **Other outstanding invoices:** $1,529,708.28
 
 ---
 
 ## Expenses by Cost Category
 
 ### **Materials & Supplies (Direct Cost Purchases)**
-**Total: $83,370.51** | 15 transactions | Largest item: $4,164.75
+**Total: $84,535.21** | 16 transactions | Largest item: $4,164.75
 
 #### Direct Cost Material Purchases
 - **Purchase #334139 (2026-05-18):** $4,164.75
   - $2,776.50 — Thermoset Laminate Linen Tubes (shipped to Lee Skidmore/Northwind Composites)
   - $555.30 — Additional materials
-  - $832.95 — Allocation to Inventory Asset (future sales of 6 S0s)
   - **Direct cost allocation:** $3,331.80
+  - **Inventory allocation:** $832.95 (future sales of 6 S0s)
   - **Projects:** 2026 IDIQ, Sasquatch S0s, future S0 sales
 
-- **Previous materials purchases (detailed in prior knowledge file):** $79,038.71
+- **Previous materials purchases:** $79,038.71
+  - (Details maintained from prior knowledge file)
+
+**Largest individual items:**
+- Purchase #334139 — Thermoset Laminate Linen Tubes: $2,776.50
+- Multiple prior purchases between $500–$4,000 range for aircraft components, materials, and fabrication supplies
 
 ---
 
@@ -113,15 +124,7 @@
 - **Bill #103031641 from Aeronet Worldwide (2026-05-06):** $901.63
   - $601.09 — Shipping products from Paramount Tube to Northwind Composites for S0 projects
   - $120.22 — Shipping allocation (S0 projects)
-  - $180.32 — Allocation to Inventory Asset
+  - $180.32 — Inventory allocation
   - **Direct cost allocation:** $721.31
 
-- **Purchase – FedEx Shipment (2026-05-05):** $310.81 (total)
-  - $207.21 — Shipment from Alerion Tech in Spain to BST (Items from MP Jet, order #09449)
-  - $41.44 — Allocation to Sasquatch S0s project
-  - $62.16 — Allocation to Inventory Asset (future sales of 6 S0s)
-  - **Direct cost allocation:** $248.65
-
----
-
-### **Other**
+- **Purchase – FedEx Shipment (2026-05

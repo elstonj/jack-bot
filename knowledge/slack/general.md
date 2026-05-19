@@ -34,6 +34,7 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **S0 Primary Focus** (Dec 2024): S3 on pause except parts ordering; S0 prioritized for wing internal structure finalization and skin production
 - **Nomenclature Strategy for DoD/Federal Contracts** (April 10, 2026): Decision to align naming conventions with federal/DoD standards: "aircraft" for UAS, "ground control station (GCS)" for operator interface device, "datalink" for communication system. Previously called datalink "ground station" and GCS "SwiftTab/SwiftStation". Proposed renaming SwiftStation to "SwiftLink" to match federal terminology and reduce proposal confusion.
 - **DoD Payload Interface Standards Awareness** (April 27, 2026): Team briefed on emerging DoD standardization initiatives for payload-aircraft interfaces. Two key standards referenced: Picatinny CLIK and SOCOM Modular Payload Standard for UAS. Note that SOCOM standard is dated; potential standards competition ahead.
+- **T-Mobile BVLOS Use Case Strategy** (May 18, 2026): Dan Prendergast recommended wildfire use case over tropical storm use case for T-Mobile direct-to-cell integration; may replace S3 radio relay wildfire communication strategy. Aligns with "Improve comm throughput and reliability" ASA priority.
 
 ### Hardware/Facilities Decisions
 - **Roof/Building Repairs** (Aug 27-28, 2020 - May 27, 2021): Multiple roof leaks reported; TEBO contractor quote $2,450 for wall/stair repainting (Jack declined in-house option)
@@ -56,10 +57,4 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - Hover and battery testing planned
 - Transition simulator development underway
 - **S0-AD Variant**: DoD customer development track (SOCOM and 53rd Weather Squadron) starting April 2026; mission requirements under definition; interests include real-time tactical weather observation, weather prediction, EO/IR, and SIGINT capabilities; aircraft preparation for display at customer engagement scheduled for May 1, 2026
-- **S0 with T-Mobile Direct-to-Cell**: Being positioned as flagship system for demonstrating T-Mobile's high bandwidth direct-to-cell capability for live HD storm video transmission; potential 20 aircraft order if project moves forward with T-Mobile funding in 2027
-
-**S1 Aircraft**
-- S1-VTOL battery testing planned (November 26, 2024)
-- Magnetic testing planned at RC field
-- S1-19 photo identified as better company profile image
-- New Sony camera (ILX-LR1) identified as potential upgrade: full frame, 60
+- **S0 with T-Mobile Direct-to-Cell**: Being positioned as flagship system for demonstrating T-Mobile's high bandwidth direct-to-cell capability for live HD storm video transmission; potential 20 aircraft order if project moves forward with T-Mobile

@@ -9,26 +9,25 @@
   - Invoice schedule: March 2026 – July 2026
   - **Critical hardware ship date:** May 27, 2026 (SHOW units)
   - **Final delivery deadline:** June 30, 2026 (all 20 units packed)
-- **Status:** **ACTIVE — CRITICAL PHASE.** 4 of 6 invoices completed. Firmware fix completed 7 days late (5/8 vs 5/1 due). Platform rebuild completed ahead of schedule (5/14 vs 5/15). **2 open tasks remaining; both time-sensitive.** Major hardware milestones appear substantially progressed (not visible in current Asana—likely completed or moved to external tracking). Critical path: May 15–27 with minimal buffer.
+- **Status:** **ACTIVE — CRITICAL PHASE.** 4 of 6 invoices completed. Firmware fix completed 7 days late (5/8 vs 5/1 due). Platform rebuild completed ahead of schedule (5/14 vs 5/15). **Major risk: QC task overdue (due 5/15); only 1 open task visible in current Asana (order long-lead parts), but critical hardware builds (2 SHOW s0s, tripods, power switches, GCS units) appear to be in progress or externally tracked.** Critical path: May 15–27 with minimal buffer.
 - **Team Members:** 
   - Meredith O'hara Needham (project owner, invoice submissions)
   - Jack Elston (firmware/software development) — firmware fix completed 5/8
   - Sam Hild (QC, hardware validation, kit assembly) — **overdue QC task**
-  - Nate Straus (platform rebuild/validation, S0 builds, servo assembly, linkage construction) — completed May 15 rebuild 1 day early; **1 open task (power switches due 5/21)**
+  - Nate Straus (platform rebuild/validation, S0 builds, servo assembly, linkage construction) — completed May 15 rebuild 1 day early; 1 open power switch task due 5/21
   - Maciej Stachura (platform validation/testing, magnetic calibration)
   - Alex Lomis (strategic partnerships, NASA opportunities)
-  - Josh Fromm (GCS assembly)
+  - Josh Fromm (GCS assembly, long-lead parts procurement)
 - **Contract Details:** 
   - IDIQ #1305M226D0012
   - Delivery Order #1305M226F0084 (invoice against this number)
   - 20 UAS units for NOAA + 2 ground stations ($16k, approved 5/12/26)
   - Background: SBIR Phase I (2018, #1305M218CNRMW0059) and Phase II (2019–2020, #1305M219CNRMW0030) collaboration; current IDIQ builds on established partnership since 2018
 - **Risk Signals:** 
-  - 🟡 **FIRMWARE FIX 7 DAYS LATE:** "Add RH / Vaisala fix to PSNS code" (Jack Elston) **DUE 2026-05-01 — COMPLETED 2026-05-08.** May have cascade impact on downstream QC/assembly.
-  - 🚨 **CRITICAL QC TASK NOW OVERDUE:** "QC at least one of each board as they arrive" (Sam Hild) **DUE 2026-05-15 — STATUS UNKNOWN.** This is a gating validation task for assembly flow. **Verify completion immediately.**
-  - 🟡 **NEAR-TERM POWER SWITCH BUILD:** "Build 5 power switches with short pcb" (Nate Straus) **DUE 2026-05-21 — OPEN.** Tight timeline before May 27 hardware ship.
-  - 🟡 **ASANA TASK LIST SIGNIFICANTLY REDUCED:** Prior knowledge file showed 21 open tasks; current raw data shows only 2. Tasks likely completed, archived, or moved to external tracking. **Recommend confirming actual hardware build status with Nate Straus and Sam Hild.** Major milestones (SHOW s0 builds, tripods, board QC) appear progressed but not visible in current Asana.
-  - ❓ **VALIDATION TASK STATUS UNCLEAR:** "Figure out why S0-70 rolled over during CAT on 04-09" (Maciej Stachura, due 5/8) no longer visible in task list—assume resolved or externally tracked.
+  - 🚨 **CRITICAL QC TASK OVERDUE:** "QC at least one of each board as they arrive" (Sam Hild) **DUE 2026-05-15 — STATUS UNKNOWN.** This is a gating validation task for assembly flow. **Verify completion immediately.**
+  - 🟡 **FIRMWARE FIX 7 DAYS LATE:** "Add RH / Vaisala fix to PSNS code" (Jack Elston) **DUE 2026-05-01 — COMPLETED 2026-05-08.** Potential cascade impact on downstream validation.
+  - 🟡 **ASANA TASK LIST SIGNIFICANTLY REDUCED:** Prior knowledge file tracked 21+ active tasks; current raw data shows only 1 open task. Major hardware milestones (SHOW s0 builds, tripods, board QC, power switches, GCS assembly) appear completed, archived, or moved to external tracking. **Recommend verbal confirmation with Nate Straus and Sam Hild on hardware build status.**
+  - 🟡 **LONG-LEAD PARTS PROCUREMENT — NO DUE DATE:** "order +20 more long lead time parts" (Josh Fromm) currently unscheduled in Asana. Given May 27 critical ship date, this task needs immediate prioritization and deadline assignment.
 
 ## Key Deliverables & Milestones
 
@@ -55,15 +54,16 @@
 | **Add RH / Vaisala fix to PSNS code** | Jack Elston | 2026-05-01 | ✅ **COMPLETED 2026-05-08 (7 DAYS LATE)** | **CRITICAL** | Firmware fix completed; downstream work unblocked. |
 | **Rebuild BST s0 (platform rebuild)** | Nate Straus | 2026-05-15 | ✅ **COMPLETED 2026-05-14 (1 DAY EARLY)** | HIGH | Critical progress: ahead of schedule. |
 | **QC at least one of each board as they arrive** | Sam Hild | 2026-05-15 | 🚨 **OVERDUE** | **CRITICAL** | Hardware validation gate; currently overdue. **Verify completion status immediately.** |
-| **Build 5 power switches with short pcb** | Nate Straus | 2026-05-21 | ⏳ **OPEN** | **CRITICAL** | Component assembly; tight window before May 27 hardware ship. |
-| **Build up 2 SHOW s0's using 2025 parts** | Nate Straus | 2026-05-22 | ❓ **NOT VISIBLE IN ASANA** | **CRITICAL** | **MUST SHIP MAY 27.** Assume in progress or completed; confirm status. |
-| **Build 2 show tripods** | Nate Straus | 2026-05-22 | ❓ **NOT VISIBLE IN ASANA** | **CRITICAL** | **MUST SHIP MAY 27.** Assume in progress or completed; confirm status. |
-| **Build up new GCS x2** | Josh Fromm | 2026-07-01 | ⏳ **OPEN** | HIGH | Ground control stations for 2-unit Delivery Order. Not in current task list; assume in progress. |
+| **Build 5 power switches with short pcb** | Nate Straus | 2026-05-21 | ⏳ **OPEN (Asana)** | **CRITICAL** | Component assembly; tight window before May 27 hardware ship. |
+| **Build up 2 SHOW s0's using 2025 parts** | Nate Straus | 2026-05-22 | ❓ **NOT VISIBLE IN ASANA** | **CRITICAL** | **MUST SHIP MAY 27.** Likely in progress; confirm status. |
+| **Build 2 show tripods** | Nate Straus | 2026-05-22 | ❓ **NOT VISIBLE IN ASANA** | **CRITICAL** | **MUST SHIP MAY 27.** Likely in progress; confirm status. |
+| **Order +20 more long lead time parts** | Josh Fromm | **NO DUE DATE** | ⏳ **OPEN (Asana)** | **HIGH** | Procurement task missing deadline; needs immediate assignment. |
+| **Build up new GCS x2** | Josh Fromm | 2026-07-01 | ❓ **NOT VISIBLE IN ASANA** | HIGH | Ground control stations for 2-unit Delivery Order. Assume in progress. |
 
 ## Task Summary
 
-**Open Tasks in Asana: 2**
-- Build 5 power switches with short pcb | Nate Straus | Due 2026-05-21
-- QC at least one of each board as they arrive | Sam Hild | Due 2026-05-15 (**OVERDUE**)
+**Open Tasks in Asana: 1**
+- Order +20 more long lead time parts | Josh Fromm | **NO DUE DATE ASSIGNED** ⚠️
 
-**Completed Tasks (Current Asana):** 
+**Completed Tasks in Asana: 0 (tracked in prior knowledge file)**
+- Add

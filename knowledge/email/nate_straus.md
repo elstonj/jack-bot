@@ -2,5 +2,5 @@
 
 Only 2 emails found in scanned period.
 
-- Fri, 15 May 2026 23:06:30 +0000: Re: MHP data alignment (from: Tanay Topac <tanaytopac@stanford.edu>)
-- Fri, 15 May 2026 11:55:44 -0600: Re: Fw: Use of aircraft in demo (from: Daniel Prendergast <daniel.prendergast@blackswifttech.com>)
+- Mon, 18 May 2026 14:59:38 -0600: Fwd: Spring 2026 Newsletter Spectacular (from: Beck Cotter <beck.cotter@blackswifttech.com>)
+- Mon, 18 May 2026 09:26:46 -0600: Fwd: An Update On Your Order #81999387 (from: Meredith Needham <meredith.needham@blackswifttech.com>)

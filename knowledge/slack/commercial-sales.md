@@ -6,21 +6,22 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 
 **Key Participants:**
 - Jack Elston (leadership, customer relationships, technical decisions)
-- Joshua Fromm (manufacturing, technical implementation, battery/avionics work)
+- Joshua Fromm (manufacturing, technical implementation, battery/avionics work, shipping coordination)
 - Melissa Phillips (shipping/logistics coordination)
-- Maciej Tromba (payload/camera work, customer communication)
+- Maciej Tromba (payload/camera work, customer communication, sales decisions)
 - Danny Troke (QC, testing, batteries)
 - Meredith Needham (shipping, logistics, quote coordination, invoice tracking)
 - Nate (assembly, QC flights, payload prep, GCS builds, quotes)
 - Paige Smith (sales coordination, customer communication)
-- Beck Cotter (customer outreach, email coordination)
+- Beck Cotter (customer outreach, email coordination, S0/S0-VTOL ownership coordination)
 - Ben Busby (team member)
 - Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead)
 - Dan H (CU - external customer, E2 battery interest)
 - Bassil (customer - methane research, travel May 19-June 9, 2026)
 - Stefan (Atmofacts - external partner, methane algorithm tuning)
+- Chris (UMES - external customer contact, S3 training/delivery)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: May 15, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: May 18, 2026.
 
 ---
 
@@ -45,6 +46,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - UMES S3 training planned for late May with funding deadline 5/31/2025
 - S3 becoming primary aircraft platform replacing S2
 - **UMES S3 Order (April 2026):** 3 S3 battery packs and 2 S2 battery packs included in order; Joshua Fromm requesting clarification on S2 battery pack inclusion since S2 is end-of-life (April 29, 2026)
+- **UMES S3 Delivery (May 18, 2026):** Invoice prepared and sent to Chris (UMES customer contact); aircraft nearly complete. Ship date: May 29, 2026. Packing: single pallet with aircraft case, accessory case, and battery case (batteries are Class 9 hazmat). Joshua Fromm providing photos same day for invoice. Delivery confirmation expected before 3 PM Mountain time (May 18).
 
 **E2 Tilted Rotor Configuration (August 2022)**
 - E2-13: Keep untilted rotors initially, parts ordered for future conversion
@@ -75,11 +77,12 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Dan Prendergast requested keeping 4 E2 batteries reserved until after EMASS completion (April 21, 2026)
 - Maciej Tromba approved proposal (April 2026)
 
-**Used E2 Battery Pricing Decision (April 30, 2026)**
+**Used E2 Battery Pricing Decision (April 30, 2026 → May 18, 2026)**
 - Customer Dan H (CU) interested in purchasing used E2 battery pack
 - Maciej Tromba seeking guidance on discount vs. new pack ($3,699)
 - Rationale for discount: Significant labor savings from not building new unit
-- No final pricing decision documented yet (pending response)
+- **DECISION FINALIZED (May 18, 2026):** Maciej Tromba approved pricing used E2 battery at $1,000 to CU/Dan H
+- Invoice to be resent to CU with used E2 battery quote and simulator invoice
 
 **S2 Battery Configuration - Big Bus Bar Modification (May 12, 2026)**
 - Joshua Fromm identified that multiple Iris batteries (units #2, #3, #5) do not have the "big bus bar mod"
@@ -105,11 +108,4 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 ### Customer Flight Campaign & Payload Decisions
 
 **Bassil Methane Research Flight Campaign (May 2026)**
-- Customer travel window: May 19 - June 9, 2026; latest possible date for 4th flight: October 2026
-- **Flight 3 Scheduling Challenge (May 14, 2026):** 
-  - Beck Cotter inquired about scheduling Flight 3 for late June or July
-  - Jack Elston noted scheduling conflict with Ottawa demo
-  - Maciej Tromba stated June flight would require S2 (lighter S3 not ready by then)
-  - **Jack Elston preference:** Avoid S2 - cited previous difficult/stressful operations ("that was very stressful / hard to operate")
-  - **Jack Elston recommendation:** Propose Fall 2026 or Spring 2027 instead, noting S2 operations are problematic for this mission
-  - **Issue:** Stefan (Atmofacts) claims to have tuned methane algorithm for S2; may need updates for S
+- Customer travel window: May 19 - June 9

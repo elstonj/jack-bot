@@ -7,6 +7,7 @@
 - **Status:** Active
 - **Dollar value:** Not specified
 - **Timeline:** No defined project timeline; current task due 2026-05-18
+- **Team members involved:** Jack Elston, Dan Prendergast
 
 ## Key Deliverables & Milestones
 None defined.
@@ -25,7 +26,7 @@ None defined.
     - Description: Autopilot doesn't boot up after swap
 
 ## Recent Activity
-Single active maintenance task assigned to Jack Elston. Aircraft S10021 is currently grounded pending autopilot hardware repair.
+Single active maintenance task assigned to Jack Elston. Aircraft S10021 is currently grounded pending autopilot hardware repair. Due date is 2026-05-18.
 
 ## Notes & Context
 - Project structure uses aircraft tail numbers as section headers (List view)

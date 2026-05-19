@@ -33,7 +33,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "UC Santa Cruz Ocean Sciences interested in S2 and S3 platforms. Kevin Rozmiarek provided strong referral. Site visit from Xavier Prochaska, Tim Handley, and Alex Terrazas planned for July 17-18 (not yet confirmed). Kept due to substantive recent Slack activity (2026-05-15) confirming active engagement in estimate-pending phase.",
+  "notes": "UC Santa Cruz Ocean Sciences actively engaged on S2 and S3 platforms via Kevin Rozmiarek referral. Site visit from Xavier Prochaska, Tim Handley, and Alex Terrazas planned for July 17-18 (not yet confirmed). Robert Wandel inquiry 2026-05-18 about QGroundControl/FMS software compatibility indicates ongoing technical engagement. Estimate in pending phase.",
   "missing_fields": [
     "receive_by",
     "ship_to",
@@ -41,5 +41,5 @@
     "invoice_date",
     "invoice_amount"
   ],
-  "last_evidence_date": "2026-05-15"
+  "last_evidence_date": "2026-05-18"
 }

@@ -4,38 +4,56 @@
     "(031-1) University of Maryland Eastern Shore"
   ],
   "period": {
-    "start": "2026-05-07",
-    "end": "2026-05-08"
+    "start": "2026-05-18",
+    "end": "2026-05-19"
   },
   "totals": {
-    "revenue": 0.0,
-    "expenses": 1221.39,
-    "by_category": {
-      "DIRECT COSTS:DC-Direct Cost Purchases": 1221.39
-    }
+    "revenue": 79338.0,
+    "expenses": 0.0,
+    "by_category": {}
   },
-  "invoices": [],
-  "bills": [],
-  "purchases": [
+  "invoices": [
     {
-      "type": "Purchase",
-      "date": "2026-05-07",
-      "doc_number": "00018935",
-      "total": 1221.39,
-      "attributed": 1221.39,
+      "type": "Invoice",
+      "date": "2026-05-18",
+      "doc_number": "1765",
+      "total": 79338.0,
+      "attributed": 79338.0,
       "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Josh Fromm placed order via email - No Asana request",
+      "customer": "(031-1) University of Maryland Eastern Shore",
+      "balance": 79338.0,
+      "memo": "",
       "lines": [
         {
-          "amount": 1221.39,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
-          "description": "S3 Case (UMES)"
+          "amount": 65000.0,
+          "account": "",
+          "description": "4 meter wingspan aircraft capable of VTOL operations. Compatible with S2 payloads. Comes with 1 battery, hard shipping case, grounds station, tablet with SwiftTab software."
+        },
+        {
+          "amount": 7338.0,
+          "account": "",
+          "description": "S3 battery pack"
+        },
+        {
+          "amount": 3000.0,
+          "account": "",
+          "description": "Two days of training and familiarization with SwiftCore FMS, including emergency procedures and regulatory requirements. Consists of both a simulation session as well as flight training."
+        },
+        {
+          "amount": 4000.0,
+          "account": "",
+          "description": "Shipping of S3 UAS"
+        },
+        {
+          "amount": 79338.0,
+          "account": "",
+          "description": ""
         }
       ]
     }
   ],
+  "bills": [],
+  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

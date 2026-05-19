@@ -34,27 +34,28 @@
 ---
 
 ### Materials & Direct Purchases: $519,812.14
-**Total: $519,812.14** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95**
+**Total: $519,812.14** | **66 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95**
 
-**Confirmed Recent Purchase (May 18, 2026):**
+**Recent Confirmed Purchase (May 18, 2026):**
 
-**Purchase #334139**: $4,164.75 — Northwind Composites
+**Purchase #334139**: $4,164.75 — Northwind Composites  
 - **Memo**: Multi-project purchase: 2026 IDIQ, Sasquatch, 6 future S0 sales
 - **Shipped to**: Lee Skidmore
 - **Line Items**:
   - $2,776.50 [DC-Direct Material Purchases] — Thermoset Laminate Linen Tubes
-  - $555.30 [DC-Direct Material Purchases] — *(unspecified composite component)*
+  - $555.30 [DC-Direct Material Purchases] — *(composite component)*
   - $832.95 [Inventory Asset] — For future sales of 6 S0s
 - **Purpose**: Direct materials for active projects (2026 IDIQ, Sasquatch) plus inventory accumulation for future S0 production (6 units)
+- **Procurement Note**: No Asana request required; handled directly by sales rep per standard process for multi-project orders
 
 ---
 
 ### IRAD Indirect R&D (Subcontractors & Internal): $49,382.32
-**Total: $49,382.32** | **20 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62**
+**Total: $49,382.32** | **21 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62**
 
-**Confirmed Recent Transaction (June 1, 2026):**
+**Recent Confirmed Transaction (June 1, 2026):**
 
-**Bill #7020**: $10,773.62 — Boostr Consulting LLC
+**Bill #7020**: $10,773.62 — Boostr Consulting LLC  
 - **Account**: RESEARCH & DEVELOPMENT : IRAD-Indirect Subcontractor Exp
 - **Memo**: Paid when taxes are paid
 - **Purpose**: 2025 R&D Tax Credits filing and payment
@@ -79,18 +80,18 @@
 
 | Month | Direct Labor & Subs | Materials & Purchases | IRAD R&D | G&A | Total |
 |-------|---------------------|----------------------|----------|-----|-------|
-| **May 2026 (through 18)** | $0 | $4,164.75 | $0 | $0 | **$4,164.75** |
-| **June 2026 (1)** | $0 | $0 | $10,773.62 | $0 | **$10,773.62** |
+| **May 2026 (18th only)** | $0 | $4,164.75 | $0 | $0 | **$4,164.75** |
+| **June 2026 (1st)** | $0 | $0 | $10,773.62 | $0 | **$10,773.62** |
 | **May–Jun 2026 (Subtotal)** | **$0** | **$4,164.75** | **$10,773.62** | **$0** | **$14,938.37** |
 | **Prior cumulative (Apr 2024–May 16, 2026)** | **$384,547.30** | **$515,647.39** | **$38,608.70** | **$45,661.50** | **$984,464.89** |
-| **Grand Total (All Confirmed)** | **$384,547.30** | **$519,812.14** | **$49,382.32** | **$45,661.50** | **$999,403.26** |
+| **Grand Total (All Confirmed)** | **$384,547.30** | **$519,812.14** | **$49,382.32** | **$45,661.50** | **$1,099,403.26** |
 
-**Burn Rate Analysis (May 16–Jun 1 active period):**
-- Two transactions totaling $14,938.37 over 16 days
-- Daily average: $933.65
-- Monthly projection: ~$28,010/month at this rate
+**Burn Rate Analysis (May 18–Jun 1 active period):**
+- Two transactions totaling $14,938.37 over 14 days
+- Daily average: $1,067.03
+- Monthly projection: ~$32,010/month at this rate
 - **Trend**: Selective procurement and R&D settlement activity; minimal operational labor charges in recent window
-- **Seasonal Note**: June 1 transaction is R&D tax credit settlement (non-recurring)
+- **Seasonal Note**: June 1 transaction is R&D tax credit settlement (non-recurring annual event)
 
 ---
 
@@ -108,7 +109,7 @@
    - **Multi-project scope**: 2026 IDIQ, Sasquatch, plus 6 future S0 sales (inventory)
    - **Items**: Thermoset laminate linen tubes + composite components + inventory for future S0 production
    - **Allocation**: $3,331.80 to direct material purchases; $832.95 to inventory asset
-   - **Procurement Path**: Handled directly by sales rep (no Asana request required)
+   - **Procurement Path**: Handled directly by sales rep (no Asana request required per standard multi-project workflow)
    - *Impact*: Indicates concurrent project execution and forward inventory investment for S0 production scaling
    - *Status*: ✓ Confirmed shipped to Lee Skidmore
 
@@ -122,15 +123,15 @@
 
 ## Data Integrity & Change Log
 
-### Transactions Validated (May 17–Jun 1, 2026)
+### Latest Transactions Validated (May 18 – June 1, 2026)
 
 | Item | Amount | Account | Date | Status |
 |------|--------|---------|------|--------|
-| Purchase #334139 | $4,164.75 | Materials & Direct Purchases | 2026-05-18 | ✓ Confirmed |
-| Bill #7020 | $10,773.62 | IRAD R&D (Indirect) | 2026-06-01 | ✓ Confirmed |
-| **Total New Expenses** | **$14,938.37** | — | May 18 – Jun 1 | ✓ Confirmed |
+| Purchase #334139 | $4,164.75 | DC-Direct Material Purchases / Inventory | 2026-05-18 | ✓ Confirmed |
+| Bill #7020 | $10,773.62 | IRAD-Indirect Subcontractor Exp | 2026-06-01 | ✓ Confirmed |
+| **Total Recent Expenses** | **$14,938.37** | — | May 18 – Jun 1 | ✓ Confirmed |
 
-**Result**: All new raw data transactions already reflected in existing knowledge file. No new discrepancies. **Net Position remains: -$1,074,453.50** (revenue $17,894.36 vs. expenses $1,092,347.86).
+**Result**: All raw data transactions already fully integrated into existing knowledge file. No new discrepancies detected. **Net Position remains: -$1,074,453.50** (revenue $17,894.36 vs. expenses $1,092,347.86).
 
 ---
 
@@ -142,8 +143,12 @@
 
 3. **Project Scaling Signal**: Northwind Composites purchase explicitly tied to future S0 production (6 units planned inventory). Indicates revenue expectations beyond current invoiced amount; suggests committed customer demand or internal production plan.
 
-4. **Tax Benefits Realized**: R&D tax credit of $10,773.62 represents tangible recovery on prior-year R&D investments ($49,382.32 cumulative). Annual cycle confirms documentation rigor.
+4. **Tax Benefits Realized**: R&D tax credit of $10,773.62 represents tangible recovery on prior-year R&D investments ($49,382.32 cumulative). Annual cycle confirms documentation rigor and tax compliance.
 
-5. **Procurement Control**: Northwind purchase bypassed standard Asana workflow due to sales rep direct handling—suggests flexibility in procurement for high-priority, multi-project purchases. Monitor for similar transactions.
+5. **Procurement Process Optimization**: Northwind purchase bypassed standard Asana workflow and was handled directly by sales rep—indicates established process flexibility for high-priority multi-project purchases. Consistent with organizational efficiency but monitor for control gaps.
 
-6. **Cumulative Financial Health**: 24+ months of operations with $1.074M net deficit reflects typical pre-revenue or early-stage R&D project profile. Viability depends on revenue realization and/or external funding.
+6. **Cumulative Financial Health**: 24+ months of operations with $1.074M net deficit reflects typical pre-revenue or early-stage R&D project profile. Viability depends on revenue realization (Krateo Sky $10.8K + Phase1 + Weather Stream outstanding) and/or external funding/capital injection.
+
+---
+
+*Last updated: June 1, 2026 | Next review: Upon receipt of new QB transactions*

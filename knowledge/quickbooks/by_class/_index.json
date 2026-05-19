@@ -1,10 +1,23 @@
 {
   "period": {
-    "start": "2026-05-17",
-    "end": "2026-05-18"
+    "start": "2026-05-18",
+    "end": "2026-05-19"
   },
-  "scanned_at": "2026-05-18",
+  "scanned_at": "2026-05-19",
   "projects": [
+    {
+      "project_code": "031-1",
+      "revenue": 79338.0,
+      "expenses": 0.0,
+      "invoice_count": 1,
+      "bill_count": 0,
+      "purchase_count": 0,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "(031-1) University of Maryland Eastern Shore"
+      ]
+    },
     {
       "project_code": "032-3",
       "revenue": 0.0,
