@@ -16,6 +16,8 @@ Entry types:
   [BUG]         - Bug reports for Jack Bot or BST systems
   [FEATURE]     - Feature requests for Jack Bot or BST systems
   [ERROR]       - Pipeline errors and data source failures
+  [KNOWLEDGE_GAP] - A specific field/topic the bot couldn't answer; drives
+                   scanner improvements so info isn't missing next time.
 """
 
 import os
@@ -57,6 +59,24 @@ def store_bug(slack_client, user_name, description):
 def store_feature(slack_client, user_name, description):
     """Store a feature request."""
     store_entry(slack_client, "FEATURE", f"From {user_name}: {description}")
+
+
+def store_knowledge_gap(slack_client, field, record_id, asker, inquiry):
+    """Log that an inquiry couldn't be fully answered.
+
+    field      — name of the field that was missing, or 'unmatched' when no record matched
+    record_id  — Build asana_gid or SupportCase case_id, or 'unmatched'
+    asker      — display name of the user who asked
+    inquiry    — the raw user message (truncated to keep entries short)
+    """
+    inquiry_clean = (inquiry or "").strip().replace("\n", " ")
+    if len(inquiry_clean) > 240:
+        inquiry_clean = inquiry_clean[:237] + "…"
+    store_entry(
+        slack_client,
+        "KNOWLEDGE_GAP",
+        f"field={field} record={record_id} asker={asker} inquiry={inquiry_clean!r}",
+    )
 
 
 def list_items(slack_client, item_type):
@@ -135,7 +155,8 @@ def get_knowledge(slack_client, entry_types=None, days=None):
                 text = msg.get("text", "")
                 for tag in ["PRIORITY", "PROJECT", "CLIENT", "DELIVERABLE",
                             "TEAM", "CORRECTION", "FEEDBACK", "INSIGHT", "SNAPSHOT",
-                            "SOURCE", "BUG", "FEATURE", "ERROR", "DEBUG"]:
+                            "SOURCE", "BUG", "FEATURE", "ERROR", "DEBUG",
+                            "KNOWLEDGE_GAP"]:
                     if text.startswith(f"*[{tag}]*"):
                         if entry_types is None or tag in entry_types:
                             content = text.replace(f"*[{tag}]*\n", "", 1)

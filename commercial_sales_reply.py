@@ -228,8 +228,13 @@ Rules:
   shipped_back_date, tracking_number, carrier, linked_build_gid, owners, notes.
 - Dates: emit ISO format "YYYY-MM-DD" — parse natural language like "Jun 1"
   or "next Friday" into a specific date. Today's date is provided below.
-- State machines: emit the lowercase enum value (e.g. "invoice_sent",
-  "in_assembly", "delivered"). Reject values not in the enum.
+- State machines: emit the lowercase enum value EXACTLY. Allowed values:
+    payment_state: none, estimate_sent, invoice_sent, paid
+    build_state:   none, parts_ordered, in_assembly, in_qc, complete, packaged
+    ship_state:    none, awaiting_pickup, in_transit, delivered
+    (SupportCase) state: intake, diagnosing, rma_issued, received, under_repair,
+                          in_qc, complete, shipped
+  NEVER emit a value not on the allowed list. If unsure, put it in `ambiguous`.
 - For lists (items, parts): emit the WHOLE new list, preserving any items
   the reply doesn't change. Use the current value from the JSON record as
   the starting point and modify from there.
@@ -240,6 +245,40 @@ Rules:
 - If you can't tell what field a piece of the reply maps to, put it in
   `ambiguous` rather than guessing.
 - Never invent values not present in the reply.
+
+COMMON-PHRASE INTERPRETATION (apply these when the reply is one of these
+shapes — historically they were getting silently dropped because the
+literal word didn't match an enum):
+
+  Build replies:
+    "this is done / completed / finished / shipped / picked up / delivered" →
+        Emit BOTH:
+          - {"field": "ship_state", "value": "delivered"}
+          - {"field": "shipped_date", "value": "<today>"}  (if not given)
+        If the build_state is not already "complete" or "packaged", ALSO emit
+          - {"field": "build_state", "value": "complete"}
+        If payment_state is "invoice_sent" and the reply implies the customer
+        has paid ("paid", "settled"), ALSO emit
+          - {"field": "payment_state", "value": "paid"}
+          - {"field": "paid_date", "value": "<today>"}
+    "in assembly / building it now" → build_state=in_assembly.
+    "in QC / testing" → build_state=in_qc.
+    "ready to ship / packaged / awaiting pickup" → build_state=packaged,
+        ship_state=awaiting_pickup.
+    "out for delivery / in transit / tracking <number>" → ship_state=in_transit
+        (and tracking_number if a tracking string is given).
+    "estimate sent / quote sent" → payment_state=estimate_sent.
+    "invoice sent" → payment_state=invoice_sent.
+
+  SupportCase replies:
+    "received / unit arrived" → state=received.
+    "diagnosed / fixed / repaired" → state=under_repair (in-flight) or
+        complete (if "fixed/repair done").
+    "shipped back / returned to customer" → state=shipped.
+    "RMA issued" → state=rma_issued, rma_number if given.
+
+The point: a user saying "this has been completed" must NEVER produce
+ship_state="completed" (not a valid enum). Map to the correct field above.
 """
 
 
@@ -446,6 +485,18 @@ def handle_thread_reply(slack_client, event) -> Optional[str]:
             body += "\n\n_Things I wasn't sure about:_\n" + "\n".join(f"  • {a}" for a in ambiguous)
         if rejected:
             body += "\n\n_Rejected:_\n" + "\n".join(f"  • {r}" for r in rejected)
+            # Common case: user said "this is completed/done" on a Build and
+            # Haiku tried to set ship_state="completed" instead of ship_state=
+            # "delivered". Suggest the right phrasing rather than leaving them
+            # to guess. (See PARSE_REPLY_SYSTEM common-phrase block.)
+            low = text.lower()
+            done_words = ("complete", "completed", "done", "finished", "shipped out")
+            if kind == "build" and any(w in low for w in done_words):
+                body += (
+                    "\n\n_Did you mean the whole build is shipped/delivered? "
+                    "Try a reply like:_ `delivered, shipped 2026-05-15` _or_ "
+                    "`completed and shipped today`."
+                )
         return body
 
     # Stash and propose
