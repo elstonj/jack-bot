@@ -37,6 +37,12 @@ from commercial_sales_admin import (
     handle_create_task_propose,
     handle_create_task_followup,
 )
+from commercial_sales_inquiry import (
+    has_pending as cs_inquiry_has_pending,
+    is_inquiry_intent,
+    handle_inquiry,
+    handle_inquiry_followup,
+)
 from scheduler import start_scheduler
 
 load_dotenv()
@@ -262,7 +268,9 @@ def handle_mention(event, say, client):
     text = event.get("text", "")
     # Strip only the leading bot mention so embedded @user mentions are preserved
     # (otherwise "correction: @Joshua has time tracked" loses its subject).
-    message = re.sub(r"^\s*<@[A-Z0-9]+>\s*", "", text).strip()
+    # Slack sometimes delivers the pipe form `<@U…|Display Name>` (e.g. from
+    # mobile or search-derived contexts) — accept both `<@U…>` and `<@U…|…>`.
+    message = re.sub(r"^\s*<@[A-Z0-9]+(?:\|[^>]*)?>\s*", "", text).strip()
 
     route_message(
         message, say, client, event["user"], event.get("channel", ""),
@@ -273,6 +281,19 @@ def handle_mention(event, say, client):
 def route_message(message, say, client, user_id, channel_id, event_ts=""):
     """Unified routing for all natural language commands."""
     msg_lower = message.lower().strip()
+    cs_channel = os.environ.get("COMMERCIAL_SALES_CHANNEL", "")
+
+    # If a commercial-sales inquiry proposal is pending for this user+channel,
+    # try to interpret the reply (disambiguation pick / stub-details / cancel).
+    # On unrelated, fall through.
+    if cs_inquiry_has_pending(user_id, channel_id):
+        asker_name = resolve_user_name(client, user_id)
+        resp = handle_inquiry_followup(
+            message, user_id, channel_id, client, asker_name
+        )
+        if resp:
+            say(resp)
+            return
 
     # If a task-update proposal is pending for this user+channel, try to
     # interpret the reply as a confirmation/modification/rejection. If it
@@ -360,6 +381,27 @@ def route_message(message, say, client, user_id, channel_id, event_ts=""):
                 channel_context=channel_ctx,
                 user_id=user_id,
             ))
+    elif cs_channel and channel_id == cs_channel and is_inquiry_intent(message):
+        # #commercial-sales: shipping / parts / contact / payment questions
+        # resolve to a specific Build/SupportCase and either answer, ping the
+        # owner for missing info, or stub a new record. Avoids the old
+        # is_work_update silent-INSIGHT trap that swallowed Josh's
+        # "do the two s0 display units…" question on 2026-05-18.
+        asker_name = resolve_user_name(client, user_id)
+        resp = handle_inquiry(message, user_id, channel_id, client, asker_name)
+        if resp:
+            say(resp)
+        else:
+            # Defensive fallthrough — handle_inquiry always returns a string
+            # today, but if it ever returns None we want to answer something
+            # rather than ack with "Noted."
+            say(answer_question(
+                strip_qa_prefix(message),
+                slack_client=client,
+                channel_id=channel_id,
+                channel_context=get_channel_context(client, channel_id),
+                user_id=user_id,
+            ))
     elif is_question(message):
         question = strip_qa_prefix(message)
         channel_ctx = get_channel_context(client, channel_id)
@@ -429,10 +471,15 @@ def handle_dm(event, say, client):
                         handle_force_include_followup(text, user_id, cs_channel)
                         or handle_create_task_followup(text, user_id, cs_channel)
                     )
+                elif cs_inquiry_has_pending(user_id, cs_channel):
+                    asker_name = resolve_user_name(client, user_id)
+                    resp = handle_inquiry_followup(
+                        text, user_id, cs_channel, client, asker_name
+                    )
                 elif is_show_filtered_intent(text):
                     resp = handle_show_filtered()
                 else:
-                    # Try the two command intents.
+                    # Try the admin command intents first…
                     target = parse_force_include_target(text)
                     if target:
                         resp = handle_force_include_propose(target, user_id, cs_channel)
@@ -440,6 +487,15 @@ def handle_dm(event, say, client):
                         target = parse_create_task_target(text)
                         if target:
                             resp = handle_create_task_propose(target, user_id, cs_channel)
+                    # …then the inquiry handler for shipping/parts/POC/etc.
+                    # questions. Without this, top-level messages like
+                    # "what's the ship-to for SOCOM?" used to fall through
+                    # silently in #commercial-sales (no @-mention required).
+                    if not resp and is_inquiry_intent(text):
+                        asker_name = resolve_user_name(client, user_id)
+                        resp = handle_inquiry(
+                            text, user_id, cs_channel, client, asker_name
+                        )
                 if resp:
                     client.chat_postMessage(channel=cs_channel, text=resp)
                     return
