@@ -39,9 +39,11 @@ from commercial_sales_admin import (
 )
 from commercial_sales_inquiry import (
     has_pending as cs_inquiry_has_pending,
+    handle_followup as cs_inquiry_handle_followup,
     is_inquiry_intent,
     handle_inquiry,
-    handle_inquiry_followup,
+    is_update_intent as cs_is_update_intent,
+    handle_update_propose,
 )
 from scheduler import start_scheduler
 
@@ -283,12 +285,12 @@ def route_message(message, say, client, user_id, channel_id, event_ts=""):
     msg_lower = message.lower().strip()
     cs_channel = os.environ.get("COMMERCIAL_SALES_CHANNEL", "")
 
-    # If a commercial-sales inquiry proposal is pending for this user+channel,
-    # try to interpret the reply (disambiguation pick / stub-details / cancel).
-    # On unrelated, fall through.
+    # If a commercial-sales inquiry/update proposal is pending for this
+    # user+channel, try to interpret the reply (disambiguation pick /
+    # stub-details / yes-no-modify / cancel). On unrelated, fall through.
     if cs_inquiry_has_pending(user_id, channel_id):
         asker_name = resolve_user_name(client, user_id)
-        resp = handle_inquiry_followup(
+        resp = cs_inquiry_handle_followup(
             message, user_id, channel_id, client, asker_name
         )
         if resp:
@@ -381,6 +383,19 @@ def route_message(message, say, client, user_id, channel_id, event_ts=""):
                 channel_context=channel_ctx,
                 user_id=user_id,
             ))
+    elif cs_channel and channel_id == cs_channel and cs_is_update_intent(message):
+        # #commercial-sales: top-level update requests ("add Dan as owner to
+        # X", "mark CU IRISS complete", "set ship_to for SOCOM to ..."). These
+        # used to route through is_work_update and get a fake "Got it —
+        # stored." ack while losing the actual write — see Beck's 2026-05-18
+        # "add Dan as owner..." which never persisted to either Build JSON.
+        asker_name = resolve_user_name(client, user_id)
+        resp = handle_update_propose(
+            message, user_id, channel_id, client, asker_name
+        )
+        if resp:
+            say(resp)
+        # else: fall through silently — Haiku found nothing actionable
     elif cs_channel and channel_id == cs_channel and is_inquiry_intent(message):
         # #commercial-sales: shipping / parts / contact / payment questions
         # resolve to a specific Build/SupportCase and either answer, ping the
@@ -473,7 +488,7 @@ def handle_dm(event, say, client):
                     )
                 elif cs_inquiry_has_pending(user_id, cs_channel):
                     asker_name = resolve_user_name(client, user_id)
-                    resp = handle_inquiry_followup(
+                    resp = cs_inquiry_handle_followup(
                         text, user_id, cs_channel, client, asker_name
                     )
                 elif is_show_filtered_intent(text):
@@ -487,10 +502,19 @@ def handle_dm(event, say, client):
                         target = parse_create_task_target(text)
                         if target:
                             resp = handle_create_task_propose(target, user_id, cs_channel)
-                    # …then the inquiry handler for shipping/parts/POC/etc.
-                    # questions. Without this, top-level messages like
-                    # "what's the ship-to for SOCOM?" used to fall through
-                    # silently in #commercial-sales (no @-mention required).
+                    # …then update intents ("add Dan as owner to X",
+                    # "mark X complete"). is_update_intent rejects question
+                    # marks, so it won't swallow inquiry-shaped messages.
+                    if not resp and cs_is_update_intent(text):
+                        asker_name = resolve_user_name(client, user_id)
+                        resp = handle_update_propose(
+                            text, user_id, cs_channel, client, asker_name
+                        )
+                    # …then the read-only inquiry handler for shipping/parts/
+                    # POC/etc. questions. Without this, top-level messages
+                    # like "what's the ship-to for SOCOM?" used to fall
+                    # through silently in #commercial-sales (no @-mention
+                    # required).
                     if not resp and is_inquiry_intent(text):
                         asker_name = resolve_user_name(client, user_id)
                         resp = handle_inquiry(
