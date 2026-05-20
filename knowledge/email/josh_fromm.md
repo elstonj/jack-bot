@@ -1,101 +1,79 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 63 emails across May 18-19, 2026
-- **Volume pattern:** Moderate-to-high email volume; mix of vendor/procurement communications, internal project work, and promotional content
-- **Unread messages:** ~45 unread (majority of inbox), indicating active filtering or recent bulk review
+- **Total messages scanned:** 117 emails across May 18–20, 2026 (combined dataset)
+- **Volume pattern:** High email volume; heavy mix of vendor/procurement communications, internal project coordination, government partnerships, and promotional content
+- **Unread messages:** ~60+ unread (majority of inbox), indicating active triage and high incoming rate
+- **Date range:** Concentrated activity on **May 19, 2026** (Tuesday) — primary work day
 
 ## Key Correspondents
 
 ### Senders (who emails Josh most)
-1. **Purchasing alias routing** (`purchasing@blackswifttech.com`) — ~25+ vendor emails routed through BST's central purchasing distribution (Amazon, DigiKey, Mouser, McMaster-Carr, Harbor Freight, DHL, Comcast Business, Speedway Motors, Protospace, etc.)
-2. **Meredith Needham** (`meredith.needham@blackswifttech.com`) — 7 emails (manager/supervisor, handles vendor coordination and payment approval)
-3. **Lisa Strod** (`lstrod@biscoind.com`) — 5 emails (external vendor contact, payment-critical exchanges marked IMPORTANT)
-4. **AMain Hobbies** (`sales@t.amain.com`) — 3 emails (RC/hobby parts vendor, routed via Alex Lomis alias)
-5. **Asana** (`no-reply@asana.com`) — 3 notifications (project management tool)
-6. **Single/occasional senders:** Daniel Prendergast, Jessica Protospace, Tess Protospace, Russ UAS Vision, AliExpress, HeliDirect, Beck Cotter (all-staff), Hilton Honors, TraceParts, ELEGOO, Totalsim, DigiKey, Human Interest
+1. **Purchasing alias routing** (`purchasing@blackswifttech.com`) — ~30+ vendor emails routed through BST's central purchasing distribution (DigiKey, Mouser, McMaster-Carr, Battery Junction, Protolabs, Harbor Freight, DHL, Adafruit, CraftCloud, SkyGeek, Strong Hold, X-Plane, USPS, Baofeng, HeliDirect, etc.)
+2. **Jack Elston** (`elstonj@blackswifttech.com`) — 7 emails (leadership/project coordination; sends meeting invites and strategic directives)
+3. **David Schwartz** (`david.schwartz@vertiq.co`) — 4 emails (external vendor, critical order discussions: SO-01545)
+4. **Meredith Needham** (`meredith.needham@blackswifttech.com`) — 3+ emails (manager/supervisor; vendor payment coordination with Lisa Strod)
+5. **Lisa Strod** (`lstrod@biscoind.com`) — 3 emails (Bisco Industries; payment-critical, marked IMPORTANT)
+6. **Asana** (`no-reply@asana.com`) — 5 notifications (project management; task assignments from Dan Prendergast)
+7. **Blue Bird Model** (`sales@blue-bird-model.com`) — Direct servo order responses (IMPORTANT)
+8. **Nikolai Pawlenko / NOAA Federal** (`nikolai.f.pawlenko@noaa.gov`) — Government partnership communications (NOAA/BlackSwift monthly meetings)
 
-### Internal vs External
-- **External vendors:** ~20+ distinct suppliers (DigiKey, Mouser, McMaster-Carr, AMain Hobbies, Amazon, Harbor Freight, DHL, UPS, Protospace, Southco, K-Mac Plastics, Paramount Tube, Blue Bird Model, Bisco, CAPS Aviation, HeliDirect, Hilton, TraceParts, Totalsim, ELEGOO)
-- **Internal BST colleagues:** Meredith Needham (primary), Daniel Prendergast, Maciej Stachura, Jack Elston, Beck Cotter, Alex Lomis (purchasing alias)
-- **Note:** Josh receives emails both directly to `josh.fromm@blackswifttech.com` AND routed through `purchasing@blackswifttech.com` alias
+### Internal vs External Breakdown
+- **External vendors:** ~25+ distinct suppliers (DigiKey, Mouser, McMaster-Carr, Battery Junction, Protolabs, Adafruit, Blue Bird Model, VertIQ, Bisco, CraftCloud, SkyGeek, HeliDirect, AliExpress, Teledyne FLIR, SV Microwave/TraceParts, Baofeng, AGU, UnitedHealthcare, Expedia, Neat N Tidy, ProtoCase, BirdCall)
+- **Internal BST colleagues:** Jack Elston (leadership), Meredith Needham (manager), Daniel Prendergast (peer), Maciej Stachura (peer), Beck Cotter (peer)
+- **Government/Academic:** NOAA Federal (Nikolai Pawlenko, Joe Cione, Annette Hollingshead), ERAU (Joshua Wadler @ ERAU), AGU (American Geophysical Union)
+- **Strategic partners:** Krateo Sky (multiple contacts: Bob Smith, Brian Grubel, Lisa Marie Cheney, Roger Riley, Sona Raziabeegum, Thibault Bridel-Bertomeu)
 
-### Top External Contacts by Frequency
-1. **Lisa Strod (Bisco Industries)** — 5 exchanges; marked IMPORTANT throughout; payment/order discussions
-2. **AMain Hobbies** — Multiple RC parts orders
-3. **Meredith Needham** — Acts as intermediary with vendors (Paramount Tube, K-Mac Plastics, Southco Latches, Southco)
+### Top External Contacts by Frequency & Importance
+1. **David Schwartz (VertIQ)** — 4 emails on SO-01545; marked IMPORTANT; critical motor/component order discussions
+2. **Lisa Strod (Bisco Industries)** — 3 payment exchanges; marked IMPORTANT throughout
+3. **Blue Bird Model** — Direct servo orders; marked IMPORTANT
+4. **Nikolai Pawlenko / NOAA** — Government partnership coordination; marked IMPORTANT
+5. **Krateo Sky team** — Integration workshop scheduled (May 22, 2026); marked IMPORTANT
 
 ## Topic Patterns
 
 ### Recurring Project/Procurement Themes
-- **Servo/RC equipment orders:** Blue Bird Model servos, Southco latches (motion control)
-- **Plastic/composite materials:** K-Mac Plastics ("kmac tubes for s0 hurr" per Asana comment), Paramount Tube orders
-- **Electronics components:** DigiKey, Mouser, McMaster-Carr (standard industrial procurement)
-- **FPV/RC transmitters:** SoloGood FPV transmitter shipments
-- **Helicopter equipment:** SAB Helicopters (via HeliDirect), Hobbywing ESC sensors
-- **Tubes/structural materials:** Reinforced kraft tubes (Amazon shipments)
-- **Aviation-related:** CAPS Aviation liferaft repair station reference, "PHASE1 AVIATION LLC" payment reference
-- **Tools/fasteners:** Harbor Freight promotional offers (routed to Maciej)
+- **Servo/motor components:** Blue Bird Model servos, VertIQ motors (SO-01545), Hobbywing ESC sensors
+- **RC/FPV/UAS equipment:** AMain Hobbies ("amainhobbies for s3" per Asana comment), Battery Junction orders, HeliDirect RC equipment
+- **Electronics & components:** DigiKey, Mouser, Adafruit, McMaster-Carr (standard procurement)
+- **Manufacturing/fabrication:** Protolabs orders (5345-257), CraftCloud manufacturing support, ProtoCase e-drawings
+- **Tubes/structural materials:** Reinforced materials (referenced in prior knowledge file)
+- **RF/sensing equipment:** Teledyne FLIR cameras (imaging), SV Microwave RF products, Baofeng radio equipment
+- **Academic/research:** AGU article recommendations, NOAA collaboration
 
-### Vendor Categories
-Strong procurement pattern across:
-- **RC/FPV/Aerospace hobby components** (HeliDirect, AMain, Blue Bird Model, SAB, Hobbywing)
-- **Industrial materials** (K-Mac Plastics, Paramount Tube, McMaster-Carr, Southco)
-- **Electronics** (DigiKey, Mouser, Protospace)
-- **Logistics/payment** (DHL, UPS, Bisco/Lisa Strod payment coordination)
+### Government & Strategic Projects
+- **NOAA Partnership:** Monthly coordination meetings with NOAA Federal (Pawlenko, Cione), ERAU (Wadler), BST team; marked IMPORTANT
+- **Arctic UAS Demonstration:** Forward on "Arctic UAS Demonstration - White Paper Questionnaire and CJFC Vendor Brief" (May 19, 08:45am)
+- **SOCOM Proposal:** Continuing from previous data ("SOCOM Mod Payload Std for Low-cost EW UAS Proposal")
+- **Krateo Sky Integration:** Workshop scheduled May 22, 2026; 8:30am-9:30am (MDT); full team attendance (Jack Elston, Bob Smith, Brian Grubel, Meredith Needham, Beck Cotter, Daniel Prendergast, Maciej Stachura)
+
+### Asana Task/Project References
+- **"[031-1] UMES S3"** — Bench QC task assigned by Dan Prendergast (May 19, 21:13 UTC)
+- **"amainhobbies for s3"** — Meredith commented on this task (May 19, 16:26 UTC)
+- **"BST_Industrial_Pl..."** — Google Docs comment from Maciej Stachura; industrial planning document (May 19, 12:20 PDT)
 
 ### Subject Line Keywords
-- "Servo order," "Latches," "tubes," "FPV Transmitter," "liferafts," "payment," "RFQ," "order acknowledgement," "shipment notification"
+- "SO-01545" (VertIQ order), "Servo order," "Ready for payment," "NOAA/Blackswift Monthly," "Arctic UAS Demonstration," "KS x Black Swift Integration Workshop," "Industrial Plan," "Bench QC," "Shipping confirmation," "Order delay," "E-Drawing"
 
 ## Communication Patterns
 
 ### Time Spread
-- Heavy concentration on **May 18, 2026** (Monday) — bulk of active work day
-- Time zones: Primarily **US-based** (PDT, EDT, CDT, MDT) with some international (UTC, MYT, +0200, +0800)
-- Multiple time zone activity suggests either Josh working across regions or central purchasing handling global vendors
+- **Primary activity:** May 19, 2026 (Tuesday), 04:35am–21:47pm (spanning multiple US time zones)
+- **Time zones active:** PDT, MDT, CDT, EDT, UTC, +0200, +0800 — indicates either Josh working across regions or distributed team coordination
+- **Peak hours:** Morning (08:00–11:00 CDT/MDT) and afternoon (13:00–17:00 UTC) suggest coordinated business hours
 
 ### Email Categorization
-- **CATEGORY_FORUMS:** ~35 (mostly vendor routing through purchasing alias)
-- **CATEGORY_UPDATES:** ~15 (order confirmations, shipments, Asana notifications)
-- **CATEGORY_PROMOTIONS:** ~8 (DigiKey, TraceParts, Totalsim, Hilton, Spindrift)
-- **IMPORTANT flag:** ~10 emails (vendor payment exchanges with Lisa Strod, project meeting invites)
-- **UNREAD:** ~45 (majority of inbox), suggesting active triage
+- **CATEGORY_FORUMS:** ~35 (vendor routing, promotional offers, order confirmations)
+- **CATEGORY_UPDATES:** ~25 (order confirmations, shipments, Asana notifications, Meredith comments, AGU, UHC, SkyGeek)
+- **CATEGORY_PROMOTIONS:** ~10 (Teledyne FLIR, TraceParts, Birdcall, Expedia, Baofeng, X-Plane, UnitedHealthcare)
+- **IMPORTANT flag:** ~18 emails (strategic meetings, government partnerships, vendor negotiations, leadership directives)
+- **UNREAD:** ~60 (majority)
 
 ### Asana Integration
-- 3 Asana notifications visible; one references "kmac tubes for s0 hurr" (project task/codename?)
-- Indicates Josh uses project management tool for tracking procurement/build tasks
+- 5 Asana notifications; task assignments and comments from Meredith Needham and Dan Prendergast
+- Project references: "UMES S3," "amainhobbies for s3," "BST_Industrial_Pl..." (planning document)
+- Suggests Josh uses Asana heavily for task tracking and project coordination
 
 ### Mailing Lists & Subscriptions
-- **Promotional subscriptions:** DigiKey, TraceParts, Totalsim, Elegoo, RS Components, SAP, Hilton Honors, Spindrift
-- **Transactional/system alerts:** Asana, Human Interest, USPS Informed Delivery, QuickBooks Payments
-- **All-staff:** Beck Cotter Spring 2026 Newsletter broadcast
-
-## Key Relationships
-
-### Supervisor/Management
-- **Meredith Needham** — Clearly Josh's manager/purchasing lead; handles vendor payment approvals, forwards requests to Josh, maintains relationships with key suppliers (K-Mac Plastics, Paramount Tube, Southco)
-
-### Peer Collaborators (Internal)
-- **Daniel Prendergast** — Meeting invite: "SOCOM Mod Payload Std for Low-cost EW UAS Proposal" (May 18, 3:30pm MDT) — suggests Josh works on UAS/drone proposals
-- **Maciej Stachura** — Also invited to SOCOM meeting; appears to collaborate on same projects
-- **Jack Elston** — Also invited to SOCOM meeting
-- **Alex Lomis** — Purchasing alias recipient; may be peer in procurement or shared purchasing role
-- **Beck Cotter** — Broadcast sender (all-staff newsletters)
-
-### External Vendor Relationships (Strategic)
-1. **Lisa Strod (Bisco Industries)** — Payment-critical vendor contact; exchanges marked IMPORTANT; Josh initiates orders, Meredith approves payments
-2. **Protospace Mfg USA** — Jessica & Tess handle RFQs (Web-based quote request 255039); payment coordination
-3. **K-Mac Plastics** — Meredith manages but Josh likely specifies needs (tube orders)
-4. **Southco Latches** — Josh initiates orders (motion control/aerospace components)
-5. **Blue Bird Model** — Direct servo vendor contact initiated by Josh
-6. **HeliDirect / AMain Hobbies** — Recurring hobby/RC equipment suppliers
-
-### External Contacts (Research/News)
-- **Russ @ UAS VISION** — Sends daily news; Josh subscribed (indicates industry tracking on UAS/drone sector)
-- **TraceParts** — Connector/parts database; promotional but may indicate design research
-
-## Notable Observations
-
-### Project & Codename Signals
-- **"SOCOM Mod Payload Std for Low-cost EW UAS Proposal"** — Active government/defense proposal work (Electronic Warfare UAS, likely SOCOM contract)
-- **"s0 hurr"** (Asana task)
+- **Vendor promotional:** DigiKey, Battery Junction, Harbor Freight, HeliDirect, Baofeng, X-Plane, TraceParts/SV

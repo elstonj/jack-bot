@@ -14,7 +14,8 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 - Moe (EMASS contact)
 - Alex Lomis (flight operations/coordination)
 - Meredith Needham (finance/invoicing)
-- U0151201DMY (appears to be infrastructure/web portal team member)
+- U0151201DMY (infrastructure/web portal team member)
+- U01511MEQ90 (team member being invited to meetings)
 
 **Activity Level:** Ongoing active project spanning November 2025 - May 2026+. Real flight testing commenced April 23-24, 2026. EMASS media release planned for first week of May creating hard deadline. Project entering critical phase with emerging concerns about EMASS controller performance specifications and fundamental ML model training approach.
 
@@ -86,4 +87,4 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 - Develop interface between EMASS hardware and E2 autopilot
 - Create simulation environment (Gazebo-based SWIL) for validation
 - Conduct flight testing with comparative analysis (controller on/off)
-- Timeline: Originally January-March 2026, pushed to March 11, 2026; further delays occurred due to EMASS team responsiveness and BS
+- Timeline: Originally January-March 2026, pushed to March 11, 2026

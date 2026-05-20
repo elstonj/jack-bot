@@ -29,13 +29,13 @@
         "amount": 2718.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-19"
+        "last_updated": "2026-05-20"
       },
       "purchases": {
         "amount": 2374.05,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-05-19"
+        "last_updated": "2026-05-20"
       },
       "other_qbo": {
         "amount": 306.29,
@@ -49,7 +49,7 @@
     "committed": 11945.78,
     "remaining": 72499.13,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-19T09:02:29Z"
+    "last_reconciled": "2026-05-20T09:01:20Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -71,12 +71,6 @@
   "overrides": [
     {
       "source": "FEEDBACK",
-      "author": "Joshua Fromm",
-      "date": "2026-04-20",
-      "text": "From Joshua Fromm (ts=1776453532.191149): it's still not clear to me the extent of ndaa on parts, but the s3 has no electronics that have final assembly in china"
-    },
-    {
-      "source": "FEEDBACK",
       "author": "Alex Lomis",
       "date": "2026-04-20",
       "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
@@ -116,6 +110,12 @@
       "author": "Alex Lomis",
       "date": "2026-04-20",
       "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Joshua Fromm",
+      "date": "2026-04-20",
+      "text": "From Joshua Fromm (ts=1776453532.191149): it's still not clear to me the extent of ndaa on parts, but the s3 has no electronics that have final assembly in china"
     },
     {
       "source": "FEEDBACK",
@@ -130,6 +130,6 @@
       "text": "From Maciej (ts=1777309788.790849): • <@U06CCFTNBS6>, after your meeting with ByLight let's update the due dates in Asana to realistic numbers and let them know.\n• <@U058LGYMEQ0>, did you need support on S0-VTOL stuff? Looks like some deadlines this week that I assume <@U01511MEQ90> or <@U06NQAYBLRK> can help with depending on their workload.\n• <@U07FN4QSNDN> or <@U01511MEQ90>, you had both mentioned using our AI tools to start on those NASA RFI's, are one of you able to get going on that soon? "
     }
   ],
-  "last_full_rebuild": "2026-05-19T09:02:29Z",
+  "last_full_rebuild": "2026-05-20T09:01:20Z",
   "last_incremental_update": null
 }

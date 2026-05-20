@@ -17,7 +17,7 @@
     "total_value": 483000.0,
     "start_date": "2026-02-01",
     "end_date": "2031-01-31",
-    "payment_cadence": "per ordering period (annual); T&M for NRE labor at task order level",
+    "payment_cadence": "By ordering period (annual); NRE labor billed at task order level with specified hourly rates",
     "documents": [
       "drive://Budget Structure",
       "drive://(1305M226D0012) Attachment 1-Specifications_Black Swift.pdf",
@@ -30,61 +30,55 @@
     "line_items": [
       {
         "category": "Equipment",
-        "amount": 13380625.0,
-        "description": "Black Swift S0 sUAS Platforms: 675 aircraft @ escalating unit prices ($18,000 to $20,655)",
+        "amount": 10981250.0,
+        "description": "Black Swift S0 sUAS Platforms: 150 EA @ $18,000 (Period 1), 150 EA @ $18,630 (Period 2), 125 EA @ $19,282 (Period 3), 125 EA @ $19,957 (Period 4), 125 EA @ $20,655 (Period 5)",
         "source_doc": null
       },
       {
         "category": "Labor",
-        "amount": 433100.0,
-        "description": "Mission Days Operational support: 150 days @ $2,850; Operational/Testing Support: 30 sessions @ $6,000; Training sessions (Operator/Observer and Instructor) across 5 periods",
+        "amount": 858100.0,
+        "description": "Mission Days Operational support (30 days @ $2,850 per period), Operational and Testing Support (6 sessions @ $6,000 per period), Operator and Observer Training (1 session @ $6,000 per period), Instructor Training (1 session @ $600 per period), Course Development (Operator/Observer and Instructor courses @ $6,000 each per period)",
         "source_doc": null
       },
       {
-        "category": "Other",
-        "amount": 60000.0,
-        "description": "Course Development: Operator/Observer and Instructor Training courses (10 courses @ $6,000 each)",
-        "source_doc": null
-      },
-      {
-        "category": "Other",
+        "category": "Travel",
         "amount": 250000.0,
-        "description": "Travel for Operational Support (NTE): $50,000 per ordering period × 5 periods",
+        "description": "Travel for Operational Support (Not-to-Exceed $50,000 per ordering period × 5 periods)",
         "source_doc": null
       },
       {
-        "category": "Labor",
+        "category": "Other",
         "amount": 990000.0,
-        "description": "Non-recurring Engineering (NRE) - Labor: Technical Documentation, Modeling, and NHC workflow integration (NTE $66,000 per category × 3 categories × 5 periods)",
+        "description": "Non-Recurring Engineering: Technical Documentation (NTE $66,000 per period), Modeling (NTE $66,000 per period), NHC operational workflow integration (NTE $66,000 per period) × 5 periods",
         "source_doc": null
       }
     ],
     "spent": {
       "labor": {
-        "amount": 90750.0,
+        "amount": 91226.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-19"
+        "last_updated": "2026-05-20"
       },
       "purchases": {
         "amount": 902.06,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-05-19"
+        "last_updated": "2026-05-20"
       },
       "other_qbo": {
-        "amount": 2776.5,
+        "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-05-19"
+        "last_updated": "2026-05-20"
       },
-      "total": 94428.56,
+      "total": 92128.31,
       "by_line_item": {}
     },
     "committed": 68.7,
-    "remaining": 13186752.74,
+    "remaining": 13189052.99,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-19T09:02:35Z"
+    "last_reconciled": "2026-05-20T09:01:25Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -153,6 +147,6 @@
       "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
     }
   ],
-  "last_full_rebuild": "2026-05-19T09:02:35Z",
+  "last_full_rebuild": "2026-05-20T09:01:25Z",
   "last_incremental_update": null
 }

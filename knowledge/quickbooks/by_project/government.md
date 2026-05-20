@@ -38,17 +38,16 @@
 | **Black Swift Technologies (Internal/Sales)** | **$197,188.00** | **Equipment sales: S0 4m VTOL, S0 VTOL Variant, E2 UAS, Avionics systems** |
 | NOAA UASD & UxSOC | $9,320.00 | Display Model S0 units with tripods & shipping (Invoices #1761–#1762, 2026-05-08) |
 
-### Recent Invoices (2026-05-15 to 2026-09-28)
+### Recent Invoices (2026-06-29 to 2026-09-28)
 | Invoice # | Date | Amount | Project | Description | Balance |
 |-----------|------|--------|---------|-------------|---------|
-| **#1763** | **2026-05-11** | **$197,188.00** | **Black Swift Technologies** | **Equipment Sales: S0 4m VTOL ($65k), S0 VTOL Variant ($36k), E2 UAS ($56.188k), Avionics ($40k)** | **$197,188.00** |
-| #1749 | 2026-06-29 | $35,000.00 | [550-1] Navy SBIR Magnetometer | CLIN 0006: Progress Report - Option | $35,000.00 |
-| #1739 | 2026-07-02 | $72,000.00 | [300-3] 2026 IDIQ | CLIN 1001 Invoice 4 of 6 | $72,000.00 |
-| #1740 | 2026-07-02 | $72,000.00 | [300-3] 2026 IDIQ | CLIN 1001 Invoice 5 of 6 | $72,000.00 |
-| #1741 | 2026-07-30 | $72,000.00 | [300-3] 2026 IDIQ | CLIN 1001 Invoice 6 of 6 | $72,000.00 |
-| #1750 | 2026-09-28 | $14,459.00 | [550-1] Navy SBIR Magnetometer | CLIN 0007: Final Report | $14,459.00 |
+| **#1749** | **2026-06-29** | **$35,000.00** | **[550-1] Navy SBIR Magnetometer** | **CLIN 0006: Progress Report - Option** | **$35,000.00** |
+| **#1739** | **2026-07-02** | **$72,000.00** | **[300-3] 2026 IDIQ** | **CLIN 1001 Invoice 4 of 6** | **$72,000.00** |
+| **#1740** | **2026-07-02** | **$72,000.00** | **[300-3] 2026 IDIQ** | **CLIN 1001 Invoice 5 of 6** | **$72,000.00** |
+| **#1741** | **2026-07-30** | **$72,000.00** | **[300-3] 2026 IDIQ** | **CLIN 1001 Invoice 6 of 6** | **$72,000.00** |
+| **#1750** | **2026-09-28** | **$14,459.00** | **[550-1] Navy SBIR Magnetometer** | **CLIN 0007: Final Report** | **$14,459.00** |
 
-**Recent invoice total (2026-05-11 to 2026-09-28):** $462,647.00  
+**Recent invoice total (2026-06-29 to 2026-09-28):** $265,459.00  
 **All invoices confirmed through 2026-09-28.**
 
 ---
@@ -127,4 +126,10 @@
 **Details:**
 - **FedEx shipment (2026-05-14, Purchase FEDEX37097183):** $18.60 [DC-Direct Cost Shipping, Freight & Delivery]
   - Amprius Technologies shipment for Navy SBIR project [550-1] (order #11674)
-  - *Note: Additional $79.25 for future S3 sales
+  - *Note: Additional $79.25 for future S3 sales*
+
+---
+
+### **Direct Labor:** $0.00
+**Number of transactions:** 0  
+**Note:** Direct labor appears to be managed through subcontractor allocations (e.g., Ted Miles, MicroFirm Engineering hours). No internal payroll

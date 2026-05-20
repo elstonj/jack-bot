@@ -1,120 +1,107 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 51 emails across three data pulls
-- **Date range:** 16–19 May 2026
-- **Volume pattern:** Heavily skewed toward vendor/transactional emails (40+ routed via purchasing alias). Approximately 1–2 direct work emails visible; majority of activity on 18 May (bulk order processing day)
+- **Total messages scanned:** 71 emails across four data pulls
+- **Date range:** 16–20 May 2026
+- **Volume pattern:** Heavily skewed toward vendor/transactional emails (55+ routed via purchasing alias). Approximately 1–2 direct work emails visible; peak activity on 18–19 May (bulk order processing period)
 
 ## Key Correspondents
 
 ### Senders (by frequency)
-1. **Purchasing team alias route** (35+ emails) — All forwarded through `purchasing@blackswifttech.com`
-   - **Electronics suppliers:** DigiKey (3), Mouser (2), McMaster-Carr (2), Amazon (5+), RS (1), STMicroelectronics (1)
+1. **Purchasing team alias route** (50+ emails) — All forwarded through `purchasing@blackswifttech.com`
+   - **Electronics suppliers:** DigiKey (5, including delay notification), Mouser (2), McMaster-Carr (2), Amazon (5+), RS (1), STMicroelectronics (1), Adafruit Industries (1), Battery Junction (3)
    - **Hobby/RC aviation:** AMain Hobbies (4), HeliDirect (2), Hobbyking (1)
    - **Automotive/tools:** Speedway Motors (1), Harbor Freight (3)
-   - **Logistics/shipping:** USPS Informed Delivery (1), UPS (1), DHL (1)
-   - **Industrial/manufacturing:** Protospace Mfg USA (1), CAPS Aviation (1), Neat N Tidy (1)
-   - **Business services:** QuickBooks Payments (1), Comcast Business (1), Dell Technologies (1), SAP (1)
-   - **Other:** ELEGOO US (3D printers) (1), Spindrift (beverages) (1)
+   - **Logistics/shipping:** USPS Informed Delivery (2), UPS (1), DHL (1), Worldwide Express (1)
+   - **Industrial/manufacturing:** Protospace Mfg USA (1), CAPS Aviation (1), Neat N Tidy (2), Craftcloud (1)
+   - **Business services:** QuickBooks Payments (1), Comcast Business (1), Dell Technologies (1), SAP (1), Veeam Team (1)
+   - **Other:** ELEGOO US (1), Spindrift (1), Budget (car rental) (1), SkyGeek (1), Strong Hold (1), Baofeng Radio (1)
 
-2. **External direct senders** (5 emails)
+2. **External direct senders** (7 emails)
    - **Frank Strazzabosco** `microfirm@earthlink.net` (3 emails) — **Power Distribution Parts** discussion; forwarded to Jack Elston and Thinh Nguyen
+   - **Briana Gonzalez** `briana@jawstec.com` (1) — **Possible order delay** (19 May 21:23)
+   - **Jack Elston** `elstonj@blackswifttech.com` (1, IMPORTANT) — Reply to Frank Strazzabosco re: LTC2959IDDB# quotation; addresses `microfirm@earthlink.net` directly
    - **Toggl Track** `support@track.toggl.com` (1) — Time tracking software
-   - **OmniSync** `no-reply@omnisync.io` (1) — SBIR (Small Business Innovation Research) opportunity matching
-   - **STMicroelectronics** `st@information.st.com` (1) — Direct email (correction notification)
+   - **OmniSync** `no-reply@omnisync.io` (1) — SBIR opportunity matching
+   - **STMicroelectronics** `st@information.st.com` (1) — Correction notification
+   - **Veeam Team** `veeam_team@veeam.com` (1) — V13.1 webinar promotion (direct to sam.hild@blackswifttech.com, not purchasing alias)
 
-3. **Internal BST colleagues identified** (2 emails)
-   - **Jack Elston** `elstonj@blackswifttech.com` (1) — Copied on Frank Strazzabosco quotation for LTC2959IDDB# analog components
-   - **Beck Cotter** `beck.cotter@blackswifttech.com` (1) — Newsletter forward to All
+3. **Internal BST colleagues identified** (3 emails)
+   - **Jack Elston** `elstonj@blackswifttech.com` (2) — Copied on Frank Strazzabosco quotation; also sent IMPORTANT reply directly to Frank on 19 May 08:20
+   - **Beck Cotter** `beck.cotter@blackswifttech.com` (1) — Newsletter forward
+   - **Nate Straus** — Receives Adafruit Industries order confirmation (purchasing role)
+   - **Joshua Fromm** — Receives SkyGeek check-in email (purchasing role)
+   - **Meredith Needham** — Receives HeliDirect and Baofeng emails (purchasing team member)
+
+### Purchasing Team Roster Visible
+- **Alex/Alexis Lomis** — AMain Hobbies, ELEGOO recipient
+- **Nate Straus** — Adafruit Industries recipient
+- **Joshua Fromm** — SkyGeek recipient
+- **Meredith Needham** — HeliDirect, Baofeng recipient
+- Generic **PURCHASING@blackswifttech.com** — Bulk recipient for most vendor confirmations
 
 ### Internal vs External
-- **External vendors/suppliers:** ~85% of correspondence
-- **Internal colleagues:** ~5% directly visible (Jack Elston, Beck Cotter)
-- **Automated/system notifications:** ~10% (Toggl Track, OmniSync, STMicroelectronics corrections)
-
-### Purchasing Alias Observations
-- Emails frequently routed to **Alex Lomis** or **Alexis Lomis** at purchasing (AMain Hobbies, ELEGOO)
-- One email to **Meredith Needham** at purchasing (HeliDirect SAB helicopters, Spindrift beverage)
-- Suggests multiple team members or potential role variation in purchasing function
+- **External vendors/suppliers:** ~80% of correspondence
+- **Internal colleagues:** ~7% directly visible (Jack Elston, Beck Cotter, Nate Straus, Joshua Fromm, Meredith Needham)
+- **Automated/system notifications:** ~13% (Toggl Track, OmniSync, Veeam, STMicroelectronics corrections)
 
 ## Topic Patterns
 
 ### Supplier/Vendor Categories & Themes
 
-**Electronics & Components (Primary focus)**
-- DigiKey (general ICs, delays noted)
+**Electronics & Components (Primary focus — expanding)**
+- DigiKey (5 emails: general ICs, **delay notification on order**, shipment tracking)
 - Mouser (PO 39225140)
-- McMaster-Carr (May 18 orders, certificates/tracking)
-- LTC2959IDDB#TRMPBF analog components (Worldway quotation from Frank Strazzabosco)
+- McMaster-Carr (May 18 orders, receipts, tracking)
+- Adafruit Industries (Order Confirmation #3684526-0269237422 — new vendor)
+- Battery Junction (3 new emails — order #760679 confirmed, signup notification, promotional)
+- LTC2959IDDB#TRMPBF analog components (Worldway quotation from Frank Strazzabosco, **15 pcs**)
 - Hobbywing RPM Sensor For High-Voltage ESC (3 units)
-- SoloGood FPV Transmitter (shipped)
+- SoloGood FPV Transmitter
 
-**Hobby/RC Aviation (Active)**
-- AMain Hobbies orders (4 emails, VIP Rewards Program)
-- HeliDirect (SAB Helicopters in stock alert)
+**Hobby/RC Aviation (Active, steady volume)**
+- AMain Hobbies (4 emails, VIP Rewards)
+- HeliDirect (Memorial Day sale alert)
 - Hobbyking (subscription)
-- FPV (First-Person View) drone/RC aviation equipment
+- FPV/drone equipment focus
 
-**Power Distribution & Control Systems (Emerging theme)**
-- Frank Strazzabosco email chain: "Power Distribution Parts" — discussion with Thinh Nguyen
-- LTC2959IDDB (likely power management IC — analog switching regulator)
-- Hobbywing ESC (Electronic Speed Controller) with sensor feedback
-- QuickBooks payment to "PHASE1 AVIATION LLC"
+**Power Distribution & Control Systems (Active technical thread)**
+- **Jack Elston reply (19 May 08:20, IMPORTANT)** — Direct engagement with Frank Strazzabosco on LTC2959IDDB quotation suggests active technical review/approval
+- LTC2959IDDB (power management IC — analog switching regulator, **15 units quoted**)
+- Hobbywing ESC with sensor feedback
+- Suggests design or integration work in progress
 
-**Aerospace/Aviation Services**
-- CAPS Aviation: Liferafts — Winslow Authorized repair station (Texas)
+**Aerospace/Aviation Services (Emerging)**
+- CAPS Aviation: Liferafts (Winslow repair station, Texas)
+- SkyGeek (aviation supplier, check-in email to Joshua Fromm)
 - Phase1 Aviation LLC (invoice payment)
-- Suggests possible contract work or components for aviation systems
+- **Briana Gonzalez** `briana@jawstec.com` — **"Possible order delay"** (19 May 21:23) — new vendor contact, context unclear but suggests active negotiation or supply chain issue
 
-**Industrial/Manufacturing**
-- Protospace Mfg USA (CNC/3D printing services?)
-- Neat N Tidy (booking service — unclear purpose)
-- Reinforced Kraft packaging (5" × 48", ordered via Amazon)
-- ELEGOO (3D printer models, certified pre-owned)
+**Industrial/Manufacturing (Expanding)**
+- Protospace Mfg USA
+- Neat N Tidy (2 emails — receipt, appears to be service booking)
+- **Craftcloud** (manufacturing/3D printing service — order confirmation, 19 May)
+- ELEGOO (3D printers)
+- Reinforced Kraft packaging
+
+**Batteries & Power Hardware (New category)**
+- **Battery Junction** (3 emails on 19 May) — order #760679 confirmed, signup notification, promotional
+- **Baofeng Radio** — Off-grid giveaway (promotional)
+- Suggests battery/portable power project or inventory build
 
 **Utilities & Business Services**
-- Comcast Business billing
-- Dell Technologies (exclusive savings)
-- SAP Business Network webinars
-- Toggl Track (time tracking — professional tool)
+- Comcast Business
+- Dell Technologies
+- SAP Business Network
+- **Veeam Team** — V13.1 backup/virtualization webinar (direct to Sam, not purchasing alias — possible IT responsibility)
+- Toggl Track (time tracking)
+
+**Transportation/Rental (Minor)**
+- Budget car rental — Memorial Day sale (low signal)
 
 ### Notable Subject Patterns
-- Heavy transactional volume (confirmations, shipments, tracking)
-- Promotional/flash sales mixed with order processing
-- Technical focus: power distribution, aviation components, FPV/RC systems
-- One SBIR opportunity match (OmniSync) — suggests possible research/grant work interest
-- Harbor Freight coupon reminder (personalized to "MACIEJ" — possible account name discrepancy or shared inbox)
-
-## Communication Patterns
-
-### Email Routing & Delegation
-- **Bulk purchasing flow:** Most vendor emails route through `purchasing@blackswifttech.com` (shared team inbox or forward rule)
-- **Alex/Alexis Lomis receiving:** AMain Hobbies, ELEGOO orders addressed to "Alex Lomis" or "Alexis Lomis"
-- **Meredith Needham receiving:** HeliDirect, Spindrift emails addressed to Meredith Needham at purchasing
-- **Sam direct inbox:** Work emails (Frank Strazzabosco, Toggl, OmniSync, STMicroelectronics) arrive at `sam.hild@blackswifttech.com`; also receives `sam.hild@bst.aero` variant
-
-### Timing
-- **Heavy activity:** 18 May 2026, 10:00–22:00 UTC (spanning multiple time zones: -6:00 to +8:00 MYT)
-- **Bulk order processing:** Morning 12:32–15:28 (multiple simultaneous supplier confirmations)
-- **Evening activity:** 17:00–23:00 UTC (shipping notifications, payment confirmations)
-- **Recent inbound:** 19 May 05:04 UTC (DoW SBIR opportunity)
-
-### Direct Work Correspondence
-- **3 emails from Frank Strazzabosco** (microfirm@earthlink.net):
-  - 14:35 UTC: Frank emails Thinh Nguyen re: "Power Distribution Parts"
-  - 14:48 UTC: Frank replies to Sam (marked IMPORTANT)
-  - 15:00 UTC: Sam replies to Frank (SENT)
-  - Suggests active technical discussion on power distribution design or procurement
-
-### Email Categories (System tags)
-- `CATEGORY_FORUMS` — Promotional/newsletter/transactional (majority, ~30 emails)
-- `CATEGORY_UPDATES` — Shipment notifications, order confirmations (~8 emails)
-- `CATEGORY_PROMOTIONS` — Marketing/newsletters (SBIR, STMicroelectronics, Spindrift)
-
-## Key Relationships
-
-### Internal Collaborators
-1. **Jack Elston** `elstonj@blackswifttech.com` — Copied on electronics component quotations; appears to be co-receiver on vendor communications
-2. **Thinh Nguyen** `thinh991@yahoo.com` (external email) — Recipient of Frank Strazzabosco's "Power Distribution Parts" email; possible external contractor or partner
-3. **Beck Cotter** `beck.cotter@blackswifttech.com` — Sends company newsletters
-4. **Meredith Needham** (purchasing team) — Receives
+- **DigiKey delay notification** (19 May 04:35) — Supply chain risk on core component order
+- **Briana Gonzalez "Possible order delay"** (19 May 21:23) — Unknown vendor/supplier context; suggests supply chain activity
+- **Jack Elston IMPORTANT reply** (19 May 08:20) — Indicates LTC2959IDDB quotation is under active technical review
+- **Adafruit & Battery Junction orders** (19 May) — New suppliers added to procurement workflow; **Battery Junction particularly active** (3 emails same day)
+- Heavy transactional volume (confirmations, shipments,

@@ -1,43 +1,17 @@
 {
   "period": {
-    "start": "2026-05-18",
-    "end": "2026-05-19"
+    "start": "2026-05-19",
+    "end": "2026-05-20"
   },
-  "scanned_at": "2026-05-19",
+  "scanned_at": "2026-05-20",
   "projects": [
-    {
-      "project_code": "031-1",
-      "revenue": 79338.0,
-      "expenses": 0.0,
-      "invoice_count": 1,
-      "bill_count": 0,
-      "purchase_count": 0,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "(031-1) University of Maryland Eastern Shore"
-      ]
-    },
-    {
-      "project_code": "032-3",
-      "revenue": 0.0,
-      "expenses": 555.3,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 1,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "[032-3] Sasquatch S0s x 4"
-      ]
-    },
     {
       "project_code": "300-3",
       "revenue": 216000.0,
-      "expenses": 2776.5,
+      "expenses": 0.0,
       "invoice_count": 3,
       "bill_count": 0,
-      "purchase_count": 1,
+      "purchase_count": 0,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -59,15 +33,16 @@
     },
     {
       "project_code": "_unclassified",
-      "revenue": 0.0,
-      "expenses": 11606.57,
-      "invoice_count": 0,
+      "revenue": 3900.0,
+      "expenses": 10773.62,
+      "invoice_count": 1,
       "bill_count": 1,
-      "purchase_count": 1,
+      "purchase_count": 0,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        ""
+        "",
+        "Daniel Hesselius"
       ]
     }
   ]

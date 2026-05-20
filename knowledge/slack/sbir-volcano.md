@@ -57,6 +57,8 @@ The channel covers activities from 2020 through May 2026, with high activity dur
 **Operating Manual Documentation (April 28, 2026)**
 - **Decision**: Jack Elston initiated development of operating manual as required for flight permissions
 - **Approach**: Overleaf document shared with team members for collaborative editing and refinement
+- **Content Generation** (May 19, 2026): Jack Elston confirmed manual contains "AI fill in the gaps" content but assessed as "accurate enough"
+- **Compliance Expectation**: Jack Elston indicated that AFAC (Mexican authorities) unlikely to scrutinize manual extensively
 
 ## Projects & Initiatives
 
@@ -74,7 +76,7 @@ The channel covers activities from 2020 through May 2026, with high activity dur
 - **Restrictions**: Operations limited to west side of ridge until NASA crew qualified
 
 **Popocatépetl Volcano (Mexico)**
-- **Status**: Deployment deferred from April 19-27, 2026; awaiting S3 aircraft repairs and testing completion; documentation review ongoing as of May 18, 2026
+- **Status**: Deployment deferred from April 19-27, 2026; awaiting S3 aircraft repairs and testing completion; documentation review ongoing as of May 18, 2026; manual flagged with content accuracy concerns but expected to proceed
 - **Significance**: SO2 output 10-50x higher than Makushin
 - **Aircraft**: S3 (Registration 20686S30001) selected due to high-altitude requirements (18,000-20,000 ft)
 - **Mission Parameters (As of April 13, 2026)**:
@@ -91,16 +93,16 @@ The channel covers activities from 2020 through May 2026, with high activity dur
   - **Status**: Unresolved - no SOW or contract found in shared drive
   - **Question raised by Dan Prendergast**: No written agreement located; unclear if relationship is verbal only or documented elsewhere
   - **Action needed**: Clarification on formal relationship documentation and agreement status with AV3
-- **Regulatory Status**: Written permission from Mexican authorities not secured as of April 13, 2026
+- **Regulatory Status**: Written permission from Mexican authorities not secured as of April 13, 2026; pursuing AFAC approval via operating manual
 - **Payload Status** (as of April 18, 2026): 
   - Trace gas payload: Communication issue resolved with ADUM1201 magnetic isolator solution
   - Photogrammetry payload: Confirmed operational
   - Pitot system: Configured without drain (taped)
-- **Documentation** (as of May 18, 2026):
-  - Operating manual in development via Overleaf for AFAC flight permissions
-  - Manual reported as "really complete according to AFAC requirements"
-  - Dan Prendergast questioning thoroughness and origin of manual (potential AI generation)
-  - Manual requires detailed review despite completeness appearance
+- **Documentation** (as of May 19, 2026):
+  - Operating manual completed via Overleaf with AI-generated content to fill gaps
+  - Jack Elston assessed manual as "accurate enough" for AFAC requirements
+  - Jack Elston indicated AFAC unlikely to scrutinize content extensively
+  - Manual reported as meeting AFAC requirements
 
 **S10022 Aircraft Testing (April 2026)**
 - **Status**: Multiple test flights completed week of April 13-14, 2026
@@ -109,13 +111,4 @@ The channel covers activities from 2020 through May 2026, with high activity dur
   - Multiple flights at Sod Farm location
   - High-altitude hover tests at multiple elevation points (Boulder at 5,600 ft, Caribou TH at ~10,000 ft, intermediate point)
   - Analysis of performance parameters for extrapolation to higher altitudes
-  - Flight data collection (corrupt SD card issue resolved April 13)
-- **Status**: Windy conditions limited flight opportunities
-
-**S1-22 Aircraft Testing (April 2026)**
-- **Status**: Ready for flight operations
-
-**S3 Design Improvement Initiative (April 18, 2026)**
-- **Status**: In-progress
-- **Focus**: Development of new S3 design generation
-- **Priority**:
+  - Flight data collection (corrupt
