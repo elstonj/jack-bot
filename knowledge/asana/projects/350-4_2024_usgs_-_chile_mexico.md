@@ -28,16 +28,15 @@
 - **Create photogrammetry footprints** | Dan Prendergast | Asana due: October 1, 2026 | **STALE**
 
 ## Task Summary
-- **Total Tasks**: 2 open, 0 completed
+- **Total Tasks**: 1 open, 0 completed
 - **Tasks by Assignee**:
-  - **Dan Prendergast**: 2 open tasks
+  - **Dan Prendergast**: 1 open task
     - "Look at proposal/contract for AV3 budget and assign to Paulino" | Due: May 20, 2026 | **STALE**
-    - "Operator Manual and Flight CONOPS for AFAC" | Due: May 18, 2026 | **STALE**
 
 - **Notable Patterns**:
-  - **Reduction in open task count** (from 20 to 2) indicates project substantially cleaned up in Asana pending Fall 2026 rescheduling
-  - **Both remaining tasks assigned to Dan Prendergast** — represent AV3 contract sourcing and AFAC documentation blockers
-  - **All due dates are in May 2026** — stale per team corrections; actual execution will follow Fall 2026 confirmation
+  - **Single open task remaining** — represents AV3 contract sourcing blocker (aircraft rental replacement partner)
+  - **Due date is stale** (May 20, 2026); actual scheduling dependent on Fall 2026 confirmation
+  - Task count continues to decline as project consolidates pending rescheduling
 
 ## Recent Activity
 - **April 20, 2026 (TEAM CORRECTIONS — AUTHORITATIVE)**: 
@@ -45,20 +44,20 @@
 - **April 17, 2026 (TEAM CORRECTIONS — AUTHORITATIVE)**:
   - **Maciej Stachura**: "Mexico is moved to the Fall, so **no flight planning happening soon.**"
 - **November 22, 2023**: Status update filed showing overdue milestones and tasks (historical; superseded by April 2026 delay announcement)
-- **Action**: Mission deployment **delayed from April 20, 2026 to Fall 2026**. No flight planning, shipping, or mission prep happening soon. All Asana tasks showing May–October 2026 due dates are stale and should not drive near-term decisions.
+- **Action**: Mission deployment **delayed from April 20, 2026 to Fall 2026**. No flight planning, shipping, or mission prep happening soon. One open task (AV3 contract) pending rescheduling.
 
 ## Notes & Context
 - **Mission Purpose**: S3 aircraft deployment to Chile/Mexico for volcanic gas sampling using Multi-sensor Head Package (MHP), survey services, and aircraft rental through AV3
 - **Deployment Status**: 
   - **Originally planned**: April 20, 2026
   - **Now scheduled**: Fall 2026 (per Maciej, April 17; Jack, April 20)
-  - **Implication**: **ALL spring/summer 2026 task due dates in Asana are stale**; two remaining tasks pending rescheduling once Fall 2026 timeline is finalized
+  - **Implication**: **ALL spring/summer 2026 task due dates in Asana are stale**; one remaining task pending rescheduling once Fall 2026 timeline is finalized
   - **Flight Planning/Shipping**: **Not happening soon** — project is in hold state pending Fall 2026 confirmation
-- **Products/Services**: MHP, Survey Services, Aircraft Rental (via AV3 — replacement partner search ongoing per "Look at proposal/contract for AV3 budget and assign to Paulino" task)
+- **Products/Services**: MHP, Survey Services, Aircraft Rental (via AV3 — replacement partner search ongoing per open task)
 - **Key Dependencies**: 
-  - AV3 aircraft availability (replacement being sourced; contract assignment to Paulino pending per Dan Prendergast open task)
-  - AFAC flight approvals and operator manual/CONOPS documentation (Dan Prendergast open task)
+  - AV3 aircraft availability (replacement being sourced; contract assignment to Paulino pending — Dan Prendergast's open task)
+  - AFAC flight approvals and operator manual/CONOPS documentation
   - CENAPED ground permissions for national park
   - Flight, radio, shipping, and import permissions (high complexity for Chile/Mexico operations)
 - **Admin Notes**: Working with USGS on Jan/Feb timing — see Maciej for updates
-- **Data Quality Note**: Two open tasks remain in Asana (both assigned to Dan Prendergast); task inventory confirms project archival pending Fall 2026 rescheduling. Recommend verifying task priorities and Fall 2026 timeline with Maciej Stachura before assigning work or setting new deadlines.
+- **Data Quality Note**: One open task remains in Asana (assigned to Dan Prendergast); task inventory confirms project consolidation pending Fall 2026 rescheduling. Recommend verifying task priorities and Fall 2026 timeline with Maciej Stachura before assigning work or setting new deadlines.

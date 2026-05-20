@@ -1,51 +1,62 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-05-19 02:21
+Last scanned: 2026-05-20 02:21
 
-Total drives scanned: 1
+Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 7 files — [federal_projects.md](federal_projects.md)
+- **Federal Projects** — 3 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 1 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Shared Drive Strategic Overview
+# Black Swift Technologies — Shared Drive Overview
 
-## Summary Statistics
-- **Total Documents:** 7 files across 1 drive
-- **Organization Quality:** Poor — flat structure with no folder hierarchy
-- **Date Range:** 2022-02-07 to 2099-01-24 (future date suggests data anomaly)
+## Summary
+
+**Total Document Volume:** Minimal (4 files across 2 drives)  
+**Organization Quality:** Poor — lacks folder structure and clear naming conventions
+
+---
 
 ## Key Findings
 
-### Primary Focus
-**Federal Projects drive** is dedicated exclusively to the **NASA AERO Phase I** proposal, representing BST's primary federal opportunity.
+### Drive Inventory
+| Drive | Files | Status |
+|-------|-------|--------|
+| Federal Projects | 3 | Sparse, mixed content |
+| Sales | 1 | Single document |
 
-### Document Organization
+### Content by Drive
 
-| Category | Count | Status |
-|----------|-------|--------|
-| Proposals | 2 | Draft + Final versions present |
-| Financial | 1 | Budget document |
-| Templates | 1 | DAF Agile EW Technical template |
-| Other | 3 | Video assets (incomplete listing) |
+**Federal Projects**
+- Two video files (RC_VID_0008 & 0009) — minimal metadata
+- One proposal draft: "NASA AERO.7 Phase I DRAFT" (2026-05-19)
+- No folder organization
 
-### Critical Observations
+**Sales**
+- Single questionnaire response for CJFC cold weather capability (2026-05-19)
+- No supporting materials or templates visible
 
-**Strengths:**
-- Clear proposal versioning (draft vs. final)
-- Budget documentation exists and is current (modified 2026-05-18)
-- Template asset available for federal submissions
+---
 
-**Areas of Concern:**
-1. **No folder structure** — All 7 files at root level; scaling this drive will become unmanageable
-2. **Incomplete metadata** — Video assets not fully documented in summary
-3. **Limited collaboration visibility** — Only 2 team members identified (Jack Elston, Beck Cotter)
-4. **Single-project focus** — Drive appears specialized to one opportunity; unclear if other federal projects exist elsewhere
+## Areas Requiring Attention
 
-### Recommendations
-- Create subfolders: `/Proposals`, `/Financials`, `/Templates`, `/Assets`
-- Establish naming convention standard (e.g., `YYYY-MM-DD_ProjectName_DocumentType`)
-- Verify 2099 date and implement document archival procedures
-- Document video asset inventory with descriptions
+⚠️ **Critical Concerns:**
+1. **Extremely Limited Documentation** — Only 4 files suggests either minimal shared drive adoption or documents stored elsewhere
+2. **No Folder Structure** — Files exist at root level with no categorization
+3. **Weak Naming Conventions** — Video files lack context; unclear what RC_VID series represents
+4. **Stale/Future-Dated Content** — Several files dated 2026 and 2099 (likely data errors)
+5. **Missing Resources** — No visible templates, standard documents, or shared asset libraries
+6. **Project Tracking Gaps** — No clear client/project organization despite Federal and Sales separation
+
+---
+
+## Recommendations
+
+- Establish consistent folder hierarchies (by client, project, or document type)
+- Implement naming standards (e.g., `[Client]_[DocumentType]_[Date]`)
+- Audit actual document locations (may be stored in personal drives or external systems)
+- Create shared templates for proposals, questionnaires, and contracts
+- Verify and correct date metadata

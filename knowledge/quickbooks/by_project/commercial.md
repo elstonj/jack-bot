@@ -1,11 +1,11 @@
 # Commercial — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $2,956,589.34
+- **Total Invoiced (Revenue):** $2,960,489.34
 - **Total Expenses (Bills + Purchases):** $233,718.16
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,722,871.18 (Revenue exceeds expenses)
-- **Date Range:** April 5, 2024 – May 18, 2026
+- **Net Position:** $2,726,771.18 (Revenue exceeds expenses)
+- **Date Range:** April 5, 2024 – May 20, 2026
 
 ---
 
@@ -15,7 +15,8 @@
 
 | Invoice # | Date | Amount | Customer | Balance |
 |-----------|------|--------|----------|---------|
-| **1765** | **2026-05-18** | **$79,338.00** | **(031-1) University of Maryland Eastern Shore** | **$79,338.00** |
+| **1766** | **2026-05-19** | **$3,900.00** | **Daniel Hesselius** | **$3,900.00** |
+| 1765 | 2026-05-18 | $79,338.00 | (031-1) University of Maryland Eastern Shore | $79,338.00 |
 | 1759 | 2026-05-08 | $664.98 | IRISS, CU Boulder | $664.98 |
 | 1757 | 2026-05-08 | $63,735.00 | [043-3] By Light Halo | $63,735.00 |
 | 1756 | 2026-05-08 | $47,894.00 | [043-3] By Light Halo | $47,894.00 |
@@ -68,21 +69,26 @@
 | 1618 | 2024-04-19 | $13,853.10 | [451] INSTAAR Stable Isotope Lab, CU Boulder | Paid |
 
 ### Revenue Summary
-- **Total Invoiced:** $2,956,589.34
+- **Total Invoiced:** $2,960,489.34
 - **Total Collected (Paid):** $1,075,726.08
-- **Outstanding Balance:** $1,880,863.26
+- **Outstanding Balance:** $1,884,763.26
 
-#### Notable Recent Invoice (May 18, 2026)
-- **Invoice #1765 — University of Maryland Eastern Shore:** $79,338.00 (Outstanding)
-  - $65,000.00 — S3 UAS (4 meter wingspan, VTOL capable, S2 payload compatible, includes battery, hard case, grounds station, tablet + SwiftTab)
-  - $7,338.00 — S3 battery pack
-  - $3,000.00 — Two days training (SwiftCore FMS, emergency procedures, regulatory requirements, simulation + flight training)
-  - $4,000.00 — S3 UAS shipping
+#### Notable Recent Invoices (May 18–19, 2026)
+
+**Invoice #1766 — Daniel Hesselius (May 19, 2026): $3,900.00** ⚠️ NEW
+- $2,900.00 — Standalone computer, wireless keyboard, simulator install
+- $1,000.00 — Used E2 battery
+
+**Invoice #1765 — University of Maryland Eastern Shore (May 18, 2026): $79,338.00**
+- $65,000.00 — S3 UAS (4 meter wingspan, VTOL capable, S2 payload compatible, includes battery, hard case, grounds station, tablet + SwiftTab)
+- $7,338.00 — S3 battery pack
+- $3,000.00 — Two days training (SwiftCore FMS, emergency procedures, regulatory requirements, simulation + flight training)
+- $4,000.00 — S3 UAS shipping
 
 #### Remaining Outstanding Invoices Summary
 - **Five invoices to [043-3] By Light Halo (May 8–13, 2026):** $271,152.00
 - **One invoice from May 8, 2026 (IRISS, CU Boulder):** $664.98
-- **Other outstanding invoices:** $1,529,708.28
+- **Other outstanding invoices:** $1,533,608.28
 
 ---
 
@@ -121,10 +127,4 @@
 **Total: $1,150.31** | 2 transactions | Largest item: $901.63
 
 #### Direct Cost Shipping, Freight & Delivery
-- **Bill #103031641 from Aeronet Worldwide (2026-05-06):** $901.63
-  - $601.09 — Shipping products from Paramount Tube to Northwind Composites for S0 projects
-  - $120.22 — Shipping allocation (S0 projects)
-  - $180.32 — Inventory allocation
-  - **Direct cost allocation:** $721.31
-
-- **Purchase – FedEx Shipment (2026-05
+- **Bill

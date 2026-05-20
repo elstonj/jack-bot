@@ -4,7 +4,7 @@
   "customer": "Embry-Riddle Aeronautical University",
   "customer_contact": "Kevin Adkins",
   "customer_email": "adkinsk@erau.edu",
-  "receive_by": null,
+  "receive_by": "2026-08-31",
   "ship_to": "Kevin Adkins\nEmbry-Riddle Aeronautical University\nAttn: Central Receiving\n1 Aerospace Boulevard\nDaytona Beach, FL 32114-3900\nUnited States",
   "items": [
     {
@@ -24,14 +24,14 @@
       "quantity": 1
     }
   ],
-  "payment_state": "invoice_sent",
+  "payment_state": "paid",
   "build_state": "in_qc",
   "ship_state": "none",
   "estimate_date": null,
   "invoice_date": "2025-05-07",
   "invoice_amount": 21181.81,
   "invoice_number": "1667",
-  "paid_date": null,
+  "paid_date": "2025-05-07",
   "parts": [
     {
       "name": "S0 VTOL airframe",
@@ -49,11 +49,10 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "KEEP override: QBO invoice #1667 (2025-05-07, $21,181.81) exists and is paid in full, plus legal disclosure (2026-05-05) confirms two S0 VTOL units ordered and paid for with delivery delays pending settlement agreement. Asana task marked 'Closed' with $0 values, but QBO invoices and substantive recent email/legal activity (2026-05-05) override stale status. Currently in QC per Slack card (2026-05-18). Invoice 1545 (2023-01-10, $15,028.39) is separate historical transaction; Invoice 1730 (2026-01-08, $2,462.50) balance due.",
+  "notes": "KEEP override: QBO invoice #1667 (2025-05-07, $21,181.81) PAID in full. Active engagement: Kevin Adkins inquiring about delivery timeline for ISARRA Flight Week August/September 2026 (2026-05-19 email). Beck Cotter provided status update on bug resolution and flight testing (2026-03-17). Currently in QC per Slack card (2026-05-18). Additional unpaid invoice #1730 ($2,462.50, balance due 2026-01-08) on same customer account.",
   "missing_fields": [
-    "receive_by",
     "shipped_date",
     "tracking_number"
   ],
-  "last_evidence_date": "2026-05-18"
+  "last_evidence_date": "2026-05-19"
 }

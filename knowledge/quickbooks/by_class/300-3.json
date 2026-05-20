@@ -4,16 +4,13 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-05-18",
-    "end": "2026-05-19"
+    "start": "2026-05-19",
+    "end": "2026-05-20"
   },
   "totals": {
     "revenue": 216000.0,
-    "expenses": 2776.5,
-    "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 2221.2,
-      "Inventory Asset": 555.3
-    }
+    "expenses": 0.0,
+    "by_category": {}
   },
   "invoices": [
     {
@@ -87,36 +84,7 @@
     }
   ],
   "bills": [],
-  "purchases": [
-    {
-      "type": "Purchase",
-      "date": "2026-05-18",
-      "doc_number": "334139",
-      "total": 4164.75,
-      "attributed": 2776.5,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana Request because all orders must be handled directly by the sales rep. Purchase for the three S0 projects: 2026 IDIQ, Sasquatch, 6 future S0 sales\n\nShipped to Lee Skidmore (Northwind) \nOrder placed 3/20 - payment occurs when it is shipped",
-      "lines": [
-        {
-          "amount": 2776.5,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Thermoset Laminate Linen Tubes"
-        },
-        {
-          "amount": 555.3,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": ""
-        },
-        {
-          "amount": 832.95,
-          "account": "Inventory Asset",
-          "description": "For future sales of 6 S0s"
-        }
-      ]
-    }
-  ],
+  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

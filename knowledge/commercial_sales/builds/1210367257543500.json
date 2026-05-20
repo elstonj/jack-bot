@@ -33,7 +33,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "UC Santa Cruz Ocean Sciences actively engaged on S2 and S3 platforms via Kevin Rozmiarek referral. Site visit from Xavier Prochaska, Tim Handley, and Alex Terrazas planned for July 17-18 (not yet confirmed). Robert Wandel inquiry 2026-05-18 about QGroundControl/FMS software compatibility indicates ongoing technical engagement. Estimate in pending phase.",
+  "notes": "UC Santa Cruz Ocean Sciences actively engaged on S2 and S3 platforms via Kevin Rozmiarek referral. Site visit from Xavier Prochaska, Tim Handley, and Alex Terrazas planned for July 17-18 (not yet confirmed). Robert Wandel (rwandel@ucsc.edu) inquiry 2026-05-18 about QGroundControl/FMS software compatibility; Jack Elston provided technical response 2026-05-19 on mavlink support and SwiftTab flight planning software, indicating ongoing substantive technical engagement. Estimate pending; kept due to recent email and Slack activity confirming live interest.",
   "missing_fields": [
     "receive_by",
     "ship_to",
@@ -41,5 +41,5 @@
     "invoice_date",
     "invoice_amount"
   ],
-  "last_evidence_date": "2026-05-18"
+  "last_evidence_date": "2026-05-19"
 }

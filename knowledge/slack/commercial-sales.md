@@ -13,7 +13,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Meredith Needham (shipping, logistics, quote coordination, invoice tracking)
 - Nate (assembly, QC flights, payload prep, GCS builds, quotes)
 - Paige Smith (sales coordination, customer communication)
-- Beck Cotter (customer outreach, email coordination, S0/S0-VTOL ownership coordination)
+- Beck Cotter (customer outreach, email coordination, S0/S0-VTOL ownership coordination, Arctic demo coordination)
 - Ben Busby (team member)
 - Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead)
 - Dan H (CU - external customer, E2 battery interest)
@@ -21,7 +21,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Stefan (Atmofacts - external partner, methane algorithm tuning)
 - Chris (UMES - external customer contact, S3 training/delivery)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: May 18, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: May 19, 2026.
 
 ---
 
@@ -107,5 +107,5 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 
 ### Customer Flight Campaign & Payload Decisions
 
-**Bassil Methane Research Flight Campaign (May 2026)**
-- Customer travel window: May 19 - June 9
+**Bassil Methane Research Flight Campaign (May 2026 - ongoing)**
+- Customer travel window: May

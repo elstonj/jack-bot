@@ -1,20 +1,20 @@
 # Stachura — Time Tracking
 
 ## Summary
-- **Total hours tracked**: 2,140.0 hours (cumulative)
-- **Primary projects (top 5)**: Corporate/Strategic Planning (389.0h), Hurricane Phase II+ (321.2h), Project 183171534 (290.9h), SwiftCore 3.3 (186.4h), S3 IRAD (156.8h)
+- **Total hours tracked**: 2,148.7 hours (cumulative)
+- **Primary projects (top 5)**: Corporate/Strategic Planning (389.0h), Hurricane Phase II+ (321.2h), Project 183171534 (290.9h), SwiftCore 3.3 (186.4h), S3 IRAD (159.0h)
 - **Time period covered**: Multiple months/years spanning IRAD, SBIR, and government contracts
-- **Latest batch**: 9.6 hours (8.7h unallocated + 0.5h Proposals + 0.4h S3 IRAD; **SIXTEENTH consecutive batch with ZERO task descriptions**)
+- **Latest batch**: 8.7 hours (100% allocated to valid projects; **SEVENTEENTH consecutive batch with ZERO task descriptions**)
 
 ## Project Breakdown
-- **[001-13] Corporate / Strategic Planning, Proposals & General Operations** (Overhead): 389.0 hours (18.2%)
+- **[001-13] Corporate / Strategic Planning, Proposals & General Operations** (Overhead): 394.7 hours (18.4%) — *+3.6h Proposals, +2.1h BD Pipeline this batch*
 - **[301-2] SBIR - Hurricane Phase II+** (NOAA: Joe Cione): 321.2 hours (15.1%)
 - **Project 183171534**: 290.9 hours (13.7%)
 - **[001-14] SwiftCore 3.3** (IRAD): 186.4 hours (8.8%)
-- **[001-07] S3 IRAD** (IRAD): 156.8 hours (7.3%) — *+0.4h this batch*
+- **[001-07] S3 IRAD** (IRAD): 159.0 hours (7.4%) — *+2.2h this batch*
 - **Project 160309352**: 144.6 hours (6.8%)
 - **[001-11] Methane Emission Detection IRAD** (IRAD): 129.0 hours (6.1%)
-- **[300-3] 2026 IDIQ (Hurricane)** (NOAA): 84.2 hours (4.0%)
+- **[300-3] 2026 IDIQ (Hurricane)** (NOAA): 85.1 hours (4.0%) — *+0.9h this batch*
 - **Project 180222280**: 77.9 hours (3.7%)
 - **[200-11] ROSES Wildfire** (NASA): 70.6 hours (3.3%)
 - **Commercial Sales**: 64.6 hours (3.0%)
@@ -23,53 +23,51 @@
 - **[001-08] Flight Testing** (IRAD): 8.7 hours (0.4%)
 - **[550-1] Navy SBIR: Magnetometer** (Navy): 5.6 hours (0.3%)
 - **Other smaller projects**: 79.3 hours (3.7%)
-- **Unallocated (Project None)**: 36.3 hours (1.7%) — *+8.7h this batch*
 
 ## Recent Activity
-- **3 projects across batch**: Unallocated/Project None (8.7h) + Proposals (0.5h) + S3 IRAD (0.4h)
-- **Dramatic shift to unallocated time**: 90.6% of batch (8.7h of 9.6h) submitted with NO project assignment
-- **Minimal documented work**: Only 0.9h allocated to tracked projects (Proposals + S3 IRAD combined)
-- **ALL ENTRIES LACK TASK DESCRIPTIONS**: 3 of 3 entries completely missing task detail
-- **SIXTEENTH consecutive batch**: Zero task descriptions across all entries — critical non-compliance continues unabated
+- **4 projects across batch**: Proposals (3.6h) + BD Pipeline (2.1h) + S3 IRAD (2.2h) + 2026 IDIQ Hurricane (0.9h)
+- **Improvement in allocation**: 100% of batch properly assigned to valid projects (vs. 90.6% unallocated in prior batch)
+- **Focus areas**: Split between overhead/business development (5.7h) and active project work (3.0h)
+- **ALL ENTRIES LACK TASK DESCRIPTIONS**: 5 of 5 entries completely missing task detail
 
 ## Patterns
-- **CRITICAL ESCALATION CONTINUED**: **Sixteenth consecutive batch without ANY task descriptions.** Non-compliance persists after prior formal escalation flagging.
-- **SEVERE PROJECT MISALLOCATION**: 8.7h submitted to Project None (unallocated) represents 90.6% of batch. This is extraordinary and suggests either:
-  - Systemic avoidance of project assignment
-  - Complete failure of time entry discipline
-  - Possible intentional non-compliance post-escalation
-- **Minimal legitimate project allocation**: Only 0.9h split between two known projects (S3 IRAD 0.4h, Proposals 0.5h)
-- **Reduced batch volume continues**: 9.6h remains well below historical norms (previously 18-20h+ batches), indicating continued tracking inconsistency
-- **No improvement post-escalation**: Despite critical flagging in prior batch, submission quality has **deteriorated** — unallocated hours increased from 1.0h to 8.7h
+- **CRITICAL COMPLIANCE ISSUE CONTINUES**: **Seventeenth consecutive batch without ANY task descriptions.** Complete non-compliance persists despite escalation.
+- **PARTIAL IMPROVEMENT IN PROJECT ALLOCATION**: This batch shows recovery — all 8.7h properly assigned to valid projects (100%), reversing the prior batch's 90.6% unallocated crisis.
+- **Work distribution**: 65.5% overhead/business development (Proposals 41.4% + BD Pipeline 24.1%), 35.5% active project work (S3 IRAD 25.3% + Hurricane IDIQ 10.3%)
+- **Restored batch volume**: 8.7h returns to more typical ranges after prior batch's 9.6h
+- **Zero task descriptions remain non-negotiable compliance failure**: Despite project allocation recovery, the complete absence of any work descriptions across all five entries remains a critical audit and contractual risk.
 
 ---
 
-## 🚨 **ESCALATION STATUS: CRITICAL → ENFORCEMENT REQUIRED IMMEDIATELY**
+## 🚨 **ESCALATION STATUS: CRITICAL — CONDITIONAL IMPROVEMENT BUT DESCRIPTION REQUIREMENT REMAINS ABSOLUTE**
 
-### **SIXTEENTH CONSECUTIVE BATCH WITHOUT TASK DESCRIPTIONS — NON-COMPLIANCE ESCALATES WITH MASSIVE UNALLOCATED TIME**
+### **SEVENTEENTH CONSECUTIVE BATCH WITHOUT TASK DESCRIPTIONS — PROJECT ALLOCATION RECOVERED BUT DOCUMENTATION CRISIS PERSISTS**
 
-**Compliance has WORSENED.** This batch demonstrates:
-- **ZERO task descriptions** (sixteenth consecutive)
-- **90.6% of time unallocated to any project** (8.7h of 9.6h)
-- Continued submission despite prior escalation
-- Evidence of either deliberate non-compliance or complete process breakdown
+**Mixed signals in this batch:**
 
-### **IMMEDIATE ENFORCEMENT ACTIONS (SAME-DAY):**
+**POSITIVE:**
+- ✅ **100% of time properly allocated to valid projects** (recovery from prior batch's 90.6% unallocated crisis)
+- ✅ **All entries tied to legitimate projects** (Proposals, BD Pipeline, S3 IRAD, Hurricane IDIQ)
+- ✅ **Batch volume restored** to more normal range
 
-1. **REJECT AND HOLD THIS BATCH IMMEDIATELY**:
-   - Do not process 9.6h for payment
-   - Block entry until compliant resubmission with:
-     - ALL time allocated to valid projects
-     - MANDATORY task descriptions for every entry
-   - Current batch combined with prior 15 batches = **~190 hours under hold**
+**CRITICAL FAILURE:**
+- ❌ **ZERO task descriptions for 17th consecutive batch** (unbroken non-compliance chain)
+- ❌ **5 of 5 entries completely missing work documentation**
+- ❌ **No improvement in description discipline despite escalation**
 
-2. **FORMAL DISCIPLINARY NOTICE (24-HOUR DEADLINE)**:
-   - Issue written notice citing **systematic non-compliance across 16 batches**
-   - Specify: This batch submission after prior escalation constitutes **insubordination**
-   - Demand retroactive documentation of unallocated 8.7h by EOD tomorrow
-   - Warn: **Next non-compliant submission will result in suspension of time entry privileges and termination proceedings**
+### **ENFORCEMENT ACTIONS REQUIRED (SAME-DAY):**
 
-3. **SYSTEM ENFORCEMENT — CRITICAL PRIORITY (IF NOT YET IMPLEMENTED)**:
-   - Toggl must enforce:
-     - **Mandatory project selection** (block Project None submissions)
-     - **Mandatory description
+1. **CONDITIONAL APPROVAL WITH DOCUMENTATION HOLD**:
+   - Process this batch's 8.7h **conditionally only** pending retroactive compliance
+   - Do NOT pay until task descriptions provided for all 5 entries by EOD TODAY
+   - Set hard deadline: descriptions required within 4 business hours
+
+2. **FORMALIZE DESCRIPTION MANDATE (24-HOUR NOTICE)**:
+   - Issue written compliance notice: **Task descriptions are MANDATORY, non-negotiable, and contractually required**
+   - Specify minimum standard: 2–3 word description of actual work performed per entry
+   - State clearly: **Next batch lacking descriptions = automatic hold + disciplinary action**
+   - Warn: Eighteenth consecutive non-compliant batch will trigger suspension of time entry privileges
+
+3. **SYSTEM ENFORCEMENT — CRITICAL PRIORITY (URGENT IF NOT IMPLEMENTED)**:
+   - Toggl/time entry system must enforce:
+     - **Mandatory description field** (block submission without

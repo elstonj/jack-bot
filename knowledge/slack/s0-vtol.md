@@ -5,7 +5,7 @@ This channel is primarily used for development and testing of BST's S0 VTOL airc
 
 Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan Domagala, Dan, Ben Busby
 Activity: High activity with 1420+ messages covering approximately 2+ years of development
-Time range: Early development through May 13, 2026 (ongoing project)
+Time range: Early development through May 19, 2026 (ongoing project)
 
 ## Key Decisions
 
@@ -62,29 +62,33 @@ Time range: Early development through May 13, 2026 (ongoing project)
   - Hub board was sending 0s on DShot protocol; logs showed three >3-second gaps from AP starting at 3.5 hours
   - Motors shut down at first gap in packets at approximately 3 hours 25 minutes
   - Hub board still receiving power and outputting previous PWM during all gaps
-  - Autopilot gaps appear to be logging issues (coinciding with missing IMU data), not actual command transmission failures (May 6, 2026)
-  - Pivot command bug identified by Maciej and fixed with updated binary; pivots were receiving commands but at much slower rate than other surfaces (May 6, 2026)
-  - Pivot slow motion caused by gyro drift in attitude estimator after magnetometer failure at ~65 minutes into log; pivots attempting to hold heading (May 6, 2026)
-  - Channel 2 occasional values exceeding 2000µs limit (2001-2005µs) determined to be normal behavior for some surfaces on aircraft, not an error (May 6, 2026)
-  - Magnetometer issues resolved after replacing SD card with fresh card (May 6, 2026)
-  - ESC behavior verified stable: tested ESC with constant throttle (1200µs) and simulated errors over entire input range - no unexpected halts or failures observed (May 6, 2026)
+  - Autopilot gaps appear to be logging issues (coinciding with missing IMU data), not actual command transmission failures
+  - Pivot command bug identified by Maciej and fixed with updated binary; pivots were receiving commands but at much slower rate than other surfaces
+  - Pivot slow motion caused by gyro drift in attitude estimator after magnetometer failure at ~65 minutes into log; pivots attempting to hold heading
+  - Channel 2 occasional values exceeding 2000µs limit (2001-2005µs) determined to be normal behavior for some surfaces on aircraft, not an error
+  - Magnetometer issues resolved after replacing SD card with fresh card
+  - ESC behavior verified stable: tested ESC with constant throttle (1200µs) and simulated errors over entire input range - no unexpected halts or failures observed
 
 **Pivot Servo Issues (May 7, 2026):**
 - Left front pivot stopped moving during test; one previous crash correlated with stuck pivoter
 - Pivot PWM range for left front: min 2080µs, center 1985µs, max 1010µs
-- Sam Hild identified PWM "shift" issue: signal appears corrupted/attenuated rather than changed in value (May 7, 2026)
-- Initial hypothesis: Voltage-related issue, possibly faulty level shift circuit (May 7, 2026)
+- Sam Hild identified PWM "shift" issue: signal appears corrupted/attenuated rather than changed in value
+- Initial hypothesis: Voltage-related issue, possibly faulty level shift circuit
 
 **Parachute/Ejection System (May 13, 2026):**
 - Team considering Peregrine CO2 ejection device (8g/12g option) from Apogee Rockets as parachute deployment mechanism
-- Joshua Fromm indicated team comfort with loading own pyro charges using small amounts of black powder (May 13, 2026)
+- Joshua Fromm indicated team comfort with loading own pyro charges using small amounts of black powder
+
+**Testing Approach Strategy (May 19, 2026):**
+- Sam Hild pursuing dual strategy: both in-flight logging combined with parachute system deployment rather than choosing between them (May 19, 2026)
+- Focus: Continue ground testing while also preparing logging hardware for flight testing
 
 ## Projects & Initiatives
 
 **S0-VTOL Development (Spin-Up Phase - May 2026):**
 - Status: 20/50 required test flights completed for certification
-- Current phase: Intensive ground testing with instrumentation improvements; investigating multiple hardware issues discovered through ground testing
-- Recent issues discovered (May 7, 2026):
+- Current phase: Intensive ground testing with instrumentation improvements; investigating multiple hardware issues; transitioning to combined in-flight logging and parachute system deployment strategy
+- Recent issues discovered and under investigation (May 7-13, 2026):
   - Stuck pivot servo on left front actuator during overnight testing
   - PWM "shift" signal degradation (voltage/level shift circuit suspected)
   - CAN Bus wiring issues: missing termination on hub board, should use twisted pair at 1M bus speed
@@ -93,8 +97,11 @@ Time range: Early development through May 13, 2026 (ongoing project)
   - Corrupted SD card (possibly caused by autopilot resets)
   - Servo power demand analysis needed to diagnose pivot sticking
 - Testing surface firmware noted as non-production code; issues may not apply to production build
-- Focus shifted to power system analysis and level shift circuit debugging
-- **Status Update (May 7-13, 2026):** Multiple cascading hardware and firmware issues identified in recent testing; team investigating whether pivot sticking is power-related or control signal issue; PWM signal integrity problems suggest potential level shift or bus power distribution problems; parachute ejection system selection in progress to support failure risk mitigation strategy
+- **Current Status (May 19, 2026):** Sam Hild making progress on logging setup; reports no new bugs or insights on VTOL itself; ground testing continuing with hardware procurement challenges for logging system peripherals; targeting deployment of both in-flight logging capability and parachute system for next flight testing phase
 
 **S1-20 Aircraft Reference Data:**
-- Reference aircraft completed 213 total flights with 10.5 hours combined flight time over past
+- Reference aircraft completed 213 total flights with 10.5 hours combined flight time
+
+## Action Items & Commitments
+
+- Sam Hild: Setting up in

@@ -119,4 +119,4 @@ This channel serves as the primary technical communication hub for Black Swift T
 
 **Web Controller UI Redesign (April 2026-ongoing):**
 - **Status:** Active development with modular layout system in progress
-- **Current Focus:** Replacing legacy tablet-c
+- **Current Focus:** Replacing legacy tablet-based

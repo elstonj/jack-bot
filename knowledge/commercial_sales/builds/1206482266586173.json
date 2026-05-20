@@ -81,10 +81,10 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "KEPT due to QBO Invoice #1633 (paid 2024-11-04). Primary contact transitioned Dec 30, 2025 from Isaac Anderson to Randy Hobbs. Build includes S2 Simulator, Iridium retrofit to S2 (S20009), 2\u00d7 ground stations, spare tail, and warranty repair work on Isaac's original S2. In-assembly as of May 18, 2026; receive-by date 2026-09-30 per Slack; Iridium parts and paint color selection in progress.",
+  "notes": "KEPT due to QBO Invoice #1633 (paid 2024-11-04). Primary contact transitioned Dec 30, 2025 from Isaac Anderson to Randy Hobbs with Will Wade and Farina Remo. Build includes S2 Simulator, Iridium retrofit to S2 (S20009), 2\u00d7 ground stations, spare tail, and warranty repair work on Isaac's original S2. In-assembly as of May 18, 2026; receive-by date 2026-09-30 per Slack; Iridium parts and paint color selection in progress. PO 80NSSC25PC031.",
   "missing_fields": [
     "ship_to",
     "parts.vendor"
   ],
-  "last_evidence_date": "2026-05-18"
+  "last_evidence_date": "2026-05-19"
 }

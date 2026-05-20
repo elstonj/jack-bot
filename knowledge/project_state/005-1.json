@@ -29,7 +29,7 @@
         "amount": 8375.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-19"
+        "last_updated": "2026-05-20"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 6652.24,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-19T09:01:21Z"
+    "last_reconciled": "2026-05-20T09:00:13Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -128,12 +128,6 @@
       "author": "Maciej",
       "date": "2026-04-20",
       "text": "From Maciej (ts=1776649988.110059): <@U0AQE94HJUT>, we have 4 main technical goals/milestone next week I think:\n1. EMASS flight tests (<@U04CZK4K7P0> , <@U06CCFTNBS6>, and <@U01511MEQ90>)\n2. S0-VTOL restart to find and fix the crash bug (<@U058LGYMEQ0> and <@U014ZL9FLE9>)\n3. S3 work to find the crash bug and flight test on S1-22 and hover test S3 (<@U06NQAYBLRK>, <@U01511MEQ90>, and <@U014U9WMK2A>)\n4. Mustang Progress (<@U06CCFTNBS6> and <@U058LGYMEQ0>)\nThose should all be capture in Asana (I ju"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-04-19",
-      "text": "From Maciej: <@U0AQE94HJUT>, we have 4 main technical goals/milestone next week I think:\n1. EMASS flight tests (<@U04CZK4K7P0> , <@U06CCFTNBS6>, and <@U01511MEQ90>)\n2. S0-VTOL restart to find and fix the crash bug (<@U058LGYMEQ0> and <@U014ZL9FLE9>)\n3. S3 work to find the crash bug and flight test on S1-22 and hover test S3 (<@U06NQAYBLRK>, <@U01511MEQ90>, and <@U014U9WMK2A>)\n4. Mustang Progress (<@U06CCFTNBS6> and <@U058LGYMEQ0>)\nThose should all be capture in Asana (I just added S3 tasks) make"
     },
     {
       "source": "FEEDBACK",
@@ -232,6 +226,6 @@
       "text": "From Daniel Prendergast: <@U0AQE94HJUT> CU IRISS training is complete.  EMASS Validation Flight #2 is postponed indefinitely until they get us a functioning controller."
     }
   ],
-  "last_full_rebuild": "2026-05-19T09:01:21Z",
+  "last_full_rebuild": "2026-05-20T09:00:13Z",
   "last_incremental_update": null
 }
