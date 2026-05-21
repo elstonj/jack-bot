@@ -1,17 +1,30 @@
 {
   "period": {
-    "start": "2026-05-19",
-    "end": "2026-05-20"
+    "start": "2026-05-20",
+    "end": "2026-05-21"
   },
-  "scanned_at": "2026-05-20",
+  "scanned_at": "2026-05-21",
   "projects": [
+    {
+      "project_code": "001-7",
+      "revenue": 0.0,
+      "expenses": 986.3,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 4,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "(001-7) IRAD - S3"
+      ]
+    },
     {
       "project_code": "300-3",
       "revenue": 216000.0,
-      "expenses": 0.0,
+      "expenses": 2183.9,
       "invoice_count": 3,
       "bill_count": 0,
-      "purchase_count": 0,
+      "purchase_count": 2,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -33,16 +46,15 @@
     },
     {
       "project_code": "_unclassified",
-      "revenue": 3900.0,
-      "expenses": 10773.62,
-      "invoice_count": 1,
+      "revenue": 0.0,
+      "expenses": 10822.58,
+      "invoice_count": 0,
       "bill_count": 1,
-      "purchase_count": 0,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "",
-        "Daniel Hesselius"
+        ""
       ]
     }
   ]

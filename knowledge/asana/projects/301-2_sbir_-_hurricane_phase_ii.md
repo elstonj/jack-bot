@@ -114,13 +114,12 @@ Final project phase (Aug-Oct 2024) focused on hurricane field operations and sys
 
 **Navy STTR**
 - **Status**: Submitted with invoice (Meredith Needham, 4/17/26)
-- **Current Priority**: **HIGH** — Jack Elston flagged Navy STTR as priority over SBIR Magnetometer (5/8/26)
+- **Current Priority**: **HIGH** — Jack Elston flagged Navy STTR as priority over SBIR Magnetometer (5/8/26, confirmed 5/11/26)
 
 **SBIR Magnetometer (Navy)**
 - **Status**: Kicked off April 21, 2026 (Maciej, 4/21/26)
+- **Technical Lead**: Designated team member with support from others (Maciej, 4/22/26)
 - **Key Deliverables**: 
   - FWA Certification — Due: April 14, 2026
   - Kick-off Slidedeck (template provided) — Due: April 14, 2026
   - Report templates and instructions: https://navysbir.com/links_forms.htm
-- **Technical Lead**: Designated team member (per Maciej, 4/21/26)
-- **Current Status**: Mostly on schedule (

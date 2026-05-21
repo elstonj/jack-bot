@@ -114,10 +114,10 @@
 - **RFI Link:** https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
 - **Competing Internal Opportunities:** INSTAAR (2 demonstrations) and Ottawa/Murphy's demonstration (Jack Elston, 04/20/26: "the other ones being INSTAAR x2 and this ottawa demo or Murphy's, whatever actually happens first")
 - **Status:** Team to begin AI-assisted RFI response work (Jack Elston or Alex Lomis to lead)
-- **Action Items (04/27/26, Maciej Stachura):** 
+- **Action Items (Maciej Stachura, 04/27/26, authoritative correction):** 
   - Update Asana due dates to realistic numbers after ByLight meeting and communicate to stakeholders
   - Coordinate with team on S0-VTOL workload and resource allocation; assess Dan Prendergast and Ethan Domagala availability for support on time-sensitive S0-VTOL deliverables
-- **Team Status (05/05/26, Ethan Domagala):** ByLight project timeline has been extended due to cancellation of a demo in India. "Yellow version" project clarified and Asana tasks/timelines updated accordingly.
+- **Team Status (Ethan Domagala, 05/05/26, authoritative correction):** ByLight project timeline has been extended due to cancellation of a demo in India. "Yellow version" project clarified and Asana tasks/timelines updated accordingly.
 
 ---
 

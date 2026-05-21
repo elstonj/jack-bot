@@ -4,13 +4,16 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-05-19",
-    "end": "2026-05-20"
+    "start": "2026-05-20",
+    "end": "2026-05-21"
   },
   "totals": {
     "revenue": 216000.0,
-    "expenses": 0.0,
-    "by_category": {}
+    "expenses": 2183.9,
+    "by_category": {
+      "DIRECT COSTS:DC-Direct Material Purchases": 2053.23,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 130.67
+    }
   },
   "invoices": [
     {
@@ -84,7 +87,49 @@
     }
   ],
   "bills": [],
-  "purchases": [],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-05-20",
+      "doc_number": "",
+      "total": 1149.61,
+      "attributed": 1149.61,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Wire Transfer",
+      "lines": [
+        {
+          "amount": 1149.61,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Servos"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-20",
+      "doc_number": "68821",
+      "total": 1183.86,
+      "attributed": 1034.29,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 149.57,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": ""
+        },
+        {
+          "amount": 1034.29,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": ""
+        }
+      ]
+    }
+  ],
   "purchase_orders": [],
   "payments": []
 }

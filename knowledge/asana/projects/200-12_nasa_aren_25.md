@@ -17,13 +17,13 @@ BST participated in the AEROKATS and ROVER Education Network (AREN), a NASA Scie
   - **NASA email:** geoffrey.l.bland@nasa.gov (retired August 2025)
   - **Personal emails:** gbaerokats@gmail.com, geodronez@gmail.com
   - **Current role:** Manages/runs Aeropods project post-retirement from NASA
-  - **Location:** Goddard Space Flight Center, Wallops Flight Facility, Wallops Island, VA 23337
+  - **Location:** Goddard Space Flight Center, Wallops Flight Facility, 34200 Fulton, Wallops Island, VA 23337
 - **Billing POC:** PIEE
 - **Primary Deliverable Product:** Aeropod
 
 ## Task Summary
 - **Total Tasks:** 1 open (administrative contact info), 0 completed
-- **Status:** One unassigned high-priority task tracking Geoffrey Bland contact information (no due date)
+- **Assignee Status:** One unassigned high-priority task tracking Geoffrey Bland contact information (no due date)
 - **Notes:** Contact management task includes multiple email addresses and Geoffrey's transition from NASA to private Aeropods management role
 
 ## Recent Activity

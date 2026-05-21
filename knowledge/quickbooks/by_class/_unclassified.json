@@ -1,50 +1,21 @@
 {
   "project_code": "_unclassified",
   "qbo_class_names": [
-    "",
-    "Daniel Hesselius"
+    ""
   ],
   "period": {
-    "start": "2026-05-19",
-    "end": "2026-05-20"
+    "start": "2026-05-20",
+    "end": "2026-05-21"
   },
   "totals": {
-    "revenue": 3900.0,
-    "expenses": 10773.62,
+    "revenue": 0.0,
+    "expenses": 10822.58,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 10773.62
+      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 10773.62,
+      "Inventory Asset": 48.96
     }
   },
-  "invoices": [
-    {
-      "type": "Invoice",
-      "date": "2026-05-19",
-      "doc_number": "1766",
-      "total": 3900.0,
-      "attributed": 3900.0,
-      "vendor": "",
-      "customer": "Daniel Hesselius",
-      "balance": 3900.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 2900.0,
-          "account": "",
-          "description": "Standalone computer, wireless keyboard, simulator install"
-        },
-        {
-          "amount": 1000.0,
-          "account": "",
-          "description": "Used E2 battery."
-        },
-        {
-          "amount": 3900.0,
-          "account": "",
-          "description": ""
-        }
-      ]
-    }
-  ],
+  "invoices": [],
   "bills": [
     {
       "type": "Bill",
@@ -65,7 +36,26 @@
       ]
     }
   ],
-  "purchases": [],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-06-04",
+      "doc_number": "",
+      "total": 48.96,
+      "attributed": 48.96,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 48.96,
+          "account": "Inventory Asset",
+          "description": "Shipping for 123 Bearing Shipment for future S3 sales"
+        }
+      ]
+    }
+  ],
   "purchase_orders": [],
   "payments": []
 }

@@ -1,62 +1,60 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-05-20 02:21
+Last scanned: 2026-05-21 02:26
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 3 files — [federal_projects.md](federal_projects.md)
+- **Federal Projects** — 9 files — [federal_projects.md](federal_projects.md)
 - **Sales** — 1 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Shared Drive Overview
+# Black Swift Technologies — Shared Drive Strategic Overview
 
-## Summary
+## Document Volume & Organization
 
-**Total Document Volume:** Minimal (4 files across 2 drives)  
-**Organization Quality:** Poor — lacks folder structure and clear naming conventions
+**Total Files:** 10 across 2 drives | **Organization Quality:** Poor
+- Federal Projects: 9 files in flat structure (no subfolders)
+- Sales: 1 file
+- **Critical Issue:** Flat file organization in Federal Projects creates scaling and management problems
 
----
+## Key Clients/Projects
 
-## Key Findings
+| Project | Drive | Document Count | Status |
+|---------|-------|-----------------|--------|
+| NASA AERO.7 Phase I | Federal | 2 | Active (Draft + Final) |
+| DAF Programs (NV003, NV008) | Federal | 2 | Active (Technical Volumes) |
+| UXF Program | Sales | 1 | Active (BoM/PDR stage) |
 
-### Drive Inventory
-| Drive | Files | Status |
-|-------|-------|--------|
-| Federal Projects | 3 | Sparse, mixed content |
-| Sales | 1 | Single document |
+## Cross-Drive Patterns
 
-### Content by Drive
+- **Federal Drive:** Proposal/RFP submissions + technical volumes + financial/rate documentation
+- **Sales Drive:** Limited visibility; single BoM document suggests early-stage opportunity tracking
+- **Notable Gap:** No apparent central proposal templates repository despite Federal Projects containing one DAF template
 
-**Federal Projects**
-- Two video files (RC_VID_0008 & 0009) — minimal metadata
-- One proposal draft: "NASA AERO.7 Phase I DRAFT" (2026-05-19)
-- No folder organization
+## Shared Resources & Templates
 
-**Sales**
-- Single questionnaire response for CJFC cold weather capability (2026-05-19)
-- No supporting materials or templates visible
+- DAF Agile EW Technical Volume Template (Federal Projects)
+  - Single template with limited discoverability in flat structure
+  - No evidence of Sales drive templates
 
----
+## Document Management Observations
+
+**Naming Conventions:**
+- Federal: Inconsistent (mix of descriptive + formal RFP numbers: `NASA AERO.7 Phase I DRAFT` vs. `BlackSwift AERO.7.S26B-0167.Phase I.pdf`)
+- Sales: Minimal data; less clear pattern
+
+**Organization:**
+- Lacks logical folder hierarchy (e.g., by client, fiscal year, proposal stage)
+- Financial documents mixed with technical submissions at root level
+- Editor attribution present but version control unclear (draft vs. final coexist)
 
 ## Areas Requiring Attention
 
-⚠️ **Critical Concerns:**
-1. **Extremely Limited Documentation** — Only 4 files suggests either minimal shared drive adoption or documents stored elsewhere
-2. **No Folder Structure** — Files exist at root level with no categorization
-3. **Weak Naming Conventions** — Video files lack context; unclear what RC_VID series represents
-4. **Stale/Future-Dated Content** — Several files dated 2026 and 2099 (likely data errors)
-5. **Missing Resources** — No visible templates, standard documents, or shared asset libraries
-6. **Project Tracking Gaps** — No clear client/project organization despite Federal and Sales separation
-
----
-
-## Recommendations
-
-- Establish consistent folder hierarchies (by client, project, or document type)
-- Implement naming standards (e.g., `[Client]_[DocumentType]_[Date]`)
-- Audit actual document locations (may be stored in personal drives or external systems)
-- Create shared templates for proposals, questionnaires, and contracts
-- Verify and correct date metadata
+1. **Urgent:** Reorganize Federal Projects with subfolders (by client, proposal stage, fiscal year)
+2. **Template Discoverability:** Centralize and label templates clearly; make accessible across drives
+3. **Sales Drive Expansion:** Minimal documentation; may indicate tracking gaps or underdeveloped pipeline visibility
+4. **Stale Data Risk:** File modified 2099 appears to be metadata anomaly; audit recent actual activity
+5. **Version Control:** DRAFT vs. final proposals stored together without clear versioning; implement naming protocol

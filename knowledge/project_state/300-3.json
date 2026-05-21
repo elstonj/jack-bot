@@ -12,12 +12,12 @@
     "contacts": []
   },
   "contract": {
-    "type": "fixed_price",
+    "type": "unknown",
     "number": "1305M226D0012",
     "total_value": 483000.0,
     "start_date": "2026-02-01",
     "end_date": "2031-01-31",
-    "payment_cadence": "By ordering period (annual); NRE labor billed at task order level with specified hourly rates",
+    "payment_cadence": null,
     "documents": [
       "drive://Budget Structure",
       "drive://(1305M226D0012) Attachment 1-Specifications_Black Swift.pdf",
@@ -25,31 +25,67 @@
     ]
   },
   "budget": {
-    "approved": 13281250.0,
-    "approved_source": "sow_drive",
+    "approved": 483000.0,
+    "approved_source": "asana_custom_field",
     "line_items": [
       {
         "category": "Equipment",
-        "amount": 10981250.0,
-        "description": "Black Swift S0 sUAS Platforms: 150 EA @ $18,000 (Period 1), 150 EA @ $18,630 (Period 2), 125 EA @ $19,282 (Period 3), 125 EA @ $19,957 (Period 4), 125 EA @ $20,655 (Period 5)",
+        "amount": 2700000.0,
+        "description": "Black Swift S0 sUAS Platforms (150 EA @ $18,000.00) - Ordering Period One",
+        "source_doc": null
+      },
+      {
+        "category": "Equipment",
+        "amount": 2794500.0,
+        "description": "Black Swift S0 sUAS Platforms (150 EA @ $18,630.00) - Ordering Period Two",
+        "source_doc": null
+      },
+      {
+        "category": "Equipment",
+        "amount": 2410250.0,
+        "description": "Black Swift S0 sUAS Platforms (125 EA @ $19,282.00) - Ordering Period Three",
+        "source_doc": null
+      },
+      {
+        "category": "Equipment",
+        "amount": 2494625.0,
+        "description": "Black Swift S0 sUAS Platforms (125 EA @ $19,957.00) - Ordering Period Four",
+        "source_doc": null
+      },
+      {
+        "category": "Equipment",
+        "amount": 2581875.0,
+        "description": "Black Swift S0 sUAS Platforms (125 EA @ $20,655.00) - Ordering Period Five",
         "source_doc": null
       },
       {
         "category": "Labor",
-        "amount": 858100.0,
-        "description": "Mission Days Operational support (30 days @ $2,850 per period), Operational and Testing Support (6 sessions @ $6,000 per period), Operator and Observer Training (1 session @ $6,000 per period), Instructor Training (1 session @ $600 per period), Course Development (Operator/Observer and Instructor courses @ $6,000 each per period)",
+        "amount": 425500.0,
+        "description": "Mission Days Operational Support (30 EA @ $2,850.00 × 5 periods = $427,500) and Operational and Testing Support (6 EA @ $6,000.00 × 5 periods = $180,000)",
+        "source_doc": null
+      },
+      {
+        "category": "Labor",
+        "amount": 36000.0,
+        "description": "Training Sessions (Operator/Observer and Instructor courses, 1 EA each @ $6,000 and $600 × 5 periods)",
         "source_doc": null
       },
       {
         "category": "Travel",
         "amount": 250000.0,
-        "description": "Travel for Operational Support (Not-to-Exceed $50,000 per ordering period × 5 periods)",
+        "description": "Travel for Operational Support NTE (1 LO NTE $50,000.00 × 5 periods)",
+        "source_doc": null
+      },
+      {
+        "category": "Other",
+        "amount": 60000.0,
+        "description": "Course Development (Operator/Observer and Instructor courses, 1 EA each @ $6,000.00 × 5 periods)",
         "source_doc": null
       },
       {
         "category": "Other",
         "amount": 990000.0,
-        "description": "Non-Recurring Engineering: Technical Documentation (NTE $66,000 per period), Modeling (NTE $66,000 per period), NHC operational workflow integration (NTE $66,000 per period) × 5 periods",
+        "description": "Non-recurring Engineering - Technical Documentation, Modeling, NHC workflow (3 CLINs × NTE $66,000.00 × 5 periods)",
         "source_doc": null
       }
     ],
@@ -58,27 +94,27 @@
         "amount": 91226.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-20"
+        "last_updated": "2026-05-21"
       },
       "purchases": {
         "amount": 902.06,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-05-20"
+        "last_updated": "2026-05-21"
       },
       "other_qbo": {
-        "amount": 0.0,
+        "amount": 2183.9,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-05-20"
+        "last_updated": "2026-05-21"
       },
-      "total": 92128.31,
+      "total": 94312.21,
       "by_line_item": {}
     },
     "committed": 68.7,
-    "remaining": 13189052.99,
+    "remaining": 388619.09,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-20T09:01:25Z"
+    "last_reconciled": "2026-05-21T09:10:39Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -121,32 +157,7 @@
     }
   ],
   "risks": [],
-  "overrides": [
-    {
-      "source": "FEEDBACK",
-      "author": "Alex Lomis",
-      "date": "2026-04-20",
-      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Alex Lomis",
-      "date": "2026-04-20",
-      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Alex Lomis",
-      "date": "2026-04-20",
-      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Alex Lomis",
-      "date": "2026-04-20",
-      "text": "From Alex Lomis (ts=1776182093.487099): NASA RFI link that the NASA folks and Joe recommended we look into on the hurricane ET call \n\n<https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view|https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view>"
-    }
-  ],
-  "last_full_rebuild": "2026-05-20T09:01:25Z",
+  "overrides": [],
+  "last_full_rebuild": "2026-05-21T09:10:39Z",
   "last_incremental_update": null
 }

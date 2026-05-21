@@ -17,6 +17,7 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Outside Door Lock Issue** (May 1, 2026): Outside door lock malfunctioning (warps when hot); inside door should be locked as backup when leaving. Joshua Fromm provided fix: push down on mechanism.
 - **Daycare in Loft** (May 5, 2026): BVSD and DPS school closures due to snow; Jack Elston arranged daycare in the loft with Claire present for employees with children.
 - **Beth's Budget Request** (May 12, 2026): External stakeholder (Beth) requesting deliverables by Thursday; Beck Cotter assigned to work up budget pending specific equipment needs and personnel details from Jack Elston.
+- **Industrial Plan Finalized** (May 20, 2026): Jack Elston shared draft of industrial plan providing guidance on how BST will use the seed-round investment; document distributed to team for review.
 
 ### Funding & Awards
 - **NASA Phase I Award** (May 26, 2021): Contract awarded for S2 all-weather capable platform development with solar integration and VTOL S2 for remote autonomous landing
@@ -26,6 +27,7 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **WPO Funding Approved** (May 27, 2021): Two NOAA efforts funded: soil moisture maps near Crested Butte and Area-I payload/tube-deployed S0 support
 - **BizWest Mercury 100** (Apr 26, 2021): Named one of 2021 fastest-growing companies in Boulder Valley
 - **Albatross Competition** (Mar 3, 2025): BST not selected; Mississippi State team selected
+- **Seed-Round Investment Secured** (Dec 2024 - May 2026): Jack Elston successfully raised seed-round funding; investor meeting conducted in Paris (Dec 16-22, 2024); industrial plan now in draft form detailing use of investment capital
 - **T-Mobile Direct-to-Cell S0 Integration Project** (May 14, 2026): High-priority opportunity being pushed to T-Mobile leadership; potential funding for 20 S0 aircraft purchases + R&D funding to integrate T-Mobile's high bandwidth direct-to-cell system with S0 for live HD video transmission from storms in 2027 season. Jack Elston coordinated NOAA outreach to T-Mobile to propose using S0 as flagship demonstration of T-Mobile's new direct-to-cell capability.
 
 ### Technical Decisions
@@ -56,5 +58,4 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - RID (Remote ID) integration being tested on aircraft; CAN bus issue encountered (Feb 27, 2025)
 - Hover and battery testing planned
 - Transition simulator development underway
-- **S0-AD Variant**: DoD customer development track (SOCOM and 53rd Weather Squadron) starting April 2026; mission requirements under definition; interests include real-time tactical weather observation, weather prediction, EO/IR, and SIGINT capabilities; aircraft preparation for display at customer engagement scheduled for May 1, 2026
-- **S0 with T-Mobile Direct-to-Cell**: Being positioned as flagship system for demonstrating T-Mobile's high bandwidth direct-to-cell capability for live HD storm video transmission; potential 20 aircraft order if project moves forward with T-Mobile
+- **S0-AD Variant**: DoD customer development track (SOCOM and 53rd

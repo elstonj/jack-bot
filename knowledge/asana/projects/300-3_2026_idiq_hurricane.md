@@ -13,16 +13,16 @@
   - Invoice schedule: March 2026 – July 2026
   - **Critical hardware ship date:** May 27, 2026 (SHOW units)
   - **Final delivery deadline:** June 30, 2026 (all 20 units packed)
-- **Status:** **ACTIVE — CRITICAL PHASE RECENTLY COMPLETED.** Hardware builds appear substantially finished. Asana task list shows 0 open tasks and 2 completed (tripods & s0 builds both completed 5/19/26 ahead of May 27 ship date). 4 of 6 invoices completed; next invoice due 6/5/26.
+- **Status:** **ACTIVE — CRITICAL PHASE RECENTLY COMPLETED.** Hardware builds substantially finished. **⚠️ NOTE: 1 OPEN TASK DETECTED IN NEW DATA** — "Build 5 power switches with short pcb" assigned to Nate Straus, due 2026-05-21. This task was NOT in the previous knowledge file and may indicate upcoming/ongoing work. 4 of 6 invoices completed; next invoice due 6/5/26.
 - **Team Members:** 
   - Meredith O'hara Needham (project owner, invoice submissions)
   - Jack Elston (firmware/software development) — firmware fix completed 5/8 (7 days late)
   - Sam Hild (QC, hardware validation, kit assembly)
-  - Nate Straus (platform rebuild/validation, s0 builds, servo assembly, linkage construction)
+  - Nate Straus (platform rebuild/validation, s0 builds, servo assembly, linkage construction, **power switch builds**)
   - Maciej Stachura (platform validation/testing, magnetic calibration)
   - Alex Lomis (strategic partnerships, NASA opportunities)
   - Josh Fromm (GCS assembly, long-lead parts procurement)
-- **Risk Signals:** ✅ **CRITICAL HARDWARE MILESTONES NOW COMPLETE.** Both tripod and s0 builds shipped 3 days early (5/19 vs 5/22 due). No open tasks in Asana. Firmware fix was 7 days late but did not block downstream work.
+- **Risk Signals:** ⚠️ **OPEN TASK: "Build 5 power switches with short pcb" due 2026-05-21 (Nate Straus).** This is a near-term task that may be on the critical path for final unit assembly. No completion data yet. Hardware shipping milestones (tripods, s0 builds) completed ahead of schedule on 5/19/26.
 
 ## Key Deliverables & Milestones
 
@@ -42,7 +42,7 @@
 | **Ground Stations DO** | **$16,000** | **2026-05-12** | ✅ **Approved 5/12/26** |
 | **TOTAL** | **$499,000** | | |
 
-**Hardware Development Milestones — RECENTLY COMPLETED:**
+**Hardware Development Milestones:**
 
 | Task | Owner | Due Date | Status | Notes |
 |------|-------|----------|--------|-------|
@@ -50,16 +50,18 @@
 | **Rebuild BST s0 (platform rebuild)** | Nate Straus | 2026-05-15 | ✅ COMPLETED 2026-05-14 (1 day early) | Critical progress on schedule. |
 | **Build 2 SHOW s0's using 2026 parts** | Nate Straus | 2026-07-17 (Asana) | ✅ **COMPLETED 2026-05-19 (59 DAYS EARLY)** | **Shipped ahead of critical May 27 deadline.** |
 | **Build 2 SHOW tripods** | Nate Straus | 2026-05-22 | ✅ **COMPLETED 2026-05-19 (3 DAYS EARLY)** | **Shipped with s0 units ahead of schedule.** |
+| **Build 5 power switches with short pcb** | Nate Straus | 2026-05-21 | ⏳ OPEN | New task detected in raw data; no completion data yet. Assess status with team. |
 
 ## Task Summary
 
-**Open Tasks in Asana: 0**
+**Open Tasks in Asana: 1**
+- ⏳ Build 5 power switches with short pcb | Nate Straus | Due 2026-05-21 | Status: **OPEN**
 
 **Completed Tasks: 2**
 - ✅ Build 2 SHOW s0's using 2026 parts | Nate Straus | Due 2026-07-17 | Completed 2026-05-19
 - ✅ Build 2 SHOW tripods to ship with SHOW s0 2026's | Nate Straus | Due 2026-05-22 | Completed 2026-05-19
 
-**Notable Pattern:** Hardware assembly pipeline completed significantly ahead of schedule. Both critical builds completed together on 5/19/26, well before May 27 ship gate. Nate Straus drove early completion.
+**Notable Pattern:** Hardware assembly pipeline completed significantly ahead of schedule through mid-May. Single open task (power switches, due 5/21) assigned to Nate Straus appears to be part of ongoing unit assembly. No other open tasks visible.
 
 ## Recent Activity
 
@@ -67,13 +69,10 @@
 - **2026-05-08:** Firmware fix (RH/Vaisala) completed, 7 days behind original due date but did not block hardware builds.
 - **2026-05-14:** Platform rebuild (s0) completed 1 day early, enabling downstream unit assembly.
 - **2026-05-04:** Invoice 3 of 6 ($54k) submitted ahead of schedule (3 days early).
+- **⏳ CURRENT:** Open task "Build 5 power switches with short pcb" due 2026-05-21 (Nate Straus) — **status unknown; confirm completion with team.**
 
 ## Notes & Context
 
-**Project Status:** In strong execution. No open tasks in Asana; all visible critical hardware milestones completed ahead of schedule by Nate Straus. The 2 completed tasks (tripods and s0 builds) both shipped 5/19, supporting the May 27 critical hardware shipment deadline for NOAA.
+**Project Status:** In strong execution with recent critical completion. Previous knowledge noted s0 and tripod builds complete (5/19/26); new raw data confirms 1 open task for power switch assembly due 2026-05-21. Given that prior tasks shipped ahead of schedule and this task is assigned to Nate Straus (who has demonstrated early delivery), likelihood of on-time or early completion is high, but status should be confirmed.
 
-**Invoice Trajectory:** On track. 4 of 6 invoices completed ($162k + $18k travel = $180k submitted). Next invoice (4 of 6, $72k) due 2026-06-05.
-
-**External Tracking Note:** Prior knowledge file flagged that major hardware milestones (QC, power switches, GCS assembly, long-lead parts) appeared to be externally tracked or in progress but not visible in Asana. Raw data now confirms core s0 and tripod builds are **complete**. Recommend confirming status of remaining assembly tasks (GCS units, final unit packing, QC sign-off) with Sam Hild and Josh Fromm during next standup.
-
-**Contract Continuity:** NOAA partnership spans 8+ years (SBIR Phase I 2018, Phase II 2019–2020, now IDIQ build-out). Strong relationship foundation.
+**Invoice Trajectory:** On track. 4 of 6 invoices completed ($162k + $18k travel = $180k submitted). Next invoice (4 

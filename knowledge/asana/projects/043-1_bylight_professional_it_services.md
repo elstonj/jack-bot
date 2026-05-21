@@ -17,6 +17,7 @@ This is a **standing task order agreement**, not a fixed-scope project. ByLight 
 - Verify labor rates with ByLight before invoicing (see [project folder](https://drive.google.com/drive/folders/1FN-zIGEdz79Y3fWZpBZ-I-B7xMnZGa3g?usp=drive_link))
 - Larger or longer-duration work will be formalized as separate subcontracts
 - **[2026-05-05] Timeline extension (Ethan):** ByLight project timeline has been extended due to cancellation of a demo in India. "Yellow version" project has been clarified; Asana tasks and timelines updated accordingly.
+- **[2026-04-27] Action pending (Maciej):** Update Asana due dates to realistic numbers post-ByLight meeting and communicate revised timeline to client (Bryan Sparling). Status of this action unclear as of 2026-05-05.
 
 ## Task Summary
 - **Total tasks:** 0 open, 0 completed
@@ -31,5 +32,5 @@ This is a **standing task order agreement**, not a fixed-scope project. ByLight 
 
 ## Risk Signals & Notes
 - Project archived with no active work in Asana; awaiting ByLight task order submissions
-- **Action required:** Confirm Ethan's timeline extension updates and "yellow version" clarifications are reflected in Asana and communicated to ByLight (Bryan Sparling)
-- **Action required (ongoing):** Maciej's request to update Asana due dates to realistic numbers and notify client of revised timeline — status unclear as of 2026-05-05
+- **Action required (2026-04-27):** Maciej requested Asana due dates be updated to realistic numbers and client notified of revised timeline—confirm completion and that Bryan Sparling has been informed
+- **Action required:** Confirm Ethan's [2026-05-05] timeline extension and "yellow version" clarifications have been communicated to ByLight contact

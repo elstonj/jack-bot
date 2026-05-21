@@ -29,7 +29,7 @@
         "amount": 14946.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-20"
+        "last_updated": "2026-05-21"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 55934.65,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-20T09:00:36Z"
+    "last_reconciled": "2026-05-21T09:09:56Z"
   },
   "milestones": [
     {
@@ -84,20 +84,7 @@
     }
   ],
   "risks": [],
-  "overrides": [
-    {
-      "source": "FEEDBACK",
-      "author": "Jack",
-      "date": "2026-04-20",
-      "text": "From Jack (ts=1776706532.444769): (the other ones being INSTAAR x2 and this ottawa demo or Murphy's, whatever actually happens first)"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Jack",
-      "date": "2026-04-20",
-      "text": "From Jack: (the other ones being INSTAAR x2 and this ottawa demo or Murphy's, whatever actually happens first)"
-    }
-  ],
-  "last_full_rebuild": "2026-05-20T09:00:36Z",
+  "overrides": [],
+  "last_full_rebuild": "2026-05-21T09:09:56Z",
   "last_incremental_update": null
 }

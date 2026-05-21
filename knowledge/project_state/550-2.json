@@ -4,8 +4,8 @@
   "category": "contract",
   "asana_gid": "1210403425703911",
   "name": "Navy STTR: Hazardous Weather",
-  "status": "delayed",
-  "status_notes": "FEEDBACK 2026-04-20: From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the da",
+  "status": "active",
+  "status_notes": null,
   "customer": {
     "name": "Dept. of the Navy",
     "type": "government",
@@ -33,7 +33,7 @@
         "amount": 25830.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-20"
+        "last_updated": "2026-05-21"
       },
       "purchases": {
         "amount": 0.0,
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": -2179.0,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-20T09:02:45Z"
+    "last_reconciled": "2026-05-21T09:11:53Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -76,24 +76,6 @@
     {
       "source": "FEEDBACK",
       "author": "Maciej",
-      "date": "2026-04-20",
-      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-04-20",
-      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-04-20",
-      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
       "date": "2026-04-22",
       "text": "From Maciej (ts=1776825957.633159): <@U0AQE94HJUT> the Navy SBIR Magnetometer project has kicked off as of today. Make sure to track those tasks as part of the daily updates. <@U058LGYMEQ0> is the technical lead on this project with support from the others mentioned in Asana"
     },
@@ -102,12 +84,6 @@
       "author": "Maciej",
       "date": "2026-04-21",
       "text": "From Maciej: <@U0AQE94HJUT> the Navy SBIR Magnetometer project has kicked off as of today. Make sure to track those tasks as part of the daily updates. <@U058LGYMEQ0> is the technical lead on this project with support from the others mentioned in Asana"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-04-20",
-      "text": "From Maciej (ts=1776435896.964109): <@U0AQE94HJUT> Mexico is moved to the Fall, so no flight planning happening soon. Tasks for the Navy project is done, but you can remind me of the meeting on the day of"
     },
     {
       "source": "FEEDBACK",
@@ -152,6 +128,6 @@
       "text": "From Maciej: <@U0AQE94HJUT>, the Navy SBIR is mostly caught up, I just updated Asana. Also, I'm updating tasks for the Navy STTR which will be a higher priority this month, so make sure to mention that tomorrow"
     }
   ],
-  "last_full_rebuild": "2026-05-20T09:02:45Z",
+  "last_full_rebuild": "2026-05-21T09:11:53Z",
   "last_incremental_update": null
 }

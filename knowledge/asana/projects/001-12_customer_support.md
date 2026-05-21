@@ -11,7 +11,7 @@
   - **Design task scope for S3 partially undefined** — Battery, case, and other components needed by end of May; Josh Fromm to confirm full scope
   - **Build phase tasks missing from Asana** — Maciej requesting major tasks be captured for visibility and coordination; build phase owner not yet confirmed
   - **CU-IRISS S2 training flight coordination pending** — S2 repair completed; training flight scheduling and NSF MUSAS certification update now active next steps
-  - **Task list collapsed in Asana** — Only 0 open tasks visible despite multi-phase active project; suggests tasks may have been archived or consolidated without full handoff documentation
+  - **Task list collapsed in Asana** — 0 open, 0 completed tasks visible despite multi-phase active project; suggests tasks may have been archived or consolidated without full handoff documentation
 
 ## Key Deliverables & Milestones
 - **CU-IRISS S2 repair/update** — **COMPLETED 2026-05-13** — Nate Straus; S2 returned to shop and repair finished
@@ -21,19 +21,15 @@
   - Build phase: Requires task capture in Asana for visibility and coordination (owner to be confirmed)
 
 ## Task Summary
-- **Total tasks in Asana:** 0 open, 1 completed
-- **Current assignees:**
-  - Nate Straus: 1 completed task
-    - [COMPLETED 2026-05-13] CU IRISS (S2 and training) — S2 repair completed; training flight scheduling and NSF MUSAS certification update now pending
+- **Total tasks in Asana:** 0 open, 0 completed
+- **Current assignees:** None visible in Asana task list
 - **Notable patterns:**
-  - Task count remains minimal (0 open, 1 completed) despite active multi-phase, multi-client operations
+  - Task count is zero despite active multi-phase, multi-client operations
   - **Missing from Asana (per Maciej Stachura, 2026-04-24 & 2026-04-30 — authoritative):**
     - S3 design tasks (battery, case, other components) — likely Josh Fromm; due by end of May 2026
     - S3 build phase major tasks — owner to be confirmed; scope and timeline to be defined
 
 ## Recent Activity
-**[2026-05-13]** CU-IRISS S2 repair completed (task marked done). S2 ready; training flight scheduling now active next step.
-
 **[2026-04-24 & 2026-04-30] Maciej Stachura (authoritative feedback — overrides Asana task list):** S3 first customer build accelerating with immediate due dates set. Specific requests:
 1. **Josh Fromm:** Add design tasks for S3 first customer build by end of May (battery, case, etc.; full scope confirmation needed)
 2. **Build phase owner (TBD):** Capture major S3 build tasks in Asana for visibility and coordination with design phase

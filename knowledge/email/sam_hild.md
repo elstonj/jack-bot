@@ -1,107 +1,126 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 71 emails across four data pulls
-- **Date range:** 16–20 May 2026
-- **Volume pattern:** Heavily skewed toward vendor/transactional emails (55+ routed via purchasing alias). Approximately 1–2 direct work emails visible; peak activity on 18–19 May (bulk order processing period)
+- **Total messages scanned:** 107 emails across five data pulls
+- **Date range:** 16–21 May 2026
+- **Volume pattern:** Heavily transactional (80+ routed via purchasing alias). Approximately 2–3 direct work emails visible. Peak activity 19–20 May (bulk order processing). Volume remains steady 20–21 May with continued vendor confirmations and shipment notifications.
 
 ## Key Correspondents
 
 ### Senders (by frequency)
-1. **Purchasing team alias route** (50+ emails) — All forwarded through `purchasing@blackswifttech.com`
-   - **Electronics suppliers:** DigiKey (5, including delay notification), Mouser (2), McMaster-Carr (2), Amazon (5+), RS (1), STMicroelectronics (1), Adafruit Industries (1), Battery Junction (3)
-   - **Hobby/RC aviation:** AMain Hobbies (4), HeliDirect (2), Hobbyking (1)
-   - **Automotive/tools:** Speedway Motors (1), Harbor Freight (3)
-   - **Logistics/shipping:** USPS Informed Delivery (2), UPS (1), DHL (1), Worldwide Express (1)
-   - **Industrial/manufacturing:** Protospace Mfg USA (1), CAPS Aviation (1), Neat N Tidy (2), Craftcloud (1)
-   - **Business services:** QuickBooks Payments (1), Comcast Business (1), Dell Technologies (1), SAP (1), Veeam Team (1)
-   - **Other:** ELEGOO US (1), Spindrift (1), Budget (car rental) (1), SkyGeek (1), Strong Hold (1), Baofeng Radio (1)
 
-2. **External direct senders** (7 emails)
-   - **Frank Strazzabosco** `microfirm@earthlink.net` (3 emails) — **Power Distribution Parts** discussion; forwarded to Jack Elston and Thinh Nguyen
-   - **Briana Gonzalez** `briana@jawstec.com` (1) — **Possible order delay** (19 May 21:23)
-   - **Jack Elston** `elstonj@blackswifttech.com` (1, IMPORTANT) — Reply to Frank Strazzabosco re: LTC2959IDDB# quotation; addresses `microfirm@earthlink.net` directly
-   - **Toggl Track** `support@track.toggl.com` (1) — Time tracking software
-   - **OmniSync** `no-reply@omnisync.io` (1) — SBIR opportunity matching
-   - **STMicroelectronics** `st@information.st.com` (1) — Correction notification
-   - **Veeam Team** `veeam_team@veeam.com` (1) — V13.1 webinar promotion (direct to sam.hild@blackswifttech.com, not purchasing alias)
+**Purchasing team alias route** (85+ emails)
 
-3. **Internal BST colleagues identified** (3 emails)
-   - **Jack Elston** `elstonj@blackswifttech.com` (2) — Copied on Frank Strazzabosco quotation; also sent IMPORTANT reply directly to Frank on 19 May 08:20
-   - **Beck Cotter** `beck.cotter@blackswifttech.com` (1) — Newsletter forward
-   - **Nate Straus** — Receives Adafruit Industries order confirmation (purchasing role)
-   - **Joshua Fromm** — Receives SkyGeek check-in email (purchasing role)
-   - **Meredith Needham** — Receives HeliDirect and Baofeng emails (purchasing team member)
+#### Electronics & Components Suppliers
+- **Pasternack** (4 new) — Web Order #393639, delivery notification, shipment tracking — **emerging as active vendor**
+- **DigiKey** (5 previous)
+- **Mouser** (2 previous)
+- **McMaster-Carr** (3 total) — May 20 order confirmation added
+- **Adafruit Industries** (1 confirmed) — Order 3684526 shipped 20 May
+- **Battery Junction** (4 total) — Promotional; continued activity post-19 May
+- **Infinite Electronics** (2 new) — Invoice IESIN1018536, PO #05/20/26, Sales Order WL5294244
+- **Master Electronics** (1 new) — Generic promotional
+- **RS** (1 previous + 1 new feedback request)
+- **L-com** (2 new) — Routed to Jack Elston and Joshua Fromm (password recovery suggests account setup)
 
-### Purchasing Team Roster Visible
-- **Alex/Alexis Lomis** — AMain Hobbies, ELEGOO recipient
-- **Nate Straus** — Adafruit Industries recipient
-- **Joshua Fromm** — SkyGeek recipient
-- **Meredith Needham** — HeliDirect, Baofeng recipient
-- Generic **PURCHASING@blackswifttech.com** — Bulk recipient for most vendor confirmations
+#### Manufacturing & Fabrication Services (Expanding Category)
+- **SendCutSend** (3 new) — Order S424H298 tracking, quote creation, order confirmation — **new active vendor, metal cutting service**
+- **Craftcloud** (1 previous)
+- **Protospace Mfg USA** (1 previous)
+
+#### Hobby/RC & FPV Equipment
+- **CADDXFPV** (1 new) — Spring Into Summer promotional — **FPV drone equipment**
+- **AMain Hobbies** (4 previous)
+- **HeliDirect** (1 continued) — Accessories promotional to Meredith Needham
+- **Hobbyking** (1 previous)
+
+#### Aerospace/Aviation
+- **SkyGeek** (1 previous)
+- **CAPS Aviation** (1 previous)
+- **Jawstec** (2 total) — Order #68821 received confirmation 20 May; Briana Gonzalez contact from previous pull
+
+#### Food & Beverage Services (New Category)
+- **Spindrift Market** (2 new) — Orders SH62370239, SH62368411 shipped — **grocery/food delivery service**
+- **Spindrift** (1 new, direct) — Subscription order delays to Meredith Needham
+- **ezCater** (1 new) — Routed to Jack Elston, catering service
+
+#### Logistics & Shipping
+- **FedEx** (1 new) — Billing Online invoice ready (BillingOnline via Purchasing)
+- **UPS** (2 total) — "Your Packages Arrive Tomorrow" 20 May
+- **USPS** (2 previous)
+- **DHL** (1 previous)
+- **Worldwide Express** (1 new) — 3PL awards promotional
+
+#### Automotive/Tools
+- **Speedway Motors** (2 total) — New promotional "Al Knoch Interiors" 20 May
+- **Harbor Freight** (2 total) — Plumbing essentials promotional 20 May
+
+#### Business & IT Services
+- **Veeam Team** (1 previous)
+- **Toggl Track** (2 total) — Direct to sam.hild; no subject line 20 May (unusual)
+- **Comcast Business** (1 previous)
+- **Dell Technologies** (1 previous)
+- **SAP** (1 previous)
+
+#### Other
+- **Amazon.com** (6+ total) — Shipped "Amazon Basics Sheet", promotional credit 21 May
+- **ELEGOO US** (2 total) — Flash sale to Alexis Lomis 20 May
+- **STMicroelectronics** (1 previous)
+- **Baofeng Radio** (1 previous)
+
+### External Direct Senders
+- **Frank Strazzabosco** `microfirm@earthlink.net` (3 previous) — Power distribution parts
+- **Briana Gonzalez** `briana@jawstec.com` (1 previous) — Order delay notification
+- **Jack Elston** `elstonj@blackswifttech.com` (1 previous, IMPORTANT)
+- **Asana** `no-reply@asana.com` (1 new) — Unread notifications 20 May (direct to sam.hild@blackswifttech.com)
+- **Gemini/Google Notes** `gemini-notes@google.com` (1 new) — "BST Internal Update Meeting" notes 20 May
+- **UnitedHealthcare** (2 new) — EOB notification and wellness promotional (direct, personal benefits)
+
+### Internal BST Colleagues Visible
+- **Jack Elston** `elstonj@blackswifttech.com` — ezCater routing, L-com account setup, Frank Strazzabosco coordination
+- **Joshua Fromm** — L-com password recovery
+- **Nate Straus** — Adafruit confirmation recipient
+- **Meredith Needham** — HeliDirect, Spindrift subscription delays recipient
+- **Alexis Lomis** — ELEGOO recipient
+- **Beck Cotter** (1 previous)
 
 ### Internal vs External
 - **External vendors/suppliers:** ~80% of correspondence
-- **Internal colleagues:** ~7% directly visible (Jack Elston, Beck Cotter, Nate Straus, Joshua Fromm, Meredith Needham)
-- **Automated/system notifications:** ~13% (Toggl Track, OmniSync, Veeam, STMicroelectronics corrections)
+- **Internal colleagues:** ~8% directly visible
+- **Automated/system notifications:** ~12% (Asana, Toggl, Google Notes, UnitedHealthcare)
 
 ## Topic Patterns
 
-### Supplier/Vendor Categories & Themes
+### Electronics & Components (Primary, expanding)
+- **Pasternack** (NEW, high activity) — Web Order #393639, multiple confirmations and tracking — **suggests active technical procurement**
+- **Infinite Electronics** (NEW) — PO #05/20/26, Sales Order WL5294244 — invoice and shipment both generated same day
+- **L-com** (NEW) — Account setups for Jack Elston and Joshua Fromm suggest new vendor onboarding
+- Continued DigiKey, Mouser, Adafruit, McMaster-Carr activity
+- **LTC2959IDDB** (15 units, from previous) — power management IC still active
+- **Hobbywing ESC with sensor** (from previous)
 
-**Electronics & Components (Primary focus — expanding)**
-- DigiKey (5 emails: general ICs, **delay notification on order**, shipment tracking)
-- Mouser (PO 39225140)
-- McMaster-Carr (May 18 orders, receipts, tracking)
-- Adafruit Industries (Order Confirmation #3684526-0269237422 — new vendor)
-- Battery Junction (3 new emails — order #760679 confirmed, signup notification, promotional)
-- LTC2959IDDB#TRMPBF analog components (Worldway quotation from Frank Strazzabosco, **15 pcs**)
-- Hobbywing RPM Sensor For High-Voltage ESC (3 units)
-- SoloGood FPV Transmitter
+### Manufacturing & Fabrication (Active, expanding)
+- **SendCutSend** (NEW, 3 emails) — Order S424H298, quote S424H298, order confirmation — **metal cutting/fabrication service actively engaged**
+- **Jawstec** — Order #68821 received 20 May (Briana Gonzalez context from previous)
+- Craftcloud (from previous)
+- Protospace Mfg USA (from previous)
+- **Pattern suggests active mechanical design/prototyping work**
 
-**Hobby/RC Aviation (Active, steady volume)**
-- AMain Hobbies (4 emails, VIP Rewards)
-- HeliDirect (Memorial Day sale alert)
-- Hobbyking (subscription)
-- FPV/drone equipment focus
+### FPV & Drone Equipment (Steady)
+- **CADDXFPV** (NEW) — Spring Into Summer deals — **FPV drone components**
+- AMain Hobbies, HeliDirect, Hobbyking (from previous)
+- SoloGood FPV Transmitter (from previous)
 
-**Power Distribution & Control Systems (Active technical thread)**
-- **Jack Elston reply (19 May 08:20, IMPORTANT)** — Direct engagement with Frank Strazzabosco on LTC2959IDDB quotation suggests active technical review/approval
-- LTC2959IDDB (power management IC — analog switching regulator, **15 units quoted**)
-- Hobbywing ESC with sensor feedback
-- Suggests design or integration work in progress
+### Aerospace/Aviation (Active)
+- **Jawstec Order #68821** — Suggests ongoing aviation-related procurement
+- CAPS Aviation liferafts (from previous)
+- SkyGeek (from previous)
 
-**Aerospace/Aviation Services (Emerging)**
-- CAPS Aviation: Liferafts (Winslow repair station, Texas)
-- SkyGeek (aviation supplier, check-in email to Joshua Fromm)
-- Phase1 Aviation LLC (invoice payment)
-- **Briana Gonzalez** `briana@jawstec.com` — **"Possible order delay"** (19 May 21:23) — new vendor contact, context unclear but suggests active negotiation or supply chain issue
+### Power Distribution & Control (Technical thread, ongoing)
+- **LTC2959IDDB** quotation (15 units, from previous, Jack Elston approval noted)
+- **Hobbywing ESC with RPM sensor** (from previous)
+- **Battery Junction** (4 total emails) — Portable power/battery focus
 
-**Industrial/Manufacturing (Expanding)**
-- Protospace Mfg USA
-- Neat N Tidy (2 emails — receipt, appears to be service booking)
-- **Craftcloud** (manufacturing/3D printing service — order confirmation, 19 May)
-- ELEGOO (3D printers)
-- Reinforced Kraft packaging
-
-**Batteries & Power Hardware (New category)**
-- **Battery Junction** (3 emails on 19 May) — order #760679 confirmed, signup notification, promotional
-- **Baofeng Radio** — Off-grid giveaway (promotional)
-- Suggests battery/portable power project or inventory build
-
-**Utilities & Business Services**
-- Comcast Business
-- Dell Technologies
-- SAP Business Network
-- **Veeam Team** — V13.1 backup/virtualization webinar (direct to Sam, not purchasing alias — possible IT responsibility)
-- Toggl Track (time tracking)
-
-**Transportation/Rental (Minor)**
-- Budget car rental — Memorial Day sale (low signal)
-
-### Notable Subject Patterns
-- **DigiKey delay notification** (19 May 04:35) — Supply chain risk on core component order
-- **Briana Gonzalez "Possible order delay"** (19 May 21:23) — Unknown vendor/supplier context; suggests supply chain activity
-- **Jack Elston IMPORTANT reply** (19 May 08:20) — Indicates LTC2959IDDB quotation is under active technical review
-- **Adafruit & Battery Junction orders** (19 May) — New suppliers added to procurement workflow; **Battery Junction particularly active** (3 emails same day)
-- Heavy transactional volume (confirmations, shipments,
+### Food & Beverage / Employee Services (NEW Category)
+- **Spindrift Market** (2 orders, grocery delivery)
+- **Spindrift** (subscription delays) —

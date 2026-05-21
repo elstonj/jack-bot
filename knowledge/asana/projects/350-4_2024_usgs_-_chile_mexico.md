@@ -4,10 +4,10 @@
 - **Client/Customer**: USGS (Volcano Science Center)
 - **Primary Contact**: Christoph Kern (USGS); Kevin Pesola (kpesola@usgs.gov, USGS Vancouver office, 1300 SE Cardinal Court Suite 100 Vancouver, WA 98683, (360) 993-8963)
 - **Dollar Value**: $124,230 (total budget and funding to BST)
+- **Contract**: 140G0323P0280
 - **Timeline**: Contract end date August 30, 2025; **DEPLOYMENT DELAYED TO FALL 2026** (originally planned for April 20, 2026)
 - **Status**: **ACTIVE — DELAYED** — Mission deployment originally scheduled for April 20, 2026 has been **postponed to Fall 2026** per Maciej Stachura (April 17, 2026) and Jack Elston (April 20, 2026). **No flight planning, shipping, or mission prep happening soon.** Current Asana task inventory reflects stale spring/summer 2026 due dates that should be disregarded pending Fall 2026 rescheduling.
 - **Team Members**: Maciej Stachura (owner/project lead), Jack Elston, Dan Prendergast, Josh Fromm, Nate Straus, Ethan Domagala, Meredith O'Hara Needham
-- **Contract**: 140G0323P0280
 - **Priority**: Medium (Government customer)
 
 ## Key Deliverables & Milestones
@@ -30,11 +30,11 @@
 ## Task Summary
 - **Total Tasks**: 1 open, 0 completed
 - **Tasks by Assignee**:
-  - **Dan Prendergast**: 1 open task
-    - "Look at proposal/contract for AV3 budget and assign to Paulino" | Due: May 20, 2026 | **STALE**
+  - **Dan Prendergast**: 1 open task (100% open rate)
+    - "Look at proposal/contract for AV3 budget and assign to Paulino" | Due: May 20, 2026 | **STALE — pending Fall 2026 rescheduling**
 
 - **Notable Patterns**:
-  - **Single open task remaining** — represents AV3 contract sourcing blocker (aircraft rental replacement partner)
+  - **Single open task remaining** — represents AV3 aircraft rental contract sourcing blocker (critical path blocker for partner engagement)
   - **Due date is stale** (May 20, 2026); actual scheduling dependent on Fall 2026 confirmation
   - Task count continues to decline as project consolidates pending rescheduling
 
@@ -44,13 +44,13 @@
 - **April 17, 2026 (TEAM CORRECTIONS — AUTHORITATIVE)**:
   - **Maciej Stachura**: "Mexico is moved to the Fall, so **no flight planning happening soon.**"
 - **November 22, 2023**: Status update filed showing overdue milestones and tasks (historical; superseded by April 2026 delay announcement)
-- **Action**: Mission deployment **delayed from April 20, 2026 to Fall 2026**. No flight planning, shipping, or mission prep happening soon. One open task (AV3 contract) pending rescheduling.
+- **Current Action Item**: One open task (AV3 contract assignment to Paulino) pending rescheduling. No flight planning, shipping, or mission prep happening soon.
 
 ## Notes & Context
 - **Mission Purpose**: S3 aircraft deployment to Chile/Mexico for volcanic gas sampling using Multi-sensor Head Package (MHP), survey services, and aircraft rental through AV3
 - **Deployment Status**: 
   - **Originally planned**: April 20, 2026
-  - **Now scheduled**: Fall 2026 (per Maciej, April 17; Jack, April 20)
+  - **Now scheduled**: Fall 2026 (per Maciej Stachura, April 17; Jack Elston, April 20)
   - **Implication**: **ALL spring/summer 2026 task due dates in Asana are stale**; one remaining task pending rescheduling once Fall 2026 timeline is finalized
   - **Flight Planning/Shipping**: **Not happening soon** — project is in hold state pending Fall 2026 confirmation
 - **Products/Services**: MHP, Survey Services, Aircraft Rental (via AV3 — replacement partner search ongoing per open task)

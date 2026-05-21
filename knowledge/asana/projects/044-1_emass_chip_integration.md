@@ -3,14 +3,14 @@
 ## Overview
 - **Client/Customer**: EMASS (Commercial customer)
 - **Dollar Value**: $90,000 total funding to Black Swift Technologies
-- **Timeline**: Original November 10, 2025 to January 31, 2026; **extended through May 2026** for final validation and reporting
-- **Status**: **ACTIVE — Final validation phase, INDEFINITELY POSTPONED**. Per Jack Elston (May 12, 2026): "emass is likely delayed, we're waiting on them to get a working system to test, so de-prioritize it, but we don't want to drag this out more than a month." Per Daniel Prendergast (May 13, 2026): "EMASS Validation Flight #2 is postponed indefinitely until they get us a functioning controller." **This is blocking all remaining validation flights.**
+- **Timeline**: Original November 10, 2025 to January 31, 2026; extended through May 2026 for final validation and reporting
+- **Status**: **🔴 INDEFINITELY POSTPONED — External blocker on EMASS controller delivery.** Per Daniel Prendergast (May 13–14, 2026): "EMASS Validation Flight #2 is postponed indefinitely until they get us a functioning controller." Per Jack Elston (May 12, 2026): "de-prioritize it, but we don't want to drag this out more than a month." **All remaining validation flights and final reporting blocked.**
 - **Team Members**: Dan Prendergast (Owner/Lead), Jack Elston, Maciej Stachura, Nate Straus, Ethan Domagala, Meredith O'hara Needham
 - **Risk Signals**: 
-  - **🔴 CRITICAL: Project indefinitely postponed on external EMASS controller delivery** — Per Daniel Prendergast (May 13, 2026): "EMASS Validation Flight #2 is postponed indefinitely until they get us a functioning controller." Per Jack Elston (May 12, 2026): "we're waiting on them to get a working system to test, so de-prioritize it, but we don't want to drag this out more than a month." **This is outside BST control.**
-  - **⚠️ Financial risk**: Daniel Prendergast inquired whether EMASS paid the second invoice (May 7–8, 2026) — suggests possible payment delays or disputes.
-  - **Asana task data incomplete**: Current export shows only 1 open task (Validation Flight #2); Validation Flight #3 and Final Report confirmed open in earlier team feedback but not appearing in Asana export.
-  - **Single point of failure on execution** — Dan Prendergast assigned to remaining open task; Jack Elston and Nate Straus execute field coordination but not formally assigned in Asana.
+  - **🔴 CRITICAL: Project indefinitely postponed on external EMASS controller delivery** — Validation Flights #2 and #3 cannot proceed until EMASS delivers functioning controller binary (Daniel Prendergast, May 13–14, 2026). This is outside BST control.
+  - **⚠️ Escalation boundary set**: Jack Elston (May 12, 2026) imposed informal 1-month hold limit before escalation/re-evaluation (~June 12, 2026).
+  - **⚠️ Financial concern**: Daniel Prendergast inquired whether EMASS paid the second invoice (May 7–8, 2026) — suggests possible payment delays or customer relationship friction.
+  - **Asana task data incomplete/stale**: 5 open tasks listed (2× "data analysis" duplicates); no due dates assigned despite indefinite postponement.
 
 ## Key Deliverables & Milestones
 - **Phase 1: Design & Alignment** (Due: Jan 28, 2026) - ✅ Completed
@@ -19,51 +19,54 @@
 - **Phase 4: Validation & Reporting** (Due: Mar 11, 2026) - ✅ Completed
 - **Final Validation Phase** (Extended to May 2026, now indefinitely postponed):
   - Validation Flight #1 (April 27, 2026) — ✅ **Completed April 25, 2026** (2 days early)
-  - Validation Flight #2 (originally due May 13, 2026) — **🔴 INDEFINITELY POSTPONED** *(awaiting functioning controller binary from EMASS per Daniel Prendergast, May 13, 2026)*
-  - Validation Flight #3 — **🔴 INDEFINITELY POSTPONED** *(awaiting functioning controller binary from EMASS per Daniel Prendergast, May 13, 2026)*
-  - Final Report — **OPEN**
+  - Validation Flight #2 (originally due May 13, 2026) — **🔴 INDEFINITELY POSTPONED** *(awaiting functioning controller binary from EMASS per Daniel Prendergast, May 13–14, 2026)*
+  - Validation Flight #3 — **🔴 INDEFINITELY POSTPONED** *(awaiting functioning controller binary from EMASS per Daniel Prendergast, May 13–14, 2026)*
+  - Final Report — **🔴 BLOCKED** *(cannot complete until validation flights are done)*
 
 ## Task Summary
-- **Total Tasks**: 1 task in current Asana export (Validation Flight #2); 2 additional open tasks (Validation Flight #3, Final Report) confirmed in earlier team feedback but not appearing in task list
+- **Total Open Tasks**: 5 tasks in current export (including 2 duplicate "data analysis" entries)
+  - Validation Flight #2 (Dan Prendergast, no due date)
+  - Validation Flight #3 (Dan Prendergast, no due date)
+  - Final Report (Dan Prendergast, no due date)
+  - data analysis (Maciej Stachura, no due date) — 2 instances
 - **Tasks by Assignee**:
-  - **Dan Prendergast**: 1 task in Asana (Validation Flight #2, **no due date**, indefinitely postponed) — **BLOCKED on EMASS controller delivery**
-  - **Note**: Jack Elston and Nate Straus actively coordinated field execution per team feedback but not formally assigned in Asana
-- **Recent Completions** (April 25, 2026):
-  - ✅ Validation Flight #1 (Dan Prendergast) — 2 days early
-  - ✅ Functional flight test (Dan Prendergast) — 4 days late (due April 21)
-  - ✅ Bench test for safety (Dan Prendergast) — 5 days late (due April 20)
+  - **Dan Prendergast**: 3 tasks (2 validation flights, 1 final report) — **ALL BLOCKED on external EMASS controller delivery**
+  - **Maciej Stachura**: 2 tasks (data analysis, duplicate entries) — **BLOCKED** (cannot analyze until flights complete)
+  - **Jack Elston & Nate Straus**: Actively coordinate field execution but not formally assigned in Asana
+- **Recent Completions** (April 19–25, 2026):
+  - ✅ Validation Flight #1 (Dan Prendergast) — **2 days early** (April 25)
+  - ✅ Functional flight test (Dan Prendergast)
+  - ✅ Bench test for safety (Dan Prendergast)
   - ✅ Data analysis (Maciej Stachura)
   - ✅ Submit Initial Invoice (Meredith O'hara Needham, March 24, 2026)
 
 ## Recent Activity
 
-**May 13, 2026 (Team Feedback — AUTHORITATIVE, Daniel Prendergast)**:
+**May 13–14, 2026 (AUTHORITATIVE — Daniel Prendergast)**:
 - **PROJECT INDEFINITELY POSTPONED ON EMASS CONTROLLER DELIVERY**
 - Quote: "CU IRISS training is complete. EMASS Validation Flight #2 is postponed indefinitely until they get us a functioning controller."
-- **Validation Flights #2 and #3 cannot proceed.**
+- Both Validation Flights #2 and #3 cannot proceed.
 
-**May 12, 2026 (Team Feedback — AUTHORITATIVE, Jack Elston)**:
-- **De-prioritize EMASS; impose 1-month hold limit**
+**May 12, 2026 (AUTHORITATIVE CORRECTION — Jack Elston)**:
+- **De-prioritize EMASS; impose informal 1-month boundary**
 - Quote: "emass is likely delayed, we're waiting on them to get a working system to test, so de-prioritize it, but we don't want to drag this out more than a month"
-- Signals acceptance that external delay is expected but sets boundary: do not allow this to drag beyond ~June 12, 2026 before escalation or re-evaluation.
+- Interpretation: Accept external delay is expected; enforce escalation/re-evaluation by ~June 12, 2026 if situation unresolved.
 
-**May 7–8, 2026 (Team Feedback — Daniel Prendergast)**:
-- **Financial question raised**: "did EMASS ever pay the second invoice?"
-- Suggests possible invoice/payment gap or dispute; may indicate broader customer relationship friction alongside technical delays.
+**May 7–8, 2026 (Daniel Prendergast)**:
+- **Financial flag**: "did EMASS ever pay the second invoice?"
+- Indicates possible invoice/payment gap or customer relationship friction alongside technical delays.
 
-**May 4, 2026 (Team Feedback — Earlier context, Daniel Prendergast)**:
+**May 4, 2026 (Daniel Prendergast)**:
 - Confirmed external blocker: "We cannot perform those flights until they send us a new controller binary in the emass-bst slack channel."
-- Daniel's priority shifted to 53rd Weather Squadron and SOCOM visit slides (May 9, 2026).
+- Shifted own priority to 53rd Weather Squadron and SOCOM visit slides.
 
-**April 30, 2026 (Team Feedback — Maciej)**:
-- **EMASS ranked as Priority #3** for closure: "our highest priority projects right now are: (1) S3 IRAD…, (2) S0-VTOL…, (3) **Closing out EMASS**…"
-- Confirms intention to complete despite external delays.
+**April 30, 2026 (Maciej)**:
+- **EMASS ranked Priority #3 for closure**: "(1) S3 IRAD…, (2) S0-VTOL…, (3) **Closing out EMASS**…"
+- Confirms BST intent to complete despite external delays.
 
-**April 19–20, 2026 (Team Feedback — Maciej)**:
-- **EMASS flight tests listed as Goal #1 for the week** with Dan Prendergast, Jack Elston, and Nate Straus actively coordinating.
-
-**April 25, 2026**:
-- ✅ **Validation Flight #1 completed 2 days ahead of schedule** — demonstrates BST capability and effective test execution despite ongoing external dependencies.
+**April 24–25, 2026**:
+- ✅ **Validation Flight #1 completed 2 days ahead of schedule** — demonstrates BST execution capability and effective test coordination despite ongoing customer dependencies.
+- Maciej confirmed: "we're in good shape there with the remaining work just waiting on those guys to finish the controller and another round of test flying for us."
 
 ## Notes & Context
 
@@ -72,7 +75,7 @@
 **Technical Approach**: 
 - Custom PCB design integrating ECS-DoT chip with SwiftCore autopilot
 - UART interface for data communication at 50–70 Hz
-- Integration with E2 platform (per custom fields: Products/Services includes Custom Payload and E2)
+- Integration with E2 platform (Custom Payload, E2 per custom fields)
 - Hardware-in-the-loop (HWIL) simulation testing (completed)
 - Structured flight trials comparing baseline vs. ECS-DoT-enabled configurations
 
@@ -81,8 +84,8 @@
 **Timeline Evolution**: 
 - Original scope: Nov 10, 2025 – Jan 31, 2026 (12 weeks)
 - Extended: May 2026 (~5 months beyond original end date)
-- **Now indefinitely postponed on EMASS controller delivery** (as of May 13, 2026)
+- **Now indefinitely postponed on EMASS controller delivery** (as of May 13–14, 2026)
+- **Informal boundary for escalation/re-evaluation**: ~June 12, 2026 (Jack Elston, May 12, 2026: "we don't want to drag this out more than a month")
 
----
-
-## 
+**Status Summary**:
+- BS
