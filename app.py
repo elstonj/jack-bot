@@ -542,13 +542,14 @@ def handle_dm(event, say, client):
         thread_ts = event["thread_ts"]
         user_id = event.get("user", "")
         try:
-            if cs_has_pending(thread_ts):
+            if cs_has_pending(thread_ts, user_id):
                 resp = cs_handle_thread_followup(client, event)
             else:
                 # Only respond when the thread is actually under one of our
-                # cards (silent on unrelated threads). Lookup is short-circuited
-                # by lookup_record_for_thread returning None.
-                if not cs_lookup_record_for_thread(client, cs_channel, thread_ts):
+                # cards OR the umbrella daily thread matches the reply to a
+                # specific card (silent on unrelated threads). Lookup is
+                # short-circuited by lookup_record_for_thread returning None.
+                if not cs_lookup_record_for_thread(client, cs_channel, thread_ts, reply_text=text):
                     return
                 resp = cs_handle_thread_reply(client, event)
             if resp:

@@ -192,12 +192,22 @@ def post_purchasing_summary():
 def post_commercial_sales_digest():
     """Daily morning post to #commercial-sales summarizing customer builds + support.
 
-    Posts each Build / SupportCase as its own top-level Slack message so users
-    can reply in-thread to update a specific record. Captures every posted
-    message ts and writes a {ts: {kind, id}} map to
-    knowledge/commercial_sales/_message_map.json — Phase 2 reply-handler reads
-    that map to figure out which Build/SupportCase a threaded reply is
-    targeting.
+    Posts a single header message ("Customer Builds & Support — <date>") as
+    the umbrella parent, then posts every Build / SupportCase card as a
+    threaded reply under that umbrella so the channel main view stays clean.
+    Users reply anywhere in the umbrella thread; the reply-handler matches
+    the reply text against the day's card list to figure out which record
+    they're updating.
+
+    Writes knowledge/commercial_sales/_message_map.json with:
+      {
+        "scan_date":   "YYYY-MM-DD",
+        "channel":     "<channel id>",
+        "umbrella_ts": "<header ts>",
+        "cards":       [{ts, kind, id, customer, label}, ...] (ordered),
+        "messages":    {ts → {kind, id}} (legacy flat map; same data as cards
+                       but keyed by ts for O(1) per-card lookups).
+      }
 
     No LLM call at post time — purely a deterministic render of pre-scanned
     JSON records from knowledge/commercial_sales/{builds,support}/.
@@ -229,32 +239,77 @@ def post_commercial_sales_digest():
             pass
 
         sequence = render_card_sequence(builds, cases, name_to_slack=name_to_slack)
+        if not sequence:
+            return
+
+        # First entry is the header — post it as a top-level message and
+        # capture the umbrella ts. All following entries (cards, dividers,
+        # footer) post as thread replies under it.
+        header_entry = sequence[0]
+        header_text = header_entry["text"]
+        if len(header_text) > 39000:
+            header_text = header_text[:39000] + "\n…(truncated)"
+        header_resp = client.chat_postMessage(channel=channel, text=header_text)
+        umbrella_ts = (
+            header_resp.get("ts") if isinstance(header_resp, dict)
+            else getattr(header_resp, "data", {}).get("ts")
+        )
+
+        builds_by_gid = {b.asana_gid: b for b in builds}
+        cases_by_id = {c.case_id: c for c in cases}
+
+        message_map = {
+            "scan_date": __import__("datetime").date.today().isoformat(),
+            "channel": channel,
+            "umbrella_ts": umbrella_ts,
+            "cards": [],
+            "messages": {},  # ts → {kind, id}
+        }
 
         # Slack rate limit ≈ 1 message / sec for chat.postMessage on the
         # standard tier. Sleep between posts so we don't get throttled.
         # Worst case is ~25 messages → ~13s total — acceptable.
-        message_map = {
-            "scan_date": __import__("datetime").date.today().isoformat(),
-            "channel": channel,
-            "messages": {},  # ts → {kind, id}
-        }
-        for entry in sequence:
+        for entry in sequence[1:]:
             text = entry["text"]
             if len(text) > 39000:
                 text = text[:39000] + "\n…(truncated)"
-            resp = client.chat_postMessage(channel=channel, text=text)
-            ts = resp.get("ts") if isinstance(resp, dict) else getattr(resp, "data", {}).get("ts")
-            if ts and entry["id"]:
+            resp = client.chat_postMessage(
+                channel=channel,
+                text=text,
+                thread_ts=umbrella_ts,
+            )
+            ts = (
+                resp.get("ts") if isinstance(resp, dict)
+                else getattr(resp, "data", {}).get("ts")
+            )
+            if ts and entry.get("id"):
                 message_map["messages"][ts] = {
                     "kind": entry["kind"],
                     "id": entry["id"],
                 }
+                customer = ""
+                label = ""
+                if entry["kind"] == "build":
+                    b = builds_by_gid.get(entry["id"])
+                    if b:
+                        customer = b.customer or ""
+                        label = b.asana_task_name or customer
+                elif entry["kind"] == "support":
+                    c = cases_by_id.get(entry["id"])
+                    if c:
+                        customer = c.customer or ""
+                        label = c.device or customer
+                message_map["cards"].append({
+                    "ts": ts,
+                    "kind": entry["kind"],
+                    "id": entry["id"],
+                    "customer": customer,
+                    "label": label,
+                })
             time.sleep(0.5)
 
-        # Persist the ts → record map so the reply-handler can route threaded
-        # replies. Overwrites the prior scan's map (replies on stale messages
-        # are out of scope for now; thread parent ts is captured the moment
-        # we post each card).
+        # Persist the umbrella + per-card map so the reply-handler can route
+        # threaded replies. Overwrites the prior scan's map.
         map_path = Path(__file__).parent / "knowledge" / "commercial_sales" / "_message_map.json"
         map_path.parent.mkdir(parents=True, exist_ok=True)
         map_path.write_text(json.dumps(message_map, indent=2))
