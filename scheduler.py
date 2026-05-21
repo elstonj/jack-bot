@@ -165,7 +165,13 @@ def tick_marketing_check():
 
 
 def post_purchasing_summary():
-    """Re-post Jack's daily purchasing summary email to #operations."""
+    """Re-post Jack's daily purchasing summary email to #operations.
+
+    Posts a one-line header as the top-level message ("Daily purchasing summary
+    — <date>"), then puts the reformatted email body as a threaded reply under
+    it so the channel main view stays clean. Same pattern as
+    post_commercial_sales_digest.
+    """
     channel = os.environ.get("DAILY_TASKS_CHANNEL", "#general")
     sender = os.environ.get("PURCHASING_SUMMARY_SENDER", "elstonj@blackswifttech.com")
     client = WebClient(token=os.environ["SLACK_BOT_TOKEN"])
@@ -176,11 +182,17 @@ def post_purchasing_summary():
         if not body:
             return
         formatted = _reformat_purchasing_for_slack(body.strip())
-        text = f":package: *Daily Purchasing Summary*\n{formatted}"
+        today_str = __import__("datetime").date.today().strftime("%A %B %d")
+        header_text = f":package:  *Daily Purchasing Summary — {today_str}*"
+        header_resp = client.chat_postMessage(channel=channel, text=header_text)
+        umbrella_ts = (
+            header_resp.get("ts") if isinstance(header_resp, dict)
+            else getattr(header_resp, "data", {}).get("ts")
+        )
         # Slack hard-limits a single message at 40k chars; trim with a marker.
-        if len(text) > 39000:
-            text = text[:39000] + "\n…(truncated)"
-        client.chat_postMessage(channel=channel, text=text)
+        if len(formatted) > 39000:
+            formatted = formatted[:39000] + "\n…(truncated)"
+        client.chat_postMessage(channel=channel, text=formatted, thread_ts=umbrella_ts)
     except Exception as e:
         from knowledge import store_entry
         try:
