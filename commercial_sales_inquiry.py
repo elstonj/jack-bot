@@ -110,6 +110,9 @@ _UPDATE_VERB_PATTERNS = [
     r"\btracking\s+\S",                     # "tracking 1Z999... for X"
     r"\bshift\s+\S.*\b(?:due|deadline|ship)\b",
     r"\bmove\s+\S.*\b(?:due|deadline|ship)\b",
+    # Implicit items/contents updates — "the NASA S2 simulator includes X, Y, Z"
+    # or "S3 comes with EO/IR gimbal". Haiku maps these to the items field.
+    r"\b(?:includes|including|contains|consists\s+of|comes\s+with|comprised\s+of)\b",
 ]
 _UPDATE_INTENT_RE = re.compile("|".join(_UPDATE_VERB_PATTERNS), re.IGNORECASE)
 
@@ -206,6 +209,42 @@ def _call_claude_json(system: str, user: str, max_tokens: int = 600) -> dict:
     text = resp.content[0].text.strip()
     text = re.sub(r"^```(?:json)?\s*", "", text)
     text = re.sub(r"\s*```$", "", text)
+    return _loads_tolerant(text)
+
+
+def _loads_tolerant(text: str) -> dict:
+    """Parse the first complete JSON object out of `text`, ignoring trailing
+    prose. Strict json.loads() raises 'Extra data' when Haiku appends a
+    sentence after the JSON; this finds the first balanced {...} block."""
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        pass
+    start = text.find("{")
+    if start < 0:
+        return json.loads(text)
+    depth = 0
+    in_str = False
+    escape = False
+    for i in range(start, len(text)):
+        ch = text[i]
+        if in_str:
+            if escape:
+                escape = False
+            elif ch == "\\":
+                escape = True
+            elif ch == '"':
+                in_str = False
+            continue
+        if ch == '"':
+            in_str = True
+            continue
+        if ch == "{":
+            depth += 1
+        elif ch == "}":
+            depth -= 1
+            if depth == 0:
+                return json.loads(text[start:i + 1])
     return json.loads(text)
 
 

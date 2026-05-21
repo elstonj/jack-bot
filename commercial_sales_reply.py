@@ -47,7 +47,11 @@ MESSAGE_MAP_PATH = KNOWLEDGE_DIR / "_message_map.json"
 ASANA_BASE = "https://app.asana.com/api/1.0"
 
 PENDING_TTL = 600  # 10 minutes
-PENDING: dict[str, dict] = {}  # thread_ts -> state
+# Keyed on (thread_ts, user_id). With the new umbrella-thread layout, every
+# card reply lands under the same thread_ts, so we need user_id in the key to
+# support concurrent proposals (e.g., Beck updating ERAU while Meredith updates
+# NASA Ames). Per-user keying replaces the older cross-user-confirm pattern.
+PENDING: dict[tuple[str, str], dict] = {}
 
 STATE_AWAIT_CONFIRM = "await_confirm"
 
@@ -82,43 +86,56 @@ def _now() -> float:
     return time.time()
 
 
-def _get_pending(thread_ts: str) -> Optional[dict]:
-    entry = PENDING.get(thread_ts)
+def _get_pending(thread_ts: str, user_id: str) -> Optional[dict]:
+    key = (thread_ts, user_id)
+    entry = PENDING.get(key)
     if not entry:
         return None
     if _now() - entry["created"] > PENDING_TTL:
-        PENDING.pop(thread_ts, None)
+        PENDING.pop(key, None)
         return None
     return entry
 
 
-def _set_pending(thread_ts: str, state: dict) -> None:
+def _set_pending(thread_ts: str, user_id: str, state: dict) -> None:
     state["created"] = _now()
-    PENDING[thread_ts] = state
+    PENDING[(thread_ts, user_id)] = state
 
 
-def _clear_pending(thread_ts: str) -> None:
-    PENDING.pop(thread_ts, None)
+def _clear_pending(thread_ts: str, user_id: str) -> None:
+    PENDING.pop((thread_ts, user_id), None)
 
 
-def has_pending(thread_ts: str) -> bool:
-    return _get_pending(thread_ts) is not None
+def has_pending(thread_ts: str, user_id: str) -> bool:
+    return _get_pending(thread_ts, user_id) is not None
 
 
 # --- Record lookup ---------------------------------------------------------
 
 
 def _load_message_map() -> dict:
-    """Return ts → {kind, id} from the scheduler-written map. Empty when
-    Railway has just redeployed and the file's gone — caller should fall
-    back to parsing the hidden token from the parent message text."""
+    """Return the full message map written by the scheduler:
+      {
+        "scan_date":   str,
+        "channel":     str,
+        "umbrella_ts": str,            # parent of the daily digest thread
+        "cards":       [{ts, kind, id, customer, label}, ...],
+        "messages":    {ts → {kind, id}},
+      }
+    Empty dict if Railway has just redeployed and the file's gone — caller
+    falls back to parsing the hidden token from the parent message text.
+    """
     if not MESSAGE_MAP_PATH.exists():
         return {}
     try:
-        data = json.loads(MESSAGE_MAP_PATH.read_text())
-        return data.get("messages", {}) or {}
+        return json.loads(MESSAGE_MAP_PATH.read_text()) or {}
     except Exception:
         return {}
+
+
+def _per_ts_messages(msg_map: dict) -> dict:
+    """ts → {kind, id} subset of the message map."""
+    return (msg_map or {}).get("messages", {}) or {}
 
 
 _TOKEN_RX = re.compile(r"`(build|case):([A-Za-z0-9_\-]+)`")
@@ -134,21 +151,50 @@ def _id_from_parent_text(parent_text: str) -> Optional[tuple[str, str]]:
     return (m.group(1), m.group(2))  # ('build', '1213...') or ('case', 'SC-2026-001')
 
 
-def lookup_record_for_thread(slack_client, channel_id: str, thread_ts: str) -> Optional[dict]:
+def lookup_record_for_thread(
+    slack_client,
+    channel_id: str,
+    thread_ts: str,
+    reply_text: str = "",
+) -> Optional[dict]:
     """Find which Build/SupportCase a thread reply is updating.
+
+    With the umbrella-thread digest layout, `thread_ts` is the same for every
+    card-reply on a given day, so per-ts lookup alone can't resolve a target.
+    Resolution order:
+      1. Legacy per-card lookup — thread_ts directly matches a card ts in
+         `messages`. (Still useful when a user replies to a stand-alone card
+         from older digests, or when the umbrella layout isn't in effect.)
+      2. Umbrella content-match — when `thread_ts` is the umbrella parent,
+         feed `reply_text` plus the day's card list to Haiku and pick the
+         best match by customer/product mention.
+      3. Fallback — read the parent message and parse its hidden token.
+         (Useful when the message map is gone after a Railway redeploy.)
 
     Returns {'kind': 'build'|'case', 'id': str, 'record': Build|SupportCase}
     or None when the thread isn't under one of Jack's cards.
     """
-    # Primary path: scheduler-written map
     msg_map = _load_message_map()
-    entry = msg_map.get(thread_ts)
+    per_ts = _per_ts_messages(msg_map)
+
+    # (1) Per-card direct match
+    entry = per_ts.get(thread_ts)
     if entry:
         rec = _load_record(entry.get("kind"), entry.get("id"))
         if rec:
             return {"kind": entry["kind"], "id": entry["id"], "record": rec}
 
-    # Fallback: read the parent message and parse its hidden token
+    # (2) Umbrella content-match
+    umbrella_ts = msg_map.get("umbrella_ts")
+    cards = msg_map.get("cards") or []
+    if umbrella_ts and thread_ts == umbrella_ts and cards and reply_text.strip():
+        matched = _match_umbrella_card(reply_text, cards)
+        if matched:
+            rec = _load_record(matched["kind"], matched["id"])
+            if rec:
+                return {"kind": matched["kind"], "id": matched["id"], "record": rec}
+
+    # (3) Parent-text token fallback
     try:
         result = slack_client.conversations_replies(
             channel=channel_id, ts=thread_ts, limit=1,
@@ -167,6 +213,68 @@ def lookup_record_for_thread(slack_client, channel_id: str, thread_ts: str) -> O
     if not rec:
         return None
     return {"kind": kind, "id": rec_id, "record": rec}
+
+
+UMBRELLA_MATCH_SYSTEM = """\
+You are routing a Slack thread reply to ONE specific customer Build or
+SupportCase. The thread parent is the daily digest header; the user replied
+in that thread with an update intended for one record from the candidate
+list below.
+
+Match by:
+  - Customer name (fuzzy: "ERAU" matches "Embry-Riddle Aeronautical University",
+    "SOCOM" matches "USAF SOCOM").
+  - Product / items mention (e.g., "the S2 simulator" → NASA Ames S2 build).
+  - Build/case state hints when the reply is unambiguous.
+
+Output one JSON object — no fences, no commentary:
+
+{
+  "id":         "<asana_gid or case_id of the matched record, or empty>",
+  "kind":       "build" | "support" | "",
+  "confidence": "high" | "medium" | "low",
+  "why":        "<one sentence on what matched>"
+}
+
+Rules:
+- Return id="" with confidence="low" when nothing plausibly matches (idle
+  chat, generic comments). Caller treats this as 'silently ignore'.
+- "high" requires a clear customer-name or unique-product reference.
+- "medium" when only a product clue exists but it's unambiguous given the
+  candidates (e.g., only one S2 simulator build in the list).
+- Never fabricate. If the reply is genuinely ambiguous across candidates,
+  use "low" — caller will ask for clarification.
+"""
+
+
+def _match_umbrella_card(text: str, cards: list[dict]) -> Optional[dict]:
+    """Use Haiku to pick which card in the umbrella thread a reply targets.
+
+    Returns the chosen card dict ({ts, kind, id, customer, label}) when the
+    matcher is confident (high or medium); returns None otherwise so the
+    caller stays silent rather than acting on a guess.
+    """
+    if not cards:
+        return None
+    lines = []
+    for c in cards:
+        lines.append(
+            f"- kind={c.get('kind','')} id={c.get('id','')} "
+            f"customer={c.get('customer','')!r} label={c.get('label','')!r}"
+        )
+    user_block = f"User reply:\n{text}\n\nCandidates:\n" + "\n".join(lines)
+    try:
+        obj = _call_claude_json(UMBRELLA_MATCH_SYSTEM, user_block, max_tokens=300)
+    except Exception:
+        return None
+    rec_id = (obj.get("id") or "").strip()
+    confidence = obj.get("confidence", "low")
+    if not rec_id or confidence == "low":
+        return None
+    for c in cards:
+        if str(c.get("id")) == rec_id:
+            return c
+    return None
 
 
 def _load_record(kind: str, rec_id: str):
@@ -311,6 +419,44 @@ def _call_claude_json(system: str, user: str, max_tokens: int = 1000) -> dict:
     text = resp.content[0].text.strip()
     text = re.sub(r"^```(?:json)?\s*", "", text)
     text = re.sub(r"\s*```$", "", text)
+    return _loads_tolerant(text)
+
+
+def _loads_tolerant(text: str) -> dict:
+    """Parse the first complete JSON object out of `text`, ignoring trailing
+    prose. Strict json.loads() raises 'Extra data' when Haiku appends a
+    sentence after the JSON; this finds the first balanced {...} block."""
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        pass
+    start = text.find("{")
+    if start < 0:
+        # No object at all — re-raise the original strict error
+        return json.loads(text)
+    depth = 0
+    in_str = False
+    escape = False
+    for i in range(start, len(text)):
+        ch = text[i]
+        if in_str:
+            if escape:
+                escape = False
+            elif ch == "\\":
+                escape = True
+            elif ch == '"':
+                in_str = False
+            continue
+        if ch == '"':
+            in_str = True
+            continue
+        if ch == "{":
+            depth += 1
+        elif ch == "}":
+            depth -= 1
+            if depth == 0:
+                return json.loads(text[start:i + 1])
+    # No balanced object found — surface a strict error for visibility
     return json.loads(text)
 
 
@@ -445,7 +591,7 @@ def handle_thread_reply(slack_client, event) -> Optional[str]:
     if not (channel_id and thread_ts and user_id and text):
         return None
 
-    info = lookup_record_for_thread(slack_client, channel_id, thread_ts)
+    info = lookup_record_for_thread(slack_client, channel_id, thread_ts, reply_text=text)
     if not info:
         return None
 
@@ -500,7 +646,7 @@ def handle_thread_reply(slack_client, event) -> Optional[str]:
         return body
 
     # Stash and propose
-    _set_pending(thread_ts, {
+    _set_pending(thread_ts, user_id, {
         "state": STATE_AWAIT_CONFIRM,
         "kind": kind,
         "id": info["id"],
@@ -528,15 +674,16 @@ def handle_thread_followup(slack_client, event) -> Optional[str]:
     thread_ts = event.get("thread_ts", "")
     user_id = event.get("user", "")
     text = (event.get("text") or "").strip()
-    pending = _get_pending(thread_ts)
+    pending = _get_pending(thread_ts, user_id)
     if not pending:
         return None
     if not text:
         return None
 
-    # Allow any user in the thread to confirm — not just the original proposer.
-    # Beck may propose, Meredith confirms. (Pending state stores user_id for
-    # audit, but doesn't gate confirm.)
+    # Pending state is now keyed on (thread_ts, user_id) so concurrent proposals
+    # by different users in the same umbrella thread don't collide. The
+    # previous cross-user-confirm pattern (Beck proposes, Meredith confirms)
+    # is sacrificed — each proposer confirms their own.
 
     numbered = "\n".join(
         f"{i+1}. {u['field']} → {_format_value(u['value'])}"
@@ -554,7 +701,7 @@ def handle_thread_followup(slack_client, event) -> Optional[str]:
         return None
 
     if intent == "reject":
-        _clear_pending(thread_ts)
+        _clear_pending(thread_ts, user_id)
         return "Cancelled — no changes made."
 
     if intent == "modify":
@@ -563,7 +710,7 @@ def handle_thread_followup(slack_client, event) -> Optional[str]:
         # We need the record again — load it fresh.
         record = _load_record(pending["kind"], pending["id"])
         if not record:
-            _clear_pending(thread_ts)
+            _clear_pending(thread_ts, user_id)
             return "_(I lost track of the record — try replying again.)_"
         # Reuse the propose path with a synthesized event
         new_event = {
@@ -589,7 +736,7 @@ def handle_thread_followup(slack_client, event) -> Optional[str]:
     # Load the current record and apply
     record = _load_record(pending["kind"], pending["id"])
     if not record:
-        _clear_pending(thread_ts)
+        _clear_pending(thread_ts, user_id)
         return "_(Record disappeared between propose and apply — please retry.)_"
 
     for u in selected:
@@ -621,7 +768,7 @@ def handle_thread_followup(slack_client, event) -> Optional[str]:
     except Exception:
         pass
 
-    _clear_pending(thread_ts)
+    _clear_pending(thread_ts, user_id)
     applied_lines = "\n".join(
         f"  ✓ `{u['field']}` → {_format_value(u['value'])}" for u in selected
     )
