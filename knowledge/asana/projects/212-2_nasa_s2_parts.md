@@ -14,7 +14,7 @@
   - Key Milestones:
     - ⚠️ **April 30, 2026 (design adjustments & parts orders) — STALE/OVERRIDDEN per Maciej (2026-04-27 & 2026-05-04). Nate Straus directed to update Asana to "realistic numbers" post-ByLight meeting and communicate revised schedule to NASA customer immediately.**
     - June 30, 2026 (launcher refurbishment)
-- **Status:** Active — 5 open tasks, 0 completed. **⚠️ CRITICAL: April 30, 2026 due dates are STALE and overridden. Per Maciej (2026-04-27 & 2026-05-04): dates must be revised to "realistic numbers" and communicated to NASA customer (Randy Hobbs/Will Wade) immediately. Action not yet confirmed complete.**
+- **Status:** Active — 5 open tasks, 0 completed. **🔴 CRITICAL: April 30, 2026 due dates are STALE and overridden. Per Maciej (2026-04-27 & 2026-05-04): dates must be revised to "realistic numbers" and communicated to NASA customer (Randy Hobbs/Will Wade) immediately. Action not yet confirmed complete.**
 - **Team Members:** 
   - Nate Straus (project owner — responsible for schedule update & customer communication)
   - Josh Fromm (primary executor — parts and design)
@@ -67,4 +67,4 @@
 
 **April 17, 2026 (Team Corrections — Authoritative):**
 - **Alex Lomis:** Flagged **URGENT** NASA RFI link recommended by NASA folks and Joe on hurricane ET call. **Requires immediate team review and response assessment:** https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
-- **Joshua Fromm:** Raises NDAA compliance uncertainty — "it's still not clear to me the extent of ndaa on parts." S2 
+- **Joshua Fromm:** Raises NDAA compliance uncertainty — "it's still not clear to me the extent of ndaa on parts." S2 scope

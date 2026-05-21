@@ -4,11 +4,11 @@
 
 This channel tracks Black Swift Technologies' grant applications, funding pursuits, and government contracting efforts across federal agencies (NASA, DOD, NOAA, USDA, etc.). It serves as the central hub for proposal submissions, funding strategy discussions, budget development, and award management.
 
-**Key Participants:** Jack Elston (primary decision-maker), Maciej (technical/proposal support), Meredith Needham (budget/administrative), Dan Prendergast (proposal coordination), Beck Cotter (program management), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm, Paige Smith (presentation/logistics support), Arthur (technical partner for payload work), and others contributing to specific proposals.
+**Key Participants:** Jack Elston (primary decision-maker), Maciej (technical/proposal support), Meredith Needham (budget/administrative), Dan Prendergast (proposal coordination), Beck Cotter (program management), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm, Paige Smith (presentation/logistics support), Arthur (technical partner for payload work), Bryan (external contact for Vulcan opportunity), and others contributing to specific proposals.
 
-**Activity Level:** Extremely high throughout the period (March 2024 - May 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Peak intensity continues through May 2026 with multiple concurrent submissions in final coordination and submission phases. Significant external partnerships and customer engagement alongside proposal work.
+**Activity Level:** Extremely high throughout the period (March 2024 - May 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Pace remains intense through May 2026 with rapid sequential submissions and immediate transition to next batch of proposals. Significant external partnerships and customer engagement alongside proposal work.
 
-**Time Range:** March 3, 2024 - May 19, 2026
+**Time Range:** March 3, 2024 - May 21, 2026
 
 ---
 
@@ -81,5 +81,4 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 - **NASA deadlines coordination** (April 27-30, 2026): Clarified multiple concurrent NASA deadlines and staggered submission approach:
   - NASA Aero RFI Responses and SaaS responses: **Due May 7** ✓ **SUBMITTED** (May 9 confirmed received by Jack Elston)
   - NASA Phase II: **Due May 15** ✓ **SUBMITTED** (May 15 confirmed by Beck Cotter)
-  - NASA Phase I: **Due May 21**
-  - DoD submissions (2025.4 cycle): **Due May 23
+  - NASA Phase I: **Due May 21** ✓ **

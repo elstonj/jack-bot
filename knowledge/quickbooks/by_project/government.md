@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $4,387,717.28
-- **Total Expenses (Bills + Purchases):** $1,327,909.53
+- **Total Expenses (Bills + Purchases):** $1,329,258.80
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,059,807.75 (invoiced minus expenses)
+- **Net Position:** $3,058,458.48 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -54,8 +54,8 @@
 
 ## Expenses by Cost Category
 
-### **Materials & Supplies: $466,037.40**
-**Number of transactions:** 189  
+### **Materials & Supplies: $468,370.38**
+**Number of transactions:** 191  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
 - **JAWSTEC:** $19,627.62 (components for S0 platforms)
@@ -75,7 +75,7 @@
 - **Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head** (2026-05-07, Purchase #1288885721): **$479.80** [DIRECT COSTS] + $306.08 [Inventory Asset for future S3 sales]
   - **Direct Cost Materials & Supplies impact: $479.80**
 
-**Recent transactions (2026-05-14 to 2026-05-18):**
+**Recent transactions (2026-05-14 to 2026-05-21):**
 - **Purchase (Amprius Technologies)** (2026-05-14): **$399.00** [DC-Direct Material Purchases]
   - SA504 x 7 (quote #00001876) — Battery systems for Navy SBIR projects
   
@@ -96,7 +96,14 @@
   - $339.13 [DC-Direct Material Purchases]
   - $698.35 [Inventory Asset] — Future S3 Sales
 
-**Total direct cost materials & supplies through 2026-09-28: $466,037.40** *(updated with Northwind composite direct costs: +$3,331.80)*
+- **Wire Transfer (2026-05-20):** **$1,149.61** [DC-Direct Material Purchases]
+  - Servos for aircraft systems
+
+- **Purchase #68821 (2026-05-20):** **$1,183.86** [Mixed allocations]
+  - **$1,034.29 [DC-Direct Material Purchases]**
+  - $149.57 [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]
+
+**Total direct cost materials & supplies through 2026-09-28: $468,370.38** *(updated with 2026-05-20 servo and component purchases: +$2,333.47)*
 
 ---
 
@@ -124,12 +131,4 @@
 ### **Shipping/Freight: $18.60**
 **Number of transactions:** 1  
 **Details:**
-- **FedEx shipment (2026-05-14, Purchase FEDEX37097183):** $18.60 [DC-Direct Cost Shipping, Freight & Delivery]
-  - Amprius Technologies shipment for Navy SBIR project [550-1] (order #11674)
-  - *Note: Additional $79.25 for future S3 sales*
-
----
-
-### **Direct Labor:** $0.00
-**Number of transactions:** 0  
-**Note:** Direct labor appears to be managed through subcontractor allocations (e.g., Ted Miles, MicroFirm Engineering hours). No internal payroll
+- **FedEx shipment (2026-05-14, Purchase FEDEX37097183):** $18

@@ -1,0 +1,40 @@
+{
+  "asana_gid": "1210802645477201",
+  "asana_task_name": "18th Combat Weather - SSgt Garrett Jansen",
+  "customer": "USAF 18th Combat Weather Squadron",
+  "customer_contact": "SSgt Garrett Jansen",
+  "customer_email": "garrett.jansen@us.af.mil",
+  "receive_by": "2026-05-01",
+  "ship_to": "Evan Wolff, 3-3242 Malvesti St, Fort Bragg, NC 28310",
+  "items": [
+    {
+      "description": "S0-AD system",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "estimate_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "USAF 18th Combat Weather Squadron (SSgt Garrett Jansen) initiated contact 7/15/2025 for S0/S0 VTOL atmospheric data collection solutions. Recent Slack activity (5/15\u20135/20/2026) shows two active parallel USAF engagements: (1) WC-130J Weather Squadrons (Russ Evans, NOAA partnership) with facility visit 4/30\u20135/1/2026 and receive_by 2026-05-01; (2) SOCOM (TSgt Evan Wolff, Fort Bragg) S0-AD CRADA for C-130 air-launch demo with receive_by 2026-10-30. Both show estimate sent as of 5/20/2026. Active DoD engagement with clear evaluation pathway.",
+  "missing_fields": [
+    "invoice_date",
+    "invoice_amount",
+    "invoice_number",
+    "parts"
+  ],
+  "last_evidence_date": "2026-05-20"
+}

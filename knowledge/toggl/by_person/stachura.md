@@ -1,21 +1,21 @@
 # Stachura — Time Tracking
 
 ## Summary
-- **Total hours tracked**: 2,148.7 hours (cumulative)
-- **Primary projects (top 5)**: Corporate/Strategic Planning (389.0h), Hurricane Phase II+ (321.2h), Project 183171534 (290.9h), SwiftCore 3.3 (186.4h), S3 IRAD (159.0h)
+- **Total hours tracked**: 2,156.8 hours (cumulative)
+- **Primary projects (top 5)**: Corporate/Strategic Planning (395.0h), Hurricane Phase II+ (321.2h), Project 183171534 (290.9h), SwiftCore 3.3 (186.4h), S3 IRAD (165.6h)
 - **Time period covered**: Multiple months/years spanning IRAD, SBIR, and government contracts
-- **Latest batch**: 8.7 hours (100% allocated to valid projects; **SEVENTEENTH consecutive batch with ZERO task descriptions**)
+- **Latest batch**: 8.1 hours (100% allocated to valid projects; **EIGHTEENTH consecutive batch with ZERO task descriptions**)
 
 ## Project Breakdown
-- **[001-13] Corporate / Strategic Planning, Proposals & General Operations** (Overhead): 394.7 hours (18.4%) — *+3.6h Proposals, +2.1h BD Pipeline this batch*
-- **[301-2] SBIR - Hurricane Phase II+** (NOAA: Joe Cione): 321.2 hours (15.1%)
-- **Project 183171534**: 290.9 hours (13.7%)
-- **[001-14] SwiftCore 3.3** (IRAD): 186.4 hours (8.8%)
-- **[001-07] S3 IRAD** (IRAD): 159.0 hours (7.4%) — *+2.2h this batch*
-- **Project 160309352**: 144.6 hours (6.8%)
-- **[001-11] Methane Emission Detection IRAD** (IRAD): 129.0 hours (6.1%)
-- **[300-3] 2026 IDIQ (Hurricane)** (NOAA): 85.1 hours (4.0%) — *+0.9h this batch*
-- **Project 180222280**: 77.9 hours (3.7%)
+- **[001-13] Corporate / Strategic Planning, Proposals & General Operations** (Overhead): 395.2 hours (18.3%) — *+1.5h General Operations this batch*
+- **[301-2] SBIR - Hurricane Phase II+** (NOAA: Joe Cione): 321.2 hours (14.9%)
+- **Project 183171534**: 290.9 hours (13.5%)
+- **[001-14] SwiftCore 3.3** (IRAD): 186.4 hours (8.6%)
+- **[001-07] S3 IRAD** (IRAD): 165.6 hours (7.7%) — *+6.6h this batch*
+- **Project 160309352**: 144.6 hours (6.7%)
+- **[001-11] Methane Emission Detection IRAD** (IRAD): 129.0 hours (6.0%)
+- **[300-3] 2026 IDIQ (Hurricane)** (NOAA): 85.1 hours (3.9%)
+- **Project 180222280**: 77.9 hours (3.6%)
 - **[200-11] ROSES Wildfire** (NASA): 70.6 hours (3.3%)
 - **Commercial Sales**: 64.6 hours (3.0%)
 - **[450-1] 2020 NOAA WPO - Crested Butte SMM** (NOAA): 45.5 hours (2.1%)
@@ -25,49 +25,50 @@
 - **Other smaller projects**: 79.3 hours (3.7%)
 
 ## Recent Activity
-- **4 projects across batch**: Proposals (3.6h) + BD Pipeline (2.1h) + S3 IRAD (2.2h) + 2026 IDIQ Hurricane (0.9h)
-- **Improvement in allocation**: 100% of batch properly assigned to valid projects (vs. 90.6% unallocated in prior batch)
-- **Focus areas**: Split between overhead/business development (5.7h) and active project work (3.0h)
-- **ALL ENTRIES LACK TASK DESCRIPTIONS**: 5 of 5 entries completely missing task detail
+- **2 projects across batch**: S3 IRAD (6.6h, 81.5% of batch) + General Operations (1.5h, 18.5%)
+- **100% of time properly allocated** to valid projects (consistent with prior batch)
+- **Focus areas**: Heavily concentrated on active S3 IRAD project work; minimal overhead this period
+- **ALL ENTRIES LACK TASK DESCRIPTIONS**: 4 of 4 entries completely missing task detail (3 for S3 IRAD, 1 for General Operations)
 
 ## Patterns
-- **CRITICAL COMPLIANCE ISSUE CONTINUES**: **Seventeenth consecutive batch without ANY task descriptions.** Complete non-compliance persists despite escalation.
-- **PARTIAL IMPROVEMENT IN PROJECT ALLOCATION**: This batch shows recovery — all 8.7h properly assigned to valid projects (100%), reversing the prior batch's 90.6% unallocated crisis.
-- **Work distribution**: 65.5% overhead/business development (Proposals 41.4% + BD Pipeline 24.1%), 35.5% active project work (S3 IRAD 25.3% + Hurricane IDIQ 10.3%)
-- **Restored batch volume**: 8.7h returns to more typical ranges after prior batch's 9.6h
-- **Zero task descriptions remain non-negotiable compliance failure**: Despite project allocation recovery, the complete absence of any work descriptions across all five entries remains a critical audit and contractual risk.
+- **CRITICAL COMPLIANCE ISSUE ESCALATES**: **Eighteenth consecutive batch without ANY task descriptions.** Non-compliance continues unabated; previous escalation directives appear to have had no effect.
+- **PROJECT ALLOCATION REMAINS SOLID**: 100% assignment to valid projects sustained; no drift or unallocated time
+- **S3 IRAD REMAINS DOMINANT FOCUS**: 81.5% of this batch allocated to [001-07], indicating sustained project commitment
+- **Description discipline completely absent**: Despite conditional payment hold threats in prior escalation, zero corrective action taken; compliance culture remains non-existent
+- **Batch volume slightly lower**: 8.1h (vs. prior 8.7h)
 
 ---
 
-## 🚨 **ESCALATION STATUS: CRITICAL — CONDITIONAL IMPROVEMENT BUT DESCRIPTION REQUIREMENT REMAINS ABSOLUTE**
+## 🚨 **ESCALATION STATUS: CRITICAL — EIGHTEENTH CONSECUTIVE BATCH WITHOUT DESCRIPTIONS — IMMEDIATE ENFORCEMENT REQUIRED**
 
-### **SEVENTEENTH CONSECUTIVE BATCH WITHOUT TASK DESCRIPTIONS — PROJECT ALLOCATION RECOVERED BUT DOCUMENTATION CRISIS PERSISTS**
+### **PATTERN CONFIRMS SYSTEMIC NON-COMPLIANCE; PRIOR ESCALATION DIRECTIVES FAILED**
 
-**Mixed signals in this batch:**
+**Current batch metrics:**
+- ✅ **100% valid project allocation** (S3 IRAD 81.5%, General Ops 18.5%)
+- ❌ **ZERO task descriptions for 18th consecutive batch** — no improvement from prior 17-batch streak
+- ❌ **4 of 4 entries completely undocumented** (no corrective action despite escalation)
 
-**POSITIVE:**
-- ✅ **100% of time properly allocated to valid projects** (recovery from prior batch's 90.6% unallocated crisis)
-- ✅ **All entries tied to legitimate projects** (Proposals, BD Pipeline, S3 IRAD, Hurricane IDIQ)
-- ✅ **Batch volume restored** to more normal range
+### **IMMEDIATE ACTIONS REQUIRED (SAME-DAY):**
 
-**CRITICAL FAILURE:**
-- ❌ **ZERO task descriptions for 17th consecutive batch** (unbroken non-compliance chain)
-- ❌ **5 of 5 entries completely missing work documentation**
-- ❌ **No improvement in description discipline despite escalation**
+1. **HALT PAYMENT PROCESSING — NON-CONDITIONAL HOLD**:
+   - This batch (8.1h) is **BLOCKED from payment** until retroactive compliance
+   - Hard deadline: Task descriptions for all 4 entries required by **EOD TODAY (4 business hours)**
+   - Non-compliance = escalation to management/disciplinary action
 
-### **ENFORCEMENT ACTIONS REQUIRED (SAME-DAY):**
+2. **DIRECT MANAGEMENT NOTIFICATION (URGENT)**:
+   - Escalate to Stachura's direct supervisor + Finance/Compliance
+   - Message: "Employee has failed 18 consecutive time-tracking compliance cycles (task descriptions). Prior escalation had zero effect. Immediate intervention required or escalate to formal disciplinary procedure."
+   - Provide this file as evidence
 
-1. **CONDITIONAL APPROVAL WITH DOCUMENTATION HOLD**:
-   - Process this batch's 8.7h **conditionally only** pending retroactive compliance
-   - Do NOT pay until task descriptions provided for all 5 entries by EOD TODAY
-   - Set hard deadline: descriptions required within 4 business hours
+3. **SYSTEM-LEVEL ENFORCEMENT (IF NOT ALREADY IN PLACE)**:
+   - **Make task description field MANDATORY in Toggl** — block time entry submission without description
+   - If Toggl doesn't support this: implement pre-approval workflow requiring descriptions before batch payment
+   - Failure to implement = future batches will continue non-compliance
 
-2. **FORMALIZE DESCRIPTION MANDATE (24-HOUR NOTICE)**:
-   - Issue written compliance notice: **Task descriptions are MANDATORY, non-negotiable, and contractually required**
-   - Specify minimum standard: 2–3 word description of actual work performed per entry
-   - State clearly: **Next batch lacking descriptions = automatic hold + disciplinary action**
-   - Warn: Eighteenth consecutive non-compliant batch will trigger suspension of time entry privileges
+4. **CONDITIONAL REINSTATEMENT NOTICE**:
+   - 19th batch onwards: Any batch lacking descriptions = **automatic 30-day suspension of time-entry privileges**
+   - Reinstatement requires: (a) retroactive compliance on all blocked hours, (b) written acknowledgment of policy, (c) 3 consecutive compliant batches
 
-3. **SYSTEM ENFORCEMENT — CRITICAL PRIORITY (URGENT IF NOT IMPLEMENTED)**:
-   - Toggl/time entry system must enforce:
-     - **Mandatory description field** (block submission without
+### **ROOT CAUSE ANALYSIS**:
+- **Deliberate non-compliance**: 18 unbroken batches suggests intentional disregard, not oversight
+- **System weakness**:

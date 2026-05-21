@@ -63,7 +63,7 @@
     "invoicing": "Meredith",
     "build": "Alex Lomis"
   },
-  "notes": "Invoice #1667 (May 2025, $21,181.81) PAID. Outstanding invoice #1730 (Jan 2026, $2,462.50) remains unpaid. System in active daily flight testing with bug resolution underway (Beck confirmed 2026-03-17); Kevin Adkins confirmed patience with timeline. Customer requesting delivery by August/September 2026 for ISARRA Flight Week campaign (email 2026-05-19). Training planned June 2025. KEEP: QBO paid invoice #1667 + recent substantive email engagement (within 90 days) + future receive_by date.",
+  "notes": "Invoice #1667 (May 2025, $21,181.81) PAID. Outstanding invoice #1730 (Jan 2026, $2,462.50) remains unpaid. System in active daily flight testing with bug resolution underway (Beck 2026-03-17); Kevin confirmed patience. Customer requesting delivery by Aug/Sept 2026 for ISARRA Flight Week (2026-05-19). KEEP: QBO paid invoice #1667 + recent substantive email activity within 90 days + future receive_by date (2026-08-31).",
   "missing_fields": [
     "shipped_date"
   ],

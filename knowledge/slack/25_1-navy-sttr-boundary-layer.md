@@ -57,10 +57,11 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **Maciej**: 
   - Analyze 5 CAT flights with focus on winds using dual GPS heading data (in progress May 6)
   - Work with James Pinto on ISARRA wind data improvements for publication (week of May 6)
-  - Lead Phase II Cal/Val plan development; schedule brief meeting next week (week of May 13)
+  - Lead Phase II Cal/Val plan development; schedule brief meeting (week of May 13)
   - Compile updated CAT files with improved wind estimation techniques
   - Contribute to centralized data folder structure
   - Assess P3 wind measurement discrepancies relative to dropsonde measurements (May 7 investigation)
+  - **Inquiring about attendance at SASCWATCH meeting (May 20, 2026)**
 - **Josh Wadler**: 
   - Post-processed dropsonde data uploaded to shared folder (completed May 6)
   - Streamsonde post-processing: actively working on real-time QC files (TBD)
@@ -78,5 +79,4 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
   - Coordinating data access and organization for analysis
   - **Following up with Paul (NOAA/TDR team) on reprocessing TDR data for better eastern region coverage** (May 10)
   - Gathering P3 altitude information for wind measurement comparison analysis (completed May 18 - confirmed 10,000 ft)
-- **Team**: 
-  - **Progress Report (CLIN0006) due Wednesday, June 3, 
+- **Team**:

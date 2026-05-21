@@ -4,8 +4,8 @@
   "category": "contract",
   "asana_gid": "1208230348100750",
   "name": "UMES S3",
-  "status": "delayed",
-  "status_notes": "CORRECTION 2026-04-20: From Jack: now that the volcano work is pushed back the most important deadline for the s3 is getting one to UMES before the end of May. That's priority number one for <@U014ZL9FLE9>",
+  "status": "active",
+  "status_notes": null,
   "customer": {
     "name": "University of Maryland Eastern Shore",
     "type": "commercial",
@@ -26,10 +26,10 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 17461.25,
+        "amount": 18523.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-20"
+        "last_updated": "2026-05-21"
       },
       "purchases": {
         "amount": 0.0,
@@ -43,13 +43,13 @@
         "confidence": "exact",
         "last_updated": "2026-05-19"
       },
-      "total": 17461.25,
+      "total": 18523.75,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 63844.75,
+    "remaining": 62782.25,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-20T09:00:42Z"
+    "last_reconciled": "2026-05-21T09:10:00Z"
   },
   "milestones": [
     {
@@ -92,24 +92,6 @@
   "risks": [],
   "overrides": [
     {
-      "source": "CORRECTION",
-      "author": "Jack",
-      "date": "2026-04-20",
-      "text": "From Jack: now that the volcano work is pushed back the most important deadline for the s3 is getting one to UMES before the end of May. That's priority number one for <@U014ZL9FLE9>"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Jack",
-      "date": "2026-04-20",
-      "text": "From Jack (ts=1776706257.063699): <@U014U9WMK2A> - I'd probably add that the highest priority due to lead time, etc. is getting that S3 together for UMES.   We need to make whatever changes we feel are necessary to the design and get that going (if we haven't already).  Also, I believe we need to do another run of PCB's so there's some risk there.   From what <@U06KRHPQSRH> says that opportunity runs out end of May."
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Jack",
-      "date": "2026-04-20",
-      "text": "From Jack: <@U014U9WMK2A> - I'd probably add that the highest priority due to lead time, etc. is getting that S3 together for UMES.   We need to make whatever changes we feel are necessary to the design and get that going (if we haven't already).  Also, I believe we need to do another run of PCB's so there's some risk there.   From what <@U06KRHPQSRH> says that opportunity runs out end of may."
-    },
-    {
       "source": "FEEDBACK",
       "author": "Maciej",
       "date": "2026-04-24",
@@ -122,6 +104,6 @@
       "text": "From Maciej (ts=1777067599.182059): <@U0AQE94HJUT> our highest priority projects right now are: (1) S3 IRAD with a targeted delivery of end of May for the UMES S3, (2) S0-VTOL with two deliveries for ERAU and Barbados, (3) Closing out EMASS, (4) By-Lite Mustang, and (5) Initial tasks on the SBIR Magnetometer project. How are we looking on overdue tasks for those?"
     }
   ],
-  "last_full_rebuild": "2026-05-20T09:00:42Z",
+  "last_full_rebuild": "2026-05-21T09:10:00Z",
   "last_incremental_update": null
 }

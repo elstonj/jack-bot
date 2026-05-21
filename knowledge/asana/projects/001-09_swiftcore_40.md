@@ -4,9 +4,14 @@
 - **Client/Customer**: Internal BST development project
 - **Dollar Value**: Not specified
 - **Timeline**: Started January 19, 2015 - ongoing development project with no defined end date
-- **Status**: Active but low priority. **DISCREPANCY ALERT**: Asana shows 165 open tasks with 0 completions as of the raw data snapshot (appears to be from Nov 2023 or earlier), conflicting with earlier knowledge file reporting 0 open/3 completed as of April 9, 2026. The raw data is stale. Current actual status unknown pending clarification.
+- **Status**: **ACTIVE BUT STALE DATA**. Raw Asana snapshot shows 165 open tasks, 0 completions (appears to be Nov 2023 or earlier). Earlier knowledge file from April 9, 2026 reported 0 open/3 completed (UAVCAN support, multi-vehicle ground station analysis, GPS time/declination tracking). **Team feedback (May 2026) from Daniel Prendergast directs all new software issues to SwiftCore 3.3 project, not 4.0**, suggesting SwiftCore 4.0 is not the active development branch. **Current actual status unknown—requires clarification from Jack Elston.**
 - **Team Members**: Jack Elston (project owner/primary contributor), Maciej Stachura (flight control systems), Ben Busby (ground station/tablet development)
-- **Risk Signals**: Large unmanaged backlog (165 open tasks); no due dates on any tasks; last official status update November 28, 2023 (stale); data consistency issues suggest project tracking may have diverged from actual development state
+- **Risk Signals**: 
+  - Data consistency conflict (Nov 2023 snapshot vs. Apr 2026 active phase)
+  - Large unmanaged backlog (165 open tasks); no due dates on any tasks
+  - Last official status update November 28, 2023 (stale)
+  - Team is routing new software issues to **SwiftCore 3.3**, not 4.0, per Daniel Prendergast (May 2026)
+  - Possible project pivot or deprecation in favor of 3.3 branch
 
 ## Key Deliverables & Milestones
 Major architectural improvements (all unassigned, no due dates):
@@ -16,8 +21,8 @@ Major architectural improvements (all unassigned, no due dates):
 - **SBC Autopilot companion** - Single board computer integration
 - **New GCS** - Ground control station redesign
 - **MAVLink support** - Industry standard protocol integration
-- **UAVCAN support** - CAN bus communication protocol *(marked complete 2026-04-09 in earlier data)*
-- **Multi-vehicle support** - Control multiple aircraft simultaneously *(partial completion noted 2026-04-09)*
+- **UAVCAN support** - *(marked complete April 9, 2026 in earlier data; assigned Jack Elston)*
+- **Multi-vehicle support** - *(partial completion noted April 9, 2026; assigned Jack Elston)*
 - **User authentication** - Security and access control
 - **Automated log file handling and OTA firmware updates** - Remote maintenance capabilities
 - **Full Geofencing Support** - No-fly zone enforcement
@@ -40,20 +45,25 @@ Major architectural improvements (all unassigned, no due dates):
   - Project notes include Gantt data references (start dates 2015-01-19 and 2014-12-29) but no structured timeline
 
 ## Recent Activity
-**Raw Asana data is stale** (appears to be Nov 2023 snapshot). Earlier knowledge file indicates:
-- Three tasks completed on April 9, 2026 (UAVCAN support, multi-vehicle ground station analysis, GPS time/declination tracking) — all assigned to Jack Elston
-- Last official status update: November 28, 2023 ([green] status, zero completions reported at that time)
+**Raw Asana data is stale** (appears to be Nov 2023 snapshot). 
 
-**Team feedback** (May 2026) from Daniel Prendergast references post-flight process forms and "Fleet Maintenance" project but does not directly address SwiftCore 4.0 status.
+**Earlier activity (April 9, 2026)**: Three tasks completed—all assigned to Jack Elston:
+  - UAVCAN support
+  - Multi-vehicle ground station analysis
+  - GPS time/declination tracking
+
+**Team Direction Change (May 2026)**: Daniel Prendergast explicitly directs team members to **add new software issues to SwiftCore 3.3 project**, not 4.0. Quote: *"For software issues that just adds a task to the SwiftCore 3.3 project like you've always been doing."* (May 14 & 15, 2026)
+
+**Last official Asana status update**: November 28, 2023 ([green] status, zero completions reported at that time)
 
 ## Notes & Context
 
-### Data Consistency Issues
-- **Critical Discrepancy**: Raw Asana data shows 165 open/0 completed; earlier knowledge file (apparently from May 2026) shows 0 open/3 completed. This suggests either:
-  - Asana data export is stale and does not reflect actual project state
-  - Project was archived or major backlog purge occurred between Nov 2023 and Apr 2026
-  - Duplicate projects or data sync failure
-  - **Recommendation**: Request current Asana project export or clarify with Jack Elston on actual backlog status
+### Critical Data Discrepancy & Team Directive
+- **Raw Asana shows 165 open/0 completed** (Nov 2023 snapshot)
+- **Earlier data shows 0 open/3 completed** (April 9, 2026)
+- **Team is now directing new work to SwiftCore 3.3**, not 4.0 (Daniel Prendergast, May 2026)
+
+**Interpretation**: SwiftCore 4.0 appears to be **archived or deprioritized** in favor of SwiftCore 3.3 as the active development branch. Asana backlog is aspirational/legacy. New development should be tracked in SwiftCore 3.3.
 
 ### Project Scope & Technical Focus
 - **Comprehensive next-generation autopilot** covering flight control, ground station, and tablet interfaces
@@ -89,12 +99,12 @@ Major architectural improvements (all unassigned, no due dates):
 
 ### Priority & Status Assessment
 - **Priority Level**: Low (custom field)
-- **Actual Status**: Unclear. Raw Asana snapshot is stale. If April 2026 data is current, project has shifted from long-term backlog to active completion phase with focus on multi-vehicle systems and communications protocols. If raw Asana data is current, project is in large backlog state with minimal execution.
-- **Owner Activity**: Jack Elston remains primary active contributor; April 2026 completions all assigned to him.
+- **Actual Status**: **DEPRECATED/ARCHIVED** per team directive (May 2026). SwiftCore 3.3 is now the active development branch. This project should be treated as a legacy aspirational backlog, not active work.
+- **Owner**: Jack Elston (formal owner), but active development has shifted to SwiftCore 3.3
+- **Resource Allocation**: Minimal; feature backlog with 11-year timeline and zero due dates
 
 ### Recommendations for AI Assistant
-- **Verify current status** before making prioritization decisions—this project has conflicting data points (Nov 2023 stale snapshot vs. Apr 2026 active phase)
-- Treat 165-task list as aspirational backlog; actual in-flight work likely much smaller
-- Jack Elston is authoritative source for current roadmap priorities
-- Assume low resource allocation given "Low" priority flag and 11-year development timeline
-- Multi-vehicle support appears to be active focus area (April 2026 completions)
+- **Do NOT prioritize SwiftCore 4.0 tasks**—team is now routing all new work to SwiftCore 3.3 (Daniel Prendergast, May 2026)
+- Treat 165-task list as **legacy aspirational backlog**, not active work queue
+- When questions arise about autopilot development priorities, redirect to **SwiftCore 3.3 project** as the active development branch
+- Jack Elston

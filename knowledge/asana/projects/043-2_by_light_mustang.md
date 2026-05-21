@@ -6,9 +6,9 @@
 - **Address:** 8484 Westpark Dr. Ste. 600, McLean, VA 22102
 - **Dollar Value:** $450,000 total budget; $450,000 funding to Black Swift
 - **Timeline:** Started 2025-10-06; Marked complete 2025-12-31 (original due date 2025-12-05)
-- **Status:** **ARCHIVED/DELIVERY COMPLETE** — Core project deliverables finished Dec 31, 2025. **Outstanding contractual work remains:** Per Jack (2026-04-30), "we still owe 2 more flight opportunities." Per Maciej (2026-04-30), By-Lite is **Priority 4 among active projects** (after S3 IRAD, S0-VTOL, EMASS closeout). **Blocker:** New fuselage arrival required before next test flights can be scheduled; no imminent deployment or mission prep. **EXTENSION CONFIRMED (2026-05-05):** Per Ethan, "ByLight project timeline has been extended due to cancellation of a demo in India." Asana tasks and timelines updated to realistic numbers.
+- **Status:** **ARCHIVED/DELIVERY COMPLETE** — Core project deliverables finished Dec 31, 2025. **Outstanding contractual work remains:** Per Jack (2026-04-30), "we still owe 2 more flight opportunities." **Critical Blocker:** New fuselage arrival required before next test flights can be scheduled. Per Maciej (2026-04-30): "there won't be any test flights next week or until we get that new fuse so they're aware that it's them causing the delay." **EXTENSION CONFIRMED (2026-05-05):** Per Ethan, "ByLight project timeline has been extended due to cancellation of a demo in India." Asana tasks and timelines updated to realistic numbers.
 - **Team Members:** Maciej Stachura (owner), Ethan Domagala, Nate Straus, Meredith O'hara Needham
-- **Priority:** High
+- **Priority:** High (Rank 4 among active projects as of 2026-04-30: S3 IRAD #1, S0-VTOL #2, EMASS closeout #3, By-Lite #4, SBIR Magnetometer #5)
 - **Product/Service:** Design/prototyping; Consulting
 
 ## Key Deliverables & Milestones
@@ -34,7 +34,10 @@ All invoicing milestones completed and paid; core delivery 26 days past original
   - **Nate Straus:** 1 completed (final assembly)
   - **Unassigned:** 9 completed (milestones and administrative tasks)
 
-- **Open Tasks (3):** Contact/vendor records only (Bryan Sparling, Spencer Lisenby/DSKinetic LLC, D. Hesselius/Rocky Mountain High Aviation). These are archived reference entries, not active deliverables.
+- **Open Tasks (3 — Contact/Vendor Reference Records Only):**
+  - Bryan Sparling (ByLight contact record)
+  - DSKinetic LLC / Spencer Lisenby (pilot services subcontractor)
+  - Rocky Mountain High Aviation / D. Hesselius (drone pilot subcontractor)
 
 ## Recent Activity
 - **Project Marked Complete:** 12/31/2025 (26 days past original 12/5 due date)
@@ -47,7 +50,7 @@ All invoicing milestones completed and paid; core delivery 26 days past original
 - **All Milestone Invoices Processed:** 10/14, 11/3, 11/24, 12/17
 
 - **Post-Completion Activity (April–May 2026):**
-  - **2026-04-30 (Jack & Maciej):** Confirmed "2 more flight opportunities" still contractually owed. Customer has SWIL setup ready to test their own controller; flight data delivered 2026-04-30. **Next test flights blocked pending new fuselage arrival. No test flights will happen until new fuselage is delivered.**
+  - **2026-04-30 (Jack & Maciej):** Confirmed "2 more flight opportunities" still contractually owed. Customer has SWIL setup ready to test their own controller; flight data delivered 2026-04-30. **Next test flights blocked pending new fuselage arrival. Maciej (2026-04-30): "there won't be any test flights next week or until we get that new fuse so they're aware that it's them causing the delay."**
   - **2026-04-30 (Maciej):** By-Lite ranked **Priority 4** among active projects (1=S3 IRAD, 2=S0-VTOL, 3=EMASS closeout, 4=By-Lite Mustang, 5=SBIR Magnetometer).
   - **2026-04-27 (Maciej):** Directed Ethan: "after your meeting with ByLight let's update the due dates in Asana to realistic numbers and let them know."
   - **2026-05-05 (Ethan):** **Timeline extended.** "ByLight project timeline has been extended due to cancellation of a demo in India. Furthermore. The 'yellow version' project has been clarified and asana tasks and timelines have been updated accordingly."
@@ -58,13 +61,13 @@ All invoicing milestones completed and paid; core delivery 26 days past original
   - DSKinetic LLC (Spencer Lisenby, spencer@dskinetic.com, 310-697-9624) — pilot services
   - Rocky Mountain High Aviation (D. Hesselius, dhesselius@hotmail.com) — drone pilot services
 - **Key Outputs:** Flight data analysis, prototype aircraft (Mustang 2, Stock Chilli variants), propeller optimization testing, power/range/endurance performance reports
-- **Timeline Variance:** 26-day delay from original 12/5 due date; all major milestones tracked on schedule through December; final validation and demo flights extended into late December.
+- **Timeline Variance:** 26-day delay from original 12/5 due date; all major milestones tracked on schedule through December; final validation and demo flights extended into late December. **India demo cancelled (May 2026); timeline extended per Ethan.**
 - **Billing Structure:** Four milestone invoices tied to effort phases ($100k each for Weeks 1, 2-4, 5-7; $50k for Weeks 8-9)
 - **Outstanding Contractual Work (April–May 2026):**
   - **2 additional flight opportunities** still owed to By-Lite per original contract
   - Customer ready to test their own DoD autopilot controller using SWIL setup
-  - **Critical Blocker:** New fuselage arrival required before next test flight window (per Maciej 2026-04-30: "there won't be any test flights next week or until we get that new fuse so they're aware that it's them causing the delay")
+  - **Critical Blocker (Maciej, 2026-04-30):** New fuselage arrival required before next test flight window; "there won't be any test flights next week or until we get that new fuse so they're aware that it's them causing the delay"
   - No imminent deployment, shipping, or mission prep
   - **Timeline Extended (2026-05-05, Ethan):** India demo flight cancelled; "yellow version" project clarified. Asana due dates updated to realistic numbers.
 
-**Project successfully delivered core design, prototype, and flight testing objectives. Post-delivery flight opportunities in queue, pending new fuselage equipment. By-Lite remains active priority (Rank 4, April 2026). All Asana task dates reflect extended timeline post-India demo cancellation (May 2026).**
+**Project successfully delivered core design

@@ -48,25 +48,25 @@ The project required extensive regulatory coordination and stakeholder managemen
 
 ---
 
-## ⚠️ Related Active Projects (as of April–May 2026)
-Per team feedback (Meredith Needham, Maciej Stachura, Jack Elston), the following are **separate active projects** — do not conflate with this archived Fire UTM Phase I work:
+## Related Active Projects (as of May 2026)
+Per team feedback, these are **separate active projects**:
 
 ### Navy SBIR Magnetometer
-- **Kick-off Date**: April 22, 2026 (per Maciej Stachura, 2026-04-22)
+- **Kick-off Date**: April 22, 2026 (per Maciej Stachura)
 - **Technical Lead**: U058LGYMEQ0
-- **Key Deadline**: FWA Certification due April 14, 2026 (managed by Meredith Needham)
-- **Status**: Mostly on schedule (per Maciej Stachura, 2026-05-06)
+- **Status**: Mostly on schedule (per Jack Elston, May 8, 2026; Maciej Stachura, May 6, 2026)
 - **Deliverables**: Kick-off presentation template and report templates available in Asana; Award Deliverable Templates at https://navysbir.com/links_forms.htm
 - **Note**: Requires prominent display of company name and business information on all reports/cover pages per Navy requirements
+- **Priority Rank**: #5 among current projects (per Maciej Stachura, April 30, 2026)
 
 ### Navy STTR
-- **Submission Date**: April 17, 2026 (submitted alongside invoice, per Meredith Needham, 2026-04-17)
-- **Priority Status**: **HIGH PRIORITY** — has priority over SBIR Magnetometer work (per Jack Elston, 2026-05-08; Maciej Stachura, 2026-05-06)
+- **Submission Date**: April 17, 2026
+- **Priority Status**: **TOP PRIORITY** — takes priority over Navy SBIR Magnetometer (per Jack Elston, May 8, 2026; Maciej Stachura, May 6, 2026)
 - **Status**: Under active development; task updates ongoing in Asana
 
-### Current Priority Projects (as of April 30, 2026)
-Per Maciej Stachura (2026-04-30) and Jack Elston (2026-05-08):
-1. **Navy STTR** — **Top Priority**
+### Current Priority Project Ranking (as of April 30–May 8, 2026)
+Per Maciej Stachura (April 30, 2026) and Jack Elston (May 8, 2026):
+1. **Navy STTR** — **Top Priority** (Jack Elston correction, May 8, 2026)
 2. **S3 IRAD** — Targeted delivery end of May for UMES S3
 3. **S0-VTOL** — Two deliveries for ERAU and Barbados
 4. **EMASS** — Closing out

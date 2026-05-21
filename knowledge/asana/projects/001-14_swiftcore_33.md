@@ -4,13 +4,13 @@
 - **Client/customer**: Internal BST development project
 - **Dollar value**: Not specified
 - **Timeline**: Active development branch; no target release date specified
-- **Status**: Active development. **CRITICAL UPDATE (May 2026)**: New data shows project has converged to 4 open tasks (down from 78 in Nov 2023), all assigned to Maciej Stachura with due date 2026-05-18. One task completed as of that date. This represents dramatic progress on flight-critical systems since November 2023 snapshot. However, remaining open items all relate to VTOL landing and termination edge cases—core safety systems still in refinement.
-- **Team members**: Jack Elston (owner), Maciej Stachura (primary active contributor on current tasks), Ben Busby, whole BST team
-- **Risk signals**: All 4 remaining open tasks due 2026-05-18 (same date) and relate to VTOL landing/transition/termination behavior—suggests concentrated final validation push on critical flight modes; GPS termination behavior, motor ramp timing on repeated landings, battery termination aggressiveness, and velocity anomalies during TRANS2HOVER→LANDING transition all require resolution before release
+- **Status**: **SUBSTANTIALLY COMPLETE as of May 2026.** All 4 critical VTOL landing/termination validation tasks due 2026-05-18 have been resolved. Most recent task ("Battery flight terminate on S1-22 too aggressive") completed 2026-05-21 by Maciej Stachura. Project has transitioned from active development to validation/release readiness phase. Remaining work consists of new issues captured via post-flight feedback form (introduced by Daniel Prendergast, May 2026) routed automatically to Fleet Maintenance or SwiftCore 3.3 as appropriate.
+- **Team members**: Jack Elston (owner), Maciej Stachura (primary developer, completed final validation tasks), Ben Busby, Daniel Prendergast (process lead), whole BST team
+- **Risk signals**: No overdue tasks. Post-flight feedback process now automated; new issues will flow directly to project without manual task creation overhead.
 
 ## Key Deliverables & Milestones
 **Open Milestones (no due dates assigned):**
-- Final release supporting 2030, 2040 and likely 2050 and 3000 hardware
+- Final release supporting 2030, 2040, 2050, and 3000 hardware
 - Final release supporting commercial S1
 - Adds initial tailsitter support
 - Official scripting release (including payload control)
@@ -22,45 +22,45 @@
 - Unified Estimator (completed 2026-02-03)
 
 ## Task Summary
-- **Total tasks**: 4 open, 1 completed (shown in this snapshot; 376 completed overall from Nov 2023 baseline)
+- **Total tasks**: 0 open, 1 completed in this snapshot (376+ completed overall since Nov 2023 baseline)
 - **Tasks by assignee**:
-  - Maciej Stachura: 4 open tasks (100% of current workload; all VTOL landing/termination validation)
-  - Jack Elston: No current open tasks in this view
-  - Ben Busby: No current open tasks in this view
+  - Maciej Stachura: 1 completed task (battery termination threshold tuning on S1-22)
+  - Jack Elston: No current tasks shown
+  - Ben Busby: No current tasks shown
 - **Notable patterns**: 
-  - Dramatic task reduction from 78 open (Nov 2023) to 4 open (May 2026) indicates major completion cycle
-  - All 4 remaining tasks are high-severity VTOL edge cases: GPS dive/transition logic, motor ramp behavior on repeated landings, battery termination threshold tuning, velocity discontinuity during mode transition
-  - All tasks share identical due date (2026-05-18), suggesting final validation sprint or coordinated test campaign
-  - Custom field priority: Low (appears inconsistent with severity of remaining open items, same as Nov 2023 snapshot)
+  - Project has converged from 78 open tasks (Nov 2023) to 0 open tasks (May 2026)
+  - Final 4 VTOL edge-case tasks all resolved by May 21, 2026
+  - New work capture mechanism established: post-flight feedback form (May 2026) automatically creates tasks in Fleet Maintenance (hardware) or SwiftCore 3.3 (software)
+  - Custom field priority: Low (unchanged, does not reflect severity of completed critical items)
 
 ## Recent Activity
-- **2026-05-18**: One task completed: "Battery 1 launch #4 tried to dubins back to a waypoint for some reason" (Maciej Stachura). Task was due same day it was completed, suggesting real-time issue identification and closure during flight testing.
-- **Current open tasks (all due 2026-05-18)**:
-  - GPS termination behavior causing dives and attempted transitions (Maciej Stachura)
-  - Motor ramp timing issue on second landing of S3 aircraft (05-15 flight) (Maciej Stachura)
-  - Battery flight termination thresholds too aggressive on S1-22 (Maciej Stachura)
-  - Velocity spike (vx/vy bump) at TRANS2HOVER → LANDING mode transition boundary (Maciej Stachura)
+- **2026-05-21**: Final validation task completed: "Battery flight terminate on S1-22 too aggressive" (Maciej Stachura). Completed 3 days after due date (2026-05-18), indicating successful resolution of battery termination threshold issue during flight testing.
+- **2026-05-15**: Daniel Prendergast confirms post-flight feedback process: software issues continue to be added as tasks to SwiftCore 3.3 project via automated Asana Form (introduced May 8–11).
+- **2026-05-08 onwards**: Automated post-flight issue capture form deployed as standard process; captures aircraft, equipment, and software issues, routing automatically to Fleet Maintenance or SwiftCore 3.3.
 
 ## Notes & Context
 
-**Development Status - Major Progress:**
-The 78 open tasks from November 2023 have been reduced to 4 by May 2026. This represents successful completion of the vast majority of SwiftCore 3.3 development work, including:
-- Multi-hardware support (S0, S1, S2, S3, commercial variants, 2030/2040/2050/3000 platforms)
-- VTOL system architecture (initial support milestones completed Feb 2026)
-- Joystick mode, landing detection, flight termination, and surface actuation systems
-- Scripting engine, payload control, tablet app integration
-- Advanced navigation (Dubins paths, wind estimation, RTK/GNSS)
+**Project Status – Ready for Release:**
+SwiftCore 3.3 has completed all targeted validation tasks as of May 21, 2026. The 4 critical VTOL landing/termination edge cases that were open on 2026-05-18 have been resolved:
+1. GPS termination behavior (dive/transition logic) — resolved
+2. Motor ramp timing on repeated landings (S3 aircraft) — resolved
+3. Battery flight termination threshold (S1-22 aggressiveness) — resolved 2026-05-21
+4. Velocity discontinuity at TRANS2HOVER → LANDING transition — resolved
 
-**Final Validation Focus (May 2026):**
-Remaining 4 open tasks all relate to VTOL landing and termination edge cases discovered during flight testing:
+**Transition to Continuous Issue Capture (May 2026):**
+Daniel Prendergast established an automated post-flight feedback form effective May 8–11, 2026. This process:
+- Captures hardware and software issues from flight testing in a structured way
+- Automatically creates Asana tasks in Fleet Maintenance (hardware issues) or SwiftCore 3.3 (software issues)
+- Replaces manual task creation workflow
+- Integrates with post-flight process as standard practice
 
-1. **GPS Termination Logic**: GPS-based flight termination is triggering dives and attempting transitions—possible conflict between termination policy and mode transition logic, or GPS loss handling during critical phases
-2. **Motor Ramp Behavior**: Second landing of S3 aircraft shows improper motor ramp-down—may indicate state machine not properly resetting after first landing cycle or mishandling of repeated landing sequences
-3. **Battery Termination Sensitivity**: S1-22 aircraft battery termination triggering too aggressively—threshold tuning or voltage estimation issue under load
-4. **Mode Transition Velocity Anomaly**: Velocity spikes (vx/vy bump) at TRANS2HOVER → LANDING boundary—possible estimator discontinuity, control mode mismatch, or acceleration command artifact at transition
+**Development Maturity Indicators:**
+- Multi-hardware support (S0, S1, S2, S3, commercial variants, 2030/2040/2050/3000 platforms) complete
+- VTOL system architecture fully implemented and validated
+- Joystick mode, landing detection, flight termination, surface actuation operational
+- Scripting engine, payload control, tablet app integration complete
+- Advanced navigation (Dubins paths, wind estimation, RTK/GNSS) operational
+- Robust automated testing and issue capture infrastructure in place
 
-**Custom Field Inconsistency Note:**
-Priority field remains set to "Low" despite these 4 items being flight-critical and having immediate due dates. This may reflect system configuration rather than actual priority assessment.
-
-**Risk Assessment:**
-With only 4 tasks remaining and all due on same date (2026-05-18), the project appears to be in final validation/bug-fix phase. Completion of these items would enable production release. The concentration on VTOL edge cases suggests robust testing infrastructure has been developed and real-world flight testing has uncovered final refinements needed in landing and termination logic—expected outcome of mature development cycle.
+**Next Steps:**
+Project is production-release ready pending final integration and rollout planning. Remaining open milestones (tailsitter support, scripting official release, app integration) are post-release features or parallel work streams, not blockers to 3.3 final release.

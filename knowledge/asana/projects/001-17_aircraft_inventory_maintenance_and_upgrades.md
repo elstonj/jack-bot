@@ -63,6 +63,6 @@
 - Extensive supplier relationships (Hacker Motors, SKB cases, Lee for cost updates)
 
 **Ongoing fleet processes (as of May 2026):**
-- Daniel Prendergast introduced a post-flight issue reporting form (May 2026) that automatically routes aircraft and equipment issues to either the "Fleet Maintenance" Asana Project (hardware) or equivalent project for other issue types. This has become part of standard BST post-flight procedures.
+- Daniel Prendergast introduced a post-flight issue reporting form (May 8–11, 2026) that automatically routes aircraft and equipment issues to either the "Fleet Maintenance" Asana Project (for hardware issues) or equivalent projects for other issue types. This has become part of standard BST post-flight procedures.
 
-**Status:** Project successfully concluded with all deliverables completed. No outstanding development work. Future maintenance tracked through separate Fleet Maintenance workflow.
+**Status:** Project successfully concluded with all deliverables completed. No outstanding development work. Future maintenance and post-flight issues tracked through separate Fleet Maintenance workflow (established May 2026).

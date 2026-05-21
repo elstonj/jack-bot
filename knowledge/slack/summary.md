@@ -1,55 +1,68 @@
 # Slack Channels Overview
 
-Last scanned: 2026-05-20 02:16
+Last scanned: 2026-05-21 02:20
 
-Total channels scanned: 9
+Total channels scanned: 7
 
 ## Channels
 
-- **#commercial-sales** -- 1 messages -- [commercial-sales.md](commercial-sales.md)
-- **#emass** -- 1 messages -- [emass.md](emass.md)
-- **#emass-bst** -- 2 messages -- [emass-bst.md](emass-bst.md)
-- **#general** -- 5 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 6 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#s0-vtol** -- 4 messages -- [s0-vtol.md](s0-vtol.md)
-- **#s3** -- 23 messages -- [s3.md](s3.md)
-- **#sbir-volcano** -- 1 messages -- [sbir-volcano.md](sbir-volcano.md)
-- **#swiftcore** -- 4 messages -- [swiftcore.md](swiftcore.md)
+- **#25_1-navy-sttr-boundary-layer** -- 1 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
+- **#commercial-sales** -- 6 messages -- [commercial-sales.md](commercial-sales.md)
+- **#emass-bst** -- 19 messages -- [emass-bst.md](emass-bst.md)
+- **#general** -- 1 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 14 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#s3** -- 16 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 6 messages -- [sbir-hurricane.md](sbir-hurricane.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Strategic Channel Overview
+# Black Swift Technologies - Strategic Slack Overview
+
+## Active Projects
+
+**Core Aircraft Platforms:**
+- **S0/S0-VTOL**: Hurricane reconnaissance UAS (SBIR-funded), primary focus for atmospheric missions
+- **S3**: Long-endurance VTOL hybrid aircraft (2-3 hr endurance), tilting rotor design
+- **E2**: Energy management integration platform (eMASS AI collaboration)
+- **E2, S2**: Commercial sales and delivery pipeline
+
+**Government Contracts:**
+- SBIR Hurricane project (extensive, multi-year)
+- Navy STTR boundary layer measurement initiative
+- Multi-agency grant pursuits (NASA, DOD, NOAA, USDA)
+
+## Key People & Roles
+
+| Person | Primary Functions |
+|--------|------------------|
+| Jack Elston | Leadership, systems architecture, funding decisions, autopilot expertise |
+| Joshua Fromm | Lead aircraft designer/engineer (S0, S3) |
+| Maciej | Project oversight, technical support, proposal development, control systems |
+| Dan Prendergast | Business development, operations, proposals |
+| Beck Cotter | Testing, boundary layer project lead |
+| Meredith Needham | Budget/admin, Navy liaison |
+| Sam Hild | Firmware development |
+| Danny Troke | Operations/mission planning |
 
 ## Cross-Channel Themes
 
-### **Active Projects**
-- **Aircraft Platforms**: S0/S0-VTOL, S2, S3, E2 development and deployment
-- **SBIR Volcanic Monitoring**: NASA-funded volcanic emission research using S2/S3 aircraft with USGS collaboration
-- **eMASS AI Integration**: Custom ML chip integration onto E2 platform for flight efficiency improvements
-- **SwiftCore System**: Core drone firmware, control systems, and tablet application ecosystem
+1. **Hardware-Software Integration**: Recurring coordination between aircraft platforms (S0, S3, E2) and firmware/autopilot teams across channels
+2. **Government Funding Focus**: SBIR/STTR programs drive project roadmaps; grant strategy central to company growth
+3. **Atmospheric Sensing**: Weather/hurricane missions unite #sbir-hurricane and #25_1-navy-sttr-boundary-layer around sensor payload development
+4. **Commercial Viability**: #commercial-sales shows practical delivery of prototypes while government channels focus on R&D
 
-### **Key Decision-Makers & Roles**
-- **Jack Elston**: Technical leadership, systems architecture, firmware, strategic decisions across projects
-- **Dan Prendergast**: Business development, operations, proposal management
-- **Joshua Fromm**: Lead aircraft designer (S3, S0)
-- **Maciej**: Technical oversight, testing, control systems, proposal support
-- **Meredith Needham**: Budget and administrative coordination
+## Decision Patterns
 
-### **Decision Patterns**
-1. **Technical decisions** flow through Jack Elston with input from project-specific leads (Fromm for airframes, Hild for firmware)
-2. **Funding/grants strategy** centralized in #grants-and-funding with Jack as primary decision-maker
-3. **Commercial execution** managed through #commercial-sales coordinating across platform teams
-4. **Hardware integration projects** (#emass, #emass-bst) require cross-functional coordination between BST and external partners
+- **Jack Elston** serves as primary decision authority for funding and strategic direction
+- **Proposals/grants** require cross-functional input (technical + budget) before submission
+- **Integration projects** (eMASS, Navy STTR) managed through dedicated channels with external partners
+- Technical decisions documented in aircraft-specific channels (#s3, #sbir-hurricane)
 
-### **Recurring Topics**
-- Flight testing coordination and hardware debugging
-- Firmware updates and firmware-hardware compatibility
-- Customer delivery timelines and payload integration
-- Grant proposal development and funding pursuit
-- AI/ML system optimization and integration challenges
+## Recurring Topics
 
-### **Cross-Channel Connections**
-- **Platform Integration**: SwiftCore firmware (#swiftcore) deployed across multiple aircraft (#s0-vtol, #s3)
-- **Commercial Execution**: Aircraft development channels (#s3, #s0-vtol) feed into #commercial-sales for customer delivery
-- **Funding Pipeline**: Projects in #sbir-volcano, #emass feed into grant proposals tracked in #grants-and-funding
-- **Technical Bottlenecks**: Firmware (Jack Elston) and hardware integration (Maciej, Ethan) are shared constraints across multiple concurrent projects
+- Aircraft performance specifications and testing results
+- Payload integration and sensor capabilities
+- Federal grant timelines and submission deadlines
+- Operational mission planning and weather conditions
+- Firmware updates and autopilot refinement
+- Customer orders and delivery schedules
