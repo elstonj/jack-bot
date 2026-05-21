@@ -391,6 +391,32 @@ def _phase_line(b: "Build") -> str:
     return "*Phase:* " + " · ".join(parts)
 
 
+def _why_still_active(b: "Build") -> str:
+    """Short callout explaining why a build is still on the daily digest.
+
+    Built specifically for the case where the obvious-from-phase reason is
+    insufficient — e.g. the build has been delivered but payment is still
+    outstanding, which a reader scanning the phase line might miss. Returns
+    an empty string when the phase line already tells the whole story
+    (in-progress builds).
+    """
+    if b.ship_state != "delivered":
+        return ""  # phase line ('in assembly', 'awaiting pickup', etc.) is the reason
+    # Delivered builds reach this card only because payment is still open
+    # (the active-filter drops paid-and-delivered records immediately). Spell
+    # out what's needed.
+    inv_bits = []
+    if b.invoice_number:
+        inv_bits.append(f"#{b.invoice_number}")
+    if b.invoice_amount:
+        inv_bits.append(f"${b.invoice_amount:,.2f}")
+    inv_str = (" " + " ".join(inv_bits)) if inv_bits else ""
+    return (
+        f":hourglass_flowing_sand: *Still on digest:* awaiting payment confirmation"
+        f"{inv_str}. Reply in thread with `paid <date>` once received."
+    )
+
+
 # Checkbox-style markers — single glyph in brackets reads as a checklist
 # without needing emoji. `~` (tilde) is a deliberate "in-flight" mark
 # between received (✓) and pending (space).
@@ -598,9 +624,10 @@ def render_build_card(b: Build, name_to_slack: Optional[dict[str, str]] = None) 
         tracking = f"Tracking: {b.carrier or ''} {b.tracking_number}".strip()
 
     missing_block = _render_missing(b, name_to_slack)
+    why_active = _why_still_active(b)
 
     # Section order — anchor (header), context (owners, dates, ship_to),
-    # phase summary, content, then notes + missing-info.
+    # phase summary, content, then notes + why-still-active + missing-info.
     sections = [
         f"{header_emoji}  *{customer}*{subtitle}",
         owners_line,
@@ -613,6 +640,8 @@ def render_build_card(b: Build, name_to_slack: Optional[dict[str, str]] = None) 
     ]
     if b.notes:
         sections.append(f"_{b.notes.strip()}_")
+    if why_active:
+        sections.append(why_active)
     if missing_block:
         sections.append(missing_block)
     # Hidden routing token at the bottom — lets the reply-handler look up
@@ -679,15 +708,15 @@ def render_card_sequence(
     sequence: list[dict] = []
 
     def is_active(b: Build) -> bool:
-        if b.ship_state != "delivered":
-            return True
-        if not b.shipped_date:
-            return True
-        try:
-            shipped = datetime.fromisoformat(b.shipped_date).date()
-            return (today - shipped).days < 30
-        except Exception:
-            return True
+        # Drop a build off the digest only after BOTH delivery and payment
+        # are confirmed. There's no time-based fallback: an unpaid delivered
+        # build stays visible (with a 'still on digest: awaiting payment'
+        # callout via _why_still_active) until someone replies with the
+        # paid_date. This way an "is this done?" card never silently
+        # disappears just because 30 days passed.
+        if b.ship_state == "delivered" and b.payment_state == "paid":
+            return False
+        return True
 
     active_builds = [b for b in builds if is_active(b)]
     active_cases = [c for c in cases if c.state != "shipped"]
@@ -749,15 +778,15 @@ def render_digest(
 
     # Filter out builds that have been delivered for more than ~30 days (clutter)
     def is_active(b: Build) -> bool:
-        if b.ship_state != "delivered":
-            return True
-        if not b.shipped_date:
-            return True
-        try:
-            shipped = datetime.fromisoformat(b.shipped_date).date()
-            return (today - shipped).days < 30
-        except Exception:
-            return True
+        # Drop a build off the digest only after BOTH delivery and payment
+        # are confirmed. There's no time-based fallback: an unpaid delivered
+        # build stays visible (with a 'still on digest: awaiting payment'
+        # callout via _why_still_active) until someone replies with the
+        # paid_date. This way an "is this done?" card never silently
+        # disappears just because 30 days passed.
+        if b.ship_state == "delivered" and b.payment_state == "paid":
+            return False
+        return True
 
     active_builds = [b for b in builds if is_active(b)]
     if not active_builds:

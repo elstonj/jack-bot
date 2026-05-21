@@ -12,14 +12,14 @@
       "quantity": 1
     }
   ],
-  "payment_state": "invoice_sent",
+  "payment_state": "paid",
   "build_state": "complete",
   "ship_state": "delivered",
   "estimate_date": null,
   "invoice_date": "2026-05-08",
   "invoice_amount": 664.98,
   "invoice_number": "1759",
-  "paid_date": null,
+  "paid_date": "2026-05-21",
   "parts": [
     {
       "name": "Hitec servo (left flap)",
@@ -51,11 +51,10 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "S20004 repair completed 2026-05-15. Left flap servo failed (dead servo tone); replaced with 2x Hitec servos and both wing replacement units. Invoice #1759 sent 2026-05-08 for $664.98 (unpaid balance $664.98). Build complete and shipped. Kept due to QBO invoice 1759.",
+  "notes": "S20004 repair completed 2026-05-15. Left flap servo failed (dead servo tone); replaced with 2x Hitec servos and both wing replacement units. Invoice #1759 sent 2026-05-08 for $664.98. Customer paid 2026-05-21 (confirmed by Jack — QBO scanner hadn't caught it). Build complete and delivered in-person in Boulder.",
   "missing_fields": [
     "ship_to",
-    "customer_email",
-    "paid_date"
+    "customer_email"
   ],
-  "last_evidence_date": "2026-05-20"
+  "last_evidence_date": "2026-05-21"
 }
