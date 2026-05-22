@@ -1,60 +1,69 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-05-21 02:26
+Last scanned: 2026-05-22 02:31
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 9 files — [federal_projects.md](federal_projects.md)
+- **Federal Projects** — 18 files — [federal_projects.md](federal_projects.md)
 - **Sales** — 1 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Shared Drive Strategic Overview
+# Strategic Overview: Google Drive Shared Drives — Black Swift Technologies
 
-## Document Volume & Organization
+## Summary Overview
 
-**Total Files:** 10 across 2 drives | **Organization Quality:** Poor
-- Federal Projects: 9 files in flat structure (no subfolders)
-- Sales: 1 file
-- **Critical Issue:** Flat file organization in Federal Projects creates scaling and management problems
+**Total Document Volume:** ~19 files across 2 active shared drives
+**Organization Quality:** Mixed — Federal drive has basic structure; Sales drive is minimal/underdeveloped
 
-## Key Clients/Projects
+---
 
-| Project | Drive | Document Count | Status |
-|---------|-------|-----------------|--------|
-| NASA AERO.7 Phase I | Federal | 2 | Active (Draft + Final) |
-| DAF Programs (NV003, NV008) | Federal | 2 | Active (Technical Volumes) |
-| UXF Program | Sales | 1 | Active (BoM/PDR stage) |
+## Drive-by-Drive Analysis
 
-## Cross-Drive Patterns
+### Federal Projects Drive
+- **Volume:** 18 files | 3 folders
+- **Status:** Moderately organized with room for improvement
+- **Active Period:** 2022–present (note: one file dated 2099 suggests metadata error)
+- **Key Focus Areas:**
+  - Federal proposals (ONR, NASA, DAF, DOE, FECM)
+  - Technical volumes and budgets for compliance submissions
+  - Internal guidance documents
 
-- **Federal Drive:** Proposal/RFP submissions + technical volumes + financial/rate documentation
-- **Sales Drive:** Limited visibility; single BoM document suggests early-stage opportunity tracking
-- **Notable Gap:** No apparent central proposal templates repository despite Federal Projects containing one DAF template
+**Organization Pattern:** Hybrid approach — some files properly categorized (NASA/, How To's/) but majority stored at root level, suggesting incomplete folder migration or ongoing project setup
 
-## Shared Resources & Templates
+**Key Stakeholder:** Beck Cotter (primary editor, last activity 2026-05-21)
 
-- DAF Agile EW Technical Volume Template (Federal Projects)
-  - Single template with limited discoverability in flat structure
-  - No evidence of Sales drive templates
+### Sales Drive
+- **Volume:** 1 file (UXF_PDR_Mass_BoM_Bryan.xlsx)
+- **Status:** Severely underdeveloped
+- **Recent Activity:** 2026-05-21
 
-## Document Management Observations
+---
 
-**Naming Conventions:**
-- Federal: Inconsistent (mix of descriptive + formal RFP numbers: `NASA AERO.7 Phase I DRAFT` vs. `BlackSwift AERO.7.S26B-0167.Phase I.pdf`)
-- Sales: Minimal data; less clear pattern
+## Cross-Drive Patterns & Observations
 
-**Organization:**
-- Lacks logical folder hierarchy (e.g., by client, fiscal year, proposal stage)
-- Financial documents mixed with technical submissions at root level
-- Editor attribution present but version control unclear (draft vs. final coexist)
+| Drive | Document Type | Organization | Maturity |
+|-------|---------------|--------------|----------|
+| Federal | Proposals, technical specs, budgets | Partial folder structure | Established |
+| Sales | Engineering BoM | Minimal | Emerging |
+
+**Pattern:** Federal operations are document-heavy and compliance-focused; Sales function appears nascent or uses alternative storage.
+
+---
+
+## Gaps & Recommendations
+
+- **Sales drive:** Severely under-resourced — only 1 file present; needs populated templates, client files, and proposal library
+- **Federal drive:** Root-level clutter — migrate loose files into project folders (2025 FECM, NASA currently empty)
+- **Missing artifacts:** No visible contracts, client lists, or resource templates noted across drives
+- **Metadata issue:** Verify 2099 date stamp in Federal drive (likely system error)
+
+---
 
 ## Areas Requiring Attention
 
-1. **Urgent:** Reorganize Federal Projects with subfolders (by client, proposal stage, fiscal year)
-2. **Template Discoverability:** Centralize and label templates clearly; make accessible across drives
-3. **Sales Drive Expansion:** Minimal documentation; may indicate tracking gaps or underdeveloped pipeline visibility
-4. **Stale Data Risk:** File modified 2099 appears to be metadata anomaly; audit recent actual activity
-5. **Version Control:** DRAFT vs. final proposals stored together without clear versioning; implement naming protocol
+1. **Sales drive development** — Establish proper folder structure and populate with active client/project materials
+2. **Federal file consolidation** — Organize root-level documents into active project folders
+3. **Cross-drive audit** — Confirm if critical resources (templates, contracts, client files) exist elsewhere or need creation

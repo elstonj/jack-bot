@@ -17,7 +17,7 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 - U0151201DMY (infrastructure/web portal team member)
 - U01511MEQ90 (team member being invited to meetings)
 
-**Activity Level:** Ongoing active project spanning November 2025 - May 2026+. Real flight testing commenced April 23-24, 2026. EMASS media release planned for first week of May creating hard deadline. Project entering critical phase with emerging concerns about EMASS controller performance specifications and fundamental ML model training approach.
+**Activity Level:** Ongoing active project spanning November 2025 - May 2026+. Real flight testing commenced April 23-24, 2026. EMASS media release planned for first week of May creating hard deadline. Project in critical evaluation phase following flight test results revealing fundamental navigation deficiencies.
 
 ## Key Decisions
 
@@ -66,25 +66,20 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 - Jack Elston recommended reverting to simplest possible validation: pure hover performance, then simple velocity tracking, rather than attempting full waypoint-based path navigation
 - Dan Prendergast disagreed: hovering was never the original intent; fundamental issues with EMASS model training architecture would manifest equally in hover as in path following
 
+**May 21, 2026:**
+- **Critical Assessment Completed:** Latest EMASS controller version flies safely and reliably in simulation (only one speed limit violation over 15-minute run), but demonstrates fundamental navigation failure in actual flight:
+  - E2 remains in same yaw orientation throughout square pattern instead of rotating to face each leg
+  - After 1.5 loops, aircraft breaks off west-to-east leg and heads north without triggering limit violations
+  - Multiple controller stop/restart cycles required to regain navigation around pattern
+- Dan Prendergast scheduled meeting with EMASS team (May 22) to discuss results and determine viability
+- **Open Question on Continued Flight Testing:** Dan Prendergast anticipated EMASS may question willingness to fly controller despite navigation failures; acknowledged EMASS likely won't want continued flights as current data is not meaningful for model improvement
+- **Jack Elston Position:** Willing to continue flying; noted yaw heading immaterial to efficiency (controller's lack of rotation actually saves energy), but acknowledged mission requirements necessitate heading changes for sensor and mission accomplishment
+- **Dan Prendergast Response:** Disagreed with Jack's assessment that lack of yaw rotation is acceptable — mission-relevant considerations cannot be ignored
+
 ## Projects & Initiatives
 
 ### EMASS Integration (Primary)
-**Status:** Real flight testing completed initial test set with mixed results. Follow-up test flights executed in degraded controller mode to collect efficiency data. Critical emerging concern regarding EMASS controller specifications and ML model training approach. Invoice processing ongoing with EMASS team. Project entering decision point regarding viability of EMASS ML model with current architecture.
+**Status:** Real flight testing completed with critical findings revealing fundamental navigation deficiencies. Controller achieves safety and reliability targets in simulation but fails trajectory-following objectives in actual flight. Project at decision point regarding continued pursuit.
 
-**Current Critical Issues (as of May 11):**
-1. **ML Model Training Deficiencies:**
-   - EMASS model may not be properly ingesting trajectory/navigation information despite receiving waypoint data
-   - Cost function structure unclear regarding whether it includes trajectory-following objectives
-   - Telemetry data rate to EMASS significantly slower than BST autopilot operation rate
-   - Model may be fundamentally incapable of waypoint-based path navigation as currently implemented
-
-2. **Controller Specification Uncertainty:**
-   - Update rate potentially reduced from 75Hz to 14Hz (flagged May 4 as insufficient for flight control)
-   - Repeated specification changes from EMASS team raising confidence concerns
-
-**Scope:**
-- Integrate EMASS's ECS-DoT evaluation board (AI chip with ML controller) onto E2 platform
-- Develop interface between EMASS hardware and E2 autopilot
-- Create simulation environment (Gazebo-based SWIL) for validation
-- Conduct flight testing with comparative analysis (controller on/off)
-- Timeline: Originally January-March 2026, pushed to March 11, 2026
+**Latest Test Results (May 21):**
+- Simulation

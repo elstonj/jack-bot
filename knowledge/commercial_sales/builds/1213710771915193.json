@@ -44,7 +44,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "NextTech Solutions (DoD integrator) evaluating S3 Arctic for tactical deployment with Joint Forces Command Canada. Demo flight test planned June\u2013August 2026 in Ottawa; Arctic validation Nov 2026\u2013April 2027 in Whitehorse. Potential procurement by JFC for Rangers. Estimate pending; BST owes customer info on past S2 Arctic ops and Canadian company contacts (Microhard). Recent Slack activity (2026-05-20) confirms active engagement with receive_by 2026-08-31.",
+  "notes": "NextTech Solutions (DoD integrator) evaluating S3 Arctic for tactical deployment with Joint Forces Command Canada. Demo flight test planned June\u2013August 2026 in Ottawa; Arctic validation Nov 2026\u2013April 2027 in Whitehorse. Potential procurement by JFC for Rangers. Recent Slack activity (2026-05-20) confirms active engagement with receive_by 2026-08-31. BST owes customer info on past S2 Arctic ops and Canadian company contacts (Microhard).",
   "missing_fields": [
     "ship_to",
     "estimate_date",

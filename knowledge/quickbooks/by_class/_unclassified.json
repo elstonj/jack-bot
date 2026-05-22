@@ -1,17 +1,21 @@
 {
   "project_code": "_unclassified",
   "qbo_class_names": [
-    ""
+    "",
+    "[012] Embry-Riddle Aeronautical University"
   ],
   "period": {
-    "start": "2026-05-20",
-    "end": "2026-05-21"
+    "start": "2026-05-21",
+    "end": "2026-05-22"
   },
   "totals": {
-    "revenue": 0.0,
-    "expenses": 10822.58,
+    "revenue": 2462.5,
+    "expenses": 18162.78,
     "by_category": {
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 10773.62,
+      "FACILITIES:FA-Rent Expense": 7059.94,
+      "FACILITIES:FA-Shop Supplies": 153.19,
+      "QuickBooks Payments Fees": 127.07,
       "Inventory Asset": 48.96
     }
   },
@@ -34,6 +38,24 @@
           "description": "R&D Tax Credits 2025"
         }
       ]
+    },
+    {
+      "type": "Bill",
+      "date": "2026-05-21",
+      "doc_number": "",
+      "total": 7059.94,
+      "attributed": 7059.94,
+      "vendor": "W. W. Reynolds Companies",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 7059.94,
+          "account": "FACILITIES:FA-Rent Expense",
+          "description": "June 2026 rent"
+        }
+      ]
     }
   ],
   "purchases": [
@@ -54,8 +76,63 @@
           "description": "Shipping for 123 Bearing Shipment for future S3 sales"
         }
       ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-21",
+      "doc_number": "",
+      "total": 127.07,
+      "attributed": 127.07,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",
+      "lines": [
+        {
+          "amount": 127.07,
+          "account": "QuickBooks Payments Fees",
+          "description": "System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily."
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-21",
+      "doc_number": "0520JELSTON",
+      "total": 153.19,
+      "attributed": 153.19,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request. Josh placed the order directly. Shop supplies",
+      "lines": [
+        {
+          "amount": 153.19,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Heat shrinking tubing; screws"
+        }
+      ]
     }
   ],
   "purchase_orders": [],
-  "payments": []
+  "payments": [
+    {
+      "type": "Payment",
+      "date": "2026-05-21",
+      "doc_number": "",
+      "total": 2462.5,
+      "attributed": 2462.5,
+      "vendor": "",
+      "customer": "[012] Embry-Riddle Aeronautical University",
+      "balance": null,
+      "memo": "Paid via QuickBooks Payments: Payment ID 068330",
+      "lines": [
+        {
+          "amount": 2462.5,
+          "account": "",
+          "description": ""
+        }
+      ]
+    }
+  ]
 }

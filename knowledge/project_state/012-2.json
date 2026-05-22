@@ -29,7 +29,7 @@
         "amount": 8581.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-21"
+        "last_updated": "2026-05-22"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 6439.03,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-21T09:09:52Z"
+    "last_reconciled": "2026-05-22T09:14:24Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -106,6 +106,6 @@
       "text": "From Maciej (ts=1777068011.376009): <@U0AQE94HJUT> for S0 VTOL IRAD, there's one overdue task \"Visual Observation Bench Test\" along with the \"Instrumented Bench Test\" needing to be completed by next Thursday. <@U058LGYMEQ0>, any roadblocks on your end for catching up on that one overdue task and then having the instrumented bench test done by mid next week? Anything you're waiting on from others or need to order?"
     }
   ],
-  "last_full_rebuild": "2026-05-21T09:09:52Z",
+  "last_full_rebuild": "2026-05-22T09:14:24Z",
   "last_incremental_update": null
 }

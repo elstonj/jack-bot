@@ -1,75 +1,54 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,697 (1,663 previous + 34 new)
-- **Date range:** March 24 – May 21, 2026 (59 days)
-- **Approximate volume:** ~28.8 messages per day (sustained consistency)
-- **Pattern:** New 34-message sample (May 20–21) continues **sustained ~85–90% automated/newsletter-driven baseline**. Heavy mid-week clustering (May 20, 09:02–21:41 UTC) with early morning activity (May 21, 06:20–08:17 UTC). Consistent with professional intelligence aggregation + continuous platform notifications + promotional content.
+- **Total messages scanned:** 1,752 (1,697 previous + 55 new)
+- **Date range:** March 24 – May 22, 2026 (60 days)
+- **Approximate volume:** ~29.2 messages per day (sustained consistency)
+- **Pattern:** New 55-message sample (May 21–22) continues **sustained ~80–85% automated/newsletter-driven baseline**. Heavy clustering on May 21 (09:15–21:02 UTC, 38 messages), with morning continuation May 22 (02:21–04:59 UTC). Consistent with professional intelligence aggregation + continuous platform notifications + promotional/operational tooling.
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Senders
-1. **Jack Elston** (elstonj@blackswifttech.com, media@blackswifttech.com) — **SUSTAINED/CRITICAL/FEDERAL PARTNERSHIPS & INTERNAL OPERATIONS & MEDIA AGGREGATION & NOAA COLLABORATION**:
-   - **UAS VISION daily news forwarded to media@blackswifttech.com (May 20, 10:05 UTC)** — sustained intelligence curation.
-   - **Continuing context:** Direct NOAA Federal engagement (Laura Chaibongsai, Theo Stein @noaa.gov) on photo/imagery assets confirmed in previous sample. Paige is **direct point of contact for NOAA Federal** on UAS/imagery acquisition.
+1. **Jack Elston** (elstonj@blackswifttech.com, media@blackswifttech.com, jack@newgreenpow.com, elstonj@bst.aero) — **CRITICAL/ELEVATED/FEDERAL PARTNERSHIPS & INTERNAL OPERATIONS & MEDIA AGGREGATION & EXTREME ENVIRONMENTS PROJECT**:
+   - **New messages (May 21, 09:23–17:03 UTC, 4 messages)**:
+     - **Black Swift x Extreme Environments** (May 21, 09:23 UTC, IMPORTANT) — **NEW PROJECT SIGNAL**: Direct response from Jack Elston to Paige's forwarded inquiry about "Black Swift x Extreme Environments" partnership/capability.
+     - **BST Field Trip invitations (2)** (May 21, 17:49 & 20:08 UTC) — **May 22 field trip (3–4:45pm MDT) and July 3 field trip**, distributed to 10 internal team members (Paige, Beck Cotter, Daniel Prendergast, Maciej Stachura, Nathaniel Straus, Joshua Fromm, Ethan Domagala, Alex Lomis, Meredith Needham, Sam Hild). **Signals team-wide operational/demonstration events**.
+     - **7th Federal Uncrewed Systems (UxS) Workshop forward** (May 21, 16:28 UTC, INBOX) — Jack forwarding federal UAS coordination invite to Paige + 3 internal colleagues (Beck Cotter, Daniel Prendergast, Maciej Stachura). **Elevated federal engagement signal**.
+   - **New external alias: jack@newgreenpow.com** — Jack sending to massive UAS/drone industry distribution list (New Green Power, Inspired Flight, Shadowfax UAS, DeltaQuad, Beluga Drone, Woot-Tech, FlyBy Dev, Voliro, Constellation, Aerosystems West, A2Z Drone Delivery, BST contacts) on **battery technology** (420–500Wh/kg ultra-high energy density cells, May 21, 23:11 UTC). **Signal: Jack coordinating cross-industry component/technology partnerships**.
+   - **Continuing context:** Direct NOAA Federal engagement + media curation + federal UAS workshop coordination.
 
-2. **Meredith Needham** (meredith.needham@blackswifttech.com) — **SUSTAINED/OPERATIONS & FINANCIAL MANAGEMENT & RECRUITMENT**:
-   - No new messages in this sample; sustained context from previous batch.
+2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **NEW/ELEVATED/TECHNICAL COORDINATION & EXTERNAL PARTNERSHIPS**:
+   - **New messages (May 21, 10:29–17:03 UTC, 3 messages)**:
+     - **Re: Latest Stable Binary** (May 21, 10:29 & 17:03 UTC, IMPORTANT) — Internal exchange with Nikhila Ravikumar (Nikhila@nanoveu.com, likely **NanoVEU** — nanotech/battery/energy partner?). **"Latest Stable Binary" suggests active software/firmware release coordination** with external partner.
+   - **New signal:** Daniel coordinating technical releases with external vendors; Paige CC'd on thread, indicating **visibility into critical technical partnerships**.
 
-3. **Gemini/Google Notes** (gemini-notes@google.com) — **NEW/INTERNAL MEETING DOCUMENTATION**:
-   - **1 new message (May 20, 19:22 UTC)**: "Notes: 'BST Internal Update Meeting' May 20, 2026" (marked UNREAD, INBOX).
-   - **Signal:** Paige uses **Google Gemini for automated meeting note-taking/documentation** at BST Internal Update Meetings. Indicates **systematic documentation of internal status meetings**; likely shares notes across team.
+3. **Maciej Stachura** (stachura@blackswifttech.com, maciej.stachura@bst.aero) — **NEW/FEDERAL UAS COORDINATION**:
+   - **New messages (May 21, 16:45 UTC, 1 message)**:
+     - **Re: 7th Federal Uncrewed Systems (UxS) Workshop** — Direct response to Jack on federal UxS Workshop. **Signals Maciej as federal engagement point**.
+
+4. **Gemini/Google Notes** (gemini-notes@google.com) — *No new messages in this sample*. (Sustained context from previous batch.)
 
 ### Top External Senders (Updated)
 
-1. **The New York Times** (breakingnews, editorpicks, nytdirect) — **SUSTAINED VERY HIGH/POLITICAL & CULTURAL CONTENT PATTERN**:
-   - **4 new messages (May 20–21, 03:50–21:05 UTC)**:
-     - **Editor picks (2)**: "Supreme Court justices hint at strains in their relationships with each other" (marked IMPORTANT, May 20); "8 takeaways from Tuesday's primaries" (marked IMPORTANT, May 20).
-     - **Morning briefing (1)**: "The Morning: Who's writing this?" (marked IMPORTANT, May 20) — **AI authorship topic signals continued AI governance interest**.
-     - **Subscription promo (1)**: "Ends tomorrow. Best offer for you: $1/wk." (May 21, promotional).
-   - **Pattern continuation:** Political/judicial content marked IMPORTANT; sustained focus on **AI ethics, governance, and political process**.
+1. **The New York Times** (breakingnews, editorpicks, nytdirect, nytimes@e.newyorktimes.com) — **SUSTAINED VERY HIGH/POLITICAL & CULTURAL CONTENT PATTERN**:
+   - **7 new messages (May 21–22, 03:23–21:05 UTC)**:
+     - **Political/judicial content (4)**: "5 takeaways from Democrats' autopsy of their 2024 loss" (May 21, IMPORTANT); "The woman widowed by a would-be Trump assassin has her own conspiracy theory" (May 21, IMPORTANT); "The Morning: Intraparty conflict" (May 21, IMPORTANT); "Sale final hours. $1/wk" (May 22, promotional).
+     - **Subscription promos (2)**: "Ends today: Best offer. $1/wk" (May 21, IMPORTANT); "Ends tomorrow. Best offer: $1/wk" (May 22).
+   - **Pattern continuation:** Political/governance content marked IMPORTANT; sustained tracking of **intraparty dynamics, political process, assassination/threat analysis**.
 
-2. **LinkedIn** — **SUSTAINED ELEVATION & ACTIVE ENGAGEMENT/PROFILE VISIBILITY**:
-   - **4 new messages (May 20, 16:00–21:05 UTC)**:
-     - **Engineering Design requests (1)**: "Black Swift Technologies, Engineering Design request from Joseph Asal and other clients are available" (marked IMPORTANT, May 20) — **MAJOR SIGNAL: Direct client/prospect inquiries routed to Paige**.
-     - **Group activity (1)**: "Don't miss conversations in The Global Space Tourism, Commercial Space & Defense Society - Powered by SpaceTourismMagazine.com" (marked IMPORTANT, May 20) — **NEW GROUP: Space tourism/commercial space focus**.
-     - **LinkedIn Sales Navigator (1)**: "Most sellers waste time on the wrong buyers" (marked IMPORTANT, May 20, promotional).
-     - **LinkedIn Newsletter (1)**: "Building the Future: AEC Tech / May '26 Edition #2 - Local Startup Scene & Aerial AI-Powered Analysis" (marked IMPORTANT, May 20) — **AEC Tech (Architecture/Engineering/Construction) + Aerial AI**.
-   - **Signal: SUSTAINED HIGH LINKEDIN PRESENCE WITH DIRECT BUSINESS DEVELOPMENT ROUTING**:
-     - **Joseph Asal engineering design request is direct business inquiry** — suggests Paige has **active client-facing or proposal/project lead role** at BST.
-     - **New Global Space Tourism group tracking** — broadens domain from UAS to **commercial space operations**.
-     - **AEC Tech + Aerial AI focus** — signals **adjacent vertical to defense UAS: construction/infrastructure inspection via aerial assets**.
+2. **LinkedIn** — **SUSTAINED ELEVATION & ACTIVE ENGAGEMENT/PROFILE VISIBILITY/DIRECT BUSINESS DEVELOPMENT**:
+   - **11 new messages (May 21–22, 02:21–20:59 UTC)**:
+     - **Engineering Design client inquiries (0 new in this batch)** — previous signal sustained.
+     - **Group activities (2)**: "Drone and UAVs: Future of Aerial and Autonomous Mobility (FoAAM)" (May 21, 17:56 UTC, IMPORTANT, MODERATED GROUP); "Weather Derivatives, Weather Risk and Climate Finance" (May 22, 00:59 UTC, IMPORTANT) — **NEW GROUP: Weather derivatives/climate finance tracking**.
+     - **Profile engagement (2)**: "You're on a roll on LinkedIn!" (May 22, CATEGORY_SOCIAL); "Your profile is popular - 16 search appearances" (May 21, IMPORTANT) — **Paige profile generating high search/visibility within LinkedIn network**.
+     - **Recruitment/job listings (3)**: "job openings in the past week" (May 22, IMPORTANT); "Marketing Assistant role at BELAY" (May 21); "Does hiring feel like a 2nd job?" (May 21) — **Sustained recruitment signal** (possibly tracking talent or BST hiring activity).
+     - **Connection requests (1)**: "add Chris Koehler" (May 22, IMPORTANT).
+     - **LinkedIn Ads (1)**: "Nice post! Here's $100USD to boost its performance" (May 21) — **Paige making high-engagement posts on LinkedIn attracting ad credits**.
+   - **Signal: SUSTAINED HIGH LINKEDIN PRESENCE WITH DIRECT BUSINESS DEVELOPMENT ROUTING + ACTIVE CONTENT CREATION + RECRUITMENT TRACKING**.
 
-3. **Federal Uncrewed Systems (UxS) Workshop** — **NEW/ELEVATED/FEDERAL UAS COORDINATION**:
-   - **1 new message (May 20, 20:23 UTC)**: "7th Federal Uncrewed Systems (UxS) Workshop" from Matthew A. Burgess (maburgess@usgs.gov) to feduxsworkshop@gmail.com (marked UNREAD, INBOX).
-   - **Signal: NEW FEDERAL UAS COORDINATION SIGNAL**:
-     - **USGS point of contact (Matthew Burgess)** organizing **7th Federal UxS Workshop**.
-     - **Paige received forwarded invite** suggesting **BST participation or interest in federal UAS coordination/standardization efforts**.
-     - **Connects to previous NOAA signal** — **pattern of federal government engagement on UAS interoperability/coordination**.
-
-4. **Air & Space Forces Magazine (A&SF)** — **SUSTAINED/MILITARY OPERATIONS MONITORING**:
-   - **1 new message (May 20, 03:50 UTC)**: "US Steps Up Strikes on ISIS in Nigeria" (marked IMPORTANT) — **operational/geopolitical intelligence tracking**.
-   - **Sustained pattern** of USAF operational alerts.
-
-5. **Geo Week News** — **NEW ELEVATED/GEOSPATIAL & MAPPING INTELLIGENCE**:
-   - **1 new message (May 20, 16:00 UTC)**: "Geospatial, To a Fault" (marked IMPORTANT, UNREAD).
-   - **Signal: NEW ELEVATED GEOSPATIAL FOCUS**:
-     - **Paige marked this IMPORTANT** — suggests **geospatial data, mapping, or spatial intelligence is relevant to BST operations**.
-     - **Connects to MundoGEO newsletter traffic** (agricultural insurance, geospatial data partnerships) — **adjacent domain to UAS data collection/imagery**.
-
-6. **MundoGEO Newsletter** — **NEW/GEOSPATIAL & COMMERCIAL DRONE OPERATIONS**:
-   - **2 new messages (May 20, 20:26 UTC)**, sent to both **info@bst.aero** and **info@blackswifttech.com**:
-     - Subject: "Geospatial Data: The Foundation for Becoming a Partner for the Agricultural Insurance Market | Ned Marine launches flying drone and subsea ROV inspection services for Non-Destructive Testing" (marked UNREAD).
-   - **Signal: NEW COMMERCIAL DRONE VERTICAL TRACKING**:
-     - **Agricultural insurance market** — geospatial data for risk assessment (crop monitoring, land assessment).
-     - **Ned Marine drone/ROV services** — **subsea + aerial robotics ecosystem**.
-     - **Dual BST email routing (bst.aero + blackswifttech.com)** suggests **company domain segmentation**: bst.aero likely **aviation/aerospace brand**, blackswifttech.com **broader tech**.
-
-7. **UASweekly.com** — **NEW/UAS INDUSTRY INTELLIGENCE**:
-   - **1 new message (May 20, 21:01 UTC)**: "UASweekly Daily Newsletter" (marked UNREAD, sent to info@blackswifttech.com).
-   - **Signal: Sustained UAS industry newsletter aggregation** via shared company mailbox.
-
-8. **Commercial UAV Expo** — **NEW/PROMOTIONAL/UAS INDUSTRY EVENTS**:
-   - **1 new
+3. **Air & Space Forces Magazine (A&SF)** — **SUSTAINED/ELEVATED/MILITARY OPERATIONS MONITORING**:
+   - **3 new messages (May 21, 03:40–15:59 UTC)**:
+     - **Operational alerts (2)**: "Wilsbach: MQ-9 the 'MVP' of Iran Ops" (May 21, 03:40 UTC, IMPORTANT); "General Atomics CCA Returns to Flight" (May 21, 15:59 UTC, IMPORTANT) — **Competitor/peer platform tracking (General Atomics CCA — likely competing VTOL UAS)**.
+     - **Air Force update (1)**: "Air Force Update with Vice Chief of Staff Gen. Lamontagne" (May 21, 05:38 UTC

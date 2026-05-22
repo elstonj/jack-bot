@@ -26,7 +26,7 @@
 
 | Deliverable | Assignee | Due Date | Status | Notes |
 |---|---|---|---|---|
-| **Deliver S0 VTOL to Barbados** | Beck Cotter | 2026-05-22 | ⚠️ **CRITICAL BLOCKER** | Crash bug under active investigation and repair (week of 2026-04-20); flight test restart in progress. **Bench test work overdue as of 2026-04-24** ("Visual Observation Bench Test"); "Instrumented Bench Test" due by Thursday following 2026-04-24 (Maciej Stachura, 2026-04-24 & 2026-04-30). Must complete before handoff. Platform: S0 VTOL; Order Qty: 1. Training/travel needed July 1–4. |
+| **Deliver S0 VTOL to Barbados** | Beck Cotter | 2026-05-22 | ⚠️ **CRITICAL BLOCKER** | Crash bug under active investigation and repair (week of 2026-04-20); flight test restart in progress. **Bench test work overdue as of 2026-04-24** ("Visual Observation Bench Test"); "Instrumented Bench Test" due by Thursday following 2026-04-24 (Maciej Stachura, 2026-04-24 & 2026-04-30). Must complete before handoff. Platform: S0 VTOL; Order Qty: 1. Training/travel needed July 1–4. **Maciej (2026-04-27 & 2026-05-04): Request to update Asana due dates to realistic numbers after ByLight meeting.** |
 | **S0 VTOL Handoff Meeting** | Jack Elston | 2026-06-23 | Open | In-person handoff meeting with Sabu Best and Barbados Meteorological Services. Dependent on Beck Cotter delivery completion. |
 | **Operator Training Materials & Supplies** | *Unassigned* | *No due date* | Open | Training materials and supplies required for operator instruction. Sabu Best available week of May 5, 2025 (for preliminary materials review). Training delivery scheduled July 1–4, 2026. 6 trainees including Junior Brathwaite. **Must assign and finalize curriculum.** Intent: drone to fly east of Barbados into developing storms from tentative launch site Bushy Park. |
 | **Operator Training Delivery** | Jack Elston | 2026-07-01–04 | Open | Training delivery in Barbados. Travel scheduled. 6 trainees. Dependent on S0 VTOL delivery and June 23 handoff. |
@@ -35,7 +35,7 @@
 
 ## Task Summary
 
-**Total Tasks:** 4 open in Asana; 0 completed
+**Total Tasks:** 1 open in Asana; 0 completed
 
 ### By Assignee
 - **Beck Cotter:**
@@ -43,17 +43,14 @@
   - Crash bug & flight test restart (week of 2026-04-20) blocking completion
   - Bench test work overdue as of 2026-04-24; instrumented bench test due by Thursday following 2026-04-24 (Maciej Stachura, 2026-04-24 & 2026-04-30)
   - Training/travel needed: Yes (July 1–4, 2026)
+  - **Per Maciej (2026-04-27 & 2026-05-04):** After ByLight meeting, update Asana due dates to realistic numbers and notify customer
 
 - **Jack Elston:** 
   - S0 VTOL handoff meeting: June 23, 2026
   - Operator training/travel scheduled: July 1–4, 2026
   - Flagged ground station asset constraints (2026-04-20): "depending on timeline we might be able to shift some older ground stations from the S0-VTOL kits. (I hate to do that, but might be best)."
+  - Per Jack (2026-05-05 & 2026-05-06): Training is part of handoff activities
 
 - **Maciej Stachura:** 
   - **Generate NetCDF** (open, no due date)
-  - **Active work:** S0-VTOL crash bug diagnosis and flight test restart; bench test status tracking (weeks of 2026-04-20 and 2026-04-24)
-  - **Priority confirmation (2026-04-30 & 2026-05-04):** S0-VTOL ranked #2 among top 5 company priorities
-  - Requesting updates on bench test roadblocks and support needs from Beck Cotter and team (2026-04-24 & 2026-04-30)
-
-- **Alex Lomis:** 
-  - Project owner; secondary "Deliver S0 VTOL" task open with no due
+  - **Active work:** S0-VTOL crash bug diagnosis and flight test restart; bench test status tracking (weeks of 2026-04-20 and 2026-04-24

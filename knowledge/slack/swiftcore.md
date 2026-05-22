@@ -97,6 +97,7 @@ This channel serves as the primary technical communication hub for Black Swift T
 - **Testing:** S3/S10020 aircraft being used for validation
 - **Challenges:** Parameter management, UI integration, XML configuration
 - **Recent Update (April 28-29, 2026):** Landing plan final length calculation updated and validated; distance display fixed and deployed via APK; vertical landing for S1 aircraft tested with 17m/s IAS and 2.25s lookahead resulting in correct 114m approach length
+- **Latest (May 21, 2026):** Maciej pushing additional fixes to branch
 
 **Hurricane Web Controller (2024-2025):**
 - **Status:** Completed and ready for testing; active validation ongoing (April 2026)
@@ -118,5 +119,4 @@ This channel serves as the primary technical communication hub for Black Swift T
 - **Latest (May 8, 2026):** Feature fully merged; no anticipated impact on other development but team monitoring for issues
 
 **Web Controller UI Redesign (April 2026-ongoing):**
-- **Status:** Active development with modular layout system in progress
-- **Current Focus:** Replacing legacy tablet-based
+- **Status

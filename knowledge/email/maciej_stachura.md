@@ -1,95 +1,73 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 55 emails (26 initial + 29 new)
-- **Date range:** May 19–21, 2026
-- **Estimated volume:** Heavy; sustained 3-day cluster of strategic/legal/partnership/government/defense communications
-- **Email intensity:** 19 of 29 new messages marked IMPORTANT; high decision velocity across multiple parallel tracks
+- **Total messages scanned:** 77 emails (55 prior + 22 new)
+- **Date range:** May 19–22, 2026
+- **Estimated volume:** Extremely heavy; sustained 4-day cluster spanning strategic partnerships, government/defense negotiations, legal/financial due diligence, and technical integration
+- **Email intensity:** High concentration of IMPORTANT flags; rapid decision velocity across 6+ parallel workstreams; significant volume of forward-cascaded materials and meeting invitations
 
 ## Key Correspondents
 
-### Internal (BST)
-- **Jack Elston** (elstonj@blackswifttech.com) — dominant; legal, employment agreements, industrial planning, NOAA coordination, Arctic demonstration, Navy project coordination, Atmolab integration, KrateoSky partnership escalation
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — industrial planning, Arctic demo, camera systems, Navy project, ECSDOT integration scope
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — event coordination (Arctic Demo Days), technical scope coordination
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — NOAA/Blackswift monthly coordination, industrial planning
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — financial/disclosure matters
+### Internal (BST) — Frequency and Role
+- **Jack Elston** (elstonj@blackswifttech.com) — continues as dominant internal contact; primary escalation point for all strategic initiatives; heavy forwarding of diligence docs, Navy project coordination, KrateoSky negotiation, legal/employment matters
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — technical and project integration lead; coordinates NanoVEU (ECSDOT), Navy project technical response, camera system specs, Arctic demo funding
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — operational/event coordination (BST Field Trip July 3, 2026 invitation issued; Arctic Demo Days)
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — financial/disclosure workflows with Ko Firm; active in due diligence request cycle
+- **Nathaniel Straus** (nate.straus@blackswifttech.com) — MHP data alignment coordination with Stanford (Tanay Topac); IMPORTANT priority
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — NOAA/government coordination baseline
+- **Paige Smith**, **Ethan Domagala**, **Alex Lomis**, **Sam Hild** — broader team recipients on strategic invitations and forwarded materials
 
-### External — Strategic Partners & Integration
-- **KrateoSky Leadership** (now expanded contact list):
-  - **Sona Raziabeegum** (sona@krateosky.com) — executive employment agreement, industrial plan approval, partnership negotiations
-  - **Lisa Marie Cheney** (LisaMarie@krateosky.com), **Bob Smith** (Bob@krateosky.com), **Adria Passola** (a@krateosky.com), **Roger Riley** (Roger@krateosky.com) — newly visible in escalated Atmolab/camera system coordination (May 21)
+### External — Strategic Partners & Integration (Escalated Activity)
 
-### External — Government/Research
-- **NOAA Federal** (multi-agency coordination continues):
-  - Nikolai Pawlenko (nikolai.f.pawlenko@noaa.gov)
-  - Annette Hollingshead (annette.hollingshead@noaa.gov)
-  - Joshua Wadler (WADLERJ@erau.edu, ERAU)
-  - **Context:** Monthly coordination ongoing; May 20 NOAA/Blackswift Monthly discussion
+#### KrateoSky (Partnership/M&A Phase - CRITICAL)
+- **Sona Raziabeegum** (sona@krateosky.com) — executive point of contact; now engaged in rapid multi-party exchanges on:
+  - Pre-read Integration Workshop coordination (May 21–22, multiple IMPORTANT messages same day)
+  - Due diligence request responses (FW: Black Swift - Diligence Requests)
+  - Executive employment agreement finalization (Niki Schwab coordination)
+  - IT Infrastructure Follow-Up (May 21, 18:32 UTC)
+  - Disclosure schedules and regulatory compliance
+- **Lisa Marie Cheney** (LisaMarie@krateosky.com) — newly elevated to executive coordination on Atmolab camera system (May 21, 14:38 UTC response; cc'd to Maciej, Daniel, full leadership)
+- **Bob Smith**, **Adria Passola**, **Roger Riley** (krateosky.com) — executive team visibility on technical blocking items; involved in camera system escalation
 
-### External — Defense/Navy Sector (NEW)
-- **E. D. Kase** (ed.kase@ekaseconsulting.com, EKase Consulting) — "help with a Navy project"; appears to be defense/naval advisor; high IMPORTANT flags (May 20–21); Maciej directly engaged (sent response May 20, 14:58)
-- **Mark Waldo** (mwaldo@thormodsenaero.com, Thormods Aero) — Navy project coordination; multi-party responses with Maciej, Jack, Daniel, Ed Kase, Will Guimont
-- **Will Guimont** (wguimont@thormodsenaero.com, Thormods Aero) — co-coordinator on Navy project
-- **Kevin A. Adkins** (adkinsk@erau.edu, ERAU) — S0 VTOL update discussion with Jack Elston; technical coordination
+#### Defense/Navy Sector (EXPLOSIVE GROWTH)
+- **Simon Laurence** (Simon.Laurence157@mod.gov.uk, UK Ministry of Defence) — **NEW PATTERN:** Merlin Mk2/US Navy SBIR thread; rapid multi-day exchange with Jack (9 messages May 21 alone); IMPORTANT flags on all messages; direct UK MoD engagement on Navy procurement/partnership; international defense coordination signal
+- **Mark Waldo** (mwaldo@thormodsenaero.com, Thormods Aero) — Navy project technical lead; high-frequency responses (8+ messages May 20–21); coordinating with Jack, Maciej, Daniel, E.D. Kase
+- **Will Guimont** (wguimont@thormodsenaero.com, Thormods Aero) — co-technical coordinator; invited to Thormodsen Aeronautics <> BST meeting (May 21, 11:30am)
+- **E. D. Kase** (ed.kase@ekaseconsulting.com, EKase Consulting) — defense/Navy advisor; multi-party Navy project coordination
 
-### External — Vendors/Hardware Integration
-- **Jure Dolinar** (jure.dolinar@atmolab.eu, Atmolab) — camera system integration (escalated to KrateoSky leadership May 21; Jure's response flagged IMPORTANT)
-- **NanoVEU Team** (nanoveu.com):
-  - Mark Goranson (Mark@nanoveu.com)
-  - Scott Smyser (Scott@nanoveu.com)
-  - Tom Wilp (tom.wilp@nanoveu.com)
-  - Mohamed Sabry (msabry@nanoveu.com)
-  - **Context:** "Extended Scope for the ECSDOT Integration" (May 20, Daniel Prendergast lead)
+#### Hardware/Integration Vendors
+- **Jure Dolinar** (jure.dolinar@atmolab.eu, Atmolab) — camera system integration (continued escalation through May 21; response flagged IMPORTANT 07:59 UTC May 21)
+- **NanoVEU Team** (nanoveu.com) — ECSDOT integration expanded scope:
+  - **Mark Goranson**, **Scott Smyser**, **Tom Wilp**, **Mohamed Sabry**, **Nikhila Ravikumar** (Nikhila@nanoveu.com) — technical lead on "Latest Stable Binary" coordination; May 21 IMPORTANT responses; "Extended Scope for the ECSDOT Integration" multi-party thread (May 21, 15:59 UTC Mark Goranson email to Daniel, Scott, Tom, Mohamed, Jack, Maciej, Beck — IMPORTANT)
+  - **Sergio** (sergio@nanoveu.com) — project meeting coordination (May 21 E2/ECS-DoT Integration Project Meeting invitation)
 
-### External — Legal Counsel
-- **Ko Firm** (expanded involvement):
-  - Niki Schwab (nschwab@kofirm.com) — prior employment agreement counsel
-  - **Nadia Bryan** (nbryan@kofirm.com) — "Black Swift - Disclosure Schedules"; investment-related disclosures (May 20)
-  - **Ryan Sykora** (rsykora@kofirm.com) — "Black Swift - Diligence Requests" forwarded to Maciej (May 20)
+#### Legal/Due Diligence (Ko Firm — Intensive Activity)
+- **Niki Schwab** (nschwab@kofirm.com) — Executive Employment Agreement finalization; 6+ IMPORTANT messages May 21; cc'd to Maciej; appears to involve KrateoSky employment terms
+- **Nadia Bryan** (nbryan@kofirm.com) — Black Swift Disclosure Schedules and Diligence Requests; investment-phase documents; FW routing to Meredith Needham and Ko Firm team
+- **Ryan Sykora** (rsykora@kofirm.com) — Document Status tracking; Diligence Requests coordination; cc'd to Maciej on May 21, 17:37 UTC message (IMPORTANT)
+- **Dan Fredrickson** (dfredrickson@kofirm.com) — broader legal support team visibility
 
-### External — Investment/Finance (NEW)
-- **Wynn Lemmons** (wynnlemmons@capitalfactory.com, Capital Factory) — "Potential investment" discussion with Jack Elston and Ko Firm (May 20)
+#### Government/Research
+- **Kevin A. Adkins** (adkinsk@erau.edu, ERAU) — S0™ VTOL update response (May 21, 18:58 UTC, IMPORTANT); technical specification coordination with Jack
+- **Tanay Topac** (tanaytopac@stanford.edu, Stanford) — MHP data alignment (May 21, 19:36 UTC, IMPORTANT response); coordinated through Nathaniel Straus
+- **Ann Peterson** (ann.peterson@montana.edu) — invited to Thormodsen Aeronautics meeting (May 21)
+- **NextEch Solutions**:
+  - **Trenton McKibben** (trenton.mckibben@nextechsol.com)
+  - **Chris Pitfield** (Christopher.Pitfield@nextechsol.com)
+  - Topic: Funding for CJFC Arctic UAS Demo (May 21, 10:33 UTC, IMPORTANT)
 
-### External — Academia
-- **Tanay Topac** (tanaytopac@stanford.edu) — "MHP data alignment" discussion with Jack Elston; flagged IMPORTANT (May 21)
-- **David Richter** (David.Richter.26@nd.edu, University of Notre Dame) — sascwatch-all mailing list alert
+#### Other Vendors/Partners
+- **Bryan Sparling** (bryan.sparling@bylight.com, ByLight) — Vulcan RFI discussion (May 21, 10:59 UTC, IMPORTANT)
+- **Dom Miceli** (dom.miceli@ouster.io, Ouster) — "Maciej – swiftcore breakthrough" discussion (May 21, 16:10 UTC; routed to stachura@bst.aero)
+- **Tethered Aerosystems** (tetheredaero@gmail.com) — aerostats/drone deployment discussion (May 21, 11:56 UTC; tangential)
 
-### Conferences/Trade Shows (NEW)
-- **SSD 2026 | Defence Expo** (info@supplysecurity.eu, sales@blackswifttech.com) — exhibitor registration reminder; closes May 25, 2026; routed to both stachura@bst.aero and sales@bst.aero (May 21)
+### External — Investment/Finance
+- **Wynn Lemmons** (wynnlemmons@capitalfactory.com, Capital Factory) — potential investment discussions continue with Jack Elston and Ko Firm
 
 ## Topic Patterns
 
-### Active Strategic Initiatives (Ranked by Urgency/Flags)
+### Active Strategic Initiatives (Ranked by Urgency/Flags/New Activity)
 
-1. **Navy/Defense Project** (NEW — HIGH PRIORITY, EXPLOSIVE GROWTH)
-   - Subject: "help with a Navy project"
-   - Parties: Ed Kase (EKase Consulting), Mark Waldo & Will Guimont (Thormods Aero), Jack Elston, Maciej, Daniel
-   - Maciej directly engaged (sent response May 20, 14:58)
-   - Multiple IMPORTANT flags over May 20–21; rapid escalation
-   - **Signal:** Government/Navy customer opportunity; external consultants (EKase) + vendor partners (Thormods) suggesting systems integration or procurement support
-
-2. **KrateoSky Partnership/M&A Acceleration** (HIGH PRIORITY)
-   - Industrial Plan approval cycle (Jack ↔ Sona rapid exchanges)
-   - **NEW:** Escalation to broader KrateoSky leadership (Lisa Marie, Bob Smith, Adria, Roger) on Atmolab camera system (May 21, 01:37 Jack email)
-   - Legal: "Black Swift - Disclosure Schedules" (Ko Firm, Nadia Bryan); indicates due diligence/investment phase
-   - "Black Swift - Diligence Requests" (Ko Firm Ryan Sykora forwarded May 20)
-   - Potential investment discussion (Jack + Wynn Lemmons/Capital Factory)
-   - **Signal:** M&A or major investment round in active due diligence phase
-
-3. **NOAA/Government Contracts** (ONGOING)
-   - NOAA/Blackswift Monthly coordination (May 20 activity)
-   - S0™ VTOL update discussion (Jack ↔ Kevin Adkins, ERAU)
-   - Arctic UAS Demonstration White Paper/CJFC Vendor Brief (forwarded to team May 21, 00:58)
-
-4. **Arctic Demonstration Program**
-   - "Arctic UAS Demonstration - White Paper Questionnaire and CJFC Vendor Brief" (May 21, 00:58 Jack forwards to Daniel, Beck, Maciej)
-   - Deadline/urgency implied by distribution
-
-5. **Hardware/System Integration**
-   - **Atmolab Camera System** — escalated significantly:
-     - May 20: Daniel ↔ Jure Dolinar (IMPORTANT)
-     - May 20: Jure → Jack Elston (IMPORTANT response)
-     - May 21: Jack forwards to full KrateoSky leadership + BST team (01:37 UTC); Jure responds same morning (07:59)
-     - **Pattern:** Camera system is blocking item for partnership; now involves executive-level KrateoSky coordination
-   - **ECSDOT
+#### 1. **UK/US Navy/Defense SBIR Program** (CRITICAL — NEW ESCALATION)
+- **Subject:** "Merlin Mk2/US Navy SBIR"
+- **Parties:** Simon Laurence (UK MoD), Jack Elston (BST lead

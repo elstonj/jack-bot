@@ -13,7 +13,7 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Sergio Ruocco (eMASS AI) - Autoboot firmware expert, SDK bring-up and troubleshooting
 - Shantanu (eMASS AI) - Hardware verification and validation
 
-**Activity Level:** Highly active collaboration spanning February-April 2026, with continued activity into May 2026. Intensive HWIL and model training in March-April. Critical first-flight test completed on Apr 24, 2026. Recent activity (May 4-5, 2026) focused on testing methodology and flight plan preparation for controller evaluation. Current activity (May 8-15, 2026) indicated preparation for simulation testing and refinement of control architecture. Latest activity (May 20-21, 2026) focused on velocity command control mode refinement and frequency optimization.
+**Activity Level:** Highly active collaboration spanning February-April 2026, with continued activity into May 2026. Intensive HWIL and model training in March-April. Critical first-flight test completed on Apr 24, 2026. Recent activity (May 4-5, 2026) focused on testing methodology and flight plan preparation for controller evaluation. Activity through May 20-21, 2026 focused on velocity command control mode refinement, frequency optimization, and flight test sequence clarification.
 
 ---
 
@@ -84,16 +84,12 @@ This channel serves as the primary collaboration hub between Black Swift Technol
   - Model 1: Maximum 4% change constraint
   - Model 2: Maximum 10% change constraint
 - Rationale: Will enable testing of AI accuracy improvements using flight data from compliant waypoint path (same path used for Gazebo training)
-- Status: Models to be sent to BST before next test flight
+- Status: Models sent to BST before subsequent test flight
 
 **AI Model Control Behavior Specification (Apr 25-26, 2026)**
 - Jack Elston requested clarification on AI model behavior once activated in flight: "will it hold a point or try to fly somewhere?"
 - Mohamed M. Sabry confirmed: AI model primarily follows the planned path/waypoints and will hover if waypoints imply a hover command
 - Rationale: Model trained to track waypoint-based flight plans, not maintain fixed positions
-
-**Waypoint Loading & Active Plan Verification (Apr 26, 2026)**
-- Jack Elston inquired whether eMASS is actively checking which waypoints are loaded and which flight plan is active
-- Status: Clarification pending from eMASS team regarding active monitoring of loaded waypoints and plan status in flight
 
 **PWM Value Range Correction (Apr 27, 2026)**
 - Nikhila identified discrepancy in PWM actuator value conversion in emass_handler.cpp
@@ -103,5 +99,11 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Impact: Simple loopback test sending incoming PWM values back caused autopilot shutdown, indicating conversion error
 - Status: Awaiting corrected range specification before next test
 
-**AI Model PWM Output Rate - Initial Adjustment (Apr 27, 2026)**
-- eMASS team proposed increasing PWM
+**PWM Command Frequency Optimization (May 21, 2026)**
+- Jack Elston noted uncertainty about maximum frequency for PWM commands during velocity command control mode testing
+- **Decision: Match velocity command frequency to PWM input frequency** for consistent control cadence
+- Rationale: Jack suggested PWM frequency should approximate whatever frequency eMASS is receiving for PWM input
+- Status: Pending determination of optimal PWM input frequency from flight logs
+
+**Flight Test Sequence & Waypoint Plan Protocol (May 21, 2026)**
+- Jack El

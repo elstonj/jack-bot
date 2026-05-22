@@ -51,24 +51,29 @@ The project required extensive regulatory coordination and stakeholder managemen
 ## Related Active Projects (as of May 2026)
 Per team feedback, these are **separate active projects**:
 
-### Navy SBIR Magnetometer
-- **Kick-off Date**: April 22, 2026 (per Maciej Stachura)
-- **Technical Lead**: U058LGYMEQ0
-- **Status**: Mostly on schedule (per Jack Elston, May 8, 2026; Maciej Stachura, May 6, 2026)
-- **Deliverables**: Kick-off presentation template and report templates available in Asana; Award Deliverable Templates at https://navysbir.com/links_forms.htm
-- **Note**: Requires prominent display of company name and business information on all reports/cover pages per Navy requirements
-- **Priority Rank**: #5 among current projects (per Maciej Stachura, April 30, 2026)
-
 ### Navy STTR
+- **Status**: **TOP PRIORITY** (per Jack Elston, May 8 & 11, 2026)
 - **Submission Date**: April 17, 2026
-- **Priority Status**: **TOP PRIORITY** — takes priority over Navy SBIR Magnetometer (per Jack Elston, May 8, 2026; Maciej Stachura, May 6, 2026)
 - **Status**: Under active development; task updates ongoing in Asana
 
-### Current Priority Project Ranking (as of April 30–May 8, 2026)
-Per Maciej Stachura (April 30, 2026) and Jack Elston (May 8, 2026):
-1. **Navy STTR** — **Top Priority** (Jack Elston correction, May 8, 2026)
+### Navy SBIR Magnetometer
+- **Kick-off Date**: April 22, 2026 (per Maciej Stachura, April 22, 2026)
+- **Technical Lead**: U058LGYMEQ0
+- **Status**: Mostly on schedule (per Jack Elston & Maciej Stachura, May 6–8, 2026)
+- **Deliverables**: Kick-off presentation template and report templates available in Asana; Award Deliverable Templates at https://navysbir.com/links_forms.htm
+- **Note**: Requires prominent display of company name and business information on all reports/cover pages per Navy requirements
+- **Priority Rank**: #5 among current projects (per Maciej Stachura, April 24 & 30, 2026)
+
+### Current Priority Project Ranking (as of April 24–May 11, 2026)
+Per Maciej Stachura (April 24 & 30, 2026) and Jack Elston (May 8 & 11, 2026):
+1. **Navy STTR** — **TOP PRIORITY** (Jack Elston, May 8 & 11, 2026)
 2. **S3 IRAD** — Targeted delivery end of May for UMES S3
 3. **S0-VTOL** — Two deliveries for ERAU and Barbados
 4. **EMASS** — Closing out
 5. **By-Lite Mustang**
 6. **Navy SBIR Magnetometer** — Initial tasks underway; mostly on schedule
+
+---
+
+## Strategic Notes
+- DoD SBIR/STTR strategy (May 6–7, 2026): Team is consolidating focus via shared document (Daniel Prendergast's DoD SBIR/STTR List) rather than pursuing all opportunities. Daniel recommends submitting only the first two opportunities listed. Team prefers iterative document review over meetings.

@@ -4,15 +4,15 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-05-20",
-    "end": "2026-05-21"
+    "start": "2026-05-21",
+    "end": "2026-05-22"
   },
   "totals": {
     "revenue": 216000.0,
-    "expenses": 2183.9,
+    "expenses": 1346.84,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 2053.23,
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 130.67
+      "DIRECT COSTS:DC-Direct Material Purchases": 1326.59,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 20.25
     }
   },
   "invoices": [
@@ -90,42 +90,37 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "doc_number": "",
-      "total": 1149.61,
-      "attributed": 1149.61,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Wire Transfer",
-      "lines": [
-        {
-          "amount": 1149.61,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Servos"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-20",
-      "doc_number": "68821",
-      "total": 1183.86,
-      "attributed": 1034.29,
+      "total": 1326.59,
+      "attributed": 1326.59,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 149.57,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": ""
-        },
-        {
-          "amount": 1034.29,
+          "amount": 1326.59,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-21",
+      "doc_number": "",
+      "total": 20.25,
+      "attributed": 20.25,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 20.25,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Duties/Customs fees for shipment from Alerion on 5/05/25 - IDIQ items"
         }
       ]
     }

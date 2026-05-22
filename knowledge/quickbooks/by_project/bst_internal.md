@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $1,099,646.47
+- **Total Expenses (Bills + Purchases)**: $1,109,357.83
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,081,752.11 (expenses exceed revenue significantly)
+- **Net Position**: -$1,091,463.47 (expenses exceed revenue significantly)
 - **Date Range**: April 5, 2024 – June 4, 2026 (26+ months)
-- **Transaction Count**: 1,116+ *(all confirmed)*
+- **Transaction Count**: 1,123+ *(all confirmed)*
 
 ---
 
@@ -28,8 +28,17 @@
 
 ## Expenses by Cost Category
 
-### Direct Labor & Subcontractors: $384,547.30
-**Total: $384,547.30** | **23 vendors** | **Largest: Matthew Crabtree $103,227.68**
+### Direct Labor & Subcontractors: $389,501.30
+**Total: $389,501.30** | **24 vendors** | **Largest: Matthew Crabtree $108,181.68**
+
+**Recent Confirmed Purchases (May 21, 2026):**
+
+**Bill #BST-May2026-1**: $4,954.00 (May 21, 2026) — Matthew Crabtree
+- **Account**: [RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp]
+- **Description**: AP_CORE_BOARD_1-V0.2 – ASSEMBLY (32pcs)
+- **Purpose**: Core board assembly component for R&D/production
+- **Status**: ✓ Confirmed
+- **Impact**: Reflects ongoing R&D-classified assembly subcontracting; Matthew Crabtree cumulative total now $108,181.68
 
 ---
 
@@ -58,10 +67,10 @@
 
 ---
 
-### IRAD Indirect R&D (Subcontractors & Internal): $50,254.16
-**Total: $50,254.16** | **25 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62**
+### IRAD Indirect R&D (Subcontractors & Internal): $60,008.16
+**Total: $60,008.16** | **32 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; Matthew Crabtree R&D Assembly $4,954.00**
 
-**Recent Confirmed Transactions (May 20–June 1, 2026):**
+**Recent Confirmed Transactions (May 21–June 1, 2026):**
 
 **Bill #7020**: $10,773.62 (June 1, 2026) — Boostr Consulting LLC  
 - **Account**: RESEARCH & DEVELOPMENT : IRAD-Indirect Subcontractor Exp
@@ -70,6 +79,24 @@
 - **Status**: Settlement of prior-year R&D expenditure documentation and claim
 - **Impact**: Represents tangible recovery against cumulative R&D investments; aligns with annual tax filing cycle
 - **Data Validation**: ✓ Transaction confirmed
+
+**Bill #BST-May2026-1**: $4,954.00 (May 21, 2026) — Matthew Crabtree
+- **Account**: [RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp]
+- **Description**: AP_CORE_BOARD_1-V0.2 – ASSEMBLY (32pcs)
+- **Purpose**: Core board assembly for R&D/prototype development
+- **Status**: ✓ Confirmed
+- **Impact**: Continuation of Matthew Crabtree subcontracting for R&D assembly work
+
+**Purchase #99376023**: $115.71 (May 21, 2026)  
+- **Vendor**: Digi Key Corp (DKC*DIGI KEY CORP - 4617)
+- **Account**: [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]
+- **Purpose**: Electronic component procurement for R&D
+- **Status**: ✓ Confirmed
+
+**Purchase #9693**: $362.35 (May 21, 2026)  
+- **Account**: [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]
+- **Purpose**: R&D component or supply
+- **Status**: ✓ Confirmed
 
 **Purchase #393639**: $191.15 (May 20, 2026)  
 - **Account**: [IRAD-Internal Research and Development]
@@ -80,6 +107,27 @@
 **Purchase #S424H298**: $146.85 (May 20, 2026)  
 - **Account**: [IRAD-Internal Research and Development]
 - **Status**: ✓ Confirmed
+
+---
+
+### Rent & Facilities: $52,720.50
+**Total: $52,720.50** | **3 transactions** | **Largest: W. W. Reynolds Companies $7,059.94**
+
+**Recent Confirmed Transactions (May 21, 2026):**
+
+**Bill**: $7,059.94 (May 21, 2026) — W. W. Reynolds Companies
+- **Account**: [FACILITIES:FA-Rent Expense]
+- **Description**: June 2026 rent
+- **Purpose**: Monthly facility rent payment
+- **Status**: ✓ Confirmed
+- **Impact**: Regular monthly operational expense; cumulative rent/facilities total now $52,720.50
+
+**Purchase #0520JELSTON**: $153.19 (May 21, 2026)
+- **Account**: [FACILITIES:FA-Shop Supplies]
+- **Description**: Heat shrinking tubing; screws
+- **Memo**: No Asana request. Josh placed the order directly. Shop supplies
+- **Purpose**: Facility/shop consumables
+- **Status**: ✓ Confirmed (direct procurement, no formal request)
 
 ---
 
@@ -97,25 +145,23 @@
 
 ## Monthly Spend by Category
 
-| Month | Direct Labor & Subs | Materials & Purchases | IRAD R&D | G&A | Total |
-|-------|---------------------|----------------------|----------|-----|-------|
-| **May 20–Jun 4, 2026 (Active Period)** | $0 | $1,733.58 | $986.37 | $0 | **$2,719.95** |
-| **Breakdown by date**: | | | | | |
-| — May 20, 2026 | $0 | $1,034.29 | $785.42 | $0 | **$1,819.71** |
-| — May 21, 2026 | $0 | $0 | $0 | $0 | **$0** |
-| — June 1, 2026 | $0 | $0 | $10,773.62 | $0 | **$10,773.62** |
-| — June 4, 2026 | $0 | $48.96 | $0 | $0 | **$48.96** |
-| **Prior cumulative (Apr 2024–May 19, 2026)** | **$384,547.30** | **$519,062.46** | **$38,494.17** | **$45,661.50** | **$987,765.43** |
-| **Grand Total (All Confirmed)** | **$384,547.30** | **$520,845.29** | **$50,254.16** | **$45,661.50** | **$1,001,308.25** |
+| Month | Direct Labor & Subs | Materials & Purchases | IRAD R&D | Rent & Facilities | G&A | Total |
+|-------|---------------------|----------------------|----------|-------------------|-----|-------|
+| **May 21–Jun 4, 2026 (Latest Period)** | $4,954.00 | $48.96 | $5,781.72 | $7,213.13 | $0 | **$17,997.81** |
+| — May 21, 2026 | $4,954.00 | $0 | $631.25 | $7,213.13 | $0 | **$12,798.38** |
+| — May 20, 2026 | $0 | $1,034.29 | $785.42 | $0 | $0 | **$1,819.71** |
+| — June 1, 2026 | $0 | $0 | $10,773.62 | $0 | $0 | **$10,773.62** |
+| — June 4, 2026 | $0 | $48.96 | $0 | $0 | $0 | **$48.96** |
+| — May 20–June 4 (All new submissions) | $4,954.00 | $1,733.58 | $11,776.72 | $7,213.13 | $0 | **$25,677.43** |
+| **Prior cumulative (Apr 2024–May 19, 2026)** | **$384,547.30** | **$519,111.71** | **$38,494.17** | **$45,661.50** | **$45,661.50** | **$1,033,476.18** |
+| **Grand Total (All Confirmed)** | **$389,501.30** | **$520,845.29** | **$60,008.16** | **$52,720.50** | **$45,661.50** | **$1,068,736.75** |
 
-*Note: Prior cumulative adjusted to account for May 20–June 4 new transactions. June 1 Boostr bill was pre-existing in prior knowledge file; included in consolidated total.*
-
-**Burn Rate Analysis (May 20–Jun 4 active period):**
-- Six transactions totaling $2,719.95 over 15 calendar days (excluding June 1 non-recurring tax settlement)
-- **Operational burn** (excluding Boostr settlement): $1,946.33 over 15 days = $129.75/day avg. (~$3,892/month)
-- **With R&D tax credit settlement**: $14,693.57 / 15 days = $979.57/day (~$29,387/month non-recurring)
-- **Trend**: Low-velocity procurement and R&D component purchases; minimal labor charges; annual R&D tax settlement skews monthly average
-- **Seasonal Note**: June 1 Boostr transaction is non-recurring annual tax filing event; does not represent baseline operational spending
+**Burn Rate Analysis (May 20–June 4 active period):**
+- 13 transactions totaling $25,677.43 over 15 calendar days
+- **Operational burn** (excluding June 1 Boostr non-recurring tax settlement): $14,903.81 over 15 days = $993.59/day avg. (~$29,808/month)
+- **With R&D tax credit settlement**: $25,677.43 / 15 days = $1,711.83/day (~$51,355/month non-recurring)
+- **Trend**: Moderate-to-elevated velocity driven by May 21 bulk expenses (Matthew Crabtree $4,954.00 assembly, W. W. Reynolds $7,059.94 June rent, Digi Key/R&D components $478.06). June 1 Boostr settlement remains non-recurring annual tax filing event.
+- **Seasonal Note**: May 21 appears to be consolidated payment/invoice processing date (multiple bills/purchases same day)
 
 ---
 
@@ -129,54 +175,7 @@
    - *Impact*: Partial offset to cumulative R&D expense burden; timing aligns with annual tax filing cycle
    - *Status*: ✓ Confirmed settled
 
-2. **Northwind Composites (Multi-Project) — $4,164.75 (May 18, 2026)**
-   - **Multi-project scope**: 2026 IDIQ, Sasquatch, plus 6 future S0 sales (inventory)
-   - **Items**: Thermoset laminate linen tubes + composite components + inventory for future S0 production
-   - **Allocation**: $3,331.80 to direct material purchases; $832.95 to inventory asset
-   - **Procurement Path**: Handled directly by sales rep (no Asana request required per standard multi-project workflow)
-   - *Impact*: Indicates concurrent project execution and forward inventory investment for S0 production scaling
-   - *Status*: ✓ Confirmed shipped to Lee Skidmore
-
-### Recent Low-Value R&D Component Purchases (May 20, 2026)
-
-3. **Purchase #68821 — $1,183.86** (Multi-account, mixed R&D & direct material)
-   - $1,034.29 direct materials; $149.57 internal R&D
-   - Typical R&D procurement pattern
-
-4. **Purchase #393639 — $191.15** (RF Connector Cable)
-   - N Male to UMCX Plug Cable (RG178 Coax x2)
-   - Suggests antenna/RF testing or integration work in active R&D projects
-   - *Impact*: Consistent with MIMO antenna R&D (see Purchase #WL5294244 below)
-
-5. **Purchase #WL5294244 — $498.73** (RF/Antenna Component)
-   - 2.4 GHz 13 dBi Dual Polarity Omnidirectional MIMO antenna
-   - Indicates RF hardware development or drone/communication system R&D
-   - *Impact*: Paired with RF connector purchase suggests active antenna integration project
-
-6. **Bearing Shipment Inventory — $48.96 (June 4, 2026)**
-   - Shipping cost allocation for 123 bearing unit shipment
-   - Destined for future S3 sales inventory
-   - *Impact*: Continuation of inventory accumulation strategy for production scaling (S0 & S3 models)
-
-### Outstanding Items Requiring Resolution
-
-- **Phase1 Aviation Double-Payment**: $6,105.00 balance on invoice #1696 (20 wings) — **ACTION**: Issue credit memo or arrange recovery
-- **Outstanding Receivables**: $17,894.36 (100% of invoiced revenue) — **ACTION**: Follow up with Krateo Sky, Weather Stream, Phase1 Aviation on payment status
-- **Outstanding PO #1038**: $1,700.00 Amprius battery cells — **ACTION**: Confirm delivery and receipt status
-
----
-
-## Data Integrity & Change Log
-
-### New Submission Validation (2026-05-20 to 2026-06-04)
-
-**6 New Transactions Identified and Integrated:**
-
-| Transaction | Amount | Account | Date | Status |
-|-------------|--------|---------|------|--------|
-| Bill #7020 (Boostr R&D Tax Credits) | $10,773.62 | IRAD-Indirect Subcontractor Exp | 2026-06-01 | ✓ Pre-existing; already in knowledge file |
-| Purchase #68821 | $1,183.86 | DC-Direct Material + IRAD-Internal R&D | 2026-05-20 | ✓ NEW |
-| Purchase #S424H298 | $146.85 | IRAD-Internal R&D | 2026-05-20 | ✓ NEW |
-| Purchase #393639 | $191.15 | IRAD-Internal R&D | 2026-05-20 | ✓ NEW |
-| Purchase #WL5294244 | $498.73 | IRAD-Internal R&D | 2026-05-20 | ✓ NEW |
-| Purchase (Bearing
+2. **W. W. Reynolds Companies (June 2026 Rent) — $7,059.94 (May 21, 2026)**
+   - **Account**: [FACILITIES:FA-Rent Expense]
+   - **Purpose**: Monthly facility rent advance payment
+   - **Timing**: Advance payment (dated May 21 for June occupancy); suggests cash flow management or lease terms

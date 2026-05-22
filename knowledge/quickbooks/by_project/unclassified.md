@@ -2,10 +2,10 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $1.00
-- **Total Expenses (Payments):** $3,510,632.27
+- **Total Expenses (Payments):** $3,513,222.84
 - **Total Purchase Orders:** $0.00
-- **Net Position:** -$3,510,631.27
-- **Date Range:** 2024-04-05 to 2026-05-06 (24 months, 31 days)
+- **Net Position:** -$3,513,221.84
+- **Date Range:** 2024-04-05 to 2026-05-22 (24 months, 48 days)
 
 ---
 
@@ -24,7 +24,7 @@
 ## Expenses by Cost Category
 
 **Note:** Transaction data does not include explicit account coding for cost categorization beyond project/class codes. The explicit account tags identified:
-- **GA-Finance & Bank Charges:** $333.00 (QuickBooks Payments fees: $25.75 + $250.00 + $7.50 + $250.00)
+- **GA-Finance & Bank Charges:** $460.07 (QuickBooks Payments fees: $25.75 + $250.00 + $7.50 + $250.00 + $127.07)
 
 All other transactions are recorded at project/class level without detailed cost category breakdown. Below is a **provisional categorization** based on vendor/project type and typical BST operations:
 
@@ -33,15 +33,15 @@ All other transactions are recorded at project/class level without detailed cost
 | Category | Total | # Transactions | Largest Items |
 |----------|-------|-----------------|----------------|
 | **Direct Labor** | ~$150,000–200,000 | ~15 | Isaac Anderson ($2,900), Mark Motter ($5,435), Prof. Fu-Kuo Change ($5,000), Temple Lee ($22,142) |
-| **Subcontractors** | ~$400,000–500,000 | ~25 | University partners, research institutions, specialized vendors |
+| **Subcontractors** | ~$400,000–500,000 | ~26 | University partners, research institutions, specialized vendors, Embry-Riddle Aeronautical University ($23,865.99 cumulative) |
 | **Equipment** | ~$600,000–800,000 | ~20 | Navy SBIR/STTR programs, By Light Mustang ($350K), equipment-focused projects |
 | **Materials & Supplies** | ~$300,000–400,000 | ~18 | Murphy's Pond CH4, CRATER, AREN, prototype build materials |
 | **Travel** | ~$50,000–75,000 | ~8 | Phase1 Aviation ($6,105), Krateo Sky ($10,860.48), travel/logistics for field projects |
 | **Shipping/Freight** | ~$30,000–50,000 | ~5 | Implied in project expenses (not separately itemized) |
-| **Indirect Costs / G&A** | ~$333.00 | 4 | QuickBooks Payments fees ($25.75 + $250.00 + $7.50 + $250.00) |
+| **Indirect Costs / G&A** | ~$460.07 | 5 | QuickBooks Payments fees ($25.75 + $250.00 + $7.50 + $250.00 + $127.07) |
 | **Rent/Facilities** | ~$0 | 0 | None explicitly recorded |
 | **Other** | ~$800,000–1,000,000 | ~30 | Project pass-throughs, research partnerships, institutional charges |
-| **TOTAL** | **$3,510,632.27** | **97** | — |
+| **TOTAL** | **$3,513,222.84** | **99** | — |
 
 **⚠️ Limitation:** Without detailed account-level coding on each line item, precise cost categorization is not possible from this dataset. **To improve cost tracking, recommend:**
 1. Require all QB transactions to include account/cost-category tags
@@ -81,7 +81,7 @@ All other transactions are recorded at project/class level without detailed cost
 | [211-1] | NASA Ames MHP | $3,470.00 | 1 |
 | [024] | Rainmaker Technology Corporation | $6,834.23 | 3 |
 | [302] | Temple Lee | $22,142.00 | 2 |
-| [012] | Embry-Riddle Aeronautical University | $21,403.99 | 3 |
+| [012] | Embry-Riddle Aeronautical University | $23,865.99 | 4 |
 | [038] | University of Maryland | $1,488.00 | 2 |
 | [034] | University of Virginia | $492.50 | 1 |
 | [451] | INSTAAR Stable Isotope Lab, CU Boulder | $13,853.10 | 1 |
@@ -91,12 +91,12 @@ All other transactions are recorded at project/class level without detailed cost
 | (unclassified) | Krateo Sky | $10,860.48 | 1 |
 | (unclassified) | Toyota Research Institute | $750.00 | 1 |
 | (unclassified) | Nestor Rivera | $500.00 | 2 |
-| (unclassified) | QuickBooks Payments Fees | $333.00 | 4 |
-| **TOTAL** | | **$3,510,632.27** | **97** |
+| (unclassified) | QuickBooks Payments Fees | $460.07 | 5 |
+| **TOTAL** | | **$3,513,222.84** | **99** |
 
-**New/Updated May 2026 Transactions:**
-- **(035-1) Adonis:** +$34,000.00 (total now $110,500.00)
-- **[300-3] 2026 IDIQ:** +$72,000.00 (+$54,000.00 + $18,000.00; total now $108,000.00)
+**May 2026 Updates:**
+- **[012] Embry-Riddle Aeronautical University:** +$2,462.50 (new transaction 2026-05-21; cumulative total now $23,865.99)
+- **QuickBooks Payments Fees:** +$127.07 (DiscountRateFee, daily fee; cumulative total now $460.07)
 
 ---
 
@@ -123,4 +123,4 @@ All other transactions are recorded at project/class level without detailed cost
 | 2025-08 | $284,340.10 | S0 Hurricane ($105,610), Navy STTR ($70,000), SMM Phase II ($99,725), Isaac Anderson ($2,900), Phase1 Aviation ($6,105) |
 | 2025-09 | $112,492.50 | Navy SBIR ($70,000), CRATER ($39,310), Murphy's Pond ($37,704), NASA Persistence ($4,428), UVA ($492.50) |
 | 2025-10 | $242,310.00 | S0 Hurricane ($0, deferred), By Light Mustang ($100K), Navy SBIR ($49K), Navy STTR ($49K), By Light Prototype ($5,100), CRATER ($39,310) |
-| 2025-11 | $530,759.00 | S0 Hurricane ($185,850), By Light Mustang ($200K), Navy SBIR ($49K), CRATER ($39,309), NASA Persistence ($35K), Adonis ($30
+| 2025-11 | $530,759.00 | S0 Hurricane ($185

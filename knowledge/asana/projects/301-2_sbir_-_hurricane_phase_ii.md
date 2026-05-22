@@ -28,7 +28,7 @@
 - **Primary assignees**:
   - **Jack Elston**: Led most technical flight operations, flight control algorithm troubleshooting, GCS/HDOB integration, wind estimation fixes, sensor QC, magnetometer calibration, MHTP development and hardware verification
   - **Josh Fromm**: Project management, QC/final assembly coordination, weekly status updates, manufacturing coordination, housing installation, sealing, MHTP mechanical assembly
-  - **Dan Prendergast**: Flight algorithm testing and validation
+  - **Dan Prendergast**: Flight algorithm testing and validation, eyewall following algorithm development
   - **Maciej Stachura**: Flight control algorithms, vertical wind bias correction, pitot tube diagnostics, code updates with wind tunnel calibrations and real-time wind estimation, MHTP firmware development and testing
   - **Ben Busby**: Flight operations, preflight checklist procedures, path planning optimization
   - **Meredith O'hara Needham**: Manufacturing (MHTP modules), shipping coordination, sensor management
@@ -52,7 +52,7 @@
 - **May 2023**: Sent to Area-I for initial integration
 - **July-September 2023**: Data retrieval verification, magnetometer calibration completion, firmware orientation updates, completed 2023-09-21
 
-Final project phase (Aug-Oct 2024) focused on hurricane field operations and system validation:
+**Final project phase (Aug-Oct 2024)** focused on hurricane field operations and system validation:
 - **Late July 2024**: Shipped 12 S0 UAS units to NOAA AOC (ahead of schedule)
 - **August 2024**: MHTP modules delivered, early hurricane field study operations began
 - **September-October 2024**: Intensive troubleshooting of:
@@ -73,11 +73,12 @@ Final project phase (Aug-Oct 2024) focused on hurricane field operations and sys
 - S0 UAS systems (12 units delivered)
 - Custom MHTP (hurricane research payload) for Altius 600 platform
 - Scientist-facing web-based GUI for data review
+- Eyewall following algorithm module for autonomous hurricane reconnaissance
 
 **Technical Focus**: Hurricane data collection and reconnaissance using specialized UAS with:
 - Wind measurement capabilities (HDOB integration)
 - Vertical wind estimation algorithms
-- Mission planning for tropical cyclone research
+- Autonomous mission planning for tropical cyclone research including eyewall following
 - Real-time data transmission and GCS integration
 - RS421 sensor interface for robust data transmission in harsh conditions
 - Dynamic pressure measurement with raw sensor data logging for clog mitigation in precipitation
@@ -85,6 +86,7 @@ Final project phase (Aug-Oct 2024) focused on hurricane field operations and sys
 **Key Technical Achievements**:
 - Successful HDOB integration with GCS and Area-I computer
 - Wind estimation algorithm refinement including real-time capability and vertical wind bias correction
+- Eyewall following algorithm development for autonomous reconnaissance in hurricane eye
 - Robust flight termination logic and failsafe procedures
 - Multi-system coordination (S0 UAS with P3 aircraft altitude separation protocols)
 - Tablet-based field operations interface
@@ -114,12 +116,10 @@ Final project phase (Aug-Oct 2024) focused on hurricane field operations and sys
 
 **Navy STTR**
 - **Status**: Submitted with invoice (Meredith Needham, 4/17/26)
-- **Current Priority**: **HIGH** — Jack Elston flagged Navy STTR as priority over SBIR Magnetometer (5/8/26, confirmed 5/11/26)
+- **Current Priority**: **HIGH** — Jack Elston confirmed priority over SBIR Magnetometer (5/8/26, reconfirmed 5/11/26): *"the navy sttr has priority, the SBIR is mostly on schedule"*
 
 **SBIR Magnetometer (Navy)**
 - **Status**: Kicked off April 21, 2026 (Maciej, 4/21/26)
 - **Technical Lead**: Designated team member with support from others (Maciej, 4/22/26)
 - **Key Deliverables**: 
-  - FWA Certification — Due: April 14, 2026
-  - Kick-off Slidedeck (template provided) — Due: April 14, 2026
-  - Report templates and instructions: https://navysbir.com/links_forms.htm
+  - FWA

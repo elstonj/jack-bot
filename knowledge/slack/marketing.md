@@ -124,8 +124,4 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 - Otherwise approved ("looks great!")
 - Status: Minor edits pending approval
 
----
-
-## Projects & Initiatives
-
-### Newsletter Development
+### NOAA HAFS Integration LinkedIn Post (

@@ -13,16 +13,22 @@
   - Invoice schedule: March 2026 – July 2026
   - **Critical hardware ship date:** May 27, 2026 (SHOW units)
   - **Final delivery deadline:** June 30, 2026 (all 20 units packed)
-- **Status:** **ACTIVE — CRITICAL PHASE RECENTLY COMPLETED.** Hardware builds substantially finished. **⚠️ NOTE: 1 OPEN TASK DETECTED IN NEW DATA** — "Build 5 power switches with short pcb" assigned to Nate Straus, due 2026-05-21. This task was NOT in the previous knowledge file and may indicate upcoming/ongoing work. 4 of 6 invoices completed; next invoice due 6/5/26.
+- **Status:** **ACTIVE — CRITICAL PHASE IN PROGRESS.** ⚠️ **4 OPEN TASKS DETECTED** — hardware builds in final stages. Key tasks due 5/21–5/22 (power switches, s0 units, shipment to NOAA). 4 of 6 invoices completed; next invoice due 6/5/26.
 - **Team Members:** 
-  - Meredith O'hara Needham (project owner, invoice submissions)
-  - Jack Elston (firmware/software development) — firmware fix completed 5/8 (7 days late)
+  - Meredith O'hara Needham (project owner, shipments, invoice submissions)
+  - Jack Elston (firmware/software development)
   - Sam Hild (QC, hardware validation, kit assembly)
-  - Nate Straus (platform rebuild/validation, s0 builds, servo assembly, linkage construction, **power switch builds**)
-  - Maciej Stachura (platform validation/testing, magnetic calibration)
+  - Nate Straus (platform rebuild/validation, s0 builds, servo assembly, linkage construction, power switch builds) — **carrying majority of open hardware tasks**
+  - Maciej Stachura (platform validation/testing, magnetic calibration, parameter file validation)
   - Alex Lomis (strategic partnerships, NASA opportunities)
   - Josh Fromm (GCS assembly, long-lead parts procurement)
-- **Risk Signals:** ⚠️ **OPEN TASK: "Build 5 power switches with short pcb" due 2026-05-21 (Nate Straus).** This is a near-term task that may be on the critical path for final unit assembly. No completion data yet. Hardware shipping milestones (tripods, s0 builds) completed ahead of schedule on 5/19/26.
+- **Risk Signals:** 
+  - ⚠️ **3 critical tasks due 5/21–5/22, all in active work state:**
+    - "Build 5 power switches with short pcb" (Nate Straus, due 5/21)
+    - "Build up 2 SHOW s0's using 2025 parts - MUST SHIP MAY 27th" (Nate Straus, due 5/22)
+    - "Ship S0s Models to NOAA (2 locations)" (Meredith O'hara Needham, due 5/22)
+  - ⚠️ **Potential conflict in s0 requirements:** Previous knowledge file documented completion of "Build 2 SHOW s0's using 2026 parts" (completed 5/19). New data shows "Build up 2 SHOW s0's using 2025 parts - MUST SHIP MAY 27th" as OPEN. Clarify whether these are different unit builds (total of 4 s0 units) or task duplication/rework.
+  - ⚠️ **May 27 ship date is near-term critical path.**
 
 ## Key Deliverables & Milestones
 
@@ -48,31 +54,17 @@
 |------|-------|----------|--------|-------|
 | **Add RH / Vaisala fix to PSNS code** | Jack Elston | 2026-05-01 | ✅ COMPLETED 2026-05-08 (7 days late) | Firmware fix completed; downstream work unblocked. |
 | **Rebuild BST s0 (platform rebuild)** | Nate Straus | 2026-05-15 | ✅ COMPLETED 2026-05-14 (1 day early) | Critical progress on schedule. |
-| **Build 2 SHOW s0's using 2026 parts** | Nate Straus | 2026-07-17 (Asana) | ✅ **COMPLETED 2026-05-19 (59 DAYS EARLY)** | **Shipped ahead of critical May 27 deadline.** |
-| **Build 2 SHOW tripods** | Nate Straus | 2026-05-22 | ✅ **COMPLETED 2026-05-19 (3 DAYS EARLY)** | **Shipped with s0 units ahead of schedule.** |
-| **Build 5 power switches with short pcb** | Nate Straus | 2026-05-21 | ⏳ OPEN | New task detected in raw data; no completion data yet. Assess status with team. |
+| **Build 2 SHOW s0's using 2026 parts** | Nate Straus | 2026-07-17 | ✅ **COMPLETED 2026-05-19 (59 days early)** | **Previous knowledge: shipped ahead of critical May 27 deadline.** |
+| **Build 2 SHOW tripods** | Nate Straus | 2026-05-22 | ✅ **COMPLETED 2026-05-19 (3 days early)** | **Previous knowledge: shipped with s0 units ahead of schedule.** |
+| **Build 5 power switches with short pcb** | Nate Straus | 2026-05-21 | ⏳ OPEN | New data shows open status; likely part of 2025-parts build cycle. |
+| **Build up 2 SHOW s0's using 2025 parts - MUST SHIP MAY 27th** | Nate Straus | 2026-05-22 | ⏳ OPEN | **CRITICAL TASK.** Distinct from 2026-parts build completed 5/19. May indicate secondary unit production or rework. |
+| **Ship S0s Models to NOAA (2 locations)** | Meredith O'hara Needham | 2026-05-22 | ⏳ OPEN | **CRITICAL SHIPMENT TASK.** Addresses 2 NOAA locations: UASD (Lakeland, FL) and UxSOC (1315 East-West Hwy, Siver Spring, MD area). |
+| **Get 2025 and 2026 params files validated and in folder** | Maciej Stachura | 2026-06-30 | ⏳ OPEN | Parameter validation for both unit generations; lower urgency (due end of project). |
 
 ## Task Summary
 
-**Open Tasks in Asana: 1**
-- ⏳ Build 5 power switches with short pcb | Nate Straus | Due 2026-05-21 | Status: **OPEN**
-
-**Completed Tasks: 2**
-- ✅ Build 2 SHOW s0's using 2026 parts | Nate Straus | Due 2026-07-17 | Completed 2026-05-19
-- ✅ Build 2 SHOW tripods to ship with SHOW s0 2026's | Nate Straus | Due 2026-05-22 | Completed 2026-05-19
-
-**Notable Pattern:** Hardware assembly pipeline completed significantly ahead of schedule through mid-May. Single open task (power switches, due 5/21) assigned to Nate Straus appears to be part of ongoing unit assembly. No other open tasks visible.
-
-## Recent Activity
-
-- **2026-05-19:** Both SHOW s0 builds (2 units) and tripods (2 units) completed and ready to ship — **3–59 days ahead of respective due dates.** Critical hardware now staged for May 27 shipment.
-- **2026-05-08:** Firmware fix (RH/Vaisala) completed, 7 days behind original due date but did not block hardware builds.
-- **2026-05-14:** Platform rebuild (s0) completed 1 day early, enabling downstream unit assembly.
-- **2026-05-04:** Invoice 3 of 6 ($54k) submitted ahead of schedule (3 days early).
-- **⏳ CURRENT:** Open task "Build 5 power switches with short pcb" due 2026-05-21 (Nate Straus) — **status unknown; confirm completion with team.**
-
-## Notes & Context
-
-**Project Status:** In strong execution with recent critical completion. Previous knowledge noted s0 and tripod builds complete (5/19/26); new raw data confirms 1 open task for power switch assembly due 2026-05-21. Given that prior tasks shipped ahead of schedule and this task is assigned to Nate Straus (who has demonstrated early delivery), likelihood of on-time or early completion is high, but status should be confirmed.
-
-**Invoice Trajectory:** On track. 4 of 6 invoices completed ($162k + $18k travel = $180k submitted). Next invoice (4 
+**Open Tasks: 4**
+- ⏳ Build 5 power switches with short pcb | Nate Straus | Due 2026-05-21 | Status: OPEN
+- ⏳ Build up 2 SHOW s0's using 2025 parts - MUST SHIP MAY 27th | Nate Straus | Due 2026-05-22 | Status: OPEN
+- ⏳ Ship S0s Models to NOAA (2 locations) | Meredith O'hara Needham | Due 2026-05-22 | Status: OPEN
+- ⏳ Get 2025 and

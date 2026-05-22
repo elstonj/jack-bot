@@ -46,7 +46,7 @@
 5. **Recommend immediate sync meeting with Maciej, Josh Fromm, and S3 build owner** to formalize design and build task structure before end of May 2026 — Asana task visibility currently insufficient for multi-phase coordination
 
 **Key contacts:**
-- **Nate Straus** — CU-IRISS repair/training owner; [001-12] project owner
+- **Nate Straus** — [001-12] project owner; CU-IRISS repair/training owner
 - **Maciej Stachura** — S3 build coordination & project tracking owner
 - **Josh Fromm** — S3 design lead (battery, case, other components)
 - **Brian Argrow (CU-IRISS)** — Customer contact (brian.argrow@colorado.edu); training flight pending; NSF MUSAS certification update pending post-training

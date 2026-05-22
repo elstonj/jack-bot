@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $4,387,717.28
-- **Total Expenses (Bills + Purchases):** $1,329,258.80
+- **Total Expenses (Bills + Purchases):** $1,330,605.39
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,058,458.48 (invoiced minus expenses)
+- **Net Position:** $3,057,111.89 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -54,8 +54,8 @@
 
 ## Expenses by Cost Category
 
-### **Materials & Supplies: $468,370.38**
-**Number of transactions:** 191  
+### **Materials & Supplies: $469,696.97**
+**Number of transactions:** 192  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
 - **JAWSTEC:** $19,627.62 (components for S0 platforms)
@@ -103,7 +103,10 @@
   - **$1,034.29 [DC-Direct Material Purchases]**
   - $149.57 [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]
 
-**Total direct cost materials & supplies through 2026-09-28: $468,370.38** *(updated with 2026-05-20 servo and component purchases: +$2,333.47)*
+- **Purchase (2026-05-21):** **$1,326.59** [DC-Direct Material Purchases]
+  - General component/materials purchase
+
+**Total direct cost materials & supplies through 2026-09-28: $469,696.97** *(updated with 2026-05-21 purchase: +$1,326.59)*
 
 ---
 
@@ -128,7 +131,5 @@
 
 ---
 
-### **Shipping/Freight: $18.60**
-**Number of transactions:** 1  
-**Details:**
-- **FedEx shipment (2026-05-14, Purchase FEDEX37097183):** $18
+### **Shipping/Freight: $38.85**
+**Number of transactions:**

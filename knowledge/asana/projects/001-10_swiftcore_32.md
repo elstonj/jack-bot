@@ -4,7 +4,7 @@
 - **Client/Customer**: Internal maintenance project for BST autopilot system
 - **Dollar Value**: Not specified
 - **Timeline**: Active maintenance project with tasks spanning 2022–2023; last activity November 2023
-- **Status**: Active maintenance (99% completion rate, 302 of 305 tasks complete). **Note: May 2026 feedback from Daniel Prendergast indicates new workflow for software issues—tasks should be added to SwiftCore 3.3 project going forward rather than SwiftCore 3.2.** SwiftCore 3.2 itself remains in stable maintenance phase.
+- **Status**: Active maintenance (99% completion rate, 302 of 305 tasks complete). **Workflow Update (May 2026): Per Daniel Prendergast (May 8–15, 2026), new software issues should be added to the SwiftCore 3.3 project going forward, not SwiftCore 3.2.** SwiftCore 3.2 itself remains in stable maintenance phase.
 - **Team Members**: Jack Elston (Owner), Ben Busby, Maciej Stachura, with whole BST team involvement
 - **Risk Signals**: 3 open tasks in "Ready for Testing" status with no due dates; generally low risk given low priority rating and stable completion history. No overdue items.
 
@@ -39,7 +39,7 @@
 ## Notes & Context
 This is a critical maintenance project for BST's core autopilot technology (SwiftCore 3.2). The project demonstrates comprehensive quality assurance with extensive testing across multiple hardware platforms and simulators.
 
-**Workflow Update (May 2026)**: Per Daniel Prendergast feedback (May 8–15, 2026), new software issues should be added to the **SwiftCore 3.3 project** going forward, not SwiftCore 3.2. SwiftCore 3.2 is in stable maintenance mode. An Asana Form has been created as part of standard post-flight process to capture aircraft and equipment issues, automatically routing them to Fleet Maintenance (hardware) or appropriate software projects.
+**Workflow Update (May 2026)**: Per Daniel Prendergast (May 8–15, 2026), new software issues should be added to the **SwiftCore 3.3 project** going forward, not SwiftCore 3.2. SwiftCore 3.2 is in stable maintenance mode. An Asana Form has been created as part of standard post-flight process to capture aircraft and equipment issues, automatically routing them to Fleet Maintenance (hardware) or appropriate software projects.
 
 **Key technical areas addressed in completed work**:
 - **Flight safety systems**: Voltage monitoring, propulsion failure detection, landing protocols, static pressure failure detection, watchdog timers for GNSS and dynamic pressure
