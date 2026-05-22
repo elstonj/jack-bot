@@ -4,7 +4,7 @@
 - **Client/customer:** Internal BST development project
 - **Dollar value:** Not specified
 - **Timeline:** Multi-year project spanning 2018–2025, with final activity in December 2025
-- **Status:** **ARCHIVED** – Project concluded with all deliverables completed (180 tasks, 100% completion)
+- **Status:** **ARCHIVED** – Project concluded with all deliverables completed as of December 2025
 - **Team members involved:** Nate Straus, Ben Busby, Maciej Stachura, Josh Fromm, Jack Elston; majority of historical tasks unassigned
 - **Risk signals:** None (project complete)
 
@@ -63,6 +63,6 @@
 - Extensive supplier relationships (Hacker Motors, SKB cases, Lee for cost updates)
 
 **Ongoing fleet processes (as of May 2026):**
-- Daniel Prendergast introduced a post-flight issue reporting form (May 8–11, 2026) that automatically routes aircraft and equipment issues to either the "Fleet Maintenance" Asana Project (for hardware issues) or equivalent projects for other issue types. This has become part of standard BST post-flight procedures.
+Per Daniel Prendergast (May 8–11, 2026), a post-flight issue reporting form has been introduced that automatically routes aircraft and equipment issues to either the **"Fleet Maintenance" Asana Project** (for hardware issues) or other relevant projects. This is now part of standard BST post-flight procedures and supersedes task tracking within this archived project.
 
-**Status:** Project successfully concluded with all deliverables completed. No outstanding development work. Future maintenance and post-flight issues tracked through separate Fleet Maintenance workflow (established May 2026).
+**Status:** Project successfully concluded with all deliverables completed December 2025. No outstanding development work. Future maintenance and post-flight issues tracked through separate Fleet Maintenance workflow (established May 2026).

@@ -15,6 +15,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **May 6, 2026**: Established CAT flights (2026-03-26, 2026-04-07, 2026-04-09) as primary focus for Phase I Option Progress Report analysis; confirmed 53rd Weather Wing partnership for S0 dropsondes over WHOI arrays during Phase II
 - **May 7, 2026**: Data analysis underway on rain flight (1,000 m box) showing good agreement with dropsondes; P3 wind measurements showing larger discrepancies than expected, investigating potential radar data gaps for eastern region coverage needed for S0 comparisons
 - **May 18, 2026**: Confirmed P-3 altitude at 10,000 ft during CAT flights; validated for TDR analysis comparison with S0 wind data
+- **May 20, 2026**: Team attending SASCWATCH meeting with focus on identifying calibration opportunities for flux and sea surface state measurements (Maciej, Jun Zhang, and Jack Elston joining remotely; Josh Wadler attending in person)
 
 ## Projects & Initiatives
 **Navy STTR Boundary Layer Measurements Project (Award: N6833535C0270)**
@@ -61,22 +62,19 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
   - Compile updated CAT files with improved wind estimation techniques
   - Contribute to centralized data folder structure
   - Assess P3 wind measurement discrepancies relative to dropsonde measurements (May 7 investigation)
-  - **Inquiring about attendance at SASCWATCH meeting (May 20, 2026)**
+  - **Attending SASCWATCH meeting May 20, 2026 remotely** with focus on identifying calibration opportunities for flux and sea surface state measurements
 - **Josh Wadler**: 
   - Post-processed dropsonde data uploaded to shared folder (completed May 6)
   - Streamsonde post-processing: actively working on real-time QC files (TBD)
   - Uploaded sonde and comparison data to folder (completed May 6)
   - Support QC analysis from CAT flights
-  - **Unavailable week of May 10-16, 2026** (out Friday to next Friday)
+  - ~~Unavailable week of May 10-16, 2026~~ (returned to availability)
   - Will participate in Phase II Cal/Val planning upon return
   - Investigate TDR radar data gaps and salvage options for eastern region coverage needed for S0 comparisons (May 7, involving Paul from NOAA/TDR team)
   - Coordinating TDR analysis setup for P-3 wind comparison (May 18)
+  - **Attending SASCWATCH meeting May 20, 2026 in person**
 - **Jun Zhang**: 
   - Sourcing dropsonde data from HRD or AOC for CAT flights (in progress May 6)
   - Radar data retrieval for 04/07 flight from raw TDR files (in progress May 6)
   - TDR data processing (uploaded to CAT folder May 6)
-  - Creating centralized CAT subfolder in NOAA folder for team data organization
-  - Coordinating data access and organization for analysis
-  - **Following up with Paul (NOAA/TDR team) on reprocessing TDR data for better eastern region coverage** (May 10)
-  - Gathering P3 altitude information for wind measurement comparison analysis (completed May 18 - confirmed 10,000 ft)
-- **Team**:
+  - Creating centralized CAT subfolder in

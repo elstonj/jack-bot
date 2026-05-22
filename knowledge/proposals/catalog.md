@@ -2,92 +2,112 @@
 
 ## By Product/System
 
-### S3 (Production Platform)
-- **S3-EW: A Modular Payload Vehicle for Agile Electronic Warfare Swarms with VTOL Ground Launch from Confined Terrain** | Department of the Air Force | May 21, 2026 | SBIR Phase I proposal for EW-configured S3 variant with VTOL and ground-launch capabilities (bst_daf26bz01-nv003_phase_i_technical_volume.md)
-- **All-Weather, Terrain and Wind-Aware Autonomous Sensing for Wildfire Aviation** | NASA | May 20, 2026 | Phase I proposal for long-endurance fixed-wing S3 VTOL for wildfire monitoring and autonomous sensing (blackswift_aero7s26b-0167phase_ipdf.md)
-- **NASA AERO.7 Phase I Technical Proposal: Persistent Wildfire Monitoring and Airspace Safety** | NASA | May 5-14, 2026 | Phase I draft proposal for S3 fixed-wing UAS wildfire monitoring with NightFOX payload integration (nasa_aero7_phase_i_draft.md)
+### S0 (Air-Deployed UAS)
+- **S0 UAS System Integration v1** – NOAA, October 20, 2025 – Technical integration reference for S0 deployment on WP-3D Orion and WC-130J aircraft (s0_uas_system_integration_v1.md)
+- **S0 UAS System Integration v2** – NOAA/USAF/USSOCOM/UK MoD, 2026 – Host-aircraft integration engineering specification for S0 across multiple platforms (s0_uas_system_integration_v2.md)
+- **BST_ONR_proposal_response_final_submitted** – ONR/University of Washington, May 2026 – S0-MET and S0-ARO subcontract response for hurricane operations (bst_onr_proposal_response_final_submitted.md)
 
 ### S2
-- **S3-EW: A Modular Payload Vehicle for Agile Electronic Warfare Swarms with VTOL Ground Launch from Confined Terrain** | Department of the Air Force | May 21, 2026 | References S2 in broader system architecture discussion (bst_daf26bz01-nv003_phase_i_technical_volume.md)
+- **BST_DAF26BZ01-NV008_Technical_Volume** – Department of the Air Force, May 2026 – Runtime assured autonomy for S2 and other platforms (bst_daf26bz01-nv008_technical_volume.md)
 
-### S0 / S0-VTOL (Backpackable Platform)
-- **S3-EW: A Modular Payload Vehicle for Agile Electronic Warfare Swarms with VTOL Ground Launch from Confined Terrain** | Department of the Air Force | May 21, 2026 | Describes S0 and S0-VTOL backpackable variants in EW swarm architecture (bst_daf26bz01-nv003_phase_i_technical_volume.md)
-- **All-Weather, Terrain and Wind-Aware Autonomous Sensing for Wildfire Aviation** | NASA | May 20, 2026 | References S0-VTOL as backpackable rapid-deploy node for wildfire operations (blackswift_aero7s26b-0167phase_ipdf.md)
+### S3 / S3-EW
+- **BST_DAF26BZ01-NV003_Phase_I_Technical_Volume** – Department of the Air Force, May 21, 2026 – S3-EW modular payload vehicle for electronic warfare swarms with VTOL ground launch (bst_daf26bz01-nv003_phase_i_technical_volume.md)
 
-### SwiftCore (Avionics/Flight Management System)
-- **S3-EW: A Modular Payload Vehicle for Agile Electronic Warfare Swarms with VTOL Ground Launch from Confined Terrain** | Department of the Air Force | May 21, 2026 | Details SwiftCore FMS, SwiftPilot autopilot, and distributed processing architecture (bst_daf26bz01-nv003_phase_i_technical_volume.md)
-- **Runtime Assured Autonomy for a Distributed, Hot-Updateable, MOSA-Compliant Avionics Fabric Across Backpackable, Air-Deployed, and Long-Range VTOL Small Unmanned Aircraft Systems** | Department of the Air Force | May 21, 2026 | Phase I proposal for SwiftCore distributed avionics with runtime assurance and hot-updateable architecture (bst_daf26bz01-nv008_technical_volume.md)
-- **All-Weather, Terrain and Wind-Aware Autonomous Sensing for Wildfire Aviation** | NASA | May 20, 2026 | References SwiftCore modular avionics for wildfire autonomous sensing (blackswift_aero7s26b-0167phase_ipdf.md)
-- **NASA AERO.7 Phase I Technical Proposal: Persistent Wildfire Monitoring and Airspace Safety** | NASA | May 5-14, 2026 | Discusses SwiftCore autopilot integration (nasa_aero7_phase_i_draft.md)
-
-### NightFOX Payload
-- **All-Weather, Terrain and Wind-Aware Autonomous Sensing for Wildfire Aviation** | NASA | May 20, 2026 | Describes NightFOX payload integration for all-weather wildfire detection (blackswift_aero7s26b-0167phase_ipdf.md)
-- **NASA AERO.7 Phase I Technical Proposal: Persistent Wildfire Monitoring and Airspace Safety** | NASA | May 5-14, 2026 | Features NightFOX NOAA-developed payload for persistent monitoring (nasa_aero7_phase_i_draft.md)
+### SwiftCore (Avionics/FMS)
+- **S0 UAS System Integration v1** – NOAA, October 20, 2025 – SwiftCore avionics integration on S0 (s0_uas_system_integration_v1.md)
+- **BST_DAF26BZ01-NV003_Phase_I_Technical_Volume** – Department of the Air Force, May 21, 2026 – SwiftCore FMS (SwiftPilot) for S3-EW (bst_daf26bz01-nv003_phase_i_technical_volume.md)
+- **BST_DAF26BZ01-NV008_Technical_Volume** – Department of the Air Force, May 2026 – SwiftCore distributed avionics fabric across multiple UAS platforms (bst_daf26bz01-nv008_technical_volume.md)
 
 ---
 
 ## By Client/Agency
 
 ### Department of the Air Force (DAF)
-- **S3-EW: A Modular Payload Vehicle for Agile Electronic Warfare Swarms with VTOL Ground Launch from Confined Terrain** | May 21, 2026 | SBIR Phase I technical proposal for modular EW payload vehicle (bst_daf26bz01-nv003_phase_i_technical_volume.md)
-- **Runtime Assured Autonomy for a Distributed, Hot-Updateable, MOSA-Compliant Avionics Fabric Across Backpackable, Air-Deployed, and Long-Range VTOL Small Unmanned Aircraft Systems** | May 21, 2026 | SBIR Phase I proposal for runtime-assured distributed avionics (bst_daf26bz01-nv008_technical_volume.md)
-- **DAF Agile EW Technical Volume Template** | May 8, 2026 | Proposal formatting template for DAF SBIR/STTR submissions (daf_agile_ew_technical_volume_template.md)
-
-### NASA
-- **All-Weather, Terrain and Wind-Aware Autonomous Sensing for Wildfire Aviation** | May 20, 2026 | SBIR Phase I proposal for wildfire monitoring using autonomous sensing (blackswift_aero7s26b-0167phase_ipdf.md)
-- **NASA AERO.7 Phase I Technical Proposal: Persistent Wildfire Monitoring and Airspace Safety** | May 5-14, 2026 | SBIR Phase I draft for wildfire monitoring and airspace safety (nasa_aero7_phase_i_draft.md)
-
-### NOAA (National Oceanic and Atmospheric Administration)
-- **BST Rates OH and GA** | February 18, 2021 (approval); 2023 cost data | Financial rate documentation for indirect costs and general & administrative expenses (bst_rates_oh_and_gapdf.md)
+- **DAF Agile EW Technical_Volume_Template** – DAF, May 8, 2026 – Template/instruction document for Agile EW SBIR/STTR Phase I proposals (daf_agile_ew_technical_volume_template.md)
+- **BST_DAF26BZ01-NV003_Phase_I_Technical_Volume** – DAF, May 21, 2026 – S3-EW modular payload vehicle for electronic warfare swarms (bst_daf26bz01-nv003_phase_i_technical_volume.md)
+- **BST_DAF26BZ01-NV008_Technical_Volume** – DAF, May 2026 – Runtime assured autonomy for distributed, MOSA-compliant avionics across backpackable and air-deployed UAS (bst_daf26bz01-nv008_technical_volume.md)
 
 ### Department of Defense (DoD)
-- **Runtime Assured Autonomy Technical Volume Template** | May 8, 2026 | Proposal template for DoD/DAF SBIR/STTR submissions (runtime_assured_autonomy_technical_volume_template.md)
+- **Runtime Assured Autonomy Technical_Volume_Template** – DoD/DAF, May 8, 2026 – Blank SBIR/STTR Phase I technical proposal template for Runtime Assured Autonomy program (runtime_assured_autonomy_technical_volume_template.md)
+
+### National Oceanic and Atmospheric Administration (NOAA)
+- **S0 UAS System Integration v1** – NOAA, October 20, 2025 – S0 integration on WP-3D Orion and WC-130J aircraft (s0_uas_system_integration_v1.md)
+- **S0 UAS System Integration v2** – NOAA, 2026 – Operational baseline for S0 deployment on WP-3D Orion (s0_uas_system_integration_v2.md)
+
+### Office of Naval Research (ONR)
+- **BST_ONR_proposal_response_final_submitted** – ONR (Prime: University of Washington), May 14–15, 2026 – S0-MET/S0-ARO subcontract for hurricane reconnaissance (bst_onr_proposal_response_final_submitted.md)
+
+### U.S. Special Operations Command (USSOCOM)
+- **S0 UAS System Integration v2** – USSOCOM, 2026 – S0 integration under CRADA (Cooperative Research and Development Agreement) (s0_uas_system_integration_v2.md)
+
+### U.S. Air Force Reserve Command (AFRC) 53rd Weather Reconnaissance Squadron
+- **S0 UAS System Integration v2** – USAF/AFRC, 2026 – Proposed S0 integration for AFX255-DPCSO1 weather reconnaissance mission (s0_uas_system_integration_v2.md)
+
+### UK Ministry of Defence / Royal Navy
+- **S0 UAS System Integration v2** – UK MoD, 2026 – Proposed S0 integration for Royal Navy operations (s0_uas_system_integration_v2.md)
+
+### Internal/Black Swift Technologies
+- **Stachura-CPS.pdf** – NSF, Maciej Stachura (CTO), May 21, 2026 – Current and Pending (Other) Support disclosure form (stachura-cpspdf.md)
+- **Elston-CPS.pdf** – NSF, Jack S. Elston (CEO/Founder), May 21, 2026 – Current and Pending (Other) Support disclosure form (elston-cpspdf.md)
+- **Current and Pending Support** – Internal BST, May 21, 2026 – Guidance document on C&P(O)S requirements for government proposals (current_and_pending_support.md)
 
 ---
 
 ## By Application Area
 
-### Electronic Warfare (EW)
-- **S3-EW: A Modular Payload Vehicle for Agile Electronic Warfare Swarms with VTOL Ground Launch from Confined Terrain** | Department of the Air Force | May 21, 2026 | Modular EW payload with swarm coordination and VTOL ground launch (bst_daf26bz01-nv003_phase_i_technical_volume.md)
-- **DAF Agile EW Technical Volume Template** | Department of the Air Force | May 8, 2026 | Template for EW proposal submissions (daf_agile_ew_technical_volume_template.md)
+### Hurricane/Tropical Cyclone Reconnaissance
+- **BST_ONR_proposal_response_final_submitted** – ONR, May 2026 – S0-MET/S0-ARO systems for hurricane operations (bst_onr_proposal_response_final_submitted.md)
+- **S0 UAS System Integration v1** – NOAA, October 2025 – S0 integration for atmospheric reconnaissance on WP-3D Orion (s0_uas_system_integration_v1.md)
+- **S0 UAS System Integration v2** – NOAA, 2026 – S0 operational deployment for weather reconnaissance (s0_uas_system_integration_v2.md)
 
-### Wildfire Monitoring & Response
-- **All-Weather, Terrain and Wind-Aware Autonomous Sensing for Wildfire Aviation** | NASA | May 20, 2026 | All-weather autonomous wildfire sensing with terrain and wind awareness (blackswift_aero7s26b-0167phase_ipdf.md)
-- **NASA AERO.7 Phase I Technical Proposal: Persistent Wildfire Monitoring and Airspace Safety** | NASA | May 5-14, 2026 | Persistent monitoring with airspace safety integration (nasa_aero7_phase_i_draft.md)
+### Electronic Warfare / Agile EW Swarms
+- **DAF Agile EW Technical_Volume_Template** – DAF, May 8, 2026 – Template for EW SBIR/STTR Phase I proposals (daf_agile_ew_technical_volume_template.md)
+- **BST_DAF26BZ01-NV003_Phase_I_Technical_Volume** – DAF, May 21, 2026 – S3-EW modular payload vehicle for distributed EW swarms with confined terrain launch (bst_daf26bz01-nv003_phase_i_technical_volume.md)
 
-### Autonomous Systems & Avionics
-- **Runtime Assured Autonomy for a Distributed, Hot-Updateable, MOSA-Compliant Avionics Fabric Across Backpackable, Air-Deployed, and Long-Range VTOL Small Unmanned Aircraft Systems** | Department of the Air Force | May 21, 2026 | Distributed avionics with runtime assurance and hot updates (bst_daf26bz01-nv008_technical_volume.md)
-- **Runtime Assured Autonomy Technical Volume Template** | Department of Defense | May 8, 2026 | Template for runtime-assured autonomy proposals (runtime_assured_autonomy_technical_volume_template.md)
+### Autonomous Systems / Runtime Assured Autonomy
+- **Runtime Assured Autonomy Technical_Volume_Template** – DoD/DAF, May 8, 2026 – SBIR/STTR Phase I template for runtime assured autonomy systems (runtime_assured_autonomy_technical_volume_template.md)
+- **BST_DAF26BZ01-NV008_Technical_Volume** – DAF, May 2026 – Distributed, hot-updateable, MOSA-compliant avionics across backpackable, air-deployed, and long-range VTOL UAS (bst_daf26bz01-nv008_technical_volume.md)
 
-### Nontraditional Airspace Operations
-- **All-Weather, Terrain and Wind-Aware Autonomous Sensing for Wildfire Aviation** | NASA | May 20, 2026 | Addresses nontraditional airspace operations for wildfire response (blackswift_aero7s26b-0167phase_ipdf.md)
-- **NASA AERO.7 Phase I Technical Proposal: Persistent Wildfire Monitoring and Airspace Safety** | NASA | May 5-14, 2026 | Covers airspace operations and safety (nasa_aero7_phase_i_draft.md)
+### Weather Reconnaissance
+- **S0 UAS System Integration v1** – NOAA/USAF, October 2025 – S0 integration for WP-3D Orion and WC-130J weather ops (s0_uas_system_integration_v1.md)
+- **S0 UAS System Integration v2** – USAF/AFRC 53rd WRS, 2026 – Proposed S0 integration for AFX255-DPCSO1 weather reconnaissance (s0_uas_system_integration_v2.md)
+
+### Special Operations / Tactical Deployment
+- **S0 UAS System Integration v2** – USSOCOM, 2026 – S0 integration under CRADA for special operations missions (s0_uas_system_integration_v2.md)
+- **S0 UAS System Integration v2** – UK Royal Navy, 2026 – Proposed S0 integration for naval/maritime operations (s0_uas_system_integration_v2.md)
 
 ---
 
 ## By Document Type
 
-### SBIR Phase I Technical Proposals
-- **S3-EW: A Modular Payload Vehicle for Agile Electronic Warfare Swarms with VTOL Ground Launch from Confined Terrain** | Department of the Air Force | May 21, 2026 | DAF SBIR Phase I proposal for EW swarm platform (bst_daf26bz01-nv003_phase_i_technical_volume.md)
-- **Runtime Assured Autonomy for a Distributed, Hot-Updateable, MOSA-Compliant Avionics Fabric Across Backpackable, Air-Deployed, and Long-Range VTOL Small Unmanned Aircraft Systems** | Department of the Air Force | May 21, 2026 | DAF SBIR Phase I proposal for distributed avionics (bst_daf26bz01-nv008_technical_volume.md)
-- **All-Weather, Terrain and Wind-Aware Autonomous Sensing for Wildfire Aviation** | NASA | May 20, 2026 | NASA SBIR Phase I proposal for wildfire monitoring (blackswift_aero7s26b-0167phase_ipdf.md)
-- **NASA AERO.7 Phase I Technical Proposal: Persistent Wildfire Monitoring and Airspace Safety** | NASA | May 5-14, 2026 | NASA SBIR Phase I draft proposal (nasa_aero7_phase_i_draft.md)
+### SBIR/STTR Phase I Technical Proposals
+- **Runtime Assured Autonomy Technical_Volume_Template** – DoD/DAF, May 8, 2026 – Template document for SBIR/STTR Phase I Runtime Assured Autonomy proposals (runtime_assured_autonomy_technical_volume_template.md)
+- **DAF Agile EW Technical_Volume_Template** – DAF, May 8, 2026 – Template/instruction document for SBIR/STTR Phase I Agile EW proposals (daf_agile_ew_technical_volume_template.md)
+- **BST_DAF26BZ01-NV003_Phase_I_Technical_Volume** – DAF, May 21, 2026 – Completed SBIR Phase I proposal for S3-EW modular payload platform (bst_daf26bz01-nv003_phase_i_technical_volume.md)
+- **BST_DAF26BZ01-NV008_Technical_Volume** – DAF, May 2026 – Completed SBIR Phase I proposal for runtime assured autonomy avionics fabric (bst_daf26bz01-nv008_technical_volume.md)
 
-### Proposal Templates / Instructions
-- **DAF Agile EW Technical Volume Template** | Department of the Air Force | May 8, 2026 | Formatting and instruction template for DAF Agile EW proposals (daf_agile_ew_technical_volume_template.md)
-- **Runtime Assured Autonomy Technical Volume Template** | Department of Defense/Department of the Air Force | May 8, 2026 | Blank template for Runtime Assured Autonomy SBIR/STTR submissions (runtime_assured_autonomy_technical_volume_template.md)
+### Proposal Responses / Subcontract Proposals
+- **BST_ONR_proposal_response_final_submitted** – ONR, May 14–15, 2026 – Subcontract response for S0-MET/S0-ARO hurricane reconnaissance systems (bst_onr_proposal_response_final_submitted.md)
 
-### Financial / Rate Documentation
-- **BST Rates OH and GA** | NOAA | February 18, 2021 (approval); 2023 cost data | Indirect cost rates and general & administrative rates for proposal budgeting (bst_rates_oh_and_gapdf.md)
+### Technical Integration References / Engineering Specifications
+- **S0 UAS System Integration v1** – NOAA, October 20, 2025 – Technical integration document for S0 deployment (s0_uas_system_integration_v1.md)
+- **S0 UAS System Integration v2** – Multiple agencies, 2026 – Comprehensive host-aircraft integration reference for S0 across multiple platforms (s0_uas_system_integration_v2.md)
+
+### Current and Pending Support (C&P(O)S) Forms
+- **Stachura-CPS.pdf** – NSF, May 21, 2026 – C&P(O)S disclosure for Maciej Stachura (CTO) (stachura-cpspdf.md)
+- **Elston-CPS.pdf** – NSF, May 21, 2026 – C&P(O)S disclosure for Jack S. Elston (CEO/Founder) (elston-cpspdf.md)
+
+### Guidance / Instructional Documents
+- **Current and Pending Support** – Internal BST, May 21, 2026 – "How To" guidance on C&P(O)S requirements and best practices for government proposals (current_and_pending_support.md)
 
 ---
 
 ## Summary Statistics
 
-- **Total Documents**: 9
-- **Active Proposals**: 4
-- **Templates**: 2
-- **Financial/Administrative**: 1
-- **Submitted Dates**: May 2026, February 2021
-- **Primary Agencies**: NASA (2 proposals), DAF (2 proposals), NOAA (1 rate doc)
-- **Key Product Lines Featured**: S3, SwiftCore, S0-VTOL, NightFOX
+- **Total Documents:** 11
+- **Completed Proposals:** 4 (2 SBIR Phase I, 1 ONR subcontract, 1 system integration)
+- **Templates/Guidance:** 3 (2 proposal templates, 1 C&P(O)S guidance)
+- **System Integration References:** 2 (S0 integration v1 and v2)
+- **C&P(O)S Forms:** 2 (Stachura, Elston)
+- **Primary Clients:** Department of the Air Force (3), NOAA (2), ONR (1), USSOCOM (1), UK MoD (1)
+- **Primary Products Featured:** S0 (5), SwiftCore (3), S3 (1), S2 (1)

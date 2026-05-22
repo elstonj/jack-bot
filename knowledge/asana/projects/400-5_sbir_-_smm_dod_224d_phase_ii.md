@@ -42,18 +42,22 @@ Development and validation of a UAS-based L-band radiometer for mapping soil int
 - **2025-07-21:** Final Report submitted to Air Force; Milestone 8 deliverable meeting completed
 - **2025-06-27 to 2025-07-09:** Tyndall AFB testing campaign completed; data validation and quantitative analysis finished
 - **2025-03-05:** Local field testing milestone completed (Milestone 5)
-- **2026-04-22:** Navy SBIR Magnetometer kicked off with Dan Prendergast as technical lead and support team (per Maciej, 2026-04-22)
-- **2026-05-06:** Navy SBIR Magnetometer mostly caught up per Asana updates (Maciej, 2026-05-06); Navy STTR identified as higher priority for May 2026 (Maciej, 2026-05-06)
 
-## Notes & Context
-- **Contract number:** FA864924P0003
-- **Technology transition:** Successfully adapted NASA soil moisture mapping technology to DoD soil integrity applications for runway/landing area assessment
-- **Testing locations:** Local field testing + Tyndall Air Force Base
-- **Key technical outputs:** 
-  - UAS-based L-band radiometer hardware integration
-  - Soil integrity algorithms (cone index vs. soil moisture relationship with soil type coefficients)
-  - RevD data processing web interface
-  - Sensor protective cover design
-- **OMS collaboration:** Subcontractor handled radiometer hardware ($605,000); BST managed integration, testing, and algorithm development
-- **Compliance:** All SBIR/STTR lifecycle certifications completed; team medical certifications obtained for flight operations
-- **Current project priorities (per Maciej, 2026-04-24 and 2026-04-30):** This project is archived; current team focus is on (1) S3 IRAD (end of May delivery), (2) S0-VTOL (two deliveries), (3) Closing out EMASS, (4) By-Lite Mustang, and (5) Initial tasks on Navy SBIR Magnetometer. Navy STTR is higher priority than Navy SBIR this month (Jack, 2026-05-08).
+## Project Status & Context
+**Project is archived.** All deliverables completed and accepted by Air Force TPOC. This project is no longer active; team focus has shifted to higher-priority initiatives as of April–May 2026.
+
+**Contract number:** FA864924P0003
+
+**Key technical outputs:** 
+- UAS-based L-band radiometer hardware integration
+- Soil integrity algorithms (cone index vs. soil moisture relationship with soil type coefficients)
+- RevD data processing web interface
+- Sensor protective cover design
+
+**OMS collaboration:** Subcontractor handled radiometer hardware ($605,000); BST managed integration, testing, and algorithm development
+
+**Compliance:** All SBIR/STTR lifecycle certifications completed; team medical certifications obtained for flight operations
+
+**Technology transition:** Successfully adapted NASA soil moisture mapping technology to DoD soil integrity applications for runway/landing area assessment
+
+**Testing locations:** Local field testing + Tyndall Air Force Base

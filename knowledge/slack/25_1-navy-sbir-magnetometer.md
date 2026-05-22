@@ -1,7 +1,7 @@
 # #25_1-navy-sbir-magnetometer
 
 ## Overview
-This channel is focused on Black Swift Technologies' Navy Small Business Innovation Research (SBIR) project for developing magnetometer-equipped aircraft systems. The project involves integrating QuSpin magnetometers with BST's aircraft platforms for magnetic signature detection applications (MAD - Magnetic Anomaly Detection). Key participants include Beck, Maciej, Tyler, Sam, Alex Lomis, Joshua Fromm, and Jack Elston from BST, with external collaboration from QuSpin (Jeff), Ultra Maritime (Paul), and Navy contacts. Activity spans from October 2025 through May 2026, covering Phase I completion and Phase II proposal submission, kickoff, and ongoing Option period development.
+This channel is focused on Black Swift Technologies' Navy Small Business Innovation Research (SBIR) project for developing magnetometer-equipped aircraft systems. The project involves integrating QuSpin magnetometers with BST's aircraft platforms for magnetic signature detection applications (MAD - Magnetic Anomaly Detection). Key participants include Beck, Maciej, Tyler, Sam, Alex Lomis, Joshua Fromm, and Jack Elston from BST, with external collaboration from QuSpin (Jeff), Ultra Maritime (Paul), Navy DEVCOM (Morris "DeSi"), Navy TPOC (Angel Ruiz-Reyes), and new Royal Navy contact Simon. Activity spans from October 2025 through May 2026, covering Phase I completion and Phase II proposal submission, kickoff, and ongoing Option period development with emerging Royal Navy engagement.
 
 ## Key Decisions
 
@@ -75,22 +75,21 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Bartington sensor logging: Dronecan logging program being updated to support Bartington sensor with dynamic memory allocation (Sam Hild working on this, May 6, 2026)
 - Status as of May 6, 2026: Team transitioning from S0-VTOL bug work to SBIR task prioritization
 
-**Royal Navy Engagement (May 2026 - new):**
-- New initiative to respond to Royal Navy interest/ROI
-- Lead: TBD (Asana task assigned May 6, 2026)
+**Royal Navy Engagement (May 2026 - active):**
+- Contact: Simon (Royal Navy contact), confirmed as program lead with secured funding as of May 21, 2026
+- Project codename: **RAVEN** (Royal Navy designation)
+  - **RAVEN-M:** Magnetic Anomaly Detection (MAD) - aligned with US Navy, first priority payload
+  - **RAVEN-ISR:** Intelligence/Surveillance/Reconnaissance variant
+  - **RAVEN-J:** UK-specific payload with potential classification restrictions (F2F discussion needed)
+- Funding status: Simon has received funding; decision on which spirals to pursue TBD (likely single spiral focus due to budget constraints)
+- Priority alignment: First choice is MAD payload (RAVEN-M), aligned with US SBIR effort
+- Internal status: Jack Elston drafting initial response; team unaware of RAVEN codename as of May 21, 2026
+- Follow-up needed: S0-ISR variant identified as immediate need (Maciej comment May 21, 2026)
 - Materials location: Sales folder in Google Drive created May 6, 2026 (https://drive.google.com/drive/folders/1aXrfLIr-WFW9i5cYveByW0DRerX8SBzI?usp=drive_link)
-- Jack Elston drafting initial response document (May 6, 2026)
 
 ## Action Items & Commitments
 
 **Completed (April-May 2026):**
 - Beck: Prepared and distributed Phase II kickoff brief template (April 6, 2026)
 - Team: Updated kickoff brief template to include Option Period tasks
-- Maciej: Reviewed and approved submission slidedeck (April 10, 2026)
-- Alex: Reviewed and approved submission slidedeck (April 10, 2026)
-- Meredith Needham: Submitted Kickoff brief, FWA Certification, and invoices to PIEE (April 14, 2026)
-- Maciej & Alex: Attended Navy Option Kickoff meeting (April 21, 2026); obtained Angel's signoff on task modifications
-- Beck: Confirmed Camp Pendleton TCE dates (Aug 17-28) from Morris "DeSi" schedule (April 21, 2026)
-- Maciej: Created detailed Phase II Option tasks list in Asana with dates (April 21-22, 2026)
-- Beck: Closed CRT subcontract closure modification (April 20, 2026)
-- Maciej: Integrated Bartington sensor mechanically into ground test rig (
+- Maciej: Reviewed and approved submission slid

@@ -35,10 +35,10 @@ Project completed in March 2025 with all deliverables on or ahead of schedule:
 - **March 27, 2025**: Aircraft shipped via FedEx to NASA Ames
 
 ## Notes & Context
-- **Additional scope**: Customer requested testing of their new launcher setup; launcher modification was handled by CU partner (Kevin), with unit arriving at CU by late January 2025.
+- **Additional scope**: Customer requested testing of their new launcher setup; launcher modification was handled by CU partner (Kevin), with unit arriving at CU by late January 2025
 - **Documentation**: Technical write-up delivered to R. Kolyer for presentation at NASA airworthiness review
 - **Subcontractor**: N/A ($0 subcontract amount)
 - **Customer type**: Commercial
 - **Products/Services**: MHP product/service delivery
 - **NASA RFI opportunity**: Per Alex Lomis (April 17, 2026), NASA contacts and Joe recommended a NASA RFI link shared on a hurricane engineering & technology call: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view (context: may indicate future opportunity or follow-on work with NASA)
-- **Team action item** (Maciej, April 27 & May 4, 2026): Team members considering using AI tools to start work on NASA RFI opportunities; coordination needed to assign ownership between available team members — Maciej asking for update on who will take the lead
+- **Team action item** (Maciej, April 27 & May 4, 2026): Team members considering using AI tools to start work on NASA RFI opportunities; coordination needed to assign ownership between available team members — Maciej requesting update on who will take the lead

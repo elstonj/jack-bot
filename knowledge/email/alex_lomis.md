@@ -1,109 +1,104 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 95 emails (60 from 18–20 May + 35 from 20–21 May)
-- **Date range:** 18–21 May 2026 (4 days)
-- **Approximate volume:** Extremely high sustained procurement spike — 90 of 95 emails concentrated on 18–20 May; predominantly transactional/promotional/logistics. Volume continues at elevated levels through 21 May morning (5 emails by 04:06 UTC).
-- **Pattern:** High-velocity purchasing activity sustained across 4 consecutive days with no signs of deceleration
+- **Total messages scanned:** 134 emails (95 from 18–21 May + 39 from 21–22 May)
+- **Date range:** 18–22 May 2026 (5 days)
+- **Approximate volume:** Sustained extremely high procurement velocity. 18–20 May: 90 of 95 emails concentrated in 3-day spike. 21–22 May: 39 new emails continuing elevated transactional/logistics/promotional load with no deceleration. 
+- **Pattern:** High-velocity purchasing activity sustained continuously across 5 consecutive days. By 22 May 06:33 UTC, procurement activity ongoing (Harbor Freight, McMaster-Carr, flashlightgo tracking).
 
 ## Key Correspondents
 
-### Primary Senders (routed via Purchasing)
+### Primary Senders (routed via Purchasing) — EXPANDED VENDOR BASE
 
 **Electronics & Components:**
-- **Pasternack Brand** (3 emails new — order confirmation + 2 delivery/receipt notifications 20 May, marked IMPORTANT)
-- **Infinite Electronics** (2 emails new — shipping + invoice 20 May, Sales Order WL5294244)
-- **SendCutSend** (3 emails new — order quote + 2 order tracking 20 May, Order S424H298)
-- **L-com** (2 emails new — online order confirmation + password recovery 20 May; recipients: Jack Elston & Joshua Fromm)
-- **Master Electronics** (1 email new — promotional 20 May)
-- DigiKey, Mouser, McMaster-Carr (continued: McMaster-Carr order confirmation 20 May)
-- Adafruit (continued: order confirmation 20 May to Nate Straus)
-- Elegoo (1 email new — flash sale promotional 20 May, addressed to "Alexis Lomis")
+- **McMaster-Carr** (3 emails new — order receipt 22 May, order certificates/tracking 21 May, order confirmation 21 May; continued pattern from prior)
+- **DigiKey** (2 emails new — order thank you + PO acknowledgement for Sales Order #99376023, both 21 May)
+- **flashlightgo** (NEW — 4 emails: 2x tracking notifications 22 May for Order #9693; order confirmation 21 May; loyalty points accrual 5,767 points 21 May)
+  - **Note:** Appears to be tactical/equipment supplier (flashlight components); Joy Loyalty integration suggests vendor relationship depth
+- Pasternack Brand, Infinite Electronics, SendCutSend, L-com, Adafruit (continued from prior — active)
 
-**Logistics & Services:**
-- **FedEx Billing Online** (1 email new — invoice ready 21 May)
-- **Pasternack Brand Delivery** (1 email new — tracking notification 20 May, marked IMPORTANT)
-- UPS, USPS (continued: UPS tracking 20 May)
-- **Worldwide Express** (1 email new — awards nomination promotional 20 May; matches 20 May invoice from prior data)
+**Logistics & Shipping Services:**
+- **UPS** (1 email new — pickup request 21 May)
+- **Pirate Ship** (2 emails new — duplicate payment receipts for $42.49, 21 May; addressed to Josh Fromm)
+  - **Signal:** Shipping/logistics payment processing; Josh Fromm manages interface
+- **Route** (1 email new — FlashlightGo shipment protection via Route insurance, 21 May)
+- FedEx, USPS (continued)
 
-**Specialized Manufacturing/Fabrication:**
-- **JawsTec** (continued: order received confirmation 20 May, Order #68821)
-- **SendCutSend** (metal cutting/fabrication service — 3 new emails 20 May, suggesting sheet metal component sourcing)
-- **Craftcloud** (prior — cloud manufacturing)
+**Specialized/Manufacturing:**
+- **uAvionix** (2 emails new — order complete notification + note added to May 4 order, both 21 May)
+  - **Critical:** Aviation-related component/system supplier — **UAS (unmanned aircraft systems) integration equipment**
+  - Prior order (May 4) receiving updates 17 days later suggests complex/staged fulfillment
+- **Daniels Manufacturing Corporation** (1 email new — Safe-T-Cable webinar registration 21 May, addressed to Joshua Fromm)
+  - **Signal:** Cable/interconnect component supplier; manufacturing/fabrication adjacency
+- **B&H Photo Video Pro Audio** (1 email new — review request for Oben AC-1441 tripod + BA-111 ball head, 21 May)
+  - **Signal:** Video/imaging equipment procurement (tripod suggests aerial/drone payload or ground-based documentation)
 
-**RC/Drone Components — EXPANDED:**
-- **CADDXFPV** (1 email new — spring sale promotional 20 May, marked IMPORTANT; suggests FPV drone/racing components)
-- HeliDirect (continued: accessories promotional 20 May to Meredith Needham)
+**Power & Energy — EXPANDED:**
+- **Battery Junction** (3 emails new — order cancellation BJ-760679 [21 May], customer service status check, email verification request [21 May])
+  - **Pattern change:** Order cancellation and multiple customer service interactions suggest supply chain friction or specification mismatch
+  - Prior promotional emails now replaced with operational/problem-resolution activity
+- FlashlightGo (see above — likely battery/power-related components bundled with flashlight equipment)
 
-**Grocery/Food Service:**
-- **Spindrift Market/Spindrift** (3 emails new — 2 order shipments 21 May + 1 subscription delay notification 20 May; Orders SH62370239 & SH62368411)
-- **Amazon** (continued: 2 new emails 21 May — shipping notification + promotional credit)
-- **ezCater** (1 email new — catering service promotional 20 May to Jack Elston)
+**RC/Drone Components:**
+- **HeliDirect** (2 emails new — Memorial Day discount 21 May + exclusive offer/fleet messaging 21 May, to Meredith Needham)
+  - Continued promotional pattern; "Fleet" language suggests multiple unit procurement
 
-**Other Vendors:**
-- **Battery Junction** (1 email new — bike accessory promotional 20 May)
-- Speedway Motors, Harbor Freight (continued: promotional emails 20 May)
+**Logistics/Rental Services:**
+- **Budget** (1 email new — car rental promotional "25% Off Base Rates", 21 May)
+  - **Signal:** Vehicle rental activity concurrent with high procurement period — possible on-site project/mobilization
 
-### Internal Correspondence (Human-to-Human) — **KEY ACTIVITY ESCALATION**
+**Other:**
+- **Harbor Freight** (1 email new — Memorial Day promotional 22 May)
+- **QuickBooks Payments** (1 email new — payment confirmation for Invoice #1108, **Phase1 Aviation LLC**, 21 May)
+  - **CRITICAL:** Direct vendor payment to external aviation entity; suggests active procurement/partnership with aviation contractor
 
-- **Jack Elston** (`elstonj@blackswifttech.com`)
-  - **CRITICAL:** New email 20 May 15:26 (CDT) — "Re: Fwd: Quote for radios" — direct reply to Jeff Catherwood
-  - Also appears as recipient on L-com order (20 May 12:54) and ezCater catering promo (20 May 13:06)
-  - Role confirmation: Acts as primary internal relay for radio/communications vendor management
-  - Marked IMPORTANT, INBOX status
+### Internal Correspondence (Human-to-Human) — KEY ESCALATION
 
-- **Jeff Catherwood** (`jcatherwood@microhardcorp.com`, Microhard Corp)
-  - Active participant in radio quote negotiation — received Jack Elston's 20 May reply
-  - Thread spans 18–20 May, indicating multi-day technical/commercial discussion
+**Jack Elston** (`elstonj@blackswifttech.com`) — **LEADERSHIP ROLE CONFIRMED**
+- **NEW (21 May 20:08:45 UTC):** Sends "Updated invitation with note: BST Field Trip @ Fri May 22, 2026 3pm – 4:45pm (MDT)" to 10-person group (Alex Lomis, Nathaniel Straus, Joshua Fromm, Paige Smith, Beck Cotter, Ethan Domagala, Maciej Stachura, Meredith Needham, Daniel Prendergast, Sam Hild)
+  - **Signal:** Coordination of field activity across core technical team; scheduled **same day as peak email volume (22 May)**
+  - Timing suggests field trip may be related to procurement/project verification
 
-- **Meredith Needham** (`meredith.needham@blackswifttech.com`)
-  - Confirmed recipient on HeliDirect (20 May) and Spindrift subscription (20 May)
-  - Appears to have direct account management role with RC/hobby and food service vendors
+- **NEW (21 May 15:09:30 CDT & 15:08:26 CDT):** Continues radio quote negotiation with Jeff Catherwood (Microhard Corp)
+  - Marked IMPORTANT both directions; suggests decision-point reached or technical discussion advanced
+  - Spans 21 May afternoon — concurrent with field trip coordination
 
-- **Nate Straus**
-  - Recipient on Adafruit order confirmation (20 May)
-  - Consistent as electronics component procurement contact
+**Maciej Stachura** (`stachura@blackswifttech.com`) — **NEW CRITICAL CONTACT**
+- **NEW (21 May 10:16:27 & 10:11:06 CDT):** Bi-directional exchange on "Drone Magnetic Data"
+  - Jack Elston forwards to Maciej + Alex Lomis together
+  - Marked IMPORTANT on Maciej's reply
+  - **Signal:** Drone payload data analysis/integration; Maciej technical lead on magnetic sensor or navigation systems
 
-- **Joshua Fromm**
-  - **New activity:** Recipient on L-com password recovery (20 May 12:50)
-  - Suggests account holder or co-manager for vendor platform access
+**Josh Fromm / Joshua Fromm** (`josh.fromm@blackswifttech.com`)
+- **NEW:** Recipient on Pirate Ship shipping payment receipts (21 May)
+- **NEW:** Recipient on Daniels Manufacturing webinar (21 May)
+- **Pattern:** Handling vendor platform credentials (L-com password recovery, QuickBooks, shipping logistics)
+- **Role:** Purchasing operations/vendor account management
 
-- **Google Gemini Notes**
-  - **NEW:** "BST Internal Update Meeting" notes shared 20 May 20:00 UTC, marked IMPORTANT, INBOX
-  - Suggests documented team meeting or strategic planning session contemporaneous with purchasing activity
+**Meredith Needham** (`meredith.needham@blackswifttech.com`)
+- Recipient on HeliDirect fleet messaging (21 May) — continued RC/drone component management
+- Role: RC/hobby systems procurement
 
-### Asana Integration (Task Management)
-- **Continued pattern:** 2 task reminders (20 May: general "unread notifications" + 15:38 "Wednesday - tasks due soon: 3")
-- Consistent daily reminder schedule maintained
+**Rippling (HR/Benefits System)**
+- **NEW (21 May 21:02:43 & 21:01:57 & 21:01:46 UTC):** 3 identical-timestamp emails to Alex directly
+  - HSA account information
+  - Benefits enrollment
+  - Summary plan description
+  - **Signal:** HR administrative activity unrelated to procurement; possible new employee onboarding or benefits cycle
 
-### Internal vs External
-- **Routed through purchasing@blackswifttech.com:** ~87 emails (transactional/promotional/logistics)
-- **Direct to alex.lomis@blackswifttech.com:** 3 emails (2 Asana reminders + 1 Google Gemini notes)
-- **Human-to-human internal/external:** 2 emails visible (Jack Elston ↔ Jeff Catherwood radio quote continuation)
+**Toggl Track** (Time Tracking Software)
+- **NEW (21 May 23:35:53 UTC):** Email to alex.lomis@blackswifttech.com, marked IMPORTANT, no subject
+  - **Signal:** Time/project tracking system interaction; possibly automated alert or review request
 
-## Topic Patterns
+**Asana** (Task Management)
+- **NEW (21 May 19:47:34 & 15:40:57 UTC):** 
+  - Unread notifications (no details)
+  - Thursday tasks due soon: 2 tasks
+  - Continued daily reminder pattern
 
-### Radio/Communications Equipment — **ACTIVE NEGOTIATION ONGOING**
-- **Microhard Corp radio quote:** 20 May continuation — Jack Elston's direct reply to Jeff Catherwood suggests decision point or technical discussion advance
-- **L-com vendor engagement:** Password recovery email (20 May) suggests new account setup or credential management — **unknown product category**
-- **Signal:** Primary communications hardware procurement remains elevated priority
+### Internal vs External Breakdown
+- **Routed through purchasing@blackswifttech.com:** ~115 emails (~86%)
+- **Direct to alex.lomis@blackswifttech.com:** 8 emails (~6%) — HR benefits (3), task reminders (2), time tracking (1), team coordination (1), comms relay (1)
+- **Human-to-human internal/external:** 6 emails (~8%) — Jack Elston (4), Maciej Stachura (2)
 
-### Manufacturing & Fabrication — **EXPANDED SCOPE**
-- **SendCutSend** (NEW — 3 emails 20 May): Sheet metal cutting/fabrication service
-  - Order quote + formal quote + order tracking (S424H298) — suggests custom metal components or enclosures
-  - **Timeline:** Order quote 16:39 UTC, formal quote 16:39 UTC, tracking 17:04 UTC same day = rapid procurement cycle
-- **Pasternack Brand** (NEW — 3 emails): RF/microwave components distributor
-  - Orders W393639 and #590897293 on 20 May — suggests antenna, connectors, or transmission line components
-  - Marked IMPORTANT (delivery notification) — time-sensitive shipment
-- **Infinite Electronics** (NEW): Distributor for industrial/RF components (Sales Order WL5294244)
-- **JawsTec:** Order #68821 received 20 May — component/assembly status
-- **Craftcloud, Protospace Mfg:** Concurrent manufacturing partnerships (3D printing, CNC, etc.)
-
-### Unmanned Aerial Systems / FPV Drones — **NEW EXPANSION**
-- **CADDXFPV** (NEW — 1 email 20 May): FPV drone and racing drone components — marked IMPORTANT
-  - Promotional for "Spring Into Summer Deals" suggests vendor relationship building or new product category
-- **HeliDirect, Baofeng, X-Plane FSExpo:** Prior pattern continues — RC/flight simulation sustained
-
-### Power & Energy Storage — **SUSTAINED**
-- **Battery Junction** (continued): New promotional email 20 May regarding "Bike Lights, Bike Racks & More" (likely component sourcing disguised as consumer promo)
-- **Spindrift Market** (NEW — 3 emails): **Non-technical product** — carbonated water beverage subscriptions with 2 active orders (SH62370239 & SH62368411)
+## Topic

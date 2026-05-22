@@ -1,97 +1,76 @@
 {
   "project_code": "001-7",
   "qbo_class_names": [
-    "(001-7) IRAD - S3"
+    "(001-7) IRAD - S3",
+    "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-05-20",
-    "end": "2026-05-21"
+    "start": "2026-05-21",
+    "end": "2026-05-22"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 986.3,
+    "expenses": 5432.06,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 855.63,
-      "DIRECT COSTS:DC-Direct Material Purchases": 130.67
+      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 4954.0,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 478.06
     }
   },
   "invoices": [],
-  "bills": [],
+  "bills": [
+    {
+      "type": "Bill",
+      "date": "2026-05-21",
+      "doc_number": "BST-May2026-1",
+      "total": 4954.0,
+      "attributed": 4954.0,
+      "vendor": "Matthew Crabtree",
+      "customer": "",
+      "balance": 4954.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 4954.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": "AP_CORE_BOARD_1-V0.2 \u2013 ASSEMBLY (32pcs)\nAP_CORE_BOARD_1-V0.2 \u2013 ASSEMBLY (32pcs)"
+        }
+      ]
+    }
+  ],
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-05-20",
-      "doc_number": "68821",
-      "total": 1183.86,
-      "attributed": 149.57,
+      "date": "2026-05-21",
+      "doc_number": "99376023",
+      "total": 115.71,
+      "attributed": 115.71,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "",
+      "memo": "DKC*DIGI KEY CORP - 4617",
       "lines": [
         {
-          "amount": 149.57,
+          "amount": 115.71,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": ""
-        },
-        {
-          "amount": 1034.29,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": ""
+          "description": "DKC*DIGI KEY CORP - 4617"
         }
       ]
     },
     {
       "type": "Purchase",
-      "date": "2026-05-20",
-      "doc_number": "S424H298",
-      "total": 146.85,
-      "attributed": 146.85,
+      "date": "2026-05-21",
+      "doc_number": "9693",
+      "total": 362.35,
+      "attributed": 362.35,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 146.85,
+          "amount": 362.35,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
           "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-20",
-      "doc_number": "393639",
-      "total": 191.15,
-      "attributed": 191.15,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 191.15,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "N Male to UMCX Plug Cable 9 Inch Length Using RG178 Coax x 2"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-20",
-      "doc_number": "WL5294244",
-      "total": 498.73,
-      "attributed": 498.73,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 498.73,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "2.4 GHz 13 dBi Dual Polarity Omnidirectional MIMO"
         }
       ]
     }

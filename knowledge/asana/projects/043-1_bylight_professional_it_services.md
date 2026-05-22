@@ -32,5 +32,5 @@ This is a **standing task order agreement**, not a fixed-scope project. ByLight 
 
 ## Risk Signals & Notes
 - Project archived with no active work in Asana; awaiting ByLight task order submissions
-- **Action required (2026-04-27):** Maciej requested Asana due dates be updated to realistic numbers and client notified of revised timeline—confirm completion and that Bryan Sparling has been informed
-- **Action required:** Confirm Ethan's [2026-05-05] timeline extension and "yellow version" clarifications have been communicated to ByLight contact
+- **⚠️ Action required (2026-04-27):** Maciej requested Asana due dates be updated to realistic numbers and client notified of revised timeline. **Confirm this action has been completed and that Bryan Sparling has been formally notified of revised timeline.**
+- **⚠️ Action required:** Confirm Ethan's [2026-05-05] timeline extension and "yellow version" clarifications have been formally communicated to Bryan Sparling and documented

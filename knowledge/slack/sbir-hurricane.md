@@ -1,7 +1,7 @@
 # #sbir-hurricane
 
 ## Overview
-The #sbir-hurricane channel is the primary workspace for Black Swift Technologies' SBIR Hurricane project, focused on developing the S0 unmanned aircraft system for hurricane reconnaissance missions. The channel is highly active with extensive technical discussions, operational updates, and mission planning spanning 2020-2026. Key participants include Joshua Fromm, Jack Elston, Maciej, Danny Troke, Dan Prendergast, Alex Lomis, Nate, Sam Hild, Beck Cotter, and Paige Smith.
+The #sbir-hurricane channel is the primary workspace for Black Swift Technologies' SBIR Hurricane project, focused on developing the S0 unmanned aircraft system for hurricane reconnaissance missions. The channel is highly active with extensive technical discussions, operational updates, and mission planning spanning 2020-2026. Key participants include Joshua Fromm, Jack Elston, Maciej, Danny Troke, Dan Prendergast, Alex Lomis, Nate, Sam Hild, Beck Cotter, Paige Smith, and Meredith Needham.
 
 ## Key Decisions
 
@@ -71,6 +71,13 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Two display S0 units remaining at BST; other two units have addresses managed by another team member (May 12, 2026)
 - Joshua Fromm coordinating logistics to ship all 4 tripods to respective locations (May 12, 2026)
 
+**Display Aircraft Packing & Shipping Status (May 21, 2026):**
+- 2 display S0s packed and ready for labels (May 21, 2026)
+- Both boxes identical: 46 x 12 x 9 inches, 13lbs each (May 21, 2026)
+- Meredith Needham obtaining labels for shipment (May 21, 2026)
+- Tracking information to be provided to Nick P at NOAA upon shipment (May 21, 2026)
+- 2 model S0s scheduled for pick-up at front desk (May 21, 2026)
+
 **Inventory Management (April 23, 2026):**
 - SASCWATCH has one S0 left over from previous season; decision made not to allow NOAA to use it (April 23, 2026)
 - Jack Elston confirmed awareness of leftover aircraft status (April 23, 2026)
@@ -78,17 +85,8 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 **Marketing & Content (April 28, 2026):**
 - Jack Elston created pull quotes for marketing content; notes they were created as jokes but indicates potential broader marketing use (April 28, 2026)
 - Dan Prendergast confirmed that quoted individuals would likely endorse/undersign the quotes (April 28, 2026)
+- Joshua Fromm suggested sending pull quote material to Monster Energy for potential sponsorship opportunity (May 21, 2026)
 
 **Stock Inventory Build (May 6, 2026):**
 - Jack Elston initiated procurement of 20 additional S0 aircraft units to maintain stock inventory for operational opportunities (May 6, 2026)
-- Decision made to use current 2026 configuration without waiting for 2027 mods (May 6, 2026)
-- Estimated 3-month production timeline from start to completion for the 20 units (May 6, 2026)
-- End of July delivery deadline maintained as priority for all active production (May 6, 2026)
-- Joshua Fromm to advise on parts procurement timing to maximize parallel assembly once decision finalized (May 6, 2026)
-
-**Autodesk Board Manufacturing (May 11, 2026):**
-- AP boards delivered by Matt with identified quality issue: female header pin rows had pins slipping and not fully seating on couple boards (May 11, 2026)
-- Matt reported he corrected the issues on all boards (May 11, 2026)
-
-**Stock Inventory Build - Parts Procurement (May 20, 2026):**
--
+- Decision made to use current 2026 configuration without waiting for 2027 mods

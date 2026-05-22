@@ -87,5 +87,4 @@
 - **Now indefinitely postponed on EMASS controller delivery** (as of May 13–14, 2026)
 - **Informal boundary for escalation/re-evaluation**: ~June 12, 2026 (Jack Elston, May 12, 2026: "we don't want to drag this out more than a month")
 
-**Status Summary**:
-- BS
+**Customer Relationship Flag**: 

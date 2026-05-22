@@ -90,6 +90,12 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - **Issue identified (May 12, 2026):** Unit lacks old 14" prop; Josh Fromm noted discrepancy
 - **XML Configuration Review (May 12, 2026):** Jack Elston directed verification against S2 master setup; Nate confirmed XML check was completed before flap servo replacement
 
+**NASA S2 Delivery - Nosecone Inclusion (May 21, 2026)**
+- Dan Prendergast raised question about whether nosecone should be included in NASA S2 delivery per their SOW (complete BST S2 airframe requirement)
+- Joshua Fromm asked clarifying questions about payload inclusion and mass model
+- **DECISION (May 21, 2026):** Jack Elston directed: NASA will use their own two payloads, no additional nosecone needed in delivery
+- Dan Prendergast confirmed with NASA customer
+
 ### Service Repair Pricing & Quoting Standards (April 2026)
 
 **S20004 Flap Servo Replacement Quote (April 24, 2026)**
@@ -98,16 +104,4 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
   - Servo pockets (Jawstec) x2 @ $20 per pocket
   - Beefy clevis x2 @ $20 per linkage
   - Labor: Quote in hours rather than dollar amount (to be calculated by Meredith)
-- **Standard labor rate established by Jack Elston: $125/hour**
-- Joshua Fromm guidance: Quote component parts ($20 for pockets and linkages) and labor hours separately; let Meredith handle final pricing compilation
-
-**Flap Servo Replacement Implementation (May 12, 2026)**
-- Nate completed XML verification and flap servo replacement on aircraft
-- Work validated against S2 master setup specifications
-
----
-
-## Projects & Initiatives
-
-### Bassil Methane Research Flight Campaign (May 2026 - ongoing)
-- **Status:** Active flight campaign with
+- **Standard labor

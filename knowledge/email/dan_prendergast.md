@@ -1,71 +1,88 @@
 # Dan Prendergast — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 15 emails
-- **Date range:** 19–21 May 2026 (3 days)
-- **Activity pattern:** Moderate volume; concentrated on Wed 20 May and Thu 21 May with late-night activity (emails sent/received 00:58–04:22 UTC)
+- **Total messages scanned:** 35 emails
+- **Date range:** 21–22 May 2026 (2 days, high-intensity period)
+- **Activity pattern:** Heavy volume concentrated on Thu 21 May and Fri 22 May; sustained late-night/early-morning coordination (00:08–07:07 UTC); outbound emails primarily 10:12–17:16 MDT (afternoon window)
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Jack Elston** (elstonj@blackswifttech.com) — Most frequent; appears in 8 emails as sender, recipient, or CC'd. Primary coordinator for technical and project matters.
-- **Maciej Stachura** (stachura@blackswifttech.com) — 4 emails; appears on technical/integration discussions
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — 3 emails; included on Arctic UAS and Navy project threads
+- **Jack Elston** (elstonj@blackswifttech.com) — Appears in 16+ emails; primary hub for project coordination, vendor liaison, and strategic decisions. Receives Dan's direct input on Navy, Arctic UAS, and integration projects.
+- **Maciej Stachura** (stachura@blackswifttech.com) — 3 emails; technical peer on Navy project and ECSDOT integration
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — 2 emails; included on ECSDOT and integration workshop communications
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — 1 email (integration workshop); emerging contact
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — 2 emails; logistics/battery shipment coordination
+- **Nathaniel Straus** (nate.straus@blackswifttech.com) — 1 email; MHP data alignment (appears to coordinate separately on Stanford project)
 
 ### Top External Contacts
-- **Jure Dolinar, Atmolab** (jure.dolinar@atmolab.eu) — 2-way correspondence; camera system integration
-- **Trenton McKibben, Nextech Solutions** (Trenton.McKibben@nextechsol.com) — Arctic UAS demonstration coordination
-- **Mark Waldo, Thermosena Aero** (mwaldo@thormodsenaero.com) — Navy project involvement
-- **Mohamed Sabry, NanoVeu** (msabry@nanoveu.com) — Software/binary distribution
-- **Krateo Sky team** (Lisa Marie Cheney, Bob Smith, Adria Passola, Roger Riley) — Forwarded discussions on Atmolab system
+- **Mark Waldo, Thermosena Aero** (mwaldo@thormodsenaero.com) — 4 emails; direct technical dialogue on Navy project; replies directly to Dan
+- **Nikhila Ravikumar, NanoVeu** (Nikhila@nanoveu.com) — 3 emails; software binary distribution; direct technical contact
+- **Tom Wilp, NanoVeu** (tom.wilp@nanoveu.com) — 1 email; binary coordination
+- **Sergio Ruocco, NanoVeu** (sergio@nanoveu.com) — 1 email + calendar notification; E2/ECS-DoT integration project meeting confirmed
+- **Mark Goranson, NanoVeu** (Mark@nanoveu.com) — 1 email; extended scope discussions (cc'd to Dan, Jack, Maciej, Beck)
+- **Trenton McKibben, Nextech Solutions** (Trenton.McKibben@nextechsol.com) — 2 emails; Arctic UAS demo coordination, CJFC funding
+- **Chris Pitfield, Nextech Solutions** (Christopher.Pitfield@nextechsol.com) — 1 email (forwarded from Trenton)
+- **Jure Dolinar, Atmolab** (jure.dolinar@atmolab.eu) — Referenced in Jack Elston email; camera system thread active
+- **Robert Correia, AeroNet** (rcorreia@aeronet.com) — 2 emails; battery shipment to Ottawa Canada (logistics/procurement)
+- **Patrick Mulstay, Jeff Dauz, Adrian Sepulveda, AeroNet** — Battery shipment coordination
+- **Bryan Sparling, ByLight** (bryan.sparling@bylight.com) — 1 email; Vulcan RFI response
+- **Arthur Shune, Sky Mesa Systems** (arthur@skymesasystems.com) — 2 emails; meeting reschedule
+- **Sona Raziabeegum, Krateo Sky** (sona@krateosky.com) — 2 emails; integration workshop pre-read and planning
+- **Krateo Sky team** (Bob Smith, Brian Grubel, Lisa Marie Cheney, Roger Riley, Thibault Bridel-Bertomeu) — Multi-person integration workshop invitation
+- **Simon Laurence, UK MOD** (Simon.Laurence157@mod.gov.uk) — 4 emails (all via Jack Elston); Merlin Mk2/US Navy SBIR discussion (UK government contact; strategic importance)
+- **Tanay Topac, Stanford University** (tanaytopac@stanford.edu) — 1 email (via Nathaniel Straus); MHP data alignment research
 
 ### External Organizations
-- **Atmolab** (EU-based) — camera system vendor
-- **Nextech Solutions** — Arctic UAS program partner
-- **NanoVeu** — software/sensor provider
-- **Thermosena Aero** — Navy project vendor
-- **Invest Ottawa** (Stephen Rowlands) — program coordinator/stakeholder
-- **Stanford University** (Tanay Topac) — academic collaborator on data alignment
+- **NanoVeu** — Software/sensor provider; active binary distribution and integration scope expansion
+- **Nextech Solutions** — Arctic UAS program partner; funding and demo coordination
+- **Thermosena Aero** — Navy project vendor; direct technical contact
+- **Atmolab** — Camera system vendor (mentioned in Jack's thread)
+- **Krateo Sky** — Integration partner; multi-party workshop scheduled
+- **AeroNet** — Battery/logistics supplier
+- **UK Ministry of Defence (MOD)** — Strategic external relationship via Simon Laurence
+- **Stanford University** — Research collaborator on MHP data alignment
+- **ByLight** — RFI respondent (Vulcan program)
+- **Sky Mesa Systems** — External meeting counterpart
 
 ## Topic Patterns
 
 ### Recurring Themes
-1. **Arctic UAS Demonstration** — Multiple mentions; appears tied to White Paper Questionnaire and CJFC Vendor Brief; scheduled event June 25/26
-2. **Atmolab Camera System** — Active integration discussion; marked IMPORTANT multiple times
-3. **Navy Project** — Mentioned in forwarded threads with Thermosena Aero and Nextech
-4. **ECSDOT Integration** — Extended scope work with NanoVeu team
-5. **MHP Data Alignment** — Technical collaboration with Stanford (Tanay Topac)
+1. **Arctic UAS Demonstration** — White Paper Questionnaire, CJFC Vendor Brief, funding coordination; scheduled June 25/26
+2. **Navy Project / Merlin Mk2 SBIR** — Escalated to UK MOD level (Simon Laurence); multiple back-and-forth exchanges with Mark Waldo (Thermosena Aero); appears strategic/high-stakes
+3. **ECSDOT Integration / E2 Integration** — Extended scope work with NanoVeu; Krateo Sky integration workshop scheduled Fri 22 May 8:30am
+4. **NanoVeu Binary/Software Distribution** — Multiple requests for "Latest Stable Binary"; appears to be critical path item
+5. **Battery Shipment to Ottawa Canada** — Logistics coordination with AeroNet; multi-party (Robert Correia, Patrick Mulstay, Jeff Dauz, Adrian Sepulveda)
+6. **MHP Data Alignment** — Stanford University research collaboration (Tanay Topac)
+7. **Atmolab Camera System** — Still active; Jack Elston corresponding with Jure Dolinar
+8. **Vulcan RFI** — Minor RFI response to ByLight
 
-### Project/Program Codes
-- **S0™ VTOL** — Referenced in earlier email from NOAA contact
-- **CJFC** — Vendor brief component
-- **Arctic UAS** — Primary program name
+### Project/Program Codes & Nomenclature
+- **Arctic UAS** — Primary demonstration program
+- **CJFC** — Vendor brief component (appears to be government/military program)
+- **ECSDOT / E2/ECS-DoT** — Integration project (scope expanded)
+- **Merlin Mk2** — Navy SBIR program (UK MOD involvement)
+- **MHP** — Data alignment work (Stanford collaboration)
+- **Vulcan** — RFI program (ByLight)
 
 ## Communication Patterns
-- **Sent emails:** 5 outbound (Wed 20 May 10:19–16:43, indicating afternoon activity window)
-- **Received emails:** 10 inbound
-- **Late-night coordination:** Multiple emails sent/received 00:58–04:22 UTC (likely evening work in North America timezone)
-- **Forwarding pattern:** Jack Elston frequently forwards broader context; Dan Prendergast responds directly to specific technical contacts (Atmolab, NanoVeu, Nextech)
-- **Importance flags:** 11 of 15 emails marked IMPORTANT or UNREAD, suggesting active project phase
 
-## Key Relationships
+### Outbound vs Inbound
+- **Sent emails:** 11 outbound (concentrated Thu 21 May 10:12–17:16 MDT)
+- **Received emails:** 24 inbound
+- **Ratio:** 31% sent, 69% received — Dan is more reactive/recipient of coordination
 
-### Primary Collaborators (Internal)
-- **Jack Elston** — Acts as hub/coordinator; forwards information to Dan and manages broader stakeholder communication. Appears to be Dan's manager or project lead.
-- **Maciej Stachura** — Technical peer on integration and Navy project threads
+### Time Patterns
+- **Peak sending windows:** Thu 21 May 10:12–17:16 MDT (6-hour afternoon window; business hours)
+- **Peak receiving:** Mixed; emails arrive 08:24–20:17 UTC (spanning international timezones)
+- **Late-night activity:** Multiple emails from Jack Elston sent 00:08–04:44 UTC (midnight–4am); suggests Jack is managing early-morning handoffs or responding to overnight developments
+- **Friday morning:** Integration workshop at 08:30am MDT; calendar acceptance at 01:43 UTC (overnight)
 
-### Key External Relationships
-- **Jure Dolinar (Atmolab)** — Vendor relationship; active technical dialogue
-- **Mohamed Sabry (NanoVeu)** — Software/integration partner
-- **Trenton McKibben (Nextech)** — Program coordination partner on Arctic UAS
-- **Mark Waldo (Thermosena Aero)** — Navy project technical contact
-- **Tanay Topac (Stanford)** — Research collaborator on data alignment work
+### Forwarding & Escalation
+- Dan forwards Navy project discussion to Jack and Maciej (escalation pattern)
+- Jack forwards Krateo Sky integration workshop invitation to 13+ recipients (large group coordination)
+- Mark Waldo (Thermosena Aero) forwards to/copies Thermosena team; Simon Laurence (UK MOD) escalates Navy SBIR internally
+- Multiple CC patterns indicate matrix management across BST, Krateo Sky, NanoVeu, Nextech
 
-## Notable Observations
-
-- **Volume spike:** Only 4 emails found in initial scan, now 15 emails in expanded dataset—suggests this is an active project period (mid-May 2026)
-- **Multi-vendor coordination:** Dan manages relationships with at least 4 external vendors simultaneously (Atmolab, NanoVeu, Nextech, Thermosena Aero)
-- **Arctic UAS is high-priority:** This program appears central; repeated mentions across internal and external communication, scheduled milestone June 25/26
-- **Late-night working pattern:** Multiple 00:58–04:22 UTC timestamps suggest deadline-driven or coordination-across-timezones work
-- **Technical depth:** Dan receives direct vendor correspondence (software binaries, camera system specs) suggesting hands-on technical role, not purely administrative
-- **Navy involvement:** Parallel Navy project mentioned in Mark Waldo thread; may be related to or separate from Arctic UAS
+### Email Flags
+- **21 of 35 

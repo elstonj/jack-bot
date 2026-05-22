@@ -5,7 +5,7 @@
 - **Contract:** SBIR Phase III, Contract No. 80NSSC25CA043
 - **Dollar Value:** $74,428.00 (Fixed Price)
 - **Timeline:** January 2025 – September 2025 (9 months)
-- **Status:** ARCHIVED (contract completed and closed November 24, 2025)
+- **Status:** ARCHIVED — Contract completed and closed November 24, 2025. All deliverables accepted, payments received ($74,428 total).
 - **Team:** Whole BST team involved
 - **Primary Contact:** Matthew Fladeland, NASA Ames Technology Transfer Office, 650.604.3325, matthew.fladeland@nasa.gov, MS 202A-3 Moffett Field, CA 94035-1000
 
@@ -20,7 +20,7 @@
 | 1/30/25 | N/A | IT Security Management Plan | ✓ Completed 1/28/25 |
 | 3/28/25 | $35,000 | Demonstration Report #1 (Quarterly) | ✓ Completed 3/28/25 |
 | 9/30/25 | $35,000 | Final Report (with SF 298 & DD Form 250) | ✓ Completed 9/16/25 |
-| 8/27-28/25 | Included | Persistence Demo Event (Pawnee National Grassland) | ✓ Completed 8/28/25 |
+| 8/27–28/25 | Included | Persistence Demo Event (Pawnee National Grassland) | ✓ Completed 8/28/25 |
 
 **Key Event:** 24-hour persistence demonstration conducted August 27–28, 2025 at Pawnee National Grassland with attendees from USFS (Sam Markson), NASA (Will Wada, Matthew Fladeland), and USDA.
 
@@ -54,7 +54,7 @@
 
 ## Recent Activity
 
-**Contract Closeout Sequence (Late November 2025):**
+**Contract Closeout Sequence (November 2025):**
 - 11/24/25: Final payment confirmed received; project closure approved and officially closed by Dan Prendergast
 
 **Final Deliverables Submitted (September–October 2025):**
@@ -73,9 +73,9 @@
 
 ### Financial Status
 - **All 4 deliverable payments received and confirmed:**
-  - IT Security Plan (1/28): No dollar amount specified (required compliance deliverable)
-  - Demo Report #1 (3/28): $35,000 ✓
-  - Final Report (9/30): $35,000 ✓
+  - IT Security Plan (1/28/25): Compliance deliverable (no separate dollar amount)
+  - Demo Report #1 (3/28/25): $35,000 ✓
+  - Final Report (9/30/25): $35,000 ✓
   - Closeout payment: $4,428 ✓
   - **Total invoiced: $74,428.00 (100% of contract value)**
 
@@ -122,4 +122,4 @@
 ---
 
 **Project Status: Successfully Completed & Archived**  
-All contractual obligations fulfilled, deliverables accepted, payments received, and project closed as of November 24, 2025. Company is actively exploring follow-on opportunities with NASA in Earth observation domain (hurricane monitoring focus). NASA RFI proposal work scheduled to begin in late April 2026.
+All contractual obligations fulfilled, deliverables accepted, payments received ($74,428), and project closed as of November 24, 2025. Company is actively exploring follow-on opportunities with NASA in Earth observation domain (hurricane monitoring focus). NASA

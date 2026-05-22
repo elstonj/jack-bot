@@ -1,4 +1,4 @@
 # [001-13] Proposals
 
 Small project with 1 tasks.
-- [Open] NASA Phase I - Wildfire Persistence — Beck Cotter
+- [Open] LOC/sub budget numbers for Thormodson Aero — Beck Cotter

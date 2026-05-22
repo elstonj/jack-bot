@@ -1,13 +1,13 @@
 # [200-12] NASA AREN '25
 
 ## Overview
-- **Client/Customer:** NASA (Science Mission Directorate)
+- **Client/Customer:** NASA Science Mission Directorate
 - **Contract Number:** 80NSSC25PA610
 - **Dollar Value:** $20,576 (BST's portion of $117,701.50 total project budget)
 - **Timeline:** Original contract due 2026-03-02
 - **Status:** ARCHIVED — Project shut down August 2025 ahead of schedule
 - **Owner:** Meredith O'hara Needham
-- **Team:** BST (Whole Team)
+- **Team:** BST (Whole Team); Kay Rufty (Aerospace Engineer, named Co-Investigator)
 
 ## Project Purpose
 BST participated in the AEROKATS and ROVER Education Network (AREN), a NASA Science Mission Directorate "Science Activation" project promoting learning and outreach. BST provided support via Aerospace Engineer Kay Rufty, a named Co-Investigator.
@@ -18,13 +18,18 @@ BST participated in the AEROKATS and ROVER Education Network (AREN), a NASA Scie
   - **Personal emails:** gbaerokats@gmail.com, geodronez@gmail.com
   - **Current role:** Manages/runs Aeropods project post-retirement from NASA
   - **Location:** Goddard Space Flight Center, Wallops Flight Facility, 34200 Fulton, Wallops Island, VA 23337
+  - **Organization:** NASA Ames
 - **Billing POC:** PIEE
-- **Primary Deliverable Product:** Aeropod
+
+## Key Deliverables & Milestones
+- **Primary Deliverable:** Aeropod platform
+- **Status:** Completed testing phase (October 2025)
 
 ## Task Summary
-- **Total Tasks:** 1 open (administrative contact info), 0 completed
-- **Assignee Status:** One unassigned high-priority task tracking Geoffrey Bland contact information (no due date)
-- **Notes:** Contact management task includes multiple email addresses and Geoffrey's transition from NASA to private Aeropods management role
+- **Total Tasks:** 1 open, 0 completed
+- **Open Tasks:** Geoffrey Bland contact information (unassigned, no due date, high priority)
+  - Includes multiple email addresses and Geoffrey's transition details
+  - Primary product: Aeropod
 
 ## Recent Activity
 - Project archived August 2025 ahead of original 2026-03-02 due date
@@ -36,7 +41,7 @@ BST participated in the AEROKATS and ROVER Education Network (AREN), a NASA Scie
 - Project is archived and concluded
 - No subcontractors involved
 - One open contact management task needs assignment/closure
-- Geoffrey Bland remains active in Aeropods domain via personal email addresses (gbaerokats@gmail.com, geodronez@gmail.com)
+- Geoffrey Bland remains active in Aeropods domain via personal email addresses
 
 ## Follow-Up Opportunities
 

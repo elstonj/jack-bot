@@ -1,11 +1,13 @@
 # Unmapped Customers
 
-_Generated 2026-05-21 03:26 — customers who have emailed info@/sales@ but aren't yet tracked as Asana Commercial Sales tasks._
+_Generated 2026-05-22 03:30 — customers who have emailed info@/sales@ but aren't yet tracked as Asana Commercial Sales tasks._
 
 | Latest | Domain | # Emails | Recent subjects |
 |--------|--------|----------|-----------------|
-| 2026-05-20 | uasweekly.com | 3 | UASweekly Daily Newsletter |
+| 2026-05-21 | uasweekly.com | 3 | UASweekly Daily Newsletter |
+| 2026-05-21 | covercleanbonus.co | 1 | capital for Black Swift Technologies LLC |
+| 2026-05-21 | aveoengineering.com | 1 | 🚨OFFICIAL CERTIFICATION ANNOUNCEMENT🚨 |
+| 2026-05-21 | astrallic.com | 1 | Request for Quote – Outdoor Small Uncrewed Aircraft System Package |
 | 2026-05-20 | allroadsboco.org | 1 | Taking Care of Our Community💖 |
 | 2026-05-19 | flarm.com | 1 | AERO-Nachlese: Danke für inspirierende Begegnungen ✈️ |
 | 2026-05-18 | mail.ozols.lv | 1 | Battery solutions manufactured in Europe |
-| 2026-05-14 | nutshell.com | 1 | Quote Management: A Must-Have? | Nutshell |
