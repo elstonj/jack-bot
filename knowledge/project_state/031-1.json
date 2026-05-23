@@ -26,10 +26,10 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 20930.0,
+        "amount": 21430.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-22"
+        "last_updated": "2026-05-23"
       },
       "purchases": {
         "amount": 0.0,
@@ -43,13 +43,13 @@
         "confidence": "exact",
         "last_updated": "2026-05-19"
       },
-      "total": 20930.0,
+      "total": 21430.0,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 60376.0,
+    "remaining": 59876.0,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-22T09:14:32Z"
+    "last_reconciled": "2026-05-23T09:00:12Z"
   },
   "milestones": [
     {
@@ -104,6 +104,6 @@
       "text": "From Maciej (ts=1777067599.182059): <@U0AQE94HJUT> our highest priority projects right now are: (1) S3 IRAD with a targeted delivery of end of May for the UMES S3, (2) S0-VTOL with two deliveries for ERAU and Barbados, (3) Closing out EMASS, (4) By-Lite Mustang, and (5) Initial tasks on the SBIR Magnetometer project. How are we looking on overdue tasks for those?"
     }
   ],
-  "last_full_rebuild": "2026-05-22T09:14:32Z",
+  "last_full_rebuild": "2026-05-23T09:00:12Z",
   "last_incremental_update": null
 }

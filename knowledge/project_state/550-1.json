@@ -15,9 +15,9 @@
     "type": "t_and_m",
     "number": null,
     "total_value": 242540.0,
-    "start_date": "2026-09-28",
-    "end_date": "2026-09-28",
-    "payment_cadence": "monthly",
+    "start_date": "2025-07-30",
+    "end_date": "2025-10-14",
+    "payment_cadence": "time-and-materials, paid in advance",
     "documents": [
       "drive://Statement of Work",
       "drive://CRT-90P Hydrophone User Guide Rev 2.pdf",
@@ -27,25 +27,32 @@
   "budget": {
     "approved": 242540.0,
     "approved_source": "asana_custom_field",
-    "line_items": [],
+    "line_items": [
+      {
+        "category": "Labor",
+        "amount": 1323.0,
+        "description": "T&M Charges for R&D development work from 7/30/25 thru 10/14/25: (9) Hours @ $147/hr (senior engineer)",
+        "source_doc": null
+      }
+    ],
     "spent": {
       "labor": {
         "amount": 33115.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-22"
+        "last_updated": "2026-05-23"
       },
       "purchases": {
         "amount": 185.15,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-05-22"
+        "last_updated": "2026-05-23"
       },
       "other_qbo": {
         "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-05-22"
+        "last_updated": "2026-05-23"
       },
       "total": 33300.15,
       "by_line_item": {}
@@ -53,7 +60,7 @@
     "committed": 0.0,
     "remaining": 209239.85,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-22T09:16:09Z"
+    "last_reconciled": "2026-05-23T09:01:50Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -100,8 +107,14 @@
     {
       "source": "FEEDBACK",
       "author": "Maciej",
-      "date": "2026-04-22",
-      "text": "From Maciej (ts=1776825957.633159): <@U0AQE94HJUT> the Navy SBIR Magnetometer project has kicked off as of today. Make sure to track those tasks as part of the daily updates. <@U058LGYMEQ0> is the technical lead on this project with support from the others mentioned in Asana"
+      "date": "2026-05-06",
+      "text": "From Maciej (ts=1778079465.330239): <@U0AQE94HJUT>, the Navy SBIR is mostly caught up, I just updated Asana. Also, I'm updating tasks for the Navy STTR which will be a higher priority this month, so make sure to mention that tomorrow"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-05-06",
+      "text": "From Maciej: <@U0AQE94HJUT>, the Navy SBIR is mostly caught up, I just updated Asana. Also, I'm updating tasks for the Navy STTR which will be a higher priority this month, so make sure to mention that tomorrow"
     },
     {
       "source": "FEEDBACK",
@@ -126,20 +139,8 @@
       "author": "Jack",
       "date": "2026-05-08",
       "text": "From Jack: <@U0AQE94HJUT> correction: the navy sttr has priority, the SBIR is mostly on schedule"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-05-06",
-      "text": "From Maciej (ts=1778079465.330239): <@U0AQE94HJUT>, the Navy SBIR is mostly caught up, I just updated Asana. Also, I'm updating tasks for the Navy STTR which will be a higher priority this month, so make sure to mention that tomorrow"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-05-06",
-      "text": "From Maciej: <@U0AQE94HJUT>, the Navy SBIR is mostly caught up, I just updated Asana. Also, I'm updating tasks for the Navy STTR which will be a higher priority this month, so make sure to mention that tomorrow"
     }
   ],
-  "last_full_rebuild": "2026-05-22T09:16:09Z",
+  "last_full_rebuild": "2026-05-23T09:01:50Z",
   "last_incremental_update": null
 }

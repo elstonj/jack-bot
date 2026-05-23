@@ -4,16 +4,13 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-05-21",
-    "end": "2026-05-22"
+    "start": "2026-05-22",
+    "end": "2026-05-23"
   },
   "totals": {
     "revenue": 216000.0,
-    "expenses": 1346.84,
-    "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 1326.59,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 20.25
-    }
+    "expenses": 0.0,
+    "by_category": {}
   },
   "invoices": [
     {
@@ -87,44 +84,7 @@
     }
   ],
   "bills": [],
-  "purchases": [
-    {
-      "type": "Purchase",
-      "date": "2026-05-21",
-      "doc_number": "",
-      "total": 1326.59,
-      "attributed": 1326.59,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 1326.59,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-21",
-      "doc_number": "",
-      "total": 20.25,
-      "attributed": 20.25,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 20.25,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": "Duties/Customs fees for shipment from Alerion on 5/05/25 - IDIQ items"
-        }
-      ]
-    }
-  ],
+  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

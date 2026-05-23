@@ -1,80 +1,116 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 227 emails across May 18–22, 2026 (combined dataset: 175 + 52 new)
-- **Volume pattern:** Very high email volume; predominantly vendor/procurement routing with government partnership coordination, internal project management, and increasing meeting coordination
-- **Unread messages:** ~120+ unread (majority of inbox), indicating sustained high incoming rate and active triage
-- **Date range:** Primary activity May 19–22, 2026 (Tue–Fri); concentrated spike May 21–22, 2026 (Thu–Fri morning)
+- **Total messages scanned:** 252 emails across May 18–23, 2026 (combined dataset: 227 + 25 new)
+- **Volume pattern:** Very high email volume; predominantly vendor/procurement routing with government partnership coordination, internal project management, and escalating meeting/project coordination
+- **Unread messages:** ~135+ unread (sustained high incoming rate and active triage)
+- **Date range:** Primary activity May 19–23, 2026 (Tue–Sat); concentrated spike May 21–23, 2026 (Thu–Sat morning)
 
 ## Key Correspondents
 
 ### Senders (who emails Josh most) — Updated
-1. **Purchasing alias routing** (`purchasing@blackswifttech.com`) — ~65+ vendor emails routed through BST's central purchasing distribution
-   - **New vendors in May 21–22 batch:** Harbor Freight, FlashlightGo (order #9693 shipment), Battery Junction (order BJ-760679 canceled), B&H Photo Video Pro Audio, Daniels Manufacturing Corporation, Pirate Ship (shipping service, 2x), uAvionix (order completion notes), TraceParts, MechStack/Fictiv
-   - **Maintained vendors:** McMaster-Carr, DigiKey, Amazon, FedEx, UPS, ProtoCase, HeliDirect, Pasternack, SendCutSend, and 30+ others
+1. **ProtoCase** (`arboutilier@protocase.com`) — **5 new emails (May 22)**
+   - Graphics approval workflow for order **V051526096-255039-1** (marked IMPORTANT; 3x notifications)
+   - Josh responded twice (May 22, 11:44–11:50 MDT) with rapid approval iterations
+   - Status: Graphics approved, moving to production
 
-2. **Jack Elston** (`elstonj@blackswifttech.com`) — **Now 5 new emails (May 21–22)**
-   - **2x Krateo Sky Integration:** Pre-read workshop coordination with Sona Raziabeegum (marked IMPORTANT)
-   - **1x KS x Black Swift Integration Workshop:** Fri May 22, 2026, 8:30–9:30am MDT (marked IMPORTANT; includes Josh, Bob Smith, Brian Grubel, Lisa Marie Cheney, Roger Riley, Sona Raziabeegum, Thibault Bridel-Bertomeu, Maciej Stachura, Beck Cotter, Daniel Prendergast, Meredith Needham)
-   - **2x BST Field Trip:** Updated invitation Fri May 22, 2026, 3–4:45pm MDT (marked IMPORTANT); also Jul 3, 2026 3–4:45pm MDT (includes Nathaniel Straus, Paige Smith, Beck Cotter, Ethan Domagala, Maciej Stachura, Alex Lomis, Meredith Needham, Daniel Prendergast, Sam Hild)
+2. **Purchasing alias routing** (`purchasing@blackswifttech.com`) — ~70+ vendor emails
+   - **New vendors/activities:** AliExpress targeted offer, Baofeng (radio equipment 20% OFF), Harbor Freight (Memorial Day 4-day sale x2), Battery Junction (rewards unlock), UPS pickup notifications (x2), Daniels Manufacturing (Memorial Day), DigiKey order delay notification, HeliDirect (25% OFF Memorial Day), eMachineShop (material selection guide), AMain Hobbies (package delivery)
+   - **Maintained vendors:** McMaster-Carr, DigiKey, Amazon, FedEx, UPS, SendCutSend, and 40+ others
 
-3. **Meredith Needham** (`meredith.needham@blackswifttech.com`) — **2 new emails + 1 Asana task notification**
-   - External purchase request with Gerald Yoquelet (PPG Intl) ongoing (marked IMPORTANT; 4-email chain May 21)
-   - Asana task: [012-3] ERAU Model S0 (May 21, 18:05)
+3. **Google Drive/Workspace sharing** — **2 new notifications (May 22–23)**
+   - **Maciej Stachura** — Shared presentation "Glidersonde v1" (May 23, 02:36 UTC, marked IMPORTANT)
+   - **Beck Cotter** — Added to shared drive "Operations: Krateo Sky" (May 22, 08:41 PDT, marked UNREAD)
 
-4. **Krateo Sky partners** (`sona@krateosky.com`, `bob@krateosky.com`, `brian@krateosky.com`, `lisamarie@krateosky.com`, `roger@krateosky.com`, `thibault@krateosky.com`, `a@krateosky.com`, `l@krateosky.com`)
-   - **2x emails from Sona Raziabeegum** (May 22, marked IMPORTANT) — pre-read coordination for May 22 integration workshop
-   - **1x Bob Smith & Krateo team** — workshop attendees
+4. **Jack Elston** (`elstonj@blackswifttech.com`) — Continued coordination (from prior dataset)
 
-5. **Gerald Yoquelet** (`gyoquelet@ppgintl.com`) — **3 new emails (May 21)**
-   - External purchase request chain (marked IMPORTANT); coordinated with Meredith Needham; 4-email rapid exchange 11:23–17:46 UTC
+5. **Meredith Needham** (`meredith.needham@blackswifttech.com`) — Continued coordination (from prior dataset)
 
-6. **Asana** (`no-reply@asana.com`) — **2 new notifications**
-   - Task assignments and comment reminders (May 21)
+6. **Krateo Sky partners** — Workshop attendance confirmed (from prior dataset; shared drive now active)
 
-7. **K-mac Plastics LLC** (`keith@kmac-distribution.com`) — **1 new email (May 21)**
-   - Invoice 55091515 (marked IMPORTANT)
-
-8. **UAS VISION** (`russ@uasvision.com`) — Daily news subscription (May 21)
-
-9. **Academic/Research:** Kelly Ji (MDPI Remote Sensing journal) — Special Issue call for papers on hyperspectral remote sensing (May 21)
+7. **UAS VISION** (`russ@uasvision.com`) — Daily news subscription (May 23; maintained)
 
 ### Internal vs External Breakdown — Updated
-- **External vendors:** ~45+ distinct suppliers
-  - **New in this batch:** Harbor Freight, FlashlightGo, Battery Junction, B&H Photo Video, Daniels Manufacturing Corporation, Pirate Ship (shipping), uAvionix, TraceParts, MechStack/Fictiv, K-mac Plastics LLC
-  - **Maintained from prior:** McMaster-Carr, DigiKey, Amazon, FedEx, UPS, ProtoCase, HeliDirect, Pasternack, SendCutSend, and 35+ others
+- **External vendors:** ~50+ distinct suppliers
+  - **New in this batch:** AliExpress, Chitu Systems (resin mixing), Chris Haller/Space Software Summit, Baofeng (radio), eMachineShop
+  - **Critical active:** ProtoCase (graphics approval chain), DigiKey (order delay), AMain Hobbies (delivery)
 
-- **Internal BST colleagues:** Jack Elston, Meredith Needham, Daniel Prendergast, Beck Cotter, Maciej Stachura, Nathaniel Straus, Paige Smith, Ethan Domagala, Alex Lomis, Sam Hild
+- **Internal BST colleagues:** Jack Elston, Meredith Needham, Beck Cotter, Maciej Stachura, Daniel Prendergast, Nathaniel Straus, Paige Smith, Ethan Domagala, Alex Lomis, Sam Hild
 
-- **Strategic partners:** Krateo Sky (Bob Smith, Brian Grubel, Lisa Marie Cheney, Roger Riley, Sona Raziabeegum, Thibault Bridel-Bertomeu)
+- **Strategic partners:** Krateo Sky (escalating — now shared drive access granted)
 
-- **External vendors (critical):** Gerald Yoquelet (PPG Intl), K-mac Plastics LLC
-
-- **Government/Academic:** NOAA Federal, ERAU, AOGS, MDPI (Remote Sensing journal)
+- **Government/Academic:** NOAA Federal, ERAU, AOGS, MDPI
 
 ### Top External Contacts by Frequency & Importance — Updated
-1. **Krateo Sky Integration** — **Escalating importance:** Jack Elston coordinating 5-email pre-workshop chain with Sona Raziabeegum and full team briefing; workshop scheduled May 22, 8:30–9:30am MDT (marked IMPORTANT)
-2. **Gerald Yoquelet (PPG Intl)** — External purchase request; 4-email rapid exchange with Meredith; marked IMPORTANT
-3. **K-mac Plastics LLC** — Invoice delivery; marked IMPORTANT
-4. **McMaster-Carr** — Multiple order confirmations & receipts (S3 SALES orders)
-5. **Battery Junction** — Order cancellation chain (BJ-760679)
-6. **FlashlightGo** — Shipment tracking (order #9693)
-7. **UAS VISION** — Daily news subscription (maintained)
-8. **MDPI Remote Sensing** — Academic publishing opportunity (new contact)
+1. **ProtoCase** — **NOW HIGHEST PRIORITY:** 5-email graphics approval chain (May 22); rapid back-and-forth iteration; order moving to production
+2. **Krateo Sky Integration** — **Escalating infrastructure:** Shared drive "Operations: Krateo Sky" created (May 22); indicates structured ongoing collaboration beyond single workshop
+3. **Gerald Yoquelet (PPG Intl)** — External purchase request (from prior dataset)
+4. **UAS VISION** — Daily news subscription (maintained contact)
+5. **DigiKey** — Order delay notification (May 22; potential supply chain impact)
+6. **McMaster-Carr** — Ongoing procurement (from prior dataset)
+7. **Baofeng** — New radio equipment vendor (routed to purchasing)
+8. **Space Software Summit** — Conference promotional contact (chris@spacesoftwaresummit.com)
 
 ## Topic Patterns
 
-### Recurring Project/Procurement Themes — Updated
-- **General component procurement:** McMaster-Carr orders (S3 SALES multiple), DigiKey (order #99376023), Amazon (various), Harbor Freight
-- **Aerospace/drone components:** 
-  - **uAvionix orders** (order completion May 21, notes added May 4 order)
-  - **Battery systems:** Battery Junction (order BJ-760679 canceled, then order inquiries)
-  - **Lighting/camera equipment:** FlashlightGo (order #9693), B&H Photo Video (Oben tripod), TraceParts (CAD content)
-- **Helicopter/flight equipment:** HeliDirect promotions (mentioned 2x for Meredith/Purchasing)
-- **Manufacturing/fabrication:** ProtoSpace marketing (protection solutions), MechStack/Fictiv (product development guide), Daniels Manufacturing Corporation (Safe-T-Cable webinar)
-- **Shipping/logistics:** Pirate Ship (2x receipts $42.49 each), UPS pickup request, Budget (25% off base rates), FlashlightGo Route protection
-- **Industrial supplies:** K-mac Plastics LLC (invoice 55091515)
+### Active Projects — Updated
+1. **ProtoCase Custom Enclosure (Order V051526096-255039-1)**
+   - **Status:** Graphics design approval workflow; final iteration approved May 22
+   - **Urgency:** Rapid iteration cycle (3 approval emails same day)
+   - **Josh's role:** Direct approver (not delegated to purchasing)
 
-### Government & Strategic Projects — Updated
-- **Krateo Sky Integration:** **NOW ACTIVE & ESCALATING**
-  - May 22, 2026
+2. **Glidersonde v1 Project**
+   - **New discovery:** Shared presentation from Maciej Stachura (May 23)
+   - **Marked IMPORTANT** — Suggests active development or significant project update
+   - **Status unknown:** Likely sensor/instrument design (given aerospace context)
+
+3. **Operations: Krateo Sky**
+   - **New shared drive structure created** (May 22)
+   - **Shared drive members:** Beck Cotter (creator), Josh Fromm (added)
+   - **Indicates:** Transition from single workshop coordination to structured operational partnership
+   - **Workshop confirmed:** May 22, 8:30–9:30am MDT (from prior dataset)
+
+4. **General Component Procurement** (from prior dataset)
+   - Battery systems (Battery Junction order inquiries)
+   - Aerospace/drone components (uAvionix, lighting, cameras)
+   - Manufacturing/fabrication (MechStack, Fictiv, Daniels Manufacturing)
+   - Industrial supplies (K-mac Plastics, eMachineShop)
+
+### Procurement Categories Visible
+- **Custom enclosures/housings:** ProtoCase (active)
+- **Resin/composite materials:** Chitu Systems (promotional)
+- **Radio/communication equipment:** Baofeng
+- **Hobby/robotics components:** AMain Hobbies (delivery notification)
+- **Shipping & logistics:** UPS (pickup notifications, 2x same day)
+- **Electrical components:** DigiKey (order delay alert)
+
+### Marketing/Newsletter Activity
+- **Conference/Event:** Space Software Summit (tickets promotion, May 22)
+- **Vendor promotions:** AliExpress, Harbor Freight (2x Memorial Day), Battery Junction, HeliDirect, Baofeng
+- **Industry news:** UAS VISION daily newsletter (maintained)
+- **Technical content:** eMachineShop material selection, Chitu Systems resin guide
+
+## Communication Patterns
+
+### Temporal Patterns — Updated
+- **Heavy Friday activity:** May 22 spike with 18/25 new emails
+- **Weekend activity:** May 23 early morning (02:36 UTC — Glidersonde presentation, 23:30 PDT Thu)
+- **Time zones active:** PDT, MDT, EDT, UTC, CDT — distributed team/vendor base
+- **Rapid iteration windows:** ProtoCase graphics (May 22, 11:44–11:50 MDT — 6-minute response cycle)
+
+### Mailing Lists & Group Distribution
+- Purchasing routing alias (primary aggregation point for vendor communications)
+- Google Workspace shared drives (Krateo Sky operations now structured)
+- UAS VISION daily subscription (personal contact to russ@uasvision.com, not generic list)
+
+### Automated vs Human Communication
+- **Automated/promotional:** ~12/25 emails (vendor newsletters, order notifications, shipping alerts)
+- **Human-driven:** ~13/25 emails (ProtoCase design approval, presentations, partnership coordination)
+- **Transactional systems:** Google Drive sharing, UPS/shipping platforms, DigiKey order delay
+
+## Key Relationships
+
+### Closest Internal Collaborators (by new activity)
+1. **Maciej Stachura** — Shared "Glidersonde v1" presentation (marked IMPORTANT); suggests peer collaboration on active project
+2. **Beck Cotter** — Created and granted access to "Operations: Krateo Sky" shared drive; operational partnership lead
+3. **Jack Elston** — Workshop

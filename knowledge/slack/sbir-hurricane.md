@@ -82,11 +82,11 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - SASCWATCH has one S0 left over from previous season; decision made not to allow NOAA to use it (April 23, 2026)
 - Jack Elston confirmed awareness of leftover aircraft status (April 23, 2026)
 
+**Stock Inventory Build (May 6, 2026):**
+- Jack Elston initiated procurement of 20 additional S0 aircraft units to maintain stock inventory for operational opportunities (May 6, 2026)
+- Decision made to use current 2026 configuration without waiting for 2027 mods (May 6, 2026)
+
 **Marketing & Content (April 28, 2026):**
 - Jack Elston created pull quotes for marketing content; notes they were created as jokes but indicates potential broader marketing use (April 28, 2026)
 - Dan Prendergast confirmed that quoted individuals would likely endorse/undersign the quotes (April 28, 2026)
-- Joshua Fromm suggested sending pull quote material to Monster Energy for potential sponsorship opportunity (May 21, 2026)
-
-**Stock Inventory Build (May 6, 2026):**
-- Jack Elston initiated procurement of 20 additional S0 aircraft units to maintain stock inventory for operational opportunities (May 6, 2026)
-- Decision made to use current 2026 configuration without waiting for 2027 mods
+- Joshua Fromm suggested sending pull quote material to Monster Energy for potential sponsorship opportunity

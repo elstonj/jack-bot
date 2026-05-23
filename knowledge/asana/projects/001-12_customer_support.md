@@ -11,9 +11,10 @@
   - **Design task scope for S3 partially undefined** — Battery, case, and other components needed by end of May; Josh Fromm to confirm full scope
   - **Build phase tasks missing from Asana** — Maciej requesting major tasks be captured for visibility and coordination; build phase owner not yet confirmed
   - **CU-IRISS S2 training flight coordination pending** — S2 repair completed; training flight scheduling and NSF MUSAS certification update now active next steps
-  - **Task list collapsed in Asana** — 0 open, 0 completed tasks visible despite multi-phase active project; suggests tasks may have been archived or consolidated without full handoff documentation
+  - **Task list collapsed in Asana** — 0 open, 1 completed task visible despite multi-phase active project; suggests tasks may have been archived or consolidated without full handoff documentation
 
 ## Key Deliverables & Milestones
+- **Area-I Turbulence Probe (hurricane project)** — **COMPLETED 2025-10-21** — Josh Fromm; fitted nosecone on competitor UAS platform
 - **CU-IRISS S2 repair/update** — **COMPLETED 2026-05-13** — Nate Straus; S2 returned to shop and repair finished
 - **CU-IRISS training flight & NSF MUSAS certification** — **IN PROGRESS** — Contingent on training flight scheduling; Brian Argrow (CU-IRISS) to update NSF MUSAS website post-training to certify operational status
 - **S3 first customer build (ACTIVE PRIORITY)** — Target: End of May 2026 design freeze
@@ -21,15 +22,18 @@
   - Build phase: Requires task capture in Asana for visibility and coordination (owner to be confirmed)
 
 ## Task Summary
-- **Total tasks in Asana:** 0 open, 0 completed
-- **Current assignees:** None visible in Asana task list
+- **Total tasks in Asana:** 0 open, 1 completed
+- **Completed task:** Area-I Turbulence Probe (Josh Fromm, completed 2025-10-21) — nosecone fit for competitor UAS in hurricane project
+- **Current assignees:** Josh Fromm (primary visible contributor)
 - **Notable patterns:**
-  - Task count is zero despite active multi-phase, multi-client operations
+  - Only 1 task visible in Asana despite active multi-phase, multi-client operations
   - **Missing from Asana (per Maciej Stachura, 2026-04-24 & 2026-04-30 — authoritative):**
     - S3 design tasks (battery, case, other components) — likely Josh Fromm; due by end of May 2026
     - S3 build phase major tasks — owner to be confirmed; scope and timeline to be defined
 
 ## Recent Activity
+**[2025-10-21] Area-I Turbulence Probe completed** (Josh Fromm) — nosecone fit on competitor UAS platform for hurricane project.
+
 **[2026-04-24 & 2026-04-30] Maciej Stachura (authoritative feedback — overrides Asana task list):** S3 first customer build accelerating with immediate due dates set. Specific requests:
 1. **Josh Fromm:** Add design tasks for S3 first customer build by end of May (battery, case, etc.; full scope confirmation needed)
 2. **Build phase owner (TBD):** Capture major S3 build tasks in Asana for visibility and coordination with design phase
@@ -48,7 +52,7 @@
 **Key contacts:**
 - **Nate Straus** — [001-12] project owner; CU-IRISS repair/training owner
 - **Maciej Stachura** — S3 build coordination & project tracking owner
-- **Josh Fromm** — S3 design lead (battery, case, other components)
+- **Josh Fromm** — S3 design lead (battery, case, other components); Area-I turbulence probe delivery lead
 - **Brian Argrow (CU-IRISS)** — Customer contact (brian.argrow@colorado.edu); training flight pending; NSF MUSAS certification update pending post-training
 - **Jack Elston, Meredith O'hara Needham** — Team members (roles TBD in available data)
 

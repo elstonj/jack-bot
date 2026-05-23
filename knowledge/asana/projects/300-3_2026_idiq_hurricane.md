@@ -11,24 +11,23 @@
 - **Timeline:** 
   - Project Start: 2026-07-31
   - Invoice schedule: March 2026 – July 2026
-  - **Critical hardware ship date:** May 27, 2026 (SHOW units)
+  - **Critical hardware ship date:** May 27, 2026 (SHOW s0 units using 2025 parts)
   - **Final delivery deadline:** June 30, 2026 (all 20 units packed)
-- **Status:** **ACTIVE — CRITICAL PHASE IN PROGRESS.** ⚠️ **4 OPEN TASKS DETECTED** — hardware builds in final stages. Key tasks due 5/21–5/22 (power switches, s0 units, shipment to NOAA). 4 of 6 invoices completed; next invoice due 6/5/26.
+- **Status:** **ACTIVE — CRITICAL PHASE IN PROGRESS.** ⚠️ **2 OPEN CRITICAL TASKS** (per current Asana data) — hardware builds in final stages. Both tasks due 5/22/26 (s0 units and shipment to NOAA). Note: Previous knowledge file listed 4 open tasks; current Asana shows 2 open. Power switches task and parameter validation may have been completed or closed.
 - **Team Members:** 
   - Meredith O'hara Needham (project owner, shipments, invoice submissions)
   - Jack Elston (firmware/software development)
   - Sam Hild (QC, hardware validation, kit assembly)
-  - Nate Straus (platform rebuild/validation, s0 builds, servo assembly, linkage construction, power switch builds) — **carrying majority of open hardware tasks**
+  - Nate Straus (platform rebuild/validation, s0 builds, servo assembly, linkage construction, power switch builds) — **carrying critical open hardware task**
   - Maciej Stachura (platform validation/testing, magnetic calibration, parameter file validation)
   - Alex Lomis (strategic partnerships, NASA opportunities)
   - Josh Fromm (GCS assembly, long-lead parts procurement)
 - **Risk Signals:** 
-  - ⚠️ **3 critical tasks due 5/21–5/22, all in active work state:**
-    - "Build 5 power switches with short pcb" (Nate Straus, due 5/21)
+  - ⚠️ **2 critical tasks due 5/22/26, both in OPEN state:**
     - "Build up 2 SHOW s0's using 2025 parts - MUST SHIP MAY 27th" (Nate Straus, due 5/22)
     - "Ship S0s Models to NOAA (2 locations)" (Meredith O'hara Needham, due 5/22)
-  - ⚠️ **Potential conflict in s0 requirements:** Previous knowledge file documented completion of "Build 2 SHOW s0's using 2026 parts" (completed 5/19). New data shows "Build up 2 SHOW s0's using 2025 parts - MUST SHIP MAY 27th" as OPEN. Clarify whether these are different unit builds (total of 4 s0 units) or task duplication/rework.
-  - ⚠️ **May 27 ship date is near-term critical path.**
+  - ⚠️ **May 27 ship date is imminent and on critical path.** Tasks due 5/22 have 5-day buffer before shipment deadline.
+  - ⚠️ **Previous knowledge documented 2026-parts s0 build completed 5/19; current task is for 2025-parts build**, suggesting either distinct unit batches or rework cycle. Confirm Nate Straus' actual workload.
 
 ## Key Deliverables & Milestones
 
@@ -54,17 +53,20 @@
 |------|-------|----------|--------|-------|
 | **Add RH / Vaisala fix to PSNS code** | Jack Elston | 2026-05-01 | ✅ COMPLETED 2026-05-08 (7 days late) | Firmware fix completed; downstream work unblocked. |
 | **Rebuild BST s0 (platform rebuild)** | Nate Straus | 2026-05-15 | ✅ COMPLETED 2026-05-14 (1 day early) | Critical progress on schedule. |
-| **Build 2 SHOW s0's using 2026 parts** | Nate Straus | 2026-07-17 | ✅ **COMPLETED 2026-05-19 (59 days early)** | **Previous knowledge: shipped ahead of critical May 27 deadline.** |
-| **Build 2 SHOW tripods** | Nate Straus | 2026-05-22 | ✅ **COMPLETED 2026-05-19 (3 days early)** | **Previous knowledge: shipped with s0 units ahead of schedule.** |
-| **Build 5 power switches with short pcb** | Nate Straus | 2026-05-21 | ⏳ OPEN | New data shows open status; likely part of 2025-parts build cycle. |
+| **Build 2 SHOW s0's using 2026 parts** | Nate Straus | 2026-07-17 | ✅ **COMPLETED 2026-05-19 (59 days early)** | Previous knowledge: shipped ahead of critical May 27 deadline. |
+| **Build 2 SHOW tripods** | Nate Straus | 2026-05-22 | ✅ **COMPLETED 2026-05-19 (3 days early)** | Previous knowledge: shipped with s0 units ahead of schedule. |
+| **Build 5 power switches with short pcb** | Nate Straus | 2026-05-21 | ✅ COMPLETED or CLOSED | Status unclear in current data; no longer listed as open task. |
 | **Build up 2 SHOW s0's using 2025 parts - MUST SHIP MAY 27th** | Nate Straus | 2026-05-22 | ⏳ OPEN | **CRITICAL TASK.** Distinct from 2026-parts build completed 5/19. May indicate secondary unit production or rework. |
-| **Ship S0s Models to NOAA (2 locations)** | Meredith O'hara Needham | 2026-05-22 | ⏳ OPEN | **CRITICAL SHIPMENT TASK.** Addresses 2 NOAA locations: UASD (Lakeland, FL) and UxSOC (1315 East-West Hwy, Siver Spring, MD area). |
-| **Get 2025 and 2026 params files validated and in folder** | Maciej Stachura | 2026-06-30 | ⏳ OPEN | Parameter validation for both unit generations; lower urgency (due end of project). |
+| **Ship S0s Models to NOAA (2 locations)** | Meredith O'hara Needham | 2026-05-22 | ⏳ OPEN | **CRITICAL SHIPMENT TASK.** Addresses 2 NOAA locations: **NOAA UASD (LCDR Nick Pawlenko, Flight Operations Office, 3450 Flightline Drive, Lakeland, FL 33811-2836)** and **NOAA UxSOC (LCDR Nick Pawlenko, 1315 East-West Highway, Silver Spring, MD area)**. |
+| **Get 2025 and 2026 params files validated and in folder** | Maciej Stachura | 2026-06-30 | ✅ COMPLETED or CLOSED | Status unclear in current data; no longer listed as open task. |
 
 ## Task Summary
 
-**Open Tasks: 4**
-- ⏳ Build 5 power switches with short pcb | Nate Straus | Due 2026-05-21 | Status: OPEN
-- ⏳ Build up 2 SHOW s0's using 2025 parts - MUST SHIP MAY 27th | Nate Straus | Due 2026-05-22 | Status: OPEN
-- ⏳ Ship S0s Models to NOAA (2 locations) | Meredith O'hara Needham | Due 2026-05-22 | Status: OPEN
-- ⏳ Get 2025 and
+**Current Asana Status: 2 open tasks, 0 completed** (note: Asana project completion counter may not reflect overall project task completion; refer to detailed milestone table above for full picture)
+
+**Open Tasks:**
+1. **Build up 2 SHOW s0's using 2025 parts - MUST SHIP MAY 27th** | Nate Straus | Due 2026-05-22 | Status: OPEN
+2. **Ship S0s Models to NOAA (2 locations)** | Meredith O'hara Needham | Due 2026-05-22 | Status: OPEN
+
+**Task Distribution & Completion:**
+-

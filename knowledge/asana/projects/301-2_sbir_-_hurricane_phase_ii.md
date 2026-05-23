@@ -121,5 +121,3 @@
 **SBIR Magnetometer (Navy)**
 - **Status**: Kicked off April 21, 2026 (Maciej, 4/21/26)
 - **Technical Lead**: Designated team member with support from others (Maciej, 4/22/26)
-- **Key Deliverables**: 
-  - FWA

@@ -4,16 +4,16 @@
 - **Client/customer**: Mixed sales pipeline across government, academic, and commercial sectors (government defense focus: US, Canada, UK; academic; commercial)
 - **Dollar value**: Active pipeline; current Asana shows $0 in estimated/quoted values (data integrity issue). Historical tracking: $2.3M+ pipeline with multiple six-figure opportunities.
 - **Timeline**: Active opportunities spanning through 2027; critical deadlines in Q2 2026
-- **Status**: **CRITICAL: Pipeline visibility severely degraded.** Only 1 open task now visible in Asana (down from 2 in previous refresh). Project restructure to "Sales Portfolio" (Jun 26) and migration to new forms/portfolio system explains disappearance of 9+ previously tracked opportunities. **Immediate audit required to locate missing opportunities and restore full pipeline visibility.**
+- **Status**: **CRITICAL: Pipeline visibility severely degraded.** Only 1 open task visible in Asana. Project restructure to "Sales Portfolio" (Jun 26) and migration to new forms/portfolio system explains disappearance of 9+ previously tracked opportunities. **Immediate audit required to locate missing opportunities and restore full pipeline visibility.**
 - **Team members involved**: Beck Cotter (Owner/lead), Jack Elston, Maciej Stachura, Dan Prendergast, Nate Straus
 - **Risk signals**:
   - **CRITICAL: 9+ high-value opportunities missing from visible task list** (NextTech Solutions S3 Arctic, NOC Greenland Project, Canadian Rangers Demo, S0 VTOL Oklahoma, M&R/FireScore, USAF WC-130J, UK Royal Navy ASW, UC Santa Cruz S3, Barbados S2). Status unknown—may be in new Sales Portfolio, archived, or lost during restructure.
-  - **Sole remaining open task shows stale contact**: Acellant S2 (Jack Elston) last contact 2026-01-14 (4+ months old); no recent follow-up visible.
+  - **Sole remaining open task shows stale contact**: Acellant S2 (Jack Elston) last contact 2026-01-14 (4+ months old); due date 2026-05-22 is imminent with no recent follow-up visible.
   - **Custom field data incomplete**: Current task records show $0 estimated/quoted values despite historical pipeline tracking multi-million dollars.
   - **Stale milestones**: "$5M by end of 2025" and "BD person hire by end of July 2025" (Jun 26 status)—both dates appear to have passed; current status of these goals unknown.
 
 ## Key Deliverables & Milestones
-- **$5M revenue goal by end of 2025** (Jun 26 status—**NOTE: This date appears to have passed; likely a carry-forward target or stale goal.**)
+- **$5M revenue goal by end of 2025** (Jun 26 status—**NOTE: This date appears to have passed; status unknown.**)
 - **BD person hire by end of July 2025** (Jun 26 status—**NOTE: likely also passed; status unknown.**)
 
 ### Current Open Opportunities
@@ -21,7 +21,7 @@
    - **Assignee**: Jack Elston
    - **Customer**: Acellant
    - **Last contact**: 2026-01-14 (**4+ months stale**)
-   - **Status**: No visible follow-up activity; unclear if proposal stage or awaiting customer response.
+   - **Status**: No visible follow-up activity; unclear if proposal stage or awaiting customer response. **Due date approaching—urgent follow-up required.**
 
 ### Previously Tracked Opportunities (Status Unknown—Not in Current Task List)
 **URGENT: The following 9 opportunities were tracked in prior knowledge file but are no longer visible. Determine whether they were migrated to new Sales Portfolio structure, completed, or lost during Jun 26 restructure:**
@@ -68,7 +68,7 @@
 2. **Asana form/portfolio migration**: Jun 26 status indicates new form for leads (https://form.asana.com/?k=c5A9vl7WX84gz612WpkTVw&d=12804948716594). Verify whether opportunities have been moved to new system and audit completeness of migration.
 
 3. **Immediate actions required**:
-   - Locate the new Sales Portfolio and audit all migrated opportunities for status, due dates, and contact recency.
-   - Verify completion status of UC Boulder (was listed as completed 2026-05-15 in prior knowledge).
-   - Follow up on Acellant S2 (Jack Elston): last contact 2026-01-14 is dangerously stale with May 22 due date approaching.
+   - **Locate the new Sales Portfolio** and audit all migrated opportunities for status, due dates, and contact recency.
+   - **Verify completion status of UC Boulder** (was listed as completed 2026-05-15 in prior knowledge).
+   - **URGENT: Follow up on Acellant S2** (Jack Elston): last contact 2026-01-14 is dangerously stale with May 22 due date approaching—this may be the only visible active opportunity.
    - Clarify status of "$5M by end of 2025" and "BD person hire by end of July 2025" targets—both appear to have passed.

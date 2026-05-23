@@ -62,6 +62,7 @@ Goal management workflow template used to brainstorm, draft, and approve BST's m
 - Marketing strategy linked to leadership profiles (Jack Elston's LinkedIn/Twitter)
 - Content refresh needed on soil moisture whitepaper for business development efforts
 - Work references internal Asana project (1207199631174002) for S0 documentation
+- **Marketing Strategy** task (completed 2025-02-21) includes digital presence reference links: Jack Elston LinkedIn, @BlackSwiftTech Twitter, @elstonjack Twitter, bst.aero, Black Swift Technologies Facebook, and YouTube channel
 
 ## Archive Note
 This project successfully established BST's marketing framework, digital infrastructure, and strategic positioning within the geoscience and UAS communities through 2025. It is no longer active. New marketing goals are tracked in subsequent project cycles.
