@@ -1,10 +1,10 @@
 # Jack Elston — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,821 (2,721 prior + 100 May 21–22)
-- **Date range:** April 1–May 22, 2026
+- **Total messages scanned:** 2,884 (2,821 prior + 63 May 22–23)
+- **Date range:** April 1–May 23, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **May 21–22 activity:** 100 new messages. Continued intense M&A/deal structuring (executive employment agreements, document status tracking, diligence requests), Krateo Sky coordination at peak intensity, government/federal partnerships (NOAA, NASA, Navy SBIR), Arctic UAS Demonstration logistics, and vendor technical coordination (Atmolab, Thormodsen Aeronautics).
+- **May 22–23 activity:** 63 new messages. **Peak Krateo Sky integration coordination (5+ exchanges with Sona on May 22 alone).** Continued M&A document management (Ko Firm diligence, MIPA filings, document status). Government/federal partnerships active (NOAA/NASA 777 Proposal escalation, Navy SBIR, Atmolab camera system coordination). Vendor relationships (Gateworks meeting scheduled, Curable Composites timing discussions, Phasmlabs engineering inquiry). Travel planning (Atlanta flight tracking). Technical project updates (Glidersonde v1 presentation shared by Maciej).
 
 ---
 
@@ -13,73 +13,85 @@
 ### Top Internal BST Contacts
 
 - **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical partnerships, government coordination, vendor/facility liaison
-  - **May 21–22 signals:**
-    - Navy project coordination with Mark Waldo/Thormodsen Aeronautics (May 21, 16:06:30 MDT; IMPORTANT)
-    - Latest Stable Binary exchange with NanoVeu (Nikhila Ravikumar) (May 21, 17:00:48 MDT; IMPORTANT)
-    - 7th Federal UxS Workshop distribution to leadership team (May 21, 16:28:04 MDT; SENT)
-  - **Continuing:** Central hub for government demonstrations, vendor technical coordination, and partnership integration.
+  - **May 22–23 signals:**
+    - Multiple exchanges with Nikhila Ravikumar (NanoVeu) on "Latest Stable Binary" (May 22, 14:05:33, 13:45:58, 14:23:25, 21:35:13, 21:48:27, 17:02:58, 17:31:27 UTC; IMPORTANT) — continued high-frequency vendor technical coordination
+  - **Continuing:** Central hub for technical partnerships and vendor integration.
 
 - **Maciej Stachura** (stachura@blackswifttech.com) — Operations, technical coordination, partnerships
-  - **May 21–22 signals:**
-    - 7th Federal UxS Workshop response and coordination (May 21, 16:45:18 & 17:03:39 MDT; IMPORTANT/SENT)
-    - "Recap: Today's Sync and Action Items for This Week" forwarding and discussion (May 21, 12:16:32 & 12:28:39 MDT; SENT/IMPORTANT)
-    - Multiple Ko Firm legal communications (disclosure schedules, diligence requests, document status) — Jack forwarding and Maciej coordinating response (May 21 throughout; IMPORTANT)
-    - Executive Employment Agreement discussions with Ko Firm (May 21; IMPORTANT)
-    - Received Krateo Sky "Pre-Read: Integration Workshop Tomorrow" from Sona (May 22, 01:05:18 UTC; IMPORTANT)
-  - **Continuing:** Multi-dimensional operational and deal involvement intensifying.
+  - **May 22–23 signals:**
+    - Shared "Glidersonde v1" presentation via Google Slides (May 23, 02:36:14 UTC; IMPORTANT) — new technical project deliverable
+    - Looped on Ko Firm MIPA filing (Nadia Bryan) (May 23, 01:23:41 UTC; IMPORTANT)
+  - **Continuing:** Multi-dimensional technical and deal operations intensifying.
 
 - **Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, operations, partnerships
-  - **May 21–22 signals:**
-    - Diligence Requests coordination with Ko Firm (Nadia Bryan) (May 21, 15:01:23 & 21:16:07 UTC; IMPORTANT)
-    - Black Swift Disclosure Schedules handling with Ko Firm (May 21, 14:59:23 & 20:51:00 UTC; IMPORTANT)
-  - **Continuing:** Finance and operational readiness through M&A document management.
+  - **May 22–23 signals:**
+    - Copied on major medical renewal update from Chad Atwood (The AIG Inc.) (May 22, 11:24:21 MDT; IMPORTANT) — benefits/HR coordination for M&A integration
+  - **Continuing:** Finance and operational readiness.
 
 - **Beck Cotter** (beck.cotter@blackswifttech.com) — Operations, technical partnerships
-  - **May 21–22 signals:**
-    - 7th Federal UxS Workshop distribution recipient (May 21, 16:28:04 MDT; SENT)
-  - **Continuing:** Technical review and government program involvement.
-
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Technical operations, industrial planning
-  - **May 21–22 signals:**
-    - Pirate Ship purchasing receipts directed to Josh (May 21, 18:36:00 & 18:32:25 UTC; UNREAD)
-  - **Continuing:** Technical operations and program coordination.
-
-- **Paige Smith** (paige.smith@blackswifttech.com) — Operations/Logistics
-  - **May 21–22 signals:**
-    - 7th Federal UxS Workshop distribution recipient (May 21, 16:28:04 MDT; SENT)
-  - **Continuing:** Operations support.
-
-- **Nathaniel Straus** (nate.straus@blackswifttech.com) — Technical operations/Stanford partnership liaison
-  - **May 21–22 signals:**
-    - MHP data alignment discussion with Stanford (Tanay Topac) (May 21, 13:07:42 & 19:36:15 UTC; IMPORTANT)
-    - 2ndWorks coordination ("Great meeting you!") (May 21, 15:20:29 MDT; SENT)
-  - **Continuing:** Stanford academic partnership and technical project management.
+  - **May 22–23 signals:**
+    - Copied on NOAA/NASA coordination response (May 22, 13:48:12 MDT; SENT)
+  - **Continuing:** Government program support.
 
 ### Top External Contacts
 
-#### **Krateo Sky (CRITICAL ESCALATION — M&A/STRATEGIC PARTNERSHIP — INTEGRATION PHASE)**
+#### **Krateo Sky (M&A/STRATEGIC PARTNERSHIP — INTEGRATION PEAK)**
 
 **Sona Raziabeegum** (sona@krateosky.com) — Krateo Sky Partnership/Strategy Lead
-- **May 21–22 signals (EXTREMELY INTENSE, NEAR-CONTINUOUS ACTIVITY):**
-  - "Pre-Read: Integration Workshop Tomorrow: All Pillar Plans Attached" (May 22, 01:05:18 UTC; IMPORTANT) — sent to Jack and Maciej; Jack responded twice (May 22, 00:08:19 & 00:58:36 MDT; SENT — consecutive responses)
-  - Sona's response (May 22, 05:58:17 UTC; IMPORTANT)
-  - "RE: IT Infrastructure Follow-Up" (May 21, 18:32:10 UTC; IMPORTANT) — indicates Krateo Sky IT systems integration planning underway
-  - "RE: Executive Employment Agreement" (May 21, 20:28:41 & 18:28:41 UTC; IMPORTANT) — deal structuring documents routed through Sona
-  - "RE: FW: Black Swift - Diligence Requests" (May 21, 18:36:14 & 17:50:23 UTC; IMPORTANT) — Sona copied/looped on all due diligence requests; Jack forwarded (May 21, 12:30:51 MDT; SENT); Sona responded same day
-  - "RE: Recap: Today's Sync and Action Items for This Week" (May 21, 18:00:39 & 17:58:29 UTC; IMPORTANT) — same-minute dual response from Sona
-  - Jack sent "IT Infrastructure Follow-Up" to Sona (May 21, 12:13:58 MDT; SENT)
-  - Jack forwarded "Recap: Today's Sync and Action Items for This Week" to Maciej (May 21, 12:16:32 MDT; SENT)
-- **Pattern:** **Peak M&A coordination intensity.** Integration workshop preparation (May 22), IT infrastructure alignment, executive employment agreement finalization, diligence request tracking. Sona is primary coordination hub for all Krateo Sky-BST deal structuring. Multiple same-day/same-hour exchanges indicate active real-time deal management and integration planning.
+- **May 22–23 signals (CRITICAL INTENSITY — 6+ SAME-DAY EXCHANGES):**
+  - **May 22 activity (consecutive rapid-fire coordination):**
+    - Jack sent 4 responses to "Pre-Read: Integration Workshop Tomorrow" (May 22, 10:15:35, 12:26:17, 12:35:09, 12:53:24 MDT; SENT)
+    - Sona responded 4 times with IMPORTANT flags (May 22, 14:05:33, 17:25:30, 17:36:17, 18:46:19 UTC)
+    - Jack forwarded meeting prep to Adria Passola (Krateo Sky) (May 22, 12:26:51 MDT; SENT) — "Meeting Today"
+  - **May 23 signal:**
+    - Sona sent final integration workshop response (May 23, 01:23:41 UTC; IMPORTANT)
+- **Pattern:** **Hyperactive real-time integration planning.** Jack's 4+ same-hour responses on May 22 indicate emergency/urgent deal coordination. Integration workshop (May 23) is imminent. Krateo Sky leadership (Sona, Adria Passola) in constant sync with Jack and Maciej on execution.
 
 #### **Legal/Disclosure & Deal Structuring (M&A TRANSACTION — CRITICAL PHASE)**
 
 **Ko Firm (Counsel)** — External Legal Team
 
+- **Nadia Bryan** (nbryan@kofirm.com) — Senior Counsel/Deal Coordinator
+  - **May 22–23 signals:**
+    - "FW: Black Swift -MIPA" filed with Jack and Maciej (May 23, 01:23:41 UTC; IMPORTANT) — regulatory/integration filing underway
+    - "RE: Document Status" (May 22, 19:11:08 UTC; IMPORTANT)
+  - **Continuing:** Primary deal document pipeline.
+
 - **Ryan Sykora** (rsykora@kofirm.com) — Lead Counsel
-  - **May 21–22 signals (CRITICAL DAILY ACTIVITY):**
-    - "RE: FW: Black Swift - Diligence Requests" (May 21, 18:48:25 UTC; IMPORTANT) — responded to Jack's diligence request forward
-    - "RE: Document Status" (May 21, 18:39:02 UTC; IMPORTANT) — ongoing document status tracking
-    - Jack responded to Ryan (May 21, 12:27:56 MDT; SENT)
-    - Jack forwarded "Fwd: Executive Employment Agreement" to Ryan and Niki Schwab (May 21, 14:11:01 MDT; SENT)
-    - Jack forwarded "Re: FW: Black Swift - Diligence Requests" to Ryan (May 21, 14:12:24 MDT; SENT)
-    
+  - **May 22 signals:**
+    - "RE: Document Status" response (May 22, 14:41:54 UTC; IMPORTANT)
+    - Jack responded to Ryan (May 22, 12:41:02 MDT; SENT)
+  - **Continuing:** Core M&A counsel.
+
+#### **Government/Federal Partnerships (ACTIVE ESCALATION)**
+
+**NOAA / NASA Joint Initiative**
+- **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — NOAA Lead
+  - **May 22 signals:**
+    - Broad "NOAA / NASA" coordination email with Jack, Danielle Varwig, Mark Rogers, Joe Cione, Annette Hollingshead (May 22, 12:45:38 EDT; IMPORTANT)
+    - Jack responded same-day (May 22, 13:48:12 MDT; SENT)
+    - Nikolai forwarded "NASA NOAA 777 Proposal" escalation thread to Tommy Hallock (NASA LARC) (May 22, 12:28:06 EDT; IMPORTANT)
+
+- **Tommy Hallock** (thomas.j.hallock@nasa.gov) — NASA Langley Research Center
+  - **May 22 signals (RAPID ESCALATION CHAIN):**
+    - Multiple exchanges on "RE: [EXTERNAL] Re: NASA NOAA 777 Proposal" with Nikolai, Annette Hollingshead (May 22, 14:35:58, 16:14:49, 17:28:35 UTC; IMPORTANT)
+    - Looped Jack Elston on response (May 22, 14:35:58 UTC; IMPORTANT)
+
+- **Joe Cione** (joe.cione@noaa.gov) — NOAA Federal
+  - **May 22 signal:**
+    - Responded to Nikolai on "NOAA / NASA" initiative (May 22, 21:57:01 UTC; IMPORTANT)
+
+- **Pattern:** **High-level government proposal coordination escalating.** NOAA/NASA 777 Proposal involves Langley Research Center (NASA HQ-level) and multi-agency NOAA team. Jack looped in as primary BST contact on federal partnerships.
+
+#### **Vendor / Hardware Integration**
+
+**Atmolab (Camera Systems)**
+- **Jure Dolinar** (jure.dolinar@atmolab.eu) — Atmolab Lead
+  - **May 22 signals:**
+    - "Re: Atmolab Camera System" exchange (May 22, 13:20:06 MDT SENT; Jure response 14:36:05 UTC IMPORTANT)
+  - **Continuing:** Sensor/payload integration partner.
+
+**Gateworks (Hardware/Board Solutions)**
+- **Hailey Terrones** (hterrones@gateworks.com) — Gateworks Partnerships
+  - **May 22 signals:**
+    - Meeting scheduled "Gateworks

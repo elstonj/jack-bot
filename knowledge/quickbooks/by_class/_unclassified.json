@@ -1,22 +1,18 @@
 {
   "project_code": "_unclassified",
   "qbo_class_names": [
-    "",
-    "[012] Embry-Riddle Aeronautical University"
+    ""
   ],
   "period": {
-    "start": "2026-05-21",
-    "end": "2026-05-22"
+    "start": "2026-05-22",
+    "end": "2026-05-23"
   },
   "totals": {
-    "revenue": 2462.5,
-    "expenses": 18162.78,
+    "revenue": 0.0,
+    "expenses": 10895.96,
     "by_category": {
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 10773.62,
-      "FACILITIES:FA-Rent Expense": 7059.94,
-      "FACILITIES:FA-Shop Supplies": 153.19,
-      "QuickBooks Payments Fees": 127.07,
-      "Inventory Asset": 48.96
+      "Inventory Asset": 122.34
     }
   },
   "invoices": [],
@@ -36,24 +32,6 @@
           "amount": 10773.62,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
           "description": "R&D Tax Credits 2025"
-        }
-      ]
-    },
-    {
-      "type": "Bill",
-      "date": "2026-05-21",
-      "doc_number": "",
-      "total": 7059.94,
-      "attributed": 7059.94,
-      "vendor": "W. W. Reynolds Companies",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 7059.94,
-          "account": "FACILITIES:FA-Rent Expense",
-          "description": "June 2026 rent"
         }
       ]
     }
@@ -79,60 +57,23 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-05-21",
-      "doc_number": "",
-      "total": 127.07,
-      "attributed": 127.07,
+      "date": "2026-05-22",
+      "doc_number": "S3 SALES",
+      "total": 73.38,
+      "attributed": 73.38,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",
+      "memo": "No Asana request - project listed in title of order (S3 Sales)",
       "lines": [
         {
-          "amount": 127.07,
-          "account": "QuickBooks Payments Fees",
-          "description": "System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily."
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-21",
-      "doc_number": "0520JELSTON",
-      "total": 153.19,
-      "attributed": 153.19,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request. Josh placed the order directly. Shop supplies",
-      "lines": [
-        {
-          "amount": 153.19,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Heat shrinking tubing; screws"
+          "amount": 73.38,
+          "account": "Inventory Asset",
+          "description": "For future s3 sales"
         }
       ]
     }
   ],
   "purchase_orders": [],
-  "payments": [
-    {
-      "type": "Payment",
-      "date": "2026-05-21",
-      "doc_number": "",
-      "total": 2462.5,
-      "attributed": 2462.5,
-      "vendor": "",
-      "customer": "[012] Embry-Riddle Aeronautical University",
-      "balance": null,
-      "memo": "Paid via QuickBooks Payments: Payment ID 068330",
-      "lines": [
-        {
-          "amount": 2462.5,
-          "account": "",
-          "description": ""
-        }
-      ]
-    }
-  ]
+  "payments": []
 }

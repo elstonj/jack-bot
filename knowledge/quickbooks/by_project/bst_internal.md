@@ -6,7 +6,7 @@
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
 - **Net Position**: -$1,091,463.47 (expenses exceed revenue significantly)
 - **Date Range**: April 5, 2024 – June 4, 2026 (26+ months)
-- **Transaction Count**: 1,123+ *(all confirmed)*
+- **Transaction Count**: 1,126+ *(all confirmed)*
 
 ---
 
@@ -42,8 +42,8 @@
 
 ---
 
-### Materials & Direct Purchases: $520,845.29
-**Total: $520,845.29** | **68 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95**
+### Materials & Direct Purchases: $520,919.63
+**Total: $520,919.63** | **70 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95**
 
 **Recent Confirmed Purchases (May 20–June 4, 2026):**
 
@@ -59,6 +59,12 @@
 - **Purpose**: RF/antenna R&D component
 - **Status**: ✓ Confirmed
 
+**Purchase #S3 SALES**: $73.38 (May 22, 2026)
+- **Account**: [Inventory Asset]
+- **Memo**: No Asana request - project listed in title of order (S3 Sales)
+- **Purpose**: Inventory accumulation for future S3 sales scaling
+- **Status**: ✓ Confirmed
+
 **Purchase (Bearing Shipment)**: $48.96 (June 4, 2026)  
 - **Account**: [Inventory Asset]
 - **Description**: Shipping for 123 Bearing Shipment for future S3 sales
@@ -70,7 +76,7 @@
 ### IRAD Indirect R&D (Subcontractors & Internal): $60,008.16
 **Total: $60,008.16** | **32 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; Matthew Crabtree R&D Assembly $4,954.00**
 
-**Recent Confirmed Transactions (May 21–June 1, 2026):**
+**Recent Confirmed Transactions (May 20–June 4, 2026):**
 
 **Bill #7020**: $10,773.62 (June 1, 2026) — Boostr Consulting LLC  
 - **Account**: RESEARCH & DEVELOPMENT : IRAD-Indirect Subcontractor Exp
@@ -147,21 +153,21 @@
 
 | Month | Direct Labor & Subs | Materials & Purchases | IRAD R&D | Rent & Facilities | G&A | Total |
 |-------|---------------------|----------------------|----------|-------------------|-----|-------|
-| **May 21–Jun 4, 2026 (Latest Period)** | $4,954.00 | $48.96 | $5,781.72 | $7,213.13 | $0 | **$17,997.81** |
-| — May 21, 2026 | $4,954.00 | $0 | $631.25 | $7,213.13 | $0 | **$12,798.38** |
+| **May 20–Jun 4, 2026 (Latest Period)** | $4,954.00 | $122.34 | $11,776.72 | $7,213.13 | $0 | **$24,066.19** |
 | — May 20, 2026 | $0 | $1,034.29 | $785.42 | $0 | $0 | **$1,819.71** |
+| — May 21, 2026 | $4,954.00 | $0 | $631.25 | $7,213.13 | $0 | **$12,798.38** |
+| — May 22, 2026 | $0 | $73.38 | $0 | $0 | $0 | **$73.38** |
 | — June 1, 2026 | $0 | $0 | $10,773.62 | $0 | $0 | **$10,773.62** |
 | — June 4, 2026 | $0 | $48.96 | $0 | $0 | $0 | **$48.96** |
-| — May 20–June 4 (All new submissions) | $4,954.00 | $1,733.58 | $11,776.72 | $7,213.13 | $0 | **$25,677.43** |
 | **Prior cumulative (Apr 2024–May 19, 2026)** | **$384,547.30** | **$519,111.71** | **$38,494.17** | **$45,661.50** | **$45,661.50** | **$1,033,476.18** |
-| **Grand Total (All Confirmed)** | **$389,501.30** | **$520,845.29** | **$60,008.16** | **$52,720.50** | **$45,661.50** | **$1,068,736.75** |
+| **Grand Total (All Confirmed)** | **$389,501.30** | **$520,919.63** | **$60,008.16** | **$52,720.50** | **$45,661.50** | **$1,069,811.09** |
 
 **Burn Rate Analysis (May 20–June 4 active period):**
-- 13 transactions totaling $25,677.43 over 15 calendar days
-- **Operational burn** (excluding June 1 Boostr non-recurring tax settlement): $14,903.81 over 15 days = $993.59/day avg. (~$29,808/month)
-- **With R&D tax credit settlement**: $25,677.43 / 15 days = $1,711.83/day (~$51,355/month non-recurring)
-- **Trend**: Moderate-to-elevated velocity driven by May 21 bulk expenses (Matthew Crabtree $4,954.00 assembly, W. W. Reynolds $7,059.94 June rent, Digi Key/R&D components $478.06). June 1 Boostr settlement remains non-recurring annual tax filing event.
-- **Seasonal Note**: May 21 appears to be consolidated payment/invoice processing date (multiple bills/purchases same day)
+- 16 transactions totaling $24,066.19 over 15 calendar days
+- **Operational burn** (excluding June 1 Boostr non-recurring tax settlement): $13,292.57 over 15 days = $886.17/day avg. (~$26,585/month)
+- **With R&D tax credit settlement**: $24,066.19 / 15 days = $1,604.41/day (~$48,132/month non-recurring)
+- **Trend**: Moderate velocity driven by May 21 bulk expenses (Matthew Crabtree $4,954.00 assembly, W. W. Reynolds $7,059.94 June rent, R&D components ~$478.06) and June 1 Boostr settlement. Minor inventory purchases for S3 sales ($73.38, $48.96) indicate ongoing production preparation.
+- **Seasonal Note**: May 21 appears to be consolidated payment/invoice processing date (multiple bills/purchases same day); May 22–June 4 shows lighter daily transaction volume.
 
 ---
 
@@ -172,10 +178,7 @@
 1. **Boostr Consulting R&D Tax Credits — $10,773.62 (June 1, 2026)**
    - 2025 R&D tax credit filing and payment
    - Represents recovery/settlement of documented prior R&D spending
-   - *Impact*: Partial offset to cumulative R&D expense burden; timing aligns with annual tax filing cycle
+   - *Impact*: Partial offset to cumulative R&D expense burden; aligns with annual tax filing cycle
    - *Status*: ✓ Confirmed settled
 
-2. **W. W. Reynolds Companies (June 2026 Rent) — $7,059.94 (May 21, 2026)**
-   - **Account**: [FACILITIES:FA-Rent Expense]
-   - **Purpose**: Monthly facility rent advance payment
-   - **Timing**: Advance payment (dated May 21 for June occupancy); suggests cash flow management or lease terms
+2. **W. W

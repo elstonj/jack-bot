@@ -1,82 +1,55 @@
 # BST Financial Overview (QuickBooks)
-**Period: April 2024 – September 2026**
-
----
 
 ## Company Totals
-| Metric | Amount |
-|--------|--------|
-| **Total Revenue (Invoiced)** | $4,405,613.64 |
-| **Total Expenses** | $5,953,186.06 |
-| **Net Income** | **-$1,547,572.42** |
-
-**Note:** P&L report for 2026-05-21 to 2026-05-22 shows -$14,119.10 net income (2-day snapshot). Full period data shows cumulative negative position due to heavy upfront expenses.
+- **Total Revenue (Invoices):** $4,405,611.64
+- **Total Expenses (Bills & Purchases):** $2,439,963.22
+- **Net Income Estimate:** $1,965,648.42
 
 ---
 
 ## By Project/Class
-*Sorted by total activity (revenue + expenses)*
 
-| Project | Revenue | Expenses | Net Position |
-|---------|---------|----------|--------------|
-| **Government** | $4,387,717.28 | $1,330,605.39 | **+$3,057,111.89** |
-| **Unclassified** | $1.00 | $3,513,222.84 | **-$3,513,221.84** |
-| **BST Internal** | $17,894.36 | $1,109,357.83 | **-$1,091,463.47** |
-| **TOTAL** | **$4,405,613.64** | **$5,953,186.06** | **-$1,547,572.42** |
+| Project | Total Revenue | Total Expenses | Net Position | Status |
+|---------|---------------|----------------|--------------|--------|
+| **Government** | $4,387,717.28 | $1,330,605.39 | **$3,057,111.89** | Strong positive |
+| **BST Internal** | $17,894.36 | $1,109,357.83 | **-$1,091,463.47** | Deficit (expense-heavy) |
+
+**Analysis:** Government contracts drive profitability. BST Internal operations show significant expense accumulation over 26+ months with minimal invoiced revenue, suggesting internal cost centers, R&D, or overhead allocation.
 
 ---
 
 ## Cash Flow Indicators
 
-### Accounts Receivable (Outstanding Balances)
-- **Government Projects:** $3,120,198.19 outstanding across 75 active invoices
-- **BST Internal:** Balance details incomplete in data
-- **Total AR:** ~$3.1M+ pending collection
-
-### Recent Large Expenses (2026 YTD)
-- **Facilities (Rent & Supplies):** $7,213.13 (2-day snapshot)
-- **R&D (Subcontractors & Internal):** $5,432.06 (2-day snapshot)
-- **Direct Material Purchases:** $1,326.59
-- **Unclassified Expenses:** $3,513,222.84 (appears to be departmental or project clearing account)
+### Accounts Receivable (Outstanding)
+- **Government Project:** $3,120,198.19 in outstanding invoice balances (75 active invoices)
+- **BST Internal:** Balance breakdown incomplete in data provided
+- **Total A/R (estimated):** ~$3.1M+ (significant collection pending)
 
 ### Outstanding Purchase Orders
-- **Government:** $832.00
-- **BST Internal:** $1,700.00 (PO #1038 – Amprius)
+- Government: $832.00 (PO outstanding)
+- BST Internal: $1,700.00 (PO #1038 – Amprius)
+- **Total Outstanding POs:** $2,532.00
 
-### Project Status
-- **Government:** Active (75 invoices, 26+ months of transactions)
-- **BST Internal:** Active but heavily expense-weighted; may be R&D or internal operations
-- **Unclassified:** Dormant (last significant activity Sept 2024; likely complete)
-
----
-
-## Revenue Breakdown
-
-| Category | Amount | % of Total |
-|----------|--------|-----------|
-| Government | $4,387,717.28 | 99.6% |
-| BST Internal | $17,894.36 | 0.4% |
-| Unclassified | $1.00 | <0.1% |
+### Key Observations
+- High A/R relative to recent activity suggests delayed customer payments
+- BST Internal shows extended activity (26+ months) with accumulated expenses
+- Revenue collection timing critical for cash position
 
 ---
 
-## Expense Categories (2-Day P&L Snapshot)
-| Category | Amount |
-|----------|--------|
-| Facilities (Rent, Supplies) | $7,213.13 |
-| R&D (Subcontractors, Internal) | $5,432.06 |
-| Direct Costs (Materials, Shipping) | $1,346.84 |
-| Payment Processing Fees | $127.07 |
-| **2-Day Total** | **$14,119.10** |
+## Top Vendors & Customers
+**Data Incomplete:** Vendor and customer detail lists were cut off in the provided extract. However:
+- **Government sector** represents primary customer base ($4.39M revenue)
+- Amprius appears among vendors (PO #1038)
 
 ---
 
-## Critical Observations
+## Unclassified Transactions
+**Note:** Invoice #1752 (Krateo Sky, $10,XXX – amount cut off) and other Government project revenue details are partially captured. Complete vendor/customer breakdowns require full transaction export.
 
-🔴 **Unclassified Account Concern:** $3.5M in expenses classified as "Unclassified" requires immediate reconciliation. This represents 59% of total expenses and masks true project profitability.
+---
 
-🟢 **Government Contracts:** Strong profitability at +$3.06M net, but $3.1M in AR indicates collection timing risk.
-
-🟡 **BST Internal:** Operating at a significant loss (-$1.09M). Assess whether this is intended as R&D investment or operational inefficiency.
-
-**Recommendation:** Reclassify unclassified expenses to proper projects for accurate profit/loss analysis by department.
+## Recommendations
+1. **Follow up on $3.1M A/R** – prioritize collection on Government invoices
+2. **Review BST Internal allocation** – clarify whether $1.1M in expenses should be cost-allocated to Government or other projects
+3. **Obtain complete transaction detail** – current data is truncated; full P&L and aging reports needed for comprehensive analysis

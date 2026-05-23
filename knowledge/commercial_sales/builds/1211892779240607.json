@@ -5,7 +5,7 @@
   "customer_contact": "Tufail Ahmed",
   "customer_email": "t.ahmed@astrallic.com",
   "receive_by": null,
-  "ship_to": null,
+  "ship_to": "Boulder, CO 80305",
   "items": [
     {
       "description": "Small UAS airframe and operator control unit (sub-55 lb multirotor, NDAA/TAA compliant, IP55 aircraft, IP54 controller, 40+ min flight time, GPS-denied hold, 360\u00b0 obstacle avoidance, 4K video, IR/telephoto cameras, gimbal, 3 batteries, dual charger, case, spare props)",
@@ -49,12 +49,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "DoW (via Astrallic procurement specialist Tufail Ahmed) requesting formal quote for federal customer in Boulder, CO. RFQ emphasizes tight federal submission timeline and NDAA/TAA compliance. Delivery location: Boulder, CO 80305.",
+  "notes": "DoW (via Astrallic procurement specialist Tufail Ahmed) requesting formal quote for federal customer in Boulder, CO. RFQ emphasizes tight federal submission timeline and NDAA/TAA compliance. Quote requested 2026-05-21 with urgency. Delivery location: Boulder, CO 80305.",
   "missing_fields": [
     "receive_by",
-    "ship_to",
     "invoice_amount",
-    "invoice_number"
+    "invoice_number",
+    "estimate_date"
   ],
   "last_evidence_date": "2026-05-21"
 }

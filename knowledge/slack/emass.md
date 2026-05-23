@@ -15,9 +15,9 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 - Alex Lomis (flight operations/coordination)
 - Meredith Needham (finance/invoicing)
 - U0151201DMY (infrastructure/web portal team member)
-- U01511MEQ90 (team member being invited to meetings)
+- U01511MEQ90 (infrastructure/GCS software support)
 
-**Activity Level:** Ongoing active project spanning November 2025 - May 2026+. Real flight testing commenced April 23-24, 2026. EMASS media release planned for first week of May creating hard deadline. Project in critical evaluation phase following flight test results revealing fundamental navigation deficiencies.
+**Activity Level:** Ongoing active project spanning November 2025 - May 2026+. Real flight testing commenced April 23-24, 2026. EMASS media release planned for first week of May creating hard deadline. Project in critical evaluation phase following flight test results revealing fundamental navigation deficiencies and control stability issues.
 
 ## Key Decisions
 
@@ -76,10 +76,6 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 - **Jack Elston Position:** Willing to continue flying; noted yaw heading immaterial to efficiency (controller's lack of rotation actually saves energy), but acknowledged mission requirements necessitate heading changes for sensor and mission accomplishment
 - **Dan Prendergast Response:** Disagreed with Jack's assessment that lack of yaw rotation is acceptable — mission-relevant considerations cannot be ignored
 
-## Projects & Initiatives
-
-### EMASS Integration (Primary)
-**Status:** Real flight testing completed with critical findings revealing fundamental navigation deficiencies. Controller achieves safety and reliability targets in simulation but fails trajectory-following objectives in actual flight. Project at decision point regarding continued pursuit.
-
-**Latest Test Results (May 21):**
-- Simulation
+**May 22, 2026:**
+- Dan Prendergast inquired about ECSDOT warning message ("Denied send request, still sending last plan") appearing when ECSDOT powered on; Jack Elston confirmed ECSDOT attempting to send flight plan but doing so incorrectly
+- **Real

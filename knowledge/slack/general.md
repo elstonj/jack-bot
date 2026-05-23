@@ -18,6 +18,7 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Daycare in Loft** (May 5, 2026): BVSD and DPS school closures due to snow; Jack Elston arranged daycare in the loft with Claire present for employees with children.
 - **Beth's Budget Request** (May 12, 2026): External stakeholder (Beth) requesting deliverables by Thursday; Beck Cotter assigned to work up budget pending specific equipment needs and personnel details from Jack Elston.
 - **Industrial Plan Finalized** (May 20, 2026): Jack Elston shared draft of industrial plan providing guidance on how BST will use the seed-round investment; document distributed to team for review.
+- **Security Incident - Unauthorized Drive Access Request** (May 22, 2026): Cameron Peek (unknown individual) requested access to company Google Drive files, referencing "the mall" as destination. Flagged as potential security concern by team members; Jack Elston did not recognize the person. Alex Lomis humorously noted attempted access to sensitive company information.
 
 ### Funding & Awards
 - **NASA Phase I Award** (May 26, 2021): Contract awarded for S2 all-weather capable platform development with solar integration and VTOL S2 for remote autonomous landing
@@ -54,8 +55,4 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - Full flight regime simulation successfully achieved (Dec 12, 2024)
 - Status: Primary focus with wing internal structure finalization, skin production at 1 per day
 - Target payload weight: 6.2lbs
-- Ordering remaining: ~10-15k for deployment tube caps and 3D prints
-- RID (Remote ID) integration being tested on aircraft; CAN bus issue encountered (Feb 27, 2025)
-- Hover and battery testing planned
-- Transition simulator development underway
-- **S0-AD Variant**: DoD customer development track (SOCOM and 53rd
+- Ordering remaining

@@ -1,8 +1,8 @@
 # Commercial Sales — Pipeline Index
 
-_Last scanned 2026-05-22 03:30_
+_Last scanned 2026-05-23 03:16_
 
-## Builds (19)
+## Builds (20)
 
 | Customer | Receive By | Payment | Build | Ship | Asana |
 |----------|------------|---------|-------|------|-------|
@@ -17,6 +17,7 @@ _Last scanned 2026-05-22 03:30_
 | NextTech Solutions | 2026-08-31 | estimate_sent | none | none | `1213710771915193` |
 | Canadian Defense Forces / NexTech Solutions | 2026-06-25 | estimate_sent | none | none | `1214795652219550` |
 | UC Santa Cruz Ocean Sciences | — | estimate_sent | none | none | `1210367257543500` |
+| NASA ULI/Cal State Northridge | — | estimate_sent | none | none | `1211824849633496` |
 | Michigan Technological University | — | estimate_sent | none | none | `1210812587995014` |
 | Murray State University | 2025-10-31 | paid | none | none | `1210051293340204` |
 | NASA Ames Research Center | 2026-09-30 | paid | in_assembly | none | `1210367258005710` |

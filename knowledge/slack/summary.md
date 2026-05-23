@@ -1,90 +1,62 @@
 # Slack Channels Overview
 
-Last scanned: 2026-05-22 02:24
+Last scanned: 2026-05-23 02:16
 
-Total channels scanned: 11
+Total channels scanned: 7
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 2 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#25_1-navy-sttr-boundary-layer** -- 4 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
-- **#commercial-sales** -- 8 messages -- [commercial-sales.md](commercial-sales.md)
-- **#emass** -- 3 messages -- [emass.md](emass.md)
-- **#emass-bst** -- 15 messages -- [emass-bst.md](emass-bst.md)
-- **#grants-and-funding** -- 6 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#marketing** -- 3 messages -- [marketing.md](marketing.md)
-- **#operations** -- 1 messages -- [operations.md](operations.md)
-- **#s3** -- 9 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 12 messages -- [sbir-hurricane.md](sbir-hurricane.md)
-- **#swiftcore** -- 2 messages -- [swiftcore.md](swiftcore.md)
+- **#emass** -- 11 messages -- [emass.md](emass.md)
+- **#emass-bst** -- 34 messages -- [emass-bst.md](emass-bst.md)
+- **#general** -- 7 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 2 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#s3** -- 3 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 3 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#swiftcore** -- 6 messages -- [swiftcore.md](swiftcore.md)
 
 ## Strategic Summary
 
 # Black Swift Technologies - Cross-Channel Strategic Overview
 
-## Active Projects & Programs
+## Active Projects
+- **S0 (SBIR Hurricane)**: Hurricane reconnaissance UAV system; primary development channel #sbir-hurricane
+- **S3 VTOL**: Long-endurance hybrid fixed-wing/quadcopter with tilting rotors (2-3hr endurance); development in #s3
+- **SwiftCore**: Core drone firmware, flight control, and tablet application platform; primary hub #swiftcore
+- **E2 Integration Projects**: 
+  - eMASS AI chip integration for flight efficiency/endurance improvements (#emass, #emass-bst)
+  - ECSDoT hardware energy management system integration
+- **Grant/Funding Pipeline**: Ongoing pursuit across NASA, DOD, NOAA, USDA (#grants-and-funding)
 
-**Core Aircraft Platforms:**
-- **S0 UAS** – Hurricane reconnaissance system (mature, operational)
-- **S3 VTOL** – Long-endurance hybrid fixed-wing/quadcopter (development)
-- **E2** – Primary commercial platform (active in sales/integration)
-- **SwiftCore** – Firmware/control system (ongoing development, ~4400+ messages)
-
-**Government/Research Contracts:**
-- **SBIR Hurricane** (#sbir-hurricane) – Navy/NOAA partnership
-- **Navy SBIR Magnetometer** (#25_1-navy-sbir-magnetometer) – Magnetic anomaly detection integration
-- **Navy STTR Boundary Layer** (#25_1-navy-sttr-boundary-layer) – Atmospheric sensing for tropical cyclones
-- **eMASS Integration** (#emass, #emass-bst) – AI hardware/energy management system testing on E2
-
-**Business Operations:**
-- Commercial sales pipeline (#commercial-sales) – Universities, government agencies, international customers
-- Grant strategy and funding pursuit (#grants-and-funding) – Multiple federal agencies (NASA, DOD, NOAA, USDA)
-- Marketing and brand development (#marketing)
-
-## Key Personnel & Roles
-
-| Name | Primary Role(s) |
-|------|-----------------|
-| **Jack Elston** | Leadership, systems architecture, firmware, decision-making |
-| **Joshua Fromm** | Hardware/engineering lead, S3 design |
-| **Maciej** | Project oversight, testing, control systems, proposals |
-| **Dan Prendergast** | EMASS integration lead, proposals |
-| **Beck Cotter** | Magnetometer & boundary layer projects |
-| **Sam Hild** | Firmware development (S3, SwiftCore) |
-| **Meredith Needham** | Finance, administration, Navy liaison |
-| **Parker Vollmer** | Marketing strategy |
-| **Nikhila** | eMASS AI integration (external) |
+## Key People & Roles
+| Person | Primary Role | Channels |
+|--------|--------------|----------|
+| Jack Elston | Leadership, systems architecture, decision-maker | All major channels |
+| Joshua Fromm | Lead engineer/designer (S3) | #s3, #general, #sbir-hurricane |
+| Maciej | Project oversight, technical support | #s3, #swiftcore, #sbir-hurricane, #grants-and-funding |
+| Dan Prendergast | Business development, project leadership | #emass, #general, #grants-and-funding |
+| Sam Hild | Firmware development | #s3, #swiftcore, #sbir-hurricane |
+| Danny Troke | Technical development | #swiftcore, #sbir-hurricane, #general |
+| Meredith Needham | Budget/administrative | #grants-and-funding, #general |
 
 ## Decision Patterns
+1. **Jack Elston** serves as final decision authority across technical and strategic matters
+2. **Collaborative technical approach**: Complex decisions involve cross-functional input from firmware, hardware, and systems teams
+3. **Grant-driven development**: Project prioritization influenced by funding availability and proposal timelines
+4. **Integration-focused**: Heavy coordination between internal teams and external partners (eMASS AI)
 
-1. **Technical decisions** flow through Jack Elston + Maciej + domain experts (Joshua Fromm for hardware, Jack Elston for firmware)
-2. **Funding/proposal strategy** centralized in #grants-and-funding with Meredith Needham handling budgets
-3. **Project coordination** uses dedicated channels (#sbir-hurricane, #25_1-navy-*) with clear stakeholders
-4. **Rapid iteration** on SwiftCore and firmware via #swiftcore with frequent testing cycles
-5. **Integration projects** (#emass, #emass-bst) require cross-functional hardware + software collaboration
+## Recurring Topics
 
-## Recurring Themes
-
-| Theme | Channels | Pattern |
+| Topic | Channels | Context |
 |-------|----------|---------|
-| **Technical Integration** | #emass, #emass-bst, #25_1-navy-magnetometer | Hardware/software pairing, testing feedback loops |
-| **Flight Testing & Validation** | #s3, #swiftcore, #sbir-hurricane | Iterative field operations, bug fixes, performance metrics |
-| **Government Contracts** | #grants-and-funding, #sbir-hurricane, #25_1-navy-* | Proposal tracking, milestone documentation, budget management |
-| **Product Delivery** | #commercial-sales, #operations | Order fulfillment, payload integration, customer support |
-| **Firmware/Software Development** | #swiftcore, #s3, #emass-bst | Release cycles, feature requests, bug triage |
+| Firmware development/updates | #swiftcore, #s3, #emass-bst | Ongoing optimization and feature implementation |
+| Flight testing coordination | #swiftcore, #s3, #sbir-hurricane | Validation and operational readiness |
+| Hardware integration | #emass, #emass-bst, #s3 | Third-party systems integration |
+| Budget/proposal development | #grants-and-funding, #general | Federal funding pursuit |
+| System performance metrics | #sbir-hurricane, #s3, #emass | Endurance, efficiency, flight duration |
 
 ## Cross-Channel Connections
-
-- **SwiftCore → All Aircraft Projects** – Firmware/autopilot used across S0, S3, E2 platforms
-- **Navy Contracts → Commercial Applications** – S0 hurricane capabilities enable commercial weather/research sales
-- **eMASS Integration → S3 Development** – AI hardware testing informs energy management for endurance aircraft
-- **Operations → All Projects** – Facility, procurement, and logistics support all concurrent programs
-- **Grants/Funding → Project Viability** – SBIR/STTR contracts drive technical roadmap for core platforms
-- **Marketing → Sales** – Brand strategy and content support commercial sales pipeline
-
-## Risk/Attention Areas
-
-- **High concurrency** – Multiple major government contracts + commercial sales + platform development
-- **Key person dependencies** – Jack Elston centrality across firmware, leadership, and proposal decisions
-- **Integration complexity** – eMASS and magnetometer projects require sustained hardware/software coordination
-- **Timeline pressure** – Navy STTR and SBIR programs likely have milestones driving parallel development
+- **Technical synergy**: SwiftCore firmware architecture leveraged across S3, E2, and SBIR Hurricane platforms
+- **Personnel overlap**: Jack Elston, Maciej, Sam Hild appear across 4+ channels, enabling knowledge transfer
+- **Integration strategy**: eMASS project (#emass-bst) tests AI/ML hardware on E2 platform that runs SwiftCore
+- **Funding dependency**: Grant applications (#grants-and-funding) directly support SBIR Hurricane, S3, and integration projects
+- **Operational continuity**: #general serves as announcement/coordination hub for decisions made in specialist channels
