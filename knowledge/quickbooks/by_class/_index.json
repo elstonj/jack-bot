@@ -1,9 +1,9 @@
 {
   "period": {
-    "start": "2026-05-22",
-    "end": "2026-05-23"
+    "start": "2026-05-23",
+    "end": "2026-05-24"
   },
-  "scanned_at": "2026-05-23",
+  "scanned_at": "2026-05-24",
   "projects": [
     {
       "project_code": "300-3",
@@ -34,10 +34,10 @@
     {
       "project_code": "_unclassified",
       "revenue": 0.0,
-      "expenses": 10895.96,
+      "expenses": 10822.58,
       "invoice_count": 0,
       "bill_count": 1,
-      "purchase_count": 2,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [

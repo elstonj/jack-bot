@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $1,109,357.83
+- **Total Expenses (Bills + Purchases)**: $1,069,811.09
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,091,463.47 (expenses exceed revenue significantly)
+- **Net Position**: -$1,051,916.73 (expenses exceed revenue significantly)
 - **Date Range**: April 5, 2024 – June 4, 2026 (26+ months)
-- **Transaction Count**: 1,126+ *(all confirmed)*
+- **Transaction Count**: 1,128+ *(all confirmed)*
 
 ---
 
@@ -159,7 +159,7 @@
 | — May 22, 2026 | $0 | $73.38 | $0 | $0 | $0 | **$73.38** |
 | — June 1, 2026 | $0 | $0 | $10,773.62 | $0 | $0 | **$10,773.62** |
 | — June 4, 2026 | $0 | $48.96 | $0 | $0 | $0 | **$48.96** |
-| **Prior cumulative (Apr 2024–May 19, 2026)** | **$384,547.30** | **$519,111.71** | **$38,494.17** | **$45,661.50** | **$45,661.50** | **$1,033,476.18** |
+| **Prior cumulative (Apr 2024–May 19, 2026)** | **$384,547.30** | **$519,111.71** | **$38,494.17** | **$45,507.37** | **$45,661.50** | **$1,033,322.05** |
 | **Grand Total (All Confirmed)** | **$389,501.30** | **$520,919.63** | **$60,008.16** | **$52,720.50** | **$45,661.50** | **$1,069,811.09** |
 
 **Burn Rate Analysis (May 20–June 4 active period):**

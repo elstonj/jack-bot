@@ -1,62 +1,47 @@
 # Slack Channels Overview
 
-Last scanned: 2026-05-23 02:16
+Last scanned: 2026-05-24 02:10
 
-Total channels scanned: 7
+Total channels scanned: 2
 
 ## Channels
 
-- **#emass** -- 11 messages -- [emass.md](emass.md)
-- **#emass-bst** -- 34 messages -- [emass-bst.md](emass-bst.md)
-- **#general** -- 7 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 2 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#s3** -- 3 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 3 messages -- [sbir-hurricane.md](sbir-hurricane.md)
-- **#swiftcore** -- 6 messages -- [swiftcore.md](swiftcore.md)
+- **#emass-bst** -- 2 messages -- [emass-bst.md](emass-bst.md)
+- **#s3** -- 1 messages -- [s3.md](s3.md)
 
 ## Strategic Summary
 
 # Black Swift Technologies - Cross-Channel Strategic Overview
 
 ## Active Projects
-- **S0 (SBIR Hurricane)**: Hurricane reconnaissance UAV system; primary development channel #sbir-hurricane
-- **S3 VTOL**: Long-endurance hybrid fixed-wing/quadcopter with tilting rotors (2-3hr endurance); development in #s3
-- **SwiftCore**: Core drone firmware, flight control, and tablet application platform; primary hub #swiftcore
-- **E2 Integration Projects**: 
-  - eMASS AI chip integration for flight efficiency/endurance improvements (#emass, #emass-bst)
-  - ECSDoT hardware energy management system integration
-- **Grant/Funding Pipeline**: Ongoing pursuit across NASA, DOD, NOAA, USDA (#grants-and-funding)
 
-## Key People & Roles
-| Person | Primary Role | Channels |
-|--------|--------------|----------|
-| Jack Elston | Leadership, systems architecture, decision-maker | All major channels |
-| Joshua Fromm | Lead engineer/designer (S3) | #s3, #general, #sbir-hurricane |
-| Maciej | Project oversight, technical support | #s3, #swiftcore, #sbir-hurricane, #grants-and-funding |
-| Dan Prendergast | Business development, project leadership | #emass, #general, #grants-and-funding |
-| Sam Hild | Firmware development | #s3, #swiftcore, #sbir-hurricane |
-| Danny Troke | Technical development | #swiftcore, #sbir-hurricane, #general |
-| Meredith Needham | Budget/administrative | #grants-and-funding, #general |
+**S3 VTOL Aircraft Development**
+- Long-endurance hybrid fixed-wing/quadcopter with tilting rotors
+- Target: 2-3 hour endurance with autonomous flight operations
+- Status: Active development phase with design and firmware work underway
 
-## Decision Patterns
-1. **Jack Elston** serves as final decision authority across technical and strategic matters
-2. **Collaborative technical approach**: Complex decisions involve cross-functional input from firmware, hardware, and systems teams
-3. **Grant-driven development**: Project prioritization influenced by funding availability and proposal timelines
-4. **Integration-focused**: Heavy coordination between internal teams and external partners (eMASS AI)
+**E2 Aircraft + ECSDoT Integration**
+- Energy management system hardware (ECSDoT) integration onto E2 platform
+- Focus: Software development, hardware integration, testing, and AI model training
+- Status: Active collaboration between BST and eMASS AI
 
-## Recurring Topics
+## Key Personnel & Roles
 
-| Topic | Channels | Context |
-|-------|----------|---------|
-| Firmware development/updates | #swiftcore, #s3, #emass-bst | Ongoing optimization and feature implementation |
-| Flight testing coordination | #swiftcore, #s3, #sbir-hurricane | Validation and operational readiness |
-| Hardware integration | #emass, #emass-bst, #s3 | Third-party systems integration |
-| Budget/proposal development | #grants-and-funding, #general | Federal funding pursuit |
-| System performance metrics | #sbir-hurricane, #s3, #emass | Endurance, efficiency, flight duration |
+| Person | Role | Channels |
+|--------|------|----------|
+| Joshua Fromm | Lead Engineer/Designer | #s3 |
+| Jack Elston | Systems Architect/Firmware (S3); Autopilot/Simulation Expert | #s3, #emass-bst |
+| Sam Hild | Firmware Development | #s3 |
+| Maciej | Project Oversight/Testing/Control Systems | #s3 |
+| Nikhila (eMASS AI) | Primary Developer - Chip Integration & AI Models | #emass-bst |
 
 ## Cross-Channel Connections
-- **Technical synergy**: SwiftCore firmware architecture leveraged across S3, E2, and SBIR Hurricane platforms
-- **Personnel overlap**: Jack Elston, Maciej, Sam Hild appear across 4+ channels, enabling knowledge transfer
-- **Integration strategy**: eMASS project (#emass-bst) tests AI/ML hardware on E2 platform that runs SwiftCore
-- **Funding dependency**: Grant applications (#grants-and-funding) directly support SBIR Hurricane, S3, and integration projects
-- **Operational continuity**: #general serves as announcement/coordination hub for decisions made in specialist channels
+
+- **Jack Elston** serves as technical bridge between S3 hardware/firmware development and E2/ECSDoT integration efforts
+- Both projects involve **firmware/software development** as critical path items
+- Both projects have **hardware integration** requirements (tilting rotors/power systems vs. energy management hardware)
+- Shared expertise areas: **autonomy, control systems, and testing protocols**
+
+## Decision Patterns & Recurring Topics
+
+*(Insufficient detail in provided summaries to identify specific patterns)*

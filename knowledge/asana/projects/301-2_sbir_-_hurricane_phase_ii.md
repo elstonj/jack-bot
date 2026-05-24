@@ -27,8 +27,8 @@
 - **Total tasks**: 425+ completed, 0 open (100% completion rate)
 - **Primary assignees**:
   - **Jack Elston**: Led most technical flight operations, flight control algorithm troubleshooting, GCS/HDOB integration, wind estimation fixes, sensor QC, magnetometer calibration, MHTP development and hardware verification
-  - **Josh Fromm**: Project management, QC/final assembly coordination, weekly status updates, manufacturing coordination, housing installation, sealing, MHTP mechanical assembly
-  - **Dan Prendergast**: Flight algorithm testing and validation, eyewall following algorithm development
+  - **Josh Fromm**: Project management, QC/final assembly coordination, weekly status updates, manufacturing coordination, housing installation, sealing, MHTP mechanical assembly, deployment tube and adhesive promoter investigations
+  - **Dan Prendergast**: Flight algorithm testing and validation, eyewall following algorithm development (completed 2024-02-27)
   - **Maciej Stachura**: Flight control algorithms, vertical wind bias correction, pitot tube diagnostics, code updates with wind tunnel calibrations and real-time wind estimation, MHTP firmware development and testing
   - **Ben Busby**: Flight operations, preflight checklist procedures, path planning optimization
   - **Meredith O'hara Needham**: Manufacturing (MHTP modules), shipping coordination, sensor management
@@ -46,22 +46,25 @@
 ## Recent Activity
 **Project Status**: Archived January 3, 2024. All work completed successfully.
 
-**MHTP Deliverable Timeline (2023)**:
+**Final Phase Tasks Completed (January 2024)**:
+- **Avionics** (Jack Elston, completed 2024-01-30)
+- **Deployment Tube** (Josh Fromm, completed 2024-01-17)
+- **Tablet** (Jack Elston, completed 2024-07-16) — Minimum Viable configuration
+
+**MHTP & Algorithm Deliverables (2023-2024)**:
+- **Eyewall Following Algorithm** (Dan Prendergast, Due: 2024-02-16, Completed: 2024-02-27) — Two primary modules explored: "eyewall" and "inflow" modules, with UAS launched in hurricane eye and directed toward eyewall for evaluation
+- **Adhesive Promoter Investigation** (Josh Fromm, Due: 2024-02-16, Completed: 2024-02-01) — Minimum Viable task, focused on membrane adhesive solutions
+
+**Earlier Project Milestones (2023)**:
 - **March-April 2023**: Sensor ordering, mechanical component procurement, initial QC, code updates with wind tunnel calibrations and real-time wind estimation
 - **April-May 2023**: Board testing, S2 test rig installation, dynamic pressure clog testing, sealing, serial number assignment
 - **May 2023**: Sent to Area-I for initial integration
 - **July-September 2023**: Data retrieval verification, magnetometer calibration completion, firmware orientation updates, completed 2023-09-21
 
-**Final project phase (Aug-Oct 2024)** focused on hurricane field operations and system validation:
+**Final Deployment Phase (Aug-Oct 2024)**:
 - **Late July 2024**: Shipped 12 S0 UAS units to NOAA AOC (ahead of schedule)
 - **August 2024**: MHTP modules delivered, early hurricane field study operations began
-- **September-October 2024**: Intensive troubleshooting of:
-  - Flight termination logic (9/11 flight issue resolved 9/20)
-  - HDOB date/time synchronization
-  - Wind direction estimation and vertical wind bias correction
-  - GCS GPS anomalies and altitude calculation
-  - Engine enable problems
-- **Project closure**: January 3, 2024 status update marked completion of all work
+- **September-October 2024**: Intensive troubleshooting of flight termination logic, HDOB date/time synchronization, wind direction estimation, GCS GPS anomalies, and engine enable problems
 
 ---
 
@@ -69,11 +72,12 @@
 
 **Project Type**: SBIR Phase II Government Research Contract
 
-**Products Developed**: 
+**Products Delivered**: 
 - S0 UAS systems (12 units delivered)
 - Custom MHTP (hurricane research payload) for Altius 600 platform
 - Scientist-facing web-based GUI for data review
 - Eyewall following algorithm module for autonomous hurricane reconnaissance
+- Tablet-based field operations interface
 
 **Technical Focus**: Hurricane data collection and reconnaissance using specialized UAS with:
 - Wind measurement capabilities (HDOB integration)
@@ -89,16 +93,16 @@
 - Eyewall following algorithm development for autonomous reconnaissance in hurricane eye
 - Robust flight termination logic and failsafe procedures
 - Multi-system coordination (S0 UAS with P3 aircraft altitude separation protocols)
-- Tablet-based field operations interface
+- Deployment tube and adhesive promoter solutions for payload integration
 - MHTP board development with:
   - Magnetometer calibration procedure (over UART)
   - Dynamic pressure testing capability for clog detection
   - Firmware updates with correct sensor orientation defaults
   - Raw sensor data output for post-flight analysis and precipitation performance assessment
   - Data retrieval verification via Area-I computer interface
-- RS421 interface robustness (final verification task)
+- RS421 interface robustness (final verification)
 
-**Contractual Notes**: 
+**Contractual & Support Framework**: 
 - GPC (Dr. Cione) and UPC (Dr. Jun Zhang) serve as Subject Matter Experts for non-contractual technical questions
 - Any technical disagreements or contractual changes must be directed to the Contracting Officer (CO)
 
@@ -110,14 +114,4 @@
 
 **NASA RFI - Hurricane ET (Environmental Tracking)**
 - **Recommendation**: NASA contacts and Dr. Joe Cione (NOAA/project GPC) recommended BST investigate this opportunity (Alex Lomis, 4/17/26)
-- **RFI Link**: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
-- **Status**: Flagged for team evaluation
-- **Relevance**: Direct extension of Hurricane Phase II+ technical capabilities
-
-**Navy STTR**
-- **Status**: Submitted with invoice (Meredith Needham, 4/17/26)
-- **Current Priority**: **HIGH** — Jack Elston confirmed priority over SBIR Magnetometer (5/8/26, reconfirmed 5/11/26): *"the navy sttr has priority, the SBIR is mostly on schedule"*
-
-**SBIR Magnetometer (Navy)**
-- **Status**: Kicked off April 21, 2026 (Maciej, 4/21/26)
-- **Technical Lead**: Designated team member with support from others (Maciej, 4/22/26)
+- **RFI Link**: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/

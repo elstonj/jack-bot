@@ -4,15 +4,15 @@
     ""
   ],
   "period": {
-    "start": "2026-05-22",
-    "end": "2026-05-23"
+    "start": "2026-05-23",
+    "end": "2026-05-24"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 10895.96,
+    "expenses": 10822.58,
     "by_category": {
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 10773.62,
-      "Inventory Asset": 122.34
+      "Inventory Asset": 48.96
     }
   },
   "invoices": [],
@@ -52,24 +52,6 @@
           "amount": 48.96,
           "account": "Inventory Asset",
           "description": "Shipping for 123 Bearing Shipment for future S3 sales"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-22",
-      "doc_number": "S3 SALES",
-      "total": 73.38,
-      "attributed": 73.38,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request - project listed in title of order (S3 Sales)",
-      "lines": [
-        {
-          "amount": 73.38,
-          "account": "Inventory Asset",
-          "description": "For future s3 sales"
         }
       ]
     }

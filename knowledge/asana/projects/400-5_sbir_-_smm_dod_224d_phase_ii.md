@@ -6,7 +6,9 @@
 - **Timeline:** Late 2024 – July 2025 (contract due date 2025-07-11)
 - **Status:** ARCHIVED – Successfully completed
 - **Team members involved:** Dan Prendergast (technical lead), Maciej Stachura, Meredith O'hara Needham, Nate Straus, Beck Cotter, Jack Elston
-- **Key contacts:** Jason Foley (Primary TPOC, jason.foley.1@us.af.mil), Thomas Shea (CO, thomas.shea.3@us.af.mil)
+- **Key contacts:** 
+  - Jason Foley (Primary TPOC, jason.foley.1@us.af.mil)
+  - Thomas Shea (Contracting Officer, thomas.shea.3@us.af.mil)
 - **Risk signals:** None – project completed successfully with all deliverables accepted
 
 ## Project Description
@@ -28,7 +30,7 @@ Development and validation of a UAS-based L-band radiometer for mapping soil int
 - **Task distribution by assignee:**
   - **Dan Prendergast:** Primary technical development lead; handled system design, builds, testing, data collection, algorithm development, and final reporting
   - **Meredith O'hara Needham:** All invoicing and OMS subcontractor payments ($605,000+ in payments processed)
-  - **Maciej Stachura:** Data analysis and quantitative performance evaluation
+  - **Maciej Stachura:** Requirements analysis, data analysis and quantitative performance evaluation
   - **Nate Straus:** Autopilot software updates
   - **Beck Cotter:** SBIR/STTR compliance documentation
   - **Jack Elston:** FAA medical certifications
@@ -61,3 +63,5 @@ Development and validation of a UAS-based L-band radiometer for mapping soil int
 **Technology transition:** Successfully adapted NASA soil moisture mapping technology to DoD soil integrity applications for runway/landing area assessment
 
 **Testing locations:** Local field testing + Tyndall Air Force Base
+
+**Products/Services Delivered:** Custom payload systems, manuals, and technical documentation

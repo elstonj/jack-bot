@@ -49,7 +49,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "DoW (via Astrallic procurement specialist Tufail Ahmed) requesting formal quote for federal customer in Boulder, CO. RFQ emphasizes tight federal submission timeline and NDAA/TAA compliance. Quote requested 2026-05-21 with urgency. Delivery location: Boulder, CO 80305.",
+  "notes": "DoW (via Astrallic procurement specialist Tufail Ahmed) requesting formal quote for federal customer in Boulder, CO. RFQ emphasizes tight federal submission timeline and NDAA/TAA compliance. Quote requested 2026-05-21 with urgency. Delivery location: Boulder, CO 80305. Kept due to substantive customer engagement within last 90 days (formal RFQ with detailed specs and urgency signal).",
   "missing_fields": [
     "receive_by",
     "invoice_amount",

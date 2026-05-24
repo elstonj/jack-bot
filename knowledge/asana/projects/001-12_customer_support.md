@@ -4,7 +4,7 @@
 - **Client/customer:** Mixed customer support operations serving multiple clients including CU-IRISS, ERAU (Embry Riddle), Area-I, NREL, University of Virginia, Stanford, NASA AMES, INSTAAR, NASA Langley, Howard University, and Oklahoma State
 - **Dollar value:** Not specified in available data
 - **Timeline:** Ongoing operations project with tasks spanning 2024–2026; active S3 development with May 2026 design freeze target
-- **Status:** **Active with critical immediate priorities** — S3 first customer build accelerating with immediate due dates set (Maciej Stachura, 2026-04-24 & 2026-04-30); CU-IRISS S2 training flight scheduling now in progress
+- **Status:** **Active with critical immediate priorities** — S3 first customer build accelerating with immediate due dates set (Maciej Stachura, 2026-04-24 & 2026-04-30); CU-IRISS S2 training flight scheduling now in progress; CU INSTAAR S2 repair completed and deployed to Alaska (2024-07-17)
 - **Team members involved:** Nate Straus (owner), Maciej Stachura, Josh Fromm, Jack Elston, Meredith O'hara Needham
 - **Risk signals:**
   - **S3 first customer build is time-critical** — Maciej (2026-04-24, 2026-04-30): "immediate due dates" set to get S3 flying; design scope still partially undefined
@@ -14,6 +14,7 @@
   - **Task list collapsed in Asana** — 0 open, 1 completed task visible despite multi-phase active project; suggests tasks may have been archived or consolidated without full handoff documentation
 
 ## Key Deliverables & Milestones
+- **CU INSTAAR S2 Repair** — **COMPLETED 2024-07-17** — Meredith O'hara Needham; S2 deployed to Alaska for measurements (originally due 2024-07-12)
 - **Area-I Turbulence Probe (hurricane project)** — **COMPLETED 2025-10-21** — Josh Fromm; fitted nosecone on competitor UAS platform
 - **CU-IRISS S2 repair/update** — **COMPLETED 2026-05-13** — Nate Straus; S2 returned to shop and repair finished
 - **CU-IRISS training flight & NSF MUSAS certification** — **IN PROGRESS** — Contingent on training flight scheduling; Brian Argrow (CU-IRISS) to update NSF MUSAS website post-training to certify operational status
@@ -23,16 +24,21 @@
 
 ## Task Summary
 - **Total tasks in Asana:** 0 open, 1 completed
-- **Completed task:** Area-I Turbulence Probe (Josh Fromm, completed 2025-10-21) — nosecone fit for competitor UAS in hurricane project
-- **Current assignees:** Josh Fromm (primary visible contributor)
+- **Completed task:** CU INSTAAR S2 Repair (Meredith O'hara Needham, completed 2024-07-17, due date 2024-07-12) — S2 deployed to Alaska for measurements
+- **Current assignees:** Meredith O'hara Needham (visible in completed tasks); Josh Fromm, Maciej Stachura, Nate Straus (active on non-Asana tracked work)
 - **Notable patterns:**
-  - Only 1 task visible in Asana despite active multi-phase, multi-client operations
+  - Only 1 task visible in Asana despite active multi-phase, multi-client operations across 2024–2026
   - **Missing from Asana (per Maciej Stachura, 2026-04-24 & 2026-04-30 — authoritative):**
     - S3 design tasks (battery, case, other components) — likely Josh Fromm; due by end of May 2026
     - S3 build phase major tasks — owner to be confirmed; scope and timeline to be defined
+    - CU-IRISS S2 training flight scheduling and NSF MUSAS certification update tasks
 
 ## Recent Activity
+**[2024-07-17] CU INSTAAR S2 Repair completed** (Meredith O'hara Needham, 5 days after due date 2024-07-12) — S2 deployed to Alaska for measurements.
+
 **[2025-10-21] Area-I Turbulence Probe completed** (Josh Fromm) — nosecone fit on competitor UAS platform for hurricane project.
+
+**[2026-05-13] CU-IRISS S2 repair completed** (Nate Straus) — S2 returned to shop and repair finished.
 
 **[2026-04-24 & 2026-04-30] Maciej Stachura (authoritative feedback — overrides Asana task list):** S3 first customer build accelerating with immediate due dates set. Specific requests:
 1. **Josh Fromm:** Add design tasks for S3 first customer build by end of May (battery, case, etc.; full scope confirmation needed)
@@ -53,7 +59,8 @@
 - **Nate Straus** — [001-12] project owner; CU-IRISS repair/training owner
 - **Maciej Stachura** — S3 build coordination & project tracking owner
 - **Josh Fromm** — S3 design lead (battery, case, other components); Area-I turbulence probe delivery lead
+- **Meredith O'hara Needham** — CU INSTAAR S2 repair/deployment lead
 - **Brian Argrow (CU-IRISS)** — Customer contact (brian.argrow@colorado.edu); training flight pending; NSF MUSAS certification update pending post-training
-- **Jack Elston, Meredith O'hara Needham** — Team members (roles TBD in available data)
+- **Jack Elston** — Team member (role TBD in available data)
 
-**Status note:** S2 repair completed successfully (2026-05-13). S3 design and build work still absent from Asana despite time-critical priority (end of May 2026 design freeze) — **this represents the highest-priority gap for immediate action.** CU-IRISS training flight coordination now active next step pending scheduling.
+**Status note:** Multiple customer projects active and recently completed (CU INSTAAR S2 deployed to Alaska; CU-IRISS S2 repair complete). S3 design and build work still absent from Asana despite time-critical priority (end of May 2026 design freeze) — **this represents the highest-priority gap for immediate action.** CU-IRISS training flight coordination now active next step pending scheduling. Asana task list remains severely under-representative of actual project scope and activity.
