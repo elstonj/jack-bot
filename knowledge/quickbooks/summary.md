@@ -2,54 +2,56 @@
 
 ## Company Totals
 - **Total Revenue (Invoices):** $4,405,611.64
-- **Total Expenses (Bills & Purchases):** $2,439,963.22
-- **Net Income Estimate:** $1,965,648.42
+- **Total Expenses:** $2,400,416.48
+- **Net Income (Estimated):** $2,005,195.16
 
 ---
 
 ## By Project/Class
 
-| Project | Total Revenue | Total Expenses | Net Position | Status |
-|---------|---------------|----------------|--------------|--------|
-| **Government** | $4,387,717.28 | $1,330,605.39 | **$3,057,111.89** | Strong positive |
-| **BST Internal** | $17,894.36 | $1,109,357.83 | **-$1,091,463.47** | Deficit (expense-heavy) |
+| Project | Revenue | Expenses | Net Position | Status |
+|---------|---------|----------|--------------|--------|
+| **Government** | $4,387,717.28 | $1,330,605.39 | **+$3,057,111.89** | Strong performance |
+| **BST Internal** | $17,894.36 | $1,069,811.09 | **-$1,051,916.73** | Expenses-heavy (internal ops) |
 
-**Analysis:** Government contracts drive profitability. BST Internal operations show significant expense accumulation over 26+ months with minimal invoiced revenue, suggesting internal cost centers, R&D, or overhead allocation.
+**Note:** Government projects account for 99.6% of external revenue and drive overall profitability.
 
 ---
 
 ## Cash Flow Indicators
 
 ### Accounts Receivable (Outstanding)
-- **Government Project:** $3,120,198.19 in outstanding invoice balances (75 active invoices)
-- **BST Internal:** Balance breakdown incomplete in data provided
-- **Total A/R (estimated):** ~$3.1M+ (significant collection pending)
+- **Government Project:** $3,120,198.19 outstanding across 75 active invoices
+- **BST Internal:** Limited AR data available
+
+**Total Outstanding Receivables:** ~$3.1M+ (primarily government invoices)
 
 ### Outstanding Purchase Orders
-- Government: $832.00 (PO outstanding)
-- BST Internal: $1,700.00 (PO #1038 – Amprius)
-- **Total Outstanding POs:** $2,532.00
+- **PO #1038** (Amprius): $1,700.00 — BST Internal project
+- **Government POs:** $832.00
 
-### Key Observations
-- High A/R relative to recent activity suggests delayed customer payments
-- BST Internal shows extended activity (26+ months) with accumulated expenses
-- Revenue collection timing critical for cash position
+### Recent Activity Notes
+- **Date Range:** April 5, 2024 – September 28, 2026 (26+ months of data)
+- **Transaction Count:** 1,100+ confirmed transactions
+- Government projects show consistent invoicing activity through late September 2026
+- BST Internal shows only 2 transactions in recent reporting (May 23-24, 2026)
 
 ---
 
 ## Top Vendors & Customers
-**Data Incomplete:** Vendor and customer detail lists were cut off in the provided extract. However:
-- **Government sector** represents primary customer base ($4.39M revenue)
-- Amprius appears among vendors (PO #1038)
+
+**Data Limitation:** Detailed vendor and top customer breakdowns not fully populated in provided data. Recommend pulling:
+- Full Vendor Summary Report (expenses by vendor)
+- Customer Summary Report (revenue by customer)
 
 ---
 
 ## Unclassified Transactions
-**Note:** Invoice #1752 (Krateo Sky, $10,XXX – amount cut off) and other Government project revenue details are partially captured. Complete vendor/customer breakdowns require full transaction export.
+No significant unclassified transactions noted. All major activity is assigned to either **Government** or **BST Internal** classes.
 
 ---
 
-## Recommendations
-1. **Follow up on $3.1M A/R** – prioritize collection on Government invoices
-2. **Review BST Internal allocation** – clarify whether $1.1M in expenses should be cost-allocated to Government or other projects
-3. **Obtain complete transaction detail** – current data is truncated; full P&L and aging reports needed for comprehensive analysis
+## Key Observations
+✓ Government contracts are highly profitable ($3M+ net position)  
+⚠ BST Internal operations run at a significant loss (likely overhead/administrative)  
+⚠ $3.1M in outstanding receivables requires monitoring for collection

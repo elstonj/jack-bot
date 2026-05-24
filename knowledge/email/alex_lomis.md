@@ -1,131 +1,111 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 150 emails (134 from 18–22 May + 16 new from 22 May)
-- **Date range:** 18–22 May 2026 (5 days)
-- **Approximate volume:** Sustained extremely high procurement velocity with no deceleration. 22 May alone: 16 new emails between 06:21 UTC and 23:31 UTC, maintaining continuous transactional/logistics/promotional load through end of business day.
-- **Pattern:** High-velocity purchasing activity sustained continuously across 5 consecutive days with peak concentration on 22 May (day of scheduled field trip).
+- **Total messages scanned:** 162 emails (150 from 18–22 May + 12 new from 23–24 May)
+- **Date range:** 18–24 May 2026 (7 days)
+- **Approximate volume:** High-velocity procurement sustained through weekend (23–24 May). Post-field-trip period shows shift to promotional/administrative messaging rather than transactional orders. 23–24 May: 12 emails (all promotional or HR administrative), predominantly routed through purchasing@ inbox.
+- **Pattern:** Sharp transition post-field-trip (22 May): urgent transactional procurement replaced by promotional digests and HR/benefits finalization. Weekend promotional targeting continues (Memorial Day sales cycle extending into 23 May).
 
 ## Key Correspondents
 
-### Primary Senders (routed via Purchasing) — EXPANDED VENDOR BASE
+### Primary Senders (routed via Purchasing) — WEEKEND PROMOTIONAL SURGE
 
-**Electronics & Components:**
-- **DigiKey** (3 emails total — order delay notification 22 May 06:21 UTC added to prior order confirmations)
-  - **New signal:** Supply chain delays emerging; order fulfillment friction noted
-- **McMaster-Carr** (3 emails — continued from prior)
-- **Pasternack Brand, Infinite Electronics, SendCutSend, L-com, Adafruit** (continued — active)
+**RC/Drone Components — Continued Heavy Targeting:**
+- **HeliDirect** (4 emails total — 2 new on 23 May: exclusive deals + servo/ESC/motor promotions to Meredith Needham; product review request 24 May 04:15 UTC for Hobbywing RPM Sensor 86060041)
+  - **New signal:** Hobbywing high-voltage ESC components procurement (quantity: 3 units) — order review workflow active
+  - Continued aggressive weekend promotional targeting
+- **Hobbyking** (1 email NEW — RC plane spare parts deal, 48-hour window, 23 May 13:23 UTC)
+  - **New vendor:** Competing RC/drone supplier; spare parts promotion
 
 **Logistics & Shipping Services:**
-- **UPS** (3 emails total — two pickup notifications 22 May 11:00–12:34 UTC + prior pickup request)
-  - **New pattern:** Dual pickup notifications same day suggests coordinated shipment collection (possibly for field trip logistics)
-- **Pirate Ship** (2 emails — continued from prior)
-- FedEx, USPS (continued)
-
-**Specialized/Manufacturing:**
-- **uAvionix** (2 emails — continued from prior; UAS integration equipment)
-- **Daniels Manufacturing Corporation** (2 emails — Memorial Day promotional 22 May added to prior webinar registration)
-  - Cable/interconnect manufacturing supplier
-- **eMachineShop** (1 email NEW — material selection query 22 May 12:02 UTC)
-  - **New signal:** Custom parts manufacturing/prototyping vendor; material specification decisions in progress
+- **USPS Informed Delivery** (1 email NEW — daily digest 23 May 12:01 UTC)
+  - **Pattern:** Automated shipment tracking digest; indicates multiple inbound packages being monitored
 
 **Power & Energy:**
-- **Battery Junction** (3 emails — order cancellation + customer service, continued from prior)
-- **flashlightgo** (4 emails — continued from prior; order tracking/loyalty)
+- **Battery Junction** (1 email NEW — Memorial Day sitewide sale 23 May 16:03 UTC)
+  - Continued promotional targeting post-prior order cancellation
 
-**RC/Drone Components:**
-- **HeliDirect** (2 emails — Memorial Day sale 22 May + prior promotional messaging to Meredith Needham)
-  - Continued fleet-oriented procurement
-
-**Hobby/Specialized Retail:**
-- **AMain Hobbies** (1 email NEW — package delivery confirmation 22 May 16:36 UTC)
-  - **New vendor:** Hobby/RC equipment supplier; active shipment receipt on field trip day
-- **Harbor Freight** (2 emails — two separate Memorial Day promotional messages 22 May)
-  - Aggressive promotional targeting (separate emails to different recipients/themes)
-
-**Industrial/Software:**
-- **Synopsys** (1 email NEW — innovation resources promotion 22 May 11:01 UTC)
-  - **New vendor class:** EDA/CAD software provider; suggests design/simulation work adjacent to procurement
-- **eMachineShop** (see above)
+**Automotive/Industrial:**
+- **Budget** (1 email NEW — car rental Memorial Day promotion 23 May 09:13 UTC)
+  - Continued post-field-trip rental activity promotion
+- **Speedway Motors** (1 email NEW — new brands/products promotion 23 May 18:00 UTC)
+  - **New vendor class:** Automotive aftermarket supplier; unexpected vendor category (potential misfiled or exploratory sourcing)
 
 **Other:**
-- **AT&T Secure Connections** (1 email NEW — registration promotion 22 May 22:10 UTC to alex.lomis@bst.aero)
-  - **New signal:** Alternative email domain (@bst.aero) receiving vendor communications; possible secure/encrypted communications setup
+- **Harbor Freight** (1 email NEW — Memorial Day 10% coupon 23 May 19:45 UTC)
+  - Continued promotional targeting
 
-### Internal Correspondence (Human-to-Human) — SUSTAINED COORDINATION
+### Internal Correspondence — SHIFT TO ADMINISTRATIVE
 
-**Jack Elston** (`elstonj@blackswifttech.com`)
-- **Field Trip coordination:** "BST Field Trip @ Fri May 22, 2026 3pm–4:45pm (MDT)" to 10-person core technical team
-  - **Critical timing:** Scheduled same day as peak 22 May email volume
-  - Participants: Alex Lomis, Nathaniel Straus, Joshua Fromm, Paige Smith, Beck Cotter, Ethan Domagala, Maciej Stachura, Meredith Needham, Daniel Prendergast, Sam Hild
-- Radio quote negotiation with Jeff Catherwood (Microhard Corp) — marked IMPORTANT both directions
+**Rippling (HR/Benefits)** 
+- **3 identical emails (24 May 07:12 UTC):** "Your new Insurance plan deductions are in effect!" — marked IMPORTANT
+  - **New signal:** Insurance plan activation finalized; duplicate receipt suggests batch processing or system error
+  - **Pattern:** HR administrative tasks post-field-trip completion
 
-**Maciej Stachura** (`stachura@blackswifttech.com`)
-- Bi-directional exchange on "Drone Magnetic Data" — marked IMPORTANT
-- **Technical focus:** Drone payload/magnetic sensor systems integration
+**HeliDirect → Meredith Needham** (via purchasing@)
+- Two 23 May promotional emails routed to Meredith Needham specifically (via purchasing@ relay)
+- **Signal:** Meredith Needham continues as primary RC procurement point of contact
 
-**Josh Fromm / Joshua Fromm** (`josh.fromm@blackswifttech.com`)
-- Vendor platform credential management (shipping, purchasing systems)
-- **Operational role:** Purchasing account management and logistics interface
-
-**Meredith Needham** (`meredith.needham@blackswifttech.com`)
-- RC/drone component procurement (HeliDirect fleet orders)
-
-**Asana** (Task Management)
-- **NEW (22 May 15:40–15:42 UTC):** Escalating task alerts
-  - "3 overdue tasks" notification 15:42 UTC
-  - "2 tasks due soon" notification 15:40 UTC (Friday reminders)
-  - **Signal:** Task backlog accumulating concurrent with high procurement velocity; possible deadline pressure
-
-**Toggl Track** (Time Tracking)
-- **NEW (22 May 23:31 UTC):** No-subject IMPORTANT notification to alex.lomis@blackswifttech.com
-  - **Signal:** End-of-day time tracking alert or project review prompt
-
-**Rippling** (HR/Benefits)
-- 3 simultaneous emails (21 May) — HSA/benefits enrollment activity
-
-### Internal vs External Breakdown
-- **Routed through purchasing@blackswifttech.com:** ~124 emails (~83%)
-- **Direct to alex.lomis@blackswifttech.com:** 13 emails (~9%) — task management (4), time tracking (1), HR/benefits (3), vendor comms (2), security vendor (1), software vendor (1), comms relay (1)
-- **Direct to alex.lomis@bst.aero:** 1 email (~1%) — AT&T secure connections (new domain pattern)
-- **Human-to-human internal/external:** 6 emails (~4%) — Jack Elston (4), Maciej Stachura (2), internal relays
+### Internal vs External Breakdown (New Period Only)
+- **Routed through purchasing@blackswifttech.com:** 10 emails (~83%)
+- **Direct to alex.lomis@blackswifttech.com:** 3 emails (~25%) — HR/benefits (3, identical)
+- **Human-to-human internal/external:** 0 emails — no direct communication 23–24 May
 
 ## Topic Patterns
 
-**Drone/UAS Systems:**
-- uAvionix orders (aviation component supplier, staged fulfillment)
-- Maciej Stachura "Drone Magnetic Data" technical exchange (payload integration)
-- HeliDirect RC procurement (fleet ordering)
-- AMain Hobbies delivery (22 May — likely drone/RC components)
+**Drone/RC Component Procurement — Ongoing:**
+- Hobbywing high-voltage ESC components (3-unit order under review)
+- HeliDirect helicopter kit and servo/ESC/motor promotions (continued fleet-oriented ordering)
+- Hobbyking spare parts promotions (RC plane components)
+- **Consolidation signal:** Multiple competing suppliers (HeliDirect, Hobbyking) promoting same product categories simultaneously
 
-**Radio/Communications:**
-- Jack Elston/Jeff Catherwood (Microhard Corp) radio quote negotiation — IMPORTANT, decision-point active
+**Logistics/Shipment Tracking:**
+- USPS Informed Delivery digest (multiple packages in transit expected)
+- Budget car rental promotion (field trip rental continuation into post-weekend)
 
-**Cable/Interconnect/Power:**
-- Daniels Manufacturing (Safe-T-Cable products)
-- Battery Junction (power supply/battery components, order cancellation suggests specification mismatch)
-- flashlightgo (power/battery-adjacent equipment)
-
-**Custom Manufacturing/Prototyping:**
-- eMachineShop (material selection for custom parts, 22 May)
-- SendCutSend (laser cutting/sheet metal fabrication — continued)
-- B&H Photo Video (video/imaging equipment — tripod/ball head for payload mounting)
-
-**Video/Imaging/Documentation:**
-- B&H Photo Video tripod + ball head (aerial/drone payload or ground documentation)
-
-**Logistics/Field Operations:**
-- Dual UPS pickups (22 May morning, coordinated)
-- Pirate Ship shipping management
-- Budget car rental (concurrent with procurement spike)
-- **Field Trip 22 May 3–4:45pm:** Core technical team mobilization suggests on-site verification/deployment
-
-**Software/Design Tools:**
-- Synopsys (EDA/CAD — suggests electrical design or simulation work)
-- Asana (task management — overdue task escalation 22 May)
-- Toggl Track (time/project tracking — automated alerts)
+**Administrative/HR:**
+- Rippling insurance plan deduction finalization (benefits enrollment complete post-HR activity on 21 May)
 
 ## Communication Patterns
 
-**Time Patterns:**
-- Heavy concentration **22 May morning (06:21–12:34 UTC):** DigiKey delay notification, UPS pickups
+**Time Patterns — Post-Field-Trip:**
+- Field trip concluded 22 May 3–4:45pm (MDT)
+- 23–24 May: Shift from 06:21–23:31 UTC daily intensity to **promotional/administrative-only messaging**
+- Weekend promotional surge (23 May 09:13–20:00 UTC) — Memorial Day sale cycle extending through weekend
+- Early morning HR notifications (24 May 07:12 UTC) — benefits system batch processing
+
+**Email Categorization:**
+- **New pattern:** 9 of 12 new emails flagged CATEGORY_PROMOTIONS (75%)
+- All promotional emails marked UNREAD, suggesting filtering/batching by AI/email client
+- HR administrative emails marked IMPORTANT + CATEGORY_UPDATES
+
+**Mailing List Activity:**
+- HeliDirect targeting Meredith Needham specifically on purchasing@ alias (3 promotional emails)
+- No evidence of direct Alex Lomis participation in 23–24 May promotional routing
+
+## Key Relationships
+
+**Internal Collaborators:**
+- **Meredith Needham** — Primary RC/drone procurement contact (continued; HeliDirect promotional emails routed to her via purchasing@)
+- **Jack Elston** — Field trip coordination lead; radio quote negotiation ongoing
+- **Maciej Stachura** — Drone magnetic data technical partner
+
+**Vendor Relationships:**
+- **HeliDirect** — Most aggressive contact post-field-trip (4 emails in 48 hours); primary RC component supplier
+- **Battery Junction, Budget, Harbor Freight** — Promotional/transactional vendors; active through weekend
+
+## Notable Observations
+
+1. **Sharp Post-Field-Trip Pattern Shift:** 22 May marked inflection point — urgent procurement orders (06:21–23:31 UTC transactional emails) replaced entirely by promotional digests and HR administrative finalization on 23–24 May. Suggests field trip was deployment or verification milestone.
+
+2. **Hobbywing ESC Component Specification:** 3-unit order for Hobbywing RPM Sensor (part 86060041) under review 24 May; high-voltage capability suggests multi-motor drone platform or redundant sensor configuration.
+
+3. **Rippling Insurance Duplicate:** Three identical insurance plan activation emails (24 May 07:12 UTC) to same address — possible email system error, batch processing artifact, or intentional resend for confirmation.
+
+4. **Meredith Needham as RC Procurement Hub:** HeliDirect routing promotions specifically to Meredith at purchasing@ (not Alex directly) — confirms her role as dedicated RC/drone component procurement manager.
+
+5. **Speedway Motors Outlier:** Automotive aftermarket supplier promotion (23 May) stands out from drone/RC/industrial pattern — may indicate exploratory sourcing, cross-platform component sourcing, or email routing error.
+
+6. **Extended Weekend Promotional Cycle:** Memorial Day sale promotions continue through 23 May (post-holiday) — suggests vendor targeting of extended procurement windows or team access to purchasing during holiday weekend.
+
+7. **USPS Informed Delivery Active:** Daily digest indicates monitoring of inbound shipments; likely multiple vendor deliveries expected post-field-trip (follow-up to UPS pickups on 22 May).

@@ -31,7 +31,7 @@
   "invoice_date": "2025-05-07",
   "invoice_amount": 21181.81,
   "invoice_number": "1667",
-  "paid_date": "2025-05-07",
+  "paid_date": "2026-05-21",
   "parts": [
     {
       "name": "S0 VTOL airframe",
@@ -63,7 +63,7 @@
     "invoicing": "Meredith",
     "build": "Alex Lomis"
   },
-  "notes": "Invoice #1667 (May 2025, $21,181.81) PAID. Outstanding invoice #1730 (Jan 2026, $2,462.50) paid on 2026-05-21. System in active daily flight testing with bug resolution underway (Beck 2026-03-17); Kevin confirmed patience. Jack Elston confirmed delivery target for ISARRA Flight Week (Aug/Sept 2026) and offered to deliver units at ISARRA site (2026-05-21). KEEP: QBO paid invoices + recent substantive email activity (2026-05-21) + future receive_by date (2026-08-31).",
+  "notes": "Invoice #1667 paid 2025-05-07 ($21,181.81). Outstanding invoice #1730 (2026-01-08, $2,462.50) PAID on 2026-05-21. System in active daily flight testing with bug resolution underway (Beck 2026-03-17); Kevin confirmed patience. Jack Elston confirmed Aug/Sept 2026 delivery target for ISARRA Flight Week and offered to deliver units at ISARRA site (2026-05-21). KEEP: QBO paid invoices + recent substantive email/Slack activity (2026-05-21) + future receive_by date.",
   "missing_fields": [
     "shipped_date"
   ],

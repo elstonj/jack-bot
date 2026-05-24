@@ -27,7 +27,7 @@
 
 *Remaining 10 team members account for ~4,300 hours combined*
 
-### Utilization Patterns (Updated May 22-23, 2026)
+### Utilization Patterns (Last Updated May 22-23, 2026)
 - **Latest tracking period:** May 22-23, 2026 — **59.3 hours recorded** across 9 core team members
 - **Active contributors:** Alex (8.3 hrs), Sam Hild (8.2 hrs), Beck Cotter (8.0 hrs), Nate (8.0 hrs), Meredith Needham (6.1 hrs), Ethan Domagala (6.0 hrs), Paige Smith (5.9 hrs), Jack Elston (5.5 hrs), Stachura (3.4 hrs)
 - **Notable shift:** Sam Hild elevated to second-highest contributor (8.2 hrs); Beck Cotter, Alex maintaining high activity
@@ -47,7 +47,7 @@
 
 ## Project Portfolio
 
-### Top Projects by Hours (Ranked, Updated May 22-23)
+### Top Projects by Hours (Ranked)
 1. **Project None:** 8,580.0 hours (25.96%) — *unallocated/overhead*
 2. **Project 183171534:** 4,535.8 hours (13.73%)
 3. **[301-2] SBIR - Hurricane Phase II+ (NOAA):** 3,283.3 hours (9.93%)
@@ -64,19 +64,7 @@
 14. **[300-3] 2026 IDIQ (Hurricane) NOAA:** 4.3 hours (0.01%)
 15. **[001-13] Marketing (Overhead):** 20.7 hours (0.06%)
 
-### Project Breakdown by Recent Period (May 22-23)
-- **[001-13] General Operations:** 11.8 hours
-- **[001-07] S3 IRAD:** 10.8 hours
-- **Project None (Unallocated):** 8.2 hours
-- **[001-20] PTO:** 8.0 hours
-- **[001-13] Marketing:** 5.9 hours
-- **[031-1] UMES S3 Partnership:** 4.0 hours
-- **[001-13] Proposals:** 4.0 hours
-- **[300-3] 2026 IDIQ (Hurricane):** 3.4 hours
-- **[001-13] BD Pipeline:** 1.9 hours
-- **[044-1] EMASS Chip Integration:** 1.2 hours
-
-### Client Distribution (Updated)
+### Client Distribution
 - **IRAD (Internal R&D):** ~6,529.5 hours (19.76%) — S3, Proposals, Flight Testing, SwiftCore, S0 VTOL focus
 - **Overhead/Corporate/Operations:** 1,620.4 hours (4.90%)
 - **NOAA:** 3,465.2 hours (10.49%)
@@ -97,4 +85,13 @@
 - **Marketing Elevation:** 5.9 hours (Paige Smith) — consistent with growing marketing emphasis
 
 ### Team Deployment Patterns
-- **Alex:** Primary S3 IRAD engineering driver (8.3 hrs this period)
+- **Jack Elston:** Remains dominant resource (38.77% of all historical time); currently split between S3 code review and Hurricane IDIQ work
+- **Alex:** Primary S3 IRAD engineering driver (8.3 hrs latest period); second-highest contributor by recent activity
+- **Ethan Domagala:** Emerging as key S3 build/integration lead; UMES partnership focal point
+- **Sam Hild & Beck Cotter:** Rising contributors; Sam elevated in recent period; Beck focused on proposals
+- **Operational Staff:** Paige (marketing), Meredith, Stachura maintaining overhead/admin/BD functions
+
+### Historical Allocation Trends
+- **Large unallocated block:** 8,580 hours (25.96%) — suggests time entry gaps, unclear project mapping, or overhead not assigned to specific codes
+- **Government focus:** ~14.5% of tracked time on NOAA/Air Force contracts (SBIR programs)
+- **IRAD investment:** ~19.76% supports internal innovation
