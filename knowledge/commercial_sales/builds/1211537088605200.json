@@ -29,7 +29,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "SOCOM (TSgt Evan Wolff) actively engaged in S0-AD development for C-130 air-launch demo Fall 2026. Recent in-person working meeting 4/27/26 with SOCOM and 53rd Weather Squadron to define mission requirements and S0 additional development needs. Demo unit loaned to Wolff 3/11/26 (FedEx 889475552978); received and showed to leadership. Concept includes autonomous flight to rally point programmed pre-launch, with ground operator takeover. Wolff requested file attachments 5/6/26 due to security blocks. Datasheet and technical documentation sent. CRADA development underway.",
+  "notes": "SOCOM (TSgt Evan Wolff) actively engaged in S0-AD development for C-130 air-launch demo Fall 2026. Recent in-person working meeting 4/27/26 with SOCOM and 53rd Weather Squadron to define mission requirements. Demo unit loaned to Wolff 3/11/26 (FedEx 889475552978); received and shown to leadership. Concept includes autonomous flight to rally point programmed pre-launch, with ground operator takeover. S0-AD datasheet and technical documentation sent 5/4/26 per Wolff's security request on 5/6/26. CRADA development underway.",
   "missing_fields": [
     "parts",
     "invoice_date",

@@ -4,9 +4,9 @@
 - **Client/customer:** Internal BST development project
 - **Dollar value:** Not specified
 - **Timeline:** Multi-year project spanning 2018–2025, with final activity in December 2025
-- **Status:** **ARCHIVED** – Project concluded with all deliverables completed as of December 2025
+- **Status:** **ARCHIVED** – Project concluded with all deliverables completed as of December 2025. Future aircraft and equipment maintenance now tracked through the **Fleet Maintenance Asana Project** (established May 2026 per Daniel Prendergast)
 - **Team members involved:** Nate Straus, Ben Busby, Maciej Stachura, Josh Fromm, Jack Elston; majority of historical tasks unassigned
-- **Risk signals:** None (project complete)
+- **Risk signals:** None (project complete and maintenance workflow formalized)
 
 ## Key Deliverables & Milestones
 - **QC Flight Test Cards** – Created for E2 and Flamewheel platforms (Nov 2023)
@@ -29,6 +29,9 @@
 - **Notable patterns:** Heavy use of unassigned tasks suggests batch/team-wide work; platform naming convention (S2X, E2X, FWX) tracks distinct aircraft families; extensive parts ordering and assembly work indicates inventory management focus
 
 ## Recent Activity
+**Project Conclusion & Workflow Evolution (2026):**
+- Daniel Prendergast introduced a standardized post-flight issue reporting form (May 8–11, 2026) that automatically routes aircraft and equipment issues to the **"Fleet Maintenance" Asana Project** for hardware issues, or other relevant projects. This is now part of standard BST post-flight procedures and supersedes task tracking within this archived project.
+
 **Final project completion (2025):**
 - S20009 platform completed by Nate Straus (Dec 17, 2025)
 - FW0001 and FW0002 platform work finalized (Oct 21, 2025)
@@ -62,7 +65,4 @@
 - Blade torque specifications determined through hardware testing with loctite (2021)
 - Extensive supplier relationships (Hacker Motors, SKB cases, Lee for cost updates)
 
-**Ongoing fleet processes (as of May 2026):**
-Per Daniel Prendergast (May 8–11, 2026), a post-flight issue reporting form has been introduced that automatically routes aircraft and equipment issues to either the **"Fleet Maintenance" Asana Project** (for hardware issues) or other relevant projects. This is now part of standard BST post-flight procedures and supersedes task tracking within this archived project.
-
-**Status:** Project successfully concluded with all deliverables completed December 2025. No outstanding development work. Future maintenance and post-flight issues tracked through separate Fleet Maintenance workflow (established May 2026).
+**Status:** Project successfully concluded with all deliverables completed December 2025. No outstanding development work. Future maintenance and post-flight issues tracked through separate Fleet Maintenance workflow (established May 2026 per Daniel Prendergast).

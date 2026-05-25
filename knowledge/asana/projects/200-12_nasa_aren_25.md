@@ -50,4 +50,4 @@ BST participated in the AEROKATS and ROVER Education Network (AREN), a NASA Scie
 - **Context:** Discussed on hurricane engineering team call
 - **Status:** Awaiting BST review
 
-**AI Tool Leverage for NASA RFIs:** Maciej (2026-04-27, 2026-05-04) flagged team interest in using AI tools to begin work on NASA RFIs. As of 2026-05-04, Maciej requested one of two named team members begin work on NASA RFIs "soon" using BST's AI tools, pending workload availability.
+**AI Tool Leverage for NASA RFIs:** Maciej (2026-04-27, 2026-05-04) flagged team interest in using AI tools to begin work on NASA RFIs. **ACTION REQUIRED:** As of 2026-05-04, Maciej requested one of two named team members begin work on NASA RFIs "soon" using BST's AI tools, pending workload availability. This is awaiting assignment and initiation.

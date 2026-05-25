@@ -13,7 +13,7 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Sergio Ruocco (eMASS AI) - Autoboot firmware expert, SDK bring-up and troubleshooting
 - Shantanu (eMASS AI) - Hardware verification and validation
 
-**Activity Level:** Highly active collaboration spanning February-April 2026, with continued activity into May 2026. Intensive HWIL and model training in March-April. Critical first-flight test completed on Apr 24, 2026. Recent activity (May 4-5, 2026) focused on testing methodology and flight plan preparation for controller evaluation. Activity through May 20-21, 2026 focused on velocity command control mode refinement, frequency optimization, and flight test sequence clarification. Latest activity (May 22-23, 2026) involves troubleshooting waypoint navigation behavior, controller stability issues, and sim-to-flight fidelity gaps.
+**Activity Level:** Highly active collaboration spanning February-April 2026, with continued activity into May 2026. Intensive HWIL and model training in March-April. Critical first-flight test completed on Apr 24, 2026. Recent activity (May 4-5, 2026) focused on testing methodology and flight plan preparation for controller evaluation. Activity through May 20-21, 2026 focused on velocity command control mode refinement, frequency optimization, and flight test sequence clarification. Latest activity (May 22-24, 2026) involves troubleshooting waypoint navigation behavior, controller stability issues, sim-to-flight fidelity gaps, and post-flight analysis of backwards-flying aircraft behavior.
 
 ---
 
@@ -102,5 +102,4 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 **PWM Command Frequency Optimization (May 21, 2026)**
 - Jack Elston noted uncertainty about maximum frequency for PWM commands during velocity command control mode testing
 - **Decision: Match velocity command frequency to PWM input frequency** for consistent control cadence
-- Rationale: Jack suggested PWM frequency should approximate whatever frequency eMASS is receiving for PWM input
-- Status:
+- Rationale: Jack suggested PWM frequency should approximate whatever frequency eMAS

@@ -8,9 +8,8 @@
 - **Team Members**: Dan Prendergast (Owner/Lead), Jack Elston, Maciej Stachura, Nate Straus, Ethan Domagala, Meredith O'hara Needham
 - **Risk Signals**: 
   - **🔴 CRITICAL: Project indefinitely postponed on external EMASS controller delivery** — Validation Flights #2 and #3 cannot proceed until EMASS delivers functioning controller binary (Daniel Prendergast, May 13–14, 2026). This is outside BST control.
-  - **⚠️ Escalation boundary set**: Jack Elston (May 12, 2026) imposed informal 1-month hold limit before escalation/re-evaluation (~June 12, 2026).
+  - **⚠️ Escalation boundary set**: Jack Elston (May 12, 2026) imposed informal 1-month hold limit (~June 12, 2026) before escalation/re-evaluation.
   - **⚠️ Financial concern**: Daniel Prendergast inquired whether EMASS paid the second invoice (May 7–8, 2026) — suggests possible payment delays or customer relationship friction.
-  - **Asana task data incomplete/stale**: 5 open tasks listed (2× "data analysis" duplicates); no due dates assigned despite indefinite postponement.
 
 ## Key Deliverables & Milestones
 - **Phase 1: Design & Alignment** (Due: Jan 28, 2026) - ✅ Completed
@@ -19,19 +18,19 @@
 - **Phase 4: Validation & Reporting** (Due: Mar 11, 2026) - ✅ Completed
 - **Final Validation Phase** (Extended to May 2026, now indefinitely postponed):
   - Validation Flight #1 (April 27, 2026) — ✅ **Completed April 25, 2026** (2 days early)
-  - Validation Flight #2 (originally due May 13, 2026) — **🔴 INDEFINITELY POSTPONED** *(awaiting functioning controller binary from EMASS per Daniel Prendergast, May 13–14, 2026)*
+  - Validation Flight #2 — **🔴 INDEFINITELY POSTPONED** *(awaiting functioning controller binary from EMASS per Daniel Prendergast, May 13–14, 2026)*
   - Validation Flight #3 — **🔴 INDEFINITELY POSTPONED** *(awaiting functioning controller binary from EMASS per Daniel Prendergast, May 13–14, 2026)*
   - Final Report — **🔴 BLOCKED** *(cannot complete until validation flights are done)*
 
 ## Task Summary
-- **Total Open Tasks**: 5 tasks in current export (including 2 duplicate "data analysis" entries)
-  - Validation Flight #2 (Dan Prendergast, no due date)
-  - Validation Flight #3 (Dan Prendergast, no due date)
-  - Final Report (Dan Prendergast, no due date)
-  - data analysis (Maciej Stachura, no due date) — 2 instances
+- **Total Open Tasks**: 5 tasks in current export
+  - Validation Flight #2 (Dan Prendergast, no due date) — **BLOCKED on EMASS controller delivery**
+  - Validation Flight #3 (Dan Prendergast, no due date) — **BLOCKED on EMASS controller delivery**
+  - Final Report (Dan Prendergast, no due date) — **BLOCKED on validation flights**
+  - Data analysis (Maciej Stachura, no due date) — 2 instances, **BLOCKED** (cannot analyze until flights complete)
 - **Tasks by Assignee**:
   - **Dan Prendergast**: 3 tasks (2 validation flights, 1 final report) — **ALL BLOCKED on external EMASS controller delivery**
-  - **Maciej Stachura**: 2 tasks (data analysis, duplicate entries) — **BLOCKED** (cannot analyze until flights complete)
+  - **Maciej Stachura**: 2 tasks (data analysis, 2 instances) — **BLOCKED** (cannot analyze until flights complete)
   - **Jack Elston & Nate Straus**: Actively coordinate field execution but not formally assigned in Asana
 - **Recent Completions** (April 19–25, 2026):
   - ✅ Validation Flight #1 (Dan Prendergast) — **2 days early** (April 25)
@@ -87,4 +86,5 @@
 - **Now indefinitely postponed on EMASS controller delivery** (as of May 13–14, 2026)
 - **Informal boundary for escalation/re-evaluation**: ~June 12, 2026 (Jack Elston, May 12, 2026: "we don't want to drag this out more than a month")
 
-**Customer Relationship Flag**: 
+**Customer Relationship & Payment Flag**: 
+- EMASS responsible for delivering functioning controller binary; BST currently blocked waiting

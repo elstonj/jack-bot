@@ -1,6 +1,5 @@
 # Beck Cotter — Email Patterns
 
-Only 2 emails found in scanned period.
+Only 1 emails found in scanned period.
 
-- Sat, 23 May 2026 13:52:26 -0400: SpaceAgenda, 400+ space industry events in one calendar (from: Space Agenda <event@spaceagenda.com>)
-- Sat, 23 May 2026 12:01:07 -0000: DARPA Opportunities, Funding and Q&A (from: DARPAConnect <ecosystem@theari.us>)
+- Sun, 24 May 2026 17:36:58 +0000: RE: FW: Black Swift - Diligence Requests (from: Nadia Bryan <nbryan@kofirm.com>)

@@ -1,6 +1,6 @@
 # Unmapped Customers
 
-_Generated 2026-05-24 03:08 — customers who have emailed info@/sales@ but aren't yet tracked as Asana Commercial Sales tasks._
+_Generated 2026-05-25 03:13 — customers who have emailed info@/sales@ but aren't yet tracked as Asana Commercial Sales tasks._
 
 | Latest | Domain | # Emails | Recent subjects |
 |--------|--------|----------|-----------------|
@@ -13,4 +13,3 @@ _Generated 2026-05-24 03:08 — customers who have emailed info@/sales@ but aren
 | 2026-05-21 | astrallic.com | 1 | Request for Quote – Outdoor Small Uncrewed Aircraft System Package |
 | 2026-05-20 | allroadsboco.org | 1 | Taking Care of Our Community💖 |
 | 2026-05-19 | flarm.com | 1 | AERO-Nachlese: Danke für inspirierende Begegnungen ✈️ |
-| 2026-05-18 | mail.ozols.lv | 1 | Battery solutions manufactured in Europe |

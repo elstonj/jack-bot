@@ -1,57 +1,58 @@
 # BST Financial Overview (QuickBooks)
+**Period: April 2024 – June 2026**
+
+---
 
 ## Company Totals
-- **Total Revenue (Invoices):** $4,405,611.64
-- **Total Expenses:** $2,400,416.48
-- **Net Income (Estimated):** $2,005,195.16
+
+| Metric | Amount |
+|--------|--------|
+| **Total Revenue (Invoices)** | $4,405,611.64 |
+| **Total Expenses (Bills & Purchases)** | $2,400,416.48 |
+| **Net Income (Estimated)** | $2,005,195.16 |
 
 ---
 
 ## By Project/Class
 
-| Project | Revenue | Expenses | Net Position | Status |
-|---------|---------|----------|--------------|--------|
-| **Government** | $4,387,717.28 | $1,330,605.39 | **+$3,057,111.89** | Strong performance |
-| **BST Internal** | $17,894.36 | $1,069,811.09 | **-$1,051,916.73** | Expenses-heavy (internal ops) |
+### 1. Government
+- **Total Revenue:** $4,387,717.28
+- **Total Expenses:** $1,330,605.39
+- **Net Position:** $3,057,111.89 ✓ *Strong profitability*
+- **Status:** 75 active invoices; $3,120,198.19 outstanding (71% of revenue uncollected)
 
-**Note:** Government projects account for 99.6% of external revenue and drive overall profitability.
-
----
-
-## Cash Flow Indicators
-
-### Accounts Receivable (Outstanding)
-- **Government Project:** $3,120,198.19 outstanding across 75 active invoices
-- **BST Internal:** Limited AR data available
-
-**Total Outstanding Receivables:** ~$3.1M+ (primarily government invoices)
-
-### Outstanding Purchase Orders
-- **PO #1038** (Amprius): $1,700.00 — BST Internal project
-- **Government POs:** $832.00
-
-### Recent Activity Notes
-- **Date Range:** April 5, 2024 – September 28, 2026 (26+ months of data)
-- **Transaction Count:** 1,100+ confirmed transactions
-- Government projects show consistent invoicing activity through late September 2026
-- BST Internal shows only 2 transactions in recent reporting (May 23-24, 2026)
+### 2. BST Internal
+- **Total Revenue:** $17,894.36
+- **Total Expenses:** $1,069,811.09
+- **Net Position:** -$1,051,916.73 ✗ *Significant loss*
+- **Status:** 2 transactions; appears to be internal cost center or overhead allocation
 
 ---
 
-## Top Vendors & Customers
+## Outstanding Receivables & Cash Flow
 
-**Data Limitation:** Detailed vendor and top customer breakdowns not fully populated in provided data. Recommend pulling:
-- Full Vendor Summary Report (expenses by vendor)
-- Customer Summary Report (revenue by customer)
+| Category | Amount | Notes |
+|----------|--------|-------|
+| **Accounts Receivable (Government)** | $3,120,198.19 | 75 open invoices; major collection priority |
+| **Outstanding Purchase Orders** | $2,532.00 | PO #1038 (Amprius, $1,700) + Government POs ($832) |
 
----
-
-## Unclassified Transactions
-No significant unclassified transactions noted. All major activity is assigned to either **Government** or **BST Internal** classes.
+**⚠️ Cash Flow Risk:** Government project shows strong net profitability but 71% of revenue remains uncollected. Collection velocity is critical to operating cash flow.
 
 ---
 
-## Key Observations
-✓ Government contracts are highly profitable ($3M+ net position)  
-⚠ BST Internal operations run at a significant loss (likely overhead/administrative)  
-⚠ $3.1M in outstanding receivables requires monitoring for collection
+## Notable Findings
+
+✓ **Government project is primary profit driver** – accounts for 99.6% of revenue  
+✗ **BST Internal shows heavy expenses** – $1.07M in expenses vs. $17.9K revenue (likely overhead/admin allocation)  
+✓ **Strong overall net position** – company is profitable on accrual basis despite collection delays  
+⚠️ **Cash vs. accrual gap** – significant difference between invoiced amounts and collected cash
+
+---
+
+## Data Limitations
+
+The source data appears incomplete (tables truncated). For a complete analysis, please provide:
+- Full vendor list and top spending breakdown
+- Complete customer details and payment status
+- Detailed transaction classification for unallocated items
+- Account-level balance sheet information

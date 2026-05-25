@@ -22,13 +22,13 @@
 - Unified Estimator (completed 2026-02-03)
 
 ## Task Summary
-- **Total tasks**: 0 open, 376+ completed overall since Nov 2023 baseline
+- **Total tasks**: 0 open as of May 2026 (conflicting raw data from Nov 2023 shows 80 open; **team corrections are authoritative** — project status is substantially complete as of May 21, 2026)
 - **Tasks by assignee**:
-  - Maciej Stachura: 2 recently completed tasks (velocity discontinuity and battery termination threshold tuning on S1-22)
+  - Maciej Stachura: 2 recently completed tasks (velocity discontinuity and battery termination threshold tuning on S1-22, completed 2026-05-21)
   - Jack Elston: No current tasks shown
   - Ben Busby: No current tasks shown
 - **Notable patterns**: 
-  - Project has converged from 78 open tasks (Nov 2023) to 0 open tasks (May 2026)
+  - Project has converged from 80 open tasks (Nov 2023 raw data) to 0 open tasks (May 2026 per team feedback)
   - Final 4 VTOL edge-case tasks all resolved by May 21, 2026
   - New work capture mechanism established: post-flight feedback form (May 8–11, 2026) automatically creates tasks in Fleet Maintenance (hardware) or SwiftCore 3.3 (software)
   - Custom field priority: Low (unchanged, does not reflect severity of completed critical items)
@@ -38,8 +38,8 @@
   - "vx/vy bump right when it goes TRANS2HOVER -> LANDING" (velocity discontinuity at transition) — Maciej Stachura
   - "Battery flight terminate on S1-22 too aggressive" (battery termination threshold) — Maciej Stachura
   - Both completed 3 days after due date (2026-05-18), indicating successful resolution during flight testing
-- **2026-05-15**: Daniel Prendergast confirms post-flight feedback process: software issues are added as tasks to SwiftCore 3.3 project via automated Asana Form. Manual task creation remains an option.
-- **2026-05-11 to 2026-05-08**: Daniel Prendergast deploys Asana Form for automated post-flight issue capture as standard process; routes aircraft/equipment issues to Fleet Maintenance (hardware) or SwiftCore 3.3 (software).
+- **2026-05-15**: Daniel Prendergast clarifies post-flight feedback process: *"For software issues that just adds a task to the SwiftCore 3.3 project like you've always been doing. You can keep adding tasks manually if you prefer"* — confirms automated Asana Form integration does not replace manual task creation; teams have choice of workflow.
+- **2026-05-11 & 2026-05-08**: Daniel Prendergast deploys Asana Form for automated post-flight issue capture as standard process; routes aircraft/equipment issues to Fleet Maintenance (hardware) or SwiftCore 3.3 (software).
 
 ## Notes & Context
 
@@ -51,7 +51,7 @@ SwiftCore 3.3 has completed all targeted validation tasks as of May 21, 2026. Th
 4. Velocity discontinuity at TRANS2HOVER → LANDING transition — resolved 2026-05-21
 
 **Transition to Continuous Issue Capture (May 2026):**
-Daniel Prendergast established an automated post-flight feedback form effective May 8–11, 2026. Per Prendergast's clarification on 2026-05-15:
+Per Daniel Prendergast (2026-05-11, 2026-05-15), an automated post-flight feedback form was deployed as part of the standard post-flight process:
 - Captures hardware and software issues from flight testing in a structured way
 - Automatically creates Asana tasks in Fleet Maintenance (hardware issues) or SwiftCore 3.3 (software issues)
 - Manual task creation option remains available for team preference
@@ -65,5 +65,5 @@ Daniel Prendergast established an automated post-flight feedback form effective 
 - Advanced navigation (Dubins paths, wind estimation, RTK/GNSS) operational
 - Robust automated testing and issue capture infrastructure in place
 
-**Next Steps:**
-Project is production-release ready pending final integration and rollout planning. Remaining open milestones (tailsitter support, scripting official release, app integration) are post-release features or parallel work streams, not blockers to 3.3 final release.
+**Data Reconciliation Note:**
+Raw Asana export from Nov 2023 shows 80 open tasks. However, team corrections and feedback from May 2026 (authoritative per instructions) establish that project is substantially complete with 0 open tasks as of May 21, 2026. This represents significant progress over the ~6-month period. Remaining open milestones are post-release features or parallel work streams, not blockers to 3.3 final release.
