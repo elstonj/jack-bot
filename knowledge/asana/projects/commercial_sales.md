@@ -1,4 +1,4 @@
 # Commercial Sales
 
 Small project with 1 tasks.
-- [Done] [1304] INSTAAR S2 Repair — Meredith O'hara Needham
+- [Done] NASA Ames S2 Updates (batteries, firmware, tablet, pitot) — Meredith O'hara Needham

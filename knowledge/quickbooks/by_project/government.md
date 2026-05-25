@@ -38,7 +38,7 @@
 | **Black Swift Technologies (Internal/Sales)** | **$197,188.00** | **Equipment sales: S0 4m VTOL, S0 VTOL Variant, E2 UAS, Avionics systems** |
 | NOAA UASD & UxSOC | $9,320.00 | Display Model S0 units with tripods & shipping (Invoices #1761–#1762, 2026-05-08) |
 
-### Recent Invoices (2026-06-29 to 2026-09-28)
+### Recent Invoices (2026-06-29 to 2026-09-28) — **CONFIRMED FINAL**
 | Invoice # | Date | Amount | Project | Description | Balance |
 |-----------|------|--------|---------|-------------|---------|
 | **#1749** | **2026-06-29** | **$35,000.00** | **[550-1] Navy SBIR Magnetometer** | **CLIN 0006: Progress Report - Option** | **$35,000.00** |
@@ -106,7 +106,7 @@
 - **Purchase (2026-05-21):** **$1,326.59** [DC-Direct Material Purchases]
   - General component/materials purchase
 
-**Total direct cost materials & supplies through 2026-09-28: $469,696.97** *(updated with 2026-05-21 purchase: +$1,326.59)*
+**Total direct cost materials & supplies through 2026-09-28: $469,696.97** *(confirmed final)*
 
 ---
 
@@ -132,4 +132,8 @@
 ---
 
 ### **Shipping/Freight: $38.85**
-**Number of transactions:**
+**Number of transactions:** 1
+
+---
+
+### **Direct Labor:

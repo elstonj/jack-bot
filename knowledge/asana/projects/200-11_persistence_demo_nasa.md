@@ -5,7 +5,7 @@
 - **Contract:** SBIR Phase III, Contract No. 80NSSC25CA043
 - **Dollar Value:** $74,428.00 (Fixed Price)
 - **Timeline:** January 2025 – September 2025 (9 months)
-- **Status:** ARCHIVED — Contract completed and closed November 24, 2025. All deliverables accepted, payments received ($74,428 total).
+- **Status:** ✓ **ARCHIVED** — Contract completed and closed November 24, 2025. All deliverables accepted, payments received ($74,428 total).
 - **Team:** Whole BST team involved
 - **Primary Contact:** Matthew Fladeland, NASA Ames Technology Transfer Office, 650.604.3325, matthew.fladeland@nasa.gov, MS 202A-3 Moffett Field, CA 94035-1000
 
@@ -28,7 +28,7 @@
 
 ## Task Summary
 
-**Total Tasks:** 32 (31 completed, 1 administrative open)  
+**Total Tasks:** 32 completed (+ 1 administrative open)  
 **Completion Rate:** 97%
 
 ### Tasks by Assignee (Completed Work)
@@ -43,12 +43,6 @@
 | **Sam Hild** | Remote ID detector hardware build |
 | **Ben Busby** | TAK (Team Awareness Kit) data downlink system |
 | **Unassigned (Group Tasks)** | Demo event, flight tests, platform setup |
-
-### Completion Patterns
-- All contractual deliverables submitted on schedule
-- Heavy focus on **August demo preparation** (7 tasks completed Aug 18–28)
-- **Invoice & certification cycle** completed efficiently by Meredith O'hara Needham (all payments processed)
-- NASA reporting requirements (New Technology filings) completed in parallel with contractual deliverables
 
 ---
 
@@ -114,12 +108,18 @@
 - **RFI Link:** https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
 - **Competing Internal Opportunities:** INSTAAR (2 demonstrations) and Ottawa/Murphy's demonstration (Jack Elston, 04/20/26: "the other ones being INSTAAR x2 and this ottawa demo or Murphy's, whatever actually happens first")
 - **Status:** Team to begin AI-assisted RFI response work (Jack Elston or Alex Lomis to lead)
-- **Action Items (Maciej Stachura, 04/27/26, authoritative correction):** 
-  - Update Asana due dates to realistic numbers after ByLight meeting and communicate to stakeholders
-  - Coordinate with team on S0-VTOL workload and resource allocation; assess Dan Prendergast and Ethan Domagala availability for support on time-sensitive S0-VTOL deliverables
-- **Team Status (Ethan Domagala, 05/05/26, authoritative correction):** ByLight project timeline has been extended due to cancellation of a demo in India. "Yellow version" project clarified and Asana tasks/timelines updated accordingly.
+
+### Action Items & Status (May 2026)
+
+**Maciej Stachura (04/27/26, authoritative correction):**
+- Update Asana due dates to realistic numbers after ByLight meeting and communicate to stakeholders
+- Coordinate with team on S0-VTOL workload and resource allocation; assess Dan Prendergast and Ethan Domagala availability for support on time-sensitive S0-VTOL deliverables
+
+**Ethan Domagala (05/05/26, authoritative correction):**
+- ByLight project timeline has been **extended due to cancellation of a demo in India**
+- "Yellow version" project has been clarified; Asana tasks and timelines updated accordingly
 
 ---
 
 **Project Status: Successfully Completed & Archived**  
-All contractual obligations fulfilled, deliverables accepted, payments received ($74,428), and project closed as of November 24, 2025. Company is actively exploring follow-on opportunities with NASA in Earth observation domain (hurricane monitoring focus). NASA
+All contractual obligations fulfilled, deliverables accepted, payments received ($74,428), and project closed as of November 24, 2025. Company is actively exploring follow-on opportunities with NASA in Earth observation domain (hurricane monitoring focus).

@@ -1,6 +1,4 @@
 # View: Major Milestones & Tasks
 
-Small project with 3 tasks.
-- [Done] 0001 Kickoff + Analyze DAF requirements for Soil Integrity data — Maciej Stachura
-- [Done] S00001 Test Flight — Alex Lomis
-- [Done] [1304] INSTAAR S2 Repair — Meredith O'hara Needham
+Small project with 1 tasks.
+- [Done] NASA Ames S2 Updates (batteries, firmware, tablet, pitot) — Meredith O'hara Needham

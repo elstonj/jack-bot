@@ -27,23 +27,10 @@
 
 *Remaining 10 team members account for ~4,300 hours combined*
 
-### Utilization Patterns (Last Updated May 22-23, 2026)
-- **Latest tracking period:** May 22-23, 2026 — **59.3 hours recorded** across 9 core team members
-- **Active contributors:** Alex (8.3 hrs), Sam Hild (8.2 hrs), Beck Cotter (8.0 hrs), Nate (8.0 hrs), Meredith Needham (6.1 hrs), Ethan Domagala (6.0 hrs), Paige Smith (5.9 hrs), Jack Elston (5.5 hrs), Stachura (3.4 hrs)
-- **Notable shift:** Sam Hild elevated to second-highest contributor (8.2 hrs); Beck Cotter, Alex maintaining high activity
-- **Team composition:** 9 contributors; consistent core team engagement
-
-### Current Period Focus (May 22-23)
-- **General Operations:** 11.8 hours (operations/admin, KS Integration Workshop, overhead checklist)
-- **S3 IRAD Development:** 10.8 hours (core engineering work; Alex and Jack Elston leading code review)
-- **Marketing:** 5.9 hours (Paige Smith)
-- **UMES S3 Partnership:** 4.0 hours (Ethan Domagala – S3 Build activities)
-- **Proposals:** 4.0 hours (Beck Cotter)
-- **2026 IDIQ (Hurricane):** 3.4 hours (Jack Elston – Pressure Sensor Investigation; Stachura supporting)
-- **BD Pipeline:** 1.9 hours (Stachura)
-- **EMASS Chip Integration:** 1.2 hours (Ethan Domagala – Flight Test)
-- **PTO:** 8.0 hours (Nate)
-- **Unallocated:** 8.2 hours
+### Utilization Patterns (Last Updated May 24-25, 2026)
+- **Latest tracking period:** May 24-25, 2026 — **No hours recorded**
+- **Previous period (May 22-23):** 59.3 hours recorded across 9 core team members
+- **Note:** Weekend period (May 24-25 falls on Sat-Sun) — no activity expected; tracking resumes May 26
 
 ## Project Portfolio
 
@@ -77,21 +64,21 @@
 
 ## Patterns & Insights
 
-### Current Activity Focus (May 22-23, 2026)
-- **S3 Flight Vehicle Acceleration Continues:** 14.8 hours combined (10.8 hrs S3 IRAD + 4.0 hrs UMES partnership) — sustained high activity; Alex driving core engineering with Jack Elston code review support; Ethan Domagala leading build activities at UMES partnership
-- **Operational Continuity:** 11.8 hours on General Operations — steady administrative overhead, KS Integration Workshop activity indicating partnership/integration efforts
-- **Proposal Pipeline:** 4.0 hours tracked; Beck Cotter maintaining proposal focus
-- **Emerging Technical Work:** EMASS Chip Integration (1.2 hrs) and 2026 IDIQ Hurricane Pressure Sensor Investigation (3.4 hrs) indicate diversified engineering workstreams
-- **Marketing Elevation:** 5.9 hours (Paige Smith) — consistent with growing marketing emphasis
+### Recent Activity Trends (May 22-25, 2026)
+- **S3 Flight Vehicle Focus:** 14.8 hours (May 22-23) combining core engineering (Alex-led) and UMES partnership build activities (Ethan Domagala)
+- **Operational Baseline:** 11.8 hours on general operations/admin functions; sustained consistency
+- **Proposal Pipeline:** 4.0 hours tracked; Beck Cotter maintaining pursuit momentum
+- **Weekend Gap:** No tracking May 24-25 (weekend); normal pattern
 
 ### Team Deployment Patterns
-- **Jack Elston:** Remains dominant resource (38.77% of all historical time); currently split between S3 code review and Hurricane IDIQ work
-- **Alex:** Primary S3 IRAD engineering driver (8.3 hrs latest period); second-highest contributor by recent activity
-- **Ethan Domagala:** Emerging as key S3 build/integration lead; UMES partnership focal point
-- **Sam Hild & Beck Cotter:** Rising contributors; Sam elevated in recent period; Beck focused on proposals
-- **Operational Staff:** Paige (marketing), Meredith, Stachura maintaining overhead/admin/BD functions
+- **Jack Elston:** Dominant resource (38.77% historical); recent split between S3 code review and Hurricane IDIQ investigations
+- **Alex:** Emerging as primary S3 IRAD engineering lead (8.3 hrs in latest work period)
+- **Ethan Domagala:** Key S3 build/integration driver; UMES partnership point person
+- **Sam Hild & Beck Cotter:** Rising contributor tier; elevated activity in recent weeks
+- **Operational/Support Staff:** Paige (marketing), Meredith, Stachura managing overhead and BD functions
 
-### Historical Allocation Trends
-- **Large unallocated block:** 8,580 hours (25.96%) — suggests time entry gaps, unclear project mapping, or overhead not assigned to specific codes
-- **Government focus:** ~14.5% of tracked time on NOAA/Air Force contracts (SBIR programs)
-- **IRAD investment:** ~19.76% supports internal innovation
+### Historical Allocation Insights
+- **Large unallocated block:** 8,580 hours (25.96%) — indicates time entry gaps, unclear project mapping, or overhead not assigned to specific project codes; recommend audit
+- **Government contract focus:** ~14.5% of tracked time on NOAA/Air Force SBIR programs (Hurricane, Volcano)
+- **IRAD investment:** ~19.76% supports sustained internal innovation pipelines
+- **Customer concentration:** Heavy weighting toward NASA/NOAA (~16.7% combined)

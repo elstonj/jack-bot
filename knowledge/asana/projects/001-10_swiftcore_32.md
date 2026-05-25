@@ -4,9 +4,9 @@
 - **Client/Customer**: Internal maintenance project for BST autopilot system
 - **Dollar Value**: Not specified
 - **Timeline**: Active maintenance project with tasks spanning 2022–2023; last activity November 2023
-- **Status**: Active maintenance (99% completion rate, 302 of 305 tasks complete). **Workflow Update (May 2026): Per Daniel Prendergast (May 8–15, 2026), new software issues should be added to the SwiftCore 3.3 project going forward, not SwiftCore 3.2.** SwiftCore 3.2 itself remains in stable maintenance phase.
+- **Status**: **Stable maintenance phase.** Per Daniel Prendergast (May 8–15, 2026), new software issues should be added to the **SwiftCore 3.3 project** going forward, not SwiftCore 3.2. SwiftCore 3.2 remains in stable maintenance with 3 open tasks in "Ready for Testing" status.
 - **Team Members**: Jack Elston (Owner), Ben Busby, Maciej Stachura, with whole BST team involvement
-- **Risk Signals**: 3 open tasks in "Ready for Testing" status with no due dates; generally low risk given low priority rating and stable completion history. No overdue items.
+- **Risk Signals**: 3 open tasks awaiting testing with no due dates; generally low risk given low priority rating and stable maintenance status. No overdue items.
 
 ## Key Deliverables & Milestones
 - Master branch (3.2) autopilot and tablet code maintenance
@@ -16,13 +16,16 @@
 - Comprehensive testing across S1 2030/2040, FW 2030/2040, Xplane, and Gazebo platforms
 
 ## Task Summary
-- **Total Tasks**: 305 (3 open, 302 completed = 99% completion rate)
-- **Tasks by Assignee**:
-  - Jack Elston: Primary contributor with majority of completed tasks
-  - Ben Busby: 3 open tasks, focused on UI/tablet issues; multiple completed tasks in preflight mode, joystick control, and NAV bug fixes
-  - Maciej Stachura: Significant contributor; completed tasks in flight testing, bug fixes, landing detection, and propulsion failure scenarios
-  - 1 unassigned task (completed)
-- **Notable Patterns**: Heavy use of custom fields for tracking hotfix branches and testing status across multiple platforms; extensive platform-specific testing (S1 2030/2040, FW 2030/2040, Xplane, Gazebo) with granular completion tracking; low priority rating reflecting maintenance nature
+- **Total Tasks**: 305 (3 open, 302 completed = 99% completion rate historically)
+- **Current Open Tasks** (all assigned to Ben Busby, all "Ready for Testing"):
+  1. Lost comms waypoint text input issue (master branch) – can't change text to set waypoint to number
+  2. Level 2 error warning popup issues (master branch) – mission limits violation with waypoint, static pressure failure
+  3. Map corridor area menu tap issue (hotfix/area_popup branch) – tapping area doesn't bring up mapping menu
+- **Key Contributors**:
+  - Jack Elston: Primary contributor, owner
+  - Ben Busby: Current focus on open UI/tablet issues; historical work on preflight mode, joystick control, NAV bug fixes
+  - Maciej Stachura: Flight testing, bug fixes, landing detection, propulsion failure scenarios
+- **Notable Patterns**: Heavy use of custom fields for tracking hotfix branches and testing status across multiple platforms; extensive platform-specific testing (S1 2030/2040, FW 2030/2040, Xplane, Gazebo); low priority rating reflecting maintenance nature
 
 ## Recent Activity
 - **Last update**: November 28, 2023 (green status update)
@@ -30,16 +33,12 @@
   - Simulator updates (Jack Elston, November 17)
   - Documentation updates (Jack Elston, November 22)
   - Flight plan synchronization and related fixes (Maciej Stachura, earlier)
-- **All 3 remaining open tasks are in "Ready for Testing" status, assigned to Ben Busby**:
-  - Lost comms waypoint text input issue (master branch) – can't change text to set waypoint to number
-  - Level 2 error warning popup issues (master branch) – mission limits violation with waypoint, static pressure failure
-  - Map corridor area menu tap issue (hotfix/area_popup branch) – tapping area doesn't bring up mapping menu
-- No overdue milestones or tasks as of November 28, 2023
+- **Current work**: All 3 remaining open tasks assigned to Ben Busby, all in "Ready for Testing" status with no due dates
 
 ## Notes & Context
 This is a critical maintenance project for BST's core autopilot technology (SwiftCore 3.2). The project demonstrates comprehensive quality assurance with extensive testing across multiple hardware platforms and simulators.
 
-**Workflow Update (May 2026)**: Per Daniel Prendergast (May 8–15, 2026), new software issues should be added to the **SwiftCore 3.3 project** going forward, not SwiftCore 3.2. SwiftCore 3.2 is in stable maintenance mode. An Asana Form has been created as part of standard post-flight process to capture aircraft and equipment issues, automatically routing them to Fleet Maintenance (hardware) or appropriate software projects.
+**Workflow Update (May 2026)**: Per Daniel Prendergast (May 8–15, 2026), **new software issues should be routed to the SwiftCore 3.3 project going forward, not SwiftCore 3.2.** SwiftCore 3.2 is in stable maintenance mode. An Asana Form has been created as part of standard post-flight process to capture aircraft and equipment issues, automatically routing them to Fleet Maintenance (hardware) or appropriate software projects (SwiftCore 3.3 for software issues).
 
 **Key technical areas addressed in completed work**:
 - **Flight safety systems**: Voltage monitoring, propulsion failure detection, landing protocols, static pressure failure detection, watchdog timers for GNSS and dynamic pressure
@@ -51,4 +50,4 @@ This is a critical maintenance project for BST's core autopilot technology (Swif
 - **Landing & Propulsion Systems**: Landing detection enhancements for propulsion loss scenarios, landing flare behavior on engine failure, flight plan synchronization improvements
 - **Data Logging & Monitoring**: Power-on and system initialization packet logging, static pressure stabilization, GNSS reliability with watchdog monitoring
 
-The project shows strong engineering discipline with hotfix branch tracking and multi-platform testing requirements for each fix. The high completion rate and "Ready for Testing" status of remaining tasks indicates stable maintenance phase. All 3 open tasks are awaiting testing—no blockers or critical issues identified.
+The project shows strong engineering discipline with hotfix branch tracking and multi-platform testing requirements for each fix. All 3 open tasks are awaiting testing with no identified blockers or critical issues.

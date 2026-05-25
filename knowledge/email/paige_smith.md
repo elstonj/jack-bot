@@ -1,10 +1,10 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,800 (1,786 previous + 14 new)
-- **Date range:** March 24 – May 24, 2026 (62 days)
-- **Approximate volume:** ~29.0 messages per day (sustained consistency)
-- **Pattern:** New 14-message sample (May 23–24) continues **sustained ~80–85% automated/newsletter-driven baseline**. Clustering on May 23 (10:05–21:02 UTC, 13 messages), with late-night continuation May 24 (02:21 UTC). Consistent with professional intelligence aggregation + continuous platform notifications + promotional/operational tooling + **sustained weather/climate finance tracking + emerging professional visibility signals**.
+- **Total messages scanned:** 1,809 (1,800 previous + 9 new)
+- **Date range:** March 24 – May 25, 2026 (63 days)
+- **Approximate volume:** ~28.7 messages per day (sustained consistency)
+- **Pattern:** New 9-message sample (May 24–25) continues **sustained ~80–85% automated/newsletter-driven baseline**. Clustering on May 24 (10:52–21:15 UTC, 8 messages). Consistent with professional intelligence aggregation + continuous platform notifications + promotional/operational tooling + **sustained weather/climate finance tracking + professional visibility signals + emerging financial services monitoring**.
 
 ---
 
@@ -23,49 +23,43 @@
    - (No new messages in this sample; pattern sustained from May 22.)
    - **Last activity:** Firmware release responses to Daniel Prendergast (2 messages, May 22, 13:45–14:23 UTC).
 
+4. **Joshua Baer / STATION Austin** (media@blackswifttech.com) — **NEW/ELEVATED/COMMUNITY & ENTREPRENEURSHIP HUB ENGAGEMENT**:
+   - **1 new message (May 24, 14:02 UTC)**:
+     - **Weekly event briefing (1)**: "This Week at STATION Austin 🚀 5/25 - 5/29" (May 24, 14:02 UTC, IMPORTANT) — **Community hub programming/networking events. Routed through BST media address; likely company-wide or Paige-specific interest in Austin startup/innovation ecosystem**.
+   - **Signal: NEW SIGNAL. STATION Austin represents potential BST community engagement, Austin tech ecosystem participation, or geographic operational relevance (Austin headquarters or field operations base)**.
+
 ### Top External Senders (Updated)
 
-1. **The New York Times** (editorpicks, nytdirect, nytimes@e.newyorktimes.com) — **SUSTAINED VERY HIGH/POLITICAL, CULTURAL & ENVIRONMENTAL CONTENT PATTERN**:
-   - **3 new messages (May 23, 10:05–21:02 UTC)**:
-     - **Weather/climate content (1)**: "The Morning: Change in the weather" (May 23, 10:05 UTC, IMPORTANT) — **Consistent El Niño/climate monitoring**.
-     - **Political content (1)**: "The Democratic Senate candidate who defies easy categorization" (May 23, 12:02 UTC) — **Sustained governance/electoral tracking**.
-     - **Entertainment/culture content (1)**: "The best of 'S.N.L.' this season" (May 23, 21:02 UTC) — **Light cultural content**.
-   - **Cumulative signal: SUSTAINED pattern of political/governance + environmental/weather content marked IMPORTANT. Daily weather briefing pattern evident**.
+1. **The New York Times** (editorpicks, nytdirect, nytimes@e.newyorktimes.com) — **SUSTAINED VERY HIGH/POLITICAL, CULTURAL, ENVIRONMENTAL & FINANCIAL CONTENT PATTERN**:
+   - **4 new messages (May 24, 10:52–21:15 UTC)**:
+     - **Morning briefing (1, IMPORTANT)**: "The Morning: Colbert's connection" (May 24, 11:31 UTC) — **Daily news digest continuation**.
+     - **Personal finance/retirement content (2, IMPORTANT)**: 
+       - "Retirees expect their home to be a financial safety net. They shouldn't." (May 24, 12:01 UTC) — **Sustained wealth/retirement planning tracking**.
+       - "A personal finance star on what millennials need from their boomer parents" (May 24, 21:15 UTC) — **Intergenerational wealth/financial guidance content**.
+     - **Cumulative signal: SUSTAINED pattern of financial literacy + retirement/wealth planning + daily political briefings marked IMPORTANT. Emerging strong personal finance focus alongside previous climate/political tracking**.
 
 2. **LinkedIn** — **SUSTAINED ELEVATION & ACTIVE ENGAGEMENT/PROFILE VISIBILITY & PROFESSIONAL NETWORK GROWTH**:
-   - **4 new messages (May 23–24, 00:59–16:59 UTC)**:
-     - **Profile visibility metrics (2, CRITICAL SIGNAL)**: 
-       - "Your profile is popular - 16 search appearances" (May 23, 16:59 UTC, IMPORTANT) — **Active professional visibility surge**.
-       - "13 people looked at your profile" (May 23, 14:59 UTC, IMPORTANT) — **Sustained profile interest**.
-     - **Social engagement (1, ELEVATED)**: "Zach Carrizales commented on John D. Bailey's post: Awesome! Congratulations..." (May 24, 02:21 UTC, IMPORTANT) — **Active LinkedIn social/professional network engagement**.
-     - **Connection invitations (1)**: "Paige, add Jyoti G." (May 23, 00:59 UTC) — **Ongoing network expansion**.
-     - **Job listings (1)**: "Marketing Assistant (Remote) role paying up to $25 / hour" (May 23, 18:59 UTC) — **Sustained job feed; entry-level marketing focus**.
-   - **Signal: ELEVATED PROFILE VISIBILITY & ACTIVE PROFESSIONAL NETWORK ENGAGEMENT. Paige's LinkedIn profile generating significant inbound interest (16 search appearances, 13 profile views in recent period). Social engagement pattern (commenting on John D. Bailey's congratulatory post) suggests active community participation. Environmental consulting inquiry signal from previous batch sustained context**.
+   - **1 new message (May 25, 02:59 UTC)**:
+     - **Company activity monitoring (1, IMPORTANT)**: "PteroDynamics Inc. recently posted" (May 25, 02:59 UTC) — **CRITICAL SIGNAL: Active monitoring of PteroDynamics social/professional activity. PteroDynamics is drone/aerospace manufacturer (potential competitor, partner, or client interest to BST)**.
+   - **Signal: ELEVATED COMPANY INTELLIGENCE TRACKING. PteroDynamics monitoring represents market/competitive intelligence interest aligned with BST's UAS/aerospace operations**.
 
-3. **Air & Space Forces Magazine / Mitchell Institute** — **SUSTAINED/ELEVATED/MILITARY & SPACE OPERATIONS MONITORING**:
-   - **1 new message (May 23, 04:39 UTC)**:
-     - **Aerospace operations report (1)**: "✈️ Epic Fury Lessons Learned: Lt Gen 'Kooler' Krumm, USAF (Ret.) - Aerospace Advantage 291" (May 23, 04:39 UTC) — **Military air operations tactical insights/historical case study**.
-   - **Signal: SUSTAINED military/space intelligence monitoring with focus on tactical/operational lessons learned**.
+3. **The Athletic Pulse** — **SUSTAINED/EMERGING BUSINESS INTELLIGENCE & FINANCIAL MARKETS**:
+   - **1 new message (May 24, 10:52 UTC)**:
+     - **Sports betting/prediction markets (1, IMPORTANT)**: "Can anyone stop Sinner?" (May 24, 10:52 UTC) — **Continued sports/prediction market content. Sustained signal from May 23 betting scandal alert; emerging pattern of sports betting + financial prediction intelligence**.
+   - **Signal: SUSTAINED emerging pattern of prediction markets + sports betting/financial systems monitoring**.
 
-4. **Inside Climate News** — **NEW/ELEVATED/CLIMATE & EXTREME WEATHER TRACKING**:
-   - **1 new message (May 23, 10:13 UTC)**:
-     - **Wildfire/nuclear site infrastructure alert (1, IMPORTANT)**: "A former nuclear reactor and rocket testing site is in the path of the growing Sandy Fire" (May 23, 10:13 UTC) — **CRITICAL SIGNAL: Active monitoring of climate-driven infrastructure risk at nuclear/aerospace facilities. Sandy Fire wildfire escalation tracking. Potential BST operational relevance (extreme environment operations, critical infrastructure resilience)**.
-   - **Signal: NEW ELEVATED PRIORITY. Climate News represents emerging signal channel for infrastructure risk + extreme weather monitoring aligned with BST's operational domains**.
+4. **USAA** (jpjackpowel4@googlemail.com) — **NEW/ELEVATED/PERSONAL FINANCIAL SERVICES & SECURITY ALERT**:
+   - **2 new messages (May 24, 12:26 UTC)**:
+     - **Account security alerts (2, IMPORTANT)**: 
+       - "Account Access Deactivated" (May 24, 12:26 UTC, IMPORTANT) — **Account security event**.
+       - "USAA Debit: Act Now" (May 24, 12:26 UTC) — **Urgent debit card/account action required**.
+   - **Sender anomaly:** From non-standard USAA email (jpjackpowel4@googlemail.com) sent to undisclosed-recipients (mass distribution pattern); **potential phishing/spoofed emails or legitimate USAA bulk security notification**. **FLAG: Unusual sender domain for USAA communications**.
+   - **Signal: NEW. Personal financial account security activity. May indicate account compromise investigation, fraud monitoring, or banking alert legitimacy requires verification**.
 
-5. **WPBeginner / WordPress Ecosystem** — **SUSTAINED/OPERATIONAL/TECHNICAL TOOLING**:
-   - **1 new message (May 23, 14:15 UTC)**:
-     - **WordPress 7.0 release notification (1, IMPORTANT)**: "WordPress 7.0 just shipped (and one feature shocked me 😱)" (May 23, 14:15 UTC) — **Web platform/CMS tooling updates**. Likely related to BST website/content infrastructure or broader web operational awareness.
-   - **Signal: Sustained technical tooling intelligence; WordPress ecosystem participant/monitor**.
-
-6. **The Athletic Pulse** — **NEW/ELEVATED/EMERGING BUSINESS INTELLIGENCE**:
-   - **1 new message (May 23, 10:16 UTC)**:
-     - **Betting/financial manipulation scandal alert (1, IMPORTANT)**: "A very modern betting scandal" (May 23, 10:16 UTC) — **NEW SIGNAL: Financial systems integrity + prediction markets monitoring (aligned with previous Kalshi, Cuba financial tracking from earlier batch). Sports betting fraud/market manipulation intelligence**.
-   - **Signal: NEW. Emerging pattern of financial markets/prediction systems monitoring + regulatory/fraud detection interest**.
-
-7. **Space Agenda** — **NEW/INDUSTRY CALENDAR & EVENT TRACKING**:
-   - **1 new message (May 23, 13:52 UTC)**:
-     - **Space industry events aggregation (1)**: "SpaceAgenda, 400+ space industry events in one calendar" (May 23, 13:52 UTC, sent to info@blackswifttech.com) — **Industry event tracking resource. Routed to BST company address, likely accessible to Paige**.
-   - **Signal: NEW. Space industry event intelligence aggregation aligned with military/aerospace/UAS focus**.
+5. **ShopAFA** (shopafa@afa.org) — **NEW/OPERATIONAL/AIR FORCE ASSOCIATION MERCHANDISE & COMMUNITY**:
+   - **1 new message (May 24, 12:31 UTC)**:
+     - **Promotional sale (1, IMPORTANT)**: "15% Storewide Sale: Don't Miss It!" (May 24, 12:31 UTC) — **Air Force Association retail/merchandise promotion. Suggests AFA membership or organizational affiliation**.
+   - **Signal: NEW. AFA community membership/engagement consistent with military/aerospace professional identity**.
 
 ---
 
@@ -73,4 +67,14 @@
 
 ### Recurring Subject Line Themes (Updated)
 1. **Software/Firmware Releases** — "Latest Stable Binary", "WordPress 7.0" (release cycle tracking)
-2. **Political/Governance/
+2. **Political/Governance/Electoral Content** — "Democratic Senate candidate", "Colbert's connection" (daily news briefings)
+3. **Personal Finance/Wealth Planning** — "Retirees expect their home...", "Personal finance star", "boomer parents" (retirement + intergenerational wealth)
+4. **Weather/Climate/Infrastructure Risk** — "Change in the weather", "Sandy Fire", nuclear/aerospace facility vulnerability
+5. **Sports/Prediction Markets** — "Can anyone stop Sinner?", "betting scandal" (prediction market monitoring)
+6. **Aerospace/Defense Intelligence** — "Epic Fury Lessons Learned", "PteroDynamics" activity
+7. **Community/Entrepreneurship Events** — "STATION Austin" programming
+8. **Professional Visibility** — LinkedIn profile searches, profile views, connection invitations
+
+### External Organizations & Entities (Updated)
+- **The New York Times** (SUSTAINED VERY HIGH) — political, climate, personal finance content
+- **LinkedIn** (SUSTAINED ELEVATION) — professional network, company intelligence (PteroD

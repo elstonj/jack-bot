@@ -106,7 +106,7 @@
 
 **Notes:**
 - All contact information verified and consistent across existing and new data; no conflicts detected
+- New data import confirms all 17 roster entries with no additions or removals
 - Three team members remain unclassified; recommend reaching out to leadership for role clarification
 - BST maintains an engineering-focused organization with balanced technical and administrative support
-- No roster changes detected; directory is current and stable
-- All 17 entries accounted for (15 employees + 2 service accounts)
+- Directory is current and stable as of latest sync

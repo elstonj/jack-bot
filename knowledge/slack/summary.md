@@ -1,47 +1,42 @@
 # Slack Channels Overview
 
-Last scanned: 2026-05-24 02:10
+Last scanned: 2026-05-25 02:16
 
 Total channels scanned: 2
 
 ## Channels
 
-- **#emass-bst** -- 2 messages -- [emass-bst.md](emass-bst.md)
-- **#s3** -- 1 messages -- [s3.md](s3.md)
+- **#emass-bst** -- 3 messages -- [emass-bst.md](emass-bst.md)
+- **#flight-testing** -- 1 messages -- [flight-testing.md](flight-testing.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Cross-Channel Strategic Overview
+# Black Swift Technologies - Strategic Slack Overview
 
-## Active Projects
+## Cross-Channel Summary
 
-**S3 VTOL Aircraft Development**
-- Long-endurance hybrid fixed-wing/quadcopter with tilting rotors
-- Target: 2-3 hour endurance with autonomous flight operations
-- Status: Active development phase with design and firmware work underway
+### Active Projects
+- **ECSDoT Integration onto E2 Aircraft**: Primary focus in #emass-bst; hardware energy management system being integrated with AI model training
+- **Multi-Platform Flight Testing**: #flight-testing covers S-series, multirotor (E2, Flamewheel), and VTOL (S0, S1-VTOL, S3) aircraft testing and firmware development
 
-**E2 Aircraft + ECSDoT Integration**
-- Energy management system hardware (ECSDoT) integration onto E2 platform
-- Focus: Software development, hardware integration, testing, and AI model training
-- Status: Active collaboration between BST and eMASS AI
+### Key People & Roles
+| Person | Primary Role | Channels |
+|--------|-------------|----------|
+| **Jack Elston** | Autopilot/simulation expertise + firmware development | #emass-bst, #flight-testing |
+| **Nikhila** (eMASS AI) | Chip integration & AI model implementation | #emass-bst |
+| **Maciej** | Lead flight testing & analysis | #flight-testing |
+| **Joshua Fromm** | QA & component sourcing | #flight-testing |
+| **Ben Busby** | (role incomplete) | #flight-testing |
 
-## Key Personnel & Roles
+### Connection Points
+- **Jack Elston** bridges both channels, linking autopilot/simulation work with flight test operations
+- **E2 aircraft** appears in both contexts: integration testing site (#emass-bst) and operational platform (#flight-testing)
+- Hardware-software integration spans both: ECSDoT chip integration and firmware development across platforms
 
-| Person | Role | Channels |
-|--------|------|----------|
-| Joshua Fromm | Lead Engineer/Designer | #s3 |
-| Jack Elston | Systems Architect/Firmware (S3); Autopilot/Simulation Expert | #s3, #emass-bst |
-| Sam Hild | Firmware Development | #s3 |
-| Maciej | Project Oversight/Testing/Control Systems | #s3 |
-| Nikhila (eMASS AI) | Primary Developer - Chip Integration & AI Models | #emass-bst |
+### Decision Patterns & Recurring Topics
+- **#emass-bst**: Technical integration challenges, chip/hardware compatibility, AI model training validation
+- **#flight-testing**: Troubleshooting, firmware updates, QA/component verification, multi-platform fleet coordination
 
-## Cross-Channel Connections
-
-- **Jack Elston** serves as technical bridge between S3 hardware/firmware development and E2/ECSDoT integration efforts
-- Both projects involve **firmware/software development** as critical path items
-- Both projects have **hardware integration** requirements (tilting rotors/power systems vs. energy management hardware)
-- Shared expertise areas: **autonomy, control systems, and testing protocols**
-
-## Decision Patterns & Recurring Topics
-
-*(Insufficient detail in provided summaries to identify specific patterns)*
+### Gaps
+- Limited visibility into #flight-testing participant details (Ben Busby's role incomplete)
+- No apparent cross-channel status synchronization mechanism visible

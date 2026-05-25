@@ -2,11 +2,11 @@
 
 ## Overview
 - **Client/Customer:** Department of the Navy (NAVAIR, NAWCAD)
-  - TPOC: Angel Ruiz-Reyes, Physicist, Advanced Technology Development Department
+  - **TPOC:** Angel Ruiz-Reyes, Physicist, Advanced Technology Development Department
     - Email: angel.r.ruiz-reyes.civ@us.navy.mil
     - Phone: (240) 587-9542
     - Address: NAWCAD, 22347 Cedar Point Road, Bldg. 2185, Patuxent River, MD 20670
-  - Secondary Contact: Anthony Brescia, Avionics Engineering S&T Domain Lead
+  - **Secondary Contact:** Anthony Brescia, Avionics Engineering S&T Domain Lead
     - Email: anthony.d.brescia.civ@us.navy.mil
     - Phone: (240) 538-5265
 - **Dollar Value:** $242,540 total budget
@@ -21,7 +21,7 @@
   - **Project kicked off:** April 21–22, 2026
   - **Key Upcoming Dates:**
     - **Build up ground testing S0-MAD: May 19, 2026** (Alex Lomis) — in progress
-    - **Ground testing execution: May 22, 2026** (Alex Lomis) — **ACTIVE, currently in Asana as 1 open task**
+    - **Ground testing execution: May 22, 2026** (Alex Lomis) — **ACTIVE, 1 open task**
     - Finalize Camp Pendleton permissions & frequencies: Jun 1, 2026 (Beck Cotter)
     - S0-AD launcher design: Jun 5, 2026 (Alex Lomis)
     - Build hand-launched S0-MAD: Jun 12, 2026 (Alex Lomis)
@@ -31,19 +31,20 @@
     - Finalize Camp Pendleton flight plans & aircraft: Aug 10, 2026 (Alex Lomis)
     - **Camp Pendleton demo flights: Sep 14–25, 2026** (Alex Lomis)
     - CLIN 0007 (Final Report): Sep 28, 2026 (Jack Elston / Meredith O'hara Needham)
-- **Status:** **Active – Option Period in execution.** Per internal feedback (May 6–11, 2026): "mostly on schedule" (Maciej Stachura, Jack Elston). **PRIORITY CONTEXT:** Navy STTR has priority over this SBIR as of May 2026 (Jack Elston, May 8 & 11). S3 IRAD, S0-VTOL, EMASS closure, and By-Lite Mustang also higher priority (Maciej Stachura, Apr 24 & 30).
+- **Status:** **Active – Option Period in execution, mostly on schedule.** Per team feedback (Maciej Stachura, May 6 & Jack Elston, May 8–11, 2026): "mostly caught up" and "mostly on schedule." **PRIORITY CONTEXT:** Navy STTR has priority over this SBIR as of May 2026 (Jack Elston, May 8 & 11). S3 IRAD, S0-VTOL, EMASS closure, and By-Lite Mustang also higher priority (Maciej Stachura, Apr 30). Team bandwidth constrained.
 - **Team Members:**
   - Alex Lomis (PM/Owner, technical lead for builds & flights)
   - Jack Elston (technical lead, onboard logging & final reporting)
   - Maciej Stachura (Python tools, sensor configuration)
-  - Beck Cotter (Camp Pendleton coordination, UK Navy EOI)
+  - Beck Cotter (Camp Pendleton coordination)
   - Meredith O'hara Needham (administrative, invoicing, FWA certification)
   - Dan Prendergast (support)
 - **Risk Signals:**
-  - **Navy STTR now higher priority** (Jack Elston, May 11, 2026): Navy STTR has priority over this SBIR project. Team bandwidth constrained.
+  - **Navy STTR now higher priority** (Jack Elston, May 11, 2026): Team bandwidth constrained.
   - **Compressed timeline:** Option period (6.5 months) to complete design → build → ground test → hand-launched flights → Camp Pendleton demo + three Navy reports.
   - **Critical external dependency:** Camp Pendleton permissions & frequencies (Beck Cotter, due Jun 1) must be secured before demo logistics finalized (Aug 10).
   - **New launcher development:** S0-AD ground launcher is on critical path (design due Jun 5, build/test due Jun 15) — adds scope beyond original magnetometer integration.
+  - **Several near-term milestones with May 2026 due dates** — verify completion status given team's shifting priorities.
 
 ## Key Deliverables & Milestones
 
@@ -62,17 +63,14 @@
 | Complete design of ground testing S0-MAD (both mags) | Alex Lomis | Apr 27, 2026 | ✓ **COMPLETED** |
 | Preliminary design mods for reusable S0-MAD | Alex Lomis | May 1, 2026 | ✓ **COMPLETED** |
 | Order parts for S0-MAD reusable | Alex Lomis | May 5, 2026 | ✓ **COMPLETED** |
-| Design onboard logging (both mag sensors) | Jack Elston | May 8, 2026 | ✓ **LIKELY COMPLETED** (status updated May 6 per team feedback) |
-| Finalize Python plotting/analysis tools | Maciej Stachura | May 13, 2026 | ✓ **LIKELY COMPLETED** |
-| Settings for both Mag Sensors | Maciej Stachura | May 18, 2026 | ✓ **LIKELY COMPLETED** |
-| **Build up ground testing S0-MAD** | **Alex Lomis** | **May 19, 2026** | **IN PROGRESS** | Due before May 22 ground testing execution |
-| **Conduct ground testing with different throttle settings** | **Alex Lomis** | **May 22, 2026** | **ACTIVE** | 1 open task in Asana |
-| S0-AD launcher design | Alex Lomis | Jun 5, 2026 | **PENDING** | Critical path item |
-| Build hand-launched S0-MAD | Alex Lomis | Jun 12, 2026 | **PENDING** |
-| S0-AD launcher build & test | Alex Lomis | Jun 15, 2026 | **PENDING** |
-| Local test flights (hand-launched) | Alex Lomis | Jul 1, 2026 | **PENDING** |
-| Finalize Camp Pendleton flight plans & aircraft | Alex Lomis | Aug 10, 2026 | **PENDING** | Dependent on Beck's Jun 1 permissions/frequencies |
-| **Camp Pendleton demo flights** | **Alex Lomis** | **Sep 14–25, 2026** | **PENDING** | Final technical demonstration |
-
-## Task Summary
-- **Total tasks in Asana:** 1 open, 0 completed
+| Design onboard logging (both mag sensors) | Jack Elston | May 8, 2026 | ✓ **LIKELY COMPLETED** (per team feedback May 6) |
+| Finalize Python plotting/analysis tools | Maciej Stachura | May 13, 2026 | ✓ **LIKELY COMPLETED** (per team feedback May 6) |
+| Settings for both Mag Sensors | Maciej Stachura | May 18, 2026 | **OPEN TASK** | May 18 due date in Asana |
+| **Build up ground testing S0-MAD** | **Alex Lomis** | **May 19, 2026** | **OPEN TASK** | Critical path; due before May 22 ground testing execution |
+| **Conduct ground testing with different throttle settings** | **Alex Lomis** | **May 22, 2026** | **OPEN TASK** | 1 open task in Asana; active execution |
+| S0-AD launcher design | Alex Lomis | Jun 5, 2026 | **OPEN TASK** | Critical path item |
+| Build hand-launched S0-MAD | Alex Lomis | Jun 12, 2026 | **OPEN TASK** |
+| S0-AD launcher build & test | Alex Lomis | Jun 15, 2026 | **OPEN TASK** |
+| Finalize Camp Pendleton permissions & frequencies | Beck Cotter | Jun 1, 2026 | **OPEN TASK** | Blocker for Aug 10 logistics finalization |
+| Local test flights (hand-launched) | Alex Lomis | Jul 1, 2026 | **OPEN TASK** |
+| Finalize Camp Pendleton flight plans

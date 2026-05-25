@@ -33,19 +33,19 @@
         "amount": 33115.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-24"
+        "last_updated": "2026-05-25"
       },
       "purchases": {
         "amount": 185.15,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-05-24"
+        "last_updated": "2026-05-25"
       },
       "other_qbo": {
         "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-05-24"
+        "last_updated": "2026-05-25"
       },
       "total": 33300.15,
       "by_line_item": {}
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": 209239.85,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-24T08:54:03Z"
+    "last_reconciled": "2026-05-25T08:59:30Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -99,24 +99,6 @@
     },
     {
       "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-04-24",
-      "text": "From Maciej: <@U0AQE94HJUT> our highest priority projects right now are: (1) S3 IRAD with a targeted delivery of end of May for the UMES S3, (2) S0-VTOL with two deliveries for ERAU and Barbados, (3) Closing out EMASS, (4) By-Lite Mustang, and (5) Initial tasks on the SBIR Magnetometer project. How are we looking on overdue tasks for those?"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-05-06",
-      "text": "From Maciej (ts=1778079465.330239): <@U0AQE94HJUT>, the Navy SBIR is mostly caught up, I just updated Asana. Also, I'm updating tasks for the Navy STTR which will be a higher priority this month, so make sure to mention that tomorrow"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-05-06",
-      "text": "From Maciej: <@U0AQE94HJUT>, the Navy SBIR is mostly caught up, I just updated Asana. Also, I'm updating tasks for the Navy STTR which will be a higher priority this month, so make sure to mention that tomorrow"
-    },
-    {
-      "source": "FEEDBACK",
       "author": "Jack",
       "date": "2026-05-11",
       "text": "From Jack (ts=1778249224.812399): <@U0AQE94HJUT> correction: the navy sttr has priority, the SBIR is mostly on schedule"
@@ -132,8 +114,20 @@
       "author": "Jack",
       "date": "2026-05-08",
       "text": "From Jack: <@U0AQE94HJUT> correction: the navy sttr has priority, the SBIR is mostly on schedule"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-05-06",
+      "text": "From Maciej (ts=1778079465.330239): <@U0AQE94HJUT>, the Navy SBIR is mostly caught up, I just updated Asana. Also, I'm updating tasks for the Navy STTR which will be a higher priority this month, so make sure to mention that tomorrow"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-05-06",
+      "text": "From Maciej: <@U0AQE94HJUT>, the Navy SBIR is mostly caught up, I just updated Asana. Also, I'm updating tasks for the Navy STTR which will be a higher priority this month, so make sure to mention that tomorrow"
     }
   ],
-  "last_full_rebuild": "2026-05-24T08:54:03Z",
+  "last_full_rebuild": "2026-05-25T08:59:30Z",
   "last_incremental_update": null
 }

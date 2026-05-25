@@ -28,7 +28,7 @@
 - **Primary assignees**:
   - **Jack Elston**: Led most technical flight operations, flight control algorithm troubleshooting, GCS/HDOB integration, wind estimation fixes, sensor QC, magnetometer calibration, MHTP development and hardware verification
   - **Josh Fromm**: Project management, QC/final assembly coordination, weekly status updates, manufacturing coordination, housing installation, sealing, MHTP mechanical assembly, deployment tube and adhesive promoter investigations
-  - **Dan Prendergast**: Flight algorithm testing and validation, eyewall following algorithm development (completed 2024-02-27)
+  - **Dan Prendergast**: Flight algorithm testing and validation, eyewall following algorithm development (completed 2024-02-27), center fix algorithm (completed 2024-06-05)
   - **Maciej Stachura**: Flight control algorithms, vertical wind bias correction, pitot tube diagnostics, code updates with wind tunnel calibrations and real-time wind estimation, MHTP firmware development and testing
   - **Ben Busby**: Flight operations, preflight checklist procedures, path planning optimization
   - **Meredith O'hara Needham**: Manufacturing (MHTP modules), shipping coordination, sensor management
@@ -53,6 +53,7 @@
 
 **MHTP & Algorithm Deliverables (2023-2024)**:
 - **Eyewall Following Algorithm** (Dan Prendergast, Due: 2024-02-16, Completed: 2024-02-27) — Two primary modules explored: "eyewall" and "inflow" modules, with UAS launched in hurricane eye and directed toward eyewall for evaluation
+- **Center Fix Algorithm** (Dan Prendergast, Due: 2024-05-31, Completed: 2024-06-05)
 - **Adhesive Promoter Investigation** (Josh Fromm, Due: 2024-02-16, Completed: 2024-02-01) — Minimum Viable task, focused on membrane adhesive solutions
 
 **Earlier Project Milestones (2023)**:
@@ -76,13 +77,13 @@
 - S0 UAS systems (12 units delivered)
 - Custom MHTP (hurricane research payload) for Altius 600 platform
 - Scientist-facing web-based GUI for data review
-- Eyewall following algorithm module for autonomous hurricane reconnaissance
+- Eyewall following and center fix algorithm modules for autonomous hurricane reconnaissance
 - Tablet-based field operations interface
 
 **Technical Focus**: Hurricane data collection and reconnaissance using specialized UAS with:
 - Wind measurement capabilities (HDOB integration)
 - Vertical wind estimation algorithms
-- Autonomous mission planning for tropical cyclone research including eyewall following
+- Autonomous mission planning for tropical cyclone research including eyewall following and center fix
 - Real-time data transmission and GCS integration
 - RS421 sensor interface for robust data transmission in harsh conditions
 - Dynamic pressure measurement with raw sensor data logging for clog mitigation in precipitation
@@ -90,7 +91,7 @@
 **Key Technical Achievements**:
 - Successful HDOB integration with GCS and Area-I computer
 - Wind estimation algorithm refinement including real-time capability and vertical wind bias correction
-- Eyewall following algorithm development for autonomous reconnaissance in hurricane eye
+- Eyewall following and center fix algorithm development for autonomous reconnaissance in hurricane eye
 - Robust flight termination logic and failsafe procedures
 - Multi-system coordination (S0 UAS with P3 aircraft altitude separation protocols)
 - Deployment tube and adhesive promoter solutions for payload integration
@@ -113,5 +114,4 @@
 ## Related Opportunities & Initiatives (as of May 2026)
 
 **NASA RFI - Hurricane ET (Environmental Tracking)**
-- **Recommendation**: NASA contacts and Dr. Joe Cione (NOAA/project GPC) recommended BST investigate this opportunity (Alex Lomis, 4/17/26)
-- **RFI Link**: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/
+- **Recommendation**: NASA contacts and Dr. Joe Cione (NOAA/project GPC) recommended BST investigate this

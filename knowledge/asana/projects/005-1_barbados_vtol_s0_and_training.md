@@ -10,47 +10,48 @@
   - S0 VTOL handoff meeting: June 23, 2026
   - Operator training delivery: July 1–4, 2026
   - Sabu Best availability for preliminary materials review: week of May 5, 2025
-- **Status:** **CRITICAL DELAY** — Original due date (Oct 2024) passed. As of late April 2026, **S0-VTOL has an active crash bug under investigation** (week of April 20, 2026); restart and flight tests in progress. **Bench test work overdue as of 2026-04-24** ("Visual Observation Bench Test"); "Instrumented Bench Test" due by Thursday following 2026-04-24 (Maciej Stachura, 2026-04-24 & 2026-04-30). S0 VTOL delivery blocker threatens May 22 handoff date. Operator training unassigned with no due date. Major deliverables remain open.
-  - **Per Maciej Stachura (2026-04-30 & 2026-05-04):** S0-VTOL is ranked #2 among top 5 BST company priorities: (1) S3 IRAD with end-of-May delivery target; (2) **S0-VTOL (two deliveries: ERAU and Barbados)**; (3) EMASS closeout; (4) By-Lite Mustang; (5) SBIR Magnetometer.
+- **Status:** **CRITICAL DELAY — ACTIVE CRISIS**
+  - **S0-VTOL crash bug under active investigation and repair** (week of April 20, 2026); flight test restart in progress
+  - **Bench test work overdue as of April 24, 2026:** "Visual Observation Bench Test" overdue; "Instrumented Bench Test" due by Thursday following April 24 (Maciej Stachura, April 24 & 30, 2026)
+  - May 22, 2026 delivery deadline at imminent risk; threatens June 23 handoff and July 1–4 training dates
+  - **Per Maciej Stachura (April 30 & May 4, 2026):** S0-VTOL ranked #2 company priority (after S3 IRAD, tied with ERAU S0-VTOL delivery); requires realistic Asana due date update post-ByLight meeting
+  - Operator training unassigned with no due date despite July 1–4 travel commitment and 6 trainees
+  - **902–928 MHz ISM band interference risk flagged by Barbados Prime Minister's Office** — requires verification before operational deployment
 - **Team Members:** Alex Lomis (owner), Beck Cotter (delivery lead), Jack Elston (handoff/training lead), Maciej Stachura (technical troubleshooting), Daniel Prendergast (support)
 - **Risk Signals:** 
-  - **S0 VTOL crash bug—active repair in progress** (week of 2026-04-20); flight test restart on critical path
-  - **Bench test work overdue as of 2026-04-24** ("Visual Observation Bench Test"); "Instrumented Bench Test" due by Thursday following 2026-04-24 (Maciej Stachura, 2026-04-24 & 2026-04-30)
-  - May 22, 2026 handoff due date at imminent risk if crash bug repair extends
-  - Ground station asset scarcity flagged by Jack Elston (2026-04-20): "depending on timeline we might be able to shift some older ground stations from the S0-VTOL kits. (I hate to do that, but might be best)." — signal that hardware may be reprioritized if timeline slips further
-  - Operator training unassigned and without due date despite July 1–4, 2026 travel commitment
-  - NDAA compliance not finalized; per Alex Lomis (2026-04-17), S0 VTOL, S0 AD, and E2 "can be" compliant but not "fully" compliant yet
-  - **902–928 MHz ISM band interference risk flagged by Barbados Prime Minister's Office** — S0 VTOL uses Microhard P900 radio (FCC ID: NS913P900, IC ID: 3143A-13P900, PN: MHS185000) operating in unregulated ISM band with frequency-hopping (200 kHz channels); **requires verification before operational deployment** to confirm mitigation of interference risk
+  - **S0 VTOL crash bug—active repair in progress; flight test restart on critical path**
+  - **Bench test work overdue (Visual Observation); Instrumented Bench Test due mid-week of May 5, 2026**
+  - May 22 handoff due date at critical risk if crash bug repair extends beyond next 1–2 weeks
+  - Ground station asset scarcity flagged by Jack Elston (April 20, 2026): potential hardware reprioritization if timeline slips
+  - **Operator training unassigned and without formal due date** despite imminent July travel and 6-person commitment
+  - NDAA compliance not finalized; per Alex Lomis (April 17, 2026), S0 VTOL "can be" compliant but not "fully" compliant yet
+  - **Radio interference risk in 902–928 MHz ISM band (Microhard P900, frequency-hopping 200 kHz channels) not yet verified**
 
 ## Key Deliverables & Milestones
 
 | Deliverable | Assignee | Due Date | Status | Notes |
 |---|---|---|---|---|
-| **Deliver S0 VTOL to Barbados** | Beck Cotter | 2026-05-22 | ⚠️ **CRITICAL BLOCKER** | Crash bug under active investigation and repair (week of 2026-04-20); flight test restart in progress. **Bench test work overdue as of 2026-04-24** ("Visual Observation Bench Test"); "Instrumented Bench Test" due by Thursday following 2026-04-24 (Maciej Stachura, 2026-04-24 & 2026-04-30). Must complete before handoff. Platform: S0 VTOL; Order Qty: 1. Training/travel needed July 1–4. **Maciej (2026-04-27 & 2026-05-04): Request to update Asana due dates to realistic numbers after ByLight meeting.** |
-| **S0 VTOL Handoff Meeting** | Jack Elston | 2026-06-23 | Open | In-person handoff meeting with Sabu Best and Barbados Meteorological Services. Dependent on Beck Cotter delivery completion. |
-| **Operator Training Materials & Supplies** | *Unassigned* | *No due date* | Open | Training materials and supplies required for operator instruction. Sabu Best available week of May 5, 2025 (for preliminary materials review). Training delivery scheduled July 1–4, 2026. 6 trainees including Junior Brathwaite. **Must assign and finalize curriculum.** Intent: drone to fly east of Barbados into developing storms from tentative launch site Bushy Park. |
-| **Operator Training Delivery** | Jack Elston | 2026-07-01–04 | Open | Training delivery in Barbados. Travel scheduled. 6 trainees. Dependent on S0 VTOL delivery and June 23 handoff. |
-| **Generate NetCDF on UA or Tablet** | Maciej Stachura | *No due date* | Open | Technical requirement for meteorological data collection capability; supports mission objective to intercept developing storms east of Barbados. |
-| **ISM Band Interference Verification** | *Not assigned* | *Not scheduled* | Open | **ACTION REQUIRED:** Verify Microhard P900 frequency-hopping mitigation (200 kHz channels) against interference risk in 902–928 MHz ISM band. Barbados Prime Minister's Office flagged concern. Must complete before operational deployment. |
+| **Visual Observation Bench Test** | Beck Cotter (or support team) | 2026-04-24 | ⚠️ **OVERDUE** | Per Maciej (April 30, 2026): "one overdue task 'Visual Observation Bench Test'"; must catch up before next deliverable. |
+| **Instrumented Bench Test** | Beck Cotter (or support team) | ~2026-05-01 (mid-week following 2026-04-24) | ⚠️ **IN PROGRESS** | Per Maciej (April 24 & 30, 2026): due "by next Thursday" following April 24; blocking S0 VTOL delivery. |
+| **Deliver S0 VTOL to Barbados** | Beck Cotter | 2026-05-22 | ⚠️ **CRITICAL BLOCKER** | Crash bug under active investigation and repair (week of April 20, 2026); flight test restart in progress. Bench tests must complete first. Maciej requested realistic due date update (May 4, 2026) post-ByLight meeting. Platform: S0 VTOL; Order Qty: 1. Training/travel needed July 1–4. |
+| **S0 VTOL Handoff Meeting** | Jack Elston | 2026-06-23 | ⚠️ **At Risk** | In-person handoff with Sabu Best and Barbados Meteorological Services. Dependent on Beck Cotter delivery (May 22) completion. |
+| **Operator Training Materials & Supplies** | *Unassigned* | *No due date* | Open | Training curriculum and materials required for 6 trainees (including Junior Brathwaite). Sabu Best available week of May 5, 2025 (for preliminary materials review). **Must assign and finalize by June 2026.** |
+| **Operator Training Delivery** | Jack Elston | 2026-07-01–04 | ⚠️ **At Risk** | In-person training in Barbados; 6 trainees. Travel scheduled. Mission: operate S0 VTOL east of Barbados to intercept developing storms; tentative launch site Bushy Park. Dependent on S0 VTOL delivery and June 23 handoff. |
+| **Generate NetCDF on UA or Tablet** | Maciej Stachura | *No due date* | Open | Technical requirement for meteorological data collection and analysis; supports mission objective to intercept developing storms. |
+| **ISM Band Interference Verification** | *Not assigned* | *Not scheduled* | Open | **ACTION REQUIRED:** Verify Microhard P900 (FCC ID: NS913P900; 902–928 MHz frequency-hopping, 200 kHz channels) mitigation against interference risk in unregulated ISM band. Barbados Prime Minister's Office flagged concern. Must complete before operational deployment. |
+| **NDAA Compliance Finalization** | *Not assigned* | *Not scheduled* | Open | Per Alex Lomis (April 17, 2026): S0 VTOL "can be" compliant but not "fully" compliant yet. Must resolve before delivery/handoff. |
 
 ## Task Summary
 
-**Total Tasks:** 1 open in Asana; 0 completed
+**Total Tasks:** 4 open; 0 completed
 
 ### By Assignee
-- **Beck Cotter:**
-  - **Barbados S0 VTOL** (open, due 2026-05-22) — **PRIMARY DELIVERY TASK**
-  - Crash bug & flight test restart (week of 2026-04-20) blocking completion
-  - Bench test work overdue as of 2026-04-24; instrumented bench test due by Thursday following 2026-04-24 (Maciej Stachura, 2026-04-24 & 2026-04-30)
-  - Training/travel needed: Yes (July 1–4, 2026)
-  - **Per Maciej (2026-04-27 & 2026-05-04):** After ByLight meeting, update Asana due dates to realistic numbers and notify customer
 
-- **Jack Elston:** 
-  - S0 VTOL handoff meeting: June 23, 2026
-  - Operator training/travel scheduled: July 1–4, 2026
-  - Flagged ground station asset constraints (2026-04-20): "depending on timeline we might be able to shift some older ground stations from the S0-VTOL kits. (I hate to do that, but might be best)."
-  - Per Jack (2026-05-05 & 2026-05-06): Training is part of handoff activities
-
-- **Maciej Stachura:** 
-  - **Generate NetCDF** (open, no due date)
-  - **Active work:** S0-VTOL crash bug diagnosis and flight test restart; bench test status tracking (weeks of 2026-04-20 and 2026-04-24
+| Assignee | Task | Due | Status | Notes |
+|---|---|---|---|---|
+| **Beck Cotter** | Barbados S0 VTOL delivery | 2026-05-22 | ⚠️ CRITICAL | Primary delivery task; crash bug & flight restart blocking. Bench tests overdue/in-progress. Maciej flagged need for realistic due date update (May 4, 2026). Training/travel July 1–4. |
+| **Jack Elston** | S0 VTOL handoff meeting | 2026-06-23 | Open | Dependent on Beck's delivery. Ground station asset constraints flagged (April 20, 2026). Training is part of handoff activities (per Jack, May 5–6, 2026). |
+| **Jack Elston** | Operator training delivery | 2026-07-01–04 | Open | Training for 6 trainees in Barbados; travel scheduled. Dependent on delivery & handoff. |
+| **Maciej Stachura** | Generate NetCDF on UA or Tablet | No due date | Open | Supports meteorological data mission objective. Not yet prioritized. |
+| **Alex Lomis** | Deliver S0 VTOL (secondary task record) | No due date | Open | Duplicate/support task for delivery. Owner-level oversight. |
+| **Unassigned** | Conduct operator training (materials & curriculum) | No due date | **URGENT** | 6 trainees; no assignee; no formal due date despite July travel. Sabu available week of May 5, 2025 for preliminary review.
