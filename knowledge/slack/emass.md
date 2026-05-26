@@ -17,7 +17,7 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 - U0151201DMY (infrastructure/web portal team member)
 - U01511MEQ90 (infrastructure/GCS software support)
 
-**Activity Level:** Ongoing active project spanning November 2025 - May 2026+. Real flight testing commenced April 23-24, 2026. EMASS media release planned for first week of May creating hard deadline. Project in critical evaluation phase following flight test results revealing fundamental navigation deficiencies and control stability issues.
+**Activity Level:** Ongoing active project spanning November 2025 - May 2026+. Real flight testing commenced April 23-24, 2026. EMASS media release planned for first week of May creating hard deadline. Project in critical evaluation phase following flight test results revealing fundamental navigation deficiencies and control stability issues. As of May 25, 2026, project viability assessment underway with three critical technical issues identified that may be insurmountable.
 
 ## Key Decisions
 
@@ -72,10 +72,12 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
   - After 1.5 loops, aircraft breaks off west-to-east leg and heads north without triggering limit violations
   - Multiple controller stop/restart cycles required to regain navigation around pattern
 - Dan Prendergast scheduled meeting with EMASS team (May 22) to discuss results and determine viability
-- **Open Question on Continued Flight Testing:** Dan Prendergast anticipated EMASS may question willingness to fly controller despite navigation failures; acknowledged EMASS likely won't want continued flights as current data is not meaningful for model improvement
-- **Jack Elston Position:** Willing to continue flying; noted yaw heading immaterial to efficiency (controller's lack of rotation actually saves energy), but acknowledged mission requirements necessitate heading changes for sensor and mission accomplishment
-- **Dan Prendergast Response:** Disagreed with Jack's assessment that lack of yaw rotation is acceptable — mission-relevant considerations cannot be ignored
 
 **May 22, 2026:**
 - Dan Prendergast inquired about ECSDOT warning message ("Denied send request, still sending last plan") appearing when ECSDOT powered on; Jack Elston confirmed ECSDOT attempting to send flight plan but doing so incorrectly
-- **Real
+
+**May 25, 2026:**
+- Dan Prendergast solicited U01511MEQ90's technical assessment on three critical issues that may be insurmountable without large effort:
+  1. Log data not recorded at high enough rate to train EMASS controller
+  2. Telemetry through payload interface not at high enough rate to control E2
+  3. Insufficient range of flight data to cover all possible flight conditions, risking out-of-distribution

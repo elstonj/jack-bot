@@ -1,10 +1,13 @@
 # Jack Elston — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,914 (2,900 prior + 14 May 24–25)
-- **Date range:** April 1–May 25, 2026
+- **Total messages scanned:** 2,949 (2,914 prior + 35 May 25–26)
+- **Date range:** April 1–May 26, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **May 24–25 activity:** 14 new messages. **92.8% automated/vendor traffic (13/14 messages are vendor promotions, system notifications, logistics tracking, and billing alerts).** Only 1 human message: Nadia Bryan (Ko Firm) legal diligence response.
+- **May 25–26 activity:** 35 new messages. **91.4% automated/vendor traffic (32/35 messages are vendor promotions, system notifications, logistics tracking, billing alerts, and HR approvals).** 3 human messages of note:
+  - Maciej Stachura (UK MOD contact — Merlin Mk2/US Navy SBIR coordination)
+  - Scott Smyser/Daniel Prendergast (EMASS - BST Project Meeting escalation — multiple resends)
+  - Akshata at Drone Script (elstonj@bst.aero — external vendor/partner escalation marked IMPORTANT)
 
 ---
 
@@ -13,113 +16,96 @@
 ### Top Internal BST Contacts
 
 - **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical partnerships, government coordination, vendor/facility liaison
-  - **Continuing:** Central hub for technical partnerships and vendor integration.
+  - **May 25–26 escalation:** 
+    - E2/ECS-DoT Integration Project Status meeting (Tue May 26, 9am–10am MDT; includes NanoVEU partners: Mark, Scott, Tom Wilp, Mohamed Sabry)
+    - EMASS - BST Project Meeting coordination (multiple resends May 25)
+  - **Continuing:** Central hub for technical partnerships, government programs, and NanoVEU integration.
 
 - **Maciej Stachura** (stachura@blackswifttech.com) — Operations, technical coordination, partnerships
-  - **Continuing:** Multi-dimensional technical and deal operations intensifying.
+  - **May 25 escalation (IMPORTANT):**
+    - "Re: Merlin Mk2/US Navy SBIR" to Simon.Laurence157@mod.gov.uk (UK MOD contact)
+    - **Context:** Active US Navy SBIR program coordination with UK Ministry of Defence contact.
+  - **Continuing:** Multi-dimensional technical and deal operations.
 
 - **Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, operations, partnerships
-  - **May 24–25 signals:**
-    - Receiving vendor/purchasing digest traffic forwarded through purchasing@blackswifttech.com group address (SendCutSend, Spindrift, HeliDirect, Harbor Freight, DigiKey, USPS Informed Delivery, ELEGOO)
-    - Continues as primary purchasing/vendor interface and finance operations lead.
+  - **May 25–26 signals:**
+    - Continuing to receive vendor purchasing digest traffic routed through purchasing@blackswifttech.com (HeliDirect, Battery Junction, Harbor Freight, JawsTec, Speedway Motors)
   - **Continuing:** Vendor relationship management and operational readiness.
 
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — Operations, technical partnerships
-  - **Continuing:** Government program support.
+- **Beck Cotter** — Operations, technical partnerships (no May 25–26 new activity)
 
 ### Top External Contacts
 
-#### **Legal/Disclosure & Deal Structuring (M&A TRANSACTION — CRITICAL PHASE)**
+#### **NanoVEU / E2/ECS-DoT Integration Project (GOVERNMENT PARTNERSHIP — ACTIVE COORDINATION)**
 
-**Ko Firm (Counsel)** — External Legal Team
-- **Nadia Bryan** (nbryan@kofirm.com) — **May 24 escalation (IMPORTANT, UNREAD):**
-  - "RE: FW: Black Swift - Diligence Requests" (May 24, 17:36:58 UTC)
-  - Looped to Meredith Needham and Jack Elston
-  - **Context:** Active M&A diligence request processing. Document pipeline intensifying as deal moves through regulatory/disclosure phase.
+**Scott Smyser** (Scott@nanoveu.com, sssmyse@gmail.com) — NanoVEU Lead/Coordinator
+- **May 25 escalation (IMPORTANT, multiple resends):**
+  - "EMASS - BST Project Meeting" (resent May 25 16:46 UTC from nanoveu.com; original May 25 16:01 UTC; also forwarded from personal gmail May 25 15:34 UTC)
+  - **Context:** High-priority coordination failure/rescheduling. Suggests meeting conflict or technical issue requiring multiple resends.
+
+**Additional NanoVEU Contacts (E2/ECS-DoT Project):**
+- **Mark** (mark@nanoveu.com)
+- **Tom Wilp** (tom.wilp@nanoveu.com)
+- **Mohamed Sabry** (msabry@nanoveu.com) — Also operates as Read AI meeting assistant (read.ai — provides meeting prep/summaries)
+  - **May 25 signals:** Pre-Read meeting preparation for E2/ECS-DoT Integration Project Meeting (Tue May 26, 08:00 AM +08 timezone; also post-meeting report for May 18 meeting)
+
+#### **UK Ministry of Defence / Merlin Mk2 Program (US NAVY SBIR)**
+
+**Simon Laurence** (Simon.Laurence157@mod.gov.uk) — UK MOD Contact
+- **May 25 escalation (IMPORTANT):**
+  - Maciej Stachura to Simon Laurence: "Re: Merlin Mk2/US Navy SBIR"
+  - **Context:** Active coordination on US Navy SBIR program involving UK defence partnership (likely helicopter/aerial platform development). Jack looped on critical coordination.
 
 #### **Krateo Sky (M&A/STRATEGIC PARTNERSHIP — INTEGRATION ONGOING)**
 
 **Sona Raziabeegum** (sona@krateosky.com) — Krateo Sky Partnership/Strategy Lead
-- **Continuing:** Integration workshop coordination. No new May 24–25 messages but prior activity shows sustained engagement.
+- **May 25 signal:**
+  - Jack forwards diligence requests to Sona and Maciej: "Fwd: FW: Black Swift - Diligence Requests"
+  - **Context:** M&A integration documentation pipeline continues; Krateo partnership remains actively engaged in deal process.
 
-#### **Government/Federal Partnerships (ACTIVE)**
+#### **Legal/Disclosure & Deal Structuring (M&A TRANSACTION — CONTINUING)**
 
-- **NOAA/NASA** — No new May 24–25 escalations; prior 777 Proposal coordination continues baseline.
+**Ko Firm (Counsel)** — External Legal Team
+- **Prior May 24 escalation continues:** Nadia Bryan diligence requests remain active thread (Jack forwarded to Krateo/Maciej May 25).
 
-#### **Vendor/Purchasing (BASELINE OPERATIONAL)**
+#### **Drone Script / External Vendor (ESCALATION — IMPORTANT)**
 
-- **HeliDirect** — Helicopter kits, RC components (Goosky Helicopters, Align Heli promotions visible May 24)
-- **DigiKey** — Electronics components (shipment notification May 24; invoice 126244889)
-- **SendCutSend** — Metal/manufacturing services (shipment in transit; May 25)
-- **Battery Junction** — Battery/electronics (credit issued May 24; prior purchase activity)
-- **Multiple retail/logistics vendors** — Harbor Freight (Memorial Day sale), Spindrift (subscription order), ELEGOO US (electronics kits), USPS Informed Delivery
-- **Pattern:** Sustained procurement of RC/helicopter components, electronics, and manufacturing/metal services (consistent with UAV/aerial vehicle development and hardware assembly).
+**Akshata at Drone Script** (akshata@thedronescript.com) — External Partner/Vendor
+- **May 25 escalation (IMPORTANT, UNREAD):**
+  - Subject: "Re: Tomorrow this email gets expensive, Jack"
+  - **Email address variant:** elstonj@bst.aero (not primary blackswifttech domain — suggests external partnership/subsidiary relationship)
+  - **Context:** Cryptic subject line ("expensive") suggests pricing negotiation, contract deadline, or escalating vendor issue requiring immediate attention.
+  - **Notable:** This contact uses alternative domain (bst.aero), indicating potential subsidiary or aviation-specific business entity.
 
-#### **Travel & Expense Management (BASELINE)**
+#### **Vendor/Purchasing (BASELINE OPERATIONAL — EXPANDED SCOPE)**
 
-- **Google Flights** — Atlanta flight tracking (price movement: $2,811 → $2,646 favorable; May 24)
-- **Capital One Business** — Credit and billing notifications (May 24 credit from Battery Junction)
+**Existing vendors (baseline continuing):**
+- HeliDirect, DigiKey, SendCutSend, Spindrift, Battery Junction, ELEGOO, USPS Informed Delivery, Harbor Freight, Google Flights, Capital One Business
 
-#### **Other Notable Contacts**
+**New vendor activity (May 25–26):**
+- **CJ Pony Parts Inc** (Ship-Confirmation@cjponyparts.com) — Order #82299998 in transit (May 25)
+  - **Context:** Automotive parts supplier. Unexpected in Jack's typical procurement pattern. May indicate vehicle/ground platform development or facility maintenance.
+- **JawsTec** (info@jawstec.com) — Multiple Memorial Day promotions (May 25)
+  - **Product unclear** from subject lines alone; promotional only.
+- **Speedway Motors** (via purchasing) — "Best Exhaust Cutouts for Sound and Power" (May 25)
+  - **Context:** Automotive performance/exhaust components. Reinforces potential vehicle/ground platform procurement signal.
+- **Constant Contact Billing** (May 26) — Email marketing/CMS platform payment (Jack Elston billing)
+  - **Context:** Operational/marketing tool; likely for BST communications or campaign management.
 
-- **Vickey Moler** (vmoler@gmail.com) → **Lauren Cole** (lauren.cole@colorado.edu)
-  - **May 24 signal (IMPORTANT, UNREAD):**
-    - Subject: "Re: EAB Term Renewals"
-    - **Context:** External academic/advisory relationship. EAB (External Advisory Board?) term renewal discussion. Indicates Jack's involvement in external advisory/governance capacity with University of Colorado connection.
+**Pattern update:** Sustained RC/helicopter/electronics procurement continues, but May 25–26 shows new automotive/vehicle components appearing (CJ Pony Parts, Speedway Motors). May indicate:
+  - Facility/fleet maintenance
+  - Ground-based platform development parallel to aerial systems
+  - Vehicle integration with drone systems
 
-- **Joshua Baer** (media@blackswifttech.com) — BST Media Relations
-  - **May 24 signal:** "This Week at STATION Austin" event digest (STATION Austin is a co-working/innovation hub; May 25–29 events)
-  - **Context:** Operational/team community engagement.
+#### **HR/Admin Systems (INTERNAL APPROVALS)**
 
----
+**Rippling** (no-reply@rippling.com) — HR/Employee Management Platform
+- **May 25 escalations (IMPORTANT):**
+  - "Action required: You have pending tasks in Black Swift Technologies"
+  - "[Approval Required] Sam Hild requested time off for May 13, 2026"
+  - **Context:** Jack appears to have manager/approver role in HR system; handling employee time-off approvals.
 
-## Topic Patterns
+#### **LinkedIn (Social/Recruitment Signals)**
 
-### **Deal/Strategic Initiatives**
-- **M&A Diligence Documents (ACTIVE):** Ko Firm legal diligence requests (May 24 escalation)
-- Krateo Sky integration workshop (coordination continues)
-
-### **Hardware/Procurement**
-- **RC Helicopter Components:** Goosky Helicopters, Align Heli promotions (May 24)
-- **Electronics:** DigiKey shipments (invoice 126244889; May 24), ELEGOO electronics kits, Battery Junction
-- **Manufacturing/Metal Services:** SendCutSend shipment in transit (May 25)
-- **Consumables:** Spindrift subscription order (May 25)
-
-### **Government/Federal**
-- NOAA/NASA 777 Proposal (baseline continuing)
-- Navy SBIR
-- DARPA funding opportunities
-- NSF Phase II proposals
-
-### **Travel**
-- Atlanta flight tracking (favorable price movement to $2,646; May 24)
-
-### **External Advisory**
-- EAB Term Renewals (University of Colorado connection via Vickey Moler/Lauren Cole; May 24)
-
----
-
-## Communication Patterns
-
-### **Recent Activity (May 24–25)**
-- **May 24, 10:03 UTC:** DigiKey shipment notification (invoice 126244889; electronics component delivery)
-- **May 24, 13:02 UTC:** ELEGOO US flash deal promotion (electronics kits/hobbies)
-- **May 24, 13:08 UTC:** Capital One Business credit notification (Battery Junction refund; May 24)
-- **May 24, 13:14 UTC:** USPS Informed Delivery digest (package tracking)
-- **May 24, 14:02 UTC:** Joshua Baer/Media Relations — STATION Austin event digest (community engagement)
-- **May 24, 17:36 UTC:** **Nadia Bryan (Ko Firm) — M&A Diligence Requests escalation (IMPORTANT, UNREAD)**
-- **May 24, 22:30 UTC:** Google Flights price tracking update (Atlanta $2,646; favorable movement from $2,811)
-- **May 25, 00:29 UTC:** Vendor invoice notification (Account 8xxx4W)
-- **May 25, 01:41 UTC:** Spindrift subscription order creation alert
-- **May 25, 04:03 UTC:** SendCutSend shipment notification (manufacturing/metal services)
-- **May 25, 05:47 UTC:** Purchasing group notification (SendCutSend shipment via group address)
-- **May 25, 06:00 UTC:** Toggl Track time-tracking app notification (no subject; appears automated)
-
-### **Mailing List / Automated Subscriptions (Non-Human)**
-- **Google Flights** — Atlanta flight price tracking (jack.elston@blackswifttech.com)
-- **Vendor Purchasing Digests** (routed through purchasing@blackswifttech.com group):
-  - HeliDirect, DigiKey, SendCutSend, Spindrift, Harbor Freight, ELEGOO US
-  - USPS Informed Delivery (mail tracking)
-- **Capital One Business** — Billing/account alerts (jack.elston@blackswifttech.com)
-- **Toggl Track** — Time-tracking software notifications (elstonj@blackswifttech.com)
-- **Media Relations** (Joshua Baer) — STATION Austin
+- **May 25 notifications:**
+  - "Jack, your posts got 50,

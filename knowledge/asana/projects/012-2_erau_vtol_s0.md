@@ -2,7 +2,7 @@
 
 ## Overview
 - **Client/Customer:** Embry-Riddle Aeronautical University (ERAU) — Kevin Adkins, adkinsk@erau.edu, 386.481.9059
-- **Dollar Value:** $20,805.39 (S0 unit to ERAU); **second delivery obligation to Barbados — contract details, dollar value, unit status, and timeline unknown** (per Maciej, April 24, 30 & May 4, 2026)
+- **Dollar Value:** $20,805.39 (S0 unit to ERAU); **second delivery obligation to Barbados — contract details, dollar value, unit status, and timeline unknown** (per Maciej, April 30, 2026)
 - **Timeline:** 
   - Original due date: August 16, 2024 (**20+ months overdue**)
   - Custom field due: May 26, 2025 (**stale — does not reflect current technical status**)
@@ -11,8 +11,8 @@
 - **Status:** **ACTIVE — SECOND-HIGHEST PRIORITY** (after S3 IRAD per Maciej, April 30, 2026). **SEVERELY DELAYED WITH CRITICAL TECHNICAL BLOCKERS.** S0-VTOL unit remains in active development/troubleshooting with **crash bug investigation and overdue bench tests as primary blockers.** Per Maciej (April 30, 2026), S0-VTOL has "two deliveries for ERAU and Barbados" — **Barbados delivery completely undocumented.**
 - **Team Members:** Alex Lomis (owner/lead, engineering), Jack Elston (delivery coordination), Dan Prendergast (training), Maciej (project coordination/status tracking), U058LGYMEQ0 (bench testing/S0-VTOL troubleshooting lead), U014ZL9FLE9 (crash bug investigation), U01511MEQ90 and U06NQAYBLRK (engineering support, available per workload)
 - **Risk Signals:** 
-  - **CRITICAL: Bench tests overdue/deadline passed as of late April 2026.** Per Maciej (April 30, 2026): Visual Observation Bench Test **overdue** (no completion date); Instrumented Bench Test **due by "next Thursday"** (April 30 context suggests deadline ~May 2, 2026) — **deadline passed as of May 4, 2026; status unknown.** Maciej (May 4) offering support from U01511MEQ90 or U06NQAYBLRK "depending on their workload"
-  - **Maciej requesting roadblock assessment (April 30, 2026):** "Any roadblocks on your end for catching up on that one overdue task and then having the instrumented bench test done by mid next week? Anything you're waiting on from others or need to order?" — **No documented response by May 4, 2026**
+  - **CRITICAL: Bench tests overdue/deadline passed as of late April 2026.** Per Maciej (April 30, 2026): Visual Observation Bench Test **overdue** (no completion date); Instrumented Bench Test **due "next Thursday"** (April 30 context; deadline ~May 2, 2026) — **deadline passed as of May 4, 2026; status unknown.** Maciej (May 4) offering support from U01511MEQ90 or U06NQAYBLRK "depending on their workload"
+  - **No response documented from U058LGYMEQ0** on Maciej's April 30 roadblock inquiry ("Any roadblocks on your end for catching up...?") as of May 4, 2026
   - **ACTIVE CRASH BUG:** Per project notes, S0-VTOL experienced a crash during testing; root cause investigation and fix underway as primary technical blocker; no ETA set
   - **DUAL DELIVERY OBLIGATION — BARBADOS UNDOCUMENTED:** Per Maciej (April 30, 2026), S0-VTOL has "two deliveries for ERAU and Barbados" — **Barbados delivery is completely undocumented in project records.** Urgent clarification needed on: contract status, dollar value, timeline, unit status, and whether Barbados competes for engineering resources with ERAU
   - **OWNERSHIP VACUUM ON LOGISTICS:** 4 of 5 delivery tasks unassigned (Ship, Verify Payment, Close Project) with no due dates; Jack Elston assigned "Final due date for delivery" but has not set a date — **blocking all downstream logistics and customer communication**
@@ -55,7 +55,7 @@
 - **All delivery tasks unassigned/undated:** Ship, Verify Payment, Close Project tasks have no owner and no due date
 - **Jack Elston (delivery coordination):** Assigned "Final due date for delivery" but has not set a date — **blocking all downstream logistics and customer communication**
 - **Dan Prendergast (training):** Assigned "S0 VTOL Training for ERAU" with no due date — contingent on unit delivery and validation
-- **U058LGYMEQ0 (bench testing/troubleshooting lead):** Overdue on Visual Observation Bench Test; Instrumented Bench Test deadline passed (~May 2, 2026); active on crash bug investigation
+- **U058LGYMEQ0 (bench testing/troubleshooting lead):** Overdue on Visual Observation Bench Test; Instrumented Bench Test deadline passed (~May 2, 2026); active on crash bug investigation; **no documented response to Maciej's April 30 roadblock inquiry as of May 4**
 
 ## Recent Activity
-- **May 4, 2026 (Maciej):** Offered engineering support from U01511MEQ90 or U06
+- **May 4, 2026 (Maciej):** Offered engineering support from U01511MEQ90 or U06NQAYBLRK to assist U058LGY

@@ -4,7 +4,7 @@
 - **Client/customer:** U.S. Air Force (DoD SBIR Phase II)
 - **Dollar value:** $1,249,725 total funding to Black Swift Technologies
 - **Timeline:** Late 2024 – July 2025 (contract due date 2025-07-11)
-- **Status:** ARCHIVED – Successfully completed and closed out
+- **Status:** ARCHIVED – Successfully completed and closed out as of November 2025
 - **Team members involved:** Dan Prendergast (technical lead), Maciej Stachura, Meredith O'hara Needham, Nate Straus, Beck Cotter, Jack Elston
 - **Key contacts:** 
   - Jason Foley (Primary TPOC, jason.foley.1@us.af.mil)
@@ -37,7 +37,7 @@ Development and validation of a UAS-based L-band radiometer for mapping soil int
 - **Notable patterns:** Heavy emphasis on testing and validation; OMS payments tracked as separate subtasks; dual invoicing tracking (BST invoices to Air Force, OMS payments from BST)
 
 ## Recent Activity (2025–2026)
-- **2025-11-19:** Final OMS payment ($24,200) completed
+- **2025-11-19:** Final OMS payment ($24,200) completed – project fully closed out
 - **2025-09-16:** Final Report approved by TPOC
 - **2025-08-26:** Invoice acceptance confirmed
 - **2025-07-24:** E2 and Soil Moisture Sensor added to DIU Blue List; web interface for RevD data processing completed; sensor cover completed
@@ -46,7 +46,7 @@ Development and validation of a UAS-based L-band radiometer for mapping soil int
 - **2025-03-05:** Local field testing milestone completed (Milestone 5)
 
 ## Project Status & Context
-**Project is archived and no longer active.** All deliverables completed and accepted by Air Force TPOC as of July 2025. Final payments and reporting closed out by November 2025. Team focus has shifted to higher-priority initiatives.
+**Project is archived and no longer active.** All deliverables completed and accepted by Air Force TPOC as of July 2025. Final payments and reporting closed out by November 2025. No further work is anticipated on this project.
 
 **Contract number:** FA864924P0003
 

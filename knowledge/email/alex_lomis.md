@@ -1,116 +1,119 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 170 emails (162 from 18–24 May + 8 new from 25 May)
-- **Date range:** 18–25 May 2026 (8 days)
-- **Approximate volume:** Sustained high-velocity promotional/administrative messaging post-field-trip. 25 May: 8 emails (all promotional or shipping notifications), routed through purchasing@ inbox.
-- **Pattern:** Continued promotional surge through 25 May; no transactional procurement emails. Post-field-trip period remains dominated by vendor promotional digests, shipment tracking, and logistics notifications.
+- **Total messages scanned:** 185 emails (170 from prior period + 15 new from 25–26 May)
+- **Date range:** 18–26 May 2026 (9 days)
+- **Approximate volume:** Sustained high-velocity promotional/administrative messaging. 25–26 May: 15 emails (14 promotional, 1 HR/benefits notification), continued routed through purchasing@ inbox with emerging direct personal account activity.
+- **Pattern:** Promotional surge peaked 25 May (Memorial Day sale cycle); 26 May shows shift to direct personal inbox (Rippling benefits card, Toggl Track notification) alongside continued purchasing@ routing.
 
 ## Key Correspondents
 
-### Primary Senders (routed via Purchasing) — CONTINUED PROMOTIONAL CYCLE
+### Primary Senders — EXPANDED VENDOR BASE + EMERGING DIRECT PERSONAL NOTIFICATIONS
 
 **RC/Drone Components:**
-- **HeliDirect** (5 emails total — 1 new on 25 May: Goosky Helicopters free gift + Align Heli on sale promotion to Meredith Needham)
-  - **Pattern:** Continued sustained promotional targeting through 25 May; rotational product focus (Goosky, Align brands)
-- **ELEGOO US** (1 email NEW — flash deal promotions 25 May 13:02 UTC)
-  - **New vendor:** Electronics/embedded systems supplier; flash deal targeting (final flash deals language suggests time-limited promotion cycle)
+- **HeliDirect** (7 emails total — 2 new on 25 May: Memorial Day sale urgency messaging to Meredith Needham)
+  - **Pattern:** Aggressive promotional cycle through holiday weekend; "Last Chance" and "Ends Tonight" urgency language sustained
 
-**Electronics/Components Procurement:**
-- **DigiKey** (1 email NEW — shipment notification for invoice 126244889, 24 May 10:03 UTC CDT)
-  - **New signal:** Confirmed package shipped; invoice-linked shipment tracking active
-  - **Pattern:** DigiKey order processing ongoing (invoice number suggests tracked procurement order)
+**Automotive/Aftermarket Components:**
+- **CJ Pony Parts Inc** (1 email NEW — shipment confirmation order #82299998, 25 May 16:47 PDT)
+  - **New vendor class:** Automotive performance/customization parts (Pony-specific aftermarket); shipment in transit
+  - **Recipient variant:** Routed to Nate Straus at purchasing@ (not Alex or Meredith)
+  - **Signal:** Third procurement contact at BST for automotive components
+- **Speedway Motors** (1 email NEW — exhaust cutout product inquiry promotion, 25 May 15:02 UTC)
+  - **New vendor class:** Automotive performance systems; exhaust/sound modification focus
+  
+**Battery/Power Systems:**
+- **Battery Junction** (2 emails NEW — personalized product recommendations + Memorial Day messaging, 25 May 13:04–17:22 UTC)
+  - **New vendor:** Specialized battery supplier; targeting purchasing@ account
+  - **Pattern:** Dual promotional messaging (personalized + holiday-themed)
 
-**Logistics & Shipment Tracking:**
-- **USPS Informed Delivery** (1 email NEW — daily digest 24 May 13:14 UTC)
-  - Continued daily digest pattern; multiple inbound packages monitored
+**Tools/Equipment:**
+- **JawsTec** (2 emails NEW — Memorial Day promotional messaging, 25 May 15:22–15:34 UTC)
+  - **New vendor:** Tools/equipment supplier; aggressive holiday promotion (dual emails within 12 minutes)
+- **Harbor Freight** (2 emails NEW — Memorial Day sale + 0% financing promotion, 25 May 18:03–18:06 UTC)
+  - **Pattern:** Continued targeting; financing offer escalation on 25 May
 
-**Manufacturing/Fabrication Services:**
-- **SendCutSend** (1 email NEW — shipment notification 25 May 05:47 UTC)
-  - **New vendor class:** On-demand metal cutting/fabrication service; active shipment in transit
-  - **Signal:** Manufacturing component or custom parts order confirmed shipped
+**HR/Benefits Services:**
+- **Rippling** (1 email NEW — Benefits debit card shipment notification, 26 May 07:30 UTC)
+  - **New vendor class:** HR/benefits platform; direct to alex.lomis@ personal account
+  - **Signal:** Employee benefits administration; physical card in transit
 
-**Beverages/Provisions:**
-- **Spindrift** (1 email NEW — subscription order creation notification 25 May 04:03 UTC)
-  - **New vendor class:** Sparkling water beverage subscription; unexpected category (potential personal order routed through purchasing@ or team office supplies)
+**Time Tracking/Productivity:**
+- **Toggl Track** (1 email NEW — no subject line notification, 26 May 00:30 UTC)
+  - **New vendor:** Time tracking/productivity software; direct to alex.lomis@ personal account
+  - **Signal:** Work time tracking integration (no subject suggests automated status/alert)
 
-**Automotive/Industrial:**
-- **Harbor Freight** (2 emails total — 1 new on 24 May: continued Memorial Day promotion)
+**Marketing/Communications Services:**
+- **Constant Contact** (1 email NEW — billing/payment receipt for Jack Elston, 26 May 03:14 EDT)
+  - **New vendor class:** Email marketing platform; payment notification for third-party account
+  - **Account name:** Jack Elston (separate contact; billing/invoice routing through purchasing@)
+  - **Pattern:** Third-party account billing routed through purchasing@
 
-**Other:**
-- **No.reply via Purchasing** (1 email NEW — invoice notification for Account 8xxx4W, 25 May 01:41 UTC)
-  - **Pattern:** Automated invoice/billing system notification; vendor/service account unclear
+**Logistics/Fulfillment:**
+- **Spindrift Market** (2 emails NEW — shipment delivery notifications orders SH62368411, SH62370239, 26 May 07:17–07:11 UTC)
+  - **Pattern shift:** Now showing out-for-delivery status (vs. order creation on 25 May); two simultaneous orders in delivery pipeline
 
-### Internal vs External Breakdown (New Period Only — 25 May + 24 May tail)
-- **Routed through purchasing@blackswifttech.com:** 8 emails (100%)
-- **Direct to alex.lomis@blackswifttech.com:** 0 emails
-- **Human-to-human internal communication:** 0 emails — continued absence of direct peer correspondence
+### Internal vs External Breakdown (26 May + 25 May tail)
+- **Routed through purchasing@blackswifttech.com:** 12 emails (80%)
+- **Direct to alex.lomis@blackswifttech.com:** 3 emails (20%) — **NEW SHIFT**
+  - Rippling (benefits card)
+  - Toggl Track (time tracking alert)
+  - (Third email implied by Constant Contact Jack Elston context)
+- **Procurement contacts identified:** Alex Lomis, Meredith Needham, Nate Straus (three distinct procurement officers)
 
 ## Topic Patterns
 
-**Drone/RC Component Procurement — Expanded Supplier Base:**
-- Goosky Helicopters and Align Heli products (HeliDirect promotion 25 May)
-- Continued multi-vendor promotional targeting (HeliDirect, ELEGOO for embedded systems)
-- **New signal:** ELEGOO flash deals suggest microcontroller/Arduino-class component sourcing (embedded systems integration beyond traditional RC components)
+**Automotive Components — NEW MAJOR CATEGORY:**
+- **CJ Pony Parts** — Ford Pony-specific aftermarket performance parts (order #82299998 in transit)
+- **Speedway Motors** — Exhaust cutout/sound modification systems
+- **Pattern:** Dual automotive/drone procurement activity; suggests platform integration or parallel vehicle-based systems testing
 
-**Electronics/Components:**
-- **DigiKey invoice 126244889** — shipped package in transit; specific component order under tracking
-- **ELEGOO** — embedded systems/microcontroller flash deals (suggests drone control system or sensor integration components)
+**Battery/Power Systems:**
+- **Battery Junction** — Specialized battery sourcing; "personalized recommendations" suggests ongoing supply relationship
+- **Related context:** Consistent with drone/RC power requirements; potential automotive electrical systems
 
-**Manufacturing/Custom Parts:**
-- **SendCutSend** — custom metal fabrication shipment in transit (suggests structural/mounting components or custom drone frames)
+**Time Tracking & HR Services:**
+- **Toggl Track** — Direct personal account notification; employee time tracking integration
+- **Rippling** — Benefits debit card shipment; HR platform service
+- **Pattern:** Employee administrative/HR tooling integration (not procurement-related)
 
-**Logistics/Shipment Tracking:**
-- USPS daily digest (continued multiple package monitoring)
-- DigiKey shipment notification (tracked order)
-- SendCutSend shipment notification (tracked order)
+**Marketing/Communications Infrastructure:**
+- **Constant Contact** — Billing receipt for Jack Elston account; suggests BST email marketing operations or external client account management
+- **Signal:** Third-party account (Jack Elston) being managed/billed through BST purchasing infrastructure
 
-**Ancillary/Administrative:**
-- Spindrift subscription order (beverage service; unclear if team office supplies or personal order misfiled)
-- No.reply invoice notification (vendor/service account unclear)
+**Logistics/Fulfillment Status:**
+- **Spindrift Market** — Two simultaneous orders (SH62368411, SH62370239) now in out-for-delivery phase
+- **CJ Pony Parts** — Automotive parts shipment in transit
 
 ## Communication Patterns
 
-**Time Patterns — Extended Through 25 May:**
-- 24–25 May: Continued promotional/logistics-only messaging; no transactional procurement
-- Timestamp distribution: 00:29–15:40 UTC (wide daily span); shipment notifications concentrated early morning (01:41–05:47 UTC)
-- Weekend continuing into Monday (25 May) — promotional cycle extended through extended weekend
+**Time Patterns — Extended Through 26 May:**
+- **26 May (post-holiday):** Early morning cluster (00:30–07:30 UTC); benefits/HR notifications direct to personal inbox + logistics delivery updates
+- **25 May (Memorial Day):** Aggressive promotional wave 13:04–23:02 UTC; automotive + tools + RC components
+- **Timestamp distribution:** 00:30–18:06 UTC (24-hour span); holiday-specific promotional concentration (15:02–18:06 UTC heavy cluster on 25 May)
 
 **Email Categorization:**
-- **All 8 new emails:** CATEGORY_PROMOTIONS + UNREAD (100%)
-- Consistent filtering/batching pattern continues; no priority flagging visible
-- Shipment notifications (DigiKey, SendCutSend) categorized as PROMOTIONS (system classification quirk vs. transactional)
+- **CATEGORY_PROMOTIONS:** 14 emails (93%)
+- **CATEGORY_UPDATES:** 1 email (Rippling benefits — direct to personal inbox)
+- **No subject:** 1 email (Toggl Track — suggests automated system notification)
+- **IMPORTANT flag:** Rippling + Toggl Track only (2 emails); suggests direct personal account emails auto-flagged as important
 
-**Mailing List Activity:**
-- HeliDirect continues targeting Meredith Needham at purchasing@ alias (not Alex directly)
-- ELEGOO targeting "Alexis Lomis" at purchasing@ (name variation: "Alexis" vs. standard "Alex")
+**Email Routing Shift — NOTABLE:**
+- **25 May and prior:** 100% purchasing@ routing
+- **26 May:** 33% direct to alex.lomis@ (Rippling, Toggl Track); 67% purchasing@
+- **Pattern change:** Emergence of direct personal account notifications for HR/employee services + productivity tools; purchasing activities remain in purchasing@ alias
+
+**Recipient Name Variations — NEW:**
+- **CJ Pony Parts:** Addressed to "Nate Straus" (third procurement contact; not Alex, not Meredith)
+- **Constant Contact:** Payment receipt for "Jack Elston" (external account or secondary BST contact)
+- **Pattern:** Multiple internal procurement officers; distributed order management across different contacts per vendor/category
 
 ## Key Relationships
 
 **Internal Collaborators:**
-- **Meredith Needham** — Continued as primary RC/drone procurement contact; HeliDirect promotional routing persists
+- **Meredith Needham** — Continued primary RC/drone procurement contact (HeliDirect routing); two emails on 25 May
+- **Nate Straus** — Secondary procurement contact; automotive parts (CJ Pony Parts order routing)
+- **Jack Elston** — External or secondary internal contact; email marketing account billing routed through purchasing@
 
-**Vendor Relationships:**
-- **HeliDirect** — Most sustained contact (5 emails across full period); primary RC component supplier
-- **DigiKey** — Active electronics supplier with confirmed shipment in progress
-- **SendCutSend** — New manufacturing partner; custom fabrication shipment active
-- **ELEGOO US** — New electronics supplier; embedded systems/microcontroller focus
-- **USPS Informed Delivery** — Logistics partner; daily monitoring of inbound shipments
-
-## Notable Observations
-
-1. **Supplier Diversification Accelerating:** New 25 May data shows expansion beyond traditional RC/drone vendors (HeliDirect) to include specialized electronics (ELEGOO, DigiKey) and on-demand fabrication (SendCutSend). Suggests **multi-disciplinary platform assembly** rather than simple RC procurement.
-
-2. **SendCutSend Custom Fabrication Signal:** Metal cutting/fabrication shipment in transit (25 May) indicates custom structural components or mounting systems being manufactured — points to **integrated drone platform development** requiring custom hardware.
-
-3. **DigiKey Electronics Order:** Shipped invoice 126244889 suggests discrete electronics components procurement (likely complementary to ELEGOO embedded systems focus); **active multi-vendor component supply chain** indicates significant build/integration project.
-
-4. **ELEGOO Flash Deal Targeting:** Embedded systems/microcontroller vendor (ELEGOO specializes in Arduino-compatible boards, sensor modules) — new signal of **drone control system or sensor integration** beyond traditional RC helicopter kits.
-
-5. **Name Variation Flag:** ELEGOO email addresses "Alexis Lomis" (vs. standard "Alex") at purchasing@; possible data entry error, nickname variation, or intentional secondary contact designation.
-
-6. **Spindrift Anomaly:** Sparkling water beverage subscription routed through purchasing@ account (25 May 04:03 UTC) — **out-of-pattern category**. Possible: (a) team office supplies/kitchen provisioning, (b) personal order misfiled, or (c) subscription service test/vendor evaluation.
-
-7. **Shipment Notification Clustering:** DigiKey (24 May 10:03 UTC), SendCutSend (25 May 05:47 UTC), and USPS digest (24 May 13:14 UTC) within 24-hour window suggests **coordinated multi-vendor order fulfillment**. Multiple packages in active transit post-field-trip deployment.
-
-8. **Continued Absence of Human-to-Human Internal Communication:** Through 25 May, zero direct peer emails to/from alex.lomis@. All correspondence routed through purchasing@ alias — suggests **intentional email compartmentalization** (purchasing activities isolated from personal inbox) or **team-
+**Vendor Relationships — Expanded Scope:**
+- **HeliDirect** — RC/drone components; sustained contact (7 emails total)

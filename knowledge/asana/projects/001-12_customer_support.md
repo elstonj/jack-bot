@@ -5,7 +5,7 @@
 - **Dollar value:** Not specified in available data
 - **Timeline:** Ongoing operations project with tasks spanning 2024–2026; active S3 development with May 2026 design freeze target
 - **Status:** **Active with critical immediate priorities** — S3 first customer build accelerating with immediate due dates set (Maciej Stachura, 2026-04-30); CU-IRISS S2 training flight scheduling now in progress; CU INSTAAR S2 repair completed and deployed to Alaska (2024-07-17)
-- **Team members involved:** Nate Straus (owner), Maciej Stachura, Josh Fromm, Jack Elston, Meredith O'hara Needham
+- **Team members involved:** Nate Straus (owner), Maciej Stachura, Josh Fromm, Jack Elston, Meredith O'hara Needham, Brian Argrow (CU-IRISS customer contact)
 - **Risk signals:**
   - **S3 first customer build is time-critical** — Maciej (2026-04-30): "immediate due dates" set to get S3 flying; design scope still partially undefined
   - **Design task scope for S3 partially undefined** — Battery, case, and other components needed by end of May; Josh Fromm to confirm full scope
@@ -33,10 +33,10 @@
     - CU-IRISS S2 training flight scheduling and NSF MUSAS certification update tasks
 
 ## Recent Activity
-**[2026-04-30] Maciej Stachura (authoritative feedback — overrides Asana task list):** S3 first customer build accelerating with immediate due dates set. Specific requests:
-1. **Josh Fromm:** Add design tasks for S3 first customer build by end of May (battery, case, etc.; full scope confirmation needed)
-2. **Build phase owner (TBD):** Capture major S3 build tasks in Asana for visibility and coordination with design phase
-3. **Maciej:** Tracking S3 project coordination; seeking confirmation of build phase owner and task visibility
+**[2026-04-30] Maciej Stachura (authoritative feedback — overrides Asana task list):** "I've added immediate due dates to get the S3 flying." Specific requests:
+1. **Josh Fromm (@U014ZL9FLE9):** Add design tasks for S3 first customer build by end of May (battery, case, etc.; full scope confirmation needed)
+2. **Build phase owner (@U06B7GNFV0W):** Capture major S3 build tasks in Asana for visibility and coordination with design phase (@U0AQE94HJUT tracking)
+3. **Maciej:** S3 project coordination active; immediate due dates set to accelerate first customer build to flight
 
 **CU-IRISS S2 status:** Repair completed 2026-05-13. Next step: training flight scheduling and NSF MUSAS certification update by Brian Argrow post-training.
 
@@ -55,9 +55,11 @@
 **Key contacts:**
 - **Nate Straus** — [001-12] project owner; CU-IRISS repair/training owner
 - **Maciej Stachura** — S3 build coordination & project tracking owner
-- **Josh Fromm** — S3 design lead (battery, case, other components); Area-I turbulence probe delivery lead
+- **Josh Fromm (@U014ZL9FLE9)** — S3 design lead (battery, case, other components); Area-I turbulence probe delivery lead
 - **Meredith O'hara Needham** — CU INSTAAR S2 repair/deployment lead
-- **Brian Argrow (CU-IRISS)** — Customer contact (brian.argrow@colorado.edu); training flight pending; NSF MUSAS certification update pending post-training
+- **Brian Argrow (CU-IRISS, brian.argrow@colorado.edu)** — Customer contact; training flight pending; NSF MUSAS certification update pending post-training
 - **Jack Elston** — Team member (role TBD in available data)
+- **Build phase owner (@U06B7GNFV0W)** — TBD; S3 build tasks pending assignment
+- **Project tracker (@U0AQE94HJUT)** — TBD; designated to track S3 build phase
 
 **Status note:** Multiple customer projects active and recently completed (CU INSTAAR S2 deployed to Alaska; CU-IRISS S2 repair complete). S3 design and build work still absent from Asana despite time-critical priority (end of May 2026 design freeze) — **this represents the highest-priority gap for immediate action.** CU-IRISS training flight coordination now active next step pending scheduling. Asana task list remains empty and non-representative of actual project scope and activity.

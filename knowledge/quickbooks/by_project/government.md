@@ -136,4 +136,4 @@
 
 ---
 
-### **Direct Labor:
+### **Direct Labor:**

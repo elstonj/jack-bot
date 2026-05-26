@@ -2,18 +2,18 @@
 
 ## Overview
 - **Owner:** Ethan Domagala
-- **Status:** **BLOCKED** — All 12 tasks unassigned. Project structure does NOT reflect actual flight operations. Real work (EMASS validation flights, By-Lite test flights, CU IRISS training) is being driven by **external customer dependencies**, not Asana dates.
+- **Status:** **BLOCKED** — All 12 tasks unassigned. Project structure does NOT reflect actual flight operations. Real work is driven by **external customer dependencies**, not Asana dates.
 - **Timeline:** Asana dates range 2026-05-20 to 2026-05-29, but are **stale**. Real flight schedules depend on:
-  - EMASS controller binary (customer-supplied; indefinitely delayed as of 2026-05-14)
-  - By-Lite fuse hardware (delayed; no test flights until arrival)
-  - CU IRISS training (completed as of 2026-05-13/14)
-  - 53rd Weather Squadron/SOCOM visit (Friday of week ending ~2026-05-03; slides priority)
-- **Key Activity:** Daniel Prendergast's immediate priority is slides for 53rd Weather Squadron/SOCOM visit Friday. All flight operations blocked on external customer deliverables.
+  - EMASS controller binary (customer-supplied; **indefinitely delayed** as of 2026-05-14 per Daniel Prendergast)
+  - By-Lite fuse hardware (delayed; **no test flights until arrival** per Jack & Maciej, 2026-04-30)
+  - CU IRISS training (**completed** as of 2026-05-13/14 per Daniel Prendergast)
+  - 53rd Weather Squadron/SOCOM visit (Friday of week ending ~2026-05-03; **slides priority** per Daniel Prendergast, 2026-05-04 & 2026-04-29)
+- **Immediate Priority:** Daniel Prendergast's **53rd Weather Squadron/SOCOM visit slides (due Friday, ~2026-05-03)**
 - **Risk Signals (CRITICAL):**
-  - **All tasks unassigned** — blocking execution
+  - **All 12 tasks unassigned** — blocking execution
   - **Planning Task 1 due 2026-05-20** — marked "Not started," likely overdue
   - **Execution Tasks 1 & 2 due 2026-05-26** — Task 2 marked "In progress" but unassigned; status unknown
-  - **EMASS Validation Flight #2 postponed indefinitely** — awaiting customer controller binary (Daniel, 2026-05-14)
+  - **EMASS Validation Flight #2 postponed indefinitely** — awaiting customer controller binary (Daniel Prendergast, 2026-05-14)
   - **By-Lite test flights blocked indefinitely** — no flights until new fuse arrives; 2 flight opportunities still owed (Jack & Maciej, 2026-04-30)
   - **One task has no title/description** — data quality issue
   - **Planning Task 3 marked "Completed" but remains in open task list** — status inconsistency
@@ -27,6 +27,7 @@
 | EMASS Validation Flight #2 | Originally ~2026-05-26 | High | In progress | **POSTPONED INDEFINITELY** — awaiting customer controller binary (Daniel, 2026-05-14) |
 | EMASS Validation Flight #3 | Originally ~2026-05-27 | High | Not started | **DELAYED TO ≥2026-05-08 Monday** (Daniel, 2026-05-04) |
 | By-Lite Test Flights | Originally 2026-05-20+ | High | Not started | **BLOCKED INDEFINITELY** — no flights until new fuse arrives; 2 flight opportunities still owed to customer (Jack & Maciej, 2026-04-30) |
+| Post-Flight Issue Tracking | N/A | Standard process | Not in Asana | **IMPLEMENTED** — Daniel introduced Asana form (2026-05-11 & 2026-05-08) to capture aircraft/equipment issues; automatically creates tasks in Fleet Maintenance or relevant projects |
 | Milestone 1 | 2026-05-21 | Medium | In progress | Status unclear; likely overdue |
 | Milestone 2 | 2026-05-29 | Low | Not started | Status unclear |
 | Milestone 3 | No due date | High | Not started | Status unclear |
@@ -65,9 +66,9 @@
 
 Real active work drivers:
 - **53rd Weather Squadron/SOCOM visit slides:** Daniel Prendergast's **immediate priority** (due Friday of week ending ~2026-05-03)
-- **EMASS validation flights:** Flights #2 & #3 indefinitely delayed on customer-supplied controller binary (external blocker since 2026-05-14)
+- **EMASS validation flights:** Flights #2 & #3 indefinitely delayed on customer-supplied controller binary (external blocker since 2026-05-14 per Daniel Prendergast)
 - **By-Lite test flights:** Blocked indefinitely on new fuse hardware arrival; 2 flight opportunities still owed to customer (Jack & Maciej, 2026-04-30)
-- **CU IRISS training:** Completed as of 2026-05-13/14
+- **CU IRISS training:** **Completed as of 2026-05-13/14** (Daniel Prendergast, 2026-05-14)
 - **Post-flight process:** Daniel introduced Asana form (2026-05-11 & 2026-05-08) to capture aircraft/equipment issues; automatically creates tasks in Fleet Maintenance or relevant projects
 
 ### Assignment & Execution Gap
@@ -79,9 +80,4 @@ Real active work drivers:
 
 ### Data Quality Issues
 - One task has no title or description (empty name field)
-- Planning Task 3 marked "Completed" but remains in open task list
-- Execution Task 2 & Milestone 1 marked "In progress" without assignees or recent status updates
-- Milestone 3 has no due date and no priority context
-
-### Recommendation
-Rebuild Asana structure to align with actual flight operation milestones (EMASS, By-Lite, CU IRISS, external visits/briefings) with assigned owners, clear external dependency tracking, and realistic timelines tied to customer deliverables.
+- Planning

@@ -10,6 +10,7 @@
   - **🔴 CRITICAL: Project indefinitely postponed on external EMASS controller delivery** — Validation Flights #2 and #3 cannot proceed until EMASS delivers functioning controller binary (Daniel Prendergast, May 13–14, 2026). This is outside BST control.
   - **⚠️ Escalation boundary set**: Jack Elston (May 12, 2026) imposed informal 1-month hold limit (~June 12, 2026) before escalation/re-evaluation.
   - **⚠️ Financial concern**: Daniel Prendergast inquired whether EMASS paid the second invoice (May 7–8, 2026) — suggests possible payment delays or customer relationship friction.
+  - **⚠️ Priority downrank**: Maciej Stachura (April 30, 2026) ranked EMASS as Priority #3 for closure (after S3 IRAD and S0-VTOL), indicating BST focus is shifting elsewhere while awaiting customer action.
 
 ## Key Deliverables & Milestones
 - **Phase 1: Design & Alignment** (Due: Jan 28, 2026) - ✅ Completed
@@ -23,15 +24,16 @@
   - Final Report — **🔴 BLOCKED** *(cannot complete until validation flights are done)*
 
 ## Task Summary
-- **Total Open Tasks**: 5 tasks in current export
-  - Validation Flight #2 (Dan Prendergast, no due date) — **BLOCKED on EMASS controller delivery**
-  - Validation Flight #3 (Dan Prendergast, no due date) — **BLOCKED on EMASS controller delivery**
-  - Final Report (Dan Prendergast, no due date) — **BLOCKED on validation flights**
-  - Data analysis (Maciej Stachura, no due date) — 2 instances, **BLOCKED** (cannot analyze until flights complete)
+- **Total Open Tasks**: 5 tasks (0 completed in current snapshot)
+  - Validation Flight #2 (Dan Prendergast, no due date) — **INDEFINITELY POSTPONED on EMASS controller delivery**
+  - Validation Flight #3 (Dan Prendergast, no due date) — **INDEFINITELY POSTPONED on EMASS controller delivery**
+  - Final Report (Dan Prendergast, no due date) — **BLOCKED** (cannot complete until validation flights complete)
+  - Data analysis × 2 (Maciej Stachura, no due dates) — **BLOCKED** (cannot analyze until validation flights complete)
 - **Tasks by Assignee**:
-  - **Dan Prendergast**: 3 tasks (2 validation flights, 1 final report) — **ALL BLOCKED on external EMASS controller delivery**
-  - **Maciej Stachura**: 2 tasks (data analysis, 2 instances) — **BLOCKED** (cannot analyze until flights complete)
-  - **Jack Elston & Nate Straus**: Actively coordinate field execution but not formally assigned in Asana
+  - **Dan Prendergast**: 3 open tasks (2 validation flights, 1 final report) — **ALL INDEFINITELY POSTPONED on external EMASS controller delivery**
+  - **Maciej Stachura**: 2 open tasks (data analysis, 2 instances) — **BLOCKED** (awaiting validation flight completion)
+  - **Jack Elston & Nate Straus**: Actively coordinated field execution in April–May but not formally assigned in Asana
+  - **Meredith O'hara Needham**: Invoicing/admin (submitted initial invoice March 24, 2026)
 - **Recent Completions** (April 19–25, 2026):
   - ✅ Validation Flight #1 (Dan Prendergast) — **2 days early** (April 25)
   - ✅ Functional flight test (Dan Prendergast)
@@ -49,7 +51,7 @@
 **May 12, 2026 (AUTHORITATIVE CORRECTION — Jack Elston)**:
 - **De-prioritize EMASS; impose informal 1-month boundary**
 - Quote: "emass is likely delayed, we're waiting on them to get a working system to test, so de-prioritize it, but we don't want to drag this out more than a month"
-- Interpretation: Accept external delay is expected; enforce escalation/re-evaluation by ~June 12, 2026 if situation unresolved.
+- **Interpretation**: Accept external delay is expected; enforce escalation/re-evaluation by ~June 12, 2026 if situation unresolved.
 
 **May 7–8, 2026 (Daniel Prendergast)**:
 - **Financial flag**: "did EMASS ever pay the second invoice?"
@@ -61,7 +63,7 @@
 
 **April 30, 2026 (Maciej)**:
 - **EMASS ranked Priority #3 for closure**: "(1) S3 IRAD…, (2) S0-VTOL…, (3) **Closing out EMASS**…"
-- Confirms BST intent to complete despite external delays.
+- Confirms BST intent to complete despite external delays; reflects resource focus shift.
 
 **April 24–25, 2026**:
 - ✅ **Validation Flight #1 completed 2 days ahead of schedule** — demonstrates BST execution capability and effective test coordination despite ongoing customer dependencies.
@@ -81,10 +83,4 @@
 **Key Metrics**: Energy consumption, flight endurance, AI model accuracy, and system responsiveness
 
 **Timeline Evolution**: 
-- Original scope: Nov 10, 2025 – Jan 31, 2026 (12 weeks)
-- Extended: May 2026 (~5 months beyond original end date)
-- **Now indefinitely postponed on EMASS controller delivery** (as of May 13–14, 2026)
-- **Informal boundary for escalation/re-evaluation**: ~June 12, 2026 (Jack Elston, May 12, 2026: "we don't want to drag this out more than a month")
-
-**Customer Relationship & Payment Flag**: 
-- EMASS responsible for delivering functioning controller binary; BST currently blocked waiting
+- Original scope: Nov 10, 2025 –

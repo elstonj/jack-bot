@@ -1,8 +1,8 @@
 # Commercial Sales — Pipeline Index
 
-_Last scanned 2026-05-25 03:13_
+_Last scanned 2026-05-26 03:18_
 
-## Builds (19)
+## Builds (20)
 
 | Customer | Receive By | Payment | Build | Ship | Asana |
 |----------|------------|---------|-------|------|-------|
@@ -13,7 +13,8 @@ _Last scanned 2026-05-25 03:13_
 | DoW | — | estimate_sent | none | none | `1211892779240607` |
 | USAF | 2026-05-01 | estimate_sent | none | none | `1211602206477042` |
 | National Oceanography Centre (NOC) | 2026-05-15 | estimate_sent | none | none | `1212982512191690` |
-| NOAA | — | estimate_sent | none | none | `1213688340764301` |
+| USAF / USAF SOCOM | 2026-05-01 | estimate_sent | none | none | `1213361370552423` |
+| NOAA | 2028-05-01 | estimate_sent | none | none | `1213688340764301` |
 | NextTech Solutions | 2026-08-31 | estimate_sent | none | none | `1213710771915193` |
 | Canadian Defense Forces / NexTech Solutions | 2026-06-25 | estimate_sent | none | none | `1214795652219550` |
 | UC Santa Cruz Ocean Sciences | — | estimate_sent | none | none | `1210367257543500` |

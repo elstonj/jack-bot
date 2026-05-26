@@ -1,19 +1,25 @@
 # [001-03] S0-AD IRAD
 
-## Status
-**Archived/Inactive** — No open or completed tasks in Asana. Project appears to be dormant or completed without active tracking in the system.
-
 ## Overview
 - **Owner:** Josh Fromm
 - **Team:** BST (Whole Team)
 - **Priority:** Low
 - **Objective:** Optimize internal research and development processes by streamlining operations and ensuring compliance with standard operating procedures
-- **Task Count:** 0 open, 0 completed
+- **Status:** Active (1 open task)
+- **Task Count:** 1 open, 0 completed
+
+## Key Deliverables & Milestones
+- **GCS QC Process** — New Feature/Improvement, documentation focus (no due date set)
+
+## Task Summary
+- **Total:** 1 open task, 0 completed
+- **By Assignee:** 
+  - Unassigned: 1 task (GCS QC Process)
+
+## Recent Activity
+One open task exists with no due date: "GCS QC Process" (documentation-focused improvement). This task is currently unassigned and may need ownership clarification.
 
 ## Notes & Context
-This project has no active tasks recorded in Asana. It may have been:
-- Completed and closed out without formal task documentation
-- Archived as part of internal R&D portfolio management
-- Superseded by other initiatives
-
-To understand current status, check with **Josh Fromm** (project owner) for any external documentation or completion records outside of Asana.
+- Project transitioned from "archived/inactive" status to **active** with the addition of the GCS QC Process task
+- Task has no due date; recommend clarifying deadline and assigning owner for progress tracking
+- Focus appears to be on quality control documentation for GCS (Google Cloud Storage or internal equivalent)

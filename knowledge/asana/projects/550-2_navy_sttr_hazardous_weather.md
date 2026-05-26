@@ -16,11 +16,12 @@
   - Daniel Prendergast (EMASS validation flights; external dependencies: awaiting controller binary from EMASS team)
   - BST Whole Team
 - **Subcontractors**: 
-  - ERAU/Josh Wadler ($18,763 paid in base period; wadlerj@erau.edu; Pre-Award Contracting Officer: Garrett Filson, filsong@erau.edu; Phone: (386) 226-6000)
-  - Old Dominion University/John Park (h1park@odu.edu; Pre-Award Contracting Officer: Stephanie Haskell, sl2harri@odu.edu; Phone: (757) 683-3759)
-  - University of Miami/Jun Zhang (jun.zhang@earth.miami.edu; Phone: (305) 979-0903; **CRITICAL: must be included on all correspondence**; funds flow through ERAU sub; structural relationship: BST (Prime) → ERAU (sub) → U Miami (ERAU sub))
+  - ERAU/Josh Wadler ($18,763 paid in base period; wadlerj@erau.edu; 1 Aeronautical Blvd, Daytona Beach, FL 32114; Phone: (386) 226-6000; Pre-Award Contracting Officer: Garrett Filson, filsong@erau.edu)
+  - Old Dominion University/John Park (h1park@odu.edu; 2101F Engineering Systems Bldg, Norfolk, VA 23352; Phone: (757) 683-3759; Pre-Award Contracting Officer: Stephanie Haskell, sl2harri@odu.edu)
+  - University of Miami/Jun Zhang (jun.zhang@earth.miami.edu; Phone: (305) 979-0903; **CRITICAL: must be included on all correspondence**; structural relationship: BST (Prime) → ERAU (sub) → U Miami (ERAU sub))
 - **Risk Signals**: 
-  - EMASS validation flights blocked pending controller binary from external team (Daniel Prendergast, May 4, 2026)
+  - EMASS validation flights blocked pending controller binary from external EMASS team (Daniel Prendergast, May 4, 2026); flights #2 targeted May 5 earliest, flight #3 May 6 earliest
+  - **May 8 ISARRA task is OVERDUE** (due date May 8, status as of May 11)
   - Multiple technical tasks clustered May 8–29 with Maciej Stachura as sole assignee
   - June 3 Progress Report ($35,000) and September 1 Final Report ($14,446) remain pending
 
@@ -38,7 +39,7 @@
 - **Completed Tasks**: ~38 historical (base period through early option period)
 - **Assignee Focus**:
   - **Maciej Stachura**: 7 open technical tasks due May 8–June 3; responsible for Option Progress Report (June 3) and Final Report (Sept 1)
-    - Fix ISARRA data for James Pinto (due May 8)
+    - Fix ISARRA data for James Pinto (due May 8) — **OVERDUE**
     - Add mag-IMU alignment (due May 13)
     - Phase II Cal/Val Plan (due May 18)
     - Gather all comparison data from CAT (due May 22)
@@ -49,12 +50,13 @@
   - **Meredith O'hara Needham**: 2 invoice submissions (100% track record on-time)
     - Submit CLIN 1006 Invoice ($35,000; due June 3)
     - Submit CLIN 1007 Invoice ($14,446; due Sept 1)
+  - **Contact/Reference entries** (unassigned): Joshua Cotter, Josh Wadler, John Park, Jun Zhang (ERAU), Joshua Cosseth (Navy TPOC)
 
 ## Recent Activity
-- **May 11, 2026**: Jack Elston confirmed Navy STTR has priority over Navy SBIR; SBIR mostly on schedule.
-- **May 8, 2026**: Jack Elston reiterated priority correction via Asana feedback; Maciej updated project tasks.
-- **May 6, 2026**: Maciej Stachura reported Navy SBIR backlog addressed and updated Asana with Navy STTR as higher priority for the month.
-- **May 4, 2026**: Daniel Prendergast reported EMASS validation flights blocked pending controller binary from external EMASS team; team pivoting to prepare slides for 53rd Weather Squadron and SOCOM visit (Friday May 8); EMASS validation flight #2 targeted for May 5 at earliest, flight #3 for May 6 at earliest.
+- **May 11, 2026**: Jack Elston confirmed Navy STTR has priority over Navy SBIR via Asana feedback; SBIR mostly on schedule.
+- **May 8, 2026**: Jack Elston reiterated priority correction via Asana; Maciej updated project tasks.
+- **May 6, 2026**: Maciej Stachura reported Navy SBIR backlog addressed and flagged Navy STTR as higher priority for the month ahead.
+- **May 4, 2026**: Daniel Prendergast reported EMASS validation flights blocked pending controller binary from external EMASS team. Team pivoting to prepare slides for 53rd Weather Squadron and SOCOM visit (Friday May 8). EMASS validation flight #2 targeted for May 5 at earliest, flight #3 for May 6 at earliest. (Daniel also reiterated on April 29 the same blocker and timeline.)
 - **April 17, 2026**: Invoice and progress report submitted (Meredith O'hara Needham).
 - **February 13, 2026**: Status update posted (green status).
 
@@ -73,7 +75,5 @@
   - Submit CLIN 1007 Invoice ($14,446) — Meredith O'hara Needham
 
 ## Key Contacts
-- **Navy TPOC**: Joshua Cosseth (joshua.h.cossuth.civ@us.navy.mil; Phone: (407) 696-0703; Office of Naval Research, 875 N Randolph St., Office 1057, Arlington, VA 22203)
-- **Billing**: WAWF system (Wide Area Workflow; see submission instructions: https://docs.google.com/document/d/1Ea2PCGd6xCM0RdUq0AGeMnHPoyHjwV-WrF-1N7E4-Vc/edit?usp=sharing)
-- **ERAU**: Josh Wadler (wadlerj@erau.edu; 1 Aeronautical Blvd, Daytona Beach, FL 32114); Pre-Award CO: Garrett Filson (filsong@erau.edu; 386-226-6000)
-- **ODU**: John Park (h1park@odu.edu; 2101
+- **Navy TPOC**: Joshua Cosseth (joshua.h.cossuth.civ@us.navy.mil; Office of Naval Research, 875 N Randolph St., Office 1057, Arlington, VA 22203; Phone: (407) 696-0703)
+- **Billing**: WAWF system (Wide

@@ -16,8 +16,8 @@
 - Comprehensive testing across S1 2030/2040, FW 2030/2040, Xplane, and Gazebo platforms
 
 ## Task Summary
-- **Total Tasks**: 305 (3 open, 302 completed = 99% completion rate historically)
-- **Current Open Tasks** (all assigned to Ben Busby, all "Ready for Testing"):
+- **Total Tasks**: 305 (3 open, 302 completed = 99% historical completion rate)
+- **Current Open Tasks** (all assigned to Ben Busby, all "Ready for Testing", no due dates):
   1. Lost comms waypoint text input issue (master branch) – can't change text to set waypoint to number
   2. Level 2 error warning popup issues (master branch) – mission limits violation with waypoint, static pressure failure
   3. Map corridor area menu tap issue (hotfix/area_popup branch) – tapping area doesn't bring up mapping menu
@@ -38,7 +38,7 @@
 ## Notes & Context
 This is a critical maintenance project for BST's core autopilot technology (SwiftCore 3.2). The project demonstrates comprehensive quality assurance with extensive testing across multiple hardware platforms and simulators.
 
-**Workflow Update (May 2026)**: Per Daniel Prendergast (May 8–15, 2026), **new software issues should be routed to the SwiftCore 3.3 project going forward, not SwiftCore 3.2.** SwiftCore 3.2 is in stable maintenance mode. An Asana Form has been created as part of standard post-flight process to capture aircraft and equipment issues, automatically routing them to Fleet Maintenance (hardware) or appropriate software projects (SwiftCore 3.3 for software issues).
+**Workflow Update (May 2026)**: Per Daniel Prendergast (May 8–15, 2026), **new software issues should be routed to the SwiftCore 3.3 project going forward, not SwiftCore 3.2.** SwiftCore 3.2 is in stable maintenance mode. An Asana Form has been created as part of standard post-flight process to capture aircraft and equipment issues, automatically routing them to Fleet Maintenance (for hardware issues) or the appropriate software project (SwiftCore 3.3 for software issues). Teams may continue adding tasks manually if preferred.
 
 **Key technical areas addressed in completed work**:
 - **Flight safety systems**: Voltage monitoring, propulsion failure detection, landing protocols, static pressure failure detection, watchdog timers for GNSS and dynamic pressure

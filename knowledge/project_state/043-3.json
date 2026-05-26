@@ -29,7 +29,7 @@
         "amount": 27967.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-25"
+        "last_updated": "2026-05-26"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 98613.43,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-25T08:58:14Z"
+    "last_reconciled": "2026-05-26T09:02:02Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -94,6 +94,6 @@
       "text": "From Ethan: ByLight project timeline has been extended due to cancellation of a demo in India. Furthermore. The \"yellow version\" project has been clarified and asana tasks and timelines have been updated accordingly."
     }
   ],
-  "last_full_rebuild": "2026-05-25T08:58:14Z",
+  "last_full_rebuild": "2026-05-26T09:02:02Z",
   "last_incremental_update": null
 }
