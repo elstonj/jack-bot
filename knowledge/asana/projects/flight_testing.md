@@ -1,5 +1,4 @@
 # Flight Testing
 
-Small project with 2 tasks.
-- [Done] [Converted to template] QC Flight Template — Unassigned
-- [Done] S00001 Test Flight — Alex Lomis
+Small project with 1 tasks.
+- [Done] FW0001 new Controller Test — Maciej Stachura

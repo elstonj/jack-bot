@@ -26,10 +26,10 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 27981.25,
+        "amount": 28731.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-25"
+        "last_updated": "2026-05-26"
       },
       "purchases": {
         "amount": 0.0,
@@ -43,13 +43,13 @@
         "confidence": "exact",
         "last_updated": "2026-04-22"
       },
-      "total": 28028.05,
+      "total": 28778.05,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 61971.95,
+    "remaining": 61221.95,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-25T08:58:29Z"
+    "last_reconciled": "2026-05-26T09:02:17Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -124,6 +124,6 @@
       "text": "From Daniel Prendergast: <@U0AQE94HJUT> CU IRISS training is complete.  EMASS Validation Flight #2 is postponed indefinitely until they get us a functioning controller."
     }
   ],
-  "last_full_rebuild": "2026-05-25T08:58:29Z",
+  "last_full_rebuild": "2026-05-26T09:02:17Z",
   "last_incremental_update": null
 }

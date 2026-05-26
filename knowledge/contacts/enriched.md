@@ -2,301 +2,346 @@
 
 # Black Swift Technologies — External Contact Directory
 
+Last updated: May 26, 2026
+
+---
+
 ## NASA
 
-### Multi-Center Points of Contact (Government Sponsor)
-NASA serves as BST's primary government client/sponsor for aerospace and atmospheric research contracts across multiple centers (JPL, ARC, GSFC, LARC, JSC, and others).
+### John Glass
+- **Email:** John.Glass-1@nasa.gov, John.Glass@nasa.gov
+- **Role:** NASA Contact (Program Management/Coordination)
+- **BST Engagement:** Core government partner across multiple aerospace and atmospheric research contracts
+- **Contact about:** SBIR Phase I/II proposals, autonomy projects, data delivery coordination
 
-**John Glass** — NASA Contact
-- Email: John.Glass-1@nasa.gov, John.Glass@nasa.gov
-- Involvement: General NASA partnership coordination
+### Thomas A. Weisz
+- **Email:** thomas.a.weisz@nasa.gov
+- **Role:** NASA Contact
+- **BST Engagement:** Government program oversight
+- **Contact about:** Contract administration, technical reviews
 
-**Thomas A. Weisz** — NASA Contact
-- Email: thomas.a.weisz@nasa.gov
-- Involvement: General NASA partnership coordination
+### Matthew M. Fladelman
+- **Email:** matthew.m.fladeland@nasa.gov
+- **Role:** NASA Contact
+- **BST Engagement:** Atmospheric/flight operations oversight
+- **Contact about:** Flight test coordination, data collection missions
 
-**Matthew M. Fladeland** — NASA Contact
-- Email: matthew.m.fladeland@nasa.gov
-- Involvement: Atmospheric research programs (NOAA/NASA partnership)
+### Stephan R. Kawa
+- **Email:** stephan.r.kawa@nasa.gov
+- **Role:** NASA Contact
+- **BST Engagement:** Research program coordination
+- **Contact about:** Technical specifications, measurement protocols
 
-**Stephan R. Kawa** — NASA Contact
-- Email: stephan.r.kawa@nasa.gov
-- Involvement: SBIR coordination and carbon cycle research
+### Jennifer L. Gustetic
+- **Email:** jennifer.l.gustetic@nasa.gov
+- **Role:** NASA Program Manager
+- **BST Engagement:** SBIR/STTR administration
+- **Contact about:** Proposal submissions, award management
 
-### JPL (Jet Propulsion Laboratory)
+---
 
-**Andrew E. Johnson** — JPL Contact
-- Email: Andrew.E.Johnson@jpl.nasa.gov
-- Involvement: Autonomy and rover navigation systems
+## NASA — JPL (Jet Propulsion Laboratory)
 
-**Tara Estlin** — JPL Contact
-- Email: Tara.Estlin@jpl.nasa.gov
-- Involvement: Autonomous systems for robotics
+### Andrew E. Johnson
+- **Email:** Andrew.E.Johnson@jpl.nasa.gov
+- **Role:** JPL Technical Contact
+- **BST Engagement:** Rover/autonomous systems collaboration
+- **Contact about:** Autonomy integration, technical consultation
 
-**Marc Golombek** — JPL Contact
-- Email: mgolombek@jpl.nasa.gov
-- Involvement: Mars rover operations and landing site analysis
+### Tara Estlin
+- **Email:** Tara.Estlin@jpl.nasa.gov
+- **Role:** JPL Technical Lead (Autonomy)
+- **BST Engagement:** Flight control architecture and autonomy systems
+- **Contact about:** SwiftCore autonomy framework, rover control integration
+
+### Marc Golombek
+- **Email:** mgolombek@jpl.nasa.gov
+- **Role:** JPL Scientist
+- **BST Engagement:** Mars/planetary science support
+- **Contact about:** Sensor calibration, data validation protocols
+
+### Marco B. Quadrelli
+- **Email:** marco.b.quadrelli@jpl.nasa.gov
+- **Role:** JPL Technical Specialist
+- **BST Engagement:** Flight systems integration
+- **Contact about:** Autopilot specifications, firmware development
+
+### T.W. Thompson
+- **Email:** twthompson@jpl.nasa.gov
+- **Role:** JPL Contact
+- **BST Engagement:** Data management/archival
+- **Contact about:** Flight log formats, data repository integration
 
 ---
 
 ## NOAA (National Oceanic and Atmospheric Administration)
 
-### Primary Government Partner (Atmospheric & Weather Research)
-NOAA is a major government client/partner for atmospheric and weather research with 100+ contacts across multiple divisions. BST works extensively on tropical cyclone reconnaissance, boundary layer measurements, and atmospheric sensing projects.
+### Wayne M. Angevine
+- **Email:** wayne.m.angevine@noaa.gov
+- **Role:** NOAA Research Scientist
+- **BST Engagement:** Atmospheric measurement program (Project 301-3: S0 STTR Boundary Layer)
+- **Projects:** 301-3 (Navy STTR Boundary Layer)
+- **Contact about:** Sensor specifications for tropical cyclone/high-wind measurements, data validation, field campaign coordination
 
-**Wayne M. Angevine** — NOAA Contact
-- Email: wayne.m.angevine@noaa.gov
-- Involvement: Atmospheric dynamics and turbulence research
-- Context: Likely involved in boundary layer and CAT (Convective and Atmospheric Turbulence) flight projects
+### Matthew Zika
+- **Email:** matthew.zika@noaa.gov
+- **Role:** NOAA Oceanographer/Data Scientist
+- **BST Engagement:** Tropical cyclone research
+- **Contact about:** Data format standards, analysis methodologies
 
-**Peter Wolf** — NOAA Contact
-- Email: peter.wolf@noaa.gov
-- Involvement: General NOAA partnership coordination
+### Joel Cline
+- **Email:** joel.cline@noaa.gov
+- **Role:** NOAA Program Manager
+- **BST Engagement:** Hurricane reconnaissance program oversight
+- **Contact about:** Mission requirements, deployment coordination
 
-**Paul E. Johnston** — NOAA Contact
-- Email: paul.e.johnston@noaa.gov
-- Involvement: Tropical cyclone and hurricane research
-
-**Kirsten Boogard** — NOAA Program Manager
-- Email: (via grants-and-funding Slack)
-- Title: 777 PM (Program Manager)
-- Projects: NOAA SBIR/STTR proposals coordination
-- Context: Primary grant/proposal contact for NOAA funding opportunities
-
-**Gary Wick** — NOAA Contact
-- Email: gary.wick@noaa.gov
-- Involvement: Cloud and atmospheric aerosol research
-
-**Jonathan Neuhaus** — NOAA Contact
-- Email: jonathan.neuhaus@noaa.gov
-- Involvement: Atmospheric research and field operations
+### Kirsten Boogard
+- **Email:** [via grants-and-funding Slack]
+- **Title:** 777 PM at NOAA
+- **BST Engagement:** NOAA funding and program management
+- **Contact about:** ROSES proposals, SBIR coordination
 
 ---
 
-## Strategic Partners & Integration Contacts
+## U.S. Navy
 
-### Krateo Sky — M&A/Strategic Partnership (ACTIVE INTEGRATION)
+### Morris Hicks (Morris "DeSi")
+- **Email:** morris.hicks@nasa.gov [Navy DEVCOM contact]
+- **Title:** Navy DEVCOM Technical Officer
+- **BST Engagement:** Project 301-1 (Navy SBIR Magnetometer), Project 301-3 (Navy STTR Boundary Layer)
+- **Projects:** 301-1 (Magnetometer), 301-3 (Boundary Layer)
+- **Role:** Technical Program Officer (TPO)
+- **Contact about:** Technical requirements, deliverable specifications, quarterly reviews
 
-**Sona Raziabeegum** — Partnership/Strategy Lead
-- Email: sona@krateosky.com
-- Role: Integration workshop coordination, operational planning
-- Context: Active partnership with Krateo Sky for DoD S0-AD program; shared operational infrastructure and business development efforts
-- Projects: S0-AD SOCOM engagement, KrateoSky operations integration
-- Contact about: Aircraft platform coordination, joint DoD customer engagement, integration timelines
+### Angel Ruiz-Reyes
+- **Email:** [Navy contact on magnetometer project]
+- **Title:** Navy TPOC (Technical Point of Contact)
+- **BST Engagement:** Project 301-1 (Navy SBIR Magnetometer)
+- **Projects:** 301-1
+- **Role:** Navy Technical Lead
+- **Contact about:** Magnetometer system specifications, performance metrics, testing protocols
 
-**KrateoSky Business Development Team**
-- Involvement: DoD customer relationship management
-- Context: 7 KrateoSky Business Dev reps attending DoD SOCOM/53rd Weather Squadron customer engagement (May 1, 2026)
-- Contact about: Joint proposal development, customer presentation strategy
-
-### eMASS AI — ECSDoT Hardware Integration Partner
-
-**Nikhila (Nikhila Ravikumar)** — eMASS AI Lead Developer
-- Email: Nikhila@nanoveu.com (per email patterns; confirm current affiliation)
-- Role: ECSDoT chip integration and AI model implementation
-- Projects: 001_04 (S0 VTOL IRAD), E2 aircraft ECSDoT integration
-- Context: Active hardware-software integration for energy management system; firmware release coordination with Daniel Prendergast
-- Contact about: AI model training status, hardware integration milestones, E2 first-flight readiness
-
-**Mohamed M. Sabry** — eMASS AI, Model Training
-- Role: AI model training and constraint optimization (PPO controllers)
-- Contact about: Control strategy development, ML performance metrics
-
-**Sergio Ruocco** — eMASS AI, Firmware/SDK
-- Role: Autoboot firmware and SDK troubleshooting
-- Contact about: Firmware integration challenges, SDK compatibility
-
-**Shantanu** — eMASS AI, Hardware Verification
-- Role: Hardware verification and validation
-- Contact about: Hardware testing status
-
-**Scott (eMASS CEO), Mark (eMASS)**
-- Involvement: Executive decision-making on project scope and deliverables
-- Context: Media release planned for first week of May 2026; emphasized need for stable interfaces and demo-focused success criteria
-- Contact about: Project milestones, media/PR coordination
-
-### NanoVEU — Software Integration Partner
-
-**Nikhila Ravikumar** — NanoVEU Technical Lead
-- Email: Nikhila@nanoveu.com
-- Role: Software integration, firmware release coordination
-- Projects: Involved in autopilot and tablet code releases
-- Context: Firmware release responses to Daniel Prendergast (May 22, 2026)
-- Contact about: Software release schedules, firmware feature coordination
-
-### QuSpin — Magnetometer Sensor Partner (Navy SBIR)
-
-**Jeff (QuSpin)**
-- Involvement: QuSpin magnetometer integration for Navy SBIR Phase II
-- Projects: 25_1-Navy-SBIR-Magnetometer (active Phase II + Royal Navy engagement)
-- Context: Sensor positioning, shielding design, payload integration
-- Contact about: Magnetometer specifications, sensor performance data, aircraft integration requirements
-
-### Ultra Maritime — Navy SBIR Subcontractor
-
-**Paul (Ultra Maritime)**
-- Involvement: Phase 2 subcontractor for Navy SBIR magnetometer project
-- Projects: 25_1-Navy-SBIR-Magnetometer
-- Context: Selected over CRT for Phase 2 partnership; responsible for integration support
-- Contact about: Subcontract deliverables, technical integration support
-
-### By Light — Air Force Contract Partner
-
-**Bryan Sparling** — ByLight Pilot/Project Contact
-- Role: Flight operations lead, invoice/payment coordination
-- Projects: By-Lite-Mustang (USAF Yuma testing, aircraft development)
-- Context: Two-phase approach: Mustang flights for proof-of-concept, then Chilli airframe development for 400km range mission
-- Contact about: Flight test scheduling, aircraft delivery status, invoice processing
-
-**Mel (ByLight)**
-- Role: Executive decision-maker
-- Contact about: Scope changes, program milestones
+### Sarah Olsen
+- **Email:** [external AF 53rd Weather Reconnaissance contact]
+- **Title:** 53rd Weather Squadron Contact
+- **BST Engagement:** NOAA partnership on S3 VTOL deployment for tropical cyclone missions
+- **Projects:** S3 VTOL (boundary layer/hurricane)
+- **Role:** Government Partner/Mission Coordinator
+- **Contact about:** Field deployment schedules, data delivery, operational requirements
 
 ---
 
-## Government Customers & Program Officers
+## U.K. Ministry of Defence (MOD)
 
-### DoD/Air Force
-
-**SOCOM & 53rd Weather Squadron** — Joint Customer Engagement
-- Context: Full-day working discussion scheduled May 1, 2026 to define S0 mission requirements and aircraft modifications
-- Participants: 7 DoD customer reps attending with 2 KrateoSky Business Dev reps
-- Contact about: S0-AD platform specifications, mission requirements, operational readiness
-
-**Sarah Olsen** — USAF 53rd Weather Reconnaissance Squadron
-- Involvement: External AF contact for S3 project coordination
-- Projects: S3 VTOL development (high-endurance atmospheric sensing)
-- Contact about: S3 delivery and operational requirements
-
-**Morris Hicks** — Navy DEVCOM ("DeSi")
-- Email: morris.hicks@nasa.gov (note: listed under NASA; likely DEVCOM contact)
-- Role: Navy SBIR coordination
-- Projects: 25_1-Navy-SBIR-Magnetometer, 25_1-Navy-STTR-Boundary-Layer
-- Contact about: Navy SBIR program status, technical reviews, funding milestones
-
-**Angel Ruiz-Reyes** — Navy TPOC (Technical Point of Contact)
-- Involvement: Navy SBIR magnetometer program oversight
-- Projects: 25_1-Navy-SBIR-Magnetometer
-- Contact about: Navy technical requirements, compliance, reporting
-
-**Simon** — Royal Navy Contact (NEW)
-- Involvement: Emerging Royal Navy engagement for magnetometer/ASW applications
-- Projects: 25_1-Navy-SBIR-Magnetometer (extending into Royal Navy partnership)
-- Context: New contact identified May 2026; indicates international expansion of Navy SBIR work
-- Contact about: Royal Navy platform requirements, transatlantic collaboration
+### Simon Laurence
+- **Email:** Simon.Laurence157@mod.gov.uk
+- **Title:** UK MOD Contact
+- **BST Engagement:** Project (Merlin Mk2/US Navy SBIR coordination)
+- **Projects:** Merlin Mk2/Navy SBIR (active coordination as of May 2026)
+- **Role:** International Government Partner / Technical Liaison
+- **Context:** Recent high-priority email escalation (May 25, 2026) from Maciej Stachura; appears to involve US Navy program with UK MOD participation
+- **Contact about:** International program coordination, Merlin Mk2 technical specifications, MOD requirements
 
 ---
 
-## Customer Delivery & Operations Contacts
+## Flight Operations & Testing Partners
 
-### Barbados Meteorological Services
-
-**Sabu Best** — Primary POC
-- Title: Project contact for meteorological operations
-- Phone: 1-246-535-0016
-- Email: Sabu.Best@barbados.gov.bb
-- Role: Billing and technical POC for S0 VTOL delivery and training
-- Projects: 005-1 (Barbados VTOL S0 and Training)
-- Budget: $22,337
-- Contact about: S0 platform specifications (Microhard P900 radio 902-928 MHz ISM band), training delivery, frequency compliance, aircraft operational readiness
-
-### University of Colorado / CU Partners
-
-**Dan H.** — External Customer Contact
-- Involvement: AUVSI show participation, E2 battery interest
-- Context: Represents university research program with flight operations
-- Contact about: E2 platform capabilities, battery specifications, research collaboration
-
-**Chris (UMES)** — External Customer Contact
-- Involvement: S3 training and delivery coordination
-- Contact about: S3 operational readiness, training requirements, platform delivery
+### Sunny Slope Sod Farm
+- **Role:** External Airspace Contact / CU Training Partner
+- **BST Engagement:** Flight test site, pilot training location
+- **Contact about:** Airspace reservations, training schedules, site access coordination
 
 ---
 
-## Legal & Administrative Contacts
+## Battery & Power Systems Suppliers
 
-### Ko Firm (Kramer & Osborn LLP) — Legal Counsel
-
-**Nadia Bryan** — External Legal Counsel
-- Email: nbryan@kofirm.com
-- Role: M&A legal representation and diligence document coordination
-- Context: **CRITICAL PHASE**: Active diligence requests processing (May 24, 2026); email marked IMPORTANT and unread
-- Contact about: Acquisition/funding disclosure documents, regulatory compliance, deal structuring, diligence schedules
-- **Note**: M&A transaction in active regulatory/disclosure phase; looped coordination with Jack Elston and Meredith Needham
-
----
-
-## External Sensor & Technical Partners
-
-**Brody Basset** — US Commercial Service (Marketing Support)
-- Involvement: International market development support
-- Contact about: Export compliance, international customer development strategy
+### 3C Value (Beatrice)
+- **Email:** beatrice@3c-value.com
+- **Vendor:** Ultra-High Energy Density Battery Supplier
+- **Products:** 330Wh/kg 21700 cells, 430Wh/kg pouch cells
+- **BST Contact Point:** josh.fromm@bst.aero (direct outreach, marked IMPORTANT as of May 25, 2026)
+- **Significance:** Active evaluation for power-critical UAV/aircraft systems; high-priority supplier relationship
+- **Contact about:** Battery performance specs, availability, volume pricing, custom configurations
 
 ---
 
-## Vendor & Supplier Relationships (Operational Baseline)
+## Drone Components & Propulsion
 
-*Note: The following vendors support BST's manufacturing and R&D operations with ongoing procurement relationships. They should be contacted for component specifications, delivery schedules, and order status.*
+### QuSpin (Jeff)
+- **Role:** Magnetometer Sensor Partner
+- **BST Engagement:** Project 301-1 (Navy SBIR Magnetometer)
+- **Projects:** 301-1
+- **Contact about:** QuSpin magnetometer specifications, integration support, performance validation
 
-### Electronics & Components (Active Procurement)
-- **DigiKey**: Active invoiced procurement (invoice 126244889, shipment May 24)
-- **McMaster-Carr**: Industrial components and fasteners
-- **Battery Junction**: Battery procurement and technical support
-- **ELEGOO US**: Arduino and microcontroller hobby electronics
-- **Mouser Electronics**, **Pasternack**, **Adafruit Industries**, **RS**, **L-com**, **Infinite Electronics**, **Master Electronics**
-
-### Manufacturing & Fabrication Services
-- **SendCutSend**: Sheet metal laser/waterjet cutting (active shipment in transit, May 25)
-- **ProtoCase**: Custom enclosure graphics and production (order V051526096-255039-1, active approval cycle)
-- **eMachineShop**: Material selection and design services
-
-### Hobby/RC & Propulsion Components
-- **HeliDirect**: Helicopter kits, servo motors, control systems (continued high-frequency campaigns)
-- **Hobbyking**: RC aircraft components and electronics
-- **AMain Hobbies**: Hobby aircraft and electronics
-- **CADDXFPV**: FPV and drone components
-
-### Aviation/Aerospace Suppliers
-- **uAvionix**: Aviation electronics and transponder systems
-- **SkyGeek**: Aviation supplies and equipment
-- **CAPS Aviation**: Aviation-grade components
-- **Jawstec**: Aerospace component sourcing
-- **Phase 1 Aviation LLC**: Aviation equipment and supplies
-- **Daniels Manufacturing Corporation**: Aerospace cable and components
-
-### Logistics & Shipping Coordination
-- **FedEx, UPS, USPS**: Shipping and delivery logistics (USPS Informed Delivery tracking active)
-- **Melissa Phillips** (BST internal): Primary shipping/logistics coordination lead
+### Ultra Maritime (Paul)
+- **Role:** Phase II Subcontractor
+- **BST Engagement:** Project 301-1 (Navy SBIR Magnetometer) — acoustic sensing component
+- **Projects:** 301-1
+- **Contact about:** Acoustic sensor integration, subcontract deliverables, technical coordination
 
 ---
 
-## Communications & Visibility Contacts
+## Software & Simulation Partners
 
-**STATION Austin** — Joshua Baer / Community Hub
-- Email: media@blackswifttech.com (routed through BST media address)
-- Involvement: Weekly community hub programming, Austin startup ecosystem engagement
-- Context: NEW SIGNAL (May 24, 2026); indicates BST exploration of Austin tech community participation or operational presence
-- Contact about: Community engagement, local entrepreneur network, potential relocation/expansion planning
+### eMASS AI / Nikhila Ravikumar
+- **Email:** Nikhila@nanoveu.com [via NanoVEU channel]
+- **Title:** Primary Developer / AI Model Engineer
+- **BST Engagement:** Project E2/ECSDoT (Energy Management AI Chip Integration)
+- **Projects:** E2/ECSDoT (energy management system), EMASS ML flight controller
+- **Role:** External ML Partner / Technical Developer
+- **Recent Activity:** Intensive hardware integration and model training (March-May 2026); first flight test completed April 24, 2026; currently troubleshooting navigation and control stability issues (May 25, 2026)
+- **Contact about:** ML model training, hardware firmware, flight test coordination, control algorithms
+
+### Mohamed M. Sabry (Moe)
+- **Email:** msabry@nanoveu.com [via NanoVEU], also operates as Read AI meeting assistant
+- **Title:** AI Model Training / Constraint Optimization Lead
+- **BST Engagement:** Project E2/ECSDoT (eMASS integration)
+- **Projects:** E2/ECSDoT
+- **Role:** ML Optimization Engineer
+- **Contact about:** PPO control strategy, model training, velocity command refinement
+
+### Sergio Ruocco
+- **Email:** [eMASS AI contact]
+- **Title:** Autoboot Firmware Expert
+- **BST Engagement:** Project E2/ECSDoT
+- **Contact about:** SDK bring-up, firmware troubleshooting, hardware verification
 
 ---
 
-## Summary Guidance by Interaction Type
+## Government/Research Institutions
 
-### **Government Programs** (Primary Revenue)
-- **NASA**: John Glass, Matthew Fladeland, Stephan Kawa, JPL team (Andrew Johnson, Tara Estlin, Marc Golombek)
-- **NOAA**: Wayne Angevine, Kirsten Boogard (grant PM), Paul Johnston (hurricanes), Gary Wick (aerosols)
-- **DoD/Navy**: Morris Hicks, Angel Ruiz-Reyes, Sarah Olsen, Royal Navy (Simon)
-- **Air Force**: Bryan Sparling (ByLight), SOCOM/53rd Weather (May 1 customer visit)
+### Gijs
+- **Role:** BNL (Brookhaven National Laboratory) Partner
+- **BST Engagement:** Grants and funding coordination
+- **Contact about:** Collaborative research proposals, facility access, joint funding opportunities
 
-### **Strategic Partners** (Integration & Growth)
-- **Krateo Sky**: Sona Raziabeegum (partnership lead, DoD coordination)
-- **eMASS AI**: Nikhila, Mohamed Sabry, Sergio Ruocco (E2 integration)
-- **NanoVEU**: Nikhila Ravikumar (software/firmware)
+---
 
-### **Direct Customers** (Commercial Sales)
-- **Barbados Meteorological Services**: Sabu Best (S0 delivery, $22K contract)
-- **University Partners**: Dan H. (CU), Chris (UMES)
+## Legal & Business Advisory
 
-### **Legal/Finance** (Acquisition Phase)
-- **Ko Firm**: Nadia Bryan (M&A counsel, active diligence)
-- **Meredith Needham** (BST internal): Finance, vendor relationships, invoicing
+### Karen Jodzio-Head
+- **Email:** kjodzio-head@cozen.com
+- **Firm:** Cozen O'Connor (Legal Counsel)
+- **BST Engagement:** Legal engagement and diligence support (marked IMPORTANT, May 2026)
+- **Projects:** Black Swift - Diligence Requests, Soil Moisture Company legal engagement
+- **Role:** External Legal Counsel
+- **Context:** Auto-replies received suggesting out-of-office status; handling ongoing contractual and diligence matters
+- **Contact about:** Contract review, legal compliance, business transactions, due diligence support
+
+### Nadia Bryan
+- **Email:** nbryan@kofirm.com
+- **Firm:** Law Firm (kofirm.com)
+- **BST Engagement:** External legal/business advisor
+- **Role:** Business Development / Legal Advisor
+- **Contact about:** Legal consulting, business advisory
+
+---
+
+## Investment & Business Development
+
+### Fortuna Investments
+- **Role:** Investment/Partnership Inquiry
+- **BST Engagement:** New contact as of May 25, 2026; introduced via Vahid Eghtesad internal forwarding
+- **Context:** Company-wide visibility (routed through info@blackswifttech.com); represents potential capital raise or partnership opportunity
+- **Contact about:** Investment terms, partnership structures, capital availability
+
+---
+
+## Aerospace/Aviation Sector
+
+### ByLight Mustang Project Contact
+- **Name:** Bryan Sparling (ByLight pilot/contact)
+- **Role:** U.S. Air Force Customer (Yuma testing)
+- **BST Engagement:** Project BY-LITE-MUSTANG (customer contract for Air Force)
+- **Projects:** BY-LITE-MUSTANG
+- **Responsibility:** Flight operations, payload coordination, invoice/payment
+- **Contact about:** Flight test scheduling, deliverable acceptance, scope changes
+
+### Mel
+- **Role:** ByLight Decision-Maker
+- **BST Engagement:** Project BY-LITE-MUSTANG
+- **Projects:** BY-LITE-MUSTANG
+- **Contact about:** Contract decisions, approval authority, major changes
+
+---
+
+## NanoVEU Integration Partners (E2/ECS-DoT Project)
+
+### Scott Smyser
+- **Email:** Scott@nanoveu.com, sssmyse@gmail.com
+- **Title:** NanoVEU Lead / Project Coordinator
+- **BST Engagement:** Project E2/ECS-DoT (DoT integration project)
+- **Projects:** E2/ECS-DoT integration
+- **Role:** Partner Project Lead
+- **Recent Activity:** Multiple escalated emails May 25, 2026 (EMASS - BST Project Meeting resends) indicating coordination challenges requiring attention
+- **Contact about:** E2/ECS-DoT integration timeline, hardware requirements, firmware coordination
+
+### Nikhila Ravikumar
+- **Email:** Nikhila@nanoveu.com
+- **Title:** NanoVEU Technical Lead / eMASS AI Developer
+- **BST Engagement:** Project E2/ECS-DoT (firmware and AI model)
+- **Projects:** E2/ECS-DoT
+- **Role:** Primary Technical Developer
+- **Contact about:** Firmware releases, AI model training, integration testing
+
+### Mark
+- **Email:** mark@nanoveu.com
+- **Title:** NanoVEU Technical Contact
+- **BST Engagement:** Project E2/ECS-DoT
+- **Projects:** E2/ECS-DoT
+- **Contact about:** Technical specifications, hardware coordination
+
+### Tom Wilp
+- **Email:** tom.wilp@nanoveu.com
+- **Title:** NanoVEU Contact
+- **BST Engagement:** Project E2/ECS-DoT
+- **Projects:** E2/ECS-DoT
+- **Contact about:** Integration support, testing coordination
+
+---
+
+## Vendor & Equipment Suppliers
+
+### HeliDirect
+- **Email:** sales@helidirect.com
+- **Product Category:** RC/Drone Components (propulsion, rotorcraft systems)
+- **BST Engagement:** Sustained high-volume promotional activity; routed through purchasing@ alias; primary contact Meredith Needham
+- **Recent Activity:** Aggressive Memorial Day promotional cycle (May 25, 2026, dual "Last Chance" emails)
+- **Procurement Signal:** Active sourcing of helicopter/rotorcraft propulsion components
+- **Contact about:** Component availability, volume pricing, technical specifications
+
+### Battery Junction
+- **Email:** [via purchasing@blackswifttech.com]
+- **Product Category:** Battery/Power Systems Specialist
+- **BST Engagement:** High-volume promotional contact; personalized product recommendations sent May 25, 2026
+- **Procurement Signal:** Active battery evaluation and sourcing for power-critical applications
+- **Contact about:** Battery specifications, high-energy-density options, custom configurations
+
+### Spindrift Market
+- **Email:** [subscription service]
+- **Product Category:** Beverage Subscription Service
+- **BST Engagement:** Active subscription with regular shipments (two deliveries May 26, 2026)
+- **Note:** Consumer subscription, not directly work-related but indicates office/field operations amenity
+
+### Utmel Electronics
+- **Email:** sales5@utmel.com (contact: Peggy)
+- **Product Category:** International Electronics Component Supplier
+- **BST Engagement:** New vendor contact as of May 26, 2026; referenced "Electronica China Shanghai" exhibition
+- **Procurement Signal:** International component sourcing or trade show participation for electronic components
+- **Contact about:** Component sourcing, availability, volume pricing, trade show coordination
+
+---
+
+## Notes on Contact Strategy
+
+**High-Priority Contacts for Outreach:**
+- **Government Partners (NASA, NOAA, Navy):** Focus on proposal coordination, technical requirements, and quarterly program reviews
+- **eMASS AI (Nikhila):** Critical for ongoing E2/ECSDoT integration; currently troubleshooting flight control issues
+- **3C Value (Beatrice):** New high-priority battery supplier evaluation in progress
+- **Simon Laurence (UK MOD):** Active high-level coordination on Navy SBIR program
+
+**Relationship Categories:**
+1. **Government Clients/Partners:** NASA centers, NOAA, U.S. Navy, U.K. MOD — primary revenue and research opportunities
+2. **Technology Partners:** eMASS AI, NanoVEU, QuSpin — critical integration and capability development
+3. **Vendors & Suppliers:** Battery, electronics, propulsion — operational support and R&D enablement
+4. **Legal/Financial:** Cozen O'Connor, Fortuna Investments — business development and compliance support

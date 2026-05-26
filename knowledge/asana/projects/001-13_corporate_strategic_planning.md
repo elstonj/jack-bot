@@ -21,7 +21,7 @@
 - **SSCI Subcontract** (May 2024): $200K — **Completed**
 - **USDA 2024 SBIR** (Jul 2024): Submitted
 - **2024 NASA SBIR Phase I** (Mar 2024): Submitted
-- **2023 ROSES** (Jan 2024): Submitted
+- **2023 ROSES** (Jan 2024): Submitted (Due: Jan 16, 2024; Completed: Jan 17, 2024)
 - **AFWERX 2024.6 SBIR** (May 2024): Submitted
 
 ### Historical Funding References
@@ -40,8 +40,8 @@
 ## Task Summary
 - **Total Tasks**: 0 open, 1 completed (100% completion rate)
 - **Tasks by Assignee**:
+  - **Maciej Stachura**: SBIR proposal management, technical opportunities, proposal submissions (6+ proposals over 2022–2024); Navy project oversight (completed as of Apr 17, 2026); 2023 ROSES submission
   - **Jack Elston**: Strategic leadership, financial planning, business development, website updates, investor relations
-  - **Maciej Stachura**: SBIR proposal management, technical opportunities, proposal submissions (6+ proposals over 2022–2024); Navy project oversight (completed as of Apr 17, 2026)
   - **Meredith O'Hara Needham**: Administrative support, document collection and organization, LOI/MOU/support letter curation
   - **Unassigned**: Many proposals and strategic initiatives
 - **Notable Patterns**: 
@@ -67,6 +67,8 @@
 ## Recent Activity
 
 ### Completed Tasks (2024-2025)
+- **2023 ROSES** (Maciej Stachura, Due: Jan 16, 2024; Completed: Jan 17, 2024)
+  - NASA Earth science, geospatial, and socioeconomic proposal integration solicitation
 - **CO/WY NSF Translation concept paper** (Feb 2025) — Methane detection $300K proposal reviewed but not funded
 - **Document collection for proposals** (Nov 2024) — LOIs, MOUs, support letters organized
 - **2024 NASA ROSES Wildfire proposal** (Oct 2024) — $896.5K wildfire project reviewed but not funded
@@ -118,7 +120,4 @@
 
 ### Key Observations
 - **Funding Pipeline Health**: Multiple large proposals ($300K–$896.5K range) submitted but not funded in 2024–2025; suggests need to refine proposal strategy or expand pipeline diversity
-- **Proposal Cadence**: Regular SBIR submission cycle with strong organizational support (LOIs, MOUs, support letters tracked systematically)
-- **Strategic Maturity**: Well-defined core values, structured marketing goals (SMART framework), and clear customer segmentation (government/institutional via LinkedIn/email) indicate developed business strategy
-- **Operational Transition**: Ongoing shift from spreadsheet-based financial management to integrated QuickBooks reporting (Aug 2024 update indicates progress)
-- **
+- **Proposal Cadence**: Regular SBIR submission cycle with strong organizational support (LO

@@ -1,0 +1,44 @@
+{
+  "asana_gid": "1213361370552423",
+  "asana_task_name": "Nexus Weather",
+  "customer": "USAF / USAF SOCOM",
+  "customer_contact": "Russ Evans (WC-130J), Evan Wolff (SOCOM TSgt)",
+  "customer_email": "",
+  "receive_by": "2026-05-01",
+  "ship_to": "Evan Wolff, 3-3242 Malvesti St, Fort Bragg, NC 28310",
+  "items": [
+    {
+      "description": "S0-AD system",
+      "quantity": 1
+    },
+    {
+      "description": "S0-AD UAS",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "estimate_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": "",
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": "",
+  "carrier": "",
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Dual-track USAF engagement: WC-130J Weather Squadrons (Russ Evans) facility visit planned 2026-05-01; SOCOM CRADA (TSgt Evan Wolff) for C-130 air-launch demo by 2026-10-30. Active DoD partnership with clear evaluation pathway. Estimates sent; near-term deliverable for WC-130J evaluation.",
+  "missing_fields": [
+    "customer_email",
+    "estimate_date",
+    "invoice_amount",
+    "parts"
+  ],
+  "last_evidence_date": "2026-05-21"
+}

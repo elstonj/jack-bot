@@ -49,7 +49,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "KEEP override: QBO invoice #1667 (2025-05-07, $21,181.81) PAID in full. Active engagement: Kevin Adkins inquired about delivery for ISARRA Flight Week Aug/Sept 2026 (2026-05-19 email). Jack Elston confirmed aim for that delivery date and offered to ship units to ISARRA site (2026-05-21). Beck Cotter provided bug-resolution and flight-testing status update (2026-03-17). Currently in QC per Slack (2026-05-20). Note: separate unpaid invoice #1730 ($2,462.50) exists on same customer account for different project; primary build (invoice #1667) is paid and active.",
+  "notes": "KEEP override: QBO invoice #1667 (2025-05-07, $21,181.81) PAID in full. Active engagement: Kevin Adkins inquired about delivery for ISARRA Flight Week Aug/Sept 2026 (2026-05-19 email); Jack Elston confirmed aim for that delivery date and offered to ship units to ISARRA site (2026-05-21). Beck Cotter provided bug-resolution and flight-testing status update (2026-03-17). Currently in QC per Slack (2026-05-20). Note: separate unpaid invoice #1730 ($2,462.50) exists on same customer account for different project; primary build (invoice #1667) is paid and active.",
   "missing_fields": [
     "shipped_date",
     "tracking_number"

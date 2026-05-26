@@ -19,10 +19,10 @@
 - **By Assignee:** Meredith O'hara Needham (1 open task – 100%)
 
 ## Recent Activity
-Single open shipment task awaiting execution. Project remains on track. Per Maciej (2026-04-30), S0-VTOL deliveries (ERAU and Barbados) are BST's **#2 highest priority** after S3 IRAD with targeted end-of-May delivery.
+Single open shipment task awaiting execution by Meredith O'hara Needham. Project remains on track for June 25–30 delivery window. Per Maciej (2026-04-30), S0-VTOL deliveries (ERAU and Barbados) are BST's **#2 highest priority** after S3 IRAD.
 
 ## Notes & Context
-- **Priority Context:** Maciej identified five key priority areas (2026-04-30): (1) S3 IRAD, (2) S0-VTOL (ERAU + Barbados), (3) EMASS closeout, (4) By-Lite Mustang, (5) SBIR Magnetometer.
+- **Priority Context:** Maciej identified five key priority areas (2026-04-30): (1) S3 IRAD (targeted end-of-May delivery), (2) S0-VTOL (ERAU + Barbados), (3) EMASS closeout, (4) By-Lite Mustang, (5) SBIR Magnetometer.
 - This ERAU delivery is part of a two-unit S0-VTOL deployment.
 - Customer Type: Commercial
 - Project notes reference attached email request for additional context.

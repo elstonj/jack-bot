@@ -1,9 +1,10 @@
 # Unmapped Customers
 
-_Generated 2026-05-25 03:13 — customers who have emailed info@/sales@ but aren't yet tracked as Asana Commercial Sales tasks._
+_Generated 2026-05-26 03:18 — customers who have emailed info@/sales@ but aren't yet tracked as Asana Commercial Sales tasks._
 
 | Latest | Domain | # Emails | Recent subjects |
 |--------|--------|----------|-----------------|
+| 2026-05-25 | mido.tech | 1 | Meteo Dron |
 | 2026-05-23 | spaceagenda.com | 1 | SpaceAgenda, 400+ space industry events in one calendar |
 | 2026-05-22 | xbw.it | 1 | Batterie al litio: quando il progetto si gioca sugli ingombri |
 | 2026-05-22 | nutshell.com | 1 | Master Multi-Page Forms in Nutshell |

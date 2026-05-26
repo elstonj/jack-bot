@@ -14,10 +14,10 @@
   - **S0-VTOL crash bug under active investigation and repair** (week of April 20, 2026); flight test restart in progress
   - **Bench test work overdue as of April 24, 2026:** "Visual Observation Bench Test" overdue; "Instrumented Bench Test" due by Thursday following April 24 (Maciej Stachura, April 24 & 30, 2026)
   - May 22, 2026 delivery deadline at imminent risk; threatens June 23 handoff and July 1–4 training dates
-  - **Per Maciej Stachura (April 30 & May 4, 2026):** S0-VTOL ranked #2 company priority (after S3 IRAD, tied with ERAU S0-VTOL delivery); requires realistic Asana due date update post-ByLight meeting
+  - **Per Maciej Stachura (April 30, May 4, 2026):** S0-VTOL ranked #2 company priority (after S3 IRAD, tied with ERAU S0-VTOL delivery); requires realistic Asana due date update post-ByLight meeting
   - Operator training unassigned with no due date despite July 1–4 travel commitment and 6 trainees
   - **902–928 MHz ISM band interference risk flagged by Barbados Prime Minister's Office** — requires verification before operational deployment
-- **Team Members:** Alex Lomis (owner), Beck Cotter (delivery lead), Jack Elston (handoff/training lead), Maciej Stachura (technical troubleshooting), Daniel Prendergast (support)
+- **Team Members:** Alex Lomis (owner), Beck Cotter (delivery lead), Jack Elston (handoff/training lead), Maciej Stachura (technical troubleshooting/priority management), Daniel Prendergast (support)
 - **Risk Signals:** 
   - **S0 VTOL crash bug—active repair in progress; flight test restart on critical path**
   - **Bench test work overdue (Visual Observation); Instrumented Bench Test due mid-week of May 5, 2026**
@@ -25,7 +25,7 @@
   - Ground station asset scarcity flagged by Jack Elston (April 20, 2026): potential hardware reprioritization if timeline slips
   - **Operator training unassigned and without formal due date** despite imminent July travel and 6-person commitment
   - NDAA compliance not finalized; per Alex Lomis (April 17, 2026), S0 VTOL "can be" compliant but not "fully" compliant yet
-  - **Radio interference risk in 902–928 MHz ISM band (Microhard P900, frequency-hopping 200 kHz channels) not yet verified**
+  - **Radio interference risk in 902–928 MHz ISM band (Microhard P900, FCC ID NS913P900, frequency-hopping 200 kHz channels) not yet verified**
 
 ## Key Deliverables & Milestones
 
@@ -33,12 +33,12 @@
 |---|---|---|---|---|
 | **Visual Observation Bench Test** | Beck Cotter (or support team) | 2026-04-24 | ⚠️ **OVERDUE** | Per Maciej (April 30, 2026): "one overdue task 'Visual Observation Bench Test'"; must catch up before next deliverable. |
 | **Instrumented Bench Test** | Beck Cotter (or support team) | ~2026-05-01 (mid-week following 2026-04-24) | ⚠️ **IN PROGRESS** | Per Maciej (April 24 & 30, 2026): due "by next Thursday" following April 24; blocking S0 VTOL delivery. |
-| **Deliver S0 VTOL to Barbados** | Beck Cotter | 2026-05-22 | ⚠️ **CRITICAL BLOCKER** | Crash bug under active investigation and repair (week of April 20, 2026); flight test restart in progress. Bench tests must complete first. Maciej requested realistic due date update (May 4, 2026) post-ByLight meeting. Platform: S0 VTOL; Order Qty: 1. Training/travel needed July 1–4. |
+| **Deliver S0 VTOL to Barbados** | Beck Cotter | 2026-05-22 | ⚠️ **CRITICAL BLOCKER** | Crash bug under active investigation and repair (week of April 20, 2026); flight test restart in progress. Bench tests must complete first. **Per Maciej (May 4, 2026): "after your meeting with ByLight let's update the due dates in Asana to realistic numbers"** — current May 22 date likely unrealistic pending crash bug resolution. Platform: S0 VTOL; Order Qty: 1. Training/travel needed July 1–4. |
 | **S0 VTOL Handoff Meeting** | Jack Elston | 2026-06-23 | ⚠️ **At Risk** | In-person handoff with Sabu Best and Barbados Meteorological Services. Dependent on Beck Cotter delivery (May 22) completion. |
 | **Operator Training Materials & Supplies** | *Unassigned* | *No due date* | Open | Training curriculum and materials required for 6 trainees (including Junior Brathwaite). Sabu Best available week of May 5, 2025 (for preliminary materials review). **Must assign and finalize by June 2026.** |
-| **Operator Training Delivery** | Jack Elston | 2026-07-01–04 | ⚠️ **At Risk** | In-person training in Barbados; 6 trainees. Travel scheduled. Mission: operate S0 VTOL east of Barbados to intercept developing storms; tentative launch site Bushy Park. Dependent on S0 VTOL delivery and June 23 handoff. |
+| **Operator Training Delivery** | Jack Elston | 2026-07-01–04 | ⚠️ **At Risk** | In-person training in Barbados; 6 trainees. Travel scheduled. Mission: operate S0 VTOL east of Barbados to intercept developing storms; launch site tentatively Bushy Park. Dependent on S0 VTOL delivery and June 23 handoff. Per Jack Elston (May 5–6, 2026): operator training is "part of his training" (contextual confirmation of handoff/training sequencing). |
 | **Generate NetCDF on UA or Tablet** | Maciej Stachura | *No due date* | Open | Technical requirement for meteorological data collection and analysis; supports mission objective to intercept developing storms. |
-| **ISM Band Interference Verification** | *Not assigned* | *Not scheduled* | Open | **ACTION REQUIRED:** Verify Microhard P900 (FCC ID: NS913P900; 902–928 MHz frequency-hopping, 200 kHz channels) mitigation against interference risk in unregulated ISM band. Barbados Prime Minister's Office flagged concern. Must complete before operational deployment. |
+| **ISM Band Interference Verification** | *Not assigned* | *Not scheduled* | Open | **ACTION REQUIRED:** Verify Microhard P900 (FCC ID: NS913P900; IC ID: 3143A-13P900; PN: MHS185000; 902–928 MHz frequency-hopping, 200 kHz channels) mitigation against interference risk in unregulated ISM band. Barbados Prime Minister's Office flagged concern: "the frequency range 902 MHz to 928 MHz is the unregulated ISM band and your drone may be prone to interference when it operates in this b[and]." Must complete before operational deployment. |
 | **NDAA Compliance Finalization** | *Not assigned* | *Not scheduled* | Open | Per Alex Lomis (April 17, 2026): S0 VTOL "can be" compliant but not "fully" compliant yet. Must resolve before delivery/handoff. |
 
 ## Task Summary
@@ -49,9 +49,7 @@
 
 | Assignee | Task | Due | Status | Notes |
 |---|---|---|---|---|
-| **Beck Cotter** | Barbados S0 VTOL delivery | 2026-05-22 | ⚠️ CRITICAL | Primary delivery task; crash bug & flight restart blocking. Bench tests overdue/in-progress. Maciej flagged need for realistic due date update (May 4, 2026). Training/travel July 1–4. |
-| **Jack Elston** | S0 VTOL handoff meeting | 2026-06-23 | Open | Dependent on Beck's delivery. Ground station asset constraints flagged (April 20, 2026). Training is part of handoff activities (per Jack, May 5–6, 2026). |
-| **Jack Elston** | Operator training delivery | 2026-07-01–04 | Open | Training for 6 trainees in Barbados; travel scheduled. Dependent on delivery & handoff. |
-| **Maciej Stachura** | Generate NetCDF on UA or Tablet | No due date | Open | Supports meteorological data mission objective. Not yet prioritized. |
-| **Alex Lomis** | Deliver S0 VTOL (secondary task record) | No due date | Open | Duplicate/support task for delivery. Owner-level oversight. |
-| **Unassigned** | Conduct operator training (materials & curriculum) | No due date | **URGENT** | 6 trainees; no assignee; no formal due date despite July travel. Sabu available week of May 5, 2025 for preliminary review.
+| **Beck Cotter** | Barbados S0 VTOL delivery | 2026-05-22 | ⚠️ CRITICAL | Primary delivery task; crash bug & flight restart blocking. Bench tests overdue/in-progress. **Per Maciej (May 4, 2026): requires realistic due date update post-ByLight meeting.** Training/travel July 1–4. |
+| **Jack Elston** | S0 VTOL handoff meeting | 2026-06-23 | Open | Dependent on Beck's delivery. Ground station asset constraints flagged (April 20, 2026). Training sequencing confirmed (May 5–6, 2026). |
+| **Jack Elston** | Operator training delivery | 2026-07-01–04 | Open | Training for 6 trainees in Barbados (including Junior Brathwaite); travel scheduled. Dependent on delivery & handoff. |
+| **Maciej

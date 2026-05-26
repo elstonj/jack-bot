@@ -1,6 +1,5 @@
 # Nate Straus — Email Patterns
 
-Only 2 emails found in scanned period.
+Only 1 emails found in scanned period.
 
-- Fri, 22 May 2026 10:03:41 -0600: BAS member for sale items (from: Al Coelho <a.coelho@comcast.net>)
-- Fri, 22 May 2026 09:53:18 -0600: BAS May newsletter (from: Al Coelho <a.coelho@comcast.net>)
+- Mon, 25 May 2026 19:52:59 -0700: Swarm Software Integration KhanBMS (from: Jesse Gilbert <jessegilbert1977@gmail.com>)

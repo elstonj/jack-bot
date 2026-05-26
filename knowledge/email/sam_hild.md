@@ -1,106 +1,109 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 168 emails across nine data pulls
-- **Date range:** 16–25 May 2026
-- **Volume pattern:** Heavily transactional (85+ routed via purchasing alias). Approximately 3–4 direct work emails visible. Peak activity 19–22 May (bulk order processing, field trip coordination). **Extended pull (8 emails, 23–25 May) confirms sustained high-volume promotional/transactional activity.** Weekend and holiday promotional stream continues unabated (24–25 May). All new messages marked UNREAD, indicating recent email catchup or processing cycle.
+- **Total messages scanned:** 183 emails across ten data pulls
+- **Date range:** 16–26 May 2026
+- **Volume pattern:** Heavily transactional (95+ routed via purchasing alias). Approximately 3–4 direct work emails visible. Peak activity 19–22 May (bulk order processing, field trip coordination). **Extended pulls (23–26 May) confirm sustained high-volume promotional/transactional activity through Memorial Day and beyond.** All new messages marked UNREAD, indicating recent email catchup or processing cycle.
 
 ## Key Correspondents
 
 ### Senders (by frequency)
 
-**Purchasing team alias route** (109+ emails total)
+**Purchasing team alias route** (115+ emails total)
 
 #### Electronics & Components Suppliers
-- **McMaster-Carr** (5 total) — Order S3 SALES (receipt, certificates, tracking, confirmation) — ongoing active procurement
-- **DigiKey** (8 total, +1 new) — Order #99376023 sales order acknowledgement; delay notification regarding order (22 May); **NEW: Package shipment notification for invoice 126244889 (24 May)** — active procurement cycle
+- **DigiKey** (8 total, +0 new) — Order #99376023 sales order acknowledgement; delay notification; package shipment notifications — active procurement cycle
+- **McMaster-Carr** (5 total) — Order S3 SALES (receipt, certificates, tracking, confirmation)
 - **Pasternack** (4 total) — Web Order #393639
 - **Mouser** (2 total)
 - **Adafruit Industries** (1 total)
-- **Battery Junction** (9 total) — Order BJ-760679 canceled; customer service interaction; Memorial Day rewards/discount promotion; sustained promotional cadence
+- **ELEGOO US** (3 total) — Flash sale notifications; routed to Alexis Lomis variant
 - **Infinite Electronics** (2 total)
 - **Master Electronics** (1 total)
 - **RS** (2 total)
 - **L-com** (2 total)
-- **ELEGOO US** (3 total, +1 new) — **NEW: "Catch the Final Flash Deals⚡" flash sale notification (24 May)** — routed to Alexis Lomis variant; time-limited promotional engagement
 
 #### Manufacturing & Fabrication Services
-- **SendCutSend** (4 total, +1 new) — Previous orders (3); **NEW: Shipment in-transit notification (25 May)** — active fabrication pipeline
+- **SendCutSend** (4 total) — Active fabrication pipeline with shipment notifications
 - **Craftcloud** (1 total)
 - **Protospace Mfg USA** (1 total)
-- **eMachineShop** (1 total) — Material selection promotional
+- **eMachineShop** (1 total)
 
 #### Hobby/RC & FPV Equipment
+- **HeliDirect** (8 total, +2 new) — **CONTINUED ACCELERATION: "⏰ Last Chance: Few Hours Left!" (25 May, 23:02 UTC) and "📢 Memorial Day Sale Ends Tonight!" (25 May, 11:01 UTC)** — targeted to Meredith Needham; dual urgent promotions same day; **sustained daily promotional cadence intensifying at holiday close**
+- **AMain Hobbies** (5 total) — Package delivery notifications
+- **Hobbyking** (3 total)
 - **CADDXFPV** (1 total)
-- **AMain Hobbies** (5 total) — Package delivery notification to Alex Lomis
-- **HeliDirect** (6 total, +1 new) — Previous campaigns to Meredith Needham; **NEW: "📣 Free gift from Goosky Helicopters | Align Heli ON SALE!" (24 May)** — **continued high-frequency helicopter equipment campaigns; daily promotional cadence**
-- **Hobbyking** (3 total) — Previous RC plane promotional
-- **Budget** (1 total) — General discount/outdoor retail
+- **Budget** (1 total)
 
 #### Aerospace/Aviation
-- **uAvionix** (2 total) — Order complete notification 21 May; order note added from 4 May
+- **uAvionix** (2 total) — Order complete and note notifications
 - **SkyGeek** (1 total)
 - **CAPS Aviation** (1 total)
-- **Jawstec** (2 total)
-- **Phase 1 Aviation LLC** (1 total) — QuickBooks payment confirmation for Invoice #1108
-- **Daniels Manufacturing Corporation** (2 total) — Safe-T-Cable Webinar registration; Memorial Day promotional message to Joshua Fromm
+- **Jawstec** (4 total, +2 new) — **NEW: Two Memorial Day promotional emails sent 25 May ("Let's Honor and Celebrate this Memorial Day"; "Your Memorial Day discount is here") — intensified holiday campaign activity**
+- **Phase 1 Aviation LLC** (1 total)
+- **Daniels Manufacturing Corporation** (2 total)
 
 #### Flashlight & Portable Power Equipment
-- **FlashlightGo** (3 total) — Order #9693 confirmed, shipment tracking
-- **Joy Loyalty** (1 total) — FlashlightGo loyalty points (5,767 points)
+- **FlashlightGo** (3 total) — Order confirmed, shipment tracking
+- **Joy Loyalty** (1 total)
 
 #### Optical & Camera Equipment
-- **B&H Photo Video Pro Audio** (1 total) — Oben AC-1441 4-Section Aluminum Tripod review request
+- **B&H Photo Video Pro Audio** (1 total)
 
 #### Food & Beverage Services
-- **Spindrift Market** (2 total)
-- **Spindrift** (2 total, +1 new) — Previous emails; **NEW: Subscription order confirmation ("will be created soon") (25 May)** — **recurring subscription service active** (standing order pattern)
+- **Spindrift Market** (3 total, +2 new) — **NEW: Two shipment delivery notifications (26 May): orders SH62368411 and SH62370239 both "out for delivery"** — **subscription service continuing with active fulfillment; dual shipments same day indicate multi-item or staggered standing orders**
+- **Spindrift** (2 total) — Subscription order confirmation
 - **ezCater** (1 total)
 
 #### Logistics & Shipping
 - **FedEx** (1 total)
-- **UPS** (4 total) — Pickup request 21 May; two pickup notifications on 22 May; Pickup completed notification
-- **USPS** (4 total, +1 new) — Previous daily digests; **NEW: "Your Daily Digest for Sun, 5/24 is ready to view" (24 May)** — **daily automated tracking active; continuous package monitoring**
+- **UPS** (4 total) — Pickup request and notification pattern
+- **USPS** (4 total) — Daily digest tracking service
 - **DHL** (1 total)
-- **Pirate Ship** (2 total) — Payment receipts routed to Josh Fromm
+- **Pirate Ship** (2 total)
 
 #### Automotive/Tools
-- **Speedway Motors** (3 total) — Continuing promotional engagement
-- **Harbor Freight** (6 total, +1 new) — Memorial Day campaigns; **NEW: "2 DAYS LEFT to Shop Our Memorial Day Sale & Save 10% Off ANY SINGLE ITEM!" (24 May)** — sustained high promotional volume through holiday
+- **CJ Pony Parts Inc** (1 total, +1 new) — **NEW: Shipment notification for Order #82299998 (25 May) routed to "Nate Straus" via purchasing alias** — **NEW external supplier; automotive parts procurement active**
+- **Speedway Motors** (3 total, +1 new) — **NEW: Promotional content "What Are the Best Exhaust Cutouts for Sound and Power?" (25 May)** — sustained engagement
+- **Harbor Freight** (7 total, +2 new) — **NEW: Two Memorial Day final-push promotions (25 May): "COUPON INSIDE! 10% Off Memorial Day Sale ENDS TODAY!" and "Maciej, Memorial Day Savings Start with 0% Interest for Up to 36 Months"** — **high-velocity holiday promotional push; personalized messaging to Maciej Stachura**
 
 #### Business & IT Services
-- **Veeam Team** (2 total) — Webinar invitation "Your next identity breach won't start with a human"
-- **Toggl Track** (3 total) — Unread notification
+- **Veeam Team** (2 total)
+- **Toggl Track** (3 total, +1 new) — **NEW: Direct email to sam.hild@blackswifttech.com with no subject (25 May 12:21 UTC)** — **direct contact pattern with Sam (not via purchasing alias); time-tracking tool engaged**
 - **Comcast Business** (1 total)
 - **Dell Technologies** (1 total)
 - **SAP** (1 total)
-- **QuickBooks Payments** (1 total) — Payment confirmation for Phase 1 Aviation LLC invoice
-- **Asana** (2 total) — "1 overdue task" notification (22 May 15:55 UTC)
+- **QuickBooks Payments** (1 total)
+- **Asana** (2 total)
+- **Constant Contact Billing** (1 total, +1 new) — **NEW: Payment receipt for Jack Elston (26 May, 03:14 EDT)** — **email marketing platform subscription active; billing routed through purchasing alias but associated with Jack Elston**
 
 #### Other
-- **Amazon.com** (7 total) — Amazon Basics Sheet delivered 21 May
+- **Amazon.com** (7 total)
 
-### External Direct Senders
-- **Jack Elston** `elstonj@blackswifttech.com` (3 total) — BST Field Trip @ Fri May 22, 2026 3pm–4:45pm (MDT) and Invitation: BST Field Trip @ Fri Jul 3, 2026 3pm–4:45pm (MDT)
+### External Direct Senders (Non-Purchasing Alias)
+- **Toggl Track** `support@track.toggl.com` → `sam.hild@blackswifttech.com` (1 new direct message, 25 May 12:21 UTC) — direct engagement, no subject line
+- **Jack Elston** `elstonj@blackswifttech.com` (3 total) — Field trip coordination (May 22 and Jul 3 events)
 - **Frank Strazzabosco** `microfirm@earthlink.net` (3 total)
 - **Briana Gonzalez** `briana@jawstec.com` (1 total)
-- **UnitedHealthcare** (3 total) — EOB notification, wellness promotional, meal plans
+- **UnitedHealthcare** (3 total)
 
-### Internal BST Colleagues Visible
-- **Jack Elston** — Field trip coordination (primary event organizer)
-- **Nathaniel Straus** — Field trip invitee
-- **Joshua Fromm** — Field trip invitee; L-com password recovery; Pirate Ship payment routing; Daniels Mfg communications
-- **Paige Smith** — Field trip invitee
-- **Beck Cotter** — Field trip invitee
-- **Ethan Domagala** — Field trip invitee
-- **Maciej Stachura** — Field trip invitee; Harbor Freight promotional targeting
-- **Alex Lomis** — Field trip invitee; AMain Hobbies delivery notification recipient; **variant name "Alexis Lomis" appears on ELEGOO email (24 May)**
-- **Meredith Needham** — Field trip invitee; **PRIMARY RECIPIENT for HeliDirect campaigns (3 total, ongoing)**
-- **Daniel Prendergast** — Field trip invitee
-
-**Field Trip Participant Group (11 people total):** Jack Elston, Sam Hild, Nathaniel Straus, Joshua Fromm, Paige Smith, Beck Cotter, Ethan Domagala, Maciej Stachura, Alex Lomis, Meredith Needham, Daniel Prendergast
+### Internal BST Colleagues Visible in New Data
+- **Jack Elston** — Constant Contact billing payment receipt associated with his account; primary field trip organizer
+- **Meredith Needham** — **PRIMARY/EXCLUSIVE recipient for HeliDirect promotions (now 5 total across data pulls)** — personalized targeting pattern
+- **Maciej Stachura** — Harbor Freight personalized promotional messaging ("Maciej, Memorial Day Savings...")
+- **Nate Straus** — CJ Pony Parts order shipment routed via purchasing alias with his name
 
 ## Topic Patterns
 
 ### Recurring Subject Themes
-- **Memorial Day promotional campaigns** (continuing through 25 May) — Harbor Freight ("2 DAYS LEFT
+- **Memorial Day promotional campaigns** (intensifying 25–26 May, extending through holiday close) — Harbor Freight (dual messages), Battery Junction, JawsTec, HeliDirect, Speedway Motors, all sending final-push urgency messages
+- **Subscription fulfillment (Spindrift)** — recurring dual shipment notifications same day (26 May) indicate standing order pattern with multiple items
+- **Active procurements:**
+  - Electronics/components (DigiKey, McMaster-Carr, Pasternack ongoing)
+  - Aviation/aerospace parts (uAvionix, Jawstec, Daniels Manufacturing)
+  - **NEW: Automotive parts (CJ Pony Parts)**
+- **Promotional/Sales campaigns** (85+ of 183 total emails) — sustained high-velocity engagement from 25+ vendors through Memorial Day
+
+### Vendor/Client Names Visible
+- **

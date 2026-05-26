@@ -1,5 +1,6 @@
 # Ethan Domagala — Email Patterns
 
-Only 1 emails found in scanned period.
+Only 2 emails found in scanned period.
 
-- Sun, 24 May 2026 08:02:05 +0000: RE: DragonEye2- Gen2 Availability (from: Chani Ben Simon <chani.bs@nextvision-sys.com>)
+- Mon, 25 May 2026 14:27:01 +0000: Monday - tasks due soon: 7 - blackswifttech.com (from: Asana <no-reply@asana.com>)
+- Mon, 25 May 2026 04:51:06 -0700: Re:[## 6700 ##] DragonEye2- Gen2 Availability (from: Oren Nissim <oren.n@nextvisionltd.zohodesk.com>)

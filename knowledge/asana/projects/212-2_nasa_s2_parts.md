@@ -22,7 +22,7 @@
   - Alex Lomis (oversight, RFI assessment lead)
 - **Priority:** Medium
 - **Risk Signals:** 
-  - **🔴 CRITICAL — SCHEDULE OVERRIDE:** April 30, 2026 deadline overridden by Maciej (2026-04-27 & 2026-05-04). Nate Straus must update Asana dates to "realistic numbers" post-ByLight meeting and immediately communicate revised schedule to NASA customer. **Status of this directive not yet confirmed.**
+  - **🔴 CRITICAL — SCHEDULE OVERRIDE (PENDING EXECUTION):** April 30, 2026 deadline overridden by Maciej (2026-04-27 & 2026-05-04). Nate Straus must update Asana dates to "realistic numbers" post-ByLight meeting and immediately communicate revised schedule to NASA customer. **Status of this directive not yet confirmed complete.**
   - **🔴 CRITICAL — BLOCKING ISSUE:** NDAA compliance scope for S2 parts remains unresolved per Joshua Fromm (2026-04-17, 2026-04-20). Fromm states: "it's still not clear to me the extent of ndaa on parts" — directly blocks Josh from completing parts orders. (Note: S3 has no electronics with final assembly in China, but S2 NDAA uncertainty persists.)
   - **🔴 URGENT — CUSTOMER ACTION REQUIRED:** NASA RFI review and response assessment required per Alex Lomis (2026-04-17, 2026-04-20). Maciej (2026-04-27 & 2026-05-04) assigned AI-assisted RFI analysis to Alex Lomis or Josh Fromm to begin "soon" — status not yet confirmed initiated. RFI link: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
 
@@ -53,7 +53,10 @@
 ## Recent Activity
 
 **May 4, 2026 (Team Corrections — Authoritative):**
-- **Maciej:** Reiterates directive to Nate Straus (after ByLight meeting): "update the due dates in Asana to realistic numbers and let them know" (NASA customer). Also requests Alex Lomis or Josh Fromm initiate AI-assisted NASA RFI analysis "soon" — status not yet confirmed.
+- **Maciej:** 
+  - Reiterates directive to Nate Straus (after ByLight meeting): **"update the due dates in Asana to realistic numbers and let them know"** (NASA customer). **⚠️ Action status not yet confirmed complete.**
+  - Requests Alex Lomis or Josh Fromm initiate AI-assisted NASA RFI analysis "soon" — status not yet confirmed initiated.
+  - Notes S0-VTOL deadlines this week requiring support.
 
 **April 27, 2026 (Team Corrections — Authoritative Override):**
 - **Maciej:** 
@@ -66,5 +69,4 @@
 - **Alex Lomis:** Continues flagging NASA RFI review as **URGENT** — requires immediate team response assessment.
 
 **April 17, 2026 (Team Corrections — Authoritative):**
-- **Alex Lomis:** Flagged **URGENT** NASA RFI link recommended by NASA folks and Joe on hurricane ET call. **Requires immediate team review and response assessment:** https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
-- **Joshua Fromm:** Raises NDAA compliance uncertainty — "it's still not clear to me the extent of ndaa on parts." S2 scope
+- **Alex Lomis:** Flagged **URGENT** NASA RFI link recommended by NASA folks and Joe on hurricane ET call. **Requires immediate team review and response assessment:** https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd

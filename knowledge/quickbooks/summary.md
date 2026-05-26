@@ -7,52 +7,64 @@
 
 | Metric | Amount |
 |--------|--------|
-| **Total Revenue (Invoices)** | $4,405,611.64 |
-| **Total Expenses (Bills & Purchases)** | $2,400,416.48 |
-| **Net Income (Estimated)** | $2,005,195.16 |
+| **Total Revenue** (Invoices) | $4,405,611.64 |
+| **Total Expenses** | $2,400,416.48 |
+| **Net Income** | $2,005,195.16 |
 
 ---
 
 ## By Project/Class
+*(Sorted by total activity)*
 
 ### 1. Government
 - **Total Revenue:** $4,387,717.28
 - **Total Expenses:** $1,330,605.39
-- **Net Position:** $3,057,111.89 ✓ *Strong profitability*
-- **Status:** 75 active invoices; $3,120,198.19 outstanding (71% of revenue uncollected)
+- **Net Position:** $3,057,111.89 ✓ (Strong profitability)
+- **Status:** 75 active invoices; $3.12M outstanding A/R
 
 ### 2. BST Internal
 - **Total Revenue:** $17,894.36
 - **Total Expenses:** $1,069,811.09
-- **Net Position:** -$1,051,916.73 ✗ *Significant loss*
-- **Status:** 2 transactions; appears to be internal cost center or overhead allocation
+- **Net Position:** -$1,051,916.73 ✗ (Internal operations cost center)
+- **Status:** 2 transactions; Appears to be overhead/infrastructure
 
 ---
 
-## Outstanding Receivables & Cash Flow
+## Cash Flow Indicators
 
-| Category | Amount | Notes |
-|----------|--------|-------|
-| **Accounts Receivable (Government)** | $3,120,198.19 | 75 open invoices; major collection priority |
-| **Outstanding Purchase Orders** | $2,532.00 | PO #1038 (Amprius, $1,700) + Government POs ($832) |
+### Accounts Receivable (Outstanding)
+- **Government Project:** $3,120,198.19 (71% of total revenue)
+- **Overall A/R Position:** ~$3.1M outstanding
+- **Collection Status:** 75 invoices still open
 
-**⚠️ Cash Flow Risk:** Government project shows strong net profitability but 71% of revenue remains uncollected. Collection velocity is critical to operating cash flow.
+### Pending Purchase Orders
+- **Government:** $832.00
+- **BST Internal:** $1,700.00 (PO #1038 – Amprius, outstanding)
+- **Total Pending:** $2,532.00
 
----
-
-## Notable Findings
-
-✓ **Government project is primary profit driver** – accounts for 99.6% of revenue  
-✗ **BST Internal shows heavy expenses** – $1.07M in expenses vs. $17.9K revenue (likely overhead/admin allocation)  
-✓ **Strong overall net position** – company is profitable on accrual basis despite collection delays  
-⚠️ **Cash vs. accrual gap** – significant difference between invoiced amounts and collected cash
+### Outstanding Invoices
+Government project carries significant receivables that represent the majority of cash flow risk.
 
 ---
 
-## Data Limitations
+## Top Vendors
+*(Insufficient detail provided in raw data)*
+- Amprius (PO pending, $1,700.00)
 
-The source data appears incomplete (tables truncated). For a complete analysis, please provide:
-- Full vendor list and top spending breakdown
-- Complete customer details and payment status
-- Detailed transaction classification for unallocated items
-- Account-level balance sheet information
+---
+
+## Top Customers
+*(Insufficient detail provided in raw data)*
+- Government contracts account for 99.6% of company revenue
+
+---
+
+## Data Quality Notes
+⚠️ **The QuickBooks export is incomplete:**
+- Top vendors list truncated
+- Top customers list not included
+- Individual invoice details partially cut off
+- Expense breakdown by vendor not provided
+- Unclassified transactions status unclear
+
+**Recommendation:** Export full detailed P&L and transaction reports to complete this analysis.

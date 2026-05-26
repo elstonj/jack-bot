@@ -28,7 +28,7 @@
 
 ## Task Summary
 
-**Total Tasks:** 32 completed (+ 1 administrative open)  
+**Total Tasks in Asana:** 1 open (administrative), 32 completed  
 **Completion Rate:** 97%
 
 ### Tasks by Assignee (Completed Work)
@@ -108,15 +108,18 @@
 - **RFI Link:** https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
 - **Competing Internal Opportunities:** INSTAAR (2 demonstrations) and Ottawa/Murphy's demonstration (Jack Elston, 04/20/26: "the other ones being INSTAAR x2 and this ottawa demo or Murphy's, whatever actually happens first")
 - **Status:** Team to begin AI-assisted RFI response work (Jack Elston or Alex Lomis to lead)
+- **Team Discussion (05/04–05/05/26):** Maciej requested team AI tool support to start RFI responses; Jack or Alex to lead.
 
-### Action Items & Status (May 2026)
+---
 
-**Maciej Stachura (04/27/26, authoritative correction):**
+## Team Action Items & Status (May 2026)
+
+**Maciej Stachura (04/27/26 & 05/04/26, authoritative):**
 - Update Asana due dates to realistic numbers after ByLight meeting and communicate to stakeholders
 - Coordinate with team on S0-VTOL workload and resource allocation; assess Dan Prendergast and Ethan Domagala availability for support on time-sensitive S0-VTOL deliverables
 
 **Ethan Domagala (05/05/26, authoritative correction):**
-- ByLight project timeline has been **extended due to cancellation of a demo in India**
+- **ByLight project timeline has been extended due to cancellation of a demo in India**
 - "Yellow version" project has been clarified; Asana tasks and timelines updated accordingly
 
 ---
