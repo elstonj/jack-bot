@@ -110,7 +110,7 @@ This channel serves as the primary technical communication hub for Black Swift T
 - **Purpose:** Replace old sensors folder approach with XML-based app configuration
 - **Features:** Payload serial configuration, command interfaces, sensor definitions
 
-**Multi-Radio GCS Support (April 2026-ongoing):**
+**Multi-Radio GCS Support (April 2026-May 2026):**
 - **Status:** Merged to main branch (May 8, 2026) after flight testing and GCS validation completed
 - **Objective:** Enable single GCS to manage two UAS simultaneously
 - **Scope:** Changes to autopilot, comms_protocol, and web_controller repositories
@@ -118,5 +118,4 @@ This channel serves as the primary technical communication hub for Black Swift T
 - **Latest (May 7, 2026):** OpenWRT build infrastructure enhancements with binary utilities stub for proper data format handling
 - **Latest (May 8, 2026):** Feature fully merged; no anticipated impact on other development but team monitoring for issues
 
-**Web Controller UI Redesign (April 2026-ongoing):**
-- **Status
+**Web Controller UI Redesign & Flight Plan Support (April 2026-

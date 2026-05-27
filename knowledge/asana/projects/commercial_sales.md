@@ -1,4 +1,5 @@
 # Commercial Sales
 
-Small project with 1 tasks.
-- [Done] NASA Ames S2 Updates (batteries, firmware, tablet, pitot) — Meredith O'hara Needham
+Small project with 2 tasks.
+- [Done] Rainmaker S2 Rental — Unassigned
+- [Done] Rainmaker S2 — Unassigned

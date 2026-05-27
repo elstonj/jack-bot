@@ -1,119 +1,78 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 185 emails (170 from prior period + 15 new from 25–26 May)
-- **Date range:** 18–26 May 2026 (9 days)
-- **Approximate volume:** Sustained high-velocity promotional/administrative messaging. 25–26 May: 15 emails (14 promotional, 1 HR/benefits notification), continued routed through purchasing@ inbox with emerging direct personal account activity.
-- **Pattern:** Promotional surge peaked 25 May (Memorial Day sale cycle); 26 May shows shift to direct personal inbox (Rippling benefits card, Toggl Track notification) alongside continued purchasing@ routing.
+- **Total messages scanned:** 215 emails (185 from prior period + 30 new from 26–27 May)
+- **Date range:** 18–27 May 2026 (10 days)
+- **Approximate volume:** Sustained high-velocity promotional/administrative messaging with significant shift toward **direct internal collaboration** (26 May evening). 26 May: 29 emails (23 promotional routed through purchasing@, 4 direct internal team collaboration, 1 HR/logistics, 1 project management); 27 May: 1 invoice notification.
+- **Pattern shift:** 26 May evening shows concentrated multi-message thread between Alex, Jack Elston, and Daniel Prendergast regarding sales lead (thinklucid.com) — rapid response cycle (19:33–22:35 spanning 3 hours).
 
 ## Key Correspondents
 
-### Primary Senders — EXPANDED VENDOR BASE + EMERGING DIRECT PERSONAL NOTIFICATIONS
+### Primary Senders — EXPANDED + NEW INTERNAL COLLABORATION LAYER
 
-**RC/Drone Components:**
-- **HeliDirect** (7 emails total — 2 new on 25 May: Memorial Day sale urgency messaging to Meredith Needham)
-  - **Pattern:** Aggressive promotional cycle through holiday weekend; "Last Chance" and "Ends Tonight" urgency language sustained
+**CRITICAL NEW: Internal Sales/Operations Thread (26 May Evening)**
+- **Jack Elston** (elstonj@blackswifttech.com) — 2 emails direct to Alex (22:18:34, 20:06:36 UTC); marked IMPORTANT; **reciprocal collaboration on sales lead ticket #36125**
+  - **Context:** New Sales Lead from thinklucid.com; ticket numbering suggests CRM/project tracking system
+  - **Collaborators:** Daniel Prendergast, Maciej Stachura also on thread
+  - **Signal:** Jack Elston = sales/operations function; direct communication with Alex suggests procurement/operations coordination on lead intake
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 2 emails to Alex (20:26:42, 19:33:54 UTC); marked IMPORTANT; **initiates sales lead escalation to team**
+  - **Thread pattern:** Prendergast forwards lead, Elston responds, Alex confirms/coordinates
+  - **Team:** Also CC'd Maciej Stachura (stachura@blackswifttech.com)
+  - **Signal:** Daniel = primary sales/business development contact; rapid internal escalation protocol
 
-**Automotive/Aftermarket Components:**
-- **CJ Pony Parts Inc** (1 email NEW — shipment confirmation order #82299998, 25 May 16:47 PDT)
-  - **New vendor class:** Automotive performance/customization parts (Pony-specific aftermarket); shipment in transit
-  - **Recipient variant:** Routed to Nate Straus at purchasing@ (not Alex or Meredith)
-  - **Signal:** Third procurement contact at BST for automotive components
-- **Speedway Motors** (1 email NEW — exhaust cutout product inquiry promotion, 25 May 15:02 UTC)
-  - **New vendor class:** Automotive performance systems; exhaust/sound modification focus
-  
-**Battery/Power Systems:**
-- **Battery Junction** (2 emails NEW — personalized product recommendations + Memorial Day messaging, 25 May 13:04–17:22 UTC)
-  - **New vendor:** Specialized battery supplier; targeting purchasing@ account
-  - **Pattern:** Dual promotional messaging (personalized + holiday-themed)
+**RC/Drone Components — Continued:**
+- **GetFPV** (chloe@getfpv.com) — 1 email NEW, direct to alex.lomis@; marked IMPORTANT; "Last Day to Save 10% OFF" (26 May 15:44:28 UTC)
+  - **Pattern:** Direct personal account outreach (not purchasing@); promotional urgency; marked important by system
+- **Hobbyking** (news@notify.hobbyking.com) — 1 email NEW, routed to purchasing@; "End on May Sale Begins Today!" (26 May 13:49:56 UTC)
+  - **Pattern:** Subscription notification; timing suggests weekly/promotional cycle
+- **eBay search alert** — 1 email NEW, routed to purchasing@; "futaba 14sg, Receivers & Transmitters" (26 May 06:24:03)
+  - **Signal:** Saved search monitor for RC transmitter components
 
-**Tools/Equipment:**
-- **JawsTec** (2 emails NEW — Memorial Day promotional messaging, 25 May 15:22–15:34 UTC)
-  - **New vendor:** Tools/equipment supplier; aggressive holiday promotion (dual emails within 12 minutes)
-- **Harbor Freight** (2 emails NEW — Memorial Day sale + 0% financing promotion, 25 May 18:03–18:06 UTC)
-  - **Pattern:** Continued targeting; financing offer escalation on 25 May
+**Electronics/Components — NEW MAJOR VENDOR CLASS:**
+- **Ituner Networks Corporation** (ituner.com, no-one@ituner.com, accounts@ituner.com) — 3 emails NEW, routed to purchasing@; order #540-498591
+  - **Timeline:** Order received (13:17:06), fulfilled (13:31:06), invoice from Mini-box (13:31:56 PDT)
+  - **Pattern:** Dual supplier routing (Mini-box acts as fulfillment partner for Ituner); indicates component sourcing through intermediary
+  - **Component type:** Not specified in subject; "Invoice #139810" suggests standardized catalog order
+- **Mini-box.com** (Fred Solis, fred@mini-box.com) — 2 emails NEW, routed to purchasing@; invoices #139810 (26 May 13:31 PDT)
+  - **Relationship:** Acts as fulfillment/reseller for Ituner Networks; possibly network appliance supplier
+  - **Signal:** B2B component distributor; technical product line (network/computing)
+- **Amazon.com** (via purchasing@) — 3 emails NEW; order "ACEIRMC 3pcs ADUM1201 Dual..." (26 May 16:01–19:24 UTC)
+  - **Component:** ADUM1201 = Analog Devices isolated dual-channel digital isolator IC
+  - **Quantity:** 3 pieces; ordered 16:03:51, shipped 19:24:36 same day
+  - **Signal:** Rapid component procurement; precision electronics (isolation ICs suggest high-speed data/power isolation application)
+- **McMaster-Carr** (chi.sales@mcmaster.com) — 1 email NEW, routed to purchasing@; order confirmation 26 May (17:25:31 CDT)
+  - **Pattern:** Industrial/mechanical supplies; general confirmation (no specific part number in subject)
+- **Workswell IR technology** (tomas.faltus@workswell.cz) — 1 email NEW, direct routing TO tomas.faltus (self-forwarded?); marked INBOX (26 May 12:39:34 CET)
+  - **New vendor class:** Thermal imaging/IR camera systems (Czech supplier)
+  - **Anomaly:** Email TO tomas.faltus@workswell.cz FROM tomas.faltus@workswell.cz suggests forwarding or misdirected routing
+  - **Signal:** Emerging interest in thermal imaging; possibly engineering evaluation
 
-**HR/Benefits Services:**
-- **Rippling** (1 email NEW — Benefits debit card shipment notification, 26 May 07:30 UTC)
-  - **New vendor class:** HR/benefits platform; direct to alex.lomis@ personal account
-  - **Signal:** Employee benefits administration; physical card in transit
+**Logistics/Fulfillment — Continued:**
+- **UPS** (via Purchasing) — 1 email NEW, routed to purchasing@; "Your Package Arrives Tomorrow" (26 May 22:35 EDT)
+  - **Pattern:** Delivery notification; no order ID visible in subject
+- **USPS Informed Delivery** (via Purchasing) — 1 email NEW, routed to purchasing@; "Daily Digest for Tue, 5/26" (26 May 13:38:11 UTC)
+  - **Pattern:** Automated daily mail summary; suggests multiple inbound shipments tracked via USPS
+- **Worldwide Express** (via Purchasing) — 1 email NEW; invoice #260524W017957 for order #W002346756 (27 May 07:44:02 UTC)
+  - **New carrier:** International/express logistics; invoice-level tracking
+  - **Signal:** High-priority shipment (World Express tier)
 
-**Time Tracking/Productivity:**
-- **Toggl Track** (1 email NEW — no subject line notification, 26 May 00:30 UTC)
-  - **New vendor:** Time tracking/productivity software; direct to alex.lomis@ personal account
-  - **Signal:** Work time tracking integration (no subject suggests automated status/alert)
+**Marketplace/Vendor Outreach — NEW PATTERN:**
+- **Protospacemfg.com** (jessica@protospacemfg.com) — 3 emails NEW involving Joshua Fromm (josh.fromm@blackswifttech.com)
+  - **Email sequence:** 
+    - Jessica (Protospacemfg) initiates chat follow-up (16:07:24 -0300)
+    - Joshua replies same day (16:03:51, 16:50:58 time inconsistency)
+    - Jessica responds (16:50:58 -0300)
+  - **Signal:** Manufacturing/fabrication vendor (Protospacemfg likely precision machining/3D printing); Joshua Fromm = internal procurement contact for this vendor
+  - **Pattern:** Joshua appears separate from Alex/Meredith/Nate procurement chain; specialty manufacturing outreach
 
-**Marketing/Communications Services:**
-- **Constant Contact** (1 email NEW — billing/payment receipt for Jack Elston, 26 May 03:14 EDT)
-  - **New vendor class:** Email marketing platform; payment notification for third-party account
-  - **Account name:** Jack Elston (separate contact; billing/invoice routing through purchasing@)
-  - **Pattern:** Third-party account billing routed through purchasing@
+**Hardware/IT Promotion:**
+- **Dell Technologies** (via Purchasing) — 1 email NEW, routed to purchasing@; "Unleash your gaming potential" (26 May 17:57:17 EDT)
+  - **Pattern:** Gaming workstation promotion; possibly misattributed (purchasing@ alias receiving consumer marketing)
 
-**Logistics/Fulfillment:**
-- **Spindrift Market** (2 emails NEW — shipment delivery notifications orders SH62368411, SH62370239, 26 May 07:17–07:11 UTC)
-  - **Pattern shift:** Now showing out-for-delivery status (vs. order creation on 25 May); two simultaneous orders in delivery pipeline
+**Project Management:**
+- **Asana** (no-reply@asana.com) — 1 email NEW, direct to alex.lomis@; "You have unread notifications" (26 May 20:35:33 UTC)
+  - **Signal:** Active Asana project workspace; tasks/notifications assigned to Alex
 
-### Internal vs External Breakdown (26 May + 25 May tail)
-- **Routed through purchasing@blackswifttech.com:** 12 emails (80%)
-- **Direct to alex.lomis@blackswifttech.com:** 3 emails (20%) — **NEW SHIFT**
-  - Rippling (benefits card)
-  - Toggl Track (time tracking alert)
-  - (Third email implied by Constant Contact Jack Elston context)
-- **Procurement contacts identified:** Alex Lomis, Meredith Needham, Nate Straus (three distinct procurement officers)
-
-## Topic Patterns
-
-**Automotive Components — NEW MAJOR CATEGORY:**
-- **CJ Pony Parts** — Ford Pony-specific aftermarket performance parts (order #82299998 in transit)
-- **Speedway Motors** — Exhaust cutout/sound modification systems
-- **Pattern:** Dual automotive/drone procurement activity; suggests platform integration or parallel vehicle-based systems testing
-
-**Battery/Power Systems:**
-- **Battery Junction** — Specialized battery sourcing; "personalized recommendations" suggests ongoing supply relationship
-- **Related context:** Consistent with drone/RC power requirements; potential automotive electrical systems
-
-**Time Tracking & HR Services:**
-- **Toggl Track** — Direct personal account notification; employee time tracking integration
-- **Rippling** — Benefits debit card shipment; HR platform service
-- **Pattern:** Employee administrative/HR tooling integration (not procurement-related)
-
-**Marketing/Communications Infrastructure:**
-- **Constant Contact** — Billing receipt for Jack Elston account; suggests BST email marketing operations or external client account management
-- **Signal:** Third-party account (Jack Elston) being managed/billed through BST purchasing infrastructure
-
-**Logistics/Fulfillment Status:**
-- **Spindrift Market** — Two simultaneous orders (SH62368411, SH62370239) now in out-for-delivery phase
-- **CJ Pony Parts** — Automotive parts shipment in transit
-
-## Communication Patterns
-
-**Time Patterns — Extended Through 26 May:**
-- **26 May (post-holiday):** Early morning cluster (00:30–07:30 UTC); benefits/HR notifications direct to personal inbox + logistics delivery updates
-- **25 May (Memorial Day):** Aggressive promotional wave 13:04–23:02 UTC; automotive + tools + RC components
-- **Timestamp distribution:** 00:30–18:06 UTC (24-hour span); holiday-specific promotional concentration (15:02–18:06 UTC heavy cluster on 25 May)
-
-**Email Categorization:**
-- **CATEGORY_PROMOTIONS:** 14 emails (93%)
-- **CATEGORY_UPDATES:** 1 email (Rippling benefits — direct to personal inbox)
-- **No subject:** 1 email (Toggl Track — suggests automated system notification)
-- **IMPORTANT flag:** Rippling + Toggl Track only (2 emails); suggests direct personal account emails auto-flagged as important
-
-**Email Routing Shift — NOTABLE:**
-- **25 May and prior:** 100% purchasing@ routing
-- **26 May:** 33% direct to alex.lomis@ (Rippling, Toggl Track); 67% purchasing@
-- **Pattern change:** Emergence of direct personal account notifications for HR/employee services + productivity tools; purchasing activities remain in purchasing@ alias
-
-**Recipient Name Variations — NEW:**
-- **CJ Pony Parts:** Addressed to "Nate Straus" (third procurement contact; not Alex, not Meredith)
-- **Constant Contact:** Payment receipt for "Jack Elston" (external account or secondary BST contact)
-- **Pattern:** Multiple internal procurement officers; distributed order management across different contacts per vendor/category
-
-## Key Relationships
-
-**Internal Collaborators:**
-- **Meredith Needham** — Continued primary RC/drone procurement contact (HeliDirect routing); two emails on 25 May
-- **Nate Straus** — Secondary procurement contact; automotive parts (CJ Pony Parts order routing)
-- **Jack Elston** — External or secondary internal contact; email marketing account billing routed through purchasing@
-
-**Vendor Relationships — Expanded Scope:**
-- **HeliDirect** — RC/drone components; sustained contact (7 emails total)
+**Billing/Invoice Routing:**
+- **Worldwide Express** — invoice for order #W002346756 (27 May); carrier-level invoice
+  - **Pattern:** High

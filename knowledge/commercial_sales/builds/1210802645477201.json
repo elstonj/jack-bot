@@ -29,7 +29,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "USAF 18th Combat Weather Squadron (SSgt Garrett Jansen) initiated contact 7/15/2025 for S0/S0 VTOL atmospheric data collection solutions. Two active DoD tracks: (1) WC-130J Weather Squadrons (lead engineer Russ Evans, NOAA partnership) facility visit 4/30\u20135/1/2026 with receive_by 2026-05-01; (2) SOCOM (TSgt Evan Wolff, Fort Bragg) CRADA for C-130 air-launch demo with receive_by 2026-10-30. Both tracks show estimate sent as of 5/20/2026. Recent Slack activity (5/21/26) confirms facility visit window and active SOCOM in-person working meeting 4/27/26.",
+  "notes": "USAF 18th Combat Weather Squadron (SSgt Garrett Jansen) two active DoD tracks: (1) WC-130J Weather Squadrons (lead Russ Evans, NOAA partnership) facility visit 4/30\u20135/1/2026, receive_by 2026-05-01; (2) SOCOM (TSgt Evan Wolff, Fort Bragg) CRADA for C-130 air-launch demo, receive_by 2026-10-30. Both estimate sent as of 5/20/2026. Recent Slack activity (5/21/26) confirms active engagement and facility visit window.",
   "missing_fields": [
     "invoice_date",
     "invoice_amount",

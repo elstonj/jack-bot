@@ -26,8 +26,8 @@
 ## Task Summary
 - **Total tasks**: 425+ completed, 0 open (100% completion rate)
 - **Primary assignees**:
-  - **Jack Elston**: Led most technical flight operations, flight control algorithm troubleshooting, GCS/HDOB integration, wind estimation fixes, sensor QC, magnetometer calibration, MHTP development and hardware verification
-  - **Josh Fromm**: Project management, QC/final assembly coordination, weekly status updates, manufacturing coordination, housing installation, sealing, MHTP mechanical assembly, deployment tube and adhesive promoter investigations
+  - **Jack Elston**: Led most technical flight operations, flight control algorithm troubleshooting, GCS/HDOB integration, wind estimation fixes, sensor QC, magnetometer calibration, MHTP development and hardware verification, avionics, tablet configuration
+  - **Josh Fromm**: Project management, QC/final assembly coordination, weekly status updates, manufacturing coordination, housing installation, sealing, MHTP mechanical assembly, deployment tube and adhesive promoter investigations, GCS configuration (completed final "New GCS" task on 2024-01-31)
   - **Dan Prendergast**: Flight algorithm testing and validation, eyewall following algorithm development (completed 2024-02-27), center fix algorithm (completed 2024-06-05)
   - **Maciej Stachura**: Flight control algorithms, vertical wind bias correction, pitot tube diagnostics, code updates with wind tunnel calibrations and real-time wind estimation, MHTP firmware development and testing
   - **Ben Busby**: Flight operations, preflight checklist procedures, path planning optimization
@@ -47,6 +47,7 @@
 **Project Status**: Archived January 3, 2024. All work completed successfully.
 
 **Final Phase Tasks Completed (January 2024)**:
+- **New GCS (no VGA connector)** (Josh Fromm, Due: 2024-01-26, Completed: 2024-01-31) — Finalized ground control station configuration without VGA connector requirement
 - **Avionics** (Jack Elston, completed 2024-01-30)
 - **Deployment Tube** (Josh Fromm, completed 2024-01-17)
 - **Tablet** (Jack Elston, completed 2024-07-16) — Minimum Viable configuration
@@ -79,6 +80,7 @@
 - Scientist-facing web-based GUI for data review
 - Eyewall following and center fix algorithm modules for autonomous hurricane reconnaissance
 - Tablet-based field operations interface
+- Ground Control Station (GCS) without VGA connector requirement
 
 **Technical Focus**: Hurricane data collection and reconnaissance using specialized UAS with:
 - Wind measurement capabilities (HDOB integration)
@@ -107,11 +109,4 @@
 - GPC (Dr. Cione) and UPC (Dr. Jun Zhang) serve as Subject Matter Experts for non-contractual technical questions
 - Any technical disagreements or contractual changes must be directed to the Contracting Officer (CO)
 
-**Field Deployment**: Successfully conducted hurricane field studies in partnership with NOAA Hurricane Research Division (HRD) and National Hurricane Center (NHC), with units staged at NOAA Atlantic Oceanographic and Meteorological Laboratory (AOML) in Miami.
-
----
-
-## Related Opportunities & Initiatives (as of May 2026)
-
-**NASA RFI - Hurricane ET (Environmental Tracking)**
-- **Recommendation**: NASA contacts and Dr. Joe Cione (NOAA/project GPC) recommended BST investigate this
+**Field Deployment**: Successfully conducted hurricane field studies in partnership with NOAA Hurricane Research Division (HR

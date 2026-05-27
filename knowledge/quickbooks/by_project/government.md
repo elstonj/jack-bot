@@ -129,11 +129,8 @@
 - **Cetacean Research Technology (R&D development):** $1,323.00
 - **University of Colorado Boulder (Black Swift/NASA Night Fox):** $1,840.00
 
----
-
-### **Shipping/Freight: $38.85**
-**Number of transactions:** 1
+**Total subcontractors through 2026-09-28: $713,366.45** *(confirmed final)*
 
 ---
 
-### **Direct Labor:**
+###

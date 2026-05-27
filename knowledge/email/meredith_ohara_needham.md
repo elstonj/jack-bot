@@ -1,77 +1,80 @@
 # Meredith O'Hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,006 (1,980 previous + 26 new from May 25–26)
-- **Date range:** March 23 – May 26, 2026 (approximately 9 weeks)
+- **Total messages scanned:** 2,065 (2,006 previous + 59 new from May 26–27)
+- **Date range:** March 23 – May 27, 2026 (approximately 9.5 weeks)
 - **Approximate volume:** 25–40 emails per day (mix of sent, received, and automated)
-- **May 25–26 new data:** 26 messages; **~8% human-initiated (1 out-of-office reply, 2 external inquiries); ~92% transactional/automated/vendor promotional**
-- **Pattern continuation:** Sustained high-volume automated filtering; core human correspondence on hold during extended absence; procurement infrastructure remains active
+- **May 26–27 new data:** 59 messages; **~25% human-initiated (12 direct replies/forwards); ~75% transactional/automated/vendor notifications**
+- **Pattern shift:** Return to active correspondence after extended absence; high-volume diligence activity (investment/acquisition process); government contract pursuit intensifying; core procurement infrastructure sustained
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-*(No direct internal correspondence in this batch; patterns from previous scans unchanged)*
-- **Jack Elston** — Operations, legal/compliance, disclosure schedules; **Constant Contact billing routed to purchasing group**
-- **Daniel Prendergast** — Technical integration lead; NanoVEU software coordination
-- **Beck Cotter** — Operational project management; **receives DoD DSIP portal access notifications (May 25, multiple sign-in alerts)**
-- **Joshua Fromm** — Parts/manufacturing coordination
-- **Maciej Stachura** — Invoice/receiving management; **Harbor Freight Memorial Day promotions addressed to him by name**
-- **Nathaniel Straus** — Parts/manufacturing; **received CJ Pony Parts shipment confirmation (May 25)**
-- **Vahid Eghtesad** — **NEW/NOTABLE:** Internal contact; handling external investment inquiry ("Fortuna Investments" introduction, May 25)
-- **Kristen Lowe** — **NEW:** Internal contact; mentioned in "Re: Jack" message thread (May 25)
+*(Updated from new batch)*
+
+- **Jack Elston** — **HEAVILY ELEVATED:** Operations, legal/compliance, disclosure schedules; **15+ messages in new batch alone (diligence threads with Nadia Bryan/legal counsel; 401(k) admin; government correspondence with NOAA; CBS News coordination; Arctic UAS Demonstration; potential S3 customer leads)** — **Primary deal contact for investment/acquisition process**
+- **Daniel Prendergast** — Technical integration lead; **5 messages in new batch (Battery Shipment to Ottawa Canada thread with Robert Correia; Arctic UAS Demonstration coordination)**; **cross-border logistics/international customer activity**
+- **Beck Cotter** — Operational project management; **mentioned in Arctic UAS Demonstration and potential S3 customer forwarding**; government contract support
+- **Joshua Fromm** — Parts/manufacturing coordination; **2 messages (ProtoSpace MFG website inquiry follow-up; NOAA recovered S0 cost & shipping estimate)**
+- **Maciej Stachura** — Invoice/receiving management; **included in critical diligence thread with Nadia Bryan**
+- **Kristen Lowe** — **Mentioned in diligence context** (May 25 previous batch)
 
 ### Top External Contacts
 
-**Vendor/Supplier Activity — May 25–26 (Transactional & Promotional)**
+**Legal/Corporate Development — CRITICAL ELEVATED ACTIVITY**
 
-- **HeliDirect** (sales@helidirect.com) — **Two promotional emails** (May 25 19:10 UTC, 23:02 UTC); Memorial Day sale closing alert; **CONTINUED ACTIVE PROPULSION/ROTORCRAFT COMPONENT SOURCING**
-- **Utmel Electronics (Peggy)** (sales5@utmel.com) — **NEW VENDOR CONTACT**; "Electronica China Shanghai" exhibition reference (May 26 16:18 UTC); routed to purchasing@bst.aero; **SUGGESTS INTERNATIONAL COMPONENT SOURCING OR TRADE SHOW PARTICIPATION**
-- **CJ Pony Parts Inc** (Ship-Confirmation@cjponyparts.com) — Shipment notification for order #82299998 (May 25 16:47 UTC); addressed to Nate Straus at purchasing@blackswifttech.com; **AUTOMOTIVE PARTS SUPPLIER** (may indicate chassis, fastener, or mechanical component sourcing; inconsistent with typical aero/drone focus — suggests either vehicle platform testing or indirect procurement)
-- **Battery Junction** (via purchasing@blackswifttech.com) — **Two promotional emails** (May 25 18:03 UTC, 13:04 UTC); personalized battery recommendations; **CONTINUED BATTERY/POWER SUPPLY SOURCING SIGNAL**
-- **Harbor Freight** (via purchasing@blackswifttech.com) — **Two promotional emails** (May 25 18:06 UTC, 17:22 UTC); Memorial Day sales; addressed to "Maciej" by name in second message
-- **JawsTec** (info@jawstec.com) — **Two promotional emails** (May 25 15:17 UTC, 15:29 UTC); Memorial Day discount campaign; **vendor unknown; low priority signal**
-- **Speedway Motors** (via purchasing@blackswifttech.com) — **Forum-style promotional** (May 25 15:02 UTC); "Best Exhaust Cutouts for Sound and Power?" inquiry; **AUTOMOTIVE/PROPULSION COMPONENT THEME** (reinforces vehicle platform signal from CJ Pony Parts)
-- **Spindrift Market** (via purchasing@blackswifttech.com) — **Two shipment notifications** (May 26 07:11 UTC, 07:17 UTC); orders SH62368411 and SH62370239 in delivery; **PERSONAL BEVERAGE SUBSCRIPTION** (low signal; likely Meredith's personal expense)
+- **Nadia Bryan (Kramer & Osborn LLP)** (nbryan@kofirm.com) — **CRITICAL:** 10+ messages in new batch (May 26); **rapid-fire diligence thread with Jack Elston spanning 22:09 UTC to 23:37 UTC**; subjects: "Black Swift - Diligence Requests," "[HOLD] Black Swift Diligence Call"; **ACTIVE INVESTMENT/ACQUISITION DUE DILIGENCE PROCESS** (likely Series A/B funding round or strategic M&A; legal counsel managing information requests; call scheduled/paused indicates active negotiation phase)
 
-**Legal/Compliance & Investment Activity — NEW CRITICAL SIGNALS**
+**Government/Defense — ELEVATED**
 
-- **Fortuna Investments** — **NEW CRITICAL:** External investment inquiry; thread routed through Vahid Eghtesad (info@blackswifttech.com) (May 25 19:10 UTC); **SUGGESTS INCOMING INVESTMENT INTEREST OR FUNDING ROUND DISCUSSION**; compounds previous "Black Swift - Diligence Requests" signal from Kramer & Osborn LLP
+- **Nikolai Pawlenko (NOAA Federal)** (nikolai.f.pawlenko@noaa.gov) — **ELEVATED:** 2 messages in new batch; starred/flagged as IMPORTANT; "Re: Orders from Last Year" (May 26 12:41 UTC); **NOAA partnership/procurement relationship**; Meredith direct correspondence
+- **Amy McLiverty (NOAA Federal)** (amy.l.mcliverty@noaa.gov) — **NEW CRITICAL:** Forwarded by Jack Elston; "Re: Funding for IDIQ" (May 26 11:14 UTC); **INDEFINITE DELIVERY/INDEFINITE QUANTITY (IDIQ) CONTRACT FUNDING** — suggests government contract vehicle or standing federal purchase agreement
+- **Arctic UAS Demonstration** — **NEW PROJECT REFERENCE:** White Paper Questionnaire and CJFC Vendor Brief; forwarded by Jack Elston to Daniel, Meredith, Beck (May 26 10:41 UTC); **CANADIAN JOINT TASK FORCE (CJFC) MILITARY/DEFENSE DEMONSTRATION OPPORTUNITY**
 
-**Government/Defense Contracts — NEW ACTIVITY**
+**External Partnerships & Customers**
 
-- **DoD DSIP (Defense SBIR/STTR Innovation Portal)** (proposals@blackswifttech.com) — **Three portal access notifications** (May 25 12:15 UTC, 10:52 UTC, 10:25 UTC); all routed to Beck Cotter; **ACTIVE SMALL BUSINESS INNOVATION RESEARCH (SBIR) OR STTR PROPOSAL SUBMISSION/TRACKING**; multiple sign-in alerts suggest active proposal work or deadline monitoring
+- **Robert Correia (Aeronet)** (rcorreia@aeronet.com) — **ELEVATED:** 5 messages in new batch; rapid thread with Daniel Prendergast (May 26 13:13–20:28 UTC); subject: "Battery Shipment to Ottawa Canada"; **cross-border battery supply chain; Canadian customer/partner logistics**
+- **Christy Evans (Reliascent)** (cevans@reliascent.com) — **NEW ELEVATED:** 2 messages in new batch; "RE: Kick-off Follow-up and Proposal information" (May 26 19:34 UTC); **LIKELY CUSTOMER KICKOFF or project proposal stage**; Meredith direct engagement
+- **Christopher E. Hartman (UMES — University of Maryland Eastern Shore)** (chartman@umes.edu) — **NEW CONTACT:** Auto-reply to Meredith shipping confirmation for Friday (May 26 19:24 UTC); **ACADEMIC/RESEARCH INSTITUTION PARTNERSHIP or component delivery**
 
-**System/Automated Notifications**
-- **Asana** (no-reply@asana.com) — Task management alert (May 25 15:05 UTC); 2 tasks due soon, 6 tasks assigned; **PROJECT TRACKING INFRASTRUCTURE**
-- **Rippling** (no-reply@rippling.com) — HR/admin system notification (May 25 11:01 UTC); pending tasks for Meredith; **HR/BENEFITS/COMPLIANCE ACTIONS PENDING**
-- **Constant Contact Billing** (via purchasing@blackswifttech.com) — Payment receipt for Jack Elston (May 26 03:14 UTC); **EMAIL MARKETING PLATFORM SUBSCRIPTION** (Jack Elston account holder; may indicate outbound marketing campaign or customer communication infrastructure)
+**Procurement — Continued Vendor Infrastructure**
 
-**External Inbound Inquiry — LOW PRIORITY**
+- **McMaster-Carr** (chi.sales@mcmaster.com) — Order confirmation (May 26); **standard industrial supply vendor**
+- **Mini-Box.com** (fred@mini-box.com) / **Ituner Networks** — 3 messages (invoices #139810, order 540-498591); **compact computer/networking components** (consistent with embedded systems, autonomous platforms)
+- **Amazon.com** — Shipment notification "ACEIRMC 3pcs ADUM1201 Dual..." (isolator ICs); **electronics components**
+- **ProtoSpace Manufacturing** (jessica@protospacemfg.com) — **NEW VENDOR:** Joshua Fromm inquiry follow-up (May 26 16:50 UTC); **RAPID PROTOTYPING/MANUFACTURING PARTNERSHIP INQUIRY**
 
-- **Jesse Gilbert** (jessegilbert1977@gmail.com) — Support request to support@blackswifttech.com (May 25 19:52 UTC); "Swarm Software Integration KhanBMS"; **EXTERNAL INQUIRY ABOUT SWARM ROBOTICS INTEGRATION**; low signal without context, but consistent with autonomous swarm/multi-platform coordination
-- **Jorge Gago (Meteo Dron)** (jgago@mido.tech) — Inbound inquiry to info@blackswifttech.com (May 25 11:25 UTC); "Meteo Dron"; **POSSIBLE PARTNERSHIP/VENDOR INQUIRY ABOUT WEATHER DRONE INTEGRATION**
+**External Inquiries & Media**
+
+- **Robert Marciano (CBS News)** (Robert.Marciano@cbsnews.com) — **NEW CRITICAL:** "CBS News Story" (May 26 10:39 UTC); forwarded by Jack Elston; **PUBLIC RELATIONS/MEDIA COVERAGE EVENT**; **timing overlaps with investment/acquisition visibility**
+
+**Miscellaneous External**
+
+- **Human Interest** (support@humaninterest.com) — HR/401(k) admin platform; Meredith requesting primary admin upgrade (May 26 10:53 UTC); **suggests administrative elevation or benefits restructuring**
+- **Worldwide Express** — Shipping invoice #260524W017957 (May 27 07:44 UTC)
+- **UPS** — Package delivery notification (May 26)
+- **Budget/Speedway Motors** — Promotional (continuing from prior batch)
 
 ---
 
 ## Topic Patterns
 
-### Government/Defense Procurement — NEW CRITICAL PATTERN
-- **DoD DSIP Portal Activity (Multiple Sign-ins, May 25)** — Beck Cotter receiving repeated access notifications; suggests:
-  - **Active SBIR/STTR proposal submission process**
-  - **Government contract opportunity tracking**
-  - **Proposal deadline monitoring** (multiple alerts may indicate deadline urgency)
-  - Timing overlaps with previous DARPAConnect visibility; reinforces **defense/government contract pursuit**
+### Investment/Acquisition Due Diligence — CRITICAL NEW PATTERN
+- **"Black Swift - Diligence Requests" (Nadia Bryan thread, May 26)**
+  - Multiple rapid exchanges spanning 10+ messages in 3-hour window (13:19–23:37 UTC)
+  - Includes Jack Elston, Nadia Bryan (legal), Maciej Stachura (finance/ops), Meredith
+  - Subject line includes "[HOLD] Black Swift Diligence Call" — **indicates scheduled legal/investor call placed on hold**
+  - **Signal:** Active M&A or Series funding round; legal counsel managing investor information requests; deal in negotiation/paused state
+  - **Google Docs shared:** "EUC-EAR" (Export Control — Autonomous Regions) and "Export Control - Classification Review 11.02.2015" — **suggests regulatory/export control compliance review for deal process**
 
-### Investment/Corporate Development — CRITICAL NEW PATTERN
-- **Fortuna Investments Inquiry (May 25)** — Routed through Vahid Eghtesad (general inquiry channel); **suggests external investor or acquisition interest**; combined with previous "Black Swift - Diligence Requests" from Kramer & Osborn LLP, indicates:
-  - **Concurrent funding round activity** (Series A/B equity raise OR strategic acquisition discussions)
-  - **Multiple investor/acquirer conversations** in parallel
-  - Legal counsel actively managing diligence process
+### Government/Defense Procurement — ESCALATED
+- **NOAA Funding & IDIQ Contract (May 26)**
+  - Jack Elston correspondence with Amy McLiverty (NOAA Federal) re: "Funding for IDIQ"
+  - Nikolai Pawlenko (NOAA) starred/important; "Orders from Last Year" suggests repeat customer relationship
+  - Meredith preparing "Cost & shipping estimate for NOAA recovered S0" (May 26 11:02 UTC, draft to Joshua Fromm)
+  - **Signal:** Standing IDIQ contract with federal agency; repeat procurement cycle; cost estimation for government customer deliverable
 
-### Automotive/Vehicle Platform Components — NEW PATTERN
-- **CJ Pony Parts Shipment** — **Automotive aftermarket supplier**; specific order #82299998; suggests:
-  - **Vehicle platform testing or integration** (may indicate autonomous vehicle, electric vehicle, or hybrid propulsion testing)
-  - **Chassis/structural components** rather than drone/aerial platforms
-  - Inconsistent with rot
+- **Arctic UAS Demonstration (CJFC)**
+  - White Paper

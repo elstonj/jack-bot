@@ -5,7 +5,7 @@ This channel is primarily used for development and testing of BST's S0 VTOL airc
 
 Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan Domagala, Dan, Ben Busby
 Activity: High activity with 1420+ messages covering approximately 2+ years of development
-Time range: Early development through May 25, 2026 (ongoing project)
+Time range: Early development through May 26, 2026 (ongoing project)
 
 ## Key Decisions
 
@@ -83,16 +83,24 @@ Time range: Early development through May 25, 2026 (ongoing project)
 - Sam Hild pursuing dual strategy: both in-flight logging combined with parachute system deployment rather than choosing between them (May 19, 2026)
 - Focus: Continue ground testing while also preparing logging hardware for flight testing
 
-**Multiple Motor/Hardware Bugs Identified (May 25, 2026):**
-- Sam Hild confirmed two distinct bugs are occurring on test rig, not the same issue:
-  1. **Left Motor Failure (May 25, 2026):** Left motor went out without recovery; ESC error chime heard; no autopilot errors except RID; all other surfaces/motors commanded correctly; BSTCAN packets reporting correctly; DShot commanding valid 0x0000 commands (passing CRC); neither motor disable/enable, hub board power cycle, CAN reconnect, nor surface replug resolved issue
-  2. **Rear Motor RPM Shift (May 25, 2026):** Rear motor running ~800 RPM faster than other two motors despite identical autopilot commands and tablet ranges; strange RPM ramp-up on motor start with sine wave shifting upward during startup; observed in manual log review (not yet in DShot command logs due to logging difficulty); only seen on rear motor so far but may occur on others
+**Critical Hardware Issues Identified & Resolved (May 25-26, 2026):**
+- Sam Hild identified and characterized multiple distinct hardware issues on test rig (May 25, 2026):
 
-## Projects & Initiatives
+  **Issue 1 - Left Motor Failure (May 25, 2026):**
+  - Left motor went out without recovery; ESC error chime heard; no autopilot errors except RID
+  - All other surfaces/motors commanded correctly; BSTCAN packets reporting correctly
+  - DShot commanding valid 0x0000 commands (passing CRC)
+  - Neither motor disable/enable, hub board power cycle, CAN reconnect, nor surface replug resolved issue
+  
+  **Issue 2 - Rear Motor RPM Shift (May 25, 2026):**
+  - Rear motor running ~800 RPM faster than other two motors despite identical autopilot commands and tablet ranges
+  - Strange RPM ramp-up on motor start with sine wave shifting upward during startup
+  - Observed in manual log review (not yet in DShot command logs due to logging difficulty)
+  - Only seen on rear motor so far but may occur on others
 
-**S0-VTOL Development (Spin-Up Phase - May 2026):**
-- Status: 20/50 required test flights completed for certification
-- Current phase: Intensive ground testing with instrumentation improvements; investigating multiple hardware issues; transitioning to combined in-flight logging and parachute system deployment strategy
-- Recent issues discovered and under investigation (May 7-25, 2026):
-  - Stuck pivot servo on left front actuator during overnight testing
-  - PWM "shift" signal degradation (voltage/level shift
+**CAN Bus & Motor Control Issues - Root Causes Identified (May 26, 2026):**
+- Comprehensive issue analysis and fixes applied to test rig (Sam Hild, May 26, 2026):
+  
+  **CAN Bus Issues (RESOLVED):**
+  1. Missing Termination → Fixed on Test Rig
+  2. Wires should be twisted pair

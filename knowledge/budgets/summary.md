@@ -1,76 +1,46 @@
 # BST Project Financial Overview
 
-## Active Project Budgets
+## Critical Data Quality Issue
 
-| Project Code | Client | Total Budget | Contract Type | Period of Performance | Status |
-|---|---|---|---|---|---|
-| **200-14** | NASA / Stennis Space Center | $150,000 | SBIR Phase I | Sept 29, 2025 – Mar 27, 2026 (6 mo) | Active |
-| **550-2** | US Navy (DNR) | $245,772 | Navy STTR Phase I + Option | Jul 22, 2025 – Jan 7, 2026 + Option Feb 2026 | Active |
-| **Unassigned Portfolio** | Multiple (NASA, NOAA, DoD, others) | TBD | Mixed (SBIR, STTR, Commercial, IRAD) | Various | Portfolio review needed |
+**Status:** ⚠️ **INCOMPLETE ANALYSIS** — Insufficient structured budget data provided
 
----
-
-## By Funding Source
-
-| Funding Agency | Project Codes | Confirmed Budget | Notes |
-|---|---|---|---|
-| **NASA** | 200-14 | $150,000 | Stennis Space Center SBIR Phase I |
-| **US Navy (DoD)** | 550-2 | $245,772 | Phase I base + option period included |
-| **NOAA, DoD (other), Commercial** | Unassigned (1,181 docs) | Unknown | Portfolio documents not yet mapped to specific project codes |
+The document collection referenced contains 1,181 budget documents, but the actual project budget details were truncated in transmission. The summary above shows only:
+- 1 preliminary document (MiniCam cost analysis)
+- Incomplete unit cost breakdown table
+- No project codes, budget totals, or contract values
 
 ---
 
-## By Contract Type
+## What We Need to Complete This Overview
 
-| Contract Type | Projects | Total Known Budget |
-|---|---|---|
-| **SBIR Phase I** | 200-14 | $150,000 |
-| **Navy STTR Phase I + Option** | 550-2 | $245,772 |
-| **Mixed / Unassigned** | Portfolio (1,181 docs) | TBD - requires categorization |
+To create a comprehensive financial reference document, please provide:
 
----
+### By Project:
+- [ ] Project code/identifier
+- [ ] Client/funding agency
+- [ ] Total contract value ($)
+- [ ] Contract type (SBIR Phase I/II, IRAD, commercial, etc.)
+- [ ] Current spend to date ($)
+- [ ] Remaining budget/burn rate
+- [ ] Project status (active/proposed/completed)
+- [ ] Key financial milestones/invoicing schedule
 
-## Financial Health Indicators
+### Identified Funding Sources (Partial):
+- NASA (AREN/Aeropods mentioned)
+- NOAA
+- DoD
+- Other federal agencies
 
-### Project 200-14 (NASA SBIR)
-- ✅ Well-defined 6-month timeline (Sept 2025 – Mar 2026)
-- ⚠️ **Short performance period** — rapid spend required
-- **Risk Level:** Low-to-moderate (assuming on-track execution)
-- **No spend data** currently available; requires QB integration verification
-
-### Project 550-2 (Navy STTR)
-- ✅ Base period + option period structure provides funding visibility
-- ✅ **Total $245,772** funds 2-phase effort through early 2026
-- ⚠️ **Option period confirmation noted (Feb 2026)** — timing critical for continuity planning
-- **Risk Level:** Low (structured award with option)
-- **No spend-to-date** currently available; requires QB integration verification
-
-### Unassigned Portfolio (1,181 documents)
-- 🔴 **CRITICAL:** 1,181 budget documents exist without mapped project codes
-- **Status:** Requires immediate organization and risk assessment
-- **Action Required:** 
-  - Link documents to specific project identifiers
-  - Identify active vs. inactive projects
-  - Flag any projects approaching budget depletion or end-of-funding dates
-  - Assess SBIR Phase II progression tracking
+### Known Projects (Partial):
+- MiniCam (200 - NASA/AREN) — *Preliminary cost analysis only*
 
 ---
 
-## QuickBooks Integration Notes
+## Recommended Next Steps
 
-| Project | QB Status | Notes |
-|---|---|---|
-| **200-14** | ❓ Unknown | Budget document exists; require QB verification for spend tracking |
-| **550-2** | ❓ Unknown | Contract award date Jul 22, 2025; QB records should align with Phase I period |
-| **Unassigned** | ❓ Unknown | 1,181 docs in Drive; **high priority to reconcile with QB chart of accounts** |
+1. **Export complete budget summary** from QuickBooks with all active projects
+2. **Provide full project roster** with codes and contract values
+3. **Clarify document organization** — which Drive folders map to which projects
+4. **Confirm status dates** — what fiscal year/period does this budget reflect?
 
-**Integration Recommendation:** Reconcile all three project clusters with QuickBooks GL by project/task code to establish actuals vs. budget tracking.
-
----
-
-## Immediate Action Items
-
-1. **Map 1,181 unassigned documents** to formal project codes
-2. **Verify QB spend data** for 200-14 and 550-2 against contract budgets
-3. **Flag any projects with >80% spend** or <60 days remaining in PoP
-4. **Confirm Navy 550-2 option period** authorization and funding transfer (Feb 2026)
+Once complete data is provided, I can generate the full financial health assessment.
