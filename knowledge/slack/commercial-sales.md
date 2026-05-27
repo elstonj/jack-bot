@@ -21,7 +21,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Stefan (Atmofacts - external partner, methane algorithm tuning)
 - Chris (UMES - external customer contact, S3 training/delivery)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: May 21, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: May 26, 2026.
 
 ---
 
@@ -96,12 +96,13 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - **DECISION (May 21, 2026):** Jack Elston directed: NASA will use their own two payloads, no additional nosecone needed in delivery
 - Dan Prendergast confirmed with NASA customer
 
+**NOAA S0 Production Request (May 26, 2026)**
+- Joshua Fromm asking for clarification on number of S0 units needed for NOAA delivery
+- Implies ongoing NOAA customer relationship with pending order
+
 ### Service Repair Pricing & Quoting Standards (April 2026)
 
 **S20004 Flap Servo Replacement Quote (April 24, 2026)**
 - Nate developing quote for S20004 flap servo replacement including:
   - MD89MW servo motors x2 @ $104.99 each
-  - Servo pockets (Jawstec) x2 @ $20 per pocket
-  - Beefy clevis x2 @ $20 per linkage
-  - Labor: Quote in hours rather than dollar amount (to be calculated by Meredith)
-- **Standard labor
+  - Servo pockets (Jawstec)

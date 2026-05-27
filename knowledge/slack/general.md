@@ -19,6 +19,8 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Beth's Budget Request** (May 12, 2026): External stakeholder (Beth) requesting deliverables by Thursday; Beck Cotter assigned to work up budget pending specific equipment needs and personnel details from Jack Elston.
 - **Industrial Plan Finalized** (May 20, 2026): Jack Elston shared draft of industrial plan providing guidance on how BST will use the seed-round investment; document distributed to team for review.
 - **Security Incident - Unauthorized Drive Access Request** (May 22, 2026): Cameron Peek (unknown individual) requested access to company Google Drive files, referencing "the mall" as destination. Flagged as potential security concern by team members; Jack Elston did not recognize the person. Alex Lomis humorously noted attempted access to sensitive company information.
+- **KrateoSky Integration Meeting Rescheduled** (May 26, 2026): Integration meeting with KrateoSky pushed from late May to June 9-10, 2026. Same agenda; team dinner on June 9th required attendance. Beck Cotter to provide more details.
+- **Neighboring Business Facility Access** (May 26, 2026): Havenly bakery (adjacent tenant) granted bathroom access during their facility repairs.
 
 ### Funding & Awards
 - **NASA Phase I Award** (May 26, 2021): Contract awarded for S2 all-weather capable platform development with solar integration and VTOL S2 for remote autonomous landing
@@ -45,14 +47,4 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **New Printer Procurement** (Feb 5, 2025): Brother DCP-L2640DW ordered and installed; old printer retained for scanning/copying
 - **Drill Press Decommissioning** (May 16, 2024): Became worn out, no longer worth repair
 - **Recycling Service** (April 20, 2026): Arranged pickup with EcoCycle on Wednesdays; Meredith Needham managing coordination
-- **Office Cleaning Service** (May 5, 2026): Regular cleaning scheduled for evenings; employees can leave notes to protect their desks
-
-## Projects & Initiatives
-
-### Active Aircraft Development
-
-**S0 (VTOL System)**
-- Full flight regime simulation successfully achieved (Dec 12, 2024)
-- Status: Primary focus with wing internal structure finalization, skin production at 1 per day
-- Target payload weight: 6.2lbs
-- Ordering remaining
+- **Office

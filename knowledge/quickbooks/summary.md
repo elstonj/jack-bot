@@ -1,70 +1,49 @@
 # BST Financial Overview (QuickBooks)
-**Period: April 2024 – June 2026**
-
----
 
 ## Company Totals
-
-| Metric | Amount |
-|--------|--------|
-| **Total Revenue** (Invoices) | $4,405,611.64 |
-| **Total Expenses** | $2,400,416.48 |
-| **Net Income** | $2,005,195.16 |
+- **Total Revenue (Invoices)**: $4,405,611.64
+- **Total Expenses**: $2,400,416.48
+- **Net Income Estimate**: $2,005,195.16
 
 ---
 
 ## By Project/Class
-*(Sorted by total activity)*
 
-### 1. Government
-- **Total Revenue:** $4,387,717.28
-- **Total Expenses:** $1,330,605.39
-- **Net Position:** $3,057,111.89 ✓ (Strong profitability)
-- **Status:** 75 active invoices; $3.12M outstanding A/R
+| Project | Total Revenue | Total Expenses | Net Position | Status |
+|---------|---------------|----------------|--------------|--------|
+| **Government** | $4,387,717.28 | $1,330,605.39 | **$3,057,111.89** | Active |
+| **BST Internal** | $17,894.36 | $1,069,811.09 | **-$1,051,916.73** | High expense ratio |
 
-### 2. BST Internal
-- **Total Revenue:** $17,894.36
-- **Total Expenses:** $1,069,811.09
-- **Net Position:** -$1,051,916.73 ✗ (Internal operations cost center)
-- **Status:** 2 transactions; Appears to be overhead/infrastructure
+**Key Observations:**
+- Government contracts represent 99.6% of revenue
+- BST Internal is a cost center with minimal revenue (internal operations/overhead)
+- Government projects are highly profitable; Internal operations need revenue allocation or cost reduction
 
 ---
 
 ## Cash Flow Indicators
 
 ### Accounts Receivable (Outstanding)
-- **Government Project:** $3,120,198.19 (71% of total revenue)
-- **Overall A/R Position:** ~$3.1M outstanding
-- **Collection Status:** 75 invoices still open
+- **Government**: $3,120,198.19 outstanding across 75 active invoices
+- **BST Internal**: Balance data incomplete from provided report
+- **Total AR**: ~$3.1M+ in open invoices
 
-### Pending Purchase Orders
-- **Government:** $832.00
-- **BST Internal:** $1,700.00 (PO #1038 – Amprius, outstanding)
-- **Total Pending:** $2,532.00
+### Purchase Orders Outstanding
+- **BST Internal**: PO #1038 (Amprius) - $1,700.00
+- **Government**: $832.00
 
-### Outstanding Invoices
-Government project carries significant receivables that represent the majority of cash flow risk.
-
----
-
-## Top Vendors
-*(Insufficient detail provided in raw data)*
-- Amprius (PO pending, $1,700.00)
+### Alert: High Outstanding AR
+The Government division has significant outstanding balances. Follow-up on invoices approaching payment terms is recommended.
 
 ---
 
-## Top Customers
-*(Insufficient detail provided in raw data)*
-- Government contracts account for 99.6% of company revenue
+## Data Quality Note
 
----
+**Incomplete Report:** The provided QuickBooks export appears truncated. Missing information includes:
+- Vendor/supplier breakdown
+- Customer-by-customer revenue detail
+- Complete expense categorization
+- Recent transaction dates (last entry: 2026-09-28)
+- Cash payment status for outstanding AR
 
-## Data Quality Notes
-⚠️ **The QuickBooks export is incomplete:**
-- Top vendors list truncated
-- Top customers list not included
-- Individual invoice details partially cut off
-- Expense breakdown by vendor not provided
-- Unclassified transactions status unclear
-
-**Recommendation:** Export full detailed P&L and transaction reports to complete this analysis.
+**Recommendation:** Export complete Profit & Loss report with vendor and customer aging reports for comprehensive analysis.

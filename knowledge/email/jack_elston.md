@@ -1,13 +1,10 @@
 # Jack Elston — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,949 (2,914 prior + 35 May 25–26)
-- **Date range:** April 1–May 26, 2026
+- **Total messages scanned:** 3,049 (2,949 prior + 100 May 26–27)
+- **Date range:** April 1–May 27, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **May 25–26 activity:** 35 new messages. **91.4% automated/vendor traffic (32/35 messages are vendor promotions, system notifications, logistics tracking, billing alerts, and HR approvals).** 3 human messages of note:
-  - Maciej Stachura (UK MOD contact — Merlin Mk2/US Navy SBIR coordination)
-  - Scott Smyser/Daniel Prendergast (EMASS - BST Project Meeting escalation — multiple resends)
-  - Akshata at Drone Script (elstonj@bst.aero — external vendor/partner escalation marked IMPORTANT)
+- **May 26–27 activity:** 100 new messages. **68% automated/vendor traffic (68/100).** 32 human messages of note across critical deal, program, and operational domains.
 
 ---
 
@@ -15,97 +12,81 @@
 
 ### Top Internal BST Contacts
 
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical partnerships, government coordination, vendor/facility liaison
-  - **May 25–26 escalation:** 
-    - E2/ECS-DoT Integration Project Status meeting (Tue May 26, 9am–10am MDT; includes NanoVEU partners: Mark, Scott, Tom Wilp, Mohamed Sabry)
-    - EMASS - BST Project Meeting coordination (multiple resends May 25)
-  - **Continuing:** Central hub for technical partnerships, government programs, and NanoVEU integration.
+**Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical partnerships, government coordination, vendor/facility liaison
+- **May 26 escalations:**
+  - **[## 36125 ##] New Sales Lead from thinklucid.com** (IMPORTANT, multiple exchanges 20:15–22:12 UTC with Alex Lomis and Jack)
+    - Jack, Alex Lomis, and Daniel coordinating rapid response to inbound sales lead. Pattern suggests formal lead-routing/qualification process.
+  - **Arctic UAS Demonstration - White Paper Questionnaire and CJFC Vendor Brief (Updated)** (10:43 UTC)
+    - Government program coordination continues (Canadian/international context implied by CJFC reference).
+- **Continuing:** Central hub for technical partnerships, government programs, and NanoVEU integration.
 
-- **Maciej Stachura** (stachura@blackswifttech.com) — Operations, technical coordination, partnerships
-  - **May 25 escalation (IMPORTANT):**
-    - "Re: Merlin Mk2/US Navy SBIR" to Simon.Laurence157@mod.gov.uk (UK MOD contact)
-    - **Context:** Active US Navy SBIR program coordination with UK Ministry of Defence contact.
-  - **Continuing:** Multi-dimensional technical and deal operations.
+**Maciej Stachura** (stachura@blackswifttech.com) — Operations, technical coordination, partnerships
+- **May 26 escalations:**
+  - **Re: Atmolab Camera System** (20:15 UTC, IMPORTANT) — Product/integration development continues
+  - **Re: Black Swift - Employment Agreement** (21:03 UTC, IMPORTANT) — Legal/HR coordination with Ko Firm counsel
+  - **Re: The Soil Moisture Company - Cozen O'Connor Engagement Letter** (10:33 UTC, IMPORTANT) — Third-party engagement/partnership (external counsel involvement)
+  - **Re: Merlin Mk2/US Navy SBIR** (Joshua Fromm routing to Maciej 11:02 UTC) — Active US Navy SBIR coordination continues
+  - **Re: potential S3 customer** (09:42 UTC, 10:04 UTC, IMPORTANT) — Direct customer lead coordination with Brian M Argrow (University of Colorado); two S3s under construction ("Build two more same S3s" — Jack self-memo 21:06/21:13 UTC)
+- **Continuing:** Multi-dimensional technical and deal operations; increasingly central to government program execution.
 
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, operations, partnerships
-  - **May 25–26 signals:**
-    - Continuing to receive vendor purchasing digest traffic routed through purchasing@blackswifttech.com (HeliDirect, Battery Junction, Harbor Freight, JawsTec, Speedway Motors)
-  - **Continuing:** Vendor relationship management and operational readiness.
+**Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, operations, partnerships
+- **May 26 signals:**
+  - **Re: FW: Black Swift - Diligence Requests** (10:46 UTC, IMPORTANT) — M&A integration documentation pipeline
+  - **Re: Admin Task Digest for Black Swift Technologies 401(k) Plan** (10:39 UTC, 10:46 UTC, IMPORTANT) — HR/benefits administration
+  - **Re: Orders from Last Year** (10:43 UTC) — NOAA vendor coordination (Nikolai Pawlenko); ongoing government customer procurement
+- **Continuing:** Vendor relationship management, government customer coordination, HR administration, M&A support.
 
-- **Beck Cotter** — Operations, technical partnerships (no May 25–26 new activity)
+**Beck Cotter** (beck.cotter@blackswifttech.com) — Operations, technical partnerships
+- **May 26 signals:**
+  - **Fwd: CBS News Story** (09:09 UTC, IMPORTANT) — Public relations/media coordination
+- **Continuing:** Operational and communications support.
+
+---
 
 ### Top External Contacts
 
-#### **NanoVEU / E2/ECS-DoT Integration Project (GOVERNMENT PARTNERSHIP — ACTIVE COORDINATION)**
+#### **Government / NOAA / Federal Partnerships (BASELINE CONTINUING + NEW ESCALATION)**
 
-**Scott Smyser** (Scott@nanoveu.com, sssmyse@gmail.com) — NanoVEU Lead/Coordinator
-- **May 25 escalation (IMPORTANT, multiple resends):**
-  - "EMASS - BST Project Meeting" (resent May 25 16:46 UTC from nanoveu.com; original May 25 16:01 UTC; also forwarded from personal gmail May 25 15:34 UTC)
-  - **Context:** High-priority coordination failure/rescheduling. Suggests meeting conflict or technical issue requiring multiple resends.
+**Nikolai Pawlenko - NOAA Federal** (nikolai.f.pawlenko@noaa.gov) — NOAA Customer/Procurement
+- **May 26 escalations (IMPORTANT):**
+  - "Re: Orders from Last Year" (12:41 UTC, 11:14 UTC) — Vendor/customer relationship; Meredith Needham coordinating orders/procurement
+  - Jack responded 10:36 UTC
 
-**Additional NanoVEU Contacts (E2/ECS-DoT Project):**
-- **Mark** (mark@nanoveu.com)
-- **Tom Wilp** (tom.wilp@nanoveu.com)
-- **Mohamed Sabry** (msabry@nanoveu.com) — Also operates as Read AI meeting assistant (read.ai — provides meeting prep/summaries)
-  - **May 25 signals:** Pre-Read meeting preparation for E2/ECS-DoT Integration Project Meeting (Tue May 26, 08:00 AM +08 timezone; also post-meeting report for May 18 meeting)
+**Amy McLiverty - NOAA Federal** (amy.l.mcliverty@noaa.gov) — NOAA Federal (Funding/IDIQ)
+- **May 26 escalation (IMPORTANT):**
+  - "Re: Funding for IDIQ" (11:16 UTC) — Federal funding/contract vehicle (Indefinite Delivery, Indefinite Quantity)
+  - Jack responded 10:34 UTC
 
-#### **UK Ministry of Defence / Merlin Mk2 Program (US NAVY SBIR)**
+**Sonia Otero - NOAA Affiliate** (sonia.otero@noaa.gov) — NOAA UAS Requirements
+- **May 26 escalation (IMPORTANT):**
+  - "UAS IWG requirements document" (13:47 UTC) — UAS Interagency Working Group requirements coordination
+  - Jack responded 12:01 UTC
 
-**Simon Laurence** (Simon.Laurence157@mod.gov.uk) — UK MOD Contact
-- **May 25 escalation (IMPORTANT):**
-  - Maciej Stachura to Simon Laurence: "Re: Merlin Mk2/US Navy SBIR"
-  - **Context:** Active coordination on US Navy SBIR program involving UK defence partnership (likely helicopter/aerial platform development). Jack looped on critical coordination.
+#### **Academic / Research Partnerships (NEW ESCALATION)**
 
-#### **Krateo Sky (M&A/STRATEGIC PARTNERSHIP — INTEGRATION ONGOING)**
+**Brian M Argrow** (Brian.Argrow@colorado.edu) — University of Colorado / S3 Customer Development
+- **May 26 escalations (IMPORTANT, multiple exchanges):**
+  - "potential S3 customer" (15:35 UTC, 15:43 UTC, 16:39 UTC)
+  - Maciej Stachura actively coordinating; Jack copied; Maciej forwarding to Meredith/Beck (10:31 UTC) and flagging to Jack (10:31 UTC)
+  - **Context:** Direct customer lead for S3 production (Jack's self-memo: "Build two more same S3s" 21:06/21:13 UTC suggests immediate production commitment for this lead)
+  - **Notable:** Brian M Argrow also involved in "CBS News Story" coordination (forwarded by Beck Cotter 09:09 UTC) — suggests media coverage involving UCD/aerial systems
 
-**Sona Raziabeegum** (sona@krateosky.com) — Krateo Sky Partnership/Strategy Lead
-- **May 25 signal:**
-  - Jack forwards diligence requests to Sona and Maciej: "Fwd: FW: Black Swift - Diligence Requests"
-  - **Context:** M&A integration documentation pipeline continues; Krateo partnership remains actively engaged in deal process.
+#### **NanoVEU / E2/ECS-DoT Integration Project (GOVERNMENT PARTNERSHIP — CONTINUING)**
 
-#### **Legal/Disclosure & Deal Structuring (M&A TRANSACTION — CONTINUING)**
+**Krateo Sky Partnership** (sona@krateosky.com, Thibault@krateosky.com)
+- **May 26 escalations:**
+  - **"Checking in"** (Jack to Thibault Bridel-Bertomeu & Sona Raziabeegum, 14:43 UTC, SENT)
+  - **"RE: FW: Black Swift - Diligence Requests"** (Sona to Jack, 18:44 UTC & 16:55 UTC, IMPORTANT) — Multiple responses from Krateo on M&A diligence
+  - **Context:** Krateo remains actively engaged in both M&A process and operational coordination; Jack conducting relationship maintenance ("checking in").
 
-**Ko Firm (Counsel)** — External Legal Team
-- **Prior May 24 escalation continues:** Nadia Bryan diligence requests remain active thread (Jack forwarded to Krateo/Maciej May 25).
+#### **Legal / M&A / Financing (TRANSACTION — CRITICAL ESCALATION)**
 
-#### **Drone Script / External Vendor (ESCALATION — IMPORTANT)**
-
-**Akshata at Drone Script** (akshata@thedronescript.com) — External Partner/Vendor
-- **May 25 escalation (IMPORTANT, UNREAD):**
-  - Subject: "Re: Tomorrow this email gets expensive, Jack"
-  - **Email address variant:** elstonj@bst.aero (not primary blackswifttech domain — suggests external partnership/subsidiary relationship)
-  - **Context:** Cryptic subject line ("expensive") suggests pricing negotiation, contract deadline, or escalating vendor issue requiring immediate attention.
-  - **Notable:** This contact uses alternative domain (bst.aero), indicating potential subsidiary or aviation-specific business entity.
-
-#### **Vendor/Purchasing (BASELINE OPERATIONAL — EXPANDED SCOPE)**
-
-**Existing vendors (baseline continuing):**
-- HeliDirect, DigiKey, SendCutSend, Spindrift, Battery Junction, ELEGOO, USPS Informed Delivery, Harbor Freight, Google Flights, Capital One Business
-
-**New vendor activity (May 25–26):**
-- **CJ Pony Parts Inc** (Ship-Confirmation@cjponyparts.com) — Order #82299998 in transit (May 25)
-  - **Context:** Automotive parts supplier. Unexpected in Jack's typical procurement pattern. May indicate vehicle/ground platform development or facility maintenance.
-- **JawsTec** (info@jawstec.com) — Multiple Memorial Day promotions (May 25)
-  - **Product unclear** from subject lines alone; promotional only.
-- **Speedway Motors** (via purchasing) — "Best Exhaust Cutouts for Sound and Power" (May 25)
-  - **Context:** Automotive performance/exhaust components. Reinforces potential vehicle/ground platform procurement signal.
-- **Constant Contact Billing** (May 26) — Email marketing/CMS platform payment (Jack Elston billing)
-  - **Context:** Operational/marketing tool; likely for BST communications or campaign management.
-
-**Pattern update:** Sustained RC/helicopter/electronics procurement continues, but May 25–26 shows new automotive/vehicle components appearing (CJ Pony Parts, Speedway Motors). May indicate:
-  - Facility/fleet maintenance
-  - Ground-based platform development parallel to aerial systems
-  - Vehicle integration with drone systems
-
-#### **HR/Admin Systems (INTERNAL APPROVALS)**
-
-**Rippling** (no-reply@rippling.com) — HR/Employee Management Platform
-- **May 25 escalations (IMPORTANT):**
-  - "Action required: You have pending tasks in Black Swift Technologies"
-  - "[Approval Required] Sam Hild requested time off for May 13, 2026"
-  - **Context:** Jack appears to have manager/approver role in HR system; handling employee time-off approvals.
-
-#### **LinkedIn (Social/Recruitment Signals)**
-
-- **May 25 notifications:**
-  - "Jack, your posts got 50,
+**Nadia Bryan (Ko Firm counsel)** (nbryan@kofirm.com) — Black Swift M&A Lead Counsel
+- **May 26 escalations (CRITICAL — 15+ IMPORTANT messages):**
+  - **"RE: FW: Black Swift - Diligence Requests"** (22:45 UTC, 22:48 UTC, 23:37 UTC, 23:35 UTC) — High-velocity diligence coordination
+    - Jack responding rapidly (16:47, 16:19, 16:46, 16:19, 14:21, 13:19, 12:56, 12:41 UTC)
+    - Maciej Stachura, Meredith Needham, Sona Raziabeegum (Krateo) also in threads
+    - **Pattern:** Multiple resend/escalation by Nadia Bryan suggests urgent diligence deadline or missing submissions
+  - **"RE: FW: Black Swift - Diligence Requests [HOLD]"** (23:35 UTC, IMPORTANT) — Diligence call placed on hold; notification to Jack, Maciej, Meredith
+  - **"RE: Black Swift - Employment Agreement"** (22:21 UTC, 23:50 UTC, IMPORTANT) — Jack, Niki Schwab (Ko Firm counsel), Nadia coordinating employment agreement negotiation/execution
+    

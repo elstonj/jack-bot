@@ -3,50 +3,76 @@
 ## Overview
 - **Client/customer:** Internal BST purchasing system (serves all active projects)
 - **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across multiple projects
-- **Timeline:** Ongoing operational project; current cycle May 18–24, 2026
-- **Status:** **ACTIVE.** Task volume: **2 open tasks (down from 5 in prior cycle).** Both tasks marked "Order Received" and on-schedule for May 24 due date. **paramount tube order and all 3 Meredith-assigned tasks from prior cycle have been closed/removed.** Strong operational momentum; no overdue tasks visible.
+- **Timeline:** Ongoing operational project; current cycle May 18–28, 2026
+- **Status:** **ACTIVE.** Task volume: **6 open tasks (up from 2 in prior cycle).** **⚠️ RISK: 2 tasks are overdue or at-risk** — Classicmuscleparts due May 9 (overdue ~18 days) and sendcutsend due May 22 (likely past deadline as of current data). Both marked "Order Shipped" but not closed. Remaining 4 tasks on-schedule. Workload distributed across Meredith (4 tasks) and Nate (2 tasks).
 - **Team members involved:**
-  - Nate Straus (2/2 tasks assigned — 100% of current workload; focus on order received follow-up)
-  - Joshua Fromm (requester on 1 task)
-  - Alex (requester on 1 task)
-  - Meredith O'hara Needham (owner; order placement now complete for current cycle)
+  - Meredith O'hara Needham (owner; 4/6 tasks assigned — 67% of workload, order placement phase)
+  - Nate Straus (2/6 tasks assigned — 33% of workload, focus on order received follow-up)
+  - Joshua Fromm (requester on 2 tasks)
+  - Alex (requester on 2 tasks)
+  - Nate (requester on 1 task)
 - **Risk signals:**
-  - **None.** All open tasks on-schedule; prior cycle's persistent paramount tube order blocker has been resolved/closed.
+  - ⚠️ **Classicmuscleparts due May 9, 2026 — OVERDUE by ~18 days.** Status: "Order Shipped" but task remains open.
+  - ⚠️ **sendcutsend due May 22, 2026 — AT/PAST DEADLINE.** Status: "Order Shipped" but task remains open.
+  - Both overdue/at-deadline tasks lack closure; verify if orders actually received and task should be marked complete.
 
 ## Key Deliverables & Milestones
 
-### **Current Cycle (May 18–24, 2026)**
-2 open tasks (both due May 24)
+### **Current Cycle (May 18–28, 2026)**
+6 open tasks
 
-#### **Due May 24 (Order Received)**
-1. **amainhobbies for s3 (#15666374)** | Due May 24, 2026 | Project: General Sales (No Specific Project) | Requester: Joshua Fromm | Tax Exempt: YES | **Status: Order Received** | Requested placement: May 18 | Assigned: **Nate Straus**
-2. **L-com (#WL5294244)** | Due May 24, 2026 | Project: [001-7] IRAD S3 | Requester: Alex | Tax Exempt: NO | **Status: Order Received** | Requested placement: May 20 | Assigned: **Nate Straus**
+#### **OVERDUE / AT-RISK**
+1. **Classicmuscleparts / quick-latches (#3001681172)** | Due May 9, 2026 (**OVERDUE ~18 days**) | Project: [001-7] IRAD S3 | Requester: Nate | Tax Exempt: NO | **Status: Order Shipped** | Requested placement: May 8 | Assigned: **Meredith O'hara Needham**
+
+2. **sendcutsend for s3 (#S424H298)** | Due May 22, 2026 (**AT/PAST DEADLINE**) | Project: [001-7] IRAD S3 | Requester: Joshua Fromm | Tax Exempt: NO | **Status: Order Shipped** | Requested placement: May 20 | Assigned: **Meredith O'hara Needham**
+
+#### **Due May 23–28 (On-Schedule)**
+3. **Digikey (#99376023)** | Due May 23, 2026 | Project: [001-7] IRAD S3 | Requester: Alex | Tax Exempt: NO | **Status: Order Shipped** | Requested placement: May 21 | Assigned: **Meredith O'hara Needham**
+
+4. **batteries for s3 demo** | Due May 27, 2026 | Project: [001-7] IRAD S3 | Requester: Joshua Fromm | Tax Exempt: NO | Requested placement: May 27 | Assigned: **Meredith O'hara Needham**
+
+5. **Pasternack (#393639)** | Due May 28, 2026 | Project: [001-7] IRAD S3 | Requester: Alex | Tax Exempt: NO | **Status: Order Received** | Requested placement: May 20 | Assigned: **Nate Straus**
+
+6. **Adafruit USB cable (#37422)** | Due May 28, 2026 | Project: [001-7] IRAD S3 | Requester: Nate | Tax Exempt: NO | **Status: Order Received** | Requested placement: May 19 | Assigned: **Nate Straus**
 
 ## Task Summary
-- **Total tasks:** 2 open, 0 completed
+- **Total tasks:** 6 open, 0 completed
 - **Tasks by assignee:**
-  - **Nate Straus:** 2/2 (100% of current purchasing workload) — *increased from 40% in prior cycle; all tasks "Order Received" status*
-  - **Meredith O'hara Needham:** 0/2 (0% in current cycle; order placement phase complete)
+  - **Meredith O'hara Needham:** 4/6 (67% of workload) — order placement phase; 1 overdue, 1 at-deadline, 2 on-schedule
+  - **Nate Straus:** 2/6 (33% of workload) — order received verification; both on-schedule (due May 28)
 - **Requesters:**
-  - Joshua Fromm: 1 task (50%)
-  - Alex: 1 task (50%)
+  - Joshua Fromm: 2 tasks (33%)
+  - Alex: 2 tasks (33%)
+  - Nate: 1 task (17%)
+  - *(1 task has incomplete requester info)*
 - **Project distribution:**
-  - [001-7] IRAD S3: 1 task (L-com)
-  - General Sales (No Specific Project): 1 task (amainhobbies)
+  - [001-7] IRAD S3: 6 tasks (100%)
 - **Order status breakdown:**
-  - ✅ Order Received: 2 tasks (100%)
-- **Tax exemption:** Mixed (YES for 1 task, NO for 1 task)
+  - Order Shipped: 3 tasks (50%) — **⚠️ includes 2 overdue/at-deadline tasks**
+  - Order Received: 2 tasks (33%)
+  - *(1 task status not specified)*
+- **Tax exemption:** NO for all 6 tasks (100%)
 
 ## Recent Activity
-- **Task count: 5 → 2 open tasks** — **3 tasks removed/closed from prior cycle:**
-  - ✅ Digikey (#99376023) — completed
-  - ✅ batteries for s3 (#9693) — completed
-  - ✅ **paramount tube order for s0 idiq** — **RESOLVED** (was persistent blocker across 3 prior data cycles, marked overdue May 19–23)
-- **Nate Straus role confirmed:** Now 100% of current workload; both tasks in "Order Received" status suggests shift to receiving/verification finalization phase
-- **Operational momentum:** All 2 remaining tasks on-schedule for May 24 delivery; no overdue or at-risk tasks
-- **Prior cycle escalation resolved:** paramount tube order (urgent flag across 3 cycles) has been closed; underlying blocker eliminated
+- **Task count: 2 → 6 open tasks** — **4 new/reopened tasks from prior cycle:**
+  - ⚠️ **Classicmuscleparts (#3001681172)** — **REOPENED/RE-LISTED.** Was not visible in prior cycle; now showing as overdue (due May 9, 2026). Status: "Order Shipped" but remains open.
+  - ⚠️ **sendcutsend for s3 (#S424H298)** — New/reopened; due May 22 (now at/past deadline). Status: "Order Shipped" but remains open.
+  - **Digikey (#99376023)** — **REOPENED.** Marked completed in prior cycle; now showing as open with due date May 23, 2026.
+  - **batteries for s3 demo** — **REOPENED.** Marked completed in prior cycle; now showing as open with due date May 27, 2026.
+- **Nate Straus role expanded:** Now assigned 2 additional tasks (Pasternack, Adafruit USB cable) in "Order Received" status, confirming continued shift to receiving/verification phase.
+- **Workload rebalance:** Meredith's workload increased from 0 to 4 tasks (order placement phase resumed).
 
 ## Notes & Context
-- **Transition phase:** Purchasing cycle transitioning from order placement (Meredith) to receiving/fulfillment (Nate). Current 2 tasks represent final receiving verification stage for this operational window.
-- **jawstec project breakdown issue:** Status unknown; task was removed in prior cycle but underlying issue may persist — verify during next purchasing reconciliation
-- **No outstanding blockers:** paramount tube order resolution clears prior escalation; all open tasks on-track
+- **⚠️ DATA INCONSISTENCY ALERT:** Digikey and batteries for s3 demo were marked **completed in prior cycle** but now appear as **open tasks in current data**. This suggests either:
+  - Tasks were reopened after completion (orders cancelled/reworked)
+  - Prior cycle data was incorrect
+  - Asana interface showing stale state
+  - **ACTION REQUIRED:** Verify with Meredith/Nate whether these orders remain active or if task list needs reconciliation.
+
+- **Overdue task closure:** Classicmuscleparts (due May 9) and sendcutsend (due May 22) both show "Order Shipped" status but remain open. If orders have been received, tasks should be marked complete to clear overdue backlog.
+
+- **All tasks billed to [001-7] IRAD S3:** 100% of purchasing workload currently serves this single project.
+
+- **Form reminder:** Project notes include Asana form link; team members instructed to use form or tasks will auto-delete. Verify compliance in future cycles.
+
+- **Prior cycle resolution confirmed:** Paramount tube order and jawstec project issues from prior cycles are no longer visible in task list (confirmed closed/resolved).

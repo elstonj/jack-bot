@@ -1,5 +1,7 @@
 # Nate Straus — Email Patterns
 
-Only 1 emails found in scanned period.
+Only 3 emails found in scanned period.
 
-- Mon, 25 May 2026 19:52:59 -0700: Swarm Software Integration KhanBMS (from: Jesse Gilbert <jessegilbert1977@gmail.com>)
+- Tue, 26 May 2026 13:16:20 -0600: Re: Great meeting you! (from: Nathaniel Straus <nate.straus@blackswifttech.com>)
+- Tue, 26 May 2026 11:57:33 -0600: Re: Great meeting you! (from: "Eli Ludtke | 2ndWorks" <Eli@2ndworks.com>)
+- Tue, 26 May 2026 11:10:37 -0600: Re: Great meeting you! (from: Nathaniel Straus <nate.straus@blackswifttech.com>)
