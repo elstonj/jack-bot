@@ -86,7 +86,7 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Jack Elston initiated procurement of 20 additional S0 aircraft units to maintain stock inventory for operational opportunities (May 6, 2026)
 - Decision made to use current 2026 configuration without waiting for 2027 mods (May 6, 2026)
 
-**Marketing & Content (April 28, 2026):**
-- Jack Elston created pull quotes for marketing content; notes they were created as jokes but indicates potential broader marketing use (April 28, 2026)
-- Dan Prendergast confirmed that quoted individuals would likely endorse/undersign the quotes (April 28, 2026)
-- Joshua Fromm suggested sending pull quote material to Monster Energy for potential sponsorship opportunity
+**Higher-Rate Data Recording Capability (May 27, 2026):**
+- NOAA requested modification to ground stations to enable higher-rate data availability, potentially for operational use as early as 2026 season (May 27, 2026)
+- Jack Elston planning to integrate this modification into new GCS builds (May 27, 2026)
+- Plan to develop P3 simulator at BST for testing prior

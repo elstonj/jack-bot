@@ -1,126 +1,129 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 331 emails (combined: 292 prior + 39 new)
-- **Date range:** May 18–27, 2026
-- **Volume pattern:** Sustained very high; heavy procurement activity, government partnership coordination, and vendor logistics
-- **Unread messages:** ~200+ unread (continuing sustained incoming rate; promotional volume remains high post-Memorial Day)
+- **Total messages scanned:** 377 emails (combined: 331 prior + 46 new)
+- **Date range:** May 18–28, 2026
+- **Volume pattern:** Extremely high sustained volume; heavy procurement activity mixed with government partnership coordination and vendor logistics
+- **Unread messages:** ~220+ unread (continued sustained incoming rate; significant promotional/automated email volume)
+- **Daily average:** ~13–15 emails/day (excluding heavy promotional volume routed via purchasing alias)
 
 ---
 
 ## Key Correspondents
 
-### New/Updated Senders (May 26–27)
+### Top Internal Contacts
+1. **Jack Elston** (elstonj@blackswifttech.com) — **Primary collaborator**
+   - Acts as liaison on government programs (Merlin Mk2, US Navy SBIR, UK MOD)
+   - Coordinates with external partners (Simon Laurence/MOD, USAF contacts)
+   - Multiple IMPORTANT emails on tube-launched UAS development
+   
+2. **Maciej Stachura** (stachura@blackswifttech.com) — **Co-investigator/technical lead**
+   - NOAA program coordination
+   - Merlin Mk2/UK MOD communications
+   - Receives supplier communications (Mt. Princeton Hot Springs, Harbor Freight coupons suggest field/testing activities)
 
-#### Critical Government Partnership — ESCALATED
-1. **Annette Hollingshead — NOAA Federal** — **IMPORTANT monthly coordination (May 26, 20:51 UTC)**
-   - **To:** Jack Elston, Joe Cione (NOAA), Josh Fromm, Maciej Stachura, technician@blackswifttech.com, Joshua Wadler (ERAU)
-   - **Subject:** "NOAA/Blackswift monthly"
-   - **Significance:** Monthly partnership meeting/coordination; multi-team visibility (suggests formal program with recurring cadence)
-   - **Participants indicate:** Weather/atmospheric monitoring program (NOAA focus); Wadler at ERAU suggests academic collaboration
-   - **Status:** Active, institutionalized partnership
+3. **Meredith Needham** (meredith.needham@blackswifttech.com) — **Procurement/Operations**
+   - Forwarding shipping confirmations for time-sensitive deliveries
+   - Receives helicopter-related newsletters (HeliDirect)
+   - Coordinates with external partners (Christopher Hartman/UMES)
 
-2. **Simon Laurence — UK Ministry of Defence** — **Auto-reply received (May 26, 17:02 UTC)**
-   - **To:** Josh Fromm directly
-   - **Subject:** "Automatic reply: Merlin Mk2/US Navy SBIR"
-   - **Significance:** Josh initiated direct contact with UK MOD on government program; auto-reply confirms email delivery
-   - **Status:** Ongoing government partnership communication (continues prior thread activity)
+### Top External Government Contacts
+1. **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — **UK Ministry of Defence**
+   - Direct dialogue on Merlin Mk2/US Navy SBIR program (May 27, 10:05 UTC)
+   - IMPORTANT status; active back-and-forth with Jack Elston
+   - Confirms active international government partnership
 
-3. **Joshua Wadler — Embry-Riddle Aeronautical University (ERAU)** — **IMPORTANT email thread (May 26, 20:59 UTC)**
-   - **Email from:** WADLERJ@erau.edu
-   - **To:** Jack Elston (elstonj@blackswifttech.com), Annette Hollingshead (NOAA)
-   - **Subject:** "Re: [EXTERNAL] Re: NOAA/Blackswift monthly"
-   - **Significance:** ERAU faculty coordinating on NOAA/BST program; appears to be technical lead or project manager
-   - **Relationship Type:** Academic/government partnership coordination
+2. **Lt Col Matthew A. Swee** (matthew.swee.1@us.af.mil) — **USAF 63rd Air Refueling Squadron**
+   - Communications on "Tube Launched UAS" program (May 27, 09:32–09:37 UTC)
+   - IMPORTANT emails; copied to Albert Lowas (AMC/ST)
+   - Indicates Air Force procurement/testing relationship
 
-#### New Supplier Contacts
-1. **ProtoSpace Mfg** — **Direct contact escalation (May 26, 16:50 EST)**
-   - **Contact:** Jessica (jessica@protospacemfg.com)
-   - **Email marked:** IMPORTANT
-   - **Subject:** "RE: Following Up on Your Website Chat"
-   - **Context:** Josh initiated contact May 26 at 13:28 MDT; Jessica responded same day at 16:50 EDT (3.5 hour turnaround)
-   - **Inference:** Active CNC/fabrication service engagement; Josh likely sourcing custom machined components
-   - **Note:** Separate from ProtoCase (existing vendor); different manufacturing relationship
+3. **Annette Hollingshead** (NOAA) — **Monthly program coordination**
+   - Recurring monthly partnership meetings (continues from prior data)
 
-2. **Mini-box.com / Fred Solis** — **New supplier invoice (May 26, 13:31 PDT)**
-   - **Invoice:** #139810
-   - **Products:** Ituner Networks Corporation order #540-498591 fulfilled
-   - **Significance:** Embedded systems/networking components; order routed through purchasing alias
-   - **Inference:** Possible computer/networking hardware for ground station or aircraft systems
+4. **Joshua Wadler** (ERAU) — **Academic partner**
+   - NOAA/Black Swift program coordination
 
-3. **Adam Skare — Stäubli Connectors** — **Direct personal contact (May 26, 12:45 EDT)**
-   - **To:** josh.fromm@bst.aero (alternative domain)
-   - **Subject:** "When connectors stop being the weak link"
-   - **Significance:** Premium connector supplier; direct outreach to aerospace domain suggests high-reliability connection systems evaluation
-   - **Inference:** UAV/aircraft electrical system integration (connectors critical for aerospace applications)
+### Top Suppliers (New/Updated Activity — May 27–28)
 
-#### Logistics & Fulfillment — Updated
-1. **Worldwide Express** — **Invoice issued (May 27, 07:44 UTC)**
-   - **Invoice:** #260524W017957 for BLACK SWIFT TECHNOLOGIES #W002346756
-   - **Significance:** International/expedited shipping; routed through purchasing alias
+#### CNC/Fabrication & Prototyping
+1. **Jessica — ProtoSpace Mfg** (jessica@protospacemfg.com) — **ESCALATED ENGAGEMENT**
+   - **Activity:** 3 emails in rapid sequence (May 27, 09:47, 10:19, 12:46 MDT/EDT)
+   - Josh initiated contact May 26 (13:28 MDT); Jessica responded same day (16:50 EDT)
+   - Continued dialogue May 27 with follow-up coordination
+   - **Status:** Active, time-sensitive sourcing relationship
 
-2. **UPS / Purchasing** — **Package delivery notification (May 26, 22:35 EDT)**
-   - **Status:** Package arriving tomorrow (May 27)
-   - **Note:** Unread; typical logistics tracking
+2. **Lee Skidmore — Rubicon Aerospace** (lee@rubiconaerospace.com) — **NEW CRITICAL SUPPLIER**
+   - **Email received:** May 27, 22:03:52 UTC — "Launch Tube Validate" [IMPORTANT]
+   - **Outbound from Josh:** May 27, 15:58:40 MDT — "Fwd: Timeline / quantities for S0 tubes"
+   - **Significance:** Directly linked to "Tube Launched UAS" program
+   - **Inference:** S0 tubes = launch tubes for tube-launched aircraft; validation phase; timeline/quantities discussion suggests procurement planning
 
-3. **USPS Informed Delivery** — **Daily digest (May 26, 13:38 UTC)**
-   - **Routed via purchasing alias** — indicates centralized tracking of physical mail
+#### Electronics & Components
+1. **ServoCity®** (sales@servocity.com) — **Order confirmation May 27**
+   - Order #300044184
+   - Continues RC/drone mechanical components pattern
 
-4. **McMaster-Carr** — **Order confirmation (May 26, 17:25 EDT)**
-   - **Status:** Order placed May 26
-   - **Significance:** Industrial/mechanical components supplier active; standard procurement pattern
+2. **JawsTec** (info@jawstec.com) — **Shipment confirmation May 27**
+   - Order in transit; category unclear from subject line
 
-#### Technical Component Procurement — New Detail
-1. **Amazon** — **ADUM1201 Dual isolator chips (May 26)**
-   - **Order:** "ACEIRMC 3pcs ADUM1201 Dual..." ordered/shipped
-   - **Significance:** Analog Devices dual isolator ICs; used in isolated digital communication circuits (power electronics, motor control, high-voltage isolation)
-   - **Inference:** Active electronics integration for power systems or motor control (supports battery/propulsion focus)
+3. **Craftcloud®** (via Purchasing) — **3D printing/fabrication service**
+   - New contact May 27; promoting "500 MB File Uploads"
+   - Suggests uploading complex design files; consistent with prototype/fabrication workflow
 
-2. **Teledyne FLIR OEM** — **Dual contact (May 26, 10:03 & 10:00 EDT)**
-   - **To both:** josh.fromm@blackswifttech.com AND josh.fromm@bst.aero
-   - **Subject:** "Distance Changes Decisions — See the Bigger Picture"
-   - **Significance:** Thermal imaging/sensor supplier reaching out on both primary & aerospace domains
-   - **Inference:** Potential thermal/infrared payload evaluation for UAV systems
+#### Industrial & Mechanical
+1. **McMaster-Carr** — **Multiple orders (May 26–28)**
+   - Invoice receipt (May 28, 03:08:13 UTC)
+   - Certificate & tracking (May 27, 06:37:49 EDT)
+   - Continued active procurement
 
-3. **Hobbyking** — **End of May sale notification (May 26, 13:49 UTC)**
-   - **Routed via purchasing alias**
-   - **Continuing pattern:** RC components, servos, batteries for drone/helicopter systems
+2. **DIY500AMP.com** (via Purchasing) — **NEW SUPPLIER**
+   - Order #3058 confirmed May 27
+   - **Inference:** High-amperage electrical components; possibly battery management, power distribution, or motor control systems (500 AMP = high-power systems)
 
-4. **DigiKey** — **Sensor solutions promotion (May 26, 09:01 CDT)**
-   - **To:** josh.fromm@blackswifttech.com
-   - **Continuing pattern:** Passive contact
+3. **Harbor Freight** (via Purchasing, to Maciej Stachura) — **Tools/field equipment**
+   - 25% off coupon May 27; targets Maciej specifically
+   - Suggests hands-on assembly/field testing activities
 
-#### Project/Program Visibility
-1. **Asana** — **Project management notification (May 27, 00:26 UTC)**
-   - **Unread notifications**
-   - **Significance:** Active task/project tracking; suggests coordinated multi-team work
+#### Consumer/Logistics
+1. **Spindrift Market** (via Purchasing) — **Order SH62372539 May 27**
+   - Category unclear; possibly beverage/refreshment (based on name)
 
-#### Personal Travel & Accommodation
-1. **Hilton Honors** — **2 emails (May 26)**
-   - Silver status promotion + save up to 20% offer
-   - **Inference:** Frequent business traveler; loyalty program active
-   - **Note:** Different from prior Frontier Airlines contact; suggests multi-carrier/hotel travel planning
+2. **Driftaway Coffee** (ops@driftaway.coffee) — **Shipment notification May 27**
+   - Routed to purchasing@bst.aero
+   - Recurring supplier relationship
+
+3. **Frontier Airlines** — **Travel promotions**
+   - Multiple IMPORTANT/promotional emails (May 27)
+   - $0 annual fee + 50,000 miles; $199 unlimited summer flights
+   - Indicates ongoing business travel cadence
+
+### Email Routing Patterns
+- **Purchasing alias heavily used:** purchasing@blackswifttech.com and purchasing@bst.aero receive >50% of supplier/logistics emails
+- **Dual domain usage:** josh.fromm@blackswifttech.com (primary) and josh.fromm@bst.aero (aerospace domain) both active
+- **Meredith Needham appears as alternate recipient** on supplier/logistics emails (suggests delegated inbox management)
+- **Alexis Lomis** listed as alternate recipient (ELEGOO US, May 27) — possible procurement/engineering support role
 
 ---
 
 ## Topic Patterns
 
-### Active Programs & Partnerships
+### Active Government Programs — EXPANDED
 
-#### 1. **NOAA/Black Swift Technology Program** — MAJOR INSTITUTIONALIZED PARTNERSHIP
-- **Participants:** Annette Hollingshead (NOAA), Joe Cione (NOAA), Joshua Wadler (ERAU), Jack Elston (BST), Maciej Stachura (BST), Josh Fromm (BST), technician@blackswifttech.com
-- **Cadence:** Monthly coordination meetings
-- **Scope:** Atmospheric/weather observation (NOAA mandate)
-- **Academic Partner:** Embry-Riddle Aeronautical University (ERAU)
-- **Status:** Active, recurring, cross-organizational
-- **Note:** This is a significantly larger program than visible from individual email; monthly cadence indicates sustained funding/commitment
+#### 1. **Tube Launched UAS Program** — MAJOR NEW DISCOVERY
+- **Participants:** Josh Fromm, Jack Elston (BST), Lt Col Matthew A. Swee (USAF 63 ARS/CC), Albert Lowas (USAF AMC/ST), Simon Laurence (UK MOD)
+- **Supplier:** Lee Skidmore / Rubicon Aerospace (S0 launch tubes)
+- **Activity:** 
+  - USAF liaison (Swee) discussing specifications May 27
+  - Josh requesting "timeline / quantities for S0 tubes" May 27
+  - Rubicon Aerospace validation phase active
+- **Status:** Early procurement/validation phase; USAF involvement suggests government interest/potential contract
+- **Implication:** Tube-launched (air-dropped) deployable UAV; distinct from helicopter/traditional launch
 
-#### 2. **Merlin Mk2 / US Navy SBIR Program**
-- **Participants:** Josh Fromm, Maciej Stachura, Simon Laurence (UK MOD)
-- **Type:** Government Small Business Innovation Research contract
-- **Status:** Active communication with UK Ministry of Defence (auto-reply received May 26)
-- **Inference:** US Navy + UK MOD technology partnership; likely advanced UAV or aircraft system
+#### 2. **Merlin Mk2 / US Navy SBIR** — CONTINUING ACTIVE STATUS
+- **Participants:** Josh Fromm, Jack Elston, Maciej Stachura, Simon Laurence (UK MOD)
+- **Activity:** Active correspondence May 27 (Laurence responds 10:05 UTC)
+- **Status:** Ongoing coordination with UK defence ministry; SBIR suggests government funding
 
-### Procurement Focus Areas — Updated
-
-#### Battery & Power Systems
+#### 3. **NOAA / Black Swift Technology Program** — INSTITUTIONALIZED MONTHLY CADENCE
+- **Participants:** Annette Hollingshead, Joe Cione (NOAA), Joshua Wad

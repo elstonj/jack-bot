@@ -1,10 +1,23 @@
 {
   "period": {
-    "start": "2026-05-26",
-    "end": "2026-05-27"
+    "start": "2026-05-27",
+    "end": "2026-05-28"
   },
-  "scanned_at": "2026-05-27",
+  "scanned_at": "2026-05-28",
   "projects": [
+    {
+      "project_code": "001-7",
+      "revenue": 0.0,
+      "expenses": 818.39,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 3,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "(001-7) IRAD - S3"
+      ]
+    },
     {
       "project_code": "300-3",
       "revenue": 216000.0,
@@ -34,10 +47,10 @@
     {
       "project_code": "_unclassified",
       "revenue": 0.0,
-      "expenses": 10822.58,
+      "expenses": 10853.87,
       "invoice_count": 0,
       "bill_count": 1,
-      "purchase_count": 1,
+      "purchase_count": 2,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [

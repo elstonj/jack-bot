@@ -17,6 +17,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **May 18, 2026**: Confirmed P-3 altitude at 10,000 ft during CAT flights; validated for TDR analysis comparison with S0 wind data
 - **May 20, 2026**: Team attending SASCWATCH meeting with focus on identifying calibration opportunities for flux and sea surface state measurements (Maciej, Jun Zhang, and Jack Elston joining remotely; Josh Wadler attending in person)
 - **May 26, 2026**: Scheduled Phase II Cal/Val plan meeting for Thursday May 28 at 11 AM ET; Progress Report (Task O.2) in good shape; Cal/Val plan (Task O.1) prioritized for discussion
+- **May 27, 2026**: Phase II Cal/Val plan meeting rescheduled to 11:30 AM ET (moved from 11:00 AM due to Jun Zhang's conflict); confirmed attendance: Maciej and Josh Wadler
 
 ## Projects & Initiatives
 **Navy STTR Boundary Layer Measurements Project (Award: N6833535C0270)**
@@ -53,8 +54,8 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - Centralized Google Drive: Maciej's NOAA folder → 2026 subfolder → CAT subfolder for organized data management
 - Contains: Dropsonde data, TDR data, Streamsonde data, S0 files with improved wind estimates
 
-**Phase II Tasks Status (May 26, 2026):**
-- **Task O.1**: Cal/Val plan for Phase II including ocean data (scheduled for team discussion May 28, 2026)
+**Phase II Tasks Status (May 26-27, 2026):**
+- **Task O.1**: Cal/Val plan for Phase II including ocean data (team discussion scheduled May 28, 2026 at 11:30 AM ET)
 - **Task O.2**: Progress Report (in good shape, due June 3, 2026)
 
 ## Action Items & Commitments
@@ -63,16 +64,14 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **Maciej**: 
   - Analyze 5 CAT flights with focus on winds using dual GPS heading data (in progress May 6)
   - Work with James Pinto on ISARRA wind data improvements for publication (week of May 6)
-  - Lead Phase II Cal/Val plan development; taking lead on putting Cal/Val plan (Task O.1) together but seeking feedback (May 26)
+  - Lead Phase II Cal/Val plan development; taking lead on putting Cal/Val plan (Task O.1) together but seeking feedback
   - Compile updated CAT files with improved wind estimation techniques
   - Contribute to centralized data folder structure
   - Assess P3 wind measurement discrepancies relative to dropsonde measurements (May 7 investigation)
   - Attended SASCWATCH meeting May 20, 2026 (remotely) focusing on calibration opportunities for flux and sea surface state measurements
-  - **Available for Cal/Val plan discussion: May 27 (all day), May 28 morning through 1 PM ET**
+  - **Attending Cal/Val plan meeting May 28, 2026 at 11:30 AM ET**
 - **Josh Wadler**: 
   - Post-processed dropsonde data uploaded to shared folder (completed May 6)
   - Streamsonde post-processing: actively working on real-time QC files (TBD)
   - Uploaded sonde and comparison data to folder (completed May 6)
-  - Support QC analysis from CAT flights
-  - Will participate in Phase II Cal/Val planning upon return
-  - Investigate TDR radar data gaps and salvage options for eastern region coverage needed for S0 comparisons (May 7, involving Paul from NOAA/TDR team
+  - Support QC analysis from CA

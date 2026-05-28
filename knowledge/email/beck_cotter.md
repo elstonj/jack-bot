@@ -1,99 +1,77 @@
 # Beck Cotter — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 39 (8 from prior period + 31 new)
-- **Date range covered:** 24 May 2026 – 26 May 2026
-- **Volume pattern:** Significant spike on 26 May 2026 (28 of 31 new messages); concentrated activity suggests deadline-driven or transaction-intensive day. Daily volume ranges from light to heavy depending on project phase.
+- **Total messages scanned:** 88 (39 from prior period + 49 new)
+- **Date range covered:** 24 May 2026 – 28 May 2026
+- **Volume pattern:** Sustained high activity through 28 May 2026 (49 new messages over 5 days); concentrations align with proposal deadlines, legal/transactional milestones, and government vendor briefs. Multiple parallel workstreams evident.
 
 ## Key Correspondents
 
 ### Senders (who emails Beck most)
-- **Jack Elston** (elstonj@blackswifttech.com) — 9 messages (internal, appears to be leadership/coordination role)
-- **Nadia Bryan** (nbryan@kofirm.com) — 6 messages (external legal counsel)
-- **Daniel Prendergast** (via Google Docs) — 3 comment notifications (internal, collaborative)
-- **DSIP (Defense SBIR/STTR Innovation Portal)** — 3 messages (automated)
-- **Google Docs collaboration** — multiple comment threads
-- **NASA Earth Observatory** — 1 message (newsletter)
-- **UASweekly.com** — 1 message (newsletter)
-- **Trenton McKibben** (nextechsol.com) — 2 messages (external)
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — 2 messages (internal)
+- **Jack Elston** (elstonj@blackswifttech.com) — 15+ messages (internal leadership/coordination hub)
+- **Daniel Prendergast** (Google Docs & direct) — 4 messages (internal, technical collaboration)
+- **Bob Smith** (Bob@krateosky.com) — 3 messages (external partner, anti-submarine project)
+- **Maciej Stachura** (Google Docs & direct) — 4 messages (internal, proposal/technical review)
+- **Nadia Bryan** (kofirm.com) — 6 messages (external legal counsel, diligence)
+- **Brackenridge, Alasdair** (alasdair.brackenridge@global.lmco.com) — 2 messages (Lockheed Martin, UK UAV project)
+- **Peacher, Halie B.** (hpeacher@akingump.com) — 3 messages (external legal counsel, meeting follow-up)
+- **Peek, Cameron** (cpeek@akingump.com) — 3 messages (external legal counsel, meeting follow-up)
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — 3 messages (internal operations/BD)
+- **Bassil El Masri** (belmasri@murraystate.edu) — 2 messages (external testing/Flight #3 coordination)
+- **Brescia, Anthony D** (anthony.d.brescia.civ@us.navy.mil) — 1 message (US Navy, NE27 site survey)
+- **Google Docs collaboration** — 5 comment notifications (Runtime Assured Autonomy proposal work)
+- **Gemini Notes** — 2 notes from meetings (Business Operations, BST Internal Update)
+- **Newsletter/Automated:** SOFWERX, NASA OSBP, UASweekly, Napkin AI, Asana, DSIP (continues)
 
 ### Recipients (who Beck emails most)
-- **Jack Elston** (elstonj@blackswifttech.com) — 1 sent message (Fwd: CBS News Story)
-- **Maciej Stachura** (stachura@blackswifttech.com) — 1 sent message (Fwd: CBS News Story)
+- **Jack Elston** — 5+ sent messages (coordination, forwarding)
+- **Maciej Stachura** — 2 sent messages (project updates)
+- **Meredith Needham** — 2 sent messages (forwarding, coordination)
+- **Daniel Prendergast** — 1+ sent messages (collaboration)
+- **Peacher, Halie B.** — 1 sent message (legal)
+- **Bassil El Masri** — 1 sent message (testing coordination)
+- **Krateo Sky contacts** (Sona Raziabeegum, Bob Smith, Adria Passola) — 1 sent message (integration pre-work)
+- **Lockheed Martin contacts** (Turner, Brackenridge) — 1 sent message (UK UAV EOI follow-up)
 
 ### Internal vs External
-- **Internal:** Jack Elston, Daniel Prendergast, Maciej Stachura, Joshua Fromm, Meredith Needham, Google Docs collaboration
-- **External:** Nadia Bryan (kofirm.com — law firm), Trenton McKibben (nextechsol.com), Robert Marciano (cbsnews.com), Amy McLiverty (noaa.gov), Nicolas Verreault (forces.gc.ca — Canadian Armed Forces), Invest Ottawa contacts, Mack Harris (bridgeview-mfg.com)
-- **Automated/Newsletters:** DSIP portal, NASA Earth Observatory, UASweekly.com
+- **Internal:** Jack Elston, Daniel Prendergast, Maciej Stachura, Meredith Needham, Joshua Fromm, Google Docs collaboration
+- **External Law Firms:** 
+  - Nadia Bryan (kofirm.com) — continued diligence work
+  - Halie B. Peacher & Cameron Peek (akingump.com) — transactional/meeting follow-up counsel
+  - Kylie Sholty (katten.com) — external legal involvement
+- **Defense/Government:**
+  - Alasdair Brackenridge & Rory Turner (global.lmco.com — Lockheed Martin)
+  - Anthony D. Brescia (US Navy NAWCAD)
+  - Matthew A. Swee (US Air Force)
+  - Simon Laurence (UK MOD — mod.gov.uk)
+- **Commercial Partners:**
+  - Bob Smith, Sona Raziabeegum, Lisa Marie Cheney, Adria Passola (krateosky.com — Krateo Sky)
+  - Bassil El Masri (Murray State University — testing/Flight operations)
+- **Automated/Newsletters:** SOFWERX, NASA OSBP, UASweekly, Napkin, Asana, Eventbrite
 
 ## Topic Patterns
 
 ### Recurring Subjects & Projects
-- **Black Swift - Diligence Requests** — 8+ thread messages; primary focus of 26 May activity; involves legal counsel (Nadia Bryan), Jack Elston, Meredith Needham; marked IMPORTANT repeatedly
-- **DAF Agile EW Tech** — 4 messages; active Google Docs collaboration with Daniel Prendergast; references to "SkyMesa," Arthur (team member), need for assistance
-- **Merlin Mk2/US Navy SBIR** — 1 message (Joshua Fromm to Maciej Stachura) continuing from prior period
-- **Arctic UAS Demonstration** — 2 messages; references White Paper Questionnaire, CJFC Vendor Brief, Canadian engagement (forces.gc.ca); appears to be international/multi-stakeholder initiative
-- **SkyMesa DoD check in** — Google Notes reference; internal project tracking
-- **Funding for IDIQ** — 2 messages between Jack Elston and Amy McLiverty (NOAA Federal); government contracting
-- **Potential S3 customer** — forwarded to Beck and Meredith Needham by Jack Elston
-- **CBS News Story** — Media engagement; forwarded by Beck to Jack Elston and Maciej Stachura
+- **Black Swift - Diligence Requests** — 8+ messages (prior period); continues to be active with Nadia Bryan; legal/regulatory/transaction milestone
+- **Runtime Assured Autonomy (RAA) Proposal** — 5+ messages (Google Docs collaboration); Daniel Prendergast and Maciej Stachura actively editing technical volumes; proposal deadline approaching; marked IMPORTANT repeatedly
+- **DAF Agile EW Tech** — 4 messages (Google Docs); SkyMesa component; referenced in "EW Proposal" thread with Arthur Shune involvement
+- **EOI/UK MAD UAV Project** — 2 messages (28 May); Lockheed Martin (Brackenridge, Turner) direct correspondence; Beck initiating follow-up; marked IMPORTANT; new international opportunity
+- **Anti-Submarine Project (Krateo Sky)** — 3 messages; Bob Smith as primary external contact; integration pre-work spreadsheet prepared by Beck; ongoing vendor/partner collaboration
+- **Merlin Mk2/US Navy SBIR** — 2 messages (UK MOD, Joshua Fromm); continuing from prior period; UK defense collaboration element
+- **NE27 Site Survey Requirements** — 1 message (28 May); US Navy (Brescia, NAWCAD) requirement; due Friday 29 May; broad vendor participation list; high urgency
+- **Vendor Brief Meeting and Recording** — 2 messages; Krateo Sky participation; recording/follow-up coordination
+- **Meeting Follow-Up (Legal Counsel)** — 8+ messages (27 May spike); Akingump law firm (Peacher, Peek) coordinating with Jack Elston, Beck, Meredith Needham, external counsel (Katten); appears to be significant transaction/due diligence closing
+- **[044-1] EMASS Chip Integration** — 1 Asana task notification (27 May); internal project tracking
+- **Tube Launched UAS** — 2 messages; Air Force Lt Col Matthew Swee inquiry to Jack Elston; early-stage opportunity flag
+- **Black Swift Current Org with Phased Hiring Plan** — Napkin document shared by Jack Elston (27 May); organizational planning/growth phase
+- **NSF SBIR/STTR Programs** — Forwarded by Jack Elston; $250M funding announcement; next-generation instrumentation emphasis
+- **J2 Integrated Survey Program Autonomous Solutions Assessment Event** — SOFWERX-managed; autonomous systems opportunity
 
-### External Organizations
-- **nextechsol.com** (Trenton McKibben, Chris Pitfield) — vendor/partner; involved in Arctic UAS and vendor brief meetings
-- **forces.gc.ca** (Nicolas Verreault) — Canadian Department of National Defence
-- **investottawa.ca** — Canadian investment/economic development organization; multiple contacts (Nishkarsh Chavda, Noah Ray, Stephen Rowlands, Mariana Varanda)
-- **noaa.gov** (Amy McLiverty) — US National Oceanic and Atmospheric Administration; IDIQ funding discussion
-- **cbsnews.com** (Robert Marciano) — media contact
-- **bridgeview-mfg.com** — manufacturing supplier (wire harnesses, cable assemblies)
-- **uasweekly.com** — industry newsletter
-
-## Communication Patterns
-
-### Time Distribution
-- **26 May 2026** dominates: 28 of 31 new messages
-- **Peak activity window:** 09:09–23:37 (full business day plus evening)
-- **Heaviest concentration:** 10:31–16:47 (6-hour window with 15+ messages)
-- **International timezone handling:** Messages span -0700 (PDT) to +0000 (UTC) to +0000 (UTC), suggesting coordinated meetings across NA and European time zones
-
-### Mailing Lists & Groups
-- `info@blackswifttech.com` — company general inbox (receives external inquiries)
-- `sales@blackswifttech.com` — sales group inbox (receives vendor pitches, industry outreach)
-- `proposals@blackswifttech.com` — proposals group inbox (from prior period)
-
-### Message Flags
-- **IMPORTANT flag:** Applied to 14+ messages; concentrated on diligence requests, government correspondence, and project coordination
-- **UNREAD status:** Majority of new messages marked UNREAD, indicating recent arrival or pending review
-
-### Google Docs Collaboration
-- Active real-time editing on DAF Agile EW Tech documents; Daniel Prendergast leaving detailed comments on technical volumes and resource planning
-
-## Key Relationships
-
-### Internal Collaborators
-- **Jack Elston** (BST internal) — Highest frequency sender; appears to be primary coordinator/approver; handling diligence, government relations, media, and project forwarding
-- **Daniel Prendergast** (BST internal) — Technical collaborator on DAF Agile EW Tech; actively commenting on documents; Arctic UAS coordination
-- **Maciej Stachura** (BST internal) — Continues Navy SBIR collaboration; receives high-level communications
-- **Meredith Needham** (BST internal) — Involved in diligence requests and S3 customer opportunity; appears to be operations/business development role
-- **Joshua Fromm** (BST internal) — Merlin Mk2 project continuation
-
-### External Partners/Clients
-- **Nadia Bryan** (kofirm.com) — Legal counsel handling diligence; high-frequency, marked IMPORTANT; critical transaction/audit support
-- **Trenton McKibben** (nextechsol.com) — Vendor/partner on Arctic UAS Demonstration; multi-stakeholder coordination role
-- **Amy McLiverty** (NOAA Federal) — Government client contact on IDIQ funding; relationship continuation from prior period
-- **Nicolas Verreault** (Canadian Armed Forces) — International defense contact; Arctic UAS Demonstration participant
-- **Robert Marciano** (CBS News) — Media relationship; story coordination
-
-### Vendor/Supplier Relationships
-- **Mack Harris** (bridgeview-mfg.com) — Manufacturing supplier pitching wire harness services
-- **Invest Ottawa contacts** — Canadian regional development; appears linked to Arctic UAS or expansion initiative
-
-## Notable Observations
-
-1. **Diligence Activity Spike:** Heavy concentration of "Black Swift - Diligence Requests" thread (8+ messages in single day with Nadia Bryan) suggests active M&A, funding round, or regulatory audit with compressed timeline. Multiple back-and-forth exchanges with law firm indicate document review/response cycle.
-
-2. **Jack Elston as Hub:** Clear pattern shows Jack Elston forwarding external inquiries, government communications, and media requests to Beck (and other team members), suggesting Beck is either COO-level coordinator or manages specific business units (defense, international).
-
-3. **Defense Contracting Pipeline Maturing:** DAF Agile EW Tech, Merlin Mk2/US Navy SBIR, Arctic UAS, and NOAA IDIQ represent multiple stages of government contract lifecycle (proposal → vendor brief → funding discussions).
-
-4. **International
+### External Organizations & Contacts
+- **Lockheed Martin** (global.lmco.com) — Alasdair Brackenridge, Rory Turner; UK MAD UAV EOI; significant defense prime engagement
+- **Krateo Sky** (krateosky.com) — Bob Smith, Sona Raziabeegum, Lisa Marie Cheney, Adria Passola; anti-submarine project; integration work; vendor brief participation
+- **Akingump Law Firm** (akingump.com) — Halie B. Peacher, Cameron Peek, multiple team members; transactional counsel; high-frequency contact (8+ messages in 27 May window)
+- **Katten Law Firm** (katten.com) — Kylie Sholty; external counsel involvement
+- **Ko & Firm** (kofirm.com) — Nadia Bryan (legal)
+- **UK Ministry of Defence** (mod.gov.uk) — Simon Laurence; Merlin Mk2 engagement
+- **US Navy** (us

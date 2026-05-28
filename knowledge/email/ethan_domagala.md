@@ -1,62 +1,75 @@
 # Ethan Domagala — Email Patterns
 
 ## Communication Volume
-- Total messages scanned: 10 emails across two periods (25–26 May 2026)
-- Low volume period; approximately 5 emails per day during scan window
-- Mix of sent, draft, and received messages
+- **Total messages scanned:** 22 emails across three periods (25–28 May 2026)
+- **Approximate volume:** 5–6 emails per day during scan windows
+- **Mix of sent, received, draft, and automated messages**
 
 ## Key Correspondents
 
 **Top Internal Contacts:**
-- Nathaniel Straus (nate.straus@blackswifttech.com) — appears in thread chain
-- Jack Elston (elstonj@blackswifttech.com) — thread participant
+- Nathaniel Straus (nate.straus@blackswifttech.com) — thread participant, appears in forwarded/CC chains
+- Jack Elston (elstonj@blackswifttech.com) — thread participant (from previous scan)
 
 **Top External Contacts:**
-- Oren Nissim (oren.n@nextvisionltd.zohodesk.com, Next Vision Ltd) — ongoing vendor/partner discussion
-- Spencer Hoehl (spence.hoehl@gmail.com) — BlackSwift tour-related communication
-- Eli Ludtke (Eli@2ndworks.com, 2ndWorks) — appears in thread chain with internal team
+- **Chani Ben Simon** (chani.bs@nextvision-sys.com, Next Vision Systems) — **highest frequency external contact** (3 messages in 27 May alone); active direct correspondence
+- Oren Nissim (oren.n@nextvisionltd.zohodesk.com, Next Vision Ltd) — vendor coordination, CC'd in DragonEye2 discussions
+- Spencer Hoehl (spence.hoehl@gmail.com) — BlackSwift tour follow-up communication
+- Eli Ludtke (Eli@2ndworks.com, 2ndWorks) — appears in forwarded thread chains
 
 **Automated/Newsletter Sources:**
-- Asana (task management platform) — recurring daily task digest
-- GetFPV (chloe@getfpv.com) — promotional email (FPV/drone equipment context)
+- Asana (task management) — daily task digests and activity notifications
+- Google Gemini (gemini-notes@google.com) — meeting notes automation
+- Flux.ai (Support@flux.ai) — promotional offer (project management tool)
+- Lucid (webinars@e.lucid.co) — promotional webinar (AI/systems visualization)
+- GetFPV (from previous scan) — FPV/drone equipment
 
 **Internal vs External:**
-- Predominantly internal/cross-functional (BST team coordination)
-- Active external vendor relationship with Next Vision Ltd
+- **Internal:** Straus, Elston (BST team)
+- **External:** Predominantly vendor-focused (Next Vision Systems/Ltd), with one customer/partner follow-up (Hoehl, 2ndWorks)
 
 ## Topic Patterns
 
-**Recurring Themes:**
-- **DragonEye2 Gen2** — vendor availability discussion with Next Vision Ltd (continuing from previous period)
-- **Blackswift Tour Followup** — post-event or customer visit communication
-- **Task Management** — daily Asana digests indicating project tracking
+**Primary Focus:**
+- **[## 6700 ##] DragonEye2- Gen2 Availability** — **active, multi-party vendor negotiation** (4 messages on 27 May between Ethan, Chani Ben Simon, and Oren Nissim)
+  - Indicates escalation or decision point (moving between contacts at Next Vision)
+  - Ongoing from previous scan period (25–26 May)
 
-**External Organization References:**
-- Next Vision Ltd (vendor—camera/vision systems)
-- 2ndWorks (unclear relationship, but included in internal thread)
-- GetFPV (drone/FPV equipment retailer)
+**Secondary Themes:**
+- **BlackSwift Tour Followup** — customer/partner engagement (Spencer Hoehl, 27 May)
+- **[031-1] UMES S3** — internal project task (Asana notification, 27 May)
+- **BST Internal Update Meeting** — team coordination (Google Gemini notes, 27 May)
+
+**Project/Codename References:**
+- DragonEye2 Gen2 (hardware/camera system)
+- UMES S3 (internal project code)
 
 ## Communication Patterns
 
-- **Time distribution:** Mix of early morning (04:51 UTC), mid-morning (08:53, 11:10, 11:57), and afternoon (13:16, 14:26, 15:44, 16:24, 16:31) activity
-- **Asana integration:** Automated daily task digest suggests structured project/task management workflow
-- **Email drafts:** One unsent draft on 26 May (16:24) — may indicate pending communication
-- **Response patterns:** Participating in multi-party thread chains (Straus, Ludtke, Elston)
+- **Time distribution:** Spread across early morning (00:11 UTC, 01:20 UTC), morning (08:04, 09:15), midday (12:39, 13:32, 14:26, 14:44, 15:30, 15:34), and evening UTC times (18:22, 19:52)
+  - Suggests flexible/variable work hours or multi-timezone coordination
+- **Asana integration:** Consistent daily task reminders (27 May shows 7 tasks due)
+- **Thread participation:** Multi-party chains with internal colleagues (Straus, Ludtke) forwarding/coordinating external discussions
+- **Response velocity:** Same-day responses to vendor (Ethan to Chani, 09:15 → Chani response 13:32)
+- **Email flagging:** IMPORTANT flags on critical vendor/partner communications and internal meeting notes
+- **Promotional emails:** Low filtering of promotional content (Flux.ai, Lucid webinar—both unread and in inbox)
 
 ## Key Relationships
 
 **Closest Collaborators:**
-- Nathaniel Straus — active in same thread chains; appears to be cross-functional peer
-- Jack Elston — internal team member in discussion thread
+- **Nathaniel Straus** — appears to coordinate external partnerships (forwarding 2ndWorks thread); likely peer or supervisor in partnership/vendor management
+- **Chani Ben Simon (Next Vision Systems)** — **primary vendor contact** (direct back-and-forth correspondence); replacing or alongside Oren Nissim in recent communications
 
-**External Partners/Vendors:**
-- Oren Nissim (Next Vision Ltd) — active ongoing vendor relationship regarding DragonEye2 availability
-- Spencer Hoehl — likely customer or tour participant follow-up
+**Critical External Partnerships:**
+- **Next Vision Systems/Ltd** (Chani Ben Simon, Oren Nissim) — **high-priority vendor relationship** regarding DragonEye2 Gen2 availability; escalating to multiple contacts suggests procurement/delivery urgency
+- **2ndWorks** (Eli Ludtke) — partner organization discussed internally by Straus; relationship being cultivated ("Great meeting you!" subject)
+- **Spencer Hoehl** — customer/partner follow-up from BlackSwift facility tour
 
 ## Notable Observations
 
-- **DragonEye2 Gen2** appears to be an active hardware/procurement focus (continuing from 25 May)
-- GetFPV promotional email suggests personal or work interest in FPV/drone equipment
-- Relatively low email volume compared to typical enterprise roles — may indicate early career stage, specialized focus, or recent onboarding
-- One draft email suggests composition in progress during scan window
-- Asana task digest consistency indicates regular use of project management tools
+- **DragonEye2 Gen2 escalation:** Volume of vendor communication increased from previous period (1 message 25–26 May → 4 messages on 27 May). Involvement of Chani Ben Simon (technical contact) alongside Oren Nissim (original contact) suggests problem-solving or delivery negotiation is underway.
+- **Internal coordination on external deals:** Straus appears to be forwarding or managing 2ndWorks relationship; suggests Ethan may report to or collaborate closely with Straus on partner management.
+- **Meeting automation:** Google Gemini note capture on BST Internal Update Meeting (27 May) indicates standardized meeting documentation process.
+- **Task velocity:** 7 tasks due on 27 May (per Asana digest) alongside active vendor negotiation and tour follow-up—suggests time pressure or busy period.
+- **Promotional/newsletter noise:** Multiple unread promotional emails (Flux.ai, Lucid) in inbox, suggesting potential inbox management issue or low filter priority on marketing content.
+- **Low email volume context:** Despite activity, volume remains relatively light compared to typical mid-level engineering/procurement roles—may indicate specialized focus, early career stage, or that email is not primary communication tool (Slack, calls, meetings may dominate).

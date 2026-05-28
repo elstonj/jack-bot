@@ -41,7 +41,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Quote for E2 UAS with training, simulation, and engineering support sent 10/31/2025 for $56k. Customer (Bruce Cogan, retired NASA, managing Cal State Northridge research proposal) requested urgent quote for VTOL with 2-way communication capability and flight controller customization. Project is in early stage pending customer acceptance and funding approval.",
+  "notes": "Quote for E2 UAS with training, simulation, and engineering support sent 10/31/2025 for $56k. Customer (Bruce Cogan, retired NASA, managing Cal State Northridge research proposal) requested urgent quote for VTOL with 2-way communication capability and flight controller customization. Project is in early stage pending customer acceptance and funding approval. No substantive contact since initial quote request in Oct 2025.",
   "missing_fields": [
     "receive_by",
     "ship_to",

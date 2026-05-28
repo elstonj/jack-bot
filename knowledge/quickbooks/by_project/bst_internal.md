@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $1,069,811.09
+- **Total Expenses (Bills + Purchases)**: $1,070,483.26
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,051,916.73 (expenses exceed revenue significantly)
-- **Date Range**: April 5, 2024 – June 4, 2026 (26+ months)
-- **Transaction Count**: 1,128+ *(all confirmed)*
+- **Net Position**: -$1,052,588.90 (expenses exceed revenue significantly)
+- **Date Range**: April 5, 2024 – June 11, 2026 (26+ months)
+- **Transaction Count**: 1,134+ *(all confirmed)*
 
 ---
 
@@ -38,7 +38,7 @@
 - **Description**: AP_CORE_BOARD_1-V0.2 – ASSEMBLY (32pcs)
 - **Purpose**: Core board assembly component for R&D/production
 - **Status**: ✓ Confirmed
-- **Impact**: Reflects ongoing R&D-classified assembly subcontracting; Matthew Crabtree cumulative total now $108,181.68
+- **Impact**: Reflects ongoing R&D-classified assembly subcontracting; Matthew Crabtree cumulative total $108,181.68
 
 ---
 
@@ -73,10 +73,10 @@
 
 ---
 
-### IRAD Indirect R&D (Subcontractors & Internal): $60,008.16
-**Total: $60,008.16** | **32 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; Matthew Crabtree R&D Assembly $4,954.00**
+### IRAD Indirect R&D (Subcontractors & Internal): $60,691.97
+**Total: $60,691.97** | **37 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; Matthew Crabtree R&D Assembly $4,954.00**
 
-**Recent Confirmed Transactions (May 20–June 4, 2026):**
+**Recent Confirmed Transactions (May 20–June 11, 2026):**
 
 **Bill #7020**: $10,773.62 (June 1, 2026) — Boostr Consulting LLC  
 - **Account**: RESEARCH & DEVELOPMENT : IRAD-Indirect Subcontractor Exp
@@ -114,6 +114,24 @@
 - **Account**: [IRAD-Internal Research and Development]
 - **Status**: ✓ Confirmed
 
+**Purchase #300044184**: $308.05 (May 27, 2026)  
+- **Account**: [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]
+- **Description**: Retracting gimbal, servo and gears
+- **Purpose**: R&D component for mechanical/gimbal development
+- **Status**: ✓ Confirmed
+
+**Purchase #3058**: $369.75 (May 27, 2026)  
+- **Account**: [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]
+- **Description**: Reliance 21700 RS50 5000mAh 70A CCC Lithium-Ion Battery x 60
+- **Purpose**: Battery component procurement for R&D testing/prototyping
+- **Status**: ✓ Confirmed
+
+**Purchase (S3 IRAD Shipment)**: $140.59 (June 11, 2026)  
+- **Account**: [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]
+- **Description**: S3 IRAD shipment to Sean Cole
+- **Purpose**: R&D delivery for S3-related development work
+- **Status**: ✓ Confirmed
+
 ---
 
 ### Rent & Facilities: $52,720.50
@@ -126,7 +144,7 @@
 - **Description**: June 2026 rent
 - **Purpose**: Monthly facility rent payment
 - **Status**: ✓ Confirmed
-- **Impact**: Regular monthly operational expense; cumulative rent/facilities total now $52,720.50
+- **Impact**: Regular monthly operational expense; cumulative rent/facilities total $52,720.50
 
 **Purchase #0520JELSTON**: $153.19 (May 21, 2026)
 - **Account**: [FACILITIES:FA-Shop Supplies]
@@ -142,6 +160,33 @@
 
 ---
 
+### Inventory Asset (S3 Sales Production Scaling): $150.93
+**Total: $150.93** | **3 transactions** | **All S3 inventory-related**
+
+**Recent Confirmed Transactions (May 27–June 4, 2026):**
+
+**Purchase #0526JELSTON**: $31.29 (May 27, 2026)
+- **Account**: [Inventory Asset]
+- **Memo**: No Asana request - project listed in title of order (S3 Sales)
+- **Description**: For future S3 sales
+- **Purpose**: Inventory accumulation for future production scaling
+- **Status**: ✓ Confirmed
+
+**Purchase (Bearing Shipment)**: $48.96 (June 4, 2026)  
+- **Account**: [Inventory Asset]
+- **Description**: Shipping for 123 Bearing Shipment for future S3 sales
+- **Purpose**: Inventory accumulation for future production scaling
+- **Status**: ✓ Confirmed
+
+**Purchase #S3 SALES**: $73.38 (May 22, 2026)
+- **Account**: [Inventory Asset]
+- **Memo**: No Asana request - project listed in title of order (S3 Sales)
+- **Description**: S3 inventory
+- **Purpose**: Inventory accumulation for future S3 sales scaling
+- **Status**: ✓ Confirmed
+
+---
+
 ## Purchase Orders
 | PO # | Date | Vendor | Amount | Status | Description |
 |------|------|--------|--------|--------|-------------|
@@ -151,34 +196,10 @@
 
 ## Monthly Spend by Category
 
-| Month | Direct Labor & Subs | Materials & Purchases | IRAD R&D | Rent & Facilities | G&A | Total |
-|-------|---------------------|----------------------|----------|-------------------|-----|-------|
-| **May 20–Jun 4, 2026 (Latest Period)** | $4,954.00 | $122.34 | $11,776.72 | $7,213.13 | $0 | **$24,066.19** |
-| — May 20, 2026 | $0 | $1,034.29 | $785.42 | $0 | $0 | **$1,819.71** |
-| — May 21, 2026 | $4,954.00 | $0 | $631.25 | $7,213.13 | $0 | **$12,798.38** |
-| — May 22, 2026 | $0 | $73.38 | $0 | $0 | $0 | **$73.38** |
-| — June 1, 2026 | $0 | $0 | $10,773.62 | $0 | $0 | **$10,773.62** |
-| — June 4, 2026 | $0 | $48.96 | $0 | $0 | $0 | **$48.96** |
-| **Prior cumulative (Apr 2024–May 19, 2026)** | **$384,547.30** | **$519,111.71** | **$38,494.17** | **$45,507.37** | **$45,661.50** | **$1,033,322.05** |
-| **Grand Total (All Confirmed)** | **$389,501.30** | **$520,919.63** | **$60,008.16** | **$52,720.50** | **$45,661.50** | **$1,069,811.09** |
-
-**Burn Rate Analysis (May 20–June 4 active period):**
-- 16 transactions totaling $24,066.19 over 15 calendar days
-- **Operational burn** (excluding June 1 Boostr non-recurring tax settlement): $13,292.57 over 15 days = $886.17/day avg. (~$26,585/month)
-- **With R&D tax credit settlement**: $24,066.19 / 15 days = $1,604.41/day (~$48,132/month non-recurring)
-- **Trend**: Moderate velocity driven by May 21 bulk expenses (Matthew Crabtree $4,954.00 assembly, W. W. Reynolds $7,059.94 June rent, R&D components ~$478.06) and June 1 Boostr settlement. Minor inventory purchases for S3 sales ($73.38, $48.96) indicate ongoing production preparation.
-- **Seasonal Note**: May 21 appears to be consolidated payment/invoice processing date (multiple bills/purchases same day); May 22–June 4 shows lighter daily transaction volume.
-
----
-
-## Notable Transactions
-
-### High-Value / Strategic Transactions
-
-1. **Boostr Consulting R&D Tax Credits — $10,773.62 (June 1, 2026)**
-   - 2025 R&D tax credit filing and payment
-   - Represents recovery/settlement of documented prior R&D spending
-   - *Impact*: Partial offset to cumulative R&D expense burden; aligns with annual tax filing cycle
-   - *Status*: ✓ Confirmed settled
-
-2. **W. W
+| Month | Direct Labor & Subs | Materials & Purchases | IRAD R&D | Rent & Facilities | G&A | Inventory | Total |
+|-------|---------------------|----------------------|----------|-------------------|-----|-----------|-------|
+| **May 27–Jun 11, 2026 (Latest Period)** | $0 | $0 | $817.39 | $0 | $0 | $31.29 | **$848.68** |
+| — May 27, 2026 | $0 | $0 | $677.80 | $0 | $0 | $31.29 | **$709.09** |
+| — June 1, 2026 | $0 | $0 | $10,773.62 | $0 | $0 | $0 | **$10,773.62** |
+| — June 4, 2026 | $0 | $0 | $0 | $0 | $0 | $48.96 | **$48.96** |
+| — June 

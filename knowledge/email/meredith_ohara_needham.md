@@ -1,11 +1,11 @@
 # Meredith O'Hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,065 (2,006 previous + 59 new from May 26–27)
-- **Date range:** March 23 – May 27, 2026 (approximately 9.5 weeks)
+- **Total messages scanned:** 2,120 (2,065 previous + 55 new from May 27–28)
+- **Date range:** March 23 – May 28, 2026 (approximately 9.7 weeks)
 - **Approximate volume:** 25–40 emails per day (mix of sent, received, and automated)
-- **May 26–27 new data:** 59 messages; **~25% human-initiated (12 direct replies/forwards); ~75% transactional/automated/vendor notifications**
-- **Pattern shift:** Return to active correspondence after extended absence; high-volume diligence activity (investment/acquisition process); government contract pursuit intensifying; core procurement infrastructure sustained
+- **May 27–28 new data:** 55 messages; **~35% human-initiated (19 direct replies/forwards); ~65% transactional/automated/vendor notifications**
+- **Pattern shift:** Sustained high-volume deal activity; government/defense projects escalating; operational/financial coordination intensifying; legal counsel engagement active
 
 ---
 
@@ -14,67 +14,65 @@
 ### Top Internal Contacts
 *(Updated from new batch)*
 
-- **Jack Elston** — **HEAVILY ELEVATED:** Operations, legal/compliance, disclosure schedules; **15+ messages in new batch alone (diligence threads with Nadia Bryan/legal counsel; 401(k) admin; government correspondence with NOAA; CBS News coordination; Arctic UAS Demonstration; potential S3 customer leads)** — **Primary deal contact for investment/acquisition process**
-- **Daniel Prendergast** — Technical integration lead; **5 messages in new batch (Battery Shipment to Ottawa Canada thread with Robert Correia; Arctic UAS Demonstration coordination)**; **cross-border logistics/international customer activity**
-- **Beck Cotter** — Operational project management; **mentioned in Arctic UAS Demonstration and potential S3 customer forwarding**; government contract support
-- **Joshua Fromm** — Parts/manufacturing coordination; **2 messages (ProtoSpace MFG website inquiry follow-up; NOAA recovered S0 cost & shipping estimate)**
-- **Maciej Stachura** — Invoice/receiving management; **included in critical diligence thread with Nadia Bryan**
-- **Kristen Lowe** — **Mentioned in diligence context** (May 25 previous batch)
+- **Jack Elston** — **CRITICALLY ELEVATED:** Legal/investor coordination, government contracts, all-hands strategic meetings; **12 messages in new batch (intense AK&M law firm coordination with Halie Peacher & Cameron Peek; "Meeting Follow-Up" thread escalating to 8+ firm attorneys; NOAA/government contact; anti-submarine project oversight)**; **Primary deal/strategy contact**
+- **Beck Cotter** — Project operations, anti-submarine project lead; **6 messages in new batch (Krateo Sky/Bob Smith anti-submarine updates; Napkin AI Plus tool coordination; AK&M law firm correspondence)**; **escalated operational project responsibility**
+- **Maciej Stachura** — Finance/operations, invoice management, anti-submarine project involvement; **4 messages in new batch (anti-submarine project cost/resource discussion with Krateo Sky; AK&M law firm meeting follow-up)**
+- **Daniel Prendergast** — Technical logistics, cross-border shipping; **2 messages in new batch (Canada battery shipment customs broker coordination with Sarah Heaney/Aeronet)**
+- **Joshua Fromm** — Parts/manufacturing; **2 messages in new batch (servo order coordination with Blue Bird Model)**
+- **Claudia Behnke** (chbehnke@mac.com) — **ELEVATED (EXTERNAL/CONTRACTOR):** Financial/accounting oversight, labor distribution, Reliascent relationship manager; **8 messages in new batch (BST labor distribution to Reliascent, wage accounting, direct Meredith coordination)**; **appears to be fractional CFO or accounting lead**
 
 ### Top External Contacts
 
-**Legal/Corporate Development — CRITICAL ELEVATED ACTIVITY**
+**Legal/Corporate Development — CRITICAL ESCALATION**
 
-- **Nadia Bryan (Kramer & Osborn LLP)** (nbryan@kofirm.com) — **CRITICAL:** 10+ messages in new batch (May 26); **rapid-fire diligence thread with Jack Elston spanning 22:09 UTC to 23:37 UTC**; subjects: "Black Swift - Diligence Requests," "[HOLD] Black Swift Diligence Call"; **ACTIVE INVESTMENT/ACQUISITION DUE DILIGENCE PROCESS** (likely Series A/B funding round or strategic M&A; legal counsel managing information requests; call scheduled/paused indicates active negotiation phase)
+- **Akin & Gump Strauss Hauer & Feld LLP (AK&M)** — **CRITICALLY ELEVATED:** Multiple partners/associates in coordinated thread
+  - **Halie B. Peacher** (hpeacher@akingump.com) — **CRITICAL:** Lead attorney; 3 messages in new batch; "RE: Meeting Follow-Up" (May 28 03:19 UTC); coordinating multi-attorney response
+  - **Cameron Peek** (cpeek@akingump.com) — **CRITICAL:** 5 messages in new batch; rapid thread with Jack Elston (May 27 15:21–17:43 UTC); starred IMPORTANT; "RE: Meeting Follow-Up"
+  - **Additional AK&M attorneys cc'd in May 27 "Meeting Follow-Up":** abellosalinas@akingump.com, aoshima@akingump.com, dmahoney@akingump.com, hjohn@akingump.com, mathompson@akingump.com, mye@akingump.com, ssriram@akingump.com
+  - **Signal:** Major legal event (likely funding round closure, M&A finalization, or regulatory filing); 10+ firm attorneys mobilized; **deal stage likely advanced** (beyond diligence into documentation/closing phase)
 
-**Government/Defense — ELEVATED**
+- **Katten Muchin Rosenman LLP** — **NEW CRITICAL:**
+  - **Kylie Sholty** (kylie.sholty@katten.com) — Co-counsel; cc'd on May 27 AK&M meeting thread; **secondary legal representation** (transactional/securities or specialized regulatory)
 
-- **Nikolai Pawlenko (NOAA Federal)** (nikolai.f.pawlenko@noaa.gov) — **ELEVATED:** 2 messages in new batch; starred/flagged as IMPORTANT; "Re: Orders from Last Year" (May 26 12:41 UTC); **NOAA partnership/procurement relationship**; Meredith direct correspondence
-- **Amy McLiverty (NOAA Federal)** (amy.l.mcliverty@noaa.gov) — **NEW CRITICAL:** Forwarded by Jack Elston; "Re: Funding for IDIQ" (May 26 11:14 UTC); **INDEFINITE DELIVERY/INDEFINITE QUANTITY (IDIQ) CONTRACT FUNDING** — suggests government contract vehicle or standing federal purchase agreement
-- **Arctic UAS Demonstration** — **NEW PROJECT REFERENCE:** White Paper Questionnaire and CJFC Vendor Brief; forwarded by Jack Elston to Daniel, Meredith, Beck (May 26 10:41 UTC); **CANADIAN JOINT TASK FORCE (CJFC) MILITARY/DEFENSE DEMONSTRATION OPPORTUNITY**
+**Government/Defense — ESCALATED ACTIVITY**
 
-**External Partnerships & Customers**
+- **Krateo Sky** (krateosky.com) — **CRITICAL NEW PROJECT**
+  - **Bob Smith** (Bob@krateosky.com) — 3 messages in new batch; "Re: Update on anti-submarine project" (May 27 20:35–21:06 UTC, 21:04 UTC); cc'd to Beck, Maciej, Meredith; **MAJOR PROJECT PARTNER — ANTI-SUBMARINE WARFARE SYSTEM**; starred IMPORTANT
+  - **Sona Raziabeegum** (sona@krateosky.com) — cc'd on Jack Elston's May 27 "Meeting Follow-Up" mass email
+  - **Signal:** Active anti-submarine platform development/integration; cost tracking; likely government-funded contract
 
-- **Robert Correia (Aeronet)** (rcorreia@aeronet.com) — **ELEVATED:** 5 messages in new batch; rapid thread with Daniel Prendergast (May 26 13:13–20:28 UTC); subject: "Battery Shipment to Ottawa Canada"; **cross-border battery supply chain; Canadian customer/partner logistics**
-- **Christy Evans (Reliascent)** (cevans@reliascent.com) — **NEW ELEVATED:** 2 messages in new batch; "RE: Kick-off Follow-up and Proposal information" (May 26 19:34 UTC); **LIKELY CUSTOMER KICKOFF or project proposal stage**; Meredith direct engagement
-- **Christopher E. Hartman (UMES — University of Maryland Eastern Shore)** (chartman@umes.edu) — **NEW CONTACT:** Auto-reply to Meredith shipping confirmation for Friday (May 26 19:24 UTC); **ACADEMIC/RESEARCH INSTITUTION PARTNERSHIP or component delivery**
+**Customer/Partnership — Continuing/Active**
 
-**Procurement — Continued Vendor Infrastructure**
+- **Reliascent** — **ELEVATED ENGAGEMENT**
+  - **Christy Evans** (cevans@reliascent.com) — 5 messages in new batch; "RE: Kick-off Follow-up and Proposal information" (May 27 17:27–17:43 UTC, 21:17 UTC); forwarding "BST Labor Distribution" data to external accounting; **customer/partner entering active execution phase**; **labor tracking indicates outsourced ops/manufacturing relationship**
+  - **Labor distribution coordination:** Claudia Behnke sending "BST Labor Distribution" spreadsheet to Christy Evans (May 27 11:28 UTC), suggesting **Reliascent is tracking BST staff effort allocation** — likely project-based/time-and-materials contract
 
-- **McMaster-Carr** (chi.sales@mcmaster.com) — Order confirmation (May 26); **standard industrial supply vendor**
-- **Mini-Box.com** (fred@mini-box.com) / **Ituner Networks** — 3 messages (invoices #139810, order 540-498591); **compact computer/networking components** (consistent with embedded systems, autonomous platforms)
-- **Amazon.com** — Shipment notification "ACEIRMC 3pcs ADUM1201 Dual..." (isolator ICs); **electronics components**
-- **ProtoSpace Manufacturing** (jessica@protospacemfg.com) — **NEW VENDOR:** Joshua Fromm inquiry follow-up (May 26 16:50 UTC); **RAPID PROTOTYPING/MANUFACTURING PARTNERSHIP INQUIRY**
+- **Aeronet (Robert Correia)** — **CONTINUES ELEVATED**
+  - rcorreia@aeronet.com — 2 messages in new batch; battery shipment to Canada ongoing; Quote #141679 (Canada), #141681 (return); cross-border logistics refined
 
-**External Inquiries & Media**
+**Customs/Shipping — New Vendor**
 
-- **Robert Marciano (CBS News)** (Robert.Marciano@cbsnews.com) — **NEW CRITICAL:** "CBS News Story" (May 26 10:39 UTC); forwarded by Jack Elston; **PUBLIC RELATIONS/MEDIA COVERAGE EVENT**; **timing overlaps with investment/acquisition visibility**
+- **Sarah Heaney** (sheateny@atacarnet.com) — **NEW CRITICAL CONTACT:** "Carnet for Shipping Battery to Canada using a Customs Broker" (May 27 16:16 UTC); **CANADIAN CUSTOMS BROKER/TRADE COMPLIANCE SPECIALIST**; **indicates regulated goods export (likely LiPo batteries, power systems)**
 
-**Miscellaneous External**
+**Operational/Insurance**
 
-- **Human Interest** (support@humaninterest.com) — HR/401(k) admin platform; Meredith requesting primary admin upgrade (May 26 10:53 UTC); **suggests administrative elevation or benefits restructuring**
-- **Worldwide Express** — Shipping invoice #260524W017957 (May 27 07:44 UTC)
-- **UPS** — Package delivery notification (May 26)
-- **Budget/Speedway Motors** — Promotional (continuing from prior batch)
+- **Bryan Sparling** (bryan.sparling@bylight.com) — **ELEVATED:** "FW: Reminder about Invoice 1754" (May 27 21:11 UTC); cc'd Meredith, Jack, Maciej; **BY LIGHT LLC vendor/partner (likely IT/software services)**; invoice follows-up indicates payment issue or status check
+- **Chad Atwood** (chad@theaiginc.com) — "*** Out of Office*** Major Medical Renewal - Update" (May 27 13:06 UTC); Meredith responded May 27 14:05; **INSURANCE BROKER — health/medical plan renewal**; **timing suggests year-end or policy cycle management**
+- **Blue Bird Model** (sales@blue-bird-model.com) — **NEW VENDOR:** servo order coordination with Joshua Fromm (May 28 16:20 UTC); "RE: Servo order for Black Swift"
+
+**Components/Manufacturing Vendors — Continued**
+
+- **ServoCity** (sales@servocity.com) — Order confirmation #300044184 (May 27); **motion control components**
+- **McMaster-Carr** — Continued procurement (invoices, certificates, tracking May 28)
+- **DIY500AMP.COM** — Order #3058 confirmed (May 27); **power electronics/amp components**
+
+**News/Intelligence**
+
+- **UAS Magazine** (noreply@bbiinternational.com) — Industry news alert (May 27 00:05 UTC); "US Army Awards Contract for Long-Endurance Drone Training…GA-ASI, US Air Force Demonstrate Manned-Unmanned Teaming"
 
 ---
 
 ## Topic Patterns
 
-### Investment/Acquisition Due Diligence — CRITICAL NEW PATTERN
-- **"Black Swift - Diligence Requests" (Nadia Bryan thread, May 26)**
-  - Multiple rapid exchanges spanning 10+ messages in 3-hour window (13:19–23:37 UTC)
-  - Includes Jack Elston, Nadia Bryan (legal), Maciej Stachura (finance/ops), Meredith
-  - Subject line includes "[HOLD] Black Swift Diligence Call" — **indicates scheduled legal/investor call placed on hold**
-  - **Signal:** Active M&A or Series funding round; legal counsel managing investor information requests; deal in negotiation/paused state
-  - **Google Docs shared:** "EUC-EAR" (Export Control — Autonomous Regions) and "Export Control - Classification Review 11.02.2015" — **suggests regulatory/export control compliance review for deal process**
-
-### Government/Defense Procurement — ESCALATED
-- **NOAA Funding & IDIQ Contract (May 26)**
-  - Jack Elston correspondence with Amy McLiverty (NOAA Federal) re: "Funding for IDIQ"
-  - Nikolai Pawlenko (NOAA) starred/important; "Orders from Last Year" suggests repeat customer relationship
-  - Meredith preparing "Cost & shipping estimate for NOAA recovered S0" (May 26 11:02 UTC, draft to Joshua Fromm)
-  - **Signal:** Standing IDIQ contract with federal agency; repeat procurement cycle; cost estimation for government customer deliverable
-
-- **Arctic UAS Demonstration (CJFC)**
-  - White Paper
+### Investment/Acquisition Funding Round — CRITICAL, PHASE ESCALATION
+- **"Meeting Follow-Up" (Jack Elston, May 27 

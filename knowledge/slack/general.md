@@ -47,4 +47,5 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **New Printer Procurement** (Feb 5, 2025): Brother DCP-L2640DW ordered and installed; old printer retained for scanning/copying
 - **Drill Press Decommissioning** (May 16, 2024): Became worn out, no longer worth repair
 - **Recycling Service** (April 20, 2026): Arranged pickup with EcoCycle on Wednesdays; Meredith Needham managing coordination
-- **Office
+
+## Action Items

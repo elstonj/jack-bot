@@ -1,5 +1,4 @@
 # Commercial Sales
 
-Small project with 2 tasks.
-- [Done] Rainmaker S2 Rental — Unassigned
+Small project with 1 tasks.
 - [Done] Rainmaker S2 — Unassigned

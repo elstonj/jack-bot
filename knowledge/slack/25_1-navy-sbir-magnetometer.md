@@ -1,7 +1,7 @@
 # #25_1-navy-sbir-magnetometer
 
 ## Overview
-This channel is focused on Black Swift Technologies' Navy Small Business Innovation Research (SBIR) project for developing magnetometer-equipped aircraft systems. The project involves integrating QuSpin magnetometers with BST's aircraft platforms for magnetic signature detection applications (MAD - Magnetic Anomaly Detection). Key participants include Beck, Maciej, Tyler, Sam, Alex Lomis, Joshua Fromm, and Jack Elston from BST, with external collaboration from QuSpin (Jeff), Ultra Maritime (Paul), Navy DEVCOM (Morris "DeSi"), Navy TPOC (Angel Ruiz-Reyes), and new Royal Navy contact Simon. Activity spans from October 2025 through May 2026, covering Phase I completion and Phase II proposal submission, kickoff, and ongoing Option period development with emerging Royal Navy engagement.
+This channel is focused on Black Swift Technologies' Navy Small Business Innovation Research (SBIR) project for developing magnetometer-equipped aircraft systems. The project involves integrating QuSpin magnetometers with BST's aircraft platforms for magnetic signature detection applications (MAD - Magnetic Anomaly Detection). Key participants include Beck, Maciej, Tyler, Sam Hild, Alex Lomis, Joshua Fromm, and Jack Elston from BST, with external collaboration from QuSpin (Jeff), Ultra Maritime (Paul), Navy DEVCOM (Morris "DeSi"), Navy TPOC (Angel Ruiz-Reyes), and emerging Royal Navy contact Simon. Activity spans from October 2025 through May 2026, covering Phase I completion and Phase II proposal submission, kickoff, and ongoing Option period development with emerging Royal Navy engagement and active flight testing preparation.
 
 ## Key Decisions
 
@@ -34,6 +34,8 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 **May 2026:**
 - S0-MAD Reusable flight article: Decided to reuse as many parts as possible from the ADONIS S0 for the reusable MAD S0 flight article rather than building a new aircraft (May 6, 2026)
 - Ground test rig: Bartington sensor successfully integrated mechanically into ground test rig (May 6, 2026)
+- Bartington logging approach: CSV format output selected for Bartington sensor data logging (May 27, 2026)
+- Flight test methodology: 1-hour test of each logger deemed sufficient to satisfy Navy TPOC Angel Ruiz-Reyes requirements (May 27, 2026)
 
 ## Projects & Initiatives
 
@@ -58,7 +60,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Demo audience: Marine groups interested in fixed-wing MAD options (currently use quads that are too slow or easy to shoot down)
 - Deliverable: Reusable hand-launched S0 analog for local testing and Marine use case
 - Navy will primarily launch from UH-60 helicopters
-- Local mag flights: Planned for July 1st, 2026 (May 6, 2026)
+- **Local mag flights: Scheduled for July 1st, 2026** (May 6, 2026) with Bartington sensor testing
 
 **Technical Development (May 2026 - ongoing):**
 - Reusable MAD S0 configuration:
@@ -71,9 +73,10 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
   - SF20/C half-size laser rangefinder for landing (proven reliable from prior use)
   - Parts sourced from ADONIS S0 where possible to minimize new construction
 - Ground testing: Bartington sensor mechanically integrated into ground test rig as of May 6, 2026
-- Launcher development: Design phase (targeted completion during week of May 12-16, 2026 per Alex Lomis); parts ordering planned for June 15, 2026 to allow iteration before July 1st local mag flights
-- Bartington sensor logging: Dronecan logging program being updated to support Bartington sensor with dynamic memory allocation (Sam Hild working on this, May 6, 2026)
+- **Launcher development:** Design phase (targeted completion during week of May 12-16, 2026 per Alex Lomis); parts ordering planned for June 15, 2026 to allow iteration before July 1st local mag flights
+- **Bartington sensor logging:** Dronecan logging program being updated to support Bartington sensor with dynamic memory allocation (Sam Hild working on this); CSV format logging confirmed working as of May 27, 2026
 - Status as of May 6, 2026: Team transitioning from S0-VTOL bug work to SBIR task prioritization
+- **Flight test planning (May 27, 2026):** Team preparing field testing with 1-hour Bartington sensor logging sessions; S1-22 testing being coordinated; wind window favorable until 3pm; both loggers to be tested before field deployment
 
 **Royal Navy Engagement (May 2026 - active):**
 - Contact: Simon (Royal Navy contact), confirmed as program lead with secured funding as of May 21, 2026
@@ -84,12 +87,4 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Funding status: Simon has received funding; decision on which spirals to pursue TBD (likely single spiral focus due to budget constraints)
 - Priority alignment: First choice is MAD payload (RAVEN-M), aligned with US SBIR effort
 - Internal status: Jack Elston drafting initial response; team unaware of RAVEN codename as of May 21, 2026
-- Follow-up needed: S0-ISR variant identified as immediate need (Maciej comment May 21, 2026)
-- Materials location: Sales folder in Google Drive created May 6, 2026 (https://drive.google.com/drive/folders/1aXrfLIr-WFW9i5cYveByW0DRerX8SBzI?usp=drive_link)
-
-## Action Items & Commitments
-
-**Completed (April-May 2026):**
-- Beck: Prepared and distributed Phase II kickoff brief template (April 6, 2026)
-- Team: Updated kickoff brief template to include Option Period tasks
-- Maciej: Reviewed and approved submission slid
+- Follow-up needed: S0-ISR variant identified as immediate need (

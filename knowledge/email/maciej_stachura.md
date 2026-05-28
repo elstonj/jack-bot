@@ -1,119 +1,93 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 51 emails across three data periods
-- **Date range:** 24 May – 26 May 2026
-- **Volume:** Moderate-to-heavy (approximately 17 emails/day during peak period on 26 May)
-- **Note:** Significant increase in volume and urgency compared to initial scan period
+- **Total messages scanned:** 126 emails (51 initial + 75 new data)
+- **Date range:** 24 May – 28 May 2026
+- **Volume:** Sustained heavy activity; 28 May shows continued urgency with 10+ messages
+- **Trend:** High-velocity correspondence continuing through end of May; multiple parallel threads with government, legal, and partner contacts
 
 ## Key Correspondents
 
-### Top Senders (by frequency in this dataset)
-1. **Jack Elston** (elstonj@blackswifttech.com) — internal, forwarding diligence/legal/investment materials — *dominant correspondent*
-2. **Nadia Bryan** (nbryan@kofirm.com) — external legal counsel (Ko Firm), handling diligence & employment agreements
-3. **Niki Schwab** (nschwab@kofirm.com) — external legal counsel (Ko Firm), employment agreement specialist
-4. **Sona Raziabeegum** (sona@krateosky.com) — external (Krateo Sky), diligence-related
-5. **Brian M Argrow** (Brian.Argrow@colorado.edu) — external (University of Colorado), potential S3 customer
-6. **Annette Hollingshead** (annette.hollingshead@noaa.gov) — NOAA Federal, monthly coordination
-7. **Joshua Fromm** (josh.fromm@blackswifttech.com) — internal, Merlin Mk2/SBIR & manufacturing coordination
+### Top Senders (updated with new data)
+1. **Jack Elston** (elstonj@blackswifttech.com) — internal hub, dominates correspondence; forwarding legal, investment, military/government, and operational materials
+2. **Bob Smith** (Bob@krateosky.com) — Krateo Sky, **NEW prominent correspondent**; multiple rapid exchanges on camera systems, anti-submarine project, and technical discussions
+3. **Nadia Bryan** (nbryan@kofirm.com) — Ko Firm legal counsel; investment and employment agreement tracking
+4. **Niki Schwab** (nschwab@kofirm.com) — Ko Firm employment specialist; executive agreement reviews
+5. **Samo Stopar / Rok Tomazic** (c-astral.com) — **NEW**: C-Astral camera vendor; urgent technical support requests (28 May spike)
+6. **Sona Raziabeegum** (sona@krateosky.com) — Krateo Sky; diligence and industrial planning documents
+7. **Beck Cotter** (beck.cotter@blackswifttech.com) — internal, defense/military project coordination
+8. **Brackenridge, Alasdair** (alasdair.brackenridge@global.lmco.com) — **NEW**: Lockheed Martin UK; EOI/MAD UAV project follow-up (important flags)
 
-### Top Recipients (who Maciej receives from)
-1. Jack Elston — internal
-2. Nadia Bryan / Ko Firm — legal counsel
-3. Brian M Argrow — university contact (S3/customer opportunity)
-4. Joshua Wadler (ERAU) — academic/government coordination
-5. Jun Zhang (NOAA) — government meeting scheduler
-6. Michael Hurowitz (WeatherStream) — The Soil Moisture Company engagement
-7. Joshua Fromm — internal colleague
+### Top Recipients
+1. Jack Elston — primary internal hub
+2. Bob Smith (Krateo Sky) — technical/operational partnership
+3. Beck Cotter — internal operations
+4. Daniel Prendergast — internal sales/business development
+5. Sona Raziabeegum — partnership coordination
+6. Military/Government contacts (new pattern):
+   - Ruiz-Reyes, Angel R (USN NAWCAD)
+   - Brescia, Anthony D (USN NAWCAD)
+   - SWEE, Matthew A (USAF)
+   - Simon.Laurence157@mod.gov.uk (UK Ministry of Defence)
 
 ### Internal vs External
-- **Internal:** ~35% (Jack Elston primary hub; Joshua Fromm, Daniel Prendergast, Alex Lomis, Meredith Needham, Beck Cotter)
-- **External:** ~65% (legal counsel Ko Firm, NOAA, universities, Krateo Sky, WeatherStream, vendors)
+- **Internal:** ~30% (Jack Elston, Beck Cotter, Daniel Prendergast, Meredith Needham, Joshua Fromm, Niki Schwab)
+- **External:** ~70% (Krateo Sky, Ko Firm, C-Astral, Lockheed Martin, US Navy, US Air Force, UK MOD, NOAA, academia)
 
 ## Topic Patterns
 
-### High-Priority Legal/Diligence
-- **"Black Swift - Diligence Requests"** — *dominant theme*, appears 8+ times; forwarded between Jack Elston, Nadia Bryan, Maciej, Meredith Needham, Sona Raziabeegum
-- **"Black Swift - Employment Agreement"** — appears 4+ times; involves Ko Firm (Nadia Bryan, Niki Schwab)
-- **"[HOLD] Black Swift Diligence Call"** — scheduled/blocked diligence discussion
-- **"Black Swift - MIPA"** — legal document type (appears once)
+### High-Priority Strategic Initiatives
 
-### Technical/Product Projects
-- **"Merlin Mk2/US Navy SBIR"** — defense/government program (Joshua Fromm involved)
-- **"Atmolab Camera System"** — product or system (forwarded to Jack Elston)
-- **"The Soil Moisture Company - Cozen O'Connor Engagement Letter"** — legal engagement (appears 4+ times); involves Michael Hurowitz (WeatherStream), Curtis Vock (Cozen), Karen Jodzio-Head
-- **"potential S3 customer"** — opportunity discussion with Brian M Argrow (University of Colorado)
-- **"NOAA/Blackswift monthly"** — recurring coordination meeting with federal agency
+#### **Anti-Submarine/MAD (Maritime Air Defense) Project** ⚡ *NEW PRIMARY FOCUS*
+- **"Update on anti-submarine project"** — appears 8+ times (27–28 May); dominates Maciej's outgoing correspondence
+- **"EOI/UK MAD UAV project follow up"** — Lockheed Martin UK (Brackenridge, Turner) engaging Black Swift; marked IMPORTANT
+- **"S0 - MAD update"** — US Navy (NAWCAD) correspondence with Jack Elston; military codename/reference
+- **Participants:** Bob Smith (Krateo Sky), Maciej, Beck Cotter, Jack Elston, US Navy (NAWCAD), UK MOD
+- **Signal:** This appears to be **active defense/military procurement cycle** with international partners
 
-### Investment/Business Development
-- **"Potential investment"** — Jack Elston corresponding with Jamie Serio (Capital Factory), Wynn Lemmons
-- **"New Sales Lead from thinklucid.com Contact Us"** — sales funnel management (Daniel Prendergast, Alex Lomis, Jack Elston thread)
+#### **Camera Systems & Atmolab Integration** ⚡ *ESCALATING URGENCY*
+- **"Camera support for BlackSwift"** / **"Atmolab Camera System"** — 15+ emails (27–28 May); multi-vendor technical coordination
+- **Vendors involved:**
+  - **C-Astral** (Samo Stopar, Rok Tomazic) — camera/payload manufacturer; urgent support escalations (28 May 09:24–09:49 UTC, marked IMPORTANT)
+  - **Vantage Robotics** (Tobin Fisher) — camera compatibility discussions
+  - **Bob Smith (Krateo Sky)** — orchestrating camera integration across multiple platforms
+- **Technical focus:** Camera compatibility, integration testing, vendor alignment
+- **Pattern:** Rapid back-and-forth suggests **product integration deadline or customer demo imminent**
 
-### Internal Operations
-- **"Following Up on Your Website Chat"** — Joshua Fromm to Protospace Manufacturing (manufacturing/vendor)
-- **"CBS News Story"** — Beck Cotter forwarding media mention
+#### **Legal/Investment/Diligence** (Ongoing)
+- **"Black Swift - Employment Agreement"** — continued Ko Firm exchanges; document compare/review cycles (Google Docs shared: "KrateoSky - Black Swift - Executive Employment Agreement")
+- **"Black Swift Final Industrial Plan"** — Sona Raziabeegum (Krateo Sky) forwarding strategic document to Jack Elston and FTI Consulting (27 May 22:56 UTC)
+- **"Potential investment"** — Ko Firm (Nadia Bryan) + Jamie Serio (Capital Factory) correspondence (27 May 16:34)
+- **Signal:** Ongoing M&A/investment structuring with employment agreement finalization
+
+#### **Government/SBIR Funding**
+- **"NSF deploys $250 million to restart SBIR/STTR programs"** — forwarded by Jack Elston to team (27 May 11:21); Jun Zhang (NOAA), Joshua Wadler (ERAU), Joe Cione (NOAA) engaged
+- **"Merlin Mk2/US Navy SBIR"** — continued military program references; UK MOD (Simon.Laurence157@mod.gov.uk) corresponding with Joshua Fromm and Maciej
+- **Pattern:** SBIR/STTR and Navy contracts remain active development pipelines
+
+#### **Vendor/Partner Relations**
+- **"Tube Launched UAS"** — USAF (Lt Col Matthew Swee) / Air Force Reserve discussing platform capabilities with Jack Elston
+- **"Vuncan Demo"** — Daniel Prendergast coordinating with TB2 Aerospace (Hank Scott); demo scheduling
+- **Legal counsel:** Akin Gump (Cameron Peek) handling multiple "Meeting Follow-Up" items with Jack Elston/Beck Cotter (27 May 15:21–17:43, 4 emails in rapid succession); suggests ongoing strategic legal matters
+
+### Operational/Procurement
+- **McMaster-Carr, ServoCity, JawsTec** — standard parts procurement (order confirmations); routine sourcing
+- **ByLight (Bryan Sparling)** — Invoice 1754 reminder (27 May); vendor payment coordination
 
 ## Communication Patterns
 
 ### Time Zones & Urgency
-- **Multiple time zones active:** Mountain Time (-0600), UTC/GMT (+0000), Eastern Time (-0400), NOAA/academic contexts
-- **High frequency of IMPORTANT flags:** Most diligence, legal, and investment emails marked IMPORTANT
-- **Rapid-fire exchanges:** 26 May shows intense back-and-forth on diligence (multiple emails within minutes/hours) with Ko Firm and Krateo Sky
-- **Evening/night activity:** Messages continue through late evening (UTC timestamps 22:00–23:50)
+- **Heavy UTC/European activity:** 28 May 03:08–09:49 shows C-Astral (CET +0200) urgent escalations on camera support
+- **Multi-timezone coordination:** Mountain Time (-0600), UTC, Eastern, CET active simultaneously
+- **IMPORTANT flags:** 60%+ of emails marked IMPORTANT; indicates sustained crisis-level activity
+- **Late-night/early-morning intensity:** Messages 22:00–03:08 across 27–28 May suggest deadline-driven work cycles
 
-### Email Alias Usage
-- Consistently uses **`stachura@blackswifttech.com`** in sent mail
-- Also tagged as **`maciej.stachura@blackswifttech.com`** in some headers
-
-### Mailing Lists & Group Patterns
-- **NOAA coordination:** Annette Hollingshead distributes "NOAA/Blackswift monthly" to broader list (Maciej, Joshua Fromm, Josh Wadler/ERAU, technician@bst, Joe Cione/NOAA)
-- **Ko Firm legal team:** Nadia Bryan and Niki Schwab often in same threads
-- **Diligence working group:** Jack Elston acts as central hub, forwarding to Maciej, Meredith Needham, external counsel
+### Email Patterns
+- **Maciej as responder/facilitator:** Often responds to Bob Smith (Krateo Sky) initiating messages, then forwards to Jack Elston for decision-making
+- **Rapid multi-party threads:** "Update on anti-submarine project" and "Camera support for BlackSwift" show 3–6 message exchanges within hours
+- **Group forwarding:** Jack Elston forwards vendor briefs and government updates to full team (Maciej, Beck, Daniel, Meredith)
+- **Google Docs collaboration:** Active real-time document sharing on employment agreements and proposals (27 May 20:55–21:11)
 
 ### Meeting Scheduling
-- Jun Zhang (NOAA) scheduled meeting: "Maciej/Josh/Jun tag up @ Thu May 28, 2026 9am - 10am (MDT)"
-
-## Key Relationships
-
-### Primary External Contacts
-1. **Ko Firm (legal counsel)**
-   - Nadia Bryan (nbryan@kofirm.com) — diligence & employment agreements
-   - Niki Schwab (nschwab@kofirm.com) — employment agreement specialist
-   - Multiple parallel diligence discussions ongoing
-
-2. **NOAA / Government**
-   - Annette Hollingshead (NOAA Federal) — monthly coordination point
-   - Jun Zhang (NOAA Affiliate) — meeting scheduler
-   - Joe Cione (NOAA Federal) — member of coordination group
-
-3. **Krateo Sky (External Partner)**
-   - Sona Raziabeegum (sona@krateosky.com) — engaged in diligence discussions alongside Jack Elston
-
-4. **Cozen O'Connor (Legal)**
-   - Curtis Vock (cvock@cozen.com) — The Soil Moisture Company engagement
-   - Karen Jodzio-Head (kjodzio-head@cozen.com) — original counsel contact (from prior dataset)
-
-5. **Academia/Research**
-   - Brian M Argrow (University of Colorado) — potential S3 customer opportunity
-   - Joshua Wadler (joshua.wadler@erau.edu / ERAU) — NOAA coordination partner
-   - Jun Zhang (NOAA Affiliate) — bridge between academic and government
-
-6. **WeatherStream**
-   - Michael Hurowitz (mhurowitz@weatherstream.com) — The Soil Moisture Company legal engagement
-
-### Closest Internal Collaborators
-- **Jack Elston** — primary internal hub; forwards all diligence, legal, investment materials to Maciej
-- **Joshua Fromm** — shared work on Merlin Mk2/SBIR, manufacturing coordination (Protospace)
-- **Meredith Needham** — included in diligence call holds and discussions
-- **Daniel Prendergast, Alex Lomis** — sales lead coordination (thinklucid)
-
-### Investment/Business Development Contacts
-- **Jamie Serio** (Capital Factory) — investment discussion (Jack Elston primary contact)
-- **Wynn Lemmons** (Capital Factory) — investment discussion coordinator
-
-## Notable Observations
-
-### 1. **Active Acquisition or Investment Transaction**
-   - **High volume of "Black Swift - Diligence Requests"** across multiple external parties (Ko Firm, Krateo Sky) signals Black Swift is undergoing structured due diligence
-   - Parallel **employment agreement discussions** with Ko Firm suggest potential M&A or investor-driven restructuring
-   - **
+- **"BlackSwift camera discussion"** — 27 May 11am–12pm MDT (Google Calendar notification; appears to be Maciej-hosted)
+- **"Maciej/Josh/Jun tag up"** — 28 May 9:30–10:30 AM MDT; NO

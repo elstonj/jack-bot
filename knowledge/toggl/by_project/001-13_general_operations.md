@@ -4,34 +4,45 @@
 - Client: Overhead
 - Active/inactive status: Active
 - Billable status: No (overhead/internal operations)
-- Total hours tracked: 1,044.9 hours (1,033.9 + 11.0)
+- Total hours tracked: 1,061.2 hours (1,044.9 + 16.3)
 
 ## Team Allocation
-- Meredith Needham: 760.8 hours (72.8% of tracked time)
-- Jack Elston: 147.9 hours (14.1% of tracked time)
-- Beck Cotter: 130.3 hours (12.5% of tracked time)
+- Meredith Needham: 767.1 hours (72.3% of tracked time)
+- Jack Elston: 154.9 hours (14.6% of tracked time)
+- Beck Cotter: 130.3 hours (12.3% of tracked time)
+- Stachura: 19.1 hours (1.8% of tracked time)
 - Dan: 16.2 hours (1.5% of tracked time)
-- Stachura: 17.1 hours (1.6% of tracked time)
-- Ethan Domagala: 13.4 hours (1.3% of tracked time)
+- Ethan Domagala: 14.4 hours (1.4% of tracked time)
 - Primary contributor: Meredith Needham
 
 ## Activity Timeline
-Continued operations work with persistent documentation gaps:
+Continued core operations with increased administrative and meeting coordination load:
 
-**Current batch (11.0 hours)**:
-- **Meredith Needham** (6.2h): "Operations/Admin" — consistent core operations baseline
-- **Jack Elston** (4.8h total): 
-  - "Answering Emails" (1.8h total: 0.8h + 1.0h) — administrative communications
-  - "DD Response" (3.0h) — due diligence activity (new work type)
+**Current batch (16.3 hours)**:
+- **Meredith Needham** (6.3h): "Operations/Admin" (4.9h + 1.4h) — stable operations baseline
+- **Jack Elston** (7.0h): Significant administrative expansion
+  - "Answering Emails" (4.0h total: 0.5h + 2.5h + 1.0h) — primary administrative work
+  - "FW: [HOLD] Black Swift Diligence Call" (1.0h) — ongoing due diligence activity
+  - "BST Internal Update Meeting" (0.5h) — internal communications
+  - "Business Operations Meeting" (1.0h total: 0.5h + 0.5h) — operational coordination
+- **Stachura** (2.0h): **No description provided** — undocumented entry
+- **Ethan Domagala** (1.0h): "Weekly Meeting" — team synchronization
 
 ## Insights
-- **Primary work type**: Core operations/administration (Meredith Needham continues stable contribution); Jack Elston shifting to include customer-facing administrative work (emails) and due diligence response activities
-- **Documentation status**: 
-  - **IMPROVEMENT**: All entries in this batch are fully documented with descriptions
-  - **OUTSTANDING COMPLIANCE ISSUES REMAIN UNRESOLVED**:
-    - Beck Cotter: 53.9 hours cumulative undocumented (100% non-compliance maintained across all tracking periods)
-    - Dan: 61.5 total hours with 60.5% non-compliance rate
-    - Stachura: 1.5h undocumented from prior batch
-  - **ESCALATION REQUIRED**: Continued non-compliance by Beck Cotter and Dan across multiple cycles without remediation constitutes systemic accountability failure
-- **Work pattern**: Meredith Needham maintaining consistent operational baseline (~56% of this batch); Jack Elston expanding role beyond integration work to include administrative and due diligence functions; no contributions from Beck Cotter, Ethan Domagala, or Dan in this period
-- **Team composition**: 5 active contributors in current batch; 2 team members (Beck Cotter, Dan) carry unresolved documentation violations
+- **Primary work types**: 
+  - Core operations/administration (Meredith Needham maintains ~38% of batch)
+  - Email/administrative communications (Jack Elston expanding to ~57% of his batch)
+  - Due diligence activities (ongoing, customer-facing)
+  - Internal meetings (coordination/alignment work)
+  
+- **Documentation status**:
+  - **NEW ISSUE**: Stachura with 2.0h undocumented entry in this batch
+  - **ONGOING COMPLIANCE FAILURES**:
+    - Beck Cotter: 53.9 hours cumulative undocumented (100% non-compliance maintained)
+    - Dan: 60.5 hours undocumented (continuing prior non-compliance pattern)
+    - Stachura: Now 3.5 hours total undocumented (1.5h prior + 2.0h current batch)
+  - **ESCALATION REQUIRED**: Systemic accountability failure unresolved; Stachura compliance degradation adds to existing violations
+
+- **Work pattern**: Jack Elston assuming expanded administrative role (email management, meeting coordination); Meredith Needham maintaining consistent operational baseline; Ethan Domagala contributing to team alignment activities; minimal participation from other team members in this period
+
+- **Team composition**: 4 active contributors in current batch; 3 team members (Beck Cotter, Dan, Stachura) carry unresolved documentation violations
