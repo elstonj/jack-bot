@@ -12,12 +12,12 @@
     "contacts": []
   },
   "contract": {
-    "type": "unknown",
+    "type": "fixed_price",
     "number": "1305M226D0012",
     "total_value": 483000.0,
     "start_date": "2026-02-01",
     "end_date": "2031-01-31",
-    "payment_cadence": "by ordering period; individual CLINs are firm fixed price except NRE/Travel which are NTE",
+    "payment_cadence": "milestone or task order level",
     "documents": [
       "drive://Budget Structure",
       "drive://(1305M226D0012) Attachment 1-Specifications_Black Swift.pdf",
@@ -25,37 +25,25 @@
     ]
   },
   "budget": {
-    "approved": 13681750.0,
+    "approved": 13281750.0,
     "approved_source": "sow_drive",
     "line_items": [
       {
         "category": "Equipment",
-        "amount": 12281250.0,
-        "description": "Black Swift S0 sUAS Platforms: 150 EA @ $18,000 (Yr1) + 150 EA @ $18,630 (Yr2) + 125 EA @ $19,282 (Yr3) + 125 EA @ $19,957 (Yr4) + 125 EA @ $20,655 (Yr5)",
+        "amount": 10981250.0,
+        "description": "Black Swift S0 sUAS Platforms: 150 EA @ $18,000 (Period 1) + 150 EA @ $18,630 (Period 2) + 125 EA @ $19,282 (Period 3) + 125 EA @ $19,957 (Period 4) + 125 EA @ $20,655 (Period 5)",
         "source_doc": null
       },
       {
         "category": "Labor",
-        "amount": 426600.0,
-        "description": "Mission Days Operational Support (30 days/yr @ $2,850) + Operational and Testing Support (6 sessions/yr @ $6,000) + Operator Training (1 session/yr @ $6,000) + Instructor Training (1 session/yr @ $600) across 5 years",
+        "amount": 426000.0,
+        "description": "Mission Days Operational Support (30 days @ $2,850 per period × 5 periods) + Operational and Testing Support (6 @ $6,000 per period × 5 periods) + Training Sessions",
         "source_doc": null
       },
       {
         "category": "Other",
-        "amount": 60000.0,
-        "description": "Course Development: Operator and Observer Course ($6,000/yr) + Instructor Training Course ($6,000/yr) across 5 years",
-        "source_doc": null
-      },
-      {
-        "category": "Other",
-        "amount": 250000.0,
-        "description": "Travel for Operational Support NTE: $50,000/year x 5 years (FTR-compliant reimbursable)",
-        "source_doc": null
-      },
-      {
-        "category": "Other",
-        "amount": 990000.0,
-        "description": "Non-Recurring Engineering NTE: Technical Documentation ($66,000/yr), Modeling ($66,000/yr), NHC workflow integration ($66,000/yr) x 5 years (labor-based at task order level per Tab 2)",
+        "amount": 874500.0,
+        "description": "Course Development (Operator/Observer + Instructor courses @ $6,000 each per period × 5 periods) = $60,000; Travel NTE (5 periods × $50,000 NTE) = $250,000 capped; NRE components (Technical Documentation, Modeling, NHC Workflow @ $66,000 NTE each per period × 5 periods) = $990,000 capped",
         "source_doc": null
       }
     ],
@@ -64,27 +52,27 @@
         "amount": 92155.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-27"
+        "last_updated": "2026-05-28"
       },
       "purchases": {
         "amount": 902.06,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-05-27"
+        "last_updated": "2026-05-28"
       },
       "other_qbo": {
         "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-05-27"
+        "last_updated": "2026-05-28"
       },
       "total": 93057.06,
       "by_line_item": {}
     },
     "committed": 68.7,
-    "remaining": 13588624.24,
+    "remaining": 13188624.24,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-27T09:02:31Z"
+    "last_reconciled": "2026-05-28T09:03:10Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -128,6 +116,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-05-27T09:02:31Z",
+  "last_full_rebuild": "2026-05-28T09:03:10Z",
   "last_incremental_update": null
 }

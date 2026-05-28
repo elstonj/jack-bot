@@ -24,5 +24,18 @@
     "notes": "Marketing/newsletter; not a purchase",
     "date": "",
     "subject": ""
+  },
+  {
+    "id": "19e69900407e018",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "Mt. Princeton Hot Springs Resort",
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Spa/resort marketing email; no purchase or order",
+    "date": "",
+    "subject": ""
   }
 ]

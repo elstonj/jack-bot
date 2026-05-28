@@ -30,10 +30,10 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 25830.0,
+        "amount": 25986.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-27"
+        "last_updated": "2026-05-28"
       },
       "purchases": {
         "amount": 0.0,
@@ -47,13 +47,13 @@
         "confidence": "exact",
         "last_updated": "2026-04-22"
       },
-      "total": 98620.0,
+      "total": 98776.25,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": -2179.0,
+    "remaining": -2335.25,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-27T09:03:51Z"
+    "last_reconciled": "2026-05-28T09:04:23Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -116,6 +116,6 @@
       "text": "From Maciej: <@U0AQE94HJUT>, the Navy SBIR is mostly caught up, I just updated Asana. Also, I'm updating tasks for the Navy STTR which will be a higher priority this month, so make sure to mention that tomorrow"
     }
   ],
-  "last_full_rebuild": "2026-05-27T09:03:51Z",
+  "last_full_rebuild": "2026-05-28T09:04:23Z",
   "last_incremental_update": null
 }

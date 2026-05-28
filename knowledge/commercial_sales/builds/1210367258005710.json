@@ -81,7 +81,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "NASA Ames S2 system build (PO 80NSSC25PC031) with S20009 airframe, S2 Simulator, 2\u00d7 ground stations with Iridium, spare tail with Iridium antenna, and warranty/repair work (flap servo, payload computer, mux board). Delivery target Sep 30, 2026 per executed PO. Currently in assembly with Iridium component sourcing underway. Pallet shipping preparation in progress (aircraft case, accessory case, battery case; batteries are Class 9). Kept due to QBO Invoice #1633 (paid Nov 4, 2024). Recent NASA contact (Feb 2026) confirmed FY25 fund timing constraints and Sep 26 delivery feasibility. Active Slack activity (May 18\u201321, 2026) confirms pallet preparation and shipping logistics coordination with nosecone inclusion confirmed in Slack on 2026-05-21.",
+  "notes": "NASA Ames S2 system build (PO 80NSSC25PC031) with S20009 airframe, S2 Simulator, 2\u00d7 ground stations with Iridium, spare tail with Iridium antenna, and warranty/repair work (flap servo, payload computer, mux board). Delivery target Sep 30, 2026 per executed PO. Currently in assembly with Iridium component sourcing underway. Pallet shipping preparation in progress (aircraft case, accessory case, battery case; batteries are Class 9). Nosecone inclusion confirmed in Slack on 2026-05-21. Kept due to QBO Invoice #1633 (paid Nov 4, 2024). Recent NASA contact (Feb 2026) confirmed FY25 fund timing constraints and Sep 26 delivery feasibility. Active Slack activity (May 18\u201327, 2026) confirms pallet preparation and shipping logistics coordination.",
   "missing_fields": [
     "ship_to"
   ],

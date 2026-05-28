@@ -105,8 +105,8 @@
 - **Service Accounts:** 2
 
 **Notes:**
-- All contact information verified and consistent across existing and new data; no conflicts detected
-- New data import confirms all 17 roster entries with no additions or removals
+- All 17 roster entries verified and cross-referenced; no changes from previous sync
+- All contact information preserved and consistent across existing and new data
 - Three team members remain unclassified; recommend reaching out to leadership for role clarification
 - BST maintains an engineering-focused organization with balanced technical and administrative support
-- Directory is current and stable as of latest sync
+- Directory is current and stable

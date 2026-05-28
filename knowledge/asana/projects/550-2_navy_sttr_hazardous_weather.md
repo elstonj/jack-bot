@@ -35,22 +35,16 @@
 - **Option Final Report** (September 1, 2026): $14,446 — **PENDING** (CLIN 0007; assigned to Maciej Stachura)
 
 ## Task Summary
-- **Total Open Tasks**: 17 (13 substantive, 4 contact/reference entries)
+- **Total Open Tasks**: 1 substantive task (per latest Asana data)
 - **Completed Tasks**: ~38 historical (base period through early option period)
 - **Assignee Focus**:
-  - **Maciej Stachura**: 7 open technical tasks due May 8–June 3; responsible for Option Progress Report (June 3) and Final Report (Sept 1)
-    - Fix ISARRA data for James Pinto (due May 8) — **OVERDUE**
-    - Add mag-IMU alignment (due May 13)
-    - Phase II Cal/Val Plan (due May 18)
-    - Gather all comparison data from CAT (due May 22)
+  - **Maciej Stachura**: 1 open technical task
     - Analyze GPS heading data for wind improvement (due May 28)
-    - Write up mag fixes from CAT (due May 29)
-    - OPTION CLIN0006 Progress Report (due June 3)
-    - OPTION CLIN0007 Final Report (due September 1)
-  - **Meredith O'hara Needham**: 2 invoice submissions (100% track record on-time)
+  - **Meredith O'hara Needham**: 2 pending invoice submissions (100% track record on-time)
     - Submit CLIN 1006 Invoice ($35,000; due June 3)
     - Submit CLIN 1007 Invoice ($14,446; due Sept 1)
-  - **Contact/Reference entries** (unassigned): Joshua Cotter, Josh Wadler, John Park, Jun Zhang (ERAU), Joshua Cosseth (Navy TPOC)
+
+**Note**: Previous knowledge file listed 17 open tasks including ISARRA fix (May 8, OVERDUE), mag-IMU alignment (May 13), Phase II Cal/Val Plan (May 18), and other May 8–29 tasks. Latest raw data shows only 1 open task. This suggests either: (1) Maciej completed or closed multiple tasks since last sync, or (2) Asana data is stale. Recommend verification with Maciej on status of May 8–June 3 deliverables, particularly ISARRA fix and June 3 Progress Report.
 
 ## Recent Activity
 - **May 11, 2026**: Jack Elston confirmed Navy STTR has priority over Navy SBIR via Asana feedback; SBIR mostly on schedule.
@@ -61,12 +55,7 @@
 - **February 13, 2026**: Status update posted (green status).
 
 ## Upcoming Critical Dates
-- **May 8, 2026**: Fix ISARRA data for James Pinto (Maciej Stachura) — **OVERDUE** (as of May 11)
-- **May 13, 2026**: Add mag-IMU alignment (Maciej Stachura)
-- **May 18, 2026**: Phase II Cal/Val Plan (Maciej Stachura)
-- **May 22, 2026**: Gather all comparison data from CAT (Maciej Stachura)
-- **May 28, 2026**: Analyze GPS heading data for wind improvement (Maciej Stachura)
-- **May 29, 2026**: Write up mag fixes from CAT (Maciej Stachura)
+- **May 28, 2026**: Analyze GPS heading data for wind improvement (Maciej Stachura) — *only open task in current Asana data*
 - **June 3, 2026**: 
   - Option Progress Report due (CLIN 0006; $35,000) — Maciej Stachura
   - Submit CLIN 1006 Invoice ($35,000) — Meredith O'hara Needham
@@ -76,4 +65,14 @@
 
 ## Key Contacts
 - **Navy TPOC**: Joshua Cosseth (joshua.h.cossuth.civ@us.navy.mil; Office of Naval Research, 875 N Randolph St., Office 1057, Arlington, VA 22203; Phone: (407) 696-0703)
-- **Billing**: WAWF system (Wide
+- **Billing**: WAWF system (Wide Area Workflow)
+- **Subcontractor Coordination**: 
+  - Josh Wadler (ERAU): wadlerj@erau.edu
+  - John Park (ODU): h1park@odu.edu
+  - Jun Zhang (U Miami, **must be on all correspondence**): jun.zhang@earth.miami.edu
+
+## Notes & Context
+- Project focus: refining the S0 platform and demonstrating its utility for operational Navy use
+- Phase I BASE: 7/7/25–1/6/2026 (completed); Phase II OPTION: 1/7/26–7/6/2026 (in progress)
+- Subcontractor structure: BST (Prime) → ERAU (sub) → University of Miami (ERAU sub)
+- **Data sync note**: Previous knowledge file contained 17 open tasks with multiple deliverables due May 8–June

@@ -1,10 +1,10 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,877 (1,829 previous + 48 new)
-- **Date range:** March 24 – May 27, 2026 (65 days)
-- **Approximate volume:** ~28.9 messages per day (sustained consistency)
-- **Pattern:** New 48-message sample (May 26–27) continues **sustained ~80–85% automated/newsletter-driven baseline**. Heavy clustering on May 26 (7 messages 10:17–18:46 UTC; 15 messages 12:01–17:56 UTC) and May 27 (4 messages 00:01–04:59 UTC). Consistent with professional intelligence aggregation + continuous platform notifications + political/governance breaking news + defense/aerospace industry monitoring + **emerging media relations activity (CBS News interaction) + Navy/NATO event sponsorship opportunities + supplier sourcing routing to sales@**.
+- **Total messages scanned:** 1,903 (1,877 previous + 26 new)
+- **Date range:** March 24 – May 28, 2026 (66 days)
+- **Approximate volume:** ~28.8 messages per day (sustained consistency)
+- **Pattern:** New 26-message sample (May 27–28) continues **sustained ~80–85% automated/newsletter-driven baseline**. Heavy clustering on May 27 (20 messages 07:37–22:04 UTC). Consistent with professional intelligence aggregation + continuous platform notifications + political/governance breaking news + defense/aerospace industry monitoring + **sustained media relations activity + supplier sourcing + UAS/drone industry intelligence + geospatial technology monitoring + internal business operations visibility**.
 
 ---
 
@@ -12,57 +12,60 @@
 
 ### Top Internal Senders
 1. **Jack Elston** (elstonj@blackswifttech.com, media@blackswifttech.com, jack@newgreenpow.com, elstonj@bst.aero) — **CRITICAL/ELEVATED/FEDERAL PARTNERSHIPS & INTERNAL OPERATIONS & MEDIA AGGREGATION & EXTREME ENVIRONMENTS PROJECT & MEDIA RELATIONS**:
-   - **1 new message (May 26, 10:39 UTC)** — **RE: CBS News Story** (forwarded to Robert Marciano, CBSNews.com) — **CRITICAL NEW SIGNAL: Active media relations coordination. Paige copied on Jack's response to CBS News correspondent about company story. Indicates PR/media coordination responsibility or visibility**.
-   - **Context:** BST field trips scheduled (May 22, July 3); 7th Federal UxS Workshop coordination; cross-industry battery technology partnership via jack@newgreenpow.com alias; **now active CBS News media engagement**.
+   - (Pattern sustained from May 26.)
+   - **Context:** Active CBS News media coordination; BST field trips; 7th Federal UxS Workshop coordination; cross-industry battery technology partnership.
 
 2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **ELEVATED/TECHNICAL COORDINATION & EXTERNAL PARTNERSHIPS**:
-   - (No new messages in this sample; pattern sustained from May 22.)
+   - (Pattern sustained.)
 
 3. **Nikhila Ravikumar** (Nikhila@nanoveu.com) — **EXTERNAL TECHNICAL PARTNER, ELEVATED**:
-   - (No new messages in this sample; pattern sustained from May 22.)
+   - (Pattern sustained.)
 
 4. **Joshua Baer / STATION Austin** (media@blackswifttech.com) — **ELEVATED/COMMUNITY & ENTREPRENEURSHIP HUB ENGAGEMENT**:
-   - (No new messages in this sample; pattern sustained from May 24.)
+   - (Pattern sustained.)
 
 5. **Vahid Eghtesad** (info@blackswifttech.com) — **ELEVATED/INVESTMENT & BUSINESS DEVELOPMENT**:
-   - (Pattern sustained from May 25 Fortuna Investments inquiry.)
+   - (Pattern sustained.)
+
+6. **Rippling** (no-reply@rippling.com) — **NEW/ELEVATED/INTERNAL HR & OPERATIONS TASK MANAGEMENT**:
+   - **1 new message (May 27, 11:10 UTC)**: "Action required: You have pending tasks in Black Swift Technologies" — **NEW SIGNAL: Active task management platform for BST internal operations. Paige has pending operational tasks flagged**.
 
 ### Top External Senders (Updated)
 
 1. **The New York Times** (editorpicks, nytdirect, breakingnews@nytimes.com) — **SUSTAINED VERY HIGH/POLITICAL, CULTURAL, ENVIRONMENTAL & FINANCIAL CONTENT PATTERN**:
-   - **7 new messages (May 26–27, 10:40–03:42 UTC)**:
-     - **Daily news digests (2, IMPORTANT)**: "The Morning: Your questions, answered" (May 26, 10:40 UTC); "The Morning: A poem for Memorial Day" (earlier, May 25).
-     - **Breaking political news (4, IMPORTANT)**: "Breaking news: Court rejects Alabama House map, calling it unfair to Black voters" (May 26, 14:20 UTC); "Breaking news: Defying Trump, South Carolina Senate does not act on new map" (May 26, 18:46 UTC); "Breaking news: Texas polls begin closing, as Republicans battle for Senate nomination" (May 27, 00:01 UTC); "Breaking news: Paxton ousts Cornyn in Texas G.O.P. Senate runoff" (May 27, 01:17 UTC).
-     - **Feature content (1, IMPORTANT)**: "How an American secret unfolded across generations" (May 26, 21:03 UTC).
-     - **Breaking emergency news (1, IMPORTANT)**: "Breaking news: Evacuation orders lifted as Southern California chemical tank cools" (May 27, 03:42 UTC) — **Environmental/public safety alert**.
-     - **Political analysis (1, IMPORTANT)**: "Trump is focused on his pet projects as G.O.P. midterm fears deepen" (May 26, 12:01 UTC).
-   - **Signal: SUSTAINED & INTENSIFIED. Daily political briefings + election coverage (Texas GOP runoff May 27) + judicial/governance coverage + environmental emergency alerts. Indicates strong interest in U.S. political developments, governance, and public safety**.
+   - **3 new messages (May 27, 10:19–21:01 UTC)**:
+     - **Daily morning briefing (1, IMPORTANT)**: "The Morning: War. Heat. Cigarettes." (May 27, 10:45 UTC) — **Geopolitical + climate + consumer trends**.
+     - **Political feature (1, IMPORTANT)**: "Ocasio-Cortez's former chief of staff is running for Congress. She never mentions him." (May 27, 21:01 UTC) — **Continued political coverage**.
+     - **Election analysis (1, IMPORTANT)**: "7 takeaways from the Texas primaries" (May 27, 12:01 UTC) — **Texas GOP runoff analysis (sustained from May 26 election coverage)**.
+   - **Signal: SUSTAINED VERY HIGH. Daily political briefings + election analysis + geopolitical/climate awareness**.
 
-2. **LinkedIn** — **SUSTAINED ELEVATION & ACTIVE ENGAGEMENT/PROFILE VISIBILITY & PROFESSIONAL NETWORK GROWTH & BST BUSINESS DEVELOPMENT & INDUSTRY GROUP PARTICIPATION**:
-   - **5 new messages (May 26–27, 00:59–17:56 UTC)**:
-     - **Profile engagement (2, IMPORTANT)**: "13 people looked at your profile" (May 27, 04:59 UTC); "Paige, add Sally Nakamba" (May 27, 00:01 UTC) — **Sustained professional visibility + network expansion**.
-     - **Industry group alerts (2, IMPORTANT)**: "Don't miss conversations in The Global Space Tourism, Commercial Space & Defense Society - Powered by SpaceTourismMagazine.com" (May 26, 17:56 UTC); "Geo Week via LinkedIn — Why Interoperability Remains a Bottleneck in Geospatial Technology" (May 26, 17:45 UTC) — **Active participation in space/defense + geospatial technology professional communities**.
-     - **Founder/CEO industry tracking (1, IMPORTANT)**: "Hermeus Founder, Chief Executive Officer recently posted" (May 27, 02:59 UTC) — **Tracking hypersonic/aerospace competitor or strategic company. Hermeus is hypersonic aircraft developer**.
-   - **Signal: SUSTAINED BST BUSINESS DEVELOPMENT. Active engagement in space/defense/geospatial professional networks + competitor/industry tracking (Hermeus) + professional visibility growth**.
+2. **LinkedIn** — **SUSTAINED ELEVATION & ACTIVE ENGAGEMENT/PROFILE VISIBILITY & PROFESSIONAL NETWORK GROWTH & BST BUSINESS DEVELOPMENT & INDUSTRY GROUP PARTICIPATION & RECRUITMENT INTEREST**:
+   - **2 new messages (May 27, 07:37 & 17:38 UTC)**:
+     - **Job alert (1, IMPORTANT)**: "Turn on Royal Navy job alerts." (May 27, 07:37 UTC) — **NEW SIGNAL: Interest flagged in Royal Navy positions/partnerships. Possible government/defense sector opportunity exploration or business development angle**.
+     - **Client/industrial design request (1, IMPORTANT)**: "Black Swift Technologies, Industrial Design request from Chinchin Frugence Dagbomey and other clients are available. Show Requests." (May 27, 17:38 UTC) — **ELEVATED NEW SIGNAL: BST receiving solicitation requests on LinkedIn from external parties (Chinchin Frugence Dagbomey). Indicates company visibility for potential partnerships/design work. Paige may be handling inbound business development**.
+   - **Signal: SUSTAINED BST BUSINESS DEVELOPMENT + NEW EXTERNAL SOLICITATION ACTIVITY. Active engagement in defense sector (Royal Navy) + inbound partnership/design requests signaling growing company visibility**.
 
-3. **The New York Times (via editorpicks)** — **Daily briefing + political + feature content** (see above under NYT breaking news).
+3. **Commercial UAV News / Commercial UAV Expo** (info@expouav.com) — **ELEVATED/INDUSTRY PARTNERSHIP & EVENT PARTICIPATION & MARKETING VISIBILITY**:
+   - **2 new messages (May 27, 10:30 & 09:02 UTC)**:
+     - **Newsletter sponsorship opportunity (1, IMPORTANT)**: "Your brand, front and center in the Commercial UAV News newsletter" (May 27, 10:30 UTC) — **ELEVATED SIGNAL: BST being pitched for marketing/sponsorship placement in major UAS industry newsletter. Indicates company marketing/visibility strategy**.
+     - **Event program (1)**: "Built by pilots, for pilots: the 2026 Pilot Hub program" (May 27, 09:02 UTC) — **Commercial UAV Expo pilot training/community engagement initiative**.
+   - **Signal: ELEVATED. BST actively positioned for industry marketing visibility + participation in major commercial UAV events/programs**.
 
-4. **A&SF (Air & Space Forces Magazine)** — **NEW/ELEVATED/DEFENSE & AEROSPACE INDUSTRY MONITORING**:
-   - **2 new messages (May 26, 12:17 & 03:50 UTC)**:
-     - **Industry alert (1, IMPORTANT)**: "Share This | The Future of Flight Simulators" (May 26, 12:17 UTC).
-     - **Daily defense report (1, IMPORTANT)**: "Revamped A-10s and the Future of Close Air Support" (May 26, 03:50 UTC) — **Defense platform modernization tracking**.
-   - **Signal: NEW/ELEVATED. Sustained defense aerospace industry intelligence monitoring. Critical platform developments**.
+4. **UAS Magazine** (noreply@bbiinternational.com) — **ELEVATED/DEFENSE & COMMERCIAL UAS INDUSTRY MONITORING**:
+   - **1 new message (May 28, 00:05 UTC)**: "US Army Awards Contract for Long-Endurance Drone Training and Integration, GA-ASI, US Air Force Demonstrate Manned-Unmanned Teaming, and More!" — **ELEVATED SIGNAL: Defense procurement tracking + manned-unmanned teaming (directly relevant to BST's extreme environments/UAS work)**.
+   - **Signal: SUSTAINED ELEVATED. Government UAS procurement + defense integration intelligence**.
 
-5. **Defense Advancement (via LinkedIn)** — **NEW/ELEVATED/DEFENSE & GOVERNMENT SECTOR INTELLIGENCE**:
-   - **1 new message (May 26, 15:00 UTC)**:
-     - **Newsletter (1, IMPORTANT)**: "DA Newsletter Edition 215" (May 26, 15:00 UTC) — **Defense sector business/policy tracking**.
-   - **Signal: NEW. Active engagement with defense industry intelligence source**.
+5. **Geo Week News** (info@geo-week.com) — **ELEVATED/GEOSPATIAL TECHNOLOGY & INDUSTRY INTELLIGENCE**:
+   - **1 new message (May 27, 14:30 UTC)**: "Flood prediction, workforce pipelines, and your chance to weigh in" — **Geospatial + environmental monitoring + workforce development in geospatial sector**.
+   - **Signal: SUSTAINED. Active engagement with geospatial industry community**.
 
-6. **The Athletic Pulse** — **SUSTAINED/SPORTS & PREDICTION MARKETS**:
-   - **1 new message (May 26, 10:06 UTC)**:
-     - **Sports content (1, IMPORTANT)**: "Your sports rules questions, answered" (May 26, 10:06 UTC).
-   - **Signal: SUSTAINED sports content consumption**.
+6. **Geo-matching** (newsletter@geo-matching.com) — **NEW/ELEVATED/ADVANCED GEOSPATIAL TECHNOLOGY MONITORING**:
+   - **1 new message (May 27, 11:08 UTC)**: "Street-level imagery reconstructs cities as Gaussian Splats at scale, UAV LiDAR precisely measures the world's tallest tropical tree, and more products, videos, and case studies" — **NEW SIGNAL: Advanced geospatial + drone-based LiDAR + 3D reconstruction technology tracking. High technical relevance to BST's sensing/imaging capabilities**.
+   - **Sent to:** media@blackswifttech.com (shared company address, not personal).
+   - **Signal: NEW/ELEVATED. Cutting-edge geospatial + UAV sensor technology monitoring**.
 
-7. **Energy Drone & Robotics News** — **NEW/EMERGING/DRONE & ROBOTICS MARKET INTELLIGENCE**:
-   - **1 new message (May 26, 10:17 UTC)**:
-     - **Market analysis (1, UNREAD)**: "
+7. **A&SF (Air & Space Forces Magazine)** — **SUSTAINED ELEVATED/DEFENSE & AEROSPACE INDUSTRY MONITORING**:
+   - **1 new message (May 27, 03:52 UTC)**: "Lawmakers Endorse Multiyear Buys for F-35, F-15EX" — **Defense procurement + aircraft modernization tracking**.
+   - **Signal: SUSTAINED. Defense platform procurement intelligence**.
+
+8. **DroneDeploy** (drone

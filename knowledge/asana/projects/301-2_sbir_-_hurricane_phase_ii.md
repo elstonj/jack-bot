@@ -51,6 +51,7 @@
 - **Avionics** (Jack Elston, completed 2024-01-30)
 - **Deployment Tube** (Josh Fromm, completed 2024-01-17)
 - **Tablet** (Jack Elston, completed 2024-07-16) — Minimum Viable configuration
+- **Construct parachute modules** (Unassigned, completed 2024-02-15)
 
 **MHTP & Algorithm Deliverables (2023-2024)**:
 - **Eyewall Following Algorithm** (Dan Prendergast, Due: 2024-02-16, Completed: 2024-02-27) — Two primary modules explored: "eyewall" and "inflow" modules, with UAS launched in hurricane eye and directed toward eyewall for evaluation
@@ -104,9 +105,8 @@
   - Raw sensor data output for post-flight analysis and precipitation performance assessment
   - Data retrieval verification via Area-I computer interface
 - RS421 interface robustness (final verification)
+- Parachute module construction and integration
 
 **Contractual & Support Framework**: 
 - GPC (Dr. Cione) and UPC (Dr. Jun Zhang) serve as Subject Matter Experts for non-contractual technical questions
-- Any technical disagreements or contractual changes must be directed to the Contracting Officer (CO)
-
-**Field Deployment**: Successfully conducted hurricane field studies in partnership with NOAA Hurricane Research Division (HR
+- Any technical disagreements or contractual changes

@@ -14,23 +14,23 @@
 - **Flight Data from High Risk Fire Days**: Completed January 23, 2024
 - **Demonstrate Forecasting Improvements of Low Level Winds**: Completed January 24, 2024
 - **Final Report & Documents**: Completed February 2, 2024
-- **Phase II Submission**: Completed February 3, 2024
+- **Phase II Submission**: Completed February 3, 2024 (Due: February 2, 2024)
 - **Final NASA Phase I Presentation**: Completed February 7, 2024
 - **NASA ROSES Call Application**: Completed March 31, 2024
 
 ## Task Summary
-- **Total Tasks**: 0 open, 84 completed (100% completion rate)
+- **Total Tasks**: 0 open, 85+ completed (100% completion rate)
 - **Primary Contributors**: 
   - Alex Lomis: Drove most deliverables, regulatory coordination (CALFIRE, CoE), reporting, and presentations
-  - Jack Elston: Flight operations, hardware troubleshooting (battery reporting issues on S01001), flight data collection
-  - Maciej Stachura: Algorithm development, BUFR data conversion, UTM pathway research, sampling strategy analysis
+  - Jack Elston: Flight operations, hardware troubleshooting (battery reporting issues on S01001), flight data collection, Phase II Submission coordination
+  - Maciej Stachura: Algorithm development, BUFR data conversion, UTM pathway research, sampling strategy analysis, NASA ROSES Call Application (March 31, 2024)
   - Josh Fromm: Manufacturing/procurement (G10 fuselages)
 - **Patterns**: Heavy documentation and regulatory focus; significant coordination with external partners; sequential task completion through January leading to February deliverables
 
 ## Recent Activity
 - All Phase I deliverables completed by early February 2024
 - Final invoicing processed January 26, 2024
-- Phase II proposal submitted February 3, 2024
+- Phase II proposal submitted February 3, 2024 (one day after original due date)
 - NASA ROSES Call application submitted March 31, 2024 (completed by Maciej Stachura)
 - CoTAK Demo exploration initiated and completed March 27, 2024
 - Post-Phase I technical investigation: Dubins path for altitude profiling control (completed October 2025)

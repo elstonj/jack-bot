@@ -1,76 +1,73 @@
 {
   "project_code": "001-7",
   "qbo_class_names": [
-    "(001-7) IRAD - S3",
-    "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
+    "(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-05-21",
-    "end": "2026-05-22"
+    "start": "2026-05-27",
+    "end": "2026-05-28"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 5432.06,
+    "expenses": 818.39,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 4954.0,
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 478.06
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 818.39
     }
   },
   "invoices": [],
-  "bills": [
-    {
-      "type": "Bill",
-      "date": "2026-05-21",
-      "doc_number": "BST-May2026-1",
-      "total": 4954.0,
-      "attributed": 4954.0,
-      "vendor": "Matthew Crabtree",
-      "customer": "",
-      "balance": 4954.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 4954.0,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
-          "description": "AP_CORE_BOARD_1-V0.2 \u2013 ASSEMBLY (32pcs)\nAP_CORE_BOARD_1-V0.2 \u2013 ASSEMBLY (32pcs)"
-        }
-      ]
-    }
-  ],
+  "bills": [],
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-05-21",
-      "doc_number": "99376023",
-      "total": 115.71,
-      "attributed": 115.71,
+      "date": "2026-06-11",
+      "doc_number": "",
+      "total": 140.59,
+      "attributed": 140.59,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "DKC*DIGI KEY CORP - 4617",
+      "memo": "",
       "lines": [
         {
-          "amount": 115.71,
+          "amount": 140.59,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "DKC*DIGI KEY CORP - 4617"
+          "description": "S3 IRAD shipmen to Sean Cole"
         }
       ]
     },
     {
       "type": "Purchase",
-      "date": "2026-05-21",
-      "doc_number": "9693",
-      "total": 362.35,
-      "attributed": 362.35,
+      "date": "2026-05-27",
+      "doc_number": "300044184",
+      "total": 308.05,
+      "attributed": 308.05,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 362.35,
+          "amount": 308.05,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": ""
+          "description": "retracting gimbal, servo and gears"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-27",
+      "doc_number": "3058",
+      "total": 369.75,
+      "attributed": 369.75,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 369.75,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Reliance 21700 RS50 5000mAh 70A CCC Lithium-Ion Battery x 60"
         }
       ]
     }

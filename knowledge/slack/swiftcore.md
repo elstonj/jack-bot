@@ -25,7 +25,7 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Communications bandwidth reduction project with packet optimization
 
 **Comms Version Bump for CAN Deployment (April 2026):**
-- Approved comms version bump due to new state added to CAN_DeploymentTubeState_t enum (April 27, 2026)
+- Approved comms version bump due to new state added to CAN_DeploymentTubeState_t enum
 - Rationale: Required for proper log parsing
 - Approval: Ben Busby confirmed no concerns with version bump
 
@@ -79,6 +79,11 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Implementation by: Ben Busby
 - Status: Fix completed and available for testing (May 13, 2026); Jack Elston to validate
 
+**Device Blocking Feature Review (May 27, 2026):**
+- Device blocking/validation feature in tablet app identified as problematic and potentially obsolete
+- Current deployment model (manual APK loading followed by in-app updates via "About" page) makes device-level blocking unnecessary
+- Ben Busby to deactivate feature for customer Galaxy Tab Active5 5G testing
+
 ## Projects & Initiatives
 
 **SwiftCore 3.2 Release (2021-2022):**
@@ -115,7 +120,4 @@ This channel serves as the primary technical communication hub for Black Swift T
 - **Objective:** Enable single GCS to manage two UAS simultaneously
 - **Scope:** Changes to autopilot, comms_protocol, and web_controller repositories
 - **Resolved Issues:** Transmit command buffer overflow errors, per-aircraft system_init packet routing, redundant multi-device initialization requests
-- **Latest (May 7, 2026):** OpenWRT build infrastructure enhancements with binary utilities stub for proper data format handling
-- **Latest (May 8, 2026):** Feature fully merged; no anticipated impact on other development but team monitoring for issues
-
-**Web Controller UI Redesign & Flight Plan Support (April 2026-
+- **

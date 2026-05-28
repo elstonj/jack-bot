@@ -13,7 +13,7 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Sergio Ruocco (eMASS AI) - Autoboot firmware expert, SDK bring-up and troubleshooting
 - Shantanu (eMASS AI) - Hardware verification and validation
 
-**Activity Level:** Highly active collaboration spanning February-April 2026, with continued activity into May 2026. Intensive HWIL and model training in March-April. Critical first-flight test completed on Apr 24, 2026. Recent activity (May 4-5, 2026) focused on testing methodology and flight plan preparation for controller evaluation. Activity through May 20-21, 2026 focused on velocity command control mode refinement, frequency optimization, and flight test sequence clarification. Activity through May 25, 2026 included troubleshooting waypoint navigation behavior, controller stability issues, sim-to-flight fidelity gaps, post-flight analysis, protocol documentation requests, and holiday scheduling. Latest activity (May 26, 2026) involves scheduled technical call and clarification on navigation modes.
+**Activity Level:** Highly active collaboration spanning February-April 2026, with continued activity into May 2026. Intensive HWIL and model training in March-April. Critical first-flight test completed on Apr 24, 2026. Recent activity (May 4-5, 2026) focused on testing methodology and flight plan preparation for controller evaluation. Activity through May 20-21, 2026 focused on velocity command control mode refinement, frequency optimization, and flight test sequence clarification. Activity through May 25, 2026 included troubleshooting waypoint navigation behavior, controller stability issues, sim-to-flight fidelity gaps, post-flight analysis, protocol documentation requests, and holiday scheduling. Latest activity (May 26-27, 2026) involves delivery of three microtest binaries with comprehensive velocity command test sequences and overshoot validation.
 
 ---
 
@@ -101,4 +101,4 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 
 **PWM Command Frequency Optimization (May 21, 2026)**
 - Jack Elston noted uncertainty about maximum frequency for PWM commands during velocity command control mode testing
-- **Decision: Match velocity command frequency to PWM input frequency** for consistent control
+- **Decision: Match velocity

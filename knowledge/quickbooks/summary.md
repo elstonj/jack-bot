@@ -1,49 +1,63 @@
 # BST Financial Overview (QuickBooks)
+**Period: May 27 – 28, 2026** | *Historical Data: April 2024 – September 2026*
+
+---
 
 ## Company Totals
-- **Total Revenue (Invoices)**: $4,405,611.64
-- **Total Expenses**: $2,400,416.48
-- **Net Income Estimate**: $2,005,195.16
+
+| Metric | Amount |
+|--------|--------|
+| **Total Revenue (Invoiced)** | $4,405,611.64 |
+| **Total Expenses** | $2,401,088.65 |
+| **Net Income (Estimated)** | $2,004,522.99 |
+
+*Note: P&L report shows only May 27–28 period ($-677.80 net). Historical project data spans 26+ months.*
 
 ---
 
 ## By Project/Class
 
-| Project | Total Revenue | Total Expenses | Net Position | Status |
-|---------|---------------|----------------|--------------|--------|
-| **Government** | $4,387,717.28 | $1,330,605.39 | **$3,057,111.89** | Active |
-| **BST Internal** | $17,894.36 | $1,069,811.09 | **-$1,051,916.73** | High expense ratio |
+| Project | Revenue | Expenses | Net Position | Activity |
+|---------|---------|----------|--------------|----------|
+| **Government** | $4,387,717.28 | $1,330,605.39 | **+$3,057,111.89** | 75 invoices; active through Sept 2026 |
+| **BST Internal** | $17,894.36 | $1,070,483.26 | **-$1,052,588.90** | 6 transactions; 26+ months; heavily R&D focused |
 
-**Key Observations:**
-- Government contracts represent 99.6% of revenue
-- BST Internal is a cost center with minimal revenue (internal operations/overhead)
-- Government projects are highly profitable; Internal operations need revenue allocation or cost reduction
+**Primary Finding:** Government projects are highly profitable; Internal operations show significant R&D expense burden relative to minimal internal revenue.
 
 ---
 
-## Cash Flow Indicators
+## Outstanding Accounts Receivable (AR)
 
-### Accounts Receivable (Outstanding)
-- **Government**: $3,120,198.19 outstanding across 75 active invoices
-- **BST Internal**: Balance data incomplete from provided report
-- **Total AR**: ~$3.1M+ in open invoices
+| Project | Outstanding Balance | Collected |
+|---------|-------------------|-----------|
+| **Government** | $3,120,198.19 | Partial |
+| **BST Internal** | Minimal | — |
+| **TOTAL AR** | **~$3.12M** | — |
 
-### Purchase Orders Outstanding
-- **BST Internal**: PO #1038 (Amprius) - $1,700.00
-- **Government**: $832.00
-
-### Alert: High Outstanding AR
-The Government division has significant outstanding balances. Follow-up on invoices approaching payment terms is recommended.
+**Cash Flow Risk:** 75 active government invoices with $3.12M still outstanding. Monitor collection.
 
 ---
 
-## Data Quality Note
+## Purchase Orders (Outstanding)
 
-**Incomplete Report:** The provided QuickBooks export appears truncated. Missing information includes:
-- Vendor/supplier breakdown
-- Customer-by-customer revenue detail
-- Complete expense categorization
-- Recent transaction dates (last entry: 2026-09-28)
-- Cash payment status for outstanding AR
+- **PO #1038** (Amprius): $1,700.00 | BST Internal
+- **Government POs**: $832.00
 
-**Recommendation:** Export complete Profit & Loss report with vendor and customer aging reports for comprehensive analysis.
+---
+
+## Unclassified Transactions
+
+| Item | Amount |
+|------|--------|
+| IRAD (Internal R&D) Expenses | $677.80 |
+| **Status** | Tracked within BST Internal project |
+
+---
+
+## Key Observations
+
+✓ **Strong profitability** on Government contracts (+$3.06M)  
+⚠ **Heavy R&D spend** on internal projects (-$1.05M deficit)  
+⚠ **Cash flow gap** — $3.12M in Government AR outstanding  
+✓ **Low open POs** — minimal procurement risk  
+→ **Recommendation:** Accelerate Government AR collections; evaluate ROI on BST Internal R&D spending.
