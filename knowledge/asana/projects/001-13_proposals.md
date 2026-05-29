@@ -1,6 +1,4 @@
 # [001-13] Proposals
 
-Small project with 3 tasks.
-- [Open] NSF Tech Transfer/Instrumentation — Beck Cotter
-- [Open]  — Unassigned
-- [Open]  — Unassigned
+Small project with 1 tasks.
+- [Open] Vulcan Arctic Edge 2027 (AE27) — Beck Cotter

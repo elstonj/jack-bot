@@ -1,10 +1,10 @@
 # Jack Elston — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 3,149 (3,049 prior + 100 May 27–28)
-- **Date range:** April 1–May 28, 2026
+- **Total messages scanned:** 3,249 (3,149 prior + 100 May 28–29)
+- **Date range:** April 1–May 29, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **May 27–28 activity:** 100 new messages. **~65% automated/vendor traffic.** 35 human messages concentrated in M&A diligence, government programs, Krateo partnership coordination, and emerging book/publishing initiative.
+- **May 28–29 activity:** 100 new messages. **~60% automated/vendor traffic.** 40 human messages concentrated in M&A integration (Krateo), government programs (UK MOD, US Navy, NORAD, NOAA), publishing/book initiative, and legal/financial coordination.
 
 ---
 
@@ -12,39 +12,26 @@
 
 ### Top Internal BST Contacts
 
-**Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical partnerships, government coordination, vendor/facility liaison, international shipping
-- **May 27–28 escalations:**
-  - **EOI/UK MAD UAV project** (Alasdair Brackenridge, Lockheed Martin, May 28 08:04/08:02 UTC, IMPORTANT) — UK Ministry of Defence partnership escalation; Jack, Maciej, Beck, Daniel coordinating response
-  - **Carnet for Shipping Battery to Canada** (May 27 15:34 UTC, IMPORTANT) — International logistics coordination with Atac Arnet; Arctic/Canadian program support
-  - **Vuncan Demo** (Hank Scott, TB2 Aerospace, May 27 15:24–15:33 UTC, IMPORTANT) — Demo/vendor coordination
-  - **Fwd: Vendor Brief Meeting and Recording** (Jack forwarding to Daniel, May 27 12:42 UTC) — Government vendor brief distribution
-- **Continuing pattern:** Central hub for international government partnerships, logistics, and technical vendor relationships.
-
 **Maciej Stachura** (stachura@blackswifttech.com) — Operations, technical coordination, partnerships, camera/sensor systems
-- **May 27–28 escalations (CRITICAL VOLUME):**
-  - **Update on anti-submarine project** (May 27 12:50 UTC onwards, IMPORTANT, 8+ exchanges) — **Active submarine/anti-submarine program with Krateo; intensive coordination with Bob Smith, Brian Grubel, Lisa Marie Cheney; Jack copied on all**
-  - **Camera support for BlackSwift** (May 27 19:58 UTC, IMPORTANT) — Sensor integration development; Jack forwarded by Maciej
-  - **Camera compatibility** (Tobin Fisher, Vantage Robotics, May 27 18:06 UTC, IMPORTANT) — Multi-party camera system integration (Bob Smith, Jack)
-  - **Runtime Assured document collaboration** (Google Docs comment notification, May 27 19:46 UTC, IMPORTANT) — Technical specification/design document (Jack tagged as reviewer)
-  - **Industrial Plan coordination** (Multiple Krateo exchanges, May 27 18:53–21:01 UTC, IMPORTANT) — M&A integration planning with Sona Raziabeegum
-  - **Employment Agreement** (Niki Schwab, Ko Firm, May 27 16:55 UTC, IMPORTANT) — Legal/HR coordination during M&A
-- **Continuing pattern:** Operational hub for submarine program, sensor integration, M&A integration planning, and government technical coordination.
+- **May 28–29 escalations (CRITICAL VOLUME):**
+  - **Camera support for BlackSwift** (Bob Smith, multiple exchanges May 28 16:02–23:03 UTC, IMPORTANT) — Ongoing sensor/camera integration coordination with Krateo
+  - **(U) Black Swift S0 VTOL UAS Weather Data Collection Proposal for Arctic Edge 2027** (Beck, Daniel, May 28 13:49–15:50 UTC, IMPORTANT) — **Classified/controlled Arctic operations program; Jack forwarded to full Krateo team (Bob Smith, Lisa Marie Cheney, Adria Passola, Brian Grubel) on May 29 01:02 UTC**
+  - **Black Swift Final Industrial Plan** (Sona Raziabeegum coordination, May 29 04:13 UTC, IMPORTANT) — M&A integration planning continuation
+  - **Ready for Your Interview? — Co-Author Invitation** (Jack to Maciej, May 28 09:26 UTC, x2, SENT) — Book/publishing recruitment
+- **Pattern:** Central technical operations and M&A integration hub; receiving classified/controlled program coordination.
 
-**Beck Cotter** (beck.cotter@blackswifttech.com) — Operations, communications, partnership coordination
-- **May 27–28 escalations:**
-  - **EOI/UK MAD UAV project follow-up** (Brackenridge/LM, May 27 16:16 UTC, IMPORTANT) — Lead coordinator on UK Ministry of Defence initiative; Jack, Daniel, Maciej involved
-  - **Integration Pre-Work spreadsheet** (May 27 17:33 UTC, IMPORTANT) — M&A integration planning with Krateo (Sona, Adria Passola)
-  - **Update on anti-submarine project** (May 27 14:57 UTC, IMPORTANT) — Submarine program ops coordination
-  - **Meeting Follow-Up (Akin Gump)** (Halie Peacher, May 27 12:18/11:55 UTC, IMPORTANT) — Legal coordination; Jack also responding to Peacher
-- **Continuing pattern:** Operational and communications lead for major partnerships and government programs.
+**Beck Cotter** (beck.cotter@blackswifttech.com) — Operations, communications, government coordination
+- **May 28–29 escalations:**
+  - **(U) Black Swift S0 VTOL UAS Weather Data Collection Proposal for Arctic Edge 2027** (Forwarded from Patricia Vollmer NORAD, May 28 13:52 UTC, IMPORTANT) — **Lead coordinator on Arctic Edge 2027 proposal; Jack, Daniel, Maciej responding**
+  - **LM/Black Swift Technologies MAD UAV Discussion** (Alasdair Brackenridge, Lockheed Martin, May 28 15:22 UTC, IMPORTANT) — UK MOD UAV partnership coordination (formal LM internal distribution to Neil Morphett, Dhruti Shah)
+- **Pattern:** Government program lead; escalating to formal LM/UK MOD engagement.
 
-**Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, operations, partnerships, vendor management
-- **May 27–28 signals:**
-  - **Update on anti-submarine project** (May 27 20:35 UTC, IMPORTANT) — Included in submarine program operations/financials coordination
-  - **Major Medical Renewal - Update** (Chad Atwood, The AIG Inc., May 27 14:05 UTC, IMPORTANT) — Employee benefits administration
-  - **Reminder about Invoice 1754** (Bryan Sparling, ByLight, May 27 14:03 UTC, IMPORTANT) — Vendor payment/procurement coordination
-  - **Black Swift Final Industrial Plan** (Sona Raziabeegum, May 27 22:56 UTC, IMPORTANT) — M&A financial/operational integration planning
-- **Continuing pattern:** Vendor/partner financial management; M&A integration support.
+**Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical partnerships, government coordination
+- **May 28–29 pattern:** Copied on Arctic Edge 2027 (S0) and UK MOD MAD UAV coordination; continuing international government liaison role.
+
+**Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, vendor management
+- **May 28 signal:**
+  - **Document Status** (Nadia Bryan, Ko Firm, May 28 12:35/17:22 UTC, IMPORTANT) — Legal/financial document coordination
 
 ---
 
@@ -52,32 +39,46 @@
 
 #### **Government / Defense Programs (ESCALATING)**
 
-**Lockheed Martin — UK Ministry of Defence Partnership (NEW ESCALATION)**
-- **Alasdair Brackenridge** (alasdair.brackenridge@global.lmco.com) — Lead contact
-- **Rory Turner** (rory.turner@global.lmco.com) — Support
-- **May 27–28 escalations (CRITICAL):**
-  - **EOI/UK MAD UAV project follow up** (May 27 16:16 UTC & May 28 08:04/08:02 UTC, IMPORTANT) — **Expression of Interest (EOI) for UK Ministry of Defence (MAD) UAV project; multiple rounds of coordination; Beck leading, Jack/Daniel/Maciej involved**
-  - **Pattern:** Formal government RFI/EOI response cycle; coordinated response required from technical and business teams.
+**UK Ministry of Defence — Merlin Mk2/MAD UAV Partnership (NEW ESCALATION)**
+- **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — MOD lead contact
+- **May 28–29 escalations (CRITICAL):**
+  - **RE: Merlin Mk2/US Navy SBIR** (May 28 16:33 UTC, May 29 07:50 UTC, IMPORTANT) — **UK MOD integration of US Navy SBIR program; direct MOD correspondence with Joshua Fromm, Jack Elston copied**
+  - **LM/Black Swift Technologies MAD UAV Discussion** (May 28 15:22 UTC, IMPORTANT) — **Alasdair Brackenridge (LM) formally escalating to Neil Morphett, Dhruti Shah (LM internal); copied Beck, Daniel, Maciej, Jack — indicates formal bilateral MOD/LM/Black Swift negotiation phase**
+- **Pattern:** Direct UK MOD engagement; maritime/submarine operations focus (Merlin Mk2 = helicopter platform); integration with US Navy programs.
 
-**US Navy — Anti-Submarine/MAD Program (ESCALATING)**
-- **Angel R Ruiz-Reyes, CIV USN NAWCAD** (angel.r.ruiz-reyes.civ@us.navy.mil) — Navy technical lead
-- **Anthony D Brescia, CIV USN NAWCAD** (anthony.d.brescia.civ@us.navy.mil) — Support
-- **May 27 escalation (IMPORTANT):**
-  - **RE: [Non-DoD Source] Re: S0 - MAD update** (May 27 20:19 UTC, IMPORTANT) — **Submarine/MAD program update; Jack in direct coordination with Navy technical leads; S0 designation suggests classified or controlled program phase**
-- **Cross-reference:** Krateo submarine project and Navy SBIR coordination align; likely same program family.
+**US Military — Arctic Operations (NEW CRITICAL ESCALATION)**
+- **Patricia A. Vollmer, CIV NORAD-USNC JOC** (patricia.a.vollmer.civ@mail.mil)
+- **May 28 escalation (CRITICAL):**
+  - **(U) Black Swift S0 VTOL UAS Weather Data Collection Proposal for Arctic Edge 2027** (May 28 19:45 UTC, IMPORTANT) — **Classified/controlled program designation (U = Unclassified but controlled); NORAD coordination; Arctic operations focus; direct to Beck, Jack**
+  - **Pattern:** NORAD leading Arctic Edge 2027 military operations; Jack/Beck responding on tactical/operational proposal
+- **Cross-reference:** Aligns with Navy/submarine coordination and international Arctic/maritime geopolitics.
 
-**NOAA Federal / Government Partnerships (BASELINE + NEW CONTACTS)**
+**US Navy — Anti-Submarine/SBIR Integration (CONTINUING)**
+- **Merlin Mk2/US Navy SBIR** thread (ongoing) — integration with UK MOD program indicates submarine/maritime focus sustained.
 
-**Joe Cione** (joe.cione@noaa.gov) — NOAA / Hurricane Research / SBIR
+**NOAA Federal — Expanded Engagement (ESCALATING)**
+
+**Mark E. Rogers** (mark.e.rogers@noaa.gov) — NOAA Federal leadership
 - **May 28 escalation (NEW):**
-  - **Co-Author Interview Invitation — 45 Minutes** (Jack initiated 00:22:55 UTC May 28, SENT) — **New pattern: Jack recruiting Joe for book/publication on values/purpose in business**
-  - **Prior context:** Joe also involved in NSF SBIR/STTR coordination (May 27 16:57 UTC thread, IMPORTANT)
-- **Expanding relationship:** NOAA science/operations partnership + emerging publishing/thought leadership collaboration.
+  - **FY 26 Hx Comms** (May 28 11:57 UTC, IMPORTANT) — **Hurricane program communication; Jack included in NOAA Federal network with Nikki Hathaway, Nikolai Pawlenko, Danielle Varwig, Jason Sippel, Joe Cione, Laura Rock**
+  - **Pattern:** Jack now embedded in formal NOAA Federal hurricane/operations coordination; leadership-level inclusion
 
-**Jun Zhang — NOAA Affiliate** (jun.zhang@noaa.gov)
-- **May 27 escalation (IMPORTANT):**
-  - **NSF deploys $250 million restart SBIR/STTR programs** (Jun forwarding to Jack, Maciej, Joshua Wadler, Joe Cione, May 27 12:47 UTC, IMPORTANT) — **Funding opportunity alert; Jack receiving direct NOAA coordination on federal R&D funding programs**
+**Joe Cione** (joe.cione@noaa.gov) — NOAA Hurricane Research
+- **May 28 escalation:**
+  - **Co-Author Interview Invitation — 45 Minutes** (Jack to Joe, May 28 12:41 UTC, SENT) — **Book/publishing collaboration recruitment** (continuing May 27 pattern)
 
-**Sonia Otero** (sonia.otero@noaa.gov) — Continuing baseline contact (UAS IWG requirements).
+**Krateo Sky (M&A Integration Partner)**
 
-####
+**Sona Raziabeegum** (sona@krateosky.com) — Operations/M&A lead
+- **May 28–29 escalations (CRITICAL M&A VOLUME):**
+  - **RE: Update** (May 29 04:31 UTC, IMPORTANT) — Integration status update
+  - **Quick ask: short bio for KrateoSky Investment Memorandum** (May 29 04:13 UTC, IMPORTANT) — Jack providing biographical content for investment documents
+  - **Black Swift Final Industrial Plan** (May 29 00:12 UTC & earlier, IMPORTANT) — Finalization of combined operational/business plan
+  - **FW: Black Swift - Punch List** (May 29 00:01 UTC, SENT) — Action item coordination
+  - **Recap: Today's Sync and Action Items** (May 29 00:17 UTC, SENT) — Daily operations synchronization
+  - **Thibault Bridel-Bertomeu** (Thibault@krateosky.com, May 29 00:04 UTC & 06:06 UTC, IMPORTANT) — Check-in; likely Krateo technical/operations lead
+- **Pattern:** Intensive daily M&A integration coordination; investment/financial documentation phase; industrial plan finalization in progress.
+
+**Bob Smith, Lisa Marie Cheney, Adria Passola, Brian Grubel** (Krateo Sky) — Technical/Operations coordination
+- **May 29 escalation:**
+  - **Fwd: (U) Black Swift S0 VTOL UAS Weather Data Collection

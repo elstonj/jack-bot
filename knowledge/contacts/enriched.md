@@ -1,349 +1,294 @@
 # Enriched External Contacts
 
-# Black Swift Technologies — Enriched External Contact Directory
+# Black Swift Technologies — External Contact Directory
 
 ## NASA
 
-### Key Government Aerospace Partner
-**Primary relationship:** Government sponsor for atmospheric and aerospace research contracts. NASA is Black Swift's most significant government client with 50+ contacts across JPL, ARC, GSFC, LARC, JSC, and other centers.
+### Headquarters & Multi-Center Contacts
 
-- **John Glass**
-  - Email: John.Glass-1@nasa.gov
-  - Role: NASA contact
-  - Projects: General aerospace partnerships
+**John Glass**
+- Email: John.Glass-1@nasa.gov
+- Role: NASA contact (program/center unspecified)
 
-- **Matthew M. Fladeland**
-  - Email: matthew.m.fladeland@nasa.gov
-  - Role: NASA research contact
-  - Context: Involved in atmospheric research programs
+**Thomas A. Weisz**
+- Email: thomas.a.weisz@nasa.gov
+- Role: NASA contact
 
-- **Jennifer L. Gustetic**
-  - Email: jennifer.l.gustetic@nasa.gov
-  - Role: NASA SBIR/program contact
-  - Context: NASA SBIR phase tracking; BST pursuing multiple Phase II opportunities
+**Matthew M. Fladeland**
+- Email: matthew.m.fladeland@nasa.gov
+- Role: NASA contact; likely atmospheric/earth science program involvement
 
-- **Marc Golombek** (JPL)
-  - Email: mgolombek@jpl.nasa.gov
-  - Role: JPL scientist contact
-  - Context: Mars rover/lander expertise; potential sensor integration
+**Stephan R. Kawa**
+- Email: stephan.r.kawa@nasa.gov
+- Role: NASA contact
 
-- **Andrew E. Johnson** (JPL)
-  - Email: Andrew.E.Johnson@jpl.nasa.gov
-  - Role: JPL technical contact
-  - Context: Autonomy/vision systems
+**Jennifer L. Gustetic**
+- Email: jennifer.l.gustetic@nasa.gov
+- Role: NASA contact; likely program management/coordination
 
-- **Tara Estlin** (JPL)
-  - Email: Tara.Estlin@jpl.nasa.gov
-  - Role: JPL autonomy systems contact
-  - Context: Flight software/autonomy projects (related to #2025-nasa-autonomy channel)
+### NASA Jet Propulsion Laboratory (JPL)
+
+**Andrew E. Johnson**
+- Email: Andrew.E.Johnson@jpl.nasa.gov
+- Role: JPL technical contact
+
+**Tara Estlin**
+- Email: Tara.Estlin@jpl.nasa.gov
+- Role: JPL contact; autonomy/rover operations expertise likely
+
+**Marc Golombek**
+- Email: mgolombek@jpl.nasa.gov
+- Role: JPL contact; Mars surface science background
+
+**Marco B. Quadrelli**
+- Email: marco.b.quadrelli@jpl.nasa.gov
+- Role: JPL systems engineering/flight dynamics
 
 ---
 
 ## NOAA (National Oceanic and Atmospheric Administration)
 
-### Key Government Weather/Atmospheric Partner
-**Primary relationship:** Government client/partner for atmospheric and weather research. Black Swift has 100+ NOAA contacts and active programs including boundary layer measurements and tropical cyclone reconnaissance.
+### Atmospheric Research & Field Operations
 
-- **Wayne M. Angevine**
-  - Email: wayne.m.angevine@noaa.gov
-  - Role: NOAA atmospheric research contact
-  - Projects: Boundary layer studies, atmospheric sensing
-  - Recent context: Involved in #25_1-navy-sttr-boundary-layer project (CAT flights, sensor validation)
+**Wayne M. Angevine**
+- Email: wayne.m.angevine@noaa.gov
+- Role: Atmospheric scientist; likely boundary layer/turbulence expertise
+- BST Context: **Active engagement** on Navy STTR Boundary Layer project; S0 UAS platform for hazardous weather/tropical cyclone sensing
 
-- **Annette Hollingshead**
-  - Email: (from Slack #sbir-volcano context)
-  - Role: NOAA program coordinator
-  - Projects: Monthly partnership meetings for NOAA programs
-  - Recent interaction: Ongoing monthly coordination on volcanic monitoring and atmospheric missions
+**Peter Wolf**
+- Email: peter.wolf@noaa.gov
+- Role: NOAA scientist/program contact
 
-- **Kirsten Boogard**
-  - Title: Project Manager (777 PM), NOAA
-  - Email: (from grants-and-funding Slack context)
-  - Role: NOAA grants management
-  - Context: Tracks NOAA proposal submissions and awards; BST pursuing NOAA funding opportunities
+**Gary Wick**
+- Email: gary.wick@noaa.gov
+- Role: NOAA oceanographic/atmospheric researcher
 
-- **Isaac Vimont**
-  - Email: isaac.vimont@noaa.gov
-  - Role: NOAA research contact
-  - Context: Atmospheric/cloud physics research
+**Allison McComiskey**
+- Email: allison.mccomiskey@noaa.gov
+- Role: Atmospheric/aerosol research
 
-- **Allison McComiskey**
-  - Email: allison.mccomiskey@noaa.gov
-  - Role: NOAA atmospheric aerosol/cloud contact
-  - Context: Payload integration for cloud/aerosol measurements
+**Noah Lawrence-Slavas**
+- Email: noah.lawrence-slavas@noaa.gov
+- Role: NOAA contact; likely remote sensing/data analysis
 
----
+**Nikolai Pawlenko** ⭐ **ACTIVE**
+- Email: nikolai.f.pawlenko@noaa.gov
+- Role: NOAA Federal; S0 aircraft ground station/operations liaison
+- BST Context: **Recent direct dialogue (May 28, 2026)** with Joshua Fromm on "Black Swift Ground station & Used S0" — indicates urgent operational requirements for S0 aircraft availability and ground station support for NOAA missions
+- Contact About: S0 platform availability, ground station integration, operational deployment
 
-## U.S. Navy / Department of Defense
+**Laura Rock**
+- Email: (not provided; discovered via Josh Fromm email thread)
+- Role: NOAA Federal; co-collaborator with Nikolai Pawlenko
 
-### Active Military Partner — Critical Growth Area
-**Primary relationship:** Emerging major DoD client with active SBIR Phase II projects and international defense partnerships. Multiple active programs with technical development focus.
+### Hurricane & Tropical Meteorology
 
-- **Angel R. Ruiz-Reyes** (CIV USN NAWCAD)
-  - Email: angel.r.ruiz-reyes.civ@us.navy.mil
-  - Organization: Naval Air Warfare Center Aircraft Division (China Lake)
-  - Title: Navy technical contact
-  - Projects: [550-1] NAVY SBIR: Magnetometer (Phase II active); [S0-MAD] Magnetic Anomaly Detection program
-  - Role: Technical POC for magnetometer integration and MAD platform development
-  - Recent interaction: Email marked IMPORTANT (27 May 2026); "S0 - MAD update" coordination
-  - Contact about: Magnetometer payload integration, flight test coordination, Navy technical requirements
-
-- **Anthony D. Brescia** (CIV USN NAWCAD)
-  - Email: anthony.d.brescia.civ@us.navy.mil
-  - Organization: Naval Air Warfare Center Aircraft Division (China Lake)
-  - Title: Navy technical peer/co-lead
-  - Projects: [550-1] NAVY SBIR: Magnetometer; [S0-MAD] MAD updates
-  - Recent interaction: Cc'd on Navy coordination emails (27 May 2026); NE27 site survey discussion
-  - Role: Technical evaluation and site testing coordination
-  - Contact about: Flight testing logistics, sensor evaluation, Navy facility access
-
-- **Matthew A. Swee** (Lt Col)
-  - Email: matthew.swee.1@us.af.mil
-  - Organization: USAF 63rd Air Refueling Squadron
-  - Title: USAF program contact
-  - Projects: "Tube Launched UAS" procurement/testing
-  - Recent interaction: Direct dialogue (27 May 2026, IMPORTANT); copied Albert Lowas (AMC/ST)
-  - Role: Air Force procurement and platform evaluation
-  - Contact about: Tube-launched aircraft program, Air Force mission requirements, flight testing
+**Sean Guerre** ⭐ **ELEVATED STRATEGIC**
+- Email: seang@stonefortgroup.com
+- Organization: Stonefort Group (external partner to NOAA)
+- Role: Hurricane forecast validation partner; co-developer/validator of BST hurricane forecasting capability
+- BST Context: **Rapid escalation (May 28, 2026)** — Double response within hours to hurricane drone data press release. Appears to have decision-making authority on hurricane forecast improvement validation. **Recent press release topic:** "Drone Data Improves Hurricane Forecasting Accuracy by 10% - NOAA Validated" (May 28, 2026, coordinated with Paige Smith/BST marketing)
+- Contact About: Hurricane forecast validation, NOAA partnership expansion, media/research announcements
 
 ---
 
-## UK Ministry of Defence / Lockheed Martin
+## U.S. Navy & Department of Defense
 
-### International Defense Partnership — Active EOI
-**Primary relationship:** Emerging UK/international defense client; Lockheed Martin acting as prime contractor. Currently in EOI (Expression of Interest) phase for MAD UAV platform.
+### Navy SBIR/STTR Program Contacts
 
-- **Alasdair Brackenridge**
-  - Email: alasdair.brackenridge@global.lmco.com
-  - Organization: Lockheed Martin Missiles & Fire Control (UK division)
-  - Title: UK MAD UAV program lead
-  - Projects: [UK-MAD-UAV] EOI/proposal development; UK Ministry of Defence partnership
-  - Recent interaction: Multiple IMPORTANT emails (27-28 May 2026); coordinating with Jack Elston, Maciej Stachura, Beck Cotter, Dan Prendergast
-  - Role: Prime contractor technical interface; proposal coordination
-  - Contact about: UK MAD platform requirements, Lockheed integration approach, Ministry of Defence timeline
+**Angel R. Ruiz-Reyes (CIV USN NAWCAD)** ⭐ **ACTIVE PRIMARY**
+- Email: angel.r.ruiz-reyes.civ@us.navy.mil
+- Organization: Naval Air Warfare Center Aircraft Division (NAWCAD)
+- Role: Navy SBIR Technical Point of Contact (TPOC); magnetometer program sponsor
+- BST Projects: **25_1-Navy-SBIR-Magnetometer** (Magnetic Anomaly Detection / MAD integration with QuSpin sensors)
+- Recent Activity: Sustained contact on "MAD update" (May 27, 2026); ongoing Phase II coordination and flight testing preparation (August TCE planned)
+- Contact About: Navy SBIR magnetometer program updates, flight testing schedule, QuSpin sensor integration, payload testing
 
-- **Simon Laurence**
-  - Email: Simon.Laurence157@mod.gov.uk
-  - Organization: UK Ministry of Defence
-  - Title: UK MOD contact for aerospace programs
-  - Projects: [Merlin Mk2] US Navy SBIR/UK MOD partnership; platform development
-  - Recent interaction: Direct dialogue with Jack Elston and Josh Fromm (27 May 2026, IMPORTANT)
-  - Role: UK government technical authority and requirements holder
-  - Contact about: UK MOD platform specifications, international coordination, development timeline
+**Patricia A. Vollmer (NORAD-USNC)** ⭐ **CRITICAL**
+- Email: patricia.a.vollmer.civ@mail.mil
+- Organization: NORAD/USNC
+- Role: Arctic Edge 2027 exercise coordinator; government proposal sponsor
+- BST Projects: **(U) Black Swift S0 VTOL UAS Weather Data Collection Proposal for Arctic Edge 2027** (Project codename S0; May 28, 2026 forwarded to Beck Cotter as IMPORTANT)
+- Recent Activity: Forwarded formal proposal request to BST leadership (May 28, 13:52 UTC); high-priority government exercise engagement
+- Contact About: Arctic Edge 2027 weather data collection missions, S0 VTOL platform requirements, proposal deliverables
 
----
+### Air Force Contacts
 
-## Krateo Sky / Anti-Submarine Program
+**Lt Col Matthew A. Swee** ⭐ **ACTIVE**
+- Email: matthew.swee.1@us.af.mil
+- Organization: USAF 63rd Air Refueling Squadron
+- Role: Air Force procurement/testing liaison; tube-launched UAS program sponsor
+- BST Projects: Tube-Launched UAS development (likely S0-derivative platform)
+- Recent Activity: **Active dialogue (May 28-29, 2026)** with Joshua Fromm on tube-launched UAS program; IMPORTANT emails
+- Contact About: Tube-launched UAS specifications, flight testing coordination, Air Force procurement requirements
 
-### Key Strategic Partner — Major M&A Integration
-**Primary relationship:** Active partnership/potential acquisition; heavy collaboration on anti-submarine and MAD programs. Intensive coordination on technical development and business integration.
-
-- **Bob Smith**
-  - Email: Bob@krateosky.com
-  - Organization: Krateo Sky
-  - Title: Krateo technical/business lead
-  - Projects: Anti-submarine program (MAD); camera systems integration; industrial planning
-  - Recent interaction: 8+ IMPORTANT email exchanges (27 May 2026); extensive Slack coordination with Maciej, Jack, Beck
-  - Role: Technical partner on submarine/MAD development; M&A integration lead
-  - Contact about: Anti-submarine payload integration, camera system compatibility, partnership technical roadmap
-
-- **Sona Raziabeegum**
-  - Email: sona@krateosky.com
-  - Organization: Krateo Sky
-  - Title: Krateo business/operations contact
-  - Projects: M&A integration; industrial planning; employment agreements
-  - Recent interaction: Multiple IMPORTANT emails (27 May 2026) on industrial plan coordination and partnership structure
-  - Role: Partnership integration and business development
-  - Contact about: M&A diligence, partnership structure, business planning
-
-- **Lisa Marie Cheney**
-  - Email: (from email context)
-  - Organization: Krateo Sky
-  - Title: Krateo vendor/partner contact
-  - Projects: Anti-submarine program; vendor brief participation
-  - Recent interaction: Vendor brief meeting coordination (27 May 2026)
-  - Role: Operational coordination and vendor management
-  - Contact about: Vendor relationships, technical integration, program logistics
+**Albert Lowas**
+- Email: (not explicitly provided; discovered via Lt Col Swee email)
+- Organization: AMC/ST (Air Mobility Command)
+- Role: Air Force technical/requirements authority
+- Contact About: Tube-launched UAS program coordination
 
 ---
 
-## Camera/Sensor Systems Vendors
+## UK Ministry of Defence & International Partners
 
-### C-Astral (Camera System Integration)
+### UK MOD – Merlin Mk2 / MAD UAV Partnership ⭐ **ESCALATING**
 
-- **Samo Stopar**
-  - Email: (c-astral.com)
-  - Organization: C-Astral
-  - Title: Camera system contact
-  - Projects: Atmolab camera integration; BlackSwift platform camera support
-  - Recent interaction: IMPORTANT escalation (28 May 2026); urgent technical support requests on camera compatibility
-  - Role: Vendor technical support and integration lead
-  - Contact about: Camera specifications, payload integration, firmware support
+**Simon Laurence** ⭐ **CRITICAL ESCALATION**
+- Email: Simon.Laurence157@mod.gov.uk
+- Organization: UK Ministry of Defence (MOD)
+- Role: Merlin Mk2 program lead; US Navy SBIR liaison
+- BST Projects: 
+  - **Merlin Mk2** (UK/US Navy small UAS development)
+  - **US Navy SBIR** (international partnership component)
+- Recent Activity: **Sustained active engagement (May 28-29, 2026)** with Joshua Fromm and Jack Elston on SBIR proposal and partnership execution; multiple IMPORTANT emails; cc'd to Joshua Fromm and Jack Elston for internal escalation
+- Contact About: Merlin Mk2 technical requirements, US Navy SBIR collaboration, UK MOD procurement timelines, international aircraft delivery
 
-- **Rok Tomazic**
-  - Email: (c-astral.com)
-  - Organization: C-Astral
-  - Title: Camera system engineer
-  - Projects: Atmolab camera; BlackSwift integration
-  - Recent interaction: Multiple technical exchanges (27-28 May 2026)
-  - Role: Technical engineering and payload integration
-  - Contact about: Camera firmware, payload mechanical integration, power/data interfaces
+### Lockheed Martin – UK MAD UAV Program ⭐ **NEW ESCALATION**
 
-### Next Vision Systems (DragonEye2 Hardware)
+**Alasdair Brackenridge** ⭐ **ESCALATING STRATEGIC**
+- Email: alasdair.brackenridge@global.lmco.com
+- Organization: Lockheed Martin (UK/Global Business Development)
+- Role: LM MAD UAV program lead; UK defense partnership orchestrator
+- BST Projects: **LM/BST MAD UAV EOI** (Expression of Interest escalation to formal partnership discussion)
+- Recent Activity: **Formal escalation (May 28, 2026)** — LM internal distribution to Neil Morphett (program manager), Dhruti Shah (technical lead); email titled "LM/Black Swift Technologies MAD UAV Discussion"; marked IMPORTANT
+- Signal: **Transition from informal EOI to formal internal LM review and partnership coordination**
+- Contact About: Lockheed Martin MAD UAV program scope, technical collaboration, commercial/government pathway, LM internal approval status
 
-- **Chani Ben Simon**
-  - Email: chani.bs@nextvision-sys.com
-  - Organization: Next Vision Systems
-  - Title: DragonEye2 Gen2 vendor contact
-  - Projects: [6700] DragonEye2 Gen2 camera system procurement
-  - Recent interaction: Multi-party vendor negotiation (4 emails, 27 May 2026); escalation/decision point
-  - Role: Primary vendor contact for camera/vision hardware
-  - Contact about: DragonEye2 Gen2 availability, specifications, delivery timeline, pricing
+**Neil Morphett**
+- Email: neil.morphett@global.lmco.com (inferred)
+- Organization: Lockheed Martin
+- Role: LM program manager (MAD UAV partnership)
 
-- **Oren Nissim**
-  - Email: oren.n@nextvisionltd.zohodesk.com
-  - Organization: Next Vision Ltd
-  - Title: Vendor coordination contact
-  - Projects: DragonEye2 Gen2 procurement
-  - Recent interaction: Cc'd on procurement discussions (27 May 2026)
-  - Role: Vendor account coordination
-  - Contact about: Procurement status, technical specifications, delivery logistics
-
-### Other Sensor/Camera Contacts
-
-- **Tobin Fisher**
-  - Email: (Vantage Robotics context)
-  - Organization: Vantage Robotics
-  - Title: Camera compatibility contact
-  - Projects: Camera system integration (27 May 2026 IMPORTANT)
-  - Role: Multi-party camera system integration discussion
-  - Contact about: Camera compatibility, system specifications, integration approach
+**Dhruti Shah**
+- Email: dhruti.shah@global.lmco.com (inferred)
+- Organization: Lockheed Martin
+- Role: LM technical lead (MAD UAV partnership)
 
 ---
 
-## Legal / Corporate Counsel
+## Camera & Sensor Integration Vendors ⭐ **CRITICAL INTEGRATION CRISIS**
 
-### Akin & Gump Strauss Hauer & Feld LLP (Primary Legal)
+### C-Astral (Primary Camera Vendor)
 
-**Relationship:** Major law firm handling M&A diligence, employment agreements, and corporate transaction matters. CRITICAL escalation in May 2026 with multi-attorney coordination.
+**Samo Stopar** ⭐ **URGENT**
+- Email: samo.stopar@c-astral.com
+- Organization: C-Astral (Slovenia-based camera systems)
+- Role: C-Astral technical lead; camera integration support
+- BST Context: **Escalating urgent technical support (May 28-29, 2026)** — Multiple daily exchanges on camera compatibility and integration failures; marked IMPORTANT with persistent urgent flags; critical path blocker for ongoing projects
+- Signal: **Sustained hardware compatibility crisis** requiring real-time troubleshooting
+- Contact About: Camera system troubleshooting, compatibility diagnostics, integration support, technical specifications
 
-- **Halie B. Peacher**
-  - Email: hpeacher@akingump.com
-  - Organization: Akin & Gump Strauss Hauer & Feld LLP
-  - Title: Lead attorney
-  - Projects: M&A diligence, corporate transactions, employment agreements
-  - Recent interaction: Lead attorney on "Meeting Follow-Up" thread (28 May 2026 03:19 UTC, IMPORTANT); 3 new messages
-  - Role: Primary transactional counsel
-  - Contact about: M&A terms, employment arrangements, corporate structure, deal closing
+**Rok Tomazic**
+- Email: rok.tomazic@c-astral.com
+- Organization: C-Astral
+- Role: C-Astral technical engineer; co-investigator on camera integration
+- Recent Activity: Multiple exchanges with Maciej Stachura and Jure Dolinar (May 28-29, 2026) on parallel camera system vendor coordination
 
-- **Cameron Peek**
-  - Email: cpeek@akingump.com
-  - Organization: Akin & Gump Strauss Hauer & Feld LLP
-  - Title: Transaction attorney
-  - Projects: M&A diligence, legal documentation
-  - Recent interaction: Rapid coordination with Jack Elston (27 May 2026 15:21–17:43 UTC, IMPORTANT); 5 new messages
-  - Role: Transactional support and documentation
-  - Contact about: Deal structure, legal documentation, closing items
+### Atmolab (Secondary Camera Vendor) ⭐ **NEW PARALLEL VENDOR**
 
-**Additional AK&M attorneys involved in May 2026 coordination:**
-- abellosalinas@akingump.com
-- aoshima@akingump.com
-- dmahoney@akingump.com
-- hjohn@akingump.com
-- mathompson@akingump.com
-- mye@akingump.com
-- ssriram@akingump.com
+**Jure Dolinar** ⭐ **NEW ACTIVE**
+- Email: jure.dolinar@atmolab.eu
+- Organization: Atmolab (EU-based camera systems)
+- Role: Atmolab technical contact; parallel camera system vendor
+- BST Context: **NEW active dialogue (May 28-29, 2026)** with Maciej Stachura and Dan Prendergast; appears to be escalating as alternative/complementary camera provider to C-Astral
+- Signal: **Multi-vendor camera integration strategy** — BST running parallel integration paths with C-Astral and Atmolab; suggests mitigation of integration risk
+- Contact About: Atmolab camera specifications, compatibility assessment, technical support, delivery timeline
 
-### Ko Firm (Employment/Investment)
+### Krateo Sky (Post-Acquisition Integration Partner) ⭐ **CRITICAL STRATEGIC**
 
-- **Nadia Bryan**
-  - Email: nbryan@kofirm.com
-  - Organization: Ko Firm
-  - Title: Investment/employment counsel
-  - Projects: Investment diligence, employment agreements
-  - Recent interaction: Ongoing diligence tracking (27 May 2026); 6 messages
-  - Role: Employment and investment agreement specialist
-  - Contact about: Employee agreements, investment terms, compliance matters
+**Bob Smith** ⭐ **DOMINANT EXTERNAL CONTACT**
+- Email: Bob@krateosky.com
+- Organization: Krateo Sky (BST post-acquisition integration)
+- Role: Krateo Sky lead contact; camera integration orchestration; operational liaison
+- BST Context: **Highest external email volume (May 28-29, 2026)** — 12+ daily coordinated exchanges across Maciej, Jack Elston, Dan Prendergast on camera support crisis; **forwarded classified Arctic Edge 2027 S0 VTOL proposal to full Krateo team (May 29, 01:02 UTC)**
+- Signal: **Post-acquisition integration now directly embedded in classified government projects**; camera integration crisis affecting Krateo team as well as internal BST teams
+- Contact About: Camera integration status, Krateo/BST integration progress, classified program coordination, technical specifications
 
-- **Niki Schwab**
-  - Email: nschwab@kofirm.com
-  - Organization: Ko Firm
-  - Title: Employment specialist
-  - Projects: Executive employment agreements, HR matters
-  - Recent interaction: Employment agreement review (27 May 2026 16:55 UTC, IMPORTANT)
-  - Role: HR and employment agreement coordination
-  - Contact about: Employment terms, executive agreements, compliance
+**Lisa Marie Cheney**
+- Email: Lisa.Marie.Cheney@krateosky.com (inferred)
+- Organization: Krateo Sky
+- Role: Krateo technical/operational team member; camera integration participation
 
-### Other Legal Contacts
+**Sona Raziabeegum** ⭐ **M&A INTEGRATION**
+- Email: sona@krateosky.com
+- Organization: Krateo Sky
+- Role: Krateo investment/business development; M&A integration lead
+- BST Context: **Active M&A integration coordination (May 29, 04:13 UTC)** with Jack Elston on "Black Swift Final Industrial Plan"; requesting bio documentation for investment memorandum
+- Signal: **Krateo remains active M&A partner through integration phase**; financial/business integration ongoing
+- Contact About: BST/Krateo integration milestones, investment memorandum updates, business plan coordination
 
-- **Kylie Sholty**
-  - Email: (katten.com context)
-  - Organization: Katten
-  - Title: External legal contact
-  - Role: Legal support for corporate matters
-  - Context: Involved in transactional/diligence work
+**Adria Passola, Brian Grubel**
+- Organization: Krateo Sky
+- Role: Krateo team members; camera integration participation (forwarded classified Arctic Edge proposal May 29)
 
 ---
 
-## Manufacturing / Fabrication / Supply Chain
+## Logistics & Supply Chain Partners
 
-### Aerospace Fabrication
+### International Battery/Component Logistics
 
-- **Lee Skidmore**
-  - Email: lee@rubiconaerospace.com
-  - Organization: Rubicon Aerospace
-  - Title: Aerospace fabrication vendor
-  - Projects: Launch tube validation; tube-launched UAS components
-  - Recent interaction: IMPORTANT email (27 May 2026 22:03:52 UTC, "Launch Tube Validate")
-  - Role: Specialized aerospace tube/launch system fabrication
-  - Contact about: Launch tube specifications, deployment systems, fabrication timeline
+**Robert Correia** ⭐ **CRITICAL PATH**
+- Email: rcorreia@aeronet.com
+- Organization: Aeronet (primary international logistics partner)
+- Role: Battery shipment logistics coordinator; customs liaison
+- BST Context: **Extremely high activity (May 27-29, 2026)** — Multiple rapid-cycle quote exchanges (IQinetics battery orders 141679, 141681); active customs/housebill coordination (103032172); critical path blocker for international operations
+- Recent Projects: Canadian battery shipment; international component procurement
+- Contact About: International battery shipments, logistics quotes, customs coordination, delivery timelines
 
-- **Jessica**
-  - Email: jessica@protospacemfg.com
-  - Organization: ProtoSpace Manufacturing
-  - Title: CNC/prototyping vendor
-  - Projects: CNC fabrication and prototyping for aircraft components
-  - Recent interaction: Escalated engagement (3 emails, 27 May 2026); rapid back-and-forth with Josh Fromm
-  - Role: Rapid fabrication and prototyping
-  - Contact about: Component specifications, delivery timeline, custom fabrication
+### Specialized Logistics Services
 
-### Component/Battery Suppliers
+**Scott Simpson** ⭐ **NEW ACTIVE**
+- Email: scott.simpson@cratersandfreighters.com
+- Organization: Craters & Freighters (specialty cargo handling)
+- Role: Cargo pickup/logistics coordinator
+- BST Context: **NEW engagement (May 2026)** with Dan Prendergast on cargo pickup coordination (C&F #916414); appears related to camera system or international equipment movement
+- Contact About: Cargo handling, specialized equipment logistics, pickup coordination
 
-- **Robert Correia**
-  - Email: rcorreia@aeronet.com
-  - Organization: Aeronet/Aeronet Logistics
-  - Title: Battery shipment and logistics coordinator
-  - Projects: International battery shipping (Canada/Arctic programs)
-  - Recent interaction: Active logistics coordination (27 May 2026, IMPORTANT); multiple shipping quotes and carnet handling
-  - Role: Logistics and supply chain coordination
-  - Contact about: Battery specifications, international shipping, customs/carnet documentation
-
-- **Sarah Heaney**
-  - Email: sheaney@atacarnet.com
-  - Organization: Atac Arnet (Customs Broker)
-  - Title: Customs/shipping broker
-  - Projects: International battery shipping documentation; carnet processing
-  - Recent interaction: Customs broker coordination (27 May 2026, IMPORTANT)
-  - Role: International shipping and customs specialist
-  - Contact about: Carnet documentation, customs procedures, shipping logistics
-
-- **Hailey Terrones**
-  - Email: hterrones@gateworks.com
-  - Organization: Gateworks
-  - Title: Components vendor
-  - Projects: Component sourcing and pricing
-  - Role: Technical component supplier
-  - Contact about: Component specifications, pricing, delivery
-
-### Servo/Motion Control
-
-- **Blue Bird Model**
-  - Organization: RC servo supplier
-  - Title: Servo components vendor
-  - Projects: Servo motor procurement (27 May 2026)
-  - Role: RC servo and motion control supplier
-  - Contact about: Servo specifications, inventory, delivery
+**Sarah Heaney / Carnets Team** ⭐ **CUSTOMS CRITICAL**
+- Email: atacarnet.com
+- Organization: Ataca Carnet (customs broker)
+- Role: Carnet processing for international shipping
+- BST Context: **Active engagement (May 2026)** with Dan Prendergast on battery shipment carnet processing to Canada; customs documentation for international operations
+- Contact About: Carnet processing, customs clearance, international shipping documentation
 
 ---
 
-## Aircraft
+## Propulsion & Electrical Components
+
+### Motor & ESC Suppliers
+
+**KDE (Brushless Motor Manufacturer)**
+- Status: COTS supplier (referenced in multiple slack channels)
+- BST Projects: S-series aircraft motors
+
+**T-Motor**
+- Status: COTS supplier; F60 motor selected for S0 platform (Sep 2020 decision in sbir-hurricane channel)
+- BST Projects: S0 propulsion
+
+**ServoCity**
+- Status: COTS supplier (servo/motion control components)
+- Recent Orders: #300044184 (May 27-29, 2026 shipment notifications)
+
+---
+
+## Legal & Financial Services ⭐ **CRITICAL ESCALATION**
+
+### Primary Counsel – Akin & Gump Strauss Hauer & Feld (AK&M)
+
+**Halie B. Peacher** ⭐ **CRITICAL LEAD ATTORNEY**
+- Email: hpeacher@akingump.com
+- Organization: Akin & Gump LLP (A&M)
+- Role: Lead transactional attorney; deal documentation/closing coordinator
+- BST Context: **CRITICAL ESCALATION (May 28-29, 2026)** — 5+ IMPORTANT flags in new batch; "Meeting Follow-Up" thread with Jack Elston on deal execution; **10+ firm attorneys mobilized**; **transition to closing phase**
+- Signal: **M&A transaction advancing rapidly toward closing**; multi-partner legal coordination; substantive documentation exchanges
+- Contact About: Deal documentation, closing timelines, transaction structure, regulatory compliance
+
+**Cameron Peek**
+- Organization: Akin & Gump LLP
+- Role: Co-counsel; transactional attorney
+
+### Secondary Counsel – Ko Firm
+
+**Nadia Bryan** ⭐ **ACTIVE ONGOING**
+- Email:

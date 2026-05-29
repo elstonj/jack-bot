@@ -105,8 +105,8 @@
 - **Service Accounts:** 2
 
 **Notes:**
-- All 17 roster entries verified and cross-referenced; no changes from previous sync
-- All contact information preserved and consistent across existing and new data
+- All 17 roster entries verified and consistent across existing and new data
+- All contact information preserved and cross-referenced
 - Three team members remain unclassified; recommend reaching out to leadership for role clarification
 - BST maintains an engineering-focused organization with balanced technical and administrative support
-- Directory is current and stable
+- Directory is current and stable; no changes from previous sync

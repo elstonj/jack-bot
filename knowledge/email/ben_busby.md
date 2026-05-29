@@ -1,5 +1,7 @@
 # Ben Busby — Email Patterns
 
-Only 1 emails found in scanned period.
+Only 3 emails found in scanned period.
 
-- Mon, 25 May 2026 06:02:13 +0000: Your Weekly WPForms Summary for bst.aero (from: Black Swift Technologies <ben.busby@blackswifttech.com>)
+- Thu, 28 May 2026 21:21:53 +0000: What finishes the work an EAP begins? (from: "'Concentra' via Administration" <admin@blackswifttech.com>)
+- Thu, 28 May 2026 12:40:43 -0700: Shifting focus from base OS maintenance to core features at Black Swift Technologies (from: Scott McFarland <smcfarla@redhat.com>)
+- Thu, 28 May 2026 12:31:17 -0500 (CDT): [WATCH NOW] What Golden Thread Regulations Mean for You (from: Egnyte <programs@egnyte.com>)

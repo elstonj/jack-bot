@@ -1,94 +1,103 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 250 emails (215 from prior period + 35 new from 26–28 May)
-- **Date range:** 18–28 May 2026 (11 days)
-- **Approximate volume:** Sustained high-velocity mixed promotional/administrative/operational messaging. 27 May: 29 emails (18 promotional routed through purchasing@, 4 Asana project notifications, 3 direct personal emails, 2 internal team coordination, 2 logistics); 28 May: 3 emails (2 invoice/receipt follow-ups, 1 DHL delivery notification).
-- **Pattern shift (confirmed):** 26 May evening shows concentrated multi-message thread between Alex, Jack Elston, and Daniel Prendergast regarding sales lead (thinklucid.com) — rapid response cycle. 27 May shows emergence of **government/military project activity** (Navy SBIR, UMES S3, MAD updates via DoD contacts).
+- **Total messages scanned:** 295 emails (250 from prior period + 45 new from 28–29 May)
+- **Date range:** 18–29 May 2026 (12 days)
+- **Approximate volume:** Sustained high-velocity mixed operational/promotional/logistics messaging. 28 May: ~28 emails (15 promotional/logistics routed through purchasing@, 5 internal team coordination, 3 vendor order updates, 3 payment/invoice confirmations, 2 direct personal). 29 May: ~8 emails (mostly promotional/logistics notifications, 1 import duty alert).
+- **Pattern shift (sustained):** Government/military project activity remains visible via internal team coordination (Arctic Edge 2027 VTOL proposal). **New signal:** Heavy international logistics activity (DHL import duty alerts, MYT timezone notifications suggesting Malaysia or Asia-Pacific shipments). Vendor/component procurement velocity remains elevated.
 
 ## Key Correspondents
 
-### Primary Internal Contacts — CRITICAL NEW GOVERNMENT/MILITARY LAYER
+### Primary Internal Contacts — Government/Military Projects
 
-**EMERGING: U.S. Navy & DoD Project Coordination**
-- **Angel R. Ruiz-Reyes (CIV USN NAWCAD)** (angel.r.ruiz-reyes.civ@us.navy.mil) — 1 email NEW (27 May 20:35 UTC); marked IMPORTANT
-  - **Context:** "RE: [Non-DoD Source] Re: S0 - MAD update"
-  - **Signal:** U.S. Navy China Lake (NAWCAD = Naval Air Warfare Center Aircraft Division); project codename "MAD" (Medium Altitude Drone or similar); non-DoD sourcing restrictions noted
-  - **Collaborators:** Anthony D. Brescia (CIV USN NAWCAD); Jack Elston (BST)
-  - **Implication:** BST engaged in Navy R&D contract with component/technology sourcing constraints
+**CRITICAL INTERNAL: Arctic Edge 2027 VTOL Weather Collection**
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — 1 email (28 May 15:50 UTC); marked IMPORTANT
+  - **Context:** "Re: (U) Black Swift S0 VTOL UAS Weather Data Collection Proposal for Arctic Edge 2027"
+  - **(U) classification:** Unclassified but marked for controlled distribution
+  - **Project codename:** S0 (consistent with prior Navy MAD communications)
+  - **Application:** Arctic Edge 2027 exercise; weather data collection; VTOL (vertical takeoff/landing) platform
+  - **Collaborators:** Maciej Stachura, Joshua Fromm
+  - **Signal:** High-priority government proposal; multi-team coordination (technical + project management)
 
-- **Anthony D. Brescia (CIV USN NAWCAD)** (anthony.d.brescia.civ@us.navy.mil) — 1 email (cc'd on Navy thread, 27 May)
-  - **Role:** Navy technical point of contact; appears as peer to Ruiz-Reyes in project chain
+- **Maciej Stachura** (stachura@blackswifttech.com) — 2 emails (28 May 15:47, 15:34 UTC); marked IMPORTANT
+  - **Role:** Project lead/technical coordinator on Arctic Edge proposal
+  - **Collaborators:** Beck Cotter, Joshua Fromm
 
-- **Jack Elston** (elstonj@blackswifttech.com) — 2 emails (26 May internal sales lead + 27 May Navy coordination); marked IMPORTANT
-  - **NEW ROLE:** Acts as BST interface to Navy DoD contacts on "S0 - MAD update" project
-  - **Dual function:** Sales/business development (thinklucid.com lead) + government contracts/technical coordination
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — 1 email (cc'd, 28 May 15:34 UTC)
+  - **Role:** Arctic Edge proposal team member (likely technical/engineering)
 
-### Primary Project Management — Asana
+- **Jack Elston** (elstonj@blackswifttech.com) — 1 email (28 May 10:14 UTC); marked IMPORTANT
+  - **New context:** "Re: CBS News Story" → Robert Marciano (CBS News)
+  - **Signal:** Jack acting as external communications/PR liaison; possible press coverage of BST work
+  - **Shift from prior:** Sales/government contracts → media relations
 
-- **Dan Prendergast via Asana** (no-reply@asana.com) — 2 Asana notifications (27 May 18:22 UTC); marked UNREAD/CATEGORY_UPDATES
-  - **Project 1:** [031-1] UMES S3 (new activity, 18:22:13)
-    - **Signal:** UMES = University of Maryland Eastern Shore or similar HBCU; "S3" possibly S-band or Satellite Segment 3
-  - **Project 2:** [550-1] NAVY SBIR: Magnetometer (new activity, 18:22:08)
-    - **Signal:** SBIR = Small Business Innovation Research (federal grant/contract program); magnetometer development; appears high-priority (550-series project numbering)
-  - **Pattern:** Rapid consecutive notifications suggest active multi-project sprint; Alex assigned to both initiatives
+### External Government/Military — Navy Contact (Sustained)
 
-### Direct Personal Email — High-Priority Tools
+- **Angel R. Ruiz-Reyes (CIV USN NAWCAD)** (angel.r.ruiz-reyes.civ@us.navy.mil)
+  - **Status:** No new email in this batch; prior contact on "MAD update" (27 May) sustained as key Navy interface
 
-- **Toggl Track** (support@track.toggl.com) — 1 email (27 May 23:25 UTC); marked UNREAD/IMPORTANT/INBOX
-  - **Signal:** Time tracking software; marked important by system; suggests time logging discipline for billable/tracked work
+### Payment/Financial Systems — Direct to Alex
 
-- **Gemini Notes via Google** (gemini-notes@google.com) — 1 email (27 May 19:53 UTC); marked IMPORTANT/INBOX
-  - **Subject:** "Notes: 'BST Internal Update Meeting' May 27, 2026"
-  - **Signal:** Alex attended/recorded internal company meeting 27 May; AI-generated note summary; suggests meeting notes distribution
+- **QuickBooks Payments** (quickbooks@notification.intuit.com) — 1 email (28 May 18:25 UTC); marked IMPORTANT
+  - **Subject:** "Payment confirmation: Invoice #SO-01545-(IQinetics Technologies Inc.)"
+  - **Signal:** Direct payment tracking; IQinetics (motion control/mechatronics supplier) invoice confirmed
+  - **Pattern:** Alex receives payment confirmations directly (previously saw Invoice #1109 routing to purchasing@)
 
-### Continued Sales/Operations Contacts
+- **Toggl Track** (support@track.toggl.com) — 1 email (29 May 00:23 UTC); marked IMPORTANT, (no subject)
+  - **Status:** Continued active use; marked important by system
 
-- **Jack Elston** — Confirmed as primary internal liaison for Navy projects and sales lead coordination
+### External Technical Contacts — Thermal Imaging Supplier
 
-### Component/Hardware Vendors — EXPANDED ECOSYSTEM
+- **Dan Jarvis (Teledyne)** (Dan.Jarvis@teledyne.com) — 1 email (28 May 21:12 UTC); marked IMPORTANT
+  - **Subject:** "Teledyne FLIR - Lepton XDS update"
+  - **Signal:** NEW direct contact from Teledyne FLIR; Lepton XDS = advanced thermal microbolometer module (miniaturized thermal imaging)
+  - **Implication:** BST evaluating or upgrading thermal sensor payload; Teledyne now direct contact (not just vendor digest)
+  - **Note:** Email self-addressed to Jarvis—likely forward/cc to Alex
 
-**RC/Drone Systems (Confirmed Active)**
-- **CaddxFPV** (service@caddxfpv.com) — 2 emails NEW (27 May 13:02–13:03 UTC); marked IMPORTANT/INBOX
-  - **Product:** CaddxFPV GM3 V2 (FPV camera system)
-  - **Pattern:** Direct to alex.lomis@ + duplicate to purchasing@; marked important; suggests active evaluation or procurement
+### Helicopter Platform Vendors — Sustained Activity
 
-- **HeliDirect** (sales@helidirect.com) — 1 email NEW (27 May 20:00 UTC)
-  - **Subject:** "🚁 Helicopter Newsletter | SAB Competizone | Nitron 50 | TX16S MK3"
-  - **Products:** SAB Goblin (helicopter platform), Nitron 50 (motor), TX16S MK3 (transmitter)
-  - **Recipient:** Routed to Meredith Needham (purchasing@blackswifttech.com) suggesting Meredith manages helicopter-class platform procurement
+- **HeliDirect** (sales@helidirect.com) — 1 email (28 May 20:00 UTC); routed to Meredith Needham
+  - **Subject:** "🚁 Introducing the ILGoblin Competizione from SAB"
+  - **Pattern:** New SAB helicopter variant; routed to purchasing (Meredith) not Alex directly; continued platform evaluation
 
-- **ServoCity®** (sales@servocity.com) — 1 email NEW (27 May 20:35 UTC)
-  - **Order #300044184** confirmed
-  - **Signal:** Motion control/mechanical components supplier; order confirmation suggests active assembly/prototyping
+- **ROTORTRADE** (info@rotortrade.com) — 1 email (29 May 07:00 UTC); marked IMPORTANT, sent to alex.lomis@bst.aero
+  - **Subject:** "Reflecting on the Inaugural Southeast Asia Aviation Safety Conference"
+  - **Signal:** NEW vendor; helicopter trading/brokerage; Southeast Asia focus; marked important by Alex
+  - **Implication:** International aviation network expansion; possible regional platform sourcing
 
-**Precision Electronics & Components — MAJOR NEW VENDORS**
-- **JawsTec** (info@jawstec.com) — 1 email NEW (27 May 20:10 UTC)
-  - **Status:** Order on its way (shipment notification)
-  - **Signal:** New vendor class; likely electronics/connectors/precision components
+### Hardware/Component Vendors — Sustained High Volume
 
-- **DIY500AMP.COM** — 1 email NEW (27 May 16:51 UTC)
-  - **Order #3058** confirmed
-  - **Signal:** High-amperage power distribution/management (500A systems); industrial electronics
+**Precision Manufacturing & Metal Fabrication**
+- **SendCutSend** — 3 emails (28 May 17:07, 17:22, 18:25 UTC; 1 prior delivery notification 28 May 16:14)
+  - **Order #S424H298:** Delivered 28 May 16:14
+  - **Order #SS97A808:** Quote + tracking active
+  - **Signal:** Repeated custom sheet metal/structural component orders; sustained fabrication activity
 
-**Thermal Imaging & Sensor Systems**
-- **Workswell** (sales@workswell.eu) — 1 email NEW (27 May 14:30 UTC); marked IMPORTANT/INBOX
-  - **Subject:** "Meet Workswell at Eurosatory 2026"
-  - **Signal:** SHIFT from Czech supplier (tomas.faltus@workswell.cz, 26 May) to EU regional sales; Eurosatory = major European defense/aerospace tradeshow; suggests evaluation/demo engagement
+- **DIY500AMP.COM** — 2 emails (28 May 16:51, 17:23 UTC)
+  - **Order status:** Shipping confirmed
+  - **Pattern:** Sustained high-amperage power distribution orders (500A systems)
 
-**Manufacturing & Fabrication Services**
-- **Protolabs** (news@protolabs.com) — 1 email NEW (27 May 12:59 UTC); marked IMPORTANT/INBOX
-  - **Subject:** "Get quotes in seconds. See for yourself!"
-  - **Signal:** On-demand precision manufacturing (CNC, 3D printing, injection molding); likely for custom component sourcing
+**Motion Control & Mechanical Systems**
+- **ServoCity®** — 3 emails (28 May 14:46, 14:49, 29 May 02:48 UTC); Order #300044184
+  - **Status:** Repeated order updates (14:46, 14:49 same-minute duplicates); 29 May status change
+  - **Signal:** Active assembly/integration work; frequent status checks suggest time-critical build
 
-- **CraftCloud®** (via Purchasing) — 1 email NEW (27 May 14:30 UTC)
-  - **Subject:** "Introducing 500 MB File Uploads: Your Most Complex Designs, Fully Supported"
-  - **Signal:** Manufacturing service platform (design upload for quoting/production); emphasis on complex designs suggests high-dimensional component specs
+- **Hobbywing (via HeliDirect routed to Purchasing)** — 1 email (29 May 04:03 UTC)
+  - **Product:** 3x RPM Sensor for High-Voltage ESC (86060041)
+  - **Signal:** Helicopter/drone motor speed feedback; routed to Meredith; indicates multi-unit platform build
 
-**Logistics & Fulfillment — EXPANDED**
-- **DHL Express** (NoReply.ODD@dhl.com) — 1 email NEW (28 May 07:30 UTC); marked IMPORTANT/INBOX
-  - **Service:** DHL On Demand Delivery (white-glove/premium routing)
-  - **Signal:** High-priority international or expedited domestic shipments
+**Electrical/Power Components**
+- **JawsTec** (briana@jawstec.com) — 1 email (28 May 22:15 UTC); marked CATEGORY_PROMOTIONS
+  - **Subject:** "Possible order delay"
+  - **Signal:** Order status issue; active vendor relationship flagged
+  - **Implication:** Component supply chain risk noted
 
-- **USPS Informed Delivery** — 1 email NEW (27 May 13:16 UTC)
-  - **Pattern
+- **Battery Junction** — 1 email (28 May 16:02 UTC); promotional alert routed to purchasing@
+  - **Pattern:** Continued battery/energy storage procurement
+
+**Logistics & Fulfillment — International Expansion**
+
+- **DHL Express** — 5 emails (28–29 May); shipment #3812290101 (repeat notifications)
+  - **29 May 04:11 UTC:** "Import Duty Payment Alert" (marked IMPORTANT; direct to alex.lomis@)
+  - **29 May 03:24, 03:59, 04:57 MYT; 28 May 12:09 MYT:** DHL shipment notifications (MYT = Malaysia Time, UTC+8)
+  -

@@ -5,7 +5,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination), Paige Smith (admin), Ethan Domagala (project coordination), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,430+ messages across multiple batches spanning from July 2020 through May 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through May 2026 with project refinements, AI assistant integration, NDAA compliance discussions, operational coordination, and formalized post-flight reporting processes. Most recent activity (May 27, 2026) shows ongoing discussions regarding battery export documentation and customs procedures for Mexico shipments.
+**Activity level:** High-volume channel with 3,430+ messages across multiple batches spanning from July 2020 through May 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through May 2026 with project refinements, AI assistant integration, NDAA compliance discussions, operational coordination, and formalized post-flight reporting processes. Most recent activity (May 28, 2026) shows ongoing procurement discussions and team coordination.
 
 ---
 
@@ -25,6 +25,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **December 2023:** Drill press acquisition decision pending. Joshua Fromm researching floor-mounted options (Nova 58000 Voyager, Grizzly models) with ~$500+ budget needed for tooling. Jack Elston requested spreadsheet comparison for budget approval.
 - **April 2023:** End-of-week cleanup task list implemented with color-coded tool inventory checks assigned to shop manager. Clipboard-based tracking without formal records (Jack Elston assigned responsibility).
 - **Lab equipment (2024):** JBC HDE Heavy-Duty soldering station recommended for production line work. 26AWG PTFE wire identified as correct specification for 2.00mm clickmate crimps (not ETFE).
+- **May 28, 2026:** Pending inquiry regarding availability of Gateworks boards for S0 ground stations for IDIQ contract (Joshua Fromm inquiry to Jack Elston).
 
 ### Lithium Battery Shipping (April 2022 - ongoing)
 **Major compliance discovery:** E2 and S2 batteries cannot be shipped internationally without hazmat certification. Multiple carriers (UPS, DHL) rejected shipments.
@@ -72,6 +73,4 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 ### NDAA Compliance (April 17, 2026)
 **Status Assessment:**
 - **S0-VTOL, S0-AD, E2:** Can be made NDAA compliant; self-certification process (no formal federal certification required)
-- **S3:** No electronics with final assembly in China; mechanical components currently manufactured in China but can be sourced domestically at increased cost; compliant or can be made compliant
-- **S0-AD:** Similar status to S3; electronic components need assessment; rotary latches contain electronics requiring review
-- **
+- **S3:** No electronics with final assembly in China; mechanical components currently manufactured in China but can be sourced domestically at increased cost; compl
