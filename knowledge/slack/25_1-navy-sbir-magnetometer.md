@@ -36,6 +36,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Ground test rig: Bartington sensor successfully integrated mechanically into ground test rig (May 6, 2026)
 - Bartington logging approach: CSV format output selected for Bartington sensor data logging (May 27, 2026)
 - Flight test methodology: 1-hour test of each logger deemed sufficient to satisfy Navy TPOC Angel Ruiz-Reyes requirements (May 27, 2026)
+- **Bartington sensor test configuration (May 28, 2026):** Confirmed sequential 1-hour test runs for each sensor (Bartington and QuSpin) with aircraft off, planned as initial baseline validation
 
 ## Projects & Initiatives
 
@@ -76,7 +77,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - **Launcher development:** Design phase (targeted completion during week of May 12-16, 2026 per Alex Lomis); parts ordering planned for June 15, 2026 to allow iteration before July 1st local mag flights
 - **Bartington sensor logging:** Dronecan logging program being updated to support Bartington sensor with dynamic memory allocation (Sam Hild working on this); CSV format logging confirmed working as of May 27, 2026
 - Status as of May 6, 2026: Team transitioning from S0-VTOL bug work to SBIR task prioritization
-- **Flight test planning (May 27, 2026):** Team preparing field testing with 1-hour Bartington sensor logging sessions; S1-22 testing being coordinated; wind window favorable until 3pm; both loggers to be tested before field deployment
+- **Flight test baseline validation (May 28, 2026):** Initial field testing completed with 1-hour sequential test runs for both Bartington and QuSpin loggers; photographic documentation captured for experimental setup
 
 **Royal Navy Engagement (May 2026 - active):**
 - Contact: Simon (Royal Navy contact), confirmed as program lead with secured funding as of May 21, 2026
@@ -86,5 +87,4 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
   - **RAVEN-J:** UK-specific payload with potential classification restrictions (F2F discussion needed)
 - Funding status: Simon has received funding; decision on which spirals to pursue TBD (likely single spiral focus due to budget constraints)
 - Priority alignment: First choice is MAD payload (RAVEN-M), aligned with US SBIR effort
-- Internal status: Jack Elston drafting initial response; team unaware of RAVEN codename as of May 21, 2026
-- Follow-up needed: S0-ISR variant identified as immediate need (
+- Internal status: Jack Elston drafting initial response

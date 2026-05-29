@@ -1,71 +1,84 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,903 (1,877 previous + 26 new)
-- **Date range:** March 24 – May 28, 2026 (66 days)
-- **Approximate volume:** ~28.8 messages per day (sustained consistency)
-- **Pattern:** New 26-message sample (May 27–28) continues **sustained ~80–85% automated/newsletter-driven baseline**. Heavy clustering on May 27 (20 messages 07:37–22:04 UTC). Consistent with professional intelligence aggregation + continuous platform notifications + political/governance breaking news + defense/aerospace industry monitoring + **sustained media relations activity + supplier sourcing + UAS/drone industry intelligence + geospatial technology monitoring + internal business operations visibility**.
+- **Total messages scanned:** 1,960 (1,903 previous + 57 new)
+- **Date range:** March 24 – May 29, 2026 (67 days)
+- **Approximate volume:** ~29.3 messages per day (sustained consistency)
+- **Pattern:** New 57-message sample (May 28–29) shows **DRAMATIC SHIFT in communication behavior**:
+  - **~75% of new messages are OUTBOUND MEDIA OUTREACH** (May 28, 12:16–16:04 UTC; concentrated ~4-hour window)
+  - **Single coordinated press release distribution campaign**: "Drone Data Improves Hurricane Forecast Accuracy by 10%" (with NOAA validation angle)
+  - **Target list: 20+ media outlets + meteorological services** (AccuWeather, Weather.com, National Geographic, Fox, CBS News, Aviation Week, Commercial UAV News, UAS Magazine, weather media)
+  - **Baseline automation/newsletters remain ~60–65% of incoming traffic** (sustained pattern)
+  - **NEW SIGNAL: Major media relations push on validated research result. Coordinated outreach to defense, aerospace, weather, UAS, and geospatial media simultaneously.**
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Senders
-1. **Jack Elston** (elstonj@blackswifttech.com, media@blackswifttech.com, jack@newgreenpow.com, elstonj@bst.aero) — **CRITICAL/ELEVATED/FEDERAL PARTNERSHIPS & INTERNAL OPERATIONS & MEDIA AGGREGATION & EXTREME ENVIRONMENTS PROJECT & MEDIA RELATIONS**:
-   - (Pattern sustained from May 26.)
-   - **Context:** Active CBS News media coordination; BST field trips; 7th Federal UxS Workshop coordination; cross-industry battery technology partnership.
+1. **Jack Elston** (elstonj@blackswifttech.com, media@blackswifttech.com, jack@newgreenpow.com, elstonj@bst.aero) — **CRITICAL/ELEVATED/FEDERAL PARTNERSHIPS & INTERNAL OPERATIONS & MEDIA AGGREGATION & EXTREME ENVIRONMENTS PROJECT & MEDIA RELATIONS & CBS NEWS COORDINATION**:
+   - **2 new messages (May 28)**:
+     - **Media coordination (1, IMPORTANT)**: "Re: CBS News Story" (May 28, 10:14 UTC) — **Ongoing CBS News feature coordination (sustained from previous pattern)**.
+     - **Forward from Paige (1)**: Paige forwards hurricane drone data press release to Jack (May 28, 13:00 UTC) — **Jack is primary internal escalation point for major media campaigns**.
+   - **Signal: SUSTAINED CRITICAL. Jack remains central hub for media strategy and external broadcast partnerships.**
 
-2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **ELEVATED/TECHNICAL COORDINATION & EXTERNAL PARTNERSHIPS**:
-   - (Pattern sustained.)
+2. **Sean Guerre** (seang@stonefortgroup.com) — **NEW/ELEVATED/EXTERNAL STRATEGIC PARTNER — HURRICANE FORECAST VALIDATION**:
+   - **3 new messages (May 28, 12:35–14:18 UTC)**:
+     - **Initial outreach (1)**: Paige sends hurricane data press release to Sean (May 28, 12:35 UTC).
+     - **Rapid response (2, both IMPORTANT)**: Sean replies twice within hours (May 28, 13:40 & 14:18 UTC):
+       - First reply: "Re: Drone Data Improves Hurricane Forecasting Accuracy by 10% - NOAA Validated" (May 28, 13:40 UTC)
+       - Second reply: "Re: Drone Data Improves Hurricane Forecasting Accuracy by 10% - NOAA Validated" (May 28, 14:18 UTC)
+   - **Signal: NEW/ELEVATED. Sean Guerre / Stonefort Group appears to be a **key validation partner or co-developer** for the hurricane forecasting capability. Rapid double-reply suggests urgent strategic importance or decision-making authority.**
 
-3. **Nikhila Ravikumar** (Nikhila@nanoveu.com) — **EXTERNAL TECHNICAL PARTNER, ELEVATED**:
-   - (Pattern sustained.)
+3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **ELEVATED/TECHNICAL COORDINATION** (pattern sustained, no new messages).
 
-4. **Joshua Baer / STATION Austin** (media@blackswifttech.com) — **ELEVATED/COMMUNITY & ENTREPRENEURSHIP HUB ENGAGEMENT**:
-   - (Pattern sustained.)
+4. **Nikhila Ravikumar** (Nikhila@nanoveu.com) — **EXTERNAL TECHNICAL PARTNER, ELEVATED** (pattern sustained, no new messages).
 
-5. **Vahid Eghtesad** (info@blackswifttech.com) — **ELEVATED/INVESTMENT & BUSINESS DEVELOPMENT**:
-   - (Pattern sustained.)
+5. **Joshua Baer / STATION Austin** — **ELEVATED/COMMUNITY & ENTREPRENEURSHIP** (pattern sustained, no new messages).
 
-6. **Rippling** (no-reply@rippling.com) — **NEW/ELEVATED/INTERNAL HR & OPERATIONS TASK MANAGEMENT**:
-   - **1 new message (May 27, 11:10 UTC)**: "Action required: You have pending tasks in Black Swift Technologies" — **NEW SIGNAL: Active task management platform for BST internal operations. Paige has pending operational tasks flagged**.
+6. **Vahid Eghtesad** (info@blackswifttech.com) — **ELEVATED/INVESTMENT & BUSINESS DEVELOPMENT** (pattern sustained, no new messages).
 
-### Top External Senders (Updated)
+7. **Rippling** (no-reply@rippling.com) — **ELEVATED/INTERNAL HR & OPERATIONS TASK MANAGEMENT**:
+   - **1 new message (May 28, 11:05 UTC)**: "Action required: You have pending tasks in Black Swift Technologies" — **Paige has active operational task flags. Consistent with sustained administrative/operational responsibilities.**
 
-1. **The New York Times** (editorpicks, nytdirect, breakingnews@nytimes.com) — **SUSTAINED VERY HIGH/POLITICAL, CULTURAL, ENVIRONMENTAL & FINANCIAL CONTENT PATTERN**:
-   - **3 new messages (May 27, 10:19–21:01 UTC)**:
-     - **Daily morning briefing (1, IMPORTANT)**: "The Morning: War. Heat. Cigarettes." (May 27, 10:45 UTC) — **Geopolitical + climate + consumer trends**.
-     - **Political feature (1, IMPORTANT)**: "Ocasio-Cortez's former chief of staff is running for Congress. She never mentions him." (May 27, 21:01 UTC) — **Continued political coverage**.
-     - **Election analysis (1, IMPORTANT)**: "7 takeaways from the Texas primaries" (May 27, 12:01 UTC) — **Texas GOP runoff analysis (sustained from May 26 election coverage)**.
-   - **Signal: SUSTAINED VERY HIGH. Daily political briefings + election analysis + geopolitical/climate awareness**.
+### Top External Senders (Updated — New High-Volume Pattern)
 
-2. **LinkedIn** — **SUSTAINED ELEVATION & ACTIVE ENGAGEMENT/PROFILE VISIBILITY & PROFESSIONAL NETWORK GROWTH & BST BUSINESS DEVELOPMENT & INDUSTRY GROUP PARTICIPATION & RECRUITMENT INTEREST**:
-   - **2 new messages (May 27, 07:37 & 17:38 UTC)**:
-     - **Job alert (1, IMPORTANT)**: "Turn on Royal Navy job alerts." (May 27, 07:37 UTC) — **NEW SIGNAL: Interest flagged in Royal Navy positions/partnerships. Possible government/defense sector opportunity exploration or business development angle**.
-     - **Client/industrial design request (1, IMPORTANT)**: "Black Swift Technologies, Industrial Design request from Chinchin Frugence Dagbomey and other clients are available. Show Requests." (May 27, 17:38 UTC) — **ELEVATED NEW SIGNAL: BST receiving solicitation requests on LinkedIn from external parties (Chinchin Frugence Dagbomey). Indicates company visibility for potential partnerships/design work. Paige may be handling inbound business development**.
-   - **Signal: SUSTAINED BST BUSINESS DEVELOPMENT + NEW EXTERNAL SOLICITATION ACTIVITY. Active engagement in defense sector (Royal Navy) + inbound partnership/design requests signaling growing company visibility**.
+#### **METEOROLOGICAL & WEATHER MEDIA (New High-Volume Target)**
 
-3. **Commercial UAV News / Commercial UAV Expo** (info@expouav.com) — **ELEVATED/INDUSTRY PARTNERSHIP & EVENT PARTICIPATION & MARKETING VISIBILITY**:
-   - **2 new messages (May 27, 10:30 & 09:02 UTC)**:
-     - **Newsletter sponsorship opportunity (1, IMPORTANT)**: "Your brand, front and center in the Commercial UAV News newsletter" (May 27, 10:30 UTC) — **ELEVATED SIGNAL: BST being pitched for marketing/sponsorship placement in major UAS industry newsletter. Indicates company marketing/visibility strategy**.
-     - **Event program (1)**: "Built by pilots, for pilots: the 2026 Pilot Hub program" (May 27, 09:02 UTC) — **Commercial UAV Expo pilot training/community engagement initiative**.
-   - **Signal: ELEVATED. BST actively positioned for industry marketing visibility + participation in major commercial UAV events/programs**.
+1. **AccuWeather** (PR@accuweather.com) — **NEW/ELEVATED/WEATHER MEDIA OUTREACH**:
+   - **2 messages (May 28)**:
+     - **Outbound (1)**: Paige sends hurricane data press release (May 28, 15:04 UTC).
+     - **Auto-reply (1, IMPORTANT)**: PR team auto-response (May 28, 21:07 UTC).
+   - **Signal: NEW. Major weather forecasting service targeted in coordinated press push.**
 
-4. **UAS Magazine** (noreply@bbiinternational.com) — **ELEVATED/DEFENSE & COMMERCIAL UAS INDUSTRY MONITORING**:
-   - **1 new message (May 28, 00:05 UTC)**: "US Army Awards Contract for Long-Endurance Drone Training and Integration, GA-ASI, US Air Force Demonstrate Manned-Unmanned Teaming, and More!" — **ELEVATED SIGNAL: Defense procurement tracking + manned-unmanned teaming (directly relevant to BST's extreme environments/UAS work)**.
-   - **Signal: SUSTAINED ELEVATED. Government UAS procurement + defense integration intelligence**.
+2. **Weather Underground** (press@wunderground.com) — **NEW/ELEVATED/WEATHER MEDIA OUTREACH**:
+   - **2 messages (May 28)**:
+     - **Outbound (1)**: Paige sends hurricane data press release (May 28, 14:56 UTC).
+     - **Response (1, IMPORTANT)**: "Re: Drone Data Improves Hurricane Forecast Accuracy by 10%" (May 28, 20:56 UTC) — **Positive engagement from Weather Underground**.
+   - **Signal: NEW/ELEVATED. Weather Underground responding to outreach (receptive contact).**
 
-5. **Geo Week News** (info@geo-week.com) — **ELEVATED/GEOSPATIAL TECHNOLOGY & INDUSTRY INTELLIGENCE**:
-   - **1 new message (May 27, 14:30 UTC)**: "Flood prediction, workforce pipelines, and your chance to weigh in" — **Geospatial + environmental monitoring + workforce development in geospatial sector**.
-   - **Signal: SUSTAINED. Active engagement with geospatial industry community**.
+3. **National Geographic** (ng@em.nationalgeographic.com, caitlin.holbrook@natgeo.com) — **NEW/ELEVATED/MAJOR MEDIA OUTREACH**:
+   - **2 messages (May 28)**:
+     - **Outbound (1)**: Paige sends hurricane data press release directly to Caitlin Holbrook, National Geographic (May 28, 15:19 UTC).
+     - **Inbound (1, IMPORTANT)**: National Geographic general broadcast "test1" (May 28, 22:13 UTC) — **Generic promotional, but inbox flagged IMPORTANT. May be tracked outreach response.**
+   - **Signal: NEW/ELEVATED. National Geographic is a key priority target for hurricane drone research.**
 
-6. **Geo-matching** (newsletter@geo-matching.com) — **NEW/ELEVATED/ADVANCED GEOSPATIAL TECHNOLOGY MONITORING**:
-   - **1 new message (May 27, 11:08 UTC)**: "Street-level imagery reconstructs cities as Gaussian Splats at scale, UAV LiDAR precisely measures the world's tallest tropical tree, and more products, videos, and case studies" — **NEW SIGNAL: Advanced geospatial + drone-based LiDAR + 3D reconstruction technology tracking. High technical relevance to BST's sensing/imaging capabilities**.
-   - **Sent to:** media@blackswifttech.com (shared company address, not personal).
-   - **Signal: NEW/ELEVATED. Cutting-edge geospatial + UAV sensor technology monitoring**.
+#### **AVIATION & DEFENSE MEDIA (New High-Volume Target)**
 
-7. **A&SF (Air & Space Forces Magazine)** — **SUSTAINED ELEVATED/DEFENSE & AEROSPACE INDUSTRY MONITORING**:
-   - **1 new message (May 27, 03:52 UTC)**: "Lawmakers Endorse Multiyear Buys for F-35, F-15EX" — **Defense procurement + aircraft modernization tracking**.
-   - **Signal: SUSTAINED. Defense platform procurement intelligence**.
+4. **Aviation Week** (guy.norris@aviationweek.com, warwick@aviationweek.com) — **NEW/ELEVATED/MAJOR DEFENSE/AEROSPACE MEDIA OUTREACH**:
+   - **2 outbound messages (May 28, 15:38–15:39 UTC)**: Paige sends hurricane drone data press release to two Aviation Week contacts (Guy Norris, Warwick correspondent).
+   - **Signal: NEW/ELEVATED. Aviation Week is priority defense/aerospace media contact for UAS research validation.**
 
-8. **DroneDeploy** (drone
+5. **Flight Global** (murdo.morrison@flightglobal.com, jon.hemmerdinger@flightglobal.com) — **NEW/ELEVATED/AVIATION INDUSTRY MEDIA OUTREACH**:
+   - **2 outbound messages (May 28, 16:03–16:04 UTC)**: Paige sends hurricane drone data press release to Flight Global contacts.
+   - **Signal: NEW/ELEVATED. Flight Global (Flightglobal) is key aviation/commercial UAS media outlet.**
+
+#### **COMMERCIAL UAS & SPECIALIZED DRONE MEDIA (New High-Volume Target)**
+
+6. **Commercial UAV News** (info@commercialuavnews.com) — **ELEVATED/UAS INDUSTRY MEDIA OUTREACH**:
+   - **2 messages (May 28)**:
+     - **Outbound (1)**: Paige sends hurricane data press release (May 28, 15:36 UTC).
+     - **Previous pattern (May 27)**: Newsletter sponsorship pitch (sustained from earlier data).
+   - **Signal: ELEVATED. Primary UAS industry news outlet for BST media placement.**
+
+7. **Drone Life** (harry@dronelife.

@@ -84,6 +84,13 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Current deployment model (manual APK loading followed by in-app updates via "About" page) makes device-level blocking unnecessary
 - Ben Busby to deactivate feature for customer Galaxy Tab Active5 5G testing
 
+**Flight Plan Map Packet Redesign (May 28, 2026 - Pending):**
+- Proposed simplification: Keep `FLIGHT_PLAN_MAP` request as-is for waypoint discovery, but refactor device behavior to request individual `FLIGHT_PLAN_WAYPOINT` packets only for missing waypoints
+- Rationale: Current tablet implementation may not align with autopilot expectations; occasional error messages on AP SWIL side related to FLIGHT_PLAN_MAP exchange state tracking
+- Additional benefit: Better optimization for low-rate communications scenarios
+- Proposed by: Ben Busby
+- Status: Awaiting discussion with autopilot lead to evaluate feasibility
+
 ## Projects & Initiatives
 
 **SwiftCore 3.2 Release (2021-2022):**
@@ -111,13 +118,4 @@ This channel serves as the primary technical communication hub for Black Swift T
 - **Recent Activity:** Jack Elston validating changes; testing scheduled with Maciej and Alex (April 8, 2026)
 
 **App Architecture Framework (2022-2024):**
-- **Status:** Completed and merged
-- **Purpose:** Replace old sensors folder approach with XML-based app configuration
-- **Features:** Payload serial configuration, command interfaces, sensor definitions
-
-**Multi-Radio GCS Support (April 2026-May 2026):**
-- **Status:** Merged to main branch (May 8, 2026) after flight testing and GCS validation completed
-- **Objective:** Enable single GCS to manage two UAS simultaneously
-- **Scope:** Changes to autopilot, comms_protocol, and web_controller repositories
-- **Resolved Issues:** Transmit command buffer overflow errors, per-aircraft system_init packet routing, redundant multi-device initialization requests
-- **
+- **Status:**

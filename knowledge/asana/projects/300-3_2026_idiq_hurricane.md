@@ -12,7 +12,7 @@
   - Invoice schedule: March 2026 – July 2026
   - **Critical hardware ship date:** May 27, 2026
   - **Final delivery deadline:** June 30, 2026
-- **Status:** **ACTIVE — BUT DATA INCONSISTENCY DETECTED.** Previous knowledge indicated 2 critical tasks due 5/22/26 in OPEN state with imminent May 27 ship deadline. New raw data shows 4 completely different OPEN tasks (all unassigned, no due dates) related to broader S0 production (20 units for 2026, 4 for Sasquatch, 1 for 2025 needs, 1 refurb from testing). **This suggests either:** (a) Asana project structure changed; (b) previous critical May 2026 tasks were completed/closed and new production phase tasks added; or (c) data sources are misaligned. **Action needed: Clarify current project state with Meredith O'hara Needham — are May 2026 critical shipments complete?**
+- **Status:** **ACTIVE.** Updated task list now shows 1 open task (Finalize deployment tube firmware, Jack Elston, due 5/29/26). Previous knowledge documented critical May 2026 hardware shipments as completed (2 SHOW s0's, tripods shipped 5/19/26). This alignment suggests project is progressing on schedule toward July 31 completion.
 - **Team Members:** 
   - Meredith O'hara Needham (project owner, shipments, invoice submissions)
   - Jack Elston (firmware/software development)
@@ -22,9 +22,8 @@
   - Alex Lomis (strategic partnerships, NASA opportunities)
   - Josh Fromm (GCS assembly, long-lead parts procurement)
 - **Risk Signals:** 
-  - ⚠️ **DATA INCONSISTENCY:** Previous knowledge documented critical May 22, 2026 tasks (2 SHOW s0 builds with 2025 parts, shipment to NOAA) in OPEN state. New data shows no tasks with May 2026 due dates; instead 4 unassigned production tasks with no due dates.
-  - ⚠️ **All 4 open tasks are UNASSIGNED.** This is unusual and requires clarification — are these placeholder/parent tasks, or is ownership genuinely unclear?
-  - ⚠️ **No due dates on new open tasks.** This breaks tracking against the 7/31/26 project end date and invoice milestones.
+  - ⚠️ **Deployment tube firmware due 5/29/26** — within critical May–June delivery window. Verify Jack Elston has capacity and no blockers.
+  - ⚠️ **Invoice 4 of 6 ($72k, due 6/5/26) approaching** — ensure hardware milestones align with invoice schedule.
 
 ## Key Deliverables & Milestones
 
@@ -37,14 +36,14 @@
 | 2 of 6 | $54,000 | 2026-04-14 | ✅ Completed |
 | Travel | $18,000 | 2026-04-15 | ✅ Completed |
 | 3 of 6 | $54,000 | 2026-05-04 | ✅ Completed (5/1 — 3 days early) |
-| 4 of 6 | $72,000 | 2026-06-05 | ⏳ Due in next invoice cycle |
+| 4 of 6 | $72,000 | 2026-06-05 | ⏳ Due soon |
 | 5 of 6 | $72,000 | 2026-07-02 | ⏳ Due later |
 | 6 of 6 | $72,000 | 2026-07-31 | ⏳ Due at project end |
 | **Subtotal** | **$483,000** | | |
 | **Ground Stations DO** | **$16,000** | **2026-05-12** | ✅ **Approved 5/12/26** |
 | **TOTAL** | **$499,000** | | |
 
-**Hardware Development Milestones (from previous knowledge):**
+**Hardware Development Milestones (Completed):**
 
 | Task | Owner | Due Date | Status | Notes |
 |------|-------|----------|--------|-------|
@@ -55,26 +54,42 @@
 
 ## Task Summary
 
-**Current Asana Status: 4 open tasks (all unassigned, no due dates)**
+**Current Asana Status: 1 open task**
 
-**Open Tasks (New Data):**
-1. **Build 20x S0 for 2026** | Unassigned | No due date | Status: OPEN
-2. **Build 4x S0 for sasquatch** | Unassigned | No due date | Status: OPEN
-3. **Build 1x S0 to satisfy 2025 delivery needs** | Unassigned | No due date | Status: OPEN
-4. **Refurbish 1x S0 from clear air testing** | Unassigned | No due date | Status: OPEN
+| Task | Owner | Due Date | Status |
+|------|-------|----------|--------|
+| **Finalize deployment tube firmware** | Jack Elston | 2026-05-29 | OPEN |
+
+**Task Completion:** 
+- **Completed:** 4 tasks (100% of historical milestones)
+- **Open:** 1 task (firmware finalization)
+- **Overall:** High completion rate; project tracking well against milestones.
 
 **Notable Patterns:**
-- **All tasks unassigned:** Requires clarification whether these are parent/summary tasks or genuinely unowned work items.
-- **No due dates:** Breaks tracking against project milestones and invoice schedule. Should be assigned and dated.
-- **Production totals:** 20 (2026) + 4 (Sasquatch) + 1 (2025 needs) + 1 (refurb) = 26 units total in backlog — exceeds 20-unit NOAA contract by 6 units (likely related projects or internal builds).
+- **Jack Elston owns software/firmware track** — has delivered Vaisala fix on time; deployment tube firmware due end of May aligns with invoice 4 (due 6/5).
+- **Hardware teams (Nate Straus et al.) have delivered all May milestones early** — 2 SHOW s0's and tripods shipped 5/19, 8 days ahead of May 27 deadline.
+- **All invoices through May 4 submitted on time or early** — strong financial tracking; next invoice (4/6, $72k) due 6/5 is gated on firmware completion.
 
 ## Recent Activity
 
-**Data Conflict Detected:**
-- Previous knowledge file referenced May 2026 as critical phase with 2 high-priority tasks due 5/22 (Nate Straus s0 builds and Meredith O'hara Needham shipment).
-- New raw data shows no May 2026 tasks; instead shows 4 unassigned, undated production tasks with broader scope (2026 batch, Sasquatch, 2025 backlog, refurbishment).
-- **Possible interpretation:** Critical May 2026 milestones (2 SHOW s0's with 2025 parts, shipment to NOAA) were completed or closed out and are no longer appearing in open task list. Current Asana reflects next production phase (20-unit 2026 build, other platform work).
+**Latest Closed Milestones (May 2026):**
+- ✅ **2 SHOW s0's built and shipped** (5/19/26, ahead of 5/27 deadline)
+- ✅ **2 SHOW tripods built and shipped** (5/19/26)
+- ✅ **Invoice 3 of 6 ($54k) submitted** (5/1/26 — 3 days early)
+- ✅ **Ground Stations Delivery Order approved** (5/12/26)
 
-**Recommendation:** Contact Meredith O'hara Needham to confirm:
-1. Status of May 27, 2026 shipment to NOAA (UASD Lakeland + UxSOC Silver Spring).
-2. Whether previous critical
+**Current Focus:**
+- 🔄 **Jack Elston finalizing deployment tube firmware** (due 5/29/26) — critical path item for hardware integration and Invoice 4 submission (~6/5/26).
+
+**Upcoming Milestones:**
+- ⏳ **Invoice 4 of 6 ($72k) due 6/5/26** — gated on firmware completion and hardware readiness.
+- ⏳ **Project completion & final deliveries due 6/30/26** (before 7/31 contract end).
+- ⏳ **Final invoices 5 & 6 due 7/2 and 7/31/26**.
+
+## Notes & Context
+
+- **Strong execution to date:** All hardware milestones delivered early (May 19 vs. May 27 target); all invoices submitted on or ahead of schedule through May.
+- **Next critical gate:** Firmware finalization (5/29/26). Jack Elston on track; monitor for any integration blockers downstream.
+- **Invoice rhythm stable:** Invoices align with hardware delivery and development phases; no gaps or delays observed.
+- **Team capacity:** Nate Straus, Sam Hild, and Maciej Stachura have delivered hardware validation/build work efficiently. No resource bottlenecks flagged.
+- **Long-term partnership:** Six-year history with NOAA (SBIR Phase I → II → ID

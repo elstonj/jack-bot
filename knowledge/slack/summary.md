@@ -1,69 +1,75 @@
 # Slack Channels Overview
 
-Last scanned: 2026-05-28 02:16
+Last scanned: 2026-05-29 02:15
 
-Total channels scanned: 11
+Total channels scanned: 10
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 8 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#25_1-navy-sttr-boundary-layer** -- 3 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
-- **#emass-bst** -- 6 messages -- [emass-bst.md](emass-bst.md)
-- **#flight-testing** -- 2 messages -- [flight-testing.md](flight-testing.md)
-- **#general** -- 1 messages -- [general.md](general.md)
+- **#25_1-navy-sbir-magnetometer** -- 13 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#25_1-navy-sttr-boundary-layer** -- 1 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
+- **#commercial-sales** -- 1 messages -- [commercial-sales.md](commercial-sales.md)
+- **#emass-bst** -- 2 messages -- [emass-bst.md](emass-bst.md)
+- **#flight-testing** -- 3 messages -- [flight-testing.md](flight-testing.md)
 - **#grants-and-funding** -- 1 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#marketing** -- 2 messages -- [marketing.md](marketing.md)
-- **#operations** -- 2 messages -- [operations.md](operations.md)
-- **#s3** -- 24 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 1 messages -- [sbir-hurricane.md](sbir-hurricane.md)
-- **#swiftcore** -- 9 messages -- [swiftcore.md](swiftcore.md)
+- **#marketing** -- 6 messages -- [marketing.md](marketing.md)
+- **#operations** -- 7 messages -- [operations.md](operations.md)
+- **#s3** -- 11 messages -- [s3.md](s3.md)
+- **#swiftcore** -- 2 messages -- [swiftcore.md](swiftcore.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Strategic Slack Channel Overview
-
-## Active Projects
-- **S0 UAS**: Hurricane reconnaissance platform (mature, active testing)
-- **S3 VTOL**: Long-endurance hybrid fixed-wing/quadcopter (in development)
-- **SwiftCore**: Drone firmware/control system (core platform, ongoing)
-- **E2 Platform**: Multirotor with ECSDoT energy management integration (active collaboration with eMASS AI)
-- **Navy SBIR/STTR Programs**: Magnetometer integration and boundary layer sensing projects (government-funded R&D)
-
-## Key Decision-Makers & Roles
-- **Jack Elston**: Overall leadership, funding strategy, technical oversight, firmware architecture
-- **Joshua Fromm**: Lead engineer/QA, hardware design, component sourcing
-- **Maciej**: Project oversight, flight testing, control systems analysis
-- **Dan Prendergast**: Business development, proposals, operations coordination
-- **Meredith Needham**: Budget management, Navy liaison, administrative coordination
+# Black Swift Technologies - Slack Channel Strategic Overview
 
 ## Cross-Channel Themes
 
-### Technical Integration
-- Multiple aircraft platforms (S-series fixed-wing, E2 multirotor, S3 VTOL) share firmware/autopilot infrastructure (SwiftCore)
-- Payload integration patterns repeating across platforms (magnetometers, energy systems, sensing)
-- Jack Elston and Maciej appear in nearly all technical channels as connectors
+### Active Projects
+- **Navy SBIR Magnetometer**: Integrating QuSpin magnetometers with aircraft for Magnetic Anomaly Detection (MAD)
+- **Navy STTR Boundary Layer**: Atmospheric sensing on S0 UAS for hazardous weather/tropical cyclone research
+- **S3 VTOL Development**: Hybrid fixed-wing/quadcopter with tilting rotors, targeting 2-3 hour endurance
+- **SwiftCore System**: Core drone platform firmware and tablet application (most active channel)
+- **ECSDoT Integration**: eMASS AI energy management hardware integration onto E2 aircraft
+- **Commercial Operations**: E2, S2, S3, S0, S0-VTOL aircraft delivery and customer support
 
-### Government Funding Pipeline
-- Heavy focus on SBIR/STTR programs (Navy, DOD agencies)
-- Grants-and-funding channel drives project selection and timeline constraints
-- Direct correlation between funded projects (#25_1-navy-*) and active development channels
+### Key People & Roles
 
-### Operational Bottlenecks
-- Hardware sourcing and component availability appear regularly across #operations and #flight-testing
-- Flight testing coordination is continuous across multiple platforms with shared team members
-- Integration timelines often depend on external partners (eMASS AI, Navy contacts)
+| Person | Primary Role | Channels |
+|--------|-------------|----------|
+| Jack Elston | Leadership/Systems Architecture | All major channels |
+| Maciej | Project Oversight/Flight Testing/Analysis | Most technical channels |
+| Joshua Fromm | Hardware Lead/QA/Component Sourcing | S3, Flight Testing, Operations |
+| Ben Busby | Tablet App/Software Development | SwiftCore, Flight Testing |
+| Sam Hild | Firmware Development | Magnetometer, S3, SwiftCore |
+| Meredith Needham | Finance/Admin/Grants Support | Operations, Grants, Navy projects |
+| Dan Prendergast | Proposals/Grants | Boundary Layer, Grants |
 
-## Recurring Decision Patterns
-1. **Jack Elston** drives strategic/funding decisions; technical teams implement
-2. **Maciej** leads hands-on problem-solving and flight test validation
-3. **Joshua Fromm** manages hardware constraints and procurement
-4. **Navy projects** receive priority due to structured timelines and funding
-5. Flight testing results inform design iterations across platforms
+### Decision Patterns
+- **Jack Elston** drives strategic decisions across funding, technical direction, and customer relationships
+- **Navy project contacts** (Meredith Needham as administrator) provide project structure and requirements
+- **Technical leads** (Maciej, Joshua Fromm) own implementation decisions within their domains
+- **Collaborative validation**: Flight testing results drive firmware iterations and design refinements
 
-## Information Flow
-- **#general**: Company-wide announcements and cross-project updates
-- **#grants-and-funding**: Sets project roadmap and timelines
-- **#operations**: Tracks resource allocation and blockers
-- **#flight-testing**: Reality-checks technical designs with operational data
-- Project-specific channels (#sbir-hurricane, #s3, #swiftcore): Detailed execution
-- **#emass-bst**: External partner collaboration pattern
+### Recurring Topics
+
+| Topic | Context | Impact |
+|-------|---------|--------|
+| Firmware Updates | SwiftCore, Flight Testing | Core platform stability |
+| Flight Test Troubleshooting | Flight Testing, SwiftCore | Hardware/software validation |
+| Payload Integration | Commercial Sales, Navy projects | Customer-specific requirements |
+| Hardware Sourcing | Operations, S3, Commercial | Supply chain management |
+| Grant/SBIR Progress | Navy projects, Grants | Revenue and R&D funding |
+| Customer Delivery | Commercial Sales, Operations | Revenue realization |
+
+### Cross-Channel Connections
+
+1. **Navy R&D → Commercial Pipeline**: SBIR/STTR projects (magnetometer, boundary layer sensing) generate technology and experience flowing into commercial offerings
+2. **SwiftCore Platform Stability → All Flight Operations**: Core firmware quality directly impacts all project flight testing and customer deliverables
+3. **S3 Development → Future Commercial**: S3 VTOL is under development for eventual commercial/defense applications
+4. **Payload Integration Hub**: Multiple channels (Navy projects, Commercial Sales, Flight Testing) converge on payload integration requirements
+5. **Leadership Bandwidth**: Jack Elston's presence across all strategic decisions creates strong information flow but potential single-point-of-failure risk
+
+## Organizational Health Indicators
+- **High technical collaboration**: Consistent cross-team communication on integration challenges
+- **Strong government portfolio**: Multiple active Navy contracts providing stable revenue
+- **Distributed platform strategy**: S-series (fixed-wing) and E-series (multirotor) serving different market segments
+- **Active flight testing cadence**: Regular validation cycle suggests mature operations
