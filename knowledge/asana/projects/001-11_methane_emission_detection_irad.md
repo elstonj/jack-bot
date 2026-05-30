@@ -4,12 +4,12 @@
 - **Client/Customer:** Internal R&D project (IRAD), with pilot testing at PDCE facility and engagement with Crowheart Energy
 - **Dollar Value:** Targeting $1M investment (open task, unassigned)
 - **Timeline:** Project started in early 2023; Annual Report 2024 completed September 2024; Annual Report 2025 due September 1, 2025
-- **Status:** **🚨 CRITICAL DATA QUALITY ISSUE — DO NOT RELY ON ASANA FOR CURRENT STATUS.** Raw Asana data shows 0 open tasks and only 1 completed task (monthly invoices, Jan 2024) as of November 28, 2023. This is **9+ months stale** and contradicts documented project progress: Annual Report 2024 completed September 6, 2024; Crowheart Energy pilot in active progress; patent work ongoing. **Work is actively being tracked outside Asana or project structure has fundamentally shifted.** Recommend immediate confirmation with Maciej Stachura on current tracking system and actual project status before relying on any Asana dates or task assignments.
+- **Status:** 🚨 **CRITICAL DATA QUALITY ISSUE — DO NOT RELY ON ASANA FOR CURRENT STATUS.** Raw Asana data shows 0 open tasks and only 1 completed task (bench top testing, Feb 2024) as of November 28, 2023. This is **9+ months stale** and contradicts documented project progress: Annual Report 2024 completed September 6, 2024; Crowheart Energy pilot in active progress; patent work ongoing. **Work is actively being tracked outside Asana or project structure has fundamentally shifted.** Recommend immediate confirmation with Maciej Stachura on current tracking system and actual project status before relying on any Asana dates or task assignments.
 - **Team Members:** Maciej Stachura (owner), Jack Elston, Josh Fromm, Nate Straus, plus whole BST team
 - **Risk Signals:** 
-  - 🚨 **CRITICAL:** Asana data decay — last meaningful update Nov 28, 2023; no visibility into 9+ months of documented work
+  - 🚨 **CRITICAL:** Asana data decay — last meaningful update Nov 28, 2023; no visibility into 9+ months of documented work through September 2024
   - 🚨 **CRITICAL:** 10+ unassigned business development tasks (customer outreach, investment close, patent applications) remain without clear owners or due dates
-  - Annual Report 2025 due September 1, 2025 — owner/status unknown (4 months away)
+  - Annual Report 2025 due September 1, 2025 — owner/status unknown (4 months away as of early 2025)
   - Patent work stalled (Jack Elston's tasks lack deadlines; IP disclosure risk)
   - Crowheart Energy MVP demo status unknown (MSA executed, vendor onboarded Feb 2024, but no recent activity visible in Asana)
   - Project marked as "Low" priority despite $1M revenue potential
@@ -27,7 +27,7 @@
 ## Task Summary
 - **Current Asana View (Nov 28, 2023 — 9+ months stale):** 
   - 0 open tasks visible
-  - 1 completed task: "Submit monthly invoices" (due Jan 2, 2024; completed Jan 5, 2024)
+  - 1 completed task: "Perform bench top testing with methane input. Characterize rise time and if there is drift over ~2hrs" (Josh Fromm, due Feb 15, 2024; completed Feb 16, 2024)
   - **⚠️ This view is severely incomplete** — contradicts documented project progress showing active work through Sept 2024 and ongoing pilots. Almost certainly a filtered, archived, or incomplete view.
 - **Historical Task Tracking (from prior comprehensive data):**
   - 164 total tasks documented across project history
@@ -35,6 +35,7 @@
   - Tasks by Assignee:
     - Jack Elston: 3 open tasks (patent work, flight testing)
     - Nate Straus: 1 open task (gas detector calibration — on hold)
+    - Josh Fromm: 1 completed task (bench top testing)
     - Unassigned: 10 critical open tasks (Annual Report 2025, product pilot, $1M investment, customer outreach, HRM follow-up, patent applications)
 - **Notable Patterns:** 
   - Heavy historical completion of technical development tasks
@@ -44,11 +45,11 @@
 
 ## Recent Activity
 - **September 2024:** Annual Report 2024 completed (not visible in current Asana raw data)
-- **February 2024:** Crowheart Energy vendor onboarding completed; ready for MVP demo
-- **January 5, 2024:** Monthly invoices submitted (completed)
+- **February 2024:** Crowheart Energy vendor onboarding completed; ready for MVP demo; bench top testing completed by Josh Fromm (Feb 16, 2024)
+- **January 2024:** Monthly invoices submitted
 - **November 13, 2023:** Delta Brick and Climate coal mine survey completed — notes indicate "first revenues" expected
-- **Earlier 2024:** PDCE Ridge Test, COI to Crowheart, bench testing, METEC controlled leak testing completed
-- **August 30, 2023:** Annual Report due Sept 1, 2023 completed
+- **Earlier 2024:** PDCE Ridge Test, COI to Crowheart, METEC controlled leak testing completed
+- **August 30, 2023:** Annual Report 2023 completed
 - **Asana Activity:** Minimal in raw data — latest snapshot Nov 28, 2023; contradicts actual project progress documented through Sept 2024
 
 ## Notes & Context
@@ -72,4 +73,4 @@
 2. **High Priority — Owner Assignment:** Assign DRI/owner for unassigned business development tasks with explicit due dates aligned to Annual Report 2025 (Sept 1, 2025) and investment timeline
 3. **Immediate Action:** Schedule Crowheart Energy MVP demo (MSA already executed Feb 2024, team onboarded) to validate product and unlock investment conversation momentum
 4. **Patent Risk:** Establish Jack Elston deadline for first patent filing within 30 days to prevent IP disclosure window from closing
-5. **Customer Outreach:** Prioritize HRM Resources follow-up (Dan Kelly, Roger Hutson, Barb Mittleman) to activate warm investor/customer connections before Sept 2025 reporting deadline
+5.

@@ -63,10 +63,10 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "New professor at CU Boulder (Jazlynn Hall) interested in E2 system with custom sensor payload options (multispectral, thermal, lidar preferred but cost-constrained). Estimate sent 2026-04-10. Customer will not purchase until August 2026 when new position starts. Receive-by date 2026-08-31 confirmed in recent Slack activity. KEEP signal: explicit receive_by date in future (2026-08-31) within 6 months + substantive recent Slack engagement (2026-05-20). Note: CU Boulder has separate QBO invoices for IRISS repair (Inv #1759) and INSTAAR projects\u2014those are distinct customer entities.",
+  "notes": "New professor Jazlynn Hall at CU Boulder seeking E2 system with custom sensor payload (preferred: multispectral, lidar, thermal; fallback: RGB) for scientific research. Estimate sent 2026-04-10. Customer will not purchase until August 2026 when new position starts. Receive-by 2026-08-31 confirmed via recent Slack updates (2026-05-18 through 2026-05-20). KEEP signal: explicit receive_by within 6 months + substantive recent Slack engagement. Note: CU Boulder has separate QBO invoices for IRISS repair (Inv #1759) and INSTAAR projects\u2014those are distinct customer entities/builds.",
   "missing_fields": [
     "ship_to",
     "invoice_amount"
   ],
-  "last_evidence_date": "2026-05-21"
+  "last_evidence_date": "2026-05-28"
 }

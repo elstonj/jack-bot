@@ -37,6 +37,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Bartington logging approach: CSV format output selected for Bartington sensor data logging (May 27, 2026)
 - Flight test methodology: 1-hour test of each logger deemed sufficient to satisfy Navy TPOC Angel Ruiz-Reyes requirements (May 27, 2026)
 - **Bartington sensor test configuration (May 28, 2026):** Confirmed sequential 1-hour test runs for each sensor (Bartington and QuSpin) with aircraft off, planned as initial baseline validation
+- **QuSpin filter configuration (May 29, 2026):** Decided to enable 10Hz low-pass filter on QuSpin logger for next test week; need to verify custom filter options available in QuSpin profile loading feature per Jeff's prior mention
 
 ## Projects & Initiatives
 
@@ -78,13 +79,8 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - **Bartington sensor logging:** Dronecan logging program being updated to support Bartington sensor with dynamic memory allocation (Sam Hild working on this); CSV format logging confirmed working as of May 27, 2026
 - Status as of May 6, 2026: Team transitioning from S0-VTOL bug work to SBIR task prioritization
 - **Flight test baseline validation (May 28, 2026):** Initial field testing completed with 1-hour sequential test runs for both Bartington and QuSpin loggers; photographic documentation captured for experimental setup
-
-**Royal Navy Engagement (May 2026 - active):**
-- Contact: Simon (Royal Navy contact), confirmed as program lead with secured funding as of May 21, 2026
-- Project codename: **RAVEN** (Royal Navy designation)
-  - **RAVEN-M:** Magnetic Anomaly Detection (MAD) - aligned with US Navy, first priority payload
-  - **RAVEN-ISR:** Intelligence/Surveillance/Reconnaissance variant
-  - **RAVEN-J:** UK-specific payload with potential classification restrictions (F2F discussion needed)
-- Funding status: Simon has received funding; decision on which spirals to pursue TBD (likely single spiral focus due to budget constraints)
-- Priority alignment: First choice is MAD payload (RAVEN-M), aligned with US SBIR effort
-- Internal status: Jack Elston drafting initial response
+- **Sensor data analysis & optimization (May 29, 2026):**
+  - QuSpin data comparison between November 2025 and May 29, 2026 showing significant differences in DC/near-DC component
+  - May 29 data issues identified: quantization to 10nT (high resolution loss), possible high-frequency aliasing above 500Hz logging rate
+  - QuSpin sensor configuration: 500Hz data rate, LPF enabled but previously had inverted logic ("enable_lpf" actually disabled filtering)
+  - Decision pending on filter frequency selection—considering 10Hz option but need to verify

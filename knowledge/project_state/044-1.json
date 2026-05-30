@@ -26,10 +26,10 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 28856.25,
+        "amount": 29075.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-28"
+        "last_updated": "2026-05-30"
       },
       "purchases": {
         "amount": 0.0,
@@ -43,13 +43,13 @@
         "confidence": "exact",
         "last_updated": "2026-04-22"
       },
-      "total": 28903.05,
+      "total": 29121.8,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 61096.95,
+    "remaining": 60878.2,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-28T09:02:57Z"
+    "last_reconciled": "2026-05-30T09:06:55Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -90,12 +90,6 @@
     {
       "source": "FEEDBACK",
       "author": "Daniel Prendergast",
-      "date": "2026-04-29",
-      "text": "From Daniel Prendergast: <@U0AQE94HJUT> FYI, my priority today is to make slides for the 53rd Weather Squadron and SOCOM visit this Friday.  EMASS validation flights probably won't happen today.  We cannot perform those flights until they send us a new controller binary in the emass-bst slack channel.  EMASS validation flight #3 will most likely be Monday at the earliest.  EMASS validation flight #2 possibly tomorrow."
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Daniel Prendergast",
       "date": "2026-05-14",
       "text": "From Daniel Prendergast (ts=1778699117.961899): <@U0AQE94HJUT> CU IRISS training is complete.  EMASS Validation Flight #2 is postponed indefinitely until they get us a functioning controller."
     },
@@ -124,6 +118,6 @@
       "text": "From Daniel Prendergast: <@U06KRHPQSRH> did EMASS ever pay the second invoice?"
     }
   ],
-  "last_full_rebuild": "2026-05-28T09:02:57Z",
+  "last_full_rebuild": "2026-05-30T09:06:55Z",
   "last_incremental_update": null
 }

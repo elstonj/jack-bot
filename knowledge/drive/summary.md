@@ -1,55 +1,80 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-05-29 02:22
+Last scanned: 2026-05-30 02:24
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 6 files — [federal_projects.md](federal_projects.md)
-- **Sales** — 3 files — [sales.md](sales.md)
+- **Federal Projects** — 13 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 7 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Strategic Drive Overview
+# Black Swift Technologies — Strategic Google Drive Overview
 
 ## Summary Statistics
-- **Total files across drives:** 9
-- **Total folders:** 1
-- **Date range:** 2022-02-07 to 2099-01-24
-- **Last activity:** 2026-05-28 (recent and active)
+- **Total documents:** 20 files across 2 primary drives
+- **Active period:** 2022–2099 (Federal drive established 2022; Sales drive activity concentrated May 2026)
+- **Key editors:** Beck Cotter (Federal), Meredith Needham (Sales)
 
-## Drive Breakdown
+---
 
-### Federal Projects (6 files)
-**Purpose:** Federal proposal infrastructure and compliance  
-**Key assets:**
-- 3 technical volume templates (Runtime Assured Autonomy, DAF Agile EW, Internal budget)
-- Progress reporting template (v2.1, updated Feb 2024)
-- Compliance guidance folder (Buy American Standard Exemption)
+## Drive-Specific Insights
 
-**Observations:**
-- Well-organized for federal RFP responses
-- Templates appear current and actively maintained by Beck Cotter and Jack Elston
-- Single compliance subfolder suggests focused document hierarchy
+### Federal Projects Drive
+**Purpose:** Federal compliance, proposals, and NOAA project delivery  
+**Document volume:** 13 files | Minimal folder structure (1 subfolder)
 
-### Sales (3 files)
-**Purpose:** Product/vehicle documentation and specifications  
-**Key assets:**
-- UMES S3 VTOL Freight product information
-- Amprius SA112 technical documentation (PDF spec sheet + UN test summary)
+**Key observations:**
+- Heavily focused on single active project: **NOAA UxS Ops Center** (Chidong Zhang LOI)
+- Contains reusable templates and compliance assets at root level (budget template, data assertions, meeting notes)
+- Duplicate LOI/ROM documents suggest version control management or approval iterations
+- Future-dated modifications (2099, 2026) indicate either template placeholders or system anomalies
 
-**Observations:**
-- Minimal organizational structure (no folders)
-- Recently updated files suggest active sales support (2026-05-28)
-- Likely supporting business development for VTOL/freight solutions
+**Strengths:** Centralized templates; clear project folder for deliverables  
+**Attention needed:** Clarify duplicate LOI documents; verify accuracy of future-dated timestamps
 
-## Cross-Drive Patterns
-- **Federal drive** = proposal infrastructure (templates, compliance)
-- **Sales drive** = product datasheets and technical specs
-- No apparent overlap or shared templates between drives
+---
 
-## Areas of Note
-- **Limited documentation scale:** Only 9 files across 2 drives suggests either nascent shared drive adoption or reliance on other collaboration spaces (Teams, email, individual drives)
-- **Sales folder organization:** Could benefit from subfolders (by product, customer, or project type)
-- **Future template reuse:** Federal templates could potentially serve Sales proposals if standardized
+### Sales Drive
+**Purpose:** Transaction documentation and logistics for product sales  
+**Document volume:** 7 files | 3 folders with nested structure
+
+**Key observations:**
+- Heavily transactional: invoices, bills of lading, shipping labels for S3 VTOL freight
+- Organized by customer/project: Dan Hesselius account (CU Boulder) and UMES shipment (May 2026)
+- Recent activity only (all 2026-05-29); unclear if archival structure exists
+- Mix of PDFs and image documentation (photos of labels/shipments)
+
+**Strengths:** Clear customer/project separation; comprehensive shipment documentation  
+**Attention needed:** Establish retention/archival policy; consolidate duplicate shipment assets (multiple label images)
+
+---
+
+## Cross-Drive Patterns & Observations
+
+| Aspect | Federal | Sales |
+|--------|---------|-------|
+| **Organization** | Minimal folder depth | Customer/project-based structure |
+| **Document types** | Proposals, compliance, templates | Invoices, logistics, shipping |
+| **Client focus** | Government (NOAA) | Commercial (CU Boulder, UMES) |
+| **Active clients** | 1 major (NOAA) | 2 (Dan Hesselius/CU Boulder, UMES) |
+
+---
+
+## Recommendations
+
+1. **Naming conventions:** Standardize document names across drives (e.g., remove "(1)" duplicates; use date formats consistently)
+2. **Version control:** Implement clear versioning for duplicate documents (Federal: LOI ROMs)
+3. **Archival:** Establish policy for Sales drive transaction documents; currently only May 2026 activity visible
+4. **Templates:** Leverage Federal drive templates (budget, proposal framework) for Sales proposals if applicable
+5. **Timestamp validation:** Verify 2099 and 2026 modification dates; correct if data entry errors
+6. **Growth planning:** Both drives have minimal folder depth—consider deeper hierarchy as document volume grows
+
+---
+
+## Missing Context
+- No visibility into other drives (e.g., Operations, HR, Finance, Marketing)
+- No document count trends or velocity
+- Archive drives status unknown

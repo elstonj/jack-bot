@@ -4,14 +4,15 @@
     "[212-2] NASA S2 & Parts"
   ],
   "period": {
-    "start": "2026-05-15",
-    "end": "2026-05-16"
+    "start": "2026-05-28",
+    "end": "2026-05-30"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 306.29,
+    "expenses": 34.99,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 306.29
+      "Inventory Asset": 17.5,
+      "DIRECT COSTS:DC-Direct Material Purchases": 17.49
     }
   },
   "invoices": [],
@@ -19,19 +20,29 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-05-15",
-      "doc_number": "98333666",
-      "total": 306.29,
-      "attributed": 306.29,
+      "date": "2026-05-29",
+      "doc_number": "",
+      "total": 139.97,
+      "attributed": 34.99,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "Ordered 3/20 - not charged until item is in stock",
+      "memo": "No Asana request - Jack made purchase directly and Slacked message",
       "lines": [
         {
-          "amount": 306.29,
+          "amount": 34.99,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "SENSOR OPTICAL I2C, SERIAL"
+          "description": "Logitech K400 Plus Wireless Touch TV Keyboard - for S2 simulator"
+        },
+        {
+          "amount": 34.99,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Logitech K400 Plus Wireless Touch TV Keyboard - for S2 simulator"
+        },
+        {
+          "amount": 69.99,
+          "account": "Inventory Asset",
+          "description": "Logitech K400 Plus Wireless Touch TV Keyboards x 2 - for 2 future S2 simulator sales"
         }
       ]
     }

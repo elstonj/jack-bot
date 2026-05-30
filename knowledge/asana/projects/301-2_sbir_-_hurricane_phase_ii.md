@@ -52,6 +52,7 @@
 - **Deployment Tube** (Josh Fromm, completed 2024-01-17)
 - **Tablet** (Jack Elston, completed 2024-07-16) — Minimum Viable configuration
 - **Construct parachute modules** (Unassigned, completed 2024-02-15)
+- **Construct MHTP modules** (Josh Fromm, completed 2024-08-17) — Final module assembly completed
 
 **MHTP & Algorithm Deliverables (2023-2024)**:
 - **Eyewall Following Algorithm** (Dan Prendergast, Due: 2024-02-16, Completed: 2024-02-27) — Two primary modules explored: "eyewall" and "inflow" modules, with UAS launched in hurricane eye and directed toward eyewall for evaluation
@@ -108,5 +109,4 @@
 - Parachute module construction and integration
 
 **Contractual & Support Framework**: 
-- GPC (Dr. Cione) and UPC (Dr. Jun Zhang) serve as Subject Matter Experts for non-contractual technical questions
-- Any technical disagreements or contractual changes
+- GPC (Dr. Cione) and

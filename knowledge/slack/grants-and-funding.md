@@ -8,7 +8,7 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 **Activity Level:** Extremely high throughout the period (March 2024 - May 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Pace remains intense through May 2026 with rapid sequential submissions, immediate transition to next batch of proposals, transitioning into implementation/integration planning phase, and active pursuit of new competitive opportunities. Significant external partnerships and customer engagement alongside proposal work. As of late May 2026, focus includes proposal review and refinement, competitive analysis and positioning against peer vendors, technical preparation for demonstrations, and rapid hardware adaptation decisions. Activity continues into late May 2026 with ongoing proposal management and acknowledgments.
 
-**Time Range:** March 3, 2024 - May 28, 2026
+**Time Range:** March 3, 2024 - May 29, 2026
 
 ---
 
@@ -78,4 +78,4 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
   - **April 27:** Genesis proposal nearly complete and ready for submission
   - **April 30 SUBMITTED:** DOE Genesis Mission proposal successfully submitted with $336K to BST total budget ($293K subcontract to BNL), Period of Performance starts 7/1/2026
 
-### Recent Proposal Review & Refinement (May 2026
+- **DOD SBIR 2026 P1 

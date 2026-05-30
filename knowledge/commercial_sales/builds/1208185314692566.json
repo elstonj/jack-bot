@@ -63,11 +63,11 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Academic research project for Alaska coastline erosion surveys. Customer (Julia Moriarty, University of Colorado) requested quote for drone rental + technician services OR LiDAR system purchase for 10-day deployment to Utquiagvik, Alaska in summer 2026. KEPT: substantive recent Slack activity (2026-05-20) and explicit future receive_by date (2026-08-31) within 6-month window override Asana 'Next Steps (Sales)' = 'No action needed' and $0.00 closed/estimated values. Estimate sent; awaiting customer decision.",
+  "notes": "Academic research project for Alaska coastline erosion surveys. Customer (Julia Moriarty, University of Colorado) requested quote for drone rental + technician services OR LiDAR system purchase for 10-day deployment to Utquiagvik, Alaska in summer 2026. Kept due to substantive recent Slack activity (2026-05-20) and explicit future receive_by date (2026-08-31) within 6-month window, overriding Asana 'Next Steps (Sales)' = 'No action needed' and $0.00 closed/estimated values. Estimate sent; awaiting customer decision.",
   "missing_fields": [
     "ship_to",
     "estimate_date",
-    "invoice_amount"
+    "estimate_amount"
   ],
-  "last_evidence_date": "2026-05-21"
+  "last_evidence_date": "2026-05-28"
 }
