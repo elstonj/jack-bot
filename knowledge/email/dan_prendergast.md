@@ -1,87 +1,73 @@
 # Dan Prendergast — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 69 (updated from 45)
+- **Total messages scanned:** 91 (updated from 69)
 - **Date range:** 25 May – 29 May 2026
-- **Approximate volume:** High sustained activity; 28 May exceptionally dense (15+ messages); mix of real-time logistics coordination, technical vendor support, and government/defense proposal engagement
+- **Approximate volume:** High sustained activity; 29 May shows concentrated morning burst (08:06–10:03 UTC-6) followed by afternoon/evening coordination; mix of real-time logistics, technical vendor support, government/defense proposal engagement, and business development
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Jack Elston** (elstonj@blackswifttech.com) — strategic business development; government/defense outreach; Merlin Mk2/SBIR coordination with UK MOD; proposal lead
-- **Maciej Stachura** (stachura@blackswifttech.com) — **elevated frequency:** technical/project lead; camera systems integration (Atmolab, C-Astral); Arctic Edge 2027 proposal; swarm/KhanBMS coordination
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — senior proposal/strategic groups; Arctic Edge 2027 VTOL proposal forwarding
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — **NEW:** Merlin Mk2/US Navy SBIR coordination; UK MOD liaison (appears to be point person for Laurence correspondence)
+- **Jack Elston** (elstonj@blackswifttech.com) — strategic business development; government/defense outreach; Merlin Mk2/SBIR coordination; Arctic Edge 2027 proposal lead; MHP data alignment discussion
+- **Maciej Stachura** (stachura@blackswifttech.com) — technical/project lead; camera systems integration; Arctic Edge 2027 proposal; swarm/KhanBMS coordination; Arctic Edge discussion invitee
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — senior proposal/strategic groups; Arctic Edge 2027 VTOL proposal; NOAA coordination (Chidong Zhang liaison); organizer of NORTHCOM discussion (Wed Jun 3)
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Merlin Mk2/US Navy SBIR coordination; UK MOD liaison; Atmolab camera support technical routing
 
 ### Top External Contacts
-- **Robert Correia** (rcorreia@aeronet.com) — **critical path:** battery shipment logistics; multiple rapid-cycle quote exchanges (141679, 141681); housebill 103032172; customs coordination
-- **Samo Stopar & Rok Tomazic** (c-astral.com) — **extremely high activity:** camera system vendor; active technical support cycle (27–29 May); appears to be blocking/critical integration work
-- **Jure Dolinar** (jure.dolinar@atmolab.eu) — **NEW:** Atmolab camera system vendor; technical support coordination (parallel to C-Astral)
-- **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — **strategic:** UK Ministry of Defence; Merlin Mk2/US Navy SBIR correspondence (routed to Joshua Fromm and Jack Elston)
-- **Scott Simpson** (scott.simpson@cratersandfreighters.com) — **NEW:** Craters & Freighters logistics; cargo pickup coordination (C&F #916414)
-- **Sarah Heaney / Carnets Team** (atacarnet.com) — customs broker; carnet processing for battery shipment to Canada
-- **Bob Smith** (Bob@krateosky.com) — vendor brief participation; camera support discussion involvement
+- **Robert Correia** (rcorreia@aeronet.com) — **critical path:** battery shipment logistics; quote optimization (141679, 141681); housebill 103032172; Craters & Freighters pickup coordination (C&F #916414); multiple rapid exchanges 08:06–10:03 on 29 May
+- **Jure Dolinar** (jure.dolinar@atmolab.eu) — **elevated frequency:** Atmolab camera system vendor; active technical support cycle (08:32–15:14 UTC); forwarded to internal technical team (Fromm, Domagala, Lomis) for evaluation
+- **Scott Simpson** (scott.simpson@cratersandfreighters.com) — **critical execution:** Craters & Freighters logistics; cargo pickup coordination (C&F #916414); time-sensitive handoff
+- **Chidong Zhang** (chidong.zhang@noaa.gov) — **NEW:** NOAA Federal; S0™ VTOL platform discussion; routed through Beck Cotter; appears to be government customer evaluation
+- **Arthur Shune** (arthur@skymesasystems.com) — **NEW:** SkyMesa Systems; EW (Electronic Warfare) proposal discussion
+- **Nikhila Ravikumar** (Nikhila@nanoveu.com) — **NEW:** NanoVeu; latest stable binary coordination (software/platform support)
+- **Lisa Marie Cheney** (LisaMarie@krateosky.com) — Krateo Sky; Atmolab camera support discussion participation
+- **Tanay Topac** (tanaytopac@stanford.edu) — **NEW:** Stanford; MHP data alignment coordination (routed via Jack Elston)
+- **Government Contacts:**
+  - **patricia.a.vollmer.civ@mail.mil** — **NEW:** US military (.mil); Arctic Edge 2027 discussion invitee (NORTHCOM liaison)
+  - **kevin.w.saunders.ctr@socom.mil** — **NEW:** SOCOM contractor; Arctic Edge 2027 discussion invitee
 
 ### External Organizations (Updated)
-- **Aeronet** (Correia) — primary logistics partner; international battery shipment quotes
-- **C-Astral** (Stopar, Tomazic) — camera system integration vendor (Central European timezone; active support cycle)
-- **Atmolab** (Dolinar) — parallel camera system vendor
-- **UK Ministry of Defence** (Laurence) — government client; Merlin Mk2 engagement
-- **Craters & Freighters** (Simpson) — logistics/cargo handling
-- **Ataca Carnet** (Heaney, Carnets team) — customs broker
-- **Krateo Sky** (Smith) — vendor ecosystem
-- **Previous:** Lockheed Martin, TB2 Aerospace, SkyMesa, A&O King & Spalding, Gateworks, NextechSol, Invest Ottawa, Canadian DND
+- **Aeronet** (Correia) — primary logistics partner; international battery shipment quotes and execution
+- **Craters & Freighters** (Simpson) — logistics/cargo handling; same-day/next-day pickup execution
+- **Atmolab** (Dolinar) — camera system integration vendor (UTC+2); active technical support cycle; appears to be evaluation/integration-critical
+- **NOAA Federal** (Zhang) — government customer; S0™ VTOL platform discussion
+- **SkyMesa Systems** (Shune) — EW/Electronic Warfare proposal participation
+- **NanoVeu** (Ravikumar) — software/platform binary distribution
+- **Krateo Sky** — vendor ecosystem (camera support coordination)
+- **Stanford University** (Topac) — academic/research partnership (MHP data alignment)
+- **US Military (NORTHCOM, SOCOM)** — **elevated:** Arctic Edge 2027 proposal discussion (multi-stakeholder government briefing scheduled Jun 3)
+- **Previous:** UK MOD, C-Astral, Invest Ottawa, Gateworks, NextechSol, TB2 Aerospace, Lockheed Martin, etc.
 
 ### Internal vs External
-- **Internal:** ~35% (Elston, Stachura, Cotter, Fromm, internal proposal groups)
-- **External:** ~65% (Correia, C-Astral, Atmolab, Laurence/UK MOD, customs/logistics vendors, carriers)
+- **Internal:** ~40% (Elston, Stachura, Cotter, Fromm, military .mil invitees via Beck Cotter)
+- **External:** ~60% (Correia, Atmolab, C&F, NOAA, SkyMesa, government contacts, academic/vendor ecosystem)
 
 ## Topic Patterns
 
 ### Active Projects (Updated/Refined)
-- **Arctic Edge 2027 Proposal** — **(U) Black Swift S0 VTOL UAS Weather Data Collection** — **elevated:** active proposal development; Beck Cotter forwarding; involves Maciej Stachura technical coordination
-- **Merlin Mk2 / US Navy SBIR** — **sustained:** UK MOD engagement (Simon Laurence); routed through Joshua Fromm and Jack Elston; appears to be in multi-stakeholder coordination phase
-- **Atmolab Camera System Integration** — **NEW/PARALLEL:** Technical support from Jure Dolinar; appears alongside C-Astral integration (may indicate dual-vendor evaluation or parallel development streams)
-- **C-Astral Camera System Integration** — **critical:** Intensive vendor support cycle (Stopar/Tomazic); 28 May shows 5+ messages across 27 May–29 May window; blocking/integration-critical work
-- **Battery Shipment to Ottawa** — **active:** Multiple quote refinements (141679, 141681); housebill 103032172; carnet preparation; Craters & Freighters pickup coordination; appears to be deployment or field test supply
-- **Swarm Software / KhanBMS Integration** — continued (referenced in proposal/technical context)
+- **Arctic Edge 2027 Proposal** — **(U) Black Swift S0 VTOL UAS** — **elevated:** government stakeholder engagement; multi-party discussion scheduled Jun 3 with NORTHCOM (patricia.a.vollmer.civ@mail.mil) and SOCOM (kevin.w.saunders.ctr@socom.mil); Beck Cotter as primary organizer
+- **S0™ VTOL Platform** — **customer evaluation:** NOAA Federal (Chidong Zhang) actively discussing platform capability; appears to be early-stage customer interest/evaluation
+- **Merlin Mk2 / US Navy SBIR** — sustained; UK MOD engagement and Joshua Fromm coordination
+- **Atmolab Camera System Integration** — **critical/elevated:** active technical evaluation cycle; forwarded to technical team (Domagala, Lomis) for internal assessment; parallel evaluation alongside C-Astral
+- **Battery Shipment to Ottawa** — **active/time-sensitive:** Ottawa deployment/field test supply; multiple quote refinements (141679, 141681); housebill 103032172; Craters & Freighters pickup (C&F #916414); 29 May shows same-day execution coordination (08:06–13:58 UTC)
+- **Swarm Software / KhanBMS Integration** — continued background (technical coordination)
+- **EW (Electronic Warfare) Proposal** — **NEW:** SkyMesa Systems proposal participation; subject indicates active bid/proposal cycle
 
-### Sales & Business Development
-- **Logistics pipeline:** International battery shipment with carnet/customs broker; multi-quote optimization with Aeronet
-- **Vendor ecosystem:** Dual camera system evaluation (C-Astral + Atmolab); technical support coordination; appears to be integration-critical path item
+### Sales & Business Development (Updated)
+- **NOAA platform discussion:** Early-stage customer engagement for S0™ VTOL; appears to be weather/environmental data collection alignment (consistent with Arctic Edge 2027 narrative)
+- **Colorado Defense & Industry Coalition** — forwarded to Jack Elston (business development network/event)
+- **thinklucid.com sales lead** — responded to third-party lead routing; camera/vision systems context likely
+- **Stanford partnership:** MHP data alignment suggests academic/research collaboration on data collection or analysis
 
-### Government/Defense Focus (Expanded)
-- **UK Ministry of Defence** — active Merlin Mk2 engagement (strategic relationship with Simon Laurence)
-- **US Navy SBIR** — continued (linked to Merlin Mk2)
-- **Arctic operations** — Arctic Edge 2027 proposal; outdoor/extreme environment VTOL platform
+### Government/Defense Focus (Significantly Expanded)
+- **Arctic Edge 2027 Proposal:** Multi-stakeholder government discussion scheduled Jun 3; includes NORTHCOM and SOCOM participants; indicates proposal is in active negotiation/briefing phase
+- **NOAA Customer:** S0™ VTOL platform discussion; environmental/weather data collection use case
+- **US Navy SBIR:** Merlin Mk2 (continued)
+- **UK Ministry of Defence:** Merlin Mk2 (continued)
 
 ## Communication Patterns
 
 ### Time Patterns
-- **28 May intensity:** Concentrated activity 09:23–19:52 UTC-6 (morning through early evening); parallel timezone management (UTC+0, UTC+2, UTC-6)
-- **Logistics cluster:** 09:23–10:22 UTC-6 rapid-fire exchange with Correia (Aeronet) and Carnets team; 4 messages in 1 hour
-- **Vendor support cycle:** C-Astral messages arriving UTC+2 (19:04, 19:52) overlap with BST afternoon/evening; responsive turnaround
-- **Government correspondence:** UK MOD (UTC+0) arriving early morning BST (08:25–16:33); routed through Fromm/Elston
-- **Cargo handoff:** Craters & Freighters pickup (14:55, 19:39, 19:43 UTC) suggests same-day/next-day execution
-
-### Notable Patterns
-- **Primary coordinator for logistics:** Direct correspondence with Aeronet, customs brokers, carriers; appears to own supply chain execution
-- **Vendor technical liaison:** Direct engagement with C-Astral and Atmolab on camera integration; responds quickly (sub-hour turnaround)
-- **Proposal group participant:** Included in senior group forwards (Arctic Edge 2027, Merlin Mk2); appears as reviewer/stakeholder
-- **IMPORTANT flag usage:** Consistently applied to all logistics, government, and vendor integration items
-- **Parallel vendor streams:** C-Astral and Atmolab both active simultaneously suggests either competitive evaluation or modular/redundant integration approach
-
-## Key Relationships
-
-### Closest Internal Collaborators
-1. **Jack Elston** — strategic business development; government/defense lead; Merlin Mk2 partnership
-2. **Maciej Stachura** — technical integration owner; camera systems; proposal support; appears to be technical authority on platform decisions
-3. **Joshua Fromm** — **newly elevated:** UK MOD liaison; Merlin Mk2 point person
-4. **Beck Cotter** — senior proposal participation; strategic review
-
-### Critical External Relationships
-- **Robert Correia (Aeronet)** — logistics critical path; quote optimization; time-sensitive execution
-- **Samo Stopar / Rok Tomazic (C-Astral)** — **integration-critical:** active technical support; appears to be blocking item for deployment/Arctic Edge 2027
-- **Jure Dolinar (Atmolab)** — parallel vendor integration; technical coordination
-- **Simon Laurence (UK MOD)** — government client relationship; strategic Merlin Mk2 engagement
--
+- **29 May intensity:** Morning burst 08:06–10:03 UTC-6 (logistics/vendor support cluster); 4 messages to Correia in 2 minutes (08:08, 08:13); rapid-fire Atmolab coordination (08:32, 09:18, 09:20, 09:23); indicates high-priority same-day execution
+- **Timezone juggling:** Atmolab (UTC+2) messages arriving 14:29–15:14; internal forwards to team 09:18–09:20; suggests real-time vendor coordination with internal escalation
+- **Government/proposal coordination:** Beck Cotter forwards (08:32, 

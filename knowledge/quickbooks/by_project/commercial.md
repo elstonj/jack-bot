@@ -2,10 +2,10 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $2,960,489.34
-- **Total Expenses (Bills + Purchases):** $233,718.16
+- **Total Expenses (Bills + Purchases):** $233,858.13
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,726,771.18 (Revenue exceeds expenses)
-- **Date Range:** April 5, 2024 – May 20, 2026
+- **Net Position:** $2,726,631.21 (Revenue exceeds expenses)
+- **Date Range:** April 5, 2024 – May 30, 2026
 
 ---
 
@@ -75,7 +75,7 @@
 
 #### Notable Recent Invoices (May 18–19, 2026)
 
-**Invoice #1766 — Daniel Hesselius (May 19, 2026): $3,900.00** ⚠️ NEW
+**Invoice #1766 — Daniel Hesselius (May 19, 2026): $3,900.00** ⚠️
 - $2,900.00 — Standalone computer, wireless keyboard, simulator install
 - $1,000.00 — Used E2 battery
 
@@ -95,9 +95,15 @@
 ## Expenses by Cost Category
 
 ### **Materials & Supplies (Direct Cost Purchases)**
-**Total: $84,535.21** | 16 transactions | Largest item: $4,164.75
+**Total: $84,675.18** | 17 transactions | Largest item: $4,164.75
 
 #### Direct Cost Material Purchases
+- **Purchase (2026-05-29):** $69.98
+  - $34.99 — Logitech K400 Plus Wireless Touch TV Keyboard - for S2 simulator
+  - $34.99 — Logitech K400 Plus Wireless Touch TV Keyboard - for S2 simulator
+  - *Note: $69.99 allocated to Inventory Asset for future S2 simulator sales (not included in direct cost total)*
+  - **Status:** Direct purchase made without Asana request; communicated via Slack message by Jack
+
 - **Purchase #334139 (2026-05-18):** $4,164.75
   - $2,776.50 — Thermoset Laminate Linen Tubes (shipped to Lee Skidmore/Northwind Composites)
   - $555.30 — Additional materials
@@ -105,7 +111,7 @@
   - **Inventory allocation:** $832.95 (future sales of 6 S0s)
   - **Projects:** 2026 IDIQ, Sasquatch S0s, future S0 sales
 
-- **Previous materials purchases:** $79,038.71
+- **Previous materials purchases:** $79,440.45
   - (Details maintained from prior knowledge file)
 
 **Largest individual items:**
@@ -115,16 +121,4 @@
 ---
 
 ### **Subcontractors (Direct Cost)**
-**Total: $1,990.83** | 1 transaction | Largest item: $1,990.83
-
-#### Direct Cost Subcontractor Services
-- **Bill from Ted Miles (2026-05-01):** $1,990.83
-  - Aeropods work (March & April 2026): 32 hours @ $62.20/hour
-
----
-
-### **Shipping/Freight (Direct Cost)**
-**Total: $1,150.31** | 2 transactions | Largest item: $901.63
-
-#### Direct Cost Shipping, Freight & Delivery
-- **Bill
+**Total: $1,990.83** | 

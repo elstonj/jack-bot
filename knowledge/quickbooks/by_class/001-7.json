@@ -4,14 +4,14 @@
     "(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-05-27",
-    "end": "2026-05-28"
+    "start": "2026-05-28",
+    "end": "2026-05-30"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 818.39,
+    "expenses": 399.8,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 818.39
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 399.8
     }
   },
   "invoices": [],
@@ -37,37 +37,19 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-05-27",
-      "doc_number": "300044184",
-      "total": 308.05,
-      "attributed": 308.05,
+      "date": "2026-05-28",
+      "doc_number": "SS97A80",
+      "total": 259.21,
+      "attributed": 259.21,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 308.05,
+          "amount": 259.21,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "retracting gimbal, servo and gears"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-27",
-      "doc_number": "3058",
-      "total": 369.75,
-      "attributed": 369.75,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 369.75,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Reliance 21700 RS50 5000mAh 70A CCC Lithium-Ion Battery x 60"
+          "description": "S3 IRAD purchase"
         }
       ]
     }

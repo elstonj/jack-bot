@@ -1,80 +1,72 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 172 emails (126 initial + 46 new data)
-- **Date range:** 24 May – 29 May 2026
-- **Volume:** Sustained heavy activity; continues through 29 May with 10+ daily messages
-- **Trend:** High-velocity correspondence maintained; camera integration crisis and military project coordination dominating final week of May
+- **Total messages scanned:** 220 emails (172 previous + 48 new data)
+- **Date range:** 24 May – 30 May 2026
+- **Volume:** Sustained ultra-high-velocity activity through 30 May; 15+ daily messages on key days
+- **Trend:** Crisis mode sustained; military operations acceleration; investment/legal finalization in parallel
+
+---
 
 ## Key Correspondents
 
-### Top Senders (updated with new data)
-1. **Jack Elston** (elstonj@blackswifttech.com) — internal hub; dominates with legal, investment, military, operational coordination; 29 May shows continued IMPORTANT flags
-2. **Bob Smith** (Bob@krateosky.com) — Krateo Sky; **camera integration orchestration** primary focus; multiple daily exchanges on camera support (28–29 May)
-3. **Beck Cotter** (beck.cotter@blackswifttech.com) — internal; Arctic Edge 2027 proposal, Lockheed Martin MAD project liaison
-4. **Rok Tomazic / Samo Stopar** (c-astral.com) — C-Astral camera vendor; **escalating technical support** (29 May 08:25 UTC); persistent urgent flags
-5. **Jure Dolinar** (jure.dolinar@atmolab.eu) — **NEW**: Atmolab camera systems; technical coordination with Maciej and Samo Stopar (28 May 08:45)
-6. **Sona Raziabeegum** (sona@krateosky.com) — Krateo Sky; investment memorandum bio requests (29 May 04:02); continued diligence documents
-7. **Nadia Bryan / Niki Schwab** (Ko Firm) — legal counsel; employment agreements, document status tracking
-8. **Joshua Fromm** (josh.fromm@blackswifttech.com) — internal; Merlin Mk2/US Navy SBIR, UK MOD liaison
-9. **Leon Liu** (leon.liuyonghui@skylab.com.cn) — **NEW**: SKYLAB RTK GPS provider; 1cm RTK positioning product pitch (29 May 10:59 UTC+8)
-10. **Brackenridge, Alasdair** (alasdair.brackenridge@global.lmco.com) — Lockheed Martin UK; MAD UAV project EOI follow-up
+### Top Senders (updated)
+1. **Jack Elston** (elstonj@blackswifttech.com) — internal operational hub; **escalated IMPORTANT flags (29 May: 11+ messages)**; legal/investment coordination, military ops decision-making, MHP data alignment (Stanford collaboration)
+2. **Beck Cotter** (beck.cotter@blackswifttech.com) — internal military operations lead; **Arctic Edge 2027 real-time coordination; NORTHCOM/SOCOM liaison** (29 May: 6 IMPORTANT flags); S0 VTOL platform discussions
+3. **Nadia Bryan** (nbryan@kofirm.com) — Ko Firm legal counsel; **investment finalization urgency** (29 May: 7 IMPORTANT exchanges); employment agreements, Capital Factory investor coordination (Jamie Serio)
+4. **Bob Smith** (Bob@krateosky.com) — Krateo Sky; camera integration orchestration continues
+5. **Sona Raziabeegum** (sona@krateosky.com) — Krateo Sky; investment memorandum bio requests, industrial plan circulation
+6. **Jure Dolinar** (jure.dolinar@atmolab.eu) — Atmolab; camera system support escalation (29 May 14:29, 15:14); **technical integration continuing**
+7. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — internal technical/military liaison; Arctic Edge 2027, NE27 site survey coordination, Atmolab camera support
+8. **US Military Contacts (NEW PRIMARY):**
+   - **Patricia A. Vollmer** (patricia.a.vollmer.civ@mail.mil) — NORAD-USNC; **Arctic Edge 2027 NORTHCOM discussion scheduled 3 June 2:30pm MDT**; (U) designation clearance holder
+   - **Angel R. Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil) — US Navy NAWCAD; MAD/Merlin Mk2 updates (29 May 14:13)
+   - **Anthony D. Brescia** (anthony.d.brescia.civ@us.navy.mil) — US Navy NAWCAD; NE27 Site Survey Requirements (29 May 16:13, marked IMPORTANT)
+   - **Kevin W. Saunders** (kevin.w.saunders.ctr@socom.mil) — USSOCOM SOCNORTH; Arctic Edge 2027 participant
+9. **Chidong Zhang** (chidong.zhang@noaa.gov) — NOAA Federal; S0™ VTOL platform technical discussion (29 May 13:14, marked IMPORTANT)
+10. **Tanay Topac** (tanaytopac@stanford.edu) — Stanford; **MHP data alignment coordination** (29 May: 4 IMPORTANT exchanges with Jack Elston); research partnership
+11. **Niki Schwab** (nschwab@kofirm.com) — Ko Firm; employment agreement finalization (29 May 15:20, marked IMPORTANT)
+12. **Bryan Sparling** (bryan.sparling@bylight.com) — **NEW**: S3 datasheet request (29 May 14:51 SENT); likely sensor/product vendor
+13. **Jamie Serio** (jamieserio@capitalfactory.com) — Capital Factory; investment coordination (29 May 20:14, marked IMPORTANT); venture capital/funding discussions
 
 ### Top Recipients
-1. Jack Elston — primary decision-making hub
-2. Bob Smith (Krateo Sky) — technical/operational partnership
-3. Beck Cotter — operations, military projects
-4. Samo Stopar (C-Astral) — camera integration issues
-5. Joshua Fromm — military/SBIR coordination
-6. Jure Dolinar (Atmolab) — camera systems coordination
+1. Jack Elston — primary escalation point
+2. Beck Cotter — military operations coordination
+3. Daniel Prendergast — technical/military liaison
+4. Niki Schwab (Ko Firm) — legal finalization
+5. Bryan Sparling (ByLight) — sensor/product vendor coordination
+6. Nadia Bryan (Ko Firm) — investment/legal hub
 
-### Internal vs External
-- **Internal:** ~25% (Jack Elston, Beck Cotter, Joshua Fromm, Meredith Needham, Daniel Prendergast)
-- **External:** ~75% (Krateo Sky, C-Astral, Atmolab, Ko Firm, Lockheed Martin, UK MOD, NOAA, SKYLAB, Vantage Robotics)
+### Internal vs External (Updated)
+- **Internal:** ~20% (Jack Elston, Beck Cotter, Daniel Prendergast, Joshua Fromm, Meredith Needham, Paige Smith)
+- **External:** ~80% (US Military: NORAD, Navy NAWCAD, SOCOM; Krateo Sky; Atmolab; Ko Firm legal; Stanford; NOAA; ByLight; Capital Factory; FTI Consulting)
+
+---
 
 ## Topic Patterns
 
-### **Camera Integration Crisis** ⚡⚡ *ESCALATING URGENCY*
-- **"Camera support for BlackSwift"** — appears 12+ times (28–29 May); dominates Maciej's daily correspondence
-- **Multi-vendor coordination:**
-  - **C-Astral** (Rok Tomazic, Samo Stopar) — urgent technical support (29 May 08:25 marked IMPORTANT; escalations on compatibility)
-  - **Atmolab** (Jure Dolinar) — camera system integration (28 May 08:45, 13:39); Lisa Marie Cheney (Krateo Sky) participating
-  - **Vantage Robotics** (Tobin Fisher) — camera compatibility discussions ongoing
-- **Orchestration:** Bob Smith (Krateo Sky) driving rapid multi-party coordination; Maciej responding to technical issues, forwarding to Jack Elston
-- **Pattern:** **Product integration deadline imminent**; vendors escalating, multiple parallel troubleshooting threads (28–29 May shows 6+ messages within 24 hours)
+### **🚨 ARCTIC EDGE 2027 — MILITARY OPERATIONS ACCELERATION** ⚡⚡⚡ *HIGHEST URGENCY*
+- **Subject line:** **(U) Black Swift S0 VTOL UAS Weather Data Collection Proposal for Arctic Edge 2027**
+- **Key activity (29 May):**
+  - **13:08 UTC-6:** Beck Cotter coordinates with SOCOM SOCNORTH (Kevin Saunders), NORAD-USNC (Patricia Vollmer), Daniel Prendergast, Jack Elston, Maciej Stachura
+  - **16:40 UTC-6:** Beck Cotter confirms attendance at **NORTHCOM meeting 3 June 2:30pm–3:15pm MDT** with Patricia Vollmer
+  - **19:21 UTC (16:21 UTC-6):** Patricia Vollmer confirms participation of: Beck Cotter, Maciej Stachura, Daniel Prendergast, Kevin Saunders (SOCOM), Jack Elston
+- **Participants:** Black Swift (Jack Elston, Beck Cotter, Maciej Stachura, Daniel Prendergast); US Military (NORAD-USNC, SOCOM SOCNORTH, US Navy NAWCAD)
+- **Platform:** **S0™ VTOL** (trademarked designation; previously codename, now formalized in military contexts)
+- **Mission:** Weather data collection for Arctic region military operations
+- **Status:** **(U) = Unclassified** but operational security designation; proposal in active review with scheduled government stakeholder meeting
+- **Signal:** **Direct government customer engagement; multi-command coordination (NORAD, SOCOM); operational deployment timeline imminent**
 
-### **Arctic Edge 2027 Military Proposal** ⚡ *NEW OPERATIONAL DETAIL*
-- **"(U) Black Swift S0 VTOL UAS Weather Data Collection Proposal for Arctic Edge 2027"** — Beck Cotter coordinating (28 May 13:52, 15:34, 15:47, 15:50); marked IMPORTANT
-- **Participants:** Maciej, Beck Cotter, Jack Elston, Joshua Fromm, Daniel Prendergast
-- **Designation:** (U) = Unclassified but military ops classification; S0 appears to be platform codename
-- **Signal:** Arctic region military operations planning; weather data collection mission; proposal coordination in real-time
+### **🚨 NE27 SITE SURVEY — CRITICAL DEADLINE (29 May, PASSED)**
+- **Subject line:** **NE27 Site Survey Requirements - Due NLT Friday, 29 May**
+- **Key activity (29 May):**
+  - **15:13 UTC-6:** Beck Cotter forwards to Jack Elston, Maciej Stachura, Daniel Prendergast (marked IMPORTANT, UNREAD)
+  - **16:13 UTC-6:** Anthony D. Brescia (US Navy NAWCAD) responds with technical requirements
+- **Participants:** Black Swift (Maciej, Daniel, Jack, Beck); US Navy NAWCAD (Anthony Brescia, Angel Ruiz-Reyes)
+- **Signal:** **Real-time deadline execution; government customer technical specifications delivery; Navy procurement pathway**
 
-### **MAD (Maritime Air Defense) / Merlin Mk2 Project** ⚡ *INTERNATIONAL MILITARY ESCALATION*
-- **"Merlin Mk2/US Navy SBIR"** — continued UK MOD (Simon.Laurence157@mod.gov.uk) and US Navy alignment (29 May 07:23, 28 May 16:33)
-- **"EOI/UK MAD UAV project follow up"** — Lockheed Martin UK (Alasdair Brackenridge) formal engagement (28 May 08:34, 09:16, 15:17); marked IMPORTANT
-- **Participants:** Joshua Fromm (internal), Beck Cotter, Jack Elston, Lockheed Martin, UK MOD, US Navy NAWCAD
-- **Signal:** **Joint UK/US military procurement cycle**; Expression of Interest (EOI) moving forward with prime contractor (Lockheed Martin)
-
-### **Legal/Investment/Employment** (Ongoing)
-- **"Black Swift - Employment Agreement"** — Ko Firm (Niki Schwab) exchanges (28 May 10:03, 15:40); continued document reviews
-- **"Quick ask: short bio for KrateoSky Investment Memorandum"** — Sona Raziabeegum (29 May 04:02); Jack Elston responding (29 May 00:31); indicates M&A/funding document finalization
-- **"Black Swift Final Industrial Plan"** — Jack Elston responding (29 May 00:12); document circulation continuing
-- **"Document Status"** — Nadia Bryan (Ko Firm) / Jack Elston (28 May 10:39, 12:35, 17:22)
-- **Pattern:** Investment memorandum and employment agreements in final stages
-
-### **NOAA/Weather Research Collaboration** (Ongoing)
-- **"TDR data during CAT flight 20260407"** — NOAA (Jun Zhang, Paul Reasor) and ERAU (Joshua Wadler) coordination (28 May 12:37, 13:00, 13:10, 17:15); marked IMPORTANT
-- **Signal:** Active atmospheric data collection flights; research partnership operational
-
-### **Sensor/Component Procurement** ⚡ *NEW*
-- **"1cm RTK for Black Swift — SKYLAB L1+L5"** — Leon Liu (SKYLAB, China) pitching high-precision GPS/RTK solution (29 May 10:59 UTC+8); unsolicited vendor outreach
-- **Operational procurement:** ServoCity, McMaster-Carr orders continuing (routine)
-- **Beverage/office supplies:** Driftaway Coffee, Spindrift Market (automated)
-
-### **Media/Publication** *NEW*
-- **"Ready for Your Interview? — Co-Author Invitation"** — Jack Elston forwarding to Maciej (28 May 09:19, 09:26); Maciej responding (28 May 08:34 timestamp anomaly, likely out-of-order); appears to be publication or interview request involving Maciej as co-author
-
-## Communication Patterns
-
-### Time Zones & Urgency Signals
-- **UTC+2 (C-Astral CET):**
+### **🚨 MAD / Merlin Mk2 — INTERNATIONAL MILITARY INTEGRATION**
+- **Codename:** MAD (Maritime Air Defense); **Merlin Mk2** platform designation
+- **Status update (29 May 14:13 UTC-6):** Maciej Stachura responds to Angel Ruiz-Reyes (US Navy NAWCAD) with MAD update marked "[Non-DoD Source]" — indicates classified/controlled distribution protocol
+- **Participants:** Black Swift (Maciej, Joshua Fromm, Jack Elston, Beck Cotter); US Navy NAWCAD; UK MOD (Simon Laurence); Lockheed Martin UK (Alasdair Brackenridge)
+- **Signal:** **Cross-national military procurement; Lockheed

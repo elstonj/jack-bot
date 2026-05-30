@@ -1,69 +1,57 @@
 # Beck Cotter — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 111 (88 from prior periods + 23 new)
+- **Total messages scanned:** 147 (111 from prior periods + 36 new)
 - **Date range covered:** 24 May 2026 – 29 May 2026
-- **Volume pattern:** Sustained high activity through 29 May 2026 (23 new messages over 6 days); concentrations continue around proposal deadlines, government vendor coordination, and international defense partnerships. Multiple parallel workstreams with escalating urgency on several fronts.
+- **Volume pattern:** Sustained ultra-high activity on 29 May 2026 (36 messages in single day); concentrated around three critical government proposals with same-day turnarounds; multiple parallel decision cycles with NORAD-USNC, USSOCOM, US Navy, and NOAA; proposal submission/approval phase underway.
 
 ## Key Correspondents
 
 ### Senders (who emails Beck most)
-- **Jack Elston** (elstonj@blackswifttech.com) — 17+ messages (internal leadership/coordination hub; continues to dominate traffic)
-- **Maciej Stachura** (stachura@blackswifttech.com) — 5 messages (internal, technical collaboration; increased frequency on Arctic Edge proposal)
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 1+ messages (internal, technical collaboration)
-- **Brackenridge, Alasdair** (alasdair.brackenridge@global.lmco.com) — 3 messages (Lockheed Martin, UK MAD UAV project; escalating engagement)
-- **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — 2 messages (UK MOD, Merlin Mk2/US Navy SBIR; cc'd to Joshua Fromm and Jack Elston)
-- **Nadia Bryan** (kofirm.com) — 6 messages (external legal counsel, diligence; continues from prior period)
-- **Peacher, Halie B.** (hpeacher@akingump.com) — 5+ messages (external legal counsel; increased IMPORTANT/UNREAD flags on 29 May)
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — 3 messages (internal operations/BD)
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — 2 messages (internal, Merlin Mk2 and UK MOD coordination)
-- **Vollmer, Patricia A** (patricia.a.vollmer.civ@mail.mil) — 1 message (NORAD-USNC, Arctic Edge 2027 proposal; government sponsor direct contact, 28 May)
-- **Newsletter/Automated:** Eventbrite, UASweekly, USPTO, Runway Series SBIR reauth (continuing pattern)
-- **External unsolicited:** Jan Schönberg (Drones magazine media inquiry), Shane Pearce (DefenseDevSolutions TAK pitch), Plastic Creations vendor inquiry
+- **Jack Elston** (elstonj@blackswifttech.com) — 21+ messages (continues as primary internal hub; Asana task updates, FY 26 Historical Communications forward)
+- **Patricia A. Vollmer** (patricia.a.vollmer.civ@mail.mil) — **6 new messages** (NORAD-USNC Arctic Edge 2027; **ESCALATED** to direct multi-stakeholder coordination; Jun 3 meeting confirmed)
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 7+ messages (Google Docs comments on DAF Agile EW Technical Volume; Arctic Edge proposal team coordination)
+- **Kevin W. Saunders** (kevin.w.saunders.ctr@socom.mil) — **3 new messages** (USSOCOM SOCNORTH; Arctic Edge 2027 proposal; government-to-government coordination with NORAD-USNC)
+- **Maciej Stachura** (stachura@blackswifttech.com) — 6+ messages (Arctic Edge proposal; NE27 Site Survey Requirements)
+- **Chidong Zhang** (chidong.zhang@noaa.gov) — **1 new message** (NOAA Federal; S0™ VTOL Discussion; marked IMPORTANT)
+- **Arthur Shune** (arthur@skymesasystems.com) — **2 new messages** (SkyMesa Systems; EW Proposal; marked IMPORTANT)
+- **Anthony D. Brescia** (anthony.d.brescia.civ@us.navy.mil) — **1 new message** (US Navy NAWCAD; NE27 Site Survey Requirements; marked IMPORTANT)
+- **Chad Atwood** (chad@theaiginc.com) — **3 new messages** (TheAIG Inc.; Major Medical Renewal insurance coordination; marked IMPORTANT)
+- **Vulcan (notifications@vulcan-sof.com)** — **3 new automated messages** (OTP Code authentication; appears to be SOF-related system access on 29 May, 15:03–15:06 UTC)
+- **Asana/Google Docs automation** — Continued task management and document collaboration notifications
 
 ### Recipients (who Beck emails most)
-- **Jack Elston** — 5+ sent messages (coordination, forwarding, proposal distribution)
-- **Maciej Stachura** — 3 sent messages (Arctic Edge proposal feedback/discussion)
-- **Brackenridge, Alasdair** — 2 sent messages (UK MAD UAV EOI follow-up)
-- **Daniel Prendergast** — 1+ sent messages (forwarding, Arctic Edge proposal)
-- **Joshua Fromm** — 1+ sent messages (Merlin Mk2 coordination)
+- **Jack Elston** — 6+ sent messages (forwarding, proposal coordination, media inquiry handoff)
+- **Patricia A. Vollmer (NORAD-USNC)** — 2 sent messages (Arctic Edge 2027 proposal confirmation, meeting acceptance)
+- **Kevin W. Saunders (USSOCOM)** — 2 sent messages (Arctic Edge 2027 proposal responses)
+- **Maciej Stachura** — 4 sent messages (NE27 Site Survey Requirements, proposal distribution)
+- **Daniel Prendergast** — 4 sent messages (Arctic Edge/NE27 forwarding, proposal coordination)
+- **Chidong Zhang (NOAA)** — 1 sent message (S0™ VTOL Discussion response)
+- **Paige Smith** (paige.smith@blackswifttech.com) — 1 sent message (media inquiry forward; BST comms handling)
 
 ### Internal vs External
-- **Internal:** Jack Elston, Daniel Prendergast, Maciej Stachura, Meredith Needham, Joshua Fromm
-- **External Law Firms:** 
-  - Nadia Bryan (kofirm.com) — diligence work
-  - Halie B. Peacher & Cameron Peek (akingump.com) — transactional counsel; elevated frequency/priority
-- **Defense/Government:**
-  - Alasdair Brackenridge & Neil Morphett & Dhruti Shah (Lockheed Martin — global.lmco.com) — UK MAD UAV primary engagement
-  - Simon Laurence (UK MOD — mod.gov.uk) — Merlin Mk2/SBIR; strategic partnership
-  - Patricia A. Vollmer (NORAD-USNC) — Arctic Edge 2027 sponsor; government solicitation contact
-- **Commercial Partners:**
-  - Krateo Sky contacts (continuing from prior period; Sona Raziabeegum healthcare question noted)
-- **Automated/Newsletters:** Eventbrite, UASweekly, USPTO, Runway Series, SBIR reauthorization updates
+- **Internal:** Jack Elston, Daniel Prendergast, Maciej Stachura, Joshua Fromm, Meredith Needham, Paige Smith
+- **Defense/Government (NEW ESCALATION):**
+  - **NORAD-USNC**: Patricia A. Vollmer (CIV) — Arctic Edge 2027 primary sponsor; 6+ messages in 24 hours; Jun 3 meeting scheduled; multi-stakeholder coordination
+  - **USSOCOM SOCNORTH**: Kevin W. Saunders (CTR) — Arctic Edge 2027 government stakeholder; 3 messages; cross-command coordination with NORAD-USNC
+  - **US Navy NAWCAD**: Anthony D. Brescia (CIV), Angel R. Ruiz-Reyes (CIV) — NE27 Site Survey Requirements (deadline Friday 29 May); technical requirements coordination
+  - **US Navy COMPACFLT**: Mark L. Unger (CTR) — Receives cc'd NE27 requirements forwarding
+  - **NOAA Federal**: Chidong Zhang — S0™ VTOL technical discussion; marked IMPORTANT
+  - **Lockheed Martin** (previous contacts continue; no new messages in this period)
+  - **UK MOD** (previous contacts continue; no new messages in this period)
+- **Commercial/Defense Contractors:**
+  - **SkyMesa Systems**: Arthur Shune (arthur@skymesasystems.com) — DAF Agile EW Technical proposal; Google Docs collaboration; marked IMPORTANT; escalated engagement
+  - **TheAIG Inc.** (chad@theaiginc.com) — Employee benefits broker; Major Medical Renewal quote coordination (Jun 4 meeting invitation); internal ops support
+- **Automated/Newsletters:** XPRIZE (new Innovation prize notification), SOFWERX (CHEVTOL assessment event), Asana (task updates on Deliver S3 to UMES project [031-1]), Vulcan SOF system
+- **Media/PR:** Jan Schönberg (Drones magazine media inquiry — handled by BST General Information / Paige Smith)
 
 ## Topic Patterns
 
-### Recurring Subjects & Projects (New/Escalated)
-- **Arctic Edge 2027 Proposal** — **NEW PRIMARY FOCUS** — 5 messages (28–29 May); official government solicitation from Patricia Vollmer (NORAD-USNC); Black Swift S0 VTOL UAS Weather Data Collection; marked (U) unclassified; Maciej Stachura and Joshua Fromm actively engaged; high urgency indicator; Beck coordinating internal team distribution
-- **Runtime Assured Autonomy (RAA) Proposal** — Continues; Jack Elston (Google Docs) flag on proprietary claim (28 May); ongoing technical review
-- **UK MAD UAV Project (Lockheed Martin)** — **ESCALATING** — 3 messages (28 May); direct engagement with Brackenridge, Morphett, Shah; discussion labeled "LM/Black Swift Technologies MAD UAV Discussion"; marked IMPORTANT; appears to be moving from EOI to formal discussion phase
-- **Merlin Mk2/US Navy SBIR** — **ELEVATED** — 2 messages (28–29 May); Simon Laurence (UK MOD) direct engagement; response to Joshua Fromm and Jack Elston; marked IMPORTANT; cross-government coordination (UK MOD + US Navy)
-- **Meeting Follow-Up (Akingump Law Firm)** — **CRITICAL** — 2 unread IMPORTANT messages (29 May, early morning 01:00+ UTC times); Jack Elston to Halie B. Peacher; suggests high-stakes transactional milestone or closing pressure
-- **Black Swift - Diligence Requests** — Continues from prior period (Nadia Bryan coordination)
-- **DAF Agile EW Tech / SkyMesa** — Continues (from prior period)
-- **Anti-Submarine Project (Krateo Sky)** — Continues; Meredith Needham/Sona Raziabeegum healthcare question (28 May) suggests operational/HR integration activity
-
-### External Organizations & Contacts (New/Escalated)
-- **Lockheed Martin** (global.lmco.com) — **ESCALATION**: Alasdair Brackenridge, Neil Morphett, Dhruti Shah; MAD UAV discussion now includes multi-stakeholder BST team (Beck, Daniel Prendergast, Maciej Stachura, Jack Elston); formal discussion phase underway
-- **NORAD-USNC** (mail.mil) — **NEW PRIMARY GOVERNMENT SPONSOR**: Patricia A. Vollmer; Arctic Edge 2027 solicitation; government-direct contact; weather data collection focus
-- **UK Ministry of Defence** (mod.gov.uk) — Simon Laurence continued engagement on Merlin Mk2/SBIR; cross-government UK-US coordination
-- **Runway Series / NYSTEC** — SBIR reauthorization info session (28 May); funding awareness activity
-- **Krateo Sky** (krateosky.com) — Sona Raziabeegum healthcare question (28 May) suggests operational expansion/onboarding
-- **Unsolicited External:** Drones magazine (media inquiry — Jan Schönberg, wm-medien.de), DefenseDevSolutions (TAK capability pitch), Plastic Creations (vendor inquiry)
-
-## Communication Patterns
-
-### Time Patterns
-- **Peak activity window:** 28 May 2026 (bulk of proposal and partnership emails)
-- **Early morning escalation:** 29 May 01:00–07:50 UTC (Jack Elston to Akingump counsel; Simon Laurence UK MOD response); suggests overnight/cross-timezone urgency
-- **Timezone distribution:** Multiple timezone headers evident (UTC +0, -0600 US Mountain, +0200 Central Europe, +0000 UTC); global team
+### Recurring Subjects & Projects (Active)
+- **Arctic Edge 2027 (AE27) Proposal** — **CRITICAL ACTIVE PHASE** — 8+ messages (29 May); Black Swift S0™ VTOL UAS Weather Data Collection; marked (U) unclassified; **confirmed meeting**: Wed Jun 3, 2026 2:30pm–3:15pm (MDT) with Patricia Vollmer (NORAD-USNC), Kevin Saunders (USSOCOM), and internal team; Beck sent confirmation response 16:40 UTC; multi-stakeholder government coordination across NORAD-USNC, USSOCOM, and SOCNORTH
+- **NE27 Site Survey Requirements** — **URGENT DEADLINE MET (29 May)** — 2 messages; US Navy NAWCAD (Brescia, Ruiz-Reyes); technical site survey deliverable; Beck forwarded/responded to team (Maciej, Daniel, Jack) with government requirements; marked as "Due NLT Friday, 29 May"; escalation to Mark Unger (COMPACFLT N9WAR) suggests approval chain
+- **S0™ VTOL Discussion** — 3 messages; Beck coordinated with NOAA Federal (Chidong Zhang) and Jack Elston; tech discussion marked IMPORTANT; appears to support both Arctic Edge and NOAA engagement paths
+- **DAF Agile EW Technical / SkyMesa Systems (EW Proposal)** — **ESCALATING** — 4 Google Docs comment notifications + 2 direct emails; Arthur Shune (SkyMesa) marked IMPORTANT; Daniel Prendergast actively collaborating on technical volume template v2; proposal technical development phase
+- **Runtime Assured Autonomy (RAA) Proposal** — Continues (from prior period; no new messages in this batch)
+- **Deliver S3 to UMES [031-1]** — **NEW PROJECT** — 3 Asana notifications (29 May); Jack Elston and Meredith Needham activity; appears to be product delivery task; marked as attachment additions
+- **Major Medical Renewal** — **HR/ADMIN** — 3 messages; Chad Atwood (TheAIG Inc.); Aetna & United quote review meeting scheduled Jun

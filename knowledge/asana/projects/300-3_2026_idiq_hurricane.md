@@ -12,7 +12,7 @@
   - Invoice schedule: March 2026 – July 2026
   - **Critical hardware ship date:** May 27, 2026
   - **Final delivery deadline:** June 30, 2026
-- **Status:** **ACTIVE.** Updated task list now shows 1 open task (Finalize deployment tube firmware, Jack Elston, due 5/29/26). Previous knowledge documented critical May 2026 hardware shipments as completed (2 SHOW s0's, tripods shipped 5/19/26). This alignment suggests project is progressing on schedule toward July 31 completion.
+- **Status:** **ACTIVE.** Hardware milestones delivered early (2 SHOW s0's and tripods shipped 5/19/26, ahead of 5/27 deadline). **⚠️ NOTE (5/29/26):** Nick Pawlenko transitioning to UxSOC headquarters role; may have limited availability for communication. Alternative contacts recommended for scheduling, personnel (foreign nationals), flight planning, and UAS/HX matters to ensure continuity.
 - **Team Members:** 
   - Meredith O'hara Needham (project owner, shipments, invoice submissions)
   - Jack Elston (firmware/software development)
@@ -21,9 +21,11 @@
   - Maciej Stachura (platform validation/testing, magnetic calibration, parameter file validation)
   - Alex Lomis (strategic partnerships, NASA opportunities)
   - Josh Fromm (GCS assembly, long-lead parts procurement)
+  - Nick Pawlenko (UxSOC liaison — **transitioning to HQ role; reduced availability expected**)
 - **Risk Signals:** 
-  - ⚠️ **Deployment tube firmware due 5/29/26** — within critical May–June delivery window. Verify Jack Elston has capacity and no blockers.
-  - ⚠️ **Invoice 4 of 6 ($72k, due 6/5/26) approaching** — ensure hardware milestones align with invoice schedule.
+  - ⚠️ **Deployment tube firmware due 5/29/26** — critical May–June delivery window. Task remains open in Asana; verify Jack Elston completion status and any integration blockers.
+  - ⚠️ **Invoice 4 of 6 ($72k, due 6/5/26) approaching** — gated on firmware finalization; ensure hardware milestones align with invoice submission.
+  - ⚠️ **Communication continuity:** Nick Pawlenko's transition to UxSOC HQ may impact scheduling, foreign national clearances, flight planning, and UAS operations coordination. Recommend establishing backup contact protocol with NOAA team immediately.
 
 ## Key Deliverables & Milestones
 
@@ -58,16 +60,16 @@
 
 | Task | Owner | Due Date | Status |
 |------|-------|----------|--------|
-| **Finalize deployment tube firmware** | Jack Elston | 2026-05-29 | OPEN |
+| **Finalize deployment tube firmware** | Jack Elston | 2026-05-29 | ⏳ OPEN |
 
 **Task Completion:** 
 - **Completed:** 4 tasks (100% of historical milestones)
-- **Open:** 1 task (firmware finalization)
+- **Open:** 1 task (firmware finalization — **due date now past; verify completion status**)
 - **Overall:** High completion rate; project tracking well against milestones.
 
 **Notable Patterns:**
-- **Jack Elston owns software/firmware track** — has delivered Vaisala fix on time; deployment tube firmware due end of May aligns with invoice 4 (due 6/5).
-- **Hardware teams (Nate Straus et al.) have delivered all May milestones early** — 2 SHOW s0's and tripods shipped 5/19, 8 days ahead of May 27 deadline.
+- **Jack Elston owns software/firmware track** — delivered Vaisala fix on time (5/8); deployment tube firmware was due 5/29 and remains open in Asana. **ACTION: Confirm whether task is complete but not closed, or identify blockers.**
+- **Hardware teams (Nate Straus et al.) have delivered all May milestones early** — 2 SHOW s0's and tripods shipped 5/19, 8 days ahead of 5/27 deadline.
 - **All invoices through May 4 submitted on time or early** — strong financial tracking; next invoice (4/6, $72k) due 6/5 is gated on firmware completion.
 
 ## Recent Activity
@@ -78,18 +80,11 @@
 - ✅ **Invoice 3 of 6 ($54k) submitted** (5/1/26 — 3 days early)
 - ✅ **Ground Stations Delivery Order approved** (5/12/26)
 
+**Communication Update (5/29/26):**
+- ⚠️ **Nick Pawlenko transitioning to UxSOC HQ** — NOAA/UASD issued guidance requesting BST include alternative contacts for scheduling, foreign nationals, flight planning, and UAS/HX operations to prevent communication gaps during field season.
+
 **Current Focus:**
-- 🔄 **Jack Elston finalizing deployment tube firmware** (due 5/29/26) — critical path item for hardware integration and Invoice 4 submission (~6/5/26).
+- 🔄 **Jack Elston finalizing deployment tube firmware** (due 5/29/26) — **task status unclear in Asana; verify completion and any integration blockers** before Invoice 4 submission (~6/5/26).
 
 **Upcoming Milestones:**
-- ⏳ **Invoice 4 of 6 ($72k) due 6/5/26** — gated on firmware completion and hardware readiness.
-- ⏳ **Project completion & final deliveries due 6/30/26** (before 7/31 contract end).
-- ⏳ **Final invoices 5 & 6 due 7/2 and 7/31/26**.
-
-## Notes & Context
-
-- **Strong execution to date:** All hardware milestones delivered early (May 19 vs. May 27 target); all invoices submitted on or ahead of schedule through May.
-- **Next critical gate:** Firmware finalization (5/29/26). Jack Elston on track; monitor for any integration blockers downstream.
-- **Invoice rhythm stable:** Invoices align with hardware delivery and development phases; no gaps or delays observed.
-- **Team capacity:** Nate Straus, Sam Hild, and Maciej Stachura have delivered hardware validation/build work efficiently. No resource bottlenecks flagged.
-- **Long-term partnership:** Six-year history with NOAA (SBIR Phase I → II → ID
+- ⏳ **Invoice 4 of 6 ($72k) due 6/5/26** — gated on firmware completion and

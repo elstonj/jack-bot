@@ -29,7 +29,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Estimate 1336 sent 11.14.24 for S0 VTOL (one of three requested systems broken into separate estimates for funding). Customer awaiting PO issuance after vendor setup approval completed. Refurbished S2 delivered and paid in April 2025 (Inv #1654, $57,814.00). Receive-by date 2026-04-24 is past due. Kept due to QBO invoice 1654 evidence of prior paid delivery (S2) and active multi-item ordering relationship with explicit future receive-by date and recent Slack engagement (last evidence 2026-05-26).",
+  "notes": "Estimate 1336 sent 11.14.24 for S0 VTOL (one of three requested systems broken into separate estimates for funding). Customer awaiting PO issuance after vendor setup approval completed. Refurbished S2 delivered and paid in April 2025 (Inv #1654, $57,814.00). Receive-by date 2026-04-24 is past due. Kept due to QBO invoice 1654 evidence of prior paid delivery and active multi-item ordering relationship with explicit future receive-by date and recent Slack engagement (last evidence 2026-05-26).",
   "missing_fields": [
     "ship_to",
     "invoice_number",

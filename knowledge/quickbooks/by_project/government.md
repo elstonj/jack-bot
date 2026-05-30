@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $4,387,717.28
-- **Total Expenses (Bills + Purchases):** $1,330,605.39
+- **Total Expenses (Bills + Purchases):** $1,330,748.71
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,057,111.89 (invoiced minus expenses)
+- **Net Position:** $3,056,968.57 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -54,8 +54,8 @@
 
 ## Expenses by Cost Category
 
-### **Materials & Supplies: $469,696.97**
-**Number of transactions:** 192  
+### **Materials & Supplies: $469,954.29**
+**Number of transactions:** 195  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
 - **JAWSTEC:** $19,627.62 (components for S0 platforms)
@@ -75,7 +75,7 @@
 - **Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head** (2026-05-07, Purchase #1288885721): **$479.80** [DIRECT COSTS] + $306.08 [Inventory Asset for future S3 sales]
   - **Direct Cost Materials & Supplies impact: $479.80**
 
-**Recent transactions (2026-05-14 to 2026-05-21):**
+**Recent transactions (2026-05-14 to 2026-05-30):**
 - **Purchase (Amprius Technologies)** (2026-05-14): **$399.00** [DC-Direct Material Purchases]
   - SA504 x 7 (quote #00001876) — Battery systems for Navy SBIR projects
   
@@ -106,7 +106,18 @@
 - **Purchase (2026-05-21):** **$1,326.59** [DC-Direct Material Purchases]
   - General component/materials purchase
 
-**Total direct cost materials & supplies through 2026-09-28: $469,696.97** *(confirmed final)*
+- **Purchase #SO-01545 (2026-05-28):** **$4,380.00** [DC-Direct Material Purchases]
+  - IDIQ 2026 purchase
+
+- **Purchase #499821 (2026-05-29):** **$117.35** [DC-Direct Material Purchases]
+  - LiFePO4 18650 Rechargeable Cell x 12
+
+- **Purchase (2026-05-29):** **$139.97** [Mixed allocations]
+  - **$69.98 [DC-Direct Material Purchases]** — Logitech K400 Plus Wireless Touch TV Keyboard x 2 (for S2 simulator)
+  - $69.99 [Inventory Asset] — Logitech K400 Plus Wireless Touch TV Keyboards x 2 (for 2 future S2 simulator sales)
+  - **Memo:** No Asana request - Jack made purchase directly and Slacked message
+
+**Total direct cost materials & supplies through 2026-09-28: $469,954.29** *(confirmed final)*
 
 ---
 
@@ -119,18 +130,4 @@
   - Bill #BST-March2026-2 (2026-04-22): $24,224.02 (Parts/Materials & IRAD allocation; second half of $48,448.05 March invoice)
 - **Ted Miles (NASA AREN labor):** $49,350.80 (627 total hours tracked)
 - **MicroFirm Engineering (Hurricane work):** $84,744.10 (labor 110+ hours, parts)
-  - **Bill #3912** (2026-05-01): $812.50 (6.5 hours @ $125/hr, direct cost subcontractor allocation)
-- **EKase Consulting LLC (TABA support, business consulting):** $13,600.00
-- **Embry Riddle University (STTR subcontract):** $56,290.00
-- **Old Dominion University Research Foundation (STTR N25A-T025):** $10,000.00
-- **PHASE1 AVIATION LLC (S0 Wings):** $24,105.00
-- **Northwind Composites (S0 fuselage, launcher tubes, machining):** $20,696.53
-- **Summit Assembly LLC (PCB assembly):** $13,744.00
-- **Cetacean Research Technology (R&D development):** $1,323.00
-- **University of Colorado Boulder (Black Swift/NASA Night Fox):** $1,840.00
-
-**Total subcontractors through 2026-09-28: $713,366.45** *(confirmed final)*
-
----
-
-###
+  - **Bill #3912** (2026-05-01): $812.50 (6.5 hours @ $125/hr, direct

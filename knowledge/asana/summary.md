@@ -1,94 +1,86 @@
 # Asana Projects Overview
 
-Last scanned: 2026-05-29 02:07
+Last scanned: 2026-05-30 02:09
 
-Total projects scanned: 13
+Total projects scanned: 16
 
 ## Projects
 
-- **Commercial Sales** — 1 tasks — [commercial_sales.md](commercial_sales.md)
-- **Flight Testing** — 1 tasks — [flight_testing.md](flight_testing.md)
-- **[001-07] S3 IRAD** — 2 tasks — [001-07_s3_irad.md](001-07_s3_irad.md)
+- **Commercial Sales** — 3 tasks — [commercial_sales.md](commercial_sales.md)
+- **Flight Testing** — 8 tasks — [flight_testing.md](flight_testing.md)
+- **View: Major Milestones & Tasks** — 2 tasks — [view_major_milestones_tasks.md](view_major_milestones_tasks.md)
+- **[001-11] Methane Emission Detection IRAD** — 1 tasks — [001-11_methane_emission_detection_irad.md](001-11_methane_emission_detection_irad.md)
 - **[001-13] Accounting** — 4 tasks — [001-13_accounting.md](001-13_accounting.md)
-- **[001-13] BD Pipeline** — 3 tasks — [001-13_bd_pipeline.md](001-13_bd_pipeline.md)
+- **[001-13] BD Pipeline** — 2 tasks — [001-13_bd_pipeline.md](001-13_bd_pipeline.md)
 - **[001-13] General Operations** — 1 tasks — [001-13_general_operations.md](001-13_general_operations.md)
-- **[001-13] Proposals** — 1 tasks — [001-13_proposals.md](001-13_proposals.md)
-- **[001-13] Purchasing** — 8 tasks — [001-13_purchasing.md](001-13_purchasing.md)
-- **[018-1] Murphy's Pond CH4 Monitoring** — 1 tasks — [018-1_murphys_pond_ch4_monitoring.md](018-1_murphys_pond_ch4_monitoring.md)
-- **[031-1] UMES S3** — 5 tasks — [031-1_umes_s3.md](031-1_umes_s3.md)
+- **[001-13] Purchasing** — 10 tasks — [001-13_purchasing.md](001-13_purchasing.md)
+- **[001-16] SwiftStation IRAD** — 2 tasks — [001-16_swiftstation_irad.md](001-16_swiftstation_irad.md)
+- **[031-1] UMES S3** — 4 tasks — [031-1_umes_s3.md](031-1_umes_s3.md)
 - **[043-3] ByLight M2/Halo** — 1 tasks — [043-3_bylight_m2halo.md](043-3_bylight_m2halo.md)
 - **[300-3] 2026 IDIQ (Hurricane)** — 1 tasks — [300-3_2026_idiq_hurricane.md](300-3_2026_idiq_hurricane.md)
+- **[301-2] SBIR - Hurricane Phase II+** — 1 tasks — [301-2_sbir_-_hurricane_phase_ii.md](301-2_sbir_-_hurricane_phase_ii.md)
+- **[452-2] S2 Simulator & used E2 Battery** — 0 tasks — [452-2_s2_simulator_used_e2_battery.md](452-2_s2_simulator_used_e2_battery.md)
+- **[550-1] NAVY SBIR: Magnetometer** — 1 tasks — [550-1_navy_sbir_magnetometer.md](550-1_navy_sbir_magnetometer.md)
 - **[550-2] Navy STTR: Hazardous Weather** — 2 tasks — [550-2_navy_sttr_hazardous_weather.md](550-2_navy_sttr_hazardous_weather.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Project Portfolio Overview
+# Black Swift Technologies – Project Portfolio Overview
 
 ## Portfolio Summary
-
-| Metric | Value |
-|--------|-------|
-| **Total Tracked Value** | $1,296,488+ |
-| **Active Projects** | 11 major projects + 4 small ops projects |
-| **Critical Status Items** | 3 projects |
-| **Overdue Deadlines** | 2+ |
+- **Total Active Project Value:** ~$1.5M+ (documented funding)
+- **Active Projects:** 10 major projects + 4 internal operations
+- **Completed Projects:** 1 archived (SBIR Hurricane Phase II+)
+- **Critical Issues:** 3 high-priority risk areas identified
 
 ---
 
-## Key Active Projects by Value
+## Key Active Projects
 
-| Project | Client | Value | Status |
-|---------|--------|-------|--------|
-| [300-3] 2026 IDIQ (Hurricane) | NOAA UxSOC | $499,000 | Active; on track |
-| [550-2] Navy STTR: Hazardous Weather | Dept. of Navy (ONR) | $146,326 | Option Period in progress; final due 9/1/26 |
-| [018-1] Murphy's Pond CH4 Monitoring | Murray State University | $86,863 | Active; Flight #3 due 5/27/26 |
-| [031-1] UMES S3 | University of Maryland Eastern Shore | $81,306 | **🔴 CRITICAL — Delivery imminent (by 5/29/26)** |
-| [001-07] S3 IRAD | Internal R&D | Not specified | **🔴 CRITICAL — Overdue deliverable (CJFC Arctic paperwork >6 months late)** |
+| Project | Client | Value | Status | Key Deadline |
+|---------|--------|-------|--------|--------------|
+| [300-3] 2026 IDIQ (Hurricane) | NOAA UxSOC | $499,000 | Active | TBD |
+| [550-2] Navy STTR: Hazardous Weather | Dept. of Navy (ONR) | $146,326 | Option Period In Progress | 9/1/2026 |
+| [550-1] Navy SBIR: Magnetometer | Dept. of Navy (NAVAIR) | TBD | Active | TBD |
+| [001-11] Methane Emission Detection IRAD | Internal R&D | $1M target | Active | 9/1/2025 (Annual Report) |
+| [031-1] UMES S3 | University of Maryland Eastern Shore | $81,306 | ✅ Delivery Complete (5/29/26) | Training: 7/23–7/25/2026 |
+| [301-2] SBIR Hurricane Phase II+ | University of Miami | $344,000 | ✅ **Archived** (Completed 1/3/24) | — |
 
 ---
 
-## Critical Risk Areas
+## Risk Areas
 
-1. **[031-1] UMES S3** — Delivery due May 29, 2026 (within days). Training July 23–25, 2026 requires travel logistics coordination.
+### 🚨 **CRITICAL**
+1. **[001-13] Purchasing:** 2 tasks now overdue (Digikey Gateworks/Hurricane GCS due 5/13; current cycle 5/18–5/31/2026). Task volume trending up (8→10 open).
+2. **[001-11] Methane Emission Detection IRAD:** Data quality issue in Asana—do not rely on current status tracking for accurate project state.
+3. **[001-13] BD Pipeline:** $0 estimated value showing in Asana (data integrity issue); historical pipeline $2.3M+, goal $5M by end of 2025 (deadline passed; status unknown).
 
-2. **[001-07] S3 IRAD** — CJFC Arctic UAS Demo paperwork deadline passed 6+ months ago; project appears stalled.
-
-3. **[001-13] Purchasing** — 8 open tasks (trend rising); 1 task overdue (jawstec parts due 5/16/26, still open). Supplies critical to S3 projects.
-
-4. **[001-13] BD Pipeline** — $2.3M+ historical pipeline but current Asana shows $0 tracked value; visibility/data integrity gap for revenue forecasting.
+### ⚠️ **MODERATE**
+- **[550-2] Navy STTR:** Option Period deadline 7/6/2026; final deliverable 9/1/2026. Higher priority than Navy SBIR per leadership.
+- **[031-1] UMES S3:** Training scheduled 7/23–7/25/2026 with unclear travel logistics post-delivery.
 
 ---
 
 ## Team Allocation Patterns
 
-- **Maciej Stachura** — S3 platform lead (Flight Testing, UMES S3)
-- **Jack Elston** — Program prioritization & scheduling (Murphy's Pond, Navy STTR, INSTAAR ops)
-- **Meredith O'Hara Needham** — Accounting/Finance (P&L, fundraising reports due 6/5/26)
-- **Dan Prendergast** — Operations improvement
-- **Beck Cotter** — Proposals (Vulcan Arctic Edge 2027)
-
-**Concentration Risk:** S3 platform delivery heavily dependent on Maciej + small purchasing/ops team.
+- **Meredith O'hara Needham:** Accounting owner; assigned to multiple project finance/admin tasks
+- **Jack Elston:** Core technical lead (Flight Testing, Commercial Sales, Navy work)
+- **Maciej Stachura & Nate Straus:** Flight testing and platform modification work
+- **Dan Prendergast:** Operations and process improvement
+- **Capacity Gap:** Several unassigned high-value tasks (e.g., $1M Methane IRAD investment decision)
 
 ---
 
-## Upcoming Critical Deadlines
+## Upcoming Critical Deadlines (Next 90 Days)
 
-| Date | Deliverable | Project | Status |
-|------|-------------|---------|--------|
-| **5/27/26** | Flight #3 execution | Murphy's Pond | ⚠️ Competing with other priorities |
-| **5/29/26** | S3 aircraft delivery | UMES S3 | 🔴 CRITICAL |
-| **5/31/26** | UMES project deadline | UMES S3 | 🔴 CRITICAL |
-| **6/1/26** | S2 rental due | Murphy's Pond | ⚠️ |
-| **6/5/26** | P&L/Payroll reports | Accounting | ⚠️ |
-| **7/6/26** | Navy STTR Option Period end | Navy STTR | On track |
-| **9/1/26** | Navy STTR final deliverable | Navy STTR | On track |
-| **12/31/26** | Murphy's Pond funding expires | Murphy's Pond | ⚠️ |
+- **5/31/2026** – UMES S3 funding expiration
+- **6/5/2026** – Accounting: Fundraising Financial Reports, Payroll in QuickBooks
+- **7/6/2026** – Navy STTR Option Period end
+- **7/23–7/25/2026** – UMES S3 Training delivery
+- **9/1/2026** – Navy STTR final deliverable; Methane IRAD Annual Report 2025
 
 ---
 
-## Recommendations
-
-1. **Immediate:** Mobilize resources for UMES S3 delivery (5/29/26) and training logistics.
-2. **Urgent:** Clear Purchasing backlog; expedite jawstec parts for S3 variants.
-3. **Follow-up:** Resolve S3 IRAD status; clarify CJFC Arctic deliverable requirements.
-4. **Governance:** Restore BD Pipeline visibility in tracking system; establish KPI thresholds.
+## Data Quality Notes
+- Asana shows inconsistent project valuation (multiple $0 entries on active pipelines)
+- Two projects flagged for unreliable status data; recommend verification with project owners before relying on current Asana snapshots

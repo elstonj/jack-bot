@@ -3,9 +3,9 @@
 ## Overview
 The #marketing channel is the central hub for Black Swift Technologies' marketing strategy, content development, and external communications. It covers website content management, collateral creation, press releases, social media, and promotional campaigns. The channel shows active collaboration between marketing, product, and leadership teams.
 
-**Key participants:** Jack Elston (leadership/strategy), Parker Vollmer (marketing), Sophia Henkels (content/web), Paige Smith (marketing), Alex Lomis (video/technical), Beck Cotter, Kareem, Dan Prendergast, Maciej, Brody Basset (external contact - US Commercial Service), Rob (external contact - CBS)
+**Key participants:** Jack Elston (leadership/strategy), Parker Vollmer (marketing), Sophia Henkels (content/web), Paige Smith (marketing), Alex Lomis (video/technical), Beck Cotter, Kareem, Dan Prendergast, Maciej, Brody Basset (external contact - US Commercial Service), Rob (external contact - CBS), WeatherNation (external contact - media partner)
 
-**Activity level:** High frequency discussions across June 2024-May 2026 period, with multiple concurrent projects in various stages.
+**Activity level:** High frequency discussions across June 2024-May 2026 period, with multiple concurrent projects in various stages. Recent activity shows active media partnership outreach.
 
 ---
 
@@ -121,7 +121,3 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 - **Jack's feedback on text corrections needed:**
   - Change "accelerating at over 100mph" to **"capable of sprinting at over 100mph"**
   - Change reference to **"The NightFOX payload"** to **"Onboard thermal sensors penetrate"** (remove specific payload reference)
-- Otherwise approved ("looks great!")
-- Status: Minor edits pending approval
-
-### CBS

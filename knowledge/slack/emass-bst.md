@@ -13,7 +13,7 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Sergio Ruocco (eMASS AI) - Autoboot firmware expert, SDK bring-up and troubleshooting
 - Shantanu (eMASS AI) - Hardware verification and validation
 
-**Activity Level:** Highly active collaboration spanning February-April 2026, with continued activity into May 2026. Intensive HWIL and model training in March-April. Critical first-flight test completed on Apr 24, 2026. Recent activity (May 4-5, 2026) focused on testing methodology and flight plan preparation for controller evaluation. Activity through May 20-21, 2026 focused on velocity command control mode refinement, frequency optimization, and flight test sequence clarification. Activity through May 25, 2026 included troubleshooting waypoint navigation behavior, controller stability issues, sim-to-flight fidelity gaps, post-flight analysis, protocol documentation requests, and holiday scheduling. Latest activity (May 26-27, 2026) involved delivery of three microtest binaries with comprehensive velocity command test sequences and overshoot validation. Most recent activity (May 28, 2026) focused on microtest flight results analysis and control behavior diagnostics.
+**Activity Level:** Highly active collaboration spanning February-April 2026, with continued activity into May 2026. Intensive HWIL and model training in March-April. Critical first-flight test completed on Apr 24, 2026. Recent activity (May 4-5, 2026) focused on testing methodology and flight plan preparation for controller evaluation. Activity through May 20-21, 2026 focused on velocity command control mode refinement, frequency optimization, and flight test sequence clarification. Activity through May 25, 2026 included troubleshooting waypoint navigation behavior, controller stability issues, sim-to-flight fidelity gaps, post-flight analysis, protocol documentation requests, and holiday scheduling. Activity May 26-27, 2026 involved delivery of three microtest binaries with comprehensive velocity command test sequences and overshoot validation. Activity May 28, 2026 focused on microtest flight results analysis and control behavior diagnostics. Latest activity (May 29, 2026) addresses velocity command precision issues and control limit parameters.
 
 ---
 
@@ -99,5 +99,4 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Impact: Simple loopback test sending incoming PWM values back caused autopilot shutdown, indicating conversion error
 - Status: Awaiting corrected range specification before next test
 
-**PWM Command Frequency Optimization (May 21, 2026)**
-- Jack
+**PWM Command

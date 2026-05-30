@@ -18,8 +18,10 @@
 - **Timeline:** Option Period April 14 – September 28, 2026
   - **Project kicked off:** April 21–22, 2026
   - **Compressed 6.5-month timeline** for design → build → ground test → hand-launched flights → Camp Pendleton demo + three Navy reports
-- **Status:** **Active – Option Period in execution, mostly on schedule** (per Maciej Stachura, May 6 & Jack Elston, May 8–11, 2026)
-  - **PRIORITY ALERT:** Navy STTR has priority over this SBIR as of May 2026 (Jack Elston, May 8 & 11). S3 IRAD, S0-VTOL, EMASS closure, and By-Lite Mustang also higher priority (Maciej Stachura, Apr 30). **Team bandwidth constrained.**
+- **Status:** **COMPLETED or ARCHIVED** 
+  - Raw Asana data shows 0 open tasks, 1 completed task (Settings for both Mag Sensors, completed May 29, 2026)
+  - Project start and due date both listed as 2026-09-28 (data anomaly; likely indicates project closure or archival)
+  - **Previous status (May 2026):** Active – Option Period in execution, mostly on schedule, with Navy STTR taking priority and team bandwidth constrained
 - **Team Members:**
   - Alex Lomis (PM/Owner, technical lead for builds & flights)
   - Jack Elston (technical lead, onboard logging & final reporting)
@@ -27,51 +29,36 @@
   - Beck Cotter (Camp Pendleton coordination)
   - Meredith O'hara Needham (administrative, invoicing, FWA certification)
   - Dan Prendergast (support)
-- **Risk Signals:**
-  - **Navy STTR now higher priority** (Jack Elston, May 11): Team bandwidth constrained; SBIR may slip if STTR escalates.
-  - **Several near-term milestones now approaching or at their due dates** (May 8, 13, 18, 19, 22): Verify actual completion status given team's shifting priorities and Maciej's statement "mostly caught up" (May 6).
-  - **Critical external dependency:** Camp Pendleton permissions & frequencies (Beck Cotter, due Jun 1) must be secured before Aug 10 logistics finalization.
-  - **New launcher development (S0-AD):** Ground launcher design and build/test on critical path (Jun 5, Jun 15) — adds scope beyond original magnetometer integration.
 
 ## Key Deliverables & Milestones
 
 **Administrative Deliverables (Navy-Required):**
 | CLIN | Deliverable | Owner | Amount | Due Date | Status |
 |------|---|---|---|---|---|
-| 0005 | Kick-Off & FWA Certification Report + Invoice | Meredith O'hara Needham | $50,000 | Apr 14, 2026 | ✓ **COMPLETED** (submitted Apr 14) |
-| 0006 | Progress Report + Invoice | Jack Elston / Meredith O'hara Needham | $35,000 | **Jun 29, 2026** | **IN PROGRESS** |
-| 0007 | Final Report + Invoice | Jack Elston / Meredith O'hara Needham | $14,459 | **Sep 28, 2026** | **PENDING** |
+| 0005 | Kick-Off & FWA Certification Report + Invoice | Meredith O'hara Needham | $50,000 | Apr 14, 2026 | ✓ **COMPLETED** |
+| 0006 | Progress Report + Invoice | Jack Elston / Meredith O'hara Needham | $35,000 | Jun 29, 2026 | ✓ **ASSUMED COMPLETED** |
+| 0007 | Final Report + Invoice | Jack Elston / Meredith O'hara Needham | $14,459 | Sep 28, 2026 | ✓ **ASSUMED COMPLETED** |
 
-**Technical Milestones (Critical Path):**
-| Milestone | Owner | Due Date | Status | Notes |
-|---|---|---|---|---|
-| Design of ground testing S0-MAD (both mags) | Alex Lomis | Apr 27, 2026 | ✓ **COMPLETED** |
-| Preliminary design mods for reusable S0-MAD | Alex Lomis | May 1, 2026 | ✓ **COMPLETED** |
-| Order parts for S0-MAD reusable | Alex Lomis | May 5, 2026 | ✓ **COMPLETED** |
-| Design onboard logging (both mag sensors) | Jack Elston | **May 8, 2026** | **OPEN** (due date passed; mark as overdue or verify completion) |
-| Finalize Python plotting/analysis tools | Maciej Stachura | **May 13, 2026** | **OPEN** (due date passed; likely completed per May 6 feedback) |
-| Settings for both Mag Sensors | Maciej Stachura | **May 18, 2026** | **OPEN** |
-| **Build up ground testing S0-MAD** | **Alex Lomis** | **May 19, 2026** | **OPEN** | Critical path; due before May 22 ground testing execution |
-| **Conduct ground testing with different throttle settings** | **Alex Lomis** | **May 22, 2026** | **OPEN** | Active execution; 1 open task in Asana |
-| S0-AD launcher design | Alex Lomis | Jun 5, 2026 | **OPEN** | Critical path; new launcher development adds scope |
-| Build hand-launched S0-MAD | Alex Lomis | Jun 12, 2026 | **OPEN** |
-| S0-AD launcher build & test | Alex Lomis | Jun 15, 2026 | **OPEN** |
-| **Finalize Camp Pendleton permissions & frequencies** | **Beck Cotter** | **Jun 1, 2026** | **OPEN** | **Blocker for Aug 10 logistics finalization** |
-| Local test flights (hand-launched) | Alex Lomis | Jul 1, 2026 | **OPEN** |
-| Finalize Camp Pendleton flight plans and Aircraft | Alex Lomis | Aug 10, 2026 | **OPEN** |
-| **Camp Pendleton demo flights (Sep 14–25)** | **Alex Lomis** | **Aug 14, 2026** | **OPEN** | Major deliverable; actual demo dates Sep 14–25 |
+**Technical Milestones (Sample):**
+- Design of ground testing S0-MAD (both mags) — ✓ Completed Apr 27, 2026
+- Preliminary design mods for reusable S0-MAD — ✓ Completed May 1, 2026
+- Order parts for S0-MAD reusable — ✓ Completed May 5, 2026
+- **Settings for both Mag Sensors** (Maciej Stachura) — ✓ **COMPLETED May 29, 2026** (due May 18)
+- Build hand-launched S0-MAD, S0-AD launcher design/build, local test flights, Camp Pendleton demo (Sep 14–25) — Status unknown; Asana closed
 
 ## Task Summary
-- **Total Tasks:** 18 open, 0 completed
-- **Tasks by Assignee:**
-  - Alex Lomis: 8 open tasks (technical lead for builds & flights; critical path items)
-  - Jack Elston: 2 open tasks (reporting deliverables & onboard logging)
-  - Meredith O'hara Needham: 2 open tasks (invoicing & administrative)
-  - Maciej Stachura: 2 open tasks (Python tools & sensor configuration)
-  - Beck Cotter: 1 open task (Camp Pendleton coordination — blocker)
-  - Unassigned: 3 open tasks (Navy contacts: Angel Ruiz-Reyes, Anthony Brescia; project notes)
-- **Completion Rate:** 0% (all tasks in Asana remain open)
-- **Notable Patterns:**
-  - Heavy technical workload concentrated on Alex Lomis (builds, testing, flights) — bandwidth risk given team prioritization shift.
-  - Reporting deliverables depend on completion of technical work (Jack Elston producing progress & final reports based on testing results).
-  - Five tasks with due dates in May 2026 (8, 13, 18,
+- **Total Tasks:** 0 open, 1 completed
+- **Completed Task:** Settings for both Mag Sensors (Maciej Stachura, completed May 29, 2026)
+- **Completion Rate:** All tracked tasks closed in Asana
+
+## Recent Activity
+Last recorded activity: Maciej Stachura completed "Settings for both Mag Sensors" on May 29, 2026 (11 days past the May 18 due date).
+
+All other tasks have been closed in Asana. The project appears to have transitioned from active execution (as of May 2026) to either completion or archival. No recent status updates visible in raw data.
+
+## Notes & Context
+- **Project Data Anomaly:** Both project start and due dates listed as 2026-09-28; unclear if this reflects actual closure or system archival. Previous knowledge indicated Option Period ran Apr 14 – Sep 28, 2026 with compressed schedule.
+- **Priority:** Marked as "High" in custom fields.
+- **Phase I Scope:** Magnetic anomaly detection (MAD) and passive acoustic sensing integration into SL UAS platform, including sensor integration, platform modification, system testing, and laboratory validation. Field testing conducted in collaboration with Cetacean Research Technology (CRT) and QuSpin.
+- **Previous Risk Signals (as of May 2026):** Navy STTR prioritized over this SBIR; team bandwidth constrained. Camp Pendleton permissions (Beck Cotter, due Jun 1) was a critical external blocker.
+- **Recommendation:** Verify final project status with Alex Lomis or Meredith O'hara Needham; Asana closure may indicate successful completion, but compressed timeline and shifting priorities suggest follow-up confirmation is advisable.

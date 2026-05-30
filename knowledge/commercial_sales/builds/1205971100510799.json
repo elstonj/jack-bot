@@ -63,7 +63,7 @@
     "invoicing": "Meredith",
     "build": "Alex Lomis"
   },
-  "notes": "QBO paid invoice #1667 ($21,181.81 paid 2026-05-21) + outstanding balance invoice #1730 ($2,462.50 unpaid, 2026-01-08). Recent substantive email/Slack through 2026-05-21 confirms active engagement: Kevin requested Aug/Sept delivery for ISARRA Flight Week; Jack Elston confirmed target and offered to deliver at ISARRA site. System in daily flight testing with bug resolution (Beck 2026-03-17); Kevin confirmed patience. Currently in QC pending final delivery by late August 2026.",
+  "notes": "QBO invoices: #1667 ($21,181.81 paid 2026-05-21) + #1730 ($2,462.50 unpaid, 2026-01-08). Active engagement through 2026-05-21: Kevin confirmed Aug/Sept delivery for ISARRA Flight Week; Jack offered to deliver at ISARRA site to simplify logistics. Daily flight testing with bug resolution ongoing (Beck 2026-03-17); Kevin patient. Currently in QC pending final delivery by late August 2026.",
   "missing_fields": [
     "shipped_date"
   ],

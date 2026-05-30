@@ -21,7 +21,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Stefan (Atmofacts - external partner, methane algorithm tuning)
 - Chris (UMES - external customer contact, S3 training/delivery)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: May 28, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: May 29, 2026.
 
 ---
 
@@ -45,9 +45,15 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Two S3 systems ordered by INSTAAR (June 1, 2025 deadline)
 - UMES S3 training planned for late May with funding deadline 5/31/2025
 - S3 becoming primary aircraft platform replacing S2
-- **UMES S3 Order (April 2026):** 3 S3 battery packs and 2 S2 battery packs included in order; Joshua Fromm requesting clarification on S2 battery pack inclusion since S2 is end-of-life (April 29, 2026)
-- **UMES S3 Delivery (May 18, 2026):** Invoice prepared and sent to Chris (UMES customer contact); aircraft nearly complete. Ship date: May 29, 2026. Packing: single pallet with aircraft case, accessory case, and battery case (batteries are Class 9 hazmat). Joshua Fromm providing photos same day for invoice. Delivery confirmation expected before 3 PM Mountain time (May 18).
-- **UMES Shipment Scheduled (May 28, 2026):** Freight pick-up scheduled for May 29, 2026 between 12 PM-4 PM (Meredith Needham coordinating); Bill of Lading and shipping label to be finalized morning of pickup
+
+**UMES S3 Order & Delivery (April-May 2026)**
+- Order includes: 3 S3 battery packs and 2 S2 battery packs
+- Joshua Fromm requested clarification on S2 battery pack inclusion since S2 is end-of-life (April 29, 2026)
+- Invoice prepared and sent to Chris (UMES customer contact); aircraft nearly complete
+- Ship date: May 29, 2026
+- Packing: single pallet with aircraft case, accessory case, and battery case (batteries are Class 9 hazmat)
+- Joshua Fromm provided photos same day for invoice
+- **UMES Shipment Picked Up (May 29, 2026):** Freight pick-up successfully completed; Meredith Needham coordinated logistics. This marks **first S3 customer delivery** (per Joshua Fromm's comment May 29, 2026)
 
 **E2 Tilted Rotor Configuration (August 2022)**
 - E2-13: Keep untilted rotors initially, parts ordered for future conversion
@@ -101,4 +107,11 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Joshua Fromm asking for clarification on number of S0 units needed for NOAA delivery
 - Implies ongoing NOAA customer relationship with pending order
 
-### Service Repair Pricing & Quoting Standards (April 2026)
+---
+
+## Projects & Initiatives
+
+### UMES (University of Maryland Eastern Shore) S3 Project
+**Status:** COMPLETED (Delivered May 29, 2026)
+- Customer contact: Chris
+-

@@ -1,10 +1,15 @@
 # Jack Elston — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 3,249 (3,149 prior + 100 May 28–29)
-- **Date range:** April 1–May 29, 2026
+- **Total messages scanned:** 3,349 (3,249 prior + 100 May 29–30)
+- **Date range:** April 1–May 30, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **May 28–29 activity:** 100 new messages. **~60% automated/vendor traffic.** 40 human messages concentrated in M&A integration (Krateo), government programs (UK MOD, US Navy, NORAD, NOAA), publishing/book initiative, and legal/financial coordination.
+- **May 29–30 activity:** 100 new messages. **~55% automated/vendor traffic** (procurement, shipping, newsletters, recruitment). **45 human messages** concentrated in:
+  - Arctic Edge 2027 (AE27) government operations (NORAD, SOCOM, USSOCOM escalation)
+  - S0™ VTOL program technical coordination
+  - M&A integration finalization (Krateo)
+  - Legal/financial documentation (Ko Firm, tax, disclosure schedules)
+  - Stanford research collaboration (MHP data alignment)
 
 ---
 
@@ -12,73 +17,62 @@
 
 ### Top Internal BST Contacts
 
-**Maciej Stachura** (stachura@blackswifttech.com) — Operations, technical coordination, partnerships, camera/sensor systems
-- **May 28–29 escalations (CRITICAL VOLUME):**
-  - **Camera support for BlackSwift** (Bob Smith, multiple exchanges May 28 16:02–23:03 UTC, IMPORTANT) — Ongoing sensor/camera integration coordination with Krateo
-  - **(U) Black Swift S0 VTOL UAS Weather Data Collection Proposal for Arctic Edge 2027** (Beck, Daniel, May 28 13:49–15:50 UTC, IMPORTANT) — **Classified/controlled Arctic operations program; Jack forwarded to full Krateo team (Bob Smith, Lisa Marie Cheney, Adria Passola, Brian Grubel) on May 29 01:02 UTC**
-  - **Black Swift Final Industrial Plan** (Sona Raziabeegum coordination, May 29 04:13 UTC, IMPORTANT) — M&A integration planning continuation
-  - **Ready for Your Interview? — Co-Author Invitation** (Jack to Maciej, May 28 09:26 UTC, x2, SENT) — Book/publishing recruitment
-- **Pattern:** Central technical operations and M&A integration hub; receiving classified/controlled program coordination.
+**Beck Cotter** (beck.cotter@blackswifttech.com) — Operations lead, government coordination
+- **May 29–30 escalations (CRITICAL VOLUME):**
+  - **(U) Invitation: AE27 discussion BST/NORTHCOM @ Wed Jun 3, 2026 2:30pm–3:15pm (MDT)** (May 29 19:08 UTC & 16:40 UTC, IMPORTANT) — **Formal NORAD/NORTHCOM/USSOCOM trilateral meeting scheduled; Beck coordinating with Patricia Vollmer, Kevin Saunders, Jack, Maciej, Daniel**
+  - **(U) S0 VTOL UAS** / **S0™ VTOL Discussion** (Multiple May 29 threads, IMPORTANT) — Ongoing technical coordination with NOAA Federal (Chidong Zhang) on S0 capability alignment
+  - **NE27 Site Survey Requirements — Due NLT Friday, 29 May** (May 29 16:13 UTC, IMPORTANT) — **Naval operations tasking; forwarded to Jack, Maciej, Daniel with US Navy (NAWCAD) leads Brescia, Ruiz-Reyes**
+  - **Fwd: Drone Data Improves Hurricane Forecast Accuracy by 10%** (May 29 08:48 UTC, IMPORTANT) — Media/publication coordination forwarded to Jack & Paige Smith
+- **Pattern:** Beck remains central government operations hub; direct NORAD/NORTHCOM/USSOCOM engagement; tasking Navy survey requirements.
 
-**Beck Cotter** (beck.cotter@blackswifttech.com) — Operations, communications, government coordination
-- **May 28–29 escalations:**
-  - **(U) Black Swift S0 VTOL UAS Weather Data Collection Proposal for Arctic Edge 2027** (Forwarded from Patricia Vollmer NORAD, May 28 13:52 UTC, IMPORTANT) — **Lead coordinator on Arctic Edge 2027 proposal; Jack, Daniel, Maciej responding**
-  - **LM/Black Swift Technologies MAD UAV Discussion** (Alasdair Brackenridge, Lockheed Martin, May 28 15:22 UTC, IMPORTANT) — UK MOD UAV partnership coordination (formal LM internal distribution to Neil Morphett, Dhruti Shah)
-- **Pattern:** Government program lead; escalating to formal LM/UK MOD engagement.
+**Maciej Stachura** (stachura@blackswifttech.com) — Operations, technical partnerships
+- **May 29–30 pattern:**
+  - Copied on all AE27/Arctic Edge/S0 VTOL discussions
+  - **RE: [Non-DoD Source] Re: S0 — MAD update** (May 29 14:13 UTC, IMPORTANT) — Responding directly to US Navy NAWCAD (Ruiz-Reyes) on Maritime/Anti-submarine systems
+  - **Black Swift — Employment Agreement** (May 29 10:01 UTC, IMPORTANT) — Legal coordination with Ko Firm (Niki Schwab)
+  - **Receiving bio request from Krateo** (Sona Raziabeegum, May 29 13:56 UTC) — M&A documentation phase
+- **Pattern:** Technical-operations interface; direct Navy liaison on classified/controlled programs.
 
-**Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical partnerships, government coordination
-- **May 28–29 pattern:** Copied on Arctic Edge 2027 (S0) and UK MOD MAD UAV coordination; continuing international government liaison role.
+**Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical partnerships, government liaison
+- **May 29–30 escalations:**
+  - Copied on all AE27 NORAD/NORTHCOM/USSOCOM meetings and S0 VTOL discussions
+  - **Fwd: Colorado Defense & Industry Coalition** (May 29 08:24 UTC, IMPORTANT) — Industry coalition coordination (forwarded to Jack)
+  - **Latest Stable Binary** (May 29 08:06 UTC, IMPORTANT) — Software/firmware coordination with Nikhila Ravikumar (NanoVeu)
+- **Pattern:** Continues government liaison and technical partnership role across Arctic and maritime programs.
 
-**Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, vendor management
-- **May 28 signal:**
-  - **Document Status** (Nadia Bryan, Ko Firm, May 28 12:35/17:22 UTC, IMPORTANT) — Legal/financial document coordination
+**Joshua Fromm** (josh.fromm@blackswifttech.com) — Copied on NOAA Federal correspondence (May 29 10:22 UTC)
+- **Pattern:** NOAA/weather program involvement (first appearance in May 29–30 data).
+
+**Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, vendor management, HR
+- **May 29–30 escalations:**
+  - **CPA Review Questions** (May 29 10:02 UTC, IMPORTANT) — Financial/audit coordination
+  - **RE: Checking In** (Multiple, May 29, IMPORTANT) — Legal (Ko Firm via Nadia Bryan) and finance sync
+  - **SAM.gov | Action Needed: Address Update** (May 29 10:42 UTC, IMPORTANT) — Federal contractor registration/compliance
+  - **Major Medical Renewal** (Chad Atwood, May 29 11:50/18:05 UTC, IMPORTANT) — Insurance coordination; **meeting scheduled Jun 4, 2026 1pm–2pm (MDT)**
+  - **Aerospace R&D Support inquiry from Rhys Tuohy** (May 29 11:09 UTC, IMPORTANT, CATEGORY_FORUMS) — Recruitment/hiring
+- **Pattern:** Finance/compliance/HR hub; M&A integration financial/HR work.
+
+**Paige Smith** (paige.smith@blackswifttech.com) — Communications/media
+- **May 29 escalation:**
+  - **Re: Drone Data Improves Hurricane Forecast Accuracy by 10%** (May 29 15:08/11:48 UTC, IMPORTANT) — Media coordination with Weather Nation TV (Karissa Klos); Jack responding on media messaging
+- **Pattern:** External communications and media relations.
 
 ---
 
 ### Top External Contacts
 
-#### **Government / Defense Programs (ESCALATING)**
+#### **Government / Defense Programs (CRITICAL ESCALATION — AE27 NORAD/NORTHCOM/USSOCOM TRILATERAL)**
 
-**UK Ministry of Defence — Merlin Mk2/MAD UAV Partnership (NEW ESCALATION)**
-- **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — MOD lead contact
-- **May 28–29 escalations (CRITICAL):**
-  - **RE: Merlin Mk2/US Navy SBIR** (May 28 16:33 UTC, May 29 07:50 UTC, IMPORTANT) — **UK MOD integration of US Navy SBIR program; direct MOD correspondence with Joshua Fromm, Jack Elston copied**
-  - **LM/Black Swift Technologies MAD UAV Discussion** (May 28 15:22 UTC, IMPORTANT) — **Alasdair Brackenridge (LM) formally escalating to Neil Morphett, Dhruti Shah (LM internal); copied Beck, Daniel, Maciej, Jack — indicates formal bilateral MOD/LM/Black Swift negotiation phase**
-- **Pattern:** Direct UK MOD engagement; maritime/submarine operations focus (Merlin Mk2 = helicopter platform); integration with US Navy programs.
+**Patricia A. Vollmer, CIV NORAD-USNC JOC** (patricia.a.vollmer.civ@mail.mil) — NORAD Lead
+- **May 29–30 escalations (CRITICAL):**
+  - **(U) Invitation: AE27 discussion BST/NORTHCOM @ Wed Jun 3, 2026 2:30pm–3:15pm (MDT)** (May 29 19:21 UTC & 16:40 UTC, IMPORTANT) — **SCHEDULED TRILATERAL MEETING: NORAD, NORTHCOM, USSOCOM with Jack, Beck, Maciej, Daniel, Kevin Saunders**
+  - **RE: (U) Black Swift S0 VTOL UAS Weather Data Collection Proposal for Arctic Edge 2027** (May 29 18:21 UTC & 16:44 UTC, IMPORTANT) — **S0™ VTOL proposal advancing; NORAD leading; AE27 is operational Arctic Edge 2027 military exercise**
+  - **RE: (U) S0 VTOL UAS** (May 29 16:44 UTC, IMPORTANT) — Technical coordination continuing
+- **Pattern:** NORAD operational commander for Arctic Edge 2027; direct engagement with S0™ VTOL tactical requirements.
 
-**US Military — Arctic Operations (NEW CRITICAL ESCALATION)**
-- **Patricia A. Vollmer, CIV NORAD-USNC JOC** (patricia.a.vollmer.civ@mail.mil)
-- **May 28 escalation (CRITICAL):**
-  - **(U) Black Swift S0 VTOL UAS Weather Data Collection Proposal for Arctic Edge 2027** (May 28 19:45 UTC, IMPORTANT) — **Classified/controlled program designation (U = Unclassified but controlled); NORAD coordination; Arctic operations focus; direct to Beck, Jack**
-  - **Pattern:** NORAD leading Arctic Edge 2027 military operations; Jack/Beck responding on tactical/operational proposal
-- **Cross-reference:** Aligns with Navy/submarine coordination and international Arctic/maritime geopolitics.
-
-**US Navy — Anti-Submarine/SBIR Integration (CONTINUING)**
-- **Merlin Mk2/US Navy SBIR** thread (ongoing) — integration with UK MOD program indicates submarine/maritime focus sustained.
-
-**NOAA Federal — Expanded Engagement (ESCALATING)**
-
-**Mark E. Rogers** (mark.e.rogers@noaa.gov) — NOAA Federal leadership
-- **May 28 escalation (NEW):**
-  - **FY 26 Hx Comms** (May 28 11:57 UTC, IMPORTANT) — **Hurricane program communication; Jack included in NOAA Federal network with Nikki Hathaway, Nikolai Pawlenko, Danielle Varwig, Jason Sippel, Joe Cione, Laura Rock**
-  - **Pattern:** Jack now embedded in formal NOAA Federal hurricane/operations coordination; leadership-level inclusion
-
-**Joe Cione** (joe.cione@noaa.gov) — NOAA Hurricane Research
-- **May 28 escalation:**
-  - **Co-Author Interview Invitation — 45 Minutes** (Jack to Joe, May 28 12:41 UTC, SENT) — **Book/publishing collaboration recruitment** (continuing May 27 pattern)
-
-**Krateo Sky (M&A Integration Partner)**
-
-**Sona Raziabeegum** (sona@krateosky.com) — Operations/M&A lead
-- **May 28–29 escalations (CRITICAL M&A VOLUME):**
-  - **RE: Update** (May 29 04:31 UTC, IMPORTANT) — Integration status update
-  - **Quick ask: short bio for KrateoSky Investment Memorandum** (May 29 04:13 UTC, IMPORTANT) — Jack providing biographical content for investment documents
-  - **Black Swift Final Industrial Plan** (May 29 00:12 UTC & earlier, IMPORTANT) — Finalization of combined operational/business plan
-  - **FW: Black Swift - Punch List** (May 29 00:01 UTC, SENT) — Action item coordination
-  - **Recap: Today's Sync and Action Items** (May 29 00:17 UTC, SENT) — Daily operations synchronization
-  - **Thibault Bridel-Bertomeu** (Thibault@krateosky.com, May 29 00:04 UTC & 06:06 UTC, IMPORTANT) — Check-in; likely Krateo technical/operations lead
-- **Pattern:** Intensive daily M&A integration coordination; investment/financial documentation phase; industrial plan finalization in progress.
-
-**Bob Smith, Lisa Marie Cheney, Adria Passola, Brian Grubel** (Krateo Sky) — Technical/Operations coordination
-- **May 29 escalation:**
-  - **Fwd: (U) Black Swift S0 VTOL UAS Weather Data Collection
+**Kevin W. Saunders, CTR USSOCOM SOCNORTH** (kevin.w.saunders.ctr@socom.mil) — USSOCOM Special Operations Northern Command
+- **May 29–30 escalations (NEW CRITICAL CONTACT):**
+  - **RE: (U) Invitation: AE27 discussion** (May 29 19:08 UTC, IMPORTANT) — **USSOCOM Special Operations Command North attending Jun 3 meeting**
+  - **RE: (U) Black Swift S0 VTOL UAS Weather Data Collection Proposal for Arctic Edge 2027** (May 29 18:13 UTC, IMPORTANT) — Direct S0™ VTOL proposal input from USSOCOM perspective
+  - **RE: (U) S0 VTOL UAS** (May 29 10:05 UTC, IMPORTANT) — Technical feedback
+- **

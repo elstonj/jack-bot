@@ -1,7 +1,7 @@
 # BST Project Registry
 
 Master index of all active projects with cross-system links.
-_Generated from Asana project overviews. 49 active projects._
+_Generated from Asana project overviews. 50 active projects._
 
 | Code | Project | Customer | Budget | Slack | Financial |
 |------|---------|----------|--------|-------|-----------|
@@ -44,6 +44,7 @@ _Generated from Asana project overviews. 49 active projects._
 | 301_3 | S0 Hurricane Phase II - 2025 | NOAA/Univ. Miami | $1700000 | #sbir-hurricane, #s0-vtol | Yes |
 | 350_4 | 2024 USGS - Chile (Mexico) | USGS (Volcano Science Cen | $124,230 | #sbir-volcano | Yes |
 | 451_1 | INSTAAR S3 x 2 | INSTAAR, CU Boulder | $120,000 | — | — |
+| 452_2 | S2 Simulator & used E2 Battery | Dan Hesselius (CU Boulder | — | — | Yes |
 | 550_1 | NAVY SBIR: Magnetometer | Dept of the Navy | $242,540 | #sbir-hurricane, #sbir-volcano | Yes |
 | 550_2 | Navy STTR: Hazardous Weather | Dept. of the Navy | $146,326 | #sbir-hurricane, #sbir-volcano | Yes |
 | — | Flight Testing | — | — | #flight-testing | — |

@@ -49,7 +49,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "DoW (via Astrallic, procurement specialist Tufail Ahmed) formal RFQ for federal customer in Boulder, CO received 2026-05-21. Tight federal submission timeline and NDAA/TAA compliance required. KEPT: substantive customer engagement within last 90 days \u2014 formal RFQ email 2026-05-21 with detailed specs, delivery address, and explicit tight deadline.",
+  "notes": "DoW (via Astrallic, procurement specialist Tufail Ahmed) formal RFQ for federal customer in Boulder, CO received 2026-05-21. Tight federal submission timeline and NDAA/TAA compliance required. KEPT: substantive customer engagement within last 90 days \u2014 formal RFQ email 2026-05-21 with detailed specs, delivery address, and explicit tight deadline. Most recent contact Asana field shows 2026-01-19, but email engagement on 2026-05-21 overrides stale Asana date field.",
   "missing_fields": [
     "receive_by",
     "invoice_amount",

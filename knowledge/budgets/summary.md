@@ -1,56 +1,79 @@
 # BST Project Financial Overview
 
-## ⚠️ Data Organization Status
+## Active Project Budgets
 
-**CRITICAL FINDING:** The provided budget data is **incomplete and unstructured**. The summary references 1,181 budget documents across multiple projects, but the actual detailed project information was truncated mid-document.
-
----
-
-## What We Can Confirm
-
-### Identified Project
-**[200] NASA — AREN (Aeropods Commercial)**
-- **Project Name:** MiniCam Project
-- **Status:** Preliminary/Commercial product costing phase
-- **Document:** BST MiniCam Preliminary Cost (February 2026).xlsx
-- **Last Modified:** 2026-03-04
-- **Budget Type:** Unit cost analysis (specific amounts not provided in excerpt)
+| Project Code | Client | Project Title | Contract Type | Total Budget | Period | Status |
+|---|---|---|---|---|---|---|
+| **452-2** | University of Colorado Boulder (Daniel Hesselius) | S2 Simulator & Used Battery | Commercial/Equipment Sale | $3,900.00 | One-time | Invoiced |
+| **550-2** | United States Navy (Department of Naval Research) | N25A-T025 Expendable Air-sea Profiling Observations in Hazardous Weather | Navy STTR Phase I + Option | $245,772.00 | July 22, 2025 – Jan 7, 2026 (Base) + Feb 2026 (Option) | Active |
+| **Unassigned Portfolio** | Multiple (NASA, NOAA, DoD, other federal) | Various (~1,181 documents) | Mixed (SBIR, STTR, commercial, IRAD, etc.) | *Not summarized* | Various | Mixed stages |
 
 ---
 
-## Data Gaps Requiring Resolution
+## By Funding Source
 
-To complete this financial overview, we need:
+### **Navy**
+- **Project 550-2** (STTR Phase I + Option): $245,772.00
 
-1. **Complete Project Registry**
-   - Full list of active project codes
-   - Client/agency assignments
-   - Total budgets for each project
-   - Contract types (SBIR Phase I/II, IRAD, commercial, other)
+### **University/Academic** 
+- **Project 452-2** (CU Boulder): $3,900.00
 
-2. **Funding Sources**
-   - Agency breakdown (NASA, NOAA, DoD, others)
-   - Total funding per source
-   - Remaining funded amounts
-
-3. **Financial Health Metrics**
-   - Project spend-to-date
-   - Remaining budgets
-   - Milestone/invoice timing
-   - Projects at risk
-
-4. **Systems Integration**
-   - QuickBooks project codes
-   - Google Drive project file locations
-   - Document linking to specific budgets
+### **Federal Agencies (Unassigned Portfolio)**
+- **NASA** – Aeropods Commercial (MiniCam project in preliminary costing phase)
+- **NOAA** – Multiple projects documented
+- **DoD** – Multiple projects documented
+- *Detailed budget breakdown pending data organization*
 
 ---
 
-## Recommendation
+## By Contract Type
 
-**Please provide:**
-- Complete project budget spreadsheet or database extract
-- List of active projects with associated codes
-- Current spend reports or financial statements
+| Contract Type | Known Projects | Status |
+|---|---|---|
+| **Navy STTR Phase I + Option** | 550-2 | $245,772.00 – Active |
+| **Commercial/Equipment Sales** | 452-2 | $3,900.00 – Invoiced |
+| **SBIR (Phase I/II)** | Unassigned portfolio | *Requires further review* |
+| **IRAD** | Unassigned portfolio | *Requires further review* |
+| **NASA/NOAA Commercial** | MiniCam (preliminary) | *Concept stage* |
 
-The 1,181-document collection appears valuable but needs systematic extraction into a structured format for accurate financial analysis.
+---
+
+## Financial Health Indicators
+
+### **Immediate Observations**
+
+1. **Project 452-2 (Low Risk)**
+   - Small, discrete transaction ($3,900)
+   - Already invoiced
+   - No ongoing budget concerns
+
+2. **Project 550-2 (Active & Funded)**
+   - Navy STTR Phase I: $146,326.00 (Base Period: July 22, 2025 – Jan 7, 2026)
+   - Option Period Budget: $99,446.00 (confirmed Feb 2026)
+   - **Status:** Well-funded, active through at least early 2026
+   - **Timeline:** Base period ending January 7, 2026 – potential transition to Option Period
+   - **No apparent budget concerns noted**
+
+3. **Unassigned Portfolio (1,181 Documents)**
+   - **Critical Gap:** Documents exist but lack clear project codes/financial summaries
+   - **Risk:** Unknown total portfolio value, funding status, and spend rates
+   - **Action Required:** Data organization needed to assess portfolio health
+
+---
+
+## QuickBooks Integration Notes
+
+- **Project 452-2:** Invoice data present (partial table); QB status unknown
+- **Project 550-2:** Contract document complete; QB integration status unknown
+- **Unassigned Portfolio:** 1,181 documents in Google Drive format; no QB cross-reference provided
+- **Recommendation:** Establish QB mapping protocol for all active projects to ensure accounting reconciliation
+
+---
+
+## Data Quality Issues
+
+| Issue | Impact | Priority |
+|---|---|---|
+| Unassigned portfolio (1,181 docs) lacks project codes | Cannot roll up total BST budget or assess portfolio risk | **HIGH** |
+| Incomplete invoice records for 452-2 | Billing/AR status unclear | **MEDIUM** |
+| No QB reconciliation noted | Cannot verify spend against contract budgets | **MEDIUM** |

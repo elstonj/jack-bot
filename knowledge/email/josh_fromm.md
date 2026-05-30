@@ -1,12 +1,12 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 431 emails (combined: 377 prior + 54 new)
-- **Date range:** May 18–29, 2026
-- **Volume pattern:** Extremely high sustained volume; heavy procurement activity mixed with government partnership coordination and vendor logistics
-- **Unread messages:** ~240+ unread (continued sustained incoming rate; significant promotional/automated email volume)
-- **Daily average:** ~14–16 emails/day (excluding heavy promotional volume routed via purchasing alias)
-- **New data period (May 28–29):** 54 emails in 2 days; continued high velocity
+- **Total messages scanned:** 469 emails (combined: 431 prior + 38 new)
+- **Date range:** May 18–30, 2026
+- **Volume pattern:** Extremely high sustained volume; heavy procurement activity mixed with government partnership coordination, vendor logistics, and technical field operations
+- **Unread messages:** ~260+ unread (continued sustained incoming rate; significant promotional/automated email volume)
+- **Daily average:** ~14–16 emails/day (excluding heavy promotional/automated volume routed via purchasing alias)
+- **New data period (May 29–30):** 38 emails in 2 days; maintained high velocity through weekend
 
 ---
 
@@ -16,113 +16,109 @@
 1. **Jack Elston** (elstonj@blackswifttech.com) — **Primary collaborator**
    - Acts as liaison on government programs (Merlin Mk2, US Navy SBIR, UK MOD)
    - Coordinates with external partners (Simon Laurence/MOD, USAF contacts)
-   - Multiple IMPORTANT emails on tube-launched UAS development
-   - Continues active dialogue through May 28–29
+   - **NEW:** FY 26 Historical Communications forwarded May 29 (10:22 MDT) [IMPORTANT] — distributed to Maciej Stachura, Joshua Fromm, Meredith Needham, Beck Cotter
+   - Continues active dialogue; receiving battery orders (BatterySpace order #499821 to Jack Elston's purchasing account May 29)
 
 2. **Maciej Stachura** (stachura@blackswifttech.com) — **Co-investigator/technical lead**
    - NOAA program coordination
    - Merlin Mk2/UK MOD communications
-   - **NEW:** Lead on Arctic Edge 2027 proposal (May 28) — "Black Swift S0 VTOL UAS Weather Data Collection Proposal for Arctic Edge 2027" [IMPORTANT]
-   - Receives supplier communications and field/testing activity coordination
+   - Arctic Edge 2027 proposal lead
+   - **NEW:** Included in FY 26 historical comms distribution May 29
 
 3. **Meredith Needham** (meredith.needham@blackswifttech.com) — **Procurement/Operations**
-   - Forwarding shipping confirmations for time-sensitive deliveries
-   - Receives helicopter-related newsletters (HeliDirect)
-   - Coordinates with external partners (Christopher Hartman/UMES)
-   - Josh forwards procurement orders to her (e.g., SO-01545, May 28)
+   - Continues as forwarding point for shipment confirmations
+   - **NEW:** Shares "SOP: Shipping" folder via Google Drive with Josh (May 29, 15:56 UTC) [IMPORTANT] — operational procedure documentation
+   - Included in FY 26 historical comms distribution May 29
+   - Receives continued procurement coordination emails
 
-4. **Beck Cotter** (beck.cotter@blackswifttech.com) — **NEW KEY CONTACT**
-   - Engaged in Arctic Edge 2027 proposal dialogue (May 28, 15:34–15:50 MDT)
-   - IMPORTANT emails on S0 VTOL UAS weather data collection
+4. **Beck Cotter** (beck.cotter@blackswifttech.com) — **Key internal collaborator**
+   - **NEW:** Included in FY 26 historical comms distribution May 29
+   - Arctic Edge 2027 proposal dialogue continuing
+
+5. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **NEW ACTIVE CONTACT**
+   - **Technical dialogue:** "Atmolab Camera support for BlackSwift" (May 29, 09:20–09:23 MDT)
+   - Josh responds directly [SENT]
+   - Prendergast initiates forward to Josh, Ethan Domagala, Alex Lomis
+   - **Inference:** Camera/sensor payload integration for aircraft systems
+
+6. **Ethan Domagala** (ethan.domagala@blackswifttech.com) — **Technical team member**
+   - Copied on Atmolab camera support dialogue
+
+7. **Alex Lomis** (alex.lomis@blackswifttech.com) — **Technical team member**
+   - Copied on Atmolab camera support dialogue
 
 ### Top External Government Contacts
-1. **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — **UK Ministry of Defence**
-   - Direct dialogue on Merlin Mk2/US Navy SBIR program
-   - **NEW:** Continues engagement May 28 (16:33 UTC) and May 29 (07:50 UTC) — both [IMPORTANT]
-   - Confirms sustained active international government partnership
-   - 3+ confirmed touches in May 28–29 window
+1. **Laura Rock – NOAA Federal** (laura.rock@noaa.gov) — **ACTIVE DIALOGUE**
+   - **NEW:** Responds May 29 (08:43 EDT) to "Black Swift Ground station & Used S0" [IMPORTANT]
+   - Direct engagement on S0 aircraft availability and ground station coordination
+   - Continues sustained partnership on weather data collection programs
 
-2. **Lt Col Matthew A. Swee** (matthew.swee.1@us.af.mil) — **USAF 63rd Air Refueling Squadron**
-   - Communications on "Tube Launched UAS" program
-   - IMPORTANT emails; copied to Albert Lowas (AMC/ST)
-   - Indicates Air Force procurement/testing relationship
+2. **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — **NOAA Federal**
+   - Co-recipient with Laura Rock on S0/ground station dialogue (May 29)
+   - Previous active correspondence May 28
 
-3. **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — **NOAA Federal**
-   - **NEW ACTIVE DIALOGUE:** Josh responds May 28, 10:57 MDT on "Black Swift Ground station & Used S0"
-   - Pawlenko initiates (May 28, 10:56 MDT) — [IMPORTANT] — suggests urgent operational question
-   - Laura Rock (NOAA Federal) also copied
-   - **Inference:** S0 aircraft availability for NOAA; ground station interoperability
+3. **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — **UK Ministry of Defence**
+   - Sustained engagement on Merlin Mk2/US Navy SBIR program
+   - Previous confirmed touches May 28–29
 
-4. **Annette Hollingshead** (NOAA) — **Monthly program coordination**
-   - Recurring monthly partnership meetings
+4. **Lt Col Matthew A. Swee** (matthew.swee.1@us.af.mil) — **USAF 63rd Air Refueling Squadron**
+   - Tube Launched UAS program communications
 
-5. **Joshua Wadler** (ERAU) — **Academic partner**
-   - NOAA/Black Swift program coordination
-
-### Top Suppliers (Updated Activity — May 28–29)
+### Top Suppliers (May 29–30 Update)
 
 #### CNC/Fabrication & Prototyping
-1. **Jessica — ProtoSpace Mfg** (jessica@protospacemfg.com / ksteele@protocase.com) — **ESCALATED ENGAGEMENT**
-   - **NEW:** Order shipment notification May 28 (11:26 MDT) [IMPORTANT] — "Your order has shipped"
-   - Kevin Steele (ksteele@protocase.com) coordinates shipment with Jessica and Josh
-   - Continued rapid dialogue; shipment now in transit
-   - **Status:** Active, time-sensitive sourcing relationship with completed order shipment
+1. **ProtoSpace Mfg / ProtoCASE** (jessica@protospacemfg.com / ksteele@protocase.com)
+   - **NEW:** Invoice 255039 from Protospace received May 29 (19:27 UTC)
+   - Accounting contact: accounting@protospacemfg.com
+   - Order shipment continues from May 28; invoice generation indicates completed order cycle
 
-2. **Lee Skidmore — Rubicon Aerospace** (lee@rubiconaerospace.com) — **CRITICAL SUPPLIER**
-   - Josh responds May 28 (11:02 MDT) to "Launch Tube Validate" [SENT]
-   - Continues dialogue on S0 launch tubes
-   - Sustained engagement on tube-launched UAS validation
+2. **Rubicon Aerospace** (lee@rubiconaerospace.com) — **CRITICAL SUPPLIER**
+   - Launch tube validation dialogue continues
+   - Tube-launched UAS development partnership
 
-#### Electronics & Components (Expanded)
-1. **ServoCity®** (sales@servocity.com) — **Multiple order updates**
-   - Order #300044184 — 4 status updates (May 28–29)
-   - RC/drone mechanical components (servos, mechanical parts)
-   - **Status:** Order in active fulfillment cycle
+3. **SendCutSend** (sheet metal fabrication)
+   - Order SS97A808 — previous active shipment tracking
 
-2. **Blue Bird Model** (sales@blue-bird-model.com) — **NEW DIRECT SUPPLIER**
-   - **Email received:** May 28, 16:20 UTC [IMPORTANT] — "RE: Servo order for Black Swift"
-   - Directed to Josh Fromm and Meredith Needham
-   - **Status:** Servo/actuation components for aircraft; direct relationship established
+#### Electronics & Components
+1. **McMaster-Carr** — **EXTREMELY ACTIVE (May 29)**
+   - **3 order confirmations/receipts May 29:**
+     - Order confirmation (17:53 EDT, May 29)
+     - Certificates and tracking (18:23 EDT, May 29)
+     - Invoice/receipt (01:13 UTC, May 30)
+   - Routed to PURCHASING@BLACKSWIFTTECH.COM
+   - **Status:** Major procurement spike; multiple orders in fulfillment/receipt cycle
 
-3. **JawsTec** (briana@jawstec.com) — **Status update**
-   - Briana Gonzalez reports "Possible order delay" May 28 (22:15 UTC)
-   - Previous order in-transit; delay communication suggests time-sensitive shipment
+2. **ServoCity®** (sales@servocity.com)
+   - Previous order #300044184 — continued status tracking
 
-4. **Hobbywing (via HeliDirect)** — **Purchase review**
-   - 3x Hobbywing RPM Sensor For High-Voltage ESC (Part 86060041)
-   - Order May 29, 04:03 UTC
-   - **Inference:** High-voltage ESC = Electronic Speed Controller; likely for brushless motor propulsion systems
+3. **Blue Bird Model** (sales@blue-bird-model.com) — **Direct servo supplier**
+   - Servo order for Black Swift; active engagement
 
-5. **ELEGOO US** — Alternate recipient Alexis Lomis (prior data); electronics components
+4. **DigiKey** — **NEW ACTIVE SUPPLIER**
+   - **NEW:** Shipping notification May 29 (13:33 CDT) — "DigiKey has shipped a package for invoice 125625104" [UNREAD]
+   - Electronics component distribution
 
-#### Industrial & Mechanical (Expanded)
-1. **SendCutSend** (sheet metal fabrication service) — **ACTIVE SUPPLIER**
-   - Order SS97A808 — 3 touchpoints (May 28, 17:22–18:25 UTC)
-   - Quote created, order placed, shipment confirmed
-   - **Inference:** Custom sheet metal parts for structural/chassis components
+5. **BatterySpace.com / AA Portable Power Corp.** — **EXPANDED ENGAGEMENT**
+   - **NEW:** Order Confirmation #499821 routed to Jack Elston (purchasing@blackswifttech.com) May 29 (14:34 EDT)
+   - **NEW:** Account activity notification to Daniel Troke (purchasing@blackswifttech.com) May 29 (14:31 EDT)
+   - **NEW:** Password reset request to purchasing@blackswifttech.com May 29 (14:30 EDT)
+   - **Status:** Battery procurement; multiple account touches suggest new/escalated supplier relationship
+   - **Inference:** High-capacity battery systems for aircraft propulsion
 
-2. **McMaster-Carr** — **Continued active procurement**
+6. **KST Servos** (marketing@kstservos.com) — **NEW CONTACT**
+   - Marketing email May 29 (12:01 UTC) [IMPORTANT] — "Every Pilot Was Once a Kid ✈️"
+   - Aircraft control surface actuation components
 
-3. **DIY500AMP.com** — **Order shipping**
-   - Order #3058 confirmed shipping May 28 (17:22 UTC)
-   - High-amperage electrical components; possible battery/motor power distribution
+7. **Hobbywing** — Previous high-voltage ESC procurement
 
-4. **80/20 LLC** (aluminum extrusion/framing) — **Promotional email**
-   - Marketing outreach May 28; suggests prior or potential relationship
+8. **eBay** (via Purchasing) — **NEW LISTING ALERT**
+   - Search alert for "futaba 14sg, Receivers & Transmitters: 1 NEW!" May 29 (06:22 PDT)
+   - RC radio control equipment sourcing
 
-5. **MISUMI Americas** (Dave/Fictiv contact) — **NEW SUPPLIER INTRODUCTION**
-   - Promotional outreach May 28 (16:02 UTC); mechanical parts sourcing
+#### Industrial & Mechanical
+1. **Kollmorgen** (kollmorgen@kollmorgen-mail.com) — **NEW PROMOTIONAL CONTACT**
+   - "Discover strategies for cost-effective and high-performing machine design" May 29 (06:08 PDT)
+   - Possible motor/motion control interest
 
-#### Logistics & Shipping
-1. **DHL** — **REPEATED shipment notifications**
-   - Tracking #3812290101 — 4 duplicate/repeated notifications (May 29, 02:48–04:57 UTC)
-   - Suggests high-priority international shipment (possible UK MOD deliverable)
-   - Consistent with Merlin Mk2/MOD engagement pattern
-
-2. **UPS** — Package delivery notification May 28
-
-3. **SendCutSend** — Shipping confirmations (noted above under fabrication)
-
-#### Specialty/Field Equipment
-1. **HeliDirect** (Meredith Needham listed as recipient) — **Helicopter components**
-   -
+2. **eMachineShop** (techsup@emachineshop.com) — **NEW PROMOTIONAL CONTACT**
+   - "Launching a Product Soon
