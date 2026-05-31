@@ -1,6 +1,6 @@
 # Unmapped Customers
 
-_Generated 2026-05-30 03:23 — customers who have emailed info@/sales@ but aren't yet tracked as Asana Commercial Sales tasks._
+_Generated 2026-05-31 03:08 — customers who have emailed info@/sales@ but aren't yet tracked as Asana Commercial Sales tasks._
 
 | Latest | Domain | # Emails | Recent subjects |
 |--------|--------|----------|-----------------|
@@ -13,4 +13,3 @@ _Generated 2026-05-30 03:23 — customers who have emailed info@/sales@ but aren
 | 2026-05-26 | cbsnews.com | 1 | CBS News Story |
 | 2026-05-26 | bridgeview-mfg.com | 1 | Secondary Supplier for Custom Wire Harnesses & Cable Assemblies |
 | 2026-05-25 | mido.tech | 1 | Meteo Dron |
-| 2026-05-23 | spaceagenda.com | 1 | SpaceAgenda, 400+ space industry events in one calendar |

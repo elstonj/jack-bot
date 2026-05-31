@@ -14,6 +14,8 @@
 - **Billing Contact**: Luis Quijada, lcq5@miami.edu
 - **Field Operations Contact**: Nick Underwood (NOAA AOC)
 
+**Important Note**: Per project notes, GPC and UPC are Subject Matter Experts (SME) available to answer non-contractual technical questions. Any technical disagreements or contractual changes must be directed to the Contracting Officer (CO).
+
 ---
 
 ## Key Deliverables & Milestones
@@ -27,7 +29,7 @@
 - **Total tasks**: 425+ completed, 0 open (100% completion rate)
 - **Primary assignees**:
   - **Jack Elston**: Led most technical flight operations, flight control algorithm troubleshooting, GCS/HDOB integration, wind estimation fixes, sensor QC, magnetometer calibration, MHTP development and hardware verification, avionics, tablet configuration
-  - **Josh Fromm**: Project management, QC/final assembly coordination, weekly status updates, manufacturing coordination, housing installation, sealing, MHTP mechanical assembly, deployment tube and adhesive promoter investigations, GCS configuration (completed final "New GCS" task on 2024-01-31)
+  - **Josh Fromm**: Project management, QC/final assembly coordination, weekly status updates, manufacturing coordination, housing installation, sealing, MHTP mechanical assembly, deployment tube and adhesive promoter investigations, GCS configuration (completed final "New GCS" task on 2024-01-31), **Construct MHTP modules** (completed 2024-08-17)
   - **Dan Prendergast**: Flight algorithm testing and validation, eyewall following algorithm development (completed 2024-02-27), center fix algorithm (completed 2024-06-05)
   - **Maciej Stachura**: Flight control algorithms, vertical wind bias correction, pitot tube diagnostics, code updates with wind tunnel calibrations and real-time wind estimation, MHTP firmware development and testing
   - **Ben Busby**: Flight operations, preflight checklist procedures, path planning optimization
@@ -103,10 +105,4 @@
   - Magnetometer calibration procedure (over UART)
   - Dynamic pressure testing capability for clog detection
   - Firmware updates with correct sensor orientation defaults
-  - Raw sensor data output for post-flight analysis and precipitation performance assessment
-  - Data retrieval verification via Area-I computer interface
-- RS421 interface robustness (final verification)
-- Parachute module construction and integration
-
-**Contractual & Support Framework**: 
-- GPC (Dr. Cione) and
+  

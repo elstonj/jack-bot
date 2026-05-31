@@ -4,14 +4,14 @@
     "(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-05-28",
-    "end": "2026-05-30"
+    "start": "2026-05-30",
+    "end": "2026-05-31"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 399.8,
+    "expenses": 140.59,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 399.8
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 140.59
     }
   },
   "invoices": [],
@@ -32,24 +32,6 @@
           "amount": 140.59,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
           "description": "S3 IRAD shipmen to Sean Cole"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-28",
-      "doc_number": "SS97A80",
-      "total": 259.21,
-      "attributed": 259.21,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 259.21,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "S3 IRAD purchase"
         }
       ]
     }
