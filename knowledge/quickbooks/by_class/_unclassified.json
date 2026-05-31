@@ -1,22 +1,18 @@
 {
   "project_code": "_unclassified",
   "qbo_class_names": [
-    "",
-    "[452-2] S2 Simulator & Used E2 Battery"
+    ""
   ],
   "period": {
-    "start": "2026-05-28",
-    "end": "2026-05-30"
+    "start": "2026-05-30",
+    "end": "2026-05-31"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 11511.28,
+    "expenses": 10822.58,
     "by_category": {
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 10773.62,
-      "FRINGE:FR-Retirement Contributions": 534.28,
-      "Inventory Asset": 101.45,
-      "DIRECT COSTS:DC-Direct Material Purchases": 52.49,
-      "FACILITIES:FA-Shop Supplies": 49.44
+      "Inventory Asset": 48.96
     }
   },
   "invoices": [],
@@ -56,70 +52,6 @@
           "amount": 48.96,
           "account": "Inventory Asset",
           "description": "Shipping for 123 Bearing Shipment for future S3 sales"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-29",
-      "doc_number": "",
-      "total": 139.97,
-      "attributed": 104.97999999999999,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request - Jack made purchase directly and Slacked message",
-      "lines": [
-        {
-          "amount": 34.99,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Logitech K400 Plus Wireless Touch TV Keyboard - for S2 simulator"
-        },
-        {
-          "amount": 34.99,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Logitech K400 Plus Wireless Touch TV Keyboard - for S2 simulator"
-        },
-        {
-          "amount": 69.99,
-          "account": "Inventory Asset",
-          "description": "Logitech K400 Plus Wireless Touch TV Keyboards x 2 - for 2 future S2 simulator sales"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-28",
-      "doc_number": "",
-      "total": 534.28,
-      "attributed": 534.28,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "BUSINESS TO BUSINESS ACH PLIC-SBD         INSUR CLM  260527 PACT#266879651  BST Checking",
-      "lines": [
-        {
-          "amount": 534.28,
-          "account": "FRINGE:FR-Retirement Contributions",
-          "description": "BUSINESS TO BUSINESS ACH PLIC-SBD         INSUR CLM  260527 PACT#266879651  BST Checking"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-28",
-      "doc_number": "",
-      "total": 49.44,
-      "attributed": 49.44,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "In store purchase by Josh Fromm- no Asana request",
-      "lines": [
-        {
-          "amount": 49.44,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "In store purchase. See attached receipt"
         }
       ]
     }

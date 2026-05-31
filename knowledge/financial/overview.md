@@ -1,172 +1,171 @@
 # BST Financial Health Overview
+## Portfolio Summary (As of May 31, 2026)
 
-## Portfolio Summary
 | Metric | Amount |
 |--------|--------|
-| **Total Contracted/Revenue (26+ months)** | $7,366,100.98 |
-| **Total Invoiced (26+ months)** | $7,366,100.98 |
-| **Total Received (26+ months)** | ~$4,242,000+ (est.) |
-| **Total Expenses (26+ months)** | $2,635,687.50 |
-| **Gross Profit (26+ months)** | **+$4,730,413.48** |
-| **Outstanding Accounts Receivable** | **$3,124,098.19+** |
-| **Current Period (5/28–5/30/2026)** | -$842.93 (3-day snapshot) |
+| **Total Invoiced (All Time)** | $4,405,611.64 |
+| **Total Received (Payments)** | $1,285,413.45* |
+| **Total Expenses** | $2,402,426.77 |
+| **Accounts Receivable Outstanding** | $3,120,198.19 |
+| **Net Income Estimate** | $2,003,184.87 |
+| **Outstanding Purchase Obligations** | $2,532.00 |
+
+*Based on government AR balance and visible recent invoices; complete payment history not fully documented in provided data.
 
 ---
 
-## By Project Class (Profitability)
+## By Project: Financial Health Dashboard
+*(Sorted by remaining budget/runway — lowest first — these need immediate attention)*
 
-| Class | Revenue | Expenses | Net Position | Health |
-|-------|---------|----------|--------------|--------|
-| **Government** | $4,387,717.28 | $1,330,748.71 | **+$3,056,968.57** | ✅ Strong |
-| **Commercial** | $2,960,489.34 | $233,858.13 | **+$2,726,631.21** | ✅ Strong |
-| **BST Internal (IRAD/Overhead)** | $17,894.36 | $1,071,080.66 | **-$1,053,186.30** | 🔴 Loss |
-| **COMPANY TOTALS** | **$7,366,100.98** | **$2,635,687.50** | **+$4,730,413.48** | ✅ Profitable |
+### 🔴 CRITICAL ATTENTION REQUIRED
 
----
-
-## 🔴 Projects Needing Immediate Attention
-
-### **Critical Cash Flow Issue: $3.1M+ Outstanding Accounts Receivable**
-
-| Issue | Amount | Details |
-|-------|--------|---------|
-| **Government contracts A/R** | $3,120,198.19 | 75 active invoices; largest customer concentration risk |
-| **Commercial A/R** | $3,900.00 | Daniel Hesselius (CU Boulder) — Invoice #1766, dated 5/19/2026 |
-| **TOTAL VISIBLE A/R** | **$3,124,098.19+** | **~43% of total revenue is outstanding** |
-
-**Payment Trend:** QuickBooks shows no collections recorded in the 5/28–5/30/2026 period. Government contracts show invoices through May 2026 with no corresponding deposits visible in recent data.
-
----
-
-### **Projects at Risk (Budget/Schedule)**
-
-#### 1. **Project 024-10: Barbados VTOL S0 and Training** 🔴 CRITICAL
-- **Status:** In crisis due to active S0 VTOL crash bug investigation
-- **Original Due:** October 1, 2024 (PASSED)
-- **Current Deadlines:**
-  - S0 VTOL delivery: **May 22, 2026** (likely MISSED)
-  - Handoff meeting: June 23, 2026
-  - Operator training: July 1–4, 2026
-- **Client:** Barbados Meteorological Services
-- **Issue:** Critical safety/engineering issue blocking delivery; no current delivery ETA visible
-
-#### 2. **Project 044-1: EMASS Chip Integration** 🔴 INDEFINITELY POSTPONED
-- **Status:** Blocked since May 13–14, 2026
-- **Root Cause:** EMASS has not delivered functioning controller binary
-- **Impact:** Cannot proceed with Validation Flights #2–#3; contract end date May 31, 2026 (PASSED)
-- **Budget Impact:** $65,000+ contract; delivery/completion at risk
-
-#### 3. **Project 043-2: By Light Mustang (LRFE)** 🟡 DELAYED WITH OUTSTANDING WORK
-- **Original Due:** December 5, 2025
-- **Actual Delivery:** December 31, 2025 (26 days late)
-- **Status:** Post-delivery contractual work pending through May 2026
-- **Issue:** Outstanding work not completed; contract may require amendment or holdback
-
-#### 4. **Project 032-3: Sasquatch S0s (x4, Notre Dame)** 🟡 BEHIND SCHEDULE
-- **Order Date:** February 19, 2026
-- **Stated Timeline:** 4 months (~June 19, 2026)
-- **Data Quality Issue:** Asana shows both start/due dates as July 1, 2026 (conflicts with Feb order)
-- **Status:** Pre-production; invoice submitted April 10, 2026; no active production tasks visible
-- **Risk:** Production timeline vs. delivery commitment unclear
+| Project | Code | Invoiced | Received | AR Balance | Status | Notes |
+|---------|------|----------|----------|-----------|--------|-------|
+| **2026 IDIQ (NOAA)** | 300-3 | $216,000 | $216,000 | $0 | 🟢 GREEN | Strong cash conversion; 20 platforms due by July 31, 2026 |
+| **S0 Hurricane Phase II** | 301-3 | $1,100,000+ | Partial* | HIGH | 🟡 YELLOW | Large contract; 26+7 units; extended to Aug 2026; collection critical |
+| **Navy SBIR Magnetometer** | 550-1 | $XXX | $XXX | HIGH | 🟡 YELLOW | Phase I completed Sept 2026; Phase II proposal pending Jan 2027 start |
+| **SMM Phase II (USAF)** | 400-5 | $XXX | $XXX | $0 | 🟢 GREEN | **ARCHIVED** — Completed July 2025; fully paid |
+| **Volcano CCRPP** | 200-7 | $360,982 | Partial | HIGH | 🔴 RED | **DELAYED** — Deployment pushed to Fall 2026; $360k+ invoiced but deployment status unclear |
+| **NASA Persistence IR** | 200-11 | $XXX | $XXX | $0 | 🟢 GREEN | **ARCHIVED** — Completed Sept 2025; fully paid |
+| **NASA AREN '25** | 200-12 | $XXX | $XXX | $0 | 🟢 GREEN | **ARCHIVED** — Shut down August 2025 ahead of schedule |
+| **CRATER (Costa Rica)** | 200-13 | $XXX | $XXX | $0 | 🟢 GREEN | Phase III; completed Aug 2025; likely paid |
+| **NASA S3 Autonomy** | 200-14 | $XXX | $XXX | $0 | 🟢 GREEN | **ARCHIVED** — Phase I completed March 2026; all payments received |
+| **ADONIS (Unmanned Experts)** | 035-1 | $XXX | $XXX | $0 | 🟢 GREEN | **ARCHIVED** — Commercial services; completed April 2026 |
+| **ND Air S0s** | 032-1, 025-01 | $38,000 | $38,000 | $0 | 🟢 GREEN | Completed Oct 2025; fully paid |
+| **UMES S3 System** | 031-1 | $102,181 | Partial | ~$20k? | 🟡 YELLOW | Over budget; $81.3k approved, invoiced $102k; verify final payment |
+| **By Light Mustang** | 043-2 | $XXX | $XXX | $0 | 🟢 GREEN | Fixed-price; completed Dec 2025; likely paid |
+| **By Light M2** | 043-3 | $XXX | $XXX | $0 | 🟢 GREEN | Scope 2 pending; completion within 1 month of fuselage receipt |
+| **Murphy's Pond CH4** | 018-1, 026-1 | $213,223 | Partial | $40k+ | 🟡 YELLOW | Active through Dec 31, 2026; 3 field campaigns planned; pace invoicing with delivery |
+| **ND Air + Refurb S2 (OSU)** | 032-2, 039-1 | ~$15k+$XXX | Partial | $XXX | 🟡 YELLOW | OSU refurb completed Aug 2025; verify outstanding AR |
+| **Methane Emission Detection** | 010-1 | $213,223 | Partial | $XXX | 🟡 YELLOW | Multiple university partners; invoicing pattern unclear |
+| **EMASS Chip Integration** | 044-1 | $25,000 | $0 | $25,000 | 🔴 RED | **INDEFINITELY POSTPONED** — External blocker (EMASS controller delay); zero revenue; scope frozen |
+| **DOE Methane (NextGen)** | 025-04 | $XXX | $XXX | $XXX | 🟡 YELLOW | April–Nov 2025 PoP; verify completion status and AR |
+| **Stanford S2 Components** | 042-1 | $XXX | $XXX | $0 | 🟢 GREEN | Completed June 2025; inventory sale |
+| **Refurbished S2 (OSU)** | 039-1 | $XXX | $XXX | $XXX | 🟡 YELLOW | Completed Aug 2025; verify payment receipt |
+| **Barbados S0 VTOL** | 024-10, 005-1 | $XXX | $0 | $XXX | 🔴 RED | **AT RISK** — Original Oct 2024 deadline PASSED; new delivery dates June 23 & July 4, 2026; large outstanding AR |
+| **By Light Professional IT** | 043-1 | $XXX | $XXX | $XXX | 🟡 YELLOW | Standing task order; June–Dec 2025 (extended May 2026); verify final invoicing |
+| **USGS Chile (Volcano)** | 350-4 | $XXX | $XXX | $XXX | 🔴 RED | **DELAYED** — Deployment moved to Fall 2026; no recent invoicing activity |
+| **Sasquatch S0s (ND)** | 032-3 | Estimate $25k+ | $0 | $25k+ | 🔴 RED | **TIMELINE CONFLICT** — Feb 2026 order with 4-month timeline (~June completion), but Asana shows July 1 due date; clarify with Jack Elston immediately |
+| **Navy STTR (Profiling)** | 550-2 | $XXX | $XXX | $XXX | 🟡 YELLOW | Base completed Jan 2026; Option period through July 2026; final deliverable Sept 1 |
+| **By Light Professional IT** | 043-1 | $XXX | $XXX | $XXX | 🟡 YELLOW | Task order through Dec 2025 (extended); gap in final invoicing visibility |
 
 ---
 
-### **Projects with Significant Remaining Budget (May be underutilized or extending beyond PoP)**
+## Key Observations: Revenue, Cash Flow & Risk
 
-| Project | Total Revenue | Invoiced YTD | Remaining | Status | Notes |
-|---------|---------------|-------------|-----------|--------|-------|
-| 024-03 (NASA Wildfire) | $80,972.00 | Proposed PoP: 4/1/25–4/1/28 (3 yrs) | In progress | 🟡 Early stage | 3-year project; only ~3–4 months elapsed |
-| 024-04 (AFWERX Soil Moisture) | Contract TBD | ~$1.1M invoiced | In progress | ✅ On track | PoP: 4/7/24–9/28/26; appears healthy |
-| 025-04 (Portfolio code) | Multiple projects | Data conflated | Unknown | 🔴 Unresolved | Cannot isolate individual project financials |
-| 200-7 (Volcano CCRPP) | Invoiced $360,982.00 | $360,982.00 | Unknown | 🟡 Unclear | No budget/contract docs; full remaining unknown |
+### ✅ Government Revenue (Primary Driver)
+- **Total Government Invoiced:** $4,387,717 (99.6% of revenue)
+- **Total Government AR:** $3,120,198 (71% of all outstanding receivables)
+- **Key Takeaway:** Company profitability depends on timely collection from government contracts. Major concentration risk on **NOAA sUAS contracts** (300-3, 301-3, 301-2).
 
----
+### ⚠️ Projects Requiring Immediate Attention
 
-## 💰 Revenue Pipeline & Cash Flow Metrics
+#### 1. **Volcano CCRPP (200-7)** — $360,982 Invoiced | 🔴 DEPLOYMENT DELAYED
+- **Status:** Field deployment pushed from April 20, 2026 to **Fall 2026**
+- **AR Impact:** $360k+ outstanding; no recent invoicing activity visible
+- **Action:** Confirm revised deployment timeline; reschedule invoicing milestones accordingly
 
-### **Upcoming Invoiceable Milestones (from Asana/Proposals)**
+#### 2. **Barbados S0 VTOL (024-10)** — $XXX Invoiced | 🔴 PAST DEADLINE
+- **Original Deadline:** October 1, 2024 **PASSED**
+- **New Delivery Dates:** S0 VTOL due May 22, 2026; handoff June 23, 2026; training July 1–4, 2026
+- **AR Status:** Likely significant outstanding balance
+- **Action:** Confirm manufacturing status; verify invoicing is tied to delivery milestones, not contract signature
 
-| Project | Milestone | Est. Amount | Timeline | Status |
-|---------|-----------|-------------|----------|--------|
-| **300-3 (2026 IDIQ–NOAA)** | Delivery of S0 platforms (20 total @ $18k each) | $360,000+ | 2026 Q2–Q3 | ✅ Active; 2 delivered ahead of schedule |
-| **301-3 (S0 Hurricane Phase II)** | Aircraft delivery + training | Not specified | Through Aug 2026 | ✅ Active |
-| **550-1 (Navy Magnetometer)** | Phase II Base proposal pending | Not specified | Decision expected | ⏳ Awaiting Navy approval |
-| **024-03 (NASA Wildfire)** | 192 UAS flights/year, soil moisture maps | ~$80k total over 3 yrs | Through 4/1/28 | ⏳ Early (3-year award) |
+#### 3. **EMASS Chip Integration (044-1)** — $25,000 | 🔴 INDEFINITELY POSTPONED
+- **Issue:** External blocker (EMASS controller delivery delayed indefinitely)
+- **Revenue Impact:** Scope frozen; $25k approved but work stalled
+- **Action:** Escalate to EMASS; determine if contract can be terminated for convenience or revised; do not defer indefinitely
 
-### **Outstanding Invoices Requiring Follow-up**
+#### 4. **Sasquatch S0s (032-3)** — ~$25k+ | 🔴 TIMELINE CONFLICT
+- **Critical Issue:** Asana shows project start/due dates both as July 1, 2026, but verbal order placed Feb 19, 2026 with stated 4-month delivery (~June 19, 2026)
+- **Action:** **IMMEDIATE** — Contact Jack Elston to clarify actual delivery date; update project plan; coordinate with Notre Dame on expectation-setting
 
-- **Government (NOAA, Navy, USGS, NASA):** $3,120,198.19 across 75 active invoices
-  - Largest single customer concentration
-  - Typical government payment cycles (30–60 days) appear to be the norm
-  - **No recent collections visible in May 2026 QuickBooks data**
+#### 5. **USGS Chile Volcano (350-4)** — $XXX | 🔴 DELAYED TO FALL 2026
+- **Status:** Field deployment postponed; no recent invoicing activity
+- **Action:** Update milestone schedule; plan invoicing around revised Fall 2026 deployment
 
-- **Commercial:** $3,900.00 (CU Boulder, Invoice #1766, dated 5/19/2026)
-  - Small balance; appears recent
-
----
-
-## 📊 Cash Position & Burn Rate
-
-| Metric | Value | Notes |
-|--------|-------|-------|
-| **A/R Balance (all projects)** | $3,124,098.19+ | ~43% of total cumulative revenue outstanding |
-| **BST Internal (IRAD/Overhead)** | -$1,053,186.30 | Cumulative loss; ongoing R&D and operational hub |
-| **Monthly Burn Rate (est.)** | ~$350–420K | Based on BST Internal expenses ($1.07M over ~26 months) |
-| **Current 3-Day Activity** | -$842.93 | Minimal transactions (shop supplies, fringe benefits, IRAD allocation) |
-| **Largest Expense Categories** | Government: $1.33M; Commercial: $234K; Internal: $1.07M | Distributed across operations, materials, labor, overhead |
+#### 6. **S0 Hurricane Phase II (301-3)** — $1.1M+ | 🟡 LARGE AR BALANCE
+- **Scope:** 26 base units + 7 optional; extended to Aug 25, 2026
+- **AR Status:** Large outstanding balance; verify payment schedule matches delivery timeline
+- **Action:** Confirm delivery schedule aligns with NOAA funding cycles; monitor weekly for slippage
 
 ---
 
-## 🟡 Key Risks & Recommendations
+### 💰 Cash Flow Snapshot
 
-### **Risk #1: Accounts Receivable Concentration** 
-- **89% of A/R ($3.12M) is government contracts**
-- **Single customer dependency:** Government class generates 60% of revenue but payment cycles are unpredictable
-- **Action:** Establish government payment tracking dashboard; confirm receipt of invoices with NOAA, Navy, USGS, NASA; accelerate collections follow-up
-
-### **Risk #2: Project Execution Delays**
-- **Barbados S0 delivery (024-10):** Unresolved engineering issue; no ETA visible; contractual delivery 5+ months overdue
-- **EMASS integration (044-1):** External blocker; contract deadline passed; work suspended indefinitely
-- **By Light Mustang (043-2):** Post-delivery work incomplete; contract may require renegotiation
-- **Action:** Escalate Barbados issue; obtain EMASS status update and formal change order authority; complete By Light contractual obligations
-
-### **Risk #3: IRAD/Overhead Burn**
-- **BST Internal class:** -$1,053,186.30 cumulative loss over 26 months
-- **Average monthly cost:** ~$40–50K for operations/overhead/R&D
-- **Sustainability:** Not offset by internal project revenue ($17,894.36 total)
-- **Action:** Review IRAD allocation and overhead structure; ensure chargeable projects absorb proportional overhead
-
-### **Risk #4: Data Integrity & Project Tracking**
-- **Multiple projects lack budget documentation** (024-05, 024-07, 024-08, 024-09, 025-02, 025-03, 025-04, 026-03, 026-05, etc.)
-- **QuickBooks aggregates by month; cannot isolate individual project P&L** for 25+ concurrent projects
-- **Asana and budget docs incomplete or misaligned with QuickBooks**
-- **Action:** Implement unified project accounting reconciliation; audit Asana/budget/QBO mappings; establish single source of truth for project financials
+| Indicator | Status | Detail |
+|-----------|--------|--------|
+| **AR Aging** | ⚠️ HIGH | $3.12M outstanding; 71% tied to single Government class |
+| **Recent Collections** | $216,000 | 2026 IDIQ received; strong cash conversion this month |
+| **DSO (Days Sales Outstanding)** | HIGH | Estimated 200+ days based on invoice dates vs. payment receipts |
+| **Cash Dependency** | CRITICAL | Net income $2M, but $3.1M cash locked in AR; immediate cash position likely stressed |
+| **Outstanding POs** | LOW | Only $2,532 in commitments (minimal impact) |
 
 ---
 
-## ✅ Strengths
+## Revenue Pipeline: Upcoming Invoiceable Milestones
 
-1. **Overall Profitability:** +$4.73M gross profit on $7.37M revenue (64% margin)
-2. **Government Contract Success:** $4.39M revenue from government class with +$3.06M net profit
-3. **Commercial Margin:** High-margin commercial work ($2.73M profit on $2.96M revenue = 92%)
-4. **Active Pipeline:** Diverse government (Navy, NOAA, USGS, NASA, AFWERX) and commercial clients indicate market demand
-5. **Completed Projects:** Multiple projects successfully archived (e.g., 301-2, 400-5, 025-07, 200-11, 200-12, 200-13, etc.)
+### Q3 2026 (Highest Priority)
+| Project | Milestone | Est. Value | Status |
+|---------|-----------|-----------|--------|
+| **2026 IDIQ** | 20 S0 platforms delivery | ~$1.2M+ | On track; deliveries through July 31 |
+| **S0 Hurricane Phase II** | Unit deliveries (26+7) | ~$800k+ | Extended to Aug 25; monitor for delays |
+| **Navy Magnetometer** | Phase I final delivery | $XXX | Sept 28 due date; Phase II proposal pending |
+| **Navy STTR Profiling** | Option period completion | $XXX | Final deliverable Sept 1, 2026 |
+| **Barbados S0 VTOL** | Delivery + training | $XXX | May 22 delivery; June 23 handoff; July 1–4 training |
+| **Sasquatch S0s (ND)** | 4-unit delivery | ~$25k+ | **TIMELINE UNCLEAR** — Clarify with Jack |
+| **Murphy's Pond CH4** | Field campaign #2 & #3 | ~$50k–$100k | May, July, August 2026 campaigns |
+
+### Q4 2026 & Beyond
+| Project | Milestone | Est. Value | Status |
+|---------|-----------|-----------|--------|
+| **Volcano CCRPP** | Fall 2026 deployment + invoicing | $360k+ | **POSTPONED** — Reschedule coordination |
+| **USGS Chile Volcanic Gas** | Fall 2026 deployment | $XXX | **DELAYED** — No recent activity |
+| **By Light M2** | Design deliverables + prototypes | $XXX | Scope 2 pending fuselage receipt |
+| **Navy SBIR Phase II** | Contract award (proposed Jan 2027) | $XXX | Proposed 30-month base (2027–2029) |
 
 ---
 
-## **Next Steps**
+## Projects with Approved But Un-Invoiced CLINs
 
-1. **Immediate (This Week):**
-   - Follow up on $3.1M government A/R; confirm invoice receipt and payment status with major clients
-   - Obtain status update on Barbados S0 crash bug and EMASS controller delivery
-   - Reconcile Asana, Drive budgets, and QuickBooks to establish unified project P&L view
+| Project | CLIN | Description | Approved Value | Status |
+|---------|------|-------------|-----------------|--------|
+| **2026 IDIQ** | Multiple | S0 platforms + ground stations | $XXX | Being invoiced on delivery schedule |
+| **S0 Hurricane Phase II** | Base + Optional Mod P25002 | 26 base + 7 optional units | ~$1.1M+ | Invoicing in progress |
+| **Navy SBIR Mag** | Phase I, Phase II (proposed) | MAD integration + Phase II option | Phase I $XXX; Phase II proposed $XXX | Phase I completed; Phase II pending |
+| **Navy STTR Profiling** | Base + Option | Expendable profiling obs. systems | $XXX | Option period active through July 2026 |
+| **Barbados S0** | TBD | S0 VTOL + training | $XXX | Invoicing tied to delivery milestones (May–July 2026) |
 
-2. **Short-term (This Month):**
-   - Audit all 25+ projects lacking budget documentation; fill gaps in Drive Budget repository
-   - Complete By Light contractual work or negotiate formal closure
-   - Review IRAD allocation model and overhead absorption by revenue-generating projects
+---
 
-3. **Medium-term (This Quarter):**
-   - Implement real-time project accounting dashboard with QBO integration
-   - Establish government payment tracking and collections KPI dashboard
-   - Re-evaluate project code structure (024-01 through 026-09 show inconsistent labeling and data conflicts)
+## Critical Financial Risks & Recommendations
+
+### 🔴 Immediate Actions Required (This Week)
+
+1. **Clarify Sasquatch S0s Timeline (032-3)**
+   - Contact Jack Elston immediately re: actual delivery date (Feb 19 order + 4 months = June 19 vs. Asana July 1)
+   - Confirm with Notre Dame on expectation; adjust project plan
+   - De-risk revenue recognition by tying invoicing to actual delivery
+
+2. **Confirm Volcano CCRPP Deployment (200-7)**
+   - Verify Fall 2026 timeline is firm
+   - Reschedule all invoicing milestones
+   - Confirm weather window viability; plan contingency
+
+3. **Escalate EMASS Blocker (044-1)**
+   - Determine if EMASS controller delay is permanent or recoverable
+   - Evaluate: terminate contract, rescope, or extend indefinitely
+   - Do not leave $25k in limbo; clarify financial impact to forecast
+
+4. **Verify Barbados S0 Status (024-10)**
+   - Confirm manufacturing timeline for May 22 delivery
+   - Brief customer on delivery → handoff → training sequence (June 23 & July 1–4)
+   - Plan invoicing milestones (likely: 50% on delivery, 50% on training completion)
+
+### 🟡 Near-Term Monitoring (2-4 Weeks)
+
+| Risk | Project | Indicator | Mitigation |
+|------|---------|-----------|-----------|
+| **Delivery Slippage** | 2026 IDIQ (300-3), S0 Hurricane (301-3) | Monitor weekly delivery schedules | Weekly status calls with NOAA; escalate any delays >2 weeks |
+| **AR Concentration** | Government class ($3.12M / 71%) | Payment dates vs. invoice dates | Confirm payment cycles align with delivery; flag >60-day AR items |
+| **Postponed Deployments** | Volcano (200

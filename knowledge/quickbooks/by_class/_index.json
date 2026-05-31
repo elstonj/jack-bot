@@ -1,17 +1,17 @@
 {
   "period": {
-    "start": "2026-05-28",
-    "end": "2026-05-30"
+    "start": "2026-05-30",
+    "end": "2026-05-31"
   },
-  "scanned_at": "2026-05-30",
+  "scanned_at": "2026-05-31",
   "projects": [
     {
       "project_code": "001-7",
       "revenue": 0.0,
-      "expenses": 399.8,
+      "expenses": 140.59,
       "invoice_count": 0,
       "bill_count": 0,
-      "purchase_count": 2,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -19,25 +19,12 @@
       ]
     },
     {
-      "project_code": "212-2",
-      "revenue": 0.0,
-      "expenses": 34.99,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 1,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "[212-2] NASA S2 & Parts"
-      ]
-    },
-    {
       "project_code": "300-3",
       "revenue": 216000.0,
-      "expenses": 4497.35,
+      "expenses": 0.0,
       "invoice_count": 3,
       "bill_count": 0,
-      "purchase_count": 2,
+      "purchase_count": 0,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -60,15 +47,14 @@
     {
       "project_code": "_unclassified",
       "revenue": 0.0,
-      "expenses": 11511.28,
+      "expenses": 10822.58,
       "invoice_count": 0,
       "bill_count": 1,
-      "purchase_count": 4,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "",
-        "[452-2] S2 Simulator & Used E2 Battery"
+        ""
       ]
     }
   ]

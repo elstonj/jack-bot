@@ -1,0 +1,51 @@
+{
+  "asana_gid": "1211824849633496",
+  "asana_task_name": "NASA ULI/Cal State Northridge",
+  "customer": "NASA ULI/Cal State Northridge",
+  "customer_contact": "Bruce Cogan",
+  "customer_email": "Bruce.cogan@yahoo.com",
+  "receive_by": null,
+  "ship_to": null,
+  "items": [
+    {
+      "description": "E2 UAS Aircraft including avionics, ground station",
+      "quantity": 1
+    },
+    {
+      "description": "Training",
+      "quantity": 1
+    },
+    {
+      "description": "Vehicle simulation",
+      "quantity": 1
+    },
+    {
+      "description": "Engineering support for potential control law mods",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "estimate_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": "2025-10-31",
+  "invoice_date": null,
+  "invoice_amount": 56000,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Quote for $56k sent 10/31/2025 for E2 UAS with training, simulation, and engineering support for 2-way communication control law modifications. Contact Bruce Cogan reports retired NASA engineer working proposal with Cal State Northridge ULI program.",
+  "missing_fields": [
+    "receive_by",
+    "ship_to",
+    "invoice_number"
+  ],
+  "last_evidence_date": "2025-10-31"
+}

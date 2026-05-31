@@ -75,7 +75,7 @@
 - **Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head** (2026-05-07, Purchase #1288885721): **$479.80** [DIRECT COSTS] + $306.08 [Inventory Asset for future S3 sales]
   - **Direct Cost Materials & Supplies impact: $479.80**
 
-**Recent transactions (2026-05-14 to 2026-05-30):**
+**Recent transactions (2026-05-14 to 2026-05-31):**
 - **Purchase (Amprius Technologies)** (2026-05-14): **$399.00** [DC-Direct Material Purchases]
   - SA504 x 7 (quote #00001876) — Battery systems for Navy SBIR projects
   

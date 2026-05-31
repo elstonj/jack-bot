@@ -1,86 +1,115 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 325 emails (295 from prior period + 30 new from 29–30 May)
-- **Date range:** 18–30 May 2026 (13 days)
-- **Approximate volume:** Sustained high-velocity mixed operational/promotional/logistics messaging. 29 May: ~23 emails (11 promotional/logistics routed through purchasing@, 4 internal team coordination, 3 vendor order updates, 2 payment/account confirmations, 1 direct personal/admin, 2 government project). 30 May: ~7 emails (5 logistics/payment alerts, 2 internal task reminders).
-- **Pattern shift (sustained + accelerating):** Government/military project activity remains visible via internal team coordination (Arctic Edge 2027 VTOL, S0 MAD proposal). **Escalating signal:** International logistics bottleneck emerging—DHL import duty payment alerts now recurring daily (30 May 04:12 UTC). **New administrative activity:** Health insurance enrollment (UnitedHealthcare, HealthSafe ID) suggests possible new hire onboarding or benefits period. **Task management:** Asana overdue task alerts appearing (29 May 21:10, 15:42 UTC)—suggests time-critical deliverables.
+- **Total messages scanned:** 346 emails (325 from prior period + 21 new from 30–31 May)
+- **Date range:** 18–31 May 2026 (14 days)
+- **Approximate volume:** Sustained high-velocity operational/logistics messaging with **critical escalation on 30–31 May.** 30 May: ~13 emails (8 DHL shipment notifications for single tracking #4789316906, 2 promotional/gear alerts, 1 container quote, 1 USPS digest, 1 McMaster receipt). 31 May: ~8 emails (1 DHL import duty payment "Last Reminder" marked IMPORTANT, 6 DHL duplicate shipment notifications, 1 SendCutSend shipment alert).
 
 ## Key Correspondents
 
-### Primary Internal Contacts — Government/Military Projects
+### Internal Government/Military Project Coordination (No new emails 30–31 May)
+- **Maciej Stachura** — Sustained (prior: S0 MAD proposal coordination with Navy)
+- **Joshua Fromm, Daniel Prendergast, Ethan Domagala** — Sustained (Atmolab camera integration)
+- **Jack Elston** — Expanded purchasing role (battery orders)
 
-**CRITICAL INTERNAL: Arctic Edge 2027 VTOL Weather Collection & S0 MAD Proposal**
+### External Government/Military (No new activity 30–31 May)
+- **Angel R. Ruiz-Reyes (CIV USN NAWCAD)** — Last contact 29 May; awaiting response
 
-- **Maciej Stachura** (stachura@blackswifttech.com) — 2 emails (28 May 15:47, 15:34 UTC from prior; **1 new email 29 May 14:13:26 MDT**)
-  - **NEW (29 May 14:13):** "Re: [Non-DoD Source] Re: S0 - MAD update"
-  - **Recipient in new email:** Angel R. Ruiz-Reyes (CIV USN NAWCAD) — direct Navy interface
-  - **Subject line:** S0 project code confirmed; "MAD" acronym sustained (Marine/Arctic Deployment or similar)
-  - **Signal:** Direct Maciej ↔ Navy coordination; Alex cc'd/forwarded on government proposal chain
-  - **Classification note:** "[Non-DoD Source]" tag suggests controlled distribution protocol; likely internal flag for unclassified but sensitive government content
+### External Logistics/Shipping (ESCALATED ACTIVITY)
 
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — **3 new emails (29 May 09:20:27, 09:22:59, 09:23:54 MDT)**
-  - **Subject:** "Re: Atmolab Camera support for BlackSwift" (marked IMPORTANT)
-  - **Thread participants:** Daniel Prendergast, Ethan Domagala, Alex Lomis
-  - **Signal:** NEW camera integration project; multi-team technical coordination (Joshua ↔ Daniel ↔ Alex)
-  - **Implication:** VTOL payload development—Atmolab = atmospheric/environmental camera system (thermal/spectral imaging for weather/environmental data collection)
-  - **Collaborators:** Ethan Domagala (first appearance in new data; likely hardware/systems integration)
+**DHL Express — CRITICAL SIGNAL**
+- **Tracking #4789316906:** 9 duplicate shipment notifications (30–31 May, MYT timezone 03:35–22:07)
+  - 30 May: 7 notifications (16:42, 16:42, 18:52, 22:04, 22:07 MYT)
+  - 31 May: 2 additional notifications (03:35, 04:36, 07:41, 08:43, 08:47, 11:02 MYT — **6 total on 31 May alone**)
+  - **Duplicate pattern anomaly:** Same tracking number, repeated status updates across MYT timezone (8-hour offset from UTC)
+  - **CRITICAL:** 31 May 04:13 UTC — **"Import Duty Payment Alert – Last Reminder"** flagged IMPORTANT and UNREAD
+  - **Signal:** High-value Asia-Pacific shipment in customs clearance; payment bottleneck creating recurring notifications; urgency escalating (last-reminder language)
+  - **Implication:** Mission-critical component delayed; likely same shipment routed from PCBWay (29 May MYT timestamp observed in prior data)
 
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 2 emails (29 May 09:23:54, 09:20:27 MDT; marked IMPORTANT)
-  - **Role:** Technical lead/coordinator on Atmolab camera integration
-  - **Collaborators:** Joshua Fromm, Ethan Domagala, Alex Lomis
+**SendCutSend**
+- 31 May 06:05 UTC — "A shipment from SendCutSend is on the way"
+- **Pattern:** Routed to purchasing@; active sheet metal/fabrication orders in transit
 
-- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — 1 email (cc'd, 29 May 09:20:27 MDT)
-  - **NEW contact for this dataset**
-  - **Role:** Likely systems/hardware integration on Atmolab payload project
+**McMaster-Carr**
+- 30 May 03:16 UTC — Receipt for May 29th order
+- **Sustained high-volume procurement**
 
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — 1 email (28 May 15:50 UTC from prior; no new email in 29–30 May batch)
+### External Specialist/Hobby Vendors (NEW 30–31 May Activity)
 
-- **Jack Elston** (elstonj@blackswifttech.com) — 1 email (28 May 10:14 UTC from prior; **routed to as purchasing@ contact in new data**)
-  - **NEW (29 May):** BatterySpace order confirmation routed to Jack via purchasing@ (14:34:22 EDT)
-  - **Signal:** Jack receiving battery/power orders; expanded role beyond PR/media coordination
+**GetFPV** (getfpv.com)
+- 30 May 18:06 UTC — "Your gear is waiting for you" (marked IMPORTANT)
+- **Signal:** Possibly camera, gimbal, or FPV-related components; direct to Alex (not routed through purchasing@)
+- **NEW contact pattern:** First appearance; suggests personal/technical review procurement
 
-### External Government/Military — Navy Contact (Sustained)
+**eBay Search Alerts** (routed to purchasing@)
+- 30 May 06:08 — "sony a5100, New: 1 NEW!" (camera body)
+- 30 May 06:08 — "futaba 14sg, Receivers & Transmitters: 1 NEW!" (RF/radio control equipment)
+- **Signal:** Passive market monitoring on specific components (camera + radio control systems); likely for VTOL payload or flight control system alternatives
+- **Implication:** Shopping for backup/secondary components or evaluating vendor options
 
-- **Angel R. Ruiz-Reyes (CIV USN NAWCAD)** (angel.r.ruiz-reyes.civ@us.navy.mil)
-  - **Status:** NEW direct email chain link (29 May 14:13:26 MDT from Maciej Stachura)
-  - **Subject:** S0 MAD proposal update
-  - **Pattern:** Alex no longer just cc'd—Maciej now directly communicating with Navy; Alex likely in technical review loop
+**Air Sea Containers** (czufra@airseadg.com)
+- 30 May 14:55 UTC — "RE: Air Sea Containers | Request Quote"
+- **Signal:** NEW vendor contact; logistics/containerization inquiry
+- **Implication:** Possible shipping/export packaging for large assemblies or multi-unit delivery
 
-### Internal Administrative Contacts
+**Speedway Motors** (via purchasing@)
+- 30 May 18:00 — Promotional "Hughes Performance" transmission control
+- **Signal:** Routed promotional noise; likely false positive/mailing list
 
-- **Rippling (HR/Payroll System)** (no-reply@rippling.com) — 1 email (29 May 19:05:00 UTC; marked IMPORTANT)
-  - **Subject:** "You just got paid! (5/1/26 - 5/31/26)"
-  - **Signal:** Monthly payroll confirmation; direct to Alex (personal account management)
+**Harbor Freight** (via purchasing@)
+- 30 May 17:37 — Promotional "Free Gift"
+- **Signal:** Promotional noise
 
-### External Vendor/Component Contacts — Sustained High Volume
+**USPS Informed Delivery** (via purchasing@)
+- 30 May 13:25 — Daily digest
+- **Signal:** Passive monitoring of BST office/PO Box incoming mail
 
-**Precision Manufacturing & Sheet Metal**
-- **SendCutSend** — 0 new emails (prior orders #S424H298, #SS97A808 sustained; no escalation)
-- **McMaster-Carr** — 2 emails (29 May 18:23:26, 17:53:56 EDT; routed to purchasing@)
-  - **Subject:** "Certificates and Tracking for Your May 29th Order" + "Confirmation for Your May 29th Order"
-  - **Signal:** NEW bulk supplier engagement; 2 order confirmations same day suggests multi-item procurement (fasteners, structural components, or fluids/lubricants typical for McMaster orders)
-  - **Implication:** Scale-up in materials procurement for multi-unit assembly
+---
 
-**Motion Control & Mechanical Systems**
-- **ServoCity®** — 0 new emails (prior Order #300044184 sustained; active assembly pattern)
-- **Hobbywing** — 0 new emails (RPM sensors prior; sustained)
-- **BatterySpace.com** — 3 emails (29 May 14:34:22, 14:31:29, 14:30:27 EDT)
-  - **Recipients:** Jack Elston (14:34), Daniel Troke (14:31), purchasing@ (14:30)
-  - **Subject:** "Order Confirmation/Invoice (#499821)", "account activity", "Password Reset Request"
-  - **Signal:** NEW bulk account activity on purchasing system; password reset suggests new user/department-wide account setup; Daniel Troke appears (NEW contact—likely purchasing team member)
-  - **Implication:** Centralized battery procurement; multi-person purchasing authorization
+## Topic Patterns
 
-**Power Distribution & High-Amperage Systems**
-- **DIY500AMP.COM** — 0 new emails (prior orders sustained; no new activity)
+### Active Project Codes (Government/Classified)
+- **Arctic Edge 2027 VTOL** — Weather/environmental data collection platform
+- **S0 MAD Proposal** — Navy contract; acronym "MAD" sustained; "[Non-DoD Source]" classification tag in use
 
-**Electronics & Component Distribution**
-- **DigiKey** — 1 email (29 May 09:33:26 CDT; routed to purchasing@)
-  - **Subject:** "DigiKey has shipped a package for invoice 125625104"
-  - **Signal:** Electronics components shipped; invoice-level tracking (no prior DigiKey activity in 28 May batch—NEW vendor reactivation or first mention)
-- **PCBWay** — 1 email (29 May 19:27:24 MYT; routed to purchasing@)
-  - **Subject:** "Your Orders have been shipped by PCBWay"
-  - **Signal:** NEW PCB/electronic assembly vendor; MYT timestamp (Malaysia) aligns with DHL Asia-Pacific shipment pattern
-  - **Implication:** Custom PCB boards for VTOL integration; likely sourced from Asia
+### Active Hardware Integration Projects
+- **Atmolab Camera System** — Atmospheric/thermal/spectral imaging payload
+- **Battery/Power Systems** — BatterySpace, battery procurement accelerating
+- **Custom PCB Boards** — PCBWay (Asia-sourced)
+- **Motion Control/Servos** — ServoCity, Hobbywing RPM sensors (sustained)
+- **Sheet Metal/Fabrication** — SendCutSend, McMaster-Carr (structural components)
 
-**Hobby
+### Component Categories Visible in Subject Lines
+- **Cameras:** Sony A5100 (eBay alert), Atmolab camera integration, GetFPV gear
+- **Radio Control/Flight Systems:** Futaba 14SG receiver/transmitter (eBay alert), likely for VTOL flight control
+- **Power/Energy:** Battery procurement (BatterySpace, DIY500AMP), charging systems
+- **Mechanical:** Fasteners, structural materials (McMaster-Carr), sheet metal (SendCutSend)
+
+---
+
+## Communication Patterns
+
+### Time Zone Distribution
+- **UTC timezone:** DHL import duty alert (04:13), SendCutSend (06:05)
+- **MYT timezone (UTC+8):** 13 DHL shipment notifications concentrated 16:42–22:07 (30 May) and 03:35–11:02 (31 May)
+  - **Clustering:** Multiple notifications within 1–2 hour windows suggest system error, status update loop, or customs processing events triggering repeated alerts
+- **CDT/EDT (US business hours):** McMaster, DigiKey, PCBWay (29 May activity)
+- **Pattern:** Heavy Asia-Pacific logistics traffic (MYT-stamped); DHL Asia gateway clearance bottleneck
+
+### Email Routing Patterns
+- **Direct to alex.lomis@blackswifttech.com:** GetFPV gear alert (personal review), DHL import duty payment alert (account-holder responsibility), prior HR/Rippling payroll
+- **Routed to purchasing@blackswifttech.com:** 85% of new vendor/logistics emails; centralized procurement system; eBay searches, USPS digest, promotional alerts also routed here (suggests broad automation/monitoring setup)
+
+### Automation & Alert Subscriptions
+- **eBay saved searches:** Sony A5100 + Futaba 14SG (component sourcing)
+- **USPS Informed Delivery:** Office mail monitoring
+- **DHL shipment tracking:** Automated notifications (duplicate pattern suggests subscribed to all status updates)
+- **Vendor promotional subscriptions:** Speedway Motors, Harbor Freight (via purchasing@ — likely noise or broad team subscriptions)
+
+---
+
+## Key Relationships
+
+### Internal Collaboration Hierarchy (by 29 May activity)
+1. **Maciej Stachura** (stachura@blackswifttech.com) — Primary Navy/government contact; direct interface with NAWCAD
+2. **Joshua Fromm, Daniel Prendergast** — Co-leads on Atmolab camera

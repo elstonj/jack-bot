@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $1,071,080.66 *(+$597.40 from new transactions)*
+- **Total Expenses (Bills + Purchases)**: $1,071,678.06 *(+$597.40 from new transactions; prior: $1,071,080.66)*
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,053,186.30 (expenses exceed revenue significantly)
+- **Net Position**: -$1,053,783.70 (expenses exceed revenue significantly)
 - **Date Range**: April 5, 2024 – June 11, 2026 (26+ months)
-- **Transaction Count**: 1,141+ *(all confirmed)*
+- **Transaction Count**: 1,144+ *(all confirmed)*
 
 ---
 
@@ -45,7 +45,7 @@
 ### Materials & Direct Purchases: $520,989.60
 **Total: $520,989.60** | **72 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95**
 
-**Recent Confirmed Purchases (May 29, 2026) — NEW:**
+**Recent Confirmed Purchases (May 29, 2026):**
 
 **Purchase**: $139.97 (May 29, 2026)
 - **Vendor**: Logitech (direct purchase via Jack)
@@ -84,12 +84,12 @@
 
 ---
 
-### IRAD Indirect R&D (Subcontractors & Internal): $61,922.97
-**Total: $61,922.97** | **40 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; Matthew Crabtree R&D Assembly $4,954.00**
+### IRAD Indirect R&D (Subcontractors & Internal): $62,696.78
+**Total: $62,696.78** | **43 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; Matthew Crabtree R&D Assembly $4,954.00**
 
-**Recent Confirmed Transactions (May 28–June 11, 2026) — NEW:**
+**Recent Confirmed Transactions (May 28 – June 11, 2026) — UPDATED:**
 
-**Bill #7020**: $10,773.62 (June 1, 2026) — Boostr Consulting LLC
+**Bill #7020**: $10,773.62 (June 1, 2026) — Boostr Consulting LLC — **NEW**
 - **Account**: [RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp]
 - **Memo**: Paid when taxes are paid
 - **Purpose**: 2025 R&D Tax Credits filing and payment
@@ -97,20 +97,18 @@
 - **Impact**: Represents tangible recovery against cumulative R&D investments; aligns with annual tax filing cycle
 - **Data Validation**: ✓ Transaction confirmed
 
-**Purchase #SS97A80**: $259.21 (May 28, 2026) — NEW
-- **Account**: [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]
-- **Description**: S3 IRAD purchase
-- **Purpose**: Component/supply procurement for S3 R&D development
-- **Status**: ✓ Confirmed
-- **Impact**: Ongoing S3-related R&D procurement
-
-**Purchase**: $140.59 (June 11, 2026) — NEW
+**Purchase**: $140.59 (June 11, 2026) — **NEW**
 - **Account**: [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]
 - **Description**: S3 IRAD shipment to Sean Cole
 - **Purpose**: R&D delivery for S3-related development work
 - **Status**: ✓ Confirmed
 
-**Previous confirmed purchases (May 20–27, 2026):**
+**Purchase #SS97A80**: $259.21 (May 28, 2026)
+- **Account**: [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]
+- **Description**: S3 IRAD purchase
+- **Purpose**: Component/supply procurement for S3 R&D development
+- **Status**: ✓ Confirmed
+- **Impact**: Ongoing S3-related R&D procurement
 
 **Bill #BST-May2026-1**: $4,954.00 (May 21, 2026) — Matthew Crabtree
 - **Account**: [RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp]
@@ -173,7 +171,7 @@
 - **Purpose**: Facility/shop consumables
 - **Status**: ✓ Confirmed (direct procurement, no formal request)
 
-**Purchase**: $49.44 (May 28, 2026) — NEW
+**Purchase**: $49.44 (May 28, 2026)
 - **Account**: [FACILITIES:FA-Shop Supplies]
 - **Vendor**: In-store purchase by Josh Fromm
 - **Memo**: In store purchase by Josh Fromm – no Asana request; see attached receipt
@@ -184,9 +182,9 @@
 ---
 
 ### Fringe Benefits (Retirement Contributions): $534.28
-**Total: $534.28** | **1 transaction** — NEW CATEGORY
+**Total: $534.28** | **1 transaction**
 
-**Recent Confirmed Transactions (May 28, 2026) — NEW:**
+**Recent Confirmed Transactions (May 28, 2026):**
 
 **Purchase**: $534.28 (May 28, 2026)
 - **Account**: [FRINGE:FR-Retirement Contributions]
@@ -203,4 +201,5 @@
 
 ---
 
-### Inventory Asset (S3 Sales & S2 Production Scaling): $292
+### Inventory Asset (S3 Sales & S2 Production Scaling): $340.35
+**Total: $340.35

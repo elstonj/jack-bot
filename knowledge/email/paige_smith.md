@@ -1,83 +1,106 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,002 (1,960 previous + 42 new)
-- **Date range:** March 24 – May 29, 2026 (67 days)
-- **Approximate volume:** ~29.9 messages per day (sustained consistency)
-- **Pattern:** New 42-message sample (May 29) shows **CONTINUED SUSTAINED MEDIA OUTREACH CAMPAIGN**:
-  - **~60% of new messages are OUTBOUND MEDIA OUTREACH** (May 29, concentrated 15:00–16:04 UTC window)
-  - **Continued coordinated press release distribution**: "Drone Data Improves Hurricane Forecast Accuracy by 10%" and variant subject lines
-  - **NEW TARGET EXPANSION**: Hearst/PopNews (POPnews@hearst.com), Popular Science (editorial@popsci.com), UK media (Helen Norman / UKI Media Events), German media (Jan Schönberg / Drones Magazine), Weather Nation TV (Karissa Klos)
-  - **Baseline automation/newsletters remain ~65–70% of incoming traffic** (sustained pattern)
-  - **SIGNAL: Multi-day coordinated international press campaign. Expanding from defense/aerospace/weather to consumer science media (Hearst, PopSci). German-language media engagement active.**
+- **Total messages scanned:** 2,017 (2,002 previous + 15 new)
+- **Date range:** March 24 – May 31, 2026 (70 days)
+- **Approximate volume:** ~28.8 messages per day (sustained consistency)
+- **Pattern shift (May 30–31):** New 15-message sample shows **DRAMATIC DROP IN ACTIVE OUTBOUND MEDIA OUTREACH**:
+  - **~93% of new messages are INBOUND AUTOMATION/NEWSLETTERS** (May 30–31 weekend period)
+  - **No new direct media outreach detected** in this sample (contrast to May 29's 60% outbound media blitz)
+  - **LinkedIn activity elevated** (6 LinkedIn notifications/job alerts in 24-hour period, May 30)
+  - **Professional/industry newsletters active** (Mitchell Institute aerospace, Inside Climate News, MundoGEO)
+  - **SIGNAL: Weekend email pattern shows reversion to baseline newsletter/automation traffic. Media campaign intensity appears to have peaked May 29; new sample captures post-campaign follow-up period.**
 
 ## Key Correspondents
 
 ### Top Internal Senders
+*(No new internal messages in this sample; all activity from May 29 campaign period carries forward)*
 
-1. **Jack Elston** (elstonj@blackswifttech.com) — **CRITICAL/MEDIA STRATEGY & INTERNAL ESCALATION**:
-   - **2 new messages (May 29)**:
-     - **Internal coordination (2, IMPORTANT)**: Messages to Maciej Stachura about hurricane drone data press release (May 29, 12:07–12:09 UTC) — Jack forwarding/coordinating campaign with engineering/technical leads.
-     - **Direct response to Paige (1, IMPORTANT)**: "Re: Drone Data Improves Hurricane Forecast Accuracy by 10%" (May 29, 11:48 UTC) — Jack responding directly to Paige's press campaign update.
-   - **Signal: SUSTAINED CRITICAL. Jack is active daily coordinator of media strategy, escalating to technical team (Maciej Stachura).**
-
-2. **Maciej Stachura** (stachura@blackswifttech.com) — **NEW/ELEVATED/TECHNICAL COORDINATION**:
-   - **3 new messages (May 29, 12:07–12:09 UTC)**:
-     - Jack forwarding hurricane drone press release to Maciej (2 messages in rapid succession, both IMPORTANT).
-     - Maciej replying back to Jack (1, IMPORTANT) — indicating active technical/project coordination.
-   - **Signal: NEW/ELEVATED. Maciej appears to be core technical lead on hurricane forecasting project. Jack escalating campaign status to him daily.**
-
-3. **Beck Cotter** (beck.cotter@blackswifttech.com) — **NEW/ELEVATED/MEDIA INQUIRY COORDINATION**:
-   - **1 new message (May 29, 08:48 UTC)**:
-     - **Media inquiry forwarding**: "Fwd: Media inquiry | Drones magazine" (IMPORTANT) — Beck forwarding German media inquiry to Jack and Paige for coordinated response.
-   - **Signal: NEW/ELEVATED. Beck is routing inbound media inquiries to media relations team (Jack/Paige). Part of coordinated response infrastructure.**
-
-4. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **TECHNICAL PARTNER** (pattern sustained, 1 new message not directed to Paige but visible in thread).
-
-5. **Nikhila Ravikumar** (Nikhila@nanoveu.com) — **EXTERNAL TECHNICAL PARTNER** (pattern sustained, no new direct messages to Paige).
+- **Jack Elston** (elstonj@blackswifttech.com) — **CRITICAL/MEDIA STRATEGY** (no new messages this period, but sustained pattern from May 29)
+- **Maciej Stachura** (stachura@blackswifttech.com) — **TECHNICAL COORDINATION** (no new messages this period)
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — **MEDIA INQUIRY ROUTING** (no new messages this period)
 
 ### Top External Senders
 
-#### **MEDIA OUTREACH TARGETS (New Expansion — May 29 Continuation)**
+#### **LINKEDIN PROFESSIONAL NETWORK (NEW — Elevated May 30–31)**
+- **LinkedIn Notifications** (messages-noreply@linkedin.com, jobs-listings@linkedin.com, notifications-noreply@linkedin.com) — **6 messages in 24 hours (May 30)**:
+  - **Connection suggestions**: Brian Argrow (May 31, 00:59 UTC) — **SIGNAL: Likely academic/technical contact in atmospheric science/drone research**
+  - **Network analysis**: Smit Shah (President) marked as "popular in your network" (May 30, 22:59 UTC) — *suggests Smit Shah is elevated internal contact or recently promoted*
+  - **Job recommendation**: Social Media Manager role at Night Media, Inc. (May 30, 16:59 UTC) — **SIGNAL: Potential external recruitment/job alerts active** (may indicate open market awareness or LinkedIn algorithm flagging her profile activity)
+  - **Profile activity**: 13 recent profile views, search appearance tracking (May 30, 20:59 & 17:22 UTC)
+  - **INTERPRETATION**: Elevated LinkedIn engagement on weekend suggests either personal network maintenance or active professional positioning during/after media campaign.**
 
-1. **Jan Schönberg / Drones Magazine (Germany)** (j.schoenberg@wm-medien.de) — **NEW/ELEVATED/INTERNATIONAL MEDIA COORDINATION**:
-   - **3 new messages (May 29)**:
-     - **Inbound media inquiry (1, IMPORTANT)**: Schönberg sends "Re: Media inquiry | Drones magazine" (May 29, 18:47 UTC) — **German-language drone industry media.**
-     - **Outbound response (2)**: Paige replies twice to media inquiry (May 29, 10:29 & 15:00 UTC) with hurricane drone story variants.
-   - **Additional touch**: General Info (info@bst.aero) also replied to Schönberg inquiry (May 29, 09:31 UTC) — coordinated multi-point response.
-   - **Signal: NEW/ELEVATED. German-language media engagement. Drones Magazine is key European UAS outlet. Paige handling direct outreach; BST general info also responding.**
+#### **PROFESSIONAL & INDUSTRY NEWSLETTERS (Baseline Automation — Sustained & Expanded)**
 
-2. **Karissa Klos / Weather Nation TV** (kklos@weathernationtv.com) — **ELEVATED/WEATHER BROADCAST MEDIA**:
-   - **2 new messages (May 29)**:
-     - **Outbound (1)**: Paige sends hurricane drone story to Karissa (May 29, 15:08 UTC).
-     - **Inbound response (1, IMPORTANT)**: Karissa replies with Brian Hartman cc'd (Weather Nation co-host/producer likely) (May 29, 13:37 UTC) — **ENGAGED/RECEPTIVE response from broadcast weather media**.
-   - **Signal: ELEVATED/RECEPTIVE. Weather Nation TV is actively engaging with hurricane drone story. Appears to be moving toward broadcast feature.**
+1. **Mitchell Institute / Air Force Association** (mitchell@afa.org) — **AEROSPACE POLICY/DEFENSE FOCUS**:
+   - **1 new message (May 30, 05:11 UTC)**:
+     - "FY27 Budget, Space Force Launch, and the Future of Airpower - Aerospace Advantage 292"
+   - **Signal**: Continued aerospace defense industry newsletter subscription.
 
-3. **PopNews / Hearst** (POPnews@hearst.com) — **NEW/ELEVATED/CONSUMER SCIENCE MEDIA**:
-   - **1 new message (May 29, 15:55 UTC)**:
-     - **Outbound**: Paige sends variant subject line: "The 2.6 lbs Drone That Improved Hurricane Forecasting Accuracy by 10%" — messaging optimized for Hearst consumer/tech audience.
-   - **Signal: NEW. Hearst/PopNews expansion targets mainstream consumer tech media (different angle than defense/aerospace outlets).**
+2. **Inside Climate News** (newsletters@insideclimatenews.org) — **CLIMATE/ENVIRONMENTAL FOCUS**:
+   - **1 new message (May 30, 10:06 UTC)**:
+     - "Catastrophic sewage and fuel leaks contaminate the most endangered river in the country"
+   - **Signal**: Climate/environmental journalism newsletter; aligns with hurricane/weather drone applications.
 
-4. **Popular Science / Popsci** (editorial@popsci.com) — **NEW/ELEVATED/SCIENCE MEDIA**:
-   - **1 new message (May 29, 15:13 UTC)**:
-     - **Outbound**: Paige sends core hurricane drone story to PopSci editorial.
-   - **Signal: NEW/ELEVATED. Popular Science is major consumer science publication. Marks expansion from trade media to mainstream science media.**
+3. **MundoGEO Newsletter** (mundogeo@mundogeo.net) — **GEOSPATIAL/DRONE INDUSTRY FOCUS**:
+   - **2 new messages (May 30, 06:05 UTC)** — *identical subject sent to both info@bst.aero and info@blackswifttech.com*:
+     - "Eve Completes Hover & Low-Speed Flights Block | A Continent of Precision: How to Meet Europe's Demanding Spatial Data Standards"
+   - **Signal**: Geospatial/drone industry trade publication. Message broadcast to company general inboxes; Paige receiving as general company distribution (not direct outreach).
 
-5. **UKI Media Events / Helen Norman** (helen.norman@ukimediaevents.com) — **NEW/ELEVATED/INTERNATIONAL EVENTS/MEDIA**:
-   - **1 new message (May 29, 16:04 UTC)**:
-     - **Outbound**: Paige sends hurricane drone story to UK media events contact (possibly conference/trade show coordination).
-   - **Signal: NEW. UK-based media events contact. Possible media briefing or conference panel coordination.**
+#### **GENERAL INTEREST / PERSONAL SUBSCRIPTIONS (Non-Work Signal)**
 
-6. **Nina Sabak / Echo Blue** (nina.sabak@echoblue.co.uk) — **ELEVATED/UK-BASED MEDIA/PR PARTNER**:
-   - **2 new messages (May 29, 01:26–01:30 UTC)**:
-     - **Inbound responses (2, IMPORTANT)**: "Re: Press Release, New Sitelink" — Nina responding to press release coordination or website/media asset updates.
-   - **Pattern**: Two rapid replies suggest active coordination on press release rollout or website/SEO optimization.
-   - **Signal: ELEVATED/UK-BASED. Echo Blue appears to be UK media relations or PR partner managing press release distribution/sitelinks.**
+4. **The New York Times** (editorpicks@nytimes.com, nytimes@e.newyorktimes.com, nytdirect@nytimes.com) — **3 new messages (May 30)**:
+   - "The Kennedy Center ruling infuriated Trump. Here are five takeaways" (May 30, 21:02 UTC)
+   - "Your field guide to spring. Save: $50/yr." (May 30, 19:24 UTC)
+   - "The Morning: Summer reading" (May 30, 10:06 UTC)
+   - **Signal**: Multiple NYT subscription tiers active (news alerts, promotions, daily digest).
 
-#### **METEOROLOGICAL & WEATHER MEDIA (Sustained)**
+5. **The Athletic Pulse** (TheAthletic@e1.theathletic.com) — **1 new message (May 30, 11:14 UTC)**:
+   - "The faces of MLB's strange start"
+   - **Signal**: Sports subscription (not work-related).
 
-7. **Karissa Klos / Weather Nation TV** — (see above, elevated status confirmed)
+6. **MonsterInsights / MarTech** (support@m.lindrismail.com) — **1 new message (May 30, 17:22 UTC)**:
+   - "Want to understand how your forms are performing?"
+   - **Signal**: Marketing analytics tool promotion; possibly tied to BST website/form tracking.
 
-#### **NEWSLETTERS & PROFESSIONAL ASSOCIATIONS (Baseline Automation — Sustained)**
+## Topic Patterns
 
-8. **Air & Space Forces Association / A&SF Alerts** (afa.org
+### **Active Campaign Focus (Sustained)**
+- **Hurricane drone forecasting accuracy** — core narrative ("Drone Data Improves Hurricane Forecast Accuracy by 10%", variant: "The 2.6 lbs Drone That Improved Hurricane Forecasting Accuracy by 10%")
+- **Geographic expansion**: German-language media, UK events, international weather broadcast media
+
+### **Professional Development Signals**
+- **LinkedIn job alerts** (Social Media Manager at Night Media, Inc.) — *suggests either passive job market monitoring or elevated professional visibility*
+- **LinkedIn connection suggestions** (Brian Argrow) — *likely academic/atmospheric science figure*
+
+### **Industry/Policy Awareness**
+- **FY27 defense/space budget tracking** (Mitchell Institute/Air Force Association)
+- **Climate policy & environmental journalism** (Inside Climate News, geospatial industry news)
+
+## Communication Patterns
+
+### **Timeline Observations**
+- **May 29**: Sustained high-volume outbound media outreach (42 messages, concentrated 15:00–16:04 UTC)
+- **May 30–31**: Reversion to baseline; weekend newsletter/automation traffic dominates (15 messages, 93% inbound automation)
+
+### **LinkedIn Activity Spike**
+- **6 LinkedIn notifications in 24-hour window (May 30)** — unusual clustering suggests either:
+  - Paige's recent high-visibility email campaign triggered network algorithm
+  - Active LinkedIn profile engagement during media blitz period
+  - Passive job market awareness/recruiter targeting
+
+### **Newsletter & Automation Subscriptions**
+- **Professional**: Mitchell Institute (aerospace), Inside Climate News (climate), MundoGEO (geospatial), LinkedIn (jobs/network)
+- **General interest**: New York Times (multiple tiers), The Athletic (sports)
+- **MarTech/Tools**: MonsterInsights (analytics)
+
+## Key Relationships
+
+### **Internal (from previous data, sustained)**
+1. **Jack Elston** — Media strategy coordinator; daily escalation point
+2. **Maciej Stachura** — Technical lead on hurricane drone project; escalation target
+3. **Beck Cotter** — Inbound media inquiry router; coordination hub
+
+### **External (from previous data, sustained/elevated)**
+1. **Jan Schönberg / Drones Magazine (Germany)** — German-language UAS media outreach
+2. **Karissa Klos / Weather Nation TV** — Engaged broadcast weather media (receptive to hurricane story)
