@@ -27,10 +27,10 @@
 
 *Remaining 10 team members account for ~4,300 hours combined*
 
-### Utilization Patterns (Last Updated May 31, 2026)
-- **Latest tracking period (May 30-31):** 0.0 hours recorded — *no time entries submitted during this period*
-- **Prior period activity (May 29-30):** 51.5 hours across 7 team members
-- **Status:** Tracking appears paused or incomplete for May 30-31; recommend follow-up with team on data capture
+### Utilization Patterns
+- **Latest tracking period (May 31 - Jun 1, 2026):** 0.0 hours recorded — **critical data capture failure**
+- **Status:** No time entries submitted during this 2-day period across entire team
+- **Action Required:** Immediate follow-up needed to restore tracking discipline and capture current work allocation
 
 ## Project Portfolio
 
@@ -50,11 +50,6 @@
 13. **[001-07] S3 IRAD:** 262.6 hours (0.79%)
 14. **[031-1] UMES S3 (University of Maryland Eastern Shore):** 100.9 hours (0.30%)
 15. **[001-20] PTO:** 64.0 hours (0.19%)
-16. **[001-13] Marketing (Overhead):** 15.0 hours (0.045%)
-17. **[001-13] BD Pipeline (Overhead):** 4.8 hours (0.014%)
-18. **[550-2] Navy STTR: Hazardous Weather:** 3.1 hours (0.009%)
-19. **[044-1] EMASS Chip Integration:** 1.8 hours (0.005%)
-20. **[001-13] Proposals (Overhead):** 3.2 hours (0.010%)
 
 ### Client Distribution
 - **IRAD (Internal R&D):** ~6,604.9 hours (19.81%) — S0 VTOL, S3 IRAD, Flight Testing, SwiftStation, SwiftCore
@@ -64,26 +59,29 @@
 - **Department of Air Force:** 1,258.5 hours (3.78%)
 - **Navy (SBIR/STTR):** 29.9 hours (0.090%) — *emerging program*
 - **University of Maryland Eastern Shore:** 100.9 hours (0.30%)
-- **EMASS/Chip Integration:** 1.8 hours (0.005%)
 - **Unallocated:** 8,600.0 hours (25.81%)
 - **PTO:** 64.0 hours (0.19%)
-- **Other (ByLight, USGS, Academic):** 151.7 hours (0.46%)
+- **Other:** ~151.7 hours (0.46%)
 
 ## Patterns & Insights
 
-### Key Observations
-- **Jack Elston Dominance:** Single person represents 38.55% of all tracked hours; critical resource concentrating on operations, overhead, and S2 Avionics work
-- **Top 10 Contributors:** Account for ~30,000+ hours (90%+ of total); heavily skewed team composition
-- **Navy SBIR Magnetometer Emerging:** 26.8 hours cumulative with recent acceleration (10.8 hours in last 2-day period); Stachura and Sam Hild as core technical leads; signals new growth vector for company
-- **UMES S3 Production Ramp:** 100.9 hours with recent momentum (8.0 hours); Ethan Domagala engaged; external partnership delivering tangible output
-- **Marketing Initiative Established:** 15.0 hours total with Paige Smith establishing consistent weekly engagement; indicating deliberate market positioning effort
-- **Core IRAD Portfolio Stable:** ~6,600 hours across internal projects (S0 VTOL, S3, Flight Testing, SwiftStation, SwiftCore); foundational to long-term capability development
-- **Unallocated Work Significant:** 25.81% of time untracked/unallocated; opportunity for improved project classification and time capture discipline
-- **No New Data May 30-31:** Tracking gap during latest period; recommend verifying team timesheet submission compliance
+### Critical Observations
+- **Tracking Blackout (May 31 - Jun 1):** Complete absence of time entries represents data quality crisis; need immediate verification of team status and timesheet submission protocol
+- **Jack Elston Concentration Risk:** 38.55% of all tracked hours concentrated in single person; represents critical operational bottleneck for company continuity
+- **Top 10 Contributors Dominance:** 90%+ of total tracked time; narrow skill distribution creates dependency risk
+- **Navy SBIR Magnetometer Acceleration:** 26.8 cumulative hours with Stachura and Sam Hild as technical leads; signals emerging revenue opportunity requiring monitoring
+- **UMES S3 Partnership Active:** 100.9 hours with Ethan Domagala driving production assembly; external collaboration showing tangible progress
+- **Unallocated Work Remains High:** 25.81% of tracked time unattributed; indicates ongoing project classification discipline issues
+- **Core IRAD Portfolio Stable:** ~6,604 hours across internal development (S0 VTOL, S3, Flight Testing, SwiftStation, SwiftCore) establishing foundational capabilities
+- **Marketing Engagement Established:** 15.0 hours with Paige Smith; deliberate market positioning initiative underway
 
-### Team Specialization
-- **Stachura:** Multi-domain (Navy emerging work, university partnerships, assembly operations)
-- **Sam Hild:** Navy SBIR Magnetometer, S0 VTOL testing technical track
-- **Ethan Domagala:** UMES S3 production assembly focus
-- **Paige Smith:** Marketing/business development communications
-- **Jack Elston:** Operations backbone, S2 Avionics systems, BD pipeline management
+### Team Specialization Mapping
+- **Stachura:** Navy programs, university partnerships, multi-domain operations
+- **Sam Hild:** Navy magnetometer technical development, flight testing support
+- **Ethan Domagala:** Production assembly (UMES S3 focus)
+- **Paige Smith:** Communications and market positioning
+- **Jack Elston:** Operations backbone and overhead management
+
+---
+
+**Data Status Note:** Latest 2-day period shows zero entries. Prior complete data through May 29, 2026. Recommend immediate team contact to restore tracking compliance.

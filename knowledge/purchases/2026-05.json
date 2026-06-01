@@ -7599,8 +7599,8 @@
     "vendor": "McMaster-Carr",
     "project_code": null,
     "project_hint": "S3 Gimbal",
-    "description": "Aluminum rod, bronze bearing, fasteners, screws, nuts, spacer, standoff; 9 line items",
-    "notes": "Invoice 65822627 dated 5/29/26; PO 0529JELSTON; shipped 5/29/26 via FedEx",
+    "description": "Aluminum rod, bronze bearing, fasteners, screws, nuts, spacers, standoffs for gimbal assembly",
+    "notes": "PO 0529JELSTON; invoice 65822627 dated 5/29/26; paid via Visa 6/1/26; shipped FedEx 516628055351; all 5 line items shipped",
     "date": "2026-05-30",
     "subject": "Receipt for Your May 29th Order with McMaster-Carr"
   },
@@ -7613,7 +7613,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "Automated shipment tracking notification only; no purchase detail or dollar amount",
+    "notes": "Shipment tracking notification; no purchase cost",
     "date": "2026-05-30",
     "subject": "DHL Shipment Notification : 4789316906"
   },
@@ -7626,7 +7626,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "Automated shipment tracking notification only; no purchase detail or dollar amount",
+    "notes": "Shipment tracking notification; no purchase cost",
     "date": "2026-05-30",
     "subject": "DHL Shipment Notification : 4789316906"
   },
@@ -7639,7 +7639,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "Automated shipment tracking notification only; no purchase detail or dollar amount",
+    "notes": "Shipment tracking notification; no purchase cost",
     "date": "2026-05-30",
     "subject": "DHL Shipment Notification : 4789316906"
   },
@@ -7652,7 +7652,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "Automated shipment tracking notification only; no purchase detail or dollar amount",
+    "notes": "Shipment tracking notification; no purchase cost",
     "date": "2026-05-30",
     "subject": "DHL Shipment Notification : 4789316906"
   },
@@ -7665,7 +7665,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "Automated shipment tracking notification only; no purchase detail or dollar amount",
+    "notes": "Shipment tracking notification; no purchase cost",
     "date": "2026-05-30",
     "subject": "DHL Shipment Notification : 4789316906"
   },
@@ -7678,7 +7678,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "Automated shipment tracking notification only; no purchase detail or dollar amount",
+    "notes": "Shipment tracking notification; no purchase cost",
     "date": "2026-05-30",
     "subject": "DHL Shipment Notification : 4789316906"
   },
@@ -7691,7 +7691,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "Marketing/promotional email; not a purchase request or order",
+    "notes": "Marketing email for automotive products; no purchase",
     "date": "2026-05-30",
     "subject": "Take Control of Your Transmission With Hughes Performance"
   },
@@ -7704,7 +7704,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "Marketing/promotional email; not a purchase request or order",
+    "notes": "Marketing email/flash sale; no purchase",
     "date": "2026-05-30",
     "subject": "YOUR FREE GIFT IS WAITING!"
   },
@@ -7716,8 +7716,8 @@
     "vendor": "Air Sea Containers",
     "project_code": null,
     "project_hint": null,
-    "description": "UN Plywood Box (Code: 1039)",
-    "notes": "Quote request for 1 UN Plywood Box; vendor asking for clarification on quantity",
+    "description": "UN Plywood Box for Non-specific inners, 4DV/X56/S (Code: 1039)",
+    "notes": "Quote request initiated; vendor asking clarification on quantity",
     "date": "2026-05-30",
     "subject": "RE: Air Sea Containers | Request Quote"
   },
@@ -7730,7 +7730,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "Automated shipment tracking notification only; no purchase detail or dollar amount",
+    "notes": "Shipment tracking notification; no purchase cost",
     "date": "2026-05-30",
     "subject": "DHL Shipment Notification : 4789316906"
   },
@@ -7743,7 +7743,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "Automated shipment tracking notification only; no purchase detail or dollar amount",
+    "notes": "Shipment tracking notification; no purchase cost",
     "date": "2026-05-30",
     "subject": "DHL Shipment Notification : 4789316906"
   },
@@ -7756,7 +7756,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "Informed Delivery notification; no purchase or shipping cost",
+    "notes": "Informed Delivery digest; no purchase",
     "date": "2026-05-30",
     "subject": "Your Daily Digest for Sat, 5/30 is ready to view"
   },
@@ -7769,7 +7769,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "Saved search alert; not a purchase order or quote",
+    "notes": "Saved search alert; no actual purchase",
     "date": "2026-05-30",
     "subject": "sony a5100, New: 1 NEW!"
   },
@@ -7782,7 +7782,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "Saved search alert; not a purchase order or quote",
+    "notes": "Saved search alert; no actual purchase",
     "date": "2026-05-30",
     "subject": "futaba 14sg, Receivers & Transmitters: 1 NEW!"
   },
@@ -7795,7 +7795,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "Automated shipment tracking notification only; no purchase detail or dollar amount",
+    "notes": "Shipment tracking notification; no purchase cost",
     "date": "2026-05-30",
     "subject": "DHL Shipment Notification : 4789316906"
   },
@@ -7808,7 +7808,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "Automated shipment tracking notification only; no purchase detail or dollar amount",
+    "notes": "Shipping notification only; customs clearance delay status update, no purchase data",
     "date": "2026-05-30",
     "subject": "DHL Shipment Notification : 4789316906"
   },
@@ -7821,7 +7821,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "Automated shipment tracking notification only; no purchase detail or dollar amount",
+    "notes": "Shipping notification only; customs entry submitted, no purchase data",
     "date": "2026-05-30",
     "subject": "DHL Shipment Notification : 4789316906"
   },
@@ -7833,9 +7833,113 @@
     "vendor": "SendCutSend",
     "project_code": null,
     "project_hint": null,
-    "description": "Metal/material parts (Order SS97A808)",
-    "notes": "Shipment confirmation; parts have shipped and are in transit",
+    "description": "Custom parts/fabrication order",
+    "notes": "Order SS97A808 has shipped",
     "date": "2026-05-31",
     "subject": "A shipment from SendCutSend is on the way"
+  },
+  {
+    "id": "19e81046447190c9",
+    "is_purchase": true,
+    "status": "invoiced",
+    "amount_usd": 93.17,
+    "vendor": "UPS",
+    "project_code": null,
+    "project_hint": null,
+    "description": "UPS shipping/account charges",
+    "notes": "Invoice for Account 8xxx4W, due 06/08/2026",
+    "date": "2026-05-31",
+    "subject": "Invoice Now Available for Account 8xxx4W"
+  },
+  {
+    "id": "19e80e9f40226ab9",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "DHL",
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Shipment on hold awaiting payment of fees; no purchase anchor",
+    "date": "2026-05-31",
+    "subject": "DHL Shipment Notification : 4789316906"
+  },
+  {
+    "id": "19e7f78765626060",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "Hertz",
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Personal account maintenance notification; not a purchase",
+    "date": "2026-05-31",
+    "subject": "Action needed: Maciej, your license + card on file are expired"
+  },
+  {
+    "id": "19e7f484b207a262",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "UPS",
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Delivery notification; no cost information",
+    "date": "2026-05-31",
+    "subject": "Your Package Arrives Tomorrow"
+  },
+  {
+    "id": "19e7ec8d6bbbce4f",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "Budget",
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Marketing email/flash sale; no actual purchase",
+    "date": "2026-05-31",
+    "subject": "\u26a1 FLASH SALE \u26a1 Over 20 Budget destinations now on sale!"
+  },
+  {
+    "id": "19e7ea91a32310d9",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "Aloft Hobbies",
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Marketing email with loyalty code; no purchase",
+    "date": "2026-05-31",
+    "subject": "Aloft Hobbies Loyal Customers - Limited Time Only!"
+  },
+  {
+    "id": "19e7e2d53df22431",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "Harbor Freight",
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Marketing email/flash sale; no purchase",
+    "date": "2026-05-31",
+    "subject": "Your Daily Digest for Sun, 5/31 is ready to view"
+  },
+  {
+    "id": "19e7e047a907ef09",
+    "is_purchase": true,
+    "status": "ordered",
+    "amount_usd": 139.96,
+    "vendor": "Amazon",
+    "project_code": null,
+    "project_hint": null,
+    "description": "4x Logitech K400 Plus Wireless Touch TV Keyboard",
+    "notes": "Order 111-5635908-9474620 shipped, arriving tomorrow",
+    "date": "2026-05-31",
+    "subject": "Shipped: \u20664\u2069 \"Logitech K400 Plus Wireless...\""
   }
 ]

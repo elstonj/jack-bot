@@ -12,12 +12,12 @@
     "contacts": []
   },
   "contract": {
-    "type": "cost_reimbursable",
+    "type": "fixed_price",
     "number": "1305M226D0012",
     "total_value": 483000.0,
     "start_date": "2026-02-01",
     "end_date": "2031-01-31",
-    "payment_cadence": "milestone",
+    "payment_cadence": "firm fixed price per unit/task with annual ordering periods; travel and NRE billed not-to-exceed",
     "documents": [
       "drive://Budget Structure",
       "drive://(1305M226D0012) Attachment 1-Specifications_Black Swift.pdf",
@@ -30,32 +30,32 @@
     "line_items": [
       {
         "category": "Equipment",
-        "amount": 10386250.0,
-        "description": "Black Swift S0 sUAS Platforms: 150 units at $18,000 (Period 1), 150 units at $18,630 (Period 2), 125 units at $19,282 (Period 3), 125 units at $19,957 (Period 4), 125 units at $20,655 (Period 5)",
+        "amount": 10981250.0,
+        "description": "Black Swift S0 sUAS Platforms: 150 EA @ $18,000 (Yr1) + 150 EA @ $18,630 (Yr2) + 125 EA @ $19,282 (Yr3) + 125 EA @ $19,957 (Yr4) + 125 EA @ $20,655 (Yr5)",
         "source_doc": null
       },
       {
         "category": "Labor",
-        "amount": 430500.0,
-        "description": "Mission Days Operational support (30 days × $2,850 per period × 5 periods = $427,500) and Operational/Testing Support (6 units × $6,000 per period × 5 periods = $180,000); Operator/Observer Training ($6,000 × 5 = $30,000) and Instructor Training ($600 × 5 = $3,000)",
+        "amount": 427500.0,
+        "description": "Mission Days Operational support (30 days/yr @ $2,850/day × 5 years) + Operational and Testing Support (6 sessions/yr @ $6,000 × 5 years) + Training Sessions (Operator/Observer + Instructor)",
         "source_doc": null
       },
       {
         "category": "Travel",
         "amount": 250000.0,
-        "description": "Travel for Operational Support (NTE $50,000 per ordering period × 5 periods)",
+        "description": "Travel for Operational Support (5 years × $50,000 NTE per ordering period)",
         "source_doc": null
       },
       {
         "category": "Labor",
         "amount": 60000.0,
-        "description": "Operator and Observer Course Development ($6,000 × 5 periods) and Instructor Training Course Development ($6,000 × 5 periods)",
+        "description": "Course Development: Operator and Observer Course Development (5 × $6,000) + Instructor Training Course Development (5 × $6,000)",
         "source_doc": null
       },
       {
-        "category": "Other",
+        "category": "Labor",
         "amount": 990000.0,
-        "description": "Non-recurring Engineering (NRE): Technical Documentation ($66,000 × 5), Modeling ($66,000 × 5), NHC operational workflow integration ($66,000 × 5) — all listed as NTE/Line of Effort",
+        "description": "Non-recurring Engineering: Technical Documentation, Modeling, and NHC Integration (3 task categories × $66,000 NTE × 5 ordering periods)",
         "source_doc": null
       }
     ],
@@ -64,19 +64,19 @@
         "amount": 92155.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-05-31"
+        "last_updated": "2026-06-01"
       },
       "purchases": {
         "amount": 902.06,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-05-31"
+        "last_updated": "2026-06-01"
       },
       "other_qbo": {
         "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-05-31"
+        "last_updated": "2026-06-01"
       },
       "total": 93057.06,
       "by_line_item": {}
@@ -84,7 +84,7 @@
     "committed": 68.7,
     "remaining": 13188124.24,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-05-31T08:52:34Z"
+    "last_reconciled": "2026-06-01T08:53:47Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -141,6 +141,6 @@
       "text": "From Joshua Fromm: <@U0AQE94HJUT> do we have the gateworks boards for the s0 ground stations for the idiq yet?"
     }
   ],
-  "last_full_rebuild": "2026-05-31T08:52:34Z",
+  "last_full_rebuild": "2026-06-01T08:53:47Z",
   "last_incremental_update": null
 }

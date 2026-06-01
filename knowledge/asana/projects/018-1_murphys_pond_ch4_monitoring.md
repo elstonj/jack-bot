@@ -3,14 +3,14 @@
 ## Overview
 - **Client/customer:** Murray State University / Dr. Bassil El Masri
 - **Dollar value:** $86,862.94 total funding to Black Swift Technologies
-- **Timeline:** Funding expires 2026-12-31. Flights #1 & #2 completed (Nov & Dec 2025). Flight #3 confirmed; due 2026-05-27 (Spring '26). S2 rental due 2026-06-01.
+- **Timeline:** Funding expires 2026-12-31. Flights #1 & #2 completed (Nov & Dec 2025). Flight #3 confirmed; due 2026-05-27 (Spring '26). S2 rental order due 2026-06-01.
 - **Status:** **Active.** Per Jack Elston (2026-04-20), Murphy's Pond competes with INSTAAR x2 and Ottawa demo for scheduling priority; execution order is "whatever actually happens first" among competing projects. Flight #3 is imminent (due 2026-05-27).
 - **Team members involved:** Beck Cotter (owner/project lead), Jack Elston (lead technical/flight coordination), Maciej Stachura (payload configuration), Nate Straus (software), Meredith O'hara Needham (communications), Dan Prendergast (logistics/battery shipment)
 - **Risk signals:** 
   - **Flight #3 execution due imminently (2026-05-27)** — subject to competing INSTAAR x2 and Ottawa demo scheduling
+  - **S2 rental order due imminently (2026-06-01)** — 2 units (S0 VTOL); training/travel required but **travel not yet scheduled** (Jack Elston owns task)
   - **Battery shipment logistics due 2026-06-12** (Dan Prendergast); address confirmed in task notes
   - **Flight #4 funding confirmation status unclear** — Beck Cotter task was due 2026-05-20 (status unknown from new data)
-  - S2 rental order window (2026-06-01) imminent; training/travel required but **travel not yet scheduled**
   - Unresolved technical issues: FLIR triggering failures, methane payload data rate investigation, camera overlap (FLIR + A5100) target 80% not yet configured
   - Funding expires 2026-12-31; all work must complete by year-end
 
@@ -18,21 +18,21 @@
 - **Flight #1:** Completed November 11, 2025
 - **Flight #2:** Completed December 11, 2025
 - **Flight #3:** Confirmed; Due: 2026-05-27 (Spring '26)
-- **S2 Aircraft Rental (2 units, S0 VTOL):** Due 2026-06-01; training/travel required; travel not yet scheduled
+- **S2 Aircraft Rental (2 units, S0 VTOL):** Due 2026-06-01; training/travel required; travel not yet scheduled (assigned to Jack Elston, Urgency: Medium)
 - **Battery Shipment to Dr. Masri:** Due 2026-06-12 (Dan Prendergast); ship to Department of Earth and Environment Sciences, 334 Blackburn Hall, Murray, KY 42071
 - **Optional Flight #4 Funding Confirmation:** Status unclear; $31k available funding (Dr. Masri offer from July 2025)
 
 ## Task Summary
 - **Total tasks:** 1 open, 0 completed
 - **Tasks by assignee:**
-  - **Dan Prendergast:** 1 open task
-    - Ship Batteries to Dr. Masri at Murray State (Due: 2026-06-12; address confirmed)
+  - **Jack Elston:** 1 open task
+    - S2 aircraft rental order (2 units, S0 VTOL); Due 2026-06-01; training/travel required; travel not yet scheduled (Urgency: Medium)
 
 ## Recent Activity
 - **Current focus:** 
   - **IMMINENT:** Flight #3 execution due 2026-05-27 (subject to competing project scheduling)
+  - **IMMINENT:** S2 rental order (2 units, S0 VTOL) due 2026-06-01 — Jack Elston responsible; training/travel required but not yet scheduled
   - **UPCOMING:** Battery shipment to Dr. Masri (Due: 2026-06-12); address: Department of Earth and Environment Sciences, 334 Blackburn Hall, Murray, KY 42071
-  - Preparing S2 aircraft rental order (2 units, training/travel required but not yet scheduled)
   - Resolving FLIR triggering, camera configuration, and methane payload data rate issues
 
 ## Notes & Context
