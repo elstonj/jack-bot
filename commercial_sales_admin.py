@@ -34,6 +34,7 @@ from commercial_sales import KNOWLEDGE_DIR as CS_DIR
 
 FILTERED_PATH = CS_DIR / "_filtered.md"
 FORCE_INCLUDE_PATH = CS_DIR / "_force_include.json"
+FORCE_EXCLUDE_PATH = CS_DIR / "_force_exclude.json"
 UNMAPPED_PATH = CS_DIR / "_unmapped_customers.md"
 
 PENDING_TTL = 600  # 10 minutes
@@ -194,6 +195,40 @@ def _save_force_include(force_map: dict) -> None:
 def get_force_include_gids() -> set[str]:
     """Public helper for the scanner — returns the set of gids to force-include."""
     return set(_load_force_include().keys())
+
+
+# --- force_exclude persistence ---------------------------------------------
+
+
+def _load_force_exclude() -> dict:
+    """Return {gid: {added_at, added_by, reason}} from the JSON file.
+
+    Empty dict if file doesn't exist. The scanner uses this to hard-drop
+    specific Asana task gids that the is_customer_build filter would otherwise
+    KEEP — e.g. a hardware-looking opportunity that is actually part of an
+    SBIR/grant effort and belongs in #grants-and-funding, not this digest.
+    """
+    if not FORCE_EXCLUDE_PATH.exists():
+        return {}
+    try:
+        data = json.loads(FORCE_EXCLUDE_PATH.read_text())
+        return data.get("force_exclude", {}) or {}
+    except Exception:
+        return {}
+
+
+def _save_force_exclude(exclude_map: dict) -> None:
+    CS_DIR.mkdir(parents=True, exist_ok=True)
+    payload = {
+        "updated_at": datetime.utcnow().isoformat(timespec="seconds") + "Z",
+        "force_exclude": exclude_map,
+    }
+    FORCE_EXCLUDE_PATH.write_text(json.dumps(payload, indent=2))
+
+
+def get_force_exclude_gids() -> set[str]:
+    """Public helper for the scanner — returns the set of gids to force-drop."""
+    return set(_load_force_exclude().keys())
 
 
 # --- show-filtered handler -------------------------------------------------
