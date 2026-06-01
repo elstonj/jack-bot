@@ -1,0 +1,50 @@
+{
+  "asana_gid": "1214795652219550",
+  "asana_task_name": "Canadian Rangers Demo (Ottawa)",
+  "customer": "Canadian Rangers (via NexTech Solutions)",
+  "customer_contact": "",
+  "customer_email": "",
+  "receive_by": "2026-06-25",
+  "ship_to": "",
+  "items": [
+    {
+      "description": "S3 UAS with EO/IR gimbal",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "estimate_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": "",
+  "paid_date": null,
+  "parts": [
+    {
+      "name": "EO/IR gimbal",
+      "ordered": false,
+      "received": false,
+      "vendor": "",
+      "order_date": null
+    }
+  ],
+  "tracking_number": "",
+  "carrier": "",
+  "shipped_date": null,
+  "owners": {
+    "interface": "Dan Prendergast",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "End customer is the Canadian Rangers; NexTech Solutions is the DoD contractor/integrator running this program (same program as the NexTech S3 Arctic build, gid 1213710771915193 — Ottawa demo phase). Canadian Rangers demo in Ottawa planned for June 2026. NexTech Solutions evaluating S3 for tactical deployment; 120km range / 1h 35min TOF required with EO/IR gimbal. Follow-on demos planned: Arctic demo with NexTech Solutions (receive by 2026-08-31), potential Joint Forces Command purchase. Active Slack engagement through 2026-05-20 confirms ongoing planning and execution.",
+  "missing_fields": [
+    "ship_to",
+    "customer_contact",
+    "customer_email",
+    "estimate_date",
+    "invoice_number",
+    "invoice_amount"
+  ],
+  "last_evidence_date": "2026-05-28"
+}
