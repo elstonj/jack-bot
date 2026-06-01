@@ -1,9 +1,11 @@
 # Unmapped Customers
 
-_Generated 2026-05-31 03:08 — customers who have emailed info@/sales@ but aren't yet tracked as Asana Commercial Sales tasks._
+_Generated 2026-06-01 03:09 — customers who have emailed info@/sales@ but aren't yet tracked as Asana Commercial Sales tasks._
 
 | Latest | Domain | # Emails | Recent subjects |
 |--------|--------|----------|-----------------|
+| 2026-06-01 | mail.ozols.lv | 1 | Following Up – Custom Battery Solutions for UAVs & Unmanned Systems |
+| 2026-05-31 | mail.mcgill.ca | 1 | Infos UAS cold weather conditions |
 | 2026-05-28 | wm-medien.de | 1 | Media inquiry | Drones magazine |
 | 2026-05-28 | uasweekly.com | 3 | UASweekly Daily Newsletter |
 | 2026-05-28 | plastic-creationsltd.com | 1 | Plastic Creations |

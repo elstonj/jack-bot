@@ -1,106 +1,123 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,017 (2,002 previous + 15 new)
-- **Date range:** March 24 – May 31, 2026 (70 days)
-- **Approximate volume:** ~28.8 messages per day (sustained consistency)
-- **Pattern shift (May 30–31):** New 15-message sample shows **DRAMATIC DROP IN ACTIVE OUTBOUND MEDIA OUTREACH**:
-  - **~93% of new messages are INBOUND AUTOMATION/NEWSLETTERS** (May 30–31 weekend period)
-  - **No new direct media outreach detected** in this sample (contrast to May 29's 60% outbound media blitz)
-  - **LinkedIn activity elevated** (6 LinkedIn notifications/job alerts in 24-hour period, May 30)
-  - **Professional/industry newsletters active** (Mitchell Institute aerospace, Inside Climate News, MundoGEO)
-  - **SIGNAL: Weekend email pattern shows reversion to baseline newsletter/automation traffic. Media campaign intensity appears to have peaked May 29; new sample captures post-campaign follow-up period.**
+- **Total messages scanned:** 2,031 (2,002 previous + 15 from May 30–31 + 14 new from Jun 1 & May 31)
+- **Date range:** March 24 – June 1, 2026 (70 days)
+- **Approximate volume:** ~29 messages per day (sustained consistency)
+- **Pattern update (May 31 – Jun 1):** Weekend/early Monday period continues baseline automation pattern:
+  - **~86% inbound automation/newsletters/tool notifications** (14 new messages)
+  - **Zero direct media outreach or internal team coordination** in this sample
+  - **Google Drive collaboration activity detected** (video file sharing, May 31, 14:39 UTC)
+  - **SIGNAL: Post-campaign period stabilization. Media blitz concluded; attention shifting to asset organization and professional development.**
 
 ## Key Correspondents
 
 ### Top Internal Senders
-*(No new internal messages in this sample; all activity from May 29 campaign period carries forward)*
-
-- **Jack Elston** (elstonj@blackswifttech.com) — **CRITICAL/MEDIA STRATEGY** (no new messages this period, but sustained pattern from May 29)
-- **Maciej Stachura** (stachura@blackswifttech.com) — **TECHNICAL COORDINATION** (no new messages this period)
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — **MEDIA INQUIRY ROUTING** (no new messages this period)
+- **Jack Elston** (elstonj@blackswifttech.com) — **CRITICAL/MEDIA STRATEGY** (no new activity this period)
+- **Maciej Stachura** (stachura@blackswifttech.com) — **TECHNICAL COORDINATION** (no new activity this period)
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — **MEDIA INQUIRY ROUTING** (no new activity this period)
 
 ### Top External Senders
 
-#### **LINKEDIN PROFESSIONAL NETWORK (NEW — Elevated May 30–31)**
-- **LinkedIn Notifications** (messages-noreply@linkedin.com, jobs-listings@linkedin.com, notifications-noreply@linkedin.com) — **6 messages in 24 hours (May 30)**:
-  - **Connection suggestions**: Brian Argrow (May 31, 00:59 UTC) — **SIGNAL: Likely academic/technical contact in atmospheric science/drone research**
-  - **Network analysis**: Smit Shah (President) marked as "popular in your network" (May 30, 22:59 UTC) — *suggests Smit Shah is elevated internal contact or recently promoted*
-  - **Job recommendation**: Social Media Manager role at Night Media, Inc. (May 30, 16:59 UTC) — **SIGNAL: Potential external recruitment/job alerts active** (may indicate open market awareness or LinkedIn algorithm flagging her profile activity)
-  - **Profile activity**: 13 recent profile views, search appearance tracking (May 30, 20:59 & 17:22 UTC)
-  - **INTERPRETATION**: Elevated LinkedIn engagement on weekend suggests either personal network maintenance or active professional positioning during/after media campaign.**
+#### **GOOGLE DRIVE / INTERNAL COLLABORATION (NEW)**
+- **Elie Morrison** (enmweat... via Google Drive) — **3 share requests (May 31, 14:39 UTC)**:
+  - "HurricaneMelissaVideoBST.mp4"
+  - "Tube Release.MP4"
+  - "S0 Animation.mp4"
+  - **SIGNAL: Video asset organization/sharing for hurricane campaign media kit. Collaborative asset preparation occurring during weekend, suggesting post-campaign documentation/archival phase.**
 
-#### **PROFESSIONAL & INDUSTRY NEWSLETTERS (Baseline Automation — Sustained & Expanded)**
+#### **INDUSTRY & POLICY NEWSLETTERS (Continued Baseline)**
 
-1. **Mitchell Institute / Air Force Association** (mitchell@afa.org) — **AEROSPACE POLICY/DEFENSE FOCUS**:
-   - **1 new message (May 30, 05:11 UTC)**:
-     - "FY27 Budget, Space Force Launch, and the Future of Airpower - Aerospace Advantage 292"
-   - **Signal**: Continued aerospace defense industry newsletter subscription.
+1. **A&SF Alerts / Air and Space Forces Magazine** (AirAndSpaceForcesMagazine@afa.org) — **1 new message (May 31, 06:39 UTC)**:
+   - "ICYMI | Aviation Mishap Task Force Looking at 'Concerning Trends'"
+   - **Signal**: Defense/aerospace industry alert (continued focus on aviation safety/policy).
 
-2. **Inside Climate News** (newsletters@insideclimatenews.org) — **CLIMATE/ENVIRONMENTAL FOCUS**:
-   - **1 new message (May 30, 10:06 UTC)**:
-     - "Catastrophic sewage and fuel leaks contaminate the most endangered river in the country"
-   - **Signal**: Climate/environmental journalism newsletter; aligns with hurricane/weather drone applications.
+2. **Inside Climate News** (newsletters@insideclimatenews.org) — **1 new message (May 31, 09:45 UTC)**:
+   - "The Okefenokee's bid for international recognition"
+   - **Signal**: Environmental/climate journalism (sustained subscription).
 
-3. **MundoGEO Newsletter** (mundogeo@mundogeo.net) — **GEOSPATIAL/DRONE INDUSTRY FOCUS**:
-   - **2 new messages (May 30, 06:05 UTC)** — *identical subject sent to both info@bst.aero and info@blackswifttech.com*:
-     - "Eve Completes Hover & Low-Speed Flights Block | A Continent of Precision: How to Meet Europe's Demanding Spatial Data Standards"
-   - **Signal**: Geospatial/drone industry trade publication. Message broadcast to company general inboxes; Paige receiving as general company distribution (not direct outreach).
+#### **GENERAL INTEREST SUBSCRIPTIONS (Sustained)**
 
-#### **GENERAL INTEREST / PERSONAL SUBSCRIPTIONS (Non-Work Signal)**
+3. **The New York Times** (editorpicks@nytimes.com, nytimes@e.newyorktimes.com, nytdirect@nytimes.com) — **4 new messages (May 31)**:
+   - "15 beach reads to binge this summer" (May 31, 12:01 UTC)
+   - "The Morning: Scene stealer" (May 31, 11:35 UTC)
+   - "Ask Vanessa: What can I do about see-through white pants?" (May 31, 21:10 UTC)
+   - NYT spring promotion (from earlier sample)
+   - **Signal**: Multiple active NYT subscriptions; leisure reading focus on weekend.
 
-4. **The New York Times** (editorpicks@nytimes.com, nytimes@e.newyorktimes.com, nytdirect@nytimes.com) — **3 new messages (May 30)**:
-   - "The Kennedy Center ruling infuriated Trump. Here are five takeaways" (May 30, 21:02 UTC)
-   - "Your field guide to spring. Save: $50/yr." (May 30, 19:24 UTC)
-   - "The Morning: Summer reading" (May 30, 10:06 UTC)
-   - **Signal**: Multiple NYT subscription tiers active (news alerts, promotions, daily digest).
+4. **The Athletic Pulse** (TheAthletic@e1.theathletic.com) — **1 new message (May 31, 11:05 UTC)**:
+   - "Knicks-Spurs, here we go"
+   - **Signal**: Sports newsletter (sustained).
 
-5. **The Athletic Pulse** (TheAthletic@e1.theathletic.com) — **1 new message (May 30, 11:14 UTC)**:
-   - "The faces of MLB's strange start"
-   - **Signal**: Sports subscription (not work-related).
+#### **MARKETING/PRODUCTIVITY TOOLS (New Detections)**
 
-6. **MonsterInsights / MarTech** (support@m.lindrismail.com) — **1 new message (May 30, 17:22 UTC)**:
-   - "Want to understand how your forms are performing?"
-   - **Signal**: Marketing analytics tool promotion; possibly tied to BST website/form tracking.
+5. **Toggl Track** (support@track.toggl.com) — **1 new message (Jun 1, 06:03 UTC)**:
+   - "(no subject)"
+   - **Signal**: Time/project tracking software; likely BST-related work management tool.
+
+6. **WPBeginner / WordPress SEO** (support@wpbeginner.com) — **1 new message (May 31, 10:21 UTC)**:
+   - "WordPress SEO in Zero-Click Era"
+   - **Signal**: Website/content marketing educational newsletter; possible tie to BST web presence or personal professional development.
+
+#### **COMMUNITY/VENUE EVENTS (New — Addressed to media@blackswifttech.com)**
+
+7. **Joshua Baer / STATION Austin** (events@stationaustin.org) — **1 new message (May 31, 14:01 UTC)**:
+   - "This Week at STATION Austin 🚀 6/1 - 6/5"
+   - **Recipient note**: Addressed to media@blackswifttech.com (not personal inbox); Paige receiving as general company distribution
+   - **Signal**: Event venue newsletter for Austin startup/tech community; low engagement priority.
+
+#### **EXTERNAL TECHNICAL INQUIRY (New — Cold Inbound)**
+
+8. **Arthur Berthe-Poirot** (arthur.berthe-poirot@mail.mcgill.ca) — **1 new message (May 31, 16:40 UTC)**:
+   - "Infos UAS cold weather conditions"
+   - **Recipient note**: Addressed to info@blackswifttech.com (general company inbox); Paige receiving as distribution
+   - **Signal**: McGill University academic inquiry regarding UAS cold weather operations; cold inbound to general company contact.
 
 ## Topic Patterns
 
-### **Active Campaign Focus (Sustained)**
-- **Hurricane drone forecasting accuracy** — core narrative ("Drone Data Improves Hurricane Forecast Accuracy by 10%", variant: "The 2.6 lbs Drone That Improved Hurricane Forecasting Accuracy by 10%")
-- **Geographic expansion**: German-language media, UK events, international weather broadcast media
+### **Active Campaign Focus (Post-Campaign Phase)**
+- **Hurricane drone forecasting accuracy** — campaign narrative (asset organization phase detected)
+- **Video assets**: "HurricaneMelissaVideoBST.mp4", "Tube Release.MP4", "S0 Animation.mp4" — media kit compilation
 
-### **Professional Development Signals**
-- **LinkedIn job alerts** (Social Media Manager at Night Media, Inc.) — *suggests either passive job market monitoring or elevated professional visibility*
-- **LinkedIn connection suggestions** (Brian Argrow) — *likely academic/atmospheric science figure*
+### **Industry/Policy Awareness (Sustained)**
+- **Aviation safety trends** (A&SF Alerts aviation mishap task force)
+- **Climate/environmental journalism** (Inside Climate News wetland conservation)
+- **Geospatial/UAS technical inquiries** (McGill cold weather operations)
 
-### **Industry/Policy Awareness**
-- **FY27 defense/space budget tracking** (Mitchell Institute/Air Force Association)
-- **Climate policy & environmental journalism** (Inside Climate News, geospatial industry news)
+### **Professional Development & Web Presence**
+- **WordPress/SEO education** (WPBeginner newsletter) — possible website/content management focus
+- **Project/time tracking** (Toggl Track) — work management tool active
 
 ## Communication Patterns
 
 ### **Timeline Observations**
-- **May 29**: Sustained high-volume outbound media outreach (42 messages, concentrated 15:00–16:04 UTC)
-- **May 30–31**: Reversion to baseline; weekend newsletter/automation traffic dominates (15 messages, 93% inbound automation)
+- **May 31 – Jun 1**: Continued weekend/early Monday baseline pattern
+- **May 31, 14:39 UTC cluster**: Three consecutive Google Drive share requests from Elie Morrison (video asset compilation)
+- **May 31, 10:00–12:00 UTC cluster**: Multiple NY Times + Sports newsletter deliveries (typical weekend digest timing)
 
-### **LinkedIn Activity Spike**
-- **6 LinkedIn notifications in 24-hour window (May 30)** — unusual clustering suggests either:
-  - Paige's recent high-visibility email campaign triggered network algorithm
-  - Active LinkedIn profile engagement during media blitz period
-  - Passive job market awareness/recruiter targeting
+### **Messaging Distribution**
+- **Direct personal inbox**: General interest (NYT, sports), tool notifications (Toggl, WPBeginner), video collaboration (Google Drive)
+- **General company inbox (media@/info@)**: Event announcements (STATION Austin), technical inquiries (McGill UAS), vendor newsletters
 
-### **Newsletter & Automation Subscriptions**
-- **Professional**: Mitchell Institute (aerospace), Inside Climate News (climate), MundoGEO (geospatial), LinkedIn (jobs/network)
-- **General interest**: New York Times (multiple tiers), The Athletic (sports)
-- **MarTech/Tools**: MonsterInsights (analytics)
+### **Tool & Subscription Profile (Expanded)**
+- **Work tools**: Toggl Track (time management), Google Drive (collaboration)
+- **Marketing/content**: WPBeginner (WordPress SEO education)
+- **Professional**: Air & Space Forces Magazine, Inside Climate News
+- **General interest**: New York Times (4 active tiers), The Athletic (sports)
 
 ## Key Relationships
 
-### **Internal (from previous data, sustained)**
-1. **Jack Elston** — Media strategy coordinator; daily escalation point
-2. **Maciej Stachura** — Technical lead on hurricane drone project; escalation target
-3. **Beck Cotter** — Inbound media inquiry router; coordination hub
+### **Internal (Previous Data, No New Activity)**
+1. **Jack Elston** — Media strategy lead
+2. **Maciej Stachura** — Technical coordination
+3. **Beck Cotter** — Media inquiry routing
+4. **Elie Morrison** (NEW) — Video asset collaboration (Google Drive share requests on May 31)
 
-### **External (from previous data, sustained/elevated)**
-1. **Jan Schönberg / Drones Magazine (Germany)** — German-language UAS media outreach
-2. **Karissa Klos / Weather Nation TV** — Engaged broadcast weather media (receptive to hurricane story)
+### **External**
+1. **Jan Schönberg / Drones Magazine (Germany)** — Sustained (previous data)
+2. **Karissa Klos / Weather Nation TV** — Sustained (previous data)
+3. **Arthur Berthe-Poirot / McGill University** — NEW INBOUND: Cold inquiry on UAS cold weather operations (low priority, routed to general inbox)
+
+## Notable Observations
+
+-

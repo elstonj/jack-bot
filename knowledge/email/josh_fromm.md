@@ -1,25 +1,25 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 492 emails (combined: 431 prior + 38 May 29–30 + 23 May 30–31)
-- **Date range:** May 18–31, 2026
-- **Volume pattern:** Sustained extremely high procurement velocity with significant automated shipping/logistics notifications; government partnership coordination ongoing
-- **Unread messages:** ~280+ unread (heavy promotional/automated email volume; logistics notifications dominating recent inbox)
-- **Daily average:** ~15–17 emails/day (excludes promotional/automated volume routed via purchasing alias)
-- **New data period (May 30–31):** 23 emails in 2 days; weekend activity maintained; **DHL notifications dominate (10 identical tracking events May 30–31 for shipment 4789316906)**
+- **Total messages scanned:** 503 emails (combined: 492 prior + 11 June 1)
+- **Date range:** May 18–June 1, 2026
+- **Daily average:** ~15–17 emails/day (human correspondence); automated/logistics volume separate
+- **Unread messages:** ~290+ unread (heavy promotional/automated email volume continues; logistics and supplier notifications dominating)
+- **New data period (June 1):** 11 emails in 1 day; **continued automated shipping/supplier volume**
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-*(No changes from prior period; all previous contacts remain active)*
+*(All prior contacts remain active; no new internal correspondence in June 1 batch)*
 
 1. **Jack Elston** (elstonj@blackswifttech.com) — **Primary collaborator**
    - Government programs liaison (Merlin Mk2, US Navy SBIR, UK MOD)
 
 2. **Maciej Stachura** (stachura@blackswifttech.com) — **Co-investigator/technical lead**
    - NOAA program coordination, Arctic Edge 2027
+   - **NOTE (June 1):** Hertz rental alert routed to purchasing alias indicates shared or monitored expense account
 
 3. **Meredith Needham** (meredith.needham@blackswifttech.com) — **Procurement/Operations**
    - SOP: Shipping folder access; shipment coordination
@@ -42,100 +42,109 @@
 
 ---
 
-### Top Suppliers (May 30–31 Update)
-
-#### CNC/Fabrication & Prototyping
-1. **SendCutSend** — **ACTIVE SHIPMENT**
-   - **NEW:** Shipment notification May 31 (06:05 UTC) — sheet metal fabrication order en route
-   - Previous order SS97A808 tracking continues
-
-2. **ProtoSpace Mfg / ProtoCASE** — invoice cycle active May 29
-
-3. **Rubicon Aerospace** (lee@rubiconaerospace.com) — launch tube development
-
-#### Electronics & Components
-1. **McMaster-Carr** — **CONTINUED ACTIVE PROCUREMENT**
-   - **NEW:** Receipt for May 29th order May 30 (03:16 EDT) [UNREAD]
-   - Status: Order fulfillment cycle continues; at least 2 orders in active receipt phase
-
-2. **DigiKey** — shipping notification May 29
-
-3. **Blue Bird Model** (sales@blue-bird-model.com) — servo supplier
-
-4. **ServoCity®** — order tracking active
-
-5. **BatterySpace.com / AA Portable Power Corp.** — Battery procurement (Order #499821 routed to Jack Elston's purchasing account)
-
-6. **KST Servos** — marketing engagement May 29
+### Top Suppliers (June 1 Update)
 
 #### Logistics & Shipping
-1. **DHL** — **CRITICAL VOLUME SPIKE (May 30–31)**
-   - **10 identical shipment notifications for tracking #4789316906** (May 30–31, spanning 16:42 MYT to 11:02 MYT May 31)
-   - **Status:** DUPLICATE/SYSTEM ANOMALY — multiple notifications of same shipment; indicates either:
-     - Major international shipment with multiple status updates (standard DHL behavior for high-value/complex shipments)
-     - System error generating duplicate alerts
-   - **Routing:** All routed to purchasing@blackswifttech.com
-   - **Origin:** Malaysia timezone (MYT) suggests Asia-Pacific sourcing or transfer hub
+1. **DHL** — **CONTINUED ACTIVE TRACKING**
+   - **NEW:** Additional shipment notification June 1 (10:01 MYT) for tracking #4789316906
+   - **Status:** Continues stream of notifications for same shipment; 11+ notifications now across May 30–June 1
+   - **Routing:** Via purchasing@blackswifttech.com
 
-2. **SendCutSend** — shipment in transit May 31
+2. **UPS** — **NEW ACTIVE SHIPMENT**
+   - Notification June 1 (14:25 EDT): "Your Package Arrives Tomorrow"
+   - **Status:** Domestic delivery expected June 2
 
-3. **USPS Informed Delivery** — daily digest routing May 30
+3. **USPS Informed Delivery** — daily digest June 1
 
-#### Marketplace & General Procurement
-1. **eBay** — **CONTINUED ACTIVE SEARCHES**
-   - **NEW:** Sony A5100 search alert May 30 (06:08 PDT) [UNREAD] — camera/imaging equipment
-   - **Previous:** Futaba 14SG search alert May 30 (06:08 PDT) — RC transmitter/receiver
+#### Electronics & Components
+1. **Amazon.com** — **NEW SHIPMENT**
+   - Shipping notification June 1: Logitech K400 Plus Wireless (keyboard/input device)
+   - **Status:** Already shipped; likely office/workstation equipment (non-critical to core UAS procurement)
 
-#### Non-Work/Personal
-1. **AliExpress** (ae-best-message-notice28@newarrival.aliexpress.com) — promotional message May 30 (20:23 PDT)
-2. **Human Interest** — 401(k) contribution processing notification May 31 (01:56 UTC)
-3. **Frontier Airlines** — credit card promotion May 30 (06:08 PDT)
-4. **Birdcall** (hello@eatbirdcall.com) — restaurant promotional deal May 30 (14:55 UTC)
+#### Miscellaneous/Travel & Rental
+1. **Hertz** — **NEW CONTACT**
+   - Alert routed to purchasing alias June 1 (13:17 MDT): "Action needed: Maciej, your license + card on file are expired"
+   - **Inference:** Vehicle rental account monitored via procurement; likely field operations or logistics support
+   - **Associated person:** Maciej Stachura (not Josh directly, but alias routing indicates shared operations planning)
 
-#### Miscellaneous/Promotional
-1. **Speedway Motors** (via Purchasing) — automotive transmission performance promotion May 30 (18:00 UTC)
-2. **Harbor Freight** (via Purchasing) — promotional offer May 30 (17:37 UTC)
-3. **Kollmorgen** — industrial motion control marketing
-4. **Air Sea Containers** (Chad Zufra, czufra@airseadg.com) — **NEW SUPPLIER CONTACT**
-   - RE: Quote request May 30 (14:55 UTC) [ROUTED TO PURCHASING]
-   - **Inference:** Possibly container/shipping logistics or equipment transport solutions
+2. **Budget Rental Car** — promotional flash sale June 1 (routed to purchasing alias)
+   - Suggests ongoing vehicle rental needs for operations
+
+#### Travel & Loyalty
+1. **Frontier Airlines** — continued promotional engagement (20K miles bonus offer, June 1)
+
+#### Hobby/Retail
+1. **Aloft Hobbies** — **NEW CONTACT**
+   - Limited-time promotional offer June 1 (15:31 UTC) routed via purchasing alias
+   - **Inference:** RC hobby/modeling supplier (consistent with Futaba 14SG, servo, and drone component procurement patterns)
+
+2. **Harbor Freight** — continued promotional (flash sale offer, June 1)
+
+3. **AliExpress** — promotional alert June 1 (product alert: "Caught it before it sells out")
+   - Continues pattern of opportunistic component sourcing
+
+#### Account Management
+1. **Account Invoice** (no-reply via Purchasing) — **GENERIC INVOICE NOTIFICATION**
+   - Account 8xxx4W (masked account number) — invoice available June 1 (02:30 UTC)
+   - **Status:** Likely supplier account consolidation or recurring billing cycle; account ID suggests third-party procurement management
 
 ---
 
 ## Topic Patterns
 
-### Government/Research Programs (via prior correspondence)
-- NOAA partnership (Laura Rock, Nikolai Pawlenko)
-- Merlin Mk2 program (UK MOD with Simon Laurence)
+### Government/Research Programs (ongoing)
+- NOAA partnership (Arctic Edge 2027)
+- Merlin Mk2 program (UK MOD)
 - US Navy SBIR engagement
-- Arctic Edge 2027 proposal
-- Tube Launched UAS (USAF engagement)
+- Tube Launched UAS (USAF)
 - Atmolab camera integration
 
 ### Hardware & Component Procurement (Current)
-- **Flight Control:** RC transmitter/receiver (Futaba 14SG)
-- **Actuators:** Servo systems (ServoCity, KST Servos, Blue Bird Model)
-- **Electronics:** High-volume McMaster-Carr orders (May 29–30 spike)
-- **Batteries:** BatterySpace procurement (battery-intensive systems)
-- **Fabrication:** Sheet metal (SendCutSend), CNC prototyping (ProtoSpace, ProtoCASE)
-- **Imaging:** Sony A5100 camera (payload sensor acquisition)
+- **Flight Control & RC Systems:** Futaba 14SG, ServoCity, KST Servos
+- **Actuators & Motors:** Servo systems (continued active procurement)
+- **Electronics:** McMaster-Carr orders, component sourcing via eBay/AliExpress/Amazon
+- **Imaging:** Sony A5100 camera monitoring
+- **Input Devices:** Logitech K400 Plus (workstation peripherals)
+- **Batteries:** BatterySpace procurement
+- **Fabrication:** SendCutSend sheet metal, CNC prototyping
 - **Mechanical:** Rubicon Aerospace tube-launch systems
 
-### Supply Chain Status (May 30–31)
-- **International shipment incoming (DHL #4789316906 from Asia-Pacific)** — high notification frequency suggests high-value or time-sensitive delivery
-- **Domestic sheet metal order in transit (SendCutSend)**
-- **McMaster-Carr order fulfillment cycle active**
+### Supply Chain & Operations (June 1)
+- **International shipment (DHL #4789316906):** Continues high notification frequency; now 11+ updates across 48 hours — indicates either multi-leg delivery or system anomaly; timing spans Asia-Pacific and UTC zones
+- **Domestic deliveries:** UPS package arriving June 2; Logitech keyboard already shipped
+- **Field operations:** Vehicle rental coordination (Hertz/Budget alerts) suggests upcoming field deployment or on-site testing
 
 ---
 
 ## Communication Patterns
 
-### Automated/System Email Volume
-- **DHL notifications:** 10 identical alerts (May 30–31) — suggests single high-volume or sensitive shipment with multiple update triggers
-- **USPS Informed Delivery:** Daily digest routing (May 30)
-- **eBay saved searches:** Active monitoring (Futaba 14SG, Sony A5100) — May 30
-- **Supplier promotional emails:** Speedway Motors, Harbor Freight, KST Servos, Kollmorgen — routed via purchasing alias but low relevance to current procurement
+### Automated/System Email Volume (Dominant)
+- **DHL notifications:** Now 11+ alerts for single shipment #4789316906 (May 30–June 1) — consistent pattern suggesting either:
+  - High-value/complex international procurement with multiple status checkpoints
+  - System-level duplicate notification trigger
+- **UPS tracking:** New domestic shipment notification (delivery expected June 2)
+- **USPS Informed Delivery:** Daily digest (June 1)
+- **Supplier promotional emails:** Aloft Hobbies, Harbor Freight, Budget Rental, Frontier Airlines — all routed via purchasing alias
+- **Marketplace alerts:** AliExpress, eBay saved searches — low relevance promotional volume
+
+### Expense & Account Management
+- **Hertz rental alert:** License/card expiration notice indicates active vehicle rental operations planning (Maciej Stachura account flagged)
+- **Generic invoice notification:** Third-party account (8xxx4W) with masked ID suggests consolidated procurement management system
+- **Amazon shipment:** Logitech K400 Plus (office equipment, non-tactical)
 
 ### Direct Human Correspondence
-- **New external contact:** Air Sea Containers (Chad Zufra) — quote request dialogue
--
+- **None in June 1 batch** — all messages are automated/system notifications routed to purchasing alias
+
+---
+
+## Key Relationships
+
+### Primary Collaborators (High Frequency)
+1. **Jack Elston** — Government programs liaison; primary contact for funding/partner coordination
+2. **Maciej Stachura** — Technical co-lead; operations planning involvement (vehicle rentals monitored via shared alias)
+
+### Supplier Relationships (Active Procurement)
+- **Electronics:** McMaster-Carr (high volume), DigiKey, ServoCity, KST Servos, Blue Bird Model
+- **Fabrication:** SendCutSend, ProtoSpace/ProtoCASE, Rubicon Aerospace
+- **Logistics:** DHL (international), UPS, USPS
+- **Opportunistic

@@ -1,117 +1,111 @@
 # Meredith O'Hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,271 (2,248 previous + 23 new from May 30–31)
-- **Date range:** March 23 – May 31, 2026 (approximately 10 weeks)
+- **Total messages scanned:** 2,283 (2,271 previous + 12 new from June 1)
+- **Date range:** March 23 – June 1, 2026 (approximately 10.5 weeks)
 - **Approximate volume:** 25–40 emails per day (mix of sent, received, and automated)
-- **May 30–31 new data:** 23 messages; **~13% human-initiated (3 direct business messages); ~87% transactional/automated/vendor notifications**
-- **Pattern sustained:** High-volume operational execution with heavy logistics activity; weekend shipping notifications indicate continuous supply chain movement
+- **June 1 new data:** 12 messages; **~17% human-initiated (2 direct business messages); ~83% transactional/automated/vendor notifications**
+- **Pattern sustained:** High-volume operational execution; weekend/early-week activity consistent with continuous supply chain and academic partnership management
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-*(No new direct human messages in this batch; relationships sustained from previous period)*
 
-- **Jack Elston** — Legal/investor coordination, government contracts, strategic operations; **sustained primary decision-maker** (no new messages this batch)
-- **Meredith Needham (self)** — Operational approvals and direct vendor coordination; **continues as approval authority**
+- **Jack Elston** — Legal/investor coordination, government contracts, strategic operations, academic partnerships; **sustained primary decision-maker**
+  - **June 1 activity:** Exchanging with external contacts on MHP data alignment (Tanay Topac, Stanford) and TABA status reporting (Ed Kase, EKase Consulting); **Jack acting as primary external liaison, Meredith receives via CC/forwarding pattern**
 
 ### Top External Contacts
 
-**Legal/Corporate Development — INTENSIFYING CLOSING PHASE**
+**Academic/Research Partnerships — ACTIVE COORDINATION**
 
-- **Akin & Gump Strauss Hauer & Feld LLP (AK&M)** — Sustained engagement (no new messages this batch)
-- **Ko Firm LLP** — Multi-firm legal coordination (no new messages this batch)
+- **Tanay Topac** (tanaytopac@stanford.edu) — **NEW MESSAGE:** June 1 06:49 UTC; "Re: MHP data alignment"; **flagged IMPORTANT; direct to Jack Elston**
+  - **Signal:** Stanford collaboration ongoing; data alignment iteration suggests active project progress or milestone gate
 
-**Finance/Accounting — ACTIVE BOOKKEEPING TRANSITION**
+- **Arthur Berthe-Poirot** (arthur.berthe-poirot@mail.mcgill.ca) — **NEW MESSAGE:** May 31 16:40 UTC; "Infos UAS cold weather conditions"; **routed to info@blackswifttech.com; flagged IMPORTANT**
+  - **Signal:** McGill University contact; UAS cold-weather operational inquiry; **may indicate environmental testing, Canadian operations coordination, or academic partnership on UAV systems**
 
-- **KCOTAX (Mark Kightlinger)**
-  - **Mark Kightlinger** (Mark@kcotax.com) — **NEW ESCALATION:** 1 message in new batch (May 30 13:00 UTC); "Quickbooks Conversion to Accrual Method"; **flagged IMPORTANT; direct to Meredith and Jack Elston**
-  - **Signal:** Accounting method conversion suggests formalization of financial reporting (preparation for investment rounds, acquisition, or regulatory compliance; aligns with CPA review gate activity)
+**Consulting/Strategic Operations**
 
-**Logistics/Shipping — CRITICAL ACTIVE EXECUTION**
+- **Ed Kase / EKase Consulting** (ed.kase@ekaseconsulting.com) — **ACTIVE ENGAGEMENT:** June 1 message from Jack Elston (May 31 19:37 UTC); "Re: TABA status through May"; **flagged IMPORTANT**
+  - **Signal:** Monthly status reporting on TABA (likely technical/operational initiative or project codename); external consultant managing discrete workstream
 
-- **DHL** — **SURGE ACTIVITY:** 10 identical shipment notifications (tracking 4789316906) across May 30–31; **multiple notifications across MYT/UTC timezone suggest possible customs/border processing, international route, or system resubmission cycle**
-  - **Routing to:** purchasing@blackswifttech.com (consolidated mailing list)
-  - **Pattern:** Notifications timestamped May 30 16:42–22:07 UTC, then May 31 03:35–11:02 UTC; **indicates 24-hour tracking cycle or processing gateway updates**
-  - **Signal:** High-value or regulated shipment requiring continuous monitoring (aligns with Canadian battery/aviation component logistics)
+**Logistics/Shipping — SUSTAINED SURGE**
 
-- **Air Sea Containers**
-  - **Chad Zufra** (czufra@airseadg.com) — **ACTIVE QUOTING:** 1 message in new batch (May 30 14:55 UTC); "RE: Air Sea Containers | Request Quote"; **flagged IMPORTANT**
-  - **Signal:** Container/cargo consolidation quote request; **likely related to international freight coordination (Canada/Ottawa shipments or UMES delivery)**
+- **DHL** — **CONTINUED MONITORING:** 1 additional message in new batch (June 1 10:01 UTC); tracking 4789316906 (same shipment as May 30–31)
+  - **Pattern:** Notification on June 1 morning (10:01 UTC) suggests shipment in final processing/delivery phase or customs clearance completion; **3-day notification cycle (May 30–June 1) indicates international routing with processing gates**
 
-- **SendCutSend** — **ACTIVE VENDOR:** 1 message in new batch (May 31 06:05 UTC); "A shipment from SendCutSend is on the way"; **custom parts/fabrication supplier**
-  - **Pattern:** Routed to purchasing@blackswifttech.com
+**Vehicle/Travel Management — NEW OPERATIONAL SIGNAL**
 
-- **McMaster-Carr** — **ACTIVE PROCUREMENT:** 1 message in new batch (May 30 03:16 UTC); "Receipt for Your May 29th Order"; **standard component supplier**
-  - **Pattern:** May 29 order placed; receipt May 30 (standard fulfillment timing)
+- **Hertz** — **NEW OPERATIONAL ALERT:** May 31 13:17 UTC; "Action needed: Maciej, your license + card on file are expired"; **routed to purchasing@blackswifttech.com; flagged CATEGORY_FORUMS**
+  - **Signal:** Rental car account under team member "Maciej"; expired credentials suggest either travel pause or account maintenance needed; **may indicate field operations or site visits**
 
-**Marketing/Industry Monitoring — PASSIVE**
+**Finance/Accounting — INVOICE PROCESSING**
 
-- **MundoGEO Newsletter** — 2 messages in new batch (May 30 06:05 UTC); routed to both info@bst.aero and info@blackswifttech.com; subjects: "Eve Completes Hover & Low-Speed Flights Block" and "A Continent of Precision: How to Meet Europe's Demanding Spatial Data Standards"
-  - **Pattern:** Industry news aggregation; **signals:** Eve (urban air mobility company) flight milestones and European geospatial standards tracking; **may indicate competitive/market monitoring or partnership interest**
+- **No-Reply (Account 8xxx4W)** — **NEW TRANSACTIONAL:** June 1 02:30 UTC; "Invoice Now Available for Account 8xxx4W"; **routed to purchasing@blackswifttech.com**
+  - **Signal:** Automated invoice aggregation; account number suggests consolidated vendor or service provider
 
-**HR/Workplace Management — ROUTINE**
+**Logistics/Shipping (Transactional)**
 
-- **Rippling Support** — 1 message in new batch (May 30 20:42 UTC); "Meredith, how was your recent support experience with Ibrahim B?"; **post-support feedback survey**
+- **UPS** — **ACTIVE PACKAGE:** May 31 14:25 UTC; "Your Package Arrives Tomorrow"; **routed to purchasing@blackswifttech.com**
+- **Amazon.com** — **ACTIVE SHIPMENT:** May 31 12:31 UTC; "Shipped: 4 'Logitech K400 Plus Wireless...'"; **routed to purchasing@blackswifttech.com**
+  - **Signal:** Office/lab equipment procurement (wireless keyboards); bulk order (4 units) suggests team/facility setup
 
-**Marketing/Procurement — PASSIVE MONITORING**
+**USPS** — **PASSIVE MAIL TRACKING:** May 31 13:15 UTC; daily digest; routed to purchasing@blackswifttech.com
 
-- **eBay Product Alerts** — 2 messages in new batch (May 30 06:08 UTC); "futaba 14sg, Receivers & Transmitters" and "sony a5100"; **routed to purchasing@blackswifttech.com**
-  - **Signal:** Saved searches or alerts for radio control components and imaging equipment; **aligns with UAV/drone and sensor payload acquisition patterns**
+**Marketing/Promotional — NOISE**
 
-- **Speedway Motors / Harbor Freight** — Marketing emails (promotional); routed to purchasing@blackswifttech.com (may indicate broad supplier monitoring or distribution list noise)
-
-- **USPS Informed Delivery** — 1 message in new batch (May 30 13:25 UTC); daily digest; **passive mail tracking**
+- **Budget (car rental)** — May 31 10:05 UTC; flash sale promotional; routed to purchasing@blackswifttech.com
+- **Aloft Hobbies** — May 31 15:31 UTC; loyal customer promotion; routed to purchasing@blackswifttech.com
+  - **Signal:** Radio control/hobby supplier; appears to be promotional mailing list (may be vestigial subscription or purchasing account monitoring)
+- **Harbor Freight** — May 31 14:44 UTC; promotional gift offer; routed to purchasing@blackswifttech.com
 
 ---
 
 ## Topic Patterns
 
-**Active Operational Themes (from headers visible across full dataset):**
+**Active Operational Themes (updated):**
 
 1. **International Logistics & Cross-Border Movement**
-   - Canadian shipments (batteries, equipment to Ottawa via Invest Ottawa partnership)
-   - DHL tracking surge (May 30–31) suggests high-priority international shipment in active processing
-   - Air/Sea container quoting (likely consolidation of multiple SKUs)
+   - DHL tracking 4789316906 now in final processing phase (notifications spanning May 30–June 1; **3-day international shipment cycle suggests Canada/North America routing**)
+   - UPS and Amazon active package delivery (domestic logistics)
+   - **Signal:** Layered logistics pipeline (international + domestic) in parallel execution
 
-2. **Financial/Accounting Normalization**
-   - QuickBooks conversion to accrual method (bookkeeping standardization)
-   - CPA review processes ongoing
-   - Suggests preparing financial statements for external stakeholder review
+2. **Academic & Research Partnerships — INTENSIFYING**
+   - **Stanford MHP data alignment** (Tanay Topac, June 1)
+   - **McGill UAS cold-weather conditions inquiry** (Arthur Berthe-Poirot, May 31)
+   - **Signal:** Multi-institutional partnership activity; environmental/operational testing likely underway or planned
 
 3. **Supply Chain Component Procurement**
-   - McMaster-Carr: Standard industrial fasteners/components
-   - SendCutSend: Custom fabrication/laser cutting
-   - eBay monitoring: Futaba radio control systems (UAV/drone remote systems) and Sony A5100 cameras (imaging payloads)
-   - **Signal:** Active assembly/integration phase with specialized components
+   - Office/lab equipment (Logitech wireless keyboards × 4 units; Amazon May 31)
+   - Continued indirect component sourcing via purchased mailing lists (Aloft Hobbies)
 
-4. **Insurance Renewal**
-   - Major medical coverage (Aetna/United quotes pending)
+4. **Consulting & Project Status Reporting**
+   - **TABA status reporting** (Ed Kase, EKase Consulting; May 31)
+   - **Signal:** Monthly or periodic external consultant managing discrete workstream; requires Jack Elston escalation/approval
 
-5. **Academic/Research Partnerships**
-   - Stanford MHP data alignment (Jack Elston managing)
-   - UMES delivery coordination (S3 system shipping)
+5. **Team Operations & Travel**
+   - Hertz rental car account flagged for credential renewal (Maciej team member; May 31)
+   - **Signal:** Active travel or field operations; potential site visits or multisite coordination
 
 ---
 
 ## Communication Patterns
 
-**Weekend Activity (May 30–31 data):**
-- **Transactional dominance:** 87% of messages are automated vendor/shipping notifications
-- **Saturday shipment surge:** DHL notifications concentrated May 30 afternoon/evening (14:42–22:07 UTC) and May 31 early morning (03:35–11:02 UTC)
-- **Minimal human correspondence:** Only 3 human-initiated messages (Mark Kightlinger accounting question; Chad Zufra container quote; Rippling survey feedback)
-- **Pattern:** Indicates continuous operations across weekends; purchasing/logistics team active Saturday; supply chain in motion
+**June 1 Activity (Early Monday Morning):**
+- **06:49 UTC:** Stanford academic follow-up (Tanay Topac → Jack Elston; high-priority research coordination)
+- **10:01 UTC (MYT):** DHL shipment update (continued tracking of 4789316906)
+- **02:30 UTC:** Invoice posting notification (transactional automation)
+- **Pattern:** Early-week research/academic engagement resumes Monday; logistics monitoring continuous across time zones
 
-**Automated/Transactional (87% of this batch):**
-- DHL shipment notifications: 10 messages (single tracking number 4789316906; repeated notifications suggest customs/gateway updates)
-- eBay saved search alerts: 2 messages
-- Vendor receipts/shipping confirmations: 4 messages (SendCutSend, McMaster-Carr, USPS, Speedway/Harbor Freight promotional)
-- Newsletter/industry monitoring: 2 messages (MundoGEO)
-- HR/support feedback: 1 message (Rippling)
+**Weekend Activity (May 31 full day):**
+- **13:15–19:37 UTC:** Concentrated operational messages (USPS digest, Hertz alert, UPS tracking, Harbor Freight promo, TABA status response via Jack)
+- **Dominated by transactional messages** (7 of 10 May 31 messages are marketing/transactional noise routed to purchasing@ mailing list)
+- **Signal:** Team working through weekend; Jack Elston responding to consulting status reports Sunday evening (19:37 UTC)
 
-**Mailing List/Consolidated Routing:**
-- Majority of transactional messages routed to **purchasing@blackswifttech.com** (team consolidation point, not individual to Meredith)
-- Some messages directly to Meredith's personal address (Mark Kightlinger accounting, Rippling feedback)
-- **Signal:** Meredith receives high
+**Mailing List Routing Pattern — EVOLVED:**
+- **Primary consolidation point:** purchasing@blackswifttech.com (10+ automated/vendor messages routed here)
+- **Human-directed messages:** Direct to Jack Elston or info@blackswifttech.com (research inquiries, strategic coordination)
+- **Pattern:** Meredith appears in CC/forwarding chain as approval authority; Jack Elston acts as external-facing decision-maker for academic/consulting partnerships
+- **Implication:** Meredith may not see individual transactional emails; purchasing team

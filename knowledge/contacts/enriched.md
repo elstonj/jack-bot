@@ -1,266 +1,296 @@
 # Enriched External Contacts
 
-# Black Swift Technologies — Enriched Contact Directory
+# Black Swift Technologies — External Contact Directory
 
-## NASA
+## NASA (National Aeronautics and Space Administration)
 
-### Autonomous Flight & SBIR Program Leads
-
-- **John Glass**
+### NASA Headquarters & General Contacts
+- **John Glass** — NASA Contact
   - Email: John.Glass-1@nasa.gov
-  - Role: NASA SBIR Program Manager/Technical Officer
-  - Projects: 2025 NASA SBIR Phase I autonomy (code 301-3), Phase II planning
-  - Interaction: Primary government contracting officer for autonomy SBIR; coordinates Phase II proposal reviews
-  - Contact about: Autonomy flight control architecture, Phase II deliverables, DDS software stack technical decisions
+  - Role: Government liaison
+  - Projects: General NASA contract coordination
 
-- **Thomas A. Weisz**
+- **Thomas A. Weisz** — NASA Contact
   - Email: thomas.a.weisz@nasa.gov
-  - Role: NASA Technical Officer
-  - Projects: SBIR autonomy program
-  - Interaction: Government technical oversight; active in Phase I/II coordination
-  - Contact about: Autonomy technical requirements, flight control architecture
+  - Role: Technical contact
 
-- **Andrew E. Johnson** (JPL)
+- **Matthew M. Fladeland** — NASA Contact
+  - Email: matthew.m.fladeland@nasa.gov
+  - Role: Research scientist / program contact
+  - Topics: Atmospheric research, flight operations
+
+- **Jennifer L. Gustetic** — NASA Contact
+  - Email: jennifer.l.gustetic@nasa.gov
+  - Role: Program manager
+
+### NASA JPL (Jet Propulsion Laboratory)
+- **Andrew E. Johnson** — JPL Technical Lead
   - Email: Andrew.E.Johnson@jpl.nasa.gov
-  - Role: JPL Mars/Rover Autonomy Specialist
-  - Projects: Potential autonomy transfer/collaboration opportunities
-  - Interaction: Technical domain expert for autonomous systems
-  - Contact about: Autonomy algorithm validation, rover/aircraft control system parallels
+  - Role: Autonomy / vision systems expertise
+  - Projects: NASA 2025 Autonomy SBIR (301-3 equivalent)
+  - Context: Advanced autonomy flight control architecture development
 
-- **Tara Estlin** (JPL)
+- **Tara Estlin** — JPL Autonomy Specialist
   - Email: Tara.Estlin@jpl.nasa.gov
-  - Role: JPL Autonomy Lead
-  - Projects: Autonomy knowledge transfer potential
-  - Interaction: Subject matter expert on advanced autonomy systems
-  - Contact about: Flight autonomy technical benchmarking, algorithm validation
+  - Role: Flight autonomy systems
+  - Projects: NASA autonomy initiatives
 
-### Atmospheric & Earth Science Program Officers
+- **Marc Golombek** — JPL Science Lead
+  - Email: mgolombek@jpl.nasa.gov
+  - Role: Planetary/atmospheric science
+  - Topics: Mars rover missions, landing systems
 
-- **Matthew M. Fladelman**
-  - Email: matthew.m.fladelman@nasa.gov
-  - Role: NASA Earth Science Program Officer / Airborne Science Program
-  - Projects: Atmospheric research missions, aircraft platform integration
-  - Interaction: Government sponsor for airborne earth observation missions
-  - Contact about: S0/S3 platform integration for NASA science missions, sensor payload specifications
-
-- **Cynthia X. Zhang**
-  - Email: cynthia.x.zhang@nasa.gov
-  - Role: NASA Atmospheric Science Contact
-  - Projects: Atmospheric measurement campaigns
-  - Interaction: Science mission planning and coordination
-  - Contact about: Atmospheric sensor payload requirements, mission planning
-
-- **Brian A. McGinley**
-  - Email: brian.a.mcginley@nasa.gov
-  - Role: NASA Aviation/Weather Program Contact
-  - Projects: Weather and aviation research
-  - Interaction: Government technical coordination
-  - Contact about: Weather-related missions, aviation safety research
+- **Marco B. Quadrelli** — JPL Systems Engineer
+  - Email: marco.b.quadrelli@jpl.nasa.gov
+  - Role: Technical systems architecture
+  - Topics: Flight control, systems integration
 
 ---
 
 ## NOAA (National Oceanic and Atmospheric Administration)
 
-### Boundary Layer & Atmospheric Research — **PRIMARY RELATIONSHIP**
-
-- **Paul Reasor**
+### NOAA Federal Contacts (Research / Operations)
+- **Paul Reasor** — NOAA Federal / TDR Program
   - Email: paul.reasor@noaa.gov
-  - Role: NOAA Federal Research Lead, Tropical Cyclone/Boundary Layer Research
-  - Projects: 25_1-navy-sttr-boundary-layer (active Phase II, Option period through Sept 2026); CAT (Convective & Atmospheric Turbulence) missions
-  - Interaction: **Primary research collaborator** — coordinates TDR (Thermal Detection Radar?) data analysis, CAT flight planning, S0 platform modifications for tropical cyclone missions; active 30 May 2026 with 4-message coordination thread on flight data
-  - Role in relationship: Government research sponsor + technical collaborator; coordinates 53rd Weather Wing partnership for S0 dropsondes
-  - Recent context: Leading CAT flight analysis (missions 2026-03-26, 2026-04-07, 2026-04-09); finalizing Phase II Option deliverables
-  - Contact about: **Tropical cyclone reconnaissance missions, boundary layer sensor integration, CAT flight scheduling, TDR data processing, Phase II Option reporting**
+  - Role: Tropical Cyclone Data Repository (TDR) lead
+  - Projects: 25_1-navy-sttr-boundary-layer (tropical cyclone missions)
+  - Recent interaction: Flight data coordination for CAT (Convective and Atmospheric Turbulence) validation; RH sensor error resolution (Apr 2026); data format strategy (Apr–May 2026)
+  - Topics: Contact about hurricane/tropical cyclone reconnaissance missions, dropsondes, ocean validation flights
 
-- **Jun Zhang**
+- **Jun Zhang** — NOAA Affiliate / Data Scientist
   - Email: jun.zhang@noaa.gov
-  - Role: NOAA Affiliate Data Analyst, Boundary Layer Research
-  - Projects: 25_1-navy-sttr-boundary-layer; TDR data coordination
-  - Interaction: **Primary technical data analyst** — coordinates TDR/flight data processing; active 30 May 2026 with 3-message technical coordination thread
-  - Role in relationship: Research technical lead for data analysis and QA
-  - Contact about: **Flight data processing, TDR analysis, sensor calibration validation, CAT mission technical support**
+  - Role: Technical data coordination
+  - Projects: Navy STTR boundary layer (25_1-navy-sttr-boundary-layer); CAT flight analysis
+  - Recent interaction: TDR data technical coordination; flight test parameter discussions (May 2026)
+  - Topics: Sensor calibration, data processing, flight validation
 
-- **Chidong Zhang**
+- **Chidong Zhang** — NOAA Contact
   - Email: chidong.zhang@noaa.gov
-  - Role: NOAA S0 VTOL Platform Specialist
-  - Projects: S0 VTOL platform development and demonstrations
-  - Interaction: Marked IMPORTANT 24 May 2026 message regarding "S0™ VTOL Discussion"; part of BST's DoD S0-AD customer engagement (NORAD/SOCOM trilateral, Jun 3 meeting)
-  - Role in relationship: Government platform specialist/technical lead
-  - Contact about: **S0 VTOL modifications for government missions, platform capability demonstrations, mission requirements definition**
+  - Role: VTOL / weather research
+  - Projects: S0™ VTOL system evaluation
+  - Recent interaction: Email flagged IMPORTANT (May 31); S0 VTOL technical discussion
+  - Topics: S0 VTOL capabilities for atmospheric sampling, tropical weather operations
 
-### Weather & Atmospheric Operations
-
-- **Wayne M. Angevine**
+- **Wayne M. Angevine** — NOAA Contact
   - Email: wayne.m.angevine@noaa.gov
-  - Role: NOAA Atmospheric Research Scientist
-  - Projects: Atmospheric measurement campaigns
-  - Interaction: Government research partner
-  - Contact about: Atmospheric science missions, boundary layer research
+  - Role: Atmospheric research scientist
 
-- **Allison McComiskey**
-  - Email: allison.mccomiskey@noaa.gov
-  - Role: NOAA Aerosol/Cloud Research Lead
-  - Projects: Potential aerosol measurement missions
-  - Interaction: Science sponsor
-  - Contact about: Aerosol payload specifications, cloud research missions
-
-- **Logan Poole**
-  - Email: logan.poole@noaa.gov
-  - Role: NOAA Weather Research Specialist
-  - Projects: Weather-related research programs
-  - Interaction: Government program officer
-  - Contact about: Weather mission requirements
-
-- **Dan Kelly**
-  - Email: dan.kelly@noaa.gov
-  - Role: NOAA Operations Contact
-  - Projects: Operational weather missions
-  - Interaction: Government operations coordinator
-  - Contact about: Operational mission planning, deployment logistics
+### NOAA Administrative / Program Contacts
+- **Kirsten Boogard** — NOAA Program Manager (777 PM)
+  - Email: [inferred from Slack]
+  - Role: Grants/funding administration
+  - Projects: NOAA-funded research programs
+  - Context: Funding opportunity tracker (referenced in grants-and-funding channel)
 
 ---
 
-## U.S. Navy (NAWCAD, DEVCOM, SOCOM)
+## U.S. Navy / DoD Contacts
 
-### Magnetometer-Equipped Aircraft (MAD/Navy SBIR) — **ACTIVE PROGRAM**
+### Navy NAWCAD (Naval Air Warfare Center Aircraft Division)
+- **Angel R. Ruiz-Reyes (CIV)** — Navy TPOC / Technical POC
+  - Email: [from Navy NAWCAD domain]
+  - Role: Navy SBIR/STTR Technical Point of Contact (TPOC)
+  - Projects: 25_1-navy-sbir-magnetometer (QuSpin integration); NE27 Site Survey requirements
+  - Recent interaction: Last contact May 29; NE27 Site Survey deadline met (May 29)
+  - Topics: Magnetometer sensor integration specifications; Navy platform requirements; phase reviews and deliverables
 
-- **Angel R. Ruiz-Reyes** (NAWCAD)
-  - Email: angel.r.ruiz-reyes.civ@us.navy.mil
-  - Role: US Navy NAWCAD Magnetometer Project TPOC (Technical Point of Contact)
-  - Projects: 25_1-navy-sbir-magnetometer (Phase I complete, Phase II active, Option period ongoing)
-  - Interaction: **Primary Navy government sponsor** — leads QuSpin magnetometer integration with S0 platform for Magnetic Anomaly Detection (MAD) applications; coordinates Phase II Option period development with emerging Royal Navy engagement (contact "Simon" recently engaged); active flight testing preparation underway
-  - Role in relationship: Government contracting officer and technical lead
-  - Recent context: 29 May 2026 message on MAD/Merlin Mk2 updates; leading flight testing prep for magnetometer integration
-  - Contact about: **Magnetometer sensor integration, S0 aircraft modifications, magnetic shielding specifications, Royal Navy coordination, flight test planning, Phase II Option deliverables**
-
-- **Anthony D. Brescia** (NAWCAD)
+- **Anthony D. Brescia (CIV)** — Navy NAWCAD Requirements Lead
   - Email: anthony.d.brescia.civ@us.navy.mil
-  - Role: US Navy NAWCAD NE27 Site Survey Requirements Lead
-  - Projects: NE27 Site Survey (deadlines approaching; marked IMPORTANT 29 May)
-  - Interaction: Marked IMPORTANT 29 May 2026; leads NE27 site survey requirements definition
-  - Role in relationship: Government requirements officer
-  - Contact about: **NE27 site survey specifications, aircraft modification requirements, mission planning**
+  - Role: Naval platform engineering / requirements
+  - Projects: NE27 Site Survey
+  - Recent interaction: Email flagged IMPORTANT (May 2026); NE27 requirements
+  - Topics: Aircraft modification specs, payload integration constraints, flight test coordination
 
-### Arctic/NORTHCOM Operations — **TRILATERAL COORDINATION (NORAD-USNC-SOCOM)**
-
-- **Patricia A. Vollmer** (NORAD-USNC)
+### NORAD / NORTHCOM (U.S. Northern Command)
+- **Patricia A. Vollmer (CIV)** — NORAD-USNC Program Lead
   - Email: patricia.a.vollmer.civ@mail.mil
-  - Role: NORAD-USNC Arctic Edge 2027 Coordinator
-  - Projects: Arctic Edge 2027 multi-stakeholder operations; S0-AD DoD engagement
-  - Interaction: **Primary NORAD contact** — coordinates trilateral meeting (NORAD/SOCOM/53rd Weather) scheduled **June 3, 2026, 2:30pm MDT** to define S0-AD mission requirements and aircraft modifications; confirmed by Beck Cotter 24 May; 6-message active coordination thread
-  - Role in relationship: Government operations coordinator + contracting officer
-  - Recent context: Major customer engagement visit May 1, 2026 (DoD S0-AD full-day working discussion with 7 customer reps + 2 KrateoSky Business Dev reps); Arctic Edge 2027 proposal finalization
-  - Contact about: **Arctic Edge 2027 operations planning, S0 platform modifications for Arctic mission, NORTHCOM requirements, trilateral coordination (NORAD/SOCOM/53rd Weather)**
+  - Role: Arctic Edge 2027 exercise coordinator / government liaison
+  - Projects: Arctic Edge 2027 (multi-service demonstration)
+  - Recent interaction: Meeting confirmed Jun 3, 2026; proposal coordination ongoing (May 2026)
+  - Topics: Arctic operations, S0 platform demonstration, multi-agency coordination
 
-- **Kevin W. Saunders** (USSOCOM SOCNORTH)
+### USSOCOM (U.S. Special Operations Command)
+- **Kevin W. Saunders (CTR)** — USSOCOM SOCNORTH Technical Lead
   - Email: kevin.w.saunders.ctr@socom.mil
-  - Role: USSOCOM Special Operations Command North Arctic Coordinator
-  - Projects: Arctic Edge 2027 multi-stakeholder operations
-  - Interaction: **SOCOM partner** — coordinates Arctic Edge 2027 with NORAD-USNC and 53rd Weather Squadron; 3-message active coordination thread with Beck Cotter
-  - Role in relationship: Government operations partner
-  - Contact about: **SOCOM Arctic mission requirements, Arctic Edge 2027 coordination, special operations platform needs**
+  - Role: Special operations platform requirements / coordination
+  - Projects: Arctic Edge 2027; S0-AD development
+  - Recent interaction: Multiple proposal responses (May 2026); DoD customer visit coordination (Apr 27, 2026)
+  - Topics: Special operations payload integration, arctic operations, tactical platform requirements
 
-### Air Force (53rd Weather Reconnaissance Squadron) — **ACTIVE CUSTOMER**
+### U.S. Air Force
+- **Lt Col Matthew A. Swee** — Air Force Flight Test Lead
+  - Email: matthew.swee.1@us.af.mil
+  - Role: Air Force platform testing / 53rd Weather Squadron liaison
+  - Projects: S0 platform testing, tropical cyclone missions
+  - Context: Advanced Air Mobility (AAM) / Defense R&D partnerships
 
-- **Sarah Olsen** (USAF 53rd Weather Reconnaissance)
-  - Email: (extracted from Slack context — full email not provided in contact list)
-  - Role: USAF 53rd Weather Reconnaissance S3 VTOL Customer/POC
-  - Projects: S3 VTOL aircraft delivery (September 2026 deadline); 53rd Weather Squadron partnership for S0 dropsondes (CAT flights, Phase II Option)
-  - Interaction: **Active external customer** — receives S3 delivery; part of trilateral NORAD/SOCOM/53rd Weather coordination on S0-AD platform; post-demo analysis (May 29, 2026) for S3 payload integration planning
-  - Role in relationship: Government customer/end-user
-  - Recent context: S3 payload integration planning, urgent workload coordination for Sept 2026 delivery deadline
-  - Contact about: **S3 VTOL delivery specifications, payload integration, flight operations planning, weather reconnaissance mission requirements**
-
----
-
-## International Defense Partners
-
-### UK Ministry of Defence
-
-- **Simon Laurence**
-  - Email: Simon.Laurence157@mod.gov.uk
-  - Role: UK MOD Merlin Mk2 / Magnetometer Program Sponsor
-  - Projects: Merlin Mk2 platform development (derived from S0 design); emerging Royal Navy magnetometer engagement
-  - Interaction: **UK government program sponsor** — leads Merlin Mk2 procurement/integration; recently emerging Royal Navy engagement coordinating with Navy NAWCAD magnetometer program
-  - Role in relationship: Government international partner
-  - Contact about: **Merlin Mk2 specifications, UK MOD requirements, Royal Navy magnetometer integration, international defense procurement**
+- **Sarah Olsen** — 53rd Weather Reconnaissance Squadron
+  - Email: [inferred from S3 channel context]
+  - Role: Weather reconnaissance / VTOL payload integration
+  - Projects: S3 VTOL long-endurance platform evaluation
+  - Recent interaction: Post-demo analysis, September 2026 delivery deadline coordination (May 2026)
+  - Topics: S3 VTOL payload integration, endurance requirements, autonomous weather operations
 
 ---
 
-## External Technology Partners & Subcontractors
+## Academic & Research Partners
 
-### Krateo Sky (M&A Integration) — **CRITICAL ACQUISITION PARTNER**
+### Stanford University
+- **Tanay Topac** — Stanford Research Lead
+  - Email: tanaytopac@stanford.edu
+  - Role: Soil moisture mapping (MHP — Microwave Heating Pluviometer) data science lead
+  - Projects: Soil moisture mapping system; MHP data alignment
+  - Recent interaction: Email flagged IMPORTANT (Jun 1); data alignment iteration with Jack Elston (May 31)
+  - Topics: Contact about MHP/soil moisture research data sharing, algorithm validation, field campaign scheduling
 
-- **Ariel Avitan**
-  - Email: Ariel@krateosky.com
-  - Role: Krateo Commercial Foundations Coordinator
-  - Projects: BST-Krateo commercial integration; S0-AD platform commercialization
-  - Interaction: **IMPORTANT escalation 30 May 2026** — coordinating Commercial Foundations visit with Jack Elston and Maciej; M&A integration in active phase; 2 KrateoSky Business Dev reps present at May 1 DoD S0-AD customer engagement
-  - Role in relationship: Integration partner / commercial development lead
-  - Recent context: Commercial integration planning, customer-facing coordination (DoD engagement May 1)
-  - Contact about: **Commercial platform strategy, S0-AD market positioning, customer engagement support, business development coordination**
-
-- **Bob Smith**
-  - Email: Bob@krateosky.com
-  - Role: Krateo Camera/Payload Integration Lead
-  - Projects: Camera and payload system integration for commercial platforms
-  - Interaction: **Active technical collaborator** — orchestrating camera system integration; sustained coordination on hardware specifications
-  - Role in relationship: Technical integration partner
-  - Contact about: **Payload integration strategies, camera system specifications, commercial platform technical roadmap**
-
-- **Sona Raziabeegum**
-  - Email: sona@krateosky.com
-  - Role: Krateo Operations/Business Development
-  - Projects: Investment memorandum and industrial planning; subcontractor coordination
-  - Interaction: Coordinating bio requests and industrial plan circulation (29 May 2026)
-  - Role in relationship: Operations/business development partner
-  - Contact about: **Business development planning, operational coordination, commercial strategy refinement**
-
-### Atmolab EU (Camera Integration) — **ACTIVE PAYLOAD PARTNER**
-
-- **Jure Dolinar**
-  - Email: jure.dolinar@atmolab.eu
-  - Role: Atmolab Camera System Integration Lead
-  - Projects: Atmolab camera integration onto E2 and S0 platforms; payload development (codes 301-3 related systems)
-  - Interaction: **Technical escalation 29 May 2026** — camera system support and integration troubleshooting; coordinating with Ethan Domagala, Josh Fromm, Daniel Prendergast on Atmolab Camera support for BlackSwift
-  - Role in relationship: Technology partner / payload vendor
-  - Recent context: Active integration work, hardware compatibility assessments
-  - Contact about: **Camera system specifications, integration timelines, payload compatibility, technical support**
-
-### Ultra Maritime (Acoustic Sensor Subcontractor)
-
-- **Paul** (Ultra Maritime contact — full name/email not extracted)
-  - Role: Ultra Maritime Acoustic Sensor Development Lead
-  - Projects: 25_1-navy-sbir-magnetometer Phase II acoustic sensor development (separate from magnetometer platform)
-  - Interaction: Selected as Phase II subcontractor over CRT (January 2026); coordinating acoustic sensor development for platform integration
-  - Role in relationship: Subcontractor / technology partner
-  - Contact about: **Acoustic sensor specifications, Phase II deliverables, sensor integration planning**
-
-### QuSpin Inc. (Magnetometer Sensor Vendor)
-
-- **Jeff** (QuSpin contact — full name/email not extracted)
-  - Role: QuSpin Magnetometer Sensor Technical Lead
-  - Projects: 25_1-navy-sbir-magnetometer; sensor integration and performance validation
-  - Interaction: **Active vendor relationship** — coordinates magnetometer sensor specifications, calibration, and field performance validation
-  - Role in relationship: Technology vendor / sensor supplier
-  - Contact about: **Magnetometer sensor performance, calibration procedures, technical specifications**
+### McGill University
+- **Arthur Berthe-Poirot** — McGill UAS Researcher
+  - Email: arthur.berthe-poirot@mail.mcgill.ca
+  - Role: Cold-weather UAS operations research
+  - Projects: Cold-weather environmental testing / Arctic operations
+  - Recent interaction: Email flagged IMPORTANT (May 31); "Infos UAS cold weather conditions" inquiry; routed to info@blackswifttech.com
+  - Topics: UAS performance in cold/Arctic conditions; potential research partnership; Canadian operations
 
 ---
 
-## Legal & Financial Services (M&A/Corporate)
+## U.S. Government Agencies (Non-Defense)
 
-### Ko Firm LLP (Primary Legal Counsel) — **M&A FINALIZATION ACTIVE**
+### USGS (U.S. Geological Survey)
+- **[General USGS contacts]** — Volcanic monitoring partnerships
+  - Role: Geoscience research
+  - Projects: SBIR volcano monitoring (referenced in sbir-volcano channel)
+  - Topics: Volcanic emission sensors, flight campaign coordination, geological research data
 
-- **Ryan Sykora**
+---
+
+## External Consulting & Program Management
+
+### Ed Kase Consulting
+- **Ed Kase** — Government Programs Consultant
+  - Email: ed.kase@ekaseconsulting.com
+  - Role: External program advisor / TABA project manager
+  - Projects: TABA (classified/internal program code; status reporting ongoing)
+  - Recent interaction: Status report to Beck Cotter, Jack Elston, Maciej Stachura, Daniel Prendergast (May 31, flagged IMPORTANT); Jack replied same day
+  - Topics: Contact for TABA program status, monthly reporting, government coordination
+
+### Ko Firm (Legal Counsel)
+- **Ryan Sykora** — Ko Firm Legal Counsel
   - Email: rsykora@kofirm.com
-  - Role: Ko Firm Legal Counsel (M&A/Corporate)
-  - Projects: BST acquisition/M&A legal documentation; investment finalization
-  - Interaction: **CRITICAL ESCALATION** — 30 May 2026 duplicate sends (IMPORTANT flags, 14:55:39 & 16:42:28 UTC) on "Updates" suggesting resend/urgent legal documentation finalization; coordinating investment finalization with Maciej, Jack Elston
-  - Role in relationship: Legal counsel / M&A advisor
-  - Recent context: Concurrent legal documentation with investment finalization; urgent timeline signals
-  - Contact about: **M&A documentation, investment agreements, legal compliance, corporate structure**
+  - Role: M&A and corporate legal counsel
+  - Projects: BST legal/investment finalization
+  - Recent interaction: "Updates" email response from Jack (May 31); ongoing M&A integration
+  - Topics: Legal documentation, investment finalization, corporate structure
 
-- **Nadia Bryan**
+- **Nadia Bryan** — Ko Firm Counsel
   - Email: nbryan@kofirm.com
-  - Role: Ko Firm Legal Counsel (Employment/Investment)
-  
+  - Role: Investment / corporate counsel
+  - Projects: BST investment finalization
+  - Recent interaction: Investment urgency signals (May 2026)
+  - Topics: Investment documentation, legal compliance
+
+---
+
+## Technology & Sensor Partners
+
+### Camera & Payload Integration
+- **Jure Dolinar** — Atmolab (Camera System Partner)
+  - Email: [inferred from internal email patterns]
+  - Role: Camera system technical support / integration
+  - Projects: Atmolab camera integration for atmospheric sampling
+  - Recent interaction: Ongoing integration with Ethan Domagala, Daniel Prendergast, Joshua Fromm (May 2026)
+  - Topics: Camera payload specifications, firmware compatibility, integration testing
+
+- **Krateo Sky / Arthur (camera partner)** — Aerial Imaging Integration
+  - Email: [contact names: Ariel Avitan, Bob Smith, Sona Raziabeegum]
+  - Role: Camera/integration partner for payloads
+  - Projects: Multi-project camera integration
+  - Recent interaction: Ongoing coordination (May 2026)
+  - Topics: Imaging payload specs, system integration
+
+### Sensor Hardware
+- **QuSpin** — Magnetometer Sensor Provider
+  - Contact: Jeff (referenced in Navy SBIR magnetometer channel)
+  - Role: Quantum magnetometer sensor supplier
+  - Projects: 25_1-navy-sbir-magnetometer
+  - Topics: QuSpin magnetometer specs, integration requirements, Phase II development
+
+- **Bryan Sparling** — ByLight (Sensor/Platform Vendor)
+  - Email: [inferred from by-lite-mustang channel]
+  - Role: Aircraft platform supplier / technical vendor
+  - Projects: By Light Mustang / Chilli airframe development
+  - Recent interaction: Ongoing flight testing coordination, invoice/payment management (May 2026)
+  - Topics: Aircraft platform specs, component sourcing, flight test scheduling
+
+---
+
+## Corporate Partners & Subcontractors
+
+### NanoVeu (Technical Partnership)
+- **Mark Goranson, Scott Smyser, Tom Wilp, Mohamed Sabry, Nikhila Ravikumar, Sergio Ruocco** — NanoVeu Technical Team
+  - Role: BST-EMASS Project collaboration partners
+  - Projects: BST-EMASS Project (hardware/firmware integration)
+  - Recent interaction: Project initial scope closeout (May 31); technical team coordination
+  - Topics: Project closeout documentation, technical deliverables
+
+### eMASS AI (ML Flight Control Partner)
+- **Mark / CEO** — eMASS AI Leadership
+  - Role: AI chip / machine learning flight controller developer
+  - Projects: EMASS AI integration onto E2 platform (#emass-bst)
+  - Context: Flight test phase (Apr–May 2026); media release planned early May; project viability assessment as of May 26
+  - Topics: AI model training, flight controller interface, integration milestones
+
+- **Nikhila** — eMASS AI Primary Developer
+  - Role: ECSDoT hardware integration, AI model implementation
+  - Projects: EMASS integration
+  - Recent interaction: Active collaborative development (May 2026)
+  - Topics: Hardware/firmware bring-up, flight test protocol, velocity command testing
+
+---
+
+## Logistics & Operations Contacts
+
+### Vehicle Rental
+- **Hertz** — Rental Car Service
+  - Contact: Maciej Stachura (account holder)
+  - Recent interaction: License/card renewal alert (May 31); routed to purchasing@blackswifttech.com
+  - Topics: Field operations vehicle coordination, travel planning
+
+---
+
+## Summary by Project Code / Initiative
+
+| **Project / Initiative** | **Primary External Contact** | **Secondary Contacts** |
+|---|---|---|
+| **Navy SBIR Magnetometer (25_1)** | Angel R. Ruiz-Reyes (Navy NAWCAD) | QuSpin (Jeff); Ultra Maritime (Paul) |
+| **Navy STTR Boundary Layer (25_1)** | Paul Reasor (NOAA); Jun Zhang (NOAA) | 53rd Weather Squadron (Sarah Olsen) |
+| **Arctic Edge 2027** | Patricia A. Vollmer (NORAD-USNC) | Kevin W. Saunders (USSOCOM); Anthony D. Brescia (Navy) |
+| **NASA Autonomy SBIR** | Andrew E. Johnson (JPL) | Tara Estlin (JPL); Marco B. Quadrelli (JPL) |
+| **S0 VTOL Development** | Chidong Zhang (NOAA) | Sarah Olsen (USAF); Bryan Sparling (ByLight) |
+| **S3 VTOL Development** | Sarah Olsen (USAF 53rd WRS) | Bryan Sparling (ByLight) |
+| **Soil Moisture Mapping (MHP)** | Tanay Topac (Stanford) | [Commercial/research partnership] |
+| **SBIR Hurricane** | [NOAA / Air Force collaboration] | Paul Reasor (NOAA TDR) |
+| **EMASS AI Integration** | Nikhila (eMASS AI) | Mark Goranson (NanoVeu); Mohamed Sabry (eMASS) |
+| **Program Management (TABA)** | Ed Kase (EKase Consulting) | [Classified program] |
+| **Legal / Investment** | Ryan Sykora (Ko Firm) | Nadia Bryan (Ko Firm) |
+
+---
+
+## Contact Priority Matrix
+
+**Immediate / Active (Regular Contact Expected)**
+- Angel R. Ruiz-Reyes (Navy NAWCAD) — Navy SBIR TPOC
+- Paul Reasor (NOAA) — TDR program lead
+- Patricia A. Vollmer (NORAD-USNC) — Arctic Edge coordination
+- Tanay Topac (Stanford) — MHP data science
+- Ed Kase (EKase Consulting) — Monthly program status
+
+**Secondary (Quarterly / Milestone-Based)**
+- Andrew E. Johnson (JPL) — NASA autonomy collaboration
+- Kevin W. Saunders (USSOCOM) — Multi-agency Arctic planning
+- Chidong Zhang (NOAA) — S0 VTOL evaluation
+- Bryan Sparling (ByLight) — Aircraft platform development
+
+**Tertiary (As-Needed / Ad Hoc)**
+- McGill University contacts — Cold-weather research partnerships
+- QuSpin / sensor vendors — Component specifications
+- Ko Firm legal — Corporate documentation

@@ -1,8 +1,8 @@
 # Commercial Sales — Pipeline Index
 
-_Last scanned 2026-05-31 03:08_
+_Last scanned 2026-06-01 03:09_
 
-## Builds (22)
+## Builds (19)
 
 | Customer | Receive By | Payment | Build | Ship | Asana |
 |----------|------------|---------|-------|------|-------|
@@ -17,11 +17,8 @@ _Last scanned 2026-05-31 03:08_
 | NOAA | 2028-05-01 | estimate_sent | none | none | `1213688340764301` |
 | NextTech Solutions | 2026-08-31 | estimate_sent | none | none | `1213710771915193` |
 | Canadian Defense Forces / NexTech Solutions | 2026-06-25 | estimate_sent | none | none | `1214795652219550` |
-| USAF / Ultra PCS | — | none | none | none | `1210813239774018` |
 | UC Santa Cruz Ocean Sciences | — | estimate_sent | none | none | `1210367257543500` |
-| NASA ULI/Cal State Northridge | — | estimate_sent | none | none | `1211824849633496` |
 | Michigan Technological University | — | estimate_sent | none | none | `1210812587995014` |
-| Murray State University | 2025-10-31 | paid | none | none | `1210051293340204` |
 | NASA Ames Research Center | 2026-09-30 | paid | in_assembly | none | `1210367258005710` |
 | USAF 18th Combat Weather Squadron | 2026-05-01 | estimate_sent | none | none | `1210802645477201` |
 | University of Colorado | 2026-08-31 | estimate_sent | none | none | `1208185314692566` |

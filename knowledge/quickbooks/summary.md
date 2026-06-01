@@ -1,5 +1,5 @@
 # BST Financial Overview (QuickBooks)
-**Period: May 30 – May 31, 2026 | Data Range: April 2024 – September 2026**
+**Report Period:** May 31 – June 1, 2026
 
 ---
 
@@ -7,63 +7,54 @@
 
 | Metric | Amount |
 |--------|--------|
-| **Total Revenue (Invoices)** | $4,405,611.64 |
-| **Total Expenses (Bills + Purchases)** | $2,402,426.77 |
-| **Total Purchase Orders (Outstanding)** | $2,532.00 |
-| **Net Income Estimate** | $2,003,184.87 |
+| **Total Revenue** (Invoices) | $4,405,611.64 |
+| **Total Expenses** (Bills/Purchases) | $2,402,426.77 |
+| **Net Income** | $2,003,184.87 |
+| **Outstanding Purchase Orders** | $2,532.00 |
+
+**Note:** The P&L snapshot (May 31–Jun 1) shows only IRAD expenses ($10,773.62), but full project data reveals substantially larger revenue and expense activity across the review period.
 
 ---
 
 ## By Project/Class
 
-### 1. **Government** (Primary Revenue Driver)
-- **Total Revenue:** $4,387,717.28
-- **Total Expenses:** $1,330,748.71
-- **Net Position:** +$3,056,968.57
-- **Outstanding AR:** $3,120,198.19
-- **Active Invoices:** 75
-- **Status:** Strong profitability; significant outstanding receivables
+| Project | Revenue | Expenses | Net Position |
+|---------|---------|----------|--------------|
+| **Government** | $4,387,717.28 | $1,330,748.71 | **$3,056,968.57** |
+| **BST Internal** | $17,894.36 | $1,071,678.06 | **-$1,053,783.70** |
 
-### 2. **BST Internal** (Operations/Infrastructure)
-- **Total Revenue:** $17,894.36
-- **Total Expenses:** $1,071,678.06
-- **Net Position:** -$1,053,783.70
-- **Outstanding POs:** $1,700.00
-- **Transactions:** 1,144+
-- **Status:** Cost center; expenses far exceed internal revenue
+**Key Insight:** Government contracts are highly profitable. BST Internal operations are running at a significant loss, suggesting internal R&D or administrative costs exceed any internal revenue generation.
 
 ---
 
 ## Cash Flow Indicators
 
 ### Accounts Receivable (Outstanding)
-- **Government Project AR:** $3,120,198.19 (71% of total revenue)
-- **Total Outstanding Invoices:** 75+ invoices
-- **Implication:** Strong revenue base, but significant cash collection timing gap
+- **Government invoices outstanding:** $3,120,198.19 remaining across 75 active invoices
+- **BST Internal outstanding:** (data incomplete—review required)
+- **Total AR:** ~$3.1M+ (collection pending)
 
-### Outstanding Purchase Obligations
+### Recent Large Expenses
+- **IRAD-Indirect Subcontractor Exp:** $10,773.62 (most recent, June period)
+- BST Internal expenses dominate: $1,071,678.06 total
+
+### Purchase Orders Outstanding
 - **Government:** $832.00
-- **BST Internal:** $1,700.00 (PO #1038 – Amprius)
+- **BST Internal:** $1,700.00 (Amprius PO #1038)
 - **Total:** $2,532.00
 
 ---
 
 ## Data Limitations
 
-⚠️ **The QuickBooks export is incomplete.** The following sections could not be populated due to missing detail:
+The provided QuickBooks export is **incomplete**:
+- Top Vendors and Top Customers tables cut off
+- BST Internal invoice details truncated
+- Full P&L context missing (report covers only 2-day snapshot)
 
-- **Top Vendors** (vendor names/amounts not provided)
-- **Top Customers** (customer details not listed)
-- **Recent Large Expenses** (transaction-level detail absent)
-- **Unclassified Transactions** (breakdown unavailable)
+**Recommendation:** Export full-period P&L, Vendor Summary, and Customer Summary reports for complete financial analysis.
 
 ---
 
-## Key Observations
-
-1. **Government contracts** generate 99.6% of company revenue and drive profitability.
-2. **BST Internal** operates as a cost center, accumulating $1.07M in expenses against minimal internal revenue.
-3. **AR concentration risk:** 71% of outstanding receivables tied to Government project; monitor collection timing.
-4. **Overall position:** Company is profitable (~$2M net) but dependent on Government project cash conversion.
-
-**Recommendation:** Obtain detailed vendor/customer ledgers and expense detail for complete financial analysis.
+## Unclassified Transactions
+All transactions are classified to either **Government** or **BST Internal** projects. No unclassified activity detected.

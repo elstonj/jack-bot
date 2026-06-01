@@ -22,18 +22,19 @@
 - **Deliver Twelve Field-Ready S0 UAS** — Due: 2024-07-31 | **Completed: 2024-07-29** (2 days early)
 - **Delivery of Two MHTP for use on Altius 600** — Due: 2024-04-30 | **Completed: 2024-08-17**
 - **Conduct 2x Hurricane Field Study** — Due: 2024-11-30 | **Completed: 2024-08-17**
+- **Make 1 Display S0 — Ship to NHC** — Due: 2024-07-10 | **Completed: 2024-07-24** (Meredith O'hara Needham) — Shipped to Mike Brennan, 11691 SW 17th Street, Miami FL 33165
 
 ---
 
 ## Task Summary
 - **Total tasks**: 425+ completed, 0 open (100% completion rate)
 - **Primary assignees**:
-  - **Jack Elston**: Led most technical flight operations, flight control algorithm troubleshooting, GCS/HDOB integration, wind estimation fixes, sensor QC, magnetometer calibration, MHTP development and hardware verification, avionics, tablet configuration
-  - **Josh Fromm**: Project management, QC/final assembly coordination, weekly status updates, manufacturing coordination, housing installation, sealing, MHTP mechanical assembly, deployment tube and adhesive promoter investigations, GCS configuration (completed final "New GCS" task on 2024-01-31), **Construct MHTP modules** (completed 2024-08-17)
-  - **Dan Prendergast**: Flight algorithm testing and validation, eyewall following algorithm development (completed 2024-02-27), center fix algorithm (completed 2024-06-05)
+  - **Jack Elston**: Led most technical flight operations, flight control algorithm troubleshooting, GCS/HDOB integration, wind estimation fixes, sensor QC, magnetometer calibration, MHTP development and hardware verification, avionics, tablet configuration, AVO list validation
+  - **Josh Fromm**: Project management, QC/final assembly coordination, weekly status updates, manufacturing coordination, housing installation, sealing, MHTP mechanical assembly, deployment tube and adhesive promoter investigations, GCS configuration
+  - **Dan Prendergast**: Flight algorithm testing and validation, eyewall following algorithm development, center fix algorithm
   - **Maciej Stachura**: Flight control algorithms, vertical wind bias correction, pitot tube diagnostics, code updates with wind tunnel calibrations and real-time wind estimation, MHTP firmware development and testing
   - **Ben Busby**: Flight operations, preflight checklist procedures, path planning optimization
-  - **Meredith O'hara Needham**: Manufacturing (MHTP modules), shipping coordination, sensor management
+  - **Meredith O'hara Needham**: Manufacturing (MHTP modules), shipping coordination, sensor management, display unit shipment to NHC
   - **Nate Straus**: Manufacturing, packing/shipping logistics
 
 - **Notable patterns**: 
@@ -48,13 +49,16 @@
 ## Recent Activity
 **Project Status**: Archived January 3, 2024. All work completed successfully.
 
-**Final Phase Tasks Completed (January 2024)**:
+**Final Phase Tasks Completed (January 2024 – August 2024)**:
 - **New GCS (no VGA connector)** (Josh Fromm, Due: 2024-01-26, Completed: 2024-01-31) — Finalized ground control station configuration without VGA connector requirement
 - **Avionics** (Jack Elston, completed 2024-01-30)
 - **Deployment Tube** (Josh Fromm, completed 2024-01-17)
-- **Tablet** (Jack Elston, completed 2024-07-16) — Minimum Viable configuration
+- **Tablet** (Jack Elston, Due: no due date, Completed: 2024-07-16) — Minimum Viable configuration
 - **Construct parachute modules** (Unassigned, completed 2024-02-15)
 - **Construct MHTP modules** (Josh Fromm, completed 2024-08-17) — Final module assembly completed
+- **Auto check values on AVO list except "engine enable"** (Jack Elston, Due: 2024-05-31, Completed: 2024-06-14) — Minimum Viable task
+- **Add algorithm for center fix** (Dan Prendergast, Due: 2024-05-31, Completed: 2024-06-05) — Minimum Viable task
+- **Make 1 display S0's - ship to NHC** (Meredith O'hara Needham, Due: 2024-07-10, Completed: 2024-07-24) — Shipped to NHC contact Mike Brennan in Miami
 
 **MHTP & Algorithm Deliverables (2023-2024)**:
 - **Eyewall Following Algorithm** (Dan Prendergast, Due: 2024-02-16, Completed: 2024-02-27) — Two primary modules explored: "eyewall" and "inflow" modules, with UAS launched in hurricane eye and directed toward eyewall for evaluation
@@ -79,7 +83,8 @@
 **Project Type**: SBIR Phase II Government Research Contract
 
 **Products Delivered**: 
-- S0 UAS systems (12 units delivered)
+- S0 UAS systems (12 units delivered to NOAA AOC)
+- Display S0 unit (shipped to National Hurricane Center, Miami)
 - Custom MHTP (hurricane research payload) for Altius 600 platform
 - Scientist-facing web-based GUI for data review
 - Eyewall following and center fix algorithm modules for autonomous hurricane reconnaissance
@@ -87,22 +92,4 @@
 - Ground Control Station (GCS) without VGA connector requirement
 
 **Technical Focus**: Hurricane data collection and reconnaissance using specialized UAS with:
-- Wind measurement capabilities (HDOB integration)
-- Vertical wind estimation algorithms
-- Autonomous mission planning for tropical cyclone research including eyewall following and center fix
-- Real-time data transmission and GCS integration
-- RS421 sensor interface for robust data transmission in harsh conditions
-- Dynamic pressure measurement with raw sensor data logging for clog mitigation in precipitation
-
-**Key Technical Achievements**:
-- Successful HDOB integration with GCS and Area-I computer
-- Wind estimation algorithm refinement including real-time capability and vertical wind bias correction
-- Eyewall following and center fix algorithm development for autonomous reconnaissance in hurricane eye
-- Robust flight termination logic and failsafe procedures
-- Multi-system coordination (S0 UAS with P3 aircraft altitude separation protocols)
-- Deployment tube and adhesive promoter solutions for payload integration
-- MHTP board development with:
-  - Magnetometer calibration procedure (over UART)
-  - Dynamic pressure testing capability for clog detection
-  - Firmware updates with correct sensor orientation defaults
-  
+-

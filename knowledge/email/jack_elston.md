@@ -1,14 +1,14 @@
 # Jack Elston — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 3,377 (3,349 prior + 28 May 30–31)
-- **Date range:** April 1–May 31, 2026
+- **Total messages scanned:** 3,396 (3,377 prior + 19 June 1)
+- **Date range:** April 1–June 1, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **May 30–31 activity:** 28 new messages. **~75% automated/vendor traffic** (DHL shipment notifications [11 duplicate entries], purchasing alerts, HR/finance processing). **~25% human messages** concentrated in:
-  - Krateo M&A coordination (Commercial Foundations visit)
-  - Legal/financial documentation (Ko Firm updates, tax accounting, benefits processing)
-  - External academic/industry contacts (Colorado EAB renewal, search engine marketing inquiry)
-  - Procurement coordination (Air Sea Containers, SendCutSend, eBay equipment alerts)
+- **June 1 activity:** 19 new messages. **~68% automated/vendor traffic** (DHL [duplicate], UPS, Amazon, USPS, Hertz, Budget, Harbor Freight, Aloft Hobbies, Toggl Track). **~32% human messages** concentrated in:
+  - Academic/research partnerships (Stanford MHP data alignment, McGill cold weather UAS inquiry)
+  - Government program status (TABA consulting coordination via Ed Kase)
+  - Internal M&A/legal coordination (Ko Firm updates)
+  - NSF SBIR/STTR funding opportunity
 
 ---
 
@@ -17,23 +17,24 @@
 ### Top Internal BST Contacts
 
 **Beck Cotter** (beck.cotter@blackswifttech.com) — Operations lead, government coordination
+- **June 1 activity:** Copied on NSF SBIR/STTR Solicitation forward (Jack routed this to Beck)
 - **Ongoing:** NORAD/NORTHCOM/USSOCOM trilateral meeting Jun 3, 2026; Arctic Edge 2027 operations; S0™ VTOL coordination
-- **Pattern:** Remains primary government operations interface.
+- **Pattern:** Primary government operations interface; funding opportunity routing.
 
 **Maciej Stachura** (stachura@blackswifttech.com) — Operations, technical partnerships
-- **May 30 activity:** Copied on Krateo Commercial Foundations coordination (Ariel Avitan)
-- **Pattern:** Continued M&A integration and government liaison role.
+- **June 1 activity:** Copied on TABA status report (Ed Kase); Hertz rental renewal notification routed to purchasing
+- **Pattern:** M&A integration, government liaison, and vehicle/logistics coordination.
 
 **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical partnerships, government liaison
-- **Pattern:** Continues Arctic and maritime program involvement.
+- **June 1 escalation:**
+  - **BST-EMASS Project Initial Scope Closeout** (May 31 21:18:04 UTC, IMPORTANT) — Sent to NanoVEU leadership (Mark Goranson, Scott Smyser, Tom Wilp, Mohamed Sabry, Nikhila Ravikumar, Sergio Ruocco); project completion/documentation closure coordination
+- **Pattern:** Technical program closeout and NanoVEU partnership management.
 
 **Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, vendor management
-- **May 30 activity:** Tax accounting coordination (Mark Kightlinger, KCO Tax) on Quickbooks accrual method conversion
-- **Pattern:** Finance/compliance/M&A integration work ongoing.
+- **Pattern:** Finance/compliance/M&A integration (ongoing from prior period).
 
 **Karen Young** (karen.young@blackswifttech.com) — HR/Benefits
-- **May 30 activity:** Copied on Elevate Inc. contribution invoice (benefits/retirement platform)
-- **Pattern:** HR/benefits administration.
+- **Pattern:** HR/benefits administration (ongoing from prior period).
 
 ---
 
@@ -42,75 +43,75 @@
 #### **Legal & Financial (M&A / Corporate)**
 
 **Ryan Sykora** (rsykora@kofirm.com) — Ko Firm, Legal Counsel
-- **May 30 activity (DUPLICATE SENDS):**
-  - **RE: Updates** (May 30 16:42:28 & 14:55:39 UTC, IMPORTANT) — Two identical subject sends within ~2 hours; suggests urgent/resend pattern on M&A documentation
-- **Pattern:** M&A integration and legal documentation finalization.
+- **June 1 activity:**
+  - **Re: Updates** (May 31 08:24:24 UTC, SENT) — Jack's response to Ko Firm; M&A documentation/legal finalization ongoing
+- **Pattern:** M&A integration and legal documentation.
 
-**Mark Kightlinger** (Mark@kcotax.com) — KCO Tax, CPA
-- **May 30 escalation:**
-  - **Quickbooks Conversion to Accrual Method** (May 30 13:00:54 UTC, IMPORTANT) — Post-acquisition accounting methodology change; copied Meredith Needham
-- **Pattern:** Financial/accounting coordination for M&A integration.
+#### **Government Programs & Consulting**
 
-#### **M&A Integration (Krateo)**
+**Ed Kase** (ed.kase@ekaseconsulting.com) — Ed Kase Consulting
+- **June 1 escalation (NEW):**
+  - **TABA status through May** (May 31 15:11:23 UTC, IMPORTANT) — Status report to Beck Cotter, Jack Elston, Maciej Stachura, Daniel Prendergast; **TABA = [Unknown acronym; likely Defense/Government program code]**
+  - Jack replied (May 31 19:37:05 UTC, SENT): "Re: TABA status through May"
+- **Pattern:** External government program consultant; quarterly/monthly status reporting to leadership; active program coordination through May/June.
 
-**Ariel Avitan** (Ariel@krateosky.com) — Krateo, Commercial Foundations
-- **May 30 escalation:**
-  - **Re: Commercial Foundations visit** (May 30 14:01:49 UTC, IMPORTANT) — Active Krateo coordination with BST leadership (Jack, Maciej); likely vendor/partnership/commercial strategy meeting
-- **Pattern:** Post-M&A integration coordination; external stakeholder engagement.
+#### **Academic & Research Partnerships (NEW/EXPANDED)**
 
-**Adria Passola** (a@krateosky.com) — Krateo
-- **May 30:** Copied on Commercial Foundations visit coordination
-- **Pattern:** Krateo operational contact.
+**Tanay Topac** (tanaytopac@stanford.edu) — Stanford University
+- **June 1 escalation (NEW):**
+  - **Re: MHP data alignment** (Jun 1 06:49:27 UTC, UNREAD, IMPORTANT) — Research/technical coordination on MHP (Multi-Hazard Prediction? Maritime Hazard Prediction?); flagged IMPORTANT
+- **Pattern:** Academic research partnership; data integration/alignment work.
+
+**Arthur Berthe-Poirot** (arthur.berthe-poirot@mail.mcgill.ca) — McGill University
+- **June 1 escalation (NEW):**
+  - **Infos UAS cold weather conditions** (May 31 16:40:30 UTC, UNREAD, IMPORTANT) — Sent to info@blackswifttech.com; research inquiry on UAS cold weather operations; directly relevant to S0™ VTOL Arctic Edge 2027 program
+- **Pattern:** Academic research contact on UAS cold-weather performance (Canadian research institution).
+
+**Hanspeter Schaub** (hanspeter.schaub@colorado.edu) — University of Colorado, EAB
+- **Pattern:** Academic advisory board engagement (ongoing from prior period).
+
+**John Shaw** (johnshaw@cislune.space) — CisLune Space / External advisor
+- **Pattern:** External advisory board coordination (ongoing from prior period).
+
+**Lauren Cole** (lauren.cole@colorado.edu) — University of Colorado
+- **Pattern:** CU Boulder academic contact (ongoing from prior period).
 
 #### **Government / Defense Programs (ARCTIC EDGE 2027)**
 
 **Patricia A. Vollmer, CIV NORAD-USNC JOC** (patricia.a.vollmer.civ@mail.mil) — NORAD
-- **Status:** Jun 3, 2026 trilateral meeting scheduled (2:30pm–3:15pm MDT)
-- **Pattern:** Arctic Edge 2027 operational coordination; S0™ VTOL proposal evaluation.
+- **Status:** Jun 3, 2026 trilateral meeting scheduled
+- **Pattern:** Arctic Edge 2027 operational coordination (ongoing from prior period).
 
-**Kevin W. Saunders, CTR USSOCOM SOCNORTH** (kevin.w.saunders.ctr@socom.mil) — USSOCOM Special Operations Command North
-- **Status:** Attending Jun 3 NORAD/NORTHCOM/USSOCOM meeting
-- **Pattern:** Special operations Arctic operations perspective on S0™ VTOL.
+**Kevin W. Saunders, CTR USSOCOM SOCNORTH** (kevin.w.saunders.ctr@socom.mil) — USSOCOM
+- **Pattern:** Special operations Arctic operations (ongoing from prior period).
 
-#### **Academic / Industry Partnership (NEW)**
+#### **NanoVEU Partnership (PROJECT CLOSEOUT)**
 
-**Hanspeter Schaub** (hanspeter.schaub@colorado.edu) — University of Colorado, EAB (External Advisory Board)
-- **May 30 activity:**
-  - **Re: Request to Renew Term on EAB** (May 30 21:58:32 UTC, IMPORTANT) — EAB renewal discussion; forwarded to John Shaw
-- **Pattern:** Academic advisory board engagement (CU Boulder aerospace/autonomous systems context).
+**Mark Goranson** (Mark@nanoveu.com) — NanoVEU
+**Scott Smyser** (Scott@nanoveu.com) — NanoVEU
+**Tom Wilp** (tom.wilp@nanoveu.com) — NanoVEU
+**Mohamed Sabry** (msabry@nanoveu.com) — NanoVEU
+**Nikhila Ravikumar** (Nikhila@nanoveu.com) — NanoVEU
+**Sergio Ruocco** (sergio@nanoveu.com) — NanoVEU
 
-**John Shaw** (johnshaw@cislune.space) — CisLune Space (or external advisor)
-- **May 30 activity:**
-  - **Re: Request to Renew Term on EAB** (May 30 19:19:50 UTC, IMPORTANT) — Coordinating EAB renewal with Hanspeter Schaub and Lauren Cole (CU Boulder); copied Shaw.usafa90@gmail.com (USAFA alumni address)
-- **Pattern:** External advisory board coordination; aerospace/space industry context.
+- **June 1 activity:** Daniel Prendergast sent **BST-EMASS Project Initial Scope Closeout** (IMPORTANT) to full NanoVEU leadership team
+- **Pattern:** Technical partnership project nearing completion; formal scope closeout documentation/communication with external partner leadership.
 
-**Lauren Cole** (lauren.cole@colorado.edu) — University of Colorado
-- **May 30:** Copied on EAB renewal coordination
-- **Pattern:** CU Boulder academic contact (likely aerospace/engineering).
-
-#### **Procurement / Vendor Management**
-
-**Chad Zufra** (czufra@airseadg.com) — Air Sea Containers
-- **May 30 activity:**
-  - **RE: Air Sea Containers | Request Quote** (May 30 14:55:39 UTC, CATEGORY_UPDATES) — Container/logistics procurement; routed through purchasing@blackswifttech.com
-- **Pattern:** Shipping/logistics vendor (possible equipment transport for programs).
-
-**Christina Lockwood** (christinalockwood.g@searchengineready.com) — Search Engine Ready (Marketing)
-- **May 30 activity:**
-  - **Michael, for Black Swift Technologies** (May 30 15:25:55 UTC, IMPORTANT) — **[Subject ambiguous: possible marketing pitch or inquiry directed to "Michael" at jack.elston@bst.aero email alias]** — Flagged IMPORTANT despite vendor context; suggests outreach or business development inquiry
-- **Pattern:** External marketing/business development contact (possible SEO/media services pitch).
-
-#### **Automated / Vendor Notifications (75% of May 30–31 volume)**
-- **DHL Shipment Notification (4789316906):** 11 duplicate notifications May 30–31 (MYT timezone, Malaysia-related origin) — **ANOMALY: Unusual volume of identical tracking notifications suggests either shipment stuck in transit, system error, or test/spam pattern**
-- **SendCutSend, eBay, Harbor Freight, Speedway Motors, USPS Informed Delivery:** Standard e-commerce/retail vendor notifications
-- **McMaster-Carr, Speedway Motors:** Industrial parts procurement
-- **Human Interest, Elevate Inc., no-reply@elevate.inc:** HR/retirement benefits processing
+#### **Automated / Vendor Notifications (68% of June 1 volume)**
+- **DHL Shipment Notification (4789316906):** Continuing from May 30–31 anomaly (MYT timezone)
+- **UPS, Amazon, USPS, Hertz, Budget Airlines, Harbor Freight, Aloft Hobbies:** Standard shipping/retail/vehicle management notifications
+- **Toggl Track:** Time-tracking software notification (no subject; likely usage/billing alert)
 
 ---
 
 ## Topic Patterns
 
 ### Active Projects / Programs
-- **Arctic Edge 2027 (AE27):** Government trilateral (NORAD/NORTHCOM/USSOCOM) formal meeting scheduled Jun 3; S0™ VTOL weather data collection proposal active
-- **S0™ VTOL UAS:** Ongoing technical coordination with government agencies (Navy NAWCAD, NOAA Federal) on maritime/weather capability alignment
-- **Krateo M&A Integration:** Post-acquisition Commercial Foundations strategy/partnership visit scheduled; financial/accounting methodology conversion (
+
+**Arctic Edge 2027 (AE27) — CONFIRMED ACTIVE**
+- Government trilateral (NORAD/NORTHCOM/USSOCOM) formal meeting **Jun 3, 2026 (2:30–3:15pm MDT)**
+- S0™ VTOL weather data collection proposal active
+- **NEW: McGill University (Arthur Berthe-Poirot)** research inquiry on UAS cold-weather performance suggests technical validation/research support for program
+
+**S0™ VTOL UAS — CONFIRMED ACTIVE**
+- Ongoing technical coordination with government agencies (Navy NAWCAD, NOAA Federal)
