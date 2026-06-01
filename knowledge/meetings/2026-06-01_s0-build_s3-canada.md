@@ -5,9 +5,11 @@
 | **Date** | 2026-06-01 |
 | **Source** | Google Meet / Gemini notes (internal) |
 | **Attendees** | Joshua Fromm, Maciej Stachura, Alex Lomis, Daniel Prendergast, Jack Elston (Sam referenced) |
-| **Primary programs** | S0 "Zero" build (SOCOM S0-AD `001_23`), Navy SBIR Magnetometer (`550_1`), S3 rebuild / S3 phase 2 "Canada", F3 builds, S2 wings |
+| **Primary programs** | S0 "Zero" build (SOCOM S0-AD `001_23`), Navy SBIR Magnetometer (`550_1`), S3 Canada (demo to Canadian special forces), F3 builds, S2 wings |
 
 Planning session on hardware build timelines and August demo readiness. Main benchmark for everything below is the **August demo**.
+
+> **"S3 Canada" = the demo to the Canadian special forces.** The S3 rebuild + S3 phase-2 work in this meeting are in service of that demo. (Whether the "August demo" referenced for the magnetometer/Navy SBIR work is this same event or a separate one is not confirmed from the notes.)
 
 ## Decisions
 
@@ -52,6 +54,6 @@ Planning session on hardware build timelines and August demo readiness. Main ben
 - **S0 "Zero" build (SOCOM S0-AD `001_23`, owner Dan Prendergast)** — batch of 25–26 units; mid-July ship target, end-of-July final deadline. Full-rate construction needs to start by 1st of month. Most parts ordered; awaiting deployment tubes and motors (motor delay shouldn't stall assembly — offramps exist for final assembly). No official build guide; configuration-management strain. S0 subcomponent assembly must finish before July, Nate overseeing QC.
 - **Navy SBIR Magnetometer (`550_1`, owner Alex Lomis)** — magnetometer underperforming in ground tests vs prior months; shielding eval underway. Sensor strategy: keep **QuSpin** for primary data collection, acquire a dedicated **enclosed Bartington** unit as a standardized ground reference for environmental factors. August demo treated as a benchmark / learning opportunity to practice the certification process and operational workflows even if sensor data isn't perfect.
 - **F3 builds** — two F3 aircraft on a September timeline. Procurement re-evaluating parts (quick-release buttons no longer made). Gimbal payload parts expected end of week; mounting/radio integration/telemetry doable with existing methods.
-- **S3 rebuild + S3 phase 2 ("Canada")** — currently reassembling the S3; parts from China in transit; Nate to assist with reassembly. **Phase 2 not kicked off**: difficulty sourcing a 3D-printed carbon fuselage supplier; team hesitant to invest further until project value/scope is clarified.
+- **S3 Canada (demo to Canadian special forces)** — currently reassembling the S3 for the demo; parts from China in transit; Nate to assist with reassembly. **Phase 2 not kicked off**: difficulty sourcing a 3D-printed carbon fuselage supplier; team hesitant to invest further until project value/scope is clarified.
 - **S2** — deadline 2026-09-30. Wing work started; purchasing internal components remains the long-lead task needing attention.
 - **Documentation / systems engineering** — critical gaps in bill-of-materials docs (lack of exhaustive BOM forces direct involvement in every order). Build-guide / "Open BOM" creation deferred to prioritize assembly; team wants to hire a test engineer to own systems-engineering / documentation responsibilities.
