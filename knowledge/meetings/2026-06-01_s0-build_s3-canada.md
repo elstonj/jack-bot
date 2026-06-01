@@ -5,13 +5,13 @@
 | **Date** | 2026-06-01 |
 | **Source** | Google Meet / Gemini notes (internal) |
 | **Attendees** | Joshua Fromm, Maciej Stachura, Alex Lomis, Daniel Prendergast, Jack Elston (Sam referenced) |
-| **Primary programs** | S0 "Zero" build (SOCOM S0-AD `001_23`), Navy SBIR Magnetometer (`550_1`), S3 Canada (demo to Canadian special forces), F3 builds, S2 wings |
+| **Primary programs** | S0 "Zero" build (SOCOM S0-AD `001_23`), Navy SBIR Magnetometer (`550_1`), S3 Canada (funded demo to Canadian special forces), F3 builds, S2 wings |
 
 Planning session on hardware build timelines and August demo readiness. Main benchmark for everything below is the **August demo**.
 
-> **Two separate demos in play, both SBIR-funded — neither is a commercial sale.** (1) **S3 Canada** = the demo to the Canadian special forces (Canadian Rangers / Joint Forces Command Canada, via NexTech Solutions); the S3 rebuild + S3 phase-2 work in this meeting are in service of that demo. It is part of an SBIR effort, so it is **excluded from the `#commercial-sales` digest** (see force-exclude below) and belongs in `#grants-and-funding`. (2) The **August demo** is a *separate* event — part of the **25.1 SBIR Phase II option effort** (Navy SBIR Magnetometer, `550_1`); the magnetometer / QuSpin / Bartington / IMU calibration / sensor-budget work feeds that one.
->
-> **Commercial-sales exclusion:** the two NexTech / Canadian Rangers Asana builds (`1213710771915193` "NextTech Solutions - S3 Arctic", `1214795652219550` "Canadian Rangers Demo (Ottawa)") were force-excluded from the commercial-sales pipeline on 2026-06-01 via `knowledge/commercial_sales/_force_exclude.json` so the scanner won't re-promote them as a hardware sale.
+> **Two separate, unrelated demos — don't conflate them.**
+> (1) **S3 Canada** = a **funded demo** to the Canadian special forces (Canadian Rangers / Joint Forces Command Canada, via NexTech Solutions). It is **NOT an SBIR** — it's a commercial demo/sale of an S3 system, so it lives in the **`#commercial-sales`** pipeline (Asana builds `1213710771915193` "NextTech Solutions - S3 Arctic" and `1214795652219550` "Canadian Rangers Demo (Ottawa)"). The S3 rebuild + S3 phase-2 work in this meeting are in service of that demo.
+> (2) The **August magnetometer demo** is an entirely different event — part of the **25.1 SBIR Phase II option effort** (Navy SBIR Magnetometer, `550_1`); the magnetometer / QuSpin / Bartington / IMU calibration / sensor-budget work feeds that one.
 
 ## Decisions
 
@@ -56,6 +56,6 @@ Planning session on hardware build timelines and August demo readiness. Main ben
 - **S0 "Zero" build (SOCOM S0-AD `001_23`, owner Dan Prendergast)** — batch of 25–26 units; mid-July ship target, end-of-July final deadline. Full-rate construction needs to start by 1st of month. Most parts ordered; awaiting deployment tubes and motors (motor delay shouldn't stall assembly — offramps exist for final assembly). No official build guide; configuration-management strain. S0 subcomponent assembly must finish before July, Nate overseeing QC.
 - **Navy SBIR Magnetometer (`550_1`, owner Alex Lomis) — August demo, part of the 25.1 SBIR Phase II option effort** — magnetometer underperforming in ground tests vs prior months; shielding eval underway. Sensor strategy: keep **QuSpin** for primary data collection, acquire a dedicated **enclosed Bartington** unit as a standardized ground reference for environmental factors. August demo treated as a benchmark / learning opportunity to practice the certification process and operational workflows even if sensor data isn't perfect. This is a **separate event** from the S3 Canada (Canadian special forces) demo.
 - **F3 builds** — two F3 aircraft on a September timeline. Procurement re-evaluating parts (quick-release buttons no longer made). Gimbal payload parts expected end of week; mounting/radio integration/telemetry doable with existing methods.
-- **S3 Canada (demo to Canadian special forces)** — currently reassembling the S3 for the demo; parts from China in transit; Nate to assist with reassembly. **Phase 2 not kicked off**: difficulty sourcing a 3D-printed carbon fuselage supplier; team hesitant to invest further until project value/scope is clarified.
+- **S3 Canada (funded demo to Canadian special forces — commercial, not SBIR)** — currently reassembling the S3 for the demo; parts from China in transit; Nate to assist with reassembly. Tracked in `#commercial-sales` (NexTech / Canadian Rangers). **Phase 2 not kicked off**: difficulty sourcing a 3D-printed carbon fuselage supplier; team hesitant to invest further until project value/scope is clarified.
 - **S2** — deadline 2026-09-30. Wing work started; purchasing internal components remains the long-lead task needing attention.
 - **Documentation / systems engineering** — critical gaps in bill-of-materials docs (lack of exhaustive BOM forces direct involvement in every order). Build-guide / "Open BOM" creation deferred to prioritize assembly; team wants to hire a test engineer to own systems-engineering / documentation responsibilities.
