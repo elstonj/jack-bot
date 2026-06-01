@@ -395,6 +395,25 @@ def select_files(question, channel_files=None):
         # Also check slack for matching project channels
         files.extend(_match_slack_files(q))
 
+    # Meetings — internal meeting notes (decisions, action items, build status).
+    # Load when the question is about meetings/decisions/builds/demos, or match
+    # individual meeting files by keyword in their filename.
+    meeting_keywords = ["meeting", "decision", "decided", "action item", "demo",
+                        "build", "launcher", "battery", "batteries", "shielding",
+                        "calibration", "gimbal", "payload", "soldering",
+                        "magnetometer", "qspin", "bartington"]
+    meetings_dir = os.path.join(KNOWLEDGE_DIR, "meetings")
+    if os.path.isdir(meetings_dir):
+        meeting_files = sorted(glob.glob(os.path.join(meetings_dir, "*.md")))
+        if any(kw in q for kw in meeting_keywords):
+            files.extend(meeting_files)
+        else:
+            words = [w for w in re.findall(r'[a-z0-9]+', q) if len(w) >= 3]
+            for fpath in meeting_files:
+                fname = os.path.basename(fpath).lower().replace(".md", "")
+                if any(word in fname for word in words):
+                    files.append(fpath)
+
     # Always try name-based matching on project files, registry, toggl, and financials
     files.extend(_match_project_files(q))
     files.extend(_match_toggl_files(q))
