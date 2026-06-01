@@ -1797,9 +1797,29 @@ def scan_all(mode: str = "incremental", slack_client=None) -> dict:
     except Exception:
         force_include_gids = set()
 
+    # Force-exclude override: gids a BST team member has explicitly told the
+    # bot to keep OUT of the digest (e.g. an SBIR/grant effort that looks like
+    # a hardware sale). These hard-drop before Haiku runs, so they can't be
+    # re-promoted by the is_customer_build KEEP signals on a later scan.
+    try:
+        from commercial_sales_admin import get_force_exclude_gids
+        force_exclude_gids = get_force_exclude_gids()
+        if force_exclude_gids:
+            print(f"  Force-exclude list: {len(force_exclude_gids)} gids")
+    except Exception:
+        force_exclude_gids = set()
+
     dropped_gids: list[str] = []
     for i, task in enumerate(asana_tasks):
         print(f"  [{i + 1}/{len(asana_tasks)}] {task.get('name','?')[:60]}")
+        if task["gid"] in force_exclude_gids:
+            # Hard-drop: delete any prior record and skip Haiku entirely.
+            stale = BUILDS_DIR / f"{task['gid']}.json"
+            if stale.exists():
+                stale.unlink()
+            dropped_gids.append(task["gid"])
+            print("       force-excluded (SBIR/grant — not commercial sales)")
+            continue
         tokens = _customer_tokens(task)
         all_customer_tokens.update(tokens)
         matched_emails = _filter_emails_for_tokens(

@@ -9,7 +9,9 @@
 
 Planning session on hardware build timelines and August demo readiness. Main benchmark for everything below is the **August demo**.
 
-> **Two separate demos in play.** (1) **S3 Canada** = the demo to the Canadian special forces; the S3 rebuild + S3 phase-2 work in this meeting are in service of that demo. (2) The **August demo** is a *separate* event — part of the **25.1 SBIR Phase II option effort** (Navy SBIR Magnetometer, `550_1`); the magnetometer / QuSpin / Bartington / IMU calibration / sensor-budget work feeds that one.
+> **Two separate demos in play, both SBIR-funded — neither is a commercial sale.** (1) **S3 Canada** = the demo to the Canadian special forces (Canadian Rangers / Joint Forces Command Canada, via NexTech Solutions); the S3 rebuild + S3 phase-2 work in this meeting are in service of that demo. It is part of an SBIR effort, so it is **excluded from the `#commercial-sales` digest** (see force-exclude below) and belongs in `#grants-and-funding`. (2) The **August demo** is a *separate* event — part of the **25.1 SBIR Phase II option effort** (Navy SBIR Magnetometer, `550_1`); the magnetometer / QuSpin / Bartington / IMU calibration / sensor-budget work feeds that one.
+>
+> **Commercial-sales exclusion:** the two NexTech / Canadian Rangers Asana builds (`1213710771915193` "NextTech Solutions - S3 Arctic", `1214795652219550` "Canadian Rangers Demo (Ottawa)") were force-excluded from the commercial-sales pipeline on 2026-06-01 via `knowledge/commercial_sales/_force_exclude.json` so the scanner won't re-promote them as a hardware sale.
 
 ## Decisions
 
