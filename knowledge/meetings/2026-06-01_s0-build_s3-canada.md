@@ -9,7 +9,7 @@
 
 Planning session on hardware build timelines and August demo readiness. Main benchmark for everything below is the **August demo**.
 
-> **"S3 Canada" = the demo to the Canadian special forces.** The S3 rebuild + S3 phase-2 work in this meeting are in service of that demo. (Whether the "August demo" referenced for the magnetometer/Navy SBIR work is this same event or a separate one is not confirmed from the notes.)
+> **Two separate demos in play.** (1) **S3 Canada** = the demo to the Canadian special forces; the S3 rebuild + S3 phase-2 work in this meeting are in service of that demo. (2) The **August demo** is a *separate* event — part of the **25.1 SBIR Phase II option effort** (Navy SBIR Magnetometer, `550_1`); the magnetometer / QuSpin / Bartington / IMU calibration / sensor-budget work feeds that one.
 
 ## Decisions
 
@@ -52,7 +52,7 @@ Planning session on hardware build timelines and August demo readiness. Main ben
 ## Program status notes
 
 - **S0 "Zero" build (SOCOM S0-AD `001_23`, owner Dan Prendergast)** — batch of 25–26 units; mid-July ship target, end-of-July final deadline. Full-rate construction needs to start by 1st of month. Most parts ordered; awaiting deployment tubes and motors (motor delay shouldn't stall assembly — offramps exist for final assembly). No official build guide; configuration-management strain. S0 subcomponent assembly must finish before July, Nate overseeing QC.
-- **Navy SBIR Magnetometer (`550_1`, owner Alex Lomis)** — magnetometer underperforming in ground tests vs prior months; shielding eval underway. Sensor strategy: keep **QuSpin** for primary data collection, acquire a dedicated **enclosed Bartington** unit as a standardized ground reference for environmental factors. August demo treated as a benchmark / learning opportunity to practice the certification process and operational workflows even if sensor data isn't perfect.
+- **Navy SBIR Magnetometer (`550_1`, owner Alex Lomis) — August demo, part of the 25.1 SBIR Phase II option effort** — magnetometer underperforming in ground tests vs prior months; shielding eval underway. Sensor strategy: keep **QuSpin** for primary data collection, acquire a dedicated **enclosed Bartington** unit as a standardized ground reference for environmental factors. August demo treated as a benchmark / learning opportunity to practice the certification process and operational workflows even if sensor data isn't perfect. This is a **separate event** from the S3 Canada (Canadian special forces) demo.
 - **F3 builds** — two F3 aircraft on a September timeline. Procurement re-evaluating parts (quick-release buttons no longer made). Gimbal payload parts expected end of week; mounting/radio integration/telemetry doable with existing methods.
 - **S3 Canada (demo to Canadian special forces)** — currently reassembling the S3 for the demo; parts from China in transit; Nate to assist with reassembly. **Phase 2 not kicked off**: difficulty sourcing a 3D-printed carbon fuselage supplier; team hesitant to invest further until project value/scope is clarified.
 - **S2** — deadline 2026-09-30. Wing work started; purchasing internal components remains the long-lead task needing attention.
