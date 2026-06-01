@@ -13,7 +13,6 @@ _Last scanned 2026-06-01 03:09_
 | DoW | — | estimate_sent | none | none | `1211892779240607` |
 | USAF 53rd Weather Squadron (WC-130J) | 2026-05-01 | estimate_sent | none | none | `1211602206477042` |
 | National Oceanography Centre (NOC) | 2026-05-15 | estimate_sent | none | none | `1212982512191690` |
-| NOAA | 2028-05-01 | estimate_sent | none | none | `1213688340764301` |
 | Canadian Rangers (via NexTech Solutions) | 2026-08-31 | estimate_sent | none | none | `1213710771915193` |
 | Canadian Rangers (via NexTech Solutions) | 2026-06-25 | estimate_sent | none | none | `1214795652219550` |
 | UC Santa Cruz Ocean Sciences | — | estimate_sent | none | none | `1210367257543500` |

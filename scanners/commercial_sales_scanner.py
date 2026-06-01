@@ -1041,7 +1041,23 @@ If you find these three together, drop and cite all three in `reason`. Do
 NOT keep on the basis of QBO invoices for the customer entity — those
 belong to a different task.
 
-STEP 1 (KEEP overrides — only when Step 0 didn't fire). If ANY of these is
+STEP 0B (FUNDING-PROPOSAL DROP — overrides the STEP 1 KEEP signals). This is a
+commercial-HARDWARE pipeline. If the opportunity is a formal funding proposal —
+BST responding to a solicitation to win a research/development award or grant
+(SBIR, STTR, BAA, RFP, RFI, LOI / letter of intent, white paper, topic response,
+IDIQ bid, "preparing a cost breakdown / proposal for a competitive bid", or
+selection "via open competitive bid") — it does NOT belong in this digest; it's
+tracked separately in #grants-and-funding. DROP it even when there is recent
+email/Slack activity (proposal prep is noisy) or a future receive_by date. Cite
+reason "funding proposal — belongs in #grants-and-funding".
+
+This does NOT apply to commercial hardware procurement, which is a KEEP even when
+the customer is a government agency or the money is grant-funded. A purchase
+order, an RFQ/quote for specific aircraft or sensors, an invoice for hardware, or
+a system sale are all commercial. The test: are we *selling a product/system*
+(KEEP) or *bidding to win a funded R&D effort* (DROP)?
+
+STEP 1 (KEEP overrides — only when Step 0 and Step 0B didn't fire). If ANY of these is
 true, KEEP the build regardless of what other Asana custom fields say. These are the load-bearing signals
 that "BST has skin in the game":
   • A QBO invoice exists for this customer entity (paid or unpaid). BST is
