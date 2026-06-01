@@ -685,6 +685,42 @@ def render_support_card(c: SupportCase, name_to_slack: Optional[dict[str, str]] 
     return "\n".join(s for s in sections if s)
 
 
+def _is_active_build(b: Build) -> bool:
+    """A build stays on the digest until BOTH delivery and payment are
+    confirmed. There's no time-based fallback: an unpaid delivered build
+    stays visible (with a 'still on digest: awaiting payment' callout via
+    `_why_still_active`) until someone replies with the paid_date, so an
+    "is this done?" card never silently disappears just because 30 days passed.
+    """
+    return not (b.ship_state == "delivered" and b.payment_state == "paid")
+
+
+def is_order(b: Build) -> bool:
+    """Split point for the digest's two threads.
+
+    An *Active Order* means the customer has committed — a PO has been issued
+    (which in this model surfaces as an invoice going out) or payment has
+    landed — OR physical build/ship work has already started. Everything
+    earlier (estimate sent, nothing ordered yet) is a *Lead*.
+    """
+    if b.build_state not in (None, "none"):
+        return True
+    if b.ship_state not in (None, "none"):
+        return True
+    if b.payment_state in ("invoice_sent", "paid"):
+        return True
+    return False
+
+
+# Reply hint footer — posted once under each thread so users know they can
+# reply anywhere in the umbrella thread to update a card.
+_REPLY_HINT = (
+    "_Reply in thread to any card above to add missing info or update state — "
+    "\"ship by Jun 1\", \"tracking 1Z999...\", \"Joshua doing assembly on this one\". "
+    "The reply gets routed to the specific build/case._"
+)
+
+
 def render_card_sequence(
     builds: list[Build],
     cases: list[SupportCase],
@@ -701,67 +737,74 @@ def render_card_sequence(
               stores ts → id so Phase 2 reply-handling can look up which
               record a threaded reply is updating.
 
+    The sequence is split into two umbrella groups, each begun by a "header"
+    entry: **Active Orders** (committed/in-progress builds + support cases) and
+    **Customer Leads** (estimate-stage builds). The scheduler posts each header
+    as its own top-level message and threads the cards that follow it beneath,
+    so leads and orders stay visually separate in the channel.
+
     Use this for the live post. `render_digest()` produces the same content
     as one big string for terminal previews and test fixtures.
     """
     today = today or date.today()
+    day = today.strftime('%A %B %d')
     sequence: list[dict] = []
 
-    def is_active(b: Build) -> bool:
-        # Drop a build off the digest only after BOTH delivery and payment
-        # are confirmed. There's no time-based fallback: an unpaid delivered
-        # build stays visible (with a 'still on digest: awaiting payment'
-        # callout via _why_still_active) until someone replies with the
-        # paid_date. This way an "is this done?" card never silently
-        # disappears just because 30 days passed.
-        if b.ship_state == "delivered" and b.payment_state == "paid":
-            return False
-        return True
-
-    active_builds = [b for b in builds if is_active(b)]
+    active_builds = [b for b in builds if _is_active_build(b)]
+    orders = [b for b in active_builds if is_order(b)]
+    leads = [b for b in active_builds if not is_order(b)]
     active_cases = [c for c in cases if c.state != "shipped"]
 
-    # Header — anchors the day, includes counts so users can read just this.
-    header_lines = [f":package:  *Customer Builds & Support — {today.strftime('%A %B %d')}*"]
-    if active_builds:
-        header_lines.append(f"*{len(active_builds)} active build{'s' if len(active_builds) != 1 else ''}*"
-                            + (f" · *{len(active_cases)} support*" if active_cases else ""))
-    elif active_cases:
-        header_lines.append(f"*{len(active_cases)} active support case{'s' if len(active_cases) != 1 else ''}* — no active builds")
-    else:
-        header_lines.append("_No active customer builds or support cases._")
-    sequence.append({"kind": "header", "id": None, "text": "\n".join(header_lines)})
+    # --- Thread 1: Active Orders (committed builds + support cases) ---
+    if orders or active_cases:
+        head = [f":package:  *Active Orders — {day}*"]
+        counts = []
+        if orders:
+            counts.append(f"*{len(orders)} active order{'s' if len(orders) != 1 else ''}*")
+        if active_cases:
+            counts.append(f"*{len(active_cases)} support*")
+        line = " · ".join(counts)
+        if not orders and active_cases:
+            line += " — _no active orders_"
+        head.append(line)
+        sequence.append({"kind": "header", "id": None, "text": "\n".join(head)})
 
-    for b in active_builds:
-        sequence.append({
-            "kind": "build",
-            "id": b.asana_gid,
-            "text": render_build_card(b, name_to_slack),
-        })
-
-    if active_cases:
-        sequence.append({
-            "kind": "divider",
-            "id": None,
-            "text": "─" * 40 + f"\n*Support — {len(active_cases)} active*",
-        })
-        for c in active_cases:
+        for b in orders:
             sequence.append({
-                "kind": "support",
-                "id": c.case_id,
-                "text": render_support_card(c, name_to_slack),
+                "kind": "build",
+                "id": b.asana_gid,
+                "text": render_build_card(b, name_to_slack),
             })
 
-    # Footer — usage hint. Always last so it doesn't break thread context.
-    sequence.append({
-        "kind": "footer",
-        "id": None,
-        "text": (
-            "_Reply in thread to any card above to add missing info or update state — "
-            "\"ship by Jun 1\", \"tracking 1Z999...\", \"Joshua doing assembly on this one\". "
-            "The reply gets routed to the specific build/case._"
-        ),
-    })
+        if active_cases:
+            sequence.append({
+                "kind": "divider",
+                "id": None,
+                "text": "─" * 40 + f"\n*Support — {len(active_cases)} active*",
+            })
+            for c in active_cases:
+                sequence.append({
+                    "kind": "support",
+                    "id": c.case_id,
+                    "text": render_support_card(c, name_to_slack),
+                })
+
+        sequence.append({"kind": "footer", "id": None, "text": _REPLY_HINT})
+
+    # --- Thread 2: Customer Leads (estimate-stage, no order yet) ---
+    if leads:
+        head = [
+            f":mag:  *Customer Leads — {day}*",
+            f"*{len(leads)} lead{'s' if len(leads) != 1 else ''}* — _estimate stage, no order yet_",
+        ]
+        sequence.append({"kind": "header", "id": None, "text": "\n".join(head)})
+        for b in leads:
+            sequence.append({
+                "kind": "build",
+                "id": b.asana_gid,
+                "text": render_build_card(b, name_to_slack),
+            })
+        sequence.append({"kind": "footer", "id": None, "text": _REPLY_HINT})
 
     return sequence
 
@@ -772,32 +815,28 @@ def render_digest(
     name_to_slack: Optional[dict[str, str]] = None,
     today: Optional[date] = None,
 ) -> str:
-    """Render the full morning post for #commercial-sales."""
+    """Render the full morning post for #commercial-sales as one string.
+
+    Mirrors `render_card_sequence`'s Active Orders / Customer Leads split; used
+    for terminal previews and test fixtures (the live post uses the sequence).
+    """
     today = today or date.today()
-    pieces = [f":package:  *Customer Builds & Support — {today.strftime('%A %B %d')}*"]
+    day = today.strftime('%A %B %d')
+    pieces = [f":package:  *Customer Builds & Support — {day}*"]
 
-    # Filter out builds that have been delivered for more than ~30 days (clutter)
-    def is_active(b: Build) -> bool:
-        # Drop a build off the digest only after BOTH delivery and payment
-        # are confirmed. There's no time-based fallback: an unpaid delivered
-        # build stays visible (with a 'still on digest: awaiting payment'
-        # callout via _why_still_active) until someone replies with the
-        # paid_date. This way an "is this done?" card never silently
-        # disappears just because 30 days passed.
-        if b.ship_state == "delivered" and b.payment_state == "paid":
-            return False
-        return True
-
-    active_builds = [b for b in builds if is_active(b)]
-    if not active_builds:
-        pieces.append("\n_No active customer builds in the pipeline._")
-    else:
-        pieces.append(f"\n*Active Builds — {len(active_builds)}*")
-        for b in active_builds:
-            pieces.append("")
-            pieces.append(render_build_card(b, name_to_slack))
-
+    active_builds = [b for b in builds if _is_active_build(b)]
+    orders = [b for b in active_builds if is_order(b)]
+    leads = [b for b in active_builds if not is_order(b)]
     active_cases = [c for c in cases if c.state != "shipped"]
+
+    # --- Active Orders (committed builds + support) ---
+    pieces.append(f"\n*Active Orders — {len(orders)}*")
+    if not orders:
+        pieces.append("_No active orders._")
+    for b in orders:
+        pieces.append("")
+        pieces.append(render_build_card(b, name_to_slack))
+
     if active_cases:
         pieces.append("")
         pieces.append("─" * 40)
@@ -810,6 +849,16 @@ def render_digest(
         pieces.append("")
         pieces.append("─" * 40)
         pieces.append(f"\n*Support* — _no active cases ({len(cases)} closed)_")
+
+    # --- Customer Leads (estimate stage, no order yet) ---
+    pieces.append("")
+    pieces.append("─" * 40)
+    pieces.append(f"\n*Customer Leads — {len(leads)}*")
+    if not leads:
+        pieces.append("_No active leads._")
+    for b in leads:
+        pieces.append("")
+        pieces.append(render_build_card(b, name_to_slack))
 
     pieces.append("")
     pieces.append(

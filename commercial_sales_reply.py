@@ -118,7 +118,8 @@ def _load_message_map() -> dict:
       {
         "scan_date":   str,
         "channel":     str,
-        "umbrella_ts": str,            # parent of the daily digest thread
+        "umbrella_ts": str,            # first digest thread parent (back-compat)
+        "umbrellas":   [str, ...],     # all digest thread parents (orders, leads)
         "cards":       [{ts, kind, id, customer, label}, ...],
         "messages":    {ts → {kind, id}},
       }
@@ -184,10 +185,14 @@ def lookup_record_for_thread(
         if rec:
             return {"kind": entry["kind"], "id": entry["id"], "record": rec}
 
-    # (2) Umbrella content-match
-    umbrella_ts = msg_map.get("umbrella_ts")
+    # (2) Umbrella content-match — the reply may be under either the Active
+    # Orders or the Customer Leads thread; both list the day's full card set,
+    # so a content-match against `cards` resolves the target regardless.
+    umbrellas = msg_map.get("umbrellas") or (
+        [msg_map["umbrella_ts"]] if msg_map.get("umbrella_ts") else []
+    )
     cards = msg_map.get("cards") or []
-    if umbrella_ts and thread_ts == umbrella_ts and cards and reply_text.strip():
+    if thread_ts in umbrellas and cards and reply_text.strip():
         matched = _match_umbrella_card(reply_text, cards)
         if matched:
             rec = _load_record(matched["kind"], matched["id"])
