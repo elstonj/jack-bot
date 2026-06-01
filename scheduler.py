@@ -388,10 +388,12 @@ def start_scheduler():
         minute=30,
         misfire_grace_time=1800,  # 30 min: still useful a bit late
     )
-    # Daily 8 AM MT weather report posted to #flight-testing.
+    # Weekday 8 AM MT weather report posted to #flight-testing. No weekend
+    # posts — nobody's flight-testing on Saturday/Sunday.
     scheduler.add_job(
         post_flight_weather,
         "cron",
+        day_of_week="mon-fri",
         hour=8,
         minute=0,
         misfire_grace_time=1800,  # 30 min: forecast is still useful a bit late

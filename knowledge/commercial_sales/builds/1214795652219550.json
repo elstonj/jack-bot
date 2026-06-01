@@ -1,7 +1,7 @@
 {
   "asana_gid": "1214795652219550",
   "asana_task_name": "Canadian Rangers Demo (Ottawa)",
-  "customer": "Canadian Defense Forces / NexTech Solutions",
+  "customer": "Canadian Rangers (via NexTech Solutions)",
   "customer_contact": "",
   "customer_email": "",
   "receive_by": "2026-06-25",
@@ -37,7 +37,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Canadian Rangers demo in Ottawa planned for June 2026. NexTech Solutions (DoD integrator) evaluating S3 for tactical deployment; 120km range / 1h 35min TOF required with EO/IR gimbal. Follow-on demos planned: Arctic demo with NexTech Solutions (receive by 2026-08-31), potential Joint Forces Command purchase. Active Slack engagement through 2026-05-20 confirms ongoing planning and execution.",
+  "notes": "End customer is the Canadian Rangers; NexTech Solutions is the DoD contractor/integrator running this program (same program as the NexTech S3 Arctic build, gid 1213710771915193 — Ottawa demo phase). Canadian Rangers demo in Ottawa planned for June 2026. NexTech Solutions evaluating S3 for tactical deployment; 120km range / 1h 35min TOF required with EO/IR gimbal. Follow-on demos planned: Arctic demo with NexTech Solutions (receive by 2026-08-31), potential Joint Forces Command purchase. Active Slack engagement through 2026-05-20 confirms ongoing planning and execution.",
   "missing_fields": [
     "ship_to",
     "customer_contact",
