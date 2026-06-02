@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $4,387,717.28
-- **Total Expenses (Bills + Purchases):** $1,330,748.71
+- **Total Expenses (Bills + Purchases):** $1,330,956.34
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,056,968.57 (invoiced minus expenses)
+- **Net Position:** $3,056,760.94 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -13,7 +13,7 @@
 
 ### Summary
 - **Total Invoiced:** $4,387,717.28
-- **Total Collected (Outstanding Balance):** $3,120,198.19 remaining (invoices with open balances)
+- **Total Collected (Outstanding Balance):** $3,120,406.82 remaining (invoices with open balances)
 - **Number of Invoices:** 75 active invoices
 
 ### Major Revenue Streams by Project
@@ -38,26 +38,27 @@
 | **Black Swift Technologies (Internal/Sales)** | **$197,188.00** | **Equipment sales: S0 4m VTOL, S0 VTOL Variant, E2 UAS, Avionics systems** |
 | NOAA UASD & UxSOC | $9,320.00 | Display Model S0 units with tripods & shipping (Invoices #1761–#1762, 2026-05-08) |
 
-### Recent Invoices (2026-06-29 to 2026-09-28) — **CONFIRMED FINAL**
+### Recent Invoices (2026-06-01 to 2026-09-28) — **CONFIRMED FINAL**
 | Invoice # | Date | Amount | Project | Description | Balance |
 |-----------|------|--------|---------|-------------|---------|
+| **#1739** | **2026-06-01** | **$72,000.00** | **[300-3] 2026 IDIQ** | **CLIN 1001 Invoice 4 of 6** | **$72,000.00** |
 | **#1749** | **2026-06-29** | **$35,000.00** | **[550-1] Navy SBIR Magnetometer** | **CLIN 0006: Progress Report - Option** | **$35,000.00** |
-| **#1739** | **2026-07-02** | **$72,000.00** | **[300-3] 2026 IDIQ** | **CLIN 1001 Invoice 4 of 6** | **$72,000.00** |
 | **#1740** | **2026-07-02** | **$72,000.00** | **[300-3] 2026 IDIQ** | **CLIN 1001 Invoice 5 of 6** | **$72,000.00** |
 | **#1741** | **2026-07-30** | **$72,000.00** | **[300-3] 2026 IDIQ** | **CLIN 1001 Invoice 6 of 6** | **$72,000.00** |
 | **#1750** | **2026-09-28** | **$14,459.00** | **[550-1] Navy SBIR Magnetometer** | **CLIN 0007: Final Report** | **$14,459.00** |
 
-**Recent invoice total (2026-06-29 to 2026-09-28):** $265,459.00  
+**Recent invoice total (2026-06-01 to 2026-09-28):** $265,459.00  
 **All invoices confirmed through 2026-09-28.**
 
 ---
 
 ## Expenses by Cost Category
 
-### **Materials & Supplies: $469,954.29**
-**Number of transactions:** 195  
+### **Materials & Supplies: $469,999.58**
+**Number of transactions:** 197  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
+  - **DKC*DIGI KEY CORP - 4617** (2026-06-01): $45.29 [DC-Direct Material Purchases]
 - **JAWSTEC:** $19,627.62 (components for S0 platforms)
 - **Amprius battery systems:** $28,637.13 (wire transfers, 01/06/26) + $399.00 (2026-04-29, SA504 x7 quote #00001876) + $399.00 (2026-05-01, 8643C6/Max10.8Ah/4.25V x 7) + $399.00 (2026-05-14, SA504 x7 quote #00001876)
   - **Total Amprius: $29,834.13**
@@ -75,7 +76,7 @@
 - **Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head** (2026-05-07, Purchase #1288885721): **$479.80** [DIRECT COSTS] + $306.08 [Inventory Asset for future S3 sales]
   - **Direct Cost Materials & Supplies impact: $479.80**
 
-**Recent transactions (2026-05-14 to 2026-05-31):**
+**Recent transactions (2026-05-14 to 2026-06-02):**
 - **Purchase (Amprius Technologies)** (2026-05-14): **$399.00** [DC-Direct Material Purchases]
   - SA504 x 7 (quote #00001876) — Battery systems for Navy SBIR projects
   
@@ -117,7 +118,10 @@
   - $69.99 [Inventory Asset] — Logitech K400 Plus Wireless Touch TV Keyboards x 2 (for 2 future S2 simulator sales)
   - **Memo:** No Asana request - Jack made purchase directly and Slacked message
 
-**Total direct cost materials & supplies through 2026-09-28: $469,954.29** *(confirmed final)*
+- **Purchase (2026-06-01):** **$45.29** [DC-Direct Material Purchases]
+  - DKC*DIGI KEY CORP - 4617 — Electronics components
+
+**Total direct cost materials & supplies through 2026-09-28: $469,999.58** *(confirmed final)*
 
 ---
 
@@ -128,6 +132,4 @@
 - **Matthew Crabtree (PCB assembly, rework, parts sourcing):** $67,425.53
   - Bill #BST-April2026-1 (2026-04-22): $14,479.45 (Parts/Materials & IRAD allocation)
   - Bill #BST-March2026-2 (2026-04-22): $24,224.02 (Parts/Materials & IRAD allocation; second half of $48,448.05 March invoice)
-- **Ted Miles (NASA AREN labor):** $49,350.80 (627 total hours tracked)
-- **MicroFirm Engineering (Hurricane work):** $84,744.10 (labor 110+ hours, parts)
-  - **Bill #3912** (2026-05-01): $812.50 (6.5 hours @ $125/hr, direct
+- **

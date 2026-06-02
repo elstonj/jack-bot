@@ -5,7 +5,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination), Paige Smith (admin), Ethan Domagala (project coordination), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,430+ messages across multiple batches spanning from July 2020 through May 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through May 2026 with project refinements, AI assistant integration, NDAA compliance discussions, operational coordination, and formalized post-flight reporting processes. Most recent activity (May 28, 2026) shows ongoing procurement discussions and team coordination.
+**Activity level:** High-volume channel with 3,430+ messages across multiple batches spanning from July 2020 through June 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through June 2026 with project refinements, AI assistant integration, NDAA compliance discussions, operational coordination, formalized post-flight reporting processes, and S0 production planning. Most recent activity (June 1, 2026) shows ongoing procurement discussions for S0 production ramp-up and clarifications on project scope.
 
 ---
 
@@ -73,4 +73,4 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 ### NDAA Compliance (April 17, 2026)
 **Status Assessment:**
 - **S0-VTOL, S0-AD, E2:** Can be made NDAA compliant; self-certification process (no formal federal certification required)
-- **S3:** No electronics with final assembly in China; mechanical components currently manufactured in China but can be sourced domestically at increased cost; compl
+- **S3:** No electronics with final assembly in China;

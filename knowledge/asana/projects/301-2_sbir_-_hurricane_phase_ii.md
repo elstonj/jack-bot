@@ -9,8 +9,8 @@
 - **Risk signals**: None — project completed successfully
 
 **Key Contacts:**
-- **GPC (Government Point of Contact)**: Dr. Joseph Cione, NOAA/AOML/HRD Miami, FL — joe.cione@noaa.gov, Joseph.J.Cione@OSTP.eop.gov
-- **UPC (University Point of Contact)**: Dr. Jun Zhang, University of Miami/CIMAS Miami, FL — Jun.Zhang@rsmas.miami.edu
+- **GPC (Government Point of Contact)**: Dr. Joseph Cione, NOAA/AOML/HRD, Miami, FL — joe.cione@noaa.gov, Joseph.J.Cione@OSTP.eop.gov
+- **UPC (University Point of Contact)**: Dr. Jun Zhang, University of Miami/CIMAS, Miami, FL — Jun.Zhang@rsmas.miami.edu
 - **Billing Contact**: Luis Quijada, lcq5@miami.edu
 - **Field Operations Contact**: Nick Underwood (NOAA AOC)
 
@@ -91,5 +91,4 @@
 - Tablet-based field operations interface
 - Ground Control Station (GCS) without VGA connector requirement
 
-**Technical Focus**: Hurricane data collection and reconnaissance using specialized UAS with:
--
+**Technical Focus**: Hurricane data collection and reconnaissance using specialized UAS with advanced

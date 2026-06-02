@@ -1,7 +1,7 @@
 # BST Project Registry
 
 Master index of all active projects with cross-system links.
-_Generated from Asana project overviews. 50 active projects._
+_Generated from Asana project overviews. 49 active projects._
 
 | Code | Project | Customer | Budget | Slack | Financial |
 |------|---------|----------|--------|-------|-----------|
@@ -41,7 +41,6 @@ _Generated from Asana project overviews. 50 active projects._
 | 212_1 | S2 Simulator | NASA (Will Wade) | $2,900 | — | — |
 | 212_2 | NASA S2 & Parts | NASA (Will Wade) | $89,844 | — | — |
 | 300_3 | 2026 IDIQ (Hurricane) | NOAA | $483,000 | #sbir-hurricane | Yes |
-| 301_3 | S0 Hurricane Phase II - 2025 | NOAA/Univ. Miami | $1700000 | #sbir-hurricane, #s0-vtol | Yes |
 | 350_4 | 2024 USGS - Chile (Mexico) | USGS (Volcano Science Cen | $124,230 | #sbir-volcano | Yes |
 | 451_1 | INSTAAR S3 x 2 | INSTAAR, CU Boulder | $120,000 | — | — |
 | 452_2 | S2 Simulator & used E2 Battery | Dan Hesselius (CU Boulder | — | — | Yes |
@@ -62,8 +61,6 @@ _Generated from Asana project overviews. 50 active projects._
 |------------|---------|--------------|--------------|
 | C015DKC4WG1 | #sbir-volcano | 018_1 | Murphy's Pond CH4 Monitoring |
 | C01510XMGRG | #sbir-hurricane | 300_3 | 2026 IDIQ (Hurricane) |
-| C01510XMGRG | #sbir-hurricane | 301_3 | S0 Hurricane Phase II - 2025 |
-| C064LM8786M | #s0-vtol | 301_3 | S0 Hurricane Phase II - 2025 |
 | C015DKC4WG1 | #sbir-volcano | 350_4 | 2024 USGS - Chile (Mexico) |
 | C01510XMGRG | #sbir-hurricane | 550_1 | NAVY SBIR: Magnetometer |
 | C015DKC4WG1 | #sbir-volcano | 550_1 | NAVY SBIR: Magnetometer |

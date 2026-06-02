@@ -4,15 +4,17 @@
     ""
   ],
   "period": {
-    "start": "2026-05-31",
-    "end": "2026-06-01"
+    "start": "2026-06-01",
+    "end": "2026-06-02"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 10822.58,
+    "expenses": 11349.84,
     "by_category": {
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 10773.62,
-      "Inventory Asset": 48.96
+      "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 498.57,
+      "Inventory Asset": 48.96,
+      "FACILITIES:FA-Shop Supplies": 28.69
     }
   },
   "invoices": [],
@@ -52,6 +54,42 @@
           "amount": 48.96,
           "account": "Inventory Asset",
           "description": "Shipping for 123 Bearing Shipment for future S3 sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-01",
+      "doc_number": "",
+      "total": 28.69,
+      "attributed": 28.69,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 28.69,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "ELEGOO Rapid PLA Plus Filament 1.75mm Gray"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-01",
+      "doc_number": "",
+      "total": 498.57,
+      "attributed": 498.57,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "D34574316 - 7333",
+      "lines": [
+        {
+          "amount": 498.57,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties",
+          "description": "Duties fee for S3 IRAD shipment from PCBWay (Ref. YE1730257)"
         }
       ]
     }

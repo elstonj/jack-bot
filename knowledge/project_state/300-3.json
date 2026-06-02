@@ -17,7 +17,7 @@
     "total_value": 483000.0,
     "start_date": "2026-02-01",
     "end_date": "2031-01-31",
-    "payment_cadence": "firm fixed price per unit/task with annual ordering periods; travel and NRE billed not-to-exceed",
+    "payment_cadence": "firm fixed price per ordering period; NRE items are not-to-exceed (NTE) and billed at task order level based on labor categories",
     "documents": [
       "drive://Budget Structure",
       "drive://(1305M226D0012) Attachment 1-Specifications_Black Swift.pdf",
@@ -25,70 +25,70 @@
     ]
   },
   "budget": {
-    "approved": 13281250.0,
+    "approved": 16281250.0,
     "approved_source": "sow_drive",
     "line_items": [
       {
         "category": "Equipment",
-        "amount": 10981250.0,
-        "description": "Black Swift S0 sUAS Platforms: 150 EA @ $18,000 (Yr1) + 150 EA @ $18,630 (Yr2) + 125 EA @ $19,282 (Yr3) + 125 EA @ $19,957 (Yr4) + 125 EA @ $20,655 (Yr5)",
+        "amount": 13981250.0,
+        "description": "Black Swift S0 sUAS Platforms: 150 units FY2026 @ $18,000, 150 units FY2027 @ $18,630, 125 units FY2028 @ $19,282, 125 units FY2029 @ $19,957, 125 units FY2030 @ $20,655",
         "source_doc": null
       },
       {
         "category": "Labor",
         "amount": 427500.0,
-        "description": "Mission Days Operational support (30 days/yr @ $2,850/day × 5 years) + Operational and Testing Support (6 sessions/yr @ $6,000 × 5 years) + Training Sessions (Operator/Observer + Instructor)",
+        "description": "Mission Days Operational Support (30 days/year @ $2,850), Operational and Testing Support (6 sessions/year @ $6,000), Training Sessions (Operator/Observer @ $6,000, Instructor @ $600 per year)",
         "source_doc": null
       },
       {
         "category": "Travel",
         "amount": 250000.0,
-        "description": "Travel for Operational Support (5 years × $50,000 NTE per ordering period)",
+        "description": "Travel for Operational Support (5 periods × $50,000 NTE per period, FTR-compliant)",
         "source_doc": null
       },
       {
-        "category": "Labor",
-        "amount": 60000.0,
-        "description": "Course Development: Operator and Observer Course Development (5 × $6,000) + Instructor Training Course Development (5 × $6,000)",
-        "source_doc": null
-      },
-      {
-        "category": "Labor",
-        "amount": 990000.0,
-        "description": "Non-recurring Engineering: Technical Documentation, Modeling, and NHC Integration (3 task categories × $66,000 NTE × 5 ordering periods)",
+        "category": "Other",
+        "amount": 1122500.0,
+        "description": "Course Development (Operator/Observer and Instructor courses, $12,000/year × 5 years = $60,000) + Non-Recurring Engineering (Technical Documentation, Modeling, NHC Workflow Integration at $66,000 NTE each, 3 categories × 5 years = $990,000) + contingency for NTE items",
         "source_doc": null
       }
     ],
     "spent": {
       "labor": {
-        "amount": 92155.0,
+        "amount": 92530.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-01"
+        "last_updated": "2026-06-02"
       },
       "purchases": {
         "amount": 902.06,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-06-01"
+        "last_updated": "2026-06-02"
       },
       "other_qbo": {
-        "amount": 0.0,
+        "amount": 162.34,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-06-01"
+        "last_updated": "2026-06-02"
       },
-      "total": 93057.06,
+      "total": 93594.4,
       "by_line_item": {}
     },
     "committed": 68.7,
-    "remaining": 13188124.24,
+    "remaining": 16187586.9,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-01T08:53:47Z"
+    "last_reconciled": "2026-06-02T09:04:04Z"
   },
   "milestones": [],
   "deliverables": [],
   "team": [
+    {
+      "name": "Ben Busby",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    },
     {
       "name": "Jack Elston",
       "role": null,
@@ -141,6 +141,6 @@
       "text": "From Joshua Fromm: <@U0AQE94HJUT> do we have the gateworks boards for the s0 ground stations for the idiq yet?"
     }
   ],
-  "last_full_rebuild": "2026-06-01T08:53:47Z",
+  "last_full_rebuild": "2026-06-02T09:04:04Z",
   "last_incremental_update": null
 }

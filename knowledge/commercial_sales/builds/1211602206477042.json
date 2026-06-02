@@ -29,7 +29,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "USAF WC-130J Weather Squadrons lead engineer (Russ Evans) and NOAA partners (Joe Cione, Elizabeth Sanabia) facility visit scheduled 30 April or 1 May 2026 to evaluate S0-AD drone integration for C-130 air-launch capability. Estimate sent; active DoD engagement with clear pathway to evaluation and potential CRADA/development contract. Slack coordination through 2026-05-21 confirms ongoing logistics planning with weather contingency (Saturday buffer noted). Email evidence 2026-02-25 confirms visit planning actively underway. Note: receive_by date (2026-05-01) appears to be facility visit date, not delivery deadline.",
+  "notes": "USAF WC-130J Weather Squadrons lead engineer (Russ Evans) and NOAA partners (Joe Cione, Elizabeth Sanabia) facility visit scheduled 30 April or 1 May 2026 to evaluate S0-AD drone integration for C-130 air-launch capability. Active DoD engagement with clear pathway to evaluation and potential CRADA/development contract. Estimate sent; Slack coordination through 2026-05-21 confirms ongoing logistics planning.",
   "missing_fields": [
     "ship_to",
     "invoice_number",

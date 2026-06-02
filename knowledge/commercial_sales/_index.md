@@ -1,22 +1,23 @@
 # Commercial Sales — Pipeline Index
 
-_Last scanned 2026-06-01 03:09_
+_Last scanned 2026-06-02 03:19_
 
-## Builds (19)
+## Builds (17)
 
 | Customer | Receive By | Payment | Build | Ship | Asana |
 |----------|------------|---------|-------|------|-------|
-| CU Boulder IRISS | — | paid | complete | delivered | `1214252346819631` |
 | University of Colorado Boulder | 2026-08-31 | estimate_sent | none | none | `1213756777376150` |
 | Oklahoma State University | 2026-04-24 | estimate_sent | none | none | `1208758724978276` |
 | USAF SOCOM | 2026-10-30 | estimate_sent | none | none | `1211537088605200` |
 | DoW | — | estimate_sent | none | none | `1211892779240607` |
 | USAF 53rd Weather Squadron (WC-130J) | 2026-05-01 | estimate_sent | none | none | `1211602206477042` |
 | National Oceanography Centre (NOC) | 2026-05-15 | estimate_sent | none | none | `1212982512191690` |
+| NOAA | 2028-05-01 | estimate_sent | none | none | `1213688340764301` |
 | Canadian Rangers (via NexTech Solutions) | 2026-08-31 | estimate_sent | none | none | `1213710771915193` |
 | Canadian Rangers (via NexTech Solutions) | 2026-06-25 | estimate_sent | none | none | `1214795652219550` |
-| UC Santa Cruz Ocean Sciences | — | estimate_sent | none | none | `1210367257543500` |
+| UC Santa Cruz Ocean Sciences | 2026-07-18 | estimate_sent | none | none | `1210367257543500` |
 | Michigan Technological University | — | estimate_sent | none | none | `1210812587995014` |
+| Murray State University | 2025-10-31 | paid | none | none | `1210051293340204` |
 | NASA Ames Research Center | 2026-09-30 | paid | in_assembly | none | `1210367258005710` |
 | University of Colorado | 2026-08-31 | estimate_sent | none | none | `1208185314692566` |
 | Embry-Riddle Aeronautical University | 2026-08-31 | paid | in_qc | none | `1205971100510799` |

@@ -1,86 +1,62 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 237 emails (231 previous + 6 new data)
-- **Date range:** 24 May – 1 June 2026
-- **Volume:** Sustained ultra-high-velocity activity through 1 June; 15+ daily messages on key days
-- **Trend:** Crisis mode sustained through weekend into Monday (1 June); military operations acceleration continuing; investment/legal finalization in final stages; secondary research & vendor coordination streams active
+- **Total messages scanned:** 280 emails (237 previous + 43 new data)
+- **Date range:** 24 May – 2 June 2026
+- **Volume:** Sustained ultra-high-velocity activity; 20+ daily messages on peak days (1 June: 35+ messages)
+- **Trend:** Crisis mode persisting through early Tuesday (2 June); military operations decision-making accelerating toward NORTHCOM meeting (3 June); investment finalization in final stages; vendor/partner coordination intensifying
 
 ---
 
 ## Key Correspondents
 
-### Top Senders (updated)
-1. **Jack Elston** (elstonj@blackswifttech.com) — internal operational hub; **continues IMPORTANT flags (1 June: 2 new messages)**; legal/investment coordination, military ops decision-making, MHP data alignment, TABA status tracking
-2. **Beck Cotter** (beck.cotter@blackswifttech.com) — internal military operations lead; Arctic Edge 2027 real-time coordination; NORTHCOM/SOCOM liaison; cc'd on TABA status updates (31 May)
-3. **Nadia Bryan** (nbryan@kofirm.com) — Ko Firm legal counsel; investment finalization urgency
-4. **Ryan Sykora** (rsykora@kofirm.com) — Ko Firm counsel; **continues updates** (31 May unread IMPORTANT); likely final investment/legal phase
-5. **Paul Reasor** (paul.reasor@noaa.gov) — NOAA Federal; TDR/CAT flight data coordination
-6. **Jun Zhang** (jun.zhang@noaa.gov) — NOAA Affiliate; TDR data technical coordination
-7. **Tanay Topac** (tanaytopac@stanford.edu) — Stanford; **MHP data alignment continues** (1 June: IMPORTANT message to Jack Elston); ongoing research partnership
-8. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — internal technical/military liaison; **escalated activity** (31 May: IMPORTANT BST-EMASS Project closeout to NanoVeu team)
-9. **Ed Kase** (ed.kase@ekaseconsulting.com) — **NEW PRIMARY CONTACT** (31 May: 2 IMPORTANT messages); TABA project status tracker; cc'd to Beck Cotter, Jack Elston, Maciej Stachura, Daniel Prendergast
-10. **US Military Contacts (unchanged):** Patricia A. Vollmer (NORAD-USNC), Angel R. Ruiz-Reyes (Navy NAWCAD), Anthony D. Brescia (Navy NAWCAD), Kevin W. Saunders (SOCOM SOCNORTH)
-11. **Krateo Sky** (Ariel Avitan, Bob Smith, Sona Raziabeegum) — camera/integration partner
-12. **Atmolab** (Jure Dolinar) — camera system support
-13. **Capital Factory** (Jamie Serio) — investment coordination
-14. **ByLight** (Bryan Sparling) — sensor/product vendor
-15. **Toggl Track** (support@track.toggl.com) — **NEW AUTOMATED CONTACT** (1 June); time tracking/project management tool; appears to be automated status update (category_updates)
+### Top Senders (updated with new data)
+1. **Jack Elston** (elstonj@blackswifttech.com) — **HIGHEST VOLUME** internal operational hub; 8+ new messages in latest batch; legal/investment finalization urgency (Ko Firm coordination), military ops (S0/Arctic Edge 2027), vendor management (Krateo Sky investment memorandum), commercial foundations engagement
+2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **ESCALATED ACTIVITY** (4 new messages); military liaison, BST-EMASS project closeout coordination with NanoVeu, camera vendor coordination (Krateo Sky, Atmolab), site survey requirements tracking (Navy NAWCAD), Arctic UAS onboarding materials distribution
+3. **Beck Cotter** (beck.cotter@blackswifttech.com) — Arctic Edge 2027 operational coordination; NORTHCOM meeting organizer (Patricia Vollmer, 3 June 2:30pm–3:15pm MDT); Google Docs collaboration on "Runtime Assured A..." document; Lockheed Martin supplier database registration
+4. **Ryan Sykora** (rsykora@kofirm.com) — **SUSTAINED LEGAL FINALIZATION** (5+ new messages); investment "Updates" stream with Jack Elston; punch list items; domain info; Ko Firm counsel continuing final investment stages
+5. **Angel R. Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil) — **NEW ESCALATION** Navy NAWCAD; S0 MAD (Modularity/Architecture/Deployment?) update coordination; real-time back-and-forth (3 exchanges 1 June); critical military liaison
+6. **Bob Smith** (Bob@krateosky.com) — Krateo Sky integration partner; **CRITICAL VENDOR ISSUE**: camera invoices (5+ messages, all IMPORTANT); invoice/payment resolution urgent; Atmolab camera support coordination
+7. **Sona Raziabeegum** (sona@krateosky.com) — Krateo Sky; **investment memorandum coordination** (2 messages from Maciej with bio requests); KrateoSky Investment Memorandum active
+8. **Ariel Avitan** (Ariel@krateosky.com) — Krateo Sky commercial strategy; "Commercial Foundations visit" discussion (2 messages, both IMPORTANT)
+9. **Nadia Bryan** (nbryan@kofirm.com) — Ko Firm counsel; investment potential coordination with Capital Factory
+10. **Anthony D. Brescia** (anthony.d.brescia.civ@us.navy.mil) — Navy NAWCAD; NE27 (Northeast Arctic 2027?) site survey requirements tracking; cc'd to Beck Cotter, Jack Elston, Maciej Stachura, Daniel Prendergast, Angel Ruiz-Reyes
+11. **Patricia A. Vollmer** (patricia.a.vollmer.civ@mail.mil) — NORAD-USNC; Arctic Edge 27 (AE27) NORTHCOM meeting invitation (3 June 2:30pm–3:15pm MDT)
+12. **Daniel Hesselius** (daniel.hesselius@halo-aero.com) — **NEW EXTERNAL CONTACT** (1 June, IMPORTANT); contract work introduction; coordinating with Kareem Ahmed (BST internal)
+13. **Kareem Ahmed** (kareem.ahmed@blackswifttech.com) — **NEW INTERNAL CONTACT**; contract work liaison; introduction to Daniel Hesselius (Halo Aero)
+14. **Jure Dolinar** (jure.dolinar@atmolab.eu) — Atmolab camera system support; coordination with Krateo Sky on camera implementation
+15. **Mark Goranson, Scott Smyser, Tom Wilp, Mohamed Sabry** (NanoVeu) — BST-EMASS Project scope closeout technical team
+16. **Domenico Potorti** (Domenico.Potorti@fticonsulting.com) — **NEW EXTERNAL CONTACT** (1 June, IMPORTANT); "Black Swift Final Industrial Plan" discussion; FTI Consulting
+17. **Lockheed Martin** (notifications@e.zivio.net) — **INFRASTRUCTURE SIGNAL**: Approved Supplier Database registration; Beck Cotter email verification (suggests LM contract/supplier relationship building)
+18. **Google Calendar/Docs** — Automated meeting notifications; collaborative document editing (Runtime Assured A..., DAF Agile EW Tech...)
 
-### New Vendors/Contacts (1 June data)
-- **NanoVeu** (Mark Goranson, Scott Smyser, Tom Wilp, Mohamed Sabry, Nikhila Ravikumar, Sergio Ruocco) — **NEW PROJECT STREAM** (31 May); BST-EMASS Project collaboration; technical team coordination with Daniel Prendergast
+### Previous Key Contacts (sustained)
+- US Military: Kevin W. Saunders (SOCOM SOCNORTH), Patricia A. Vollmer (NORAD-USNC)
+- Stan ford: Tanay Topac (MHP data alignment)
+- NOAA: Paul Reasor, Jun Zhang (TDR/CAT flight data)
+- Capital Factory: Jamie Serio (investment coordination)
+- ByLight: Bryan Sparling (sensor vendor)
+- Ed Kase Consulting: Ed Kase (TABA project status)
 
 ### Internal vs External (Updated)
-- **Internal:** ~20% (Jack Elston, Beck Cotter, Daniel Prendergast, Joshua Fromm, Meredith Needham, Paige Smith)
-- **External:** ~80% (US Military: NORAD, Navy NAWCAD, SOCOM; Krateo Sky; Atmolab; Ko Firm legal; Stanford; NOAA Federal/Affiliate; ByLight; Capital Factory; Ed Kase Consulting; NanoVeu; Air Sea Containers; EG Proposal Management; Toggl Track)
+- **Internal:** ~18% (Jack Elston, Beck Cotter, Daniel Prendergast, Kareem Ahmed, Joshua Fromm, Meredith Needham, Paige Smith)
+- **External:** ~82% (US Military: NORAD, Navy NAWCAD, SOCOM; Krateo Sky; Atmolab; Ko Firm legal; NanoVeu; Halo Aero; FTI Consulting; Lockheed Martin; Capital Factory; Ed Kase Consulting; NOAA; Stanford)
 
 ---
 
 ## Topic Patterns
 
-### **🚨 ARCTIC EDGE 2027 — MILITARY OPERATIONS ACCELERATION** ⚡⚡⚡ *HIGHEST URGENCY*
-- **Subject line:** **(U) Black Swift S0 VTOL UAS Weather Data Collection Proposal for Arctic Edge 2027**
-- **Status:** NORTHCOM meeting scheduled 3 June 2:30pm–3:15pm MDT with Patricia Vollmer (NORAD-USNC), Beck Cotter, Maciej Stachura, Daniel Prendergast, Kevin Saunders (SOCOM), Jack Elston
-- **Platform:** **S0™ VTOL** (trademarkable weather intelligence platform)
-- **Participants:** Black Swift (Jack Elston, Beck Cotter, Maciej Stachura, Daniel Prendergast); US Military (NORAD-USNC, SOCOM SOCNORTH, US Navy NAWCAD)
+### **🚨 ARCTIC EDGE 2027 / AE27 — MILITARY OPERATIONS CRITICAL PHASE** ⚡⚡⚡ *HIGHEST URGENCY*
+- **Subject lines:**
+  - **(U) Invitation: AE27 discussion BST/NORTHCOM @ Wed Jun 3, 2026 2:30pm - 3:15pm (MDT)** — Patricia A. Vollmer (NORAD-USNC)
+  - **S0 - MAD update** (3 exchanges 1 June with Angel Ruiz-Reyes, Navy NAWCAD)
+  - **NE27 Site Survey Requirements - Due NLT Friday, 29 May** (Anthony Brescia, Navy NAWCAD)
+  - **Arctic UAS Onboarding Materials | June 25/26** (Daniel Prendergast, 1 June)
+  - **LM/Black Swift Technologies MAD UAV Discussion @ Mon Jun 1, 2026 9am - 10am (MDT)** (calendar notification; Lockheed Martin coordination)
 
-### **🔵 TABA PROJECT — NEW ESCALATION** ⚡
-- **Subject lines:** "TABA status through May" (31 May, marked IMPORTANT)
-- **Key players:** Ed Kase (ekaseconsulting.com) — external project coordinator; cc'd to Beck Cotter, Jack Elston, Maciej Stachura, Daniel Prendergast
-- **Status:** Monthly status updates through May 2026; appears to be active project tracking with external consulting firm
-- **Significance:** Multiple IMPORTANT flags suggest critical project phase
+- **Key participants:** Patricia Vollmer (NORAD-USNC), Beck Cotter, Maciej Stachura, Daniel Prendergast, Kevin Saunders (SOCOM SOCNORTH), Jack Elston, Angel Ruiz-Reyes (Navy NAWCAD), Anthony Brescia (Navy NAWCAD)
+- **Platform:** **S0™ VTOL** (weather intelligence system; "MAD" = Modularity/Architecture/Deployment concept)
+- **Status:** NORTHCOM decision meeting scheduled 3 June; site survey requirements finalized; onboarding materials prepared for June 25/26; Lockheed Martin MAD/UAV discussion (1 June 9am)
+- **Significance:** Transition from proposal to operational readiness phase; LM coordination suggests prime contractor engagement or integration requirement
 
-### **📊 MHP DATA ALIGNMENT — ONGOING RESEARCH**
-- **Subject:** "Re: MHP data alignment" (1 June, IMPORTANT from Tanay Topac to Jack Elston)
-- **Participants:** Tanay Topac (Stanford), Jack Elston, Maciej Stachura
-- **Status:** Continued collaboration; data/research partnership active
-
-### **⚙️ BST-EMASS PROJECT — TECHNICAL IMPLEMENTATION**
-- **Subject:** "BST-EMASS Project Initial Scope Closeout" (31 May, IMPORTANT)
-- **Coordinator:** Daniel Prendergast
-- **Partner:** NanoVeu team (Mark Goranson, Scott Smyser, Tom Wilp, Mohamed Sabry, Nikhila Ravikumar, Sergio Ruocco)
-- **Status:** Scope closeout phase; technical integration milestone approaching
-
-### Investment/Legal Finalization (ongoing)
-- Ko Firm counsel (Nadia Bryan, Ryan Sykora, Niki Schwab) tracking final stages through early June
-- Capital Factory (Jamie Serio) venture capital coordination
-
-### Secondary Streams
-- **NOAA Research:** TDR/CAT flight data analysis (Paul Reasor, Jun Zhang)
-- **Krateo Sky Integration:** Camera system orchestration (Ariel Avitan, Bob Smith, Sona Raziabeegum)
-- **Atmolab Support:** Camera system technical integration (Jure Dolinar)
-- **Time Tracking:** Toggl Track automated updates (project management tool in use)
-
----
-
-## Communication Patterns
-
-### Time Patterns
-- **Weekend activity sustained:** 31 May (Sunday) and 1 June (Monday early morning) messages indicate crisis mode/high-priority project phases
-- **Sunday evening surge:** 31 May 15:11–21:18 UTC (multiple IMPORTANT messages); escalation through weekend
-- **Early Monday:** 1 June 06:49–06:54 UTC (early morning emails); continuous operational tempo
-
-### Message Types
-- **IMPORTANT flags:** Heavily concentrated on military ops (Arctic Edge 2027), investment finalization (Ko Firm), TABA project status, technical milestones (BST-EMASS closeout)
-- **Automated/Tool notifications:** Toggl Track (no subject line, category_updates) — time tracking tool in active use
-- **Group coordination:** Large distribution lists (NORAD-USN
+### **

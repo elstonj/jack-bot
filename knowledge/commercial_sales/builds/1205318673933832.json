@@ -49,7 +49,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "STEP 1 KEEP OVERRIDE: QBO invoice #1667 (paid 2025-05-07, $21,181.81) is authoritative. Asana task notes (Josh Wadler 2026-06-13) reference a DIFFERENT grant proposal that was not funded \u2014 background only, does NOT apply to this invoice #1667 build. Current build is ACTIVE: Kevin Adkins confirmed ISARRA Flight Week Aug/Sept 2026 delivery need (2026-05-19); Jack Elston agreed to aim for that date and ship to ISARRA site (2026-05-21). Beck provided bug-resolution and flight-testing status (2026-03-17). Currently in QC per Slack (2026-05-20). Receive-by 2026-08-31 reconfirmed. Note: separate unpaid invoice #1730 ($2,462.50) exists on same customer account for a different project; primary VTOL build (invoice #1667) is paid and active.",
+  "notes": "STEP 1 KEEP OVERRIDE: QBO invoice #1667 (paid 2025-05-07, $21,181.81) is authoritative. Asana task notes (Josh Wadler 2026-06-13) reference a DIFFERENT unfunded grant proposal \u2014 background only, does NOT apply to this invoice #1667 build. Current build is ACTIVE: Kevin Adkins confirmed ISARRA Flight Week Aug/Sept 2026 delivery need (2026-05-19); Jack Elston agreed to aim for that date and ship to ISARRA site (2026-05-21). Beck provided bug-resolution and flight-testing status (2026-03-17). Currently in QC per Slack (2026-05-20). Receive-by 2026-08-31 reconfirmed. Note: separate unpaid invoice #1730 ($2,462.50) exists on same customer account for a different project; primary VTOL build (invoice #1667) is paid and active.",
   "missing_fields": [
     "shipped_date",
     "tracking_number"

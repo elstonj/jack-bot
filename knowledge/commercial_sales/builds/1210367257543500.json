@@ -4,7 +4,7 @@
   "customer": "UC Santa Cruz Ocean Sciences",
   "customer_contact": "Tim Handley, Xavier Prochaska, Robert Wandel",
   "customer_email": "thandley@ucsc.edu",
-  "receive_by": null,
+  "receive_by": "2026-07-18",
   "ship_to": null,
   "items": [
     {
@@ -33,13 +33,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "UC Santa Cruz Ocean Sciences actively engaged on S2 and S3 platforms via Kevin Rozmiarek referral. Site visit from Xavier Prochaska, Tim Handley, and Alex Terrazas planned for July 17-18 (not yet confirmed). Robert Wandel technical inquiry 2026-05-18 about QGroundControl/FMS software compatibility; Jack Elston provided detailed technical response on mavlink support and SwiftTab flight planning, indicating ongoing substantive technical engagement and strong sales momentum. Estimate sent; pending customer decision and visit confirmation.",
+  "notes": "UC Santa Cruz Ocean Sciences actively engaged on S2 and S3 platforms via Kevin Rozmiarek referral. Site visit from Xavier Prochaska, Tim Handley, and Alex Terrazas planned for July 17-18, 2026 (confirmation pending). Robert Wandel technical inquiry 2026-05-18 about QGroundControl/FMS software compatibility; Jack Elston provided detailed technical response on mavlink support and SwiftTab flight planning, indicating ongoing substantive technical engagement and strong sales momentum. Estimate sent; pending customer decision and visit confirmation.",
   "missing_fields": [
-    "receive_by",
     "ship_to",
     "estimate_date",
     "invoice_date",
     "invoice_amount"
   ],
-  "last_evidence_date": "2026-05-20"
+  "last_evidence_date": "2026-06-01"
 }

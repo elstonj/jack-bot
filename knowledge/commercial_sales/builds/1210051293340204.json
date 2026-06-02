@@ -1,0 +1,41 @@
+{
+  "asana_gid": "1210051293340204",
+  "asana_task_name": "[Q1347] Murray State University-S2 Rentals x 12 days (quote for NASA proposal)",
+  "customer": "Murray State University",
+  "customer_contact": "Dr. Bassil El Masri",
+  "customer_email": "belmasri@murraystate.edu",
+  "receive_by": "2025-10-31",
+  "ship_to": "",
+  "items": [
+    {
+      "description": "12\u00d7 S2 Aircraft Rental",
+      "quantity": 12
+    },
+    {
+      "description": "Survey Services",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "paid",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": "2025-12-17",
+  "invoice_amount": null,
+  "invoice_number": "1728",
+  "paid_date": "2025-12-17",
+  "parts": [],
+  "tracking_number": "",
+  "carrier": "",
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Multi-trip S2 rental project for CH4 emissions monitoring at Murphy's Pond, Kentucky (part of NASA-funded research grant). Trip #2 invoiced and paid Dec 17, 2025. Remaining trips scheduled late Jun 2026 per Slack 5/20/26. Dr. Masri inquired Jan 20, 2026 about cost for final flights.",
+  "missing_fields": [
+    "ship_to"
+  ],
+  "last_evidence_date": "2026-05-20"
+}

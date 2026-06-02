@@ -1,69 +1,74 @@
 # Beck Cotter — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 162 (153 from prior periods + 9 new)
-- **Date range covered:** 24 May 2026 – 31 May 2026
-- **Volume pattern:** Sustained weekend intensity (31 May shows 9 messages); DAF Agile EW proposal development accelerating with 5 Google Docs notifications on 31 May alone; external consulting and government coordination continuing through weekend
+- **Total messages scanned:** 185 (162 prior + 23 new)
+- **Date range covered:** 24 May 2026 – 2 Jun 2026
+- **Volume pattern:** Sustained high-intensity activity continues into early June; 2 Jun shows early-morning Google Docs collaboration (00:19, 00:56); 1 Jun shows concentrated multi-stream coordination (13 messages spanning government, contractor, and supplier engagement); weekend-into-weekday momentum sustained
 
 ## Key Correspondents
 
 ### Senders (who emails Beck most)
-- **Jack Elston** (elstonj@blackswifttech.com) — 22+ messages (primary internal hub; task management; now forwarding NSF SBIR/STTR opportunities)
-- **Arthur Shune (Google Docs)** (comments-noreply@docs.google.com) — **5 new notifications 31 May** (DAF Agile EW Technical proposal; real-time collaborative editing; design/requirements decision points flagged with @mentions; 2 marked IMPORTANT)
-- **Patricia A. Vollmer** (patricia.a.vollmer.civ@mail.mil) — 6 messages (NORAD-USNC Arctic Edge 2027; meeting confirmed Jun 3)
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 7+ messages (DAF Agile EW; Arctic Edge proposal coordination)
-- **Ed Kase** (ed.kase@ekaseconsulting.com) — **1 new message** (TABA status update; sent to Beck, Jack Elston, Maciej Stachura, Daniel Prendergast; marked IMPORTANT; external program consultant/advisor)
-- **Kevin W. Saunders** (kevin.w.saunders.ctr@socom.mil) — 3 messages (USSOCOM SOCNORTH; Arctic Edge 2027)
-- **Maciej Stachura** (stachura@blackswifttech.com) — 6+ messages (Arctic Edge; NE27 Site Survey)
-- **Chidong Zhang** (chidong.zhang@noaa.gov) — 1 message (NOAA; S0™ VTOL Discussion; marked IMPORTANT)
-- **Arthur Berthe-Poirot** (arthur.berthe-poirot@mail.mcgill.ca) — **1 new message** (McGill University; UAS cold weather conditions research inquiry; forwarded to info@blackswifttech.com; suggests inbound technical interest)
-- **Anthony D. Brescia** (anthony.d.brescia.civ@us.navy.mil) — 1 message (US Navy NAWCAD; NE27 requirements; marked IMPORTANT)
+- **Jack Elston** (elstonj@blackswifttech.com / Google Docs) — **27+ messages cumulative** (primary internal hub; now active in Google Docs comment threads on Runtime Assured Autonomy; early morning 2 Jun collaboration at 00:19, 00:56)
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com / Google Docs) — **9+ messages cumulative** (DAF Agile EW technical proposal; Google Docs @mentions indicating decision points; 1 Jun shows 2 DAF Agile EW comment notifications)
+- **Maciej Stachura** (stachura@blackswifttech.com / Google Docs) — **8+ messages cumulative** (Arctic Edge; NE27 Site Survey completion confirmed; Google Docs Schedule_2_Existing thread 1 Jun 16:20)
+- **Arthur Shune** (arthur@skymesasystems.com) — **6+ messages cumulative** (SkyMesa Systems; **Phase I budget discussion escalated 1 Jun**; marked IMPORTANT; direct back-and-forth 13:59 and 19:51 indicates active contractor negotiation cycle)
+- **Patricia A. Vollmer** (patricia.a.vollmer.civ@mail.mil) — **7+ messages cumulative** (NORAD-USNC Arctic Edge 2027; **formal meeting invitation confirmed for Wed 3 Jun 2:30pm–3:15pm MDT**; marked IMPORTANT; calendar lock-in imminent)
+- **Brackenridge, Alasdair** (alasdair.brackenridge@global.lmco.com) — **NEW key contact** (Lockheed Martin UK; LM/BST MAD UAV Project weekly sync; marked IMPORTANT; 1 Jun 15:42 indicates ongoing partnership coordination)
+- **Anthony D. Brescia** (anthony.d.brescia.civ@us.navy.mil) — **2+ messages** (US Navy NAWCAD; NE27 Site Survey sign-off; marked IMPORTANT; cc'd to Beck, Jack Elston, Maciej Stachura, Daniel Prendergast; approval chain confirmation)
 
 ### Recipients (who Beck emails most)
-- **Jack Elston** — 7+ sent (forwarding, coordination)
-- **Patricia A. Vollmer (NORAD-USNC)** — 2 sent (proposal confirmation, meeting acceptance)
-- **Kevin W. Saunders (USSOCOM)** — 2 sent (Arctic Edge responses)
-- **Maciej Stachura** — 4 sent (NE27 forwarding, proposal distribution)
-- **Daniel Prendergast** — 4 sent (Arctic Edge/NE27 coordination)
-- **Chidong Zhang (NOAA)** — 1 sent (S0™ VTOL response)
-- **Paige Smith** — 1 sent (media inquiry handoff)
+- **Arthur Shune (SkyMesa Systems)** — 2 sent (Phase I budget negotiation; 1 Jun 12:21, 13:59)
+- **Lockheed Martin UK supplier database** — 2 sent (compliance/certification: Cyber Essentials documentation, ISO 9001 certification status; 1 Jun 10:45, 10:15)
 
 ### Internal vs External
-- **Internal:** Jack Elston, Daniel Prendergast, Maciej Stachura, Joshua Fromm, Meredith Needham, Paige Smith
-- **Government/Defense (active concurrent streams):**
-  - **NORAD-USNC**: Patricia Vollmer — Arctic Edge 2027 (meeting Jun 3 confirmed)
-  - **USSOCOM SOCNORTH**: Kevin Saunders — Arctic Edge 2027 multi-stakeholder coordination
-  - **US Navy NAWCAD**: Anthony Brescia, Angel Ruiz-Reyes — NE27 Site Survey (deadline met 29 May)
-  - **US Navy COMPACFLT**: Mark Unger — cc'd requirements coordination
-  - **NOAA Federal**: Chidong Zhang — S0™ VTOL technical engagement
-- **Commercial/Defense Contractors:**
-  - **SkyMesa Systems**: Arthur Shune — **CRITICAL INTENSITY CONTINUING**; 5 Google Docs notifications 31 May; active design/requirements discussions with @mentions; 2 marked IMPORTANT; proposal development momentum sustained
-  - **TheAIG Inc.**: Chad Atwood — employee benefits administration
-  - **EG Proposal Management**: Emmanuel Gorce — external proposal consultant (DoD strategy guidance)
-- **Academic/Research:**
-  - **McGill University**: Arthur Berthe-Poirot — **NEW contact**; cold weather UAS research/technical inquiry; inbound interest
-- **External Advisors/Consultants:**
-  - **EK/ASE Consulting**: Ed Kase — **NEW message 31 May**; TABA program status updates; quarterly (or periodic) program reporting; marked IMPORTANT
-- **Automated/Newsletters:** MundoGEO (industry news), Asana task management, Google Docs collaboration
+
+**Internal:**
+- Jack Elston, Daniel Prendergast, Maciej Stachura, Joshua Fromm, Meredith Needham, Paige Smith
+
+**Government/Defense (active concurrent streams):**
+- **NORAD-USNC (Arctic Edge 2027):** Patricia Vollmer — meeting locked Wed 3 Jun 2:30–3:15pm MDT; briefing/decision phase imminent
+- **US Navy NAWCAD (NE27 Site Survey):** Anthony Brescia, Angel Ruiz-Reyes — NE27 requirements delivered and approved; Brescia circulating sign-off to full team 1 Jun
+- **USSOCOM SOCNORTH (Arctic Edge 2027):** Kevin Saunders — concurrent multi-stakeholder stream (prior correspondence continues)
+
+**Major Defense Contractor (NEW escalation):**
+- **Lockheed Martin UK Limited:** Alasdair Brackenridge, Neil Morphett, Dhruti Shah — **LM/BST MAD UAV Project weekly sync**; marked IMPORTANT; 1 Jun 15:42 indicates formal partnership governance cadence; supplier database compliance requirements triggered (Cyber Essentials, ISO 9001 verification 1 Jun)
+
+**Commercial/Defense Contractors:**
+- **SkyMesa Systems:** Arthur Shune — **Phase I budget negotiation escalating** (marked IMPORTANT; 1 Jun 19:51 from Shune indicates cost/scope iteration required; direct engagement pattern suggests contractor alignment critical for proposal finalization)
+- **TheAIG Inc.:** Chad Atwood
+- **EG Proposal Management:** Emmanuel Gorce
+- **EK/ASE Consulting:** Ed Kase
+
+**Suppliers/Vendors:**
+- **Dace Spandega (Perkonsen Energy)** — **NEW inbound** (custom battery solutions for UAVs; marked IMPORTANT; unsolicited vendor inquiry 1 Jun 08:25 suggests industry awareness of BST UAS platform)
+
+**Industry/Community:**
+- **Southwest Mission Acceleration Center (SWMAC)** — Newsletter subscriber (1 Jun 20:34)
+- **UASweekly.com** — Newsletter subscriber (1 Jun 21:01)
+
+**Automated/Newsletters:** UASweekly, SWMAC, Lockheed Martin supplier database notifications, DHL Express alerts, Google Docs
 
 ## Topic Patterns
 
 ### Active Proposals & Projects
-- **Arctic Edge 2027 (AE27) Proposal** — **CRITICAL PHASE** — Multi-stakeholder government coordination across NORAD-USNC (Patricia Vollmer), USSOCOM SOCNORTH (Kevin Saunders); confirmed in-person meeting Wed Jun 3, 2026 2:30pm–3:15pm (MDT); S0™ VTOL UAS Weather Data Collection application
-- **DAF Agile EW Technical Proposal** — **CRITICAL ESCALATION PHASE (31 May intensive activity)** — 5 Google Docs comment notifications indicating rapid design iteration; Arthur Shune (SkyMesa Systems) raising Phase I requirements/scope questions ("is this necessary for Phase I?"); technical volume refinement with active @mentions suggesting decision points requiring Beck/SkyMesa alignment; 2 marked IMPORTANT; proposal nearing submission readiness
-- **NE27 Site Survey Requirements** — **COMPLETED (29 May deadline met)** — US Navy NAWCAD deliverable fulfilled; forwarded to approval chain (Mark Unger COMPACFLT)
-- **S0™ VTOL Discussion** — Technical coordination supporting both Arctic Edge and NOAA engagement paths
-- **Runtime Assured Autonomy (RAA) Proposal** — Continues from prior period
-- **TABA Program** — **NEW visibility**; Ed Kase (external program consultant) provides quarterly/periodic status updates to Beck, Jack Elston, Maciej Stachura, Daniel Prendergast; marked IMPORTANT; suggests program-level tracking/reporting requirement
-- **Deliver S3 to UMES [031-1]** — Product delivery task with Asana management (Jack Elston, Meredith Needham)
-- **NSF SBIR/STTR Solicitation** — **NEW opportunity** forwarded by Jack Elston to Beck 31 May; suggests corporate opportunity pipeline activity; marked IMPORTANT
 
-### Emerging Technical Areas
-- **Cold Weather UAS Operations** — Arthur Berthe-Poirot (McGill) inquiry on "UAS cold weather conditions"; indicates incoming academic/research collaboration interest; relevant to Arctic Edge 2027 operational environment
+- **Arctic Edge 2027 (AE27) Proposal** — **DECISION PHASE** — Patricia Vollmer (NORAD-USNC) confirmed in-person meeting Wed 3 Jun 2:30–3:15pm MDT for "AE27 discussion BST/NORTHCOM"; marked IMPORTANT; briefing/approval cycle now active; S0™ VTOL UAS Weather Data Collection application; multi-stakeholder government coordination (NORAD-USNC, USSOCOM SOCNORTH, Navy)
 
-## Communication Patterns
+- **DAF Agile EW Technical Proposal** — **FINAL SUBMISSION PHASE** — Multiple Google Docs comment notifications (1 Jun 12:21, 12:22, 12:51); Daniel Prendergast raising @beck.cotter and @elstonj@blackswifttech.com with technical detail questions; active real-time design iteration continuing; proposal momentum sustained into early June
 
-- **Continuous weekend engagement (31 May):** 9 messages spanning 07:57–21:39 (14-hour window); DAF Agile EW proposal development maintains high tempo across full day; suggests critical submission deadline or customer review cycle imminent
-- **Real-time Google Docs collaboration:** Arthur Shune (SkyMesa) using Google Docs comments-noreply as primary mechanism for technical design discussion; @mentions indicating direct Beck/Arthur decision-making points; multiple same-day comment threads suggest synchronous or near-synchronous review cycle
-- **Government decision cycles:** Arctic Edge 2027 tracking multi-stakeholder approval; in-person meeting scheduled Jun 3 suggests briefing/decision phase imminent
-- **External consultant input patterns:** Ed Kase (TABA program) and Emmanuel
+- **Runtime Assured Autonomy (RAA) Proposal** — **ACTIVE COLLABORATION** — Jack Elston Google Docs comments 2 Jun (00:19, 00:56); @mentions from Jack raising proprietary information question ("None of this is proprietary - correct?"); early-morning engagement suggests final review/IP clearance cycle imminent; escalating from prior background activity
+
+- **NE27 Site Survey Requirements** — **COMPLETED & APPROVED** — Anthony Brescia (NAWCAD) circulated sign-off 1 Jun 10:56 confirming delivery acceptance; Maciej Stachura coordinating response 1 Jun 08:53; deliverable closure confirmed
+
+- **LM/BST MAD UAV Project** — **NEW FORMAL PARTNERSHIP ESCALATION** — Alasdair Brackenridge (LM UK) initiated weekly sync coordination 1 Jun 15:42; marked IMPORTANT; Daniel Prendergast cc'd; governance cadence established; supplier compliance requirements triggered (Cyber Essentials, ISO 9001 status queries sent same day 10:15, 10:45); indicates Lockheed Martin formal vendor engagement process underway; strategic partnership level activity
+
+- **TABA Program** — Continues from prior period
+
+- **Deliver S3 to UMES [031-1]** — Continues from prior period
+
+- **NSF SBIR/STTR Solicitation** — Opportunity pipeline tracking continues
+
+### Emerging Technical/Commercial Areas
+
+- **Phase I Budget Cycle** — Arthur Shune (SkyMesa) raised Phase I budget discussion 1 Jun 19:51 (marked IMPORTANT); Beck responded same day 13:59; contractor cost negotiation active; suggests Phase I proposal nearing final cost/scope alignment before submission
+- **Supplier
