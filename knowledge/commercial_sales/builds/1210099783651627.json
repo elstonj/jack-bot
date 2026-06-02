@@ -1,0 +1,49 @@
+{
+  "asana_gid": "1210099783651627",
+  "asana_task_name": "Barbados S0 VTOL",
+  "customer": "Barbados Meteorological Services",
+  "customer_contact": "Sabu Best",
+  "customer_email": "Sabu.Best@barbados.gov.bb",
+  "receive_by": "2026-06-23",
+  "ship_to": "Sabu Best\nBarbados Meteorological Services\nBarbados\n(hand-carried by Jack Elston)",
+  "items": [
+    {
+      "description": "S0 UAS - VTOL",
+      "quantity": 1
+    },
+    {
+      "description": "Operator training (6 people) + training materials and supplies",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "paid",
+  "build_state": "in_qc",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": "2024-02-01",
+  "invoice_amount": 22337.0,
+  "invoice_number": "1634",
+  "paid_date": "2024-02-01",
+  "parts": [
+    {
+      "name": "S0 VTOL airframe",
+      "ordered": true,
+      "received": false,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    }
+  ],
+  "tracking_number": null,
+  "carrier": "Hand-carry (Jack Elston)",
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Alex Lomis"
+  },
+  "notes": "Barbados S0 VTOL order (project [005-1] / 005_1, BARBADOS VTOL S0 and Training). Customer: Barbados Meteorological Services, Sabu Best (1-246-535-0016, Sabu.Best@barbados.gov.bb). Paid: QBO invoice #1634 paid Feb 2024; total funding to BST $22,337. Scope: 1x S0 VTOL + operator training for 6 people + training materials. Finished S0 VTOL to be handed off to Jack Elston on 2026-06-23 to hand-carry to Barbados (per Asana task 'Barbados S0 VTOL' / 'Handoff S0 to Jack on 23-Jun'). Decision made to leave the aircraft in Barbados rather than ship it back. Operator trainees: Junior Brathwaite, Brian Murray, Henderson Kellman, Andre Brathwaite, Jason Griffith, Alex Straughn. Radio: Microhard P900 (902–928 MHz ISM, unregulated band per Barbados PMO). Created 2026-06-02 from Asana + project registry evidence (was previously missing from the digest; distinct from the stale 'Barbados S2' lead, gid 1208758716061122).",
+  "missing_fields": [
+    "shipped_date"
+  ],
+  "last_evidence_date": "2026-06-02"
+}
