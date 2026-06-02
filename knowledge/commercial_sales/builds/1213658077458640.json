@@ -1,0 +1,68 @@
+{
+  "asana_gid": "1213658077458640",
+  "asana_task_name": "Build 2 x S3 for INSTAAR",
+  "customer": "University of Colorado (INSTAAR)",
+  "customer_contact": "Kevin Rozmiarek",
+  "customer_email": "Kevin.Rozmiarek@colorado.edu",
+  "receive_by": "2026-06-15",
+  "ship_to": null,
+  "items": [
+    {
+      "description": "S3 UAS",
+      "quantity": 2
+    },
+    {
+      "description": "S3 battery (treated as expendable between seasons)",
+      "quantity": 8
+    },
+    {
+      "description": "Wind probe",
+      "quantity": 2
+    }
+  ],
+  "payment_state": "paid",
+  "build_state": "in_qc",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": "2024-04-19",
+  "invoice_amount": 13853.1,
+  "invoice_number": "1618",
+  "paid_date": "2024-04-19",
+  "parts": [
+    {
+      "name": "S3 airframe (x2)",
+      "ordered": true,
+      "received": false,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    },
+    {
+      "name": "S3 battery (x8)",
+      "ordered": false,
+      "received": false,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    },
+    {
+      "name": "Wind probe (x2)",
+      "ordered": false,
+      "received": false,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    }
+  ],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "INSTAAR (Institute of Arctic and Alpine Research, CU Boulder) 2x S3 order — this is the order Jack referred to as 'IRISS 2x S3' (CU); evidence anchors it to INSTAAR Stable Isotope Lab, contact Kevin Rozmiarek. Project code [451]/451_1, total budget $120,000 (commercial, non-government). Funded: QBO invoice #1618 ($13,853.10) paid 2024-04-19 (deposit against the $120K order). 2x S3 + 8 batteries (expendable between seasons) + 2 wind probes for a follow-up to BST's Greenland (Summit/EGRIP) campaign. Active build: Asana 'Build 2 x S3 for INSTAAR' (Nate, due 2026-06-08), 'QC INSTAAR S3's' (Josh Fromm, due 2026-06-15), 'Schedule INSTAAR S3 training' (Dan Prendergast, due 2026-06-15). S3 flight/transition testing through Feb–May 2026; Beck sent test-flight video 2026-04-30 and the student payload project completed 2026-05-04. Created 2026-06-02 from Asana + Gmail + QBO evidence (was previously missing from the digest). Confirm final invoice/payment balance against the $120K order with Meredith.",
+  "missing_fields": [
+    "ship_to",
+    "invoice_amount (deposit only; confirm full-order balance)"
+  ],
+  "last_evidence_date": "2026-06-02"
+}
