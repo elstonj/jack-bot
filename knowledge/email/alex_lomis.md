@@ -1,113 +1,74 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 356 emails (346 from prior period + 10 new from 1 Jun)
-- **Date range:** 18 May – 1 Jun 2026 (15 days)
-- **Approximate volume:** Sustained high-velocity operational/logistics messaging with critical escalation 30–31 May; normalized to routine promotions/shipping alerts on 1 Jun. 1 Jun: ~10 emails (1 DHL duplicate, 1 invoice notification, 6 promotional alerts routed to purchasing@, 2 direct to alex.lomis@).
+- **Total messages scanned:** 411 emails (356 prior + 55 new from 1–2 Jun 2026)
+- **Date range:** 18 May – 2 Jun 2026 (16 days)
+- **Approximate volume:** Sustained high-velocity operational/logistics; **escalated** 1–2 Jun with critical government coordination (S0 MAD, S3 Canada) intersecting with 15+ procurement/shipment notifications daily. Administrative/promotional noise dominates message count (80%+); signal concentrated in ~8 human-originated emails and calendar invitations.
+
+---
 
 ## Key Correspondents
 
-### Internal Government/Military Project Coordination
-- **Maciej Stachura** — Sustained (prior: S0 MAD proposal coordination with Navy); **NEW:** Hertz rental contact 31 May suggests shared travel/logistics coordination
-- **Joshua Fromm, Daniel Prendergast, Ethan Domagala** — Sustained (Atmolab camera integration)
-- **Jack Elston** — Sustained purchasing role (battery orders)
+### Internal — Government/Military Project Leads (ESCALATED ACTIVITY)
+- **Maciej Stachura** (stachura@blackswifttech.com) — **ESCALATED:** Now appears as primary correspondent in **S0 MAD Navy coordination thread** (1 Jun 08:15, 10:28); sustained battery/purchasing liaison; also receives vendor alerts (Harbor Freight personalized promotions suggest shared account or forwarding)
+- **Daniel Prendergast** — Meeting organizer (S0 Build & S3 Canada Tasks, 1 Jun 17:42, Mon 2:30pm MDT)
+- **Joshua Fromm, Ethan Domagala** — Atmolab camera integration; appeared in meeting invitation
+- **Jack Elston** — Purchasing/battery procurement; **NEW:** Meeting organizer for S0 MAD update (2 Jun 9am MDT); now coordinating with external Navy stakeholders directly
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — **NEW:** Received forwarded DHL urgent delivery coordination (1 Jun 11:31); administrative/logistics support role
 
-### External Government/Military
-- **Angel R. Ruiz-Reyes (CIV USN NAWCAD)** — Last contact 29 May; awaiting response
+### External — Government/Military (CRITICAL ESCALATION)
+- **Angel R. Ruiz-Reyes (CIV USN NAWCAD)** (angel.r.ruiz-reyes.civ@us.navy.mil) — **ESCALATED TO ACTIVE THREAD:** Now in direct 4-message exchange with Maciej Stachura (1 Jun 10:28, 12:51; Maciej initiated 08:15). Subject: "RE: [Non-DoD Source] Re: S0 - MAD update" — indicates classified/sensitive DoD communication protocol
+- **Navy stakeholders (distribution list, 2 Jun meeting):** simon.laurence157@mod.gov.uk (UK MOD), kristen.a.mitchell12.civ@us.navy.mil, anthony.d.brescia.civ@us.navy.mil, marc.r.christino.ctr@us.navy.mil — **NEW:** International/multi-agency coordination visible; suggests S0 MAD has UK/NATO partner involvement
+- **Lonnie Roy** (lonnie@nwproductionsource.com) + **Chip Jameson** (chip@nwproductionsource.com) — **NEW VENDOR RELATIONSHIP:** "Black Swift Technologies<->NWPS Intro" thread (1 Jun 12:11); marked IMPORTANT; substantive vendor engagement (likely component/manufacturing supplier)
 
-### External Logistics/Shipping (CONTINUED ACTIVITY)
+### External Logistics/Shipping (CONTINUED + NEW CRITICAL SIGNALS)
+**DHL Express — UNRESOLVED DEADLOCK CONTINUES & ESCALATES**
+- **Tracking #4789316906:** 12th duplicate notification on 2 Jun 06:32 MYT (via purchasing@); + **NEW ADC documentation support alerts** (1 Jun 19:21, 01:25 2 Jun) requesting customs clearance documentation
+- **Tracking #3812290101:** **NEW SECONDARY SHIPMENT** with parallel duplicate notifications (2 Jun 06:32 MYT); also generating ADC support documentation requests (1 Jun 19:36)
+- **DHL Payment Receipts:** TWO payment confirmations (1 Jun 17:34, 17:20 UTC) routed to purchasing@ — **SIGNAL:** Payment resolved on 1 Jun; import duty bottleneck cleared; but **duplicate automated notifications persist** (system glitch or port processing loops)
+- **Direct forwarding to Meredith Needham:** DHL "On Demand Delivery" alert (1 Jun 17:31) flagged IMPORTANT and forwarded by Alex (11:31) — indicates physical delivery logistics coordination needed; likely awaiting customs release for time-sensitive component(s)
 
-**DHL Express — ONGOING CRITICAL SIGNAL**
-- **Tracking #4789316906:** Continues generating duplicate notifications through 1 Jun
-  - 1 Jun 10:01 UTC (MYT): Another shipment notification; **10th duplicate alert on same tracking number**
-  - **Pattern sustained:** Asia-Pacific customs clearance bottleneck unresolved; shipment still in transit/processing
-  - **Implication:** High-value component remains delayed; import duty payment issue likely unresolved (31 May "Last Reminder" remained UNREAD through 1 Jun)
+**DigiKey**
+- **NEW:** Two shipment notifications (1 Jun 17:29, 16:50 CDT); PO acknowledgement for Sales Order #99551398; Electronics component supplier active (likely microcontrollers, sensors, power management for Atmolab or S0 payload)
+
+**JawsTec Manufacturing**
+- **NEW:** High-activity vendor (4 emails 1 Jun 18:09–19:11 UTC)
+  - Order #69032: Payment requested, then REFUNDED same day (18:16, 18:24)
+  - Order #69038: Payment requested (19:11); order received acknowledged (19:11)
+  - **Signal:** Rapid order cycles; possible custom fabrication (PCB, enclosures, or metal components); refund suggests order modification/cancellation mid-cycle
+  - **Implication:** Time-sensitive custom parts; iteration/design changes in flight
 
 **Amazon.com** (via purchasing@)
-- 1 Jun 04:31 UTC — "Shipped: 4x Logitech K400 Plus Wireless..."
-- **Signal:** NEW vendor activity; bulk office equipment order (4 units); likely IT/workspace refresh unrelated to core hardware projects
+- **2 Jun 01:14:** Logitech K400 Plus (4x) DELIVERED (confirmed shipment from prior period)
+- **1 Jun 18:09:** ELEGOO Rapid PLA Plus (3D printer filament) ORDERED
+- **1 Jun 22:04:** Quick Release Plate, Camera (likely tripod/mounting hardware for payload testing)
+- **Signal:** Prototyping activity sustained; 3D printing + office equipment expansion ongoing
+
+**Amazon/ELEGOO (Direct)**
+- **1 Jun 13:01:** ELEGOO promotional email (direct to purchasing@ as "Alexis Lomis") — 3D printing subscription engagement
+
+**The Home Depot** (via purchasing@)
+- **1 Jun 18:07 (2x):** Security alert + verification code (18:07 UTC); **1 Jun 14:02:** Survey reminder
+- **Signal:** Purchasing account accessed; physical materials procurement (tools, structural components, supplies)
 
 **UPS** (via purchasing@)
-- 31 May 18:25 EDT — "Your Package Arrives Tomorrow"
-- **Signal:** Shipping notification; complementary to DHL/SendCutSend/FedEx ecosystem
+- 3 notifications (1 Jun 10:45, 14:45, 20:35 EDT) — "Your Package is Coming Today" / "Arrives Tomorrow" — complementary to DHL/DigiKey logistics ecosystem
 
-**GetFPV** (direct to alex.lomis@)
-- 31 May 14:11 UTC — "Have You Seen This New HD FPV System?" (marked IMPORTANT, flagged for personal review)
-- **Pattern sustained:** Direct personal engagement with FPV/camera component updates; Alex actively monitoring technical specs outside formal procurement
-
-### External Promotional/Vendor Subscriptions (ROUTED TO PURCHASING@)
-
-**NEW ON 31 MAY:**
-- **Hertz** — 31 May 13:17 CDT: "Action needed: Maciej, your license + card on file are expired"
-  - **CRITICAL:** Email subject references Maciej Stachura, NOT Alex Lomis
-  - **Signal:** Hertz alert forwarded/routed to purchasing@ (likely auto-forwarding or shared account); indicates **Maciej managing company vehicle rental accounts**; possible team travel/logistics coordination for field testing or Navy site visits
-- **Aloft Hobbies** — 31 May 15:31 UTC: "Loyal Customers - Limited Time Only!" (FPV/hobby vendor promotional)
-- **Budget Rental** — 31 May 10:05 CDT: "FLASH SALE" (rental car promotions)
-
-**SUSTAINED PROMOTIONAL NOISE:**
-- Harbor Freight, USPS Informed Delivery, Speedway Motors (prior period sustained)
+**Home-Related/Facility Vendors (NEW)**
+- **Neat N Tidy** (2 Jun 02:21) — "IMPORTANT! Your booking is coming up!" — facility cleaning/maintenance service; suggests BST facility refresh or field site prep
+- **Spindrift Market** (2 Jun 05:05) — Beverage/refreshment order confirmation — office/lab supply
 
 ---
 
 ## Topic Patterns
 
 ### Active Project Codes (Government/Classified)
-- **Arctic Edge 2027 VTOL** — Weather/environmental data collection platform
-- **S0 MAD Proposal** — Navy contract; sustained coordination with Stachura
+- **S0 MAD** — **PRIMARY ESCALATION:** Navy contract; now in active multi-party coordination with Angel Ruiz-Reyes (NAWCAD), international partners (UK MOD), and external Navy stakeholders; meeting scheduled 2 Jun 9am MDT; Maciej Stachura primary BST lead
+- **S3 Canada** — **NEW PROJECT VISIBLE:** Paired with S0 in "S0 Build and S3 Canada Tasks Discussion" meeting (1 Jun 2:30pm MDT); scope unclear but scheduled immediately after S0 MAD meeting — suggests sequential or parallel build/test cycles
+- **Arctic Edge 2027 VTOL** — Not visible in new metadata; may be parent program or distinct project
 
 ### Active Hardware Integration Projects
-- **Atmolab Camera System** — Atmospheric/thermal/spectral imaging payload
-- **FPV Systems & Optics** — **ESCALATED:** GetFPV alerts with "HD FPV System" language; Aloft Hobbies subscription; suggests secondary/alternative payload system exploration or backup camera optics
-- **Battery/Power Systems** — Procurement sustained
-- **Custom PCB/Fabrication** — PCBWay, SendCutSend, McMaster-Carr (prior period sustained; no new activity 1 Jun)
-
-### Component Categories Visible in Subject Lines
-- **Cameras/Optics:** Atmolab, GetFPV (HD FPV systems), Sony A5100 (eBay)
-- **Radio Control/Flight Systems:** Futaba 14SG (eBay), FPV transmit/receive systems
-- **Office Infrastructure:** Logitech K400 Plus wireless keyboards (bulk order, 4 units — suggests office expansion or hot-desking setup)
-
----
-
-## Communication Patterns
-
-### Time Zone Distribution
-- **UTC timezone:** GetFPV direct alert (14:11), USPS, Aloft Hobbies, Harbor Freight (14:44–15:31)
-- **MYT timezone (UTC+8):** DHL notification 1 Jun 10:01 (consistent with prior 30–31 May pattern)
-- **CDT/EDT (US business hours):** Hertz (13:17 CDT), UPS (14:25 EDT), Budget (10:05 CDT)
-- **Pattern:** Consistent MYT-stamped DHL activity; US rental car alerts shifted to weekend timing (31 May = Sunday)
-
-### Email Routing Patterns
-- **Direct to alex.lomis@blackswifttech.com:** GetFPV updates (personal/technical review); DHL import duty alert (31 May, account-holder responsibility)
-- **Routed to purchasing@blackswifttech.com:** ~85% of new logistics, vendor, and promotional emails; **NEW:** Hertz rental forwarded to purchasing@ (cross-team visibility for travel coordination)
-- **Misdirected/cross-team:** Hertz subject line addresses Maciej, routed to purchasing@ — suggests forwarding automation or shared mailbox monitoring
-
-### Automation & Alert Subscriptions
-- **GetFPV marketing:** Sustained with IMPORTANT flag (Alex subscribing to technical updates, not promotional)
-- **DHL tracking:** Continued automated duplicate notifications (unresolved system issue or customs processing loops)
-- **Rental car alerts:** NEW promotional activity (Hertz, Budget) via purchasing@ on 31 May suggests weekend travel planning or field trip coordination
-- **Amazon bulk order:** 4x Logitech K400 shipped 1 Jun (not mission-critical; office IT)
-
----
-
-## Key Relationships
-
-### Internal Collaboration Hierarchy (Updated 1 Jun)
-1. **Maciej Stachura** (stachura@blackswifttech.com) — Primary Navy/government contact; **NEW SIGNAL:** Manages company vehicle rentals (Hertz); likely field test coordinator or NAWCAD site visit lead
-2. **Joshua Fromm, Daniel Prendergast** — Sustained Atmolab camera co-leads
-3. **Jack Elston** — Purchasing/battery procurement
-4. **Ethan Domagala** — Atmolab integration team
-
-### External Relationships
-- **GetFPV (noreply@getfpv.com)** — Direct technical vendor contact; Alex actively monitoring new FPV/HD camera systems (elevated engagement vs. promotional subscriptions)
-- **DHL Asia-Pacific Gateway** — Mission-critical shipment bottleneck; unresolved import duty payment blocking component delivery
-
----
-
-## Notable Observations
-
-### Critical Unresolved Issues
-1. **DHL Tracking #4789316906 Deadlock:** 
-   - 10 duplicate notifications across 30 May – 1 Jun (spanning 2+ days)
-   - "Last Reminder" import duty payment alert (31 May) remained UNREAD through 1 Jun
-   - **Implication:** High-value Asia-sourced component (likely custom PCB from PCBWay or specialized hardware) stuck in customs; payment authorization bottleneck; urgency signal degrading (from IMPORTANT flag to routine duplicate notifications)
-   -
+- **Atmolab Camera System** — Sustained; team lead Daniel Prendergast + Joshua Fromm
+- **3D Printing/Rapid Prototyping** — **ESCALATED:** ELEGOO Rapid PLA ordered (1 Jun); suggests accelerated prototype builds for S0/S3 payloads
+- **Camera/Optics Mounting** — Quick Release Plate ordered (1 Jun); field testing/payload integration imminent
+- **Custom PCB/Fabrication** — JawsTec Manufacturing orders (#69032 refunded, #69

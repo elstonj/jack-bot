@@ -1,5 +1,5 @@
 # BST Financial Overview (QuickBooks)
-**Report Period:** May 31 – June 1, 2026
+**Period: June 1–2, 2026 | Data Range: April 2024 – September 2026**
 
 ---
 
@@ -7,54 +7,56 @@
 
 | Metric | Amount |
 |--------|--------|
-| **Total Revenue** (Invoices) | $4,405,611.64 |
-| **Total Expenses** (Bills/Purchases) | $2,402,426.77 |
-| **Net Income** | $2,003,184.87 |
-| **Outstanding Purchase Orders** | $2,532.00 |
+| **Total Revenue (Invoices)** | $4,405,611.64 |
+| **Total Expenses** | $2,409,555.45 |
+| **Net Income (Estimate)** | $1,996,056.19 |
 
-**Note:** The P&L snapshot (May 31–Jun 1) shows only IRAD expenses ($10,773.62), but full project data reveals substantially larger revenue and expense activity across the review period.
+*Note: P&L report shows $53,437.71 for June 1–2 only; project data reflects full historical period.*
 
 ---
 
 ## By Project/Class
 
-| Project | Revenue | Expenses | Net Position |
-|---------|---------|----------|--------------|
-| **Government** | $4,387,717.28 | $1,330,748.71 | **$3,056,968.57** |
-| **BST Internal** | $17,894.36 | $1,071,678.06 | **-$1,053,783.70** |
+| Project | Total Revenue | Total Expenses | Net Position | Status |
+|---------|---------------|----------------|--------------|--------|
+| **Government** | $4,387,717.28 | $1,330,956.34 | **+$3,056,760.94** | Profitable |
+| **BST Internal** | $17,894.36 | $1,078,599.11 | **-$1,060,704.75** | Loss (R&D intensive) |
 
-**Key Insight:** Government contracts are highly profitable. BST Internal operations are running at a significant loss, suggesting internal R&D or administrative costs exceed any internal revenue generation.
+**Analysis:** Government contracts generate strong positive returns. BST Internal operates at a loss, indicating significant internal R&D and infrastructure investment.
 
 ---
 
 ## Cash Flow Indicators
 
 ### Accounts Receivable (Outstanding)
-- **Government invoices outstanding:** $3,120,198.19 remaining across 75 active invoices
-- **BST Internal outstanding:** (data incomplete—review required)
-- **Total AR:** ~$3.1M+ (collection pending)
+- **Government invoices outstanding:** $3,120,406.82 (across 75 active invoices)
+- **BST Internal:** Limited detail; requires aging report
 
-### Recent Large Expenses
-- **IRAD-Indirect Subcontractor Exp:** $10,773.62 (most recent, June period)
-- BST Internal expenses dominate: $1,071,678.06 total
+### Recent Large Expenses (June 1–11, 2026)
+- **R&D (IRAD):** $17,827.40
+  - Indirect Subcontractor Expenses: $13,648.62
+  - Internal Research & Development: $4,178.78
+- **Tariff/Import Duties:** $660.91
+- **Shop Supplies:** $28.69
 
-### Purchase Orders Outstanding
-- **Government:** $832.00
-- **BST Internal:** $1,700.00 (Amprius PO #1038)
-- **Total:** $2,532.00
-
----
-
-## Data Limitations
-
-The provided QuickBooks export is **incomplete**:
-- Top Vendors and Top Customers tables cut off
-- BST Internal invoice details truncated
-- Full P&L context missing (report covers only 2-day snapshot)
-
-**Recommendation:** Export full-period P&L, Vendor Summary, and Customer Summary reports for complete financial analysis.
+### Outstanding Purchase Orders
+- BST Internal: $1,700.00 (PO #1038, Amprius)
+- Government: $832.00
 
 ---
 
-## Unclassified Transactions
-All transactions are classified to either **Government** or **BST Internal** projects. No unclassified activity detected.
+## Unclassified/Uncleared Items
+
+- **Billable Expense Income (June 1–2):** $72,000.00 — appears to be expense reimbursements, not project-specific revenue allocation
+- BST Internal project data shows 1,156 total transactions but detail breakdown incomplete
+
+---
+
+## Key Observations
+
+1. **Strong Government Portfolio:** $3.06M net positive; primary profit driver
+2. **Strategic Internal Investment:** BST Internal shows $1.06M cumulative loss, consistent with R&D-heavy operations
+3. **Collection Risk:** $3.12M in outstanding government receivables requires monitoring
+4. **Data Gaps:** Complete vendor and customer top-N lists not provided; recommend full aging and vendor reports
+
+**Recommendation:** Request detailed accounts receivable aging report and complete vendor spend analysis for full financial clarity.

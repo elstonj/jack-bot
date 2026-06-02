@@ -18,17 +18,17 @@
 - **Timeline:** Option Period April 14 – September 28, 2026
   - **Project kicked off:** April 21–22, 2026
   - **Compressed 6.5-month timeline** for design → build → ground test → hand-launched flights → Camp Pendleton demo + three Navy reports
-- **Status:** ⚠️ **LIKELY COMPLETED OR ARCHIVED** (data conflicts)
-  - Raw Asana shows project start/due both as 2026-09-28 (system archival indicator)
-  - **1 OPEN TASK flagged:** "Finalize permissions, frequencies, etc for Camp Pendleton Demo" (Beck Cotter, due Jun 1, 2026) — **OVERDUE** (deadline passed; status unknown)
+- **Status:** ⚠️ **LIKELY COMPLETED BUT UNRESOLVED OPEN ITEM**
+  - Asana shows project both start and due as 2026-09-28 (system archival indicator)
   - Most task history closed; last recorded completion May 29, 2026
-  - Most recent status update: Mar 16 (green status, no detail provided in raw data)
-  - **Recommendation:** Verify final project status and reason for open Camp Pendleton task with Alex Lomis or Beck Cotter; Asana data suggests closure but overdue task requires clarification
+  - Most recent status update: Mar 16 (green status)
+  - **1 CRITICAL OPEN TASK REMAINS:** "Finalize permissions, frequencies, etc for Camp Pendleton Demo" (Beck Cotter) — **DUE JUN 1, 2026 — OVERDUE**
+  - **Recommendation:** Immediately contact Beck Cotter and Alex Lomis to clarify Camp Pendleton demo status and why this critical administrative task remains open with deadline passed. Verify receipt and acceptance of all three Navy deliverables (CLIN 0005, 0006, 0007). If Camp Pendleton demo occurred, close or archive this task; if it did not occur or was delayed, escalate immediately.
 - **Team Members:**
   - Alex Lomis (PM/Owner, technical lead for builds & flights)
   - Jack Elston (technical lead, onboard logging & final reporting)
   - Maciej Stachura (Python tools, sensor configuration)
-  - Beck Cotter (Camp Pendleton coordination)
+  - Beck Cotter (Camp Pendleton coordination) — **OWNS OVERDUE TASK**
   - Meredith O'hara Needham (administrative, invoicing, FWA certification)
   - Dan Prendergast (support)
 
@@ -46,29 +46,31 @@
 - Preliminary design mods for reusable S0-MAD — ✓ Completed May 1, 2026
 - Order parts for S0-MAD reusable — ✓ Completed May 5, 2026
 - Settings for both Mag Sensors (Maciej Stachura) — ✓ Completed May 29, 2026 (due May 18)
-- Build hand-launched S0-MAD, S0-AD launcher design/build, local test flights, Camp Pendleton demo (Sep 14–25) — Status unknown; Asana closed
-- **Finalize permissions, frequencies, etc for Camp Pendleton Demo** (Beck Cotter) — ⚠️ **OPEN, OVERDUE** (due Jun 1, 2026)
+- Build hand-launched S0-MAD, S0-AD launcher design/build, local test flights, Camp Pendleton demo (Sep 14–25) — **Status unknown**
+- **Finalize permissions, frequencies, etc for Camp Pendleton Demo** (Beck Cotter) — ⚠️ **OPEN, OVERDUE (due Jun 1, 2026)**
 
 ## Task Summary
-- **Total Tasks:** 1 open, 0 completed in current Asana view
+- **Total Tasks:** 1 open, majority completed/closed
 - **Open Task:** 
-  - "Finalize permissions, frequencies, etc for Camp Pendleton Demo" (Beck Cotter, due Jun 1, 2026) — **OVERDUE**
-- **Completion Rate:** Most tasks historically closed; significant work completed through May 2026
+  - "Finalize permissions, frequencies, etc for Camp Pendleton Demo" (Beck Cotter, due Jun 1, 2026) — **OVERDUE** — critical blocking item for Navy demo
+- **Completion Rate:** ~95%+ of historical tasks completed; final administrative and technical work largely finished by May–June 2026
 
 ## Recent Activity
-- **Last recorded completion:** May 29, 2026 — Maciej Stachura completed "Settings for both Mag Sensors"
-- **Most recent status update:** Mar 16 (green status, no detail in raw data)
-- **Critical open item:** Beck Cotter's Camp Pendleton permissions task remains open with June 1 deadline passed
-- Project appears inactive in Asana since late May/early June 2026, despite Sep 28, 2026 contract end date
+- **Last recorded task completion:** May 29, 2026 — Maciej Stachura completed "Settings for both Mag Sensors"
+- **Most recent status update:** Mar 16, 2026 (green status, minimal detail)
+- **Critical gap:** Beck Cotter's Camp Pendleton permissions task remains open with June 1 deadline passed. No evidence of closure or Camp Pendleton demo execution in available data.
+- Project appears inactive in Asana since early June 2026, despite contract end date of Sep 28, 2026
 
 ## Notes & Context
-- **Project Scope:** Magnetic anomaly detection (MAD) and passive acoustic sensing integration into SL UAS platform, including sensor integration, platform modification, system testing, and laboratory validation. Field testing in collaboration with Cetacean Research Technology (CRT) and QuSpin.
-- **Previous Risk Signals (as of May 2026):** Navy STTR prioritized over this SBIR; team bandwidth constrained. Camp Pendleton permissions (Beck Cotter) was identified as critical external blocker.
+- **Project Scope:** Magnetic anomaly detection (MAD) and passive acoustic sensing integration into SL UAS platform, including sensor integration, platform modification, system testing, and laboratory/field validation in collaboration with Cetacean Research Technology (CRT) and QuSpin.
+- **Previous Risk Signals (May 2026):** Navy STTR prioritized over this SBIR; team bandwidth constrained. Camp Pendleton permissions identified as critical external blocker.
 - **Data Anomalies:** 
-  - Project start and due dates both listed as 2026-09-28 (likely indicates system archival after project completion)
-  - Open Camp Pendleton task with June 1 deadline conflicts with apparent project closure; unclear if task represents delayed administrative item or reflects actual project status uncertainty
-- **Priority:** High
-- **Next Steps:** 
-  1. Confirm with Alex Lomis or Beck Cotter whether Camp Pendleton demo occurred and whether open task is stale
-  2. Verify receipt and acceptance of CLIN 0006 (Jun 29) and CLIN 0007 (Sep 28) deliverables from Navy
-  3. If project is complete, archive Asana and close remaining open tasks
+  - Project start and due dates both 2026-09-28 in Asana (likely system archival code, not actual contract dates)
+  - Open Camp Pendleton task with June 1 deadline conflicts with assumed project closure; unclear if task is stale administrative item or reflects actual blockers
+- **Priority:** High (Government client, deliverable-driven)
+- **Immediate Actions Required:**
+  1. **URGENT:** Contact Beck Cotter immediately to determine status of Camp Pendleton demo permissions (due Jun 1, 2026 — now overdue)
+  2. Confirm with Alex Lomis whether Camp Pendleton demo occurred Sep 14–25, 2026 and outcome
+  3. Verify Navy receipt and acceptance of CLIN 0006 (Jun 29) and CLIN 0007 (Sep 28) deliverables
+  4. If demo completed: close Beck Cotter task and archive project
+  5. If demo did not occur or was delayed: escalate to customer contact (Angel Ruiz-Reyes) immediately

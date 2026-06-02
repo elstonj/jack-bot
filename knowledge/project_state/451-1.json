@@ -29,7 +29,7 @@
         "amount": 1218.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-01"
+        "last_updated": "2026-06-02"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 118781.25,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-01T08:54:49Z"
+    "last_reconciled": "2026-06-02T09:05:05Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -68,7 +68,14 @@
     }
   ],
   "risks": [],
-  "overrides": [],
-  "last_full_rebuild": "2026-06-01T08:54:49Z",
+  "overrides": [
+    {
+      "source": "FEEDBACK",
+      "author": "unknown",
+      "date": "2026-06-01",
+      "text": "Commercial-sales stub created by Joshua Fromm: customer='' product='2 S3 units with standard equipment' ship_by='' (from inquiry: 'can you just attach the invoice for instaar?')"
+    }
+  ],
+  "last_full_rebuild": "2026-06-02T09:05:05Z",
   "last_incremental_update": null
 }

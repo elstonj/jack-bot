@@ -1,21 +1,47 @@
 {
   "project_code": "001-7",
   "qbo_class_names": [
-    "(001-7) IRAD - S3"
+    "(001-7) IRAD - S3",
+    "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-05-31",
-    "end": "2026-06-01"
+    "start": "2026-06-01",
+    "end": "2026-06-02"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 140.59,
+    "expenses": 7194.37,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 140.59
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 4319.37,
+      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 2875.0
     }
   },
   "invoices": [],
-  "bills": [],
+  "bills": [
+    {
+      "type": "Bill",
+      "date": "2026-06-01",
+      "doc_number": "",
+      "total": 6257.6,
+      "attributed": 6257.6,
+      "vendor": "MicroFirm Engineering",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 2875.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": "Hours: 23 @ $125"
+        },
+        {
+          "amount": 3382.6,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Parts"
+        }
+      ]
+    }
+  ],
   "purchases": [
     {
       "type": "Purchase",
@@ -32,6 +58,60 @@
           "amount": 140.59,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
           "description": "S3 IRAD shipmen to Sean Cole"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-01",
+      "doc_number": "",
+      "total": 17.89,
+      "attributed": 17.89,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 17.89,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Quick Release Plate, Camera Tripod Mount Arca Swiss"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-01",
+      "doc_number": "69038",
+      "total": 664.62,
+      "attributed": 664.62,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 664.62,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-01",
+      "doc_number": "0529JELSTON",
+      "total": 113.67,
+      "attributed": 113.67,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 113.67,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "IRAD S3 items (gimbal)"
         }
       ]
     }

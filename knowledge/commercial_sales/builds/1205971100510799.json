@@ -63,9 +63,9 @@
     "invoicing": "Meredith",
     "build": "Alex Lomis"
   },
-  "notes": "QBO invoices #1667 (paid 2026-05-21, $21,181.81) and #1730 (unpaid, $2,462.50, dated 2026-01-08). Jack confirmed Aug/Sept 2026 ISARRA Flight Week delivery target as of 2026-05-21; offered to transport units to ISARRA site. Daily flight testing with bug resolution ongoing (Beck 2026-03-17); Kevin remains patient. In QC pending final delivery by 2026-08-31.",
+  "notes": "QBO Inv #1667 (paid 2026-05-21, $21,181.81) and Inv #1730 (unpaid $2,462.50, dated 2026-01-08). In QC pending final delivery by 2026-08-31. Jack confirmed Aug/Sept 2026 ISARRA Flight Week delivery target (2026-05-21); offered to transport units to ISARRA site. Daily flight testing with bug resolution ongoing; Kevin remains patient.",
   "missing_fields": [
     "shipped_date"
   ],
-  "last_evidence_date": "2026-05-21"
+  "last_evidence_date": "2026-05-26"
 }

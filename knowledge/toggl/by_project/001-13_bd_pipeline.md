@@ -4,56 +4,57 @@
 - **Client:** Overhead
 - **Active Status:** Yes
 - **Billable Status:** No
-- **Total Hours Tracked:** 68.4 hours (65.6h + 2.8h new batch)
+- **Total Hours Tracked:** 69.9 hours (68.4h + 1.5h new batch)
 
 ## Team Allocation
-- **Dan:** 26.5 hours (39%)
-- **Jack Elston:** 21.0 hours (31%)
-- **Stachura:** 20.9 hours (31%)
+- **Dan:** 26.5 hours (38%)
+- **Jack Elston:** 22.5 hours (32%)
+- **Stachura:** 20.9 hours (30%)
 
 ## Activity Timeline
 
 ### Recent Work Entries
-1. **S2 Avionics fixes / and update** — Jack Elston (2.8h) *(latest, this batch)*
-2. **Meeting at Black Swift Technologies LLC Boulder Colorado** — Jack Elston (1.0h)
-3. **Arctic UAS Demo Orientation from CJFC** — Jack Elston (1.0h)
-4. **[No Description]** — Stachura (1.9h)
+1. **Black Swift - Disclosure Schedules** — Jack Elston (1.5h) *(latest, this batch)*
+2. **S2 Avionics fixes / and update** — Jack Elston (2.8h)
+3. **Meeting at Black Swift Technologies LLC Boulder Colorado** — Jack Elston (1.0h)
+4. **Arctic UAS Demo Orientation from CJFC** — Jack Elston (1.0h)
 5. **[No Description]** — Stachura (1.9h)
-6. **[No Description]** — Dan (1.5h)
-7. **Meeting with Dan** — Jack Elston (1.0h)
-8. **[No Description]** — Stachura (1.2h)
-9. **[No Description]** — Stachura (2.1h)
-10. **[No Description]** — Dan (2.0h)
-11. **[No Description]** — Dan (0.8h)
-12. **[No Description]** — Dan (2.0h)
-13. **[No Description]** — Stachura (0.5h)
-14. **[No Description]** — Dan (1.5h)
-15. **[No Description]** — Stachura (6.4h)
-16. **AVAPS Meeting** — Jack Elston (6.5h)
-17. **Discussion on S2 MHP** — Jack Elston (0.5h)
-18. **Black Swift - Issues List** — Jack Elston (1.0h)
-19. **Project Black Swift - Tax Due Diligence Call** — Jack Elston (1.0h)
-20. **KS Industrial and Manufacturing Plan Response** — Jack Elston (1.5h)
-21. **sUAS Working Group Meeting** — Jack Elston (1.5h)
-22. **By Light and Black Swift MRT Check-in 1** — Jack Elston (1.0h)
+6. **[No Description]** — Stachura (1.9h)
+7. **[No Description]** — Dan (1.5h)
+8. **Meeting with Dan** — Jack Elston (1.0h)
+9. **[No Description]** — Stachura (1.2h)
+10. **[No Description]** — Stachura (2.1h)
+11. **[No Description]** — Dan (2.0h)
+12. **[No Description]** — Dan (0.8h)
+13. **[No Description]** — Dan (2.0h)
+14. **[No Description]** — Stachura (0.5h)
+15. **[No Description]** — Dan (1.5h)
+16. **[No Description]** — Stachura (6.4h)
+17. **AVAPS Meeting** — Jack Elston (6.5h)
+18. **Discussion on S2 MHP** — Jack Elston (0.5h)
+19. **Black Swift - Issues List** — Jack Elston (1.0h)
+20. **Project Black Swift - Tax Due Diligence Call** — Jack Elston (1.0h)
+21. **KS Industrial and Manufacturing Plan Response** — Jack Elston (1.5h)
+22. **sUAS Working Group Meeting** — Jack Elston (1.5h)
+23. **By Light and Black Swift MRT Check-in 1** — Jack Elston (1.0h)
 
 ### Work Patterns
-- **Stachura:** 31% of total effort (20.9h). **100% undocumented—persistent critical issue.** No change this batch.
-- **Dan:** 39% of effort (26.5h). **95% undocumented.** Documentation gap unchanged.
-- **Jack Elston:** 31% of effort (21.0h). **100% documented.** Product development (S2 Avionics), internal meetings, partnership coordination (AVAPS, CJFC, By Light, sUAS, tax due diligence, KS Industrial).
+- **Stachura:** 30% of total effort (20.9h). **100% undocumented—no change this batch.**
+- **Dan:** 38% of effort (26.5h). **95% undocumented—no change this batch.**
+- **Jack Elston:** 32% of effort (22.5h). **100% documented.** Scope now includes regulatory/legal work (disclosure schedules, tax due diligence), partnership coordination (AVAPS, CJFC, sUAS, By Light), technical product development (S2 Avionics/MHP), and internal strategy.
 
 ## Insights
-- **Work Type:** Business development, partnership management, internal coordination, UAS product development (S2 platform), demos, tax/legal review. New entry shows technical product work expanding Jack Elston's scope.
+- **Work Type:** Business development, partnership management, regulatory/legal compliance (disclosure schedules), tax due diligence, UAS product development (S2 platform), internal coordination.
 - **Notable Patterns:**
-  - **CRITICAL DOCUMENTATION FAILURE PERSISTENT:** 41.4 hours (61% of total) remain completely undescribed. New batch adds 2.8h fully documented work (product technical update)—compliance ratio *improved slightly* to 39% → 40%.
-  - **Jack Elston full accountability maintained:** All 21.0 hours documented; scope broadening from BD/coordination into technical product work (S2 Avionics).
-  - **Stachura non-compliance unchanged:** 20.9h with zero descriptions—no progress toward compliance.
-  - Non-billable overhead phase continues—pre-revenue partnership investment and product development.
+  - **Documentation compliance improving incrementally:** New entry fully documented; compliance ratio now 41% documented (29.0h of 69.9h total). Target: 100%.
+  - **Jack Elston expanding into compliance/regulatory work:** Addition of disclosure schedules and tax due diligence indicates growing responsibilities beyond pure BD into legal/financial structuring.
+  - **Stachura and Dan non-compliance persistent:** Combined 47.4 hours (68% of total) remain undocumented. No progress this batch.
+  - Non-billable overhead phase continues—pre-revenue investment in partnerships, product development, and corporate structuring.
 
 **Action Items (URGENT — ESCALATE):**
 1. **IMPLEMENT HARD BLOCK:** No time entries accepted without descriptions—effective immediately
 2. **MANAGEMENT ESCALATION:** Stachura's persistent 20.9h non-compliance requires formal accountability meeting
 3. **Dan intake session:** Map all 26.5h to specific deliverables—conduct this week
 4. **Weekly compliance reporting:** Track % documented by person until 100% achieved
-5. **Jack Elston workload review:** Assess concentration risk with expanding responsibilities (BD + technical product work now)
-6. **S2 Avionics tracking:** Monitor product development effort allocation going forward
+5. **Jack Elston workload review:** Assess concentration risk with expanding responsibilities (BD + technical product + regulatory/legal work)
+6. **S2 Avionics & disclosure tracking:** Monitor product development and corporate structuring effort allocation

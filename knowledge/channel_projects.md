@@ -7,8 +7,6 @@ Manual overrides can be added at the bottom.
 
 C015DKC4WG1 = 018_1   # #sbir-volcano -> Murphy's Pond CH4 Monitoring
 C01510XMGRG = 300_3   # #sbir-hurricane -> 2026 IDIQ (Hurricane)
-C01510XMGRG = 301_3   # #sbir-hurricane -> S0 Hurricane Phase II - 2025
-C064LM8786M = 301_3   # #s0-vtol -> S0 Hurricane Phase II - 2025
 C015DKC4WG1 = 350_4   # #sbir-volcano -> 2024 USGS - Chile (Mexico)
 C01510XMGRG = 550_1   # #sbir-hurricane -> NAVY SBIR: Magnetometer
 C015DKC4WG1 = 550_1   # #sbir-volcano -> NAVY SBIR: Magnetometer

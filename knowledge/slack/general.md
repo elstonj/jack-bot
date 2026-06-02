@@ -1,7 +1,7 @@
 # #general
 
 ## Overview
-Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - May 2026). Key participants include Jack Elston (leadership), Dan Prendergast (business development/operations), Maciej, Joshua Fromm, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, and numerous team members.
+Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - June 2026). Key participants include Jack Elston (leadership), Dan Prendergast (business development/operations), Maciej, Joshua Fromm, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, and numerous team members.
 
 ## Key Decisions
 
@@ -48,4 +48,4 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Drill Press Decommissioning** (May 16, 2024): Became worn out, no longer worth repair
 - **Recycling Service** (April 20, 2026): Arranged pickup with EcoCycle on Wednesdays; Meredith Needham managing coordination
 
-## Action Items
+## Recent Activity

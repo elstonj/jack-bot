@@ -4,8 +4,8 @@
   "category": "contract",
   "asana_gid": "1208093897989205",
   "name": "S0 Hurricane Phase II - 2025",
-  "status": "active",
-  "status_notes": null,
+  "status": "archived",
+  "status_notes": "Asana project is archived",
   "customer": {
     "name": "NOAA/Univ. Miami",
     "type": "government",
@@ -31,13 +31,13 @@
       {
         "category": "Labor",
         "amount": 111481.0,
-        "description": "Engineering Tasks (NRE): Laser configuration updates, AirOps fields, dual GPS for heading, 10Hz met data, firmware/comms/UI customization, extended endurance, manufacturability improvements, data buffering and re-transmission",
+        "description": "Engineering Tasks (NRE): Laser configuration, AirOps updates, Dual GPS for heading, 10Hz met data, firmware/comms/UI customization, extended endurance, manufacturability improvements, data buffering and re-transmission",
         "source_doc": null
       },
       {
         "category": "Materials",
         "amount": 1700.0,
-        "description": "Materials for dual GPS (GPS unit and antenna), extended endurance battery tweaks, and manufacturability improvements",
+        "description": "Materials for Dual GPS, Extended endurance battery tweaks, Manufacturability improvements",
         "source_doc": null
       },
       {
@@ -52,13 +52,13 @@
         "amount": 551648.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-01"
+        "last_updated": "2026-06-02"
       },
       "purchases": {
         "amount": 902.06,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-06-01"
+        "last_updated": "2026-06-02"
       },
       "other_qbo": {
         "amount": 321540.76,
@@ -72,7 +72,7 @@
     "committed": 68.7,
     "remaining": -741827.27,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-01T08:54:24Z"
+    "last_reconciled": "2026-06-02T09:04:43Z"
   },
   "milestones": [
     {
@@ -149,16 +149,9 @@
     }
   ],
   "deliverables": [],
-  "team": [
-    {
-      "name": "Ben Busby",
-      "role": null,
-      "allocation_pct": null,
-      "hours_last_30d": null
-    }
-  ],
+  "team": [],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-06-01T08:54:24Z",
+  "last_full_rebuild": "2026-06-02T09:04:43Z",
   "last_incremental_update": null
 }

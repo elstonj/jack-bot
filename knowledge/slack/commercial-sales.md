@@ -21,7 +21,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Stefan (Atmofacts - external partner, methane algorithm tuning)
 - Chris (UMES - external customer contact, S3 training/delivery)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: May 29, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: June 1, 2026.
 
 ---
 
@@ -107,11 +107,6 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Joshua Fromm asking for clarification on number of S0 units needed for NOAA delivery
 - Implies ongoing NOAA customer relationship with pending order
 
----
-
-## Projects & Initiatives
-
-### UMES (University of Maryland Eastern Shore) S3 Project
-**Status:** COMPLETED (Delivered May 29, 2026)
-- Customer contact: Chris
--
+**Sales Record Filtering Clarification (June 1, 2026)**
+- Maciej Tromba directed team to distinguish between proposals and confirmed commercial sales
+- Instruction: Only include orders with confirmed delivery date

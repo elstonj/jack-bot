@@ -30,10 +30,10 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 26228.75,
+        "amount": 27435.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-01"
+        "last_updated": "2026-06-02"
       },
       "purchases": {
         "amount": 0.0,
@@ -47,13 +47,13 @@
         "confidence": "exact",
         "last_updated": "2026-04-22"
       },
-      "total": 99018.75,
+      "total": 100225.0,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": -2577.75,
+    "remaining": -3784.0,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-01T08:55:06Z"
+    "last_reconciled": "2026-06-02T09:05:23Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -110,6 +110,6 @@
       "text": "From Jack: the navy sttr has priority, the SBIR is mostly on schedule"
     }
   ],
-  "last_full_rebuild": "2026-06-01T08:55:06Z",
+  "last_full_rebuild": "2026-06-02T09:05:23Z",
   "last_incremental_update": null
 }

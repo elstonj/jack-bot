@@ -3,75 +3,66 @@
 ## Overview
 - **Client/customer:** Internal BST purchasing system (serves all active projects)
 - **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across multiple projects
-- **Timeline:** Ongoing operational project; current cycle May 18–31, 2026
-- **Status:** **ACTIVE** with **critical unresolved issues.** Current dataset shows **1 open task** (down from 5 in prior cycle — dramatic reduction of 80%). ⚠️ **CRITICAL: 4 tasks from prior cycle are now MISSING** — **including 2 that were previously OVERDUE:**
-  - **pcbway for s3 sales (#YX1724706):** Was due May 6, 2026 (35+ days overdue). Status was "Order Shipped" but task has disappeared. **ACTION: Verify closure or escalate.**
-  - **Digikey Gateworks/Hurricane GCS (#99157746):** Was due May 13, 2026 (28+ days overdue). Status was "Order Shipped" but task has disappeared. **ACTION: Verify closure or escalate.**
-  - **kmac tubes for s0 hurricane idiq** & **vertiq for s0 hurricane (#SO-01545):** Were due May 30, 2026; now missing. **ACTION: Verify if completed on-time or lost.**
+- **Timeline:** Ongoing operational project; current cycle showing orders due June 1–3, 2026, with one backlog item due May 30
+- **Status:** **ACTIVE** with **critical backlog & missing task resolution.** Current dataset shows **7 open tasks** (up from 1 in prior dataset). ⚠️ **KEY CHANGE: Four previously missing tasks have reappeared or been recreated** — but **one critical overdue task remains unresolved:**
+  - **sendcutsend for s3 (#SS97A80):** Now showing as open, due May 30, 2026 (5+ days overdue), status "Order Shipped". **ACTION: Verify receipt/closure immediately.**
+  - **Two overdue tasks from prior cycle remain unresolved:** pcbway for s3 sales (#YX1724706, due May 6) and Digikey Gateworks/Hurricane GCS (#99157746, due May 13) still missing from dataset.
 - **Team members involved:**
-  - Meredith O'hara Needham (owner; previously 3/5 tasks — now 0/1)
-  - Nate Straus (1/1 task assigned — 100% of current workload)
-  - Joshua Fromm (previously 4/5 requester volume; now 0/1)
-  - Alex (1/1 requester — 100%)
+  - **Meredith O'hara Needham** (owner; assigned to all 7 open tasks — 100% of current workload)
+  - **Requesters:** Joshua Fromm (3/7), Ethan / Ethan Domagala (2/7), Alex (1/7), Sam (1/7)
 - **Risk signals:**
-  - 🔴 **CRITICAL: Four tasks have vanished from the project dataset between cycles:**
-    - Two **overdue tasks** (pcbway #YX1724706 due May 6; Digikey Gateworks #99157746 due May 13) with "Order Shipped" status but no closure documentation
-    - Two **on-schedule tasks** (kmac tubes & vertiq, both due May 30) with "Order Placed" status
-  - ⚠️ **Possible causes:** Auto-deletion via form requirement (per project notes), external closure without Asana update, or data sync issue
-  - ⚠️ **Workload collapse:** 80% reduction in open tasks in one cycle is unusual for an ongoing purchasing operation; suggests either major external process change or systematic task loss
+  - 🔴 **CRITICAL: One overdue task reappeared:** sendcutsend #SS97A80 is 5+ days past due with "Order Shipped" status but no closure documentation
+  - 🔴 **CRITICAL: Two overdue tasks still missing:** pcbway (#YX1724706, 56+ days overdue) and Digikey Gateworks (#99157746, 49+ days overdue) — no trace in current dataset
+  - ⚠️ **Workload concentration:** 100% of open tasks assigned to Meredith (previously 0/1); suggests possible reassignment or prior cycle data loss
+  - ⚠️ **Form-based auto-deletion:** Project notes warn "USE THIS FORM PLEASE OR YOUR TASK WILL AUTO DELETE" — explains task volatility between cycles
+  - ⚠️ **Multiple near-term deadlines:** 6 tasks due June 1–3 (in next 24–48 hours from May 31)
 
 ## Key Deliverables & Milestones
 
-### **Current Cycle (May 18–31, 2026)**
-**1 open task — on-schedule**
+### **Current Cycle (June 1–3, 2026)**
+**6 tasks due June 1–3, 2026 — all on-schedule or shipped**
 
-**[001-7] IRAD S3 — 1 task**
-1. **Digikey (#99376023)** | Due May 31, 2026 | Requester: Alex | Tax Exempt: NO | Status: **Order Received** (placement requested May 21) | Assigned: **Nate Straus**
+**[001-7] IRAD S3 — 5 tasks**
+1. **SendCutSend - S3 Gimbal** | Due June 2, 2026 | Requester: Ethan | Status: Unspecified (placement pending) | Assigned: Meredith O'hara Needham
+2. **amazon for s3** | Due June 3, 2026 | Requester: Joshua Fromm | Status: Order Placed (Jun 1) | Tax Exempt: NO | Assigned: Meredith O'hara Needham
+3. **jawstec for s3 demo (#69038)** | Due June 3, 2026 | Requester: Joshua Fromm | Status: Order Placed (Jun 1) | Tax Exempt: NO | Assigned: Meredith O'hara Needham
+4. **McMaster Carr - S3 Gimbal (0529JELSTON)** | Due June 3, 2026 | Requester: Ethan Domagala | Status: Order Shipped (May 29) | Tax Exempt: NO | Assigned: Meredith O'hara Needham
+5. **sendcutsend for s3 (#SS97A80)** | Due May 30, 2026 | **⚠️ 5+ DAYS OVERDUE** | Requester: Joshua Fromm | Status: Order Shipped (May 28) | Tax Exempt: NO | Assigned: Meredith O'hara Needham
 
-### **MISSING FROM CURRENT DATASET (Prior Cycle — Status Unknown)**
+**[550-1] Navy SBIR: Magnetometer — 1 task**
+1. **Connector for Bartington Magnetometer (#99551398)** | Due June 3, 2026 | Requester: Sam | Status: Order Shipped (Jun 1) | Tax Exempt: NO | Assigned: Meredith O'hara Needham
 
-**[300-3] 2026 IDIQ (Hurricane) — 2 missing tasks**
-- **kmac tubes for s0 hurricane idiq** | Was due May 30, 2026 | Requester: Joshua Fromm | Tax Exempt: YES | Last status: **Order Placed** (May 18) | Was assigned: Meredith O'hara Needham | **⚠️ MISSING**
-- **vertiq for s0 hurricane (#SO-01545)** | Was due May 30, 2026 | Requester: Joshua Fromm | Tax Exempt: YES | Last status: **Order Placed** (May 28) | Was assigned: Meredith O'hara Needham | **⚠️ MISSING**
+**Shop Supplies — 1 task**
+1. **Amazon** | Due June 3, 2026 | Requester: Alex | Status: Order Placed (Jun 1) | Tax Exempt: NO | Assigned: Meredith O'hara Needham
 
-**[001-7] IRAD S3 — 1 missing task**
-- **sendcutsend for s3 (#SS97A80)** | Was due May 30, 2026 | Requester: Joshua Fromm | Tax Exempt: NO | Last status: **Order Placed** (May 28) | Was assigned: Meredith O'hara Needham | **⚠️ MISSING**
-
-**[001-7] IRAD S3 (previously completed) — 1 missing task**
-- **sendcutsend for s3 (#S424H298)** | Was due May 30, 2026 | Requester: Joshua Fromm | Tax Exempt: NO | Last status: **Order Received** (May 20) | Was assigned: Nate Straus | **⚠️ MISSING (may have been completed)**
-
-### **PREVIOUSLY OVERDUE (Status Unknown) — 2 missing tasks**
-- **pcbway for s3 sales (#YX1724706)** | Was due May 6, 2026 | **35+ days overdue** | Last status: **Order Shipped** | **⚠️ MISSING — CRITICAL**
-- **Digikey Gateworks/Hurricane GCS (#99157746)** | Was due May 13, 2026 | **28+ days overdue** | Last status: **Order Shipped** | **⚠️ MISSING — CRITICAL**
+### **CRITICAL BACKLOG — Unresolved Overdue Tasks (Status Unknown)**
+- **pcbway for s3 sales (#YX1724706)** | Was due May 6, 2026 | **56+ days overdue** | Last known status: Order Shipped | **🔴 MISSING FROM CURRENT DATASET**
+- **Digikey Gateworks/Hurricane GCS (#99157746)** | Was due May 13, 2026 | **49+ days overdue** | Last known status: Order Shipped | **🔴 MISSING FROM CURRENT DATASET**
 
 ## Task Summary
-- **Total tasks:** 1 open, 0 completed in current dataset (**down from 5 in prior cycle — net -4 tasks; 80% reduction**)
-  - **Tasks missing (4):** kmac tubes, vertiq, sendcutsend #SS97A80, sendcutsend #S424H298
-  - **Overdue tasks missing (2):** pcbway for s3 sales (#YX1724706) and Digikey Gateworks/Hurricane GCS (#99157746)
+- **Total tasks:** 7 open, 0 completed in current dataset (**up from 1 in prior cycle — net +6 tasks; dramatic workload increase**)
+  - **Recovered/recreated tasks:** sendcutsend #SS97A80 (was missing, now open), kmac tubes & vertiq may have been completed/closed
+  - **Confirmed still missing (2):** pcbway #YX1724706 and Digikey Gateworks #99157746 (both overdue)
 - **Tasks by assignee:**
-  - **Nate Straus:** 1/1 (100% of current workload) — order received verification; on-schedule
-  - **Meredith O'hara Needham:** 0/1 (0% of current workload; previously 60%)
+  - **Meredith O'hara Needham:** 7/7 (100% of current workload; restored from 0/1 in prior cycle)
 - **Requesters:**
-  - Alex: 1/1 (100% of current workload; previously 20%)
-  - Joshua Fromm: 0/1 (0%; previously 80%)
+  - **Joshua Fromm:** 3/7 (43%; back to significant volume after 0/1)
+  - **Ethan / Ethan Domagala:** 2/7 (29%; new/expanded requester)
+  - **Alex:** 1/7 (14%)
+  - **Sam:** 1/7 (14%)
 - **Project distribution:**
-  - [001-7] IRAD S3: 1 task (100%)
-  - [300-3] 2026 IDIQ (Hurricane): 0 tasks (0%; previously 40%)
+  - **[001-7] IRAD S3:** 5/7 (71% — primary project)
+  - **[550-1] Navy SBIR: Magnetometer:** 1/7 (14%)
+  - **Shop Supplies:** 1/7 (14%)
 - **Order status breakdown:**
-  - Order Received: 1 task (100%)
-  - Order Placed: 0 tasks (0%; previously 60%)
+  - Order Shipped: 3/7 (43% — includes 1 overdue)
+  - Order Placed: 3/7 (43%)
+  - Order status unspecified: 1/7 (14%)
 
 ## Recent Activity
 **Between prior cycle and current dataset:**
-- **Severe task reduction (80%):** Workload dropped from 5 to 1 open task. Four tasks have vanished from the project.
-- **Two critical overdue tasks are unaccounted for:** pcbway for s3 sales (35+ days late) and Digikey Gateworks/Hurricane GCS (28+ days late) both showed "Order Shipped" status but have disappeared entirely. **Immediate investigation required.**
-- **Three on-schedule tasks missing:** kmac tubes, vertiq, and sendcutsend #SS97A80 were due May 30; unclear if completed or lost.
-- **Workload shift:** All requester volume has shifted from Joshua Fromm (80%) to Alex (100%). Meredith's assignment volume dropped to zero.
-- **Remaining task:** Only Digikey #99376023 remains — due May 31 (in 24 hours). Order has been received; Nate Straus is handling verification.
-
-## Notes & Context
-- **CRITICAL ACTION REQUIRED:**
-  1. **Verify the two overdue tasks immediately:**
-     - Has **pcbway for s3 sales (#YX1724706)** been received/closed? (35+ days overdue; last status "Order Shipped")
-     - Has **Digikey Gateworks/Hurricane GCS (#99157746)** been received/closed? (28+ days overdue; last status "Order Shipped")
-     - If unresolved, escalate to
+- **Dramatic workload recovery (7x increase):** Open tasks jumped from 1 to 7, with all assigned back to Meredith O'hara Needham.
+- **One critical overdue task reappeared:** sendcutsend #SS97A80 (due May 30, status "Order Shipped") is now showing as open after being missing in prior cycle. **5+ days overdue with no closure documentation.**
+- **Two critical overdue tasks remain unaccounted for:** pcbway for s3 sales (#YX1724706, 56+ days late) and Digikey Gateworks/Hurricane GCS (#99157746, 49+ days late) are still absent from the dataset. **Escalation required.**
+- **Requesters have shifted:** Joshua Fromm is back as primary requester (3/7); new requesters Ethan/Ethan Domagala (2/7) and Sam (1/7) have appeared.
+- **Near-term deadline pressure:** 6 tasks due June 1–3, 2026 (within 24

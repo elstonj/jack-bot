@@ -1,7 +1,7 @@
 # #25_1-navy-sttr-boundary-layer
 
 ## Overview
-This channel manages Black Swift Technologies' Navy STTR project focused on boundary layer measurements using the S0 UAS platform. The project aims to develop atmospheric sensing capabilities for hazardous weather conditions, particularly tropical cyclones and high wind environments. Key participants include Beck Cotter, Maciej, Josh Wadler, Jun Zhang, Dan Prendergast, Jack Elston, Joshua Fromm, Joe, and Meredith Needham (Navy contact/administrator). The channel shows high activity from July 2024 through May 2026, covering Phase I completion, Phase II proposal development, and active field operations including ocean validation missions and CAT (Convective and Atmospheric Turbulence) flights.
+This channel manages Black Swift Technologies' Navy STTR project focused on boundary layer measurements using the S0 UAS platform. The project aims to develop atmospheric sensing capabilities for hazardous weather conditions, particularly tropical cyclones and high wind environments. Key participants include Beck Cotter, Maciej, Josh Wadler, Jun Zhang, Dan Prendergast, Jack Elston, Joshua Fromm, Joe, and Meredith Needham (Navy contact/administrator). The channel shows high activity from July 2024 through June 2026, covering Phase I completion, Phase II proposal development, and active field operations including ocean validation missions and CAT (Convective and Atmospheric Turbulence) flights.
 
 ## Key Decisions
 - **July 2024**: Focused Phase 1 on tropical cyclone/high wind measurements rather than cold weather applications
@@ -19,6 +19,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **May 26, 2026**: Scheduled Phase II Cal/Val plan meeting for Thursday May 28 at 11 AM ET; Progress Report (Task O.2) in good shape; Cal/Val plan (Task O.1) prioritized for discussion
 - **May 27, 2026**: Phase II Cal/Val plan meeting rescheduled to 11:30 AM ET (moved from 11:00 AM due to Jun Zhang's conflict); confirmed attendance: Maciej and Josh Wadler
 - **May 28, 2026**: Phase II Cal/Val plan meeting held; Maciej shared working document for review
+- **June 1, 2026**: Interim report (Progress Report, Task O.2) due June 3, 2026 by 3 PM Mountain time (5 PM Eastern) with early submission recommended per Meredith Needham to avoid technical difficulties
 
 ## Projects & Initiatives
 **Navy STTR Boundary Layer Measurements Project (Award: N6833535C0270)**
@@ -59,17 +60,15 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - Working document created and shared by Maciej on May 28, 2026: https://docs.google.com/document/d/1FBAJUxPo6J2_zkStvdUN6M6cff3619yzRSb0g3MYB9k/edit?tab=t.0
 - Team actively developing calibration and validation strategy for Phase II ocean data
 
-**Phase II Tasks Status (May 26-28, 2026):**
+**Phase II Tasks Status (May-June 2026):**
 - **Task O.1**: Cal/Val plan for Phase II including ocean data (team meeting held May 28, 2026 at 11:30 AM ET; working document under development/review)
-- **Task O.2**: Progress Report (in good shape, due June 3, 2026)
+- **Task O.2**: Interim Progress Report due June 3, 2026 by 3 PM Mountain time (5 PM Eastern)
+
+**OOI (Ocean Observatories Initiative) Array Concern (June 1, 2026):**
+- Maciej flagged administration requirements for OOI array takedown potentially affecting planned Phase II calibration sites
+- Maciej seeking confirmation on backup site safety from team member (identity marked as @U07J4SVJSHJ)
 
 ## Action Items & Commitments
 **Active Commitments:**
-- **Beck Cotter**: Provided Progress Report (CLIN0007) and Final Report (CLIN0007) templates; continue stakeholder engagement coordination
-- **Maciej**: 
-  - Analyze 5 CAT flights with focus on winds using dual GPS heading data (in progress May 6)
-  - Work with James Pinto on ISARRA wind data improvements for publication (week of May 6)
-  - Lead Phase II Cal/Val plan development; taking lead on putting Cal/Val plan (Task O.1) together and seeking team feedback
-  - Compile updated CAT files with improved wind estimation techniques
-  - Contribute to centralized data folder structure
-  - Assess P3 wind measurement discrepancies relative to dropsonde measurements (May 7 investigation)
+- **Beck Cotter**: 
+  - Provided Progress Report (CLIN0007) and Final Report (CLIN0007

@@ -1,11 +1,11 @@
 # Meredith O'Hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,283 (2,271 previous + 12 new from June 1)
-- **Date range:** March 23 – June 1, 2026 (approximately 10.5 weeks)
+- **Total messages scanned:** 2,342 (2,283 previous + 59 new from June 1–2)
+- **Date range:** March 23 – June 2, 2026 (approximately 10.75 weeks)
 - **Approximate volume:** 25–40 emails per day (mix of sent, received, and automated)
-- **June 1 new data:** 12 messages; **~17% human-initiated (2 direct business messages); ~83% transactional/automated/vendor notifications**
-- **Pattern sustained:** High-volume operational execution; weekend/early-week activity consistent with continuous supply chain and academic partnership management
+- **June 1–2 new data:** 59 messages; **~22% human-initiated direct business (13 messages); ~78% transactional/automated/vendor notifications**
+- **Pattern sustained:** High-volume operational execution; Monday concentration heavy on finance/accounting and vendor coordination; weekend activity extends into early Monday with multi-department routing
 
 ---
 
@@ -13,99 +13,99 @@
 
 ### Top Internal Contacts
 
-- **Jack Elston** — Legal/investor coordination, government contracts, strategic operations, academic partnerships; **sustained primary decision-maker**
-  - **June 1 activity:** Exchanging with external contacts on MHP data alignment (Tanay Topac, Stanford) and TABA status reporting (Ed Kase, EKase Consulting); **Jack acting as primary external liaison, Meredith receives via CC/forwarding pattern**
+- **Jack Elston** — Legal/investor coordination, government contracts, strategic operations, academic partnerships, vendor escalations
+  - **June 1–2 activity:** Finance review (GAAP compliance, invoice approvals); vendor communication (Microfirm Engineering payment scheduling); team coordination with Maciej Stachura on "Updates" (escalated/starred)
+  - **Pattern:** Primary decision-maker; Meredith routes external vendor/consultant matters to Jack for approval
+
+- **Paige Smith** (paige.smith@blackswifttech.com) — **NEW KEY CONTACT**
+  - **June 1 10:25 UTC:** Forwarded EchoBlue invoice to Meredith and Jack; starred/important
+  - **Signal:** Cross-functional coordination on vendor invoicing; possibly finance/operations partner
 
 ### Top External Contacts
 
-**Academic/Research Partnerships — ACTIVE COORDINATION**
+**Accounting/Finance & Tax Services — INTENSIFYING**
 
-- **Tanay Topac** (tanaytopac@stanford.edu) — **NEW MESSAGE:** June 1 06:49 UTC; "Re: MHP data alignment"; **flagged IMPORTANT; direct to Jack Elston**
-  - **Signal:** Stanford collaboration ongoing; data alignment iteration suggests active project progress or milestone gate
+- **Christy Evans** (cevans@reliascent.com) — **ACTIVE ENGAGEMENT (3 messages June 1)**
+  - **Subjects:** "Another question about GAAP compliance," "Question about 2026 reconciliation"
+  - **Pattern:** Real-time financial compliance Q&A; Meredith initiates, Evans responds same-day; escalated to Jack Elston
+  - **Signal:** External accounting firm managing year-end reconciliation and GAAP conversion work
 
-- **Arthur Berthe-Poirot** (arthur.berthe-poirot@mail.mcgill.ca) — **NEW MESSAGE:** May 31 16:40 UTC; "Infos UAS cold weather conditions"; **routed to info@blackswifttech.com; flagged IMPORTANT**
-  - **Signal:** McGill University contact; UAS cold-weather operational inquiry; **may indicate environmental testing, Canadian operations coordination, or academic partnership on UAV systems**
+- **Nadia Bryan** (nbryan@kofirm.com) — **ACTIVE ESCALATION**
+  - **June 1 23:43 UTC:** "RE: GAAP compliance for 2025"; flagged IMPORTANT
+  - **Signal:** External legal/compliance firm (likely KO Firm); responding to Meredith's direct inquiry on GAAP compliance matters
 
-**Consulting/Strategic Operations**
+- **Mark Kightlinger** (Mark@kcotax.com) — **TAX ADVISOR, ACTIVE**
+  - **June 1 activity (4 messages):** "2026 Books," "Quickbooks Conversion to Accrual Method" (2 exchanges)
+  - **Pattern:** Tax preparation and accounting system migration; Meredith driving conversion to accrual method
+  - **Signal:** Year-end/year-start financial system overhaul underway
 
-- **Ed Kase / EKase Consulting** (ed.kase@ekaseconsulting.com) — **ACTIVE ENGAGEMENT:** June 1 message from Jack Elston (May 31 19:37 UTC); "Re: TABA status through May"; **flagged IMPORTANT**
-  - **Signal:** Monthly status reporting on TABA (likely technical/operational initiative or project codename); external consultant managing discrete workstream
+- **Ryan Sykora** (rsykora@kofirm.com) — **PARTNER FIRM (KO Firm)**
+  - **June 1 16:10 UTC:** Jack Elston forwarding "Re: Updates" marked STARRED/IMPORTANT
+  - **Signal:** Legal/compliance firm; Jack handling direct coordination; may be related to GAAP or financial regulatory matters
 
-**Logistics/Shipping — SUSTAINED SURGE**
+**Manufacturing & Component Suppliers — ACTIVE ORDERING**
 
-- **DHL** — **CONTINUED MONITORING:** 1 additional message in new batch (June 1 10:01 UTC); tracking 4789316906 (same shipment as May 30–31)
-  - **Pattern:** Notification on June 1 morning (10:01 UTC) suggests shipment in final processing/delivery phase or customs clearance completion; **3-day notification cycle (May 30–June 1) indicates international routing with processing gates**
+- **JawsTec Manufacturing LLC** (info@jawstec.com) — **URGENT VENDOR ISSUE**
+  - **June 1 activity (4 messages):** Order #69032 refunded; Order #69038 received; payment requests processing
+  - **Signal:** Meredith drafting invoice correction for order 69032 (incomplete draft); 69038 replacing refunded order; manufacturing components with payment/invoice reconciliation issues
+  - **Pattern:** Active manufacturing partnership with order fulfillment and billing discrepancies
 
-**Vehicle/Travel Management — NEW OPERATIONAL SIGNAL**
+- **DigiKey** (via Purchasing) — **ACTIVE COMPONENT ORDER**
+  - **June 1 16:50 UTC:** PO Acknowledgement for Sales Order #99551398
+  - **Signal:** Electronics component distributor; direct component sourcing for assembly/build
 
-- **Hertz** — **NEW OPERATIONAL ALERT:** May 31 13:17 UTC; "Action needed: Maciej, your license + card on file are expired"; **routed to purchasing@blackswifttech.com; flagged CATEGORY_FORUMS**
-  - **Signal:** Rental car account under team member "Maciej"; expired credentials suggest either travel pause or account maintenance needed; **may indicate field operations or site visits**
+- **Microfirm Engineering** (microfirm@earthlink.net) — **VENDOR WITH PAYMENT PROCESSING**
+  - **June 1 12:28 UTC:** Jack Elston responding to May invoice; Quickbooks processing payment
+  - **Signal:** Engineering services or manufacturing partner; monthly invoicing cycle; payment scheduled
 
-**Finance/Accounting — INVOICE PROCESSING**
+**International Logistics — DUAL SHIPMENTS IN TRANSIT**
 
-- **No-Reply (Account 8xxx4W)** — **NEW TRANSACTIONAL:** June 1 02:30 UTC; "Invoice Now Available for Account 8xxx4W"; **routed to purchasing@blackswifttech.com**
-  - **Signal:** Automated invoice aggregation; account number suggests consolidated vendor or service provider
+- **DHL Express** — **TWO ACTIVE AIRWAY BILLS (AWBs)**
+  - **AWB 4789316906:** Notifications spanning May 30–June 2 (10 messages); June 2 06:32 MYT shipment update
+  - **AWB 3812290101:** **NEW SHIPMENT** (duplicate tracking starting June 2 02:54 UTC); 4 messages June 1–2
+  - **June 1 18:28 UTC:** Import Duty Payment Alert routed to info@blackswifttech.com (starred)
+  - **Pattern:** Parallel international logistics pipeline; both shipments showing documentation requests and duty alerts; **3+ day processing cycle indicates North American/cross-border routing with customs clearance gates**
+  - **Signal:** High-value components or equipment imports requiring duty documentation and payment
 
-**Logistics/Shipping (Transactional)**
+**Equipment & Procurement**
 
-- **UPS** — **ACTIVE PACKAGE:** May 31 14:25 UTC; "Your Package Arrives Tomorrow"; **routed to purchasing@blackswifttech.com**
-- **Amazon.com** — **ACTIVE SHIPMENT:** May 31 12:31 UTC; "Shipped: 4 'Logitech K400 Plus Wireless...'"; **routed to purchasing@blackswifttech.com**
-  - **Signal:** Office/lab equipment procurement (wireless keyboards); bulk order (4 units) suggests team/facility setup
+- **Amazon.com** (via Purchasing) — **ACTIVE DELIVERIES**
+  - **June 2 01:14 UTC:** Delivered: 4× Logitech K400 Plus Wireless keyboards (confirmed delivery June 2)
+  - **June 1 22:04 UTC:** Ordered: "Quick Release Plate, Camera..." (new order, likely camera/UAV mounting hardware)
+  - **Signal:** Office/lab equipment + specialized hardware (camera mounts suggest UAV/imaging systems work)
 
-**USPS** — **PASSIVE MAIL TRACKING:** May 31 13:15 UTC; daily digest; routed to purchasing@blackswifttech.com
+- **UPS** (via Purchasing) — **PACKAGE IN TRANSIT**
+  - **June 1 20:35 UTC:** "Your Package Arrives Tomorrow"
 
-**Marketing/Promotional — NOISE**
+**Facility Services**
 
-- **Budget (car rental)** — May 31 10:05 UTC; flash sale promotional; routed to purchasing@blackswifttech.com
-- **Aloft Hobbies** — May 31 15:31 UTC; loyal customer promotion; routed to purchasing@blackswifttech.com
-  - **Signal:** Radio control/hobby supplier; appears to be promotional mailing list (may be vestigial subscription or purchasing account monitoring)
-- **Harbor Freight** — May 31 14:44 UTC; promotional gift offer; routed to purchasing@blackswifttech.com
+- **Neat N Tidy** (info@neatntidy.co) — **NEW VENDOR ALERT**
+  - **June 2 02:21 UTC:** Booking reminder; routed to purchasing@blackswifttech.com
+  - **Signal:** Cleaning/facility maintenance service; upcoming appointment scheduled
+
+**Recruiting/HR**
+
+- **Carver Lindley** (carverlindley14@gmail.com) — **CANDIDATE INQUIRY**
+  - **June 1 18:51 UTC:** "Mechanical Engineering Opportunities"; routed to careers@blackswifttech.com
+  - **Signal:** External applicant; may be filtered away from Meredith's direct inbox
+
+**Supply Chain & Defense Sector**
+
+- **Lockheed Martin Approved Supplier Database** — **NEW REGISTRATION INVITATION**
+  - **June 1 17:58 UTC:** Invitation to create account on UK Approved Supplier Database; flagged IMPORTANT
+  - **Signal:** BST being onboarded or inviting participation in Lockheed Martin supplier ecosystem; **defense/aerospace supply chain qualification underway**
 
 ---
 
 ## Topic Patterns
 
-**Active Operational Themes (updated):**
+### 1. **Financial Year-End/Conversion Activity — PRIMARY FOCUS**
+   - **GAAP Compliance (2025 & 2026):** 5+ direct exchanges (Christy Evans, Nadia Bryan, Jack Elston, forwarding chain)
+   - **Quickbooks System Migration:** Converting to accrual method (3 exchanges with Mark Kightlinger, tax advisor)
+   - **2026 Reconciliation:** Active Q&A with external accounting (Christy Evans, Reliascent)
+   - **Signal:** Major financial system overhaul coinciding with fiscal year transition; likely driven by growth or investor/audit requirements
 
-1. **International Logistics & Cross-Border Movement**
-   - DHL tracking 4789316906 now in final processing phase (notifications spanning May 30–June 1; **3-day international shipment cycle suggests Canada/North America routing**)
-   - UPS and Amazon active package delivery (domestic logistics)
-   - **Signal:** Layered logistics pipeline (international + domestic) in parallel execution
-
-2. **Academic & Research Partnerships — INTENSIFYING**
-   - **Stanford MHP data alignment** (Tanay Topac, June 1)
-   - **McGill UAS cold-weather conditions inquiry** (Arthur Berthe-Poirot, May 31)
-   - **Signal:** Multi-institutional partnership activity; environmental/operational testing likely underway or planned
-
-3. **Supply Chain Component Procurement**
-   - Office/lab equipment (Logitech wireless keyboards × 4 units; Amazon May 31)
-   - Continued indirect component sourcing via purchased mailing lists (Aloft Hobbies)
-
-4. **Consulting & Project Status Reporting**
-   - **TABA status reporting** (Ed Kase, EKase Consulting; May 31)
-   - **Signal:** Monthly or periodic external consultant managing discrete workstream; requires Jack Elston escalation/approval
-
-5. **Team Operations & Travel**
-   - Hertz rental car account flagged for credential renewal (Maciej team member; May 31)
-   - **Signal:** Active travel or field operations; potential site visits or multisite coordination
-
----
-
-## Communication Patterns
-
-**June 1 Activity (Early Monday Morning):**
-- **06:49 UTC:** Stanford academic follow-up (Tanay Topac → Jack Elston; high-priority research coordination)
-- **10:01 UTC (MYT):** DHL shipment update (continued tracking of 4789316906)
-- **02:30 UTC:** Invoice posting notification (transactional automation)
-- **Pattern:** Early-week research/academic engagement resumes Monday; logistics monitoring continuous across time zones
-
-**Weekend Activity (May 31 full day):**
-- **13:15–19:37 UTC:** Concentrated operational messages (USPS digest, Hertz alert, UPS tracking, Harbor Freight promo, TABA status response via Jack)
-- **Dominated by transactional messages** (7 of 10 May 31 messages are marketing/transactional noise routed to purchasing@ mailing list)
-- **Signal:** Team working through weekend; Jack Elston responding to consulting status reports Sunday evening (19:37 UTC)
-
-**Mailing List Routing Pattern — EVOLVED:**
-- **Primary consolidation point:** purchasing@blackswifttech.com (10+ automated/vendor messages routed here)
-- **Human-directed messages:** Direct to Jack Elston or info@blackswifttech.com (research inquiries, strategic coordination)
-- **Pattern:** Meredith appears in CC/forwarding chain as approval authority; Jack Elston acts as external-facing decision-maker for academic/consulting partnerships
-- **Implication:** Meredith may not see individual transactional emails; purchasing team
+### 2. **International Logistics Pipeline — DUAL TRACK**
+   - **DHL AWB 4789316906:** Completed tracking cycle (May 30–June 2); **import duty alert indicates customs clearance phase**
+   - **DHL AWB 3812290101:** New parallel shipment (started tracking June 1); high-value components or equipment
+   - **Documentation requests** for both shipments (support documentation, duty declarations)
