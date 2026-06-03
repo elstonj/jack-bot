@@ -20,7 +20,29 @@
   "invoice_amount": null,
   "invoice_number": null,
   "paid_date": null,
-  "parts": [],
+  "parts": [
+    {
+      "name": "Flight controller",
+      "ordered": false,
+      "received": false,
+      "vendor": null,
+      "order_date": null
+    },
+    {
+      "name": "ESC",
+      "ordered": false,
+      "received": false,
+      "vendor": null,
+      "order_date": null
+    },
+    {
+      "name": "Servos",
+      "ordered": false,
+      "received": false,
+      "vendor": null,
+      "order_date": null
+    }
+  ],
   "tracking_number": null,
   "carrier": null,
   "shipped_date": null,
@@ -34,8 +56,7 @@
     "ship_to",
     "invoice_number",
     "invoice_date",
-    "invoice_amount",
-    "parts"
+    "invoice_amount"
   ],
   "last_evidence_date": "2026-05-26"
 }

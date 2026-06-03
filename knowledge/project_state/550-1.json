@@ -30,30 +30,30 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 38236.25,
+        "amount": 42535.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-02"
+        "last_updated": "2026-06-03"
       },
       "purchases": {
         "amount": 185.15,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-06-02"
+        "last_updated": "2026-06-03"
       },
       "other_qbo": {
-        "amount": 45.29,
+        "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-06-02"
+        "last_updated": "2026-06-03"
       },
-      "total": 38466.69,
+      "total": 42720.15,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 204073.31,
+    "remaining": 199819.85,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-02T09:05:10Z"
+    "last_reconciled": "2026-06-03T09:08:13Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -92,6 +92,12 @@
   "risks": [],
   "overrides": [
     {
+      "source": "CORRECTION",
+      "author": "Jack",
+      "date": "2026-05-08",
+      "text": "From Jack: the navy sttr has priority, the SBIR is mostly on schedule"
+    },
+    {
       "source": "FEEDBACK",
       "author": "Jack",
       "date": "2026-05-08",
@@ -114,14 +120,8 @@
       "author": "Jack",
       "date": "2026-05-11",
       "text": "From Jack (ts=1778249224.812399): <@U0AQE94HJUT> correction: the navy sttr has priority, the SBIR is mostly on schedule"
-    },
-    {
-      "source": "CORRECTION",
-      "author": "Jack",
-      "date": "2026-05-08",
-      "text": "From Jack: the navy sttr has priority, the SBIR is mostly on schedule"
     }
   ],
-  "last_full_rebuild": "2026-06-02T09:05:10Z",
+  "last_full_rebuild": "2026-06-03T09:08:13Z",
   "last_incremental_update": null
 }

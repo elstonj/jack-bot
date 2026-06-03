@@ -1,0 +1,41 @@
+{
+  "asana_gid": "1210367258005710",
+  "asana_task_name": "NASA Ames - S3 (qty.2)",
+  "customer": "NASA Ames Research Center",
+  "customer_contact": "Will Wade",
+  "customer_email": "William.o.wade@nasa.gov",
+  "receive_by": null,
+  "ship_to": null,
+  "items": [
+    {
+      "description": "complete BST S3 airframe including nosecone",
+      "quantity": 2
+    }
+  ],
+  "payment_state": "estimate_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Quote sent ($65,000); lead response 'Maybe Later'. Slack update (2026-05-21) proposes S3 airframes with nosecone per SOW. S2 simulator delivery mentioned in recent Slack but this task is for S3 qty.2. No QBO invoice found for this specific S3 build yet.",
+  "missing_fields": [
+    "receive_by",
+    "ship_to",
+    "invoice_date",
+    "invoice_amount",
+    "invoice_number"
+  ],
+  "last_evidence_date": "2026-06-01"
+}

@@ -1,79 +1,84 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 375 emails across seventeen data pulls
-- **Date range:** 16 May – 2 June 2026
-- **Volume pattern:** Heavily transactional (98%+ routed via purchasing alias). Approximately 10–12 direct work emails visible. **Backlog continues through 2 June — ALL messages remain UNREAD as of 2 June.**
-- **New data span:** 52 emails covering 1–2 June 2026 (continuation of sustained procurement surge)
+- **Total messages scanned:** 417 emails across eighteen data pulls
+- **Date range:** 16 May – 3 June 2026
+- **Volume pattern:** Heavily transactional (98%+ routed via purchasing alias). Approximately 10–15 direct work emails visible. **Backlog continues through 3 June — ALL messages remain UNREAD as of 3 June.**
+- **Latest data span:** 42 emails covering 2–3 June 2026 (continuation of sustained procurement surge with critical work email activity)
 
 ## Key Correspondents
 
 ### Senders (by frequency)
 
-**Purchasing team alias route** (252+ emails total, +35 new)
+**Purchasing team alias route** (287+ emails total, +35 new)
 
 #### Electronics & Components Suppliers
-- **DigiKey** (11 total, +2 new) — Order #99551398 acknowledgement (1 Jun); Invoice #126765065 shipment notification (1 Jun) — continued component procurement
-- **McMaster-Carr** (12 total) — No new activity in this pull
+- **DigiKey** (11 total) — No new activity in this pull
+- **McMaster-Carr** (13 total, +1 new) — **Receipt for May 29th Order (2 Jun 03:31)** — continued component procurement
 - **Pasternack** (4 total) — No new activity
 - **Mouser** (2 total) — No new activity
 - **Adafruit Industries** (1 total) — No new activity
-- **ELEGOO US** (4 total, +1 new) — **June exclusive deals promotion (1 Jun) directed to Alexis Lomis** — subscription-based promotional engagement
-- **Amazon.com** (15 total, +4 new) — **4x Logitech K400 Plus bulk order: out for delivery (1 Jun 23:30), delivered (2 Jun 01:14)**; **Quick Release Plate, Camera ordered (1 Jun 22:04)**; **ELEGOO Rapid PLA Plus ordered (1 Jun 18:09)** — escalating bulk input device and 3D printing material procurement
+- **ELEGOO US** (4 total) — No new activity
+- **Amazon.com** (15 total) — No new activity in this pull
 - **ServoCity®** (5 total) — No new activity
 - **PCBWay** (1 total) — No new activity
 
 #### Manufacturing & Fabrication Services
-- **SendCutSend** (7 total, +1 new) — **Order tracking continuation (2 Jun 03:25)** — sustained sheet metal fabrication engagement
+- **SendCutSend** (9 total, +2 new) — **Order SW46G546 tracking (2 Jun 19:03); "We've got your order! Here's what's next" (2 Jun 17:38)** — sustained sheet metal fabrication engagement
 - **Craftcloud** (1 total) — No new activity
 - **eMachineShop** (2 total) — No new activity
 - **Mini-box.com / iTuner Networks** (4 total) — No new activity
 
 #### Aerospace/Aviation
-- **JawsTec Manufacturing LLC** (7 total, +3 new) — **TWO CONCURRENT ORDERS NOW ACTIVE: Order #69038 received (1 Jun 19:11); Order #69032 received (1 Jun 18:16), then refunded same day (1 Jun 18:24), then NEW payment request issued (1 Jun 18:18)**; Payment request for Invoice 69038 (1 Jun 19:13) — **ESCALATED ACTIVITY: Dual order flow with refund cycle indicates order modification or correction in real-time**
-- **uAvionix** (2 total) — No new activity
+- **JawsTec Manufacturing LLC** (13 total, +6 new) — **THREE CONCURRENT ORDERS NOW ACTIVE: Invoice #69060 received (2 Jun 17:37); Payment request issued (2 Jun 17:38); Order on its way notification (2 Jun 21:50); PLUS two additional invoice payment reminders (3 Jun 06:04, 2 Jun 11:42, 2 Jun 09:35)** — **CRITICAL ESCALATION CONTINUES: Real-time order flow with multiple concurrent payment cycles and shipment notifications spanning 24-hour window**
+- **uAvionix** (3 total, +1 new) — **"Tech Tip Tuesday" promotional (2 Jun 17:00)** — continued engagement
 - **SkyGeek** (1 total) — No new activity
 - **CAPS Aviation** (1 total) — No new activity
 - **Phase 1 Aviation LLC** (1 total) — No new activity
-- **Daniels Manufacturing Corporation** (2 total) — No new activity
+- **Daniels Manufacturing Corporation** (3 total, +1 new) — **Safe-T-Cable Webinar invitation (2 Jun 14:47)** — sustained vendor engagement with training/webinar activity
+- **HeliDirect** (2 total, +2 new) — **NEW VENDOR: Purchase review request for 3x Hobbywing RPM Sensor For High-Voltage ESC (3 Jun 04:06); "New Features of ILGoblin Competizione" promotional (2 Jun 20:00)** — **helicopter/drone component supplier with high-voltage ESC sensors**
 
 #### Flashlight & Portable Power Equipment
 - **FlashlightGo** (3 total) — No new activity
-- **Battery Junction** (2 total, +1 new) — **Hurricane season preparedness alert (1 Jun 16:02)** — seasonal promotional engagement
+- **Battery Junction** (2 total) — No new activity
 - **DIY500AMP.COM** (3 total) — No new activity
 - **BatterySpace.com / AA Portable Power Corp.** (3 total) — No new activity
 
 #### Food & Beverage Services
-- **Spindrift Market** (7 total, +1 new) — **New order SH62373175 confirmed (2 Jun 05:05)** — sustained weekly subscription fulfillment
+- **Spindrift Market** (9 total, +2 new) — **Shipment SH62372539 out for delivery (2 Jun 09:27); delivered (2 Jun 16:02)** — sustained weekly subscription
 - **Driftaway Coffee** (5 total) — No new activity
+- **Moe's Broadway Bagel** (1 total, +1 new) — **Order confirmation (2 Jun 19:23)** — new/occasional food service
 
 #### Logistics & Shipping
 - **FedEx** (1 total) — No new activity
-- **UPS** (9 total, +2 new) — **"Your Package Arrives Tomorrow" (1 Jun 14:45, 1 Jun 20:35); "Your Package Is Coming Today" (1 Jun 10:45)** — continued package activity with multiple simultaneous arrivals
-- **USPS** (9 total, +1 new) — **Daily digest for Mon 6/1 (1 Jun 13:31)** — sustained daily tracking
-- **DHL** (21 total, +4 new) — **CRITICAL ESCALATION CONTINUES: DHL now processing THREE DISTINCT SHIPMENT NUMBERS with support documentation requests:**
-  - **AWB 4789316906:** Original problematic shipment now generating formal support documentation requests (1 Jun 19:21, 2 Jun 03:25); DHL shipment notification duplicates (1 Jun 22:20, 2 Jun 06:32)
-  - **AWB 3812290101:** NEW shipment (likely companion/related) generating parallel support documentation (1 Jun 19:36, 2 Jun 06:32)
-  - **Payment receipts:** 2 DHL Express payment receipts issued (1 Jun 17:14, 17:20) — **indicates payment for expedited/multiple shipments**
-  - **Span of notifications:** 30 May through 2 Jun — **72-hour critical window with unresolved shipment status across multiple tracking numbers**
+- **UPS** (12 total, +3 new) — **"Your Package Was Delivered" (2 Jun 12:01); "Your Package Arrives Tomorrow" (2 Jun 14:20)** — continued package activity
+- **USPS** (10 total, +1 new) — **Daily digest for Tue 6/2 (2 Jun 13:19)** — sustained daily tracking
+- **DHL** (25 total, +4 new) — **CRITICAL ESCALATION CONTINUES: DHL AWB 3812290101 shipment notification (3 Jun 00:06)** — ongoing parallel shipment tracking with unresolved status across 72+ hour window
+- **Worldwide Express** (1 total, +1 new) — **Invoice #260531W011484 (3 Jun 07:28)** — new shipping carrier engaged
 
 #### Tools & Hardware
-- **The Home Depot** (3 total, +3 new) — **Security alert + verification code (1 Jun 18:07) + feedback survey (1 Jun 14:02)** — account security event on 1 June; active account access
-- **Harbor Freight** (3 total, +3 new) — **Directed to "Maciej" in subject lines (1 Jun 17:14, 1 Jun 16:19)** — **Coupon expiry notice (1 Jun 16:19), early parking lot sale access (1 Jun 12:18), sizzling summer deals (1 Jun 17:14)** — retail promotional engagement with name mismatch anomaly
-- **Speedway Motors** (1 total, +1 new) — **Car gift promotional email (1 Jun 19:01)** — new vendor engagement
+- **The Home Depot** (3 total) — No new activity in this pull
+- **Harbor Freight** (4 total, +1 new) — **New product alert (2 Jun 13:37)** — continued retail promotional engagement
+- **Speedway Motors** (1 total) — No new activity
 
-#### Wholesale/Sourcing
-- **Alibaba RFQ** (2 total, +2 new) — **Two new quotation notifications (1 Jun 13:04)** — **DUPLICATE SAME-MINUTE TIMESTAMP (PDT) — indicates bulk RFQ submission or automated sourcing system activity** — international component sourcing activation
+#### Wholesale/Sourcing & Cable/Electrical
+- **Alibaba RFQ** (2 total) — No new activity in this pull
+- **Master Electronics** (1 total, +1 new) — **"Reliable Connections Start Here" promotional (2 Jun 14:00)** — new electrical/component supplier
+- **WireCare** (2 total, +1 new) — **Password reset notification (2 Jun 18:14); Order confirmation (2 Jun 18:20)** — new cable/wiring supplier engaged
+- **General Air Service** (1 total, +1 new) — **Invoice 97579498-1 for control #HOUSE (2 Jun 05:31)** — new vendor; aviation/air service related
 
 #### Other Services
-- **Dell Rewards** (1 total, +1 new) — Rewards program notification (1 Jun 07:11)
-- **SAP** (2 total, +2 new) — Business network webinar invitations (1 Jun 04:35, 11:14) — ERP system engagement
-- **X-Plane Team** (1 total, +1 new) — **FSExpo 26 Workshop booking (1 Jun 11:40)** — **new vendor: flight simulation software / aerospace training tool**
-- **Big Red F** (1 total, +1 new) — June promotional email (1 Jun 21:36) — new vendor
-- **Neat N Tidy** (1 total, +1 new) — **Booking reminder email (2 Jun 02:21)** — new service engagement (likely cleaning/facility service)
+- **Dell Technologies** (2 total, +1 new) — **Student savings promotion (2 Jun 11:07)** — continued engagement
+- **Dell Rewards** (1 total) — No new activity in this pull
+- **SAP** (2 total) — No new activity in this pull
+- **X-Plane Team** (1 total) — No new activity in this pull
+- **Big Red F** (1 total) — No new activity in this pull
+- **Neat N Tidy** (2 total, +1 new) — **Receipt from service (3 Jun 05:38)** — sustained facility/cleaning service
+- **Budget** (1 total, +1 new) — **Car rental promotional (2 Jun 16:07)** — occasional business travel support
 
-### Direct Work Email (via personal address)
+### Direct Work Email (via personal/company address)
 
-**Internal BST**
-- **Jack Elston** (1 total, +1 new) — **Calendar invitation: "S0 - MAD update" meeting Tue Jun 2, 9am–10am MDT (1 Jun 15:13); attendees include Sam Hild, Alexis Lomis, Maciej Stachura, plus 5 external Navy/DoD contacts** — **KEY PROJECT IDENTIFIER: S0 (likely internal code)**
-- **Maciej Stachura** (4 total
+**CRITICAL: S0 - MAD Project Thread (Navy DoD)**
+- **Sam Hild** (sam.hild@blackswifttech.com) — **DRAFT and SENT replies to Navy contacts (2 Jun 12:28, 13:50)** — active engagement on classified/sensitive project
+- **Jack Elston** (elstonj@blackswifttech.com) — **RE: [Non-DoD Source] Re: S0 - MAD update (2 Jun 13:59)** — coordination with Navy contact Eric Correa-Matos
+- **Correa-Matos, Eric D CIV USN COMNAVAIRSYSCOM PAX (USA)** (eric.d.correa-matos.civ@us.navy.mil) — **IMPORTANT emails (2 Jun 19:28); receiving replies from Sam Hild and Jack Elston** — **Naval

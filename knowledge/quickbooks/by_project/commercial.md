@@ -2,10 +2,10 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $2,960,489.34
-- **Total Expenses (Bills + Purchases):** $233,858.13
+- **Total Expenses (Bills + Purchases):** $239,269.53
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,726,631.21 (Revenue exceeds expenses)
-- **Date Range:** April 5, 2024 – May 30, 2026
+- **Net Position:** $2,721,219.81 (Revenue exceeds expenses)
+- **Date Range:** April 5, 2024 – June 3, 2026
 
 ---
 
@@ -94,6 +94,20 @@
 
 ## Expenses by Cost Category
 
+### **Indirect Costs** (Overhead, G&A, Indirect R&D)
+**Total: $11,206.23** | 2 transactions | Largest item: $5,411.40
+
+| Date | Vendor/Description | Amount | Details |
+|------|-------------------|--------|---------|
+| 2026-06-02 | Ted Miles — Bill #May 2026 | $5,411.40 | Aeropods work; 87 hours @ $62.20/hr |
+| (Prior) | Various indirect subcontractor expenses | $5,794.83 | From previous knowledge file |
+
+**Account:** RESEARCH & DEVELOPMENT: IRAD-Indirect Subcontractor Exp
+
+**Note:** The Ted Miles bill is classified as an indirect cost (research & development related work, not directly billable to specific projects).
+
+---
+
 ### **Materials & Supplies (Direct Cost Purchases)**
 **Total: $84,675.18** | 17 transactions | Largest item: $4,164.75
 
@@ -105,20 +119,4 @@
   - **Status:** Direct purchase made without Asana request; communicated via Slack message by Jack
 
 - **Purchase #334139 (2026-05-18):** $4,164.75
-  - $2,776.50 — Thermoset Laminate Linen Tubes (shipped to Lee Skidmore/Northwind Composites)
-  - $555.30 — Additional materials
-  - **Direct cost allocation:** $3,331.80
-  - **Inventory allocation:** $832.95 (future sales of 6 S0s)
-  - **Projects:** 2026 IDIQ, Sasquatch S0s, future S0 sales
-
-- **Previous materials purchases:** $79,440.45
-  - (Details maintained from prior knowledge file)
-
-**Largest individual items:**
-- Purchase #334139 — Thermoset Laminate Linen Tubes: $2,776.50
-- Multiple prior purchases between $500–$4,000 range for aircraft components, materials, and fabrication supplies
-
----
-
-### **Subcontractors (Direct Cost)**
-**Total: $1,990.83** | 
+  - $2,776.50 — Thermoset Laminate Linen Tubes (shipped to

@@ -38,8 +38,11 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Bartington sensor test configuration: Sequential 1-hour test runs for each sensor (Bartington and QuSpin) with aircraft off, planned as initial baseline validation (May 28, 2026)
 - QuSpin filter configuration: Decision pending on 10Hz low-pass filter enablement for next test week; need to verify custom filter options available in QuSpin profile loading feature per Jeff (May 29, 2026)
 
-**June 2026 (Emerging):**
+**June 2026:**
 - Electrical integration investigation: Potential source of increased magnetic noise identified—magnetometer now electrically connected to aircraft powered by aircraft regulator (vs. previous independent USB battery) and integration of carbon boom (June 1, 2026)
+- Bartington sensor power isolation strategy: Decision to use isolated supply/comms for Bartington sensor due to extreme susceptibility to electronic noise (requires <1mV ripple on power supply) (June 2, 2026)
+- ADC selection: Decided to pursue 24-bit ADC (or dual 24-bit ADCs interfaced via I2C) to achieve 1μV resolution required for Bartington sensor logging (June 2, 2026)
+- Custom PCB approach: Agreed to design quick-turn PCB for isolated power supply and high-resolution ADC integration rather than using breakout boards (June 2, 2026)
 
 ## Projects & Initiatives
 
@@ -80,11 +83,6 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Launcher development: Design phase (targeted completion week of May 12-16, 2026); parts ordering planned for June 15, 2026 to allow iteration before July 1st local mag flights
 - Bartington sensor logging: Dronecan logging program being updated to support Bartington sensor with dynamic memory allocation (Sam Hild)
 - Flight test baseline validation: Initial field testing completed with 1-hour sequential test runs for both Bartington and QuSpin loggers (May 28, 2026)
-- **Sensor noise performance investigation (June 1, 2026):** Significant degradation in sensor performance identified between November 2025 tests (4-5 pT/sqrt(Hz)) and recent May 2026 tests; potential electrical coupling and carbon boom integration identified as likely causes requiring investigation
 
-## Action Items & Commitments
-
-- **Launcher design completion**: Alex Lomis targeting week of May 12-16, 2026
-- **Launcher parts ordering**: Planned for June 15, 2026 to allow iteration before July 1st flights
-- **QuSpin filter configuration testing**: Enable 10Hz low-pass filter and verify custom filter options with Jeff (follow-up needed, May 29, 2026)
-- **Sensor noise investigation**: Determine if electrical integration to aircraft regulator and carbon boom are causing increased magnetic noise versus USB-isolated power (ongoing
+**Sensor Performance & Electrical Integration Investigation (June 2026 - critical issue):**
+- Issue: Significant degradation in sensor performance between November 2025 tests (4-5 pT/sqrt(Hz)) and May 

@@ -29,13 +29,13 @@
         "amount": 2718.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-02"
+        "last_updated": "2026-06-03"
       },
       "purchases": {
         "amount": 6739.32,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-06-02"
+        "last_updated": "2026-06-03"
       },
       "other_qbo": {
         "amount": 34.99,
@@ -46,10 +46,10 @@
       "total": 9493.06,
       "by_line_item": {}
     },
-    "committed": 11213.43,
-    "remaining": 69137.51,
+    "committed": 12460.51,
+    "remaining": 67890.43,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-02T09:04:00Z"
+    "last_reconciled": "2026-06-03T09:07:18Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -74,8 +74,14 @@
       "author": "Maciej",
       "date": "2026-05-04",
       "text": "From Maciej (ts=1777309788.790849): • <@U06CCFTNBS6>, after your meeting with ByLight let's update the due dates in Asana to realistic numbers and let them know.\n• <@U058LGYMEQ0>, did you need support on S0-VTOL stuff? Looks like some deadlines this week that I assume <@U01511MEQ90> or <@U06NQAYBLRK> can help with depending on their workload.\n• <@U07FN4QSNDN> or <@U01511MEQ90>, you had both mentioned using our AI tools to start on those NASA RFI's, are one of you able to get going on that soon? "
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Joshua Fromm",
+      "date": "2026-06-02",
+      "text": "From Joshua Fromm: ok all the payload parts for modifying both the murphys pond payloads and the gimbal are in the process of ordering right now, most parts to arrive ~ end of the week. biggest task is going to be rewiring the new db9 to mate up to the new style, which isn't a big deal at all. should be able to modify all 3 payloads in one day or less"
     }
   ],
-  "last_full_rebuild": "2026-06-02T09:04:00Z",
+  "last_full_rebuild": "2026-06-03T09:07:18Z",
   "last_incremental_update": null
 }

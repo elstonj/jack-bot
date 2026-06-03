@@ -1,12 +1,12 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-06-02 02:22
+Last scanned: 2026-06-03 02:22
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 15 files — [federal_projects.md](federal_projects.md)
+- **Federal Projects** — 12 files — [federal_projects.md](federal_projects.md)
 - **Sales** — 1 files — [sales.md](sales.md)
 
 ## Strategic Summary
@@ -15,51 +15,53 @@ Total drives scanned: 2
 
 ## Document Volume & Organization
 
-| Drive | Files | Folders | Organization |
-|-------|-------|---------|---------------|
-| **Federal Projects** | 15 | 0 | Poor - flat structure, no subfolders |
-| **Sales** | 1 | — | Minimal |
-| **TOTAL** | 16 | 0 | Needs improvement |
+**Total Files:** 13 across 2 drives
+- **Federal Projects:** 12 files (92%)
+- **Sales:** 1 file (8%)
 
----
+**Organization Quality:** Mixed
+- Federal drive uses primarily flat structure (minimal folder organization)
+- One designated subfolder (DoW Runtime Autonomy) remains empty, suggesting planned but incomplete organization
+- Sales drive is minimal/nascent
 
-## Key Findings
+## Key Clients & Projects
 
-### High-Activity Areas
-- **Federal Projects** dominates documentation (15 files)
-  - Air Force and defense contract focus
-  - Recent activity: June 2026 (current/near-future dates suggest active projects)
-  - Primary contributors: Beck Cotter, Joshua Wadler, Meredith Needham
+| Project | Drive | Document Count | Status |
+|---------|-------|-----------------|--------|
+| Air Force / Defense | Federal | 10+ | Active (recent modifications through 2026) |
+| SkyMesa (DAF26BZ01) | Federal | 2 | Active proposal submission |
+| EMASS | Sales | 1 | Active (2026-06-03) |
+| Runtime Assured Autonomy | Federal | 0 | Placeholder only |
 
-### Document Categories Identified
-| Type | Count | Status |
-|------|-------|--------|
-| Proposals/Tracking | 1 | Active |
-| Progress Reports | 1 | Current (June 2026) |
-| Financial/Invoices | 1 | Current |
-| Status Documents | 2 | Current |
-| Sales Proposals | 1 | Recent (June 2026) |
+## Cross-Drive Patterns
 
----
+- **Federal Projects drive dominates** with contracts, technical volumes, letters of commitment, invoices, and progress reports
+- **Sales drive is underdeveloped** — only one file despite likely needing proposal and pipeline documentation
+- **Clear client focus:** Air Force/DoD contracts represent primary revenue stream
 
-## Critical Observations
+## Shared Resources & Templates
 
-### ⚠️ Organization Issues
-1. **No folder hierarchy** in Federal Projects — all 15 files at root level
-2. **Duplicate files** — "06.01.26 TABA status through May.pdf" appears twice
-3. **Inconsistent naming conventions** — mixed date formats and numbering (e.g., "4. Invoice 1739" vs. "2026-06-03 Progress Report")
-4. **Limited Sales documentation** — only 1 file despite being a dedicated drive
+- Proposals appear standardized (Volume 2 Technical Volume template noted)
+- Letters of Commitment used as standard submission format
+- No explicitly designated templates or shared resources folder identified
 
-### ✓ Strengths
-- Active project management (current 2026 dates)
-- Cross-functional team coordination (multiple editors)
-- Clear financial tracking on federal side
+## Document Management Observations
 
----
+**Strengths:**
+- Recent activity through mid-2026 indicates active use
+- Key documents tracked by editor (Beck Cotter primary contributor)
+
+**Areas Needing Attention:**
+- Federal drive lacks hierarchical folder structure (flat storage inefficient for scaling)
+- Empty subfolder (DoW Runtime Autonomy) indicates incomplete project setup
+- Sales drive severely underdeveloped relative to document volume elsewhere
+- No apparent naming conventions or standardization visible
+- Missing: invoices, progress reports, and video assets referenced but not detailed
 
 ## Recommendations
 
-1. **Implement folder structure** in Federal Projects: `/Proposals`, `/Contracts`, `/Reports`, `/Financial`, `/Assets`
-2. **Remove duplicate files** and establish naming convention standards
-3. **Audit Sales drive** — assess if additional documentation needed or if centralized proposal repository would improve efficiency
-4. **Regular cleanup schedule** — monitor for stale or outdated documents
+1. Implement folder structure by project/client in Federal drive
+2. Populate Runtime Autonomy folder or archive placeholder
+3. Establish and grow Sales drive with pipeline, proposals, and templates
+4. Standardize file naming conventions across both drives
+5. Create templates and shared resources folder for reusable documents

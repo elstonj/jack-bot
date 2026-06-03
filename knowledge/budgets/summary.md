@@ -2,83 +2,82 @@
 
 ## Active Project Budgets
 
-### Project 300-3
-- **Project Code:** 300-3
-- **Client:** NOAA / EAD-OMAO, Norfolk, VA
-- **Total Budget:** $843,000.00 (five-year IDIQ total funded amount)
-- **Contract Type:** IDIQ (Indefinite Delivery / Indefinite Quantity) – firm fixed price with T&M extensions
-- **Contract Numbers:** 1305M226D0012 (base IDIQ); 1305M226F0084 (delivery order)
-- **Period of Performance:** 2026–2030
-- **Vendor:** Black Swift Technologies LLC (CAGE 6PGF9, UEI C2J3K9NRE3L3), Boulder, CO
-- **Spend/Remaining:** Not detailed in provided data; CLINs breakdown incomplete
+### Project 200-12: AREN (Aerokats and Rover Education Network)
+- **Client:** NASA Science Mission Directorate
+- **Contract Type:** Science Activation / Cooperative Agreement (NNX16AB95A)
+- **2025 Proposed Budget:** $117,701.50
+- **Period of Performance:** 2025 (part of multi-year project 2021–present)
+- **Key Personnel:** Kay Rufty (Aerospace Engineer, Co-I), Ted Miles (Senior Engineering Technician), Jack Elston & Maciej Stachura (Technical Consultants)
+- **Status:** Active, ongoing multi-year project
 
-### Project 550-2
-- **Project Code:** 550-2
+### Project 550-2: Expendable Air-sea Profiling Observations in Hazardous Weather
 - **Client:** United States Navy (Department of Naval Research)
-- **Total Budget:** $245,772.00 (Phase I Base + Option Period)
-  - Base Period: $146,326.00
-  - Option Period: $99,446.00
-- **Contract Type:** Navy STTR (Small Business Technology Transfer) Phase I with Option Period
+- **Contract Type:** STTR Phase I with Option Period
 - **Contract Number:** N6833525C0270
-- **Project Title:** N25A-T025 Expendable Air-sea Profiling Observations in Hazardous Weather Conditions
+- **Project Title:** N25A-T025
 - **Award Date:** July 22, 2025
-- **Period of Performance:** July 22, 2025 – January 7, 2026 (base); February 2026 onward (option)
-- **Prime Contractor:** Black Swift Technologies, LLC
-- **Spend/Remaining:** Not detailed in provided data
+- **Phase I Base Period Budget:** $146,326.00
+- **Option Period Budget:** $99,446.00
+- **Total Phase I + Option Value:** $245,772.00
+- **Phase I Performance Period:** July 22, 2025 – January 7, 2026
+- **Option Period Status:** Confirmed; extends into 2026
+- **Status:** Recently awarded; active Phase I execution
 
 ---
 
 ## By Funding Source
 
-| Funding Agency | Project Code(s) | Total Funded |
+| Agency/Client | Projects | Total Budget (Known) |
 |---|---|---|
-| NOAA (EAD-OMAO) | 300-3 | $843,000.00 |
-| U.S. Navy (ONR/DNR) | 550-2 | $245,772.00 |
-| **Subtotal (Assigned)** | | **$1,088,772.00** |
-| Unassigned/Portfolio | Multiple (1,181 docs) | *Unknown - pending classification* |
+| **NASA Science Mission Directorate** | 200-12 | $117,701.50 |
+| **U.S. Navy (Department of Naval Research)** | 550-2 | $245,772.00 |
+| **Other Federal Agencies (NASA, NOAA, DoD)** | Portfolio (Unassigned - 1,181 docs) | *To be detailed* |
+| **TOTAL (Documented)** | | **$363,473.50+** |
 
 ---
 
 ## By Contract Type
 
-| Contract Type | Project Code(s) | Count | Total Amount |
-|---|---|---|---|
-| IDIQ (Firm Fixed Price + T&M) | 300-3 | 1 | $843,000.00 |
-| Navy STTR Phase I (with Option) | 550-2 | 1 | $245,772.00 |
-| **Unassigned:** NASA, NOAA, DoD, other agencies | — | 1,181 docs | *Pending review* |
+| Contract Type | Projects | Count |
+|---|---|---|
+| **Science Activation / Cooperative Agreement** | 200-12 | 1 |
+| **STTR Phase I + Option** | 550-2 | 1 |
+| **SBIR/STTR (other phases)** | Unassigned portfolio | *Pending review* |
+| **IRAD / Internal R&D** | Unassigned portfolio | *Pending review* |
+| **Commercial Product Development** | MiniCam (preliminary) | 1 |
 
 ---
 
 ## Financial Health Indicators
 
-### Positive Indicators
-- **Project 300-3:** Five-year IDIQ contract ($843K) provides extended runway and stable funding through 2030
-- **Project 550-2:** STTR award with confirmed option period extending into 2026; strong Navy partnership
+### High Priority / Near-Term Funding Events
+- **Project 550-2:** Recently awarded (July 22, 2025); Phase I execution underway; Option Period confirmed for February 2026 — represents **near-term cash flow influx** ($146k base + $99.4k option)
+- **Project 200-12:** 2025 proposed budget cycle; part of established multi-year AREN program with stable funding history
 
-### Areas Requiring Clarification
-- **Project 300-3:** CLINs breakdown incomplete; no invoice/spend history provided
-- **Project 550-2:** No spend-to-date reported; all budgets remain available (early stage: award July 2025)
-- **Unassigned Portfolio:** 1,181 documents spanning NASA, NOAA, DoD without assigned project codes suggests:
-  - Multiple proposal stages (active bids, completed projects, inactive)
-  - Potential classification/organization needed
-  - Unknown total portfolio value
+### Budget Concerns / Monitoring Needed
+- **Unassigned Portfolio (1,181 documents):** Requires detailed review to identify:
+  - Projects nearing end-of-life funding
+  - Proposals awaiting award decisions
+  - Completed/inactive projects still in file system
+  - Large upcoming milestone invoices
 
 ---
 
 ## QuickBooks Integration Notes
 
-- **Project 300-3:** No QuickBooks cross-reference provided; NOAA IDIQ structure (delivery orders) requires careful invoice mapping
-- **Project 550-2:** No QuickBooks cross-reference provided; STTR Phase I timeline (July 2025 start) should sync with accounting records
-- **Unassigned Portfolio:** Critical gap—1,181 documents are Drive-only with no QB integration noted; recommend audit to identify:
-  - Which projects have corresponding QB entries
-  - Which are proposals vs. active billable work
-  - Which are completed/archived
+- **Project 200-12:** Labor rate table provided (Aerospace Engineer: $62.20/hr, 15% overhead, burdened rate $71.53/hr) — compatible with time-tracking and QuickBooks integration
+- **Project 550-2:** Lump-sum budget figures provided; detail cost breakdown available in Phase II proposals (referenced as incomplete in source document)
+- **Unassigned Portfolio:** No QuickBooks cross-reference data provided; **1,181 documents appear to be Drive-only** — recommend systematic audit to identify which projects are actively tracked in accounting system
 
 ---
 
-## Recommended Next Steps
+## Data Completeness Summary
 
-1. **Complete CLINs detail** for Project 300-3 to establish invoice schedule
-2. **Map unassigned portfolio** to project codes for financial consolidation
-3. **Cross-reference QB records** with all projects to identify accounting gaps
-4. **Establish spend tracking** for Project 550-2 (early in Phase I execution)
+| Metric | Status |
+|---|---|
+| **Well-Documented Active Projects** | 2 (200-12, 550-2) |
+| **Total Budget Visibility** | $363,473.50 (partial) |
+| **Unreviewed Documents** | 1,181 (portfolio-level review needed) |
+| **QuickBooks Linkage** | Partial (Project 200-12 has labor rates; recommend full audit) |
+
+**Recommendation:** Conduct comprehensive audit of unassigned portfolio to categorize by project code, funding status, and accounting system linkage.

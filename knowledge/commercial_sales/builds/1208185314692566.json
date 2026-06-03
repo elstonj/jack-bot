@@ -63,7 +63,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Academic research project for Alaska coastline erosion surveys using LiDAR. Customer requesting quote for E2 UAS system with optional technician-led 10-day deployment to Utquiagvik, Alaska. Kept due to substantive recent Slack activity (2026-05-15 through 2026-05-28) and explicit future receive_by date (2026-08-31), overriding Asana 'Next Steps (Sales)' = 'No action needed'. Estimate sent; customer decision deadline 2026-08-30.",
+  "notes": "Academic research project for Alaska coastline erosion surveys using LiDAR. Customer requesting quote for E2 UAS system with optional technician-led 10-day deployment to Utquiagvik, Alaska. KEPT despite Asana 'Next Steps (Sales)' = 'No action needed' and 'Closed Value' = $0 due to substantive recent Slack activity (2026-05-15 through 2026-05-28) confirming estimate_sent phase and explicit future receive_by date (2026-08-31). Customer decision deadline 2026-08-30.",
   "missing_fields": [
     "ship_to",
     "estimate_date",

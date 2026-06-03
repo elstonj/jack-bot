@@ -1,47 +1,21 @@
 {
   "project_code": "001-7",
   "qbo_class_names": [
-    "(001-7) IRAD - S3",
-    "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
+    "(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-06-01",
-    "end": "2026-06-02"
+    "start": "2026-06-02",
+    "end": "2026-06-03"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 7194.37,
+    "expenses": 2954.62,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 4319.37,
-      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 2875.0
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 2954.62
     }
   },
   "invoices": [],
-  "bills": [
-    {
-      "type": "Bill",
-      "date": "2026-06-01",
-      "doc_number": "",
-      "total": 6257.6,
-      "attributed": 6257.6,
-      "vendor": "MicroFirm Engineering",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 2875.0,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
-          "description": "Hours: 23 @ $125"
-        },
-        {
-          "amount": 3382.6,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Parts"
-        }
-      ]
-    }
-  ],
+  "bills": [],
   "purchases": [
     {
       "type": "Purchase",
@@ -63,55 +37,55 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-06-01",
-      "doc_number": "",
-      "total": 17.89,
-      "attributed": 17.89,
+      "date": "2026-06-02",
+      "doc_number": "SW46G546",
+      "total": 809.58,
+      "attributed": 809.58,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 17.89,
+          "amount": 809.58,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Quick Release Plate, Camera Tripod Mount Arca Swiss"
+          "description": "S3 IRAD purchase"
         }
       ]
     },
     {
       "type": "Purchase",
-      "date": "2026-06-01",
-      "doc_number": "69038",
-      "total": 664.62,
-      "attributed": 664.62,
+      "date": "2026-06-02",
+      "doc_number": "69060",
+      "total": 1926.4,
+      "attributed": 1926.4,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 664.62,
+          "amount": 1926.4,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": ""
+          "description": "Nosecone ring x 3"
         }
       ]
     },
     {
       "type": "Purchase",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "doc_number": "0529JELSTON",
-      "total": 113.67,
-      "attributed": 113.67,
+      "total": 78.05,
+      "attributed": 78.05,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "",
+      "memo": "No Asana request - project is listed under the item purchased",
       "lines": [
         {
-          "amount": 113.67,
+          "amount": 78.05,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "IRAD S3 items (gimbal)"
+          "description": "Neoprene Vibration-Damping Sandwich Mount"
         }
       ]
     }

@@ -7,13 +7,13 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Nikhila (eMASS AI) - Primary developer, leading chip integration and AI model implementation
 - Jack Elston (BST) - Autopilot/simulation expertise, hardware integration guidance, protocol specification, flight testing, data analysis
 - Dan Prendergast (BST) - Flight test coordination, E2 aircraft management, hardware setup lead, simulator testing
-- Mohamed M. Sabry (eMASS AI) - AI model training and constraint optimization, PPO (Proximal Policy Optimization) control strategy
+- Mohamed M. Sabry (eMASS AI) - AI model training and constraint optimization, PPO (Proximal Policy Optimization) control strategy, project timeline management
 - Moe/Prof. Moe (eMASS AI) - AI model training and optimization
 - Maciej (BST) - Vehicle parameters and specifications
 - Sergio Ruocco (eMASS AI) - Autoboot firmware expert, SDK bring-up and troubleshooting
 - Shantanu (eMASS AI) - Hardware verification and validation
 
-**Activity Level:** Highly active collaboration spanning February-April 2026, with continued activity into May 2026. Intensive HWIL and model training in March-April. Critical first-flight test completed on Apr 24, 2026. Recent activity (May 4-5, 2026) focused on testing methodology and flight plan preparation for controller evaluation. Activity through May 20-21, 2026 focused on velocity command control mode refinement, frequency optimization, and flight test sequence clarification. Activity through May 25, 2026 included troubleshooting waypoint navigation behavior, controller stability issues, sim-to-flight fidelity gaps, post-flight analysis, protocol documentation requests, and holiday scheduling. Activity May 26-27, 2026 involved delivery of three microtest binaries with comprehensive velocity command test sequences and overshoot validation. Activity May 28, 2026 focused on microtest flight results analysis and control behavior diagnostics. Latest activity (May 29, 2026) addresses velocity command precision issues and control limit parameters.
+**Activity Level:** Highly active collaboration spanning February-April 2026, with continued activity into May 2026. Intensive HWIL and model training in March-April. Critical first-flight test completed on Apr 24, 2026. Recent activity (May 4-5, 2026) focused on testing methodology and flight plan preparation for controller evaluation. Activity through May 20-21, 2026 focused on velocity command control mode refinement, frequency optimization, and flight test sequence clarification. Activity through May 25, 2026 included troubleshooting waypoint navigation behavior, controller stability issues, sim-to-flight fidelity gaps, post-flight analysis, protocol documentation requests, and holiday scheduling. Activity May 26-27, 2026 involved delivery of three microtest binaries with comprehensive velocity command test sequences and overshoot validation. Activity May 28, 2026 focused on microtest flight results analysis and control behavior diagnostics. Latest activity (May 29, 2026) addressed velocity command precision issues and control limit parameters. **Current activity (June 2, 2026):** Testing multiple binary variants with hardcoded vs. waypoint-fetched flight paths; scheduling pressure due to pilot availability and compressed test window.
 
 ---
 
@@ -95,8 +95,4 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Nikhila identified discrepancy in PWM actuator value conversion in emass_handler.cpp
 - Current code assumes range: -100→1000µs, 0→1500µs, +100→2000µs (formula: 1500 + actuators[i] * 5)
 - Flight Log User Guide references different range: 1150µs (0%) to 1900µs (100%)
-- **Decision: Pending clarification from Jack Elston on correct PWM value ranges**
-- Impact: Simple loopback test sending incoming PWM values back caused autopilot shutdown, indicating conversion error
-- Status: Awaiting corrected range specification before next test
-
-**PWM Command
+- **Decision: Pending clarification from Jack Elston on correct PWM

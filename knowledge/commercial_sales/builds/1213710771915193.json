@@ -8,7 +8,7 @@
   "ship_to": null,
   "items": [
     {
-      "description": "S3 with EO/IR gimbal, 120km range (1h 35min TOF) — Ottawa demo unit (Arctic-capable)",
+      "description": "S3 with EO/IR gimbal, 120km range (1h 35min TOF) \u2014 Ottawa demo unit (Arctic-capable)",
       "quantity": 1
     }
   ],
@@ -44,7 +44,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "ACTIVE ORDER: this is the funded S3 Canada demo (NexTech Solutions / Canadian Rangers) \u2014 a commercial demo of an S3 system, not the SBIR-funded magnetometer R&D demo. Demo unit in build for the Ottawa flight test (receive-by 2026-06-25). End customer is the Canadian Rangers; NexTech Solutions is the DoD contractor/integrator running this program. Merged duplicate 'Canadian Rangers Demo (Ottawa)' (gid 1214795652219550) into this record 2026-06-02 \u2014 same single program/order, previously split into 'Ottawa demo' and 'Arctic validation' phases. Phases: Ottawa demo flight test June\u2013August 2026; Arctic validation Nov 2026\u2013April 2027 in Whitehorse. NexTech evaluating S3 for tactical deployment with Joint Forces Command Canada; potential follow-on JFC procurement for the Rangers. Dan Prendergast also engaged on the Ottawa demo. Recent Slack activity 2026-06-01 confirms active engagement.",
+  "notes": "ACTIVE ORDER: funded S3 Canada demo (NexTech Solutions / Canadian Rangers) \u2014 commercial demo unit in assembly for Ottawa flight test (June\u2013August 2026, receive-by 2026-06-25). Arctic validation phase follows Nov 2026\u2013April 2027 in Whitehorse. NexTech evaluating S3 for tactical deployment with Joint Forces Command Canada; potential follow-on JFC procurement for Rangers. Dan Prendergast also engaged. Merged duplicate task 1214795652219550 (2026-06-02). Recent Slack activity 2026-06-01 confirms active engagement.",
   "missing_fields": [
     "ship_to",
     "estimate_date",
