@@ -91,5 +91,6 @@
     "parts.vendor",
     "shipped_date"
   ],
-  "last_evidence_date": "2026-06-01"
+  "last_evidence_date": "2026-06-01",
+  "last_contact_date": null
 }

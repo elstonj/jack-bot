@@ -1,0 +1,70 @@
+{
+  "asana_gid": "proj-452-1",
+  "asana_task_name": "University of Colorado Boulder (CU Boulder) [452-1]",
+  "customer": "University of Colorado Boulder",
+  "customer_contact": "Daniel Hesselius",
+  "customer_email": "daniel.hesselius@colorado.edu",
+  "receive_by": "2026-08-31",
+  "ship_to": "2840 Wilderness Place Suite D, Boulder CO 80301",
+  "items": [
+    {
+      "description": "Black Swift E2 UAS Flight System",
+      "quantity": 1
+    },
+    {
+      "description": "E2 Photogrammetry Payload (or custom multispectral/thermal/lidar)",
+      "quantity": 1
+    },
+    {
+      "description": "E2 Battery (spare)",
+      "quantity": 1
+    },
+    {
+      "description": "Travel case",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "paid",
+  "build_state": "complete",
+  "ship_state": "delivered",
+  "estimate_date": null,
+  "invoice_date": "2025-05-12",
+  "invoice_amount": 15000.0,
+  "invoice_number": "1668",
+  "paid_date": "2025-05-12",
+  "parts": [
+    {
+      "name": "E2 UAS Airframe",
+      "ordered": true,
+      "received": true,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    },
+    {
+      "name": "SwiftCore Flight Management System",
+      "ordered": true,
+      "received": true,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    },
+    {
+      "name": "E2 Battery (spare)",
+      "ordered": true,
+      "received": true,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    }
+  ],
+  "tracking_number": "1265245052",
+  "carrier": "DHL Express",
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Hesselius E2 project completed and paid in full (Invoice 1668, $15,000, dated 2025-05-12). Single-unit E2 airframe UAS procurement with complete avionics package and toolkit, delivered to customer by June 4, 2025 per project record.",
+  "missing_fields": [],
+  "last_evidence_date": "2026-06-01",
+  "last_contact_date": "2026-06-01"
+}

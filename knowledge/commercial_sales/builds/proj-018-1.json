@@ -1,0 +1,42 @@
+{
+  "asana_gid": "proj-018-1",
+  "asana_task_name": "Murray State University (Principal Investigator: Dr. Bassil El Masri) [018-1]",
+  "customer": "Murray State University",
+  "customer_contact": "Dr. Bassil El Masri",
+  "customer_email": "belmasri@murraystate.edu",
+  "receive_by": "2026-10-31",
+  "ship_to": null,
+  "items": [
+    {
+      "description": "S2 Aircraft Rental",
+      "quantity": 12
+    },
+    {
+      "description": "Survey Services",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "invoice_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": "2025-12-11",
+  "invoice_amount": 24579.29,
+  "invoice_number": "1728",
+  "paid_date": "2025-12-17",
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Multi-trip S2 rental project for CH4 emissions monitoring at Murphy's Pond, Kentucky. Trip #2 (Nov 6-7, 2025) invoiced and paid. Remaining 2 flights scheduled for late June/July and October 2026. Dr. Masri traveling May 19\u2013June 9; flights tentatively scheduled around his availability.",
+  "missing_fields": [
+    "ship_to"
+  ],
+  "last_evidence_date": "2026-05-21",
+  "last_contact_date": null
+}

@@ -1,0 +1,52 @@
+{
+  "asana_gid": "proj-042-1",
+  "asana_task_name": "Stanford University, Department of Aeronautics and Astronautics (Prof. Fu-Kuo Chang) [042-1]",
+  "customer": "Stanford University, Department of Aeronautics and Astronautics",
+  "customer_contact": "Prof. Fu-Kuo Chang",
+  "customer_email": "",
+  "receive_by": "2025-06-17",
+  "ship_to": "",
+  "items": [
+    {
+      "description": "S2 UAS Platform - Right Wing",
+      "quantity": 1
+    },
+    {
+      "description": "S2 UAS Platform - Fuselage with Avionics",
+      "quantity": 1
+    },
+    {
+      "description": "S2 UAS Platform - Nose Cone",
+      "quantity": 1
+    },
+    {
+      "description": "Payload Development Kit",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "paid",
+  "build_state": "complete",
+  "ship_state": "delivered",
+  "estimate_date": null,
+  "invoice_date": "2025-05-02",
+  "invoice_amount": 5000.0,
+  "invoice_number": "1666",
+  "paid_date": "2025-05-02",
+  "parts": [],
+  "tracking_number": "",
+  "carrier": "",
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "S2 components supplied from Black Swift operational spare inventory for Stanford's structural health monitoring research integration. Invoice 1666 ($5,000) paid; delivery requested June 17, 2025 for public demonstration at IWSHM conference (September 2025). Project scope: S2 UAS platform components (right wing, fuselage with avionics, nose cone, payload development kit).",
+  "missing_fields": [
+    "customer_contact",
+    "customer_email",
+    "ship_to"
+  ],
+  "last_evidence_date": "2026-06-03",
+  "last_contact_date": "2026-06-02"
+}

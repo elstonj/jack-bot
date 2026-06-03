@@ -1,0 +1,45 @@
+{
+  "asana_gid": "proj-032-3",
+  "asana_task_name": "Notre Dame (Point of Contact: David Richter \u2014 David.Richter.26@nd.edu) [032-3]",
+  "customer": "Notre Dame",
+  "customer_contact": "David Richter",
+  "customer_email": "David.Richter.26@nd.edu",
+  "receive_by": "2026-06-19",
+  "ship_to": "",
+  "items": [
+    {
+      "description": "Sasquatch S0",
+      "quantity": 4
+    },
+    {
+      "description": "Travel",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "invoice_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": "2026-04-10",
+  "invoice_amount": 90000,
+  "invoice_number": "1755",
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Jack Elston",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Verbal order placed Feb 19, 2026 for 4 S0 units + travel based on estimate 1373. Jack stated 4-month delivery timeline (~Feb 19 \u2013 Jun 19, 2026). QBO invoices #1755 (2026-04-10, $90k) and #1746 (2026-03-27, $90k) both unpaid; total invoiced ($180k) exceeds authorized budget ($88.7k) by ~$91.3k \u2014 requires clarification with Jack on budget/invoicing discrepancy.",
+  "missing_fields": [
+    "ship_to",
+    "build_state",
+    "paid_date",
+    "parts"
+  ],
+  "last_evidence_date": "2026-06-01",
+  "last_contact_date": null
+}
