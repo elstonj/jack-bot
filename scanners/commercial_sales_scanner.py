@@ -39,7 +39,7 @@ from .base import (
     update_scan_timestamp,
     DISTILL_MODEL,
 )
-from google_client import _get_credentials
+from google_client import _get_credentials, search_calendar_events
 from commercial_sales import (
     Build,
     Item,
@@ -56,6 +56,7 @@ from commercial_sales import (
     merge_builds_by_invoice,
     merge_build_cluster,
     is_stale_lead,
+    is_order,
     STALE_LEAD_DAYS,
     _norm_invoice,
     BUILDS_DIR,
@@ -1931,6 +1932,97 @@ def _write_index(builds: list[Build], cases: list[SupportCase]) -> Path:
     return path
 
 
+# --- "Last touch" computation (email + calendar) ---------------------------
+# A lead's staleness is judged from genuine customer engagement, not Slack
+# noise or the estimate date alone. We compute the most recent of: customer
+# emails (from the shared sales mailboxes + direct search, already gathered per
+# build) and calendar meetings with the customer (searched across the sales
+# team's calendars). See commercial_sales.is_stale_lead.
+
+# DEFAULT_OWNERS first names whose calendars we search for customer meetings,
+# plus the admin. These are the commercial-sales interface/invoicing/build
+# owners (Beck / Meredith / Nate).
+_SALES_TEAM_FIRST_NAMES = {"beck", "meredith", "nate"}
+
+
+def _sales_team_emails(slack_client=None) -> set[str]:
+    """Resolve the sales team's emails (admin + Beck/Meredith/Nate) once per
+    scan, via user_map. Best-effort: degrades to just the admin on any failure
+    (calendar is a supplementary signal; email coverage is the strong one)."""
+    emails = {_admin_impersonation_user().lower()}
+    try:
+        import user_map
+        if slack_client is not None and not user_map.get_all_users():
+            user_map.build_user_map(slack_client)
+        for u in user_map.get_all_users():
+            name = (u.get("name") or "").lower()
+            email = (u.get("email") or "").lower()
+            first = name.split()[0] if name else ""
+            if email and first in _SALES_TEAM_FIRST_NAMES:
+                emails.add(email)
+    except Exception as e:
+        print(f"  [WARN] sales-team calendar resolution failed ({e}); admin only")
+    return emails
+
+
+def _customer_email_dates(emails: list[dict], customer_email: Optional[str]) -> list[str]:
+    """ISO dates of emails that are genuine customer correspondence. When we
+    know the customer's domain, require it in from/to/cc; otherwise fall back to
+    every gathered email (they come from customer-facing mailboxes already)."""
+    dom = _sender_domain(customer_email) if customer_email else ""
+    dates = []
+    for e in emails:
+        d = e.get("date") or ""
+        if not d:
+            continue
+        if dom:
+            hay = " ".join([e.get("from", ""), e.get("to", ""), e.get("cc", "")]).lower()
+            if dom in hay:
+                dates.append(d)
+        else:
+            dates.append(d)
+    return dates
+
+
+def _fetch_customer_meeting_dates(customer: str, customer_email: Optional[str],
+                                  team_emails: set[str]) -> list[str]:
+    """ISO dates of calendar meetings with this customer across the sales team's
+    calendars. Matches when the customer domain is among attendees, or a
+    distinctive customer-name token is in the event title. Best-effort."""
+    toks = [t for t in re.sub(r"[^\w\s]", " ", (customer or "").lower()).split()
+            if len(t) >= 4 and not t.isdigit() and t not in GENERIC_CUSTOMER_TOKENS]
+    query = toks[0] if toks else (customer or "").strip()
+    if not query:
+        return []
+    dom = _sender_domain(customer_email) if customer_email else ""
+    dates = []
+    for cal in team_emails:
+        for ev in search_calendar_events(cal, query=query, days_back=400):
+            summary = (ev.get("summary") or "").lower()
+            attendees = " ".join(ev.get("attendees") or [])
+            if (dom and dom in attendees) or any(t in summary for t in toks):
+                dates.append(ev["date"])
+    return dates
+
+
+def _set_last_contact_date(build: Build, matched_emails: list[dict],
+                           team_emails: set[str], prior: Optional[str] = None) -> None:
+    """Stamp build.last_contact_date with the most recent genuine touch. Email
+    is checked for every build; calendar meetings are searched only for leads
+    (committed orders age on terminal states, not on contact recency). `prior`
+    (the previous scan's value) is folded in as a floor so a real contact isn't
+    lost when it ages out of this scan's email/calendar window."""
+    dates = _customer_email_dates(matched_emails, build.customer_email)
+    if not is_order(build):
+        dates += _fetch_customer_meeting_dates(
+            build.customer, build.customer_email, team_emails)
+    if prior:
+        dates.append(prior)
+    dates = [d for d in dates if d]
+    if dates:
+        build.last_contact_date = max(dates)
+
+
 def scan_all(mode: str = "incremental", slack_client=None) -> dict:
     """Run the commercial sales scanner.
 
@@ -1977,6 +2069,11 @@ def scan_all(mode: str = "incremental", slack_client=None) -> dict:
     # attachment fetching during per-Build Haiku extraction. Built once and
     # passed through so we don't pay the auth/setup cost per Build.
     admin_gmail = _build_admin_gmail_service()
+
+    # Sales-team calendars searched for customer meetings (a "last touch" signal
+    # for leads). Resolved once; degrades to admin-only if user_map is unavailable.
+    team_emails = _sales_team_emails(slack_client)
+    print(f"  Sales-team calendars for meeting lookup: {len(team_emails)}")
 
     # 2. Pull emails for each shared address from the admin mailbox
     # (info@/sales@/support@ are distribution groups, not directly impersonable —
@@ -2090,6 +2187,11 @@ def scan_all(mode: str = "incremental", slack_client=None) -> dict:
             # Stamp the Asana task name so the renderer can disambiguate
             # same-customer cards via the subtitle.
             updated.asana_task_name = task.get("name") or None
+            # Genuine "last touch" from customer email + (for leads) meetings —
+            # drives lead aging in is_stale_lead.
+            _set_last_contact_date(
+                updated, matched_emails, team_emails,
+                prior=existing.last_contact_date if existing else None)
         if updated:
             save_build(updated)
             new_builds.append(updated)

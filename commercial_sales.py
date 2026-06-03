@@ -133,6 +133,11 @@ class Build:
     notes: Optional[str] = None
     missing_fields: list[str] = field(default_factory=list)
     last_evidence_date: Optional[str] = None  # ISO date of most recent source signal
+    # ISO date of the most recent *genuine customer touch* — a customer email or
+    # a calendar meeting (NOT Slack/internal chatter). Drives lead aging; the
+    # scanner computes it deterministically. Distinct from last_evidence_date,
+    # which Haiku sets from any signal it used (including noisy Slack mentions).
+    last_contact_date: Optional[str] = None
 
     def owner(self, role: str) -> str:
         return self.owners.get(role) or DEFAULT_OWNERS.get(role, "")
@@ -192,6 +197,7 @@ class Build:
             notes=d.get("notes"),
             missing_fields=list(d.get("missing_fields", [])),
             last_evidence_date=d.get("last_evidence_date"),
+            last_contact_date=d.get("last_contact_date"),
         )
 
 
@@ -802,12 +808,17 @@ def merge_build_cluster(members: list[Build]) -> Build:
             winner.parts = loser.parts
         for role, who in (loser.owners or {}).items():
             winner.owners.setdefault(role, who)
-        # latest evidence wins (ISO dates compare lexicographically)
+        # latest dates win (ISO dates compare lexicographically)
         if loser.last_evidence_date and (
             not winner.last_evidence_date
             or loser.last_evidence_date > winner.last_evidence_date
         ):
             winner.last_evidence_date = loser.last_evidence_date
+        if loser.last_contact_date and (
+            not winner.last_contact_date
+            or loser.last_contact_date > winner.last_contact_date
+        ):
+            winner.last_contact_date = loser.last_contact_date
     return winner
 
 
@@ -831,15 +842,19 @@ def merge_builds_by_invoice(builds: list[Build]) -> list[Build]:
 
 
 def is_stale_lead(b: Build, today: Optional[date] = None) -> bool:
-    """True for an estimate-only Lead whose quote has gone cold.
+    """True for an estimate-only Lead whose engagement has gone cold.
 
-    Estimate-only means no invoice and no build/ship work started. The age is
-    measured from `estimate_date` — the order's own milestone — and NEVER from
-    `last_evidence_date`, which tangential Slack/email noise keeps refreshing
-    and would otherwise keep a dead lead alive forever (the Oklahoma State case:
-    estimate sent 2024-11-14, never advanced, but last_evidence_date read
-    2026-05-26 from unrelated chatter). A lead with no estimate_date isn't aged
-    out here — it may be a fresh/live opportunity.
+    Estimate-only means no invoice and no build/ship work started. Staleness is
+    measured from the most recent *genuine touch* — the latest of:
+      • `last_contact_date` (a customer email or calendar meeting; the scanner
+        computes this deterministically, excluding noisy Slack/internal chatter)
+      • `estimate_date` (when BST last sent the quote)
+    A recent email/meeting keeps an old-estimate lead alive ("last-touch wins").
+    We deliberately ignore `last_evidence_date`, which Haiku refreshes from any
+    signal including unrelated Slack mentions — that's what kept the Oklahoma
+    State lead (estimate 2024-11-14, no real contact since) alive forever. A
+    lead with no estimate_date AND no contact date isn't aged out here — it may
+    be a fresh opportunity we just haven't dated yet.
     """
     today = today or date.today()
     if b.payment_state not in ("none", "estimate_sent"):
@@ -850,10 +865,11 @@ def is_stale_lead(b: Build, today: Optional[date] = None) -> bool:
         return False
     if b.invoice_number:
         return False
-    est = _parse_iso_date(b.estimate_date)
-    if not est:
+    touches = [d for d in (_parse_iso_date(b.last_contact_date),
+                           _parse_iso_date(b.estimate_date)) if d]
+    if not touches:
         return False
-    return (today - est).days > STALE_LEAD_DAYS
+    return (today - max(touches)).days > STALE_LEAD_DAYS
 
 
 def prepare_active_builds(builds: list[Build], today: Optional[date] = None) -> list[Build]:

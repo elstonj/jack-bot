@@ -281,6 +281,55 @@ def get_todays_calendar(user_email):
     return events
 
 
+def search_calendar_events(user_email, query=None, days_back=400, days_forward=30,
+                           max_results=50):
+    """Search a user's primary calendar for events in a date window.
+
+    Best-effort: returns [] on missing creds or any API error rather than
+    raising. Used by the commercial-sales scanner to find customer meetings
+    (a genuine "last touch" signal for leads).
+
+    Returns:
+        list[dict]: [{"summary": str, "date": "YYYY-MM-DD", "attendees": [email]}]
+                    sorted newest first.
+    """
+    creds = _get_credentials(user_email)
+    if not creds:
+        return []
+    try:
+        service = build("calendar", "v3", credentials=creds, cache_discovery=False)
+        now = datetime.now(timezone.utc)
+        params = {
+            "calendarId": "primary",
+            "timeMin": (now - timedelta(days=days_back)).isoformat(),
+            "timeMax": (now + timedelta(days=days_forward)).isoformat(),
+            "singleEvents": True,
+            "orderBy": "startTime",
+            "maxResults": max_results,
+        }
+        if query:
+            params["q"] = query
+        results = service.events().list(**params).execute()
+    except Exception:
+        return []
+
+    events = []
+    for event in results.get("items", []):
+        start = event.get("start", {})
+        raw = start.get("dateTime") or start.get("date", "")
+        day = raw[:10] if raw else ""
+        if not day:
+            continue
+        attendees = [a.get("email", "").lower() for a in event.get("attendees", [])]
+        events.append({
+            "summary": event.get("summary", "(no title)"),
+            "date": day,
+            "attendees": attendees,
+        })
+    events.sort(key=lambda e: e["date"], reverse=True)
+    return events
+
+
 def get_contacts(user_email, max_results=100):
     """Get contacts from Google People API — useful for client/project context.
 
