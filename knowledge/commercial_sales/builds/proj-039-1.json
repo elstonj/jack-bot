@@ -1,0 +1,83 @@
+{
+  "asana_gid": "proj-039-1",
+  "asana_task_name": "Oklahoma State University (Board of Regents for Oklahoma State University and the A&M Colleges) / OK Aerospace Institute for Research and Education (OAIRE) [039-1]",
+  "customer": "Oklahoma State University (Board of Regents for Oklahoma State University and the A&M Colleges) / OK Aerospace Institute for Research and Education (OAIRE)",
+  "customer_contact": "Jamey Jacob, OK Aerospace Institute",
+  "customer_email": "jdjacob@okstate.edu",
+  "receive_by": "2025-08-19",
+  "ship_to": "OK Aerospace Institute, Tulsa, OK",
+  "items": [
+    {
+      "description": "Refurbished S2 UAS flight system with pneumatic launcher and multi-hole probe",
+      "quantity": 1
+    },
+    {
+      "description": "Operator training",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "paid",
+  "build_state": "complete",
+  "ship_state": "delivered",
+  "estimate_date": null,
+  "invoice_date": "2025-03-12",
+  "invoice_amount": 57814.0,
+  "invoice_number": "1654",
+  "paid_date": "2025-03-12",
+  "parts": [
+    {
+      "name": "Motor",
+      "ordered": true,
+      "received": true,
+      "vendor": "BST",
+      "order_date": null
+    },
+    {
+      "name": "ADS-B avionics",
+      "ordered": true,
+      "received": true,
+      "vendor": "BST",
+      "order_date": null
+    },
+    {
+      "name": "Remote ID avionics",
+      "ordered": true,
+      "received": true,
+      "vendor": "BST",
+      "order_date": null
+    },
+    {
+      "name": "RTK avionics",
+      "ordered": true,
+      "received": true,
+      "vendor": "BST",
+      "order_date": null
+    },
+    {
+      "name": "Battery",
+      "ordered": true,
+      "received": true,
+      "vendor": "BST",
+      "order_date": null
+    },
+    {
+      "name": "Pneumatic launcher system",
+      "ordered": true,
+      "received": true,
+      "vendor": "BST",
+      "order_date": null
+    }
+  ],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Refurbished S2 UAS with pneumatic launcher and multi-hole probe. Invoice 1654 paid 2025-03-12 ($57,814.00). Training completed August 19, 2025. This represents the initial refurbished S2 delivery; customer has pending separate orders for E2 and S0 VTOL systems (tracked under different Asana tasks).",
+  "missing_fields": [],
+  "last_evidence_date": "2025-03-12",
+  "last_contact_date": null
+}

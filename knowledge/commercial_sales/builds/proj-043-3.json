@@ -1,0 +1,65 @@
+{
+  "asana_gid": "proj-043-3",
+  "asana_task_name": "By Light Professional IT Services LLC (Buyer); DISA/Wireless/SATCOM/Army Programs [043-3]",
+  "customer": "By Light Professional IT Services LLC",
+  "customer_contact": "Ethan Domagala (Project Owner)",
+  "customer_email": "",
+  "receive_by": "2026-05-30",
+  "ship_to": "",
+  "items": [
+    {
+      "description": "Halo-platform UAS design, engineering, and manufacturing (2 units)",
+      "quantity": 2
+    },
+    {
+      "description": "Airframe design/testing, avionics integration (gimbal, laser altimeter, ADS-B), car launch compatibility, flight validation",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "invoice_sent",
+  "build_state": "in_assembly",
+  "ship_state": "none",
+  "estimate_date": "2026-04-08",
+  "invoice_date": "2026-05-13",
+  "invoice_amount": 126524.0,
+  "invoice_number": "1754",
+  "paid_date": null,
+  "parts": [
+    {
+      "name": "Gimbal",
+      "ordered": true,
+      "received": false,
+      "vendor": "",
+      "order_date": null
+    },
+    {
+      "name": "Laser altimeter",
+      "ordered": true,
+      "received": false,
+      "vendor": "",
+      "order_date": null
+    },
+    {
+      "name": "ADS-B",
+      "ordered": true,
+      "received": false,
+      "vendor": "",
+      "order_date": null
+    }
+  ],
+  "tracking_number": "",
+  "carrier": "",
+  "shipped_date": null,
+  "owners": {
+    "interface": "Ethan Domagala",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Firm fixed price PO J20265067 signed 4/8/2026. Scope 1 (design/testing/CAD) due 5/30/2026; Scope 2 (2x platform build & car launch integration) due within one month of receipt of fuselages. Four invoices issued 5/8\u20135/13/2026 totaling $126,524 (Inv #1753\u2013#1757); all balances unpaid. This is a continuation of prior Mustang work (043-1, 043-2).",
+  "missing_fields": [
+    "ship_to",
+    "customer_email"
+  ],
+  "last_evidence_date": "2026-05-13",
+  "last_contact_date": "2026-06-02"
+}

@@ -1,10 +1,10 @@
 # Unmapped Customers
 
-_Generated 2026-06-03 03:22 — customers who have emailed info@/sales@ but aren't yet tracked as Asana Commercial Sales tasks._
+_Generated 2026-06-03 15:39 — customers who have emailed info@/sales@ but aren't yet tracked as Asana Commercial Sales tasks._
 
 | Latest | Domain | # Emails | Recent subjects |
 |--------|--------|----------|-----------------|
-| 2026-06-02 | uasweekly.com | 4 | UASweekly Daily Newsletter |
+| 2026-06-03 | uasweekly.com | 4 | UASweekly Daily Newsletter |
 | 2026-06-02 | 163.com | 1 | Quick Release Base Mount Upgraded Version Tripod QR Camera Mount Adapter-Tengdaf |
 | 2026-06-01 | mail.ozols.lv | 1 | Following Up – Custom Battery Solutions for UAVs & Unmanned Systems |
 | 2026-05-31 | mail.mcgill.ca | 1 | Infos UAS cold weather conditions |
