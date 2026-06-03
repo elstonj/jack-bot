@@ -51,6 +51,21 @@ from commercial_sales import (
 
 STUBS_DIR = CS_DIR / "builds" / "_stubs"
 
+# Root of the general knowledge layer (knowledge/) and the subdirectories worth
+# searching when no Build/SupportCase matches an inquiry. Many commercial
+# hardware orders are documented here (project registry, budgets, financials)
+# but never made it into the commercial-sales pipeline — e.g. Stanford/Acellent
+# (project 042-1) lives in its own Asana project and corresponds through
+# personal mailboxes, so the commercial-sales scanner (which only walks the
+# Commercial Sales Asana project + info@/sales@/support@) never built a record.
+# This fallback lets Jack answer from what BST already knows, and seed a stub so
+# the next scan promotes it into a tracked Build.
+KNOWLEDGE_ROOT = CS_DIR.parent
+GENERAL_KNOWLEDGE_DIRS = ["financial/by_project", "budgets", "projects"]
+_GK_MAX_FILES = 3          # how many candidate files to feed Haiku
+_GK_MAX_CHARS = 6000       # per-file truncation
+_PROJECT_CODE_RX = re.compile(r"(\d{3}[_-]\d{1,2})")
+
 PENDING_TTL = 600  # 10 minutes
 PENDING: dict[tuple[str, str], dict] = {}
 
@@ -390,17 +405,27 @@ def _build_candidate_block(builds, cases) -> str:
     return "\n".join(lines)
 
 
-def _match_record(extracted: dict, builds, cases) -> list[dict]:
+def _match_record(extracted: dict, builds, cases, recent_context: str = "") -> list[dict]:
     if not builds and not cases:
         return []
     candidate_block = _build_candidate_block(builds, cases)
     if not candidate_block:
         return []
+    context_block = ""
+    if recent_context.strip():
+        # Lets the matcher resolve vague references ("the shipment", "it") to the
+        # order the channel was just discussing.
+        context_block = (
+            "\n\nRecent #commercial-sales discussion (newest last) — use this to "
+            "resolve vague references like 'the shipment' to the customer being "
+            "talked about:\n" + recent_context.strip()[-2000:]
+        )
     user_block = (
         f"User inquiry:\n  customer_hint={extracted.get('customer_hint','')!r}\n"
         f"  product_hint={extracted.get('product_hint','')!r}\n"
         f"  topic={extracted.get('topic','')!r}\n\n"
         f"Candidates:\n{candidate_block}"
+        f"{context_block}"
     )
     try:
         resp = _call_claude_json(MATCH_SYSTEM, user_block, max_tokens=600)
@@ -514,7 +539,214 @@ def _write_stub(payload: dict) -> Path:
     return path
 
 
+# --- General-knowledge fallback -------------------------------------------
+
+
+GENERAL_KB_SYSTEM = """\
+The user asked a question in BST's #commercial-sales Slack channel, but it
+didn't match any tracked customer Build or SupportCase. Below is BST project
+documentation (financials, budgets, project registry) that mentions the
+customer/product the user named. Use ONLY this documentation to answer.
+
+Output one JSON object — no fences, no commentary:
+
+{
+  "found":              true | false,
+  "answer":             "<a concise Slack-ready answer to the user's question, or empty if the docs don't cover it>",
+  "is_commercial_order":true | false,
+  "customer":           "<customer/organization name>",
+  "product":            "<short product/items description, e.g. 'S2 UAS kit: wing, fuselage, nosecone'>",
+  "project_code":       "<project code like 042-1 if visible, else empty>",
+  "notes":              "<one-line context worth seeding a tracking record with>"
+}
+
+Rules:
+- "found"=true only if the documentation actually addresses the customer/order
+  the user asked about. If the files are unrelated, return found=false.
+- "is_commercial_order"=true when this is BST SELLING hardware/a system to a
+  customer (PO, invoice, equipment purchase, kit, build) — NOT a funded R&D
+  proposal / SBIR / grant effort.
+- Keep "answer" factual and short. If the specific field the user wants (e.g. a
+  shipping address) isn't in the docs, say what IS known and note the gap.
+- Never invent values not present in the documentation.
+"""
+
+
+def _gk_hints(extracted: dict, text: str, recent_context: str = "") -> list[str]:
+    """Distinct lowercase hint tokens to match against knowledge files."""
+    raw = " ".join([
+        extracted.get("customer_hint") or "",
+        extracted.get("product_hint") or "",
+    ]).strip()
+    toks = set()
+    for w in re.findall(r"[A-Za-z]{3,}", raw):
+        toks.add(w.lower())
+    # A couple of salient proper nouns from the message itself (capitalized
+    # words), which often carry the customer name even when extraction missed
+    # it. Strip Slack mentions first — `<@U…|Meredith Needham>` would otherwise
+    # leak the owner's name as a hint and match half the corpus. Also fold in
+    # proper nouns from recent channel discussion so a context-only reference
+    # ("FedEx will pick up the shipment tomorrow" right after a Stanford thread)
+    # still resolves.
+    dementioned = re.sub(r"<@[^>]+>", " ", (text or "") + " " + (recent_context or ""))
+    for w in re.findall(r"\b([A-Z][a-zA-Z]{2,})\b", dementioned):
+        toks.add(w.lower())
+    # Drop generic words + BST employee/owner names (those match everywhere and
+    # don't identify a customer).
+    stop = {"the", "for", "and", "ship", "shipment", "order", "build", "uas",
+            "customer", "delivery", "deliver", "address", "status", "invoice",
+            "payment", "parts", "contact", "tracking", "system", "research"}
+    for name in DEFAULT_OWNERS.values():
+        stop.add(name.lower())
+    stop.update({"meredith", "beck", "nate", "dan", "josh", "joshua", "jack",
+                 "maciej", "alex", "needham", "cotter", "fromm", "elston",
+                 "prendergast", "stachura", "lomis"})
+    return [t for t in toks if t not in stop]
+
+
+def _search_general_knowledge(hints: list[str]) -> list[Path]:
+    """Rank knowledge files by how many distinct hint tokens they contain
+    (filename matches weighted higher). Returns the top _GK_MAX_FILES paths."""
+    if not hints:
+        return []
+    scored: list[tuple[int, Path]] = []
+    for sub in GENERAL_KNOWLEDGE_DIRS:
+        d = KNOWLEDGE_ROOT / sub
+        if not d.is_dir():
+            continue
+        for path in d.glob("*.md"):
+            try:
+                content = path.read_text(errors="ignore").lower()
+            except Exception:
+                continue
+            name = path.name.lower()
+            score = 0
+            for h in hints:
+                if h in content:
+                    score += 1
+                if h in name:
+                    score += 2
+            if score:
+                scored.append((score, path))
+    scored.sort(key=lambda x: x[0], reverse=True)
+    return [p for _, p in scored[:_GK_MAX_FILES]]
+
+
+def _try_general_knowledge_answer(
+    extracted: dict, text: str, user_id: str, channel_id: str,
+    slack_client, asker_name: str, recent_context: str = "",
+) -> Optional[str]:
+    """Answer an unmatched inquiry from the general knowledge layer and, when it
+    looks like a real commercial order, seed a stub so the next scan tracks it.
+    Returns a Slack-ready string, or None to let the normal stub flow run."""
+    hints = _gk_hints(extracted, text, recent_context)
+    files = _search_general_knowledge(hints)
+    if not files:
+        return None
+
+    doc_blocks = []
+    for p in files:
+        try:
+            body = p.read_text(errors="ignore")[:_GK_MAX_CHARS]
+        except Exception:
+            continue
+        doc_blocks.append(f"--- FILE: {p.relative_to(KNOWLEDGE_ROOT)} ---\n{body}")
+    if not doc_blocks:
+        return None
+
+    user_block = (
+        f"User question:\n{text}\n\n"
+        f"What they're asking about: {extracted.get('topic','')!r}\n\n"
+        f"Documentation:\n" + "\n\n".join(doc_blocks)
+    )
+    try:
+        obj = _call_claude_json(GENERAL_KB_SYSTEM, user_block, max_tokens=600)
+    except Exception:
+        return None
+
+    if not obj.get("found"):
+        return None
+
+    answer = (obj.get("answer") or "").strip()
+    customer = (obj.get("customer") or "").strip()
+    product = (obj.get("product") or "").strip()
+    project_code = (obj.get("project_code") or "").strip()
+    if not project_code:
+        # Recover the code from the top filename (e.g. 042_1.md → 042-1).
+        m = _PROJECT_CODE_RX.search(files[0].name)
+        if m:
+            project_code = m.group(1).replace("_", "-")
+    notes = (obj.get("notes") or "").strip()
+
+    parts = []
+    if answer:
+        parts.append(answer)
+    else:
+        parts.append(
+            f"I don't have *{customer or 'that'}* in the commercial-sales pipeline, "
+            f"but it's documented in BST's project records"
+            + (f" (project {project_code})" if project_code else "")
+            + " — though that file doesn't cover what you asked."
+        )
+
+    # Seed a stub so the next scan promotes it into a tracked Build, but only
+    # when it actually reads as a commercial hardware order.
+    if obj.get("is_commercial_order") and (customer or product):
+        payload = {
+            "kind": "stub",
+            "created": datetime.now().isoformat(timespec="seconds"),
+            "created_by": "jack-bot (general-knowledge fallback)",
+            "customer": customer,
+            "product": product,
+            "ship_by": None,
+            "project_code": project_code or None,
+            "notes": notes or None,
+            "origin": "general_knowledge",
+            "origin_inquiry": text,
+            "source_files": [str(p.relative_to(KNOWLEDGE_ROOT)) for p in files],
+        }
+        try:
+            _write_stub(payload)
+            parts.append(
+                f"_I've stubbed *{customer or product}*"
+                + (f" (project {project_code})" if project_code else "")
+                + " so the next nightly scan can pull it into the pipeline._"
+            )
+            from knowledge import store_entry
+            store_entry(
+                slack_client, "FEEDBACK",
+                f"Commercial-sales stub auto-created from general knowledge for "
+                f"{customer!r} (project {project_code or '?'}) — was documented in "
+                f"{', '.join(payload['source_files'])} but missing from the pipeline. "
+                f"Triggered by inquiry from {asker_name}: {text[:120]!r}",
+            )
+        except Exception:
+            pass
+
+    return "\n\n".join(parts)
+
+
 # --- Main entry point -----------------------------------------------------
+
+
+def _recent_channel_text(slack_client, channel_id: str, exclude_ts: str = "",
+                         limit: int = 12) -> str:
+    """Concatenated text of the last few #commercial-sales messages (oldest
+    first), used to resolve context-dependent references. Best-effort — returns
+    '' on any failure."""
+    try:
+        resp = slack_client.conversations_history(channel=channel_id, limit=limit)
+        msgs = resp.get("messages", []) or []
+    except Exception:
+        return ""
+    lines = []
+    for m in reversed(msgs):  # oldest → newest
+        if m.get("ts") == exclude_ts:
+            continue
+        t = (m.get("text") or "").strip()
+        if t:
+            lines.append(t[:300])
+    return "\n".join(lines)
 
 
 def handle_inquiry(
@@ -523,11 +755,25 @@ def handle_inquiry(
     channel_id: str,
     slack_client,
     asker_name: str,
+    respond_when_unresolved: bool = True,
 ) -> Optional[str]:
-    """Resolve an inquiry. Returns a Slack-ready response string.
+    """Resolve an inquiry. Returns a Slack-ready response string, or None.
 
-    Always returns a response — silent fallthrough was the old failure mode.
+    `respond_when_unresolved` controls the terminal branch: when the message
+    can't be matched to a tracked record AND the general knowledge layer can't
+    answer it, we either prompt to stub it (True — the asker clearly addressed
+    the bot) or stay SILENT (False — ambient channel chatter / jokes). Emitting
+    the canned "I don't have a record…" deflection to undirected chatter is what
+    made the bot mockable; silence is strictly better when we can't help.
     """
+    # Cheap guard: never respond to a paste/echo of the bot's own deflection.
+    if text.lstrip().lower().startswith("i don't have a record"):
+        return None
+
+    # Recent channel discussion — lets vague references resolve to the order
+    # under active discussion ("the shipment" → the customer named 5 min ago).
+    recent_context = _recent_channel_text(slack_client, channel_id, exclude_ts="")
+
     # Extract topic + field
     try:
         extracted = _call_claude_json(EXTRACT_SYSTEM, text, max_tokens=400)
@@ -535,7 +781,7 @@ def handle_inquiry(
         return (
             "I couldn't parse that. Try restating with the customer name "
             "and what you want to know (e.g. 'shipping address for the UMES S3')."
-        )
+        ) if respond_when_unresolved else None
 
     field = (extracted.get("field") or "").strip()
     record_kind_hint = extracted.get("record_kind", "build")
@@ -544,11 +790,26 @@ def handle_inquiry(
     builds = load_builds()
     cases = load_support_cases()
 
-    # Match
-    matches = _match_record(extracted, builds, cases)
+    # Match (with recent context to resolve vague references)
+    matches = _match_record(extracted, builds, cases, recent_context=recent_context)
 
-    # ----- Branch: no match -> stub flow -----------------------------------
+    # ----- Branch: no match -> general knowledge, then stub flow -----------
     if not matches:
+        # Before giving up, check the broader knowledge layer — many real
+        # commercial orders (e.g. Stanford/Acellent 042-1) are documented in
+        # financials/budgets/registry but never entered the pipeline.
+        gk = _try_general_knowledge_answer(
+            extracted, text, user_id, channel_id, slack_client, asker_name,
+            recent_context=recent_context,
+        )
+        if gk:
+            return gk
+
+        # Couldn't resolve it anywhere. Stay silent on undirected chatter rather
+        # than firing the canned deflection that gets the bot mocked.
+        if not respond_when_unresolved:
+            return None
+
         topic = extracted.get("topic") or "the order"
         try:
             from knowledge import store_knowledge_gap

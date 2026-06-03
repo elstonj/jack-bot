@@ -517,8 +517,17 @@ def handle_dm(event, say, client):
                     # required).
                     if not resp and is_inquiry_intent(text):
                         asker_name = resolve_user_name(client, user_id)
+                        # Only emit the "I don't have a record…" stub prompt when
+                        # the bot was actually addressed (@-mentioned). Undirected
+                        # channel chatter that merely trips an inquiry keyword
+                        # stays silent if it can't be answered — the canned
+                        # deflection on every passing message is what got Jack
+                        # mocked. A confident match still answers regardless.
+                        bot_uid = get_bot_user_id(client)
+                        addressed = bool(bot_uid) and (bot_uid in text)
                         resp = handle_inquiry(
-                            text, user_id, cs_channel, client, asker_name
+                            text, user_id, cs_channel, client, asker_name,
+                            respond_when_unresolved=addressed,
                         )
                 if resp:
                     client.chat_postMessage(channel=cs_channel, text=resp)

@@ -2023,6 +2023,192 @@ def _set_last_contact_date(build: Build, matched_emails: list[dict],
         build.last_contact_date = max(dates)
 
 
+# ---------------------------------------------------------------------------
+# Discovery source #2 — orders documented in the general knowledge layer but
+# never entered the Commercial Sales Asana project. The canonical example is
+# Stanford / Acellent (project 042-1): it lives in its own Asana project and
+# corresponds through personal mailboxes, so the primary discovery path (the
+# Commercial Sales Asana project + info@/sales@/support@) never sees it.
+#
+# Two inputs, both of which synthesize a pseudo-Asana-task and run the SAME
+# `_haiku_extract_build` extractor — so the STEP 0B funding-proposal filter and
+# the is_customer_build gate still apply, and is_active/is_order/state inference
+# keep dormant historical orders out of the digest:
+#   (a) Stubs written by the #commercial-sales inquiry handler when someone asks
+#       about an untracked-but-documented order. Promoted unconditionally — the
+#       inquiry itself is the live signal.
+#   (b) A sweep of projects classified "commercial equipment purchase" in the
+#       financial knowledge, GATED on recent Slack/email activity so we don't
+#       resurrect years-old completed sales.
+# ---------------------------------------------------------------------------
+
+GENERAL_KNOWLEDGE_ROOT = KNOWLEDGE_DIR
+_STUBS_DIR = CS_KNOWLEDGE_DIR / "builds" / "_stubs"
+_CONTRACT_TYPE_RX = re.compile(r"contract type:\**\s*(.+)", re.IGNORECASE)
+_CLIENT_RX = re.compile(r"(?:client/agency|client|customer):\**\s*(.+)", re.IGNORECASE)
+_CODE_IN_TEXT_RX = re.compile(r"(\d{3}[-_]\d{1,2})")
+
+_COMMERCIAL_CT_KEYWORDS = (
+    "commercial", "equipment purchase", "purchase order", "materials/inventory",
+)
+# Contract types that are funding vehicles, not product sales — excluded unless
+# the line ALSO clearly reads as an equipment/commercial sale.
+_FUNDING_CT_KEYWORDS = (
+    "sbir", "sttr", "baa", "grant", "cooperative agreement", "other transaction",
+)
+_GENERIC_CUSTOMER_WORDS = {
+    "university", "college", "institute", "research", "department", "services",
+    "service", "technologies", "technology", "systems", "system", "company",
+    "corporation", "laboratory", "lab", "school", "center", "centre", "group",
+    "the", "and", "for", "inc", "llc", "ltd", "national", "state", "of",
+}
+
+
+def _is_commercial_equipment_contract(content: str) -> bool:
+    m = _CONTRACT_TYPE_RX.search(content)
+    if not m:
+        return False
+    ct = m.group(1).strip().lower()
+    if not any(k in ct for k in _COMMERCIAL_CT_KEYWORDS):
+        return False
+    if any(k in ct for k in _FUNDING_CT_KEYWORDS) and "equipment" not in ct and "commercial" not in ct:
+        return False
+    return True
+
+
+def _client_from_doc(content: str) -> str:
+    m = _CLIENT_RX.search(content)
+    if not m:
+        return ""
+    return m.group(1).strip().strip("*").strip()
+
+
+def _name_tokens(*names: str) -> set[str]:
+    toks: set[str] = set()
+    for name in names:
+        for w in re.findall(r"[A-Za-z]{4,}", name or ""):
+            wl = w.lower()
+            if wl not in _GENERIC_CUSTOMER_WORDS:
+                toks.add(wl)
+    return toks
+
+
+def _tracked_project_codes(existing_builds: dict) -> set[str]:
+    """Project codes already represented by a tracked Build (from its notes /
+    gid / task name) — so the sweep doesn't duplicate an order we already
+    surface under a real Asana task."""
+    codes: set[str] = set()
+    for b in existing_builds.values():
+        blob = " ".join([b.notes or "", b.asana_gid or "", b.asana_task_name or ""])
+        for m in _CODE_IN_TEXT_RX.findall(blob):
+            codes.add(m.replace("_", "-"))
+    return codes
+
+
+def _slug_gid(text: str) -> str:
+    slug = re.sub(r"[^a-z0-9]+", "-", (text or "order").lower()).strip("-")[:40]
+    return f"doc-{slug or 'order'}"
+
+
+def _discover_documented_orders(existing_builds, slack_msgs, sales_info_emails,
+                                admin_gmail) -> list[Build]:
+    """Promote documented/stubbed orders into Builds. See section header."""
+    discovered: list[Build] = []
+    processed_gids: set[str] = set()
+
+    def _process(code, customer_hint, name, notes, require_recent):
+        gid = f"proj-{code}" if code else _slug_gid(name or customer_hint)
+        if gid in processed_gids:
+            return None
+        processed_gids.add(gid)
+        tokens = _name_tokens(customer_hint, name)
+        matched_slack = _filter_slack_for_tokens(slack_msgs, tokens, EVIDENCE_SLACK_PER_BUILD)
+        matched_emails = _filter_emails_for_tokens(sales_info_emails, tokens, EVIDENCE_EMAILS_PER_BUILD)
+        if require_recent and not matched_slack and not matched_emails:
+            return "skip"  # dormant — no live signal, don't resurrect it
+        evidence = _gather_knowledge_evidence(customer_hint or name, code)
+        task = {
+            "gid": gid,
+            "name": name or (f"{customer_hint} [{code}]" if code else customer_hint),
+            "notes": (notes or "")[:6000],
+            "custom_fields": [],
+            "due_on": None,
+            "assignee": None,
+        }
+        existing = existing_builds.get(gid)
+        updated, drop = _haiku_extract_build(
+            task, existing, matched_emails, matched_slack,
+            knowledge_evidence=evidence, gmail_service=admin_gmail,
+        )
+        if updated:
+            updated.asana_task_name = task["name"]
+            _set_last_contact_date(
+                updated, matched_emails, set(),
+                prior=existing.last_contact_date if existing else None)
+            save_build(updated)
+            discovered.append(updated)
+            time.sleep(0.3)
+            return "ok"
+        if drop:
+            stale = BUILDS_DIR / f"{gid}.json"
+            if stale.exists():
+                stale.unlink()
+            return "drop"
+        return "fail"
+
+    # (a) Promote inquiry-handler stubs (unconditional).
+    if _STUBS_DIR.is_dir():
+        for stub_path in sorted(_STUBS_DIR.glob("*.json")):
+            try:
+                stub = json.loads(stub_path.read_text())
+            except Exception:
+                continue
+            code = (stub.get("project_code") or "").replace("_", "-")
+            customer = stub.get("customer") or ""
+            product = stub.get("product") or ""
+            doc_text = ""
+            for rel in stub.get("source_files") or []:
+                p = GENERAL_KNOWLEDGE_ROOT / rel
+                if p.exists():
+                    doc_text += f"\n--- {rel} ---\n" + p.read_text(errors="ignore")[:4000]
+            notes = "\n".join(
+                x for x in (stub.get("notes"), stub.get("origin_inquiry")) if x
+            ) + doc_text
+            name = (f"{customer} {product}".strip()) or customer or product
+            res = _process(code, customer, name, notes, require_recent=False)
+            # Consume the stub unless Haiku transiently failed (so a flaky call
+            # gets retried next scan rather than silently dropping the order).
+            if res and res != "fail":
+                try:
+                    stub_path.unlink()
+                except Exception:
+                    pass
+
+    # (b) Recency-gated sweep of commercial-equipment-purchase projects.
+    tracked = _tracked_project_codes(existing_builds)
+    fin_dir = GENERAL_KNOWLEDGE_ROOT / "financial" / "by_project"
+    if fin_dir.is_dir():
+        for path in sorted(fin_dir.glob("*.md")):
+            code = path.stem.replace("_", "-")
+            if code in tracked:
+                continue
+            try:
+                content = path.read_text(errors="ignore")
+            except Exception:
+                continue
+            if not _is_commercial_equipment_contract(content):
+                continue
+            customer = _client_from_doc(content)
+            notes = content[:4000]
+            bud = GENERAL_KNOWLEDGE_ROOT / "budgets" / f"project_{path.stem}.md"
+            if bud.exists():
+                notes += "\n--- budget ---\n" + bud.read_text(errors="ignore")[:3000]
+            _process(code, customer, f"{customer} [{code}]".strip(), notes,
+                     require_recent=True)
+
+    return discovered
+
+
 def scan_all(mode: str = "incremental", slack_client=None) -> dict:
     """Run the commercial sales scanner.
 
@@ -2212,6 +2398,21 @@ def scan_all(mode: str = "incremental", slack_client=None) -> dict:
             # Transient Haiku failure — preserve prior record if we had one
             if existing:
                 new_builds.append(existing)
+
+    # 4b. Discovery source #2 — promote documented/stubbed orders that never
+    # entered the Commercial Sales Asana project (e.g. Stanford/Acellent 042-1).
+    try:
+        documented = _discover_documented_orders(
+            existing_builds, slack_msgs, sales_info_emails, admin_gmail,
+        )
+        if documented:
+            print(f"  Discovered {len(documented)} documented order(s) outside the Asana project")
+            existing_new_gids = {b.asana_gid for b in new_builds}
+            for b in documented:
+                if b.asana_gid not in existing_new_gids:
+                    new_builds.append(b)
+    except Exception as e:
+        print(f"  [WARN] documented-order discovery failed: {e}")
 
     # 5. Support cases — group support@ threads, one Haiku call per thread
     existing_cases = {c.case_id: c for c in load_support_cases()}
