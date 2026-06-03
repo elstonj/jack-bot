@@ -4,8 +4,8 @@
   "customer": "Stanford University, Department of Aeronautics and Astronautics",
   "customer_contact": "Prof. Fu-Kuo Chang",
   "customer_email": "",
-  "receive_by": "2025-06-17",
-  "ship_to": "",
+  "receive_by": "2026-06-08",
+  "ship_to": "Prof. Fu-Kuo Chang, Stanford University, Department of Aeronautics and Astronautics, 496 Lomita Mall, Durand Building, Stanford, CA 94305",
   "items": [
     {
       "description": "S2 UAS Platform - Right Wing",
@@ -26,7 +26,7 @@
   ],
   "payment_state": "paid",
   "build_state": "complete",
-  "ship_state": "delivered",
+  "ship_state": "awaiting_pickup",
   "estimate_date": null,
   "invoice_date": "2025-05-02",
   "invoice_amount": 5000.0,
@@ -34,18 +34,17 @@
   "paid_date": "2025-05-02",
   "parts": [],
   "tracking_number": "",
-  "carrier": "",
+  "carrier": "FedEx",
   "shipped_date": null,
   "owners": {
     "interface": "Beck",
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "S2 components supplied from Black Swift operational spare inventory for Stanford's structural health monitoring research integration. Invoice 1666 ($5,000) paid; delivery requested June 17, 2025 for public demonstration at IWSHM conference (September 2025). Project scope: S2 UAS platform components (right wing, fuselage with avionics, nose cone, payload development kit).",
+  "notes": "Ongoing R&D collaboration (Stanford structural health monitoring / 'fly-by-feel', Prof. Fu-Kuo Chang + Acellent Technologies, Dr. Amrita Kumar). The S2 hardware ships back and forth between BST and Stanford and will return to BST again for flight testing. Original sale: S2 UAS platform components (right wing, fuselage w/ avionics, nose cone, payload dev kit) from BST spare inventory, Invoice 1666 ($5,000) paid 2025-05-02. CURRENT: parts are at BST, work is finished, unit going back out to Stanford Monday 2026-06-08 via FedEx (Nate gave crate dims 67\"x27\"x13\", 61 lbs; Meredith arranging FedEx pickup). Will come back to BST afterward for us to fly. payment_state stays 'paid' (one-time sale); ship_state reflects the active outbound leg, not a new charge.",
   "missing_fields": [
-    "customer_contact",
     "customer_email",
-    "ship_to"
+    "tracking_number"
   ],
   "last_evidence_date": "2026-06-03",
   "last_contact_date": "2026-06-02"
