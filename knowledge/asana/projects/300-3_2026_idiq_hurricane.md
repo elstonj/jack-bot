@@ -12,7 +12,7 @@
   - Invoice schedule: March 2026 – July 2026
   - **Critical hardware ship date:** May 27, 2026 (now past)
   - **Final delivery deadline:** July 31, 2026
-- **Status:** **ACTIVE — IN EXECUTION.** Hardware milestones delivered early (2 SHOW s0's and tripods shipped 5/19/26, ahead of 5/27 deadline). ⚠️ **COMMUNICATION CONTINUITY ISSUE (5/29/26):** Nick Pawlenko (UxSOC liaison) transitioning to UxSOC headquarters role; may have limited availability. NOAA/UASD guidance issued: **BST must include alternative contacts for scheduling, foreign nationals, flight planning, and UAS/HX operations** to prevent communication gaps during field season.
+- **Status:** **ACTIVE — IN EXECUTION.** Hardware milestones delivered early (2 SHOW s0's and tripods shipped 5/19/26, ahead of 5/27 deadline). ⚠️ **COMMUNICATION CONTINUITY ISSUE (5/29/26):** Nick Pawlenko (UxSOC liaison) transitioning to UxSOC headquarters role; may have limited availability. NOAA/UASD guidance issued: **BST must include alternative contacts for scheduling, foreign nationals, flight planning, and UAS/HX operations** to prevent communication gaps during field season. Project notes indicate guidance text was cut off mid-sentence in raw data; **ACTION REQUIRED: Obtain complete list of backup NOAA contacts from Meredith O'hara Needham.**
 - **Team Members:** 
   - Meredith O'hara Needham (project owner, shipments, invoice submissions)
   - Jack Elston (firmware/software development)
@@ -30,6 +30,7 @@
   - ⚠️ **Web-based controller due 7/31/26** (Ben Busby, unassigned in raw data) — no progress visible; potential blocker for operator training.
   - ⚠️ **Operator Training unassigned and due 7/31/26** — depends on firmware, web controller, and hardware delivery.
   - ⚠️ **Communication continuity:** Nick Pawlenko's transition to UxSOC HQ may disrupt scheduling, foreign national clearances, flight planning, and UAS operations coordination. **ACTION REQUIRED: Establish backup contact protocol with NOAA team immediately per 5/29/26 guidance.**
+  - ⚠️ **New task: "S0 acc scaling is 8m/s/s"** (Jack Elston, no due date) — suggests calibration or firmware parameter work in progress; no deadline set. Clarify relationship to firmware validation gates.
 
 ## Key Deliverables & Milestones
 
@@ -55,19 +56,11 @@
 |------|-------|----------|--------|-------|
 | **Add RH / Vaisala fix to PSNS code** | Jack Elston | 2026-05-01 | ✅ COMPLETED 2026-05-08 | Firmware fix completed; downstream work unblocked. |
 | **Rebuild BST s0 (platform rebuild)** | Nate Straus | 2026-05-15 | ✅ COMPLETED 2026-05-14 | Critical progress on schedule. |
-| **Ship 2 SHOW s0's + tripods** | Meredith O'hara Needham / Nate Straus | 2026-05-22 | ✅ **COMPLETED 2026-06-01** | Shipped ahead of 5/27 deadline (actual ship date unclear from raw data; completed 6/1). |
+| **Ship 2 SHOW s0's + tripods** | Meredith O'hara Needham / Nate Straus | 2026-05-22 | ✅ **COMPLETED 2026-06-01** | Shipped ahead of 5/27 deadline. |
 | **Order long-lead parts (20+)** | Josh Fromm | No due date | ✅ **COMPLETED 2026-06-01** | Parts procurement secured. |
 | **Finalize deployment tube firmware** | Jack Elston | 2026-06-04 | ⏳ OPEN | **Critical path; gates Invoice 4 submission.** |
 | **QC board validation** | Sam Hild | 2026-06-04 | ⏳ OPEN | Validate assembly as boards arrive. |
+| **S0 acc scaling is 8m/s/s** | Jack Elston | No due date | ⏳ OPEN | Calibration/parameter work; no deadline. Clarify dependency on firmware gate. |
 | **Deliver 24 S0 for 2026 season (incl. 4 sasqwatch)** | **UNASSIGNED** | 2026-07-31 | ⏳ OPEN | **No owner; high-risk task given timeline.** |
 | **Deliver 1 S0 leftover from 2025** | **UNASSIGNED** | 2026-07-31 | ⏳ OPEN | **No owner; part of 25-unit delivery.** |
-| **Web-based controller** | Ben Busby | 2026-07-31 | ⏳ OPEN | Supports operator training & field ops. |
-| **Operator Training** | **UNASSIGNED** | 2026-07-31 | ⏳ OPEN | Depends on firmware, hardware, & web controller. |
-
-## Task Summary
-
-**Current Asana Status: 7 open, 3 completed**
-
-| Task | Owner | Due Date | Status | Priority |
-|------|-------|----------|--------|----------|
-| **Deliver 24 S0 for 2026 season** | **UNASSIGNED** | 2026-07-
+| **Web-based controller** | Ben Busby | 2026-

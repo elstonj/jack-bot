@@ -4,15 +4,13 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-06-01",
-    "end": "2026-06-02"
+    "start": "2026-06-02",
+    "end": "2026-06-03"
   },
   "totals": {
-    "revenue": 216000.0,
-    "expenses": 162.34,
-    "by_category": {
-      "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 162.34
-    }
+    "revenue": 144000.0,
+    "expenses": 0.0,
+    "by_category": {}
   },
   "invoices": [
     {
@@ -60,52 +58,10 @@
           "description": ""
         }
       ]
-    },
-    {
-      "type": "Invoice",
-      "date": "2026-06-01",
-      "doc_number": "1739",
-      "total": 72000.0,
-      "attributed": 72000.0,
-      "vendor": "",
-      "customer": "[300-3] 2026 IDIQ",
-      "balance": 72000.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 72000.0,
-          "account": "",
-          "description": "Invoice 4 of 6 for CLIN 1001 (Modification P26002)"
-        },
-        {
-          "amount": 72000.0,
-          "account": "",
-          "description": ""
-        }
-      ]
     }
   ],
   "bills": [],
-  "purchases": [
-    {
-      "type": "Purchase",
-      "date": "2026-06-01",
-      "doc_number": "",
-      "total": 162.34,
-      "attributed": 162.34,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "THE UPS STORE 7685 - 7333",
-      "lines": [
-        {
-          "amount": 162.34,
-          "account": "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties",
-          "description": "Tariff payment for shipment from BlueBird (5/20/26)"
-        }
-      ]
-    }
-  ],
+  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

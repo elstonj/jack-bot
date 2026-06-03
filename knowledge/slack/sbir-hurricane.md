@@ -50,6 +50,11 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Proposal suggested: duplicate testing station at BST for troubleshooting issues NOAA may encounter with remotely operated stations (May 7, 2026)
 - Status: Under consideration for decision (May 7, 2026)
 
+**Higher-Rate Data Recording Capability (May 27, 2026):**
+- NOAA requested modification to ground stations to enable higher-rate data availability, potentially for operational use as early as 2026 season (May 27, 2026)
+- Jack Elston planning to integrate this modification into new GCS builds (May 27, 2026)
+- Plan to develop P3 simulator at BST for testing prior to implementation (May 27, 2026)
+
 **Humidity Sensor Configuration (April 2026):**
 - Vaisala RSS421 heating mode confirmed as critical for accurate readings (April 2026)
 - New PSNS firmware with corrected humidity reference validation implemented (April 8, 2026)
@@ -67,17 +72,6 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Tripod and mount solution added to 2x display units at ~$200 cost (5 min labor) (April 22, 2026)
 - Delivery deadline: June 5, 2026 for DC event requirement; shipment to AOC or HQ for redistribution (April 22, 2026)
 
-**Display Aircraft Shipping (May 12, 2026):**
-- Two display S0 units remaining at BST; other two units have addresses managed by another team member (May 12, 2026)
-- Joshua Fromm coordinating logistics to ship all 4 tripods to respective locations (May 12, 2026)
-
-**Display Aircraft Packing & Shipping Status (May 21, 2026):**
-- 2 display S0s packed and ready for labels (May 21, 2026)
-- Both boxes identical: 46 x 12 x 9 inches, 13lbs each (May 21, 2026)
-- Meredith Needham obtaining labels for shipment (May 21, 2026)
-- Tracking information to be provided to Nick P at NOAA upon shipment (May 21, 2026)
-- 2 model S0s scheduled for pick-up at front desk (May 21, 2026)
-
 **Inventory Management (April 23, 2026):**
 - SASCWATCH has one S0 left over from previous season; decision made not to allow NOAA to use it (April 23, 2026)
 - Jack Elston confirmed awareness of leftover aircraft status (April 23, 2026)
@@ -86,7 +80,19 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Jack Elston initiated procurement of 20 additional S0 aircraft units to maintain stock inventory for operational opportunities (May 6, 2026)
 - Decision made to use current 2026 configuration without waiting for 2027 mods (May 6, 2026)
 
-**Higher-Rate Data Recording Capability (May 27, 2026):**
-- NOAA requested modification to ground stations to enable higher-rate data availability, potentially for operational use as early as 2026 season (May 27, 2026)
-- Jack Elston planning to integrate this modification into new GCS builds (May 27, 2026)
-- Plan to develop P3 simulator at BST for testing prior
+## Projects & Initiatives
+
+**S0 Aircraft Development:**
+- Ongoing operational platform development with continuous refinement of airframe, sensors, and ground control systems
+- Current focus on 2026 configuration optimization for extended operational season
+- Procuring 20 additional S0 units for stock inventory to support operational opportunities (May 2026)
+
+**Ground Control Station (GCS) Expansion:**
+- Production of multiple GCS units for testing and NOAA operational deployment
+- Two GCS PCB boards to be soldered by Joshua Fromm for additional units (June 2, 2026)
+- Integration of higher-rate data recording capability into new GCS builds planned
+- Comprehensive procurement list maintained in "2026 DUAL tab" spreadsheet
+
+**Display Aircraft Program:**
+- 4 display S0 units in production: 2x 2025 models and 2x 2026 models
+- 2 display units shipped by end of May 2026 

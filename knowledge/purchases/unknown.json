@@ -50,5 +50,18 @@
     "notes": "Spa/wellness promotional email; personal perk offer",
     "date": "",
     "subject": ""
+  },
+  {
+    "id": "19e8433394f65ae69",
+    "is_purchase": true,
+    "status": "invoiced",
+    "amount_usd": 498.57,
+    "vendor": "HANGZHOU BOZHOU ELECTRIC APPLIANCE CO., LTD. via DHL",
+    "project_code": null,
+    "project_hint": null,
+    "description": "Import duties and shipping fees",
+    "notes": "DHL Express waybill 4789316906; payment for shipment-related fees",
+    "date": "",
+    "subject": ""
   }
 ]

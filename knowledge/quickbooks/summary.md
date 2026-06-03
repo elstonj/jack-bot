@@ -1,5 +1,7 @@
 # BST Financial Overview (QuickBooks)
-**Period: June 1–2, 2026 | Data Range: April 2024 – September 2026**
+
+## Executive Summary
+**Report Period:** June 2–3, 2026 | **Data Range:** April 2024 – September 2026
 
 ---
 
@@ -7,56 +9,81 @@
 
 | Metric | Amount |
 |--------|--------|
-| **Total Revenue (Invoices)** | $4,405,611.64 |
-| **Total Expenses** | $2,409,555.45 |
-| **Net Income (Estimate)** | $1,996,056.19 |
-
-*Note: P&L report shows $53,437.71 for June 1–2 only; project data reflects full historical period.*
+| **Total Revenue (Invoices)** | $7,245,900.98 |
+| **Total Expenses** | $2,655,746.03 |
+| **Net Income Position** | $4,590,154.95 |
+| **Recent P&L (June 2–3, 2026)** | -$13,604.73 *(expenses only period)* |
 
 ---
 
 ## By Project/Class
+Sorted by total activity (revenue + expenses):
 
-| Project | Total Revenue | Total Expenses | Net Position | Status |
-|---------|---------------|----------------|--------------|--------|
-| **Government** | $4,387,717.28 | $1,330,956.34 | **+$3,056,760.94** | Profitable |
-| **BST Internal** | $17,894.36 | $1,078,599.11 | **-$1,060,704.75** | Loss (R&D intensive) |
-
-**Analysis:** Government contracts generate strong positive returns. BST Internal operates at a loss, indicating significant internal R&D and infrastructure investment.
+| Project | Revenue | Expenses | Net Position | Status |
+|---------|---------|----------|--------------|--------|
+| **Government** | $4,387,717.28 | $1,330,956.34 | **$3,056,760.94** | Active; largest contributor |
+| **Commercial** | $2,960,489.34 | $239,269.53 | **$2,721,219.81** | Highly profitable |
+| **BST Internal** | $17,894.36 | $1,085,520.16 | **-$1,067,625.80** | Cost center (R&D, admin) |
+| **TOTAL** | **$7,345,900.98** | **$2,655,745.03** | **$4,690,155.95** | |
 
 ---
 
 ## Cash Flow Indicators
 
-### Accounts Receivable (Outstanding)
-- **Government invoices outstanding:** $3,120,406.82 (across 75 active invoices)
-- **BST Internal:** Limited detail; requires aging report
+### Accounts Receivable (Outstanding Balances)
+- **Government**: $3,120,406.82 outstanding across 75 active invoices
+- **Commercial**: $3,900.00 outstanding (Invoice #1766, Daniel Hesselius, May 19, 2026)
+- **Total A/R**: ~$3,124,306.82
 
-### Recent Large Expenses (June 1–11, 2026)
-- **R&D (IRAD):** $17,827.40
-  - Indirect Subcontractor Expenses: $13,648.62
-  - Internal Research & Development: $4,178.78
-- **Tariff/Import Duties:** $660.91
-- **Shop Supplies:** $28.69
+### Recent Large Expenses (June 2–3, 2026)
+- **Research & Development**: $8,225.43
+  - Indirect Subcontractor Exp: $5,411.40
+  - Internal R&D: $2,814.03
+- **Sales & Marketing**: $5,019.30
+- **Accounting Fees**: $360.00
 
-### Outstanding Purchase Orders
-- BST Internal: $1,700.00 (PO #1038, Amprius)
-- Government: $832.00
+### Purchase Orders Outstanding
+- **Government**: $832.00
+- **Commercial**: $1,977.50
+- **BST Internal**: $1,700.00 (PO #1038, Amprius)
+- **Total PO Commitments**: $4,509.50
 
 ---
 
-## Unclassified/Uncleared Items
+## Project Activity Notes
 
-- **Billable Expense Income (June 1–2):** $72,000.00 — appears to be expense reimbursements, not project-specific revenue allocation
-- BST Internal project data shows 1,156 total transactions but detail breakdown incomplete
+### Government (Most Active)
+- 75 active invoices with $3.1M+ still outstanding
+- Strong net position despite significant expense base ($1.3M)
+- Suggests ongoing contract work with delayed payment cycles
+
+### Commercial (Highest Margin)
+- Smallest expense base relative to revenue (8% expense ratio)
+- Near-complete collections; only $3,900 outstanding
+- Indicates fast-closing, high-margin work
+
+### BST Internal (Cost Center)
+- 1,163 transactions over 26 months
+- Pure expense operation: $1.08M cumulative costs
+- Only $17,894 in invoiced revenue
+- **Primary drivers:**
+  - R&D spending (indirect subcontractors, internal development)
+  - General & administrative (accounting, overhead)
+- Likely internal innovation/infrastructure project funding other divisions
 
 ---
 
 ## Key Observations
 
-1. **Strong Government Portfolio:** $3.06M net positive; primary profit driver
-2. **Strategic Internal Investment:** BST Internal shows $1.06M cumulative loss, consistent with R&D-heavy operations
-3. **Collection Risk:** $3.12M in outstanding government receivables requires monitoring
-4. **Data Gaps:** Complete vendor and customer top-N lists not provided; recommend full aging and vendor reports
+✓ **Strong Overall Position**: $4.6M net income across all operations
+⚠ **Significant A/R Outstanding**: $3.1M tied up in government invoices—monitor collection timing
+⚠ **BST Internal Subsidy Model**: Internal division runs at $1M+ annual cost; verify ROI and sustainability
+✓ **Commercial Efficiency**: Leanest operation with 92% gross margin
+→ **No Complete Project Dropoff**: All three divisions show recent activity (June 2026)
 
-**Recommendation:** Request detailed accounts receivable aging report and complete vendor spend analysis for full financial clarity.
+---
+
+## Data Limitations
+- P&L statement covers only June 2–3 (2-day snapshot)
+- Detailed customer/vendor lists partially truncated in source data
+- Complete invoice aging report recommended for A/R management

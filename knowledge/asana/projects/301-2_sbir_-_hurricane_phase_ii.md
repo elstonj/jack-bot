@@ -50,6 +50,7 @@
 **Project Status**: Archived January 3, 2024. All work completed successfully.
 
 **Final Phase Tasks Completed (January 2024 – August 2024)**:
+- **QC & final assembly of all 2024 airframes** (Josh Fromm, Due: 2024-07-12, Completed: 2024-07-23) — Final quality control and assembly coordination completed
 - **New GCS (no VGA connector)** (Josh Fromm, Due: 2024-01-26, Completed: 2024-01-31) — Finalized ground control station configuration without VGA connector requirement
 - **Avionics** (Jack Elston, completed 2024-01-30)
 - **Deployment Tube** (Josh Fromm, completed 2024-01-17)
@@ -87,8 +88,4 @@
 - Display S0 unit (shipped to National Hurricane Center, Miami)
 - Custom MHTP (hurricane research payload) for Altius 600 platform
 - Scientist-facing web-based GUI for data review
-- Eyewall following and center fix algorithm modules for autonomous hurricane reconnaissance
-- Tablet-based field operations interface
-- Ground Control Station (GCS) without VGA connector requirement
-
-**Technical Focus**: Hurricane data collection and reconnaissance using specialized UAS with advanced
+-

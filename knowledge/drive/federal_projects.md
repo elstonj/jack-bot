@@ -1,44 +1,38 @@
 # Federal Projects — Shared Drive
 
 ## Overview
-- **Total files:** 15 | **Folders:** 0
+- **Total files:** 12 | **Folders:** 1
 - **Date range:** 2022-02-07 (created) → 2099-01-24 (modified)
-- **Primary purpose:** Storage of federal contract deliverables, technical proposals, invoices, progress reports, and video assets for Air Force and defense-related projects.
+- **Primary purpose:** Storage of federal contract deliverables, technical proposals, letters of commitment, invoices, progress reports, and video assets for Air Force and defense-related projects.
 
 ## Folder Structure
-Flat structure with no subfolders. All 15 files stored at drive root level.
+Primarily flat structure with one subfolder:
+- **`DoW Runtime Autonomy/`** — Currently empty; appears to be designated for Runtime Assured Autonomy project documentation (Statement of Work materials planned/in progress)
+
+All active files stored at drive root level.
 
 ## Key Documents by Category
 
 ### **Proposals & RFPs**
-- **Master Proposal Tracking** | Modified: 2026-06-01 | Editor: Beck Cotter
+- **BST_Volume_2_Technical_Volume.pdf** | Modified: 2026-06-02 | Editor: Beck Cotter
+- **SkyMesa_LOC_DAF26BZ01_NV003_BlackSwift.pdf** | Modified: 2026-06-02 | Editor: Beck Cotter (Letter of Commitment; appears to be DAF proposal submission)
 
 ### **Contracts & Agreements**
-*(None identified)*
-
-### **Statements of Work**
-*(None identified)*
+- **Letter of Commitment_draft** | Modified: 2026-06-02 | Editor: Beck Cotter
 
 ### **Reports & Analysis**
-- **2026-06-03 Progress Report CLIN 006** | Modified: 2026-06-01 | Editor: Joshua Wadler
-- **06.01.26 TABA status through May.pdf** (appears twice) | Modified: 2026-06-01 | Editor: Meredith Needham
+- **2026-06-03 Progress Report CLIN 006** | Modified: 2026-06-03 | Editor: Jack Elston
+- **Data Assertions** | Modified: 2026-06-02 | Editor: Beck Cotter
+- **EW Data Assertions.pdf** | Modified: 2026-06-02 | Editor: Beck Cotter
 
 ### **Financial**
-- **4. Invoice 1739 June 1 2026.pdf** | Modified: 2026-06-01 | Editor: Meredith Needham
-
-### **Presentations**
-- **2026-05-29 Meeting** | Modified: 2026-06-01 | Editor: Maciej Stachura
+- **AREN Budget/Costs Tracking** | Modified: 2026-06-02 | Editor: Meredith Needham
+- **Internal budget template** | Modified: 2026-06-02 | Editor: Beck Cotter
 
 ### **Templates**
-- **DAF Agile EW Technical_Volume_Template v2** | Modified: 2026-06-01 | Editor: arthur
-- **Runtime Assured Autonomy Technical_Volume_Template** | Modified: 2026-06-02 | Editor: Jack Elston
-- **Budget template** | Modified: 2026-06-01 | Editor: Beck Cotter
-
-### **Technical Documents**
-- **S0 UAS System Integration v2** | Modified: 2026-06-01 | Editor: Jack Elston
-- **Data Assertions** | Modified: 2026-06-01 | Editor: Beck Cotter
-- **Copy of Data Assertions** | Modified: 2026-06-01 | Editor: Beck Cotter
-- **Data Assertions.pdf** | Modified: 2026-06-01 | Editor: Beck Cotter
+- **DAF Agile EW Technical_Volume_Template v2** | Modified: 2026-06-03 | Editor: Jack Elston
+- **Runtime Assured Autonomy Technical_Volume_Template** | Modified: 2026-06-02 | Editor: Daniel Prendergast
+- **Internal budget template** | Modified: 2026-06-02 | Editor: Beck Cotter
 
 ### **Video Assets**
 - **RC_VID_0009.MOV** | Modified: 2099-01-24 | Editor: Jack Elston
@@ -47,46 +41,55 @@ Flat structure with no subfolders. All 15 files stored at drive root level.
 ## Recent Activity Patterns
 
 **Most Active Contributors:**
-1. Beck Cotter — 5 files (proposals, data assertions, budget template)
-2. Jack Elston — 4 files (technical specs, video assets, autonomy template)
-3. Meredith Needham — 3 files (financial, status reports)
+1. Beck Cotter — 6 files (proposals, commitments, data assertions, budget template)
+2. Jack Elston — 4 files (technical templates, progress reports, video assets)
+3. Meredith Needham — 1 file (financial tracking)
+4. Daniel Prendergast — 1 file (autonomy template)
 
 **Activity Clusters:**
-- **June 1, 2026:** Heavy activity across proposals, technical documents, invoicing, and status reporting — suggests milestone or contract deadline
-- **Late January 2099:** Video file modifications by Jack Elston (timestamps appear anomalous; may indicate file uploads or system artifacts)
+- **June 2–3, 2026:** Concentrated proposal and reporting activity — suggests contract submission or milestone deadline. All key proposal documents, letters of commitment, technical volumes, and budget tracking finalized within this window.
+- **Late January 2099:** Video file modifications by Jack Elston (timestamps appear anomalous; may indicate batch uploads or system artifacts)
 
 **Notable Patterns:**
-- Data Assertions document exists in multiple formats (native doc + copy + PDF) — possible version control or backup pattern
-- TABA status report duplicated in file listing
-- All active content concentrated around June 2026 deadline period
+- Data Assertions document exists in multiple formats (native doc + PDF variant "EW Data Assertions.pdf") — version control or format-specific deliverable pattern
+- Empty subfolder (`DoW Runtime Autonomy/`) suggests planned folder structure not yet populated; indicates migration or organizational intent in progress
+- All active contract-related work concentrated around June 2026 deadline; minimal subsequent edits suggest project completion or maintenance phase
 
 ## Client/Project Document Mapping
 
-**Inferred Project: DAF Agile EW (Department of Air Force Electronic Warfare)**
-- DAF Agile EW Technical_Volume_Template v2
-- Master Proposal Tracking (proposal activity)
-- Invoice 1739 (billing against contract)
+**Project: DAF Agile EW (Department of Air Force Electronic Warfare)**
+- **BST_Volume_2_Technical_Volume.pdf** (proposal volume submission)
+- **SkyMesa_LOC_DAF26BZ01_NV003_BlackSwift.pdf** (Letter of Commitment; appears to reference DAF26BZ01 solicitation)
+- **DAF Agile EW Technical_Volume_Template v2** (template for future proposals)
+- **EW Data Assertions.pdf** (technical specification/data requirements)
 
-**Inferred Project: Runtime Assured Autonomy**
-- Runtime Assured Autonomy Technical_Volume_Template
-- S0 UAS System Integration v2 (Unmanned Aerial System integration)
-- Data Assertions documents (likely technical specification component)
-- RC_VID_0008.MOV, RC_VID_0009.MOV (demonstration or test footage)
-- 2026-06-03 Progress Report CLIN 006 (contract line item reporting)
+**Project: Runtime Assured Autonomy**
+- **Runtime Assured Autonomy Technical_Volume_Template** (proposal template)
+- **Data Assertions** (technical specification component)
+- **RC_VID_0008.MOV, RC_VID_0009.MOV** (demonstration or test footage)
+- **2026-06-03 Progress Report CLIN 006** (contract line item 006 progress tracking)
+- **`DoW Runtime Autonomy/`** folder (designated but empty; awaiting SOW materials)
 
-**Inferred Project: TABA (Specific acronym context unclear)**
-- 06.01.26 TABA status through May.pdf
+**Project: AREN (Specific context unclear)**
+- **AREN Budget/Costs Tracking** (financial tracking for AREN contract or program)
 
 ## Important Templates & Shared Resources
 
-**Technical Volume Templates (Reusable across proposals):**
-- DAF Agile EW Technical_Volume_Template v2
-- Runtime Assured Autonomy Technical_Volume_Template
+**Technical Volume Templates (Reusable across federal proposals):**
+- **DAF Agile EW Technical_Volume_Template v2** — Maintained by Jack Elston; tracks updates through June 3, 2026
+- **Runtime Assured Autonomy Technical_Volume_Template** — Maintained by Daniel Prendergast; last updated June 2, 2026
 
-**Budget Template** — Corporate-wide reusable template for federal pricing (Beck Cotter maintains)
+**Budget Template** — **Internal budget template** corporate-wide reusable resource (Beck Cotter maintains); paired with **AREN Budget/Costs Tracking** for live project financials
 
-**Master Proposal Tracking** — Central tracker for proposal pipeline and status
+**Letter of Commitment** — **Letter of Commitment_draft** appears to be standard format for federal submissions (reference: SkyMesa_LOC_DAF26BZ01 variant)
+
+## Recommended Next Steps
+
+1. **Populate folder structure:** Move Runtime Autonomy files into `DoW Runtime Autonomy/` subfolder to align with planned organization
+2. **Archive/version old files:** Consider archive folder for completed 2026 deliverables; drive is cluttered with multiple Data Assertions variants
+3. **Expand subfolder organization:** Implement client/project-based structure (e.g., `/DAF-AgileEW`, `/Runtime-Autonomy`, `/AREN`) as file count grows
+4. **Clarify video asset ownership:** RC_VID files have anomalous 2099 timestamps; verify actual modification dates and associate with specific projects/deliverables
 
 ---
 
-**Note:** The drive lacks subfolder organization. Consider implementing folder structure by client/project (e.g., `/DAF-AgileEW`, `/Runtime-Autonomy`) to improve navigation as file count grows.
+**Change Summary:** Existing knowledge retained; new data reveals 3 fewer files than initially documented (likely consolidation or deletion), confirms subfolder structure planning, and provides more specific proposal document names and project codes (DAF26BZ01, AREN, SkyMesa).

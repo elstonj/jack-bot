@@ -1,67 +1,85 @@
 # Dan Prendergast — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 20 emails
+- **Total messages scanned:** 40 emails (20 previous + 20 new)
 - **Date range:** 31 May – 2 Jun 2026
-- **Volume:** Heavy activity on 1 Jun 2026 (17 emails); typical pattern appears to be concentrated daily activity with multiple back-and-forth exchanges
+- **Volume:** Heavy sustained activity; concentrated on 2 Jun 2026 with multiple rapid exchanges across logistics, technical projects, and external partnerships; typical pattern shows same-day multi-thread responses
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Jack Elston** (elstonj@blackswifttech.com) — frequent collaborator; appears in multiple threads and document shares
-- **Maciej Stachura** (stachura@blackswifttech.com) — regular correspondent; involved in technical/project coordination
+- **Jack Elston** (elstonj@blackswifttech.com) — primary collaborator; frequent on technical documents (Google Docs), project coordination, and team meetings; appears to be project lead or technical authority
+- **Maciej Stachura** (stachura@blackswifttech.com) — regular technical/project coordinator
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — growing correspondence; involved in SBIR and international coordination (UK MOD contact)
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — team member on Thursday Visit and Navy coordination
 
 ### Top External Contacts
-- **Arthur Shune** (arthur@skymesasystems.com, SkyMesa Systems) — 3 emails on BST/SkyMesa EW UAS collaboration
-- **Mark Goranson, Scott Smyser, Tom Wilp, Mohamed Sabry** (nanoveu.com) — team correspondence on EMASS project
-- **Brody Basset** (bb@defensecoalitions.org, Defense Coalitions) — Colorado Defense & Industry Coalition engagement
-- **Bob Smith** (Bob@krateosky.com, Krateo Sky) — multiple exchanges on camera invoices (billing/logistics)
-- **Scott Simpson** (scott.simpson@cratersandfreighters.com, Craters & Freighters) — logistics/pickup coordination
+- **Robert Correia** (rcorreia@aeronet.com) — logistics/logistics operator; multiple rapid exchanges on shipping pickup coordination (C&F #916414)
+- **Jon Vince** (jon.vince@rogers.com) — Canada-based contact; battery shipment coordination to Ottawa
+- **Scott Smyser, Mark Goranson, Tom Wilp, Mohamed Sabry** (nanoveu.com) — NanoVEU team; EMASS project closeout
+- **Arthur Shune** (arthur@skymesasystems.com, SkyMesa Systems) — EW UAS collaboration
+- **Brody Basset** (bb@defensecoalitions.org, Defense Coalitions) — Colorado Defense & Industry Coalition
+- **Tanay Topac** (tanaytopac@stanford.edu, Stanford) — External technical advisor/consultant; MHP data alignment work
+- **Simon Laurence** (Simon.Laurence157@mod.gov.uk, UK MOD) — UK Ministry of Defence contact; appears to be collaborating on Merlin Mk2/US Navy SBIR initiative
+- **Trenton McKibben** (Trenton.McKibben@nextechsol.com, Nextech Solutions) — Canadian vendor brief coordination (CJFC context)
 
 ### Government Contacts
-- **Anthony D. Brescia** (anthony.d.brescia.civ@us.navy.mil, NAWCAD/Navy) — NE27 Site Survey Requirements (appears to be a core technical/testing initiative)
-
-### Automated/Newsletter Sources
-- Southwest Mission Acceleration Center (SWMAC) — monthly newsletter subscriber
+- **Anthony D. Brescia** (NAWCAD/Navy) — Navy technical coordination (from previous data)
+- **Nicolas Verreault** (nicolas.verreault2@forces.gc.ca, Canadian Armed Forces) — appears in vendor brief distribution
+- **Harry Wong** (harry.wong@forces.gc.ca, Canadian Armed Forces) — vendor brief recipient
 
 ## Topic Patterns
 
-### Active Projects
-1. **BST-EMASS Project** — Initial scope closeout discussions with NanoVEU team
-2. **BST/SkyMesa EW UAS** — Electronic Warfare UAS collaboration with SkyMesa Systems
-3. **Arctic UAS Onboarding** — Materials due 25-26 Jun; forwarded to Maciej Stachura
-4. **S0 UAS System Integration** — Google Docs shared document (v2), technical architecture/integration work
-5. **NE27 Site Survey Requirements** — Navy coordination; deadline-driven (originally due 29 May)
-6. **Colorado Defense & Industry Coalition** — External partnerships/industry group engagement
+### Active Projects (Updated)
+1. **Merlin Mk2/US Navy SBIR** — NEW; appears to be a significant submarine/maritime program involving UK MOD collaboration (Simon Laurence); multiple participants (Joshua Fromm, Jack Elston, Tanay Topac); flagged IMPORTANT across multiple exchanges
+2. **DAF Agile EW Technical** — NEW; Document collaboration (Google Docs) with Jack Elston; appears to be Department of Air Force electronic warfare initiative; v2 template active
+3. **BST-EMASS Project** — Ongoing closeout with NanoVEU team
+4. **BST/SkyMesa EW UAS** — Electronic Warfare collaboration
+5. **MHP Data Alignment** — Technical coordination with Stanford (Tanay Topac)
+6. **Arctic UAS Onboarding** — Materials timeline (from previous data)
+7. **S0 UAS System Integration** — Technical architecture work (from previous data)
+8. **NE27 Site Survey Requirements** — Navy coordination (from previous data)
 
-### Operational/Logistics
-- Camera invoice processing and payment (multiple exchanges with Bob Smith)
-- Shipping/pickup coordination (Craters & Freighters logistics)
+### Operational/Logistics (Expanded)
+- **Shipping coordination:** Multiple urgent exchanges on C&F #916414 pickup and battery shipment to Ottawa, Canada (Jon Vince; Robert Correia at AeroNet)
+- **International logistics:** Canada-based shipment suggests customer or partner operation in Ottawa
+- **Hardware procurement:** Battery shipments and pickup logistics consistent with UAS/payload operations
+
+### International/Government Engagement (NEW)
+- **Canadian Armed Forces (CJFC) Vendor Brief** — CJFC context suggests Canadian Joint Forces Command engagement; briefing transcript dated 26 May; involves Invest Ottawa and NextechSol coordination
+- **UK MOD collaboration** — Simon Laurence (UK Ministry of Defence) actively engaged on Merlin Mk2/SBIR initiative
 
 ## Communication Patterns
 
-- **Concentrated activity:** Heavy clustering on 1 Jun 2026 (business hours and evening)
-- **Time zones:** Mix of Mountain Time (-0600) and UTC (+0000) suggests distributed team or cross-timezone coordination
-- **Response patterns:** Multiple rapid back-and-forth exchanges on same-day topics (e.g., camera invoices, site survey requirements)
-- **Email flagging:** External partners and internal project updates consistently marked IMPORTANT
-- **Google Workspace integration:** Active document collaboration (Google Docs shared)
+- **Concentrated activity:** Heavy on 2 Jun 2026; multiple same-day thread responses (logistics, technical updates, project coordination)
+- **Time zones:** Mix of Mountain Time (-0600), UTC (+0000), and -0700 PDT; increasingly international scope (UK, Canada)
+- **Rapid response pattern:** Same-day multi-exchange threads on logistics (C&F pickup, battery shipment) indicate either urgent operational status or coordinator role
+- **Document collaboration:** Active Google Docs integration (DAF Agile EW Technical templates) with Jack Elston
+- **Importance flagging:** 16 of 20 new emails marked IMPORTANT; suggests high-priority project portfolio
+- **Evening/weekend activity:** Comments/notifications received at 23:51 and 23:55 on 2 Jun; suggests active project schedule or time zone spanning
 
 ## Key Relationships
 
 ### Closest Internal Collaborators
-1. **Jack Elston** — frequent cross-functional communications; involved in updates, technical coordination, external vendor management
-2. **Maciej Stachura** — technical/project lead coordination; interfaces with Navy NAWCAD contacts
+1. **Jack Elston** — Primary technical lead; document collaboration (Google Docs), project updates, team coordination; authority on DAF Agile EW and technical strategy
+2. **Joshua Fromm** — Growing prominence; interface to international partners (UK MOD); SBIR program coordination
+3. **Maciej Stachura** — Technical/project operations
+4. **Beck Cotter, Meredith Needham, Ben Busby** — Team members on Thursday Visit (in-person coordination meeting)
 
-### Critical External Relationships
-1. **SkyMesa Systems (Arthur Shune)** — EW UAS partnership; appears to be active joint development
-2. **NanoVEU (Goranson, Smyser, Wilp, Sabry)** — EMASS project client/partner; formal closeout coordination
-3. **Defense Coalitions (Brody Basset)** — Industry coalition engagement; relationship flagged as important
-4. **NAWCAD Navy (Brescia, Ruiz-Reyes)** — Government customer relationship; technical site survey work with multiple BST team members
+### Critical External Relationships (Ranked by Activity)
+1. **UK MOD (Simon Laurence)** — Strategic partnership on Merlin Mk2/US Navy SBIR; appears to be collaborative development or integration program
+2. **Tanay Topac (Stanford)** — Technical consultant/advisor on MHP data alignment; flagged IMPORTANT
+3. **NanoVEU (Goranson, Smyser, Wilp, Sabry)** — Active EMASS project client in closeout phase
+4. **Canada-based operations** (Jon Vince, Robert Correia, Trenton McKibben) — Battery/hardware shipment to Ottawa; Canadian Armed Forces engagement visible (CJFC vendor brief)
+5. **SkyMesa Systems** — EW UAS partnership (from previous data)
+6. **AeroNet (Robert Correia)** — Logistics operations partner; high-frequency coordination
 
 ## Notable Observations
 
-- **Navy contract visible:** NE27 Site Survey Requirements indicates active Navy/NAWCAD relationship with deadline-driven deliverables; involves multiple BST team members (Beck Cotter, Jack Elston, Maciej Stachura, Dan Prendergast)
-- **Operational detail:** Multiple emails on "camera invoices" suggest hardware procurement/integration work; may be related to S0 UAS payload
-- **External partner management:** Dan appears to be primary or co-primary contact for both SkyMesa EW UAS and Defense Coalitions relationships
-- **Project sequencing:** EMASS closeout followed by Arctic UAS onboarding suggests active project portfolio turnover
-- **Document collaboration:** Real-time technical work visible through Google Docs shares (S0 UAS System Integration)
+- **Merlin Mk2/SBIR is significant:** Multiple IMPORTANT flags; UK MOD involvement suggests multinational maritime/submarine program; may be high-value/strategic BST program
+- **Dan as operational coordinator:** High volume of logistics coordination (C&F, battery shipment, international shipping) suggests either supply chain management responsibility or project implementation lead role
+- **Canadian market entry visible:** CJFC vendor brief, Ottawa shipment, Canadian Armed Forces contacts (Verreault, Wong) suggest active business development in Canada; Invest Ottawa involvement indicates potential government/economic development coordination
+- **International complexity increasing:** New contacts in UK (MOD), Canada (CAF, Invest Ottawa), Stanford advisory relationships; suggests program scope expansion beyond US domestic
+- **Thursday Visit scheduled:** Internal team meeting on 4 Jun with multiple participants (Elston, Stachura, Cotter, Fromm, Needham, Busby) — likely all-hands or project review meeting
+- **Real-time technical collaboration:** Google Docs templates active on DAF Agile EW suggest document version control and rapid iteration on government proposal or technical requirement
+- **Hardware procurement cadence:** Repeated logistics exchanges suggest ongoing system builds or customer deliveries; battery shipments consistent with field operations or customer handover

@@ -20,6 +20,8 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **May 27, 2026**: Phase II Cal/Val plan meeting rescheduled to 11:30 AM ET (moved from 11:00 AM due to Jun Zhang's conflict); confirmed attendance: Maciej and Josh Wadler
 - **May 28, 2026**: Phase II Cal/Val plan meeting held; Maciej shared working document for review
 - **June 1, 2026**: Interim report (Progress Report, Task O.2) due June 3, 2026 by 3 PM Mountain time (5 PM Eastern) with early submission recommended per Meredith Needham to avoid technical difficulties
+- **June 2, 2026**: S0-63 flight wind data errors identified and resolved: firmware error in 5-hole probe center port reading and new magnetometer calibration method issues corrected; post-correction wind speeds now show good agreement with dropsonde data (4.2-4.4 m/s consistent across 3 box segments)
+- **June 2, 2026**: Approved P-3 overflight of OOI array as near-term validation approach with potential additional flight hours available in July
 
 ## Projects & Initiatives
 **Navy STTR Boundary Layer Measurements Project (Award: N6833535C0270)**
@@ -35,6 +37,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - Ocean validation missions in 4 phases testing sensing, algorithms, wave height, QC, and AI autonomy
 - **Humidity Sensor Correction**: Vaisala humidity error identified and corrected with post-processing fix; real-time correction now active in firmware (as of April 17, 2026)
 - **Wind Data Improvements**: Dual GPS heading data enabling improved wind estimation techniques for CAT flights
+- **5-Hole Probe & Magnetometer Calibration (June 2, 2026)**: S0-63 flight analysis revealed firmware error in 5-hole probe center port and issues with new magnetometer calibration method; both issues resolved with post-processing corrections showing improved agreement with dropsonde measurements
 
 **Active Field Operations (April-May 2026):**
 - S0 UAS ocean deployment missions coordinated through NOAA AOC (Aviation Operations Center) in Lakeland
@@ -61,14 +64,4 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - Team actively developing calibration and validation strategy for Phase II ocean data
 
 **Phase II Tasks Status (May-June 2026):**
-- **Task O.1**: Cal/Val plan for Phase II including ocean data (team meeting held May 28, 2026 at 11:30 AM ET; working document under development/review)
-- **Task O.2**: Interim Progress Report due June 3, 2026 by 3 PM Mountain time (5 PM Eastern)
-
-**OOI (Ocean Observatories Initiative) Array Concern (June 1, 2026):**
-- Maciej flagged administration requirements for OOI array takedown potentially affecting planned Phase II calibration sites
-- Maciej seeking confirmation on backup site safety from team member (identity marked as @U07J4SVJSHJ)
-
-## Action Items & Commitments
-**Active Commitments:**
-- **Beck Cotter**: 
-  - Provided Progress Report (CLIN0007) and Final Report (CLIN0007
+- **Task O.1**: Cal/Val plan for Phase II including ocean

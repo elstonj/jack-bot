@@ -4,15 +4,13 @@
     "[550-1] Navy SBIR Magnetometer"
   ],
   "period": {
-    "start": "2026-06-01",
-    "end": "2026-06-02"
+    "start": "2026-06-02",
+    "end": "2026-06-03"
   },
   "totals": {
     "revenue": 49459.0,
-    "expenses": 45.29,
-    "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 45.29
-    }
+    "expenses": 0.0,
+    "by_category": {}
   },
   "invoices": [
     {
@@ -63,26 +61,7 @@
     }
   ],
   "bills": [],
-  "purchases": [
-    {
-      "type": "Purchase",
-      "date": "2026-06-01",
-      "doc_number": "",
-      "total": 45.29,
-      "attributed": 45.29,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "DKC*DIGI KEY CORP - 4617",
-      "lines": [
-        {
-          "amount": 45.29,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "DKC*DIGI KEY CORP - 4617"
-        }
-      ]
-    }
-  ],
+  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }
