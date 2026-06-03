@@ -54,6 +54,20 @@ PENDING_TTL = 600  # 10 minutes
 PENDING: dict[tuple[str, str], dict] = {}
 
 STATE_AWAIT_CONFIRM = "await_confirm"
+# A reply that contained only safe factual fields — applied immediately, no
+# confirm needed. We still stash a pending entry so a follow-up "undo" can
+# revert it, but any non-undo reply is reprocessed as a fresh correction.
+STATE_AUTO_APPLIED = "auto_applied"
+
+_UNDO_RX = re.compile(r"^\s*(undo|revert|roll\s*back|rollback|undo that|never\s*mind)\b", re.IGNORECASE)
+
+
+def _is_undo(text: str) -> bool:
+    return bool(_UNDO_RX.match(text or ""))
+
+
+def _today() -> str:
+    return __import__("datetime").date.today().isoformat()
 
 _client = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY", ""))
 DISTILL_MODEL = "claude-haiku-4-5-20251001"
@@ -77,6 +91,40 @@ SUPPORT_WRITABLE = {
     "tracking_number", "carrier",
     "linked_build_gid", "owners", "notes",
 }
+
+
+# Fields safe to apply IMMEDIATELY from a thread reply, with no confirm step —
+# plain factual data points where the human's statement *is* the correction
+# (an invoice number, a tracking code, a shipping address). Historically these
+# were getting lost: Jack would post "Proposed updates… reply yes", the user
+# treated their statement as done and never replied "yes", and the proposal
+# expired in the in-memory PENDING dict (10-min TTL, also wiped on every Railway
+# redeploy). So the JSON was never written. Auto-applying them — with an *undo*
+# escape hatch — fixes that whole class of silent drops.
+#
+# Deliberately EXCLUDED (these keep the propose-and-confirm gate):
+#   - state machines: payment_state, build_state, ship_state, (case) state —
+#     they advance workflow and can be irreversible-feeling, so a human says yes
+#   - structural lists: items, parts — full-list replacements, easy to clobber
+#   - owners — reassigns responsibility; worth a confirm
+SAFE_FACT_FIELDS_BUILD = {
+    "customer_contact", "customer_email", "receive_by", "ship_to",
+    "estimate_date", "invoice_date", "invoice_amount", "invoice_number",
+    "paid_date", "tracking_number", "carrier", "shipped_date", "notes",
+}
+SAFE_FACT_FIELDS_CASE = {
+    "customer_contact", "customer_email", "device", "serial_number",
+    "reported_issue", "rma_number", "received_date", "shipped_back_date",
+    "tracking_number", "carrier", "notes",
+}
+
+
+def _is_safe_fact(kind: str, field: str) -> bool:
+    if kind == "build":
+        return field in SAFE_FACT_FIELDS_BUILD
+    if kind == "case":
+        return field in SAFE_FACT_FIELDS_CASE
+    return False
 
 
 # --- Pending state ---------------------------------------------------------
@@ -517,6 +565,91 @@ def _apply_update_to_record(kind: str, record, update: dict):
     setattr(record, field, value)
 
 
+# --- Commit / revert -------------------------------------------------------
+
+
+def _commit_updates(
+    slack_client, kind: str, rec_id: str, updates: list[dict], user_id: str,
+    source: str = "thread reply",
+) -> Optional[dict]:
+    """Load the record, apply `updates`, persist, and post the audit trail.
+
+    Returns a dict {label, applied_lines, comment_status, undo} on success, or
+    None if the record couldn't be loaded. `undo` is a list of
+    {field, value} snapshots of each flat field's PRIOR value, captured before
+    applying — enough to revert a later "undo". (items/parts/owners are never
+    auto-applied, so they're not snapshotted for undo.)
+    """
+    record = _load_record(kind, rec_id)
+    if not record:
+        return None
+
+    undo: list[dict] = []
+    for u in updates:
+        fld = u["field"]
+        if fld not in ("items", "parts", "owners"):
+            undo.append({"field": fld, "value": getattr(record, fld, None)})
+        _apply_update_to_record(kind, record, u)
+
+    if hasattr(record, "last_evidence_date"):
+        record.last_evidence_date = _today()
+    _save_record(kind, record)
+
+    comment = (
+        f"Jack Bot: {len(updates)} update(s) from Slack #commercial-sales ({source}):\n"
+        + "\n".join(f"  - {u['field']} → {_format_value(u['value'])}" for u in updates)
+        + f"\n\nSubmitted by Slack user <@{user_id}>."
+    )
+    asana_gid = getattr(record, "asana_gid", None)
+    if asana_gid:
+        ok, err = _post_asana_comment(asana_gid, comment)
+        comment_status = "Posted Asana audit comment." if ok else f"_(Couldn't post Asana comment: {err})_"
+    else:
+        comment_status = ""
+
+    try:
+        from knowledge import store_entry
+        store_entry(slack_client, "FEEDBACK", comment)
+    except Exception:
+        pass
+
+    return {
+        "label": _record_label(record),
+        "applied_lines": [
+            f"  ✓ `{u['field']}` → {_format_value(u['value'])}" for u in updates
+        ],
+        "comment_status": comment_status,
+        "undo": undo,
+    }
+
+
+def _revert_updates(
+    slack_client, kind: str, rec_id: str, undo: list[dict], user_id: str,
+) -> Optional[list[str]]:
+    """Restore the prior values captured in an undo buffer. Returns the list of
+    reverted field names, or None if the record is gone."""
+    record = _load_record(kind, rec_id)
+    if not record:
+        return None
+    reverted = []
+    for u in undo:
+        setattr(record, u["field"], u["value"])
+        reverted.append(u["field"])
+    if reverted and hasattr(record, "last_evidence_date"):
+        record.last_evidence_date = _today()
+    _save_record(kind, record)
+    try:
+        from knowledge import store_entry
+        store_entry(
+            slack_client, "FEEDBACK",
+            f"Jack Bot: reverted {len(reverted)} auto-applied update(s) on "
+            f"{_record_label(record)} ({', '.join(reverted)}) at request of <@{user_id}>.",
+        )
+    except Exception:
+        pass
+    return reverted
+
+
 # --- Asana audit comment ---------------------------------------------------
 
 
@@ -650,24 +783,72 @@ def handle_thread_reply(slack_client, event) -> Optional[str]:
                 )
         return body
 
-    # Stash and propose
-    _set_pending(thread_ts, user_id, {
-        "state": STATE_AWAIT_CONFIRM,
-        "kind": kind,
-        "id": info["id"],
-        "updates": valid_updates,
-        "ambiguous": ambiguous,
-        "rejected": rejected,
-        "user_id": user_id,
-        "channel_id": channel_id,
-        "original_reply": text,
-    })
+    # Partition: safe factual fields apply immediately (the user's statement
+    # IS the correction); state-machine / structural fields still go through
+    # propose-and-confirm. A reply that touches both gets a hybrid response:
+    # the facts land now, the workflow change waits for a yes.
+    auto = [u for u in valid_updates if _is_safe_fact(kind, u["field"])]
+    confirm = [u for u in valid_updates if not _is_safe_fact(kind, u["field"])]
 
-    label = _record_label(record)
-    msg = _format_proposal(label, valid_updates, ambiguous)
-    if rejected:
-        msg += "\n\n_(Rejected: " + "; ".join(rejected) + ")_"
-    return msg
+    blocks: list[str] = []
+    undo_buffer: list[dict] = []
+
+    if auto:
+        committed = _commit_updates(slack_client, kind, info["id"], auto, user_id)
+        if committed:
+            undo_buffer = committed["undo"]
+            block = (
+                f":white_check_mark: Recorded for *{committed['label']}*:\n"
+                + "\n".join(committed["applied_lines"])
+                + "\n_Reply *undo* to revert._"
+            )
+            if committed["comment_status"]:
+                block += "\n" + committed["comment_status"]
+            blocks.append(block)
+        else:
+            # Record vanished between lookup and apply — fall back to proposing
+            # everything so nothing is silently dropped.
+            confirm = valid_updates
+            auto = []
+
+    if confirm:
+        _set_pending(thread_ts, user_id, {
+            "state": STATE_AWAIT_CONFIRM,
+            "kind": kind,
+            "id": info["id"],
+            "updates": confirm,
+            "ambiguous": ambiguous,
+            "rejected": rejected,
+            "user_id": user_id,
+            "channel_id": channel_id,
+            "original_reply": text,
+            "undo": undo_buffer,  # lets "undo" still revert the auto part
+        })
+        proposal = _format_proposal(_record_label(record), confirm, ambiguous)
+        if rejected:
+            proposal += "\n\n_(Rejected: " + "; ".join(rejected) + ")_"
+        blocks.append(proposal)
+    else:
+        # Pure auto-apply (or nothing left to confirm). Stash an undo buffer so a
+        # follow-up "undo" works; any other follow-up is reprocessed fresh.
+        if auto:
+            _set_pending(thread_ts, user_id, {
+                "state": STATE_AUTO_APPLIED,
+                "kind": kind,
+                "id": info["id"],
+                "undo": undo_buffer,
+                "user_id": user_id,
+                "channel_id": channel_id,
+            })
+        footnotes = []
+        if ambiguous:
+            footnotes += [f"  • {a}" for a in ambiguous]
+        if rejected:
+            footnotes += [f"  • {r}" for r in rejected]
+        if footnotes:
+            blocks.append("_Didn't change anything for these — restate if needed:_\n" + "\n".join(footnotes))
+
+    return "\n\n".join(b for b in blocks if b) or None
 
 
 def handle_thread_followup(slack_client, event) -> Optional[str]:
@@ -684,6 +865,25 @@ def handle_thread_followup(slack_client, event) -> Optional[str]:
         return None
     if not text:
         return None
+
+    # Undo a previously auto-applied factual update. Works whether the pending
+    # entry is a bare auto-apply OR an await_confirm that also carries an undo
+    # buffer for the safe-fact part it already wrote.
+    if pending.get("undo") and _is_undo(text):
+        reverted = _revert_updates(
+            slack_client, pending["kind"], pending["id"], pending["undo"], user_id
+        )
+        _clear_pending(thread_ts, user_id)
+        if not reverted:
+            return "_(Nothing to undo — the record may have changed since.)_"
+        return "Reverted " + ", ".join(f"`{f}`" for f in reverted) + "."
+
+    # An auto-applied entry has no proposal to confirm — so any non-undo reply
+    # is a fresh correction. Clear the undo buffer and reprocess it as a new
+    # threaded reply rather than dropping it.
+    if pending.get("state") == STATE_AUTO_APPLIED:
+        _clear_pending(thread_ts, user_id)
+        return handle_thread_reply(slack_client, event)
 
     # Pending state is now keyed on (thread_ts, user_id) so concurrent proposals
     # by different users in the same umbrella thread don't collide. The
@@ -738,50 +938,20 @@ def handle_thread_followup(slack_client, event) -> Optional[str]:
     else:
         return None
 
-    # Load the current record and apply
-    record = _load_record(pending["kind"], pending["id"])
-    if not record:
+    # Load, apply, persist, audit — shared with the auto-apply path.
+    committed = _commit_updates(
+        slack_client, pending["kind"], pending["id"], selected, user_id
+    )
+    if not committed:
         _clear_pending(thread_ts, user_id)
         return "_(Record disappeared between propose and apply — please retry.)_"
 
-    for u in selected:
-        _apply_update_to_record(pending["kind"], record, u)
-
-    # Update last_evidence_date to today since a human just touched it
-    if hasattr(record, "last_evidence_date"):
-        record.last_evidence_date = __import__("datetime").date.today().isoformat()
-
-    _save_record(pending["kind"], record)
-
-    # Asana comment audit
-    asana_gid = getattr(record, "asana_gid", None)
-    comment = (
-        f"Jack Bot: {len(selected)} update(s) from Slack #commercial-sales thread:\n"
-        + "\n".join(f"  - {u['field']} → {_format_value(u['value'])}" for u in selected)
-        + f"\n\nSubmitted by Slack user <@{user_id}>."
-    )
-    if asana_gid:
-        ok, err = _post_asana_comment(asana_gid, comment)
-        comment_status = "Posted Asana audit comment." if ok else f"_(Couldn't post Asana comment: {err})_"
-    else:
-        comment_status = ""
-
-    # Knowledge-channel audit
-    try:
-        from knowledge import store_entry
-        store_entry(slack_client, "FEEDBACK", comment)
-    except Exception:
-        pass
-
     _clear_pending(thread_ts, user_id)
-    applied_lines = "\n".join(
-        f"  ✓ `{u['field']}` → {_format_value(u['value'])}" for u in selected
-    )
     rejected_count = len(pending["updates"]) - len(selected)
     header = f"Applied {len(selected)} update(s)."
     if rejected_count:
         header += f" Skipped {rejected_count} item(s)."
-    body = header + "\n" + applied_lines
-    if comment_status:
-        body += "\n" + comment_status
+    body = header + "\n" + "\n".join(committed["applied_lines"])
+    if committed["comment_status"]:
+        body += "\n" + committed["comment_status"]
     return body
