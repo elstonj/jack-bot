@@ -712,6 +712,164 @@ def is_order(b: Build) -> bool:
     return False
 
 
+# --- Dedup & stale-lead pruning --------------------------------------------
+# The scanner anchors one Build per Asana task gid, so when two Asana tasks
+# describe the *same* physical order (a data-entry artifact we can't control
+# upstream) we get two records. These helpers collapse true duplicates and
+# retire estimate-only leads that have gone cold. They are pure and shared by
+# both the digest renderer (so the post is always correct) and the scanner
+# (which additionally deletes the merged-away / retired JSONs on disk).
+
+STALE_LEAD_DAYS = 180  # an estimate-only lead older than this with no movement
+
+
+def _parse_iso_date(s) -> Optional[date]:
+    if not s:
+        return None
+    try:
+        return datetime.strptime(str(s)[:10], "%Y-%m-%d").date()
+    except (ValueError, TypeError):
+        return None
+
+
+def _norm_invoice(inv) -> str:
+    """Normalize an invoice number for equality grouping ('#1667' == '1667')."""
+    if not inv:
+        return ""
+    return str(inv).strip().lstrip("#").strip().lower()
+
+
+def _build_progress_rank(b: Build) -> tuple[int, int, int]:
+    """How far along the combined state machines this build is — higher = further.
+    Used to pick the canonical record when merging a duplicate cluster."""
+    def _idx(states: list[str], val: Optional[str]) -> int:
+        try:
+            return states.index(val or "none")
+        except ValueError:
+            return 0
+    return (
+        _idx(PAYMENT_STATES, b.payment_state),
+        _idx(BUILD_STATES, b.build_state),
+        _idx(SHIP_STATES, b.ship_state),
+    )
+
+
+def _field_completeness(b: Build) -> int:
+    """Count of populated, meaningful fields — secondary tiebreak when two
+    duplicates are equally far along the state machines."""
+    count = 0
+    for k, v in b.to_dict().items():
+        if k == "asana_gid":
+            continue
+        if v in (None, "", [], {}, "none"):
+            continue
+        count += 1
+    return count
+
+
+def merge_build_cluster(members: list[Build]) -> Build:
+    """Merge duplicate builds into one canonical record.
+
+    Winner = furthest along the state machines, then most complete, then lowest
+    gid (stable — keeps the canonical Asana anchor deterministic across scans).
+    Any field the winner is missing is folded in from the losers; populated
+    winner fields are never overwritten. `last_evidence_date` takes the latest.
+    """
+    if len(members) == 1:
+        return members[0]
+
+    def _key(b: Build) -> tuple:
+        return (_build_progress_rank(b), _field_completeness(b))
+
+    best = max(members, key=_key)
+    top = [b for b in members if _key(b) == _key(best)]
+    winner = min(top, key=lambda b: str(b.asana_gid))
+    losers = [b for b in members if b is not winner]
+
+    scalar_fields = (
+        "asana_task_name", "customer", "customer_contact", "customer_email",
+        "receive_by", "ship_to", "estimate_date", "invoice_date",
+        "invoice_amount", "invoice_number", "paid_date", "tracking_number",
+        "carrier", "shipped_date", "notes",
+    )
+    for loser in losers:
+        for fname in scalar_fields:
+            if not getattr(winner, fname, None) and getattr(loser, fname, None):
+                setattr(winner, fname, getattr(loser, fname))
+        if not winner.items and loser.items:
+            winner.items = loser.items
+        if not winner.parts and loser.parts:
+            winner.parts = loser.parts
+        for role, who in (loser.owners or {}).items():
+            winner.owners.setdefault(role, who)
+        # latest evidence wins (ISO dates compare lexicographically)
+        if loser.last_evidence_date and (
+            not winner.last_evidence_date
+            or loser.last_evidence_date > winner.last_evidence_date
+        ):
+            winner.last_evidence_date = loser.last_evidence_date
+    return winner
+
+
+def merge_builds_by_invoice(builds: list[Build]) -> list[Build]:
+    """Collapse builds that share a non-empty invoice number into one record.
+
+    Deterministic and zero-risk: two builds carrying the same invoice number
+    are the same order (e.g. ERAU's two Asana tasks both on invoice #1667).
+    Input order is preserved by first appearance.
+    """
+    groups: dict[str, list[Build]] = {}
+    order: list[str] = []
+    for b in builds:
+        inv = _norm_invoice(b.invoice_number)
+        key = f"inv:{inv}" if inv else f"gid:{b.asana_gid}"
+        if key not in groups:
+            groups[key] = []
+            order.append(key)
+        groups[key].append(b)
+    return [merge_build_cluster(groups[k]) for k in order]
+
+
+def is_stale_lead(b: Build, today: Optional[date] = None) -> bool:
+    """True for an estimate-only Lead whose quote has gone cold.
+
+    Estimate-only means no invoice and no build/ship work started. The age is
+    measured from `estimate_date` — the order's own milestone — and NEVER from
+    `last_evidence_date`, which tangential Slack/email noise keeps refreshing
+    and would otherwise keep a dead lead alive forever (the Oklahoma State case:
+    estimate sent 2024-11-14, never advanced, but last_evidence_date read
+    2026-05-26 from unrelated chatter). A lead with no estimate_date isn't aged
+    out here — it may be a fresh/live opportunity.
+    """
+    today = today or date.today()
+    if b.payment_state not in ("none", "estimate_sent"):
+        return False
+    if (b.build_state or "none") != "none":
+        return False
+    if (b.ship_state or "none") != "none":
+        return False
+    if b.invoice_number:
+        return False
+    est = _parse_iso_date(b.estimate_date)
+    if not est:
+        return False
+    return (today - est).days > STALE_LEAD_DAYS
+
+
+def prepare_active_builds(builds: list[Build], today: Optional[date] = None) -> list[Build]:
+    """Dedup, retire stale leads, and keep only digest-active builds.
+
+    Shared by both renderers so the morning post is always correct even when a
+    scan hasn't run since duplicate Asana tasks appeared. Note: only the
+    deterministic invoice merge runs here — the LLM clustering pass for
+    invoice-less duplicates is scanner-only (no LLM at digest post-time).
+    """
+    today = today or date.today()
+    builds = merge_builds_by_invoice(builds)
+    builds = [b for b in builds if not is_stale_lead(b, today)]
+    return [b for b in builds if _is_active_build(b)]
+
+
 # Reply hint footer — posted once under each thread so users know they can
 # reply anywhere in the umbrella thread to update a card.
 _REPLY_HINT = (
@@ -750,7 +908,7 @@ def render_card_sequence(
     day = today.strftime('%A %B %d')
     sequence: list[dict] = []
 
-    active_builds = [b for b in builds if _is_active_build(b)]
+    active_builds = prepare_active_builds(builds, today)
     orders = [b for b in active_builds if is_order(b)]
     leads = [b for b in active_builds if not is_order(b)]
     active_cases = [c for c in cases if c.state != "shipped"]
@@ -824,7 +982,7 @@ def render_digest(
     day = today.strftime('%A %B %d')
     pieces = [f":package:  *Customer Builds & Support — {day}*"]
 
-    active_builds = [b for b in builds if _is_active_build(b)]
+    active_builds = prepare_active_builds(builds, today)
     orders = [b for b in active_builds if is_order(b)]
     leads = [b for b in active_builds if not is_order(b)]
     active_cases = [c for c in cases if c.state != "shipped"]

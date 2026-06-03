@@ -53,6 +53,11 @@ from commercial_sales import (
     load_support_cases,
     save_build,
     save_support,
+    merge_builds_by_invoice,
+    merge_build_cluster,
+    is_stale_lead,
+    STALE_LEAD_DAYS,
+    _norm_invoice,
     BUILDS_DIR,
     SUPPORT_DIR,
 )
@@ -1060,12 +1065,20 @@ a system sale are all commercial. The test: are we *selling a product/system*
 STEP 1 (KEEP overrides — only when Step 0 and Step 0B didn't fire). If ANY of these is
 true, KEEP the build regardless of what other Asana custom fields say. These are the load-bearing signals
 that "BST has skin in the game":
-  • A QBO invoice exists for this customer entity (paid or unpaid). BST is
-    on the hook to deliver or to collect. Stale Asana fields, "Closed"
-    statuses, and $0 closed-values are all overridden by an actual QBO
-    invoice. ERAU-style "paid but legal settlement pending" is KEEP.
-    NOTE: when QBO INVOICES evidence is provided above, use those entries
-    — if 1+ rows reference this customer's entity, KEEP.
+  • A QBO invoice exists that corresponds to THIS task's product/scope (paid
+    or unpaid). BST is on the hook to deliver or to collect. Stale Asana
+    fields, "Closed" statuses, and $0 closed-values are all overridden by an
+    actual QBO invoice for this order. ERAU-style "paid but legal settlement
+    pending" is KEEP.
+    CRITICAL: the invoice must match THIS task's order — same product line /
+    system / campaign — not merely the same customer entity. A customer can
+    have several distinct orders; a paid invoice for a DIFFERENT, already-
+    delivered order (e.g. a refurbished S2 shipped last year) does NOT keep an
+    unrelated, never-advanced estimate alive, and must NOT be cited in `notes`
+    as justification for this record. When the only invoice on the account is
+    for a different deliverable, treat this task on its own merits (Step 2).
+    NOTE: when QBO INVOICES evidence is provided above, use those entries — if
+    1+ rows plausibly reference THIS task's product/scope, KEEP.
   • Substantive email/Slack activity in the last 90 days about this specific
     customer (not generic newsletter / partner traffic). Implies live
     engagement even when Asana hasn't been updated.
@@ -1655,6 +1668,231 @@ def _write_filtered_log() -> Optional[Path]:
     return path
 
 
+# --- Dedup & stale-lead pass -----------------------------------------------
+# The scanner anchors one Build per Asana task gid, so two Asana tasks for the
+# same physical order produce two records that the manual "delete the JSON"
+# approach can't fix (the next scan re-creates them). This pass collapses true
+# duplicates and retires cold leads automatically, every run:
+#   a. deterministic merge of records sharing an invoice number (shared with
+#      the digest renderer via commercial_sales.merge_builds_by_invoice)
+#   b. product-aware Haiku clustering for invoice-less duplicates
+#   c. stale-lead retirement (commercial_sales.is_stale_lead)
+# Everything removed is unlink()ed on disk and logged to _filtered.md (so it's
+# visible via `show filtered` and recoverable via `track this:`).
+
+CLUSTER_DEDUP_SYSTEM = """\
+You are deduplicating commercial-sales order records. You are given 2+ Build
+records whose customer names are similar. Some pairs are the SAME physical
+order entered as two Asana tasks; others are GENUINELY DISTINCT orders for the
+same/related customer (different product line, different department, different
+campaign, a separate follow-on order).
+
+Group ONLY records that are the same physical order. The SAME order requires
+BOTH (a) the same buyer — same customer CONTACT / person / PI / department /
+integrator org (a shared email domain or named individual) — AND (b) the same
+described project, campaign, or deliverable. Examples of the same order: ERAU's
+two tasks both on invoice #1667, or two tasks tracking one named demo program
+for the same integrator.
+
+Records are DISTINCT when ANY of these holds, even if other fields look alike:
+  • Different customer contacts / PIs (e.g. two different professors at the
+    same university each requesting their own quote) — almost always two orders.
+  • Different product/system (an S2 system vs an S3 airframe).
+  • Different project, campaign, end-use, or department.
+
+CRITICAL: identical line items are NOT evidence of one order. The same
+off-the-shelf product (e.g. a standard "E2 UAS Flight System" config) gets
+quoted to many different buyers. A coincidental shared receive-by date (common
+academic timelines) is likewise NOT evidence. Require a shared BUYER + shared
+PROJECT before merging.
+
+Be CONSERVATIVE: when unsure, keep them separate. NEVER merge an S2 with an S3,
+two different professors/PIs, or two different departments of one university.
+
+Return JSON only, no prose:
+{"clusters": [["gid1","gid2"], ...]}
+Each cluster must list 2+ gids that are the same order. Omit singletons. If no
+duplicates exist, return {"clusters": []}."""
+
+
+def _customer_match_tokens(name: str) -> set[str]:
+    """Significant (non-generic) tokens from a customer name, for grouping
+    plausibly-same-customer records before the LLM adjudication step."""
+    toks = set()
+    for t in re.sub(r"[^\w\s]", " ", (name or "").lower()).split():
+        if len(t) < 3 or t.isdigit() or t in GENERIC_CUSTOMER_TOKENS:
+            continue
+        toks.add(t)
+    return toks
+
+
+def _candidate_customer_clusters(builds: list[Build]) -> list[list[Build]]:
+    """Connected-components grouping of builds whose customer names share a
+    non-generic token. Returns only groups with 2+ members — the candidates
+    Haiku adjudicates for same-order duplication."""
+    token_sets = [(_customer_match_tokens(b.customer), b) for b in builds]
+    parent = list(range(len(token_sets)))
+
+    def find(x: int) -> int:
+        while parent[x] != x:
+            parent[x] = parent[parent[x]]
+            x = parent[x]
+        return x
+
+    def union(a: int, b: int) -> None:
+        parent[find(a)] = find(b)
+
+    tok_to_idx: dict[str, list[int]] = {}
+    for i, (toks, _) in enumerate(token_sets):
+        for t in toks:
+            tok_to_idx.setdefault(t, []).append(i)
+    for idxs in tok_to_idx.values():
+        for j in idxs[1:]:
+            union(idxs[0], j)
+
+    groups: dict[int, list[Build]] = {}
+    for i, (_, b) in enumerate(token_sets):
+        groups.setdefault(find(i), []).append(b)
+    return [g for g in groups.values() if len(g) >= 2]
+
+
+def _haiku_cluster_duplicates(builds: list[Build]) -> list[list[str]]:
+    """Ask Haiku which of these same-customer builds are the SAME physical
+    order. Returns a list of gid-lists (each 2+ gids). Empty on any failure
+    (fail-safe: no merge rather than a wrong merge)."""
+    lines = []
+    for b in builds:
+        items = "; ".join(f"{i.quantity}x {i.description}" for i in (b.items or []))
+        lines.append(
+            f"- gid {b.asana_gid}: customer={b.customer!r} task={b.asana_task_name!r}\n"
+            f"  contact={b.customer_contact or '-'} <{b.customer_email or '-'}>\n"
+            f"  items=[{items}] payment={b.payment_state} build={b.build_state} ship={b.ship_state}\n"
+            f"  invoice={b.invoice_number or '-'} estimate_date={b.estimate_date or '-'} receive_by={b.receive_by or '-'}\n"
+            f"  notes={(b.notes or '')[:300]}"
+        )
+    user = "RECORDS:\n" + "\n".join(lines) + "\n\nReturn the clusters JSON now."
+    try:
+        client = get_claude_client()
+        resp = client.messages.create(
+            model=DISTILL_MODEL,
+            max_tokens=600,
+            system=CLUSTER_DEDUP_SYSTEM,
+            messages=[{"role": "user", "content": user}],
+        )
+        text = resp.content[0].text.strip()
+    except Exception as e:
+        print(f"  [WARN] dedup clustering call failed: {e}")
+        return []
+    text = re.sub(r"^```(?:json)?\s*", "", text)
+    text = re.sub(r"\s*```$", "", text)
+    try:
+        from commercial_sales_reply import _loads_tolerant
+        data = _loads_tolerant(text)
+    except Exception:
+        print("  [WARN] dedup clustering produced invalid JSON")
+        return []
+    out = []
+    for cl in data.get("clusters", []):
+        gids = [str(g) for g in cl if g]
+        if len(gids) >= 2:
+            out.append(gids)
+    return out
+
+
+def _dedup_and_age_builds(builds: list[Build],
+                          force_include_gids: Optional[set] = None) -> list[Build]:
+    """Collapse duplicate builds and retire stale leads, deleting the removed
+    JSONs and logging them to _filtered.md. Force-included gids are exempt."""
+    force_include_gids = force_include_gids or set()
+    today = date.today()
+
+    # Force-included records are never merged away or retired.
+    protected = [b for b in builds if b.asana_gid in force_include_gids]
+    working = [b for b in builds if b.asana_gid not in force_include_gids]
+
+    labels = {b.asana_gid: (b.asana_task_name or b.customer or b.asana_gid)
+              for b in working}
+    reasons: dict[str, str] = {}
+    modified_gids: set = set()  # only merge winners — re-saved to persist folds
+
+    # a. Deterministic invoice merge.
+    before = list(working)
+    working = merge_builds_by_invoice(working)
+    survived = {b.asana_gid for b in working}
+    winner_by_inv = {_norm_invoice(b.invoice_number): b.asana_gid
+                     for b in working if _norm_invoice(b.invoice_number)}
+    for b in before:
+        if b.asana_gid not in survived:
+            inv = _norm_invoice(b.invoice_number)
+            winner_gid = winner_by_inv.get(inv, "?")
+            reasons[b.asana_gid] = f"merged into {winner_gid} — duplicate invoice #{inv}"
+            modified_gids.add(winner_gid)
+
+    # b. Product-aware LLM clustering for invoice-less duplicates.
+    for group in _candidate_customer_clusters(working):
+        by_gid = {b.asana_gid: b for b in working}
+        for gid_set in _haiku_cluster_duplicates(group):
+            members = [by_gid[g] for g in gid_set if g in by_gid]
+            if len(members) < 2:
+                continue
+            # Deterministic safety veto: two distinct concrete contacts (e.g.
+            # two different professors at the same university) are two orders,
+            # not one — no matter how alike the standard product config looks.
+            # A shared invoice is the only thing that overrides this.
+            emails = {(m.customer_email or "").strip().lower()
+                      for m in members if (m.customer_email or "").strip()}
+            invoices = {_norm_invoice(m.invoice_number)
+                        for m in members if _norm_invoice(m.invoice_number)}
+            if len(emails) >= 2 and len(invoices) != 1:
+                print(f"  dedup veto: {[m.asana_gid for m in members]} have "
+                      f"distinct contacts {sorted(emails)} — kept separate")
+                continue
+            winner = merge_build_cluster(members)
+            loser_gids = {m.asana_gid for m in members if m.asana_gid != winner.asana_gid}
+            for g in loser_gids:
+                reasons[g] = f"merged into {winner.asana_gid} — same order (LLM dedup)"
+            modified_gids.add(winner.asana_gid)
+            working = [b for b in working if b.asana_gid not in loser_gids
+                       and b.asana_gid != winner.asana_gid]
+            working.append(winner)
+            by_gid = {b.asana_gid: b for b in working}
+
+    # c. Retire stale leads.
+    kept = []
+    for b in working:
+        if is_stale_lead(b, today):
+            reasons[b.asana_gid] = (
+                f"stale lead — estimate {b.estimate_date} >{STALE_LEAD_DAYS}d, no movement"
+            )
+        else:
+            kept.append(b)
+    working = kept
+
+    # Persist only the merge winners (their folded-in fields need writing — the
+    # main scan loop already saved every other record). Then delete the removed
+    # JSONs and log every removal to _filtered.md.
+    final_gids = {b.asana_gid for b in working}
+    for b in working:
+        if b.asana_gid in modified_gids:
+            save_build(b)
+    for gid, reason in reasons.items():
+        if gid in final_gids:
+            continue  # safety: never delete a surviving record
+        path = BUILDS_DIR / f"{gid}.json"
+        if path.exists():
+            path.unlink()
+        _FILTERED_THIS_SCAN.append({
+            "kind": "build",
+            "label": labels.get(gid, gid)[:120],
+            "gid": gid,
+            "reason": reason[:200],
+            "date": today.isoformat(),
+        })
+        print(f"  dedup/age removed {gid}: {reason}")
+
+    return protected + working
+
+
 def _write_index(builds: list[Build], cases: list[SupportCase]) -> Path:
     """Write a human-readable markdown index of all tracked records."""
     CS_KNOWLEDGE_DIR.mkdir(parents=True, exist_ok=True)
@@ -1925,6 +2163,10 @@ def scan_all(mode: str = "incremental", slack_client=None) -> dict:
         if dom and dom not in INTERNAL_DOMAINS:
             emails_by_domain[dom].append(e)
     _write_unmapped_customers(emails_by_domain, all_customer_tokens)
+
+    # 6b. Collapse duplicate builds + retire stale leads (deletes removed JSONs,
+    # logs them to _filtered.md). Force-included gids are exempt.
+    new_builds = _dedup_and_age_builds(new_builds, force_include_gids)
 
     # 7. Index + filter log
     _write_index(new_builds, new_cases)
