@@ -80,6 +80,10 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Jack Elston initiated procurement of 20 additional S0 aircraft units to maintain stock inventory for operational opportunities (May 6, 2026)
 - Decision made to use current 2026 configuration without waiting for 2027 mods (May 6, 2026)
 
+**Meeting Structure Decision (June 3, 2026):**
+- Jack Elston proposed discontinuing regular S0 meetings in favor of Slack-based coordination (June 3, 2026)
+- Joshua Fromm approved the change to Slack-only coordination (June 3, 2026)
+
 ## Projects & Initiatives
 
 **S0 Aircraft Development:**
@@ -87,12 +91,7 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Current focus on 2026 configuration optimization for extended operational season
 - Procuring 20 additional S0 units for stock inventory to support operational opportunities (May 2026)
 
-**Ground Control Station (GCS) Expansion:**
-- Production of multiple GCS units for testing and NOAA operational deployment
-- Two GCS PCB boards to be soldered by Joshua Fromm for additional units (June 2, 2026)
-- Integration of higher-rate data recording capability into new GCS builds planned
-- Comprehensive procurement list maintained in "2026 DUAL tab" spreadsheet
-
-**Display Aircraft Program:**
-- 4 display S0 units in production: 2x 2025 models and 2x 2026 models
-- 2 display units shipped by end of May 2026 
+**Wind Calibration & IMU-MAG Alignment Study:**
+- Maciej analyzing error sources for horizontal and vertical wind measurements from different calibration activities (June 2026)
+- Updated code for improved magnetometer calibration from spin tests completed and validated on CAT (June 2026)
+- Investigating potential consolidation

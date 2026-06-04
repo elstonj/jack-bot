@@ -26,10 +26,10 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 1656.25,
+        "amount": 2437.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-03"
+        "last_updated": "2026-06-04"
       },
       "purchases": {
         "amount": 0.0,
@@ -43,13 +43,13 @@
         "confidence": "estimate",
         "last_updated": null
       },
-      "total": 1656.25,
+      "total": 2437.5,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 118343.75,
+    "remaining": 117562.5,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-03T09:08:09Z"
+    "last_reconciled": "2026-06-04T09:10:28Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -65,6 +65,12 @@
       "role": null,
       "allocation_pct": null,
       "hours_last_30d": null
+    },
+    {
+      "name": "Nate Straus",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
     }
   ],
   "risks": [],
@@ -76,6 +82,6 @@
       "text": "Commercial-sales stub created by Joshua Fromm: customer='' product='2 S3 units with standard equipment' ship_by='' (from inquiry: 'can you just attach the invoice for instaar?')"
     }
   ],
-  "last_full_rebuild": "2026-06-03T09:08:09Z",
+  "last_full_rebuild": "2026-06-04T09:10:28Z",
   "last_incremental_update": null
 }

@@ -1,11 +1,11 @@
 {
-  "asana_gid": "1208185314692566",
-  "asana_task_name": "[450] Alaska Coastline Erosion Surveys (University of Colorado)",
-  "customer": "University of Colorado",
-  "customer_contact": "Julia Moriarty",
-  "customer_email": "Julia.Moriarty@colorado.edu",
+  "asana_gid": "proj-025-06",
+  "asana_task_name": "CU Boulder (University of Colorado Boulder) [025-06]",
+  "customer": "CU Boulder (University of Colorado Boulder)",
+  "customer_contact": "Daniel Hesselius",
+  "customer_email": "daniel.hesselius@colorado.edu",
   "receive_by": "2026-08-31",
-  "ship_to": null,
+  "ship_to": "2840 Wilderness Place suite d, Boulder CO 80301",
   "items": [
     {
       "description": "Black Swift E2 UAS Flight System",
@@ -63,12 +63,13 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Academic research project for Alaska coastline erosion surveys using LiDAR. Customer requesting quote for E2 UAS system with optional technician-led 10-day deployment to Utquiagvik, Alaska. KEPT due to substantive recent Slack activity (2026-05-15 through 2026-05-28) confirming estimate_sent phase and explicit future receive_by date (2026-08-31). Customer decision deadline 2026-08-30.",
+  "notes": "E2 system procurement with photogrammetry/multispectral payload option; delivery and installation included. Receive-by date 2026-08-31 per Slack. Note: QBO shows Inv #1759 ($664.98) to 'IRISS, CU Boulder' dated 2026-05-08 (unpaid balance) and paid Inv #1618 ($13,853.10) to INSTAAR Stable Isotope Lab \u2014 these appear to be separate IRISS repair work (S20004 servo replacement completed 2026-05-15); current E2 task is distinct pending order with estimate-sent phase.",
   "missing_fields": [
-    "ship_to",
     "estimate_date",
-    "estimate_amount"
+    "invoice_number",
+    "invoice_amount",
+    "parts_ordered_confirmation"
   ],
-  "last_evidence_date": "2026-05-28",
-  "last_contact_date": "2026-06-18"
+  "last_evidence_date": "2026-05-20",
+  "last_contact_date": null
 }

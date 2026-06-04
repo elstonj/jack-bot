@@ -22,6 +22,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **June 1, 2026**: Interim report (Progress Report, Task O.2) due June 3, 2026 by 3 PM Mountain time (5 PM Eastern) with early submission recommended per Meredith Needham to avoid technical difficulties
 - **June 2, 2026**: S0-63 flight wind data errors identified and resolved: firmware error in 5-hole probe center port reading and new magnetometer calibration method issues corrected; post-correction wind speeds now show good agreement with dropsonde data (4.2-4.4 m/s consistent across 3 box segments)
 - **June 2, 2026**: Approved P-3 overflight of OOI array as near-term validation approach with potential additional flight hours available in July
+- **June 3, 2026**: Updated TDR data confirmed to cover test region for 04-07 flights; noted temporal smoothing in TDR analyses from multi-leg averaging causing lower wind speed readings compared to S0 and dropsondes (per Josh Wadler technical explanation)
 
 ## Projects & Initiatives
 **Navy STTR Boundary Layer Measurements Project (Award: N6833535C0270)**
@@ -52,7 +53,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - Full-rate multi-sensor dataset from 5 test flights and CAT flights (primary deliverable maintaining 5Hz PTH, 100Hz wind, 100Hz static pressure sampling rates)
 - 1 Hz downsampled version for TDR (Tropical Cyclone Data Repository) comparison and analysis
 - Processed dropsonde data (post-processed with Aspen QC)
-- TDR radar data from CAT flights (available for 04/07 and 04/09; 04/07 data sparse at 1-km coverage with insufficient eastern region data per May 7 findings; reprocessing by Paul/NOAA TDR team pending as of May 10)
+- TDR radar data from CAT flights (confirmed coverage for 04/07 as of June 3, 2026; earlier data gaps in eastern region resolved through reprocessing)
 - Streamsonde data (post-processing status: TBD on real-time QC files)
 
 **Data Repository Structure (May 6, 2026):**
@@ -61,7 +62,4 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 
 **Phase II Cal/Val Plan (Task O.1)**
 - Working document created and shared by Maciej on May 28, 2026: https://docs.google.com/document/d/1FBAJUxPo6J2_zkStvdUN6M6cff3619yzRSb0g3MYB9k/edit?tab=t.0
-- Team actively developing calibration and validation strategy for Phase II ocean data
-
-**Phase II Tasks Status (May-June 2026):**
-- **Task O.1**: Cal/Val plan for Phase II including ocean
+- Team actively developing calibration and validation

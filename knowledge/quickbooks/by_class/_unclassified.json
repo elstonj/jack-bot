@@ -1,63 +1,58 @@
 {
   "project_code": "_unclassified",
   "qbo_class_names": [
-    "",
-    "[001] Black Swift Technologies - IRAD:[001-19] IRAD Aeropods"
+    ""
   ],
   "period": {
-    "start": "2026-06-02",
-    "end": "2026-06-03"
+    "start": "2026-06-03",
+    "end": "2026-06-04"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 10839.66,
+    "expenses": 1417.55,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 5411.4,
-      "SALES & MARKETING": 5019.3,
-      "GENERAL & ADMINISTRATIVE:GA-Accounting Fees": 360.0,
-      "Inventory Asset": 48.96
+      "Inventory Asset": 1417.55
     }
   },
   "invoices": [],
-  "bills": [
+  "bills": [],
+  "purchases": [
     {
-      "type": "Bill",
-      "date": "2026-06-02",
-      "doc_number": "May 2026",
-      "total": 5411.4,
-      "attributed": 5411.4,
-      "vendor": "Ted Miles",
+      "type": "Purchase",
+      "date": "2026-06-18",
+      "doc_number": "SC51C906",
+      "total": 158.58,
+      "attributed": 158.58,
+      "vendor": "",
       "customer": "",
-      "balance": 0.0,
+      "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 5411.4,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
-          "description": "Aeropods work (MMay 2026) 87 hours @ $62.20"
+          "amount": 158.58,
+          "account": "Inventory Asset",
+          "description": "For future S3 sales"
         }
       ]
     },
     {
-      "type": "Bill",
-      "date": "2026-06-02",
-      "doc_number": "",
-      "total": 360.0,
-      "attributed": 360.0,
-      "vendor": "Claudia Behnke",
+      "type": "Purchase",
+      "date": "2026-06-18",
+      "doc_number": "YW1744139",
+      "total": 302.21,
+      "attributed": 302.21,
+      "vendor": "",
       "customer": "",
-      "balance": 0.0,
-      "memo": "",
+      "balance": null,
+      "memo": "For future S3 sales",
       "lines": [
         {
-          "amount": 360.0,
-          "account": "GENERAL & ADMINISTRATIVE:GA-Accounting Fees",
-          "description": "May 2026 (3hrs @ $120)"
+          "amount": 302.21,
+          "account": "Inventory Asset",
+          "description": "For future S3 sales"
         }
       ]
-    }
-  ],
-  "purchases": [
+    },
     {
       "type": "Purchase",
       "date": "2026-06-04",
@@ -78,19 +73,19 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-06-02",
-      "doc_number": "1315-5343",
-      "total": 5019.3,
-      "attributed": 5019.3,
+      "date": "2026-06-03",
+      "doc_number": "1083722",
+      "total": 907.8,
+      "attributed": 907.8,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 5019.3,
-          "account": "SALES & MARKETING",
-          "description": "Yearly subsription"
+          "amount": 907.8,
+          "account": "Inventory Asset",
+          "description": "Future S3 Sales -  E+E EE03 OEM Humidity / Temperature Module x4"
         }
       ]
     }

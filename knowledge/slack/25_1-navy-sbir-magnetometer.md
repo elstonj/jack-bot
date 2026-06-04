@@ -1,7 +1,7 @@
 # #25_1-navy-sbir-magnetometer
 
 ## Overview
-This channel is focused on Black Swift Technologies' Navy Small Business Innovation Research (SBIR) project for developing magnetometer-equipped aircraft systems. The project involves integrating QuSpin magnetometers with BST's aircraft platforms for magnetic signature detection applications (MAD - Magnetic Anomaly Detection). Key participants include Beck, Maciej, Tyler, Sam Hild, Alex Lomis, Joshua Fromm, and Jack Elston from BST, with external collaboration from QuSpin (Jeff), Ultra Maritime (Paul), Navy DEVCOM (Morris "DeSi"), Navy TPOC (Angel Ruiz-Reyes), and Royal Navy contact Simon. Activity spans from October 2025 through June 2026, covering Phase I completion, Phase II proposal submission, kickoff, and ongoing Option period development with flight testing preparation and sensor optimization work.
+This channel is focused on Black Swift Technologies' Navy Small Business Innovation Research (SBIR) project for developing magnetometer-equipped aircraft systems. The project involves integrating QuSpin magnetometers with BST's aircraft platforms for magnetic signature detection applications (MAD - Magnetic Anomaly Detection). Key participants include Beck, Maciej, Tyler, Sam Hild, Alex Lomis, Joshua Fromm, and Jack Elston from BST, with external collaboration from QuSpin (Jeff), Ultra Maritime (Paul), Navy DEVCOM (Morris "DeSi"), Navy TPOC (Angel Ruiz-Reyes), Royal Navy contact Simon, and external consultant Eric Correa. Activity spans from October 2025 through June 2026, covering Phase I completion, Phase II proposal submission, kickoff, and ongoing Option period development with flight testing preparation and sensor optimization work.
 
 ## Key Decisions
 
@@ -43,6 +43,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Bartington sensor power isolation strategy: Decision to use isolated supply/comms for Bartington sensor due to extreme susceptibility to electronic noise (requires <1mV ripple on power supply) (June 2, 2026)
 - ADC selection: Decided to pursue 24-bit ADC (or dual 24-bit ADCs interfaced via I2C) to achieve 1μV resolution required for Bartington sensor logging (June 2, 2026)
 - Custom PCB approach: Agreed to design quick-turn PCB for isolated power supply and high-resolution ADC integration rather than using breakout boards (June 2, 2026)
+- Eric Correa follow-up coordination: Maciej flagged need for team to reach out to Eric Correa with any remaining questions before his leave (June 3, 2026) - he is off duty after June 4th for a couple of weeks
 
 ## Projects & Initiatives
 
@@ -82,7 +83,4 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Ground testing: Bartington sensor mechanically integrated into ground test rig (May 6, 2026)
 - Launcher development: Design phase (targeted completion week of May 12-16, 2026); parts ordering planned for June 15, 2026 to allow iteration before July 1st local mag flights
 - Bartington sensor logging: Dronecan logging program being updated to support Bartington sensor with dynamic memory allocation (Sam Hild)
-- Flight test baseline validation: Initial field testing completed with 1-hour sequential test runs for both Bartington and QuSpin loggers (May 28, 2026)
-
-**Sensor Performance & Electrical Integration Investigation (June 2026 - critical issue):**
-- Issue: Significant degradation in sensor performance between November 2025 tests (4-5 pT/sqrt(Hz)) and May 
+- Flight test baseline validation: Initial field testing completed with 1-hour sequential test runs for both Bartington and QuSpin

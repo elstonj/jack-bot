@@ -1,50 +1,49 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 323 emails (280 previous + 43 new data)
-- **Date range:** 24 May – 3 June 2026
-- **Volume:** Sustained ultra-high-velocity activity; 20+ daily messages on peak days (1–3 June: 35+ messages/day)
-- **Trend:** Crisis mode persisting through early Wednesday (3 June); Arctic Edge 2027 NORTHCOM decision meeting (3 June 2:30–3:15pm MDT) now passed; investment finalization in final stages (disclosure schedules, punch lists); military operations acceleration continuing post-NORTHCOM meeting; vendor coordination ongoing
+- **Total messages scanned:** 386 emails (323 previous + 63 new data)
+- **Date range:** 24 May – 4 June 2026
+- **Volume:** Ultra-high-velocity sustained through 4 June; peak activity 3 June (40+ messages); continuing elevated velocity post-NORTHCOM decision (4 June: 8+ messages by 08:44 UTC)
+- **Trend:** Crisis mode persisting; Arctic Edge 2027 NORTHCOM decision meeting (3 June 2:30–3:15pm MDT) completed; investment finalization accelerating (legal/tax/R&D credit coordination); military ops coordination intensifying; vendor/partner support escalating (camera systems, industrial planning); new Greenland flight permissions coordination emerging
 
 ---
 
 ## Key Correspondents
 
-### Top Senders (updated with 43 new messages)
-1. **Jack Elston** (elstonj@blackswifttech.com) — **HIGHEST VOLUME** operational hub; 12+ new messages in latest batch; legal/investment finalization (Nadia Bryan/Ko Firm coordination on disclosure schedules), military ops (S0/Arctic Edge 2027, Lockheed Martin MAD UAV discussion 1 June 9am), vendor management (Krateo Sky visit coordination, KrateoSky Commercial Foundations visit), FTI Consulting industrial plan discussion, Stanford MHP data alignment, Merlin Mk2/US Navy SBIR coordination
-2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **SUSTAINED ACTIVITY**; Arctic UAS onboarding, BST-EMASS project closeout (NanoVeu coordination), camera vendor support (Atmolab/Krateo Sky), Krateo Sky visit participation
-3. **Beck Cotter** (beck.cotter@blackswifttech.com) — Arctic Edge 2027 operational coordination, investment "Updates" stream coordination, UASweekly Daily Newsletter forwarding, Krateo Sky visit participation
-4. **Ryan Sykora** (rsykora@kofirm.com) — Ko Firm legal counsel (previous data; no new messages in batch)
-5. **Nadia Bryan** (nbryan@kofirm.com) — **ESCALATED INVESTMENT FINALIZATION** (4 new messages 2 June); "Black Swift - Disclosure Schedules" thread (critical legal documents); investment coordination with Capital Factory (Marissa Faris); Ko Firm counsel continuing final stages
-6. **Charu Ganesh** (cganesh@kofirm.com) — **NEW ESCALATION** Ko Firm counsel; "Updates" thread coordination (2 new messages 2 June); investment finalization legal support
-7. **Angel R. Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil) — Navy NAWCAD; **S0 - MAD update coordination** (1 new message 2 June from Ruiz-Reyes to Maciej; real-time military liaison); cc'd to Eric Correa-Matos (COMNAVAIRSYSCOM)
-8. **Eric D. Correa-Matos** (eric.d.correa-matos.civ@us.navy.mil) — **NEW ESCALATION** COMNAVAIRSYSCOM; S0 - MAD update coordination (2 June); military systems integration (non-DoD source classification)
-9. **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — **UK MOD ENGAGEMENT** (2 new messages 2–3 June); "S0 presentation" coordination; Joshua Fromm & Maciej Stachura recipients; Merlin Mk2/US Navy SBIR discussion
-10. **Ariel Avitan** (Ariel@krateosky.com) — **CRITICAL VENDOR ESCALATION** (4 new messages 2 June); "KrateoSky Visit" thread; Commercial Foundations visit coordination; all-hands BST team invite (Jack Elston, Maciej Stachura, Daniel Prendergast, Beck Cotter, Joshua Fromm, Meredith Needham, Ben Busby, Adria Passola)
-11. **Bob Smith** (Bob@krateosky.com) — Krateo Sky integration; **Atmolab camera support coordination** (2 new messages 2 June; IMPORTANT status)
-12. **Jure Dolinar** (jure.dolinar@atmolab.eu) — **CAMERA SYSTEM COORDINATION** (1 new message 2 June); Atmolab camera support for BlackSwift; coordinating with Krateo Sky (Bob Smith), Daniel Prendergast
-13. **Adria Passola** (a@krateosky.com) — Krateo Sky; Atmolab camera support thread coordination
-14. **Domenico Potorti** (Domenico.Potorti@fticonsulting.com) — FTI Consulting; **"Black Swift Final Industrial Plan"** discussion (1 new message 2 June from Jack Elston)
-15. **Tanay Topac** (tanaytopac@stanford.edu) — Stanford; **MHP data alignment** (1 new message 2 June, IMPORTANT); continued technical collaboration
-16. **Joshua Fromm** (josh.fromm@blackswifttech.com) — Internal coordinator; **Merlin Mk2/US Navy SBIR** coordination (3 new messages with UK MOD Simon Laurence); Krateo Sky visit participant
-17. **Meredith Needham** (meredith.needham@blackswifttech.com) — Internal; investment disclosure schedules coordination; Krateo Sky visit participant
-18. **Scott Smyser, Mark Goranson, Tom Wilp, Mohamed Sabry** (NanoVeu) — **BST-EMASS Project Initial Scope Closeout** (1 new message 2 June from Scott Smyser); technical team closure coordination
-19. **Marissa Faris** (marissafaris@capitalfactory.com) — **Capital Factory investment** (1 new message 2 June, IMPORTANT); investment potential coordination with Ko Firm (Nadia Bryan)
-20. **Google Docs/Calendar** — Automated notifications; DAF Agile EW Tech... document collaboration (3 new messages; Jack Elston, Beck Cotter tagged); Progress tracking document (Joshua Wadler Google Docs comment)
-21. **Google Alerts** — BST media monitoring (1 new message 2 June)
+### Top Senders/Recipients (Updated with 63 new messages)
 
-### Internal vs External (Updated)
-- **Internal:** ~16% (Jack Elston, Beck Cotter, Daniel Prendergast, Joshua Fromm, Meredith Needham, Paige Smith, Ben Busby, Sam Hild, Kareem Ahmed, Alex Lomis)
-- **External:** ~84% (US Military: NORAD, Navy NAWCAD, COMNAVAIRSYSCOM, SOCOM; UK MOD; Krateo Sky; Atmolab; Ko Firm legal; NanoVeu; FTI Consulting; Stanford; Capital Factory; NOAA; Lockheed Martin; Halo Aero; Ed Kase Consulting)
+**TIER 1 — OPERATIONAL HUBS:**
+1. **Jack Elston** (elstonj@blackswifttech.com) — **EXTREME VOLUME** (16+ new messages in batch); dominates all domains: investment finalization (legal threads with Ko Firm, R&D credit/tax exposure discussions, disclosure schedules), military ops post-NORTHCOM, industrial planning (FTI Consulting), MHP data alignment (Stanford), Krateo Sky coordination, internal progress tracking; sent 22:xx UTC on 3 June (overnight work)
+2. **Ryan Sykora** (rsykora@kofirm.com) — **LEGAL ESCALATION** (11 new messages 3–4 June); Ko Firm counsel; intensive R&D credit/partner-classification exposure (KrateoSky diligence) thread; investment finalization rapid coordination; PRIVILEGED & CONFIDENTIAL threads
+3. **Nadia Bryan** (nbryan@kofirm.com) — **INVESTMENT FINALIZATION LEAD** (5 new messages 3 June); Ko Firm; "Black Swift - Disclosure Schedules" (critical legal documents); Capital Factory investment coordination (Marissa Faris liaison); tax/R&D credit threads; post-meeting legal execution
 
----
+**TIER 2 — MILITARY/GOVERNMENT:**
+4. **Joshua H. Cossuth** (joshua.h.cossuth.civ@us.navy.mil) — **NEW ESCALATION** (3 new messages 3 June); Navy CNR Arlington; "[Non-DoD Source] Update meeting" coordination (3 June 14:37 & 15:48 responses from Maciej); N68335-25-C-0270 BST Phase I Mid-Option progress update (with Jun Zhang/NOAA, Joshua Wadler/ERAU, Jack Elston, Beck Cotter); real-time military liaison post-NORTHCOM
+5. **Patricia A. Vollmer** (patricia.a.vollmer.civ@mail.mil) — **NORAD-USNC** (1 new message 3 June 20:31 UTC); invitation to AE27 discussion BST/NORTHCOM (3 June 2:30–3:15pm MDT) — confirms NORTHCOM decision meeting occurred
+6. **Rok Tomazic** (rok.tomazic@c-astral.com) — **NEW VENDOR ESCALATION** C-Astral (4 June 08:44 UTC); "Camera support for BlackSwift" coordination; cc'd Daniel Prendergast & Samo Stopar; IMPORTANT flag
+7. **Samo Stopar** (samo.stopar@c-astral.com) — **C-ASTRAL CAMERA SYSTEMS** (2 new messages 3 June); camera support coordination; Daniel Prendergast primary contact; real-time vendor support thread
 
-## Topic Patterns
+**TIER 3 — TECHNICAL/RESEARCH:**
+8. **Al Gasiewski** (al.gasiewski@colorado.edu) — **NOAA FORECASTING** (3 new messages 3 June); "NOAA forecasting Improvements" coordination; Maciej actively engaged in responses (11:22, 11:34 UTC)
+9. **Tanay Topac** (tanaytopac@stanford.edu) — **MHP DATA ALIGNMENT** (5 new messages 3 June); Stanford; multi-recipient thread (Nathaniel Straus, Jack Elston, Meredith Needham); critical technical collaboration; UNREAD/IMPORTANT flags
+10. **Jun Zhang** (jun.zhang@noaa.gov) — **NOAA AFFILIATION** (Google Docs comment 3 June 09:33 UTC); "2026-06-03 Progress" tracking document; N68335-25-C-0270 coordination
+11. **Joshua Wadler** (WADLERJ@erau.edu) — **ERAU AFFILIATION**; N68335-25-C-0270 BST Phase I coordination; Google Docs collaborator on progress tracking
 
-### **🚨 ARCTIC EDGE 2027 / AE27 — MILITARY OPERATIONS CRITICAL PHASE** ⚡⚡⚡ *PEAK DECISION POINT*
-- **Subject lines (new data):**
-  - **S0 presentation** (Simon Laurence, UK MOD; 2–3 June; Maciej Stachura & Alex Lomis recipients; IMPORTANT)
-  - **RE: [Non-DoD Source] Re: S0 - MAD update** (Eric Correa-Matos/COMNAVAIRSYSCOM, 2 June; IMPORTANT; system integration coordination)
-  - **RE: [Non-DoD Source] Re: S0 - MAD update** (Angel Ruiz-Reyes, Navy NAWCAD; 2 June; IMPORTANT)
-  - **RE: S0 presentation** (Jack Elston to Simon Laurence, 3 June 00:38:34 MDT; IMPORTANT; post-NORTHCOM follow-up)
-  - **LM/Black Swift Technologies MAD
+**TIER 4 — FINANCE/INVESTMENT/TAX:**
+12. **Mark Kightlinger** (Mark@kcotax.com) — **TAX COUNSEL** (7 new messages 3 June); "PRIVILEGED & CONFIDENTIAL — R&D credit / partner-classification exposure (KrateoSky diligence)" intensive thread; multi-party (Nadia Bryan, Brian @ MBaker Tax Law, Ryan Sykora, Jack Elston); critical R&D diligence issue
+13. **Brian @ MBaker Tax Law** (brian@mbakertaxlaw.com) — **TAX COUNSEL** (4 new messages 3 June); R&D credit/KrateoSky partner-classification exposure thread; coordinating with Mark Kightlinger & Ryan Sykora
+14. **Marissa Faris** (marissafaris@capitalfactory.com) — **CAPITAL FACTORY** (2 new messages 3 June 16:16–16:29 UTC); "Potential investment" coordination with Nadia Bryan; investment execution phase
+15. **Thierry Lepoutre** (thierry@boostrconsulting.com) — **BOOSTRC CONSULTING** (2 new messages 3 June); "Black Swift R&D Credit — document and records request (TY2017–TY2025)"; coordinating with Jack Elston, Meredith Needham, Maciej; critical records compilation
+16. **Domenico Potorti** (Domenico.Potorti@fticonsulting.com) — **FTI CONSULTING** (2 new messages 3 June); "[EXTERNAL] Black Swift Final Industrial Plan" coordination; post-meeting plan finalization
+
+**TIER 5 — INTERNAL COORDINATION:**
+17. **Beck Cotter** (beck.cotter@blackswifttech.com) — (Google Docs comment, NORTHCOM meeting attendee, investment/progress tracking)
+18. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Camera support threads (C-Astral, Krateo Sky); continued vendor coordination
+19. **Meredith Needham** (meredith.needham@blackswifttech.com) — Investment disclosure, MHP data alignment, R&D credit records coordination
+20. **Nathaniel Straus** (nate.straus@blackswifttech.com) — MHP data alignment coordination (Stanford liaison)
+21. **Charu Ganesh** (cganesh@kofirm.com) — Ko Firm; "Updates" thread coordination (3 June 20:16 UTC)
+
+**TIER 6 — OPERATIONAL/SPECIAL:**
+22. **Kevin S. Rozmiarek** (Kevin.Rozmiarek@colorado.edu) — **NEW TOPIC: GREENLAND FLIGHT PERMISSIONS** (1 new message 3 June 20:49 UTC from Maciej); University of Colorado affiliation; critical ops support
+23. **Dom Miceli** (dom.miceli@ouster.io) — **OUSTER LIDAR** (1 new message 3 June 16:19 UTC); "Maciej – swiftcore breakthrough"; potential technical breakthrough coordination
+24. **Geoff** (gb.aerokats@gmail.com / Google Drive) — Kite story personal message (3 June); Aeropod

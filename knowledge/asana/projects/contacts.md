@@ -25,7 +25,7 @@ This is a contact database, not a project with deliverables. Contains 100+ conta
 - **Government invoice portals**: PIEE (Navy/Air Force), IPP (NASA/NOAA/USGS)
 
 ## Task Summary
-- **Total tasks**: 1 open, 0 completed
+- **Total tasks**: 2 open, 0 completed
 - **Tasks by assignee**: All unassigned (contact records only)
 - **Data structure**: Each "task" represents a contact with structured custom fields:
   - Company/Agency/Name
@@ -41,6 +41,7 @@ This is a contact database, not a project with deliverables. Contains 100+ conta
 - **Geoffrey Bland (NASA Ames → Aeropods project)** — **HIGH PRIORITY**; Personal email: geodronez@gmail.com; was with NASA until August 2025, now helps manage/run Aeropods project; Geoffrey.l.bland@nasa.gov, gbaerokats@gmail.com; Address: Goddard Space Flight Center, 613 Wallops Flight Facility, 34200 Fulton, Wallops Island VA 23337; Product: Aeropod
 - **Lee Skidmore (Rubicon Aerospace LLC)** — Subcontractor for UAV manufacturing; previously owned Northwind Composites; lee@rubiconaerospace.com, (208) 290-5585; 1323 N. Division Ave, Suite 101, Sandpoint, ID 83864
 - **Ted Miles (Aeropods)** — Contractor for NASA AREN; ted59@msn.com; 25130 Woodland Drive, Onancock VA 23417; Product: Aeropod
+- **Jon Vince** — **NEW**; Lawyer (drone government classification); jon.vince@rogers.com, (720) 361-8260
 - **Phase 1 Aviation** — Contractor for aircraft construction; Sean Cole (contact), Sean@phase1av.com, (541) 771-7233; USPS: 17493 N. Gaffney Ave, Nampa ID 83687; Non-USPS shipments: 514 Dishman Pl, Caldwell ID 83605; https://phase1av.com/
 - **KCO, Inc.** — Tax firm (as of 2026); Mark Kightlinger, Mark@kcotax.com, 245 Century Cir Ste 206, Louisville CO 80027, (720) 613-0576; https://www.kcotax.com/ (replacement for Bill Jones/Jones & Associates CPAs PC who retired January 2026)
 - **United Healthcare** — Healthcare provider; Wendy Jones (Field Account Manager), wendy_w_jones@uhc.com, (763) 283-4036; contact for client/member education, open enrollment, onboarding support, wellness solutions
@@ -60,4 +61,4 @@ This is a contact database, not a project with deliverables. Contains 100+ conta
 - **Northwind Composites (CLOSED)** — Lee Skidmore contact; Lee@northwindcomp.com; 1323 N. Division Ave Suite 103, Sandpoint ID 83864; (208) 290-5585; https://northwindcomposites.com/
 - **Kay Rufty (CLOSED)** — NASA AREN contractor; kayrufty@gmail.com, Kay.rufty@blackswifttech.com; no longer working with BST as of mid-2025
 - **JB Advisory Group (CLOSED)** — CPA; Julie Beth Malone, juliebeth@jbadvisorygroup.com, 2595 Trailridge DR E Lafayette CO 80026, (720) 798-4441; did not have a background with government contracting, services ended
-- **Jennifer Rowe (CLOSED)** — Contractor (FAR, DCAA rules and regulations); jennifer@instaterallc.com, (303) 319-2062; 2555 S. Leyden St
+- **Jennifer Rowe (CLOSED)** — Contractor (FAR

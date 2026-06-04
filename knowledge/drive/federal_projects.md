@@ -1,95 +1,112 @@
 # Federal Projects — Shared Drive
 
 ## Overview
-- **Total files:** 12 | **Folders:** 1
+- **Total files:** 13 | **Folders:** 0
 - **Date range:** 2022-02-07 (created) → 2099-01-24 (modified)
-- **Primary purpose:** Storage of federal contract deliverables, technical proposals, letters of commitment, invoices, progress reports, and video assets for Air Force and defense-related projects.
+- **Primary purpose:** Storage of federal contract deliverables, technical proposals, letters of commitment, invoices, progress reports, and video assets for Air Force and defense-related projects (SBIR/STTR and DAF programs).
 
 ## Folder Structure
-Primarily flat structure with one subfolder:
-- **`DoW Runtime Autonomy/`** — Currently empty; appears to be designated for Runtime Assured Autonomy project documentation (Statement of Work materials planned/in progress)
-
-All active files stored at drive root level.
+Flat structure at drive root level. Previously planned subfolder (`DoW Runtime Autonomy/`) no longer present in current state—files may have been consolidated to root or reorganized.
 
 ## Key Documents by Category
 
 ### **Proposals & RFPs**
-- **BST_Volume_2_Technical_Volume.pdf** | Modified: 2026-06-02 | Editor: Beck Cotter
-- **SkyMesa_LOC_DAF26BZ01_NV003_BlackSwift.pdf** | Modified: 2026-06-02 | Editor: Beck Cotter (Letter of Commitment; appears to be DAF proposal submission)
-
-### **Contracts & Agreements**
-- **Letter of Commitment_draft** | Modified: 2026-06-02 | Editor: Beck Cotter
+- **BLACK SWIFT TECHNOLOGIES LLC 5095576 Proposal Final Decision (2).pdf** | Modified: 2026-06-03 | Editor: Beck Cotter
+- **Master Proposal Tracking** | Modified: 2026-06-03 | Editor: Beck Cotter
+- **DSIP (Defense SBIR_STTR Innovation Portal) Proposal Submission Confirmation.pdf** | Modified: 2026-06-03 | Editor: Beck Cotter
+- **DSIP (Defense SBIR_STTR Innovation Portal) Proposal Certification Confirmation.pdf** | Modified: 2026-06-03 | Editor: Beck Cotter
 
 ### **Reports & Analysis**
-- **2026-06-03 Progress Report CLIN 006** | Modified: 2026-06-03 | Editor: Jack Elston
-- **Data Assertions** | Modified: 2026-06-02 | Editor: Beck Cotter
-- **EW Data Assertions.pdf** | Modified: 2026-06-02 | Editor: Beck Cotter
+- **N6833525C0270CLIN006ProgressReport.pdf** | Modified: 2026-06-03 | Editor: Beck Cotter
+- **2026-06-03 Progress Report CLIN 006** | Modified: 2026-06-03 | Editor: Beck Cotter (appears to be same report in native and PDF formats)
 
 ### **Financial**
-- **AREN Budget/Costs Tracking** | Modified: 2026-06-02 | Editor: Meredith Needham
-- **Internal budget template** | Modified: 2026-06-02 | Editor: Beck Cotter
+- **N6833525C0270Invoice1767.pdf** | Modified: 2026-06-03 | Editor: Meredith Needham (invoice for contract N6833525C0270)
+
+### **Presentations**
+- **2026-06-15 Discussion** | Modified: 2026-06-04 | Editor: Maciej Stachura
 
 ### **Templates**
-- **DAF Agile EW Technical_Volume_Template v2** | Modified: 2026-06-03 | Editor: Jack Elston
-- **Runtime Assured Autonomy Technical_Volume_Template** | Modified: 2026-06-02 | Editor: Daniel Prendergast
-- **Internal budget template** | Modified: 2026-06-02 | Editor: Beck Cotter
+- **DAF Agile EW Technical_Volume_Template v2** | Modified: 2026-06-03 | Editor: Daniel Prendergast
+- **Internal budget template** | Modified: 2026-06-03 | Editor: Beck Cotter
 
-### **Video Assets**
+### **Other/Media Assets**
+- **BST_Volume_2_Technical_Narrative.pdf** | Modified: 2026-06-03 | Editor: Beck Cotter (technical proposal volume)
 - **RC_VID_0009.MOV** | Modified: 2099-01-24 | Editor: Jack Elston
 - **RC_VID_0008.MOV** | Modified: 2099-01-24 | Editor: Jack Elston
 
 ## Recent Activity Patterns
 
 **Most Active Contributors:**
-1. Beck Cotter — 6 files (proposals, commitments, data assertions, budget template)
-2. Jack Elston — 4 files (technical templates, progress reports, video assets)
-3. Meredith Needham — 1 file (financial tracking)
-4. Daniel Prendergast — 1 file (autonomy template)
+1. **Beck Cotter** — 8 files (proposals, progress reports, technical narrative, budget template, proposal tracking)
+2. **Jack Elston** — 2 files (video assets)
+3. **Daniel Prendergast** — 1 file (technical template)
+4. **Meredith Needham** — 1 file (invoice)
+5. **Maciej Stachura** — 1 file (presentation/discussion)
 
 **Activity Clusters:**
-- **June 2–3, 2026:** Concentrated proposal and reporting activity — suggests contract submission or milestone deadline. All key proposal documents, letters of commitment, technical volumes, and budget tracking finalized within this window.
-- **Late January 2099:** Video file modifications by Jack Elston (timestamps appear anomalous; may indicate batch uploads or system artifacts)
+- **June 3–4, 2026:** Concentrated proposal submission and reporting window. All DSIP confirmations, progress reports, invoices, and technical documents finalized. Indicates major proposal deadline or contract milestone completion.
+- **June 15, 2026 (reference date):** Discussion meeting document created June 4, suggesting post-submission debrief or planning meeting.
+- **Late January 2099:** Video file timestamps anomalous; likely batch upload or system artifacts rather than actual modification dates.
 
 **Notable Patterns:**
-- Data Assertions document exists in multiple formats (native doc + PDF variant "EW Data Assertions.pdf") — version control or format-specific deliverable pattern
-- Empty subfolder (`DoW Runtime Autonomy/`) suggests planned folder structure not yet populated; indicates migration or organizational intent in progress
-- All active contract-related work concentrated around June 2026 deadline; minimal subsequent edits suggest project completion or maintenance phase
+- Dual-format documents observed: Progress Report exists in both native format and PDF (N6833525C0270CLIN006ProgressReport.pdf), suggesting parallel deliverable formats for federal submissions.
+- **DSIP portal confirmations** (2 files) indicate SBIR/STTR submission via Defense Innovation Portal—distinct from DAF Agile EW work.
+- Invoice and progress report share contract number **N6833525C0270** (CLIN 006)—same contract vehicle.
+- All active work concentrated in June 2026; minimal subsequent activity suggests contract execution phase or maintenance-only status.
+- Reduced file count from previous documentation (13 vs. 12 previously noted) likely due to consolidation or archival of redundant files.
 
 ## Client/Project Document Mapping
 
 **Project: DAF Agile EW (Department of Air Force Electronic Warfare)**
-- **BST_Volume_2_Technical_Volume.pdf** (proposal volume submission)
-- **SkyMesa_LOC_DAF26BZ01_NV003_BlackSwift.pdf** (Letter of Commitment; appears to reference DAF26BZ01 solicitation)
-- **DAF Agile EW Technical_Volume_Template v2** (template for future proposals)
-- **EW Data Assertions.pdf** (technical specification/data requirements)
+- **DAF Agile EW Technical_Volume_Template v2** (template, last updated by Daniel Prendergast June 3, 2026)
+- **BST_Volume_2_Technical_Narrative.pdf** (proposal technical volume)
 
-**Project: Runtime Assured Autonomy**
-- **Runtime Assured Autonomy Technical_Volume_Template** (proposal template)
-- **Data Assertions** (technical specification component)
-- **RC_VID_0008.MOV, RC_VID_0009.MOV** (demonstration or test footage)
-- **2026-06-03 Progress Report CLIN 006** (contract line item 006 progress tracking)
-- **`DoW Runtime Autonomy/`** folder (designated but empty; awaiting SOW materials)
+**Project: SBIR/STTR (Defense Innovation Portal Submission)**
+- **DSIP (Defense SBIR_STTR Innovation Portal) Proposal Submission Confirmation.pdf**
+- **DSIP (Defense SBIR_STTR Innovation Portal) Proposal Certification Confirmation.pdf**
+- **BLACK SWIFT TECHNOLOGIES LLC 5095576 Proposal Final Decision (2).pdf** (SBIR tracking ID: 5095576)
+- **Master Proposal Tracking** (consolidated tracker for SBIR/STTR proposals)
 
-**Project: AREN (Specific context unclear)**
-- **AREN Budget/Costs Tracking** (financial tracking for AREN contract or program)
+**Contract: N6833525C0270 (CLIN 006)**
+- **N6833525C0270CLIN006ProgressReport.pdf** (contract progress report)
+- **2026-06-03 Progress Report CLIN 006** (native document version)
+- **N6833525C0270Invoice1767.pdf** (invoice 1767 against contract)
+
+**Project: Runtime Assured Autonomy / Video Demonstration**
+- **RC_VID_0008.MOV** (test/demonstration video asset)
+- **RC_VID_0009.MOV** (test/demonstration video asset)
+- *(Associated SOW and technical specifications not currently in drive root; likely archived or moved to external location)*
+
+**Internal/Cross-Project**
+- **2026-06-15 Discussion** (appears to be post-proposal debrief or planning meeting; editor Maciej Stachura suggests broader team involvement)
+- **Internal budget template** (corporate-wide reusable resource)
 
 ## Important Templates & Shared Resources
 
-**Technical Volume Templates (Reusable across federal proposals):**
-- **DAF Agile EW Technical_Volume_Template v2** — Maintained by Jack Elston; tracks updates through June 3, 2026
-- **Runtime Assured Autonomy Technical_Volume_Template** — Maintained by Daniel Prendergast; last updated June 2, 2026
+**Technical Volume Template:**
+- **DAF Agile EW Technical_Volume_Template v2** — Federal proposal technical narrative template; maintained by Daniel Prendergast; reflects DAF submission requirements as of June 2026.
 
-**Budget Template** — **Internal budget template** corporate-wide reusable resource (Beck Cotter maintains); paired with **AREN Budget/Costs Tracking** for live project financials
+**Budget Template:**
+- **Internal budget template** — Corporate-wide reusable resource (Beck Cotter maintains); used for federal contract budgeting and cost tracking.
 
-**Letter of Commitment** — **Letter of Commitment_draft** appears to be standard format for federal submissions (reference: SkyMesa_LOC_DAF26BZ01 variant)
+**Proposal Tracking:**
+- **Master Proposal Tracking** — Consolidated tracker for multiple federal proposals (SBIR/STTR and potentially DAF work); maintained by Beck Cotter; last updated June 3, 2026.
 
-## Recommended Next Steps
+## Key Contract References
 
-1. **Populate folder structure:** Move Runtime Autonomy files into `DoW Runtime Autonomy/` subfolder to align with planned organization
-2. **Archive/version old files:** Consider archive folder for completed 2026 deliverables; drive is cluttered with multiple Data Assertions variants
-3. **Expand subfolder organization:** Implement client/project-based structure (e.g., `/DAF-AgileEW`, `/Runtime-Autonomy`, `/AREN`) as file count grows
-4. **Clarify video asset ownership:** RC_VID files have anomalous 2099 timestamps; verify actual modification dates and associate with specific projects/deliverables
+| Contract/Portal | Document | Reference ID | Last Modified |
+|---|---|---|---|
+| **N6833525C0270** | Progress Report (CLIN 006) | N6833525C0270CLIN006ProgressReport.pdf | 2026-06-03 |
+| **N6833525C0270** | Invoice 1767 | N6833525C0270Invoice1767.pdf | 2026-06-03 |
+| **SBIR/STTR** | Proposal (DSIP) | 5095576 | 2026-06-03 |
+| **SBIR/STTR** | Portal Submission Confirmation | — | 2026-06-03 |
+| **SBIR/STTR** | Portal Certification Confirmation | — | 2026-06-03 |
 
----
+## Recommended Actions
 
-**Change Summary:** Existing knowledge retained; new data reveals 3 fewer files than initially documented (likely consolidation or deletion), confirms subfolder structure planning, and provides more specific proposal document names and project codes (DAF26BZ01, AREN, SkyMesa).
+1. **Verify video asset dates:** RC_VID files show 2099 timestamps; confirm actual modification dates and associate with specific project deliverables (likely Runtime Autonomy demonstration).
+2. **Consolidate parallel documents:** Progress Report exists in dual formats (native + PDF); establish naming convention and archive redundant version.
+3. **Implement folder hierarchy:** As file count grows, implement client/project folders (e.g., `/DAF-AgileEW`, `/SBIR-STTR`, `/N6833525C0270`) to improve navigation and version control.
+4. **Archive completed 2026 deliverables:** Separate active contracts from finalized 2026 proposal work into archive folder.
+5. **Update proposal tracking:** **Master Proposal Tracking** should be reviewed for currency; last update June 3, 2026 suggests outdated status for active proposals.

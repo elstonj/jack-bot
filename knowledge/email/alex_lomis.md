@@ -1,73 +1,69 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 457 emails (411 prior + 46 new from 2–3 Jun 2026)
-- **Date range:** 18 May – 3 Jun 2026 (17 days)
-- **Approximate volume:** **Sustained critical operational tempo.** 2–3 Jun shows continued high-velocity government/military coordination intersecting with procurement/logistics saturation. Administrative/promotional noise remains ~85% of raw count; signal concentrated in ~5–7 human-originated government emails + calendar/project tracking notifications. **New pattern:** Jack Elston now primary BST liaison to Navy stakeholders; direct Navy-to-vendor communication chain visible.
-
----
+- **Total messages scanned:** 497 emails (457 prior + 40 new from 3–4 Jun 2026)
+- **Date range:** 18 May – 4 Jun 2026 (18 days)
+- **Approximate volume:** **Sustained critical operational tempo with intensifying procurement velocity.** 3–4 Jun shows continued government/military coordination + **major escalation in physical component manufacturing and assembly pipeline.** Administrative/promotional noise remains ~85% of raw count; signal concentrated in **direct task assignments** (Asana project alerts), **active manufacturing orders** (SendCutSend, DigiKey, Amazon), and **government project threads.**
 
 ## Key Correspondents
 
-### Internal — Government/Military Project Leads (ESCALATED)
-- **Jack Elston** (elstonj@blackswifttech.com) — **ESCALATED TO PRIMARY NAVY LIAISON:** Now directly corresponding with Navy stakeholders (Eric D. Correa-Matos, COMNAVAIRSYSCOM PAX); appears as primary BST voice in S0 MAD technical/coordination threads (2 Jun 13:59, 00:38); also named as recipient on HeliDirect promotional (suggesting equipment interest/evaluation); has forwarded purchasing alerts to purchasing@
-- **Maciej Stachura** (stachura@blackswifttech.com) — **SUSTAINED:** Remains active in S0 MAD thread with Navy + UK MOD (Simon Laurence); recipient of Angel Ruiz-Reyes (NAWCAD) updates (2 Jun 16:48); paired with Jack Elston in coordinated Navy engagement
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — **NEW DIRECT CONTACT:** Forwarded "Thursday Visit" meeting (2 Jun 13:39) to Alex; also appears as recipient on HeliDirect promotional (purchasing@ alias); administrative/logistics coordination role confirmed
-- **Sam Hild** (sam.hild@blackswifttech.com) — **NEW:** Active in S0 MAD update thread; recipient on Navy correspondence (2 Jun 12:28, also in 19:28 thread with Eric Correa-Matos); appears to be technical coordinator or subject matter expert
-- **Joshua Fromm** — Named on Daniels Manufacturing promotional (14:47); continues Atmolab camera integration work
+### Internal — Government/Military Project Leads (SUSTAINED + NEW TASK ASSIGNMENT)
+- **Jack Elston** (elstonj@blackswifttech.com) — **SUSTAINED AS PRIMARY NAVY LIAISON:** Appears in S0 MAD thread (3 Jun 21:36, Maciej Stachura reply); continues direct Navy stakeholder coordination
+- **Maciej Stachura** (stachura@blackswifttech.com) — **SUSTAINED:** Active in escalated S0 MAD thread (3 Jun 21:36); paired coordination with Jack Elston on Navy correspondence
+- **Dan Prendergast** (via Asana) — **NEW DIRECT TASK ASSIGNMENTS TO ALEX:** Two critical build tasks assigned 3 Jun 18:31, 18:21:
+  - **"Build S3 battery pack for Canada"** ([001-07] S3 IRAD) — 3 Jun 18:31
+  - **"Design, print and install mount for payload datalink radio in S3"** (Radios for FMV datalink) — 3 Jun 18:21
+  - **Signal:** Alex is now **hands-on technical builder/integrator** on S3 subsystems; indicates shift from coordination to direct fabrication responsibility
 
-### External — Government/Military (CRITICAL ESCALATION SUSTAINED + NEW CONTACTS)
-- **Eric D. Correa-Matos (CIV USN COMNAVAIRSYSCOM PAX)** (eric.d.correa-matos.civ@us.navy.mil) — **NEW ESCALATION:** Direct correspondence with Jack Elston (2 Jun 13:59 reply, 19:28 thread origination); appears as central Navy technical authority coordinating with NAWCAD (Angel Ruiz-Reyes) and internal BST teams; thread subject "[Non-DoD Source] Re: S0 - MAD update" indicates multi-party classified/sensitive protocol
-- **Angel R. Ruiz-Reyes (CIV USN NAWCAD)** — **SUSTAINED:** Continued active thread participation (2 Jun 16:48 reply to Maciej Stachura); Navy technical lead for S0 MAD integration
-- **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — **SUSTAINED + ELEVATED:** UK MOD stakeholder; direct correspondence initiated TO Jack Elston (3 Jun 00:38 reply); appears in thread with Maciej Stachura (2 Jun 19:01); NATO/international partner coordination confirmed
-- **Correa-Matos distribution thread** (2 Jun 19:28) — includes multiple Navy stakeholders (addresses masked in headers but thread visible)
+### External — Government/Military (SUSTAINED)
+- **Eric D. Correa-Matos (CIV USN COMNAVAIRSYSCOM PAX)** — **SUSTAINED:** Implied in S0 MAD thread continuation (3 Jun 21:36 Maciej reply references ongoing Navy update); direct Navy technical authority
+- **Angel R. Ruiz-Reyes (CIV USN NAWCAD)** — **SUSTAINED:** Navy technical lead for S0 MAD integration
+- **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — **SUSTAINED:** UK MOD stakeholder
 
-### External — Manufacturing & Component Vendors (HIGH-VELOCITY ORDERING)
+### External — Manufacturing & Component Vendors (EXPLOSIVE SCALING)
 
-**JawsTec Manufacturing** — **ESCALATED ACTIVITY:**
-- Order #69060 (2 Jun 17:37, 17:38) — New payment request + order receipt; parallel to earlier orders
-- **Pattern:** Persistent dual invoice reminders (2 Jun 09:35, 11:42; 3 Jun 06:04) suggest either backlog or recurring batch fabrication
-- **Implication:** Custom PCB/metal/enclosure orders on accelerated cycle; 2–3 day turnarounds indicate time-critical S0/S3 payload components
+**SendCutSend** — **CRITICAL ESCALATION:**
+- **5 new orders/updates in 24 hours** (3 Jun 18:00–18:15):
+  - Formal quote created (18:00)
+  - Order received confirmation (18:12)
+  - Order SC51C906 tracking (18:15)
+  - Previous order SS97A808 delivered (16:30)
+- **Pattern:** Metal fabrication orders stacked in rapid sequence; quote→order→shipment turnaround suggests concurrent manufacturing cycles for multiple subsystem brackets/frames
+- **Implication:** S3 mount/chassis work (per Dan Prendergast task assignment) likely fed by SendCutSend metal cutting
 
-**SendCutSend** — **NEW ACTIVE VENDOR:**
-- Order SW46G546 (2 Jun 19:03, 19:09) — Metal cutting/fabrication service; two tracking/confirmation emails within 6 minutes
-- **Component type:** Likely chassis, brackets, structural framing for prototype assembly
-- **Signal:** Rapid prototyping pace; custom metal parts in flight
+**DigiKey** — **HIGH-VOLUME ELECTRONICS PROCUREMENT:**
+- Invoice 126896174 shipped (3 Jun 12:54)
+- Sales order #99597405 acknowledged (3 Jun 11:49)
+- Order confirmation (3 Jun 11:48)
+- **Pattern:** Large electronic components/passives for integration; likely for S3 payload/battery/radio systems
 
-**HeliDirect** — **NEW VENDOR ENGAGEMENT:**
-- **3x Hobbywing RPM Sensor (86060041)** — Order review request (3 Jun 04:06); high-performance ESC sensor for rotorcraft/drone electric propulsion
-- **ILGoblin Competizione promotional** (2 Jun 20:00, sent to Meredith Needham/purchasing@) — suggests equipment evaluation or component sourcing for aerial platform testing
-- **Connection:** Consistent with S0 MAD Navy aerial vehicle integration; propulsion sensor procurement aligns with vehicle dynamics/control instrumentation
+**Amazon** — **RAPID PROTOTYPING MATERIALS:**
+- ELEGOO Rapid PLA Plus (3D printer filament) shipped + delivered (3 Jun 18:02, 18:02 multiple confirmations); **indicates active 3D printing iteration cycle**
+- Quick Release Plate, Camera bracket — ordered (18:06), return confirmed (18:07), refund issued (00:25 4 Jun)
+- **Pattern:** High-velocity iteration; rapid return/reorder suggests design testing and refinement cycle for S3 camera/payload mounting
 
-**Protolabs** — **NEW SUPPLIER:**
-- Promotional/webinar invite (2 Jun 09:42) to Alex Lomis directly; digital manufacturing (3D printing, CNC, injection molding) service provider
-- **Signal:** May indicate parallel rapid prototyping pipeline; confirmed supplier relationship for quick-turn parts
+**MKS Servos USA** — **NEW VENDOR:**
+- Order #22540 updated (4 Jun 02:17); high-performance servo motors for rotorcraft/flight control systems
+- **Signal:** Aligns with S3 battery pack + datalink radio mount tasks; servos likely for vehicle actuation/control subsystems
 
-**GetFPV** — **DIRECT CONTACT TO ALEX:**
-- FPV drone components promotional (2 Jun 16:37) marked IMPORTANT; suggests personal/direct procurement interest or vendor relationship management by Alex
+**IQinetics Technologies Inc.** — **NEW ACTIVE VENDOR:**
+- Invoice SO-01599 (3 Jun 17:06); QuickBooks notification suggests ongoing billing relationship
+- **Context:** IQinetics specializes in motor controllers and magnetic bearing systems; possible propulsion/motor control integration for S3 platform
 
-**UAvionix** — **NEW VENDOR:**
-- Tech Tip promotional (2 Jun 16:48) sent to Jack Elston (purchasing@); aviation/UAV transponder & ADS-B systems company
-- **Signal:** Possible avionics integration for S0 payload or compliance/safety instrumentation
+**Instrumart** — **NEW LAB EQUIPMENT:**
+- Web order 1083722 (3 Jun 20:14); instrumentation/testing equipment supplier; possible oscilloscopes, power supplies, or test fixtures for integration/validation lab
 
-**General Air Service** — **NEW:**
-- Invoice 97579498-1 (2 Jun 05:31) — Facility/equipment service vendor; unclear scope but may indicate HVAC, compressed air, or environmental control systems for lab/test facility
+**LightWare** — **NEW SENSOR VENDOR:**
+- Promotional received (3 Jun 07:45); LightWare manufactures lidar/range sensors for UAVs and aerial platforms
+- **Signal:** Possible sensor payload for S3 or S0 MAD integration
 
-**McMaster-Carr** — **SUSTAINED:**
-- Receipt for May 29 order (2 Jun 03:31) — Industrial fasteners, structural components, lab equipment supplier; consistent supply chain partner
+**DigiKey, Amazon, SendCutSend triad in 24-hour window** — **CRITICAL SIGNAL:** **Coordinated simultaneous procurement of electronics (DigiKey) + metal chassis/structures (SendCutSend) + rapid prototyping materials (Amazon 3D filament) indicates PRODUCTION BUILD INITIATION for S3 subsystems with parallel development cycles.**
 
-**Worldwide Express** — **NEW:**
-- Invoice 06/03/2026 #260531W011484 (3 Jun 07:28) — Logistics/freight service; domestic or international shipping for high-value/urgent components
+### External — Logistics (SUSTAINED WITH DHL FEEDBACK REQUEST)
+- **DHL Express** (3 Jun 05:29) — **NEW:** Feedback survey request sent to Alex directly; suggests either resolution of previous customs clearance issue or new DHL shipment arrival; likely positive engagement signal
 
-**SendCutSend + JawsTec + Protolabs triad** — **NEW PATTERN:** Coordinated metal fabrication → custom PCB → rapid prototyping pipeline suggests **concurrent build cycles for multiple S0/S3 subsystems**.
-
-### External — Logistics/Shipping (CONTINUED CRITICAL DEADLOCK)
-**DHL Express** — **UNRESOLVED PATTERN PERSISTS:**
-- **3 duplicate "On Demand Delivery" alerts to Alex Lomis directly** (2 Jun 16:09, 16:11, 17:31) — all marked IMPORTANT; same tracking numbers suggest port processing loop or customs release stall
-- **Worldwide Express invoice** (3 Jun 07:28) — New logistics provider engagement; may indicate rerouting/alternative carrier for stuck shipments or parallel expedited service
-- **Signal:** DHL customs clearance likely still unresolved; BST diversifying carrier options to avoid further delays
-
-**UPS, Spindrift Market** — Delivery confirmations (2 Jun 12:01, 16:11, 16:11); office/consumables supply flowing normally
+### External — Vendor Management (NEW PATTERN)
+- **Joshua Fromm forwarding:** Multiple vendor confirmations (SendCutSend, Pirate Ship, Amazon) cc'd to Josh Fromm; suggests procurement delegation or task-specific component ownership
 
 ---
 
@@ -75,5 +71,20 @@
 
 ### Active Project Codes (Government/Classified)
 
-**S0 MAD** — **PRIMARY ESCALATION CONFIRMED:**
-- **Active multi-party thread:** Jack Elston ↔ Eric Correa-Matos (Navy COMNAVAIRSYSCOM) ↔ Angel Ruiz-Reyes (
+**S0 MAD** — **PRIMARY PROJECT - SUSTAINED MULTI-PARTY THREAD:**
+- **3 Jun 21:36:** Maciej Stachura thread to Jack Elston on "[Non-DoD Source] Re: S0 - MAD update" — continuing Navy technical coordination
+- **Participants:** Jack Elston (BST) ↔ Eric Correa-Matos (Navy COMNAVAIRSYSCOM) ↔ Maciej Stachura (BST) ↔ Angel Ruiz-Reyes (Navy NAWCAD) ↔ Simon Laurence (UK MOD)
+- **Status:** Active multi-party technical/integration thread; no indication of delay or deprioritization
+
+**S3 IRAD** — **ESCALATED TO ACTIVE BUILD PHASE:**
+- **New direct task assignments to Alex Lomis (3 Jun):**
+  - **[001-07] S3 IRAD:** "Build S3 battery pack for Canada" (18:31)
+  - **[Radios for FMV datalink]:** "Design, print and install mount for payload datalink radio in S3" (18:21)
+- **Component activity aligned:**
+  - Battery pack → IQinetics motor controller, MKS Servos USA propulsion components, DigiKey electronics
+  - Datalink radio mount → SendCutSend metal fabrication (quotes + orders), Amazon 3D printer materials (ELEGOO PLA), quick release brackets
+  - **Geolocation:** Explicit mention of "Canada" suggests S3 platform either built for Canadian stakeholder, testing facility, or forward deployment
+- **Status:** **TRANSITIONED FROM PLANNING TO FABRICATION.** Alex is primary hands-on builder; Dan Prendergast is task assignment authority
+
+**Radios for FMV datalink** — **SUB-PROJECT ESCALATION:**
+- Explicit focus on Full-Motion Video datalink integration; suggests S3 carries surveillance/reconnaissance payload

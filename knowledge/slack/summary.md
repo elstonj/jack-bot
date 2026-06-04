@@ -1,88 +1,105 @@
 # Slack Channels Overview
 
-Last scanned: 2026-06-03 02:15
+Last scanned: 2026-06-04 02:19
 
-Total channels scanned: 8
+Total channels scanned: 13
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 14 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#25_1-navy-sttr-boundary-layer** -- 11 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
-- **#emass-bst** -- 6 messages -- [emass-bst.md](emass-bst.md)
-- **#general** -- 5 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 20 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#operations** -- 1 messages -- [operations.md](operations.md)
-- **#s3** -- 3 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 8 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#25_1-navy-sbir-magnetometer** -- 1 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#25_1-navy-sttr-boundary-layer** -- 18 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
+- **#commercial-sales** -- 7 messages -- [commercial-sales.md](commercial-sales.md)
+- **#emass** -- 5 messages -- [emass.md](emass.md)
+- **#emass-bst** -- 1 messages -- [emass-bst.md](emass-bst.md)
+- **#flight-testing** -- 1 messages -- [flight-testing.md](flight-testing.md)
+- **#general** -- 8 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 37 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#marketing** -- 8 messages -- [marketing.md](marketing.md)
+- **#operations** -- 5 messages -- [operations.md](operations.md)
+- **#s0-vtol** -- 1 messages -- [s0-vtol.md](s0-vtol.md)
+- **#s3** -- 7 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 9 messages -- [sbir-hurricane.md](sbir-hurricane.md)
 
 ## Strategic Summary
 
 # Black Swift Technologies - Cross-Channel Strategic Overview
 
-## Active Projects
+## Active Projects & Programs
 
-**Core Aircraft Platforms:**
-- **S0 UAS**: Hurricane reconnaissance platform (mature, operational)
-- **S3 VTOL**: Hybrid fixed-wing/quadcopter with 2-3 hour endurance (in development)
-- **E2 Aircraft**: Platform for eMASS AI energy management integration
+**Government R&D (SBIR/STTR)**
+- Hurricane reconnaissance (S0 UAS) - mature, long-running project
+- Navy magnetometer integration (Magnetic Anomaly Detection)
+- Navy boundary layer atmospheric sensing (tropical cyclone focus)
+- eMASS AI chip integration (E2 platform energy optimization)
 
-**Government Contracts (SBIR/STTR):**
-- Hurricane SBIR (primary, long-running)
-- Navy Magnetometer SBIR (magnetic anomaly detection)
-- Navy Boundary Layer STTR (atmospheric sensing for cyclones)
+**Aircraft Development**
+- S-series: S0 (fixed-wing hurricane platform), S0-VTOL (vertical takeoff variant), S1-VTOL, S3 (long-endurance hybrid VTOL)
+- E-series: E2 multirotor with payload integration focus
+- Active flight testing across all platforms
 
-**Technology Integration:**
-- eMASS AI partnership: ECSDoT energy management system integration onto E2
+**Commercial & Sales**
+- Direct customer orders (universities, government agencies, international)
+- Payload integration services
+- Product delivery pipeline management
 
-## Key Decision-Makers & Roles
+## Key People & Decision Patterns
 
-| Person | Primary Role |
-|--------|--------------|
-| **Jack Elston** | Leadership; proposal/contract authority; systems architecture |
-| **Joshua Fromm** | Hardware/design lead; shop operations |
-| **Maciej** | Project oversight; technical/proposal support; testing |
-| **Dan Prendergast** | Business development; operations |
-| **Meredith Needham** | Finance; admin; budget development |
-| **Beck Cotter** | Project management; testing; integration |
-| **Sam Hild** | Firmware development |
+**Leadership & Strategy**
+- **Jack Elston**: Primary decision-maker, proposal reviewer, firmware/systems architect, leadership role
+- **Joshua Fromm**: Lead engineer/designer, QA, component sourcing, shop operations
+- **Maciej**: Project oversight, flight testing lead, technical proposal support, control systems
 
-## Cross-Channel Themes
+**Finance & Administration**
+- **Meredith Needham**: Budget management, admin, Navy liaison
+- **Dan Prendergast**: Business development, operations, eMASS project lead
 
-**1. Government Funding Strategy**
-- Multiple simultaneous SBIR/STTR pursuits driving tech development
-- Grants channel centralizes proposal/award tracking; #general announces outcomes
-- Operations tracks budget execution across projects
+**Technical Teams**
+- **Sam Hild, Alex Lomis, Ethan Domagala**: Firmware, hardware integration
+- **Beck Cotter**: Testing/control systems
+- **Nikhila** (eMASS external): AI/ML integration lead
 
-**2. Technical Integration & Testing**
-- Magnetometer, boundary layer sensors, energy management systems: all platform-agnostic development
-- S0/S3 platforms serve as testbeds for new capabilities
-- eMASS partnership requires cross-org coordination (Jack Elston key liaison)
+**Decision pattern**: Jack Elston reviews/approves major decisions; Maciej and Joshua provide technical input; Meredith handles budget/admin logistics.
 
-**3. Recurring Operational Patterns**
-- Hardware procurement & logistics coordinated in #operations
-- Testing results/technical decisions flow through project-specific channels then #general for company awareness
-- Joshua Fromm & Meredith Needham execute decisions from Jack Elston's strategic direction
+## Cross-Cutting Themes
 
-**4. Personnel & Knowledge Distribution**
-- **Core technical team** (Jack, Joshua, Maciej, Sam, Beck) spans all active channels
-- **External liaisons**: Meredith Needham (finance), Dan Prendergast (BD), Navy contacts in STTR channel
-- **Partner integration**: Nikhila (eMASS AI) embedded in dedicated collaboration channel
+**Integration Challenges**
+- Payload integration recurring across multiple platforms (magnetometer, eMASS chip, boundary layer sensors)
+- Hardware/firmware coordination bottleneck between development teams
+- External partner integration (eMASS, Navy liaisons)
 
-**5. Timeline Pattern**
-- Projects span 2020-2026 indicating long-term government contracts
-- S3 development appears accelerating; magnetometer/boundary layer projects newer
-- eMASS partnership likely 2024-2025 timeframe (recent focus)
+**Flight Testing as Validation**
+- All new systems validated through #flight-testing channel coordination
+- Firmware iterations tied to field results
+- Common troubleshooting patterns across platforms
 
-## Decision Patterns
+**Government Funding Dependency**
+- Heavy reliance on SBIR/STTR grants (#grants-and-funding shows active pursuit)
+- Navy as primary customer (multiple active contracts)
+- Proposal pipeline drives R&D roadmap
 
-- **Strategic decisions**: Made by Jack Elston, communicated in #general
-- **Technical execution**: Delegated to Maciej/Joshua; discussed in project channels
-- **Budget/Admin**: Meredith Needham manages, reported in #operations
-- **Funding proposals**: Jack Elston reviews/approves; coordinated in #grants-and-funding
+**Platform Reuse Strategy**
+- Core S0/S3 airframes support multiple sensor payloads (hurricane, magnetometer, atmospheric)
+- E2 multirotor used for diverse applications (commercial, eMASS integration)
+- Modular approach reduces development costs
 
-## Connections Across Channels
+## Recurring Topics
 
-- **S0 platform** connects #sbir-hurricane → #25_1-navy-sttr-boundary-layer (shared testbed)
-- **Magnetometer project** leverages aircraft expertise from hurricane/S3 work
-- **Government contracting success** in #grants-and-funding funds personnel time across all projects
-- **Operations/Meredith** tracks resource allocation across all concurrent initiatives
+- **Firmware/software stability** - persistent across flight-testing, individual platform channels
+- **Payload integration complexity** - magnetometer, eMASS, sensors all involve similar debugging cycles
+- **Delivery timelines** - commercial-sales and operations channels track customer commitments
+- **Component sourcing** - Joshua Fromm coordinates hardware availability
+- **Budget tracking** - Meredith Needham monitors burn rate against grants
+
+## Channel Interdependencies
+
+```
+#grants-and-funding → feeds proposals → #sbir-hurricane, #25_1-navy-*
+↓
+#flight-testing ← validates all platform development (#s0-vtol, #s3, #s0)
+↓
+#commercial-sales ← delivers tested systems to customers
+↓
+#operations ← manages logistics, budget, resources for all projects
+```
+
+**#general** serves as announcement hub connecting all parallel workstreams.

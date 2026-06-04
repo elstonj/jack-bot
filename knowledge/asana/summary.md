@@ -1,23 +1,28 @@
 # Asana Projects Overview
 
-Last scanned: 2026-06-03 02:07
+Last scanned: 2026-06-04 02:08
 
-Total projects scanned: 13
+Total projects scanned: 18
 
 ## Projects
 
 - **Commercial Sales** — 1 tasks — [commercial_sales.md](commercial_sales.md)
-- **Flight Testing** — 5 tasks — [flight_testing.md](flight_testing.md)
-- **View: Major Milestones & Tasks** — 2 tasks — [view_major_milestones_tasks.md](view_major_milestones_tasks.md)
-- **[001-04] S0 VTOL IRAD** — 1 tasks — [001-04_s0_vtol_irad.md](001-04_s0_vtol_irad.md)
+- **Contacts** — 2 tasks — [contacts.md](contacts.md)
+- **Flight Testing** — 3 tasks — [flight_testing.md](flight_testing.md)
+- **View: Major Milestones & Tasks** — 1 tasks — [view_major_milestones_tasks.md](view_major_milestones_tasks.md)
+- **[001-07] S3 IRAD** — 9 tasks — [001-07_s3_irad.md](001-07_s3_irad.md)
+- **[001-13] Accounting** — 1 tasks — [001-13_accounting.md](001-13_accounting.md)
 - **[001-13] BD Pipeline** — 1 tasks — [001-13_bd_pipeline.md](001-13_bd_pipeline.md)
-- **[001-13] General Operations** — 1 tasks — [001-13_general_operations.md](001-13_general_operations.md)
-- **[001-13] Proposals** — 6 tasks — [001-13_proposals.md](001-13_proposals.md)
-- **[001-13] Purchasing** — 11 tasks — [001-13_purchasing.md](001-13_purchasing.md)
+- **[001-13] General Operations** — 2 tasks — [001-13_general_operations.md](001-13_general_operations.md)
+- **[001-13] Marketing** — 1 tasks — [001-13_marketing.md](001-13_marketing.md)
+- **[001-13] Proposals** — 1 tasks — [001-13_proposals.md](001-13_proposals.md)
+- **[001-13] Purchasing** — 17 tasks — [001-13_purchasing.md](001-13_purchasing.md)
 - **[001-16] SwiftStation IRAD** — 1 tasks — [001-16_swiftstation_irad.md](001-16_swiftstation_irad.md)
-- **[031-1] UMES S3** — 1 tasks — [031-1_umes_s3.md](031-1_umes_s3.md)
-- **[300-3] 2026 IDIQ (Hurricane)** — 1 tasks — [300-3_2026_idiq_hurricane.md](300-3_2026_idiq_hurricane.md)
+- **[018-1] Murphy's Pond CH4 Monitoring** — 2 tasks — [018-1_murphys_pond_ch4_monitoring.md](018-1_murphys_pond_ch4_monitoring.md)
+- **[300-3] 2026 IDIQ (Hurricane)** — 3 tasks — [300-3_2026_idiq_hurricane.md](300-3_2026_idiq_hurricane.md)
 - **[301-2] SBIR - Hurricane Phase II+** — 1 tasks — [301-2_sbir_-_hurricane_phase_ii.md](301-2_sbir_-_hurricane_phase_ii.md)
+- **[350-4] 2024 USGS - Chile (Mexico)** — 1 tasks — [350-4_2024_usgs_-_chile_mexico.md](350-4_2024_usgs_-_chile_mexico.md)
+- **[451-1] INSTAAR S3 x 2** — 4 tasks — [451-1_instaar_s3_x_2.md](451-1_instaar_s3_x_2.md)
 - **[550-2] Navy STTR: Hazardous Weather** — 2 tasks — [550-2_navy_sttr_hazardous_weather.md](550-2_navy_sttr_hazardous_weather.md)
 
 ## Strategic Summary
@@ -26,82 +31,78 @@ Total projects scanned: 13
 
 ## Portfolio Overview
 
-| Metric | Value |
-|--------|-------|
-| **Active Projects** | 7 major projects |
-| **Total Portfolio Value** | ~$1.57M (contracted) + $2.3M+ (pipeline) |
-| **Completed/Archived** | 2 projects |
-| **Open Tasks** | 2 |
+| Metric | Status |
+|--------|--------|
+| **Total Active Project Value** | ~$1.4M+ (tracked contracts) |
+| **Active Projects** | 10 major projects + 6 internal operations |
+| **Archived Projects** | 1 (SBIR Hurricane Phase II+) |
+| **Critical Overdue Items** | 2 |
 
 ---
 
-## Active Projects by Value
+## Key Active Projects by Value
 
-### High-Value Contracts
-1. **[300-3] 2026 IDIQ (Hurricane)** – NOAA  
-   - **Value:** $499,000 (base + approved delivery order)  
-   - **Status:** Active  
-   - **Deadline:** Ongoing IDIQ; deliverables in progress
-
-2. **[550-2] Navy STTR: Hazardous Weather**  
-   - **Value:** $146,326 ($138,494 to BST)  
-   - **Status:** Active (Option Period: Jan 7–July 6, 2026)  
-   - **Deadline:** Final deliverable Sept 1, 2026  
-   - **Priority:** High (Navy STTR > Navy SBIR per Jack Elston)
-
-3. **[031-1] UMES S3**  
-   - **Value:** $81,306 ($75,338 for S3 VTOL)  
-   - **Status:** Delivery complete (May 29, 2026)  
-   - **Deadline:** Training July 23–25, 2026  
-   - **Risk:** Travel status unclear for training dates
-
-4. **[001-13] Proposals**  
-   - **Value:** ~$5.2M potential across 6 federal proposals  
-   - **Status:** Mix of in-progress (1) and submitted/under review (5)  
-   - **Clients:** DoD, NASA, Navy  
-   - **Team:** Beck Cotter (lead, 4 proposals), Dan Prendergast (2), Maciej Stachura (1)
-
-5. **[001-13] BD Pipeline**  
-   - **Value:** $2.3M+ historical; goal $5M by end of 2025 (date passed)  
-   - **Status:** Active; data integrity issue ($0 in custom fields)  
-   - **Sectors:** Government, defense, academic, commercial (US, Canada, UK, France)  
-   - **Next deadline:** 2026-05-29 (NextTech S3 Arctic)
-
-### Operational Projects
-- **[001-13] Purchasing** – Ongoing; critical backlog item resolved (pcbway #YX1724706)  
-- **[001-13] General Operations** – 1 open task: Process Improvement (unassigned)
+| Project | Client | Budget | Status |
+|---------|--------|--------|--------|
+| [300-3] 2026 IDIQ Hurricane | NOAA | $499,000 | Active |
+| [550-2] Navy STTR: Hazardous Weather | Dept. of Navy | $146,326 | Active (Option Period) |
+| [001-07] S3 IRAD | Internal R&D | Not specified | **5+ months overdue** |
+| [350-4] USGS Chile (Mexico) | USGS | $124,230 | Deployment delayed to Fall 2026 |
+| [451-1] INSTAAR S3 x2 | CU Boulder | $120,000 | Active |
+| [018-1] Murphy's Pond CH4 | Murray State U. | $86,863 | Active |
+| [001-13] BD Pipeline | Internal Sales | $2.3M+ historical | **Data integrity issues** |
 
 ---
 
-## Completed/Archived
-- **Flight Testing** – 100% complete (April–May 2024)  
-- **[301-2] SBIR Hurricane Phase II+** – Archived (completed Jan 3, 2024; $344,000 value)
+## Risk Areas
+
+### 🔴 **Critical**
+- **[001-07] S3 IRAD** – Canada Demo Support tasks **5+ months overdue** (due June 4–5, 2026)
+- **[550-2] Navy STTR** – Two deliverables due **June 3, 2026** (flagged critical)
+- **[001-13] BD Pipeline** – $5M goal for end of 2025 **not met**; pipeline shows $0 (data quality issue)
+
+### 🟡 **Medium**
+- **[350-4] USGS Chile** – Deployment pushed from April to Fall 2026 (6+ month slip)
+- **[451-1] INSTAAR** – Asana due date (May 2025) vs. actual delivery (Feb 2026) misalignment
+- **[001-13] Purchasing** – Significant backlog items requiring status verification
+- **[001-13] Accounting** – Product pricing task unassigned
+
+### 🟢 **Monitoring**
+- **[018-1] Murphy's Pond** – Multiple near-term deadlines (May–June 2026)
+- **[001-13] Marketing** – Project appears archived; minimal visibility
 
 ---
 
-## Key Risk Areas
+## Team Allocation Patterns
 
-| Risk | Details |
-|------|---------|
-| **Proposal Pipeline Data Quality** | BD Pipeline shows $0 in tracking fields; status vs. $5M goal unclear |
-| **Capacity & Team Allocation** | Beck Cotter owns 4 of 6 major proposals; concentrated dependency |
-| **UMES S3 Training Logistics** | Travel status unconfirmed for July 2026 training dates |
-| **Open Tasks** | 2 unassigned critical items: FAA Remote ID, General Operations process improvement |
-| **Proposal Status Visibility** | Limited detail on 5 submitted proposals under federal review |
+**Heavily Loaded:**
+- **Nate Straus** – Flight Testing focus (3 completed tasks)
+- **Dan Prendergast** – Operations (Process Improvement, INSTAAR training, Proposals)
+- **Josh Fromm** – INSTAAR S3 delivery lead
+
+**Underutilized/Unassigned:**
+- 3 open tasks without assignment (Accounting pricing, General Operations)
+- **Beck Cotter** – Contact management (non-project)
 
 ---
 
 ## Upcoming Critical Deadlines
 
-- **July 6, 2026** – Navy STTR Option Period completion  
-- **July 23–25, 2026** – UMES S3 training  
-- **September 1, 2026** – Navy STTR final deliverable  
-- **May 29, 2026+** – NOAA IDIQ ongoing delivery orders  
+| Date | Task | Project | Priority |
+|------|------|---------|----------|
+| **June 3, 2026** | Two Navy deliverables | [550-2] Navy STTR | 🔴 Critical |
+| **June 4–5, 2026** | Canada Demo Support | [001-07] S3 IRAD | 🔴 Overdue |
+| **May 27, 2026** | Flight #3 | [018-1] Murphy's Pond | 🟡 Active |
+| **June 1, 2026** | S2 rental order | [018-1] Murphy's Pond | 🟡 Active |
+| **July 6, 2026** | Navy Option Period ends | [550-2] Navy STTR | 🟡 Milestone |
+| **Sept 1, 2026** | Final Navy deliverable | [550-2] Navy STTR | 🟡 Milestone |
 
 ---
 
-## Recommendations
-1. Verify BD Pipeline data integrity and confirm status vs. $5M 2025 goal
-2. Assign open operational tasks (FAA Remote ID, Process Improvement)
-3. Clarify UMES training logistics and Navy STTR priority sequencing
-4. Monitor proposal review timelines for federal agencies (6 active opportunities)
+## Key Observations
+
+1. **NOAA Hurricane (IDIQ)** is largest contract ($499K); on track.
+2. **Navy STTR** ($146K) in active execution with June deliverables at risk.
+3. **Internal R&D (S3 IRAD)** has critical overdue milestone requiring immediate attention.
+4. **Data integrity issues** in BD Pipeline and Purchasing require reconciliation.
+5. **Team capacity** appears strained; 3+ unassigned operational tasks.

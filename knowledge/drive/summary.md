@@ -1,67 +1,64 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-06-03 02:22
+Last scanned: 2026-06-04 02:26
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 12 files — [federal_projects.md](federal_projects.md)
-- **Sales** — 1 files — [sales.md](sales.md)
+- **Federal Projects** — 13 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 2 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Shared Drive Strategic Overview
+# Black Swift Technologies — Google Drive Strategic Overview
 
-## Document Volume & Organization
+## Summary Statistics
+- **Total files across drives:** 15
+- **Total folders:** 0 (flat structure across all drives)
+- **Date range:** 2022-02-07 (Federal drive creation) → 2099-01-24 (latest modification)
+- **Active editors:** Beck Cotter (primary)
 
-**Total Files:** 13 across 2 drives
-- **Federal Projects:** 12 files (92%)
-- **Sales:** 1 file (8%)
+## Drive Organization & Content
 
-**Organization Quality:** Mixed
-- Federal drive uses primarily flat structure (minimal folder organization)
-- One designated subfolder (DoW Runtime Autonomy) remains empty, suggesting planned but incomplete organization
-- Sales drive is minimal/nascent
+### Federal Projects (13 files | Primary focus)
+**Primary purpose:** Federal contract deliverables, technical proposals, SBIR/STTR submissions, and Air Force/defense program documentation
 
-## Key Clients & Projects
+**Key document types:**
+- Proposals & RFPs (SBIR/STTR submissions via DSIP portal)
+- Contracts & letters of commitment
+- Invoices & progress reports
+- Video assets
 
-| Project | Drive | Document Count | Status |
-|---------|-------|-----------------|--------|
-| Air Force / Defense | Federal | 10+ | Active (recent modifications through 2026) |
-| SkyMesa (DAF26BZ01) | Federal | 2 | Active proposal submission |
-| EMASS | Sales | 1 | Active (2026-06-03) |
-| Runtime Assured Autonomy | Federal | 0 | Placeholder only |
+**Notable clients/projects:**
+- Air Force (DAF programs)
+- Defense SBIR/STTR Innovation Portal (DSIP)
+- Runtime Autonomy initiative (referenced in historical folder structure)
 
-## Cross-Drive Patterns
+### Sales (2 files | Minimal activity)
+**Primary content:**
+- EMASS Proposal
+- EMASS Proposal Addendum
+- Last modified: 2026-06-03
 
-- **Federal Projects drive dominates** with contracts, technical volumes, letters of commitment, invoices, and progress reports
-- **Sales drive is underdeveloped** — only one file despite likely needing proposal and pipeline documentation
-- **Clear client focus:** Air Force/DoD contracts represent primary revenue stream
+## Key Observations
 
-## Shared Resources & Templates
+### Strengths
+- Clear thematic separation (Federal vs. Sales drives)
+- Federal drive contains comprehensive proposal tracking and submission documentation
+- Beck Cotter actively maintaining current documents
 
-- Proposals appear standardized (Volume 2 Technical Volume template noted)
-- Letters of Commitment used as standard submission format
-- No explicitly designated templates or shared resources folder identified
-
-## Document Management Observations
-
-**Strengths:**
-- Recent activity through mid-2026 indicates active use
-- Key documents tracked by editor (Beck Cotter primary contributor)
-
-**Areas Needing Attention:**
-- Federal drive lacks hierarchical folder structure (flat storage inefficient for scaling)
-- Empty subfolder (DoW Runtime Autonomy) indicates incomplete project setup
-- Sales drive severely underdeveloped relative to document volume elsewhere
-- No apparent naming conventions or standardization visible
-- Missing: invoices, progress reports, and video assets referenced but not detailed
+### Areas Needing Attention
+- **Flat folder structure** across all drives limits scalability and discoverability
+- **Federal drive reorganization:** Previously planned `DoW Runtime Autonomy/` subfolder no longer present—unclear if files were consolidated or lost
+- **Minimal Sales activity:** Only 2 files suggests either dormant focus or content stored elsewhere
+- **Naming conventions:** Inconsistent (e.g., "BLACK SWIFT TECHNOLOGIES LLC 5095576 Proposal Final Decision (2).pdf")
+- **No apparent template repository** for proposals or contracts despite repetitive document types
+- **Document version control:** Multiple proposal versions suggest need for standardized naming/archival
 
 ## Recommendations
-
-1. Implement folder structure by project/client in Federal drive
-2. Populate Runtime Autonomy folder or archive placeholder
-3. Establish and grow Sales drive with pipeline, proposals, and templates
-4. Standardize file naming conventions across both drives
-5. Create templates and shared resources folder for reusable documents
+1. Implement hierarchical folder structure by project/client (especially Federal drive)
+2. Establish naming conventions across drives
+3. Create shared template library for proposals and contracts
+4. Clarify status of reorganized Federal documents
+5. Review Sales drive scope—expand activity or consolidate with Federal if integrated

@@ -5,7 +5,7 @@ This channel is primarily used for development and testing of BST's S0 VTOL airc
 
 Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan Domagala, Dan, Ben Busby
 Activity: High activity with 1420+ messages covering approximately 2+ years of development
-Time range: Early development through May 26, 2026 (ongoing project)
+Time range: Early development through June 3, 2026 (ongoing project)
 
 ## Key Decisions
 

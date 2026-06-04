@@ -17,7 +17,7 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 - U0151201DMY (infrastructure/web portal team member)
 - U01511MEQ90 (infrastructure/GCS software support)
 
-**Activity Level:** Ongoing active project spanning November 2025 - May 2026+. Real flight testing commenced April 23-24, 2026. EMASS media release planned for first week of May creating hard deadline. Project in critical evaluation phase following flight test results revealing fundamental navigation deficiencies and control stability issues. As of May 26, 2026, project viability assessment underway with three critical technical issues identified that may be insurmountable.
+**Activity Level:** Ongoing active project spanning November 2025 - June 2026+. Real flight testing commenced April 23-24, 2026. EMASS media release planned for first week of May creating hard deadline. Project in critical evaluation phase following flight test results revealing fundamental navigation deficiencies and control stability issues. As of June 3, 2026, project scope being contractually revised to address original milestone deliverables and define additional flight testing and reporting obligations.
 
 ## Key Decisions
 
@@ -52,32 +52,29 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 - **April 27:** Dan Prendergast decided not to proceed with afternoon data collection flight due to continued ECSDOT connectivity issues and control violations (VRATE and ROLL_ANGLE limit violations persisting). Decision made with assumption that Moe indicated data collection flights are for fine-tuning EMASS control model only. EMASS received 2nd invoice and are processing it. EMASS inquired about extending number of flights if necessary — decision pending on whether to establish cost per additional flight set.
 - **April 28:** Dan Prendergast confirmed willingness to fly EMASS controller in "degraded" operational mode: reliable straight-line performance with controller restart required at each waypoint/corner transition. Intent is to collect actual flight data for efficiency performance on straight legs and model tuning. Jack Elston approved with caution: monitor limit violations closely, immediate landing if violations approach severity of 2nd flight test attempt, and immediate data sharing with EMASS team for review.
 
-**May 4, 2026:**
-- Moe (EMASS) indicated controller update/specification change under discussion: update rate potentially reduced from 75Hz to 14Hz during recent meeting with Dan Prendergast. Jack Elston flagged critical concern: 14Hz update rate is insufficient for disturbance rejection in real flight operations and unlikely to work despite potentially functioning in simulation. Maciej expressed skepticism about repeated specification reductions from EMASS team.
-
-**May 11, 2026:**
-- Dan Prendergast planned to share E2 autopilot PID gains with EMASS during evening meeting (with Maciej's approval after clarifying the cascading nature of the gains: roll/pitch Kp=8, yaw Kp=1.5 are angle-to-rate converters only, with separate rate PIDs handling actual control)
-- Jack Elston cautioned against sharing implementation details beyond XML parameters, citing ongoing IP protection negotiations with EMASS
-- **Fundamental concern surfaced:** EMASS ML model likely not ingesting telemetry data at sufficient rate or with correct signal composition to properly train for path navigation. Dan Prendergast identified multiple potential issues:
+**May 2026:**
+- **May 4:** Moe (EMASS) indicated controller update/specification change under discussion: update rate potentially reduced from 75Hz to 14Hz during recent meeting with Dan Prendergast. Jack Elston flagged critical concern: 14Hz update rate is insufficient for disturbance rejection in real flight operations and unlikely to work despite potentially functioning in simulation. Maciej expressed skepticism about repeated specification reductions from EMASS team.
+- **May 11:** Dan Prendergast planned to share E2 autopilot PID gains with EMASS during evening meeting (with Maciej's approval after clarifying the cascading nature of the gains: roll/pitch Kp=8, yaw Kp=1.5 are angle-to-rate converters only, with separate rate PIDs handling actual control). Jack Elston cautioned against sharing implementation details beyond XML parameters, citing ongoing IP protection negotiations with EMASS. **Fundamental concern surfaced:** EMASS ML model likely not ingesting telemetry data at sufficient rate or with correct signal composition to properly train for path navigation. Dan Prendergast identified multiple potential issues:
   - EMASS cost function appears to lack trajectory-following terms despite recent addition of next waypoint lat/lon/alt to input vector (~2 weeks prior)
   - Telemetry rate mismatch: some signals arriving at EMASS significantly slower than BST autopilot operates
   - EMASS controller update rate may be too low to recover from aircraft state divergence
   - EMASS team may lack expertise to properly structure cost function for navigation task
-- Jack Elston recommended reverting to simplest possible validation: pure hover performance, then simple velocity tracking, rather than attempting full waypoint-based path navigation
-- Dan Prendergast disagreed: hovering was never the original intent; fundamental issues with EMASS model training architecture would manifest equally in hover as in path following
+  
+  Jack Elston recommended reverting to simplest possible validation: pure hover performance, then simple velocity tracking, rather than attempting full waypoint-based path navigation. Dan Prendergast disagreed: hovering was never the original intent; fundamental issues with EMASS model training architecture would manifest equally in hover as in path following.
 
-**May 21, 2026:**
-- **Critical Assessment Completed:** Latest EMASS controller version flies safely and reliably in simulation (only one speed limit violation over 15-minute run), but demonstrates fundamental navigation failure in actual flight:
+- **May 21:** **Critical Assessment Completed:** Latest EMASS controller version flies safely and reliably in simulation (only one speed limit violation over 15-minute run), but demonstrates fundamental navigation failure in actual flight:
   - E2 remains in same yaw orientation throughout square pattern instead of rotating to face each leg
   - After 1.5 loops, aircraft breaks off west-to-east leg and heads north without triggering limit violations
   - Multiple controller stop/restart cycles required to regain navigation around pattern
-- Dan Prendergast scheduled meeting with EMASS team (May 22) to discuss results and determine viability
+  
+  Dan Prendergast scheduled meeting with EMASS team (May 22) to discuss results and determine viability.
 
-**May 22, 2026:**
-- Dan Prendergast inquired about ECSDOT warning message ("Denied send request, still sending last plan") appearing when ECSDOT powered on; Jack Elston confirmed ECSDOT attempting to send flight plan but doing so incorrectly
+- **May 22:** Dan Prendergast inquired about ECSDOT warning message ("Denied send request, still sending last plan") appearing when ECSDOT powered on; Jack Elston confirmed ECSDOT attempting to send flight plan but doing so incorrectly.
 
-**May 25, 2026:**
-- Dan Prendergast solicited U01511MEQ90's technical assessment on three critical issues that may be insurmountable without large effort:
+- **May 25:** Dan Prendergast solicited U01511MEQ90's technical assessment on three critical issues that may be insurmountable without large effort:
   1. Log data not recorded at high enough rate to train EMASS controller
   2. Telemetry through payload interface not at high enough rate to control E2
   3. Insufficient range of flight data to cover all possible flight conditions, risking out-of-distribution
+
+**June 2026:**
+- **June 3

@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $1,085,520.16 *(+$8,920.88 from June 2–3, 2026)*
+- **Total Expenses (Bills + Purchases)**: $1,094,440.04 *(+$1,417.54 from June 3–18, 2026)*
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,067,625.80 (expenses exceed revenue significantly)
-- **Date Range**: April 5, 2024 – June 11, 2026 (26+ months)
-- **Transaction Count**: 1,163 *(all confirmed)*
+- **Net Position**: -$1,076,545.68 (expenses exceed revenue significantly)
+- **Date Range**: April 5, 2024 – June 18, 2026 (26+ months)
+- **Transaction Count**: 1,168 *(all confirmed)*
 
 ---
 
@@ -31,94 +31,84 @@
 ### Direct Labor & Subcontractors: $389,501.30
 **Total: $389,501.30** | **24 vendors** | **Largest: Matthew Crabtree $108,181.68**
 
-No new transactions in June 2–3 period in this category.
+No new transactions in June 3–18 period in this category.
 
 ---
 
 ### Materials & Direct Purchases: $520,989.60
 **Total: $520,989.60** | **72 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95**
 
-No new transactions in June 2–3 period in this category.
+No new transactions in June 3–18 period in this category.
 
 ---
 
-### IRAD Indirect R&D (Subcontractors & Internal): $80,813.92 *(+$2,873.92)*
+### IRAD Indirect R&D (Subcontractors & Internal): $80,813.92
 **Total: $80,813.92** | **62 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; Matthew Crabtree R&D Assembly $4,954.00; MicroFirm Engineering $6,257.60**
 
-**New Confirmed Transactions (June 2–3, 2026):**
+**Previously Confirmed Transactions (June 2–3, 2026):**
+- Purchase #SW46G546: $809.58 — S3 IRAD purchase
+- Purchase #69060: $1,926.40 — Nosecone ring x 3
+- Purchase #0529JELSTON: $78.05 — Neoprene Vibration-Damping Sandwich Mount
+- Purchase #69038: $140.59 (June 11) — S3 IRAD shipment to Sean Cole
 
-**Purchase #SW46G546**: $809.58 (June 2, 2026)
-- **Account**: [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]
-- **Description**: S3 IRAD purchase
-- **Status**: ✓ Confirmed
-- **Impact**: Component procurement for S3 development
-
-**Purchase #69060**: $1,926.40 (June 2, 2026)
-- **Account**: [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]
-- **Description**: Nosecone ring x 3
-- **Status**: ✓ Confirmed
-- **Impact**: Structural component (qty 3) for S3 development; significant single-item purchase
-
-**Purchase #0529JELSTON**: $78.05 (June 2, 2026)
-- **Account**: [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]
-- **Description**: Neoprene Vibration-Damping Sandwich Mount
-- **Memo**: No Asana request - project is listed under the item purchased
-- **Status**: ✓ Confirmed
-- **Impact**: Vibration isolation component for S3; informal approval (no Asana tracking)
-
-**Purchase #69038**: $140.59 (June 11, 2026) *(previously recorded in June 1–11 window)*
-- **Account**: [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]
-- **Description**: S3 IRAD shipment to Sean Cole
-- **Status**: ✓ Confirmed
-- **Impact**: R&D delivery for S3-related development work
+**Status**: No additional R&D transactions in June 3–18 period beyond those recorded June 2–11.
 
 ---
 
-### Sales & Marketing: $5,019.30 *(NEW CATEGORY)*
+### Sales & Marketing: $5,019.30
 **Total: $5,019.30** | **1 transaction**
 
-**New Confirmed Transactions (June 2–3, 2026):**
+**Previously Confirmed Transactions (June 2, 2026):**
+- Purchase #1315-5343: $5,019.30 — Yearly subscription
 
-**Purchase #1315-5343**: $5,019.30 (June 2, 2026)
-- **Account**: [SALES & MARKETING]
-- **Description**: Yearly subscription
+**Status**: No additional transactions in June 3–18 period in this category.
+
+---
+
+### Inventory Asset (S3 Sales & S2 Production Scaling): $1,417.54 *(+$1,417.54)*
+**Total: $1,806.85** | **7 transactions**
+
+**Previously Confirmed Transactions (June 3–4, 2026):**
+- Purchase #1083722: $907.80 (June 3) — E+E EE03 OEM Humidity/Temperature Module x4
+- Purchase: $48.96 (June 4) — Shipping for 123 Bearing Shipment
+
+**New Confirmed Transactions (June 18, 2026):**
+
+**Purchase #SC51C906**: $158.58 (June 18, 2026)
+- **Account**: [Inventory Asset]
+- **Description**: For future S3 sales
 - **Status**: ✓ Confirmed
-- **Impact**: Annual software/service subscription; appears to be marketing platform or CRM tool
-- **Notable**: Largest single transaction in June 2–3 period; represents substantial recurring marketing investment
+- **Impact**: S3 inventory/component procurement; unspecified component type
+- **Pattern**: Consistent with S3 production preparation
+
+**Purchase #YW1744139**: $302.21 (June 18, 2026)
+- **Account**: [Inventory Asset]
+- **Memo**: For future S3 sales
+- **Description**: For future S3 sales
+- **Status**: ✓ Confirmed
+- **Impact**: S3 inventory component; second transaction on same date
+- **Pattern**: Aligns with S3 product scaling for sales readiness
 
 ---
 
 ### Rent & Facilities: $52,923.63
 **Total: $52,923.63** | **5 transactions** | **Largest: W. W. Reynolds Companies $7,059.94**
 
-No new transactions in June 2–3 period in this category.
+No new transactions in June 3–18 period in this category.
 
 ---
 
-### General & Administrative (Legal, Tariffs, Utilities, Accounting): $46,520.64 *(+$360.00)*
+### General & Administrative (Legal, Tariffs, Utilities, Accounting): $46,520.64
 **Total: $46,520.64** | **4 transactions** | **Largest: KO Law PC Investment Transaction $44,964.50; Tariff/Import Duties $498.57; Accounting Fees $360.00**
 
-**New Confirmed Transactions (June 2–3, 2026):**
-
-**Bill** — **Claudia Behnke**: $360.00 (June 2, 2026)
-- **Account**: [GENERAL & ADMINISTRATIVE:GA-Accounting Fees]
-- **Description**: May 2026 accounting services (3 hrs @ $120/hr)
-- **Status**: ✓ Confirmed
-- **Impact**: Monthly bookkeeping/accounting support for May period
+No additional new transactions in June 3–18 period beyond June 2 accounting services ($360.00).
 
 ---
 
 ### Fringe Benefits (Retirement Contributions): $534.28
 **Total: $534.28** | **1 transaction**
 
-No new transactions in June 2–3 period in this category.
-
----
-
-### Inventory Asset (S3 Sales & S2 Production Scaling): $389.31 *(+$48.96 already recorded)*
-**Total: $389.31** | **3 transactions**
-
-No additional new transactions in June 2–3 period (bearing shipment already recorded June 4).
+No new transactions in June 3–18 period in this category.
 
 ---
 
@@ -131,28 +121,31 @@ No additional new transactions in June 2–3 period (bearing shipment already re
 
 ## Monthly Spend by Category
 
-### June 2026 (June 2–3 only) — Latest Period Update
+### June 2026 (Full Month: June 2–18) — Updated Summary
 | Category | Amount | # Transactions | Trend |
 |----------|--------|-----------------|-------|
-| Sales & Marketing | $5,019.30 | 1 | ↑ NEW: Annual subscription (large single transaction) |
-| IRAD Indirect R&D | $2,873.92 | 4 | → Continued S3 component sourcing (nosecones, damping mounts) |
-| General & Administrative | $360.00 | 1 | → Routine accounting services |
-| **Period Total** | **$8,253.22** | **6** | Moderate spend; S&M dominates; continued R&D focus |
+| Sales & Marketing | $5,019.30 | 1 | ↑ Annual subscription (June 2) |
+| IRAD Indirect R&D | $2,873.92 | 4 | → S3 component sourcing (June 2–11) |
+| Inventory Asset (S3 Production) | $1,417.54 | 4 | ↑ NEW: June 3–18 procurement acceleration |
+| General & Administrative | $360.00 | 1 | → Accounting services (June 2) |
+| **June Total (to date)** | **$9,670.76** | **10** | Moderate spend; S&M + inventory focus |
 
-### YTD Spend (June 1–11, 2026 cumulative) — Spending Pattern Summary
+### Cumulative June 2026 (June 1–18)
 | Category | Amount | # Transactions |
 |----------|--------|-----------------|
-| IRAD Indirect R&D | $11,476.01 | 10 |
 | Sales & Marketing | $5,019.30 | 1 |
-| General & Administrative | $858.57 | 2 |
-| Facilities | $28.69 | 1 |
-| Inventory Asset | $48.96 | 1 |
-| **June YTD Total** | **$17,431.53** | **15** |
+| IRAD Indirect R&D | $2,873.92 | 4 |
+| Inventory Asset | $1,417.54 | 4 |
+| General & Administrative | $360.00 | 1 |
+| **June YTD Total** | **$9,670.76** | **10** |
 
-### Key Patterns (June 2–3 and full June 1–11 window)
-- **Sales & Marketing spike**: $5,019.30 yearly subscription is significant new expense category; may indicate expansion of marketing activities or new platform adoption
-- **S3 R&D acceleration**: $2,873.92 in components (nosecones x3, vibration mounts, S3 IRAD purchases) confirms active S3 development pipeline
-- **Mixed approval rigor**: Purchase #0529JELSTON noted "No Asana request" — informal procurement continues; requires process tightening
+### Key Patterns (June 2–18)
+- **S3 Inventory Scaling Acceleration**: $1,417.54 in new component purchases (June 18) signals shift from R&D to production inventory accumulation
+  - E+E EE03 humidity/temperature modules (qty 4, $907.80)
+  - Bearing shipment ($48.96)
+  - Unspecified components ($460.79 across two June 18 purchases)
+- **Production Readiness Signals**: Consistent focus on S3 component procurement suggests imminent production/sales phase
+- **Spending Velocity**: $9,670.76 in 18 days (~$538/day average) reflects elevated activity relative to prior monthly patterns
 
 ---
 
@@ -161,50 +154,55 @@ No additional new transactions in June 2–3 period (bearing shipment already re
 ### CRITICAL PRIORITY
 
 1. **Sales & Marketing Annual Subscription - $5,019.30 (June 2, 2026)**
-   - **Significance**: NEW major expense category; largest single transaction in June 2–3 period
+   - **Significance**: NEW major expense category; largest single transaction in June period
    - **Details**: Yearly subscription (likely HubSpot, Marketo, or similar platform)
    - **Impact**: ~$418/month equivalent commitment; represents strategic marketing investment
    - **Status**: ✓ Confirmed
    - **Action Required**: Verify platform purpose, expected ROI, and alignment with revenue targets (currently $0 cash collected)
-   - **Question**: Is this tied to new customer acquisition strategy for S3/aviation products?
+   - **Question**: Is this tied to new customer acquisition strategy for S3/aviation products? Timeline alignment with S3 inventory accumulation?
 
 2. **Phase1 Aviation Double-Payment (Invoice #1696 - $6,105.00)**
-   - **Status**: UNRESOLVED
+   - **Status**: UNRESOLVED (11+ months outstanding)
    - **Action Required**: Recovery or credit memo needed for accidental duplicate payment
-   - **Age**: 9+ months outstanding (issued Aug 2025)
+   - **Age**: Issued Aug 2025; now 10+ months outstanding
    - **Impact**: Represents 34% of total outstanding receivables
+   - **Urgency**: Escalate collections immediately
 
 3. **Outstanding Receivables - $17,894.36 (100% unpaid)**
    - **Status**: CRITICAL
    - **Composition**: 3 invoices, all >6 months old (oldest: Aug 2025; newest: Apr 2026)
    - **Breakdown**:
-     - Krateo Sky: $10,860.48 (Apr 2026 — 2+ months old)
-     - Weather Stream: $928.88 (Dec 2025 — 6+ months old)
+     - Krateo Sky: $10,860.48 (Apr 2026 — 2.5+ months old)
+     - Weather Stream: $928.88 (Dec 2025 — 6.5+ months old)
      - Phase1 Aviation: $6,105.00 (Aug 2025 — 10+ months old, includes double-payment)
    - **Action Required**: Immediate collection follow-up; verify customer payment status & resolve Phase1 dispute
+   - **Cash Impact**: Collecting these receivables would significantly improve net position
 
 ---
 
 ### HIGH PRIORITY
 
-4. **S3 Nosecone Rings (Qty 3) - $1,926.40 (June 2, 2026)**
-   - **Significance**: Largest R&D component purchase in June 2–3 window
-   - **Implication**: Structural component procurement; qty 3 suggests multiple prototypes or production batches
+4. **S3 Inventory Acceleration Phase (June 3–18)**
+   - **New Purchases**: 4 transactions totaling $1,417.54
+   - **Components**: 
+     - E+E EE03 OEM Humidity/Temperature modules x4 ($907.80) — environmental sensing
+     - Bearing shipment + shipping ($48.96) — mechanical assembly
+     - Two unspecified S3 components ($460.79 on June 18)
+   - **Implication**: Transition from R&D prototyping to production inventory accumulation
+   - **Timeline Significance**: Coincides with annual marketing subscription (June 2); suggests coordinated go-to-market prep
+   - **Burn Rate**: $1,417.54 in 16 days (June 3–18) indicates sustained component acquisition ahead of sales
+   - **Risk**: Production inventory accumulating with zero current sales revenue; increasing financial exposure
+   - **Monitor**: 
+     - Track component procurement timeline against planned S3 launch date
+     - Correlate with Krateo Sky ($10.86K) and Weather Stream ($.93K) customer readiness
+     - Verify that marketing subscription is driving revenue conversion for accumulated inventory
+
+5. **S3 Nosecone Rings (Qty 3) - $1,926.40 (June 2, 2026)**
+   - **Significance**: Largest single R&D component purchase in June 2–11 window
+   - **Implication**: Structural component for multiple units or batch production
    - **Status**: ✓ Confirmed
-   - **Question**: Is this for prototype iteration, tooling setup, or initial production run?
-   - **Monitor**: Track associated assembly/integration costs
+   - **Context**: Part of coordinated S3 development acceleration (R&D + inventory procurement)
 
-5. **S3-Focused Spending Acceleration (June 1–11)**
-   - **Components purchased**: Nosecone rings ($1,926.40), vibration damping mounts ($78.05), S3 IRAD items ($809.58 + $140.59)
-   - **Inventory added**: Bearing shipment ($48.96)
-   - **Total S3 spend (June)**: ~$3,003 in direct S3 components + inventory
-   - **Implication**: S3 product in critical development/pre-production phase
-   - **Risk**: No corresponding S3 revenue collected; spending velocity exceeds current revenue
-   - **Monitor**: Track development timeline against spending burn rate
-
-6. **MicroFirm Engineering Relationship (Previous June 1 transaction: $6,257.60)**
-   - **Status**: Ongoing subcontractor engagement
-   - **Details**: $2,875 engineering services (23 hrs @ $125/hr) + $3,382.60 parts procurement
-   - **Question**: Is this vendor relationship for S3 development specifically? Expected contract duration?
-
----
+6. **E+E EE03 OEM Humidity/Temperature Modules (Qty 4) - $907.80 (June 3, 2026)**
+   - **Significance**: Sensor procurement for S3 production units
+   - **Implication**: Qty 4 suggests 4

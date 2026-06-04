@@ -2,82 +2,81 @@
 
 ## Active Project Budgets
 
-### Project 200-12: AREN (Aerokats and Rover Education Network)
-- **Client:** NASA Science Mission Directorate
-- **Contract Type:** Science Activation / Cooperative Agreement (NNX16AB95A)
-- **2025 Proposed Budget:** $117,701.50
-- **Period of Performance:** 2025 (part of multi-year project 2021–present)
-- **Key Personnel:** Kay Rufty (Aerospace Engineer, Co-I), Ted Miles (Senior Engineering Technician), Jack Elston & Maciej Stachura (Technical Consultants)
-- **Status:** Active, ongoing multi-year project
-
-### Project 550-2: Expendable Air-sea Profiling Observations in Hazardous Weather
+### Project 550-2
+- **Project Code:** 550-2
 - **Client:** United States Navy (Department of Naval Research)
-- **Contract Type:** STTR Phase I with Option Period
 - **Contract Number:** N6833525C0270
-- **Project Title:** N25A-T025
+- **Project Title:** N25A-T025 Expendable Air-sea Profiling Observations in Hazardous Weather Conditions
+- **Total Budget:** $245,772.00
+  - Phase I Base Period: $146,326.00
+  - Option Period: $99,446.00
+- **Contract Type:** Navy STTR (Small Business Technology Transfer) Phase I with Option Period
+- **Performance Period:** July 22, 2025 – January 7, 2026 (Base); Option extends into February 2026
 - **Award Date:** July 22, 2025
-- **Phase I Base Period Budget:** $146,326.00
-- **Option Period Budget:** $99,446.00
-- **Total Phase I + Option Value:** $245,772.00
-- **Phase I Performance Period:** July 22, 2025 – January 7, 2026
-- **Option Period Status:** Confirmed; extends into 2026
-- **Status:** Recently awarded; active Phase I execution
+- **Status:** Active
+- **Spend/Remaining Data:** Not yet available in provided documentation
+
+---
+
+## Unassigned/Portfolio Projects
+- **Document Set:** 1,181 budget documents identified
+- **Status:** Requires organization and assignment to specific project codes
+- **Coverage:** Multiple funding sources (NASA, NOAA, DoD, other federal agencies)
+- **Project Stages:** Mix of Active, Proposals, and Completed/Inactive initiatives
+
+### Identified Product Line (Preliminary)
+- **MiniCam Project** (NASA AREN/Aeropods Commercial)
+  - Status: Preliminary cost analysis phase (February 2026)
+  - Document: BST MiniCam Preliminary Cost Analysis
+  - Contract Type: Commercial product costing
+  - Budget Detail: Incomplete in provided data excerpt
 
 ---
 
 ## By Funding Source
 
-| Agency/Client | Projects | Total Budget (Known) |
+| Funding Source | Known Projects | Total Budget |
 |---|---|---|
-| **NASA Science Mission Directorate** | 200-12 | $117,701.50 |
-| **U.S. Navy (Department of Naval Research)** | 550-2 | $245,772.00 |
-| **Other Federal Agencies (NASA, NOAA, DoD)** | Portfolio (Unassigned - 1,181 docs) | *To be detailed* |
-| **TOTAL (Documented)** | | **$363,473.50+** |
+| US Navy (DoD) | 550-2 | $245,772.00 |
+| NASA | MiniCam (unassigned) | TBD |
+| NOAA | Multiple (unassigned) | TBD |
+| Other Federal Agencies | Multiple (unassigned) | TBD |
 
 ---
 
 ## By Contract Type
 
-| Contract Type | Projects | Count |
+| Contract Type | Projects | Total Budget |
 |---|---|---|
-| **Science Activation / Cooperative Agreement** | 200-12 | 1 |
-| **STTR Phase I + Option** | 550-2 | 1 |
-| **SBIR/STTR (other phases)** | Unassigned portfolio | *Pending review* |
-| **IRAD / Internal R&D** | Unassigned portfolio | *Pending review* |
-| **Commercial Product Development** | MiniCam (preliminary) | 1 |
+| Navy STTR Phase I + Option | 550-2 | $245,772.00 |
+| Commercial (Product Development) | MiniCam | TBD |
+| Other (IRAD, SBIR, etc.) | Unassigned portfolio | TBD |
 
 ---
 
 ## Financial Health Indicators
 
-### High Priority / Near-Term Funding Events
-- **Project 550-2:** Recently awarded (July 22, 2025); Phase I execution underway; Option Period confirmed for February 2026 — represents **near-term cash flow influx** ($146k base + $99.4k option)
-- **Project 200-12:** 2025 proposed budget cycle; part of established multi-year AREN program with stable funding history
-
-### Budget Concerns / Monitoring Needed
-- **Unassigned Portfolio (1,181 documents):** Requires detailed review to identify:
-  - Projects nearing end-of-life funding
-  - Proposals awaiting award decisions
-  - Completed/inactive projects still in file system
-  - Large upcoming milestone invoices
+| Indicator | Status | Notes |
+|---|---|---|
+| **Active Funded Projects** | Healthy | Project 550-2 newly awarded (July 2025) with clear option period structure |
+| **Budget Visibility** | **⚠️ Low** | Only 1 of 1,182+ documents fully organized; portfolio budget status unknown |
+| **Spend Tracking** | No data available | No QuickBooks integration or actual spend reported for 550-2 |
+| **Upcoming Milestones** | Base period end: Jan 7, 2026 | Option period activation: Feb 2026 |
+| **Portfolio Organization** | **⚠️ Critical** | 1,181 unassigned documents need classification and project code assignment |
 
 ---
 
 ## QuickBooks Integration Notes
 
-- **Project 200-12:** Labor rate table provided (Aerospace Engineer: $62.20/hr, 15% overhead, burdened rate $71.53/hr) — compatible with time-tracking and QuickBooks integration
-- **Project 550-2:** Lump-sum budget figures provided; detail cost breakdown available in Phase II proposals (referenced as incomplete in source document)
-- **Unassigned Portfolio:** No QuickBooks cross-reference data provided; **1,181 documents appear to be Drive-only** — recommend systematic audit to identify which projects are actively tracked in accounting system
+- **Project 550-2:** No QuickBooks matching data referenced; Navy contract appears to be Drive-only documentation at present
+- **Unassigned Portfolio:** No QuickBooks references identified in excerpt; requires full document review
+- **Recommendation:** Link 550-2 to QuickBooks cost tracking upon contract start to establish baseline actuals vs. budget
 
 ---
 
-## Data Completeness Summary
+## Immediate Action Items
 
-| Metric | Status |
-|---|---|
-| **Well-Documented Active Projects** | 2 (200-12, 550-2) |
-| **Total Budget Visibility** | $363,473.50 (partial) |
-| **Unreviewed Documents** | 1,181 (portfolio-level review needed) |
-| **QuickBooks Linkage** | Partial (Project 200-12 has labor rates; recommend full audit) |
-
-**Recommendation:** Conduct comprehensive audit of unassigned portfolio to categorize by project code, funding status, and accounting system linkage.
+1. **Organize unassigned portfolio:** Assign project codes to 1,181 documents to establish complete financial picture
+2. **Establish 550-2 cost tracking:** Set up QuickBooks entries aligned with Navy STTR contract timeline
+3. **Clarify MiniCam status:** Determine if preliminary analysis led to funded contract or remains proposal stage
+4. **Budget exposure analysis:** Assess any projects nearing funding exhaustion in unassigned portfolio

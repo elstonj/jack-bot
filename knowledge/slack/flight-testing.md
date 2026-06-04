@@ -4,9 +4,9 @@
 
 The #flight-testing channel serves as Black Swift Technologies' primary hub for coordinating flight test operations, troubleshooting aircraft and payload issues, and tracking firmware/software development across their fleet of fixed-wing (S-series), multirotor (E2, Flamewheel), and VTOL (S0, S1-VTOL, S3) platforms.
 
-**Key Participants:** Maciej (lead flight testing/analysis), Jack Elston (firmware development), Joshua Fromm (QA/component sourcing), Ben Busby (tablet/GCS software), Nate (videography/pilot), Alex Lomis (field operations/media/pilot), Sam Hild (Remote ID integration/test pilot), Dan Prendergast (autopilot/control systems/operations), Danny Troke (data management), Ethan Domagala (pilot), Beck Cotter (operations support), Paige Smith (media/video curation), Sunny Slope Sod Farm (external airspace contact/CU training partner), Chris & Kevin (external clients/stakeholders), Christoph & Angie (internal stakeholders), Dan H. (external contact/AUVSI show)
+**Key Participants:** Maciej (lead flight testing/analysis), Jack Elston (firmware development), Joshua Fromm (QA/component sourcing), Ben Busby (tablet/GCS software), Nate (videography/pilot), Alex Lomis (field operations/media/pilot), Sam Hild (Remote ID integration/test pilot), Dan Prendergast (autopilot/control systems/operations), Danny Troke (data management), Ethan Domagala (pilot), Beck Cotter (operations support), Paige Smith (media/video curation), Sunny Slope Sod Farm (external airspace contact/CU training partner), Chris & Kevin (external clients/stakeholders), Christoph & Angie (internal stakeholders), Dan H. (external contact/AUVSI show), Ken Jochim (BAS airfield operator)
 
-**Activity Level:** Extremely high — 5,600+ messages across June 2020 through May 2026. Daily operations with multiple aircraft flights, rapid issue turnaround, continuous firmware iterations, and intensive VTOL transition testing. Current activity (May 2026) shows ongoing equipment preparation and shipping coordination with external Navy engagement. Operations continue at sustained high tempo through late May 2026.
+**Activity Level:** Extremely high — 5,600+ messages across June 2020 through June 2026. Daily operations with multiple aircraft flights, rapid issue turnaround, continuous firmware iterations, and intensive VTOL transition testing. Current activity (June 2026) shows ongoing flight test operations with equipment preparation, external Navy engagement, and airfield infrastructure coordination.
 
 ---
 
@@ -48,4 +48,4 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 - **May 15, 2026:** S1-22 flight testing extended beyond 1-hour baseline; additional tuning flights approved
 
 ### External Engagements & Logistics
-- **May 28, 2026:** Equipment shipment coordination required — packaging, cleaning, and arranging pickup scheduled for
+- **May 28, 2026:** Equipment shipment coordination required — packaging, cleaning,

@@ -1,11 +1,11 @@
 # Jack Elston — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 3,596 (3,496 prior + 100 June 2–3)
-- **Date range:** April 1–June 3, 2026
+- **Total messages scanned:** 3,696 (3,596 prior + 100 June 3–4)
+- **Date range:** April 1–June 4, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **June 2–3 activity (100 messages):** ~60% automated/vendor traffic; ~40% human correspondence
-- **Peak activity window:** June 2 (Tuesday) — high-volume M&A finalization and government coordination
+- **June 3–4 activity (100 messages):** ~50% automated/vendor/procurement traffic; ~50% human correspondence with heavy M&A and government coordination focus
+- **Peak activity window:** June 3–4 (Wed–Thu) — M&A **definitive agreement finalization**, KrateoSky diligence completion, Navy/government program updates
 
 ---
 
@@ -13,72 +13,48 @@
 
 ### Top Internal BST Contacts
 
-**Maciej Stachura** (stachura@blackswifttech.com) — Operations, technical partnerships
-- **June 2–3 escalations (CONTINUED):**
-  - **S0 presentation** (Jun 2 19:01:32 +0000, IMPORTANT) — UK MOD (Simon.Laurence157@mod.gov.uk) direct contact; S0™ capability presentation to international government partner
-  - **KrateoSky Visit — Ariel Avitan** (Jun 2 13:23:34 -0600, SENT) — Multi-party visit coordination with KrateoSky leadership (Ariel Avitan, Adria Passola); extended team involvement
-  - **RE: [Non-DoD Source] Re: S0 - MAD update** (Jun 2 16:48:01 +0000, IMPORTANT) — Navy NAWCAD escalation (Angel R. Ruiz-Reyes); ongoing S0™ MAD status
-- **Pattern:** Maintains primary operations/government liaison role; international government presentations; partner visit logistics.
+**Maciej Stachura** (stachura@blackswifttech.com) — Operations, technical partnerships, government liaison
+- **June 3–4 escalations (CONTINUED & CRITICAL):**
+  - **N68335-25-C-0270 BST Phase I Mid-Option progress update** (Jun 3 23:31:08 +0000, IMPORTANT) — Navy program status; Joshua H. Cossuth (Navy CNR ARLINGTON); includes Jun Zhang (NOAA), Joshua Wadler (ERAU), Beck Cotter
+  - **Re: [Non-DoD Source] Update meeting** (Jun 3 14:39:05 -0600, IMPORTANT) — Navy coordination response
+  - **Re: [Non-DoD Source] Re: S0 - MAD update** (Jun 3 21:36:00 -0600, IMPORTANT) — S0™ MAD status escalation
+  - **FW: Black Swift** (Jun 4 04:20:52 +0000, IMPORTANT) — Ko Firm (Ryan Sykora) forwarded to Jack + Maciej; M&A definitive agreement coordination
+  - **Re: [EXTERNAL] Re: Black Swift Final Industrial Plan** (Jun 3 12:48:19 -0600, SENT) — Industrial plan finalization
+  - **Black Swift R&D Credit — document and records request (TY2017–TY2025)** (Jun 3 12:32:09 -0600, SENT) — Tax diligence to Thierry Lepoutre (BoostR Consulting), Meredith; 8-year historical records request
+- **Pattern:** Primary government/Navy liaison; M&A documentation coordination; tax/R&D credit diligence leadership.
 
-**Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, vendor management
-- **June 2–3 escalations (CONTINUED & EXPANDED):**
-  - **Re: Blackswift Technologies Potential Tour** (Jun 3 00:14:51 -0600, SENT) — Tour coordination response
-  - **Checking In** (Jun 2 23:57:01 -0600, SENT) — Nadia Bryan (Ko Firm) inquiry on check-in status; financial/legal coordination
-  - **Re: Thursday Visit** (Jun 2 12:24:24 -0600, IMPORTANT) — Tour/visitor logistics coordinated with Jack and team
-  - **Major Medical Renewal - Update** (Jun 2 14:27:53 -0600, IMPORTANT) — Ongoing HR/benefits coordination with Chad Atwood (The AIG Inc.)
-  - **Invoice from EchoBlue** (Jun 2 11:03:28 -0600 onwards, IMPORTANT) — Multi-step vendor invoice coordination (Paige Smith, Meredith, Jack)
-  - **Ted Miles May 2026 support invoice** (Jun 2 10:53:53 -0600, IMPORTANT) — Contractor payment processing
-  - **Quickbooks Bill Pay** (Jun 2 16:02:54 +0000 onwards, CATEGORY_FORUMS) — Automated payment processing to Ted Miles, Claudia Behnke
-- **Pattern:** Heavy financial operations load; vendor/contractor payment processing; HR/benefits administration; tour logistics.
+**Ryan Sykora** (rsykora@kofirm.com) — **Ko Firm Legal Counsel — M&A LEAD** (external but critical escalation)
+- **June 3–4 escalations (CRITICAL DEAL ACTIVITY):**
+  - **FW: Black Swift** (Jun 4 04:20:52 +0000 & 04:25:10 +0000, IMPORTANT) — **DEFINITIVE AGREEMENT RESOLUTION** — forwarded to Jack + Maciej; deal finalization stage
+  - **RE: FW: Black Swift** (Jun 4 04:34:57 +0000, IMPORTANT) — Jack's response (Jun 3 22:25:36 -0600, SENT)
+  - **Black Swift Tax Disclosures** (Jun 3 21:12:52 +0000, IMPORTANT) — Tax disclosure schedules; includes Mark Kightlinger (KCO), brian@mbakertaxlaw.com, Nadia Bryan
+  - **RE: PRIVILEGED & CONFIDENTIAL — R&D credit / partner-classification exposure (KrateoSky diligence)** (Jun 3 20:54:31 +0000 through 21:14:05 +0000, IMPORTANT, 8+ consecutive messages) — **INTENSIVE R&D CREDIT & TAX LIABILITY DISCUSSION** covering:
+    - R&D credit exposure analysis
+    - Partner classification implications for KrateoSky deal
+    - Multi-attorney coordination (Mark Kightlinger, brian@mbakertaxlaw.com, Nadia Bryan)
+    - **Jack's detailed responses** (Jun 3 14:37:06 -0600, 14:30:20 -0600, 12:46:25 -0600, 12:32:14 -0600, SENT)
+  - **RE: Updates** (Jun 3 20:16:19 +0000, IMPORTANT) — To Jack + Charu Ganesh (Ko Firm)
+  - **RE: Black Swift - Tax Questions** (Jun 3 20:20:59 +0000, IMPORTANT) — Jack response (Jun 3 14:27:21 -0600, SENT)
+  - **RE: PRIVILEGED & CONFIDENTIAL — R&D credit / partner-classification exposure (KrateoSky diligence)** (Jun 3 18:34:58 +0000 & 18:20:20 +0000, IMPORTANT) — Ongoing liability coordination
+- **Pattern:** **CRITICAL M&A COUNSEL** — definitive agreement finalization, tax disclosure schedules, R&D credit exposure analysis, partner classification diligence. **Most active single correspondent during deal close.**
 
-**Beck Cotter** (beck.cotter@blackswifttech.com) — Operations lead, government coordination
-- **June 2–3 escalations:**
-  - **Re: Updates** (Jun 2 16:22:18 -0600, IMPORTANT) — Charu Ganesh (Ko Firm) escalation coordination
-  - **Fwd: UASweekly Daily Newsletter** (Jun 2 15:32:17 -0600, IMPORTANT) — Newsletter routing to team (Jack, Paige, Maciej)
-  - **Re: UASweekly Daily Newsletter** (Jun 2 17:48:47 -0600, SENT) — Jack's response to Beck newsletter forward
-  - **Fwd: CANCELLED – June DOI Monthly UxS Conference Call** (Jun 2 13:29:31 -0600, SENT) — Government conference coordination
-- **Pattern:** Information routing (newsletters, calls); operations coordination; government meeting facilitation.
+**Nadia Bryan** (nbryan@kofirm.com) — Ko Firm, M&A coordination
+- **June 3–4 escalations (CONTINUED & CRITICAL):**
+  - **Black Swift: Definitive Agreement Resolution Call** (Jun 4 05:04:44 +0000, IMPORTANT) — **DEAL RESOLUTION CALL** with Sona Raziabeegum (KrateoSky), Bret Diskin + Kylie Sholty + Jeffrey Patt (Katten — likely external counsel), Jack, Nadia
+  - **RE: Black Swift - Disclosure Schedules** (Jun 3 23:39:30 +0000, IMPORTANT) — Jack's response (Jun 3 21:21:25 -0600, SENT)
+  - **RE: PRIVILEGED & CONFIDENTIAL — R&D credit / partner-classification exposure (KrateoSky diligence)** (Jun 3 21:54:48 +0000, IMPORTANT) — Tax liability escalation with Mark Kightlinger, brian@mbakertaxlaw.com, Ryan Sykora
+- **Pattern:** M&A documentation, disclosure schedules, deal call coordination; tax/legal escalations.
 
-**Joshua Fromm** (josh.fromm@blackswifttech.com) — Technical partnerships, government liaison (NEW emphasis)
-- **June 2–3 escalations (EXPANDED):**
-  - **Re: Merlin Mk2/US Navy SBIR** (Jun 2 16:05:44 -0600, YELLOW_STAR, IMPORTANT, STARRED) — Direct UK MOD contact (Simon.Laurence157@mod.gov.uk); Navy SBIR program status; **starred by Joshua** (high priority flag)
-  - **Re: Merlin Mk2/US Navy SBIR** (Jun 2 23:55:57 -0600, SENT) — Jack's response to Joshua
-  - **KrateoSky Visit coordination** (Jun 2 13:23:34, SENT) — Multi-party visit (Jack, Maciej, Daniel, Beck, Joshua, Meredith, Ben Busby)
-  - **Thursday Visit** (Jun 2 12:14:31 -0600, SENT) — Team-wide visitor logistics
-- **Pattern:** **New primary contact for UK MOD/Merlin program; Navy SBIR coordination; elevated to high-priority status.**
+**Beck Cotter** (beck.cotter@blackswifttech.com) — Operations lead
+- **June 3–4 escalations:**
+  - **Re: Updates** (Jun 3 21:48:47 +0000, IMPORTANT) — Charu Ganesh (Ko Firm) update; includes Ryan Sykora
+  - **NORTHCOM AE27 discussion** (Jun 3 20:31:30 +0000, IMPORTANT) — Patricia A. Vollmer (NORAD-USNC, JOC) invitation for Jun 3 2:30pm MDT; Jack/Beck coordination
+  - **Re: NAVAIR Pre-Release Open Topic Period Launches Today! (June 3)** (Jun 3 14:29:27 -0600, IMPORTANT) — Government RFP routing; Jack's forward (Jun 3 14:28:14 -0600)
+- **Pattern:** Government meeting coordination; operations/RFP routing.
 
-**Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical partnerships, government liaison
-- **June 2–3 escalations (CONTINUED):**
-  - **KrateoSky Visit coordination** (Jun 2 13:23:34 -0600, SENT) — Multi-party coordination
-  - **Thursday Visit** (Jun 2 12:14:31 -0600, SENT) — Visitor logistics
-- **Pattern:** Partner visit coordination; continues government/partnership liaison role.
-
-**Ben Busby** (ben.busby@blackswifttech.com) — Technical/Operations (NEW contact emphasis)
-- **June 2–3 escalations:**
-  - **KrateoSky Visit coordination** (Jun 2 13:23:34 -0600, SENT) — Multi-party involvement
-  - **Thursday Visit** (Jun 2 12:14:31 -0600, SENT) — Team-wide coordination
-- **Pattern:** Included in executive-level visit coordination; operational involvement in KrateoSky partnership.
-
-**Nathaniel Straus** (nate.straus@blackswifttech.com) — Operations/Technical (NEW contact)
-- **June 2 escalation:**
-  - **Fwd: Blackswift Technologies Potential Tour** (Jun 2 11:39:18 -0600, SENT) — Tour coordination; involved in visitor logistics
-- **Pattern:** Operational support; tour logistics.
-
-**Paige Smith** (paige.smith@blackswifttech.com) — Finance/Operations
-- **June 2–3 escalations (CONTINUED):**
-  - **KrateoSky Visit coordination** (Jun 2 14:31:31 -0600, SENT) — Forwarded AUVSI sponsorship opportunity
-  - **Fwd: CANCELLED – June DOI Monthly UxS Conference Call** (Jun 2 13:29:31 -0600, SENT) — Government call coordination
-  - **Invoice from EchoBlue** (Jun 2 11:23:40 -0600, IMPORTANT) — Vendor invoice escalation
-- **Pattern:** Finance/operations coordination; government call routing.
-
----
-
-### Top External Contacts
-
-#### **Legal & Financial (M&A / Corporate) — SUSTAINED HEAVY ACTIVITY**
-
-**Ryan Sykora** (rsykora@kofirm.com) — Ko Firm, Legal Counsel
-- **June 2–3 escalations (CONTINUED):**
-  - **RE: Running Tab** (Jun 2 20:19:36 +0000, IMPORTANT) — Fee/billing coordination
-  - **Re: Running Tab** (Jun 2 14:27:29 -0600 & 14:27:57 -0600, SENT) — Jack's multiple responses to fee/billing
-  - **Running Tab** (Jun 2 14:13:37
+**Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, HR, vendor management
+- **June 3–4 escalations (CONTINUED):**
+  - **Re: Your order from Moe's Broadway Bagel** (Jun 3 14:07:28 -0600, SENT) — Personal note
+  - **Re: MHP data alignment** (Jun 3 14:10:30 -0600, IMPORTANT) — To Tanay Topac (Stanford); data coordination (Jack involved indirectly)
+  - **Re: Black Swift R&D Credit — document and records request** (Jun 3 12:32:09 -0600, SENT) — Jack's multi-party R&D records request to Thierry Lepoutre
+  - **Re: BST Tax Issues - Need Help** (Jun 3 13:03:32 -0600, IMPORTANT) —

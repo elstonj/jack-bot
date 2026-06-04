@@ -48,11 +48,10 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "UK ARIA-funded autonomous long-endurance UAS project for Greenland ice sheet melt monitoring. 2027 UK shakedown, 2028 Greenland deployment. LDCR with L-band may satisfy mission; S3 integration under consideration. Kept due to substantive engagement: Slack summaries through 2026-05-20 and active technical email thread with Eryan Dai / Weather Stream on NEDT/RFI mitigation (Jan 2026). Receive_by 2026-05-15 has passed; follow-up needed on revised delivery milestone and progression to formal invoice.",
+  "notes": "UK ARIA-funded autonomous long-endurance UAS project for Greenland ice sheet melt monitoring. 2027 UK shakedown, 2028 Greenland deployment. LDCR with L-band may satisfy mission; S3 integration under consideration. Kept due to substantive recent engagement: Slack summaries 2026-05-18 through 2026-05-20 and active technical email thread with Eryan Dai (Weather Stream) on NEDT/RFI mitigation dated 2026-01-21. Receive_by 2026-05-15 is now past due; follow-up needed on revised delivery milestone and progression to formal invoice.",
   "missing_fields": [
     "ship_to",
     "estimate_date",
-    "receive_by",
     "invoice_amount"
   ],
   "last_evidence_date": "2026-05-28",
