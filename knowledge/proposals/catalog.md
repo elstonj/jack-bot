@@ -2,97 +2,138 @@
 
 ## By Product/System
 
-### S0 (Backpackable UAS)
-- **2026-06-03 Progress Report CLIN 006** – Department of the Navy, June 3, 2026 – Progress update on expendable air-sea profiling observations in hazardous weather conditions. (2026-06-03_progress_report_clin_006.md)
-- **Runtime Assured Autonomy for Distributed, Hot-Updateable MOSA-Compliant Avionics Fabric** – U.S. Air Force Research Laboratory, June 2, 2026 – SBIR Phase I technical proposal for runtime assured autonomy across backpackable, air-deployed, and long-range VTOL systems. (bst_volume_2_technical_volumepdf.md)
+### S0 (Uncrewed Aircraft System)
+- **Expendable Air-sea Profiling Observations in Hazardous Weather Conditions** – Navy STTR Progress Report | June 3, 2026 | Phase I option period deliverable covering hazardous weather operations (n6833525c0270clin006progressreportpdf.md)
+- **2026-06-03 Progress Report CLIN 006** – Navy STTR | June 3, 2026 | Progress report on S0 platform development for air-sea profiling (2026-06-03_progress_report_clin_006.md)
+- **S3-EW: A Modular Payload Vehicle for Agile Electronic Warfare Swarms** – Air Force SBIR Phase I Technical Volume | 2026 | References S0 as baseline platform (daf_agile_ew_technical_volume_template_v2.md)
 
-### S2
-- **S3-EW: A Modular Payload Vehicle for Agile Electronic Warfare Swarms** – Department of the Air Force, May 26, 2026 (draft) – SBIR Phase I technical volume describing modular payload vehicle with VTOL ground launch capabilities. (daf_agile_ew_technical_volume_template_v2.md)
+### S2 (Aircraft Platform)
+- **S3-EW: A Modular Payload Vehicle for Agile Electronic Warfare Swarms** – Air Force SBIR Phase I Technical Volume | 2026 | References S2 capabilities (daf_agile_ew_technical_volume_template_v2.md)
 
-### S3 / S3-EW (Electronic Warfare Platform)
-- **S3-EW: A Modular Payload Vehicle for Agile Electronic Warfare Swarms** – Department of the Air Force, May 26, 2026 (draft) – SBIR Phase I technical volume for modular EW swarm platform with confined terrain launch. (daf_agile_ew_technical_volume_template_v2.md)
-- **SkyMesa Systems Letter of Commitment for S3-EW SBIR Phase I** – U.S. Department of the Air Force, June 2, 2026 – Subcontractor commitment letter from SkyMesa Systems for S3-EW integration. (skymesa_loc_daf26bz01_nv003_blackswiftpdf.md)
-- **EW Data Assertions** – U.S. Department of Air Force, June 2, 2026 – Data rights assertion and IP protection for S3/S3-EW platform. (ew_data_assertionspdf.md)
+### S3 (Advanced Platform)
+- **S3-EW SBIR Phase I Proposal Submission Confirmation** – Air Force SBIR | June 3, 2026 | Electronic Warfare swarms with VTOL ground launch (dsip_defense_sbir_sttr_innovation_portal_proposal_submission_confirmationpdf.md)
+- **DSIP Proposal Certification Confirmation** – Air Force SBIR/STTR | June 3, 2026 | Certification confirmation for S3 proposal (dsip_defense_sbir_sttr_innovation_portal_proposal_certification_confirmationpdf.md)
+- **S3-EW: A Modular Payload Vehicle for Agile Electronic Warfare Swarms (BST Volume 2)** – Air Force SBIR Phase I Technical Narrative | 2026 | Detailed technical proposal for S3-EW platform (bst_volume_2_technical_narrativepdf.md)
+- **DAF Agile EW Technical Volume Template v2** – Air Force SBIR Phase I | 2026-05-26 | Complete technical specification for S3-EW system (daf_agile_ew_technical_volume_template_v2.md)
 
-### SwiftCore (Flight Management System / Autopilot)
-- **S3-EW: A Modular Payload Vehicle for Agile Electronic Warfare Swarms** – Department of the Air Force, May 26, 2026 (draft) – SBIR Phase I technical volume featuring SwiftCore autopilot. (daf_agile_ew_technical_volume_template_v2.md)
-- **ECS-DoT UAS Integration and Validation** – EMASS (Nanoveu), November 5, 2025 – Proposal for E2 Quadcopter integration with SwiftCore autopilot for edge AI system-on-chip applications. (emass_proposal.md)
-- **SkyMesa Systems Letter of Commitment for S3-EW SBIR Phase I** – U.S. Department of the Air Force, June 2, 2026 – References SwiftCore and modular payload interface integration. (skymesa_loc_daf26bz01_nv003_blackswiftpdf.md)
-- **EW Data Assertions** – U.S. Department of Air Force, June 2, 2026 – Data rights for SwiftCore Flight Management System and WASM static validator. (ew_data_assertionspdf.md)
-- **Data Assertions - DAF Agile EW Proposal** – U.S. Air Force, May 29, 2026 – IP rights declaration for SwiftCore Flight Management System. (data_assertions.md)
+### S3-EW (Electronic Warfare Configuration)
+- **S3-EW: A Modular Payload Vehicle for Agile Electronic Warfare Swarms** – Air Force SBIR Phase I | June 3, 2026 | Modular EW payload vehicle with VTOL ground launch capability (dsip_defense_sbir_sttr_innovation_portal_proposal_submission_confirmationpdf.md)
+- **S3-EW SBIR Phase I Technical Narrative** – Air Force SBIR | 2026 | Technical proposal detailing modular payload architecture (bst_volume_2_technical_narrativepdf.md)
+- **S3-EW Technical Volume Template** – Air Force SBIR Phase I | 2026-05-26 | Full technical specification document (daf_agile_ew_technical_volume_template_v2.md)
+
+### E2 (UAS Platform)
+- **ECS-DoT UAS Integration and Validation** – EMASS/Nanoveu | November 5, 2025 | Four-phase integration of E2 quadcopter with SwiftCore autopilot (emass_proposal.md)
+- **ECS-DoT UAS Integration and Validation (Addendum)** – EMASS/Nanoveu | November 5, 2025 (revised June 3, 2026) | Phase 4 revision splitting work scope (emass_proposal_addendum.md)
+
+### SwiftCore (Autopilot)
+- **ECS-DoT UAS Integration and Validation** – EMASS/Nanoveu | November 5, 2025 | SwiftCore autopilot integration with E2 platform (emass_proposal.md)
 
 ### SwiftPilot™
-- **S3-EW: A Modular Payload Vehicle for Agile Electronic Warfare Swarms** – Department of the Air Force, May 26, 2026 (draft) – SBIR Phase I technical volume referencing SwiftPilot ground control interface. (daf_agile_ew_technical_volume_template_v2.md)
+- **DAF Agile EW Technical Volume Template v2** – Air Force SBIR Phase I | 2026-05-26 | References SwiftPilot™ capabilities (daf_agile_ew_technical_volume_template_v2.md)
 
 ### SwiftTab™
-- **S3-EW: A Modular Payload Vehicle for Agile Electronic Warfare Swarms** – Department of the Air Force, May 26, 2026 (draft) – SBIR Phase I technical volume referencing SwiftTab interface. (daf_agile_ew_technical_volume_template_v2.md)
+- **DAF Agile EW Technical Volume Template v2** – Air Force SBIR Phase I | 2026-05-26 | References SwiftTab™ ground control interface (daf_agile_ew_technical_volume_template_v2.md)
 
 ### SwiftStation™
-- **S3-EW: A Modular Payload Vehicle for Agile Electronic Warfare Swarms** – Department of the Air Force, May 26, 2026 (draft) – SBIR Phase I technical volume referencing SwiftStation ground infrastructure. (daf_agile_ew_technical_volume_template_v2.md)
-
-### E2 Quadcopter
-- **ECS-DoT UAS Integration and Validation** – EMASS (Nanoveu), November 5, 2025 – Proposal for E2 Quadcopter platform integration with SwiftCore autopilot. (emass_proposal.md)
-
-## By Client/Agency
-
-### U.S. Department of the Air Force (DAF)
-- **S3-EW: A Modular Payload Vehicle for Agile Electronic Warfare Swarms** – May 26, 2026 (draft) – SBIR Phase I technical volume (DAF26BZ01-NV003). (daf_agile_ew_technical_volume_template_v2.md)
-- **SkyMesa Systems Letter of Commitment for S3-EW SBIR Phase I** – June 2, 2026 – Subcontractor agreement for S3-EW development. (skymesa_loc_daf26bz01_nv003_blackswiftpdf.md)
-- **EW Data Assertions** – June 2, 2026 – IP rights assertion for DAF26BZ01-NV003 program. (ew_data_assertionspdf.md)
-- **Data Assertions - DAF Agile EW Proposal** – May 29, 2026 – IP rights declaration for NV008 topic proposal. (data_assertions.md)
-
-### U.S. Air Force Research Laboratory (AFRL)
-- **Runtime Assured Autonomy for Distributed, Hot-Updateable MOSA-Compliant Avionics Fabric** – June 2, 2026 – SBIR Phase I technical proposal for Runtime Assured Autonomy (DSIP Topic DAF26BZ01-NV008). (bst_volume_2_technical_volumepdf.md)
-
-### Department of the Navy
-- **2026-06-03 Progress Report CLIN 006** – June 3, 2026 – Phase I Option progress report on expendable air-sea profiling observations (BAA topic N25A-T025). (2026-06-03_progress_report_clin_006.md)
-
-### EMASS (Nanoveu)
-- **ECS-DoT UAS Integration and Validation** – November 5, 2025 – Proposal for E2 Quadcopter and SwiftCore integration for edge AI applications. (emass_proposal.md)
-
-### Department of Defense (DoD) - General
-- **Runtime Assured Autonomy Technical Volume Template** – May 8, 2026 – Blank template for SBIR/STTR Phase I proposals. (runtime_assured_autonomy_technical_volume_template.md)
-
-## By Application Area
-
-### Electronic Warfare (EW) / Agile EW Swarms
-- **S3-EW: A Modular Payload Vehicle for Agile Electronic Warfare Swarms** – Department of the Air Force, May 26, 2026 – SBIR Phase I for modular EW payload platform with VTOL ground launch. (daf_agile_ew_technical_volume_template_v2.md)
-- **SkyMesa Systems Letter of Commitment for S3-EW SBIR Phase I** – U.S. Department of the Air Force, June 2, 2026 – Subcontractor integration commitment. (skymesa_loc_daf26bz01_nv003_blackswiftpdf.md)
-- **EW Data Assertions** – U.S. Department of Air Force, June 2, 2026 – Data rights protection for EW platform. (ew_data_assertionspdf.md)
-
-### Air-Sea Profiling / Oceanographic Observations
-- **2026-06-03 Progress Report CLIN 006** – Department of the Navy, June 3, 2026 – Progress on expendable air-sea profiling observations in hazardous weather. (2026-06-03_progress_report_clin_006.md)
-
-### Runtime Assured Autonomy (RTAA)
-- **Runtime Assured Autonomy for Distributed, Hot-Updateable MOSA-Compliant Avionics Fabric** – U.S. Air Force Research Laboratory, June 2, 2026 – SBIR Phase I technical proposal for autonomous flight management systems. (bst_volume_2_technical_volumepdf.md)
-- **Data Assertions - DAF Agile EW Proposal** – U.S. Air Force, May 29, 2026 – IP rights for RTAA-related components. (data_assertions.md)
-- **Runtime Assured Autonomy Technical Volume Template** – May 8, 2026 – Proposal template for RTAA-related SBIR submissions. (runtime_assured_autonomy_technical_volume_template.md)
-
-### Edge AI / System-on-Chip Integration
-- **ECS-DoT UAS Integration and Validation** – EMASS (Nanoveu), November 5, 2025 – Proposal for E2 Quadcopter edge AI integration. (emass_proposal.md)
-
-## By Document Type
-
-### SBIR/STTR Phase I Technical Proposals (Volume 2)
-- **S3-EW: A Modular Payload Vehicle for Agile Electronic Warfare Swarms** – Department of the Air Force, May 26, 2026 – Technical volume for Agile EW topic. (daf_agile_ew_technical_volume_template_v2.md)
-- **Runtime Assured Autonomy for Distributed, Hot-Updateable MOSA-Compliant Avionics Fabric** – U.S. Air Force Research Laboratory, June 2, 2026 – Technical volume for Runtime Assured Autonomy topic. (bst_volume_2_technical_volumepdf.md)
-
-### Progress Reports
-- **2026-06-03 Progress Report CLIN 006** – Department of the Navy, June 3, 2026 – Phase I Option progress report covering March 20 – June 3, 2026. (2026-06-03_progress_report_clin_006.md)
-
-### Letters of Commitment / Subcontractor Agreements
-- **SkyMesa Systems Letter of Commitment for S3-EW SBIR Phase I** – U.S. Department of the Air Force, June 2, 2026 – Commitment letter from SkyMesa Systems for S3-EW integration. (skymesa_loc_daf26bz01_nv003_blackswiftpdf.md)
-
-### Data Assertions / IP Rights Documents
-- **EW Data Assertions** – U.S. Department of Air Force, June 2, 2026 – Formal IP restrictions and data rights assertions. (ew_data_assertionspdf.md)
-- **Data Assertions - DAF Agile EW Proposal** – U.S. Air Force, May 29, 2026 – IP rights declaration for proposal components. (data_assertions.md)
-
-### Proposals / Statements of Work
-- **ECS-DoT UAS Integration and Validation** – EMASS (Nanoveu), November 5, 2025 – Proposal for UAS platform integration and validation. (emass_proposal.md)
-
-### Templates
-- **Runtime Assured Autonomy Technical Volume Template** – Department of Defense, May 8, 2026 – Blank SBIR/STTR Phase I technical proposal template. (runtime_assured_autonomy_technical_volume_template.md)
+- **DAF Agile EW Technical Volume Template v2** – Air Force SBIR Phase I | 2026-05-26 | References SwiftStation™ mission planning system (daf_agile_ew_technical_volume_template_v2.md)
 
 ---
 
-**Total Documents Cataloged:** 9 unique documents across 4 primary product systems, 4 client agencies, 4 application areas, and 6 document types.
+## By Client/Agency
+
+### Department of the Navy / Office of Naval Research (ONR)
+- **Expendable Air-sea Profiling Observations in Hazardous Weather Conditions** – Navy SBIR/STTR Progress Report | June 3, 2026 | Phase I option period covering March 20–June 3, 2026 (n6833525c0270clin006progressreportpdf.md)
+- **2026-06-03 Progress Report CLIN 006** – Navy SBIR/STTR | June 3, 2026 | Progress report for hazardous weather air-sea profiling (2026-06-03_progress_report_clin_006.md)
+- **N6833525C0270 Invoice 1767** – Navy STTR Billing Document | June 3, 2026 | Invoice for CLIN 0006 progress report deliverable (n6833525c0270invoice1767pdf.md)
+
+### EMASS (Nanoveu)
+- **ECS-DoT UAS Integration and Validation** – EMASS/Nanoveu Proposal | November 5, 2025 | Four-phase E2/SwiftCore integration project (emass_proposal.md)
+- **ECS-DoT UAS Integration and Validation (Addendum)** – EMASS/Nanoveu Proposal Addendum | November 5, 2025 (revised June 3, 2026) | Phase 4 revision and work scope splitting (emass_proposal_addendum.md)
+
+### NOAA (National Oceanic and Atmospheric Administration)
+- **NOAA Phase I SBIR Proposal - Black Swift Technologies** – NOAA SBIR Phase I Final Decision | 2026 | Proposal 5095576 final decision document (black_swift_technologies_llc_5095576_proposal_final_decision_2pdf.md)
+
+### Department of Defense (DoD) / U.S. Air Force
+- **S3-EW SBIR Phase I Proposal Submission Confirmation** – Air Force SBIR | June 3, 2026 | Proposal F26BZ-NV003-0062 submission confirmation (dsip_defense_sbir_sttr_innovation_portal_proposal_submission_confirmationpdf.md)
+- **DSIP Proposal Certification Confirmation** – Air Force SBIR/STTR | June 3, 2026 | Official certification for S3-EW proposal (dsip_defense_sbir_sttr_innovation_portal_proposal_certification_confirmationpdf.md)
+- **S3-EW: A Modular Payload Vehicle for Agile Electronic Warfare Swarms (BST Volume 2)** – Air Force SBIR Phase I | 2026 | Technical narrative for EW swarm platform (bst_volume_2_technical_narrativepdf.md)
+- **DAF Agile EW Technical Volume Template v2** – Air Force SBIR Phase I | 2026-05-26 | Complete technical specification for S3-EW (daf_agile_ew_technical_volume_template_v2.md)
+
+---
+
+## By Application Area
+
+### Electronic Warfare (EW) / Military Swarms
+- **S3-EW SBIR Phase I Proposal Submission Confirmation** – Air Force SBIR | June 3, 2026 | Modular payload vehicle for agile EW swarms with VTOL ground launch (dsip_defense_sbir_sttr_innovation_portal_proposal_submission_confirmationpdf.md)
+- **DSIP Proposal Certification Confirmation** – Air Force SBIR/STTR | June 3, 2026 | Certification for S3-EW EW platform (dsip_defense_sbir_sttr_innovation_portal_proposal_certification_confirmationpdf.md)
+- **S3-EW: A Modular Payload Vehicle for Agile Electronic Warfare Swarms (BST Volume 2)** – Air Force SBIR Phase I | 2026 | Technical narrative detailing EW swarm capabilities (bst_volume_2_technical_narrativepdf.md)
+- **DAF Agile EW Technical Volume Template v2** – Air Force SBIR Phase I | 2026-05-26 | Technical specification for confined terrain VTOL launch and EW swarm operations (daf_agile_ew_technical_volume_template_v2.md)
+
+### Hazardous Weather Operations / Air-Sea Profiling
+- **Expendable Air-sea Profiling Observations in Hazardous Weather Conditions** – Navy STTR Progress Report | June 3, 2026 | S0 platform development for hurricane/severe weather operations (n6833525c0270clin006progressreportpdf.md)
+- **2026-06-03 Progress Report CLIN 006** – Navy STTR | June 3, 2026 | Air-sea profiling observations in extreme weather conditions (2026-06-03_progress_report_clin_006.md)
+
+### Edge Computing / AI Integration
+- **ECS-DoT UAS Integration and Validation** – EMASS/Nanoveu | November 5, 2025 | Integration of E2 platform with Edge Computing System-on-Chip (emass_proposal.md)
+- **ECS-DoT UAS Integration and Validation (Addendum)** – EMASS/Nanoveu | November 5, 2025 (revised June 3, 2026) | Phase 4 work scope revision for ECS integration (emass_proposal_addendum.md)
+
+### Ocean / Atmospheric Science
+- **NOAA Phase I SBIR Proposal - Black Swift Technologies** – NOAA SBIR Phase I | 2026 | SBIR proposal 5095576 for ocean/atmospheric applications (black_swift_technologies_llc_5095576_proposal_final_decision_2pdf.md)
+
+---
+
+## By Document Type
+
+### Proposals (Full)
+- **ECS-DoT UAS Integration and Validation** – EMASS/Nanoveu Proposal | November 5, 2025 | Statement of Work for four-phase E2/SwiftCore integration (emass_proposal.md)
+- **S3-EW: A Modular Payload Vehicle for Agile Electronic Warfare Swarms (BST Volume 2)** – Air Force SBIR Phase I Technical Narrative | 2026 | Complete technical proposal for S3-EW (bst_volume_2_technical_narrativepdf.md)
+- **DAF Agile EW Technical Volume Template v2** – Air Force SBIR Phase I Technical Volume | 2026-05-26 | Full technical specification document (daf_agile_ew_technical_volume_template_v2.md)
+
+### Proposal Addenda / Amendments
+- **ECS-DoT UAS Integration and Validation (Addendum)** – EMASS/Nanoveu Proposal Addendum | November 5, 2025 (revised June 3, 2026) | Phase 4 revision splitting work scope (emass_proposal_addendum.md)
+
+### Proposal Decision / Award Documents
+- **NOAA Phase I SBIR Proposal - Black Swift Technologies** – NOAA SBIR Phase I Final Decision | 2026 | Proposal 5095576 final decision document (black_swift_technologies_llc_5095576_proposal_final_decision_2pdf.md)
+
+### Proposal Submission Confirmations
+- **S3-EW SBIR Phase I Proposal Submission Confirmation** – Air Force SBIR | June 3, 2026 | Official submission confirmation for proposal F26BZ-NV003-0062 (dsip_defense_sbir_sttr_innovation_portal_proposal_submission_confirmationpdf.md)
+- **DSIP Proposal Certification Confirmation** – Air Force SBIR/STTR | June 3, 2026 | Certification confirmation email (dsip_defense_sbir_sttr_innovation_portal_proposal_certification_confirmationpdf.md)
+
+### Progress Reports
+- **Expendable Air-sea Profiling Observations in Hazardous Weather Conditions** – Navy SBIR/STTR Progress Report | June 3, 2026 | Phase I option period progress report (n6833525c0270clin006progressreportpdf.md)
+- **2026-06-03 Progress Report CLIN 006** – Navy SBIR/STTR Progress Report | June 3, 2026 | Detailed progress covering March 20–June 3, 2026 (2026-06-03_progress_report_clin_006.md)
+
+### Invoices / Billing Documents
+- **N6833525C0270 Invoice 1767** – Navy STTR Invoice | June 3, 2026 | Billing document for CLIN 0006 progress report deliverable (n6833525c0270invoice1767pdf.md)
+
+---
+
+## By Document Date
+
+### June 3, 2026
+- **2026-06-03 Progress Report CLIN 006** – Navy STTR Progress Report (2026-06-03_progress_report_clin_006.md)
+- **N6833525C0270 Invoice 1767** – Navy STTR Invoice (n6833525c0270invoice1767pdf.md)
+- **Expendable Air-sea Profiling Observations in Hazardous Weather Conditions** – Navy STTR Progress Report (n6833525c0270clin006progressreportpdf.md)
+- **S3-EW SBIR Phase I Proposal Submission Confirmation** – Air Force SBIR (dsip_defense_sbir_sttr_innovation_portal_proposal_submission_confirmationpdf.md)
+- **DSIP Proposal Certification Confirmation** – Air Force SBIR/STTR (dsip_defense_sbir_sttr_innovation_portal_proposal_certification_confirmationpdf.md)
+- **ECS-DoT UAS Integration and Validation (Addendum)** – EMASS/Nanoveu (revised date) (emass_proposal_addendum.md)
+
+### November 5, 2025
+- **ECS-DoT UAS Integration and Validation** – EMASS/Nanoveu Proposal (emass_proposal.md)
+
+### May 26, 2026
+- **DAF Agile EW Technical Volume Template v2** – Air Force SBIR Phase I (daf_agile_ew_technical_volume_template_v2.md)
+
+### 2026 (Undated)
+- **S3-EW: A Modular Payload Vehicle for Agile Electronic Warfare Swarms (BST Volume 2)** – Air Force SBIR Phase I (bst_volume_2_technical_narrativepdf.md)
+- **NOAA Phase I SBIR Proposal - Black Swift Technologies** – NOAA SBIR Phase I Final Decision (black_swift_technologies_llc_5095576_proposal_final_decision_2pdf.md)
+
+---
+
+## Summary Statistics
+- **Total Documents:** 11
+- **Total Proposals:** 5 (including 1 addendum)
+- **Total Reports:** 2 (progress reports)
+- **Total Government Confirmations:** 2 (submission & certification)
+- **Total Administrative:** 1 (invoice)
+- **

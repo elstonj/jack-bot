@@ -4,13 +4,16 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-06-02",
-    "end": "2026-06-03"
+    "start": "2026-06-03",
+    "end": "2026-06-04"
   },
   "totals": {
     "revenue": 144000.0,
-    "expenses": 0.0,
-    "by_category": {}
+    "expenses": 131.74,
+    "by_category": {
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 93.17,
+      "DIRECT COSTS:DC-Direct Material Purchases": 38.57
+    }
   },
   "invoices": [
     {
@@ -61,7 +64,44 @@
     }
   ],
   "bills": [],
-  "purchases": [],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-06-18",
+      "doc_number": "260531W011484",
+      "total": 93.17,
+      "attributed": 93.17,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 93.17,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Phase1 Aviation shipment for IDIQ (S0 wings)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-03",
+      "doc_number": "99597405",
+      "total": 38.57,
+      "attributed": 38.57,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 38.57,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "DKC*DIGI KEY CORP - 4617"
+        }
+      ]
+    }
+  ],
   "purchase_orders": [],
   "payments": []
 }

@@ -5,7 +5,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination), Paige Smith (admin), Ethan Domagala (project coordination), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,430+ messages across multiple batches spanning from July 2020 through June 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through June 2026 with project refinements, AI assistant integration, NDAA compliance discussions, operational coordination, formalized post-flight reporting processes, S0 production planning, and payload modifications.
+**Activity level:** High-volume channel with 3,430+ messages across multiple batches spanning from July 2020 through June 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through June 2026 with project refinements, AI assistant integration, NDAA compliance discussions, operational coordination, formalized post-flight reporting processes, S0 production planning, payload modifications, and organizational structure refinements.
 
 ---
 
@@ -14,12 +14,13 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 ### Office & Facilities
 - **July 20, 2020:** Completed office relocation. Jack Elston coordinated with landlord. New facility includes solder station, vacuum dust management system, and industrial curtain dividers for clean/dirty room separation (divider delayed ~1 month due to COVID).
 - **May 16-17, 2023:** New office lighting installation scheduled and executed.
-- **August 2023:** Alex installed garage door seal for improved weatherproking.
+- **August 2023:** Alex installed garage door seal for improved weatherproofing.
 
 ### Personnel & Management
 - **June 2, 2023:** James Hannon hired as new Project Manager to address task overload and process improvements.
 - **June 6, 2023:** Jack Elston issued formal travel policy requiring Rippling approval for any leave longer than one day, citing multiple simultaneous absences by S1/S0 build team in May causing project delays.
 - **May 21, 2026:** Jack Elston implementing reminder system for PTO requests in Rippling, tracking current requests (Jack, Meredith, Nate confirmed; Alex anticipated for birthday).
+- **June 3, 2026:** Jack Elston presented draft organizational chart for team review and refinement. Beck Cotter assigned to coordinate feedback on job descriptions via Slack/email. Career path discussions directed to Jack Elston.
 
 ### Equipment Procurement
 - **December 2023:** Drill press acquisition decision pending. Joshua Fromm researching floor-mounted options (Nova 58000 Voyager, Grizzly models) with ~$500+ budget needed for tooling. Jack Elston requested spreadsheet comparison for budget approval.
@@ -72,12 +73,4 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 ### NDAA Compliance (April 17, 2026)
 **Status Assessment:**
-- **S0-VTOL, S0-AD, E2:** Can be made NDAA compliant; self-certification process (no formal federal certification required)
-- **S3:** No electronics with final assembly in China
-
----
-
-## Projects & Initiatives
-
-### Murphys Pond Payload Modification (June 2, 2026)
-**
+- **S0-VTOL, S0-AD, E2:** Can be made ND

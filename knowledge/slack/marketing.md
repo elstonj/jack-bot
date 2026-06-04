@@ -3,9 +3,9 @@
 ## Overview
 The #marketing channel is the central hub for Black Swift Technologies' marketing strategy, content development, and external communications. It covers website content management, collateral creation, press releases, social media, and promotional campaigns. The channel shows active collaboration between marketing, product, and leadership teams.
 
-**Key participants:** Jack Elston (leadership/strategy), Parker Vollmer (marketing), Sophia Henkels (content/web), Paige Smith (marketing), Alex Lomis (video/technical), Beck Cotter, Kareem, Dan Prendergast, Maciej, Brody Basset (external contact - US Commercial Service), Rob (external contact - CBS), WeatherNation (external contact - media partner)
+**Key participants:** Jack Elston (leadership/strategy), Parker Vollmer (marketing), Sophia Henkels (content/web), Paige Smith (marketing), Alex Lomis (video/technical), Beck Cotter, Kareem, Dan Prendergast, Maciej, Brody Basset (external contact - US Commercial Service), Rob Marciano (external contact - media/video producer), WeatherNation (external contact - media partner)
 
-**Activity level:** High frequency discussions across June 2024-May 2026 period, with multiple concurrent projects in various stages. Recent activity shows active media partnership outreach.
+**Activity level:** High frequency discussions across June 2024-June 2026 period, with multiple concurrent projects in various stages. Recent activity (June 2026) shows successful media coverage coordination for hurricane hunter drone technology.
 
 ---
 
@@ -120,4 +120,4 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 - Paige Smith created two versions (with and without captions) of S0 VTOL Wildfire Visualizer content
 - **Jack's feedback on text corrections needed:**
   - Change "accelerating at over 100mph" to **"capable of sprinting at over 100mph"**
-  - Change reference to **"The NightFOX payload"** to **"Onboard thermal sensors penetrate"** (remove specific payload reference)
+  - Change reference to **"The NightFOX payload"** to **

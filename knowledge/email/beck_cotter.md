@@ -1,60 +1,62 @@
 # Beck Cotter — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 226 (185 prior + 41 new)
+- **Total messages scanned:** 260 (226 prior + 34 new)
 - **Date range covered:** 24 May 2026 – 3 Jun 2026
-- **Volume pattern:** Extreme intensity sustained through 3 Jun; late-night/early-morning Google Docs collaboration spike (23:54–00:29 2–3 Jun on DAF Agile EW); 2 Jun shows 28 messages across 7 parallel streams (budget negotiation, proposal reviews, partnership coordination, vendor engagement, event planning); critical decision cycle across 4+ concurrent government/commercial proposals
+- **Volume pattern:** Sustained extreme intensity through 3 Jun; 3 Jun shows 34 messages across proposal finalization, Navy contract updates, Arctic Edge 2027 briefing, and NAVAIR topic release response; multiple concurrent government decision cycles reaching critical gates simultaneously
 
 ## Key Correspondents
 
 ### Senders (who emails Beck most)
-- **Jack Elston** (elstonj@blackswifttech.com / Google Docs) — **35+ messages cumulative** (now 8 new Google Docs notifications on DAF Agile EW Technical_Volume_Template v2 2–3 Jun, plus direct emails on Merlin Mk2/US Navy SBIR, Updates, and UASweekly routing; escalating collaborative intensity; morning/late-night engagement pattern indicates proposal finalization cycle)
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com / Google Docs) — **11+ messages cumulative** (2 new: DAF Agile EW @arthur@skymesasystems.com mention 2 Jun 16:36; Runtime Assured Autonomy proposal instructions comment 2 Jun 09:08; direct technical validation mode active)
-- **Arthur Shune** (arthur@skymesasystems.com) — **10+ messages cumulative** (5 new exchanges on Phase I budget 2 Jun: 11:30, 13:15, 15:03, 15:06, 21:00; marked IMPORTANT; direct back-and-forth indicates final cost/scope negotiation; same-day 9-hour engagement window suggests proposal submission imminent)
-- **Charu Ganesh** (cganesh@kofirm.com) — **NEW escalation** (3 messages 2 Jun 16:22–21:27; marked IMPORTANT; "Re: Updates" indicates ongoing external advisor/consultant engagement; Beck, Jack Elston cc'd; time zone pattern suggests UK/international coordination)
-- **Ariel Avitan** (Ariel@krateosky.com) — **NEW contact** (KrateoSky partnership visit coordination 2 Jun 13:23–19:34; marked IMPORTANT; Jack Elston initiated, 8 recipients including Beck; strategic vendor/partner site visit; Adria Passola (krateosky) also copied indicating bilateral engagement)
-- **Brackenridge, Alasdair** (alasdair.brackenridge@global.lmco.com) — **8+ messages cumulative** (2 new: Cyber Essentials documentation 2 Jun 10:17, 14:57; marked IMPORTANT; LM supplier compliance process active)
-- **"Fc-LMUK,SupplierDBase"** (supplierdbase.fc-lmuk@global.lmco.com) — **NEW formal contact** (Cyber Essentials documentation response 2 Jun 10:13; marked IMPORTANT; Lockheed Martin formal supplier database engagement; compliance certification tracking)
+- **Jack Elston** (elstonj@blackswifttech.com) — **43+ messages cumulative** (8 new 3 Jun: Google Docs Quality Management Plan share 18:46; reconnection invitation with J. Xavier Prochaska/Daniel Prendergast 20:54; multiple "Updates" thread responses; NAVAIR Pre-Release forward 14:28; escalating proposal finalization intensity)
+- **Joshua H. Cossuth** (joshua.h.cossuth.civ@us.navy.mil) — **NEW Navy decision-maker** (4 new messages 3 Jun 16:15–23:31; marked IMPORTANT; N68335-25-C-0270 BST Phase I Mid-Option progress update 23:31; update meeting coordination with Maciej Stachura; active contract management engagement)
+- **Charu Ganesh** (cganesh@kofirm.com) — **4+ messages cumulative** (2 new 3 Jun 21:48; marked IMPORTANT; continuing "Updates" advisor coordination with Ryan Sykora/Jack Elston; time zone evidence suggests UK/Europe-based)
+- **Sanchez, Emilly** (emilly.sanchez.ctr@us.navy.mil) — **NEW Navy contact** (2 messages 3 Jun 08:44, 15:22; marked IMPORTANT; Black Swift Technologies STTR Phase II Cost Proposal (N25A-T025) response; active proposal review)
+- **Brackenridge, Alasdair** (alasdair.brackenridge@global.lmco.com) — **9+ messages cumulative** (1 new 3 Jun 12:51; marked IMPORTANT; Cyber Essentials documentation follow-up; LM supplier certification ongoing)
+- **Patricia Vollmer** (vollmerdp@gmail.com) — **Google Docs Arctic Edge 2027 briefing note share** (2 messages 3 Jun 21:49, 16:07; marked IMPORTANT; "AE27 discussion BST/NORTHCOM - 2026/06/03 14:29 MDT - Notes by Gemini"; scheduled briefing notes sharing post-meeting; NORAD-USNC decision gate confirmed)
+- **Maciej Stachura** (stachura@blackswifttech.com) — **3 new 3 Jun**: Google Docs progress report comments 08:44, 11:20; update meeting coordination with Cossuth 09:55, 14:39; internal/Navy contract manager
+- **J. Xavier Prochaska** (jxp@ucsc.edu) — **NEW external academic contact** (4 messages 3 Jun 13:13–20:54; marked IMPORTANT; "Reconnecting" meeting invitation Thu Jun 11 1:30–2pm MDT with Jack Elston, Beck Cotter, Daniel Prendergast; UC Santa Cruz affiliation)
+- **Ryan Sykora** (rsykora@kofirm.com) — **2 new 3 Jun 17:58, 20:16**; marked IMPORTANT; "Updates" thread coordination with Charu Ganesh/Jack Elston; external advisor/consultant)
 
 ### Recipients (who Beck emails most)
-- **Arthur Shune (SkyMesa Systems)** — 5 sent (Phase I budget negotiation; 2 Jun 11:30, 13:15, 15:03, 15:06; previous 2 from 1 Jun)
-- **Jack Elston** (elstonj@blackswifttech.com) — 2 sent (Updates 2 Jun 11:11; UASweekly forwarding 2 Jun 15:32)
-- **Alasdair Brackenridge (LM UK)** — 1 sent (Cyber Essentials documentation 2 Jun 14:57)
-- **Charu Ganesh** (cganesh@kofirm.com) — 1 sent (Updates 2 Jun 16:22)
-- **Paige Smith, Maciej Stachura** — 1 joint forward (UASweekly Daily Newsletter 2 Jun 15:32)
+- **Patricia Vollmer (NORAD/Arctic Edge 2027)** — 1 sent (Google Docs share response 3 Jun 16:07; post-briefing coordination)
+- **Sanchez, Emilly (US Navy)** — 1 sent (STTR Phase II Cost Proposal response 3 Jun 09:46)
+- **Jack Elston** — 1 sent (NAVAIR Pre-Release response 3 Jun 14:29)
 
 ### Internal vs External
 
-**Internal (High Coordination):**
-- Jack Elston (35+ messages; escalating proposal review cadence)
-- Daniel Prendergast (11+ messages; DAF Agile EW + Runtime Assured Autonomy technical validation)
-- Joshua Fromm (Merlin Mk2/US Navy SBIR coordination; 2 Jun messages with MOD UK contact)
-- Maciej Stachura (Arctic Edge, NE27, KrateoSky visit coordination)
-- Paige Smith (Email routing, DOI conference updates)
-- Meredith Needham (KrateoSky visit logistics, insurance renewal coordination)
-- Ben Busby (KrateoSky visit attendee)
+**Internal (High Coordination — Proposal/Contract Finalization):**
+- **Jack Elston** (43+ messages; leading proposal review, academic reconnection, quality management coordination)
+- **Maciej Stachura** (Navy contract update meetings, progress reporting, internal coordination)
+- **Daniel Prendergast** (proposal technical validation, academic/UCSC reconnection)
 
-**Government/Defense (Active Concurrent Decision Cycles):**
-- **NORAD-USNC (Arctic Edge 2027):** Patricia Vollmer — **meeting confirmed Wed 3 Jun 2:30–3:15pm MDT** (referenced in prior period; now imminent; briefing/decision gate)
-- **US Navy NAWCAD (Merlin Mk2 SBIR):** **NEW escalation** — Simon.Laurence157@mod.gov.uk (UK MOD contact); Joshua Fromm coordinating 2 Jun 15:09, 16:05; Laurence responded 21:56 same day; marked IMPORTANT; indicates UK-US Navy partnered proposal track; potential international co-development component
-- **USSOCOM SOCNORTH & related:** Continuing background engagement
+**Government/Defense (Active Concurrent Decision Cycles — CRITICAL GATES):**
 
-**Major Defense Contractor Partnership (Lockheed Martin Formalization):**
-- **Alasdair Brackenridge** (LM UK) — Cyber Essentials compliance documentation 2 Jun 10:17, 14:57; marked IMPORTANT; supplier approval workflow active
-- **Fc-LMUK,SupplierDBase** — Formal LM database response 2 Jun 10:13; marked IMPORTANT; indicates tier-2 supplier certification process
-- **MAD UAV Project weekly sync cadence** continuing (from prior period)
+**Navy Contracts (Active Management):**
+- **Joshua H. Cossuth (US Navy CNR Arlington)** — **NEW escalation** — N68335-25-C-0270 BST Phase I Mid-Option progress update 3 Jun 23:31 (marked IMPORTANT); update meeting coordination 3 Jun 09:55–23:31; active contract performance tracking/decision gate
+- **Sanchez, Emilly (US Navy CNR)** — STTR Phase II Cost Proposal (N25A-T025) response 3 Jun 15:22 (marked IMPORTANT); ongoing proposal evaluation
+- **DSIP (Defense SBIR/STTR Innovation Portal)** — Proposal Certification + Submission Confirmation both 3 Jun 11:31 (marked IMPORTANT); SBIR/STTR proposals officially certified and submitted same day
 
-**Commercial/Defense Contractors & Advisors:**
-- **SkyMesa Systems (Arthur Shune)** — **Phase I budget finalization** — 5 exchanges 2 Jun (11:30–21:00); marked IMPORTANT; cost negotiation intensity suggests submission deadline within days
-- **Charu Ganesh (cganesh@kofirm.com)** — **NEW external advisor/consultant** — 3 messages "Updates" stream 2 Jun 16:22–21:27; marked IMPORTANT; Jack Elston collaboration indicates proposal/strategy support function; UK time zone (responses at 21:27, 02:50 UTC suggest Europe-based)
-- **KrateoSky (Ariel Avitan, Adria Passola)** — **Strategic partnership visit** — 2 Jun 13:23–19:34; marked IMPORTANT; Jack Elston organized; 8 BST attendees invited; site visit suggests vendor evaluation or co-development opportunity
+**NORAD Arctic Edge 2027 (Imminent Decision):**
+- **Patricia Vollmer** — Google Docs briefing notes share 3 Jun 21:49; "AE27 discussion BST/NORTHCOM - 2026/06/03 14:29 MDT - Notes by Gemini" (marked IMPORTANT); indicates briefing meeting completed 3 Jun 14:29 MDT; notes capture post-decision documentation
 
-**Automation/Systems:**
-- **DSIP (Defense SBIR/STTR Innovation Portal)** — 2 confirmations 2 Jun 14:32 (Certification + Submission); indicates SBIR/STTR proposal officially submitted
-- **UASweekly.com** — Daily newsletter (Beck forwarding to Jack Elston, Paige Smith, Maciej Stachura 2 Jun 15:32)
-- **SERDP & ESTCP** — Poster abstract call (DoW Applied Innovation Workshop 2026); marked IMPORTANT; 2 Jun 15:16
-- **SOFWERX** — UxSAI Synthetic Data Modeler Assessment Event announcement; marked IMPORTANT; 2 Jun 11:11
-- **One Nation Innovation (GoColosseum)** — Challenge opportunities weekly digest; 2 Jun 16:38
+**NOAA Phase I (New Activity):**
+- **Jack Elston forwarded** — "FY2026 Phase I - Issue I - NOFO #NOAA-OAR-TPO-2025-0001-- BLACK SWIFT TECHNOLOGIES LLC" 3 Jun 08:12 (marked IMPORTANT); NOAA opportunity notification
 
-**Other Notices:**
-- **DOI Monthly UxS Conference Call** — Cancelled 2 Jun 13:29 (Jack Elston forwarded to
+**NAVAIR Open Topic Period (Immediate Opportunity):**
+- **Jack Elston forwarded** — "NAVAIR Pre-Release Open Topic Period Launches Today! (June 3)" 3 Jun 14:28; Beck responded 14:29 (marked IMPORTANT); real-time opportunity capture
+
+**Lockheed Martin Partnership (Supplier Formalization):**
+- **Brackenridge, Alasdair (LM UK)** — Cyber Essentials documentation response 3 Jun 12:51 (marked IMPORTANT); ongoing certification process
+
+**External Advisor/Consultant:**
+- **Charu Ganesh (cganesh@kofirm.com) + Ryan Sykora (rsykora@kofirm.com)** — "Updates" thread 3 Jun 21:48–20:16 (marked IMPORTANT); kofirm.com appears to be strategy/consulting firm; Jack Elston actively coordinating; UK time zone evidence (21:48 UTC response suggests Europe-based)
+
+**Academic Reconnection (Strategy Building):**
+- **J. Xavier Prochaska (jxp@ucsc.edu, UC Santa Cruz)** — Reconnection meeting scheduled Thu Jun 11 1:30–2pm MDT 3 Jun 20:54 (marked IMPORTANT); Jack Elston initiated; includes Beck Cotter + Daniel Prendergast; appears to be talent/partnership/capability development engagement
+
+**Automated/News:**
+- **UASweekly.com** — Daily newsletter 3 Jun 21:02
+- **DoD SBIR/STTR Support** — Monthly topic release 3 Jun 17:34
+- **Slack** — Joshua Fromm message + Black Swift Technologies channel updates 3 Jun 23:33, 23:04
+- **Google Docs** — Multiple share/comment notifications (BST_Quality_Management_Plan, Progress Report CLIN 006, 2026-06-03 Progre..., AE

@@ -1,5 +1,4 @@
 # View: Major Milestones & Tasks
 
-Small project with 2 tasks.
-- [Done] FAA Remote ID Required — Unassigned
+Small project with 1 tasks.
 - [Done] Bench Top Test — Sam Hild

@@ -14,14 +14,14 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Nate (assembly, QC flights, payload prep, GCS builds, quotes)
 - Paige Smith (sales coordination, customer communication)
 - Beck Cotter (customer outreach, email coordination, S0/S0-VTOL ownership coordination, Arctic demo coordination)
-- Ben Busby (team member)
+- Ben Busby (team member, sales pipeline tracking)
 - Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead)
 - Dan H (CU - external customer, E2 battery interest)
 - Bassil (customer - methane research, travel May 19-June 9, 2026)
 - Stefan (Atmofacts - external partner, methane algorithm tuning)
 - Chris (UMES - external customer contact, S3 training/delivery)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: June 1, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: June 3, 2026.
 
 ---
 
@@ -109,4 +109,4 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 
 **Sales Record Filtering Clarification (June 1, 2026)**
 - Maciej Tromba directed team to distinguish between proposals and confirmed commercial sales
-- Instruction: Only include orders with confirmed delivery date
+- Instruction: Only include orders

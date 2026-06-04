@@ -1,0 +1,55 @@
+{
+  "asana_gid": "proj-452-2",
+  "asana_task_name": "Dan Hesselius, University of Colorado Boulder [452-2]",
+  "customer": "Dan Hesselius, University of Colorado Boulder",
+  "customer_contact": "Dan Hesselius",
+  "customer_email": "",
+  "receive_by": null,
+  "ship_to": "2840 Wilderness Place suite d, Boulder CO 80301",
+  "items": [
+    {
+      "description": "S2 Simulator (Standalone computer, wireless keyboard, simulator install)",
+      "quantity": 1
+    },
+    {
+      "description": "E2 Battery (used)",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "paid",
+  "build_state": "packaged",
+  "ship_state": "in_transit",
+  "estimate_date": null,
+  "invoice_date": "2026-05-19",
+  "invoice_amount": 3900.0,
+  "invoice_number": "1766",
+  "paid_date": "2026-05-25",
+  "parts": [
+    {
+      "name": "S2 Simulator",
+      "ordered": true,
+      "received": true,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    },
+    {
+      "name": "E2 Battery (used)",
+      "ordered": true,
+      "received": true,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    }
+  ],
+  "tracking_number": "1265245052",
+  "carrier": "DHL Express",
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Invoice 1766 ($3,900) paid 2026-05-25. S2 Simulator and used E2 Battery shipped via DHL to Boulder address; import duty payment alert received 2026-06-01 (waybill 1265245052, duty $2,726.57 required within 5 days).",
+  "missing_fields": [],
+  "last_evidence_date": "2026-06-01",
+  "last_contact_date": "2026-06-01"
+}

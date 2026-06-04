@@ -1,10 +1,10 @@
 # Government — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $4,387,717.28
-- **Total Expenses (Bills + Purchases):** $1,330,956.34
+- **Total Invoiced (Revenue):** $4,462,176.28
+- **Total Expenses (Bills + Purchases):** $1,331,088.08
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,056,760.94 (invoiced minus expenses)
+- **Net Position:** $3,131,088.20 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -12,9 +12,9 @@
 ## Revenue (Invoices & Payments)
 
 ### Summary
-- **Total Invoiced:** $4,387,717.28
-- **Total Collected (Outstanding Balance):** $3,120,406.82 remaining (invoices with open balances)
-- **Number of Invoices:** 75 active invoices
+- **Total Invoiced:** $4,462,176.28
+- **Total Collected (Outstanding Balance):** $3,194,865.82 remaining (invoices with open balances)
+- **Number of Invoices:** 76 active invoices
 
 ### Major Revenue Streams by Project
 
@@ -23,8 +23,8 @@
 | (400-5) SMM Phase II 22.4D | $1,699,725.00 | CLIN work (004-008): Algorithm dev, field testing, refinement; Soil Moisture Mapping |
 | [300-3] 2026 IDIQ | $720,000.00 | 6 invoices (Invoices 2-6: #1737–#1741), CLIN 1001 modification P26002 + Operational Testing & Support (#1757) |
 | [301-3] S0 Hurricane Phase II 2025 | $844,449.61 | Progress payments, platform deliveries, training & operations |
-| [550-1] Navy SBIR Magnetometer | $612,295.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750) |
-| [550-2] Navy STTR Hazardous Weather | $216,326.00 | Kick-off, progress, final reports & TABA |
+| [550-1] Navy SBIR Magnetometer | $647,754.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750) |
+| [550-2] Navy STTR Hazardous Weather | $251,326.00 | Kick-off, progress, final reports & TABA; Option period progress (#1767) |
 | [200-14] Autonomy | $156,211.00 | CLIN 0001-0005, initial through final invoicing |
 | [200-11] NASA Persistence Demo | $74,428.00 | Interim & final demonstration reports |
 | [200-13] CRATER (Costa Rica Volcanoes) | $80,272.00 | Kick-off, demonstrations & final report |
@@ -42,22 +42,24 @@
 | Invoice # | Date | Amount | Project | Description | Balance |
 |-----------|------|--------|---------|-------------|---------|
 | **#1739** | **2026-06-01** | **$72,000.00** | **[300-3] 2026 IDIQ** | **CLIN 1001 Invoice 4 of 6** | **$72,000.00** |
+| **#1767** | **2026-06-03** | **$35,000.00** | **[550-2] Navy STTR Hazardous Weather** | **CLIN 0006: Progress Report (Option)** | **$35,000.00** |
 | **#1749** | **2026-06-29** | **$35,000.00** | **[550-1] Navy SBIR Magnetometer** | **CLIN 0006: Progress Report - Option** | **$35,000.00** |
 | **#1740** | **2026-07-02** | **$72,000.00** | **[300-3] 2026 IDIQ** | **CLIN 1001 Invoice 5 of 6** | **$72,000.00** |
 | **#1741** | **2026-07-30** | **$72,000.00** | **[300-3] 2026 IDIQ** | **CLIN 1001 Invoice 6 of 6** | **$72,000.00** |
 | **#1750** | **2026-09-28** | **$14,459.00** | **[550-1] Navy SBIR Magnetometer** | **CLIN 0007: Final Report** | **$14,459.00** |
 
-**Recent invoice total (2026-06-01 to 2026-09-28):** $265,459.00  
+**Recent invoice total (2026-06-01 to 2026-09-28):** $300,459.00  
 **All invoices confirmed through 2026-09-28.**
 
 ---
 
 ## Expenses by Cost Category
 
-### **Materials & Supplies: $469,999.58**
-**Number of transactions:** 197  
+### **Materials & Supplies: $470,076.15**
+**Number of transactions:** 199  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
+  - **DKC*DIGI KEY CORP - 4617** (2026-06-03): $38.57 [DC-Direct Material Purchases]
   - **DKC*DIGI KEY CORP - 4617** (2026-06-01): $45.29 [DC-Direct Material Purchases]
 - **JAWSTEC:** $19,627.62 (components for S0 platforms)
 - **Amprius battery systems:** $28,637.13 (wire transfers, 01/06/26) + $399.00 (2026-04-29, SA504 x7 quote #00001876) + $399.00 (2026-05-01, 8643C6/Max10.8Ah/4.25V x 7) + $399.00 (2026-05-14, SA504 x7 quote #00001876)
@@ -76,7 +78,7 @@
 - **Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head** (2026-05-07, Purchase #1288885721): **$479.80** [DIRECT COSTS] + $306.08 [Inventory Asset for future S3 sales]
   - **Direct Cost Materials & Supplies impact: $479.80**
 
-**Recent transactions (2026-05-14 to 2026-06-02):**
+**Recent transactions (2026-05-14 to 2026-06-03):**
 - **Purchase (Amprius Technologies)** (2026-05-14): **$399.00** [DC-Direct Material Purchases]
   - SA504 x 7 (quote #00001876) — Battery systems for Navy SBIR projects
   
@@ -121,15 +123,12 @@
 - **Purchase (2026-06-01):** **$45.29** [DC-Direct Material Purchases]
   - DKC*DIGI KEY CORP - 4617 — Electronics components
 
-**Total direct cost materials & supplies through 2026-09-28: $469,999.58** *(confirmed final)*
+- **Purchase (2026-06-03):** **$38.57** [DC-Direct Material Purchases]
+  - DKC*DIGI KEY CORP - 4617 — Electronics components
+
+**Total direct cost materials & supplies through 2026-09-28: $470,076.15** *(confirmed final)*
 
 ---
 
-### **Subcontractors: $713,366.45**
-**Number of transactions:** 90  
-**Key vendors & items:**
-- **Weather Stream (Milestone payments):** $448,200.00 (SMM Phase II milestones 2-8)
-- **Matthew Crabtree (PCB assembly, rework, parts sourcing):** $67,425.53
-  - Bill #BST-April2026-1 (2026-04-22): $14,479.45 (Parts/Materials & IRAD allocation)
-  - Bill #BST-March2026-2 (2026-04-22): $24,224.02 (Parts/Materials & IRAD allocation; second half of $48,448.05 March invoice)
-- **
+### **Shipping/Freight: $131.74**
+**Number of transactions:** 

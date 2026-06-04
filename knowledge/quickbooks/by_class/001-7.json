@@ -4,14 +4,14 @@
     "(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-06-02",
-    "end": "2026-06-03"
+    "start": "2026-06-03",
+    "end": "2026-06-04"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 2954.62,
+    "expenses": 140.59,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 2954.62
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 140.59
     }
   },
   "invoices": [],
@@ -32,60 +32,6 @@
           "amount": 140.59,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
           "description": "S3 IRAD shipmen to Sean Cole"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-06-02",
-      "doc_number": "SW46G546",
-      "total": 809.58,
-      "attributed": 809.58,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 809.58,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "S3 IRAD purchase"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-06-02",
-      "doc_number": "69060",
-      "total": 1926.4,
-      "attributed": 1926.4,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 1926.4,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Nosecone ring x 3"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-06-02",
-      "doc_number": "0529JELSTON",
-      "total": 78.05,
-      "attributed": 78.05,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request - project is listed under the item purchased",
-      "lines": [
-        {
-          "amount": 78.05,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Neoprene Vibration-Damping Sandwich Mount"
         }
       ]
     }
