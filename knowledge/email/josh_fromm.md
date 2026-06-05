@@ -1,42 +1,38 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 691 emails (618 prior + 73 new June 3–4)
+- **Total messages scanned:** 743 emails (691 prior + 52 new June 4)
 - **Date range:** May 18–June 4, 2026
-- **Daily average:** ~15–17 emails/day (human correspondence); automated/logistics volume separate
-- **Unread messages:** ~400+ unread (heavy promotional/automated volume; logistics, supplier notifications, Asana task assignments dominating)
-- **New data period (June 3–4):** 73 emails; **critical escalation in Rubicon Aerospace supplier coordination, multiple Asana task assignments on Flight #3 payload/battery work, hazmat shipping case finalization, new vendor contacts (Kongsberg, LNP Machining)**
+- **Daily average:** ~15–17 emails/day (human correspondence); automated/logistics/procurement volume substantial and growing
+- **Unread messages:** ~450+ unread (heavy promotional/automated volume; logistics, supplier notifications, Asana task assignments dominating)
+- **New data period (June 4):** 52 emails; **continues escalation pattern — heavy purchasing/logistics automation, new component supplier engagement (servos), property audit coordination with NOAA, continued promotional volume**
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-*(All prior contacts remain active; June 3–4 adds critical supplier/logistics threading and task assignments)*
+*(All prior contacts remain active)*
 
 1. **Jack Elston** (elstonj@blackswifttech.com) — **Primary collaborator**
    - Government programs liaison (Merlin Mk2, US Navy SBIR, UK MOD)
+   - **NEW (June 4):** Property Audit coordination with NOAA (Joe Cione); Josh copied on escalation thread (8:20 AM–9:04 AM MDT)
    - Prior: "Thursday Visit" & "KrateoSky Visit" coordination
 
 2. **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — **UK MOD (Defence, Science and Technology Laboratory)**
-   - **CRITICAL ESCALATION (June 2–3):** Three direct exchanges on Merlin Mk2/US Navy SBIR (flagged IMPORTANT, evening/night responses)
+   - **ONGOING:** Merlin Mk2/US Navy SBIR (flagged IMPORTANT, prior escalation)
 
 3. **Maciej Stachura** (stachura@blackswifttech.com) — **Co-investigator/technical lead**
    - NOAA program coordination, Arctic Edge 2027
    - Prior: "Thursday Visit" & "KrateoSky Visit" meetings
 
 4. **Meredith Needham** (meredith.needham@blackswifttech.com) — **Procurement/Operations**
-   - **Heavily engaged June 3:** 4 emails with Lee Skidmore & Josh on Rubicon invoicing, shipping coordination, freight details
-   - SOP: Shipping folder access; vendor coordination
-   - **Coordinating with external:** Sean Cole (Phase 1 AV) on freight shipment details (June 3, 13:50 MDT)
+   - **CONTINUED (June 4):** Direct engagement with Lee Skidmore (Rubicon Aerospace) on invoicing (10:19 AM MDT, flagged IMPORTANT)
+   - **PRIMARY ROUTING:** High volume of purchasing/vendor notifications routed to her email (amazon.com, UPS, FedEx, McMaster-Carr, JawsTec, ARK Electronics, Instrumart, Baofeng, Battery Junction, Harbor Freight, eBay)
+   - **Role inference:** Procurement gateway; Josh's purchasing activity filtered through her inbox
 
 5. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Technical integration & task assignment**
-   - **NEW ELEVATED (June 3):** Assigned 4 tasks to Josh via Asana:
-     - "Get UN-rated battery container" [Flight #3 - Spring '26]
-     - "Modify 3 payloads to fit S3" [Flight #3 - Spring '26]
-     - "QC Ground [[451-1] INSTAAR S3 x 2]"
-     - "Order/Fab Parts [[451-1] INSTAAR S3 x 2]"
-   - **Inference:** Flight #3 (Spring 2026) is active/imminent; battery/payload integration work critical
+   - Prior: Flight #3 (Spring 2026) Asana task assignments (battery container, payload modifications, QC, parts fabrication)
 
 6. **Beck Cotter** (beck.cotter@blackswifttech.com) — **Key collaborator**
    - Arctic Edge 2027 proposal
@@ -52,59 +48,72 @@
 
 ### Top External Contacts
 
-#### Government (Prior escalation ongoing)
-1. **Simon Laurence – UK MOD Defence** (Simon.Laurence157@mod.gov.uk) — **ESCALATED**
+#### Government (Escalated Activity)
+
+1. **Joe Cione – NOAA Federal** (joe.cione@noaa.gov) — **ESCALATED (NEW)**
+   - **5 direct/forwarded exchanges June 4 (all flagged IMPORTANT):**
+     1. "Fwd: Property Audit" (8:20 AM MDT) — forwarded to Jack Elston + Josh Fromm
+     2. "Re: Property Audit" (8:24 AM MDT) — Josh copied on response
+     3. "Re: Property Audit" (9:04 AM MDT) — Jack Elston responds; Joe continues thread
+     4. "Re: NOAA/Blackswift monthly" (3:15 PM MDT) — to Annette Hollingshead (NOAA Federal)
+     5. "Fwd: wind speed plot" (4:25 PM MDT) — to Ghassan Alaka, Jason Sippel (NOAA Federal)
+     6. "Fwd: Document shared with you: '2026 AOC Hurricane Stakeholder Requirements and Timelines'" (4:03 PM MDT) — to Jack Elston, Jun Zhang (NOAA Affiliate), Josh Wadler (ERAU), Annette Hollingshead
+     7. "Re: Windsond S2 light radiosonde (May 7, 2026 NEOTAC)" (2:56 PM MDT) — to Johan Gustafsson (Sparv Embedded)
+   - **Status:** Property audit appears to be compliance/asset verification issue; Josh involved as respondent or stakeholder. Hurricane/weather data coordination ongoing (AOC = Area of Concern?). Radiosonde/sensor evaluation in progress.
+   - **Inference:** NOAA relationship is operational + compliance-heavy; multiple concurrent workstreams
+
+2. **Simon Laurence – UK MOD Defence** (Simon.Laurence157@mod.gov.uk) — **Prior escalation ongoing**
    - Merlin Mk2/US Navy SBIR negotiations (flagged IMPORTANT, time-critical)
 
-2. **Laura Rock – NOAA Federal** (laura.rock@noaa.gov) — **Prior contact**
-3. **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — **Prior contact**
-4. **Lt Col Matthew A. Swee** (matthew.swee.1@us.af.mil) — **Prior contact**
+3. **Laura Rock – NOAA Federal** (laura.rock@noaa.gov) — **Prior contact**
 
-#### Strategic Partners (Prior)
-1. **Ariel Avitan – KrateoSky** (Ariel@krateosky.com) — **Strategic facility visit (June 2)**
-   - High-level partnership coordination
+4. **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — **Prior contact**
+
+5. **Lt Col Matthew A. Swee** (matthew.swee.1@us.af.mil) — **Prior contact**
 
 ---
 
-#### Manufacturing & Component Suppliers (Elevated June 3–4)
+#### Strategic Partners (Prior)
 
-**CRITICAL ESCALATION — Rubicon Aerospace:**
+1. **Ariel Avitan – KrateoSky** (Ariel@krateosky.com) — **Strategic facility visit (June 2)**
 
-1. **Lee Skidmore – Rubicon Aerospace** (lee@rubiconaerospace.com) — **URGENT SUPPLIER STATUS**
-   - **7 exchanges June 3 alone (flagged IMPORTANT, all)**
-   - **Exchange threads (in chronological order):**
-     1. "Rubicon - Update" → "Re: Rubicon - Update" (4 exchanges: June 3, 08:59 AM–2:54 PM MDT with Meredith Needham)
-     2. "Shipping - S0 Fuse and Machined Parts" (3 exchanges: June 3, 4:31 PM–10:04 PM MDT, escalating to Lee)
-     3. "Rubicon - Upcoming Invoicing" (new thread, June 3, 11:20 PM UTC, with Meredith Needham + Josh)
-   - **Status:** 
-     - S0 Fuse & machined parts shipping confirmed (evening/late-night response pattern = urgency)
-     - Invoicing imminent; Meredith looped for payment coordination
-     - **Inference:** Major platform component shipment in transit; billing cycle triggering
+---
 
-**NEW VENDORS (June 3):**
+#### Manufacturing & Component Suppliers
 
-2. **Boski Patel – Kongsberg KD (Defence & Aerospace)** (boski.patel@kd.kongsberg.com) — **NEW STRATEGIC CONTACT**
-   - **2 exchanges June 3 (flagged IMPORTANT):**
-     - "Kongsberg Discovery Connect" (14:37 UTC) → Josh responded (12:12 PM MDT, ~2 hours turnaround)
-     - **Status:** Discovery/integration product engagement; rapid response = priority
-   - **Inference:** Potential sensor/payload integration with Kongsberg Discovery platform
+**CRITICAL ESCALATION — Rubicon Aerospace (CONTINUED):**
 
-3. **Sofia Alvarez – LNP Machining** (sofia.alvarez@lnp-machining.com) — **NEW ACTIVE VENDOR**
-   - **2 exchanges June 3 (flagged IMPORTANT):**
-     - "LNP Machining - Following up on my voicemail" (17:31 UTC) → Josh responded (11:56 AM MDT, ~5.5 hour turnaround)
-     - **Status:** Custom machining order follow-up; voicemail suggests prior verbal commitment
-   - **Inference:** Time-sensitive custom parts; prior conversation indicates scheduling/spec clarity needed
+1. **Lee Skidmore – Rubicon Aerospace** (lee@rubiconaerospace.com) — **ONGOING URGENT SUPPLIER STATUS**
+   - **Prior (June 3):** 7 exchanges on S0 Fuse, machined parts shipping, invoicing
+   - **NEW (June 4):** Meredith Needham re-engages on invoicing (10:19 AM MDT, flagged IMPORTANT)
+   - **Status:** Payment cycle active; shipping logistics finalized
 
-4. **Foster Hill – MM Solutions** (fhill@mmsolutions.biz) — **HAZMAT SHIPPING SPECIALIST**
-   - **6 exchanges June 3 (flagged IMPORTANT, all; CAUTION: SUSPECT SENDER labels)**
-     - Thread: "Shipping case options for Hazmat (class 9) battery shipping" (4 exchanges: 2:45 PM–4:34 PM MDT)
-     - Josh initiated 3:08 PM MDT; Foster replied 2:45 PM (timezone confusion?); escalating back-and-forth
-     - **Status:** Hazmat Class 9 battery shipping case selection finalized
-     - **Inference:** Battery-heavy payload (likely for Flight #3); hazmat compliance = regulatory requirement
+**Servo/Control Systems (NEW):**
 
-**Prior Vendors (Continued Activity):**
+2. **Thomas Cooke – MKS Servo USA** (Thomas@mksservosusa.com) — **NEW ACTIVE VENDOR**
+   - **1 exchange June 4 (flagged IMPORTANT):**
+     - "RE: Servos for Black Swift" (3:26 PM EDT / ~1:26 PM MDT)
+   - **Status:** Direct engagement on servo procurement; Josh primary contact
+   - **Inference:** Platform control systems integration; new supplier relationship active
 
-5. **David Root – Cases2Go** (sales@cases2go.com) — **ACTIVE PROCUREMENT**
-   - **2 exchanges June 3 (flagged IMPORTANT):**
-     - "re[2]: Confirmation # 26-102398 from Cases2Go" (Josh initiated 10:01 AM MDT; David replied 11:25 AM; Josh followed up)
-     - **Status:**
+**Prior Vendors (Continued High-Volume Activity):**
+
+3. **Kongsberg KD** (boski.patel@kd.kongsberg.com) — **NEW STRATEGIC (prior escalation June 3)**
+   - Discovery Connect product engagement
+
+4. **LNP Machining** (sofia.alvarez@lnp-machining.com) — **NEW ACTIVE (prior escalation June 3)**
+   - Custom machining follow-up
+
+5. **MM Solutions / Foster Hill** (fhill@mmsolutions.biz) — **HAZMAT SHIPPING (prior escalation June 3)**
+   - Class 9 battery shipping case finalization
+
+6. **Cases2Go / David Root** (sales@cases2go.com) — **ACTIVE PROCUREMENT (prior escalation June 3)**
+   - Confirmation # 26-102398
+
+---
+
+### Automated/Procurement Routing (June 4 High Volume)
+
+**Components/Electronics (routed to purchasing@blackswifttech.com, some to josh.fromm directly):**
+- **McMaster-Carr** — June 4th order confirmation & tracking (2 messages)
+- **JawsTec Manufacturing

@@ -29,7 +29,7 @@
         "amount": 8375.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-04"
+        "last_updated": "2026-06-05"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 6652.24,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-04T09:08:15Z"
+    "last_reconciled": "2026-06-05T09:01:20Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -94,12 +94,6 @@
       "text": "From Jack (ts=1778019802.867609): It's part of his training."
     },
     {
-      "source": "FEEDBACK",
-      "author": "Jack",
-      "date": "2026-05-05",
-      "text": "From Jack: It's part of his training."
-    },
-    {
       "source": "CORRECTION",
       "author": "Jack",
       "date": "2026-06-01",
@@ -112,6 +106,6 @@
       "text": "From Jack: \"VTOL-S0\" is not the same as what we usually call \"S0\" or \"S0-AD\""
     }
   ],
-  "last_full_rebuild": "2026-06-04T09:08:15Z",
+  "last_full_rebuild": "2026-06-05T09:01:20Z",
   "last_incremental_update": null
 }

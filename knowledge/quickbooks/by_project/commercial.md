@@ -1,11 +1,11 @@
 # Commercial — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $2,960,489.34
+- **Total Invoiced (Revenue):** $2,961,489.34
 - **Total Expenses (Bills + Purchases):** $239,269.53
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,721,219.81 (Revenue exceeds expenses)
-- **Date Range:** April 5, 2024 – June 3, 2026
+- **Net Position:** $2,722,219.81 (Revenue exceeds expenses)
+- **Date Range:** April 5, 2024 – June 5, 2026
 
 ---
 
@@ -15,7 +15,8 @@
 
 | Invoice # | Date | Amount | Customer | Balance |
 |-----------|------|--------|----------|---------|
-| **1766** | **2026-05-19** | **$3,900.00** | **Daniel Hesselius** | **$3,900.00** |
+| **1768** | **2026-06-04** | **$1,000.00** | **Black Swift Technologies** | **$1,000.00** |
+| 1766 | 2026-05-19 | $3,900.00 | Daniel Hesselius | $3,900.00 |
 | 1765 | 2026-05-18 | $79,338.00 | (031-1) University of Maryland Eastern Shore | $79,338.00 |
 | 1759 | 2026-05-08 | $664.98 | IRISS, CU Boulder | $664.98 |
 | 1757 | 2026-05-08 | $63,735.00 | [043-3] By Light Halo | $63,735.00 |
@@ -69,13 +70,19 @@
 | 1618 | 2024-04-19 | $13,853.10 | [451] INSTAAR Stable Isotope Lab, CU Boulder | Paid |
 
 ### Revenue Summary
-- **Total Invoiced:** $2,960,489.34
+- **Total Invoiced:** $2,961,489.34
 - **Total Collected (Paid):** $1,075,726.08
-- **Outstanding Balance:** $1,884,763.26
+- **Outstanding Balance:** $1,885,763.26
 
-#### Notable Recent Invoices (May 18–19, 2026)
+#### Notable Recent Invoices (June 4, 2026)
 
-**Invoice #1766 — Daniel Hesselius (May 19, 2026): $3,900.00** ⚠️
+**Invoice #1768 — Black Swift Technologies (June 4, 2026): $1,000.00** ⚠️ NEW
+- $1,000.00 — S3 battery pack
+- *Internal sale; outstanding balance*
+
+#### Notable May Invoices
+
+**Invoice #1766 — Daniel Hesselius (May 19, 2026): $3,900.00**
 - $2,900.00 — Standalone computer, wireless keyboard, simulator install
 - $1,000.00 — Used E2 battery
 
@@ -88,6 +95,7 @@
 #### Remaining Outstanding Invoices Summary
 - **Five invoices to [043-3] By Light Halo (May 8–13, 2026):** $271,152.00
 - **One invoice from May 8, 2026 (IRISS, CU Boulder):** $664.98
+- **One invoice from June 4, 2026 (Black Swift Technologies):** $1,000.00
 - **Other outstanding invoices:** $1,533,608.28
 
 ---
@@ -114,9 +122,4 @@
 #### Direct Cost Material Purchases
 - **Purchase (2026-05-29):** $69.98
   - $34.99 — Logitech K400 Plus Wireless Touch TV Keyboard - for S2 simulator
-  - $34.99 — Logitech K400 Plus Wireless Touch TV Keyboard - for S2 simulator
-  - *Note: $69.99 allocated to Inventory Asset for future S2 simulator sales (not included in direct cost total)*
-  - **Status:** Direct purchase made without Asana request; communicated via Slack message by Jack
-
-- **Purchase #334139 (2026-05-18):** $4,164.75
-  - $2,776.50 — Thermoset Laminate Linen Tubes (shipped to
+  - $34.99 — Logi

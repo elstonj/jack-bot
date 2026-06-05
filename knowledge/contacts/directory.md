@@ -43,6 +43,10 @@
   - Email: ethan.domagala@blackswifttech.com
   - Phone: 303-859-8141
 
+- **Spencer Hoehl** — Intern-Engineering
+  - Email: spencer.hoehl@blackswifttech.com
+  - Phone: 217-556-4060
+
 ## Operations & Administration
 
 - **Meredith Needham** — Office Admin
@@ -85,7 +89,7 @@
 
 ## Summary
 
-**Total Headcount:** 17 (15 active employees + 2 service accounts)
+**Total Headcount:** 18 (16 active employees + 2 service accounts)
 
 **Key Leadership:**
 - Jack Elston (CEO)
@@ -94,19 +98,23 @@
 
 **Team Structure:**
 - **Leadership:** 3 people
-- **Engineering & Technical:** 7 people
+- **Engineering & Technical:** 8 people
   - Software Engineering: 3 engineers
   - Mechanical Engineering: 1 engineer
   - Shop & Technical Support: 1 technician
-  - Interns: 1 intern
+  - Interns: 2 interns (new addition: Spencer Hoehl)
 - **Operations & Administration:** 1 person
 - **Communications & Marketing:** 2 people
 - **Unclassified:** 3 people (Beck Cotter, Daniel Prendergast, Jameel Barkat — roles/departments unknown)
 - **Service Accounts:** 2
 
+**Changes from Previous Sync:**
+- **New hire:** Spencer Hoehl added as Intern-Engineering (Phone: 217-556-4060)
+- Total headcount increased from 17 to 18
+- All existing records verified and cross-referenced with no conflicts
+
 **Notes:**
-- All 17 roster entries verified and consistent across existing and new data
-- All contact information preserved and cross-referenced
+- Directory remains current and stable
 - Three team members remain unclassified; recommend reaching out to leadership for role clarification
 - BST maintains an engineering-focused organization with balanced technical and administrative support
-- Directory is current and stable; no changes detected from new sync
+- Engineering intern program expanded to two positions

@@ -1,91 +1,93 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 449 emails across nineteen data pulls
-- **Date range:** 16 May – 4 June 2026
-- **Volume pattern:** Heavily transactional (98%+ routed via purchasing alias). Approximately 12–15 direct work emails visible. **Backlog continues through 4 June — ALL messages remain UNREAD as of 4 June.**
-- **Latest data span:** 32 emails covering 3–4 June 2026 (continuation of sustained procurement surge with persistent direct work email activity on S0 - MAD project)
+- **Total messages scanned:** 484 emails across twenty data pulls
+- **Date range:** 16 May – 5 June 2026
+- **Volume pattern:** Heavily transactional (98%+ routed via purchasing alias). Approximately 12–15 direct work emails visible. **Backlog continues through 5 June — ALL messages remain UNREAD as of 5 June.**
+- **Latest data span:** 35 emails covering 4–5 June 2026 (sustained procurement surge with active S0 - MAD project engagement)
 
 ## Key Correspondents
 
 ### Senders (by frequency)
 
-**Purchasing team alias route** (319+ emails total, +32 new)
+**Purchasing team alias route** (350+ emails total, +31 new)
 
 #### Electronics & Components Suppliers
-- **DigiKey** (13 total, +2 new) — **Shipment notification for invoice 126896174 (3 Jun 12:54); PO acknowledgement for salesorder #99597405 (3 Jun 11:49); Thank you for order (3 Jun 11:48)** — active ordering cycle continuing
-- **McMaster-Carr** (13 total) — No new activity in this pull
-- **Pasternack** (4 total) — No new activity
+- **Amazon.com** (23 total, +4 new) — **Ordered: 5x Quick Release Plate, Camera (4 Jun 21:09); Delivered Quick Release Plate + 3 items (4 Jun 21:07); Shipped Quick Release Plate + 3 items (4 Jun 10:01)** — sustained camera/mounting hardware ordering
+- **DigiKey** (13 total) — No new activity in this pull
+- **McMaster-Carr** (15 total, +2 new) — **Confirmation & Certificates for June 4th Order (4 Jun 16:58 & 18:01)** — continued industrial components procurement
+- **ARK Electronics** (0 previously, +3 new) — **NEW VENDOR: Order received (4 Jun 16:39); Order shipped with note added (4 Jun 17:40:38 & 17:40:40)** — electronics supplier now actively delivering
+- **Instrumart** (2 total, +1 new) — **Order Confirmation #SO00758245 / 1083722 (4 Jun 11:48)** — measurement/instrumentation equipment orders continuing
 - **Mouser** (2 total) — No new activity
-- **Adafruit Industries** (1 total) — No new activity
-- **ELEGOO US** (4 total) — **Shipped notification for Rapid PLA Plus + 1 item (3 Jun 10:21); Delivered notification (3 Jun 18:02)** — 3D printing filament delivery confirmed
-- **Amazon.com** (19 total, +4 new) — **Ordered: 2x MOOKEERF SMA Male to SMA + 1 more item (3 Jun 21:21); Ordered Quick Release Plate, Camera (3 Jun 18:06); Shipped Rapid PLA Plus + 1 (3 Jun 10:21); Advance refund issued for Quick Release Plate (4 Jun 02:17)** — sustained high-volume component purchasing with return/refund activity
+- **ELEGOO US** (4 total) — No new activity
+- **Pasternack** (4 total) — No new activity
 - **ServoCity®** (5 total) — No new activity
 - **PCBWay** (1 total) — No new activity
-- **MKS Servos USA** (1 total, +1 new) — **Order #22540 updated (4 Jun 02:17)** — new servo supplier engaged
-- **IdeasPCB** (1 total, +1 new) — **PCB Fabrication & Assembly promotional (4 Jun 09:37)** — new PCB vendor outreach
+- **MKS Servos USA** (1 total) — No new activity
+- **IdeasPCB** (1 total) — No new activity
+- **Adafruit Industries** (1 total) — No new activity
 
 #### Manufacturing & Fabrication Services
-- **SendCutSend** (13 total, +5 new) — **Quote created (3 Jun 18:00); Order SS97A808 delivered (3 Jun 16:30); Order placed Here's what's next (3 Jun 18:12); Track order SC51C906 (3 Jun 18:15); Order SC51C906 tracking continued** — **INTENSIVE SHEET METAL FABRICATION ACTIVITY: Multiple concurrent quotes and orders with same-day delivery cycle**
+- **JawsTec Manufacturing LLC** (17 total, +4 new) — **CRITICAL ACTIVITY SURGE: Invoice payment reminder (5 Jun 03:03); New payment request for invoice 69104 (4 Jun 21:08); Order #69104 received (4 Jun 21:04); Order on its way (4 Jun 19:06 & 15:20); Multiple invoice reminders (4 Jun 15:34 & 14:43)** — **MAJOR MANUFACTURING PARTNER WITH SUSTAINED MULTI-ORDER CYCLE: Heavy payment activity and shipping confirmations indicate high-volume sheet metal or precision fabrication contract**
+- **SendCutSend** (13 total) — No new activity in this pull
 - **Craftcloud** (1 total) — No new activity
 - **eMachineShop** (2 total) — No new activity
 - **Mini-box.com / iTuner Networks** (4 total) — No new activity
 
 #### Aerospace/Aviation
-- **JawsTec Manufacturing LLC** (13 total) — No new activity in this pull (previous: 6 new on 2–3 Jun)
+- **HeliDirect** (3 total, +1 new) — **"FlywingRC Scale Heli Super Upgrades" product notification (4 Jun 20:00)** — sustained RC/rotorcraft equipment interest
 - **uAvionix** (3 total) — No new activity
-- **SkyGeek** (2 total, +1 new) — **"Don't Run Out of Important Supplies" promotional (3 Jun 20:37)** — continued aviation supplier engagement
+- **SkyGeek** (2 total) — No new activity
 - **CAPS Aviation** (1 total) — No new activity
 - **Phase 1 Aviation LLC** (1 total) — No new activity
 - **Daniels Manufacturing Corporation** (3 total) — No new activity
-- **HeliDirect** (2 total) — No new activity
-- **LightWare** (1 total, +1 new) — **"Simplified integration, less rework, smoother deployment" promotional (3 Jun 07:45)** — **NEW VENDOR: likely sensor/optical system supplier for aviation/drone applications**
+- **LightWare** (1 total) — No new activity
+
+#### RC & Hobby Aviation Equipment
+- **Hobbyking** (0 previously, +1 new) — **NEW VENDOR: "The Ultimate RC Plane Sale" promotional (4 Jun 13:50)** — RC aircraft/components retailer engaged
+- **eBay** (0 previously, +1 new) — **NEW: Search results for "futaba 14sg, Receivers & Transmitters" (4 Jun 06:08)** — remote control transmitter/receiver sourcing activity
 
 #### Flashlight & Portable Power Equipment
+- **Battery Junction** (3 total, +1 new) — **"Save 15% On Rechargeable Li-Ions!" promotional (4 Jun 16:01)** — battery procurement continues
 - **FlashlightGo** (3 total) — No new activity
-- **Battery Junction** (2 total) — No new activity
 - **DIY500AMP.COM** (3 total) — No new activity
 - **BatterySpace.com / AA Portable Power Corp.** (3 total) — No new activity
 
 #### Food & Beverage Services
-- **Spindrift Market** (10 total, +1 new) — **Order SH62373175 on the way (3 Jun 20:54)** — sustained weekly subscription pattern
+- **Spindrift Market** (10 total) — No new activity in this pull
 - **Driftaway Coffee** (5 total) — No new activity
 - **Moe's Broadway Bagel** (1 total) — No new activity
 
 #### Logistics & Shipping
-- **FedEx** (2 total, +1 new) — **On-call pickup scheduled FNLA3030 (3 Jun 15:48)** — active shipment coordination
-- **UPS** (15 total, +3 new) — **"Your Package Arrives Tomorrow" (3 Jun 20:05); continued package tracking** — sustained delivery activity
-- **USPS** (10 total) — No new activity in this pull
-- **DHL** (25 total) — No new activity in this pull (previous surge resolved or in holding pattern)
+- **UPS** (18 total, +3 new) — **"Your Package Arrives Tomorrow" (4 Jun 16:40 & 14:20)** — sustained delivery pipeline
+- **FedEx** (3 total, +2 new) — **"We'll arrive for your on-call pickup today FNLA3030" (4 Jun 10:11 & 10:01); Successful on-call pickup confirmed FNLA3030 (4 Jun 13:35)** — **ACTIVE SAME-DAY OUTBOUND SHIPPING: High-frequency on-call pickup pattern suggests time-sensitive shipping of fabricated or assembled components**
+- **USPS** (11 total, +1 new) — **"Your Daily Digest for Thu, 6/4" (4 Jun 13:27)** — informed delivery tracking active
+- **DHL** (25 total) — No new activity in this pull
 - **Worldwide Express** (1 total) — No new activity
-- **Pirate Ship** (1 total, +1 new) — **Receipt for $55.44 payment (3 Jun 22:30)** — new shipping service engaged
+- **Pirate Ship** (1 total) — No new activity
 
 #### Tools & Hardware
+- **Harbor Freight** (6 total, +2 new) — **"Keep Summer Projects Moving with 0% Interest" (4 Jun 17:40); "HURRY, EARLY ACCESS TO PARKING LOT SALE ENDS TODAY" (4 Jun 12:26)** — frequent promotional engagement
 - **The Home Depot** (3 total) — No new activity
-- **Harbor Freight** (5 total, +1 new) — **"Your Outdoor Destination" promotional (3 Jun 13:25)** — continued retail engagement
-- **Speedway Motors** (2 total, +1 new) — **"Cragar Wheels" promotional (3 Jun 16:00)** — recreational/automotive interest
-- **Strong Hold** (1 total, +1 new) — **"Still Need Storage Before Fiscal Year-End?" promotion (3 Jun 15:02)** — **NEW VENDOR: storage solutions supplier**
+- **Speedway Motors** (2 total) — No new activity
+- **Strong Hold** (1 total) — No new activity
 
 #### Wholesale/Sourcing & Cable/Electrical
 - **Alibaba RFQ** (2 total) — No new activity
 - **Master Electronics** (1 total) — No new activity
-- **WireCare** (3 total, +1 new) — **Order #W6098749 shipped (3 Jun 08:36)** — cable/wiring orders now in delivery phase
+- **WireCare** (3 total) — No new activity
 - **General Air Service** (1 total) — No new activity
 
-#### Instrumentation & Technical Services
-- **Instrumart** (1 total, +1 new) — **Web Order 1083722 (3 Jun 20:14)** — **NEW VENDOR: instrumentation/measurement equipment supplier**
-
 #### Other Services
+- **Comcast Business** (0 previously, +1 new) — **NEW: "Your Comcast Business Internet Dashboard monthly report" (5 Jun 03:16)** — **INFRASTRUCTURE: Business internet service provider monthly reporting now visible**
 - **Dell Technologies** (2 total) — No new activity
 - **Dell Rewards** (1 total) — No new activity
 - **SAP** (2 total) — No new activity
 - **X-Plane Team** (1 total) — No new activity
 - **Big Red F** (1 total) — No new activity
 - **Neat N Tidy** (2 total) — No new activity
-- **Budget** (1 total) — No new activity
-- **Black Swift Technologies LLC** (1 total, +1 new) — **Shipment notification to Joshua Fromm (3 Jun 23:30)** — internal fulfillment system notification
+- **Budget** (2 total, +1 new) — **"Lock in great rates for summer travel" promotional (4 Jun 16:06)** — leisure travel interest
 
 ### Direct Work Email (via personal/company address)
 
-**CRITICAL: S0 - MAD Project Thread (Navy DoD)**
-- **Sam Hild** (sam.hild@blackswifttech.com) — **DRAFT reply to Eric Correa-Matos (3
+**S0 - MAD Project Thread (Navy Do

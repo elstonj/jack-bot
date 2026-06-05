@@ -1,9 +1,9 @@
 {
-  "asana_gid": "1213756777376150",
-  "asana_task_name": "University of Colorado Boulder",
-  "customer": "University of Colorado Boulder",
-  "customer_contact": "Jazlynn Hall",
-  "customer_email": "jazlynn.hall@colorado.edu",
+  "asana_gid": "1208185314692566",
+  "asana_task_name": "[450] Alaska Coastline Erosion Surveys (University of Colorado)",
+  "customer": "University of Colorado",
+  "customer_contact": "Julia Moriarty",
+  "customer_email": "Julia.Moriarty@colorado.edu",
   "receive_by": "2026-08-31",
   "ship_to": null,
   "items": [
@@ -27,7 +27,7 @@
   "payment_state": "estimate_sent",
   "build_state": "none",
   "ship_state": "none",
-  "estimate_date": "2026-04-10",
+  "estimate_date": null,
   "invoice_date": null,
   "invoice_amount": null,
   "invoice_number": null,
@@ -63,9 +63,10 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "New professor Jazlynn Hall at CU Boulder seeking E2 system with custom sensor payload for scientific research (preferred: multispectral, lidar, thermal; fallback: RGB). Estimate sent 2026-04-10. Customer will not purchase until August 2026 when new position starts. Receive-by 2026-08-31 confirmed via repeated Slack updates through 2026-05-20. KEEP signal: explicit receive_by within 6 months + substantive recent Slack engagement (last Slack activity 2026-05-20).",
+  "notes": "Academic research project for bathymetry/topography survey of Alaskan north slope lagoons and coastlines. Estimate sent via Slack 2026-05-20; customer decision deadline Aug 30, 2024 (appears to be typo in form). System includes E2 platform with payload flexibility (photogrammetry, multispectral, thermal, or lidar). Kept despite Asana 'No action needed' status due to active Slack coordination and near-term receive_by date.",
   "missing_fields": [
     "ship_to",
+    "estimate_date",
     "invoice_amount"
   ],
   "last_evidence_date": "2026-05-20",

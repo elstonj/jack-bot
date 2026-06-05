@@ -1,10 +1,23 @@
 {
   "period": {
-    "start": "2026-06-03",
-    "end": "2026-06-04"
+    "start": "2026-06-04",
+    "end": "2026-06-05"
   },
-  "scanned_at": "2026-06-04",
+  "scanned_at": "2026-06-05",
   "projects": [
+    {
+      "project_code": "001-4",
+      "revenue": 0.0,
+      "expenses": 235.98,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 1,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "(001-4) IRAD - S0 VTOL"
+      ]
+    },
     {
       "project_code": "001-7",
       "revenue": 0.0,
@@ -21,10 +34,10 @@
     {
       "project_code": "300-3",
       "revenue": 144000.0,
-      "expenses": 131.74,
+      "expenses": 93.17,
       "invoice_count": 2,
       "bill_count": 0,
-      "purchase_count": 2,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -45,29 +58,17 @@
       ]
     },
     {
-      "project_code": "550-2",
-      "revenue": 35000.0,
-      "expenses": 0.0,
-      "invoice_count": 1,
-      "bill_count": 0,
-      "purchase_count": 0,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "[550-2] Navy STTR Hazardous Weather"
-      ]
-    },
-    {
       "project_code": "_unclassified",
-      "revenue": 0.0,
-      "expenses": 1417.55,
-      "invoice_count": 0,
+      "revenue": 1000.0,
+      "expenses": 565.19,
+      "invoice_count": 1,
       "bill_count": 0,
       "purchase_count": 4,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        ""
+        "",
+        "Black Swift Technologies"
       ]
     }
   ]

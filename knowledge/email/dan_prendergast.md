@@ -1,91 +1,93 @@
 # Dan Prendergast — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 52 emails (40 previous + 12 new)
-- **Date range:** 31 May – 4 Jun 2026
-- **Volume:** Sustained heavy activity; new data shows concentration on 3 Jun 2026 with continued logistics coordination and emerging partnerships; typical pattern confirms same-day multi-thread responses and rapid operational coordination
+- **Total messages scanned:** 63 emails (52 previous + 11 new)
+- **Date range:** 31 May – 5 Jun 2026
+- **Volume:** Sustained heavy activity; new data (4–5 Jun) shows continuation of logistics coordination, camera integration negotiation, and government/technical correspondence; pattern confirms rapid same-day multi-thread responses across multiple projects and time zones
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Jack Elston** (elstonj@blackswifttech.com) — primary collaborator; frequent on technical documents (Google Docs), project coordination, NAVAIR opportunities, government partnerships; appears to be project lead or technical authority
-- **Maciej Stachura** (stachura@blackswifttech.com) — technical/project coordinator; now visible on Greenland flight permissions (NEW)
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — growing correspondence; involved in SBIR and international coordination (UK MOD contact)
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — team member on NAVAIR coordination and Navy partnership work
+- **Jack Elston** (elstonj@blackswifttech.com) — primary collaborator; frequent on technical documents, NAVAIR opportunities, government partnerships
+- **Maciej Stachura** (stachura@blackswifttech.com) — technical/project coordinator; Greenland flight permissions
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — SBIR and international coordination
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — NAVAIR and Navy partnership work
 
 ### Top External Contacts
-- **Samo Stopar** (samo.stopar@c-astral.com, C-Astral) — NEW; emerging contact; camera system integration for BlackSwift platform; multiple rapid exchanges 3 Jun; appears to be hardware partnership/integration vendor
-- **Rok Tomazic** (rok.tomazic@c-astral.com, C-Astral) — NEW; C-Astral team member; camera support coordination; flagged IMPORTANT
-- **Robert Correia** (rcorreia@aeronet.com) — logistics/logistics operator; continued coordination on C&F #916414 shipping (continued from previous data)
-- **Jon Vince** (jon.vince@rogers.com) — Canada-based contact; battery shipment coordination to Ottawa
-- **Scott Smyser, Mark Goranson, Tom Wilp, Mohamed Sabry** (nanoveu.com) — NanoVEU team; EMASS project closeout
-- **Arthur Shune** (arthur@skymesasystems.com, SkyMesa Systems) — EW UAS collaboration
-- **Brody Basset** (bb@defensecoalitions.org, Defense Coalitions) — Colorado Defense & Industry Coalition; continued engagement
-- **Tanay Topac** (tanaytopac@stanford.edu, Stanford) — External technical advisor/consultant; MHP data alignment work
-- **Simon Laurence** (Simon.Laurence157@mod.gov.uk, UK MOD) — UK Ministry of Defence contact
-- **Ryan Sykora** (rsykora@kofirm.com) — NEW; unknown firm; appears in Jack Elston correspondence on updates (flagged IMPORTANT)
-- **Kevin S. Rozmiarek** (Kevin.Rozmiarek@colorado.edu, University of Colorado) — NEW; appearing in Greenland flight permissions coordination
 
-### Government Contacts
-- **Anthony D. Brescia** (NAWCAD/Navy) — Navy technical coordination
-- **NAVAIR** — Pre-release open topic period referenced (Jun 3); flagged IMPORTANT by Jack Elston
-- **Nicolas Verreault** (nicolas.verreault2@forces.gc.ca, Canadian Armed Forces)
-- **Harry Wong** (harry.wong@forces.gc.ca, Canadian Armed Forces)
+#### Hardware/Platform Integration Partners
+- **Rok Tomazic** (rok.tomazic@c-astral.com, C-Astral) — CRITICAL; camera support for BlackSwift; active negotiation through 5 Jun (flagged IMPORTANT 5 Jun); multiple rapid exchanges indicating urgent integration work
+- **Samo Stopar** (samo.stopar@c-astral.com, C-Astral) — camera system integration partner; emerging contact with sustained engagement
+
+#### New/Emerging Contacts (5 Jun Batch)
+- **Jure Dolinar** (jure.dolinar@atmolab.eu, Atmolab) — NEW; camera support inquiry for BlackSwift (4 Jun); appears to be alternative or complementary camera vendor being evaluated
+- **Wesley R. Enos** (wesley.r.enos@nasa.gov, NASA ARC-QS) — NEW; S2 cyber questions (flagged IMPORTANT 4 Jun); suggests NASA technical coordination or compliance review
+- **Trenton McKibben** (Trenton.McKibben@nextechsol.com, NexTech Solutions) — NEW; CJFC Vendor Brief transcript review; suggests military/government vendor event participation
+
+#### Logistics/Shipping
+- **Robert Correia** (rcorreia@aeronet.com, AeroNet) — continued C&F #916414 shipping coordination; multiple exchanges 4 Jun on pickup and battery shipping questions
+- **Scott Simpson** (scott.simpson@cratersandfreighters.com, Craters & Freighters) — NEW; general battery shipping inquiry (4 Jun); appears to be alternative or complementary logistics operator
+
+#### Government/Military
+- **Sarah Olsen, Maj USAF** (sarah.olsen.2@us.af.mil, 53 WRS/ARWO) — NEW; RFI S0 response (4 Jun); Air Force coordination on S0 UAS system
+- **Simon Laurence** (Simon.Laurence157@mod.gov.uk, UK MOD) — continuing Merlin Mk2/SBIR partnership
+- **Nicolas Verreault, Harry Wong** (Canadian Armed Forces) — continuing Canadian coordination
+
+#### Project Closeout
+- **NanoVEU team** (Mark Goranson, Scott Smyser, Tom Wilp, Mohamed Sabry) — EMASS project closeout continuing; bidirectional exchanges 4–5 Jun (flagged IMPORTANT 5 Jun)
+
+### Government Contacts (Expanded)
+- **NASA ARC-QS (Wesley Enos)** — NEW; cyber/technical questions on S2 system (4 Jun, IMPORTANT flag)
+- **USAF 53 WRS/ARWO (Sarah Olsen)** — S0 UAS RFI response coordination
+- **NAVAIR** — pre-release opportunity window (Jun 3, forwarded by Jack Elston)
+- **Canadian Armed Forces** — continuing operations coordination
 
 ## Topic Patterns
 
 ### Active Projects (Updated)
-1. **Merlin Mk2/US Navy SBIR** — Strategic submarine/maritime program involving UK MOD collaboration; continuing focus
-2. **DAF Agile EW Technical** — Department of Air Force electronic warfare initiative; document collaboration ongoing
-3. **BST-EMASS Project** — Ongoing closeout with NanoVEU team
-4. **BST/SkyMesa EW UAS** — Electronic Warfare collaboration
-5. **MHP Data Alignment** — Technical coordination with Stanford (Tanay Topac)
-6. **Arctic UAS Onboarding** — Materials timeline
-7. **S0 UAS System Integration** — Technical architecture work
-8. **NE27 Site Survey Requirements** — Navy coordination
-9. **BlackSwift Camera Integration** — NEW; C-Astral partnership; multiple exchanges on camera support; flagged IMPORTANT; appears to be hardware integration for BlackSwift UAS platform
-10. **Greenland Flight Permissions** — NEW; Maciej Stachura coordinating with University of Colorado (Kevin Rozmiarek); operational/regulatory requirement for field operations
 
-### Operational/Logistics (Expanded)
-- **Shipping coordination:** Continued C&F #916414 pickup and battery shipment logistics
-- **S3 Battery Invoice:** Dan drafting invoice for S3 battery (3 Jun); suggests billing/customer delivery cycle
-- **Hardware integration:** C-Astral camera system partnership; appears to be active platform development
-- **Flight Permissions:** Greenland operations require regulatory/government clearance coordination
+#### Hardware/Platform Integration (ACTIVE/URGENT)
+1. **BlackSwift Camera Integration** — CRITICAL; C-Astral (Rok Tomazic, Samo Stopar) active through 5 Jun; also evaluating Atmolab (Jure Dolinar) as potential alternative vendor; multiple flagged IMPORTANT exchanges; platform upgrade or customer requirement underway
+2. **S0 UAS System** — RFI response to USAF (Sarah Olsen, 4 Jun); technical/compliance coordination ongoing
+3. **S2 System** — NASA cyber questions (Wesley Enos, 4 Jun, IMPORTANT); suggests compliance review or technical audit in progress
 
-### Government/Strategic Opportunities (NEW)
-- **NAVAIR Pre-Release Open Topic Period (June 3)** — Jack Elston flagged as IMPORTANT and forwarded to Dan and Beck Cotter; suggests government funding opportunity or proposal window relevant to BST portfolio
-- **Kongsberg Discovery Connect** — Jack Elston forwarded as IMPORTANT; appears to be partnership or technology event; details unclear from headers alone
+#### Ongoing Project Management
+4. **Merlin Mk2/US Navy SBIR** — continuing UK MOD collaboration (Simon Laurence)
+5. **DAF Agile EW Technical** — document collaboration continuing
+6. **BST-EMASS Project** — active closeout with NanoVEU; bidirectional exchanges through 5 Jun (flagged IMPORTANT)
+7. **BST/SkyMesa EW UAS** — electronic warfare collaboration
+8. **MHP Data Alignment** — technical coordination with Stanford
+9. **NE27 Site Survey Requirements** — Navy coordination
+10. **Arctic UAS Onboarding** — materials timeline
+11. **Greenland Flight Permissions** — regulatory coordination with University of Colorado
+
+#### Government/Vendor Engagement
+12. **CJFC Vendor Brief** — NexTech Solutions transcript review (4 Jun); suggests Canadian Joint Forces Command military engagement or proposal process
+
+### Operational/Logistics (Continued)
+- **Shipping/Battery Logistics:** Concentrated activity 4 Jun on C&F #916414 pickup, general battery shipping questions with AeroNet (Robert Correia) and Craters & Freighters (Scott Simpson); suggests active customer delivery or inventory movement cycle
+- **Hardware Integration:** C-Astral camera evaluation continuing; Atmolab added as secondary vendor evaluation
 
 ## Communication Patterns
 
-- **Concentrated activity:** 3 Jun 2026 shows heavy coordination across camera integration (C-Astral), NAVAIR opportunity, MHP data alignment, and logistics
-- **Time zones:** Now spanning UTC+0200 (C-Astral/Europe), UTC+0000 (UK MOD), Mountain Time (-0600), and emerging UTC+0000 (Greenland coordination)
-- **Rapid multi-partner exchanges:** C-Astral camera support shows same-day back-and-forth (10:37, 16:06, 19:57, 20:49 UTC+0200 response) indicating active negotiation or integration sprint
-- **Document drafting:** S3 battery invoice in DRAFT status (3 Jun) suggests operational/billing process underway
-- **Importance flagging:** Continued high IMPORTANT flag pattern; 8 of 12 new emails flagged IMPORTANT or forwarded as such
-- **Government opportunity alerting:** Jack Elston actively forwarding strategic opportunities (NAVAIR, Kongsberg) to Dan and Beck Cotter; suggests Dan's involvement in business development or proposal strategy
+- **Concentrated burst activity:** 4–5 Jun shows sustained engagement across camera integration (C-Astral, Atmolab), logistics (AeroNet, C&F), government (USAF, NASA), and project closeout (NanoVEU)
+- **Multiple vendor evaluation:** Camera support for BlackSwift now shows at least two vendors in parallel (C-Astral flagged IMPORTANT on 5 Jun; Atmolab contacted 4 Jun); suggests either feature comparison, redundancy, or urgent timeline requiring parallel options
+- **Time zones:** Continuing span of Mountain Time (-0600), UTC+0000, UTC+0200 (C-Astral)
+- **Importance flagging:** 5 of 11 new emails flagged IMPORTANT or as INBOX priority; concentration on camera integration (C-Astral, 5 Jun), EMASS closeout (NanoVEU, 5 Jun), and NASA cyber questions (4 Jun)
+- **Government compliance activity:** New pattern emerging with NASA cyber questions (S2) and USAF RFI responses (S0); suggests compliance review or pre-contract technical assessment cycle
+- **Bidirectional project management:** Active engagement on both outbound responses (Dan → government, partners) and inbound IMPORTANT messages (C-Astral, NanoVEU, NASA) through 5 Jun
 
 ## Key Relationships
 
 ### Closest Internal Collaborators
-1. **Jack Elston** — Primary technical lead and strategic partner; forwarding government opportunities; document collaboration on technical initiatives
-2. **Joshua Fromm** — International program coordination (UK MOD, SBIR)
-3. **Maciej Stachura** — Technical/project operations; now visible on international flight operations
-4. **Beck Cotter** — Navy/government partnership coordination
+1. **Jack Elston** — Primary technical lead; strategic opportunity forwarding
+2. **Joshua Fromm** — International program coordination
+3. **Maciej Stachura** — Technical/project operations
+4. **Beck Cotter** — Government partnership coordination
 
-### Emerging External Relationships
-1. **C-Astral (Samo Stopar, Rok Tomazic)** — NEW; hardware integration partner; camera system for BlackSwift platform; active negotiation phase (flagged IMPORTANT)
-2. **University of Colorado (Kevin Rozmiarek)** — NEW; Greenland flight operations coordination; suggests academic partnership or regulatory pathway
+### Critical External Relationships (Updated Priority)
 
-### Critical External Relationships (Ranked by Activity)
-1. **C-Astral** — Emerging; active hardware partnership for platform development
-2. **UK MOD (Simon Laurence)** — Strategic partnership on Merlin Mk2/SBIR
-3. **Tanay Topac (Stanford)** — Technical consultant on MHP data alignment
-4. **NanoVEU** — EMASS project client in closeout
-5. **Canada-based operations** (Jon Vince, Robert Correia) — Logistics and international shipments
-6. **AeroNet (Robert Correia)** — Logistics operations partner
-
-## Notable Observations
-
-- **C-Astral camera integration is active/urgent:** Multiple flagged IMPORTANT exchanges on 3 Jun spanning 10:37–20:49 across two time zones; suggests either new customer requirement or platform upgrade underway; Samo Stopar and Rok Tomazic indicate vendor team engagement
-- **NAVAIR window opens June 3:** Jack Elston flagged pre-release open topic period and forwarded to Dan; timing suggests immediate proposal opportunity or strategy discussion required
+#### **TIER 1: ACTIVE/URGENT**
+1. **C-Astral (Rok Tomazic, Samo Stopar)** — Camera integration for BlackSwift platform; flagged IMPORTANT through 5 Jun; active negotiation/integration phase; appears to be high-priority platform development
+2. **NanoVEU (Mark Goranson, Scott Smyser, Tom Wilp, Mohamed Sabry)** — EMASS project closeout; flagged IMPORTANT 5 Jun; active bilateral coordination
+3. **NASA ARC-QS (Wesley Enos)** — Emerging government customer/compliance contact; S2 cyber questions (flagged IMPORTANT

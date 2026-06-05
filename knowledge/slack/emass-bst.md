@@ -8,12 +8,12 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Jack Elston (BST) - Autopilot/simulation expertise, hardware integration guidance, protocol specification, flight testing, data analysis
 - Dan Prendergast (BST) - Flight test coordination, E2 aircraft management, hardware setup lead, simulator testing
 - Mohamed M. Sabry (eMASS AI) - AI model training and constraint optimization, PPO (Proximal Policy Optimization) control strategy, project timeline management
-- Moe/Prof. Moe (eMASS AI) - AI model training and optimization
+- Moe/Prof. Moe (eMASS AI) - AI model training and optimization (appears to be same as Mohamed M. Sabry)
 - Maciej (BST) - Vehicle parameters and specifications
 - Sergio Ruocco (eMASS AI) - Autoboot firmware expert, SDK bring-up and troubleshooting
 - Shantanu (eMASS AI) - Hardware verification and validation
 
-**Activity Level:** Highly active collaboration spanning February-April 2026, with continued intensive activity through May 2026 focused on flight testing and controller refinement. Critical first-flight test completed on Apr 24, 2026. Activity through May 25, 2026 included troubleshooting waypoint navigation behavior, controller stability issues, sim-to-flight fidelity gaps, post-flight analysis, protocol documentation requests, and holiday scheduling. Activity May 26-27, 2026 involved delivery of three microtest binaries with comprehensive velocity command test sequences and overshoot validation. Activity May 28, 2026 focused on microtest flight results analysis and control behavior diagnostics. Latest activity (May 29, 2026) addressed velocity command precision issues and control limit parameters. **Current activity (June 2-3, 2026):** Testing multiple binary variants with hardcoded vs. waypoint-fetched flight paths; pilot scheduling and resource allocation becoming critical constraints with compressed test window and competing priorities.
+**Activity Level:** Highly active collaboration spanning February-April 2026, with continued intensive activity through May 2026 focused on flight testing and controller refinement. Critical first-flight test completed on Apr 24, 2026. Activity through May 25, 2026 included troubleshooting waypoint navigation behavior, controller stability issues, sim-to-flight fidelity gaps, post-flight analysis, protocol documentation requests, and holiday scheduling. Activity May 26-27, 2026 involved delivery of three microtest binaries with comprehensive velocity command test sequences and overshoot validation. Activity May 28, 2026 focused on microtest flight results analysis and control behavior diagnostics. Latest activity (May 29, 2026) addressed velocity command precision issues and control limit parameters. **Current activity (June 2-5, 2026):** Testing multiple binary variants with hardcoded vs. waypoint-fetched flight paths and varying max speed limits; iterative refinement of controller parameters (altitude adjustments, speed constraints); pilot scheduling and resource allocation remain critical constraints with compressed test window.
 
 ---
 
@@ -97,9 +97,5 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Flight Log User Guide references different range: 1150µs (0%) to 1900µs (100%)
 - **Decision: Pending clarification from Jack Elston on correct PWM range**
 
----
-
-## Projects & Initiatives
-
-**ECSDoT Integration onto E2 Aircraft (Ongoing)**
-- Primary objective: Integrate eMASS AI energy management system hardware onto BST's E2 aircraft platform
+**Multi-Speed Controller Variants Testing (Jun 4, 2026)**
+-

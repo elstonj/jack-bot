@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $1,094,440.04 *(+$1,417.54 from June 3–18, 2026)*
+- **Total Expenses (Bills + Purchases)**: $1,095,948.58 *(+$1,508.20 from June 4 & June 11–18, 2026)*
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,076,545.68 (expenses exceed revenue significantly)
+- **Net Position**: -$1,078,054.22 (expenses exceed revenue significantly)
 - **Date Range**: April 5, 2024 – June 18, 2026 (26+ months)
-- **Transaction Count**: 1,168 *(all confirmed)*
+- **Transaction Count**: 1,174 *(all confirmed)*
 
 ---
 
@@ -31,19 +31,19 @@
 ### Direct Labor & Subcontractors: $389,501.30
 **Total: $389,501.30** | **24 vendors** | **Largest: Matthew Crabtree $108,181.68**
 
-No new transactions in June 3–18 period in this category.
+No new transactions in June 4–18 period in this category.
 
 ---
 
 ### Materials & Direct Purchases: $520,989.60
 **Total: $520,989.60** | **72 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95**
 
-No new transactions in June 3–18 period in this category.
+No new transactions in June 4–18 period in this category.
 
 ---
 
-### IRAD Indirect R&D (Subcontractors & Internal): $80,813.92
-**Total: $80,813.92** | **62 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; Matthew Crabtree R&D Assembly $4,954.00; MicroFirm Engineering $6,257.60**
+### IRAD Indirect R&D (Subcontractors & Internal): $81,229.51
+**Total: $81,229.51** | **64 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; Matthew Crabtree R&D Assembly $4,954.00; MicroFirm Engineering $6,257.60**
 
 **Previously Confirmed Transactions (June 2–3, 2026):**
 - Purchase #SW46G546: $809.58 — S3 IRAD purchase
@@ -51,22 +51,41 @@ No new transactions in June 3–18 period in this category.
 - Purchase #0529JELSTON: $78.05 — Neoprene Vibration-Damping Sandwich Mount
 - Purchase #69038: $140.59 (June 11) — S3 IRAD shipment to Sean Cole
 
-**Status**: No additional R&D transactions in June 3–18 period beyond those recorded June 2–11.
+**New Confirmed Transactions (June 4–11, 2026):**
+
+**Purchase #260604**: $235.98 (June 4, 2026)
+- **Account**: [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]
+- **Description**: ARK 4IN1 ESC (Electronic Speed Controller)
+- **Status**: ✓ Confirmed
+- **Impact**: Flight control component for S3 R&D/prototyping; electrical systems development
+- **Pattern**: Consistent with ongoing S3 development; ESC is critical propulsion control element
+
+**Status**: June 4–18 period shows $235.98 in new IRAD R&D component purchases, focused on S3 flight systems (ESC + previously recorded Sean Cole shipment).
 
 ---
 
-### Sales & Marketing: $5,019.30
-**Total: $5,019.30** | **1 transaction**
+### Sales & Marketing: $5,074.74
+**Total: $5,074.74** | **2 transactions**
 
 **Previously Confirmed Transactions (June 2, 2026):**
 - Purchase #1315-5343: $5,019.30 — Yearly subscription
 
-**Status**: No additional transactions in June 3–18 period in this category.
+**New Confirmed Transactions (June 4, 2026):**
+
+**Purchase #PIRATE SHIP * POSTAGE - 7333**: $55.44 (June 4, 2026)
+- **Account**: [SALES & MARKETING:SM-Shipping]
+- **Description**: Lee Skidmore shipment to BTS for future S3 Sales
+- **Status**: ✓ Confirmed
+- **Impact**: Sample/prototype shipping for S3 evaluation; direct customer engagement activity
+- **Pattern**: Tactical sales support; shipping of S3 unit to prospective customer (BTS)
+- **Significance**: Links S3 development directly to sales execution; suggests active customer pipeline
+
+**Status**: June 4–18 period shows $55.44 in new S&M shipping expenses related to S3 customer engagement.
 
 ---
 
-### Inventory Asset (S3 Sales & S2 Production Scaling): $1,417.54 *(+$1,417.54)*
-**Total: $1,806.85** | **7 transactions**
+### Inventory Asset (S3 Sales & S2 Production Scaling): $3,132.59
+**Total: $3,132.59** | **11 transactions**
 
 **Previously Confirmed Transactions (June 3–4, 2026):**
 - Purchase #1083722: $907.80 (June 3) — E+E EE03 OEM Humidity/Temperature Module x4
@@ -89,26 +108,28 @@ No new transactions in June 3–18 period in this category.
 - **Impact**: S3 inventory component; second transaction on same date
 - **Pattern**: Aligns with S3 product scaling for sales readiness
 
+**Status**: June 4–18 period shows $460.79 in new inventory asset purchases (June 18), continuing S3 production scaling initiatives.
+
 ---
 
 ### Rent & Facilities: $52,923.63
 **Total: $52,923.63** | **5 transactions** | **Largest: W. W. Reynolds Companies $7,059.94**
 
-No new transactions in June 3–18 period in this category.
+No new transactions in June 4–18 period in this category.
 
 ---
 
 ### General & Administrative (Legal, Tariffs, Utilities, Accounting): $46,520.64
 **Total: $46,520.64** | **4 transactions** | **Largest: KO Law PC Investment Transaction $44,964.50; Tariff/Import Duties $498.57; Accounting Fees $360.00**
 
-No additional new transactions in June 3–18 period beyond June 2 accounting services ($360.00).
+No additional new transactions in June 4–18 period beyond June 2 accounting services ($360.00).
 
 ---
 
 ### Fringe Benefits (Retirement Contributions): $534.28
 **Total: $534.28** | **1 transaction**
 
-No new transactions in June 3–18 period in this category.
+No new transactions in June 4–18 period in this category.
 
 ---
 
@@ -121,31 +142,40 @@ No new transactions in June 3–18 period in this category.
 
 ## Monthly Spend by Category
 
-### June 2026 (Full Month: June 2–18) — Updated Summary
+### June 2026 (Updated: June 4–18) — Revised Summary
 | Category | Amount | # Transactions | Trend |
 |----------|--------|-----------------|-------|
-| Sales & Marketing | $5,019.30 | 1 | ↑ Annual subscription (June 2) |
-| IRAD Indirect R&D | $2,873.92 | 4 | → S3 component sourcing (June 2–11) |
-| Inventory Asset (S3 Production) | $1,417.54 | 4 | ↑ NEW: June 3–18 procurement acceleration |
+| Sales & Marketing | $5,074.74 | 2 | ↑ Annual subscription + S3 customer shipment (June 2, 4) |
+| IRAD Indirect R&D | $3,109.57 | 5 | → S3 flight systems + components (June 2–11) |
+| Inventory Asset (S3 Production) | $1,826.33 | 4 | ↑ ACCELERATING: June 3–18 procurement phase |
 | General & Administrative | $360.00 | 1 | → Accounting services (June 2) |
-| **June Total (to date)** | **$9,670.76** | **10** | Moderate spend; S&M + inventory focus |
+| **June Total (to date)** | **$10,370.64** | **12** | Elevated spend; S&M + R&D + inventory focus |
 
 ### Cumulative June 2026 (June 1–18)
 | Category | Amount | # Transactions |
 |----------|--------|-----------------|
-| Sales & Marketing | $5,019.30 | 1 |
-| IRAD Indirect R&D | $2,873.92 | 4 |
-| Inventory Asset | $1,417.54 | 4 |
+| Sales & Marketing | $5,074.74 | 2 |
+| IRAD Indirect R&D | $3,109.57 | 5 |
+| Inventory Asset | $1,826.33 | 4 |
 | General & Administrative | $360.00 | 1 |
-| **June YTD Total** | **$9,670.76** | **10** |
+| **June YTD Total** | **$10,370.64** | **12** |
 
 ### Key Patterns (June 2–18)
-- **S3 Inventory Scaling Acceleration**: $1,417.54 in new component purchases (June 18) signals shift from R&D to production inventory accumulation
-  - E+E EE03 humidity/temperature modules (qty 4, $907.80)
-  - Bearing shipment ($48.96)
-  - Unspecified components ($460.79 across two June 18 purchases)
-- **Production Readiness Signals**: Consistent focus on S3 component procurement suggests imminent production/sales phase
-- **Spending Velocity**: $9,670.76 in 18 days (~$538/day average) reflects elevated activity relative to prior monthly patterns
+- **S3 Multi-Phase Acceleration**: $10,370.64 in 18 days reveals coordinated push across three vectors:
+  1. **R&D Flight Systems** ($3,109.57): ESC, nosecone rings, environmental sensors, assembly components
+  2. **Production Inventory** ($1,826.33): Humidity/temperature modules (qty 4), bearings, unspecified components
+  3. **Sales Execution** ($5,074.74): Marketing platform ($5,019.30) + customer shipment ($55.44)
+  
+- **S3 Go-to-Market Signal**: Lee Skidmore shipment to BTS (June 4) for "future S3 Sales" indicates active customer evaluation phase; first documented sample shipment in this data set
+  
+- **Component Procurement Pattern**:
+  - Environmental sensing (E+E EE03 humidity/temp modules)
+  - Flight control (ARK 4IN1 ESC)
+  - Structural (nosecone rings qty 3)
+  - Mechanical (bearings)
+  - Suggests multi-system prototyping/production units in final stages
+
+- **Spending Velocity**: $10,370.64 in 18 days (~$576/day average) is **elevated vs. baseline** and reflects transition from passive R&D to active production/sales execution
 
 ---
 
@@ -153,56 +183,24 @@ No new transactions in June 3–18 period in this category.
 
 ### CRITICAL PRIORITY
 
-1. **Sales & Marketing Annual Subscription - $5,019.30 (June 2, 2026)**
-   - **Significance**: NEW major expense category; largest single transaction in June period
-   - **Details**: Yearly subscription (likely HubSpot, Marketo, or similar platform)
-   - **Impact**: ~$418/month equivalent commitment; represents strategic marketing investment
+1. **Sales & Marketing Annual Subscription + Customer Shipment - $5,074.74 (June 2–4, 2026)**
+   - **Components**:
+     - Annual platform subscription: $5,019.30 (June 2) — likely HubSpot, Marketo, or similar CRM/marketing platform
+     - Lee Skidmore S3 sample shipment to BTS: $55.44 (June 4) — **first documented customer engagement**
+   - **Significance**: HIGHEST priority transaction cluster in June
+   - **Details**: Coordinated marketing + sales execution within 48-hour window
+   - **Impact**: $418/month equivalent platform commitment + active customer pipeline engagement
    - **Status**: ✓ Confirmed
-   - **Action Required**: Verify platform purpose, expected ROI, and alignment with revenue targets (currently $0 cash collected)
-   - **Question**: Is this tied to new customer acquisition strategy for S3/aviation products? Timeline alignment with S3 inventory accumulation?
+   - **Action Required**: 
+     - Verify platform ROI expectations vs. current zero revenue collections
+     - Confirm BTS evaluation timeline and win probability
+     - Link S3 inventory purchases to BTS (and Krateo Sky/Weather Stream) customer readiness
+   - **Risk**: Heavy marketing/sales spend activation with no current cash inflow; highly dependent on near-term customer conversion
 
-2. **Phase1 Aviation Double-Payment (Invoice #1696 - $6,105.00)**
-   - **Status**: UNRESOLVED (11+ months outstanding)
-   - **Action Required**: Recovery or credit memo needed for accidental duplicate payment
-   - **Age**: Issued Aug 2025; now 10+ months outstanding
-   - **Impact**: Represents 34% of total outstanding receivables
-   - **Urgency**: Escalate collections immediately
-
-3. **Outstanding Receivables - $17,894.36 (100% unpaid)**
-   - **Status**: CRITICAL
-   - **Composition**: 3 invoices, all >6 months old (oldest: Aug 2025; newest: Apr 2026)
-   - **Breakdown**:
-     - Krateo Sky: $10,860.48 (Apr 2026 — 2.5+ months old)
-     - Weather Stream: $928.88 (Dec 2025 — 6.5+ months old)
-     - Phase1 Aviation: $6,105.00 (Aug 2025 — 10+ months old, includes double-payment)
-   - **Action Required**: Immediate collection follow-up; verify customer payment status & resolve Phase1 dispute
-   - **Cash Impact**: Collecting these receivables would significantly improve net position
-
----
-
-### HIGH PRIORITY
-
-4. **S3 Inventory Acceleration Phase (June 3–18)**
-   - **New Purchases**: 4 transactions totaling $1,417.54
-   - **Components**: 
-     - E+E EE03 OEM Humidity/Temperature modules x4 ($907.80) — environmental sensing
-     - Bearing shipment + shipping ($48.96) — mechanical assembly
-     - Two unspecified S3 components ($460.79 on June 18)
-   - **Implication**: Transition from R&D prototyping to production inventory accumulation
-   - **Timeline Significance**: Coincides with annual marketing subscription (June 2); suggests coordinated go-to-market prep
-   - **Burn Rate**: $1,417.54 in 16 days (June 3–18) indicates sustained component acquisition ahead of sales
-   - **Risk**: Production inventory accumulating with zero current sales revenue; increasing financial exposure
-   - **Monitor**: 
-     - Track component procurement timeline against planned S3 launch date
-     - Correlate with Krateo Sky ($10.86K) and Weather Stream ($.93K) customer readiness
-     - Verify that marketing subscription is driving revenue conversion for accumulated inventory
-
-5. **S3 Nosecone Rings (Qty 3) - $1,926.40 (June 2, 2026)**
-   - **Significance**: Largest single R&D component purchase in June 2–11 window
-   - **Implication**: Structural component for multiple units or batch production
+2. **S3 Customer Sample Shipment to BTS - $55.44 (June 4, 2026)**
+   - **Significance**: **FIRST documented customer engagement transaction**
+   - **Details**: Lee Skidmore shipment for "future S3 Sales" to BTS (prospective customer)
+   - **Implication**: Direct customer evaluation phase; indicates BTS is qualified prospect
+   - **Timeline**: Occurs within 48 hours of $5K annual marketing subscription; suggests coordinated go-to-market
    - **Status**: ✓ Confirmed
-   - **Context**: Part of coordinated S3 development acceleration (R&D + inventory procurement)
-
-6. **E+E EE03 OEM Humidity/Temperature Modules (Qty 4) - $907.80 (June 3, 2026)**
-   - **Significance**: Sensor procurement for S3 production units
-   - **Implication**: Qty 4 suggests 4
+   - **Action Required**:

@@ -1,11 +1,11 @@
 # Meredith O'Hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,500 (2,402 previous + 98 new from June 3)
-- **Date range:** March 23 – June 3, 2026 (approximately 10.9 weeks)
+- **Total messages scanned:** 2,541 (2,500 previous + 41 new from June 4–5)
+- **Date range:** March 23 – June 5, 2026 (approximately 10.9 weeks)
 - **Approximate volume:** 25–40 emails per day (mix of sent, received, and automated)
-- **June 3 new data:** 98 messages; **~30% human-initiated direct business (29 messages); ~70% transactional/automated/vendor notifications**
-- **Pattern sustained:** High-volume operational execution; sustained weekend activity with critical legal/compliance/tax escalations; heavy vendor/supplier coordination; significant academic partnership engagement
+- **June 4–5 new data:** 41 messages; **~27% human-initiated direct business (11 messages); ~73% transactional/automated/vendor notifications**
+- **Pattern sustained:** High-volume operational execution; heavy vendor/supplier coordination; internship onboarding; active legal/tax escalation management; government contract oversight
 
 ---
 
@@ -14,87 +14,101 @@
 ### Top Internal Contacts
 
 - **Jack Elston** — Legal/investor coordination, government contracts, strategic operations, academic partnerships, vendor escalations, tax advisory
-  - **June 3 activity (7 messages, all IMPORTANT/STARRED):** Multi-party legal/compliance escalations with KO Firm (Nadia Bryan, Charu Ganesh, Ryan Sykora); tax coordination with Mark Kightlinger; R&D Credit document request to Thierry Lepoutre; MHP data alignment coordination with Stanford (Tanay Topac, David Luna); "Checking In," "Updates," and "Re: Your order from Moe's Broadway Bagel" threads
-  - **Pattern:** Primary decision-maker and escalation hub; routes complex multi-stakeholder matters; coordinates external advisors and academic partnerships
+  - **June 4–5 activity (3 messages):** Forwarding Rubicon shipment ETA coordination; property audit with NOAA (Joe Cione); disclosure schedule finalization with Nadia Bryan
+  - **Pattern:** Primary escalation hub; routes complex multi-stakeholder matters; manages government compliance (NOAA property audits)
 
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — **CFO/Operations Leadership**
-  - **June 3 activity:** Routed to KO Firm legal/compliance escalations; DSIP (Defense SBIR/STTR Innovation Portal) proposal submissions/certifications received
-  - **Signal:** Finance/compliance decision authority; involved in government contracting proposals
+- **Beck Cotter** (CFO/Operations Leadership)
+  - **June 4 activity:** Google Docs comment on "Schedule_2_Existi..." disclosure document
+  - **Signal:** Active involvement in disclosure schedules finalization
 
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — **Engineering/Operations**
-  - **June 3 activity (5 messages, IMPORTANT):** Rubicon Aerospace shipping coordination (Lee Skidmore); S0 Fuse and Machined Parts logistics; purchasing/inventory management
-  - **Signal:** Engineering lead or operations manager; primary contact for supplier logistics and technical procurement
-
-- **Maciej Stachura** (stachura@blackswifttech.com) — **Legal/Compliance**
-  - **June 3 activity:** MHP data alignment coordination with Stanford (Tanay Topac, Jack Elston); R&D Credit document request routing
-  - **Signal:** Legal/compliance coordination on academic and tax matters
-
-- **Nathaniel Straus** (nate.straus@blackswifttech.com) — **External Affairs/Academic Liaison**
-  - **June 3 activity (2 messages, IMPORTANT):** MHP data alignment with Stanford contacts (Tanay Topac); forwarding academic coordination
-  - **Signal:** Academic partnership and external stakeholder management
+- **Maciej Stachura** (Legal/Compliance)
+  - **June 4 activity (1 message):** Receives shipment ETA forwarding from Meredith
+  - **Pattern:** Routing operational logistics to compliance/legal coordination
 
 ### Top External Contacts
 
-**Legal & Compliance — DISCLOSURE/REGULATORY PHASE (CRITICAL)**
+**Legal & Compliance — ONGOING DISCLOSURE PHASE**
 
 - **Nadia Bryan** (nbryan@kofirm.com) — **KO FIRM LEGAL COUNSEL**
-  - **June 3 activity (2 messages, IMPORTANT):**
-    - 23:39 UTC: "RE: Black Swift - Disclosure Schedules" (STARRED)
-    - 21:54 UTC: Jack Elston responding to Bryan's disclosure schedules inquiry
-  - **Signal:** Active disclosure schedule finalization; multi-party legal escalation chain; **deal/funding documentation phase ongoing**
+  - **June 4 activity (2 messages, both IMPORTANT):**
+    - 16:27 UTC: "RE: Checking In" (to Meredith)
+    - 17:39 UTC: "RE: Black Swift - Disclosure Schedules" (to Jack Elston)
+  - **Meredith response (10:24 UTC):** "Re: Checking In"
+  - **Signal:** Continued disclosure schedule finalization; active status check on legal/disclosure matters
 
-- **Charu Ganesh** (cganesh@kofirm.com) — **KO FIRM PARTNER**
-  - **June 3 activity (1 message, IMPORTANT):**
-    - 21:48 UTC: Jack responding to "Re: Updates" (multi-party escalation with Ryan Sykora)
-  - **Signal:** Compliance updates and legal coordination continuing
-
-- **Ryan Sykora** (rsykora@kofirm.com) — **KO FIRM LEGAL**
-  - **June 3 activity (2 messages, IMPORTANT):**
-    - 20:16 UTC: "RE: Updates" (routed to Jack, Charu)
-    - 17:58 UTC: "RE: Updates"
-  - **Signal:** Ongoing legal/compliance escalations on disclosure and regulatory matters
-
-**Accounting & Tax Services — CRITICAL ESCALATION PHASE**
+**Tax Advisory — ONGOING ESCALATION**
 
 - **Mark Kightlinger** (Mark@kcotax.com) — **TAX ADVISOR**
-  - **June 3 activity (6 messages, all IMPORTANT, rapid back-and-forth):**
-    - 18:20 UTC: Meredith responding to Mark's advisory
-    - 17:59 UTC: Mark to Meredith: "RE: BST Tax Issues - Need Help"
-    - 17:34 UTC: Mark to Jack Elston: "RE: BST Tax Issues - Need Help"
-    - 12:02 UTC: Meredith to Mark (response)
-    - 11:43 UTC: Meredith to Mark (response)
-    - 12:32 UTC: Jack routing to Mark with Meredith, Maciej Stachura
-  - **Pattern:** Same-day rapid Q&A on tax compliance issues; Meredith is primary liaison to tax advisor; Jack routing critical tax matters through Meredith
-  - **Signal:** **Active tax compliance crisis/escalation; multiple rounds of same-day resolution attempts**
+  - **June 4 activity (1 message, IMPORTANT):**
+    - 22:40 UTC: "RE: BST Tax Issues - Need Returns for Prior Years"
+  - **Pattern:** Continues same-day escalation pattern; requesting prior year tax returns
+  - **Signal:** **Tax compliance issue escalation ongoing; prior year return gaps identified**
 
-- **Christy Evans** (cevans@reliascent.com) — **ACCOUNTING SERVICES**
-  - **June 3 activity (1 message, IMPORTANT):**
-    - 15:00 UTC: "RE: Question about 2026 reconciliation"
-  - **Pattern:** Continues active 2026 financial reconciliation work
-  - **Signal:** Year-end financial close coordination
+**Internship Onboarding — NEW PATTERN**
 
-**External Partners & Logistics — RUBICON AEROSPACE (PRIMARY)**
+- **Spencer Hoehl** (spence.hoehl@gmail.com) — **INTERN CANDIDATE/NEW HIRE**
+  - **June 4 activity (6 messages, IMPORTANT, multi-exchange):**
+    - 11:31 UTC: Spencer to Meredith: "Re: Black Swift Technologies Internship"
+    - 15:54 UTC: Spencer to Meredith: "Re: Black Swift Technologies Internship"
+    - Meredith responses: 09:20 UTC, 13:20 UTC, 16:09 UTC
+  - **Rippling onboarding signals:**
+    - 21:37 UTC: "Spencer Hoehl has signed their document"
+    - 21:40 UTC: "Spencer Hoehl has signed some of their documents"
+    - 07:57 UTC (June 5): "Account creation failed for Spencer Hoehl in Toggl"
+  - **Pattern:** Meredith is primary internship onboarding contact; Spencer completing new hire documentation; technical account setup issues in Toggl
+  - **Signal:** **Active internship hire in onboarding process; Meredith managing people ops/HR coordination**
+
+**External Logistics & Suppliers**
 
 - **Lee Skidmore** (lee@rubiconaerospace.com) — **RUBICON AEROSPACE PARTNER**
-  - **June 3 activity (5 messages, all IMPORTANT, multi-exchange):**
-    - 23:20 UTC: "Rubicon - Upcoming Invoicing" (to Meredith, Joshua Fromm, Jeremy Van Vliet)
-    - 21:33 UTC: "Re: Rubicon - Update" (to Meredith, Joshua Fromm)
-    - 16:12 UTC: "Re: Rubicon - Update" (to Meredith)
-    - 22:08 UTC: "Shipping - S0 Fuse and Machined Parts" (to Joshua Fromm, Meredith)
-    - Earlier exchanges: Multiple coordination rounds on "Rubicon - Update"
-  - **Pattern:** Rapid multi-exchange shipping and invoicing coordination; Meredith actively managing logistics
-  - **Signal:** **Rubicon Aerospace is active major supplier/partner; S0 Fuse and Machined Parts are critical components; upcoming invoice cycle**
+  - **June 4 activity (1 message, SENT):**
+    - 10:19 UTC: Meredith to Lee: "Re: Rubicon - Upcoming Invoicing"
+  - **Pattern:** Continued invoicing coordination
+  - **Signal:** Ongoing supplier relationship management
 
-**Freight & Logistics Coordination**
+- **Stephanie J. Cintron** (CINTRONS@erau.edu) — **EMBRY RIDDLE AERONAUTICAL UNIVERSITY**
+  - **June 4 activity (1 message, STARRED, IMPORTANT):**
+    - 14:30 UTC: "Shipment ETA" (to Meredith, marked YELLOW_STAR)
+  - **Pattern:** Academic/research institution; shipment coordination
+  - **Signal:** **New external academic partner in active logistics phase; ERAU appears to be research/testing partner**
 
-- **Patrick Mulstay** (pmulstay@aeronet.com) — **AERONET LOGISTICS**
-  - **June 3 activity (7 messages, IMPORTANT, same-day rapid exchanges):**
-    - 20:05 UTC: "RE: Shipment set-up / 103032222 /"
-    - 19:09 UTC: "RE: Shipment set-up / 103032222 /"
-    - 17:00 UTC: "RE: Shipment set-up / 103032222 /"
-    - 16:50 UTC: "RE: Shipment set-up / 103032222 /"
-    - 14:09 UTC: Meredith to Patrick: "Re: Shipment set-up / 103032222 /"
-    - 14:08 UTC: Meredith responding to Patrick
-    - 10:52 UTC: Meredith to Patrick (initial coordination)
-  - **Pattern:** Intensive same-day back-and-forth on housebill 103032222; multiple rounds of clarification
-  
+- **Cory Dixon** (coryrdixon@gmail.com) & **Brad Cheetham** (brad.cheetham@gmail.com) — **CONTRACTORS/VENDORS**
+  - **June 4 activity (2 messages, SENT):**
+    - 10:22 UTC: Meredith to Cory: "Re: W-9 request"
+    - 10:20 UTC: Meredith to Brad: "Re: W-9 Form Request"
+  - **Pattern:** W-9 tax form collection from independent contractors
+  - **Signal:** **Active contractor/1099 vendor management; tax documentation coordination**
+
+- **Info Jawstec** (info@jawstec.com) — **JAWSTEC MANUFACTURING LLC (SUPPLIER)**
+  - **June 4 activity (2 messages):**
+    - 09:54 UTC: Meredith to Info Jawstec: "Being charged for sales tax - but have tax exempt certificate" (SENT)
+    - 21:04 UTC: "We have received Order #69104"
+    - 21:08 UTC: "New payment request from JawstTec Manufacturing LLC - invoice 69104"
+    - 23:03 UTC: "Invoice - Reminder: Your payment to JawsTec Manufacturing LLC is due"
+  - **Pattern:** Active vendor dispute resolution; tax-exempt status enforcement
+  - **Signal:** JawsTec is ongoing supplier with invoice/tax compliance issues
+
+**Government & SBIR Contracts**
+
+- **Joe Cione** (joe.cione@noaa.gov) — **NOAA FEDERAL**
+  - **June 4 activity (1 message, routed to Jack Elston, IMPORTANT):**
+    - 09:04 UTC: "Re: Property Audit" (Jack Elston responding on this thread)
+  - **Pattern:** Government property audit oversight; Jack as primary interface
+  - **Signal:** **Active NOAA contract/grant property audit in progress**
+
+- **FC-Lmc, SBIR** (sbir.fc-lmc@lmco.com) — **LOCKHEED MARTIN / SBIR PROGRAM**
+  - **June 4 activity (1 message):**
+    - 17:49 UTC: "06/25 Invitation: DoW SBIR/STTR Transitions Program: Key 2026 Updates"
+  - **Pattern:** Government contracting webinar/education
+  - **Signal:** SBIR/STTR program engagement; DoD (Department of War) transitions focus
+
+**Vendor & Logistics Coordination (Automated/Transactional)**
+
+- **McMaster-Carr** (chi.sales@mcmaster.com) — **INDUSTRIAL SUPPLIER**
+  - **June 4 activity (2 messages):**
+    - 16:58 UTC: "Confirmation for Your June 4th Order"
+    - 18:01 UTC: "Certificates and Tracking for Your June 4th Order"
+
+- **Katie Campbell** (kcampbell@instrumart.com) — **INSTRUMART**
+  - **June 4 activity (1 message, IMPORTANT):**
+    -

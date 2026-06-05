@@ -1,57 +1,55 @@
 # Ethan Domagala — Email Patterns
 
 ## Communication Volume
-- Total messages scanned: **11** (2 previous + 9 new)
-- Date range: 2 Jun – 3 Jun 2026
-- High activity on 3 Jun (8 of 9 new emails)
+- **Total messages scanned:** 17 (11 previous + 6 new)
+- **Date range:** 2 Jun – 5 Jun 2026
+- **Activity trend:** Sustained high activity; 4 new tasks assigned on 5 Jun; 2 overdue tasks flagged on 5 Jun
 
 ## Key Correspondents
 
 **Top senders:**
 - Dan Prendergast (via Asana) — 4 task assignments on 3 Jun
-- Asana notifications — 2 messages
+- Asana notifications — 4 messages (3 new: task assignments + overdue alerts)
+- **Craig McManus** (ByLight) — 2-message exchange on 4 Jun (NEW)
 - External: Boski Patel (Kongsberg), Mountain West UAS, GetFPV, Protolabs, Lucid, Google Gemini
 
 **Breakdown:**
-- Internal: Dan Prendergast (BST), Asana (internal PM tool), Gemini/Google (internal notes)
-- External: Kongsberg Discovery, Mountain West UAS, GetFPV, Protolabs, Lucid
+- Internal: Dan Prendergast (BST), Asana (internal PM tool), Gemini/Google
+- External: Craig McManus (ByLight), Kongsberg Discovery, Mountain West UAS, GetFPV, Protolabs, Lucid
 
 ## Topic Patterns
 
 **Active project:**
-- **Mount & Retract System** — 4 task assignments from Dan Prendergast on 3 Jun covering:
-  - CAD for camera mount
-  - Design retract mechanism
-  - Fab/Order parts for mount & retract
-  - Assemble and integrate onto S3
+- **Mount & Retract System** — 4 task assignments from Dan Prendergast on 3 Jun (ongoing)
+- **3D Printing** — New topic thread with Craig McManus (ByLight); 2-message exchange on 4 Jun, marked IMPORTANT (NEW)
 
 **External interests/subscriptions:**
-- FPV drones (GetFPV marketing)
+- FPV drones (GetFPV marketing — now flagged IMPORTANT on 5 Jun)
 - Rapid prototyping (Protolabs)
-- Drone competition (Mountain West UAS – "Drone Olympics")
-- Kongsberg Discovery (industrial/tech partnership inquiry)
-- AI/documentation tools (Lucid newsletter)
+- Drone competition (Mountain West UAS)
+- Kongsberg Discovery
+- AI/documentation tools (Lucid)
 
 ## Communication Patterns
 
-- **Burst activity on 3 Jun:** 4 consecutive Asana task assignments at 18:22–18:23 UTC (coordinated task batch from Dan)
+- **Task assignment batches:** 4 tasks on 3 Jun (18:22–18:23 UTC), 4 tasks on 5 Jun (06:15 UTC) — suggests regular sprint/planning cycle
+- **Overdue task alert:** 5 Jun 07:06 UTC — IMPORTANT flag indicates deadline pressure
+- **External business conversation:** Craig McManus (ByLight) exchange on 4 Jun marked IMPORTANT both directions — suggests active collaboration or urgent matter
 - **Automated/system emails:** Asana notifications, Gemini notes, newsletters (Lucid, GetFPV, Protolabs)
-- **Important flags:** 2 emails marked IMPORTANT (Gemini meeting notes, Kongsberg message from Boski Patel)
 
 ## Key Relationships
 
 **Internal:**
-- **Dan Prendergast** — Direct manager/project lead assigning multiple tasks on Mount & Retract System
+- **Dan Prendergast** — Direct manager/project lead; assigning regular task batches (2 batches in 3 days)
 
-**External:**
-- **Boski Patel** (Kongsberg) — Marked IMPORTANT; appears to be a business/partnership contact
-- **Mountain West UAS** — Community/competition engagement (Drone Olympics)
+**External (NEW):**
+- **Craig McManus** (ByLight) — Active correspondence on 3D Printing; IMPORTANT flagged on both received and sent messages; appears to be a technical/vendor collaboration
+- **Boski Patel** (Kongsberg) — Previously marked IMPORTANT; ongoing external contact
 
 ## Notable Observations
 
-- Ethan appears to be hardware-focused (CAD, mechanical design, fabrication, assembly)
-- Active in FPV/drone community (subscribed to GetFPV, participating in drone competitions)
-- Just received a substantial task batch on 3 Jun (Mount & Retract System has multiple interdependent components)
-- All new emails are unread, suggesting recent inbox activity
-- Kongsberg contact (Boski Patel) warrants attention — marked IMPORTANT and appears to be external business development
-- S3 reference in assembly task suggests internal BST product/platform designation
+- **Task velocity:** Ethan is receiving frequent task assignments (8 total tasks in 3 days from Dan) with 2 now overdue as of 5 Jun — workload appears heavy
+- **New external collaboration:** Craig McManus (ByLight) appears to be a new or escalating contact; 3D Printing topic likely relates to Mount & Retract System fabrication
+- **GetFPV marketing now IMPORTANT:** Changed from routine newsletter to flagged status on 5 Jun — possible inventory alert for a specific component Ethan is tracking
+- **Timing pattern:** Task assignments cluster early morning (Dan batch) and mid-morning (Asana batches); overdue alert at 07:06 UTC suggests Ethan checks email early
+- **S3 assembly/integration:** Mount & Retract System tasks span CAD → design → fabrication → assembly, indicating cross-functional hardware development cycle
