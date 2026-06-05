@@ -4,14 +4,14 @@
     "(001-4) IRAD - S0 VTOL"
   ],
   "period": {
-    "start": "2026-05-03",
-    "end": "2026-05-06"
+    "start": "2026-06-04",
+    "end": "2026-06-05"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 298.4,
+    "expenses": 235.98,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 298.4
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 235.98
     }
   },
   "invoices": [],
@@ -19,91 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-05-04",
-      "doc_number": "",
-      "total": 14.79,
-      "attributed": 14.79,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "second request in Asana was out of stock, so replaced with new purchase",
-      "lines": [
-        {
-          "amount": 14.79,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "MECCANIXITY Rigid Screw Coupling 6mm to 10mm"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-04",
-      "doc_number": "",
-      "total": 155.94,
-      "attributed": 155.94,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "second request in Asana was out of stock, so replaced with new purchase",
-      "lines": [
-        {
-          "amount": 155.94,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Rotatable Hall Sensor x 6"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-04",
-      "doc_number": "300043410",
-      "total": 75.77,
-      "attributed": 75.77,
+      "date": "2026-06-04",
+      "doc_number": "260604",
+      "total": 235.98,
+      "attributed": 235.98,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 75.77,
+          "amount": 235.98,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "10mm Round Servo Shaft (25 Tooth Spline, 36mm Length) x 6"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-04",
-      "doc_number": "",
-      "total": 23.96,
-      "attributed": 23.96,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 23.96,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Eagle Tree Systems Optical RPM Sensor x 3"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-04",
-      "doc_number": "HDR653461",
-      "total": 27.94,
-      "attributed": 27.94,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 27.94,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Hobbywing - RPM Sensor For High-Voltage ESC x 3"
+          "description": "ARK 4IN1 ESC"
         }
       ]
     }

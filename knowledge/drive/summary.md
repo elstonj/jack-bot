@@ -1,64 +1,65 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-06-04 02:26
+Last scanned: 2026-06-05 02:22
 
-Total drives scanned: 2
+Total drives scanned: 1
 
 ## Drives
 
-- **Federal Projects** — 13 files — [federal_projects.md](federal_projects.md)
-- **Sales** — 2 files — [sales.md](sales.md)
+- **Federal Projects** — 6 files — [federal_projects.md](federal_projects.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Google Drive Strategic Overview
+# Black Swift Technologies — Strategic Drive Overview
 
-## Summary Statistics
-- **Total files across drives:** 15
-- **Total folders:** 0 (flat structure across all drives)
-- **Date range:** 2022-02-07 (Federal drive creation) → 2099-01-24 (latest modification)
-- **Active editors:** Beck Cotter (primary)
+## Executive Summary
+BST maintains a **minimalist shared drive structure** with only one active federal-focused drive containing 6 files. The organization reflects intentional consolidation or archival of historical content, with current focus on active federal proposals and meetings.
 
-## Drive Organization & Content
+---
 
-### Federal Projects (13 files | Primary focus)
-**Primary purpose:** Federal contract deliverables, technical proposals, SBIR/STTR submissions, and Air Force/defense program documentation
+## Drive Analysis
 
-**Key document types:**
-- Proposals & RFPs (SBIR/STTR submissions via DSIP portal)
-- Contracts & letters of commitment
-- Invoices & progress reports
-- Video assets
+### Federal Projects Drive
+**Status:** Active but lean  
+**File Count:** 6 files | **Organization:** Flat (no subfolders)
 
-**Notable clients/projects:**
-- Air Force (DAF programs)
-- Defense SBIR/STTR Innovation Portal (DSIP)
-- Runtime Autonomy initiative (referenced in historical folder structure)
+**Content Snapshot:**
+- **Proposals & tracking:** Master Proposal Tracking (actively maintained as of 2026-06-04)
+- **Client engagement:** Recent presentations and meeting notes (2026-05 to 2026-06)
+- **Scope:** Air Force, SBIR/STTR, and DAF program deliverables
 
-### Sales (2 files | Minimal activity)
-**Primary content:**
-- EMASS Proposal
-- EMASS Proposal Addendum
-- Last modified: 2026-06-03
+**Key Observations:**
+- Flat structure suggests either early-stage drive setup or deliberate simplification
+- Recent activity (June 2026) indicates active federal business development
+- Evidence of prior structure (`DoW Runtime Autonomy/` folder) indicates historical consolidation/archival
 
-## Key Observations
+---
 
-### Strengths
-- Clear thematic separation (Federal vs. Sales drives)
-- Federal drive contains comprehensive proposal tracking and submission documentation
-- Beck Cotter actively maintaining current documents
+## Cross-Drive Patterns & Gaps
 
-### Areas Needing Attention
-- **Flat folder structure** across all drives limits scalability and discoverability
-- **Federal drive reorganization:** Previously planned `DoW Runtime Autonomy/` subfolder no longer present—unclear if files were consolidated or lost
-- **Minimal Sales activity:** Only 2 files suggests either dormant focus or content stored elsewhere
-- **Naming conventions:** Inconsistent (e.g., "BLACK SWIFT TECHNOLOGIES LLC 5095576 Proposal Final Decision (2).pdf")
-- **No apparent template repository** for proposals or contracts despite repetitive document types
-- **Document version control:** Multiple proposal versions suggest need for standardized naming/archival
+⚠️ **Notable absence:** No visible Sales, Contracts, or General Administration drives in provided data
+
+**Inferred workflow:**
+- Federal Projects drive appears to be **client-specific** rather than organization-wide
+- Likely pattern: Specialized drives per business function (sales, contracts, ops) not shown
+
+---
+
+## Document Management Health
+
+✅ **Strengths:**
+- Current documents actively maintained (recent editor activity)
+- Clear naming conventions ("Master Proposal Tracking," dated meeting notes)
+
+⚠️ **Areas for attention:**
+- **Flat folder structure** limits scalability as federal portfolio grows
+- **Missing context:** No visible folder taxonomy for contract types, fiscal years, or project codes
+- **Historical data:** Previous subfolder structure suggests need for clear archival/consolidation policies
+
+---
 
 ## Recommendations
-1. Implement hierarchical folder structure by project/client (especially Federal drive)
-2. Establish naming conventions across drives
-3. Create shared template library for proposals and contracts
-4. Clarify status of reorganized Federal documents
-5. Review Sales drive scope—expand activity or consolidate with Federal if integrated
+
+1. **Implement tiered folder structure** if federal workload expands (by FY, contract type, or Air Force program)
+2. **Clarify archival location** for migrated files (e.g., Drive, Google Vault, or offline storage)
+3. **Surface other BST drives** for full strategic context (Sales, Operations, Finance)

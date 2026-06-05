@@ -6,9 +6,9 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 **Key Participants:** Jack Elston (primary decision-maker and proposal reviewer), Maciej (technical/proposal support), Meredith Needham (budget/administrative), Dan Prendergast (proposal coordination), Beck Cotter (program management), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm (hardware/integration), Paige Smith (presentation/logistics support), Arthur (technical partner for payload/antenna work), Bryan (external contact for Vulcan opportunity), Sona (operational/budget planning), Gijs (BNL partner), Kirsten Boogard (777 PM at NOAA), Bob and Lisa (camera/integration leads), SkyMesa (RF/EW partner), and others contributing to specific proposals.
 
-**Activity Level:** Extremely high throughout the period (March 2024 - June 3, 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. Pace remains intense through June 3, 2026 with rapid sequential submissions, active pursuit of new competitive opportunities, implementation/integration planning, and vendor onboarding processes. Significant external partnerships and customer engagement alongside proposal work.
+**Activity Level:** Extremely high throughout the period (March 2024 - June 3, 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. June 2026 represents a particularly intense submission period with 11 major proposals/responses submitted in a single month. Pace remains intense with rapid sequential submissions, active pursuit of new competitive opportunities, implementation/integration planning, and vendor onboarding processes. Significant external partnerships and customer engagement alongside proposal work.
 
-**Time Range:** March 3, 2024 - June 3, 2026
+**Time Range:** March 3, 2024 - June 4, 2026
 
 ---
 
@@ -80,4 +80,4 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 - **Communications technology considerations** (May 31, 2026): Internal discussion regarding Starlink vs. DOD pricing ($5K commercial consideration).
 
-- **EW Proposal final decisions and submission** (June 3, 
+-

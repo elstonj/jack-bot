@@ -44,6 +44,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - ADC selection: Decided to pursue 24-bit ADC (or dual 24-bit ADCs interfaced via I2C) to achieve 1μV resolution required for Bartington sensor logging (June 2, 2026)
 - Custom PCB approach: Agreed to design quick-turn PCB for isolated power supply and high-resolution ADC integration rather than using breakout boards (June 2, 2026)
 - Eric Correa follow-up coordination: Maciej flagged need for team to reach out to Eric Correa with any remaining questions before his leave (June 3, 2026) - he is off duty after June 4th for a couple of weeks
+- ADONIS S0 radio specification: Clarified that the S0 aircraft being used from ADONIS for flight testing uses a 430 radio (Microhard type to be confirmed), not P900 (June 4, 2026)
 
 ## Projects & Initiatives
 
@@ -69,18 +70,17 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Deliverable: Reusable hand-launched S0 analog for local testing and Marine use case
 - Navy will primarily launch from UH-60 helicopters
 - Local mag flights: Scheduled for July 1st, 2026 with Bartington sensor testing
+- Flight testing documentation: Navy/Marine events require form completion for S0 flight testing (June 4, 2026) - Maciej coordinating form submission with team members for aircraft specifications and RPi details
 
 **Technical Development (May-June 2026 - ongoing):**
 - Reusable MAD S0 configuration:
-  - Stock S0 airframe with lighter weight operation
+  - Stock S0 airframe from ADONIS with lighter weight operation
   - Smaller commercial LiPo battery (30-45 minutes TOF target)
   - New antenna to reduce landing damage
   - Launch rail for deployment
   - Fixed spline wing attachment (vs swivel)
   - Small skids on wing tips for level landing and anti-grab
   - SF20/C half-size laser rangefinder for landing (proven reliable)
-  - Parts sourced from ADONIS S0 where possible to minimize new construction
-- Ground testing: Bartington sensor mechanically integrated into ground test rig (May 6, 2026)
-- Launcher development: Design phase (targeted completion week of May 12-16, 2026); parts ordering planned for June 15, 2026 to allow iteration before July 1st local mag flights
-- Bartington sensor logging: Dronecan logging program being updated to support Bartington sensor with dynamic memory allocation (Sam Hild)
-- Flight test baseline validation: Initial field testing completed with 1-hour sequential test runs for both Bartington and QuSpin
+  - 430 radio (Microhard type TBD)
+  - Raspberry Pi integration (specifications added to documentation)
+  - Parts sourced from ADONIS S0 where possible

@@ -19,10 +19,10 @@
 ---
 
 ## Key Deliverables & Milestones
-- **Deliver Twelve Field-Ready S0 UAS** — Due: 2024-07-31 | **Completed: 2024-07-29** (2 days early)
+- **Deliver Twelve Field-Ready S0 UAS** — Due: 2024-07-31 | **Completed: 2024-07-29** (2 days early) | Shipped to Nick Underwood at NOAA AOC
 - **Delivery of Two MHTP for use on Altius 600** — Due: 2024-04-30 | **Completed: 2024-08-17**
 - **Conduct 2x Hurricane Field Study** — Due: 2024-11-30 | **Completed: 2024-08-17**
-- **Make 1 Display S0 — Ship to NHC** — Due: 2024-07-10 | **Completed: 2024-07-24** (Meredith O'hara Needham) — Shipped to Mike Brennan, 11691 SW 17th Street, Miami FL 33165
+- **Make 1 Display S0 — Ship to NHC** — Due: 2024-07-10 | **Completed: 2024-07-24** (Nate Straus, then Meredith O'hara Needham for shipment) — Shipped to Mike Brennan, 11691 SW 17th Street, Miami FL 33165
 
 ---
 
@@ -34,8 +34,8 @@
   - **Dan Prendergast**: Flight algorithm testing and validation, eyewall following algorithm development, center fix algorithm
   - **Maciej Stachura**: Flight control algorithms, vertical wind bias correction, pitot tube diagnostics, code updates with wind tunnel calibrations and real-time wind estimation, MHTP firmware development and testing
   - **Ben Busby**: Flight operations, preflight checklist procedures, path planning optimization
-  - **Meredith O'hara Needham**: Manufacturing (MHTP modules), shipping coordination, sensor management, display unit shipment to NHC
-  - **Nate Straus**: Manufacturing, packing/shipping logistics
+  - **Meredith O'hara Needham**: Manufacturing (MHTP modules), shipping coordination, sensor management, display unit and S0 unit shipment to NHC and NOAA AOC
+  - **Nate Straus**: Manufacturing, packing/shipping logistics, display S0 unit construction
 
 - **Notable patterns**: 
   - Heavy focus on field deployment readiness with extensive testing, QC, and shipping coordination (July 2024)
@@ -49,7 +49,9 @@
 ## Recent Activity
 **Project Status**: Archived January 3, 2024. All work completed successfully.
 
-**Final Phase Tasks Completed (January 2024 – August 2024)**:
+**Final Phase Tasks Completed (July 2024 – August 2024)**:
+- **Ship all S0 units to Nick Underwood at NOAA AOC** (Meredith O'hara Needham, Due: 2024-07-22, Completed: 2024-07-23) — Shipment pickup completed from BST
+- **Make 1 display S0 for BST** (Nate Straus, Due: 2024-07-10, Completed: 2024-07-24) — Display unit constructed and subsequently shipped to NHC
 - **QC & final assembly of all 2024 airframes** (Josh Fromm, Due: 2024-07-12, Completed: 2024-07-23) — Final quality control and assembly coordination completed
 - **New GCS (no VGA connector)** (Josh Fromm, Due: 2024-01-26, Completed: 2024-01-31) — Finalized ground control station configuration without VGA connector requirement
 - **Avionics** (Jack Elston, completed 2024-01-30)
@@ -59,7 +61,6 @@
 - **Construct MHTP modules** (Josh Fromm, completed 2024-08-17) — Final module assembly completed
 - **Auto check values on AVO list except "engine enable"** (Jack Elston, Due: 2024-05-31, Completed: 2024-06-14) — Minimum Viable task
 - **Add algorithm for center fix** (Dan Prendergast, Due: 2024-05-31, Completed: 2024-06-05) — Minimum Viable task
-- **Make 1 display S0's - ship to NHC** (Meredith O'hara Needham, Due: 2024-07-10, Completed: 2024-07-24) — Shipped to NHC contact Mike Brennan in Miami
 
 **MHTP & Algorithm Deliverables (2023-2024)**:
 - **Eyewall Following Algorithm** (Dan Prendergast, Due: 2024-02-16, Completed: 2024-02-27) — Two primary modules explored: "eyewall" and "inflow" modules, with UAS launched in hurricane eye and directed toward eyewall for evaluation
@@ -78,15 +79,3 @@
 - **September-October 2024**: Intensive troubleshooting of flight termination logic, HDOB date/time synchronization, wind direction estimation, GCS GPS anomalies, and engine enable problems
 
 ---
-
-## Notes & Context
-
-**Project Type**: SBIR Phase II Government Research Contract
-
-**Products Delivered**: 
-- S0 UAS systems (12 units delivered to NOAA AOC)
-- Display S0 unit (shipped to National Hurricane Center, Miami)
-- Custom MHTP (hurricane research payload) for Altius 600 platform
-- Scientist-facing web-based GUI for data review
-
-**

@@ -21,7 +21,8 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Security Incident - Unauthorized Drive Access Request** (May 22, 2026): Cameron Peek (unknown individual) requested access to company Google Drive files, referencing "the mall" as destination. Flagged as potential security concern by team members; Jack Elston did not recognize the person. Alex Lomis humorously noted attempted access to sensitive company information.
 - **KrateoSky Integration Meeting Rescheduled** (May 26, 2026): Integration meeting with KrateoSky pushed from late May to June 9-10, 2026. Same agenda; team dinner on June 9th required attendance. Beck Cotter to provide more details.
 - **Neighboring Business Facility Access** (May 26, 2026): Havenly bakery (adjacent tenant) granted bathroom access during their facility repairs.
-- **Boulder Social Team Lunch** (June 3, 2026): Meredith Needham organizing team lunch reservation at Boulder Social. Confirmed attendees: Jack Elston, Maciej, Beck Cotter, Alex Lomis, Joshua Fromm, Sam Hild, and Meredith Needham. Dan Prendergast unable to attend per Jack's decision; Nate joked about joining incognito.
+- **Boulder Social Team Lunch** (June 3, 2026): Meredith Needham organized team lunch reservation at Boulder Social. Confirmed attendees: Jack Elston, Maciej, Beck Cotter, Alex Lomis, Joshua Fromm, Sam Hild, and Meredith Needham. Dan Prendergast unable to attend per Jack's decision; Nate joked about joining incognito.
+- **New Intern Onboarding** (June 4-5, 2026): Spencer Hoehl (recent CU graduate) starting June 5, 2026 at 9:30am. Jack Elston out; Meredith Needham handling introduction coordination. Jack coordinating with team member to provide computer setup and BST account creation.
 
 ### Funding & Awards
 - **NASA Phase I Award** (May 26, 2021): Contract awarded for S2 all-weather capable platform development with solar integration and VTOL S2 for remote autonomous landing
@@ -43,6 +44,4 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **T-Mobile BVLOS Use Case Strategy** (May 18, 2026): Dan Prendergast recommended wildfire use case over tropical storm use case for T-Mobile direct-to-cell integration; may replace S3 radio relay wildfire communication strategy. Aligns with "Improve comm throughput and reliability" ASA priority.
 
 ### Hardware/Facilities Decisions
-- **Roof/Building Repairs** (Aug 27-28, 2020 - May 27, 2021): Multiple roof leaks reported; TEBO contractor quote $2,450 for wall/stair repainting (Jack declined in-house option)
-- **Office Equipment Organization** (Sept 2020): Electronics workstation dedicated with organized bins for AP boards, GCS boards, etc.; deployment staging shelf by door
-- **New Printer Procurement** (Feb
+- **Roof/Building Repairs** (Aug 27-28, 2020 - May 27,

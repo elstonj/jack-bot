@@ -52,8 +52,9 @@
   "missing_fields": [
     "ship_to",
     "estimate_date",
-    "invoice_amount"
+    "invoice_amount",
+    "receive_by"
   ],
-  "last_evidence_date": "2026-05-28",
+  "last_evidence_date": "2026-05-20",
   "last_contact_date": "2026-01-21"
 }
