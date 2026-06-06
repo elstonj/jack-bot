@@ -36,6 +36,9 @@
 - Post-Phase I technical investigation: Dubins path for altitude profiling control (completed October 2025)
 - **Project archived February 7, 2024** with no further activity planned for Fire UTM Phase I
 
+## Current Priority Status (May 2026)
+Per Jack Elston (May 8–11, 2026): The Navy STTR has priority over SBIR efforts. This Fire UTM Phase I project is not among BST's current highest-priority initiatives. Maciej Stachura's top five priorities (May 6, 2026) are: (1) S3 IRAD, (2) S0-VTOL, (3) EMASS close-out, (4) By-Lite Mustang, and (5) SBIR Magnetometer.
+
 ## Notes & Context
 This Phase I pilot study demonstrated the value of targeted UAS observations for improving low-level wind and turbulence representation in active wildfire modeling. Key technical achievements included:
 - Developed end-to-end data flow process for flight operations
@@ -46,4 +49,4 @@ This Phase I pilot study demonstrated the value of targeted UAS observations for
 
 The project required extensive regulatory coordination and stakeholder management (CALFIRE, Boulder Sheriff/Parks, FireSense team, Argonne National Lab). Successfully positioned BST for Phase II funding and established partnerships for future wildfire UAS operations. Post-project, team explored CoTAK integration and advanced control methods (Dubins paths) for potential Phase II enhancements.
 
-**Current Status (as of May 2026)**: This project remains archived. It is not among BST's current highest-priority projects. Per Maciej Stachura (May 6, 2026), the top priorities are: (1) S3 IRAD, (2) S0-VTOL, (3) EMASS close-out, (4) By-Lite Mustang, and (5) SBIR Magnetometer. The Navy STTR is also noted as higher priority than other SBIR efforts (Jack Elston, May 8–11, 2026).
+**Current Status (as of May 2026)**: This project remains archived with no planned reactivation.

@@ -4,9 +4,9 @@
 
 This channel tracks Black Swift Technologies' grant applications, funding pursuits, and government contracting efforts across federal agencies (NASA, DOD, NOAA, USDA, etc.). It serves as the central hub for proposal submissions, funding strategy discussions, budget development, and award management.
 
-**Key Participants:** Jack Elston (primary decision-maker and proposal reviewer), Maciej (technical/proposal support), Meredith Needham (budget/administrative), Dan Prendergast (proposal coordination), Beck Cotter (program management), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm (hardware/integration), Paige Smith (presentation/logistics support), Arthur (technical partner for payload/antenna work), Bryan (external contact for Vulcan opportunity), Sona (operational/budget planning), Gijs (BNL partner), Kirsten Boogard (777 PM at NOAA), Bob and Lisa (camera/integration leads), SkyMesa (RF/EW partner), and others contributing to specific proposals.
+**Key Participants:** Jack Elston (primary decision-maker and proposal reviewer), Maciej (technical/proposal support), Meredith Needham (budget/administrative), Dan Prendergast (proposal coordination), Beck Cotter (program management), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm (hardware/integration), Paige Smith (presentation/logistics support), Arthur (technical partner for payload/antenna work), Bryan (external contact for Vulcan opportunity), Sona (operational/budget planning), Gijs (BNL partner), Kirsten Boogard (777 PM at NOAA), Bob and Lisa (camera/integration leads), SkyMesa (RF/EW partner), Hank (external contact with S3 design requests), and others contributing to specific proposals.
 
-**Activity Level:** Extremely high throughout the period (March 2024 - June 3, 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. June 2026 represents a particularly intense submission period with 11 major proposals/responses submitted in a single month. Pace remains intense with rapid sequential submissions, active pursuit of new competitive opportunities, implementation/integration planning, and vendor onboarding processes. Significant external partnerships and customer engagement alongside proposal work.
+**Activity Level:** Extremely high throughout the period (March 2024 - June 4, 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. June 2026 represents a particularly intense submission period with 11 major proposals/responses submitted in a single month. Pace remains intense with rapid sequential submissions, active pursuit of new competitive opportunities, implementation/integration planning, and vendor onboarding processes. Significant external partnerships and customer engagement alongside proposal work.
 
 **Time Range:** March 3, 2024 - June 4, 2026
 
@@ -23,6 +23,7 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 ### Product Development Approvals
 - **S0 VTOL ISR variant approved** (March 2024) for development despite incomplete status, based on strong interest from potential customers.
 - **Decided to pursue multiple aircraft configurations**: E2, S2, S0 for DIU Blue UAS submission; later expanded to S0-AD, S0-LR variants for specific government applications.
+- **S3 folding wings reconsidered** (June 2026): Discussion regarding external request from Hank to make S3 with folding wings for boat deployment applications; Joshua Fromm noted S3 previously had folding wings capability but that period has passed, suggesting architectural constraints or design evolution away from this feature.
 
 ### Proposal Strategy Decisions
 - **AFWERX SBIR/STTR strategy** (October 2024):
@@ -75,9 +76,4 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 - **DOE Genesis Proposal finalized and submitted** (April 22-30, 2026): 
   - **April 22:** Beck Cotter raised concern about lead/subcontractor arrangement change requiring renegotiation in short timeframe; due date April 28, 2026 (potentially May 1)
   - **April 23:** Beck Cotter confirmed receipt of all required documents from Gijs (BNL partner); proposal package complete
-  - **April 27:** Genesis proposal nearly complete and ready for submission
-  - **April 30 SUBMITTED:** DOE Genesis Mission proposal successfully submitted with $336K to BST total budget ($293K subcontract to BNL), Period of Performance starts 7/1/2026
-
-- **Communications technology considerations** (May 31, 2026): Internal discussion regarding Starlink vs. DOD pricing ($5K commercial consideration).
-
--
+  - **April 27:** Genesis proposal nearly complete and ready for

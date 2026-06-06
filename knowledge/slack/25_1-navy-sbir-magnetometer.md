@@ -44,7 +44,8 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - ADC selection: Decided to pursue 24-bit ADC (or dual 24-bit ADCs interfaced via I2C) to achieve 1μV resolution required for Bartington sensor logging (June 2, 2026)
 - Custom PCB approach: Agreed to design quick-turn PCB for isolated power supply and high-resolution ADC integration rather than using breakout boards (June 2, 2026)
 - Eric Correa follow-up coordination: Maciej flagged need for team to reach out to Eric Correa with any remaining questions before his leave (June 3, 2026) - he is off duty after June 4th for a couple of weeks
-- ADONIS S0 radio specification: Clarified that the S0 aircraft being used from ADONIS for flight testing uses a 430 radio (Microhard type to be confirmed), not P900 (June 4, 2026)
+- ADONIS S0 radio specification: Clarified that the S0 aircraft being used from ADONIS for flight testing uses a 430 radio (Microhard type to be confirmed), (June 4, 2026)
+- Deployment tube checklist: Sam Hild to update and send deployment tube checklist for approval; Jack Elston requesting schematic review from Sam Hild (June 5, 2026)
 
 ## Projects & Initiatives
 
@@ -81,6 +82,4 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
   - Fixed spline wing attachment (vs swivel)
   - Small skids on wing tips for level landing and anti-grab
   - SF20/C half-size laser rangefinder for landing (proven reliable)
-  - 430 radio (Microhard type TBD)
-  - Raspberry Pi integration (specifications added to documentation)
-  - Parts sourced from ADONIS S0 where possible
+  -

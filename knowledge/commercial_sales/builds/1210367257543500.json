@@ -33,7 +33,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "UC Santa Cruz Ocean Sciences actively engaged on S2 and S3 platforms via Kevin Rozmiarek referral (10/10 recommendation). Site visit from Xavier Prochaska, Tim Handley, and Alex Terrazas planned for July 17-18, 2026. Robert Wandel technical inquiry 2026-05-18 about QGroundControl/FMS software compatibility; Jack Elston provided detailed technical response on mavlink support and SwiftTab flight planning, indicating strong ongoing technical engagement and sales momentum. Estimate sent; pending customer decision and visit confirmation.",
+  "notes": "UC Santa Cruz Ocean Sciences actively engaged on S2 and S3 platforms via Kevin Rozmiarek 10/10 referral. Site visit from Xavier Prochaska, Tim Handley, and Alex Terrazas planned for July 17-18, 2026. Robert Wandel technical inquiry (2026-05-18) about QGroundControl/FMS compatibility shows strong ongoing technical engagement. Estimate sent; awaiting customer decision and visit confirmation.",
   "missing_fields": [
     "ship_to",
     "estimate_date",

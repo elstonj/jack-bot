@@ -17,6 +17,7 @@
   - **DUAL DELIVERY OBLIGATION — BARBADOS UNDOCUMENTED:** Per Maciej (April 30, 2026), S0-VTOL has "two deliveries for ERAU and Barbados" — **Barbados delivery is completely undocumented in project records.** Urgent clarification needed on: contract status, dollar value, timeline, unit status, and whether Barbados competes for engineering resources with ERAU
   - **OWNERSHIP VACUUM ON LOGISTICS:** 4 of 5 delivery tasks unassigned (Ship, Verify Payment, Close Project) with no due dates; Jack Elston assigned "Final due date for delivery" but has not set a date — **blocking all downstream logistics and customer communication**
   - **NDAA Compliance incomplete:** Per Alex Lomis (April 17, 2026), S0 VTOL "can be" NDAA compliant but is not "_fully_ NDAA compliant yet"
+  - **NAMING CLARIFICATION (May 26, 2026):** Per Jack Elston, "VTOL-S0" is not the same as what BST usually calls "S0" or "S0-AD" — clarify internal product nomenclature to avoid confusion with other S0 variants
 
 ## Key Deliverables & Milestones
 
@@ -55,7 +56,4 @@
 - **All delivery tasks unassigned/undated:** Ship, Verify Payment, Close Project tasks have no owner and no due date
 - **Jack Elston (delivery coordination):** Assigned "Final due date for delivery" but has not set a date — **blocking all downstream logistics and customer communication**
 - **Dan Prendergast (training):** Assigned "S0 VTOL Training for ERAU" with no due date — contingent on unit delivery and validation
-- **U058LGYMEQ0 (bench testing/troubleshooting lead):** Overdue on Visual Observation Bench Test; Instrumented Bench Test deadline passed (~May 2, 2026); active on crash bug investigation; **no documented response to Maciej's April 30 roadblock inquiry as of May 4**
-
-## Recent Activity
-- **May 4, 2026 (Maciej):** Offered engineering support from U01511MEQ90 or U06NQAYBLRK to assist U058LGY
+- **U058LGYMEQ0 (bench testing/troubleshooting lead):** Overdue on Visual Observation Bench Test; Instrumented Bench Test deadline passed (~May 2, 2026); active on crash bug investigation; **

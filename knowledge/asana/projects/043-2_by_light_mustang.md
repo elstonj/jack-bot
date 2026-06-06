@@ -6,7 +6,7 @@
 - **Address:** 8484 Westpark Dr. Ste. 600, McLean, VA 22102
 - **Dollar Value:** $450,000 total budget; $450,000 funding to Black Swift
 - **Timeline:** Started 2025-10-06; Original due date 2025-12-05; Core deliverables completed 2025-12-31 (26 days late)
-- **Status:** **ARCHIVED/DELIVERY COMPLETE — OUTSTANDING CONTRACTUAL WORK PENDING**  
+- **Status:** **ARCHIVED/DELIVERY COMPLETE — OUTSTANDING CONTRACTUAL WORK PENDING (NO NEAR-TERM TIMELINE)**  
   Core project deliverables finished Dec 31, 2025. **Per Jack (2026-04-30): "we still owe 2 more flight opportunities."** **Critical Blocker (Maciej, 2026-04-30):** New fuselage arrival required before next test flights. "There won't be any test flights next week or until we get that new fuse so they're aware that it's them causing the delay." **Timeline Extended (Ethan, 2026-05-05):** "ByLight project timeline has been extended due to cancellation of a demo in India."
 - **Team Members:** Maciej Stachura (owner), Ethan Domagala, Nate Straus, Meredith O'hara Needham
 - **Priority:** **Rank 4 among active projects (Maciej, 2026-04-30):** (1) S3 IRAD end-of-May delivery, (2) S0-VTOL ERAU & Barbados, (3) EMASS closeout, (4) By-Lite, (5) SBIR Magnetometer
@@ -68,4 +68,4 @@ All invoicing milestones completed and paid; core delivery 26 days past original
   - **2 additional flight opportunities** still owed to By-Lite per original contract
   - Customer ready to test their own DoD autopilot controller using SWIL setup; flight data provided 2026-04-30
   - **Critical Blocker (Maciej, 2026-04-30):** New fuselage arrival required before next test flights can be scheduled
-  - **No imminent timeline for resumption:** Delayed by customer equipment delivery (new fuselage)
+  - **No imminent timeline for resumption:** Delayed by customer equipment delivery (new fuselage); **dependent on By-Lite providing functioning controller and new fuselage**

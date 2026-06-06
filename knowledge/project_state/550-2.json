@@ -12,28 +12,28 @@
     "contacts": []
   },
   "contract": {
-    "type": "fixed_price",
+    "type": "unknown",
     "number": "N6833525C0270",
     "total_value": 138494.0,
-    "start_date": "2025-07-07",
-    "end_date": "2026-07-06",
+    "start_date": "2025-07-30",
+    "end_date": "2026-09-01",
     "payment_cadence": "milestone",
     "documents": [
       "drive://Black Swift DD882 N6833525C0270 SIGNED 1.pdf",
-      "drive://ODU Option Period Black Swift.FE.pdf",
-      "drive://STTR Subcontract - ERAU Black Swift Technologies - FE (SIGNED).pdf"
+      "drive://Embry Riddle Invoice CI011557 (June 2026).pdf",
+      "drive://ODU Option Period Black Swift.FE.pdf"
     ]
   },
   "budget": {
-    "approved": 96441.0,
-    "approved_source": "sow_drive",
+    "approved": 138494.0,
+    "approved_source": "asana_custom_field",
     "line_items": [],
     "spent": {
       "labor": {
         "amount": 29181.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-05"
+        "last_updated": "2026-06-06"
       },
       "purchases": {
         "amount": 0.0,
@@ -51,9 +51,9 @@
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 67259.75,
+    "remaining": 109312.75,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-05T09:03:34Z"
+    "last_reconciled": "2026-06-06T09:10:31Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -94,14 +94,8 @@
     {
       "source": "FEEDBACK",
       "author": "Maciej",
-      "date": "2026-05-06",
-      "text": "From Maciej (ts=1778079465.330239): <@U0AQE94HJUT>, the Navy SBIR is mostly caught up, I just updated Asana. Also, I'm updating tasks for the Navy STTR which will be a higher priority this month, so make sure to mention that tomorrow"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-05-06",
-      "text": "From Maciej: <@U0AQE94HJUT>, the Navy SBIR is mostly caught up, I just updated Asana. Also, I'm updating tasks for the Navy STTR which will be a higher priority this month, so make sure to mention that tomorrow"
+      "date": "2026-06-05",
+      "text": "From Maciej (ts=1780605896.832689): Yeah, turns out he just wanted to focus on discussing commercial markets moving forward for BST from the industrial plan. Looks like he mainly wants to focus on expanding our non-DOD weather stuff first."
     },
     {
       "source": "FEEDBACK",
@@ -110,6 +104,6 @@
       "text": "From Maciej: Yeah, turns out he just wanted to focus on discussing commercial markets moving forward for BST from the industrial plan. Looks like he mainly wants to focus on expanding our non-DOD weather stuff first."
     }
   ],
-  "last_full_rebuild": "2026-06-05T09:03:34Z",
+  "last_full_rebuild": "2026-06-06T09:10:31Z",
   "last_incremental_update": null
 }

@@ -2,45 +2,22 @@
   "project_code": "_unclassified",
   "qbo_class_names": [
     "",
-    "Black Swift Technologies"
+    "NOAA UASD"
   ],
   "period": {
-    "start": "2026-06-04",
-    "end": "2026-06-05"
+    "start": "2026-06-05",
+    "end": "2026-06-06"
   },
   "totals": {
-    "revenue": 1000.0,
-    "expenses": 565.19,
+    "revenue": 4580.0,
+    "expenses": 763.28,
     "by_category": {
-      "Inventory Asset": 509.75,
-      "SALES & MARKETING:SM-Shipping": 55.44
+      "Inventory Asset": 460.79,
+      "QuickBooks Payments Fees": 236.12,
+      "SALES & MARKETING": 66.37
     }
   },
-  "invoices": [
-    {
-      "type": "Invoice",
-      "date": "2026-06-04",
-      "doc_number": "1768",
-      "total": 1000.0,
-      "attributed": 1000.0,
-      "vendor": "",
-      "customer": "Black Swift Technologies",
-      "balance": 1000.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 1000.0,
-          "account": "",
-          "description": "S3 battery pack"
-        },
-        {
-          "amount": 1000.0,
-          "account": "",
-          "description": ""
-        }
-      ]
-    }
-  ],
+  "invoices": [],
   "bills": [],
   "purchases": [
     {
@@ -81,41 +58,60 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-06-04",
+      "date": "2026-06-05",
       "doc_number": "",
-      "total": 55.44,
-      "attributed": 55.44,
+      "total": 236.12,
+      "attributed": 236.12,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "PIRATE SHIP * POSTAGE - 7333",
+      "memo": "System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",
       "lines": [
         {
-          "amount": 55.44,
-          "account": "SALES & MARKETING:SM-Shipping",
-          "description": "Lee Skidmore shipment to BTS for future S3 Sales"
+          "amount": 236.12,
+          "account": "QuickBooks Payments Fees",
+          "description": "System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily."
         }
       ]
     },
     {
       "type": "Purchase",
-      "date": "2026-06-04",
+      "date": "2026-06-05",
       "doc_number": "",
-      "total": 48.96,
-      "attributed": 48.96,
+      "total": 66.37,
+      "attributed": 66.37,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "",
+      "memo": "No Asana request - Paige made purchase directly",
       "lines": [
         {
-          "amount": 48.96,
-          "account": "Inventory Asset",
-          "description": "Shipping for 123 Bearing Shipment for future S3 sales"
+          "amount": 66.37,
+          "account": "SALES & MARKETING",
+          "description": "Labels for wine (Krateo Sky visit)"
         }
       ]
     }
   ],
   "purchase_orders": [],
-  "payments": []
+  "payments": [
+    {
+      "type": "Payment",
+      "date": "2026-06-05",
+      "doc_number": "",
+      "total": 4580.0,
+      "attributed": 4580.0,
+      "vendor": "",
+      "customer": "NOAA UASD",
+      "balance": null,
+      "memo": "Paid via QuickBooks Payments: Payment ID 090204",
+      "lines": [
+        {
+          "amount": 4580.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    }
+  ]
 }

@@ -102,19 +102,20 @@
   - Software Engineering: 3 engineers
   - Mechanical Engineering: 1 engineer
   - Shop & Technical Support: 1 technician
-  - Interns: 2 interns (new addition: Spencer Hoehl)
+  - Interns: 2 interns
 - **Operations & Administration:** 1 person
 - **Communications & Marketing:** 2 people
 - **Unclassified:** 3 people (Beck Cotter, Daniel Prendergast, Jameel Barkat — roles/departments unknown)
 - **Service Accounts:** 2
 
-**Changes from Previous Sync:**
-- **New hire:** Spencer Hoehl added as Intern-Engineering (Phone: 217-556-4060)
-- Total headcount increased from 17 to 18
-- All existing records verified and cross-referenced with no conflicts
+**Verification Status:**
+- All 18 directory entries verified against new raw data
+- All phone numbers confirmed and standardized to consistent format
+- No new hires or departures since last sync
+- All existing records accurate and up-to-date
+- Directory is current and complete
 
 **Notes:**
-- Directory remains current and stable
 - Three team members remain unclassified; recommend reaching out to leadership for role clarification
 - BST maintains an engineering-focused organization with balanced technical and administrative support
-- Engineering intern program expanded to two positions
+- Engineering intern program active with two positions filled

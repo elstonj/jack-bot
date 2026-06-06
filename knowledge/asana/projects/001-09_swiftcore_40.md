@@ -33,17 +33,17 @@ All major milestones remain unassigned with no due dates. Listed for historical 
 ## Task Summary
 - **Total Tasks**: 165 open, 0 completed (per Nov 2023 Asana data; conflicts with April 2026 completion reporting)
 - **Tasks by Assignee**:
-  - **Jack Elston** (~65 tasks): Autopilot core architecture, communications protocol design, power management, sensor fusion, ESC integration, smart battery firmware, simulation (Gazebo, X-Plane), ECAMS diagnostics, RTOS conversion, CAN/UART modules, parameter management
-  - **Maciej Stachura** (~40 tasks): Flight control algorithms, VTOL/tailsitter landing modes, estimator development (unified estimator, wind estimation, failover logic), filter optimization, Gazebo modeling (E2, fixed-wing), terrain following, QRH/MMEL documentation
-  - **Ben Busby** (~35 tasks): Tablet UI (SwiftTab), GCS features, mapping/DEM integration, OTA updates, log handling, multi-vehicle coordination, plot windows, joystick control, preflight tasks, X-Plane integration, Gazebo multirotor photogrammetry
+  - **Jack Elston** (~65 tasks): Autopilot core architecture, communications protocol design, power management, sensor fusion, ESC integration, smart battery firmware, simulation (Gazebo, X-Plane), ECAMS diagnostics, RTOS conversion, CAN/UART modules, parameter management, magnetic calibration, terrain following, RTK/PPK positioning, handset integration, MIMO radio
+  - **Maciej Stachura** (~40 tasks): Flight control algorithms, VTOL/tailsitter landing modes, estimator development (unified estimator, wind estimation, failover logic), filter optimization, Gazebo modeling (E2, fixed-wing), terrain following, QRH/MMEL documentation, preflight checks (motor test, attitude verification), TECS engine-out detection, dubins path integration
+  - **Ben Busby** (~35 tasks): Tablet UI (SwiftTab), GCS features, mapping/DEM integration, OTA updates, log handling, multi-vehicle coordination, plot windows, joystick control, preflight tasks, X-Plane integration, Gazebo multirotor photogrammetry, sensor metadata and camera orientation, payload configuration
   - **Unassigned**: 11 major milestones
 
 - **Notable Patterns**:
   - Extensive feature backlog with no prioritization or sequencing
-  - Heavy GitLab integration (Unito synchronization with GitLab issues noted on select tasks)
-  - Strong simulation focus (Gazebo E2/multirotor/fixed-wing models, X-Plane plugin with joystick support)
+  - GitLab integration (Unito synchronization with GitLab issues noted on select tasks, e.g., "Change value for thrust cutoff" linked to GitLab issue #5)
+  - Strong simulation focus (Gazebo E2/multirotor/fixed-wing models, X-Plane plugin with joystick support, user-positioned start location)
   - **Zero due dates on all 165 tasks** — operates as aspirational wishlist, not scheduled roadmap
-  - Duplicate task entries (e.g., "Add addressing for aircraft and ground stations", "Remove FIXMEs" each appear twice)
+  - Duplicate task entries (e.g., "Add addressing for aircraft and ground stations" appears twice; "Remove FIXMEs" appears twice; "Add pos/vel interpolation for GPS gaps" appears twice; "All filters should be initialized with sampling rate" appears twice)
   - Feature branches noted for some tasks (unified_est, yaw_mix, vtol)
   - Custom field: Priority = Low
 
@@ -83,42 +83,28 @@ Next-generation autopilot architecture spanning 11+ years of feature development
 - Multi-UAS coordination from single ground station
 - Handset/tablet hybrid joystick control with loss-of-signal fallback
 - Serial numbers in EEPROM on MHP boards
+- MIMO radio support
 
 **Flight Control & Safety**:
-- Landing modes based on wind estimation
+- Landing modes based on wind estimation (graduated landing speed, flare energy-based rather than pitch-based)
 - Geofencing with height-aware keep-outs
-- Battery termination logic (mAh-based, energy-aware; Wh calculations)
+- Battery termination logic (mAh-based, energy-aware; Wh calculations; power remaining after RTB calculation)
 - Icing detection and emergency engine shutdown
-- Laser terrain following with low-laser flagging
-- Preflight motor test and multirotor attitude check
-- Ground effect flag and TECS engine-out detection review
+- Laser terrain following with low-laser flagging (when not in landing mode)
+- Preflight motor test and multirotor attitude check with automated prevention of takeoff in extreme roll/pitch
+- Ground effect flag review (may be removed)
+- TECS engine-out detection review
+- IAS limits based on flap configuration
+- Climb limits based on wind
+- Yaw rate-based max speed in look-at mode
+- Rate-limited joystick mode
+- Antenna location correction for artificial velocities
 
 **Ground Station & Tablet (SwiftTab)**:
-- Log file management and download via tablet
-- OTA firmware updates for autopilot and GCS
-- Real-time telemetry visualization with custom plot windows (scalar vs. scalar)
+- Log file management and download via tablet with checksum/hash verification
+- OTA firmware updates for autopilot and GCS via tablet
+- Real-time telemetry visualization with custom plot windows (scalar vs. scalar, zoom/pause/play controls)
 - Graphical flight planning (waypoints, Dubins paths, altitude profiling, LOS calculation)
 - DEM (Digital Elevation Model) integration for terrain mapping (SRTM files, MapBox investigation)
-- Payload control and sensor assignment UI (camera orientation, trigger timing, pulse-to-capture delay)
+- Payload control and sensor assignment UI (camera orientation, trigger timing, pulse-to-capture delay, min pulse time, power off time)
 - Wind barbs, system time display, flight notes capture
-- Multi-sensor mapping support (dropdown instead of "skip")
-
-**Hardware Integration**:
-- Power management board with backup power ECAMS
-- Smart battery board firmware with capacity-based percentage
-- Addon board watchdog timers (WDT) based on sensor quality
-- 5V DCDC for payload power (lasers, cameras)
-- Multi-sensor mapping with camera orientation and trigger metadata
-- USB access to aircraft through tablet
-- Payload verification UI and communications
-
-**Simulation & Testing**:
-- Gazebo integration (E2, fixed-wing, multirotor photogrammetry models)
-- X-Plane plugin with joystick support and user-positioned start location
-- Preflight motor test and MR attitude check
-
-### Priority & Resource Allocation
-- **Priority Level**: Low (custom field)
-- **Actual Status**: ARCHIVED (per team directive, May 14–15, 2026)
-- **Owner**: Jack Elston (formal), but active development has migrated to SwiftCore 3.3
-- **Resource

@@ -1,0 +1,79 @@
+{
+  "asana_gid": "proj-210-10",
+  "asana_task_name": "NOAA UASD & UxSOC (primary); Aerospace Engineering Research (AREN 2024) [210-10]",
+  "customer": "NOAA (National Oceanic and Atmospheric Administration)",
+  "customer_contact": "Multiple NOAA contacts including Wayne M. Angevine, Peter Wolf, Paul E. Johnston, Gary Wick, Jonathan Neuhaus, Jeff McMurphy, Treste Huse, Tom Evans, Jennifer Horsman, Isaac Vimont, Allison McComiskey, Heather Ziel, Audrey Jerauld, Courtney Smith, Jordan Rabinowitz, Dan Kelly, Kenneth Kottra, Karla Nicholl, Jeff Colton, Jordan Dale, Steven Fuhrman, Beth Jaime, Gustavo Rubio, Eric Vichich, Mark Piotrowski, Jeff R. Johnson, David Hsu, Denice Drass, Bryand Duke, Clayton Watkins, John Bradley, Ross Allen",
+  "customer_email": "wayne.m.angevine@noaa.gov",
+  "receive_by": null,
+  "ship_to": null,
+  "items": [
+    {
+      "description": "S0 4m VTOL",
+      "quantity": 1
+    },
+    {
+      "description": "S0 VTOL Variant",
+      "quantity": 1
+    },
+    {
+      "description": "E2 UAS",
+      "quantity": 1
+    },
+    {
+      "description": "Avionics systems",
+      "quantity": 1
+    },
+    {
+      "description": "Display units with tripods",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "invoice_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": "2026-05-08",
+  "invoice_amount": 9320.0,
+  "invoice_number": "1761-1762",
+  "paid_date": null,
+  "parts": [
+    {
+      "name": "Flight controller",
+      "ordered": false,
+      "received": false,
+      "vendor": null,
+      "order_date": null
+    },
+    {
+      "name": "ESC",
+      "ordered": false,
+      "received": false,
+      "vendor": null,
+      "order_date": null
+    },
+    {
+      "name": "Servos",
+      "ordered": false,
+      "received": false,
+      "vendor": null,
+      "order_date": null
+    }
+  ],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "NOAA UASD & UxSOC equipment sales: display model S0 units with tripods and shipping invoiced 2026-05-08 ($9,320). Multiple NOAA contacts across divisions. Related to broader IDIQ #1305M226D0012 / Delivery Order #1305M226F0084 ($483k for 20 S0 platforms and ground stations). Kept due to matching QBO invoices #1761\u2013#1762 for display models.",
+  "missing_fields": [
+    "ship_to",
+    "receive_by",
+    "parts (ordered/received status)",
+    "build_state clarification"
+  ],
+  "last_evidence_date": "2026-06-05",
+  "last_contact_date": null
+}

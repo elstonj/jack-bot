@@ -41,7 +41,7 @@
   - Planning Task 3 marked "Completed" but remains in open task list
   - One task has no title/description (empty name field)
 - **Estimated effort (Planning stage only):** Planning Task 1 (30m), Planning Task 2 (45m), Planning Task 3 (20m); execution/launch tasks have no estimates
-- **Completion rate:** 0% (12 open, 0 closed)
+- **Completion rate:** 0% (12 open, 0 closed; Planning Task 3 status inconsistency noted)
 
 ## Recent Activity
 
@@ -68,7 +68,7 @@ Real active work drivers:
 - **53rd Weather Squadron/SOCOM visit slides:** Daniel Prendergast's **immediate priority** (due Friday of week ending ~2026-05-03)
 - **EMASS validation flights:** Flights #2 & #3 indefinitely delayed on customer-supplied controller binary (external blocker since 2026-05-14 per Daniel Prendergast)
 - **By-Lite test flights:** Blocked indefinitely on new fuse hardware arrival; 2 flight opportunities still owed to customer (Jack & Maciej, 2026-04-30)
-- **CU IRISS training:** **Completed as of 2026-05-13/14** (Daniel Prendergast, 2026-05-14)
+- **CU IRISS training:** **Completed as of 2026-05-13/14** (Daniel Prendergast, 2026-05-13 & 2026-05-14)
 - **Post-flight process:** Daniel introduced Asana form (2026-05-11 & 2026-05-08) to capture aircraft/equipment issues; automatically creates tasks in Fleet Maintenance or relevant projects
 
 ### Assignment & Execution Gap
@@ -78,6 +78,4 @@ Real active work drivers:
 3. Create external dependency tracking for customer deliverables (EMASS controller binary, By-Lite fuse hardware)
 4. Remove or close tasks unrelated to current work
 
-### Data Quality Issues
-- One task has no title or description (empty name field)
-- Planning
+###
