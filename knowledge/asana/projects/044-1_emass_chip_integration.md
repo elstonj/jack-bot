@@ -82,5 +82,5 @@
 
 **Key Metrics**: Energy consumption, flight endurance, AI model accuracy, and system responsiveness
 
-**Timeline Evolution**: 
-- Original scope: Nov 10, 2025 –
+**Current Posture**: 
+- BST has delivered Phase 1–4 

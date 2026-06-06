@@ -15,25 +15,24 @@
 - **Weekly office purchasing coordination** (recurring collection and ordering, due ~1st–15th of month on weekly cycle)
 - **Bi-weekly office cleaning** (via Neat N Tidy, scheduled separately from primary task list)
 - **Facilities improvements** (ongoing, no due date set)
-- **Equipment wish list** (ongoing, no due date set)
+- **Equipment wish list** (ongoing, no due date set; assigned to Nate Straus)
 - **Consumables stock management** (periodic, last updated 2025-11-04)
 - **Lease termination planning** (unassigned, no due date)
 
 ## Task Summary
-- **Total tasks**: 1 open, 1 completed (recent cycle)
+- **Total tasks**: 1 open, 0 completed (in current snapshot)
 - **Tasks by assignee**:
-  - **Meredith O'hara Needham**: 1 open, 1 completed
-    - Pay Rent (due 2026-06-29, open) — monthly rent payment to Goose Creek
-    - Pay Rent (due 2026-05-25, completed 2026-05-21) — previous month, completed 4 days early
+  - **Nate Straus**: 1 open
+    - Equipment wish list (no due date, open) — ongoing facilities improvements tracking
 - **Notable patterns**: 
-  - Recurring monthly rent tasks maintain predictable cadence
-  - Recent completion 4 days ahead of due date indicates improved scheduling efficiency
+  - Recurring monthly rent tasks maintain predictable cadence (not reflected in current task count; managed separately)
+  - Equipment wish list remains open without deadline, suggesting lower priority or ongoing collection mode
   - Operational rhythm stable and reliable
 
 ## Recent Activity
-- **Most recent completion** (2026-05-21): Pay Rent for May cycle completed ahead of schedule (4 days early)
-- **Current open task**: Pay Rent due 2026-06-29 (Meredith O'hara Needham)
-- **Operational momentum**: Project continues stable monthly payment cycle with improved early-completion pattern
+- **Current open task**: Equipment wish list (Nate Straus, no due date)
+- **Operational momentum**: Project continues stable operations with focus on long-term facilities planning and consumables management
+- **Note**: Monthly rent payment cycle continues on schedule (last cycle: May 2026 completed ahead of schedule on 2026-05-21)
 
 ## Notes & Context
 

@@ -1,30 +1,17 @@
 {
   "period": {
-    "start": "2026-06-04",
-    "end": "2026-06-05"
+    "start": "2026-06-05",
+    "end": "2026-06-06"
   },
-  "scanned_at": "2026-06-05",
+  "scanned_at": "2026-06-06",
   "projects": [
-    {
-      "project_code": "001-4",
-      "revenue": 0.0,
-      "expenses": 235.98,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 1,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "(001-4) IRAD - S0 VTOL"
-      ]
-    },
     {
       "project_code": "001-7",
       "revenue": 0.0,
-      "expenses": 140.59,
+      "expenses": 513.36,
       "invoice_count": 0,
       "bill_count": 0,
-      "purchase_count": 1,
+      "purchase_count": 3,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -34,10 +21,10 @@
     {
       "project_code": "300-3",
       "revenue": 144000.0,
-      "expenses": 93.17,
+      "expenses": 135.32,
       "invoice_count": 2,
       "bill_count": 0,
-      "purchase_count": 1,
+      "purchase_count": 2,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -59,16 +46,16 @@
     },
     {
       "project_code": "_unclassified",
-      "revenue": 1000.0,
-      "expenses": 565.19,
-      "invoice_count": 1,
+      "revenue": 4580.0,
+      "expenses": 763.28,
+      "invoice_count": 0,
       "bill_count": 0,
       "purchase_count": 4,
       "po_count": 0,
-      "payment_count": 0,
+      "payment_count": 1,
       "qbo_class_names": [
         "",
-        "Black Swift Technologies"
+        "NOAA UASD"
       ]
     }
   ]

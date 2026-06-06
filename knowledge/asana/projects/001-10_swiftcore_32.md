@@ -18,9 +18,9 @@
 ## Task Summary
 - **Total Tasks**: 305 (3 open, 302 completed = 99% historical completion rate)
 - **Current Open Tasks** (all assigned to Ben Busby, all "Ready for Testing", no due dates):
-  1. Lost comms waypoint text input issue (master branch) – can't change text to set waypoint to number
-  2. Level 2 error warning popup issues (master branch) – mission limits violation with waypoint, static pressure failure
-  3. Map corridor area menu tap issue (hotfix/area_popup branch) – tapping area doesn't bring up mapping menu
+  1. Can't change text to set lost comms waypoint to a number in mission tab (master branch)
+  2. Warning for some level 2 errors doesn't create pop up window — mission limits violation with waypoint, static pressure failure (master branch)
+  3. Tapping on an area made through the "map corridor" option doesn't bring up the mapping menu (hotfix/area_popup branch)
 - **Key Contributors**:
   - Jack Elston: Primary contributor, owner
   - Ben Busby: Current focus on open UI/tablet issues; historical work on preflight mode, joystick control, NAV bug fixes

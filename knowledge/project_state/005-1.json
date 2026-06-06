@@ -29,7 +29,7 @@
         "amount": 8375.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-05"
+        "last_updated": "2026-06-06"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 6652.24,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-05T09:01:20Z"
+    "last_reconciled": "2026-06-06T09:08:16Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -88,24 +88,18 @@
       "text": "From Daniel Prendergast: <@U0AQE94HJUT> CU IRISS training is complete.  EMASS Validation Flight #2 is postponed indefinitely until they get us a functioning controller."
     },
     {
-      "source": "FEEDBACK",
+      "source": "CORRECTION",
       "author": "Jack",
-      "date": "2026-05-06",
-      "text": "From Jack (ts=1778019802.867609): It's part of his training."
+      "date": "2026-05-26",
+      "text": "From Jack: \"VTOL-S0\" is not the same as what we usually call \"S0\" or \"S0-AD\""
     },
     {
       "source": "CORRECTION",
       "author": "Jack",
       "date": "2026-06-01",
       "text": "From Jack: <@U014ZL9FLE9> is not usually the owner of documentation and training, that should be <@U04CZK4K7P0> by default, change the S3 documentation task to him."
-    },
-    {
-      "source": "CORRECTION",
-      "author": "Jack",
-      "date": "2026-05-26",
-      "text": "From Jack: \"VTOL-S0\" is not the same as what we usually call \"S0\" or \"S0-AD\""
     }
   ],
-  "last_full_rebuild": "2026-06-05T09:01:20Z",
+  "last_full_rebuild": "2026-06-06T09:08:16Z",
   "last_incremental_update": null
 }

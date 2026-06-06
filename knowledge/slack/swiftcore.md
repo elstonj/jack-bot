@@ -91,6 +91,13 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Proposed by: Ben Busby
 - Status: Awaiting discussion with autopilot lead to evaluate feasibility
 
+**VTOL Hardcoded Defines to Parameters Conversion (June 5, 2026):**
+- Decision to convert hardcoded #defines in VTOL code to parameters
+- Rationale: Accumulation of numerous hardcoded #defines in VTOL code; potential for cleanup of unused legacy variables
+- Created Asana task "Comms version update" in SwiftCore 3.3 to track this work
+- Decision made by: Maciej
+- Approach: Team to identify items worth adding or removing as they encounter them during development
+
 ## Projects & Initiatives
 
 **SwiftCore 3.2 Release (2021-2022):**
@@ -102,20 +109,11 @@ This channel serves as the primary technical communication hub for Black Swift T
 - **Status:** Ongoing, targeting NOAA S0 deployment and S0/S2 VTOL testing
 - **Features:** Air deploy capability, payload control, vehicle refactor, separate cruise/hover speed parameters
 - **Management:** Structured workflow using Asana for tracking hotfixes/features through simulation, benchtop, and flight testing phases
+- **Latest Update (June 5, 2026):** Maciej initiated "Comms version update" task to track conversion of hardcoded VTOL #defines to parameters and cleanup of unused legacy variables
 
 **VTOL Aircraft Integration (2023-2025):**
 - **Status:** Active development with control mixer branch
 - **Scope:** Autopilot, tablet, and communications updates for vertical takeoff/landing aircraft
 - **Testing:** S3/S10020 aircraft being used for validation
-- **Challenges:** Parameter management, UI integration, XML configuration
-- **Recent Update (April 28-29, 2026):** Landing plan final length calculation updated and validated; distance display fixed and deployed via APK; vertical landing for S1 aircraft tested with 17m/s IAS and 2.25s lookahead resulting in correct 114m approach length
-- **Latest (May 21, 2026):** Maciej pushing additional fixes to branch
-
-**Hurricane Web Controller (2024-2025):**
-- **Status:** Completed and ready for testing; active validation ongoing (April 2026)
-- **Features:** Dynamic GFS overlay (10m wind speed, mean sea level pressure), storm data interface
-- **Team:** Dan Prendergast working on storm data interface
-- **Recent Activity:** Jack Elston validating changes; testing scheduled with Maciej and Alex (April 8, 2026)
-
-**App Architecture Framework (2022-2024):**
-- **Status:**
+- **Challenges:** Parameter management (now being addressed with hardcoded defines-to-parameters conversion), UI integration, XML configuration
+- **Recent Update (April 28-29, 2026):** Landing plan final length calculation updated and validated

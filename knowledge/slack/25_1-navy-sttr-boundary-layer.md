@@ -40,6 +40,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **Wind Data Improvements**: Dual GPS heading data enabling improved wind estimation techniques for CAT flights
 - **5-Hole Probe & Magnetometer Calibration (June 2, 2026)**: S0-63 flight analysis revealed firmware error in 5-hole probe center port and issues with new magnetometer calibration method; both issues resolved with post-processing corrections showing improved agreement with dropsonde measurements
 - **Wind Calculation Method Trade-off (June 4, 2026)**: Identified technical consideration that recomputing winds from low-rate data produces noisier results due to loss of high-rate gyro data access; Maciej flagged this as potential limitation for re-analysis of CAT flights
+- **Turbulence Metrics Reproducibility (June 5, 2026)**: Investigating differences in turbulence metrics between two S0 aircraft flying at same low altitude during CAT flights; Josh Wadler seeking reproducibility validation; Maciej exploring multiple post-processing approaches to improve data quality and reduce noise
 
 **Active Field Operations (April-May 2026):**
 - S0 UAS ocean deployment missions coordinated through NOAA AOC (Aviation Operations Center) in Lakeland
@@ -49,16 +50,11 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
   - **2026-04-09**: Recovered S0 test with scattered rain (4 sondes)
 - IRC chat coordination system for real-time field communication during flights and landing operations
 - 5 test flights completed during validation window; data recovery and post-processing in progress
+- Dual S0 aircraft operations at low altitude for turbulence measurement comparison (currently under analysis)
 
-**Data Products (May 6-10, 2026):**
+**Data Products (May 6-10 & June 2026):**
 - Full-rate multi-sensor dataset from 5 test flights and CAT flights (primary deliverable maintaining 5Hz PTH, 100Hz wind, 100Hz static pressure sampling rates)
 - 1 Hz downsampled version for TDR (Tropical Cyclone Data Repository) comparison and analysis
 - Processed dropsonde data (post-processed with Aspen QC)
 - TDR radar data from CAT flights (confirmed coverage for 04/07 as of June 3, 2026; earlier data gaps in eastern region resolved through reprocessing)
-- Streamsonde data (post-processing status: TBD on real-time QC files)
-
-**Data Repository Structure (May 6, 2026):**
-- Centralized Google Drive: Maciej's NOAA folder → 2026 subfolder → CAT subfolder for organized data management
-- Contains: Dropsonde data, TDR data, Streamsonde data, S0 files with improved wind estimates
-
-**Phase II Cal
+- Streamsonde data (post

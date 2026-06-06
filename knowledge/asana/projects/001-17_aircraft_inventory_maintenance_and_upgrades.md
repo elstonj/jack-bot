@@ -66,4 +66,4 @@
 - Blade torque specifications determined through hardware testing with loctite (2021)
 - Extensive supplier relationships (Hacker Motors, SKB cases, Lee for cost updates)
 
-**Status:** Project successfully concluded with all deliverables completed December 2025. No outstanding development work. Future maintenance and post-flight issues tracked through separate Fleet Maintenance workflow (established May 2026 per Daniel Prendergast).
+**Post-project maintenance framework:** All future aircraft and equipment issues are captured via Daniel Prendergast's post-flight form (May 2026) and automatically routed to the Fleet Maintenance project or other relevant project spaces. This archived project serves as historical reference only.

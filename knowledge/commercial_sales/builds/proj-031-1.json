@@ -1,0 +1,69 @@
+{
+  "asana_gid": "proj-031-1",
+  "asana_task_name": "University of Maryland Eastern Shore (UMES), Princess Anne, MD [031-1]",
+  "customer": "University of Maryland Eastern Shore (UMES)",
+  "customer_contact": "Chris Hartman / Crystal Neal",
+  "customer_email": "chartman@umes.edu / cmneal@umes.edu",
+  "receive_by": "2025-05-30",
+  "ship_to": "University of Maryland Eastern Shore, Princess Anne, MD",
+  "items": [
+    {
+      "description": "S3 VTOL UAS flight system",
+      "quantity": 1
+    },
+    {
+      "description": "Batteries and spare components",
+      "quantity": 1
+    },
+    {
+      "description": "Operator training",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "paid",
+  "build_state": "complete",
+  "ship_state": "in_transit",
+  "estimate_date": null,
+  "invoice_date": "2025-03-05",
+  "invoice_amount": 102181.0,
+  "invoice_number": "1652, 1653",
+  "paid_date": "2025-03-05",
+  "parts": [
+    {
+      "name": "S3 VTOL airframe",
+      "ordered": true,
+      "received": true,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    },
+    {
+      "name": "Batteries",
+      "ordered": true,
+      "received": true,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    },
+    {
+      "name": "Spare components",
+      "ordered": true,
+      "received": true,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    }
+  ],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": "2025-05-29",
+  "owners": {
+    "interface": "Josh Fromm",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "S3 VTOL system built and shipped to UMES on 2025-05-29. Invoices 1652 ($100,213) and 1653 ($1,968) both paid. Training logistics pending for July 23\u201325, 2026. Outstanding invoice 1765 ($79,338, dated 2026-05-18) appears to be a follow-on or extension; retained invoice matches delivered hardware.",
+  "missing_fields": [
+    "tracking_number",
+    "carrier"
+  ],
+  "last_evidence_date": "2026-06-05",
+  "last_contact_date": null
+}

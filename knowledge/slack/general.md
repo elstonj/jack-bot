@@ -22,7 +22,7 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **KrateoSky Integration Meeting Rescheduled** (May 26, 2026): Integration meeting with KrateoSky pushed from late May to June 9-10, 2026. Same agenda; team dinner on June 9th required attendance. Beck Cotter to provide more details.
 - **Neighboring Business Facility Access** (May 26, 2026): Havenly bakery (adjacent tenant) granted bathroom access during their facility repairs.
 - **Boulder Social Team Lunch** (June 3, 2026): Meredith Needham organized team lunch reservation at Boulder Social. Confirmed attendees: Jack Elston, Maciej, Beck Cotter, Alex Lomis, Joshua Fromm, Sam Hild, and Meredith Needham. Dan Prendergast unable to attend per Jack's decision; Nate joked about joining incognito.
-- **New Intern Onboarding** (June 4-5, 2026): Spencer Hoehl (recent CU graduate) starting June 5, 2026 at 9:30am. Jack Elston out; Meredith Needham handling introduction coordination. Jack coordinating with team member to provide computer setup and BST account creation.
+- **New Intern Onboarding - Spencer Hoehl** (June 4-5, 2026): Spencer Hoehl (recent CU graduate) starting June 5, 2026 at 9:30am. Jack Elston out; Meredith Needham handled introduction coordination. Jack coordinated with team member to provide computer setup and BST account creation. Welcomed by Paige Smith and Beck Cotter on June 5, 2026.
 
 ### Funding & Awards
 - **NASA Phase I Award** (May 26, 2021): Contract awarded for S2 all-weather capable platform development with solar integration and VTOL S2 for remote autonomous landing
@@ -42,6 +42,4 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Nomenclature Strategy for DoD/Federal Contracts** (April 10, 2026): Decision to align naming conventions with federal/DoD standards: "aircraft" for UAS, "ground control station (GCS)" for operator interface device, "datalink" for communication system. Previously called datalink "ground station" and GCS "SwiftTab/SwiftStation". Proposed renaming SwiftStation to "SwiftLink" to match federal terminology and reduce proposal confusion.
 - **DoD Payload Interface Standards Awareness** (April 27, 2026): Team briefed on emerging DoD standardization initiatives for payload-aircraft interfaces. Two key standards referenced: Picatinny CLIK and SOCOM Modular Payload Standard for UAS. Note that SOCOM standard is dated; potential standards competition ahead.
 - **T-Mobile BVLOS Use Case Strategy** (May 18, 2026): Dan Prendergast recommended wildfire use case over tropical storm use case for T-Mobile direct-to-cell integration; may replace S3 radio relay wildfire communication strategy. Aligns with "Improve comm throughput and reliability" ASA priority.
-
-### Hardware/Facilities Decisions
-- **Roof/Building Repairs** (Aug 27-28, 2020 - May 27,
+- **Maxar/

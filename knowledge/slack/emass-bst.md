@@ -13,7 +13,7 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Sergio Ruocco (eMASS AI) - Autoboot firmware expert, SDK bring-up and troubleshooting
 - Shantanu (eMASS AI) - Hardware verification and validation
 
-**Activity Level:** Highly active collaboration spanning February-April 2026, with continued intensive activity through May 2026 focused on flight testing and controller refinement. Critical first-flight test completed on Apr 24, 2026. Activity through May 25, 2026 included troubleshooting waypoint navigation behavior, controller stability issues, sim-to-flight fidelity gaps, post-flight analysis, protocol documentation requests, and holiday scheduling. Activity May 26-27, 2026 involved delivery of three microtest binaries with comprehensive velocity command test sequences and overshoot validation. Activity May 28, 2026 focused on microtest flight results analysis and control behavior diagnostics. Latest activity (May 29, 2026) addressed velocity command precision issues and control limit parameters. **Current activity (June 2-5, 2026):** Testing multiple binary variants with hardcoded vs. waypoint-fetched flight paths and varying max speed limits; iterative refinement of controller parameters (altitude adjustments, speed constraints); pilot scheduling and resource allocation remain critical constraints with compressed test window.
+**Activity Level:** Highly active collaboration spanning February-April 2026, with continued intensive activity through May 2026 focused on flight testing and controller refinement. Critical first-flight test completed on Apr 24, 2026. Activity through May 25, 2026 included troubleshooting waypoint navigation behavior, controller stability issues, sim-to-flight fidelity gaps, post-flight analysis, protocol documentation requests, and holiday scheduling. Activity May 26-27, 2026 involved delivery of three microtest binaries with comprehensive velocity command test sequences and overshoot validation. Activity May 28, 2026 focused on microtest flight results analysis and control behavior diagnostics. Latest activity (May 29, 2026) addressed velocity command precision issues and control limit parameters. **Current activity (June 2-5, 2026):** Testing multiple binary variants with hardcoded vs. waypoint-fetched flight paths and varying max speed limits; iterative refinement of controller parameters (altitude adjustments, speed constraints); pilot scheduling and resource allocation remain critical constraints with compressed test window. **Latest update (June 5, 2026):** Flight testing continued with new binaries delivered. Dan Prendergast conducted flights on June 5 with detailed logs and email documentation provided. Access issues identified with shared Flight Data drive requiring permissions update for eMASS team members (Mohamed M. Sabry, Sergio Ruocco unable to access).
 
 ---
 
@@ -93,9 +93,4 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 
 **PWM Value Range Correction (Apr 27, 2026)**
 - Nikhila identified discrepancy in PWM actuator value conversion in emass_handler.cpp
-- Current code assumes range: -100→1000µs, 0→1500µs, +100→2000µs (formula: 1500 + actuators[i] * 5)
-- Flight Log User Guide references different range: 1150µs (0%) to 1900µs (100%)
-- **Decision: Pending clarification from Jack Elston on correct PWM range**
-
-**Multi-Speed Controller Variants Testing (Jun 4, 2026)**
--
+- Current code assumes range: -100→1000µs, 0→1500µs, +100→2000µs (formula: 1

@@ -18,19 +18,16 @@
 - **Timeline:** Option Period April 14 – September 28, 2026
   - **Project kicked off:** April 21–22, 2026
   - **Compressed 6.5-month timeline** for design → build → ground test → hand-launched flights → Camp Pendleton demo + three Navy reports
-- **Status:** ⚠️ **LIKELY COMPLETED BUT CRITICAL GAPS REMAIN**
-  - Asana shows project both start and due as 2026-09-28 (system archival indicator)
+- **Status:** ⚠️ **MOSTLY ON SCHEDULE** per Jack Elston (May 8 & 11, 2026); **Navy STTR takes priority**
+  - **Asana shows 1 open task:** "Design of S0-AD ground launcher complete" (Alex Lomis) — **DUE JUN 5, 2026 — OVERDUE**
   - Most task history closed; last recorded completion May 29, 2026
   - Most recent status update: Mar 16 (green status)
-  - **2 CRITICAL OPEN TASKS REMAIN:**
-    1. "Finalize permissions, frequencies, etc for Camp Pendleton Demo" (Beck Cotter) — **DUE JUN 1, 2026 — OVERDUE** [from prior data]
-    2. "Design of S0-AD ground launcher complete" (Alex Lomis) — **DUE JUN 5, 2026 — OVERDUE**
-  - **Recommendation:** Immediately contact Alex Lomis and Beck Cotter to clarify status of both critical administrative/technical tasks. Verify receipt and acceptance of all three Navy deliverables (CLIN 0005, 0006, 0007). Camp Pendleton demo was scheduled for Sep 14–25; confirm whether it occurred and outcome. If both tasks were completed but not closed in Asana, close them immediately. If they remain blocked, escalate to Angel Ruiz-Reyes.
+  - **Recommendation:** Contact Alex Lomis to verify status of launcher design task. If completed but not closed in Asana, close immediately. If blocked, determine impact on Camp Pendleton demo (Sep 14–25) and escalate. Jack's May feedback indicates project fundamentally on track despite STTR competition for team bandwidth.
 - **Team Members:**
-  - Alex Lomis (PM/Owner, technical lead for builds & flights) — **OWNS OVERDUE TASK (launcher design)**
-  - Jack Elston (technical lead, onboard logging & final reporting)
+  - Alex Lomis (PM/Owner, technical lead for builds & flights) — **OWNS OPEN TASK (launcher design)**
+  - Jack Elston (technical lead, onboard logging & final reporting) — **Status reporter**
   - Maciej Stachura (Python tools, sensor configuration)
-  - Beck Cotter (Camp Pendleton coordination) — **OWNS OVERDUE TASK (permissions)**
+  - Beck Cotter (Camp Pendleton coordination)
   - Meredith O'hara Needham (administrative, invoicing, FWA certification)
   - Dan Prendergast (support)
 
@@ -48,35 +45,30 @@
 - Preliminary design mods for reusable S0-MAD — ✓ Completed May 1, 2026
 - Order parts for S0-MAD reusable — ✓ Completed May 5, 2026
 - Settings for both Mag Sensors (Maciej Stachura) — ✓ Completed May 29, 2026 (due May 18)
-- **Design of S0-AD ground launcher complete** (Alex Lomis) — ⚠️ **OPEN, OVERDUE (due Jun 5, 2026)**
-- Build hand-launched S0-MAD, S0-AD launcher design/build, local test flights, Camp Pendleton demo (Sep 14–25) — **Status unknown**
-- **Finalize permissions, frequencies, etc for Camp Pendleton Demo** (Beck Cotter) — ⚠️ **OPEN, OVERDUE (due Jun 1, 2026)**
+- **Design of S0-AD ground launcher complete** (Alex Lomis) — ⚠️ **OPEN, DUE JUN 5, 2026 (OVERDUE)**
+- Build hand-launched S0-MAD, S0-AD launcher build, local test flights, Camp Pendleton demo (Sep 14–25) — **Status unknown; project reported mostly on schedule as of May 11**
 
 ## Task Summary
 - **Total Tasks (Asana):** 1 open, majority completed/closed
 - **Open Tasks:** 
   - "Design of S0-AD ground launcher complete" (Alex Lomis, due Jun 5, 2026) — **OVERDUE**
-  - "Finalize permissions, frequencies, etc for Camp Pendleton Demo" (Beck Cotter, due Jun 1, 2026) — **OVERDUE** [from prior tracking]
 - **Completion Rate:** ~95%+ of historical tasks completed; final administrative and technical work largely finished by May–June 2026
 
 ## Recent Activity
 - **Last recorded task completion:** May 29, 2026 — Maciej Stachura completed "Settings for both Mag Sensors"
-- **Most recent status update:** Mar 16, 2026 (green status, minimal detail)
-- **Critical gaps:** 
-  - Alex Lomis's launcher design task overdue (due Jun 5, 2026)
-  - Beck Cotter's Camp Pendleton permissions task remains open with June 1 deadline passed
-  - No evidence of closure or Camp Pendleton demo execution in available data
-- Project appears inactive in Asana since early June 2026, despite contract end date of Sep 28, 2026
+- **Most recent status updates:** 
+  - Jack Elston (May 11, 2026): "Navy STTR has priority; SBIR mostly on schedule"
+  - Asana (Mar 16, 2026): green status
+- **Current Status:** Project reported as **mostly on schedule** despite Navy STTR taking team priority. One launcher design task remains open and overdue as of June 5. No evidence of stoppage or major delays as of May 11, 2026.
 
 ## Notes & Context
 - **Project Scope:** Magnetic anomaly detection (MAD) and passive acoustic sensing integration into SL UAS platform, including sensor integration, platform modification, system testing, and laboratory/field validation in collaboration with Cetacean Research Technology (CRT) and QuSpin.
-- **Previous Risk Signals (May 2026):** Navy STTR prioritized over this SBIR; team bandwidth constrained. Camp Pendleton permissions identified as critical external blocker.
+- **Key Context (May 2026):** Jack Elston clarified that Navy STTR work takes priority over this SBIR, but **SBIR is mostly on schedule** — suggests team bandwidth allocation is managed but project execution is not significantly impacted.
 - **Data Anomalies:** 
   - Project start and due dates both 2026-09-28 in Asana (likely system archival code, not actual contract dates)
-  - Two open tasks with June deadlines conflict with assumed project closure; unclear if tasks are stale administrative items or reflect actual blockers
+  - One open task (launcher design) with June 5 deadline vs. overall project Sep 28 closure; likely routine design work rather than critical blocker
 - **Priority:** High (Government client, deliverable-driven)
-- **Immediate Actions Required:**
-  1. **URGENT:** Contact Alex Lomis immediately to determine status of S0-AD launcher design (due Jun 5, 2026 — now overdue)
-  2. **URGENT:** Contact Beck Cotter immediately to determine status of Camp Pendleton demo permissions (due Jun 1, 2026 — now overdue)
-  3. Confirm with Alex Lomis whether Camp Pendleton demo occurred Sep 14–25, 2026 and outcome
-  4. Verify Navy receipt and acceptance of CLIN 0006 (Jun 29
+- **Immediate Actions:**
+  1. **Contact Alex Lomis** to determine status of S0-AD launcher design (due Jun 5, 2026 — now overdue). If completed, close task in Asana. If blocked, determine impact on demo timeline.
+  2. Verify Camp Pendleton demo execution (Sep 14–25) and outcome.
+  3. Confirm Navy receipt and acceptance of CLIN 0007 (Final Report, due Sep 28, 2026).

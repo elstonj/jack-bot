@@ -1,92 +1,63 @@
 # BST Financial Overview (QuickBooks)
-**Period: June 4–5, 2026 | Data Range: April 2024 – June 2026**
-
----
 
 ## Company Totals
-
-| Metric | Amount |
-|--------|--------|
-| **Total Revenue (Invoices)** | $7,423,665.62 |
-| **Total Expenses (Bills + Purchases)** | $2,666,306.19 |
-| **Net Income (Period)** | $708.58 |
-| **Net Position (All-Time)** | $4,775,353.63 |
-
-*Note: Period P&L shows only June 4–5 activity ($1,000 revenue, $291.42 expenses). Full portfolio spans 26+ months.*
+- **Total Revenue (Invoices):** $4,479,071.64
+- **Total Expenses:** $5,946,347.70
+- **Net Income:** -$1,467,276.06
 
 ---
 
 ## By Project/Class
-**Sorted by Total Activity (Revenue + Expenses)**
+*(Sorted by total activity)*
 
-| Project | Revenue | Expenses | Net Position | Status |
-|---------|---------|----------|--------------|--------|
-| **Government** | $4,462,176.28 | $1,331,088.08 | **+$3,131,088.20** | Active |
-| **Commercial** | $2,961,489.34 | $239,269.53 | **+$2,722,219.81** | Active |
-| **BST Internal** | $17,894.36 | $1,095,948.58 | **−$1,078,054.22** | High Expense Load |
-
-**Portfolio Total:** $7,441,559.98 revenue | $2,666,306.19 expenses | **+$4,775,253.79 net**
+| Project | Total Revenue | Total Expenses | Net Position |
+|---------|---------------|----------------|--------------|
+| Government | $4,462,176.28 | $1,331,088.08 | +$3,131,088.20 |
+| Unclassified | $1.00 | $3,517,802.84 | -$3,517,801.84 |
+| BST Internal | $17,894.36 | $1,097,456.78 | -$1,079,562.42 |
 
 ---
 
 ## Cash Flow Indicators
 
-### Accounts Receivable (Outstanding Balances)
-- **Government contracts:** $3,194,865.82 outstanding (76 active invoices)
-- **Commercial (recent):** $1,000.00 outstanding (Invoice #1768, June 4, 2026 – Black Swift Technologies)
-- **Total A/R:** ~$3,195,865.82
+### Accounts Receivable (Outstanding)
+- **Government project:** $3,194,865.82 in outstanding invoice balances (76 active invoices)
+- **BST Internal & Unclassified:** Minimal outstanding balances
+
+### Recent Activity (June 5–6, 2026)
+- **Direct shipping/freight costs:** $42.15
+- **QuickBooks Payments fees:** $236.12
+- **R&D expenses:** $372.77
+- **Sales & Marketing:** $66.37
+- **Recent BST Internal spend:** +$940.52 (June 5–18 period)
 
 ### Outstanding Purchase Orders
-- **BST Internal:** $1,700.00 (PO #1038 – Amprius, pending)
-- **Commercial:** $1,977.50
+- **BST Internal:** $1,700.00 (PO #1038 – Amprius)
 - **Government:** $832.00
-- **Total POs:** $4,509.50
-
-### Recent High Expenses
-- **BST Internal (June 4–18, 2026):** +$1,508.20 in new activity
-- **R&D spending:** $235.98 (June period)
-- **Shipping & Sales/Marketing:** $55.44 (June period)
 
 ---
 
-## Project Status Notes
+## Critical Findings
 
-### ⚠️ BST Internal – Red Flag
-- **Net deficit of $1.08M** despite only $17.9K in invoiced revenue
-- **1,174 transactions** over 26 months suggest internal R&D or overhead allocation
-- **No customer invoicing** evident; may represent cost center rather than revenue project
+### ⚠️ Major Concern: Unclassified Expenses
+- **$3,517,802.84** in expenses (nearly 59% of total company spend) are **unclassified** with only $1.00 in corresponding revenue
+- This represents a significant accounting gap requiring immediate investigation
+- Recommend reclassifying these transactions to proper project codes
 
-### ✅ Government – Strong Position
-- **$3.1M net positive** with $3.2M still outstanding
-- **76 active invoices** indicate ongoing contractual work
-- **Largest revenue driver** for the company
+### Government Project (Healthy)
+- Strong positive net position: +$3.13M
+- High outstanding receivables ($3.19M) indicate ongoing billing
+- This project is carrying company profitability
 
-### ✅ Commercial – Healthy Growth
-- **$2.7M net positive** with recent invoice activity
-- **Recent June 4 invoice** ($1,000) to Black Swift Technologies indicates current sales
-
----
-
-## Top Vendors & Customers
-
-*Detailed vendor/customer breakdowns not fully populated in source data. Key observations:*
-
-**Top Customer (by recent activity):**
-- Black Swift Technologies ($1,000 – Invoice #1768, June 4, 2026)
-
-**Major Customer Base:**
-- Government contracts dominate (76 invoices, $4.46M cumulative revenue)
-- Recommend full vendor/customer aging report for complete analysis
+### BST Internal (Concern)
+- Negative net position: -$1.08M
+- Expenses ($1.10M) far exceed invoiced revenue ($17.9K) over 26 months
+- May be an internal cost center or incomplete billing structure
 
 ---
 
-## Unclassified Transactions
-- None noted in source data; all transactions assigned to project classes (BST Internal, Commercial, Government)
-
----
-
-## Key Insights
-1. **Portfolio is profitable:** $4.8M net position across all projects
-2. **Liquidity note:** $3.2M government receivable is significant; monitor collection timing
-3. **BST Internal requires review:** Large expense base with minimal revenue suggests overhead/R&D allocation—verify if this should be capitalized or reallocated
-4. **Recent activity:** June period shows modest new revenue ($1,000) and low expenses ($291.42); typical for a 2-day snapshot
+## Recommendations
+1. **Immediately audit the Unclassified category** – $3.5M in expenses needs proper project allocation
+2. **Review Government AR** – Follow up on $3.19M in outstanding invoices
+3. **Clarify BST Internal** – Determine if this is a cost center or if revenue billing is incomplete
+4. **Complete the data** – The provided reports appear truncated; full vendor and customer lists are needed
