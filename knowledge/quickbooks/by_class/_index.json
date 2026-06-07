@@ -1,17 +1,17 @@
 {
   "period": {
-    "start": "2026-06-05",
-    "end": "2026-06-06"
+    "start": "2026-06-06",
+    "end": "2026-06-07"
   },
-  "scanned_at": "2026-06-06",
+  "scanned_at": "2026-06-07",
   "projects": [
     {
       "project_code": "001-7",
       "revenue": 0.0,
-      "expenses": 513.36,
+      "expenses": 140.59,
       "invoice_count": 0,
       "bill_count": 0,
-      "purchase_count": 3,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -21,10 +21,10 @@
     {
       "project_code": "300-3",
       "revenue": 144000.0,
-      "expenses": 135.32,
+      "expenses": 93.17,
       "invoice_count": 2,
       "bill_count": 0,
-      "purchase_count": 2,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -46,16 +46,15 @@
     },
     {
       "project_code": "_unclassified",
-      "revenue": 4580.0,
-      "expenses": 763.28,
+      "revenue": 0.0,
+      "expenses": 460.79,
       "invoice_count": 0,
       "bill_count": 0,
-      "purchase_count": 4,
+      "purchase_count": 2,
       "po_count": 0,
-      "payment_count": 1,
+      "payment_count": 0,
       "qbo_class_names": [
-        "",
-        "NOAA UASD"
+        ""
       ]
     }
   ]

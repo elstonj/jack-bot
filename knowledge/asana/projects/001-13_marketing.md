@@ -3,24 +3,25 @@
 ## Overview
 - **Client/Customer**: Internal BST marketing initiative, with engagement for USAF (Col Penuela) and various conference/industry outreach
 - **Dollar Value**: No specific dollar amounts identified in task data
-- **Timeline**: Ongoing project with tasks spanning 2024-2026, no defined end date
-- **Status**: **Project appears archived or significantly scaled back.** Raw data consistently shows 0 open tasks and minimal completed task visibility. Only recent completion shown is Website Audit (2026-02-24). Prior assessment documented 1 open task (Google Ads specialist review, due 2026-04-28) and multiple pending deliverables, none of which appear in current data. **This represents a significant data integrity issue — either the project has been archived in Asana, tasks have been moved elsewhere, or the data export is incomplete.** Clarification needed on current project status.
+- **Timeline**: Ongoing project with tasks spanning 2024–2026, no defined end date
+- **Status**: **Project appears archived or significantly scaled back.** Current data shows 0 open tasks and only 1 completed task visible (Speaking Engagement or Demo, completed 2025-10-21). This represents a critical data visibility gap compared to prior assessment, which documented 1 open task (Google Ads specialist review, due 2026-04-28) and multiple pending deliverables through April 2026. **Either the project has been archived in Asana, tasks have been moved elsewhere, or the data export is incomplete.** Clarification needed on current project status.
 - **Team Members**: Paige Smith (owner), Dan Prendergast, Meredith O'hara Needham
 - **Risk Signals**: 
-  - **Critical visibility gap**: No active tasks visible despite prior documented work pipeline
-  - **Stale data concern**: Last visible completion (Website Audit, Feb 2026) predates prior assessment completions (April 2026 activities)
-  - **Missing tracked work**: Google Ads review, conference participation, sales materials, and website rebuild work all unaccounted for in current data
+  - **Critical visibility gap**: No active tasks visible; prior assessment documented 63+ completed tasks and multiple pending items
+  - **Data inconsistency**: Current export shows task completed 2025-10-21, but prior assessment showed recent completions through April 2026
+  - **Missing tracked work**: Google Ads review, conference participation, sales materials, website rebuild work all unaccounted for in current data
 
 ## Key Deliverables & Milestones
 - **Marketing Strategy & Plan**: Completed February 2025
 - **Media Kit**: Completed October 2024
 - **Social Media Plan**: Completed November 2024 with content calendar through Q1 2025
 - **Website Updates**: 
-  - Audit completed February 2026 (confirmed in current data)
+  - Audit completed February 2026
   - Kites website (completed 2026-04-16)
   - Website datasheets (resolved/archived)
-  - New website design and upkeep ongoing (status unclear)
-- **Conference Participation**: 
+  - New website design and upkeep (status unclear)
+- **Conference Participation & Speaking Engagements**: 
+  - Speaking Engagement or Demo (completed 2025-10-21)
   - AFA Warfare Symposium (completed January 2026)
   - Mountain West UAS Meetup (completed September 2025)
   - ISARRA Conference (pending, unassigned)
@@ -42,18 +43,19 @@
 
 ## Task Summary
 - **Current Open Tasks**: 0
-- **Recently Completed (in current data)**: Website Audit (2026-02-24)
+- **Recently Completed (in current data)**: Speaking Engagement or Demo (2025-10-21)
 - **Completed in prior assessment period**: 63+ tasks total (85%+ completion rate estimated)
 - **Tasks by Assignee**:
-  - Paige Smith: Project owner; no currently visible open tasks (but was assigned Google Ads review in prior assessment)
+  - Paige Smith: Project owner; no currently visible open tasks
   - Dan Prendergast: Historical contributions only
   - Meredith O'hara Needham: Historical contributions only
+  - Unassigned: Speaking Engagement or Demo (completed 2025-10-21)
 - **Notable Patterns**: 
-  - **Severe data visibility issue**: Current export shows only 1 completed task (Website Audit), but prior assessment documented recent completions through April 2026 and multiple pending deliverables. Either Asana view is filtered, project is archived, or data export is incomplete.
+  - **Severe data visibility issue**: Current export shows only 1 completed task, but prior assessment documented 60+ completed tasks and multiple pending deliverables. Either Asana view is filtered, project is archived, or data export is incomplete.
 
 ## Recent Activity
-- **Current data shows**: Website Audit completed 2026-02-24
-- **Prior assessment documented**: Multiple April 2026 completions (Analytics, datasheets, content graphics, multi-drop marketing)
+- **Current data shows**: Speaking Engagement or Demo completed 2025-10-21
+- **Prior assessment documented**: Website Audit (Feb 2026), multiple April 2026 completions (Kites website, datasheets, content graphics, multi-drop marketing, newsletter submission)
 - **Status of documented work**: Unclear — tasks either completed and hidden from current view, moved to different project, or remain in progress
 - **Known unresolved items from prior assessment**: 
   - Google Ads specialist review (due 2026-04-28)
@@ -66,16 +68,17 @@
 Project aims to create comprehensive marketing strategy for BST brand promotion and business growth with emphasis on:
 
 - **Digital Presence**: Website improvements, SEO optimization, Google Analytics monitoring
-- **Industry Engagement**: Conference participation (multiple events in pipeline)
+- **Industry Engagement**: Conference participation and speaking opportunities (multiple events in pipeline)
 - **Content Development**: Datasheets, video production, sales collateral, graphics
 - **Government/Defense Outreach**: Strategic engagement with USAF (Col Penuela), AFRL, INDOPACOM
 - **Google Ads**: Ongoing optimization with specialist reviews
 
 **DATA INTEGRITY ISSUE — REQUIRES IMMEDIATE INVESTIGATION**:
 
-Current export shows **0 open tasks** and **1 recent completion** (Website Audit, Feb 2026), but this conflicts with prior assessment data showing:
-- 1 open task tracked (Google Ads review, due April 28)
-- Multiple April 2026 completions (Analytics, datasheets, graphics, website updates)
+Current export shows **0 open tasks** and **1 recent completion** (Speaking Engagement or Demo, 2025-10-21), but this conflicts with prior assessment data showing:
+- 1 open task tracked (Google Ads review, due April 28, 2026)
+- Multiple April 2026 completions (Kites website, datasheets, graphics, newsletter submission, analytics)
+- Website Audit completion (Feb 2026)
 - Pending deliverables (conferences, sales decks)
 - Active website rebuild work
 
@@ -88,5 +91,5 @@ Current export shows **0 open tasks** and **1 recent completion** (Website Audit
 **Recommended actions**:
 1. **Confirm project status with Paige Smith**: Is [001-13] Marketing active, paused, or archived?
 2. **Request unfiltered task export**: Ensure all tasks (including completed, archived, and in-progress) are visible
-3. **Reconcile April 2026 completions**: Verify whether those deliverables were genuinely completed or remain active
+3. **Reconcile completion timeline**: Verify April 2026 completions and explain gap between 2025-10-21 and Feb–April 2026 dates
 4. **Clarify Google Ads review**: Confirm status of specialist review previously due 2026-04-28

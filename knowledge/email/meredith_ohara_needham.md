@@ -1,10 +1,10 @@
 # Meredith O'Hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,588 (2,541 previous + 47 new from June 5–6)
+- **Total messages scanned:** 2,595 (2,588 previous + 7 new from June 6)
 - **Date range:** March 23 – June 6, 2026 (approximately 11 weeks)
 - **Approximate volume:** 25–40 emails per day (mix of sent, received, and automated)
-- **June 5–6 new data:** 47 messages; **~32% human-initiated direct business (15 messages); ~68% transactional/automated/vendor notifications**
+- **June 6 new data:** 7 messages; **100% transactional/automated/vendor promotional** — no human-initiated direct business on June 6
 - **Pattern sustained:** High-volume operational execution; heavy vendor/supplier coordination; active tax compliance escalation; government contract/academic partnership management; financial/banking setup
 
 ---
@@ -14,88 +14,121 @@
 ### Top Internal Contacts
 
 - **Jack Elston** — Legal/investor coordination, government contracts, strategic operations, academic partnerships, vendor escalations, tax advisory
-  - **June 5 activity (1 message):** "Re: Shipment ETA" (IMPORTANT) — continues supply chain oversight
-  - **Pattern:** Primary escalation hub; routes complex multi-stakeholder matters; manages government compliance (NOAA property audits)
+  - **Primary escalation hub; routes complex multi-stakeholder matters; manages government compliance (NOAA property audits)**
 
 - **Beck Cotter** (CFO/Operations Leadership)
-  - **June 5 activity:** Daniel Prendergast forwards "BST-EMASS Project Initial Scope Closeout" to Beck & Meredith
-  - **Signal:** Active involvement in project closeouts and disclosure schedules finalization
+  - **Active involvement in project closeouts and disclosure schedules finalization**
 
 - **Daniel Prendergast** (Engineering/Operations Lead)
-  - **June 5 activity (2 messages, IMPORTANT):**
-    - 16:07 UTC: Fwd: "BST-EMASS Project Initial Scope Closeout" (to Beck Cotter, Meredith)
-    - 15:42 UTC: "Re: Latest Stable Binary" (to Nikhila Ravikumar at NanoVEU)
-  - **Signal:** Technical project leadership; coordinates scope closeouts and binary releases
+  - **Technical project leadership; coordinates scope closeouts and binary releases**
 
 - **Joshua Fromm** (josh.fromm@blackswifttech.com) — Operations/Logistics
-  - **June 5 activity (2 messages):**
-    - Receives Rubicon invoicing coordination from Jeremy Van Vliet
-    - Pirate Ship shipping receipt routed to him for purchasing coordination
-  - **Pattern:** Supply chain/logistics execution partner with Meredith
+  - **Supply chain/logistics execution partner with Meredith**
 
 - **Paige Smith** (paige.smith@blackswifttech.com) — Marketing/Operations
-  - **June 5 activity (1 message, IMPORTANT):** "Fwd: Your Print & Marketing Order Confirmation"
-  - **Signal:** Marketing materials coordination
+  - **Marketing materials coordination**
 
 ### Top External Contacts
 
-**Financial & Banking — NEW PATTERN (EXPANSION)**
+**Financial & Banking — EXPANSION IN PROGRESS**
 
-- **Denelle Belcher** (Denelle.Belcher@elevationscu.com) & **Candace DaSilva** (Candace.DaSilva@elevationscu.com) — **ELEVATIONS CREDIT UNION**
-  - **June 5 activity (CRITICAL, 6 messages total, multiple IMPORTANT/STARRED):**
-    - **Candace DaSilva (STARRED, YELLOW_STAR):** "Re: Setting up business account" (20:15 UTC)
-    - **Meredith responses (3 sent messages):** 11:31 UTC, 13:32 UTC, 14:48 UTC — multiple follow-ups on business account setup
-    - **Denelle Belcher (IMPORTANT):** "Appointment with ECU" (20:22 UTC)
-    - **Meredith response:** 14:56 UTC — confirms appointment
-  - **Signal:** **BANKING RELATIONSHIP EXPANSION — New business account establishment at credit union; appointment scheduled; active setup coordination**
-  - **Implication:** Possible new banking relationship for operational/financing purposes
+- **Elevations Credit Union** (Denelle Belcher, Candace DaSilva)
+  - **BANKING RELATIONSHIP EXPANSION — New business account establishment; appointment scheduled; active setup coordination**
 
 **Tax Advisory — ONGOING ESCALATION (INTENSIFYING)**
 
 - **Mark Kightlinger** (Mark@kcotax.com) — **TAX ADVISOR**
-  - **June 5 activity (4 messages, all IMPORTANT, same-day exchanges):**
-    - 16:34 UTC: "BST Tax Issues - Sales Tax Returns, 2019 through 2022" (FROM Mark)
-    - 16:16 UTC: "RE: BST Tax Issues - Need Returns for Prior Years" (FROM Mark)
-    - 09:20 UTC: Meredith response on prior years request
-    - 11:24 UTC: Meredith response on sales tax returns 2019–2022
-  - **Pattern:** **Escalated frequency; now requesting multi-year sales tax returns (2019–2022) in addition to prior year income tax returns**
-  - **Signal:** **Tax compliance audit/review appears broadening; sales tax liability investigation underway; multi-year historical documentation required**
+  - **Escalated frequency; now requesting multi-year sales tax returns (2019–2022) in addition to prior year income tax returns**
+  - **Signal:** Tax compliance audit/review broadening; sales tax liability investigation underway; multi-year historical documentation required
 
 **External Logistics & Suppliers — HIGH ACTIVITY**
 
-- **Lee Skidmore** (lee@rubiconaerospace.com) — **RUBICON AEROSPACE PARTNER**
-  - **June 5 activity (5 messages, multiple IMPORTANT, rapid exchange):**
-    - 14:28 UTC: "S0 Fuse Shipping" (to Meredith & Josh Fromm) [IMPORTANT]
-    - 16:50 UTC: "Re: S0 Fuse Shipping" [IMPORTANT]
-    - 16:54 UTC: "Re: S0 Fuse Shipping" [IMPORTANT]
-    - **Meredith responses:** 09:23 UTC, 09:49 UTC, 10:52 UTC — multiple same-day responses on shipping logistics
-  - **Jeremy Van Vliet (jeremy@rubiconaerospace.com)** also involved:
-    - 20:05 UTC: "Re: Rubicon - Upcoming Invoicing" (to Lee, Meredith, Josh)
-    - **Meredith response:** 14:09 UTC
-  - **QuickBooks payment confirmations (2):**
-    - "Payment confirmation: Invoice #1009-(Rubicon Aerospace LLC)" (20:41 UTC)
-    - "New payment request from Rubicon Aerospace LLC - invoice 1009" (20:04 UTC)
-  - **Signal:** **Critical supplier relationship; S0 Fuse product shipping coordination; high-frequency communication on logistics; active invoicing/payment cycle**
+- **Rubicon Aerospace** (Lee Skidmore, Jeremy Van Vliet)
+  - **Critical supplier relationship; S0 Fuse product shipping coordination; high-frequency communication on logistics; active invoicing/payment cycle**
 
-- **Info Jawstec** (info@jawstec.com) — **JAWSTEC MANUFACTURING LLC (SUPPLIER)**
-  - **June 5 activity (4 messages):**
-    - 22:27 UTC: "Re: Being charged for sales tax - but have tax exempt certificate" [IMPORTANT, UNREAD]
-    - 16:34 UTC: "New payment request from JawstTec Manufacturing LLC - invoice 69119"
-    - 16:37 UTC: "We have received Order #69119"
-    - 06:05 UTC (June 6): "Invoice - Reminder: Your payment to JawsTec Manufacturing LLC is due"
-  - **Pattern:** **Ongoing tax dispute (sales tax despite tax-exempt certificate); multiple open invoices; payment reminders escalating**
-  - **Signal:** Vendor relationship friction; compliance issue unresolved
+- **JawsTec Manufacturing LLC** (info@jawstec.com)
+  - **Ongoing tax dispute (sales tax despite tax-exempt certificate); multiple open invoices; payment reminders escalating**
+  - **Vendor relationship friction; compliance issue unresolved**
+
+- **HeliDirect** (sales@helidirect.com) — **NEW CONTACT PATTERN (June 6)**
+  - **One promotional email:** "Tail Assembly Refresher on Steam AK420 by HAQ!!" (June 6, 20:00 UTC)
+  - **Signal:** Helicopter/aviation parts supplier; promotional outreach only in scanned window
 
 **Academic & Research Partnerships**
 
-- **Patricia Goodrich** (PGoodric@odu.edu) — **OLD DOMINION UNIVERSITY RESEARCH FOUNDATION**
-  - **June 5 activity (2 messages, both IMPORTANT):**
-    - 12:11 UTC: "RE: 500567-010 / Subcontract N6833525C0270 / ODU Research Foundation invoice AR261299" [IMPORTANT]
-    - **Meredith response:** 13:03 UTC
-  - **Details visible in subject:** Government subcontract reference (N6833525C0270); invoice AR261299
-  - **Signal:** Active research subcontract with federal/government funding oversight
+- **Old Dominion University Research Foundation** (Patricia Goodrich)
+  - **Active research subcontract with federal/government funding oversight; government subcontract reference (N6833525C0270)**
 
-- **Kelly Carnes** (CARNESK@erau.edu) — **EMBRY RIDDLE AERONAUTICAL UNIVERSITY**
-  - **June 5 activity (1 message, SENT):** "Re: ERAU invoice for Task O.1 ref GC87670"
-  - **Pattern:** Continues ERAU partnership; task-based invoicing with reference codes
-  - **Signal:** Research
+- **Embry Riddle Aeronautical University** (Kelly Carnes)
+  - **Research partnership; task-based invoicing**
+
+---
+
+## Topic Patterns
+
+### Recurring Business Themes
+- **Supply chain/logistics coordination** (S0 Fuse shipping, parts fulfillment)
+- **Tax compliance and multi-year returns** (2019–2022 sales tax focus; ongoing audit)
+- **Banking/financial setup** (new credit union business account)
+- **Government contracts and academic partnerships** (subcontract management, research invoicing)
+- **Project closeouts** (BST-EMASS Project scope closure)
+- **Vendor payment and invoicing** (Rubicon, JawsTec, academic institutions)
+
+### Vendor/Supplier Names (Frequent)
+- **Rubicon Aerospace** — S0 Fuse (critical part)
+- **JawsTec Manufacturing** — Orders with invoice #69119, tax exempt disputes
+- **Elevations Credit Union** — Business account setup
+- **Old Dominion University Research Foundation** — Subcontract N6833525C0270
+- **Embry Riddle Aeronautical University** — Task-based research invoicing
+
+### Automated/Transactional Email Pattern (June 6 data)
+- **Promotional/marketing emails (5 of 7 messages):**
+  - HeliDirect (aviation parts supplier)
+  - Baofeng Radio (electronics/communications)
+  - Amazon (camera quick release plate shipment)
+  - Speedway Motors (automotive parts)
+  - Harbor Freight (tools)
+- **Informational/system emails (2 of 7):**
+  - My Lenovo Rewards (monthly recap)
+  - USPS Informed Delivery (daily digest)
+
+---
+
+## Communication Patterns
+
+- **High operational volume:** 25–40 emails/day sustained across 11-week period
+- **Purchasing domain routing:** Many vendor/automated emails route to `purchasing@blackswifttech.com` alias, suggesting Meredith manages procurement workflows
+- **Time patterns from prior data:** Same-day rapid exchanges with tax advisor (Mark Kightlinger) and Rubicon Aerospace indicate high-priority items get fast-turnaround responses
+- **Mailing list participation:** Vendor newsletters and promotional subscriptions (HeliDirect, Baofeng, Amazon, Speedway Motors, Harbor Freight, Lenovo Rewards, USPS Informed Delivery)
+
+---
+
+## Key Relationships
+
+### Closest Internal Collaborators (by frequency & scope)
+1. **Jack Elston** — Strategic escalation hub; touches legal, government compliance, academic partnerships
+2. **Joshua Fromm** — Daily logistics/supply chain execution partner
+3. **Daniel Prendergast** — Technical project coordination and scope management
+4. **Beck Cotter** — Financial/operational oversight of major projects
+
+### Critical External Relationships
+1. **Mark Kightlinger (Tax Advisor)** — ESCALATING; multi-year audit scope expanding; same-day response patterns
+2. **Rubicon Aerospace** — High-frequency supplier; mission-critical parts (S0 Fuse); active invoicing cycle
+3. **Elevations Credit Union** — NEW; banking relationship expansion in active setup phase
+4. **JawsTec Manufacturing** — Vendor tension visible (tax dispute unresolved); payment reminders escalating
+
+---
+
+## Notable Observations
+
+1. **Tax Compliance Investigation Broadening:** Mark Kightlinger's June 5 requests now span multi-year sales tax returns (2019–2022), escalating from prior focus on income tax returns. This suggests a more comprehensive audit or compliance review than initially apparent.
+
+2. **Banking Relationship Shift:** Elevations Credit Union business account setup (6 messages, STARRED/IMPORTANT flags on June 5) indicates potential operational financing or cash management restructuring. Worth tracking whether this replaces or supplements existing banking relationships.
+
+3. **Vendor Friction Alert — JawsTec:** Unresolved sales tax dispute despite tax-exempt certificate; escalating payment reminders indicate strained relationship requiring resolution.
+
+4. **June 6 Email Shift:** Entirely promotional/automated traffic on June 6 (no human business emails) — suggests weekend pattern or temporary communication pause before new business volume.
+
+5. **Purchasing Alias Usage:** `purchasing@blackswifttech.com` alias receives most vendor/promotional emails, indicating Meredith operates as procurement coordinator across multiple supplier categories (aerospace, manufacturing, tools, electronics, logistics).
+
+6. **Aerospace Focus Visible:** HeliDirect contact (new June 6) + S0 Fuse (Rubicon) + ERAU partnership + NOAA contracts suggest aviation/aerospace supply chain emphasis in operations.

@@ -4,14 +4,14 @@
     "(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-06-05",
-    "end": "2026-06-06"
+    "start": "2026-06-06",
+    "end": "2026-06-07"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 513.36,
+    "expenses": 140.59,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 513.36
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 140.59
     }
   },
   "invoices": [],
@@ -32,42 +32,6 @@
           "amount": 140.59,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
           "description": "S3 IRAD shipmen to Sean Cole"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-06-05",
-      "doc_number": "0604JELSTON",
-      "total": 165.46,
-      "attributed": 165.46,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request - project is listed under the item purchased",
-      "lines": [
-        {
-          "amount": 165.46,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-06-05",
-      "doc_number": "69119",
-      "total": 207.31,
-      "attributed": 207.31,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 207.31,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Part-29-Main-1-.step"
         }
       ]
     }

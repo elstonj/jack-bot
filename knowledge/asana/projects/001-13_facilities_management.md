@@ -5,7 +5,7 @@
 - **Dollar value**: Lease costs ranging from $13.00–$14.63 NNN over 60-month term, plus $6.23 CAM for real estate taxes and building insurance
 - **Timeline**: Ongoing operational project with recurring monthly tasks
 - **Status**: Active - high completion rate; recurring batch completion cycle functioning smoothly
-- **Team members involved**: Meredith O'hara Needham (primary operational owner), Nate Straus (facilities improvements & consumables)
+- **Team members involved**: Meredith O'hara Needham (primary operational owner, Neat N Tidy owner), Nate Straus (facilities improvements & consumables)
 - **Risk signals**: 
   - **Pay Rent due 2026-06-29** (recurring monthly; currently open)
   - Note: Tasks consistently completed ahead of or on-schedule in recent cycles (May payment completed 2026-05-21, 4 days early)

@@ -1,11 +1,11 @@
 # Jack Elston — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 3,887 (3,796 prior + 91 June 5–6)
-- **Date range:** April 1–June 6, 2026
+- **Total messages scanned:** 3,906 (3,887 prior + 19 June 6–7)
+- **Date range:** April 1–June 7, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **June 5–6 activity (91 messages):** ~35% automated/vendor/procurement; ~65% human correspondence with continued M&A tax/legal intensity, KrateoSky post-deal coordination, government liaison work (NOAA, DoD), and technical project updates
-- **Peak activity window:** June 5 (Fri) — heavy post-definitive agreement resolution activity, tax indemnity reconciliation escalations, NOAA hurricane program collaboration, KrateoSky 2026 pipeline planning
+- **June 6–7 activity (19 messages):** ~42% automated/vendor/procurement; ~58% human correspondence concentrated on M&A tax/legal resolution and MIPA coordination
+- **Peak activity window:** June 5–6 (Fri–Sat) — sustained post-definitive agreement resolution, tax indemnity reconciliation escalations, legal counsel multi-party coordination
 
 ---
 
@@ -14,46 +14,82 @@
 ### Top Internal BST Contacts
 
 **Maciej Stachura** (stachura@blackswifttech.com) — Operations, technical partnerships, government liaison
-- **June 5–6 continuations:**
-  - **Re: sUAS RF Soil Moisture Mapping** (Jun 5 16:15:40 -0600, IMPORTANT) — University of Colorado research collaboration (Al Gasiewski)
-  - **Invitation: Sparv - Super Lightweight Sondes** (Jun 5 18:58:05 +0000, IMPORTANT) — NOAA/Joe Cione multi-stakeholder hurricane program meeting (Jun 9, 11am-12pm MDT)
-  - **SwiftCore Updates** (Jun 5 09:13:53 -0600, SENT to KrateoSky team) — Technical/product coordination with Adria Passola, Bob Smith, Lisa Marie Cheney, Brian Grubel
-  - **Fwd: CJFC Vendor Brief Transcript** (Jun 5 10:11:33 -0600, IMPORTANT, from Daniel Prendergast) — Government briefing/vendor intelligence
-- **Pattern:** Government liaison (NOAA hurricane/AOC), technical partnerships, DoD/vendor intelligence briefings.
+- Consistent government liaison (NOAA hurricane/AOC), technical partnerships, DoD/vendor intelligence briefings
 
 **Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, HR, vendor management, tax coordination
-- **June 5–6 continuations:**
-  - **Invitation: Elevations Credit Union Acct Set Up** (Jun 5 21:00:33 +0000, IMPORTANT) — Post-M&A financial operations setup (Jun 9, 1-2pm MDT, with Maciej)
-  - **Re: Shipment ETA** (Jun 5 12:07:26 -0600, SENT) — Operational logistics
-  - **Re: 500567-010 / Subcontract N6833525C0270 / ODU Research Foundation invoice AR261299** (Jun 5 13:03:43 -0600, IMPORTANT) — University research contract invoicing (Patricia Goodrich, ODU)
-  - **Re: ERAU invoice for Task O.1 ref GC87670** (Jun 5 13:00:22 -0600, CATEGORY_FORUMS) — Embry-Riddle Aeronautical University invoicing
-  - **Re: Job Position Inquiry** (Jun 5 13:17:45 -0600, IMPORTANT, CATEGORY_FORUMS) — HR inquiry from Charles Clark (barrettclark5@gmail.com)
-  - **Re: BST Tax Issues - Need Returns for Prior Years** (Jun 5 09:20:47 -0600, IMPORTANT) — Tax return coordination with Mark Kightlinger (KCO Tax)
-- **Pattern:** M&A post-close operations (banking setup), government/university subcontract management, tax support, HR.
+- M&A post-close operations, government/university subcontract management, tax support, HR
+- Also receives vendor/procurement traffic (purchasing@blackswifttech.com routing)
 
 **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical/government programs
-- **June 5–6 activity:**
-  - **Fwd: CJFC Vendor Brief Transcript for Review (26MAY26)** (Jun 5 10:11:33 -0600, IMPORTANT) — To Jack & Maciej; government intelligence
-  - **Re: Greenland Flight Permissions** (Jun 5 10:21:44 -0600, Jun 5 16:41:10 -0600, IMPORTANT) — Multi-agency coordination: Kevin Rozmiarek (CU), Patricia Vollmer (DoD civilian), Kevin Saunders (SOCOM contractor)
-  - **Re: Latest Stable Binary** (Jun 5 15:42:10 -0600, IMPORTANT) — Nikhila Ravikumar (NanoVeu) — technical software delivery
-  - **Re: BST-EMASS Project Initial Scope Closeout** (Jun 5 10:10:12 -0600, IMPORTANT) — Mark Goranson (NanoVeu) — project closeout
-- **Pattern:** Government flight operations/permitting, technical program management, DoD/SOCOM coordination.
+- Government flight operations/permitting, technical program management, DoD/SOCOM coordination
 
-### Top External M&A & Tax Correspondents (CRITICAL DEAL ACTIVITY CONTINUES)
+### Top External M&A & Tax Correspondents (DEAL POST-RESOLUTION PHASE INTENSIFYING)
 
 **Ryan Sykora** (rsykora@kofirm.com) — **Ko Firm Legal Counsel — M&A LEAD**
-- **June 5–6 escalations (DEAL POST-RESOLUTION PHASE):**
-  - **RE: Black Swift: Definitive Agreement Resolution Call** (Jun 5 23:01:07 +0000, IMPORTANT) — Post-resolution call coordination with Sona Raziabeegum (KrateoSky CEO), Katten counsel (Bret Diskin, Kylie Sholty, Jeffrey Patt), Nadia Bryan, Jack
-  - **FW: Black Swift: Definitive Agreement Resolution Call** (Jun 5 23:00:02 +0000, IMPORTANT) — To Jack, Maciej, Mark Kightlinger, Brian Rogers — deal call summary
-  - **RE: Document shared with you: "Schedule_2_Existing_Business"** (Jun 5 15:58:09 +0000, IMPORTANT) — Disclosure schedule document tracking (Jack originally sent Jun 4 15:49:44 -0700)
-  - **RE: Tax Liability** (Jun 5 19:46:32 +0000, 18:43:59 +0000, IMPORTANT) — Multi-message tax liability discussion with Jack, Mark Kightlinger
-  - **RE: Tax Meeting Follow-up** (Jun 5 19:45:54 +0000, IMPORTANT) — Post-tax meeting coordination with Mark Kightlinger, Jack
-- **Pattern:** Deal closure coordination (post-definitive agreement); tax liability deep-dives; multi-counsel call summaries; disclosure schedule finalization.
+- **June 6 continuations (SUSTAINED POST-RESOLUTION COORDINATION):**
+  - **RE: Black Swift: Definitive Agreement Resolution Call** (Jun 6 16:34:35 +0000, IMPORTANT) — Multi-party coordination with Katten counsel (Bret Diskin, Kylie Sholty, Jeffrey Patt), Sona Raziabeegum (KrateoSky), Nadia Bryan
+  - **RE: FW: Black Swift: Definitive Agreement Resolution Call** (Jun 6 17:58:00 +0000, IMPORTANT) — Jack reply (Jun 6 13:31:43 -0400) followed by Ryan follow-up
+  - **RE: FW: Black Swift: Definitive Agreement Resolution Call** (Jun 6 16:34:35 +0000, IMPORTANT) — Continued multi-party counsel coordination
+- **Pattern:** Sustained deal closure coordination; multi-counsel call orchestration; legal/tax integration across Ko Firm, Katten, and KCO Tax.
 
 **Mark Kightlinger** (Mark@kcotax.com) — **KCO Tax Counsel — TAX LIABILITY LEAD**
-- **June 5–6 escalations (CRITICAL TAX INDEMNITY PHASE):**
-  - **BST-Special Indemnity Follow-up** (Jun 5 20:02:12 +0000, IMPORTANT) — To Sona Raziabeegum (KrateoSky), KPMG team (Samuel Rexon, Joseph Davoren, Travis Foerschner, John Ferrarella, Andrew Eskola), Brian Rogers — **SPECIAL INDEMNITY TAX RECONCILIATION LEAD**
-  - **RE: BST-Special Indemnity Follow-up** (Jun 5 20:28:13 +0000, IMPORTANT) — Continued escalation with Nadia Bryan, Brian Rogers, Ryan Sykora, Jack
-  - **BST-3.17(b) Tax Return Schedule** (Jun 5 20:28:13 +0000, IMPORTANT) — To Nadia Bryan, Brian Rogers, Ryan Sykora, Jack — tax disclosure schedule section (3.17(b) appears to be indemnification/tax representation)
-  - **RE: BST-3.17(b) Tax Return Schedule** (Jun 5 20:48:01 +0000, IMPORTANT) — Reply from Nadia Bryan
-  - **BST Tax Issues - Sales Tax Returns, 2019 through 2022** (Jun 5 16:34:26 +0000
+- **June 6 escalations (CRITICAL TAX INDEMNITY PHASE CONTINUES):**
+  - **RE: BST-Special Indemnity Follow-up** (Jun 6 19:59:13 +0000, IMPORTANT) — To Jack & Brian M. Baker (brian@mbakertaxlaw.com); Jack sent reply (Jun 6 08:12:53 -0600)
+  - **RE: FW: Black Swift: Definitive Agreement Resolution Call** (Jun 6 19:32:04 +0000, IMPORTANT) — To Ryan Sykora & Jack; tax-legal integration on deal resolution call outputs
+- **Pattern:** Ongoing special indemnity reconciliation; tax return schedule finalization (3.17(b) representation); multi-counsel escalations Saturday afternoon/evening (deal urgency).
+
+**New External Contact — MIPA Coordination:**
+- **Brad Cheetham** (brad.cheetham@gmail.com) — **MIPA Technical/Legal Lead**
+  - **Re: MIPA** (Jun 6 08:21:54 -0600 & Jun 6 12:57:27 -0600, IMPORTANT) — Jack initiated email (Jun 6 07:50:50 -0600) to Brad Cheetham & Cory Dixon; rapid Saturday turnaround suggests urgent/time-sensitive project
+  - **Pattern:** Weekend responsiveness; appears to be technical or legal coordination outside standard vendor channels; linked with Cory Dixon
+
+**Brian M. Baker** (brian@mbakertaxlaw.com) — **Secondary Tax Counsel**
+- **RE: BST-Special Indemnity Follow-up** (Jun 6 19:59:13 +0000, IMPORTANT) — Copied by Mark Kightlinger on tax indemnity escalation; Jack also sent direct reply (Jun 6 08:12:53 -0600)
+- **Pattern:** Secondary tax counsel on special indemnity workstream; integrated with KCO Tax coordination.
+
+### Automated/Vendor Routing (Procurement Stream)
+- **Purchasing@blackswifttech.com** receives vendor notifications:
+  - HeliDirect (aerospace parts), Amazon (camera equipment), Speedway Motors, Baofeng Radio, Harbor Freight, USPS, Lenovo Rewards, My Lenovo Rewards
+- **Pattern:** Diversified procurement (aerospace components, electronics, tools, logistics) — suggests operations/facilities/equipment management function beyond M&A work.
+
+---
+
+## Topic Patterns
+
+### M&A Deal Resolution (CRITICAL ONGOING)
+- **"Black Swift: Definitive Agreement Resolution Call"** — Multi-party counsel coordination (Ryan Sykora/Ko Firm, Bret Diskin/Katten, Sona Raziabeegum/KrateoSky)
+- **Tax Liability & Indemnity Schedules:**
+  - "BST-Special Indemnity Follow-up" — KPMG/KCO Tax reconciliation (June 5–6 sustained)
+  - "BST-3.17(b) Tax Return Schedule" — Indemnification/tax representation section coordination
+  - "Tax Meeting Follow-up" — Post-call tax discussion (Jack replied Jun 6 08:04:32 -0600)
+  - "Sales Tax Returns, 2019 through 2022" — Historical tax liability exposure
+- **Disclosure Schedules:**
+  - "Schedule_2_Existing_Business" — Document tracking and disclosure coordination
+
+### New Project: MIPA
+- **"MIPA"** (Jun 6 07:50:50 -0600) — Jack initiated to Brad Cheetham & Cory Dixon
+- Rapid weekend turnaround (8:21am & 12:57pm same-day replies from Brad Cheetham)
+- **Signal:** High-priority, time-sensitive initiative; external coordination; technical or legal nature unclear from headers alone
+
+### Operational/Procurement Themes
+- **Aerospace/Equipment:** Tail assembly (HeliDirect), camera quick-release plates (Amazon), radio equipment (Baofeng), parking lot tools (Harbor Freight)
+- **Pattern:** Diversified equipment procurement across aviation, electronics, and facilities
+
+---
+
+## Communication Patterns
+
+### Time Patterns
+- **Peak M&A activity:** Friday evening (Jun 5) into Saturday (Jun 6) — deal urgency spanning 24+ hour period
+- **Weekend work sustained:** Multiple messages Saturday 6 Jun across 8am–8pm UTC span (M&A, MIPA)
+- **Saturday intensity:** 9 messages received + 4 sent during Jun 6 (7 IMPORTANT legal/tax messages vs. automated vendor updates)
+- **Early morning replies:** Jack responds 07:50–08:12am MDT Saturday morning on MIPA and tax indemnity — suggests urgent/time-sensitive work
+
+### Communication Channels
+- **Primary:** Direct email (legal/tax counsel, internal BST leads)
+- **Secondary:** Vendor/automated procurement routing to purchasing@blackswifttech.com (helidirect, amazon, baofeng, etc.)
+- **External coordination:** Multi-party counsel calls (Katten, Ko Firm, KCO Tax, KrateoSky)
+
+### Mailing Patterns
+- **Multi-party deal calls:** Ryan Sykora orchestrates large counsel groups (Katten team: 3 attorneys, Ko Firm: 2, KCO Tax, KrateoSky CEO)
+- **Tax working group:** Mark Kightl

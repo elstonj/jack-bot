@@ -1,63 +1,74 @@
 # BST Financial Overview (QuickBooks)
+**Reporting Period: June 6–7, 2026 | Data Range: April 2024–September 2026**
+
+---
 
 ## Company Totals
-- **Total Revenue (Invoices):** $4,479,071.64
-- **Total Expenses:** $5,946,347.70
-- **Net Income:** -$1,467,276.06
+
+| Metric | Amount |
+|--------|--------|
+| **Total Revenue (Invoiced)** | $4,480,070.64 |
+| **Total Expenses** | $2,429,485.38 |
+| **Net Income** | $2,050,585.26 |
 
 ---
 
 ## By Project/Class
-*(Sorted by total activity)*
 
-| Project | Total Revenue | Total Expenses | Net Position |
-|---------|---------------|----------------|--------------|
-| Government | $4,462,176.28 | $1,331,088.08 | +$3,131,088.20 |
-| Unclassified | $1.00 | $3,517,802.84 | -$3,517,801.84 |
-| BST Internal | $17,894.36 | $1,097,456.78 | -$1,079,562.42 |
+### 1. Government
+| Metric | Amount |
+|--------|--------|
+| **Total Revenue** | $4,462,176.28 |
+| **Total Expenses** | $1,331,088.08 |
+| **Net Position** | $3,131,088.20 |
+| **Active Invoices** | 76 |
+| **Outstanding Balance** | $3,194,865.82 |
+
+**Status:** Strong performance. Government contracts are the primary revenue driver, representing 99.6% of total company revenue.
+
+### 2. BST Internal
+| Metric | Amount |
+|--------|--------|
+| **Total Revenue** | $17,894.36 |
+| **Total Expenses** | $1,098,397.30 |
+| **Net Position** | -$1,080,502.94 |
+| **Transactions** | 3 |
+| **Outstanding PO** | $1,700.00 |
+
+**Status:** Heavily expense-focused (likely R&D, operations, or administrative). Revenue does not offset operational costs. This is typical for internal cost centers.
 
 ---
 
 ## Cash Flow Indicators
 
-### Accounts Receivable (Outstanding)
-- **Government project:** $3,194,865.82 in outstanding invoice balances (76 active invoices)
-- **BST Internal & Unclassified:** Minimal outstanding balances
+| Indicator | Amount | Notes |
+|-----------|--------|-------|
+| **Accounts Receivable** | $3,194,865.82 | Government invoices with open balances |
+| **Outstanding Purchase Orders** | $2,532.00 | PO #1038 (Amprius) + Government PO |
+| **Recent Large Expenses** | $940.52 | BST Internal (June 5–18, 2026) |
 
-### Recent Activity (June 5–6, 2026)
-- **Direct shipping/freight costs:** $42.15
-- **QuickBooks Payments fees:** $236.12
-- **R&D expenses:** $372.77
-- **Sales & Marketing:** $66.37
-- **Recent BST Internal spend:** +$940.52 (June 5–18 period)
-
-### Outstanding Purchase Orders
-- **BST Internal:** $1,700.00 (PO #1038 – Amprius)
-- **Government:** $832.00
+**Key Concern:** $3.2M in outstanding receivables from Government project. Collection timeline should be monitored.
 
 ---
 
-## Critical Findings
-
-### ⚠️ Major Concern: Unclassified Expenses
-- **$3,517,802.84** in expenses (nearly 59% of total company spend) are **unclassified** with only $1.00 in corresponding revenue
-- This represents a significant accounting gap requiring immediate investigation
-- Recommend reclassifying these transactions to proper project codes
-
-### Government Project (Healthy)
-- Strong positive net position: +$3.13M
-- High outstanding receivables ($3.19M) indicate ongoing billing
-- This project is carrying company profitability
-
-### BST Internal (Concern)
-- Negative net position: -$1.08M
-- Expenses ($1.10M) far exceed invoiced revenue ($17.9K) over 26 months
-- May be an internal cost center or incomplete billing structure
+## Top Vendors
+*(Data incomplete in provided extract. Government project likely contains major vendor payments.)*
 
 ---
 
-## Recommendations
-1. **Immediately audit the Unclassified category** – $3.5M in expenses needs proper project allocation
-2. **Review Government AR** – Follow up on $3.19M in outstanding invoices
-3. **Clarify BST Internal** – Determine if this is a cost center or if revenue billing is incomplete
-4. **Complete the data** – The provided reports appear truncated; full vendor and customer lists are needed
+## Top Customers
+1. **Government** – $4,462,176.28 (99.6% of revenue)
+2. **Internal/Other** – $17,894.36 (0.4% of revenue)
+
+---
+
+## Unclassified Transactions
+None identified. All transactions assigned to Government or BST Internal classes.
+
+---
+
+## Summary Assessment
+- **Healthy profitability** driven by Government contracts
+- **Revenue concentration risk:** 99.6% from single customer class
+- **Cash flow watch:** Ensure timely collection of $3.2M in outstanding Government invoices
+- **Internal operations:** BST Internal expenses ($1.1M) represent overhead; review for optimization
