@@ -44,7 +44,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "ACTIVE ORDER: funded S3 Canada demo (NexTech Solutions / Canadian Rangers) \u2014 commercial demo unit in assembly for Ottawa flight test (June 24\u201326, 2026; receive-by 2026-06-25). Arctic validation phase follows Nov 2026\u2013April 2027 in Whitehorse. NexTech evaluating S3 for tactical deployment with Joint Forces Command Canada; potential follow-on JFC procurement for Rangers. Dan Prendergast also engaged. Merged duplicate task 1214795652219550 (2026-06-02). Recent Slack and Asana activity confirms active engagement.",
+  "notes": "ACTIVE ORDER: funded S3 Canada demo (NexTech Solutions / Canadian Rangers) \u2014 commercial demo unit in assembly for Ottawa flight test (June 24\u201326, 2026; receive-by 2026-06-25). Arctic validation phase follows Nov 2026\u2013April 2027 in Whitehorse. NexTech evaluating S3 for tactical deployment with Joint Forces Command Canada; potential follow-on JFC procurement for Rangers. Dan Prendergast also engaged. Merged duplicate task 1214795652219550 (2026-06-02). Recent Slack and Asana activity confirms active engagement. Demo scheduled before team deploys to Murphy's Pond (Kentucky).",
   "missing_fields": [
     "ship_to",
     "estimate_date",

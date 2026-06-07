@@ -1,84 +1,102 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,253 (2,201 previous + 52 new from Jun 5, 2026)
-- **Date range:** March 24 – June 5, 2026 (74 days)
+- **Total messages scanned:** 2,267 (2,253 previous + 14 new from Jun 6–7, 2026)
+- **Date range:** March 24 – June 7, 2026 (76 days)
 - **Approximate volume:** ~30 messages per day (sustained consistency)
-- **Pattern update (Jun 5):** Operational tempo sustained with significant **marketing/collateral execution activity** and **continued vendor/partnership coordination**.
-  - **~73% automation/newsletters/tool notifications** (38 of 52 new messages)
-  - **~27% direct human correspondence & operational execution** (14 of 52 new messages)
-  - **SIGNAL: Print marketing materials ordering surge (Staples, Center Copy Printing — multiple confirmations/registrations on single day suggests campaign collateral sprint). SUSTAINED: Media kit exchange with Krateo Sky (European partner). OPERATIONAL: Real-time folder sharing coordination (Aeropod imagery for BST). NEW RFQ INBOUND: Technexuses outdoor UAS system inquiry (routed to both sales@ and Paige directly, suggesting account ownership or sales support role). INTELLIGENCE: Iran military strike coverage (IMPORTANT flag), military policy focus sustained. LinkedIn activity elevated with professional group enrollment (Lidar Mapping Professionals) and job alerts continuing.**
+- **Pattern update (Jun 6–7):** Operational tempo continues with **elevated LinkedIn professional network activity** and **sustained defense/geopolitical intelligence monitoring**.
+  - **~86% automation/newsletters/tool notifications** (12 of 14 new messages)
+  - **~14% direct human correspondence** (2 of 14 messages, inferred)
+  - **SIGNAL: LinkedIn activity surge (5 of 14 messages) with defense sector focus — Sikorsky VP (Lockheed Martin helicopter systems) flagged as "popular in network," Maciej Stachura connection request (profile context unknown but timing suggests sales/partnership activity). Professional group engagement (Sustainability Climate & ESG Leaders) indicates broader ESG/sustainability market positioning. Geopolitical intelligence monitoring sustained (Israel spying threat, D-Day production lessons, climate/drought risk).**
 
 ---
 
 ## Key Correspondents
 
-### Top Internal Senders & Collaborators (Updated)
+### Top Internal Senders & Collaborators
+*(No new internal messages in Jun 6–7 batch)*
 
-- **Jack Elston** (media@blackswifttech.com) — **CRITICAL/MEDIA STRATEGY**
-  - UAS VISION daily news routed to his mailbox (signal: he curates/filters external intelligence for team)
-  - Sustained baseline operational role
+- **Jack Elston** (media@blackswifttech.com) — **CRITICAL/MEDIA STRATEGY** [sustained from prior data]
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — **SALES/ACCOUNT MANAGEMENT** [sustained from prior data]
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — **PRINT/MARKETING OPERATIONS** [sustained from prior data]
 
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — **NEW SIGNAL: SALES/ACCOUNT MANAGEMENT**
-  - Jun 5, 08:57 UTC: "Re: Sales enquiry" to North One Construction (IMPORTANT, CATEGORY_FORUMS)
-  - **SIGNAL**: Handling inbound sales inquiries; cross-functional with Paige's coordination.
+### Top External Senders & Vendors
 
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — **PRINT/MARKETING OPERATIONS**
-  - Jun 5: Paige forwards Staples Print & Marketing order confirmation to her
-  - Jun 5: QB Bill Pay notification routed to both Sales and Meredith (payment coordination)
-  - **SIGNAL**: Joint campaign/collateral logistics management with Paige.
+#### **DEFENSE SECTOR INTELLIGENCE (Elevated)**
 
-- **Nikhila Ravikumar** (Nikhila@nanoveu.com) — **INTERNAL TECHNICAL COORDINATION (via Daniel Prendergast)**
-  - Jun 5, 15:42 UTC: Daniel Prendergast (BST) → Nikhila: "Re: Latest Stable Binary" (IMPORTANT)
-  - **SIGNAL**: Likely internal systems/software release coordination; Paige CC'd or in thread monitoring technical deployments.
+1. **Mitchell Institute / Air Force Association** — **2 messages (Jun 5–6)**:
+   - Jun 6, 05:39 MDT: "Victory Through Production: Lessons from D-Day - Aerospace Advantage 293" (UNREAD)
+   - **NEW SIGNAL**: D-Day production/aerospace manufacturing efficiency focus. Suggests BST tracking historical/contemporary lessons on defense industrial capacity — signals potential positioning for procurement discussions around production scale/capability.
 
-### Top External Senders & Vendors (Updated)
+2. **The New York Times (Breaking News)** — **3 new messages (Jun 6, geopolitical focus)**:
+   - Jun 6, 19:20 UTC: "Pentagon raises spying threat assessment for Israel" (UNREAD)
+   - Jun 6, 21:02 UTC: "Our tech reporter almost fell for this A.I. scam" (UNREAD)
+   - Jun 6, 12:02 UTC: "5 health risks from consuming too much protein" (UNREAD)
+   - **SIGNAL**: Real-time geopolitical intelligence monitoring (Israel threat assessment) + AI security/fraud awareness. Mix suggests broad professional intelligence consumption.
 
-#### **NEW SALES INQUIRY INBOUND (Jun 5)**
+#### **PROFESSIONAL NETWORK SIGNALS (LinkedIn Elevated)**
 
-1. **Tate Green / Technexuses** (tate@technexuses.com) — **2 duplicate messages (Jun 5, 14:40 PDT)**:
-   - Subject: "RFQ - Outdoor Small Uncrewed Aircraft System"
-   - **Sent to:** sales@blackswifttech.com AND paige.smith@blackswifttech.com (direct routing)
-   - **SIGNAL**: Vendor RFQ for outdoor UAS procurement. Dual routing suggests Paige owns sales support or account qualification. Time-stamped PDT (Pacific) suggests west-coast vendor.
+3. **LinkedIn (messaging & notifications)** — **5 new messages (Jun 6–7)**:
+   - Jun 7, 00:59 UTC: "Add Maciej Stachura" — **connection request/profile visit** (UNREAD, IMPORTANT context unknown)
+   - Jun 6, 19:53 UTC: "Richard Benton, Vice President and General Manager, Sikorsky, a Lockheed Martin Company, is popular in your network" (UNREAD, IMPORTANT) — **CRITICAL SIGNAL**: Sikorsky VP engagement in Paige's network. Sikorsky = rotorcraft/helicopter systems (Lockheed Martin subsidiary). Flag suggests either: (a) Paige viewing his profile, (b) mutual connection activity, or (c) partnership/sales pipeline relevance.
+   - Jun 6, 14:59 UTC: "14 people looked at your profile" (UNREAD, IMPORTANT) — **elevated profile visibility**
+   - Jun 6, 14:26 UTC: "Niharika Ajwaliya and 2 others commented on your post in Sustainability Climate & ESG Leaders" (UNREAD, IMPORTANT) — **NEW GROUP ENGAGEMENT**: Sustainability/ESG professional community. Suggests BST positioning around environmental/corporate sustainability (potential drone applications in climate monitoring, renewable energy inspection, etc.).
+   - Jun 7, 02:21 UTC: "AirPro News shared a post: Fourth Front Aviation, a California-based aircraft…" (UNREAD, CATEGORY_SOCIAL) — **new aviation industry connection activity**
 
-2. **North One Construction** (northone@northoneconstruction.com) — **2 messages (Jun 5)**:
-   - Jun 5, 10:35 UTC: Inbound sales inquiry to sales@blackswifttech.com
-   - Jun 5, 08:57 UTC: Beck Cotter response (IMPORTANT)
-   - **SIGNAL**: Construction sector inbound lead; BST routed to sales team, Cotter handling. Paige visible in thread (inbox receipt).
+#### **INDUSTRY & INTELLIGENCE FEEDS (Sustained)**
 
-3. **George Sawicki / Minuteman Boulder** (George@mpboulder.com) — **2 messages (Jun 5)**:
-   - Jun 5, 15:42 PDT: Direct message to Paige (UNREAD)
-   - Jun 5, 16:50 UTC: Quote request acknowledgment (#6a22fbd2d0354)
-   - **SIGNAL**: BST requested quote from Boulder-based vendor (printing/promotional?). Minuteman branding suggests defense/federal contractor. Paige received direct follow-up.
+4. **Inside Climate News** — **1 new message (Jun 6, 10:13 UTC)**:
+   - Subject: "After low snowpack and widespread drought, the U.S. is a tinderbox" (UNREAD)
+   - **SIGNAL**: Climate/environmental risk monitoring. Likely relevant to drone applications in wildfire monitoring, agriculture, resource management.
 
-#### **SUSTAINED MEDIA/CREATIVE PARTNERSHIP COORDINATION**
+5. **The Athletic Pulse** — **1 message (Jun 6, 10:43 UTC)**:
+   - Subject: "Sports' most depressing team" (UNREAD, IMPORTANT)
+   - **ANOMALY**: Non-business content flagged IMPORTANT. Possible misclassification or personal interest unrelated to work patterns.
 
-4. **Geoff (gb.aerokats@gmail.com)** — **2 messages (Jun 5)**:
-   - Jun 5, 17:16 EDT: "Re: Folder shared with you: 'Aeropod Pics 6-2-26 for BST'" (IMPORTANT)
-   - Jun 5, 15:02 EDT: Paige responds to him (SENT)
-   - **SIGNAL**: Real-time asset coordination — aerial photography (Aeropod imagery dated Jun 2) for campaign use. Geoff acting as creative director/photographer. High-frequency back-and-forth indicates active campaign sprint.
+---
 
-5. **Thibault Bridel-Bertomeu / Krateo Sky** (Thibault@krateosky.com) — **4 messages (Jun 5)**:
-   - Jun 5, 16:49 UTC: "Re: Media Kit" (IMPORTANT)
-   - Jun 5, 15:56 UTC: Another "Re: Media Kit" (IMPORTANT)
-   - Jun 5, 10:43 EDT: Paige sends "Re: Media Kit" (SENT)
-   - Jun 5, 09:25 EDT: Paige sends "Media Kit" (SENT)
-   - **SIGNAL**: Media kit exchange with European partner (Non-US designation, .fr domain likelihood). Multiple back-and-forths within 24 hours on same subject suggests negotiation or clarification cycle. IMPORTANT flags on both sides = strategic partnership discussion. **NEW SIGNAL**: Krateo Sky appears to be weather/atmospheric data company (name pattern: SKY + domain suggests meteorology or atmospheric monitoring). BST positioning media kit with them — potential joint marketing, reseller relationship, or conference/event partnership.
+## Topic Patterns
 
-6. **Nina Sabak / Echo Blue** (nina.sabak@echoblue.co.uk) — **1 message (Jun 5, 04:56 EDT)**:
-   - Subject: "Re: Press Release, New Sitelink" (IMPORTANT)
-   - **SIGNAL**: UK-based partner (echoblue.co.uk). Press release coordination + website link discussion. Paige handling external comms/PR asset distribution. **NEW**: Likely UK market expansion or European sales channel.
+### **New Signals (Jun 6–7)**
+- **Defense Industrial Capacity**: D-Day aerospace production efficiency lessons (Mitchell Institute) — suggests BST preparing messaging around manufacturing scale or historical precedent
+- **Geopolitical Threat Assessment**: Israel spying threat (NYT) — real-time military/defense policy monitoring continues
+- **Sustainability & ESG**: Active engagement in professional group (Sustainability Climate & ESG Leaders) — new market positioning or corporate social responsibility focus
+- **Aviation/Aerospace M&A or Partnerships**: Sikorsky VP flagged, Fourth Front Aviation content shared in network — potential competitor analysis, partnership exploration, or market intelligence
 
-#### **INDUSTRY CONFERENCES & MILITARY/DEFENSE INTELLIGENCE (Sustained + NEW escalation)**
+### **Sustained Patterns**
+- **Defense News & Policy**: Continuous (Mitchell Institute, Air & Space Forces, geopolitical coverage)
+- **Aerospace/Aviation Industry Intelligence**: Elevated professional network monitoring
 
-7. **Mitchell Institute / Air Force Association** — **2 new messages (Jun 5)**:
-   - Jun 5, 09:57 EDT: "News Alert | Iran Strike Wrecked Air Ops Center in Qatar Early in Epic Fury" (IMPORTANT) — military strike intelligence, CRITICAL signal for defense market timing
-   - Jun 5, 07:15 EDT: "Rep. Pfluger and Vice Chief Lamontagne Visit the Mitchell Institute" (IMPORTANT)
-   - **SIGNAL**: High-frequency IMPORTANT defense policy intelligence. Iran strike coverage suggests Paige tracking real-time geopolitical events affecting military procurement cycles.
+---
 
-8. **A&SF Daily Report / Air & Space Forces Magazine** — **1 new message (Jun 5, 03:45 EDT)**:
-   - Subject: "Lawmakers Vote to Prohibit F-22 Divestments Through 2032" (IMPORTANT)
-   - **SIGNAL**: Defense budget/procurement intelligence. F-22 sustainment signals USAF investment direction.
+## Communication Patterns
 
-9. **Inside Unmanned Systems** (Walter Lappert, walter.lappert@insideunmanned.com) — **1 new message (Jun 5, 13:20 UTC)**:
-   - Subject: "Inside Unmanned Systems"
+### **Time Patterns**
+- **Weekend activity**: Significant messaging volume on Jun 6–7 (Saturday–Sunday) — likely automated newsletters and LinkedIn notifications, but demonstrates Paige checks email across all days
+- **LinkedIn evening surges**: Concentration of social notifications Jun 6, 19:53–21:02 UTC (evening hours, suggesting Paige active on platform during off-hours)
+
+### **Mailing Lists & Automated Feeds**
+- **Defense Intelligence**: Mitchell Institute, Air & Space Forces Magazine, Inside Unmanned Systems
+- **General News**: The New York Times (multiple feeds: Breaking News, Editor Picks, Morning Brief)
+- **Professional Development**: LinkedIn notifications, Inside Climate News
+- **Commercial**: WPBeginner, The Athletic Pulse, promotional newsletters (NYT subscription offers)
+- **Ratio**: ~86% automated (Jun 6–7 batch), consistent with prior 73% June 5 pattern
+
+---
+
+## Key Relationships
+
+### **Critical Internal Collaborators**
+1. **Jack Elston** (media@blackswifttech.com) — Media/intelligence strategy filtering
+2. **Beck Cotter** (beck.cotter@blackswifttech.com) — Sales inquiry triage & account management
+3. **Meredith Needham** (meredith.needham@blackswifttech.com) — Campaign collateral execution
+
+### **Strategic External Partnerships**
+1. **Geoff (gb.aerokats@gmail.com)** — Real-time creative asset coordination (Aeropod imagery for campaigns)
+2. **Thibault Bridel-Bertomeu / Krateo Sky** (European, weather/atmospheric data partnership) — Media kit negotiation, likely reseller or joint marketing
+3. **Nina Sabak / Echo Blue** (UK-based) — Press release coordination, European market expansion
+
+### **Active Sales Inquiries (In-Pipeline)**
+1. **Tate Green / Technexuses** — Outdoor UAS RFQ (dual routed to Paige + sales@)
+2. **North One Construction** — Construction sector lead (routed to Beck Cotter)
+3. **George Sawicki / Minuteman Boulder** —

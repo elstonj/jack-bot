@@ -29,7 +29,7 @@
         "amount": 30387.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-06"
+        "last_updated": "2026-06-07"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 59565.7,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-06T09:09:05Z"
+    "last_reconciled": "2026-06-07T08:51:18Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -92,14 +92,8 @@
       "author": "Daniel Prendergast",
       "date": "2026-05-08",
       "text": "From Daniel Prendergast (ts=1778171546.352389): <@U06KRHPQSRH> did EMASS ever pay the second invoice?"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Daniel Prendergast",
-      "date": "2026-05-07",
-      "text": "From Daniel Prendergast: <@U06KRHPQSRH> did EMASS ever pay the second invoice?"
     }
   ],
-  "last_full_rebuild": "2026-06-06T09:09:05Z",
+  "last_full_rebuild": "2026-06-07T08:51:18Z",
   "last_incremental_update": null
 }

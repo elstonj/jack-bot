@@ -1,20 +1,17 @@
 {
   "project_code": "_unclassified",
   "qbo_class_names": [
-    "",
-    "NOAA UASD"
+    ""
   ],
   "period": {
-    "start": "2026-06-05",
-    "end": "2026-06-06"
+    "start": "2026-06-06",
+    "end": "2026-06-07"
   },
   "totals": {
-    "revenue": 4580.0,
-    "expenses": 763.28,
+    "revenue": 0.0,
+    "expenses": 460.79,
     "by_category": {
-      "Inventory Asset": 460.79,
-      "QuickBooks Payments Fees": 236.12,
-      "SALES & MARKETING": 66.37
+      "Inventory Asset": 460.79
     }
   },
   "invoices": [],
@@ -55,63 +52,8 @@
           "description": "For future S3 sales"
         }
       ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-06-05",
-      "doc_number": "",
-      "total": 236.12,
-      "attributed": 236.12,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",
-      "lines": [
-        {
-          "amount": 236.12,
-          "account": "QuickBooks Payments Fees",
-          "description": "System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily."
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-06-05",
-      "doc_number": "",
-      "total": 66.37,
-      "attributed": 66.37,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request - Paige made purchase directly",
-      "lines": [
-        {
-          "amount": 66.37,
-          "account": "SALES & MARKETING",
-          "description": "Labels for wine (Krateo Sky visit)"
-        }
-      ]
     }
   ],
   "purchase_orders": [],
-  "payments": [
-    {
-      "type": "Payment",
-      "date": "2026-06-05",
-      "doc_number": "",
-      "total": 4580.0,
-      "attributed": 4580.0,
-      "vendor": "",
-      "customer": "NOAA UASD",
-      "balance": null,
-      "memo": "Paid via QuickBooks Payments: Payment ID 090204",
-      "lines": [
-        {
-          "amount": 4580.0,
-          "account": "",
-          "description": ""
-        }
-      ]
-    }
-  ]
+  "payments": []
 }

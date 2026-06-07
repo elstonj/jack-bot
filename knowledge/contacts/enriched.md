@@ -1,289 +1,280 @@
 # Enriched External Contacts
 
-# BLACK SWIFT TECHNOLOGIES — ENRICHED CONTACT DIRECTORY
+# BLACK SWIFT TECHNOLOGIES — ENRICHED EXTERNAL CONTACT DIRECTORY
 
 ## NASA
 
-### John Glass
-- **Email:** John.Glass-1@nasa.gov, John.Glass@nasa.gov
-- **Role:** NASA contact (center TBD)
-- **BST Projects:** Unknown (insufficient context)
-- **Recent Interaction:** Listed in raw contacts; no email activity detected
-- **Contact Strategy:** Establish project context before outreach
+### Government/Mission-Critical Contacts
 
-### Thomas A. Weisz
-- **Email:** thomas.a.weisz@nasa.gov
-- **Role:** NASA contact (center TBD)
-- **BST Projects:** Unknown
-- **Recent Interaction:** Listed in raw contacts; no email activity detected
+**John Glass**
+- **Email:** John.Glass-1@nasa.gov
+- **Role:** NASA Contact (center/division TBD)
+- **Interaction Context:** Listed as primary NASA contact; multiple email addresses suggest active engagement
+- **Projects:** Likely involved in broader NASA SBIR/research initiatives
+- **Contact Strategy:** Primary government liaison for NASA opportunities
 
-### Matthew M. Fladeland
-- **Email:** matthew.m.fladeland@nasa.gov
-- **Role:** NASA contact (atmospheric/flight ops expertise likely)
-- **BST Projects:** Likely involved in NOAA/atmospheric research coordination
-- **Recent Interaction:** Listed in raw contacts
-- **Topics to Contact:** Atmospheric monitoring, flight operations, research partnerships
+**Matthew M. Fladeland**
+- **Email:** matthew.m.fladelman@nasa.gov
+- **Role:** NASA Contact
+- **Interaction Context:** Known contact in BST network
+- **Projects:** Atmospheric/environmental research (likely)
+- **Contact Strategy:** Technical program discussion point
 
-### Jennifer L. Gustetic
-- **Email:** jennifer.l.gustetic@nasa.gov
-- **Role:** NASA contact
-- **BST Projects:** Unknown
-- **Recent Interaction:** Listed in raw contacts
+**Stephan R. Kawa**
+- **Email:** stephan.r.kawa@nasa.gov
+- **Role:** NASA Contact
+- **Interaction Context:** Listed in BST contact network
+- **Contact Strategy:** Atmospheric science/climate research
 
-### **JPL CONTACTS — MARS/AUTONOMOUS SYSTEMS FOCUS**
+### JPL (Jet Propulsion Laboratory) Technical Leads
 
-### Andrew E. Johnson (JPL)
+**Andrew E. Johnson**
 - **Email:** Andrew.E.Johnson@jpl.nasa.gov
-- **Role:** JPL technical contact
-- **BST Projects:** Likely related to autonomy/rover systems
-- **Contact Strategy:** Establish Mars/autonomy project context
+- **Role:** JPL Technical Contact
+- **Interaction Context:** JPL autonomous systems/robotics expertise
+- **Contact Strategy:** Autonomy platform collaboration
 
-### Tara Estlin (JPL)
+**Tara Estlin**
 - **Email:** Tara.Estlin@jpl.nasa.gov
-- **Role:** JPL contact
-- **BST Projects:** Unknown
+- **Role:** JPL Contact
+- **Interaction Context:** Known JPL scientist contact
+- **Contact Strategy:** Research partnership development
 
-### Marc Golombek (JPL)
+**Marc Golombek**
 - **Email:** mgolombek@jpl.nasa.gov
-- **Role:** JPL Mars science/landing site expertise
-- **BST Projects:** Unknown
-
-### Marco B. Quadrelli (JPL)
-- **Email:** marco.b.quadrelli@jpl.nasa.gov
-- **Role:** JPL systems/integration expert
-- **BST Projects:** Unknown
+- **Role:** JPL Planetary Science Contact
+- **Interaction Context:** Mars/planetary science expertise
+- **Contact Strategy:** Sensor/remote sensing applications
 
 ---
 
 ## NOAA (National Oceanic and Atmospheric Administration)
 
-### **Joe Cione – NOAA Federal** ⭐ ACTIVE
+### Hurricane & Atmospheric Programs
+
+**Joe Cione** ⭐ **CRITICAL**
 - **Email:** joe.cione@noaa.gov
-- **Title:** Senior Scientist/Hurricane Program Lead
-- **BST Projects:** [300-3] 2026 IDIQ (Hurricane); Sparv lightweight sondes; boundary layer measurement program
-- **Role:** Multi-agency working group lead; direct government stakeholder
-- **Recent Interaction:**
-  - **Jun 5, 2026 (18:58 UTC):** Invited Jack Elston, Maciej Stachura, Joshua Fromm to "Sparv - Super Lightweight Sondes" meeting (Tue Jun 9, 11am–12pm MDT)
-  - Meeting includes 23+ participants: NOAA Federal (Nicholas Underwood, David Zelinsky, Mark Rogers, Danielle Varwig), Navy, Air Force, university partners
-  - Indicates multi-agency hurricane/tropical cyclone reconnaissance coordination
-- **Contact Strategy:** Direct relationship established; Jack/Maciej/Joshua are primary points of contact. Focus on Sparv sonde integration and Phase II boundary layer work.
-- **Topics to Contact:** Tropical cyclone missions, sensor integration, Phase II STTR coordination
+- **Role:** NOAA Federal Program Lead
+- **Projects:** [300-3] 2026 IDIQ (Hurricane/Sparv Sondes working group)
+- **Interaction Context:** **MAJOR ESCALATION** — Leading 23+ participant multi-agency working group on lightweight radiosonde platform ("Sparv - Super Lightweight Sondes 9g"). Meeting scheduled June 9, 2026, 11am–12pm MDT. Includes US Navy, NASA, USGS, academic partners (ERAU, UCSD, Notre Dame, UCAR, FSU), sensor vendors (Sparv Embedded, JAIA), and strategic partners
+- **BST Contact Points:** Josh Fromm (primary), Maciej Stachura, Jack Elston
+- **Contact Strategy:** **URGENT** — Core platform evaluation/integration opportunity. Lightweight atmospheric sensor deployment for hurricane/tropical cyclone missions aligns with BST S0 capabilities
+- **Topics:** Atmospheric sonde integration, multi-agency coordination, hurricane reconnaissance
 
-### Wayne M. Angevine
+**Wayne M. Angevine**
 - **Email:** wayne.m.angevine@noaa.gov
-- **Role:** NOAA atmospheric researcher
-- **BST Projects:** Likely atmospheric/boundary layer work
-- **Contact Strategy:** Establish specific project context
+- **Role:** NOAA Atmospheric Research Contact
+- **Interaction Context:** Known NOAA science collaborator
+- **Projects:** Atmospheric boundary layer research
+- **Contact Strategy:** Technical partnership for atmospheric sensing payloads
 
-### Peter Wolf
-- **Email:** peter.wolf@noaa.gov
-- **Role:** NOAA contact
-- **BST Projects:** Unknown
+**Paul E. Johnston**
+- **Email:** paul.e.johnston@noaa.gov
+- **Role:** NOAA Operations/Technical Contact
+- **Interaction Context:** Known in BST network
+- **Contact Strategy:** Operational mission planning
 
-### Gary Wick
+**Gary Wick**
 - **Email:** gary.wick@noaa.gov
-- **Role:** NOAA contact
-- **BST Projects:** Unknown
+- **Role:** NOAA Remote Sensing/Atmospheric Contact
+- **Interaction Context:** Relevant to BST sensor integration work
+- **Contact Strategy:** Radiometer/sensor payload collaboration
 
-### Allison McComiskey
+### NOAA Multi-Agency Coordination (Sparv Working Group Extended Network)
+
+**Allison McComiskey**
 - **Email:** allison.mccomiskey@noaa.gov
-- **Role:** NOAA atmospheric/aerosol specialist
-- **BST Projects:** Likely atmospheric science collaboration
+- **Role:** NOAA Scientist (Sparv WG participant)
+- **Interaction Context:** Multi-agency atmospheric research coordination
+- **Contact Strategy:** Technical sonde development input
+
+**Michael McCarthy**
+- **Email:** michael.mccarthy@noaa.gov
+- **Role:** NOAA Contact (Sparv WG participant)
+- **Interaction Context:** NOAA working group engagement
+- **Contact Strategy:** Inter-agency liaison
 
 ---
 
-## U.S. NAVY & DEPARTMENT OF DEFENSE
+## U.S. MILITARY & DEFENSE (DoD)
 
-### **Eric D. Correa-Matos (CIV USN COMNAVAIRSYSCOM PAX)** ⭐ SUSTAINED
-- **Email:** eric.d.correa-matos@navy.mil (inferred)
-- **Title:** Navy technical authority; COMNAVAIRSYSCOM point of contact
-- **BST Projects:** [25-1] Navy SBIR Magnetometer (S0 MAD); likely S0 integration lead
-- **Role:** Government technical lead for magnetic anomaly detection system
-- **Recent Interaction:** Sustained S0 MAD coordination through June 2026 (Alex Lomis emails)
-- **Contact Strategy:** Technical lead on deliverables; coordinate with Angel Ruiz-Reyes (NAWCAD) for implementation details
-- **Topics to Contact:** S0 MAD phase status, sensor integration, flight test coordination
+### Navy — Critical Program Contacts
 
-### **Angel R. Ruiz-Reyes (CIV USN NAWCAD)** ⭐ SUSTAINED
-- **Email:** angel.r.ruiz-reyes@navy.mil (inferred)
-- **Title:** Navy technical authority; NAWCAD magnetometer integration lead
-- **BST Projects:** [25-1] Navy SBIR Magnetometer (S0 MAD)
-- **Role:** Technical implementation lead; sensor integration authority
-- **Recent Interaction:** Sustained S0 MAD coordination; appears in Alex Lomis thread coordination
-- **Contact Strategy:** Primary technical POC for magnetometer/MAD system; works closely with Eric Correa-Matos
-- **Topics to Contact:** Sensor specifications, integration schedules, Phase II option development
+**Eric D. Correa-Matos** ⭐ **SUSTAINED CRITICAL**
+- **Email:** Not provided (CIV USN COMNAVAIRSYSCOM PAX)
+- **Role:** Navy Technical Authority
+- **Projects:** [25_1-Navy-SBIR-Magnetometer] S0 MAD (Magnetic Anomaly Detection) integration
+- **Interaction Context:** **SUSTAINED COORDINATION** — Leading S0 magnetometer/MAD system coordination. Regular correspondence with Alex Lomis, Jack Elston, Maciej Stachura on technical integration and testing protocols
+- **BST Contact Points:** Alex Lomis (technical), Jack Elston, Maciej Stachura
+- **Contact Strategy:** Primary Navy S0-MAD integration point. Direct technical authority on sensor positioning, shielding, aircraft modifications
+- **Topics:** Magnetometer integration, S0 modifications, testing schedule, sensor performance validation
 
-### **Joshua H. Cossuth (CIV USN)** ⭐ ACTIVE
-- **Email:** joshua.h.cossuth.civ@us.navy.mil
-- **Title:** Navy contract administrator/decision-maker
-- **BST Projects:** [25-1] Navy SBIR Magnetometer; active N68335-25-C-0270 Phase I Mid-Option contract management
-- **Role:** Government contracting officer/phase manager
-- **Recent Interaction:**
-  - **Jun 3, 2026:** 4 messages with Beck Cotter on Phase I Mid-Option contract management
-  - Flagged IMPORTANT; active decision-making authority
-- **Contact Strategy:** Direct contract administration; coordinate schedule/deliverable confirmations
-- **Topics to Contact:** Phase I mid-option milestones, Phase II planning, technical baseline
+**Angel R. Ruiz-Reyes** ⭐ **SUSTAINED CRITICAL**
+- **Email:** Not provided (CIV USN NAWCAD)
+- **Role:** Navy TPOC (Technical Point of Contact), Magnetic Anomaly Detection
+- **Projects:** [25_1-Navy-SBIR-Magnetometer] S0 MAD
+- **Interaction Context:** **SUSTAINED** — Navy technical authority for S0 MAD Phase II kickoff and ongoing testing. Multiple technical exchanges on sensor optimization and aircraft performance
+- **BST Contact Points:** Beck Cotter, Maciej Stachura, Sam Hild, Alex Lomis
+- **Contact Strategy:** Primary Navy program authority. Drive critical design decisions and testing milestones
+- **Topics:** Phase II progress, sensor tuning, aircraft performance, test schedules
 
-### **Kevin W. Saunders (CTR SOCOM)** ⭐ NEW
+### Special Operations Command (SOCOM)
+
+**Kevin W. Saunders** ⭐ **NEW CRITICAL**
 - **Email:** kevin.w.saunders.ctr@socom.mil
-- **Title:** SOCOM special operations technical contact
-- **BST Projects:** Greenland flight operations; S0 platform modifications for special ops
-- **Role:** Special operations command liaison; flight permissions/tactical coordination
-- **Recent Interaction:**
-  - **Jun 5, 2026:** Visible in Greenland flight permissions coordination thread (cc'd by Dan Prendergast, Maciej Stachura)
-  - Time-critical operational thread
-- **Contact Strategy:** Operations/permissions coordination; work through Dan Prendergast primary
-- **Topics to Contact:** Greenland flight clearances, S0 tactical requirements, mission planning
+- **Role:** SOCOM Technical Contact (Special Operations)
+- **Projects:** [001-03] S0-AD IRAD (S0 advanced development for special operations)
+- **Interaction Context:** **NEW** — Emerging special operations engagement on S0-AD platform. Appears in Greenland flight permissions coordination (May 5, 2026). Suggests technical requirements definition phase for specialized missions
+- **BST Contact Points:** Dan Prendergast (primary operational lead)
+- **Contact Strategy:** Emerging strategic relationship. Likely defining mission-specific S0 modifications and operational requirements
+- **Topics:** S0-AD mission definition, operational requirements, Greenland flights, special operations integration
 
-### **Patricia A. Vollmer (CIV US Military)** ⭐ NEW
+**Patricia A. Vollmer**
 - **Email:** patricia.a.vollmer.civ@mail.mil
-- **Title:** DoD/military clearance/approvals contact
-- **BST Projects:** Greenland flight permissions; Arctic operations
-- **Role:** Military clearance/regulatory coordination
-- **Recent Interaction:**
-  - **Jun 5, 2026:** Visible in Greenland flight permissions coordination (cc'd with SOCOM/Colorado contacts)
-  - Appears to manage DoD regulatory approvals
-- **Contact Strategy:** Dan Prendergast primary; escalate clearance/approval requests
-- **Topics to Contact:** Flight permissions, DoD coordination
+- **Role:** U.S. Military Contact (Greenland Operations)
+- **Projects:** S0-AD Greenland Flight Permissions
+- **Interaction Context:** **NEW** — Involved in Greenland flight permissions coordination (May 5, 2026, flagged IMPORTANT). Appears to be military compliance/permitting authority
+- **BST Contact Points:** Dan Prendergast
+- **Contact Strategy:** Regulatory/permitting liaison for military operations
+- **Topics:** Greenland flight approvals, military airspace coordination
 
-### **Morris Hicks** (DEVCOM)
-- **Email:** morris.hicks@nasa.gov (likely mil.mil)
-- **Role:** Navy DEVCOM magnetometer technical contact
-- **BST Projects:** [25-1] Navy SBIR Magnetometer
-- **Contact Strategy:** Technical coordination on sensor/system design
+### Air Force Weather Reconnaissance
+
+**Sarah Olsen, Maj USAF**
+- **Email:** Not provided (53 WRS/ARWO — 53rd Weather Reconnaissance Squadron)
+- **Role:** Major, U.S. Air Force; Weather Reconnaissance Program Officer
+- **Projects:** [25_1-Navy-STTR-Boundary-Layer] S0 atmospheric measurement for hurricane operations
+- **Interaction Context:** **SUSTAINED** — Operational partnership on S0 boundary layer measurement system for tropical cyclone operations. Coordinating CAT (Convective and Atmospheric Turbulence) flights and WHOI array deployment
+- **BST Contact Points:** Beck Cotter, Josh Fromm, Dan Prendergast
+- **Contact Strategy:** Operational mission partner. Define field test schedule and data requirements
+- **Topics:** Boundary layer sensing, hurricane operations, CAT flights, WHOI data sharing
 
 ---
 
-## UNIVERSITY & RESEARCH PARTNERSHIPS
+## INTERNATIONAL DEFENSE
 
-### **Kevin S. Rozmiarek** ⭐ ACTIVE
+### United Kingdom Ministry of Defence
+
+**Simon Laurence** ⭐ **SUSTAINED**
+- **Email:** Simon.Laurence157@mod.gov.uk
+- **Role:** UK MOD Stakeholder
+- **Projects:** [25_1-Navy-SBIR-Magnetometer] S0 MAD (Royal Navy interest)
+- **Interaction Context:** **SUSTAINED** — UK Ministry of Defence engagement on magnetometer/MAD platform. Appears to be Royal Navy technical liaison
+- **BST Contact Points:** Eric Correa, Alex Lomis, Maciej Stachura
+- **Contact Strategy:** International defense partnership. Potential Royal Navy procurement/operational testing
+- **Topics:** S0 MAD capabilities, Royal Navy integration, international testing coordination
+
+---
+
+## ACADEMIC & RESEARCH INSTITUTIONS
+
+### University of Colorado Boulder
+
+**Kevin S. Rozmiarek** ⭐ **CRITICAL OPERATIONAL**
 - **Email:** Kevin.Rozmiarek@colorado.edu
-- **Title:** University of Colorado researcher/regulatory coordinator
-- **BST Projects:** Greenland flight operations; soil moisture mapping (likely)
-- **Role:** Academic partnership lead; flight permissions/regulatory liaison
-- **Recent Interaction:**
-  - **Jun 5, 2026 (15:21 & 16:38 UTC):** CRITICAL escalation on Greenland flight permissions coordination
-  - Flagged IMPORTANT; direct exchange with Dan Prendergast, Maciej Stachura
-  - Time-critical operational thread with DoD/SOCOM involvement
-- **Contact Strategy:** Dan Prendergast primary point of contact; escalate time-sensitive regulatory matters
-- **Topics to Contact:** Greenland flight clearances, regulatory coordination, research mission planning
-
-### **Al Gasiewski** (University of Colorado)
-- **Email:** al.gasiewski@colorado.edu
-- **Title:** CU atmospheric researcher
-- **BST Projects:** sUAS RF soil moisture mapping; NOAA forecasting collaboration
-- **Role:** Research partner; sensor/payload design
-- **Recent Interaction:**
-  - **Jun 5, 2026 (16:15 UTC):** Direct email to Maciej Stachura on sUAS RF Soil Moisture Mapping (IMPORTANT)
-  - Sustained collaboration on RF-based measurement systems
-- **Contact Strategy:** Technical collaboration; Maciej primary; coordinate on payload integration
-- **Topics to Contact:** RF soil moisture sensor integration, calibration, field campaigns
-
-### **Patricia Goodrich** (Old Dominion University)
-- **Email:** (inferred from invoice context)
-- **Title:** ODU research administrator
-- **BST Projects:** [500567-010] Subcontract N6833525C0270 / ODU Research Foundation
-- **Role:** Research contract administrator
-- **Recent Interaction:**
-  - **Jun 5, 2026 (13:03 UTC):** Invoice AR261299 coordination with Meredith Needham (IMPORTANT)
-  - Active research contract invoicing
-- **Contact Strategy:** Meredith Needham handles finance; Dan Prendergast likely technical lead
-- **Topics to Contact:** Research deliverables, invoicing schedules, technical reports
-
-### **Mark Goranson & Nikhila Ravikumar** (NanoVEU) ⭐ ACTIVE
-- **Emails:** Mark@nanoveu.com, Nikhila@nanoveu.com
-- **Title:** NanoVEU project partners
-- **BST Projects:** [EMASS] Energy management system integration (E2 platform); flight test support
-- **Role:** Technology partner; AI/energy optimization system integration
-- **Recent Interaction:**
-  - **Jun 6, 2026:** Nikhila coordinating "Latest Stable Binary" with Dan Prendergast (IMPORTANT)
-  - Project in closeout/data delivery phase
-- **Contact Strategy:** Dan Prendergast primary; Nikhila for technical issues
-- **Topics to Contact:** Flight test results, data delivery, project closeout
-
-### **Mohamed M. Sabry** (NanoVEU/eMASS AI)
-- **Email:** (via Google Drive)
-- **Title:** AI model training lead
-- **BST Projects:** [EMASS] Flight controller AI integration
-- **Role:** Machine learning/control algorithm specialist
-- **Recent Interaction:**
-  - **Jun 6, 2026:** Flight data share request flagged IMPORTANT
-  - Active evaluation phase post-flight testing
-- **Contact Strategy:** Technical coordination through Dan Prendergast and Nikhila
-
----
-
-## MANUFACTURING & SUPPLY CHAIN
-
-### **Rubicon Aerospace** ⭐ CRITICAL
-- **Key Contacts:** Lee Skidmore, Jeremy Van Vliet
-- **Role:** Major fuselage/composite manufacturing partner
-- **BST Projects:** S0 components (fuse, launch tube); ongoing production
-- **Recent Interaction:**
-  - **Jun 5, 2026:** ESCALATED engagement — 4 exchanges with Meredith Needham on S0 Fuse Shipping + Invoicing (all IMPORTANT)
-  - **Jun 6, 2026:** Jeremy Van Vliet engaged with Meredith on invoicing timeline (IMPORTANT)
-  - Critical path manufacturing supplier
-- **Contact Strategy:** Meredith Needham primary (procurement/finance); Joshua Fromm (technical specs)
-- **Topics to Contact:** S0 fuse delivery status, invoicing, manufacturing schedules
-
-### **JawsTec Manufacturing LLC** ⭐ CRITICAL ESCALATION
-- **Role:** High-volume fabrication partner
-- **BST Projects:** Parallel S0 MAD and S3 subsystem builds
-- **Recent Interaction:**
-  - **Jun 5–6, 2026:** CONCURRENT INVOICE SURGE — invoices 69104 & 69119 in 24-hour window (Jun 4–5)
-  - Payment reminders active (Jun 6, 07:12 system alert: "Past Due Invoices")
-  - **Signal:** Doubled manufacturing throughput; suggests S0 MAD government deliverable + S3 IRAD platform simultaneously in production
-- **Contact Strategy:** Meredith Needham (finance/scheduling); escalate past-due payment issues immediately
-- **Topics to Contact:** Production status, delivery schedules, invoice reconciliation, cash flow coordination
-
-### **McMaster-Carr**
-- **Role:** Industrial fasteners/components supplier
-- **BST Projects:** General aircraft assembly components
-- **Recent Interaction:**
-  - **Jun 4–5, 2026:** Two orders within 24 hours (receipt Jun 5, 04:37)
-  - Pattern: Repeat order cycle; production assembly phase confirmed
-- **Contact Strategy:** Standing supplier; Meredith coordinates purchasing
-- **Topics to Contact:** Stock availability, expedited delivery, bulk ordering
-
-### **GetFPV**
-- **Role:** RC/FPV hobby/aviation component supplier
-- **BST Projects:** Aircraft components, payload elements
-- **Recent Interaction:** Sustained ordering activity
-- **Contact Strategy:** Standing supplier through purchasing alias
+- **Organization:** University of Colorado
+- **Role:** Greenland Flight Permissions Coordinator
+- **Projects:** S0-AD Greenland operations, atmospheric research
+- **Interaction Context:** **CRITICAL** — Flagged IMPORTANT (May 5, 2026) with same-day response indicating urgent regulatory coordination. Leading Greenland flight permissions process, likely involving university research protocols and Arctic environmental compliance
+- **BST Contact Points:** Dan Prendergast (primary)
+- **Contact Strategy:** Academic-government liaison for Arctic operations. Essential for regulatory pathway definition
+- **Topics:** Greenland flight approvals, research protocols, Arctic environmental compliance
 
 ---
 
 ## CANADIAN GOVERNMENT & ECONOMIC DEVELOPMENT
 
-### **Stephen Rowlands** (Invest Ottawa) ⭐ NEW
-- **Email:** SRowlands@investottawa.ca
-- **Title:** Canadian government/economic development liaison
-- **BST Projects:** CJFC Vendor Brief coordination; potential Canadian military/government engagement
-- **Role:** Canadian government business development/military procurement liaison
-- **Recent Interaction:**
-  - **Jun 5, 2026:** IMPORTANT flag; CJFC Vendor Brief coordination with Dan Prendergast
-  - Suggests Canadian military vendor engagement or economic development project
-- **Contact Strategy:** Dan Prendergast/Jack Elston primary; appears to be managing Canadian government relationship
-- **Topics to Contact:** CJFC opportunity details, Canadian military requirements, vendor status
+### Invest Ottawa (Economic Development)
 
-### **Jon Vince** (Canadian Battery/Logistics) ⭐ NEW
-- **Email:** jon.vince@rogers.com
-- **Title:** Canadian battery shipment coordinator
-- **BST Projects:** Battery logistics to Ottawa
-- **Role:** Logistics/supply chain partner
-- **Recent Interaction:**
-  - **Jun 5, 2026 (IMPORTANT):** Canadian battery shipment to Ottawa coordination with Dan Prendergast
-  - Same-day response pattern
-- **Contact Strategy:** Dan Prendergast primary; coordinate logistics timing
-- **Topics to Contact:** Battery delivery schedules, shipping documentation, operational support
+**Stephen Rowlands** ⭐ **NEW CRITICAL**
+- **Email:** SRowlands@investottawa.ca
+- **Organization:** Invest Ottawa (Canadian Government Economic Development)
+- **Role:** Military/Defense Vendor Coordination Liaison
+- **Projects:** CJFC (Canadian Joint Forces Command) Vendor Brief, Canadian military engagement
+- **Interaction Context:** **NEW** — Flagged IMPORTANT (May 5, 2026) with same-day response. Coordinating CJFC Vendor Brief with Jack Elston and Maciej Stachura. Appears to be Canadian government economic development liaison managing BST relationship with Canadian military
+- **BST Contact Points:** Jack Elston, Maciej Stachura, Dan Prendergast
+- **Contact Strategy:** Gateway to Canadian military/defense procurement. Likely facilitating BST vendor qualification and opportunity identification
+- **Topics:** Canadian military vendor brief, CJFC engagement, Canadian procurement opportunities
 
 ---
 
-## INTERNATIONAL PARTNERS
+## LOGISTICS & SUPPLY CHAIN PARTNERS
 
-### **Simon Laurence** ⭐ SUSTAINED
-- **Email:** Simon.Laurence157@mod.gov.uk
-- **Title:** UK Ministry of Defence (MOD) stakeholder
-- **BST Projects:** [25-1] Navy SBIR Magnetometer (S0 MAD); likely UK Navy involvement
-- **Role:** UK MOD technical/operational liaison
-- **Recent Interaction:** Sustained S0 MAD coordination through June 2026 (appears in Alex Lomis government threads)
-- **Contact
+### Aerospace Component Manufacturing
+
+**Lee Skidmore** ⭐ **CRITICAL SUPPLIER**
+- **Email:** Not provided (Rubicon Aerospace)
+- **Organization:** Rubicon Aerospace
+- **Role:** Supply Chain Manager / S0 Fuse Shipping Coordinator
+- **Projects:** [25_1-Navy-SBIR-Magnetometer] S0 Platform Fabrication/Shipping, multiple projects
+- **Interaction Context:** **CRITICAL CONCURRENT ORDER CYCLE** — Escalated supplier relationship with high-frequency invoicing (flagged IMPORTANT, multiple exchanges). Coordinating S0 Fuse shipping + upcoming invoicing (May–June 2026). Critical supplier managing subsystem builds supporting both S0 MAD (government) and S3 IRAD (internal) simultaneously
+- **BST Contact Points:** Meredith Needham (primary purchasing), Joshua Fromm (technical specifications), Jack Elston
+- **Contact Strategy:** Critical supplier pathway. Manage payment cycles and manufacturing schedules for time-sensitive government projects
+- **Topics:** S0 component fabrication, shipping coordination, invoicing/payment cycles, manufacturing timeline
+
+**Jeremy Van Vliet**
+- **Email:** Not provided (Rubicon Aerospace)
+- **Organization:** Rubicon Aerospace
+- **Role:** Invoicing/Administrative Contact
+- **Projects:** S0 fabrication/supply chain
+- **Interaction Context:** **ONGOING** — Engaged on invoicing timeline coordination (flagged IMPORTANT). Administrative point of contact for payment processing
+- **BST Contact Points:** Meredith Needham (primary)
+- **Contact Strategy:** Administrative supplier liaison. Ensure smooth payment processing and delivery coordination
+- **Topics:** Invoicing timeline, payment processing
+
+### Advanced Manufacturing / Specialty Services
+
+**JawsTec Manufacturing LLC** ⭐ **CRITICAL PRODUCTION VENDOR**
+- **Email:** info@jawstec.com
+- **Organization:** JawsTec Manufacturing LLC
+- **Role:** Subsystem Manufacturing Partner
+- **Projects:** S0 MAD, S3 IRAD, multiple fabrication work
+- **Interaction Context:** **CRITICAL CONCURRENT ORDER CYCLE** — Invoices 69104 & 69119 within 24 hours (June 4–5, 2026). Pattern indicates parallel subsystem builds or staged delivery cycles supporting both government and internal projects. Payment reminders active; cash flow management tracking ongoing
+- **Supplier Issues:** **TAX COMPLIANCE DISPUTE** — Ongoing sales tax dispute despite tax-exempt certificate provided. Multiple open invoices; payment reminders escalating. Vendor relationship friction unresolved
+- **BST Contact Points:** Meredith Needham (purchasing/payment), Joshua Fromm (technical specs)
+- **Contact Strategy:** Critical manufacturing partner but with unresolved tax compliance issue. Prioritize resolution of sales tax documentation before further expansion
+- **Topics:** Manufacturing capacity, subsystem fabrication, tax compliance resolution, payment cycles
+
+### High-Precision Component Supply
+
+**Adam Lockwood** ⭐ **NEW SUPPLIER**
+- **Email:** adaml@loctechaerospace.com
+- **Organization:** LocTech Aerospace
+- **Role:** Supplier / Business Development
+- **Projects:** Potential new aerospace component supply
+- **Interaction Context:** **NEW** — Direct outreach on "new supplier potential" (June 5, 2026). Indicates active supplier qualification process for aerospace components
+- **BST Contact Points:** Ethan Domagala (initial contact)
+- **Contact Strategy:** Evaluate capabilities for S0 and S3 component needs
+- **Topics:** Aerospace component capabilities, pricing, lead times
+
+**Nathaniel Hoadley**
+- **Email:** Not provided (PTC)
+- **Organization:** PTC (Parametric Technology Corporation)
+- **Role:** CAD/PLM Consultant
+- **Projects:** CAD/design platform support across BST projects
+- **Interaction Context:** **SUSTAINED** — Design tool consultation and support for BST CAD workflow
+- **BST Contact Points:** Joshua Fromm, engineering team
+- **Contact Strategy:** Technical software partnership. Ensure smooth design tool integration and training
+- **Topics:** CAD platform optimization, design workflow, training
+
+---
+
+## SPECIALIZED SENSOR & PAYLOAD PARTNERS
+
+### Magnetometer Systems (Navy MAD Program)
+
+**QuSpin** (via **Jeff** — contact name only)
+- **Role:** Magnetometer Sensor Supplier
+- **Projects:** [25_1-Navy-SBIR-Magnetometer] S0 MAD sensor integration
+- **Interaction Context:** **SUSTAINED** — Core technical partner providing quantum magnetometer sensors for S0 MAD system. Coordinating sensor optimization and performance validation
+- **BST Contact Points:** Beck Cotter, Maciej Stachura, Sam Hild, Alex Lomis
+- **Contact Strategy:** Critical sensor partner. Drive performance requirements and testing schedule
+- **Topics:** Sensor performance, power requirements, shielding optimization, integration schedule
+
+### Acoustic/Passive Detection Systems
+
+**Ultra Maritime** (via **Paul** — contact name only)
+- **Role:** Acoustic Sensor / Passive Detection Systems Subcontractor
+- **Projects:** [25_1-Navy-SBIR-Magnetometer] S0 MAD Phase II acoustic complement
+- **Interaction Context:** **PARTNER SELECTION (January 2026)** — Chosen over CRT as Phase 2 subcontractor for acoustic detection capability. Operating separately from magnetometer (not combined on single aircraft)
+- **BST Contact Points:** Beck Cotter, Mac

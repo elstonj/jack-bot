@@ -3,68 +3,61 @@
 ## Overview
 - **Client/customer:** Internal BST purchasing system (serves all active projects)
 - **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across multiple projects
-- **Timeline:** Ongoing operational project; current cycle showing orders due June 5–7, 2026
-- **Status:** **ACTIVE with notable reassignment shift.** Current dataset shows **10 open tasks** (down from 22 in prior cycle). ⚠️ **KEY CHANGES:**
-  - **Reassignment to Nate Straus:** Three jawstec tasks previously unassigned or assigned to Meredith are now **assigned to Nate** with "Order Received" status and June 7 due date:
-    - **jawstec for multple projects (#68821)** — finally appears with assignment; originally due May 20 (18 days overdue), now due June 7 with "Order Received" status
-    - **jawstec for s3 / murphys pond (#69060)** — reassigned from Meredith to Nate; due June 7 with "Order Received"
-    - **jawstec for s3 demo (#69038)** — reassigned from Meredith to Nate; due June 7 with "Order Received"
-  - **Major backlog reduction:** The 13 unassigned "Order Placed in Inventory" tasks from Aug 3 have been **removed from this dataset** — either closed out or purged by form-based auto-deletion system.
-  - **Meredith remains primary executor for near-term orders:** Still carries 6/10 open tasks (60%), all "Order Placed" status, due June 5–6
-  - **Nate elevated to order receipt/closure role:** Now owns 4/10 tasks (40%), all "Order Received" status, due June 7
+- **Timeline:** Ongoing operational project; current cycle showing orders due June 4–7, 2026
+- **Status:** **ACTIVE — SIMPLIFIED CYCLE.** Current dataset shows **6 open tasks** (down from 10 in prior update). Significant consolidation: Meredith now owns 3/6 tasks (50%); Nate owns 3/6 (50%), all "Order Received" status due June 7. Previous update listed 10 tasks including 4 General Sales items and Amazon S3 order — **those 4 tasks are no longer in Asana**, suggesting either closure, external inventory handling, or auto-deletion per form system.
   
 - **Team members involved:**
-  - **Meredith O'hara Needham** (6/10 open tasks; all near-term June 5–6 deadlines; "Order Placed" status)
-  - **Nate Straus** (4/10 open tasks; all June 7 deadline; "Order Received" status — closure/receipt verification role)
-  - **Requesters:** Joshua Fromm (8/10 — 80% of all requests), Nate (1/10), Alex (1/10)
+  - **Meredith O'hara Needham** (3/6 open tasks; due June 6–7; "Order Placed" status; order placement/fulfillment role)
+  - **Nate Straus** (3/6 open tasks; all June 7 deadline; "Order Received" status; receipt/closure verification role)
+  - **Requesters:** Joshua Fromm (5/6 — 83% of requests), Alex (1/6)
 
 - **Risk signals:**
-  - 🔴 **CRITICAL: jawstec #68821 finally appears but 18+ days overdue** — originally due May 20, now showing June 7. No closure documentation in notes. Verify actual receipt and allocation to projects (marked "MULTIPLE PROJECT" — requires breakdown).
-  - ⚠️ **Nate reassignment pattern unclear:** Three jawstec tasks reassigned to Nate on same due date (June 7) with "Order Received" status — suggests either batch order receipt processing or task consolidation. Verify Nate's capacity and role scope.
-  - ⚠️ **Massive prior backlog vanished:** 13 unassigned Aug 3 tasks are gone from current dataset. Confirm whether: (1) orders were received/closed, (2) auto-deleted by form system, or (3) deferred to new cycle. **Escalate for audit trail.**
-  - ⚠️ **High concentration of Joshua Fromm requests:** 8/10 tasks (80%) from single requester — monitor for approval delays or priority conflicts.
-  - ⚠️ **Form-based auto-deletion persists:** Project notes warn "USE THIS FORM PLEASE OR YOUR TASK WILL AUTO DELETE" — explains task volatility and prior backlog reduction.
+  - 🔴 **CRITICAL: jawstec #68821 still unresolved — now 18+ days overdue.** Originally due May 20, 2026; now showing June 7 with "Order Received" status and assigned to Nate. Marked "MULTIPLE PROJECT — PLEASE PROVIDE BREAKDOWN IN THE DESCRIPTION" but no breakdown documented. **Requires immediate verification:** actual receipt confirmation, project allocation, and closure documentation.
+  - ⚠️ **Unexplained task removal:** Previous knowledge file listed 10 open tasks; current dataset shows 6. Four tasks (Amazon S3, instrumart, sendcutsend, pcbway — all General Sales, all due June 5) have vanished. Confirm: (1) were they closed/received? (2) auto-deleted? (3) consolidated? **Audit trail needed.**
+  - ⚠️ **Form-based auto-deletion system remains active:** Project notes warn "USE THIS FORM PLEASE OR YOUR TASK WILL AUTO DELETE" — explains task volatility and prior cycle backlog reduction.
+  - ⚠️ **High concentration on Joshua Fromm:** 5/6 tasks (83%) from single requester — sustained request volume with potential approval bottleneck.
+  - ⚠️ **Nate's workload unclear:** All 3 assigned tasks due same date (June 7) with "Order Received" status — suggests batch processing, but capacity/role scope unconfirmed.
 
 ## Key Deliverables & Milestones
 
-### **Immediate Cycle (June 5–7, 2026) — 10 Open Tasks**
+### **Current Cycle (June 4–7, 2026) — 6 Open Tasks**
 
 **[001-7] IRAD S3 — 3 tasks**
-1. **jawstec for s3 demo (#69038)** | Due June 7, 2026 | Assigned: Nate Straus | Status: Order Received | Tax Exempt: NO | Requester: Joshua Fromm
-2. **jawstec for s3 / murphys pond (#69060)** | Due June 7, 2026 | Assigned: Nate Straus | Status: Order Received | Tax Exempt: NO | Requester: Joshua Fromm
-3. **jawstec for s3 parts (#69119)** | Due June 7, 2026 | Assigned: Meredith O'hara Needham | Status: Order Placed | Tax Exempt: YES | Requester: Joshua Fromm
-
-**[001-1] IRAD General — 1 task**
-1. **Amazon S3** | Due June 5, 2026 | Assigned: Meredith O'hara Needham | Status: Order Placed | Tax Exempt: NO | Requester: Nate
+1. **jawstec for s3 demo (#69038)** | Due June 7, 2026 | Assigned: Nate Straus | Status: Order Received | Tax Exempt: NO | Requester: Joshua Fromm | Order placement date: June 1
+2. **jawstec for s3 / murphys pond (#69060)** | Due June 7, 2026 | Assigned: Nate Straus | Status: Order Received | Tax Exempt: NO | Requester: Joshua Fromm | Order placement date: June 2
+3. **jawstec for s3 parts (#69119)** | Due June 7, 2026 | Assigned: Meredith O'hara Needham | Status: Order Placed | Tax Exempt: YES | Requester: Joshua Fromm | Order placement date: June 5
 
 **[001-4] IRAD S0 VTOL — 1 task**
-1. **ARK Electronics (#260604)** | Due June 6, 2026 | Assigned: Meredith O'hara Needham | Status: Order Shipped | Tax Exempt: NO | Requester: Alex
+1. **ARK Electronics (#260604)** | Due June 6, 2026 | Assigned: Meredith O'hara Needham | Status: Order Shipped | Tax Exempt: NO | Requester: Alex | Order placement date: June 4
 
-**General Sales — 4 tasks (all Meredith; all due June 5; Tax Exempt: YES)**
-1. **instrumart for sales (#1083722)** | Status: Order Placed | Requester: Joshua Fromm
-2. **sendcutsend for s3 sales (#SC51C906)** | Status: Order Placed | Requester: Joshua Fromm
-3. **pcbway parts for s3 sales (YW1744139)** | Status: Order Placed | Requester: Joshua Fromm
-4. **jawstec s3 parts (#69104)** | Due June 6, 2026 | Status: Order Placed | Requester: Joshua Fromm
+**General Sales — 1 task**
+1. **jawstec s3 parts (#69104)** | Due June 6, 2026 | Assigned: Meredith O'hara Needham | Status: Order Placed | Tax Exempt: YES | Requester: Joshua Fromm | Order placement date: June 4
 
-**[UNRESOLVED — Requires Breakdown]**
-1. **jawstec for multple projects (#68821)** | Due June 7, 2026 | Assigned: Nate Straus | Status: Order Received | Tax Exempt: YES | Requester: Joshua Fromm | **ACTION:** Verify actual receipt; obtain project allocation breakdown (currently marked "MULTIPLE PROJECT").
+**[UNRESOLVED — CRITICAL]**
+1. **jawstec for multple projects (#68821)** | Due June 7, 2026 | Assigned: Nate Straus | Status: Order Received | Tax Exempt: YES | Requester: Joshua Fromm | **OVERDUE:** Originally due May 20, 2026 (18+ days past due); Order placement date listed as May 20. **ACTION:** (1) Verify receipt and acceptance; (2) obtain mandatory project allocation breakdown (currently shows "MULTIPLE PROJECT"); (3) confirm allocation in task description; (4) close/archive once verified.
 
 ## Task Summary
-- **Total tasks:** 10 open, 0 completed in current dataset
-- **Reduction from prior cycle:** 22 → 10 tasks (55% decrease). Likely due to: (1) form-based auto-deletion system, (2) backlog closure, or (3) external inventory management
+- **Total tasks:** 6 open, 0 completed in current dataset
+- **Reduction from prior update:** 10 → 6 tasks (40% decrease). Four tasks from prior cycle no longer appear: Amazon S3, instrumart, sendcutsend, pcbway. **Status of removed tasks unknown** — possible closure, auto-deletion, or external handling.
 - **By assignee:**
-  - **Meredith O'hara Needham:** 6/10 tasks (60%) — all "Order Placed" status, due June 5–6; focus on placement/fulfillment
-  - **Nate Straus:** 4/10 tasks (40%) — all "Order Received" status, due June 7; focus on receipt/closure
+  - **Meredith O'hara Needham:** 3/6 tasks (50%) — all "Order Placed" status, due June 6–7; order placement/fulfillment role
+  - **Nate Straus:** 3/6 tasks (50%) — all "Order Received" status, all due June 7; receipt/closure role
 - **By requester:**
-  - **Joshua Fromm:** 8/10 (80%) — dominant request volume
-  - **Nate:** 1/10 (10%)
-  - **Alex:** 1/10 (10%)
+  - **Joshua Fromm:** 5/6 (83%) — dominant request volume
+  - **Alex:** 1/6 (17%)
 - **Custom field patterns:**
-  - **Tax Exempt status:** 6/10 tasks marked YES (General Sales + jawstec orders); 4/10 marked NO (project-specific)
-  - **Project distribution:** [001-7] S3 (3 tasks), General Sales (4 tasks), [001-1] General (1), [001-4] S0 VTOL (1), Unallocated (1)
+  - **Tax Exempt status:** 3/6 tasks marked YES (jawstec S3 parts, jawstec s3 parts, jawstec multiple projects); 3/6 marked NO (project-specific)
+  - **Status distribution:** 3 "Order Placed" (Meredith), 2 "Order Received" (Nate — excludes #68821), 1 "Order Shipped" (Meredith)
+  - **Project distribution:** [001-7] S3 (3 tasks), General Sales (1 task), [001-4] S0 VTOL (1), MULTIPLE/Unallocated (1)
 
 ## Recent Activity
-- **Reassignments (latest):** jawstec tasks #69038, #69060 moved from Meredith/unassigned to Nate Straus; all now showing "Order Received" status and June 7 due date
-- **New task added:** jawstec for s3 parts (#69119) — assigned to Meredith, due June 7
-- **Task closures/removals:** 12 prior backlog tasks (Aug 3 due date, "Order Placed in Inventory" status) no longer appear in dataset — likely auto-deleted or externally resolved
--
+- **Task removals:** Four tasks from prior cycle (Amazon S3, instrumart, sendcutsend, pcbway — all General Sales due June 5) no longer appear in dataset. **Status unknown: closed, auto-deleted, or consolidated?**
+- **Stable assignments:** Meredith and Nate assignments remain unchanged from prior update; role division (placement vs. receipt) confirmed.
+- **jawstec #68821 status unchanged:** Still marked overdue (May 20 original due date), still unbroken down by project, still assigned to Nate with "Order Received" status and June 7 due date.
+- **No completion notifications** in current dataset.
+
+## Notes & Context
+- **Form-based task creation & auto-deletion:** All tasks generated via Asana form (link in project notes). System auto-deletes tasks if not submitted via form — explains historical backlog volatility and current task reduction.
+- **jawstec dominance:** 4 of 6 open tasks involve jawstec vendor; all from Joshua Fromm; suggests concentrated supply chain dependency for S3 IRAD project.
+- **Role clarity emerging:** Meredith owns order placement (status "Order Placed"); Nate owns order receipt verification (status "Order Received"). June 7 due dates for Nate suggest 1–2 day receipt window after placement.
+- **Missing project breakdown:** jawstec #68821 ("MULTIPLE PROJECT") lacks mandatory project allocation description — violates form requirement and blocks accurate project billing. **Escalate

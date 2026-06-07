@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $1,097,456.78 *(+$940.52 from June 5–18, 2026)*
+- **Total Expenses (Bills + Purchases)**: $1,098,397.30 *(+$940.52 from June 5–18, 2026)*
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,079,562.42 (expenses exceed revenue significantly)
+- **Net Position**: -$1,080,502.94 (expenses exceed revenue significantly)
 - **Date Range**: April 5, 2024 – June 18, 2026 (26+ months)
-- **Transaction Count**: 1,180 *(all confirmed)*
+- **Transaction Count**: 1,183 *(all confirmed)*
 
 ---
 
@@ -105,18 +105,30 @@ No new transactions in June 5–18 period in this category.
 
 ---
 
-### Inventory Asset (S3 Sales & S2 Production Scaling): $3,593.10
-**Total: $3,593.10** | **13 transactions**
+### Inventory Asset (S3 Sales & S2 Production Scaling): $3,953.89
+**Total: $3,953.89** | **15 transactions** | **Largest: S3 sales components $460.79 (June 18)**
 
 **Previously Confirmed Transactions (June 3–4, 2026):**
 - Purchase #1083722: $907.80 (June 3) — E+E EE03 OEM Humidity/Temperature Module x4
 - Purchase: $48.96 (June 4) — Shipping for 123 Bearing Shipment
 
-**Previously Confirmed Transactions (June 18, 2026):**
-- Purchase #SC51C906: $158.58 — For future S3 sales
-- Purchase #YW1744139: $302.21 — For future S3 sales
+**Confirmed Transactions (June 11–18, 2026):**
 
-**Status**: June 5–18 period reflects **$460.79 cumulative inventory asset purchases** (both transactions dated June 18, no new transactions June 5–17), continuing S3 production scaling initiatives.
+**Purchase #SC51C906**: $158.58 (June 18, 2026)
+- **Account**: [Inventory Asset]
+- **Description**: For future S3 sales
+- **Status**: ✓ Confirmed
+- **Impact**: Component procurement for S3 production scaling; inventory replenishment
+- **Pattern**: Aligns with June 3–4 bearing modules and bearing shipment; continued production ramp
+
+**Purchase #YW1744139**: $302.21 (June 18, 2026)
+- **Account**: [Inventory Asset]
+- **Description**: For future S3 sales
+- **Status**: ✓ Confirmed
+- **Impact**: Component procurement for S3 production scaling; inventory replenishment
+- **Pattern**: Sequential same-day purchase (with #SC51C906); indicates coordinated multi-component procurement cycle
+
+**Status**: June 5–18 period reflects **$460.79 cumulative inventory asset purchases** (both transactions dated June 18), continuing S3 production scaling initiatives. Total inventory asset spending in June 2026: **$1,418.55** across 4 transactions.
 
 ---
 
@@ -163,14 +175,14 @@ No new transactions in June 5–18 period in this category.
 |----------|--------|-----------------|
 | Sales & Marketing | $5,142.11 | 3 |
 | IRAD Indirect R&D | $3,622.34 | 8 |
-| Inventory Asset | $1,826.33 | 4 |
+| Inventory Asset | $1,418.55 | 4 |
 | General & Administrative | $360.00 | 1 |
-| **June YTD Total** | **$10,950.78** | **16** |
+| **June YTD Total** | **$10,543.00** | **16** |
 
 ### Key Patterns (June 2–18)
-- **S3 Multi-Phase Acceleration**: $10,950.78 in 18 days reveals coordinated push across three vectors:
+- **S3 Multi-Phase Acceleration**: $10,543.00 in 18 days reveals coordinated push across three vectors:
   1. **R&D Flight Systems & Airframe** ($3,622.34): ESC, nosecone rings, environmental sensors, airframe components (Part-29-Main-1-.step), assembly/integration
-  2. **Production Inventory** ($1,826.33): Humidity/temperature modules (qty 4), bearings, unspecified components
+  2. **Production Inventory** ($1,418.55): Humidity/temperature modules (qty 4), bearings, unspecified components (June 18 procurement cycle)
   3. **Sales Execution** ($5,142.11): Marketing platform ($5,019.30) + TWO customer engagements ($55.44 BTS + $66.37 Krateo Sky)
   
 - **Dual Customer Engagement Signal (48-hour window)**:
@@ -181,19 +193,4 @@ No new transactions in June 5–18 period in this category.
 - **Component Procurement Pattern (June 5–11)**:
   - Environmental sensing (E+E EE03 humidity/temp modules, June 3)
   - Flight control (ARK 4IN1 ESC, June 4)
-  - Airframe/Structural (Part-29-Main-1-.step, June 5; nosecone rings, June 2–3)
-  - Mechanical (bearings, June 4)
-  - Integration/Assembly support (Sean Cole shipment, June 11)
-  - Suggests **multi-unit prototype/pre-production phase** with coordinated subsystem delivery
-
-- **Spending Velocity**: $10,950.78 in 18 days (~$608/day average) is **elevated vs. baseline** and reflects transition from passive R&D to active production/sales execution with customer pipeline engagement
-
----
-
-## Notable Transactions
-
-### CRITICAL PRIORITY
-
-1. **Dual Customer Engagement Phase - $121.81 (June 4–5, 2026) + $5,019.30 Annual Marketing Platform**
-   - **Components**:
-     - Annual platform subscription: $5,019.30 (June 2) — likely
+  - Airframe/Structural (Part-29-Main-1-.step

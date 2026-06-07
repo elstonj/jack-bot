@@ -17,7 +17,7 @@
     "total_value": 483000.0,
     "start_date": "2026-02-01",
     "end_date": "2031-01-31",
-    "payment_cadence": "per delivery/acceptance by ordering period; NRE billed at task order level",
+    "payment_cadence": "by ordering period; NRE line items are cost-reimbursable or T&M per task order; travel is reimbursable per GSA FTR",
     "documents": [
       "drive://Budget Structure",
       "drive://(1305M226D0012) Attachment 1-Specifications_Black Swift.pdf",
@@ -25,73 +25,31 @@
     ]
   },
   "budget": {
-    "approved": 13281750.0,
+    "approved": 13881750.0,
     "approved_source": "sow_drive",
     "line_items": [
       {
         "category": "Equipment",
-        "amount": 10981250.0,
-        "description": "Black Swift S0 sUAS Platforms (625 aircraft @ escalating unit prices: $18,000-$20,655)",
+        "amount": 10986250.0,
+        "description": "Black Swift S0 sUAS Platforms: 150 units @ $18,000 (Period 1), 150 @ $18,630 (Period 2), 125 @ $19,282 (Period 3), 125 @ $19,957 (Period 4), 125 @ $20,655 (Period 5)",
         "source_doc": null
       },
       {
         "category": "Labor",
-        "amount": 427500.0,
-        "description": "Mission Days Operational support (150 days @ $2,850/day across 5 periods)",
-        "source_doc": null
-      },
-      {
-        "category": "Labor",
-        "amount": 180000.0,
-        "description": "Operational and Testing Support (30 sessions @ $6,000 across 5 periods)",
-        "source_doc": null
-      },
-      {
-        "category": "Labor",
-        "amount": 30000.0,
-        "description": "Operator and Observer Training Sessions (5 sessions @ $6,000)",
-        "source_doc": null
-      },
-      {
-        "category": "Labor",
-        "amount": 3000.0,
-        "description": "Instructor Training Sessions (5 sessions @ $600)",
+        "amount": 1710000.0,
+        "description": "Mission Days Operational support (30 days @ $2,850 per period x 5 periods = $427,500); Operational and Testing Support (6 days @ $6,000 per period x 5 = $180,000); Operator and Observer Training (1 @ $6,000 x 5 = $30,000); Instructor Training (1 @ $600 x 5 = $3,000); Course Development - Operator/Observer (1 @ $6,000 x 5 = $30,000); Course Development - Instructor (1 @ $6,000 x 5 = $30,000)",
         "source_doc": null
       },
       {
         "category": "Travel",
         "amount": 250000.0,
-        "description": "Travel for Operational Support - Not-to-Exceed (5 periods @ $50,000 NTE)",
+        "description": "Travel for Operational Support NTE $50,000 per ordering period x 5 periods",
         "source_doc": null
       },
       {
-        "category": "Labor",
-        "amount": 30000.0,
-        "description": "Operator and Observer Course Development (5 courses @ $6,000)",
-        "source_doc": null
-      },
-      {
-        "category": "Labor",
-        "amount": 30000.0,
-        "description": "Instructor Training Course Development (5 courses @ $6,000)",
-        "source_doc": null
-      },
-      {
-        "category": "Labor",
-        "amount": 330000.0,
-        "description": "Technical Documentation of Software and Hardware Development NRE (5 periods @ $66,000 NTE)",
-        "source_doc": null
-      },
-      {
-        "category": "Labor",
-        "amount": 330000.0,
-        "description": "Non-recurring Engineering - Modeling (5 periods @ $66,000 NTE)",
-        "source_doc": null
-      },
-      {
-        "category": "Labor",
-        "amount": 330000.0,
-        "description": "Non-recurring Engineering - NHC Operational Workflow Integration (5 periods @ $66,000 NTE)",
+        "category": "Other",
+        "amount": 990000.0,
+        "description": "Non-recurring Engineering: Technical Documentation of Software and Hardware Development NTE $66,000 per period x 5 = $330,000; NRE Modeling NTE $66,000 per period x 5 = $330,000; NRE National Hurricane Center operational workflow integration NTE $66,000 per period x 5 = $330,000",
         "source_doc": null
       }
     ],
@@ -100,27 +58,27 @@
         "amount": 95236.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-06"
+        "last_updated": "2026-06-07"
       },
       "purchases": {
         "amount": 902.06,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-06-06"
+        "last_updated": "2026-06-07"
       },
       "other_qbo": {
-        "amount": 135.32,
+        "amount": 93.17,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-06-06"
+        "last_updated": "2026-06-07"
       },
-      "total": 96273.63,
+      "total": 96231.48,
       "by_line_item": {}
     },
     "committed": 68.7,
-    "remaining": 13185407.67,
+    "remaining": 13785449.82,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-06T09:09:18Z"
+    "last_reconciled": "2026-06-07T08:51:31Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -183,6 +141,6 @@
       "text": "From Joshua Fromm: <@U0AQE94HJUT> do we have the gateworks boards for the s0 ground stations for the idiq yet?"
     }
   ],
-  "last_full_rebuild": "2026-06-06T09:09:18Z",
+  "last_full_rebuild": "2026-06-07T08:51:31Z",
   "last_incremental_update": null
 }
