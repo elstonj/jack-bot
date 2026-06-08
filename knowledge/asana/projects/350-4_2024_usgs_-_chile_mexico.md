@@ -29,26 +29,12 @@
 - **Create photogrammetry footprints** | Dan Prendergast | Asana due: October 1, 2026 | **STALE**
 
 ## Task Summary
-- **Total Tasks**: 19 open, 0 completed
+- **Total Tasks**: 1 open (as of current data), 0 completed
 - **Tasks by Assignee**:
-  - **Dan Prendergast**: 5 open tasks
-    - "Operator Manual and Flight CONOPS for AFAC" | Due: June 8, 2026 | ⚠️ **STALE**
-    - "Obtain flight approvals from AFAC" | Due: July 1, 2026 | ⚠️ **STALE**
-    - "Verify ground permissions for national park (CENAPED leading)" | Due: July 1, 2026 | ⚠️ **STALE**
-    - "Put together flight plans using Google Earth markup" | Due: October 1, 2026 | ⚠️ **STALE**
-    - "Create photogrammetry footprints" | Due: October 1, 2026 | ⚠️ **STALE**
-  - **Maciej Stachura**: 2 open tasks
-    - "Look at FLIR stoppage at Murray State" | Due: August 3, 2026 | ⚠️ **STALE**
-    - "Test props for operations at 5700m" | Due: August 3, 2026 | ⚠️ **STALE**
-  - **Josh Fromm**: 1 open task
-    - "Spare parts and packing list" | Due: October 1, 2026 | ⚠️ **STALE**
-  - **Unassigned**: 11 open tasks (including 5 milestones and 6 exploratory/infrastructure tasks with no due dates)
+  - **Dan Prendergast**: 1 open task
+    - "Operator Manual and Flight CONOPS for AFAC" | Due: June 8, 2026 | ⚠️ **STALE — part of AFAC approval sequence now planned for Fall 2026**
 
-- **Notable Patterns**:
-  - 19 open tasks; all tasks with spring/summer 2026 due dates are stale per team corrections
-  - Heavy concentration of tasks awaiting Fall 2026 timeline confirmation
-  - Several exploratory tasks (Test New Capabilities, S2 Improvements, Planning/Algorithms/UI, CONOPS) with no due dates and no assignees
-  - Project in holding pattern pending Fall 2026 timeline confirmation
+**Note**: New raw data shows only 1 open task (down from 19 in previous knowledge file). This may indicate that many tasks have been archived, completed, or removed from Asana during the timeline delay. Recommend confirming task status with Maciej Stachura.
 
 ## Recent Activity
 - **May 27–28, 2026 (TEAM FEEDBACK — AUTHORITATIVE)**:
@@ -77,4 +63,9 @@
   - Finalize customs/import documentation for Mexico (batteries, equipment) — Dan Prendergast coordinating with customs broker Javi
   - AFAC flight approvals and operator manual/CONOPS documentation (Dan Prendergast)
   - CENAPED ground permissions for national park
-  - Flight, radio, shipping,
+  - Flight, radio, shipping, and import permissions finalization
+  
+- **Action Items for Maciej**:
+  - Confirm Fall 2026 deployment window and update all task due dates accordingly
+  - Coordinate with Dan Prendergast on customs/import closure and AFAC approvals sequencing
+  - Clarify which of the 19 previously open tasks remain active vs. have been deprioritized/archived

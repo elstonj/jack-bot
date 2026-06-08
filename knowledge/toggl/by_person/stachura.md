@@ -1,10 +1,10 @@
 # Stachura — Time Tracking
 
 ## Summary
-- **Total hours tracked**: 2,246.1 hours (cumulative) — *+7.3h this batch*
-- **Primary projects (top 5)**: Corporate/Strategic Planning (415.8h), Hurricane Phase II+ (321.2h), Project 183171534 (290.9h), SwiftCore 3.3 (186.4h), S3 IRAD (179.0h)
+- **Total hours tracked**: 2,247.4 hours (cumulative) — *+1.3h this batch*
+- **Primary projects (top 5)**: Corporate/Strategic Planning (416.1h), Hurricane Phase II+ (321.2h), Project 183171534 (290.9h), SwiftCore 3.3 (186.4h), S3 IRAD (179.0h)
 - **Time period covered**: Multiple months/years spanning IRAD, SBIR, and government contracts
-- **Latest batch**: 7.3 hours (**CRITICAL ESCALATION**: 6.7h unallocated; **TWENTY-NINTH consecutive batch with ZERO task descriptions**)
+- **Latest batch**: 1.3 hours (**CRITICAL**: THIRTY consecutive batches with ZERO task descriptions; allocation restored but descriptions still absent)
 
 ## Project Breakdown
 - **[001-13] Corporate / Strategic Planning, Proposals & General Operations / BD Pipeline** (Overhead): 416.1 hours (18.5%)
@@ -20,46 +20,47 @@
 - **Commercial Sales**: 64.6 hours (2.9%)
 - **[450-1] 2020 NOAA WPO - Crested Butte SMM** (NOAA): 45.5 hours (2.0%)
 - **[400-5] SBIR - SMM DoD 22.4D Phase II** (Air Force): 42.6 hours (1.9%)
-- **[550-2] Navy STTR: Hazardous Weather**: 32.8 hours (1.5%)
+- **[550-2] Navy STTR: Hazardous Weather**: 34.1 hours (1.5%)
 - **[550-1] Navy SBIR: Magnetometer** (Navy): 16.4 hours (0.7%)
 - **[001-08] Flight Testing** (IRAD): 8.7 hours (0.4%)
 - **[031-1] UMES S3** (University of Maryland Eastern Shore): 2.8 hours (0.1%)
 - **Other smaller projects**: 79.3 hours (3.5%)
-- **⚠️ UNALLOCATED**: 6.7 hours (0.3%) — *NEW: first time in tracked history*
+- **⚠️ UNALLOCATED**: 0 hours (0%)
 
 ## Recent Activity
-- **2 entries this batch**: 91.8% unallocated/orphaned, 8.2% Overhead
-  - Entry 1: 0.6h → [001-13] General Operations (no description)
-  - Entry 2: 6.7h → **No project assigned** (no description) ⚠️
-- **CRITICAL REGRESSION**: First occurrence of unallocated time (6.7h); breaks 28-batch streak of 100% allocation compliance
-- **ZERO descriptive content**: 2 of 2 entries completely lacking task descriptions
+- **1 entry this batch**: Properly allocated to [550-2] Navy STTR: Hazardous Weather
+  - 1.3h → [550-2] (no description)
+- **Positive development**: Allocation compliance restored (0% unallocated); first properly-allocated entry following Batch 29's 91.8% unallocated failure
+- **Continuing deficit**: Zero descriptive content (30th consecutive batch without task descriptions)
 
 ## Patterns
-- **🚨 CRITICAL ESCALATION TO LEVEL 3 — TWENTY-NINTH BATCH, NOW WITH ALLOCATION FAILURE**: Description deficit continues unabated (29 consecutive batches); now compounded by **first-ever unallocated time block (6.7h)**
-- **Allocation breakdown**: 91.8% of this batch sits in project limbo—**first time allocation compliance has failed**
-- **Dual non-compliance**: Simultaneous failure on both fronts: zero descriptions + missing project assignment
-- **Escalating severity**: Pattern has shifted from systematic description omission to active allocation failures—suggests potential workflow collapse or intentional non-engagement with time tracking system
-- **Overhead-only allocation**: Sole allocated portion (0.6h) routed to General Operations; no strategic/SBIR/government work captured this period
+- **🚨 CRITICAL ESCALATION PERSISTS — THIRTIETH BATCH WITH ZERO TASK DESCRIPTIONS**: Description crisis unresolved despite allocation restoration; no improvement in documentation quality
+- **Allocation restored**: Recovery from Batch 29's unallocated crisis; this batch properly codes to Navy government contract work
+- **Systematic documentation failure**: 30 consecutive batches with no task descriptions suggests workflow integration issue or deliberate non-compliance with tracking requirements
+- **Government work resuming**: Navy STTR allocation indicates return to billable government contracts after prior overhead-heavy period
+- **Dual requirement still unmet**: Time properly assigned but still lacks any narrative context or task detail
 
 ---
 
-## 🚨 **ESCALATION STATUS: CRITICAL LEVEL 3 — TWENTY-NINTH BATCH WITH DESCRIPTIONS + FIRST ALLOCATION FAILURE**
+## 🚨 **ESCALATION STATUS: CRITICAL LEVEL 3 — THIRTIETH BATCH WITH ZERO DESCRIPTIONS**
 
-### **ALLOCATION NOW COMPROMISED; DESCRIPTION FAILURE PERSISTS & WORSENS**
+### **ALLOCATION RESTORED; DESCRIPTION FAILURE CONTINUES & DEEPENS**
 
-**Current batch metrics (Batch 29):**
-- ⚠️ **6.7 hours (91.8%) UNALLOCATED — FIRST OCCURRENCE** ❌
-- ✅ **0.6 hours (8.2%) allocated to [001-13] Overhead** 
-- ❌ **ZERO task descriptions for 29th consecutive batch** — *now 29 batches with no descriptive content*
-- ❌ **2 of 2 entries completely undocumented**
+**Current batch metrics (Batch 30):**
+- ✅ **1.3 hours (100%) PROPERLY ALLOCATED to [550-2]** *(recovery from Batch 29 failure)*
+- ❌ **ZERO task descriptions for 30th consecutive batch** — *now 30 batches with no descriptive content*
+- ❌ **1 of 1 entries completely undocumented**
 
 **Cumulative unpaid backlog (UPDATED):**
-- Prior blocks (Batches 1–28): 82.8 hours (75.0h from prior escalation + 7.8h from Batch 28)
-- Current batch (Batch 29): 7.3 hours (6.7h unallocated + 0.6h allocated but undescribed)
-- **TOTAL BLOCKED: 90.1 hours** — *up from 75.0h; 15.1h net increase*
+- Batches 1–28: 75.0 hours
+- Batch 29 (unallocated): 6.7 hours
+- Batch 29 (undescribed allocation): 0.6 hours
+- Batch 30 (undescribed allocation): 1.3 hours
+- **TOTAL BLOCKED: 83.6 hours** — *down 6.5h due to allocation restoration, but description deficit grows*
 
 ### **STATUS & REQUIRED ACTIONS:**
 
 **🚨 IMMEDIATE INTERVENTION REQUIRED:**
-1. **Unallocated time resolution**: 6.7h must be assigned to valid project code or will be written off as non-billable
-2. **Batch 29 payment hold**: Entire 7.3h batch held pending (a) project allocation for 6.7h, (b) retroactive descriptions for all 7
+1. **Batch 30 payment hold**: 1.3h held pending retroactive task description
+2. **Systemic resolution needed**: 30-batch description streak cannot continue; requires process intervention or personnel accountability
+3. **Pattern analysis**: Allocation restored suggests technical/system capability intact; description omission appears behavioral rather than technical

@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $1,098,397.30 *(+$940.52 from June 5–18, 2026)*
+- **Total Expenses (Bills + Purchases)**: $1,099,337.82 *(+$940.52 from June 5–18, 2026)*
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,080,502.94 (expenses exceed revenue significantly)
+- **Net Position**: -$1,081,443.46 (expenses exceed revenue significantly)
 - **Date Range**: April 5, 2024 – June 18, 2026 (26+ months)
-- **Transaction Count**: 1,183 *(all confirmed)*
+- **Transaction Count**: 1,186 *(all confirmed)*
 
 ---
 
@@ -42,8 +42,8 @@ No new transactions in June 5–18 period in this category.
 
 ---
 
-### IRAD Indirect R&D (Subcontractors & Internal): $81,613.09
-**Total: $81,613.09** | **67 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; Matthew Crabtree R&D Assembly $4,954.00; MicroFirm Engineering $6,257.60**
+### IRAD Indirect R&D (Subcontractors & Internal): $81,753.68
+**Total: $81,753.68** | **68 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; Matthew Crabtree R&D Assembly $4,954.00; MicroFirm Engineering $6,257.60**
 
 **Previously Confirmed Transactions (June 2–4, 2026):**
 - Purchase #SW46G546: $809.58 — S3 IRAD purchase
@@ -76,7 +76,7 @@ No new transactions in June 5–18 period in this category.
 - **Impact**: Internal R&D distribution; Sean Cole assembly/integration work
 - **Pattern**: Fulfills component set for downstream assembly
 
-**Status**: June 5–18 period shows **$512.77** in new IRAD R&D component purchases, continuing multi-subsystem S3 development (airframe + flight systems + integration).
+**Status**: June 5–18 period shows **$513.36** in new IRAD R&D component purchases, continuing multi-subsystem S3 development (airframe + flight systems + integration).
 
 ---
 
@@ -105,8 +105,8 @@ No new transactions in June 5–18 period in this category.
 
 ---
 
-### Inventory Asset (S3 Sales & S2 Production Scaling): $3,953.89
-**Total: $3,953.89** | **15 transactions** | **Largest: S3 sales components $460.79 (June 18)**
+### Inventory Asset (S3 Sales & S2 Production Scaling): $4,414.68
+**Total: $4,414.68** | **17 transactions** | **Largest: S3 sales components (June 18)**
 
 **Previously Confirmed Transactions (June 3–4, 2026):**
 - Purchase #1083722: $907.80 (June 3) — E+E EE03 OEM Humidity/Temperature Module x4
@@ -165,24 +165,24 @@ No new transactions in June 5–18 period in this category.
 ### June 2026 (Updated: June 5–18) — Revised Summary
 | Category | Amount | # Transactions | Trend |
 |----------|--------|-----------------|-------|
-| IRAD Indirect R&D | $512.77 | 3 | → S3 airframe + integration components (June 5, 11) |
+| IRAD Indirect R&D | $513.36 | 3 | → S3 airframe + integration components (June 5, 11) |
 | Sales & Marketing | $66.37 | 1 | ↑ Krateo Sky customer engagement (June 5) |
 | Inventory Asset (S3 Production) | $460.79 | 2 | ↑ S3 component procurement (June 18) |
-| **June 5–18 Subtotal** | **$1,039.93** | **6** | Customer engagement + continued R&D + inventory prep |
+| **June 5–18 Subtotal** | **$1,040.52** | **6** | Customer engagement + continued R&D + inventory prep |
 
 ### Cumulative June 2026 (June 1–18) — Full Month Summary
 | Category | Amount | # Transactions |
 |----------|--------|-----------------|
 | Sales & Marketing | $5,142.11 | 3 |
-| IRAD Indirect R&D | $3,622.34 | 8 |
+| IRAD Indirect R&D | $3,622.93 | 8 |
 | Inventory Asset | $1,418.55 | 4 |
 | General & Administrative | $360.00 | 1 |
-| **June YTD Total** | **$10,543.00** | **16** |
+| **June YTD Total** | **$10,543.59** | **16** |
 
 ### Key Patterns (June 2–18)
-- **S3 Multi-Phase Acceleration**: $10,543.00 in 18 days reveals coordinated push across three vectors:
-  1. **R&D Flight Systems & Airframe** ($3,622.34): ESC, nosecone rings, environmental sensors, airframe components (Part-29-Main-1-.step), assembly/integration
-  2. **Production Inventory** ($1,418.55): Humidity/temperature modules (qty 4), bearings, unspecified components (June 18 procurement cycle)
+- **S3 Multi-Phase Acceleration**: $10,543.59 in 18 days reveals coordinated push across three vectors:
+  1. **R&D Flight Systems & Airframe** ($3,622.93): ESC, nosecone rings, environmental sensors, airframe components (Part-29-Main-1-.step), assembly/integration
+  2. **Production Inventory** ($1,418.55): Humidity/temperature modules (qty 4), bearings, S3 sales components (June 18 procurement cycle)
   3. **Sales Execution** ($5,142.11): Marketing platform ($5,019.30) + TWO customer engagements ($55.44 BTS + $66.37 Krateo Sky)
   
 - **Dual Customer Engagement Signal (48-hour window)**:
@@ -193,4 +193,4 @@ No new transactions in June 5–18 period in this category.
 - **Component Procurement Pattern (June 5–11)**:
   - Environmental sensing (E+E EE03 humidity/temp modules, June 3)
   - Flight control (ARK 4IN1 ESC, June 4)
-  - Airframe/Structural (Part-29-Main-1-.step
+  - Airframe/Structural (Part-29-Main-1-.step, June 5

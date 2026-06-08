@@ -1,280 +1,316 @@
 # Enriched External Contacts
 
-# BLACK SWIFT TECHNOLOGIES — ENRICHED EXTERNAL CONTACT DIRECTORY
+# BLACK SWIFT TECHNOLOGIES — EXTERNAL CONTACT DIRECTORY
 
 ## NASA
 
-### Government/Mission-Critical Contacts
+### Key Government Liaisons
 
 **John Glass**
-- **Email:** John.Glass-1@nasa.gov
-- **Role:** NASA Contact (center/division TBD)
-- **Interaction Context:** Listed as primary NASA contact; multiple email addresses suggest active engagement
-- **Projects:** Likely involved in broader NASA SBIR/research initiatives
-- **Contact Strategy:** Primary government liaison for NASA opportunities
+- Email: John.Glass-1@nasa.gov
+- Role: NASA Contact (center/program unspecified)
+- Context: Listed as primary NASA contact; no specific project engagement visible in email/Slack data
 
 **Matthew M. Fladeland**
-- **Email:** matthew.m.fladelman@nasa.gov
-- **Role:** NASA Contact
-- **Interaction Context:** Known contact in BST network
-- **Projects:** Atmospheric/environmental research (likely)
-- **Contact Strategy:** Technical program discussion point
+- Email: matthew.m.fladeland@nasa.gov
+- Role: NASA Contact
+- Likely involvement: Atmospheric/aeronautics research based on contact list context
 
-**Stephan R. Kawa**
-- **Email:** stephan.r.kawa@nasa.gov
-- **Role:** NASA Contact
-- **Interaction Context:** Listed in BST contact network
-- **Contact Strategy:** Atmospheric science/climate research
+**Cynthia X. Zhang**
+- Email: cynthia.x.zhang@nasa.gov
+- Role: NASA Contact
+- Likely involvement: Atmospheric/aeronautics research
 
-### JPL (Jet Propulsion Laboratory) Technical Leads
+### JPL (Jet Propulsion Laboratory) Contacts
 
 **Andrew E. Johnson**
-- **Email:** Andrew.E.Johnson@jpl.nasa.gov
-- **Role:** JPL Technical Contact
-- **Interaction Context:** JPL autonomous systems/robotics expertise
-- **Contact Strategy:** Autonomy platform collaboration
+- Email: Andrew.E.Johnson@jpl.nasa.gov
+- Role: JPL Technical Contact
+- Specialization: Likely autonomy or rover systems based on JPL mission focus
 
 **Tara Estlin**
-- **Email:** Tara.Estlin@jpl.nasa.gov
-- **Role:** JPL Contact
-- **Interaction Context:** Known JPL scientist contact
-- **Contact Strategy:** Research partnership development
+- Email: Tara.Estlin@jpl.nasa.gov
+- Role: JPL Contact
+- Specialization: Flight planning or autonomy systems
 
 **Marc Golombek**
-- **Email:** mgolombek@jpl.nasa.gov
-- **Role:** JPL Planetary Science Contact
-- **Interaction Context:** Mars/planetary science expertise
-- **Contact Strategy:** Sensor/remote sensing applications
+- Email: mgolombek@jpl.nasa.gov
+- Role: JPL Planetary Science
+- Context: Known Mars geologist; likely relevant to BST's atmospheric/geology missions
 
 ---
 
 ## NOAA (National Oceanic and Atmospheric Administration)
 
-### Hurricane & Atmospheric Programs
+### Primary Government Research Partner
 
-**Joe Cione** ⭐ **CRITICAL**
-- **Email:** joe.cione@noaa.gov
-- **Role:** NOAA Federal Program Lead
-- **Projects:** [300-3] 2026 IDIQ (Hurricane/Sparv Sondes working group)
-- **Interaction Context:** **MAJOR ESCALATION** — Leading 23+ participant multi-agency working group on lightweight radiosonde platform ("Sparv - Super Lightweight Sondes 9g"). Meeting scheduled June 9, 2026, 11am–12pm MDT. Includes US Navy, NASA, USGS, academic partners (ERAU, UCSD, Notre Dame, UCAR, FSU), sensor vendors (Sparv Embedded, JAIA), and strategic partners
-- **BST Contact Points:** Josh Fromm (primary), Maciej Stachura, Jack Elston
-- **Contact Strategy:** **URGENT** — Core platform evaluation/integration opportunity. Lightweight atmospheric sensor deployment for hurricane/tropical cyclone missions aligns with BST S0 capabilities
-- **Topics:** Atmospheric sonde integration, multi-agency coordination, hurricane reconnaissance
+**Joe Cione** (Major Escalation Signal)
+- Email: joe.cione@noaa.gov
+- Role: NOAA Federal, Sparv Working Group Lead
+- Projects: **[300-3] SBIR Hurricane**, atmospheric research, tropical cyclone monitoring
+- Context: **ACTIVE HIGH-PRIORITY ENGAGEMENT** — Josh Fromm email indicates major multi-agency meeting coordination (23+ government/academic participants); directly copied on Sparv sondes working group invitation; property audit coordination with Jack Elston
+- Contact about: Hurricane reconnaissance missions, atmospheric sensor payloads, S0 aircraft deployment, NOAA property audits, tropical cyclone data repositories
 
-**Wayne M. Angevine**
-- **Email:** wayne.m.angevine@noaa.gov
-- **Role:** NOAA Atmospheric Research Contact
-- **Interaction Context:** Known NOAA science collaborator
-- **Projects:** Atmospheric boundary layer research
-- **Contact Strategy:** Technical partnership for atmospheric sensing payloads
+**Kirsten Boogard**
+- Email: Not listed (referenced as "777 PM at NOAA" in Slack)
+- Role: NOAA Program Manager (777 Program)
+- Projects: Grant/funding pipeline coordination
+- Context: Referenced in #grants-and-funding channel for ROSES/NOAA opportunities
 
-**Paul E. Johnston**
-- **Email:** paul.e.johnston@noaa.gov
-- **Role:** NOAA Operations/Technical Contact
-- **Interaction Context:** Known in BST network
-- **Contact Strategy:** Operational mission planning
-
-**Gary Wick**
-- **Email:** gary.wick@noaa.gov
-- **Role:** NOAA Remote Sensing/Atmospheric Contact
-- **Interaction Context:** Relevant to BST sensor integration work
-- **Contact Strategy:** Radiometer/sensor payload collaboration
-
-### NOAA Multi-Agency Coordination (Sparv Working Group Extended Network)
+### NOAA Atmospheric & Research Scientists
 
 **Allison McComiskey**
-- **Email:** allison.mccomiskey@noaa.gov
-- **Role:** NOAA Scientist (Sparv WG participant)
-- **Interaction Context:** Multi-agency atmospheric research coordination
-- **Contact Strategy:** Technical sonde development input
+- Email: allison.mccomiskey@noaa.gov
+- Role: Atmospheric Scientist
+- Specialization: Aerosol/atmospheric measurements
+- Contact about: Atmospheric sensor integration, aerosol research payloads
 
-**Michael McCarthy**
-- **Email:** michael.mccarthy@noaa.gov
-- **Role:** NOAA Contact (Sparv WG participant)
-- **Interaction Context:** NOAA working group engagement
-- **Contact Strategy:** Inter-agency liaison
+**Logan Poole**
+- Email: logan.poole@noaa.gov
+- Role: NOAA Scientist
+- Specialization: Atmospheric data analysis/cloud physics
+- Contact about: Flight data processing, atmospheric measurements
 
----
+**Mark Hafez**
+- Email: mark.hafez@noaa.gov
+- Role: NOAA Technical Contact
+- Specialization: Likely systems integration or operations
 
-## U.S. MILITARY & DEFENSE (DoD)
+**David Hsu**
+- Email: david.hsu@noaa.gov
+- Role: NOAA Contact
+- Specialization: Atmospheric research/operations
 
-### Navy — Critical Program Contacts
+### NOAA Administrative & Logistics
 
-**Eric D. Correa-Matos** ⭐ **SUSTAINED CRITICAL**
-- **Email:** Not provided (CIV USN COMNAVAIRSYSCOM PAX)
-- **Role:** Navy Technical Authority
-- **Projects:** [25_1-Navy-SBIR-Magnetometer] S0 MAD (Magnetic Anomaly Detection) integration
-- **Interaction Context:** **SUSTAINED COORDINATION** — Leading S0 magnetometer/MAD system coordination. Regular correspondence with Alex Lomis, Jack Elston, Maciej Stachura on technical integration and testing protocols
-- **BST Contact Points:** Alex Lomis (technical), Jack Elston, Maciej Stachura
-- **Contact Strategy:** Primary Navy S0-MAD integration point. Direct technical authority on sensor positioning, shielding, aircraft modifications
-- **Topics:** Magnetometer integration, S0 modifications, testing schedule, sensor performance validation
-
-**Angel R. Ruiz-Reyes** ⭐ **SUSTAINED CRITICAL**
-- **Email:** Not provided (CIV USN NAWCAD)
-- **Role:** Navy TPOC (Technical Point of Contact), Magnetic Anomaly Detection
-- **Projects:** [25_1-Navy-SBIR-Magnetometer] S0 MAD
-- **Interaction Context:** **SUSTAINED** — Navy technical authority for S0 MAD Phase II kickoff and ongoing testing. Multiple technical exchanges on sensor optimization and aircraft performance
-- **BST Contact Points:** Beck Cotter, Maciej Stachura, Sam Hild, Alex Lomis
-- **Contact Strategy:** Primary Navy program authority. Drive critical design decisions and testing milestones
-- **Topics:** Phase II progress, sensor tuning, aircraft performance, test schedules
-
-### Special Operations Command (SOCOM)
-
-**Kevin W. Saunders** ⭐ **NEW CRITICAL**
-- **Email:** kevin.w.saunders.ctr@socom.mil
-- **Role:** SOCOM Technical Contact (Special Operations)
-- **Projects:** [001-03] S0-AD IRAD (S0 advanced development for special operations)
-- **Interaction Context:** **NEW** — Emerging special operations engagement on S0-AD platform. Appears in Greenland flight permissions coordination (May 5, 2026). Suggests technical requirements definition phase for specialized missions
-- **BST Contact Points:** Dan Prendergast (primary operational lead)
-- **Contact Strategy:** Emerging strategic relationship. Likely defining mission-specific S0 modifications and operational requirements
-- **Topics:** S0-AD mission definition, operational requirements, Greenland flights, special operations integration
-
-**Patricia A. Vollmer**
-- **Email:** patricia.a.vollmer.civ@mail.mil
-- **Role:** U.S. Military Contact (Greenland Operations)
-- **Projects:** S0-AD Greenland Flight Permissions
-- **Interaction Context:** **NEW** — Involved in Greenland flight permissions coordination (May 5, 2026, flagged IMPORTANT). Appears to be military compliance/permitting authority
-- **BST Contact Points:** Dan Prendergast
-- **Contact Strategy:** Regulatory/permitting liaison for military operations
-- **Topics:** Greenland flight approvals, military airspace coordination
-
-### Air Force Weather Reconnaissance
-
-**Sarah Olsen, Maj USAF**
-- **Email:** Not provided (53 WRS/ARWO — 53rd Weather Reconnaissance Squadron)
-- **Role:** Major, U.S. Air Force; Weather Reconnaissance Program Officer
-- **Projects:** [25_1-Navy-STTR-Boundary-Layer] S0 atmospheric measurement for hurricane operations
-- **Interaction Context:** **SUSTAINED** — Operational partnership on S0 boundary layer measurement system for tropical cyclone operations. Coordinating CAT (Convective and Atmospheric Turbulence) flights and WHOI array deployment
-- **BST Contact Points:** Beck Cotter, Josh Fromm, Dan Prendergast
-- **Contact Strategy:** Operational mission partner. Define field test schedule and data requirements
-- **Topics:** Boundary layer sensing, hurricane operations, CAT flights, WHOI data sharing
+**Meredith Needham** (BST Internal) coordinates with NOAA on:
+- Government contract subcontracting and partnership agreements
+- Property audits and compliance
+- Project closeout documentation
 
 ---
 
-## INTERNATIONAL DEFENSE
+## U.S. NAVY & DEPARTMENT OF DEFENSE
 
-### United Kingdom Ministry of Defence
+### Navy Program Officers & Technical Leads (S0 MAD / Magnetometer Project)
 
-**Simon Laurence** ⭐ **SUSTAINED**
-- **Email:** Simon.Laurence157@mod.gov.uk
-- **Role:** UK MOD Stakeholder
-- **Projects:** [25_1-Navy-SBIR-Magnetometer] S0 MAD (Royal Navy interest)
-- **Interaction Context:** **SUSTAINED** — UK Ministry of Defence engagement on magnetometer/MAD platform. Appears to be Royal Navy technical liaison
-- **BST Contact Points:** Eric Correa, Alex Lomis, Maciej Stachura
-- **Contact Strategy:** International defense partnership. Potential Royal Navy procurement/operational testing
-- **Topics:** S0 MAD capabilities, Royal Navy integration, international testing coordination
+**Angel R. Ruiz-Reyes (CIV USN NAWCAD)**
+- Email: Not provided (internal BST reference)
+- Role: Navy Technical Authority for S0 MAD Integration
+- Projects: **[25.1] Navy SBIR Magnetometer** (Magnetic Anomaly Detection system)
+- Interaction context: Sustained coordination with Alex Lomis, Eric Correa-Matos (USN COMNAVAIRSYSCOM PAX), and BST technical team on S0 aircraft modifications for magnetometer payload
+- Contact about: S0 MAD system integration, QuSpin magnetometer testing, Navy Phase II delivery milestones, flight testing schedules
 
----
+**Eric D. Correa-Matos (CIV USN COMNAVAIRSYSCOM PAX)**
+- Email: Not provided (internal BST reference, appears in Slack as external military contact)
+- Role: Navy Coordinator for S0 MAD Program
+- Projects: **[25.1] Navy SBIR Magnetometer** 
+- Interaction context: Sustained coordination with Alex Lomis on S0 MAD thread; serves as liaison between NAWCAD technical team and BST
+- Contact about: Program coordination, integration status, delivery schedules, Navy acceptance testing
 
-## ACADEMIC & RESEARCH INSTITUTIONS
+### Navy Boundary Layer / Atmospheric Sensing (STTR)
 
-### University of Colorado Boulder
+**Moe** (Navy Contact / Program Officer, Title Unknown)
+- Email: Not listed
+- Role: Navy STTR Program Officer for Boundary Layer Project
+- Projects: **[25.1] Navy STTR Boundary Layer** — atmospheric sensing for tropical cyclones/high wind environments
+- Context: Directly manages Option Phase approvals and task modifications; referenced in Slack as primary Navy POC for CAT flights, data format specifications, and sensor validation requirements
+- Contact about: Boundary layer sensor validation, tropical cyclone flight mission planning, data delivery formats, Option Phase task execution
 
-**Kevin S. Rozmiarek** ⭐ **CRITICAL OPERATIONAL**
-- **Email:** Kevin.Rozmiarek@colorado.edu
-- **Organization:** University of Colorado
-- **Role:** Greenland Flight Permissions Coordinator
-- **Projects:** S0-AD Greenland operations, atmospheric research
-- **Interaction Context:** **CRITICAL** — Flagged IMPORTANT (May 5, 2026) with same-day response indicating urgent regulatory coordination. Leading Greenland flight permissions process, likely involving university research protocols and Arctic environmental compliance
-- **BST Contact Points:** Dan Prendergast (primary)
-- **Contact Strategy:** Academic-government liaison for Arctic operations. Essential for regulatory pathway definition
-- **Topics:** Greenland flight approvals, research protocols, Arctic environmental compliance
+### 53rd Weather Reconnaissance Squadron (U.S. Air Force)
 
----
-
-## CANADIAN GOVERNMENT & ECONOMIC DEVELOPMENT
-
-### Invest Ottawa (Economic Development)
-
-**Stephen Rowlands** ⭐ **NEW CRITICAL**
-- **Email:** SRowlands@investottawa.ca
-- **Organization:** Invest Ottawa (Canadian Government Economic Development)
-- **Role:** Military/Defense Vendor Coordination Liaison
-- **Projects:** CJFC (Canadian Joint Forces Command) Vendor Brief, Canadian military engagement
-- **Interaction Context:** **NEW** — Flagged IMPORTANT (May 5, 2026) with same-day response. Coordinating CJFC Vendor Brief with Jack Elston and Maciej Stachura. Appears to be Canadian government economic development liaison managing BST relationship with Canadian military
-- **BST Contact Points:** Jack Elston, Maciej Stachura, Dan Prendergast
-- **Contact Strategy:** Gateway to Canadian military/defense procurement. Likely facilitating BST vendor qualification and opportunity identification
-- **Topics:** Canadian military vendor brief, CJFC engagement, Canadian procurement opportunities
+**Sarah Olsen**
+- Role: AF 53rd Weather Reconnaissance Contact
+- Projects: S3 VTOL aircraft delivery and integration
+- Context: Referenced in S3 channel for aircraft delivery coordination and weather reconnaissance mission planning
+- Contact about: S3 VTOL operational requirements, mission planning integration, weather reconnaissance sensor specifications
 
 ---
 
-## LOGISTICS & SUPPLY CHAIN PARTNERS
+## U.S. MILITARY CONTRACTING & TECHNICAL PARTNERS
 
-### Aerospace Component Manufacturing
+### SOCOM (Special Operations Command)
 
-**Lee Skidmore** ⭐ **CRITICAL SUPPLIER**
-- **Email:** Not provided (Rubicon Aerospace)
-- **Organization:** Rubicon Aerospace
-- **Role:** Supply Chain Manager / S0 Fuse Shipping Coordinator
-- **Projects:** [25_1-Navy-SBIR-Magnetometer] S0 Platform Fabrication/Shipping, multiple projects
-- **Interaction Context:** **CRITICAL CONCURRENT ORDER CYCLE** — Escalated supplier relationship with high-frequency invoicing (flagged IMPORTANT, multiple exchanges). Coordinating S0 Fuse shipping + upcoming invoicing (May–June 2026). Critical supplier managing subsystem builds supporting both S0 MAD (government) and S3 IRAD (internal) simultaneously
-- **BST Contact Points:** Meredith Needham (primary purchasing), Joshua Fromm (technical specifications), Jack Elston
-- **Contact Strategy:** Critical supplier pathway. Manage payment cycles and manufacturing schedules for time-sensitive government projects
-- **Topics:** S0 component fabrication, shipping coordination, invoicing/payment cycles, manufacturing timeline
+**DoD SOCOM Group** (April 27, 2026 Site Visit)
+- Role: Special Operations Command technical evaluation team
+- Projects: **S0 Aircraft** — DoD S0-AD program for military applications
+- Context: Full-day working discussion scheduled at BST facility (April 27, 2026) with 7 customer representatives and 2 KrateoSky Business Development representatives to define mission requirements and S0 modifications needed
+- Contact about: S0 platform capabilities, military mission requirements, aircraft modification specifications, operational performance data
+
+### Arctic Operations & Weather
+
+**53rd Weather Squadron**
+- Role: U.S. Air Force weather reconnaissance unit
+- Projects: **Arctic Edge 2027**, S3 VTOL deliveries, atmospheric data collection
+- Context: Referenced in multiple project channels (SBIR Hurricane, S3) for Arctic operations partnership and weather reconnaissance missions
+- Contact about: Arctic mission planning, weather reconnaissance sensor requirements, deployment logistics, atmospheric data standards
+
+---
+
+## UNITED KINGDOM MOD (Ministry of Defence)
+
+**Simon Laurence**
+- Email: Simon.Laurence157@mod.gov.uk
+- Role: UK MOD Stakeholder
+- Projects: **S0 MAD** system integration and testing
+- Context: Sustained coordination with Alex Lomis and internal BST team on UK involvement in magnetometer project
+- Contact about: UK MOD system specifications, integration requirements, testing protocols, international collaboration logistics
+
+---
+
+## AEROSPACE & MANUFACTURING PARTNERS
+
+### QuSpin (Magnetometer Manufacturer)
+
+**Jeff** (QuSpin Contact, Full Name Unknown)
+- Email: Not listed
+- Role: QuSpin Technical/Sales Contact
+- Projects: **[25.1] Navy SBIR Magnetometer** — QuSpin magnetometer sensor provider
+- Context: Integrated partner in S0 MAD system; referenced in Slack for sensor specifications, MuMetal shielding coordination, and performance validation
+- Contact about: Magnetometer specifications, sensor integration, performance data, availability and delivery schedules
+
+### Ultra Maritime (Acoustic Sensor Subcontractor)
+
+**Paul** (Ultra Maritime Contact, Full Title Unknown)
+- Email: Not listed
+- Role: Ultra Maritime Technical/Program Lead
+- Projects: **[25.1] Navy SBIR Magnetometer** — acoustic sensor integration partner
+- Context: Selected as Phase 2 subcontractor (January 2026) over CRT for acoustic payload integration; managing separate aircraft configuration for acoustic sensors vs. magnetometer
+- Contact about: Acoustic sensor integration timeline, Phase 2 delivery schedule, system performance specifications
+
+### Rubicon Aerospace (S0 Fuse Manufacturing)
+
+**Lee Skidmore**
+- Email: Not provided (referenced in Meredith Needham email patterns)
+- Role: Rubicon Aerospace Operations Contact
+- Projects: **S0 Fuse** — manufacturing and shipping
+- Context: **ESCALATED** 4-message exchange with Meredith Needham on S0 Fuse Shipping + Upcoming Invoicing (flagged IMPORTANT, all messages); responsible for invoicing timeline coordination
+- Contact about: S0 fuse manufacturing status, shipping coordination, invoice scheduling, production milestones
 
 **Jeremy Van Vliet**
-- **Email:** Not provided (Rubicon Aerospace)
-- **Organization:** Rubicon Aerospace
-- **Role:** Invoicing/Administrative Contact
-- **Projects:** S0 fabrication/supply chain
-- **Interaction Context:** **ONGOING** — Engaged on invoicing timeline coordination (flagged IMPORTANT). Administrative point of contact for payment processing
-- **BST Contact Points:** Meredith Needham (primary)
-- **Contact Strategy:** Administrative supplier liaison. Ensure smooth payment processing and delivery coordination
-- **Topics:** Invoicing timeline, payment processing
+- Email: Not provided (referenced in Meredith Needham email patterns)
+- Role: Rubicon Aerospace Invoicing/Admin
+- Projects: **S0 Fuse** invoicing and timeline coordination
+- Context: Engaged with Meredith Needham on invoicing timeline (flagged IMPORTANT)
+- Contact about: Invoice status, payment terms, delivery timelines
 
-### Advanced Manufacturing / Specialty Services
+### JawsTec Manufacturing LLC
 
-**JawsTec Manufacturing LLC** ⭐ **CRITICAL PRODUCTION VENDOR**
-- **Email:** info@jawstec.com
-- **Organization:** JawsTec Manufacturing LLC
-- **Role:** Subsystem Manufacturing Partner
-- **Projects:** S0 MAD, S3 IRAD, multiple fabrication work
-- **Interaction Context:** **CRITICAL CONCURRENT ORDER CYCLE** — Invoices 69104 & 69119 within 24 hours (June 4–5, 2026). Pattern indicates parallel subsystem builds or staged delivery cycles supporting both government and internal projects. Payment reminders active; cash flow management tracking ongoing
-- **Supplier Issues:** **TAX COMPLIANCE DISPUTE** — Ongoing sales tax dispute despite tax-exempt certificate provided. Multiple open invoices; payment reminders escalating. Vendor relationship friction unresolved
-- **BST Contact Points:** Meredith Needham (purchasing/payment), Joshua Fromm (technical specs)
-- **Contact Strategy:** Critical manufacturing partner but with unresolved tax compliance issue. Prioritize resolution of sales tax documentation before further expansion
-- **Topics:** Manufacturing capacity, subsystem fabrication, tax compliance resolution, payment cycles
-
-### High-Precision Component Supply
-
-**Adam Lockwood** ⭐ **NEW SUPPLIER**
-- **Email:** adaml@loctechaerospace.com
-- **Organization:** LocTech Aerospace
-- **Role:** Supplier / Business Development
-- **Projects:** Potential new aerospace component supply
-- **Interaction Context:** **NEW** — Direct outreach on "new supplier potential" (June 5, 2026). Indicates active supplier qualification process for aerospace components
-- **BST Contact Points:** Ethan Domagala (initial contact)
-- **Contact Strategy:** Evaluate capabilities for S0 and S3 component needs
-- **Topics:** Aerospace component capabilities, pricing, lead times
-
-**Nathaniel Hoadley**
-- **Email:** Not provided (PTC)
-- **Organization:** PTC (Parametric Technology Corporation)
-- **Role:** CAD/PLM Consultant
-- **Projects:** CAD/design platform support across BST projects
-- **Interaction Context:** **SUSTAINED** — Design tool consultation and support for BST CAD workflow
-- **BST Contact Points:** Joshua Fromm, engineering team
-- **Contact Strategy:** Technical software partnership. Ensure smooth design tool integration and training
-- **Topics:** CAD platform optimization, design workflow, training
+- Email: purchasing@blackswifttech.com (routed)
+- Role: Manufacturing/Components Vendor
+- Projects: Multiple BST manufacturing projects (specific scope unclear)
+- Context: **PAYMENT CYCLE ESCALATION** — Payment reminders now appearing on weekend cycle (June 7); concurrent invoices 69104 & 69119 (4–5 June) in active payment tracking; suggests sustained high manufacturing throughput
+- Contact about: Manufacturing schedules, invoice status, component availability, payment terms
 
 ---
 
-## SPECIALIZED SENSOR & PAYLOAD PARTNERS
+## COMMERCIAL PARTNERS & BUSINESS DEVELOPMENT
 
-### Magnetometer Systems (Navy MAD Program)
+### KrateoSky (Strategic Partnership/Investor)
 
-**QuSpin** (via **Jeff** — contact name only)
-- **Role:** Magnetometer Sensor Supplier
-- **Projects:** [25_1-Navy-SBIR-Magnetometer] S0 MAD sensor integration
-- **Interaction Context:** **SUSTAINED** — Core technical partner providing quantum magnetometer sensors for S0 MAD system. Coordinating sensor optimization and performance validation
-- **BST Contact Points:** Beck Cotter, Maciej Stachura, Sam Hild, Alex Lomis
-- **Contact Strategy:** Critical sensor partner. Drive performance requirements and testing schedule
-- **Topics:** Sensor performance, power requirements, shielding optimization, integration schedule
+**Ariel Avitan**
+- Email: Ariel@krateosky.com
+- Role: KrateoSky Business Development/Strategic Partnership
+- Projects: **Black Swift 2026 Pipeline Update** — investor/partner strategic coordination
+- Context: **CRITICAL ACTIVE ENGAGEMENT** — June 7, 2026 IMPORTANT-flagged emails to Jack Elston and Beck Cotter on "Black Swift: 2026 Pipeline Update"; also visible in multi-party deal resolution coordination threads (Mark Kightlinger, Ryan Sykora, Brian Baker involved); multiple same-day responses from Meredith Needham (out-of-office) and Jack Elston indicate high-priority investor/partner communication
+- Involvement: Direct participation in M&A/partnership discussions, 2026 business strategy, potential financing or acquisition coordination
+- Contact about: Strategic partnership terms, 2026 pipeline opportunities, business development coordination, investor requirements/timelines
 
-### Acoustic/Passive Detection Systems
+**Sona Raziabeegum** (KrateoSky)
+- Email: Not provided in full (referenced in deal coordination threads)
+- Role: KrateoSky Legal/Administrative
+- Context: Included in multi-party legal deal resolution calls (June 7, 2026) alongside tax counsel and company attorneys
+- Contact about: Partnership documentation, deal administration
 
-**Ultra Maritime** (via **Paul** — contact name only)
-- **Role:** Acoustic Sensor / Passive Detection Systems Subcontractor
-- **Projects:** [25_1-Navy-SBIR-Magnetometer] S0 MAD Phase II acoustic complement
-- **Interaction Context:** **PARTNER SELECTION (January 2026)** — Chosen over CRT as Phase 2 subcontractor for acoustic detection capability. Operating separately from magnetometer (not combined on single aircraft)
-- **BST Contact Points:** Beck Cotter, Mac
+### North One Construction (Sales Lead)
+
+**North One Construction**
+- Email: northone@northoneconstruction.com
+- Role: Potential Customer / Commercial Sales Prospect
+- Projects: Drone-related commercial services inquiry
+- Context: **Active Sales Inquiry** — marked IMPORTANT in multiple emails (Beck Cotter June 8, Maciej June 6–8); responded to by Beck Cotter, Jack Elston, and Paige Smith; suggests construction/infrastructure application for BST drone systems
+- Contact about: Commercial drone services, construction monitoring applications, S0/S2/S3 aircraft capabilities, pricing/delivery timelines
+
+---
+
+## LEGAL & TAX COUNSEL (M&A / DEAL SUPPORT)
+
+### Ko Firm (Primary M&A Counsel)
+
+**Ryan Sykora**
+- Email: rsykora@kofirm.com
+- Role: Ko Firm External Counsel — M&A Lead
+- Projects: **Black Swift M&A / Definitive Agreement** — ongoing post-close coordination
+- Context: **SUSTAINED POST-RESOLUTION COORDINATION** — June 7, 2026 IMPORTANT-flagged emails continuing multi-party legal coordination; listed as primary M&A counsel in deal resolution thread alongside Katten (Bret Diskin, Sholty, Patt), KCO Tax (Mark Kightlinger), and KrateoSky (Sona Raziabeegum)
+- Contact about: M&A agreement execution, post-close coordination, legal documentation, deal closure milestones
+
+### Katten (Secondary M&A Counsel)
+
+**Bret Diskin** (Katten)
+- Email: Not provided
+- Role: Katten Partner/Counsel
+- Projects: **Black Swift M&A** — secondary legal counsel
+- Context: June 7, 2026 IMPORTANT-flagged email "RE: Black Swift: Definitive Agreement Resolution Call" sent to multi-party working group (Ryan Sykora, Ko Firm; Sholty, Patt, Katten colleagues; Mark Kightlinger, KCO Tax; Jack Elston, BST; Sona Raziabeegum, KrateoSky)
+- Contact about: M&A agreement terms, secondary legal review, deal coordination
+
+### KCO Tax (Tax Liability & Indemnity Lead)
+
+**Mark Kightlinger**
+- Email: Mark@kcotax.com
+- Role: KCO Tax — Tax Counsel & Indemnity Lead
+- Projects: **Black Swift M&A Tax Indemnity** — ongoing tax liability management
+- Context: **CRITICAL TAX INDEMNITY PHASE** — June 7, 2026 IMPORTANT-flagged "FW: Black Swift: Definitive Agreement Resolution Call" sent to Ryan Sykora, Brian Baker (independent tax counsel), and Jack Elston; sustained tax-legal integration on deal resolution outputs; visible in post-close coordination through weekend
+- Contact about: Tax indemnity management, post-close tax coordination, deal tax documentation
+
+### Independent Tax Counsel
+
+**Brian Baker** (Full Firm Unknown, Likely M. Baker Tax Law)
+- Email: brian@mbakertaxlaw.com (referenced in Maciej Stachura email patterns)
+- Role: Independent Tax Counsel
+- Projects: **Black Swift M&A** — tax structuring and documentation
+- Context: Listed as recipient in multi-party tax-legal coordination threads (June 6–8, 2026); appears to provide secondary tax opinion/review
+- Contact about: Tax structuring review, indemnity documentation, post-close tax coordination
+
+---
+
+## GOVERNMENT SITE CONTACTS & AIRFIELD OPERATORS
+
+**Ken Jochim** (BAS — Bay Area or Regional Airfield)
+- Email: kjjochim@aol.com
+- Role: BAS Airfield Operator/Manager
+- Projects: Flight test operations at airfield facility
+- Context: Referenced in #flight-testing channel for airfield access and infrastructure coordination; personal engagement (BAS June Club Meeting email June 7, 2026)
+- Contact about: Airfield access permissions, flight test scheduling, facility coordination, infrastructure requests
+
+---
+
+## EXTERNAL CONSULTANTS & TECHNICAL SPECIALISTS
+
+**Nathaniel Hoadley**
+- Company: PTC (Parametric Technology Corporation)
+- Role: CAD/PLM Consultation
+- Projects: General CAD/design tool support across BST projects
+- Context: Sustained consultation partner (visible in Alex Lomis email patterns) for design software and data management
+- Contact about: CAD design support, PLM (Product Lifecycle Management) questions, tool training
+
+---
+
+## MEDIA & COMMUNICATIONS
+
+**Rob Marciano** (External)
+- Role: Media/Video Producer
+- Projects: BST promotional video and media content
+- Context: Referenced in #marketing channel for video production collaboration
+- Contact about: Video production, media content strategy
+
+**WeatherNation** (Media Partner)
+- Role: Media outlet / partnership
+- Projects: Media/promotional collaboration
+- Context: Referenced in #marketing channel
+- Contact about: Media appearances, promotional opportunities
+
+---
+
+## NOTES FOR BST INTERNAL TEAMS
+
+- **High-Priority Escalation:** Ariel Avitan (KrateoSky) and multi-party legal/tax counsel team (Ryan Sykora, Mark Kightlinger, Bret Diskin) require immediate coordination for M&A post-close tax indemnity and deal finalization. Sustained weekend activity indicates

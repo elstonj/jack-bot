@@ -30,10 +30,10 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 29181.25,
+        "amount": 29340.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-07"
+        "last_updated": "2026-06-08"
       },
       "purchases": {
         "amount": 0.0,
@@ -47,13 +47,13 @@
         "confidence": "exact",
         "last_updated": "2026-06-04"
       },
-      "total": 29181.25,
+      "total": 29340.0,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 109312.75,
+    "remaining": 109154.0,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-07T08:52:46Z"
+    "last_reconciled": "2026-06-08T08:54:15Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -80,18 +80,6 @@
       "text": "From Jack (ts=1778249224.812399): <@U0AQE94HJUT> correction: the navy sttr has priority, the SBIR is mostly on schedule"
     },
     {
-      "source": "CORRECTION",
-      "author": "Jack",
-      "date": "2026-05-08",
-      "text": "From Jack: the navy sttr has priority, the SBIR is mostly on schedule"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Jack",
-      "date": "2026-05-08",
-      "text": "From Jack: <@U0AQE94HJUT> correction: the navy sttr has priority, the SBIR is mostly on schedule"
-    },
-    {
       "source": "FEEDBACK",
       "author": "Maciej",
       "date": "2026-06-05",
@@ -104,6 +92,6 @@
       "text": "From Maciej: Yeah, turns out he just wanted to focus on discussing commercial markets moving forward for BST from the industrial plan. Looks like he mainly wants to focus on expanding our non-DOD weather stuff first."
     }
   ],
-  "last_full_rebuild": "2026-06-07T08:52:46Z",
+  "last_full_rebuild": "2026-06-08T08:54:15Z",
   "last_incremental_update": null
 }

@@ -1,15 +1,15 @@
 # Beck Cotter — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 265.5 hours
-- **Primary projects:** Proposals (135.2h), General Operations (130.3h), PTO (16.0h)
+- **Total hours tracked:** 273.5 hours
+- **Primary projects:** Proposals (139.2h), General Operations (134.3h), PTO (16.0h)
 - **Time period covered:** Ongoing tracking with latest batch of 2 entries (8.0h)
 
 ## Project Breakdown
 | Project | Hours | Percentage | Client |
 |---------|-------|-----------|--------|
-| [001-13] Proposals | 135.2 | 51% | [001] IRAD |
-| [001-13] General Operations | 130.3 | 49% | Overhead |
+| [001-13] Proposals | 139.2 | 51% | [001] IRAD |
+| [001-13] General Operations | 134.3 | 49% | Overhead |
 | [001-20] PTO | 16.0 | 6% | — |
 
 ## Recent Activity
