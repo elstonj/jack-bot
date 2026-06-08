@@ -14,7 +14,7 @@
 - **Billing Contact**: Luis Quijada, lcq5@miami.edu
 - **Field Operations Contact**: Nick Underwood (NOAA AOC)
 
-**Important Note**: Per project notes, GPC and UPC are Subject Matter Experts (SME) available to answer non-contractual technical questions. Any technical disagreements or contractual changes must be directed to the Contracting Officer (CO).
+**Important Note**: GPC and UPC are Subject Matter Experts (SME) available to answer non-contractual technical questions. Any technical disagreements or contractual changes must be directed to the Contracting Officer (CO).
 
 ---
 
@@ -22,7 +22,7 @@
 - **Deliver Twelve Field-Ready S0 UAS** — Due: 2024-07-31 | **Completed: 2024-07-29** (2 days early) | Shipped to Nick Underwood at NOAA AOC
 - **Delivery of Two MHTP for use on Altius 600** — Due: 2024-04-30 | **Completed: 2024-08-17**
 - **Conduct 2x Hurricane Field Study** — Due: 2024-11-30 | **Completed: 2024-08-17**
-- **Make 1 Display S0 — Ship to NHC** — Due: 2024-07-10 | **Completed: 2024-07-24** (Nate Straus, then Meredith O'hara Needham for shipment) — Shipped to Mike Brennan, 11691 SW 17th Street, Miami FL 33165
+- **Make 1 Display S0 — Ship to NHC** — Due: 2024-07-10 | **Completed: 2024-07-24** (Nate Straus construction, Meredith O'hara Needham shipment) — Shipped to Mike Brennan, 11691 SW 17th Street, Miami FL 33165
 
 ---
 
@@ -51,7 +51,7 @@
 
 **Final Phase Tasks Completed (July 2024 – August 2024)**:
 - **Ship all S0 units to Nick Underwood at NOAA AOC** (Meredith O'hara Needham, Due: 2024-07-22, Completed: 2024-07-23) — Shipment pickup completed from BST
-- **Make 1 display S0 for BST** (Nate Straus, Due: 2024-07-10, Completed: 2024-07-24) — Display unit constructed and subsequently shipped to NHC
+- **Make 1 display S0 for BST** (Nate Straus, Due: 2024-07-10, Completed: 2024-07-24) — Display unit constructed and subsequently shipped to NHC (Mike Brennan, 11691 SW 17th Street, Miami FL 33165)
 - **QC & final assembly of all 2024 airframes** (Josh Fromm, Due: 2024-07-12, Completed: 2024-07-23) — Final quality control and assembly coordination completed
 - **New GCS (no VGA connector)** (Josh Fromm, Due: 2024-01-26, Completed: 2024-01-31) — Finalized ground control station configuration without VGA connector requirement
 - **Avionics** (Jack Elston, completed 2024-01-30)
@@ -76,6 +76,4 @@
 **Final Deployment Phase (Aug-Oct 2024)**:
 - **Late July 2024**: Shipped 12 S0 UAS units to NOAA AOC (ahead of schedule)
 - **August 2024**: MHTP modules delivered, early hurricane field study operations began
-- **September-October 2024**: Intensive troubleshooting of flight termination logic, HDOB date/time synchronization, wind direction estimation, GCS GPS anomalies, and engine enable problems
-
----
+- **September-October 2024**: Intensive troubleshooting of flight termination logic, HDOB date/time synchronization, wind

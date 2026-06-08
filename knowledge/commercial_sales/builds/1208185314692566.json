@@ -63,11 +63,11 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Academic research project for bathymetry/topography survey of Alaskan north slope lagoons and coastlines using E2 platform with flexible payload (photogrammetry, multispectral, thermal, or lidar). Estimate sent via Slack 2026-05-15 to 2026-05-20; customer decision deadline Aug 30, 2024 (appears to be data-entry error in form). Kept due to substantive recent Slack activity (5/15\u20135/20) coordinating estimate scope and near-term receive_by date (2026-08-31), despite Asana 'No action needed' status.",
+  "notes": "Academic research project for bathymetry/topography survey of Alaskan north slope lagoons and coastlines using E2 platform with flexible payload (photogrammetry, multispectral, thermal, or lidar). Estimate sent via Slack 2026-05-15 to 2026-05-20; customer decision deadline Aug 30, 2024 (data-entry error in form). Kept due to substantive recent Slack activity (5/15\u20135/20) coordinating estimate scope and near-term receive_by date (2026-08-31), despite Asana 'No action needed' status.",
   "missing_fields": [
     "ship_to",
     "estimate_date",
-    "invoice_amount"
+    "estimate_amount"
   ],
   "last_evidence_date": "2026-05-20",
   "last_contact_date": "2026-06-18"

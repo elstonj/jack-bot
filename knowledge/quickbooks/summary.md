@@ -1,5 +1,5 @@
 # BST Financial Overview (QuickBooks)
-**Reporting Period: June 6–7, 2026 | Data Range: April 2024–September 2026**
+**Report Period: 2026-06-07 to 2026-06-08**
 
 ---
 
@@ -7,68 +7,49 @@
 
 | Metric | Amount |
 |--------|--------|
-| **Total Revenue (Invoiced)** | $4,480,070.64 |
-| **Total Expenses** | $2,429,485.38 |
-| **Net Income** | $2,050,585.26 |
+| **Total Revenue (Invoices)** | $4,480,070.64 |
+| **Total Expenses** | $2,430,425.90 |
+| **Net Income** | $2,049,644.74 |
 
 ---
 
 ## By Project/Class
 
-### 1. Government
-| Metric | Amount |
-|--------|--------|
-| **Total Revenue** | $4,462,176.28 |
-| **Total Expenses** | $1,331,088.08 |
-| **Net Position** | $3,131,088.20 |
-| **Active Invoices** | 76 |
-| **Outstanding Balance** | $3,194,865.82 |
+| Project | Total Revenue | Total Expenses | Net Position | Status |
+|---------|----------------|----------------|--------------|--------|
+| **Government** | $4,462,176.28 | $1,331,088.08 | **+$3,131,088.20** | Strong profitability |
+| **BST Internal** | $17,894.36 | $1,099,337.82 | **-$1,081,443.46** | Deficit (cost center) |
 
-**Status:** Strong performance. Government contracts are the primary revenue driver, representing 99.6% of total company revenue.
-
-### 2. BST Internal
-| Metric | Amount |
-|--------|--------|
-| **Total Revenue** | $17,894.36 |
-| **Total Expenses** | $1,098,397.30 |
-| **Net Position** | -$1,080,502.94 |
-| **Transactions** | 3 |
-| **Outstanding PO** | $1,700.00 |
-
-**Status:** Heavily expense-focused (likely R&D, operations, or administrative). Revenue does not offset operational costs. This is typical for internal cost centers.
+**Analysis:** Government projects dominate revenue and profitability. BST Internal operates at significant loss, consistent with internal/overhead functions.
 
 ---
 
 ## Cash Flow Indicators
 
-| Indicator | Amount | Notes |
-|-----------|--------|-------|
-| **Accounts Receivable** | $3,194,865.82 | Government invoices with open balances |
-| **Outstanding Purchase Orders** | $2,532.00 | PO #1038 (Amprius) + Government PO |
-| **Recent Large Expenses** | $940.52 | BST Internal (June 5–18, 2026) |
+### Accounts Receivable (Outstanding Balances)
+- **Government:** $3,194,865.82 remaining across 76 active invoices
+- **BST Internal:** Minimal outstanding collections
+- **Total A/R:** ~$3.2M (collection in progress)
 
-**Key Concern:** $3.2M in outstanding receivables from Government project. Collection timeline should be monitored.
+### Recent Large Expenses
+- **BST Internal:** $940.52 in expenses added June 5–18, 2026
+- **Outstanding Purchase Order:** $1,700.00 (PO #1038 to Amprius, not yet billed)
 
----
-
-## Top Vendors
-*(Data incomplete in provided extract. Government project likely contains major vendor payments.)*
-
----
-
-## Top Customers
-1. **Government** – $4,462,176.28 (99.6% of revenue)
-2. **Internal/Other** – $17,894.36 (0.4% of revenue)
+### Activity Timeline
+- **Data Range:** April 5, 2024 – June 18, 2026 (26+ months)
+- **Total Transactions:** 1,186+ confirmed across both projects
 
 ---
 
-## Unclassified Transactions
-None identified. All transactions assigned to Government or BST Internal classes.
+## Key Observations
+
+✓ **Strong Government Revenue:** $4.46M invoiced with healthy 71% net margin  
+⚠ **Significant A/R Balance:** $3.2M outstanding—monitor collection timeline  
+⚠ **BST Internal Deficit:** Operating costs exceed internal revenue; verify if this is expected (overhead allocation)  
+✓ **Positive Net Position:** Company-wide profitability of ~$2.05M  
 
 ---
 
-## Summary Assessment
-- **Healthy profitability** driven by Government contracts
-- **Revenue concentration risk:** 99.6% from single customer class
-- **Cash flow watch:** Ensure timely collection of $3.2M in outstanding Government invoices
-- **Internal operations:** BST Internal expenses ($1.1M) represent overhead; review for optimization
+## Data Limitations
+
+The P&L report structure provided lacks line-item details for top vendors/customers. Recommend exporting detailed vendor and customer reports from QuickBooks for complete analysis of spending patterns and revenue concentration.
