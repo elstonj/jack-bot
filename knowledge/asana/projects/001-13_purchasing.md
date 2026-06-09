@@ -3,55 +3,57 @@
 ## Overview
 - **Client/customer:** Internal BST purchasing system (serves all active projects)
 - **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across multiple projects
-- **Timeline:** Ongoing operational project; current cycle showing orders due June 7, 2026
-- **Status:** **ACTIVE — FURTHER CONSOLIDATED.** Current dataset shows **4 open tasks** (down from 6 in prior update). All tasks due June 7, 2026. Two tasks previously listed (ARK Electronics #260604 due June 6, jawstec s3 parts #69104 due June 6) **have been removed from Asana**, suggesting closure or external handling.
-  
+- **Timeline:** Ongoing operational project; current orders due June 8, 2026
+- **Status:** **ACTIVE — MAJOR CONSOLIDATION DETECTED.** Current dataset shows **1 open task** (down from 4 in prior update). Prior 4 tasks (all jawstec, all due June 7, 2026) have been **removed from Asana**. Combined with earlier removals (ARK Electronics #260604, jawstec s3 parts #69104), the project has shed 9 of 10 tasks over three update cycles (10 → 6 → 4 → 1). **CRITICAL:** Verify whether June 7 batch was legitimately closed/received or caught by form auto-deletion system.
+
 - **Team members involved:**
-  - **Meredith O'hara Needham** (1/4 open tasks; "Order Placed" status; order placement role; project owner)
-  - **Nate Straus** (3/4 open tasks; all "Order Received" status; receipt/closure verification role)
-  - **Requesters:** Joshua Fromm (4/4 — 100% of requests)
+  - **Meredith O'hara Needham** (1/1 open task; order placement role; project owner)
+  - **Nate Straus** (0/1 open tasks; previously owned 75% of backlog; now absent from current tasks)
+  - **Requesters:** Dan Prendergast (1/1 — new requester; replaces Joshua Fromm who dominated prior cycles at 100%)
 
 - **Risk signals:**
-  - 🔴 **CRITICAL: jawstec #68821 still unresolved — now 18+ days overdue.** Originally due May 20, 2026; form shows "When should this order be placed?: May 20, 2026" with status "Order Received" assigned to Nate. Project field shows only "M" (incomplete/truncated). Marked "MULTIPLE PROJECT - PLEASE PROVIDE BREAKDOWN IN THE DESCRIPTION" but description field contains only "jawstec for multple projects" with no project allocation breakdown. **Requires immediate action:** (1) Verify receipt and acceptance; (2) complete mandatory project allocation breakdown; (3) correct project field in task; (4) close once verified.
-  - ⚠️ **Task removal continues:** Two tasks from prior update (ARK Electronics #260604 due June 6, jawstec s3 parts #69104 due June 6) no longer appear. Total reduction: 10 → 6 → 4 tasks over two update cycles. **Confirm:** Were they closed/received and properly archived, or auto-deleted?
-  - ⚠️ **Form-based auto-deletion system remains active:** Project notes warn "USE THIS FORM PLEASE OR YOUR TASK WILL AUTO DELETE" — ongoing task volatility.
-  - ⚠️ **100% concentration on Joshua Fromm:** All 4 tasks (100%) from single requester — sustained, high-volume request pattern with single approval/request authority.
-  - ⚠️ **Workload imbalance:** Nate owns 75% (3/4) of tasks; Meredith owns 25% (1/4). All three Nate tasks due same date (June 7) with "Order Received" status — suggests batch processing or role overload.
+  - 🔴 **CRITICAL: Dramatic task disappearance — 4 tasks vanished without closure documentation.** Prior cycle had 4 jawstec tasks (all due June 7, 2026, assigned to Nate/Meredith with "Order Received" status). Current cycle shows zero of these tasks. **IMMEDIATE ACTION REQUIRED:** (1) Confirm whether jawstec orders placed June 1–5 were received and properly closed on June 7; (2) verify no auto-deletion occurred; (3) if legitimately closed, archive/document in Asana for audit trail; (4) if auto-deleted by form system, restore and close properly.
+  - 🔴 **PREVIOUSLY UNRESOLVED CRITICAL TASK NOW MISSING:** jawstec #68821 (overdue since May 20, marked "MULTIPLE PROJECT - PLEASE PROVIDE BREAKDOWN") was assigned to Nate with status "Order Received," project field incomplete ("M"), and no project allocation breakdown in description. Task no longer appears. **MUST VERIFY:** Was this task actually received, verified, and properly closed — or was it auto-deleted without resolution?
+  - ⚠️ **Form-based auto-deletion system remains active threat:** Project notes still warn "USE THIS FORM PLEASE OR YOUR TASK WILL AUTO DELETE." Extreme task volatility (10 → 6 → 4 → 1 over three cycles) suggests ongoing auto-purging of improperly submitted or stale tasks.
+  - ⚠️ **Requester shift:** Joshua Fromm (100% of requests in prior cycle) is no longer present. New requester Dan Prendergast introduced with single task. **Investigate:** Is Joshua's volume shift to external processes, or simply not active in current cycle?
+  - ⚠️ **Nate Straus workload drop to zero:** Previously owned 75% of tasks (3/4); now absent from open backlog. **Possible explanations:** (1) Batch closure of June 7 tasks legitimately completed; (2) role rotation or project assignment change; (3) auto-deletion artifact.
 
 ## Key Deliverables & Milestones
 
-### **Current Cycle (June 7, 2026) — 4 Open Tasks**
+### **Current Cycle (June 8, 2026) — 1 Open Task**
 
-**[001-7] IRAD S3 — 3 tasks**
-1. **jawstec for s3 demo (#69038)** | Due June 7, 2026 | Assigned: Nate Straus | Status: Order Received | Tax Exempt: NO | Requester: Joshua Fromm | Order placement date: June 1
-2. **jawstec for s3 / murphys pond (#69060)** | Due June 7, 2026 | Assigned: Nate Straus | Status: Order Received | Tax Exempt: NO | Requester: Joshua Fromm | Order placement date: June 2
-3. **jawstec for s3 parts (#69119)** | Due June 7, 2026 | Assigned: Meredith O'hara Needham | Status: Order Placed | Tax Exempt: YES | Requester: Joshua Fromm | Order placement date: June 5
+**[001-7] IRAD S3 — 1 task**
+1. **uni USB C to Ethernet Adapter** | Due June 8, 2026 | Assigned: Meredith O'hara Needham | Status: Not specified (implied "Order Placed" based on Meredith's typical role) | Tax Exempt: NO | Requester: Dan Prendergast | Vendor/Description: uni USB C to Ethernet Adapter
 
-**[UNRESOLVED — CRITICAL]**
-1. **jawstec for multple projects (#68821)** | Due June 7, 2026 | Assigned: Nate Straus | Status: Order Received | Tax Exempt: YES | Requester: Joshua Fromm | **OVERDUE:** Originally due May 20, 2026 (18+ days past due); Form shows placement date May 20. Project field shows only "M" (truncated/incomplete). **MANDATORY ACTION:** (1) Verify receipt and acceptance; (2) break down by actual project(s) in task description; (3) complete project field; (4) close/archive once verified.
+**[MISSING — PRIOR CYCLE, STATUS UNKNOWN]**
+- **jawstec for s3 demo (#69038)** | Was due June 7, 2026 | Was assigned: Nate Straus | Was status: Order Received | **NOW REMOVED FROM ASANA**
+- **jawstec for s3 / murphys pond (#69060)** | Was due June 7, 2026 | Was assigned: Nate Straus | Was status: Order Received | **NOW REMOVED FROM ASANA**
+- **jawstec for s3 parts (#69119)** | Was due June 7, 2026 | Was assigned: Meredith O'hara Needham | Was status: Order Placed | **NOW REMOVED FROM ASANA**
+- **jawstec for multple projects (#68821 — CRITICAL UNRESOLVED)** | Was due June 7, 2026 (originally May 20) | Was assigned: Nate Straus | Was status: Order Received | Was project field: "M" (incomplete) | **NOW REMOVED FROM ASANA — UNRESOLVED PROJECT ALLOCATION BREAKDOWN REQUIRED**
 
 ## Task Summary
-- **Total tasks:** 4 open, 0 completed in current dataset
-- **Reduction from prior update:** 6 → 4 tasks (33% decrease). Two tasks removed: ARK Electronics #260604 (due June 6, Meredith, "Order Shipped") and jawstec s3 parts #69104 (due June 6, Meredith, "Order Placed"). **Status of removed tasks unknown** — possible closure/archive, auto-deletion, or external handling.
+- **Total tasks:** 1 open, 0 completed in current dataset
+- **Dramatic reduction:** 4 → 1 tasks (75% decrease) between prior and current updates. **All 4 prior tasks (jawstec batch) have vanished without documented closure.**
+- **Cumulative reduction over three cycles:** 10 → 6 → 4 → 1 (90% task shedding). Only 1 task remains active.
 - **By assignee:**
-  - **Nate Straus:** 3/4 tasks (75%) — all "Order Received" status, all due June 7; receipt/closure verification role
-  - **Meredith O'hara Needham:** 1/4 tasks (25%) — "Order Placed" status, due June 7; order placement role
+  - **Meredith O'hara Needham:** 1/1 tasks (100%) — order placement role
+  - **Nate Straus:** 0/1 tasks (0%) — previously owned 75%; now absent from open backlog
 - **By requester:**
-  - **Joshua Fromm:** 4/4 (100%) — sole requester; sustained high-volume purchasing authority
+  - **Dan Prendergast:** 1/1 (100%) — new requester; replaces Joshua Fromm (who was 100% in prior cycle)
+- **By project:**
+  - **[001-7] IRAD S3:** 1/1 tasks (100%)
 - **Custom field patterns:**
-  - **Tax Exempt status:** 2/4 tasks marked YES (jawstec s3 parts #69119, jawstec multple projects #68821); 2/4 marked NO (jawstec S3 demo, jawstec S3 / murphys pond)
-  - **Status distribution:** 1 "Order Placed" (Meredith), 3 "Order Received" (Nate)
-  - **Project distribution:** [001-7] IRAD S3 (3 tasks), MULTIPLE/UNALLOCATED (1 task — #68821 with incomplete project field)
+  - **Tax Exempt status:** 1/1 marked NO
+  - **Project field:** Fully populated for current task
+  - **Requires Approval:** NO
 
 ## Recent Activity
-- **Task removals:** ARK Electronics (#260604) and jawstec s3 parts (#69104) from prior cycle no longer appear. Both were due June 6 and assigned to Meredith. **Status unconfirmed: archived, auto-deleted, or consolidated?**
-- **Nate's workload increased:** Now owns 75% of tasks (up from 50% in prior update); all three tasks due same date with "Order Received" status.
-- **All tasks consolidated to June 7 due date:** Prior cycle had staggered dates (June 4–7); current cycle shows unified June 7 deadline.
-- **jawstec #68821 status unchanged:** Still marked overdue (May 20 original due date, now 18+ days past), still unbroken down by project, still assigned to Nate with "Order Received" status, form project field incomplete ("M" only).
-- **No completion notifications** in current dataset.
+- **Massive task purge:** All 4 jawstec tasks from prior cycle (due June 7, all with "Order Received" status for Nate, all placed June 1–5) have been removed from Asana. **Zero closure documentation visible.** Suggests either: (1) legitimate batch completion on/before June 7; (2) auto-deletion by form system; (3) external system handling.
+- **Critical unresolved task missing:** jawstec #68821 (18+ days overdue as of prior update, incomplete project breakdown, "MULTIPLE PROJECT" flagged) is no longer in Asana. **Status completely unknown.**
+- **Requester transition:** Joshua Fromm (4/4 tasks in prior cycle, 100% of purchasing authority) replaced by Dan Prendergast (1/1 current task). **No indication Joshua's orders were archived or transitioned.**
+- **New order introduced:** uni USB C to Ethernet Adapter (Dan Prendergast, due June 8). Single task assigned to Meredith (order placement), suggesting normal workflow resumption.
+- **Nate's receipt/verification queue cleared:** Nate's 3 tasks (all "Order Received" status, due June 7) are now absent. Either legitimately closed and archived, or caught by auto-deletion.
 
 ## Notes & Context
-- **Form-based task creation & auto-deletion:** All tasks generated via Asana form (link in project notes). System auto-deletes tasks not submitted via form — explains historical task volatility and current ongoing reduction (10 → 6 → 4 over two cycles).
-- **jawstec dependency intensified:** 4/4 open tasks (100%) involve jawstec vendor; all from Joshua Fromm; highly concentrated supply chain for [001-7] IRAD S3 project. No supplier diversification visible in current backlog.
-- **Role clarity confirmed:** Meredith owns order placement (status "Order Placed"); Nate owns order receipt verification (status "Order Received"). Nate's batch processing on June 7 suggests 1–7 day receipt window post-placement (orders placed June 1–5; all due June 7 for receipt verification).
-- **Missing project breakdown — CRITICAL BLOCKER:** jawstec #68821 form shows project field as "M" (truncated/incomplete, likely auto-populated error). Task description contains only "jawstec for multple projects" with no breakdown. Violates form requirement
+- **Form-based task creation & auto-deletion remains unstable:** Project continues to warn "USE THIS FORM PLEASE OR YOUR TASK WILL AUTO DELETE." Current cycle (1 task) vs. prior cycle (4 tasks) shows extreme volatility. **Form submission or task aging may be auto-purging tasks without proper closure.**
+- **Requester concentration has shifted but remains high:** Prior cycle: Joshua Fromm at 100% (4/4). Current cycle: Dan Prendergast at 100% (1/1). **No diversification visible.** If Joshua Fromm

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T08:16:20Z",
-  "total_records": 787,
+  "generated_at": "2026-06-09T08:29:59Z",
+  "total_records": 796,
   "by_project": {
     "0303JELSTON": {
       "count": 1,
@@ -15,8 +15,8 @@
       "total_amount": 0.0
     },
     "_unattributed": {
-      "count": 781,
-      "total_amount": 149153.07
+      "count": 790,
+      "total_amount": 162181.17
     },
     "s2 nasa": {
       "count": 2,

@@ -10,7 +10,7 @@
   - Maciej Stachura (flight control systems — ~40 tasks)
   - Ben Busby (ground station/tablet development — ~35 tasks)
 - **Risk Signals**: 
-  - **Team has officially pivoted to SwiftCore 3.3** — Daniel Prendergast directive: *"For software issues that just adds a task to the SwiftCore 3.3 project like you've always been doing"* (May 14–15, 2026)
+  - **Team has officially pivoted to SwiftCore 3.3** — Daniel Prendergast directive (May 14–15, 2026): *"For software issues that just adds a task to the SwiftCore 3.3 project like you've always been doing. You can keep adding tasks manually if you prefer."*
   - Data staleness (Nov 2023 Asana snapshot vs. May 2026 team directives)
   - Large unmanaged backlog (165 open tasks); zero due dates across entire project
   - No active status updates since November 28, 2023
@@ -48,10 +48,10 @@ All major milestones remain unassigned with no due dates. Listed for historical 
   - Custom field: Priority = Low
 
 ## Recent Activity
-**Team Directive (May 14–15, 2026)** — Daniel Prendergast:
+**Team Directive (May 14–15, 2026)** — Daniel Prendergast (authoritative):
 > "Cool. For software issues that just adds a task to the SwiftCore 3.3 project like you've always been doing. You can keep adding tasks manually if you prefer."
 
-This supersedes the SwiftCore 4.0 project for all new software work.
+**This supersedes SwiftCore 4.0 for all new software work.** Any new features, bug fixes, or enhancements should be created in SwiftCore 3.3, not here.
 
 **Earlier Activity (April 9, 2026)**: Jack Elston completed three tasks:
 - UAVCAN support
@@ -106,5 +106,4 @@ Next-generation autopilot architecture spanning 11+ years of feature development
 - Real-time telemetry visualization with custom plot windows (scalar vs. scalar, zoom/pause/play controls)
 - Graphical flight planning (waypoints, Dubins paths, altitude profiling, LOS calculation)
 - DEM (Digital Elevation Model) integration for terrain mapping (SRTM files, MapBox investigation)
-- Payload control and sensor assignment UI (camera orientation, trigger timing, pulse-to-capture delay, min pulse time, power off time)
-- Wind barbs, system time display, flight notes capture
+- Payload control and

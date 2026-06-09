@@ -11,13 +11,13 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 - Beck Cotter (proposals/planning)
 - Scott and Mark (CEO) from EMASS (external partner)
 - Nikhila (external, ML model training and bench-test app development)
-- Moe (EMASS contact)
+- Moe (EMASS contact, based in Europe)
 - Alex Lomis (flight operations/coordination)
 - Meredith Needham (finance/invoicing)
 - U0151201DMY (infrastructure/web portal team member)
 - U01511MEQ90 (infrastructure/GCS software support)
 
-**Activity Level:** Ongoing active project spanning November 2025 - June 2026+. Real flight testing commenced April 23-24, 2026. EMASS media release planned for first week of May creating hard deadline. Project in critical evaluation phase following flight test results revealing fundamental navigation deficiencies and control stability issues. As of June 3, 2026, project scope being contractually revised to address original milestone deliverables and define additional flight testing and reporting obligations.
+**Activity Level:** Ongoing active project spanning November 2025 - June 2026+. Real flight testing commenced April 23-24, 2026. EMASS media release planned for first week of May creating hard deadline. Project in critical evaluation phase following flight test results revealing fundamental navigation deficiencies and control stability issues. As of June 8, 2026, project nearing conclusion with final analysis of efficiency comparison completed.
 
 ## Key Decisions
 
@@ -77,4 +77,4 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
   3. Insufficient range of flight data to cover all possible flight conditions, risking out-of-distribution
 
 **June 2026:**
-- **June 3
+- **June 3:** Project scope being contractually

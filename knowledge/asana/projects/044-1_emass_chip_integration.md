@@ -3,7 +3,7 @@
 ## Overview
 - **Client/Customer**: EMASS (Commercial customer)
 - **Dollar Value**: $90,000 total funding to Black Swift Technologies
-- **Timeline**: Original November 10, 2025 to January 31, 2026; extended through May 2026 for final validation and reporting
+- **Timeline**: Original November 10, 2025 to January 31, 2026; extended through May 2026 for final validation and reporting. **No firm end date currently set.**
 - **Status**: **🔴 INDEFINITELY POSTPONED — External blocker on EMASS controller delivery.** Per Daniel Prendergast (May 13–14, 2026): "EMASS Validation Flight #2 is postponed indefinitely until they get us a functioning controller." Per Jack Elston (May 12, 2026): "de-prioritize it, but we don't want to drag this out more than a month." **All remaining validation flights and final reporting blocked.**
 - **Team Members**: Dan Prendergast (Owner/Lead), Jack Elston, Maciej Stachura, Nate Straus, Ethan Domagala, Meredith O'hara Needham
 - **Risk Signals**: 
@@ -24,7 +24,7 @@
   - Final Report — **🔴 BLOCKED** *(cannot complete until validation flights are done)*
 
 ## Task Summary
-- **Total Open Tasks**: 5 tasks (0 completed in current snapshot)
+- **Total Open Tasks**: 5 tasks
   - Validation Flight #2 (Dan Prendergast, no due date) — **INDEFINITELY POSTPONED on EMASS controller delivery**
   - Validation Flight #3 (Dan Prendergast, no due date) — **INDEFINITELY POSTPONED on EMASS controller delivery**
   - Final Report (Dan Prendergast, no due date) — **BLOCKED** (cannot complete until validation flights complete)
@@ -43,7 +43,7 @@
 
 ## Recent Activity
 
-**May 13–14, 2026 (AUTHORITATIVE — Daniel Prendergast)**:
+**May 14, 2026 (AUTHORITATIVE — Daniel Prendergast)**:
 - **PROJECT INDEFINITELY POSTPONED ON EMASS CONTROLLER DELIVERY**
 - Quote: "CU IRISS training is complete. EMASS Validation Flight #2 is postponed indefinitely until they get us a functioning controller."
 - Both Validation Flights #2 and #3 cannot proceed.
@@ -83,4 +83,4 @@
 **Key Metrics**: Energy consumption, flight endurance, AI model accuracy, and system responsiveness
 
 **Current Posture**: 
-- BST has delivered Phase 1–4 
+- BST has successfully delivered Phases 1–4

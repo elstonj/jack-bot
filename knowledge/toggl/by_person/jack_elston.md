@@ -1,16 +1,16 @@
 # Jack Elston — Time Tracking
 
 ## Summary
-- Total hours tracked: 12,863.6 hours (cumulative)
-- Primary projects: Project None (7,079.0h), Project 183171534 (2,110.3h), [300-3] 2026 IDIQ (Hurricane) (1,307.3h), Project 154533463 (357.2h), [001-13] General Operations (329.9h)
-- Time period: Extensive historical tracking through current activity (latest batch: 3.5 hours)
+- Total hours tracked: 12,875.8 hours (cumulative)
+- Primary projects: Project None (7,079.0h), Project 183171534 (2,110.3h), [300-3] 2026 IDIQ (Hurricane) (1,307.3h), Project 154533463 (357.2h), [001-13] General Operations (342.1h)
+- Time period: Extensive historical tracking through current activity (latest batch: 12.2 hours)
 
 ## Project Breakdown
-- **Project None**: 7,079.0 hours (55.2% of total)
-- **Project 183171534**: 2,110.3 hours (16.5% of total)
-- **[300-3] 2026 IDIQ (Hurricane) (NOAA)**: 1,307.3 hours (10.2% of total)
+- **Project None**: 7,079.0 hours (55.1% of total)
+- **Project 183171534**: 2,110.3 hours (16.4% of total)
+- **[300-3] 2026 IDIQ (Hurricane) (NOAA)**: 1,307.3 hours (10.1% of total)
 - **Project 154533463**: 357.2 hours (2.8% of total)
-- **[001-13] General Operations (Overhead)**: 329.9 hours (2.56% of total)
+- **[001-13] General Operations (Overhead)**: 342.1 hours (2.66% of total)
 - **Commercial Sales**: 187.3 hours (1.5% of total)
 - **[001-13] BD Pipeline (Overhead)**: 138.9 hours (1.08% of total)
 - **[001-13] Proposals (IRAD)**: 73.5 hours (0.57% of total)
@@ -22,14 +22,16 @@
 - **Remaining projects**: 1,167.6 hours (9.09% of total)
 
 ## Recent Activity
-Most recent work (3.5 hours tracked in current batch):
+Most recent work (12.2 hours tracked in current batch):
 
-- **[001-13] General Operations (Overhead)**: 3.5 hours (100% of batch)
-  - Answering Emails: 3.5 hours
+- **[001-13] General Operations (Overhead)**: 12.2 hours (100% of batch)
+  - Answering Emails: 7.7 hours (4.5h + 3.2h)
+  - KS Paperwork: 4.0 hours
+  - Black Swift Open Items: 0.5 hours
 
 ## Patterns
-- **Executive operations focus sustained**: General Operations continues at 100% of current batch, maintaining consistent operational/administrative baseline
-- **Email management dominant in latest batch**: Current tracking shows shift toward pure email administrative work (3.5h) versus prior batch's mixed CRO meetings (6.0h) and benefits review (1.0h)—indicates lighter executive engagement period with routine email administration taking focus
-- **CRO engagement reduced**: No CRO meeting activity in this batch versus 6.0 hours in previous tracking period—suggests more tactical administrative focus versus strategic planning
-- **Single-project concentration**: Continued narrow focus to [001-13] General Operations aligns with overhead/executive leadership pattern
+- **Executive operations focus sustained**: General Operations remains 100% of current batch, maintaining consistent operational/administrative baseline
+- **Administrative workload increased**: Current batch (12.2h) significantly higher than previous batch (3.5h)—indicates elevated operational demands
+- **Diversified administrative tasks**: Recent tracking shows mix of email management (7.7h), Kansas state paperwork (4.0h), and internal BST open items (0.5h)—broader administrative portfolio than recent period
+- **Email management continues dominant**: Email remains primary time consumer (63% of batch), though now complemented by specific operational tasks (KS paperwork likely related to company licensing/compliance)
 - **Leadership profile maintained**: Consistent allocation to General Operations overhead reflects Jack's COO-level operational and administrative responsibilities at BST
