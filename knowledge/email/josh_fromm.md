@@ -1,39 +1,42 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 806 emails (796 prior + 10 new June 7–8)
-- **Date range:** May 18–June 8, 2026
+- **Total messages scanned:** 862 emails (806 prior + 56 new June 8–9)
+- **Date range:** May 18–June 9, 2026
 - **Daily average:** ~15–17 emails/day (human correspondence); automated/logistics/procurement volume substantial and accelerating
-- **Unread messages:** ~518+ unread (heavy promotional/automated volume; logistics, supplier notifications, Asana task assignments, invoice reminders dominating)
-- **New data period (June 7–8):** 10 emails; **all automated/promotional (no new human correspondence)**
-  - Toggl Track activity tracking notification (1)
-  - Vendor/logistics notifications via Purchasing gateway (6): Spindrift Market shipment, invoice reminders (JawsTec Manufacturing, Account 8xxx4W), Harbor Freight promotions (2), Amazon Health, USPS Informed Delivery
-  - Retail promotions (3): AliExpress, Birdcall restaurant offer
+- **Unread messages:** ~550+ unread (heavy promotional/automated volume; logistics, supplier notifications, Asana task assignments dominating)
+- **New data period (June 8–9):** 56 emails; **47 automated/promotional/logistics; 9 human correspondence**
+  - Human correspondence: Motor Information Request (Jack Elston coordination); REX110 troubleshooting (Daniel Prendergast ↔ Atmolab); MKS Servos USA negotiation (Thomas Cooke); Cases2Go shipment; VertIQ new order confirmation; Meredith Needham out-of-office
+  - Automated/Logistics: FedEx (3), UPS (2), McMaster-Carr (2), Spindrift Market, ARK Electronics, JawsTec, MKS Servos (2), PayPal password reset, USPS Informed Delivery, Asana notifications, eBay, Harbor Freight, TraceParts, Teledyne FLIR (2), and retail promotions (AliExpress, Slack, Hilton Honors, Battery Junction, ELEGOO, Speedway Motors, Bulk Container Express, Protocase, DigiKey)
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-*(All prior contacts remain active; no new human interactions recorded in June 7–8 batch)*
+*(All prior contacts remain active; expanded detail on June 8–9 interactions)*
 
 1. **Jack Elston** (elstonj@blackswifttech.com) — **Primary collaborator**
+   - **NEW:** Motor Information Request forwarded to Josh, Alex Lomis, and Maciej Stachura (June 8, flagged IMPORTANT)
+   - Josh responded same day (June 8, 13:50 MDT)
    - Government programs liaison (Merlin Mk2, US Navy SBIR, UK MOD)
-   - Directly copied on major NOAA multi-stakeholder meeting invitation (Sparv sondes working group; 23+ government/academic participants)
+   - Directly copied on major NOAA multi-stakeholder meeting invitation (Sparv sondes working group)
    - Property Audit coordination with NOAA
 
-2. **Maciej Stachura** (stachura@blackswifttech.com) — **Co-investigator/technical lead**
-   - Directly copied on Sparv sondes meeting (same 23+ person NOAA coordination call)
-   - NOAA program coordination, Arctic Edge 2027
-   - **Note:** Harbor Freight promotion on June 7 addressed to "Maciej" but routed via Purchasing gateway (possible shared procurement account or forwarding)
+2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Technical integration & troubleshooting**
+   - **ESCALATED THREAD:** REX110 Troubleshooting with Atmolab (Jošt Laznik, Jure Dolinar)
+   - Initiated troubleshooting thread (June 8, 14:54 MDT, flagged IMPORTANT)
+   - Multiple rapid exchanges with Atmolab (June 8, 15:44–21:47 UTC) indicating active technical issue resolution
+   - Josh forwarded Cases2Go shipment confirmation to Daniel (June 8, 11:42 MDT)
 
 3. **Meredith Needham** (meredith.needham@blackswifttech.com) — **Procurement/Operations**
-   - **ESCALATED:** 4 exchanges with Lee Skidmore (Rubicon Aerospace) on S0 Fuse Shipping + Upcoming Invoicing (flagged IMPORTANT, all)
-   - **ONGOING:** Engaged with Jeremy Van Vliet (Rubicon) on invoicing timeline (flagged IMPORTANT)
-   - **PRIMARY ROUTING:** High-volume purchasing/vendor notifications continuing (JawsTec, McMaster-Carr, Pirate Ship, USPS, Harbor Freight, FedEx tracking, Amazon, HeliDirect, Baofeng, Speedway Motors, Lenovo, AliExpress)
-   - **Recent additions:** Spindrift Market (shipment tracking); Toggl Track (time tracking integration)
+   - **STATUS:** Out of Office (June 8, 08:41 PDT, auto-reply flagged IMPORTANT)
+   - Josh forwarded "New order for Black Swift" to Meredith (June 8, 09:41 MDT)
+   - **ONGOING:** High-volume purchasing/vendor notifications continuing (JawsTec, McMaster-Carr, MKS Servos USA, FedEx, UPS, Spindrift Market, ARK Electronics, USPS, eBay, Harbor Freight, Battery Junction, ELEGOO, Speedway Motors, Bulk Container Express, Protocase, Teledyne FLIR)
 
-4. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Technical integration & task assignment**
+4. **Maciej Stachura** (stachura@blackswifttech.com) — **Co-investigator/technical lead**
+   - Copied on Motor Information Request forward (June 8)
+   - Sparv sondes and Arctic Edge 2027 coordination
 
 5. **Beck Cotter** (beck.cotter@blackswifttech.com) — **Key collaborator**
    - Arctic Edge 2027 proposal
@@ -42,77 +45,58 @@
 
 7. **Nathaniel Straus** (nate.straus@blackswifttech.com) — **Administrative/facilities role**
 
+8. **Alex Lomis** (alex.lomis@blackswifttech.com) — **Technical/Operations**
+   - Copied on Motor Information Request (June 8)
+   - Appears on ELEGOO promotional routing (June 8)
+
 ---
 
 ### Top External Contacts
 
-#### Government (NOAA Multi-Agency Sparv Working Group)
+#### Government & Strategic Partners
 
 1. **Joe Cione – NOAA Federal** (joe.cione@noaa.gov) — **MAJOR ESCALATION**
-   - **Meeting:** "Sparv - Super Lightweight Sondes (9g)" (Tue Jun 9, 11am–12pm MDT)
-   - **Scope:** 23+ participant multi-agency working group including NOAA Federal, NOAA Affiliates, US Navy, NASA, academic institutions (ERAU, UCSD, Notre Dame, UCAR, FSU), sensor vendors (Sparv Embedded, JAIA), and strategic partners (Strato Solutions, Dragoon)
-   - **Black Swift participants:** Josh Fromm (primary), Maciej Stachura, Jack Elston
-   - **Status:** **CRITICAL** — Lightweight radiosonde platform evaluation/integration. Sparv Embedded core technical partner. Navy + NASA involvement signals operational significance.
-
-2. **Simon Laurence – UK MOD Defence** (Simon.Laurence157@mod.gov.uk)
-   - Merlin Mk2/US Navy SBIR negotiations
-
-3. **Laura Rock – NOAA Federal** (laura.rock@noaa.gov)
-   - Sparv working group participant
-
-4. **Nikolai Pawlenko – NOAA Federal** (nikolai.f.pawlenko@noaa.gov)
-   - Sparv working group participant
-
-5. **Lt Col Matthew A. Swee** (matthew.swee.1@us.af.mil)
+   - **STATUS CHANGE:** "NOAA/Blackswift Monthly" meeting **CANCELED** (June 8, 21:27 UTC, flagged IMPORTANT)
+   - Scheduled meeting: Wed Jun 17, 2026, 11am–11:45am (MDT)
+   - Prior context: 23+ participant multi-agency Sparv sondes working group
+   - **Implications:** Monthly coordination meeting cancellation; may indicate schedule shift or priority reprioritization
 
 ---
 
 #### Manufacturing & Component Suppliers
 
+**CRITICAL ACTIVE STATUS — MKS Servos USA (Motor/Servo Components)**
+
+1. **Thomas Cooke – MKS Servos USA** (Thomas@mksservosusa.com) — **ESCALATED VENDOR (NEW)**
+   - **Subject:** "Servos for Black Swift" (rapid negotiation thread, June 8)
+   - **Activity:** 4 exchanges between Josh and Thomas (11:57–13:06 MDT, all flagged IMPORTANT)
+   - Invoice issued (Invoice #18291, June 8, 11:49 MDT, flagged IMPORTANT)
+   - Order #22540 processed and completed (June 8, 19:05–19:14 UTC, both flagged IMPORTANT)
+   - **Payment:** PayPal payment processed for invoice 18291 (June 8, 11:44 PDT, routed via Purchasing)
+   - **Status:** Active servo/motor procurement for platform assembly
+
 **CRITICAL ACTIVE STATUS — Rubicon Aerospace (S0 Platform Launch Tube)**
 
-1. **Lee Skidmore – Rubicon Aerospace** (lee@rubiconaerospace.com) — **CRITICAL ACTIVE VENDOR**
-   - **Status:** S0 Launch Tube drawing request finalized (June 5); S0 Fuse shipping imminent
-   - **Activity:** Multiple invoice cycles active and coordinated through Meredith Needham
-   - **Urgency:** Flagged IMPORTANT across all exchanges
+2. **Lee Skidmore – Rubicon Aerospace** (lee@rubiconaerospace.com) — **CRITICAL ACTIVE VENDOR**
+   - S0 Launch Tube drawing request finalized (June 5); S0 Fuse shipping imminent
+   - Multiple invoice cycles active
 
-2. **Jeremy Van Vliet – Rubicon Aerospace** (jeremy@rubiconaerospace.com) — **Senior Rubicon Coordinator**
-   - **Joined:** June 5 S0 Launch Tube/invoicing coordination thread
-   - **Role:** Senior-level invoicing and delivery timeline coordination
+3. **Jeremy Van Vliet – Rubicon Aerospace** (jeremy@rubiconaerospace.com) — **Senior Rubicon Coordinator**
+   - Joined June 5 S0 Launch Tube/invoicing coordination thread
 
-**ACTIVE VENDORS — Invoice Activity**
+**ACTIVE VENDORS — Component & Equipment Procurement**
 
-3. **JawsTec Manufacturing LLC** — **Payment due reminder** (June 7)
-   - Active supplier; invoice cycle active
+4. **Chance Rogers – VertIQ** (chance.rogers@vertiq.co) — **NEW VENDOR CONTACT (FLAGGED IMPORTANT)**
+   - Subject: "Re: New order for Black Swift" (June 8, 09:16 EDT, flagged IMPORTANT)
+   - Confirmation of new order placement for Black Swift platform
+   - Josh forwarded this order notification to Meredith Needham (triggering out-of-office response)
+   - **Category:** Unknown from metadata; appears related to platform electrical/control systems based on company profile
 
-4. **Spindrift Market** — **New vendor identified** (June 8)
-   - Shipment tracking active (order SH62373175 out for delivery)
-   - Category unclear; routed through Purchasing gateway
+5. **David Root – Cases2Go** (sales@cases2go.com) — **Equipment/Shipping Cases**
+   - Confirmation #26-102398 (June 8, 13:41 EDT, flagged IMPORTANT)
+   - Josh forwarded to Daniel Prendergast (June 8, 11:42 MDT)
+   - **Status:** Shipping/transport case procurement for equipment
 
----
-
-## Topic Patterns
-- **Government Programs:** Sparv lightweight sondes (NOAA 9g platform working group); Merlin Mk2 (UK MOD, US Navy); Arctic Edge 2027; US Navy SBIR
-- **Manufacturing/Hardware:** S0 Launch Tube drawing + fuse assembly (Rubicon Aerospace — active manufacturing phase); component procurement (tail assemblies, cameras, radio equipment)
-- **Logistics/Procurement:** Accelerating vendor notifications; invoice payment cycles; multi-supplier component sourcing (camera/quick-release plates, radio equipment, motor components, computing hardware)
-- **Time Tracking:** Toggl Track integration (activity/project time logging platform)
-- **Promotional/Automated:** Retail newsletters (AliExpress, Amazon, Harbor Freight, USPS Informed Delivery); restaurant promotions (Birdcall); logistics tracking (Spindrift Market)
-
----
-
-## Communication Patterns
-- **Human correspondence:** No new messages June 7–8 (weekend); last human contact prior to June 7 was June 5–6 (Rubicon coordination, NOAA meeting setup)
-- **Automated volume:** 10/10 messages June 7–8 automated/promotional (100% automated weekend activity)
-- **Procurement mailing:** Continuous high-volume vendor notifications routed to Purchasing gateway; indicates structured purchasing workflow with centralized routing
-- **Invoice cycle:** JawsTec Manufacturing payment reminder (June 7) suggests recurring vendor payment schedules
-- **Activity tracking:** Toggl Track notification flagged IMPORTANT (June 8) — suggests adoption of time-tracking/project logging discipline
-- **Weekend pattern:** Heavy promotional/logistics activity on June 7 (Sunday); all unread
-
----
-
-## Key Relationships
-
-### Closest Internal Collaborators
-1. **Meredith Needham** — Daily/near-daily interaction on procurement, vendor coordination, invoicing
-2. **Jack Elston** — Government program liaison; co-participant in high-level NOAA meeting
-3. **Maciej Stachura** — Technical co-investigator;
+6. **Jošt Laznik & Jure Dolinar – Atmolab** (atmolab.eu) — **NEW EXTERNAL TECHNICAL PARTNER (CRITICAL)**
+   - **Escalation:** REX110 Troubleshooting (flagged IMPORTANT across all exchanges)
+   - Daniel Prendergast initiated troubleshooting thread (June 8, 14:54 MD

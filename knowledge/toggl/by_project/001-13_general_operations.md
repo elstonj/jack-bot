@@ -4,21 +4,24 @@
 - Client: Overhead
 - Active/inactive status: Active
 - Billable status: No (overhead/internal operations)
-- Total hours tracked: 1,164.4 hours (1,160.4 + 4.0)
+- Total hours tracked: 1,180.6 hours (1,164.4 + 16.2)
 
 ## Team Allocation
-- Meredith Needham: 810.3 hours (69.6% of tracked time)
-- Jack Elston: 198.2 hours (17.0% of tracked time)
-- Beck Cotter: 138.3 hours (11.9% of tracked time)
+- Meredith Needham: 810.3 hours (68.6% of tracked time)
+- Jack Elston: 210.4 hours (17.8% of tracked time)
+- Beck Cotter: 142.3 hours (12.0% of tracked time)
 - Dan: 21.2 hours (1.8% of tracked time)
-- Stachura: 10.5 hours (0.9% of tracked time)
 - Ethan Domagala: 14.4 hours (1.2% of tracked time)
+- Stachura: 10.5 hours (0.9% of tracked time)
 - Primary contributor: Meredith Needham
 
 ## Activity Timeline
-Continued core operations with persistent documentation gaps:
 
-**Current batch (4.0 hours)**:
+**Current batch (16.2 hours)**:
+- **Jack Elston** (4.5h): "Answering Emails" — administrative communications
+- **Jack Elston** (3.2h): "Answering Emails" — administrative communications
+- **Jack Elston** (4.0h): "KS Paperwork" — Kansas administrative processing
+- **Jack Elston** (0.5h): "Black Swift Open Items" — internal action items tracking
 - **Beck Cotter** (4.0h): *(no description)* — undocumented entry
 
 **Previous batch (14.2 hours)**:
@@ -29,19 +32,20 @@ Continued core operations with persistent documentation gaps:
 
 ## Insights
 - **Primary work types**: 
+  - Email/administrative communications (Jack Elston: 12.2h, 75% of current batch)
+  - Administrative paperwork/KS compliance (Jack Elston: 4.0h)
+  - Open items tracking (Jack Elston: 0.5h)
   - Core operations/administration (Meredith Needham)
-  - Email/administrative communications (Jack Elston)
-  - Unspecified work (Beck Cotter, Stachura)
+  - Unspecified work (Beck Cotter)
 
 - **Documentation status**:
-  - **Current batch**: 0% compliant (0 of 4.0 hours documented)
+  - **Current batch**: 75% compliant (12.2 of 16.2 hours documented)
   - **Cumulative historical violations**:
-    - Beck Cotter: 138.3 hours undocumented (100% non-compliance)
+    - Beck Cotter: 142.3 hours undocumented (100% non-compliance)
     - Dan: 21.2 hours undocumented (100% of Dan's total)
     - Stachura: 10.5 hours undocumented (100% of Stachura's total)
     - Meredith Needham: 2.3 hours undocumented (0.3% of total)
-  - **Escalating concern**: Documentation discipline has deteriorated further; current batch is entirely undocumented
 
-- **Work pattern**: Meredith Needham maintains steady operational focus with proper documentation; Beck Cotter's involvement continues to increase with zero description compliance; Stachura and Dan remain non-compliant contributors
+- **Work pattern**: Jack Elston has shifted to primary contributor in current batch, focused on email management (7.7h) and administrative processing. Meredith Needham remains steady but less visible in recent entries. Beck Cotter continues non-compliant documentation.
 
-- **Compliance risk**: **Critical escalation needed.** Beck Cotter has logged 8.0 consecutive hours (4.0h + 4.0h) with zero documentation. This represents a pattern requiring immediate managerial intervention to establish accountability and restore documentation standards.
+- **Compliance improvement**: Current batch shows improved documentation (75% vs. 0% prior). However, **Beck Cotter's pattern persists**: 12.0 cumulative consecutive hours now logged with zero documentation, representing ongoing accountability gap requiring managerial intervention.

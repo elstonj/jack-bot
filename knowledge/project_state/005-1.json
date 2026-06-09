@@ -29,7 +29,7 @@
         "amount": 8375.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-08"
+        "last_updated": "2026-06-09"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 6652.24,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-08T08:51:58Z"
+    "last_reconciled": "2026-06-09T09:06:15Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -100,6 +100,6 @@
       "text": "From Jack: \"VTOL-S0\" is not the same as what we usually call \"S0\" or \"S0-AD\""
     }
   ],
-  "last_full_rebuild": "2026-06-08T08:51:58Z",
+  "last_full_rebuild": "2026-06-09T09:06:15Z",
   "last_incremental_update": null
 }

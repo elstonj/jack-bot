@@ -19,10 +19,10 @@
 - **NASA ROSES Call Application**: Completed March 31, 2024
 
 ## Task Summary
-- **Total Tasks**: 0 open, 85+ completed (100% completion rate)
-- **Primary Contributors**: 
+- **Total Tasks**: 0 open, 0 active in Asana (all Phase I work completed and archived)
+- **Primary Contributors** (from Phase I completion):
   - Alex Lomis: Drove most deliverables, regulatory coordination (CALFIRE, CoE), reporting, and presentations
-  - Jack Elston: Flight operations, hardware troubleshooting (battery reporting issues on S01001), flight data collection, Phase II Submission coordination
+  - Jack Elston: Flight operations, hardware troubleshooting, flight data collection, Phase II Submission coordination
   - Maciej Stachura: Algorithm development, BUFR data conversion, UTM pathway research, sampling strategy analysis, NASA ROSES Call Application (March 31, 2024)
   - Josh Fromm: Manufacturing/procurement (G10 fuselages)
 - **Patterns**: Heavy documentation and regulatory focus; significant coordination with external partners; sequential task completion through January leading to February deliverables
@@ -37,7 +37,7 @@
 - **Project archived February 7, 2024** with no further activity planned for Fire UTM Phase I
 
 ## Current Priority Status (May 2026)
-Per Jack Elston (May 8–11, 2026): The Navy STTR has priority over SBIR efforts. This Fire UTM Phase I project is not among BST's current highest-priority initiatives. Maciej Stachura's top five priorities (May 6, 2026) are: (1) S3 IRAD, (2) S0-VTOL, (3) EMASS close-out, (4) By-Lite Mustang, and (5) SBIR Magnetometer.
+Per Jack Elston (May 11, 2026): The Navy STTR has priority; the SBIR is mostly on schedule. This Fire UTM Phase I project is not among BST's current highest-priority initiatives. Maciej Stachura's top five priorities (May 6, 2026) are: (1) S3 IRAD, (2) S0-VTOL, (3) EMASS close-out, (4) By-Lite Mustang, and (5) SBIR Magnetometer.
 
 ## Notes & Context
 This Phase I pilot study demonstrated the value of targeted UAS observations for improving low-level wind and turbulence representation in active wildfire modeling. Key technical achievements included:

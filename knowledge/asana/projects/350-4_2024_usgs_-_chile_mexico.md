@@ -8,7 +8,7 @@
 - **Dollar Value**: $124,230 (total budget and funding to BST)
 - **Contract**: 140G0323P0280
 - **Timeline**: Contract end date August 30, 2025; **DEPLOYMENT DELAYED TO FALL 2026** (originally planned for April 20, 2026)
-- **Status**: **ACTIVE — DELAYED** — Mission deployment originally scheduled for April 20, 2026 has been **postponed to Fall 2026** per Maciej Stachura (April 17, 2026) and Jack Elston (April 20, 2026). **No flight planning, shipping, or mission prep happening soon.** Recent team feedback (May 27–28, 2026) indicates batteries have already been sent to Mexico; customs/import details being clarified.
+- **Status**: **ACTIVE — DELAYED** — Mission deployment originally scheduled for April 20, 2026 has been **postponed to Fall 2026** per Maciej Stachura (April 17, 2026) and Jack Elston (April 20, 2026). **No flight planning, shipping, or mission prep happening soon.** Batteries already shipped to Mexico (May 2026); customs/import details being finalized.
 - **Team Members**: Maciej Stachura (owner/project lead), Jack Elston, Dan Prendergast, Josh Fromm, Nate Straus, Ethan Domagala, Meredith O'Hara Needham
 - **Priority**: Medium (Government customer)
 
@@ -29,17 +29,22 @@
 - **Create photogrammetry footprints** | Dan Prendergast | Asana due: October 1, 2026 | **STALE**
 
 ## Task Summary
-- **Total Tasks**: 1 open (as of current data), 0 completed
+- **Total Tasks**: 1 open, 0 completed
 - **Tasks by Assignee**:
   - **Dan Prendergast**: 1 open task
     - "Operator Manual and Flight CONOPS for AFAC" | Due: June 8, 2026 | ⚠️ **STALE — part of AFAC approval sequence now planned for Fall 2026**
 
-**Note**: New raw data shows only 1 open task (down from 19 in previous knowledge file). This may indicate that many tasks have been archived, completed, or removed from Asana during the timeline delay. Recommend confirming task status with Maciej Stachura.
+**Note**: Only 1 open task currently visible in Asana (down from 19 in previous data). Many tasks may have been archived, completed, or removed during the timeline delay. Recommend confirming active task list with Maciej Stachura.
 
 ## Recent Activity
 - **May 27–28, 2026 (TEAM FEEDBACK — AUTHORITATIVE)**:
-  - **Daniel Prendergast**: Batteries have been shipped to Mexico. Clarifying customs/import details: no ECCN obtained for battery; fees paid as if doing permanent import to Mexico. Dan has email history and may contact customs broker (Javi) to confirm details and clarify with the group.
-  
+  - **Daniel Prendergast**: Batteries shipped to Mexico. Key clarifications provided:
+    - No ECCN (Export Control Classification Number) obtained for the battery
+    - Customs fees paid as if doing permanent import to Mexico
+    - Email history available from Prendergast documenting shipment and import approach
+    - Customs broker Javi may be contacted to confirm import classification and details
+    - Prendergast flagged opportunity to respond to group email chain with clarification on import/customs status
+
 - **April 20, 2026 (TEAM CORRECTIONS — AUTHORITATIVE)**:
   - **Jack Elston**: "Mexico USGS volcano deployment (350-4) is **DELAYED to Fall 2026**. Not departing April 20. **No flight planning, no shipping, no mission prep imminent.** Any Asana tasks referencing an April deployment are stale — ignore them."
 
@@ -55,17 +60,18 @@
   - **Originally planned**: April 20, 2026
   - **Now scheduled**: Fall 2026 (per Maciej Stachura, April 17; Jack Elston, April 20)
   - **Implication**: **ALL spring/summer 2026 task due dates in Asana are stale**; remaining milestones await Fall 2026 timeline confirmation
-  - **Hardware Status**: Batteries already shipped to Mexico (May 2026); customs/import paperwork being finalized
+  - **Hardware Status**: Batteries already shipped to Mexico (May 2026); customs/import paperwork being finalized by Dan Prendergast with customs broker Javi
   
 - **Products/Services**: MHP, Survey Services, Aircraft Rental (via AV3)
 
 - **Key Dependencies**: 
-  - Finalize customs/import documentation for Mexico (batteries, equipment) — Dan Prendergast coordinating with customs broker Javi
+  - Finalize customs/import documentation for Mexico (batteries, equipment) — Dan Prendergast coordinating; no ECCN obtained; permanent import fees paid
   - AFAC flight approvals and operator manual/CONOPS documentation (Dan Prendergast)
   - CENAPED ground permissions for national park
   - Flight, radio, shipping, and import permissions finalization
   
 - **Action Items for Maciej**:
   - Confirm Fall 2026 deployment window and update all task due dates accordingly
-  - Coordinate with Dan Prendergast on customs/import closure and AFAC approvals sequencing
-  - Clarify which of the 19 previously open tasks remain active vs. have been deprioritized/archived
+  - Coordinate with Dan Prendergast on customs/import closure documentation and AFAC approvals sequencing
+  - Clarify which of the previously open tasks remain active vs. have been deprioritized/archived
+  - Determine whether Dan Prendergast should respond to group email chain regarding battery customs/import details

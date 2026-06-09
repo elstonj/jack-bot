@@ -26,19 +26,19 @@
 All invoicing milestones completed and paid; core delivery 26 days past original due date.
 
 ## Task Summary
-- **Total Tasks:** 36 (33 completed, 3 open reference entries)
+- **Total Tasks:** 36 (33 completed, 3 open reference/contact entries)
 - **Completion Rate:** 92% (deliverables complete; follow-up work outstanding)
-- **Tasks by Assignee:**
+- **Open Tasks (3 — Contact/Vendor Reference Records Only):**
+  - Bryan Sparling (ByLight primary contact record)
+  - DSKinetic LLC / Spencer Lisenby (pilot services subcontractor)
+  - Rocky Mountain High Aviation / D. Hesselius (drone pilot subcontractor)
+
+- **Tasks by Assignee (Completed Work):**
   - **Maciej Stachura:** 11 completed (flight testing, analysis, validation)
   - **Ethan Domagala:** 8 completed (fabrication, fuselage design, reporting)
   - **Meredith O'hara Needham:** 4 completed (invoicing/billing tasks for each milestone)
   - **Nate Straus:** 1 completed (final assembly)
   - **Unassigned:** 9 completed (milestones and administrative tasks)
-
-- **Open Tasks (3 — Contact/Vendor Reference Records Only):**
-  - Bryan Sparling (ByLight primary contact record)
-  - DSKinetic LLC / Spencer Lisenby (pilot services subcontractor)
-  - Rocky Mountain High Aviation / D. Hesselius (drone pilot subcontractor)
 
 ## Recent Activity
 - **Project Marked Complete:** 12/31/2025 (26 days past original 12/5 due date)
@@ -55,6 +55,7 @@ All invoicing milestones completed and paid; core delivery 26 days past original
   - **2026-04-30 (Jack):** Confirmed "we still owe 2 more flight opportunities." Customer has SWIL setup ready to test their own DoD autopilot controller; flight data delivered 2026-04-30.
   - **2026-04-30 (Maciej):** **Critical blocker:** "Tell them there won't be any test flights next week or until we get that new fuse so they're aware that it's them causing the delay." Ranked By-Lite **Priority 4** among five active projects. Asked Ethan for status update: "How's the timeline looking for that project? Anything you need extra support on to catch up?"
   - **2026-05-05 (Ethan):** **Timeline extended.** "ByLight project timeline has been extended due to cancellation of a demo in India. The 'yellow version' project has been clarified and asana tasks and timelines have been updated accordingly."
+  - **2026-05-13 & 2026-05-14 (Daniel Prendergast):** Noted CU IRISS training complete. **VALIDATION FLIGHT #2 POSTPONED INDEFINITELY** until customer provides functioning controller.
 
 ## Notes & Context
 - **Project Type:** Long-Range Fixed-Wing Evaluation & DoD Autopilot Enablement (BYL-LRFE)
@@ -67,5 +68,4 @@ All invoicing milestones completed and paid; core delivery 26 days past original
 - **Outstanding Contractual Work (As of May 2026):**
   - **2 additional flight opportunities** still owed to By-Lite per original contract
   - Customer ready to test their own DoD autopilot controller using SWIL setup; flight data provided 2026-04-30
-  - **Critical Blocker (Maciej, 2026-04-30):** New fuselage arrival required before next test flights can be scheduled
-  - **No imminent timeline for resumption:** Delayed by customer equipment delivery (new fuselage); **dependent on By-Lite providing functioning controller and new fuselage**
+  - **VALIDATION FLIGHT #2 POSTPONED INDEFINITELY (Daniel Prendergast

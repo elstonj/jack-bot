@@ -10,7 +10,7 @@
 - **Timeline:** 
   - **PO No. 80NSSC25PC031**
   - **Overall Due: September 30, 2026**
-  - **Funding approved to make end of FY2025**
+  - **Funding approved to complete by end of FY2025**
   - Key Milestones:
     - ⚠️ **April 30, 2026 (design adjustments & parts orders) — STALE/OVERRIDDEN per Maciej (2026-04-27 & 2026-05-04). Nate Straus directed to update Asana to "realistic numbers" post-ByLight meeting and communicate revised schedule to NASA customer immediately.**
     - June 30, 2026 (launcher refurbishment)
@@ -71,4 +71,4 @@
   - Requested Alex Lomis or Josh Fromm lead AI-assisted NASA RFI analysis immediately (https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view).
 
 ## Notes & Context
-- **Product Status:** S
+- **Product:** S

@@ -5,7 +5,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination), Paige Smith (admin), Ethan Domagala (project coordination), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,430+ messages across multiple batches spanning from July 2020 through June 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through June 2026 with project refinements, AI assistant integration, NDAA compliance discussions, operational coordination, formalized post-flight reporting processes, S0 production planning, payload modifications, and organizational structure refinements. Most recent activity (June 4, 2026) reflects discussion cancellations and strategic pivoting toward commercial markets.
+**Activity level:** High-volume channel with 3,430+ messages across multiple batches spanning from July 2020 through June 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through June 2026 with project refinements, AI assistant integration, NDAA compliance discussions, operational coordination, formalized post-flight reporting processes, S0 production planning, payload modifications, and organizational structure refinements. Most recent activity (June 8, 2026) reflects insurance requirement verification for Canada demo operations.
 
 ---
 
@@ -72,4 +72,4 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **May 2026 Status:** Mexico battery shipments documented; customs broker Javi involved in processing. Need to clarify ECCN requirements and import vs. export procedures for future shipments.
 
 ### NDAA Compliance (April 17, 2026)
-**Status
+- Strategic initiative underway to

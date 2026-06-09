@@ -47,7 +47,7 @@
 
 ### By Assignee
 
-| Assignee | Task | Due | Status | Notes |
-|---|---|---|---|---|
-| **Beck Cotter** | Barbados S0 VTOL delivery | 2026-05-22 | ⚠️ CRITICAL | Primary delivery task; crash bug & flight restart blocking. Bench tests overdue/in-progress. **Per Maciej (May 4, 2026): requires realistic due date update post-ByLight meeting.** Training/travel July 1–4. |
-| **Jack Elston** | S0 VTOL handoff meeting | 2026-06-23 | Open | Dependent on Beck's delivery. Ground station asset
+| Assignee | Task Count | Task | Due | Status | Notes |
+|---|---|---|---|---|---|
+| **Beck Cotter** | 1 | Barbados S0 VTOL delivery | 2026-05-22 | ⚠️ CRITICAL | Primary delivery task; crash bug & flight restart blocking. Bench tests overdue/in-progress. **Per Maciej (May 4, 2026): requires realistic due date update post-ByLight meeting.** Training/travel July 1–4. |
+| **Jack Elston** | 1 | S0 VTOL handoff meeting | 2026-06-23 |

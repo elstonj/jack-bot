@@ -6,7 +6,6 @@
 - **Timeline**: Project completed and archived as of January 3, 2024
 - **Status**: **ARCHIVED** — Project successfully completed with all deliverables finished (100% completion rate)
 - **Team members involved**: Jack Elston (Owner), Josh Fromm, Dan Prendergast, Maciej Stachura, Ben Busby, Meredith O'hara Needham, Nate Straus
-- **Risk signals**: None — project completed successfully
 
 **Key Contacts:**
 - **GPC (Government Point of Contact)**: Dr. Joseph Cione, NOAA/AOML/HRD, Miami, FL — joe.cione@noaa.gov, Joseph.J.Cione@OSTP.eop.gov
@@ -76,4 +75,8 @@
 **Final Deployment Phase (Aug-Oct 2024)**:
 - **Late July 2024**: Shipped 12 S0 UAS units to NOAA AOC (ahead of schedule)
 - **August 2024**: MHTP modules delivered, early hurricane field study operations began
-- **September-October 2024**: Intensive troubleshooting of flight termination logic, HDOB date/time synchronization, wind
+- **September-October 2024**: Intensive troubleshooting of flight termination logic, HDOB date/time synchronization, wind estimation refinements
+
+---
+
+## Notes & Context

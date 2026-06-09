@@ -2,19 +2,19 @@
 
 ## Overview
 - **Client/Customer:** Embry-Riddle Aeronautical University (ERAU) — Kevin Adkins, adkinsk@erau.edu, 386.481.9059
-- **Dollar Value:** $20,805.39 (S0 unit to ERAU); **second delivery obligation to Barbados — contract details, dollar value, unit status, and timeline unknown** (per Maciej, April 30, 2026)
+- **Dollar Value:** $20,805.39 (S0 VTOL unit to ERAU); **second delivery obligation to Barbados — contract details, dollar value, unit status, and timeline unknown** (per Maciej, April 30, 2026)
 - **Timeline:** 
-  - Original due date: August 16, 2024 (**20+ months overdue**)
+  - Original project due date: August 16, 2024 (**21+ months overdue**)
   - Custom field due: May 26, 2025 (**stale — does not reflect current technical status**)
   - Expected delivery: Late summer 2026 (per project notes; contingent on crash bug fix and bench test completion)
-  - Training scheduled: June 2025 at BST (**stale; deferred pending S0 delivery and validation**)
-- **Status:** **ACTIVE — SECOND-HIGHEST PRIORITY** (after S3 IRAD per Maciej, April 30, 2026). **SEVERELY DELAYED WITH CRITICAL TECHNICAL BLOCKERS.** S0-VTOL unit remains in active development/troubleshooting with **crash bug investigation and overdue bench tests as primary blockers.** Per Maciej (April 30, 2026), S0-VTOL has "two deliveries for ERAU and Barbados" — **Barbados delivery completely undocumented.**
-- **Team Members:** Alex Lomis (owner/lead, engineering), Jack Elston (delivery coordination), Dan Prendergast (training), Maciej (project coordination/status tracking), U058LGYMEQ0 (bench testing/S0-VTOL troubleshooting lead), U014ZL9FLE9 (crash bug investigation), U01511MEQ90 and U06NQAYBLRK (engineering support, available per workload)
+  - Training scheduled: June 2025 at BST (**stale; deferred pending S0 VTOL delivery and validation**)
+- **Status:** **ACTIVE — SECOND-HIGHEST PRIORITY** (after S3 IRAD per Maciej, April 30, 2026). **SEVERELY DELAYED WITH CRITICAL TECHNICAL BLOCKERS.** S0 VTOL unit remains in active development/troubleshooting with **crash bug investigation and overdue bench tests as primary blockers.** Per Maciej (April 30, 2026), S0 VTOL has "two deliveries for ERAU and Barbados" — **Barbados delivery completely undocumented.**
+- **Team Members:** Alex Lomis (owner/lead, engineering), Jack Elston (delivery coordination), Dan Prendergast (training), Maciej (project coordination/status tracking), U058LGYMEQ0 (bench testing/S0 VTOL troubleshooting lead), U014ZL9FLE9 (crash bug investigation), U01511MEQ90 and U06NQAYBLRK (engineering support, available per workload)
 - **Risk Signals:** 
-  - **CRITICAL: Bench tests overdue/deadline passed as of late April 2026.** Per Maciej (April 30, 2026): Visual Observation Bench Test **overdue** (no completion date); Instrumented Bench Test **due "next Thursday"** (April 30 context; deadline ~May 2, 2026) — **deadline passed as of May 4, 2026; status unknown.** Maciej (May 4) offering support from U01511MEQ90 or U06NQAYBLRK "depending on their workload"
+  - **CRITICAL: Bench tests overdue/deadline passed as of late April 2026.** Per Maciej (April 30, 2026): Visual Observation Bench Test **overdue** (no completion date); Instrumented Bench Test **due ~May 2, 2026** (context: "done by mid next week") — **deadline passed as of May 4, 2026; status unknown.** Maciej (May 4) offering support from U01511MEQ90 or U06NQAYBLRK "depending on their workload"
   - **No response documented from U058LGYMEQ0** on Maciej's April 30 roadblock inquiry ("Any roadblocks on your end for catching up...?") as of May 4, 2026
-  - **ACTIVE CRASH BUG:** Per project notes, S0-VTOL experienced a crash during testing; root cause investigation and fix underway as primary technical blocker; no ETA set
-  - **DUAL DELIVERY OBLIGATION — BARBADOS UNDOCUMENTED:** Per Maciej (April 30, 2026), S0-VTOL has "two deliveries for ERAU and Barbados" — **Barbados delivery is completely undocumented in project records.** Urgent clarification needed on: contract status, dollar value, timeline, unit status, and whether Barbados competes for engineering resources with ERAU
+  - **ACTIVE CRASH BUG:** Per project notes, S0 VTOL experienced a crash during testing; root cause investigation and fix underway as primary technical blocker; no ETA set
+  - **DUAL DELIVERY OBLIGATION — BARBADOS UNDOCUMENTED:** Per Maciej (April 30, 2026), S0 VTOL has "two deliveries for ERAU and Barbados" — **Barbados delivery is completely undocumented in project records.** Urgent clarification needed on: contract status, dollar value, timeline, unit status, and whether Barbados competes for engineering resources with ERAU
   - **OWNERSHIP VACUUM ON LOGISTICS:** 4 of 5 delivery tasks unassigned (Ship, Verify Payment, Close Project) with no due dates; Jack Elston assigned "Final due date for delivery" but has not set a date — **blocking all downstream logistics and customer communication**
   - **NDAA Compliance incomplete:** Per Alex Lomis (April 17, 2026), S0 VTOL "can be" NDAA compliant but is not "_fully_ NDAA compliant yet"
   - **NAMING CLARIFICATION (May 26, 2026):** Per Jack Elston, "VTOL-S0" is not the same as what BST usually calls "S0" or "S0-AD" — clarify internal product nomenclature to avoid confusion with other S0 variants
@@ -40,14 +40,14 @@
   - Verify Payment from ERAU — Unassigned
   - Close Project — Unassigned
 
-### S0-VTOL Crash Bug Investigation & Fix
-- **Context:** Unit experienced crash during testing; one of 4 primary technical milestones for S0-VTOL recovery (per project notes)
+### S0 VTOL Crash Bug Investigation & Fix
+- **Context:** Unit experienced crash during testing; one of primary technical blockers for S0 VTOL delivery (per project notes)
 - **Team:** U058LGYMEQ0, U014ZL9FLE9
 - **Status:** Active investigation as of April 20, 2026; no due date set; no ETA provided as of May 4, 2026
 - **Priority:** Critical blocker for ERAU delivery
 
 ### Barbados Delivery (Second Delivery Obligation — URGENT CLARIFICATION REQUIRED)
-- **Status:** Per Maciej (April 30, 2026), S0-VTOL has "two deliveries for ERAU and Barbados"
+- **Status:** Per Maciej (April 30, 2026), S0 VTOL has "two deliveries for ERAU and Barbados"
 - **Documentation:** **COMPLETELY ABSENT from project records.** No contract info, dollar value, timeline, unit status, or allocation details documented
 - **Action Required:** Urgent inquiry to Maciej, Alex Lomis, or project team to establish: (1) Barbados contract status and terms; (2) delivery timeline relative to ERAU; (3) whether unit is separate or shared with ERAU delivery; (4) resource/engineering impact on ERAU delivery timeline; (5) customer/billing contact for Barbados
 

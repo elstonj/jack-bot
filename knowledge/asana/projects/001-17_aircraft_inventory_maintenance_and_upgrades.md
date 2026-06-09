@@ -30,8 +30,9 @@
 - **Notable patterns:** Heavy use of unassigned tasks suggests batch/team-wide work; platform naming convention (S2X, E2X, FWX) tracks distinct aircraft families; extensive parts ordering and assembly work indicates inventory management focus
 
 ## Recent Activity
+
 **Workflow Evolution & Post-Flight Issue Management (May 2026):**
-- Daniel Prendergast established a standardized post-flight issue reporting form (May 8–11, 2026) that automatically routes aircraft and equipment issues to the **"Fleet Maintenance" Asana Project** for hardware issues, or other relevant projects. This form is now part of standard BST post-flight procedures and supersedes task tracking within this archived project.
+Daniel Prendergast established a standardized post-flight issue reporting form (May 11, 2026) that automatically routes aircraft and equipment issues to the **"Fleet Maintenance" Asana Project** for hardware issues, or other relevant projects. This form is now part of standard BST post-flight procedures and supersedes task tracking within this archived project.
 
 **Final project completion (2025):**
 - S20009 platform completed by Nate Straus (Dec 17, 2025)
@@ -54,6 +55,7 @@
 - 2018: Initial Flamewheel laser altimeter installation
 
 ## Notes & Context
+
 **Project scope:** Comprehensive multi-rotor aircraft development and maintenance spanning 7+ years, covering:
 - **Software development:** Multi-rotor estimator code with simulation and flight test validation (concluded Jan 2021)
 - **Hardware platforms:** Four distinct aircraft families (S2, E2, Flamewheel, EGO-I) with iterative builds and upgrades

@@ -2,36 +2,39 @@
 
 ## By Product/System
 
-### S0-AD UAS
-- **Expendable Sonobuoy-Launched Unmanned Aerial Vehicle for ASW Cued Search, Detection, Tracking, and Classification** | U.S. Navy | May 29, 2026 | Phase I Option progress update for Navy SBIR N251-016 (2026-05-29_meeting.md)
-
-### Bartington UAS-MAG Sensor
-- **Expendable Sonobuoy-Launched Unmanned Aerial Vehicle for ASW Cued Search, Detection, Tracking, and Classification** | U.S. Navy | May 29, 2026 | Phase I Option progress update featuring magnetometer sensor integration (2026-05-29_meeting.md)
-
-### QuSpin Magnetometer
-- **Expendable Sonobuoy-Launched Unmanned Aerial Vehicle for ASW Cued Search, Detection, Tracking, and Classification** | U.S. Navy | May 29, 2026 | Phase I Option progress update featuring QuSpin sensor integration (2026-05-29_meeting.md)
-
----
+### S0 Air-Deployed UAS
+- **S0 UAS System Integration v2** – NOAA, USAF, USSOCOM, UK MoD – Technical Integration Reference for host-aircraft integration covering WP-3D Orion deployment, USAF Phase integration, CRADA framework, and UK Royal Navy applications (s0_uas_system_integration_v2.md)
 
 ## By Client/Agency
 
-### U.S. Navy
-- **Expendable Sonobuoy-Launched Unmanned Aerial Vehicle for ASW Cued Search, Detection, Tracking, and Classification** | Navy SBIR N251-016 | May 29, 2026 | Phase I Option progress update on expendable UAS for anti-submarine warfare operations (2026-05-29_meeting.md)
+### NOAA
+- **S0 UAS System Integration v2** – WP-3D Orion operational baseline integration for atmospheric reconnaissance (s0_uas_system_integration_v2.md)
 
----
+### USAF/AFRC (US Air Force Reserve Command)
+- **S0 UAS System Integration v2** – 53rd Weather Reconnaissance Squadron integration under AFX255-DPCSO1 Direct-to-Phase program (s0_uas_system_integration_v2.md)
+
+### USSOCOM (US Special Operations Command)
+- **S0 UAS System Integration v2** – Cooperative Research and Development Agreement (CRADA) framework integration (s0_uas_system_integration_v2.md)
+
+### UK MoD / Royal Navy
+- **S0 UAS System Integration v2** – Proposed maritime reconnaissance integration for UK Royal Navy operations (s0_uas_system_integration_v2.md)
 
 ## By Application Area
 
-### Anti-Submarine Warfare (ASW)
-- **Expendable Sonobuoy-Launched Unmanned Aerial Vehicle for ASW Cued Search, Detection, Tracking, and Classification** | U.S. Navy | May 29, 2026 | UAS launched from sonobuoys for ASW cued search, detection, tracking, and classification (2026-05-29_meeting.md)
+### Atmospheric Reconnaissance & Weather Operations
+- **S0 UAS System Integration v2** – WP-3D Orion deployment for NOAA atmospheric sampling and USAF reconnaissance missions (s0_uas_system_integration_v2.md)
 
----
+### Maritime Operations
+- **S0 UAS System Integration v2** – UK Royal Navy maritime reconnaissance applications (s0_uas_system_integration_v2.md)
+
+### Special Operations
+- **S0 UAS System Integration v2** – USSOCOM CRADA integration framework (s0_uas_system_integration_v2.md)
 
 ## By Document Type
 
-### Meeting Presentations / Progress Updates
-- **Expendable Sonobuoy-Launched Unmanned Aerial Vehicle for ASW Cued Search, Detection, Tracking, and Classification** | U.S. Navy | May 29, 2026 | Navy SBIR Phase I Option progress meeting presentation (2026-05-29_meeting.md)
+### Technical Integration References / Engineering Specifications
+- **S0 UAS System Integration v2** – Host-aircraft integration specifications and multi-agency deployment frameworks (s0_uas_system_integration_v2.md)
 
 ---
 
-**Note:** Only one document provided. Catalog will expand as additional BST proposals, reports, and technical documents are added.
+**Note:** This catalog currently contains one document. Additional documents may be added as they are provided.

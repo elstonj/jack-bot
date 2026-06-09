@@ -1,122 +1,95 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 575 emails (568 prior + 7 new from 7–8 Jun 2026)
-- **Date range:** 18 May – 8 Jun 2026 (22 days)
-- **Approximate volume:** **Sustained critical operational tempo maintained.** 7–8 Jun shows continued ambient promotional/logistics noise only (no new operational signal). Administrative/promotional emails remain ~97% of raw count; operational signal concentrated in 5 Jun window with no escalation or new threads observed in latest batch.
+- **Total messages scanned:** 611 emails (575 prior + 36 new from 8–9 Jun 2026)
+- **Date range:** 18 May – 9 Jun 2026 (23 days)
+- **Approximate volume:** **Sustained critical operational tempo with Monday 8 Jun operational spike.** Post-weekend surge (36 messages on 8 Jun alone) driven by ~80% automated logistics/vendor notifications; ~20% operational signal concentrated in government coordination and internal technical troubleshooting threads.
 
 ---
 
 ## Key Correspondents
 
-### Internal — Government/Military Project Leads (SUSTAINED)
-- **Jack Elston** (elstonj@blackswifttech.com) — **SUSTAINED:** S0 MAD thread coordination
-- **Maciej Stachura** (stachura@blackswifttech.com) — **SUSTAINED:** S0 MAD thread coordination
-- **Dan Prendergast** (via Asana) — **SUSTAINED:** Task assignment authority
-- **Spencer Hoehl** (via Asana) — **SUSTAINED:** VTOL platform access control requests (BARBADOS & ERAU variants)
+### Internal — Government/Military Project Leads (SUSTAINED + NEW SIGNAL)
+- **Jack Elston** (elstonj@blackswifttech.com) — **ESCALATED:** New S0 COTS WAIVER thread (9 Jun 00:11); multi-party coordination with Maciej Stachura, Beck Cotter, Dan Prendergast, Alex Lomis
+- **Maciej Stachura** (stachura@blackswifttech.com) — **SUSTAINED:** S0 MAD/COTS WAIVER coordination
+- **Dan Prendergast** (daniel.prendergast@blackswifttech.com) — **ESCALATED:** REX110 technical troubleshooting thread (8 Jun 14:54–21:47); now directly interfacing with external vendor Atmolab
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — **NEW SIGNAL:** Appears on S0 COTS WAIVER thread (9 Jun 00:11); previously not visible in correspondence pattern
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — **NEW SIGNAL:** Motor Information Request thread (8 Jun 13:31–13:50); routed via Jack Elston
 
-### External — Government/Military (SUSTAINED)
-- **Eric D. Correa-Matos (CIV USN COMNAVAIRSYSCOM PAX)** — **SUSTAINED:** S0 MAD coordination
-- **Angel R. Ruiz-Reyes (CIV USN NAWCAD)** — **SUSTAINED:** Navy technical authority for S0 MAD integration
-- **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — **SUSTAINED:** UK MOD stakeholder
+### External — Government/Military (SUSTAINED + NEW CONFIRMATION)
+- **Angel R. Ruiz-Reyes (CIV USN NAWCAD)** — **CONFIRMED ACTIVE:** RE: S0 - MAD update (8 Jun 14:40); maintains direct coordination with Maciej Stachura on MAD project progression
 
-### External — Manufacturing & Component Vendors (SUSTAINED SCALING)
+### External — Manufacturing & Component Vendors (MAJOR SCALING)
 
-**JawsTec Manufacturing LLC** — **CRITICAL SUSTAINED PAYMENT CYCLE:**
-- **NEW SIGNAL (7 Jun 15:13):** Payment reminder notification received (routed via purchasing@blackswifttech.com)
-- Prior concurrent invoices 69104 & 69119 (4–5 Jun) remain in payment tracking
-- **Pattern escalation:** Payment reminders now appearing on weekend cycle; suggests accounts payable processing lag or recurring cash flow management issue
-- **Implication:** Manufacturing throughput remains active; payment cycle becoming more visible in procurement workflow
+**JawsTec Manufacturing LLC** — **SHIPMENT CONFIRMATION (8 Jun 19:11):**
+- **NEW SIGNAL:** "Your order from JawsTec is on its way!" notification received
+- **Pattern shift:** Payment cycle (5–7 Jun invoices 69104 & 69119) now transitioned to shipment phase
+- **Implication:** Manufacturing output entering delivery/logistics phase; suggests prior invoices cleared or in-flight payment processed
 
-**McMaster-Carr** — **SUSTAINED ORDER VELOCITY** (no new signal in latest batch)
+**McMaster-Carr** — **ORDER VELOCITY ACCELERATION:**
+- **NEW SIGNAL (8 Jun 16:40–16:45):** June 8th order confirmation + certificates & tracking notification (dual messages)
+- **Pattern:** Order placed and fulfilled same-day; indicates high-velocity supply chain for standard components
 
-**GetFPV** — **ACTIVE ENGAGEMENT** (no new signal in latest batch)
+**MKS Servos USA** — **NEW VENDOR ENTRY - CRITICAL PAYMENT ACTIVITY:**
+- **NEW SIGNAL (8 Jun 11:43–19:05):** 
+  - PayPal password reset initiated (11:43)
+  - PayPal payment to MKS Servos USA for invoice 18291 completed (11:45)
+  - Order #22540 processed notification (19:05)
+  - Order #22540 completion confirmation (19:14)
+- **Context:** Servo motors are actuators for VTOL/robotic platforms; payment routed via PayPal (non-traditional vendor payment pathway)
+- **Implication:** New or escalated servo supply relationship; PayPal credential reset suggests account compromise risk or security protocol update
 
-**Protolabs** — **PRODUCTION TOOLING PHASE** (no new signal in latest batch)
+**ARK Electronics** — **NEW VENDOR - ORDER DELIVERED (8 Jun 23:02):**
+- **NEW SIGNAL:** Delivery confirmation for electronics order
+- **Pattern:** Electronics vendor likely supporting S0 IRAD or platform build phase
 
-**Synopsys** — **ELECTRONICS/FIRMWARE DESIGN PHASE** (no new signal in latest batch)
+**Protocase** — **NEW VENDOR - ONBOARDING (8 Jun 14:01):**
+- **NEW SIGNAL:** "Welcome to the Protocase family!" message
+- **Service:** Custom enclosures/casings; likely supporting prototype or production housing
+- **Implication:** New manufacturing/assembly phase requiring custom mechanical integration
 
-**Nathaniel Hoadley (PTC)** — **SUSTAINED:** CAD/PLM consultation
+**GetFPV, Protolabs, Synopsys** — **No new signal in 8–9 Jun batch** (prior activity sustained at baseline)
 
-### External — Logistics/Tracking (SUSTAINED)
-- **USPS Informed Delivery** — Daily digest continues (7 Jun 13:19); sustained inbound shipping monitoring
-- **Pirate Ship** — Shipping label purchases (sustained logistics support)
-- **Spindrift Market** — **NEW VENDOR/SHIPPER (7–8 Jun):** Shipment delivery notification (order SH62373175 out for delivery); indicates new or infrequent order pathway
+### External — Logistics/Tracking (SUSTAINED EXPANSION)
+- **FedEx Tracking** — **SUSTAINED:** Multiple shipments tracked (872802932852 with 3 status notifications on 8 Jun 16:29, 16:32, 9 Jun 01:46)
+- **UPS** — **SUSTAINED:** Package delivery notifications (3 messages on 8 Jun; multiple days)
+- **USPS Informed Delivery** — **SUSTAINED:** Daily digest (8 Jun 14:01)
+- **Spindrift Market** — **SUSTAINED:** Delivery confirmation (8 Jun 21:47)
+- **Eco-Cycle** — **NEW VENDOR:** Invoice 271771 received (8 Jun 17:11); recycling/disposal services vendor
 
-### External — Promotional/Ambient (SUSTAINED LOW SIGNAL)
-- **Harbor Freight, Amazon Health, USPS, Spindrift Market** — Weekend promotional batch (7 Jun 10:43–17:02); ambient newsletters
-- **Distribution pattern:** All routed to **purchasing@blackswifttech.com** gateway; Alex receives selective forwarding only
+### External — Technical Support (NEW CATEGORY)
+- **Jošt Laznik & Jure Dolinar (Atmolab)** — **NEW SIGNAL:** REX110 troubleshooting thread (8 Jun 14:54–21:47); 4 messages exchanged across 7-hour window
+  - **Project context:** REX110 appears to be environmental sensing or measurement system
+  - **Collaboration mode:** Dan Prendergast serving as primary BST technical contact; Atmolab providing vendor-side diagnostics
+  - **Thread urgency:** IMPORTANT flag applied; rapid back-and-forth suggests production/deployment blocker
+
+### External — Promotional/Ambient (SUSTAINED - HIGH VOLUME)
+- **Harbor Freight, eBay, ELEGOO US, Battery Junction, Speedway Motors, Protocase** — Weekend/Monday promotional cluster (8 Jun 06:28–17:18); all routed via purchasing@
 
 ---
 
 ## Topic Patterns
 
-### Active Project Codes (Government/Classified)
+### Active Project Codes (Government/Classified - EXPANDED)
 
-**S0 MAD** — **PRIMARY PROJECT - SUSTAINED COORDINATION:**
-- No new threads visible in 7–8 Jun batch; prior 5 Jun coordination complete
-- JawsTec invoices remain in payment cycle (supporting underlying hardware builds)
+**S0 COTS WAIVER** — **NEW THREAD - HIGH PRIORITY (9 Jun 00:11):**
+- **Parties:** Jack Elston, Maciej Stachura, Beck Cotter, Dan Prendergast, Alex Lomis
+- **Signal:** "Re:" indicates ongoing discussion; waiver request suggests procurement challenge or compliance/specifications deviation
+- **Implication:** Commercial-off-the-shelf (COTS) component sourcing hitting regulatory/specification gate; waiver coordination escalated to multi-stakeholder level
 
-**BARBADOS VTOL S0** — **OPERATIONAL ASSET - TRAINING/TEST PLATFORM** (no new signal)
+**S0 MAD** — **SUSTAINED - NAVY STAKEHOLDER CONFIRMATION (8 Jun 14:40):**
+- Ruiz-Reyes (NAWCAD) responding to MAD update via Maciej Stachura; coordination cadence remains active
+- No escalation or change in project phase visible
 
-**ERAU VTOL S0** — **OPERATIONAL ASSET - UNIVERSITY PARTNERSHIP TEST SITE** (no new signal)
+**REX110** — **NEW PROJECT - TECHNICAL CRISIS MODE (8 Jun 14:54–21:47):**
+- **Context:** External vendor (Atmolab) providing troubleshooting support
+- **Urgency:** IMPORTANT flag; rapid 7-hour diagnostic exchange suggests time-critical production dependency
+- **Role clarity:** Dan Prendergast as primary technical interface; suggests REX110 feeds into larger BST system (possibly environmental/atmospheric sensor for S0 or parallel program)
+- **Vendor maturity:** Atmolab (Austria-based instrumentation vendor) indicates precision measurement/environmental sensing application
 
-**S3 IRAD** — **BUILD PHASE - PRODUCTION TRANSITION** (no new signal; prior manufacturing activity ongoing)
+**Motor Information Request** — **NEW QUERY - VTOL PLATFORM OPTIMIZATION (8 Jun 13:31–13:50):**
+- **Parties:** Jack Elston, Joshua Fromm, Alex Lomis, Maciej Stachura
+- **Context:** Motor specs/performance data request; likely supporting BARBADOS or ERAU VTOL S0 platform optimization or scaling
+- **Signal:** Routed through Jack Elston (project lead); suggests design review or performance validation phase
 
----
-
-## Communication Patterns
-
-### Time Patterns
-- **5 Jun window:** Concentrated operational activity (now historic; no escalation in follow-up)
-- **6–8 Jun:** Silent on operational threads; weekend promotional/logistics only (no new government contact, vendor communication, or task assignments)
-- **Weekend activity:** 7–8 Jun (Sat–Sun) shows only automated promotional/logistics digests; operational tempo remains dormant through latest scan
-
-### Mailing List & Group Participation
-- **Asana task notifications:** No new assignments in 7–8 Jun batch
-- **S0 MAD multi-party thread:** Sustained weekly cadence (no new messages in latest batch)
-- **Purchasing gateway consolidation:** All new messages routed via **purchasing@blackswifttech.com**; pattern confirms selective forwarding model remains active
-
-### Newsletter/Automated Patterns
-- **USPS Informed Delivery:** Daily digests (7 Jun 13:19); consistent tracking
-- **Vendor promotional:** Harbor Freight (2x, 7 Jun 10:43 & 13:24), Amazon Health (7 Jun 10:43), Spindrift Market (8 Jun 07:40) — weekend/Monday AM clustering
-- **Component vendors:** Ambient low-signal promotions; no new operational orders visible in headers
-
----
-
-## Key Relationships
-
-### Closest Internal Collaborators (by operational authority)
-1. **Jack Elston & Maciej Stachura** — Co-leads on S0 MAD government thread; sustained multi-day coordination (no new contact in 7–8 Jun batch)
-2. **Dan Prendergast** — Asana task assignment distribution; project execution authority
-3. **Spencer Hoehl** — Incoming test/pilot personnel; requesting VTOL platform access from Alex
-
-### External High-Priority Relationships
-1. **Navy Technical Chain (COMNAVAIRSYSCOM, NAWCAD)** — Government stakeholders; S0 MAD integration authority (no new contact in latest batch)
-2. **UK MOD (Simon Laurence)** — International military stakeholder (no new contact in latest batch)
-3. **JawsTec Manufacturing** — Critical vendor; payment cycle now entering weekend notification phase
-4. **GetFPV (Chloe)** — Escalated sales contact on FPV components/R&D
-
----
-
-## Notable Observations
-
-### Operational Hiatus Pattern
-- **5 Jun was operational peak; 6–8 Jun shows complete silence on government, manufacturing, and internal project coordination threads.** No new S0 MAD messages, no new task assignments, no direct vendor communications. **Suggests either:**
-  - End-of-week/end-of-cycle handoff completed; next operational phase awaiting approval/gate
-  - Sustained coordination may be shift-based or embedded in Asana/internal systems (email is only transmission layer captured)
-  - Weekend operational freeze (common in government contracting); resumption expected Monday 9 Jun
-
-### JawsTec Payment Cycle Escalation
-- **Payment reminder now visible in email stream (7 Jun 15:13)** — prior reminders were direct communications; now routed through purchasing@ gateway
-- **Concurrent invoices 69104 & 69119 remain unpaid as of 7 Jun** — suggest 72-hour payment processing window (invoiced 4–5 Jun, reminder sent 7 Jun)
-- **No signal of payment completion yet;** cash flow management requires monitoring if this pattern continues
-
-### New Vendor Signal: Spindrift Market
-- **First appearance (8 Jun 07:40):** Shipment delivery notification for order SH62373175
-- **Context:** Routed via purchasing gateway; likely low-touch procurement (not government-related)
-- **Implication:** Supply chain diversification or one-off component sourcing; insufficient data to assess operational relevance
-
-### Email Routing Consolidation Holding
-- **All new messages (100%) routed to purchasing@blackswifttech.com** — confirms selective forwarding model remains in place
-- **Alex receives no direct promotional emails;** purchasing department handling promotional digest filtration
+**BARBADOS VTOL S0 & ERAU VTOL S0** — **No new direct signal** (prior activity remains baseline; Motor Information

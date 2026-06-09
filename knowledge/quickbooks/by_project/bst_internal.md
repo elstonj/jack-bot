@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $1,099,337.82 *(+$940.52 from June 5–18, 2026)*
+- **Total Expenses (Bills + Purchases)**: $1,100,278.34 *(+$940.52 from June 5–18, 2026)*
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,081,443.46 (expenses exceed revenue significantly)
+- **Net Position**: -$1,082,383.98 (expenses exceed revenue significantly)
 - **Date Range**: April 5, 2024 – June 18, 2026 (26+ months)
-- **Transaction Count**: 1,186 *(all confirmed)*
+- **Transaction Count**: 1,189 *(all confirmed)*
 
 ---
 
@@ -42,8 +42,8 @@ No new transactions in June 5–18 period in this category.
 
 ---
 
-### IRAD Indirect R&D (Subcontractors & Internal): $81,753.68
-**Total: $81,753.68** | **68 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; Matthew Crabtree R&D Assembly $4,954.00; MicroFirm Engineering $6,257.60**
+### IRAD Indirect R&D (Subcontractors & Internal): $82,407.04
+**Total: $82,407.04** | **71 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; Matthew Crabtree R&D Assembly $4,954.00; MicroFirm Engineering $6,257.60**
 
 **Previously Confirmed Transactions (June 2–4, 2026):**
 - Purchase #SW46G546: $809.58 — S3 IRAD purchase
@@ -52,7 +52,7 @@ No new transactions in June 5–18 period in this category.
 - Purchase #69038: $140.59 (June 11) — S3 IRAD shipment to Sean Cole
 - Purchase #260604: $235.98 (June 4) — ARK 4IN1 ESC (Electronic Speed Controller)
 
-**New Confirmed Transactions (June 5–11, 2026):**
+**Confirmed Transactions (June 5–11, 2026):**
 
 **Purchase #0604JELSTON**: $165.46 (June 5, 2026)
 - **Account**: [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]
@@ -89,7 +89,7 @@ No new transactions in June 5–18 period in this category.
 **Previously Confirmed Transactions (June 4, 2026):**
 - Purchase #PIRATE SHIP * POSTAGE - 7333: $55.44 — Lee Skidmore shipment to BTS for S3 Sales
 
-**New Confirmed Transactions (June 5, 2026):**
+**Confirmed Transactions (June 5, 2026):**
 
 **Purchase**: $66.37 (June 5, 2026)
 - **Account**: [SALES & MARKETING]
@@ -105,8 +105,8 @@ No new transactions in June 5–18 period in this category.
 
 ---
 
-### Inventory Asset (S3 Sales & S2 Production Scaling): $4,414.68
-**Total: $4,414.68** | **17 transactions** | **Largest: S3 sales components (June 18)**
+### Inventory Asset (S3 Sales & S2 Production Scaling): $4,875.47
+**Total: $4,875.47** | **19 transactions** | **Largest: S3 sales components (June 18)**
 
 **Previously Confirmed Transactions (June 3–4, 2026):**
 - Purchase #1083722: $907.80 (June 3) — E+E EE03 OEM Humidity/Temperature Module x4
@@ -193,4 +193,4 @@ No new transactions in June 5–18 period in this category.
 - **Component Procurement Pattern (June 5–11)**:
   - Environmental sensing (E+E EE03 humidity/temp modules, June 3)
   - Flight control (ARK 4IN1 ESC, June 4)
-  - Airframe/Structural (Part-29-Main-1-.step, June 5
+  - Airframe/Structural (Part-29-Main-1-.step, June 5)

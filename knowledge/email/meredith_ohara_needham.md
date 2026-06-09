@@ -1,11 +1,13 @@
 # Meredith O'Hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,610 (2,595 previous + 15 new from June 7–8)
-- **Date range:** March 23 – June 8, 2026 (approximately 11.5 weeks)
+- **Total messages scanned:** 2,685 (2,610 previous + 75 new from June 8–9)
+- **Date range:** March 23 – June 9, 2026 (approximately 11.6 weeks)
 - **Approximate volume:** 25–40 emails per day (mix of sent, received, and automated)
-- **June 7–8 new data:** 15 messages; **87% transactional/automated/vendor promotional** (13 of 15); **13% human business correspondence** (2 of 15 — Ariel Avitan pipeline discussion)
-- **Pattern sustained:** High-volume operational execution; heavy vendor/supplier coordination; active tax compliance escalation; government contract/academic partnership management; financial/banking setup
+- **June 8–9 new data:** 75 messages; **~85% transactional/automated/vendor promotional** (64 of 75); **~15% human business correspondence** (11 of 75)
+  - **Human correspondence focus:** R&D tax credit documentation, disclosure schedules, FAA UAS registration, project closeouts, academic invoicing, strategic partnership updates
+  - **Notable:** Meredith sent **8 out-of-office replies on June 8** (indicating extended absence or PTO), yet business-critical emails continued to route to her inbox with IMPORTANT flags
+- **Pattern sustained:** High-volume operational execution; significant escalation in tax/financial documentation requests; active disclosure and legal compliance work; government contract and research partnership management; sustained vendor/supply chain coordination
 
 ---
 
@@ -13,119 +15,102 @@
 
 ### Top Internal Contacts
 
-- **Jack Elston** — Legal/investor coordination, government contracts, strategic operations, academic partnerships, vendor escalations, tax advisory
-  - **Primary escalation hub; routes complex multi-stakeholder matters; manages government compliance (NOAA property audits)**
-  - **NOW VISIBLE:** Direct engagement with external investor/partner communications (Ariel Avitan pipeline discussions; multiple same-day responses June 7)
+- **Jack Elston** — Legal/investor coordination, government contracts, strategic operations, academic partnerships, vendor escalations, tax advisory, disclosure schedules, FAA compliance
+  - **NOW VISIBLE:** Heavy engagement with external legal counsel (Nadia Bryan, Ryan Sykora at KO Firm); coordinating R&D tax credit documentation with external consultant Thierry Lepoutre (Boostr Consulting); managing disclosure schedules and email address verification for what appears to be a formal business transaction or audit
+  - **Escalation pattern:** Multiple same-day responses (June 8) on IMPORTANT-flagged matters; acting as central hub for legal, tax, and compliance matters
 
 - **Beck Cotter** (CFO/Operations Leadership)
-  - **Active involvement in project closeouts and disclosure schedules finalization**
-  - **NOW VISIBLE:** Direct recipient on strategic investor communications (Ariel Avitan pipeline update, June 7)**
+  - **NOW VISIBLE:** Direct engagement on strategic investor communications (Krateo Sky pipeline response, June 8); copied on R&D tax credit documentation requests; project closeout approvals
+  - **Signal:** C-suite involvement in financial/tax compliance and strategic financing discussions
 
 - **Daniel Prendergast** (Engineering/Operations Lead)
-  - **Technical project leadership; coordinates scope closeouts and binary releases**
+  - **Active involvement:** BST-EMASS Project scope closeout coordination (June 8, IMPORTANT flagged); technical project execution
 
 - **Joshua Fromm** (josh.fromm@blackswifttech.com) — Operations/Logistics
-  - **Supply chain/logistics execution partner with Meredith**
+  - **New order processing coordination** (June 8: "Fwd: New order for Black Swift")
 
-- **Paige Smith** (paige.smith@blackswifttech.com) — Marketing/Operations
-  - **Marketing materials coordination**
-
-- **Ken Jochim** (ken.jochim@gmail.com) — **NEW CONTACT PATTERN (June 7)**
-  - **One message:** "BAS June Club Meeting" (June 7, 20:07 UTC)
-  - **Signal:** Personal/community engagement (BAS = likely Bay Area or regional professional club); operations-routed email
+- **Maciej Stachura** (stachura@blackswifttech.com) — **NEW CONTACT VISIBILITY**
+  - **Email address verification request** (June 8, from Nadia Bryan legal counsel); appears to be senior operations/compliance personnel
 
 ### Top External Contacts
 
-**Investor/Strategic Partnership — NEW VISIBILITY (June 7)**
+**Legal Counsel & Business Transaction Support — ESCALATING (NEW VISIBILITY)**
 
-- **Ariel Avitan** (Ariel@krateosky.com) — **KRATEO SKY (external partner/investor)**
-  - **Subject:** "Black Swift: 2026 Pipeline Update"
-  - **Context:** Jack Elston and Beck Cotter both copied on strategic pipeline discussion; Meredith sent out-of-office replies (2 instances, June 7); Ariel sent IMPORTANT-flagged email to Jack Elston and Beck Cotter
-  - **Signal:** Active strategic/financing/partnership discussion; high-level visibility; weekend communication indicates urgency/priority
+- **Nadia Bryan** (nbryan@kofirm.com) — **KO FIRM (External Legal Counsel)**
+  - **Three critical matters:** Disclosure schedules, email address verification (possibly for formal disclosure/merger process), Black Swift business matter coordination
+  - **Pattern:** IMPORTANT-flagged emails; Meredith received out-of-office acknowledgments on June 8; Jack Elston managing direct responses
+  - **Signal:** Formal legal/compliance process underway; external counsel engaged for material business matter
 
-**Financial & Banking — EXPANSION IN PROGRESS**
+- **Ryan Sykora** (rsykora@kofirm.com) — **KO FIRM**
+  - **FAA UAS Registration coordination** (June 8, IMPORTANT); also engaged on R&D tax credit worksheets
+  - **Signal:** Regulatory/compliance counsel for drone/UAS operations
 
-- **Elevations Credit Union** (Denelle Belcher, Candace DaSilva)
-  - **BANKING RELATIONSHIP EXPANSION — New business account establishment; appointment scheduled; active setup coordination**
+- **Niki Schwab** (nschwab@kofirm.com) — **KO FIRM**
+  - **FAA UAS Registration matter** (June 8, cc'd)
 
-**Tax Advisory — ONGOING ESCALATION (INTENSIFYING)**
+**Tax & Financial Compliance — MAJOR ESCALATION IN PROGRESS**
 
-- **Mark Kightlinger** (Mark@kcotax.com) — **TAX ADVISOR**
-  - **Escalated frequency; now requesting multi-year sales tax returns (2019–2022) in addition to prior year income tax returns**
-  - **Signal:** Tax compliance audit/review broadening; sales tax liability investigation underway; multi-year historical documentation required
+- **Thierry Lepoutre** (thierry@boostrconsulting.com) — **BOOSTR CONSULTING (R&D Tax Credit Specialist)**
+  - **INTENSE ACTIVITY:** 6+ IMPORTANT-flagged emails on June 8 alone
+  - **Request scope:** "Black Swift R&D Credit — document and records request (TY2017–TY2025)"
+  - **Pattern:** Multi-year R&D tax credit audit/preparation; requesting historical documentation spanning 9 tax years (2017–2025); high-velocity back-and-forth with Jack Elston and Beck Cotter
+  - **Signal:** Formal R&D tax credit claim preparation or audit defense; significant documentation effort required; external specialist now embedded in approval chain
 
-**External Logistics & Suppliers — HIGH ACTIVITY**
+- **Mark Kightlinger** (Mark@kcotax.com) — **TAX ADVISOR** (from prior data)
+  - **Prior escalation:** Multi-year sales tax returns (2019–2022); now consolidated under broader R&D credit documentation push
 
-- **Rubicon Aerospace** (Lee Skidmore, Jeremy Van Vliet)
-  - **Critical supplier relationship; S0 Fuse product shipping coordination; high-frequency communication on logistics; active invoicing/payment cycle**
+**Investor/Strategic Partnership — ACTIVE (Continued from prior data)**
 
-- **JawsTec Manufacturing LLC** (info@jawstec.com) — **ESCALATION CONFIRMED (June 7)**
-  - **UNREAD IMPORTANT FLAG:** Payment reminder invoice (June 7, 13:19 UTC)
-  - **Ongoing tax dispute (sales tax despite tax-exempt certificate); multiple open invoices; payment reminders escalating**
-  - **Vendor relationship friction; compliance issue unresolved; now showing weekend reminder traffic**
+- **Ariel Avitan** (Ariel@krateosky.com) — **KRATEO SKY**
+  - **Pipeline update response from Beck Cotter** (June 8); continued strategic engagement
 
-**Transactional Vendor/Supplier Traffic (Automated)**
+**Academic & Research Partnerships — ACTIVE**
 
-- **Spindrift Market** (purchasing alias) — Order shipment notification (June 8)
-- **Harbor Freight** (purchasing alias) — Promotional (2 messages, June 7–8)
-- **USPS Informed Delivery** (purchasing alias) — Daily digest (June 7)
-- **Amazon Health** (purchasing alias) — Promotional (June 7)
-- **Rocky Mountain Advanced Manufacturing Expo (RMAME)** (info@blackswifttech.com) — Event promotional (June 8, "September 18, 2026")
+- **Patricia Goodrich** (PGoodric@odu.edu) — **OLD DOMINION UNIVERSITY RESEARCH FOUNDATION**
+  - **Invoice tracking and payment coordination** (Subcontract N6833525C0270; invoices AR261299 and AR262124)
+  - **Meredith received out-of-office acknowledgment** (June 8); Patricia actively sending invoice follow-ups
+  - **Signal:** Government-funded subcontract with active invoicing cycle; payment processing coordination
 
-**Slack/Administration — Internal SaaS**
+- **Stephanie J. Cintron** (CINTRONS@erau.edu) — **EMBRY RIDDLE AERONAUTICAL UNIVERSITY**
+  - **Shipment ETA coordination** (June 8, IMPORTANT)
+  - **Signal:** Research equipment or materials shipment tracking; academic partnership coordination
 
-- **Slack plan renewal** (admin@blackswifttech.com) — Organization subscription (June 8)
+**External Logistics & Suppliers — SUSTAINED HIGH ACTIVITY**
 
-**Academic & Research Partnerships**
+- **MKS Servos USA** (sales@mksservosusa.com)
+  - **Order #22540:** Completion, processing, and payment notifications (June 8); PayPal payment processed (Invoice 18291)
+  - **Signal:** Critical servo motor/component supplier; active purchasing cycle
 
-- **Old Dominion University Research Foundation** (Patricia Goodrich)
-  - **Active research subcontract with federal/government funding oversight; government subcontract reference (N6833525C0270)**
+- **JawsTec Manufacturing** (info@jawstec.com)
+  - **Order shipment notification** (June 8); continues active supplier status despite prior payment friction
 
-- **Embry Riddle Aeronautical University** (Kelly Carnes)
-  - **Research partnership; task-based invoicing**
+- **McMaster-Carr** (chi.sales@mcmaster.com)
+  - **June 8 order:** Confirmation and tracking certificates; high-frequency industrial supplier
 
----
+- **ARK Electronics** (orders@arkelectron.com)
+  - **Order delivery confirmation** (June 8, IMPORTANT-flagged)
 
-## Topic Patterns
+- **Rubicon Aerospace** (from prior data)
+  - **S0 Fuse critical component supplier**
 
-### Recurring Business Themes
-- **Supply chain/logistics coordination** (S0 Fuse shipping, parts fulfillment, Spindrift Market orders)
-- **Tax compliance and multi-year returns** (2019–2022 sales tax focus; ongoing audit)
-- **Banking/financial setup** (new credit union business account)
-- **Government contracts and academic partnerships** (subcontract management, research invoicing)
-- **Project closeouts** (BST-EMASS Project scope closure)
-- **Vendor payment and invoicing** (Rubicon, JawsTec, academic institutions)
-- **Strategic partnerships/financing** (Krateo Sky 2026 pipeline discussion — **NEW**)
-- **Industry events/networking** (Rocky Mountain Advanced Manufacturing Expo, September 2026)
+**Transactional Vendor Traffic (Automated — June 8–9)**
 
-### Vendor/Supplier Names (Frequent)
-- **Rubicon Aerospace** — S0 Fuse (critical part)
-- **JawsTec Manufacturing** — Orders with invoice #69119, tax exempt disputes, payment escalations
-- **Elevations Credit Union** — Business account setup
-- **Old Dominion University Research Foundation** — Subcontract N6833525C0270
-- **Embry Riddle Aeronautical University** — Task-based research invoicing
-- **Spindrift Market** — Order fulfillment (SH62373175)
-- **Rocky Mountain Advanced Manufacturing Expo** — Event registration/networking
+- **FedEx Tracking** (4 notifications, tracking 872802932852; delivery scheduled)
+- **UPS** (2 notifications; package delivery tracking)
+- **Spindrift Market** (order SH62373175 delivery confirmation)
+- **PayPal** (payment processing, password management)
+- **USPS Informed Delivery** (daily digest)
+- **Protocase** (new vendor onboarding; likely engineering/prototyping services)
+- **eBay** (Futaba 14SG receivers/transmitters search results)
+- **ELEGOO US** (Flash sale promotional)
+- **Battery Junction** (Klarus E5 Series promotional)
+- **Harbor Freight** (promotional)
+- **Speedway Motors** (promotional)
+- **Eco-Cycle** (Invoice 271771; environmental/recycling services)
 
-### Automated/Transactional Email Pattern (June 7–8 data)
-- **Promotional/marketing emails (9 of 15):**
-  - Harbor Freight (2 messages; parking lot sale)
-  - Amazon Health (wellness/care promotional)
-  - USPS Informed Delivery (daily digest)
-  - Spindrift Market (shipment notification)
-  - RMAME (Rocky Mountain manufacturing expo event)
-- **Vendor payment reminders (1 of 15):**
-  - JawsTec Manufacturing (payment due reminder, IMPORTANT flagged)
-- **System/Administrative emails (3 of 15):**
-  - Slack plan renewal
-  - Internal Lenovo Rewards alternative (implied in prior data)
-- **Human business correspondence (2 of 15):**
-  - Ariel Avitan / Jack Elston / Beck Cotter (Krateo Sky pipeline discussion)
+**Professional Newsletters & News**
 
----
-
-## Communication Patterns
-
-- **High operational volume:** 25–40 emails/day sustained across 11.5-week period
-- **Weekend activity visible:** Strategic business correspondence (Krateo Sky pipeline) and vendor communications (JawsTec payment reminder) active on June 7 (Sunday), indicating priority/urgent handling or catch-up on non-business days
-- **Purchasing alias routing:** Majority of vendor/automated emails route to `purchasing@blackswifttech.com` alias, confirming Meredith manages
+- **UASweekly.com** (Daily newsletter; drone/UAS industry news)
+- **Bloomberg Technology** (The pressure on Apple's AI)
+- **Axios New Orleans** (political news — routed to Meredith personally, not standard pattern)
+- **Aveo Engineering

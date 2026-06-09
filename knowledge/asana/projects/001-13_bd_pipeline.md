@@ -1,54 +1,93 @@
 # [001-13] BD Pipeline
 
 ## Overview
-- **Client/customer**: Mixed sales pipeline across government, defense, academic, and commercial sectors (US, Canada, UK, France)
-- **Dollar value**: Active pipeline; custom fields show $0 (data integrity issue). Historical tracking: $2.3M+ pipeline with multiple six-figure opportunities. Goal: $5M by end of 2025 (**date has passed; status unknown**).
-- **Timeline**: Active opportunities with varying due dates through mid-2026. Current visible opportunity due 2026-06-25.
-- **Status**: **ACTIVE and restructuring complete.** Sales Portfolio migration has consolidated opportunities. New lead capture form deployed (https://form.asana.com/?k=c5A9vl7WX84gz612WpkTVw&d=12804948716594). Current raw data shows 0 open tasks; 1 completed task (NASA Armstrong, closed Jan 2025).
-- **Team members involved**: Beck Cotter (Owner/lead), Dan Prendergast, Maciej Stachura, Jack Elston, Nate Straus; SSgt Garrett Jansen (USAF contact); Meredith O'hara Needham (NASA Armstrong contact); Rocky L. Garcia, Ph.D Candidate (NASA contact)
+- **Client/customer**: Mixed sales pipeline across government, defense, academic, and commercial sectors (US, Canada, UK). Key accounts: Oklahoma State University, UK Royal Navy (via Lockheed Martin UK), National Oceanography Centre (UK), NextTech Solutions (Canada), NASA Armstrong (closed).
+- **Dollar value**: Custom fields show $0 (data integrity issue). Historical tracking: $2.3M+ pipeline with multiple six-figure opportunities. Goal: **$5M by end of 2025 (OVERDUE; status unknown).**
+- **Timeline**: 4 active opportunities with due dates ranging 2026-06-30 to 2026-07-31. Last recorded contact activity: 2026-03-17.
+- **Status**: **ACTIVE.** Sales Portfolio restructure complete; new lead capture form deployed. Pipeline actively managed; 4 open opportunities in various stages.
+- **Team members involved**: Beck Cotter (Owner/lead), Dan Prendergast, Maciej Stachura, Jack Elston, Nate Straus; customer contacts: Jamey D. Jacob PhD (Oklahoma State), Neil Morphett & Simon Laurence (Royal Navy), Adrien Martin (NOC), Trenton McKibbon (NextTech).
 - **Risk signals**:
-  - **CRITICAL: No open tasks visible.** Previous knowledge file showed Canadian Rangers Demo (due 2026-06-25, unassigned). Current raw data shows 0 open tasks—unclear if opportunity was archived, completed, lost, or migrated to Sales Portfolio.
-  - **Overdue milestones**: "$5M by end of 2025" and "BD person hire by end of July 2025"—both passed without recorded closure or status update.
-  - **Visibility gap**: NextTech S3 Arctic and Canadian Rangers Demo both absent from current raw data; status unknown.
-  - **Stale activity**: Last recorded status update 2026-06-26; no progress recorded since.
+  - **Milestone overdue**: "$5M by end of 2025" (passed; status unknown).
+  - **BD hire overdue**: "BD person hire by end of July 2025" (passed; status unknown).
+  - **NextTech S3 Arctic nearing due date**: 2026-07-03 (likely passed or imminent as of knowledge update).
+  - **Stale contact activity**: Last recorded contact 2026-03-17; no updates since for any open opportunity.
+  - **Data integrity**: Estimated/Quoted Value fields showing $0.00 across all opportunities despite active sales notes.
 
 ## Key Deliverables & Milestones
-- **$5M revenue goal by end of 2025** (**Date passed; status unknown.**)
-- **BD person hire by end of July 2025** (**Date passed; status unknown.**)
 
-### Completed Opportunities
+### Active Opportunities (4 open)
+1. **S0 VTOL (Oklahoma State University)**
+   - **Contact**: Jamey D. Jacob, PhD | jdjacob@okstate.edu
+   - **Due**: 2026-06-30
+   - **Products of Interest**: S0 VTOL, S2, One spare battery, E2
+   - **Status**: Interested; 3-part funding breakdown requested. Refurbished S2 sent April 2025. Waiting on S0 VTOL and E2 purchases. Estimate 1336 unofficially approved Nov 14, 2024; BST needs to be added to procurement.
+   - **Next Steps**: Schedule training
+   - **Lead Source**: Event (Early Nov 2024)
+
+2. **UK Royal Navy ASW Magnetometer Concept**
+   - **Contact**: Simon Laurence (Royal Navy) | simon.laurence157@mod.gov.uk; Marc Christino (US Navy) | marc.r.christino.ctr@us.navy.mil; Neil Morphett (Lockheed Martin UK) | neil.morphett@global.lmco.com
+   - **Assigned to**: Dan Prendergast
+   - **Due**: No due date set
+   - **Customer**: Lockheed Martin UK & UK Royal Navy
+   - **Status**: In development; strong relationship (Beck notes Simon Laurence is "super cool").
+
+3. **National Oceanography Centre – Greenland Project**
+   - **Contact**: Adrien Martin | admartin@noc.ac.uk
+   - **Assigned to**: Maciej Stachura
+   - **Due**: 2026-07-31
+   - **Customer**: National Oceanography Centre (UK)
+   - **Products of Interest**: Custom Payload, LDCR, Other
+   - **Funding**: ARIA (UK non-defense DARPA equivalent)
+   - **Timeline**: Targeting 2027 for shakedown campaign in UK; stepping stone to [larger effort, context cut off].
+   - **Status**: Active development; first contact 12/17/25.
+
+4. **NextTech Solutions – S3 Arctic**
+   - **Contact**: Trenton McKibbon | Trenton.mckibben@nexttechsol.com
+   - **Assigned to**: Beck Cotter
+   - **Due**: 2026-07-03 (**approaching/possibly past due**)
+   - **Customer**: NextTech Solutions
+   - **Partner**: Joint Forces Command
+   - **Products of Interest**: S3
+   - **Requirements**: 120km range (or 1h 35 min TOF); EO/IR gimbal (small/light profile with battery padding to hit range target).
+   - **Status**: Active; last contact 2026-03-17.
+
+### Completed Opportunities (2 total)
 1. **NASA Armstrong Flight Research Center** – **CLOSED (Jan 2, 2025)**
-   - **Contact**: Rocky L. Garcia, Ph.D Candidate
-   - **Customer**: New Horizons Aeronautics LLC | Science and Technology Corporation NASA Armstrong Flight Research Center
+   - **Contact**: Rocky L. Garcia, PhD Candidate
    - **Products of Interest**: S2, S3
-   - **Original Due**: 2024-12-31
-   - **Lead Status**: Waiting on funding; earliest word expected Oct 2024
-   - **Closure Notes**: Email sent 2025-01-02 requesting updated info; note states "If we don't hear back within a week or two, we should shut this down." Task marked complete but context suggests soft closure pending response.
+   - **Status**: Soft closure; waiting on funding. Email sent Jan 2, 2025 requesting updated info; closure contingent on lack of response within 1–2 weeks.
+
+2. **S0-AD with ATR** – **CLOSED (Jun 8, 2026)**
+   - **Contact**: DoW (Department of [State/Defense?])
+   - **Partner**: By Light
+   - **Assigned to**: Dan Prendergast
+   - **Status**: Completed; last contact Jan 19, 2026.
 
 ## Task Summary
-- **Total tasks**: 0 open, 1 completed (in current raw data)
-  - **Change from prior update**: Previous knowledge file showed Canadian Rangers Demo (due 2026-06-25, unassigned) as the only open task. Current raw data shows 0 open tasks and 1 completed task (NASA Armstrong). Status of Canadian Rangers Demo and NextTech S3 Arctic unknown.
+- **Total tasks**: 4 open, 2 completed (in current raw data)
+  - **Change from prior update**: Previous knowledge file showed 0 open tasks. Current raw data shows 4 active opportunities—**NextTech S3 Arctic and Canadian Rangers Demo now visible; Canadian Rangers Demo no longer listed, status unknown.**
 
-- **Completed Tasks by Assignee**:
-  - **Meredith O'hara Needham** (1 completed):
-    - NASA Armstrong Flight Research Center – Closed Jan 2, 2025
+- **Tasks by Assignee**:
+  - **Beck Cotter** (2 open): S0 VTOL (Oklahoma), NextTech S3 Arctic
+  - **Dan Prendergast** (1 open, 1 completed): UK Royal Navy ASW Magnetometer (open), S0-AD with ATR (completed Jun 2026)
+  - **Maciej Stachura** (1 open): NOC Greenland Project
+  - **Meredith O'hara Needham** (1 completed): NASA Armstrong (closed Jan 2025)
 
 - **Notable patterns**:
-  - **Sales Portfolio restructure complete**: New lead capture form deployed. This Asana project now functions as a hub for pipeline tracking and lead consolidation; active opportunities likely managed elsewhere or in new structure.
-  - **No open tasks visible**: Significant shift from prior data. Suggests either opportunities have been archived/migrated to Sales Portfolio, or Asana view is filtered/incomplete.
-  - **Geographic focus**: NASA (US government/research), NexTech (Canada).
+  - **Sales Portfolio restructure complete**: New lead capture form deployed (https://form.asana.com/?k=c5A9vl7WX84gz612WpkTVw&d=12804948716594). This Asana project serves as reference hub for pipeline tracking and lead consolidation.
+  - **Data integrity issue persists**: All opportunities show Estimated/Quoted Value: $0.00 despite active sales notes and estimates (e.g., "Estimate 1336 emailed on 11.14.24"). Sales portfolio likely housing financial data separately.
+  - **Geographic diversity**: US (Oklahoma, NASA), UK (Royal Navy, NOC), Canada (NextTech).
+  - **Government/defense-heavy**: 3 of 4 active opportunities involve government, defense, or research institutions.
 
 ## Recent Activity
-- **Jan 2, 2025**: NASA Armstrong opportunity closed. Email sent requesting updated funding status; closure contingent on lack of response within 1–2 weeks.
-- **Jun 26, 2026 status update** (last recorded): Sales Portfolio expansion announced with new lead capture form and rules to achieve $5M goal by end of 2025. BD hire planned for end of July 2025. **Both milestones now overdue; status unknown.**
+- **Jun 8, 2026**: S0-AD with ATR completed (Dan Prendergast).
+- **Apr 14, 2025**: Last recorded contact with Oklahoma State University (S0 VTOL). Refurbished S2 shipped; awaiting S0 VTOL and E2 purchases.
+- **Mar 17, 2026**: Last recorded contact across all open opportunities (Royal Navy, NOC, NextTech S3 Arctic).
+- **Jun 26, 2026**: Status update announcing Sales Portfolio expansion and new lead capture form. Announced goal: $5M by end of 2025; BD hire planned by end of July 2025. **Both milestones now overdue; status unknown.**
 - **No activity recorded since Jun 26, 2026.**
 
 ## Notes & Context
-- **Sales Portfolio restructure complete**: New lead capture form deployed. This project serves as the reference point for Sales Portfolio rules and tracking; individual opportunities likely managed elsewhere or in new structure.
-- **Data consistency critical issue**: 
-  - Previous knowledge file showed Canadian Rangers Demo (due 2026-06-25, unassigned) as the only open task.
-  - Current raw data shows 0 open tasks.
-  - NextTech S3 Arctic (severely overdue in prior data) remains absent.
-  - **Recommend urgent clarification**: Are opportunities archived, migrated to Sales Portfolio, or lost to sync error?
-- **Milestone tracking gap**: $5M goal (end of 2025) and BD hire (end of July 2025) both passed without recorded closure or status update. Recommend confirming whether these goals were met, extended, or replaced.
-- **NASA Armstrong closure context**: Task marked complete Jan 2, 2025, but internal note indicates soft closure pending funding status response. Monitor for reactivation if contact responds.
+- **Milestone tracking gaps**:
+  - **$5M goal (end of 2025)**: OVERDUE. Status unknown—confirm whether achieved, extended, or replaced.
+  - **BD hire (end of July 2025)**: OVERDUE. Confirm whether hire completed, delayed, or plan changed.
+- **Data integrity

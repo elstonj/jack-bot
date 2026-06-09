@@ -124,5 +124,10 @@
 
 ---
 
-**Project Status: Successfully Completed & Archived**  
-All contractual obligations fulfilled, deliverables accepted, payments received ($74,428), and project closed as of November 24, 2025. Company is actively exploring follow-on opportunities with NASA in Earth observation domain (hurricane monitoring focus).
+## Upcoming Action Items (June 2026)
+
+**Daniel Prendergast (06/08/26, insurance requirement for Canada demo):**
+- **Canada demo insurance requirements flagged for S3 platform:**
+  - $5M Commercial General Liability policy
+  - $5M Aviation General Liability Insurance OR evidence Commercial General Liability policy extends to UAV operations
+  - Proof of

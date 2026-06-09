@@ -29,7 +29,7 @@
         "amount": 30387.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-08"
+        "last_updated": "2026-06-09"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 59565.7,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-08T08:52:47Z"
+    "last_reconciled": "2026-06-09T09:07:09Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -86,8 +86,14 @@
       "author": "Jack",
       "date": "2026-05-12",
       "text": "From Jack: emass is likely delayed, we're waiting on them to get a working system to test, so de-prioritize it, but we don't want to drag this out more than a month"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-06-08",
+      "text": "From Maciej: <@U0AQE94HJUT> I don't see a Navy meeting at 9:30 this morning. Also, for mag integration it's Alex and Sam on the critical engineering tasks"
     }
   ],
-  "last_full_rebuild": "2026-06-08T08:52:47Z",
+  "last_full_rebuild": "2026-06-09T09:07:09Z",
   "last_incremental_update": null
 }

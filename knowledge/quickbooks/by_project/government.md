@@ -130,5 +130,5 @@
 
 ---
 
-### **Shipping/Freight: $546.66**
+### **Shipping/Freight: $640.23**
 **Number of transactions:** 
