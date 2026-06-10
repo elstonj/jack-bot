@@ -14,7 +14,7 @@
 - **Monthly rent payments** (~$13.00–$14.63 NNN depending on lease year, plus $6.23 CAM, due ~25th–29th of each month)
 - **Weekly office purchasing coordination** (recurring collection and ordering, due ~1st–15th of month on weekly cycle)
 - **Bi-weekly office cleaning** (via Neat N Tidy, scheduled separately from primary task list)
-- **Facilities improvements** (ongoing, no due date set)
+- **Facilities improvements** (ongoing, no due date set; assigned to Nate Straus)
 - **Equipment wish list** (ongoing, no due date set; assigned to Nate Straus)
 - **Consumables stock management** (periodic, last updated 2025-11-04)
 - **Lease termination planning** (unassigned, no due date)
@@ -23,14 +23,14 @@
 - **Total tasks**: 1 open, 0 completed (in current snapshot)
 - **Tasks by assignee**:
   - **Nate Straus**: 1 open
-    - Equipment wish list (no due date, open) — ongoing facilities improvements tracking
+    - Facilities Improvements (no due date, open) — ongoing facilities enhancements and planning
 - **Notable patterns**: 
   - Recurring monthly rent tasks maintain predictable cadence (not reflected in current task count; managed separately)
-  - Equipment wish list remains open without deadline, suggesting lower priority or ongoing collection mode
+  - Open tasks lack specific due dates, suggesting ongoing collection or planning mode rather than urgent delivery
   - Operational rhythm stable and reliable
 
 ## Recent Activity
-- **Current open task**: Equipment wish list (Nate Straus, no due date)
+- **Current open task**: Facilities Improvements (Nate Straus, no due date)
 - **Operational momentum**: Project continues stable operations with focus on long-term facilities planning and consumables management
 - **Note**: Monthly rent payment cycle continues on schedule (last cycle: May 2026 completed ahead of schedule on 2026-05-21)
 

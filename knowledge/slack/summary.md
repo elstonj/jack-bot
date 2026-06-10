@@ -1,88 +1,86 @@
 # Slack Channels Overview
 
-Last scanned: 2026-06-09 02:21
+Last scanned: 2026-06-10 02:14
 
 Total channels scanned: 9
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 2 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#25_1-navy-sttr-boundary-layer** -- 7 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
-- **#commercial-sales** -- 5 messages -- [commercial-sales.md](commercial-sales.md)
-- **#emass** -- 7 messages -- [emass.md](emass.md)
-- **#emass-bst** -- 6 messages -- [emass-bst.md](emass-bst.md)
-- **#general** -- 1 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 2 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#25_1-navy-sbir-magnetometer** -- 9 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#commercial-sales** -- 1 messages -- [commercial-sales.md](commercial-sales.md)
+- **#emass** -- 10 messages -- [emass.md](emass.md)
+- **#emass-bst** -- 8 messages -- [emass-bst.md](emass-bst.md)
+- **#general** -- 5 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 4 messages -- [grants-and-funding.md](grants-and-funding.md)
 - **#operations** -- 2 messages -- [operations.md](operations.md)
-- **#s3** -- 11 messages -- [s3.md](s3.md)
+- **#s3** -- 7 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 12 messages -- [sbir-hurricane.md](sbir-hurricane.md)
 
 ## Strategic Summary
 
 # Black Swift Technologies - Cross-Channel Strategic Overview
 
-## Active Projects
+## Active Projects & Programs
 
-### Government Contracts (SBIR/STTR)
-- **Navy SBIR Magnetometer**: Integrating QuSpin magnetometers with BST aircraft for Magnetic Anomaly Detection (MAD) applications
-- **Navy STTR Boundary Layer**: Developing atmospheric sensing capabilities on S0 UAS platform for hazardous weather/tropical cyclone measurement
-- Both projects leverage existing platforms and have Navy oversight; active technical development underway
+**Government R&D (SBIR/Grant-Funded)**
+- SBIR Hurricane (S0 aircraft for hurricane reconnaissance) - most mature, active 2020-2026
+- Navy SBIR Magnetometer (QuSpin integration for MAD detection)
+- eMASS AI integration (ECSDoT energy management system on E2 platform)
+- Multiple NASA, NOAA, USDA grant pursuits tracked in #grants-and-funding
 
-### Platform Development
-- **S3 VTOL**: Long-endurance hybrid fixed-wing/quadcopter with tilting rotors (2-3 hour target); in active design/engineering phase
-- **E2 Aircraft**: Baseline platform serving multiple integration projects
-- **S0/S2 Aircraft**: Operational platforms being adapted for government and commercial applications
+**Internal Product Development**
+- S3 VTOL (hybrid fixed-wing/quadcopter, 2-3 hour endurance) - primary development focus
+- E2 platform (serves as testbed for multiple integrations)
+- S2, S0, S0-VTOL variants in commercial pipeline
 
-### Technology Integration
-- **eMASS AI Partnership**: Integrating ECSDoT energy management hardware and ML-based flight controller onto E2 platform for efficiency/endurance improvements; dual channels indicate active collaboration (#emass and #emass-bst)
+## Key Decision-Makers & Roles
 
-## Key People & Roles
-
-**Leadership/Architecture**
-- Jack Elston: Chief decision-maker, systems architect, proposal lead, firmware expertise
-- Joshua Fromm: Lead engineer/designer, hardware/shop operations
-- Maciej: Project oversight, testing, control systems, technical support
-
-**Technical Leads**
-- Dan Prendergast: eMASS project lead, business development, operations
-- Sam Hild: Firmware development
-- Beck Cotter: Navy STTR project participation
-- Ethan Domagala: Hardware integration (eMASS)
-- Nikhila (eMASS): Primary integration developer for ECSDoT chip
-
-**Administration/Finance**
-- Meredith Needham: Budget, administrative coordination, Navy contact
-- Melissa Phillips, Paige Smith: Support roles
+| Person | Primary Role | Cross-Channel Activity |
+|--------|-------------|----------------------|
+| Jack Elston | CEO/Technical Lead | Appears in all channels; final approval authority on proposals and technical decisions |
+| Joshua Fromm | Lead Engineer/Hardware | S3 design lead; operations/shop management |
+| Maciej | Project Management/Systems | Technical oversight across SBIR Hurricane, S3, grants; proposal support |
+| Dan Prendergast | Business Development/Operations | EMASS project lead; operational coordination |
+| Sam Hild | Firmware Developer | Active in S3, Hurricane, Magnetometer projects |
+| Meredith Needham | Finance/Administration | Budget tracking, grant management |
 
 ## Decision Patterns
 
-- **Hierarchical review**: Jack Elston is the primary approval/decision point for proposals, contracts, and major technical decisions
-- **Collaborative proposal development**: Multi-channel involvement for large government contracts (Navy projects involve #general, specific project channels, and #grants-and-funding)
-- **Platform-agnostic payload approach**: Leveraging existing aircraft platforms (S0, E2, S3) for multiple mission sets rather than developing custom vehicles
-- **Commercial + Government balance**: Active pursuit of both SBIR/STTR funding and commercial sales simultaneously
+1. **Proposal-Driven Roadmap**: Grant cycles drive development priorities (#grants-and-funding directs resource allocation)
+2. **Iterative Hardware Testing**: Technical decisions validated through flight testing before scaling
+3. **Collaborative Integration**: External partners (eMASS, QuSpin) integrated via dedicated channels with BST technical leads
+4. **Centralized Approvals**: Jack Elston reviews and approves significant proposals, technical approaches, and funding decisions
 
-## Recurring Topics
+## Recurring Cross-Channel Themes
 
-- **Integration challenges**: Hardware/software compatibility across platforms, payload integration complexity
-- **Funding pipeline**: Continuous grant/SBIR/STTR proposal submissions to diversify revenue
-- **Technical specifications**: Endurance targets, payload capacity, flight control optimization
-- **Supply chain & logistics**: Procurement, shipping, facility management
-- **Testing & validation**: Flight testing, data collection, performance verification
+**Technical Integration Challenges**
+- Hardware/software compatibility issues between custom AI chips and autopilot systems
+- Payload integration complexity (magnetometers, AI chips, traditional sensors)
+- Flight performance optimization under new payload configurations
 
-## Cross-Channel Connections
+**Resource Constraints**
+- Operations channel tracks procurement delays, budget limitations
+- Competition for engineering time across multiple concurrent projects
+- Shop capacity for aircraft manufacturing and testing
 
-| Connection | Channels Involved |
-|-----------|-------------------|
-| **Platform reuse strategy** | #s3, #25_1-navy-sttr-boundary-layer, #commercial-sales, #emass-bst |
-| **Government contracting workflow** | #grants-and-funding, #25_1-navy-sbir-magnetometer, #25_1-navy-sttr-boundary-layer, #general |
-| **eMASS AI integration** | #emass, #emass-bst (specialized collab channel) |
-| **Flight control/firmware** | #s3, #emass-bst, #general |
-| **Project delivery & operations** | #commercial-sales, #operations, #general |
-| **Resource allocation** | #operations, #grants-and-funding, #general |
+**Customer & Contract Execution**
+- Commercial sales channel shows delivery commitments driving operations priorities
+- University and government agency relationships provide steady demand pipeline
+- International interest noted but logistics/compliance barriers present
 
-## Strategic Themes
+**Funding Sustainability**
+- Heavy reliance on government SBIR grants and proposal-based revenue
+- Grant cycles create project timing dependencies
+- Multiple concurrent proposals increase administrative overhead
 
-1. **Leverage existing platforms**: BST maximizes ROI by adapting S0, S2, S3, and E2 platforms across Navy, commercial, and research applications rather than building custom vehicles
-2. **Government contracting focus**: Navy SBIR/STTR programs represent significant revenue and technical development opportunities; Jack Elston actively manages proposal pipeline
-3. **Strategic partnerships**: Deep integration with external partners (eMASS AI, Navy) suggests ecosystem-based business model rather than pure product sales
-4. **Hardware + software approach**: Consistent emphasis on firmware optimization, autopilot development, and control systems alongside mechanical platform design
-5. **Multi-mission capability**: Shift toward payload-agnostic platforms (magnetometers, atmospheric sensors, AI chips) maximizes addressable market
+## Information Flow Observations
+
+- **#general**: Company-wide awareness, major announcements
+- **#operations**: Day-to-day execution, resource coordination (bridges all projects)
+- **#grants-and-funding**: Strategic direction setter (creates task priorities)
+- **Project channels** (#s3, #sbir-hurricane, #25_1-navy-sbir-magnetometer, #emass): Deep technical work
+- **#commercial-sales**: Revenue/delivery tracking (validates market demand for R&D investments)
+
+## Strategic Positioning
+
+BST operates as a **grant-funded R&D company** with commercial sales as secondary revenue stream. Core strength in autonomous aircraft systems; differentiation through custom integration (AI chips, specialized sensors) onto proven platforms. Heavy engineering team concentration relative to company size suggests manufacturing/integration capacity is limiting factor.

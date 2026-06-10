@@ -17,7 +17,7 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
 - U0151201DMY (infrastructure/web portal team member)
 - U01511MEQ90 (infrastructure/GCS software support)
 
-**Activity Level:** Ongoing active project spanning November 2025 - June 2026+. Real flight testing commenced April 23-24, 2026. EMASS media release planned for first week of May creating hard deadline. Project in critical evaluation phase following flight test results revealing fundamental navigation deficiencies and control stability issues. As of June 8, 2026, project nearing conclusion with final analysis of efficiency comparison completed.
+**Activity Level:** Ongoing active project spanning November 2025 - June 2026+. Real flight testing commenced April 23-24, 2026. EMASS media release planned for first week of May creating hard deadline. Project in critical evaluation phase following flight test results revealing fundamental navigation deficiencies and control stability issues. As of June 9, 2026, project in final assessment phase with last-ditch validation flight attempt planned.
 
 ## Key Decisions
 
@@ -77,4 +77,4 @@ Channel for coordination of the EMASS (machine learning AI chip) integration pro
   3. Insufficient range of flight data to cover all possible flight conditions, risking out-of-distribution
 
 **June 2026:**
-- **June 3:** Project scope being contractually
+- **June 3:** Project scope

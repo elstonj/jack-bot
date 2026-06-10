@@ -1,81 +1,77 @@
 # Jack Elston — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 4,033 (3,933 prior + 100 June 8–9)
-- **Date range:** April 1–June 9, 2026
+- **Total messages scanned:** 4,133 (4,033 prior + 100 June 9–10)
+- **Date range:** April 1–June 10, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **June 8–9 activity (100 messages):** ~45% M&A/legal/tax coordination; ~30% KrateoSky partnership & operational planning; ~15% technical/government programs; ~10% automated/vendor/procurement
-- **Peak activity window:** June 8 (Mon) — continued post-definitive agreement resolution, investment proposal coordination, KrateoSky commercial terms alignment, R&D tax credit documentation, FAA/government program communications
+- **June 9–10 activity (100 messages):** ~50% M&A/legal/investment coordination; ~20% KrateoSky partnership & commercial terms; ~15% technical/government programs; ~10% HR/payroll/compliance; ~5% automated/vendor/procurement
 
 ---
 
 ## Key Correspondents
 
-### Top Internal BST Contacts (SUSTAINED)
-
-**Maciej Stachura** (stachura@blackswifttech.com) — Operations, technical partnerships, government liaison
-- Receives M&A disclosure coordination (Nadia Bryan email routing), R&D tax credit worksheets, S0 COTS waiver technical review, motor information request forwarding
-- Government liaison continuity (NOAA co-author interview, soil moisture mapping project with CU Boulder/UAF)
+### Top Internal BST Contacts (SUSTAINED & ELEVATED)
 
 **Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, HR, vendor management, tax coordination
-- M&A email address coordination (Black Swift - Email Addresses thread), FAA UAS registration support, R&D tax credit worksheet routing
+- **June 9–10 elevated activity:**
+  - Receives FAA UAS registration coordination (Jun 9, 14:47)
+  - TAA Compliant Rugged Hardware escalation (Jun 9, 14:49, with EStone Tech vendor tyler.steedman@estonetech.com)
+  - Payroll/employee classification corrections (Jun 9, 14:48; Jack forwards payroll question to her)
+  - Funds flow coordination with Ryan Sykora & Ko Firm (Jun 9, 13:56, IMPORTANT)
+  - Government subcontract payment processing: ODU Research Foundation invoice AR262124 (Jun 9, 11:21, IMPORTANT; Patricia Goodrich at odu.edu)
+  - Multiple HR/compliance interactions (I-9 verification, tax status changes)
 
 **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical/government programs
-- REX110 troubleshooting coordination (Atmolab vendor escalation — IMPORTANT status sustained Jun 8–9)
-- TAA compliant rugged hardware procurement (with EStone Tech vendor)
-- Government flight operations: **ECSDOT Flight Test Analysis Discussion** scheduled Tue Jun 9, 9am–10am MDT (IMPORTANT calendar invite from Prendergast)
-- S0 COTS waiver technical review
+- **June 9–10 elevated technical coordination:**
+  - **REX110 troubleshooting escalation** (Jun 9, 11:30, 11:48 x2, IMPORTANT) — Direct coordination with Jošt Laznik/Atmolab vendor on critical system issue
+  - **C-Astral Camera support** (Jun 10, 08:26, IMPORTANT) — Rok Tomazic (rok.tomazic@c-astral.com) with Samo Stopar integration
+  - **Arctic UAS Location Change** (Jun 9, 18:34, IMPORTANT) — Stephen Rowlands/Invest Ottawa notification to Jack, Daniel, Beck Cotter
+  - Government liaison continuity: NASA MTS Training invite (Jun 9, 17:47, IMPORTANT) — Large NOAA/NASA/military research consortium (50+ recipients including NOAA AOML HRD, Navy, USAF, universities)
+
+**Maciej Stachura** (stachura@blackswifttech.com) — Operations, technical partnerships, government liaison
+- **June 10 continuation:**
+  - Receives Nadia Bryan disclosure numbers coordination (Jun 9, 20:45, IMPORTANT)
+  - MHP data alignment with Tanay Topac/Stanford (Jun 10, 01:00, IMPORTANT) — Government research partnership
 
 **Beck Cotter** (beck.cotter@blackswifttech.com) — Sales/Business Development
-- **KrateoSky pipeline coordination:** Receives "Black Swift: 2026 Pipeline Update" from Ariel Avitan (Jun 8, IMPORTANT)
-- R&D tax credit document request routing (Thierry Lepoutre/BoostR Consulting)
-- Primary sales/business development contact
+- **June 9 disclosure schedule coordination:**
+  - Multiple exchanges with Charu Ganesh/Ko Firm on disclosure schedules (Jun 9, 12:40, 14:38, IMPORTANT)
+  - Arctic UAS notification recipient (Jun 9, 18:34)
 
-**Alex Lomis** (alex.lomis@blackswifttech.com) — Technical operations
-- Receives motor information request forwarding, S0 COTS waiver technical review
-- Equipment/supply coordination
+---
 
-**Joshua Fromm** (josh.fromm@blackswifttech.com) — Technical/Supply Chain
-- Motor information request origination (forwarded to Roger Riley/KrateoSky network)
-- MKS Servos USA invoice coordination (Invoice 18291 — motorized component procurement)
-
-### Top External M&A/Investment/Legal Correspondents (SUSTAINED & ELEVATED)
+### Top External M&A/Legal/Investment Correspondents (CRITICAL PHASE: SIGNING & EXECUTION)
 
 **Ryan Sykora** (rsykora@kofirm.com) — **Ko Firm Legal Counsel — M&A PRIMARY**
-- **June 8 sustained multi-party coordination (9+ IMPORTANT emails):**
-  - **"Black Swift: Definitive Agreement Resolution Call"** — Multiple rounds Jun 8 (16:05, 16:17, 16:36, 21:14, 21:27, 21:36, 22:19, 23:17 UTC) with Bret Diskin/Katten, Sona Raziabeegum/KrateoSky, Nadia Bryan/Ko Firm, tax counsel (Mark Kightlinger, Brian Rogers)
-  - **"Black Swift Open Items"** (Jun 8, 16:23 UTC, IMPORTANT) — Coordinating with Jack, tax counsel, Nadia Bryan on post-close deliverables
-  - **"RE: FW: Black Swift: Definitive Agreement Resolution Call"** — Multiple responses from Ryan escalating/summarizing resolution status to tax counsel & KrateoSky
-  - **"R&D Tax Credit Worksheets"** (Jun 8, 19:36 UTC, IMPORTANT) — Forwarding to Mark Kightlinger & Brian Rogers for tax planning
-  - **"FAA UAS Registration"** (Jun 8, 15:02 UTC, SENT) — Jack to Ryan, Niki Schwab, Meredith Needham
-- **Pattern:** Sustained deal resolution through weekend; multi-counsel integration; R&D tax credit documentation phase; FAA compliance coordination
+- **June 9 deal execution phase (12+ IMPORTANT emails, weekend activity):**
+  - **"Signatures"** (Jun 9, 21:19, IMPORTANT) — Primary signature request/coordination
+  - **"RE: Black Swift: Definitive Agreement Resolution Call"** (Jun 9, 21:43:26, 21:43:58, 21:47:57, 22:05:16, 22:08:22 UTC, IMPORTANT x5) — Multi-counsel rapid-fire deal resolution & legal workgroup coordination
+  - **"RE: Black Swift - Disclosure Numbers"** (Jun 9, 20:36:40, 21:43:26 UTC, IMPORTANT) — Coordinating disclosure schedule finalization with Jack, Nadia Bryan
+  - **"RE: Secondary distribution - the 7% impact"** (Jun 9, 20:35:35 UTC, IMPORTANT) — Investment structuring coordination (with Katten counsel Diskin, Sona Raziabeegum, Jack)
+  - **"FW: Black Swift: Definitive Agreement Resolution Call"** (Jun 9, 18:51 UTC, IMPORTANT) — Deal resolution consolidation
+  - **"RE: Black Swift - Funds Flow"** (Jun 9, 17:33 UTC, IMPORTANT) — To Meredith Needham; post-close funds coordination
+  - Pattern: Sustained high-velocity legal coordination; KrateoSky integration; secondary distribution terms alignment
 
-**Nadia Bryan** (nbryan@kofirm.com) — **Ko Firm Legal Counsel — DISCLOSURE/DOCUMENTATION**
-- **June 8 elevated activity (7+ IMPORTANT emails):**
-  - **"Black Swift - Email Addresses"** (Jun 8, 21:17 UTC, IMPORTANT) — To Jack, Maciej Stachura, Meredith Needham; appears to be M&A administrative coordination for post-close communications
-  - **"RE: Black Swift - Disclosure Schedules"** (Jun 8, 19:53 UTC & 21:49 UTC, IMPORTANT) — Multiple exchanges with Jack on disclosure schedule finalization; also routes to Marissa Faris (Capital Factory investor outreach — see below)
-  - **"FW: Black Swift - Disclosure Schedules"** (Jun 8, 23:10 UTC, IMPORTANT) — Charu Ganesh (Ko Firm) to Jack; part of disclosure coordination workstream
-  - **"FW: Black Swift [IMPORTANT]"** (Jun 9, 00:46 UTC, IMPORTANT) — New message to Jack; likely continuation of disclosure/deal close coordination
-- **Pattern:** Elevated to disclosure schedule lead; administrative coordination; post-close documentation phase
+**Nadia Bryan** (nbryan@kofirm.com) — **Ko Firm Legal Counsel — DISCLOSURE/DOCUMENTATION LEAD**
+- **June 9–10 sustained execution (8+ IMPORTANT emails):**
+  - **"Signatures"** (Jun 9, 21:48 UTC, IMPORTANT) — To Ryan Sykora & Jack; signature package coordination
+  - **"RE: Black Swift - Disclosure Schedules"** (Jun 9, 20:45 UTC, IMPORTANT) — Disclosure numbers finalization to Jack, Maciej Stachura, Meredith Needham
+  - **"Re: Black Swift - Disclosure Schedules"** (Jun 10, 00:00:59, 00:30:02, 00:46:28 UTC, IMPORTANT x3) — Rapid multi-round disclosure schedule refinements with Jack through early morning
+  - **"RE: Fw: Black Swift - Disclosure Schedules"** (Jun 9, 20:45 UTC, IMPORTANT) — Coordinating with Beck Cotter disclosure routing
+  - Pattern: Primary disclosure schedule lead through signing phase; elevated email velocity indicates final documentation push
 
-**Charu Ganesh** (cganesh@kofirm.com) — **Ko Firm Legal Counsel — DISCLOSURE WORKSTREAM**
-- **June 8 coordination (2 IMPORTANT emails):**
-  - **"Fw: Black Swift - Disclosure Schedules"** (Jun 8, 23:10 UTC, IMPORTANT) — To Jack; disclosure schedule circulation
-  - Jack replies Jun 8 23:21:57 & 23:52:35 MDT (rapid turnaround)
-- **Pattern:** Ko Firm disclosure coordination lead; active Jun 8 evening coordination
+**Sona Raziabeegum** (sona@krateosky.com) — **KrateoSky Investment Partner — PARTNER COORDINATION**
+- **June 9–10 commercial & operational alignment (5+ IMPORTANT emails):**
+  - **"Schedule 2"** (Jun 9, 19:57:47 UTC, IMPORTANT) — Jack receives from Sona; likely post-close operational schedule
+  - **"RE: Schedule 2"** (Jun 10, 00:02:46 UTC, IMPORTANT) — Jack responds to Sona; continuation of Schedule 2 finalization
+  - **"RE: Schedule 2"** (Jun 9, 15:33 UTC, SENT) — Jack sends to Sona; proactive coordination
+  - **"RE: Black Swift | KrateoSky Investment Proposal"** (Jun 9, 20:41:22 UTC, IMPORTANT) — Investment proposal finalization
+  - **"RE: Black Swift: Definitive Agreement Resolution Call"** (Jun 9 multi-envelope in Katten/Ko Firm threads, IMPORTANT) — Sona included in legal counsel resolution coordination
+  - Pattern: Post-close operational planning; Schedule 2 (likely operating procedures/governance) being finalized; investment proposal terms closure
 
-**Mark Kightlinger** (Mark@kcotax.com) — **KCO Tax Counsel — TAX LIABILITY SUSTAINED**
-- **June 8 continued escalation (3+ IMPORTANT emails):**
-  - **"RE: FW: Black Swift: Definitive Agreement Resolution Call"** (Jun 8, 21:08 UTC, IMPORTANT) — To Brian M. Baker, Ryan Sykora, Jack; sustained tax counsel coordination on deal resolution
-  - **"RE: FW: Black Swift: Definitive Agreement Resolution Call"** (Jun 8, 16:22 UTC, IMPORTANT) — To Brian Baker, Jack, Ryan Sykora; tax legal working group
-  - **"FW: R&D Tax Credit Worksheets"** (Jun 8, 19:36 UTC, IMPORTANT) — Ryan Sykora routing worksheets to Mark & Brian Rogers
-- **Pattern:** Sustained special indemnity reconciliation; R&D tax credit documentation phase; weekend activity continuing
+**Bret T. Diskin** (bret.diskin@katten.com) — **Katten Legal Counsel — KrateoSky Counsel**
+- **June 9 sustained coordination (5+ IMPORTANT emails):**
+  - **"RE: Black Swift: Definitive Agreement Resolution Call"** (Jun 9, 18:38, 19:57, 21:00, 21:48 UTC, IMPORTANT x4) — Multi-round deal resolution with Ko Firm, Jack, Sona, Katten team (Kylie Sholty, Jeffrey Patt)
+  - Pattern: KrateoSky side counsel; integrated into post-definitive agreement resolution workstream
 
-**Brian M. Baker / Brian Rogers** (brian@mbakertaxlaw.com) — **Secondary Tax Counsel**
-- **June 8 coordination (3+ IMPORTANT emails):**
-  - **"RE: FW: Black Swift: Definitive Agreement Resolution Call"** (Jun 8, 12:09 UTC, IMPORTANT) — To Jack & Ryan Sykora; tax working group continuation
-  - **"RE: FW: Black Swift: Definitive Agreement Resolution Call"** (Jun 8, 16:22 UTC, IMPORTANT) — Routing from Ryan Sykora
-  - Included in "R&D Tax Credit Worksheets" routing (Jun 8, 19:36 UTC)
-- **Pattern:** Active secondary tax counsel; integrated with Mark Kightlinger on deal resolution
-
-**Bret T. Diskin** (bret.diskin@katten.com
+**Charu

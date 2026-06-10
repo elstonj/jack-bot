@@ -1,5 +1,7 @@
 # Nate Straus — Email Patterns
 
-Only 1 emails found in scanned period.
+Only 3 emails found in scanned period.
 
-- Sun, 7 Jun 2026 20:07:10 +0000 (UTC): BAS June Club Meeting (from: Ken Jochim <kjjochim@aol.com>)
+- Wed, 10 Jun 2026 01:01:39 +0000: Re: MHP data alignment (from: Tanay Topac <tanaytopac@stanford.edu>)
+- Tue, 9 Jun 2026 15:27:24 -0600: Black Swift Tech - Benefit Survey (from: Chad Atwood <chad@theaiginc.com>)
+- Tue, 9 Jun 2026 08:15:31 -0600: forest road special use permit questions (from: Nathaniel Straus <nate.straus@blackswifttech.com>)

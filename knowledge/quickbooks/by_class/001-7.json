@@ -4,14 +4,15 @@
     "(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-06-08",
-    "end": "2026-06-09"
+    "start": "2026-06-09",
+    "end": "2026-06-10"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 140.59,
+    "expenses": 148.17,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 140.59
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 140.59,
+      "FACILITIES:FA-Shop Supplies": 7.58
     }
   },
   "invoices": [],
@@ -32,6 +33,24 @@
           "amount": 140.59,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
           "description": "S3 IRAD shipmen to Sean Cole"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-09",
+      "doc_number": "",
+      "total": 7.58,
+      "attributed": 7.58,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No purchase request - Josh Fromm made the purchase in store",
+      "lines": [
+        {
+          "amount": 7.58,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Items for IRAD S3"
         }
       ]
     }

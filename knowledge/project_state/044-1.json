@@ -29,7 +29,7 @@
         "amount": 30387.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-09"
+        "last_updated": "2026-06-10"
       },
       "purchases": {
         "amount": 0.0,
@@ -38,18 +38,18 @@
         "last_updated": null
       },
       "other_qbo": {
-        "amount": 46.8,
+        "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-04-22"
+        "last_updated": "2026-06-10"
       },
-      "total": 30434.3,
+      "total": 30387.5,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 59565.7,
+    "remaining": 59612.5,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-09T09:07:09Z"
+    "last_reconciled": "2026-06-10T09:02:25Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -94,6 +94,6 @@
       "text": "From Maciej: <@U0AQE94HJUT> I don't see a Navy meeting at 9:30 this morning. Also, for mag integration it's Alex and Sam on the critical engineering tasks"
     }
   ],
-  "last_full_rebuild": "2026-06-09T09:07:09Z",
+  "last_full_rebuild": "2026-06-10T09:02:25Z",
   "last_incremental_update": null
 }

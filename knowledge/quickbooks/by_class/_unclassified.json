@@ -1,17 +1,20 @@
 {
   "project_code": "_unclassified",
   "qbo_class_names": [
-    ""
+    "",
+    "[012] Embry-Riddle Aeronautical University"
   ],
   "period": {
-    "start": "2026-06-08",
-    "end": "2026-06-09"
+    "start": "2026-06-09",
+    "end": "2026-06-10"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 460.79,
+    "expenses": 2454.17,
     "by_category": {
-      "Inventory Asset": 460.79
+      "Inventory Asset": 1539.13,
+      "SALES & MARKETING": 861.55,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 53.49
     }
   },
   "invoices": [],
@@ -50,6 +53,60 @@
           "amount": 302.21,
           "account": "Inventory Asset",
           "description": "For future S3 sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-09",
+      "doc_number": "",
+      "total": 861.55,
+      "attributed": 861.55,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "For Krateo Sky Demo - no Asana request. Ben made the purchase from his account because Steam is only selling to known accounts.",
+      "lines": [
+        {
+          "amount": 861.55,
+          "account": "SALES & MARKETING",
+          "description": "Steam Deck 512 GB"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-09",
+      "doc_number": "549011",
+      "total": 1078.34,
+      "attributed": 1078.34,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "For future S3 sales",
+      "lines": [
+        {
+          "amount": 1078.34,
+          "account": "Inventory Asset",
+          "description": "Reliance 21700 RS50 5000mAh 70A Battery x 225 - for future S3 sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-09",
+      "doc_number": "",
+      "total": 53.49,
+      "attributed": 53.49,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PIRATE SHIP * POSTAGE - 7333",
+      "lines": [
+        {
+          "amount": 53.49,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipment of Model S0 to Embry Riddle (invoice 1730)"
         }
       ]
     }

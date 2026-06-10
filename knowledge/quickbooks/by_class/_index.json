@@ -1,17 +1,17 @@
 {
   "period": {
-    "start": "2026-06-08",
-    "end": "2026-06-09"
+    "start": "2026-06-09",
+    "end": "2026-06-10"
   },
-  "scanned_at": "2026-06-09",
+  "scanned_at": "2026-06-10",
   "projects": [
     {
       "project_code": "001-7",
       "revenue": 0.0,
-      "expenses": 140.59,
+      "expenses": 148.17,
       "invoice_count": 0,
       "bill_count": 0,
-      "purchase_count": 1,
+      "purchase_count": 2,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -19,12 +19,25 @@
       ]
     },
     {
+      "project_code": "044-1",
+      "revenue": 25000.0,
+      "expenses": 0.0,
+      "invoice_count": 1,
+      "bill_count": 0,
+      "purchase_count": 0,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "[044-1] EMASS Chip Integration"
+      ]
+    },
+    {
       "project_code": "300-3",
       "revenue": 144000.0,
-      "expenses": 93.17,
+      "expenses": 297.33,
       "invoice_count": 2,
       "bill_count": 0,
-      "purchase_count": 1,
+      "purchase_count": 2,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -45,16 +58,30 @@
       ]
     },
     {
-      "project_code": "_unclassified",
+      "project_code": "550-2",
       "revenue": 0.0,
-      "expenses": 460.79,
+      "expenses": 7000.0,
       "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 2,
+      "bill_count": 1,
+      "purchase_count": 0,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        ""
+        "[550] United States Navy:[550-2] Navy STTR Hazardous Weather"
+      ]
+    },
+    {
+      "project_code": "_unclassified",
+      "revenue": 0.0,
+      "expenses": 2454.17,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 5,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "",
+        "[012] Embry-Riddle Aeronautical University"
       ]
     }
   ]

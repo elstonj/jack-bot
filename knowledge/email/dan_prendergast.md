@@ -1,114 +1,128 @@
 # Dan Prendergast — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 25 (24 new + 1 from existing knowledge file)
-- **Date range:** June 7–9, 2026
-- **Approximate volume:** ~12 messages per day (high activity period)
+- **Total messages scanned:** 54 (29 new + 25 existing)
+- **Date range:** June 7–10, 2026
+- **Approximate volume:** ~13.5 messages per day (sustained high activity)
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-1. **Jack Elston** (elstonj@blackswifttech.com) — 5 messages (mixed sender/recipient)
-2. **Beck Cotter** (beck.cotter@blackswifttech.com) — 2 messages
-3. **Joshua Fromm** (josh.fromm@blackswifttech.com) — 1 message
-4. **Maciej Stachura** (stachura@blackswifttech.com) — 1 message (group email)
-5. **Alex Lomis** (alex.lomis@blackswifttech.com) — 1 message (group email)
+1. **Jack Elston** (elstonj@blackswifttech.com) — 6 messages (primary coordinator hub)
+2. **Beck Cotter** (beck.cotter@blackswifttech.com) — 3 messages
+3. **Maciej Stachura** (stachura@blackswifttech.com) — 2 messages
+4. **Meredith Needham** (meredith.needham@blackswifttech.com) — 3 messages (new prominent contact)
+5. **Ben Busby** (ben.busby@blackswifttech.com) — 2 messages (new contact)
+6. **Joshua Fromm** (josh.fromm@blackswifttech.com) — 1 message
+7. **Alex Lomis** (alex.lomis@blackswifttech.com) — 1 message (group email)
 
 ### Top External Contacts
-1. **Jošt Laznik – Atmolab** (jost.laznik@atmolab.eu) — 4 messages (active technical thread)
-2. **Jure Dolinar – Atmolab** (jure.dolinar@atmolab.eu) — 1 message
-3. **Sergio Ruocco – Nanoveu** (sergio@nanoveu.com) — 1 message
-4. **Scott Smyser – Nanoveu** (Scott@nanoveu.com) — 1 message
-5. **Wesley R. Enos – NASA** (wesley.r.enos@nasa.gov) — 1 message
-6. **Evan M. Wolff – SOCOM** (evan.m.wolff.mil@socom.mil) — 1 message
-7. **Robert Correia – Aeronet** (rcorreia@aeronet.com) — 2 messages
-8. **Tyler Steedman – EstoneTech** (tyler.steedman@estonetech.com) — 3 messages (relay traffic)
-9. **Mohamed Sabry – Nanoveu** (msabry@nanoveu.com) — 1 message
+1. **Jošt Laznik – Atmolab** (jost.laznik@atmolab.eu) — 6 messages (active technical thread)
+2. **C-Astral** — 3 messages (new major contact)
+   - Rok Tomažič (rok.tomazic@c-astral.com) — 2 messages
+   - Samo Stopar (samo.stopar@c-astral.com) — 2 messages
+3. **Robert Correia – Aeronet** (rcorreia@aeronet.com) — 5 messages (logistics coordinator)
+4. **Adrian Sepulveda – Aeronet** (asepulveda@aeronet.com) — 4 messages (shipping coordination)
+5. **Jure Dolinar – Atmolab** (jure.dolinar@atmolab.eu) — 1 message
+6. **Nanoveu** — 3 messages
+   - Sergio Ruocco (sergio@nanoveu.com) — 1 message
+   - Scott Smyser (Scott@nanoveu.com) — 1 message
+   - Mohamed Sabry (msabry@nanoveu.com) — 1 message
+7. **Tyler Steedman – EstoneTech** (tyler.steedman@estonetech.com) — 3 messages (hardware procurement)
+8. **Dhruti Shah – Lockheed Martin** (dhruti.shah@global.lmco.com) — 1 message (new external contact)
+9. **Stephen Rowlands – Invest Ottawa** (SRowlands@investottawa.ca) — 1 message (new, marked IMPORTANT)
+10. **Tanay Topac – Stanford** (tanaytopac@stanford.edu) — 1 message (academic contact)
 
 ### Communication Breakdown
-- **Internal BST:** ~45%
-- **External partners/vendors/government:** ~55%
+- **Internal BST:** ~41%
+- **External partners/vendors/government/academic:** ~59%
 
 ## Topic Patterns
 
 ### Active Project/Technical Threads
-1. **REX110 Troubleshooting** — 4 messages (Jun 8–9)
-   - Primary contact: Jošt Laznik & Jure Dolinar (Atmolab)
+
+1. **Camera Support for BlackSwift** — 5 messages (Jun 9–10)
+   - **C-Astral contacts** (Rok Tomažič, Samo Stopar) — Primary technical discussion
+   - Jack Elston coordinating internally
+   - Forwarded to Joshua Fromm and Ben Busby
    - Marked IMPORTANT multiple times
-   - Ongoing back-and-forth troubleshooting
+   - **New major project thread** (not in previous scan)
 
-2. **ECSDOT Flight Test Analysis** — 4 messages (Jun 9)
-   - Meeting invites from Sergio Ruocco (Nanoveu) and Scott Smyser
-   - Jack Elston coordinating
-   - Scheduled 9am–10am MDT discussion
-
-3. **TAA Compliant Rugged Hardware** — 4 messages (Jun 8)
-   - Jack Elston & Tyler Steedman (EstoneTech) discussing
-   - Compliance/procurement focus
-
-4. **S0 COTS WAIVER** — 1 message (Jun 9)
-   - Jack Elston group email (Dan + Beck Cotter, Maciej Stachura, Alex Lomis)
+2. **REX110 Troubleshooting** — 5 messages (Jun 9)
+   - Jošt Laznik (Atmolab) active technical troubleshooting
+   - Rapid-fire same-day responses (11:30am, 11:48am UTC)
    - Marked IMPORTANT
 
-5. **BST-EMASS Project** — 1 message (Jun 8)
-   - Initial scope closeout discussion with Beck Cotter
-   - Project appears in late/closing stages
+3. **Battery Shipment to Kentucky/Ottawa** — 6 messages (Jun 9)
+   - Robert Correia and Adrian Sepulveda (Aeronet) coordinating shipment
+   - Multiple recipients: Scott Simpson (Craters and Freighters), Patrick Mulstay (Aeronet)
+   - Logistics/procurement focus
+   - **Upgraded venue:** Initially Kentucky, then changed to Ottawa
 
-6. **E2/ECS-DoT Integration Project** — 1 message (Jun 9)
-   - Meeting report from Mohamed Sabry (Nanoveu)
+4. **Arctic UAS Project** — 3 messages (Jun 9)
+   - Location change notification from Stephen Rowlands (Invest Ottawa)
+   - Forwarded to Beck Cotter and Meredith Needham
+   - Onboarding materials scheduled for June 25/26
+   - Marked IMPORTANT (external trigger)
 
-### Government/Agency Contacts
-- **NASA** (Wesley R. Enos at ARC-QS) — "NASA S2 Cyber Questions"
-- **SOCOM** (Evan M. Wolff) — "Security update" (marked IMPORTANT)
-- **USGS/EROS** — Account archival notification (existing)
+5. **TAA Compliant Rugged Hardware** — 2 messages (Jun 9)
+   - Jack Elston & Tyler Steedman (EstoneTech) correspondence
+   - Marked IMPORTANT
+   - Continued from previous scan
+
+6. **MHP Data Alignment** — 1 message (Jun 10)
+   - Tanay Topac (Stanford) with Maciej Stachura and Jack Elston
+   - Marked IMPORTANT
+   - Academic/research collaboration
+
+7. **UAV and Sensor Classification** — 1 message (Jun 9)
+   - Dhruti Shah (Lockheed Martin) inquiry
+   - Marked IMPORTANT
+   - Compliance/regulatory classification work
+
+8. **E2/ECS-DoT Integration & Nanoveu Invoicing** — 2 messages (Jun 9)
+   - Meredith Needham processing invoice for Nanoveu (task 4a completion)
+   - Continued from previous scan
+
+### Document/Compliance Activity
+- **Bureau of Commerce Validation_Z1824631.pdf** — Shared via Google Drive by Meredith Needham (Jun 9)
+  - Marked IMPORTANT
+  - Suggests regulatory/validation documentation work
 
 ### Vendor/Partner Communications
-- **Atmolab** (Slovenia) — Technical troubleshooting on REX110 instrument
-- **Nanoveu** — Flight testing and integration project work
-- **EstoneTech** — Hardware procurement/compliance
-- **Aeronet** — Logistics/shipping coordination (Cases2Go order)
+- **C-Astral** (Slovenia) — New major vendor (camera support integration)
+- **Aeronet** — Logistics hub for battery/equipment shipments
+- **EstoneTech** — Hardware procurement/TAA compliance
+- **Atmolab** — REX110 instrument troubleshooting
+- **Nanoveu** — Flight testing and invoicing
+- **Lockheed Martin** — UAV/sensor classification inquiry
 
 ## Communication Patterns
 
 ### Time Patterns
-- Heavy activity on **Monday, June 8** (17 messages)
-- Continued Tuesday, June 9 (6 messages)
-- All timestamps show normal business hours with UTC/MDT timezone mix
-- Evening/early morning emails from European contacts (Atmolab, Nanoveu)
-
-### Automated/System Emails
-- Google Calendar notifications (meeting acceptances)
-- Read.ai meeting reports and promotional emails
-- USGS automated account notification
+- **Peak activity on June 9** — 17 new messages on Tuesday
+- **Extended time zone coverage** — EU partners (C-Astral, Atmolab) generating evening/early morning emails (UTC+2 timestamps)
+- **Rapid-fire technical troubleshooting** — REX110 exchange shows same-hour responses on Jun 9
+- **Morning forwarding pattern** — Jun 9 morning (10:08am–14:54pm MDT) shows multiple forwarding bursts
 
 ### Response Pattern
-- Quick turnaround on technical issues (REX110 troubleshooting same-day replies)
-- Multi-recipient group coordination (Jack Elston as primary internal coordinator)
+- **Same-day technical responses** — REX110 and camera support threads show urgent handling
+- **Coordinating hub role** — Dan forwards vendor inquiries internally to Jack Elston, Ben Busby, Joshua Fromm, Maciej Stachura
+- **Logistics coordination** — Multiple messages to Aeronet contacts suggest hands-on supply chain involvement
+
+### Automated/System Emails
+- Google Drive share notifications (Bureau of Commerce document)
+- No automated newsletters in new scan
 
 ## Key Relationships
 
 ### Closest Internal Collaborators
-1. **Jack Elston** — Acts as hub for multiple projects (TAA hardware, S0 COTS waiver, flight test coordination)
-2. **Beck Cotter** — Project scope/closeout coordination
+1. **Jack Elston** — Central hub; receives technical coordination and project updates; forwards from Dan on multiple fronts
+2. **Meredith Needham** — Finance/documentation coordination; shares validation documents; processes vendor invoices
+3. **Beck Cotter** — Strategic project coordination (Arctic UAS, project closeout)
+4. **Ben Busby** — Technical project coordination (camera support thread)
 
 ### Key External Technical Partners
-1. **Atmolab (Jošt Laznik, Jure Dolinar)** — Instrument troubleshooting and support
-2. **Nanoveu (Sergio Ruocco, Scott Smyser, Mohamed Sabry)** — Flight testing and integration projects
-
-### Government/Compliance Relationships
-1. **NASA (Wesley R. Enos)** — Cybersecurity compliance questions
-2. **SOCOM (Evan M. Wolff)** — Security updates and communications
-
-### Vendor/Logistics
-1. **Aeronet (Robert Correia)** — Equipment shipping/logistics
-2. **EstoneTech (Tyler Steedman)** — Hardware procurement
-
-## Notable Observations
-
-- **High external engagement** — Dan communicates frequently with international partners (EU-based Atmolab and Nanoveu)
-- **Technical troubleshooting role** — REX110 appears to be an active instrument/system requiring his technical input
-- **Government compliance involvement** — NASA and SOCOM contacts suggest security/compliance responsibilities
-- **Jack Elston coordination hub** — Jack appears to be primary internal coordinator routing Dan into multiple project discussions
-- **Meeting cadence** — ECSDOT Flight Test Analysis is a scheduled recurring discussion (meeting acceptance pattern)
-- **Fast response time** — Same-day technical troubleshooting responses indicate active hands-on role
-- **Multi-timezone operations** — EU partner coordination (Atmolab) and US government/military contacts (NASA, SOCOM) suggest globally distributed work
+1. **C-Astral (Rok Tomažič, Samo Stopar)** — **NEW PRIMARY VENDOR** for camera integration support
+2. **Atmolab (Jošt Laznik)** — REX110 instrument troubleshooting and technical support
+3. **Nanoveu (Sergio Ruocco, Scott Smyser, Mohamed Sabry)**

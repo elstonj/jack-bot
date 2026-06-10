@@ -1,43 +1,45 @@
 {
   "project_code": "550-2",
   "qbo_class_names": [
-    "[550-2] Navy STTR Hazardous Weather"
+    "[550] United States Navy:[550-2] Navy STTR Hazardous Weather"
   ],
   "period": {
-    "start": "2026-06-03",
-    "end": "2026-06-04"
+    "start": "2026-06-09",
+    "end": "2026-06-10"
   },
   "totals": {
-    "revenue": 35000.0,
-    "expenses": 0.0,
-    "by_category": {}
+    "revenue": 0.0,
+    "expenses": 7000.0,
+    "by_category": {
+      "DIRECT COSTS:DC-Direct Cost Subcontractors": 7000.0
+    }
   },
-  "invoices": [
+  "invoices": [],
+  "bills": [
     {
-      "type": "Invoice",
-      "date": "2026-06-03",
-      "doc_number": "1767",
-      "total": 35000.0,
-      "attributed": 35000.0,
-      "vendor": "",
-      "customer": "[550-2] Navy STTR Hazardous Weather",
-      "balance": 35000.0,
-      "memo": "",
+      "type": "Bill",
+      "date": "2026-06-09",
+      "doc_number": "AR262124",
+      "total": 7000.0,
+      "attributed": 7000.0,
+      "vendor": "Old Dominion University Research Foundation",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "Subcontract Agreement NO. N6833525C0270\nProject No. 500567-010\n\nPayment for the award entitled \"STTR: N25A-T025-0009 - Expendable Air-Sea Profiling Observations in Hazardous Weather Conditions via Small Uncrewed Aircraft System\"",
       "lines": [
         {
-          "amount": 35000.0,
-          "account": "",
-          "description": "CLIN 0006: Progress Report (Option)"
+          "amount": 3500.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "February 2026 Invoice: STTR N25A-T025-0009 Hazardous Weather"
         },
         {
-          "amount": 35000.0,
-          "account": "",
-          "description": ""
+          "amount": 3500.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "June 2026 Invoice: STTR N25A-T025-0009 Hazardous Weather"
         }
       ]
     }
   ],
-  "bills": [],
   "purchases": [],
   "purchase_orders": [],
   "payments": []

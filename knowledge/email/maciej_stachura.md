@@ -1,99 +1,80 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 42 emails across three data collection periods
-- **Date range:** 6 Jun 2026 – 9 Jun 2026 (4 days)
-- **Volume:** ~10.5 emails/day during period
-- **Note:** Volume increased significantly in second data collection period (8 Jun); majority of substantive traffic concentrated on 8 Jun
+- **Total messages scanned:** 77 emails across four data collection periods
+- **Date range:** 6 Jun 2026 – 10 Jun 2026 (5 days)
+- **Volume:** ~15.4 emails/day during period
+- **Note:** Volume spike concentrated on 8–9 Jun; 10 Jun shows continued deal/legal coordination activity. Second dataset (35 messages) covers 9–10 Jun in detail, showing sustained high-volume deal finalization and technical coordination.
 
 ## Key Correspondents
 
 ### Internal (BST)
-- **Jack Elston** (elstonj@blackswifttech.com) — appears in 25+ emails; central coordinator for deal, tax credit, technical, and operational matters
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — frequent recipient on deal and pipeline coordination
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — technical coordination (REX110 troubleshooting with Atmolab)
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — deal coordination (appears on legal/disclosure threads)
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — technical/motor information requests
-- **Alex Lomis** (alex.lomis@blackswifttech.com) — COTS waiver and motor information coordination
-- **Paige Smith** (paige.smith@blackswifttech.com) — media/communications coordination
+- **Jack Elston** (elstonj@blackswifttech.com) — remains central hub; 30+ emails; deal coordination, legal counsel liaison, investment negotiations
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — increased activity; 8+ messages on technical coordination (REX110, camera support, Arctic UAS)
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — disclosure schedule coordination with legal counsel
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — included on deal disclosure numbers thread
+- **Alex Lomis, Josh Fromm, Ben Busby, Ethan Domagala, Nate Straus, Sam Hild** — recipient on benefit survey (9 Jun); suggests HR/benefits coordination
 
 ### External - Legal/Tax Counsel
-- **Ryan Sykora** (rsykora@kofirm.com) — frequent recipient on deal resolution, disclosure schedules, investment proposal threads
-- **Nadia Bryan** (nbryan@kofirm.com) — legal counsel, deal/disclosure coordination; appears to manage external contact lists
-- **Mark Kightlinger** (Mark@kcotax.com) — tax counsel, Definitive Agreement discussion
-- **Brian** (brian@mbakertaxlaw.com) — tax law firm, deal resolution coordination
-- **Thierry Lepoutre** (thierry@boostrconsulting.com) — R&D tax credit consultant, multi-message thread on document requests (TY2017–TY2025)
+- **Ryan Sykora** (rsykora@kofirm.com) — primary counsel; 8+ messages on Definitive Agreement, disclosure numbers, investment proposal; appears to coordinate between parties
+- **Nadia Bryan** (nbryan@kofirm.com) — 10+ messages; disclosure numbers, disclosure schedules, investment proposal coordination; manages CapitalFactory investor contacts
+- **Charu Ganesh** (cganesh@kofirm.com) — new/increased activity; disclosure schedule coordination (secondary counsel)
+- **Mark Kightlinger** (Mark@kcotax.com) — tax counsel (prior period)
+- **Brian** (brian@mbakertaxlaw.com) — tax law firm (prior period)
 
 ### External - Strategic/Investment
-- **Sona Raziabeegum** (sona@krateosky.com) — KrateoSky investment discussions; secondary distribution impact analysis
-- **Roger Riley** (Roger@krateosky.com) — Motor Information Request coordination (multi-party technical discussion)
-- **Ariel Avitan** (Ariel@krateosky.com) — 2026 pipeline updates
-- **Marissa Faris** (marissafaris@capitalfactory.com) — investment discussions (appears in Nadia Bryan's reply)
+- **Sona Raziabeegum** (sona@krateosky.com) — KrateoSky; "Secondary distribution - the 7% impact" discussion (9 Jun)
+- **Marissa Faris** (marissafaris@capitalfactory.com) — CapitalFactory investor; routed through Nadia Bryan
+- **Jamie Serio** (jamieserio@capitalfactory.com) — CapitalFactory; "Potential investment" thread with legal counsel
+- **Roger Riley, Ariel Avitan** (KrateoSky) — prior period activity continues
 
-### External - Technical/Academic
-- **Jošt Laznik & Jure Dolinar** (Atmolab, atmolab.eu) — REX110 troubleshooting technical coordination
-- **Ben Maglio** (Ben.Maglio@colorado.edu) — sUAS RF Soil Moisture Mapping research collaboration
-- **Albin J. Gasiewski** (al.gasiewski@colorado.edu) — same research coordination
+### External - Technical/Partners
+- **Samo Stopar & Rok Tomazic** (C-Astral, c-astral.com) — NEW; camera support for BlackSwift coordination (9–10 Jun, multi-message); marked IMPORTANT
+- **Jošt Laznik** (Atmolab, jost.laznik@atmolab.eu) — REX110 troubleshooting; 8+ messages 9 Jun (continued from prior period)
+- **Tanay Topac** (tanaytopac@stanford.edu) — NEW; "MHP data alignment" coordination with Jack Elston (10 Jun, IMPORTANT/UNREAD)
+- **Ben Maglio & Albin Gasiewski** (University of Colorado) — prior period activity
 
 ### External - Government/Regulatory
-- **Joe Cione** (joe.cione@noaa.gov) — NOAA/BlackSwift Monthly meeting coordination (canceled 17 Jun meeting)
-- **Angel R. Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil) — Navy coordination; S0 MAD update non-DoD sourcing
+- **Jason Dunion** (jason.dunion@noaa.gov) — NOAA event coordination; large distribution list (50+ recipients including Navy, UCSD, academia, Maciej and Jack Elston); "NASA MTS Training" 10 Jun 11am–12pm (IMPORTANT)
+- **Joe Cione** (joe.cione@noaa.gov) — included in NOAA distribution list above
+- **Angel R. Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil) — Navy/NAWCAD; S0 COTS WAIVER coordination (9 Jun); Maciej sent reply
 
-### External - Partners/Competitors
-- **Marc Stollmeyer & Jordan Weil** (Inspired Flight, inspiredflight.com) — motor information request coordination
-- **Tobin Fisher & Vijay Santhakumar** (Vantage Robotics, vantagerobotics.com) — same motor information coordination
+### External - Other
+- **JC Macatangay** (jc.defenseexpophl@gmail.com) — "Invitation for Drone Warfare Summit 2027" broad-cast to info@, sales@, support@ (10 Jun); appears unsolicited/spam category
+- **Chad Atwood** (chad@theaiginc.com) — "Black Swift Tech - Benefit Survey" sent to 10 BST employees (9 Jun); HR/benefits vendor
 
 ## Topic Patterns
 
-### Primary Focus: Deal/Investment Matters
-- **"Black Swift: Definitive Agreement Resolution Call"** — 8+ messages across 8 Jun; involves legal counsel (Sykora, Bryan, Kightlinger, Brian) and investment parties
-- **"Black Swift | KrateoSky Investment Proposal"** — forwarded 8 Jun to legal team and Maciej; indicates major investment/partnership negotiation
-- **"Secondary distribution - the 7% impact"** — specific investment structure discussion with KrateoSky stakeholder
-- **"Black Swift - Disclosure Schedules"** — deal documentation/due diligence coordination
-- **"Black Swift - Email Addresses"** — administrative preparation for deal closing (contact list management)
+### Primary Focus: Deal/Investment Finalization (Accelerating)
+- **"Black Swift | KrateoSky Investment Proposal"** — 5+ messages 9 Jun; legal counsel (Sykora, Bryan) coordinating with KrateoSky and CapitalFactory investors
+- **"Black Swift - Disclosure Numbers"** — Nadia Bryan to Jack Elston, Maciej, Meredith (9 Jun); numerical due diligence on deal documents
+- **"Black Swift - Disclosure Schedules"** — 6+ messages 9 Jun; Beck Cotter, Charu Ganesh, Nadia Bryan, Ryan Sykora coordinating schedules; appears to be critical path item
+- **"Secondary distribution - the 7% impact"** — Sona Raziabeegum (KrateoSky) to Jack Elston (9 Jun); specific investment structure refinement
+- **DocuSign Completions (9 Jun):**
+  - "Black Swift - KrateoSky Colorado Notice of Non-Compete" — signature completion
+  - "BST - Joint Consent (Investment Transaction; 2nd A&R OA).docx" — **Second Amendment & Restatement** of Operating Agreement; indicates prior investment round being modified/extended
 
-### Secondary Focus: Tax & Compliance
-- **"Black Swift R&D Credit — document and records request (TY2017–TY2025)"** — multi-message thread (8+ exchanges) with Thierry Lepoutre; high-volume back-and-forth 8 Jun; indicates significant R&D tax credit claim preparation
-- **"R&D Tax Credit Worksheets"** — documentation gathering for tax filing
+### Secondary Focus: Technical Coordination
+- **"Camera support for BlackSwift"** — NEW; C-Astral (Samo Stopar, Rok Tomazic) coordination; Daniel Prendergast engaged; 4 messages 9–10 Jun (IMPORTANT); appears to be payload/integration partnership
+- **"REX110 Troubleshooting"** — continued; 5+ messages 9 Jun with Atmolab (Jošt Laznik); ongoing product support
+- **"Arctic UAS Location Change"** — Daniel Prendergast forwarded to Maciej (9 Jun, IMPORTANT); appears operational/program update
+- **"MHP data alignment"** — NEW; Tanay Topac (Stanford) to Maciej and Jack Elston (10 Jun, IMPORTANT/UNREAD); likely mission/research data coordination
 
-### Technical/Operational
-- **"REX110 Troubleshooting"** — 5+ messages with Atmolab (EU partner); technical product issue escalation
-- **"Motor Information Request"** — multi-party coordination with Inspired Flight and Vantage Robotics (appears to be industry collaboration or ecosystem partnership)
-- **"sUAS RF Soil Moisture Mapping"** — University of Colorado research/application project
-- **"S0 COTS WAIVER"** — government/regulatory compliance discussion (S0 likely refers to classified or restricted technology category)
-- **"S0 - MAD update"** — Navy coordination on sensitive technology matter (non-DoD sourcing note)
+### Research/Government Programs
+- **"NASA MTS Training"** — 50+ recipient NOAA/Navy/academia training event (10 Jun 11am–12pm MDT); Maciej copied directly; large-scale coordination event
+- **"S0 COTS WAIVER"** — Maciej replied to Navy (Angel Ruiz-Reyes, 9 Jun); continued classified/restricted technology compliance
 
-### Communications/PR
-- **"Media Interview Request/Tomorrow's Technology Today"** — forwarded 8 Jun; media engagement coordination
+### Administrative
+- **"Black Swift Tech - Benefit Survey"** — HR/benefits vendor (Chad Atwood) to 10 BST employees (9 Jun)
 
-### Ongoing
-- **"Black Swift: 2026 Pipeline Update"** — sales pipeline with KrateoSky
+### Outbound/Events
+- **"Drone Warfare Summit 2027"** — broadcast invitation to info@, sales@, support@ (10 Jun); appears low-priority/forum spam
 
 ## Communication Patterns
 
-- **Extreme concentration on 8 Jun** — 30+ emails on single day; indicates deal/tax credit deadline or critical coordination window
-- **Multi-threaded conversations** — same topics have parallel message chains (e.g., Definitive Agreement thread split across multiple recipients)
-- **Legal counsel coordination** — consistent inclusion of Ryan Sykora, Nadia Bryan, Mark Kightlinger, and Brian on substantive deal matters; appears to be coordinated negotiation
-- **Rapid response times** — R&D tax credit thread shows 8+ exchanges within hours; Definitive Agreement thread shows similar velocity
-- **Multi-party technical coordination** — Motor Information Request involves 6 external parties (Inspired Flight, Vantage Robotics, KrateoSky) suggesting industry/ecosystem collaboration
-- **Government/regulatory thread** — Navy coordination on S0/classified technology; separate from commercial deal work
-- **Evening/night activity** — multiple messages sent/received between 20:00–23:00 UTC (14:00–17:00 MDT) on 8 Jun; suggests urgent deadline
-
-## Key Relationships
-
-### Closest Collaborators
-- **Jack Elston** (internal) — central hub; drives all major deals, tax/compliance, and operational coordination; Maciej appears as secondary on most threads
-- **Ryan Sykora & Nadia Bryan** (legal) — primary external counsel on deal negotiations; coordinating investment structure and documentation
-- **Thierry Lepoutre** (Booster Consulting) — high-frequency interaction on R&D tax credit; appears to be managing multi-year documentation (TY2017–TY2025)
-- **KrateoSky stakeholders** (Sona Raziabeegum, Roger Riley, Ariel Avitan) — repeated touchpoints on investment, technical coordination, and pipeline
-
-### External Relationships
-- **Atmolab (EU)** — technical support partner on REX110 product troubleshooting
-- **University of Colorado** — academic research collaboration on sUAS soil moisture mapping
-- **Inspired Flight & Vantage Robotics** — industry partners in motor/technical ecosystem
-- **U.S. Navy (NAWCAD)** — government customer/partner on S0 technology program
-- **NOAA** — recurring monthly coordination (Joe Cione); programmatic relationship
-
-## Notable Observations
-
-- **Maciej is
+- **Deal finalization window (9 Jun):** 15+ emails concentrated on disclosure schedules, disclosure numbers, and investment proposal; velocity indicates closing coordination
+- **DocuSign activity (9 Jun):** Two completed signature documents suggest imminent deal close or amendment execution
+- **Legal counsel multi-threading:** Ryan Sykora, Nadia Bryan, Charu Ganesh appear on overlapping threads; coordinated negotiation across parties
+- **New technical partner integration:** C-Astral camera coordination shows emerging partnership/integration work (parallel to existing deals)
+- **Government event inclusion:** Maciej directly copied on large NOAA/Navy training event; indicates program-level visibility/participation
+- **Jack

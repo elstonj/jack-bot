@@ -3,57 +3,48 @@
 ## Overview
 - **Client/customer:** Internal BST purchasing system (serves all active projects)
 - **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across multiple projects
-- **Timeline:** Ongoing operational project; current orders due June 8, 2026
-- **Status:** **ACTIVE — MAJOR CONSOLIDATION DETECTED.** Current dataset shows **1 open task** (down from 4 in prior update). Prior 4 tasks (all jawstec, all due June 7, 2026) have been **removed from Asana**. Combined with earlier removals (ARK Electronics #260604, jawstec s3 parts #69104), the project has shed 9 of 10 tasks over three update cycles (10 → 6 → 4 → 1). **CRITICAL:** Verify whether June 7 batch was legitimately closed/received or caught by form auto-deletion system.
+- **Timeline:** Ongoing operational project; current orders spanning June 9–August 8, 2026
+- **Status:** **ACTIVE — CRITICAL DATA INCONSISTENCY DETECTED.** Current dataset shows **15 open tasks** (up from 1 in prior update). This represents a **1500% increase in single update cycle**. **URGENT VERIFICATION REQUIRED:** Prior update reported 4 jawstec tasks "removed from Asana" with status "Order Received" due June 7. Current update shows these same 4 jawstec tasks are now **back in Asana with status changed to "Order Placed in Inventory" and due dates extended to August 8, 2026.** Additionally, 7 new/recovered tasks have appeared (DataPro, Mouser items, SendCutSend, Amazon/Hurricane). **CRITICAL:** Determine whether (1) form auto-deletion system reversed course and restored tasks; (2) data sync error occurred; (3) tasks were externally managed and re-imported; (4) prior cycle report was incorrect about "removal."
 
 - **Team members involved:**
-  - **Meredith O'hara Needham** (1/1 open task; order placement role; project owner)
-  - **Nate Straus** (0/1 open tasks; previously owned 75% of backlog; now absent from current tasks)
-  - **Requesters:** Dan Prendergast (1/1 — new requester; replaces Joshua Fromm who dominated prior cycles at 100%)
+  - **Meredith O'hara Needham** (4/15 assigned tasks; order placement role; project owner)
+  - **Nate Straus** (0/15 assigned; but appears as requester on 4 tasks)
+  - **Joshua Fromm** (5/15 tasks as requester; dominant requester, recovered from prior cycle absence)
+  - **Dan Prendergast** (1/15 as requester)
+  - **Alex** (3/15 as requester; NEW to current cycle)
+  - **Ethan** (1/15 as requester; NEW to current cycle)
+  - **Unassigned:** 11/15 tasks (73% of backlog unassigned; critical operational gap)
 
 - **Risk signals:**
-  - 🔴 **CRITICAL: Dramatic task disappearance — 4 tasks vanished without closure documentation.** Prior cycle had 4 jawstec tasks (all due June 7, 2026, assigned to Nate/Meredith with "Order Received" status). Current cycle shows zero of these tasks. **IMMEDIATE ACTION REQUIRED:** (1) Confirm whether jawstec orders placed June 1–5 were received and properly closed on June 7; (2) verify no auto-deletion occurred; (3) if legitimately closed, archive/document in Asana for audit trail; (4) if auto-deleted by form system, restore and close properly.
-  - 🔴 **PREVIOUSLY UNRESOLVED CRITICAL TASK NOW MISSING:** jawstec #68821 (overdue since May 20, marked "MULTIPLE PROJECT - PLEASE PROVIDE BREAKDOWN") was assigned to Nate with status "Order Received," project field incomplete ("M"), and no project allocation breakdown in description. Task no longer appears. **MUST VERIFY:** Was this task actually received, verified, and properly closed — or was it auto-deleted without resolution?
-  - ⚠️ **Form-based auto-deletion system remains active threat:** Project notes still warn "USE THIS FORM PLEASE OR YOUR TASK WILL AUTO DELETE." Extreme task volatility (10 → 6 → 4 → 1 over three cycles) suggests ongoing auto-purging of improperly submitted or stale tasks.
-  - ⚠️ **Requester shift:** Joshua Fromm (100% of requests in prior cycle) is no longer present. New requester Dan Prendergast introduced with single task. **Investigate:** Is Joshua's volume shift to external processes, or simply not active in current cycle?
-  - ⚠️ **Nate Straus workload drop to zero:** Previously owned 75% of tasks (3/4); now absent from open backlog. **Possible explanations:** (1) Batch closure of June 7 tasks legitimately completed; (2) role rotation or project assignment change; (3) auto-deletion artifact.
+  - 🔴 **CRITICAL DATA INTEGRITY ISSUE:** Prior update reported 4 jawstec tasks "removed from Asana." Current update shows all 4 jawstec tasks present with **materially changed metadata** (status changed from "Order Received" → "Order Placed in Inventory"; due dates extended from June 7 → August 8). **IMMEDIATE ACTION:** (1) Verify whether orders were actually received/placed by June 7 as prior cycle indicated; (2) confirm status change rationale (order delay? tracking system change?); (3) audit form auto-deletion system behavior; (4) determine if prior cycle report was based on stale snapshot or data loss event.
+  - 🔴 **CRITICAL UNRESOLVED TASK:** jawstec for multiple projects (#68821) — **now showing 49+ days overdue** (ordered May 20; currently due August 8 in Asana but order date was May 20). Status: "Order Placed in Inventory." Project field: still incomplete ("M" — "MULTIPLE PROJECT - PLEASE PROVIDE BREAKDOWN"). **MUST RESOLVE:** Obtain actual receipt date, verify order was fulfilled, provide project allocation breakdown, and properly close/document.
+  - 🔴 **MASSIVE BACKLOG CREATED IN SINGLE CYCLE:** 15 open tasks created/recovered between prior and current updates. **11/15 unassigned (73%).** Meredith is single point of failure (4/15 assigned; all others unassigned). Suggests either: (1) major purchasing push with incomplete assignment; (2) system backlog surfaced after form/auto-deletion fixes; (3) historical orders recovered and re-queued.
+  - 🔴 **CRITICAL UNRESOLVED MULTI-PROJECT ALLOCATION:** jawstec #68821 (May 20 order, status "Order Placed in Inventory," tax-exempt, Joshua Fromm requester) still has incomplete project field ("M"). **ACTION REQUIRED:** Contact Joshua Fromm to provide project breakdown for audit/billing purposes before order can be reconciled.
+  - ⚠️ **Extended due dates suggest delivery delays or inventory hold:** 7 tasks (DataPro, Mouser ×2, PCBWay, Amazon/Hurricane, ARK Electronics, SendCutSend) all have **August 8, 2026 due dates** despite being placed/ordered in May–June. Suggests either: (1) long lead-time items (expected behavior); (2) on-hand inventory hold pending project allocation; (3) orders not yet shipped. **Recommend:** Verify actual ship/delivery dates with vendors.
+  - ⚠️ **Requester concentration partially recovered but unstable:** Joshua Fromm (5/15 = 33% of requests; returned from prior cycle absence). Nate (4/15 requests). New requesters Alex (3) and Ethan (1) have appeared. **Improved diversification vs. prior single-requester cycles, but Joshua still dominates.**
+  - ⚠️ **Assignment concentration at risk:** Meredith O'hara Needham (4/15 assigned = 27%). **11/15 tasks unassigned.** If Meredith is order-placement role and backlog continues to grow, assignment bottleneck likely.
 
 ## Key Deliverables & Milestones
 
-### **Current Cycle (June 8, 2026) — 1 Open Task**
+### **Immediate Cycle (June 9–11, 2026) — 4 Tasks Due**
 
-**[001-7] IRAD S3 — 1 task**
-1. **uni USB C to Ethernet Adapter** | Due June 8, 2026 | Assigned: Meredith O'hara Needham | Status: Not specified (implied "Order Placed" based on Meredith's typical role) | Tax Exempt: NO | Requester: Dan Prendergast | Vendor/Description: uni USB C to Ethernet Adapter
+1. **Amazon Shop supplies** | Due June 9, 2026 | Assigned: Meredith O'hara Needham | Project: [001-1] IRAD General | Requires Approval: NO | Tax Exempt: NO | Requester: Nate | Vendor: Amazon Shop supplies
 
-**[MISSING — PRIOR CYCLE, STATUS UNKNOWN]**
-- **jawstec for s3 demo (#69038)** | Was due June 7, 2026 | Was assigned: Nate Straus | Was status: Order Received | **NOW REMOVED FROM ASANA**
-- **jawstec for s3 / murphys pond (#69060)** | Was due June 7, 2026 | Was assigned: Nate Straus | Was status: Order Received | **NOW REMOVED FROM ASANA**
-- **jawstec for s3 parts (#69119)** | Was due June 7, 2026 | Was assigned: Meredith O'hara Needham | Was status: Order Placed | **NOW REMOVED FROM ASANA**
-- **jawstec for multple projects (#68821 — CRITICAL UNRESOLVED)** | Was due June 7, 2026 (originally May 20) | Was assigned: Nate Straus | Was status: Order Received | Was project field: "M" (incomplete) | **NOW REMOVED FROM ASANA — UNRESOLVED PROJECT ALLOCATION BREAKDOWN REQUIRED**
+2. **jawstec for s3 parts - SALES** | Due June 9, 2026 | Assigned: Meredith O'hara Needham | Project: General Sales (No Specific Project) | Requires Approval: NO | Tax Exempt: YES | Requester: Joshua Fromm | Vendor: jawstec
 
-## Task Summary
-- **Total tasks:** 1 open, 0 completed in current dataset
-- **Dramatic reduction:** 4 → 1 tasks (75% decrease) between prior and current updates. **All 4 prior tasks (jawstec batch) have vanished without documented closure.**
-- **Cumulative reduction over three cycles:** 10 → 6 → 4 → 1 (90% task shedding). Only 1 task remains active.
-- **By assignee:**
-  - **Meredith O'hara Needham:** 1/1 tasks (100%) — order placement role
-  - **Nate Straus:** 0/1 tasks (0%) — previously owned 75%; now absent from open backlog
-- **By requester:**
-  - **Dan Prendergast:** 1/1 (100%) — new requester; replaces Joshua Fromm (who was 100% in prior cycle)
-- **By project:**
-  - **[001-7] IRAD S3:** 1/1 tasks (100%)
-- **Custom field patterns:**
-  - **Tax Exempt status:** 1/1 marked NO
-  - **Project field:** Fully populated for current task
-  - **Requires Approval:** NO
+3. **18650batterystore for s3 sales (#549011)** | Due June 11, 2026 | Assigned: Meredith O'hara Needham | Project: General Sales (No Specific Project) | Status: Order Placed | Requires Approval: NO | Tax Exempt: YES | Requester: Joshua Fromm | Vendor: 18650batterystore
 
-## Recent Activity
-- **Massive task purge:** All 4 jawstec tasks from prior cycle (due June 7, all with "Order Received" status for Nate, all placed June 1–5) have been removed from Asana. **Zero closure documentation visible.** Suggests either: (1) legitimate batch completion on/before June 7; (2) auto-deletion by form system; (3) external system handling.
-- **Critical unresolved task missing:** jawstec #68821 (18+ days overdue as of prior update, incomplete project breakdown, "MULTIPLE PROJECT" flagged) is no longer in Asana. **Status completely unknown.**
-- **Requester transition:** Joshua Fromm (4/4 tasks in prior cycle, 100% of purchasing authority) replaced by Dan Prendergast (1/1 current task). **No indication Joshua's orders were archived or transitioned.**
-- **New order introduced:** uni USB C to Ethernet Adapter (Dan Prendergast, due June 8). Single task assigned to Meredith (order placement), suggesting normal workflow resumption.
-- **Nate's receipt/verification queue cleared:** Nate's 3 tasks (all "Order Received" status, due June 7) are now absent. Either legitimately closed and archived, or caught by auto-deletion.
+4. **uni USB C to Ethernet Adapter** | Due June 11, 2026 | Assigned: Meredith O'hara Needham | Project: [001-7] IRAD S3 | Status: Order Placed | Requires Approval: NO | Tax Exempt: NO | Requester: Dan Prendergast | Vendor: uni USB C to Ethernet Adapter
 
-## Notes & Context
-- **Form-based task creation & auto-deletion remains unstable:** Project continues to warn "USE THIS FORM PLEASE OR YOUR TASK WILL AUTO DELETE." Current cycle (1 task) vs. prior cycle (4 tasks) shows extreme volatility. **Form submission or task aging may be auto-purging tasks without proper closure.**
-- **Requester concentration has shifted but remains high:** Prior cycle: Joshua Fromm at 100% (4/4). Current cycle: Dan Prendergast at 100% (1/1). **No diversification visible.** If Joshua Fromm
+### **Extended Cycle (August 8, 2026 — 11 Tasks) — Inventory Hold or Long Lead-Time**
+
+All 11 tasks below have **due date August 8, 2026** and **status "Order Placed in Inventory."** Actual order placement dates span **May 11–June 4, 2026**. **These appear to be backlogged inventory or delayed shipments.**
+
+| Task | Project | Requester | Order Placed | Tax Exempt | Notes |
+|------|---------|-----------|--------------|-----------|-------|
+| DataPro / Hurricane GCS (#605111011462) | [300-3] 2026 IDIQ (Hurricane) | Nate | May 11, 2026 | NO | **UNASSIGNED** |
+| Mouser / Hurricane GCS (#39155920) | [300-3] 2026 IDIQ (Hurricane) | Nate | May 11, 2026 | NO | **UNASSIGNED** |
+| Mouser (#39225140) | General Sales | Alex | May 18, 2026 | NO | **UNASSIGNED** |
+| PCBWay (#YE1730257) | [001-7] IRAD S3 | Alex | May 12, 2026 | NO | **UNASSIGNED** |
+| Amazon / Hurricane GCS | [300-3] 2026 IDIQ (Hurricane) | Nate | May 11, 2026 | NO | **UNASSIGNED** |
+|
