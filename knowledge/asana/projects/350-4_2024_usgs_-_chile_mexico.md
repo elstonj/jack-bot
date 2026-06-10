@@ -17,7 +17,7 @@
 ⚠️ **CRITICAL: All milestone due dates in Asana (spring/summer 2026) are STALE per team corrections from Maciej Stachura (April 17, 2026) and Jack Elston (April 20, 2026). Actual deployment timeline has shifted to FALL 2026. Do not act on spring/summer 2026 due dates without confirmation from Maciej.**
 
 ### Major Milestones (Original Planned Dates — Now Superseded)
-- **Operator Manual and Flight CONOPS for AFAC** | Dan Prendergast | Asana due: June 8, 2026 | **STALE — reschedule for Fall 2026**
+- **Operator Manual and Flight CONOPS for AFAC** | Dan Prendergast | Asana due: June 15, 2026 | **STALE — reschedule for Fall 2026**
 - **Obtain flight approvals from AFAC** | Dan Prendergast | Asana due: July 1, 2026 | **STALE**
 - **Sort out flight, radio, shipping, and import permissions** | Unassigned | Asana due: July 31, 2026 | **STALE — NOTE: Batteries already shipped to Mexico (May 2026); customs/import details under review**
 - **Finish payload updates** | Unassigned | Asana due: August 31, 2026 | **STALE**
@@ -31,8 +31,8 @@
 ## Task Summary
 - **Total Tasks**: 1 open, 0 completed
 - **Tasks by Assignee**:
-  - **Dan Prendergast**: 1 open task
-    - "Operator Manual and Flight CONOPS for AFAC" | Due: June 8, 2026 | ⚠️ **STALE — part of AFAC approval sequence now planned for Fall 2026**
+  - **Dan Prendergast**: 1 open task (100% of open work)
+    - "Operator Manual and Flight CONOPS for AFAC" | Due: June 15, 2026 | ⚠️ **STALE — part of AFAC approval sequence now planned for Fall 2026**
 
 **Note**: Only 1 open task currently visible in Asana (down from 19 in previous data). Many tasks may have been archived, completed, or removed during the timeline delay. Recommend confirming active task list with Maciej Stachura.
 

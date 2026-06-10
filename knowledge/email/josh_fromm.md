@@ -1,53 +1,65 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 862 emails (806 prior + 56 new June 8–9)
-- **Date range:** May 18–June 9, 2026
+- **Total messages scanned:** 912 emails (862 prior + 50 new June 9–10)
+- **Date range:** May 18–June 10, 2026
 - **Daily average:** ~15–17 emails/day (human correspondence); automated/logistics/procurement volume substantial and accelerating
-- **Unread messages:** ~550+ unread (heavy promotional/automated volume; logistics, supplier notifications, Asana task assignments dominating)
-- **New data period (June 8–9):** 56 emails; **47 automated/promotional/logistics; 9 human correspondence**
-  - Human correspondence: Motor Information Request (Jack Elston coordination); REX110 troubleshooting (Daniel Prendergast ↔ Atmolab); MKS Servos USA negotiation (Thomas Cooke); Cases2Go shipment; VertIQ new order confirmation; Meredith Needham out-of-office
-  - Automated/Logistics: FedEx (3), UPS (2), McMaster-Carr (2), Spindrift Market, ARK Electronics, JawsTec, MKS Servos (2), PayPal password reset, USPS Informed Delivery, Asana notifications, eBay, Harbor Freight, TraceParts, Teledyne FLIR (2), and retail promotions (AliExpress, Slack, Hilton Honors, Battery Junction, ELEGOO, Speedway Motors, Bulk Container Express, Protocase, DigiKey)
+- **Unread messages:** ~600+ unread (heavy promotional/automated volume; logistics, supplier notifications, Asana task assignments dominating)
+- **New data period (June 9–10):** 50 emails; **44 automated/promotional/logistics; 6 human correspondence**
+  - Human correspondence: Camera support for BlackSwift (Daniel Prendergast); Shipping PO 05212026A (Meredith Needham ↔ PT Shipping); Benefit Survey (Chad Atwood, The AIG Inc.); ongoing REX110 troubleshooting (Daniel Prendergast ↔ Atmolab)
+  - Automated/Logistics: Worldwide Express invoice; Amazon shipping (USB-C Ethernet); UPS pickups/delivery updates (3); ARK Electronics order confirmation; JawsTec invoicing; SendCutSend delivery; 18650 Battery Store; Pirate Ship receipts (3); McMaster-Carr receipt; promotional/newsletter: AliExpress, Asana notifications, Budget, Expedia, ProtoSpace Mfg, HeliDirect, UnitedHealthcare, uAvionix, Stäubli connectors, Craftcloud, Verizon, Battery Junction, Harbor Freight, eBay, Dell, TraceParts, ArcBest, UAS VISION; personal/account: Steam (2 notifications)
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-*(All prior contacts remain active; expanded detail on June 8–9 interactions)*
 
 1. **Jack Elston** (elstonj@blackswifttech.com) — **Primary collaborator**
-   - **NEW:** Motor Information Request forwarded to Josh, Alex Lomis, and Maciej Stachura (June 8, flagged IMPORTANT)
-   - Josh responded same day (June 8, 13:50 MDT)
+   - Motor Information Request (prior period, flagged IMPORTANT)
    - Government programs liaison (Merlin Mk2, US Navy SBIR, UK MOD)
-   - Directly copied on major NOAA multi-stakeholder meeting invitation (Sparv sondes working group)
+   - Directly copied on major NOAA multi-stakeholder meeting invitation
    - Property Audit coordination with NOAA
+   - **Note:** Appears in UAS vendor routing (uAvionix promotional email to Jack Elston/Purchasing alias)
 
 2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Technical integration & troubleshooting**
-   - **ESCALATED THREAD:** REX110 Troubleshooting with Atmolab (Jošt Laznik, Jure Dolinar)
-   - Initiated troubleshooting thread (June 8, 14:54 MDT, flagged IMPORTANT)
-   - Multiple rapid exchanges with Atmolab (June 8, 15:44–21:47 UTC) indicating active technical issue resolution
-   - Josh forwarded Cases2Go shipment confirmation to Daniel (June 8, 11:42 MDT)
+   - **ESCALATED THREAD (ONGOING):** REX110 Troubleshooting with Atmolab
+     - Multiple rapid exchanges June 9: 10:01 AM, 10:11 AM, 10:22 AM, 11:30 AM, 11:48 AM (×2) MDT
+     - Atmolab responses: 4:20 PM (16:20), 5:26 PM (17:26), 5:47 PM (17:47) UTC
+     - All flagged IMPORTANT — indicates active, time-sensitive technical issue
+   - **NEW:** Camera support for BlackSwift (June 9, 14:18 MDT, forwarded to Josh, flagged IMPORTANT)
+   - Josh appears as recipient/cc on multiple Daniel-to-Atmolab exchanges
 
 3. **Meredith Needham** (meredith.needham@blackswifttech.com) — **Procurement/Operations**
-   - **STATUS:** Out of Office (June 8, 08:41 PDT, auto-reply flagged IMPORTANT)
-   - Josh forwarded "New order for Black Swift" to Meredith (June 8, 09:41 MDT)
-   - **ONGOING:** High-volume purchasing/vendor notifications continuing (JawsTec, McMaster-Carr, MKS Servos USA, FedEx, UPS, Spindrift Market, ARK Electronics, USPS, eBay, Harbor Freight, Battery Junction, ELEGOO, Speedway Motors, Bulk Container Express, Protocase, Teledyne FLIR)
+   - **ACTIVE:** Shipping PO 05212026A coordination
+     - Josh forwarded PO info to Meredith (June 9, 10:01 MDT, SENT)
+     - Meredith initiated with PT Shipping (June 9, 10:11 MDT, IMPORTANT)
+     - PT Shipping response to Meredith (June 9, 16:20 UTC, IMPORTANT)
+     - Meredith replied to PT Shipping (June 9, 17:02 UTC, IMPORTANT)
+     - PT Shipping follow-up directly to Josh (June 9, 14:11 UTC, IMPORTANT)
+   - **Status:** Out of Office noted in prior period; active operations coordination continuing
+   - High-volume purchasing/vendor notifications continuing
 
 4. **Maciej Stachura** (stachura@blackswifttech.com) — **Co-investigator/technical lead**
-   - Copied on Motor Information Request forward (June 8)
    - Sparv sondes and Arctic Edge 2027 coordination
 
 5. **Beck Cotter** (beck.cotter@blackswifttech.com) — **Key collaborator**
    - Arctic Edge 2027 proposal
 
 6. **Ben Busby** (ben.busby@blackswifttech.com) — **Senior operational role**
+   - Copied on Benefit Survey (June 9)
 
-7. **Nathaniel Straus** (nate.straus@blackswifttech.com) — **Administrative/facilities role**
+7. **Ethan Domagala** (ethan.domagala@blackswifttech.com) — **Team member**
+   - Copied on Benefit Survey (June 9)
 
-8. **Alex Lomis** (alex.lomis@blackswifttech.com) — **Technical/Operations**
-   - Copied on Motor Information Request (June 8)
-   - Appears on ELEGOO promotional routing (June 8)
+8. **Sam Hild** (sam.hild@blackswifttech.com) — **Team member**
+   - Copied on Benefit Survey (June 9)
+
+9. **Alex Lomis** (alex.lomis@blackswifttech.com) — **Technical/Operations**
+   - Copied on Benefit Survey (June 9)
+
+10. **Nathaniel Straus** (nate.straus@blackswifttech.com) — **Administrative/facilities role**
+    - Copied on Benefit Survey (June 9)
 
 ---
 
@@ -55,48 +67,43 @@
 
 #### Government & Strategic Partners
 
-1. **Joe Cione – NOAA Federal** (joe.cione@noaa.gov) — **MAJOR ESCALATION**
-   - **STATUS CHANGE:** "NOAA/Blackswift Monthly" meeting **CANCELED** (June 8, 21:27 UTC, flagged IMPORTANT)
-   - Scheduled meeting: Wed Jun 17, 2026, 11am–11:45am (MDT)
-   - Prior context: 23+ participant multi-agency Sparv sondes working group
-   - **Implications:** Monthly coordination meeting cancellation; may indicate schedule shift or priority reprioritization
-
----
+1. **Joe Cione – NOAA Federal** (joe.cione@noaa.gov) — **MAJOR CONTACT**
+   - Monthly meeting CANCELED (June 8, prior period)
+   - Sparv sondes working group (23+ participants)
 
 #### Manufacturing & Component Suppliers
 
-**CRITICAL ACTIVE STATUS — MKS Servos USA (Motor/Servo Components)**
+**CRITICAL ACTIVE — Atmolab (REX110 Sensor Integration)**
 
-1. **Thomas Cooke – MKS Servos USA** (Thomas@mksservosusa.com) — **ESCALATED VENDOR (NEW)**
-   - **Subject:** "Servos for Black Swift" (rapid negotiation thread, June 8)
-   - **Activity:** 4 exchanges between Josh and Thomas (11:57–13:06 MDT, all flagged IMPORTANT)
-   - Invoice issued (Invoice #18291, June 8, 11:49 MDT, flagged IMPORTANT)
-   - Order #22540 processed and completed (June 8, 19:05–19:14 UTC, both flagged IMPORTANT)
-   - **Payment:** PayPal payment processed for invoice 18291 (June 8, 11:44 PDT, routed via Purchasing)
-   - **Status:** Active servo/motor procurement for platform assembly
+1. **Jošt Laznik – Atmolab** (jost.laznik@atmolab.eu) — **ESCALATED TECHNICAL PARTNER**
+   - **Ongoing:** REX110 Troubleshooting (flagged IMPORTANT across all June 9 exchanges)
+   - **Activity:** 6 exchanges on June 9 between 10:01 AM–5:47 PM (UTC/MDT)
+   - Daniel Prendergast driving troubleshooting; Josh copied/monitoring
+   - **Implication:** Active sensor/instrument integration issue requiring real-time resolution
 
-**CRITICAL ACTIVE STATUS — Rubicon Aerospace (S0 Platform Launch Tube)**
+**CRITICAL ACTIVE — Shipping Coordination (PT Shipping)**
 
-2. **Lee Skidmore – Rubicon Aerospace** (lee@rubiconaerospace.com) — **CRITICAL ACTIVE VENDOR**
-   - S0 Launch Tube drawing request finalized (June 5); S0 Fuse shipping imminent
+2. **PT Shipping** (ptshipping@ppgintl.onmicrosoft.com / PTshipping@ppgintl.com) — **NEW EXTERNAL LOGISTICS PARTNER (CRITICAL)**
+   - **Shipping PO 05212026A** — Multi-party coordination
+     - Direct email to Josh (June 9, 14:11 UTC, flagged IMPORTANT): "PO 05212026A"
+     - Subject indicates shipping quote/logistics request
+     - Meredith Needham primary BST contact; Josh also direct recipient
+     - PT Shipping responses flagged IMPORTANT (June 9, 16:20 UTC; 17:02 UTC reply from Meredith)
+   - **Status:** Active outbound shipment coordination (likely S0 platform or component assembly)
+
+**ACTIVE VENDORS (Prior Period Status Maintained)**
+
+3. **Lee Skidmore – Rubicon Aerospace** (lee@rubiconaerospace.com) — **S0 Launch Tube/Fuselage**
+   - S0 Launch Tube drawing finalized; S0 Fuse shipping imminent
    - Multiple invoice cycles active
 
-3. **Jeremy Van Vliet – Rubicon Aerospace** (jeremy@rubiconaerospace.com) — **Senior Rubicon Coordinator**
-   - Joined June 5 S0 Launch Tube/invoicing coordination thread
+4. **Jeremy Van Vliet – Rubicon Aerospace** (jeremy@rubiconaerospace.com) — **Senior Rubicon Coordinator**
+   - Joined S0 coordination thread (prior period)
 
-**ACTIVE VENDORS — Component & Equipment Procurement**
+5. **Thomas Cooke – MKS Servos USA** (Thomas@mksservosusa.com) — **Motor/Servo Procurement**
+   - Active servo negotiation and Order #22540 (prior period)
 
-4. **Chance Rogers – VertIQ** (chance.rogers@vertiq.co) — **NEW VENDOR CONTACT (FLAGGED IMPORTANT)**
-   - Subject: "Re: New order for Black Swift" (June 8, 09:16 EDT, flagged IMPORTANT)
-   - Confirmation of new order placement for Black Swift platform
-   - Josh forwarded this order notification to Meredith Needham (triggering out-of-office response)
-   - **Category:** Unknown from metadata; appears related to platform electrical/control systems based on company profile
+6. **Chance Rogers – VertIQ** (chance.rogers@vertiq.co) — **Platform Control Systems**
+   - New order confirmation (prior period)
 
-5. **David Root – Cases2Go** (sales@cases2go.com) — **Equipment/Shipping Cases**
-   - Confirmation #26-102398 (June 8, 13:41 EDT, flagged IMPORTANT)
-   - Josh forwarded to Daniel Prendergast (June 8, 11:42 MDT)
-   - **Status:** Shipping/transport case procurement for equipment
-
-6. **Jošt Laznik & Jure Dolinar – Atmolab** (atmolab.eu) — **NEW EXTERNAL TECHNICAL PARTNER (CRITICAL)**
-   - **Escalation:** REX110 Troubleshooting (flagged IMPORTANT across all exchanges)
-   - Daniel Prendergast initiated troubleshooting thread (June 8, 14:54 MD
+7. **David Root – Cases2Go** (sales@cases2go.com) — **

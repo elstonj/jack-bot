@@ -1,6 +1,5 @@
 # [001-13] Proposals
 
-Small project with 3 tasks.
-- [Open] NASA Phase I - A2.02 Autonomy — Beck Cotter
+Small project with 2 tasks.
 - [Done] CO/WY NSF Translation - concept paper (LOI) due — Unassigned
-- [Open] DIU — Beck Cotter
+- [Open] 2024 USDA SBIR — Beck Cotter

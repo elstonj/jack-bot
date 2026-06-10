@@ -31,19 +31,19 @@
       {
         "category": "Labor",
         "amount": 111481.0,
-        "description": "Engineering Tasks (NRE): Laser configuration updates, AirOps fields, dual GPS/RTK heading, 10Hz met data, firmware/comms/UI customization, battery endurance, manufacturability improvements, data buffering",
+        "description": "Engineering Tasks (NRE): Laser configuration updates, AirOps SA fields, Dual GPS for heading, 10Hz met data, Firmware/comms/UI customization, Extended endurance battery tweaks, Manufacturability improvements, Data buffering and re-transmission",
         "source_doc": null
       },
       {
         "category": "Materials",
         "amount": 1700.0,
-        "description": "Materials for dual GPS ($1,000), extended endurance battery tweaks ($200), manufacturability improvements ($500)",
+        "description": "Materials for Dual GPS unit/antenna, Extended endurance battery tweaks, Manufacturability improvements",
         "source_doc": null
       },
       {
         "category": "Travel",
         "amount": 20852.0,
-        "description": "Clear Air Testing 2025 ($4,852), Hurricane Flights 2025 ($16,000)",
+        "description": "Clear Air Testing 2025 ($4,852) and Hurricane Flights 2025 ($16,000)",
         "source_doc": null
       }
     ],
@@ -52,13 +52,13 @@
         "amount": 551648.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-09"
+        "last_updated": "2026-06-10"
       },
       "purchases": {
         "amount": 902.06,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-06-09"
+        "last_updated": "2026-06-10"
       },
       "other_qbo": {
         "amount": 321540.76,
@@ -72,7 +72,7 @@
     "committed": 68.7,
     "remaining": -741827.27,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-09T09:08:00Z"
+    "last_reconciled": "2026-06-10T09:03:12Z"
   },
   "milestones": [
     {
@@ -152,6 +152,6 @@
   "team": [],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-06-09T09:08:00Z",
+  "last_full_rebuild": "2026-06-10T09:03:12Z",
   "last_incremental_update": null
 }

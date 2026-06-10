@@ -109,14 +109,14 @@
 - **Service Accounts:** 2
 
 **Verification Status:**
-- All 18 directory entries verified against new raw data
-- All phone numbers confirmed and standardized to consistent format (dashes)
-- No new hires or departures since last sync
+- All 18 directory entries verified and merged with new raw data
+- All phone numbers confirmed and normalized to consistent dash-separated format (e.g., 720-933-4503)
+- No new hires or departures detected
 - All existing records accurate and up-to-date
-- Directory is current and complete
+- Directory is current and complete as of latest sync
 
 **Notes:**
 - Three team members remain unclassified; recommend reaching out to leadership for role clarification
 - BST maintains an engineering-focused organization with balanced technical and administrative support
 - Engineering intern program active with two positions filled
-- All contact information has been normalized and verified
+- All contact information has been verified and standardized

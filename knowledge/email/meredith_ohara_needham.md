@@ -1,13 +1,13 @@
 # Meredith O'Hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,685 (2,610 previous + 75 new from June 8–9)
-- **Date range:** March 23 – June 9, 2026 (approximately 11.6 weeks)
+- **Total messages scanned:** 2,771 (2,685 previous + 86 new from June 9–10)
+- **Date range:** March 23 – June 10, 2026 (approximately 11.7 weeks)
 - **Approximate volume:** 25–40 emails per day (mix of sent, received, and automated)
-- **June 8–9 new data:** 75 messages; **~85% transactional/automated/vendor promotional** (64 of 75); **~15% human business correspondence** (11 of 75)
-  - **Human correspondence focus:** R&D tax credit documentation, disclosure schedules, FAA UAS registration, project closeouts, academic invoicing, strategic partnership updates
-  - **Notable:** Meredith sent **8 out-of-office replies on June 8** (indicating extended absence or PTO), yet business-critical emails continued to route to her inbox with IMPORTANT flags
-- **Pattern sustained:** High-volume operational execution; significant escalation in tax/financial documentation requests; active disclosure and legal compliance work; government contract and research partnership management; sustained vendor/supply chain coordination
+- **June 9–10 new data:** 86 messages; **~72% transactional/automated/vendor (62 of 86)**; **~28% human business correspondence (24 of 86)**
+  - **Human correspondence focus:** Disclosure schedules and funds flow (legal/financial transaction), R&D tax credit filing, employee classification/payroll issues (Rippling), FAA UAS registration, academic research partnerships (ODU, Embry Riddle), project closeouts, insurance/benefits coordination, shipping logistics (PT Shipping), vendor tax exemption issues (JawsTec)
+  - **Transaction Intensity:** Heavy legal counsel engagement (KO Firm: Nadia Bryan, Ryan Sykora, Charu Ganesh) on disclosure matters; tax advisor escalation (Thierry Lepoutre, Mark Kightlinger); critical payroll/HR system issue requiring immediate resolution
+- **Pattern sustained:** High-volume operational execution; legal/financial/tax compliance work at critical stage; active government contract and research partnership management; vendor/supply chain coordination; new HR/payroll system issue emerging
 
 ---
 
@@ -15,102 +15,78 @@
 
 ### Top Internal Contacts
 
-- **Jack Elston** — Legal/investor coordination, government contracts, strategic operations, academic partnerships, vendor escalations, tax advisory, disclosure schedules, FAA compliance
-  - **NOW VISIBLE:** Heavy engagement with external legal counsel (Nadia Bryan, Ryan Sykora at KO Firm); coordinating R&D tax credit documentation with external consultant Thierry Lepoutre (Boostr Consulting); managing disclosure schedules and email address verification for what appears to be a formal business transaction or audit
-  - **Escalation pattern:** Multiple same-day responses (June 8) on IMPORTANT-flagged matters; acting as central hub for legal, tax, and compliance matters
+- **Jack Elston** — Central hub for legal, tax, compliance, government contracts, FAA matters
+  - **June 9–10 activity:** Direct engagement on disclosure schedules, funds flow (with KO Firm counsel Ryan Sykora), payroll classification issues (Rippling escalation), FAA UAS registration, TAA-compliant hardware sourcing
+  - **Pattern:** Multiple same-day IMPORTANT-flagged responses; acting as primary point of contact for all external legal/tax counsel coordination
+  - **New signal:** Now directly managing Rippling payroll system issue (employee classification/tax status corrections)
 
 - **Beck Cotter** (CFO/Operations Leadership)
-  - **NOW VISIBLE:** Direct engagement on strategic investor communications (Krateo Sky pipeline response, June 8); copied on R&D tax credit documentation requests; project closeout approvals
-  - **Signal:** C-suite involvement in financial/tax compliance and strategic financing discussions
+  - **June 9–10 activity:** Active on disclosure schedules (coordinating with KO Firm counsel Charu Ganesh); Arctic UAS onboarding coordination (June 25/26 event); benefits survey responses
+  - **Signal:** C-suite involvement in material business transaction (disclosure process); new customer/partner onboarding (Arctic UAS)
 
 - **Daniel Prendergast** (Engineering/Operations Lead)
-  - **Active involvement:** BST-EMASS Project scope closeout coordination (June 8, IMPORTANT flagged); technical project execution
+  - **June 9–10 activity:** Arctic UAS onboarding materials coordination (June 25/26 event, IMPORTANT flagged); BST-EMASS project closeout (continued)
+  - **Signal:** New engagement/partnership activation with Arctic UAS
 
 - **Joshua Fromm** (josh.fromm@blackswifttech.com) — Operations/Logistics
-  - **New order processing coordination** (June 8: "Fwd: New order for Black Swift")
+  - **June 9–10 activity:** Shipping PO 05212026A coordination (PT Shipping); Pirate Ship payment receipts; purchasing notifications
+  - **Signal:** Ongoing fulfillment/logistics leadership
 
-- **Maciej Stachura** (stachura@blackswifttech.com) — **NEW CONTACT VISIBILITY**
-  - **Email address verification request** (June 8, from Nadia Bryan legal counsel); appears to be senior operations/compliance personnel
+- **Maciej Stachura** (stachura@blackswifttech.com) — Senior Operations/Compliance
+  - **June 9–10 visibility:** Included in disclosure schedule email thread (Nadia Bryan); 401(k) contribution change notification (Human Interest HR system); MHP data alignment discussion (Tanay Topac from Stanford)
+  - **Signal:** Senior operations/compliance role; involved in formal transaction process; academic research coordination
 
 ### Top External Contacts
 
-**Legal Counsel & Business Transaction Support — ESCALATING (NEW VISIBILITY)**
+**Legal Counsel — CRITICAL TRANSACTION ONGOING (ESCALATING)**
 
-- **Nadia Bryan** (nbryan@kofirm.com) — **KO FIRM (External Legal Counsel)**
-  - **Three critical matters:** Disclosure schedules, email address verification (possibly for formal disclosure/merger process), Black Swift business matter coordination
-  - **Pattern:** IMPORTANT-flagged emails; Meredith received out-of-office acknowledgments on June 8; Jack Elston managing direct responses
-  - **Signal:** Formal legal/compliance process underway; external counsel engaged for material business matter
+- **Nadia Bryan** (nbryan@kofirm.com) — **KO FIRM**
+  - **June 9–10 intensity:** 4 IMPORTANT-flagged emails; active on disclosure schedules and disclosure numbers; managing email verification process
+  - **Coordination pattern:** Direct engagement with Jack Elston and Charu Ganesh; cc'ing Maciej Stachura on disclosure matters
+  - **Signal:** Material business transaction in active execution phase; legal counsel embedded in day-to-day approval workflow
+
+- **Charu Ganesh** (cganesh@kofirm.com) — **KO FIRM**
+  - **June 9–10 activity:** 4 IMPORTANT-flagged emails on disclosure schedules; direct coordination with Beck Cotter and Jack Elston
+  - **Signal:** Secondary counsel actively managing disclosure documentation; high-velocity back-and-forth
 
 - **Ryan Sykora** (rsykora@kofirm.com) — **KO FIRM**
-  - **FAA UAS Registration coordination** (June 8, IMPORTANT); also engaged on R&D tax credit worksheets
-  - **Signal:** Regulatory/compliance counsel for drone/UAS operations
+  - **June 9–10 activity:** 3 IMPORTANT-flagged emails on "Black Swift - Funds Flow" (including STARRED priority); FAA UAS Registration; direct engagement with Meredith
+  - **Signal:** Funds flow analysis/documentation for transaction; regulatory compliance counsel; elevated priority (starred by Meredith)
 
-- **Niki Schwab** (nschwab@kofirm.com) — **KO FIRM**
-  - **FAA UAS Registration matter** (June 8, cc'd)
-
-**Tax & Financial Compliance — MAJOR ESCALATION IN PROGRESS**
+**Tax & Financial Compliance — FILING DEADLINE APPROACHING**
 
 - **Thierry Lepoutre** (thierry@boostrconsulting.com) — **BOOSTR CONSULTING (R&D Tax Credit Specialist)**
-  - **INTENSE ACTIVITY:** 6+ IMPORTANT-flagged emails on June 8 alone
-  - **Request scope:** "Black Swift R&D Credit — document and records request (TY2017–TY2025)"
-  - **Pattern:** Multi-year R&D tax credit audit/preparation; requesting historical documentation spanning 9 tax years (2017–2025); high-velocity back-and-forth with Jack Elston and Beck Cotter
-  - **Signal:** Formal R&D tax credit claim preparation or audit defense; significant documentation effort required; external specialist now embedded in approval chain
+  - **June 9–10 activity:** IMPORTANT-flagged "Re: BST Tax filing" response; direct engagement with Meredith on tax filing status
+  - **Signal:** R&D tax credit documentation push transitioning to filing phase; advisor providing filing guidance/deadlines
 
-- **Mark Kightlinger** (Mark@kcotax.com) — **TAX ADVISOR** (from prior data)
-  - **Prior escalation:** Multi-year sales tax returns (2019–2022); now consolidated under broader R&D credit documentation push
+- **Mark Kightlinger** (Mark@kcotax.com) — **TAX ADVISOR**
+  - **June 9 activity:** Draft email from Meredith flagging "Tax updates - new issue" (unsent draft visible in headers)
+  - **Signal:** New tax issue emerging requiring advisor consultation (likely related to Rippling payroll classification corrections)
 
-**Investor/Strategic Partnership — ACTIVE (Continued from prior data)**
+**HR/Payroll System Support — URGENT ISSUE**
 
-- **Ariel Avitan** (Ariel@krateosky.com) — **KRATEO SKY**
-  - **Pipeline update response from Beck Cotter** (June 8); continued strategic engagement
+- **Rippling Support** (support@rippling.com) — **HR/PAYROLL SYSTEM VENDOR**
+  - **June 9 activity:** 3 IMPORTANT-flagged emails (including 2 STARRED by Meredith); subject: "Help with fixing incorrect employee classification and changing tax status"
+  - **Pattern:** Urgent same-day escalation; Meredith flagged as YELLOW_STAR/STARRED priority; Jack Elston copied on escalation
+  - **Signal:** Critical payroll system issue requiring immediate resolution; employee classification/tax withholding corrections needed; potential backdating/compliance risk
 
 **Academic & Research Partnerships — ACTIVE**
 
 - **Patricia Goodrich** (PGoodric@odu.edu) — **OLD DOMINION UNIVERSITY RESEARCH FOUNDATION**
-  - **Invoice tracking and payment coordination** (Subcontract N6833525C0270; invoices AR261299 and AR262124)
-  - **Meredith received out-of-office acknowledgment** (June 8); Patricia actively sending invoice follow-ups
-  - **Signal:** Government-funded subcontract with active invoicing cycle; payment processing coordination
+  - **June 9 activity:** IMPORTANT-flagged invoice follow-up (Subcontract N6833525C0270, Invoice AR262124); same-day Meredith response
+  - **Signal:** Active invoice processing cycle; government subcontract payment tracking
 
 - **Stephanie J. Cintron** (CINTRONS@erau.edu) — **EMBRY RIDDLE AERONAUTICAL UNIVERSITY**
-  - **Shipment ETA coordination** (June 8, IMPORTANT)
-  - **Signal:** Research equipment or materials shipment tracking; academic partnership coordination
+  - **June 9 activity:** 3 IMPORTANT-flagged emails on shipment ETA coordination; rapid back-and-forth with Meredith (11:12 AM, 5:41 PM, 5:09 PM UTC)
+  - **Signal:** Time-sensitive research equipment/materials delivery; active coordination on arrival scheduling
 
-**External Logistics & Suppliers — SUSTAINED HIGH ACTIVITY**
+- **Tanay Topac** (tanaytopac@stanford.edu) — **STANFORD UNIVERSITY (NEW VISIBILITY)**
+  - **June 9 activity:** IMPORTANT-flagged "Re: MHP data alignment" email; direct engagement with Maciej Stachura and Jack Elston
+  - **Signal:** Stanford research collaboration on MHP (likely mission/helicopter program); data alignment/coordination work
 
-- **MKS Servos USA** (sales@mksservosusa.com)
-  - **Order #22540:** Completion, processing, and payment notifications (June 8); PayPal payment processed (Invoice 18291)
-  - **Signal:** Critical servo motor/component supplier; active purchasing cycle
+**Logistics & Shipping — CRITICAL VENDOR**
 
-- **JawsTec Manufacturing** (info@jawstec.com)
-  - **Order shipment notification** (June 8); continues active supplier status despite prior payment friction
-
-- **McMaster-Carr** (chi.sales@mcmaster.com)
-  - **June 8 order:** Confirmation and tracking certificates; high-frequency industrial supplier
-
-- **ARK Electronics** (orders@arkelectron.com)
-  - **Order delivery confirmation** (June 8, IMPORTANT-flagged)
-
-- **Rubicon Aerospace** (from prior data)
-  - **S0 Fuse critical component supplier**
-
-**Transactional Vendor Traffic (Automated — June 8–9)**
-
-- **FedEx Tracking** (4 notifications, tracking 872802932852; delivery scheduled)
-- **UPS** (2 notifications; package delivery tracking)
-- **Spindrift Market** (order SH62373175 delivery confirmation)
-- **PayPal** (payment processing, password management)
-- **USPS Informed Delivery** (daily digest)
-- **Protocase** (new vendor onboarding; likely engineering/prototyping services)
-- **eBay** (Futaba 14SG receivers/transmitters search results)
-- **ELEGOO US** (Flash sale promotional)
-- **Battery Junction** (Klarus E5 Series promotional)
-- **Harbor Freight** (promotional)
-- **Speedway Motors** (promotional)
-- **Eco-Cycle** (Invoice 271771; environmental/recycling services)
-
-**Professional Newsletters & News**
-
-- **UASweekly.com** (Daily newsletter; drone/UAS industry news)
-- **Bloomberg Technology** (The pressure on Apple's AI)
-- **Axios New Orleans** (political news — routed to Meredith personally, not standard pattern)
-- **Aveo Engineering
+- **PT Shipping** (ptshipping@ppgintl.onmicrosoft.com) — **NEW HIGH-PRIORITY VENDOR**
+  - **June 9 activity:** 2 IMPORTANT-flagged emails on "Shipping PO 05212026A"; same-day coordination with Meredith
+  - **Pattern:** Direct email engagement; escalated via Joshua Fromm; real-time shipping status updates
+  - **

@@ -4,9 +4,9 @@
 
 This channel tracks Black Swift Technologies' grant applications, funding pursuits, and government contracting efforts across federal agencies (NASA, DOD, NOAA, USDA, etc.). It serves as the central hub for proposal submissions, funding strategy discussions, budget development, and award management.
 
-**Key Participants:** Jack Elston (primary decision-maker and proposal reviewer), Maciej (technical/proposal support), Meredith Needham (budget/administrative), Dan Prendergast (proposal coordination), Beck Cotter (program management), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm (hardware/integration), Paige Smith (presentation/logistics support), Arthur (technical partner for payload/antenna work), Bryan (external contact for Vulcan opportunity), Sona (operational/budget planning), Gijs (BNL partner), Kirsten Boogard (777 PM at NOAA), Bob and Lisa (camera/integration leads), SkyMesa (RF/EW partner), Hank (external contact with S3 design requests), Ariel (pipeline/portfolio oversight), and others contributing to specific proposals.
+**Key Participants:** Jack Elston (primary decision-maker and proposal reviewer), Maciej (technical/proposal support), Meredith Needham (budget/administrative), Dan Prendergast (proposal coordination), Beck Cotter (program management), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm (hardware/integration), Paige Smith (presentation/logistics support), Arthur (technical partner for payload/antenna work), Bryan (external contact for Vulcan opportunity), Sona (operational/budget planning), Gijs (BNL partner), Kirsten Boogard (777 PM at NOAA), Bob and Lisa (camera/integration leads), SkyMesa (RF/EW partner), Hank (external contact with S3 design requests), Ariel (pipeline/portfolio oversight), Lockheed Martin UK (LMUK - partnership contact), and others contributing to specific proposals.
 
-**Activity Level:** Extremely high throughout the period (March 2024 - June 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. June 2026 represents a particularly intense submission period with 11 major proposals/responses submitted in a single month. Pace remains intense with rapid sequential submissions, active pursuit of new competitive opportunities, implementation/integration planning, vendor onboarding processes, and portfolio management. Significant external partnerships and customer engagement alongside proposal work.
+**Activity Level:** Extremely high throughout the period (March 2024 - June 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. June 2026 represents a particularly intense submission period with 11 major proposals/responses submitted in a single month. Pace remains intense with rapid sequential submissions, active pursuit of new competitive opportunities, implementation/integration planning, vendor onboarding processes, portfolio management, and significant external partnerships/customer engagement alongside proposal work.
 
 **Time Range:** March 3, 2024 - June 9, 2026
 
@@ -75,5 +75,4 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 - **DOE Genesis Proposal finalized and submitted** (April 22-30, 2026): 
   - **April 22:** Beck Cotter raised concern about lead/subcontractor arrangement change requiring renegotiation in short timeframe; due date April 28, 2026 (potentially May 1)
-  - **April 23:** Beck Cotter confirmed receipt of all required documents from Gijs (BNL partner); proposal package complete
-  - **April 
+  - **April 23:** Beck Cotter confirmed receipt of all required documents from Gijs (

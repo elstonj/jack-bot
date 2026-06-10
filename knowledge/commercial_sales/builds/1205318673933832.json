@@ -49,7 +49,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Embry-Riddle ordered 2 S0 VTOL units (paid in full via Invoice 1667, May 2025). Legal disclosure indicates BST is offering settlement agreement due to delivery delays on this paid order. Units currently in QC; receive-by Aug 31, 2026. Training scheduled June 2025.",
+  "notes": "Paid order (Invoice 1667, May 2025) for 2 S0 VTOL units delivered to ERAU for ISARRA Flight Week Aug/Sep 2026. Units in QC; recent email (5/21/26) confirms delivery target and training coordination. Jack Elston proposing to ship units directly to ISARRA site.",
   "missing_fields": [
     "shipped_date",
     "tracking_number"

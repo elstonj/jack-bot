@@ -1,6 +1,6 @@
 # Commercial Sales — Pipeline Index
 
-_Last scanned 2026-06-09 03:23_
+_Last scanned 2026-06-10 03:19_
 
 ## Builds (9)
 
@@ -9,8 +9,8 @@ _Last scanned 2026-06-09 03:23_
 | CU Boulder IRISS | — | invoice_sent | complete | none | `1214252346819631` |
 | University of Colorado Boulder | 2026-08-31 | estimate_sent | none | none | `1213756777376150` |
 | National Oceanography Centre (NOC) | 2026-05-15 | estimate_sent | none | none | `1212982512191690` |
-| NOAA | 2028-05-01 | estimate_sent | none | none | `1213688340764301` |
 | UC Santa Cruz Ocean Sciences | 2026-07-18 | estimate_sent | none | none | `1210367257543500` |
+| Murray State University | 2025-10-31 | paid | none | none | `1210051293340204` |
 | University of Colorado | 2026-08-31 | estimate_sent | none | none | `1208185314692566` |
 | Embry-Riddle Aeronautical University | 2026-08-31 | paid | in_qc | none | `1205318673933832` |
 | NASA Ames | 2026-09-30 | paid | in_assembly | none | `1206482266586173` |

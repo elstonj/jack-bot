@@ -1,7 +1,7 @@
 # #general
 
 ## Overview
-Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - June 2026). Key participants include Jack Elston (leadership), Dan Prendergast (business development/operations), Maciej, Joshua Fromm, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, and numerous team members.
+Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - June 2026). Key participants include Jack Elston (leadership), Dan Prendergast (business development/operations), Maciej, Joshua Fromm, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, Spencer Hoehl (new intern as of June 5, 2026), and numerous team members.
 
 ## Key Decisions
 
@@ -24,6 +24,8 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Neighboring Business Facility Access** (May 26, 2026): Havenly bakery (adjacent tenant) granted bathroom access during their facility repairs.
 - **Boulder Social Team Lunch** (June 3, 2026): Meredith Needham organized team lunch reservation at Boulder Social. Confirmed attendees: Jack Elston, Maciej, Beck Cotter, Alex Lomis, Joshua Fromm, Sam Hild, and Meredith Needham. Dan Prendergast unable to attend per Jack's decision; Nate joked about joining incognito.
 - **New Intern Onboarding - Spencer Hoehl** (June 4-5, 2026): Spencer Hoehl (recent CU graduate) starting June 5, 2026 at 9:30am. Jack Elston out; Meredith Needham handled introduction coordination. Jack coordinated with team member to provide computer setup and BST account creation. Welcomed by Paige Smith and Beck Cotter on June 5, 2026.
+- **Spencer Hoehl Work Schedule** (June 9, 2026): Spencer's ongoing schedule established: Monday (all day), Thursday (all day), Friday (afternoon, ~4 hours). Calendar shared by Meredith Needham with team for office presence tracking and time-off visibility.
+- **Dan Prendergast WFH Request** (June 9, 2026): Dan requested work-from-home on Thursday (June 12); Jack Elston humorously demanded a note from Merritt (family member) to excuse absence from in-person work.
 
 ### Funding & Awards
 - **NASA Phase I Award** (May 26, 2021): Contract awarded for S2 all-weather capable platform development with solar integration and VTOL S2 for remote autonomous landing
@@ -40,6 +42,4 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **GitLab IDE Approval** (March 2024): Approved for code storage/editing
 - **Wiring Standards Update** (Feb 10, 2021): Discontinued PTFE wire for 1.25 pitch Clikmate connections; switched to Tefzel wire (dark-colored, tin or silver plated)
 - **S0 Primary Focus** (Dec 2024): S3 on pause except parts ordering; S0 prioritized for wing internal structure finalization and skin production
-- **Nomenclature Strategy for DoD/Federal Contracts** (April 10, 2026): Decision to align naming conventions with federal/DoD standards: "aircraft" for UAS, "ground control station (GCS)" for operator interface device, "datalink" for communication system. Previously called datalink "ground station" and GCS "SwiftTab/SwiftStation". Proposed renaming SwiftStation to "SwiftLink" to match federal terminology and reduce proposal confusion.
-- **DoD Payload Interface Standards Awareness** (April 27, 2026): Team briefed on emerging DoD standardization initiatives for payload-aircraft interfaces. Two key standards referenced: Picatinny CLIK and SOCOM Modular Payload Standard for UAS. Note that SOCOM standard is dated; potential standards competition ahead.
-- **T-Mobile BVLOS Use Case Strategy** (May 18, 2026): Dan Prendergast recommended wildfire use case over tropical storm
+- **Nomenclature Strategy for DoD/Federal Contracts** (April 10, 2026): Decision to align naming conventions with federal/DoD standards: "aircraft" for UAS, "ground control station (GCS)" for operator interface device, "datalink" for communication system. Previously called datalink "ground station"

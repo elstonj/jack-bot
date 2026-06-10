@@ -2,39 +2,67 @@
 
 ## By Product/System
 
-### S0 Air-Deployed UAS
-- **S0 UAS System Integration v2** – NOAA, USAF, USSOCOM, UK MoD – Technical Integration Reference for host-aircraft integration covering WP-3D Orion deployment, USAF Phase integration, CRADA framework, and UK Royal Navy applications (s0_uas_system_integration_v2.md)
+### SØ-MAD (Sonobuoy-Launched Magnetometer)
+- **Development of a SL UAS with Advanced MAD and Acoustic Sensing Capabilities - Phase I Progress Report**
+  - Client: Department of the Navy / NAVAIR
+  - Date: June 9, 2026
+  - Description: Phase I SBIR progress report on sonobuoy-launched magnetometer and acoustic sensing development for UAS
+  - (n6833525c0492clin006progressreport.md)
 
-## By Client/Agency
-
-### NOAA
-- **S0 UAS System Integration v2** – WP-3D Orion operational baseline integration for atmospheric reconnaissance (s0_uas_system_integration_v2.md)
-
-### USAF/AFRC (US Air Force Reserve Command)
-- **S0 UAS System Integration v2** – 53rd Weather Reconnaissance Squadron integration under AFX255-DPCSO1 Direct-to-Phase program (s0_uas_system_integration_v2.md)
-
-### USSOCOM (US Special Operations Command)
-- **S0 UAS System Integration v2** – Cooperative Research and Development Agreement (CRADA) framework integration (s0_uas_system_integration_v2.md)
-
-### UK MoD / Royal Navy
-- **S0 UAS System Integration v2** – Proposed maritime reconnaissance integration for UK Royal Navy operations (s0_uas_system_integration_v2.md)
-
-## By Application Area
-
-### Atmospheric Reconnaissance & Weather Operations
-- **S0 UAS System Integration v2** – WP-3D Orion deployment for NOAA atmospheric sampling and USAF reconnaissance missions (s0_uas_system_integration_v2.md)
-
-### Maritime Operations
-- **S0 UAS System Integration v2** – UK Royal Navy maritime reconnaissance applications (s0_uas_system_integration_v2.md)
-
-### Special Operations
-- **S0 UAS System Integration v2** – USSOCOM CRADA integration framework (s0_uas_system_integration_v2.md)
-
-## By Document Type
-
-### Technical Integration References / Engineering Specifications
-- **S0 UAS System Integration v2** – Host-aircraft integration specifications and multi-agency deployment frameworks (s0_uas_system_integration_v2.md)
+### SØ-Acoustic
+- **Development of a SL UAS with Advanced MAD and Acoustic Sensing Capabilities - Phase I Progress Report**
+  - Client: Department of the Navy / NAVAIR
+  - Date: June 9, 2026
+  - Description: Phase I SBIR progress report on sonobuoy-launched acoustic sensing capabilities for UAS
+  - (n6833525c0492clin006progressreport.md)
 
 ---
 
-**Note:** This catalog currently contains one document. Additional documents may be added as they are provided.
+## By Client/Agency
+
+### Department of the Navy / NAVAIR
+- **Development of a SL UAS with Advanced MAD and Acoustic Sensing Capabilities - Phase I Progress Report**
+  - Program: BAA Topic N251-016; Proposal N251-016-0021
+  - Contract: N6833525C0492 CLIN0006
+  - Date: June 9, 2026
+  - Description: Phase I SBIR progress report on SL UAS with MAD and acoustic sensing
+  - (n6833525c0492clin006progressreport.md)
+
+---
+
+## By Application Area
+
+### Anti-Submarine Warfare / Maritime Detection
+- **Development of a SL UAS with Advanced MAD and Acoustic Sensing Capabilities - Phase I Progress Report**
+  - Client: Department of the Navy / NAVAIR
+  - Date: June 9, 2026
+  - Description: Sonobuoy-launched UAS with magnetometer and acoustic sensing for naval applications
+  - (n6833525c0492clin006progressreport.md)
+
+---
+
+## By Document Type
+
+### SBIR/STTR Progress Reports
+- **Development of a SL UAS with Advanced MAD and Acoustic Sensing Capabilities - Phase I Progress Report**
+  - Client: Department of the Navy / NAVAIR
+  - Contract: N6833525C0492 CLIN0006
+  - Date: June 9, 2026
+  - Description: Phase I SBIR progress report on sonobuoy-launched UAS development
+  - (n6833525c0492clin006progressreport.md)
+
+### Templates & Administrative Documents
+- **Progress_Report_Template_2-1-24**
+  - Client: Department of the Navy (STTR Program)
+  - Effective Date: February 1, 2024 (Created May 6, 2026)
+  - Description: Blank SBIR/STTR progress report template for Navy STTR Hazardous Weather Phase I programs
+  - (progress_report_template_2-1-24.md)
+
+---
+
+**Catalog Notes:**
+- Only 2 documents currently in catalog
+- 1 substantive technical document (progress report)
+- 1 blank template document
+- Limited product diversity; focus on naval maritime sensing applications
+- Consider expanding catalog with additional BST product lines and client engagements

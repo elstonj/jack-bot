@@ -84,14 +84,9 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Jack Elston proposed discontinuing regular S0 meetings in favor of Slack-based coordination (June 3, 2026)
 - Joshua Fromm approved the change to Slack-only coordination (June 3, 2026)
 
-## Projects & Initiatives
+**Sparv Dropsonde Partnership Discussion (June 9, 2026):**
+- Decision deferred on Sparv dropsonde drop payload concept - insufficient funding currently; other R&D with NOAA prioritized instead (June 9, 2026)
+- Sparv sensor integration as secondary comparison to Vaisala flagged as potential interest pending NOAA model acceptance and certification requirements (June 9, 2026)
+- S0-mini development for NASA glider application deferred pending IP/licensing risk mitigation strategy; requires careful sandbox strategy to protect BST from critical NASA IP dependencies (June 9, 2026)
 
-**S0 Aircraft Development:**
-- Ongoing operational platform development with continuous refinement of airframe, sensors, and ground control systems
-- Current focus on 2026 configuration optimization for extended operational season
-- Procuring 20 additional S0 units for stock inventory to support operational opportunities (May 2026)
-
-**Wind Calibration & IMU-MAG Alignment Study:**
-- Maciej analyzing error sources for horizontal and vertical wind measurements from different calibration activities (June 2026)
-- Updated code for improved magnetometer calibration from spin tests completed and validated on CAT (June 2026)
-- Investigating potential consolidation
+**Pitot
