@@ -2,6 +2,6 @@
 
 Only 3 emails found in scanned period.
 
-- Wed, 10 Jun 2026 01:01:39 +0000: Re: MHP data alignment (from: Tanay Topac <tanaytopac@stanford.edu>)
-- Tue, 9 Jun 2026 15:27:24 -0600: Black Swift Tech - Benefit Survey (from: Chad Atwood <chad@theaiginc.com>)
-- Tue, 9 Jun 2026 08:15:31 -0600: forest road special use permit questions (from: Nathaniel Straus <nate.straus@blackswifttech.com>)
+- Wed, 10 Jun 2026 20:57:09 +0000: Invitation: Nathaniel / Beck @ Thu Jun 11, 2026 10:15am - 10:30am (MDT) (Nathaniel Straus) (from: Beck Cotter <beck.cotter@blackswifttech.com>)
+- Wed, 10 Jun 2026 13:57:53 -0600: Re: Great meeting you! (from: Jack Elston <elstonj@blackswifttech.com>)
+- Wed, 10 Jun 2026 19:35:37 +0000: Notes: “BST Internal Update Meeting” Jun 10, 2026 (from: Gemini <gemini-notes@google.com>)

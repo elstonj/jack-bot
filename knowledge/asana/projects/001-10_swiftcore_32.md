@@ -4,9 +4,9 @@
 - **Client/Customer**: Internal maintenance project for BST autopilot system
 - **Dollar Value**: Not specified
 - **Timeline**: Active maintenance project with tasks spanning 2022–2023; last activity November 2023
-- **Status**: **Stable maintenance phase.** Per Daniel Prendergast (May 8–15, 2026), new software issues should be added to the **SwiftCore 3.3 project** going forward, not SwiftCore 3.2. SwiftCore 3.2 remains in stable maintenance with 3 open tasks in "Ready for Testing" status. No overdue items.
+- **Status**: **Stable maintenance phase.** Per Daniel Prendergast (May 11–15, 2026), **new software issues should be routed to SwiftCore 3.3 project going forward.** SwiftCore 3.2 remains in stable maintenance with 3 open tasks in "Ready for Testing" status. No overdue items.
 - **Team Members**: Jack Elston (Owner), Ben Busby, Maciej Stachura, with whole BST team involvement
-- **Risk Signals**: 3 open tasks awaiting testing with no due dates; generally low risk given low priority rating and stable maintenance status.
+- **Risk Signals**: None. 3 open tasks awaiting testing with no due dates; low priority rating reflects stable maintenance status.
 
 ## Key Deliverables & Milestones
 - Master branch (3.2) autopilot and tablet code maintenance
@@ -16,7 +16,7 @@
 - Comprehensive testing across S1 2030/2040, FW 2030/2040, Xplane, and Gazebo platforms
 
 ## Task Summary
-- **Total Tasks**: 305 (3 open, 302 completed = 99% historical completion rate)
+- **Total Tasks**: 308 (3 open, 305 completed = 99% historical completion rate)
 - **Current Open Tasks** (all assigned to Ben Busby, all "Ready for Testing", no due dates):
   1. Can't change text to set lost comms waypoint to a number in mission tab (master branch)
   2. Warning for some level 2 errors doesn't create pop up window — mission limits violation with waypoint, static pressure failure (master branch)
@@ -38,7 +38,7 @@
 ## Notes & Context
 This is a critical maintenance project for BST's core autopilot technology (SwiftCore 3.2). The project demonstrates comprehensive quality assurance with extensive testing across multiple hardware platforms and simulators.
 
-**Workflow Update (May 2026)**: Per Daniel Prendergast (May 11–15, 2026), **new software issues should be routed to the SwiftCore 3.3 project going forward, not SwiftCore 3.2.** SwiftCore 3.2 is in stable maintenance mode. An Asana Form has been created as part of standard post-flight process to capture aircraft and equipment issues, automatically routing them to Fleet Maintenance (for hardware issues) or the appropriate software project (SwiftCore 3.3 for software issues). Teams may continue adding tasks manually if preferred.
+**Workflow Directive (May 2026)**: Per Daniel Prendergast (May 11–15, 2026), **new software issues should be routed to the SwiftCore 3.3 project going forward, not SwiftCore 3.2.** SwiftCore 3.2 is in stable maintenance mode. Teams may continue adding tasks manually to SwiftCore 3.3 if preferred. An Asana Form has been created as part of standard post-flight process to capture aircraft and equipment issues, automatically routing them to Fleet Maintenance (for hardware issues) or the appropriate software project (SwiftCore 3.3 for software issues).
 
 **Key technical areas addressed in completed work**:
 - **Flight safety systems**: Voltage monitoring, propulsion failure detection, landing protocols, static pressure failure detection, watchdog timers for GNSS and dynamic pressure

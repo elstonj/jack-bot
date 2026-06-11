@@ -33,7 +33,7 @@
   - Unassigned: 1 task (Kevin Rozmiarek contact record — High priority)
 
 ## Recent Activity
-- **June 1, 2026** (Joshua Fromm): Commercial-sales stub created (product: '2 S3 units with standard equipment', customer and ship_by fields empty) — customer inquiry asking to attach invoice; may indicate informal scope discussion or invoice completion needed.
+- **June 1, 2026** (Joshua Fromm): Commercial-sales stub created with empty customer and ship_by fields. Original inquiry: "can you just attach the invoice for instaar?" — suggests invoice completion or scope clarification needed.
 - **April 20, 2026** (Jack): INSTAAR x2 flagged as competing near-term delivery priority alongside Ottawa demo and Murphy's project — sequence TBD.
 - **January 8, 2025**: Kevin Rozmiarek confirmed 3–4 week launcher pallet shipping; expected delivery second week of February 2025.
 - **December 11, 2024**: Estimates approved.
@@ -42,6 +42,6 @@
 ## Notes & Context
 - **Insurance-funded replacement** for two damaged S2 units.
 - One S3 includes **$10k discount** (5% insurance deductible applied to total).
-- **Operator Training Travel — URGENT**: August 11–13, 2025 training logistics (flights, accommodations) **must be scheduled immediately**. Coordinate with Dan Prendergast and Kevin Rozmiarek (primary contact: Kevin.rozmiarek@colorado.edu, 512-573-8279).
-- **Contact**: Kevin Rozmiarek, CU Stable Isotope Lab, 4001 Discovery Dr., Boulder, CO 80303; (512) 573-8279.
+- **Operator Training Travel — URGENT**: August 11–13, 2025 training logistics (flights, accommodations) **must be scheduled immediately**. Coordinate with Dan Prendergast and Kevin Rozmiarek.
+- **Contact**: Kevin Rozmiarek, CU Stable Isotope Lab, 4001 Discovery Dr., Boulder, CO 80303; Kevin.rozmiarek@colorado.edu; (512) 573-8279.
 - **Project Priority**: Medium | **Customer Type**: Commercial

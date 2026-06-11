@@ -1,81 +1,73 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,358 (2,321 previous + 37 new from Jun 9–10, 2026)
+- **Total messages scanned:** 2,407 (2,358 previous + 49 new from Jun 10, 2026)
 - **Date range:** March 24 – June 10, 2026 (79 days)
 - **Approximate volume:** ~30 messages per day (sustained consistency)
-- **Pattern update (Jun 9–10):** Escalated geopolitical monitoring with **active U.S.-Iran military conflict tracking**, sustained aerospace/defense conference engagement, and continued operational tempo.
-  - **~92% automation/newsletters/tool notifications** (34 of 37 new messages)
-  - **~8% direct human/business correspondence** (3 of 37 messages — QuickBooks payments, vendor inquiry)
-  - **CRITICAL SIGNAL: Real-time U.S. military escalation monitoring (helicopter incident + U.S. retaliatory strikes on Iran), domestic U.S. election primary coverage, and continued aerospace conference/industry news aggregation.**
+- **Pattern update (Jun 10, 2026):** Continued escalation monitoring with active Iran military crisis coverage, sustained aerospace/defense conference engagement, marketing campaign activation, and new **vendor/partner collaboration signals**.
+  - **~90% automation/newsletters/tool notifications** (44 of 49 new messages)
+  - **~10% direct human/business correspondence** (5 of 49 messages — marketing campaign coordination, geoff/Aeropod collaboration, capital factory PR contact)
+  - **CRITICAL SIGNAL: Real-time U.S.-Iran military escalation tracking (Apache helicopter + retaliatory strikes), active KS/BST marketing partnership, Aeropod image collaboration, and emerging digital marketing/SEO vendor engagement.**
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Senders & Collaborators
-- **Jack Elston** (media@blackswifttech.com) — **CRITICAL/MEDIA STRATEGY** [ACTIVELY ENGAGED — Media coordination, external defense industry inquiries, UAS/aerospace news distribution]
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — **SALES/ACCOUNT MANAGEMENT** [ACTIVE — Media Interview Request coordination, external pitch routing]
-- **Maciej Stachura** (stachura@blackswifttech.com) — **LEADERSHIP/STRATEGY** [Included in media/external communications distribution]
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — **FINANCE/OPERATIONS** [Processing university research foundation payments via QuickBooks; managing vendor bills]
-- **Randy** (randy@centercopyprinting.com) — **EXTERNAL VENDOR/PRINT SERVICES** [Form submissions, printing services coordination]
-- **SALES@blackswifttech.com** — **SHARED DISTRIBUTION** [Payment processing notifications, vendor communications routed through sales channel]
+- **Jack Elston** (elstonj@blackswifttech.com, media@blackswifttech.com) — **CRITICAL/MEDIA STRATEGY** [ACTIVELY ESCALATING — BST/KS marketing campaign coordination, Capital Factory PR contact routing, STATION DC membership renewal forwarding]
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — **SALES/ACCOUNT MANAGEMENT** [Previously active; not in new batch]
+- **Maciej Stachura** (stachura@blackswifttech.com) — **LEADERSHIP/STRATEGY** [Previously active; not in new batch]
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — **FINANCE/OPERATIONS** [Previously active; not in new batch]
+- **info@blackswifttech.com** — **SHARED DISTRIBUTION** [Newsletter/vendor routing, DARPA opportunity alerts, internal sales/partnership notifications]
+- **sales@blackswifttech.com** — **SHARED DISTRIBUTION** [Partnership opportunity routing (UAVZone), vendor communications]
+- **info@bst.aero** — **SECONDARY DOMAIN** [DARPA opportunity routing, UAS magazine distribution]
 
 ### Top External Senders & Vendors
 
-#### **DEFENSE/GEOPOLITICAL INTELLIGENCE (CRITICALLY ESCALATED — NEW ESCALATION PHASE)**
+#### **GEOPOLITICAL INTELLIGENCE (ACTIVE ESCALATION CONTINUES)**
 
-1. **The New York Times (Breaking News Feed)** — **9 new messages (Jun 9–10, 01:59–23:49 UTC)**:
-   - **Jun 9, 23:49 UTC**: "Breaking news: U.S. launches strikes on Iran to retaliate for downed helicopter" (UNREAD) — **CRITICAL ESCALATION**: Direct U.S. military action against Iran following helicopter incident
-   - **Jun 9, 17:22 UTC**: "Breaking news: Trump says Iran downed U.S. helicopter and vows to retaliate" (UNREAD) — **CRITICAL**: Executive confirmation of Iranian involvement + retaliation declaration (22 hours before strikes executed)
-   - **Jun 9, 23:01 UTC**: "Primary elections in 4 states: Follow live results" (UNREAD) — Domestic election coverage
-   - **Jun 10, 01:56–01:59 UTC** (3 messages): Maine Democratic Senate primary (Graham Platner), S.C. gubernatorial race (Nancy Mace concedes), California gubernatorial race (Steve Hilton advances) — **PATTERN**: Real-time primary election tracking mixed with geopolitical crisis coverage
-   - **Jun 9, 21:59 UTC**: "House passes G.O.P.'s $70 billion immigration bill" — Domestic policy (skilled worker visa tracking continues)
-   - **Jun 9, 12:48 UTC** (NYT Editor Picks): "How the drive to find a conspiracy against Trump rocked the Justice Dept." — Political/legal coverage
+1. **The New York Times (Multi-Stream Coverage)** — **5 new messages (Jun 10)**:
+   - **Jun 10, 22:14 UTC**: "Breaking news: U.S. Strikes Iran again after Trump says talks are taking too long" (UNREAD, CATEGORY_UPDATES) — **CRITICAL ESCALATION**: Second U.S. strike wave on Iran; Trump administration timeline pressure signal
+   - **Jun 10, 19:54 UTC**: "Inside the White House freakout over the Epstein files" (UNREAD, CATEGORY_UPDATES) — Domestic political crisis coverage
+   - **Jun 10, 12:00 UTC**: "3 takeaways from Tuesday's primaries" (UNREAD, CATEGORY_UPDATES) — Election primary analysis
+   - **Jun 10, 10:48 UTC**: "The Morning: You asked" (IMPORTANT, CATEGORY_UPDATES) — Daily briefing
+   - **Jun 10, 17:44 UTC**: NYT subscription promo (CATEGORY_PROMOTIONS) — Transactional
 
-   **ANALYSIS**: Paige monitoring **dual crisis streams** — U.S.-Iran military escalation *and* U.S. domestic election primaries in parallel, suggesting either:
-   - Corporate intelligence/market analysis (geopolitical risk assessment)
-   - Strategic communications briefing (media strategy preparation)
-   - Executive-level situational awareness role
+   **ANALYSIS**: Paige actively consuming **real-time U.S.-Iran military crisis** (two strikes in 24 hours) + **simultaneous domestic political monitoring** (White House crisis, election primaries). Pattern suggests **executive/strategic communications role requiring dual-track situational awareness**.
 
-2. **Air & Space Forces Association (AFA)** — **2 new messages (Jun 9)**:
-   - Jun 9, 07:27 UTC: "🌐 Register now for AFA's September Conference!" (CATEGORY_PROMOTIONS) — **CONTINUED**: AFA September 2026 conference registration active
-   - **(Previously Jun 8)**: AFA membership engagement + DAF civilian hiring announcement
+2. **Air & Space Forces Magazine (AFA Daily Report)** — **1 new message (Jun 10, 03:45 UTC)**:
+   - Subject: "US Strikes Iran to Retaliate for Downed Apache" (UNREAD, IMPORTANT, CATEGORY_UPDATES) — **CRITICAL**: Apache helicopter incident framing (matches NYT helicopter narrative from Jun 9); marked IMPORTANT by Paige
+   - **SIGNAL**: AFA is Paige's **primary defense/geopolitical intelligence channel** (marked IMPORTANT — indicates trusted source for crisis updates)
 
-3. **Air & Space Forces Magazine** — **1 new message (Jun 9, 03:50 UTC)**:
-   - Subject: "Where the Pentagon Cut Down on Religion Codes" (UNREAD, IMPORTANT, CATEGORY_UPDATES) — **SIGNAL**: Pentagon HR/personnel policy tracking (religious accommodation codes)
-   - **Marked IMPORTANT by Paige** — indicates relevance to internal operations/policy
+#### **MARKETING PARTNERSHIPS & CAMPAIGN ACTIVATION**
 
-4. **UAS VISION / Russ** (russ@uasvision.com) — **1 new message (Jun 9, 09:06 UTC)**:
-   - Subject: "DAILY NEWS" — **Routed to Jack Elston (media@blackswifttech.com)** — Continues UAS industry news distribution through media channel
+3. **Jack Elston → Sona Raziabeegum (Krateo Sky)** — **Jun 10, 17:52 UTC (Mountain Time)**:
+   - **TO:** Sona Raziabeegum <sona@krateosky.com>, Paige Smith <paige.smith@blackswifttech.com>
+   - **SUBJECT:** "BST / KS marketing campaign" (UNREAD, IMPORTANT, INBOX)
+   - **CRITICAL NEW SIGNAL**: **Active BST/Krateo Sky (KS) joint marketing campaign** — Paige is **primary participant** in partnership strategy
+   - **KRATEO SKY INTELLIGENCE**: Not previously identified vendor; appears to be **strategic partner** (sky/aerial platform focus)
+   - **TIMELINE**: Campaign activation on Jun 10 (during U.S.-Iran crisis)
 
-5. **Dronitaly** (info@bfwe.it) — **1 new message (Jun 9, 08:31 UTC)**:
-   - Subject: "Assorpas e Dronitaly su Drone Magazine: Nicola Nizzoli racconta l'Italia dei droni" (Italian: "Dronitaly on Drone Magazine: Nicola Nizzoli talks about Italy's drone sector") — **SIGNAL**: International drone industry coverage (European market intelligence)
-   - **Routed to info@blackswifttech.com** — General corporate inbox
+4. **Morgan Odell (Capital Factory) ↔ Jack Elston** — **3 new messages (Jun 10, 12:55–18:52 UTC)**:
+   - **Jun 10, 11:45 UTC** (Jack to Morgan + Paige): "Contact for PR at Capital Factory" (IMPORTANT, INBOX) — **Jack routing PR contact request**
+   - **Jun 10, 12:55 UTC** (Jack to Morgan): "Re: Contact for PR at Capital Factory" (IMPORTANT, INBOX) — **Jack's response**
+   - **Jun 10, 18:52 UTC** (Morgan's reply): "Re: Contact for PR at Capital Factory" (IMPORTANT, INBOX) — **Morgan's counter-response**
+   - **CAPITAL FACTORY**: Austin-based startup accelerator/community space; **indicates BST seeking PR/media amplification through startup ecosystem network**
+   - **PAIGE ROLE**: Included on initial inquiry but not on follow-up chain (Jack/Morgan direct conversation)
 
-6. **Greg at Cynthetic Systems** (greg@cyntheticsystems.com) — **1 new message (Jun 9, 13:34 UTC)**:
-   - Subject: "Securing Infrastructure Against AI-Accelerated Threats" (UNREAD, CATEGORY_FORUMS) — **NEW VENDOR/PARTNER**: Cybersecurity infrastructure protection (AI threat angle); suggests BST tracking emerging security threats or potential partnership/competitive analysis
+#### **EXTERNAL CONTENT COLLABORATION**
 
-#### **PROFESSIONAL ORGANIZATIONS & THOUGHT LEADERSHIP**
+5. **Geoff (gb.aerokats@gmail.com)** — **4 new messages (Jun 10, 14:42–19:17 UTC)**:
+   - **Jun 10, 14:42 UTC** (Paige SENT): "Re: Folder shared with you: 'Aeropod Pics 6-2-26 for BST'" — **Paige initiating**
+   - **Jun 10, 15:10 UTC** (Paige SENT): "Re: Folder shared with you: 'Aeropod Pics 6-2-26 for BST'" — **Second Paige message**
+   - **Jun 10, 17:24 UTC** (Geoff's reply): "Re: Folder shared with you: 'Aeropod Pics 6-2-26 for BST'" (IMPORTANT, INBOX) — **Marked IMPORTANT**
+   - **Jun 10, 19:17 UTC** (Geoff's follow-up): "Re: Folder shared with you: 'Aeropod Pics 6-2-26 for BST'" (UNREAD, IMPORTANT, INBOX) — **Marked IMPORTANT again**
+   - **AEROPOD SIGNAL**: Likely **external asset/content provider** for BST marketing materials; "Aeropod Pics" suggests **aerial/drone photography or video content**; date stamp "6-2-26" indicates **June 2 photo shoot date**
+   - **RAPID EXCHANGE**: 4+ messages same day suggests **time-sensitive content coordination** (possibly for KS/BST campaign or conference materials)
+   - **CC TO TED MILES**: Geoff also copied Ted Miles (ted59@msn.com) — indicates **multi-party creative/production team**
 
-7. **LinkedIn Newsletters** — **2 new messages (Jun 9)**:
-   - "Defense Advancement via LinkedIn" (DA Newsletter Edition 217) — **IMPORTANT**: Defense industry intelligence feed
-   - "USAA issues $1B in returns" — Financial/corporate news
+#### **DEFENSE/AEROSPACE INDUSTRY NEWS & PARTNERSHIPS**
 
-8. **Geo Week News** (info@geo-week.com) — **1 new message (Jun 9, 13:11 UTC)**:
-   - Subject: "Take the Field Reality Survey - Add Your Voice Today!" (CATEGORY_PROMOTIONS) — **SIGNAL**: Survey participation (geospatial/3D imaging industry engagement)
+6. **Air & Space Forces Association (AFA)** — **Continued engagement** (not new messages in this batch, but sustained pattern)
 
-#### **ENERGY & INFRASTRUCTURE TECHNOLOGY**
-
-9. **Energy Drone & Robotics News** (news@innovateenergynow.com) — **1 new message (Jun 9, 09:27 UTC)**:
-   - Subject: "🤖 The Robotics Revolution Is Accelerating. Don't Get Left Behind." (CATEGORY_UPDATES) — **SIGNAL**: Energy sector robotics/drone applications (pipeline inspection, infrastructure monitoring theme continues)
-
-10. **Aveo Engineering Group** (newsletter@aveoengineering.com) — **1 new message (Jun 9, 16:01 UTC)**:
-    - Subject: "Your Mission, Your Choice!" (UNREAD, CATEGORY_FORUMS) — **Sustained competitor/partner tracking**
-
-#### **BUSINESS TOOLS & OPERATIONAL**
-
-11. **QuickBooks Bill Pay (Sales channel)** — **2 new messages (Jun 9, 17:20–17:23 UTC)**:
-    - **Jun 9, 17:23 UTC**: "Processing payment to Old Dominion University Research Foundation" (UNREAD, CATEGORY_FORUMS) — **NEW EDUCATIONAL PARTNER**: Research foundation payment (likely research contract, sponsorship, or institutional partnership)
-    - **Jun 9, 17:20 UTC**: "You've scheduled one bill payment" — Confirmation notification
-    - **ANALYSIS**: BST
+7. **UAS Magazine

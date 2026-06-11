@@ -109,10 +109,10 @@
 - **Service Accounts:** 2
 
 **Verification Status:**
-- All 18 directory entries verified and merged with new raw data
+- All 18 directory entries verified against raw data
 - All phone numbers confirmed and normalized to consistent dash-separated format (e.g., 720-933-4503)
 - No new hires or departures detected
-- All existing records accurate and up-to-date
+- All existing records remain accurate and up-to-date
 - Directory is current and complete as of latest sync
 
 **Notes:**

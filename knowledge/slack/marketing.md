@@ -5,7 +5,7 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 
 **Key participants:** Jack Elston (leadership/strategy), Parker Vollmer (marketing), Sophia Henkels (content/web), Paige Smith (marketing), Alex Lomis (video/technical), Beck Cotter, Kareem, Dan Prendergast, Maciej, Brody Basset (external contact - US Commercial Service), Rob Marciano (external contact - media/video producer), WeatherNation (external contact - media partner)
 
-**Activity level:** High frequency discussions across June 2024-June 2026 period, with multiple concurrent projects in various stages. Most recent activity (June 4, 2026) shows editorial guidance on news worthiness of content.
+**Activity level:** High frequency discussions across June 2024-June 2026 period, with multiple concurrent projects in various stages. Most recent activity (June 10, 2026) shows website development and LinkedIn strategy discussions.
 
 ---
 
@@ -120,4 +120,6 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 - Paige Smith created two versions (with and without captions) of S0 VTOL Wildfire Visualizer content
 - **Jack's required text corrections:**
   - Change "accelerating at over 100mph" to **"capable of sprinting at over 100mph"**
-  - Update reference to **"The NightFOX payload"** (
+  - Update reference to **"The NightFOX payload"**
+
+###
