@@ -1,86 +1,71 @@
 # Slack Channels Overview
 
-Last scanned: 2026-06-10 02:14
+Last scanned: 2026-06-11 02:20
 
-Total channels scanned: 9
+Total channels scanned: 7
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 9 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#commercial-sales** -- 1 messages -- [commercial-sales.md](commercial-sales.md)
-- **#emass** -- 10 messages -- [emass.md](emass.md)
-- **#emass-bst** -- 8 messages -- [emass-bst.md](emass-bst.md)
-- **#general** -- 5 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 4 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#operations** -- 2 messages -- [operations.md](operations.md)
-- **#s3** -- 7 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 12 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#25_1-navy-sbir-magnetometer** -- 6 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#emass-bst** -- 2 messages -- [emass-bst.md](emass-bst.md)
+- **#general** -- 6 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 1 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#marketing** -- 9 messages -- [marketing.md](marketing.md)
+- **#s3** -- 21 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 1 messages -- [sbir-hurricane.md](sbir-hurricane.md)
 
 ## Strategic Summary
 
 # Black Swift Technologies - Cross-Channel Strategic Overview
 
-## Active Projects & Programs
+## Active Projects
 
-**Government R&D (SBIR/Grant-Funded)**
-- SBIR Hurricane (S0 aircraft for hurricane reconnaissance) - most mature, active 2020-2026
-- Navy SBIR Magnetometer (QuSpin integration for MAD detection)
-- eMASS AI integration (ECSDoT energy management system on E2 platform)
-- Multiple NASA, NOAA, USDA grant pursuits tracked in #grants-and-funding
+**Hardware/Aircraft Platforms:**
+- **S0 (Hurricane Reconnaissance)**: Unmanned aircraft for hurricane missions; most established program with extensive operational history (2020-2026)
+- **S3 (VTOL)**: Hybrid fixed-wing/quadcopter with tilting rotors; 2-3 hour endurance target; in active development phase
+- **E2 (Energy Management Integration)**: Aircraft platform being upgraded with eMASS AI's ECSDoT energy management hardware
+- **Navy Magnetometer System**: QuSpin magnetometer integration for magnetic anomaly detection (MAD) applications; SBIR-funded
 
-**Internal Product Development**
-- S3 VTOL (hybrid fixed-wing/quadcopter, 2-3 hour endurance) - primary development focus
-- E2 platform (serves as testbed for multiple integrations)
-- S2, S0, S0-VTOL variants in commercial pipeline
+**Business Development:**
+- Active grant pursuit across multiple federal agencies (NASA, DOD, NOAA, USDA); continuous proposal pipeline management
 
-## Key Decision-Makers & Roles
+## Key People & Decision Patterns
 
-| Person | Primary Role | Cross-Channel Activity |
-|--------|-------------|----------------------|
-| Jack Elston | CEO/Technical Lead | Appears in all channels; final approval authority on proposals and technical decisions |
-| Joshua Fromm | Lead Engineer/Hardware | S3 design lead; operations/shop management |
-| Maciej | Project Management/Systems | Technical oversight across SBIR Hurricane, S3, grants; proposal support |
-| Dan Prendergast | Business Development/Operations | EMASS project lead; operational coordination |
-| Sam Hild | Firmware Developer | Active in S3, Hurricane, Magnetometer projects |
-| Meredith Needham | Finance/Administration | Budget tracking, grant management |
+**Leadership/Strategic:**
+- **Jack Elston**: Primary decision-maker; oversees proposals, strategy, and systems architecture across projects
+- **Maciej**: Technical oversight, testing, project coordination across multiple initiatives
 
-## Decision Patterns
+**Technical Core:**
+- **Joshua Fromm**: Lead engineer/designer (S3, S0)
+- **Sam Hild**: Firmware development (S3, magnetometer)
+- **Beck Cotter**: Hardware/system integration (magnetometer, S0)
 
-1. **Proposal-Driven Roadmap**: Grant cycles drive development priorities (#grants-and-funding directs resource allocation)
-2. **Iterative Hardware Testing**: Technical decisions validated through flight testing before scaling
-3. **Collaborative Integration**: External partners (eMASS, QuSpin) integrated via dedicated channels with BST technical leads
-4. **Centralized Approvals**: Jack Elston reviews and approves significant proposals, technical approaches, and funding decisions
+**Operations/Administration:**
+- **Dan Prendergast**: Business development and operations
+- **Meredith Needham**: Budget and administrative management
 
-## Recurring Cross-Channel Themes
+**External Collaboration:**
+- **Nikhila (eMASS AI)**: Primary hardware/AI integration partner for E2/ECSDoT project
 
-**Technical Integration Challenges**
-- Hardware/software compatibility issues between custom AI chips and autopilot systems
-- Payload integration complexity (magnetometers, AI chips, traditional sensors)
-- Flight performance optimization under new payload configurations
+## Cross-Channel Themes
 
-**Resource Constraints**
-- Operations channel tracks procurement delays, budget limitations
-- Competition for engineering time across multiple concurrent projects
-- Shop capacity for aircraft manufacturing and testing
+1. **Hardware Integration Complexity**: Multiple parallel projects require integrating external sensors/systems (magnetometers, energy management) into BST platforms—recurring coordination challenge across #s3, #emass-bst, and #25_1-navy-sbir-magnetometer
 
-**Customer & Contract Execution**
-- Commercial sales channel shows delivery commitments driving operations priorities
-- University and government agency relationships provide steady demand pipeline
-- International interest noted but logistics/compliance barriers present
+2. **SBIR Funding Strategy**: Both hurricane and magnetometer projects are SBIR-funded; grant channel manages proposals while technical channels execute; funding drives project timelines
 
-**Funding Sustainability**
-- Heavy reliance on government SBIR grants and proposal-based revenue
-- Grant cycles create project timing dependencies
-- Multiple concurrent proposals increase administrative overhead
+3. **Firmware & Systems Architecture**: Jack Elston and Sam Hild appear across S3, S0, and magnetometer channels—firmware/autopilot is shared capability across platforms
 
-## Information Flow Observations
+4. **Testing & Validation**: Consistent pattern of field testing, control systems refinement, and performance validation across all aircraft platforms
 
-- **#general**: Company-wide awareness, major announcements
-- **#operations**: Day-to-day execution, resource coordination (bridges all projects)
-- **#grants-and-funding**: Strategic direction setter (creates task priorities)
-- **Project channels** (#s3, #sbir-hurricane, #25_1-navy-sbir-magnetometer, #emass): Deep technical work
-- **#commercial-sales**: Revenue/delivery tracking (validates market demand for R&D investments)
+5. **External Communications**: Marketing channel develops strategy for promoting aircraft capabilities and project achievements referenced in technical channels
 
-## Strategic Positioning
+## Recurring Decision Patterns
 
-BST operates as a **grant-funded R&D company** with commercial sales as secondary revenue stream. Core strength in autonomous aircraft systems; differentiation through custom integration (AI chips, specialized sensors) onto proven platforms. Heavy engineering team concentration relative to company size suggests manufacturing/integration capacity is limiting factor.
+- **Jack Elston**: Final approval authority on proposals, technical architecture decisions, and strategic direction
+- **Maciej**: Technical validation and feasibility assessment before commitments
+- **Distributed expertise**: Specialists (firmware, hardware, business) coordinate across channels rather than siloed teams
+
+## Information Flow Gaps
+
+- Marketing and technical teams appear loosely connected; product updates in technical channels don't immediately translate to marketing collateral discussions
+- Funding decisions in #grants-and-funding don't explicitly tie to resource allocation discussions in project channels

@@ -1,0 +1,42 @@
+{
+  "asana_gid": "proj-031-1-training",
+  "asana_task_name": "UMES [031-1] follow-on / operator training (Invoice 1765)",
+  "customer": "University of Maryland Eastern Shore (UMES)",
+  "customer_contact": "Chris Hartman / Crystal Neal",
+  "customer_email": "chartman@umes.edu / cmneal@umes.edu",
+  "receive_by": "2026-07-25",
+  "ship_to": "University of Maryland Eastern Shore, Princess Anne, MD",
+  "items": [
+    {
+      "description": "S3 operator training (on-site, July 23–25, 2026)",
+      "quantity": 1
+    },
+    {
+      "description": "Follow-on / extension per invoice 1765",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "invoice_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": "2026-05-18",
+  "invoice_amount": 79338.0,
+  "invoice_number": "1765",
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": "",
+  "carrier": "",
+  "shipped_date": null,
+  "owners": {
+    "interface": "Josh Fromm",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Follow-on / extension to the UMES S3 hardware order (031-1). Invoice 1765 ($79,338, dated 2026-05-18) is outstanding (full balance open in QBO). Operator training scheduled on-site July 23–25, 2026. Split out from the hardware Build (proj-031-1, complete + paid + delivered) per Jack on 2026-06-10 so the $79,338 open AR and the pending training stay visible on the digest. Confirm scope/payment with Meredith.",
+  "missing_fields": [
+    "paid_date"
+  ],
+  "last_evidence_date": "2026-06-05",
+  "last_contact_date": null
+}

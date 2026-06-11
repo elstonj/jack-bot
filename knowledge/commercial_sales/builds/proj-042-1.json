@@ -26,7 +26,7 @@
   ],
   "payment_state": "paid",
   "build_state": "complete",
-  "ship_state": "awaiting_pickup",
+  "ship_state": "delivered",
   "estimate_date": null,
   "invoice_date": "2025-05-02",
   "invoice_amount": 5000.0,
@@ -35,13 +35,13 @@
   "parts": [],
   "tracking_number": "",
   "carrier": "FedEx",
-  "shipped_date": null,
+  "shipped_date": "2026-06-08",
   "owners": {
     "interface": "Beck",
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Ongoing R&D collaboration (Stanford structural health monitoring / 'fly-by-feel', Prof. Fu-Kuo Chang + Acellent Technologies, Dr. Amrita Kumar). The S2 hardware ships back and forth between BST and Stanford and will return to BST again for flight testing. Original sale: S2 UAS platform components (right wing, fuselage w/ avionics, nose cone, payload dev kit) from BST spare inventory, Invoice 1666 ($5,000) paid 2025-05-02. CURRENT: parts are at BST, work is finished, unit going back out to Stanford Monday 2026-06-08 via FedEx (Nate gave crate dims 67\"x27\"x13\", 61 lbs; Meredith arranging FedEx pickup). Will come back to BST afterward for us to fly. payment_state stays 'paid' (one-time sale); ship_state reflects the active outbound leg, not a new charge.",
+  "notes": "Ongoing R&D collaboration (Stanford structural health monitoring / 'fly-by-feel', Prof. Fu-Kuo Chang + Acellent Technologies, Dr. Amrita Kumar). The S2 hardware ships back and forth between BST and Stanford and will return to BST again for flight testing. Original sale: S2 UAS platform components (right wing, fuselage w/ avionics, nose cone, payload dev kit) from BST spare inventory, Invoice 1666 ($5,000) paid 2025-05-02. CURRENT: the S2 unit shipped out to Stanford via FedEx on 2026-06-08 and has been received — this outbound leg is delivered, so the (one-time, already-paid) sale drops off the active digest. The hardware is expected back at BST afterward for flight testing; if/when it returns and re-ships, the scanner can re-open a leg. payment_state stays 'paid' (one-time sale, Invoice 1666 $5,000).",
   "missing_fields": [
     "customer_email",
     "tracking_number"

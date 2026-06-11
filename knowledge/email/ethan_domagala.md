@@ -1,8 +1,9 @@
 # Ethan Domagala — Email Patterns
 
-Only 4 emails found in scanned period.
+Only 5 emails found in scanned period.
 
-- Wed, 10 Jun 2026 06:15:47 +0000: Wednesday - tasks due soon: 1 - blackswifttech.com (from: Asana <no-reply@asana.com>)
-- Tue, 9 Jun 2026 15:27:24 -0600: Black Swift Tech - Benefit Survey (from: Chad Atwood <chad@theaiginc.com>)
-- Tue, 09 Jun 2026 17:23:15 +0000 (UTC): 🚀 Small Drones. Big Fun. (from: GetFPV <chloe@getfpv.com>)
-- Tue, 09 Jun 2026 10:41:30 +0000: Re: Grant for UAS Development for Atmospheric Research - Navy (from: Robert Wegner <robert.w@boldwitadvisors.com>)
+- Thu, 11 Jun 2026 06:15:48 +0000: Thursday - tasks due soon: 1 - blackswifttech.com (from: Asana <no-reply@asana.com>)
+- Wed, 10 Jun 2026 17:13:04 -0700: Your Google traffic is bleeding out (from: Kylie Bliss <kbliss@hubspot.com>)
+- Wed, 10 Jun 2026 20:57:29 +0000: Invitation: Ethan / Beck @ Thu Jun 11, 2026 10:30am - 10:45am (MDT) (Ethan Domagala) (from: Beck Cotter <beck.cotter@blackswifttech.com>)
+- Wed, 10 Jun 2026 19:35:38 +0000: Notes: “BST Internal Update Meeting” Jun 10, 2026 (from: Gemini <gemini-notes@google.com>)
+- Wed, 10 Jun 2026 16:49:49 +0000: You’re invited: Get an exclusive look at our new features (from: Asana <learn@email1.asana.com>)

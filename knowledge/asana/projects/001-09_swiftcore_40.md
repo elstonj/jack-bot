@@ -106,4 +106,4 @@ Next-generation autopilot architecture spanning 11+ years of feature development
 - Real-time telemetry visualization with custom plot windows (scalar vs. scalar, zoom/pause/play controls)
 - Graphical flight planning (waypoints, Dubins paths, altitude profiling, LOS calculation)
 - DEM (Digital Elevation Model) integration for terrain mapping (SRTM files, MapBox investigation)
-- Payload control and
+- Payload control,

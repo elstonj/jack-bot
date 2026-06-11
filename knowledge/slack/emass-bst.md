@@ -13,7 +13,7 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Sergio Ruocco (eMASS AI) - Autoboot firmware expert, SDK bring-up and troubleshooting
 - Shantanu (eMASS AI) - Hardware verification and validation
 
-**Activity Level:** Highly active collaboration spanning February-April 2026, with continued intensive activity through May 2026 focused on flight testing and controller refinement. Critical first-flight test completed on Apr 24, 2026. Activity through May 25, 2026 included troubleshooting waypoint navigation behavior, controller stability issues, sim-to-flight fidelity gaps, post-flight analysis, protocol documentation requests, and holiday scheduling. Activity May 26-27, 2026 involved delivery of three microtest binaries with comprehensive velocity command test sequences and overshoot validation. Activity May 28, 2026 focused on microtest flight results analysis and control behavior diagnostics. Latest activity (May 29, 2026) addressed velocity command precision issues and control limit parameters. **June 2-5, 2026:** Testing multiple binary variants with hardcoded vs. waypoint-fetched flight paths and varying max speed limits; iterative refinement of controller parameters (altitude adjustments, speed constraints); pilot scheduling and resource allocation remain critical constraints with compressed test window. **June 5-6, 2026:** Flight testing continued with new binaries delivered. Dan Prendergast conducted flights on June 5 with detailed logs and email documentation provided. Access issues identified with shared Flight Data drive requiring permissions update for eMASS team members (Mohamed M. Sabry, Sergio Ruocco unable to access). Video documentation was unavailable during June 5 flight due to pilot availability constraints. Drive access permissions were confirmed as updated on June 6, 2026. **June 8, 2026:** Call scheduling coordination between Mohamed M. Sabry, Dan Prendergast, and Sergio Ruocco for evening discussion; initial morning call attempt rescheduled due to Dan's unavailability. **June 9, 2026:** Team coordination call scheduled with Mohamed M. Sabry, Dan Prendergast, Nikhila, and Sergio Ruocco to discuss flight test results and success criteria evaluation.
+**Activity Level:** Highly active collaboration spanning February-April 2026, with continued intensive activity through May 2026 focused on flight testing and controller refinement. Critical first-flight test completed on Apr 24, 2026. Sustained high activity through June 2026 with iterative testing cycles, binary variants, parameter refinement, and comparative performance evaluation protocols. Latest activity (June 10, 2026) establishing speed constraint testing methodology.
 
 ---
 
@@ -87,4 +87,18 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Status: Models sent to BST before subsequent test flight
 
 **AI Model Control Behavior Specification (Apr 25-26, 2026)**
-- Jack Elston requested clarification on AI model behavior once activated in flight: "will it hold a point or try to
+- Jack Elston requested clarification on AI model behavior once activated in flight
+- Clarified that AI controller provides continuous guidance/setpoints throughout flight once activated
+
+**Iterative Binary Testing Protocol (June 2-6, 2026)**
+- Multiple binary variants tested with hardcoded vs. waypoint-fetched flight paths and varying max speed limits
+- Iterative refinement cycle established for controller parameters (altitude adjustments, speed constraints)
+
+**Speed Constraint Testing Methodology (June 10, 2026)**
+- **Mohamed M. Sabry initial proposal:** Target speed constraint in 15-18% range, with relaxed hard constraint (4% soft limit)
+- **Dan Prendergast counter-proposal (June 10, 5:58 PM):** Three-binary comparative testing scheme:
+  - **Binary 1:** Trained to 4.0 m/s, Expected ~3.5 m/s average, AP hard limit 4.5 m/s
+  - **Binary 2:** Trained to 4.5 m/s, Expected ~4.0 m/s average, AP hard limit 5.0 m/s
+  - **Binary 3:** Trained to 5.0 m/s, Expected ~4.5 m/s average, AP hard limit 5.5 m/s
+- **Rationale:** Allows small controlled overshoot from trained-to-not-exceed speed; enables comparative analysis between AI controller performance and baseline BST autopilot at corresponding speed caps (3.5, 4.0, 4.5 m/s)
+- **Status:** Pending eMAS

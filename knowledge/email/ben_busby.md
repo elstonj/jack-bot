@@ -1,75 +1,78 @@
 # Ben Busby — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 11 (2 from existing knowledge + 9 new)
-- **Date range:** 8 Jun 2026 – 9 Jun 2026 (2-day window)
-- **Approximate volume:** Light traffic in scanned period (5-6 messages/day average, excluding automated)
+- **Total messages scanned:** 19 (11 from existing knowledge + 8 new)
+- **Date range:** 8 Jun 2026 – 10 Jun 2026 (3-day window)
+- **Approximate volume:** Light to moderate traffic (6-7 messages/day average, excluding automated)
 
 ## Key Correspondents
 
 ### Top Internal Senders
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 3 emails, appears to be primary technical collaborator
-- **Jack Elston** (elstonj@blackswifttech.com) — 1 direct email
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 4 emails, primary technical collaborator
+- **Jack Elston** (elstonj@blackswifttech.com) — 1 direct email; receives forwarded technical issues
+- **Administration/Docusign relay** (admin@blackswifttech.com) — 6 automated DocuSign notifications (high volume spike on 10 Jun)
 
 ### Top Recipients (Ben as sender)
-- No outbound emails captured in this dataset
+- No direct outbound emails captured in this dataset
+- Appears in group email recipients for technical discussions (REX110 troubleshooting)
 
 ### Internal vs External
-- **Internal:** 7 messages
-- **External:** 3 messages (1 webinar invitation, 2 vendor/promotional)
-- **Automated:** 1 system notification (Slack), 2 vendor promotions
+- **Internal:** 13 messages
+- **External:** 2 messages (vendor/promotional)
+- **Automated:** 6 system notifications (Docusign, webinar invitation)
 
 ### External Contacts
-- **Raj Sharma** (raj.sharma@publicspendforum.net) — Public Spend Forum webinar series
-- **Chad Atwood** (chad@theaiginc.com) — TheAIG Inc., sent benefits survey to broad BST team
-- **Jošt Laznik** (jost.laznik@atmolab.eu) — Atmolab, external technical contact
+- **Atmolab** — **Jure Dolinar** (jure.dolinar@atmolab.eu) and **Jošt Laznik** (jost.laznik@atmolab.eu) — included in ongoing technical troubleshooting
+- **Endless Frontier Labs** — Invitation-only cohort program (10 Jun)
 
 ## Topic Patterns
 
 ### Recurring Themes
-- **Camera/sensor support** — Multiple forwarded emails about "Camera support for BlackSwift" and "Atmolab Camera support"
-- **Technical troubleshooting** — "REX110 Troubleshooting" (appears to be a sensor/instrument)
-- **Industrial/manufacturing focus** — Webinar invitation on "Industrial Strategy, Manufacturing & Drone Technology"
-- **Analytics** — MonsterInsights summary for bst.aero domain
+- **REX110 troubleshooting** — Escalated to "continued" discussion phase (10 Jun), multi-party technical coordination
+- **Camera/sensor integration** — Core ongoing technical focus with Atmolab
+- **Financial/administrative** — Elevated Docusign activity (6 notifications in 6-hour window on 10 Jun, likely banking/credit union document processing)
 
 ### External Organizations
-- **Atmolab** (atmolab.eu) — Appears to be sensor/camera equipment vendor
-- **TheAIG Inc.** — Internal benefits vendor
-- **Public Spend Forum** — Industry event/webinar provider
+- **Atmolab** — Sensor/camera vendor, active ongoing technical partnership
+- **Elevations Credit Union** — Financial institution, document processing activity (app 528301)
+- **Endless Frontier Labs** — Innovation/startup cohort program (potential investment or partnership opportunity)
 
 ### Project/Product Names
-- **BlackSwift** — Core product (camera support discussions)
-- **REX110** — Technical component/sensor requiring troubleshooting
-- **bst.aero** — Web property/domain under analytics monitoring
+- **BlackSwift** — Core platform (implicit in camera/sensor discussions)
+- **REX110** — Sensor/instrument requiring ongoing troubleshooting; now escalated to "continued" phase
 
 ## Communication Patterns
 
 ### Time Distribution
-- **Busiest period:** Morning to early afternoon (8:30 AM – 3:40 PM MT/CT)
-- **Peak activity:** Tuesday 9 Jun 2026 (7 of 9 new emails)
-- **No clear early-morning or late-night activity** in scanned period
+- **Busiest period:** 10:10 AM – 3:54 PM (mixed time zones: -0700, -0600, -0400)
+- **Peak activity day:** Wednesday 10 Jun 2026 (7 of 8 new emails)
+- **Docusign spike:** 6 automated notifications clustered 14:25–15:14 on 10 Jun (document processing batch)
 
 ### Message Types
-- Direct technical collaboration with Daniel Prendergast (forwarded technical issues)
-- Broad-distribution emails (benefits survey to 10+ recipients)
-- Promotional/vendor outreach (Verizon, AT&T, Xcel Energy)
+- Ongoing group technical collaboration (REX110 with internal team + Atmolab)
+- Automated administrative notifications (Docusign, webinar invitations)
+- No personal/casual correspondence visible
+
+### Mailing Lists/Groups
+- **REX110 troubleshooting group:** Daniel Prendergast, Maciej Stachura, Jack Elston, Ben Busby, Joshua Fromm, Alex Lomis + Atmolab contacts
 
 ## Key Relationships
 
 ### Closest Collaborators
-1. **Daniel Prendergast** — Multiple technical discussions about camera support and troubleshooting; appears to be engineering/technical lead
-2. **Jack Elston** — Forwarding technical issues to Ben, suggesting Ben has decision/approval authority on camera/sensor integration
-3. **Jošt Laznik (Atmolab)** — External technical contact for equipment troubleshooting
+1. **Daniel Prendergast** — Driving technical coordination across internal team and external vendor (Atmolab); Ben is included in critical troubleshooting discussions
+2. **Atmolab team** (Jure Dolinar, Jošt Laznik) — Active vendor partnership for REX110 resolution
+3. **Maciej Stachura**, **Joshua Fromm**, **Alex Lomis** — Broader internal technical team involved in REX110 issue resolution
 
 ### External Relationships
-- **Atmolab** — Active vendor relationship for REX110 camera/sensor equipment
-- **Public Spend Forum** — Industry engagement/webinar participation
+- **Atmolab** — Deep technical partnership; escalated troubleshooting suggests significant integration dependency
+- **Elevations Credit Union** — Financial/banking relationship (likely company banking, based on app/document processing volume)
+- **Endless Frontier Labs** — Emerging opportunity (invitation-only cohort, 10 Jun)
 
 ## Notable Observations
 
-- **Ben receives forwarded technical issues** suggesting he may have oversight or approval authority over hardware integration decisions
-- **Heavy internal technical focus** on camera/sensor compatibility with BlackSwift platform (REX110 from Atmolab)
-- **Minimal outbound email** in captured period — Ben appears to receive more than he sends
-- **Spam/promotional volume** noticeable (3 vendor promotions) but likely standard B2B business communications
-- **bst.aero web property** actively tracked with analytics (MonsterInsights)
-- **Slack integration** recently activated or confirmed (Tue 9 Jun)
+- **REX110 troubleshooting escalated** — Subject now marked "(continued)" on 10 Jun, suggesting prior discussion and ongoing complexity; multi-party involvement indicates significant technical or business impact
+- **Docusign batch processing** — 6 notifications in rapid succession (14:25–15:14 on 10 Jun) suggest bulk financial/legal document signing event (possibly banking arrangement, credit facility, or corporate agreement)
+- **Ben is included in critical technical decisions** — Positioned as stakeholder in sensor integration troubleshooting across internal + external parties
+- **Elevations Credit Union activity** — Multiple document updates for app 528301 in short timeframe; suggests time-sensitive financial transaction or loan application in process
+- **Emerging partnership signal** — Endless Frontier Labs invitation (10 Jun) suggests potential investor interest or innovation program participation
+- **Minimal personal outbound email** — Ben appears to be consulted/informed rather than driving communication; receives more than initiates

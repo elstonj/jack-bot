@@ -89,4 +89,4 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Sparv sensor integration as secondary comparison to Vaisala flagged as potential interest pending NOAA model acceptance and certification requirements (June 9, 2026)
 - S0-mini development for NASA glider application deferred pending IP/licensing risk mitigation strategy; requires careful sandbox strategy to protect BST from critical NASA IP dependencies (June 9, 2026)
 
-**Pitot
+## Projects &

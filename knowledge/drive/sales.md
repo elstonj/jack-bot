@@ -2,4 +2,4 @@
 
 Small drive with 1 files.
 
-- Power vs Airspeed Curve (modified 2026-06-09)
+- EMASS Proposal Adendum (June 2026).png (modified 2026-06-10)

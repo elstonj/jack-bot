@@ -22,7 +22,7 @@
   ],
   "payment_state": "paid",
   "build_state": "complete",
-  "ship_state": "in_transit",
+  "ship_state": "delivered",
   "estimate_date": null,
   "invoice_date": "2025-03-05",
   "invoice_amount": 102181.0,
@@ -59,7 +59,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "S3 VTOL system built and shipped to UMES on 2025-05-29. Invoices 1652 ($100,213) and 1653 ($1,968) both paid. Training logistics pending for July 23\u201325, 2026. Outstanding invoice 1765 ($79,338, dated 2026-05-18) appears to be a follow-on or extension; retained invoice matches delivered hardware.",
+  "notes": "S3 VTOL hardware order: built, shipped 2025-05-29, and delivered/received by UMES. Invoices 1652 ($100,213) and 1653 ($1,968) both paid. Hardware order is complete + paid + delivered, so it drops off the active digest. The follow-on/extension (invoice 1765, $79,338, dated 2026-05-18) and the July 23\u201325, 2026 operator training are tracked separately as proj-031-1-training so the open AR stays visible.",
   "missing_fields": [
     "tracking_number",
     "carrier"

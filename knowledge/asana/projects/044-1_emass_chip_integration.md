@@ -3,13 +3,15 @@
 ## Overview
 - **Client/Customer**: EMASS (Commercial customer)
 - **Dollar Value**: $90,000 total funding to Black Swift Technologies
+  - **Revised billing structure** (June 2026): Split final milestone into **Milestone 4a: Engineering support + flights ($25k)** and **Milestone 4b: Final reports ($10k)**; transitioning to **per-flight-day billing** going forward
+  - **Payment friction**: EMASS initially declined to pay final milestone ($35k) due to incomplete final report; restructured agreement reflects customer pushback
 - **Timeline**: Original November 10, 2025 to January 31, 2026; extended through May 2026 for final validation and reporting. **No firm end date currently set.**
 - **Status**: **🔴 INDEFINITELY POSTPONED — External blocker on EMASS controller delivery.** Per Daniel Prendergast (May 13–14, 2026): "EMASS Validation Flight #2 is postponed indefinitely until they get us a functioning controller." Per Jack Elston (May 12, 2026): "de-prioritize it, but we don't want to drag this out more than a month." **All remaining validation flights and final reporting blocked.**
 - **Team Members**: Dan Prendergast (Owner/Lead), Jack Elston, Maciej Stachura, Nate Straus, Ethan Domagala, Meredith O'hara Needham
 - **Risk Signals**: 
   - **🔴 CRITICAL: Project indefinitely postponed on external EMASS controller delivery** — Validation Flights #2 and #3 cannot proceed until EMASS delivers functioning controller binary (Daniel Prendergast, May 13–14, 2026). This is outside BST control.
-  - **⚠️ Escalation boundary set**: Jack Elston (May 12, 2026) imposed informal 1-month hold limit (~June 12, 2026) before escalation/re-evaluation.
-  - **⚠️ Financial concern**: Daniel Prendergast inquired whether EMASS paid the second invoice (May 7–8, 2026) — suggests possible payment delays or customer relationship friction.
+  - **🔴 CRITICAL: Customer payment friction** — EMASS refused to pay final milestone ($35k) because Validation Flights #2–#3 and final report remain incomplete. New per-flight-day billing model signals reduced confidence in fixed-price delivery (June 2026 correction).
+  - **⚠️ Escalation boundary set**: Jack Elston (May 12, 2026) imposed informal 1-month hold limit (~June 12, 2026) before escalation/re-evaluation. **June 8, 2026 feedback from Maciej suggests no Navy meeting occurred** — possible further delays or schedule slippage.
   - **⚠️ Priority downrank**: Maciej Stachura (April 30, 2026) ranked EMASS as Priority #3 for closure (after S3 IRAD and S0-VTOL), indicating BST focus is shifting elsewhere while awaiting customer action.
 
 ## Key Deliverables & Milestones
@@ -17,14 +19,14 @@
 - **Phase 1b: Interface Design Freeze** (Due: Feb 6, 2026) - ✅ Completed
 - **Phase 2: Integration & Firmware** (Due: Feb 13, 2026) - ✅ Completed
 - **Phase 4: Validation & Reporting** (Due: Mar 11, 2026) - ✅ Completed
-- **Final Validation Phase** (Extended to May 2026, now indefinitely postponed):
+- **Milestone 4a: Engineering support + flights** ($25k) — **ACTIVE / IN PROGRESS**
   - Validation Flight #1 (April 27, 2026) — ✅ **Completed April 25, 2026** (2 days early)
   - Validation Flight #2 — **🔴 INDEFINITELY POSTPONED** *(awaiting functioning controller binary from EMASS per Daniel Prendergast, May 13–14, 2026)*
   - Validation Flight #3 — **🔴 INDEFINITELY POSTPONED** *(awaiting functioning controller binary from EMASS per Daniel Prendergast, May 13–14, 2026)*
-  - Final Report — **🔴 BLOCKED** *(cannot complete until validation flights are done)*
+- **Milestone 4b: Final reports** ($10k) — **🔴 BLOCKED** *(cannot start until validation flights #2–#3 complete)*
 
 ## Task Summary
-- **Total Open Tasks**: 5 tasks
+- **Total Open Tasks**: 5 tasks; **0 completed in this cycle**
   - Validation Flight #2 (Dan Prendergast, no due date) — **INDEFINITELY POSTPONED on EMASS controller delivery**
   - Validation Flight #3 (Dan Prendergast, no due date) — **INDEFINITELY POSTPONED on EMASS controller delivery**
   - Final Report (Dan Prendergast, no due date) — **BLOCKED** (cannot complete until validation flights complete)
@@ -34,14 +36,17 @@
   - **Maciej Stachura**: 2 open tasks (data analysis, 2 instances) — **BLOCKED** (awaiting validation flight completion)
   - **Jack Elston & Nate Straus**: Actively coordinated field execution in April–May but not formally assigned in Asana
   - **Meredith O'hara Needham**: Invoicing/admin (submitted initial invoice March 24, 2026)
-- **Recent Completions** (April 19–25, 2026):
-  - ✅ Validation Flight #1 (Dan Prendergast) — **2 days early** (April 25)
-  - ✅ Functional flight test (Dan Prendergast)
-  - ✅ Bench test for safety (Dan Prendergast)
-  - ✅ Data analysis (Maciej Stachura)
-  - ✅ Submit Initial Invoice (Meredith O'hara Needham, March 24, 2026)
 
 ## Recent Activity
+
+**June 8, 2026 (Maciej)**:
+- Navy meeting at 9:30 AM **did not occur** (meeting cancellation/no-show flagged).
+- Note: Magnetometer integration assigned to **Alex and Sam** (critical engineering tasks) — external team members not in EMASS task roster; possible cross-project support or sub-team structure.
+
+**June 2026 (AUTHORITATIVE CORRECTION — Daniel Prendergast)**:
+- **BILLING MODEL REVISED due to customer payment friction**
+- Quote: "they did not want to pay for our last milestone on the original agreement ($35k) since we never completed a final report. So I told them we're going to split that milestone into 'Milestone 4a: Engineering support + flights' for $25k, and 'Milestone 4b: final reports' for $10k. Moving forward we're just going to charge them on a per-flight-day basis."
+- **Interpretation**: EMASS pushed back on fixed-price model; BST accepted reduced Milestone 4 payment ($35k → $25k upfront) and transitioned to time-and-materials (per-flight-day) billing to reduce customer friction and maintain relationship. Signals customer dissatisfaction with incomplete deliverables.
 
 **May 14, 2026 (AUTHORITATIVE — Daniel Prendergast)**:
 - **PROJECT INDEFINITELY POSTPONED ON EMASS CONTROLLER DELIVERY**
@@ -54,33 +59,11 @@
 - **Interpretation**: Accept external delay is expected; enforce escalation/re-evaluation by ~June 12, 2026 if situation unresolved.
 
 **May 7–8, 2026 (Daniel Prendergast)**:
-- **Financial flag**: "did EMASS ever pay the second invoice?"
-- Indicates possible invoice/payment gap or customer relationship friction alongside technical delays.
+- **Financial flag**: "did EMASS ever pay the second invoice?" — Indicates invoice/payment gap or customer relationship friction alongside technical delays.
 
 **May 4, 2026 (Daniel Prendergast)**:
 - Confirmed external blocker: "We cannot perform those flights until they send us a new controller binary in the emass-bst slack channel."
 - Shifted own priority to 53rd Weather Squadron and SOCOM visit slides.
 
 **April 30, 2026 (Maciej)**:
-- **EMASS ranked Priority #3 for closure**: "(1) S3 IRAD…, (2) S0-VTOL…, (3) **Closing out EMASS**…"
-- Confirms BST intent to complete despite external delays; reflects resource focus shift.
-
-**April 24–25, 2026**:
-- ✅ **Validation Flight #1 completed 2 days ahead of schedule** — demonstrates BST execution capability and effective test coordination despite ongoing customer dependencies.
-- Maciej confirmed: "we're in good shape there with the remaining work just waiting on those guys to finish the controller and another round of test flying for us."
-
-## Notes & Context
-
-**Project Objective**: Bridge simulation results with operational testing by integrating EMASS's ECS-DoT ultra-low-power Edge A.I. System-on-Chip on a UAS platform, quantifying its impact on flight operations.
-
-**Technical Approach**: 
-- Custom PCB design integrating ECS-DoT chip with SwiftCore autopilot
-- UART interface for data communication at 50–70 Hz
-- Integration with E2 platform (Custom Payload, E2 per custom fields)
-- Hardware-in-the-loop (HWIL) simulation testing (completed)
-- Structured flight trials comparing baseline vs. ECS-DoT-enabled configurations
-
-**Key Metrics**: Energy consumption, flight endurance, AI model accuracy, and system responsiveness
-
-**Current Posture**: 
-- BST has successfully delivered Phases 1–4
+- **EMASS ranked Priority #3 for closure**: "(1) S3 IRAD…, (2)

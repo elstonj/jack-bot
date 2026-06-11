@@ -26,6 +26,8 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **New Intern Onboarding - Spencer Hoehl** (June 4-5, 2026): Spencer Hoehl (recent CU graduate) starting June 5, 2026 at 9:30am. Jack Elston out; Meredith Needham handled introduction coordination. Jack coordinated with team member to provide computer setup and BST account creation. Welcomed by Paige Smith and Beck Cotter on June 5, 2026.
 - **Spencer Hoehl Work Schedule** (June 9, 2026): Spencer's ongoing schedule established: Monday (all day), Thursday (all day), Friday (afternoon, ~4 hours). Calendar shared by Meredith Needham with team for office presence tracking and time-off visibility.
 - **Dan Prendergast WFH Request** (June 9, 2026): Dan requested work-from-home on Thursday (June 12); Jack Elston humorously demanded a note from Merritt (family member) to excuse absence from in-person work.
+- **Healthcare Provider Review** (June 10, 2026): Meredith Needham notified team of incoming email from Chad Atwood requesting feedback on current healthcare provider to determine if BST should continue with current provider. Team feedback requested.
+- **Organizational Growth Planning & Career Development Conversations** (June 10, 2026): Beck Cotter announced one-on-one conversations with team members regarding 4-year organizational roadmap and career positioning. Emphasized need for employees to think about desired future roles and work, not just current positions. Aim is to build career pathways that maximize internal talent while supporting BST's growth goals and employee job satisfaction.
 
 ### Funding & Awards
 - **NASA Phase I Award** (May 26, 2021): Contract awarded for S2 all-weather capable platform development with solar integration and VTOL S2 for remote autonomous landing
@@ -40,6 +42,4 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 
 ### Technical Decisions
 - **GitLab IDE Approval** (March 2024): Approved for code storage/editing
-- **Wiring Standards Update** (Feb 10, 2021): Discontinued PTFE wire for 1.25 pitch Clikmate connections; switched to Tefzel wire (dark-colored, tin or silver plated)
-- **S0 Primary Focus** (Dec 2024): S3 on pause except parts ordering; S0 prioritized for wing internal structure finalization and skin production
-- **Nomenclature Strategy for DoD/Federal Contracts** (April 10, 2026): Decision to align naming conventions with federal/DoD standards: "aircraft" for UAS, "ground control station (GCS)" for operator interface device, "datalink" for communication system. Previously called datalink "ground station"
+- **Wiring Standards Update** (Feb 10, 2021): Discontinued
