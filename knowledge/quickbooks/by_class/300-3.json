@@ -4,14 +4,14 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-06-09",
-    "end": "2026-06-10"
+    "start": "2026-06-10",
+    "end": "2026-06-12"
   },
   "totals": {
     "revenue": 144000.0,
-    "expenses": 297.33,
+    "expenses": 387.49,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 297.33
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 387.49
     }
   },
   "invoices": [
@@ -66,6 +66,24 @@
   "purchases": [
     {
       "type": "Purchase",
+      "date": "2026-06-25",
+      "doc_number": "260607W011757",
+      "total": 90.16,
+      "attributed": 90.16,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 90.16,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Phase1 Aviation shipment for IDIQ (5/28/26)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-06-18",
       "doc_number": "260531W011484",
       "total": 93.17,
@@ -84,10 +102,10 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "doc_number": "",
-      "total": 204.16,
-      "attributed": 204.16,
+      "total": 102.08,
+      "attributed": 102.08,
       "vendor": "",
       "customer": "",
       "balance": null,
@@ -97,7 +115,20 @@
           "amount": 102.08,
           "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
           "description": "Shipment from Paramount Tube to Lee Skidmore (2026 IDIQ)"
-        },
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-10",
+      "doc_number": "",
+      "total": 102.08,
+      "attributed": 102.08,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PIRATE SHIP * POSTAGE - 7333",
+      "lines": [
         {
           "amount": 102.08,
           "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",

@@ -1,20 +1,20 @@
 {
   "project_code": "_unclassified",
   "qbo_class_names": [
-    "",
-    "[012] Embry-Riddle Aeronautical University"
+    ""
   ],
   "period": {
-    "start": "2026-06-09",
-    "end": "2026-06-10"
+    "start": "2026-06-10",
+    "end": "2026-06-12"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 2454.17,
+    "expenses": 7423.74,
     "by_category": {
-      "Inventory Asset": 1539.13,
-      "SALES & MARKETING": 861.55,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 53.49
+      "FRINGE:FR-Employee Healthcare": 6498.51,
+      "Inventory Asset": 570.21,
+      "FACILITIES:FA-Software Expenses": 285.62,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 69.4
     }
   },
   "invoices": [],
@@ -58,55 +58,60 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "doc_number": "",
-      "total": 861.55,
-      "attributed": 861.55,
+      "total": 292.24,
+      "attributed": 178.82,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "For Krateo Sky Demo - no Asana request. Ben made the purchase from his account because Steam is only selling to known accounts.",
+      "memo": "No Asana request - project listed under each item",
       "lines": [
         {
-          "amount": 861.55,
-          "account": "SALES & MARKETING",
-          "description": "Steam Deck 512 GB"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-06-09",
-      "doc_number": "549011",
-      "total": 1078.34,
-      "attributed": 1078.34,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "For future S3 sales",
-      "lines": [
-        {
-          "amount": 1078.34,
+          "amount": 178.82,
           "account": "Inventory Asset",
-          "description": "Reliance 21700 RS50 5000mAh 70A Battery x 225 - for future S3 sales"
+          "description": "For future S3 Sales"
+        },
+        {
+          "amount": 113.42,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "S3 IRAD"
         }
       ]
     },
     {
       "type": "Purchase",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "doc_number": "",
-      "total": 53.49,
-      "attributed": 53.49,
+      "total": 285.62,
+      "attributed": 285.62,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "PIRATE SHIP * POSTAGE - 7333",
+      "memo": "INTUIT *QBooks Online - 4617",
       "lines": [
         {
-          "amount": 53.49,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": "Shipment of Model S0 to Embry Riddle (invoice 1730)"
+          "amount": 285.62,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "INTUIT *QBooks Online - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-10",
+      "doc_number": "",
+      "total": 6498.51,
+      "attributed": 6498.51,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "BUSINESS TO BUSINESS ACH UNITED HEALTHCAR EDI PAYMTS        XXXXXXXX7551    08143~IEA*1*260608141~",
+      "lines": [
+        {
+          "amount": 6498.51,
+          "account": "FRINGE:FR-Employee Healthcare",
+          "description": "BUSINESS TO BUSINESS ACH UNITED HEALTHCAR EDI PAYMTS        XXXXXXXX7551    08143~IEA*1*260608141~"
         }
       ]
     }

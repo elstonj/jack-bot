@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $4,462,176.28
-- **Total Expenses (Bills + Purchases):** $1,331,088.08
+- **Total Expenses (Bills + Purchases):** $1,331,256.48
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,131,088.20 (invoiced minus expenses)
+- **Net Position:** $3,130,919.80 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -76,8 +76,8 @@
 
 ---
 
-### **Materials & Supplies: $470,076.15**
-**Number of transactions:** 199  
+### **Materials & Supplies: $470,221.88**
+**Number of transactions:** 200  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
   - **DKC*DIGI KEY CORP - 4617** (2026-06-03): $38.57 [DC-Direct Material Purchases]
@@ -99,7 +99,7 @@
 - **Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head** (2026-05-07): $479.80 [DIRECT COSTS] + $306.08 [Inventory Asset]
   - **Direct Cost Materials & Supplies impact: $479.80**
 
-**Recent transactions confirmed (2026-05-14 to 2026-06-03):**
+**Recent transactions confirmed (2026-05-14 to 2026-06-12):**
 - **Purchase (Amprius Technologies)** (2026-05-14): $399.00 [DC-Direct Material Purchases] — SA504 x 7 batteries
 - **Purchase #0513JELSTON** (2026-05-14): $206.62 [DC-Direct Material Purchases] — IDIQ 2026
 - **Purchase #334139 (Northwind Composites)** (2026-05-18): $3,331.80 [DC-Direct Material Purchases] — Thermoset laminate tubes + materials
@@ -112,8 +112,9 @@
 - **Purchase** (2026-05-29): $69.98 [DC-Direct Material Purchases] — Logitech keyboards for S2 simulator
 - **Purchase** (2026-06-01): $45.29 [DC-Direct Material Purchases] — Digikey electronics
 - **Purchase** (2026-06-03): $38.57 [DC-Direct Material Purchases] — Digikey electronics
+- **Purchase #YQ1749285** (2026-06-11): **$145.73** [DC-Direct Material Purchases] — *(NEW)*
 
-**Total direct cost materials & supplies through 2026-09-28: $470,076.15** *(confirmed final)*
+**Total direct cost materials & supplies through 2026-09-28: $470,221.88** *(confirmed final)*
 
 ---
 
@@ -122,26 +123,15 @@
 
 ---
 
-### **Shipping/Freight: $937.40**
-**Number of transactions:** 3
+### **Shipping/Freight: $1,034.60**
+**Number of transactions:** 6  
+*(+3 new transactions from 2026-06-10 to 2026-06-25)*
 
 **Key transactions:**
+- **Purchase #260607W011757** (2026-06-25): **$90.16** [DC-Direct Cost Shipping, Freight & Delivery]
+  - Phase1 Aviation shipment for IDIQ (dated 5/28/26) — *(NEW)*
 - **Purchase #260531W011484** (2026-06-18): **$93.17** [DC-Direct Cost Shipping, Freight & Delivery]
   - Phase1 Aviation shipment for IDIQ (S0 wings)
-- **Purchase (Pirate Ship Postage)** (2026-06-09): **$204.16** [DC-Direct Cost Shipping, Freight & Delivery]
-  - $102.08 — Shipment from Paramount Tube to Lee Skidmore (2026 IDIQ)
-  - $102.08 — Shipment from Paramount Tube to Lee Skidmore (2026 IDIQ)
-- **Previously recorded shipping:** $640.23
-
-**Total shipping/freight through 2026-09-28: $937.40** *(includes $640.23 baseline + $297.17 new transactions)*
-
----
-
-### **Indirect Costs: $0.00**
-**Number of transactions:** 0
-
----
-
-### **Rent/Facilities: $0.00** 
-**Number of transactions:** 0  
-*(Note: One small shop supplies
+- **Purchase (Pirate Ship Postage)** (2026-06-10): **$102.08** [DC-Direct Cost Shipping, Freight & Delivery]
+  - Shipment from Paramount Tube to Lee Skidmore (2026 IDIQ) — *(NEW)*
+- **Purchase (

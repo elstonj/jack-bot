@@ -30,10 +30,10 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 30463.75,
+        "amount": 31835.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-10"
+        "last_updated": "2026-06-12"
       },
       "purchases": {
         "amount": 0.0,
@@ -47,13 +47,13 @@
         "confidence": "exact",
         "last_updated": "2026-06-10"
       },
-      "total": 37463.75,
+      "total": 38835.0,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 101030.25,
+    "remaining": 99659.0,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-10T09:03:53Z"
+    "last_reconciled": "2026-06-12T09:04:59Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -75,12 +75,6 @@
   "overrides": [
     {
       "source": "FEEDBACK",
-      "author": "Jack",
-      "date": "2026-05-11",
-      "text": "From Jack (ts=1778249224.812399): <@U0AQE94HJUT> correction: the navy sttr has priority, the SBIR is mostly on schedule"
-    },
-    {
-      "source": "FEEDBACK",
       "author": "Maciej",
       "date": "2026-06-08",
       "text": "From Maciej: <@U0AQE94HJUT> I don't see a Navy meeting at 9:30 this morning. Also, for mag integration it's Alex and Sam on the critical engineering tasks"
@@ -98,6 +92,6 @@
       "text": "From Maciej: Yeah, turns out he just wanted to focus on discussing commercial markets moving forward for BST from the industrial plan. Looks like he mainly wants to focus on expanding our non-DOD weather stuff first."
     }
   ],
-  "last_full_rebuild": "2026-06-10T09:03:53Z",
+  "last_full_rebuild": "2026-06-12T09:04:59Z",
   "last_incremental_update": null
 }

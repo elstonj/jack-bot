@@ -4,15 +4,14 @@
     "(001-1) IRAD- General"
   ],
   "period": {
-    "start": "2026-05-01",
-    "end": "2026-05-02"
+    "start": "2026-06-10",
+    "end": "2026-06-12"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 45.79,
+    "expenses": 15.99,
     "by_category": {
-      "RESEARCH & DEVELOPMENT": 36.05,
-      "FACILITIES:FA-Office Supplies": 9.74
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 15.99
     }
   },
   "invoices": [],
@@ -20,24 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-05-01",
+      "date": "2026-06-10",
       "doc_number": "",
-      "total": 58.16,
-      "attributed": 45.79,
+      "total": 15.99,
+      "attributed": 15.99,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "",
+      "memo": "No Asana request - Jack Elston made purchase directly",
       "lines": [
         {
-          "amount": 45.79,
-          "account": "RESEARCH & DEVELOPMENT",
-          "description": ""
-        },
-        {
-          "amount": 12.37,
-          "account": "FACILITIES:FA-Office Supplies",
-          "description": "Paper towels/toilet paper"
+          "amount": 15.99,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "USB C to Ethernet Adapter, Driver Free RJ45"
         }
       ]
     }

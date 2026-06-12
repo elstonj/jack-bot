@@ -5,7 +5,7 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 
 **Key participants:** Jack Elston (leadership/strategy), Parker Vollmer (marketing), Sophia Henkels (content/web), Paige Smith (marketing), Alex Lomis (video/technical), Beck Cotter, Kareem, Dan Prendergast, Maciej, Brody Basset (external contact - US Commercial Service), Rob Marciano (external contact - media/video producer), WeatherNation (external contact - media partner)
 
-**Activity level:** High frequency discussions across June 2024-June 2026 period, with multiple concurrent projects in various stages. Most recent activity (June 10, 2026) shows website development and LinkedIn strategy discussions.
+**Activity level:** High frequency discussions across June 2024-June 2026 period, with multiple concurrent projects in various stages. Most recent activity (June 11, 2026) shows LinkedIn strategy and content distribution focus.
 
 ---
 
@@ -122,4 +122,4 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
   - Change "accelerating at over 100mph" to **"capable of sprinting at over 100mph"**
   - Update reference to **"The NightFOX payload"**
 
-###
+### LinkedIn

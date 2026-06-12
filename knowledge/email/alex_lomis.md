@@ -1,91 +1,97 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 678 emails (652 prior + 26 new from 10–11 Jun 2026)
-- **Date range:** 18 May – 11 Jun 2026 (25 days)
-- **Approximate volume:** **Sustained critical operational tempo with vendor/logistics automation dominating new signal.** 10 Jun added 26 messages (~88% automated vendor/logistics/promotions; ~12% operational signal concentrated in REX110 continuation and internal scheduling). **Manufacturing procurement cycle now in active fulfillment phase with elevated shipping/delivery notifications.**
+- **Total messages scanned:** 704 emails (678 prior + 26 new from 11–12 Jun 2026)
+- **Date range:** 18 May – 12 Jun 2026 (26 days)
+- **Approximate volume:** **Sustained critical operational tempo with REX110 technical escalation now reaching decision phase. 11–12 Jun added 26 messages (~77% automated vendor/logistics/promotions; ~23% operational signal concentrated in REX110 resolution thread + team social event + external camera integration discussion).**
 
 ---
 
 ## Key Correspondents
 
-### Internal — Government/Military Project Leads (SUSTAINED)
-- **Jack Elston** (elstonj@blackswifttech.com) — **SUSTAINED:** REX110 troubleshooting thread participation (10 Jun 15:54, cc'd on Dan Prendergast exchange); S0 COTS WAIVER thread remains open
-- **Maciej Stachura** (stachura@blackswifttech.com) — **SUSTAINED:** REX110 troubleshooting thread participation (10 Jun 15:54, cc'd); S0 MAD/COTS WAIVER coordination
-- **Dan Prendergast** (daniel.prendergast@blackswifttech.com) — **ESCALATED CONTINUED:** REX110 troubleshooting thread **extended 10 Jun 15:54** with broad internal/external distribution (7 internal recipients + 2 Atmolab engineers); maintains IMPORTANT flag; indicates **unresolved technical dependency spanning 48+ hours with multi-stakeholder escalation**
-- **Ben Busby** (ben.busby@blackswifttech.com) — **NEW ACTIVITY:** REX110 troubleshooting thread cc'd (10 Jun 15:54); first appearance in technical troubleshooting chain
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — **CONTINUED:** REX110 troubleshooting thread cc'd (10 Jun 15:54); logistics coordination role sustained
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — **NEW SIGNAL: DIRECT MEETING INVITE (10 Jun 20:57):**
-  - **Invitation:** Thu Jun 11, 2026 10:45–11:00am MDT (Alex Lomis)
-  - **Type:** Private 1:1 meeting; no subject provided (calendar invite only)
-  - **Implication:** Direct manager/lead check-in or project-specific sync; timing suggests operational status review
+### Internal — Government/Military Project Leads (ESCALATED TO DECISION PHASE)
+- **Jack Elston** (elstonj@blackswifttech.com) — **ESCALATED ACTIVITY:** 
+  - REX110 troubleshooting thread participation (ongoing)
+  - **NEW SIGNAL:** Organizer of team social event — "Checking out the new setup at Pattern Break Brewing" (Fri 12 Jun 3–5pm MDT); sent 2 meeting invitations (11 Jun 21:27 & 12 Jun 04:49 with updated time); distributed to 12 internal recipients (Paige Smith, Ethan Domagala, Meredith Needham, Ben Busby, Nathaniel Straus, Joshua Fromm, Spencer Hoehl, Beck Cotter, Maciej Stachura, Daniel Prendergast, Sam Hild, Alex Lomis)
+  - **Implication:** Leadership is organizing team-building/sync event during active project escalation; suggests potential informal decision-making session or morale checkpoint
 
-### Internal — Other (NEW SIGNAL)
-- **Alexis Lomis** (purchasing@blackswifttech.com) — **Recipient on promotional emails** (appears to be variant/nickname routing for purchasing system)
+- **Ben Busby** (ben.busby@blackswifttech.com) — **ESCALATED TO EXTERNAL LIAISON:**
+  - **NEW SIGNAL:** Direct technical escalation to Atmolab (11 Jun 18:44 & 21:31 UTC)
+  - Subject: "Re: REX110 Troubleshooting (continued)" (IMPORTANT, UNREAD)
+  - **Pattern:** Ben has taken active role in Atmolab communication; appears to be handling technical troubleshooting escalation path for internal team
+  - **Implication:** Ben now serves as primary escalation point to external vendor; suggests he has either deeper technical knowledge or explicit authority to drive resolution
 
-### External — Manufacturing & Component Vendors (CONTINUED SCALING - INVOICE CYCLE CONTINUING)
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **ESCALATED DECISION ROLE:**
+  - **NEW SIGNAL:** Direct engagement with external camera vendor C-Astral (Samo Stopar)
+  - Subject: "Re: Camera support for BlackSwift" (11 Jun 20:33, UNREAD, IMPORTANT)
+  - **Thread:** Ongoing dialogue with Samo Stopar regarding camera integration
+  - **Implication:** New vendor relationship/technical dependency emerging; camera support is now being negotiated as part of REX110 or related system
 
-**JawsTec Manufacturing LLC** — **INVOICE CYCLE CONTINUATION (10 Jun 16:00, 16:04):**
-- **NEW SIGNAL:** Order #69219 received confirmation (10 Jun 16:00) + Payment request Invoice 69219 (10 Jun 16:04)
-- **Pattern:** Sequential order-to-invoice cycle; invoice 69219 follows prior invoice 69119 (9 Jun), suggesting **active manufacturing queue with rapid turnover (invoices 100 apart in 24 hours)**
-- **Status:** No payment friction noted on 69219 (unlike 69119 "Unpaid" error); administrative process normalizing
+- **Maciej Stachura** (stachura@blackswifttech.com) — **SUSTAINED:** REX110 troubleshooting thread participation (cc'd on Atmolab escalations)
 
-**Amazon via Purchasing** — **CONTINUED HIGH-VELOCITY ORDERING (10 Jun 15:59, 18:37, 11 Jun 06:59):**
-- **NEW SIGNALS:**
-  - Ordered: "Weller Genuine 5 Piece Tip..." + 3 more items (10 Jun 15:59)
-  - Delivered: "uni USB C to Ethernet..." (10 Jun 18:37) — **same order placed 9 Jun 17:26, delivered 24 hours**
-  - Shipped: "Weller Genuine 5 Piece Tip..." + 3 more items (11 Jun 06:59) — overnight fulfillment
-- **Pattern:** **Soldering equipment (Weller tips) + USB/networking peripherals** entering delivery phase; rapid replenishment cycle suggests **active assembly/rework operations**
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — **SUSTAINED:** REX110 troubleshooting thread participation (cc'd); logistics coordination role sustained
 
-**18650 Battery Store** — **SHIPMENT NOTIFICATION (10 Jun 13:51):**
-- **NEW SIGNAL:** Order shipped (10 Jun 13:51)
-- **Prior context:** Order 549011 confirmed (9 Jun 20:37)
-- **Timeline:** 17-hour fulfillment from confirmation to shipment notification
-- **Implication:** Battery cell supply chain actively in delivery phase; production assembly likely imminent
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — **SUSTAINED:** Continued on team social event invitation
 
-**Battery Junction** — **NEW VENDOR - PROMOTIONAL (10 Jun 13:03):**
-- **NEW SIGNAL:** "15% OFF! Gifts Dad Will Use Every Day!" promotional (10 Jun 13:03)
-- **Service:** Secondary battery supplier/retailer
-- **Implication:** Cross-vendor battery sourcing; suggests either backup supplier or expanded capacity planning
+- **Paige Smith, Ethan Domagala, Meredith Needham, Nathaniel Straus, Spencer Hoehl, Sam Hild** — **NEW SIGNAL:** All distributed to team social event invitation (12 Jun 04:49); indicates broader leadership/key personnel alignment on team event
 
-**FedEx Tracking** — **SUSTAINED TRACKING UPDATES (10 Jun 10:20, 11:32, 14:34):**
-- **NEW SIGNALS:** Shipment 872802932852 tracking updated (3 notifications):
-  - Estimated delivery updated (10 Jun 10:20)
-  - Out for delivery today (10 Jun 11:32)
-  - Delivered (10 Jun 14:34)
-- **Pattern:** Single high-priority shipment with real-time tracking; delivery completed within 4-hour window
+### External — Manufacturing & Component Vendors (MANUFACTURING CYCLE ACCELERATION)
 
-**UPS** — **CONTINUED ACTIVITY (10 Jun 16:25):**
-- **NEW SIGNAL:** "Your Package Arrives Tomorrow" (10 Jun 16:25)
-- **Pattern:** Baseline sustained pickup/delivery cycle
+**PCBWay Online Services** — **NEW OPERATIONAL SIGNAL (12 Jun):**
+- **Order notification:** PCB order W700226ASS99 + SMT order T-S100W700226A
+- **Status:** IMPORTANT, UNREAD (flagged by system)
+- **Pattern:** SMT (surface mount technology) assembly order suggests **PCB fabrication + assembly services in active fulfillment**
+- **Implication:** Electronics assembly/manufacturing phase now visible; indicates hardware components moving from design to production
 
-**Harbor Freight** — **NEW VENDOR - PROMOTIONAL (10 Jun 18:14):**
-- **Service:** Tools/equipment retail
-- **Implication:** Tool procurement active (Father's Day promotional context suggests general tool shopping, not critical procurement)
+**McMaster-Carr** — **CONTINUED HIGH-VELOCITY ORDERING (11 Jun):**
+- **NEW SIGNALS:** 
+  - Confirmation for June 11th Order (11 Jun 16:27)
+  - Certificates and Tracking (11 Jun 17:44)
+- **Pattern:** Rapid dual-confirmation cycle suggests large/complex order requiring tracking documentation
+- **Implication:** Industrial/mechanical components in delivery phase
 
-**ELEGOO US** — **NEW VENDOR - PROMOTIONAL (10 Jun 18:00):**
-- **Service:** Electronics prototyping/educational kits
-- **Signal:** Flash sale 50% off (promotional noise; no order signal yet)
+**Driftaway Coffee** — **NEW VENDOR - OPERATIONAL SIGNAL (11 Jun 23:01):**
+- **Order notification:** Order #DR28102COF confirmed
+- **Type:** Coffee subscription service
+- **Email routing:** To purchasing@bst.aero (alternate BST domain)
+- **Implication:** Office supplies/employee amenities procurement; routine operational purchasing
 
-**Speedway Motors** — **NEW VENDOR - PROMOTIONAL (10 Jun 17:47):**
-- **Service:** Automotive components/braking systems
-- **Signal:** Drum-to-disc brake conversion educational content (promotional; unclear relevance to BST operations)
+**C-Astral (Samo Stopar)** — **NEW STRATEGIC VENDOR (11 Jun 20:33 & 12 Jun 06:31):**
+- **Contact:** Samo Stopar <samo.stopar@c-astral.com>
+- **Subject:** "Re: Camera support for BlackSwift" (IMPORTANT)
+- **Pattern:** Ongoing negotiation thread between Daniel Prendergast and C-Astral
+- **Implication:** Camera/sensor systems being integrated into BlackSwift platform; vendor relationship escalated to IMPORTANT flag suggests critical technical dependency or design decision pending
 
-**GetFPV, Protocase, Protolabs, Synopsys, HeliDirect** — **Sustained baseline; no new operational signal** (10 Jun promotional only)
+**FedEx/UPS/USPS** — **SUSTAINED TRACKING (11 Jun):**
+- General package delivery notifications; tracking cycle continuing
 
-### External — Technical Support (SUSTAINED - ESCALATED)
-- **Jošt Laznik & Jure Dolinar (Atmolab)** — **REX110 THREAD ESCALATION (10 Jun 15:54):**
-  - **New signal:** Broad-distribution escalation (7 internal + 2 external participants, IMPORTANT flag maintained)
-  - **Thread status:** Continues from 9 Jun 17:47 endpoint; **now 48+ hours unresolved**
-  - **Escalation pattern:** Jack Elston, Maciej Stachura, Ben Busby added to thread (suggests management/decision-making escalation)
-  - **Implication:** Technical blocker has reached stakeholder level; likely requires either design change, firmware revision, or component replacement decision
+**Amazon, JawsTec, 18650 Battery Store, Battery Junction** — **SUSTAINED BASELINE** (no new operational signal 11–12 Jun; invoicing cycle from prior period complete)
+
+### External — Technical Support & Vendors (ESCALATION CONTINUING - EXTENDED TIMELINE)
+- **Jošt Laznik & Jure Dolinar (Atmolab)** — **ESCALATION EXTENDED (11 Jun 12:06, 18:44, 21:31 UTC):**
+  - **NEW SIGNAL:** Atmolab initiated response (11 Jun 12:06) re-opening troubleshooting thread
+  - **Ben Busby now engaged in direct Atmolab correspondence** (11 Jun 18:44 & 21:31)
+  - **Thread status:** **Now 72+ hours of active troubleshooting across multiple internal/external participants**
+  - **Escalation pattern:** Jack Elston, Maciej Stachura, Joshua Fromm, Daniel Prendergast all cc'd; suggests **unresolved technical issue requiring architectural/design decision**
+  - **Implication:** REX110 blocker now involves Atmolab core technical team + BST decision makers; resolution likely requires either firmware/software update, component swap, or system redesign
 
 ### External — HR/Administrative (SUSTAINED)
-- **UnitedHealthcare** — **BENEFITS NOTIFICATION (10 Jun 08:05):**
-  - **Subject:** "ATTN: You have unused benefits for weight loss"
-  - **Type:** Unused benefits alert (automated employee benefit management)
+- **UnitedHealthcare** — **BENEFITS NOTIFICATION (11 Jun 10:04):**
+  - Subject: "Part of your benefits - Meal plans that meet your needs"
+  - Type: Employee benefit administration
 
 ### External — Project/Task Management (SUSTAINED)
-- **Asana** — **TASK REMINDERS (10 Jun 15:35, 11 Jun 02:00):**
-  - **10 Jun 15:35:** "Wednesday - tasks due soon: 3" (task tracking notification; 3 items approaching deadline)
-  -
+- **Asana** — **TASK REMINDERS (11 Jun 15:35):**
+  - "Thursday - tasks due soon: 3" (task tracking; 3 items approaching deadline)
+
+### External — Industrial/Aerospace Vendors (SUSTAINED PROMOTIONAL BASELINE)
+- **LightWare, eBay (Futaba receivers/transmitters), Baofeng Radio, Dell Technologies, Craftcloud, Worldwide Express, Daniels Manufacturing, Harbor Freight, X-Plane Team, HeliDirect** — All sustained promotional/newsletter signal; no new operational orders visible
+
+---
+
+## Topic Patterns
+
+### Active Technical/Integration Projects
+1. **REX110 Troubleshooting** — **PRIMARY ACTIVE ESCALATION**
+   - Status: 72+ hours unresolved
+   - Participants: Jack Elston, Dan Prendergast, Ben Busby, Mac

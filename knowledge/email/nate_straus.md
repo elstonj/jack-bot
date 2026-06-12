@@ -2,6 +2,6 @@
 
 Only 3 emails found in scanned period.
 
-- Wed, 10 Jun 2026 20:57:09 +0000: Invitation: Nathaniel / Beck @ Thu Jun 11, 2026 10:15am - 10:30am (MDT) (Nathaniel Straus) (from: Beck Cotter <beck.cotter@blackswifttech.com>)
-- Wed, 10 Jun 2026 13:57:53 -0600: Re: Great meeting you! (from: Jack Elston <elstonj@blackswifttech.com>)
-- Wed, 10 Jun 2026 19:35:37 +0000: Notes: “BST Internal Update Meeting” Jun 10, 2026 (from: Gemini <gemini-notes@google.com>)
+- Fri, 12 Jun 2026 04:49:47 +0000: Updated invitation with note: Checking out the new setup at Pattern Break Brewing @ Fri Jun 12, 2026 4:30pm - 5pm (MDT) (Nathaniel Straus) (from: Jack Elston <elstonj@blackswifttech.com>)
+- Thu, 11 Jun 2026 15:34:46 -0600: Re: Display Quote (from: Meredith Needham <meredith.needham@blackswifttech.com>)
+- Thu, 11 Jun 2026 21:27:15 +0000: Invitation: Checking out the new setup at Pattern Break Brewing @ Fri Jun 12, 2026 3pm - 5pm (MDT) (Nathaniel Straus) (from: Jack Elston <elstonj@blackswifttech.com>)

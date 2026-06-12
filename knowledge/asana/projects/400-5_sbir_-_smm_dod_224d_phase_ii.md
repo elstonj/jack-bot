@@ -3,8 +3,9 @@
 ## Overview
 - **Client/customer:** U.S. Air Force (DoD SBIR Phase II)
 - **Dollar value:** $1,249,725 total funding to Black Swift Technologies
+- **Subcontractor:** Orbital Micro Systems (OMS) – $605,000 subcontract
 - **Timeline:** Late 2024 – July 2025 (contract due date 2025-07-11)
-- **Status:** ARCHIVED – Successfully completed and closed out as of November 2025
+- **Status:** **ARCHIVED** – Successfully completed and closed out as of November 2025
 - **Team members involved:** Dan Prendergast (technical lead), Maciej Stachura, Meredith O'hara Needham, Nate Straus, Beck Cotter, Jack Elston
 - **Key contacts:** 
   - Jason Foley (Primary TPOC, jason.foley.1@us.af.mil)
@@ -22,8 +23,6 @@ Development and validation of a UAS-based L-band radiometer for mapping soil int
 | Milestone 6 | Soil Integrity Model Refinement | $200,000 | 2025-03-11 | ✓ Completed 2025-07-09 |
 | Milestone 7 | Testing at Tyndall AFB | $150,000 | 2025-04-11 | ✓ Completed 2025-07-09 |
 | Milestone 8 | Final Report Delivery | — | 2025-07-11 | ✓ Completed 2025-07-21 |
-
-**Subcontractor:** Orbital Micro Systems (OMS) – $605,000 subcontract
 
 ## Task Summary
 - **Total tasks:** 85 completed, 0 open (100% completion rate)

@@ -4,8 +4,8 @@
   "category": "contract",
   "asana_gid": "1211903174217997",
   "name": "EMASS Chip Integration",
-  "status": "delayed",
-  "status_notes": "CORRECTION 2026-05-12: From Jack: emass is likely delayed, we're waiting on them to get a working system to test, so de-prioritize it, but we don't want to drag this out more than a month",
+  "status": "complete",
+  "status_notes": "FEEDBACK 2026-05-13: From Daniel Prendergast: <@U0AQE94HJUT> CU IRISS training is complete.  EMASS Validation Flight #2 is postponed indefinitely until they get us a functioning controller.",
   "customer": {
     "name": "EMASS",
     "type": "commercial",
@@ -29,7 +29,7 @@
         "amount": 30387.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-10"
+        "last_updated": "2026-06-12"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 59612.5,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-10T09:02:25Z"
+    "last_reconciled": "2026-06-12T09:03:31Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -82,18 +82,12 @@
       "text": "From Daniel Prendergast: <@U0AQE94HJUT> CU IRISS training is complete.  EMASS Validation Flight #2 is postponed indefinitely until they get us a functioning controller."
     },
     {
-      "source": "CORRECTION",
-      "author": "Jack",
-      "date": "2026-05-12",
-      "text": "From Jack: emass is likely delayed, we're waiting on them to get a working system to test, so de-prioritize it, but we don't want to drag this out more than a month"
-    },
-    {
       "source": "FEEDBACK",
       "author": "Maciej",
       "date": "2026-06-08",
       "text": "From Maciej: <@U0AQE94HJUT> I don't see a Navy meeting at 9:30 this morning. Also, for mag integration it's Alex and Sam on the critical engineering tasks"
     }
   ],
-  "last_full_rebuild": "2026-06-10T09:02:25Z",
+  "last_full_rebuild": "2026-06-12T09:03:31Z",
   "last_incremental_update": null
 }
