@@ -4,12 +4,12 @@
 - Client: Overhead
 - Active/inactive status: Active
 - Billable status: No (overhead/internal operations)
-- Total hours tracked: 1,215.8 hours (1,188.6 + 27.2)
+- Total hours tracked: 1,234.8 hours (1,215.8 + 19.0)
 
 ## Team Allocation
-- Meredith Needham: 817.2 hours (67.2% of tracked time)
-- Jack Elston: 218.4 hours (17.9% of tracked time)
-- Beck Cotter: 158.3 hours (13.0% of tracked time)
+- Meredith Needham: 823.5 hours (66.7% of tracked time)
+- Jack Elston: 223.2 hours (18.1% of tracked time)
+- Beck Cotter: 166.3 hours (13.5% of tracked time)
 - Stachura: 14.4 hours (1.2% of tracked time)
 - Dan: 21.2 hours (1.7% of tracked time)
 - Ethan Domagala: 14.9 hours (1.2% of tracked time)
@@ -17,33 +17,30 @@
 
 ## Activity Timeline
 
-**Current batch (27.2 hours)**:
-- **Jack Elston** (8.0h): Kansas paperwork (3.0h + 1.5h + 1.5h), email management (1.0h), internal meetings/coordination (0.5h Gateworks & Black Swift Technologies, 0.5h BST Internal Update Meeting)
-- **Meredith Needham** (6.9h): Operations/Admin work (6.3h + 0.6h)
+**Current batch (19.0 hours)**:
+- **Jack Elston** (4.8h): Meeting with Scott (1.2h), Kansas paperwork (3.5h)
+- **Meredith Needham** (6.3h): Operations/Admin work
 - **Beck Cotter** (8.0h): *(no description)* — 2 undocumented entries (4.0h each)
-- **Stachura** (3.9h): *(no description)* — 2 undocumented entries (2.9h, 0.9h)
-- **Ethan Domagala** (0.5h): Weekly meeting attendance
 
 **Previous patterns**:
-- Jack Elston: Sustained focus on Kansas state paperwork and operational email management
+- Jack Elston: Sustained focus on Kansas administrative work and internal meetings
 - Meredith Needham: Consistent baseline operations/admin responsibilities
 - Beck Cotter: Persistent non-compliant logging continues
 
 ## Insights
-- **Documentation compliance crisis escalates**: 
-  - Current batch: **30.8% undocumented** (8.0 of 27.2 hours lack descriptions)
-  - Beck Cotter cumulative: **158.3 hours entirely undocumented (100% non-compliance)** — now 24 consecutive undocumented entries
-  - Stachura: Introduces new documentation gap (3.9 hours, 2 undocumented entries) — pattern emerging
+- **Documentation compliance crisis deepens**: 
+  - Current batch: **42.1% undocumented** (8.0 of 19.0 hours lack descriptions)
+  - Beck Cotter cumulative: **166.3 hours entirely undocumented (100% non-compliance)** — now 26 consecutive undocumented entries spanning two data batches
+  - Stachura: Maintains non-compliance pattern from previous batch
 
-- **Work patterns clarified**:
-  - Jack Elston: Dominates Kansas administrative work (6.0h in batch) plus operational communications
-  - Meredith Needham: Stable operations/admin baseline (6.9h consistent)
-  - Beck Cotter: Unexplained 8-hour allocation; no business context available
-  - Stachura: Undocumented hours without context or purpose
+- **Work patterns by contributor**:
+  - Jack Elston: Continued Kansas administrative focus (3.5h) plus internal stakeholder engagement (1.2h meeting)
+  - Meredith Needham: Stable operations/admin baseline (6.3h)
+  - Beck Cotter: 8-hour allocation with zero documentation; no business context, deliverables, or audit trail
 
-- **Accountability gaps**: 
-  - Beck Cotter's cumulative undocumented time now represents ~13% of project total
-  - Stachura's non-compliance pattern requires immediate intervention
-  - Unable to validate work type, deliverables, or alignment with project scope for combined 11.9 undocumented hours in this batch alone
+- **Accountability gaps accelerating**: 
+  - Beck Cotter's non-compliance rate unchanged: **100% of hours undocumented**
+  - Combined documentation failures across batches: **19.9 undocumented hours out of 46.2 tracked** (43% failure rate in recent activity)
+  - No validation possible for Beck Cotter time allocation, work type, or project alignment
 
-**⚠️ CRITICAL RECOMMENDATION**: Enforce mandatory entry descriptions immediately for Beck Cotter and Stachura. Conduct audit of 158.3 undocumented hours to validate against overhead classification and project deliverables.
+**⚠️ CRITICAL ESCALATION**: Beck Cotter's persistent refusal to document time entries (8 consecutive hours this batch) requires immediate management intervention. Combined 166.3 undocumented cumulative hours demands formal audit and mandatory compliance enforcement.

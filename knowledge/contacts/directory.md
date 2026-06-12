@@ -109,11 +109,11 @@
 - **Service Accounts:** 2
 
 **Verification Status:**
-- All 18 directory entries verified against raw data
-- All phone numbers confirmed and normalized to consistent dash-separated format (e.g., 720-933-4503)
+- All 18 directory entries verified and confirmed against raw data
+- All phone numbers normalized to consistent dash-separated format (e.g., 720-933-4503)
+- No changes to existing records — all data remains consistent between previous and current sync
 - No new hires or departures detected
-- All existing records remain accurate and up-to-date
-- Directory is current and complete as of latest sync
+- Directory is current and complete
 
 **Notes:**
 - Three team members remain unclassified; recommend reaching out to leadership for role clarification

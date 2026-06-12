@@ -1,13 +1,22 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 942 emails (912 prior + 30 new June 10–11)
-- **Date range:** May 18–June 11, 2026
+- **Total messages scanned:** 982 emails (942 prior + 40 new June 11–12)
+- **Date range:** May 18–June 12, 2026
 - **Daily average:** ~15–17 emails/day (human correspondence); automated/logistics/procurement volume substantial and accelerating
-- **Unread messages:** ~630+ unread (heavy promotional/automated volume; logistics, supplier notifications, Asana task assignments dominating)
-- **New data period (June 10–11):** 30 emails; **27 automated/promotional/logistics; 3 human correspondence**
-  - Human correspondence: REX110 Troubleshooting (continued) — Daniel Prendergast to Atmolab/internal team (June 10, flagged IMPORTANT); Meeting invitation from Beck Cotter (June 10, no subject, flagged IMPORTANT); VertIQ tracking notification from Chance Rogers (June 10, flagged IMPORTANT)
-  - Automated/Logistics: Amazon (Weller soldering tips shipment; USB-C Ethernet order; delivery confirmation); TraceParts survey; SAP promotional; UPS package arrival; FedEx tracking (3 updates); Harbor Freight promotional; ELEGOO flash sale; Speedway Motors promotional; JawsTec Manufacturing (Order #69219 received + payment request); 18650 Battery Store shipment; Battery Junction promotional; Asana notifications; Gemini notes (BST Internal Update Meeting, June 10); Hilton Honors promotional; Birdcall catering (flagged IMPORTANT — summer readiness); Bulk Container Express promotional; UAS VISION daily news (flagged IMPORTANT)
+- **Unread messages:** ~660+ unread (heavy promotional/automated volume; logistics, supplier notifications, Asana task assignments, equipment sourcing dominating)
+- **New data period (June 11–12):** 40 emails
+  - **Human correspondence:** 3 emails
+    - Ben Busby → Jošt Laznik (Atmolab) on REX110 Troubleshooting (2 messages, June 11, both flagged IMPORTANT)
+    - Jošt Laznik (Atmolab) → team on REX110 Troubleshooting (continued) (June 11, 12:06 UTC, flagged IMPORTANT)
+    - Jack Elston → team event invitation: Pattern Break Brewing (2 invitations, June 11–12, flagged IMPORTANT; time adjusted from 3pm–5pm to 4:30pm–5pm)
+    - Robert Wilson (FastBlaize) → Josh (June 11, 12:18 UTC, flagged IMPORTANT, technical topic: multi-UAS coordination)
+  - **Automated/Logistics:** 37 emails (93% of new volume)
+    - **Order confirmations & tracking:** Amazon (USB-C, quick release plates), McMaster-Carr (June 11 order + tracking), Driftaway Coffee (order confirmed), PCBWay (PCB/SMT order W700226ASS99, flagged IMPORTANT), ProtoSpace Mfg (enclosure turnaround marketing, flagged IMPORTANT)
+    - **Promotional/vendor outreach:** Harbor Freight (2), Hilton Honors, Spindrift subscription, AliExpress, Alibaba sourcing alerts, Budget rental cars, Dell Technologies, Strong Hold tool cart, Craftcloud, LightWare (WISPR marketing, 2 copies), eBay (Futaba receivers), Baofeng radio (Field Day prep, 15% OFF), X-Plane 12, Space Software Summit sponsorship request, TraceParts/SV Microwave application notes, Daniels Manufacturing (crimpers qualification), UnitedHealthcare benefits, LightWare UAV marketing (duplicate routing)
+    - **Logistics/notifications:** HeliDirect (servo inventory), USPS Informed Delivery digest, Worldwide Express 3PL awards, UAS VISION daily news (flagged IMPORTANT)
+    - **Asana task notifications:** 2 unread notification alerts
+    - **Newsletter/subscription:** UAS VISION daily news (flagged IMPORTANT)
 
 ---
 
@@ -15,52 +24,60 @@
 
 ### Top Internal Contacts
 
-1. **Jack Elston** (elstonj@blackswifttech.com) — **Primary collaborator**
-   - Motor Information Request (prior period, flagged IMPORTANT)
+1. **Jack Elston** (elstonj@blackswifttech.com) — **Primary collaborator & Event Lead**
+   - **NEW (June 11–12):** Pattern Break Brewing team event organizer
+     - June 11, 21:27 UTC: Initial invitation (3pm–5pm MDT, 12 attendees flagged)
+     - June 12, 04:49 UTC: Updated invitation (4:30pm–5pm MDT, all recipients)
+     - **Attendees:** Joshua Fromm, Paige Smith, Ethan Domagala, Alex Lomis, Meredith Needham, Ben Busby, Nathaniel Straus, Spencer Hoehl, Beck Cotter, Maciej Stachura, Daniel Prendergast, Sam Hild
+   - REX110 technical escalation chain (Ben Busby responding to Atmolab June 11)
    - Government programs liaison (Merlin Mk2, US Navy SBIR, UK MOD)
-   - Directly copied on major NOAA multi-stakeholder meeting invitation
+   - Copied on major NOAA multi-stakeholder meetings
    - Property Audit coordination with NOAA
-   - **NEW (June 10):** Copied on REX110 Troubleshooting (continued) thread
-   - Note: Appears in UAS vendor routing (uAvionix promotional email to Jack Elston/Purchasing alias)
 
-2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Technical integration & troubleshooting**
-   - **ESCALATED THREAD (ONGOING, PERSISTING INTO JUNE 10):** REX110 Troubleshooting (continued)
-     - June 10, 15:54 MDT (flagged IMPORTANT): Expanded thread to Jure Dolinar (Atmolab), Jošt Laznik (Atmolab), Maciej Stachura, Jack Elston, Ben Busby, Joshua Fromm, Alex Lomis
-     - **Status:** Issue unresolved as of June 10; escalation broadened to include senior leadership (Ben Busby, Jack Elston)
-   - Prior period: Camera support for BlackSwift; rapid troubleshooting exchanges with Atmolab
-
-3. **Meredith Needham** (meredith.needham@blackswifttech.com) — **Procurement/Operations**
-   - Shipping PO 05212026A coordination (prior period, active)
-   - Recipient: HeliDirect promotional (June 10, 20:01 UTC) — servo inventory notification
-   - Recipient: Bulk Container Express promotional (June 10, 14:50 UTC)
-   - **Status:** Active procurement operations; receiving vendor notifications directly
-
-4. **Beck Cotter** (beck.cotter@blackswifttech.com) — **Key collaborator**
-   - Arctic Edge 2027 proposal (prior period)
-   - **NEW (June 10):** Calendar invitation sent to Josh (June 11, 1:00–1:15 PM MDT, flagged IMPORTANT, no subject line)
-     - Indicates scheduled meeting/sync with Josh on June 11
-
-5. **Maciej Stachura** (stachura@blackswifttech.com) — **Co-investigator/technical lead**
-   - Sparv sondes and Arctic Edge 2027 coordination (prior period)
-   - **NEW (June 10):** Copied on REX110 Troubleshooting (continued) thread — expanded technical escalation
-
-6. **Ben Busby** (ben.busby@blackswifttech.com) — **Senior operational role**
-   - Benefit Survey (prior period)
-   - **NEW (June 10):** Copied on REX110 Troubleshooting (continued) thread — senior escalation indicates critical issue requiring leadership visibility
-
-7. **Alex Lomis** (alex.lomis@blackswifttech.com) — **Technical/Operations**
-   - Benefit Survey (prior period)
-   - **NEW (June 10):** Copied on REX110 Troubleshooting (continued) thread
-   - Recipient: ELEGOO promotional (June 10, 18:00 UTC) — electronics component supplier notification to purchasing alias
-
-8. **Ethan Domagala** (ethan.domagala@blackswifttech.com) — **Team member**
+2. **Ben Busby** (ben.busby@blackswifttech.com) — **Senior leadership & REX110 escalation**
+   - **NEW (June 11, CRITICAL):** Direct responses to Jošt Laznik (Atmolab) on REX110 Troubleshooting
+     - June 11, 18:44 UTC: Response (flagged IMPORTANT)
+     - June 11, 21:31 UTC: Follow-up response (flagged IMPORTANT)
+   - **Status:** Senior leadership now directly engaged with Atmolab on unresolved REX110 issue; escalation indicates critical blocker requiring C-level attention
    - Benefit Survey (prior period)
 
-9. **Sam Hild** (sam.hild@blackswifttech.com) — **Team member**
-   - Benefit Survey (prior period)
+3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Technical integration & troubleshooting**
+   - **NEW (June 11, CRITICAL):** Recipient of Jošt Laznik direct response on REX110 Troubleshooting (continued) thread (June 11, 12:06 UTC, flagged IMPORTANT)
+   - REX110 troubleshooting thread primary technical recipient
+   - Camera support for BlackSwift; rapid troubleshooting exchanges
 
-10. **Nathaniel Straus** (nate.straus@blackswifttech.com) — **Administrative/facilities role**
-    - Benefit Survey (prior period)
+4. **Maciej Stachura** (stachura@blackswifttech.com) — **Co-investigator/technical lead**
+   - **NEW (June 11):** Copied on REX110 Troubleshooting (continued) response from Atmolab (June 11, 12:06 UTC)
+   - Sparv sondes and Arctic Edge 2027 coordination
+
+5. **Alex Lomis** (alex.lomis@blackswifttech.com) — **Technical/Operations**
+   - **NEW (June 11):** Copied on Jošt Laznik REX110 response thread (June 11, 12:06 UTC)
+   - ELEGOO electronics supplier notifications
+
+6. **Meredith Needham** (meredith.needham@blackswifttech.com) — **Procurement/Operations**
+   - HeliDirect promotional recipient (servo inventory notification, June 11)
+   - Shipping PO 05212026A coordination (prior period)
+   - Baofeng radio field day promotional recipient (June 11, 12:30 UTC)
+   - Active procurement operations; receiving vendor notifications directly
+
+7. **Paige Smith** (paige.smith@blackswifttech.com) — **Team member (NEW VISIBILITY)**
+   - **NEW (June 11–12):** Recipient of Pattern Break Brewing team event invitation (Jack Elston organizer, June 11–12)
+
+8. **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — **Team member (NEW VISIBILITY)**
+   - **NEW (June 11–12):** Recipient of Pattern Break Brewing team event invitation
+
+9. **Ethan Domagala** (ethan.domagala@blackswifttech.com) — **Team member**
+   - **NEW (June 11–12):** Recipient of Pattern Break Brewing team event invitation
+
+10. **Sam Hild** (sam.hild@blackswifttech.com) — **Team member**
+    - **NEW (June 11–12):** Recipient of Pattern Break Brewing team event invitation
+
+11. **Beck Cotter** (beck.cotter@blackswifttech.com) — **Key collaborator**
+    - **NEW (June 11–12):** Recipient of Pattern Break Brewing team event invitation
+    - Arctic Edge 2027 proposal (prior period)
+
+12. **Nathaniel Straus** (nate.straus@blackswifttech.com) — **Administrative/facilities role**
+    - **NEW (June 11–12):** Recipient of Pattern Break Brewing team event invitation
 
 ---
 
@@ -68,37 +85,12 @@
 
 #### Government & Strategic Partners
 
-1. **Joe Cione – NOAA Federal** (joe.cione@noaa.gov) — **MAJOR CONTACT**
+1. **Joe Cione – NOAA Federal** (joe.cione@noaa.gov) — **MAJOR CONTACT (PRIOR)**
    - Monthly meeting CANCELED (June 8, prior period)
    - Sparv sondes working group (23+ participants)
 
 #### Manufacturing & Component Suppliers
 
-**CRITICAL ACTIVE — Atmolab (REX110 Sensor Integration — Status: UNRESOLVED)**
+**CRITICAL ACTIVE — Atmolab (REX110 Sensor Integration — Status: UNRESOLVED, ESCALATING)**
 
-1. **Jošt Laznik – Atmolab** (jost.laznik@atmolab.eu) — **ESCALATED TECHNICAL PARTNER**
-   - **ONGOING (ESCALATING):** REX110 Troubleshooting
-   - **NEW (June 10):** Troubleshooting continued; thread now includes Jure Dolinar (Atmolab co-contact), Maciej Stachura, Jack Elston, Ben Busby, Alex Lomis
-   - **Implication:** Issue persists across June 9–10; senior leadership escalation suggests critical blocker
-
-2. **Jure Dolinar – Atmolab** (jure.dolinar@atmolab.eu) — **NEW ATMOLAB CONTACT**
-   - **NEW (June 10):** Included on REX110 Troubleshooting (continued) thread (June 10, 15:54 MDT)
-   - Likely co-lead or specialist on REX110 sensor integration
-
-**CRITICAL ACTIVE — Shipping Coordination (PT Shipping)**
-
-3. **PT Shipping** (ptshipping@ppgintl.onmicrosoft.com / PTshipping@ppgintl.com) — **LOGISTICS PARTNER (STATUS: ACTIVE)**
-   - Shipping PO 05212026A coordination (prior period, June 9)
-   - Meredith Needham primary BST contact
-
-**ACTIVE VENDORS (Prior Period Status Maintained)**
-
-4. **Chance Rogers – VertIQ** (chance.rogers@vertiq.co) — **Platform Control Systems**
-   - **NEW (June 10):** SO-01599 Tracking notification (June 10, 16:43 EDT, flagged IMPORTANT)
-   - **Status:** Active order tracking; shipment in motion
-
-5. **Lee Skidmore – Rubicon Aerospace** (lee@rubiconaerospace.com) — **S0 Launch Tube/Fuselage**
-   - S0 Launch Tube drawing finalized; S0 Fuse shipping imminent (prior period)
-   - Multiple invoice cycles active
-
-6. **Jeremy Van Vliet – Rubicon Aerospace** (jeremy@rubicona
+1. **Jošt

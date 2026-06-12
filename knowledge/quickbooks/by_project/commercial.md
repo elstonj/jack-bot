@@ -2,10 +2,10 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $2,986,489.34
-- **Total Expenses (Bills + Purchases):** $239,323.02
+- **Total Expenses (Bills + Purchases):** $240,435.83
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,747,165.32 (Revenue exceeds expenses)
-- **Date Range:** April 5, 2024 – June 10, 2026
+- **Net Position:** $2,746,053.51 (Revenue exceeds expenses)
+- **Date Range:** April 5, 2024 – June 12, 2026
 
 ---
 
@@ -75,9 +75,9 @@
 - **Total Collected (Paid):** $1,075,726.08
 - **Outstanding Balance:** $1,910,763.26
 
-#### Notable Recent Invoices (June 9–10, 2026)
+#### Notable Recent Invoices (June 4–9, 2026)
 
-**Invoice #1769 — [044-1] EMASS Chip Integration (June 9, 2026): $25,000.00** ⚠️ NEW
+**Invoice #1769 — [044-1] EMASS Chip Integration (June 9, 2026): $25,000.00** ⚠️ 
 - $25,000.00 — Engineering support + flights
 - *Outstanding balance; represents continuation of EMASS Chip Integration work*
 
@@ -90,10 +90,11 @@
 ## Expenses by Cost Category
 
 ### **Shipping/Freight (Direct Cost Shipping, Freight & Delivery)**
-**Total: $53.49** | 1 transaction | Largest item: $53.49
+**Total: $1,166.30** | 2 transactions | Largest item: $1,112.81
 
 | Date | Vendor/Description | Amount | Details |
 |------|-------------------|--------|---------|
+| **2026-06-11** | **Aeronet Worldwide — Bill #103032173** | **$1,112.81** | **Shipping S3 to UMES** |
 | 2026-06-10 | PIRATE SHIP * POSTAGE - 7333 | $53.49 | Shipment of Model S0 to Embry Riddle (invoice 1730) |
 
 **Account:** DIRECT COSTS: DC-Direct Cost Shipping, Freight & Delivery
@@ -117,23 +118,18 @@
 ### **Materials & Supplies (Direct Cost Purchases)**
 **Total: $84,675.18** | 17 transactions | Largest item: $4,164.75
 
-#### Direct Cost Material Purchases
-- **Purchase (2026-05-29):** $69.98
-  - $34.99 — Logitech K400 Plus Wireless Touch TV Keyboard - for S2 simulator
-  - $34.99 — Logi...
-
-*[Full Materials & Supplies details from previous knowledge file]*
+*[Full Materials & Supplies details from previous knowledge file — no new transactions]*
 
 ---
 
 ### **Other Expenses**
 **Total: $143,388.12** | From previous knowledge file
 
-*[Other expenses from previous knowledge file]*
+*[Other expenses from previous knowledge file — no new transactions]*
 
 ---
 
 ## Purchase Orders
 **Total POs:** $1,977.50
 
-*
+*[PO details from previous knowledge

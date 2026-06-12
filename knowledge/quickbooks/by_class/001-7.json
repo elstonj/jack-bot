@@ -4,15 +4,15 @@
     "(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-06-09",
-    "end": "2026-06-10"
+    "start": "2026-06-10",
+    "end": "2026-06-12"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 148.17,
+    "expenses": 254.01,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 140.59,
-      "FACILITIES:FA-Shop Supplies": 7.58
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 184.61,
+      "Inventory Asset": 69.4
     }
   },
   "invoices": [],
@@ -38,19 +38,24 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "doc_number": "",
-      "total": 7.58,
-      "attributed": 7.58,
+      "total": 292.24,
+      "attributed": 113.42,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "No purchase request - Josh Fromm made the purchase in store",
+      "memo": "No Asana request - project listed under each item",
       "lines": [
         {
-          "amount": 7.58,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Items for IRAD S3"
+          "amount": 178.82,
+          "account": "Inventory Asset",
+          "description": "For future S3 Sales"
+        },
+        {
+          "amount": 113.42,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "S3 IRAD"
         }
       ]
     }

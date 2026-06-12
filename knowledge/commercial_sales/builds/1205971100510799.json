@@ -1,6 +1,6 @@
 {
-  "asana_gid": "1205318673933832",
-  "asana_task_name": "[1298] ERAU - S0 & S0 VTOL deployment ",
+  "asana_gid": "1205971100510799",
+  "asana_task_name": "[1313] ERAU 4 S0 VTOL",
   "customer": "Embry-Riddle Aeronautical University",
   "customer_contact": "Kevin Adkins",
   "customer_email": "adkinsk@erau.edu",
@@ -31,13 +31,20 @@
   "invoice_date": "2025-05-07",
   "invoice_amount": 21181.81,
   "invoice_number": "1667",
-  "paid_date": "2025-05-07",
+  "paid_date": "2026-05-21",
   "parts": [
     {
       "name": "S0 VTOL airframe",
       "ordered": true,
       "received": false,
       "vendor": "Black Swift Technologies",
+      "order_date": null
+    },
+    {
+      "name": "Samsung Galaxy Tab Active2",
+      "ordered": true,
+      "received": false,
+      "vendor": "",
       "order_date": null
     }
   ],
@@ -49,11 +56,8 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Paid order (Invoice 1667, May 2025) for 2 S0 VTOL units delivered to ERAU for ISARRA Flight Week Aug/Sep 2026. Units in QC; recent email (5/21/26) confirms delivery target and training coordination. Jack Elston proposing to ship units directly to ISARRA site.",
-  "missing_fields": [
-    "shipped_date",
-    "tracking_number"
-  ],
-  "last_evidence_date": "2026-06-08",
-  "last_contact_date": "2026-05-21"
+  "notes": "Two S0 VTOL units ordered and paid in full (Invoice 1667, paid 5/21/26). Legal disclosure indicates delivery delays; BST intends settlement agreement. Currently in QC per Slack #commercial-sales. Receive-by date 2026-08-31 per project registry.",
+  "missing_fields": [],
+  "last_evidence_date": "2026-05-26",
+  "last_contact_date": null
 }

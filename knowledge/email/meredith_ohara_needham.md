@@ -1,86 +1,79 @@
 # Meredith O'Hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,871 (2,785 previous + 100 new from June 10–11)
-- **Date range:** March 23 – June 11, 2026 (approximately 11.8 weeks)
-- **Approximate volume:** 25–40 emails per day (mix of sent, received, and automated)
-- **June 10–11 new data:** 100 messages; **~60% transactional/automated/vendor (60 of 100)**; **~40% human business correspondence (40 of 100)**
-  - **Human correspondence focus:** Banking/credit union document signing (Elevations Credit Union, DocuSign); funds flow documentation (Capital Factory wire transfer); payroll/benefits system evaluation (Deel vendor demo); tax filing acceleration (R&D credit); payroll classification fixes (Rippling ongoing); ERAU student inquiry (external); calendar coordination with CFO
-  - **Transaction Intensity:** Material business transaction entering document execution phase (Elevations Credit Union app 528301 with repeated signing cycles); funds flow coordination with Capital Factory entity fix; alternative payroll system evaluation (Deel demo with KrateoSky and Deel partners); tax advisor engagement accelerating; banking operations dominating June 10 activity
+- **Total messages scanned:** 2,939 (2,871 previous + 68 new from June 11–12)
+- **Date range:** March 23 – June 12, 2026 (approximately 11.9 weeks)
+- **Approximate volume:** 25–40 emails per day
+- **June 11–12 new data:** 68 messages; **~50% transactional/automated/vendor (34 of 68)**; **~50% human business correspondence (34 of 68)**
+  - **Human correspondence focus:** Banking account setup completion (Elevations Credit Union); SAM.gov bank account change registration/alert; payroll and tax advisor engagement; Krateo Sky benefits/payroll deal coordination; NOAA federal customer engagement (Display Quote/PCS); internal team meeting planning (Pattern Break Brewing); external vendor quotes (Microhard Systems); Aeropod website project coordination
+  - **Transaction Intensity:** Banking operations moving into account activation phase (temporary password distribution, account disclosures received); Federal SAM.gov registration for bank account change (alerts + data entry assignments); tax/payroll advisor engagement sustained; vendor quote management active
 
 ## Key Correspondents
 
 ### Top Internal Contacts
 
-- **Jack Elston** — Maintained as central hub; elevated involvement in funds flow coordination
-  - **June 10–11 activity:** 8+ IMPORTANT-flagged emails on "Black Swift - Funds Flow" and Capital Factory entity documentation; active back-and-forth with Ryan Sykora (KO Firm) on funds flow analysis; forwarding Elevations Credit Union completion confirmations to Meredith; coordinating Deel payroll system demo introduction
-  - **Pattern:** High-velocity same-day responses; managing legal counsel coordination and banking documentation flow
-  - **New signal:** Funds flow documentation now moving from analysis to execution phase (wire transfer staging with Capital Factory)
+- **Jack Elston** — Sustained as central coordination hub; expanded scope to team events and benefits/payroll evaluation
+  - **June 11–12 activity:** 7+ IMPORTANT-flagged emails across multiple threads: "Working full-time (set up meeting after Krateo visit)" direct response from Jack; "Krateo Sky × BST · Boulder Close" back-and-forth with Kathi Healy; forwarding internal team meeting invitations (Pattern Break Brewing June 12, 3–5pm; updated 4:30–5pm with full team cc: Paige Smith, Ethan Domagala, Alex Lomis, Ben Busby, Nathaniel Straus, Joshua Fromm, Spencer Hoehl, Beck Cotter, Maciej Stachura, Daniel Prendergast, Sam Hild); forwarding business meeting alerts (St Julien Hotel & Spa, Boulderado)
+  - **Pattern:** High-velocity same-day responses; managing internal team coordination and external benefits/payroll vendor relationships; escalation/meeting scheduling authority
+  - **New signal:** Team event planning (internal morale/team building); employment status clarification ("Working full-time") suggests staffing discussions; meeting to be scheduled post-Krateo Sky visit
 
-- **Beck Cotter** — CFO/Leadership; now directly engaged in disclosure workflow
-  - **June 10 activity:** Direct cc'd engagement on "Black Swift - Disclosure Schedules" thread with Charu Ganesh (KO Firm); calendar invitation sent to Meredith (June 11, 11am MDT meeting)
-  - **Signal:** C-suite involvement in material transaction documentation; executive-level check-in scheduled
+- **Beck Cotter** — CFO continued engagement on material transaction documentation
+  - **June 11 activity:** cc'd on "Black Swift - Disclosure Schedules" thread (Charu Ganesh responding to Beck and Jack)
+  - **Pattern:** Executive-level involvement maintained
 
-- **Maciej Stachura** — Senior operations/compliance; expanded banking operations role
-  - **June 10 activity:** IMPORTANT-flagged email on "Secure link request" (banking authentication/access coordination)
-  - **Signal:** Senior ops involvement in banking access and document signing process
+- **Maciej Stachura** — Senior operations/compliance; team event participant
+  - **June 12 activity:** Included in Pattern Break Brewing team event invitation
+  - **Signal:** Leadership team engagement in informal company gatherings
+
+- **Sam Hild** — Operations/production coordination
+  - **June 11 activity:** Meredith forwarding PCBWay manufacturing order (W700226ASS99 PCB order, T-S100W700226A SMT order) to Sam
+  - **Signal:** Hardware manufacturing/production logistics coordination
+
+- **Paige Smith** — Team member; benefits/payroll evaluation and event coordination
+  - **June 11 activity:** cc'd on multiple Jack Elston forwards (Party Planning Committee, Boulderado Meeting, St Julien Hotel meeting); cc'd on team event invitations; Aeropod website project coordination with external contact (geoff)
+  - **Signal:** Benefits/payroll broker visibility (Sona Raziabeegum forwarding to Paige directly); event/project management involvement
 
 ### Top External Contacts
 
-**BANKING & DOCUMENT EXECUTION — CRITICAL PATH (ACCELERATING)**
+**BANKING & ACCOUNT ACTIVATION — CRITICAL PATH (COMPLETION PHASE)**
 
 - **Hilda Abrego** (Hilda.Abrego@elevationscu.com) — **ELEVATIONS CREDIT UNION**
-  - **June 10 activity intensity:** 12 IMPORTANT-flagged emails; high-volume back-and-forth with Meredith on document signing (app 528301)
-  - **Pattern:** Multiple signing cycles (void, resubmit, completion pattern visible in metadata); real-time problem-solving on DocuSign authentication and "secure link request" issues
-  - **Timeline:** Messages span 14:06 MDT to 22:07 UTC (8-hour active engagement window)
-  - **Signal:** Business account document (likely loan, credit facility, or account authorization) moving through final signing phase; technical/procedural issues requiring same-day resolution; **critical path for transaction close**
+  - **June 11 activity intensity:** 4 IMPORTANT-flagged emails (down from 12 on June 10); ongoing account setup and sign-in coordination
+  - **Threads:** "Setting up sign ins for new account" (Meredith June 11 10:41am, Hilda response 17:58 UTC same day); "Request for bank letter (Vendor Form)" (Meredith June 11 13:28, Hilda response 00:19 UTC June 12); temporary password forwarding chain
+  - **Pattern:** Reduced intensity from June 10 high; account activation proceeding (sign-in credentials, account disclosures received 15:46 UTC June 11); bank letter/vendor form request indicates external requirement (likely vendor documentation or regulatory filing)
+  - **Signal:** Banking relationship moving from document execution to operational account use; vendor form request suggests formal banking relationship verification needed
 
-- **Elevations Credit Union / DocuSign** (dse@docusign.net)
-  - **June 10 activity:** 6 transactional confirmations on app 528301 (voided, resubmitted, completed states)
-  - **Signal:** Multiple document signing attempts; void-and-resubmit pattern suggests corrections needed; final completion confirmed 14:36 and 15:14 UTC
+**FEDERAL COMPLIANCE — SAM.GOV REGISTRATION (NEW HIGH PRIORITY)**
 
-**LEGAL COUNSEL — FUNDS FLOW DOCUMENTATION (ACTIVE EXECUTION)**
+- **SAM.gov (donotreply@sam.gov)** — **U.S. GOVERNMENT SYSTEM FOR AWARD MANAGEMENT**
+  - **June 11 activity:** 2 IMPORTANT-flagged alerts + operations notifications; bank account change detected and registered
+  - **Alerts received:**
+    - "ALERT: Bank Account Change Detected for BLACK SWIFT TECHNOLOGIES LLC / C2J3K9NRE3L3 / 6PGF9" (16:17 EDT, 16:33 EDT)
+    - "SAM.gov | You have submitted a pending request for Data Entry" (16:31 EDT)
+    - "SAM.gov | You have been assigned Data Entry in SAM.gov" (16:47 EDT)
+  - **Pattern:** Automated alerts indicating bank account change update in federal contractor registry; data entry access provisioned
+  - **Signal:** Bank account update (likely tied to Elevations Credit Union new account) being registered with federal contracting system; govtech/federal contracting operations moving in lockstep with banking change
 
-- **Ryan Sykora** (rsykora@kofirm.com) — **KO FIRM**
-  - **June 10 activity:** 10+ IMPORTANT-flagged emails on "Black Swift - Funds Flow"; rapid back-and-forth with Jack Elston (10:59 AM through 20:48 UTC same day)
-  - **Coordination:** Direct engagement with Meredith on funds flow documentation; cc'ing Nadia Bryan and Jack Elston on flow analysis
-  - **Pattern:** Multiple exchanges indicating iterative review/approval; high-priority flagging sustained
-  - **Signal:** Funds flow analysis moving to implementation phase; legal documentation supporting wire transfer execution
+**FEDERAL CUSTOMER — NOAA (ACTIVE QUOTE & PCS)**
 
-- **Nadia Bryan** (nbryan@kofirm.com) — **KO FIRM**
-  - **June 10 activity:** 5 IMPORTANT-flagged emails; active on "Capital Factory contact" request from Meredith; cc'ing Charu Ganesh and Beck Cotter on disclosure schedules
-  - **New signal:** Now coordinating Capital Factory relationship (entity fix and wire transfer information)
+- **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — **NOAA FEDERAL**
+  - **June 11 activity:** 3 emails including IMPORTANT-flagged "Permanent Change of Station (PCS) Re: Display Quote"
+  - **Timeline:** Nikolai initiated "Display Quote" request (09:15 June 11, PDT); Meredith responded same day (10:15 AM); Nikolai followed up with "Permanent Change of Station" context (16:33 EDT); Meredith response sent 15:34 (later same day, likely pre-written)
+  - **Pattern:** Customer undergoing PCS (military/federal relocation); Display Quote (likely product demo or equipment quotation) timing aligned with relocation planning
+  - **Signal:** Federal customer engaged in active procurement/deployment; moving location may indicate new operational requirement or facility refresh
+
+**LEGAL COUNSEL — DISCLOSURE SCHEDULES (ONGOING)**
 
 - **Charu Ganesh** (cganesh@kofirm.com) — **KO FIRM**
-  - **June 10 activity:** Included in disclosure schedule thread with Beck Cotter and Nadia Bryan
-  - **Signal:** Continued involvement in material transaction documentation
+  - **June 11 activity:** Response to "Black Swift - Disclosure Schedules" thread with Beck Cotter and Jack Elston (cc'd); IMPORTANT-flagged
+  - **Pattern:** Continued material transaction documentation review
 
-**CAPITAL FACTORY — WIRE TRANSFER COORDINATION (NEW HIGH PRIORITY)**
+**PAYROLL & BENEFITS SYSTEM EVALUATION — VENDOR COORDINATION (ACTIVE)**
 
-- **Jamie Serio** (jamieserio@capitalfactory.com) — **CAPITAL FACTORY**
-  - **June 10 activity:** 3 IMPORTANT-flagged emails on "Black Swift — Capital Factory executed, one entity fix"; Jack Elston direct engagement
-  - **Thread pattern:** Jack Elston responding to Jamie on entity documentation fix; Meredith requesting Capital Factory contact info from Nadia Bryan; draft email from Meredith to "howdy@capitalfactory.com" requesting "Wire transfer information needed"
-  - **Signal:** Capital Factory entity structure issue resolved; wire transfer logistics now being coordinated; Meredith moving to direct contact with Capital Factory on banking details
+- **Sona Raziabeegum** (sona@krateosky.com) — **KRATEOSKY**
+  - **June 11 activity intensity:** 2 new threads; IMPORTANT-flagged "Party Planning Committee" and email to Jack Elston, Kathi Healy, Paige Smith
+  - **Threads:** "Party Planning Committee" (17:52 UTC, external cc to Jack/Kathi/internal Paige); "Question about contact regarding GAAP compliance" (Meredith sent 13:55 June 11 to Sona)
+  - **Pattern:** Broker expanding relationship beyond payroll/benefits into internal event/culture coordination; GAAP compliance question suggests financial/accounting system assessment alongside payroll evaluation
+  - **Signal:** KrateoSky relationship broadening; financial controls/accounting implications of payroll system change being evaluated
 
-**TAX & FINANCIAL COMPLIANCE — FILING PHASE (ACCELERATING)**
-
-- **Thierry Lepoutre** (thierry@boostrconsulting.com) — **BOOSTR CONSULTING**
-  - **June 10 activity:** 2 IMPORTANT-flagged emails; direct engagement with both Meredith and Jack Elston on "BST Tax filing" status and "Black Swift R&D Credit — document and records request (TY2017–TY2025)"
-  - **Pattern:** Same-day responses from Meredith and Jack; advisor providing status updates
-  - **Signal:** R&D tax credit filing entering final documentation phase; historical records request (7-year lookback) indicates preparation for submission
-
-- **Mark Kightlinger** (Mark@kcotax.com) — **TAX ADVISOR**
-  - **June 10 activity:** IMPORTANT-flagged response to Meredith on "Updates on taxes and fixing payroll"
-  - **Signal:** Tax advisor now actively engaged on payroll classification corrections (related to Rippling issue)
-
-**HR/PAYROLL SYSTEM EVALUATION — NEW VENDOR DEMO**
-
-- **Ben Stavig** (benjamin.stavig@deel.com) — **DEEL** (NEW)
-  - **June 10 activity:** YELLOW_STAR/STARRED IMPORTANT email responding to KrateoSky intro on "Deel x Black Swift - benefits & payroll demo"
-  - **Pattern:** Jack Elston managing intro coordination; Meredith cc'd on vendor demo invitation
-  - **Signal:** Alternative payroll/benefits system (Deel) being evaluated; likely triggered by ongoing Rippling payroll classification issues
-
-- **Sona Raziabeegum** (sona@krateosky.com) — **KRATEOSKY** (BROKER/ADVISOR)
-  - **June 10 activity:** 5+ IMPORTANT-flagged emails on "BST Data Request: Benefits & Payroll Evaluation"; YELLOW_STAR/STARRED priority; rapid coordination with Jack Elston and Meredith
-  - **Pattern:** High-velocity data request cycles; KrateoSky acting as benefits/payroll solution broker; introducing Deel as alternative
-  - **
+- **Kathi He

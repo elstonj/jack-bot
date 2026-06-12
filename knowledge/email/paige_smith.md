@@ -1,73 +1,66 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,407 (2,358 previous + 49 new from Jun 10, 2026)
-- **Date range:** March 24 – June 10, 2026 (79 days)
+- **Total messages scanned:** 2,472 (2,407 previous + 65 new from Jun 11-12, 2026)
+- **Date range:** March 24 – June 12, 2026 (81 days)
 - **Approximate volume:** ~30 messages per day (sustained consistency)
-- **Pattern update (Jun 10, 2026):** Continued escalation monitoring with active Iran military crisis coverage, sustained aerospace/defense conference engagement, marketing campaign activation, and new **vendor/partner collaboration signals**.
-  - **~90% automation/newsletters/tool notifications** (44 of 49 new messages)
-  - **~10% direct human/business correspondence** (5 of 49 messages — marketing campaign coordination, geoff/Aeropod collaboration, capital factory PR contact)
-  - **CRITICAL SIGNAL: Real-time U.S.-Iran military escalation tracking (Apache helicopter + retaliatory strikes), active KS/BST marketing partnership, Aeropod image collaboration, and emerging digital marketing/SEO vendor engagement.**
+- **Pattern update (Jun 11-12, 2026):** **CRITICAL ESCALATION in deal closure activity** — Krateo Sky × BST partnership moving to signature phase; simultaneous Aeropod website launch coordination (Jun 16); social event activations (Pattern Break Brewing, STATION DC meetup); geopolitical crisis tracking continues.
+  - **~85% automation/newsletters/tool notifications** (55 of 65 new messages)
+  - **~15% direct human/business correspondence** (10 of 65 messages — **KRATEO SKY/KS DEAL CLOSURE, Aeropod website launch, STATION membership engagement, geopolitical intelligence**)
+  - **CRITICAL SIGNAL: "Krateo Sky × BST · Boulder Close" thread (Jun 11) indicates IMMINENT PARTNERSHIP SIGNATURE/DEAL CLOSURE; multi-party coordination (Jack, Kathi Healy/RMI, Sona Raziabeegum/KS, Paige, Meredith)**
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Senders & Collaborators
-- **Jack Elston** (elstonj@blackswifttech.com, media@blackswifttech.com) — **CRITICAL/MEDIA STRATEGY** [ACTIVELY ESCALATING — BST/KS marketing campaign coordination, Capital Factory PR contact routing, STATION DC membership renewal forwarding]
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — **SALES/ACCOUNT MANAGEMENT** [Previously active; not in new batch]
-- **Maciej Stachura** (stachura@blackswifttech.com) — **LEADERSHIP/STRATEGY** [Previously active; not in new batch]
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — **FINANCE/OPERATIONS** [Previously active; not in new batch]
-- **info@blackswifttech.com** — **SHARED DISTRIBUTION** [Newsletter/vendor routing, DARPA opportunity alerts, internal sales/partnership notifications]
-- **sales@blackswifttech.com** — **SHARED DISTRIBUTION** [Partnership opportunity routing (UAVZone), vendor communications]
-- **info@bst.aero** — **SECONDARY DOMAIN** [DARPA opportunity routing, UAS magazine distribution]
+
+- **Jack Elston** (elstonj@blackswifttech.com, media@blackswifttech.com) — **CRITICAL/BUSINESS DEVELOPMENT & MEDIA STRATEGY** [**ACTIVELY ESCALATING** — Deal closure coordination (KS/BST), event planning (Pattern Break Brewing team invite, STATION membership forwarding), strategic meeting routing (Boulderado, St Julien Hotel)]
+  - **New signals (Jun 11-12)**: 
+    - Jun 12, 04:49 UTC: Pattern Break Brewing team event (12-person invite, marked IMPORTANT)
+    - Jun 11, 11:03-11:05 UTC: "Fwd: Boulderado Meeting" + "Fwd: Business Meeting June 2026 - St Julien Hotel & Spa" (Paige, Sona/KS, Meredith, Kathi/RMI included — **DEAL CLOSURE VENUE COORDINATION**)
+    - Jun 11, 11:01-11:05 UTC: "Party Planning Committee" thread with Sona/KS and Kathi/RMI
+
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — **FINANCE/OPERATIONS & PROJECT COORDINATION** [**NEWLY ACTIVE in new batch**]
+  - Jun 11, 12:55 UTC: Geoff coordination on "Aeropod Website - Tuesday 6/16/26" meeting invite (marked IMPORTANT)
+  - Included on deal closure meeting forwards (Boulderado, St Julien Hotel)
+  - **SIGNAL**: Meredith is **finance/ops lead on Aeropod website launch**; likely handling budget/logistics for Jun 16 event
+
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — **SALES/ACCOUNT MANAGEMENT** [Continued presence on Pattern Break Brewing team event]
+
+- **Maciej Stachura** (stachura@blackswifttech.com) — **LEADERSHIP/STRATEGY** [Continued presence on Pattern Break Brewing team event]
+
+- **info@blackswifttech.com** — **SHARED DISTRIBUTION** [Newsletter/vendor routing, media inquiry forwarding (Austin Tech Week, LightWare via media)]
+
+- **sales@blackswifttech.com** — **SHARED DISTRIBUTION** [Amazon Business forwarding]
+
+- **info@bst.aero** — **SECONDARY DOMAIN** [Geo Week promotions, LightWare media inquiry routing]
 
 ### Top External Senders & Vendors
 
-#### **GEOPOLITICAL INTELLIGENCE (ACTIVE ESCALATION CONTINUES)**
+#### **KRATEO SKY × BST PARTNERSHIP (DEAL CLOSURE PHASE)**
 
-1. **The New York Times (Multi-Stream Coverage)** — **5 new messages (Jun 10)**:
-   - **Jun 10, 22:14 UTC**: "Breaking news: U.S. Strikes Iran again after Trump says talks are taking too long" (UNREAD, CATEGORY_UPDATES) — **CRITICAL ESCALATION**: Second U.S. strike wave on Iran; Trump administration timeline pressure signal
-   - **Jun 10, 19:54 UTC**: "Inside the White House freakout over the Epstein files" (UNREAD, CATEGORY_UPDATES) — Domestic political crisis coverage
-   - **Jun 10, 12:00 UTC**: "3 takeaways from Tuesday's primaries" (UNREAD, CATEGORY_UPDATES) — Election primary analysis
-   - **Jun 10, 10:48 UTC**: "The Morning: You asked" (IMPORTANT, CATEGORY_UPDATES) — Daily briefing
-   - **Jun 10, 17:44 UTC**: NYT subscription promo (CATEGORY_PROMOTIONS) — Transactional
+1. **Kathi Healy** (kathi@rmiselect.com) — **REACTION MANAGEMENT / DEAL COUNSEL** [**CRITICAL NEW CONTACT — Jun 11 DEAL CLOSURE THREAD**]
+   - **Jun 11, 14:43 UTC (PDT)**: "Krateo Sky × BST · Boulder Close" — **INITIATES DEAL CLOSURE DISCUSSION**
+   - **Jun 11, 15:07 UTC (PDT)**: Kathi to Paige: "Re: Krateo Sky × BST · Boulder Close" (marked IMPORTANT)
+   - **Jun 11, 15:22 UTC (PDT)**: Kathi to Jack: "Re: Krateo Sky × BST · Boulder Close" (marked IMPORTANT)
+   - **Jun 11, 15:52 UTC (PDT)**: Jack to Kathi: "Re: Krateo Sky × BST · Boulder Close" (marked IMPORTANT)
+   - **Jun 11, 15:58 UTC (PDT)**: **Paige SENT to Kathi: "Re: Krateo Sky × BST · Boulder Close"** — **Paige directly engaged in deal discussion**
+   - **Jun 11, 17:29 UTC (PDT)**: Jack to Kathi: "Re: Krateo Sky × BST · Boulder Close" (marked IMPORTANT) — **DEAL PROGRESSION UPDATE**
+   - **INTELLIGENCE**: Kathi Healy/RMI is **deal counsel/facilitator** for Krateo Sky × BST partnership; "Boulder Close" indicates **Boulder, Colorado signature/closing event**; deal moving rapidly (5 messages in 3 hours)
+   - **PAIGE ROLE**: Direct participant in deal closure discussion chain
 
-   **ANALYSIS**: Paige actively consuming **real-time U.S.-Iran military crisis** (two strikes in 24 hours) + **simultaneous domestic political monitoring** (White House crisis, election primaries). Pattern suggests **executive/strategic communications role requiring dual-track situational awareness**.
+2. **Sona Raziabeegum** (sona@krateosky.com) — **KRATEO SKY BUSINESS DEVELOPMENT** [**NEWLY PROMINENT — Jun 11**]
+   - **Jun 11, 11:03 UTC (PDT)**: Jack forwards "Fwd: Boulderado Meeting" to Sona, Paige, Meredith, Kathi (marked IMPORTANT) — **VENUE COORDINATION FOR DEAL CLOSURE**
+   - **Jun 11, 11:02 UTC (PDT)**: Jack forwards "Fwd: Business Meeting June 2026 - St Julien Hotel & Spa" to Sona, Paige, Meredith, Kathi (marked IMPORTANT) — **SECONDARY VENUE OPTION**
+   - **Jun 11, 11:53 UTC (PDT)**: **Paige SENT to Sona: "Re: Party Planning Committee"** — **Paige directly coordinating with KS**
+   - **Jun 11, 17:52 UTC (UTC)**: Sona to Jack, Kathi, Paige: "Party Planning Committee" (marked IMPORTANT) — **Social event coordination around deal closure**
+   - **INTELLIGENCE**: Sona is **KS business development lead**; Paige is **primary BST point of contact** for KS relationship; "Party Planning Committee" suggests **celebration event being planned post-signature**
 
-2. **Air & Space Forces Magazine (AFA Daily Report)** — **1 new message (Jun 10, 03:45 UTC)**:
-   - Subject: "US Strikes Iran to Retaliate for Downed Apache" (UNREAD, IMPORTANT, CATEGORY_UPDATES) — **CRITICAL**: Apache helicopter incident framing (matches NYT helicopter narrative from Jun 9); marked IMPORTANT by Paige
-   - **SIGNAL**: AFA is Paige's **primary defense/geopolitical intelligence channel** (marked IMPORTANT — indicates trusted source for crisis updates)
+#### **AEROPOD WEBSITE LAUNCH (Jun 16, 2026)**
 
-#### **MARKETING PARTNERSHIPS & CAMPAIGN ACTIVATION**
-
-3. **Jack Elston → Sona Raziabeegum (Krateo Sky)** — **Jun 10, 17:52 UTC (Mountain Time)**:
-   - **TO:** Sona Raziabeegum <sona@krateosky.com>, Paige Smith <paige.smith@blackswifttech.com>
-   - **SUBJECT:** "BST / KS marketing campaign" (UNREAD, IMPORTANT, INBOX)
-   - **CRITICAL NEW SIGNAL**: **Active BST/Krateo Sky (KS) joint marketing campaign** — Paige is **primary participant** in partnership strategy
-   - **KRATEO SKY INTELLIGENCE**: Not previously identified vendor; appears to be **strategic partner** (sky/aerial platform focus)
-   - **TIMELINE**: Campaign activation on Jun 10 (during U.S.-Iran crisis)
-
-4. **Morgan Odell (Capital Factory) ↔ Jack Elston** — **3 new messages (Jun 10, 12:55–18:52 UTC)**:
-   - **Jun 10, 11:45 UTC** (Jack to Morgan + Paige): "Contact for PR at Capital Factory" (IMPORTANT, INBOX) — **Jack routing PR contact request**
-   - **Jun 10, 12:55 UTC** (Jack to Morgan): "Re: Contact for PR at Capital Factory" (IMPORTANT, INBOX) — **Jack's response**
-   - **Jun 10, 18:52 UTC** (Morgan's reply): "Re: Contact for PR at Capital Factory" (IMPORTANT, INBOX) — **Morgan's counter-response**
-   - **CAPITAL FACTORY**: Austin-based startup accelerator/community space; **indicates BST seeking PR/media amplification through startup ecosystem network**
-   - **PAIGE ROLE**: Included on initial inquiry but not on follow-up chain (Jack/Morgan direct conversation)
-
-#### **EXTERNAL CONTENT COLLABORATION**
-
-5. **Geoff (gb.aerokats@gmail.com)** — **4 new messages (Jun 10, 14:42–19:17 UTC)**:
-   - **Jun 10, 14:42 UTC** (Paige SENT): "Re: Folder shared with you: 'Aeropod Pics 6-2-26 for BST'" — **Paige initiating**
-   - **Jun 10, 15:10 UTC** (Paige SENT): "Re: Folder shared with you: 'Aeropod Pics 6-2-26 for BST'" — **Second Paige message**
-   - **Jun 10, 17:24 UTC** (Geoff's reply): "Re: Folder shared with you: 'Aeropod Pics 6-2-26 for BST'" (IMPORTANT, INBOX) — **Marked IMPORTANT**
-   - **Jun 10, 19:17 UTC** (Geoff's follow-up): "Re: Folder shared with you: 'Aeropod Pics 6-2-26 for BST'" (UNREAD, IMPORTANT, INBOX) — **Marked IMPORTANT again**
-   - **AEROPOD SIGNAL**: Likely **external asset/content provider** for BST marketing materials; "Aeropod Pics" suggests **aerial/drone photography or video content**; date stamp "6-2-26" indicates **June 2 photo shoot date**
-   - **RAPID EXCHANGE**: 4+ messages same day suggests **time-sensitive content coordination** (possibly for KS/BST campaign or conference materials)
-   - **CC TO TED MILES**: Geoff also copied Ted Miles (ted59@msn.com) — indicates **multi-party creative/production team**
-
-#### **DEFENSE/AEROSPACE INDUSTRY NEWS & PARTNERSHIPS**
-
-6. **Air & Space Forces Association (AFA)** — **Continued engagement** (not new messages in this batch, but sustained pattern)
-
-7. **UAS Magazine
+3. **Geoff** (gb.aerokats@gmail.com) — **AEROPOD CONTENT/PRODUCTION LEAD** [**ESCALATING ACTIVITY**]
+   - **Jun 11, 10:45 UTC (PDT)**: Geoff to Paige + Ted Miles: "Re: Folder shared with you: 'Aeropod Pics 6-2-26 for BST'" (marked IMPORTANT)
+   - **Jun 11, 12:16 UTC (PDT)**: **Paige SENT to Geoff: "Re: Folder shared with you..."** — **Paige actively managing content**
+   - **Jun 11, 14:21 UTC (PDT)**: Geoff to Paige + geoff's email (duplicate): "Re: Folder shared..." (marked IMPORTANT)
+   - **Jun 11, 14:43 UTC (UTC)**: Geoff to Paige, geodronez@gmail.com, Meredith,

@@ -1,7 +1,7 @@
 # #general
 
 ## Overview
-Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - June 2026). Key participants include Jack Elston (leadership), Dan Prendergast (business development/operations), Maciej, Joshua Fromm, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, Spencer Hoehl (new intern as of June 5, 2026), and numerous team members.
+Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - June 2026). Key participants include Jack Elston (leadership), Dan Prendergast (business development/operations), Maciej, Joshua Fromm, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, Spencer Hoehl (intern as of June 5, 2026), and numerous team members.
 
 ## Key Decisions
 
@@ -28,6 +28,8 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Dan Prendergast WFH Request** (June 9, 2026): Dan requested work-from-home on Thursday (June 12); Jack Elston humorously demanded a note from Merritt (family member) to excuse absence from in-person work.
 - **Healthcare Provider Review** (June 10, 2026): Meredith Needham notified team of incoming email from Chad Atwood requesting feedback on current healthcare provider to determine if BST should continue with current provider. Team feedback requested.
 - **Organizational Growth Planning & Career Development Conversations** (June 10, 2026): Beck Cotter announced one-on-one conversations with team members regarding 4-year organizational roadmap and career positioning. Emphasized need for employees to think about desired future roles and work, not just current positions. Aim is to build career pathways that maximize internal talent while supporting BST's growth goals and employee job satisfaction.
+- **Shop Area Cleanliness Reminder** (June 11, 2026): Nate requested all shop area users clean up after themselves due to increased activity; offered assistance if needed.
+- **Meredith Needham Out-of-Office** (June 11, 2026): Meredith Needham out Friday (June 14) and Monday (June 17). Jack Elston committed to handling trash/recycling removal on Thursday (June 12).
 
 ### Funding & Awards
 - **NASA Phase I Award** (May 26, 2021): Contract awarded for S2 all-weather capable platform development with solar integration and VTOL S2 for remote autonomous landing
@@ -38,8 +40,4 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **BizWest Mercury 100** (Apr 26, 2021): Named one of 2021 fastest-growing companies in Boulder Valley
 - **Albatross Competition** (Mar 3, 2025): BST not selected; Mississippi State team selected
 - **Seed-Round Investment Secured** (Dec 2024 - May 2026): Jack Elston successfully raised seed-round funding; investor meeting conducted in Paris (Dec 16-22, 2024); industrial plan now in draft form detailing use of investment capital
-- **T-Mobile Direct-to-Cell S0 Integration Project** (May 14, 2026): High-priority opportunity being pushed to T-Mobile leadership; potential funding for 20 S0 aircraft purchases + R&D funding to integrate T-Mobile's high bandwidth direct-to-cell system with S0 for live HD video transmission from storms in 2027 season. Jack Elston coordinated NOAA outreach to T-Mobile to propose using S0 as flagship demonstration of T-Mobile's new direct-to-cell capability.
-
-### Technical Decisions
-- **GitLab IDE Approval** (March 2024): Approved for code storage/editing
-- **Wiring Standards Update** (Feb 10, 2021): Discontinued
+- **T-Mobile Direct-to-Cell S0 Integration Project** (May 14, 2026): High-priority opportunity being pushed to T-Mobile leadership; potential funding for 20 S0 aircraft purchases + R&D funding to integrate T-Mobile's high bandwidth direct-

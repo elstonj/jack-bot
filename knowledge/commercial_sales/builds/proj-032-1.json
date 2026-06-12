@@ -1,0 +1,40 @@
+{
+  "asana_gid": "proj-032-1",
+  "asana_task_name": "University of Notre Dame (Primary contact: David Richter, david.R.Richter.26@nd.edu, 574-631-4839) [032-1]",
+  "customer": "University of Notre Dame",
+  "customer_contact": "David Richter",
+  "customer_email": "david.R.Richter.26@nd.edu",
+  "receive_by": "2025-10-13",
+  "ship_to": "",
+  "items": [
+    {
+      "description": "Air-deployed S0 UAS Flight System",
+      "quantity": 2
+    }
+  ],
+  "payment_state": "paid",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": "2025-02-07",
+  "invoice_amount": 38000.0,
+  "invoice_number": "1643",
+  "paid_date": "2025-02-07",
+  "parts": [],
+  "tracking_number": "",
+  "carrier": "",
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "QBO Invoice 1643 (paid 2025-02-07, $38,000) confirms this Notre Dame S0 order. Contract spans 02/07/2025\u201310/13/2025 delivery window. PO P2154937 issued 02/07/2025. David Richter verbally ordered 4 S0s based on estimate 1373 with 4-month timeline from Feb 19, 2026 order date (per project registry); however Asana/QBO show only 2 units invoiced at $38k. Clarify full scope vs. partial invoice.",
+  "missing_fields": [
+    "ship_to",
+    "build_state",
+    "parts"
+  ],
+  "last_evidence_date": "2025-02-07",
+  "last_contact_date": null
+}

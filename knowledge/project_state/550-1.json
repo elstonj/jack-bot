@@ -30,30 +30,30 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 45586.25,
+        "amount": 46607.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-10"
+        "last_updated": "2026-06-12"
       },
       "purchases": {
         "amount": 185.15,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-06-10"
+        "last_updated": "2026-06-12"
       },
       "other_qbo": {
-        "amount": 0.0,
+        "amount": 145.73,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-06-10"
+        "last_updated": "2026-06-12"
       },
-      "total": 45771.4,
+      "total": 46938.38,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 196768.6,
+    "remaining": 195601.62,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-10T09:03:39Z"
+    "last_reconciled": "2026-06-12T09:04:46Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -93,17 +93,11 @@
   "overrides": [
     {
       "source": "FEEDBACK",
-      "author": "Jack",
-      "date": "2026-05-11",
-      "text": "From Jack (ts=1778249224.812399): <@U0AQE94HJUT> correction: the navy sttr has priority, the SBIR is mostly on schedule"
-    },
-    {
-      "source": "FEEDBACK",
       "author": "Maciej",
       "date": "2026-06-08",
       "text": "From Maciej: <@U0AQE94HJUT> I don't see a Navy meeting at 9:30 this morning. Also, for mag integration it's Alex and Sam on the critical engineering tasks"
     }
   ],
-  "last_full_rebuild": "2026-06-10T09:03:39Z",
+  "last_full_rebuild": "2026-06-12T09:04:46Z",
   "last_incremental_update": null
 }

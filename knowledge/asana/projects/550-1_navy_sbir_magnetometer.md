@@ -21,24 +21,18 @@
   - **Project kicked off:** April 21–22, 2026
   - **Compressed 6.5-month timeline:** design → build → ground test → hand-launched flights → Camp Pendleton demo (Sep 14–25) + three Navy reports
 
-- **Status:** ⚠️ **MOSTLY ON SCHEDULE** per Jack Elston (May 8 & 11, 2026); **Navy STTR takes priority**
-  - **17 open tasks in Asana** — majority are technical and administrative deliverables with due dates from May through September 2026
-  - **Multiple tasks OVERDUE** (as of knowledge file update; verify actual completion with team):
-    - Design of onboard logging of both mag sensors (Jack Elston, due May 8, 2026)
-    - Finalize Python plotting and analysis tools (Maciej Stachura, due May 13, 2026)
-    - Build up ground testing S0-MAD (Alex Lomis, due May 19, 2026)
-    - Conduct ground testing with different throttle settings (Alex Lomis, due May 22, 2026)
-    - Design of S0-AD ground launcher (Alex Lomis, due Jun 5, 2026)
-    - Finalize permissions for Camp Pendleton Demo (Beck Cotter, due Jun 1, 2026)
-    - Build up hand-launched S0-MAD (Alex Lomis, due Jun 12, 2026)
-  - **Last status update:** Mar 16, 2026 (green)
-  - **⚠️ Recommendation:** Contact Alex Lomis, Jack Elston, and Maciej Stachura to confirm whether overdue tasks are complete but unclosed in Asana, or if schedule slippage has occurred. Verify actual project status given multiple overdue deliverables.
+- **Status:** ⚠️ **CRITICAL REVIEW NEEDED** — Asana shows only **1 open task remaining** ("Build up hand-launched S0-MAD", Alex Lomis, due Jun 12, 2026), but the knowledge file documents **16 additional tasks** that were due May–August 2026, many significantly overdue. This represents a major data mismatch.
+  - **Last status update in Asana:** Mar 16, 2026 (green)
+  - **⚠️ ACTION REQUIRED:** Contact Alex Lomis and Jack Elston immediately to clarify:
+    - Have the 16 overdue/in-progress technical and administrative tasks been completed but not closed in Asana?
+    - Is the project actually on schedule for the Sep 28, 2026 final report deadline?
+    - What is the actual current status of Camp Pendleton demo preparation (scheduled Sep 14–25, 2026)?
+  - **Priority:** High (Navy government contract)
 
 - **Team Members:**
-  - **Alex Lomis** (PM/Owner, technical lead for builds & flights) — **Owns 8 tasks; critical path for Camp Pendleton demo**
-  - **Jack Elston** (technical lead, onboard logging & reporting) — **Status reporter; 3 tasks including CLIN 0006 & 0007 reports**
-  - **Maciej Stachura** (Python tools, sensor configuration) — **Critical engineering task for mag integration (per Maciej, Jun 8, 2026)**
-  - **Sam** (Critical engineering tasks for mag integration — per Maciej, Jun 8, 2026)
+  - **Alex Lomis** (PM/Owner, technical lead for builds & flights) — **Critical path; only assignee on remaining open task**
+  - **Jack Elston** (technical lead, onboard logging & reporting)
+  - **Maciej Stachura** (Python tools, sensor configuration)
   - **Beck Cotter** (Camp Pendleton coordination & permissions)
   - **Meredith O'hara Needham** (administrative, invoicing, FWA certification)
   - **Dan Prendergast** (support)
@@ -52,32 +46,51 @@
 | 0006 | Progress Report + Invoice | Jack Elston / Meredith O'hara Needham | $35,000 | Jun 29, 2026 | **OPEN** |
 | 0007 | Final Report + Invoice | Jack Elston / Meredith O'hara Needham | $14,459 | Sep 28, 2026 | **OPEN** |
 
-**Technical Milestones (In Sequence):**
+**Technical Milestones (Schedule per Knowledge File):**
 | Milestone | Owner | Due Date | Status |
 |---|---|---|---|
 | Design of ground testing S0-MAD | — | Apr 27, 2026 | ✓ Completed |
 | Preliminary design mods for reusable S0-MAD | — | May 1, 2026 | ✓ Completed |
 | Order parts for S0-MAD reusable | — | May 5, 2026 | ✓ Completed |
-| Design of onboard logging of both mag sensors | Jack Elston | May 8, 2026 | **OVERDUE** |
-| Finalize Python plotting and analysis tools for mag data | Maciej Stachura | May 13, 2026 | **OVERDUE** |
-| Build up ground testing S0-MAD (flight-ready) | Alex Lomis | May 19, 2026 | **OVERDUE** |
-| Conduct ground testing with different throttle settings | Alex Lomis | May 22, 2026 | **OVERDUE** |
-| Design of S0-AD ground launcher complete | Alex Lomis | Jun 5, 2026 | **OVERDUE** |
-| Finalize permissions, frequencies for Camp Pendleton Demo | Beck Cotter | Jun 1, 2026 | **OVERDUE** |
-| Build up hand-launched S0-MAD | Alex Lomis | Jun 12, 2026 | **OVERDUE** |
-| Build up and ground test of S0-AD Launcher | Alex Lomis | Jun 15, 2026 | **OPEN** |
-| Local test flights with hand-launched S0-MAD (both sensors) | Alex Lomis | Jul 1, 2026 | **OPEN** |
-| Finalize Camp Pendleton flight plans and Aircraft | Alex Lomis | Aug 10, 2026 | **OPEN** |
-| **Camp Pendleton demo flights** | Alex Lomis | Sep 14–25, 2026 (due Aug 14 in Asana) | **OPEN** |
+| Design of onboard logging of both mag sensors | Jack Elston | May 8, 2026 | **OVERDUE** (per knowledge file) |
+| Finalize Python plotting and analysis tools for mag data | Maciej Stachura | May 13, 2026 | **OVERDUE** (per knowledge file) |
+| Build up ground testing S0-MAD (flight-ready) | Alex Lomis | May 19, 2026 | **OVERDUE** (per knowledge file) |
+| Conduct ground testing with different throttle settings | Alex Lomis | May 22, 2026 | **OVERDUE** (per knowledge file) |
+| Design of S0-AD ground launcher complete | Alex Lomis | Jun 5, 2026 | **OVERDUE** (per knowledge file) |
+| Finalize permissions, frequencies for Camp Pendleton Demo | Beck Cotter | Jun 1, 2026 | **OVERDUE** (per knowledge file) |
+| Build up hand-launched S0-MAD | Alex Lomis | Jun 12, 2026 | **OPEN** (only task in current Asana) |
+| Build up and ground test of S0-AD Launcher | Alex Lomis | Jun 15, 2026 | — |
+| Local test flights with hand-launched S0-MAD (both sensors) | Alex Lomis | Jul 1, 2026 | — |
+| Finalize Camp Pendleton flight plans and Aircraft | Alex Lomis | Aug 10, 2026 | — |
+| **Camp Pendleton demo flights** | Alex Lomis | Sep 14–25, 2026 | — |
 
 ## Task Summary
-- **Total Tasks (Asana):** 17 open, 0 completed
-- **Tasks by Assignee:**
-  - **Alex Lomis:** 8 tasks (majority technical builds & flights, Camp Pendleton demo execution) — **CRITICAL PATH**
-  - **Jack Elston:** 3 tasks (onboard logging design, CLIN 0006 Progress Report, CLIN 0007 Final Report)
-  - **Maciej Stachura:** 1 task (Python tools finalization)
-  - **Beck Cotter:** 1 task (Camp Pendleton permissions & frequencies)
-  - **Meredith O'hara Needham:** 2 tasks (invoices for CLINs 0006 & 0007)
-  - **Unassigned:** 2 tasks (TPOC contact tasks for Angel Ruiz-Reyes and Anthony Brescia)
+- **Asana Data (Current Raw Import):** 1 open task, 0 completed
+  - **Build up hand-launched S0-MAD** (Alex Lomis, due Jun 12, 2026)
 
-- **Critical Engineering Path:** Alex Lomis (builds & flights), Maciej Stachura, and **Sam** (
+- **Knowledge File Data (Historical):** 17 open tasks documented, with multiple overdue deliverables from May–August 2026
+
+- **Data Quality Issue:** The single task in the current Asana export does not align with the comprehensive task list in the existing knowledge file. **Asana data appears stale or incomplete.** Either:
+  - Tasks were completed and closed between the knowledge file creation and this export, or
+  - The Asana project is not being actively maintained with task closures
+
+- **Critical Path (Per Knowledge File):**
+  - **Alex Lomis:** 8 tasks (builds, ground testing, hand-launched flights, Camp Pendleton demo execution)
+  - **Jack Elston:** 3 tasks (logging design, Progress Report CLIN 0006, Final Report CLIN 0007)
+  - **Maciej Stachura:** Python tools finalization
+  - **Beck Cotter:** Camp Pendleton permissions & frequencies
+
+## Recent Activity
+- **Last Asana Status Update:** Mar 16, 2026 (green status)
+- **Project Note:** "Option Period Selected - Begins on April 14, 2026"
+- **CLIN 0005 Milestone:** Completed and submitted Apr 14, 2026
+
+**⚠️ No activity logged in Asana since March 16, 2026, despite:**
+- Project kick-off scheduled Apr 21–22, 2026
+- Ongoing technical work (per knowledge file) through at least June 2026
+- Upcoming CLIN 0006 Progress Report due Jun 29, 2026
+- Camp Pendleton demo scheduled Sep 14–25, 2026
+
+## Notes & Context
+
+**Data

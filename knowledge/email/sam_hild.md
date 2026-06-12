@@ -1,63 +1,62 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 599 emails across twenty-six data pulls
-- **Date range:** 16 May – 11 June 2026
-- **Volume pattern:** Heavily transactional (98%+ routed via purchasing alias). Approximately 15–18 direct work emails visible. **ALL messages remain UNREAD as of 11 June.**
-- **Latest data span:** 24 emails covering 10–11 June 2026 (continued procurement acceleration, multi-carrier delivery pipeline, critical external communication, security event documentation, and direct management engagement)
+- **Total messages scanned:** 629 emails across twenty-seven data pulls
+- **Date range:** 16 May – 12 June 2026
+- **Volume pattern:** Heavily transactional (98%+ routed via purchasing alias). Approximately 18–22 direct work emails visible. **ALL messages remain UNREAD as of 12 June.**
+- **Latest data span:** 30 messages covering 11–12 June 2026 (continued procurement acceleration, team event coordination, critical external communication, and direct management engagement)
 
 ## Key Correspondents
 
 ### Senders (by frequency)
 
-**Purchasing team alias route** (453+ emails total, +23 new in latest pull)
+**Purchasing team alias route** (476+ emails total, +23 new in latest pull)
 
 #### Electronics & Components Suppliers
-- **Amazon.com** (30 total, +4 new) — **"Shipped: Weller Genuine 5 Piece Tip..." (11 Jun 06:59)**, **"Ordered: QIANRENON 5Gbps USB C..." (10 Jun 22:05)**, **"Delivered: uni USB C to Ethernet..." (10 Jun 18:37)**, **"Ordered: Weller Genuine 5 Piece Tip..." (10 Jun 15:59)** — **PATTERN: Now includes soldering/electronics repair equipment (Weller tips) alongside networking components**
-- **McMaster-Carr** (18 total) — No new activity in this pull
-- **ELEGOO US** (6 total, +1 new) — **"Final Hours: Flash Sale Up to 50% Off🔥 (10 Jun 17:47)** — sustained promotional engagement
-- **18650BatteryStore.com** (1 total, +1 new) — **"Your order has been shipped!" (10 Jun 13:03)** — lithium-ion battery sourcing active
-- **Battery Junction** (7 total, +1 new) — **"🎁 15% OFF! Gifts Dad Will Use Every Day!" (10 Jun 13:03)** — sustained promotional engagement
-- **Harbor Freight** (14 total, +1 new) — **"Build the Best Father's Day With Our Father's Day Gift Guide" (10 Jun 18:00)** — sustained high-frequency promotional engagement
-- **Speedway Motors** (0 previously via purchasing, +1 new) — **"How Do You Convert Drum Brakes to Disc Brakes?" (10 Jun 17:47)** — **NEW VENDOR: Automotive/mechanical systems content (drum-to-disc brake conversion)**
-- **ARK Electronics, MKS Servos USA, Pasternack, ServoCity®, DigiKey, Mouser, PCBWay, IdeasPCB, Baofeng** — No new activity
+- **Amazon.com** (32 total, +2 new) — **"Shipped: QIANRENON 5Gbps USB C... and 1 more item" (12 Jun 04:02)**, **"Ordered: 5 Quick Release Plate, Camera..." (11 Jun 20:21)** — sustained networking and camera/video equipment sourcing
+- **McMaster-Carr** (20 total, +2 new) — **"Certificates and Tracking for Your June 11th Order" (11 Jun 17:44)**, **"Confirmation for Your June 11th Order" (11 Jun 16:27)** — **PATTERN: Dual confirmations same day suggest high-value or complex order**
+- **ELEGOO US** (6 total) — No new activity in this pull
+- **18650BatteryStore.com** (1 total) — No new activity
+- **Battery Junction** (7 total) — No new activity
+- **Harbor Freight** (15 total, +2 new) — **"Save Again at Our EXTENDED PARKING LOT SALE!" (12 Jun 04:07)**, **"The Best Gift for Dad!" (11 Jun 12:30)** — sustained high-frequency promotional engagement
+- **Speedway Motors** (1 total) — No new activity in this pull
+- **eBay via Purchasing** (0 previously noted, +1 new) — **"futaba 14sg, Receivers & Transmitters: 1 NEW!" (11 Jun 06:09)** — **NEW: Radio control transmitter/receiver components (Futaba brand, professional-grade RC equipment)**
+- **LightWare** (0 previously noted, +1 new) — **"Why WISPR trusts LightWare in demanding UAV environments" (11 Jun 07:00)** — **NEW: UAV sensor/payload integration content**
+- **DigiKey, Mouser, PCBWay, IdeasPCB, Baofeng, ARK Electronics, MKS Servos USA, Pasternack, ServoCity®** — No new activity changes
 
 #### Manufacturing & Fabrication Services
-- **JawsTec Manufacturing LLC** (26 total, +2 new) — **"New payment request from JawstTec Manufacturing LLC - invoice 69219" (10 Jun 16:04)**, **"We have received Order #69219" (10 Jun 16:00)** — **ESCALATION: Invoice payment workflow continuing (69219 follows previous 69119); orders being received and processed**
-- **SendCutSend** (14 total) — No new activity in this pull
-- **Craftcloud** (2 total) — No new activity
-- **Protocase, eMachineShop, Mini-box.com, MM Solutions, Foster Hill** — No new activity
+- **PCBWay** (0 previously via direct sender, +1 new) — **"Pcb order W700226ASS99 and smt order T-S100W700226A" (11 Jun 19:04)** sent to purchasing@blackswifttech.com — **CRITICAL ORDER: PCB fabrication order (W700226ASS99) with SMT assembly (T-S100W700226A) — forwarded to Sam by Meredith Needham**
+- **JawsTec Manufacturing LLC** (26 total) — No new activity in this pull
+- **SendCutSend** (14 total) — No new activity
+- **Craftcloud** (3 total, +1 new) — **"We've Redesigned the Craftcloud Website — Explore What's New" (11 Jun 14:01)** — continued platform engagement
+- **Daniels Manufacturing Corporation** (0 previously noted, +1 new) — **"Heavy-Duty Crimpers Now Qualified to AS5259" (11 Jun 16:37)** sent to Joshua Fromm via purchasing — **NEW: Aerospace-grade (AS5259) crimping tool qualification (routed to manufacturing contact)**
 
 #### Aerospace/Aviation
-- **HeliDirect** (7 total, +1 new) — **"📣 New Pulse LITE Series & TORQ Servo Back in stock" (10 Jun 20:01)** sent to Meredith Needham — continued micro-helicopter/drone component sourcing
-- **uAvionix, SkyGeek, CAPS Aviation, Phase 1 Aviation, Daniels Manufacturing, LightWare** — No new activity
-- **Gateworks Corporation** (0 previously, +1 new direct) — **"Ezurio Acquires Gateworks Corporation, Expanding its Embedded Compute Portfolio into Mission-Critical Markets" (10 Jun 14:06)** sent to sam.hild@blackswifttech.com — **NEW DIRECT CONTACT: Embedded compute systems and mission-critical hardware acquisition news (Ezurio/Gateworks)**
+- **HeliDirect** (8 total, +1 new) — **"Helicopter Newsletter | Stratos 200 In Stock | Pulse Lite | Nitron 50" (11 Jun 20:00)** sent to Meredith Needham — continued micro-helicopter/drone component sourcing (new models: Stratos 200, Nitron 50)
+- **LightWare** (1 total) — UAV sensor content (see above)
+- **X-Plane** (0 previously noted, +1 new) — **"Get Ready For The X-Plane 12 Presentation @ FSExpoFriday!" (11 Jun 12:08)** sent to purchasing@blackswifttech.com — **NEW: Flight simulation software (X-Plane 12) conference promotion**
+- **Baofeng** (1 total, +1 new) — **"Field Day Prep: 15% OFF Sitewide Starts Now!" (11 Jun 12:30)** sent to Meredith Needham — amateur radio/field communications equipment (15% Field Day promotion)
+- **uAvionix, SkyGeek, CAPS Aviation, Phase 1 Aviation, Gateworks** — No new activity
 
 #### Logistics & Shipping
-- **FedEx** (31 total, +3 new) — **"Your shipment was delivered 872802932852" (10 Jun 14:34)**, **"Your shipment is out for delivery today 872802932852" (10 Jun 11:32)**, **"We've updated your estimated delivery 872802932852" (10 Jun 10:20)** — **PATTERN: Same tracking ID 872802932852 receiving multiple status updates across 3 days (10 Jun morning → afternoon → delivery); sustained high-volume operations**
-- **UPS** (26 total, +1 new) — **"Your Package Arrives Tomorrow" (10 Jun 16:25)** — sustained active pickup/delivery operations
-- **USPS, DHL, Pirate Ship, Worldwide Express, ArcBest** — No new activity in this pull
+- **FedEx** (31 total) — No new activity in this pull
+- **UPS** (27 total, +1 new) — **"Your Package Arrives Tomorrow" (11 Jun 16:15)** — sustained active operations
+- **USPS Informed Delivery** (0 previously noted, +1 new) — **"Your Daily Digest for Thu, 6/11 is ready to view" (11 Jun 13:51)** sent to purchasing — **NEW: Daily tracking digest subscribed**
+- **Worldwide Express** (1 total, +1 new) — **"Last Chance! Vote Worldwide Express for Top 3PL Excellence Awards" (11 Jun 09:03)** — 3PL engagement
+- **DHL, Pirate Ship, ArcBest** — No new activity
 
 #### Business Services & Systems
-- **SAP** (0 previously via purchasing, +1 new) — **"From profile to pipeline: B2B growth starts here" (10 Jun 16:22)** — **NEW: B2B sales/CRM platform promotional content routed through purchasing alias**
-- **Veeam Team, Dell Technologies, PayPal** — No new activity
-- **Steam** (2 total) — No new activity in this pull
-- **Toggl Track** (0 previously, +1 new) — **"(no subject)" (10 Jun 23:11)** sent to sam.hild@blackswifttech.com — **NEW: Time tracking software notification (no subject line)**
+- **Toggl Track** (1 total, +1 new) — **"(no subject)" (11 Jun 22:12)** sent to sam.hild@blackswifttech.com — **DIRECT NOTIFICATION: Time tracking software alert (no subject) — suggests automated project tracking in use**
+- **Dell Technologies** (1 total, +1 new) — **"Smartest time to buy. Save up to $700." (11 Jun 10:50)** — promotional engagement
+- **Strong Hold** (0 previously noted, +1 new) — **"Don't Miss Your Chance to Win a American Flag Tool Cart🇺🇸" (11 Jun 18:01)** — tool storage/organization vendor
+- **SAP, Veeam Team, PayPal, Steam** — No new activity
 
-#### Other Services & Generic
-- **Budget** (3 total) — No new activity
-- **Eco-Cycle, Comcast Business, Black Swift Technologies LLC, PCI Compliance Reminder, UnitedHealthcare** — No new activity
+#### Consumables & Services (NEW CATEGORY)
+- **Spindrift** (0 previously noted, +1 new) — **"Your subscription order from Spindrift Market will be created soon" (12 Jun 02:53)** sent to purchasing — **NEW: Beverage subscription service (sparkling water)**
+- **Driftaway Coffee** (0 previously noted, +2 new) — **"You just earned points at Driftaway!" (11 Jun 23:02)**, **"Order #DR28102COF confirmed" (11 Jun 23:01)** — **NEW: Coffee subscription service (rewards points, recurring orders)**
+- **Budget** (4 total, +1 new) — **"Hey Joshua, need a rental car? Double Deal" (11 Jun 16:08)** — car rental promotional (misrouted to Joshua Fromm in subject)
+- **UnitedHealthcare** (1 total, +1 new) — **"Part of your benefits - Meal plans that meet your needs" (11 Jun 08:06)** sent to SAM.HILD@blackswifttech.com — employee benefits/wellness engagement
 
 ### Direct Human Senders (non-purchasing alias)
 
-- **Beck Cotter** <beck.cotter@blackswifttech.com> (NEW) — **"Invitation: Sam / Beck @ Thu Jun 11, 2026 10am - 10:15am (MDT) (Sam Hild)" (10 Jun 20:56)** — **FLAGGED IMPORTANT, INBOX** — **KEY INTERNAL RELATIONSHIP: 15-minute scheduled meeting with Beck Cotter (internal management or close collaborator), scheduled for 11 Jun 10am MDT**
-- **Kylie Bliss** <kbliss@hubspot.com> (NEW) — **"Your Google traffic is bleeding out" (10 Jun 19:12)** sent to sam.hild@bst.aero — **EXTERNAL CONTACT: HubSpot marketing specialist addressing urgent traffic/SEO issue**
-- **Gemini (Google Notes)** <gemini-notes@google.com> (NEW) — **"Notes: 'BST Internal Update Meeting' Jun 10, 2026" (10 Jun 19:35)** sent to sam.hild@blackswifttech.com — **SYSTEM: Auto-generated note capture from internal meeting (10 Jun)**
-- **Tawny at Gateworks** <tharris@e.gateworks.com> (NEW) — **"Ezurio Acquires Gateworks Corporation, Expanding its Embedded Compute Portfolio into Mission-Critical Markets" (10 Jun 14:06)** sent to sam.hild@blackswifttech.com — **EXTERNAL CONTACT: Industry acquisition announcement (Ezurio/Gateworks merger in embedded compute)**
-
-## Topic Patterns
-
-### Procurement Categories (by supplier type)
-1. **Networking & USB Infrastructure** — Continued high-volume sourcing of USB-C adapters, Ethernet converters (uni brand dominant)
-2. **Soldering & Electronics Repair** — **NEW: Weller soldering tip sets (5-piece kits)** — shift toward maintenance/repair capabilities
-3. **Lithium-ion Battery Systems** — Multiple sourcing channels (18650B
+- **Jack Elston** <elstonj@blackswifttech.com> (NEW, +2 calendar inv
