@@ -14,7 +14,7 @@ Key participants include:
 - **Nate** (Remote ID/registration support)
 - **Alex Lomis** (Team member, availability flexible)
 
-The channel covers activities from 2020 through May 2026, with high activity during deployment periods and report deadlines.
+The channel covers activities from 2020 through June 2026, with high activity during deployment periods and report deadlines.
 
 ## Key Decisions
 
@@ -111,4 +111,6 @@ The channel covers activities from 2020 through May 2026, with high activity dur
   - Multiple flights at Sod Farm location
   - High-altitude hover tests at multiple elevation points (Boulder at 5,600 ft, Caribou TH at ~10,000 ft, intermediate point)
   - Analysis of performance parameters for extrapolation to higher altitudes
-  - Flight data collection (corrupt
+  - Flight data collection
+
+**

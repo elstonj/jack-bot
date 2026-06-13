@@ -25,17 +25,15 @@
 - RDS user database with email-based authentication
 
 ## Task Summary
-- Total tasks: 0 open, 18+ completed (100% completion rate)
-- **Ben Busby**: Primary contributor — 14+ tasks completed including core backend refactoring, infrastructure, wind estimation integration, database setup, and deployment automation
-- **Maciej Stachura**: Wind estimation implementation (1 task)
-- **Jack Elston**: Helper functions library creation (1 task)
-- All tasks completed successfully; final task (Create users db on RDS) completed 2025-10-21
+- Total tasks: 0 open, 1 visible completed task (100% completion rate)
+- **Ben Busby**: Primary contributor — final task (Create users db on RDS) completed 2025-10-21
+- All visible tasks completed successfully; project archive reflects completion of 18+ total tasks across full development lifecycle
 
 ## Recent Activity
 Final development phase completed October 21, 2025:
 - Email-based authentication system implemented (transitioned from usernames to emails)
 - Password recovery functionality added
-- RDS user database established
+- RDS user database established (final task completed)
 - Python 3 refactoring finished
 - Automated Jenkins deployment pipeline configured for develop and master branches
 - Wind estimation integrated into full processing pipeline with NetCDF inclusion

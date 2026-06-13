@@ -2,48 +2,42 @@
 
 ## By Product/System
 
-### S0 UAS
-- **S0 UAS System Integration v1** | NOAA, 53rd Weather Reconnaissance Squadron | October 20, 2025 | Compact air-deployable uncrewed aircraft system integration with WP-3D Orion and proposed WC-130J platforms (s0_uas_system_integration_v1.md)
-- **S0 UAS System Integration v2** | NOAA, USAF/AFRC 53rd WRS, USSOCOM, UK Royal Navy/MoD | Technical integration reference and engineering specification for host-aircraft integration across multiple platforms and international partners (s0_uas_system_integration_v2.md)
+### S0 VTOL Systems
+- **Black Swift Response Worksheet – Revised Budget Estimate** | NOAA | 2026-06-12 | Cost estimation for 14-day hurricane response deployment scenario (black_swift_response_worksheet_revised_budget_estimate.md)
 
-### SwiftCore Avionics
-- **S0 UAS System Integration v1** | NOAA | October 20, 2025 | Referenced in S0 UAS integration with NOAA WP-3D Orion (s0_uas_system_integration_v1.md)
+### G3 (Integration Partner)
+- **Black Swift Response Worksheet – Revised Budget Estimate** | NOAA | 2026-06-12 | Cost estimation for 14-day hurricane response deployment scenario (black_swift_response_worksheet_revised_budget_estimate.md)
+
+### Multi-Product / Not Product-Specific
+- **Generic Engineering Level** | Internal BST | N/A | Internal reference guide for engineering labor categories and DoD-compliant qualifications (generic_engineering_level.md)
 
 ---
 
 ## By Client/Agency
 
-### NOAA (National Oceanic and Atmospheric Administration)
-- **S0 UAS System Integration v1** | October 20, 2025 | Operational baseline for WP-3D Orion (N42RF, N43RF) integration (s0_uas_system_integration_v1.md)
-- **S0 UAS System Integration v2** | Technical integration reference for operational deployment on WP-3D Orion platforms (s0_uas_system_integration_v2.md)
+### NOAA
+- **Black Swift Response Worksheet – Revised Budget Estimate** | 2026-06-12 | Cost estimation for 14-day hurricane response deployment scenario; S0 VTOL systems (black_swift_response_worksheet_revised_budget_estimate.md)
 
-### USAF/AFRC (U.S. Air Force/Air Force Reserve Command)
-- **S0 UAS System Integration v2** | 53rd Weather Reconnaissance Squadron | Proposed integration under AFX255-DPCSO1 Direct-to-Phase program (s0_uas_system_integration_v2.md)
-
-### USSOCOM (U.S. Special Operations Command)
-- **S0 UAS System Integration v2** | CRADA (Cooperative Research and Development Agreement) collaboration (s0_uas_system_integration_v2.md)
-
-### UK Royal Navy / UK MoD (Ministry of Defence)
-- **S0 UAS System Integration v2** | Proposed international integration partnership (s0_uas_system_integration_v2.md)
+### Internal BST
+- **Generic Engineering Level** | N/A | Internal reference guide for engineering labor categories and DoD-compliant qualifications (generic_engineering_level.md)
 
 ---
 
 ## By Application Area
 
-### Weather Reconnaissance & Atmospheric Operations
-- **S0 UAS System Integration v1** | NOAA, 53rd Weather Reconnaissance Squadron | October 20, 2025 | Air-deployable UAS for weather operations from WP-3D Orion and proposed WC-130J (s0_uas_system_integration_v1.md)
-- **S0 UAS System Integration v2** | NOAA, USAF, USSOCOM, UK MoD | Multi-platform technical integration for operational weather reconnaissance (s0_uas_system_integration_v2.md)
+### Hurricane Response / Storm Operations
+- **Black Swift Response Worksheet – Revised Budget Estimate** | NOAA | 2026-06-12 | 14-day storm scenario response deployment and cost estimation (black_swift_response_worksheet_revised_budget_estimate.md)
 
 ---
 
 ## By Document Type
 
-### Proposals / System Integration Documents
-- **S0 UAS System Integration v1** | NOAA | October 20, 2025 | NOAA WP-3D Orion Integration; Proposed WC-130J Integration (s0_uas_system_integration_v1.md)
+### Budget Proposal / Cost Estimation
+- **Black Swift Response Worksheet – Revised Budget Estimate** | NOAA | 2026-06-12 | Structured budget worksheet for hurricane response proposal (black_swift_response_worksheet_revised_budget_estimate.md)
 
-### Technical Integration References / Engineering Specifications
-- **S0 UAS System Integration v2** | Multiple agencies | Host-aircraft integration engineering specification with multi-platform and international scope (s0_uas_system_integration_v2.md)
+### Internal Guidance / Reference
+- **Generic Engineering Level** | Internal BST | N/A | Labor category definitions and minimum qualifications for DoD proposals (generic_engineering_level.md)
 
 ---
 
-**Note:** This catalog currently contains 2 document entries focused on S0 UAS system integration. Additional BST products (S2, S3, MultiScat, AeroPod, etc.) and application areas (arctic ops, volcano monitoring, hurricane, methane detection, precision ag, etc.) are not yet represented in the provided document set. The catalog will expand as additional documents are provided.
+**Total Documents Cataloged:** 2

@@ -24,6 +24,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **June 2, 2026**: Approved P-3 overflight of OOI array as near-term validation approach with potential additional flight hours available in July
 - **June 3, 2026**: Updated TDR data confirmed to cover test region for 04-07 flights; noted temporal smoothing in TDR analyses from multi-leg averaging causing lower wind speed readings compared to S0 and dropsondes (per Josh Wadler technical explanation)
 - **June 8, 2026**: Flux analysis from 04-07 flight determined to be limited due to insufficient quality flux legs; prioritized focus on 04-09 high-rate data analysis for identifying and resolving calibration issues
+- **June 12, 2026**: Maciej outlined comprehensive testing plan for fixes/issues discovered from recovered S0 test, prioritizing affine magnetometer calibration (0.5 m/s average error correction), accelerometer corrections (4° roll error at max roll), accelerometer calibration (0.3 m/s wind error reduction), mag-IMU alignment (0.5 m/s error on S0-70), and pressure scaling corrections (with plan to correct both tunnel and aircraft data to recalibrate IAS)
 
 ## Projects & Initiatives
 **Navy STTR Boundary Layer Measurements Project (Award: N6833535C0270)**
@@ -37,20 +38,14 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - Cold weather specifications: -40°C to -60°C operation capability
 - De-ice heater development for standalone system with COTS process controller
 - Ocean validation missions in 4 phases testing sensing, algorithms, wave height, QC, and AI autonomy
-- **Humidity Sensor Correction**: Vaisala humidity error identified and corrected with post-processing fix; real-time correction now active in firmware (as of April 17, 2026)
+- **Humidity Sensor Correction**: Vaisala humidity error identified and corrected with post-processing fix; real-time correction now active in firmware (as of April 17, 2026); contributes minimal wind error (<a few cm/s)
 - **Wind Data Improvements**: Dual GPS heading data enabling improved wind estimation techniques for CAT flights
 - **5-Hole Probe & Magnetometer Calibration (June 2, 2026)**: S0-63 flight analysis revealed firmware error in 5-hole probe center port and issues with new magnetometer calibration method; both issues resolved with post-processing corrections showing improved agreement with dropsonde measurements
 - **Wind Calculation Method Trade-off (June 4, 2026)**: Identified technical consideration that recomputing winds from low-rate data produces noisier results due to loss of high-rate gyro data access; Maciej flagged this as potential limitation for re-analysis of CAT flights
 - **Turbulence Metrics Reproducibility (June 5, 2026)**: Investigating differences in turbulence metrics between two S0 aircraft flying at same low altitude during CAT flights; Josh Wadler seeking reproducibility validation; Maciej exploring multiple post-processing approaches to improve data quality and reduce noise
 - **Flux Calculation Methodology (June 8, 2026)**: Josh Wadler calculating turbulent flux components (u, v, w wind components) with mean wind subtraction per leg; focus on high-rate 04-09 data for validation; Maciej investigating whether pressure sensor bias corrections improve or worsen flux results
-
-**Active Field Operations (April-May 2026):**
-- S0 UAS ocean deployment missions coordinated through NOAA AOC (Aviation Operations Center) in Lakeland
-- CAT (Convective and Atmospheric Turbulence) Flights with P3 platform (P-3 operating at 10,000 ft altitude):
-  - **2026-03-26**: First dual S0 test (5 dropsondes deployed) - reprocessed data being reviewed by Josh Wadler for altitude-dependent correction validation; flux legs available for analysis
-  - **2026-04-07**: Second dual S0 test with rain (9 sondes: dropsondes, Streamsondes, Sphere sondes; S0 flew at 500m and 1000m for radar comparison) - limited quality flux legs identified
-  - **2026-04-09**: Recovered S0 test with scattered rain (4 sondes) - high-rate data prioritized for detailed analysis to identify and resolve calibration issues
-- IRC chat coordination system for real-time field communication during flights and landing operations
-- 5 test flights completed during validation window; data recovery and post-processing in progress
-- Dual S0 aircraft operations at low altitude for turbulence measurement comparison (currently under analysis)
-- One recovered S0 aircraft providing
+- **Comprehensive Calibration/Validation Initiative (June 12, 2026 - Maciej leading)**:
+  - **Affine Magnetometer Calibration**: Addresses non-orthogonal magnetic axes; tested on recent CAT flights; corrects average 0.5 m/s error (peak up to 1.5 m/s)
+  - **Accelerometer Corrections**: Two-part approach:
+    - Correction to 9.81 m/s² gravity: Resolves up to 4° roll error at maximum roll (minimal during straight and level flight)
+    - Accelerometer calibration: Sub-0.5° adjustments reducing wind errors (vertical bias and sinusoidal x/y component)

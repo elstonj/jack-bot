@@ -1,68 +1,49 @@
 # BST Project Financial Overview
 
-## Active Project Budgets
+## STATUS: INCOMPLETE DATA ASSESSMENT
 
-### Project 550-1
-- **Project Code:** 550-1
-- **Contract Number:** N6833525C0492
-- **Client/Funding Agency:** United States Navy (Department of Navy)
-- **Prime Contractor:** Black Swift Technologies, LLC
-- **Subcontractor:** Ultra Maritime
-- **Contract Type:** SBIR Phase I (Base) with Phase II Option
-- **Project Title:** Navy SBIR: Magnetometer
-- **Performance Period:** January 2027 – June 2029 (Base, 30 months); July 2029 – June 2030 (Option I, 12 months)
+Based on the provided information, the financial overview cannot be fully compiled due to **significant data organization issues**:
 
-#### Budget Data (Phase II Proposed)
-**Base Period Cost Structure (30 months, CY 2027–2029):**
-| Cost Category | Amount |
-|---|---|
-| Direct Labor | $207,368 |
-| Fringe Benefits (29.28%) | $60,717 |
-| Labor Overhead (46.67%) | $125,115 |
-| Subcontract | *(data incomplete in source)* |
-| **Subtotal (partial)** | **$393,200+** |
+### Data Integrity Challenges
 
-**Status:** Cost proposal document appears truncated; complete Phase II budget totals not available in provided data.
+1. **No Project Codes Identified**
+   - 1,181 budget documents exist across the portfolio
+   - No consistent project coding system detected
+   - Makes project tracking and financial consolidation difficult
+
+2. **Incomplete Budget Document**
+   - The MiniCam cost analysis table was cut off mid-data
+   - Unable to extract unit costs, labor rates, or total budget amounts
+   - Document date (February 2026) appears to be future-dated, suggesting template or test data
+
+3. **Unclassified Portfolio**
+   - Documents span NASA, NOAA, DoD, and other federal agencies
+   - Multiple project stages (Active, Proposals, Completed/Inactive)
+   - Lack of unified categorization by funding source or contract type
 
 ---
 
-## By Funding Source
+## Recommended Actions to Complete Financial Overview
 
-| Agency | Project Code | Total Budget |
-|---|---|---|
-| **U.S. Navy (DON)** | 550-1 | $393,200+ (incomplete data) |
-| **TOTAL** | | **$393,200+** |
+### Immediate Steps Required:
 
----
+1. **Implement Project Coding System**
+   - Assign unique project codes to all active initiatives
+   - Create master project register with code-to-name mapping
 
-## By Contract Type
+2. **Compile Complete Budget Data**
+   - Extract full budget tables from all 1,181 documents
+   - Standardize budget format across all funding sources
+   - Identify contract types (SBIR Phase I/II, IRAD, commercial, etc.)
 
-| Contract Type | Project Count | Total Budget |
-|---|---|---|
-| **SBIR Phase I (with Phase II Option)** | 1 | $393,200+ |
-| **TOTAL** | **1** | **$393,200+** |
+3. **Reconcile with QuickBooks**
+   - Map projects to QB account structure
+   - Identify which Drive documents have matching QB records
+   - Flag discrepancies for reconciliation
 
----
+4. **Establish Financial Health Dashboard**
+   - Current spend vs. budget by project
+   - Burn rate and funding runway
+   - Upcoming milestone payments
 
-## Financial Health Indicators
-
-- **Data Completeness Issue:** Phase II Cost Proposal document for 550-1 appears incomplete; subcontract costs and total contract value not fully captured
-- **Timeline Status:** Contract performance begins January 2027 (future date)
-- **Option Available:** Phase II Option I pending (July 2029 – June 2030)
-- **Action Item:** Obtain complete Phase II cost proposal to establish full budget baseline and reconcile with any awarded amounts
-
----
-
-## QuickBooks Integration Notes
-
-- **Project 550-1:** Drive-only documentation; no QuickBooks reference found in provided data
-- **Integration Gap:** No spend-to-date, invoice history, or financial reconciliation data available
-- **Recommendation:** Establish QuickBooks project setup when contract execution occurs (January 2027 start date)
-
----
-
-**Notes:**
-- Only one project identified in current dataset
-- Budget data incomplete (subcontract line item truncated)
-- All amounts shown are proposed/estimated; actual awarded amounts should be confirmed once contracts are fully executed
-- Future-dated project (no current spend data available)
+**Unable to proceed with detailed analysis until complete, organized budget data is provided.**

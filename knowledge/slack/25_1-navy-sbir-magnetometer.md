@@ -48,6 +48,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Deployment tube checklist: Sam Hild to update and send deployment tube checklist for approval; Jack Elston requesting schematic review from Sam Hild (June 5, 2026)
 - Custom PCB design fixes: Sam Hild fixed ADC 3.3V supply connection issue (U1 pin 26, C2+C4 isolation in inner copper) and JP1 jumper wiring; updates pushed and board ordered (June 9, 2026)
 - QuSpin power isolation approach: Maciej requesting similar isolated power setup for QuSpin sensor as developed for Bartington to restore sensor accuracy from earlier performance (June 10, 2026)
+- QuSpin power supply testing: Maciej to take over testing of QuSpin power supply while Sam Hild focuses on S3 development; testing focused on verifying noise reduction effectiveness (June 12, 2026)
 
 ## Projects & Initiatives
 
@@ -73,8 +74,4 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Deliverable: Reusable hand-launched S0 analog for local testing and Marine use case
 - Navy will primarily launch from UH-60 helicopters
 - Local mag flights: Scheduled for July 1st, 2026 with Bartington sensor testing
-- Flight testing documentation: Navy/Marine events require form completion for S0 flight testing (June 4, 2026) - Maciej coordinating form submission with team members for aircraft specifications and RPi details
-
-**Technical Development (May-June 2026 - ongoing):**
-
-*Reusable MAD S0
+- Flight testing documentation: Navy/Marine events require form completion for S0 flight testing (June

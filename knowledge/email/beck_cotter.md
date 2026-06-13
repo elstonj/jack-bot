@@ -1,91 +1,91 @@
 # Beck Cotter — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 78 emails (67 from previous scans + 11 new)
+- **Total messages scanned:** 84 emails (78 from previous scans + 6 new)
 - **Date range:** June 6–12, 2026
-- **Approximate volume:** Moderate-to-high sustained activity (~5–7 emails per day); June 10–12 shows continued elevated engagement with 11 new messages over 3 days
+- **Approximate volume:** Moderate-to-high sustained activity (~5–7 emails per day); June 12 shows 6 new messages concentrated in morning/midday window
 
 ## Key Correspondents
 
 ### Top Senders
-1. **Jack Elston** (elstonj@blackswifttech.com) — dominant internal correspondent; continues strategic coordination; **new pattern:** organizing team social events (Pattern Break Brewing June 12); also forwarding RFP materials (UMS RFP scenario estimates)
-2. **Charu Ganesh** (cganesh@kofirm.com) — Ko & Kim law firm; disclosure schedule coordination continuing (1 email June 11)
-3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **elevated visibility** — now appearing as sender (not just recipient) on Arctic UAS and academic reconnection emails; suggesting expanded decision-making role
-4. **Meredith Needham** (meredith.needham@blackswifttech.com) — internal coordination on disclosure schedules with law firm (June 11)
-5. **Automated/Newsletter:** Eventbrite, NSBA + EXIM, Vulcan Notification, XBW Lithium Battery (low signal)
+1. **Jack Elston** (elstonj@blackswifttech.com) — dominant internal correspondent; continues strategic coordination; organizing team social events (Pattern Break Brewing June 12); forwarding RFP materials (UMS RFP scenario estimates); draft technical reviews (TCE 26.2)
+2. **Paige Smith** (paige.smith@blackswifttech.com) — **elevated visibility** — now appearing as direct correspondent on NOAA technical questions (June 12, marked IMPORTANT); suggests expanded collaboration on technical/product inquiries
+3. **Charu Ganesh** (cganesh@kofirm.com) — Ko & Kim law firm; disclosure schedule coordination (1 email June 11)
+4. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Arctic UAS and academic reconnection coordination
+5. **Meredith Needham** (meredith.needham@blackswifttech.com) — internal coordination on disclosure schedules
+6. **Terence Gannon** (terryg@blufly.media) — **external inquiry source** — technical question re. NOAA Application of S0 (June 12); redirected to internal team
+7. **Automated/Newsletter:** Eventbrite, NSBA (Bill Belknap, NSBA Chairman), EXIM, Vulcan Notification, XBW Lithium Battery (low signal)
 
 ### Top Recipients (Outbound)
-- **Jack Elston** — continuing primary escalation point for RFPs and program coordination
-- **Charu Ganesh** (Ko & Kim) — legal/disclosure schedule coordination (via Meredith Needham relay)
+- **Jack Elston** — continuing primary escalation point for RFPs and program coordination (June 12 reply on TCE 26.2)
+- **Paige Smith** — technical inquiry relay and coordination (June 12)
+- **Generic Information/info@blackswifttech.com** — forwarding external technical inquiry from Terence Gannon (June 12)
 
 ### Internal vs External
 - **Internal:** Jack Elston, Daniel Prendergast, Meredith Needham, Paige Smith, Ethan Domagala, Alex Lomis, Ben Busby, Nathaniel Straus, Joshua Fromm, Spencer Hoehl, Maciej Stachura, Sam Hild
 - **External — Legal/Counsel:** Charu Ganesh (Ko & Kim law firm)
 - **External — Government/Defense:**
-  - **U.S. Navy NAWCAD (Northern Edge 2027):** [continuing from previous scan]
-  - **Vulcan SOF:** COCOM Experimentation opportunities notification (new visibility)
-- **External — Academic:** J. Xavier Prochaska (jxp@ucsc.edu) — **new contact** referenced in Daniel Prendergast email (reconnection context)
-- **External — Canadian Partners:** Stephen Rowlands (SRowlands@investottawa.ca) — **new contact** for Arctic UAS location change discussion
-- **External — Ecosystem:** [continuing from previous scan]
-- **External — Government/Policy:** NSBA (National Small Business Association), EXIM Bank (export/import)
+  - **U.S. Navy NAWCAD (Northern Edge 2027)**
+  - **NOAA** (National Oceanic and Atmospheric Administration) — **new visibility** — external inquiry re. "S0 Application" (June 12)
+  - **Vulcan SOF:** COCOM Experimentation opportunities
+- **External — Academic:** J. Xavier Prochaska (jxp@ucsc.edu)
+- **External — Canadian Partners:** Stephen Rowlands (SRowlands@investottawa.ca)
+- **External — Media/Communications:** Terence Gannon (terryg@blufly.media) — **new external contact** (Blue Fly Media or similar)
+- **External — Government/Policy:** NSBA (Bill Belknap, Chairman), EXIM Bank
 
 ## Topic Patterns
 
 ### Recurring & Intensifying Themes
-1. **Legal/M&A (Disclosure Schedules):** Continues; Meredith Needham now relaying to law firm (June 11) — suggests Beck may be shifting to supervisory/approval role rather than direct negotiation
-2. **Northern Edge 2027 (U.S. Navy/Arctic):** 
-   - **Location change notification** — Daniel Prendergast coordinating with Stephen Rowlands (Invest Ottawa) on site/location shift (June 11)
-   - Suggests **logistics/venue changes** in exercise planning or potential **Canadian expansion** (Invest Ottawa involvement)
-3. **UMS RFP (Unmanned Maritime Systems):** **New major RFP** — Jack Elston forwarding scenario-based estimates to Beck (June 11, marked IMPORTANT)
-   - Indicates **new government procurement opportunity** requiring technical estimation/proposal work
-4. **Academic/Research Connections:** Daniel Prendergast reaching out to J. Xavier Prochaska (UCSC) for "reconnecting" (June 11) — **new academic partnership or recruitment signal** for Arctic UAS research
-5. **Government Contracting Opportunities:** Vulcan SOF COCOM Experimentation opportunities released with **next week deadline** (June 11, marked IMPORTANT) — **active pipeline monitoring** for DoD/COCOM work
-6. **R&D Credits, SBIR Funding, Cyber Essentials:** [continuing from previous scan, no new activity]
+1. **Legal/M&A (Disclosure Schedules):** Continues; Meredith Needham relaying to law firm — supervisory/approval role confirmed
+2. **Northern Edge 2027 (U.S. Navy/Arctic):** Location change coordination with Invest Ottawa ongoing
+3. **UMS RFP (Unmanned Maritime Systems):** New major government RFP; scenario-based estimates in preparation
+4. **NOAA Application/S0:** **New government/civilian application** — external inquiry from Terence Gannon (June 12) forwarded to Paige Smith (marked IMPORTANT); suggests **product/capability inquiry from external party** regarding NOAA use case
+5. **Technical Drafts (TCE 26.2):** Jack Elston forwarding draft materials to Beck for review/approval (June 12) — indicates **active technical documentation/compliance review cycle**
+6. **Academic/Research Connections:** Daniel Prendergast coordinating with J. Xavier Prochaska (UCSC)
+7. **Government Contracting Opportunities:** Vulcan SOF COCOM Experimentation pipeline
+8. **NSBA Advocacy:** Bill Belknap (NSBA Chairman) sending registration notice for Washington presentation (June 12) — **policy/advocacy engagement** visible
 
 ### Key External Organizations & Programs
 - **Ko & Kim Law Firm** (Charu Ganesh) — M&A/disclosure schedule counsel
-- **UMS RFP** — **New government RFP** (Unmanned Maritime Systems); scenario-based estimates being prepared
-- **COCOM (U.S. Central Command)** — Experimentation opportunities through Vulcan SOF (new tracking)
+- **UMS RFP** — Unmanned Maritime Systems government procurement
+- **COCOM (U.S. Central Command)** — Experimentation opportunities through Vulcan SOF
+- **NOAA** (National Oceanic and Atmospheric Administration) — civilian government application; "S0" product/service inquiry
 - **Invest Ottawa** (Stephen Rowlands) — Canadian economic development; Arctic UAS location coordination
-- **UC Santa Cruz** (J. Xavier Prochaska) — Academic institution; research/partnership inquiry
-- **Pattern Break Brewing** (Colorado, local) — team social/coordination venue June 12
+- **UC Santa Cruz** (J. Xavier Prochaska) — Academic partnership
+- **NSBA** (Bill Belknap, Chairman) — Small business advocacy; Washington policy presentations
+- **Blue Fly Media** (Terence Gannon) — external inquiry source
 
 ### Project/Product References
-- **Northern Edge 2027** — **location change in progress** (June 11); suggests **logistics adjustment** or **expanded geographic scope** (Canadian involvement via Invest Ottawa)
-- **UMS RFP** — **New major government procurement**; scenario-based cost estimates in preparation phase
-- **COCOM Experimentation** — **Active opportunity tracking** for next week deadline
-- **Arctic UAS** — continuing focus; interconnected with Northern Edge 2027 and Invest Ottawa coordination
+- **Northern Edge 2027** — location change coordination ongoing
+- **UMS RFP** — major government procurement in proposal phase
+- **COCOM Experimentation** — active opportunity tracking
+- **Arctic UAS** — continuing focus; interconnected with Northern Edge 2027
+- **S0 Application (NOAA)** — **new civilian government product/capability inquiry** from external party (Terence Gannon); Beck relayed to internal team (Paige Smith) for response
+- **TCE 26.2** — **draft technical document** under review (Jack Elston → Beck, June 12)
 - **Disclosure Schedules (M&A)** — ongoing legal phase
 
 ## Communication Patterns
 
-- **Time distribution:** Steady 3-day activity (June 11–12); no peak day pattern; distributed across morning/afternoon UTC and US time zones
-- **Priority signals:** 6 of 11 new emails marked IMPORTANT; concentration on government programs (UMS RFP, COCOM), legal (disclosure schedules), and operational (Arctic location changes)
-- **Delegation pattern:** **Beck receiving fewer direct emails** in this scan; Meredith Needham now relaying law firm correspondence (June 11); Daniel Prendergast appearing as direct sender — suggests **Beck potentially elevating to supervisory/approval role** while team members handle execution
-- **New RFP visibility:** UMS RFP forwarded by Jack Elston (June 11) — indicates Beck may lead or review RFP response
-- **Team events:** Jack Elston organizing team social event (Pattern Break Brewing, June 12) with 12+ attendees including Beck — **all-hands coordination/morale event**
-- **Government opportunity scanning:** Vulcan SOF notification suggests active monitoring of COCOM experimentation programs
+- **Time distribution:** Concentrated June 12 activity (6 messages); morning-to-midday US Mountain Time (07:07–16:21)
+- **Priority signals:** 1 of 6 new emails marked IMPORTANT (Paige Smith's NOAA response); concentration on technical inquiry responses and draft review
+- **Inquiry routing pattern:** **Beck acting as triage/routing point** — receives external technical inquiry (Terence Gannon via generic info@) on June 12 07:07, forwards to Paige Smith 09:23 (same day); Paige responds marked IMPORTANT 10:11; Beck forwards response back to generic address 10:14 for external relay — **clear funnel pattern for external technical inquiries**
+- **Draft review cycle:** Jack Elston sending TCE 26.2 draft to Beck for review/approval (June 12)
+- **Newsletter/Policy tracking:** NSBA Chairman registration notice indicates Beck may be considering/tracking Washington presentation opportunity
+- **Team coordination:** Earlier Pattern Break Brewing event coordination June 12 (from previous scan)
 
 ## Key Relationships
 
 ### Closest Collaborators (Internal)
-1. **Jack Elston** — primary escalation; strategic coordination (RFPs, programs, team events)
-2. **Daniel Prendergast** — **elevated role** — now coordinating directly on Arctic location changes and academic partnerships
-3. **Meredith Needham** — legal/administrative coordination (M&A disclosure schedules)
+1. **Jack Elston** — primary strategic partner; RFPs, draft reviews, team coordination
+2. **Paige Smith** — **elevated technical collaboration** — now primary point for NOAA/S0 product inquiries and responses
+3. **Daniel Prendergast** — Arctic location and academic partnership coordination
+4. **Meredith Needham** — legal/administrative coordination
 
 ### External Partners & Clients
 - **Ko & Kim Law Firm** (Charu Ganesh) — legal counsel for M&A
-- **U.S. Navy NAWCAD** — Northern Edge 2027 government sponsor
+- **U.S. Navy NAWCAD** — Northern Edge 2027 sponsor
 - **Vulcan SOF** — government contracting opportunity pipeline
-- **UC Santa Cruz** (J. Xavier Prochaska) — emerging academic partnership
-- **Invest Ottawa** (Stephen Rowlands) — Canadian location/logistics coordination
-
-## Notable Observations
-
-1. **Organizational role shift:** Beck receiving fewer direct correspondence; Meredith Needham and Daniel Prendergast now handling execution (law firm relay, location coordination). Suggests **Beck moving toward approval/strategy role** while team manages day-to-day operations.
-
-2. **UMS RFP timing:** New major government RFP (Unmanned Maritime Systems) on June 11 — **active bidding cycle underway**. Scenario-based estimates indicate technical proposal phase in progress.
-
-3. **Arctic UAS location change:** Daniel Prendergast's communication with Invest Ottawa on June 11 suggests **Northern Edge 2027 exercise location adjustment** or **Canadian expansion**. Combined with previous Navy NAWCAD site visit planning, indicates **logistics/venue negotiations ongoing**.
-
-4. **Academic partnership signal:** Daniel P
+- **NOAA** — civilian government application inquiry (via Terence Gannon)
+- **UC Santa Cruz** (J. Xavier Prochaska) — academic partnership
+- **Invest Ottawa** (Stephen Rowlands) — Canadian logistics/location coordination
+- **

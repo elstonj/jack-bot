@@ -4,14 +4,14 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-06-10",
-    "end": "2026-06-12"
+    "start": "2026-06-12",
+    "end": "2026-06-13"
   },
   "totals": {
     "revenue": 144000.0,
-    "expenses": 387.49,
+    "expenses": 183.33,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 387.49
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 183.33
     }
   },
   "invoices": [
@@ -97,42 +97,6 @@
           "amount": 93.17,
           "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
           "description": "Phase1 Aviation shipment for IDIQ (S0 wings)"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-06-10",
-      "doc_number": "",
-      "total": 102.08,
-      "attributed": 102.08,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "PIRATE SHIP * POSTAGE - 7333",
-      "lines": [
-        {
-          "amount": 102.08,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": "Shipment from Paramount Tube to Lee Skidmore (2026 IDIQ)"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-06-10",
-      "doc_number": "",
-      "total": 102.08,
-      "attributed": 102.08,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "PIRATE SHIP * POSTAGE - 7333",
-      "lines": [
-        {
-          "amount": 102.08,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": "Shipment from Paramount Tube to Lee Skidmore (2026 IDIQ)"
         }
       ]
     }

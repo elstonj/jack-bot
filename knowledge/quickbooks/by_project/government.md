@@ -65,7 +65,7 @@
 **Key transactions:**
 - **Bill #AR262124** (2026-06-09): **$7,000.00** — Old Dominion University Research Foundation
   - Subcontract Agreement NO. N6833525C0270, Project No. 500567-010
-  - Payment for STTR: N25A-T025-0009 — "Expendable Air-Sea Profiling Observations in Hazardous Weather Conditions via Sma[ll Aircraft]"
+  - Payment for STTR: N25A-T025-0009 — "Expendable Air-Sea Profiling Observations in Hazardous Weather Conditions via Small Aircraft"
   - $3,500.00 February 2026 Invoice + $3,500.00 June 2026 Invoice
   - **Project:** [550-2] Navy STTR Hazardous Weather
 
@@ -99,7 +99,7 @@
 - **Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head** (2026-05-07): $479.80 [DIRECT COSTS] + $306.08 [Inventory Asset]
   - **Direct Cost Materials & Supplies impact: $479.80**
 
-**Recent transactions confirmed (2026-05-14 to 2026-06-12):**
+**Recent transactions confirmed (2026-05-14 to 2026-06-13):**
 - **Purchase (Amprius Technologies)** (2026-05-14): $399.00 [DC-Direct Material Purchases] — SA504 x 7 batteries
 - **Purchase #0513JELSTON** (2026-05-14): $206.62 [DC-Direct Material Purchases] — IDIQ 2026
 - **Purchase #334139 (Northwind Composites)** (2026-05-18): $3,331.80 [DC-Direct Material Purchases] — Thermoset laminate tubes + materials
@@ -112,7 +112,7 @@
 - **Purchase** (2026-05-29): $69.98 [DC-Direct Material Purchases] — Logitech keyboards for S2 simulator
 - **Purchase** (2026-06-01): $45.29 [DC-Direct Material Purchases] — Digikey electronics
 - **Purchase** (2026-06-03): $38.57 [DC-Direct Material Purchases] — Digikey electronics
-- **Purchase #YQ1749285** (2026-06-11): **$145.73** [DC-Direct Material Purchases] — *(NEW)*
+- **Purchase #YQ1749285** (2026-06-11): $145.73 [DC-Direct Material Purchases]
 
 **Total direct cost materials & supplies through 2026-09-28: $470,221.88** *(confirmed final)*
 
@@ -124,14 +124,16 @@
 ---
 
 ### **Shipping/Freight: $1,034.60**
-**Number of transactions:** 6  
-*(+3 new transactions from 2026-06-10 to 2026-06-25)*
+**Number of transactions:** 8  
+*(+2 new transactions from 2026-06-18 to 2026-06-25)*
 
 **Key transactions:**
 - **Purchase #260607W011757** (2026-06-25): **$90.16** [DC-Direct Cost Shipping, Freight & Delivery]
-  - Phase1 Aviation shipment for IDIQ (dated 5/28/26) — *(NEW)*
+  - Phase1 Aviation shipment for IDIQ (dated 5/28/26)
 - **Purchase #260531W011484** (2026-06-18): **$93.17** [DC-Direct Cost Shipping, Freight & Delivery]
   - Phase1 Aviation shipment for IDIQ (S0 wings)
 - **Purchase (Pirate Ship Postage)** (2026-06-10): **$102.08** [DC-Direct Cost Shipping, Freight & Delivery]
-  - Shipment from Paramount Tube to Lee Skidmore (2026 IDIQ) — *(NEW)*
-- **Purchase (
+  - Shipment from Paramount Tube to Lee Skidmore (2026 IDIQ)
+- **Earlier transactions (through 2026-06-09):** $749.19 cumulative
+
+**Total shipping

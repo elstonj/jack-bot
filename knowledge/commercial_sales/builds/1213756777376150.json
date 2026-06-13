@@ -65,8 +65,7 @@
   },
   "notes": "New professor Jazlynn Hall at CU Boulder seeking E2 system with custom sensor payload for scientific research. Estimate sent 2026-04-10. Customer will not purchase until August 2026 when new position starts. Receive-by 2026-08-31 confirmed via repeated Slack updates through 2026-05-20. KEEP signal: explicit receive_by within 6 months + substantive recent Slack engagement.",
   "missing_fields": [
-    "ship_to",
-    "invoice_amount"
+    "ship_to"
   ],
   "last_evidence_date": "2026-05-20",
   "last_contact_date": "2026-06-18"
