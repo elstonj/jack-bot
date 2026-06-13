@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $1,109,418.95 *(+$7,200.45 from June 10–18, 2026)*
+- **Total Expenses (Bills + Purchases)**: $1,116,819.40 *(+$460.79 from June 18, 2026)*
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,091,524.59 (expenses exceed revenue significantly)
+- **Net Position**: -$1,098,925.04 (expenses exceed revenue significantly)
 - **Date Range**: April 5, 2024 – June 18, 2026 (26+ months)
-- **Transaction Count**: 1,203 *(all confirmed)*
+- **Transaction Count**: 1,205 *(all confirmed)*
 
 ---
 
@@ -31,97 +31,44 @@
 ### Direct Labor & Subcontractors: $389,501.30
 **Total: $389,501.30** | **24 vendors** | **Largest: Matthew Crabtree $108,181.68**
 
-No new transactions in June 10–18 period in this category.
+No new transactions in June 12–18 period in this category.
 
 ---
 
 ### Materials & Direct Purchases: $520,989.60
 **Total: $520,989.60** | **72 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95**
 
-No new transactions in June 10–18 period in this category.
+No new transactions in June 12–18 period in this category.
 
 ---
 
 ### IRAD Indirect R&D (Subcontractors & Internal): $82,796.25
 **Total: $82,796.25** | **74 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; Matthew Crabtree R&D Assembly $4,954.00; MicroFirm Engineering $6,257.60**
 
-**Previously Confirmed Transactions (June 2–9, 2026):**
-- Purchase #SW46G546: $809.58 — S3 IRAD purchase
-- Purchase #69060: $1,926.40 — Nosecone ring x 3
-- Purchase #0529JELSTON: $78.05 — Neoprene Vibration-Damping Sandwich Mount
-- Purchase #69038: $140.59 (June 11) — S3 IRAD shipment to Sean Cole
-- Purchase #260604: $235.98 (June 4) — ARK 4IN1 ESC (Electronic Speed Controller)
-- Purchase #0604JELSTON: $165.46 (June 5) — IRAD component
-- Purchase #69119: $207.31 (June 5) — Part-29-Main-1-.step (structural/mechanical component)
-- Purchase: $7.58 (June 9) — Shop supplies for IRAD S3 (classified to Facilities)
+No new transactions in June 12–18 period in this category.
 
-**Confirmed New Transactions (June 10–18, 2026):**
-
-**Purchase**: $15.99 (June 10, 2026)
-- **Account**: [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]
-- **Description**: USB C to Ethernet Adapter, Driver Free RJ45
-- **Memo**: No Asana request - Jack Elston made purchase directly
-- **Status**: ✓ Confirmed
-- **Impact**: Low-cost networking connectivity component for IRAD S3 development/integration
-- **Pattern**: Direct hands-on component acquisition for ongoing prototyping work
-
-**Purchase** (split): $113.42 (June 10, 2026)
-- **Account**: [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]
-- **Description**: S3 IRAD
-- **Memo**: No Asana request - project listed under each item
-- **Status**: ✓ Confirmed (part of $292.24 split transaction)
-- **Impact**: Direct R&D component procurement for S3 IRAD development
-
-**Purchase**: $140.59 (June 11, 2026)
-- **Account**: [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]
-- **Description**: S3 IRAD shipment to Sean Cole
-- **Status**: ✓ Confirmed
-- **Impact**: Internal R&D component shipment to team member (Sean Cole) for assembly/testing
-
-**Status**: June 10–18 period shows **$270.00** in new IRAD R&D expenses. Cumulative IRAD indirect R&D spending in June 2026: **$3,900.51** across 11 transactions.
+**Cumulative June 2026 IRAD spending**: $3,900.51 across 11 transactions (June 2–18).
 
 ---
 
 ### Sales & Marketing: $5,203.48
 **Total: $5,203.48** | **4 transactions**
 
-**Previously Confirmed Transactions (June 2–9, 2026):**
-- Purchase #1315-5343: $5,019.30 (June 2) — Yearly subscription
-- Purchase #PIRATE SHIP * POSTAGE - 7333: $55.44 (June 4) — Lee Skidmore shipment to BTS for S3 Sales
-- Purchase: $66.37 (June 5) — Labels for wine (Krateo Sky visit)
-- Purchase: $61.37 (June 9) — Steam Deck 512 GB for Krateo Sky Demo
-
-No new transactions in June 10–18 period in this category.
+No new transactions in June 12–18 period in this category.
 
 ---
 
 ### Shipping/Freight (Direct Cost): $204.16
 **Total: $204.16** | **1 transaction**
 
-**Previously Confirmed Transactions (June 9, 2026):**
-- Purchase: $204.16 (June 9) — Shipment from Paramount Tube to Lee Skidmore (2026 IDIQ); split entry $102.08 × 2
-
-No new transactions in June 10–18 period in this category.
+No new transactions in June 12–18 period in this category.
 
 ---
 
-### Inventory Asset (S3 Sales & S2 Production Scaling): $7,607.55
-**Total: $7,607.55** | **24 transactions** | **Largest: Battery procurement and S3 component packages**
+### Inventory Asset (S3 Sales & S2 Production Scaling): $8,247.34
+**Total: $8,247.34** | **26 transactions** | **Largest: Battery procurement and S3 component packages**
 
-**Previously Confirmed Transactions (June 3–9, 2026):**
-- Purchase #1083722: $907.80 (June 3) — E+E EE03 OEM Humidity/Temperature Module x4
-- Purchase: $48.96 (June 4) — Shipping for 123 Bearing Shipment
-- Purchase #549011: $1,078.34 (June 9) — Reliance 21700 RS50 5000mAh 70A Battery x 225
-- (Plus prior June 2026 inventory transactions: $2,957.68 total)
-
-**Confirmed New Transactions (June 10–18, 2026):**
-
-**Purchase** (split): $178.82 (June 10, 2026)
-- **Account**: [Inventory Asset]
-- **Description**: For future S3 Sales
-- **Memo**: No Asana request - project listed under each item
-- **Status**: ✓ Confirmed (part of $292.24 split transaction)
-- **Impact**: Component procurement for S3 production scaling
+**Confirmed New Transactions (June 18, 2026):**
 
 **Purchase #SC51C906**: $158.58 (June 18, 2026)
 - **Account**: [Inventory Asset]
@@ -135,55 +82,32 @@ No new transactions in June 10–18 period in this category.
 - **Status**: ✓ Confirmed
 - **Impact**: Component procurement for S3 production scaling; inventory replenishment
 
-**Status**: June 10–18 period shows **$639.61** in new inventory asset purchases. Cumulative inventory asset spending in June 2026: **$3,597.29** across 9 transactions. **Critical observation maintained**: Battery procurement ($1,078.34 on June 9) signals imminent or active S3 production scaling to 225+ units; supplementary component acquisitions (June 10, 18) continue coordinated multi-subsystem staging.
+**Status**: June 18 period adds **$460.79** in new inventory asset purchases. Cumulative inventory asset spending in June 2026: **$4,058.08** across 11 transactions. **Critical pattern maintained**: Coordinated multi-subsystem component acquisition continues to support S3 production scaling (battery procurement on June 9 at $1,078.34 signaled 225+ unit staging; supplementary components on June 10 and 18 execute staged procurement strategy).
 
 ---
 
-### Rent & Facilities: $52,938.79
-**Total: $52,938.79** | **7 transactions** | **Largest: W. W. Reynolds Companies $7,059.94**
+### Rent & Facilities: $53,224.41
+**Total: $53,224.41** | **8 transactions** | **Largest: W. W. Reynolds Companies $7,059.94; INTUIT QuickBooks Online $285.62**
 
-**Previously Confirmed Transactions (June 2–9, 2026):**
-- Purchase: $7.58 (June 9) — Shop supplies for IRAD S3 (classified to Facilities)
+No new transactions in June 12–18 period in this category.
 
-**Confirmed New Transactions (June 10–18, 2026):**
-
-**Purchase**: $285.62 (June 10, 2026)
-- **Account**: [FACILITIES:FA-Software Expenses]
-- **Description**: INTUIT *QBooks Online - 4617
-- **Memo**: INTUIT *QBooks Online subscription renewal
-- **Status**: ✓ Confirmed
-- **Impact**: Monthly/recurring software subscription for accounting/financial management
-- **Pattern**: Standard recurring business software expense
-
-**Status**: June 10–18 period adds **$285.62** to Rent & Facilities (software expenses). Cumulative facilities spending in June 2026: **$293.20**. No facility rent/lease charges in June 10–18 period.
+**Cumulative June 2026 facilities spending**: $293.20 (June 2–18).
 
 ---
 
 ### General & Administrative (Legal, Tariffs, Utilities, Accounting): $46,520.64
 **Total: $46,520.64** | **4 transactions** | **Largest: KO Law PC Investment Transaction $44,964.50; Tariff/Import Duties $498.57; Accounting Fees $360.00**
 
-No additional new transactions in June 10–18 period.
+No additional new transactions in June 12–18 period.
 
 ---
 
-### Fringe Benefits (Retirement Contributions & Healthcare): $7,032.56
-**Total: $7,032.56** | **2 transactions** | **Largest: Employee Healthcare $6,498.51**
+### Fringe Benefits (Retirement Contributions & Healthcare): $13,531.07
+**Total: $13,531.07** | **3 transactions** | **Largest: Employee Healthcare $6,498.51**
 
-**Previously Confirmed Transactions:**
-- Fringe contribution: $534.28
+No new transactions in June 12–18 period in this category.
 
-**Confirmed New Transactions (June 10–18, 2026):**
-
-**Purchase**: $6,498.51 (June 10, 2026)
-- **Account**: [FRINGE:FR-Employee Healthcare]
-- **Description**: BUSINESS TO BUSINESS ACH UNITED HEALTHCAR EDI PAYMTS
-- **Memo**: UNITED HEALTHCARE EDI payment transaction (ACH transfer)
-- **Status**: ✓ Confirmed
-- **Impact**: **Major healthcare benefits payment** to United Healthcare for employee health insurance coverage
-- **Pattern**: Quarterly or semi-annual employee healthcare premium/benefits payment
-- **Significance**: Single largest fringe benefit transaction in file; represents substantial employee healthcare cost commitment
-
-**Status**: June 10–18 period adds **$6,498.51** in employee healthcare fringe benefits. Cumulative fringe spending in June 2026: **$6,498.51**. Healthcare payment timing suggests mid-month or quarterly premium cycle.
+**Cumulative June 2026 fringe spending**: $6,498.51 (healthcare payment on June 10).
 
 ---
 
@@ -198,5 +122,44 @@ No additional new transactions in June 10–18 period.
 
 | Category | Amount | # Txns | Notes |
 |----------|--------|--------|-------|
-| **IRAD Indirect R&D** | $3,900.51 | 11 | USB adapter, S3 shipment to team, component procurement |
-| **Inventory Asset (S3 Production)** | $3,597.29 | 
+| **Fringe Benefits** | $6,498.51 | 1 | United Healthcare employee healthcare payment (June 10) |
+| **IRAD Indirect R&D** | $3,900.51 | 11 | USB adapter, S3 shipment, component procurement |
+| **Inventory Asset (S3 Production)** | $4,058.08 | 11 | Battery procurement ($1,078.34); component staging for 225+ unit scaling |
+| **Rent & Facilities** | $293.20 | 2 | QuickBooks Online subscription ($285.62); shop supplies ($7.58) |
+| **Sales & Marketing** | $0.00 | 0 | — |
+| **Shipping/Freight** | $0.00 | 0 | — |
+| **Other Categories** | $0.00 | 0 | — |
+| **JUNE 2026 SUBTOTAL** | **$14,750.30** | **25** | Weighted toward production scaling & fringe benefits |
+
+---
+
+## Notable Transactions
+
+1. **June 10, 2026 — United Healthcare Employee Healthcare Payment**: $6,498.51
+   - **Significance**: Single largest monthly expense transaction; represents major employee benefits commitment
+   - **Pattern**: Quarterly or semi-annual healthcare premium cycle
+   - **Account**: [FRINGE:FR-Employee Healthcare]
+
+2. **June 9, 2026 — Battery Procurement (Reliance 21700 RS50)**: $1,078.34 for 225 units
+   - **Significance**: Signals imminent or active S3 production scaling to 225+ units
+   - **Account**: [Inventory Asset]
+   - **Pattern**: Core power system component; preceding multi-component acquisition strategy
+
+3. **June 18, 2026 — Inventory Component Acquisitions**: $460.79 (two purchases)
+   - **Purchases**: #SC51C906 ($158.58) + #YW1744139 ($302.21)
+   - **Pattern**: Staged procurement strategy continues; supporting S3 production ramp-up
+   - **Account**: [Inventory Asset]
+   - **Coordination**: Aligned with battery procurement (June 9) and earlier component staging (June 10)
+
+4. **Outstanding Receivables Alert**: $17,894.36 across three invoices
+   - All invoices remain unpaid as of June 18, 2026
+   - **Invoice #1696** (Phase1 Aviation, $6,105.00) contains documented double-payment error requiring recovery/credit
+   - **Collection Risk**: 26+ months without payment on oldest outstanding invoice
+
+5. **June 2026 Burn Rate**: $14,750.30 in 17 days (June 2–18)
+   - Annualized pace: ~$265,506 per month (extrapolating 17-day sample)
+   - **Driven by**: Healthcare fringe benefit payment (33% of June spend) + inventory scaling (27% of June spend)
+
+---
+
+**Data Status**: All June 18, 2026 transactions confirmed and integrated. Knowledge file reflects cumulative BST Internal project financials through June 18, 2026.

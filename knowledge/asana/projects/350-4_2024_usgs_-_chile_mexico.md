@@ -8,51 +8,34 @@
 - **Dollar Value**: $124,230 (total budget and funding to BST)
 - **Contract**: 140G0323P0280
 - **Timeline**: Contract end date August 30, 2025; **DEPLOYMENT DELAYED TO FALL 2026** (originally planned for April 20, 2026)
-- **Status**: **ACTIVE — DELAYED** — Mission deployment originally scheduled for April 20, 2026 has been **postponed to Fall 2026** per Maciej Stachura (April 17, 2026) and Jack Elston (April 20, 2026). **No flight planning, shipping, or mission prep happening soon.** Batteries already shipped to Mexico (May 2026); customs/import details being finalized. ⚠️ **19 open tasks in Asana with spring/summer 2026 due dates are STALE — await Fall 2026 timeline confirmation before actioning.**
+- **Status**: **ACTIVE — DELAYED** — Mission deployment originally scheduled for April 20, 2026 has been **postponed to Fall 2026** per Maciej Stachura (April 17, 2026) and Jack Elston (April 20, 2026). **No flight planning, shipping, or mission prep happening soon.** Batteries already shipped to Mexico (May 2026); customs/import details being finalized. ⚠️ **Remaining open tasks with spring/summer 2026 due dates are STALE — await Fall 2026 timeline confirmation before actioning.**
 - **Team Members**: Maciej Stachura (owner/project lead), Jack Elston, Dan Prendergast, Josh Fromm, Nate Straus, Ethan Domagala, Meredith O'Hara Needham
 - **Priority**: Medium (Government customer)
 
 ## Key Deliverables & Milestones
 
-⚠️ **CRITICAL: All milestone due dates in Asana (spring/summer 2026) are STALE per team corrections from Maciej Stachura (April 17, 2026) and Jack Elston (April 20, 2026). Actual deployment timeline has shifted to FALL 2026. Do not act on spring/summer 2026 due dates without confirmation from Maciej.**
+⚠️ **CRITICAL: All milestone due dates originally in spring/summer 2026 are STALE per team corrections from Maciej Stachura (April 17, 2026) and Jack Elston (April 20, 2026). Actual deployment timeline has shifted to FALL 2026. Do not act on spring/summer 2026 due dates without confirmation from Maciej.**
 
 ### Major Milestones (Original Planned Dates — Now Superseded)
-- **Operator Manual and Flight CONOPS for AFAC** | Dan Prendergast | Asana due: June 15, 2026 | **STALE — reschedule for Fall 2026**
-- **Obtain flight approvals from AFAC** | Dan Prendergast | Asana due: July 1, 2026 | **STALE**
-- **Verify ground permissions for national park (CENAPED leading)** | Dan Prendergast | Asana due: July 1, 2026 | **STALE**
-- **Sort out flight, radio, shipping, and import permissions** | Unassigned | Asana due: July 31, 2026 | **STALE — NOTE: Batteries already shipped to Mexico (May 2026); customs/import details under review**
-- **Finish payload updates** | Unassigned | Asana due: August 31, 2026 | **STALE**
-- **Conduct local flight testing** | Unassigned | Asana due: August 31, 2026 | **STALE**
-- **Test props for operations at 5700m** | Maciej Stachura | Asana due: August 3, 2026 | **STALE**
-- **Look at FLIR stoppage at Murray State** | Maciej Stachura | Asana due: August 3, 2026 | **STALE**
-- **Ship Aircraft and Equipment** | Unassigned | Asana due: September 1, 2026 | **STALE**
-- **Conduct Mission** | Unassigned | Asana due: October 1, 2026 | **STALE — now planned for Fall 2026**
-- **Put together flight plans using Google Earth markup** | Dan Prendergast | Asana due: October 1, 2026 | **STALE**
-- **Create photogrammetry footprints** | Dan Prendergast | Asana due: October 1, 2026 | **STALE**
-- **Spare parts and packing list** | Josh Fromm | Asana due: October 1, 2026 | **STALE**
-
-### Supporting Tasks (No Due Date)
-- Test New Capabilities
-- Tools/Ground Equipment
-- S2 Improvements
-- Planning/Algorithms/UI
-- CONOPS
+- **Operator Manual and Flight CONOPS for AFAC** | Dan Prendergast | Asana due: June 22, 2026 | **STALE — reschedule for Fall 2026**
+- Obtain flight approvals from AFAC | **STALE**
+- Verify ground permissions for national park (CENAPED leading) | **STALE**
+- Sort out flight, radio, shipping, and import permissions | **STALE — NOTE: Batteries already shipped to Mexico (May 2026); customs/import details under review**
+- Finish payload updates | **STALE**
+- Conduct local flight testing | **STALE**
+- Test props for operations at 5700m | **STALE**
+- Look at FLIR stoppage at Murray State | **STALE**
+- Ship Aircraft and Equipment | **STALE**
+- Conduct Mission | **STALE — now planned for Fall 2026**
+- Put together flight plans using Google Earth markup | **STALE**
+- Create photogrammetry footprints | **STALE**
+- Spare parts and packing list | **STALE**
 
 ## Task Summary
-- **Total Tasks**: 19 open, 0 completed
+- **Total Tasks**: 1 open, 0 completed (note: raw data shows significantly fewer tasks than previous knowledge file; prior version listed 19 open tasks — appears Asana project may have been cleaned up or filtered)
 - **Tasks by Assignee**:
-  - **Dan Prendergast**: 6 open tasks
-    - Operator Manual and Flight CONOPS for AFAC (Due: June 15, 2026) — **STALE**
-    - Obtain flight approvals from AFAC (Due: July 1, 2026) — **STALE**
-    - Verify ground permissions for national park/CENAPED (Due: July 1, 2026) — **STALE**
-    - Put together flight plans using Google Earth markup (Due: October 1, 2026) — **STALE**
-    - Create photogrammetry footprints (Due: October 1, 2026) — **STALE**
-  - **Maciej Stachura**: 2 open tasks
-    - Look at FLIR stoppage at Murray State (Due: August 3, 2026) — **STALE**
-    - Test props for operations at 5700m (Due: August 3, 2026) — **STALE**
-  - **Josh Fromm**: 1 open task
-    - Spare parts and packing list (Due: October 1, 2026) — **STALE**
-  - **Unassigned**: 10 open tasks (milestones and general work items)
+  - **Dan Prendergast**: 1 open task
+    - Operator Manual and Flight CONOPS for AFAC (Due: June 22, 2026) — **STALE**
 
 ## Recent Activity
 
@@ -80,9 +63,11 @@ Project awaiting Fall 2026 deployment confirmation; batteries already in transit
 - **Deployment Status**: 
   - **Originally planned**: April 20, 2026
   - **Now scheduled**: Fall 2026 (per Maciej Stachura, April 17; Jack Elston, April 20)
-  - **Implication**: **ALL spring/summer 2026 task due dates in Asana are stale**; remaining milestones await Fall 2026 timeline confirmation
+  - **Implication**: **All spring/summer 2026 task due dates in Asana are stale**; remaining milestones await Fall 2026 timeline confirmation
   
 - **Hardware Status**: 
   - Batteries shipped to Mexico (May 2026)
   - Permanent import fees paid (no ECCN obtained)
-  - Customs/import paperwork being finalized with customs broker Javi (Dan Prendergast coord
+  - Customs/import paperwork being finalized with customs broker Javi (Dan Prendergast coordinating)
+
+- **Admin Notes**: Working with USGS on Jan/Feb timing [see Maciej for updates]

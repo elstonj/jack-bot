@@ -1,25 +1,39 @@
 # Spencer Hoehl — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 20.5 hours
-- **Primary project:** [300-3] 2026 IDIQ (Hurricane)
-- **Time period covered:** Multiple tracking batches
+- **Total hours tracked:** 25.4 hours
+- **Primary projects (top 3):**
+  1. [300-3] 2026 IDIQ (Hurricane) — 22.6 hours
+  2. [001-08] Flight Testing — 1.5 hours
+  3. [001-13] General Operations — 1.3 hours
+- **Time period covered:** Multiple tracking batches (most recent: 4.9 hours in latest batch)
 
 ## Project Breakdown
 - **[300-3] 2026 IDIQ (Hurricane)** (Client: NOAA)
-  - Hours: 20.5
-  - Percentage: 100%
+  - Hours: 22.6
+  - Percentage: 89%
+
+- **[001-08] Flight Testing** (Client: Internal)
+  - Hours: 1.5
+  - Percentage: 6%
+
+- **[001-13] General Operations** (Client: Overhead)
+  - Hours: 1.3
+  - Percentage: 5%
 
 ## Recent Activity
-- Two most recent entries logged to the Hurricane IDIQ project:
-  - 4.4 hours (no description)
-  - 3.2 hours (no description)
-- Previous entries: 3.5 hours and 3.9 hours (no descriptions)
-- Continued exclusive focus on NOAA 2026 IDIQ Hurricane project with no task descriptions provided
+- **Latest batch shows diversification:** Spencer logged time to three different projects for the first time, breaking exclusive focus on Hurricane IDIQ
+- **Most recent entries (chronologically):**
+  - 1.5 hours on Flight Testing (no description)
+  - 1.1 hours on Hurricane IDIQ (no description)
+  - 0.5 hours on General Operations (no description)
+  - 0.9 hours on Hurricane IDIQ (no description)
+  - 0.8 hours on General Operations (no description)
+- Hurricane IDIQ remains dominant but now accounts for only 89% vs. 100% previously
 
 ## Patterns
-- Exclusive focus on a single project (NOAA 2026 IDIQ Hurricane) across all tracked time
-- Consistent work pattern with no descriptive notes in any time entries, making it difficult to identify specific task focus areas
-- No variation in project allocation; all time devoted to the Hurricane IDIQ initiative
-- Time entries show reasonable session lengths (3.2–4.4 hours per entry)
-- **Recommendation:** Encourage Spencer to add task descriptions or project tags to improve work tracking visibility and enable better project management insights
+- **Shift in focus:** Transitioned from 100% single-project allocation to multi-project work
+- **Continued lack of descriptions:** All entries remain without task descriptions, hindering visibility into specific work activities
+- **New project engagement:** Flight Testing represents first tracked time on this project in available records
+- **Session lengths:** Entries range from 0.5–1.5 hours (smaller, more fragmented sessions compared to earlier 3–4 hour blocks)
+- **Recommendation:** Encourage Spencer to add task descriptions and project tags to all entries; fragmented session lengths may benefit from more detailed logging to track context and work continuity

@@ -30,14 +30,12 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Organizational Growth Planning & Career Development Conversations** (June 10, 2026): Beck Cotter announced one-on-one conversations with team members regarding 4-year organizational roadmap and career positioning. Emphasized need for employees to think about desired future roles and work, not just current positions. Aim is to build career pathways that maximize internal talent while supporting BST's growth goals and employee job satisfaction.
 - **Shop Area Cleanliness Reminder** (June 11, 2026): Nate requested all shop area users clean up after themselves due to increased activity; offered assistance if needed.
 - **Meredith Needham Out-of-Office** (June 11, 2026): Meredith Needham out Friday (June 14) and Monday (June 17). Jack Elston committed to handling trash/recycling removal on Thursday (June 12).
+- **CMMC Compliance & CUI Document Storage** (June 12, 2026): Dan Prendergast inquired about CMMC expertise and whether Controlled Unclassified Information (CUI) documents can be stored in Google Drive. Initial research suggests need for "government edition" of Google services. Maciej delegated to an unnamed CMMC expert (U0AQE94HJUT) for guidance.
+- **KrateoSky Milestone Celebration Event** (June 18, 2026): Paige Smith coordinating milestone celebration at Hotel Boulderado with multi-location itinerary: BST in morning, sod farm visit, lunch at Avery Brewing, dinner/celebrations at Hotel Boulderado. Questions raised regarding overnight accommodations (Hotel Boulderado sold out; alternative hotels nearby available), dietary restrictions, and plus-one attendance for headcount planning.
 
 ### Funding & Awards
 - **NASA Phase I Award** (May 26, 2021): Contract awarded for S2 all-weather capable platform development with solar integration and VTOL S2 for remote autonomous landing
 - **NASA SBIR Phase I Selected** (June 5, 2023): "Uncrewed Aircraft System Data Assimilation for Improved Wildland Fire Fighting Decision Support" (Proposal A3.02-1718)
 - **Navy SBIR Phase II Invitation** (March 5, 2025): Magnetometer project advanced to Phase II
 - **NOAA Phase II GPS-Denied Navigation** (Jan 8, 2021): BST selected for GPS denied navigation work
-- **WPO Funding Approved** (May 27, 2021): Two NOAA efforts funded: soil moisture maps near Crested Butte and Area-I payload/tube-deployed S0 support
-- **BizWest Mercury 100** (Apr 26, 2021): Named one of 2021 fastest-growing companies in Boulder Valley
-- **Albatross Competition** (Mar 3, 2025): BST not selected; Mississippi State team selected
-- **Seed-Round Investment Secured** (Dec 2024 - May 2026): Jack Elston successfully raised seed-round funding; investor meeting conducted in Paris (Dec 16-22, 2024); industrial plan now in draft form detailing use of investment capital
-- **T-Mobile Direct-to-Cell S0 Integration Project** (May 14, 2026): High-priority opportunity being pushed to T-Mobile leadership; potential funding for 20 S0 aircraft purchases + R&D funding to integrate T-Mobile's high bandwidth direct-
+- **WPO Funding Approved** (May 27, 2021): Two NOAA efforts funded: soil moisture maps near

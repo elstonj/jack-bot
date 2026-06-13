@@ -1,80 +1,87 @@
 # Toggl Time Tracking Overview
 
 ## Key Metrics
-- **Total hours tracked:** 33,824.0 hours (2020-2026)
-- **Number of active team members:** 27 (↑1 new: Spencer Hoehl elevated)
+- **Total hours tracked:** 33,865.9 hours (2020-2026)
+- **Number of active team members:** 27 (stable)
 - **Number of projects tracked:** 52 projects with time, 151 total projects in workspace
 
 ## Team Time Allocation
 
 ### Hours by Team Member (Ranked)
-1. **Jack Elston:** 12,920.1 hours (38.22% of total time) — *↑ 9.2 hrs*
-2. **Stachura:** 2,286.2 hours — *↑ 2.1 hrs*
+1. **Jack Elston:** 12,920.1 hours (38.18% of total time)
+2. **Stachura:** 2,292.2 hours — *↑ 6.0 hrs*
 3. **Kay Rufty:** 1,974.0 hours
 4. **Alex:** 1,970.1 hours
 5. **Josh Fromm:** 1,799.4 hours
-6. **Nate:** 1,610.4 hours — *↑ 8.2 hrs*
+6. **Nate:** 1,625.2 hours — *↑ 14.8 hrs*
 7. **Dan:** 1,594.5 hours
 8. **Jake Sahli:** 1,280.6 hours
 9. **Maciej Stachura:** 1,245.2 hours
 10. **Parker:** 1,218.7 hours
-11. **Ethan Domagala:** 368.4 hours — *↑ 8.0 hrs*
-12. **Beck Cotter:** 330.0 hours — *↑ 16.5 hrs*
-13. **Sam Hild:** 345.4 hours — *↑ 8.5 hrs*
-14. **Paige Smith:** 225.1 hours — *↑ 5.8 hrs*
-15. **Meredith Needham:** 185.0 hours — *↑ 6.3 hrs*
-16. **Spencer Hoehl:** 20.5 hours — *↑ 7.5 hrs (elevated from 13.0)*
+11. **Ethan Domagala:** 376.4 hours — *↑ 8.0 hrs*
+12. **Beck Cotter:** 338.0 hours — *↑ 8.0 hrs*
+13. **Sam Hild:** 345.4 hours
+14. **Paige Smith:** 232.3 hours — *↑ 7.2 hrs*
+15. **Meredith Needham:** 185.0 hours
+16. **Spencer Hoehl:** 25.4 hours — *↑ 4.9 hrs*
 17. **Remaining 10 team members:** ~4,300 hours combined
 
 ### Utilization Patterns
-- **Latest tracking period (Jun 11-12, 2026):** 72.2 hours across 9 team members — **sustained high-tempo operations with expanded bench engagement**
-- **Recent 7-day pattern (Jun 5-12):** Consistent 70+ hour weekly baseline; strong operational sustainability with multi-program concurrent execution
-- **Current focus (Jun 11-12):** General Operations (19.0 hrs / 26.3%), S3 IRAD (14.2 hrs / 19.7%), Hurricane IDIQ (14.0 hrs / 19.4%), Proposals (8.5 hrs / 11.8%), Marketing (5.8 hrs), BD Pipeline (2.1 hrs)
-- **Status:** Full operational capacity with 9-person active roster; proposal cycle active with technical program execution sustained
+- **Latest tracking period (Jun 12-13, 2026):** 41.9 hours across 6 team members — **sustained operations with focused technical and overhead work**
+- **Recent 7-day trend:** Consistent 70+ hour weekly baseline maintains operational sustainability
+- **Current focus (Jun 12-13):** 
+  - S3 IRAD: 11.5 hrs (27.5%)
+  - Marketing & Operations: 12.5 hrs combined (29.8%)
+  - Hurricane IDIQ: 6.3 hrs (15.0%)
+  - Navy STTR: 6.0 hrs (14.3%)
+  - Proposals: 4.0 hrs (9.5%)
+  - Flight Testing: 1.5 hrs (3.6%)
+- **Status:** Streamlined 6-person active roster; proposal and marketing cycle sustains overhead intensity
 - **Key changes:**
-  - **Spencer Hoehl elevated to active bench:** 7.5 hrs focused on Hurricane IDIQ; transitioned from minimal to operational contributor
-  - **Beck Cotter sustained proposal leadership:** 16.5 hrs (highest individual load)—driving BST Org Evolution initiative and proposal execution
-  - **Sam Hild new engagement:** 8.5 hrs (no project assigned, unallocated)—possible training/onboarding or untracked work
-  - **Nate multi-program execution:** 8.2 hrs split across S3 IRAD (2 hrs) and Hurricane IDIQ (6.2 hrs)—key technical contributor across IRAD and customer deliverables
-  - **Jack Elston operational continuity:** 9.2 hrs (KS Paperwork, General Operations, S3 Payload Updates, Wind Processing Review)—dual role: admin lead + technical guidance
-  - **Ethan Domagala focused technical delivery:** 8.0 hrs 100% S3 Gimbal Integration—sustained IRAD technical contribution
+  - **Nate expanded technical load:** 7.8 hrs (Jun 12-13) split between S3 IRAD and Hurricane IDIQ—sustained multi-program execution
+  - **Ethan Domagala S3 focus:** 8.0 hrs 100% S3 Gimbal Integration—continued IRAD technical delivery
+  - **Beck Cotter overhead balance:** 8.0 hrs (General Operations + Proposals)—proposal cycle engagement maintained
+  - **Paige Smith marketing push:** 7.2 hrs (100% Marketing)—elevated from 5.8 hrs in prior period
+  - **Spencer Hoehl operational contributor:** 4.9 hrs split across General Operations (2 entries), Hurricane IDIQ (2 entries), Flight Testing (1 entry)—diversified across multiple programs
 
 ## Project Portfolio
 
 ### Top Projects by Hours (Ranked)
-1. **Project None:** 8,646.0 hours (25.56%) — *unallocated/overhead; ↑ 8.5 hrs untracked*
-2. **Project 183171534:** 4,535.8 hours (13.43%)
-3. **[301-2] SBIR - Hurricane Phase II+ (NOAA):** 3,283.3 hours (9.72%)
-4. **[200-12] Aeropods (NASA):** 1,972.1 hours (5.84%)
-5. **[001-13] Corporate/Strategic Planning & Overhead:** 1,862.5 hours (5.51%) — *↑ 27.6 hrs (19.0 ops + 8.5 proposals + 5.8 marketing + 2.1 BD)*
-6. **[001-04] S0 VTOL IRAD:** 1,348.7 hours (3.99%)
-7. **[200-7] SBIR - Volcano CCRPP:** 1,248.1 hours (3.69%)
-8. **[400-5] SBIR - Soil Moisture Mapping (Air Force):** 1,006.2 hours (2.98%)
-9. **[001-08] Flight Testing IRAD:** 936.6 hours (2.77%)
-10. **[001-16] SwiftStation IRAD:** 901.3 hours (2.67%)
-11. **[001-14] SwiftCore 3.3 IRAD:** 789.4 hours (2.34%)
-12. **[001-07] S3 IRAD:** 292.8 hours (0.867%) — *↑ 14.2 hrs (gimbal integration + payload updates + multi-team contribution)*
-13. **[300-3] 2026 IDIQ (Hurricane):** 72.5 hours (0.215%) — *↑ 14.0 hrs (strong expansion; primary focus Jun 11-12)*
-14. **[550-2] Navy STTR: Hazardous Weather:** 34.9 hours (0.103%)
-15. **[550-1] Navy SBIR: Magnetometer:** 56.2 hours (0.167%)
-16. **[001-03] S0-AD IRAD:** 271.1 hours (0.803%)
+1. **Project None:** 8,646.0 hours (25.54%) — *unallocated/overhead (unchanged)*
+2. **Project 183171534:** 4,535.8 hours (13.39%)
+3. **[301-2] SBIR - Hurricane Phase II+ (NOAA):** 3,283.3 hours (9.69%)
+4. **[200-12] Aeropods (NASA):** 1,972.1 hours (5.82%)
+5. **[001-13] Corporate/Strategic Planning & Overhead:** 1,889.8 hours (5.58%) — *↑ 27.3 hrs (5.3 ops + 7.2 marketing + 4.0 proposals + overhead)*
+6. **[001-04] S0 VTOL IRAD:** 1,348.7 hours (3.98%)
+7. **[200-7] SBIR - Volcano CCRPP:** 1,248.1 hours (3.68%)
+8. **[001-07] S3 IRAD:** 304.3 hours (0.898%) — *↑ 11.5 hrs (gimbal integration + multi-team contribution)*
+9. **[400-5] SBIR - Soil Moisture Mapping (Air Force):** 1,006.2 hours (2.97%)
+10. **[001-08] Flight Testing IRAD:** 938.1 hours (2.77%) — *↑ 1.5 hrs*
+11. **[001-16] SwiftStation IRAD:** 901.3 hours (2.66%)
+12. **[001-14] SwiftCore 3.3 IRAD:** 789.4 hours (2.33%)
+13. **[300-3] 2026 IDIQ (Hurricane):** 78.8 hours (0.233%) — *↑ 6.3 hrs (continued expansion)*
+14. **[550-2] Navy STTR: Hazardous Weather:** 40.9 hours (0.121%) — *↑ 6.0 hrs (new engagement period)*
+15. **[001-03] S0-AD IRAD:** 271.1 hours (0.800%)
+16. **[550-1] Navy SBIR: Magnetometer:** 56.2 hours (0.166%)
 
 ### Client Distribution
-- **IRAD (Internal R&D):** ~6,933.2 hours (20.52%) — *↑ 14.2 hrs S3 IRAD*
-- **Overhead/Corporate/Operations/Marketing/BD/Proposals:** 1,862.5 hours (5.51%) — *↑ 27.6 hrs*
-- **NOAA:** 3,555.8 hours (10.53%) — *↑ 14.0 hrs IDIQ (Hurricane)*
-- **NASA:** 2,058.8 hours (6.10%)
-- **Department of Air Force:** 1,258.5 hours (3.73%)
-- **Navy (SBIR/STTR):** 91.1 hours (0.27%)
+- **IRAD (Internal R&D):** ~6,952.4 hours (20.53%) — *↑ 11.5 hrs S3 IRAD, ↑ 1.5 hrs Flight Testing*
+- **Overhead/Corporate/Operations/Marketing/BD/Proposals:** 1,889.8 hours (5.58%) — *↑ 27.3 hrs*
+- **NOAA:** 3,362.1 hours (9.93%) — *↑ 6.3 hrs IDIQ (Hurricane)*
+- **NASA:** 2,058.8 hours (6.08%)
+- **Department of Air Force:** 1,258.5 hours (3.72%)
+- **Navy (SBIR/STTR):** 97.1 hours (0.29%) — *↑ 6.0 hrs STTR Hazardous Weather*
 - **University of Maryland Eastern Shore (INSTAAR S3):** 15.9 hours (0.047%)
-- **Unallocated:** 8,646.0 hours (25.60%)
+- **Unallocated:** 8,646.0 hours (25.54%)
 - **PTO:** 64.0 hours (0.19%)
 - **Other:** ~159.5 hours (0.47%)
 
 ## Patterns & Insights
 
-### Current Activity Status (Jun 11-12)
-- **Team Composition:** 9 active contributors—operational roster expanded; Spencer Hoehl elevated from minimal contributor (13.0 hrs lifetime) to active bench (7.5 hrs in 2-day period)
-- **Overhead Intensity:** 27.6 hrs (38.2% of tracked time)—sustained administrative/business cycle with proposal execution and marketing activity concurrent
-- **Hurricane IDIQ Acceleration:** 14.0 hrs (19.4%) across 3 contributors (Nate, Spencer, Jack)—customer deliverable momentum increase; indicates upcoming milestone or contractual acceleration
-- **S3 IRAD Expanded Team:** 14.2 hrs distributed across
+### Current Activity Status (Jun 12-13)
+- **Team Composition:** 6 active contributors (down from 9 in prior 2-day window)—reflects normal operational rhythm with lighter end-of-week tracking
+- **Overhead Intensity:** 16.5 hrs (39.4% of tracked time)—proposal and marketing cycle maintains elevated administrative workload
+- **S3 IRAD Technical Hub:** 11.5 hrs (27.5%)—Ethan + Nate coordination; gimbal integration remains primary technical focus
+- **Hurricane IDIQ Customer Focus:** 6.3 hrs across Nate + Spencer—sustained deliverable momentum toward contractual milestones
+- **Navy STTR Activation:** 6.0 hrs (Stachura)—new engagement period; indicates active customer work or proposal transition to delivery
+- **Diversified Portfolio:** 7 active projects demonstrates multi-program execution capability; no single customer dominates (excluding unallocated)
