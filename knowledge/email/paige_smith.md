@@ -1,13 +1,14 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,511 (2,472 previous + 39 new from Jun 12-13, 2026)
-- **Date range:** March 24 – June 13, 2026 (81 days)
+- **Total messages scanned:** 2,525 (2,511 previous + 14 new from Jun 13-14, 2026)
+- **Date range:** March 24 – June 14, 2026 (82 days)
 - **Approximate volume:** ~31 messages per day (sustained consistency)
-- **Pattern update (Jun 12-13, 2026):** **POST-DEAL ACTIVITY + INTELLIGENCE CONSUMPTION**
-  - **~82% automation/newsletters/tool notifications** (32 of 39 new messages)
-  - **~18% direct human/business correspondence** (7 of 39 messages — **NOAA S0 APPLICATION with Terence Gannon/BluFly Media, Krateo Sky coordination (draft), internal routing**)
-  - **CRITICAL SIGNAL: Sustained geopolitical/defense intelligence monitoring** (Mitchell Institute D-Day/Space Conflict report, A&SF Daily Report on drone combatant command, SpaceX/trillionaire tracking, Epirus monitoring)
+- **Pattern update (Jun 13-14, 2026):** **WEEKEND INTELLIGENCE & NEWS CONSUMPTION**
+  - **~93% automation/newsletters/media/tool notifications** (13 of 14 messages)
+  - **~7% direct professional correspondence** (1 of 14 messages — Ed Kase LinkedIn comment notification)
+  - **SIGNAL: Heavy personal news/media consumption on weekend** (NYT breaking news, Editor Picks, Morning Briefing; The Athletic; Inside Climate News; LinkedIn News; Mitchell Institute aerospace analysis)
+  - **NO ACTIVE BUSINESS CORRESPONDENCE** on Jun 13-14 — suggests focused work window closed after Jun 12 NOAA S0/Krateo Sky activity
 
 ---
 
@@ -17,93 +18,111 @@
 
 - **Jack Elston** (elstonj@blackswifttech.com, media@blackswifttech.com) — **BUSINESS DEVELOPMENT & MEDIA STRATEGY** [Continues as primary internal contact; UAS VISION daily news routing to Jack's media account]
 
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — **SALES/ACCOUNT MANAGEMENT** [**NEWLY ACTIVE IN THIS BATCH**]
-  - **Jun 12, 09:23 UTC**: Beck forwards "Fwd: Question re. NOAA Application of S0" to Paige (marked IMPORTANT)
-  - **Jun 12, 10:11 UTC**: Paige responds to Beck on same thread (marked SENT)
-  - **Jun 12, 10:14 UTC**: Beck forwards same inquiry to info@blackswifttech.com (marked IMPORTANT)
-  - **SIGNAL**: Beck is **routing external inquiry up to Paige for response**; indicates **Paige has subject-matter authority on NOAA S0 applications**
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — **SALES/ACCOUNT MANAGEMENT** [Active Jun 12; no new activity in this batch]
 
 ### Top External Senders & Vendors
 
-#### **NOAA S0 APPLICATION / REGULATORY INQUIRY (NEW PRIORITY)**
+#### **NOAA S0 APPLICATION / REGULATORY INQUIRY (ACTIVE)**
 
-1. **Terence Gannon** (terryg@blufly.media) — **BluFly Media / REGULATORY CORRESPONDENT** [**NEWLY PROMINENT**]
-   - **Jun 12, 07:07 UTC**: Terence sends "Question re. NOAA Application of S0" to info@blackswifttech.com
-   - **Jun 12, 10:28 UTC**: **Paige SENT to Terence: "Re: Question re. NOAA Application of S0"** — **Direct response from Paige**
-   - **Jun 12, 10:29 UTC**: Terence receives Paige's response
-   - **Jun 12, 12:18 UTC**: Terence to Paige: "Re: Question re. NOAA Application of S0" (marked IMPORTANT) — **Follow-up question**
-   - **Jun 12, 12:59 UTC**: **Paige DRAFT to Terence: "Re: Question re. NOAA Application of S0"** (marked DRAFT — unsent)
-   - **INTELLIGENCE**: Terence/BluFly Media is **external regulatory/compliance contact**; S0 likely refers to **NOAA drone/maritime surveillance application**; Paige is **primary technical correspondent** on this inquiry; draft response suggests **complex/sensitive regulatory matter still being formulated**
+1. **Terence Gannon** (terryg@blufly.media) — **BluFly Media / REGULATORY CORRESPONDENT**
+   - Last activity: Jun 12, 12:18 UTC (marked IMPORTANT) — follow-up question on NOAA S0; Paige draft response pending
+   - **STATUS**: Active inquiry; awaiting Paige's formulated response
 
-#### **KRATEO SKY × BST (CONTINUATION)**
+#### **KRATEO SKY × BST (ACTIVE)**
 
-2. **Sona Raziabeegum** (sona@krateosky.com) — **KRATEO SKY** [Continues from previous batch]
-   - **Jun 12, 12:59 UTC**: **Paige DRAFT to Sona (marked DRAFT — unsent)** — **Composition in progress, subject line missing**
-   - **SIGNAL**: Post-deal activity; likely finalizing logistics or follow-up documentation
+2. **Sona Raziabeegum** (sona@krateosky.com) — **KRATEO SKY**
+   - Last activity: Jun 12, 12:59 UTC (Paige draft message unsent)
+   - **STATUS**: Post-deal coordination; draft pending completion
 
 #### **MEDIA & VENDOR ROUTING**
 
-3. **UAS VISION** (russ@uasvision.com) — **DRONE INDUSTRY DAILY NEWS** [**NEW**]
-   - **Jun 12, 09:07 UTC**: "DAILY NEWS" routed to Jack/media@blackswifttech.com
-   - **SIGNAL**: Industry newsletter subscription; routed through Jack's media channel, not Paige directly
+3. **Aveo Engineering Group** (newsletter@aveoengineering.com) — **ENGINEERING INNOVATION VENDOR** [**NEW IN THIS BATCH**]
+   - **Jun 14, 07:44 UTC**: "Aveo at EUROSATORY 2026 - Come to see us!💡" routed to info@blackswifttech.com (marked UNREAD)
+   - **SIGNAL**: Continued vendor monitoring; EUROSATORY is Europe's largest defense/security trade show; newsletter routing suggests ongoing technical interest
 
 ---
 
 ## Topic Patterns
 
-### Emerging Themes (Jun 12-13)
+### Recurring Intelligence & News Themes (Jun 13-14)
 
-#### **High-Priority Business Topics**
-- **NOAA S0 Application** — regulatory/compliance inquiry from external media contact (BluFly Media); Paige is primary technical correspondent
-- **Krateo Sky** — ongoing coordination (draft message to Sona Jun 12)
+#### **Defense & Aerospace Analysis** (Sustained Priority)
+- **Mitchell Institute**: "Allied Airpower Perspectives: Brig Gen Pierre Gaudillière, Commander of the French Air Combat Command - Aerospace Advantage 294" (Jun 13, marked IMPORTANT)
+  - **SIGNAL**: Strategic-level foreign military command intelligence; marks continued focus on allied defense posture
 
-#### **Intelligence & Geopolitical Monitoring** (Sustained)
-- **Space conflict/defense strategy**: Mitchell Institute "Conflict in Space Report + Lessons from D-Day" (Jun 12, marked IMPORTANT)
-- **Drone policy**: A&SF Daily Report "Lawmakers Pitch a Combatant Command for Drones" (Jun 12, marked IMPORTANT)
-- **Defense contracting**: Epirus company monitoring (LinkedIn updates)
-- **SpaceX/Commercial space**: "SpaceX's trillionaire-making debut" tracking (Jun 12)
+#### **General News & Current Events Consumption**
+- **The New York Times** (6 emails, all Jun 13):
+  - Breaking news: Kennedy Center Trump name removal
+  - Morning Briefing: "Unfinished business" (marked IMPORTANT)
+  - Editor Picks: A.I. actress controversy, summer TV guide, sports analysis (Paraguay/World Cup)
+- **The Athletic**: "USMNT's stunning start" (Jun 13, marked IMPORTANT) — sports coverage
+- **Inside Climate News**: "Why an activist from Texas crossed the world to confront Asia's biggest petrochemical company" (Jun 13) — environmental/corporate accountability angle
+- **LinkedIn News**: "Comms pros take the C-suite" (Jun 13) — communications/leadership trend piece
 
-#### **Industry Intelligence & Vendor Monitoring**
-- **Portable power for UAS**: Dace Spandega/Perkons Energy "Nomad 3600" routed to sales@, info@
-- **Engineering innovation**: Aveo Engineering Group newsletter ("Let There Be Light. Everywhere")
+#### **Promotional/Commercial (Low Priority)**
+- **Staples**: Generic promotional ("Your search is over")
+- **WPBeginner**: WordPress security newsletter (spam/low-signal)
 
 #### **LinkedIn Professional Activity**
-- **Network intelligence**: Tim Cahill (Raytheon Missiles and Fire Control) flagged as "popular in your network" (Jun 12, marked IMPORTANT)
-- **Connection suggestions**: Ryan Stango, Dylan Anderson (marked IMPORTANT)
-- **Industrial Design RFP**: "Eres Portman and other clients are available. Show Requests" — potential project leads
-
-#### **Publication & News Consumption**
-- **The New York Times** (7 emails): Breaking news alerts, editor picks, morning briefing (trillionaire story, health research, David Hockney obituary)
-- **The Athletic**: American soccer coverage
-- **LinkedIn News**: SpaceX story, industry posts
+- **Ed Kase**: Comment notification on "City of Loveland Economic Development" post (Jun 14) — **NEW ENGAGEMENT SIGNAL**
+  - Suggests Paige is monitoring/engaging with local economic development topics
+- **Profile analytics**: "Your profile is popular - 12 search appearances" (Jun 13)
 
 ---
 
 ## Communication Patterns
 
-### Time & Frequency (Jun 12-13)
-- **Heaviest activity: Jun 12** (36 of 39 messages)
-- **Email distribution across UTC/PDT time zones** consistent with previous pattern (7:00 AM - 11:00 PM PDT / 14:00 - 06:00 UTC)
-- **Drafts created mid-workday** (12:59 PM PDT on Jun 12 — NOAA S0 response to Terence, Krateo Sky message to Sona)
+### Time & Frequency (Jun 13-14)
+- **Activity concentrated on Jun 13** (12 of 14 messages)
+- **Weekend messaging pattern** (Saturday evening through Sunday morning)
+- **Distributed across UTC/PDT time zones** (02:21 - 21:49 UTC)
+- **NO DRAFTS IN THIS BATCH** — suggests completion of Jun 12 pending items, or still pending off-email
 
 ### Message Classifications
-- **"IMPORTANT" flagged**: 17 of 39 messages (~44%)
-  - LinkedIn profile views, connection suggestions, job listings
-  - Geopolitical/defense intelligence (Mitchell Institute, A&SF Daily, Terence Gannon regulatory inquiry)
-  - Industry analysis (Volcano Innovation Summit, Geo Week)
-  - News alerts (NYT Morning, Athletic Pulse)
-- **"UNREAD" marked**: 33 of 39 messages (~85%) — indicates **high volume → selective reading**
+- **"IMPORTANT" flagged:** 4 of 14 messages (~29%)
+  - Mitchell Institute aerospace intelligence
+  - The Athletic sports coverage (USMNT World Cup)
+  - NYT Morning Briefing
+  - LinkedIn profile analytics
+- **"UNREAD" marked:** 13 of 14 messages (~93%) — **WEEKEND BACKLOG** (typical news/social consumption pattern)
 
-### Mailing Lists & Automation
-- **LinkedIn** (14 emails): Messages, notifications, jobs listings, news, updates
-- **The New York Times** (5 emails): Breaking news, editor picks, direct editions
-- **Google Ads** (3 emails): Policy updates, performance suggestions, surveys
-- **Internal tools**: Asana (task due reminders), Rippling (HR/admin tasks)
-- **Vendor/newsletter routing to info@, sales@, media@**: Perkons Energy, Aveo Engineering, UAS VISION
+### Mailing Lists & Automation (Updated)
+- **The New York Times** (6 emails Jun 13): Breaking news, Editor Picks (2), Morning Briefing, Direct edition
+  - **Signal**: Multiple NYT subscription tiers; breaking news + curated editorial + morning briefing coverage
+- **LinkedIn** (2 emails): Notifications (comment activity), news (comms/C-suite trend), profile views
+- **The Athletic** (1 email): Sports news subscription
+- **Inside Climate News** (1 email): Environmental/corporate newsletter
+- **Mitchell Institute** (1 email): Defense/aerospace strategy analysis
+- **Aveo Engineering** (1 email): Vendor/conference notification (routed to info@)
+- **Promotional/spam** (2 emails): Staples, WPBeginner (low engagement signal)
 
 ---
 
 ## Key Relationships
 
 ### Closest Active Collaborators
-1. **Terence Gannon** (BluFly Media) — **HIGH PRIORITY, REGULATORY SCOPE** — Direct technical correspondence on NOAA S0 applications; Paige is subject-matter expert; marked
+1. **Terence Gannon** (BluFly Media) — **HIGH PRIORITY, REGULATORY SCOPE** — Direct technical correspondence on NOAA S0 applications; Paige is subject-matter expert; draft response pending completion
+
+2. **Sona Raziabeegum** (Krateo Sky) — **ACTIVE POST-DEAL COORDINATION** — Draft message pending (Jun 12); likely finalizing logistics/follow-up
+
+3. **Jack Elston** (Internal) — **MEDIA & BUSINESS DEVELOPMENT** — Continues as primary internal contact; vendor routing coordination
+
+4. **Beck Cotter** (Internal) — **SALES ROUTING** — Acts as intermediary for external compliance inquiries; routes to Paige for SME response
+
+### External Intelligence Connections
+- **Mitchell Institute / Air Force Association** — Sustained geopolitical/defense strategy monitoring (aerospace, allied command structures)
+- **Inside Climate News** — Environmental/corporate accountability tracking
+- **LinkedIn network**: Ed Kase engagement suggests involvement in local/regional economic development discussions
+
+---
+
+## Notable Observations
+
+### Work/Life Pattern Signal
+- **Jun 12**: High-volume business activity (36 emails, mixed automation + critical business correspondence on NOAA S0 & Krateo Sky)
+- **Jun 13-14**: Shift to weekend news/intelligence consumption (13 of 14 emails are newsletters/news, 93% unread)
+  - **Interpretation**: Weekend reading/briefing mode; suggests work closure on Jun 12 regulatory/vendor items
+
+### Pending Items (Carried Forward)
+- **NOAA S0 application follow-up**: Paige's draft response to Terence Gannon (Jun 12, 12:59 UTC, marked DRAFT) — still awaiting transmission or formal response
+- **Krateo Sky coordination**: Paige's draft to Sona (Jun 12, 12:59 UTC, marked DRAFT) —

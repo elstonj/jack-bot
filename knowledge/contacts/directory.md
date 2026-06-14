@@ -109,7 +109,7 @@
 - **Service Accounts:** 2
 
 **Verification Status:**
-- All 18 directory entries verified and confirmed across both existing knowledge file and new raw data
+- All 18 directory entries verified and confirmed across existing knowledge file and new raw data
 - All phone numbers normalized to consistent dash-separated format (e.g., 720-933-4503)
 - No changes detected — all data remains consistent and complete
 - No new hires, departures, or role changes identified in this sync

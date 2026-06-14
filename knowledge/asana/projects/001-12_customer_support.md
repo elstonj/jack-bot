@@ -9,7 +9,7 @@
 - **Risk signals:**
   - **S3 design freeze missed** — May 2026 target now overdue; Maciej's "immediate due dates" for S3 did not materialize into captured Asana tasks
   - **Design task ownership explicitly disputed** — Joshua Fromm, 2026-06-01: "I have no records of being tasked with customer documentation on the s3" (overrides Maciej's April 30 task requests)
-  - **S3 customer delivery now active without documented tasks** — Commercial-sales stub created 2026-06-01 for "2 S3 units with standard equipment" for INSTAAR; ship date and invoice undefined; no delivery owner assigned
+  - **S3 customer delivery now active without documented tasks** — Commercial-sales stub created 2026-06-01 by Joshua Fromm for "2 S3 units with standard equipment" for INSTAAR; ship date and invoice undefined; no delivery owner assigned
   - **Asana task list completely empty** — 0 open, 0 completed tasks visible despite multi-phase active project and overdue S3 milestone
   - **CU-IRISS S2 training flight coordination pending** — S2 repair completed; training flight scheduling and NSF MUSAS certification update still in progress
 
@@ -19,7 +19,7 @@
 - **CU-IRISS S2 repair/update** — **COMPLETED 2026-05-13** — Nate Straus; S2 returned to shop and repair finished
 - **S3 first customer build (OVERDUE DESIGN PHASE)** — Target: End of May 2026 design freeze **[MISSED as of 2026-06-01]**
   - Design tasks: Battery, case, and other components (scope unclear; ownership disputed by Joshua Fromm, 2026-06-01)
-  - Customer delivery: 2 S3 units with standard equipment for INSTAAR (commercial-sales stub created 2026-06-01; ship date, invoice, and delivery owner undefined)
+  - Customer delivery: 2 S3 units with standard equipment for INSTAAR (commercial-sales stub created 2026-06-01 by Joshua Fromm; ship date, invoice, and delivery owner undefined)
 - **CU-IRISS training flight & NSF MUSAS certification** — **IN PROGRESS** — Contingent on training flight scheduling; Brian Argrow to update NSF MUSAS website post-training
 
 ## Task Summary
@@ -27,7 +27,7 @@
 - **Current assignees:** 
   - Nate Straus (project owner, CU-IRISS repair/training)
   - Maciej Stachura (S3 build coordination — April 30 task request stalled)
-  - Joshua Fromm (S3 design lead — assignment explicitly disputed, 2026-06-01)
+  - Joshua Fromm (S3 design/customer documentation — assignment explicitly disputed, 2026-06-01)
   - Meredith O'hara Needham (CU INSTAAR S2 repair/deployment)
   - Jack Elston (role TBD)
 - **Notable patterns:**
@@ -41,8 +41,8 @@
 
 ## Recent Activity
 **[2026-06-01] Joshua Fromm (AUTHORITATIVE FEEDBACK — overrides Maciej's April 30 task requests):** 
+- Created commercial-sales stub for "2 S3 units with standard equipment" (INSTAAR customer); `ship_by` date empty; invoice pending
 - Explicitly disputes S3 customer documentation assignment: "I have no records of being tasked with customer documentation on the s3"
-- Commercial-sales stub created for "2 S3 units with standard equipment" (INSTAAR customer); ship_by date empty; invoice pending
 
 **Critical gap:** Maciej Stachura's 2026-04-30 request for Josh to add S3 design tasks by end of May did not result in captured Asana work items. Josh's 2026-06-01 response indicates misalignment or rejection of task assignments.
 
@@ -51,9 +51,9 @@
 ## Notes & Context
 **URGENT CLARIFICATION NEEDED (2026-06-01 feedback overrides earlier April 30 plan):**
 
-1. **S3 design phase ownership & scope — TASK ASSIGNMENT EXPLICITLY DISPUTED** — Joshua Fromm (2026-06-01): "I have no records of being tasked with customer documentation on the s3." Maciej's April 30 request for design task capture did not convert to Asana work items. **Immediate action:** Sync between Maciej, Joshua Fromm, and Nate Straus to clarify who owns design/documentation tasks and establish Asana task structure. Joshua Fromm's statement is authoritative; tasks cannot proceed based on assumption of his assignment.
+1. **S3 design phase ownership & scope — TASK ASSIGNMENT EXPLICITLY DISPUTED** — Joshua Fromm (2026-06-01): "I have no records of being tasked with customer documentation on the s3." Maciej's April 30 request for design task capture did not convert to Asana work items. **Immediate action:** Sync between Maciej, Joshua Fromm, and Nate Straus to clarify who owns design/documentation tasks and establish Asana task structure. Joshua Fromm's 2026-06-01 statement is authoritative; tasks cannot proceed based on assumption of his assignment.
 
-2. **S3 customer delivery now active without documented owner or timeline** — Commercial-sales stub created 2026-06-01 for 2 INSTAAR units; ship date, invoice, and delivery owner undefined. **Immediate action:** Create customer delivery tasks, assign owner, and coordinate handoff from design/build to sales/fulfillment.
+2. **S3 customer delivery now active without documented owner or timeline** — Joshua Fromm created commercial-sales stub 2026-06-01 for 2 INSTAAR units; ship date, invoice, and delivery owner undefined. **Immediate action:** Create customer delivery tasks, assign owner, and coordinate handoff from design/build to sales/fulfillment.
 
 3. **May 2026 design freeze missed** — Maciej's "immediate due dates" did not prevent miss. **Root-cause analysis needed:** Why did April 30 task requests not convert to Asana work items or documented commitments?
 
@@ -62,6 +62,6 @@
 **Key contacts:**
 - **Nate Straus** — [001-12] project owner; CU-IRISS repair/training owner
 - **Maciej Stachura** — S3 build coordination & project tracking owner (April 30 task requests stalled)
-- **Joshua Fromm** — S3 design/customer documentation (assignment explicitly disputed via team feedback, 2026-06-01); Area-I turbulence probe delivery lead
+- **Joshua Fromm** — S3 design/customer documentation (assignment explicitly disputed via team feedback, 2026-06-01); Area-I turbulence probe delivery lead; commercial-sales stub creator for S3 INSTAAR delivery
 - **Meredith O'hara Needham** — CU INSTAAR S2 repair/deployment lead
-- **Brian Argrow (CU-IRISS, brian.argrow@colorado.edu)** — Customer contact; training flight pending; NSF MUSAS certification update pending post-
+-

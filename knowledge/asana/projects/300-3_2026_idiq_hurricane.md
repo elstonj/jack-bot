@@ -13,30 +13,31 @@
   - Critical hardware ship date: May 27, 2026 (passed; hardware shipped early 5/19/26)
 - **Status:** **🔴 ACTIVE — CRITICAL URGENCY, MULTIPLE BLOCKING ISSUES OVERDUE/DUE IMMEDIATELY (as of 6/5/26).** Hardware milestones delivered early (2 SHOW s0's and tripods shipped 5/19/26). Field season imminent.
   - **BLOCKING ISSUES (6/4–6/5/26):**
-    1. **Firmware finalization (Jack Elston) — OVERDUE as of 6/4/26** — gating Invoice 4 ($72k, due 6/5/26)
-    2. **QC board validation (Sam Hild) — DUE 6/5/26** — critical path for hardware release
-    3. **Gateworks boards sourcing (Josh Fromm) — UNRESOLVED** — Josh requesting confirmation (5/28, 5/29/26); **no response documented; status UNKNOWN**
-    4. **Communication continuity:** Nick Pawlenko transitioned to UxSOC HQ effective 5/29/26. **NOAA backup contact protocol incomplete** — project note from 5/29/26 indicates full contact list was being drafted but transmission was truncated mid-sentence; BST has **NOT YET received complete backup contacts from NOAA/UASD**
+    1. **Firmware finalization (Jack Elston) — OVERDUE as of 6/4/26** — deployment tube firmware due 6/4/26 (now past due); AP & PSNS firmware due 6/26/26. Gating Invoice 4 ($72k, due 6/5/26) and hardware release.
+    2. **QC board validation (Sam Hild) — DUE 6/5/26** — deployment tube board QC critical path for hardware release. Begin kit assembly due 6/19/26.
+    3. **Gateworks boards sourcing (Josh Fromm) — UNRESOLVED** — Josh requested confirmation 5/28 & 5/29/26. **No documented response from Meredith or procurement.** Status UNKNOWN. Blocks GCS assembly (due 7/1/26).
+    4. **Communication continuity:** Nick Pawlenko transitioned to UxSOC HQ effective 5/29/26. **NOAA backup contact protocol INCOMPLETE** — project note from 5/29/26 indicates full contact list was being drafted but transmission was truncated mid-sentence. BST has **NOT YET received complete backup contacts from NOAA/UASD.**
 - **Team Members:** 
   - Meredith O'hara Needham (project owner, shipments, invoice submissions)
-  - Jack Elston (firmware/software) — **CRITICAL PATH, OVERDUE (6/4/26)**
-  - Sam Hild (QC, hardware validation, kit assembly) — **CRITICAL PATH, DUE 6/5/26**
+  - Jack Elston (firmware/software) — **CRITICAL PATH, DEPLOYMENT TUBE FIRMWARE OVERDUE (6/4/26); AP & PSNS DUE 6/26/26**
+  - Sam Hild (QC, hardware validation, kit assembly) — **CRITICAL PATH, DEPLOYMENT TUBE QC DUE 6/5/26; KIT ASSEMBLY DUE 6/19/26**
   - Nate Straus (platform rebuild/validation, s0 builds, servo assembly, linkage construction, power switches)
   - Maciej Stachura (platform validation/testing, magnetic calibration, parameter file validation, failure analysis)
   - Alex Lomis (strategic partnerships, NASA opportunities)
-  - Josh Fromm (GCS assembly, long-lead parts, Gateworks board sourcing) — **URGENT: requesting board status 5/28–5/29/26; no confirmation received**
-  - Ben Busby (web-based controller development)
-  - Nick Pawlenko (UxSOC liaison — **transitioned 5/29/26; reduced availability; backup protocol pending**)
+  - Josh Fromm (GCS assembly, long-lead parts, Gateworks board sourcing) — **URGENT: requested board status 5/28–5/29/26; no documented response; GCS build due 7/1/26**
+  - Ben Busby (web-based controller development) — due 7/31/26
+  - Nick Pawlenko (UxSOC liaison — **transitioned 5/29/26; reduced availability; backup protocol PENDING**)
 - **Risk Signals:** 
-  - 🔴 **CRITICAL/OVERDUE:** Firmware (Jack Elston) due 6/4/26 — **NOW OVERDUE; STATUS UNKNOWN.** Blocks Invoice 4 ($72k), hardware release, and 25-unit production schedule.
+  - 🔴 **CRITICAL/OVERDUE:** Deployment tube firmware (Jack Elston) due 6/4/26 — **NOW OVERDUE; STATUS UNKNOWN.** Blocks Invoice 4 ($72k), hardware release, and production schedule. AP & PSNS firmware due 6/26/26.
   - 🔴 **CRITICAL/DUE 6/5/26:** Deployment tube board QC (Sam Hild) — blocks Invoice 4 submission and hardware release.
-  - 🔴 **CRITICAL/DUE 6/5/26:** Invoice 4 ($72k) — blocked on firmware and QC completion.
-  - 🔴 **UNRESOLVED/URGENT:** Gateworks boards for 2 S0 ground stations ($16k DO) — Josh Fromm requested confirmation 5/28 and 5/29/26. **NO DOCUMENTED RESPONSE.** GCS build due 7/1/26; field season imminent.
-  - ⚠️ **UNASSIGNED:** 25 additional S0 units (24 season + 4 sasqwatch + 1 2025 carryover + 1 refurb) due 7/31/26 — no build schedule; firmware and QC dependencies not cleared.
-  - ⚠️ **Web-based controller (Ben Busby) due 7/31/26** — no visible progress.
-  - ⚠️ **Operator Training due 7/31/26** — unassigned; depends on firmware, web controller, hardware.
-  - ⚠️ **Communication risk:** Nick's transition may disrupt scheduling, foreign national clearances, flight planning. **Backup contact protocol not yet received from NOAA/UASD** (5/29/26 note truncated).
-  - ⚠️ **Failure investigation overdue:** S0-70 rollover during CAT (4/9/26) — due 5/8/26, **now overdue; status unknown.** May indicate airframe/sensor scaling issues affecting fleet.
+  - 🔴 **CRITICAL/DUE 6/5/26:** Invoice 4 ($72k) — blocked on firmware and QC completion. **Meredith cannot submit without passing these gates.**
+  - 🔴 **UNRESOLVED/URGENT:** Gateworks boards for 2 S0 ground stations ($16k DO) — Josh Fromm requested confirmation **5/28 & 5/29/26. NO DOCUMENTED RESPONSE.** GCS build due 7/1/26 (26 days away); field season imminent. **Meredith or procurement must confirm order status immediately.**
+  - ⚠️ **PRODUCTION SCHEDULE UNDEFINED:** 25 additional S0 units (24 season + 4 sasqwatch + 1 2025 carryover + 1 refurb) due 7/31/26 — most tasks unassigned; no build schedule documented; firmware and QC dependencies not cleared. Kit assembly (Sam Hild) due 6/19/26 is first production gate.
+  - ⚠️ **Overdue task:** S0-70 rollover investigation (Maciej Stachura) due 5/8/26 — **now overdue.** May indicate airframe/sensor scaling issues affecting fleet. Related: "S0 acc scaling is 8m/s/s" task (Jack Elston) unscheduled — may be root cause or follow-up.
+  - ⚠️ **Web-based controller (Ben Busby) due 7/31/26** — no visible progress; delivery date critical for operator training.
+  - ⚠️ **Operator Training due 7/31/26** — unassigned; depends on firmware, web controller, and hardware validation.
+  - ⚠️ **Communication risk:** Nick's 5/29/26 transition may disrupt scheduling, foreign national clearances, flight planning. **Backup contact protocol from NOAA/UASD NOT YET RECEIVED** — note was truncated mid-sentence; BST must request completion immediately.
+  - ⚠️ **Power switches overdue:** "Build 5 power switches with short pcb" (Nate Straus) due 5/21/26 — now overdue; dependency unclear but may block kit assembly.
 
 ## Key Deliverables & Milestones
 
@@ -49,18 +50,7 @@
 | 2 of 6 | $54,000 | 2026-04-14 | ✅ Completed |
 | Travel | $18,000 | 2026-04-15 | ✅ Completed |
 | 3 of 6 | $54,000 | 2026-05-04 | ✅ Completed (5/1 — 3 days early) |
-| **4 of 6** | **$72,000** | **2026-06-05** | 🔴 **CRITICAL — DUE TODAY; blocked on overdue firmware & QC** |
+| **4 of 6** | **$72,000** | **2026-06-05** | 🔴 **CRITICAL — DUE TODAY/OVERDUE; blocked on overdue firmware & QC** |
 | 5 of 6 | $72,000 | 2026-07-02 | ⏳ Upcoming |
 | 6 of 6 | $72,000 | 2026-07-31 | ⏳ Final |
-| **Subtotal** | **$483,000** | | |
-| **Ground Stations DO** | **$16,000** | **Approved 5/12/26** | ⚠️ **Sourcing/build status UNCLEAR — Gateworks boards unconfirmed as of 5/29/26** |
-| **TOTAL** | **$499,000** | | |
-
-**Hardware Development Milestones:**
-- ✅ 2 SHOW s0 UAS units and tripods shipped: **5/19/26** (5 days early; deadline 5/27/26)
-- 🔴 Firmware finalization (Jack Elston): **DUE 6/4/26 — OVERDUE**
-- 🔴 Deployment tube board QC (Sam Hild): **DUE 6/5/26**
-- ⏳ 2 S0 ground stations GCS assembly (Josh Fromm): **DUE 7/1/26** — Gateworks boards sourcing status UNKNOWN as of 5/29/26
-- ⏳ 25 additional S0 units production: **DUE 7/31/26** — no build schedule documented
-- ⏳ Web-based controller (Ben Busby): **DUE 7/31/26** — no visible progress
--
+| **

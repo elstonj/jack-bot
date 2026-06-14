@@ -9,9 +9,9 @@
   - Original due date: March 3, 2025
   - Delivery/Freight pickup: March 14, 2025
   - Training completed: August 19, 2025
-- **Status**: ARCHIVED/COMPLETED - All 26 tasks completed, project delivered successfully
+- **Status**: ARCHIVED/COMPLETED — All work delivered and training completed. Project closed successfully.
 - **Team Members**: Nate Straus (primary technician), Meredith O'hara Needham (project manager), Dan Prendergast (training), Ethan Domagala, Josh Fromm
-- **Risk Signals**: None - project completed successfully. Minor delay (11 days after original due date) driven by customer spring weather observation timeline.
+- **Risk Signals**: None — project completed successfully. Minor 11-day delay (pickup March 14 vs. due March 3) driven by customer spring weather observation timeline requirements.
 
 ## Key Deliverables & Milestones
 - **Aircraft Refurbishment**: Complete overhaul of S2 aircraft system ($57,814)
@@ -26,30 +26,30 @@
 
 ## Task Summary
 - **Total Tasks**: 26 completed, 0 open (100% completion rate)
-- **Primary Assignee**: Nate Straus (19 tasks, ~73%) - handled all major technical refurbishment work
+- **Primary Assignee**: Nate Straus (19 tasks, ~73%) — handled all major technical refurbishment work
 - **Secondary Assignees**: 
-  - Ethan Domagala (2 tasks - launcher rail work)
-  - Josh Fromm (1 task - arm inspection)
+  - Ethan Domagala (2 tasks — launcher rail work)
+  - Josh Fromm (1 task — arm inspection)
   - Meredith O'hara Needham (shipping/delivery logistics)
   - Dan Prendergast (operator training)
 - **Pattern**: Comprehensive systematic refurbishment with early component work (Jan), mid-phase system integration (Feb), final QA and delivery logistics (Mar), followed by training delivery
 
 ## Recent Activity
-Project completed in August 2025. Timeline of final activities:
+Project completed in August 2025. Final timeline:
 - **Jan 6, 2025**: Disassembly began; motor replacement, avionics tray replacement, RTK integration, hinge/wiper tape replacement
 - **Jan 23-31, 2025**: Battery cycling validation, component cleaning, fuselage/wing work, connector upgrades, ADS-B installation, launcher control box inspection
 - **Feb 5-28, 2025**: Tablet/handset/GCS battery replacements, case foam replacement, launcher rail inspection and battery replacement, arm inspection
 - **Mar 12, 2025**: Air spring deflection check and swap completed; Remote ID added
 - **Mar 14, 2025**: Aircraft shipped via freight (special double-long pallet arrangement due to launcher rail length; power lift gate and pallet jack required)
 - **Jul 30, 2025**: Operator training conducted at OSU
-- **Aug 19, 2025**: Training completed
+- **Aug 19, 2025**: Training completed; project archived
 
 ## Notes & Context
-- Part of larger potential multi-aircraft order: OST initially requested estimate [1336] for VTOL, S2, and E2 systems but chose to order separately (each purchase as individual PO)
-- Customer priority: March 2025 delivery for spring weather observation season
-- **Shipping logistics**: Aircraft launcher rail is unusually long, requiring double-long pallet (non-standard) with power lift gate and pallet jack operator onsite (BST has no loading dock)
-- **Air spring condition**: Rear air spring rods on Oklahoma unit showed wear concern; swapped with S20009's units (each shaft had damage patterns noted)
+- **Multi-aircraft opportunity**: OSU initially requested estimate [1336] for VTOL, S2, and E2 systems but chose to order separately (each as individual PO). This refurbished S2 was first order; additional systems may follow.
+- **Customer priority**: March 2025 delivery for spring weather observation season
+- **Shipping logistics**: Aircraft launcher rail is unusually long, requiring non-standard double-long pallet with power lift gate and pallet jack operator onsite (BST has no loading dock)
+- **Air spring condition**: Rear air spring rods showed wear; swapped with S20009's units (documented damage patterns on each shaft)
 - **Battery specifications**: GCS battery required JST balance lead 16awg with no connector; sourced from MaxAmps
-- **Case return**: Josh Fromm delivered case on Feb 5, 2025
-- Refurbishment focused on bringing aging S2 to like-new condition with modern avionics upgrades (RTK, ADS-B, Remote ID)
-- Customer type: Commercial
+- **Case logistics**: Josh Fromm delivered case on Feb 5, 2025
+- **Refurbishment scope**: Brought aging S2 to like-new condition with modern avionics upgrades (RTK, ADS-B, Remote ID)
+- **Customer type**: Commercial

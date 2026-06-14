@@ -4,15 +4,16 @@
 - **Client/Customer**: EMASS (Commercial customer)
 - **Dollar Value**: $90,000 total funding to Black Swift Technologies
   - **Revised billing structure** (June 2026): Split final milestone into **Milestone 4a: Engineering support + flights ($25k)** and **Milestone 4b: Final reports ($10k)**; transitioning to **per-flight-day billing** going forward
-  - **Payment friction**: EMASS initially declined to pay final milestone ($35k) due to incomplete final report; restructured agreement reflects customer pushback
-- **Timeline**: Original November 10, 2025 to January 31, 2026; extended through May 2026 for final validation and reporting. **No firm end date currently set.**
+  - **Payment friction**: EMASS declined to pay final milestone ($35k) due to incomplete final report; restructured agreement reflects customer pushback
+- **Timeline**: Original November 10, 2025 to January 31, 2026; extended through May 2026 for validation and reporting. **No firm end date currently set.**
 - **Status**: **🔴 INDEFINITELY POSTPONED — External blocker on EMASS controller delivery.** Per Daniel Prendergast (May 13–14, 2026): "EMASS Validation Flight #2 is postponed indefinitely until they get us a functioning controller." Per Jack Elston (May 12, 2026): "de-prioritize it, but we don't want to drag this out more than a month." **All remaining validation flights and final reporting blocked.**
 - **Team Members**: Dan Prendergast (Owner/Lead), Jack Elston, Maciej Stachura, Nate Straus, Ethan Domagala, Meredith O'hara Needham
 - **Risk Signals**: 
-  - **🔴 CRITICAL: Project indefinitely postponed on external EMASS controller delivery** — Validation Flights #2 and #3 cannot proceed until EMASS delivers functioning controller binary (Daniel Prendergast, May 13–14, 2026). This is outside BST control.
-  - **🔴 CRITICAL: Customer payment friction** — EMASS refused to pay final milestone ($35k) because Validation Flights #2–#3 and final report remain incomplete. New per-flight-day billing model signals reduced confidence in fixed-price delivery (June 2026 correction).
-  - **⚠️ Escalation boundary set**: Jack Elston (May 12, 2026) imposed informal 1-month hold limit (~June 12, 2026) before escalation/re-evaluation. **June 8, 2026 feedback from Maciej suggests no Navy meeting occurred** — possible further delays or schedule slippage.
+  - **🔴 CRITICAL: Project indefinitely postponed on external EMASS controller delivery** — Validation Flights #2 and #3 cannot proceed until EMASS delivers functioning controller binary. This is outside BST control.
+  - **🔴 CRITICAL: Customer payment friction** — EMASS refused to pay final milestone ($35k) because Validation Flights #2–#3 and final report remain incomplete. New per-flight-day billing model signals reduced confidence in fixed-price delivery.
+  - **⚠️ Escalation boundary set**: Jack Elston (May 12, 2026) imposed informal 1-month hold limit (~June 12, 2026) before escalation/re-evaluation.
   - **⚠️ Priority downrank**: Maciej Stachura (April 30, 2026) ranked EMASS as Priority #3 for closure (after S3 IRAD and S0-VTOL), indicating BST focus is shifting elsewhere while awaiting customer action.
+  - **⚠️ Navy meeting no-show** (June 8, 2026): Scheduled Navy meeting at 9:30 AM did not occur per Maciej Stachura — possible further delays or schedule slippage.
 
 ## Key Deliverables & Milestones
 - **Phase 1: Design & Alignment** (Due: Jan 28, 2026) - ✅ Completed
@@ -21,8 +22,8 @@
 - **Phase 4: Validation & Reporting** (Due: Mar 11, 2026) - ✅ Completed
 - **Milestone 4a: Engineering support + flights** ($25k) — **ACTIVE / IN PROGRESS**
   - Validation Flight #1 (April 27, 2026) — ✅ **Completed April 25, 2026** (2 days early)
-  - Validation Flight #2 — **🔴 INDEFINITELY POSTPONED** *(awaiting functioning controller binary from EMASS per Daniel Prendergast, May 13–14, 2026)*
-  - Validation Flight #3 — **🔴 INDEFINITELY POSTPONED** *(awaiting functioning controller binary from EMASS per Daniel Prendergast, May 13–14, 2026)*
+  - Validation Flight #2 — **🔴 INDEFINITELY POSTPONED** *(awaiting functioning controller binary from EMASS)*
+  - Validation Flight #3 — **🔴 INDEFINITELY POSTPONED** *(awaiting functioning controller binary from EMASS)*
 - **Milestone 4b: Final reports** ($10k) — **🔴 BLOCKED** *(cannot start until validation flights #2–#3 complete)*
 
 ## Task Summary
@@ -33,7 +34,7 @@
   - Data analysis × 2 (Maciej Stachura, no due dates) — **BLOCKED** (cannot analyze until validation flights complete)
 - **Tasks by Assignee**:
   - **Dan Prendergast**: 3 open tasks (2 validation flights, 1 final report) — **ALL INDEFINITELY POSTPONED on external EMASS controller delivery**
-  - **Maciej Stachura**: 2 open tasks (data analysis, 2 instances) — **BLOCKED** (awaiting validation flight completion)
+  - **Maciej Stachura**: 2 open tasks (data analysis × 2) — **BLOCKED** (awaiting validation flight completion)
   - **Jack Elston & Nate Straus**: Actively coordinated field execution in April–May but not formally assigned in Asana
   - **Meredith O'hara Needham**: Invoicing/admin (submitted initial invoice March 24, 2026)
 
@@ -41,7 +42,7 @@
 
 **June 8, 2026 (Maciej)**:
 - Navy meeting at 9:30 AM **did not occur** (meeting cancellation/no-show flagged).
-- Note: Magnetometer integration assigned to **Alex and Sam** (critical engineering tasks) — external team members not in EMASS task roster; possible cross-project support or sub-team structure.
+- **Note**: Magnetometer integration assigned to **Alex and Sam** (critical engineering tasks) — external team members not in EMASS task roster; possible cross-project support or sub-team structure.
 
 **June 2026 (AUTHORITATIVE CORRECTION — Daniel Prendergast)**:
 - **BILLING MODEL REVISED due to customer payment friction**
@@ -66,4 +67,6 @@
 - Shifted own priority to 53rd Weather Squadron and SOCOM visit slides.
 
 **April 30, 2026 (Maciej)**:
-- **EMASS ranked Priority #3 for closure**: "(1) S3 IRAD…, (2)
+- **EMASS ranked Priority #3 for closure** (after S3 IRAD and S0-VTOL), indicating BST focus is shifting elsewhere while awaiting customer action.
+
+**April 25, 2026 (Daniel Prendergast)**:

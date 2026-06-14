@@ -122,9 +122,8 @@
 - **ByLight project timeline has been extended due to cancellation of a demo in India**
 - "Yellow version" project has been clarified; Asana tasks and timelines updated accordingly
 
-**Daniel Prendergast (06/08–06/09/26, insurance requirement — Canada demo):**
-- **URGENT: Confirm S3 platform insurance renewal completion**
+**Daniel Prendergast (06/08–06/09/26, URGENT — Canada demo insurance requirement):**
+- **⚠️ CONFIRM S3 PLATFORM INSURANCE RENEWAL COMPLETION**
 - **Canada demo insurance requirements flagged:**
   - $5M Commercial General Liability policy
-  - $5M Aviation General Liability Insurance OR evidence Commercial General Liability policy extends to UAV operations
-  -
+  - $5M Aviation General Liability Insurance OR evidence Commercial General Liability policy extends

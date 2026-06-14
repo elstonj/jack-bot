@@ -124,8 +124,7 @@
 ---
 
 ### **Shipping/Freight: $1,034.60**
-**Number of transactions:** 8  
-*(+2 new transactions from 2026-06-18 to 2026-06-25)*
+**Number of transactions:** 10  
 
 **Key transactions:**
 - **Purchase #260607W011757** (2026-06-25): **$90.16** [DC-Direct Cost Shipping, Freight & Delivery]
@@ -136,4 +135,6 @@
   - Shipment from Paramount Tube to Lee Skidmore (2026 IDIQ)
 - **Earlier transactions (through 2026-06-09):** $749.19 cumulative
 
-**Total shipping
+**Total shipping/freight through 2026-09-28: $1,034.60** *(confirmed final)*
+
+---
