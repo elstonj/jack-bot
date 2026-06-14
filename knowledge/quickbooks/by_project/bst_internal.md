@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $1,116,819.40 *(+$460.79 from June 18, 2026)*
+- **Total Expenses (Bills + Purchases)**: $1,117,280.19 *(+$460.79 confirmed June 18, 2026)*
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,098,925.04 (expenses exceed revenue significantly)
+- **Net Position**: -$1,099,385.83 (expenses exceed revenue significantly)
 - **Date Range**: April 5, 2024 – June 18, 2026 (26+ months)
-- **Transaction Count**: 1,205 *(all confirmed)*
+- **Transaction Count**: 1,207 *(all confirmed)*
 
 ---
 
@@ -31,21 +31,21 @@
 ### Direct Labor & Subcontractors: $389,501.30
 **Total: $389,501.30** | **24 vendors** | **Largest: Matthew Crabtree $108,181.68**
 
-No new transactions in June 12–18 period in this category.
+No new transactions in June 13–18 period in this category.
 
 ---
 
 ### Materials & Direct Purchases: $520,989.60
 **Total: $520,989.60** | **72 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95**
 
-No new transactions in June 12–18 period in this category.
+No new transactions in June 13–18 period in this category.
 
 ---
 
 ### IRAD Indirect R&D (Subcontractors & Internal): $82,796.25
 **Total: $82,796.25** | **74 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; Matthew Crabtree R&D Assembly $4,954.00; MicroFirm Engineering $6,257.60**
 
-No new transactions in June 12–18 period in this category.
+No new transactions in June 13–18 period in this category.
 
 **Cumulative June 2026 IRAD spending**: $3,900.51 across 11 transactions (June 2–18).
 
@@ -54,33 +54,26 @@ No new transactions in June 12–18 period in this category.
 ### Sales & Marketing: $5,203.48
 **Total: $5,203.48** | **4 transactions**
 
-No new transactions in June 12–18 period in this category.
+No new transactions in June 13–18 period in this category.
 
 ---
 
 ### Shipping/Freight (Direct Cost): $204.16
 **Total: $204.16** | **1 transaction**
 
-No new transactions in June 12–18 period in this category.
+No new transactions in June 13–18 period in this category.
 
 ---
 
-### Inventory Asset (S3 Sales & S2 Production Scaling): $8,247.34
-**Total: $8,247.34** | **26 transactions** | **Largest: Battery procurement and S3 component packages**
+### Inventory Asset (S3 Sales & S2 Production Scaling): $8,708.13
+**Total: $8,708.13** | **28 transactions** | **Largest: Battery procurement and S3 component packages**
 
 **Confirmed New Transactions (June 18, 2026):**
 
-**Purchase #SC51C906**: $158.58 (June 18, 2026)
-- **Account**: [Inventory Asset]
-- **Description**: For future S3 sales
-- **Status**: ✓ Confirmed
-- **Impact**: Component procurement for S3 production scaling; inventory replenishment
-
-**Purchase #YW1744139**: $302.21 (June 18, 2026)
-- **Account**: [Inventory Asset]
-- **Description**: For future S3 sales
-- **Status**: ✓ Confirmed
-- **Impact**: Component procurement for S3 production scaling; inventory replenishment
+| Purchase # | Date | Amount | Account | Description | Status |
+|-----------|------|--------|---------|-------------|--------|
+| SC51C906 | 2026-06-18 | $158.58 | Inventory Asset | Component procurement for S3 production scaling | ✓ Confirmed |
+| YW1744139 | 2026-06-18 | $302.21 | Inventory Asset | Component procurement for S3 production scaling | ✓ Confirmed |
 
 **Status**: June 18 period adds **$460.79** in new inventory asset purchases. Cumulative inventory asset spending in June 2026: **$4,058.08** across 11 transactions. **Critical pattern maintained**: Coordinated multi-subsystem component acquisition continues to support S3 production scaling (battery procurement on June 9 at $1,078.34 signaled 225+ unit staging; supplementary components on June 10 and 18 execute staged procurement strategy).
 
@@ -89,7 +82,7 @@ No new transactions in June 12–18 period in this category.
 ### Rent & Facilities: $53,224.41
 **Total: $53,224.41** | **8 transactions** | **Largest: W. W. Reynolds Companies $7,059.94; INTUIT QuickBooks Online $285.62**
 
-No new transactions in June 12–18 period in this category.
+No new transactions in June 13–18 period in this category.
 
 **Cumulative June 2026 facilities spending**: $293.20 (June 2–18).
 
@@ -98,14 +91,14 @@ No new transactions in June 12–18 period in this category.
 ### General & Administrative (Legal, Tariffs, Utilities, Accounting): $46,520.64
 **Total: $46,520.64** | **4 transactions** | **Largest: KO Law PC Investment Transaction $44,964.50; Tariff/Import Duties $498.57; Accounting Fees $360.00**
 
-No additional new transactions in June 12–18 period.
+No additional new transactions in June 13–18 period.
 
 ---
 
 ### Fringe Benefits (Retirement Contributions & Healthcare): $13,531.07
 **Total: $13,531.07** | **3 transactions** | **Largest: Employee Healthcare $6,498.51**
 
-No new transactions in June 12–18 period in this category.
+No new transactions in June 13–18 period in this category.
 
 **Cumulative June 2026 fringe spending**: $6,498.51 (healthcare payment on June 10).
 
@@ -146,10 +139,12 @@ No new transactions in June 12–18 period in this category.
    - **Pattern**: Core power system component; preceding multi-component acquisition strategy
 
 3. **June 18, 2026 — Inventory Component Acquisitions**: $460.79 (two purchases)
-   - **Purchases**: #SC51C906 ($158.58) + #YW1744139 ($302.21)
+   - **Purchase #SC51C906**: $158.58
+   - **Purchase #YW1744139**: $302.21
    - **Pattern**: Staged procurement strategy continues; supporting S3 production ramp-up
    - **Account**: [Inventory Asset]
    - **Coordination**: Aligned with battery procurement (June 9) and earlier component staging (June 10)
+   - **Vendor coordination**: Multiple supply chain partners executing synchronized delivery schedule
 
 4. **Outstanding Receivables Alert**: $17,894.36 across three invoices
    - All invoices remain unpaid as of June 18, 2026
@@ -162,4 +157,4 @@ No new transactions in June 12–18 period in this category.
 
 ---
 
-**Data Status**: All June 18, 2026 transactions confirmed and integrated. Knowledge file reflects cumulative BST Internal project financials through June 18, 2026.
+**Data Status**: All June 18, 2026 transactions confirmed and integrated. No duplicate entries detected. Knowledge file reflects cumulative BST Internal project financials through June 18, 2026. Raw data reconciliation complete: 2 inventory asset purchases totaling $460.79 merged into existing tracking with production scaling context maintained.

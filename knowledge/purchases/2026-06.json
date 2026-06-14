@@ -3573,5 +3573,70 @@
     "notes": "Past due invoice notice from UPS; not a purchase transaction",
     "date": "2026-06-13",
     "subject": "You Have Past Due Invoices"
+  },
+  {
+    "id": "19ec1c7269c7bbe8",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": null,
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Marketing newsletter/coupon expiration notice; no purchase activity",
+    "date": "2026-06-13",
+    "subject": "Only 2 Days Left - Our EXTENDED PARKING LOT SALE Ends Tomorrow!"
+  },
+  {
+    "id": "19ec1bea88a1952b",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": null,
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Car rental flash sale promotion; no purchase activity",
+    "date": "2026-06-13",
+    "subject": "\u26a1 FLASH SALE \u26a1 Over 20 Budget destinations now on sale!"
+  },
+  {
+    "id": "19ec1199767aec4d",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": null,
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "eBay saved search alert; no purchase activity",
+    "date": "2026-06-13",
+    "subject": "futaba 14sg, Receivers & Transmitters: 1 NEW!"
+  },
+  {
+    "id": "19ec01fe8baddee0",
+    "is_purchase": true,
+    "status": "invoiced",
+    "amount_usd": 124.92,
+    "vendor": "McMaster-Carr",
+    "project_code": null,
+    "project_hint": "IRAD S3",
+    "description": "Heat-shrink tubing, barbed tube fittings, push-to-connect fittings",
+    "notes": "Invoice 66631353 dated 6/12/26; PO 0612JELSTON; paid via Visa 6/15/26; includes 2 items for IRAD S3, 1 for shop supplies; FedEx tracking 527876016484",
+    "date": "2026-06-13",
+    "subject": "Receipt for Your June 12th Order with McMaster-Carr"
+  },
+  {
+    "id": "19ec4f790939d86c",
+    "is_purchase": true,
+    "status": "received",
+    "amount_usd": 89.45,
+    "vendor": "Amazon.com",
+    "project_code": null,
+    "project_hint": null,
+    "description": "Quick Release Plate, Camera Tripod Mount (qty 5)",
+    "notes": "Arriving tomorrow; order 111-1758959-7280217",
+    "date": "2026-06-14",
+    "subject": "Shipped: \u20665\u2069 \"Quick Release Plate, Camera...\""
   }
 ]

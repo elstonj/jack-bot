@@ -60,6 +60,11 @@ The channel covers activities from 2020 through June 2026, with high activity du
 - **Content Generation** (May 19, 2026): Jack Elston confirmed manual contains "AI fill in the gaps" content but assessed as "accurate enough"
 - **Compliance Expectation**: Jack Elston indicated that AFAC (Mexican authorities) unlikely to scrutinize manual extensively
 
+**C-130 Integration & S0/S0-AD Procurement (June 13, 2026)**
+- **Clarification needed on funding**: Jack Elston questioned whether client is paying for S0-AD aircraft, deployment, or both
+- **C-130 Setup Work**: Acknowledged additional work required to configure aircraft for integration with C-130 cargo aircraft and establish handoff procedures
+- **S0 Aircraft Spares**: Decision to procure extra S0 aircraft units; long lead time identified as potential risk, but mitigation underway through prior procurement of long lead items
+
 ## Projects & Initiatives
 
 **Makushin Volcano Monitoring (Alaska)**
@@ -102,15 +107,4 @@ The channel covers activities from 2020 through June 2026, with high activity du
   - Operating manual completed via Overleaf with AI-generated content to fill gaps
   - Jack Elston assessed manual as "accurate enough" for AFAC requirements
   - Jack Elston indicated AFAC unlikely to scrutinize content extensively
-  - Manual reported as meeting AFAC requirements
-
-**S10022 Aircraft Testing (April 2026)**
-- **Status**: Multiple test flights completed week of April 13-14, 2026
-- **Purpose**: Validation flights and data analysis to support confidence in aircraft systems
-- **Activities**: 
-  - Multiple flights at Sod Farm location
-  - High-altitude hover tests at multiple elevation points (Boulder at 5,600 ft, Caribou TH at ~10,000 ft, intermediate point)
-  - Analysis of performance parameters for extrapolation to higher altitudes
-  - Flight data collection
-
-**
+  - Manual reported as meeting AFAC

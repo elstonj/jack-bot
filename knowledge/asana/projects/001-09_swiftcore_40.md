@@ -4,13 +4,13 @@
 - **Client/Customer**: Internal BST development project
 - **Dollar Value**: Not specified
 - **Timeline**: Started January 19, 2015 — no defined end date
-- **Status**: **ARCHIVED/DEPRECATED** (per Daniel Prendergast, May 14–15, 2026). All new software issues should be added to **SwiftCore 3.3 project** instead. Raw Asana data (Nov 2023 snapshot) shows 165 open tasks with zero due dates and zero completions. Project is no longer the active development branch.
+- **Status**: **ARCHIVED/DEPRECATED** (per Daniel Prendergast, May 15, 2026). All new software issues should be added to **SwiftCore 3.3 project** instead. Raw Asana data (Nov 2023 snapshot) shows 165 open tasks with zero due dates and zero completions. Project is no longer the active development branch.
 - **Team Members**: 
   - Jack Elston (project owner, primary contributor — ~65 tasks)
   - Maciej Stachura (flight control systems — ~40 tasks)
   - Ben Busby (ground station/tablet development — ~35 tasks)
 - **Risk Signals**: 
-  - **Team has officially pivoted to SwiftCore 3.3** — Daniel Prendergast directive (May 14–15, 2026): *"For software issues that just adds a task to the SwiftCore 3.3 project like you've always been doing. You can keep adding tasks manually if you prefer."*
+  - **Team has officially pivoted to SwiftCore 3.3** — Daniel Prendergast directive (May 15, 2026): *"For software issues that just adds a task to the SwiftCore 3.3 project like you've always been doing. You can keep adding tasks manually if you prefer."*
   - Data staleness (Nov 2023 Asana snapshot vs. May 2026 team directives)
   - Large unmanaged backlog (165 open tasks); zero due dates across entire project
   - No active status updates since November 28, 2023
@@ -34,21 +34,21 @@ All major milestones remain unassigned with no due dates. Listed for historical 
 - **Total Tasks**: 165 open, 0 completed (per Nov 2023 Asana data; conflicts with April 2026 completion reporting)
 - **Tasks by Assignee**:
   - **Jack Elston** (~65 tasks): Autopilot core architecture, communications protocol design, power management, sensor fusion, ESC integration, smart battery firmware, simulation (Gazebo, X-Plane), ECAMS diagnostics, RTOS conversion, CAN/UART modules, parameter management, magnetic calibration, terrain following, RTK/PPK positioning, handset integration, MIMO radio
-  - **Maciej Stachura** (~40 tasks): Flight control algorithms, VTOL/tailsitter landing modes, estimator development (unified estimator, wind estimation, failover logic), filter optimization, Gazebo modeling (E2, fixed-wing), terrain following, QRH/MMEL documentation, preflight checks (motor test, attitude verification), TECS engine-out detection, dubins path integration
+  - **Maciej Stachura** (~40 tasks): Flight control algorithms, VTOL/tailsitter landing modes, estimator development (unified estimator, wind estimation, failover logic), filter optimization, Gazebo modeling (E2, fixed-wing, S2), terrain following, QRH/MMEL documentation, preflight checks (motor test, attitude verification), TECS engine-out detection, dubins path integration
   - **Ben Busby** (~35 tasks): Tablet UI (SwiftTab), GCS features, mapping/DEM integration, OTA updates, log handling, multi-vehicle coordination, plot windows, joystick control, preflight tasks, X-Plane integration, Gazebo multirotor photogrammetry, sensor metadata and camera orientation, payload configuration
   - **Unassigned**: 11 major milestones
 
 - **Notable Patterns**:
   - Extensive feature backlog with no prioritization or sequencing
   - GitLab integration (Unito synchronization with GitLab issues noted on select tasks, e.g., "Change value for thrust cutoff" linked to GitLab issue #5)
-  - Strong simulation focus (Gazebo E2/multirotor/fixed-wing models, X-Plane plugin with joystick support, user-positioned start location)
+  - Strong simulation focus (Gazebo E2/S2/multirotor/fixed-wing models, X-Plane plugin with joystick support, user-positioned start location)
   - **Zero due dates on all 165 tasks** — operates as aspirational wishlist, not scheduled roadmap
   - Duplicate task entries (e.g., "Add addressing for aircraft and ground stations" appears twice; "Remove FIXMEs" appears twice; "Add pos/vel interpolation for GPS gaps" appears twice; "All filters should be initialized with sampling rate" appears twice)
   - Feature branches noted for some tasks (unified_est, yaw_mix, vtol)
   - Custom field: Priority = Low
 
 ## Recent Activity
-**Team Directive (May 14–15, 2026)** — Daniel Prendergast (authoritative):
+**Team Directive (May 15, 2026)** — Daniel Prendergast (authoritative):
 > "Cool. For software issues that just adds a task to the SwiftCore 3.3 project like you've always been doing. You can keep adding tasks manually if you prefer."
 
 **This supersedes SwiftCore 4.0 for all new software work.** Any new features, bug fixes, or enhancements should be created in SwiftCore 3.3, not here.
@@ -64,7 +64,7 @@ All major milestones remain unassigned with no due dates. Listed for historical 
 
 ### Critical Status: Project Archived in Favor of SwiftCore 3.3
 - **Raw Asana shows 165 open/0 completed** (Nov 2023 snapshot — stale)
-- **Team is now routing all new software work to SwiftCore 3.3**, not 4.0 (Daniel Prendergast, May 14–15, 2026)
+- **Team is now routing all new software work to SwiftCore 3.3**, not 4.0 (Daniel Prendergast, May 15, 2026)
 - **Interpretation**: SwiftCore 4.0 is a **legacy aspirational backlog**; active development has shifted to the SwiftCore 3.3 branch
 
 ### Project Scope & Technical Areas
@@ -75,6 +75,7 @@ Next-generation autopilot architecture spanning 11+ years of feature development
 - Unified flight estimator for all vehicle types (fixed-wing, multirotor, VTOL/tailsitter)
 - Wind estimation and adaptive parameter tuning
 - Advanced sensor fusion with failover logic (GPS/pitot/pressure interpolation for gaps)
+- Sensor rotation matrix and orthonormal transformation improvements
 
 **Communications & Integration**:
 - MAVLink and UAVCAN protocol support
@@ -84,6 +85,7 @@ Next-generation autopilot architecture spanning 11+ years of feature development
 - Handset/tablet hybrid joystick control with loss-of-signal fallback
 - Serial numbers in EEPROM on MHP boards
 - MIMO radio support
+- Firmware warnings cleanup and firmware updates via CAN
 
 **Flight Control & Safety**:
 - Landing modes based on wind estimation (graduated landing speed, flare energy-based rather than pitch-based)
@@ -99,11 +101,11 @@ Next-generation autopilot architecture spanning 11+ years of feature development
 - Yaw rate-based max speed in look-at mode
 - Rate-limited joystick mode
 - Antenna location correction for artificial velocities
+- Dubins path integration for altitude profiling
+- Check-on-plan dubins validation similar to check-on-orbit
+- Lost GPS roll removal after flare
 
 **Ground Station & Tablet (SwiftTab)**:
 - Log file management and download via tablet with checksum/hash verification
 - OTA firmware updates for autopilot and GCS via tablet
-- Real-time telemetry visualization with custom plot windows (scalar vs. scalar, zoom/pause/play controls)
-- Graphical flight planning (waypoints, Dubins paths, altitude profiling, LOS calculation)
-- DEM (Digital Elevation Model) integration for terrain mapping (SRTM files, MapBox investigation)
-- Payload control,
+- Real-time telemetry visualization with custom plot windows (scalar vs. scalar, zoom/pause

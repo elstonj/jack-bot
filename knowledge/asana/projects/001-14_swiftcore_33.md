@@ -6,7 +6,7 @@
 - **Timeline**: Active development branch; no target release date specified
 - **Status**: **SUBSTANTIALLY COMPLETE as of May–June 2026.** All 4 critical VTOL landing/termination validation tasks due 2026-05-18 have been resolved. Project has transitioned from active development to validation/release readiness phase. **Team corrections (May 2026) override stale Asana snapshot (Nov 2023).** Remaining work consists of ongoing issue capture via automated post-flight feedback form (deployed May 2026, routed to Fleet Maintenance or SwiftCore 3.3).
 - **Team members**: Jack Elston (owner), Maciej Stachura (primary developer), Ben Busby, Daniel Prendergast (process lead), whole BST team
-- **Risk signals**: One task from Nov 2023 snapshot shows due date 2026-05-18 ("GPS terminate dives and tries transitioning") — **now resolved per team feedback (May 2026)**. No active overdue tasks. Raw Asana snapshot (80 open tasks, Nov 2023) is stale; actual current workload much lighter per team feedback. Post-flight feedback process now operational; new issues flow automatically without manual overhead.
+- **Risk signals**: Raw Asana snapshot (80 open tasks, Nov 2023) is stale; actual current workload much lighter per team feedback. No active overdue tasks. Post-flight feedback process now operational; new issues flow automatically without manual overhead.
 
 ## Key Deliverables & Milestones
 
@@ -24,7 +24,7 @@
 
 **Critical Tasks Resolved by 2026-06-05:**
 1. GPS termination behavior (dive/transition logic) — resolved
-2. Motor ramp timing on repeated landings (S3 aircraft) — completed 2026-06-05 by Maciej Stachura (3 weeks after original due date 2026-05-18, resolved during extended flight testing)
+2. Motor ramp timing on repeated landings (S3 aircraft) — **completed 2026-06-05** by Maciej Stachura (3 weeks after original due date 2026-05-18, resolved during extended flight testing)
 3. Battery flight termination threshold (S1-22 aggressiveness) — resolved
 4. Velocity discontinuity at TRANS2HOVER → LANDING transition — resolved
 
@@ -36,7 +36,7 @@
   - Ben Busby: ~4 tasks (XML, scripting, logging, commands, comms)
   - Unassigned: 6 milestones
 - **Notable patterns**:
-  - Raw Asana snapshot is stale (Nov 2023 visible in status update; current work captured via team feedback May–June 2026)
+  - Raw Asana snapshot is stale (Nov 2023); current work captured via team feedback (May–June 2026)
   - New work capture mechanism: automated post-flight feedback form (deployed May 8–11, 2026) creates tasks in Fleet Maintenance (hardware) or SwiftCore 3.3 (software)
   - Manual task creation option remains available per team preference (Daniel Prendergast, May 15, 2026)
   - Custom field Priority: Low
@@ -48,14 +48,18 @@
 - **2026-05-14**: Same guidance reiterated by Daniel Prendergast
 - **2026-05-11**: Daniel Prendergast deploys Asana Form for automated post-flight issue capture; routes aircraft/equipment issues to Fleet Maintenance (hardware) or SwiftCore 3.3 (software)
 
-## Open Tasks (Current)
-From Nov 2023 Asana snapshot (80 total). Notable open items include:
+## Work Intake Process
+As of May 2026, the team operates on a **hybrid issue capture model**:
+- **Automated**: Post-flight feedback form (deployed May 8–11, 2026) routes issues directly to Fleet Maintenance (hardware) or SwiftCore 3.3 (software)
+- **Manual**: Team members may continue adding tasks directly if preferred
+- **Responsibility**: Daniel Prendergast (process lead) owns form deployment and routing logic
 
-**Critical/High-Impact (resolved per team feedback):**
-- GPS terminate dives and tries transitioning (Maciej Stachura, due 2026-05-18) — **RESOLVED**
-- Motor ramp timing on repeated landings (S3) — **COMPLETED 2026-06-05**
+This replaces prior manual task creation, reducing overhead while maintaining visibility into emerging issues.
 
-**VTOL/Navigation (Maciej Stachura focus):**
+## Open Tasks (Current — From Nov 2023 Snapshot)
+80 tasks in Asana. Key categories (likely stale; verify via team feedback for current priorities):
+
+**VTOL/Navigation (Maciej Stachura focus, ~30 tasks):**
 - S0 clog detection
 - S2 manual takeover bug
 - Front motors throttle up after landed mode on S1-22 ground tests
@@ -79,8 +83,13 @@ From Nov 2023 Asana snapshot (80 total). Notable open items include:
 - Flight termination bug (2024-03-08)
 - TECS gamma calculations (small angle assumptions)
 - Flight timer/engine timer logic check (VTOL conflicts)
+- Comms version update
+- Joystick mode in lost comms
+- Add test sensor app XML for QC flights
+- Make sure suggested ECAMS tree is implemented
+- Consider timer for flight terminate with ERROR_NO_BATT
 
-**Tablet/Comms/Payload (Jack Elston focus):**
+**Tablet/Comms/Payload (Jack Elston focus, ~35 tasks):**
 - Add description to payload window control documentation
 - Set IAS error flag from autopilot, not tablet
 - Allow handset throttle after flare
@@ -115,12 +124,4 @@ From Nov 2023 Asana snapshot (80 total). Notable open items include:
 - MHP/CAN bus integration
 - Sensor startup time/value validation
 
-**Scripting/Commands (Ben Busby focus):**
-- Scripting issues with VTOL commands
-- Fixed wing scripting climb/descend
-- Landing plan switching (vertical to spiral)
-- Log parsing timing (waypoint commands packet)
-- Commands branch work
-- Scale factor for comms packets
-
-**Infrastructure/Comms (Maciej, Jack, Ben):**
+**Scripting/

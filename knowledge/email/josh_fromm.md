@@ -1,20 +1,16 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,002 emails (942 prior + 40 from June 11–12 + 20 new from June 12)
-- **Date range:** May 18–June 12, 2026
+- **Total messages scanned:** 1,010 emails (1,002 prior + 8 new from June 13–14)
+- **Date range:** May 18–June 14, 2026
 - **Daily average:** ~15–17 emails/day (human correspondence); automated/logistics/procurement volume substantial and accelerating
-- **Unread messages:** ~680+ unread (heavy promotional/automated volume; logistics, supplier notifications, Asana task assignments, equipment sourcing dominating)
-- **New data period (June 12 only):** 20 emails
-  - **Human correspondence:** 1 email
-    - Adam Lockwood (Loc Tech Aerospace) → Josh (June 12, 21:13:48 UTC, flagged IMPORTANT): "RE: new supplier potential" — **NEW STRATEGIC CONTACT**
-  - **Automated/Logistics:** 19 emails (95% of new volume)
-    - **Order confirmations & tracking:** McMaster-Carr (3 messages: June 11 order receipt, June 12 order confirmation, June 12 tracking certificate), Amazon (2 delivery confirmations: USB-C/5Gbps components, Weller soldering tips + 3 items), Driftaway Coffee (order shipment notification), Rock West Composites (invoice + shipment confirmation, 2 messages), SendCutSend (shipment in transit)
-    - **Payment confirmations:** General Air (payment confirmation 10099275 for Black Swift Technologies LLC)
-    - **Promotional/vendor outreach:** HeliDirect (Heli Pro Packs), ELEGOO US (Father's Day family print session), Harbor Freight (Extended Parking Lot Sale weekend), DIY500AMP.COM (Reliance 21700 RS50 5000mAh 70A lithium battery inquiry to Meredith), AliExpress (congratulatory promotional)
-    - **Software/subscriptions:** X-Plane 12 Platform Update
-    - **Travel:** Expedia.com (stay recommendations)
-    - **Newsletter/subscription:** UAS VISION daily news (June 12, 09:07:24 UTC)
+- **Unread messages:** ~688+ unread (heavy promotional/automated volume; logistics, supplier notifications, travel deals dominating)
+- **New data period (June 13–14):** 8 emails
+  - **Human correspondence:** 0 emails
+  - **Automated/Logistics:** 8 emails (100% of new volume)
+    - **Order confirmations & tracking:** McMaster-Carr (order receipt, June 12 order), Amazon (quick release plate/camera accessories shipment, June 14)
+    - **Promotional/vendor outreach:** AliExpress (promotional), eBay (Futaba 14SG receivers & transmitters sale), Harbor Freight (extended parking lot sale ending), Budget (flash sale - 20+ destinations)
+    - **Travel deals:** Frontier Airlines ($34 fares), Hilton Honors (points promotion)
 
 ---
 
@@ -45,7 +41,7 @@
    - REX110 troubleshooting thread recipient
 
 6. **Meredith Needham** (meredith.needham@blackswifttech.com) — **Procurement/Operations**
-   - **NEW (June 12):** Receiving DIY500AMP.COM inquiry on Reliance 21700 RS50 5000mAh lithium battery (personalized inquiry)
+   - **Active (ongoing):** Receiving procurement inquiries and vendor notifications
    - HeliDirect promotional recipient (servo inventory, June 12)
    - Baofeng radio field day promotional recipient
    - Active procurement operations; vendor notifications routed directly
@@ -70,19 +66,16 @@
 - Jošt Laznik direct contact on troubleshooting
 
 **NEW STRATEGIC CONTACT — Loc Tech Aerospace**
+- **Adam Lockwood** (adaml@loctechaerospace.com) — Flagged IMPORTANT (June 12); follow-up on supplier opportunity
 
-1. **Adam Lockwood** (adaml@loctechaerospace.com) — **NEW SUPPLIER EVALUATION**
-   - **NEW (June 12, 21:13:48 UTC, flagged IMPORTANT):** "RE: new supplier potential"
-   - **Context:** Follow-up response to Josh on supplier opportunity; high importance flag suggests strategic procurement/partnership discussion
-   - **Supplier category:** Unknown from metadata; likely composite, aerospace component, or equipment sourcing based on company name
-
-**Existing Active Suppliers:**
-- **McMaster-Carr** — Frequent orders (multiple June 12 order cycles)
-- **Amazon** — Electronics & tools (USB-C components, soldering equipment)
-- **Rock West Composites** — Composite materials (invoice + shipment June 12)
+**Active Suppliers (Ongoing):**
+- **McMaster-Carr** — Frequent orders (order receipt June 13 for June 12 order cycle)
+- **Amazon** — Electronics & tools (quick release plate/camera accessories June 14)
+- **eBay** — RC equipment (Futaba 14SG receivers & transmitters)
+- **Rock West Composites** — Composite materials
 - **SendCutSend** — Metal fabrication/sheet metal services
 - **Driftaway Coffee** — Office supplies/refreshments
-- **General Air** — Payment confirmation (unknown product category)
+- **General Air** — Aircraft equipment/services
 - **HeliDirect** — Servo/RC helicopter components
 - **ELEGOO US** — 3D printing/electronics prototyping
 
@@ -98,30 +91,55 @@
 - **UK MOD** — International government partnership
 
 ### Procurement & Equipment Focus
-- **Electronics sourcing:** USB-C components, 5Gbps interfaces, lithium batteries (21700 RS50 cells), soldering equipment (Weller tips)
-- **Composites & materials:** Rock West Composites (active shipment June 12)
-- **Metal fabrication:** SendCutSend (sheet metal/machining)
-- **Servo/RC components:** HeliDirect (helicopter servos)
-- **3D printing:** ELEGOO US (family-themed but operational context)
+- **Camera/optical:** Quick release plate and camera accessories (Amazon June 14)
+- **RC/Radio Control:** Futaba 14SG transmitters & receivers (eBay sale June 13)
+- **Electronics sourcing:** USB-C components, 5Gbps interfaces, lithium batteries, soldering equipment
+- **Composites & materials:** Rock West Composites
+- **Metal fabrication:** SendCutSend
+- **Servo/RC components:** HeliDirect
+- **3D printing:** ELEGOO US
 - **Tools & hardware:** Harbor Freight, McMaster-Carr (ongoing consumables)
 
 ### Newsletter/Information Sources
-- **UAS VISION** daily news (industry intelligence, June 12)
+- **UAS VISION** daily news (industry intelligence)
 
 ---
 
 ## Communication Patterns
 
 ### Routing & Distribution Lists
-- **Purchasing distribution:** Many vendor notifications routed to `purchasing@blackswifttech.com` or `purchasing@bst.aero` (systematic procurement funneling)
-- **Personal direct contacts:** Limited (adam@loctechaerospace.com direct, UAS VISION direct)
-- **Personalized vendor outreach:** DIY500AMP.COM addressed Meredith Needham by name on battery inquiry (selective targeting)
+- **Purchasing distribution:** Vendor notifications consistently routed to `purchasing@blackswifttech.com` (systematic procurement funneling)
+- **Personal direct contacts:** Limited (Adam Lockwood direct, AliExpress, Frontier Airlines, Hilton Honors direct to personal account)
+- **Travel-related:** Frontier Airlines and Hilton Honors sent to josh.fromm@blackswifttech.com directly (personal travel context)
 
 ### Email Volume Characteristics
-- **Automated/logistics:** ~95% of new June 12 volume (19 of 20 emails)
-- **Human correspondence:** Minimal (1 email in new batch — Adam Lockwood response)
-- **Unread status:** Almost all new batch unread (batch processing/triage behavior)
-- **Flagging pattern:** Adam Lockwood supplier email flagged IMPORTANT; most automated emails categorized/unread
+- **Automated/logistics:** 100% of new June 13–14 volume (8 of 8 emails)
+- **Human correspondence:** None in new batch (continuing downward trend from June 12)
+- **Unread status:** All 8 emails unread (batch processing/triage behavior consistent)
+- **Flagging pattern:** Travel deals flagged IMPORTANT (Frontier, Hilton); most promotional emails remain unread
 
 ### Time Patterns
-- **Order execution:** Multiple McMaster-Carr orders
+- **Order execution:** Multiple McMaster-Carr orders active (June 12 order receipted June 13)
+- **Promotional cadence:** Weekend-heavy (June 13–14 Saturday–Sunday: 6 of 8 promotional emails)
+- **Travel booking activity:** Persistent (Frontier Airlines, Hilton Honors, prior Expedia recommendations)
+
+---
+
+## Key Relationships
+
+### Closest Internal Collaborators
+1. **Jack Elston** — Event coordination, technical escalation, government programs
+2. **Ben Busby** — REX110 critical issue ownership (C-level escalation)
+3. **Daniel Prendergast** — Day-to-day technical troubleshooting (REX110, camera systems)
+4. **Maciej Stachura** — Arctic/research coordination
+
+### Strategic External Relationships
+1. **Atmolab (Jošt Laznik)** — **CRITICAL BLOCKER** (REX110 integration unresolved)
+2. **Loc Tech Aerospace (Adam Lockwood)** — **NEW SUPPLIER OPPORTUNITY** (flagged important, June 12)
+3. **Joe Cione (NOAA Federal)** — Government partnership/large multi-stakeholder working groups
+
+---
+
+## Notable Observations
+
+- **Automated email dominance continues:** 100% of June 13–14 volume is promotional/logistics; zero human correspondence

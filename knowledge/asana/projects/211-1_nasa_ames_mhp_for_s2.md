@@ -17,12 +17,12 @@
 **Shipping address**: NASA Ames Research Center, M/S 255-3, P.O. Box 1, Moffett Field, CA 94035-1000, ATTN: Richard Kolyer
 
 ## Task Summary
-- **Total tasks**: 0 open, 15 completed (100% completion rate)
+- **Total tasks**: 0 open, 15+ completed (100% completion rate)
 - **Tasks by assignee**:
   - Nate Straus: 6 tasks (MHP installation, aircraft work, documentation, preflight) — 100% complete
   - Josh Fromm: 4 tasks (MHP assembly, SIM card installation, parts ordering, project setup) — 100% complete
   - Jack Elston: 2 tasks (hardware procurement, firmware updates) — 100% complete
-  - Meredith O'hara Needham: 2 tasks (project coordination, shipping) — 100% complete
+  - Meredith O'hara Needham: 2+ tasks (project coordination, estimate, shipping) — 100% complete
 - **Notable patterns**: Hardware-focused project with clear sequential workflow from parts procurement (Dec 2024) through final delivery (Mar 2025); most assembly and testing work concentrated with Nate Straus
 
 ## Recent Activity
@@ -35,9 +35,9 @@ Project completed in March 2025 with all deliverables on or ahead of schedule:
 - **March 27, 2025**: Aircraft shipped via FedEx to NASA Ames
 
 ## Notes & Context
-- **Additional scope**: Customer requested testing of their new launcher setup; launcher modification was handled by CU partner (Kevin), with unit arriving at CU by late January 2025
+- **Scope expansion**: Customer requested testing of their new launcher setup; launcher modification was handled by CU partner (Kevin), with unit arriving at CU by late January 2025
 - **Documentation**: Technical write-up delivered to R. Kolyer for presentation at NASA airworthiness review
-- **Subcontractor**: N/A ($0 subcontract amount)
+- **Subcontractor**: N/A
 - **Customer type**: Commercial
 - **Products/Services**: MHP product/service delivery
 - **NASA RFI opportunity**: Per Alex Lomis (April 17, 2026), NASA contacts and Joe recommended a NASA RFI link shared on a hurricane engineering & technology call: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view (context: may indicate future opportunity or follow-on work with NASA)
