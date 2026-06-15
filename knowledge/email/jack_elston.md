@@ -1,10 +1,10 @@
 # Jack Elston — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 4,384 (4,374 prior + 10 June 13–14)
-- **Date range:** April 1–June 14, 2026
+- **Total messages scanned:** 4,407 (4,384 prior + 23 June 14–15)
+- **Date range:** April 1–June 15, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **June 13–14 activity (10 messages):** ~50% vendor/procurement/automated; ~30% internal org/staffing notes (self-directed); ~20% M&A/legal coordination (external counsel interaction)
+- **June 14–15 activity (23 messages):** ~65% vendor/procurement/automated; ~17% internal organizational/technical (self-directed notes); ~13% external M&A/technical coordination; ~5% academic/scientific newsletters; ~5% community/DARPA intelligence
 
 ---
 
@@ -13,122 +13,105 @@
 ### Top Internal BST Contacts (SUSTAINED & ELEVATED)
 
 **Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, HR, vendor management, banking
-- Banking relationship management and vendor coordination continue post-close
-- Receiving procurement/purchasing notifications and invoicing coordination
+- Continued vendor/purchasing notifications and coordination
+- HeliDirect marketing routed through purchasing@blackswifttech.com (Jun 14)
 
 **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical/government programs
-- REX110 troubleshooting and Arctic UAS location coordination ongoing
+- **June 14 REX110 coordination:** Forwarding troubleshooting continuation to Atmolab partners (Jure Dolinar, Jošt Laznik) — active technical program execution
 
 **Beck Cotter** (beck.cotter@blackswifttech.com) — Sales/Business Development
-- Government program question coordination (NOAA S0 application procedures)
-- Active NOAA procurement/compliance inquiry activity post-close
+- No new activity in this dataset; pattern sustained from prior period
 
 **Paige Smith** (paige.smith@blackswifttech.com) — Marketing/Communications
-- Post-close celebration/community engagement coordination continuing
+- No new activity in this dataset; pattern sustained from prior period
 
 ---
 
-### Top External M&A/Legal/Closing Correspondents (CONTINUED ENGAGEMENT)
+### Top External M&A/Technical Integration Correspondents (CONTINUED ELEVATED ENGAGEMENT)
 
-**Ryan Sykora** (rsykora@kofirm.com) — **Ko Firm Legal Counsel — M&A PRIMARY**
-- Closing punch list finalization coordination (prior June 12 activity sustained)
-
-**Brian Grubel** (Brian@krateosky.com) — **KrateoSky (Acquirer) — TECHNICAL/STAFFING COORDINATION — NEW ELEVATED PATTERN**
-- **June 13 technical staffing discussion (1+ IMPORTANT email):**
-  - **"Technical Job Description Discussion"** (Jun 13, 16:18:31 UTC, IMPORTANT) — Brian initiates technical job description discussion with Jack
-  - **Jack responds same day** (Jun 13, 21:56:46 MDT, SENT) — Direct engagement on technical hiring/organizational structure
-  - **Pattern:** Post-close technical team integration and role definition beginning; suggests Jack involved in technical staffing/hiring decisions post-acquisition
+**Brian Grubel** (Brian@krateosky.com) — **KrateoSky (Acquirer) — TECHNICAL/STAFFING COORDINATION — SUSTAINED ESCALATION**
+- **June 15 continued technical discussion:** "Re: Technical Job Description Discussion" (Jun 15, 00:20:58 UTC, IMPORTANT)
+  - **Pattern:** KrateoSky engagement on technical job descriptions continues into second day (Jun 13–15 sustained dialogue)
+  - Jack responding promptly (overnight hours Jun 14–15) indicates high priority technical integration discussion
 
 ---
 
-### External Government/NOAA Contacts (ACTIVE RFP & COMPLIANCE PHASE)
+### New/Emerging External Contacts (NOTABLE)
 
-**Paul Montgomery** (paul.montgomery@utk.edu) — **UTK/Academic — AFRL PROGRAM ALERT**
-- Government solicitation monitoring (AFRL Advanced Materials and Composites)
+**Nicko Xia** (nicko.xia@angustech.com) — **AngusTech (Angustech Company Limited) — HEAVY COPPER PCB VENDOR — NEW VENDOR CONTACT**
+- **June 15 vendor inquiry:** "Heavy Copper PCB ----- Angus Tech Company Limited" (Jun 15, 10:34:27 +0800, IMPORTANT)
+- **Distribution:** Email to Jack Elston + Maciej Stachura (maciej.stachura@blackswifttech.com) + info@blackswifttech.com
+- **Signal:** New specialized PCB vendor engagement; Heavy Copper PCB suggests advanced electronics/power distribution requirements; collaborative inquiry with Maciej Stachura (engineering/technical peer)
 
-**Jonathan Fentzke** (jonathan@fkmunion.com) — **External Contact — NOAA ECOSYSTEM COORDINATION**
-- NOAA partnership/academic ecosystem engagement
+**Olivia Hayes** (olivia@chikappamu.co) — **External Contact — UNKNOWN ORGANIZATION — DIRECT INQUIRY**
+- **June 14 personal outreach:** "Quick question Jack?" (Jun 14, 12:21:08 +0000, IMPORTANT, INBOX)
+- **Signal:** Direct personal inquiry to Jack; context unknown from metadata; marked IMPORTANT by system
+
+**Jure Dolinar & Jošt Laznik** (jure.dolinar@atmolab.eu, jost.laznik@atmolab.eu) — **Atmolab (EU-based) — TECHNICAL PARTNER — REX110 PROGRAM**
+- **June 14 REX110 forwarding:** Daniel Prendergast forwarding troubleshooting continuation to both Atmolab contacts
+- **Pattern:** Sustained technical troubleshooting coordination with European partner; REX110 ongoing
 
 ---
 
 ## Topic Patterns
 
-### M&A/Post-Close Integration (NEW ELEVATED SIGNAL)
-- **Technical Job Description Discussion** — KrateoSky initiating technical role definition post-close
-- Jack creating internal organizational notes (self-directed "notes on org" — Jun 13) suggesting post-acquisition structural planning
-- Jack drafting "Introduction of Cory" (Jun 13, 00:50 MDT) — personnel introduction/onboarding documentation (likely new team member or role assignment post-close)
+### Post-Close Organizational Transition (ESCALATED SIGNAL)
+- **"Remove early director title?" (Jun 14, 22:33:40 -0600, SELF-SENT, IMPORTANT, UNREAD)**
+  - Jack creating self-directed note on organizational titles/roles
+  - Self-marked IMPORTANT suggests deliberate organizational planning
+  - Implies Jack evaluating or restructuring director-level roles post-close
+  - Pattern: Jack conducting internal organizational review (title/role assessment)
 
-### Government Programs/NOAA RFP Activity (SUSTAINED)
-- UMS RFP (Unmanned Systems RFP) — NOAA scenario-based estimates coordination
-- NOAA S0 Application procedures — External inquiry management
-- AFRL AMAC Solicitation — Monitoring for advanced materials/composites programs
-- CU Alumni / NOAA ecosystem — Academic partnership coordination
-- OOI Buoy Testing — Oceanographic instrumentation testing
+### Technical Job Description/Staffing Integration (SUSTAINED CRITICAL ENGAGEMENT)
+- KrateoSky Brian Grubel continuing technical job description dialogue (Jun 15 response)
+- Jack engaged across weekend (Jun 13–15 sustained engagement)
+- Suggests post-acquisition technical team structure finalization in active phase
 
-### Vendor/Procurement Activity (ELEVATED)
-- **McMaster-Carr** — June 12 order receipt (Jun 13)
-- **Amazon** — Quick release plate/camera equipment shipping (Jun 14)
-- **eBay** — Futaba 14SG receiver/transmitter search (Jun 13) — remote control/UAS equipment sourcing
-- **Harbor Freight** — Parking lot sale notification (Jun 13)
-- **Budget** — Flash sale notification (Jun 13)
-- Rock West Composites, SendCutSend — Ongoing materials sourcing
+### Government Programs/Technical Coordination (SUSTAINED)
+- REX110 troubleshooting continuation with Atmolab (EU partner) — Daniel Prendergast coordination (Jun 14)
+- DARPA/Government intelligence monitoring — DARPAConnect event announcement (Jun 14, operations@blackswifttech.com)
+
+### New Hardware/PCB Development Signal
+- **Heavy Copper PCB vendor inquiry (Jun 15):** Advanced PCB capability inquiry suggests:
+  - New electronics development initiative post-close
+  - Collaborative inquiry with Maciej Stachura indicates engineering team expansion/coordination
+  - Heavy Copper PCB typically for high-current or high-power applications (power electronics, motor control, or high-capacity systems)
+
+### Academic/Scientific Newsletter Activity (BASELINE)
+- **TCRR (The Conservation Record) Vol. 15 Issue 2** (Jun 15, 01:59:12 UTC) — Conservation/environmental science journal notification
+- **Fire Journal — CiteScore 5.1 invitation** (Jun 15, 02:06:38 +0200, IMPORTANT) — Academic publishing invitation for feature paper (fire science focus)
+- **Conservation X Labs — Ebola/Hantavirus outbreak conservation angles** (Jun 14, 16:40:44 UTC) — Scientific outreach/awareness
+- **Pattern:** Jack maintains academic/scientific interest subscriptions independent of direct work email; Conservation X Labs & scientific journals suggest personal intellectual engagement with environmental/life sciences applications
 
 ---
 
 ## Communication Patterns
 
-### Temporal Patterns
-- **June 13–14 weekend activity (10 messages):** Continued engagement Saturday–Sunday morning
-  - **Saturday evening (Jun 13, 21:56 MDT):** Jack responds to KrateoSky technical discussion (weekend engagement)
-  - **Sunday morning (Jun 14, 07:10–07:44 UTC):** Vendor confirmations and industry newsletter arrival
-- **Self-directed communication:** Jack sending himself organizational notes and personnel introduction docs (Jun 13, late night–early morning), suggesting post-close planning or delegation preparation
+### Temporal Patterns (SUSTAINED HIGH OPERATIONAL TEMPO)
+- **Overnight/early morning activity (Jun 14–15):**
+  - **June 14, 22:33:40 -0600 (10:33 PM local):** Jack self-directed note on director titles
+  - **June 15, 00:20:58 UTC (Jun 14, 6:20 PM local):** Brian Grubel KrateoSky response (Jack likely engaged same evening)
+  - **June 15, 01:00–02:00 UTC window:** Academic newsletter/billing system activity (early morning)
+  - **June 15, 07:21 UTC (1:21 AM local):** Final vendor notification (Digikey)
+- **Weekend engagement pattern:** Jack continuing organizational planning and technical coordination Saturday–Sunday
 
-### Mailing Lists & Group Distribution
-- **info@blackswifttech.com** — Receiving vendor/industry newsletters (Aveo Engineering newsletter — Jun 14)
-- **purchasing@blackswifttech.com** — Primary distribution for vendor confirmations, invoices, procurement notifications (McMaster-Carr, Amazon, Harbor Freight, Budget, eBay)
-- **PURCHASING@BLACKSWIFTTECH.COM** (capitalized variant) — Alternative purchasing list receiving notifications (Budget, McMaster-Carr)
+### Email Distribution & Routing Patterns
+- **Purchasing group distribution** (purchasing@blackswifttech.com, PURCHASING@BLACKSWIFTTECH.COM, info@blackswifttech.com) — Primary routing for vendor confirmations, marketing, and order tracking
+  - Digikey payment notification (Jun 15)
+  - Spindrift order confirmation (Jun 15)
+  - ELEGOO member sale (Jun 15)
+  - UPS package tracking (Jun 14)
+  - Harbor Freight parking lot sale (Jun 14)
+  - Speedway Motors marketing (Jun 14)
+  - HeliDirect SAB IL Goblin product review (Jun 14)
+
+- **Operations group distribution** (operations@blackswifttech.com) — Government/DARPA intelligence
+  - DARPAConnect event announcement (Jun 14)
+
+- **Info@blackswifttech.com** — Newsletter/community outreach
+  - Aveo Engineering Group newsletter (Jun 14)
+  - STATION Austin community events (Jun 14)
+  - Angustech PCB inquiry (Jun 15, collaborative)
 
 ### Automated/Newsletter Sources (Separated from Human Correspondence)
-- **Vendor confirmations/order tracking:** McMaster-Carr, Amazon, Harbor Freight, Budget, eBay
-- **Vendor marketing/educational:** Aveo Engineering Group newsletter
-- **Regional activity:** Parking lot sales, flash deal notifications
-
----
-
-## Key Relationships
-
-### Closest Collaborators (by email frequency & recency)
-1. **Meredith Needham** — Finance/operational coordination post-close
-2. **Daniel Prendergast** — Technical program execution (REX110, Arctic UAS)
-3. **Beck Cotter** — Government program business development
-4. **Brian Grubel (KrateoSky)** — **NEW: Post-close technical integration and staffing** (elevated June 13)
-5. **Ryan Sykora (Ko Firm)** — Legal/closing execution coordination
-
-### External Relationships (Important)
-- **KrateoSky (Brian Grubel)** — **Acquirer technical/staffing coordination (escalating post-close)**
-- **Paul Montgomery (UTK)** — Government program intelligence/AFRL opportunities
-- **Jonathan Fentzke** — NOAA ecosystem/academic partnership
-- Vendor ecosystem (procurement-primary) — McMaster-Carr, Rock West Composites, SendCutSend, Amazon
-
----
-
-## Notable Observations
-
-### Post-Close Organizational Transition Signal (NEW)
-- **June 13 self-directed organizational planning:** Jack creating internal notes on organizational structure ("notes on org") and personnel introduction documentation ("Introduction of Cory") late Saturday night suggests:
-  - Active post-acquisition integration planning
-  - Possible delegation/staffing changes at technical level
-  - Jack involved in organizational restructuring post-close
-
-### KrateoSky Technical Integration Accelerating
-- **Brian Grubel engagement (Jun 13):** Technical job description discussion initiated by acquirer; Jack engaged same evening (weekend response) indicates:
-  - Jack holding or influencing technical hiring decisions post-close
-  - Technical team integration/role definition in active phase
-
-### Equipment Sourcing Pattern Shift
-- **eBay Futaba 14SG receiver/transmitter activity (Jun 13):** Addition of radio control equipment sourcing (beyond prior composite materials/industrial supply focus) suggests:
-  - Possible new UAS/drone platform testing or development initiative
-  - Expanded hardware procurement scope post-close
-
-### Weekend Engagement Pattern
-- Jack responding to external counsel and acquirer contacts on Saturday evening (Jun 13, 21:56 MDT) and creating internal documentation late night/early morning (Jun 13, 00:50–22:27 MDT) indicates sustained high operational tempo through acquisition close and into integration phase
+- **Vendor order tracking/confirmations:** Digikey, Spindrift, ELEGOO, UPS, Harbor Freight, Speedway Motors
