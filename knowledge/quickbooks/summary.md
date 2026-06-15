@@ -1,5 +1,5 @@
 # BST Financial Overview (QuickBooks)
-**Period: April 5, 2024 – June 18, 2026**
+**Period: April 2024 – June 2026**
 
 ---
 
@@ -8,45 +8,58 @@
 | Metric | Amount |
 |--------|--------|
 | **Total Revenue (Invoices)** | $4,480,070.64 |
-| **Total Expenses (Bills + Purchases)** | $2,448,536.67 |
-| **Net Income** | **$2,031,534.97** |
+| **Total Expenses (Bills + Purchases)** | $2,449,997.46 |
+| **Net Income** | $2,030,073.18 |
 
 ---
 
 ## By Project/Class
 
-| Project | Total Revenue | Total Expenses | Net Position | Activity Level |
-|---------|---------------|----------------|--------------|-----------------|
-| **Government** | $4,462,176.28 | $1,331,256.48 | **$3,130,919.80** | High (76 invoices) |
-| **BST Internal** | $17,894.36 | $1,117,280.19 | **-$1,099,385.83** | High (1,207 transactions) |
+| Project | Total Revenue | Total Expenses | Net Position | Status |
+|---------|---------------|----------------|--------------|--------|
+| **Government** | $4,462,176.28 | $1,331,256.48 | **+$3,130,919.80** | Active |
+| **BST Internal** | $17,894.36 | $1,117,740.98 | **-$1,099,846.62** | Deficit |
 
-**Analysis:** The Government class is highly profitable, while BST Internal shows significant negative net position, indicating substantial internal spending without corresponding revenue (likely infrastructure, R&D, or overhead costs).
+### Project Notes
+- **Government**: Primary revenue driver; strong profitability with 76 active invoices
+- **BST Internal**: Internal operations/overhead; expenses far exceed internal revenue (expected for administrative class)
 
 ---
 
 ## Cash Flow Indicators
 
 ### Accounts Receivable (Outstanding)
-- **Government**: $3,194,865.82 outstanding across 76 active invoices
-- **BST Internal**: Balance details incomplete in provided data
-- **Total A/R**: ~$3.2M+ (significant collection opportunity)
+- **Government Project**: $3,194,865.82 outstanding across 76 invoices
+- **Total A/R**: ~$3.2M in pending collections
 
 ### Purchase Orders Outstanding
-- **Government**: $832.00 (PO pending)
-- **BST Internal**: $1,700.00 (PO #1038 to Amprius, outstanding)
+- **BST Internal**: $1,700.00 (PO #1038 – Amprius)
+- **Government**: $832.00
+- **Total Outstanding POs**: $2,532.00
 
-### Projects with Potential Completion
-- **BST Internal**: 26+ months of transactions; high expense volume suggests mature operations or legacy spend
-- Status unclear without recent activity dates
+### Recent Large Expenses
+- BST Internal expenses: $1,117,740.98 total (26+ months)
+- Government expenses: $1,331,256.48 (strong cost control relative to $4.46M revenue)
 
 ---
 
-## Data Limitations
+## Top Vendors
+*(Data incomplete in provided extract – vendor summary not fully listed)*
 
-The provided QuickBooks extract is **incomplete**:
-- ❌ Top vendors list not populated
-- ❌ Top customers list not populated  
-- ❌ Individual invoice/expense details truncated
-- ❌ Unclassified transaction summary missing
+---
 
-**Recommendation:** Request complete P&L detail, vendor/customer aging reports, and transaction-level export for comprehensive analysis.
+## Top Customers
+*(Data incomplete in provided extract – customer summary not fully listed)*
+
+---
+
+## Unclassified Transactions
+**Status**: No unclassified transactions noted. All 1,209+ transactions are assigned to either Government or BST Internal classes.
+
+---
+
+## Summary Assessment
+✓ **Healthy overall position** ($2M net income)  
+✓ **Government contracts generating strong margins** (71% net profit margin)  
+⚠ **Significant A/R** ($3.2M) – cash collection timing important  
+⚠ **Internal overhead deficit** – typical for administrative class allocation

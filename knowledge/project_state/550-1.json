@@ -17,7 +17,7 @@
     "total_value": 242540.0,
     "start_date": "2026-09-28",
     "end_date": "2026-09-28",
-    "payment_cadence": "time-and-materials",
+    "payment_cadence": "monthly",
     "documents": [
       "drive://Statement of Work",
       "drive://CRT-90P Hydrophone User Guide Rev 2.pdf",
@@ -33,19 +33,19 @@
         "amount": 46607.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-14"
+        "last_updated": "2026-06-15"
       },
       "purchases": {
         "amount": 185.15,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-06-14"
+        "last_updated": "2026-06-15"
       },
       "other_qbo": {
         "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-06-14"
+        "last_updated": "2026-06-15"
       },
       "total": 46792.65,
       "by_line_item": {}
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": 195747.35,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-14T08:59:37Z"
+    "last_reconciled": "2026-06-15T08:53:57Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -98,6 +98,6 @@
       "text": "From Maciej: <@U0AQE94HJUT> I don't see a Navy meeting at 9:30 this morning. Also, for mag integration it's Alex and Sam on the critical engineering tasks"
     }
   ],
-  "last_full_rebuild": "2026-06-14T08:59:37Z",
+  "last_full_rebuild": "2026-06-15T08:53:57Z",
   "last_incremental_update": null
 }

@@ -5,7 +5,7 @@ This channel is primarily used for coordinating Black Swift Technologies' SBIR (
 
 Key participants include:
 - **Jack Elston** (Project lead, technical decisions, circuit design, documentation)
-- **Joshua Fromm** (Payload development, technical integration, diagnostics)
+- **Joshua Fromm** (Payload development, technical integration, diagnostics, aircraft inventory tracking)
 - **Danny Troke** (Flight operations, equipment)
 - **Maciej Smolka** (Regulatory, reporting, flight planning)
 - **Dan Prendergast** (Flight planning software, technical development, logistics, contracting inquiries)
@@ -63,7 +63,12 @@ The channel covers activities from 2020 through June 2026, with high activity du
 **C-130 Integration & S0/S0-AD Procurement (June 13, 2026)**
 - **Clarification needed on funding**: Jack Elston questioned whether client is paying for S0-AD aircraft, deployment, or both
 - **C-130 Setup Work**: Acknowledged additional work required to configure aircraft for integration with C-130 cargo aircraft and establish handoff procedures
-- **S0 Aircraft Spares**: Decision to procure extra S0 aircraft units; long lead time identified as potential risk, but mitigation underway through prior procurement of long lead items
+- **S0 Aircraft Spares**: Decision to procure extra S0 aircraft units; inventory tracking confirms procurement on schedule
+
+**S0 Aircraft Inventory Status (June 14, 2026)**
+- Confirmed S0 aircraft delivery numbers accurate in Asana project management system
+- Projected total inventory of approximately 37 S0 aircraft units on track to be delivered
+- No inventory shortage issues identified
 
 ## Projects & Initiatives
 
@@ -104,7 +109,4 @@ The channel covers activities from 2020 through June 2026, with high activity du
   - Photogrammetry payload: Confirmed operational
   - Pitot system: Configured without drain (taped)
 - **Documentation** (as of May 19, 2026):
-  - Operating manual completed via Overleaf with AI-generated content to fill gaps
-  - Jack Elston assessed manual as "accurate enough" for AFAC requirements
-  - Jack Elston indicated AFAC unlikely to scrutinize content extensively
-  - Manual reported as meeting AFAC
+  - Operating manual completed via Overleaf with

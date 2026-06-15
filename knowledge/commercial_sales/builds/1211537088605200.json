@@ -1,0 +1,40 @@
+{
+  "asana_gid": "1211537088605200",
+  "asana_task_name": "SOCOM - CRADA for S0-AD Dev",
+  "customer": "USAF SOCOM",
+  "customer_contact": "TSgt Evan Wolff",
+  "customer_email": "evan.m.wolff.mil@socom.mil",
+  "receive_by": "2026-10-30",
+  "ship_to": "Evan Wolff, 3-3242 Malvesti St, Fort Bragg, NC 28310",
+  "items": [
+    {
+      "description": "S0-AD UAS",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "estimate_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": "2025-10-03",
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "SOCOM (TSgt Evan Wolff) actively engaged in S0-AD development for C-130 air-launch demo Fall 2026. Recent in-person working meeting 4/27/26 with SOCOM and 53rd Weather Squadron to define mission requirements. S0-AD datasheet sent 10/3/25. Dr. Cione at NOAA provided positive reference.",
+  "missing_fields": [
+    "parts",
+    "invoice_date",
+    "invoice_amount"
+  ],
+  "last_evidence_date": "2026-05-20",
+  "last_contact_date": "2026-06-03"
+}

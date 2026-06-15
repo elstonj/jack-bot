@@ -1,14 +1,13 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,525 (2,511 previous + 14 new from Jun 13-14, 2026)
-- **Date range:** March 24 – June 14, 2026 (82 days)
+- **Total messages scanned:** 2,537 (2,525 previous + 12 new from Jun 14-15, 2026)
+- **Date range:** March 24 – June 15, 2026 (83 days)
 - **Approximate volume:** ~31 messages per day (sustained consistency)
-- **Pattern update (Jun 13-14, 2026):** **WEEKEND INTELLIGENCE & NEWS CONSUMPTION**
-  - **~93% automation/newsletters/media/tool notifications** (13 of 14 messages)
-  - **~7% direct professional correspondence** (1 of 14 messages — Ed Kase LinkedIn comment notification)
-  - **SIGNAL: Heavy personal news/media consumption on weekend** (NYT breaking news, Editor Picks, Morning Briefing; The Athletic; Inside Climate News; LinkedIn News; Mitchell Institute aerospace analysis)
-  - **NO ACTIVE BUSINESS CORRESPONDENCE** on Jun 13-14 — suggests focused work window closed after Jun 12 NOAA S0/Krateo Sky activity
+- **Pattern update (Jun 14-15, 2026):** **CONTINUED WEEKEND INTELLIGENCE & NEWS CONSUMPTION**
+  - **~92% automation/newsletters/media/tool notifications** (11 of 12 messages)
+  - **~8% professional correspondence** (1 of 12 messages — AngusTech vendor inquiry routed to Jack Elston/Maciej Stachura)
+  - **SIGNAL: Heavy weekend news/intelligence consumption sustained through Jun 15** — No active business correspondence; continued briefing/monitoring posture
 
 ---
 
@@ -16,17 +15,19 @@
 
 ### Top Internal Senders & Collaborators
 
-- **Jack Elston** (elstonj@blackswifttech.com, media@blackswifttech.com) — **BUSINESS DEVELOPMENT & MEDIA STRATEGY** [Continues as primary internal contact; UAS VISION daily news routing to Jack's media account]
+- **Jack Elston** (elstonj@blackswifttech.com, media@blackswifttech.com) — **BUSINESS DEVELOPMENT & MEDIA STRATEGY** [Jun 15: AngusTech PCB vendor inquiry routed to Jack + Maciej Stachura]
 
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — **SALES/ACCOUNT MANAGEMENT** [Active Jun 12; no new activity in this batch]
+- **Maciej Stachura** (maciej.stachura@blackswifttech.com) — **NEW CONTACT IDENTIFIED** [Jun 15: Co-recipient on AngusTech Heavy Copper PCB inquiry; technical/engineering scope]
+
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — **SALES/ACCOUNT MANAGEMENT** [Previous activity; no new activity in this batch]
 
 ### Top External Senders & Vendors
 
 #### **NOAA S0 APPLICATION / REGULATORY INQUIRY (ACTIVE)**
 
 1. **Terence Gannon** (terryg@blufly.media) — **BluFly Media / REGULATORY CORRESPONDENT**
-   - Last activity: Jun 12, 12:18 UTC (marked IMPORTANT) — follow-up question on NOAA S0; Paige draft response pending
-   - **STATUS**: Active inquiry; awaiting Paige's formulated response
+   - Last activity: Jun 12, 12:18 UTC (marked IMPORTANT)
+   - **STATUS**: Awaiting Paige's formulated response (draft carried forward)
 
 #### **KRATEO SKY × BST (ACTIVE)**
 
@@ -36,93 +37,85 @@
 
 #### **MEDIA & VENDOR ROUTING**
 
-3. **Aveo Engineering Group** (newsletter@aveoengineering.com) — **ENGINEERING INNOVATION VENDOR** [**NEW IN THIS BATCH**]
-   - **Jun 14, 07:44 UTC**: "Aveo at EUROSATORY 2026 - Come to see us!💡" routed to info@blackswifttech.com (marked UNREAD)
-   - **SIGNAL**: Continued vendor monitoring; EUROSATORY is Europe's largest defense/security trade show; newsletter routing suggests ongoing technical interest
+3. **AngusTech** (nicko.xia@angustech.com) — **PCB/ELECTRONICS COMPONENT SUPPLIER** [**NEW IN THIS BATCH**]
+   - **Jun 15, 10:34 UTC**: "Heavy Copper PCB" — routed to Jack Elston + Maciej Stachura + info@blackswifttech.com (marked UNREAD)
+   - **SIGNAL**: New supplier inquiry on printed circuit board capability; heavy copper PCB suggests high-current/high-power applications (likely UAV power distribution or RF systems); routed to technical contact (Stachura) + business development (Elston)
+
+4. **Aveo Engineering Group** (newsletter@aveoengineering.com) — **ENGINEERING INNOVATION VENDOR**
+   - Jun 14, 13:00 UTC: "Your mission, your choice!" (EUROSATORY follow-up)
+   - **PATTERN**: Continued vendor monitoring
+
+5. **STATION Austin** (events@stationaustin.org) — **COMMUNITY/STARTUP SPACE** [**NEW IN THIS BATCH**]
+   - **Jun 14, 14:02 UTC**: "This Week at STATION Austin 🚀 6/15 - 6/19" routed to media@blackswifttech.com
+   - **SIGNAL**: Local Austin startup/innovation community event routing; suggests BST maintains community presence awareness
 
 ---
 
 ## Topic Patterns
 
-### Recurring Intelligence & News Themes (Jun 13-14)
+### Recurring Intelligence & News Themes (Jun 14-15)
 
-#### **Defense & Aerospace Analysis** (Sustained Priority)
-- **Mitchell Institute**: "Allied Airpower Perspectives: Brig Gen Pierre Gaudillière, Commander of the French Air Combat Command - Aerospace Advantage 294" (Jun 13, marked IMPORTANT)
-  - **SIGNAL**: Strategic-level foreign military command intelligence; marks continued focus on allied defense posture
+#### **Geopolitical / Defense Events (Breaking)**
+- **The New York Times Breaking News** (Jun 14, 22:18 UTC, marked UNREAD):
+  - "Breaking news: Trump announces Iran cease-fire agreement"
+  - **SIGNAL**: High-priority geopolitical intelligence routing; aligns with existing defense/aerospace intelligence pattern
 
 #### **General News & Current Events Consumption**
-- **The New York Times** (6 emails, all Jun 13):
-  - Breaking news: Kennedy Center Trump name removal
-  - Morning Briefing: "Unfinished business" (marked IMPORTANT)
-  - Editor Picks: A.I. actress controversy, summer TV guide, sports analysis (Paraguay/World Cup)
-- **The Athletic**: "USMNT's stunning start" (Jun 13, marked IMPORTANT) — sports coverage
-- **Inside Climate News**: "Why an activist from Texas crossed the world to confront Asia's biggest petrochemical company" (Jun 13) — environmental/corporate accountability angle
-- **LinkedIn News**: "Comms pros take the C-suite" (Jun 13) — communications/leadership trend piece
+- **The New York Times** (4 emails, Jun 14):
+  - Breaking news: Iran cease-fire agreement (marked IMPORTANT alert)
+  - Morning Briefing: "The Morning: Free money?" (marked IMPORTANT)
+  - Editor Picks: "Peas are good for you, but just how good?" (health/science angle)
+  - Subscription promotion: Spring field guide
+- **The Athletic Pulse** (Jun 14, marked IMPORTANT): "The Knicks actually did it" — NBA/sports coverage (continued sports interest)
+- **Inside Climate News** (Jun 14): "Pandemic roulette" — environmental/public health intersection
+- **LinkedIn Social**: Anduril Industries post on "The Fight Unfair Collection" (Jun 15, 02:21 UTC)
+  - **SIGNAL: Anduril engagement tracked** — Defense contractor brand/marketing awareness
 
 #### **Promotional/Commercial (Low Priority)**
-- **Staples**: Generic promotional ("Your search is over")
-- **WPBeginner**: WordPress security newsletter (spam/low-signal)
-
-#### **LinkedIn Professional Activity**
-- **Ed Kase**: Comment notification on "City of Loveland Economic Development" post (Jun 14) — **NEW ENGAGEMENT SIGNAL**
-  - Suggests Paige is monitoring/engaging with local economic development topics
-- **Profile analytics**: "Your profile is popular - 12 search appearances" (Jun 13)
+- **Artlist**: "Win tickets to the World Cup Final" — sports/entertainment promotion
+- **The New York Times**: Subscription promotion (field guide discount)
+- **Staples**: Generic printing confirmation/promotional
+- **STATION Austin**: Community event calendar (low commercial intensity; informational routing)
 
 ---
 
 ## Communication Patterns
 
-### Time & Frequency (Jun 13-14)
-- **Activity concentrated on Jun 13** (12 of 14 messages)
-- **Weekend messaging pattern** (Saturday evening through Sunday morning)
-- **Distributed across UTC/PDT time zones** (02:21 - 21:49 UTC)
-- **NO DRAFTS IN THIS BATCH** — suggests completion of Jun 12 pending items, or still pending off-email
+### Time & Frequency (Jun 14-15)
+- **Activity distributed across Jun 14-15** (12 messages total)
+- **Peak activity Jun 14 afternoon/evening** (9 of 12 messages between 10:00-22:18 UTC)
+- **Early morning Jun 15 activity** (2 messages: AngusTech at 10:34 UTC+8; LinkedIn at 02:21 UTC)
+- **Sustained weekend pattern** (Saturday evening through Monday morning UTC/PDT)
+- **NO NEW DRAFTS** — suggests Jun 12 pending items either completed or carried forward separately
 
 ### Message Classifications
-- **"IMPORTANT" flagged:** 4 of 14 messages (~29%)
-  - Mitchell Institute aerospace intelligence
-  - The Athletic sports coverage (USMNT World Cup)
-  - NYT Morning Briefing
-  - LinkedIn profile analytics
-- **"UNREAD" marked:** 13 of 14 messages (~93%) — **WEEKEND BACKLOG** (typical news/social consumption pattern)
+- **"IMPORTANT" flagged:** 3 of 12 messages (~25%)
+  - Trump Iran cease-fire breaking news (geopolitical priority)
+  - NYT Morning Briefing (editorial curation)
+  - The Athletic sports update (sports interest)
+- **"UNREAD" marked:** 12 of 12 messages (100%) — **CONSISTENT WEEKEND BACKLOG PATTERN** (news/social consumption batch mode)
 
 ### Mailing Lists & Automation (Updated)
-- **The New York Times** (6 emails Jun 13): Breaking news, Editor Picks (2), Morning Briefing, Direct edition
-  - **Signal**: Multiple NYT subscription tiers; breaking news + curated editorial + morning briefing coverage
-- **LinkedIn** (2 emails): Notifications (comment activity), news (comms/C-suite trend), profile views
-- **The Athletic** (1 email): Sports news subscription
-- **Inside Climate News** (1 email): Environmental/corporate newsletter
-- **Mitchell Institute** (1 email): Defense/aerospace strategy analysis
-- **Aveo Engineering** (1 email): Vendor/conference notification (routed to info@)
-- **Promotional/spam** (2 emails): Staples, WPBeginner (low engagement signal)
+- **The New York Times** (4 emails): Breaking news (alert-priority), Morning Briefing, Editor Picks, subscription promotions
+  - **Signal**: Maintained multi-tier NYT subscription; breaking news alerts remain high-priority flag targets
+- **LinkedIn** (1 email): Anduril Industries social post notification
+  - **New signal**: Defense contractor brand monitoring via LinkedIn
+- **The Athletic** (1 email): Sports news (NBA focus continues)
+- **Inside Climate News** (1 email): Environmental/pandemic risk newsletter
+- **Vendor/Community** (2 emails): Aveo Engineering, STATION Austin event calendar
+- **Promotional/spam** (3 emails): Artlist, Staples, NYT subscription promo (low engagement signal)
 
 ---
 
 ## Key Relationships
 
 ### Closest Active Collaborators
-1. **Terence Gannon** (BluFly Media) — **HIGH PRIORITY, REGULATORY SCOPE** — Direct technical correspondence on NOAA S0 applications; Paige is subject-matter expert; draft response pending completion
+1. **Terence Gannon** (BluFly Media) — **HIGH PRIORITY, REGULATORY SCOPE** — NOAA S0 application follow-up pending Paige's response (Jun 12 draft)
 
-2. **Sona Raziabeegum** (Krateo Sky) — **ACTIVE POST-DEAL COORDINATION** — Draft message pending (Jun 12); likely finalizing logistics/follow-up
+2. **Sona Raziabeegum** (Krateo Sky) — **ACTIVE POST-DEAL COORDINATION** — Krateo Sky coordination draft pending (Jun 12)
 
-3. **Jack Elston** (Internal) — **MEDIA & BUSINESS DEVELOPMENT** — Continues as primary internal contact; vendor routing coordination
+3. **Jack Elston** (Internal) — **BUSINESS DEVELOPMENT & VENDOR ROUTING** — Jun 15: Co-recipient on AngusTech PCB inquiry; media/partnership coordination
 
-4. **Beck Cotter** (Internal) — **SALES ROUTING** — Acts as intermediary for external compliance inquiries; routes to Paige for SME response
+4. **Maciej Stachura** (Internal) — **TECHNICAL/ENGINEERING** — Jun 15: First identified on AngusTech Heavy Copper PCB inquiry; suggests technical approval/evaluation role on component sourcing
 
-### External Intelligence Connections
-- **Mitchell Institute / Air Force Association** — Sustained geopolitical/defense strategy monitoring (aerospace, allied command structures)
-- **Inside Climate News** — Environmental/corporate accountability tracking
-- **LinkedIn network**: Ed Kase engagement suggests involvement in local/regional economic development discussions
-
----
-
-## Notable Observations
-
-### Work/Life Pattern Signal
-- **Jun 12**: High-volume business activity (36 emails, mixed automation + critical business correspondence on NOAA S0 & Krateo Sky)
-- **Jun 13-14**: Shift to weekend news/intelligence consumption (13 of 14 emails are newsletters/news, 93% unread)
-  - **Interpretation**: Weekend reading/briefing mode; suggests work closure on Jun 12 regulatory/vendor items
-
-### Pending Items (Carried Forward)
-- **NOAA S0 application follow-up**: Paige's draft response to Terence Gannon (Jun 12, 12:59 UTC, marked DRAFT) — still awaiting transmission or formal response
-- **Krateo Sky coordination**: Paige's draft to Sona (Jun 12, 12:59 UTC, marked DRAFT) —
+5. **Beck Cotter

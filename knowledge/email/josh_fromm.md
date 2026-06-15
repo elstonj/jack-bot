@@ -1,16 +1,17 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,010 emails (1,002 prior + 8 new from June 13–14)
-- **Date range:** May 18–June 14, 2026
+- **Total messages scanned:** 1,020 emails (1,010 prior + 10 new from June 15)
+- **Date range:** May 18–June 15, 2026
 - **Daily average:** ~15–17 emails/day (human correspondence); automated/logistics/procurement volume substantial and accelerating
-- **Unread messages:** ~688+ unread (heavy promotional/automated volume; logistics, supplier notifications, travel deals dominating)
-- **New data period (June 13–14):** 8 emails
-  - **Human correspondence:** 0 emails
-  - **Automated/Logistics:** 8 emails (100% of new volume)
-    - **Order confirmations & tracking:** McMaster-Carr (order receipt, June 12 order), Amazon (quick release plate/camera accessories shipment, June 14)
-    - **Promotional/vendor outreach:** AliExpress (promotional), eBay (Futaba 14SG receivers & transmitters sale), Harbor Freight (extended parking lot sale ending), Budget (flash sale - 20+ destinations)
-    - **Travel deals:** Frontier Airlines ($34 fares), Hilton Honors (points promotion)
+- **Unread messages:** ~698+ unread (heavy promotional/automated volume; logistics, supplier notifications, travel deals dominating)
+- **New data period (June 15):** 10 emails
+  - **Human correspondence:** 1 email
+  - **Automated/Logistics/Procurement:** 9 emails (90% of new volume)
+    - **Order confirmations & invoicing:** Digikey (payment notification), Spindrift (order confirmation SH62374651), Account invoice (Account 8xxx4W)
+    - **Promotional/vendor outreach:** AliExpress (50%+ off photo/diving/knife), ELEGOO US (member sale, 2x points, up to 50% off), Harbor Freight (final day parking lot sale), Speedway Motors (vintage USA automotive)
+    - **Travel deals:** Frontier Airlines (member-only fares from $34, last chance)
+    - **Equipment/Components:** HeliDirect (new SAB IL Goblin Competizione helicopter review)
 
 ---
 
@@ -29,20 +30,22 @@
    - Escalation indicates critical blocker requiring C-level attention
 
 3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Technical integration & troubleshooting**
-   - REX110 troubleshooting thread primary technical recipient
+   - **NEW (June 15):** Forwarded REX110 troubleshooting continuation to Atmolab contacts (Jure Dolinar, Jošt Laznik)
+   - REX110 troubleshooting thread primary technical lead/escalation point
    - Camera support for BlackSwift
+   - **Status:** Active troubleshooting in progress; thread continues with external vendor
 
 4. **Maciej Stachura** (stachura@blackswifttech.com) — **Co-investigator/technical lead**
    - Sparv sondes and Arctic Edge 2027 coordination
    - REX110 troubleshooting response recipient
 
 5. **Alex Lomis** (alex.lomis@blackswifttech.com) — **Technical/Operations**
-   - ELEGOO electronics supplier notifications
+   - ELEGOO electronics supplier notifications (routed through purchasing, addressed to Alex Lomis June 15)
    - REX110 troubleshooting thread recipient
 
 6. **Meredith Needham** (meredith.needham@blackswifttech.com) — **Procurement/Operations**
    - **Active (ongoing):** Receiving procurement inquiries and vendor notifications
-   - HeliDirect promotional recipient (servo inventory, June 12)
+   - HeliDirect promotional recipient (new SAB IL Goblin Competizione review, June 14)
    - Baofeng radio field day promotional recipient
    - Active procurement operations; vendor notifications routed directly
 
@@ -62,13 +65,18 @@
 #### Manufacturing & Component Suppliers
 
 **CRITICAL ACTIVE — Atmolab (REX110 Sensor Integration)**
-- **Status:** UNRESOLVED, ESCALATING (Ben Busby direct engagement June 11)
-- Jošt Laznik direct contact on troubleshooting
+- **Status:** UNRESOLVED, ACTIVE TROUBLESHOOTING ESCALATION (June 15)
+- **Contacts:**
+  - **Jure Dolinar** (jure.dolinar@atmolab.eu) — Troubleshooting recipient
+  - **Jošt Laznik** (jost.laznik@atmolab.eu) — Troubleshooting recipient (previously primary contact)
+- **Activity:** Daniel Prendergast forwarded REX110 troubleshooting continuation (June 14 email); thread remains open and active
 
 **NEW STRATEGIC CONTACT — Loc Tech Aerospace**
 - **Adam Lockwood** (adaml@loctechaerospace.com) — Flagged IMPORTANT (June 12); follow-up on supplier opportunity
 
 **Active Suppliers (Ongoing):**
+- **Digikey** — Electronics supplier (payment notification June 15; continuing active account)
+- **Spindrift Market** — Beverage/refreshment supplier (order confirmation June 15)
 - **McMaster-Carr** — Frequent orders (order receipt June 13 for June 12 order cycle)
 - **Amazon** — Electronics & tools (quick release plate/camera accessories June 14)
 - **eBay** — RC equipment (Futaba 14SG receivers & transmitters)
@@ -76,15 +84,18 @@
 - **SendCutSend** — Metal fabrication/sheet metal services
 - **Driftaway Coffee** — Office supplies/refreshments
 - **General Air** — Aircraft equipment/services
-- **HeliDirect** — Servo/RC helicopter components
-- **ELEGOO US** — 3D printing/electronics prototyping
+- **HeliDirect** — Servo/RC helicopter components (new SAB IL Goblin Competizione promotional review)
+- **ELEGOO US** — 3D printing/electronics prototyping (member sale June 15)
+- **AliExpress** — General electronics/equipment (50%+ off sale June 15)
+- **Harbor Freight** — Tools & hardware (parking lot sale June 15)
+- **Speedway Motors** — Automotive equipment/restoration (NEW vendor contact June 15)
 
 ---
 
 ## Topic Patterns
 
 ### Active Project/Technical Threads
-- **REX110 Sensor Integration** — CRITICAL (troubleshooting escalated to Ben Busby June 11; unresolved blocker)
+- **REX110 Sensor Integration** — **CRITICAL, ESCALATING** (troubleshooting forwarded to Atmolab June 14; thread continues across multiple iterations)
 - **Arctic Edge 2027** — Seasonal expedition coordination
 - **Merlin Mk2** — Government program
 - **US Navy SBIR** — Government contract
@@ -92,13 +103,15 @@
 
 ### Procurement & Equipment Focus
 - **Camera/optical:** Quick release plate and camera accessories (Amazon June 14)
-- **RC/Radio Control:** Futaba 14SG transmitters & receivers (eBay sale June 13)
-- **Electronics sourcing:** USB-C components, 5Gbps interfaces, lithium batteries, soldering equipment
+- **RC/Helicopter components:** SAB IL Goblin Competizione (promotional review June 14); Futaba 14SG transmitters & receivers
+- **Electronics sourcing:** Digikey (active account with invoicing June 15), USB-C components, 5Gbps interfaces, lithium batteries, soldering equipment, ELEGOO member sale
 - **Composites & materials:** Rock West Composites
 - **Metal fabrication:** SendCutSend
 - **Servo/RC components:** HeliDirect
-- **3D printing:** ELEGOO US
-- **Tools & hardware:** Harbor Freight, McMaster-Carr (ongoing consumables)
+- **3D printing:** ELEGOO US (2x points, up to 50% off member sale June 15)
+- **Tools & hardware:** Harbor Hart (final day parking lot sale June 15), McMaster-Carr (ongoing consumables)
+- **Office/Beverages:** Spindrift Market (order confirmed June 15)
+- **Automotive (NEW):** Speedway Motors (vintage restoration components June 15)
 
 ### Newsletter/Information Sources
 - **UAS VISION** daily news (industry intelligence)
@@ -109,37 +122,4 @@
 
 ### Routing & Distribution Lists
 - **Purchasing distribution:** Vendor notifications consistently routed to `purchasing@blackswifttech.com` (systematic procurement funneling)
-- **Personal direct contacts:** Limited (Adam Lockwood direct, AliExpress, Frontier Airlines, Hilton Honors direct to personal account)
-- **Travel-related:** Frontier Airlines and Hilton Honors sent to josh.fromm@blackswifttech.com directly (personal travel context)
-
-### Email Volume Characteristics
-- **Automated/logistics:** 100% of new June 13–14 volume (8 of 8 emails)
-- **Human correspondence:** None in new batch (continuing downward trend from June 12)
-- **Unread status:** All 8 emails unread (batch processing/triage behavior consistent)
-- **Flagging pattern:** Travel deals flagged IMPORTANT (Frontier, Hilton); most promotional emails remain unread
-
-### Time Patterns
-- **Order execution:** Multiple McMaster-Carr orders active (June 12 order receipted June 13)
-- **Promotional cadence:** Weekend-heavy (June 13–14 Saturday–Sunday: 6 of 8 promotional emails)
-- **Travel booking activity:** Persistent (Frontier Airlines, Hilton Honors, prior Expedia recommendations)
-
----
-
-## Key Relationships
-
-### Closest Internal Collaborators
-1. **Jack Elston** — Event coordination, technical escalation, government programs
-2. **Ben Busby** — REX110 critical issue ownership (C-level escalation)
-3. **Daniel Prendergast** — Day-to-day technical troubleshooting (REX110, camera systems)
-4. **Maciej Stachura** — Arctic/research coordination
-
-### Strategic External Relationships
-1. **Atmolab (Jošt Laznik)** — **CRITICAL BLOCKER** (REX110 integration unresolved)
-2. **Loc Tech Aerospace (Adam Lockwood)** — **NEW SUPPLIER OPPORTUNITY** (flagged important, June 12)
-3. **Joe Cione (NOAA Federal)** — Government partnership/large multi-stakeholder working groups
-
----
-
-## Notable Observations
-
-- **Automated email dominance continues:** 100% of June 13–14 volume is promotional/logistics; zero human correspondence
+- **Direct vendor emails to procurement team:** ELEGOO US (to Alex Lomis via purchasing June 15), HeliDirect (to Meredith Needham via purchasing June 14), Harbor Freight, Speedway Motors

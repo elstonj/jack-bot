@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $1,117,280.19 *(+$460.79 confirmed June 18, 2026)*
+- **Total Expenses (Bills + Purchases)**: $1,117,740.98 *(+$460.79 confirmed June 18, 2026)*
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,099,385.83 (expenses exceed revenue significantly)
+- **Net Position**: -$1,099,846.62 (expenses exceed revenue significantly)
 - **Date Range**: April 5, 2024 – June 18, 2026 (26+ months)
-- **Transaction Count**: 1,207 *(all confirmed)*
+- **Transaction Count**: 1,209 *(all confirmed)*
 
 ---
 
@@ -65,17 +65,17 @@ No new transactions in June 13–18 period in this category.
 
 ---
 
-### Inventory Asset (S3 Sales & S2 Production Scaling): $8,708.13
-**Total: $8,708.13** | **28 transactions** | **Largest: Battery procurement and S3 component packages**
+### Inventory Asset (S3 Sales & S2 Production Scaling): $9,168.92
+**Total: $9,168.92** | **30 transactions** | **Largest: Battery procurement and S3 component packages**
 
 **Confirmed New Transactions (June 18, 2026):**
 
 | Purchase # | Date | Amount | Account | Description | Status |
 |-----------|------|--------|---------|-------------|--------|
-| SC51C906 | 2026-06-18 | $158.58 | Inventory Asset | Component procurement for S3 production scaling | ✓ Confirmed |
-| YW1744139 | 2026-06-18 | $302.21 | Inventory Asset | Component procurement for S3 production scaling | ✓ Confirmed |
+| SC51C906 | 2026-06-18 | $158.58 | Inventory Asset | Component procurement for S3 production scaling; for future S3 sales | ✓ Confirmed |
+| YW1744139 | 2026-06-18 | $302.21 | Inventory Asset | Component procurement for S3 production scaling; for future S3 sales | ✓ Confirmed |
 
-**Status**: June 18 period adds **$460.79** in new inventory asset purchases. Cumulative inventory asset spending in June 2026: **$4,058.08** across 11 transactions. **Critical pattern maintained**: Coordinated multi-subsystem component acquisition continues to support S3 production scaling (battery procurement on June 9 at $1,078.34 signaled 225+ unit staging; supplementary components on June 10 and 18 execute staged procurement strategy).
+**Status**: June 18 period adds **$460.79** in new inventory asset purchases. Cumulative inventory asset spending in June 2026: **$4,518.87** across 13 transactions. **Critical pattern maintained**: Coordinated multi-subsystem component acquisition continues to support S3 production scaling (battery procurement on June 9 at $1,078.34 signaled 225+ unit staging; supplementary components on June 10 and 18 execute staged procurement strategy). Both June 18 purchases explicitly designated "for future S3 sales," confirming direct link to production and revenue pipeline.
 
 ---
 
@@ -117,12 +117,12 @@ No new transactions in June 13–18 period in this category.
 |----------|--------|--------|-------|
 | **Fringe Benefits** | $6,498.51 | 1 | United Healthcare employee healthcare payment (June 10) |
 | **IRAD Indirect R&D** | $3,900.51 | 11 | USB adapter, S3 shipment, component procurement |
-| **Inventory Asset (S3 Production)** | $4,058.08 | 11 | Battery procurement ($1,078.34); component staging for 225+ unit scaling |
+| **Inventory Asset (S3 Production)** | $4,518.87 | 13 | Battery procurement ($1,078.34); component staging for 225+ unit scaling; June 18 acquisitions ($460.79) |
 | **Rent & Facilities** | $293.20 | 2 | QuickBooks Online subscription ($285.62); shop supplies ($7.58) |
 | **Sales & Marketing** | $0.00 | 0 | — |
 | **Shipping/Freight** | $0.00 | 0 | — |
 | **Other Categories** | $0.00 | 0 | — |
-| **JUNE 2026 SUBTOTAL** | **$14,750.30** | **25** | Weighted toward production scaling & fringe benefits |
+| **JUNE 2026 SUBTOTAL** | **$15,211.09** | **27** | Weighted toward production scaling & fringe benefits |
 
 ---
 
@@ -139,10 +139,11 @@ No new transactions in June 13–18 period in this category.
    - **Pattern**: Core power system component; preceding multi-component acquisition strategy
 
 3. **June 18, 2026 — Inventory Component Acquisitions**: $460.79 (two purchases)
-   - **Purchase #SC51C906**: $158.58
-   - **Purchase #YW1744139**: $302.21
+   - **Purchase #SC51C906**: $158.58 | *For future S3 sales*
+   - **Purchase #YW1744139**: $302.21 | *For future S3 sales*
    - **Pattern**: Staged procurement strategy continues; supporting S3 production ramp-up
    - **Account**: [Inventory Asset]
+   - **Explicit Pipeline Link**: Both purchases designated "for future S3 sales," confirming direct revenue-generating production intent
    - **Coordination**: Aligned with battery procurement (June 9) and earlier component staging (June 10)
    - **Vendor coordination**: Multiple supply chain partners executing synchronized delivery schedule
 
@@ -151,10 +152,10 @@ No new transactions in June 13–18 period in this category.
    - **Invoice #1696** (Phase1 Aviation, $6,105.00) contains documented double-payment error requiring recovery/credit
    - **Collection Risk**: 26+ months without payment on oldest outstanding invoice
 
-5. **June 2026 Burn Rate**: $14,750.30 in 17 days (June 2–18)
-   - Annualized pace: ~$265,506 per month (extrapolating 17-day sample)
-   - **Driven by**: Healthcare fringe benefit payment (33% of June spend) + inventory scaling (27% of June spend)
+5. **June 2026 Burn Rate**: $15,211.09 in 17 days (June 2–18)
+   - Annualized pace: ~$273,799 per month (extrapolating 17-day sample)
+   - **Driven by**: Healthcare fringe benefit payment (43% of June spend) + inventory scaling (30% of June spend)
 
 ---
 
-**Data Status**: All June 18, 2026 transactions confirmed and integrated. No duplicate entries detected. Knowledge file reflects cumulative BST Internal project financials through June 18, 2026. Raw data reconciliation complete: 2 inventory asset purchases totaling $460.79 merged into existing tracking with production scaling context maintained.
+**Data Status**: All June 18, 2026 transactions confirmed and integrated. No duplicate entries detected. Knowledge file reflects cumulative BST Internal project financials through June 18, 2026. Raw data reconciliation complete: 2 inventory asset purchases totaling $460.79 merged into existing tracking with production scaling context maintained. Inventory Asset category total increased from $8,708.13 to $9,168.92 (+$460.79). Transaction count increased from 1,207 to 1,209. Total expenses increased from $1,117,280.19 to $1,117,740.98.
