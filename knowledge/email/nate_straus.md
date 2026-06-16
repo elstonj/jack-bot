@@ -1,6 +1,8 @@
 # Nate Straus — Email Patterns
 
-Only 2 emails found in scanned period.
+Only 4 emails found in scanned period.
 
-- Fri, 12 Jun 2026 16:39:18 +0000 (UTC): Fw: Special Event Notification for Monday, June 8th - Saturday, June 13th (from: Ken Jochim <kjjochim@aol.com>)
-- Fri, 12 Jun 2026 16:37:28 +0000 (UTC): Field Notice (from: Ken Jochim <kjjochim@aol.com>)
+- Mon, 15 Jun 2026 14:37:04 -0600: Re: John Baringer Volunteer (from: John Baringer <johnwobaringer@gmail.com>)
+- Mon, 15 Jun 2026 12:03:27 -0600: Re: John Baringer Volunteer (from: Nathaniel Straus <nate.straus@blackswifttech.com>)
+- Mon, 15 Jun 2026 11:59:15 -0600:  (from: Nathaniel Straus <nate.straus@blackswifttech.com>)
+- Mon, 15 Jun 2026 11:35:47 -0600: Re: John Baringer Volunteer (from: Jack Elston <elstonj@blackswifttech.com>)

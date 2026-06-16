@@ -1,6 +1,7 @@
 # Ethan Domagala — Email Patterns
 
-Only 2 emails found in scanned period.
+Only 3 emails found in scanned period.
 
-- Fri, 12 Jun 2026 15:56:16 +0000 (UTC): 🔥 Save 34% On The New Lumenier ZIP V2 (from: GetFPV <chloe@getfpv.com>)
-- Fri, 12 Jun 2026 14:15:47 +0000: Friday - tasks due soon: 1 - blackswifttech.com (from: Asana <no-reply@asana.com>)
+- Mon, 15 Jun 2026 13:42:04 -0700: Your Google traffic is bleeding out (from: Kylie Bliss <kbliss@hubspot.com>)
+- Mon, 15 Jun 2026 11:59:23 -0600:  (from: Ethan Domagala <ethan.domagala@blackswifttech.com>)
+- Mon, 15 Jun 2026 14:15:51 +0000: Monday - tasks due soon: 1 - blackswifttech.com (from: Asana <no-reply@asana.com>)

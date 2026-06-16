@@ -11,7 +11,7 @@
 - **Risk Signals**: 
   - **🔴 CRITICAL: Project indefinitely postponed on external EMASS controller delivery** — Validation Flights #2 and #3 cannot proceed until EMASS delivers functioning controller binary. This is outside BST control.
   - **🔴 CRITICAL: Customer payment friction** — EMASS refused to pay final milestone ($35k) because Validation Flights #2–#3 and final report remain incomplete. New per-flight-day billing model signals reduced confidence in fixed-price delivery.
-  - **⚠️ Escalation boundary set**: Jack Elston (May 12, 2026) imposed informal 1-month hold limit (~June 12, 2026) before escalation/re-evaluation.
+  - **⚠️ Escalation boundary approaching** (set ~June 12, 2026): Jack Elston (May 12, 2026) imposed informal 1-month hold limit before escalation/re-evaluation.
   - **⚠️ Priority downrank**: Maciej Stachura (April 30, 2026) ranked EMASS as Priority #3 for closure (after S3 IRAD and S0-VTOL), indicating BST focus is shifting elsewhere while awaiting customer action.
   - **⚠️ Navy meeting no-show** (June 8, 2026): Scheduled Navy meeting at 9:30 AM did not occur per Maciej Stachura — possible further delays or schedule slippage.
 
@@ -20,14 +20,14 @@
 - **Phase 1b: Interface Design Freeze** (Due: Feb 6, 2026) - ✅ Completed
 - **Phase 2: Integration & Firmware** (Due: Feb 13, 2026) - ✅ Completed
 - **Phase 4: Validation & Reporting** (Due: Mar 11, 2026) - ✅ Completed
-- **Milestone 4a: Engineering support + flights** ($25k) — **ACTIVE / IN PROGRESS**
+- **Milestone 4a: Engineering support + flights** ($25k) — **IN PROGRESS / BLOCKED**
   - Validation Flight #1 (April 27, 2026) — ✅ **Completed April 25, 2026** (2 days early)
   - Validation Flight #2 — **🔴 INDEFINITELY POSTPONED** *(awaiting functioning controller binary from EMASS)*
   - Validation Flight #3 — **🔴 INDEFINITELY POSTPONED** *(awaiting functioning controller binary from EMASS)*
 - **Milestone 4b: Final reports** ($10k) — **🔴 BLOCKED** *(cannot start until validation flights #2–#3 complete)*
 
 ## Task Summary
-- **Total Open Tasks**: 5 tasks; **0 completed in this cycle**
+- **Total Open Tasks**: 5 tasks; **0 completed in this reporting cycle**
   - Validation Flight #2 (Dan Prendergast, no due date) — **INDEFINITELY POSTPONED on EMASS controller delivery**
   - Validation Flight #3 (Dan Prendergast, no due date) — **INDEFINITELY POSTPONED on EMASS controller delivery**
   - Final Report (Dan Prendergast, no due date) — **BLOCKED** (cannot complete until validation flights complete)
@@ -40,22 +40,22 @@
 
 ## Recent Activity
 
-**June 8, 2026 (Maciej)**:
-- Navy meeting at 9:30 AM **did not occur** (meeting cancellation/no-show flagged).
-- **Note**: Magnetometer integration assigned to **Alex and Sam** (critical engineering tasks) — external team members not in EMASS task roster; possible cross-project support or sub-team structure.
+**June 8, 2026 (Maciej Stachura — Team Correction)**:
+- Navy meeting at 9:30 AM **did not occur** — flagged as no-show.
+- **Note**: Magnetometer integration assigned to **Alex and Sam** (critical engineering tasks) — external team members not in EMASS core task roster; possible cross-project support or sub-team structure.
 
-**June 2026 (AUTHORITATIVE CORRECTION — Daniel Prendergast)**:
+**June 2026 (Daniel Prendergast — Authoritative Billing Restructure)**:
 - **BILLING MODEL REVISED due to customer payment friction**
 - Quote: "they did not want to pay for our last milestone on the original agreement ($35k) since we never completed a final report. So I told them we're going to split that milestone into 'Milestone 4a: Engineering support + flights' for $25k, and 'Milestone 4b: final reports' for $10k. Moving forward we're just going to charge them on a per-flight-day basis."
 - **Interpretation**: EMASS pushed back on fixed-price model; BST accepted reduced Milestone 4 payment ($35k → $25k upfront) and transitioned to time-and-materials (per-flight-day) billing to reduce customer friction and maintain relationship. Signals customer dissatisfaction with incomplete deliverables.
 
-**May 14, 2026 (AUTHORITATIVE — Daniel Prendergast)**:
+**May 14, 2026 (Daniel Prendergast — Authoritative)**:
 - **PROJECT INDEFINITELY POSTPONED ON EMASS CONTROLLER DELIVERY**
 - Quote: "CU IRISS training is complete. EMASS Validation Flight #2 is postponed indefinitely until they get us a functioning controller."
 - Both Validation Flights #2 and #3 cannot proceed.
 
-**May 12, 2026 (AUTHORITATIVE CORRECTION — Jack Elston)**:
-- **De-prioritize EMASS; impose informal 1-month boundary**
+**May 12, 2026 (Jack Elston — Authoritative Escalation Boundary)**:
+- **De-prioritize EMASS; impose informal 1-month hold boundary**
 - Quote: "emass is likely delayed, we're waiting on them to get a working system to test, so de-prioritize it, but we don't want to drag this out more than a month"
 - **Interpretation**: Accept external delay is expected; enforce escalation/re-evaluation by ~June 12, 2026 if situation unresolved.
 
@@ -69,4 +69,4 @@
 **April 30, 2026 (Maciej)**:
 - **EMASS ranked Priority #3 for closure** (after S3 IRAD and S0-VTOL), indicating BST focus is shifting elsewhere while awaiting customer action.
 
-**April 25, 2026 (Daniel Prendergast)**:
+**April 

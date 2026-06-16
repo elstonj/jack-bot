@@ -1,76 +1,139 @@
 # Meredith O'hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 13 emails
-- **Date range:** June 12–15, 2026 (4 days)
-- **Approximate volume:** ~3 emails/day; heavily weighted toward automated/purchasing notifications
+- **Total messages scanned:** 61 emails
+- **Date range:** June 15–16, 2026 (2 days)
+- **Approximate volume:** ~30 emails/day; heavily weighted toward automated notifications, task assignments, and vendor communications
+- **Trend:** Significant increase from previous sample (13 → 61 messages); indicates active purchasing workflow and out-of-office auto-reply period generating heavy return traffic
 
 ## Key Correspondents
 
 ### Incoming (by frequency)
-1. **Purchasing system** (`purchasing@blackswifttech.com`) — 8 messages (vendor confirmations, invoices, shipping notifications)
-2. **Bloomberg** (`subscriptions@message.bloomberg.com`) — 1 message
-3. **Aveo Engineering Group** (`newsletter@aveoengineering.com`) — 2 messages
-4. **HeliDirect** (`sales@helidirect.com`) — 1 message
-5. **Nicko - AngusTech** (`nicko.xia@angustech.com`) — 1 message (to multiple BST recipients)
+1. **Asana task notifications** (`no-reply@asana.com`) — 7 messages (purchasing task assignments: Digikey, Amazon, compositeenvisions, batteries, Mouser)
+2. **Purchasing system** (`purchasing@blackswifttech.com`) — 15+ messages (vendor confirmations, invoices, shipping, promotions)
+3. **Human Interest (HR/Benefits)** (`noreply-support@mail.humaninterest.com`) — 2 messages (SECURE 2.0 Amendment, invoices)
+4. **SAM.gov registrations** (`donotreply@sam.gov`) — 2 messages (government vendor registration & IRS TIN validation)
+5. **Government/External Partners:**
+   - Lockheed Martin UK Approved Supplier Database — 2 messages
+   - DARPA (`operations@blackswifttech.com`) — 1 message
+   - Amy McLiverty - NOAA Federal — 1 message
+   - Stephanie Cintron - Embry-Riddle Aeronautical University (`CINTRONS@erau.edu`) — 1 message
+6. **Internal BST colleagues (direct):**
+   - Jack Elston (`elstonj@blackswifttech.com`) — 1 direct message, multiple forwarded chain participation
+   - Beck Cotter (`beck.cotter@blackswifttech.com`) — 1 message (NOAA delivery order)
+7. **External vendors & contacts:**
+   - Briana Gonzalez (`briana@jawstec.com`) — Possible order delay notice
+   - Sean Cole (`sean@phase1av.com`) — Invoice #1112
+   - Chad Atwood (`chad@theaiginc.com`) — Survey request
+   - Nadia Bryan (`nbryan@kofirm.com`) — Disclosure numbers discussion (likely legal/compliance)
 
-### Outgoing
-- **Meredith Needham** → Bloomberg bounce address (Out of Office auto-reply on June 14)
+### Outgoing (Out of Office Auto-Replies)
+- **7 out-of-office replies sent** during June 15 period to:
+  - Human Interest (benefits/HR system)
+  - SAM.gov
+  - Jack Elston (Black Swift Disclosure Numbers)
+  - Beck Cotter (NOAA delivery order)
+  - eBay/Lockheed notifications
+  - Chad Atwood (survey)
+  - Nadia Bryan (disclosure numbers)
+  - Amy McLiverty (NOAA)
+  - Bloomberg subscription
+
+- **1 self-generated email:** "Daily Purchasing Summary" (likely automated or personal task log)
 
 ### Internal Collaboration
-- Emails routed through BST purchasing/proposals/operations distribution lists
-- Notable: AngusTech email copied to `elstonj@blackswifttech.com` and `maciej.stachura@blackswifttech.com`
+- **Primary internal contacts:** Jack Elston (elstonj), Maciej Stachura (stachuram), Beck Cotter (beck.cotter)
+- **Shared distribution lists:**
+  - `purchasing@blackswifttech.com`
+  - `proposals@blackswifttech.com`
+  - `operations@blackswifttech.com`
+  - `info@blackswifttech.com`
 
-### External Vendors & Suppliers
-- **Component/Equipment:** McMaster-Carr, Digikey, eBay, Amazon
-- **Specialty Hardware:** SAB (helicopter equipment via HeliDirect), Futaba (RC control systems)
-- **PCB Services:** AngusTech (Heavy Copper PCB inquiry)
-- **Tools/Retail:** Harbor Freight, Speedway Motors
-- **Beverages:** Spindrift
-- **Logistics:** UPS
+### External Vendors & Suppliers (Updated)
+**Electronics & Components:**
+- Digikey, Mouser (GCS parts)
+- Amazon (Kingston DataTraveler, quick release plates, general procurement)
+- eBay (Sony A5100 camera, Futaba 14SG receivers/transmitters)
+- NewBeeDrone (drone equipment)
+
+**Manufacturing & Custom Work:**
+- AngusTech (Heavy Copper PCB)
+- Protocase (enclosures, short lead times)
+- SendCutSend (metal fabrication — order SW46G546 delivered)
+- compositeenvisions (S3 sales project)
+- RotorWorks Manufacturing (Boulder-based supplier, scheduled visit June 22)
+
+**Specialty Aviation/Aerospace:**
+- Phase 1 Aviation LLC (`sean@phase1av.com`) — Invoice payment
+- JawsTec (`briana@jawstec.com`) — Possible order delays
+- NECO Labs (supplier support opportunity routed via proposals)
+
+**Retail & Tools:**
+- Harbor Freight, Speedway Motors, Amazon
+
+**Beverages:**
+- Spindrift (order on the way)
+
+**Government/Compliance Vendors:**
+- SAM.gov (federal vendor registration)
+- Lockheed Martin UK Approved Supplier Database
 
 ## Topic Patterns
 
-### Purchasing & Procurement (Primary)
-- Quick Release Plates, Camera equipment
-- Futaba RC transmitters/receivers
-- Heavy Copper PCB sourcing (AngusTech)
-- Industrial components (McMaster-Carr, Digikey)
-- Tools and hardware (Harbor Freight, Speedway Motors)
+### Primary: Purchasing & Procurement ([001-13] Project Codes)
+- **Active task assignments** in Asana:
+  - "Digikey (GCS parts)" — component sourcing
+  - "Amazon / GCS" — procurement
+  - "compositeenvisions for s3 sales" — sales support project
+  - "batteries for s0 idiq" — s0 platform batteries
+  - "Mouser" — component procurement
+- **Recent deliveries tracked:**
+  - Quick release plates (5x)
+  - Kingston 64GB DataTraveler USB drives
+  - SendCutSend metal fabrication order
+- **Active vendor communications:**
+  - Phase 1 Aviation invoicing
+  - JawsTec delivery delays (potential supply chain issue)
+  - RotorWorks introduction (June 22 Boulder visit scheduled)
 
-### Vendor/Newsletter Content
-- Aveo Engineering Group promotional emails (2 messages about EUROSATORY 2026 and product updates)
-- HeliDirect product reviews (SAB IL Goblin Competizione helicopter)
-- Bloomberg subscription content (sports-related: World Cup)
+### Secondary: Government/Defense Compliance
+- **SAM.gov registration:** Federal contractor registration activated (C2J3K9NRE3L3)
+- **IRS TIN validation:** Complete
+- **Lockheed Martin UK accreditation:** "Air & Avionic Equipment & Services" approved
+- **DARPA participation:** Lift Challenge (Aug 6-9)
+- **NOAA relationship:** Amy McLiverty coordination on delivery orders
+- **Embry-Riddle partnership:** S0 Model collaboration with Stephanie Cintron (ERAU faculty)
 
-### Government/Defense
-- DARPA announcements (MXO and IPTO Leaders event) — routed via proposals & operations
+### Tertiary: HR/Benefits & Internal Administrative
+- **Human Interest (401k/Benefits):**
+  - SECURE 2.0 Amendment (mandatory action)
+  - Invoice ready notification
+- **Rippling (HR system):** Pending tasks notification
+- **Rippling survey:** $50 gift card incentive (Sapient Insights)
+- **Jack Elston forwarded:** SECURE 2.0 Amendment follow-up
+
+### Newsletters & Monitoring
+- **UASweekly Daily Newsletter** (to `info@blackswifttech.com`)
+- **Aveo Engineering Group** (EUROSATORY, product updates)
+- **Bloomberg Technology** (Apple's AI future — appears to be personal subscription)
+- **Axios New Orleans** ("Preparing for Waymo" — autonomous vehicle monitoring)
+- **Commercial UAV News** (Matt Collins outreach via operations list)
 
 ## Communication Patterns
 
-- **Mostly automated:** ~85% of messages are vendor confirmations, invoices, newsletters, and shipping notifications
-- **Weekend activity:** Heavy email volume on Saturday-Sunday (June 13-14), suggesting automated systems or batch processing
-- **Out of Office:** Set during June 14–15 period
-- **No direct internal correspondence visible** in this sample
-- **Mailing list participation:** Receives DARPA and Aveo Engineering group broadcasts
+- **Heavy automated load:** ~75% of messages are system notifications, vendor confirmations, task assignments, and newsletters
+- **Out-of-office active:** Extended OOO during June 15 (travel or leave) generating multiple auto-replies throughout day
+- **Task-driven workflow:** Asana is primary work coordination tool; 7 task assignments visible in 2-day window
+- **Daily summary:** Self-generated "Daily Purchasing Summary" suggests structured procurement tracking
+- **Government compliance cycle:** SAM.gov, Lockheed Martin, and DARPA communications all clustered around June 15 (registration/accreditation period)
+- **Mailing list participation:**
+  - `operations@blackswifttech.com` (DARPA, Boulder County, Commercial UAV News)
+  - `proposals@blackswifttech.com` (Lockheed Martin, supplier opportunities)
+  - `info@blackswifttech.com` (Aveo Engineering, UASweekly)
+- **Time zones:** Email activity spans UTC, EDT, CDT, and PDT (distributed team or travel)
 
 ## Key Relationships
 
-### External Vendors (by apparent importance)
-1. **McMaster-Carr** — Industrial component supplier (invoicing)
-2. **Digikey** — Electronics component supplier (payment notifications)
-3. **AngusTech** — PCB/heavy copper manufacturing (active inquiry)
-4. **HeliDirect** — Specialty equipment (product updates and sales)
-
-### Internal Contacts
-- **Elston J.** (`elstonj@blackswifttech.com`) — Copied on AngusTech PCB inquiry
-- **Maciej Stachura** (`maciej.stachura@blackswifttech.com`) — Copied on AngusTech PCB inquiry
-- Cross-functional involvement with proposals and operations teams via DARPA announcements
-
-## Notable Observations
-
-- **Dual purchasing focus:** Both industrial/RF components (transmitters, PCBs, quick release plates) AND hobby/recreational equipment (RC helicopters, motorsports). Suggests either mixed purchasing responsibilities or personal orders routed through BST system.
-- **Out of Office during work period:** June 14-15 auto-reply suggests travel or leave.
-- **Distributed email addresses:** Messages show emails routed to `purchasing@blackswifttech.com`, `proposals@blackswifttech.com`, and `operations@blackswifttech.com` — unclear if Meredith owns these or is on shared lists.
-- **Heavy Copper PCB inquiry:** AngusTech email signals potential new electronics/RF project requiring specialized manufacturing.
-- **No visible direct email composition** — all outgoing activity is auto-replies; actual work communication likely happens elsewhere or during travel window.
+### Internal Collaborators (by evidence)
+1. **Jack Elston** (`elstonj@blackswifttech.com`) — Direct manager/senior leadership role
+   - Forwards critical items (SECURE 2.0

@@ -5,24 +5,25 @@
 The #commercial-sales channel is Black Swift Technologies' hub for customer orders, project delivery, and sales execution. It tracks aircraft systems (E2, S2, S3, S0, S0-VTOL), payload integrations, customer relationships, and the complete lifecycle from quotes through delivery and support. The channel shows active engagement with university research programs, government agencies (NASA, NOAA), and international customers, with discussion spanning technical specifications, shipping logistics, quality control, and troubleshooting.
 
 **Key Participants:**
-- Jack Elston (leadership, customer relationships, technical decisions)
+- Jack Elston (leadership, customer relationships, technical decisions, travel coordination)
 - Joshua Fromm (manufacturing, technical implementation, battery/avionics work, shipping coordination)
 - Melissa Phillips (shipping/logistics coordination)
-- Maciej Tromba (payload/camera work, customer communication, sales decisions)
+- Maciej Tromba (payload/camera work, customer communication, sales decisions, demo participation)
 - Danny Troke (QC, testing, batteries)
 - Meredith Needham (shipping, logistics, quote coordination, invoice tracking)
 - Nate (assembly, QC flights, payload prep, GCS builds, quotes)
 - Paige Smith (sales coordination, customer communication)
-- Beck Cotter (customer outreach, email coordination, S0/S0-VTOL ownership coordination, Arctic demo coordination)
+- Beck Cotter (customer outreach, email coordination, S0/S0-VTOL ownership coordination, Arctic demo coordination, travel booking)
 - Ben Busby (team member, sales pipeline tracking)
-- Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead)
+- Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead, demo participation)
 - Dan H (CU - external customer, E2 battery interest)
 - Bassil (customer - methane research, travel May 19-June 9, 2026)
 - Stefan (Atmofacts - external partner, methane algorithm tuning)
 - Chris (UMES - external customer contact, S3 training/delivery)
 - UCSC (prospective customer - oceanographic work, S3 interest, June 11, 2026 meeting scheduled)
+- Trenton (administrative/logistics contact, external stakeholder involved in travel approval/reimbursement)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: June 11, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: June 15, 2026.
 
 ---
 
@@ -105,7 +106,4 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Dan Prendergast confirmed with NASA customer
 
 **NOAA S0 Production Request (May 26, 2026)**
-- Joshua Fromm asking for clarification on number of S0 units needed for NOAA delivery
-- Implies ongoing NOAA customer relationship with pending order
-
-**Sales Record Filtering Clarification (June 1, 
+- Joshua Fromm asking for clarification on number of S0

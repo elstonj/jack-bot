@@ -69,7 +69,3 @@ Goal management workflow template used to brainstorm, draft, and approve BST's m
 This project successfully established BST's marketing framework, digital infrastructure, and strategic positioning within the geoscience and UAS communities through 2025. It is no longer active. New marketing goals are tracked in subsequent project cycles.
 
 **⚠️ Important Clarification:** This archived project is separate from active technical engineering work. Concurrent active projects include EMASS flight tests, S0-VTOL debugging, S3 work, and Mustang progress — those belong to different, active engineering initiatives and should not be confused with this completed marketing goals workflow (May 2024 – April 2025).
-
----
-
-**Data Status:** ✅ Knowledge file confirmed current. New raw data shows 0 open tasks and 1 completed task ("How do we get to #1 for drone?" — 2025-04-10), consistent with archived status. No changes to project narrative required.

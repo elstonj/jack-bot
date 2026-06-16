@@ -25,12 +25,14 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **June 3, 2026**: Updated TDR data confirmed to cover test region for 04-07 flights; noted temporal smoothing in TDR analyses from multi-leg averaging causing lower wind speed readings compared to S0 and dropsondes (per Josh Wadler technical explanation)
 - **June 8, 2026**: Flux analysis from 04-07 flight determined to be limited due to insufficient quality flux legs; prioritized focus on 04-09 high-rate data analysis for identifying and resolving calibration issues
 - **June 12, 2026**: Maciej outlined comprehensive testing plan for fixes/issues discovered from recovered S0 test, prioritizing affine magnetometer calibration (0.5 m/s average error correction), accelerometer corrections (4° roll error at max roll), accelerometer calibration (0.3 m/s wind error reduction), mag-IMU alignment (0.5 m/s error on S0-70), and pressure scaling corrections (with plan to correct both tunnel and aircraft data to recalibrate IAS)
+- **June 15, 2026**: Decided OOI array test should be framed as internal R&D effort (not Navy-funded) for at least July; team to assess feasibility of pursuing in July versus deferring to October when Phase II funding clarity and available flight hours are confirmed; noted no guarantee of flight hours after October 1
 
 ## Projects & Initiatives
 **Navy STTR Boundary Layer Measurements Project (Award: N6833535C0270)**
 - Phase I Base completed January 2026 with kick-off document, progress report, and final deliverables
 - Phase I Option awarded January 26, 2026, funding released March 20, 2026
 - Phase II proposal submitted February 20, 2026 (24-month base $1M + 24-month option $1M with 1:1 cost match)
+- Phase II announcement still pending as of June 15, 2026; evaluation package awaiting transmission to Lakehurst for contracting office processing
 - Current focus: S0 sensor characterization, turbulence measurements, wave height detection, air-sea interactions
 
 **Technical Development Areas:**
@@ -45,7 +47,4 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **Turbulence Metrics Reproducibility (June 5, 2026)**: Investigating differences in turbulence metrics between two S0 aircraft flying at same low altitude during CAT flights; Josh Wadler seeking reproducibility validation; Maciej exploring multiple post-processing approaches to improve data quality and reduce noise
 - **Flux Calculation Methodology (June 8, 2026)**: Josh Wadler calculating turbulent flux components (u, v, w wind components) with mean wind subtraction per leg; focus on high-rate 04-09 data for validation; Maciej investigating whether pressure sensor bias corrections improve or worsen flux results
 - **Comprehensive Calibration/Validation Initiative (June 12, 2026 - Maciej leading)**:
-  - **Affine Magnetometer Calibration**: Addresses non-orthogonal magnetic axes; tested on recent CAT flights; corrects average 0.5 m/s error (peak up to 1.5 m/s)
-  - **Accelerometer Corrections**: Two-part approach:
-    - Correction to 9.81 m/s² gravity: Resolves up to 4° roll error at maximum roll (minimal during straight and level flight)
-    - Accelerometer calibration: Sub-0.5° adjustments reducing wind errors (vertical bias and sinusoidal x/y component)
+  - **Affine Magnetometer Calibration**: Addresses non-orthogonal magnetic axes; tested on recent CAT flights; corrects average

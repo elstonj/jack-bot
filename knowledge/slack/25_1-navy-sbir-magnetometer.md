@@ -74,4 +74,6 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Deliverable: Reusable hand-launched S0 analog for local testing and Marine use case
 - Navy will primarily launch from UH-60 helicopters
 - Local mag flights: Scheduled for July 1st, 2026 with Bartington sensor testing
-- Flight testing documentation: Navy/Marine events require form completion for S0 flight testing (June
+- Flight testing documentation: Navy/Marine events require form completion for S0 flight testing
+
+**

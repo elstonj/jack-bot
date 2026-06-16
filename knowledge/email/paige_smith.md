@@ -1,13 +1,13 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,537 (2,525 previous + 12 new from Jun 14-15, 2026)
-- **Date range:** March 24 – June 15, 2026 (83 days)
-- **Approximate volume:** ~31 messages per day (sustained consistency)
-- **Pattern update (Jun 14-15, 2026):** **CONTINUED WEEKEND INTELLIGENCE & NEWS CONSUMPTION**
-  - **~92% automation/newsletters/media/tool notifications** (11 of 12 messages)
-  - **~8% professional correspondence** (1 of 12 messages — AngusTech vendor inquiry routed to Jack Elston/Maciej Stachura)
-  - **SIGNAL: Heavy weekend news/intelligence consumption sustained through Jun 15** — No active business correspondence; continued briefing/monitoring posture
+- **Total messages scanned:** 2,587 (2,537 previous + 50 new from Jun 15-16, 2026)
+- **Date range:** March 24 – June 16, 2026 (85 days)
+- **Approximate volume:** ~30.4 messages per day (sustained consistency)
+- **Pattern update (Jun 15-16, 2026):** **SHIFT FROM WEEKEND NEWS CONSUMPTION TO ACTIVE BUSINESS OPERATIONS**
+  - **~72% automation/newsletters/media/tool notifications** (36 of 50 messages)
+  - **~28% professional correspondence & business-critical items** (14 of 50 messages)
+  - **SIGNAL: Monday business cycle reactivation** — Transition from weekend briefing mode to operational engagement with stakeholder coordination (Krateo Sky event call, Rubicon aerospace media authorization, RMI contractor logo work, AGU 2026 invoice processing)
 
 ---
 
@@ -15,107 +15,94 @@
 
 ### Top Internal Senders & Collaborators
 
-- **Jack Elston** (elstonj@blackswifttech.com, media@blackswifttech.com) — **BUSINESS DEVELOPMENT & MEDIA STRATEGY** [Jun 15: AngusTech PCB vendor inquiry routed to Jack + Maciej Stachura]
+- **Jack Elston** (elstonj@blackswifttech.com, media@blackswifttech.com) — **BUSINESS DEVELOPMENT, MEDIA STRATEGY, VENDOR ROUTING** [Jun 16: 3 sequential emails with Kathi Healy (RMI Select) on "BST x KS Event Updates" marked IMPORTANT; Jun 15: Custom socks procurement forward]
 
-- **Maciej Stachura** (maciej.stachura@blackswifttech.com) — **NEW CONTACT IDENTIFIED** [Jun 15: Co-recipient on AngusTech Heavy Copper PCB inquiry; technical/engineering scope]
+- **Maciej Stachura** (stachuram@blackswifttech.com) — **TECHNICAL/ENGINEERING** [Jun 15: Co-recipient on RotorWorks Manufacturing introduction via Tim Pearson/Sales channel]
+
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — **NEW ACTIVE CORRESPONDENT** [Jun 15: IMPORTANT email exchange with Lee Skidmore (Rubicon Aerospace) on "IG/Media Post Authorization Question" — marketing/social media approval workflow]
 
 - **Beck Cotter** (beck.cotter@blackswifttech.com) — **SALES/ACCOUNT MANAGEMENT** [Previous activity; no new activity in this batch]
 
 ### Top External Senders & Vendors
 
-#### **NOAA S0 APPLICATION / REGULATORY INQUIRY (ACTIVE)**
+#### **KRATEO SKY × BST (ESCALATING)**
 
-1. **Terence Gannon** (terryg@blufly.media) — **BluFly Media / REGULATORY CORRESPONDENT**
-   - Last activity: Jun 12, 12:18 UTC (marked IMPORTANT)
-   - **STATUS**: Awaiting Paige's formulated response (draft carried forward)
-
-#### **KRATEO SKY × BST (ACTIVE)**
+1. **Kathi Healy** (kathi@rmiselect.com) — **RMI SELECT / EVENT COORDINATION & DESIGN**
+   - **Jun 16, 00:27-00:39 UTC:** 2 IMPORTANT sequential replies from Jack Elston to Kathi on "BST x KS Event Updates"
+   - **Jun 15, 16:48 UTC:** Calendar invitation "BST x KS Connection Call @ Mon Jun 15, 2pm - 1:45pm (MDT)" (marked IMPORTANT)
+   - **Jun 15, 16:12 UTC:** "BST x KS Event Updates" direct to Paige + Jack + Sona (marked IMPORTANT)
+   - **Jun 15, 15:28 UTC:** Paige draft reply to RMI Contractor on "Blackswift Technologies Logo" (design work)
+   - **Jun 15, 10:05 UTC:** RMI Contractor initial logo brief (marked IMPORTANT)
+   - **STATUS**: Active post-deal event coordination and brand/collateral design sprint; multi-stakeholder engagement (Paige, Jack, Sona from Krateo Sky)
+   - **SIGNAL**: RMI Select managing partnership event logistics and BST brand identity materials (logo, event messaging)
 
 2. **Sona Raziabeegum** (sona@krateosky.com) — **KRATEO SKY**
-   - Last activity: Jun 12, 12:59 UTC (Paige draft message unsent)
-   - **STATUS**: Post-deal coordination; draft pending completion
+   - **Jun 15, 16:48 UTC:** Co-recipient on Kathi Healy calendar invite ("BST x KS Connection Call")
+   - **Jun 15, 16:12 UTC:** Co-recipient on "BST x KS Event Updates" from Kathi
+   - **Jun 15, 16:05 UTC:** Direct recipient on calendar invite from Kathi Healy
+   - **STATUS**: Actively engaged in post-deal coordination; Krateo Sky stakeholder on partnership event planning
 
-#### **MEDIA & VENDOR ROUTING**
+3. **Terence Gannon** (terryg@blufly.media) — **BluFly Media / REGULATORY CORRESPONDENT**
+   - **STATUS**: Previous NOAA S0 application inquiry (Jun 12 draft pending — no new activity in this batch)
 
-3. **AngusTech** (nicko.xia@angustech.com) — **PCB/ELECTRONICS COMPONENT SUPPLIER** [**NEW IN THIS BATCH**]
-   - **Jun 15, 10:34 UTC**: "Heavy Copper PCB" — routed to Jack Elston + Maciej Stachura + info@blackswifttech.com (marked UNREAD)
-   - **SIGNAL**: New supplier inquiry on printed circuit board capability; heavy copper PCB suggests high-current/high-power applications (likely UAV power distribution or RF systems); routed to technical contact (Stachura) + business development (Elston)
+#### **RUBICON AEROSPACE (NEW ACTIVE PARTNERSHIP)**
 
-4. **Aveo Engineering Group** (newsletter@aveoengineering.com) — **ENGINEERING INNOVATION VENDOR**
-   - Jun 14, 13:00 UTC: "Your mission, your choice!" (EUROSATORY follow-up)
-   - **PATTERN**: Continued vendor monitoring
+4. **Lee Skidmore** (lee@rubiconaerospace.com) — **RUBICON AEROSPACE**
+   - **Jun 15, 20:40 UTC:** IMPORTANT email to Joshua Fromm + Paige: "Re: Rubicon - IG/Medial Post Authorization Question"
+   - **SIGNAL**: Social media (Instagram) and media post approval workflow between Rubicon and BST; suggests joint marketing/partnership announcement coordination
+   - **Cc'd parties**: Jeremy Van Vliet (jeremy@rubiconaerospace.com) — Rubicon internal stakeholder
 
-5. **STATION Austin** (events@stationaustin.org) — **COMMUNITY/STARTUP SPACE** [**NEW IN THIS BATCH**]
-   - **Jun 14, 14:02 UTC**: "This Week at STATION Austin 🚀 6/15 - 6/19" routed to media@blackswifttech.com
-   - **SIGNAL**: Local Austin startup/innovation community event routing; suggests BST maintains community presence awareness
+5. **Joshua Fromm** (josh.fromm@blackswifttech.com) — **BST INTERNAL (likely Marketing/Communications)**
+   - **Jun 15, 14:30 UTC:** Reply to Lee Skidmore on Rubicon media post authorization
+   - **STATUS**: Managing external partner media approvals; suggests Joshua owns marketing/comms approval authority
+
+#### **VENDOR & SUPPLIER ROUTING**
+
+6. **Tim Pearson / Sales** (sales@blackswifttech.com) — **INTERNAL VENDOR COORDINATION**
+   - **Jun 15, 17:44 UTC:** "Introduction — RotorWorks Manufacturing / Boulder Visit on June 22" routed to Jack Elston + Maciej Stachura
+   - **SIGNAL**: Manufacturing partner (RotorWorks, Boulder, CO) site visit June 22; technical + business development stakeholders; likely component manufacturing or UAV production capacity evaluation
+
+#### **MEDIA & OUTREACH**
+
+7. **Matt Collins** (info@expouav.com) — **COMMERCIAL UAV NEWS / MEDIA INQUIRY**
+   - **Jun 15, 13:19 UTC:** "Can I get your take on something?" — outreach to Paige
+   - **SIGNAL**: Media/journalist inquiry seeking BST perspective on industry topic; suggests Paige recognized as external-facing communications contact
 
 ---
 
 ## Topic Patterns
 
-### Recurring Intelligence & News Themes (Jun 14-15)
+### Active Business Projects & Partnerships
 
-#### **Geopolitical / Defense Events (Breaking)**
-- **The New York Times Breaking News** (Jun 14, 22:18 UTC, marked UNREAD):
-  - "Breaking news: Trump announces Iran cease-fire agreement"
-  - **SIGNAL**: High-priority geopolitical intelligence routing; aligns with existing defense/aerospace intelligence pattern
+#### **BST × Krateo Sky Event Coordination (Jun 15-16)**
+- Multiple synchronized emails on event logistics, brand collateral, and connection call scheduling
+- RMI Select managing design/coordination (logo finalization, event messaging)
+- Multi-stakeholder participation (Paige, Jack Elston, Sona Raziabeegum)
+- **Timeline**: Connection call scheduled Jun 15, 1pm MDT; suggests imminent partnership announcement or event
 
-#### **General News & Current Events Consumption**
-- **The New York Times** (4 emails, Jun 14):
-  - Breaking news: Iran cease-fire agreement (marked IMPORTANT alert)
-  - Morning Briefing: "The Morning: Free money?" (marked IMPORTANT)
-  - Editor Picks: "Peas are good for you, but just how good?" (health/science angle)
-  - Subscription promotion: Spring field guide
-- **The Athletic Pulse** (Jun 14, marked IMPORTANT): "The Knicks actually did it" — NBA/sports coverage (continued sports interest)
-- **Inside Climate News** (Jun 14): "Pandemic roulette" — environmental/public health intersection
-- **LinkedIn Social**: Anduril Industries post on "The Fight Unfair Collection" (Jun 15, 02:21 UTC)
-  - **SIGNAL: Anduril engagement tracked** — Defense contractor brand/marketing awareness
+#### **Rubicon Aerospace Media/Social Coordination (Jun 15)**
+- Instagram/media post authorization workflow between Rubicon and BST
+- Joshua Fromm (BST) managing approval chain with Lee Skidmore (Rubicon)
+- **SIGNAL**: Joint marketing initiative; likely product announcement or partnership visibility campaign
 
-#### **Promotional/Commercial (Low Priority)**
-- **Artlist**: "Win tickets to the World Cup Final" — sports/entertainment promotion
-- **The New York Times**: Subscription promotion (field guide discount)
-- **Staples**: Generic printing confirmation/promotional
-- **STATION Austin**: Community event calendar (low commercial intensity; informational routing)
+#### **RotorWorks Manufacturing Introduction (Jun 15)**
+- Boulder-based manufacturing partner site visit Jun 22
+- Technical engagement (Maciej Stachura) + business development (Jack Elston)
+- **SIGNAL**: Likely UAV component/platform manufacturing evaluation or contract negotiation
 
----
+#### **RMI Contractor Logo/Brand Work (Jun 15)**
+- Blackswift Technologies branding materials in active development
+- Paige drafting responses to RMI on design specifications
+- **SIGNAL**: Brand refresh or new collateral initiative supporting partnership visibility (Krateo Sky event)
 
-## Communication Patterns
-
-### Time & Frequency (Jun 14-15)
-- **Activity distributed across Jun 14-15** (12 messages total)
-- **Peak activity Jun 14 afternoon/evening** (9 of 12 messages between 10:00-22:18 UTC)
-- **Early morning Jun 15 activity** (2 messages: AngusTech at 10:34 UTC+8; LinkedIn at 02:21 UTC)
-- **Sustained weekend pattern** (Saturday evening through Monday morning UTC/PDT)
-- **NO NEW DRAFTS** — suggests Jun 12 pending items either completed or carried forward separately
-
-### Message Classifications
-- **"IMPORTANT" flagged:** 3 of 12 messages (~25%)
-  - Trump Iran cease-fire breaking news (geopolitical priority)
-  - NYT Morning Briefing (editorial curation)
-  - The Athletic sports update (sports interest)
-- **"UNREAD" marked:** 12 of 12 messages (100%) — **CONSISTENT WEEKEND BACKLOG PATTERN** (news/social consumption batch mode)
-
-### Mailing Lists & Automation (Updated)
-- **The New York Times** (4 emails): Breaking news (alert-priority), Morning Briefing, Editor Picks, subscription promotions
-  - **Signal**: Maintained multi-tier NYT subscription; breaking news alerts remain high-priority flag targets
-- **LinkedIn** (1 email): Anduril Industries social post notification
-  - **New signal**: Defense contractor brand monitoring via LinkedIn
-- **The Athletic** (1 email): Sports news (NBA focus continues)
-- **Inside Climate News** (1 email): Environmental/pandemic risk newsletter
-- **Vendor/Community** (2 emails): Aveo Engineering, STATION Austin event calendar
-- **Promotional/spam** (3 emails): Artlist, Staples, NYT subscription promo (low engagement signal)
+#### **AGU 2026 Conference (Jun 15)**
+- Invoice received from AGU 2026 Manager (Taffy Events) — marked IMPORTANT
+- **SIGNAL**: BST registered/sponsored for American Geophysical Union 2026 conference; suggests geoscience/earth observation focus area
 
 ---
 
-## Key Relationships
+### Intelligence & News Consumption (Jun 15-16)
 
-### Closest Active Collaborators
-1. **Terence Gannon** (BluFly Media) — **HIGH PRIORITY, REGULATORY SCOPE** — NOAA S0 application follow-up pending Paige's response (Jun 12 draft)
-
-2. **Sona Raziabeegum** (Krateo Sky) — **ACTIVE POST-DEAL COORDINATION** — Krateo Sky coordination draft pending (Jun 12)
-
-3. **Jack Elston** (Internal) — **BUSINESS DEVELOPMENT & VENDOR ROUTING** — Jun 15: Co-recipient on AngusTech PCB inquiry; media/partnership coordination
-
-4. **Maciej Stachura** (Internal) — **TECHNICAL/ENGINEERING** — Jun 15: First identified on AngusTech Heavy Copper PCB inquiry; suggests technical approval/evaluation role on component sourcing
-
-5. **Beck Cotter
+#### **Defense & Aerospace (High Priority)**
+- **A&SF Alerts** (Jun 15, 14:50 UTC, marked IMPORTANT): "Breaking News | B-52 Crashes at Edwards"
+- **A

@@ -19,34 +19,34 @@
 - **NASA ROSES Call Application**: Completed March 31, 2024
 
 ## Task Summary
-- **Total Tasks**: 0 open, 0 active in Asana (all Phase I work completed and archived)
-- **Primary Contributors** (from Phase I completion):
-  - Alex Lomis: Drove most deliverables, regulatory coordination (CALFIRE, CoE), reporting, and presentations
-  - Jack Elston: Flight operations, hardware troubleshooting, flight data collection, Phase II Submission coordination
-  - Maciej Stachura: Algorithm development, BUFR data conversion, UTM pathway research, sampling strategy analysis, NASA ROSES Call Application (March 31, 2024)
-  - Josh Fromm: Manufacturing/procurement (G10 fuselages)
-- **Patterns**: Heavy documentation and regulatory focus; significant coordination with external partners; sequential task completion through January leading to February deliverables
+- **Total Tasks**: 0 open, 0 completed (all Phase I work archived)
+- **Primary Contributors**:
+  - Alex Lomis: Project lead, regulatory coordination, reporting, presentations
+  - Jack Elston: Flight operations, hardware, flight data collection, Phase II coordination
+  - Maciej Stachura: Algorithm development, data processing, NASA ROSES submission
+  - Josh Fromm: Manufacturing/procurement
 
 ## Recent Activity
 - All Phase I deliverables completed by early February 2024
 - Final invoicing processed January 26, 2024
-- Phase II proposal submitted February 3, 2024 (one day after original due date)
-- NASA ROSES Call application submitted March 31, 2024 (completed by Maciej Stachura)
-- CoTAK Demo exploration initiated and completed March 27, 2024
-- Post-Phase I technical investigation: Dubins path for altitude profiling control (completed October 2025)
-- **Project archived February 7, 2024** with no further activity planned for Fire UTM Phase I
+- Phase II proposal submitted February 3, 2024
+- NASA ROSES Call application submitted March 31, 2024
+- Post-Phase I technical investigation: Dubins path altitude profiling control (completed October 2025)
+- CoTAK Demo exploration (completed March 27, 2024)
+
+**Note (June 15, 2026)**: Jack Elston mentioned ongoing work on a wildfire video that requires division of labor to finish, suggesting post-Phase I documentation/outreach activities may still be in progress.
 
 ## Current Priority Status (May 2026)
-Per Jack Elston (May 11, 2026): The Navy STTR has priority; the SBIR is mostly on schedule. This Fire UTM Phase I project is not among BST's current highest-priority initiatives. Maciej Stachura's top five priorities (May 6, 2026) are: (1) S3 IRAD, (2) S0-VTOL, (3) EMASS close-out, (4) By-Lite Mustang, and (5) SBIR Magnetometer.
+Per Jack Elston (May 11, 2026): Fire UTM Phase I is not among BST's current highest-priority initiatives. Maciej Stachura's top five priorities are: (1) S3 IRAD, (2) S0-VTOL, (3) EMASS close-out, (4) By-Lite Mustang, and (5) SBIR Magnetometer.
 
 ## Notes & Context
-This Phase I pilot study demonstrated the value of targeted UAS observations for improving low-level wind and turbulence representation in active wildfire modeling. Key technical achievements included:
-- Developed end-to-end data flow process for flight operations
-- Created sampling strategies and algorithm documentation
-- Established regulatory pathway with CALFIRE and CoE for UAS operations in wildfire environments
-- Integrated data ingestion methods (including BUFR conversion research)
-- Demonstrated operational procedures through coordinated flight tests (S10019 and S00001)
+This Phase I pilot study demonstrated the value of targeted UAS observations for improving low-level wind and turbulence representation in active wildfire modeling. Key technical achievements:
+- End-to-end data flow process for flight operations
+- Sampling strategies and algorithm documentation
+- Regulatory pathway with CALFIRE and CoE for UAS operations in wildfire environments
+- Data ingestion methods (BUFR conversion research)
+- Operational procedures through coordinated flight tests (S10019 and S00001)
 
-The project required extensive regulatory coordination and stakeholder management (CALFIRE, Boulder Sheriff/Parks, FireSense team, Argonne National Lab). Successfully positioned BST for Phase II funding and established partnerships for future wildfire UAS operations. Post-project, team explored CoTAK integration and advanced control methods (Dubins paths) for potential Phase II enhancements.
+Extensive regulatory coordination with CALFIRE, Boulder Sheriff/Parks, FireSense team, and Argonne National Lab. Successfully positioned BST for Phase II funding and established partnerships for future wildfire UAS operations.
 
-**Current Status (as of May 2026)**: This project remains archived with no planned reactivation.
+**Current Status (as of June 2026)**: Project remains archived with post-Phase I documentation work (wildfire video) potentially ongoing as lower-priority item.

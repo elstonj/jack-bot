@@ -32,18 +32,21 @@
 ## Task Summary
 - **Total Tasks**: 19 open, 0 completed
 - **Tasks by Assignee**:
-  - **Dan Prendergast**: 5 open tasks
+  - **Dan Prendergast**: 5 open tasks (0% completion)
     - Operator Manual and Flight CONOPS for AFAC (Due: June 22, 2026) — **STALE**
     - Obtain flight approvals from AFAC (Due: July 1, 2026) — **STALE**
     - Verify ground permissions for national park (Due: July 1, 2026) — **STALE**
     - Put together flight plans using Google Earth markup (Due: October 1, 2026) — **STALE**
     - Create photogrammetry footprints (Due: October 1, 2026) — **STALE**
-  - **Maciej Stachura**: 2 open tasks
+  - **Maciej Stachura**: 2 open tasks (0% completion)
     - Look at FLIR stoppage at Murray State (Due: August 3, 2026) — **STALE**
     - Test props for operations at 5700m (Due: August 3, 2026) — **STALE**
-  - **Josh Fromm**: 1 open task
+  - **Josh Fromm**: 1 open task (0% completion)
     - Spare parts and packing list (Due: October 1, 2026) — **STALE**
-  - **Unassigned**: 11 open tasks (mostly placeholder/structural items like "Test New Capabilities," "Tools/Ground Equipment," "S2 Improvements," "Planning/Algorithms/UI," "CONOPS"; plus critical milestones "Sort out flight, radio, shipping, and import permissions," "Finish payload updates," "Conduct local flight testing," "Ship Aircraft and Equipment," "Conduct Mission")
+  - **Unassigned**: 11 open tasks (0% completion)
+    - Critical milestones: "Sort out flight, radio, shipping, and import permissions," "Finish payload updates," "Conduct local flight testing," "Ship Aircraft and Equipment," "Conduct Mission"
+    - Structural/ongoing: "Test New Capabilities," "Tools/Ground Equipment," "S2 Improvements," "Planning/Algorithms/UI," "CONOPS"
+    - Contact reference: "Kevin Pesola" (likely a placeholder for stakeholder info)
 
 ## Recent Activity
 
@@ -53,7 +56,7 @@
 - **No ECCN (Export Control Classification Number) obtained** for the battery
 - **Permanent import fees paid to Mexico** (not temporary/re-export)
 - **Customs broker Javi** can confirm import classification if needed
-- **Action pending**: Prendergast offered to respond to group email chain with clarification on import/customs status; awaiting Maciej's direction on where to file email documentation
+- **Action pending**: Prendergast offered to respond to group email chain with clarification on import/customs status; awaiting Maciej's direction on where to file email documentation; offered to email customs broker Javi for confirmation if needed
 
 ### April 20, 2026 (TEAM CORRECTIONS — AUTHORITATIVE)
 **Jack Elston**: "Mexico USGS volcano deployment (350-4) is **DELAYED to Fall 2026**. Not departing April 20. **No flight planning, no shipping, no mission prep imminent.** Any Asana tasks referencing an April deployment are stale — ignore them."
@@ -72,12 +75,7 @@ Project awaiting Fall 2026 deployment confirmation; batteries already in transit
   - **Now scheduled**: Fall 2026 (per Maciej Stachura, April 17; Jack Elston, April 20)
   - **Implication**: **All spring/summer 2026 task due dates in Asana are stale**; remaining milestones await Fall 2026 timeline confirmation
   
-- **Hardware Status**: 
-  - Batteries shipped to Mexico (May 2026) — permanent import fees already paid
-  - No ECCN (Export Control Classification Number) obtained for the battery
-  - Customs/import paperwork being finalized with customs broker Javi (Dan Prendergast coordinating)
-  - Email documentation of shipment history available; Prendergast ready to clarify import approach with team upon Maciej's direction
-
-- **Admin Notes**: Working with USGS on Jan/Feb timing [see Maciej for updates]
-
-- **
+- **Hardware & Logistics Status**: 
+  - **Batteries shipped to Mexico** (May 2026) with permanent import fees already paid
+  - **No ECCN (Export Control Classification Number)** obtained for the battery — shipped as permanent import rather than temporary re-export
+  - **Customs/import paper

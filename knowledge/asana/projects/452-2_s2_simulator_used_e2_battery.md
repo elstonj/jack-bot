@@ -22,7 +22,7 @@
 
 **[2026-05-28] Customs & Export Compliance — Awaiting Leadership Direction**
 
-Daniel Prendergast flagged critical gaps in battery export to Mexico and submitted three action items requiring authorization:
+Daniel Prendergast flagged critical gaps in battery export to Mexico:
 
 1. **Documentation storage:** Two emails documenting battery shipment history need a designated save location
 2. **ECCN verification:** No Export Control Classification Number was obtained for the battery. Daniel can email Javi (customs broker) to confirm ECCN if authorized
@@ -41,8 +41,8 @@ Daniel Prendergast flagged critical gaps in battery export to Mexico and submitt
 
 **Timeline Pressure:** 32 days from payment to due date leaves minimal margin for corrections if classification/fees require revision.
 
-**Immediate Actions Required:**
-1. Authorize Daniel to contact Javi (customs broker) to verify ECCN and confirm import classification/fees
+**Immediate Actions Required (Awaiting Meredith O'hara Needham's Authorization):**
+1. Authorize Daniel Prendergast to contact Javi (customs broker) to verify ECCN and confirm import classification/fees
 2. Direct documentation storage location for email records
 3. Authorize response to stakeholder email chain
 4. Confirm S2 Simulator shipment status and ETA separately

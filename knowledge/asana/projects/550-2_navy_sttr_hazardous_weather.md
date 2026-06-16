@@ -10,11 +10,11 @@
 - **Status**: Active — Option Period in progress. **🚨 CRITICAL: CLIN 1006 Invoice ($35,000) OVERDUE (due June 3, 2026; status unconfirmed as of June 8).** Progress Report (CLIN 0006) completed June 4, 2026 (1 day late). Overdue technical task: Fix ISARRA data for James Pinto (due June 5, Maciej Stachura).
 - **Team Members**: 
   - **Maciej Stachura** (project owner; primary technical lead; overdue ISARRA data task)
-  - **Jack Elston** (supporting deliverables; priority confirmation authority)
+  - **Alex & Sam** (critical engineering work on mag integration — per Maciej, June 8, 2026)
   - **Meredith O'hara Needham** (invoicing and administration; 100% historical track record — **verify CLIN 1006 submission via WAWF**)
+  - **Jack Elston** (supporting deliverables; priority confirmation authority)
   - **Beck Cotter** (contract management)
   - **Daniel Prendergast** (EMASS validation flights; external dependencies pending)
-  - **Alex & Sam** (critical engineering work on mag integration — per Maciej, June 8, 2026)
   - BST Whole Team
 - **Subcontractors**: 
   - **ERAU** / Josh Wadler (wadlerj@erau.edu; 1 Aeronautical Blvd, Daytona Beach, FL 32114; Ph: 386-226-6000; Pre-Award Contracting Officer: Garrett Filson, filsong@erau.edu)
