@@ -15,7 +15,7 @@
     - ⚠️ **April 30, 2026 (design adjustments & parts orders) — STALE/OVERRIDDEN per Maciej (2026-04-27 & 2026-05-04). Nate Straus directed to update Asana to "realistic numbers" post-ByLight meeting and communicate revised schedule to NASA customer.**
     - June 30, 2026 (launcher refurbishment)
     - September 30, 2026 (final delivery)
-- **Status:** **Active — forward progress in execution.** 5 open tasks, 0 completed. **🟢 PARTS ORDERING NOW IN PROGRESS (June 2–3, 2026):** Joshua Fromm reports all payload parts for Murphy's Pond payloads and gimbal ordering in process; most parts expected end of week. **🟡 CRITICAL SCHEDULE OVERRIDE PENDING:** April 30, 2026 due dates in Asana are STALE. Maciej directed Nate Straus to revise to realistic dates and communicate to NASA customer (not yet confirmed complete as of June 3).
+- **Status:** **Active — forward progress in execution.** 5 open tasks, 0 completed. **🟢 PARTS ORDERING IN PROGRESS (as of June 2–3, 2026):** Joshua Fromm reports all payload parts for Murphy's Pond payloads and gimbal ordering underway; most parts expected by end of week. **🟡 CRITICAL SCHEDULE UPDATE PENDING:** April 30, 2026 due dates in Asana are STALE. Maciej directed Nate Straus to revise to realistic dates and communicate to NASA customer (not yet confirmed complete as of June 3).
 - **Team Members:** 
   - Nate Straus (project owner — responsible for schedule update & customer communication; launcher refurbishment lead)
   - Josh Fromm (primary executor — parts procurement and design modifications; actively ordering as of June 2–3)
@@ -31,7 +31,7 @@
 | Milestone | Original Due Date | Assignee | Status | Notes |
 |-----------|-------------------|----------|--------|-------|
 | Adjust designs based on component changes | April 30, 2026 | Josh Fromm | 🔄 Open | **⚠️ DUE DATE IS STALE/OVERRIDDEN — Maciej (2026-04-27 & 2026-05-04) directed Nate Straus to update to realistic dates post-ByLight meeting.** |
-| Place orders for S20009/launcher refurb parts and spares | April 30, 2026 | Josh Fromm | 🔄 Open — **ACTIVE** | **⚠️ DUE DATE IS STALE/OVERRIDDEN.** **🟢 PARTS NOW ORDERING:** Joshua Fromm (June 2–3, 2026) — payload parts for Murphy's Pond payloads and gimbal ordering in process; most parts to arrive end of week. Main task: rewiring new DB9 connector (estimated <1 day of effort). All 3 payload modifications achievable in ≤1 day post-delivery. |
+| Place orders for S20009/launcher refurb parts and spares | April 30, 2026 | Josh Fromm | 🔄 Open — **ACTIVE** | **⚠️ DUE DATE IS STALE/OVERRIDDEN.** **🟢 PARTS ORDERING ACTIVE (June 2–3, 2026):** Joshua Fromm — payload parts for Murphy's Pond payloads and gimbal in process; most parts to arrive by end of week. Main remaining task: rewiring new DB9 connector to new mating style — "isn't a big deal at all." All 3 payloads achievable in ≤1 day post-delivery. |
 | Place orders for new airframe case and launcher case | No due date | Unassigned | 🔄 Open | — |
 | S20009 Refurb and component replacement | No due date | Unassigned | 🔄 Open | — |
 | Perform launcher refurbishment | June 30, 2026 | Nate Straus | 🔄 Open | — |
@@ -54,7 +54,7 @@
 ## Recent Activity
 
 **June 2–3, 2026 (Team Corrections — Authoritative):**
-- **Joshua Fromm:** Payload parts ordering now in active process. Most parts expected to arrive end of week. Main remaining task is rewiring new DB9 connector to new mating style — "isn't a big deal at all." All 3 payloads (Murphy's Pond payloads + gimbal) can be modified in ≤1 day once parts arrive. **This indicates active forward progress and strongly suggests NDAA scope uncertainty has been resolved or accepted.**
+- **Joshua Fromm:** Payload parts ordering now in active process. Most parts expected to arrive by end of week. Main remaining task is rewiring new DB9 connector to new mating style — "isn't a big deal at all." All 3 payloads (Murphy's Pond payloads + gimbal) can be modified in ≤1 day once parts arrive. **This indicates active forward progress and strongly suggests NDAA scope uncertainty has been resolved or accepted.**
 
 **May 4, 2026 (Team Corrections — Authoritative):**
 - **Maciej:** Reiterates directive to Nate Straus (post-ByLight meeting): **update Asana due dates to realistic numbers and communicate revised schedule to NASA customer.** ⚠️ Action status not yet confirmed complete. Requests Alex Lomis or Josh Fromm initiate AI-assisted NASA RFI analysis "soon."
@@ -67,4 +67,4 @@
 ## Notes & Context
 - **Product:** S2 (end-of-life platform; transitioning to S3)
 - **Background:** Isaac Anderson requested S2 parts cost breakdown (July 11, 2025); Estimate 1362 sent July 18, 2025. Note indicates S2 is now EOL and some components require new design work.
-- **Payload Modifications:** All work centers on Murphy's Pond payloads and gimbal; scope includes DB9 rewiring and component modifications. Joshua From
+- **Payload Modifications:** All work centers on Murphy's Pond payloads and gimbal; scope includes DB

@@ -11,6 +11,7 @@
   - Multiple major funding proposals (2024-2025) in $300K–$896.5K range were not funded despite significant effort
   - **Mexico USGS deployment DELAYED to Fall 2026** (per Jack, Apr 20, 2026) — **disregard any Asana tasks referencing April 2026 departure dates; no flight planning, shipping, or mission prep imminent**
   - Navy project tasks completed (per Maciej, Apr 17, 2026)
+  - **Kareem returning from absence (Jun 15, 2026)** — Jack coordinating task assignments with team on S0 components, ground stations, and wildfire video completion
 
 ## Key Deliverables & Milestones
 
@@ -38,12 +39,13 @@
 - LARTA advisory engagement (completed Aug 7, 2023)
 
 ## Task Summary
-- **Total Tasks**: 0 open, 1 completed (100% completion rate)
+- **Total Tasks**: 1 open, 0 completed (0% completion rate on open items)
 - **Tasks by Assignee**:
   - **Maciej Stachura**: SBIR proposal management, technical opportunities, proposal submissions (6+ proposals over 2022–2024); Navy project oversight (completed as of Apr 17, 2026); 2023 ROSES submission
-  - **Jack Elston**: Strategic leadership, financial planning, business development, website updates, investor relations
+  - **Jack Elston**: Strategic leadership, financial planning, business development, website updates, investor relations; coordinating team task allocation (Jun 15, 2026)
   - **Meredith O'Hara Needham**: Administrative support, document collection and organization, LOI/MOU/support letter curation
-  - **Unassigned**: Many proposals and strategic initiatives
+  - **Unassigned**: Lease termination planning
+  - **Kareem** (returning from absence Jun 15, 2026): Assigned to S0 components, ground stations completion, or wildfire video project per Jack's delegation
 - **Notable Patterns**: 
   - Heavy emphasis on government funding (NASA, USDA, NSF, DoD)
   - Extensive use of custom fields tracking funding amounts and funding status
@@ -66,6 +68,17 @@
 
 ## Recent Activity
 
+### June 2026 — Current Activity
+**[FEEDBACK, Jack, Jun 15, 2026]**: Kareem returning today at 12:00 PM after absence. Jack coordinating task allocation with team:
+- Considering assigning Kareem to S0 component fabrication or ground station completion
+- Alternative: wildfire video project needs completion — team division of labor being finalized
+- Jack has additional tasks queued for Kareem upon return
+
+### Project Status Updates (April 2026 — TEAM CORRECTIONS AUTHORITATIVE)
+**[CORRECTION, per Jack, Apr 20, 2026]**: Mexico USGS volcano deployment (350-4) is **DELAYED to Fall 2026**. Not departing April 20, 2026. **No flight planning, shipping, or mission prep imminent.** Any Asana tasks referencing April 2026 dates are **stale — disregard them.**
+
+**[CORRECTION, per Maciej, Apr 17, 2026]**: Navy project tasks are **completed**. Maciej requests meeting reminder on the scheduled date for that project.
+
 ### Completed Tasks (2024-2025)
 - **2023 ROSES** (Maciej Stachura, Due: Jan 16, 2024; Completed: Jan 17, 2024)
   - NASA Earth science, geospatial, and socioeconomic proposal integration solicitation
@@ -76,11 +89,6 @@
 - **USDA SBIR submission** (Jul 2024)
 - **NASA Ignite Greenhouse Gas Measurement** (Jul 2024)
 - **LARTA advisor engagement** (completed Aug 7, 2023)
-
-### Project Status Updates (April 2026 — TEAM CORRECTIONS AUTHORITATIVE)
-**[CORRECTION, per Jack, Apr 20, 2026]**: Mexico USGS volcano deployment (350-4) is **DELAYED to Fall 2026**. Not departing April 20, 2026. **No flight planning, shipping, or mission prep imminent.** Any Asana tasks referencing April 2026 dates are **stale — disregard them.**
-
-**[CORRECTION, per Maciej, Apr 17, 2026]**: Navy project tasks are **completed**. Maciej requests meeting reminder on the scheduled date for that project.
 
 ### Outstanding Item
 - **Lease Termination Planning** (Open, unassigned, no due date)
@@ -107,17 +115,3 @@
 - Methane emission detection, measurement, and localization
 - Wildfire applications and aerial support
 - UAS (Uncrewed Aircraft Systems) observations
-- Wind and turbulence guidance systems
-- Geospatial and Earth science integration
-- USGS volcano monitoring (Mexico deployment planned for **Fall 2026**, per Jack Apr 20, 2026)
-
-### Business Model & Operations
-- Primarily government contracts and SBIR funding
-- Moving financial management from spreadsheet-based to QuickBooks
-- Strong proposal development infrastructure (Maciej leads SBIR strategy)
-- Data room maintained for investor/partner access
-- Lease facility cost baseline: ~$13.00–$14.63/month NNN over 5-year period
-
-### Key Observations
-- **Funding Pipeline Health**: Multiple large proposals ($300K–$896.5K range) submitted but not funded in 2024–2025; suggests need to refine proposal strategy or expand pipeline diversity
-- **Proposal Cadence**: Regular SBIR submission cycle with strong organizational support (LO

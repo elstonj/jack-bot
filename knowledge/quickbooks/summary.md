@@ -1,5 +1,5 @@
 # BST Financial Overview (QuickBooks)
-**Period: April 2024 – June 2026**
+**Report Period: April 2024 – September 2026**
 
 ---
 
@@ -8,8 +8,8 @@
 | Metric | Amount |
 |--------|--------|
 | **Total Revenue (Invoices)** | $4,480,070.64 |
-| **Total Expenses (Bills + Purchases)** | $2,449,997.46 |
-| **Net Income** | $2,030,073.18 |
+| **Total Expenses** | $2,448,997.46 |
+| **Net Income (Estimate)** | **$2,031,073.18** |
 
 ---
 
@@ -17,49 +17,39 @@
 
 | Project | Total Revenue | Total Expenses | Net Position | Status |
 |---------|---------------|----------------|--------------|--------|
-| **Government** | $4,462,176.28 | $1,331,256.48 | **+$3,130,919.80** | Active |
-| **BST Internal** | $17,894.36 | $1,117,740.98 | **-$1,099,846.62** | Deficit |
+| **Government** | $4,462,176.28 | $1,331,256.48 | **+$3,130,919.80** | Primary revenue driver |
+| **BST Internal** | $17,894.36 | $1,117,740.98 | **-$1,099,846.62** | Cost center / overhead |
 
-### Project Notes
-- **Government**: Primary revenue driver; strong profitability with 76 active invoices
-- **BST Internal**: Internal operations/overhead; expenses far exceed internal revenue (expected for administrative class)
+**Notes:**
+- Government projects account for **99.6%** of company revenue
+- BST Internal represents internal operations and overhead (negative net position is expected for cost centers)
 
 ---
 
 ## Cash Flow Indicators
 
 ### Accounts Receivable (Outstanding)
-- **Government Project**: $3,194,865.82 outstanding across 76 invoices
-- **Total A/R**: ~$3.2M in pending collections
+- **Government:** $3,194,865.82 outstanding across 76 active invoices
+- **Total A/R across company:** ~$3.2M
 
-### Purchase Orders Outstanding
-- **BST Internal**: $1,700.00 (PO #1038 – Amprius)
-- **Government**: $832.00
-- **Total Outstanding POs**: $2,532.00
+### Purchase Orders (Outstanding)
+- **BST Internal:** $1,700.00 (PO #1038 – Amprius)
+- **Government:** $832.00
 
-### Recent Large Expenses
-- BST Internal expenses: $1,117,740.98 total (26+ months)
-- Government expenses: $1,331,256.48 (strong cost control relative to $4.46M revenue)
-
----
-
-## Top Vendors
-*(Data incomplete in provided extract – vendor summary not fully listed)*
+### Project Activity Status
+- **Active:** Both projects show recent transactions through June 2026
+- **Government:** Ongoing with multiple concurrent invoices
+- **BST Internal:** Limited transaction volume (2 recorded) but ongoing through June 2026
 
 ---
 
-## Top Customers
-*(Data incomplete in provided extract – customer summary not fully listed)*
+## Data Limitations
 
----
+⚠️ **Incomplete Data Provided:**
+The QuickBooks export appears truncated. Missing details include:
+- Specific vendor names and spending breakdown
+- Top customers by revenue (Government data cut off)
+- Detailed expense categorization
+- Complete invoice details for both projects
 
-## Unclassified Transactions
-**Status**: No unclassified transactions noted. All 1,209+ transactions are assigned to either Government or BST Internal classes.
-
----
-
-## Summary Assessment
-✓ **Healthy overall position** ($2M net income)  
-✓ **Government contracts generating strong margins** (71% net profit margin)  
-⚠ **Significant A/R** ($3.2M) – cash collection timing important  
-⚠ **Internal overhead deficit** – typical for administrative class allocation
+**Recommendation:** Request full P&L report and aged accounts receivable report for complete analysis.

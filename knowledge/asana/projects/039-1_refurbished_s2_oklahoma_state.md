@@ -9,7 +9,7 @@
   - Original due date: March 3, 2025
   - Delivery/Freight pickup: March 14, 2025
   - Training completed: August 19, 2025
-- **Status**: ARCHIVED/COMPLETED — All work delivered and training completed. Project closed successfully.
+- **Status**: **ARCHIVED/COMPLETED** — All work delivered and training completed. Project closed successfully. (Status updated Oct 21, 2025)
 - **Team Members**: Nate Straus (primary technician), Meredith O'hara Needham (project manager), Dan Prendergast (training), Ethan Domagala, Josh Fromm
 - **Risk Signals**: None — project completed successfully. Minor 11-day delay (pickup March 14 vs. due March 3) driven by customer spring weather observation timeline requirements.
 
@@ -35,14 +35,15 @@
 - **Pattern**: Comprehensive systematic refurbishment with early component work (Jan), mid-phase system integration (Feb), final QA and delivery logistics (Mar), followed by training delivery
 
 ## Recent Activity
-Project completed in August 2025. Final timeline:
+Project completed and archived in August–October 2025. Final timeline:
 - **Jan 6, 2025**: Disassembly began; motor replacement, avionics tray replacement, RTK integration, hinge/wiper tape replacement
-- **Jan 23-31, 2025**: Battery cycling validation, component cleaning, fuselage/wing work, connector upgrades, ADS-B installation, launcher control box inspection
-- **Feb 5-28, 2025**: Tablet/handset/GCS battery replacements, case foam replacement, launcher rail inspection and battery replacement, arm inspection
+- **Jan 23–31, 2025**: Battery cycling validation, component cleaning, fuselage/wing work, connector upgrades, ADS-B installation, launcher control box inspection
+- **Feb 5–28, 2025**: Tablet/handset/GCS battery replacements, case foam replacement, launcher rail inspection and battery replacement, arm inspection
 - **Mar 12, 2025**: Air spring deflection check and swap completed; Remote ID added
 - **Mar 14, 2025**: Aircraft shipped via freight (special double-long pallet arrangement due to launcher rail length; power lift gate and pallet jack required)
 - **Jul 30, 2025**: Operator training conducted at OSU
-- **Aug 19, 2025**: Training completed; project archived
+- **Aug 19, 2025**: Training completed
+- **Oct 21, 2025**: Project formally archived with completion status summary
 
 ## Notes & Context
 - **Multi-aircraft opportunity**: OSU initially requested estimate [1336] for VTOL, S2, and E2 systems but chose to order separately (each as individual PO). This refurbished S2 was first order; additional systems may follow.

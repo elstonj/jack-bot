@@ -3,7 +3,7 @@
 ## Overview
 - **Client/Customer:** NASA Ames Research Center
 - **Contract:** SBIR Phase III, Contract No. 80NSSC25CA043
-- **Dollar Value:** $74,428.00 (Fixed Price)
+- **Dollar Value:** $74,428.00 (Fixed Price) — **100% received and closed**
 - **Timeline:** January 2025 – September 2025 (9 months)
 - **Status:** ✓ **ARCHIVED** — Contract completed and closed November 24, 2025. All deliverables accepted, payments received ($74,428 total).
 - **Team:** Whole BST team involved
@@ -123,7 +123,7 @@
 - "Yellow version" project has been clarified; Asana tasks and timelines updated accordingly
 
 **Daniel Prendergast (06/08–06/09/26, URGENT — Canada demo insurance requirement):**
-- **⚠️ CONFIRM S3 PLATFORM INSURANCE RENEWAL COMPLETION**
-- **Canada demo insurance requirements flagged:**
+- ⚠️ **CONFIRM S3 PLATFORM INSURANCE RENEWAL COMPLETION**
+- **Canada demo insurance requirements flagged (06/09/26):**
   - $5M Commercial General Liability policy
-  - $5M Aviation General Liability Insurance OR evidence Commercial General Liability policy extends
+  -

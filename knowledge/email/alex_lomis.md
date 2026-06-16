@@ -1,57 +1,69 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- Total messages scanned: 7 (combined with previous scan)
-- Date range: June 12–15, 2026
-- Approximate volume: Low (approximately 1–2 emails per day during scanned period)
+- Total messages scanned: 15 (7 previous + 8 new)
+- Date range: June 12–16, 2026
+- Approximate volume: Low to moderate (1–2 emails per day during scanned period)
 
 ## Key Correspondents
 
 **Top Senders:**
-- Purchasing mailing list/forwarding system (`purchasing@blackswifttech.com`) — 5 messages
-- External vendors: McMaster-Carr, Digikey, Spindrift, HeliDirect, Harbor Freight, Speedway Motors
+- Purchasing mailing list/forwarding system (`purchasing@blackswifttech.com`) — 12 messages
+- External vendors: McMaster-Carr, Digikey, Spindrift, HeliDirect, Harbor Freight, Speedway Motors, NewBeeDrone, Protocase, Jawstec, Phase1AV
+- External direct contact: Kylie Bliss (`kbliss@hubspot.com`) — 1 message
 - Internal: Daniel Prendergast (`daniel.prendergast@blackswifttech.com`) — 1 message
+- Automated systems: Asana (`no-reply@asana.com`) — 1 message
 
 **Internal vs External Breakdown:**
 - Internal: 1 message (Daniel Prendergast)
-- External (vendor/promotional): 5 messages
-- Automated/transactional: 1 message (McMaster-Carr receipt)
+- External vendors/direct contacts: 6 messages
+- Purchasing mailing list (mix of vendor/forwarded): 12 messages
+- Automated/transactional: 1 message (Asana task notification)
 
 **Key External Contacts/Organizations:**
-- McMaster-Carr (industrial supplies)
-- Digikey (electronics)
-- Spindrift (beverages — unusual for BST context)
-- HeliDirect (hobby/RC helicopters)
-- Harbor Freight (tools)
-- Speedway Motors (automotive)
+- **Jawstec** (Briana Gonzalez) — order fulfillment/logistics
+- **Phase1AV** (Sean Cole) — invoicing/vendor
+- **Protocase** — custom enclosures/manufacturing
+- **NewBeeDrone** — drone equipment/supplies
+- **HubSpot contact** (Kylie Bliss) — marketing/web traffic consultant
+- Industrial/electronics: McMaster-Carr, Digikey
+- Retail vendors: Harbor Freight, Speedway Motors, Spindrift, HeliDirect
 
 ## Topic Patterns
 
 **Recurring Themes:**
-- Industrial/electronics procurement (McMaster-Carr, Digikey)
-- Promotional/sales emails from retail vendors (Harbor Freight, Speedway Motors, Spindrift, HeliDirect)
-- Technical support: "REX110 Troubleshooting" visible in Daniel Prendergast forward
+- Vendor invoices and order status updates (Jawstec, Phase1AV, Sean Cole)
+- Promotional/sales emails from specialized vendors (Protocase, NewBeeDrone, Spindrift)
+- Technical product procurement (electronics, enclosures, drone equipment)
+- Transactional notifications (billing invoices, task reminders)
+- Technical support/troubleshooting (REX110 from previous scan)
 
 **Project/Product Indicators:**
-- REX110 (appears to be a technical product/system requiring troubleshooting)
+- REX110 (technical product requiring external support)
+- Custom enclosure/manufacturing needs (Protocase contact suggests custom hardware design)
+- Drone/aerial equipment procurement (NewBeeDrone, HeliDirect)
 
 ## Communication Patterns
 
-- **Heavy promotional email traffic** — majority of messages are unread category_promotions
-- **Purchasing mailing list subscriber** — forwarding suggests involvement in company procurement workflows
-- **Weekend/early morning activity** — emails received across weekend (Sat, Sun) and early Monday morning UTC
-- **Forwarding pattern** — Daniel Prendergast's message forwarded to external contacts at Atmolab (Jure Dolinar, Jošt Laznik), suggesting external collaboration or vendor relationship
+- **Heavy promotional and transactional email traffic** — majority remain unread, suggests filtering/low priority
+- **Purchasing mailing list subscriber** — forwarding indicates involvement in company procurement workflows
+- **Email address variants observed** — messages sent to `alex.lomis@bst.aero`, `alex.lomis@blackswifttech.com`, and purchasing@blackswifttech.com — suggests multiple email identifiers or shared inbox access
+- **Vendor communication via purchasing list** — orders and invoices routed through purchasing@blackswifttech.com rather than direct to individual
+- **Task management integration** — Asana notifications suggest project-based work organization
+- **Direct marketing contact** — Kylie Bliss (HubSpot) marked IMPORTANT and directed to personal email (`bst.aero` domain) — stands out from purchasing list traffic
 
 ## Key Relationships
 
-- **Internal collaborator:** Daniel Prendergast (technical troubleshooting context)
-- **External partners:** Atmolab (EU-based, appears to be technical support or vendor — referenced in REX110 troubleshooting)
+- **Internal collaborators:** Daniel Prendergast (technical troubleshooting, REX110 project)
+- **Primary vendors:** Jawstec (logistics), Phase1AV (component supply), Protocase (manufacturing), NewBeeDrone (specialized equipment)
+- **External partners:** Atmolab (EU-based technical support, from previous scan)
+- **Marketing/business development:** Kylie Bliss (HubSpot) — web traffic/SEO concern
 
 ## Notable Observations
 
-- **Unusual vendor mix:** Retail/hobby vendors (Spindrift beverages, RC helicopter equipment from HeliDirect) appearing alongside industrial suppliers suggests either:
-  - Broad purchasing authority or shared mailing list
-  - Personal purchases mixed with business emails
-  - Company involvement in specialized/niche hardware projects
-- **Minimal direct human correspondence** — very low email volume from colleagues; most communication appears automated or through mailing lists
-- **REX110 project** — appears active and requiring external technical support from Atmolab contacts
+- **Purchasing authority or mailing list operator** — Alex receives numerous vendor communications on purchasing@blackswifttech.com; unclear if direct authority or shared inbox responsibility
+- **Cross-domain email aliases** — Messages reference `bst.aero` domain alongside `blackswifttech.com` — suggests either company name change, domain alias, or specialized division
+- **Marketing intervention** — Kylie Bliss's "Google traffic is bleeding out" message marked IMPORTANT and sent to personal email indicates potential crisis or high-priority business concern separate from procurement
+- **Specialized hardware focus** — Vendor mix (Protocase, NewBeeDrone, Jawstec, Phase1AV) suggests company involvement in custom drone, aerospace, or specialized equipment manufacturing
+- **Order fulfillment issues** — Briana Gonzalez (Jawstec) flagged "Possible order delay," indicates active orders in flight
+- **Minimal direct human correspondence** — Still predominantly automated/vendor communications; very low peer-to-peer email volume despite apparent project work (Asana integration)

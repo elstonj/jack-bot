@@ -3,53 +3,62 @@
 ## Overview
 - **Client/customer:** Internal BST purchasing system (serves all active projects)
 - **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across multiple projects
-- **Timeline:** Ongoing operational project; current orders due June 13, 2026
-- **Status:** **ACTIVE.** 3 open tasks (down from 6 as of last snapshot). jawstec #69119 remains "Order Received" and assigned to Nate Straus—**ready for closure**. Two other orders in "Order Placed" status.
+- **Timeline:** Ongoing operational project; current orders due June 15–16, 2026
+- **Status:** **ACTIVE.** 5 open tasks (up from 3 as of last snapshot). New procurement cycle underway for [300-3] 2026 IDIQ (Hurricane), [001-7] IRAD S3, and General Sales. All tasks assigned to Meredith O'hara Needham; single-point-of-failure concentration has returned.
 - **Team members involved:**
-  - **Meredith O'hara Needham** (2/3 assigned tasks; order placement role; project owner)
-  - **Nate Straus** (1/3 assigned; jawstec #69119—Order Received status)
-  - **Joshua Fromm** (1/3 as requester; S3 parts focus)
-  - **Ethan Domagala** (1/3 as requester; S3 Gimbal)
-  - **Sam** (1/3 as requester; Navy SBIR Magnetometer)
+  - **Meredith O'hara Needham** (5/5 assigned tasks; project owner; order placement role)
+  - **Nate Straus** (2/5 as requester; GCS parts focus)
+  - **Joshua Fromm** (2/5 as requester; S3 and S0 IDIQ focus)
+  - **Alex** (1/5 as requester; S3 procurement)
 
 - **Risk signals:**
-  - 🟢 **SIGNIFICANT CLOSURE PROGRESS:** Task count dropped from 6 to 3 open tasks since last snapshot (June 12–13 deadline cycle). Amazon Shop supplies and Amazon orders closed; jawstec #69119 still "Order Received" but assigned to Nate Straus for verification.
-  - 🟡 **IMMINENT DEADLINE:** All 3 remaining tasks due June 13, 2026 (same day). Two in "Order Placed" status require delivery confirmation; one "Order Received" awaiting closure.
-  - 🟡 **ASSIGNMENT CONCENTRATION IMPROVED:** Meredith O'hara Needham now 2/3 (67%, down from 83%)—positive trend. Nate Straus handling jawstec verification (17%; up from minimal prior).
-  - 🟡 **CLOSURE REQUIRED:** jawstec #69119 has been "Order Received" since prior snapshot; reassigned to Nate Straus suggests inspection/verification phase. **ACTION:** Close upon final documentation.
+  - 🟡 **ASSIGNMENT CONCENTRATION SPIKE:** All 5/5 tasks assigned to Meredith O'hara Needham (100%, up from 67% last snapshot). Previous improvement in delegation to Nate Straus has reversed. **Critical single-point-of-failure risk.**
+  - 🟡 **NEW PROCUREMENT CYCLE:** 5 tasks due within 1–2 days (Jun 15–16, 2026). Heavy focus on [300-3] 2026 IDIQ (Hurricane) (3 tasks) signals major project acceleration.
+  - 🟡 **BILLING AMBIGUITY:** One task ("compositeenvisions for s3 sales") assigned to "General Sales (No Specific Project)" — prior snapshot flagged this as a billing gap. **Clarify project allocation before placement.**
+  - 🔴 **PRIOR TASK DISPOSITION:** jawstec #69119 (Order Received, ready for closure per last snapshot) is **no longer in open task list.** Assume closed; confirm with Nate Straus if verification was completed.
 
 ## Key Deliverables & Milestones
 
-### **DUE JUNE 13, 2026 — 3 Tasks**
+### **DUE JUNE 15, 2026 — 3 Tasks**
 
 | Task | Due | Assigned | Project | Requester | Status | Tax Exempt | Notes |
 |------|-----|----------|---------|-----------|--------|-----------|-------|
-| jawstec for s3 parts (#69119) | Jun 13, 2026 | **Nate Straus** | [001-7] IRAD S3 | Joshua Fromm | **Order Received** | YES | ✅ **READY FOR CLOSURE:** Received; reassigned to Nate for verification/inspection. Placed Jun 5. |
-| McMaster Carr - S3 Gimbal pt.2 (#0611JELSTON) | Jun 13, 2026 | Meredith O'hara Needham | [001-7] IRAD S3 | Ethan Domagala | Order Placed | NO | Placed Jun 11 |
-| Bartington Sensor Interface Board | Jun 13, 2026 | Meredith O'hara Needham | [550-1] Navy SBIR: Magnetometer | Sam | Order Placed | NO | Placed Jun 11; Navy SBIR procurement ongoing |
+| Digikey (GCS parts) | Jun 15, 2026 | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Nate | Open | NO | GCS procurement for Hurricane IDIQ. |
+| Amazon / GCS | Jun 15, 2026 | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Nate | Open | NO | GCS procurement via Amazon. Same requester/project as Digikey. |
+| Mouser | Jun 15, 2026 | Meredith O'hara Needham | [001-7] IRAD S3 | Alex | Open | NO | Electronic components for S3 IRAD project. |
+
+### **DUE JUNE 16, 2026 — 2 Tasks**
+
+| Task | Due | Assigned | Project | Requester | Status | Tax Exempt | Notes |
+|------|-----|----------|---------|-----------|--------|-----------|-------|
+| compositeenvisions for s3 sales | Jun 16, 2026 | Meredith O'hara Needham | **General Sales (No Specific Project)** | Joshua Fromm | Open | YES | ⚠️ **BILLING CLARIFICATION NEEDED:** Assigned to "General Sales" but references "s3 sales." Likely [001-7] IRAD S3 or sales fulfillment. **Confirm project allocation before placement.** |
+| batteries for s0 idiq | Jun 16, 2026 | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | Open | YES | Battery procurement for S0 IDIQ component (under Hurricane IDIQ project). |
 
 ## Task Summary
-- **Total tasks:** 3 open, 0 completed (reduced from 6)
+- **Total tasks:** 5 open, 0 completed (up from 3)
 - **Assignee breakdown:**
-  - Meredith O'hara Needham: 2/3 (67%) — improved from 83%
-  - Nate Straus: 1/3 (33%) — jawstec #69119 (received; ready for closure); improved from 17%
+  - Meredith O'hara Needham: 5/5 (100%) — **CONCENTRATION SPIKE; was 67% last snapshot**
+- **Requester breakdown:**
+  - Nate Straus: 2/5 (40%) — GCS parts (Digikey + Amazon; likely related orders)
+  - Joshua Fromm: 2/5 (40%) — S3 sales + S0 IDIQ batteries
+  - Alex: 1/5 (20%) — Mouser (S3 IRAD electronics)
 - **Status breakdown:**
-  - Order Received: 1 task (33%) — jawstec #69119; ready for closure
-  - Order Placed: 2 tasks (67%) — in transit or pending confirmation
+  - All 5 tasks: Open (no completed, received, or placed tasks visible)
 - **Project allocation:**
-  - [001-7] IRAD S3: 2 tasks (67%)
-  - [550-1] Navy SBIR: Magnetometer: 1 task (33%)
-- **Tax-exempt tracking:** 1/3 tasks marked tax-exempt (jawstec #69119)
+  - [300-3] 2026 IDIQ (Hurricane): 3 tasks (60%) — GCS parts (×2) + S0 IDIQ batteries
+  - [001-7] IRAD S3: 1 task (20%) — Mouser
+  - General Sales (No Specific Project): 1 task (20%) — compositeenvisions (billing clarification needed)
+- **Tax-exempt tracking:** 2/5 tasks marked tax-exempt (compositeenvisions + batteries); both for [300-3] 2026 IDIQ or General Sales.
 
 ## Recent Activity
-- **Task Closures:** Amazon Shop supplies and Amazon orders (originally 6 tasks) have been closed or removed. Reflects successful delivery/receipt and closure workflow.
-- **jawstec #69119 Status Unchanged:** Remains "Order Received" (assigned to Nate Straus) since last snapshot. Ordered Jun 5, due Jun 13—now past nominal deadline but still open. **Recommend immediate closure upon final inspection documentation.**
-- **Two Pending Orders:** McMaster Carr (S3 Gimbal pt.2) and Bartington Sensor Interface Board both placed Jun 11, due Jun 13 (2-day window). Monitor for delivery tracking.
-- **Navy SBIR Activity Continues:** Bartington board order active for [550-1] Navy SBIR: Magnetometer project—indicates sustained magnetometer procurement cycle.
+- **jawstec #69119 Task Closure:** jawstec order (Order Received, assigned to Nate Straus last snapshot) is **no longer in open task list.** Assume closure completed or auto-deleted per form-based task management protocol. **Confirm with Nate Straus that verification was completed.**
+- **New Procurement Wave:** 5 new tasks submitted (likely Jun 13–14, 2026, based on Jun 15–16 due dates). Indicates sustained high-volume purchasing operations.
+- **[300-3] 2026 IDIQ (Hurricane) Acceleration:** 3/5 tasks (60%) now allocated to Hurricane IDIQ project. Suggests project scaling or component availability window. Nate Straus (GCS parts) and Joshua Fromm (batteries) both driving this cycle.
+- **[001-7] IRAD S3 Continued:** Mouser task assigned to Alex (new requester for this project). S3 procurement ongoing but at lower volume than IDIQ.
+- **Delegation Regression:** Nate Straus (who handled jawstec verification last snapshot) is **not assigned any tasks this cycle**—only acting as requester for GCS parts. Meredith O'hara Needham has reverted to 100% assignment concentration.
 
 ## Notes & Context
-- **Form-Based Task Management:** Project uses Asana form submission (https://form.asana.com/?k=AYO2EiBus4sRY0G_cbPmHw&d=12804948716594) with auto-deletion of stale tasks. Closure rate suggests healthy housekeeping—4/6 prior tasks now closed or auto-deleted.
-- **Assignment Concentration Improving:** Nate Straus now handling jawstec verification (cross-training positive). Meredith O'hara Needham concentration reduced to 67% (was 83%). Consider continued delegation to further reduce single-point-of-failure risk.
-- **Tax-Exempt Compliance:** 1/3 tasks (33%) marked tax-exempt. jawstec consistently tax-exempt; McMaster Carr and Bartington non-exempt. Ensure sales tax properly tracked per project billing.
-- **Project Billing Accuracy:** All 3 remaining tasks properly allocated to specific projects ([001-7] IRAD S3 ×2, [550-1] Navy SBIR ×1). **No "General Sales" billing gaps** (prior concern resolved by task closure).
-- **Immediate Action Item:** jawstec #69119 ordered Jun 5, received, now 8 days past order date and at due date. **Close upon Nate Straus verification completion to clear backlog.**
+- **Form-Based Task Management Active:** All 5 tasks submitted via Asana form (https://form.asana.com/?k=AYO2EiBus4sRY0G_cbPmHw&d=12804948716594) with complete metadata capture (requester, project, tax-exempt status, due date).
+- **Single-Point-of-Failure Risk CRITICAL:** Meredith O'hara Needham assigned 100% of open tasks (was 67%, now 100% regressive). Prior snapshot recommended continued delegation to reduce risk. **IMMEDIATE ACTION:** Reassign 1–2 tasks to Nate Straus (jawstec verification suggests capability) or other team members to restore distribution. Dual-assignment protocol recommended for high-volume cycles.
+- **Billing Accuracy Issue Resurfaces:** "compositeenvisions for s3 sales" assigned to "General Sales (No Specific Project)" despite referencing "s3 sales." Last snapshot flagged "General Sales" gaps as resolved. **Before placement, confirm whether this is [001-7] IRAD S3 or external sales revenue (different billing treatment).** Joshua Fromm requested; clarify intent.
+- **Tax-Exempt Compliance:** 2/5 tasks

@@ -1,6 +1,6 @@
 {
-  "asana_gid": "1205318673933832",
-  "asana_task_name": "[1298] ERAU - S0 & S0 VTOL deployment ",
+  "asana_gid": "1205971100510799",
+  "asana_task_name": "[1313] ERAU 4 S0 VTOL",
   "customer": "Embry-Riddle Aeronautical University",
   "customer_contact": "Kevin Adkins",
   "customer_email": "adkinsk@erau.edu",
@@ -31,7 +31,7 @@
   "invoice_date": "2025-05-07",
   "invoice_amount": 21181.81,
   "invoice_number": "1667",
-  "paid_date": "2025-05-07",
+  "paid_date": "2025-05-21",
   "parts": [
     {
       "name": "S0 VTOL airframe",
@@ -41,21 +41,14 @@
       "order_date": null
     },
     {
-      "name": "Flight controller",
+      "name": "Samsung Galaxy Tab Active2",
       "ordered": true,
       "received": false,
       "vendor": "",
       "order_date": null
     },
     {
-      "name": "ESC",
-      "ordered": true,
-      "received": false,
-      "vendor": "",
-      "order_date": null
-    },
-    {
-      "name": "Servos",
+      "name": "SwiftStation Ground Station",
       "ordered": true,
       "received": false,
       "vendor": "",
@@ -70,12 +63,11 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Two S0 VTOL units ordered and paid in full (Invoice 1667, May 2025). BST experienced delivery delays; formal settlement agreement in progress per company disclosure documents. Slack card shows in QC status with receive-by date 2026-08-31. Despite Asana task showing 'Closed' with $0 values, this is kept due to paid QBO invoice 1667 matching this order and active settlement/delivery engagement.",
+  "notes": "ERAU ordered 2\u00d7 S0 VTOL units, paid in full (Invoice 1667, May 2025). Units in BST QC; expected delivery by end of August 2026. Settlement agreement pending for delivery delays per company disclosure (Schedule 3.15).",
   "missing_fields": [
-    "parts.received",
     "shipped_date",
     "tracking_number"
   ],
-  "last_evidence_date": "2026-06-13",
-  "last_contact_date": "2026-05-21"
+  "last_evidence_date": "2026-05-26",
+  "last_contact_date": null
 }

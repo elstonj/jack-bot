@@ -1,7 +1,7 @@
 # #general
 
 ## Overview
-Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - June 2026). Key participants include Jack Elston (leadership), Dan Prendergast (business development/operations), Maciej, Joshua Fromm, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, Spencer Hoehl (intern as of June 5, 2026), and numerous team members.
+Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - June 2026). Key participants include Jack Elston (leadership), Dan Prendergast (business development/operations), Maciej, Joshua Fromm, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, Spencer Hoehl (intern as of June 5, 2026), Ethan Domagala, and numerous team members.
 
 ## Key Decisions
 
@@ -38,4 +38,4 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **NASA SBIR Phase I Selected** (June 5, 2023): "Uncrewed Aircraft System Data Assimilation for Improved Wildland Fire Fighting Decision Support" (Proposal A3.02-1718)
 - **Navy SBIR Phase II Invitation** (March 5, 2025): Magnetometer project advanced to Phase II
 - **NOAA Phase II GPS-Denied Navigation** (Jan 8, 2021): BST selected for GPS denied navigation work
-- **WPO Funding Approved** (May 27, 2021): Two NOAA efforts funded: soil moisture maps near
+- **WPO Funding Approved** (May 27, 2021): Two NO

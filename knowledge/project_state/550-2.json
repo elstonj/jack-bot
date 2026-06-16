@@ -30,10 +30,10 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 33428.75,
+        "amount": 33912.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-15"
+        "last_updated": "2026-06-16"
       },
       "purchases": {
         "amount": 0.0,
@@ -47,13 +47,13 @@
         "confidence": "exact",
         "last_updated": "2026-06-10"
       },
-      "total": 40428.75,
+      "total": 40912.5,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 98065.25,
+    "remaining": 97581.5,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-15T08:54:10Z"
+    "last_reconciled": "2026-06-16T09:07:56Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -92,6 +92,6 @@
       "text": "From Maciej: Yeah, turns out he just wanted to focus on discussing commercial markets moving forward for BST from the industrial plan. Looks like he mainly wants to focus on expanding our non-DOD weather stuff first."
     }
   ],
-  "last_full_rebuild": "2026-06-15T08:54:10Z",
+  "last_full_rebuild": "2026-06-16T09:07:56Z",
   "last_incremental_update": null
 }

@@ -4,12 +4,12 @@
 - **Client:** Internal/Black Swift Technologies
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked (cumulative):** 90.4 hours
+- **Total hours tracked (cumulative):** 95.2 hours
 
 ## Team Allocation
-- **Ethan Domagala:** 42.2 hours (47%)
-- **Nate:** 38.0 hours (42%)
-- **Stachura:** 8.7 hours (9%)
+- **Ethan Domagala:** 42.2 hours (44%)
+- **Nate:** 38.0 hours (40%)
+- **Stachura:** 13.5 hours (14%)
 - **Spencer Hoehl:** 1.5 hours (2%)
 - **Primary contributor:** Ethan
 
@@ -28,16 +28,22 @@ Recent work entries show continued Flight Testing focus:
 - **Flights and logs:** 6.0 hours (Nate)
   - Status: No new activity this batch
   
-- **Spencer Hoehl involvement (NEW):** 1.5 hours total
-  - Current batch: 1.5h (undescribed entry)
-  - **Status:** New team member activity; entry requires description
+- **Stachura involvement (INCREASED):** 13.5 hours total
+  - Current batch: 4.8h (undescribed entry)
+  - Previous batch: 8.7h
+  - **Trend:** Growing contribution; now second-largest after Ethan
+  - **Documentation gap:** Current entry lacks description
+  
+- **Spencer Hoehl involvement:** 1.5 hours total
+  - Current batch: No new activity
+  - Previous: 1.5h (undescribed entry)
+  - **Status:** Entry still requires description
   
 - **Unspecified/support activities:** 27.8 hours (Nate + Stachura)
-  - **Trend:** Documentation gap persists; 8.0 hours undescribed from Nate; new Spencer entry also undescribed
 
 ## Insights
-- **Team expansion:** Spencer Hoehl introduced as fourth contributor (2% of hours)
-- **Documentation gap growing:** Two undescribed entries (8.0h historical + 1.5h current Spencer entry = 9.5 hours undescribed; 10.5% of total project)
-- **S3 testing activity plateau:** No new S3 entries this batch; previous 8.0h session appears to be discrete effort
-- **S1-22 testing still paused:** Dormancy extends across two data batches—recommend status clarification
-- **Concentration remains high:** Top two contributors (Ethan + Nate) account for 89% of tracked hours
+- **Stachura escalation:** Contribution increased 55% this batch (4.8h added); now represents 14% of project hours—suggest clarifying role scope
+- **Documentation gap persistent:** Three undescribed entries now total 14.3 hours (15% of project)—recommend immediate descriptions for Stachura (4.8h current + 8.7h prior) and Spencer (1.5h)
+- **S3 testing activity plateau:** No new entries this batch; previous 8.0h session appears discrete
+- **S1-22 testing dormant:** Continues across three data batches—recommend status clarification
+- **Team composition stabilizing:** Four consistent contributors; concentration remains high at Ethan + Nate = 84%

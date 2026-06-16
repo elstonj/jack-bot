@@ -29,7 +29,7 @@
         "amount": 14946.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-15"
+        "last_updated": "2026-06-16"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 55934.65,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-15T08:52:06Z"
+    "last_reconciled": "2026-06-16T09:06:01Z"
   },
   "milestones": [
     {
@@ -110,6 +110,6 @@
       "text": "From Daniel Prendergast: <@U01511MEQ90> I have two emails that show the history of sending the batteries down to Mexico.  Where do you want me to save them?\nTo answer their questions:  We did not get an ECCN for the battery, and it looks like we just paid the fees as if we were doing permanent import to MX.  I can email Javi (customs broker) to confirm if you need me to.  Do you want me to respond to the email chain to explain these things to the group?"
     }
   ],
-  "last_full_rebuild": "2026-06-15T08:52:06Z",
+  "last_full_rebuild": "2026-06-16T09:06:01Z",
   "last_incremental_update": null
 }
