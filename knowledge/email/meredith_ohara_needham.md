@@ -1,139 +1,118 @@
 # Meredith O'hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 61 emails
-- **Date range:** June 15–16, 2026 (2 days)
-- **Approximate volume:** ~30 emails/day; heavily weighted toward automated notifications, task assignments, and vendor communications
-- **Trend:** Significant increase from previous sample (13 → 61 messages); indicates active purchasing workflow and out-of-office auto-reply period generating heavy return traffic
+- **Total messages scanned:** 95 emails (updated from 61)
+- **Date range:** June 15–17, 2026 (3 days)
+- **Approximate volume:** ~32 emails/day
+- **Trend:** Sustained high volume consistent with prior sample; mix of vendor confirmations, task assignments, travel logistics, and direct stakeholder engagement
 
 ## Key Correspondents
 
 ### Incoming (by frequency)
-1. **Asana task notifications** (`no-reply@asana.com`) — 7 messages (purchasing task assignments: Digikey, Amazon, compositeenvisions, batteries, Mouser)
-2. **Purchasing system** (`purchasing@blackswifttech.com`) — 15+ messages (vendor confirmations, invoices, shipping, promotions)
-3. **Human Interest (HR/Benefits)** (`noreply-support@mail.humaninterest.com`) — 2 messages (SECURE 2.0 Amendment, invoices)
-4. **SAM.gov registrations** (`donotreply@sam.gov`) — 2 messages (government vendor registration & IRS TIN validation)
-5. **Government/External Partners:**
-   - Lockheed Martin UK Approved Supplier Database — 2 messages
-   - DARPA (`operations@blackswifttech.com`) — 1 message
-   - Amy McLiverty - NOAA Federal — 1 message
-   - Stephanie Cintron - Embry-Riddle Aeronautical University (`CINTRONS@erau.edu`) — 1 message
-6. **Internal BST colleagues (direct):**
-   - Jack Elston (`elstonj@blackswifttech.com`) — 1 direct message, multiple forwarded chain participation
-   - Beck Cotter (`beck.cotter@blackswifttech.com`) — 1 message (NOAA delivery order)
-7. **External vendors & contacts:**
-   - Briana Gonzalez (`briana@jawstec.com`) — Possible order delay notice
-   - Sean Cole (`sean@phase1av.com`) — Invoice #1112
-   - Chad Atwood (`chad@theaiginc.com`) — Survey request
-   - Nadia Bryan (`nbryan@kofirm.com`) — Disclosure numbers discussion (likely legal/compliance)
+1. **Purchasing system** (`purchasing@blackswifttech.com`) — 30+ messages (vendor confirmations, invoices, shipping, promotional offers)
+   - **Vendor sources routed through purchasing:**
+     - DigiKey (2 shipment notices, 2 PO acknowledgements)
+     - Mouser Electronics (2 shipment + order confirmation)
+     - McMaster-Carr (3 confirmations/tracking)
+     - Amazon (2 order/shipment notifications)
+     - UPS (3 delivery notifications)
+     - ServoCity, BatterySpace, Budget Rent A Car, Hampton by Hilton, Expedia, Pirate Ship (1-4 each)
 
-### Outgoing (Out of Office Auto-Replies)
-- **7 out-of-office replies sent** during June 15 period to:
-  - Human Interest (benefits/HR system)
-  - SAM.gov
-  - Jack Elston (Black Swift Disclosure Numbers)
-  - Beck Cotter (NOAA delivery order)
-  - eBay/Lockheed notifications
-  - Chad Atwood (survey)
-  - Nadia Bryan (disclosure numbers)
-  - Amy McLiverty (NOAA)
-  - Bloomberg subscription
+2. **Lee Skidmore** (`lee@rubiconaerospace.com`) — 5 messages (S0 Deploy Tubes shipping coordination)
+   - **Co-recipient:** Joshua Fromm, Jeremy Van Vliet
 
-- **1 self-generated email:** "Daily Purchasing Summary" (likely automated or personal task log)
+3. **Chad Atwood** (`chad@theaiginc.com`) — 5 messages (Survey discussion thread)
+   - **Pattern:** Multi-party chain with Meredith and Jack Elston
+
+4. **Jack Elston** (`elstonj@blackswifttech.com`) — 4 direct messages + multiple forwarded/chain participation
+   - Covers: Budget car rental coordination, SECURE 2.0 Amendment, survey forwarding, travel planning
+
+5. **Debbie Rampy** (`debbie@bolderins.com`) — 4 messages (Insurance policy documentation & updates)
+
+6. **Tanay Topac** (`tanaytopac@stanford.edu`, `tanaytopac@gmail.com`) — 2 messages (MHP data alignment - cross-org collaboration with Nathaniel Straus, Maciej Stachura)
+
+7. **Asana** (`no-reply@asana.com`) — 1 unread notifications batch
+
+### Outgoing (Direct sends by Meredith)
+- **Jack Elston** — 8+ direct emails (SECURE 2.0 follow-up, travel confirmations forwarding, budget car rental, survey discussion)
+- **Lee Skidmore** — 3 direct emails (S0 shipping coordination)
+- **Chad Atwood** — 4 direct emails (survey responses)
+- **Debbie Rampy** — 4 direct emails (insurance policy, extra information)
+- **Nikolai Pawlenko** (NOAA Federal) — 1 direct email (display quote response)
+- **Jeff Catherwood** (`jcatherwood@microhardcorp.com`) — 1 direct email (quote request response)
+- **Stephanie Cintron** (ERAU) — 1 direct email (S0 Model)
+- **Sona Raziabeegum** (`sona@krateosky.com`) — 1 forwarded email (GAAP compliance question)
+- **Hilda Abrego** (Elevation Credit Union) — 2 direct emails (bank letter request, check deposit hold question)
+- **Daniel Prendergast** (`daniel.prendergast@blackswifttech.com`) — 1 forwarded email (Hampton confirmation)
+- **Maciej Stachura** (`stachura@blackswifttech.com`) — 2+ forwarded/chain emails (travel & meeting coordination)
 
 ### Internal Collaboration
-- **Primary internal contacts:** Jack Elston (elstonj), Maciej Stachura (stachuram), Beck Cotter (beck.cotter)
-- **Shared distribution lists:**
-  - `purchasing@blackswifttech.com`
-  - `proposals@blackswifttech.com`
-  - `operations@blackswifttech.com`
-  - `info@blackswifttech.com`
+- **Primary direct contacts:** Jack Elston (elstonj), Maciej Stachura (stachura), Joshua Fromm (josh.fromm)
+- **Broader distribution list recipients:**
+  - `operations@blackswifttech.com` (window cleaning notice)
+  - `info@blackswifttech.com` (Aveo Engineering, Lockheed Martin UK ECCN inquiry, various newsletters)
+  - `purchasing@blackswifttech.com` (primary system for vendor routing)
 
 ### External Vendors & Suppliers (Updated)
+
 **Electronics & Components:**
-- Digikey, Mouser (GCS parts)
-- Amazon (Kingston DataTraveler, quick release plates, general procurement)
-- eBay (Sony A5100 camera, Futaba 14SG receivers/transmitters)
-- NewBeeDrone (drone equipment)
+- DigiKey (invoice 127629224, 127631150)
+- Mouser Electronics (PO 39526033)
+- McMaster-Carr (multiple June 16 orders)
+- ServoCity (order #300044802)
+- BatterySpace (AA Portable Power, order #500103)
+- Amazon (Traovien Micro USB items)
+- Bisco Industries (Southco R4-EM-44-161 reorder)
 
-**Manufacturing & Custom Work:**
-- AngusTech (Heavy Copper PCB)
-- Protocase (enclosures, short lead times)
-- SendCutSend (metal fabrication — order SW46G546 delivered)
-- compositeenvisions (S3 sales project)
-- RotorWorks Manufacturing (Boulder-based supplier, scheduled visit June 22)
+**Aerospace/Defense Manufacturing:**
+- **Rubicon Aerospace** (`lee@rubiconaerospace.com`) — **S0 Deploy Tubes shipped** (high-priority project component)
+- Jeff Catherwood / Microhard Corp (quote request response)
 
-**Specialty Aviation/Aerospace:**
-- Phase 1 Aviation LLC (`sean@phase1av.com`) — Invoice payment
-- JawsTec (`briana@jawstec.com`) — Possible order delays
-- NECO Labs (supplier support opportunity routed via proposals)
+**Travel & Logistics:**
+- Budget Rent A Car (YOW reservation for Jack Elston #48085425US3; Joshua Fromm #48085060US2)
+- Hampton by Hilton (Jun 27 confirmation #82367973)
+- Expedia (travel confirmation itinerary #73475920981648 + Travel Guard policy #1003310230)
+- UPS (package tracking, delivery exceptions)
+- Pirate Ship (shipping payments — 4x $76.66 receipts)
 
-**Retail & Tools:**
-- Harbor Freight, Speedway Motors, Amazon
+**Financial & Insurance:**
+- Debbie Rampy / Boulder Insurance (`debbie@bolderins.com`) — Policy #9032844 updates (likely BST organizational coverage)
+- Elevation Credit Union (Hilda Abrego) — Bank letter request, check deposit holds
+- Plaid (Rippling HR system bank account connection)
 
-**Beverages:**
-- Spindrift (order on the way)
+**Government/Academic Partners:**
+- Nikolai Pawlenko – NOAA Federal (PCS/Permanent Change of Station, display quote discussion)
+- Stephanie Cintron – Embry-Riddle Aeronautical University (S0 Model collaboration)
 
-**Government/Compliance Vendors:**
-- SAM.gov (federal vendor registration)
-- Lockheed Martin UK Approved Supplier Database
+**External Organizations:**
+- Krateo Sky (`sona@krateosky.com`) — GAAP compliance question (possible partnership/vendor)
+- Lockheed Martin UK (ECCN inquiry from Stefan Golunski `stefan.golunski@global.lmco.com` re: S0 Air Deployed UAS — **regulatory classification request**)
+- The AIG Inc. (Chad Atwood) — Survey engagement
+- JawsTec (implied from prior knowledge)
+
+**Real Estate & Facilities:**
+- Colorado Group (Karla Brown & Maureen Espinoza) — Retail/Creative/Service for Lease opportunity
+- Amy Smith / WW Reynolds — Window cleaning notice (2840 Wilderness address)
+
+---
 
 ## Topic Patterns
 
-### Primary: Purchasing & Procurement ([001-13] Project Codes)
-- **Active task assignments** in Asana:
-  - "Digikey (GCS parts)" — component sourcing
-  - "Amazon / GCS" — procurement
-  - "compositeenvisions for s3 sales" — sales support project
-  - "batteries for s0 idiq" — s0 platform batteries
-  - "Mouser" — component procurement
-- **Recent deliveries tracked:**
-  - Quick release plates (5x)
-  - Kingston 64GB DataTraveler USB drives
-  - SendCutSend metal fabrication order
-- **Active vendor communications:**
-  - Phase 1 Aviation invoicing
-  - JawsTec delivery delays (potential supply chain issue)
-  - RotorWorks introduction (June 22 Boulder visit scheduled)
+### Primary: Active Procurement & Supply Chain (S0 Platform)
+- **Rubicon Aerospace Deploy Tubes:** S0 shipping coordination (shipped status confirmed Jun 16)
+- **Component sourcing:** DigiKey invoices, Mouser POs, McMaster-Carr supplies
+- **Battery procurement:** BatterySpace order confirmation (AA Portable Power)
+- **USB/Storage:** Kingston DataTraveler inventory (from prior sample, ongoing)
 
-### Secondary: Government/Defense Compliance
-- **SAM.gov registration:** Federal contractor registration activated (C2J3K9NRE3L3)
-- **IRS TIN validation:** Complete
-- **Lockheed Martin UK accreditation:** "Air & Avionic Equipment & Services" approved
-- **DARPA participation:** Lift Challenge (Aug 6-9)
-- **NOAA relationship:** Amy McLiverty coordination on delivery orders
-- **Embry-Riddle partnership:** S0 Model collaboration with Stephanie Cintron (ERAU faculty)
+### Secondary: S0 Model Development & Academic Partnership
+- **Embry-Riddle Aeronautical University:** S0 Model collaboration with Stephanie Cintron (faculty)
+- **NOAA relationship:** Nikolai Pawlenko PCS/display quote negotiation (likely S0 testing/deployment context)
+- **Lockheed Martin ECCN inquiry:** Stefan Golunski requesting regulatory export classification for "Black Swift S0™ Air Deployed UAS" — indicates **export control review in progress**
 
-### Tertiary: HR/Benefits & Internal Administrative
-- **Human Interest (401k/Benefits):**
-  - SECURE 2.0 Amendment (mandatory action)
-  - Invoice ready notification
-- **Rippling (HR system):** Pending tasks notification
-- **Rippling survey:** $50 gift card incentive (Sapient Insights)
-- **Jack Elston forwarded:** SECURE 2.0 Amendment follow-up
-
-### Newsletters & Monitoring
-- **UASweekly Daily Newsletter** (to `info@blackswifttech.com`)
-- **Aveo Engineering Group** (EUROSATORY, product updates)
-- **Bloomberg Technology** (Apple's AI future — appears to be personal subscription)
-- **Axios New Orleans** ("Preparing for Waymo" — autonomous vehicle monitoring)
-- **Commercial UAV News** (Matt Collins outreach via operations list)
-
-## Communication Patterns
-
-- **Heavy automated load:** ~75% of messages are system notifications, vendor confirmations, task assignments, and newsletters
-- **Out-of-office active:** Extended OOO during June 15 (travel or leave) generating multiple auto-replies throughout day
-- **Task-driven workflow:** Asana is primary work coordination tool; 7 task assignments visible in 2-day window
-- **Daily summary:** Self-generated "Daily Purchasing Summary" suggests structured procurement tracking
-- **Government compliance cycle:** SAM.gov, Lockheed Martin, and DARPA communications all clustered around June 15 (registration/accreditation period)
-- **Mailing list participation:**
-  - `operations@blackswifttech.com` (DARPA, Boulder County, Commercial UAV News)
-  - `proposals@blackswifttech.com` (Lockheed Martin, supplier opportunities)
-  - `info@blackswifttech.com` (Aveo Engineering, UASweekly)
-- **Time zones:** Email activity spans UTC, EDT, CDT, and PDT (distributed team or travel)
-
-## Key Relationships
-
-### Internal Collaborators (by evidence)
-1. **Jack Elston** (`elstonj@blackswifttech.com`) — Direct manager/senior leadership role
-   - Forwards critical items (SECURE 2.0
+### Tertiary: Travel & Meeting Coordination
+- **Canada trip planned:** June 24 (Expedia) + June 27 Hampton (likely YOW = Ottawa)
+  - Jack Elston Budget car reservation YOW
+  - Joshua Fromm Budget car reservation YOW
+  - Travel Guard insurance policy attached
+- **Krateo visit:** Post-trip meeting setup with Jack Elston + Maciej Stachura mentioned
+- **Aeropod Website

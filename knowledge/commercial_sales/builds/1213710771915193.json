@@ -44,12 +44,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "ACTIVE ORDER: funded S3 Canada demo (NexTech Solutions / Canadian Rangers). Commercial demo unit in assembly for Ottawa flight test (June 24\u201326, 2026; receive-by 2026-06-25). Arctic validation phase follows Nov 2026\u2013April 2027 in Whitehorse. NexTech evaluating S3 for tactical deployment with Joint Forces Command Canada; potential follow-on JFC procurement for Rangers. Demo scheduled before team deploys to Murphy's Pond (Kentucky). Slack confirmation 2026-06-01 and recent travel logistics discussion 2026-06-15 corroborate active pipeline status.",
+  "notes": "ACTIVE ORDER: funded S3 Canada demo (NexTech Solutions / Canadian Rangers). Commercial demo unit in assembly for Ottawa flight test (June 24\u201326, 2026; receive-by 2026-06-25). Arctic validation phase follows Nov 2026\u2013April 2027 in Whitehorse. NexTech evaluating S3 for tactical deployment with Joint Forces Command Canada; potential follow-on JFC procurement for Rangers. Demo scheduled before team deploys to Murphy's Pond (Kentucky). Recent Slack activity 2026-06-15 confirms active travel logistics coordination.",
   "missing_fields": [
     "ship_to",
     "estimate_date",
     "parts (EO/IR gimbal vendor & order status)"
   ],
-  "last_evidence_date": "2026-06-15",
+  "last_evidence_date": "2026-06-16",
   "last_contact_date": "2026-06-09"
 }

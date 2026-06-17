@@ -8,7 +8,7 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 **Activity Level:** Extremely high throughout the period (March 2024 - June 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. June 2026 represents a particularly intense submission period with 11 major proposals/responses submitted in a single month. Pace remains intense with rapid sequential submissions, active pursuit of new competitive opportunities, implementation/integration planning, vendor onboarding processes, portfolio management, and significant external partnerships/customer engagement alongside proposal work.
 
-**Time Range:** March 3, 2024 - June 15, 2026
+**Time Range:** March 3, 2024 - June 16, 2026
 
 ---
 
@@ -75,4 +75,4 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 - **DOE Genesis Proposal finalized and submitted** (April 22-30, 2026): 
   - **April 22:** Beck Cotter raised concern about lead/subcontractor arrangement change requiring renegotiation in short timeframe; due date April 28, 2026 (potentially May 1)
-  - **April 23:** Beck C
+  - **April 23:** Proposal fin

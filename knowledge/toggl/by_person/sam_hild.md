@@ -1,26 +1,30 @@
 # Sam Hild — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 16.9 hours
+- **Total hours tracked:** 24.0 hours
 - **Primary projects:** 
-  1. Unassigned/None (3.5 hours, 20.7%)
-  2. [001-07] S3 IRAD (2.7 hours, 16.0%)
-  3. [550-1] Navy SBIR: Magnetometer (2.2 hours, 13.0%)
-- **Time period covered:** Multiple data batches
+  1. Unassigned/None (3.5 hours, 14.6%)
+  2. [001-04] S0 VTOL IRAD (6.2 hours, 25.8%)
+  3. [001-07] S3 IRAD (2.7 hours, 11.3%)
+  4. [550-1] Navy SBIR: Magnetometer (3.1 hours, 12.9%)
+- **Time period covered:** Multiple data batches (cumulative)
 
 ## Project Breakdown
-- **No project assigned:** 3.5 hours (20.7%)
-- **[001-07] S3 IRAD** (Client: [001] IRAD): 2.7 hours (16.0%)
-- **[550-1] Navy SBIR: Magnetometer:** 2.2 hours (13.0%)
+- **[001-04] S0 VTOL IRAD** (Client: [001] IRAD): 6.2 hours (25.8%)
+- **No project assigned:** 3.5 hours (14.6%)
+- **[550-1] Navy SBIR: Magnetometer:** 3.1 hours (12.9%)
+- **[001-07] S3 IRAD** (Client: [001] IRAD): 2.7 hours (11.3%)
 
 ## Recent Activity
-- Working on S3 Laser bug within [001-07] S3 IRAD project (2.7 hours)
-- Contributing to Navy SBIR Magnetometer project (2.2 hours, no description provided)
-- 3.5 hours logged without project assignment or task description
-- Shows improving project classification compared to earlier entries
+- **S0 VTOL Testing:** Primary focus in latest batch (6.2 hours total across two entries: 1.1h + 5.1h)
+- **Navy SBIR Magnetometer:** 3D Model work (0.9 hours in latest batch)
+- S3 Laser bug work within [001-07] S3 IRAD (2.7 hours, earlier entries)
+- Shows consistent project assignment; all recent entries now properly classified
 
 ## Patterns
-- **Shift in tracking behavior:** Most recent entries now assigned to actual projects rather than unclassified
-- **Focus areas:** R&D/engineering work (S3 laser systems, magnetometer development)
-- **Documentation gaps:** Navy SBIR work and unassigned time lack task descriptions
-- **Recommendation:** Continue assigning projects to time entries; add brief task descriptions for Navy SBIR and unassigned hours to improve visibility and traceability
+- **Project focus shift:** New emphasis on S0 VTOL testing—now largest project by hours (25.8% of total)
+- **Client concentration:** ~37% of time on IRAD projects ([001] client) across S0 VTOL and S3 IRAD combined
+- **Improved tracking discipline:** Zero unassigned time in latest batch; all entries linked to specific projects and tasks
+- **Consistent work areas:** R&D/engineering (VTOL systems, magnetometer development, laser systems)
+- **Task descriptions:** Now consistently added for recent entries (testing, 3D modeling)
+- **Recommendation:** Maintain current tracking discipline; continue adding task descriptions for full traceability and project visibility

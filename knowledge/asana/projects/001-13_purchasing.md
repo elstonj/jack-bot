@@ -3,62 +3,60 @@
 ## Overview
 - **Client/customer:** Internal BST purchasing system (serves all active projects)
 - **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across multiple projects
-- **Timeline:** Ongoing operational project; current orders due June 15–16, 2026
-- **Status:** **ACTIVE.** 5 open tasks (up from 3 as of last snapshot). New procurement cycle underway for [300-3] 2026 IDIQ (Hurricane), [001-7] IRAD S3, and General Sales. All tasks assigned to Meredith O'hara Needham; single-point-of-failure concentration has returned.
+- **Timeline:** Ongoing operational project; current orders due June 12–18, 2026
+- **Status:** **ACTIVE — ESCALATING.** 9 open tasks (up from 5). 4 tasks already marked "Order Placed" or "Order Shipped" but remain open in task list — suggests form-based tasks are not auto-closing on status update. **2 overdue tasks:** Microhard (due May 11, 2026 — 36+ days overdue) and jawstec #69219 (due Jun 12, 2026 — likely overdue as of current snapshot date). All tasks assigned to Meredith O'hara Needham; single-point-of-failure concentration persists at 100%.
 - **Team members involved:**
-  - **Meredith O'hara Needham** (5/5 assigned tasks; project owner; order placement role)
-  - **Nate Straus** (2/5 as requester; GCS parts focus)
-  - **Joshua Fromm** (2/5 as requester; S3 and S0 IDIQ focus)
-  - **Alex** (1/5 as requester; S3 procurement)
+  - **Meredith O'hara Needham** (9/9 assigned tasks; project owner; order placement role)
+  - **Nate Straus** (3/9 as requester; GCS parts focus)
+  - **Joshua Fromm** (4/9 as requester; S3 sales, S0 IDIQ, compositeenvisions)
+  - **Alex** (1/9 as requester; S3 procurement)
+  - **Sam** (1/9 as requester; Hurricane GCS parts — new requester)
 
 - **Risk signals:**
-  - 🟡 **ASSIGNMENT CONCENTRATION SPIKE:** All 5/5 tasks assigned to Meredith O'hara Needham (100%, up from 67% last snapshot). Previous improvement in delegation to Nate Straus has reversed. **Critical single-point-of-failure risk.**
-  - 🟡 **NEW PROCUREMENT CYCLE:** 5 tasks due within 1–2 days (Jun 15–16, 2026). Heavy focus on [300-3] 2026 IDIQ (Hurricane) (3 tasks) signals major project acceleration.
-  - 🟡 **BILLING AMBIGUITY:** One task ("compositeenvisions for s3 sales") assigned to "General Sales (No Specific Project)" — prior snapshot flagged this as a billing gap. **Clarify project allocation before placement.**
-  - 🔴 **PRIOR TASK DISPOSITION:** jawstec #69119 (Order Received, ready for closure per last snapshot) is **no longer in open task list.** Assume closed; confirm with Nate Straus if verification was completed.
+  - 🔴 **ASSIGNMENT CONCENTRATION CRITICAL:** All 9/9 tasks assigned to Meredith O'hara Needham (100%). Single-point-of-failure risk unchanged from prior snapshot; no delegation improvement made.
+  - 🔴 **OVERDUE TASKS:** 
+    - **Microhard / Hurricane GCS** — due May 11, 2026 (36+ days overdue; status "Order Shipped" suggests fulfillment complete, but task remains open).
+    - **jawstec for s3 parts - SALES** — due Jun 12, 2026 (status "Order Shipped" suggests fulfillment; task should be closed).
+  - 🟡 **TASK STATUS MISMATCH:** 4/9 tasks have "Order Placed" or "Order Shipped" status but remain open in task list. Form-based task auto-closure may not be triggering correctly. **Action needed:** Close or archive completed orders to reduce clutter and improve tracking accuracy.
+  - 🟡 **BILLING AMBIGUITY PERSISTS:** "compositeenvisions for s3 sales" assigned to "General Sales (No Specific Project)" — flagged in prior snapshot as unresolved. **Still requires clarification before placement.**
+  - 🟡 **DUE DATE INFLATION:** Original snapshot showed tasks due Jun 15–16, 2026; new data shows most now due Jun 18, 2026 (3-day slip). Microhard shows May 11 (placed in past). Suggests task due dates may not reflect actual procurement windows.
 
 ## Key Deliverables & Milestones
 
-### **DUE JUNE 15, 2026 — 3 Tasks**
+### **OVERDUE — REQUIRES CLOSURE**
 
-| Task | Due | Assigned | Project | Requester | Status | Tax Exempt | Notes |
-|------|-----|----------|---------|-----------|--------|-----------|-------|
-| Digikey (GCS parts) | Jun 15, 2026 | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Nate | Open | NO | GCS procurement for Hurricane IDIQ. |
-| Amazon / GCS | Jun 15, 2026 | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Nate | Open | NO | GCS procurement via Amazon. Same requester/project as Digikey. |
-| Mouser | Jun 15, 2026 | Meredith O'hara Needham | [001-7] IRAD S3 | Alex | Open | NO | Electronic components for S3 IRAD project. |
+| Task | Due | Status | Assigned | Project | Requester | Notes |
+|------|-----|--------|----------|---------|-----------|-------|
+| Microhard / Hurricane GCS (#TBD) | May 11, 2026 | Order Shipped | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Nate Straus | 🔴 **36+ days overdue.** Status "Order Shipped" suggests fulfillment complete. **Close task immediately.** |
+| jawstec for s3 parts - SALES (#69219) | Jun 12, 2026 | Order Shipped | Meredith O'hara Needham | General Sales (No Specific Project) | Joshua Fromm | 🟡 **Likely overdue.** Status "Order Shipped" confirms fulfillment. **Close task; clarify whether this is [001-7] IRAD S3 or external sales revenue.** |
 
-### **DUE JUNE 16, 2026 — 2 Tasks**
+### **DUE JUNE 18, 2026 — 6 Tasks (Status: Mixed)**
 
-| Task | Due | Assigned | Project | Requester | Status | Tax Exempt | Notes |
-|------|-----|----------|---------|-----------|--------|-----------|-------|
-| compositeenvisions for s3 sales | Jun 16, 2026 | Meredith O'hara Needham | **General Sales (No Specific Project)** | Joshua Fromm | Open | YES | ⚠️ **BILLING CLARIFICATION NEEDED:** Assigned to "General Sales" but references "s3 sales." Likely [001-7] IRAD S3 or sales fulfillment. **Confirm project allocation before placement.** |
-| batteries for s0 idiq | Jun 16, 2026 | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | Open | YES | Battery procurement for S0 IDIQ component (under Hurricane IDIQ project). |
+| Task | Due | Status | Assigned | Project | Requester | Tax Exempt | Notes |
+|------|-----|--------|----------|---------|-----------|-----------|-------|
+| hurricane GCS Parts (#99854859) | Jun 18, 2026 | Order Placed | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Sam | NO | GCS procurement for Hurricane IDIQ. Status "Order Placed" — task should be progressed or archived. |
+| servocity for s3 canada demo (#300044802) | Jun 18, 2026 | Order Placed | Meredith O'hara Needham | [001-7] IRAD S3 | Joshua Fromm | NO | S3 Canada demo components. Status "Order Placed" — task eligible for closure pending fulfillment. |
+| batteries for s0 idiq (#500103) | Jun 18, 2026 | Order Placed | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | YES | Battery procurement for S0 IDIQ (Hurricane component). Status "Order Placed." |
+| Digikey (GCS parts) (#99853994) | Jun 18, 2026 | Order Placed | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Nate Straus | NO | GCS components via Digikey. Status "Order Placed." Originally due Jun 15; 3-day slip. |
+| Amazon / GCS | Jun 18, 2026 | Order Placed | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Nate Straus | NO | GCS procurement via Amazon. Status "Order Placed." Originally due Jun 15; 3-day slip. |
+| Mouser (#39526033) | Jun 18, 2026 | Order Placed | Meredith O'hara Needham | [001-7] IRAD S3 | Alex | NO | Electronic components for S3 IRAD. Status "Order Placed." Originally due Jun 15; 3-day slip. |
+
+### **DUE JUNE 16, 2026 — 1 Task**
+
+| Task | Due | Status | Assigned | Project | Requester | Tax Exempt | Notes |
+|------|-----|--------|----------|---------|-----------|-----------|-------|
+| compositeenvisions for s3 sales | Jun 16, 2026 | Open | Meredith O'hara Needham | General Sales (No Specific Project) | Joshua Fromm | YES | ⚠️ **BILLING CLARIFICATION NEEDED:** Assigned to "General Sales" but references "s3 sales." Likely [001-7] IRAD S3 or external sales fulfillment. **Confirm project allocation before placement.** |
 
 ## Task Summary
-- **Total tasks:** 5 open, 0 completed (up from 3)
+- **Total tasks:** 9 open, 0 completed (up from 5 in prior snapshot)
+- **Task status breakdown:**
+  - Open (not yet placed): 1 task (11%) — compositeenvisions
+  - Order Placed: 6 tasks (67%) — hurricane GCS, servocity, batteries, Digikey, Amazon, Mouser
+  - Order Shipped: 2 tasks (22%) — jawstec #69219, Microhard
 - **Assignee breakdown:**
-  - Meredith O'hara Needham: 5/5 (100%) — **CONCENTRATION SPIKE; was 67% last snapshot**
+  - Meredith O'hara Needham: 9/9 (100%) — **CONCENTRATION UNCHANGED; critical single-point-of-failure**
 - **Requester breakdown:**
-  - Nate Straus: 2/5 (40%) — GCS parts (Digikey + Amazon; likely related orders)
-  - Joshua Fromm: 2/5 (40%) — S3 sales + S0 IDIQ batteries
-  - Alex: 1/5 (20%) — Mouser (S3 IRAD electronics)
-- **Status breakdown:**
-  - All 5 tasks: Open (no completed, received, or placed tasks visible)
-- **Project allocation:**
-  - [300-3] 2026 IDIQ (Hurricane): 3 tasks (60%) — GCS parts (×2) + S0 IDIQ batteries
-  - [001-7] IRAD S3: 1 task (20%) — Mouser
-  - General Sales (No Specific Project): 1 task (20%) — compositeenvisions (billing clarification needed)
-- **Tax-exempt tracking:** 2/5 tasks marked tax-exempt (compositeenvisions + batteries); both for [300-3] 2026 IDIQ or General Sales.
-
-## Recent Activity
-- **jawstec #69119 Task Closure:** jawstec order (Order Received, assigned to Nate Straus last snapshot) is **no longer in open task list.** Assume closure completed or auto-deleted per form-based task management protocol. **Confirm with Nate Straus that verification was completed.**
-- **New Procurement Wave:** 5 new tasks submitted (likely Jun 13–14, 2026, based on Jun 15–16 due dates). Indicates sustained high-volume purchasing operations.
-- **[300-3] 2026 IDIQ (Hurricane) Acceleration:** 3/5 tasks (60%) now allocated to Hurricane IDIQ project. Suggests project scaling or component availability window. Nate Straus (GCS parts) and Joshua Fromm (batteries) both driving this cycle.
-- **[001-7] IRAD S3 Continued:** Mouser task assigned to Alex (new requester for this project). S3 procurement ongoing but at lower volume than IDIQ.
-- **Delegation Regression:** Nate Straus (who handled jawstec verification last snapshot) is **not assigned any tasks this cycle**—only acting as requester for GCS parts. Meredith O'hara Needham has reverted to 100% assignment concentration.
-
-## Notes & Context
-- **Form-Based Task Management Active:** All 5 tasks submitted via Asana form (https://form.asana.com/?k=AYO2EiBus4sRY0G_cbPmHw&d=12804948716594) with complete metadata capture (requester, project, tax-exempt status, due date).
-- **Single-Point-of-Failure Risk CRITICAL:** Meredith O'hara Needham assigned 100% of open tasks (was 67%, now 100% regressive). Prior snapshot recommended continued delegation to reduce risk. **IMMEDIATE ACTION:** Reassign 1–2 tasks to Nate Straus (jawstec verification suggests capability) or other team members to restore distribution. Dual-assignment protocol recommended for high-volume cycles.
-- **Billing Accuracy Issue Resurfaces:** "compositeenvisions for s3 sales" assigned to "General Sales (No Specific Project)" despite referencing "s3 sales." Last snapshot flagged "General Sales" gaps as resolved. **Before placement, confirm whether this is [001-7] IRAD S3 or external sales revenue (different billing treatment).** Joshua Fromm requested; clarify intent.
-- **Tax-Exempt Compliance:** 2/5 tasks
+  - Joshua Fromm: 4/9 (44%) — compositeenvisions, servocity, batteries, jawstec
+  - Nate Straus: 3/9 (33%) — Digikey, Amazon, Microhard
+  - Alex: 1/9 (11%) — Mouser
+  -

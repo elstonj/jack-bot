@@ -32,10 +32,9 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Meredith Needham Out-of-Office** (June 11, 2026): Meredith Needham out Friday (June 14) and Monday (June 17). Jack Elston committed to handling trash/recycling removal on Thursday (June 12).
 - **CMMC Compliance & CUI Document Storage** (June 12, 2026): Dan Prendergast inquired about CMMC expertise and whether Controlled Unclassified Information (CUI) documents can be stored in Google Drive. Initial research suggests need for "government edition" of Google services. Maciej delegated to an unnamed CMMC expert (U0AQE94HJUT) for guidance.
 - **KrateoSky Milestone Celebration Event** (June 18, 2026): Paige Smith coordinating milestone celebration at Hotel Boulderado with multi-location itinerary: BST in morning, sod farm visit, lunch at Avery Brewing, dinner/celebrations at Hotel Boulderado. Questions raised regarding overnight accommodations (Hotel Boulderado sold out; alternative hotels nearby available), dietary restrictions, and plus-one attendance for headcount planning.
+- **Exterior Window Cleaning** (June 16, 2026): Meredith Needham notified team of exterior window cleaning scheduled for June 17, 2026.
+- **Camp Pendleton S0 Demo** (June 16, 2026): Maciej requesting Part 107 pilot licenses from team members for upcoming Camp Pendleton S0 demonstration. Dan Prendergast directed to BST Pilot Quals folder in Shared Drives → Operations: Flight for license documentation.
 
 ### Funding & Awards
 - **NASA Phase I Award** (May 26, 2021): Contract awarded for S2 all-weather capable platform development with solar integration and VTOL S2 for remote autonomous landing
-- **NASA SBIR Phase I Selected** (June 5, 2023): "Uncrewed Aircraft System Data Assimilation for Improved Wildland Fire Fighting Decision Support" (Proposal A3.02-1718)
-- **Navy SBIR Phase II Invitation** (March 5, 2025): Magnetometer project advanced to Phase II
-- **NOAA Phase II GPS-Denied Navigation** (Jan 8, 2021): BST selected for GPS denied navigation work
-- **WPO Funding Approved** (May 27, 2021): Two NO
+- **NASA SBIR Phase I Selected** (June 5, 2023): "

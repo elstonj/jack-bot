@@ -49,6 +49,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Custom PCB design fixes: Sam Hild fixed ADC 3.3V supply connection issue (U1 pin 26, C2+C4 isolation in inner copper) and JP1 jumper wiring; updates pushed and board ordered (June 9, 2026)
 - QuSpin power isolation approach: Maciej requesting similar isolated power setup for QuSpin sensor as developed for Bartington to restore sensor accuracy from earlier performance (June 10, 2026)
 - QuSpin power supply testing: Maciej to take over testing of QuSpin power supply while Sam Hild focuses on S3 development; testing focused on verifying noise reduction effectiveness (June 12, 2026)
+- Bartington sensor model confirmation: Identified as UAS Mag PC298 with 105 µT range (June 16, 2026)
 
 ## Projects & Initiatives
 
@@ -73,7 +74,4 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Demo audience: Marine groups interested in fixed-wing MAD options (currently use quads that are too slow or easy to shoot down)
 - Deliverable: Reusable hand-launched S0 analog for local testing and Marine use case
 - Navy will primarily launch from UH-60 helicopters
-- Local mag flights: Scheduled for July 1st, 2026 with Bartington sensor testing
-- Flight testing documentation: Navy/Marine events require form completion for S0 flight testing
-
-**
+- Local mag flights: Scheduled for July

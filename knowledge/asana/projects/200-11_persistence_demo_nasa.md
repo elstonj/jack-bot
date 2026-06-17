@@ -123,7 +123,6 @@
 - "Yellow version" project has been clarified; Asana tasks and timelines updated accordingly
 
 **Daniel Prendergast (06/08–06/09/26, URGENT — Canada demo insurance requirement):**
-- ⚠️ **CONFIRM S3 PLATFORM INSURANCE RENEWAL COMPLETION**
+- ⚠️ **ACTION REQUIRED: CONFIRM S3 PLATFORM INSURANCE RENEWAL COMPLETION**
 - **Canada demo insurance requirements flagged (06/09/26):**
-  - $5M Commercial General Liability policy
-  -
+  - $5M Commercial General Liability

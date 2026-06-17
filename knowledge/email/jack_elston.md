@@ -1,10 +1,10 @@
 # Jack Elston — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 4,504 (4,407 prior + 97 June 15–16)
-- **Date range:** April 1–June 16, 2026
+- **Total messages scanned:** 4,604 (4,504 prior + 100 June 16–17)
+- **Date range:** April 1–June 17, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **June 15–16 activity (97 messages):** ~55% vendor/procurement/automated; ~20% KrateoSky M&A integration (technical/staffing); ~15% government/NOAA/technical partnerships; ~5% internal BST coordination; ~5% academic/industry newsletters
+- **June 16–17 activity (100 messages):** ~45% vendor/procurement/automated; ~20% KrateoSky M&A integration (COO recruitment, product planning, event coordination); ~15% NOAA technical partnerships (OOI Pioneer Array, Hurricane Field Program, T-Mobile drone program); ~10% internal BST coordination; ~5% academic/industry newsletters and technical reviews; ~5% travel/personal logistics
 
 ---
 
@@ -12,82 +12,73 @@
 
 ### Top Internal BST Contacts (SUSTAINED & ELEVATED)
 
-**Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, HR, vendor management, banking, government compliance
-- Continued vendor/purchasing notifications and coordination
-- **June 15 government compliance:** Forwarding MANDATORY SECURE 2.0 Amendment (benefits/retirement compliance)
-- **June 15 SAM.gov registration:** Jack + Meredith both receiving government system activation notifications
+**Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, HR, vendor management, banking, travel coordination
+- **June 16 sustained activity:** Travel coordination (Budget car rental at YOW [Ottawa]), vendor management forwarding
+- Continues as primary finance/procurement escalation point
 
 **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical/government programs
-- **June 15 continued coordination:** Arctic UAS Location Change follow-up; responding to Maia Varanda (InvestOttawa) on operational logistics
-- **June 16 internal technical discussion:** RE: Arctic UAS Location Change with Maciej Stachura and Beck Cotter
+- **June 16:** Jack forwarding Army Applications Laboratory "DevX Autonomy" submission opportunity to Daniel + Beck Cotter
+- Continues Arctic UAS / government program coordination
 
 **Beck Cotter** (beck.cotter@blackswifttech.com) — Sales/Business Development
-- **June 15 NOAA sales pipeline:** "Updated Estimate - Black Swift" to annette.hollingshead@noaa.gov (active deal tracking)
-- **June 15 NextEch Sol demo coordination:** Response to Trenton McKibben on upcoming demonstration
-- **June 16 internal coordination:** RE: Arctic UAS Location Change with Daniel Prendergast and Maciej Stachura
+- **June 16:** Receiving DevX Autonomy submission forward from Jack
+- Continues sales pipeline management
 
-**Maciej Stachura** (stachura@blackswifttech.com) — Engineering/Technical
-- **June 15 NOAA OOI Pioneer Array technical discussions:** Multiple exchanges with Joe Cione (NOAA) on technical specifications/feasibility
-- **June 15 continued heavy involvement:** Receiving Navy COTS waiver discussion from Angel Ruiz-Reyes (NAWCAD)
-- **June 15 drag coefficient paper:** Joshua Wadler (Embry Riddle) technical collaboration on UAS aerodynamics research
-- **June 16 internal coordination:** RE: Arctic UAS Location Change with Beck Cotter and Daniel Prendergast
+**Maciej Stachura** (stachura@blackswifttech.com) — Engineering/Technical (CRITICAL ESCALATION CONTINUES)
+- **June 16–17 sustained heavy technical engagement:**
+  - **June 16, 21:32 UTC & 22:22 UTC:** Navy NAWCAD S0-MAD (Military Applicability Determination) technical discussions with Angel Ruiz-Reyes (NAWCAD); Maciej directing responses
+  - **June 16, 20:18 UTC:** Jack responding to Joseph Cione (NOAA) on OOI Pioneer Array follow-up
+  - **June 16, 19:51 UTC:** Joe Cione inviting Jack, Maciej, Joshua Wadler (Embry Riddle), Joshua Fromm (BST), T-Mobile engineers to technical discussion (Mon Jun 22, 2026, 9am MDT) on "NOAA Drone program" + T-Mobile partnership
+  - **June 16, 20:51 UTC:** Tanay Topac (Stanford) + Maciej receiving MHP data alignment technical discussion (IMPORTANT)
+- **Signal:** Maciej deeply embedded in multi-agency technical integration (Navy COTS waiver, NOAA OOI program, T-Mobile partnership, Stanford research collaboration)
 
-**Paige Smith** (paige.smith@blackswifttech.com) — Marketing/Communications
-- **June 15 custom merchandise:** Jack forwarding custom socks order from Jay Sobol (customsocks.io) for company branding
+**Paige Smith** (paige.smith@blackswifttech.com) — Marketing/Communications (ELEVATED)
+- **June 16 sustained event/webinar coordination:**
+  - **June 16, 13:45–14:26:** Multiple rapid exchanges on BST x KS Event Updates (important logistics coordination)
+  - **June 16, 13:49:** Jack forwarding onsemi Drone Webinar (6/25) to Paige for marketing/attendance coordination
+  - **June 16, 15:56:** Paige confirming onsemi webinar attendance to Jack (IMPORTANT)
+- **Signal:** Elevated involvement in post-acquisition event strategy and vendor/partnership webinars
 
----
-
-### Top External M&A/Technical Integration Correspondents (SUSTAINED CRITICAL ESCALATION)
-
-**Brian Grubel** (Brian@krateosky.com) — **KrateoSky (Acquirer) — TECHNICAL/STAFFING/EXECUTIVE COORDINATION — SUSTAINED MULTI-DAY INTENSIVE ENGAGEMENT**
-- **June 15-16 sustained technical job description dialogue:**
-  - June 15, 09:26–09:30 AM: Two rapid-fire Jack responses on technical job description discussion
-  - June 15, 15:45 PM: Brian Grubel response (continues thread)
-  - June 15, 20:47 PM: Thibault Bridel-Bertomeu (KrateoSky Non-US executive) entering discussion
-  - June 16, 01:09 AM: Brian Grubel forwarding to Thibault (escalation to C-suite review)
-  - June 16, 08:03 AM: Thibault responding directly to Jack (morning UTC time; overnight for Jack)
-  - **Pattern:** Multi-person KrateoSky technical/executive review of job descriptions; Jack responding across full 24-hour cycle (9 AM through midnight)
-
-**Dipan Amin** (dipan@krateosky.com) — **KrateoSky (Acquirer) — STRATEGIC PRODUCT/OPERATIONAL PLANNING — NEW ESCALATION**
-- **June 16 NEW elevated engagement:** "Industrial Plan - Product Development Planning" (IMPORTANT)
-  - Addressed to Jack + Maciej Stachura
-  - **Signal:** KrateoSky initiating formal product development planning discussions post-close; Maciej included as engineering/technical lead
-  - Jack response at 00:36 AM local (immediate overnight response indicates urgency)
-
-**Thibault Bridel-Bertomeu** (Thibault@krateosky.com) — **KrateoSky (Acquirer) — NON-US EXECUTIVE — DIRECT TECHNICAL/ORGANIZATIONAL OVERSIGHT**
-- **June 15-16 direct engagement on technical staffing:**
-  - First appearance: June 15, 20:47 PM entering Brian Grubel technical job description thread
-  - **June 16 morning:** Direct response to Jack from Thibault (non-US timezone indicator; likely European operations or corporate governance)
-  - **Signal:** KrateoSky non-US executive directly engaged in post-acquisition technical staffing decisions; indicates formal integration management structure
+**Nathaniel Straus** (nate.straus@blackswifttech.com) — Engineering/Technical (NEW ESCALATION)
+- **June 16–17:** Receiving MHP data alignment technical discussion from Tanay Topac (Stanford) alongside Maciej
+- **Signal:** New technical collaboration on research data integration (likely weather/meteorological platform research)
 
 ---
 
-### New/Emerging External Contacts & Escalations (NOTABLE)
+### Top External M&A/Technical Integration Correspondents (CRITICAL ESCALATION SUSTAINED & EXPANDED)
 
-**Cory Dixon** (coryrdixon@gmail.com) — **COO Candidate — EXECUTIVE RECRUITMENT — CRITICAL NEW ENGAGEMENT**
-- **June 15 new candidate discussion:** "COO Candidate - Cory Dixon" (IMPORTANT)
-  - Jack sending introduction email to Cory Dixon + Brian Grubel (KrateoSky)
-  - Cory responding directly (14:33 PM same day): "Re: COO Candidate - Cory Dixon" (IMPORTANT, INBOX)
-  - **Signal:** Jack actively recruiting Chief Operating Officer candidate; coordinating directly with KrateoSky leadership; immediate candidate interest (same-day response)
+**Sona Raziabeegum** (sona@krateosky.com) — **KrateoSky (Acquirer) — CORPORATE AFFAIRS & COO RECRUITMENT — SUSTAINED CRITICAL ESCALATION**
+- **June 16 sustained multi-vector engagement:**
+  - **June 16, 14:32–14:33:** Jack responding to "Additional Updates" from Sona (real-time coordination)
+  - **June 16, 18:40 UTC:** Sona responding to Cory Dixon (COO candidate) on recruitment status (IMPORTANT)
+  - **June 16, 19:47 UTC:** Sona forwarding COO recruitment thread to Jack + Cory Dixon (IMPORTANT) — indicating Jack remains central to executive hiring decisions
+  - **June 16, 21:32–21:37 UTC:** Sona coordinating event logistics with Rise & Co Talent (Erin Momont) and Creative Alignment (Peggy Shell) — recruiting firms for BST x KS integration staffing
+  - **June 16, 21:51 UTC:** Sona coordinating Creative Alignment meeting with Jack (IMPORTANT)
+  - **June 16, 19:51 UTC:** Sona forwarding "Tentative Agenda" (event planning) to Paige Smith + Kathi Healy (event coordinator)
+- **Signal:** Sona centralized point for COO candidate pipeline, recruiting firm engagement, and event strategy post-close
 
-**Kathi Healy** (kathi@rmiselect.com) — **RMI Select — BST x KS Event Coordination — SUSTAINED OPERATIONAL PARTNER**
-- **June 15 event coordination (multiple exchanges):**
-  - Original event update from Kathi to Paige Smith, Jack, Sona Raziabeegum (KrateoSky) at 16:12 PM (IMPORTANT)
-  - Jack responding 15:31 PM, 00:39 AM, 00:51 AM (three responses; escalating engagement)
-  - **Signal:** BST x KrateoSky joint event planning; RMI Select (external event coordinator) managing logistics; Jack directly coordinating across multiple response windows
+**Cory Dixon** (coryrdixon@gmail.com) — **COO Candidate — EXECUTIVE RECRUITMENT — SUSTAINED CRITICAL ENGAGEMENT (NEW ESCALATION FROM PRIOR DATA)**
+- **June 16 sustained dialogue:**
+  - **June 16, 13:45:** Jack responding to Cory Dixon on COO position (SENT)
+  - **June 16, 13:37–14:39:** Cory Dixon + Chad Atwood (The AIG Inc.) rapid exchanges with Jack on "Survey" responses (likely executive assessment/vetting)
+  - **June 16, 18:40 UTC:** Sona Raziabeegum responding to Cory Dixon on recruitment (IMPORTANT)
+  - **June 16, 19:47 UTC:** Sona forwarding full COO thread to Jack + Cory (IMPORTANT)
+- **Signal:** Cory Dixon actively engaged in COO evaluation; same-day rapid responses across 24-hour cycle; appears to be preferred candidate with immediate interest
 
-**Sona Raziabeegum** (sona@krateosky.com) — **KrateoSky (Acquirer) — SHARE/SECURITIES COORDINATION**
-- **June 15 KrateoSky share administration:** "Re: KS Shares" (Jack responding at 09:53 AM)
-- Also copied on BST x KS Event Updates (Kathi Healy coordination)
-- **Signal:** KrateoSky internal corporate affairs; share issuance/post-close equity administration
+**Chad Atwood** (chad@theaiginc.com) — **The AIG Inc. (Executive Search/Assessment) — NEW ESCALATION**
+- **June 16 sustained engagement:**
+  - **June 16, 14:32–15:15:** Multiple rapid exchanges with Jack on "Survey" (executive assessment/vetting tool for COO candidate evaluation)
+  - Chad responding multiple times same-day (14:39, 14:45, 14:52) — real-time assessment feedback
+  - Jack forwarding survey to Meredith Needham (Finance) — indicating financial vetting component
+- **Signal:** The AIG Inc. providing executive search/assessment services for COO recruitment; engaged in active candidate vetting (Cory Dixon likely primary candidate)
 
-**Ryan Sykora** (rsykora@kofirm.com) — **KO Firm (Legal/M&A Counsel) — CLOSING PUNCH LIST & POST-CLOSE COORDINATION — SUSTAINED**
-- **June 15 closing punch list follow-up:** Multiple exchanges on "FW: Black Swift: Closing Punch List" (IMPORTANT)
-  - Jack responding 15:22 PM, 15:34 PM (rapid back-and-forth)
-  - Ryan responding 20:31 PM (evening cycle)
-  - Jack responding 00:35 AM (overnight follow-up)
-  - **Pattern:** Post-acquisition closing punch list items; ongoing legal/administrative resolution
+**Kathi Healy** (kathi@rmiselect.com) — **RMI Select — BST x KS Event Coordination — SUSTAINED OPERATIONAL ESCALATION**
+- **June 16 sustained intensive event logistics:**
+  - **June 16, 13:19–13:40 PDT:** Five rapid exchanges with Jack on "BST x KS Event Updates" (event logistics details)
+  - Jack responding 14:23, 14:39 (multiple rapid confirmations)
+  - Paige Smith also coordinating (13:38, 14:26)
+  - Sona Raziabeegum coordination (19:51 UTC)
+- **Signal:** Multi-day intensive event planning for BST x KrateoSky integration event; Kathi as primary operational coordinator
 
-**Nadia Bryan** (nbryan@kofirm.com) — **KO Firm (Legal/M&A Counsel) — DISCLOSURE/SECURITIES DISCLOSURE COORDINATION**
-- **June 15 disclosure numbers coordination:** "RE: Black Swift - Disclosure Numbers" (IMPORTANT)
-  - Jack sending 09
+**Erin Momont** (erin@riseandcotalent.com) — **Rise & Co Talent — Executive Recruitment — NEW ESCALATION**
+- **June 16, 16:00 UTC & 21:37 UTC:** Erin responding on COO candidate meeting coordination to Sona
