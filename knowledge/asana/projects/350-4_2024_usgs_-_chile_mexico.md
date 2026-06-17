@@ -46,17 +46,20 @@
   - **Unassigned**: 11 open tasks (0% completion)
     - Critical milestones: "Sort out flight, radio, shipping, and import permissions," "Finish payload updates," "Conduct local flight testing," "Ship Aircraft and Equipment," "Conduct Mission"
     - Structural/ongoing: "Test New Capabilities," "Tools/Ground Equipment," "S2 Improvements," "Planning/Algorithms/UI," "CONOPS"
-    - Contact reference: "Kevin Pesola" (likely a placeholder for stakeholder info)
+    - Contact reference: "Kevin Pesola" (stakeholder contact info task)
 
 ## Recent Activity
 
 ### May 27–28, 2026 (TEAM FEEDBACK — AUTHORITATIVE)
-**Daniel Prendergast** flagged battery shipment to Mexico and customs/import status:
+**Daniel Prendergast** provided customs/battery import clarification:
 - **Batteries shipped to Mexico** (May 2026)
-- **No ECCN (Export Control Classification Number) obtained** for the battery
-- **Permanent import fees paid to Mexico** (not temporary/re-export)
+- **No ECCN (Export Control Classification Number)** obtained for the battery
+- **Permanent import fees paid to Mexico** (shipped as permanent import rather than temporary re-export)
 - **Customs broker Javi** can confirm import classification if needed
-- **Action pending**: Prendergast offered to respond to group email chain with clarification on import/customs status; awaiting Maciej's direction on where to file email documentation; offered to email customs broker Javi for confirmation if needed
+- **Status**: Prendergast awaiting direction from Maciej on:
+  - Where to archive email history showing battery shipment
+  - Whether to respond to group email chain with customs/import clarification
+  - Whether to contact customs broker Javi for confirmation
 
 ### April 20, 2026 (TEAM CORRECTIONS — AUTHORITATIVE)
 **Jack Elston**: "Mexico USGS volcano deployment (350-4) is **DELAYED to Fall 2026**. Not departing April 20. **No flight planning, no shipping, no mission prep imminent.** Any Asana tasks referencing an April deployment are stale — ignore them."
@@ -78,4 +81,4 @@ Project awaiting Fall 2026 deployment confirmation; batteries already in transit
 - **Hardware & Logistics Status**: 
   - **Batteries shipped to Mexico** (May 2026) with permanent import fees already paid
   - **No ECCN (Export Control Classification Number)** obtained for the battery — shipped as permanent import rather than temporary re-export
-  - **Customs/import paper
+  - **

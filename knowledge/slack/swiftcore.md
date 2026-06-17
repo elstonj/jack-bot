@@ -98,6 +98,18 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Decision made by: Maciej
 - Approach: Team to identify items worth adding or removing as they encounter them during development
 
+**Payload Channel Configuration & Behavior Clarification (June 16, 2026 - Pending):**
+- Issue identified: `CMD_TRIGGER_PAYLOAD` with specific payload channel triggers both cameras instead of individual channel
+- Individual payload triggering is possible via max usec from surfaces tab (`ACTUATORS_CALIBRATION` packet)
+- Ben Busby investigating whether dual-camera trigger behavior is intentional or requires fix
+- Consideration: May update preflight trigger behavior to use actuator calibration test instead
+- Status: Awaiting clarification from Jack Elston and Maciej
+
+**Payload Configuration Documentation Update (June 16, 2026):**
+- Confirmed: Surface 15 (Payload 5) designated as payload power supply
+- Confirmed: Channel 13 reserved for heated pitot
+- Action: Payload setup spreadsheet identified as needing refresh (Jack Elston referenced existing configuration sheet)
+
 ## Projects & Initiatives
 
 **SwiftCore 3.2 Release (2021-2022):**
@@ -107,13 +119,4 @@ This channel serves as the primary technical communication hub for Black Swift T
 
 **SwiftCore 3.3 Release (2022-2024):**
 - **Status:** Ongoing, targeting NOAA S0 deployment and S0/S2 VTOL testing
-- **Features:** Air deploy capability, payload control, vehicle refactor, separate cruise/hover speed parameters
-- **Management:** Structured workflow using Asana for tracking hotfixes/features through simulation, benchtop, and flight testing phases
-- **Latest Update (June 5, 2026):** Maciej initiated "Comms version update" task to track conversion of hardcoded VTOL #defines to parameters and cleanup of unused legacy variables
-
-**VTOL Aircraft Integration (2023-2025):**
-- **Status:** Active development with control mixer branch
-- **Scope:** Autopilot, tablet, and communications updates for vertical takeoff/landing aircraft
-- **Testing:** S3/S10020 aircraft being used for validation
-- **Challenges:** Parameter management (now being addressed with hardcoded defines-to-parameters conversion), UI integration, XML configuration
-- **Recent Update (April 28-29, 2026):** Landing plan final length calculation updated and validated
+- **Features:** Air deploy capability, payload

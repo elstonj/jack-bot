@@ -1,6 +1,8 @@
 # Ben Busby — Email Patterns
 
-Only 2 emails found in scanned period.
+Only 4 emails found in scanned period.
 
-- Mon, 15 Jun 2026 06:00:49 +0000: Your Weekly WPForms Summary for bst.aero (from: Black Swift Technologies <ben.busby@blackswifttech.com>)
-- Sun, 14 Jun 2026 18:32:13 -0600: Fwd: REX110 Troubleshooting (continued) (from: Daniel Prendergast <daniel.prendergast@blackswifttech.com>)
+- Tue, 16 Jun 2026 13:25:38 -0700: Your Steam account: Email address change request (from: "'Steam Support' via Administration" <admin@blackswifttech.com>)
+- Tue, 16 Jun 2026 12:01:50 -0700: Alert: Gmail potential employee spoofing  from  Jack Elston <elstonj@gmail.com> (from: Google Workspace Alerts <google-workspace-alerts-noreply@google.com>)
+- Tue, 16 Jun 2026 15:00:45 -0400: Dropping by Black Swift Technologies (from: Spencer Morrison <s.morrison@localmerchantserviceprovider.com>)
+- Tue, 16 Jun 2026 09:28:56 -0400: Your internet can do more for you this year (from: "AT&T Business" <business@responses.att-mail.com>)

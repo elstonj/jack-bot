@@ -20,18 +20,24 @@
 - **Lease termination planning** (unassigned, no due date)
 
 ## Task Summary
-- **Total tasks**: 1 open, 0 completed (in current snapshot)
+- **Total tasks**: 0 open, 3 completed (in current snapshot)
 - **Tasks by assignee**:
-  - **Nate Straus**: 1 open
-    - Facilities Improvements (no due date, open) — ongoing facilities enhancements and planning
+  - **Meredith O'hara Needham**: 3 completed (Office Cleaning)
+    - Office Cleaning (Due 2024-12-14, completed 2024-12-16) — 2 days late
+    - Office Cleaning (Due 2024-11-23, completed 2024-11-22) — 1 day early
+    - Office Cleaning (Due 2024-10-26, completed 2024-10-30) — 4 days late
 - **Notable patterns**: 
   - Recurring monthly rent tasks maintain predictable cadence (not reflected in current task count; managed separately)
-  - Open tasks lack specific due dates, suggesting ongoing collection or planning mode rather than urgent delivery
+  - No open tasks currently visible; operational rhythm suggests tasks are either managed via external scheduling (Neat N Tidy booking portal) or completed and cleared
+  - Office cleaning completion times within 4-day variance (mostly on-time to slightly late)
   - Operational rhythm stable and reliable
 
 ## Recent Activity
-- **Current open task**: Facilities Improvements (Nate Straus, no due date)
-- **Operational momentum**: Project continues stable operations with focus on long-term facilities planning and consumables management
+- **Recent completed tasks**: Office cleaning cycle running regularly (October–December 2024)
+  - Dec 2024: Completed 2 days late
+  - Nov 2024: Completed 1 day early
+  - Oct 2024: Completed 4 days late
+- **Operational momentum**: Project continues stable operations with focus on recurring cleaning and facilities management
 - **Note**: Monthly rent payment cycle continues on schedule (last cycle: May 2026 completed ahead of schedule on 2026-05-21)
 
 ## Notes & Context

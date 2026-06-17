@@ -63,7 +63,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "New professor Jazlynn Hall at CU Boulder seeking E2 system with custom sensor payload for scientific research. Estimate sent 2026-04-10. Customer will not purchase until August 2026 when new position starts. Receive-by 2026-08-31 confirmed via repeated Slack updates through 2026-05-20. KEEP signal: explicit receive_by within 6 months + substantive recent Slack engagement.",
+  "notes": "New professor Jazlynn Hall at CU Boulder seeking E2 system with custom sensor payload for scientific research. Estimate sent 2026-04-10. Customer will not purchase until August 2026 when new position starts. Receive-by 2026-08-31 confirmed via repeated Slack updates through 2026-05-20. KEEP signal: explicit receive_by within 6 months + substantive recent Slack engagement. Note: QBO invoice #1759 ($664.98) is for separate CU Boulder IRISS repair project (S20004 servo replacement, delivered 2026-05-15) \u2014 not this E2 build.",
   "missing_fields": [
     "ship_to"
   ],

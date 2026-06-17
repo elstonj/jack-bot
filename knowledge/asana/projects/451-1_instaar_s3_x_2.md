@@ -17,7 +17,7 @@
 
 ## Key Deliverables & Milestones
 - **S3 Delivery (2 units)**: Target **February 27, 2026** — $120,000 (Josh Fromm delivery lead)
-  - Order/Fab Parts: Due **June 15, 2026** (Josh Fromm) — *currently the only open task*
+  - Order/Fab Parts: Due **June 15, 2026** (Josh Fromm)
   - Assembly: Due August 21, 2026 (Nate Straus)
   - QC Ground: Due August 24, 2026 (Josh Fromm)
   - QC Flight: Due September 1, 2026 (Nate Straus)
@@ -25,10 +25,12 @@
 - **Launcher Pallet Arrival**: Estimated **second week of February 2025** (3–4 week shipping window)
 
 ## Task Summary
-- **Total Tasks**: 1 open, 0 completed (0% completion rate)
+- **Total Tasks**: 7 open, 0 completed (0% completion rate)
 - **Tasks by Assignee**:
-  - Josh Fromm: 1 open task (Order/Fab Parts due June 15, 2026)
-- **Note**: Raw Asana data shows only one active task. Historical knowledge references downstream assembly/QC work (Nate Straus, Dan Prendergast); these may be archived or tracked externally.
+  - Josh Fromm: 3 open tasks (Deliver INSTAAR/CU S3x2, Order/Fab Parts, QC Ground)
+  - Nate Straus: 2 open tasks (Assembly, QC Flight)
+  - Dan Prendergast: 1 open task (Operator Training)
+  - Unassigned: 1 task (Kevin Rozmiarek contact info)
 
 ## Recent Activity
 - **June 1, 2026** (Joshua Fromm): Commercial-sales stub created with empty customer and ship_by fields. Original inquiry: "can you just attach the invoice for instaar?" — suggests invoice completion or scope clarification needed.

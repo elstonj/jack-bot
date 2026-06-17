@@ -1,69 +1,86 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- Total messages scanned: 15 (7 previous + 8 new)
-- Date range: June 12–16, 2026
-- Approximate volume: Low to moderate (1–2 emails per day during scanned period)
+- Total messages scanned: 30 (7 previous + 8 intermediate + 15 new)
+- Date range: June 12–17, 2026
+- Approximate volume: Moderate to high (3–5 emails per day during scanned period)
+- **Note:** Volume spike on June 16 (22 messages in single day) — mostly transactional/promotional
 
 ## Key Correspondents
 
 **Top Senders:**
-- Purchasing mailing list/forwarding system (`purchasing@blackswifttech.com`) — 12 messages
-- External vendors: McMaster-Carr, Digikey, Spindrift, HeliDirect, Harbor Freight, Speedway Motors, NewBeeDrone, Protocase, Jawstec, Phase1AV
-- External direct contact: Kylie Bliss (`kbliss@hubspot.com`) — 1 message
-- Internal: Daniel Prendergast (`daniel.prendergast@blackswifttech.com`) — 1 message
-- Automated systems: Asana (`no-reply@asana.com`) — 1 message
+- Purchasing mailing list/forwarding system (`purchasing@blackswifttech.com`) — 24 messages (80% of total)
+- External vendors (direct): McMaster-Carr, ServoCity, Jawstec, HeliDirect, GetFPV, Rock West Composites, BatterySpace, Baofeng, uAvionix
+- U.S. Navy contact: Angel R. Ruiz-Reyes (`angel.r.ruiz-reyes.civ@us.navy.mil`) — 2 messages (IMPORTANT, marked)
+- Internal: Maciej Stachura (`stachura@blackswifttech.com`) — 1 message (IMPORTANT, marked)
+- Automated systems: Asana, UnitedHealthcare, PayPal
+- Travel/logistics: Budget Rent-A-Car, Hampton by Hilton
+- Other: Verde (food service), Steam Support
 
 **Internal vs External Breakdown:**
-- Internal: 1 message (Daniel Prendergast)
-- External vendors/direct contacts: 6 messages
-- Purchasing mailing list (mix of vendor/forwarded): 12 messages
-- Automated/transactional: 1 message (Asana task notification)
+- Internal: 1 message (Maciej Stachura)
+- External vendors/direct contacts: 8 messages
+- Purchasing mailing list (forwarded vendor orders, confirmations, transactional): 24 messages
+- Automated/transactional: 4 messages (Asana, UnitedHealthcare, PayPal, Steam)
 
 **Key External Contacts/Organizations:**
-- **Jawstec** (Briana Gonzalez) — order fulfillment/logistics
-- **Phase1AV** (Sean Cole) — invoicing/vendor
-- **Protocase** — custom enclosures/manufacturing
-- **NewBeeDrone** — drone equipment/supplies
-- **HubSpot contact** (Kylie Bliss) — marketing/web traffic consultant
-- Industrial/electronics: McMaster-Carr, Digikey
-- Retail vendors: Harbor Freight, Speedway Motors, Spindrift, HeliDirect
+- **U.S. Navy NAWCAD** (Angel R. Ruiz-Reyes) — government/defense contact, "MAD update" project
+- **Maciej Stachura** (internal) — technical liaison with Navy contact
+- **Specialized equipment vendors:** ServoCity (servos/robotics), Jawstec (logistics), Rock West Composites (materials/composites), GetFPV (FPV/drone equipment), Baofeng (radio equipment)
+- **Electronics:** McMaster-Carr, DigiKey
+- **Aerospace/drone/UAV ecosystem:** HeliDirect, uAvionix (aviation beacons), GetFPV, Baofeng
+- **Support services:** BatterySpace (power systems), Hampton by Hilton (lodging), Budget Rent-A-Car (ground transport)
 
 ## Topic Patterns
 
 **Recurring Themes:**
-- Vendor invoices and order status updates (Jawstec, Phase1AV, Sean Cole)
-- Promotional/sales emails from specialized vendors (Protocase, NewBeeDrone, Spindrift)
-- Technical product procurement (electronics, enclosures, drone equipment)
-- Transactional notifications (billing invoices, task reminders)
-- Technical support/troubleshooting (REX110 from previous scan)
+- **Component procurement orders** — Multiple confirmations from DigiKey (2 PO acknowledgements), McMaster-Carr (3 messages), ServoCity, Rock West Composites
+- **Vendor shipping notifications** — Jawstec ("order on its way"), Rock West Composites ("delivered")
+- **Travel coordination** — Budget Rent-A-Car reservations (2 confirmed, multiple cancellations) at YOW (Ottawa airport), Hampton by Hilton Jun-27 checkout
+- **Government/defense project** — "S0 - MAD update" thread with U.S. Navy NAWCAD (non-DoD source notation)
+- **Drone/UAV/aviation equipment** — GetFPV summer sale, HeliDirect Father's Day promo, uAvionix beacon training, Baofeng radio bundles
+- **Task management** — Asana reminders (2 tasks due)
+- **Promotional/marketing traffic** — Heavy volume of unread sales emails
 
 **Project/Product Indicators:**
-- REX110 (technical product requiring external support)
-- Custom enclosure/manufacturing needs (Protocase contact suggests custom hardware design)
-- Drone/aerial equipment procurement (NewBeeDrone, HeliDirect)
+- **S0 / MAD project** (Navy-related, likely defense/aerospace)
+- **Drone/UAV development** (consistent vendor pattern: FPV, servos, composites, radio equipment)
+- **Possible aviation beacon integration** (uAvionix contact)
+- **Power system work** (BatterySpace order)
 
 ## Communication Patterns
 
-- **Heavy promotional and transactional email traffic** — majority remain unread, suggests filtering/low priority
-- **Purchasing mailing list subscriber** — forwarding indicates involvement in company procurement workflows
-- **Email address variants observed** — messages sent to `alex.lomis@bst.aero`, `alex.lomis@blackswifttech.com`, and purchasing@blackswifttech.com — suggests multiple email identifiers or shared inbox access
-- **Vendor communication via purchasing list** — orders and invoices routed through purchasing@blackswifttech.com rather than direct to individual
-- **Task management integration** — Asana notifications suggest project-based work organization
-- **Direct marketing contact** — Kylie Bliss (HubSpot) marked IMPORTANT and directed to personal email (`bst.aero` domain) — stands out from purchasing list traffic
+- **Shared purchasing inbox heavily used** — 24 of 30 messages routed through `purchasing@blackswifttech.com`; appears to be a team inbox, not exclusively Alex's personal address
+- **Multiple team members using purchasing inbox** — Recipients/references include: Jack Elston, Josh Fromm, Meredith Needham (in addition to Alex Lomis)
+- **Purchasing authority distributed across team** — Suggests purchasing team or cross-functional procurement where Alex is one of several actors
+- **Government/defense contact direct to Maciej Stachura** — Navy emails not copied to Alex; indicates Maciej is primary Navy liaison
+- **Direct email to personal address less common** — Only 6 messages sent directly to `alex.lomis@blackswifttech.com` (Asana, UnitedHealthcare, GetFPV)
+- **Travel reservations on shared inbox** — Budget/hotel bookings for "Jack," "Joshua" (likely team members, not Alex personally)
+- **High promotional/automated email ratio** — ~90% of messages auto-categorized as PROMOTIONS or UPDATES; very low signal-to-noise for human correspondence
+- **Important messages sparse but clear** — Only 3 marked IMPORTANT in new batch: Navy/Maciej Stachura thread, GetFPV, UnitedHealthcare benefits
 
 ## Key Relationships
 
-- **Internal collaborators:** Daniel Prendergast (technical troubleshooting, REX110 project)
-- **Primary vendors:** Jawstec (logistics), Phase1AV (component supply), Protocase (manufacturing), NewBeeDrone (specialized equipment)
-- **External partners:** Atmolab (EU-based technical support, from previous scan)
-- **Marketing/business development:** Kylie Bliss (HubSpot) — web traffic/SEO concern
+- **Internal collaborators:** 
+  - Maciej Stachura (primary Navy liaison for "S0 - MAD" project)
+  - Jack Elston, Josh Fromm, Meredith Needham (co-users of purchasing inbox)
+- **Primary vendors:** 
+  - McMaster-Carr, DigiKey (commodity electronics)
+  - ServoCity, Rock West Composites (specialized components)
+  - Jawstec (logistics/fulfillment)
+- **Government/defense partner:** 
+  - U.S. Navy NAWCAD (Angel R. Ruiz-Reyes) — "Non-DoD Source" notation suggests controlled communication protocol
+- **Specialized equipment suppliers:** 
+  - GetFPV, HeliDirect, uAvionix, Baofeng (drone/UAV/aviation ecosystem)
 
 ## Notable Observations
 
-- **Purchasing authority or mailing list operator** — Alex receives numerous vendor communications on purchasing@blackswifttech.com; unclear if direct authority or shared inbox responsibility
-- **Cross-domain email aliases** — Messages reference `bst.aero` domain alongside `blackswifttech.com` — suggests either company name change, domain alias, or specialized division
-- **Marketing intervention** — Kylie Bliss's "Google traffic is bleeding out" message marked IMPORTANT and sent to personal email indicates potential crisis or high-priority business concern separate from procurement
-- **Specialized hardware focus** — Vendor mix (Protocase, NewBeeDrone, Jawstec, Phase1AV) suggests company involvement in custom drone, aerospace, or specialized equipment manufacturing
-- **Order fulfillment issues** — Briana Gonzalez (Jawstec) flagged "Possible order delay," indicates active orders in flight
-- **Minimal direct human correspondence** — Still predominantly automated/vendor communications; very low peer-to-peer email volume despite apparent project work (Asana integration)
+- **Navy defense project confirmed** — "S0 - MAD update" thread with NAWCAD (Naval Air Warfare Center Aircraft Division) indicates active government contract or partnership; "Non-DoD Source" tag suggests formal compliance/clearance requirements
+- **Shared purchasing responsibility** — Multiple team members (Jack, Josh, Meredith, Alex) acting on same purchasing@blackswifttech.com inbox; unclear if Alex is purchasing manager or peer contributor
+- **Ottawa travel scheduled Jun-27** — Budget/Hampton bookings reference YOW airport (Ottawa Macdonald-Cartier); timing aligns with Jun-27 hotel checkout; may indicate team travel/meeting
+- **Travel disruption** — Multiple Budget cancellations on Jun-16, suggests plan change or no-show correction
+- **Drone/UAV company profile sharpens** — Vendor mix (ServoCity, Rock West Composites, GetFPV, HeliDirect, uAvionix, Baofeng) strongly indicates drone/autonomous systems or small aircraft development; combined with Navy contact = likely defense/aerospace UAV program
+- **Cross-domain communication** — Email shows `blackswifttech.com` domain primary, but bst.aero alias still referenced in older data; both domains active as of June 2026
+- **Personal benefits communication** — UnitedHealthcare message marked IMPORTANT, personal benefits notification (not procurement-related), suggests Alex is employee with benefits eligibility
+- **Minimal peer-to-peer correspondence** — Despite apparent team structure, almost no direct human emails visible; communication highly transactional/system-mediated
+- **Steam account verification anomaly** — Single non-business email (Steam gaming platform) in purchasing inbox; likely miscategorized or personal account access on shared computer

@@ -43,7 +43,7 @@ Development and validation of a UAS-based L-band radiometer for mapping soil int
 - **2025-07-21:** Final Report submitted to Air Force; Milestone 8 deliverable meeting completed
 - **2025-06-27 to 2025-07-09:** Tyndall AFB testing campaign completed; data validation and quantitative analysis finished
 - **2025-03-05:** Local field testing milestone completed (Milestone 5)
-- **2026-05-11:** Jack Elston confirms Navy STTR has priority; SBIR is mostly on schedule (per team feedback). This project remains archived with no active work anticipated.
+- **2026-05-11:** Jack Elston confirms Navy STTR has priority; SBIR is mostly on schedule. This project remains archived with no active work anticipated.
 
 ## Project Status & Context
 **Project is archived and no longer active.** All deliverables completed and accepted by Air Force TPOC as of July 2025. Final payments and reporting closed out by November 2025. No further work is anticipated on this project.
@@ -66,4 +66,4 @@ Development and validation of a UAS-based L-band radiometer for mapping soil int
 
 **Products/Services Delivered:** Custom payload systems, manuals, and technical documentation
 
-**Current team posture:** Per Jack Elston (2026-05-11), Navy STTR has priority over future DoD SBIR work. This SBIR project is on schedule and archived. Maciej Stachura (2026-05-07) suggests consolidating DoD SBIR opportunity tracking via shared documentation rather than meetings. Dan Prendergast has compiled initial recommendations in a shared DoD SBIR/STTR opportunities list.
+**Current team posture:** Per Jack Elston (2026-05-11), Navy STTR has priority over future DoD SBIR work. This SBIR project is complete and archived. Maciej Stachura suggests consolidating DoD SBIR opportunity tracking via shared documentation rather than meetings. Dan Prendergast has compiled initial recommendations in a shared DoD SBIR/STTR opportunities list.
