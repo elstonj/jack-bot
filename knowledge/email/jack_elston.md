@@ -1,10 +1,10 @@
 # Jack Elston — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 4,604 (4,504 prior + 100 June 16–17)
-- **Date range:** April 1–June 17, 2026
+- **Total messages scanned:** 4,704 (4,604 prior + 100 June 17–18)
+- **Date range:** April 1–June 18, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **June 16–17 activity (100 messages):** ~45% vendor/procurement/automated; ~20% KrateoSky M&A integration (COO recruitment, product planning, event coordination); ~15% NOAA technical partnerships (OOI Pioneer Array, Hurricane Field Program, T-Mobile drone program); ~10% internal BST coordination; ~5% academic/industry newsletters and technical reviews; ~5% travel/personal logistics
+- **June 17–18 activity (100 messages):** ~40% vendor/procurement/automated; ~25% KrateoSky M&A integration (product planning, event coordination, executive dinner); ~20% NOAA/military technical partnerships (OOI Pioneer Array, NOAA drone program, Navy NAWCAD S0-MAD); ~10% internal BST coordination (org chart, product reviews); ~5% industry newsletters and technical reviews
 
 ---
 
@@ -12,73 +12,72 @@
 
 ### Top Internal BST Contacts (SUSTAINED & ELEVATED)
 
-**Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, HR, vendor management, banking, travel coordination
-- **June 16 sustained activity:** Travel coordination (Budget car rental at YOW [Ottawa]), vendor management forwarding
-- Continues as primary finance/procurement escalation point
+**Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, HR, vendor management, banking
+- **June 17–18 sustained activity:** Banking coordination (Elevations CU new business checking account notification); vendor/procurement escalation; travel logistics
+- Continues as primary finance/operations escalation point
 
-**Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical/government programs
-- **June 16:** Jack forwarding Army Applications Laboratory "DevX Autonomy" submission opportunity to Daniel + Beck Cotter
+**Maciej Stachura** (stachura@blackswifttech.com) — Engineering/Technical (CRITICAL ESCALATION SUSTAINED)
+- **June 17–18 sustained heavy technical engagement:**
+  - **June 17, 19:07 UTC:** Receiving "Congratulations!" from Adria Passola (KrateoSky) alongside Jack — indicates joint achievement/milestone (likely post-close integration success)
+  - **June 17, 20:27 UTC:** Responding to Tanay Topac (Stanford) on MHP data alignment (continues research collaboration)
+  - **June 17, 20:31 UTC:** Responding to Adria Passola congratulations thread
+  - **June 18, 03:01 UTC:** Receiving response from Angel Ruiz-Reyes (NAWCAD Navy) on S0-MAD (continues military technical stream)
+  - **June 18, 05:41 UTC:** Receiving Stanford MHP data alignment thread from Tanay Topac
+- **Signal:** Maciej remains deeply embedded in multi-stream technical integration (Navy COTS waiver, Stanford research, product development)
+
+**Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical/Government Programs
+- **June 17, 22:24 UTC:** Accepting "Org Chart Meeting" with Jack (4:30–4:45pm MDT) — indicates org restructuring discussions post-acquisition
+- **June 17:** Receiving SOCOM contact (Zachary O Kachel, USSOCOM) responding to RFI S0 — Daniel managing military RFI pipeline
 - Continues Arctic UAS / government program coordination
 
-**Beck Cotter** (beck.cotter@blackswifttech.com) — Sales/Business Development
-- **June 16:** Receiving DevX Autonomy submission forward from Jack
-- Continues sales pipeline management
+**Nathaniel Straus** (nate.straus@blackswifttech.com) — Engineering/Technical
+- **June 17, 22:47 UTC:** Receiving MHP data alignment technical discussion from Tanay Topac (Stanford) — continues research collaboration on weather/meteorological data
 
-**Maciej Stachura** (stachura@blackswifttech.com) — Engineering/Technical (CRITICAL ESCALATION CONTINUES)
-- **June 16–17 sustained heavy technical engagement:**
-  - **June 16, 21:32 UTC & 22:22 UTC:** Navy NAWCAD S0-MAD (Military Applicability Determination) technical discussions with Angel Ruiz-Reyes (NAWCAD); Maciej directing responses
-  - **June 16, 20:18 UTC:** Jack responding to Joseph Cione (NOAA) on OOI Pioneer Array follow-up
-  - **June 16, 19:51 UTC:** Joe Cione inviting Jack, Maciej, Joshua Wadler (Embry Riddle), Joshua Fromm (BST), T-Mobile engineers to technical discussion (Mon Jun 22, 2026, 9am MDT) on "NOAA Drone program" + T-Mobile partnership
-  - **June 16, 20:51 UTC:** Tanay Topac (Stanford) + Maciej receiving MHP data alignment technical discussion (IMPORTANT)
-- **Signal:** Maciej deeply embedded in multi-agency technical integration (Navy COTS waiver, NOAA OOI program, T-Mobile partnership, Stanford research collaboration)
-
-**Paige Smith** (paige.smith@blackswifttech.com) — Marketing/Communications (ELEVATED)
-- **June 16 sustained event/webinar coordination:**
-  - **June 16, 13:45–14:26:** Multiple rapid exchanges on BST x KS Event Updates (important logistics coordination)
-  - **June 16, 13:49:** Jack forwarding onsemi Drone Webinar (6/25) to Paige for marketing/attendance coordination
-  - **June 16, 15:56:** Paige confirming onsemi webinar attendance to Jack (IMPORTANT)
-- **Signal:** Elevated involvement in post-acquisition event strategy and vendor/partnership webinars
-
-**Nathaniel Straus** (nate.straus@blackswifttech.com) — Engineering/Technical (NEW ESCALATION)
-- **June 16–17:** Receiving MHP data alignment technical discussion from Tanay Topac (Stanford) alongside Maciej
-- **Signal:** New technical collaboration on research data integration (likely weather/meteorological platform research)
+**Paige Smith** (paige.smith@blackswifttech.com) — Marketing/Communications
+- **June 17:** Continues involvement in BST x KrateoSky integration event coordination (Sona Raziabeegum forwarding event agenda)
 
 ---
 
 ### Top External M&A/Technical Integration Correspondents (CRITICAL ESCALATION SUSTAINED & EXPANDED)
 
-**Sona Raziabeegum** (sona@krateosky.com) — **KrateoSky (Acquirer) — CORPORATE AFFAIRS & COO RECRUITMENT — SUSTAINED CRITICAL ESCALATION**
-- **June 16 sustained multi-vector engagement:**
-  - **June 16, 14:32–14:33:** Jack responding to "Additional Updates" from Sona (real-time coordination)
-  - **June 16, 18:40 UTC:** Sona responding to Cory Dixon (COO candidate) on recruitment status (IMPORTANT)
-  - **June 16, 19:47 UTC:** Sona forwarding COO recruitment thread to Jack + Cory Dixon (IMPORTANT) — indicating Jack remains central to executive hiring decisions
-  - **June 16, 21:32–21:37 UTC:** Sona coordinating event logistics with Rise & Co Talent (Erin Momont) and Creative Alignment (Peggy Shell) — recruiting firms for BST x KS integration staffing
-  - **June 16, 21:51 UTC:** Sona coordinating Creative Alignment meeting with Jack (IMPORTANT)
-  - **June 16, 19:51 UTC:** Sona forwarding "Tentative Agenda" (event planning) to Paige Smith + Kathi Healy (event coordinator)
-- **Signal:** Sona centralized point for COO candidate pipeline, recruiting firm engagement, and event strategy post-close
+**Sona Raziabeegum** (sona@krateosky.com) — **KrateoSky — CORPORATE AFFAIRS & POST-CLOSE INTEGRATION — CRITICAL ESCALATION SUSTAINED**
+- **June 17 sustained multi-vector engagement:**
+  - **June 17, 13:31 UTC:** Jack responding to Sona on "Additional Updates" (real-time M&A integration coordination)
+  - **June 17, 20:49–21:02 UTC:** Two rapid "Dinner at Spruce Farm & Fish" messages to Jack, Kathi Healy (RMI Select), and KrateoSky leadership (Dipan Amin, Roger Riley, Ariel Avitan) — **executive dinner event** (June 17, 7:30pm MDT)
+  - **June 17, 21:02 UTC:** Dinner coordination with KrateoSky principals and external event coordinator
+  - **Signal:** Sona orchestrating high-level integration dinner with BST leadership; continues as central M&A integration point
 
-**Cory Dixon** (coryrdixon@gmail.com) — **COO Candidate — EXECUTIVE RECRUITMENT — SUSTAINED CRITICAL ENGAGEMENT (NEW ESCALATION FROM PRIOR DATA)**
-- **June 16 sustained dialogue:**
-  - **June 16, 13:45:** Jack responding to Cory Dixon on COO position (SENT)
-  - **June 16, 13:37–14:39:** Cory Dixon + Chad Atwood (The AIG Inc.) rapid exchanges with Jack on "Survey" responses (likely executive assessment/vetting)
-  - **June 16, 18:40 UTC:** Sona Raziabeegum responding to Cory Dixon on recruitment (IMPORTANT)
-  - **June 16, 19:47 UTC:** Sona forwarding full COO thread to Jack + Cory (IMPORTANT)
-- **Signal:** Cory Dixon actively engaged in COO evaluation; same-day rapid responses across 24-hour cycle; appears to be preferred candidate with immediate interest
+**Dipan Amin** (dipan@krateosky.com) — **KrateoSky — PRODUCT STRATEGY & INDUSTRIAL PLANNING — ELEVATED SUSTAINED**
+- **June 17 sustained intensive product planning:**
+  - **June 17, 08:32–08:33 UTC:** Jack responding to Dipan on "BST Product Development Planning Session" (confirming attendance)
+  - **June 17, 08:32 UTC:** Jack responding on "Industrial Plan - Product Development Planning"
+  - **June 17, 14:14 UTC:** Dipan responding to Jack on Industrial Plan (real-time strategy alignment)
+  - **June 17, 14:16 UTC (x2):** Dipan coordinating "BST Product Development Planning Session" with Jack, Maciej, Brian Grubel (KrateoSky) — **multi-party strategy session**
+  - **June 17, 14:38 UTC:** Dipan responding to Jack on Industrial Plan (continued dialogue)
+- **Signal:** Dipan leading product integration strategy sessions; Jack + Maciej + KrateoSky principals aligned on post-close product roadmap
 
-**Chad Atwood** (chad@theaiginc.com) — **The AIG Inc. (Executive Search/Assessment) — NEW ESCALATION**
-- **June 16 sustained engagement:**
-  - **June 16, 14:32–15:15:** Multiple rapid exchanges with Jack on "Survey" (executive assessment/vetting tool for COO candidate evaluation)
-  - Chad responding multiple times same-day (14:39, 14:45, 14:52) — real-time assessment feedback
-  - Jack forwarding survey to Meredith Needham (Finance) — indicating financial vetting component
-- **Signal:** The AIG Inc. providing executive search/assessment services for COO recruitment; engaged in active candidate vetting (Cory Dixon likely primary candidate)
+**Adria Passola** (a@krateosky.com) — **KrateoSky — CORPORATE AFFAIRS — NEW VISIBILITY**
+- **June 17, 19:07 UTC:** Sending "Congratulations!" to Jack and Maciej — indicates joint achievement/acquisition close or major milestone
+- **Signal:** KrateoSky executive-level acknowledgment of Jack + Maciej's integration work
 
-**Kathi Healy** (kathi@rmiselect.com) — **RMI Select — BST x KS Event Coordination — SUSTAINED OPERATIONAL ESCALATION**
-- **June 16 sustained intensive event logistics:**
-  - **June 16, 13:19–13:40 PDT:** Five rapid exchanges with Jack on "BST x KS Event Updates" (event logistics details)
-  - Jack responding 14:23, 14:39 (multiple rapid confirmations)
-  - Paige Smith also coordinating (13:38, 14:26)
-  - Sona Raziabeegum coordination (19:51 UTC)
-- **Signal:** Multi-day intensive event planning for BST x KrateoSky integration event; Kathi as primary operational coordinator
+**Kathi Healy** (kathi@rmiselect.com) — **RMI Select — EVENT COORDINATION — SUSTAINED CRITICAL OPERATIONAL ROLE**
+- **June 17, 20:50–21:02 UTC:** Participating in executive dinner coordination (Spruce Farm & Fish, June 17, 7:30pm MDT)
+- **June 17, 21:00–21:10 UTC:** Jack sending two messages to Kathi: "Map" (incomplete draft) — likely venue/logistics details
+- **Signal:** Kathi coordinating high-level executive dinner; continues as BST x KS integration event coordinator
 
-**Erin Momont** (erin@riseandcotalent.com) — **Rise & Co Talent — Executive Recruitment — NEW ESCALATION**
-- **June 16, 16:00 UTC & 21:37 UTC:** Erin responding on COO candidate meeting coordination to Sona
+**Nelson Lin** (nelson.nh.lin@sysgration.com) — **Sysgration — QUALCOMM GCS SOLUTIONS — NEW VENDOR ENGAGEMENT**
+- **June 18, 07:37 UTC:** Sending "High-Performance Qualcomm GCS Solutions for Your UAS Operations" to Jack and Maciej
+- **Signal:** Vendor pitch on ground control station (GCS) hardware/software; potential procurement/integration discussion for post-acquisition product stack
+
+---
+
+### Government & Military Technical Partners (SUSTAINED & EXPANDED)
+
+**Angel Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil) — **Navy NAWCAD — S0-MAD TECHNICAL INTEGRATION — SUSTAINED CRITICAL**
+- **June 17, 19:01 UTC:** Responding to Maciej on "[Non-DoD Source] Re: S0 - MAD update" (technical status on Military Applicability Determination)
+- **June 17, 09:31 UTC:** Maciej responding to Angel on S0-MAD (continues technical dialogue)
+- **June 18, 03:01 UTC:** Angel responding to Maciej on S0-MAD status
+- **Signal:** Sustained Navy COTS waiver/technical evaluation stream; Maciej as primary BST technical contact for NAWCAD integration
+
+**Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — **NOAA — DRONE PROGRAM & T-MOBILE PARTNERSHIP — SUSTAINED**
+- **June 17, 17:57 UTC:** Nikolai sending "Video drone" message to Jack (unread, important

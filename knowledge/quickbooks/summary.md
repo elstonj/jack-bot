@@ -1,53 +1,76 @@
 # BST Financial Overview (QuickBooks)
 
 ## Company Totals
-Based on available data for the period analyzed:
+**Period Analyzed:** April 5, 2024 – September 28, 2026
 
-- **Total Revenue (Invoices)**: $4,480,070.64
-  - Government: $4,462,176.28
-  - BST Internal: $17,894.36
-
-- **Total Expenses**: $2,448,997.46
-  - Government: $1,331,256.48
-  - BST Internal: $1,117,740.98
-
-- **Net Income**: $2,031,073.18
+| Metric | Amount |
+|--------|--------|
+| **Total Revenue (Invoices)** | $7,460,559.98 |
+| **Total Expenses** | $2,697,557.81 |
+| **Net Income (Estimate)** | $4,763,002.17 |
 
 ---
 
 ## By Project/Class
+Sorted by total revenue activity (highest to lowest):
 
-| Project | Total Revenue | Total Expenses | Net Position | Activity Level |
-|---------|---------------|----------------|--------------|-----------------|
-| **Government** | $4,462,176.28 | $1,331,256.48 | **+$3,130,919.80** | High (76 active invoices) |
-| **BST Internal** | $17,894.36 | $1,117,740.98 | **-$1,099,846.62** | Low (2 transactions) |
+| Project | Total Revenue | Total Expenses | Net Position |
+|---------|---------------|----------------|--------------|
+| **Government** | $4,462,176.28 | $1,331,859.15 | **$3,130,317.13** |
+| **Commercial** | $2,986,489.34 | $240,455.83 | **$2,746,033.51** |
+| **BST Internal** | $17,894.36 | $1,125,242.83 | **-$1,107,348.47** |
 
-**Key Insight**: Government projects are highly profitable and represent 99.6% of company revenue. BST Internal operations show significant expenses with minimal revenue generation.
+**Key Observation:** Government and Commercial projects are highly profitable. BST Internal operates at a significant loss, suggesting it may be overhead/administrative rather than revenue-generating.
 
 ---
 
-## Outstanding Purchase Orders
-- **PO #1038** (Amprius) — $1,700.00 *(outstanding)*
-- Additional POs: $832.00 (Government)
+## Top Customers
+Based on available invoice data:
+
+| Customer | Project | Amount |
+|----------|---------|--------|
+| [044-1] EMASS Chip Integration | Commercial | $25,000.00 (recent: 2026-06-09) |
+| Krateo Sky | BST Internal | $10,894.36+ |
+| Government contracts (76 active invoices) | Government | $4,462,176.28 total |
 
 ---
 
 ## Cash Flow Indicators
 
-### Accounts Receivable (Outstanding Invoices)
-- **Government projects**: $3,194,865.82 remaining on 76 active invoices
-- **BST Internal**: Limited invoice details provided (2 transactions)
+### Accounts Receivable (Outstanding)
+- **Government Projects:** $3,194,865.82 outstanding across 76 active invoices
+- **Commercial (Recent):** $25,000.00 from EMASS Chip Integration (Invoice #1769, dated 2026-06-09)
+- **Total A/R:** ~$3.2M+ (significant collections pending)
 
-**⚠️ Significant AR**: Over $3.1M in outstanding government invoices requires collection attention.
+### Recent Large Expenses
+- **Rent Expense:** $7,198.87 (most recent P&L period 2026-06-17/18)
+- **Direct Material Purchases:** $596.53
+- **Shipping, Freight & Delivery:** $93.17
+- **BST Internal Overall:** $1,125,242.83 total expenses (26+ months)
+
+### Outstanding Purchase Orders
+- **BST Internal:** $1,700.00 (PO #1038 – Amprius)
+- **Commercial:** $1,977.50
+- **Government:** $832.00
+
+### Project Activity Status
+- **Active projects:** Government (76 invoices), Commercial, BST Internal
+- **Latest invoicing:** Commercial project (June 9, 2026)
+- **No obvious dormant projects** identified in current data
 
 ---
 
-## Data Limitations
+## Top Vendors
+*(Vendor detail limited in provided data)*
+- Amprius (outstanding PO #1038, $1,700.00)
+- *Additional vendor breakdown not fully available in dataset*
 
-The QuickBooks export was **incomplete**:
-- Profit & Loss totals are blank (no aggregated figures provided)
-- Top vendors/customers list truncated
-- Detailed expense breakdown by category unavailable
-- Customer payment status incomplete for BST Internal project
+---
 
-**Recommendation**: Export complete P&L report, aged AR report, and full transaction detail for comprehensive analysis.
+## Unclassified Transactions
+No unclassified transactions noted. All activity assigned to one of three classes: Government, Commercial, or BST Internal.
+
+---
+
+## Summary Assessment
+**BST is financially healthy overall** with $4.76M net income. Government and Commercial divisions are profitable engines. BST Internal operations run at a loss ($1.1M deficit), likely representing shared overhead. **Critical management item:** $3.2M+ in Government A/R should be monitored for collection timing.

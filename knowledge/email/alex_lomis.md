@@ -1,86 +1,89 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- Total messages scanned: 30 (7 previous + 8 intermediate + 15 new)
-- Date range: June 12–17, 2026
-- Approximate volume: Moderate to high (3–5 emails per day during scanned period)
-- **Note:** Volume spike on June 16 (22 messages in single day) — mostly transactional/promotional
+- **Total messages scanned:** 55 (30 previous + 25 new)
+- **Date range:** June 12–18, 2026
+- **Approximate volume:** Moderate to high (3–5 emails per day during scanned period)
+- **Note:** Sustained high promotional/transactional volume; June 17–18 shows continued spike in vendor updates and shipping notifications
 
 ## Key Correspondents
 
 **Top Senders:**
-- Purchasing mailing list/forwarding system (`purchasing@blackswifttech.com`) — 24 messages (80% of total)
-- External vendors (direct): McMaster-Carr, ServoCity, Jawstec, HeliDirect, GetFPV, Rock West Composites, BatterySpace, Baofeng, uAvionix
-- U.S. Navy contact: Angel R. Ruiz-Reyes (`angel.r.ruiz-reyes.civ@us.navy.mil`) — 2 messages (IMPORTANT, marked)
-- Internal: Maciej Stachura (`stachura@blackswifttech.com`) — 1 message (IMPORTANT, marked)
-- Automated systems: Asana, UnitedHealthcare, PayPal
-- Travel/logistics: Budget Rent-A-Car, Hampton by Hilton
-- Other: Verde (food service), Steam Support
+- Purchasing mailing list/forwarding system (`purchasing@blackswifttech.com`) — 35+ messages (~64% of total)
+- **ServoCity** (`sales@servocity.com`) — 5 messages across both datasets (order tracking/updates for #300044802)
+- External vendors (direct): SendCutSend, AMain Hobbies, SkyGeek, HeliDirect, CADDXFPV, Spindrift, X-Plane
+- **U.S. Navy contact:** Angel R. Ruiz-Reyes (`angel.r.ruiz-reyes.civ@us.navy.mil`) — 2 messages (IMPORTANT, marked)
+- **Internal:** Maciej Stachura (`stachura@blackswifttech.com`) — 3 messages (IMPORTANT, marked; Navy liaison)
+- **Specialized technical contacts:** 
+  - Nathaniel Hoadley (PTC) — CAD/PLM systems (`nhoadley@ptc.com`)
+  - T. Harris (Gateworks/Ezurio) — embedded compute (`tharris@gateworks.com`)
+- **Third-party services:** Google Gemini (notes/AI), Grafana Labs, Verizon B2B, Design Gateway Newsletter
+- **Travel/logistics:** U-Haul Corporate, Mt. Princeton Hot Springs Resort
+- **Consumer/hobbyist:** Steam, X-Plane (flight sim), Spindrift (beverage brand)
 
 **Internal vs External Breakdown:**
-- Internal: 1 message (Maciej Stachura)
-- External vendors/direct contacts: 8 messages
-- Purchasing mailing list (forwarded vendor orders, confirmations, transactional): 24 messages
-- Automated/transactional: 4 messages (Asana, UnitedHealthcare, PayPal, Steam)
+- Internal: 3 messages (Maciej Stachura — Navy liaison)
+- External vendors/direct technical contacts: 8+ direct messages
+- Purchasing mailing list (forwarded vendor orders, confirmations, transactional): 35+ messages
+- Automated/system/newsletter: 9+ messages (Gemini, Grafana, Design Gateway, X-Plane, Verizon, etc.)
 
 **Key External Contacts/Organizations:**
-- **U.S. Navy NAWCAD** (Angel R. Ruiz-Reyes) — government/defense contact, "MAD update" project
-- **Maciej Stachura** (internal) — technical liaison with Navy contact
-- **Specialized equipment vendors:** ServoCity (servos/robotics), Jawstec (logistics), Rock West Composites (materials/composites), GetFPV (FPV/drone equipment), Baofeng (radio equipment)
-- **Electronics:** McMaster-Carr, DigiKey
-- **Aerospace/drone/UAV ecosystem:** HeliDirect, uAvionix (aviation beacons), GetFPV, Baofeng
-- **Support services:** BatterySpace (power systems), Hampton by Hilton (lodging), Budget Rent-A-Car (ground transport)
+- **U.S. Navy NAWCAD** (Angel R. Ruiz-Reyes) — government/defense contract, "S0 - MAD update" project
+- **PTC Corporation** (Nathaniel Hoadley) — CAD/PLM software vendor; "Connecting CAD and PLM" project discussion
+- **Ezurio/Gateworks** (T. Harris) — embedded compute platforms for mission-critical systems
+- **Drone/FPV/UAV ecosystem:** ServoCity, CADDXFPV, HeliDirect, SkyGeek, GetFPV, Baofeng
+- **Manufacturing/fabrication:** SendCutSend (custom metal cutting/fabrication), Rock West Composites
+- **Embedded systems/networking:** Design Gateway (edge computing), Grafana (infrastructure monitoring), Verizon B2B (connectivity)
+- **Flight simulation:** X-Plane (possibly for UAV/aircraft simulation or training)
 
 ## Topic Patterns
 
 **Recurring Themes:**
-- **Component procurement orders** — Multiple confirmations from DigiKey (2 PO acknowledgements), McMaster-Carr (3 messages), ServoCity, Rock West Composites
-- **Vendor shipping notifications** — Jawstec ("order on its way"), Rock West Composites ("delivered")
-- **Travel coordination** — Budget Rent-A-Car reservations (2 confirmed, multiple cancellations) at YOW (Ottawa airport), Hampton by Hilton Jun-27 checkout
-- **Government/defense project** — "S0 - MAD update" thread with U.S. Navy NAWCAD (non-DoD source notation)
-- **Drone/UAV/aviation equipment** — GetFPV summer sale, HeliDirect Father's Day promo, uAvionix beacon training, Baofeng radio bundles
-- **Task management** — Asana reminders (2 tasks due)
-- **Promotional/marketing traffic** — Heavy volume of unread sales emails
+- **Component procurement orders** — Heavy ServoCity tracking (order #300044802, multiple status updates Jun 17–18), SendCutSend fabrication orders (S1841769)
+- **Specialized hardware development** — ServoCity (servos/robotics), SendCutSend (precision custom parts), Rock West Composites (materials)
+- **Vendor shipping notifications** — Tracking confirmations, order status updates (persistent high volume)
+- **Government/defense project** — "S0 - MAD update" thread with U.S. Navy NAWCAD (continues to be marked IMPORTANT)
+- **CAD/PLM integration** — Direct correspondence with PTC contact about "Connecting CAD and PLM" (new pattern, IMPORTANT)
+- **Embedded systems/edge compute** — Gateworks acquisition announcement, Grafana infrastructure monitoring, SocketXpress/edge Linux (Design Gateway newsletter)
+- **Flight simulation / aircraft modeling** — X-Plane platform (multiple messages), possibly related to UAV or aircraft simulation/validation
+- **Drone/FPV equipment** — CADDXFPV, HeliDirect, SkyGeek, X-Plane ecosystem
+- **IT Infrastructure** — Verizon B2B connectivity ("If your internet doesn't work, you can't either"), Grafana webinar
+- **Travel coordination** — Mt. Princeton Hot Springs Resort, U-Haul Corporate account updates
 
 **Project/Product Indicators:**
-- **S0 / MAD project** (Navy-related, likely defense/aerospace)
-- **Drone/UAV development** (consistent vendor pattern: FPV, servos, composites, radio equipment)
-- **Possible aviation beacon integration** (uAvionix contact)
-- **Power system work** (BatterySpace order)
+- **S0 / MAD project** (Navy-related, active; ongoing discussion with Maciej Stachura as primary liaison)
+- **Custom hardware/fabrication** (SendCutSend orders suggest precision part manufacturing for integrated systems)
+- **Embedded compute platform** (Gateworks/Ezurio acquisition interest, edge networking)
+- **CAD/PLM workflow** (PTC engagement suggests design/manufacturing process optimization)
+- **Flight simulation or UAV modeling** (X-Plane messages, possibly for simulation/validation of UAV systems)
+- **Drone/autonomous systems development** (consistent vendor ecosystem: servos, FPV, composites, fabrication)
 
 ## Communication Patterns
 
-- **Shared purchasing inbox heavily used** — 24 of 30 messages routed through `purchasing@blackswifttech.com`; appears to be a team inbox, not exclusively Alex's personal address
-- **Multiple team members using purchasing inbox** — Recipients/references include: Jack Elston, Josh Fromm, Meredith Needham (in addition to Alex Lomis)
-- **Purchasing authority distributed across team** — Suggests purchasing team or cross-functional procurement where Alex is one of several actors
-- **Government/defense contact direct to Maciej Stachura** — Navy emails not copied to Alex; indicates Maciej is primary Navy liaison
-- **Direct email to personal address less common** — Only 6 messages sent directly to `alex.lomis@blackswifttech.com` (Asana, UnitedHealthcare, GetFPV)
-- **Travel reservations on shared inbox** — Budget/hotel bookings for "Jack," "Joshua" (likely team members, not Alex personally)
-- **High promotional/automated email ratio** — ~90% of messages auto-categorized as PROMOTIONS or UPDATES; very low signal-to-noise for human correspondence
-- **Important messages sparse but clear** — Only 3 marked IMPORTANT in new batch: Navy/Maciej Stachura thread, GetFPV, UnitedHealthcare benefits
+- **Shared purchasing inbox still primary vector** — 35+ of 55 messages routed through `purchasing@blackswifttech.com`; remains central team resource
+- **Multiple named recipients on shared inbox** — Messages addressed to Jack Elston, Joshua Fromm, Meredith Needham, Maciej Stachura on same inbox; confirms distributed purchasing authority
+- **Personal email (`alex.lomis@blackswifttech.com`) receiving more direct correspondence** — 9 direct messages to personal address (vs. 6 in previous batch); indicates Alex increasingly engaged in technical/strategic discussions
+- **Alternate domain still active** — Message to `alex.lomis@bst.aero` (Design Gateway newsletter); both domains remain in use
+- **Navy emails continue indirect pattern** — Angel Ruiz-Reyes emails addressed to Maciej Stachura, not Alex; Alex appears copied/looped in via shared inbox or thread visibility
+- **Technical/specialized contacts direct** — PTC (CAD), Gateworks (embedded systems), Design Gateway (edge computing), Grafana (monitoring) all send to personal address
+- **Google Gemini meeting notes marked IMPORTANT** — "BST Internal Update Meeting" Jun 17 suggests structured internal sync; AI-generated notes indicate formalized documentation
+- **High promotional ratio persists** — ~70% of total messages still auto-categorized as PROMOTIONS; low human-to-human signal
+- **ServoCity order #300044802 heavily tracked** — 5 status updates across 2-day period (Jun 17–18) suggests critical component or urgent fulfillment
 
 ## Key Relationships
 
-- **Internal collaborators:** 
-  - Maciej Stachura (primary Navy liaison for "S0 - MAD" project)
-  - Jack Elston, Josh Fromm, Meredith Needham (co-users of purchasing inbox)
-- **Primary vendors:** 
-  - McMaster-Carr, DigiKey (commodity electronics)
-  - ServoCity, Rock West Composites (specialized components)
-  - Jawstec (logistics/fulfillment)
-- **Government/defense partner:** 
-  - U.S. Navy NAWCAD (Angel R. Ruiz-Reyes) — "Non-DoD Source" notation suggests controlled communication protocol
-- **Specialized equipment suppliers:** 
-  - GetFPV, HeliDirect, uAvionix, Baofeng (drone/UAV/aviation ecosystem)
+**Internal Collaborators:**
+- **Maciej Stachura** — Primary Navy liaison (S0 - MAD project); increasing email frequency suggests active collaboration
+- **Jack Elston, Joshua Fromm, Meredith Needham** — Shared purchasing authority; co-workers on procurement team
 
-## Notable Observations
+**External Technical Relationships:**
+- **Nathaniel Hoadley (PTC)** — CAD/PLM systems integration; marked IMPORTANT, direct response format suggests ongoing project engagement
+- **T. Harris (Gateworks/Ezurio)** — Embedded compute platform interest; acquisition announcement directly to Alex suggests technical relevance tracking
+- **Angel R. Ruiz-Reyes (U.S. Navy NAWCAD)** — Government defense contract liaison (via Maciej Stachura)
 
-- **Navy defense project confirmed** — "S0 - MAD update" thread with NAWCAD (Naval Air Warfare Center Aircraft Division) indicates active government contract or partnership; "Non-DoD Source" tag suggests formal compliance/clearance requirements
-- **Shared purchasing responsibility** — Multiple team members (Jack, Josh, Meredith, Alex) acting on same purchasing@blackswifttech.com inbox; unclear if Alex is purchasing manager or peer contributor
-- **Ottawa travel scheduled Jun-27** — Budget/Hampton bookings reference YOW airport (Ottawa Macdonald-Cartier); timing aligns with Jun-27 hotel checkout; may indicate team travel/meeting
-- **Travel disruption** — Multiple Budget cancellations on Jun-16, suggests plan change or no-show correction
-- **Drone/UAV company profile sharpens** — Vendor mix (ServoCity, Rock West Composites, GetFPV, HeliDirect, uAvionix, Baofeng) strongly indicates drone/autonomous systems or small aircraft development; combined with Navy contact = likely defense/aerospace UAV program
-- **Cross-domain communication** — Email shows `blackswifttech.com` domain primary, but bst.aero alias still referenced in older data; both domains active as of June 2026
-- **Personal benefits communication** — UnitedHealthcare message marked IMPORTANT, personal benefits notification (not procurement-related), suggests Alex is employee with benefits eligibility
-- **Minimal peer-to-peer correspondence** — Despite apparent team structure, almost no direct human emails visible; communication highly transactional/system-mediated
-- **Steam account verification anomaly** — Single non-business email (Steam gaming platform) in purchasing inbox; likely miscategorized or personal account access on shared computer
+**Primary Vendors/Suppliers:**
+- **ServoCity** — Critical component supplier (order #300044802, heavy tracking)
+- **SendCutSend** — Custom fabrication partner (order S1841769)
+- **Rock West Composites** — Materials supplier (from previous batch)
+- **Drone/FPV ecosystem:** CADDXFPV, HeliDirect, SkyGeek, GetFPV, Baofeng
+- **Infrastructure/tools:** Grafana Labs (monitoring), Verizon B2

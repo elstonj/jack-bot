@@ -108,7 +108,7 @@
 - **Unclassified:** 3 people (Beck Cotter, Daniel Prendergast, Jameel Barkat — roles/departments unknown)
 - **Service Accounts:** 2
 
-**Verification Status:**
+**Update Status:**
 - All 18 directory entries verified and confirmed across existing knowledge file and new raw data
 - All phone numbers normalized to consistent dash-separated format (e.g., 720-933-4503)
 - No changes detected — all data remains consistent and complete

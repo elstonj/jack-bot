@@ -5,7 +5,7 @@
 - **Dollar Value**: Not applicable (internal project)
 - **Timeline**: No specific dates (ongoing strategic initiatives)
 - **Status**: ARCHIVED (as of June 16, 2024)
-- **Team Members**: BST Whole Team, with primary contributors Jack Elston, Maciej Stachura, Meredith O'Hara Needham; Kareem returning from absence (Jun 15, 2026)
+- **Team Members**: BST Whole Team, with primary contributors Jack Elston, Maciej Stachura, Meredith O'Hara Needham; Kareem returned June 15, 2026
 - **Risk Signals**: 
   - 1 remaining open task (lease termination planning) — unassigned, no due date
   - Multiple major funding proposals (2024-2025) in $300K–$896.5K range were not funded despite significant effort
@@ -44,7 +44,7 @@
   - **Maciej Stachura**: SBIR proposal management, technical opportunities, proposal submissions (6+ proposals over 2022–2024); Navy project oversight (completed as of Apr 17, 2026)
   - **Jack Elston**: Strategic leadership, financial planning, business development, website updates, investor relations; coordinating team task allocation post-Kareem return (Jun 15-16, 2026)
   - **Meredith O'Hara Needham**: Administrative support, document collection and organization, LOI/MOU/support letter curation
-  - **Kareem** (returned Jun 15, 2026): Being assigned to S0 components, ground stations completion, or wildfire video project per Jack's delegation
+  - **Kareem** (returned Jun 15, 2026): Being assigned to S0 component fabrication, ground station completion, or wildfire video project per Jack's delegation
   - **Unassigned**: Lease termination planning
 - **Notable Patterns**: 
   - Heavy emphasis on government funding (NASA, USDA, NSF, DoD)
@@ -69,10 +69,10 @@
 ## Recent Activity
 
 ### June 2026 — Current Activity
-**[FEEDBACK, Jack, Jun 15-16, 2026]**: Kareem returning today (Jun 15 @ 12:00 PM) after absence. Jack coordinating immediate task allocation with team:
-- Considering assigning Kareem to **S0 component fabrication** or **ground station completion**
-- Alternative: **Wildfire video project needs completion** — Jack asking team to finalize division of labor (flagging as priority)
-- Jack has additional tasks queued for Kareem
+**[FEEDBACK, Jack, Jun 15-16, 2026]**: Kareem returning June 15 @ 12:00 PM after absence. Jack coordinating immediate task allocation:
+- **Primary assignment options**: S0 component fabrication OR ground station completion
+- **Priority alternative**: **Wildfire video project needs completion** — Jack asking team (unnamed assignees) to finalize division of labor and coordinate
+- Additional tasks queued for Kareem pending team feedback
 
 ### Project Status Updates (April 2026 — TEAM CORRECTIONS AUTHORITATIVE)
 **[CORRECTION, per Jack, Apr 20, 2026]**: Mexico USGS volcano deployment (350-4) is **DELAYED to Fall 2026**. Not departing April 20, 2026. **No flight planning, shipping, or mission prep imminent.** Any Asana tasks referencing April 2026 dates are **stale — disregard them.**
@@ -118,4 +118,6 @@
 - S0 component fabrication and ground station infrastructure
 
 ### Active Work Streams (June 2026)
-- **S0 
+- S0 component fabrication
+- Ground station completion
+- **

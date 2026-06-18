@@ -1,44 +1,29 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,131 emails (1,046 prior + 85 new from June 16–17)
-- **Date range:** May 18–June 17, 2026
+- **Total messages scanned:** 1,179 emails (1,131 prior + 48 new from June 17–18)
+- **Date range:** May 18–June 18, 2026
 - **Daily average:** ~15–17 emails/day (human correspondence); automated/logistics/procurement/travel volume substantial and accelerating
-- **Unread messages:** ~800+ unread (heavy promotional/automated volume; logistics, supplier notifications, travel bookings, and component sourcing dominating)
-- **New data period (June 16–17):** 85 emails
-  - **Human correspondence:** 8 emails (9%)
-    - Lee Skidmore (Rubicon Aerospace) — **Major multi-message exchange on S0 Deploy Tubes shipment** (CRITICAL)
-    - Sofia Alvarez (LNP Machining) — Response to voicemail follow-up (IMPORTANT)
-    - Chance Rogers (VertIQ) — Multi-exchange on 23-14 updates technical discussion (IMPORTANT; 3-way active thread)
-    - Joe Cione (NOAA Federal) — Meeting invitation: NOAA Drone program technical discussion with T-Mobile (June 22, 2026, 9am–10am MDT) (IMPORTANT)
-    - Jun Zhang (NOAA Affiliate) → Jack Elston — Blackswift humidity discussion thread (routed; IMPORTANT)
-    - Kathryn Sellwood (NOAA Affiliate) — Blackswift humidity discussion (threaded)
-    - Joshua Wadler (ERAU) — Blackswift humidity discussion (threaded)
-  - **Automated/Logistics/Procurement/Travel/Promotional:** 77 emails (91% of new volume)
-    - **Procurement surge (June 16):** Heavy spike in component orders
-      - **DigiKey:** 4 separate orders (invoices 127629224, 127631150, 99854859, 99853994) — Multiple shipment notifications same day
-      - **Mouser Electronics:** 2 POs (39526033) — Order confirmations and TARIFF DETAILS flagged (IMPORTANT — international component procurement)
-      - **McMaster-Carr:** 3 confirmations + tracking (June 16 order, confirmation, tracking, receipt)
-      - **Amazon:** Multiple shipments (Traovien Micro USB orders)
-      - **ServoCity:** Order #300044802 (IMPORTANT flagged)
-      - **BatterySpace.com:** Order #500103 ($62.81 USD portable/battery supplies)
-      - **Jawstec:** Shipment notification (order now in transit; previous "delay" resolved)
-      - **Bisco Industries:** Reorder reminder (Southco R4-EM-44-161 fasteners)
-    - **Worldwide Express Invoice** (June 17) — Shipment billing
-    - **Rock West Composites:** Order Z100698536 delivered (composite materials)
-    - **SendCutSend:** Implied continuation of sheet metal/fabrication services
-    - **Travel & accommodation bookings (June 24–27 timeframe):**
-      - **Expedia:** Travel confirmation for Wed, Jun 24 (Itinerary #73475920981648)
-      - **Budget Rent-A-Car:** Multiple reservations at YOW (Ottawa/Nepean area) — Reservation #48085425US3 (JACK), Reservation #48085060US2 (JOSHUA) — Confirmations and cancellations; verification codes
-      - **Hampton by Hilton:** Confirmation #82367973 (Jun 27 check-in) — 4x duplicate confirmations (possible system error)
-      - **Holiday Inn Express & Suites Ottawa West - Nepean:** IHG direct messages (2x)
-      - **Travel Guard Policy:** Insurance confirmation #1003310230
-      - **Pirate Ship:** 4x shipping payment receipts ($76.66 each = $306.64 total shipping outlay June 16) — Implies bulk outbound shipments
-    - **Promotional/vendor outreach:** AliExpress (mega codes), ProtoSpace Mfg (design-to-manufacturing tools), NexusPCB Technologies (PCB assembly in Colorado), Protocase (short lead times), HeliDirect (Father's Day deals), uAvionix (tailBeaconX training), Baofeng (radio bundles), Vaisala (Arctic Security 2026), Harbor Freight (product alert), TraceParts (CAD video), Verde Boulder (catering schedule)
-    - **Task management:** Asana (2x unread notifications)
-    - **Information sources:** UAS VISION daily news (June 16)
-    - **Travel logistics:** Hilton Honors statement (June 16); Expedia booking messages/confirmations
-    - **Security anomalies:** Steam account alerts (4x) — new sign-in, account verification, access from new computer (June 16, 13:23–13:25 PDT cluster) — **Flagged as potential account compromise or IT security scan**
+- **Unread messages:** ~850+ unread (heavy promotional/automated volume; logistics, supplier notifications, travel bookings, and component sourcing dominating)
+- **New data period (June 17–18):** 48 emails
+  - **Human correspondence:** 4 emails (8%)
+    - Todd Rutherford (MM Solutions) — Multi-exchange on "New case" (IMPORTANT; 3-way with Meredith Needham) — flagged [CAUTION: SUSPECT SENDER]
+    - Meredith Needham (Internal) — Response on Todd Rutherford "New case" thread
+    - Robert Wilson (FastBlaize) — Technical exchange on "Multi-UAS coordination without the power trade-off" (IMPORTANT external)
+    - Zachary O. Kachel (USSOCOM) — RFI S0 response thread to Daniel Prendergast + Evan M. Wolff (military procurement signal)
+  - **Automated/Logistics/Procurement/Travel/Promotional:** 44 emails (92% of new volume)
+    - **Rubicon Aerospace continued:** Jeremy Van Vliet (Rubicon) response on S0 Deploy Tubes shipment to Meredith Needham + Lee Skidmore (June 18, 00:36 UTC) (CRITICAL ongoing)
+    - **Component procurement (June 17):** ServoCity order #300044802 updates (3x notifications across June 17–18) (IMPORTANT flagged); SendCutSend order S1841769 tracking (sheet metal/fabrication); DigiKey order confirmation; Amazon deliveries (StarTech USB cables x2, Traovien Micro USB)
+    - **Travel logistics (Ottawa trip June 24–27):** Expedia messaging (last-minute add-ons, hotel savings promotions); U-Haul corporate account updates routed via purchasing@
+    - **Technical/Industry Updates:**
+      - Teledyne FLIR OEM — Thermal imaging data center risk alert (dual send to josh.fromm@blackswifttech.com AND josh.fromm@bst.aero) (IMPORTANT — domain variation noted)
+      - Gateworks/Ezurio acquisition announcement (embedded compute portfolio expansion) (IMPORTANT technical)
+      - X-Plane security & addon announcements (routed via purchasing@)
+      - Vaisala acquires Atmo, Inc. weather AI announcement
+      - UAS VISION daily news (June 17)
+    - **Vendor/Promotional:** AMain Hobbies rewards, SkyGeek, NexusPCB PCB assembly reminder, HeliDirect Father's Day, Strong Hold outlet, CADDXFPV Father's Day, Harbor Freight, Battery Junction, eBay (Futaba 14SG radio gear), Birdcall happy hour specials, Spindrift beverage survey
+    - **Logistics/Tracking:** USPS Informed Delivery digest, order delivery confirmations (Mt. Princeton Hot Springs resort promotional routed to Maciej Stachura via purchasing@)
+    - **System/Account:** Gemini Google Notes (BST Internal Update Meeting June 17, 2026), X-Plane identity two-factor auth, Account Verification notification
 
 ---
 
@@ -47,41 +32,64 @@
 ### Top Internal Contacts (Updated)
 
 1. **Jack Elston** (elstonj@blackswifttech.com) — **Primary collaborator & Event Lead; NOAA liaison**
-   - Pattern Break Brewing team event organizer (prior)
-   - REX110 technical escalation chain (prior)
-   - Government programs liaison (Merlin Mk2, US Navy SBIR, UK MOD) (prior)
-   - **NEW:** Recipient on NOAA Drone program technical discussion invitation (June 22, 2026) from Joe Cione; multi-stakeholder meeting (T-Mobile, NOAA Federal/Affiliate, ERAU)
-   - **NEW:** Direct email response on Blackswift humidity technical discussion (Jun 11:47 MDT) — critical technical thread
-   - **NEW:** Copied on UAS equipment promotional emails (uAvionix, Baofeng)
+   - (Status unchanged from prior analysis)
 
-2. **Ben Busby** (ben.busby@blackswifttech.com) — **Senior leadership & REX110 escalation** (prior status maintained)
+2. **Ben Busby** (ben.busby@blackswifttech.com) — **Senior leadership & REX110 escalation**
+   - (Status unchanged from prior analysis)
 
-3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Technical integration & troubleshooting** (prior status maintained)
+3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Technical integration & troubleshooting; USSOCOM RFI S0 liaison**
+   - (Prior status maintained)
+   - **NEW:** Recipient on USSOCOM RFI S0 response from Zachary O. Kachel (MIL USSOCOM) + Evan M. Wolff (MIL USSOCOM) (June 17, 15:16 UTC) — **indicates classified/controlled unclassified defense procurement activity**
 
 4. **Maciej Stachura** (stachura@blackswifttech.com) — **Co-investigator/technical lead**
-   - **NEW:** Recipient on NOAA Drone program technical discussion invitation (June 22)
+   - (Status unchanged from prior analysis)
+   - **NEW:** Recipient on Mt. Princeton Hot Springs Resort promotional (likely team event/offsite logistics)
 
-5. **Alex Lomis** (alex.lomis@blackswifttech.com) — **Technical/Operations** (prior status maintained)
+5. **Alex Lomis** (alex.lomis@blackswifttech.com) — **Technical/Operations**
+   - (Status unchanged from prior analysis)
 
-6. **Meredith Needham** (meredith.needham@blackswifttech.com) — **Procurement/Operations; Rubicon S0 coordination**
-   - Active procurement operations (prior)
-   - **NEW:** Central recipient on Rubicon S0 Deploy Tubes shipment coordination (4+ emails June 16, 12:16–18:10 UTC)
-   - **NEW:** Recipient on Rubicon shipping confirmations from Lee Skidmore
-   - **NEW:** Copied on promotional/vendor alerts (HeliDirect, Baofeng, catering)
+6. **Meredith Needham** (meredith.needham@blackswifttech.com) — **Procurement/Operations; Rubicon S0 coordination; External vendor liaison**
+   - (Prior status maintained)
+   - **NEW:** Multi-message exchange with Todd Rutherford (MM Solutions) on "New case" (June 17, 11:24–22:33 UTC) — co-recipient with Josh Fromm (IMPORTANT; flagged [CAUTION: SUSPECT SENDER])
+   - **NEW:** Direct reply from Meredith to Josh on Todd Rutherford thread (June 17, 11:32 MDT)
+   - **NEW:** Response to Rubicon Lee Skidmore on S0 Deploy Tubes shipment (June 17, 10:27 MDT) + Jeremy Van Vliet follow-up (June 18, 00:36 UTC)
 
 7. **Paige Smith** (paige.smith@blackswifttech.com) — **Team/Operations; Rubicon liaison**
-   - Pattern Break Brewing team event (prior)
-   - **NEW:** Directly replied to Lee Skidmore re: Rubicon IG/Media Post Authorization (June 15, 16:13 PDT) — **indicates marketing/brand partnership coordination responsibility**
+   - (Status unchanged from prior analysis)
 
-8. **Spencer Hoehl, Ethan Domagala, Sam Hild, Beck Cotter, Nathaniel Straus** — **Team members** (prior status)
+8. **Spencer Hoehl, Ethan Domagala, Sam Hild, Beck Cotter, Nathaniel Straus** — **Team members**
+   - (Status unchanged from prior analysis)
 
 ---
 
 ### Top External Contacts (Updated)
 
-#### Government & Strategic Partners
+#### Government & Defense
 
-**NOAA Federal/Affiliate (Expanded Multi-stakeholder Engagement)**
-- **Joe Cione – NOAA Federal** (joe.cione@noaa.gov) — **CRITICAL ONGOING**
-  - **NEW:** Issued meeting invitation June 16 for NOAA Drone program technical discussion (June 22, 2026, 9am–10am MDT)
-  - Participants: Joshua Fromm, Maciej
+**USSOCOM (U.S. Special Operations Command)**
+- **Zachary O. Kachel (MIL USSOCOM SOCOM USA)** <zachary.o.kachel.mil@socom.mil> — **NEW CRITICAL CONTACT**
+  - RFI S0 response thread (June 17, 15:16 UTC)
+  - Co-respondent: Evan M. Wolff (MIL USSOCOM SOCOM USA) <evan.m.wolff.mil@socom.mil>
+  - Recipient chain: Daniel Prendergast (Black Swift)
+  - **Signal:** U.S. military special operations procurement/RFI activity; S0 platform evaluation ongoing
+  - **Classification note:** Subject line flagged "(U)" = Unclassified but sensitive
+
+**NOAA Federal/Affiliate (Status from prior analysis maintained)**
+- Joe Cione (joe.cione@noaa.gov) — NOAA Drone program technical discussion (June 22, 2026)
+- Multi-stakeholder government + commercial engagement
+
+---
+
+#### Commercial/Technical Partners
+
+**Rubicon Aerospace (CRITICAL ONGOING)**
+- **Lee Skidmore** <lee@rubiconaerospace.com>
+- **Jeremy Van Vliet** <jeremy@rubiconaerospace.com> — **NEW direct contact**
+  - S0 Deploy Tubes shipment coordination multi-message thread (June 17–18)
+  - Co-coordinating with Meredith Needham (BST Procurement)
+  - **Signal:** Active shipment fulfillment; multi-party logistics coordination
+
+**FastBlaize (NEW CONTACT)**
+- **Robert Wilson** <robert.wilson@fastblaize.com>
+  - Technical exchange: "Multi-UAS coordination without the power trade-off" (June 17, 15:34 UTC) (IMPORTANT)
+  - **Signal:** Power systems/UAS coordination technology discussion

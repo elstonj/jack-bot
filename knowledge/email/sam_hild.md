@@ -1,92 +1,87 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 52 emails (38 previous + 14 new)
-- **Date range:** June 12–17, 2026 (6 days)
-- **Volume:** ~8–9 emails/day; 80%+ routed through purchasing@blackswifttech.com
-- **Direct personal email:** 5 messages (Rippling, Asana, Toggl Track, Veeam, 1 external contact)
+- **Total messages scanned:** 78 emails (52 previous + 26 new)
+- **Date range:** June 12–18, 2026 (7 days)
+- **Volume:** ~11 emails/day; 80%+ routed through purchasing@blackswifttech.com
+- **Direct personal email:** 8 messages (Rippling, Asana, Toggl Track, Veeam, Gemini Notes, tharris@gateworks.com, Jack Elston draft reply, 1 additional)
+- **Unread rate:** 26 of 26 new messages (100%) — indicates continued bulk-filtering or category auto-sort
 
 ## Key Correspondents
 
 ### Primary Channels
-- **Purchasing inbox relay:** purchasing@blackswifttech.com (44 of 52 emails — 85%)
-- **Direct to sam.hild@blackswifttech.com:** 5 messages (Rippling, Asana, Toggl Track, Veeam, Jack Elston draft reply)
+- **Purchasing inbox relay:** purchasing@blackswifttech.com (21 of 26 new emails — 81%)
+- **Direct to sam.hild@blackswifttech.com:** 5 new messages (Asana, Toggl Track, Gemini Notes, Gateworks/Ezurio announcement, 1 other)
 
-### Vendors/Suppliers (Active in New Data)
-- **Electronics/Components:** DigiKey (2 shipments), Mouser Electronics, McMaster-Carr (3 order confirmations), ServoCity, Master Electronics, Bisco Industries (Southco parts)
-- **Hobby/Drone Equipment:** NewBeeDrone, Hobbyking, HeliDirect, Baofeng Radio, uAvionix
-- **Tools/Hardware:** Harbor Freight, Speedway Motors
-- **Travel/Logistics:** UPS, Budget (car rental — multiple reservations), Expedia (travel confirmations, Ottawa/Nepean), Hampton by Hilton, Holiday Inn Express
-- **Materials/Composites:** Rock West Composites (delivered order Z100698536), SendCutSend, Protocase
-- **Aviation/Aerospace:** Phase 1 Aviation LLC, Jaws Technology (order shipped Jun 16), uAvionix (tailBeacon displays)
-- **Food Services:** ezCater, Verde Boulder (breakfast burritos)
-- **Software/IT:** Dell Technologies, Veeam (backup software)
+### Vendors/Suppliers (New Activity)
+- **Motion Control:** ServoCity (3 order status updates for #300044802 — Jun 17, suggesting fulfillment in progress)
+- **Metal/Fabrication Services:** SendCutSend (3 shipment/order updates — order S1841769, shipment in transit Jun 17)
+- **Aviation/FPV Supplies:** SkyGeek (marketing email to Joshua Fromm Jun 17); X-Plane Team (2 messages — software updates + addon announcements; may indicate flight simulation use or UAV software validation)
+- **Drone/RC Equipment:** CADDXFPV (Father's Day promotion Jun 17)
+- **Hobbyist Electronics:** AMain Hobbies (rewards points Jun 18); Battery Junction (Energizer promotion); eBay (Futaba 14SG RC transmitter/receiver search alert Jun 17)
+- **Beverages (Non-business):** Spindrift (survey/feedback promotion to Meredith Needham Jun 17)
+- **Recreation/Travel:** Mt. Princeton Hot Springs Resort (marketing to Maciej Stachura Jun 17 — possible team outing or personal interest)
+- **U-Haul Corporate:** Account update notification Jun 17 (to purchasing inbox via Chelsey Drausin)
 
 ### Internal Correspondents (via Purchasing & Direct)
-- **Jack Elston** — primary colleague; receives and forwards PCB project emails; Budget car rental reservations under "JACK" name; uAvionix promotional forward
-- **Joshua Fromm / Josh Fromm** — receives BatterySpace order, Black Swift shipment notifications
-- **Meredith Needham** — receives HeliDirect Father's Day email, Baofeng radio promotions
-- **Maciej Stachura** — **KEY INTERNAL CONTACT** — corresponds with U.S. Navy contact on "S0 - MAD update" (see Notable Observations)
-- **Frank Strazzabosco** <microfirm@earthlink.net> — **EXTERNAL CONTACT** — forwarded PCB assembly email from Jack Elston
+- **Jack Elston** — continues PCB project collaboration (from prior data; no new direct email this period)
+- **Joshua Fromm** — receives SkyGeek promotional email (Jun 17); likely part of Ottawa trip team
+- **Meredith Needham** — receives HeliDirect and Spindrift emails (recreational/hobby interests)
+- **Maciej Stachura** — **KEY INTERNAL CONTACT** — continues managing U.S. Navy correspondence; Mt. Princeton Hot Springs email routed to him (Jun 17)
 
-### External Human Contacts (New & Ongoing)
-- **Briana Gonzalez** <briana@jawstec.com> — **Jaws Technology** — order shipped Jun 16
-- **Angel R. Ruiz-Reyes** <angel.r.ruiz-reyes.civ@us.navy.mil> — **U.S. Navy NAWCAD** — technical correspondence on "S0 - MAD update" (marked IMPORTANT)
-- **Maciej Stachura** <stachura@blackswifttech.com> — **Internal** — manages Navy correspondence
-- **Frank Strazzabosco** <microfirm@earthlink.net> — **Possible vendor/partner** — receives PCB assembly project forwarding
+### External Human Contacts (New)
+- **Tim Harris** <tharris@gateworks.com> — **Gateworks Corporation** — **MARKED IMPORTANT** — Ezurio acquisition announcement Jun 17 18:03 UTC (direct to Sam, not via purchasing)
+- **Angel R. Ruiz-Reyes** <angel.r.ruiz-reyes.civ@us.navy.mil> — **U.S. Navy NAWCAD** — continues "S0 - MAD update" correspondence Jun 17 (marked IMPORTANT); Maciej Stachura manages thread
+- **Chelsey Drausin** — **U-Haul Corporate Sales** — business account admin (forwarded via purchasing Jun 17)
 
 ## Topic Patterns
 
-### Hardware/Electronics (Consistent & Expanded)
-- **Electronic components:** DigiKey (2 orders shipped), Mouser, McMaster-Carr (multiple orders Jun 16)
-- **Servo/motion control:** ServoCity order confirmation (#300044802)
-- **Radio/communication:** Baofeng radios, uAvionix tailBeacon displays (aviation transponder)
-- **Battery supplies:** BatterySpace order confirmation (#500103)
-- **Specialty fasteners/hardware:** Bisco Industries reorder (Southco R4-EM-44-161 — precision fasteners)
+### Hardware/Electronics (Continued & Refined)
+- **Motion control:** ServoCity order #300044802 status updates (3 notifications Jun 17 — **order in active fulfillment**)
+- **Metal fabrication:** SendCutSend order S1841769 (tracking + shipment notification Jun 17 — order placed earlier, now shipping)
+- **RC/Drone components:** eBay alert for Futaba 14SG transmitter/receivers (Jun 17 search/watch); CADDXFPV promotional email
+- **Battery supplies:** Battery Junction promotion (Energizer batteries — generic procurement)
+- **Hobbyist electronics:** AMain Hobbies rewards (Jun 18)
 
-### Manufacturing/Fabrication (New & Active)
-- **PCB assembly/turnkey:** Jack Elston & Frank Strazzabosco discussing "Avoid PCB project delays: order early + save 25% on turnkey assembly" (marked IMPORTANT, Jun 16 07:36 — DRAFT reply from Sam)
-- **Custom composites:** Rock West Composites order delivered (Z100698536)
-- **Fabrication suppliers:** SendCutSend, Protocase (from prior data; ongoing)
+### Software/Simulation (New Pattern)
+- **X-Plane Flight Simulator:** 2 emails from X-Plane Team (Jun 17) — two-factor authentication setup + addon announcements
+  - **Significance:** Direct routing to purchasing@blackswifttech.com suggests BST team use; possibly for **UAV simulation/testing** or **flight dynamics validation** rather than recreational use
 
-### Aviation/Aerospace (New Visibility — Significant)
-- **Jaws Technology** — order shipped Jun 16 (order delay resolved from prior flagged issue)
-- **uAvionix (squawk@uavionix.com)** — tailBeacon displays tutorial; forwarded to Jack Elston (aviation beacon/transponder for small aircraft)
-- **Phase 1 Aviation LLC** — ongoing vendor (from prior data)
-- **Navy correspondence:** "S0 - MAD update" — Maciej Stachura managing exchange with U.S. Navy NAWCAD (Naval Air Warfare Center Aircraft Division) contact Angel Ruiz-Reyes; flagged IMPORTANT
+### Government/Defense (Continued — Elevated)
+- **Navy Correspondence:** Angel R. Ruiz-Reyes (NAWCAD) responds to "S0 - MAD update" Jun 17 19:01 UTC (marked IMPORTANT); Maciej Stachura replies same day 09:31 CDT (Jun 17 — **2-hour turnaround suggests critical matter**)
+- **Embedded Computing:** Tim Harris <tharris@gateworks.com> — **Gateworks Corporation** announced **acquisition by Ezurio** (Jun 17) — **marked IMPORTANT to Sam directly**
+  - **Implication:** Gateworks is embedded compute/networking vendor; Ezurio is embedded security/IoT platform company; announcement routed to Sam suggests **product dependency or technical relevance to BST**
 
-### Travel/Logistics (New — Significant)
-- **Multi-destination trip planned:** Expedia confirmation for **Jun 24 departure** (Itinerary # 73475920981648)
-- **Location:** **Ottawa, Ontario** — Holiday Inn Express & Suites (Ottawa West - Nepean), Hampton by Hilton (Jun 27 confirmations x4)
-- **Ground transport:** Budget car rental confirmations for **YOW (Ottawa)** airport; reservations for "JACK" (James?) and "JOSHUA" (likely Joshua Fromm)
-- **Travel insurance:** Travel Guard Policy Confirmation (1003310230)
-- **Multiple hotel confirmations:** Hampton by Hilton Jun 27 (4 identical confirmations suggest system duplication)
-
-### Non-Hardware Procurement
-- **Meals/beverages:** Verde Boulder (breakfast burritos vacation schedule)
-- **Corporate IT:** Dell XPS 13 (marketing), Veeam backup software (direct to Sam Jun 16 10:16 — may indicate BST IT initiative)
+### Non-Core Activity (Continuing)
+- **Recreation/Travel:** Mt. Princeton Hot Springs email routed to Maciej (Jun 17) — possible team activity or personal wellness trip
+- **Beverage/Food:** Spindrift survey (to Meredith Jun 17)
 
 ## Communication Patterns
 
-### Email Routing
-- **Purchasing inbox pattern:** Vendor emails, confirmations, shipments, travel bookings all route through purchasing@blackswifttech.com; appears to be a **team inbox or mail rule** aggregating procurement-related messages
-- **Direct to Sam's personal email:** Asana task reminders, corporate alerts (Rippling), and now Veeam software alert (Jun 16 10:16) — suggests direct involvement in select operational/IT decisions
-- **Human-to-human forwarding:** Jack Elston forwards PCB project email to Sam + external Frank Strazzabosco (Jun 16 03:28); Sam drafts reply same morning (Jun 16 07:36)
-- **Navy correspondence:** Routed to Maciej Stachura (not Sam), but visible in header chain; suggests BST has Government/DoD contact or contract
+### Email Routing (Confirmed)
+- **Purchasing inbox:** Vendor notifications, order updates, shipping alerts, marketing promotions **consistently routed** to purchasing@blackswifttech.com
+- **Direct to Sam's inbox:** Strategic/business-critical items (Navy IMRAD, Gateworks acquisition), task management (Asana), time tracking (Toggl), and system alerts (Gemini Notes, Rippling)
+- **Delegation pattern:** Navy correspondence routed to **Maciej Stachura** (not Sam), but Sam receives IMPORTANT notification; suggests **Maciej is operational lead, Sam is stakeholder/approver**
 
-### Email Volume Spike
-- **Jun 16:** 47 emails in single day (from 38 total over prior 5 days) — **major procurement/travel/project day**
-  - 4 Expedia travel confirmations (duplicate hotel confirmations x4 suggest booking system loop)
-  - Multiple shipment notifications (DigiKey x2, Mouser, McMaster-Carr x3, ServoCity, JawsTec, Rock West, Black Swift x4, UPS)
-  - Budget car rental confirmations (2 reservations + cancellations)
-  - Internal Navy correspondence spike
+### Bulk-Filter Behavior
+- **Email categories:** 70%+ marked CATEGORY_UPDATES, CATEGORY_PROMOTIONS, CATEGORY_FORUMS — Gmail auto-categorization working as designed
+- **All 26 new emails marked UNREAD** — Sam likely processes inbox manually, filtering by IMPORTANT flags or sender
 
-### Time Distribution
-- Emails arriving 24/7 across multiple time zones
-- **Concentrated on Jun 16:** Shipment notifications 19:00–21:00 UTC; hotel/travel 11:00–13:00 CDT; procurement orders 14:00–20:00 CDT
-- **Navy correspondence:** 15:00–22:00 UTC (Maciej leading)
+### Gemini Notes Integration (New)
+- **Gemini AI note generator:** "BST Internal Update Meeting" note generated Jun 17 19:27 UTC and sent to sam.hild@blackswifttech.com
+  - **Significance:** Suggests Sam using Google AI for meeting note synthesis; may indicate **structured internal meetings** or **documentation workflow**
 
-### Unread Rate
-- **51 of 52 new emails marked UNREAD** (98%) — likely bulk-filtered or auto-sorted into CATEGORY_PROMOTIONS/CATEGORY_FORUMS; Sam may only manually process priority items (IMPORTANT flagged)
+### Timeline Observations (Jun 17–18)
+- **Jun 17:** 24 emails in single day (primarily afternoon/evening UTC) — shipping/status update spike + Navy correspondence + internal meetings
+- **Jun 18:** 2 emails only (AMain Hobbies, ServoCity) — **slower day, possibly travel-related (Ottawa trip)**
 
-##
+## Key Relationships
+
+### Internal Collaboration
+- **Maciej Stachura** — **Primary strategic collaborator** — manages Navy/DoD contact (Angel Ruiz-Reyes); Sam receives notifications but doesn't directly correspond; turnaround time ~2 hours suggests **high-priority, time-sensitive work**
+- **Jack Elston** — **Engineering collaborator** — PCB/hardware project management (prior data; ongoing)
+- **Joshua Fromm** — **Procurement/logistics support** — receives vendor emails; part of Ottawa trip team
+- **Meredith Needham** — **Administrative/support role** — receives hobby/promotional emails; may handle corporate events or wellness programs
+
+### External Strategic Relationships
+- **Angel R. Ruiz-Reyes (U.S. Navy NAWCAD)** — **Government customer/partner** — ongoing technical correspondence on classified or sensitive project ("S

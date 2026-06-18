@@ -26,6 +26,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **June 8, 2026**: Flux analysis from 04-07 flight determined to be limited due to insufficient quality flux legs; prioritized focus on 04-09 high-rate data analysis for identifying and resolving calibration issues
 - **June 12, 2026**: Maciej outlined comprehensive testing plan for fixes/issues discovered from recovered S0 test, prioritizing affine magnetometer calibration (0.5 m/s average error correction), accelerometer corrections (4° roll error at max roll), accelerometer calibration (0.3 m/s wind error reduction), mag-IMU alignment (0.5 m/s error on S0-70), and pressure scaling corrections (with plan to correct both tunnel and aircraft data to recalibrate IAS)
 - **June 15, 2026**: Decided OOI array test should be framed as internal R&D effort (not Navy-funded) for at least July; team to assess feasibility of pursuing in July versus deferring to October when Phase II funding clarity and available flight hours are confirmed; noted no guarantee of flight hours after October 1
+- **June 17, 2026**: Confirmed no S0 flight scheduled over OOI array for weekend of June 20-21; Maciej following up on outcome of SASCWATCH meeting
 
 ## Projects & Initiatives
 **Navy STTR Boundary Layer Measurements Project (Award: N6833535C0270)**
@@ -46,5 +47,4 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **Wind Calculation Method Trade-off (June 4, 2026)**: Identified technical consideration that recomputing winds from low-rate data produces noisier results due to loss of high-rate gyro data access; Maciej flagged this as potential limitation for re-analysis of CAT flights
 - **Turbulence Metrics Reproducibility (June 5, 2026)**: Investigating differences in turbulence metrics between two S0 aircraft flying at same low altitude during CAT flights; Josh Wadler seeking reproducibility validation; Maciej exploring multiple post-processing approaches to improve data quality and reduce noise
 - **Flux Calculation Methodology (June 8, 2026)**: Josh Wadler calculating turbulent flux components (u, v, w wind components) with mean wind subtraction per leg; focus on high-rate 04-09 data for validation; Maciej investigating whether pressure sensor bias corrections improve or worsen flux results
-- **Comprehensive Calibration/Validation Initiative (June 12, 2026 - Maciej leading)**:
-  - **Affine Magnetometer Calibration**: Addresses non-orthogonal magnetic axes; tested on recent CAT flights; corrects average
+- **Comprehensive Calibration/Validation Initiative (June 12

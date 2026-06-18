@@ -12,7 +12,6 @@
 - **Team Members**: Josh Fromm (delivery/QC owner), Nate Straus (assembly/QC flight), Dan Prendergast (operator training), Kevin Rozmiarek (primary & billing contact)
 - **Risk Signals**: 
   - **CRITICAL — Operator Training Travel**: August 11–13, 2025 training **travel not yet scheduled** (Travel Scheduled: N). Less than 4 months away; must be booked immediately.
-  - **Near-term Priority Contention** (April 20, 2026): INSTAAR x2 flagged as competing delivery priority alongside Ottawa demo and Murphy's project — sequence TBD.
   - **Commercial-sales stub incomplete** (Joshua Fromm, June 1, 2026): stub created with empty customer and ship_by fields; original inquiry "can you just attach the invoice for instaar?" suggests invoice completion or scope clarification needed.
 
 ## Key Deliverables & Milestones
@@ -29,20 +28,19 @@
 - **Tasks by Assignee**:
   - Josh Fromm: 3 open tasks (Deliver INSTAAR/CU S3x2, Order/Fab Parts, QC Ground)
   - Nate Straus: 2 open tasks (Assembly, QC Flight)
-  - Dan Prendergast: 1 open task (Operator Training)
-  - Unassigned: 1 task (Kevin Rozmiarek contact info)
+  - Dan Prendergast: 1 open task (Operator Training — no due date; Aug 11–13 specified in custom fields)
+  - Unassigned: 1 task (Kevin Rozmiarek contact record)
 
 ## Recent Activity
 - **June 1, 2026** (Joshua Fromm): Commercial-sales stub created with empty customer and ship_by fields. Original inquiry: "can you just attach the invoice for instaar?" — suggests invoice completion or scope clarification needed.
-- **April 20, 2026** (Jack): INSTAAR x2 flagged as competing near-term delivery priority alongside Ottawa demo and Murphy's project — sequence TBD.
 - **January 8, 2025**: Kevin Rozmiarek confirmed 3–4 week launcher pallet shipping; expected delivery second week of February 2025.
 - **December 11, 2024**: Estimates approved.
 - No tasks completed to date.
 
 ## Notes & Context
 - **Insurance-funded replacement** for two damaged S2 units; one S3 includes **$10k discount** (5% insurance deductible applied to total).
-- **Operator Training Travel — URGENT**: August 11–13, 2025 training logistics (flights, accommodations) **must be scheduled immediately**. Coordinate with Dan Prendergast and Kevin Rozmiarek.
+- **Operator Training Travel — URGENT**: August 11–13, 2025 training logistics (flights, accommodations) **must be scheduled immediately**. Travel Scheduled field = N; coordinate with Dan Prendergast and Kevin Rozmiarek. **Less than 4 months away.**
 - **Primary & Billing Contact**: Kevin Rozmiarek, CU Stable Isotope Lab, 4001 Discovery Dr., Boulder, CO 80303; Kevin.rozmiarek@colorado.edu; (512) 573-8279.
 - **Project Priority**: Medium | **Customer Type**: Commercial
 - **Products**: 2× S3 units with standard equipment
-- **Note**: Asana project due date field shows May 16, 2025, but confirmed delivery target is **February 27, 2026** per task structure and Josh Fromm ownership. February 27, 2026 is the operative deadline.
+- **Note**: Asana project metadata shows due date 2025-05-16, but confirmed delivery target per task structure is **February 27, 2026** (Josh Fromm owns delivery task with this date). February 27, 2026 is the operative deadline.

@@ -1,81 +1,60 @@
 # Slack Channels Overview
 
-Last scanned: 2026-06-17 02:19
+Last scanned: 2026-06-18 02:19
 
-Total channels scanned: 9
+Total channels scanned: 8
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 9 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#25_1-navy-sttr-boundary-layer** -- 1 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
-- **#emass-bst** -- 1 messages -- [emass-bst.md](emass-bst.md)
-- **#general** -- 4 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 4 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#s0-vtol** -- 15 messages -- [s0-vtol.md](s0-vtol.md)
-- **#s3** -- 28 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 3 messages -- [sbir-hurricane.md](sbir-hurricane.md)
-- **#swiftcore** -- 2 messages -- [swiftcore.md](swiftcore.md)
+- **#25_1-navy-sttr-boundary-layer** -- 2 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
+- **#commercial-sales** -- 5 messages -- [commercial-sales.md](commercial-sales.md)
+- **#emass-bst** -- 2 messages -- [emass-bst.md](emass-bst.md)
+- **#flight-testing** -- 7 messages -- [flight-testing.md](flight-testing.md)
+- **#general** -- 6 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 10 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#s3** -- 26 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 5 messages -- [sbir-hurricane.md](sbir-hurricane.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Cross-Channel Strategic Overview
+# Black Swift Technologies - Strategic Channel Overview
 
-## Active Projects
+## Cross-Channel Themes
 
-**Government Research & Development (Primary Focus)**
-- **SBIR Hurricane (S0 UAS)**: Long-running reconnaissance aircraft program; core platform for multiple government initiatives
-- **Navy SBIR Magnetometer**: Integration of QuSpin magnetometers for magnetic anomaly detection (MAD)
-- **Navy STTR Boundary Layer**: Atmospheric sensing capabilities for tropical cyclones and high wind environments
-- **eMASS AI Integration**: Energy management system (ECSDoT) deployment on E2 aircraft platform
+### Active Projects & Product Lines
+- **S-Series Aircraft (Primary Focus)**: S0 (fixed-wing reconnaissance), S1-VTOL, S3 (hybrid VTOL with 2-3 hour endurance) actively developed across #s3, #flight-testing, #sbir-hurricane
+- **E2 Platform**: Multirotor system being enhanced with eMASS AI energy management (ECSDoT hardware) in #emass-bst
+- **Government Programs**: SBIR Hurricane project (#sbir-hurricane) and Navy STTR boundary layer measurements (#25_1-navy-sttr-boundary-layer) driving core R&D
+- **Commercial Operations**: E2, S2, S3, S0 systems in customer delivery pipeline (#commercial-sales)
 
-**Product Development (Secondary Focus)**
-- **S3 VTOL**: Hybrid fixed-wing/quadcopter with tilting rotors; 2-3 hour endurance target
-- **S0 VTOL**: Vertical takeoff/landing platform with forward flight transition capability
-- **SwiftCore**: Core firmware/control system serving as technical backbone across platforms
+### Key People & Roles
+| Person | Primary Role(s) |
+|--------|-----------------|
+| **Jack Elston** | Leadership, systems architecture, proposal decisions, autopilot/firmware expertise |
+| **Joshua Fromm** | Lead engineer/designer (S3), QA, component sourcing |
+| **Maciej** | Project oversight, flight testing lead, technical proposal support, control systems |
+| **Dan Prendergast** | Business development, operations, budget oversight |
+| **Meredith Needham** | Navy liaison, budget/administrative management |
+| **Nikhila (eMASS AI)** | Primary external developer for energy management integration |
 
-## Key People & Roles
+### Decision Patterns
+1. **Technical-First Approach**: Flight testing (#flight-testing) and engineering discussions drive priority allocation
+2. **Government-Led Strategy**: SBIR/STTR programs (#sbir-hurricane, #25_1-navy-sttr-boundary-layer) structure product development roadmap
+3. **Collaborative Leadership**: Jack Elston makes final decisions on proposals/funding; Maciej provides technical validation; Dan handles operational logistics
+4. **Hardware-Software Integration Focus**: ECSDoT, autopilot systems, and payload capabilities integrated iteratively across channels
 
-| Role | Primary Contacts |
-|------|------------------|
-| **Leadership/Decision-Making** | Jack Elston (primary), Joshua Fromm (technical lead) |
-| **Technical Architecture** | Jack Elston (firmware/autopilot), Joshua Fromm (design), Sam Hild (firmware) |
-| **Project Management** | Maciej (oversight), Beck Cotter (operations) |
-| **Business/Funding** | Dan Prendergast (operations), Meredith Needham (budget/admin) |
-| **Flight Operations** | Danny Troke, Alex Lomis, Nate |
-| **External Collaborators** | Nikhila (eMASS AI), Meredith Needham (Navy liaison) |
+### Recurring Topics Across Channels
+- **Flight Testing & Firmware**: Common thread across #flight-testing, #s3, #sbir-hurricane, #25_1-navy-sttr-boundary-layer
+- **Budget & Proposal Management**: #grants-and-funding drives funding; cascades to operational plans in #general and #commercial-sales
+- **Atmospheric Sensing Capabilities**: Navy STTR boundary layer work (#25_1-navy-sttr-boundary-layer) and Hurricane reconnaissance (#sbir-hurricane) share sensor/platform requirements
+- **Endurance & VTOL Development**: S3 hybrid design and Navy STTR platform development intersect on rotorcraft capabilities
 
-## Decision Patterns
+### Channel Interconnections
+- **#sbir-hurricane ↔ #flight-testing**: Flight test results validate Hurricane mission requirements
+- **#25_1-navy-sttr-boundary-layer ↔ #s3**: Both develop advanced atmospheric UAS capabilities (boundary layer on S0, VTOL integration)
+- **#grants-and-funding ↔ #general**: Funding awards announced company-wide; shape resource allocation
+- **#emass-bst ↔ #commercial-sales**: E2 platform enhancement (energy management) supports commercial delivery pipeline
+- **#s3 ↔ #flight-testing**: S3 VTOL testing and development feedback loop
 
-1. **Technical gatekeeping**: Jack Elston reviews/approves major technical and funding decisions
-2. **Iterative hardware development**: Hardware debugging and flight testing inform rapid design iterations
-3. **Government-centric strategy**: Heavy focus on SBIR/STTR contracts; grant pursuit is continuous
-4. **Platform modularity**: Core SwiftCore system adapted across S0, S3, and customer aircraft
-5. **Integrated testing approach**: Flight testing data drives firmware updates and hardware improvements
-
-## Recurring Topics & Themes
-
-| Theme | Details |
-|-------|---------|
-| **Flight Testing** | Frequent test coordination, hardware debugging, control system refinement across all platforms |
-| **Firmware Development** | Continuous SwiftCore updates; bug fixes and feature implementation shared across projects |
-| **Hardware Integration** | Sensor/payload integration (magnetometers, weather instruments, energy systems); compatibility challenges |
-| **Proposal & Funding** | Ongoing grant submissions; budget tracking; funding strategy alignment with technical roadmap |
-| **Delivery & Operations** | Customer preparation, deployment logistics, field operations coordination |
-
-## Cross-Channel Connections
-
-**Platform Ecosystem**: S0 VTOL serves as the foundational platform for SBIR Hurricane, Navy magnetometer, and boundary layer projects; S3 represents next-generation capability; all rely on SwiftCore firmware foundation
-
-**Technical Stack Reuse**: SwiftCore firmware and autopilot systems deployed across S0, S3, and E2 aircraft; Jack Elston's expertise spans all platforms
-
-**Funding Dependencies**: Navy SBIR/STTR projects fund S0 and S3 development; grants-and-funding channel drives resource allocation; success metrics tied to flight test achievements
-
-**Talent Concentration**: Core technical team (Jack Elston, Joshua Fromm, Maciej, Sam Hild) appear across multiple channels; decisions bottleneck through limited personnel
-
-**Government Integration**: Navy liaison (Meredith Needham) participates in boundary layer and grant channels; requirements flow from federal programs to product development
-
-## Risk Indicators
-
-- **Key person dependency**: Jack Elston appears in every major decision across funding, technical architecture, and operations
-- **Resource constraints**: Same core team stretched across 5+ active projects
-- **Integration complexity**: Multiple hardware payloads (magnetometers, sensors, energy systems) requiring concurrent development
+### Organizational Focus
+BST is balancing **government R&D contracts** (SBIR/STTR driving innovation) with **commercial sales execution**, using a small core team (8-12 key people) spread across overlapping projects. Leadership (Jack Elston/Maciej) is heavily involved in both technical decisions and proposal strategy.

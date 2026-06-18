@@ -21,7 +21,7 @@
 - **Payload Modifications (3 payloads + gimbal):** **In final stages** (Joshua Fromm, 2026-06-02/03). Parts arriving end of week. DB9 rewiring is primary remaining task. **Expected completion: within 1 day or less.** *(Per Joshua Fromm feedback, 2026-06-02/03)*
 - **S2 Aircraft Rental (2 units, S0 VTOL):** Order due 2026-06-01; training/travel required; **travel not yet scheduled** (Jack Elston)
 - **Battery Shipment:** **Already dispatched to Mexico** with permanent import status (per Daniel Prendergast, 2026-05-27/28); no ECCN obtained; customs broker documentation (Javi) on file. **Verify destination with Dr. Masri to confirm alignment with project scope.**
-- **Flight #4 Funding Confirmation:** Due 2026-06-29 (Beck Cotter); $31k available from Dr. Masri's July 2025 offer
+- **Flight #4 Funding Confirmation:** Due 2026-06-29 (Beck Cotter); $31k available from Dr. Masri
 
 ## Task Summary
 - **Total tasks:** 8 open, 0 completed
@@ -36,7 +36,7 @@
   - **Maciej Stachura:** 1 open task
     - Update overlap to 80% for FLIR and A5100 (no due date)
   - **Unassigned:** 2 entries
-    - Flight #3 milestone (Due: 2026-03-02 — **note: Asana due date appears stale; actual due is 2026-05-27 per task below**)
+    - Flight #3 milestone (Due: 2026-03-02 — note: Asana due date appears stale; actual execution due is 2026-05-27 per Beck Cotter's task)
     - Bassil El Masri contact card (High priority; no due date)
 
 ## Recent Activity
@@ -51,8 +51,8 @@
 
 ## Notes & Context
 - **Research focus:** Methane emissions from wetlands and bottomland hardwood forests; using remote sensing to upscale site measurements to larger geographic areas
-- **Field location:** 7192 State Route 307 North, Fancy Farm, KY (landowner Joe Wilson, cwilson0036@gmail.com)
-- **Budget & funding:** $86,862.94 total committed; additional $31k available (offered July 2025) pending Flight #4 confirmation due 2026-06-29. Project required competitive bidding due to >$10k threshold.
+- **Field location:** 7192 State Route 307 North, Fancy Farm, KY (landowner Joe Wilson, cwilson0036@gmail.com); Murray State University campus: 415 Blackburn, Murray, KY 42071
+- **Budget & funding:** $86,862.94 total committed; additional $31k available pending Flight #4 confirmation due 2026-06-29. Project required competitive bidding due to >$10k threshold.
 - **Products/Services:** S2, Survey Services, Aircraft Rental (S0 VTOL), Other
 - **Customer type:** Commercial; no subcontractors
 - **Priority:** Low
@@ -64,4 +64,4 @@
   - Camera overlap (FLIR + A5100) target 80% pending Maciej Stachura configuration update
   - Methane payload data rate investigation pending (Jack Elston)
   - **Payload modifications in final stages** (Joshua Fromm, 2026-06-02/03); parts arriving end of week; expected completion within 1 day or less
-- **Scheduling context:** Project competes with INSTAAR x2 and Ottawa demo projects for resource allocation. Execution order determined by "whatever actually happens first" (Jack Elston, 2026-04-20).
+- **Scheduling context:** Project competes with INSTAAR x2 and Ottawa demo projects for resource allocation. Execution order determined by "whatever actually happens first" (Jack Elston, 
