@@ -2,7 +2,7 @@
 
 Only 4 emails found in scanned period.
 
-- Tue, 16 Jun 2026 13:25:38 -0700: Your Steam account: Email address change request (from: "'Steam Support' via Administration" <admin@blackswifttech.com>)
-- Tue, 16 Jun 2026 12:01:50 -0700: Alert: Gmail potential employee spoofing  from  Jack Elston <elstonj@gmail.com> (from: Google Workspace Alerts <google-workspace-alerts-noreply@google.com>)
-- Tue, 16 Jun 2026 15:00:45 -0400: Dropping by Black Swift Technologies (from: Spencer Morrison <s.morrison@localmerchantserviceprovider.com>)
-- Tue, 16 Jun 2026 09:28:56 -0400: Your internet can do more for you this year (from: "AT&T Business" <business@responses.att-mail.com>)
+- Wed, 17 Jun 2026 23:13:29 +0000: Notes: “Org Chart Meeting” Jun 17, 2026 (from: Gemini <gemini-notes@google.com>)
+- Wed, 17 Jun 2026 22:47:23 +0000: Notes: “Org Chart Meeting” Jun 17, 2026 (from: Gemini <gemini-notes@google.com>)
+- Wed, 17 Jun 2026 22:39:30 +0000: Invitation: Org Chart Meeting @ Wed Jun 17, 2026 4:30pm - 4:45pm (MDT) (Ben Busby) (from: Jack Elston <elstonj@blackswifttech.com>)
+- Wed, 17 Jun 2026 06:53:32 -0600: Now Online: A new Explanation of Benefits is available (from: UnitedHealthcare Notifications <Notifications@edelivery.uhc.com>)

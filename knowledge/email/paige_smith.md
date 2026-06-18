@@ -1,13 +1,13 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,662 (2,587 previous + 75 new from Jun 16-17, 2026)
-- **Date range:** March 24 – June 17, 2026 (86 days)
-- **Approximate volume:** ~30.9 messages per day (sustained consistency)
-- **Pattern update (Jun 16-17, 2026):** **INTENSIVE KRATEO SKY EVENT COORDINATION & PARTNERSHIP ACTIVATION**
-  - **~73% automation/newsletters/media/tool notifications** (55 of 75 messages)
-  - **~27% professional correspondence & business-critical items** (20 of 75 messages)
-  - **SIGNAL: Mid-week event sprint** — Rapid multi-threaded coordination on partnership event agenda finalization, printing/collateral logistics, and cross-partner stakeholder alignment (Sona Raziabeegum, Kathi Healy, Jack Elston). High volume of IMPORTANT-flagged emails clustered around "Tentative Agenda" negotiation cycle.
+- **Total messages scanned:** 2,740 (2,662 previous + 78 new from Jun 17-18, 2026)
+- **Date range:** March 24 – June 18, 2026 (87 days)
+- **Approximate volume:** ~31.5 messages per day (sustained consistency)
+- **Pattern update (Jun 17-18, 2026):** **EVENT EXECUTION PHASE + PARTNERSHIP ESCALATION**
+  - **~77% automation/newsletters/media/tool notifications** (60 of 78 messages)
+  - **~23% professional correspondence & business-critical items** (18 of 78 messages)
+  - **SIGNAL: Post-event sprint continuation** — Rapid finalization of event collateral (printing edits/approvals), agenda revisions, logo coordination across Krateo Sky/RMI Select partnership. Jeremy Van Vliet (Rubicon) escalation signal with direct IMPORTANT replies. Shift toward operational execution (print vendor coordination, internal task tracking via Asana/Rippling) suggests event moving into final 48-72 hours before execution.
 
 ---
 
@@ -15,74 +15,72 @@
 
 ### Top Internal Senders & Collaborators
 
-- **Jack Elston** (elstonj@blackswifttech.com, elstonj@gmail.com, media@blackswifttech.com) — **BUSINESS DEVELOPMENT, MEDIA STRATEGY, VENDOR ROUTING, EVENT COORDINATION** 
-  - **Jun 16-17: 12+ sequential exchanges** on "BST x KS Event Updates" and agenda coordination with Kathi Healy
-  - **Jun 16:** Forwarded onsemi Drone Webinar 6/25 invitation (marked IMPORTANT)
-  - **Jun 16:** Forwarded Verde Boulder vacation schedule (personal/team coordination)
-  - **Pattern:** Primary internal collaborator on Krateo Sky partnership; acting as conduit between RMI Select (Kathi) and BST stakeholders
+- **Jack Elston** (elstonj@blackswifttech.com, elstonj@gmail.com, media@blackswifttech.com) — **BUSINESS DEVELOPMENT, MEDIA STRATEGY, VENDOR ROUTING, EVENT COORDINATION**
+  - **Previous activity maintained; no new direct messages in this batch**
+  - **NOTE:** Receives UAS VISION industry news (russ@uasvision.com) routed to media@blackswifttech.com on Jun 17, 08:31 UTC — confirms Jack as media/industry intel hub
 
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — **MARKETING/COMMUNICATIONS (Media Approval Authority)**
-  - [Previous activity from Jun 15 maintained; no new messages in this batch]
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — **AEROPOD WEBSITE PROJECT + OPERATIONAL COORDINATION**
+  - **Jun 17, 10:42 UTC:** Paige forwards Target order confirmation (Order #102003539718221) to Meredith
+  - **SIGNAL:** Shared logistics/procurement coordination; suggests Meredith may be handling event collateral materials or shared administrative tasks
+  - **Previous:** Co-recipient on Aeropod Website V.1 meetings (Jul 9, 2026)
 
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — **NEW IDENTIFIED COLLABORATOR (Aeropod Website Project)**
-  - **Jun 16:** Co-recipient on calendar invitations from Ted Miles (geoff@aerokats.com) for "Aeropod Website V.1" meeting Jul 9, 2026 11am-12pm MDT
-  - **STATUS:** Multi-stakeholder product/website development coordination
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — **CAPITAL/INVESTMENT INQUIRY LIAISON**
+  - **Jun 17, 11:34 UTC:** IMPORTANT reply to Paige on "Connecting Emerging Aviation Start-ups with Capital Inquiry"
+  - **Jun 17, 11:30 UTC:** Paige responds to Beck on same topic (marked SENT)
+  - **STATUS:** Investment/funding inquiry being routed internally; Beck appears to handle capital partnerships or investor relations
 
 ### Top External Senders & Vendors
 
-#### **KRATEO SKY × BST (ESCALATING TO EXECUTION PHASE)**
+#### **KRATEO SKY × BST (FINAL EXECUTION PHASE)**
 
 1. **Kathi Healy** (kathi@rmiselect.com) — **RMI SELECT / EVENT COORDINATION & DESIGN**
-   - **Jun 16-17: 10+ IMPORTANT sequential exchanges** on "BST x KS Event Updates" and "Tentative Agenda"
-   - **Jun 17, 01:04 UTC:** Latest IMPORTANT reply to Paige on agenda finalization
-   - **Jun 16, 18:05 UTC:** Kathi responds to Paige on "Tentative Agenda" (marked IMPORTANT)
-   - **Jun 16, 13:53 UTC:** Earlier agenda exchange (marked IMPORTANT)
-   - **Jun 16, 13:37 UTC & 13:25 UTC & 13:19 UTC:** Series of rapid IMPORTANT updates to Jack Elston (cc'd to Paige)
-   - **STATUS:** Event planning entering final coordination phase; high-frequency, time-sensitive communication; multiple agenda iterations suggest active negotiation on event structure/speakers/messaging
-   - **SIGNAL:** RMI Select owns logistics/design execution; Paige and Jack managing BST's partnership commitments and content prep
+   - **Jun 17, 09:34 UTC:** IMPORTANT reply to Paige on "Re: Tentative Agenda"
+   - **Jun 17, 09:57 UTC:** IMPORTANT reply to Paige on "Re: Tentative Agenda"
+   - **Jun 17, 10:06 UTC & 10:05 UTC:** 2 responses from Paige to Kathi on agenda (marked SENT)
+   - **Jun 17, 14:47 UTC & 14:55 UTC:** Paige exchanges on "Logo" and "revised agenda" (marked SENT)
+   - **STATUS:** Final agenda/logo approvals cycling Jun 17 morning-afternoon; suggests graphic/content finalization underway
 
 2. **Sona Raziabeegum** (sona@krateosky.com) — **KRATEO SKY / PARTNERSHIP STAKEHOLDER**
-   - **Jun 17, 01:41 UTC & 01:37 UTC:** 2 consecutive IMPORTANT replies to Paige on agenda (marked IMPORTANT)
-   - **Jun 16, 22:58 UTC:** IMPORTANT reply to Paige + Kathi on "RE: Tentative Agenda"
-   - **Jun 16, 19:51 UTC:** IMPORTANT reply to Paige + Kathi on agenda
-   - **Jun 16:** Earlier coordination (from previous batch)
-   - **STATUS:** Krateo Sky actively engaged in final event preparation; rapid back-and-forth suggests agenda content/speaker slots/timing finalizations underway
-   - **SIGNAL:** Sona appears to be Krateo Sky's primary event stakeholder; parallel communication with both RMI Select (Kathi) and BST (Paige/Jack)
+   - **Jun 17, 10:53 UTC:** Paige responds to Sona on "Re: Tentative Agenda" (marked SENT)
+   - **Jun 17, 14:55 UTC:** Paige sends "revised agenda" to Sona + Kathi (marked SENT)
+   - **Jun 17, 22:56 UTC:** **NEW CRITICAL REQUEST** — Sona sends IMPORTANT message to Paige: "Please print - 3 copies each of both documents"
+     - **SIGNAL:** Physical materials being finalized; "both documents" reference (likely agenda + collateral); tight timeline implied
+     - **TIME STAMP:** Late evening (22:56 UTC = 4:56 PM MDT) suggests urgent end-of-day request
 
-#### **RUBICON AEROSPACE (ACTIVE MARKETING COLLABORATION)**
+#### **RUBICON AEROSPACE (PARTNERSHIP ESCALATION)**
 
-3. **Jeremy Van Vliet** (jeremy@rubiconaerospace.com) — **RUBICON AEROSPACE (NEW DIRECT CONTACT)**
-   - **Jun 16, 16:17 UTC:** Direct email from Paige to Jeremy with subject "Marketing Collab" (marked SENT)
-   - **SIGNAL:** Paige initiating direct partnership communication beyond Lee Skidmore; suggests escalation or expanded scope of collaboration discussion
-   - **STATUS:** Marketing partnership under active development; Paige now primary point of contact with Rubicon leadership on partnership strategy
+3. **Jeremy Van Vliet** (jeremy@rubiconaerospace.com) — **RUBICON AEROSPACE / DIRECT PARTNERSHIP LEAD**
+   - **Jun 17, 14:53 UTC:** IMPORTANT reply to Paige on "Re: Marketing Collab"
+   - **Jun 17, 14:49 UTC+:** Earlier coordination on "Marketing Collab"
+   - **Jun 18, 00:08 UTC:** **NEW UNREAD IMPORTANT REPLY** — Jeremy responds again to Paige on "Re: Marketing Collab"
+     - **SIGNAL:** Late-night (12:08 AM UTC) response suggests urgent/high-priority partnership discussion; multi-turn rapid back-and-forth indicates active negotiation or decision-making in progress
 
-#### **PRINT/COLLATERAL LOGISTICS**
+4. **Lee Skidmore** (lee@rubiconaerospace.com) — **RUBICON AEROSPACE / PARTNERSHIP MANAGEMENT**
+   - **Jun 17, 16:52 UTC:** IMPORTANT reply to Jeremy Van Vliet + Paige on "Re: Marketing Collab"
+   - **Jun 17, 11:25 UTC:** Paige replies to Lee on "Re: Marketing Collab" (marked SENT)
+   - **STATUS:** Senior Rubicon leadership (Lee) now actively engaged in marketing partnership discussion; three-way coordination (Lee, Jeremy, Paige) suggests escalation to deal-level approval
 
-4. **Randy / Center Copy Printing** (randy@centercopyprinting.com) — **RUSH PRINTING VENDOR**
-   - **Jun 16, 22:55 UTC:** IMPORTANT reply from Randy acknowledging rush order status
-   - **Jun 16, 22:43 UTC:** Automated confirmation email (IMPORTANT, CATEGORY_UPDATES)
-   - **Jun 16, 18:04 UTC:** Paige sends rush order response (marked SENT)
-   - **STATUS:** Time-critical printing execution in progress; suggests event collateral (brochures, signage, materials) being produced for imminent event
-   - **SIGNAL:** Event logistics entering physical production phase; Paige managing vendor execution for event assets
+#### **PRINT/COLLATERAL LOGISTICS (ACCELERATING)**
 
-#### **MEDIA & INDUSTRY OUTREACH**
+5. **Randy / Center Copy Printing** (randy@centercopyprinting.com) — **RUSH PRINTING VENDOR**
+   - **Jun 17, 14:03 UTC:** IMPORTANT reply from Randy confirming rush order status
+   - **Jun 17, 10:22 UTC:** Paige sends file edits to Randy (marked SENT)
+   - **Jun 17, 10:03 UTC & 09:50 UTC:** Earlier Paige coordination with Randy on "Edit File" (marked SENT)
+   - **Jun 17, 15:59 UTC & 16:10 UTC:** IMPORTANT Randy replies on "RE: Edit File" (2 messages)
+   - **Jun 17, 09:42 UTC:** Paige responds to Randy on "(Center Copy Printing) Rush Order" (marked SENT)
+   - **STATUS:** Multi-iteration printing workflow on Jun 17 — file edits, corrections, rush confirmations cycling throughout morning/afternoon
+   - **SIGNAL:** Event collateral production in final refinement loop; 7+ coordinated exchanges suggest high-stakes delivery deadline
 
-5. **Ted Miles** (ted59@msn.com) — **AEROPOD WEBSITE PROJECT STAKEHOLDER**
-   - **Jun 16, 16:11 UTC & 15:52 UTC:** 2 IMPORTANT calendar/meeting coordination emails (Aeropod Website meetings)
-   - **Jun 16, 14:27 UTC:** Paige confirms attendance to Aeropod Website meeting (marked SENT)
-   - **Co-participants:** geoff (gb.aerokats@gmail.com), geodronez@gmail.com, Meredith Needham
-   - **Upcoming meetings:** Tuesday 6/16 3:30pm-4:30pm EDT; Thursday 7/9 11am-12pm MDT
-   - **STATUS:** Multi-phase website development project with external contractor (geoff) and BST internal team (Meredith, Paige)
-   - **SIGNAL:** Paige involved in product/marketing website development alongside business development focus
+#### **MEDIA & INDUSTRY OUTREACH (SECONDARY ACTIVITIES)**
 
-6. **Commercial UAV Expo** (info@expouav.com) — **INDUSTRY CONFERENCE OUTREACH**
-   - **Jun 16, 09:02 UTC:** Inquiry "Do you serve first responders?" (marked UNREAD, CATEGORY_UPDATES)
-   - **STATUS:** Expo organizers seeking BST participation/visibility; suggests first responder UAV solutions may be BST market segment
+6. **Terence Gannon** (terryg@blufly.media) — **BLUFLY MEDIA / NOAA APPLICATION SUPPORT**
+   - **Jun 17, 11:21 UTC:** Paige sends response to Terence on "Re: Question re. NOAA Application of S0" (marked SENT)
+   - **STATUS:** Ongoing NOAA regulatory/application inquiry; Blue Fly Media appears to be external technical/media partner
 
-#### **MARLA DEFOE / BBI INTERNATIONAL**
+7. **Commercial UAV Expo** (info@expouav.com) — **INDUSTRY CONFERENCE / SPEAKER OUTREACH**
+   - **Jun 17, 09:02 UTC:** New promotional email — "These six sessions don't have a speaker. They have you." (CATEGORY_PROMOTIONS)
+   - **SIGNAL:** Follow-up recruitment for BST speaker/panel participation; suggests previous inquiry from Jun 16 being followed up with speaker opportunity pitch
 
-7. **Marla DeFoe** (mdefoe@bbiinternational.com) — **UAS SUMMIT & EXPO / PITCH DAY**
-   - **Jun 16, 16:40 UTC:** Paige drafts email to Marla with subject "Pitch Day Application" (marked DRAFT)
-   - **Jun 16, 19:01 UTC:** Related email from "UAS Summit & Expo" (noreply@bbiinternational.com) promoting investor pitch opportunities
-   - **STATUS:** BST considering or submitting pitch day application to UAS Summit investor forum
-   - **SIGNAL:**
+---
+
+## Topic

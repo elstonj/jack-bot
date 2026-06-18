@@ -8,7 +8,7 @@
 - **Team members involved:** Nate Straus (owner), Maciej Stachura, Joshua Fromm, Jack Elston, Meredith O'hara Needham, Brian Argrow (CU-IRISS customer contact)
 - **Risk signals:**
   - **S3 design freeze missed** — May 2026 target now overdue; Maciej's "immediate due dates" for S3 did not materialize into captured Asana tasks
-  - **Design task ownership explicitly disputed** — Joshua Fromm, 2026-06-01: "I have no records of being tasked with customer documentation on the s3" (overrides Maciej's April 30 task requests)
+  - **Design task ownership explicitly disputed** — Joshua Fromm (2026-06-01, team feedback, stated twice): "I have no records of being tasked with customer documentation on the s3" (overrides Maciej's April 30 task requests)
   - **S3 customer delivery now active without documented owner or timeline** — Commercial-sales stub created 2026-06-01 by Joshua Fromm for "2 S3 units with standard equipment" for INSTAAR; `ship_by` date empty; invoice pending; no delivery owner assigned
   - **Asana task list completely empty** — 0 open, 0 completed tasks visible despite multi-phase active project and overdue S3 milestone
   - **CU-IRISS S2 training flight coordination pending** — S2 repair completed; training flight scheduling and NSF MUSAS certification update still in progress
@@ -32,7 +32,7 @@
   - Jack Elston (role TBD)
 - **Notable patterns:**
   - **No tasks visible in Asana** despite active multi-phase, multi-client operations across 2024–2026
-  - **Critical task assignment dispute (Joshua Fromm, 2026-06-01):** "I have no records of being tasked with customer documentation on the s3"
+  - **Critical task assignment dispute (Joshua Fromm, 2026-06-01, team feedback):** "I have no records of being tasked with customer documentation on the s3" (stated twice)
   - **Missing from Asana:**
     - S3 design tasks (battery, case, other components) — ownership and scope undefined following Josh Fromm's 2026-06-01 dispute
     - S3 build phase major tasks — owner never confirmed
@@ -42,7 +42,7 @@
 ## Recent Activity
 **[2026-06-01] Joshua Fromm (AUTHORITATIVE TEAM FEEDBACK — overrides Maciej's April 30 task requests):** 
 - Created commercial-sales stub for "2 S3 units with standard equipment" (INSTAAR customer); `ship_by` date empty; invoice pending ("can you just attach the invoice for instaar?")
-- **Explicitly disputes S3 customer documentation assignment** (stated twice): "I have no records of being tasked with customer documentation on the s3"
+- **Explicitly disputes S3 customer documentation assignment** (stated twice in team feedback): "I have no records of being tasked with customer documentation on the s3"
 
 **Critical gap:** Maciej Stachura's 2026-04-30 request for Josh to add S3 design tasks by end of May did not result in captured Asana work items. Josh's 2026-06-01 response (team feedback) indicates misalignment or rejection of task assignments.
 
@@ -62,4 +62,4 @@
 **Key contacts:**
 - **Nate Straus** — [001-12] project owner; CU-IRISS repair/training owner
 - **Maciej Stachura** — S3 build coordination & project tracking owner (April 30 task requests stalled)
-- **Joshua Fromm** — S3 design/customer documentation (assignment explicitly disputed via team feedback, 2026-06
+- **Joshua Fromm** — S3 design/

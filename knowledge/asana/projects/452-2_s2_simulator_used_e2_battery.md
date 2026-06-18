@@ -4,7 +4,7 @@
 - **Client/Customer:** Dan Hesselius at CU Boulder
 - **Dollar Value:** $3,900 (payment received 2026-05-25)
 - **Timeline:** Due 2026-06-30 (32 days from payment receipt)
-- **Status:** In fulfillment with **critical export compliance gaps** — E2 Battery shipped to Mexico without ECCN; import classification and fee structure unconfirmed
+- **Status:** **In fulfillment with critical export compliance gaps** — E2 Battery shipped to Mexico without ECCN; import classification and fee structure unconfirmed. S2 Simulator shipment status unknown.
 - **Project Owner:** Meredith O'hara Needham
 - **Customer Type:** Commercial
 - **Priority:** Medium

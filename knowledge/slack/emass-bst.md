@@ -8,12 +8,12 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Jack Elston (BST) - Autopilot/simulation expertise, hardware integration guidance, protocol specification, flight testing, data analysis
 - Dan Prendergast (BST) - Flight test coordination, E2 aircraft management, hardware setup lead, simulator testing
 - Mohamed M. Sabry (eMASS AI) - AI model training and constraint optimization, PPO (Proximal Policy Optimization) control strategy, project timeline management
-- Moe/Prof. Moe (eMASS AI) - AI model training and optimization (appears to be same as Mohamed M. Sabry)
+- Moe/Prof. Moe (eMASS AI) - AI model training and optimization (same as Mohamed M. Sabry)
 - Maciej (BST) - Vehicle parameters and specifications
 - Sergio Ruocco (eMASS AI) - Autoboot firmware expert, SDK bring-up and troubleshooting
 - Shantanu (eMASS AI) - Hardware verification and validation
 
-**Activity Level:** Highly active collaboration spanning February-April 2026, with continued intensive activity through May 2026 focused on flight testing and controller refinement. Critical first-flight test completed on Apr 24, 2026. Sustained high activity through June 2026 with iterative testing cycles, binary variants, parameter refinement, and comparative performance evaluation protocols. Most recent activity (June 16, 2026) indicates preparation for Monday flight testing with multiple binary variants ready for deployment.
+**Activity Level:** Highly active collaboration spanning February-April 2026, with continued intensive activity through May 2026 focused on flight testing and controller refinement. Critical first-flight test completed on Apr 24, 2026. Sustained high activity through June 2026 with iterative testing cycles, binary variants, parameter refinement, and comparative performance evaluation protocols. Most recent activity (June 17, 2026) indicates continued preparation for Thursday flight testing with multiple controller variants and refined waypoint strategies.
 
 ---
 

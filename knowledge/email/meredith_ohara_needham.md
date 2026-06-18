@@ -1,118 +1,124 @@
 # Meredith O'hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 95 emails (updated from 61)
-- **Date range:** June 15–17, 2026 (3 days)
-- **Approximate volume:** ~32 emails/day
-- **Trend:** Sustained high volume consistent with prior sample; mix of vendor confirmations, task assignments, travel logistics, and direct stakeholder engagement
+- **Total messages scanned:** 136 emails (updated from 95)
+- **Date range:** June 15–18, 2026 (4 days)
+- **Approximate volume:** ~34 emails/day
+- **Trend:** Sustained high volume; active procurement, HR/payroll system setup, travel coordination, and Rubicon Aerospace S0 component delivery confirmation
+
+---
 
 ## Key Correspondents
 
 ### Incoming (by frequency)
-1. **Purchasing system** (`purchasing@blackswifttech.com`) — 30+ messages (vendor confirmations, invoices, shipping, promotional offers)
-   - **Vendor sources routed through purchasing:**
-     - DigiKey (2 shipment notices, 2 PO acknowledgements)
-     - Mouser Electronics (2 shipment + order confirmation)
-     - McMaster-Carr (3 confirmations/tracking)
-     - Amazon (2 order/shipment notifications)
-     - UPS (3 delivery notifications)
-     - ServoCity, BatterySpace, Budget Rent A Car, Hampton by Hilton, Expedia, Pirate Ship (1-4 each)
 
-2. **Lee Skidmore** (`lee@rubiconaerospace.com`) — 5 messages (S0 Deploy Tubes shipping coordination)
-   - **Co-recipient:** Joshua Fromm, Jeremy Van Vliet
+**Automated Systems & Purchasing Routing:**
+1. **Purchasing system** (`purchasing@blackswifttech.com`) — 35+ messages
+   - Vendor confirmations routed through: DigiKey, Mouser, McMaster-Carr, Amazon, UPS, ServoCity, SendCutSend, SkyGeek
+   - **New vendors added:** AMain Hobbies (customer rewards), Spindrift (promotional), SkyGeek (aircraft supplies)
 
-3. **Chad Atwood** (`chad@theaiginc.com`) — 5 messages (Survey discussion thread)
-   - **Pattern:** Multi-party chain with Meredith and Jack Elston
+2. **QuickBooks notifications** (`quickbooks@notification.intuit.com`) — 3 messages
+   - Bill payment scheduling (2x)
+   - Rubicon Aerospace LLC payment request (invoice 1010)
 
-4. **Jack Elston** (`elstonj@blackswifttech.com`) — 4 direct messages + multiple forwarded/chain participation
-   - Covers: Budget car rental coordination, SECURE 2.0 Amendment, survey forwarding, travel planning
+3. **Rippling HR/Payroll system** (`no-reply@rippling.com`, `support@rippling.com`) — 6+ messages
+   - **Amendment submissions ready** (payroll/benefits)
+   - Employee classification & tax status corrections (multi-thread with Meredith responding 3x on Jun 17)
+   - Benefits enrollment/amendment workflow in progress
 
-5. **Debbie Rampy** (`debbie@bolderins.com`) — 4 messages (Insurance policy documentation & updates)
+4. **Operations system** (`operations@blackswifttech.com`) — 3 messages
+   - Invoice payment notifications
+   - PO/Change Order alerts
+   - Facility/lease notifications
 
-6. **Tanay Topac** (`tanaytopac@stanford.edu`, `tanaytopac@gmail.com`) — 2 messages (MHP data alignment - cross-org collaboration with Nathaniel Straus, Maciej Stachura)
+5. **Asana** (`no-reply@asana.com`) — 2 messages (task management notifications)
 
-7. **Asana** (`no-reply@asana.com`) — 1 unread notifications batch
+**Human Contacts:**
+
+6. **Jeremy Van Vliet** (`jeremy@rubiconaerospace.com`) — 1 message
+   - **Subject:** "Re: Rubicon - S0 Deploy Tubes Shipped" (direct discussion with Lee Skidmore copied)
+   - **Context:** Follow-up on shipped S0 component delivery
+
+7. **Tanay Topac** (`tanaytopac@stanford.edu`) — 2 messages
+   - **Subject:** "Re: MHP data alignment"
+   - **Pattern:** Cross-org collaboration; also cc'd to Maciej Stachura (internal) and Nathaniel Straus (internal)
+   - **Indicates:** Ongoing multi-party data alignment project
+
+8. **Nikolai Pawlenko** (`nikolai.f.pawlenko@noaa.gov`) — 1 message
+   - **Subject:** "Re: Display Quote"
+   - **Context:** Quote discussion continuing from prior sample
+
+9. **Shelby Hammond** (`Shelby.Hammond@elevationscu.com`) — 1 message
+   - **Subject:** "Elevations CU New Business Checking Account"
+   - **Recipients:** Meredith + Jack Elston
+   - **Context:** New business banking setup; Elevation Credit Union relationship expanding
+
+10. **Todd Rutherford** (`trutherford@mmsolutions.biz`) — 2 messages
+    - **Subject:** "RE: [CAUTION: SUSPECT SENDER] Re: New case"
+    - **Recipients:** Meredith + Joshua Fromm
+    - **Pattern:** Case/project discussion (flagged as suspect sender in system)
+
+11. **Ben Stavig** (`benjamin.stavig@deel.com`) — 1 message
+    - **Subject:** "Re: Intro: Deel x Black Swift - benefits & payroll demo"
+    - **Context:** External vendor (Deel — payroll/benefits platform) demo introduction; indicates evaluation phase for payroll system
+
+12. **Joshua Fromm** (`josh.fromm@blackswifttech.com`) — 2 direct messages received; multiple as co-recipient
+    - **Incoming:** "Re: New case", "Re: New case" (with Todd Rutherford)
+
+13. **Lee Skidmore** (`lee@rubiconaerospace.com`) — 1 direct message received (S0 Deploy Tubes shipping confirmation)
+
+14. **Paige Smith** (`paige.smith@blackswifttech.com`) — 1 message
+    - **Subject:** "Fwd: Thanks for shopping with us! Here's your order #:102003539718221"
+    - **Context:** Internal forward of Amazon order confirmation; may indicate shared purchasing/ordering support
+
+15. **Debbie Rampy** (`debbie@bolderins.com`) — 1 message received
+    - **Subject:** "Re: Updated policy documentation for policy 9032844"
 
 ### Outgoing (Direct sends by Meredith)
-- **Jack Elston** — 8+ direct emails (SECURE 2.0 follow-up, travel confirmations forwarding, budget car rental, survey discussion)
-- **Lee Skidmore** — 3 direct emails (S0 shipping coordination)
-- **Chad Atwood** — 4 direct emails (survey responses)
-- **Debbie Rampy** — 4 direct emails (insurance policy, extra information)
-- **Nikolai Pawlenko** (NOAA Federal) — 1 direct email (display quote response)
-- **Jeff Catherwood** (`jcatherwood@microhardcorp.com`) — 1 direct email (quote request response)
-- **Stephanie Cintron** (ERAU) — 1 direct email (S0 Model)
-- **Sona Raziabeegum** (`sona@krateosky.com`) — 1 forwarded email (GAAP compliance question)
-- **Hilda Abrego** (Elevation Credit Union) — 2 direct emails (bank letter request, check deposit hold question)
-- **Daniel Prendergast** (`daniel.prendergast@blackswifttech.com`) — 1 forwarded email (Hampton confirmation)
-- **Maciej Stachura** (`stachura@blackswifttech.com`) — 2+ forwarded/chain emails (travel & meeting coordination)
+- **Lee Skidmore** (Rubicon) — 1 email (S0 Deploy Tubes shipped confirmation response)
+- **Joshua Fromm** (internal) — 1 email (Re: New case)
+- **Rippling Support** — 3 emails (Employee classification/tax status corrections on Jun 17, 13:23-14:22 PDT)
+- **Human Interest** (support@humaninterest.com) — 1 email (Draft: Adoption Agreement link request)
+- **Debbie Rampy** (Boulder Insurance) — 1 email (Re: Policy 9032844 documentation)
+- **Composite Envisions** (info@compositeenvisions.com) — 1 email (Account login issue)
 
 ### Internal Collaboration
-- **Primary direct contacts:** Jack Elston (elstonj), Maciej Stachura (stachura), Joshua Fromm (josh.fromm)
-- **Broader distribution list recipients:**
-  - `operations@blackswifttech.com` (window cleaning notice)
-  - `info@blackswifttech.com` (Aveo Engineering, Lockheed Martin UK ECCN inquiry, various newsletters)
-  - `purchasing@blackswifttech.com` (primary system for vendor routing)
-
-### External Vendors & Suppliers (Updated)
-
-**Electronics & Components:**
-- DigiKey (invoice 127629224, 127631150)
-- Mouser Electronics (PO 39526033)
-- McMaster-Carr (multiple June 16 orders)
-- ServoCity (order #300044802)
-- BatterySpace (AA Portable Power, order #500103)
-- Amazon (Traovien Micro USB items)
-- Bisco Industries (Southco R4-EM-44-161 reorder)
-
-**Aerospace/Defense Manufacturing:**
-- **Rubicon Aerospace** (`lee@rubiconaerospace.com`) — **S0 Deploy Tubes shipped** (high-priority project component)
-- Jeff Catherwood / Microhard Corp (quote request response)
-
-**Travel & Logistics:**
-- Budget Rent A Car (YOW reservation for Jack Elston #48085425US3; Joshua Fromm #48085060US2)
-- Hampton by Hilton (Jun 27 confirmation #82367973)
-- Expedia (travel confirmation itinerary #73475920981648 + Travel Guard policy #1003310230)
-- UPS (package tracking, delivery exceptions)
-- Pirate Ship (shipping payments — 4x $76.66 receipts)
-
-**Financial & Insurance:**
-- Debbie Rampy / Boulder Insurance (`debbie@bolderins.com`) — Policy #9032844 updates (likely BST organizational coverage)
-- Elevation Credit Union (Hilda Abrego) — Bank letter request, check deposit holds
-- Plaid (Rippling HR system bank account connection)
-
-**Government/Academic Partners:**
-- Nikolai Pawlenko – NOAA Federal (PCS/Permanent Change of Station, display quote discussion)
-- Stephanie Cintron – Embry-Riddle Aeronautical University (S0 Model collaboration)
-
-**External Organizations:**
-- Krateo Sky (`sona@krateosky.com`) — GAAP compliance question (possible partnership/vendor)
-- Lockheed Martin UK (ECCN inquiry from Stefan Golunski `stefan.golunski@global.lmco.com` re: S0 Air Deployed UAS — **regulatory classification request**)
-- The AIG Inc. (Chad Atwood) — Survey engagement
-- JawsTec (implied from prior knowledge)
-
-**Real Estate & Facilities:**
-- Colorado Group (Karla Brown & Maureen Espinoza) — Retail/Creative/Service for Lease opportunity
-- Amy Smith / WW Reynolds — Window cleaning notice (2840 Wilderness address)
+- **Primary direct contacts:** Joshua Fromm, Jack Elston, Lee Skidmore (Rubicon), Maciej Stachura
+- **Cross-functional distribution:**
+  - Tanay Topac (external academic) + Nathaniel Straus (internal) + Maciej Stachura (internal) on MHP data alignment
+  - Shelby Hammond (bank) + Jack Elston (CFO/Finance) on new business account
 
 ---
 
 ## Topic Patterns
 
-### Primary: Active Procurement & Supply Chain (S0 Platform)
-- **Rubicon Aerospace Deploy Tubes:** S0 shipping coordination (shipped status confirmed Jun 16)
-- **Component sourcing:** DigiKey invoices, Mouser POs, McMaster-Carr supplies
-- **Battery procurement:** BatterySpace order confirmation (AA Portable Power)
-- **USB/Storage:** Kingston DataTraveler inventory (from prior sample, ongoing)
+### Primary: S0 Platform Supply Chain & Manufacturing
+- **Rubicon Aerospace Deploy Tubes:** Shipped confirmation thread (Jun 17-18); invoice 1010 payment initiated via QuickBooks
+  - **Participants:** Jeremy Van Vliet, Lee Skidmore, Meredith
+  - **Status:** Component delivery confirmed; payment processing active
+- **Component sourcing:** DigiKey, Mouser, ServoCity, SkyGeek (aircraft-specific supplier)
+- **Cables & connectors:** Amazon (Traovien Micro USB, StarTech items), SendCutSend (custom manufacturing)
 
-### Secondary: S0 Model Development & Academic Partnership
-- **Embry-Riddle Aeronautical University:** S0 Model collaboration with Stephanie Cintron (faculty)
-- **NOAA relationship:** Nikolai Pawlenko PCS/display quote negotiation (likely S0 testing/deployment context)
-- **Lockheed Martin ECCN inquiry:** Stefan Golunski requesting regulatory export classification for "Black Swift S0™ Air Deployed UAS" — indicates **export control review in progress**
+### Secondary: HR/Payroll System Transition & Benefits Setup
+- **Rippling amendments:** Ready for submission (Jun 18)
+- **Employee classification corrections:** Multi-threaded with Rippling Support (Jun 17, 13:23-19:40 UTC)
+  - **Issue:** Incorrect employee classification + tax status needing correction
+  - **Meredith's involvement:** Direct engagement with support (3 replies within 6 hours)
+- **Human Interest:** Adoption Agreement pending (draft email composed but not sent; waiting for enrollment link)
+- **Deel evaluation:** "Intro: Deel x Black Swift - benefits & payroll demo" — external payroll vendor being evaluated alongside/instead of current system
 
-### Tertiary: Travel & Meeting Coordination
-- **Canada trip planned:** June 24 (Expedia) + June 27 Hampton (likely YOW = Ottawa)
-  - Jack Elston Budget car reservation YOW
-  - Joshua Fromm Budget car reservation YOW
-  - Travel Guard insurance policy attached
-- **Krateo visit:** Post-trip meeting setup with Jack Elston + Maciej Stachura mentioned
-- **Aeropod Website
+**Implication:** BST actively evaluating or transitioning payroll/benefits platforms; employee records migration/cleanup in progress.
+
+### Tertiary: Banking & Financial Operations
+- **Elevations Credit Union:** New Business Checking Account setup (Jun 17)
+  - **Participants:** Shelby Hammond, Jack Elston, Meredith
+  - **Expansion:** Relationship growing from prior insurance/banking interactions
+- **QuickBooks Bill Pay:** Scheduled payments for vendor invoices (2x notifications)
+- **Rubicon invoice payment:** Being processed through QuickBooks
+
+### Quaternary: Data Alignment & Cross-Org Collaboration
+- **MHP data alignment:** Multi-threaded with Tanay Topac (Stanford), Nathaniel Straus (internal), Maciej Stachura (internal)
+  - **Pattern:** Ongoing technical/data collaboration; Meredith not directly on latest Jun 18 thread but was involved earlier
+
+### Other
+- **Case/project discussion:** Todd Rutherford (MM Solutions) + Joshua Fromm + M

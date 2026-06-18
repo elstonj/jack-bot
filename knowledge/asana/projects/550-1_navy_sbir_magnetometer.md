@@ -34,13 +34,13 @@
     - Build hand-launched S0-MAD (due Jun 12) — 4 days
     - Build & ground test S0-AD Launcher (due Jun 15) — 7 days
     - CLIN 0006 Progress Report due (due Jun 29) — 21 days
-  - **Team feedback (Jun 8, 2026):** Maciej Stachura confirms "for mag integration it's Alex and Sam on the critical engineering tasks" — indicates active work underway but task tracking may not reflect current status
+  - **Team feedback (Jun 8, 2026):** Maciej Stachura confirms "for mag integration it's Alex and Sam on the critical engineering tasks" — indicates active work underway but task tracking may not reflect current status. Note: Navy meeting at 9:30 on Jun 8 was not scheduled as expected.
 
 - **Priority:** **HIGH** (Navy government contract, compressed timeline, critical path delays)
 
 - **Team Members:**
   - **Alex Lomis** (PM/Owner, technical lead) — **CRITICAL PATH**: 8+ build, test, and flight tasks
-  - **Sam** (Critical engineering on mag integration) — **Contact info needed**
+  - **Sam** (Critical engineering on mag integration) — Contact info needed
   - **Jack Elston** (Technical lead, onboard logging & reporting) — Overdue design deliverable
   - **Maciej Stachura** (Python tools, sensor configuration) — Overdue analysis tools
   - **Beck Cotter** (Camp Pendleton coordination & permissions) — Overdue permissions task
@@ -76,6 +76,5 @@
 
 ## Task Summary
 - **Total Tasks:** 17 open, 0 completed
-  - **Contact Information Tasks (2):** Angel Ruiz-Reyes, Anthony Brescia (unassigned, no due dates)
-  - **Administrative/Reporting (4):** CLIN 0006 & 0007 reports and invoices (due Jun 29, Sep 28)
-  -
+  - **Contact Information (2):** Angel Ruiz-Reyes, Anthony Brescia (unassigned, tracking purposes)
+  - **Administrative/Reporting (4):** CLIN 0006 & 0007

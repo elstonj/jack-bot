@@ -13,17 +13,19 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Meredith Needham (shipping, logistics, quote coordination, invoice tracking)
 - Nate (assembly, QC flights, payload prep, GCS builds, quotes)
 - Paige Smith (sales coordination, customer communication)
-- Beck Cotter (customer outreach, email coordination, S0/S0-VTOL ownership coordination, Arctic demo coordination, travel booking)
+- Beck Cotter (customer outreach, email coordination, S0/S0-VTOL ownership coordination, Arctic demo coordination, travel booking, presentation materials)
 - Ben Busby (team member, sales pipeline tracking)
-- Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead, demo participation)
+- Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead, demo participation, presentation management)
 - Dan H (CU - external customer, E2 battery interest)
 - Bassil (customer - methane research, travel May 19-June 9, 2026)
 - Stefan (Atmofacts - external partner, methane algorithm tuning)
 - Chris (UMES - external customer contact, S3 training/delivery)
 - UCSC (prospective customer - oceanographic work, S3 interest, June 11, 2026 meeting scheduled)
 - Trenton (administrative/logistics contact, external stakeholder involved in travel approval/reimbursement)
+- 53rd Weather Squadron (prospective government customer, June 2026 presentation planned)
+- CJFC (prospective government customer/contact, June 2026 presentation planned)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: June 15, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: June 17, 2026.
 
 ---
 
@@ -102,8 +104,4 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 **NASA S2 Delivery - Nosecone Inclusion (May 21, 2026)**
 - Dan Prendergast raised question about whether nosecone should be included in NASA S2 delivery per their SOW (complete BST S2 airframe requirement)
 - Joshua Fromm asked clarifying questions about payload inclusion and mass model
-- **DECISION (May 21, 2026):** Jack Elston directed: NASA will use their own two payloads, no additional nosecone needed in delivery
-- Dan Prendergast confirmed with NASA customer
-
-**NOAA S0 Production Request (May 26, 2026)**
-- Joshua Fromm asking for clarification on number of S0
+- **DECISION (May 21, 2026):** Jack Elston directed: NASA will use their own two payloads, no additional nosecone

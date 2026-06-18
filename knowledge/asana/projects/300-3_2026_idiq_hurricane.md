@@ -11,17 +11,20 @@
   - Final delivery deadline: **2026-07-31**
   - Invoice schedule: March 2026 – July 2026
   - Critical hardware ship date: **May 19, 2026** (✅ completed early; 2 SHOW s0's and tripods shipped)
-- **Status:** **🔴 CRITICAL URGENCY — MULTIPLE BLOCKING ISSUES DUE IMMEDIATELY (as of 6/5/26).** Hardware milestones delivered early; field season imminent. Three blocking issues must be resolved today/this week to maintain invoice & delivery schedule.
+- **Status:** **🔴 CRITICAL URGENCY — IMMEDIATE BLOCKING ISSUES (as of 6/5/26).** Hardware milestones delivered early; field season imminent. Three blocking issues must be resolved today/this week:
+  1. **Deployment tube firmware (Jack Elston) — OVERDUE since 6/4/26 — BLOCKS Invoice 4 ($72k) & hardware release**
+  2. **QC board completion (Sam Hild) — DUE TODAY 6/5/26 — BLOCKS Invoice 4 & downstream assembly**
+  3. **Gateworks board sourcing status (Josh Fromm) — UNKNOWN since 5/28–5/29/26 inquiry — THREATENS GCS build due 7/1/26**
 - **Team Members:** 
   - Meredith O'hara Needham (project owner, shipments, invoice submissions)
-  - **Jack Elston** (firmware/software) — **CRITICAL PATH: deployment tube firmware OVERDUE (due 6/4/26); AP & PSNS firmware due 6/26/26**
-  - **Sam Hild** (QC, hardware validation, kit assembly) — **CRITICAL PATH: deployment tube board QC due 6/5/26 (TODAY); finish QC + begin kit assembly chain**
+  - **Jack Elston** (firmware/software) — **CRITICAL PATH: deployment tube firmware OVERDUE**
+  - **Sam Hild** (QC, hardware validation, kit assembly) — **CRITICAL PATH: deployment tube board QC due TODAY**
   - Nate Straus (platform rebuild/validation, s0 builds, servo assembly, linkage construction, power switches)
   - Maciej Stachura (platform validation/testing, magnetic calibration, parameter file validation, failure analysis)
   - Alex Lomis (strategic partnerships, NASA opportunities)
-  - **Josh Fromm** (GCS assembly, long-lead parts, Gateworks board sourcing) — **URGENT: requested Gateworks board status 5/28–5/29/26 (per team feedback); NO DOCUMENTED RESPONSE; GCS build due 7/1/26**
+  - **Josh Fromm** (GCS assembly, long-lead parts, Gateworks board sourcing) — **⚠️ URGENT: Gateworks board status UNKNOWN; twice requested 5/28–5/29/26, no documented response; GCS build due 7/1/26**
   - Ben Busby (web-based controller development) — due 7/31/26
-  - Nick Pawlenko (UxSOC liaison) — **transitioned to UxSOC HQ effective 5/29/26; reduced availability**
+  - Nick Pawlenko (UxSOC liaison) — **transitioned to UxSOC HQ effective 5/29/26; reduced availability — communications now include wider UASD team for scheduling, personnel, flight planning, maintenance**
 
 ## Key Deliverables & Milestones
 
@@ -46,7 +49,7 @@
 | Finish deployment tube board QCs | Sam Hild | 2026-06-05 | 🔴 **DUE TODAY** |
 | AP & PSNS firmware | Jack Elston | 2026-06-26 | ⏳ Upcoming (21 days) |
 | Begin kit assembly | Sam Hild | 2026-06-19 | ⏳ Upcoming (14 days) |
-| Build 2x rack-mount GCS | Josh Fromm | 2026-07-01 | ⏳ Upcoming (26 days); **Gateworks board sourcing status UNKNOWN** |
+| Build 2x rack-mount GCS | Josh Fromm | 2026-07-01 | ⏳ Upcoming (26 days); **Gateworks board sourcing status UNKNOWN — requested 5/28–5/29/26, NO RESPONSE** |
 | Rebuild old BST s0 (2024) | Nate Straus | 2026-06-19 | ⏳ Upcoming (14 days) |
 | Finish 2025 S0's | Nate Straus | 2026-06-30 | ⏳ Upcoming (25 days) |
 | Participate in mag cal process | Maciej Stachura | 2026-07-01 | ⏳ Upcoming (26 days) |
@@ -61,7 +64,7 @@
 
 **Tasks by Assignee (with critical path items flagged):**
 - **Jack Elston:** 3 tasks
-  - ✅ Deployment tube firmware **OVERDUE (due 6/4/26)** — **BLOCKS Invoice 4 ($72k)**
+  - 🔴 Deployment tube firmware **OVERDUE (due 6/4/26)** — **BLOCKS Invoice 4 ($72k)**
   - ⏳ AP & PSNS firmware due 6/26/26
   - ⏳ S0 acc scaling (no due date)
 
@@ -70,15 +73,8 @@
   - 🔴 Finish deployment tube board QCs **DUE TODAY (6/5/26)** — **BLOCKS Invoice 4 & hardware release**
   - ⏳ Begin kit assembly due 6/19/26
 
-- **Nate Straus:** 8 tasks
-  - 🔴 Build 5 power switches with short PCB **OVERDUE (due 5/21/26)**
-  - ⏳ Rebuild old s0 (2024) due 6/19/26
-  - ⏳ Finish 2025 S0's due 6/30/26
-  - ⏳ Construct linkages (no due date)
-  - ⏳ Wire servos for wings (no due date)
-  - ⏳ Wire servos for tails (no due date)
-  - ⏳ Install servos in tails (no due date)
-  - ⏳ Assembly latch carrier trays (no due date)
+- **Josh Fromm:** 1 task
+  - ⏳ Build up new GCS x2 due 2026-07-01 — **⚠️ GATEWORKS BOARD SOURCING STATUS UNKNOWN; inquired 5/28–5/29/26, no documented response**
 
-- **Maciej Stachura:** 4 tasks
-  - 🔴 Figure out why S0-70 rolled over during CAT
+- **Nate Straus:** 8 tasks
+  - 🔴 Build 5 power switches with short PCB **

@@ -29,12 +29,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "SOCOM (TSgt Evan Wolff) actively engaged in S0-AD development for C-130 air-launch demo Fall 2026. Recent in-person working meeting 4/27/26 with SOCOM and 53rd Weather Squadron to define mission requirements. S0 demonstration unit shipped to SOCOM 3/11/26 (FedEx 889475552978); received and approved by Wolff's office 3/17/26. Ongoing technical engagement on aircraft antenna integration and autonomous flight modes. Strong stakeholder buy-in with multiple SOCOM/USAF personnel attending facility briefing 4/27/26.",
+  "notes": "SOCOM (TSgt Evan Wolff) actively engaged in S0-AD development for C-130 air-launch demo Fall 2026. Demonstration unit shipped 3/11/26 (FedEx 889475552978); received and approved by Wolff 3/17/26. In-person working meeting 4/27/26 with SOCOM and 53rd Weather Squadron to define mission requirements and additional development needs. Ongoing technical engagement on antenna integration and autonomous flight modes. Strong stakeholder buy-in with multiple SOCOM/USAF personnel attending facility briefing.",
   "missing_fields": [
     "parts",
     "invoice_date",
     "invoice_amount"
   ],
-  "last_evidence_date": "2026-06-10",
+  "last_evidence_date": "2026-05-20",
   "last_contact_date": "2026-06-03"
 }

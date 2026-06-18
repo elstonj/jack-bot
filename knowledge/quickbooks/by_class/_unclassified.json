@@ -1,22 +1,64 @@
 {
   "project_code": "_unclassified",
   "qbo_class_names": [
-    ""
+    "",
+    "[012-3] Embry Riddle Model S0"
   ],
   "period": {
-    "start": "2026-06-16",
-    "end": "2026-06-17"
+    "start": "2026-06-17",
+    "end": "2026-06-18"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 460.79,
+    "expenses": 7747.71,
     "by_category": {
-      "Inventory Asset": 460.79
+      "FACILITIES:FA-Rent Expense": 7198.87,
+      "Inventory Asset": 460.79,
+      "FACILITIES:FA-Shop Supplies": 45.41,
+      "DIRECT COSTS:DC-Direct Material Purchases": 22.64,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 20.0
     }
   },
   "invoices": [],
-  "bills": [],
+  "bills": [
+    {
+      "type": "Bill",
+      "date": "2026-06-17",
+      "doc_number": "",
+      "total": 7198.87,
+      "attributed": 7198.87,
+      "vendor": "W. W. Reynolds Companies",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 7198.87,
+          "account": "FACILITIES:FA-Rent Expense",
+          "description": "July 2026 rent"
+        }
+      ]
+    }
+  ],
   "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-07-02",
+      "doc_number": "260614W010104",
+      "total": 20.0,
+      "attributed": 20.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 20.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipment of Model S0 to Embry Riddle"
+        }
+      ]
+    },
     {
       "type": "Purchase",
       "date": "2026-06-18",
@@ -50,6 +92,29 @@
           "amount": 302.21,
           "account": "Inventory Asset",
           "description": "For future S3 sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-17",
+      "doc_number": "0616JELSTON",
+      "total": 101.97,
+      "attributed": 68.05,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - project listed under each item",
+      "lines": [
+        {
+          "amount": 33.92,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Fully Insulated Quick-Disconnect Terminals; 18-8 Stainless Steel Phillips Flat Head Screw"
+        },
+        {
+          "amount": 68.05,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Masking Tape for Powder Coating, Blue, 1\" Wide"
         }
       ]
     }

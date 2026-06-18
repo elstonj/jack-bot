@@ -19,11 +19,12 @@
 6. **Deliverable 6: Final Report** - ✓ (Completed Apr 10, 2026 by UMEX, **not BST responsibility**)
 
 **Aircraft Deliverables:**
-- 2x S0 VTOL ✓ (delivered Jan 22, 2026)
-- 4x S0 AD ✓ (delivered Jan 22, 2026)
+- 2x S0 VTOL ✓ (delivered Jan 22, 2026, per Dec 2024 scope change)
+- 4x S0 AD ✓ (delivered Jan 22, 2026, per Dec 2024 scope change: 2x by early October 2025, 2x by early January 2026)
 
 ## Task Summary
 - **Total Tasks:** 45 completed, 0 open BST tasks (100% completion rate)
+- **Current Asana Tasks:** 0 open, 1 completed
 - **Tasks by Assignee:**
   - **Alex Lomis:** 28+ completed tasks (primary technical lead) — hardware design, component mounts, aircraft integration, UMEX hardware integration, flight test coordination, milestone completion
   - **Jack Elston:** 4+ completed tasks — autopilot integration, simulation setup, UMEX hardware bench testing
@@ -39,6 +40,7 @@
 - **March 18, 2026:** Completed Mothership-dropped Swarming Flight milestone
 - **January 22, 2026:** Delivered all aircraft (2x S0 VTOL, 4x S0 AD)
 - **November 19, 2025:** Completed MS4 Swarming Flight and interim A2 Hardware Flight
+- **December 19, 2024:** Scope adjustment meeting with Alex Lomis — aircraft deliverables refined to 2x S0 VTOL and 4x S0 AD (rather than 3 of each); delivery timeline adjusted accordingly
 
 ## Notes & Context
 
@@ -64,7 +66,7 @@
 
 **Final Report Scope Clarification (TEAM-CONFIRMED):** Per **Alex Lomis (2026-04-17)** and **Jack Elston (2026-04-17, 2026-04-20)**: BST had **no responsibility** for the final report deliverable. UMEX handled the final report completely. The May 2026 timeline for final report in the contract was a placeholder; BST's involvement ended with completion of aircraft delivery and flight testing in March 2026. **Per Daniel Prendergast (2026-04-20):** "you can stop hazing Alex about the ADONIS final report. That is complete and the entire ADONIS project has been closed out."
 
-**Program Performance:** Project successfully transitioned through all six major flight test milestones with minimal delays. All hardware deliverables completed on schedule.
+**Program Performance:** Project successfully transitioned through all six major flight test milestones with minimal delays. All hardware deliverables completed on schedule per adjusted scope (Dec 2024).
 
 ---
 
