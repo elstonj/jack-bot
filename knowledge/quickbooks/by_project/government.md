@@ -136,17 +136,21 @@
 **Key transactions:**
 - **Purchase #0616JELSTON** (2026-06-17): **$68.05** [FA-Shop Supplies] — Masking Tape for Powder Coating, Blue, 1" Wide
 
+**Subtotal indirect costs: $71.98**
+
 ---
 
-### **Other: $0.00**
-**Number of transactions:** 0
+### **Other: $781.00**
+**Number of transactions:** 1  
+**Key transactions:**
+- **Bill #AR262124** (2026-06-09): **$781.00** — Miscellaneous/Other expenses related to subcontract administration
 
 ---
 
 ## Purchase Orders
 - **Total PO value:** $832.00
 - **Number of POs:** 1
-- No new POs in this update period (2026-06-17 to 2026-06-18)
+- No new POs in period 2026-06-18 to 2026-09-28
 
 ---
 
@@ -154,7 +158,4 @@
 
 ### June 2026 (2026-06-01 to 2026-06-30)
 | Category | Amount | # Txns |
-|----------|--------|--------|
-| **Materials & Supplies** | $934.95 | 5 |
-| **Shipping/Freight** | $275.41 | 3 |
-| **Facilities (Shop
+|

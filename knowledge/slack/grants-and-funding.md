@@ -8,7 +8,7 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 **Activity Level:** Extremely high throughout the period (March 2024 - June 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. June 2026 represents a particularly intense submission period with 11 major proposals/responses submitted in a single month. Pace remains intense with rapid sequential submissions, active pursuit of new competitive opportunities, implementation/integration planning, vendor onboarding processes, portfolio management, and significant external partnerships/customer engagement alongside proposal work.
 
-**Time Range:** March 3, 2024 - June 17, 2026
+**Time Range:** March 3, 2024 - June 18, 2026
 
 ---
 

@@ -1,87 +1,89 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 78 emails (52 previous + 26 new)
+- **Total messages scanned:** 91 emails (78 previous + 13 new)
 - **Date range:** June 12–18, 2026 (7 days)
-- **Volume:** ~11 emails/day; 80%+ routed through purchasing@blackswifttech.com
-- **Direct personal email:** 8 messages (Rippling, Asana, Toggl Track, Veeam, Gemini Notes, tharris@gateworks.com, Jack Elston draft reply, 1 additional)
-- **Unread rate:** 26 of 26 new messages (100%) — indicates continued bulk-filtering or category auto-sort
+- **Volume:** ~13 emails/day; 85%+ routed through purchasing@blackswifttech.com
+- **Direct personal email:** 2 messages (Asana task reminder)
+- **Unread rate:** 13 of 13 new messages (100%) — continued pattern of bulk-filtering or auto-categorization
 
 ## Key Correspondents
 
 ### Primary Channels
-- **Purchasing inbox relay:** purchasing@blackswifttech.com (21 of 26 new emails — 81%)
-- **Direct to sam.hild@blackswifttech.com:** 5 new messages (Asana, Toggl Track, Gemini Notes, Gateworks/Ezurio announcement, 1 other)
+- **Purchasing inbox relay:** purchasing@blackswifttech.com (11 of 13 new emails — 85%)
+- **Direct to sam.hild@blackswifttech.com:** 2 new messages (Asana task reminder)
 
-### Vendors/Suppliers (New Activity)
-- **Motion Control:** ServoCity (3 order status updates for #300044802 — Jun 17, suggesting fulfillment in progress)
-- **Metal/Fabrication Services:** SendCutSend (3 shipment/order updates — order S1841769, shipment in transit Jun 17)
-- **Aviation/FPV Supplies:** SkyGeek (marketing email to Joshua Fromm Jun 17); X-Plane Team (2 messages — software updates + addon announcements; may indicate flight simulation use or UAV software validation)
-- **Drone/RC Equipment:** CADDXFPV (Father's Day promotion Jun 17)
-- **Hobbyist Electronics:** AMain Hobbies (rewards points Jun 18); Battery Junction (Energizer promotion); eBay (Futaba 14SG RC transmitter/receiver search alert Jun 17)
-- **Beverages (Non-business):** Spindrift (survey/feedback promotion to Meredith Needham Jun 17)
-- **Recreation/Travel:** Mt. Princeton Hot Springs Resort (marketing to Maciej Stachura Jun 17 — possible team outing or personal interest)
-- **U-Haul Corporate:** Account update notification Jun 17 (to purchasing inbox via Chelsey Drausin)
+### Vendors/Suppliers (New Activity — Jun 18)
+- **Composite Materials:** Rock West Composites (cash sale #CS013005 — Jun 18); Composite Envisions (order 647-SO21126 received — Jun 18)
+- **Logistics/Delivery:** UPS (package delivery notification — Jun 18); Spindrift Market (order SH62374651 — 2 tracking updates: out for delivery + delivered, Jun 18)
+- **Travel/Rental Services:** Expedia (Holiday Inn Express & Suites Ottawa West - Nepean rating request — Jun 18); Budget (summer travel promotion — Jun 18); U-Haul corporate survey (Jun 18)
+- **Drone/Avionics:** uAvionix (Father's Day promotion — Jun 18, routed to Jack Elston via purchasing)
+- **Billing/Administrative:** Black Swift Technologies billing invoices notification (Jun 18, routed to earellano@aeronet.com)
 
-### Internal Correspondents (via Purchasing & Direct)
-- **Jack Elston** — continues PCB project collaboration (from prior data; no new direct email this period)
-- **Joshua Fromm** — receives SkyGeek promotional email (Jun 17); likely part of Ottawa trip team
-- **Meredith Needham** — receives HeliDirect and Spindrift emails (recreational/hobby interests)
-- **Maciej Stachura** — **KEY INTERNAL CONTACT** — continues managing U.S. Navy correspondence; Mt. Princeton Hot Springs email routed to him (Jun 17)
+### Internal Correspondents
+- **Jack Elston** — receives uAvionix promotional email (Jun 18) — continues drone/avionics equipment interest
 
-### External Human Contacts (New)
-- **Tim Harris** <tharris@gateworks.com> — **Gateworks Corporation** — **MARKED IMPORTANT** — Ezurio acquisition announcement Jun 17 18:03 UTC (direct to Sam, not via purchasing)
-- **Angel R. Ruiz-Reyes** <angel.r.ruiz-reyes.civ@us.navy.mil> — **U.S. Navy NAWCAD** — continues "S0 - MAD update" correspondence Jun 17 (marked IMPORTANT); Maciej Stachura manages thread
-- **Chelsey Drausin** — **U-Haul Corporate Sales** — business account admin (forwarded via purchasing Jun 17)
+### External Contacts
+- **Adriana Smith** <adriana.smith@1rockwest.com> — Rock West Composites sales contact
+- **earellano@aeronet.com** — receives BST billing invoices; likely finance/accounting role
 
 ## Topic Patterns
 
-### Hardware/Electronics (Continued & Refined)
-- **Motion control:** ServoCity order #300044802 status updates (3 notifications Jun 17 — **order in active fulfillment**)
-- **Metal fabrication:** SendCutSend order S1841769 (tracking + shipment notification Jun 17 — order placed earlier, now shipping)
-- **RC/Drone components:** eBay alert for Futaba 14SG transmitter/receivers (Jun 17 search/watch); CADDXFPV promotional email
-- **Battery supplies:** Battery Junction promotion (Energizer batteries — generic procurement)
-- **Hobbyist electronics:** AMain Hobbies rewards (Jun 18)
+### Materials & Fabrication (Elevated)
+- **Composite materials:** Rock West Composites cash sale (Jun 18); Composite Envisions order received (Jun 18)
+  - **Significance:** Two separate composite suppliers in single day suggests **active fabrication/materials procurement cycle** — consistent with prior ServoCity and SendCutSend activity
 
-### Software/Simulation (New Pattern)
-- **X-Plane Flight Simulator:** 2 emails from X-Plane Team (Jun 17) — two-factor authentication setup + addon announcements
-  - **Significance:** Direct routing to purchasing@blackswifttech.com suggests BST team use; possibly for **UAV simulation/testing** or **flight dynamics validation** rather than recreational use
+### Logistics & Travel (New Pattern)
+- **Travel to Ottawa:** Expedia booking for Holiday Inn Express & Suites Ottawa West - Nepean (Jun 18 rating request) — **confirms Ottawa trip is active/complete**
+- **Vehicle rentals:** Budget summer travel promo (Jun 18); U-Haul rental survey (Jun 18); rental account verification (Jun 18)
+  - **Implication:** Team travel coordination — possibly rental equipment or vehicle fleet for Ottawa trip
 
-### Government/Defense (Continued — Elevated)
-- **Navy Correspondence:** Angel R. Ruiz-Reyes (NAWCAD) responds to "S0 - MAD update" Jun 17 19:01 UTC (marked IMPORTANT); Maciej Stachura replies same day 09:31 CDT (Jun 17 — **2-hour turnaround suggests critical matter**)
-- **Embedded Computing:** Tim Harris <tharris@gateworks.com> — **Gateworks Corporation** announced **acquisition by Ezurio** (Jun 17) — **marked IMPORTANT to Sam directly**
-  - **Implication:** Gateworks is embedded compute/networking vendor; Ezurio is embedded security/IoT platform company; announcement routed to Sam suggests **product dependency or technical relevance to BST**
+### Shipping & Delivery (Active)
+- **Spindrift order SH62374651:** Two tracking updates same day (out for delivery + delivered, Jun 18) — **rapid delivery cycle**
+- **UPS delivery:** Package arrival notification (Jun 18)
+- **Composite Envisions:** Order received confirmation (Jun 18)
 
-### Non-Core Activity (Continuing)
-- **Recreation/Travel:** Mt. Princeton Hot Springs email routed to Maciej (Jun 17) — possible team activity or personal wellness trip
-- **Beverage/Food:** Spindrift survey (to Meredith Jun 17)
+### Drone/Avionics (Continued)
+- **uAvionix:** Father's Day promotional email to Jack Elston (Jun 18) — avionics/transponder equipment vendor
+
+### Administrative/Billing (New)
+- **BST invoice notifications:** Routed to earellano@aeronet.com alongside purchasing inbox (Jun 18) — suggests **consolidated billing/procurement workflow**
 
 ## Communication Patterns
 
-### Email Routing (Confirmed)
-- **Purchasing inbox:** Vendor notifications, order updates, shipping alerts, marketing promotions **consistently routed** to purchasing@blackswifttech.com
-- **Direct to Sam's inbox:** Strategic/business-critical items (Navy IMRAD, Gateworks acquisition), task management (Asana), time tracking (Toggl), and system alerts (Gemini Notes, Rippling)
-- **Delegation pattern:** Navy correspondence routed to **Maciej Stachura** (not Sam), but Sam receives IMPORTANT notification; suggests **Maciej is operational lead, Sam is stakeholder/approver**
+### Email Routing (Confirmed & Refined)
+- **Purchasing inbox:** All vendor orders, shipments, travel bookings, surveys, and administrative notifications consistently routed
+- **Direct to Sam:** Asana task management only (jun 18 — "Thursday - tasks due soon: 1")
+- **Cross-recipient patterns:** BST invoices routed to both purchasing@blackswifttech.com AND earellano@aeronet.com — indicates **multi-party financial visibility**
 
 ### Bulk-Filter Behavior
-- **Email categories:** 70%+ marked CATEGORY_UPDATES, CATEGORY_PROMOTIONS, CATEGORY_FORUMS — Gmail auto-categorization working as designed
-- **All 26 new emails marked UNREAD** — Sam likely processes inbox manually, filtering by IMPORTANT flags or sender
+- **Email categories:** 100% of new messages marked CATEGORY_FORUMS or CATEGORY_PROMOTIONS or CATEGORY_UPDATES — all low-priority auto-categorization
+- **All 13 new emails marked UNREAD** — confirms Sam processes inbox via filtering/flagging, not sequential reading
 
-### Gemini Notes Integration (New)
-- **Gemini AI note generator:** "BST Internal Update Meeting" note generated Jun 17 19:27 UTC and sent to sam.hild@blackswifttech.com
-  - **Significance:** Suggests Sam using Google AI for meeting note synthesis; may indicate **structured internal meetings** or **documentation workflow**
-
-### Timeline Observations (Jun 17–18)
-- **Jun 17:** 24 emails in single day (primarily afternoon/evening UTC) — shipping/status update spike + Navy correspondence + internal meetings
-- **Jun 18:** 2 emails only (AMain Hobbies, ServoCity) — **slower day, possibly travel-related (Ottawa trip)**
+### Timeline Observations (Jun 18)
+- **Jun 18:** 13 emails in single day (morning to evening PDT) — **composite materials orders, travel completion, shipment tracking cluster**
+- **Pattern:** Heavy procurement activity Jun 17–18 suggests **end-of-week ordering surge** and **travel logistics finalization**
 
 ## Key Relationships
 
 ### Internal Collaboration
-- **Maciej Stachura** — **Primary strategic collaborator** — manages Navy/DoD contact (Angel Ruiz-Reyes); Sam receives notifications but doesn't directly correspond; turnaround time ~2 hours suggests **high-priority, time-sensitive work**
-- **Jack Elston** — **Engineering collaborator** — PCB/hardware project management (prior data; ongoing)
-- **Joshua Fromm** — **Procurement/logistics support** — receives vendor emails; part of Ottawa trip team
-- **Meredith Needham** — **Administrative/support role** — receives hobby/promotional emails; may handle corporate events or wellness programs
+- **Jack Elston** — continues receiving drone/avionics vendor emails (uAvionix Jun 18)
+- **earellano@aeronet.com** — **Finance/billing stakeholder** — receives consolidated invoice notifications
 
 ### External Strategic Relationships
-- **Angel R. Ruiz-Reyes (U.S. Navy NAWCAD)** — **Government customer/partner** — ongoing technical correspondence on classified or sensitive project ("S
+- **Adriana Smith (Rock West Composites)** — **Materials supplier** — direct sales contact for composite procurements
+- **Composite Envisions** — **Secondary composite supplier** — order fulfillment capability
+
+## Notable Observations
+
+### Composite Materials Surge
+Two composite orders from different suppliers in 24 hours (Rock West, Composite Envisions — Jun 18) suggests **active fabrication project underway or significant materials-intensive contract**. This complements prior metal fabrication (SendCutSend) and motion control (ServoCity) orders, indicating **multi-material hardware assembly cycle**.
+
+### Ottawa Trip Confirmed Active
+Expedia hotel booking rating (Holiday Inn Express & Suites Ottawa West - Nepean) + U-Haul/Budget rental surveys (Jun 18) confirm **team travel to Ottawa completed or in final stages** (consistent with Joshua Fromm/Meredith Needham mentions in prior data).
+
+### Financial Visibility Pattern
+BST invoices routed to earellano@aeronet.com + purchasing@blackswifttech.com suggests **Aeronet connection to BST accounting or corporate structure** — new insight requiring clarification.
+
+### Rapid Delivery Cycle
+Spindrift order SH62374651 (placed unknown date, out for delivery + delivered same day Jun 18) indicates **expedited 2-day or next-day shipping** — suggests **time-sensitive procurement** or **standard logistics for bulk supplies**.

@@ -1,10 +1,10 @@
 # Jack Elston — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 4,704 (4,604 prior + 100 June 17–18)
-- **Date range:** April 1–June 18, 2026
+- **Total messages scanned:** 4,793 (4,704 prior + 89 June 18–19)
+- **Date range:** April 1–June 19, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **June 17–18 activity (100 messages):** ~40% vendor/procurement/automated; ~25% KrateoSky M&A integration (product planning, event coordination, executive dinner); ~20% NOAA/military technical partnerships (OOI Pioneer Array, NOAA drone program, Navy NAWCAD S0-MAD); ~10% internal BST coordination (org chart, product reviews); ~5% industry newsletters and technical reviews
+- **June 18–19 activity (89 messages):** ~45% vendor/procurement/automated; ~20% KrateoSky M&A integration (executive dinner follow-up, product planning, event coordination); ~15% government/military technical partnerships (Navy NAWCAD, NOAA, Army labs, Blue Origin subcommittees); ~10% settlement notifications and legal closing documentation; ~10% research/academic collaboration (L-band drone flights, Stanford data alignment); ~5% industry newsletters and professional development
 
 ---
 
@@ -13,71 +13,80 @@
 ### Top Internal BST Contacts (SUSTAINED & ELEVATED)
 
 **Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, HR, vendor management, banking
-- **June 17–18 sustained activity:** Banking coordination (Elevations CU new business checking account notification); vendor/procurement escalation; travel logistics
+- **June 18 sustained activity:** Banking coordination (Elevations CU new business checking account response)
 - Continues as primary finance/operations escalation point
 
 **Maciej Stachura** (stachura@blackswifttech.com) — Engineering/Technical (CRITICAL ESCALATION SUSTAINED)
-- **June 17–18 sustained heavy technical engagement:**
-  - **June 17, 19:07 UTC:** Receiving "Congratulations!" from Adria Passola (KrateoSky) alongside Jack — indicates joint achievement/milestone (likely post-close integration success)
-  - **June 17, 20:27 UTC:** Responding to Tanay Topac (Stanford) on MHP data alignment (continues research collaboration)
-  - **June 17, 20:31 UTC:** Responding to Adria Passola congratulations thread
-  - **June 18, 03:01 UTC:** Receiving response from Angel Ruiz-Reyes (NAWCAD Navy) on S0-MAD (continues military technical stream)
-  - **June 18, 05:41 UTC:** Receiving Stanford MHP data alignment thread from Tanay Topac
-- **Signal:** Maciej remains deeply embedded in multi-stream technical integration (Navy COTS waiver, Stanford research, product development)
+- **June 18 sustained heavy technical engagement:**
+  - **June 18, 22:38 UTC:** Receiving response from Al Gasiewski (CU Boulder) on "L-band drone flights over lava" — continues advanced materials/sensor research collaboration
+  - **June 18, 19:53 UTC:** Responding to Al Gasiewski on L-band lava drone flights
+- **Signal:** Multi-disciplinary research collaboration (volcanic remote sensing); continues Navy COTS/Stanford/product integration streams
 
 **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical/Government Programs
-- **June 17, 22:24 UTC:** Accepting "Org Chart Meeting" with Jack (4:30–4:45pm MDT) — indicates org restructuring discussions post-acquisition
-- **June 17:** Receiving SOCOM contact (Zachary O Kachel, USSOCOM) responding to RFI S0 — Daniel managing military RFI pipeline
-- Continues Arctic UAS / government program coordination
-
-**Nathaniel Straus** (nate.straus@blackswifttech.com) — Engineering/Technical
-- **June 17, 22:47 UTC:** Receiving MHP data alignment technical discussion from Tanay Topac (Stanford) — continues research collaboration on weather/meteorological data
+- **June 18 sustained activity:**
+  - **June 18, 22:24 UTC:** Receiving response from Maia Varanda (Invest Ottawa) on "Arctic UAS Location Change" — Arctic program expansion/relocation discussions
+  - **June 18, 13:56 UTC:** Responding to Maia Varanda on Arctic UAS location
+  - **June 18, 13:14 UTC:** Responding to carnets@atacarnet.com on carnet application confirmation (equipment transport documentation for Arctic/international operations)
+- **Signal:** Arctic UAS program actively expanding; carnet documentation suggests imminent equipment deployment or international field operations
 
 **Paige Smith** (paige.smith@blackswifttech.com) — Marketing/Communications
-- **June 17:** Continues involvement in BST x KrateoSky integration event coordination (Sona Raziabeegum forwarding event agenda)
+- Continues involvement in BST x KrateoSky integration event coordination
 
 ---
 
 ### Top External M&A/Technical Integration Correspondents (CRITICAL ESCALATION SUSTAINED & EXPANDED)
 
 **Sona Raziabeegum** (sona@krateosky.com) — **KrateoSky — CORPORATE AFFAIRS & POST-CLOSE INTEGRATION — CRITICAL ESCALATION SUSTAINED**
-- **June 17 sustained multi-vector engagement:**
-  - **June 17, 13:31 UTC:** Jack responding to Sona on "Additional Updates" (real-time M&A integration coordination)
-  - **June 17, 20:49–21:02 UTC:** Two rapid "Dinner at Spruce Farm & Fish" messages to Jack, Kathi Healy (RMI Select), and KrateoSky leadership (Dipan Amin, Roger Riley, Ariel Avitan) — **executive dinner event** (June 17, 7:30pm MDT)
-  - **June 17, 21:02 UTC:** Dinner coordination with KrateoSky principals and external event coordinator
-  - **Signal:** Sona orchestrating high-level integration dinner with BST leadership; continues as central M&A integration point
+- **June 18–19 sustained multi-vector engagement:**
+  - **June 19, 06:57 UTC:** Sona sending "Individual Addresses" to Jack (elevated communications channel; likely post-dinner follow-up on executive contact details or attendee information)
+  - **June 18, 13:56 UTC:** Jack sending "Photos" to Sona and Kathi Healy (event documentation from June 17 executive dinner at Spruce Farm & Fish)
+- **Signal:** Post-dinner administrative coordination; event documentation being shared with integration partners; Sona remains central to executive-level M&A integration
 
-**Dipan Amin** (dipan@krateosky.com) — **KrateoSky — PRODUCT STRATEGY & INDUSTRIAL PLANNING — ELEVATED SUSTAINED**
-- **June 17 sustained intensive product planning:**
-  - **June 17, 08:32–08:33 UTC:** Jack responding to Dipan on "BST Product Development Planning Session" (confirming attendance)
-  - **June 17, 08:32 UTC:** Jack responding on "Industrial Plan - Product Development Planning"
-  - **June 17, 14:14 UTC:** Dipan responding to Jack on Industrial Plan (real-time strategy alignment)
-  - **June 17, 14:16 UTC (x2):** Dipan coordinating "BST Product Development Planning Session" with Jack, Maciej, Brian Grubel (KrateoSky) — **multi-party strategy session**
-  - **June 17, 14:38 UTC:** Dipan responding to Jack on Industrial Plan (continued dialogue)
-- **Signal:** Dipan leading product integration strategy sessions; Jack + Maciej + KrateoSky principals aligned on post-close product roadmap
-
-**Adria Passola** (a@krateosky.com) — **KrateoSky — CORPORATE AFFAIRS — NEW VISIBILITY**
-- **June 17, 19:07 UTC:** Sending "Congratulations!" to Jack and Maciej — indicates joint achievement/acquisition close or major milestone
-- **Signal:** KrateoSky executive-level acknowledgment of Jack + Maciej's integration work
+**Peggy Shell** (peggy.shell@creativealignments.com) — **Creative Alignments — EXTERNAL INTEGRATION CONSULTANT — NEW VISIBILITY**
+- **June 18, 12:11 UTC:** Sending "Great meeting you both yesterday!" to Jack and Sona — indicates June 17 meeting with both Jack and Sona (possibly related to executive dinner or broader integration strategy)
+- **Signal:** External consultant/facilitator engaged in BST x KrateoSky integration planning
 
 **Kathi Healy** (kathi@rmiselect.com) — **RMI Select — EVENT COORDINATION — SUSTAINED CRITICAL OPERATIONAL ROLE**
-- **June 17, 20:50–21:02 UTC:** Participating in executive dinner coordination (Spruce Farm & Fish, June 17, 7:30pm MDT)
-- **June 17, 21:00–21:10 UTC:** Jack sending two messages to Kathi: "Map" (incomplete draft) — likely venue/logistics details
-- **Signal:** Kathi coordinating high-level executive dinner; continues as BST x KS integration event coordinator
-
-**Nelson Lin** (nelson.nh.lin@sysgration.com) — **Sysgration — QUALCOMM GCS SOLUTIONS — NEW VENDOR ENGAGEMENT**
-- **June 18, 07:37 UTC:** Sending "High-Performance Qualcomm GCS Solutions for Your UAS Operations" to Jack and Maciej
-- **Signal:** Vendor pitch on ground control station (GCS) hardware/software; potential procurement/integration discussion for post-acquisition product stack
+- **June 18, 13:56 UTC:** Receiving "Photos" from Jack (post-event documentation from June 17 executive dinner)
+- **Signal:** Continues as event coordinator; post-event follow-up indicates successful dinner execution
 
 ---
 
 ### Government & Military Technical Partners (SUSTAINED & EXPANDED)
 
-**Angel Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil) — **Navy NAWCAD — S0-MAD TECHNICAL INTEGRATION — SUSTAINED CRITICAL**
-- **June 17, 19:01 UTC:** Responding to Maciej on "[Non-DoD Source] Re: S0 - MAD update" (technical status on Military Applicability Determination)
-- **June 17, 09:31 UTC:** Maciej responding to Angel on S0-MAD (continues technical dialogue)
-- **June 18, 03:01 UTC:** Angel responding to Maciej on S0-MAD status
-- **Signal:** Sustained Navy COTS waiver/technical evaluation stream; Maciej as primary BST technical contact for NAWCAD integration
+**Al Gasiewski** (al.gasiewski@colorado.edu) — **University of Colorado Boulder — ADVANCED MATERIALS/SENSOR RESEARCH — NEW PRIORITY**
+- **June 18, 22:38 UTC:** Responding to Jack and Maciej on "L-band drone flights over lava"
+- **June 18, 19:53 UTC:** Initiating L-band drone research discussion with Scott Bolton (SwRI), Jack, and Maciej
+- **Signal:** New research collaboration on specialized remote sensing (L-band over lava fields); indicates BST UAS platform being utilized for academic/scientific research; potential for sensor/instrument integration
+
+**Scott Bolton** (scott.bolton@swri.org) — **Southwest Research Institute (SwRI) — NEW PARTNERSHIP**
+- **June 18, 19:53 UTC:** Receiving L-band drone flights inquiry from Al Gasiewski; copied with Jack and Maciej
+- **Signal:** SwRI partnership on advanced sensor research; potential instrument integration or collaborative field operations
+
+**Vanessa Aponte Williams** (vapontewilliams@blueorigin.com) — **Blue Origin — SMEAD EAB AI SUBCOMMITTEE — NEW VISIBILITY**
+- **June 18, 18:57 UTC:** Sending "RE: Smead EAB AI Subcommittee 2nd Meeting" to Jack and 6 others (Steve Jolly, Chris White, Randall Hodgkin CU Boulder, Lee CIS Lunar Industries, Aidan Rafferty Blue Origin, Nicole Duncan BAE Systems)
+- **Signal:** Jack participating in Blue Origin-coordinated AI/Earth observation advisory board; multi-sector (aerospace, defense, academia); suggests strategic focus on AI integration for UAS/Earth observation applications
 
 **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — **NOAA — DRONE PROGRAM & T-MOBILE PARTNERSHIP — SUSTAINED**
-- **June 17, 17:57 UTC:** Nikolai sending "Video drone" message to Jack (unread, important
+- **June 18, 08:59 UTC:** Sending "FeedScoop" to Jack and Joe Cione (NOAA Federal) — indicates NOAA program status update or research feed
+- **Signal:** NOAA partnership engagement continues; specific topic unclear but elevated importance flagged
+
+**Joe Cione** (joe.cione@noaa.gov) — **NOAA Federal — HURRICANE/SEVERE WEATHER RESEARCH — NEW VISIBILITY**
+- **June 18, 08:59 UTC:** Receiving FeedScoop with Jack from Nikolai Pawlenko
+- **Signal:** Likely hurricane/severe weather monitoring program (typical NOAA focus); possible data sharing or platform collaboration
+
+**Army Applications Laboratory** (info@aal.army) — **US ARMY — UNMANNED GROUND RECOVERY RFI — NEW PRIORITY**
+- **June 18, 09:57 UTC:** Sending "Request for Information - Unmanned Ground Recovery" to Jack
+- **Signal:** Army RFI on unmanned ground systems; BST being evaluated for ground robotics or recovery operations (distinct from aerial UAS focus); potential new market expansion
+
+---
+
+### Research & Academic Partnerships (SUSTAINED & ELEVATED)
+
+**Tanay Topac** (implied from prior context; Stanford) — **Stanford — MHP DATA ALIGNMENT — SUSTAINED RESEARCH COLLABORATION**
+- Prior context shows sustained technical engagement on meteorological/hydrological data
+- **June 18 continuation:** Likely ongoing thread on data standardization/integration
+
+**Shreya Barua** (sbarua@larta.org) — **Larta Institute — SBIR/STTR PROGRAM SUPPORT — SUSTAINED**
+- **June 18, 10:14 UTC:** Sending "Larta's SBIR/STTR Office Hours 3 – Recording, Slides & a Patent Value Workshop" to Jack
+- **Signal:** Jack actively engaged in SB

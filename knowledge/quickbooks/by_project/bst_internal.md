@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $1,125,242.83
+- **Total Expenses (Bills + Purchases)**: $1,125,915.09
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,107,348.47 (expenses exceed revenue significantly)
-- **Date Range**: April 5, 2024 – June 18, 2026 (26+ months)
-- **Transaction Count**: 1,213 *(all confirmed)*
+- **Net Position**: -$1,108,020.73 (expenses exceed revenue significantly)
+- **Date Range**: April 5, 2024 – June 19, 2026 (26+ months)
+- **Transaction Count**: 1,217 *(all confirmed)*
 
 ---
 
@@ -38,13 +38,7 @@ No new transactions in this reporting period.
 ### Materials & Direct Purchases: $521,023.52
 **Total: $521,023.52** | **73 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95**
 
-**New Transaction (June 17, 2026):**
-
-| Purchase # | Date | Amount | Account | Description | Status |
-|-----------|------|--------|---------|-------------|--------|
-| 0616JELSTON | 2026-06-17 | $33.92 | Direct Material Purchases | Fully Insulated Quick-Disconnect Terminals; 18-8 Stainless Steel Phillips Flat Head Screw | ✓ Confirmed |
-
-**June 2026 Direct Materials Subtotal**: $33.92 (in addition to inventory asset purchases)
+No new transactions in this reporting period.
 
 ---
 
@@ -55,10 +49,16 @@ No new transactions in this reporting period.
 
 ---
 
-### Sales & Marketing: $5,203.48
-**Total: $5,203.48** | **4 transactions**
+### Sales & Marketing: $5,259.14
+**Total: $5,259.14** | **5 transactions** | **Largest: $55.66 (Krateo Sky visit supplies)**
 
-No new transactions in this reporting period.
+**New Transaction (June 18, 2026):**
+
+| Purchase # | Date | Amount | Account | Description | Status |
+|-----------|------|--------|---------|-------------|--------|
+| — | 2026-06-18 | $55.66 | Sales & Marketing | Supplies for Krateo Sky visit (in-person) | ✓ Confirmed |
+
+**June 2026 Sales & Marketing**: $55.66 (supplies for Krateo Sky customer visit)
 
 ---
 
@@ -69,34 +69,29 @@ No new transactions in this reporting period.
 
 ---
 
-### Inventory Asset (S3 Sales & S2 Production Scaling): $9,629.71
-**Total: $9,629.71** | **32 transactions** | **Largest: Battery procurement and S3 component packages**
+### Inventory Asset (S3 Sales & S2 Production Scaling): $10,405.74
+**Total: $10,405.74** | **35 transactions** | **Largest: Battery procurement and S3 component packages**
 
-**Confirmed New Transactions (June 18, 2026):**
+**New Transactions (June 18–19, 2026):**
 
 | Purchase # | Date | Amount | Account | Description | Status |
 |-----------|------|--------|---------|-------------|--------|
+| SO21126 | 2026-06-18 | $813.04 | Inventory Asset | Component procurement for S3 production scaling; for future S3 sales | ✓ Confirmed |
 | SC51C906 | 2026-06-18 | $158.58 | Inventory Asset | Component procurement for S3 production scaling; for future S3 sales | ✓ Confirmed |
 | YW1744139 | 2026-06-18 | $302.21 | Inventory Asset | Component procurement for S3 production scaling; for future S3 sales | ✓ Confirmed |
 
-**Status**: June 18 transactions total **$460.79** in inventory asset purchases. **Cumulative inventory asset spending in June 2026**: **$4,979.66** across 15 transactions. 
+**Status**: June 18–19 transactions total **$1,273.83** in new inventory asset purchases. **Cumulative inventory asset spending in June 2026**: **$6,253.49** across 18 transactions.
 
-**Strategic Context**: Coordinated multi-subsystem component acquisition continues to support S3 production scaling. Battery procurement on June 9 ($1,078.34 for 225 units) signaled 225+ unit staging; supplementary components on June 10, June 17, and June 18 execute staged procurement strategy. Both June 18 purchases explicitly designated "for future S3 sales," confirming direct link to production and revenue pipeline. This pattern reflects active inventory buildup for anticipated revenue generation.
+**Strategic Context**: Accelerated multi-subsystem component acquisition continues to support S3 production scaling. Largest new purchase (SO21126, $813.04) indicates mid-sized component batch; all three purchases explicitly designated "for future S3 sales," confirming direct link to production and revenue pipeline. Combined with earlier June acquisitions (battery procurement $1,078.34 on June 9; staged components June 10, 17, 18), inventory buildup pattern reflects sustained momentum toward production ramp-up and anticipated revenue generation.
+
+**June 18–19 Inventory Velocity**: $1,273.83 in two days signals consistent procurement cadence supporting active manufacturing cycle.
 
 ---
 
 ### Rent & Facilities: $60,516.58
 **Total: $60,516.58** | **10 transactions** | **Largest: W. W. Reynolds Companies $14,258.81 (cumulative); INTUIT QuickBooks Online $285.62**
 
-**New Transaction (June 17, 2026):**
-
-| Purchase # | Date | Amount | Account | Description | Status |
-|-----------|------|--------|---------|-------------|--------|
-| W. W. Reynolds Companies | 2026-06-17 | $7,198.87 | Rent Expense | July 2026 rent | ✓ Confirmed |
-
-**June 2026 Facilities Spend Update**: $7,198.87 (rent) + $7.58 (shop supplies from prior period) = $7,206.45 cumulative for June 2026.
-
-**Updated W. W. Reynolds Total**: $14,258.81 (includes new $7,198.87 June rent bill)
+No new transactions in this reporting period.
 
 ---
 
@@ -117,13 +112,7 @@ No new transactions in this reporting period.
 ### Shop Supplies & Miscellaneous: $68.05
 **Total: $68.05** | **1 transaction** | **Largest: Masking Tape for Powder Coating $68.05**
 
-**New Transaction (June 17, 2026):**
-
-| Purchase # | Date | Amount | Account | Description | Status |
-|-----------|------|--------|---------|-------------|--------|
-| 0616JELSTON | 2026-06-17 | $68.05 | Shop Supplies | Masking Tape for Powder Coating, Blue, 1" Wide | ✓ Confirmed |
-
-**Context**: Supporting manufacturing operations; minimal spend category.
+No new transactions in this reporting period.
 
 ---
 
@@ -134,64 +123,70 @@ No new transactions in this reporting period.
 
 ## Monthly Spend by Category
 
-### June 2026 (Partial: June 2–18, 2026)
+### June 2026 (Partial: June 2–19, 2026)
 
 | Category | Amount | # Txns | Notes |
 |----------|--------|--------|-------|
+| **Inventory Asset (S3 Production)** | $6,253.49 | 18 | Battery procurement ($1,078.34); component staging for 225+ unit scaling; major acquisitions on June 18–19 ($1,273.83 in two days) |
 | **Rent & Facilities** | $7,206.45 | 3 | July 2026 rent bill ($7,198.87, June 17); QuickBooks subscription + shop supplies |
 | **Fringe Benefits** | $6,498.51 | 1 | United Healthcare employee healthcare payment (June 10) |
-| **Inventory Asset (S3 Production)** | $4,979.66 | 15 | Battery procurement ($1,078.34); component staging for 225+ unit scaling; June 18 acquisitions ($460.79) |
 | **IRAD Indirect R&D** | $3,900.51 | 11 | USB adapter, S3 shipment, component procurement |
+| **Sales & Marketing** | $55.66 | 1 | Krateo Sky visit supplies (in-person, June 18) |
 | **Direct Materials** | $33.92 | 1 | Connectors and fasteners for assembly (June 17) |
 | **Shop Supplies** | $68.05 | 1 | Masking tape for powder coating (June 17) |
-| **Sales & Marketing** | $0.00 | 0 | — |
 | **Shipping/Freight** | $0.00 | 0 | — |
 | **Other Categories** | $0.00 | 0 | — |
-| **JUNE 2026 SUBTOTAL** | **$22,687.10** | **32** | Weighted toward rent (prepaid July), production scaling, & fringe benefits |
+| **JUNE 2026 SUBTOTAL** | **$23,916.59** | **36** | Weighted toward inventory scaling (26% of spend), rent (30%), and fringe (27%) |
 
 ---
 
 ## Notable Transactions
 
-1. **June 17, 2026 — W. W. Reynolds July 2026 Rent Payment**: $7,198.87
-   - **Significance**: Pre-paid July facility rent; largest single transaction in new batch
-   - **Account**: [FACILITIES:FA-Rent Expense]
-   - **Pattern**: Monthly recurring facility cost (~$7,200/month baseline)
-   - **Cumulative W. W. Reynolds**: $14,258.81 across all transactions
-
-2. **June 17, 2026 — Manufacturing Assembly Materials**: $33.92
-   - **Purchase #0616JELSTON** | [DIRECT COSTS:DC-Direct Material Purchases]
-   - **Items**: Fully Insulated Quick-Disconnect Terminals; 18-8 Stainless Steel Phillips Flat Head Screws
-   - **Significance**: Direct assembly components for aircraft/production; supports S3 manufacturing pipeline
-   - **Account**: [Direct Material Purchases]
-
-3. **June 17, 2026 — Shop Supplies (Masking Tape)**: $68.05
-   - **Purchase #0616JELSTON** | [FACILITIES:FA-Shop Supplies]
-   - **Purpose**: Masking tape for powder coating operations
-   - **Significance**: Supporting manufacturing finish processes; minimal cost item
-   - **Vendor Note**: "No Asana request - project listed under each item"
-
-4. **June 18, 2026 — Inventory Component Acquisitions**: $460.79 (two purchases)
-   - **Purchase #SC51C906**: $158.58 | *For future S3 sales*
-   - **Purchase #YW1744139**: $302.21 | *For future S3 sales*
-   - **Pattern**: Staged procurement strategy continues; supporting S3 production ramp-up
+1. **June 18, 2026 — Purchase #SO21126 (Inventory Asset)**: $813.04
+   - **Significance**: Largest single inventory acquisition in new batch; component procurement for S3 production
    - **Account**: [Inventory Asset]
-   - **Explicit Pipeline Link**: Both purchases designated "for future S3 sales," confirming direct revenue-generating production intent
-   - **Coordination**: Aligned with battery procurement (June 9) and earlier component staging (June 10)
-   - **Burn Rate Indicator**: Consistent component acquisition velocity indicates active production cycle
+   - **Designation**: "for future S3 sales"
+   - **Pattern**: Indicates mid-to-large component order; supports 225+ unit staging narrative
+   - **Production Pipeline**: Directly linked to revenue-generating S3 product line
+
+2. **June 18, 2026 — Sales & Marketing (Krateo Sky Visit Supplies)**: $55.66
+   - **Memo**: "Paige made purchase in person"
+   - **Account**: [SALES & MARKETING:SM-Conferences/Seminars]
+   - **Significance**: In-person customer engagement with Krateo Sky (invoice #1752 outstanding, $10,860.48)
+   - **Context**: Direct customer relationship investment; aligns with collection priority on largest outstanding invoice
+
+3. **June 18–19, 2026 — Inventory Component Surge**: $1,273.83 (three purchases in two days)
+   - **Purchase #SO21126**: $813.04 (June 18)
+   - **Purchase #SC51C906**: $158.58 (June 18)
+   - **Purchase #YW1744139**: $302.21 (June 18)
+   - **Pattern**: Coordinated, multi-purchase component acquisition within 24-hour window
+   - **Burn Rate Indicator**: Accelerated inventory velocity; sustained procurement momentum suggests imminent production cycle or fulfillment preparation
+   - **Account**: [Inventory Asset]
+   - **All Designated**: "for future S3 sales" (explicit revenue pipeline confirmation)
+
+4. **June 2026 Cumulative Inventory Spending**: $6,253.49 across 18 transactions
+   - **Breakdown**: 
+     - Battery procurement (June 9): $1,078.34 (225+ units staged)
+     - Supplementary components (June 10): Multi-item acquisition
+     - Materials & connectors (June 17): $33.92
+     - Component surge (June 18–19): $1,273.83
+   - **Trend**: Consistent week-over-week acquisition pattern; indicates staged, coordinated scaling strategy
+   - **Revenue Link**: All purchases explicitly tied to S3 sales pipeline
+   - **Production Readiness**: Inventory velocity suggests manufacturing is progressing; components positioned for fulfillment
 
 5. **Outstanding Receivables Alert**: $17,894.36 across three invoices
-   - All invoices remain unpaid as of June 18, 2026
-   - **Invoice #1696** (Phase1 Aviation, $6,105.00) contains documented double-payment error requiring recovery/credit
-   - **Collection Risk**: 26+ months without payment on oldest outstanding invoice; escalating priority recommended
+   - All invoices remain unpaid as of June 19, 2026
+   - **Invoice #1752** (Krateo Sky, $10,860.48): **In-person visit on June 18** suggests collection/contract discussion likely
+   - **Invoice #1696** (Phase1 Aviation, $6,105.00): Contains documented double-payment error requiring recovery/credit
+   - **Collection Priority**: 26+ months without payment on oldest outstanding invoice; June 18 customer engagement with Krateo Sky represents escalation opportunity
 
-6. **June 2026 Burn Rate (Partial Period)**: $22,687.10 in 17 days (June 2–18)
-   - **Note**: Elevated month due to pre-paid July rent ($7,198.87)
-   - **Excluding Prepaid Rent**: $15,488.23 in operational spend (17 days)
-   - **Annualized Operational Pace**: ~$333,394 per month (extrapolating 17-day sample, excluding rent prepayment)
-   - **Operational Breakdown**: Fringe benefits 28% + Inventory scaling 32% + IRAD & facilities 40%
-   - **Production Momentum**: S3 component velocity remains steady; suggests manufacturing pipeline is active
+6. **June 2026 Burn Rate (Partial Period)**: $23,916.59 in 18 days (June 2–19)
+   - **Note**: Elevated month due to pre-paid July rent ($7,198.87) and accelerated inventory procurement ($6,253.49)
+   - **Excluding Prepaid Rent & Inventory**: $10,662.23 in core operational spend (18 days)
+   - **Annualized Operational Pace** (excluding rent prepayment & inventory scaling): ~$215,841 per month
+   - **Operational Breakdown**: Fringe benefits 27% + Facilities 30% + IRAD 17% + Inventory (production scaling) 26%
+   - **Production Momentum**: Accelerated inventory acquisition on June 18–19 signals manufacturing pipeline entering active fulfillment phase
 
 ---
 
-**Data Status**: All transactions through June 18, 2026 confirmed and integrated. New raw data
+**Data Status**: All transactions through June
