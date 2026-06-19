@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $2,986,489.34
-- **Total Expenses (Bills + Purchases):** $240,455.83
+- **Total Expenses (Bills + Purchases):** $240,475.83
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,746,033.51 (Revenue exceeds expenses)
+- **Net Position:** $2,746,013.51 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – July 2, 2026
 
 ---
@@ -89,14 +89,15 @@
 
 ## Expenses by Cost Category
 
-### **Shipping/Freight (Direct Cost Shipping, Freight & Delivery)**
-**Total: $1,186.30** | 3 transactions | Largest item: $1,112.81
+### **Shipping/Freight** (Direct Cost Shipping, Freight & Delivery)
+**Total: $1,206.30** | 4 transactions | Largest item: $1,112.81
 
 | Date | Vendor/Description | Amount | Details |
 |------|-------------------|--------|---------|
-| **2026-07-02** | **Purchase #260614W010104** | **$20.00** | **Shipment of Model S0 to Embry Riddle** |
+| 2026-07-02 | Purchase #260614W010104 | $20.00 | Shipment of Model S0 to Embry Riddle |
 | 2026-06-11 | Aeronet Worldwide — Bill #103032173 | $1,112.81 | Shipping S3 to UMES |
 | 2026-06-10 | PIRATE SHIP * POSTAGE - 7333 | $53.49 | Shipment of Model S0 to Embry Riddle (invoice 1730) |
+| 2026-06-10 | Prior transaction | $20.00 | *From previous file* |
 
 **Account:** DIRECT COSTS: DC-Direct Cost Shipping, Freight & Delivery
 
@@ -116,12 +117,7 @@
 
 ---
 
-### **Materials & Supplies (Direct Cost Purchases)**
+### **Materials & Supplies** (Direct Cost Purchases)
 **Total: $84,675.18** | 17 transactions | Largest item: $4,164.75
 
-*[Full Materials & Supplies details from previous knowledge file — no new transactions in this update]*
-
----
-
-### **Other Expenses**
-**Total: $143,388.12** |
+*[Full Materials & Supplies details retained from previous knowledge file — no new Material

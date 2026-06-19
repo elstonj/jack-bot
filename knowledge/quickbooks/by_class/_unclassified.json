@@ -5,41 +5,20 @@
     "[012-3] Embry Riddle Model S0"
   ],
   "period": {
-    "start": "2026-06-17",
-    "end": "2026-06-18"
+    "start": "2026-06-18",
+    "end": "2026-06-19"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 7747.71,
+    "expenses": 1349.49,
     "by_category": {
-      "FACILITIES:FA-Rent Expense": 7198.87,
-      "Inventory Asset": 460.79,
-      "FACILITIES:FA-Shop Supplies": 45.41,
-      "DIRECT COSTS:DC-Direct Material Purchases": 22.64,
+      "Inventory Asset": 1273.83,
+      "SALES & MARKETING:SM-Conferences/Seminars": 55.66,
       "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 20.0
     }
   },
   "invoices": [],
-  "bills": [
-    {
-      "type": "Bill",
-      "date": "2026-06-17",
-      "doc_number": "",
-      "total": 7198.87,
-      "attributed": 7198.87,
-      "vendor": "W. W. Reynolds Companies",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 7198.87,
-          "account": "FACILITIES:FA-Rent Expense",
-          "description": "July 2026 rent"
-        }
-      ]
-    }
-  ],
+  "bills": [],
   "purchases": [
     {
       "type": "Purchase",
@@ -56,6 +35,42 @@
           "amount": 20.0,
           "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
           "description": "Shipment of Model S0 to Embry Riddle"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-18",
+      "doc_number": "SO21126",
+      "total": 813.04,
+      "attributed": 813.04,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 813.04,
+          "account": "Inventory Asset",
+          "description": "for future S3 sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-18",
+      "doc_number": "",
+      "total": 55.66,
+      "attributed": 55.66,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Paige made purchase in person",
+      "lines": [
+        {
+          "amount": 55.66,
+          "account": "SALES & MARKETING:SM-Conferences/Seminars",
+          "description": "Supplies for Krateo Sky visit"
         }
       ]
     },
@@ -92,29 +107,6 @@
           "amount": 302.21,
           "account": "Inventory Asset",
           "description": "For future S3 sales"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-06-17",
-      "doc_number": "0616JELSTON",
-      "total": 101.97,
-      "attributed": 68.05,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request - project listed under each item",
-      "lines": [
-        {
-          "amount": 33.92,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Fully Insulated Quick-Disconnect Terminals; 18-8 Stainless Steel Phillips Flat Head Screw"
-        },
-        {
-          "amount": 68.05,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Masking Tape for Powder Coating, Blue, 1\" Wide"
         }
       ]
     }

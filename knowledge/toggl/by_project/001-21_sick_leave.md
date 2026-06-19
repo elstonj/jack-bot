@@ -4,22 +4,25 @@
 - **Client:** Internal (BST)
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 24.0 hours
+- **Total hours tracked:** 40.0 hours
 
 ## Team Allocation
-- **Josh Fromm:** 16.0 hours (67% of tracked time)
-- **Beck Cotter:** 8.0 hours (33% of tracked time)
-- **Primary contributor:** Josh Fromm
+- **Josh Fromm:** 16.0 hours (40% of tracked time)
+- **Beck Cotter:** 24.0 hours (60% of tracked time)
+- **Primary contributor:** Beck Cotter
 
 ## Activity Timeline
-- Three entries recorded total
-- Most recent: Beck Cotter, 8.0 hours — "Travel day - likely not online"
+- Four entries recorded total
+- Most recent entries: Beck Cotter
+  - 8.0 hours — "Surgery day - offline all day"
+  - 8.0 hours — "Travel day - likely not online"
 - Earlier entries: Josh Fromm, two 8.0-hour entries (no descriptions provided)
 - No specific dates provided in this data
 
 ## Insights
-- This project tracks leave/absence usage (sick leave and travel)
-- 24 hours represents three full business days of absence across two team members
+- This project tracks leave/absence usage (sick leave, medical procedures, and travel)
+- 40 hours represents five full business days of absence across two team members
 - Josh Fromm accounts for two consecutive days of absence
-- Beck Cotter's entry indicates a travel day rather than illness
-- Minimal description data recorded; only Beck's entry includes context
+- Beck Cotter has documented two separate absences: one travel-related and one medical (surgery)
+- Beck Cotter's absences now account for the majority of tracked leave time
+- All absences documented with explicit offline/unavailable status

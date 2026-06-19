@@ -29,13 +29,13 @@
         "amount": 2718.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-18"
+        "last_updated": "2026-06-19"
       },
       "purchases": {
         "amount": 14319.83,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-06-18"
+        "last_updated": "2026-06-19"
       },
       "other_qbo": {
         "amount": 34.99,
@@ -49,7 +49,7 @@
     "committed": 11303.64,
     "remaining": 61466.79,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-18T09:06:37Z"
+    "last_reconciled": "2026-06-19T08:58:13Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -82,6 +82,6 @@
       "text": "From Joshua Fromm: ok all the payload parts for modifying both the murphys pond payloads and the gimbal are in the process of ordering right now, most parts to arrive ~ end of the week. biggest task is going to be rewiring the new db9 to mate up to the new style, which isn't a big deal at all. should be able to modify all 3 payloads in one day or less"
     }
   ],
-  "last_full_rebuild": "2026-06-18T09:06:37Z",
+  "last_full_rebuild": "2026-06-19T08:58:13Z",
   "last_incremental_update": null
 }

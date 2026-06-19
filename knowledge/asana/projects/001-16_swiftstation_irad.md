@@ -1,5 +1,4 @@
 # [001-16] SwiftStation IRAD
 
-Small project with 2 tasks.
-- [Open] Fix RF Interference Issues — Sam Hild
-- [Done] Fix battery indicator NAN Bug — Sam Hild
+Small project with 1 tasks.
+- [Open] Code review for battery integration — Jack Elston
