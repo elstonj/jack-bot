@@ -71,7 +71,7 @@
 ### June 2026 — Current Activity
 **[FEEDBACK, Jack, Jun 15-16, 2026]**: Kareem returning June 15 @ 12:00 PM after absence. Jack coordinating immediate task allocation:
 - **Primary assignment options**: S0 component fabrication OR ground station completion
-- **Priority alternative**: **Wildfire video project needs completion** — Jack asking team (unnamed assignees) to finalize division of labor and coordinate
+- **Priority alternative**: **Wildfire video project needs completion** — Jack asking team to finalize division of labor and coordinate
 - Additional tasks queued for Kareem pending team feedback
 
 ### Project Status Updates (April 2026 — TEAM CORRECTIONS AUTHORITATIVE)
@@ -118,6 +118,5 @@
 - S0 component fabrication and ground station infrastructure
 
 ### Active Work Streams (June 2026)
-- S0 component fabrication
-- Ground station completion
-- **
+- S0 component fabrication (Kareem candidate assignment)
+- Ground station completion (

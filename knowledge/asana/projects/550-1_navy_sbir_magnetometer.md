@@ -14,7 +14,7 @@
   - Phase I: Completed (January 2026)
   - **Option Period (Apr 14 – Sep 28, 2026): $99,459**
     - CLIN 0005 (Kick-Off & FWA Certification): $50,000 ✓ **COMPLETED** (submitted Apr 14, 2026)
-    - CLIN 0006 (Progress Report): $35,000 — Due Jun 29, 2026 — **OPEN**
+    - CLIN 0006 (Progress Report): $35,000 — Due Jun 29, 2026 — **OPEN** (21 days out)
     - CLIN 0007 (Final Report): $14,459 — Due Sep 28, 2026 — **OPEN**
 
 - **Timeline:** Option Period April 14 – September 28, 2026
@@ -23,7 +23,7 @@
 
 - **Status:** 🔴 **CRITICAL — SIGNIFICANT OVERDUE BACKLOG**
   - **17 open tasks, 0 completed**
-  - **Multiple critical technical milestones OVERDUE by 1–4+ weeks as of Jun 8, 2026:**
+  - **Multiple critical technical milestones OVERDUE as of Jun 8, 2026:**
     - Design of onboard logging (Jack Elston) — **31 days overdue** (due May 8)
     - Python plotting/analysis tools (Maciej Stachura) — **26 days overdue** (due May 13)
     - Build up ground testing S0-MAD (Alex Lomis) — **20 days overdue** (due May 19)
@@ -34,15 +34,15 @@
     - Build hand-launched S0-MAD (due Jun 12) — 4 days
     - Build & ground test S0-AD Launcher (due Jun 15) — 7 days
     - CLIN 0006 Progress Report due (due Jun 29) — 21 days
-  - **Team feedback (Jun 8, 2026):** Maciej Stachura confirms "for mag integration it's Alex and Sam on the critical engineering tasks" — indicates active work underway but task tracking may not reflect current status. Note: Navy meeting at 9:30 on Jun 8 was not scheduled as expected.
+  - **Team feedback (Maciej Stachura, Jun 8, 2026):** "For mag integration it's Alex and Sam on the critical engineering tasks" — indicates active work underway despite stale task tracking
 
 - **Priority:** **HIGH** (Navy government contract, compressed timeline, critical path delays)
 
 - **Team Members:**
   - **Alex Lomis** (PM/Owner, technical lead) — **CRITICAL PATH**: 8+ build, test, and flight tasks
-  - **Sam** (Critical engineering on mag integration) — Contact info needed
-  - **Jack Elston** (Technical lead, onboard logging & reporting) — Overdue design deliverable
-  - **Maciej Stachura** (Python tools, sensor configuration) — Overdue analysis tools
+  - **Sam** (Critical engineering on mag integration) — Contact info needed; appears to be on critical path
+  - **Jack Elston** (Technical lead, onboard logging & reporting, CLIN 0006/0007 reports) — Overdue design deliverable
+  - **Maciej Stachura** (Python tools, sensor configuration, analysis) — Overdue analysis tools
   - **Beck Cotter** (Camp Pendleton coordination & permissions) — Overdue permissions task
   - **Meredith O'hara Needham** (Administrative, invoicing, FWA certification)
   - **Dan Prendergast** (Support)
@@ -56,7 +56,7 @@
 | 0006 | Progress Report + Invoice | Jack Elston / Meredith O'hara Needham | $35,000 | **Jun 29, 2026** | **OPEN — 21 days from Jun 8** |
 | 0007 | Final Report + Invoice | Jack Elston / Meredith O'hara Needham | $14,459 | Sep 28, 2026 | **OPEN** |
 
-**Technical Milestones (All Tasks from Current Raw Data):**
+**Technical Milestones:**
 | Milestone | Owner | Due Date | Status as of Jun 8 |
 |---|---|---|---|
 | Design of ground testing S0-MAD | — | Apr 27, 2026 | ✓ Completed |
@@ -72,9 +72,10 @@
 | **Build up and ground test of S0-AD Launcher** | Alex Lomis | **Jun 15, 2026** | 🟡 **AT RISK (7 days from Jun 8)** |
 | **Local test flights with hand-launched S0-MAD (both sensors)** | Alex Lomis | Jul 1, 2026 | 🟡 **AT RISK** |
 | **Finalize Camp Pendleton flight plans and Aircraft** | Alex Lomis | Aug 10, 2026 | 🟡 **AT RISK** |
-| **Camp Pendleton demo flights (Sep 14–25)** | Alex Lomis | **Aug 14, 2026 (task listed)** | 🔴 **CRITICAL DEADLINE Sep 14–25** |
+| **Camp Pendleton demo flights (Sep 14–25)** | Alex Lomis | **Sep 14–25, 2026** | 🔴 **CRITICAL DEADLINE** |
 
 ## Task Summary
 - **Total Tasks:** 17 open, 0 completed
-  - **Contact Information (2):** Angel Ruiz-Reyes, Anthony Brescia (unassigned, tracking purposes)
-  - **Administrative/Reporting (4):** CLIN 0006 & 0007
+  - Contact information tasks: 2 (Angel Ruiz-Reyes, Anthony Brescia — tracking only)
+  - Administrative/reporting: 4 (CLIN 0006/0007 reports + invoices)
+  - Technical/build: 11 (design, build, test, flight operations)

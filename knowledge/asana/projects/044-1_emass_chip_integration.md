@@ -13,7 +13,7 @@
   - **🔴 CRITICAL: Customer payment friction** — EMASS refused to pay final milestone ($35k) because Validation Flights #2–#3 and final report remain incomplete. New per-flight-day billing model signals reduced confidence in fixed-price delivery.
   - **⚠️ Escalation boundary approaching** (set ~June 12, 2026): Jack Elston (May 12, 2026) imposed informal 1-month hold limit before escalation/re-evaluation.
   - **⚠️ Priority downrank**: Maciej Stachura (April 30, 2026) ranked EMASS as Priority #3 for closure (after S3 IRAD and S0-VTOL), indicating BST focus is shifting elsewhere while awaiting customer action.
-  - **⚠️ Navy meeting no-show** (June 8, 2026): Scheduled Navy meeting at 9:30 AM did not occur per Maciej Stachura — possible further delays or schedule slippage.
+  - **⚠️ Navy meeting no-show** (June 8, 2026): Scheduled Navy meeting at 9:30 AM did not occur per Maciej Stachura — possible coordination issue or schedule slippage.
 
 ## Key Deliverables & Milestones
 - **Phase 1: Design & Alignment** (Due: Jan 28, 2026) - ✅ Completed
@@ -42,8 +42,8 @@
 ## Recent Activity
 
 **June 8, 2026 (Maciej Stachura — Team Correction)**:
-- Navy meeting at 9:30 AM **did not occur** — flagged as no-show.
-- **Magnetometer integration assigned to Alex and Sam** (critical engineering tasks) — external team members; possible cross-project support or sub-team structure.
+- Navy meeting at 9:30 AM **did not occur** — flagged as no-show or scheduling issue.
+- **Magnetometer integration assigned to Alex and Sam** — critical engineering tasks; external team members or sub-team support structure.
 
 **June 2026 (Daniel Prendergast — Authoritative Billing Restructure)**:
 - **BILLING MODEL REVISED due to customer payment friction**
@@ -67,5 +67,5 @@
 - Confirmed external blocker: "We cannot perform those flights until they send us a new controller binary in the emass-bst slack channel."
 - Shifted own priority to 53rd Weather Squadron and SOCOM visit slides.
 
-**April 30, 2026 (Maciej)**:
-- **EMASS ranked Priority #3 for closure** (
+**April 30, 2026 (Maciej Stachura)**:
+- **EMASS ranked Priority #3 for closure**

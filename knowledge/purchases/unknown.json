@@ -63,5 +63,18 @@
     "notes": "DHL Express waybill 4789316906; payment for shipment-related fees",
     "date": "",
     "subject": ""
+  },
+  {
+    "id": "19eddf e9a315b791",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "U-Haul",
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Post-rental survey request; not a purchase",
+    "date": "",
+    "subject": ""
   }
 ]

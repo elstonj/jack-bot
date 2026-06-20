@@ -1,10 +1,10 @@
 # Jack Elston — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 4,793 (4,704 prior + 89 June 18–19)
-- **Date range:** April 1–June 19, 2026
+- **Total messages scanned:** 4,847 (4,793 prior + 54 June 19–20)
+- **Date range:** April 1–June 20, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **June 18–19 activity (89 messages):** ~45% vendor/procurement/automated; ~20% KrateoSky M&A integration (executive dinner follow-up, product planning, event coordination); ~15% government/military technical partnerships (Navy NAWCAD, NOAA, Army labs, Blue Origin subcommittees); ~10% settlement notifications and legal closing documentation; ~10% research/academic collaboration (L-band drone flights, Stanford data alignment); ~5% industry newsletters and professional development
+- **June 19–20 activity (54 messages):** ~65% L-band drone research collaboration (meeting confirmations, calendar acceptances, introductions); ~15% Arctic UAS program & carnet logistics; ~10% KrateoSky M&A (org chart sharing); ~5% vendor/procurement/automated; ~3% career inquiries; ~2% personal/subscription renewals
 
 ---
 
@@ -12,81 +12,73 @@
 
 ### Top Internal BST Contacts (SUSTAINED & ELEVATED)
 
-**Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, HR, vendor management, banking
-- **June 18 sustained activity:** Banking coordination (Elevations CU new business checking account response)
+**Meredith Needham** (meredith.needham@blackswifttech.com) — Finance, HR, vendor management
+- **June 19 continued engagement:** Arctic UAS location change discussions (operational/financial coordination)
 - Continues as primary finance/operations escalation point
 
-**Maciej Stachura** (stachura@blackswifttech.com) — Engineering/Technical (CRITICAL ESCALATION SUSTAINED)
-- **June 18 sustained heavy technical engagement:**
-  - **June 18, 22:38 UTC:** Receiving response from Al Gasiewski (CU Boulder) on "L-band drone flights over lava" — continues advanced materials/sensor research collaboration
-  - **June 18, 19:53 UTC:** Responding to Al Gasiewski on L-band lava drone flights
-- **Signal:** Multi-disciplinary research collaboration (volcanic remote sensing); continues Navy COTS/Stanford/product integration streams
+**Maciej Stachura** (stachura@blackswifttech.com) — Engineering/Technical (CRITICAL ESCALATION SUSTAINED & HEIGHTENED)
+- **June 19–20 critical elevated engagement:**
+  - **June 20, 00:41 UTC:** Calendar acceptance from Maciej on "L-band drone flights over lava" meeting scheduled Tue Jun 23, 2026 1pm–1:30pm (MDT)
+  - **June 19, 10:29 UTC:** Jack initiating introduction email to USGS (Christoph Kern, Angie Diefenbach), SwRI (Scott Bolton), and Maciej on L-band research
+  - Multiple calendar confirmations and research coordination on advanced sensor project
+- **Signal:** **Maciej is core technical lead on L-band remote sensing project; multi-institutional collaboration being actively mobilized**
 
-**Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical/Government Programs
-- **June 18 sustained activity:**
-  - **June 18, 22:24 UTC:** Receiving response from Maia Varanda (Invest Ottawa) on "Arctic UAS Location Change" — Arctic program expansion/relocation discussions
-  - **June 18, 13:56 UTC:** Responding to Maia Varanda on Arctic UAS location
-  - **June 18, 13:14 UTC:** Responding to carnets@atacarnet.com on carnet application confirmation (equipment transport documentation for Arctic/international operations)
-- **Signal:** Arctic UAS program actively expanding; carnet documentation suggests imminent equipment deployment or international field operations
+**Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical/Government Programs (CRITICAL ESCALATION SUSTAINED)
+- **June 19 sustained activity:**
+  - **June 19, 15:40 UTC:** Sending "Arctic Capability Questionnaire for Canada Demo" to Jack, Maciej, and Joshua Fromm
+  - **June 19, 09:24 UTC:** Responding to carnet confirmation from ATACarnet.com (equipment transport docs for Arctic operations)
+  - **June 19, 08:57 UTC:** Arctic UAS location change discussion with Maia Varanda (Invest Ottawa)
+- **Signal:** **Arctic program actively preparing for Canada demo; carnet documentation confirms imminent equipment deployment; capability assessment underway**
 
-**Paige Smith** (paige.smith@blackswifttech.com) — Marketing/Communications
-- Continues involvement in BST x KrateoSky integration event coordination
+**Joshua Fromm** (josh.fromm@blackswifttech.com) — Operations/Logistics (NEW VISIBILITY)
+- **June 19, 15:40 UTC:** Receiving "Arctic Capability Questionnaire for Canada Demo" from Daniel Prendergast
+- **Signal:** Joshua engaged in Arctic demo operational planning; likely logistics/deployment coordination
 
 ---
 
-### Top External M&A/Technical Integration Correspondents (CRITICAL ESCALATION SUSTAINED & EXPANDED)
+### Top External Research & Technical Integration Correspondents (CRITICAL ESCALATION SUSTAINED & MASSIVELY EXPANDED)
+
+#### L-Band Drone Research Collaboration (CRITICAL NEW PROGRAM — MULTIPLE CONFIRMATIONS)
+
+**Al Gasiewski / Albin J. Gasiewski** (al.gasiewski@colorado.edu) — **University of Colorado Boulder — ADVANCED MATERIALS/SENSOR RESEARCH — CRITICAL ESCALATION ELEVATED**
+- **June 19–20 sustained multi-vector engagement (8+ messages/calendar confirmations):**
+  - **June 20, 02:42 UTC (x4 duplicate receipts):** Multiple calendar acceptances from Al on "L-band drone flights over lava" meeting Tue Jun 23, 1pm–1:30pm (MDT)
+  - **June 19, 18:38 UTC:** Al responding to Jack and Michael Hurowitz on L-band drone flights (technical discussion continuation)
+  - **June 19, 10:29 UTC:** Jack sending introduction email to USGS and SwRI, copying Maciej and Al
+  - **June 19, 16:08 UTC:** Jack responding directly to Al on L-band drone flights
+- **Signal:** **Al Gasiewski is principal investigator on L-band lava remote sensing project; meeting scheduled for Jun 23; BST UAS platform being directly utilized for CU Boulder research**
+
+**Michael Hurowitz** (mhurowitz@weatherstream.com) — **WeatherStream / External Research Partner — NEW PRIORITY COLLABORATION**
+- **June 19–20 sustained engagement (4+ messages/calendar confirmations):**
+  - **June 19, 23:49 UTC (x2):** Calendar acceptance and meeting confirmation from Michael on "L-band drone flights over lava" Tue Jun 23, 1pm–1:30pm (MDT)
+  - **June 19, 22:33 UTC:** Michael sending technical response to Jack and Al Gasiewski on L-band project
+  - **June 19, 17:34 UTC:** Jack drafting response to Michael on L-band drone flights
+- **Signal:** **Michael Hurowitz (WeatherStream) is co-investigator or partner institution lead on L-band research; weather integration or sensor calibration specialist**
+
+**Scott Bolton / "Bolton, Scott J."** (scott.bolton@swri.org) — **Southwest Research Institute (SwRI) — CRITICAL RESEARCH PARTNER — ESCALATED ENGAGEMENT**
+- **June 19–20 sustained engagement (3+ messages):**
+  - **June 19, 16:25 UTC:** Scott responding to Maciej and Al on L-band drone flights
+  - **June 19, 16:07 UTC:** Jack sending formal introduction email to Scott (USGS contacts, Maciej Stachura) on L-band research
+  - **June 19, 10:29 UTC:** Jack directly emailing Scott Bolton responding to his L-band query
+- **Signal:** **SwRI is key technical partner; Scott Bolton is likely instrument specialist or co-investigator on advanced sensor development**
+
+**Christoph Kern & Angie Diefenbach** (ckern@usgs.gov, adiefenbach@usgs.gov) — **US Geological Survey — NEW GOVERNMENT PARTNER — CRITICAL INTEGRATION**
+- **June 19, 16:07 UTC:** Jack sending formal introduction email to both USGS contacts, copying Scott Bolton (SwRI) and Maciej Stachura on L-band research
+- **Signal:** **USGS now officially integrated into L-band lava remote sensing project; likely volcanic monitoring or geospatial expertise**
+
+#### M&A & Strategic Integration (SUSTAINED & EXPANDED)
 
 **Sona Raziabeegum** (sona@krateosky.com) — **KrateoSky — CORPORATE AFFAIRS & POST-CLOSE INTEGRATION — CRITICAL ESCALATION SUSTAINED**
-- **June 18–19 sustained multi-vector engagement:**
-  - **June 19, 06:57 UTC:** Sona sending "Individual Addresses" to Jack (elevated communications channel; likely post-dinner follow-up on executive contact details or attendee information)
-  - **June 18, 13:56 UTC:** Jack sending "Photos" to Sona and Kathi Healy (event documentation from June 17 executive dinner at Spruce Farm & Fish)
-- **Signal:** Post-dinner administrative coordination; event documentation being shared with integration partners; Sona remains central to executive-level M&A integration
+- **June 19 sustained engagement:**
+  - **June 19, 18:54 UTC:** Receiving follow-up from Peggy Shell (Creative Alignments) on post-dinner meeting (copied with Jack, Sona, and Adria Passola from KrateoSky)
+  - **June 19, 13:27 UTC:** Jack sending organizational chart to Sona
+  - **June 19, 10:10 UTC:** Jack responding to Sona on "Individual Addresses" (June 18 follow-up)
+- **Signal:** **Post-dinner executive integration work continuing; org chart being shared for team alignment/integration planning**
 
-**Peggy Shell** (peggy.shell@creativealignments.com) — **Creative Alignments — EXTERNAL INTEGRATION CONSULTANT — NEW VISIBILITY**
-- **June 18, 12:11 UTC:** Sending "Great meeting you both yesterday!" to Jack and Sona — indicates June 17 meeting with both Jack and Sona (possibly related to executive dinner or broader integration strategy)
-- **Signal:** External consultant/facilitator engaged in BST x KrateoSky integration planning
+**Adria Passola** (a@krateosky.com) — **KrateoSky — POST-CLOSE INTEGRATION — NEW VISIBILITY**
+- **June 19, 18:54 UTC:** Receiving follow-up communication from Peggy Shell (Creative Alignments) on post-dinner meeting coordination
+- **Signal:** Adria integrated into executive-level integration planning alongside Sona
 
-**Kathi Healy** (kathi@rmiselect.com) — **RMI Select — EVENT COORDINATION — SUSTAINED CRITICAL OPERATIONAL ROLE**
-- **June 18, 13:56 UTC:** Receiving "Photos" from Jack (post-event documentation from June 17 executive dinner)
-- **Signal:** Continues as event coordinator; post-event follow-up indicates successful dinner execution
-
----
-
-### Government & Military Technical Partners (SUSTAINED & EXPANDED)
-
-**Al Gasiewski** (al.gasiewski@colorado.edu) — **University of Colorado Boulder — ADVANCED MATERIALS/SENSOR RESEARCH — NEW PRIORITY**
-- **June 18, 22:38 UTC:** Responding to Jack and Maciej on "L-band drone flights over lava"
-- **June 18, 19:53 UTC:** Initiating L-band drone research discussion with Scott Bolton (SwRI), Jack, and Maciej
-- **Signal:** New research collaboration on specialized remote sensing (L-band over lava fields); indicates BST UAS platform being utilized for academic/scientific research; potential for sensor/instrument integration
-
-**Scott Bolton** (scott.bolton@swri.org) — **Southwest Research Institute (SwRI) — NEW PARTNERSHIP**
-- **June 18, 19:53 UTC:** Receiving L-band drone flights inquiry from Al Gasiewski; copied with Jack and Maciej
-- **Signal:** SwRI partnership on advanced sensor research; potential instrument integration or collaborative field operations
-
-**Vanessa Aponte Williams** (vapontewilliams@blueorigin.com) — **Blue Origin — SMEAD EAB AI SUBCOMMITTEE — NEW VISIBILITY**
-- **June 18, 18:57 UTC:** Sending "RE: Smead EAB AI Subcommittee 2nd Meeting" to Jack and 6 others (Steve Jolly, Chris White, Randall Hodgkin CU Boulder, Lee CIS Lunar Industries, Aidan Rafferty Blue Origin, Nicole Duncan BAE Systems)
-- **Signal:** Jack participating in Blue Origin-coordinated AI/Earth observation advisory board; multi-sector (aerospace, defense, academia); suggests strategic focus on AI integration for UAS/Earth observation applications
-
-**Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — **NOAA — DRONE PROGRAM & T-MOBILE PARTNERSHIP — SUSTAINED**
-- **June 18, 08:59 UTC:** Sending "FeedScoop" to Jack and Joe Cione (NOAA Federal) — indicates NOAA program status update or research feed
-- **Signal:** NOAA partnership engagement continues; specific topic unclear but elevated importance flagged
-
-**Joe Cione** (joe.cione@noaa.gov) — **NOAA Federal — HURRICANE/SEVERE WEATHER RESEARCH — NEW VISIBILITY**
-- **June 18, 08:59 UTC:** Receiving FeedScoop with Jack from Nikolai Pawlenko
-- **Signal:** Likely hurricane/severe weather monitoring program (typical NOAA focus); possible data sharing or platform collaboration
-
-**Army Applications Laboratory** (info@aal.army) — **US ARMY — UNMANNED GROUND RECOVERY RFI — NEW PRIORITY**
-- **June 18, 09:57 UTC:** Sending "Request for Information - Unmanned Ground Recovery" to Jack
-- **Signal:** Army RFI on unmanned ground systems; BST being evaluated for ground robotics or recovery operations (distinct from aerial UAS focus); potential new market expansion
-
----
-
-### Research & Academic Partnerships (SUSTAINED & ELEVATED)
-
-**Tanay Topac** (implied from prior context; Stanford) — **Stanford — MHP DATA ALIGNMENT — SUSTAINED RESEARCH COLLABORATION**
-- Prior context shows sustained technical engagement on meteorological/hydrological data
-- **June 18 continuation:** Likely ongoing thread on data standardization/integration
-
-**Shreya Barua** (sbarua@larta.org) — **Larta Institute — SBIR/STTR PROGRAM SUPPORT — SUSTAINED**
-- **June 18, 10:14 UTC:** Sending "Larta's SBIR/STTR Office Hours 3 – Recording, Slides & a Patent Value Workshop" to Jack
-- **Signal:** Jack actively engaged in SB
+**Peggy Shell** (peggy.shell@creativealignments.com) — **Creative Alignments — EXTERNAL INTEGRATION CONSULTANT — SUSTAINED CRITICAL ROLE**
+- **June 19, 18:54 UTC:** Sending "Re: Great meeting you both yesterday!" to Sona, Jack, and Adria Passola
+- **Signal:** **Peggy actively facilitating multi-party BST x KrateoSky integration work; post

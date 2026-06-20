@@ -1,17 +1,17 @@
 {
   "period": {
-    "start": "2026-06-18",
-    "end": "2026-06-19"
+    "start": "2026-06-19",
+    "end": "2026-06-20"
   },
-  "scanned_at": "2026-06-19",
+  "scanned_at": "2026-06-20",
   "projects": [
     {
       "project_code": "300-3",
       "revenue": 144000.0,
-      "expenses": 183.33,
+      "expenses": 90.16,
       "invoice_count": 2,
       "bill_count": 0,
-      "purchase_count": 2,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -34,14 +34,13 @@
     {
       "project_code": "_unclassified",
       "revenue": 0.0,
-      "expenses": 1349.49,
+      "expenses": 20.0,
       "invoice_count": 0,
       "bill_count": 0,
-      "purchase_count": 5,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "",
         "[012-3] Embry Riddle Model S0"
       ]
     }

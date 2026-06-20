@@ -1,10 +1,10 @@
 # Meredith O'hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 179 emails (136 previous + 43 new)
-- **Date range:** June 15–19, 2026 (5 days)
-- **Approximate volume:** ~36 emails/day
-- **Trend:** Sustained high volume with heavy operational/administrative focus on June 18–19; procurement routing, HR/payroll system troubleshooting intensifying, and international logistics setup
+- **Total messages scanned:** 202 emails (179 previous + 23 new)
+- **Date range:** June 15–20, 2026 (6 days)
+- **Approximate volume:** ~34 emails/day
+- **Trend:** High operational volume sustained; critical focus on HR/payroll platform issues, international logistics, and recruitment activity emerging
 
 ---
 
@@ -13,116 +13,107 @@
 ### Incoming (by frequency)
 
 **Automated Systems & Purchasing Routing:**
-1. **Purchasing system** (`purchasing@blackswifttech.com`) — 50+ messages
-   - **Vendors:** Harbor Freight (promotional), Pirate Ship (shipping adjustment), U-Haul (survey), Expedia (travel booking), Budget (car rental), Toggl Track (time tracking), Rock West Composites, Composite Envisions
-   - **New operational patterns:** Travel/logistics heavy (Expedia, Budget, U-Haul, Pirate Ship, Lyft Business)
-   - **Pattern change:** Increase in non-manufacturing vendor communications (travel, logistics, tools)
+1. **Purchasing system** (`purchasing@blackswifttech.com`) — 60+ messages
+   - **Vendors (recurring):** Harbor Freight, Pirate Ship, Amazon, Powerwerx, Center Copy Printing, Composite Envisions, Rock West Composites
+   - **New vendors:** Powerwerx (electrical/crimping tools — "One crimper. Ten dies. No tools to swap them")
+   - **Pattern:** Equipment/parts procurement (electrical connectors, storage devices, composite materials, printing services)
+   - **NEW:** Past due invoices alert issued (Jun 20, 07:15 UTC) — payment processing issue flagged
 
-2. **Operations system** (`operations@blackswifttech.com`) — 7+ messages
-   - **Federal Service Desk (FSD):** 4 messages related to incident INC-GSAFSD21212062 (closed 18 Jun, feedback requested)
-   - **ATACarnet.com:** 2 carnet application confirmations + 1 FedEx shipment notification
-   - **Colorado FAMLI Division:** 2 regulatory briefs (family/medical leave, payroll-related compliance)
-   - **Pattern:** Government compliance and international logistics setup underway
+2. **Rippling HR/Payroll system** (`support@rippling.com`) — 11+ messages
+   - **Active issues (Jun 19):**
+     - Employee classification & tax status corrections (ongoing resolution thread)
+     - **Bank account switching incident:** Rippling switched/changed bank account without authorization
+     - **Status:** Meredith escalated same-day (09:04 PDT); support issued duplicate confirmations (15:06, 15:08 UTC) indicating escalation/investigation
+   - **Pattern:** Multiple critical system incidents in rapid succession (unauthorized debit case #06895507 + bank account change)
+   - **Engagement level:** High urgency; Meredith directly engaged support within 6-hour window
 
-3. **Rippling HR/Payroll system** (`support@rippling.com`) — 8+ messages
-   - **Escalation:** Multiple back-and-forth threads on Jun 18 (10:42–18:10 UTC/PDT)
-   - **Issues:** 
-     - Employee classification & tax status corrections (ongoing)
-     - **Unauthorized debit case #06895507** — account charged without approval (NEW CRITICAL ISSUE)
-   - **Meredith's engagement:** 5 direct replies within 7.5 hours (Jun 18, 10:42–18:10), indicating priority escalation
-   - **Status:** Support resolving both classification issue AND unauthorized charge
+3. **Operations system** (`operations@blackswifttech.com`) — 8+ messages
+   - **Ken Jochim announcement:** Jun 19, 18:42 UTC (via operations routing)
+   - **ATA Carnet activity:** Ongoing international logistics
+   - **Pattern:** Internal announcements + compliance routing
 
-4. **QuickBooks notifications** — 0 new messages (rate decreased from prior period)
+4. **Asana** — 1 new message (Jun 19, 20:28 UTC)
+   - **Subject:** Unread notifications
+   - **Pattern:** Active project management engagement
 
-5. **Asana** — 0 new messages
-
-6. **Toggl Track** (`support@track.toggl.com`) — 1 message (no subject; time tracking system)
-   - **New service:** Not previously visible in earlier data
+5. **ATACarnet** (`carnets@atacarnet.com`) — 1 new message
+   - **Daniel Prendergast reply:** Jun 19, 09:24 PDT (confirming carnet general list)
+   - **Context:** International customs documentation still active
 
 **Human Contacts:**
 
-7. **Shelby Hammond** (`Shelby.Hammond@elevationscu.com`) — 1 message received
-   - **Subject:** Re: Elevations CU New Business Checking Account
-   - **Context:** Meredith reply sent Jun 18 10:10 AM
+6. **Daniel Prendergast** (`daniel.prendergast@blackswifttech.com`) — 3 messages
+   - **Arctic UAS Location Change:** Meredith reply sent Jun 19, 09:13 PDT; Daniel also replied to Maia Varanda (investottawa.ca) same day
+   - **Carnet General List Confirmation:** Daniel replied to ATACarnet.com Jun 19, 09:24 PDT
+   - **Implication:** Daniel managing international logistics coordination (Ottawa, Canada shipments)
 
-8. **Nikolai Pawlenko** (`nikolai.f.pawlenko@noaa.gov`) — 1 message received
-   - **Subject:** Re: Display Quote
-   - **Context:** Meredith reply sent Jun 18 10:01 AM
+7. **Jack Elston** (`elstonj@blackswifttech.com`) — 1 message
+   - **Subject:** Re: greetings/ask
+   - **Recipients:** Scott Tibbitts (`scott@level6.space`), Meredith Needham
+   - **Date:** Jun 19, 16:26 PDT
+   - **Marked:** IMPORTANT
+   - **Context:** Cross-organization communication; Level 6 Space (external partner) engaged
 
-9. **Rippling Support** — 8 messages (escalating support interactions)
+8. **Robert Correia** (`rcorreia@aeronet.com`) — 1 message
+   - **Subject:** RE: Battery Shipment to Ottawa Canada / Quote # 141679 to Canada & Quote # 141681 Return from Canada / 103032172
+   - **Recipients:** Noah Ray, Daniel Prendergast
+   - **Date:** Jun 19, 20:26 UTC
+   - **Marked:** IMPORTANT
+   - **Context:** Battery shipments to Ottawa (international logistics, cross-border quotes)
 
-10. **Composite Envisions** (`info@compositeenvisions.com`) — 2 messages
-    - **Order confirmation:** Order 647-SO21126 received (Jun 18, 10:03 AM)
-    - **Account login issue resolved** — Meredith contacted support; issue resolved with response received same day (13:05 UTC)
+9. **Noah Ray** (`nray@investottawa.ca`) — 1 message
+   - **Subject:** Re: Battery Shipment to Ottawa Canada / Quote # 141679 to Canada & Quote # 141681 Return from Canada / 103032172
+   - **Recipients:** Daniel Prendergast, Robert Correia
+   - **Date:** Jun 19, 20:45 UTC
+   - **Marked:** IMPORTANT
+   - **Context:** Invest Ottawa (economic development/business liaison); coordinating battery shipments & international logistics
 
-11. **KCO, Inc.** (`cheryl@kcotax.com`) — 1 message
-    - **Subject:** Invoice 2011536 from KCO, Inc. - Black Swift Technologies, LLC
-    - **Recipients:** Jack Elston (elstonj@gmail.com), Meredith
-    - **Context:** Tax/accounting invoice; Jack Elston cc'd (new contact pairing)
+10. **Paige Smith** (`paige.smith@blackswifttech.com`) — 1 message
+    - **Subject:** Fwd: Invoice 73488 from Center Copy Boulder, Inc
+    - **Date:** Jun 19, 09:03 PDT
+    - **Context:** Internal routing of vendor invoice; administrative coordination
 
-12. **ATA Carnet** (`carnets@atacarnet.com`) — 3 messages
-    - **Carnet confirmations:** General list + application confirmation
-    - **FedEx shipment notification:** US 89/26-64726 (Jun 18, 21:15 UTC)
-    - **Participant:** Daniel Prendergast replied to carnet confirmation (Jun 18, 13:14)
-    - **Implication:** International customs/export documentation setup in progress
-
-13. **UASweekly.com** (`newsletter@uasweekly.com`) — 1 message
-    - **Recipient:** info@blackswifttech.com (not directly to Meredith)
-    - **Category:** Industry newsletter (UAS = Unmanned Aircraft Systems)
-
-14. **Lyft Business** (`business@marketing.lyftmail.com`) — 1 message
-    - **Subject:** Welcome to Lyft Business, Meredith
-    - **Context:** New account setup; mobility/travel expense management
+11. **Career inquiries** (2 new messages)
+    - **Toby Wachter** (`twachter19234@gmail.com`) — "Interest in Career Opportunity" (Jun 19, 19:53 PDT, IMPORTANT)
+    - **Gavin Abel** (`gavinpabel93@gmail.com`) — "Manufacturing / UAS Leadership Interest" (Jun 19, 11:59 PDT, IMPORTANT)
+    - **Recipient:** careers@blackswifttech.com
+    - **Pattern:** BST recruiting active; leadership-level candidates reaching out
 
 ---
 
 ## Topic Patterns
 
-### Primary: HR/Payroll System Crisis & Remediation
-- **Rippling employee classification issue:** Ongoing correction thread (now 8 messages vs. 6 previous)
-  - **NEW:** Unauthorized account debit (case #06895507) — Rippling charged without approval
-  - **Response time:** Meredith escalated same day with 5 direct replies (10:42–18:10 UTC)
-  - **Status:** Support engaged; Meredith following up actively
-- **Employee tax status corrections:** Still in progress; requires compliance filing
+### Primary: HR/Payroll System Crisis Escalating
+- **Rippling employee classification issue:** Now 11+ messages (vs. 8 previous)
+  - **Tax status corrections:** Still pending
+- **CRITICAL: Unauthorized bank account change**
+  - **Incident:** Rippling system switched bank account without approval (discovered Jun 19, 09:04 PDT)
+  - **Meredith's response:** Escalated same-day to Rippling support
+  - **Support acknowledgment:** Duplicate messages issued (15:06 & 15:08 UTC) indicating systemic investigation
+  - **Risk level:** HIGH — potential payroll/cash flow disruption
+- **Previous incident (unresolved):** Unauthorized debit (case #06895507) still active
+- **Implication:** Rippling platform experiencing significant reliability/security issues; may indicate need for urgent migration to alternative (Deel) or system audit
 
-**Implication:** BST experiencing HR/payroll platform reliability issues alongside system transition (Rippling vs. Deel evaluation).
+### Secondary: International Operations & Logistics (Escalating)
+- **Arctic UAS Location Change:** New operational detail emerging
+  - **Participant:** Daniel Prendergast coordinating with Maia Varanda (Invest Ottawa)
+  - **Meredith engagement:** Direct reply Jun 19, 09:13 PDT
+  - **Implication:** UAS facility or operations relocating; possible move to Ottawa area
+- **Battery shipment to/from Ottawa:**
+  - **Quotes:** #141679 (to Canada), #141681 (return from Canada)
+  - **Shipment tracking:** 103032172
+  - **Participants:** Robert Correia (Aeronet — battery supplier), Noah Ray (Invest Ottawa), Daniel Prendergast
+  - **Context:** Cross-border logistics for battery components; possible testing, servicing, or assembly in Canada
+- **ATA Carnet documentation:** Still active; Daniel Prendergast managing confirmations
 
-### Secondary: International Logistics & Customs Compliance
-- **ATA Carnet documentation:** Application + general list confirmation (NEW)
-  - **Participants:** Daniel Prendergast (internal), ATACarnet.com
-  - **FedEx shipment:** Tracked under carnet protocol (US 89/26-64726)
-  - **Implication:** Exporting S0 components or equipment internationally; customs pre-clearance underway
-- **Colorado FAMLI compliance:** State regulatory briefs received (Jun 18, 20:31–20:32 UTC)
-  - **Recipients:** operations@bst.aero, admin@blackswifttech.com, operations@blackswifttech.com
-  - **Relevance:** Family/Medical Leave Insurance — applicable to Colorado operations
+### Tertiary: Equipment & Parts Procurement
+- **Powerwerx order:** "One crimper. Ten dies. No tools to swap them" (Jun 19, 22:28 UTC)
+  - **Vendor:** Electrical/connector tooling supplier
+  - **Implication:** Connector assembly or electrical system manufacturing ongoing
+- **Composite Envisions order 647-SO21126:** Shipped (Jun 19, 11:19 PDT)
+- **Amazon Kingston 64GB DataTraveler:** Shipped (Jun 19, 15:37 UTC)
+  - **Use case:** Data storage/transfer (possibly for manufacturing docs, testing data, or secure transport)
+- **Rock West Composites:** Ongoing vendor relationship (composite materials)
 
-### Tertiary: Travel & Logistics Operations (NEW)
-- **Expedia booking:** Holiday Inn Express & Suites Ottawa West - Nepean (rating survey)
-  - **Destination:** Ottawa, Canada
-  - **Date:** Jun 18
-  - **Implication:** Team travel scheduled; possible client/partner meeting or site visit
-- **Budget car rental:** Summer getaway promotional (likely transactional)
-- **U-Haul survey:** Recent rental experience feedback
-- **Pirate Ship shipping adjustment:** Logistics cost correction
-- **Lyft Business account:** New mobility management system; suggests ongoing travel/commute expense tracking
-
-### Quaternary: Component Sourcing & Manufacturing
-- **Rock West Composites:** Cash sale receipt (CS013005, Jun 18, 11:23 AM)
-  - **Vendor:** adriana.smith@1rockwest.com
-  - **Pattern:** Composite materials supplier (aligns with S0 platform manufacturing)
-- **Composite Envisions:** Account login issue resolved; order 647-SO21126 in process
-  - **Issue:** Account access problem (resolved same day)
-  - **Suggests:** Meredith manages vendor account login/support for operations team
-
-### Quinary: Government & Regulatory Relations
-- **Federal Service Desk (FSD):** Incident INC-GSAFSD21212062 closed (Jun 18, 18:48 PDT)
-  - **Status:** Closed; feedback survey issued
-  - **Context:** Previously active operational incident; details not visible in metadata
-- **NOAA Federal (Nikolai Pawlenko):** Display Quote discussion continuing (Meredith reply sent Jun 18)
-
----
-
-## Communication Patterns
-
-### Temporal Patterns
-- **High
+### Quaternary: Administrative & Finance Issues
+- **Past due invoices alert:** System notification issued
