@@ -1,89 +1,89 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 91 emails (78 previous + 13 new)
-- **Date range:** June 12–18, 2026 (7 days)
-- **Volume:** ~13 emails/day; 85%+ routed through purchasing@blackswifttech.com
-- **Direct personal email:** 2 messages (Asana task reminder)
-- **Unread rate:** 13 of 13 new messages (100%) — continued pattern of bulk-filtering or auto-categorization
+- **Total messages scanned:** 98 emails (91 previous + 7 new)
+- **Date range:** June 12–20, 2026 (9 days)
+- **Volume:** ~11 emails/day; 85%+ routed through purchasing@blackswifttech.com
+- **Direct personal email:** 1 new message (Asana task reminder on Jun 19)
+- **Unread rate:** 7 of 7 new messages (100%) — continued pattern of bulk-filtering or auto-categorization
 
 ## Key Correspondents
 
 ### Primary Channels
-- **Purchasing inbox relay:** purchasing@blackswifttech.com (11 of 13 new emails — 85%)
-- **Direct to sam.hild@blackswifttech.com:** 2 new messages (Asana task reminder)
+- **Purchasing inbox relay:** purchasing@blackswifttech.com (6 of 7 new emails — 86%)
+- **Direct to sam.hild@blackswifttech.com:** 1 new message (Asana task reminder)
 
-### Vendors/Suppliers (New Activity — Jun 18)
-- **Composite Materials:** Rock West Composites (cash sale #CS013005 — Jun 18); Composite Envisions (order 647-SO21126 received — Jun 18)
-- **Logistics/Delivery:** UPS (package delivery notification — Jun 18); Spindrift Market (order SH62374651 — 2 tracking updates: out for delivery + delivered, Jun 18)
-- **Travel/Rental Services:** Expedia (Holiday Inn Express & Suites Ottawa West - Nepean rating request — Jun 18); Budget (summer travel promotion — Jun 18); U-Haul corporate survey (Jun 18)
-- **Drone/Avionics:** uAvionix (Father's Day promotion — Jun 18, routed to Jack Elston via purchasing)
-- **Billing/Administrative:** Black Swift Technologies billing invoices notification (Jun 18, routed to earellano@aeronet.com)
+### Vendors/Suppliers (New Activity — Jun 19–20)
+- **Composite Materials:** Composite Envisions (order 647-SO21126 shipped — Jun 19; previously received Jun 18)
+- **Metal Fabrication:** SendCutSend (order SC51C906 delivered — Jun 19)
+- **Shipping/Fulfillment:** Pirate Ship (payment receipt $40.71 — Jun 20)
+- **Containers/Logistics:** RPP Containers (contact: Lydia Forsthoefel <lydiaf@rppcontainers.com> — bulk container order SO5062491 — Jun 19)
+- **Office Services:** Center Copy Printing (payment processed via Skyline Payments — Jun 19)
+- **Food/Catering:** Verde (promotional email "Japanese BBQ Meets Tacos?" — Jun 19) — likely office/employee perk or local vendor
 
 ### Internal Correspondents
-- **Jack Elston** — receives uAvionix promotional email (Jun 18) — continues drone/avionics equipment interest
+- **Josh Fromm** — receives Pirate Ship payment receipt routed through purchasing (Jun 20) — **logistics/shipping coordination**
 
 ### External Contacts
-- **Adriana Smith** <adriana.smith@1rockwest.com> — Rock West Composites sales contact
-- **earellano@aeronet.com** — receives BST billing invoices; likely finance/accounting role
+- **Lydia Forsthoefel** <lydiaf@rppcontainers.com> — RPP Containers account contact; bulk container procurement
 
 ## Topic Patterns
 
-### Materials & Fabrication (Elevated)
-- **Composite materials:** Rock West Composites cash sale (Jun 18); Composite Envisions order received (Jun 18)
-  - **Significance:** Two separate composite suppliers in single day suggests **active fabrication/materials procurement cycle** — consistent with prior ServoCity and SendCutSend activity
+### Materials & Fabrication (Sustained Activity)
+- **Composite materials:** Composite Envisions order 647-SO21126 shipped (Jun 19) — **continuation of Jun 18 order activity**
+- **Metal fabrication:** SendCutSend order SC51C906 delivered (Jun 19) — **active fabrication cycle confirmed**
+- **Significance:** Multi-day, multi-supplier delivery window (Jun 18–19) confirms **ongoing hardware assembly/prototyping project**
 
-### Logistics & Travel (New Pattern)
-- **Travel to Ottawa:** Expedia booking for Holiday Inn Express & Suites Ottawa West - Nepean (Jun 18 rating request) — **confirms Ottawa trip is active/complete**
-- **Vehicle rentals:** Budget summer travel promo (Jun 18); U-Haul rental survey (Jun 18); rental account verification (Jun 18)
-  - **Implication:** Team travel coordination — possibly rental equipment or vehicle fleet for Ottawa trip
+### Containers & Logistics (New Pattern)
+- **RPP Containers:** Bulk container order SO5062491 (Jun 19) — **Lydia Forsthoefel direct correspondence**
+  - **Implication:** Packaging, storage, or transport containers — suggests **fabrication output requiring containment/shipping solutions**
 
-### Shipping & Delivery (Active)
-- **Spindrift order SH62374651:** Two tracking updates same day (out for delivery + delivered, Jun 18) — **rapid delivery cycle**
-- **UPS delivery:** Package arrival notification (Jun 18)
-- **Composite Envisions:** Order received confirmation (Jun 18)
+### Shipping & Payment (New)
+- **Pirate Ship:** Payment receipt $40.71 (Jun 20) — **third-party shipping label/logistics platform**
+  - **Significance:** Indicates direct shipping/fulfillment capability — likely for outbound product or components
+- **Skyline Payments:** Center Copy Printing payment processed (Jun 19) — **office materials/documentation**
 
-### Drone/Avionics (Continued)
-- **uAvionix:** Father's Day promotional email to Jack Elston (Jun 18) — avionics/transponder equipment vendor
-
-### Administrative/Billing (New)
-- **BST invoice notifications:** Routed to earellano@aeronet.com alongside purchasing inbox (Jun 18) — suggests **consolidated billing/procurement workflow**
+### Administrative/Operations (New)
+- **Verde:** Promotional catering/food email (Jun 19) — likely **employee engagement or office management**
 
 ## Communication Patterns
 
-### Email Routing (Confirmed & Refined)
-- **Purchasing inbox:** All vendor orders, shipments, travel bookings, surveys, and administrative notifications consistently routed
-- **Direct to Sam:** Asana task management only (jun 18 — "Thursday - tasks due soon: 1")
-- **Cross-recipient patterns:** BST invoices routed to both purchasing@blackswifttech.com AND earellano@aeronet.com — indicates **multi-party financial visibility**
+### Email Routing (Confirmed Consistency)
+- **Purchasing inbox:** All vendor orders, shipments, payments, and logistics consistently routed
+- **Direct to Sam:** Asana task management only (Jun 19 — "Friday - tasks due soon: 1")
+- **Josh Fromm involvement:** Receiving payment notifications routed through purchasing (Pirate Ship Jun 20) — **shipping logistics escalation point**
 
 ### Bulk-Filter Behavior
-- **Email categories:** 100% of new messages marked CATEGORY_FORUMS or CATEGORY_PROMOTIONS or CATEGORY_UPDATES — all low-priority auto-categorization
-- **All 13 new emails marked UNREAD** — confirms Sam processes inbox via filtering/flagging, not sequential reading
+- **Email categories:** 6 of 7 new messages marked CATEGORY_FORUMS or CATEGORY_UPDATES; all auto-categorized
+- **All 7 new emails marked UNREAD** — confirms continued bulk-filtering pattern
 
-### Timeline Observations (Jun 18)
-- **Jun 18:** 13 emails in single day (morning to evening PDT) — **composite materials orders, travel completion, shipment tracking cluster**
-- **Pattern:** Heavy procurement activity Jun 17–18 suggests **end-of-week ordering surge** and **travel logistics finalization**
+### Timeline Observations (Jun 19–20)
+- **Jun 19:** 5 emails (vendor shipments, payments, task reminder) — **order fulfillment cluster**
+- **Jun 20:** 2 emails (Pirate Ship payment, sent early morning 05:02 UTC) — **next-day shipping/payment processing**
+- **Pattern:** Material deliveries (Composite Envisions, SendCutSend) paired with container procurement (RPP) + shipping platform payment (Pirate Ship) suggests **assembly completion → packaging → outbound logistics pipeline**
 
 ## Key Relationships
 
-### Internal Collaboration
-- **Jack Elston** — continues receiving drone/avionics vendor emails (uAvionix Jun 18)
-- **earellano@aeronet.com** — **Finance/billing stakeholder** — receives consolidated invoice notifications
+### Internal Collaboration (Updated)
+- **Josh Fromm** — **shipping/logistics coordinator** — now clearly receiving shipment-related notifications via purchasing inbox (Pirate Ship payment Jun 20)
+- **Jack Elston** — drone/avionics procurement (continued from prior data)
+- **earellano@aeronet.com** — finance/billing stakeholder (continued from prior data)
 
-### External Strategic Relationships
-- **Adriana Smith (Rock West Composites)** — **Materials supplier** — direct sales contact for composite procurements
-- **Composite Envisions** — **Secondary composite supplier** — order fulfillment capability
+### External Strategic Relationships (Updated)
+- **Lydia Forsthoefel (RPP Containers)** — **Packaging/container supplier** — direct point of contact; bulk order capability
+- **Composite Envisions** — secondary composite supplier; active shipment status
+- **Adriana Smith (Rock West Composites)** — materials supplier (continued from prior data)
 
 ## Notable Observations
 
-### Composite Materials Surge
-Two composite orders from different suppliers in 24 hours (Rock West, Composite Envisions — Jun 18) suggests **active fabrication project underway or significant materials-intensive contract**. This complements prior metal fabrication (SendCutSend) and motion control (ServoCity) orders, indicating **multi-material hardware assembly cycle**.
+### Hardware Assembly Pipeline Visible
+Materials procurement (Jun 18: Rock West, Composite Envisions) → fabrication orders (SendCutSend delivered Jun 19) → container procurement (RPP Containers Jun 19) → shipping platform payment (Pirate Ship Jun 20) suggests **complete assembly-to-shipment workflow in 48-hour window**. This confirms **active product fabrication and outbound fulfillment cycle**.
 
-### Ottawa Trip Confirmed Active
-Expedia hotel booking rating (Holiday Inn Express & Suites Ottawa West - Nepean) + U-Haul/Budget rental surveys (Jun 18) confirm **team travel to Ottawa completed or in final stages** (consistent with Joshua Fromm/Meredith Needham mentions in prior data).
+### Pirate Ship Platform Adoption
+Third-party shipping label/fulfillment platform (Pirate Ship $40.71 payment Jun 20) indicates **direct shipping capability** — either for outbound products to customers/partners or for B2B component distribution. Notable that Josh Fromm receives these payment notifications.
 
-### Financial Visibility Pattern
-BST invoices routed to earellano@aeronet.com + purchasing@blackswifttech.com suggests **Aeronet connection to BST accounting or corporate structure** — new insight requiring clarification.
+### RPP Containers — New Strategic Vendor
+Lydia Forsthoefel's direct correspondence on bulk container order (Jun 19) suggests **established relationship for packaging/storage**. Container requirement aligns with fabrication output pipeline noted above.
 
-### Rapid Delivery Cycle
-Spindrift order SH62374651 (placed unknown date, out for delivery + delivered same day Jun 18) indicates **expedited 2-day or next-day shipping** — suggests **time-sensitive procurement** or **standard logistics for bulk supplies**.
+### Continued Aggressive Procurement Pace
+7 emails in 9 days focused on material delivery + fabrication completion + logistics setup. This **maintains elevated activity level** from Jun 18 surge, suggesting **sustained project momentum or deadline-driven delivery**.

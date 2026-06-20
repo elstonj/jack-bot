@@ -33,7 +33,7 @@
 - Offline flight plan generation API scoped
 - User input tracking architecture defined
 
-**Current state**: Foundation phase complete; Mission Planner coding task open but marked as optional improvements (secondary priority)
+**Current state**: Foundation phase complete; Mission Planner coding task open but marked as optional improvements (secondary priority), remains unassigned with no due date
 
 ## Notes & Context
 - **Priority**: Low
@@ -48,5 +48,5 @@
   - Flight plan generation via API
   - User authentication and database management
   - Offline/disconnected operation support
-- **Current focus**: Mission Planner "Optional Improvements" — coding task available but appears deprioritized relative to core features; no blocker preventing assignment and work
+- **Current focus**: Mission Planner "Optional Improvements" — coding task available but deprioritized relative to core features; no blocker preventing assignment and work
 - **Status**: Ready for implementation phase; no blockers identified

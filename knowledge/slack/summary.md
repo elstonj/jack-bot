@@ -1,66 +1,70 @@
 # Slack Channels Overview
 
-Last scanned: 2026-06-19 02:12
+Last scanned: 2026-06-20 02:16
 
-Total channels scanned: 6
+Total channels scanned: 4
 
 ## Channels
 
-- **#25_1-navy-sttr-boundary-layer** -- 3 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
 - **#commercial-sales** -- 1 messages -- [commercial-sales.md](commercial-sales.md)
 - **#flight-testing** -- 1 messages -- [flight-testing.md](flight-testing.md)
-- **#general** -- 7 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 1 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#s3** -- 5 messages -- [s3.md](s3.md)
+- **#general** -- 3 messages -- [general.md](general.md)
+- **#s3** -- 6 messages -- [s3.md](s3.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Strategic Channel Overview
+# Black Swift Technologies - Strategic Slack Overview
 
-## Core Project Areas
+## Core Projects & Products
 
-**Aircraft Development (Active)**
-- **S3 VTOL**: Long-endurance hybrid fixed-wing/quadcopter with tilting rotors; targets 2-3 hour endurance and autonomous operations
-- **S0/S0-VTOL**: Navy STTR project for boundary layer atmospheric sensing in hazardous weather (tropical cyclones, high winds)
-- **S-Series & E2**: Established fixed-wing and multirotor platforms supporting flight testing and commercial operations
+**Active Aircraft Platforms:**
+- **S3 VTOL**: Primary development focus in #s3; hybrid fixed-wing/quadcopter with tilting rotors, targeting 2-3 hour endurance and autonomous operations
+- **S-series (Fixed-wing)**: S0, S1-VTOL, S2 variants tracked across flight-testing and sales
+- **E-series (Multirotor)**: E2 platform mentioned in commercial operations
+- **Legacy platforms**: Flamewheel still in test rotation
 
-**Flight Testing**: Unified coordination hub across all platforms (S-series, E2, Flamewheel, S0, S1-VTOL, S3); firmware, payload integration, and troubleshooting
+**Development Stage:** S3 is actively being engineered; broader fleet in operational/commercial deployment phase
 
-## Key Decision Makers & Roles
+---
 
-| Person | Primary Domain |
-|--------|---|
-| Jack Elston | Systems architecture, firmware, grants/funding decisions, leadership |
-| Maciej | Flight testing lead, project oversight, technical proposals |
-| Joshua Fromm | S3 lead engineer/design, QA, component sourcing |
-| Dan Prendergast | Business development, operations |
-| Meredith Needham | Navy liaison, budget/administration |
-| Sam Hild | Firmware development |
+## Key Personnel & Roles
+
+| Person | Primary Role | Channels |
+|--------|--|--|
+| **Joshua Fromm** | Lead engineer/designer, QA, component sourcing | #s3, #flight-testing, #general |
+| **Jack Elston** | Systems architect, firmware lead | #s3, #flight-testing, #general |
+| **Maciej** | Project oversight, flight test lead, analysis | #s3, #flight-testing, #general |
+| **Sam Hild** | Firmware development | #s3, #general |
+| **Dan Prendergast** | Business development, operations | #general, #commercial-sales |
+| **Ben Busby** | Flight testing/data support | #flight-testing, #general |
+
+---
 
 ## Cross-Channel Themes
 
-**1. Government Contracting Focus**
-- Navy STTR boundary layer project is primary R&D driver
-- Grants channel shows active pursuit of NASA, DOD, NOAA, USDA funding
-- Proposal development involves Jack Elston (review), Maciej (technical input), Meredith Needham (budget)
+**Engineering-to-Operations Pipeline:**
+- Technical decisions in #s3 (design, firmware) flow to #flight-testing (validation) then #commercial-sales (delivery)
+- Jack Elston and Maciej serve as bridge between development and testing
 
-**2. Product Commercialization**
-- S3 VTOL and S0 platforms transitioning from development to sales-ready
-- Commercial-sales channel tracks university, government agency (NASA, NOAA), and international customer pipelines
-- Payload integration and technical specifications critical to order fulfillment
+**Customer & Market Focus:**
+- #commercial-sales shows mature commercial operations: universities, NASA, NOAA, international clients
+- Aircraft systems are production-ready for deployment, suggesting S3 is still in R&D while earlier platforms (S0, S2, E2) are revenue-generating
 
-**3. Engineering & Operations Interdependence**
-- Flight-testing channel bridges aircraft development and commercial delivery
-- Firmware/software issues escalate across channels; Jack Elston and Maciej are cross-functional connectors
-- Component sourcing (Joshua Fromm) supports both development and production demands
+**Recurring Operational Needs:**
+- Firmware updates and QA testing cycles
+- Payload integration coordination
+- Flight test troubleshooting and component sourcing
+- Project timeline/milestone tracking
 
-**4. High Activity Across Timeline**
-- Consistent engagement July 2020 - June 2026 indicates sustained operations
-- General channel serves as integration point for cross-functional updates
+**Decision Pattern:**
+- Technical decisions made in specialist channels (#s3, #flight-testing)
+- Implementation/business impact communicated in #general
+- Customer/delivery logistics in #commercial-sales
 
-## Decision Patterns
+---
 
-- **Top-down technical review**: Jack Elston approves significant proposals and funding decisions
-- **Collaborative problem-solving**: Flight testing and product issues escalated to core engineering team
-- **Navy-led timeline**: STTR project shapes R&D priorities and resource allocation
-- **Customer-driven scope**: Commercial sales feedback informs development roadmap
+## Strategic Implications
+
+- **Dual-track operations**: Mature commercial fleet supporting ongoing S3 VTOL development
+- **Key bottleneck**: Engineering team (Fromm, Elston, Maciej) heavily relied upon across all channels
+- **Market scope**: Government/research customers suggest strategic/defense applications; international reach indicates global ambitions

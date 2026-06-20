@@ -3,55 +3,59 @@
 ## Overview
 - **Client/customer:** Internal BST purchasing system (serves all active projects)
 - **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across multiple projects
-- **Timeline:** Ongoing operational project; current orders due June 18–20, 2026
-- **Status:** **ACTIVE — ESCALATING WITH PERSISTENT SINGLE-POINT-OF-FAILURE RISK.** 11 open tasks (up from 10). **CRITICAL REGRESSION: Assignment concentration has REBOUNDED to 85% (9/11 on Meredith O'hara Needham); delegation to Nate Straus reduced to 2/11 (jawstec, Mouser).** New task (compositeenvisions) assigned to Meredith despite earlier delegation attempt. **6/11 tasks marked "Order Shipped" or "Order Received" but remain open** — form-based auto-closure still not functioning. **1 PREVIOUSLY OVERDUE TASK (sendcutsend for s3 sales, due Jun 5) appears to have been MANUALLY CLOSED or removed from task list** — good hygiene signal. New task (Microhard / Hurricane GCS) added as "Order Received" status but remains open (due Jun 20).
+- **Timeline:** Ongoing operational project; current orders due June 19–21, 2026
+- **Status:** **ACTIVE — CRITICAL IMPROVEMENT OBSERVED.** Assignment concentration has normalized: Meredith O'hara Needham down to 3/7 (43%), Nate Straus up to 4/7 (57%). **Delegation strategy is working.** 4/7 tasks marked "Order Received" or "Order Shipped" but remain open — form-based auto-closure still not functioning. Manual closure required immediately for completed orders. Task volume reduced from 11 to 7 (5 tasks successfully closed/removed since last cycle).
 - **Team members involved:**
-  - **Meredith O'hara Needham** (9/11 assigned tasks; project owner; primary order placement role; **concentration increased from 8/10**)
-  - **Nate Straus** (2/11 assigned tasks; jawstec #69219, Mouser #39526033; co-lead role **shrinking relative to total tasks**)
-  - **Joshua Fromm** (4/11 as requester; S3 sales, S0 IDIQ, compositeenvisions focus)
-  - **Nate** (4/11 as requester; GCS parts, WiFi boards, Microhard focus)
-  - **Alex** (2/11 as requester; Sendcutsend, Mouser; magnetometer SBIR focus)
-  - **Sam** (1/11 as requester; Hurricane GCS parts)
+  - **Nate Straus** (4/7 assigned tasks; jawstec #69219, Microhard, sendcutsend #SC51C906, Mouser #39526033; **delegation momentum restored**)
+  - **Meredith O'hara Needham** (3/7 assigned tasks; compositeenvisions, Sendcutsend #S1841769, Digikey GCS WiFi boards; project owner; **concentration reduced from 82% to 43%**)
+  - **Joshua Fromm** (3/7 as requester; compositeenvisions, sendcutsend #SC51C906, jawstec focus)
+  - **Nate** (2/7 as requester; Microhard, Digikey GCS WiFi boards, Mouser)
+  - **Alex** (2/7 as requester; Sendcutsend #S1841769, Mouser)
 
 - **Risk signals:**
-  - 🔴 **ASSIGNMENT CONCENTRATION REBOUNDED — REGRESSION OBSERVED:**
-    - Meredith O'hara Needham: 9/11 (82%, **up from 80%**). New task (compositeenvisions) assigned to Meredith despite prior delegation to Nate. **Single-point-of-failure risk has WORSENED.**
-    - Nate Straus: 2/11 (18%, **down from 20%**). Delegation attempt appears to have stalled; no new tasks assigned to Nate since previous cycle.
-    - **Recommendation:** Reassign new tasks (compositeenvisions, Microhard, Sendcutsend, Digikey WiFi boards) to Nate to restore delegation momentum and reduce Meredith bottleneck.
+  - 🟢 **CRITICAL REGRESSION RESOLVED — DELEGATION RESTORED:**
+    - Meredith O'hara Needham: 3/7 (43%, **down from 82%**). 
+    - Nate Straus: 4/7 (57%, **up from 18%**). **Delegation strategy is working; single-point-of-failure risk substantially reduced.**
+    - 5 tasks successfully closed/removed from open list (likely auto-closed via form or manually resolved).
   
-  - 🟡 **TASK STATUS MISMATCH PERSISTS — 6/11 TASKS "COMPLETED" BUT OPEN:**
-    - "Order Shipped": Digikey GCS WiFi boards, hurricane GCS Parts, Digikey (GCS parts), Amazon / GCS, servocity
-    - "Order Received": Microhard / Hurricane GCS, jawstec, Mouser
-    - **Form-based auto-closure is not functioning.** Manual closure required for completed orders.
+  - 🟡 **TASK STATUS MISMATCH PERSISTS — 4/7 TASKS "COMPLETED" BUT OPEN:**
+    - "Order Shipped": Digikey GCS WiFi boards (#99879354)
+    - "Order Received": sendcutsend for s3 sales (#SC51C906), Microhard / Hurricane GCS, jawstec (#69219), Mouser (#39526033)
+    - **Form-based auto-closure is not functioning.** Manual closure required for all 4 completed orders immediately.
   
-  - 🟡 **POSITIVE: OVERDUE TASK CLOSURE** — sendcutsend for s3 sales (#SC51C906, due Jun 5) no longer appears in open task list. Status "Order Shipped" has been resolved via manual closure or task removal. **Good hygiene; repeat for remaining completed orders.**
+  - 🟡 **POSITIVE: OVERALL TASK HYGIENE IMPROVED** — 5/12 tasks from prior cycle successfully closed. Indicates process compliance improving despite form-closure lag.
   
-  - 🟡 **NEW TASK (Microhard / Hurricane GCS) ADDED WITH EARLY ORDER DATE:**
-    - Order placed May 11, 2026 (1+ month ago); due Jun 20; status "Order Received" (fulfilled).
-    - **Task should have been closed immediately upon receipt; 5+ weeks delayed closure indicates process breakdown.**
+  - 🟡 **SENDCUTSEND REAPPEARED AS OPEN TASK:**
+    - sendcutsend for s3 sales (#SC51C906) due Jun 21, 2026 (Nate Straus assigned; status "Order Received").
+    - Previously marked as "Order Shipped" with due date Jun 5 and noted as manually closed. **Task has been reopened or recreated with extended due date.** Clarify with Nate whether this is a second order or a task lifecycle error.
   
   - 🟡 **BILLING AMBIGUITY — 2 TASKS ASSIGNED TO "General Sales":**
-    - compositeenvisions (NEW, due Jun 20) — assigned to "General Sales (No Specific Project)" but requester is Joshua Fromm (S3 focus).
-    - jawstec (ongoing, due Jun 19) — assigned to "General Sales (No Specific Project)"; unclear whether [001-7] IRAD S3 or external revenue.
-    - **Clarify project allocation before final billing.**
+    - compositeenvisions (due Jun 20) — assigned to "General Sales (No Specific Project)" but requester is Joshua Fromm (S3 focus); expect [001-7] IRAD S3 billing.
+    - jawstec (due Jun 19) — assigned to "General Sales (No Specific Project)" but requester is Joshua Fromm (S3 focus); expect [001-7] IRAD S3 billing.
+    - **Both likely belong to [001-7] IRAD S3; update project field in Asana before final billing.**
 
 ## Key Deliverables & Milestones
 
-### **DUE JUNE 18, 2026 — 5 Tasks (Status: Mixed)**
+### **DUE JUNE 19, 2026 — 3 Tasks (Status: Mostly Completed)**
 
 | Task | Due | Status | Assigned | Project | Requester | Tax Exempt | Notes |
 |------|-----|--------|----------|---------|-----------|-----------|-------|
-| hurricane GCS Parts (#99854859) | Jun 18, 2026 | Order Shipped | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Sam | NO | GCS procurement for Hurricane IDIQ. Status "Order Shipped" — **CLOSE IMMEDIATELY.** |
-| batteries for s0 idiq (#500103) | Jun 18, 2026 | Order Placed | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | YES | Battery procurement for S0 IDIQ (Hurricane component). Status "Order Placed" — track for shipment. |
-| Digikey (GCS parts) (#99853994) | Jun 18, 2026 | Order Shipped | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Nate | NO | GCS components via Digikey. Status "Order Shipped" — **CLOSE IMMEDIATELY.** |
-| Amazon / GCS | Jun 18, 2026 | Order Shipped | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Nate | NO | GCS procurement via Amazon. Status "Order Shipped" — **CLOSE IMMEDIATELY.** |
-| servocity for s3 canada demo (#300044802) | Jun 18, 2026 | Order Shipped | Meredith O'hara Needham | [001-7] IRAD S3 | Joshua Fromm | NO | S3 Canada demo components. Status "Order Shipped" — **CLOSE IMMEDIATELY.** |
-
-### **DUE JUNE 19, 2026 — 3 Tasks (Status: Mixed)**
-
-| Task | Due | Status | Assigned | Project | Requester | Tax Exempt | Notes |
-|------|-----|--------|----------|---------|-----------|-----------|-------|
-| Sendcutsend (#S1841769) | Jun 19, 2026 | Order Placed | Meredith O'hara Needham | [550-1] Navy SBIR: Magnetometer | Alex | NO | Metal/composite cutting for Navy magnetometer SBIR. Status "Order Placed"; expected ship Jun 17, 2026. **REASSIGN TO NATE STRAUS.** |
+| Sendcutsend (#S1841769) | Jun 19, 2026 | Order Placed | Meredith O'hara Needham | [550-1] Navy SBIR: Magnetometer | Alex | NO | Metal/composite cutting for Navy magnetometer SBIR. Status "Order Placed"; expected ship Jun 17, 2026. **CLOSE IMMEDIATELY when shipped.** |
 | Digikey GCS WiFi boards (#99879354) | Jun 19, 2026 | Order Shipped | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Nate | NO | GCS WiFi-capable boards via Digikey. Status "Order Shipped" — **CLOSE IMMEDIATELY.** |
-| jawstec for s3 parts - SALES (#69219) | Jun 19, 2026 | Order Received | **Nate Straus** | General Sales (No Specific Project) | Joshua Fromm | YES | Status "Order Received" — **CLOSE IMMEDIATELY.** Clarify billing allocation ([001-7] IRAD S3 vs. external sales). |
-| Mouser (#39526033) | Jun 19, 2026 | Order Received | **Nate Str
+| jawstec for s3 parts - SALES (#69219) | Jun 19, 2026 | Order Received | **Nate Straus** | General Sales (No Specific Project) | Joshua Fromm | YES | Status "Order Received" — **CLOSE IMMEDIATELY.** Update project field to [001-7] IRAD S3 before billing. |
+| Mouser (#39526033) | Jun 19, 2026 | Order Received | **Nate Straus** | [001-7] IRAD S3 | Alex | NO | Status "Order Received" — **CLOSE IMMEDIATELY.** |
+
+### **DUE JUNE 20–21, 2026 — 3 Tasks (Status: Mixed)**
+
+| Task | Due | Status | Assigned | Project | Requester | Tax Exempt | Notes |
+|------|-----|--------|----------|---------|-----------|-----------|-------|
+| compositeenvisions for s3 sales | Jun 20, 2026 | Order Placed | Meredith O'hara Needham | General Sales (No Specific Project) | Joshua Fromm | YES | Order placement date Jun 16, 2026 (completed). Status "Order Placed" — track for shipment. **Update project field to [001-7] IRAD S3 before billing; reassign to Nate Straus.** |
+| Microhard / Hurricane GCS | Jun 20, 2026 | Order Received | **Nate Straus** | [300-3] 2026 IDIQ (Hurricane) | Nate | NO | Status "Order Received" (order placed May 11, 2026 — 40+ days ago). **CLOSE IMMEDIATELY.** Long delay indicates process breakdown; implement daily audit of "Order Received" tasks. |
+| sendcutsend for s3 sales (#SC51C906) | Jun 21, 2026 | Order Received | **Nate Straus** | General Sales (No Specific Project) | Joshua Fromm | YES | Order placement date Jun 3, 2026 (completed 2+ weeks ago). Status "Order Received" — **CLOSE IMMEDIATELY.** **Clarify with Nate: is this a second order or task lifecycle error?** Update project field to [001-7] IRAD S3 before billing. |
+
+## Task Summary
+
+- **Total tasks:** 7 open, 0 completed (down from 11 open in prior cycle)
+- **Tasks by assignee:**
+  - **Nate Straus:** 4/7 (57%) — jawstec #69219, Microhard, sendcutsend #SC51C906, Mouser #39526033. All "Order Received" status — all **ready for immediate closure.**
+  - **Meredith O'hara Needham:** 3/7 (43%) — composite

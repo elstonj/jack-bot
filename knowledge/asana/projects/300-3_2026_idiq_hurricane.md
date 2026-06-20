@@ -14,7 +14,7 @@
 - **Status:** **🔴 CRITICAL URGENCY — ACTIVE BLOCKING ISSUES (as of 6/5/26).** Hardware milestones delivered early; field season imminent. Three blocking issues must be resolved immediately:
   1. **Deployment tube firmware (Jack Elston) — OVERDUE since 6/4/26 — BLOCKS Invoice 4 ($72k) & hardware release**
   2. **QC board completion (Sam Hild) — DUE TODAY 6/5/26 — BLOCKS Invoice 4 & downstream assembly**
-  3. **Gateworks board sourcing status (Josh Fromm) — UNKNOWN since 5/28–5/29/26 inquiry — THREATENS GCS build due 7/1/26**
+  3. **Gateworks board sourcing status (Josh Fromm) — UNRESOLVED TWICE (5/28–5/29/26) — THREATENS GCS build due 7/1/26**
 - **Team Members:** 
   - Meredith O'hara Needham (project owner, shipments, invoice submissions)
   - **Jack Elston** (firmware/software) — **CRITICAL PATH: deployment tube firmware OVERDUE**
@@ -22,7 +22,7 @@
   - Nate Straus (platform rebuild/validation, s0 builds, servo assembly, linkage construction, power switches)
   - Maciej Stachura (platform validation/testing, magnetic calibration, parameter file validation, failure analysis)
   - Alex Lomis (strategic partnerships, NASA opportunities)
-  - **Josh Fromm** (GCS assembly, long-lead parts, Gateworks board sourcing) — **⚠️ URGENT: Gateworks board status UNKNOWN; twice requested 5/28–5/29/26, no documented response; GCS build due 7/1/26**
+  - **Josh Fromm** (GCS assembly, long-lead parts, Gateworks board sourcing) — **⚠️ CRITICAL: Gateworks board status UNKNOWN; Joshua Fromm asked twice on 5/28 and 5/29/26 "do we have the gateworks boards for the s0 ground stations for the idiq yet?" — no documented response found in Asana; GCS build due 7/1/26**
   - Ben Busby (web-based controller development) — due 7/31/26
   - Nick Pawlenko (UxSOC liaison) — **transitioned to UxSOC HQ effective 5/29/26; reduced availability — communications now include wider UASD team for scheduling, personnel, flight planning, maintenance**
 
@@ -50,7 +50,7 @@
 | AP & PSNS firmware | Jack Elston | 2026-06-26 | ⏳ Upcoming (21 days) |
 | **Rebuild old BST s0 (2024)** | **Nate Straus** | **2026-06-19** | **⏳ OPEN (14 days)** |
 | **Begin kit assembly** | **Sam Hild** | **2026-06-19** | **⏳ OPEN (14 days)** |
-| Build 2x rack-mount GCS | Josh Fromm | 2026-07-01 | ⏳ Upcoming (26 days); **Gateworks board sourcing status UNKNOWN — requested 5/28–5/29/26, NO RESPONSE** |
+| Build 2x rack-mount GCS | Josh Fromm | 2026-07-01 | ⏳ Upcoming (26 days); **⚠️ Gateworks board sourcing status unknown — Josh asked 5/28 & 5/29/26 with no response documented** |
 | Finish 2025 S0's | Nate Straus | 2026-06-30 | ⏳ Upcoming (25 days) |
 | Participate in mag cal process | Maciej Stachura | 2026-07-01 | ⏳ Upcoming (26 days) |
 | Increase cruise speed back to 2024 value | Maciej Stachura | 2026-06-30 | ⏳ Upcoming (25 days) |
@@ -60,22 +60,19 @@
 
 ## Task Summary
 
-**Overall:** 2 open tasks, 0 completed (100% open rate — project is in critical execution phase)
+**Overall:** 2 open tasks, 0 completed (100% open rate — project in critical execution phase)
 
-**Tasks by Assignee:**
+**Tasks by Assignee (Asana):**
 - **Nate Straus:** 1 open task
   - ⏳ Rebuild old BST s0 (2024 version) due 2026-06-19
-
 - **Sam Hild:** 1 open task
   - ⏳ Begin kit assembly due 2026-06-19
 
-**Note:** Raw Asana export shows only 2 open tasks; this represents significant progress since last knowledge file update. However, **critical path items from prior documentation remain unresolved:**
+**Note:** Raw Asana export shows only 2 open tasks. However, **critical path items remain unresolved and should be tracked outside Asana or confirmed as actively in-progress:**
   - Jack Elston's deployment tube firmware (OVERDUE since 6/4/26)
   - Sam Hild's QC board completion (DUE TODAY 6/5/26)
-  - Josh Fromm's Gateworks board sourcing (status unknown since 5/28–5/29/26)
-
-These blocking items are not appearing as separate open tasks in the current export and should be confirmed as actively in-progress or escalated immediately.
+  - Josh Fromm's Gateworks board sourcing (status unknown; Josh asked twice 5/28–5/29/26 with no documented response)
 
 ## Recent Activity
 
-- **May 29, 2026:** Nick Pawlenko transitioned to UxSOC HQ. Communication protocol updated to include wider UASD team for scheduling, personnel (foreign nationals), flight planning, and maintenance coordination. Nick remains involved but with reduced availability.
+- **May 29, 2026:** Nick Pawlenko transitioned to UxSOC HQ. Communication protocol updated to include

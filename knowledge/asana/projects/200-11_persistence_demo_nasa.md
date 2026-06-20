@@ -124,5 +124,5 @@
 
 **Daniel Prendergast (06/08–06/09/26, URGENT — Canada demo insurance requirement):**
 - ⚠️ **ACTION REQUIRED: CONFIRM S3 PLATFORM INSURANCE RENEWAL COMPLETION**
-- **Canada demo insurance requirements flagged (06/09/26):**
-  - $5M Commercial General Liability
+- **Canada demo insurance requirements (06/09/26):**
+  - $5M Commercial General Liability policy

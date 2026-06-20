@@ -1,76 +1,80 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 104 emails (14–19 Jun 2026)
-- **Date range:** 14–19 Jun 2026 (6 days)
-- **Approximate volume:** ~17 emails/day (sustained high activity)
-- **Growth trend:** Consistent ~15–17 emails/day; volume stabilizing with high proportion of automated/vendor notifications on 18–19 Jun
+- **Total messages scanned:** 115 emails (14–20 Jun 2026)
+- **Date range:** 14–20 Jun 2026 (7 days)
+- **Approximate volume:** ~16.4 emails/day (sustained high activity)
+- **Growth trend:** Consistent ~15–17 emails/day; activity sustained through weekend (20 Jun); administrative/vendor notifications increasing proportionally
 
 ## Key Correspondents
 
 ### Top Inbound Senders
-1. **Jack Elston** (BST) — 11+ emails (strategic partner on all major initiatives)
+1. **Jack Elston** (BST) — 13+ emails (strategic partner on all major initiatives; escalating engagement with external partners)
 2. **Dipan Amin** (Krateo Sky) — 5 emails (Product Development Planning coordination)
 3. **Sona Raziabeegum** (Krateo Sky) — 5+ emails (Strategic updates, talent coordination)
-4. **Tanay Topac** (Stanford) — 3 emails (MHP data alignment, marked IMPORTANT)
-5. **Angel R. Ruiz-Reyes** (U.S. Navy NAWCAD) — 5 emails (S0 - MAD updates, technical discussions)
+4. **Angel R. Ruiz-Reyes** (U.S. Navy NAWCAD) — 5 emails (S0 - MAD updates, technical discussions)
+5. **Tanay Topac** (Stanford) — 3 emails (MHP data alignment, marked IMPORTANT)
 6. **Joe Cione** (NOAA Federal) — 4 emails
-7. **Al Gasiewski** (University of Colorado Boulder) — **NEW:** 1 email (L-band drone flights over lava, marked IMPORTANT, 18 Jun)
-8. **Daniel Prendergast** (BST) — **NEW/ESCALATING:** Arctic UAS Location Change coordination with external partner (Maia Varanda, Invest Ottawa); marked IMPORTANT, 18 Jun
-9. **Automated/Vendor notifications** — 20+ emails (Harbor Freight, Pirate Ship, Rock West Composites, Spindrift Market, UPS, Comcast, Composite Envisions, etc.)
+7. **Daniel Prendergast** (BST) — 2+ emails (Arctic UAS logistics and capability questionnaires, marked IMPORTANT)
+8. **Al Gasiewski** (University of Colorado Boulder) — 1 email (L-band drone flights over lava, marked IMPORTANT)
+9. **Scott Bolton** (Southwest Research Institute) — **NEW:** 1 email (L-band drone flights collaboration, marked IMPORTANT, 19 Jun)
+10. **Michael Hurowitz** (WeatherStream) — **NEW:** 1 email (L-band drone flights discussion, marked IMPORTANT, 19 Jun)
+11. **Meredith Needham** (BST) — **NEW:** 1 email (Arctic UAS Location Change coordination, marked IMPORTANT, 19 Jun)
+12. **Automated/Vendor notifications** — 4+ emails (Pirate Ship, Harbor Freight, BST Purchasing system alerts)
 
 ### Top Outbound Recipients
-1. **Al Gasiewski** (University of Colorado Boulder) — 1 sent email (L-band drone flights response, 18 Jun 22:32 MDT)
-2. **Tanay Topac** (Stanford) — 1 sent email (MHP data alignment response, marked IMPORTANT)
-3. **Angel R. Ruiz-Reyes** (U.S. Navy NAWCAD) — 1 sent email (S0 - MAD response)
+1. **Jack Elston** (BST) — Multiple sent emails (strategic escalations; L-band lava collaboration introductions; Arctic capability discussions)
+2. **Al Gasiewski** (University of Colorado Boulder) — 1 sent email (L-band drone flights response)
+3. **Tanay Topac** (Stanford) — 1 sent email (MHP data alignment response)
+4. **Scott Bolton** (Southwest Research Institute) — Included in Jack Elston introductions
+5. **Daniel Prendergast** (BST) — Receives Arctic capability questionnaires and coordination updates
 
 ### Internal vs External
-- **Internal (BST):** Jack Elston, Nathaniel Straus, Daniel Prendergast
-- **External (Government/Military):** NOAA Federal (Joe Cione), U.S. Navy NAWCAD (Angel Ruiz-Reyes), USSOCOM (Zachary O. Kachel, Evan M. Wolff), **U.S. Army Applications Laboratory** (NEW, 19 Jun)
-- **External (Academic):** Stanford (Tanay Topac), Notre Dame (David Richter), **University of Colorado Boulder** (Al Gasiewski, NEW)
-- **External (Commercial/Strategic):** Krateo Sky (Dipan Amin, Sona Raziabeegum, Adria Passola, Brian Grubel), Creative Alignment (Peggy Shell)
-- **External (Government/Regional):** **Invest Ottawa / Canada** (Maia Varanda, coordinating Arctic UAS Location Change via Daniel Prendergast)
+- **Internal (BST):** Jack Elston, Daniel Prendergast, Joshua Fromm, Meredith Needham, Nathaniel Straus
+- **External (Government/Military):** NOAA Federal (Joe Cione), U.S. Navy NAWCAD (Angel Ruiz-Reyes), USSOCOM (Zachary O. Kachel), U.S. Army Applications Laboratory, **USGS** (Christoph Kern, Angie Diefenbach, NEW)
+- **External (Academic/Research):** Stanford (Tanay Topac), Notre Dame (David Richter), University of Colorado Boulder (Al Gasiewski), **Southwest Research Institute** (Scott Bolton, NEW)
+- **External (Commercial/Strategic):** Krateo Sky (Dipan Amin, Sona Raziabeegum, Adria Passola, Brian Grubel), **WeatherStream** (Michael Hurowitz, NEW)
+- **External (Government/Regional):** Invest Ottawa / Canada (Maia Varanda)
 
 ## Topic Patterns
 
 ### Primary Projects/Initiatives (Updated)
-1. **OOI Pioneer Array** — Escalating priority; David Richter (Notre Dame) forwarded to Jack Elston with IMPORTANT flag; potential partnership expansion
-2. **Arctic UAS / Canada Demo 2026** — **ESCALATING:** Location change coordination active (18 Jun); Maia Varanda (Invest Ottawa) engaged with Daniel Prendergast; marked IMPORTANT; suggests venue/logistics shift mid-campaign
-3. **S0 - MAD update** — Active 17 Jun exchanges with Navy (Angel Ruiz-Reyes, IMPORTANT); Maciej responding directly to Navy technical inquiries
-4. **RFI S0** — USSOCOM engagement (Zachary O. Kachel, IMPORTANT); Daniel Prendergast included on response chain
-5. **MHP data alignment** — Continued collaborative momentum with Stanford (Tanay Topac); marked IMPORTANT in multiple recent exchanges (17–18 Jun); Nathaniel Straus also engaged
-6. **BST Product Development Planning Session** — Major Krateo Sky initiative; 4 duplicate messages from Dipan Amin (14:16–14:42 UTC 17 Jun); Jack Elston, Dipan Amin, Brian Grubel, Maciej all flagged IMPORTANT
-7. **Krateo Sky Strategic Partnership** — Expansion signal: Adria Passola sent "Congratulations!" message (IMPORTANT, 17 Jun) to Jack Elston and Maciej; suggests new contract, hire, or milestone achieved
-8. **High-Performance Qualcomm GCS Solutions** — New vendor/technical engagement (NelsonLin-林南輝, Sysgration); pitched to Jack Elston and Maciej (IMPORTANT, 18 Jun early morning)
-9. **L-band drone flights over lava** — **NEW:** Scientific/research partnership emerging with University of Colorado Boulder (Al Gasiewski); marked IMPORTANT (18 Jun 19:53 MDT); Scott Bolton (SwRI) also cc'd; suggests geophysical sensor application research
-10. **Unmanned Ground Recovery (UGR)** — **NEW:** Army Applications Laboratory RFI received (19 Jun 09:57 CDT); signals military ground vehicle interest in BST capabilities
+1. **L-band drone flights over lava** — **ESCALATING TO MAJOR INITIATIVE:** Multiple exchanges 18–19 Jun (IMPORTANT flags); Jack Elston now directly coordinating with Al Gasiewski (CU Boulder), Scott Bolton (SwRI), Michael Hurowitz (WeatherStream), and USGS contacts (Christoph Kern, Angie Diefenbach); Jack Elston sent formal "Introduction" email to USGS partners (19 Jun 16:07 MDT); suggests BST-led collaborative research effort; geophysical/sensor platform application
+2. **Arctic UAS / Canada Demo 2026** — **ESCALATING:** Daniel Prendergast now requesting "Arctic Capability Questionnaire" from team (19 Jun, IMPORTANT); Meredith Needham (internal) coordinating Arctic UAS Location Change with Maia Varanda (Invest Ottawa); indicates demo logistics/scope being formally defined post-location-change
+3. **S0 - MAD update** — Continued active engagement with Navy (17 Jun, IMPORTANT)
+4. **RFI S0** — USSOCOM engagement ongoing
+5. **MHP data alignment** — Continued Stanford collaboration (17–18 Jun, IMPORTANT)
+6. **BST Product Development Planning Session** — Krateo Sky major initiative (17 Jun, IMPORTANT)
+7. **Krateo Sky Strategic Partnership** — Momentum confirmed with "Congratulations" message (17 Jun, IMPORTANT)
+8. **Unmanned Ground Recovery (UGR)** — Army RFI signal (19 Jun)
+9. **OOI Pioneer Array** — Notre Dame escalation continues
 
 ### External Organizations/Partnerships (Updated)
-- **NOAA** — Continued core partnership
-- **U.S. Navy NAWCAD** — Active technical exchanges (S0 - MAD, COTS waiver)
-- **USSOCOM** — Engaged on RFI S0 response; broader military/special operations interest in S0 platform
-- **U.S. Army Applications Laboratory** — **NEW:** RFI on Unmanned Ground Recovery; indicates BST expanding into Army ground vehicle autonomy/recovery sector
-- **Stanford University** — Escalating engagement; Tanay Topac now directly corresponding with Maciej; MHP data alignment appears time-sensitive
-- **University of Colorado Boulder** — **NEW:** Al Gasiewski initiating collaboration on L-band drone flights over lava; scientific/geophysical research focus; includes Southwest Research Institute (SwRI) partner
-- **Notre Dame** — David Richter escalating OOI Pioneer Array discussions to Jack Elston level
-- **Krateo Sky** — Expanded strategic role; Product development planning, milestone announcement (17 Jun); likely new contract or partnership
-- **Invest Ottawa / Economic Development Canada** — **NEW:** Coordinating Arctic UAS demo logistics and venue change; suggests Canadian government/economic development agency partnership
-- **Sysgration** — GCS vendor; pitching Qualcomm high-performance solutions to BST leadership
+- **USGS** — **NEW:** Christoph Kern and Angie Diefenbach now engaged via Jack Elston introduction for L-band lava drone research (19 Jun); indicates official government science partnership
+- **Southwest Research Institute (SwRI)** — **NEW:** Scott Bolton directly involved in L-band drone collaboration; senior research role; multi-institution research consortium forming
+- **WeatherStream** — **NEW:** Michael Hurowitz engaged in L-band drone flights technical discussions; suggests meteorological/atmospheric data integration requirement
+- **University of Colorado Boulder** — Escalated to multi-partner scientific consortium (with USGS, SwRI)
+- **NOAA, U.S. Navy NAWCAD, USSOCOM, U.S. Army Applications Laboratory** — Sustained engagement
+- **Stanford University** — Continued strategic collaboration
+- **Krateo Sky** — Ongoing product development and strategic partnership
+- **Invest Ottawa / Economic Development Canada** — Arctic demo logistics coordination active through Meredith Needham (internal champion)
 
 ### Vendors/Suppliers (Updated)
-- **Harbor Freight** — 2 promotional emails (19 Jun); membership sale alert
-- **Pirate Ship** — Shipping cost adjustment notice (19 Jun)
-- **Rock West Composites** — Cash sale #CS013005 (18 Jun)
-- **Spindrift Market** — Delivery confirmation SH62374651 (18 Jun)
-- **UPS** — Package delivery notification (18 Jun)
-- **Comcast Business** — Billing statement (18 Jun)
-- **Composite Envisions** — Order 647-SO21126 received (18 Jun)
-- **ServoCity, AMain Hobbies, McMaster-Carr, Worldwide Express, United Airlines, Budget, Hampton by Hilton, Holiday Inn Express** — Previous
+- **Pirate Ship** — Payment receipt $40.71 (20 Jun); continued shipping service usage
+- **BST Internal Purchasing** — Past due invoices alert (20 Jun); indicates procurement activity requiring follow-up
 
 ## Communication Patterns
 
 ### Time Distribution
-- **24-hour sustained activity:** Continues across UTC and multiple US time zones (MDT, EDT, PDT, CDT)
-- **Strategic escalation timing:** 
-  - L-band lava flights (Al Gasiewski) arriving 19:53 MDT (Wed evening, 18 Jun); Maciej responds 22:32 MDT (late night)
-  - Arctic UAS location change marked IMPORTANT from Invest Ottawa (19 Jun 00:14:47 
+- **24-hour sustained activity:** Continues across UTC and multiple US time zones (MDT, EDT, CDT)
+- **Weekend activity:** Purchasing/administrative emails arriving 20 Jun 05:02–07:15 UTC (Saturday morning); suggests system-generated alerts rather than human correspondence
+- **Strategic escalation timing:**
+  - L-band lava collaboration: Multiple exchanges 19 Jun 08:57–22:33 UTC; Jack Elston escalating to USGS and SwRI partners mid-day (16:07 MDT); Maciej receiving cascade of multi-party introductions
+  - Arctic capability questionnaire: Daniel Prendergast requesting input 19 Jun 15:40 MDT (Friday); flagged IMPORTANT; appears time-sensitive for Canada demo preparation
+  - Internal coordination: Meredith Needham (BST internal) stepping into Arctic logistics coordination; indicates formalization of demo project
+
+### Mailing Lists / Group Discussions
+- **L-band lava research consortium:** Jack Elston coordinating multi-institution working group (Al Gasiewski, Scott Bolton, Michael Hurowitz, USGS); all flagged IMPORTANT; suggests weekly or regular technical syncs likely
+- **Arctic demo team:** Daniel Prendergast (BST lead), Meredith Needham (BST internal coordination), Joshua Fromm (BST, likely operations/logistics), Maia Varanda (Invest Ottawa external)
+
+### Newsletter / Automated Email

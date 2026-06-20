@@ -47,6 +47,6 @@
 
 ### By Assignee
 
-| Assignee | Open Tasks | Notes |
-|---|---|---|
-| **Beck Cotter** | 1 | Barbados S0 VTOL delivery (May 22, 2026). **CRITICAL:** Crash bug & flight restart blocking; bench tests overdue/in-progress. Per Maciej (May 4, 2026), requires realistic due date update
+| Assignee | Open Tasks | Completion Rate | Notes |
+|---|---|---|---|
+| **Beck Cotter** | 1 | — | Barbados S0 VTOL delivery (May 22, 2026). **CRITICAL:** Crash bug & flight restart blocking; bench tests overdue/in-progress. Per Maciej (May 4, 2
