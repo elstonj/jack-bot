@@ -1,7 +1,5 @@
 # Beck Cotter — Email Patterns
 
-Only 3 emails found in scanned period.
+Only 1 emails found in scanned period.
 
-- Fri, 19 Jun 2026 09:13:54 -0600: Re: Arctic UAS Location Change (from: Meredith Needham <meredith.needham@blackswifttech.com>)
-- Fri, 19 Jun 2026 08:57:52 -0600: Re: Arctic UAS Location Change (from: Daniel Prendergast <daniel.prendergast@blackswifttech.com>)
-- Fri, 19 Jun 2026 08:16:10 -0600: Fwd: Multi-Party NDA for review (from: Beck Cotter <beck.cotter@blackswifttech.com>)
+- Sat, 20 Jun 2026 19:09:14 +0000: SSD 2027 is live - 50% off for SSD 2026 participants - Offer tier ends in July (from: "'SSD2026 | Defence Expo' via Sales" <sales@blackswifttech.com>)

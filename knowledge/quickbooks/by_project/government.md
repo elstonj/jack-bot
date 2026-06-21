@@ -114,8 +114,8 @@
 
 ---
 
-### **Shipping/Freight: $1,217.41**
-**Number of transactions:** 12  
+### **Shipping/Freight: $1,307.57**
+**Number of transactions:** 13  
 
 **Key transactions:**
 - **Purchase #260607W011757** (2026-06-25): **$90.16** [DC-Direct Cost Shipping, Freight & Delivery]
@@ -127,7 +127,7 @@
 - **Earlier transactions (through 2026-06-09):** $749.19 cumulative
 - **Earlier transactions (2026-06-10 to 2026-06-16):** $182.81 cumulative
 
-**Total shipping/freight through 2026-09-28: $1,217.41** *(confirmed final)*
+**Total shipping/freight through 2026-09-28: $1,307.57** *(confirmed final)*
 
 ---
 
@@ -157,5 +157,4 @@
 ## Monthly Spend by Category
 
 ### June 2026 (2026-06-01 to 2026-06-30)
-| Category | Amount | # Txns |
-|
+| Category | Amount | # Txns | Notes |

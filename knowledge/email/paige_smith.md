@@ -1,13 +1,11 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,798 (2,775 previous + 23 new from Jun 19-20, 2026)
-- **Date range:** March 24 – June 20, 2026 (89 days)
-- **Approximate volume:** ~31.4 messages per day (sustained consistency maintained)
-- **Pattern update (Jun 19-20, 2026):** **POST-EVENT EXECUTION CONFIRMED + SECONDARY ACTIVITY DOMINANCE**
-  - **~96% automation/newsletters/media/tool notifications/social** (22 of 23 messages)
-  - **~4% business-critical items** (1 of 23 messages)
-  - **SIGNAL: Krateo Sky/Rubicon event execution confirmed.** Paige sent edited event photos to Sona Raziabeegum (Jun 19, 09:58 UTC) — final collateral distribution post-event. This is the only direct business correspondence in the batch. Absence of partnership coordination emails (Jeremy Van Vliet, Kathi Healy, Lee Skidmore remain silent since Jun 17) confirms event sprint concluded. Email focus has fully shifted to LinkedIn networking, industry newsletters, news consumption, and SaaS promotions.
+- **Total messages scanned:** 2,809 (2,798 previous + 11 new from Jun 20-21, 2026)
+- **Date range:** March 24 – June 21, 2026 (90 days)
+- **Approximate volume:** ~31.2 messages per day (sustained consistency maintained)
+- **Pattern update (Jun 20-21, 2026):** **~100% automation/newsletters/news/social** (11 of 11 messages)
+  - **SIGNAL:** Complete absence of business-critical correspondence. Zero direct business emails; no project coordination, no client/partner contact, no internal collaboration. Email inbox is entirely composed of news digests, industry newsletters, LinkedIn notifications, and SaaS promotions. This represents full operational wind-down post-Krateo Sky event execution (last business email: Jun 19, 09:58 UTC).
 
 ---
 
@@ -15,91 +13,130 @@
 
 ### Top Internal Senders & Collaborators
 
-- **Jack Elston** (media@blackswifttech.com, elstonj@blackswifttech.com)
-  - **Jun 19, 09:07 UTC:** UAS VISION DAILY NEWS routed through Jack's media@ alias (continued pattern from Jun 18)
-  - **STATUS:** Maintaining steady industry intelligence distribution
+**No internal correspondence in Jun 20-21 batch.**
 
-- **Meredith Needham** (meredith.needham@blackswifttech.com)
-  - **Jun 19, 09:03 UTC:** Paige forwarded Center Copy invoice to Meredith (finalization of collateral logistics)
-  - **STATUS:** Invoice handoff completed; operational closure confirmed
+- **Jack Elston** (media@blackswifttech.com) — last contact Jun 19
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — last contact Jun 19
 
 ### Top External Senders & Vendors
 
-#### **KRATEO SKY × BST (EVENT EXECUTION PHASE)**
+#### **News & Media (Dominant — 7 of 11 messages)**
 
-- **Sona Raziabeegum** (sona@krateosky.com)
-  - **Jun 19, 09:58 UTC:** **SENT** — Paige to Sona: "Pictures KrateoSky Signing/Demo Edited"
-  - **SIGNAL:** Event photos/collateral delivery completed; final post-event communication. No response captured in this batch (expected — operational closure).
+- **The New York Times** (breakingnews@nytimes.com, editorpicks@nytimes.com, nytdirect@nytimes.com)
+  - Jun 21, 02:27 UTC: "Trump says Reflecting Pool will likely need to be drained"
+  - Jun 20, 21:32 UTC: "Breaking news: Vance heads to Switzerland for Iran peace talks"
+  - Jun 20, 21:02 UTC: "Jennifer Lopez and Brett Goldstein are more alike than you might think"
+  - Jun 20, 15:40 UTC: "Breaking news: Iran's forces say they closed Strait of Hormuz"
+  - Jun 20, 12:01 UTC: "Wedding gift etiquette is shifting"
+  - Jun 20, 10:03 UTC: "The Morning: Game change"
+  - **SIGNAL:** High-frequency breaking news + geopolitical coverage (Iran, Vance diplomacy, Trump administration); mixed with lifestyle content
 
-- **Kathi Healy** (kathi@rmiselect.com), **Jeremy Van Vliet** (jeremy@rubiconaerospace.com), **Lee Skidmore** (lee@rubiconaerospace.com)
-  - **NO MESSAGES Jun 19-20** (extends silence from Jun 17 onward)
-  - **SIGNAL:** Approval/coordination cycles complete; event executed without need for further approval-loop emails
+- **Inside Climate News** (newsletters@insideclimatenews.org)
+  - Jun 20, 10:13 UTC: "Trump administration abandons fight against wind energy as clean energy output surges"
+  - **SIGNAL:** Energy/climate policy focus (relevant to aerospace/defense vertical awareness)
 
-#### **HUBSPOT PARTNERSHIP (CLOSING)**
+#### **Industry Intelligence (Sustained)**
 
-- **Kylie Bliss** (kbliss@hubspot.com)
-  - **Jun 19, 10:18 UTC:** UNREAD — "Your Google traffic is bleeding out"
-  - **STATUS:** Transitioned from Jun 18's closure signal ("I'll take the hint and close this out") to vendor follow-up messaging (technical/product alerts). Suggests account remains open but relationship cooling.
+- **Mitchell Institute / Air Force Association** (mitchell@afa.org)
+  - Jun 20, 05:41 UTC: "✈️ What Lessons is China Taking From Epic Fury? Key Considerations - Aerospace Advantage 295"
+  - **SIGNAL:** Continued aerospace competitive intelligence consumption
 
-#### **PRINT/COLLATERAL LOGISTICS (FINALIZED)**
+#### **Sports & Entertainment**
 
-- **Sarah Noel / Center Copy Printing** (sarah@centercopyprinting.com)
-  - **Invoice 73488 forwarded to Meredith Needham on Jun 19** (administrative closure)
-  - **STATUS:** No new outbound print coordination; logistics cycle concluded
+- **The Athletic Pulse** (TheAthletic@e1.theathletic.com)
+  - Jun 20, 11:23 UTC: "An almost dream start for USMNT"
+
+#### **SaaS & Marketing Tools**
+
+- **WPBeginner** (support@wpbeginner.com)
+  - Jun 20, 14:53 UTC: "Reminder: 30-minute fix to avoid privacy fines ⏱️"
+  - **SIGNAL:** Web privacy/compliance tool promotion
+
+#### **LinkedIn**
+
+- Jun 21, 02:21 UTC: "You have 2 new invitations"
+  - **SIGNAL:** Continued network expansion activity
 
 ---
 
 ## Topic Patterns
 
 ### **Business-Critical (Operational)**
-1. **Krateo Sky Event Execution:** "Pictures KrateoSky Signing/Demo Edited" (Jun 19, 09:58 UTC) — **Only direct business outbound in batch**
-   - Event photos delivered to partner; confirms event occurred or is in final execution phase
-2. **Invoice Finalization:** Center Copy printing invoice forwarded to Meredith Needham (Jun 19, 09:03 UTC)
-3. **Task Management:** Asana reminders — "Friday - tasks due soon" (Jun 19, 20:49 UTC); "1 overdue task" (Jun 19, 15:52 UTC)
+**None in Jun 20-21 batch.**
 
-### **Secondary Activity Channels (Jun 19-20 Focus)**
+### **Secondary Activity Channels (Jun 20-21 Focus)**
 
-#### **LinkedIn Networking (Sustained Intensity)**
-- **Profile Activity:** 20 people viewed profile (Jun 20, 04:59 UTC)
-- **Connection Requests:** Maciej Stachura addition request (Jun 20, 02:59 UTC); 2 new invitations pending (Jun 20, 02:21 UTC)
-- **LinkedIn Industry Insights:** Christopher Kubasik (Lockheed Martin Chairman/CEO) network mention (Jun 19, 19:00 UTC)
-- **LinkedIn Service Requests:** Black Swift Technologies Industrial Design request from Chuck Modzinski visible (Jun 19, 19:09 UTC)
-- **LinkedIn Job Alerts:** Social Media Manager – Music Label at Twine (Jun 19, 20:59 UTC)
-- **SIGNAL:** Sustained daily LinkedIn engagement; no reduction in networking activity post-event
+#### **Geopolitical & Breaking News (Elevated)**
+- **Iran Strait of Hormuz closure** (Jun 20, 15:40 UTC)
+- **Iran peace talks / Vance diplomacy** (Jun 20, 21:32 UTC)
+- **Trump administration policy** (wind energy, general)
+- **NOTE:** Geopolitical breaking news activity increased compared to Jun 19-20 pattern. Three Iran-related alerts in 24 hours suggest heightened monitoring of Middle East developments (potentially relevant to defense/aerospace sector awareness).
 
-#### **Industry & Vertical Newsletters (Continued)**
-- **UAS VISION Daily News** (Jun 19, 09:07 UTC) — routed through Jack's media alias
-- **Mitchell Institute / Air Force Association:** "Conflict in Space and the French Air Combat Command Commander" (Jun 19, 06:37 UTC)
+#### **Energy & Climate Policy**
+- **Wind energy / Trump administration policy shift** (Jun 20, 10:13 UTC)
+- **SIGNAL:** Energy sector intelligence; possible relevance to BST renewable/sustainability initiatives or client work
 
-#### **General News & Content Consumption**
-- **The New York Times:** 3 messages
-  - "Inside Pete Hegseth's war on diversity" (Jun 19, 22:11 UTC)
-  - "ICE spent $700 million on 7 warehouses. Now it wants to get rid of them." (Jun 19, 12:01 UTC)
-  - Subscription renewal offer "Secure our best offer of summer: $1/wk" (Jun 20, 01:53 UTC)
-- **The Athletic Pulse:** "Another step toward a lockout" (Jun 19, 10:28 UTC) — sports labor negotiations
+#### **Industry Intelligence (Aerospace)**
+- **China competitive analysis / Epic Fury implications** (Jun 20, 05:41 UTC)
+- **SIGNAL:** Sustained consumption of aerial combat/advanced systems intelligence
 
-#### **Marketing & SaaS Tool Promotions**
-- **All in One SEO:** "Your post, eligible for rich results in under a minute" (Jun 19, 14:07 UTC)
-- **BannerBuzz:** "Exclusive for You: 25% OFF + A Surprise Inside 🎁" (Jun 19, 14:03 UTC)
-- **Target:** "SO happy you are here—major savings are on the way" (Jun 19, 14:05 UTC)
+#### **Lifestyle & General Interest**
+- **Celebrity/entertainment** (Jennifer Lopez/Brett Goldstein)
+- **Wedding etiquette trends**
+- **Sports** (USMNT soccer)
 
-#### **Event/Conference Outreach**
-- **Sean Guerre / Innovate Energy Now:** "Last call for the EDR Summit. Are you in?" (Jun 19, 08:22 UTC)
-  - **NOTE:** EDR = Energy Degree Recognition or Energy Driven Resilience summit (unclear from subject alone; not previously documented)
-
-#### **Nonprofit/Community**
-- **All Roads Boulder County:** "The Kindness Keeps Coming!" (Jun 19, 11:02 UTC) — sent to info@blackswifttech.com (general company inbox, not Paige direct)
-
-#### **Political/Civic Content**
-- **James Barlia / Capital Factory:** "🗳️ A Progressive Sweep" (Jun 19, 11:13 UTC)
-  - **NOTE:** New correspondent; appears to be periodic political content distribution (Capital Factory is Austin-based tech incubator)
+#### **LinkedIn Networking**
+- 2 new connection invitations (Jun 21, 02:21 UTC)
 
 ---
 
 ## Communication Patterns
 
-### **Time Distribution (Jun 19-20)**
-- **Early morning (00:00-06:00 UTC):** LinkedIn engagement notifications, profile views (2:59-4:59 UTC)
-- **Morning (06:00-10:00 UTC):** News digests, industry newsletters, business operations (Paige's outbound at 09:03 & 09:58 UTC)
-- **Midday (10:00-15:00 UTC):** Task reminders, SaaS promotions, real estate/retail marketing
-- **Evening (18:00-23:00 UTC):** News updates, LinkedIn
+### **Time Distribution (Jun 20-21)**
+- **Early morning (00:00-06:00 UTC):** News alerts, LinkedIn notifications (02:21-05:41 UTC)
+- **Morning (06:00-12:00 UTC):** Industry newsletters, climate news, sports updates (10:03-11:23 UTC)
+- **Afternoon (12:00-18:00 UTC):** Breaking news, SaaS promotions (12:01-15:40 UTC)
+- **Evening (18:00-23:00 UTC):** NYT breaking news pulses (21:02-21:32 UTC)
+
+### **Email Categories (Gmail Auto-Classification)**
+- **CATEGORY_UPDATES:** 9 of 11 (82%)
+- **CATEGORY_PROMOTIONS:** 1 of 11 (9%)
+- **CATEGORY_SOCIAL:** 1 of 11 (9%)
+
+### **Unread Status**
+- **All 11 messages marked UNREAD** — suggests inbox review but not action-driven response
+
+---
+
+## Key Relationships
+
+**No active business relationships visible in Jun 20-21 batch.**
+
+- **Previous key collaborators (silent since Jun 17-19):**
+  - Jeremy Van Vliet (Rubicon Aerospace)
+  - Kathi Healy (RMI Select)
+  - Lee Skidmore (Rubicon Aerospace)
+  - Sona Raziabeegum (Krateo Sky) — last contact Jun 19, 09:58 UTC
+
+- **Cooling partnerships:**
+  - Kylie Bliss / HubSpot (last contact Jun 19, 10:18 UTC; marked as transitioned from active coordination to automated vendor follow-up)
+
+---
+
+## Notable Observations
+
+1. **Complete Operational Wind-Down Confirmed:** Zero business email traffic over 48 hours (Jun 20-21) represents full transition out of Krateo Sky event execution phase. No approval loops, no vendor coordination, no project management.
+
+2. **News Consumption Elevated:** 7 of 11 messages are news digests/breaking alerts; 3 specifically focused on geopolitical events (Iran) and 1 on energy policy. This suggests:
+   - Active consumption of U.S. foreign policy and Middle East developments
+   - Awareness of energy sector policy shifts
+   - Possible role in competitive intelligence or client awareness briefings
+
+3. **LinkedIn Networking Continues Unabated:** Despite business project closure, social networking activity sustained (2 new connection invitations pending).
+
+4. **No Event Post-Mortem/Debrief Emails:** Absence of internal closure communications (no emails to Jeremy Van Vliet, Kathi Healy, Lee Skidmore, or Sona Raziabeegum regarding event outcomes, lessons learned, or next steps). Suggests either:
+   - Debrief occurred via meetings/synchronous channels
+   - Debrief scheduled for later (post Jun 21)
+   - Project closure was clean and required no follow-up coordination
+
+5. **Lifestyle/Entertainment Content Mix Sustained:** Continued high ratio of personal-interest news (celebrity, sports, wedding etiquette) alongside professional aerospace

@@ -63,11 +63,11 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "ERAU ordered 2\u00d7 S0 VTOL units, paid in full (Invoice 1667, May 2025). Units in BST QC; targeting delivery by August/September 2026 for ISARRA Flight Week campaign. Jack Elston confirmed (5/21/26) plan to coordinate delivery/training logistics at ISARRA site. Settlement agreement pending for historical delivery delays. Kevin Adkins actively coordinating Aug/Sept 2026 delivery window (emails 5/19\u20135/21/26).",
+  "notes": "ERAU ordered 2\u00d7 S0 VTOL units; paid in full (Invoice 1667, May 2025, $21,181.81). Units in BST QC; targeting delivery by August/September 2026 for ISARRA Flight Week campaign. Jack Elston confirmed (5/21/26) plan to coordinate delivery/training logistics at ISARRA site. Kevin Adkins actively coordinating Aug/Sept 2026 delivery window (emails 5/19\u20135/21/26). Settlement agreement pending for historical delivery delays.",
   "missing_fields": [
     "shipped_date",
     "tracking_number"
   ],
-  "last_evidence_date": "2026-06-17",
+  "last_evidence_date": "2026-06-19",
   "last_contact_date": "2026-05-21"
 }
