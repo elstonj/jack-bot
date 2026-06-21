@@ -33,10 +33,11 @@
 - **Multi-project engagement:** Stachura sustains 4-stream workload despite distributed capacity
 - **Nate elevated responsibility:** Now carrying General IRAD work (Krateo) + Hurricane IDIQ during Beck Cotter absence
 - **Administrative continuity:** Meredith Needham holds operations/admin steady (+3.3 hrs)
+- **Weekend tracking pause:** No time entries recorded Jun 20-21 (weekend period)
 
 ## Project Portfolio
 
-### Top Projects by Hours (Updated)
+### Top Projects by Hours
 1. **Project None:** 8,649.5 hours (25.39%) — unallocated/overhead
 2. **Project 183171534:** 4,535.8 hours (13.32%)
 3. **[301-2] SBIR - Hurricane Phase II+ (NOAA):** 3,292.8 hours (9.67%)
@@ -52,18 +53,18 @@
 13. **[001-03] S0-AD IRAD:** 271.1 hours (0.80%)
 14. **[001-01] General IRAD:** 8.0 hours (0.024%) — *new tracking (Krateo)*
 15. **[001-21] Sick Leave:** 24.0 hours (0.071%) — *↑ 8.0 hrs* (Beck Cotter surgery day, Jun 19)
-16. **[018-1] Murray State CH4 Monitoring:** 0.2 hours (0.006%) — new minimal project
+16. **[018-1] Murray State CH4 Monitoring:** 0.2 hours (0.006%)
 17. **[300-3] 2026 IDIQ (Hurricane):** 109.0 hours (0.32%)
 18. **[550-2] Navy STTR: Hazardous Weather:** 45.9 hours (0.135%)
 19. **[550-1] Navy SBIR: Magnetometer:** 60.0 hours (0.176%)
 
-### Client Distribution (Updated)
+### Client Distribution
 - **IRAD (Internal R&D):** 7,089.3 hours (20.81%)
 - **Overhead/Corporate/Operations:** 1,932.6 hours (5.68%) — *↑ 4.5 hrs BD Pipeline*
 - **NOAA:** 3,401.8 hours (9.99%)
 - **NASA:** 2,058.8 hours (6.04%)
 - **Department of Air Force:** 1,258.5 hours (3.70%)
-- **Murray State:** 0.2 hours (0.006%) — new minimal engagement
+- **Murray State:** 0.2 hours (0.006%)
 - **Navy (SBIR/STTR):** 105.9 hours (0.311%)
 - **Unallocated:** 8,649.5 hours (25.39%)
 - **PTO/Sick Leave:** 104.0 hours (0.305%) — *↑ 8.0 hrs* (Beck Cotter surgery day)
@@ -71,24 +72,24 @@
 
 ## Patterns & Insights
 
-### Recent Activity (Jun 19-20)
-- **23.9 hours tracked** across 4 team members over 2-day window
-- **Beck Cotter surgical leave:** 8.0 hours Jun 19 (surgery day—offline all day), extending prior travel day
-- **Operational redistribution:** Nate + Stachura + Meredith Needham maintain business continuity on IRAD, BD Pipeline, and Operations/Admin
-- **New project entry:** Murray State CH4 Monitoring (0.2 hrs)—minimal, exploratory engagement
+### Recent Activity (Jun 20-21)
+- **0.0 hours tracked** (weekend period)—expected pause in business activity
+- **No new project or team entries**—prior week's operational redistribution (Beck Cotter absence) holding steady
+- **Data stability:** All metrics consistent with Jun 19 closeout
 
-### Beck Cotter Operations Leadership Gap
-- **Total medical absence:** 24.0 hours (Jun 18-19 travel + Jun 19 surgery)
-- **Impact:** No proposals tracked Jun 19; General Operations reduced to Meredith Needham baseline
-- **Mitigation:** Stachura absorbs BD Pipeline momentum (+4.7 hrs this period), Nate escalates to General IRAD
+### Ongoing Operational Patterns
+- **Beck Cotter medical absence resolved:** 24.0-hour medical leave (Jun 18-19) complete; normal operations resuming Mon Jun 23
+- **Operational continuity held:** Distributed leadership model (Nate on General IRAD + Krateo, Stachura on BD Pipeline + Flight Testing, Meredith Needham on Admin) prevented project regression
+- **IRAD portfolio active:** General IRAD re-engaged (8.0 hrs Krateo work); S3 gimbal and flight testing pipelines proceeding without timesheet updates (execution phase)
+- **Hurricane IDIQ momentum sustained:** No regression despite Beck Cotter offline Jun 18-19
+- **Overhead burden remains high:** 26.07% of time (overhead + unallocated + leave) typical for small aerospace startup
 
-### Standing Patterns Persist
-- **S3 gimbal acceleration:** No new hours this period (Ethan/Sam focused on execution, not timesheet activity)
-- **Hurricane IDIQ momentum maintained:** Despite Beck Cotter absence, no regression in NOAA tracking
-- **IRAD portfolio stable:** General IRAD re-engaged (Krateo work via Nate—8.0 hrs) suggests resource flexibility
-- **Overhead burden stable:** 26.07% (overhead + unallocated + leave) remains typical startup operational load
-- **Multi-project flexibility:** Stachura continues cross-project execution during leadership absence—key dependency risk
+### Identified Risks
+1. **Single point of failure:** Beck Cotter operations/proposal leadership—Meredith Needham backup under-capacity; no dedicated second proposal owner
+2. **Nate role stretch:** Now covering both General IRAD (Krateo) + Hurricane IDIQ during leadership gaps—unsustainable long-term
+3. **Unallocated hours (25.39%):** Significant overhead drag; opportunity to re-baseline project allocations or reduce overhead burden
+4. **S3 gimbal/Flight Testing execution visibility:** Limited timesheet entries suggest execution proceeding, but reduced tracking may mask blockers
 
-### Emerging Risks
-- **Single point of failure:** Beck Cotter operations leadership absence exposes lack of backup proposal/admin coverage; Meredith Needham absorbs but at reduced capacity
-- **Nate escalation:** General IRAD assignment in addition to Hurricane work indicates team stretching during absence
+### Recommendations
+- Formalize Meredith Needham's proposal support role with capacity planning
+- Cross-train second team member on General IRAD baseline to reduce

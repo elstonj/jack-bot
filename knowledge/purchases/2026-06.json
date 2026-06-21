@@ -5731,5 +5731,83 @@
     "notes": "UPS past-due invoice notice; not a new purchase",
     "date": "2026-06-20",
     "subject": "You Have Past Due Invoices"
+  },
+  {
+    "id": "19ee745d94c111e1",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "Hilton Honors",
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Hotel reservation confirmation for personal travel; not a business purchase",
+    "date": "2026-06-20",
+    "subject": "Your upcoming Jun-27-2026 stay at Hampton Inn & Suites Murray"
+  },
+  {
+    "id": "19ee745d42a3fe55",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "Hilton Honors",
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Duplicate hotel reservation confirmation; personal travel",
+    "date": "2026-06-20",
+    "subject": "Your upcoming Jun-27-2026 stay at Hampton Inn & Suites Murray"
+  },
+  {
+    "id": "19ee6e3445f0937e",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "HeliDirect",
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Marketing/promotional email; no purchase request or order",
+    "date": "2026-06-20",
+    "subject": "\ud83c\udf89 More Electronics, Helicopter Deals this Father's Day!"
+  },
+  {
+    "id": "19ee657b4d355806",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "18650BatteryStore.com",
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Post-purchase review request; no dollar amount or order details",
+    "date": "2026-06-20",
+    "subject": "18650BatteryStore.com - Please Review the products in your order!"
+  },
+  {
+    "id": "19ee64895c689edc",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "Harbor Freight",
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Marketing/promotional email; no purchase request or order",
+    "date": "2026-06-20",
+    "subject": "It\u2019s STORAGE DAYS! Get 15% Off All YUKON and U.S. GENERAL Carts and Roller Cabinets "
+  },
+  {
+    "id": "19ee5383c104c6b2",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": null,
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "USPS Informed Delivery digest; shipping/mail notification with no purchase context",
+    "date": "2026-06-20",
+    "subject": "Your Daily Digest for Sat, 6/20 is ready to view"
   }
 ]
