@@ -1,11 +1,11 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,809 (2,798 previous + 11 new from Jun 20-21, 2026)
-- **Date range:** March 24 – June 21, 2026 (90 days)
-- **Approximate volume:** ~31.2 messages per day (sustained consistency maintained)
-- **Pattern update (Jun 20-21, 2026):** **~100% automation/newsletters/news/social** (11 of 11 messages)
-  - **SIGNAL:** Complete absence of business-critical correspondence. Zero direct business emails; no project coordination, no client/partner contact, no internal collaboration. Email inbox is entirely composed of news digests, industry newsletters, LinkedIn notifications, and SaaS promotions. This represents full operational wind-down post-Krateo Sky event execution (last business email: Jun 19, 09:58 UTC).
+- **Total messages scanned:** 2,822 (2,809 previous + 13 new from Jun 21-22, 2026)
+- **Date range:** March 24 – June 22, 2026 (91 days)
+- **Approximate volume:** ~31 messages per day (sustained consistency maintained)
+- **Pattern update (Jun 21-22, 2026):** **~92% automation/newsletters/news/social** (12 of 13 messages)
+  - **SIGNAL:** Continued complete absence of business-critical correspondence. Single non-newsletter message: STATION Austin community event notification (routed to media@blackswifttech.com, not direct). Email inbox remains entirely composed of news digests, industry newsletters, LinkedIn notifications, lifestyle content, and promotional emails. Operational wind-down sustained through Jun 22.
 
 ---
 
@@ -13,130 +13,126 @@
 
 ### Top Internal Senders & Collaborators
 
-**No internal correspondence in Jun 20-21 batch.**
+**No direct internal correspondence in Jun 21-22 batch.**
 
-- **Jack Elston** (media@blackswifttech.com) — last contact Jun 19
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — last contact Jun 19
+- **STATION Austin Community Team** (events@stationaustin.org → media@blackswifttech.com)
+  - Jun 21, 13:58:31 UTC: "This Week at STATION Austin 🚀 6/22 - 6/26"
+  - **NOTE:** Routed to media@ alias, not direct to Paige; suggests BST community/partnership notification. No response visible.
 
 ### Top External Senders & Vendors
 
-#### **News & Media (Dominant — 7 of 11 messages)**
+#### **News & Media (Dominant — 8 of 13 messages)**
 
-- **The New York Times** (breakingnews@nytimes.com, editorpicks@nytimes.com, nytdirect@nytimes.com)
-  - Jun 21, 02:27 UTC: "Trump says Reflecting Pool will likely need to be drained"
-  - Jun 20, 21:32 UTC: "Breaking news: Vance heads to Switzerland for Iran peace talks"
-  - Jun 20, 21:02 UTC: "Jennifer Lopez and Brett Goldstein are more alike than you might think"
-  - Jun 20, 15:40 UTC: "Breaking news: Iran's forces say they closed Strait of Hormuz"
-  - Jun 20, 12:01 UTC: "Wedding gift etiquette is shifting"
-  - Jun 20, 10:03 UTC: "The Morning: Game change"
-  - **SIGNAL:** High-frequency breaking news + geopolitical coverage (Iran, Vance diplomacy, Trump administration); mixed with lifestyle content
-
-- **Inside Climate News** (newsletters@insideclimatenews.org)
-  - Jun 20, 10:13 UTC: "Trump administration abandons fight against wind energy as clean energy output surges"
-  - **SIGNAL:** Energy/climate policy focus (relevant to aerospace/defense vertical awareness)
+- **The New York Times** (nytimes@e.newyorktimes.com, editorpicks@nytimes.com, nytdirect@nytimes.com)
+  - Jun 22, 02:26:54 UTC: "Secure our best offer of summer: $1/wk." (promotional)
+  - Jun 22, 00:36:59 UTC: "25 questions to ask your dad" (lifestyle)
+  - Jun 21, 21:20:29 UTC: "Take our weekly news quiz" (engagement)
+  - Jun 21, 12:06:25 UTC: "The Morning: Sweet or salty?" (lifestyle, marked IMPORTANT)
+  - Jun 21, 12:01:31 UTC: "Are sunglasses really necessary?" (lifestyle)
+  - **SIGNAL:** Sustained high-frequency delivery; shift toward lifestyle/entertainment content and subscription promotions over breaking news compared to Jun 20-21 pattern
 
 #### **Industry Intelligence (Sustained)**
 
-- **Mitchell Institute / Air Force Association** (mitchell@afa.org)
-  - Jun 20, 05:41 UTC: "✈️ What Lessons is China Taking From Epic Fury? Key Considerations - Aerospace Advantage 295"
-  - **SIGNAL:** Continued aerospace competitive intelligence consumption
+- **Unmanned Systems Technology via LinkedIn** (newsletters-noreply@linkedin.com)
+  - Jun 21, 15:01:02 UTC: "UST Newsletter Edition 169"
+  - **SIGNAL:** Consistent aerospace/unmanned systems intelligence consumption
+
+- **Inside Climate News** (newsletters@insideclimatenews.org)
+  - Jun 21, 10:00:48 UTC: "The search for super reefs"
+  - **SIGNAL:** Ocean/climate/environmental coverage (potential relevance to AOML connection noted below)
 
 #### **Sports & Entertainment**
 
 - **The Athletic Pulse** (TheAthletic@e1.theathletic.com)
-  - Jun 20, 11:23 UTC: "An almost dream start for USMNT"
+  - Jun 21, 10:55:45 UTC: "A can't-miss final pairing" (marked IMPORTANT)
+  - **SIGNAL:** Golf coverage (final pairing suggests major tournament); elevated importance flag
 
-#### **SaaS & Marketing Tools**
+#### **LinkedIn Network Activity**
 
-- **WPBeginner** (support@wpbeginner.com)
-  - Jun 20, 14:53 UTC: "Reminder: 30-minute fix to avoid privacy fines ⏱️"
-  - **SIGNAL:** Web privacy/compliance tool promotion
+- Jun 22, 03:00:49 UTC: "Atlantic Oceanographic and Meteorological Laboratory (AOML) recently posted"
+  - **SIGNAL:** New connection or organization follow initiated; AOML is NOAA affiliate focused on ocean research/meteorology
+- Jun 22, 02:21:50 UTC: "You have 2 new invitations"
+  - **SIGNAL:** Continued network expansion (duplicates Jun 21 pattern from previous batch; likely same invitations)
 
-#### **LinkedIn**
+#### **Industry/Event Promotion (External)**
 
-- Jun 21, 02:21 UTC: "You have 2 new invitations"
-  - **SIGNAL:** Continued network expansion activity
+- **Sean Guerre** (seang@innovateenergynow.com)
+  - Jun 21, 13:58:31 UTC: "Very Last Chance: The Biggest EDR Summit in Our 10-Year History Starts Tomorrow"
+  - **SIGNAL:** EDR (Endpoint Detection & Response) cybersecurity event promotion; appears to be last-minute reminder. No prior correspondence with this contact visible in previous batches.
+
+#### **Retail & General Promotion**
+
+- **Target** (targetnews@em.target.com)
+  - Jun 21, 06:08:27 UTC: "Your New Weekly Ad is here."
+  - **SIGNAL:** Standard retail promotional subscription
 
 ---
 
 ## Topic Patterns
 
-### **Business-Critical (Operational)**
-**None in Jun 20-21 batch.**
+### **Business-Critical**
+**None in Jun 21-22 batch.**
 
-### **Secondary Activity Channels (Jun 20-21 Focus)**
+### **Secondary Activity Channels (Jun 21-22 Focus)**
 
-#### **Geopolitical & Breaking News (Elevated)**
-- **Iran Strait of Hormuz closure** (Jun 20, 15:40 UTC)
-- **Iran peace talks / Vance diplomacy** (Jun 20, 21:32 UTC)
-- **Trump administration policy** (wind energy, general)
-- **NOTE:** Geopolitical breaking news activity increased compared to Jun 19-20 pattern. Three Iran-related alerts in 24 hours suggest heightened monitoring of Middle East developments (potentially relevant to defense/aerospace sector awareness).
+#### **Oceanographic & Environmental Research (NEW SIGNAL)**
+- **AOML LinkedIn post notification** (Jun 22, 03:00:49 UTC)
+- **Inside Climate News: "The search for super reefs"** (Jun 21, 10:00:48 UTC)
+- **SIGNAL INTERPRETATION:** Emerging or renewed interest in ocean science/climate research. AOML is a NOAA research lab; combined with ICN climate coverage, suggests possible exploratory interest in:
+  - Environmental/ocean science partnerships or clients
+  - ESG/sustainability initiatives
+  - Potential pivot toward climate tech or marine technology sector
 
-#### **Energy & Climate Policy**
-- **Wind energy / Trump administration policy shift** (Jun 20, 10:13 UTC)
-- **SIGNAL:** Energy sector intelligence; possible relevance to BST renewable/sustainability initiatives or client work
+#### **Cybersecurity Events (LOW SIGNAL)**
+- **EDR Summit promotion** (Jun 21, 13:58:31 UTC)
+- **SIGNAL:** Single promotional message from unfamiliar sender. No prior engagement pattern visible. Likely mass distribution.
 
-#### **Industry Intelligence (Aerospace)**
-- **China competitive analysis / Epic Fury implications** (Jun 20, 05:41 UTC)
-- **SIGNAL:** Sustained consumption of aerial combat/advanced systems intelligence
+#### **Industry Intelligence (Aerospace/Unmanned Systems)**
+- **UST Newsletter Edition 169** (Jun 21, 15:01:02 UTC)
+- **SIGNAL:** Continued sustained consumption of unmanned systems intelligence (consistent with historical pattern)
 
-#### **Lifestyle & General Interest**
-- **Celebrity/entertainment** (Jennifer Lopez/Brett Goldstein)
-- **Wedding etiquette trends**
-- **Sports** (USMNT soccer)
+#### **Lifestyle & General Interest (Elevated)**
+- **NYT lifestyle content:** sunglasses necessity, gift ideas for dads, general quiz/engagement (4 of 8 NYT messages)
+- **Sports:** Golf tournament (marked IMPORTANT)
+- **SIGNAL:** High proportion of personal-interest content suggests relaxed work schedule post-project completion
 
 #### **LinkedIn Networking**
-- 2 new connection invitations (Jun 21, 02:21 UTC)
+- 2 new connection invitations (likely same as Jun 21 batch; email timestamp anomaly)
+- AOML organization follow initiated
 
 ---
 
 ## Communication Patterns
 
-### **Time Distribution (Jun 20-21)**
-- **Early morning (00:00-06:00 UTC):** News alerts, LinkedIn notifications (02:21-05:41 UTC)
-- **Morning (06:00-12:00 UTC):** Industry newsletters, climate news, sports updates (10:03-11:23 UTC)
-- **Afternoon (12:00-18:00 UTC):** Breaking news, SaaS promotions (12:01-15:40 UTC)
-- **Evening (18:00-23:00 UTC):** NYT breaking news pulses (21:02-21:32 UTC)
+### **Time Distribution (Jun 21-22, UTC)**
+- **Early morning (00:00-06:00 UTC):** News digest, NYT promotional, LinkedIn notifications (00:36-03:00 UTC)
+- **Morning (06:00-12:00 UTC):** Climate newsletter, sports alert, lifestyle content (10:00-12:06 UTC)
+- **Afternoon (12:00-18:00 UTC):** News quiz, EDR summit reminder, STATION Austin event (12:01-15:01 UTC, -5/-6 offset)
+- **Evening (18:00-23:00 UTC):** NYT evening quiz alert (21:20 UTC)
 
 ### **Email Categories (Gmail Auto-Classification)**
-- **CATEGORY_UPDATES:** 9 of 11 (82%)
-- **CATEGORY_PROMOTIONS:** 1 of 11 (9%)
-- **CATEGORY_SOCIAL:** 1 of 11 (9%)
+- **CATEGORY_UPDATES:** 9 of 13 (69%)
+- **CATEGORY_PROMOTIONS:** 3 of 13 (23%)
+- **CATEGORY_SOCIAL:** 1 of 13 (8%)
+- **CATEGORY_FORUMS:** 1 of 13 (8%)
 
 ### **Unread Status**
-- **All 11 messages marked UNREAD** — suggests inbox review but not action-driven response
+- **All 13 messages marked UNREAD** — consistent with Jun 20-21 pattern; suggests inbox review without action response
+
+### **Importance Flagging**
+- 2 messages flagged IMPORTANT (out of 13):
+  - NYT "The Morning: Sweet or salty?" (lifestyle digest)
+  - The Athletic golf pairing alert
+- **SIGNAL:** Personal preference flags (news digest + sports); no business-critical flags
 
 ---
 
 ## Key Relationships
 
-**No active business relationships visible in Jun 20-21 batch.**
+**No active business relationships visible in Jun 21-22 batch.**
 
-- **Previous key collaborators (silent since Jun 17-19):**
-  - Jeremy Van Vliet (Rubicon Aerospace)
-  - Kathi Healy (RMI Select)
-  - Lee Skidmore (Rubicon Aerospace)
-  - Sona Raziabeegum (Krateo Sky) — last contact Jun 19, 09:58 UTC
+- **Emerging/exploratory connections (NEW):**
+  - Atlantic Oceanographic and Meteorological Laboratory (AOML) — LinkedIn organization follow initiated Jun 22
+  - Sean Guerre / Innovate Energy Now (EDR Summit) — promotional contact, no prior relationship visible
 
-- **Cooling partnerships:**
-  - Kylie Bliss / HubSpot (last contact Jun 19, 10:18 UTC; marked as transitioned from active coordination to automated vendor follow-up)
-
----
-
-## Notable Observations
-
-1. **Complete Operational Wind-Down Confirmed:** Zero business email traffic over 48 hours (Jun 20-21) represents full transition out of Krateo Sky event execution phase. No approval loops, no vendor coordination, no project management.
-
-2. **News Consumption Elevated:** 7 of 11 messages are news digests/breaking alerts; 3 specifically focused on geopolitical events (Iran) and 1 on energy policy. This suggests:
-   - Active consumption of U.S. foreign policy and Middle East developments
-   - Awareness of energy sector policy shifts
-   - Possible role in competitive intelligence or client awareness briefings
-
-3. **LinkedIn Networking Continues Unabated:** Despite business project closure, social networking activity sustained (2 new connection invitations pending).
-
-4. **No Event Post-Mortem/Debrief Emails:** Absence of internal closure communications (no emails to Jeremy Van Vliet, Kathi Healy, Lee Skidmore, or Sona Raziabeegum regarding event outcomes, lessons learned, or next steps). Suggests either:
-   - Debrief occurred via meetings/synchronous channels
-   - Debrief scheduled for later (post Jun 21)
-   - Project closure was clean and required no follow-up coordination
-
-5. **Lifestyle/Entertainment Content Mix Sustained:** Continued high ratio of personal-interest news (celebrity, sports, wedding etiquette) alongside professional aerospace
+- **Previous key collaborators (silent since Jun

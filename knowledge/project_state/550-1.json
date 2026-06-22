@@ -15,9 +15,9 @@
     "type": "t_and_m",
     "number": null,
     "total_value": 242540.0,
-    "start_date": "2025-07-30",
-    "end_date": "2025-10-14",
-    "payment_cadence": "paid in advance",
+    "start_date": "2026-09-28",
+    "end_date": "2026-09-28",
+    "payment_cadence": "monthly",
     "documents": [
       "drive://Statement of Work",
       "drive://CRT-90P Hydrophone User Guide Rev 2.pdf",
@@ -27,32 +27,25 @@
   "budget": {
     "approved": 242540.0,
     "approved_source": "asana_custom_field",
-    "line_items": [
-      {
-        "category": "Labor",
-        "amount": 1323.0,
-        "description": "T&M Charges for R&D development work from 7/30/25 thru 10/14/25: 9 hours @ $147/hr (senior engineer)",
-        "source_doc": null
-      }
-    ],
+    "line_items": [],
     "spent": {
       "labor": {
         "amount": 48150.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-21"
+        "last_updated": "2026-06-22"
       },
       "purchases": {
         "amount": 185.15,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-06-21"
+        "last_updated": "2026-06-22"
       },
       "other_qbo": {
         "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-06-21"
+        "last_updated": "2026-06-22"
       },
       "total": 48335.15,
       "by_line_item": {}
@@ -60,7 +53,7 @@
     "committed": 0.0,
     "remaining": 194204.85,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-21T08:51:22Z"
+    "last_reconciled": "2026-06-22T08:54:01Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -105,6 +98,6 @@
       "text": "From Maciej: <@U0AQE94HJUT> I don't see a Navy meeting at 9:30 this morning. Also, for mag integration it's Alex and Sam on the critical engineering tasks"
     }
   ],
-  "last_full_rebuild": "2026-06-21T08:51:22Z",
+  "last_full_rebuild": "2026-06-22T08:54:01Z",
   "last_incremental_update": null
 }

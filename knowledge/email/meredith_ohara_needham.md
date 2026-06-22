@@ -1,10 +1,10 @@
 # Meredith O'hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 212 emails (202 previous + 10 new)
-- **Date range:** June 15–21, 2026 (7 days)
-- **Approximate volume:** ~30 emails/day
-- **Trend:** Sustained high operational volume; out-of-office status activated (Jun 20); travel scheduled; critical HR/payroll issues unresolved; international logistics coordination ongoing
+- **Total messages scanned:** 225 emails (212 previous + 13 new)
+- **Date range:** June 15–22, 2026 (8 days)
+- **Approximate volume:** ~28 emails/day
+- **Trend:** Sustained high operational volume; out-of-office status active through Jun 21; travel to Ottawa confirmed; critical HR/payroll issues remain unresolved during absence
 
 ---
 
@@ -13,12 +13,13 @@
 ### Incoming (by frequency)
 
 **Automated Systems & Purchasing Routing:**
-1. **Purchasing system** (`purchasing@blackswifttech.com`) — 70+ messages
-   - **Vendors (recurring):** Harbor Freight, Pirate Ship, Amazon, Powerwerx, Center Copy Printing, Composite Envisions, Rock West Composites, HeliDirect, 18650BatteryStore.com, USPS Informed Delivery
-   - **NEW vendors:** 
-     - **HeliDirect** (`sales@helidirect.com`) — Electronics/helicopter parts supplier (Father's Day promotional, Jun 20, 21:15 UTC)
-     - **18650BatteryStore.com** — Battery supply (product review request, Jun 20, 18:42 UTC)
-   - **Pattern:** Equipment/parts procurement (electrical connectors, storage devices, composite materials, batteries, helicopter components, printing services)
+1. **Purchasing system** (`purchasing@blackswifttech.com`) — 80+ messages
+   - **Vendors (recurring):** Harbor Freight, Pirate Ship, Amazon, Powerwerx, Center Copy Printing, Composite Envisions, Rock West Composites, HeliDirect, 18650BatteryStore.com, USPS Informed Delivery, UPS, flashlightgo, Speedway Motors
+   - **NEW vendors (Jun 21–22):**
+     - **flashlightgo** — Flashlight/tactical equipment retailer (product review request, Jun 21, 17:58 UTC)
+     - **Speedway Motors** — Automotive parts/accessories (Father's Day promotional, Jun 21, 16:17 UTC)
+     - **uAvionix** (`squawk@uavionix.com`) — Aviation/UAV transponder systems (Father's Day promotional, Jun 21, 13:16 UTC) [sent to Jack Elston's purchasing inbox]
+   - **Pattern:** Equipment/parts procurement expanding into aviation systems (uAvionix); tactical/lighting supplies; automotive components; batteries and helicopter electronics remain active
    - **Status:** Past due invoices alert remains unresolved
 
 2. **Rippling HR/Payroll system** — 11+ messages (unresolved)
@@ -26,98 +27,88 @@
      - Employee classification & tax status corrections
      - Unauthorized bank account switching incident
      - Previous unauthorized debit (case #06895507)
-   - **Status:** Escalation pending; system reliability concerns elevated
+   - **Status:** Escalation pending; system reliability concerns elevated; **Meredith traveling while incidents unresolved**
 
-3. **Hilton Honors (via Purchasing routing)** — 2 messages
-   - **Booking:** Hampton Inn & Suites Murray, check-in Jun 27, 2026
-   - **Date received:** Sat, 20 Jun 2026, 23:02 UTC (duplicate notification)
-   - **Implication:** Meredith traveling Jun 27; location TBD (Murray suggests potential salt lake city area or similar)
+3. **Travel Booking Systems (Expedia via Purchasing)**
+   - **NEW confirmation:** "All set for your trip to Ottawa" (Sun, Jun 21, 17:17 UTC)
+   - **Previous booking:** Hampton Inn & Suites Murray (Jun 27 check-in)
+   - **Implication:** **Two separate business trips confirmed**
+     - **Ottawa trip:** Imminent (Jun 21–22 timeframe; email marked "All set")
+     - **Murray trip:** Jun 27–28 (previously noted)
+   - **Context:** Ottawa suggests Canadian logistics/manufacturing visit (aligns with Daniel Prendergast arctic UAS + Robert Correia/Noah Ray battery shipment coordination)
 
-4. **USPS Informed Delivery** — Daily digest (Jun 20)
-   - **Pattern:** Active parcel/shipment monitoring
+4. **USPS Informed Delivery** — Daily digest (Jun 21)
+   - **Pattern:** Continuous active parcel monitoring
 
 **Human Contacts:**
 
-5. **Tanay Topac** (`tanaytopac@stanford.edu`) — NEW correspondence
-   - **Subject:** "MHP data alignment"
-   - **Meredith's response:** Out of Office Re (Jun 20, 18:46 PDT) [SENT]
-   - **Tanay's follow-up:** Jun 21, 01:46 UTC, forwarded to Maciej Stachura (`stachura@blackswifttech.com`) [IMPORTANT, UNREAD]
-   - **Implication:** Stanford University external contact; data alignment project (MHP); escalation to internal team (Maciej) indicates priority
-   - **Out-of-office status active:** Meredith away but managing urgent escalations
+5. **Tanay Topac** (`tanaytopac@stanford.edu`) — Stanford University
+   - **NEW thread activity (Jun 21–22):**
+     - Tanay → Maciej Stachura: "Re: MHP data alignment" (Mon, 22 Jun, 00:06 UTC) [UNREAD, IMPORTANT]
+     - Meredith → Maciej Stachura: Out of Office Re (Sun, 21 Jun, 13:47 PDT) [SENT]
+     - Maciej Stachura → Tanay Topac: "Re: MHP data alignment" (Sun, 21 Jun, 14:47 CDT) [UNREAD, IMPORTANT]
+   - **Pattern:** Multi-day escalation; Meredith out-of-office but Maciej actively managing response; Tanay continuing thread next day
+   - **Status:** High-priority Stanford collaboration; Maciej delegated as interim point-of-contact
 
-6. **Scott Tibbitts** (`stibbitts@katasi.com`) — NEW direct contact
-   - **Subject:** "Re: greetings/ask"
-   - **Meredith's response:** Out of Office Re (Jun 20, 11:04 PDT) [SENT]
-   - **Tibbitts' follow-up:** Jun 20, 12:04 PDT, forwarded to Jack Elston [IMPORTANT, UNREAD]
-   - **Context:** Katasi external organization; same thread as Jack Elston (Level 6 Space crossover)
-   - **Implication:** Multi-party external partnership discussion; Meredith out but responses auto-generated
+6. **Maciej Stachura** (`stachura@blackswifttech.com`) — Internal escalation point
+   - **NEW activity:** Receiving & responding to Tanay Topac's MHP data alignment queries while Meredith out-of-office
+   - **Implication:** Maciej acting as operational backup for Stanford partnership
 
-7. **Jack Elston** (`elstonj@blackswifttech.com`) — Referenced in new correspondence
-   - **Status:** Continues threading with external contacts (Tibbitts/Katasi, Level 6 Space)
+7. **Jack Elston** (`elstonj@blackswifttech.com`) — Level 6 Space/Katasi partnerships (ongoing)
+   - **NEW note:** uAvionix Father's Day email routed to Jack's purchasing inbox (suggests Jack may be equipment procurement lead or co-owner of certain purchase categories)
 
 8. **Daniel Prendergast** — Arctic UAS & international logistics (ongoing)
 
-9. **Robert Correia, Noah Ray** — Battery shipment/Ottawa logistics (ongoing)
+9. **Robert Correia, Noah Ray** — Battery shipment/Ottawa logistics (ongoing; **likely context for Jun 21 Ottawa trip**)
+
+10. **Scott Tibbitts** (`stibbitts@katasi.com`) — Katasi external organization (ongoing)
 
 ---
 
 ## Topic Patterns
 
-### Primary: Out-of-Office Status + Travel (NEW)
-- **Out-of-office auto-responses activated:** Jun 20, 18:46 & 11:04 PDT
-  - **External contacts receiving responses:** Tanay Topac (Stanford), Scott Tibbitts (Katasi)
-  - **Implication:** Meredith away but managing critical escalations asynchronously
-- **Travel booking:** Hampton Inn & Suites Murray (Jun 27–28 implied)
-  - **Context:** Likely business travel; location suggests potential manufacturing site visit or client meeting
+### Primary: Multi-Trip Travel Schedule (NEW/CONFIRMED)
+- **Trip #1 — Ottawa (IMMINENT):**
+  - **Confirmation:** Expedia "All set for your trip to Ottawa" (Jun 21, 17:17 UTC)
+  - **Timing:** Email marked current/ready-to-go; likely Jun 21–22 or 22–23 departure
+  - **Context:** Aligns with battery shipment logistics (Robert Correia/Noah Ray) + potential Arctic UAS manufacturing/field coordination
+  - **Status:** Out-of-office activated through at least Jun 21; still managing critical escalations
 
-### Secondary: External Academic/Research Collaboration (NEW)
-- **Tanay Topac (Stanford University):** MHP data alignment project
-  - **Status:** Out-of-office reply sent; Tanay escalating same day to Maciej Stachura (BST internal)
-  - **Implication:** Time-sensitive research/data project; Stanford-BST collaboration active
-  - **Priority:** IMPORTANT (flagged by recipient)
+- **Trip #2 — Murray (CONFIRMED Jun 27):**
+  - **Booking:** Hampton Inn & Suites Murray (check-in Jun 27)
+  - **Timing:** 5–6 days after Ottawa return
+  - **Context:** Likely separate site visit or client meeting
 
-### Tertiary: Multi-Party External Partnership Discussions (NEW)
-- **Scott Tibbitts (Katasi)** + **Jack Elston (Level 6 Space/BST)** threading
-  - **Subject:** "greetings/ask" — vague but marked IMPORTANT
-  - **Meredith engagement:** Out-of-office response; Jack handling direct conversation
-  - **Implication:** Business development or partnership exploration underway; multiple external parties (Katasi, Level 6 Space) in discussion
+### Secondary: External Academic/Research Collaboration (HIGH PRIORITY)
+- **Tanay Topac (Stanford University) — MHP data alignment:**
+  - **Jun 21–22 escalation:** Tanay → Maciej Stachura (bypassing Meredith)
+  - **Response:** Maciej actively engaging Tanay on Jun 21, 14:47 CDT
+  - **Tanay follow-up:** Continuing thread on Jun 22, 00:06 UTC (after Maciej response)
+  - **Implication:** Time-sensitive research/data project; Stanford-BST collaboration high-touch; delegation working but Meredith still listed on out-of-office
+  - **Priority:** IMPORTANT (flagged by Tanay & Maciej)
 
-### Quaternary: HR/Payroll System Crisis (Ongoing, Unresolved)
+### Tertiary: Multi-Party External Partnership Discussions (Ongoing)
+- **Scott Tibbitts (Katasi)** + **Jack Elston** threading
+- **Jack receiving uAvionix emails** — suggests Jack co-managing aviation/UAV equipment procurement
+- **Implication:** Katasi + Level 6 Space + potential uAvionix partnership exploration underway
+
+### Quaternary: HR/Payroll System Crisis (ESCALATING)
 - **Rippling incidents:** Bank account switching + tax status corrections still open
-- **Risk elevation:** Meredith traveling while critical financial incidents unresolved
-- **Implication:** Possible need for delegate authority or escalation to CFO/finance during absence
+- **Risk elevation:** Meredith traveling (Ottawa + Murray) while critical financial incidents unresolved
+- **Duration:** Now spanning ~7 days with no resolution
+- **Implication:** Possible executive delegation needed; CFO/finance escalation overdue
 
-### Quinary: Equipment & Parts Procurement (Continuing)
-- **18650BatteryStore.com:** Product review request (Jun 20, 18:42 UTC)
-- **HeliDirect:** Helicopter electronics/parts (Father's Day promotional; may indicate genuine procurement interest or spam)
-- **Harbor Freight:** Storage solutions (Jun 20, 18:26 UTC)
-- **Pattern:** Battery supply chain + helicopter components emerging as new category (separate from previous electrical connectors/composite focus)
-
----
-
-## Communication Patterns
-
-### Time & Status
-- **Out-of-office activated:** Jun 20, 11:04 PDT and continuing through Jun 21
-- **Auto-responses sent:** 18:46 & 11:04 PDT (within 7 hours of each other; suggests setup mid-day Jun 20)
-- **Travel dates:** Jun 27 (hotel check-in)
-- **Duration:** Minimum 1-2 days travel implied; possibly 3-4 day absence
-
-### Escalation Behavior
-- **Tanay Topac (Stanford):** Receives out-of-office auto-reply, immediately escalates to Maciej Stachura (BST) same day (01:46 UTC Jun 21)
-- **Scott Tibbitts (Katasi):** Receives out-of-office auto-reply, escalates to Jack Elston (BST) same day (12:04 PDT Jun 20)
-- **Pattern:** Both external parties routing around Meredith to internal/partner contacts; suggests Meredith is critical bottleneck for both projects
-
-### Newsletter & Promotional (Non-Human)
-- HeliDirect, 18650BatteryStore.com, Harbor Freight, USPS Informed Delivery, Hilton Honors (routine transactional)
-
----
-
-## Key Relationships
-
-### Critical (Escalating during absence)
-1. **Tanay Topac** (Stanford) — MHP data alignment (NEW HIGH PRIORITY)
-   - **Escalation path:** Tanay → Maciej Stachura (internal)
-   - **Signal:** Time-sensitive academic/research project
-
-2. **Scott Tibbitts** (Katasi/Katasi.com) — Partnership discussion (NEW)
+### Quinary: Equipment & Parts Procurement (Expanded)
+- **Aviation/UAV Systems (NEW):**
+  - **uAvionix** (Jun 21, 13:16 UTC) — ADS-B transponder systems for aircraft/UAVs
+  - **Implication:** UAV/drone equipment category emerging; aligns with Level 6 Space/Arctic UAS partnerships
+  
+- **Tactical/Lighting Equipment (NEW):**
+  - **flashlightgo** (Jun 21, 17:58 UTC) — Flashlights/tactical gear
+  - **Pattern:** Field equipment supplies
+  
+- **Automotive Parts (NEW):**
+  - **Speedway Motors** (Jun 21, 16:17 UTC) — Automotive components
+  - **Unclear context:** May be personal; or support equipment for mobile operations
+  
+- **

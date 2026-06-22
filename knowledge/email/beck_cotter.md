@@ -1,5 +1,6 @@
 # Beck Cotter — Email Patterns
 
-Only 1 emails found in scanned period.
+Only 2 emails found in scanned period.
 
-- Sat, 20 Jun 2026 19:09:14 +0000: SSD 2027 is live - 50% off for SSD 2026 participants - Offer tier ends in July (from: "'SSD2026 | Defence Expo' via Sales" <sales@blackswifttech.com>)
+- Mon, 22 Jun 2026 07:53:19 +0000: RE: Merlin Mk2/US Navy SBIR (from: "Simon.Laurence157@mod.gov.uk" <Simon.Laurence157@mod.gov.uk>)
+- Sun, 21 Jun 2026 14:16:26 -0600: Fwd: MHP data alignment (from: Jack Elston <elstonj@blackswifttech.com>)

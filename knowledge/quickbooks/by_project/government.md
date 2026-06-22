@@ -100,7 +100,7 @@
 - **Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head** (2026-05-07): $479.80 [DIRECT COSTS] + $306.08 [Inventory Asset]
   - **Direct Cost Materials & Supplies impact: $479.80**
 
-**Recent transactions confirmed (2026-06-17 to 2026-06-20):**
+**Recent transactions confirmed (2026-06-17 to 2026-06-25):**
 - **Purchase #99879354** (2026-06-17): $170.70 [DC-Direct Material Purchases] — DKC*DIGI KEY CORP - 4617
 - **Purchase** (2026-06-17): $391.91 [DC-Direct Material Purchases]
 - **Purchase #0616JELSTON** (2026-06-17): $33.92 [DC-Direct Material Purchases] — Fully Insulated Quick-Disconnect Terminals; 18-8 Stainless Steel Phillips Flat Head Screw
@@ -127,7 +127,7 @@
 - **Earlier transactions (through 2026-06-09):** $749.19 cumulative
 - **Earlier transactions (2026-06-10 to 2026-06-16):** $182.81 cumulative
 
-**Total shipping/freight through 2026-09-28: $1,307.57** *(confirmed final)*
+**Total shipping/freight through 2026-09-28: $1,397.73** *(confirmed final)*
 
 ---
 

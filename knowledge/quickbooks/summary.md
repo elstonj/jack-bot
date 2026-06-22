@@ -1,17 +1,19 @@
 # BST Financial Overview (QuickBooks)
 
 ## Company Totals
-Based on available QuickBooks data for the period April 2024 – September 2026:
+Based on the available QuickBooks data for the reporting period:
 
 - **Total Revenue (Invoices):** $7,448,665.62
   - Commercial: $2,986,489.34
   - Government: $4,462,176.28
 
-- **Total Expenses:** $1,572,374.98
-  - Commercial: $240,515.83
+- **Total Expenses:** $1,572,394.98
+  - Commercial: $240,535.83
   - Government: $1,331,859.15
 
-- **Net Income (Estimated):** $5,876,290.64
+- **Net Income Estimate:** $5,876,270.64
+  - Commercial: $2,745,953.51
+  - Government: $3,130,317.13
 
 ---
 
@@ -19,36 +21,35 @@ Based on available QuickBooks data for the period April 2024 – September 2026:
 
 | Project | Total Revenue | Total Expenses | Net Position | Activity Level |
 |---------|---------------|----------------|--------------|-----------------|
-| **Government** | $4,462,176.28 | $1,331,859.15 | $3,130,317.13 | 76 invoices |
-| **Commercial** | $2,986,489.34 | $240,515.83 | $2,745,973.51 | 1 recent transaction |
+| **Government** | $4,462,176.28 | $1,331,859.15 | $3,130,317.13 | 5 transactions |
+| **Commercial** | $2,986,489.34 | $240,535.83 | $2,745,953.51 | 1 transaction |
 
-**Dominance:** Government contracts represent 60% of company revenue and drive the largest net position.
+**Total:** $7,448,665.62 | $1,572,394.98 | $5,876,270.64
 
 ---
 
 ## Cash Flow Indicators
 
 ### Accounts Receivable (Outstanding Balances)
-- **Government:** $3,194,865.82 remaining across 76 active invoices
-- **Commercial:** $25,000.00 outstanding (Invoice #1769, dated 2026-06-09 to EMASS Chip Integration)
-- **Total A/R:** ~$3,219,865.82
+- **Government Projects:** $3,194,865.82 outstanding across 76 active invoices
+- **Commercial Projects:** At least $25,000.00 outstanding (Invoice #1769, dated 2026-06-09)
+- **Total AR:** $3,219,865.82+ (partial data available)
 
-### Recent Major Activity
-- Most recent invoice (Government): 2026-09-28
-- Recent Commercial invoice: 2026-06-09 ($25,000 still outstanding)
-- Active invoicing across both divisions
+### Recent Large Transactions
+- Invoice #1769 (Commercial, EMASS Chip Integration): $25,000.00 (issued 2026-06-09, unpaid)
 
-### Projects with Potential Completion
-- Commercial division shows minimal recent activity (only 1 transaction noted in current period) compared to Government's 76 active invoices—may indicate fewer ongoing projects or completion of phases.
+### Purchase Orders Outstanding
+- Commercial: $1,977.50
+- Government: $832.00
 
 ---
 
-## Data Quality Notes
-⚠️ **Incomplete Dataset:** The source data appears truncated. Missing information includes:
-- Top vendors by spend
-- Top customers by revenue detail
-- Expense breakdown by vendor/category
-- Unclassified transactions summary
-- Purchase order reconciliation details
+## Data Limitations
 
-**Recommendation:** Generate full Profit & Loss and vendor/customer reports from QuickBooks for complete financial overview.
+**Note:** The QuickBooks export appears incomplete. The following information could not be fully extracted:
+- Top vendors by spend (vendor detail not provided)
+- Top customers by revenue (customer detail partially available)
+- Unclassified transactions (no explicit unclassified category shown)
+- Complete project expense breakdowns
+
+**Recommendation:** Request a complete Profit & Loss statement and detailed transaction reports for the full reporting period to provide comprehensive analysis by vendor, customer, and unclassified items.

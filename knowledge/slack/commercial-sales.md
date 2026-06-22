@@ -25,8 +25,9 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - 53rd Weather Squadron (prospective government customer, June 2026 presentation planned)
 - CJFC (prospective government customer/contact, June 2026 presentation planned)
 - NREL (prospective customer - E2 training request, June 19, 2026)
+- Tanay (prospective customer/contact - scheduling discussions underway, June 21, 2026)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: June 19, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: June 21, 2026.
 
 ---
 
@@ -104,5 +105,3 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 
 **NASA S2 Delivery - Nosecone Inclusion (May 21, 2026)**
 - Dan Prendergast raised question about whether nosecone should be included in NASA S2 delivery per their SOW (complete BST S2 airframe requirement)
-- Joshua Fromm asked clarifying questions about payload inclusion and mass model
-- **DECISION (May 21

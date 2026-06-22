@@ -17,7 +17,7 @@
     "total_value": 483000.0,
     "start_date": "2026-02-01",
     "end_date": "2031-01-31",
-    "payment_cadence": "fixed unit prices per ordering period; travel reimbursable per GSA/FTR",
+    "payment_cadence": "milestone-based per ordering period; NRE billed at task order level",
     "documents": [
       "drive://Budget Structure",
       "drive://(1305M226D0012) Attachment 1-Specifications_Black Swift.pdf",
@@ -25,37 +25,25 @@
     ]
   },
   "budget": {
-    "approved": 15281125.0,
+    "approved": 13281250.0,
     "approved_source": "sow_drive",
     "line_items": [
       {
         "category": "Equipment",
-        "amount": 12981250.0,
-        "description": "Black Swift S0 sUAS Platforms: 150 units @ $18,000 (Period 1), 150 units @ $18,630 (Period 2), 125 units @ $19,282 (Period 3), 125 units @ $19,957 (Period 4), 125 units @ $20,655 (Period 5)",
+        "amount": 10980250.0,
+        "description": "Black Swift S0 sUAS Platforms: 150 EA @ $18,000 (Period 1) + 150 EA @ $18,630 (Period 2) + 125 EA @ $19,282 (Period 3) + 125 EA @ $19,957 (Period 4) + 125 EA @ $20,655 (Period 5)",
         "source_doc": null
       },
       {
         "category": "Labor",
-        "amount": 534000.0,
-        "description": "Mission Days Operational support (150 days @ $2,850), Operational and Testing Support (30 days @ $6,000), Operator and Observer Training (5 sessions @ $6,000), Instructor Training (5 sessions @ $600)",
+        "amount": 1455900.0,
+        "description": "Operations support (mission days @ $2,850 x 30 per period x 5 periods = $427,500), Operational/Testing support (6 EA @ $6,000 per period x 5 = $180,000), Training sessions (Operator/Observer @ $6,000 + Instructor @ $600 per period x 5 = $33,000), Course development (Operator/Observer + Instructor @ $6,000 each per period x 5 = $60,000), NRE labor for technical documentation, modeling, NHC workflow (3 CLINs @ $66,000 NTE per period x 5 = $990,000)",
         "source_doc": null
       },
       {
         "category": "Travel",
         "amount": 250000.0,
-        "description": "Travel for Operational Support - Not-to-Exceed: $50,000 per ordering period × 5 periods",
-        "source_doc": null
-      },
-      {
-        "category": "Other",
-        "amount": 60000.0,
-        "description": "Course Development (Operator/Observer and Instructor courses): $6,000 per course × 5 periods",
-        "source_doc": null
-      },
-      {
-        "category": "Other",
-        "amount": 990000.0,
-        "description": "Non-recurring Engineering (Technical Documentation, Modeling, NHC workflow integration): $66,000 per CLIN × 3 CLINs × 5 periods",
+        "description": "Travel for Operational Support: $50,000 NTE per ordering period x 5 periods (in accordance with Section 5.3, FTR-compliant)",
         "source_doc": null
       }
     ],
@@ -64,27 +52,27 @@
         "amount": 106983.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-21"
+        "last_updated": "2026-06-22"
       },
       "purchases": {
         "amount": 970.76,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-06-21"
+        "last_updated": "2026-06-22"
       },
       "other_qbo": {
         "amount": 90.16,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-06-21"
+        "last_updated": "2026-06-22"
       },
       "total": 108044.67,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 15173080.33,
+    "remaining": 13173205.33,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-21T08:50:25Z"
+    "last_reconciled": "2026-06-22T08:53:03Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -147,6 +135,6 @@
       "text": "From Joshua Fromm: <@U0AQE94HJUT> do we have the gateworks boards for the s0 ground stations for the idiq yet?"
     }
   ],
-  "last_full_rebuild": "2026-06-21T08:50:25Z",
+  "last_full_rebuild": "2026-06-22T08:53:03Z",
   "last_incremental_update": null
 }

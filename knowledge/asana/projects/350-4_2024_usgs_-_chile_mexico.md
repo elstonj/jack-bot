@@ -32,12 +32,10 @@
 - **Spare parts and packing list** | Josh Fromm | Asana due: October 1, 2026 | **STALE**
 
 ## Task Summary
-- **Total Tasks**: 19 open, 0 completed (0% overall completion)
+- **Total Tasks**: 1 open, 0 completed (0% overall completion)
+  - *Note: New raw data shows only 1 task in Asana; existing knowledge file references 19 open tasks. Data reconciliation may be needed — possibly tasks have been archived or deleted, or this is a stale export.*
 - **Tasks by Assignee**:
-  - **Dan Prendergast**: 5 open tasks (0% completion) — Operator Manual, flight approvals, ground permissions, flight plans, photogrammetry footprints
-  - **Maciej Stachura**: 2 open tasks (0% completion) — FLIR stoppage review, prop testing at altitude
-  - **Josh Fromm**: 1 open task (0% completion) — Spare parts and packing list
-  - **Unassigned**: 11 open tasks (0% completion) — Critical milestones (flight/radio/shipping/import permissions, payload updates, local flight testing, ship equipment, conduct mission), plus ongoing work streams (Test New Capabilities, Tools/Ground Equipment, S2 Improvements, Planning/Algorithms/UI, CONOPS, and stakeholder contact reference for Kevin Pesola)
+  - **Dan Prendergast**: 1 open task (0% completion) — Operator Manual and Flight CONOPS for AFAC (due June 22, 2026) **STALE**
 
 ## Recent Activity
 
@@ -76,3 +74,5 @@ Project paused pending Fall 2026 deployment timeline confirmation. Batteries in 
 
 - **Products/Services**: MHP, Survey Services, Aircraft Rental
 - **Contract End Date**: August 30, 2025 (note: this predates the Fall 2026 deployment; may require contract amendment or extension)
+
+- **Asana Data Note**: New raw data export shows 1 open task; existing knowledge file references 19 open tasks. Data source discrepancy — recommend confirming current task list with Maciej or reviewing Asana project directly.
