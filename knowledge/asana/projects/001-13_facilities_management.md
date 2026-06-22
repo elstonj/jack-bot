@@ -20,25 +20,19 @@
 - **Lease termination planning** (unassigned, no due date)
 
 ## Task Summary
-- **Total tasks**: 0 open, 3 completed (in current snapshot)
+- **Total tasks**: 1 open, 0 completed (in current snapshot)
 - **Tasks by assignee**:
-  - **Meredith O'hara Needham**: 3 completed (Office Cleaning)
-    - Office Cleaning (Due 2024-12-14, completed 2024-12-16) — 2 days late
-    - Office Cleaning (Due 2024-11-23, completed 2024-11-22) — 1 day early
-    - Office Cleaning (Due 2024-10-26, completed 2024-10-30) — 4 days late
+  - **Meredith O'hara Needham**: 1 open
+    - Pay Rent (Due 2026-06-29) — currently open
 - **Notable patterns**: 
-  - Recurring monthly rent tasks maintain predictable cadence (not reflected in current task count; managed separately)
-  - No open tasks currently visible; operational rhythm suggests tasks are either managed via external scheduling (Neat N Tidy booking portal) or completed and cleared
-  - Office cleaning completion times within 4-day variance (mostly on-time to slightly late)
+  - Recurring monthly rent tasks maintain predictable cadence
+  - Historical office cleaning completion times within 4-day variance (mostly on-time to slightly late)
   - Operational rhythm stable and reliable
 
 ## Recent Activity
-- **Recent completed tasks**: Office cleaning cycle running regularly (October–December 2024)
-  - Dec 2024: Completed 2 days late
-  - Nov 2024: Completed 1 day early
-  - Oct 2024: Completed 4 days late
+- **Current open task**: Pay Rent due 2026-06-29 (assigned to Meredith O'hara Needham)
+- **Historical pattern**: Monthly rent payments consistently completed on or ahead of schedule (most recent: May 2026 completed 2026-05-21, 4 days early)
 - **Operational momentum**: Project continues stable operations with focus on recurring cleaning and facilities management
-- **Note**: Monthly rent payment cycle continues on schedule (last cycle: May 2026 completed ahead of schedule on 2026-05-21)
 
 ## Notes & Context
 
