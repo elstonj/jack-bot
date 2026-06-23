@@ -1,55 +1,50 @@
 # BST Financial Overview (QuickBooks)
 
 ## Company Totals
-Based on the available QuickBooks data for the reporting period:
 
-- **Total Revenue (Invoices):** $7,448,665.62
-  - Commercial: $2,986,489.34
-  - Government: $4,462,176.28
-
-- **Total Expenses:** $1,572,394.98
-  - Commercial: $240,535.83
-  - Government: $1,331,859.15
-
-- **Net Income Estimate:** $5,876,270.64
-  - Commercial: $2,745,953.51
-  - Government: $3,130,317.13
+| Metric | Amount |
+|--------|--------|
+| **Total Revenue (Invoices)** | $7,448,665.62 |
+| **Total Expenses (Bills + Purchases)** | $1,572,414.98 |
+| **Net Income** | $5,876,250.64 |
 
 ---
 
 ## By Project/Class
 
-| Project | Total Revenue | Total Expenses | Net Position | Activity Level |
-|---------|---------------|----------------|--------------|-----------------|
-| **Government** | $4,462,176.28 | $1,331,859.15 | $3,130,317.13 | 5 transactions |
-| **Commercial** | $2,986,489.34 | $240,535.83 | $2,745,953.51 | 1 transaction |
+| Project | Total Revenue | Total Expenses | Net Position | Status |
+|---------|---------------|----------------|--------------|--------|
+| **Government** | $4,462,176.28 | $1,331,859.15 | $3,130,317.13 | Active (76 invoices) |
+| **Commercial** | $2,986,489.34 | $240,555.83 | $2,745,933.51 | Active (1+ transactions) |
 
-**Total:** $7,448,665.62 | $1,572,394.98 | $5,876,270.64
+**Total Activity:** Government project leads with $4.46M in revenue; Commercial follows with $2.99M.
 
 ---
 
 ## Cash Flow Indicators
 
-### Accounts Receivable (Outstanding Balances)
-- **Government Projects:** $3,194,865.82 outstanding across 76 active invoices
-- **Commercial Projects:** At least $25,000.00 outstanding (Invoice #1769, dated 2026-06-09)
-- **Total AR:** $3,219,865.82+ (partial data available)
+### Accounts Receivable (Outstanding)
+- **Government Project:** $3,194,865.82 outstanding across 76 active invoices
+- **Commercial Project:** Invoice #1769 ($25,000.00 balance) dated 2026-06-09
+- **Total A/R:** ~$3,219,865.82
 
-### Recent Large Transactions
-- Invoice #1769 (Commercial, EMASS Chip Integration): $25,000.00 (issued 2026-06-09, unpaid)
+### Recent Large Activity
+- Commercial Invoice #1769: $25,000.00 (June 9, 2026) — *Outstanding*
+- Government project: 76 active invoices with significant outstanding balances
 
-### Purchase Orders Outstanding
-- Commercial: $1,977.50
+### Purchase Orders
 - Government: $832.00
+- Commercial: $1,977.50
 
 ---
 
-## Data Limitations
+## Data Quality Note
 
-**Note:** The QuickBooks export appears incomplete. The following information could not be fully extracted:
-- Top vendors by spend (vendor detail not provided)
-- Top customers by revenue (customer detail partially available)
-- Unclassified transactions (no explicit unclassified category shown)
-- Complete project expense breakdowns
+The QuickBooks export appears incomplete. The following information is missing from the provided data:
 
-**Recommendation:** Request a complete Profit & Loss statement and detailed transaction reports for the full reporting period to provide comprehensive analysis by vendor, customer, and unclassified items.
+- ⚠️ **Top Vendors** — Expense/bill details not fully provided
+- ⚠️ **Top Customers** — Customer breakdown incomplete
+- ⚠️ **Unclassified Transactions** — Unable to identify transactions outside these two projects
+- ⚠️ **Complete P&L Report** — Line-item income and expense accounts not shown
+
+**Recommendation:** Request full P&L detail report, Vendor Summary report, and Customer Summary report from QuickBooks for complete financial analysis.

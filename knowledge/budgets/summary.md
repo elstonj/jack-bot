@@ -2,56 +2,94 @@
 
 ## Active Project Budgets
 
-| Project Code | Client | Contract Number | Contract Type | Total Budget | Period of Performance | Status |
-|---|---|---|---|---|---|---|
-| **550-2** | U.S. Navy (Department of Naval Research) | N6833525C0270 | STTR Phase I + Option | **$245,772.00** | Jul 22, 2025 – Jan 7, 2026 (Phase I) + Option Period Feb 2026 | Active |
-| | | | Phase I Base | $146,326.00 | Jul 22, 2025 – Jan 7, 2026 | |
-| | | | Option Period | $99,446.00 | Confirmed Feb 2026 | |
+| Project Code | Client | Total Budget | Contract Type | Period of Performance | Status |
+|---|---|---|---|---|---|
+| **301-2** | University of Miami (NOAA/AOML Hurricane Research) | $986,000 | Services Agreement (R&D) | 10/31/2021 – 06/30/2025 | Active; Extended via addendum (Oct 2024) |
+| **550-1** | United States Navy (DoN) | *See breakdown below* | SBIR Phase I (Base) + Phase II Option | 01/2027 – 06/2030 | Proposed/Planning Phase |
+
+---
+
+## Budget Details by Project
+
+### Project 301-2
+- **Funding Source:** University of Miami / NOAA (Tropical Cyclone Research)
+- **Contract Value:** $986,000 (as of October 2024 addendum)
+- **PO Number:** PO-0000470189 (issued 02/02/2022)
+- **Key Contacts:** Jun Zhang (UMiami/CIMAS); Dr. Joseph Cione (NOAA/AOML/HRD)
+- **Contract Type:** Research & Development Services Agreement
+- **Timeline:** ~3.5 years with extensions
+- **Notes:** Contract has been modified via addenda; latest extension through June 2025
+
+### Project 550-1
+- **Funding Source:** U.S. Department of Navy (SBIR Program)
+- **Contract Number:** N6833525C0492
+- **Prime Contractor:** Black Swift Technologies, LLC
+- **Subcontractor:** Ultra Maritime
+- **Project Title:** Navy SBIR: Magnetometer
+
+**Phase II Proposed Budget (Base Period: 30 months, Jan 2027–Jun 2029):**
+| Category | Amount |
+|---|---|
+| Direct Labor | $207,368 |
+| Fringe Benefits (29.28%) | $60,717 |
+| Labor Overhead (46.67%) | $125,115 |
+| Subcontract Costs | *[Data incomplete in source]* |
+| **Subtotal (Partial)** | **$393,200+** |
+
+**Option Period I:** July 2029 – June 2030 (12 months) [Budget details not provided]
+
+---
 
 ## By Funding Source
 
-| Funding Agency | Total Allocated | Project(s) |
+| Funding Source | Projects | Total Identified Budget |
 |---|---|---|
-| **U.S. Navy** | $245,772.00 | 550-2 (STTR Phase I + Option) |
-| **Unassigned/Portfolio** | *Unknown* | Multiple projects across NASA, NOAA, DoD (1,181 budget documents) |
+| **Federal (Navy SBIR)** | 550-1 | $393,200+ (Phase II Base only; Phase I & Option not detailed) |
+| **Federal (NOAA via University of Miami)** | 301-2 | $986,000 |
+| **TOTAL IDENTIFIED** | 2 | **$1,379,200+** |
+
+---
 
 ## By Contract Type
 
-| Contract Type | Count | Total Known Budget |
-|---|---|---|
-| **STTR Phase I with Option** | 1 | $245,772.00 |
-| **Commercial (NASA MiniCam)** | 1 (preliminary) | *Not fully documented* |
-| **Unclassified Portfolio** | ~1,181 documents | *Requires organization* |
+| Contract Type | Projects | Count | Total Budget |
+|---|---|---|---|
+| **SBIR Phase I + Phase II Option** | 550-1 | 1 | *Partial data ($393,200+ Base Phase II)* |
+| **R&D Services Agreement** | 301-2 | 1 | $986,000 |
 
 ---
 
 ## Financial Health Indicators
 
-### Project 550-2
-- ✅ **Recently awarded:** July 22, 2025
-- ✅ **Healthy cash flow:** $146K base + $99K option = $245.7K total
-- ⚠️ **Near-term milestone:** Option period confirmation due February 2026
-- **Key dates to monitor:** Option period start and Phase II proposal timeline
+### Project 301-2 (NOAA)
+✅ **Healthy Status**
+- Contract extended through June 2025 (addendum dated Oct 2024)
+- Established funding of $986,000
+- Ongoing relationship with NOAA/University of Miami
 
-### Unassigned Projects
-- ⚠️ **Data organization critical:** 1,181 budget documents with no assigned project codes
-- ⚠️ **Funding source fragmentation:** Spanning NASA, NOAA, DoD, and other agencies
-- 🔍 **Commercial product in development:** MiniCam preliminary costing initiated (modified March 4, 2026)
-- **Action required:** Consolidate and categorize unassigned project data
+⚠️ **Monitor:** Contract ends 06/30/2025 — plan for next phase or renewal
+
+### Project 550-1 (Navy SBIR)
+⚠️ **Early Stage / Planning Phase**
+- Performance period begins January 2027 (future)
+- Phase II proposal stage; base period budget partially documented
+- **Data Gap:** Phase I budget, Option I budget, and total subcontract costs not provided in available documents
+- Requires complete budget reconciliation once Phase I is finalized
 
 ---
 
 ## QuickBooks Integration Notes
 
-- **Project 550-2:** Navy STTR contract with formal contract number (N6833525C0270) — should have corresponding QB records
-- **Unassigned Portfolio:** 1,181 documents stored in Drive only — **no QB integration status documented**
-- **Recommendation:** Cross-reference 550-2 invoicing against QB for Phase I milestone tracking; prioritize QB mapping for high-value NASA/NOAA projects in unassigned portfolio
+- **Project 301-2:** No QuickBooks references in provided documentation — likely in Drive-only status or separate financial system
+- **Project 550-1:** No QuickBooks references in provided documentation — early-stage SBIR contract, may not yet be integrated into accounting
+
+**Recommendation:** Cross-reference both projects with QuickBooks records to verify spend tracking, accruals, and revenue recognition.
 
 ---
 
 ## Data Gaps & Recommendations
 
-1. **Urgent:** Organize and code the 1,181 unassigned budget documents by project and funding source
-2. **Verify:** Confirm MiniCam project classification and budget authority (commercial vs. funded R&D)
-3. **Track:** Establish spend monitoring for 550-2 as it enters active execution phase
-4. **Reconcile:** Confirm QB records exist for all active Navy contracts
+1. **Project 550-1:** Missing Phase I budget amount, complete Phase II subcontract breakdown, and Option I period budget
+2. **Project 301-2:** No spend-to-date or remaining budget balance provided
+3. **Both Projects:** No QuickBooks transaction data provided; recommend accounting system reconciliation
+4. **Invoice Tracking:** No upcoming invoice schedule or milestone payment data documented

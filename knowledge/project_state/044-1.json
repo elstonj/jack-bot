@@ -29,7 +29,7 @@
         "amount": 30387.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-22"
+        "last_updated": "2026-06-23"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 59612.5,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-22T08:52:53Z"
+    "last_reconciled": "2026-06-23T09:02:23Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -76,6 +76,6 @@
       "text": "From Maciej: <@U0AQE94HJUT> I don't see a Navy meeting at 9:30 this morning. Also, for mag integration it's Alex and Sam on the critical engineering tasks"
     }
   ],
-  "last_full_rebuild": "2026-06-22T08:52:53Z",
+  "last_full_rebuild": "2026-06-23T09:02:23Z",
   "last_incremental_update": null
 }

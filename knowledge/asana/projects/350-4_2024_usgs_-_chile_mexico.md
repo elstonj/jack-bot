@@ -17,7 +17,7 @@
 ⚠️ **CRITICAL: All milestone due dates originally in spring/summer 2026 are STALE per team corrections (Maciej Stachura, April 17, 2026; Jack Elston, April 20, 2026). Actual deployment timeline has shifted to FALL 2026. Do not action spring/summer 2026 due dates without confirmation.**
 
 ### Major Milestones (Original Planned Dates — Now Superseded by Fall 2026 Deployment)
-- **Operator Manual and Flight CONOPS for AFAC** | Dan Prendergast | Asana due: June 22, 2026 | **STALE**
+- **Operator Manual and Flight CONOPS for AFAC** | Dan Prendergast | Asana due: June 24, 2026 | **STALE**
 - **Obtain flight approvals from AFAC** | Dan Prendergast | Asana due: July 1, 2026 | **STALE**
 - **Verify ground permissions for national park (CENAPED leading)** | Dan Prendergast | Asana due: July 1, 2026 | **STALE**
 - **Sort out flight, radio, shipping, and import permissions** | Unassigned | Asana due: July 31, 2026 | **STALE** — Note: Batteries already shipped to Mexico (May 2026); customs/import details under review
@@ -33,9 +33,8 @@
 
 ## Task Summary
 - **Total Tasks**: 1 open, 0 completed (0% overall completion)
-  - *Note: New raw data shows only 1 task in Asana; existing knowledge file references 19 open tasks. Data reconciliation may be needed — possibly tasks have been archived or deleted, or this is a stale export.*
 - **Tasks by Assignee**:
-  - **Dan Prendergast**: 1 open task (0% completion) — Operator Manual and Flight CONOPS for AFAC (due June 22, 2026) **STALE**
+  - **Dan Prendergast**: 1 open task (0% completion) — Operator Manual and Flight CONOPS for AFAC (due June 24, 2026) **STALE**
 
 ## Recent Activity
 
@@ -75,4 +74,4 @@ Project paused pending Fall 2026 deployment timeline confirmation. Batteries in 
 - **Products/Services**: MHP, Survey Services, Aircraft Rental
 - **Contract End Date**: August 30, 2025 (note: this predates the Fall 2026 deployment; may require contract amendment or extension)
 
-- **Asana Data Note**: New raw data export shows 1 open task; existing knowledge file references 19 open tasks. Data source discrepancy — recommend confirming current task list with Maciej or reviewing Asana project directly.
+- **Raw Asana Data Note** (Nov 22, 2023 status): Project showed overdue milestones and tasks as of that date; new raw data (current export) shows 1 open task with June 24, 2026 due date. Data timeline spans from Nov 2023 through at least May 2026; recommend confirming current task list with Maciej or reviewing Asana project directly for full scope.

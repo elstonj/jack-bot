@@ -114,7 +114,7 @@
 
 ---
 
-### **Shipping/Freight: $1,307.57**
+### **Shipping/Freight: $1,397.73**
 **Number of transactions:** 13  
 
 **Key transactions:**
@@ -126,6 +126,7 @@
   - Shipment from Paramount Tube to Lee Skidmore (2026 IDIQ)
 - **Earlier transactions (through 2026-06-09):** $749.19 cumulative
 - **Earlier transactions (2026-06-10 to 2026-06-16):** $182.81 cumulative
+- **Additional confirmed transactions (2026-06-17 to 2026-06-25):** $180.52 cumulative
 
 **Total shipping/freight through 2026-09-28: $1,397.73** *(confirmed final)*
 
@@ -156,5 +157,4 @@
 
 ## Monthly Spend by Category
 
-### June 2026 (2026-06-01 to 2026-06-30)
-| Category | Amount | # Txns | Notes |
+### June 2026

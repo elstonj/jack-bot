@@ -3,69 +3,70 @@
 ## Overview
 - **Client/customer:** Internal BST purchasing system (serves all active projects)
 - **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across multiple projects
-- **Timeline:** Ongoing operational project; current order due June 21, 2026
-- **Status:** **ACTIVE — CRITICAL REGRESSION.** Task count collapsed from 3 to 1 open task. **⚠️ CRITICAL: Remaining task ("sendcutsend #SC51C906") shows status "Order Received" but remains open — 18+ days past order placement (Jun 3, 2026). Form-based auto-closure still non-functional. Manual closure required immediately.**
+- **Timeline:** Ongoing operational project; orders due Jun 22–23, 2026
+- **Status:** **ACTIVE — CRITICAL RECOVERY.** Task count rebounded from 1 to **5 open tasks**. ⚠️ **Previous critical failures (form-based auto-closure, auto-deletion, task disappearance) appear to have been resolved or reversed.** However, **all 5 new tasks are assigned to Meredith O'hara Needham exclusively** (100% concentration) — a dramatic shift from prior single-point-of-failure pattern under Nate Straus. All orders are imminent (due Jun 22–23, 2026). **Prior task "sendcutsend #SC51C906" has been removed from the system** — status unclear (legitimate closure vs. auto-deletion).
 - **Team members involved:**
-  - **Nate Straus** (1/1 assigned; sendcutsend #SC51C906; maintains 100% of open workload)
-  - **Joshua Fromm** (1/1 as requester; sendcutsend #SC51C906)
-  - **Meredith O'hara Needham** (project owner; no open assignments)
+  - **Meredith O'hara Needham** (5/5 assigned; 100% of open workload; project owner)
+  - **Requesters:** Alex (3 tasks), Nate (1 task), Ethan (1 task)
 
 - **Risk signals:**
-  - 🔴 **CRITICAL CLOSURE FAILURE — 1 REMAINING TASK "COMPLETED" BUT OPEN:**
-    - "Order Received": sendcutsend #SC51C906 (due Jun 21, placed Jun 3 — **18+ days stale**)
-    - Form-based auto-closure is NOT functioning. Manual closure required **immediately**.
-    - Task will auto-delete per project notes if not closed/submitted.
-  
-  - 🔴 **SINGLE-POINT-OF-FAILURE RISK: NATE STRAUS 100% OF OPEN TASKS** — Concentration spiked from 67% to 100% after mysterious closure/removal of Meredith's compositeenvisions task and Nate's Microhard task. Requires urgent investigation: Were these tasks legitimately closed, or did they auto-delete due to form-based mechanism failure?
-  
-  - 🟡 **BILLING AMBIGUITY PERSISTS:**
-    - sendcutsend #SC51C906 assigned to "General Sales (No Specific Project)" (partial entry: "Genera") but requester is Joshua Fromm (S3 focus); likely [001-7] IRAD S3.
-    - Must be reassigned to [001-7] IRAD S3 in project field before final billing.
+  - 🔴 **NEW SINGLE-POINT-OF-FAILURE RISK: MEREDITH 100% OF OPEN TASKS** — All 5 orders now assigned exclusively to Meredith (project owner). No distribution to team. If Meredith is unavailable Jun 22–23, all orders will stall.
+  - 🟡 **IMMINENT DEADLINES (JUN 22–23, 2026)** — 5 orders due within 1–2 days. No buffer for delays or approvals.
+  - 🟡 **PRIOR TASK VANISHED** — sendcutsend #SC51C906 (which was "Order Received" and 18+ days stale) no longer appears in task list. Unknown if legitimately closed, auto-deleted, or removed manually.
+  - 🟡 **FORM-BASED AUTO-CLOSURE STILL UNCLEAR** — No evidence that prior form mechanism failures have been fixed; new tasks may be vulnerable to same closure/deletion issues.
 
 ## Key Deliverables & Milestones
 
-### **DUE JUNE 21, 2026 — 1 Task (Status: "Order Received" but Open)**
+### **DUE JUN 22–23, 2026 — 5 Tasks**
 
-| Task | Due | Status | Assigned | Project | Requester | Tax Exempt | Notes |
-|------|-----|--------|----------|---------|-----------|-----------|-------|
-| sendcutsend for s3 sales (#SC51C906) | Jun 21, 2026 | Order Received | **Nate Straus** | General Sales (No Specific Project) | Joshua Fromm | YES | Order placement date Jun 3, 2026 (completed 18+ days ago). Status "Order Received" — **CLOSE IMMEDIATELY.** Update project field to [001-7] IRAD S3 before billing. Task will auto-delete per project form policy if not actioned. |
+| Task | Due | Vendor | Assigned | Project | Requester | Approval Required? | Tax Exempt? |
+|------|-----|--------|----------|---------|-----------|-------------------|------------|
+| McMaster | Jun 22, 2026 | McMaster | Meredith O'hara Needham | [550-1] Navy SBIR: Magnetometer | Alex | No | No |
+| GetFPV | Jun 22, 2026 | GetFPV | Meredith O'hara Needham | Shop Supplies | Alex | No | No |
+| Digikey (GCS wifi) | Jun 23, 2026 | Digikey | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Nate | No | No |
+| Jawstec | Jun 23, 2026 | Jawstec | Meredith O'hara Needham | [550-1] Navy SBIR: Magnetometer | Alex | No | No |
+| JawsTec - ByLight Gimbal | Jun 23, 2026 | JawsTec | Meredith O'hara Needham | [043-3] Mustang Pt. 2 | Ethan | No | No |
 
 ## Task Summary
 
-- **Total tasks:** 1 open, 0 completed (down from 3 in prior cycle; **67% reduction in open tasks**)
+- **Total tasks:** 5 open, 0 completed (rebounded from 1 open task in prior cycle; **+400% increase**)
 - **Tasks by assignee:**
-  - **Nate Straus:** 1/1 (100%) — sendcutsend #SC51C906. Status "Order Received" — **ready for immediate closure.**
+  - **Meredith O'hara Needham:** 5/5 (100%) — all five orders
 - **Requester distribution:**
-  - **Joshua Fromm:** 1/1 (sendcutsend #SC51C906) — needs [001-7] IRAD S3 project reassignment
+  - **Alex:** 3/5 (McMaster, GetFPV, Jawstec)
+  - **Nate:** 1/5 (Digikey GCS wifi)
+  - **Ethan:** 1/5 (JawsTec ByLight Gimbal)
+- **Projects covered:**
+  - [550-1] Navy SBIR: Magnetometer (2 tasks)
+  - [300-3] 2026 IDIQ (Hurricane) (1 task)
+  - [043-3] Mustang Pt. 2 (1 task)
+  - Shop Supplies (1 task)
 
 ## Recent Activity
 
-- **Dramatic task collapse:** Only 1 open task remains (down from 3). Two tasks have disappeared from the system:
-  - **compositeenvisions** (was: Meredith O'hara Needham, "Order Placed" status, due Jun 20) — **no longer in Asana task list**
-  - **Microhard / Hurricane GCS** (was: Nate Straus, "Order Received" status, due Jun 20) — **no longer in Asana task list**
-  - **Possible explanations:** (1) Legitimate closure before last cycle, (2) auto-deletion by form-based mechanism, (3) manual removal. **Requires urgent clarification.**
-
-- **Remaining task shows "completed" status (Order Received) but remains open.**
-  - Order placed Jun 3, 2026 — now 18+ days past completion date.
-  - Form-based auto-closure mechanism is **still not triggering closure** in Asana.
-  - Task at imminent risk of auto-deletion per project notes.
-
-- **Concentration risk spiked:** Nate Straus now holds 100% of open tasks (up from 67% in prior cycle). This is unsustainable and suggests either:
-  - Legitimate closure of other tasks coinciding with process improvements, OR
-  - Process failure (auto-deletion) affecting visibility.
+- **Dramatic task rebound:** 5 new open tasks added (up from 1). All are assigned to Meredith O'hara Needham (project owner).
+- **Prior task removed:** sendcutsend #SC51C906 (status: "Order Received", due Jun 21, 18+ days stale) is no longer visible in Asana task list. Unknown whether legitimately closed, auto-deleted by form policy, or manually removed. **Requires clarification.**
+- **All orders imminent:** Due dates clustered at Jun 22–23, 2026 (within 1–2 days of current observation). No buffer for delays or approval cycles.
+- **No approvals required:** All 5 orders marked "Requires Approval?: No" — suggests pre-approval or expedited purchasing.
+- **Tax exempt status:** None of the 5 orders marked as tax-exempt (unlike prior sendcutsend task which was tax-exempt).
 
 ## Notes & Context
 
-- **URGENT ACTION REQUIRED:**
-  1. **Close sendcutsend #SC51C906 task manually immediately** — do not rely on form-based auto-closure (clearly non-functional).
-  2. **Investigate disappearance of compositeenvisions and Microhard tasks** — determine if they were legitimately closed, auto-deleted, or removed manually. If auto-deleted, this indicates the project form policy ("USE THIS FORM PLEASE OR YOUR TASK WILL AUTO DELETE") is triggering unintended deletions and must be disabled or redesigned.
-  3. **Reassign sendcutsend #SC51C906 to [001-7] IRAD S3 project** in Asana before billing cycle (project field shows incomplete entry "Genera").
-  4. **Contact Asana/IT re: form-based auto-closure and auto-deletion failures** — investigate why completed orders are not auto-closing and whether tasks are being auto-deleted per project policy.
-  5. **Restore workload balance to Nate Straus and Meredith O'hara Needham** — if compositeenvisions and Microhard were legitimately closed, confirm closure mechanism and restart delegation pattern (67/33 split).
+- **URGENT ACTIONS:**
+  1. **Distribute purchasing workload from Meredith immediately.** All 5 orders are due Jun 22–23; Meredith alone cannot execute in time. Assign tasks to Nate Straus and/or other team members based on vendor/project affinity.
+  2. **Clarify fate of sendcutsend #SC51C906.** Determine if task was:
+     - Legitimately closed and removed (expected behavior), OR
+     - Auto-deleted by form policy (indicating prior warnings about auto-deletion were accurate), OR
+     - Manually removed.
+     This is critical for understanding whether form-based auto-closure/auto-deletion mechanism is still active and dangerous.
+  3. **Verify form-based auto-closure mechanism status.** New tasks do not show any "Order Placed" or "Order Received" status flags yet. Confirm whether:
+     - Form mechanism is now functional (e.g., will auto-close tasks when orders are placed), OR
+     - Mechanism is still broken (requiring manual closure), OR
+     - Has been disabled pending redesign.
+  4. **Monitor for project field truncation.** Prior tasks showed truncated project names (e.g., "Genera", "[300-3] 2026 IDIQ ("). Verify new tasks display full project names correctly in billing system.
 
-- **Form-based closure mechanism:** Project notes reference a form (https://form.asana.com/?k=AYO2EiBus4sRY0G_cbPmHw&d=12804948716594) with an auto-delete policy. Current data suggests:
-  - Auto-closure for "Order Received"/"Order Placed" tasks is **non-functional**.
-  - Auto-deletion for tasks not submitted via form **may be active** (explains disappearance of 2 tasks), but process is opaque.
-  - **Recommend disabling auto-delete and implementing manual closure workflow** until form mechanism is debugged.
+- **Workload concentration risk:** Meredith O'hara Needham (project owner) is now holding 100% of open purchasing tasks. This is unsustainable and represents a single point of failure. Recommend:
+  - Immediate delegation of 2–3 tasks to Nate Straus (who previously handled purchasing orders).
+  - Clear escalation plan if Meredith is unavailable Jun 22–23.
 
-- **Billing ambiguity:** sendcutsend #SC51C906 shows incomplete project assignment ("Genera" — likely truncated "General Sales"). Must be corrected to [001-7] IRAD S3 before final billing.
+- **Form policy reminder:** Project notes state "USE THIS FORM PLEASE OR YOUR TASK WILL AUTO DELETE" with link to Asana form. All 5 current tasks appear to have been created via form (they have structured notes with vendor, requester, project, and due date fields). Monitor whether form mechanism properly auto-closes tasks upon order placement, or whether manual closure will again be required.

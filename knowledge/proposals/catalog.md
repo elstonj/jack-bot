@@ -2,33 +2,39 @@
 
 ## By Product/System
 
-### S0 (S0-VTOL)
-- **NOAA UMS RFP Updated Estimate** | NOAA | June 15, 2026 | Revised 2-year cost estimates for hurricane observation platform (bst_ums_rfp_updated_estimate_sent.md)
+### SØ-MAD (Sonobuoy-Launched Magnetometer)
+- Development of a SL UAS with Advanced MAD and Acoustic Sensing Capabilities - Phase I Progress Report | Department of the Navy / NAVAIR | June 2026 | SBIR Phase I progress on sonobuoy-launched magnetometer for undersea detection (n6833525c0492clin006progressreport.md)
 
-### S3
-- **NOAA UMS RFP Updated Estimate** | NOAA | June 15, 2026 | Revised 2-year cost estimates for hurricane observation platform (bst_ums_rfp_updated_estimate_sent.md)
+### SØ-Acoustic (Sonobuoy-Launched Acoustic Sensing)
+- Development of a SL UAS with Advanced MAD and Acoustic Sensing Capabilities - Phase I Progress Report | Department of the Navy / NAVAIR | June 2026 | SBIR Phase I progress on sonobuoy-launched acoustic sensing integration (n6833525c0492clin006progressreport.md)
 
 ---
 
 ## By Client/Agency
 
-### NOAA (National Oceanic and Atmospheric Administration)
-- **NOAA UMS RFP Updated Estimate** | June 15, 2026 | Revised 2-year cost estimates for NOAA Unmanned Aircraft Systems RFP; S0-VTOL and S3 systems (bst_ums_rfp_updated_estimate_sent.md)
+### Department of the Navy / NAVAIR
+- Development of a SL UAS with Advanced MAD and Acoustic Sensing Capabilities - Phase I Progress Report | N6833525C0492 CLIN0006 | June 2026 | Phase I progress on advanced sonobuoy-launched sensing for undersea operations (n6833525c0492clin006progressreport.md)
 
 ---
 
 ## By Application Area
 
-### Hurricane Observation & Monitoring
-- **NOAA UMS RFP Updated Estimate** | NOAA | June 15, 2026 | Cost estimate for hurricane observation capabilities using S0-VTOL and S3 platforms (bst_ums_rfp_updated_estimate_sent.md)
+### Undersea Detection & Anti-Submarine Warfare
+- Development of a SL UAS with Advanced MAD and Acoustic Sensing Capabilities - Phase I Progress Report | Department of the Navy / NAVAIR | June 2026 | Sonobuoy-launched MAD and acoustic sensing for naval operations (n6833525c0492clin006progressreport.md)
+
+### UAS Operations
+- Development of a SL UAS with Advanced MAD and Acoustic Sensing Capabilities - Phase I Progress Report | Department of the Navy / NAVAIR | June 2026 | Integration of advanced sensors with sonobuoy-launched UAS platforms (n6833525c0492clin006progressreport.md)
 
 ---
 
 ## By Document Type
 
-### Cost Estimates / Proposal Responses
-- **NOAA UMS RFP Updated Estimate** | NOAA | June 15, 2026 | Revised 2-year cost proposal response for Unmanned Aircraft Systems RFP (bst_ums_rfp_updated_estimate_sent.md)
+### SBIR/STTR Progress Reports
+- Development of a SL UAS with Advanced MAD and Acoustic Sensing Capabilities - Phase I Progress Report | Department of the Navy / NAVAIR | June 2026 | Phase I progress documentation on SØ-MAD and SØ-Acoustic systems (n6833525c0492clin006progressreport.md)
 
 ---
 
-**Note:** This catalog contains 1 document. Additional documents can be added as they are provided.
+## Summary
+**Total Documents Cataloged:** 1
+
+**Note:** This catalog appears to be incomplete. Only one document was provided for cataloging. To create a comprehensive master catalog of all BST proposals, reports, and technical documents, additional documents covering products such as S2, S3, SwiftCore, MultiScat, AeroPod, and applications like arctic operations, volcano monitoring, hurricane analysis, methane detection, and precision agriculture should be submitted for inclusion.
