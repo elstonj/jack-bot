@@ -1,32 +1,33 @@
 # Beck Cotter — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 393.0 hours (was 385.0h; +8.0h)
-- **Primary projects:** Proposals (183.7h), General Operations (178.3h), Sick Leave (32.0h), PTO (16.0h)
-- **Time period covered:** Ongoing tracking with latest entry continuing post-surgical recovery (8.0h additional sick leave)
+- **Total hours tracked:** 404.0 hours (was 393.0h; +11.0h)
+- **Primary projects:** Proposals (183.7h), General Operations (181.8h), Sick Leave (39.5h), PTO (16.0h)
+- **Time period covered:** Ongoing tracking with continued post-surgical recovery and phased return to work
 
 ## Project Breakdown
 | Project | Hours | Percentage | Client |
 |---------|-------|-----------|--------|
-| [001-13] Proposals | 183.7 | 47% | [001] IRAD |
-| [001-13] General Operations | 178.3 | 45% | Overhead |
-| [001-21] Sick Leave | 32.0 | 8% | — |
-| [001-20] PTO | 16.0 | 4% | — |
+| [001-13] Proposals | 183.7 | 45.4% | [001] IRAD |
+| [001-13] General Operations | 181.8 | 45.0% | Overhead |
+| [001-21] Sick Leave | 39.5 | 9.8% | — |
+| [001-20] PTO | 16.0 | 4.0% | — |
 
 ## Recent Activity
-- **Latest entry:** One 8.0-hour sick leave block (3rd consecutive surgical recovery day)
-  - Entry: "Surgery day - offline all day"
-- **Medical leave progression:** Three back-to-back full-day sick leave entries now logged (24.0h → 32.0h total)
-  - Day 1: "Travel day - likely not online"
-  - Day 2: "Surgery day - offline all day"
-  - Day 3: "Surgery day - offline all day"
-- **Work status:** Continued suspension of Proposals and General Operations work; no concurrent work entries
-- **Documentation consistency:** All leave entries include contextual annotations
+- **Latest entries (5 most recent):** Mixed sick leave and General Operations work
+  - 3.0h Sick Leave (no description)
+  - 1.5h General Operations (no description)
+  - 2.0h General Operations (no description)
+  - 1.5h Sick Leave (no description)
+  - 3.0h Sick Leave (no description)
+- **Phased return to work:** First work entries (3.5h General Operations) logged alongside continued sick leave in this batch
+- **Medical leave progression:** Fourth extended sick leave block added (32.0h → 39.5h total); now 7.5h in new batch
+- **Documentation change:** Recent entries lack contextual annotations (contrast with prior detailed surgery/recovery notes)
 
 ## Patterns
-- **Extended medical recovery:** Multi-day surgical leave window suggests significant health event requiring 2+ days recovery; potential for additional leave ahead
-- **Work suspension:** Proposals/Operations balance (47/45%) maintained historically but currently inactive pending recovery
-- **Time-off accumulation:** 48.0 total off-work hours now tracked (32.0h sick + 16.0h PTO); medical event larger than initial travel disruption
-- **Annotation discipline:** Medical absence consistently documented with descriptive notes for audit/compliance purposes
-- **Project portfolio stability:** No new projects; tracking remains confined to existing IRAD, overhead, and leave categories
-- **Capacity impact:** Recovery timeline unclear; additional work suspension anticipated pending health status
+- **Recovery and work rebalance:** Shift from full-time medical suspension to part-time work resumption; General Operations reactivated at reduced capacity (3.5h this batch)
+- **Ongoing medical status:** Continued sick leave logging (7.5h additional) indicates ongoing recovery needs; not yet full-duty return
+- **Reduced annotation detail:** No descriptive notes on recent entries; may indicate routine logging or reduced severity relative to acute surgical phase
+- **Project portfolio stability:** No changes to tracked project categories; Proposals remain suspended during recovery phase
+- **Capacity trajectory:** Partial work resumption suggests recovery progressing but ongoing limitations; timeline to full capacity remains unclear
+- **Time-off growth:** 48.0h → 55.5h total non-work time tracked (39.5h sick + 16.0h PTO)

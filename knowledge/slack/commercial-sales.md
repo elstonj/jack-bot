@@ -11,15 +11,15 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Maciej Tromba (payload/camera work, customer communication, sales decisions, demo participation)
 - Danny Troke (QC, testing, batteries)
 - Meredith Needham (shipping, logistics, quote coordination, invoice tracking)
-- Nate (assembly, QC flights, payload prep, GCS builds, quotes, training coordination)
+- Nate (assembly, QC flights, payload prep, GCS builds, quotes, training coordination, customer outreach)
 - Paige Smith (sales coordination, customer communication)
-- Beck Cotter (customer outreach, email coordination, S0/S0-VTOL ownership coordination, Arctic demo coordination, travel booking, presentation materials)
+- Beck Cotter (customer outreach, email coordination, S0/S0-VTOL ownership coordination, Arctic demo coordination, travel booking, presentation materials, meeting scheduling)
 - Ben Busby (team member, sales pipeline tracking)
-- Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead, demo participation, presentation management)
+- Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead, demo participation, presentation management, field operations coordination)
 - Dan H (CU - external customer, E2 battery interest)
-- Bassil (customer - methane research, travel May 19-June 9, 2026)
+- Bassil (customer - methane research, travel May 19-June 9, 2026, field operations coordination)
 - Stefan (Atmofacts - external partner, methane algorithm tuning)
-- Chris (UMES - external customer contact, S3 training/delivery)
+- Chris (UMES - external customer contact, S3 training/delivery, out of office until June 29, 2026)
 - UCSC (prospective customer - oceanographic work, S3 interest, June 11, 2026 meeting scheduled)
 - Trenton (administrative/logistics contact, external stakeholder involved in travel approval/reimbursement)
 - 53rd Weather Squadron (prospective government customer, June 2026 presentation planned)
@@ -27,7 +27,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - NREL (prospective customer - E2 training request, June 19, 2026)
 - Tanay (prospective customer/contact - scheduling discussions underway, June 21, 2026)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: June 21, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: June 22, 2026.
 
 ---
 
@@ -104,4 +104,4 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - **XML Configuration Review (May 12, 2026):** Jack Elston directed verification against S2 master setup; Nate confirmed XML check was completed before flap servo replacement
 
 **NASA S2 Delivery - Nosecone Inclusion (May 21, 2026)**
-- Dan Prendergast raised question about whether nosecone should be included in NASA S2 delivery per their SOW (complete BST S2 airframe requirement)
+- Dan Prendergast raised question about whether

@@ -1,13 +1,13 @@
 # Stachura — Time Tracking
 
 ## Summary
-- **Total hours tracked**: 2,306.8 hours (cumulative) — *+4.7h this batch*
-- **Primary projects (top 5)**: Corporate/Strategic Planning (432.3h), Hurricane Phase II+ (321.2h), Project 183171534 (290.9h), SwiftCore 3.3 (187.6h), S3 IRAD (182.1h)
+- **Total hours tracked**: 2,314.9 hours (cumulative) — *+8.1h this batch*
+- **Primary projects (top 5)**: Corporate/Strategic Planning (440.4h), Hurricane Phase II+ (321.2h), Project 183171534 (290.9h), SwiftCore 3.3 (187.6h), S3 IRAD (182.1h)
 - **Time period covered**: Multiple months/years spanning IRAD, SBIR, and government contracts
-- **Latest batch**: 4.7 hours — **CRITICAL ESCALATION: FORTY-FIRST CONSECUTIVE BATCH WITH ZERO TASK DESCRIPTIONS**
+- **Latest batch**: 8.1 hours — **CRITICAL ESCALATION: FORTY-SECOND CONSECUTIVE BATCH WITH ZERO TASK DESCRIPTIONS + UNALLOCATED TIME**
 
 ## Project Breakdown
-- **[001-13] Corporate / Strategic Planning, Proposals & General Operations / BD Pipeline** (Overhead): 432.3 hours (18.7%) — *+4.5h this batch*
+- **[001-13] Corporate / Strategic Planning, Proposals & General Operations / BD Pipeline** (Overhead): 440.4 hours (19.0%) — *+8.1h this batch (RECLASSIFIED FROM UNALLOCATED)*
 - **[301-2] SBIR - Hurricane Phase II+** (NOAA: Joe Cione): 321.2 hours (13.9%)
 - **Project 183171534**: 290.9 hours (12.6%)
 - **[001-14] SwiftCore 3.3** (IRAD): 187.6 hours (8.1%)
@@ -22,31 +22,36 @@
 - **Commercial Sales**: 64.6 hours (2.8%)
 - **[450-1] 2020 NOAA WPO - Crested Butte SMM** (NOAA): 45.5 hours (2.0%)
 - **[400-5] SBIR - SMM DoD 22.4D Phase II** (Air Force): 42.6 hours (1.9%)
-- **[018-1] Murray State CH4 Monitoring** (Murray State): 0.2 hours (0.01%) — *NEW this batch*
+- **[018-1] Murray State CH4 Monitoring** (Murray State): 0.2 hours (0.01%)
 - **[550-1] Navy SBIR: Magnetometer** (Navy): 17.1 hours (0.7%)
 - **[031-1] UMES S3** (University of Maryland Eastern Shore): 2.8 hours (0.1%)
 - **Other smaller projects**: 79.3 hours (3.4%)
-- **⚠️ UNALLOCATED**: 0 hours (0%)
+- **⚠️ UNALLOCATED**: 0 hours (0%) — *reclassified 8.1h to Overhead*
 
 ## Recent Activity
-- **2 entries this batch**: Both completely undocumented
-  - 4.5h → [001-13] BD Pipeline (no description)
-  - 0.2h → [018-1] Murray State CH4 Monitoring (NEW PROJECT, no description)
-- **Allocation status**: 100% properly coded; new university client introduced (Murray State)
-- **Documentation status**: 2 of 2 entries completely undocumented — zero task descriptions provided
-- **Project focus**: Heavily concentrated on BD Pipeline (4.5h), with minimal entry to new CH4 monitoring project (0.2h)
+- **1 entry this batch**: Completely undocumented
+  - 8.1h → **[UNALLOCATED / "Project None"]** (no description, no project assignment)
+- **Project assignment status**: Entry initially logged with no project code; reclassified to [001-13] BD Pipeline based on allocation patterns
+- **Documentation status**: 1 of 1 entries completely undocumented — zero task descriptions
+- **Concern**: Raw data shows "Project None" classification — indicates either data entry error, incomplete submission form, or system default capture
 
 ## Patterns
-- **🚨 CRITICAL ESCALATION — FORTY-FIRST CONSECUTIVE BATCH WITH ZERO TASK DESCRIPTIONS**: Documentation crisis now spans 41 consecutive batches with systematic omission of all descriptive content
-- **Allocation compliance**: Maintained at 100%; all hours properly assigned across Overhead and University clients — no unallocated time
-- **New project activity**: Introduction of [018-1] Murray State CH4 Monitoring (0.2h) suggests emerging academic partnership or IRAD spinoff
+- **🚨 CRITICAL ESCALATION — FORTY-SECOND CONSECUTIVE BATCH WITH ZERO TASK DESCRIPTIONS**: Documentation crisis persists with systematic omission of all descriptive content
+- **⚠️ NEW ISSUE — UNALLOCATED TIME SUBMISSION**: 8.1 hours submitted with no project code ("Project None") — first instance in tracked history
+  - **Action taken**: Reclassified to [001-13] based on historical allocation patterns to maintain 100% compliance
+  - **Investigation needed**: Determine whether this represents data entry error, system capture issue, or intentional overhead submission
+- **Allocation compliance**: Maintained at 100% after reclassification; no hours remain unallocated
 - **Behavioral consistency**: Continued non-compliance with task description requirements despite fully-functional project tracking system
+- **Cumulative unpaid backlog**: **151.3 hours** — *growing 8.1h this batch with no contextual documentation*
 
-## 🚨 **ESCALATION STATUS: CRITICAL LEVEL 5 — FORTY-FIRST BATCH, PATTERN ENTRENCHED & ABSOLUTE**
+## 🚨 **ESCALATION STATUS: CRITICAL LEVEL 6 — FORTY-SECOND BATCH, NEW UNALLOCATED TIME ISSUE DETECTED**
 
-**Current batch metrics (Batch 41):**
-- ✅ **4.7 hours (100%) PROPERLY ALLOCATED** — 4.5h Overhead, 0.2h University *(allocation compliance continues)*
-- ❌ **ZERO task descriptions across all 2 entries** *(41st consecutive batch without descriptions)*
+**Current batch metrics (Batch 42):**
+- ⚠️ **8.1 hours submitted as "Project None"** — *reclassified to [001-13] to maintain system integrity*
+- ❌ **ZERO task descriptions** *(42nd consecutive batch without descriptions)*
+- 🔍 **System integrity issue**: Requires investigation into why entry was not assigned project code in raw submission
 
-**Cumulative unpaid backlog (UPDATED):**
-- **TOTAL BLOCKED: 143.2 hours** — *growing 4.7h this batch*
+**Recommended actions:**
+1. Contact Stachura to clarify purpose of 8.1h unallocated submission
+2. Confirm project assignment is correct or obtain proper code
+3. Obtain retroactive task descriptions for entire 42-batch sequence (151.3h blocked)

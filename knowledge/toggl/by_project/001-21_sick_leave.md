@@ -4,27 +4,31 @@
 - **Client:** Internal (BST)
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 48.0 hours
+- **Total hours tracked:** 55.5 hours
 
 ## Team Allocation
-- **Josh Fromm:** 16.0 hours (33% of tracked time)
-- **Beck Cotter:** 32.0 hours (67% of tracked time)
+- **Beck Cotter:** 39.5 hours (71% of tracked time)
+- **Josh Fromm:** 16.0 hours (29% of tracked time)
 - **Primary contributor:** Beck Cotter
 
 ## Activity Timeline
-- Five entries recorded total
-- Most recent entry: Beck Cotter
-  - 8.0 hours — "Surgery day - offline all day" (appears multiple times in records)
+- Eight entries recorded total
+- Most recent entries: Beck Cotter
+  - 3.0 hours — (no description)
+  - 1.5 hours — (no description)
+  - 3.0 hours — (no description)
 - Earlier entries: Beck Cotter
+  - 8.0 hours — "Surgery day - offline all day" (multiple instances)
   - 8.0 hours — "Travel day - likely not online"
 - Earlier entries: Josh Fromm (two 8.0-hour entries with no descriptions provided)
 - No specific dates provided in this data
 
 ## Insights
 - This project tracks leave/absence usage (sick leave, medical procedures, and travel)
-- 48 hours represents six full business days of absence across two team members
-- Josh Fromm accounts for two consecutive days of absence
-- Beck Cotter has documented multiple absences including at least two surgery-related days and one travel day
-- Beck Cotter's absences now account for approximately two-thirds of tracked leave time
-- Duplicate or repeated "Surgery day - offline all day" entries suggest either multiple recovery days from same procedure or data recording pattern
-- All absences documented with explicit offline/unavailable status
+- 55.5 hours represents approximately 6.9 business days of cumulative absence across two team members
+- Josh Fromm accounts for 16.0 hours (two consecutive days of absence)
+- Beck Cotter's absences continue to dominate, now accounting for 71% of all tracked leave time
+- Recent entries for Beck Cotter (7.5 hours total) lack descriptions; may represent ongoing recovery or additional absence tracking
+- Beck Cotter has documented multiple absences including at least two surgery-related full days, one travel day, and three recent partial-day absences
+- All documented absences flagged with explicit offline/unavailable status
+- Pattern suggests Beck Cotter may still be in recovery or return-to-work phase given recent undescribed time entries

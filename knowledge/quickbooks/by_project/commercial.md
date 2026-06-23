@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $2,986,489.34
-- **Total Expenses (Bills + Purchases):** $240,535.83
+- **Total Expenses (Bills + Purchases):** $240,555.83
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,745,953.51 (Revenue exceeds expenses)
+- **Net Position:** $2,745,933.51 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – July 2, 2026
 
 ---
@@ -90,7 +90,7 @@
 ## Expenses by Cost Category
 
 ### **Shipping/Freight** (Direct Cost Shipping, Freight & Delivery)
-**Total: $1,266.30** | 7 transactions | Largest item: $1,112.81
+**Total: $1,286.30** | 8 transactions | Largest item: $1,112.81
 
 | Date | Vendor/Description | Amount | Details |
 |------|-------------------|--------|---------|
@@ -100,6 +100,7 @@
 | Prior | Prior transaction | $20.00 | *From previous file* |
 | Prior | Prior transaction | $20.00 | *From previous file* |
 | Prior | Prior transaction | $20.00 | *From previous file* |
+| Prior | Prior transaction | $40.00 | *From previous file* |
 
 **Account:** DIRECT COSTS: DC-Direct Cost Shipping, Freight & Delivery
 
@@ -119,5 +120,4 @@
 
 ---
 
-### **Materials & Supplies** (Direct Cost Purchases)
-**Total: $84,675.60** | *Multiple transactions across
+### **Materials & Supplies** (Direct Cost

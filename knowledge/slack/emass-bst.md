@@ -13,7 +13,7 @@ This channel serves as the primary collaboration hub between Black Swift Technol
 - Sergio Ruocco (eMASS AI) - Autoboot firmware expert, SDK bring-up and troubleshooting
 - Shantanu (eMASS AI) - Hardware verification and validation
 
-**Activity Level:** Highly active collaboration spanning February-April 2026, with continued intensive activity through May 2026 focused on flight testing and controller refinement. Critical first-flight test completed on Apr 24, 2026. Sustained high activity through June 2026 with iterative testing cycles, binary variants, parameter refinement, and comparative performance evaluation protocols. Most recent activity (June 17, 2026) indicates continued preparation for Thursday flight testing with multiple controller variants and refined waypoint strategies.
+**Activity Level:** Highly active collaboration spanning February-April 2026, with continued intensive activity through May 2026 focused on flight testing and controller refinement. Critical first-flight test completed on Apr 24, 2026. Sustained high activity through June 2026 with iterative testing cycles, binary variants, parameter refinement, and comparative performance evaluation protocols. Most recent activity (June 22, 2026) indicates delivery of updated controller binaries for testing.
 
 ---
 
@@ -101,3 +101,7 @@ This channel serves as the primary collaboration hub between Black Swift Technol
   - **Binary 2:** Trained to 4.5 m/s, Expected ~4.0 m/s average, AP hard limit 5.0 m/s
   - **Binary 3:** Trained to 5.0 m/s, Expected ~4.5 m/s average, AP hard limit 5.5 m/s
 - **Rationale:** Allows small controlled overshoot from trained-to-not-exceed speed; enables comparative analysis between AI controller performance and baseline BST autopilot at corresponding speed caps (3.5, 4.0, 4.5 m/s)
+
+---
+
+## Projects & Initiatives

@@ -1,0 +1,40 @@
+{
+  "asana_gid": "1211602206477042",
+  "asana_task_name": "S0-AD for USAF WC-130J Weather Squadrons",
+  "customer": "USAF",
+  "customer_contact": "Russell Evans & Elizabeth Sanabia",
+  "customer_email": "russell.evans.ctr@us.af.mil",
+  "receive_by": "2026-05-01",
+  "ship_to": null,
+  "items": [
+    {
+      "description": "S0-AD system",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "estimate_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Active DoD engagement: USAF 53rd Weather Squadron lead engineer (Russ Evans) and NOAA partners exploring future drone integration for WC-130J Weatherbird air-launch capability. Facility visit scheduled; S0-AD datasheet and whitepapers sent. Clear pathway to evaluation and potential CRADA. Related SOCOM task (separate order) also active with receive_by 2026-10-30.",
+  "missing_fields": [
+    "ship_to",
+    "estimate_date",
+    "invoice_amount"
+  ],
+  "last_evidence_date": "2026-06-22",
+  "last_contact_date": "2026-03-03"
+}
