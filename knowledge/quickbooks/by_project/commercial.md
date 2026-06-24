@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $2,986,489.34
-- **Total Expenses (Bills + Purchases):** $240,555.83
+- **Total Expenses (Bills + Purchases):** $240,575.83
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,745,933.51 (Revenue exceeds expenses)
+- **Net Position:** $2,745,913.51 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – July 2, 2026
 
 ---
@@ -90,7 +90,7 @@
 ## Expenses by Cost Category
 
 ### **Shipping/Freight** (Direct Cost Shipping, Freight & Delivery)
-**Total: $1,286.30** | 8 transactions | Largest item: $1,112.81
+**Total: $1,306.30** | 9 transactions | Largest item: $1,112.81
 
 | Date | Vendor/Description | Amount | Details |
 |------|-------------------|--------|---------|
@@ -101,6 +101,7 @@
 | Prior | Prior transaction | $20.00 | *From previous file* |
 | Prior | Prior transaction | $20.00 | *From previous file* |
 | Prior | Prior transaction | $40.00 | *From previous file* |
+| Prior | Prior transaction | $20.00 | *From previous file* |
 
 **Account:** DIRECT COSTS: DC-Direct Cost Shipping, Freight & Delivery
 
@@ -116,8 +117,4 @@
 
 **Account:** RESEARCH & DEVELOPMENT: IRAD-Indirect Subcontractor Exp
 
-**Note:** The Ted Miles bill is classified as an indirect cost (research & development related work, not directly billable to specific projects).
-
----
-
-### **Materials & Supplies** (Direct Cost
+**Note:** The Ted Miles bill is classified as an indirect cost (research & development related work, not directly

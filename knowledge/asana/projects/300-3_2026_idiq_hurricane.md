@@ -11,18 +11,18 @@
   - Final delivery deadline: **2026-07-31**
   - Invoice schedule: March 2026 – July 2026
   - Critical hardware ship date: **May 19, 2026** (✅ completed early; 2 SHOW s0's and tripods shipped)
-- **Status:** **🔴 CRITICAL URGENCY — ACTIVE BLOCKING ISSUES (as of 6/5/26).** Hardware milestones delivered early; field season imminent. Three blocking issues must be resolved immediately:
+- **Status:** **🔴 CRITICAL URGENCY — ACTIVE BLOCKING ISSUES (as of late June 2026).** Hardware milestones delivered early; field season imminent. Three blocking issues remain unresolved:
   1. **Deployment tube firmware (Jack Elston) — OVERDUE since 6/4/26 — BLOCKS Invoice 4 ($72k) & hardware release**
-  2. **QC board completion (Sam Hild) — DUE TODAY 6/5/26 — BLOCKS Invoice 4 & downstream assembly**
-  3. **Gateworks board sourcing status (Josh Fromm) — UNRESOLVED TWICE (5/28–5/29/26) — THREATENS GCS build due 7/1/26**
+  2. **QC board completion (Sam Hild) — OVERDUE since 6/5/26 — BLOCKS Invoice 4 & downstream assembly**
+  3. **Gateworks board sourcing status (Josh Fromm) — UNRESOLVED (queried 5/28–5/29/26, no documented response) — THREATENS GCS build due 7/1/26**
 - **Team Members:** 
   - Meredith O'hara Needham (project owner, shipments, invoice submissions)
   - **Jack Elston** (firmware/software) — **CRITICAL PATH: deployment tube firmware OVERDUE**
-  - **Sam Hild** (QC, hardware validation, kit assembly) — **CRITICAL PATH: deployment tube board QC due TODAY; kit assembly begins 6/19**
+  - **Sam Hild** (QC, hardware validation, kit assembly) — **CRITICAL PATH: deployment tube board QC overdue; kit assembly target 6/19**
   - Nate Straus (platform rebuild/validation, s0 builds, servo assembly, linkage construction, power switches)
   - Maciej Stachura (platform validation/testing, magnetic calibration, parameter file validation, failure analysis)
   - Alex Lomis (strategic partnerships, NASA opportunities)
-  - **Josh Fromm** (GCS assembly, long-lead parts, Gateworks board sourcing) — **⚠️ CRITICAL: Gateworks board status UNKNOWN; Joshua Fromm asked twice on 5/28 and 5/29/26 "do we have the gateworks boards for the s0 ground stations for the idiq yet?" — no documented response found in Asana; GCS build due 7/1/26**
+  - **Josh Fromm** (GCS assembly, long-lead parts, Gateworks board sourcing) — **⚠️ CRITICAL: Gateworks board status UNKNOWN; Joshua Fromm asked 5/28 and 5/29/26 "do we have the gateworks boards for the s0 ground stations for the idiq yet?" — no documented response found; GCS build due 7/1/26**
   - Ben Busby (web-based controller development) — due 7/31/26
   - Nick Pawlenko (UxSOC liaison) — **transitioned to UxSOC HQ effective 5/29/26; reduced availability — communications now include wider UASD team for scheduling, personnel, flight planning, maintenance**
 
@@ -37,7 +37,7 @@
 | 2 of 6 | $54,000 | 2026-04-14 | ✅ Completed |
 | Travel | $18,000 | 2026-04-15 | ✅ Completed |
 | 3 of 6 | $54,000 | 2026-05-04 | ✅ Completed (5/1 — 3 days early) |
-| **4 of 6** | **$72,000** | **2026-06-05** | 🔴 **DUE TODAY — BLOCKED on firmware (overdue) & QC (due today) completion** |
+| **4 of 6** | **$72,000** | **2026-06-05** | 🔴 **OVERDUE — BLOCKED on firmware (overdue) & QC (overdue) completion** |
 | 5 of 6 | $72,000 | 2026-07-02 | ⏳ Upcoming |
 | 6 of 6 | $72,000 | 2026-07-31 | ⏳ Final |
 
@@ -46,33 +46,33 @@
 |------|-------|----------|--------|
 | Deployment tube firmware | Jack Elston | 2026-06-04 | 🔴 **OVERDUE** |
 | QC at least one of each board as they arrive | Sam Hild | 2026-06-04 | 🔴 **OVERDUE** |
-| Finish deployment tube board QCs | Sam Hild | 2026-06-05 | 🔴 **DUE TODAY** |
-| AP & PSNS firmware | Jack Elston | 2026-06-26 | ⏳ Upcoming (21 days) |
-| **Rebuild old BST s0 (2024)** | **Nate Straus** | **2026-06-19** | **⏳ OPEN (14 days)** |
-| **Begin kit assembly** | **Sam Hild** | **2026-06-19** | **⏳ OPEN (14 days)** |
-| Build 2x rack-mount GCS | Josh Fromm | 2026-07-01 | ⏳ Upcoming (26 days); **⚠️ Gateworks board sourcing status unknown — Josh asked 5/28 & 5/29/26 with no response documented** |
-| Finish 2025 S0's | Nate Straus | 2026-06-30 | ⏳ Upcoming (25 days) |
-| Participate in mag cal process | Maciej Stachura | 2026-07-01 | ⏳ Upcoming (26 days) |
-| Increase cruise speed back to 2024 value | Maciej Stachura | 2026-06-30 | ⏳ Upcoming (25 days) |
-| Get 2025/2026 params files validated | Maciej Stachura | 2026-06-30 | ⏳ Upcoming (25 days) |
-| Operator training | Unassigned | 2026-07-31 | ⏳ Upcoming (57 days); unassigned |
-| Web-based controller | Ben Busby | 2026-07-31 | ⏳ Upcoming (57 days); no visible progress |
+| Finish deployment tube board QCs | Sam Hild | 2026-06-05 | 🔴 **OVERDUE** |
+| AP & PSNS firmware | Jack Elston | 2026-06-26 | ⏳ Upcoming |
+| **Rebuild old BST s0 (2024)** | **Nate Straus** | **2026-06-19** | **⏳ OPEN** |
+| **Begin kit assembly** | **Sam Hild** | **2026-06-19** | **⏳ OPEN** |
+| **Assembly latch carrier trays** | **Nate Straus** | — | ✅ **Completed 2026-06-23** |
+| Build 2x rack-mount GCS | Josh Fromm | 2026-07-01 | ⏳ Upcoming; **⚠️ Gateworks board sourcing status unknown** |
+| Finish 2025 S0's | Nate Straus | 2026-06-30 | ⏳ Upcoming |
+| Participate in mag cal process | Maciej Stachura | 2026-07-01 | ⏳ Upcoming |
+| Increase cruise speed back to 2024 value | Maciej Stachura | 2026-06-30 | ⏳ Upcoming |
+| Get 2025/2026 params files validated | Maciej Stachura | 2026-06-30 | ⏳ Upcoming |
+| Operator training | Unassigned | 2026-07-31 | ⏳ Upcoming; unassigned |
+| Web-based controller | Ben Busby | 2026-07-31 | ⏳ Upcoming; no visible progress |
 
 ## Task Summary
 
-**Overall:** 2 open tasks, 0 completed (100% open rate — project in critical execution phase)
+**Overall (Asana):** 1 completed, 0 open (project in final execution phase)
 
-**Tasks by Assignee (Asana):**
-- **Nate Straus:** 1 open task
-  - ⏳ Rebuild old BST s0 (2024 version) due 2026-06-19
-- **Sam Hild:** 1 open task
-  - ⏳ Begin kit assembly due 2026-06-19
+**Recent Completions:**
+- ✅ **Assembly latch carrier trays** (Nate Straus) — completed 2026-06-23
 
-**Note:** Raw Asana export shows only 2 open tasks. However, **critical path items remain unresolved and should be tracked outside Asana or confirmed as actively in-progress:**
-  - Jack Elston's deployment tube firmware (OVERDUE since 6/4/26)
-  - Sam Hild's QC board completion (DUE TODAY 6/5/26)
-  - Josh Fromm's Gateworks board sourcing (status unknown; Josh asked twice 5/28–5/29/26 with no documented response)
+**Critical Path Items Requiring Immediate Action:**
+  - **Jack Elston:** Deployment tube firmware OVERDUE since 6/4/26 — blocks Invoice 4 ($72k) and hardware release
+  - **Sam Hild:** Deployment tube board QC overdue since 6/5/26 — blocks Invoice 4 and downstream assembly
+  - **Josh Fromm:** Gateworks board sourcing status unresolved; queried by Fromm on 5/28 and 5/29/26 with no documented response — threatens GCS build due 7/1/26
 
 ## Recent Activity
 
-- **May 29, 2026:** Nick Pawlenko transitioned to UxSOC HQ. Communication protocol updated to include
+- **June 23, 2026:** Assembly latch carrier trays completed (Nate Straus)
+- **May 29, 2026:** Nick Pawlenko transitioned to UxSOC HQ. Communication protocol updated to include broader UASD team for scheduling, personnel (especially foreign nationals), flight planning, and maintenance coordination due to potential availability constraints.
+- **May 28–29, 2026:** **Joshua Fromm queried twice regarding

@@ -14,7 +14,7 @@
   - Phase I: Completed (January 2026)
   - **Option Period (Apr 14 – Sep 28, 2026): $99,459**
     - CLIN 0005 (Kick-Off & FWA Certification): $50,000 ✓ **COMPLETED** (submitted Apr 14, 2026)
-    - CLIN 0006 (Progress Report): $35,000 — Due Jun 29, 2026 — **OPEN** (21 days out)
+    - CLIN 0006 (Progress Report): $35,000 — Due Jun 29, 2026 — **OPEN** (21 days from last status update, Jun 8)
     - CLIN 0007 (Final Report): $14,459 — Due Sep 28, 2026 — **OPEN**
 
 - **Timeline:** Option Period April 14 – September 28, 2026
@@ -34,13 +34,13 @@
     - Build hand-launched S0-MAD (due Jun 12) — 4 days
     - Build & ground test S0-AD Launcher (due Jun 15) — 7 days
     - CLIN 0006 Progress Report due (due Jun 29) — 21 days
-  - **Team feedback (Maciej Stachura, Jun 8, 2026):** "For mag integration it's Alex and Sam on the critical engineering tasks" — indicates active work underway despite stale task tracking
+  - **Team feedback (Maciej Stachura, Jun 8, 2026):** "For mag integration it's Alex and Sam on the critical engineering tasks" — indicates active work underway despite stale task tracking in Asana
 
 - **Priority:** **HIGH** (Navy government contract, compressed timeline, critical path delays)
 
 - **Team Members:**
   - **Alex Lomis** (PM/Owner, technical lead) — **CRITICAL PATH**: 8+ build, test, and flight tasks
-  - **Sam** (Critical engineering on mag integration) — Contact info needed; appears to be on critical path
+  - **Sam** (Critical engineering on mag integration) — Contact info needed; appears to be on critical path per Jun 8 feedback
   - **Jack Elston** (Technical lead, onboard logging & reporting, CLIN 0006/0007 reports) — Overdue design deliverable
   - **Maciej Stachura** (Python tools, sensor configuration, analysis) — Overdue analysis tools
   - **Beck Cotter** (Camp Pendleton coordination & permissions) — Overdue permissions task
@@ -53,7 +53,7 @@
 | CLIN | Deliverable | Owner | Amount | Due Date | Status |
 |------|---|---|---|---|---|
 | 0005 | Kick-Off & FWA Certification Report + Invoice | Meredith O'hara Needham | $50,000 | Apr 14, 2026 | ✓ **COMPLETED** |
-| 0006 | Progress Report + Invoice | Jack Elston / Meredith O'hara Needham | $35,000 | **Jun 29, 2026** | **OPEN — 21 days from Jun 8** |
+| 0006 | Progress Report + Invoice | Jack Elston / Meredith O'hara Needham | $35,000 | **Jun 29, 2026** | **OPEN — 21 days from Jun 8 status** |
 | 0007 | Final Report + Invoice | Jack Elston / Meredith O'hara Needham | $14,459 | Sep 28, 2026 | **OPEN** |
 
 **Technical Milestones:**
@@ -78,4 +78,4 @@
 - **Total Tasks:** 17 open, 0 completed
   - Contact information tasks: 2 (Angel Ruiz-Reyes, Anthony Brescia — tracking only)
   - Administrative/reporting: 4 (CLIN 0006/0007 reports + invoices)
-  - Technical/build: 11 (design, build, test, flight operations)
+  

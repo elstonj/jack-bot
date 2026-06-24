@@ -51,6 +51,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - QuSpin power supply testing: Maciej to take over testing of QuSpin power supply while Sam Hild focuses on S3 development; testing focused on verifying noise reduction effectiveness (June 12, 2026)
 - Bartington sensor model confirmation: Identified as UAS Mag PC298 with 105 µT range (June 16, 2026)
 - Launcher parts procurement: Approved ordering launcher design parts totaling $1.3K from McMaster (June 22, 2026)
+- Magnetometer power supply: Sam Hild identified that magnetometer draws ~1A at 5V (higher than expected); current LDO is 500mA max and causing under-voltage/current condition preventing output. Maciej requested quick-turn procurement of higher-capacity LDO; Sam Hild to check existing inventory first (June 23, 2026)
 
 ## Projects & Initiatives
 
@@ -70,7 +71,4 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 
 **Phase II Option Period (August 2026 - primary focus):**
 - Status: Task modifications approved by Navy on April 21, 2026
-- Primary objective: August 17-28 Camp Pendleton demo (confirmed schedule from Morris "DeSi" DEVCOM)
-- Navy will provide test "objectives" (sea mines/land mines) for both water and land detection
-- Demo audience: Marine groups interested in fixed-wing MAD options (currently use quads that are too slow or easy to shoot down)
-- Deliverable: Reusable hand-launched S0 
+- Primary objective: August 17-28 Camp Pend

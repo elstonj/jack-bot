@@ -7,7 +7,7 @@
   - **Payment friction**: EMASS declined to pay final milestone ($35k) due to incomplete final report; restructured agreement reflects customer pushback
 - **Timeline**: Original November 10, 2025 to January 31, 2026; extended through May 2026 for validation and reporting. **No firm end date currently set.**
 - **Status**: **🔴 INDEFINITELY POSTPONED — External blocker on EMASS controller delivery.** Per Daniel Prendergast (May 13–14, 2026): "EMASS Validation Flight #2 is postponed indefinitely until they get us a functioning controller." Per Jack Elston (May 12, 2026): "de-prioritize it, but we don't want to drag this out more than a month." **All remaining validation flights and final reporting blocked.**
-- **Team Members**: Dan Prendergast (Owner/Lead), Jack Elston, Maciej Stachura, Nate Straus, Ethan Domagala, Meredith O'hara Needham; Alex and Sam (magnetometer integration critical engineering)
+- **Team Members**: Dan Prendergast (Owner/Lead), Jack Elston, Maciej Stachura, Nate Straus, Ethan Domagala, Meredith O'hara Needham; Alex and Sam (magnetometer integration critical engineering, per Maciej Stachura June 8, 2026)
 - **Risk Signals**: 
   - **🔴 CRITICAL: Project indefinitely postponed on external EMASS controller delivery** — Validation Flights #2 and #3 cannot proceed until EMASS delivers functioning controller binary. This is outside BST control.
   - **🔴 CRITICAL: Customer payment friction** — EMASS refused to pay final milestone ($35k) because Validation Flights #2–#3 and final report remain incomplete. New per-flight-day billing model signals reduced confidence in fixed-price delivery.
@@ -42,7 +42,7 @@
 ## Recent Activity
 
 **June 8, 2026 (Maciej Stachura — Team Correction)**:
-- Navy meeting at 9:30 AM **did not occur** — flagged as no-show or scheduling issue.
+- **Navy meeting at 9:30 AM did not occur** — flagged as no-show or scheduling issue.
 - **Magnetometer integration assigned to Alex and Sam** — critical engineering tasks; external team members or sub-team support structure.
 
 **June 2026 (Daniel Prendergast — Authoritative Billing Restructure)**:
@@ -67,5 +67,4 @@
 - Confirmed external blocker: "We cannot perform those flights until they send us a new controller binary in the emass-bst slack channel."
 - Shifted own priority to 53rd Weather Squadron and SOCOM visit slides.
 
-**April 30, 2026 (Maciej Stachura)**:
-- **EMASS ranked Priority #3 for closure**
+**April 30, 2026 (Maciej Stachura
