@@ -4,9 +4,9 @@
 - **Client/Customer**: NASA SBIR program
 - **Dollar Value**: $56,318 total invoiced ($49,818 + $6,500)
 - **Timeline**: Mid-2023 through Phase I completion February 7, 2024
-- **Status**: **ARCHIVED** — Phase I fully completed. All contractual deliverables closed out by February 7, 2024. Post-Phase I documentation work (wildfire video) ongoing as lower-priority item.
-- **Team Members**: Alex Lomis (project lead/coordinator), Jack Elston (hardware/flight operations), Maciej Stachura (algorithms/data processing), Josh Fromm (manufacturing), Kareem (returning June 16, 2026 for post-Phase I work), James (external partner, NCAR/RAL)
-- **Key Partners**: NCAR/RAL, Colorado Center of Excellence for Advanced Technology Aerial Firefighting, CALFIRE
+- **Status**: **ARCHIVED** — Phase I fully completed February 7, 2024. All contractual deliverables closed out. Post-Phase I documentation work (wildfire video) ongoing as lower-priority item with Kareem returning June 16, 2026.
+- **Team Members**: Alex Lomis (project lead/coordinator), Jack Elston (hardware/flight operations, project coordinator), Maciej Stachura (algorithms/data processing), Josh Fromm (manufacturing), Kareem (post-Phase I work, returned June 16, 2026)
+- **Key Partners**: NCAR/RAL, Colorado Center of Excellence for Advanced Technology Aerial Firefighting, CALFIRE, Argonne National Lab
 
 ## Key Deliverables & Milestones (All Completed)
 - **Interface Document for Operating UAS In Wildfires**: January 22, 2024
@@ -20,7 +20,7 @@
 
 ## Task Summary
 - **0 open tasks, 0 completed tracked items** — all Phase I tasks archived or completed outside Asana
-- No active task tracking in project
+- No active task tracking in this project
 
 ## Recent Activity
 - All Phase I deliverables completed by February 7, 2024
@@ -28,12 +28,10 @@
 - Phase II proposal submitted February 3, 2024
 - NASA ROSES Call application submitted March 31, 2024
 - Post-Phase I technical work: Dubins path altitude profiling control (October 2025)
-- CoTAK Demo exploration (March 27, 2024)
-
-**Wildfire Video Completion (June 2026)**  
-Per Jack Elston (June 16, 2026): Kareem returning to team June 16 to support post-Phase I work. Jack coordinating with team on division of labor to finish the wildfire video, with Kareem potentially focusing on S0 components or ground stations depending on team priority.
+- **Wildfire Video Completion (June 2026)**: Per Jack Elston (June 15–16, 2026), Kareem returning to team June 16 to support post-Phase I work. Jack coordinating with team on division of labor to finish the wildfire video, with Kareem potentially focusing on S0 components or ground stations depending on team priority.
 
 ## Priority & Context
+
 **Current Project Priority**: Not among BST's highest-priority initiatives as of May 2026. Per Jack Elston (May 11, 2026), Maciej Stachura's top five priorities are: (1) S3 IRAD, (2) S0-VTOL, (3) EMASS close-out, (4) By-Lite Mustang, (5) SBIR Magnetometer. Fire UTM Phase I falls below this tier.
 
 **Technical Achievements & Partnerships**:
@@ -44,4 +42,5 @@ Per Jack Elston (June 16, 2026): Kareem returning to team June 16 to support pos
 - Extensive regulatory coordination with CALFIRE, Boulder Sheriff/Parks, FireSense team, and Argonne National Lab
 - Successfully positioned BST for Phase II and NASA ROSES funding with established partnerships
 
-**Status (June 2026)**: Project archived with post-Phase I documentation (wildfire video) ongoing as scheduled lower-priority work alongside team's other commitments.
+**Next Steps (June 2026)**:
+Kareem will coordinate with team (likely Maciej Stachura) on division of labor to finish wildfire video production. Alternative work available if higher-priority tasks take precedence.

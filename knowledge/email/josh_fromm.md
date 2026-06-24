@@ -1,95 +1,92 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,277 emails (1,246 prior + 31 new from June 22–23)
-- **Date range:** May 18–June 23, 2026
+- **Total messages scanned:** 1,312 emails (1,277 prior + 35 new from June 23–24)
+- **Date range:** May 18–June 24, 2026
 - **Daily average:** ~15–17 emails/day (human correspondence); automated/logistics/procurement/travel volume substantial and accelerating
-- **Unread messages:** ~950+ unread (heavy promotional/automated volume dominating; PCB assembly, component sourcing, logistics, travel bookings, vendor notifications, and design tool alerts increasing)
-- **New data period (June 22–23):** 31 emails
-  - **Human correspondence:** 3 emails (10%)
-    - Daniel Prendergast → Krateo Sky (Bob Smith, Lisa Marie Cheney): "Canadian Ranger Demo and Engineering Sprint for Demo 2" (critical external client/partner contact, *new*)
-    - Roger Riley (Roger@krateosky.com): RE: Motor Information Request (technical component vendor/partner)
-    - Beck Cotter → Simon Laurence (MOD.gov.uk): RE: Merlin Mk2/US Navy SBIR (outbound response, indicating active dialogue continuation)
-  - **Automated/Logistics/Procurement/Travel/Design/Promotional:** 28 emails (90%)
-    - **PCB Assembly (June 22–23):** PCBWay assembly order status alerts (2x import duty payment reminders + 1x critical assembly order issue: "Assembly order T-S100W700226A **lacks centroid file**" — **BLOCKING MANUFACTURING ISSUE**)
-    - **Component Procurement (June 22):** McMaster-Carr order confirmation (Jun 22), DigiKey order confirmations (2x + shipment notification), Battery Junction summer sale
-    - **Design Tool Notifications (June 22):** Onshape alerts on "**S0 AD Construction Guides 2026**" — 2x comment notifications (1x marked IMPORTANT) — **active design/documentation phase**
-    - **Travel & Lodging (June 22):** Hilton Honors promotion, Frontier Airlines deals notification
-    - **Logistics/Shipping (June 22):** UPS package notification, USPS Informed Delivery daily digest, Amazon delivery confirmation (Kingston 64GB DataTraveler — **data storage device**)
-    - **Design/CAD Tools (June 22):** Gemini (Google Notes) calendar sync for "Canada Engineering Sprint Estimate" meeting notes
-    - **Vendor/Promotional (June 22–23):** Zoom AI newsletter, uAvionix promotional ("500 Feet to Go" — **clearance/altitude reference**), AliExpress savings notification, Protocase enclosure quote prompt, Dell Technologies seasonal sale, WordPress.com receipt, UAS VISION daily news newsletter
+- **Unread messages:** ~1,000+ unread (heavy promotional/automated volume dominating; component sourcing, logistics, travel bookings, vendor notifications, design tool alerts, and manufacturing logistics increasing)
+- **New data period (June 23–24):** 35 emails
+  - **Human correspondence:** 4 emails (11%)
+    - Roger Riley (Roger@krateosky.com) → Jack Elston + Josh: **RE: Critical Component Tiger Team (C2T2) Proposal** (IMPORTANT; June 23, 15:54) — **NEW CRITICAL PROGRAM IDENTIFIER**
+    - Jack Elston (elstonj@blackswifttech.com) → Roger Riley + Josh: **Re: Critical Component Tiger Team (C2T2) Proposal** (IMPORTANT; June 23, 09:52) — **internal BST response to Krateo Sky proposal**
+    - Tim Pearson (tim@rotorworksmfg.com) → Josh: "Thank you for your time yesterday." (IMPORTANT; June 23, 20:34) — **in-person meeting occurred; rotorcraft manufacturing context**
+    - Marcela Lobo (marcela@techmaxmfg.com) → Josh: "Machining supplier for large aerospace components" (IMPORTANT; June 23, 15:56) — **NEW aerospace manufacturing vendor outreach**
+  - **Automated/Logistics/Procurement/Travel/Design/Promotional:** 31 emails (89%)
+    - **Component Procurement (June 23–24):** 
+      - DigiKey (3x: order confirmation, shipment notification, sales order action required — Jun 23)
+      - Hitec RCD USA (2x: order confirmation #5526 + account registration — Jun 23, 21:21–21:25) — **servo/RC control systems vendor (NEW)**
+      - GetFPV (3x: order confirmation, invoice, shipment notification — Jun 23, 18:55–19:17) — **FPV/drone components (NEW)**
+      - Jawstec (order #69507 received — Jun 23, 21:04) — **electronics/connector vendor (NEW)**
+      - McMaster-Carr (2x: Jun 23, 10:17 + 11:28; tracking/certificates for Jun 22 order)
+      - SendCutSend (order S1841769 delivered — Jun 23, 15:28) — **sheet metal/precision cutting (NEW)**
+      - Staubli connector promotional (Jun 23, 12:45) — **industrial connector vendor outreach**
+    - **Shipping/Logistics (June 23–24):**
+      - Pirate Ship (2x: shipping adjustment + payment receipt $13.43 — Jun 24, 06:35) — **low-cost shipping logistics platform**
+      - Worldwide Express invoice (Jun 24, 07:45) — **international shipping carrier**
+      - ADC/AWB tracking documentation (Jun 23, 17:36) — **air waybill for international freight**
+    - **Travel & Lodging (June 23):**
+      - Expedia 15% coupon (BIGSUMMER15 — Jun 23, 14:34, marked IMPORTANT)
+      - Frontier Airlines $34 fares (Jun 23, 13:57, marked IMPORTANT) — **frequent travel booking**
+    - **Subscription/Logistics (June 24):**
+      - Spindrift Market subscription order (Jun 24, 04:02) — **beverage subscription (personal/office supply)**
+    - **Project Management/Collab Tools (June 23):**
+      - Asana notifications (2x unread notifications — Jun 23, 17:59 + 23:35) — **active task/project management**
+    - **Industry News/Newsletters (June 23):**
+      - OpenC3 newsletter (Jun 23, 10:16) — **open-source command & control systems for aerospace/satellites**
+      - UAS VISION daily news (Jun 23, 09:04) — **UAS/drone industry news**
+    - **Vendor/Promotional (June 23–24):** Dell Technologies (2x), AliExpress, Harbor Freight, Baofeng radio (bulk sale 25% off), health insurance promotional (UnitedHealthcare weight loss benefits)
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-1. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Canada Demo/Sprint Lead; now communicating directly with Krateo Sky external partners (Bob Smith, Lisa Marie Cheney) on "Canadian Ranger Demo and Engineering Sprint for Demo 2"**
+1. **Jack Elston** (elstonj@blackswifttech.com) — **Purchasing lead; now co-respondent on Critical Component Tiger Team (C2T2) Proposal with Krateo Sky (Roger Riley)**
 
-2. **Beck Cotter** (beck.cotter@blackswifttech.com) — **MOD.gov.uk Merlin Mk2/US Navy SBIR liaison; now shown as primary outbound correspondent to UK Ministry of Defence (responding to Simon Laurence)**
+2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Canada Demo/Sprint Lead; direct external partner liaison**
 
-3. **Jack Elston** (elstonj@blackswifttech.com) — **Purchasing inbox alias recipient (uAvionix promotional forwarded to purchasing@blackswifttech.com, which routes to Jack)**
+3. **Beck Cotter** (beck.cotter@blackswifttech.com) — **MOD.gov.uk/Merlin Mk2 liaison**
 
-4. **Maciej Stachura, Ben Busby, Meredith Needham** — Continued involvement (no new direct email activity in this dataset)
+4. **Maciej Stachura** (stachura@blackswifttech.com) — **NOW VISIBLE on C2T2 Proposal email distribution (Jun 23, 14:59)**
+
+5. **Meredith Needham** (purchasing@blackswifttech.com alias recipient) — **Procurement team**
 
 ### Top External Contacts
-- **Krateo Sky** (NEW CRITICAL PARTNER)
-  - **Bob Smith** (Bob@krateosky.com) — Canadian Ranger Demo lead
-  - **Lisa Marie Cheney** (LisaMarie@krateosky.com) — Demo/Engineering Sprint coordinator
-  - Subject: "Canadian Ranger Demo and Engineering Sprint for Demo 2" (Jun 22, 10:20 MDT) — **confirms Krateo Sky as primary external partner for Canadian demo effort; "Demo 2" indicates staged/phased demonstration program**
+- **Krateo Sky (EXPANDED ROLE)**
+  - **Roger Riley** (Roger@krateosky.com) — **NOW LEADING/PROPOSING: "Critical Component Tiger Team (C2T2) Proposal" (Jun 23, 14:59, IMPORTANT); distributed to multi-company consortium**
+    - **C2T2 Proposal distribution list includes:**
+      - Jack Elston & Maciej Stachura (BST)
+      - Rick Stollmeyer (Inspired Flight)
+      - Nick Winsick (Inspired Flight)
+      - Tobin Fisher (Vantage Robotics)
+      - Samo Stopar & Nejc Trost (C-Astral)
+    - **Krateo Sky acting as lead/prime contractor or consortium organizer for component development program**
 
-- **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — **UK Ministry of Defence; ongoing Merlin Mk2/US Navy SBIR dialogue (Beck Cotter is primary BST correspondent)**
+- **Tim Pearson** (tim@rotorworksmfg.com) — **Rotor Works Manufacturing; in-person meeting occurred (Jun 22); rotorcraft propulsion/drivetrain context; marked IMPORTANT**
 
-- **Roger Riley** (Roger@krateosky.com) — **Motor/component technical vendor liaison; responding to Josh's motor information request**
+- **Marcela Lobo** (marcela@techmaxmfg.com) — **TechMax Manufacturing; aerospace machining supplier outreach (NEW; marked IMPORTANT; Jun 23, 15:56)**
 
-- **PCBWay** (support05@pcbway.com, sales01@pcbway.com) — **PCB/Assembly manufacturing vendor; CRITICAL BLOCKING ISSUE: Assembly order T-S100W700226A lacks centroid file (Jun 23, 14:37 UTC)**
+- **Component/Materials Vendors (NEW/EXPANDED):**
+  - **Hitec RCD USA** — Servo motors & RC control systems (order #5526 — Jun 23, 21:21)
+  - **GetFPV** — FPV/drone flight control systems (order shipped — Jun 23, 18:55)
+  - **Jawstec** — Electronics/precision connectors (order #69507 — Jun 23, 21:04)
+  - **SendCutSend** — Sheet metal/precision fabrication (order S1841769 delivered — Jun 23, 15:28)
+  - **Staubli** (Adam Skare, a.skare@go.staubli.com) — Industrial connectors & coupling systems
 
-- **McMaster-Carr** (chi.sales@mcmaster.com) — Mechanical component procurement (order confirmed Jun 22)
+- **Logistics/Shipping:**
+  - **Pirate Ship** — Low-cost shipping label platform
+  - **Worldwide Express** — International express carrier
+  - **McMaster-Carr** — Mechanical/structural components (ongoing)
+  - **DigiKey** — Electronics components (ongoing)
 
-- **DigiKey** — Electronics component supplier (2x order confirmations + 1x shipment notification, Jun 22)
-
-- **Battery Junction** — Battery procurement vendor (summer sale promotional)
-
-- **uAvionix** — Aviation electronics vendor (promotional messaging to purchasing alias)
-
-- **Frontier Airlines** — Travel booking vendor (promotional offers)
-
-- **Onshape** — CAD/design collaboration platform (active design document "S0 AD Construction Guides 2026")
-
-- **UAS VISION** (russ@uasvision.com) — UAS/drone industry news newsletter subscriber
+- **Industry News:**
+  - **OpenC3** (Chris Haller, chris@openc3news.com) — Open-source C&C systems for aerospace/satellites
+  - **UAS VISION** (russ@uasvision.com) — UAS/drone industry news
 
 ---
 
 ## Topic Patterns
 
 ### Recurring Subject Themes
-- **Canadian Ranger Demo (NEW PRIMARY FOCUS):** "Canadian Ranger Demo and Engineering Sprint for Demo 2" — Krateo Sky partnership (Bob Smith, Lisa Marie Cheney); confirms multi-phase demo program ("Demo 2" stage); Prendergast is coordinating with external partners
 
-- **S0 Platform Construction/Design (ACTIVE):** "S0 AD Construction Guides 2026" — Onshape CAD documents showing active design refinement/documentation phase (2x comment alerts, 1x marked IMPORTANT, Jun 22); **AD = Airframe Design likely**
-
-- **Merlin Mk2/US Navy SBIR (Ongoing):** Beck Cotter responding to UK MOD contact (Simon Laurence); British helicopter platform integration effort continues
-
-- **PCB Assembly & Manufacturing (CRITICAL BLOCKING ISSUE):** 
-  - **Assembly order T-S100W700226A "lacks centroid file"** (Jun 23, 14:37 UTC, marked IMPORTANT) — centroid file required for automated PCB placement; **this is a manufacturing blocker that must be resolved before board assembly can proceed**
-  - Dual import duty payment reminders (Jun 22–23) suggest PCB order from international supplier (likely Chinese origin via PCBWay)
-
-- **Component Procurement (Expanding):**
-  - McMaster-Carr mechanical parts (Jun 22)
-  - DigiKey electronics (2x Jun 22)
-  - Battery components (Battery Junction)
-  - Motor specifications (technical request to Krateo Sky / Roger Riley)
-  - Data storage (Kingston DataTraveler 64GB — design/documentation file transport)
-
-### Field/Deployment Indicators
-- **Canadian Ranger platform named explicitly** — suggests Canadian military/RCAF requirement or evaluation; "Ranger" is likely codename or platform designation
-- **Engineering Sprint + Demo 2** — phased demonstration/integration effort; suggests prototype/alpha unit evaluation
-- **Motor Information Request** — ongoing powertrain/propulsion subsystem specification/sourcing
-- **PCB assembly blocking** — suggests custom electronics being manufactured for platform integration
-
----
-
-## Communication Patterns
-- **Krateo Sky partnership emerging as primary external client/partner** (NEW) — Prendergast now directly engaged with Bob Smith and Lisa Marie Cheney on Canadian demo; indicates commercial or military customer relationship
-- **Beck Cotter now visible as primary MOD liaison** — outbound email to Simon Laurence (Jun 22, 11:44 MDT) suggests direct responsibility for UK military platform integration
-- **Onshape design alerts increasing** — active CAD/design work phase (comments on construction guides, multiple notifications)
-- **PCB manufacturing in critical path** — assembly order blocking issue (
+#### **Critical Component Tiger Team (

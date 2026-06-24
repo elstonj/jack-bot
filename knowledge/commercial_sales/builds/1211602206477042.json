@@ -29,7 +29,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Active DoD engagement: USAF 53rd Weather Squadron lead engineer (Russ Evans) and NOAA partners exploring future drone integration for WC-130J Weatherbird air-launch capability. Facility visit scheduled; S0-AD datasheet and whitepapers sent. Clear pathway to evaluation and potential CRADA. Related SOCOM task (separate order) also active with receive_by 2026-10-30.",
+  "notes": "Active DoD engagement: USAF 53rd Weather Squadron lead engineer (Russ Evans) and NOAA partners visited BST facility on 2026-06-22 (Slack refs to Sunday morning flight demo, lab meeting). S0-AD datasheet and whitepapers sent. Clear pathway to evaluation and potential CRADA. Related SOCOM task (separate order) also active with receive_by 2026-10-30.",
   "missing_fields": [
     "ship_to",
     "estimate_date",

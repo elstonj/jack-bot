@@ -1,111 +1,92 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 34 across ~3-day period (21–23 Jun 2026)
-- **Estimated volume:** Moderate; mix of direct correspondence, internal group emails, external partnerships, and procurement/automated traffic
-- **Date range:** Primarily 22 Jun (bulk of activity), with some 23 Jun and 21 Jun baseline
+- **Total messages scanned:** 69 across ~4-day period (21–24 Jun 2026)
+- **Estimated volume:** Moderate-to-high; mix of direct correspondence, internal group emails, external partnerships, procurement/automated traffic, and business development outreach
+- **Date range:** Peak activity 22–23 Jun (30+ messages); 24 Jun lighter (6 messages, mostly automated)
+- **Daily breakdown:** Monday 22 Jun (~20 messages), Tuesday 23 Jun (~15 messages), Wednesday 24 Jun (~6 messages, automated)
 
 ## Key Correspondents
 
 **Top Direct Contacts (by frequency/importance):**
-- **Jack Elston** (elstonj@blackswifttech.com) — 5+ interactions; appears as primary internal relay/coordinator on multiple projects
-- **Sona Raziabeegum** (sona@krateosky.com) — Krateo Sky; 3+ exchanges marked IMPORTANT; active technical/partnership dialogue
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — Internal; 4+ interactions on Arctic UAS and defence projects
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Internal leadership; 5+ interactions on Arctic UAS, NanoVeu meetings, and shipping logistics
+- **Jack Elston** (elstonj@blackswifttech.com) — 7+ interactions; primary internal relay/coordinator; appears on Krateo Sky technical threads, Arctic UAS, COTAK Summit, and multi-party vendor discussions
+- **James Pinto** (pinto@ucar.edu, UCAR) — 4+ interactions (23 Jun); active two-way technical dialogue on wind heading corrections and COTAK Summit; marked IMPORTANT throughout
+- **Maia Varanda** (mvaranda@investottawa.ca, Invest Ottawa) — 3+ direct exchanges on Arctic UAS Location Change (23 Jun); appears as primary government/economic development liaison
+- **Daniel Hesselius** (daniel.hesselius@halo-aero.com, Halo Aero) — 3+ interactions on "Navy Topic"; marked IMPORTANT; suggests defence/naval partnership
+- **Tanay Topac** (tanaytopac@stanford.edu, Stanford) — Continues MHP data alignment collaboration; 2+ exchanges
 
-**Key External Contacts:**
-- **Krateo Sky** (sona@krateosky.com, Thibault@krateosky.com, Bob@krateosky.com, Lisa Marie@krateosky.com, Roger@krateosky.com, Adria@krateosky.com) — Major recurring external partner; multiple team members, suggesting active project engagement
-- **Invest Ottawa** (Maia Varanda, Stephen Rowlands — investottawa.ca) — Government/economic development contact; Arctic UAS location/demo coordination
-- **Aleutian Aerial** (Andy Dietrick) — Continues from prior data; weather observations partnership
-- **Stanford University** (Tanay Topac — tanaytopac@stanford.edu) — MHP data alignment; routed through Nathaniel Straus
-- **Nextechsol** (Trenton McKibben, Chris Pitfield — nextechsol.com) — Ottawa Demo coordination; call request flagged
+**Key External Contacts & Organizations:**
+- **Krateo Sky** (Thibault Bridel-Bertomeu, Roger Riley) — Multi-party technical job description discussion (23 Jun, multiple IMPORTANT exchanges); Maciej appears as CC'd recipient rather than lead; suggests active partnership or hiring collaboration
+- **Halo Aero** (Daniel Hesselius) — NEW; "Navy Topic" thread; IMPORTANT; suggests defence/naval sector engagement or partnership
+- **Invest Ottawa** (Maia Varanda, Noah Ray) — Arctic UAS Location Change coordination (23 Jun, 3+ exchanges); demonstrates active government relations
+- **C-Astral** (Samo Stopar, Nejc Trost — Non-US) — NEW; included in "Critical Component Tiger Team (C2T2) Proposal" (23 Jun 14:59, IMPORTANT, multi-org vendor list)
+- **Inspired Flight** (Rick Stollmeyer, Nick Winsick) — NEW; included in C2T2 proposal
+- **Vantage Robotics** (Tobin Fisher) — NEW; included in C2T2 proposal
+- **Grant Engine** (Dan Garcia — grantengine.com) — NEW; unsolicited "Counter-UAS Funding: DoW / Navy / NATO" outreach (23 Jun 11:00)
+- **UCAR** (James Pinto) — Continues atmospheric research collaboration; now also includes COTAK Summit discussion
+- **QuSpin** (Jeffrey Orton — jorton@quspin.com) — NEW; indirect (routed via Sam Hild 23 Jun 15:57–16:28, IMPORTANT); suggests sensor/instrumentation vendor involvement
 
-**Suppliers/Vendors:**
-- **PCBWay** (sales01@pcbway.com, support05@pcbway.com) — PCB assembly and import duties (high-volume procurement pattern)
-- **McMaster-Carr** (chi.sales@mcmaster.com) — Industrial/mechanical components
-- **RacePow** (sales05@racepow.com) — High-energy-density solid-state batteries; unsolicited sales inquiry
+**Suppliers/Vendors (continued):**
+- **PCBWay** — Continues (invoices)
+- **Worldwide Express** — NEW; active shipping/import (invoice 24 Jun 07:45)
+- **Pirate Ship** — NEW; shipping adjustments (24 Jun 06:35)
+- **Craters & Freighters Denver** — Continues from prior data; air waybill 2989903372 (23 Jun 17:36)
+- **Sunpower/Defond Tech** (Leo Lyn, leo.liu@defondtech.com) — NEW; unsolicited cylindrical lithium battery sales (24 Jun 14:56)
 
-**Internal BST:**
-- Joshua Fromm, Nathaniel Straus (secondary coordinators on MHP/technical threads)
-
-**Academic/Research:**
-- **James Pinto** (pinto@ucar.edu) — UCAR (University Corporation for Atmospheric Research); wind heading corrections discussion (technical collaboration)
-- **Bassil El Masri** (belmasri@murraystate.edu) — Murray State University; equipment shipping coordination
+**Automated/Newsletters:**
+- **T-Mobile USA** (billing notifications)
+- **Rockies Venture Club** (newsletter, 24 Jun 04:34)
+- **Spindrift** (subscription order, 24 Jun 04:02)
+- **WaiverDigital** (waiver submission confirmation, 23 Jun 16:52)
+- **NOAA Federal via Sales** (Joseph Orlando — invoice/shipment status, 23 Jun 09:43)
 
 ## Topic Patterns
 
 **Active Work Areas:**
 
-1. **Arctic UAS Project** — High priority; multiple threads (22 Jun 11:20–20:53)
-   - Location change coordination with Invest Ottawa (Maia Varanda, Stephen Rowlands)
-   - Internal team alignment (Beck Cotter, Jack Elston, Daniel Prendergast)
-   - Canadian Ranger Demo and Engineering Sprint for Demo 2 mentioned
-   - Suggests operational deployment or demo in Arctic/Canadian region
+1. **Arctic UAS Project** — Continues high priority; location change coordination
+   - "Arctic UAS Location Change" thread (23 Jun, 3+ exchanges with Maia Varanda & Noah Ray, IMPORTANT)
+   - Maciej direct response to Maia Varanda at 10:56 AM and 09:58 AM (23 Jun)
+   - Suggests operational/logistical adjustment mid-deployment or demo
 
-2. **Krateo Sky Partnership** — Ongoing technical engagement
-   - "Additional Updates" exchanges (multiple 22 Jun threads)
-   - Technical job description discussion with Thibault Bridel-Bertomeu
-   - Motor information request (Roger Riley to Joshua Fromm)
-   - "Congratulations!" thread suggests milestone or hiring
+2. **COTAK Summit** — NEW; emerging work area
+   - James Pinto → Maciej & Jack Elston (23 Jun 12:22, IMPORTANT)
+   - Maciej reply at 12:40 PM same day
+   - "COTAK" = Convergence on Autonomous Technology (or similar); atmospheric/wind-related context suggests connection to MHP/weather observation
+   - Time-sensitive coordination
 
-3. **MHP Data Alignment** — Continues from prior data
-   - Tanay Topac (Stanford) → Nathaniel Straus (BST) relay
-   - Data alignment research/development ongoing
+3. **Wind Heading Corrections / Atmospheric Data** — Continues, now active
+   - Maciej ↔ James Pinto (UCAR) 23 Jun 12:31 PM, 13:21 (sent & received, IMPORTANT)
+   - Technical weather/wind data refinement ongoing
 
-4. **Ottawa Demo** — Time-sensitive
-   - Maciej direct outreach to Trenton McKibben (Nextechsol) on "Quick call about Ottawa Demo for Black Swift" (11:38 AM, 22 Jun)
-   - Suggests active business development or product demo in Ottawa (consistent with earlier Expedia/travel flag)
+4. **MHP Data Alignment** — Continues
+   - Tanay Topac (Stanford) → Maciej (24 Jun 00:19, IMPORTANT)
+   - Maciej sent response 23 Jun 08:48 AM
 
-5. **Defence/Naval Projects** — Continues from prior data
-   - Merlin Mk2/US Navy SBIR (Beck Cotter → Simon Laurence, MOD)
-   - Still active on 22 Jun
+5. **Navy/Defence Sector** — NEW; emerging priority
+   - "Navy Topic" thread with Daniel Hesselius (Halo Aero, 23 Jun 09:26–15:30, IMPORTANT, 3+ exchanges)
+   - Suggests naval UAS, counter-UAS, or maritime sensor application
+   - Counter-UAS funding outreach from Grant Engine (Dan Garcia, 23 Jun 11:00)
 
-6. **Wind/Weather Observations** — Technical
-   - James Pinto (UCAR) → Maciej on wind heading corrections (15:50, 22 Jun, IMPORTANT)
-   - Suggests data collection or atmospheric measurement work
+6. **Critical Component Tiger Team (C2T2) Proposal** — NEW; significant
+   - Roger Riley (Krateo Sky) → 7-org vendor list: Jack Elston (BST), Maciej (BST), Inspired Flight (Rick Stollmeyer, Nick Winsick), Vantage Robotics (Tobin Fisher), C-Astral (Samo Stopar, Nejc Trost), plus Rick Stollmeyer
+   - Dated 23 Jun 14:59 (IMPORTANT)
+   - Suggests industry collaboration on critical UAS components or subsystems; likely government/defence solicitation
 
-7. **NanoVeu Meeting Coordination**
-   - Daniel Prendergast to multiple NanoVeu team members (Nikhila Ravikumar, Mohamed Sabry, Mark Goranson, Scott Smyser, Tom Wilp, Sergio Ruocco)
-   - "Tonight's Meeting" (22 Jun 16:31)
-   - Possible partnership or vendor meeting
+7. **Krateo Sky Partnership** — Continues; technical job description
+   - Multi-party thread: Thibault Bridel-Bertomeu ↔ Jack Elston (23 Jun 08:37–09:45 AM, multiple IMPORTANT exchanges)
+   - Maciej appears as CC'd observer rather than active participant
+   - Suggests technical hiring or role definition within partnership
 
-**Procurement/Supply Chain:**
-- PCB assembly (centroid file issues, import duty payments — active manufacturing)
-- McMaster-Carr orders (mechanical/structural components)
-- High-energy battery evaluation (RacePow solid-state inquiry)
-- Equipment shipping from Craters & Freighters of Denver (DEN-920134)
+8. **QuSpin Sensor/Technical** — NEW; indirect involvement
+   - Sam Hild (BST) ↔ Jeffrey Orton (QuSpin) (23 Jun 15:57–16:28, IMPORTANT)
+   - Maciej not direct participant; appears on knowledge file as related contact; sensor/instrumentation evaluation likely
 
-**Automated/Promotional:**
-- PCBWay assembly alerts, McMaster-Carr confirmations, RacePow unsolicited battery offer
+**Procurement/Logistics:**
+- Arctic UAS location change coordination (logistics/operational adjustment)
+- International shipping (Worldwide Express invoice 24 Jun; Craters & Freighters air waybill 23 Jun; Pirate Ship adjustments 24 Jun)
+- NOAA Federal invoice/shipment status (23 Jun) suggests customer fulfillment or demo unit
+- WaiverDigital waiver submission (23 Jun 16:52) — possibly regulatory/airspace waiver for Arctic or naval testing
 
-## Communication Patterns
-
-- **Email aliases:** Continues use of both `maciej.stachura@blackswifttech.com` and `stachura@blackswifttech.com`
-- **Monday concentration:** Bulk activity on 22 Jun (Monday) — 20+ messages; suggests weekly project sync/coordination cadence
-- **Response timing:** Quick turnarounds; direct outreach at 11:38 AM (Nextechsol call), 12:02 PM (Invest Ottawa reply), 12:44 PM (Stanford coordination)
-- **Group dynamics:** Often appears as recipient on internal threads rather than direct sender in this batch; suggests listening/tracking role or secondary coordination
-- **International coordination:** Emails spanning multiple timezones (+0000 UTC to -0600 Mountain time), including non-US contacts (Krateo Sky — Thibault flagged "Non-US")
-- **IMPORTANT flag density:** ~70% of emails marked IMPORTANT, suggesting critical project phase or team filtering for Maciej's attention
-
-## Key Relationships
-
-**Closest Collaborators:**
-1. **Jack Elston** (internal) — Primary internal relay; appears on most active threads as coordinator/responder
-2. **Beck Cotter** (internal) — Co-owner of Arctic UAS thread; defence project liaison
-3. **Daniel Prendergast** (internal) — Leadership/logistics coordination; Arctic UAS sponsor
-4. **Sona Raziabeegum** (Krateo Sky, external) — Technical partner; active multi-party dialogue
-5. **Maia Varanda** (Invest Ottawa, external) — Arctic UAS demo/location sponsor; direct Maciej engagement
-
-**Secondary External Relationships:**
-- **Tanay Topac** (Stanford) — Research collaboration (routed through Nathaniel Straus)
-- **James Pinto** (UCAR) — Technical collaboration on atmospheric data
-- **Trenton McKibben** (Nextechsol) — Ottawa Demo vendor/partner
-- **Andy Dietrick** (Aleutian Aerial) — Weather observation ops partner (continues from prior data)
-
-## Notable Observations
-
-- **Arctic Operations Focus:** Arctic UAS project is clearly high-priority (multiple daily threads, government/economic development partner engagement, demo scheduling). "Arctic" + "Canadian" + "Ranger" terminology suggests northern deployment or operational capability demonstration.
-
-- **Manufacturing/Hardware Phase:** PCBWay assembly errors, battery procurement, McMaster-Carr orders, and Craters & Freighters shipping all point to active hardware build/integration cycle. Centroid file issues suggest complex PCB assembly.
-
-- **Multi-stakeholder Coordination:** Arctic UAS thread involves Invest Ottawa (Canadian economic development), internal BST leadership, and technical teams — indicates significant business development or government/defence contract phase
+**Non-substantive Traffic:**
+- T-Mobile billing (24 

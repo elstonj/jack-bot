@@ -1,79 +1,84 @@
 # Dan Prendergast — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 11 emails
-- **Date range:** June 22, 2026 (single day snapshot)
-- **Volume estimate:** High activity day with 11 messages; mix of sent, received, and forwarded items
+- **Total messages scanned:** 20 emails across two snapshots
+- **Date range:** June 22-24, 2026
+- **Volume estimate:** High sustained activity; 11 messages on Jun 22, 9 messages on Jun 23-24. Consistent daily engagement across operational and coordination tasks.
 
 ## Key Correspondents
 
 ### Top Senders (to Dan)
-1. Bassil El Masri (belmasri@murraystate.edu) — 1 direct + forwarded
-2. Robert Correia (rcorreia@aeronet.com) — Battery/logistics coordination
-3. Nathaniel Straus (nate.straus@blackswifttech.com) — Internal, product delivery
-4. Maia Varanda (mvaranda@investottawa.ca) — Arctic project coordination
-5. Simon Laurence (Simon.Laurence157@mod.gov.uk) — UK Ministry of Defence
+1. Noah Ray (nray@investottawa.ca) — Arctic UAS project coordination
+2. Zachary O Kachel (zachary.o.kachel.mil@socom.mil) — SOCOM RFI responses
+3. Craters & Freighters (noreply@cratersandfreighters.com) — Shipping logistics
+4. Bassil El Masri (belmasri@murraystate.edu) — Supply chain/testing
+5. Expedia.com — Automated promotional (newsletter)
 
 ### Top Recipients (from Dan)
-1. Nanoveu team — 6 recipients in single email (Nikhila Ravikumar, Mohamed Sabry, Mark Goranson, Scott Smyser, Tom Wilp, Sergio Ruocco)
-2. Bassil El Masri (belmasri@murraystate.edu) — Multiple exchanges
-3. Krateo Sky team (Bob Smith, Lisa Marie Cheney)
-4. Maia Varanda (mvaranda@investottawa.ca)
-5. US SOCOM (Zachary O Kachel, mil address)
+1. Zachary O Kachel (SOCOM) — Government stakeholder engagement
+2. Invest Ottawa team (Noah Ray, Maia Varanda, Stephen Rowlands) — Arctic UAS project
+3. Internal BST team (Maciej Stachura, Beck Cotter, J. Elston) — Cross-functional coordination
+4. Murray State partners (Bassil El Masri, Robert Correia) — Logistics/testing
+5. Nanoveu team (6+ recipients) — Multi-party meetings
 
 ### Internal vs External
-- **Internal:** Nathaniel Straus, Beck Cotter (Black Swift)
-- **External (primary):** Academic (Murray State University), logistics vendors (Craters & Freighters, Aeronet), Canadian partners (Invest Ottawa), UK Ministry of Defence, SOCOM
+- **Internal:** Maciej Stachura, Beck Cotter, J. Elston (Black Swift)
+- **External (primary):** Government (US SOCOM), Canadian partners (Invest Ottawa), Academic (Murray State), Logistics vendors (Craters & Freighters, Aeronet), Nanoveu
 
 ## Topic Patterns
 
 ### Active Projects/Operations
-1. **Arctic UAS** — Location change coordination (with Invest Ottawa)
-2. **Canadian Ranger Demo** — Engineering sprint planned (with Krateo Sky)
-3. **S3 delivery and training** — Product delivery milestone (Nathaniel Straus, UMES contact Chris Hartman)
-4. **Merlin Mk2/US Navy SBIR** — Government contract (UK MOD & US Navy focus)
-5. **RFI S0** — US Special Operations Command inquiry
+1. **Arctic UAS Location Change** — Primary focus across Jun 22-23; multi-party coordination with Invest Ottawa (Noah Ray, Maia Varanda, Stephen Rowlands)
+2. **Black Swift Prep Flight** — New activity emerging (Jun 23); involves internal team (Beck Cotter, J. Elston) and Invest Ottawa stakeholders
+3. **RFI S0 (SOCOM)** — Ongoing US Special Operations inquiry; Dan responding directly to Zachary O Kachel
+4. **S3 Delivery & Training** — Product delivery milestone continuing from Jun 22
+5. **Merlin Mk2/US Navy SBIR** — Government contract thread continuing
+6. **MHP Data Alignment** — New project flagged (forwarded to Dan via Maciej Stachura from Tanay Topac at Stanford)
 
 ### Recurring Logistics/Supply Chain
-- Battery shipment returns and quotes (Aeronet, Quote #141681)
-- Equipment shipping coordination (Craters & Freighters, Order DEN-920134)
-- Murray State University involvement in fulfillment/testing
+- Order DEN-920134 shipped confirmation (Craters & Freighters, Jun 23)
+- Multi-party logistics tracking (Bassil El Masri, Robert Correia, A. Sepulveda from Aeronet added to shipment notification)
+- Battery returns and component sourcing
 
 ### Key External Organizations
-- **Nanoveu** — Multi-person meeting coordination (6 attendees)
-- **Krateo Sky** — Demo/engineering partner
-- **Invest Ottawa** — Arctic UAS location/logistics
+- **Invest Ottawa** — Arctic UAS primary partner; escalating engagement (Noah Ray now directly looping in Stephen Rowlands, suggesting decision-maker involvement)
+- **US SOCOM** — Government customer on RFI S0
+- **Murray State University** — Testing/fulfillment partner
+- **Craters & Freighters** — Primary logistics vendor
 - **Aeronet** — Battery/component supplier
-- **Murray State University** — Testing/evaluation site
+- **Stanford University** — MHP data alignment project (Tanay Topac connection via Maciej Stachura)
+- **Nanoveu** — Multi-party coordination
 
 ## Communication Patterns
 
-- **All activity on single day (Jun 22)** — No pattern visibility beyond this date
-- **Time zones:** Dan operates across UTC, Eastern, Central, and Mountain time zones (suggests US-Canada operations)
-- **Mix of operational and coordination emails** — Both logistics and strategic project management
-- **Group coordination:** Uses multi-recipient emails for team alignment (Nanoveu meeting, Canadian Ranger demo)
-- **Automated shipping notifications:** Receives logistics confirmations as standard workflow
+- **Rapid escalation visible:** Arctic UAS Location Change thread shows acceleration from Jun 22 to Jun 23 with addition of senior Invest Ottawa stakeholder (Stephen Rowlands)
+- **Time zones:** Continues to span UTC, Eastern, Central, Mountain (US-Canada operations confirmed)
+- **IMPORTANT flagging:** Dan flags shipment confirmations and government responses as priority
+- **Direct government engagement:** Dan responding directly to SOCOM on classified/controlled information (RFI S0 marked "U" for Unclassified, Non-DoD Source)
+- **Newsletter filtering:** Expedia promotional emails present but not part of operational workflow
+- **CC/BCC patterns:** Large multi-recipient emails for team alignment (6+ person Invest Ottawa/BST coordination on Prep Flight)
 
 ## Key Relationships
 
 ### Closest Internal Collaborators
-- **Nathaniel Straus** — Product delivery coordination (S3)
-- **Beck Cotter** — Arctic project stakeholder
+- **Maciej Stachura** — Emerging as key operational coordinator; handling Invest Ottawa correspondence and Stanford project traffic
+- **Beck Cotter** — Arctic/Prep Flight stakeholder
+- **J. Elston** — Prep Flight participant (likely operations/flight planning)
 
 ### Key External Relationships
-- **Bassil El Masri** (Murray State) — Repeated exchanges on shipments/orders; likely testing/evaluation lead
-- **Maia Varanda** (Invest Ottawa) — Arctic UAS project lead; coordinates location strategy
-- **Nanoveu team** — Large group coordination; appears to be meeting/partnership activity
-- **Krateo Sky** (Bob Smith, Lisa Marie Cheney) — Demo partner for Canadian Ranger initiative
-- **Zachary O Kachel** (US SOCOM) — Government stakeholder on RFI response
-- **Robert Correia** (Aeronet) — Battery/component supply chain
-- **Simon Laurence** (UK MOD) — Merlin Mk2 / SBIR program contact
+- **Noah Ray & Maia Varanda** (Invest Ottawa) — Arctic UAS project leads; Noah Ray escalating to senior stakeholder (Stephen Rowlands) suggests critical decision point
+- **Zachary O Kachel** (US SOCOM) — Direct government customer relationship; controlled information exchange
+- **Bassil El Masri** (Murray State) — Continued logistics/testing partnership (now receiving shipment notifications directly)
+- **Tanay Topac** (Stanford) — New academic contact on MHP data alignment project
+- **Robert Correia & A. Sepulveda** (Aeronet) — Battery/component supply chain expansion (both now on shipping notifications)
 
 ## Notable Observations
 
-- **Geographic spread:** Operations span Canada (Ottawa), USA (multiple states), and UK; suggests international UAS/defense contracts
-- **Government/SOCOM engagement:** Direct contact with US Special Operations Command indicates high-level government customer relationship
-- **Logistics-heavy workflow:** Significant portion of emails involve supply chain coordination, suggesting hardware deployment phase
-- **Academic partnerships:** Murray State University involvement suggests testing/evaluation partnership
-- **Multiple simultaneous projects:** Arctic UAS, Canadian Ranger demo, Merlin Mk2 SBIR, and S3 delivery all active same day
-- **Marked as IMPORTANT/UNREAD:** Battery return and SOCOM RFI flagged as priority items
+- **Arctic UAS Location Change escalating:** Addition of Stephen Rowlands (Invest Ottawa decision-maker) suggests critical decision or issue escalation on Jun 23
+- **New flight prep activity:** "Black Swift Prep Flight" emerging as active initiative with internal-external coordination
+- **SOCOM engagement intensity:** Direct responses to government RFI with controlled information handling (marked "(U) [Non-DoD Source]")
+- **Maciej Stachura emerging as operations hub:** Handling Invest Ottawa coordination and Stanford academic project traffic; potential operations/partnerships lead
+- **Expanding vendor communication:** Aeronet now added to multi-party shipment notifications (previously one-to-one with Robert Correia); suggests scaling or formal vendor coordination
+- **MHP Data Alignment (Stanford):** New project thread; unclear if development, research, or customer engagement, but flagged IMPORTANT by Maciej Stachura
+- **Logistics confirmation protocols:** Structured multi-party notifications (vendor + Dan + Murray State + Aeronet) suggest formal procurement/testing workflow
+- **Time-sensitive activity:** High frequency of IMPORTANT-flagged emails on consecutive days indicates urgent project phase (Arctic location decision, Prep Flight coordination)

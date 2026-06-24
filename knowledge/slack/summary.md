@@ -1,73 +1,79 @@
 # Slack Channels Overview
 
-Last scanned: 2026-06-23 02:15
+Last scanned: 2026-06-24 02:18
 
 Total channels scanned: 8
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 7 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#commercial-sales** -- 9 messages -- [commercial-sales.md](commercial-sales.md)
-- **#emass-bst** -- 1 messages -- [emass-bst.md](emass-bst.md)
-- **#general** -- 1 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 28 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#marketing** -- 3 messages -- [marketing.md](marketing.md)
-- **#s3** -- 45 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 2 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#25_1-navy-sbir-magnetometer** -- 5 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#commercial-sales** -- 15 messages -- [commercial-sales.md](commercial-sales.md)
+- **#flight-testing** -- 14 messages -- [flight-testing.md](flight-testing.md)
+- **#general** -- 3 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 11 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#marketing** -- 2 messages -- [marketing.md](marketing.md)
+- **#operations** -- 2 messages -- [operations.md](operations.md)
+- **#s3** -- 18 messages -- [s3.md](s3.md)
 
 ## Strategic Summary
 
 # Black Swift Technologies - Cross-Channel Strategic Overview
 
-## Active Projects
-- **S0 (Hurricane Reconnaissance)**: SBIR-funded unmanned aircraft for hurricane reconnaissance; mature project with extensive operational history (2020-2026)
-- **S3 (VTOL)**: Long-endurance hybrid fixed-wing/quadcopter with 2-3 hour endurance; in active development
-- **E2 Platform**: Operational aircraft serving as integration test-bed for multiple payload systems
-- **Navy Magnetometer (MAD)**: SBIR project integrating QuSpin magnetometers for magnetic anomaly detection
-- **eMASS AI Energy Management**: Integration of ECSDoT hardware onto E2 platform for energy optimization
-- **Commercial Product Line**: E2, S2, S3, S0 variants sold to academic, government, and international customers
+## Active Projects & Products
+- **S3 VTOL**: Hybrid fixed-wing/quadcopter with tilting rotors; 2-3 hour endurance; primary focus in #s3
+- **Navy SBIR Magnetometer**: Integration of QuSpin magnetometers for Magnetic Anomaly Detection (MAD); external collaboration
+- **S-Series Aircraft**: Fixed-wing platforms actively flight tested
+- **E2 & Multirotor Platforms**: Commercial and research applications
+- **S0/S1-VTOL variants**: In development/testing phase
 
-## Key Decision-Makers & Leadership Structure
-- **Jack Elston**: Chief technical decision-maker; oversees proposals, funding strategy, systems architecture, and strategic direction
-- **Maciej**: Project oversight, technical support, control systems expertise
-- **Dan Prendergast**: Business development and operations lead
-- **Joshua Fromm**: Lead engineer/designer for aircraft platforms
-- **Meredith Needham**: Budget and administrative management
+## Key Decision Makers & Roles
+| Name | Primary Role(s) |
+|------|-----------------|
+| **Jack Elston** | CEO/Systems Architect; final proposal approval; strategic direction |
+| **Maciej** | Lead Flight Testing; technical proposal support; project oversight |
+| **Joshua Fromm** | Lead Engineer/Hardware; QA; shop operations |
+| **Meredith Needham** | Finance; budgeting; administrative coordination |
+| **Dan Prendergast** | Business Development; operations |
+| **Parker Vollmer** | Marketing leadership |
 
 ## Cross-Channel Themes
 
-### Funding & Growth
-- Aggressive SBIR pursuit across multiple agencies (Navy, Air Force, etc.)
-- Grant strategy centralized in #grants-and-funding; outcomes flow to #general
-- Budget constraints influence project timelines and resource allocation
-- Government contracting drives product development roadmap
+### Funding & Growth Strategy
+- Heavy emphasis on government grants (NASA, DOD, NOAA, USDA)
+- Jack Elston drives proposal review and funding decisions
+- Budget development tied to technical feasibility (Maciej's input critical)
+- Commercial sales and grants pursued in parallel
 
-### Technical Integration Patterns
-- Modular aircraft platform approach: same airframes (E2, S3) support multiple payloads/missions
-- Recurring integration challenges: payloads require custom autopilot/firmware modifications
-- Testing methodology consistent across projects: simulation → bench testing → flight validation
-- External partnerships (eMASS AI, universities) managed through dedicated channels but coordinated via #general
+### Technical Execution
+- Flight testing (#flight-testing) validates all platform improvements
+- Firmware development (Jack Elston, Sam Hild) cascades across multiple platforms
+- Component sourcing and QA coordinated through operations
+- External partnerships (Navy SBIR) require specialized integration work
 
-### Operational Decision Patterns
-- Leadership consensus-building through #general announcements before execution
-- Technical debates resolved in project-specific channels (#s3, #sbir-hurricane, etc.)
-- Budget decisions cascade from #grants-and-funding to project channels
-- Commercial commitments drive priority allocation across SBIR/R&D work
+### Operational Coherence
+- #operations functions as central coordination hub
+- #general used for company-wide announcements (strategy, hiring, milestones)
+- #commercial-sales and #grants-and-funding feed funding needs back to operations
+- Marketing (#marketing) coordinates external narratives across all initiatives
 
-## Key Personnel Network
-**Core Technical Team**: Joshua Fromm, Jack Elston, Sam Hild, Maciej, Beck Cotter
-**Business/Operations**: Dan Prendergast, Meredith Needham, Parker Vollmer
-**Project-Specific Leads**: Danny Troke (hurricane ops), Nikhila (eMASS integration), Tyler (magnetometer testing)
+## Recurring Decision Patterns
+1. **Jack Elston approval required** for: major proposals, funding strategy, strategic hires
+2. **Technical feasibility first**: Maciej/Joshua validate before commitments
+3. **Operations coordinates**: Procurement, timeline, resource allocation across channels
+4. **Marketing aligned late**: Content/messaging developed after project decisions finalized
 
-## Recurring Topics Across Channels
-- **Flight testing logistics**: Scheduling, weather windows, safety protocols
-- **Resource constraints**: Personnel bandwidth, equipment availability, budget limitations
-- **Payload integration complexity**: Each new system requires significant autopilot/firmware customization
-- **Customer delivery timelines**: Commercial sales drives pressure on engineering schedules
-- **SBIR compliance**: Regulatory requirements impact project documentation and reporting
+## Information Flow
+```
+Grants/Funding Opportunities 
+    ↓
+Technical Feasibility (Flight Testing, S3, Mag)
+    ↓
+Operations (Budget, Procurement, Timeline)
+    ↓
+Commercial Delivery & Marketing
+```
 
-## Connecting Patterns
-1. **SBIR Projects Feed Commercial Line**: S0 hurricane system and magnetometer projects generate IP and capabilities offered commercially
-2. **Aircraft Platform Reuse**: S3 and E2 development efforts leverage learnings across channels; modular designs benefit multiple projects
-3. **Staffing Bottlenecks**: Same core engineers (Jack, Joshua, Sam, Maciej) appear across 4+ major projects; resource contention managed through #general prioritization
-4. **Funding → Timeline Cycle**: Grant awards in #grants-and-funding directly affect project schedules discussed in project channels
+## Notable Gaps/Connections
+- **Navy SBIR <→ S3**: Magnetometer integration pathway not fully visible; potential synergy
+- **Commercial Sales <→ Grants**: Customer demands could inform future SBIR/grant applications
+- **Marketing <→ Technical**: Limited cross-channel visibility; messaging may lag actual capabilities

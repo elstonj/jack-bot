@@ -62,4 +62,4 @@
 **Key contacts:**
 - **Nate Straus** — [001-12] project owner; CU-IRISS repair/training owner
 - **Maciej Stachura** — S3 build coordination & project tracking owner (April 30 task requests stalled)
-- **Joshua Fromm** — S3 design/
+- **Joshua Fromm** — S3 customer delivery

@@ -4,92 +4,57 @@
 
 | Project Code | Client | Total Budget | Contract Type | Period of Performance | Status |
 |---|---|---|---|---|---|
-| **301-2** | University of Miami (NOAA/AOML Hurricane Research) | $986,000 | Services Agreement (R&D) | 10/31/2021 – 06/30/2025 | Active; Extended via addendum (Oct 2024) |
-| **550-1** | United States Navy (DoN) | *See breakdown below* | SBIR Phase I (Base) + Phase II Option | 01/2027 – 06/2030 | Proposed/Planning Phase |
+| **301-2** | University of Miami (NOAA/AOML) | $986,000 | Services Agreement (R&D) | 10/31/2021 – 06/30/2025 | Active, Extended |
+| **550-1** | U.S. Navy (DON) | TBD* | SBIR Phase I (Base) + Phase II Option | 01/2027 – 06/2029 (Base); 07/2029 – 06/2030 (Option) | Future Start |
 
----
-
-## Budget Details by Project
-
-### Project 301-2
-- **Funding Source:** University of Miami / NOAA (Tropical Cyclone Research)
-- **Contract Value:** $986,000 (as of October 2024 addendum)
-- **PO Number:** PO-0000470189 (issued 02/02/2022)
-- **Key Contacts:** Jun Zhang (UMiami/CIMAS); Dr. Joseph Cione (NOAA/AOML/HRD)
-- **Contract Type:** Research & Development Services Agreement
-- **Timeline:** ~3.5 years with extensions
-- **Notes:** Contract has been modified via addenda; latest extension through June 2025
-
-### Project 550-1
-- **Funding Source:** U.S. Department of Navy (SBIR Program)
-- **Contract Number:** N6833525C0492
-- **Prime Contractor:** Black Swift Technologies, LLC
-- **Subcontractor:** Ultra Maritime
-- **Project Title:** Navy SBIR: Magnetometer
-
-**Phase II Proposed Budget (Base Period: 30 months, Jan 2027–Jun 2029):**
-| Category | Amount |
-|---|---|
-| Direct Labor | $207,368 |
-| Fringe Benefits (29.28%) | $60,717 |
-| Labor Overhead (46.67%) | $125,115 |
-| Subcontract Costs | *[Data incomplete in source]* |
-| **Subtotal (Partial)** | **$393,200+** |
-
-**Option Period I:** July 2029 – June 2030 (12 months) [Budget details not provided]
+*Project 550-1 budget documentation appears incomplete in provided data; Phase II cost proposal referenced but full budget not captured.
 
 ---
 
 ## By Funding Source
 
-| Funding Source | Projects | Total Identified Budget |
+| Funding Source | Project(s) | Total Funded |
 |---|---|---|
-| **Federal (Navy SBIR)** | 550-1 | $393,200+ (Phase II Base only; Phase I & Option not detailed) |
-| **Federal (NOAA via University of Miami)** | 301-2 | $986,000 |
-| **TOTAL IDENTIFIED** | 2 | **$1,379,200+** |
+| **NOAA (via University of Miami)** | 301-2 | $986,000 |
+| **U.S. Navy (SBIR)** | 550-1 | *[Data incomplete]* |
 
 ---
 
 ## By Contract Type
 
-| Contract Type | Projects | Count | Total Budget |
+| Contract Type | Project(s) | Count | Total |
 |---|---|---|---|
-| **SBIR Phase I + Phase II Option** | 550-1 | 1 | *Partial data ($393,200+ Base Phase II)* |
-| **R&D Services Agreement** | 301-2 | 1 | $986,000 |
+| **Services Agreement (R&D)** | 301-2 | 1 | $986,000 |
+| **SBIR Phase I** | 550-1 | 1 | *[Data incomplete]* |
 
 ---
 
 ## Financial Health Indicators
 
-### Project 301-2 (NOAA)
-✅ **Healthy Status**
-- Contract extended through June 2025 (addendum dated Oct 2024)
-- Established funding of $986,000
-- Ongoing relationship with NOAA/University of Miami
+### Project 301-2 (NOAA/Hurricane Research)
+- ✓ **Active with recent extension** (October 2024 addendum)
+- ✓ **Stable funding source** (U.S. government agency via university)
+- ⚠ **Approaching contract end** – Performance period expires 06/30/2025 (~6 months from latest addendum date)
+- **Recommendation:** Confirm current spend rate and remaining budget allocation; plan for project closeout or renewal negotiations
 
-⚠️ **Monitor:** Contract ends 06/30/2025 — plan for next phase or renewal
-
-### Project 550-1 (Navy SBIR)
-⚠️ **Early Stage / Planning Phase**
-- Performance period begins January 2027 (future)
-- Phase II proposal stage; base period budget partially documented
-- **Data Gap:** Phase I budget, Option I budget, and total subcontract costs not provided in available documents
-- Requires complete budget reconciliation once Phase I is finalized
+### Project 550-1 (Navy SBIR Magnetometer)
+- ⚠ **Future start date** (January 2027) – not yet active
+- ⚠ **Budget data incomplete** – Phase II cost proposal referenced but full budget totals not provided in documentation
+- **Recommendation:** Obtain complete Phase I and Phase II cost proposals; confirm funding allocation before project initiation
 
 ---
 
 ## QuickBooks Integration Notes
 
-- **Project 301-2:** No QuickBooks references in provided documentation — likely in Drive-only status or separate financial system
-- **Project 550-1:** No QuickBooks references in provided documentation — early-stage SBIR contract, may not yet be integrated into accounting
-
-**Recommendation:** Cross-reference both projects with QuickBooks records to verify spend tracking, accruals, and revenue recognition.
+- **Project 301-2:** Document references specific PO number (PO-0000470189) and contract amendments; recommend verification of spend-to-date in QuickBooks against $986,000 contract value
+- **Project 550-1:** No QuickBooks spend data available; project is pre-award/future-dated; establish cost tracking once contract is active
+- **Overall:** Recommend quarterly reconciliation of Drive-based budget documents with QuickBooks ledgers for both projects
 
 ---
 
-## Data Gaps & Recommendations
+## Outstanding Data Gaps
 
-1. **Project 550-1:** Missing Phase I budget amount, complete Phase II subcontract breakdown, and Option I period budget
-2. **Project 301-2:** No spend-to-date or remaining budget balance provided
-3. **Both Projects:** No QuickBooks transaction data provided; recommend accounting system reconciliation
-4. **Invoice Tracking:** No upcoming invoice schedule or milestone payment data documented
+- Project 550-1 Phase II total budget amount (referenced but not fully populated)
+- Project 301-2 current spend/remaining balance
+- Subcontractor budget allocation details for 550-1 (Ultra Maritime)
+- Invoice schedule or payment milestone dates for either project

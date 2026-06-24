@@ -1,0 +1,43 @@
+{
+  "asana_gid": "1211892779240607",
+  "asana_task_name": "S0-AD with ATR",
+  "customer": "NOAA UASD",
+  "customer_contact": "Joseph P. Orlando V, ENS",
+  "customer_email": "joseph.orlando@noaa.gov",
+  "receive_by": null,
+  "ship_to": "NOAA UASD",
+  "items": [
+    {
+      "description": "S0 Display Model with tripod and collar support",
+      "quantity": 1
+    },
+    {
+      "description": "Shipping to NOAA UxSOC",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "paid",
+  "build_state": "complete",
+  "ship_state": "awaiting_pickup",
+  "estimate_date": null,
+  "invoice_date": "2026-05-08",
+  "invoice_amount": 4580.0,
+  "invoice_number": "1762",
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "S0 Display Model invoice paid; customer (ENS Joseph Orlando, NOAA UASD) requesting shipping update as of 2026-06-23. Build complete and awaiting pickup/shipment.",
+  "missing_fields": [
+    "tracking_number",
+    "shipped_date"
+  ],
+  "last_evidence_date": "2026-06-23",
+  "last_contact_date": null
+}

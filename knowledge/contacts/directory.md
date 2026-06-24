@@ -108,15 +108,14 @@
 - **Unclassified:** 3 people (Beck Cotter, Daniel Prendergast, Jameel Barkat — roles/departments unknown)
 - **Service Accounts:** 2
 
-**Update Status:**
-- All 18 directory entries verified and confirmed across existing knowledge file and new raw data
+**Verification Status:**
+- All 18 directory entries verified and synchronized
 - All phone numbers normalized to consistent dash-separated format (e.g., 720-933-4503)
-- No changes detected — all data remains consistent and complete
-- No new hires, departures, or role changes identified in this sync
-- Directory is current as of this update
+- All data matches between existing knowledge file and new raw directory dump
+- No changes detected — all entries confirmed current and accurate
 
 **Notes:**
-- Three team members remain unclassified; recommend reaching out to leadership for role clarification
+- Three team members remain unclassified; recommend outreach to leadership for role clarification
 - BST maintains an engineering-focused organization with balanced technical and administrative support
 - Engineering intern program active with two positions filled
-- All contact information verified and standardized
+- All contact information verified and complete

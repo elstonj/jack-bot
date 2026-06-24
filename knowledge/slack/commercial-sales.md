@@ -2,19 +2,19 @@
 
 ## Overview
 
-The #commercial-sales channel is Black Swift Technologies' hub for customer orders, project delivery, and sales execution. It tracks aircraft systems (E2, S2, S3, S0, S0-VTOL), payload integrations, customer relationships, and the complete lifecycle from quotes through delivery and support. The channel shows active engagement with university research programs, government agencies (NASA, NOAA), and international customers, with discussion spanning technical specifications, shipping logistics, quality control, and troubleshooting.
+The #commercial-sales channel is Black Swift Technologies' hub for customer orders, project delivery, and sales execution. It tracks aircraft systems (E2, S2, S3, S0, S0-VTOL), payload integrations, customer relationships, and the complete lifecycle from quotes through delivery and support. The channel shows active engagement with university research programs, government agencies (NASA, NOAA), and international customers, with discussion spanning technical specifications, shipping logistics, quality control, troubleshooting, and payload data processing.
 
 **Key Participants:**
-- Jack Elston (leadership, customer relationships, technical decisions, travel coordination)
-- Joshua Fromm (manufacturing, technical implementation, battery/avionics work, shipping coordination)
+- Jack Elston (leadership, customer relationships, technical decisions, travel coordination, firmware/GCS troubleshooting)
+- Joshua Fromm (manufacturing, technical implementation, battery/avionics work, shipping coordination, aircraft configuration)
 - Melissa Phillips (shipping/logistics coordination)
-- Maciej Tromba (payload/camera work, customer communication, sales decisions, demo participation)
+- Maciej Tromba (payload/camera work, customer communication, sales decisions, demo participation, methane payload data processing)
 - Danny Troke (QC, testing, batteries)
 - Meredith Needham (shipping, logistics, quote coordination, invoice tracking)
 - Nate (assembly, QC flights, payload prep, GCS builds, quotes, training coordination, customer outreach)
 - Paige Smith (sales coordination, customer communication)
 - Beck Cotter (customer outreach, email coordination, S0/S0-VTOL ownership coordination, Arctic demo coordination, travel booking, presentation materials, meeting scheduling)
-- Ben Busby (team member, sales pipeline tracking)
+- Ben Busby (team member, sales pipeline tracking, payload packet analysis)
 - Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead, demo participation, presentation management, field operations coordination)
 - Dan H (CU - external customer, E2 battery interest)
 - Bassil (customer - methane research, travel May 19-June 9, 2026, field operations coordination)
@@ -27,7 +27,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - NREL (prospective customer - E2 training request, June 19, 2026)
 - Tanay (prospective customer/contact - scheduling discussions underway, June 21, 2026)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: June 22, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: June 23, 2026.
 
 ---
 
@@ -103,5 +103,4 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - **Issue identified (May 12, 2026):** Unit lacks old 14" prop; Josh Fromm noted discrepancy
 - **XML Configuration Review (May 12, 2026):** Jack Elston directed verification against S2 master setup; Nate confirmed XML check was completed before flap servo replacement
 
-**NASA S2 Delivery - Nosecone Inclusion (May 21, 2026)**
-- Dan Prendergast raised question about whether
+**NASA S2 Delivery -

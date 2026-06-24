@@ -4,7 +4,7 @@
 - **Client/customer:** Murray State University / Dr. Bassil El Masri (belmasri@murraystate.edu, 270-809-3110)
 - **Dollar value:** $86,862.94 total committed funding to Black Swift Technologies; additional $31k available pending Flight #4 confirmation (due 2026-06-29)
 - **Timeline:** Funding expires 2026-12-31. Flights #1 & #2 completed (Nov & Dec 2025). Flight #3 due 2026-05-27 (imminent, subject to competing project scheduling). S2 rental order due 2026-06-01. Flight #4 funding confirmation due 2026-06-29.
-- **Status:** **Active.** Flight #3 execution imminent; payload modifications in final stages (expected completion within 1 day per Joshua Fromm, 2026-06-03); S2 rental order and travel scheduling pending. Battery shipment to Mexico already completed—**destination change requires verification with Dr. Masri.**
+- **Status:** **Active.** Flight #3 execution imminent; payload modifications in final stages (expected completion within 1 day per Joshua Fromm, 2026-06-03); S2 rental order and travel scheduling pending. Battery shipment to Mexico completed with permanent import status—**destination change requires verification with Dr. Masri.**
 - **Team members involved:** Beck Cotter (owner/project lead), Jack Elston (lead technical/flight coordination), Joshua Fromm (payload engineering), Maciej Stachura (payload configuration), Nate Straus (software), Meredith O'Hara Needham (communications), Daniel Prendergast (logistics/battery shipment)
 - **Risk signals:**
   - **Flight #3 execution imminent (2026-05-27)** — subject to competing project scheduling (INSTAAR x2, Ottawa demo); execution order determined by "whatever happens first"
@@ -20,7 +20,7 @@
 - **Flight #3:** Due 2026-05-27 — **imminent execution subject to competing project scheduling**
 - **Payload Modifications (3 payloads + gimbal):** **In final stages** (Joshua Fromm, 2026-06-03). Parts arriving end of week. DB9 rewiring is primary remaining task. **Expected completion: within 1 day or less.** *(Per Joshua Fromm feedback, 2026-06-02/03)*
 - **S2 Aircraft Rental (2 units, S0 VTOL):** Order due 2026-06-01; training/travel required; **travel not yet scheduled** (Jack Elston)
-- **Battery Shipment to Mexico:** **Already completed** with permanent import status (per Daniel Prendergast, 2026-05-27/28); no ECCN obtained; customs broker documentation (Javi) on file. **Verify destination with Dr. Masri to confirm alignment with project scope.**
+- **Battery Shipment to Mexico:** **Completed** with permanent import status (per Daniel Prendergast, 2026-05-27/28); no ECCN obtained; customs broker documentation (Javi) on file. **Destination change requires confirmation with Dr. Masri to ensure alignment with project scope.**
 - **Flight #4 Funding Confirmation:** Due 2026-06-29 (Beck Cotter); $31k available from Dr. Masri
 
 ## Task Summary
@@ -35,13 +35,14 @@
     - Figure out why FLIR stopped triggering (no due date)
   - **Maciej Stachura:** 1 open task
     - Update overlap to 80% for FLIR and A5100 (no due date)
+  - **Joshua Fromm:** 0 tasks assigned in Asana (but actively delivering payload modifications per feedback)
   - **Unassigned:** 2 entries
     - Flight #3 milestone (Due: 2026-03-02 — note: Asana due date appears stale; actual execution due is 2026-05-27 per Beck Cotter's task)
     - Bassil El Masri contact card (High priority; no due date)
 
 ## Recent Activity
 - **2026-06-03 (Joshua Fromm feedback):** **Payload modifications in final stages.** All parts for Murphy's Pond payload modifications (3 payloads + gimbal) in process of ordering; most parts arriving end of week. DB9 rewiring is main remaining task (straightforward). **All modifications expected to complete within 1 day or less** once parts arrive.
-- **2026-05-28 (Daniel Prendergast feedback):** **Battery shipment to Mexico completed.** Daniel holds two emails documenting shipment history; no ECCN obtained; import fees paid as permanent to Mexico. Customs broker (Javi) documentation on file. Daniel ready to contact customs broker or reply to email chain with explanations if needed. **Battery destination change warrants confirmation with Dr. Masri** to ensure alignment with project scope.
+- **2026-05-28 (Daniel Prendergast feedback):** **Battery shipment to Mexico completed.** Batteries dispatched with permanent import status; no ECCN obtained; import fees paid as permanent. Customs broker (Javi) documentation on file. Daniel holds two emails documenting shipment history and is ready to contact customs broker or explain details to group if needed. **Battery destination change warrants confirmation with Dr. Masri** to ensure alignment with project scope.
 - **Imminent deadlines:**
   - S2 rental order due 2026-06-01 (Jack Elston; training/travel not yet scheduled)
   - Flight #4 funding confirmation due 2026-06-29 (Beck Cotter)
@@ -62,3 +63,4 @@
   - Methane payload data rate investigation pending (Jack Elston)
   - **Payload modifications in final stages** (Joshua Fromm, 2026-06-02/03); parts arriving end of week; expected completion within 1 day or less
 - **Scheduling context:** Project competes with INSTAAR x2 and Ottawa demo projects for resource allocation. Execution order determined by "whatever actually happens first" (Jack Elston)
+- **Battery & customs:** Batteries already shipped to Mexico; no ECCN obtained; permanent import fees paid
