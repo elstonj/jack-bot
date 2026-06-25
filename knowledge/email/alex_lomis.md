@@ -1,130 +1,102 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 28 emails across 2–24 Jun 2026
-- **Approximate volume:** Low activity period; ~1–2 emails per day during active days
-- **Note:** Heavy concentration of promotional/transactional; only 1 direct human-to-human email sent by Alex in original scan
-- **New scan (Jun 23–24):** 13 additional emails, 100% vendor/supplier confirmations and promotional content; no outbound emails from Alex
+- **Total messages scanned:** 44 emails across 22 Jun – 25 Jun 2026 (combined original + new scan)
+- **Approximate volume:** ~4–5 emails per day during active period; heavy on Jun 23–24
+- **Content mix:** ~75% vendor/transactional confirmations and promotional; ~20% newsletters/product updates; ~5% direct human communication
+- **Note:** Zero outbound emails from Alex across entire 44-email dataset; Alex appears to be monitoring/reviewing rather than originating orders
 
 ## Key Correspondents
 
-### Top Senders (to Alex or his aliases)
-1. **PCBWay Online Services Team** (support05, sales01) — 3 emails on procurement topics
-2. **McMaster-Carr** (chi.sales@mcmaster.com) — 3 emails (order confirmations, tracking)
-3. **GetFPV** (noreply@getfpv.com, chloe@getfpv.com) — 3 emails (promotional, marked IMPORTANT)
-4. **DigiKey** (via purchasing@blackswifttech.com) — 2 emails (shipment, action required)
-5. **Hitec RCD USA** (orders@hitecrcd.com) — 2 emails (order confirmation, registration)
-6. **Microhard Corp** (design.hub@microhardcorp.com) — 2 emails, marked IMPORTANT
-7. **HeliDirect** (sales@helidirect.com) — 2 promotional emails
-8. **RacePow** (sales05@racepow.com) — 1 email, marked IMPORTANT
-9. **Jawstec, Worldwide Express, Spindrift, Toggl Track, uAvionix** — 1 each
+### Top Senders (to Alex or purchasing aliases)
+1. **McMaster-Carr** (chi.sales@mcmaster.com, invoice.reply@mcmaster.com) — 6 emails (order confirmations, tracking, receipts)
+2. **GetFPV** (noreply@getfpv.com, chloe@getfpv.com) — 4 emails (promotional, marked IMPORTANT x2)
+3. **Hitec RCD USA** (orders@hitecrcd.com) — 3 emails (order confirmations, status updates)
+4. **DigiKey** (purchasing@blackswifttech.com routing) — 3 emails (PO acknowledgements, shipments)
+5. **JawsTec Manufacturing** (via purchasing@blackswifttech.com) — 2 emails (order confirmation, invoice payment request)
+6. **Driftaway Coffee** (ops@driftaway.coffee) — 1 email, marked IMPORTANT
+7. **Microhard Corp, HeliDirect, RacePow, Toggl Track, Spindrift, uAvionix, Dronetag** — 1 each
+8. **Newsletter/SaaS vendors:** Design Gateway, Grafana Labs, JuliaHub, Verizon, UnitedHealthcare — 5 total, marked IMPORTANT
 
 ### Top Recipients (from Alex)
-- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — 1 forwarded request (motor information)
-- **Purchasing@blackswifttech.com** — Appears as recipient on majority of vendor confirmations (shared purchasing inbox routing)
+- **No direct outbound emails from Alex in dataset**
+- **Purchasing@blackswifttech.com** — Acts as de facto primary inbox for 80% of vendor confirmations
+- **Alex's personal inbox (alex.lomis@blackswifttech.com or alex.lomis@bst.aero)** — Receives direct product/newsletter updates, SaaS marketing, and one human response
 
 ### Internal vs External
-- **Internal BST:** 1 email to Ethan Domagala
-- **External vendors/suppliers:** 19 emails (procurement, order confirmations, shipment tracking)
-- **Promotional/newsletters:** 8 emails
+- **Internal BST:** 0 emails sent; 1 received (Nathaniel Hoadley, PTC CAD/PLM response)
+- **External vendors/suppliers:** 23 emails (procurement, order confirmations, shipment tracking, payment requests)
+- **Promotional/newsletters:** 13 emails
+- **SaaS/enterprise tools:** 5 emails (Grafana, JuliaHub, Design Gateway, UnitedHealthcare, Verizon)
+
+### New Contacts/Organizations (Jun 24–25 scan)
+- **Driftaway Coffee** (ops@driftaway.coffee) — Coffee/beverage service (marked IMPORTANT; routed to purchasing@bst.aero domain variant)
+- **Dronetag** (no-reply@dronetag.info) — Drone identification/tracking product (promotional)
+- **Nathaniel Hoadley / PTC** (nhoadley@ptc.com) — Human contact; response to CAD/PLM inquiry (marked IMPORTANT)
+- **Design Gateway Newsletter** (dgnews@dgway.com) — Industry newsletter on zero-CPU solutions (marked IMPORTANT)
+- **JuliaHub** (events@emails.juliahub.com) — Scientific computing platform (NASA-validated models, marked IMPORTANT)
+- **Grafana Labs** (update@grafana.com) — Cloud infrastructure monitoring (marked IMPORTANT)
+- **Verizon B2B** (communications@b2binfo.verizonwireless.com) — Telecom/connectivity services (marked IMPORTANT)
+- **UnitedHealthcare** (UnitedHealthcare@advocate.uhc.com) — Health benefits notification (marked IMPORTANT)
 
 ## Topic Patterns
 
 ### Recurring Themes
-1. **Component procurement & supply chain** (dominant)
-   - PCBWay: PCB assembly orders, centroid files, import duty alerts
-   - McMaster-Carr: order confirmations, tracking certificates (3 emails in 48 hrs)
-   - DigiKey: PO acknowledgements, shipment notifications
-   - RacePow: high-energy-density battery specifications (400Wh/kg, 40000mAh, solid-state LiPo)
-   - Hitec RCD USA: servos/control systems (NEW — order confirmation + account registration)
-   - Jawstec: specialized components (order received confirmation)
-   - Worldwide Express: logistics/shipping invoice
+1. **Component procurement & supply chain** (dominant; 23 emails)
+   - McMaster-Carr: Hardware/mechanical components (6 orders in 4 days — escalating velocity)
+   - DigiKey: Electronic components & POs (3 emails)
+   - Hitec RCD USA: Servos/control systems (3 emails; new vendor, rapid ordering cycle)
+   - RacePow: Battery systems
+   - JawsTec: Specialized manufacturing components (payment requests now appearing)
+   - Jawstec payment tracking: Invoice 69507 awaiting processing through purchasing
 
-2. **Design & Engineering**
-   - Microhard Corp design hub file updates (2x, marked IMPORTANT)
-   - Motor information request (forwarded to Ethan)
+2. **Beverage/Subscription Services** (2 emails; organizational context unclear)
+   - Spindrift (Jun 23)
+   - Driftaway Coffee (Jun 24, marked IMPORTANT, routed to purchasing@bst.aero)
+   - **Interpretation:** Likely office supplies/team amenities rather than personal; centralized through purchasing
 
-3. **Retail/supplier monitoring** (hobby/product focus)
-   - GetFPV: marked IMPORTANT, FPV drone products (Fat Shark, general deals)
-   - HeliDirect: seasonal sale promotions
-   - uAvionix: promotional
+3. **Drone/UAV ecosystem** (5 emails, emerging pattern)
+   - GetFPV: FPV drone products (Fat Shark; marked IMPORTANT)
+   - Dronetag: Drone identification system (July 4th promotion; 5% off RIDER product)
+   - uAvionix: Aviation/drone tech
+   - **Signal:** BST likely developing or testing UAV-related products
 
-4. **Operational tools**
-   - Toggl Track: time tracking software (marked IMPORTANT, no subject — possible setup/notification)
-   - Spindrift: beverage subscription (anomalous — personal or office perk?)
+4. **Engineering/Design Tools & Services** (8 emails, marked IMPORTANT)
+   - **CAD/PLM:** Nathaniel Hoadley (PTC) — Direct response on "Connecting CAD and PLM" topic (human contact, project-related)
+   - **Design Gateway Newsletter:** "Zero-CPU Solutions Page - 5 Market Segments" (marked IMPORTANT; industry intelligence)
+   - **JuliaHub:** "From NASA specifications to validated models—without manual coding" (marked IMPORTANT; scientific computing)
+   - **Grafana Labs:** Cloud infrastructure monitoring (marked IMPORTANT; ops/monitoring focus)
+   - **Microhard Corp:** Design hub collaboration (ongoing from prior scan)
+
+5. **Enterprise/Operational Services** (3 emails, marked IMPORTANT but likely marketing)
+   - UnitedHealthcare: Benefits/wellness (weight loss programs)
+   - Verizon B2B: Telecom/connectivity
+   - These appear auto-flagged as IMPORTANT but are likely automated notifications
 
 ### Companies/Organizations Mentioned
-- **Procurement suppliers:** PCBWay, McMaster-Carr, DigiKey, RacePow, Hitec RCD USA, Jawstec, Worldwide Express
-- **Retail/hobbyist:** GetFPV (FPV drones), HeliDirect, uAvionix
-- **Partners/vendors:** Microhard Corp (design collaboration)
+- **Hardware procurement:** McMaster-Carr, DigiKey, Hitec RCD USA, JawsTec Manufacturing
+- **Advanced components:** RacePow (batteries), Microhard Corp (RF/comms), uAvionix (aviation electronics)
+- **Drone/UAV:** GetFPV, Dronetag, HeliDirect
+- **Engineering tools:** PTC (CAD/PLM), Grafana Labs (monitoring), JuliaHub (simulation/modeling)
+- **Design/research:** Design Gateway (industry newsletter)
+- **Office/team services:** Driftaway Coffee, Spindrift
 
 ## Communication Patterns
 
 ### Time Patterns
-- **Heavy cluster: Jun 23, 2026 (Tue)** — 10 of 13 new emails on single day
-- **Peak time window:** 10:17 AM–21:25 UTC (spread across ~11 hours, multiple time zones)
-- **Mix of US time zones:** CDT (-5), UTC (+0) — suggests either:
-  - Vendors distributed across US and international regions
-  - BST or purchasing team operates across multiple zones
-- **Early morning follow-up (Jun 24, 04:02 AM UTC):** Spindrift subscription, suggests automated overnight processing
+- **Heavy cluster: Jun 24, 2026 (Wed)** — 11 of 16 new emails; peak activity 08:04–23:45 UTC
+- **Spanning time zones:** CDT (-5), UTC (+0), -0400 — multi-zone supplier base
+- **Velocity acceleration:** Jun 23–24 shows sustained 10+ emails/day (compared to ~2/day baseline from earlier scans)
+- **Early morning batches:** 02:26, 03:28 UTC timestamps suggest overnight processing or vendor automation
 
 ### Email Classifications
 - **IMPORTANT flags concentrated on:**
-  - Design/engineering resources (Microhard Corp, Toggl Track)
-  - Retail/hobbyist products (GetFPV — 2x)
-- **CATEGORY_UPDATES vs CATEGORY_PROMOTIONS:** Clear distinction maintained in auto-categorization
-- **UNREAD status:** All 13 new emails unread at time of export, suggesting batch arrival and pending review
+  - Direct product updates (GetFPV ×2, Driftaway Coffee)
+  - Design/engineering newsletters (Design Gateway, JuliaHub, Grafana, PTC human response)
+  - Beverage/coffee service (Driftaway Coffee — organizational resource?)
+  - Enterprise tool marketing (Verizon, UnitedHealthcare)
+- **CATEGORY_PROMOTIONS vs CATEGORY_UPDATES:** Automated flags inconsistent; some genuine product updates marked PROMOTIONS, vice versa
+- **UNREAD status:** All 16 new emails unread at export; consistent batch ingestion pattern
 
-### Mailing Lists / Group Emails
-- **Purchasing@blackswifttech.com** — Consistent shared inbox pattern
-  - Acts as central distribution point for vendor confirmations
-  - McMaster-Carr, DigiKey, Harbor Freight, Worldwide Express all routed here
-  - Alex receives copies (or this is primary routing for procurement)
-- **GetFPV:** Direct to alex.lomis@blackswifttech.com (personal contact, not via purchasing)
-- **Toggl Track:** Direct to alex.lomis@blackswifttech.com (personal tool)
-
-## Key Relationships
-
-### Internal Collaborators
-- **Ethan Domagala** — Engineering/design peer (motor information exchange)
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Recipient of motor information from external contact
-
-### External Relationships (Appear Important)
-- **Roger Riley (Krateo Sky)** — Marked IMPORTANT, motor specifications expert
-- **RacePow sales team** — High-priority battery supplier (advanced power systems)
-- **Microhard Corp design team** — Ongoing design collaboration (repeated IMPORTANT contact)
-- **GetFPV (Chloe)** — Direct personal contact; marked IMPORTANT; appears to have named relationship
-- **Hitec RCD USA** — New vendor relationship (registered account Jun 23, placed order same day)
-
-## Notable Observations
-
-1. **Procurement gating pattern:** Nearly all vendor emails route through `purchasing@blackswifttech.com` rather than directly to Alex, suggesting:
-   - Alex initiates orders but centralized purchasing handles confirmations
-   - Shared inbox setup for visibility/audit trail
-   - Alex may have procurement authority but routing is formalized
-
-2. **Hitec RCD USA acceleration:** Account registration + order confirmation on same day (Jun 23) suggests:
-   - Urgent component need (servos/control systems)
-   - New vendor onboarding for active project
-   - Possible just-in-time procurement cycle
-
-3. **McMaster-Carr volume spike:** 3 emails in 48 hours for June 22–23 orders indicates:
-   - Multiple small orders placed (not consolidated shipment)
-   - Rapid replenishment cycle
-   - Wide range of mechanical/hardware components
-
-4. **Toggl Track marking:** Time-tracking software marked IMPORTANT suggests:
-   - Alex may be involved in project management or time-sensitive work
-   - Could indicate shift to stricter time tracking (new requirement or new project)
-
-5. **GetFPV personal relationship:** Named contact (Chloe) sending direct emails marked IMPORTANT suggests:
-   - Beyond generic promotional emails
-   - Possible preferred customer status or specific product interest
-   - Alignment with UAV/drone focus visible in broader patterns
-
-6. **No human-to-human outbound traffic:** Across 28-email scan, only 1 email sent by Alex (original forward to Ethan). This 13-email batch shows zero outbound. Suggests:
-   - Alex primarily receives vendor/system notifications
-   - Outbound communication may occur on different email or channels
-   - Could indicate monitoring/review role rather than order placement role
-
-7. **Spindrift subscription anomaly:** Beverage subscription routed to `purchasing@blackswifttech.com` is organizational oddity —
+### Email Routing Patterns
+- **Purchasing@blackswifttech.com** — 9 emails routed here

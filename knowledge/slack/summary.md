@@ -1,79 +1,65 @@
 # Slack Channels Overview
 
-Last scanned: 2026-06-24 02:18
+Last scanned: 2026-06-25 02:13
 
-Total channels scanned: 8
+Total channels scanned: 5
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 5 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#commercial-sales** -- 15 messages -- [commercial-sales.md](commercial-sales.md)
-- **#flight-testing** -- 14 messages -- [flight-testing.md](flight-testing.md)
-- **#general** -- 3 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 11 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#25_1-navy-sbir-magnetometer** -- 2 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#general** -- 1 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 7 messages -- [grants-and-funding.md](grants-and-funding.md)
 - **#marketing** -- 2 messages -- [marketing.md](marketing.md)
-- **#operations** -- 2 messages -- [operations.md](operations.md)
-- **#s3** -- 18 messages -- [s3.md](s3.md)
+- **#s3** -- 15 messages -- [s3.md](s3.md)
 
 ## Strategic Summary
 
 # Black Swift Technologies - Cross-Channel Strategic Overview
 
-## Active Projects & Products
-- **S3 VTOL**: Hybrid fixed-wing/quadcopter with tilting rotors; 2-3 hour endurance; primary focus in #s3
-- **Navy SBIR Magnetometer**: Integration of QuSpin magnetometers for Magnetic Anomaly Detection (MAD); external collaboration
-- **S-Series Aircraft**: Fixed-wing platforms actively flight tested
-- **E2 & Multirotor Platforms**: Commercial and research applications
-- **S0/S1-VTOL variants**: In development/testing phase
+## Active Projects
 
-## Key Decision Makers & Roles
-| Name | Primary Role(s) |
-|------|-----------------|
-| **Jack Elston** | CEO/Systems Architect; final proposal approval; strategic direction |
-| **Maciej** | Lead Flight Testing; technical proposal support; project oversight |
-| **Joshua Fromm** | Lead Engineer/Hardware; QA; shop operations |
-| **Meredith Needham** | Finance; budgeting; administrative coordination |
-| **Dan Prendergast** | Business Development; operations |
-| **Parker Vollmer** | Marketing leadership |
+**Core Hardware Platforms:**
+- **S3 VTOL Aircraft**: Hybrid fixed-wing/quadcopter with tilting rotors; targets 2-3 hour endurance and autonomous operations. Led by Joshua Fromm (engineering) and Jack Elston (systems/firmware).
+- **Navy SBIR Magnetometer Program**: Integration of QuSpin magnetometers into BST aircraft for Magnetic Anomaly Detection (MAD). Multi-disciplinary team across engineering and technical roles.
 
-## Cross-Channel Themes
+**Business Development:**
+- Continuous grant pursuit across federal agencies (NASA, DOD, NOAA, USDA) tracked in #grants-and-funding; Jack Elston drives proposal decisions and review.
 
-### Funding & Growth Strategy
-- Heavy emphasis on government grants (NASA, DOD, NOAA, USDA)
-- Jack Elston drives proposal review and funding decisions
-- Budget development tied to technical feasibility (Maciej's input critical)
-- Commercial sales and grants pursued in parallel
+## Key Decision Patterns
 
-### Technical Execution
-- Flight testing (#flight-testing) validates all platform improvements
-- Firmware development (Jack Elston, Sam Hild) cascades across multiple platforms
-- Component sourcing and QA coordinated through operations
-- External partnerships (Navy SBIR) require specialized integration work
+- **Jack Elston**: Primary strategic decision-maker; reviews proposals, sets company direction, appears in all major channels
+- **Joshua Fromm & Maciej**: Technical project leads with cross-project responsibility; Maciej also handles operations and testing
+- **Hierarchical approval**: Proposals and budgets flow through Jack Elston for final sign-off; Meredith Needham manages budget details
 
-### Operational Coherence
-- #operations functions as central coordination hub
-- #general used for company-wide announcements (strategy, hiring, milestones)
-- #commercial-sales and #grants-and-funding feed funding needs back to operations
-- Marketing (#marketing) coordinates external narratives across all initiatives
+## Key People & Roles
 
-## Recurring Decision Patterns
-1. **Jack Elston approval required** for: major proposals, funding strategy, strategic hires
-2. **Technical feasibility first**: Maciej/Joshua validate before commitments
-3. **Operations coordinates**: Procurement, timeline, resource allocation across channels
-4. **Marketing aligned late**: Content/messaging developed after project decisions finalized
+| Person | Primary Functions |
+|--------|------------------|
+| Jack Elston | Leadership, systems architecture, proposal review |
+| Joshua Fromm | S3 lead engineer/designer |
+| Maciej | Project oversight, testing, control systems, operations |
+| Sam Hild | Firmware development |
+| Meredith Needham | Budget management, grant administration |
+| Parker Vollmer | Marketing strategy and execution |
+| Sophia Henkels | Content and web management |
 
-## Information Flow
-```
-Grants/Funding Opportunities 
-    ↓
-Technical Feasibility (Flight Testing, S3, Mag)
-    ↓
-Operations (Budget, Procurement, Timeline)
-    ↓
-Commercial Delivery & Marketing
-```
+## Recurring Topics Across Channels
 
-## Notable Gaps/Connections
-- **Navy SBIR <→ S3**: Magnetometer integration pathway not fully visible; potential synergy
-- **Commercial Sales <→ Grants**: Customer demands could inform future SBIR/grant applications
-- **Marketing <→ Technical**: Limited cross-channel visibility; messaging may lag actual capabilities
+- **Funding cycles**: Proposals and grant opportunities continuously discussed; tight linkage between project timelines and funding availability
+- **Technical integration challenges**: Magnetometer integration, VTOL control systems, firmware optimization
+- **Operational readiness**: Testing, field operations, autonomous flight validation
+- **External communications**: Marketing efforts align with product capabilities (S3, magnetometer systems) for positioning
+
+## Cross-Channel Connections
+
+- **S3 & Magnetometer Programs**: Both leverage BST's aircraft platforms; magnetometer SBIR may integrate onto S3 platform
+- **#general as coordination hub**: Announces project milestones, operational decisions that feed into specialized channels
+- **Funding enables execution**: Grant awards in #grants-and-funding directly resource S3 and magnetometer development discussed in project channels
+- **Marketing alignment**: #marketing develops collateral around active projects (S3, magnetometer capabilities) for customer/partner communication
+
+## Strategic Themes
+
+1. **Dual-track development**: Hardware platform (S3) and payload integration (magnetometer) advancing in parallel
+2. **Government-centric business model**: Heavy reliance on federal SBIR/grants rather than commercial revenue
+3. **Small, specialized team**: Same core people appear across projects, indicating lean operations with high individual accountability
+4. **Integration-focused engineering**: Success depends on coordinating firmware, control systems, and hardware design seamlessly

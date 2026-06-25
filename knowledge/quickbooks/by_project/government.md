@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $4,462,176.28
-- **Total Expenses (Bills + Purchases):** $1,331,859.15
+- **Total Expenses (Bills + Purchases):** $1,332,891.27
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,130,317.13 (invoiced minus expenses)
+- **Net Position:** $3,129,285.01 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -76,8 +76,8 @@
 
 ---
 
-### **Materials & Supplies: $470,787.76**
-**Number of transactions:** 204  
+### **Materials & Supplies: $472,433.53**
+**Number of transactions:** 208  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
   - **DKC*DIGI KEY CORP - 4617** (2026-06-17): $170.70 [DC-Direct Material Purchases]
@@ -100,12 +100,20 @@
 - **Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head** (2026-05-07): $479.80 [DIRECT COSTS] + $306.08 [Inventory Asset]
   - **Direct Cost Materials & Supplies impact: $479.80**
 
-**Recent transactions confirmed (2026-06-17 to 2026-06-25):**
-- **Purchase #99879354** (2026-06-17): $170.70 [DC-Direct Material Purchases] — DKC*DIGI KEY CORP - 4617
-- **Purchase** (2026-06-17): $391.91 [DC-Direct Material Purchases]
-- **Purchase #0616JELSTON** (2026-06-17): $33.92 [DC-Direct Material Purchases] — Fully Insulated Quick-Disconnect Terminals; 18-8 Stainless Steel Phillips Flat Head Screw
+**Recent transactions confirmed (2026-06-24 to 2026-06-25):**
+- **Purchase #260607W011757** (2026-06-25): $90.16 [DC-Direct Cost Shipping] — *see Shipping/Freight section*
+- **Purchase #0624JELSTON** (2026-06-24): 
+  - $2.58 [DC-Direct Material Purchases] — By Light Supplies
+  - $20.93 [DC-Direct Material Purchases] — Navy Magnetometer
+  - Subtotal materials: **$23.51**
+- **Purchase #0622JELSTON** (2026-06-24): 
+  - $1,281.98 [DC-Direct Material Purchases] — supplies for [550-1] Navy Magnetometer
+  - Subtotal materials: **$1,281.98**
+- **Purchase #009799** (2026-06-24): **$48.19** [DC-Direct Material Purchases]
 
-**Total direct cost materials & supplies through 2026-09-28: $470,787.76** *(confirmed final)*
+**Subtotal new materials & supplies (2026-06-24 to 2026-06-25): $1,354.68**
+
+**Total direct cost materials & supplies through 2026-09-28: $472,433.53** *(confirmed final)*
 
 ---
 
@@ -114,8 +122,8 @@
 
 ---
 
-### **Shipping/Freight: $1,397.73**
-**Number of transactions:** 13  
+### **Shipping/Freight: $1,488.05**
+**Number of transactions:** 14  
 
 **Key transactions:**
 - **Purchase #260607W011757** (2026-06-25): **$90.16** [DC-Direct Cost Shipping, Freight & Delivery]
@@ -126,35 +134,14 @@
   - Shipment from Paramount Tube to Lee Skidmore (2026 IDIQ)
 - **Earlier transactions (through 2026-06-09):** $749.19 cumulative
 - **Earlier transactions (2026-06-10 to 2026-06-16):** $182.81 cumulative
-- **Additional confirmed transactions (2026-06-17 to 2026-06-25):** $180.52 cumulative
+- **Earlier transactions (2026-06-17 to 2026-06-23):** $180.52 cumulative
 
-**Total shipping/freight through 2026-09-28: $1,397.73** *(confirmed final)*
+**Total shipping/freight through 2026-09-28: $1,488.05** *(confirmed final)*
 
 ---
 
-### **Indirect Costs (Facilities & Shop Supplies): $71.98**
-**Number of transactions:** 1  
+### **Indirect Costs (Facilities & Shop Supplies): $969.90**
+**Number of transactions:** 3  
 **Key transactions:**
 - **Purchase #0616JELSTON** (2026-06-17): **$68.05** [FA-Shop Supplies] — Masking Tape for Powder Coating, Blue, 1" Wide
-
-**Subtotal indirect costs: $71.98**
-
----
-
-### **Other: $781.00**
-**Number of transactions:** 1  
-**Key transactions:**
-- **Bill #AR262124** (2026-06-09): **$781.00** — Miscellaneous/Other expenses related to subcontract administration
-
----
-
-## Purchase Orders
-- **Total PO value:** $832.00
-- **Number of POs:** 1
-- No new POs in period 2026-06-19 to 2026-09-28
-
----
-
-## Monthly Spend by Category
-
-### June 2026
+- **Purchase #0624JELSTON** (2026-06-24): **$183.77** [FA-Shop

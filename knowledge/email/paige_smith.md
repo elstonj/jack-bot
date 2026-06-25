@@ -1,13 +1,13 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,911 (2,864 previous + 47 new from Jun 24, 2026)
-- **Date range:** March 24 – June 24, 2026 (93 days)
-- **Approximate volume:** ~31 messages per day (sustained consistency maintained)
-- **Pattern update (Jun 24, 2026):** **~85% automation/newsletters/news/social** (40 of 47 messages)
-  - **SUSTAINED SIGNAL:** Business-critical correspondence remains active (Jack Elston exchange on Intergeo continues; 2 outbound messages from Paige)
-  - **New business development:** Thrive Agency/Thrive Local outreach flagged IMPORTANT (Jun 23)
-  - **Operational status:** Continued active engagement; no sign of wind-down
+- **Total messages scanned:** 2,953 (2,911 previous + 42 new from Jun 24-25, 2026)
+- **Date range:** March 24 – June 25, 2026 (94 days)
+- **Approximate volume:** ~31 messages per day (sustained consistency)
+- **Pattern update (Jun 24-25, 2026):** **~88% automation/newsletters/news/social** (37 of 42 messages)
+  - **SUSTAINED SIGNAL:** Business development momentum continues (Thrive Local scheduling demo for Jul 1); operational engagement sustained
+  - **New technical collaboration inquiry:** SMK1.systems SAL-C autonomy safety engine (Jun 24) — routed to company inbox, flagged for review
+  - **Continued intelligence gathering:** Defense/aerospace/geo-tech newsletter volume remains high; international expansion signals emerging
 
 ---
 
@@ -15,79 +15,84 @@
 
 ### Top Internal Senders & Collaborators
 
-**Jack Elston** (elstonj@blackswifttech.com)
-  - Jun 23, 15:14:21 UTC: "Re: Geo-matching promotion options for Intergeo [IMPORTANT]"
-  - **SIGNAL:** Ongoing Intergeo trade show promotion coordination (multi-day thread). Primary internal collaborator remains consistent.
+**Jack Elston** (elstonj@blackswifttech.com / media@blackswifttech.com)
+  - Continues as primary internal collaborator
+  - Jun 24, 09:04:58 UTC: UAS VISION daily news routed to Jack/media@blackswifttech.com (Paige receives visibility)
+  - **SIGNAL:** Sustained Intergeo coordination; media/intelligence distribution remains active partnership
 
-**Paige Smith** (self — SENT messages)
-  - Jun 23, 12:14:27 UTC: "Re: Geo-matching promotion options for Intergeo" (to Jack Elston)
-  - Jun 23, 09:54:01 UTC: "Drone Data Improves Hurricane Forecast Accuracy by 10%" (to alexei.navolokin@gmail.com — **EXTERNAL CONTACT, NEW**)
-  - **SIGNAL:** Actively managing Intergeo logistics; distributing hurricane/climate data research to external contact (possibly academic, partner, or press)
+**Daniel Prendergast & Beck Cotter** (internal)
+  - Jun 24, 09:40:20 UTC: **DRAFT FORWARD** from Paige Smith to both
+  - Subject: "Fwd: Investment Funding Capital [DRAFT]"
+  - **CRITICAL SIGNAL:** **Paige is coordinating capital/funding discussions with two senior internal stakeholders.** Draft status suggests preparation/review phase. This is substantive business development work, not operational routine.
 
 ### Top External Senders & Vendors
 
-#### **Business Development (NEW — HIGH PRIORITY)**
+#### **Active Business Development — CRITICAL PRIORITY**
 
-**Thrive Agency / Thrive Local** (emerging 3-contact pattern)
-  - **Allie Radler** (allie.radler@thriveagency.com) — Jun 23, 11:58:04 UTC: "Thank you for reaching out to Thrive! [UNREAD, INBOX]"
-  - **Jerry Webb** (jerry@thriveagency.com) — Jun 23, 12:22:29 UTC: "Appointment with Thrive Agency [IMPORTANT, INBOX]"
-  - **Ryan Richardson** (ryan.richardson@thrivelocal.com) — Jun 23, 12:22:29 UTC: "Schedule a Demo - Thrive Local [IMPORTANT, INBOX]"
-  - **CRITICAL SIGNAL:** **Paige INITIATED contact with Thrive** (Allie's "thank you for reaching out" confirms inbound inquiry). Both responses flagged IMPORTANT. Same-day responses from two related entities suggest coordinated response. **Indicates Paige is exploring marketing/agency services for BST.** Thrive Local specializes in local SEO/digital marketing; Thrive Agency likely broader brand work.
-  - **Business context:** This is active business development, not vendor outreach.
+**Thrive Local (Ryan Richardson)**
+  - Jun 24, 12:07:07 UTC: "Scheduling a Demo - Thrive Local [IMPORTANT, INBOX]"
+  - Jun 24, 19:57:31 UTC: "Invitation: Paige Smith and Ryan Richardson @ Wed Jul 1, 2026 10am - 10:45am (MDT) [UNREAD, IMPORTANT, INBOX]"
+  - **ESCALATION SIGNAL:** Demo scheduled for July 1, 2026. Calendar invitation sent. This is moving from inquiry → commitment. Confirms Paige is actively evaluating Thrive Local's digital marketing/SEO services for BST.
 
-**Alexei Navolokin** (alexei.navolokin@gmail.com)
-  - Jun 23, 09:54:01 UTC: **RECEIVED** email from Paige titled "Drone Data Improves Hurricane Forecast Accuracy by 10%"
-  - **SIGNAL:** External distribution of research/data. Gmail address suggests academic, consultant, or industry contact (not corporate domain). **NEW KEY EXTERNAL CONTACT.** Paige is actively disseminating hurricane/drone forecast content — likely press, partnership, or stakeholder communication.
+#### **Technical Partnership Inquiry — NEW & IMPORTANT**
 
-**Joseph Orlando - NOAA Federal** (via sales@blackswifttech.com)
-  - Jun 23, 09:43:27 UTC: "Invoice Paid Awaiting Shipment [CATEGORY_FORUMS, INBOX]"
-  - **SIGNAL:** NOAA customer with paid invoice; shipment pending. Confirms government contract fulfillment. Routed to sales@ but visible to Paige.
+**SMK1.systems**
+  - Jun 24, 23:06:59 UTC: "'SMK1.systems' via Generic Information" <info@blackswifttech.com>
+  - Subject: "Quick collaboration inquiry — SAL‑C autonomy safety engine [UNREAD, CATEGORY_FORUMS, INBOX]"
+  - **SIGNAL:** Unsolicited inbound technical partnership inquiry. SAL-C appears to be a safety/autonomy system for autonomous aircraft. Routed to company inbox (info@blackswifttech.com) but visible to Paige. **Indicates BST is on radar for autonomy-focused vendors.** Unread status suggests review pending.
 
-#### **Industry Intelligence & Newsletters (Expanded)**
+#### **DARPA — Direct Outreach Channel — NEW**
 
-**Dronitaly** (info@bfwe.it)
-  - Jun 24, 08:03:18 UTC: "Incendi boschivi: droni e hub autonomi per il monitoraggio del territorio" [Forest fire monitoring: drones and autonomous hubs for territorial surveillance — Italian]
-  - **SIGNAL:** NEW INTERNATIONAL CONTACT. Italian drone/forestry/wildfire monitoring company. Routed to info@blackswifttech.com. Indicates BST may be exploring European partnerships or this is a broadcast to company-wide inbox. **Emerging geographic expansion signal.**
+**DARPAConnect**
+  - Jun 24, 13:01:08 UTC: "'DARPAConnect' via Generic Information" <info@blackswifttech.com>
+  - Subject: "DARPA Priorities & Pathways: Join Here [UNREAD, CATEGORY_UPDATES, INBOX]"
+  - **SIGNAL:** Routed to company inbox; flagged for Paige visibility. Invitation to engage with DARPA priorities/funding pathways. Aligns with defense sector strategic focus.
 
-**UASweekly.com** (newsletter@uasweekly.com)
-  - Jun 23, 21:02:12 UTC: "UASweekly Daily Newsletter" (routed to info@blackswifttech.com)
+#### **International Expansion Signals**
 
-**UAS VISION** (russ@uasvision.com)
-  - Jun 23, 09:04:27 UTC: "DAILY NEWS" (routed to Jack/media@blackswifttech.com)
+**MundoGEO Newsletter**
+  - Jun 24, 16:08:10 UTC (×2 — dual routing to info@bst.aero AND info@blackswifttech.com)
+  - Subject: "More than 12,000 professionals attended MundoGEO Connect, DroneShow Robotics, SpaceBR Show, and Expo eVTOL 2026 | Speedbird Aero and iFood Launch New Drone Delivery Route in São Paulo, Brazil"
+  - **SIGNAL:** Expanded South American drone ecosystem engagement. Dual domain routing (bst.aero + blackswifttech.com) suggests multi-team awareness. iFood drone delivery context suggests commercial logistics/delivery partnership exploration.
 
-**Energy Drone & Robotics News** (news@innovateenergynow.com)
-  - Jun 23, 08:32:24 UTC: "From the Expo Floor: The Biggest EDR Stories of the Year [UNREAD]"
-  - **SIGNAL:** Expanded energy sector drone coverage; likely attending/following Energy Drone & Robotics expo (EDR)
+**Dronitaly**
+  - Jun 25, 08:05:09 UTC: "Dronitaly 2026: intervista Giancarlo Zema, Founder di Giancarlo Zema Design Group [CATEGORY_PROMOTIONS, UNREAD, INBOX]"
+  - **SUSTAINED SIGNAL:** Continued European drone/design ecosystem tracking. Follow-up message after Jun 23 contact confirms ongoing relationship monitoring.
 
-**Commercial UAV Expo** (info@expouav.com)
-  - Jun 23, 09:02:16 UTC: "Your message, their inbox — 29,000+ subscribers [PROMOTIONS]"
-  - **SIGNAL:** Advertising opportunity to UAS/drone industry audience; suggests Paige/BST has active interest in reaching 29K+ commercial drone operators
+### Top External Senders — Industry Intelligence (Sustained)
 
-**Air & Space Forces Magazine** (AirAndSpaceForcesMagazine@afa.org)
-  - Jun 23, 14:26:43 UTC: "News Alert | Flights Resume at Edwards After B-52 Crash [UNREAD]"
-  - Jun 23, 03:50:22 UTC: "USSF Mission Launches in 17 Hours [UNREAD]"
-  - **SIGNAL:** Sustained high-frequency defense/aerospace alerts; real-time military aviation intelligence
+**The New York Times** (6 messages in this batch)
+  - breakingnews@nytimes.com: "Trump abruptly cancels plans to sign housing bill" (Jun 24, 15:46:13 UTC)
+  - editorpicks@nytimes.com: Multiple culture/politics picks (Reflecting Pool sabotage, Swift-Kelce wedding, Mamdani kingmaker analysis)
+  - nytdirect@nytimes.com: "The Morning: Your questions, answered" [**FLAGGED IMPORTANT**] (Jun 24, 10:47:39 UTC)
+  - **SIGNAL:** Sustained heavy news consumption; morning digest remains marked IMPORTANT
 
-**Mitchell Institute** (mitchell@afa.org)
-  - Jun 23, 06:14:10 UTC: "Happening Today! New Research Paper on Space Superiority [UNREAD]"
-  - **SIGNAL:** Space domain research/policy tracking via Air Force Association think tank
+**Air & Space Forces Magazine / A&SF Daily Report** (2 messages)
+  - Jun 24, 10:11:58 UTC: "Your May/June Issue Is Here! [CATEGORY_PROMOTIONS]"
+  - Jun 24, 03:54:08 UTC: "Where the Pentagon Found $1.55B for the E-7 [UNREAD, IMPORTANT]" — **FLAGGED IMPORTANT**
+  - **SIGNAL:** Defense budget tracking; real-time Pentagon/USAF intelligence remains priority subscriptions
 
-**NOAA UFS Secretariat** (ufs.secretariat@noaa.gov)
-  - Jun 23, 12:29:35 UTC: "Join Us At The Unifying Innovations in Forecasting Capabilities Workshop 2026 [INBOX]"
-  - **SIGNAL:** Direct NOAA workshop invitation. Aligns with hurricane forecast data dissemination to Alexei Navolokin. **Active NOAA ecosystem participation.**
+**Geo Week News / Exyn**
+  - Jun 24, 16:30:38 UTC: "The Digital Twin Reality Check [UNREAD, CATEGORY_UPDATES]"
+  - Jun 24, 10:01:24 UTC: "Streamline Reality Capture for Construction & Surveying Teams [CATEGORY_PROMOTIONS]"
+  - **SIGNAL:** Sustained geospatial/digital twin/reality capture industry focus
 
-**Defense Advancement Newsletter** (newsletters-noreply@linkedin.com)
-  - Jun 23, 15:00:36 UTC: "DA Newsletter Edition 219 [UNREAD]"
-  - **SIGNAL:** LinkedIn-hosted defense sector intelligence; sustained subscription
+**UAS Magazine, UASweekly, UAS VISION**
+  - Jun 24, 21:17:57 UTC: UAS Magazine — "Navy researchers demonstrate laser system that beams power and counter drones, Red Cat launches Hellcat drone for global defense, and More!"
+  - Jun 24, 21:02:11 UTC: UASweekly Daily Newsletter
+  - Jun 24, 09:04:58 UTC: UAS VISION daily news (routed to Jack/media@)
+  - **SIGNAL:** Sustained daily UAS industry intelligence; military drone/counter-drone systems tracking
 
-#### **News & Media (Sustained High Volume)**
+**Mountain West UAS**
+  - Jun 24, 15:07:38 UTC: "Drone Light Show - This Saturday in BV! [CATEGORY_UPDATES]"
+  - **LOCAL SIGNAL:** Local Colorado drone event notification (BV = Black Canyon area). Suggests team/community engagement.
 
-**The New York Times** (10 messages in Jun 23-24 batch)
-  - breakingnews@nytimes.com: 5 breaking alerts (Mamdani NY primaries, Nadler successor, housing bill, Iran war powers, Congress items)
-  - editorpicks@nytimes.com: 2 lifestyle/opinion (luxury kitchens, Prime Day deals)
-  - nytdirect@nytimes.com: "The Morning: Bread and roses [IMPORTANT, UNREAD]"
-  - nytimes@e.newyorktimes.com: Subscription offer
-  - **SIGNAL:** Sustained heavy news consumption; morning digest flagged IMPORTANT consistent with previous pattern
+#### **Marketing & Design Tools — Active Evaluation Phase**
 
-**The Athletic Pulse** (TheAthletic@e1.theathletic.com)
-  - Jun
+**HubSpot** (Kylie Bliss)
+  - Jun 24, 10:20:41 UTC: "Picking up where you left off, Paige [UNREAD]"
+  - Jun 24, 13:07:09 UTC: "Reminder: Schedule your HubSpot demo today [CATEGORY_PROMOTIONS]"
+  - **SIGNAL:** Active HubSpot evaluation; abandoned workflow follow-up suggests previous exploration. Aligns with Thrive Agency/Thrive Local outreach.
+
+**Figma**
+  

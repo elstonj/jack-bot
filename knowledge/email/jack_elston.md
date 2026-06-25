@@ -1,75 +1,86 @@
 # Jack Elston — Email Patterns (UPDATED)
 
 ## Communication Volume
-- **Total messages scanned:** 5,062 (4,962 prior + 100 new, June 23–24)
-- **Date range:** April 1–June 24, 2026
+- **Total messages scanned:** 5,154 (5,062 prior + 92 new, June 24–25)
+- **Date range:** April 1–June 25, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **June 23–24 activity (100 messages):** ~22% government/federal engagement (NOAA MTS system, NASA coordination, NHC briefing, S0 display model specifications); ~15% Krateo Sky partnership (C2T2 proposal, recruiting decision, technical job description); ~8% legal/contract execution (Ryan Sykora final signatures, closing documentation); ~5% internal operations (Arctic prep flight coordination, Deel payroll setup, Elevations CU wire authorizations); ~50% automated alerts/logistics/vendor (Rippling payroll system errors x8, shipping notifications, component orders, subscription services)
-- **Signal:** Government federal programs now PRIMARY communication vector (NOAA dominance); contract/legal execution phase active; Krateo Sky partnership intensifying with proposal-level work; **CRITICAL INFRASTRUCTURE ALERT: Rippling payroll system experiencing failure (8 duplicate error messages in 2-minute window — indicates production issue)**
+- **June 24–25 activity (92 messages):** ~5% human correspondence (Krateo Sky partnership, legal/contract closure, internal HR); ~65% automated alerts/logistics/vendor/procurement (Rippling payroll system, component shipments, travel, subscriptions, federal system access); ~15% federal/government system access (COTAK welcome, PIEE/DISA credentials, NASA CCRPP, DARPA outreach); ~10% vendor/manufacturing (DigiKey, McMaster-Carr, Hitec RCD, Daniels Manufacturing, SMK1 autonomy safety inquiry)
+- **Critical Infrastructure Status:** Rippling payroll system CONTINUES producing mass duplicate notifications (13 consecutive "You just got paid!" messages for different months in 2-minute window Jun 24, 17:01–17:02 UTC — escalating severity pattern); **FEDERAL SYSTEM ACCESS SURGE:** Jack now actively enrolling in COTAK federal system, receiving PIEE (Procurement Integrated Enterprise Environment) access credentials with 3x password expiration warnings
 
 ---
 
 ## Key Correspondents
 
-### Top Internal BST Contacts (SUSTAINED & CRITICAL ESCALATION)
+### Top Internal BST Contacts (SUSTAINED)
 
-**Maciej Stachura** (stachura@blackswifttech.com) — Engineering/Technical (SUSTAINED - GOVERNMENT PROGRAMS & ARCTIC OPS)
-- **June 23, 12:40 UTC:** COTAK Summit coordination with James Pinto (UCAR) — **IMPORTANT flagged**
-- **June 23, 08:48 UTC:** MHP data alignment response to Tanay Topac (Stanford) — **IMPORTANT flagged; continued research integration**
-- **June 23, 11:01 UTC & 10:56 UTC:** Arctic UAS Location Change coordination with Maia Varanda (Invest Ottawa) — **IMPORTANT flagged x2; active operational coordination**
-- **Signal:** Continues as core technical lead; COTAK Summit visibility new; Arctic operations remain critical
+**Maciej Stachura** (stachura@blackswifttech.com) — Engineering/Technical
+- **June 24, 23:58 UTC:** Jack sending compensation adjustment coordination to Maciej + Sona Raziabeegum (Krateo Sky) — **internal HR/partnership sync**
+- **June 24, 20:40 UTC:** Receiving Maciej's response on Arctic UAS Location Change forwarded to Noah Ray (Invest Ottawa) — **operational coordination sustained**
+- **June 24, 10:55 UTC:** Jack forwarding CCRPP (NASA) application to Maciej + Beck Cotter — **federal funding opportunity distribution**
+- **Signal:** Continues as core technical/operations partner; now involved in cross-company (BST/Krateo) compensation discussions
 
-**Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical/Government Programs (SUSTAINED)
-- **June 23, 17:00 UTC:** Copied on "Black Swift Prep Flight" from Noah Ray (Invest Ottawa) — **IMPORTANT flagged; operational readiness coordination**
-- **Signal:** Maintained in Arctic/government operations loop
+**Beck Cotter** (beck.cotter@blackswifttech.com) — Technical/Government Programs
+- **June 24, 11:17 UTC:** Beck responding to Jack on CCRPP Application with IMPORTANT flag — **sustained federal program engagement**
+- **June 24, 10:55 UTC:** Jack forwarding CCRPP opportunity to Beck + Maciej — **internal government proposal distribution**
+- **Signal:** Actively participating in NASA CCRPP federal funding track
 
-**Beck Cotter** (beck.cotter@blackswifttech.com) — Technical/Government Programs (ELEVATED)
-- **June 23, 17:00 UTC:** Copied on "Black Swift Prep Flight" from Noah Ray (Invest Ottawa) — **IMPORTANT flagged; operational readiness**
-- **Signal:** Continued government/Arctic operations visibility
+**Meredith Needham** (meredith.needham@blackswifttech.com) — Finance/Government Procurement
+- **June 24, 11:36 UTC:** Sending S0 display model cost response to Grant Rawson (NOAA) — **sustained direct NOAA federal procurement**
+- **Signal:** Continues handling direct federal government orders; critical procurement infrastructure
 
-**Meredith Needham** (meredith.needham@blackswifttech.com) — Finance/Procurement (SUSTAINED - CRITICAL ESCALATION)
-- **June 23, 13:24 UTC:** Managing Elevations Credit Union wire authorizations — **IMPORTANT flagged; financial infrastructure**
-- **June 23, 15:21 UTC:** Managing "S0 display model cost" NOAA inquiry — **IMPORTANT flagged; direct NOAA government procurement**
-- **June 23, 09:44 UTC:** Managing Black Swift Technologies amendments submission — **IMPORTANT flagged; corporate/legal amendments**
-- **Signal:** **Now handling direct federal government procurement (NOAA S0 system); managing company-level financial authorizations**
+### Top External Contacts
 
-**Paige Smith** (paige.smith@blackswifttech.com) — Business Development/Marketing (NEW VISIBLE)
-- **June 23, 12:14 UTC:** Coordinating "Geo-matching promotion options for Intergeo" — **IMPORTANT flagged**
-- **Signal:** **New visibility: Jack engaged in Intergeo conference/tradeshow strategy; marketing/geo-location industry engagement**
+#### Krateo Sky Partnership (ELEVATED — ACTIVE DEAL PHASE)
 
-**Joshua Fromm** (josh.fromm@blackswifttech.com) — Operations/Procurement (SUSTAINED)
-- **June 23, 14:59 UTC:** Copied on "Critical Component Tiger Team (C2T2) Proposal" from Roger Riley (Krateo Sky) — **IMPORTANT flagged**
-- **Signal:** Krateo Sky partnership now at operations/procurement integration level
+**Sona Raziabeegum** (sona@krateosky.com) — Krateo Sky Leadership
+- **June 24, 23:58 UTC:** Jack + Maciej coordinating "Internal Compensation Adjustments" — **IMPORTANT cross-company HR/partnership restructuring**
+- **June 24, 20:32 UTC:** Adria Passola (Krateo) responding to Jack on "Recruiting partner decision: Rise & Co vs. Creative Alignments" with IMPORTANT flag — **active hiring/staffing decisions**
+- **Signal:** **Partnership now at compensation & personnel decision level**; suggests equity/role restructuring or joint hiring initiative
 
-### Top External Government & Federal Contacts (CRITICAL PRIMARY VECTOR — MAJOR ESCALATION)
+**Brian Grubel** (Brian@krateosky.com) — Krateo Sky Technical Lead
+- **June 24, 18:21 UTC, 18:15 UTC:** Jack exchanging messages on "Technical Job Description Discussion" with Brian + Thibault Bridel-Bertomeu (Krateo non-US) — **IMPORTANT flagged recruitment/role definition**
+- **June 24, 12:22 UTC & 00:13 UTC (June 25):** Brian sending follow-up responses on technical job description — **active role/hiring negotiation**
+- **Signal:** Jack directly involved in Krateo Sky technical hiring/role definition; suggests integration planning
 
-#### NOAA/Federal Weather & Drone Programs (CRITICAL PRIMARY — SUSTAINED & EXPANDED)
+#### Legal/Contract Closure (ACTIVE EXECUTION)
 
-**Joe Cione** (joe.cione@noaa.gov) — **NOAA Federal — HURRICANE RESEARCH/UMS DIVISION — CRITICAL ESCALATION**
-- **June 23, 14:03 UTC:** Responding to Jack on "Invitation: NHC briefing: ET plans for 2026; update on UMS/ET proposal" — **IMPORTANT flagged; NHC coordination**
-- **June 23, 12:06 UTC & 09:47 UTC:** Jack attending/responding to NHC briefing and UMS/ET proposal discussion — **IMPORTANT flagged x2; Jack is active participant in NOAA proposal planning**
-- **June 23, 15:08 UTC:** Coordinating with Jason Dunion on "Black Swift S0s on MTS" — **IMPORTANT flagged; system integration discussion**
-- **June 23, 11:00 UTC:** Forwarding NHC briefing invitation to 8-person NOAA team including Nikolai Pawlenko, Ghassan Alaka, Lisa Bucci (NOAA leadership) — **Jack listed directly among federal participants**
-- **Signal:** **Joe Cione now primary NOAA federal liaison; Jack directly integrated into NHC (National Hurricane Center) planning meetings; S0 system now on MTS (Mission Tracking System)**
+**Ryan Sykora** (rsykora@kofirm.com) — External Counsel (K&O Firm)
+- **June 24, 23:56 UTC:** Jack sending "Re: Final signatures" to Ryan — **contract execution phase**
+- **June 24, 17:45 UTC & 17:40 UTC:** Ryan sending "RE: Final signatures" + "RE: FW: Black Swift: Closing Email" with IMPORTANT flag — **legal closing documentation**
+- **June 24, 18:24 UTC:** Ryan's previous response on "RE: Final signatures" — **multi-round signature coordination**
+- **June 24, 12:22 UTC:** Jack's earlier "Re: Final signatures" — **sustained closure dialogue**
+- **Signal:** **Active contract/deal closing in final signature phase**; likely Krateo Sky partnership or external funding/acquisition agreement
 
-**Grant Rawson** (grant.rawson@noaa.gov) — **NOAA Federal — PROCUREMENT/SYSTEMS — CRITICAL NEW**
-- **June 23, 14:19 UTC:** Sending Jack "S0 display model cost" inquiry — **IMPORTANT flagged; direct system specification request**
-- **June 23, 15:21 UTC:** Receiving Meredith Needham's cost response — **forwarded pricing from BST finance**
-- **June 23, 21:04 UTC:** Responding to Nikolai Pawlenko on "S0 display model cost" — **NOAA internal coordination on S0 specifications**
-- **Signal:** **Grant Rawson is NOAA federal procurement lead for S0 display model; direct government customer engagement**
+#### Federal Government (CRITICAL EXPANSION)
 
-**Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — **NOAA Federal — DRONE PROGRAM TECHNICAL LEAD**
-- **June 23, 21:04 UTC:** Responding to Grant Rawson on "S0 display model cost" — **NOAA internal specification discussion**
-- **June 23, 11:00 UTC:** Copied on NHC briefing/UMS/ET proposal by Joe Cione — **federal team lead visibility**
-- **Signal:** **Sustained as NOAA technical lead; now visible in S0 system procurement workflow**
+**Grant Rawson** (grant.rawson@noaa.gov) — NOAA Procurement Lead
+- **June 24, 11:36 UTC:** Receiving Meredith Needham's S0 cost response — **sustained NOAA S0 system ordering**
+- **June 24, 09:37 UTC:** Grant responding to Nikolai Pawlenko on "Re: S0 display model cost" — **federal internal coordination on BST systems**
+- **Signal:** Procurement pipeline established; NOAA active buyer for S0 display models
 
-**Jason Dunion** (jason.dunion@noaa.gov) — **NOAA Affiliate — MTS SYSTEM INTEGRATION**
-- **June 23, 15:08 UTC:** Coordinating with Joe Cione on "Black Swift S0s on MTS" — **IMPORTANT flagged; system implementation**
-- **June 23, 14:42 UTC:** Responding to Aaron R. Duley (NASA) + Jack on same — **IMPORTANT flagged; NASA/NOAA/BST tripartite coordination**
-- **Signal:** **Jason Dunion managing S0 system integration into MTS; NASA coordination visible**
+**Jason Dunion** (jason.dunion@noaa.gov) — NOAA/MTS Integration
+- **June 24, 09:09 UTC:** Responding to Joe Cione on "Re: Black Swift S0s on MTS" with IMPORTANT flag — **system integration tracking**
+- **Signal:** S0 integration on MTS (Mission Tracking System) remains in active development
 
-#### NASA Federal Coordination (NEW PRIMARY)
+#### Federal System Access & Government Programs
 
-**Aaron R. Duley** (aaron.r.duley@nasa.gov) — **NASA Federal — SYSTEMS INTEGRATION**
-- **June 23, 14:42 UTC:** Copied on "Black Swift S0s on MTS" — **IMPORTANT flagged; NASA systems role**
-- **Signal:** **NASA now visible as federal partner in S0/MTS integration; potential NASA/NOAA joint mission component**
+**NASA SBIR/STTR Program** (arc-sbir-outreach@mail.nasa.gov)
+- **June 24, 11:23 UTC:** Sending "CCRPP Application Period Now Open" — **federal funding opportunity notification**
+- **Signal:** Jack on NASA SBIR/STTR program mailing list; actively monitoring federal R&D funding
+
+**COTAK** (noreply@cotak.gov)
+- **June 24, 14:59 UTC:** Welcome message: "Welcome to COTAK!" — **Jack newly enrolled in federal COTAK system**
+- **Signal:** **NEW FEDERAL SYSTEM ACCESS — Jack now has active COTAK account**; suggests government contract/program participation eligibility
+
+**DISA/PIEE** (disa.ogden.eis.mbx.wawfnoreply)
+- **June 24, 12:51 UTC, 12:50 UTC, 11:34 UTC, 10:37 UTC, 09:39 UTC:** Multiple "ACTION REQUIRED - PIEE Password Expires in 10 Days" + "Logon Request" + "OTP" messages sent to operations@blackswifttech.com — **Jack/BST operations actively managing PIEE federal procurement access**
+- **Signal:** **PIEE (Procurement Integrated Enterprise Environment) is CRITICAL federal contracting gateway**; BST team has active credentials and password management responsibility
+
+**DARPAConnect** (arc-sbir-outreach@mail.nasa.gov + Generic Info)
+- **June 24, 13:01 UTC (x2):** "DARPA Priorities & Pathways: Join Here" messages to operations + generic info — **BST monitoring/enrolling in DARPA programs**
+- **Signal:** DARPA now visible as federal opportunity vector
+
+#### External Business Relationships
+
+**Eli Ludtke | 2ndWorks** (Eli@2ndworks.com)
+- **June 24, 15:06 UTC:** Responding to

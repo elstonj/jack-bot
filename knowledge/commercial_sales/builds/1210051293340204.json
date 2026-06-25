@@ -1,0 +1,48 @@
+{
+  "asana_gid": "1210051293340204",
+  "asana_task_name": "[Q1347] Murray State University-S2 Rentals x 12 days (quote for NASA proposal)",
+  "customer": "Murray State University",
+  "customer_contact": "Dr. Bassil El Masri",
+  "customer_email": "belmasri@murraystate.edu",
+  "receive_by": "2025-10-31",
+  "ship_to": "",
+  "items": [
+    {
+      "description": "S2 Aircraft Rental (12 days)",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "estimate_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": "1343",
+  "paid_date": null,
+  "parts": [
+    {
+      "name": "S2 batteries (6S 22.2V)",
+      "ordered": true,
+      "received": true,
+      "vendor": "BST",
+      "order_date": null
+    }
+  ],
+  "tracking_number": "",
+  "carrier": "",
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "NASA-funded methane emissions research project via Murray State. Estimate #1343 ($86,862.94) submitted Dec 2024; BST approved as vendor Jan 22, 2025. Project approved Jan 29, 2025. Aircraft rental period May\u2013Oct 2025 with travel dates aligned. Battery shipment in progress (Slack 2026-06-22: '3 x S3 Batteries enroute'). Field visit scheduled late June with crew travel booked.",
+  "missing_fields": [
+    "ship_to",
+    "invoice_date",
+    "invoice_amount"
+  ],
+  "last_evidence_date": "2026-06-22",
+  "last_contact_date": "2025-11-07"
+}

@@ -1,17 +1,17 @@
 {
   "period": {
-    "start": "2026-06-23",
-    "end": "2026-06-24"
+    "start": "2026-06-24",
+    "end": "2026-06-25"
   },
-  "scanned_at": "2026-06-24",
+  "scanned_at": "2026-06-25",
   "projects": [
     {
       "project_code": "300-3",
       "revenue": 144000.0,
-      "expenses": 90.16,
+      "expenses": 138.35,
       "invoice_count": 2,
       "bill_count": 0,
-      "purchase_count": 1,
+      "purchase_count": 2,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -21,10 +21,10 @@
     {
       "project_code": "550-1",
       "revenue": 49459.0,
-      "expenses": 0.0,
+      "expenses": 1302.91,
       "invoice_count": 2,
       "bill_count": 0,
-      "purchase_count": 0,
+      "purchase_count": 2,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -34,14 +34,16 @@
     {
       "project_code": "_unclassified",
       "revenue": 0.0,
-      "expenses": 20.0,
+      "expenses": 315.26,
       "invoice_count": 0,
       "bill_count": 0,
-      "purchase_count": 1,
+      "purchase_count": 4,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "[012-3] Embry Riddle Model S0"
+        "",
+        "[012-3] Embry Riddle Model S0",
+        "[043] By Light Professional IT Services LLC"
       ]
     }
   ]

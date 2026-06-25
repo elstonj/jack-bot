@@ -37,12 +37,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Canadian Rangers demo in Ottawa scheduled for June 25, 2026. NexTech Solutions evaluating S3 with EO/IR gimbal for tactical deployment; 120km range / 1h 35min TOF required. Demo flight planned; team travel being coordinated.",
+  "notes": "Canadian Rangers demo in Ottawa scheduled for June 25, 2026. NexTech Solutions (DoD integrator) evaluating S3 with EO/IR gimbal for tactical deployment with Joint Forces Command Canada; 120km range / 1h 35min TOF required. Team travel booked (flights, hotel); demo flight planned. Kept due to substantive Slack activity and explicit near-term receive_by date (1 day away as of 2026-06-24).",
   "missing_fields": [
     "ship_to",
     "invoice_amount",
     "customer_email"
   ],
-  "last_evidence_date": "2026-06-18",
-  "last_contact_date": "2026-06-18"
+  "last_evidence_date": "2026-06-24",
+  "last_contact_date": "2026-06-24"
 }

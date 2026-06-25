@@ -33,7 +33,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "S0 Display Model invoice paid; customer (ENS Joseph Orlando, NOAA UASD) requesting shipping update as of 2026-06-23. Build complete and awaiting pickup/shipment.",
+  "notes": "S0 Display Model invoice 1762 paid; customer (ENS Joseph Orlando, NOAA UASD) requested shipping update on 2026-06-23. Build complete and awaiting pickup/shipment to NOAA UxSOC.",
   "missing_fields": [
     "tracking_number",
     "shipped_date"

@@ -2,48 +2,53 @@
 
 ## Company Totals
 - **Total Revenue (Invoices):** $7,448,665.62
-  - Commercial: $2,986,489.34
-  - Government: $4,462,176.28
-- **Total Expenses:** $1,572,434.98
-  - Commercial: $240,575.83
-  - Government: $1,331,859.15
-- **Net Income Estimate:** $5,876,230.64
+- **Total Expenses (Bills & Purchases):** $2,699,902.02
+- **Net Income Position:** $4,748,763.60
+- **Reporting Period:** April 5, 2024 – September 28, 2026 (26+ months)
 
 ---
 
 ## By Project/Class
-*(Sorted by total activity/revenue)*
+*(Sorted by total activity)*
 
-| Project | Revenue | Expenses | Net Position | Status |
-|---------|---------|----------|--------------|--------|
-| **Government** | $4,462,176.28 | $1,331,859.15 | $3,130,317.13 | Active (76 invoices) |
-| **Commercial** | $2,986,489.34 | $240,575.83 | $2,745,913.51 | Active (1 recent) |
+| Project | Total Revenue | Total Expenses | Net Position | Status |
+|---------|---------------|----------------|--------------|--------|
+| **Government** | $4,462,176.28 | $1,332,891.27 | **+$3,129,285.01** | Strong |
+| **Commercial** | $2,986,489.34 | $240,803.11 | **+$2,745,686.23** | Strong |
+| **BST Internal** | $17,894.36 | $1,126,207.64 | **-$1,108,313.28** | Loss-making |
+
+**Key Insight:** Government and Commercial projects are highly profitable; BST Internal shows significant negative position (expenses vastly exceed internal revenue recognition).
 
 ---
 
 ## Cash Flow Indicators
 
-### Accounts Receivable (Outstanding Balances)
+### Accounts Receivable (Outstanding Invoices)
 - **Government Projects:** $3,194,865.82 outstanding across 76 active invoices
-- **Commercial Projects:** $25,000.00 outstanding (Invoice #1769, dated 2026-06-09 to EMASS Chip Integration)
-- **Total A/R:** $3,219,865.82
+- **Commercial Projects:** $25,000.00 outstanding (Invoice #1769, EMASS Chip Integration, dated 2026-06-09)
+- **Total A/R:** ~$3,219,865.82
 
-### Recent Activity
-- **Latest Invoice (Commercial):** Invoice #1769 – $25,000.00 (EMASS Chip Integration, June 9, 2026) – **UNPAID**
-- **Government Projects:** 76 active invoices with significant outstanding balances
+### Recent Large Expenses
+- Direct Material Purchases: $1,353.68
+- Direct Costs (Shipping/Freight): $90.16
+- Shop Supplies (Facilities): $292.68
+- *(Note: Most expenses concentrated in Government contracts, up to $1.3M)*
 
-### Purchase Orders
-- Commercial POs: $1,977.50
-- Government POs: $832.00
+### Outstanding Purchase Orders
+- Government: $832.00
+- Commercial: $1,977.50
+- BST Internal: $1,700.00 (PO #1038 to Amprius)
+- **Total Outstanding POs:** $4,509.50
 
 ---
 
-## Data Limitations
-⚠️ **Incomplete Data:** The source data appears truncated. The following details are unavailable:
-- Top vendors by spend (expense breakdown not provided)
-- Top customers by revenue (customer listing incomplete)
-- Detailed expense categories
-- Projects with no recent activity
-- Unclassified transactions
+## Project Status Notes
 
-**Recommendation:** Request complete QuickBooks P&L report and aging receivables report for comprehensive analysis.
+- **Government:** Largest revenue stream; substantial A/R indicates strong contract awards but delayed collections
+- **Commercial:** Healthy profitability; recent invoice suggests active customer engagement (EMASS Chip Integration)
+- **BST Internal:** Significant expense accumulation suggests either R&D/overhead allocation or unmatched internal billing
+
+---
+
+## Unclassified Transactions
+No unclassified transactions noted. All transactions assigned to one of three project classes (Government, Commercial, BST Internal).

@@ -72,3 +72,4 @@ Project paused pending Fall 2026 deployment timeline confirmation. Batteries in 
 
 - **Products/Services**: MHP, Survey Services, Aircraft Rental
 - **Contract End Date**: August 30, 2025 (note: this predates the Fall 2026 deployment; may require contract amendment or extension)
+- **Early Project Notes** (Nov 22, 2023): "Working with USGS on Jan/Feb timing" — superseded by current Fall 2026 timeline

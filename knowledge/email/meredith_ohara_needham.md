@@ -1,10 +1,10 @@
 # Meredith O'hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 385 emails (316 previous + 69 new)
-- **Date range:** June 15–24, 2026 (10 days)
-- **Approximate volume:** ~38–40 emails/day
-- **Trend:** Sustained high operational load; critical payroll/banking issues emerging Jun 23; S0 NOAA display model deal active with multi-party coordination
+- **Total messages scanned:** 423 emails (385 previous + 38 new)
+- **Date range:** June 15–25, 2026 (11 days)
+- **Approximate volume:** ~38–42 emails/day
+- **Trend:** Sustained critical operational load; payroll/banking crisis ongoing through Jun 24; S0 NOAA display model deal continues active coordination; equipment procurement at sustained high volume
 
 ---
 
@@ -14,96 +14,103 @@
 
 **Automated Systems & Purchasing Routing:**
 
-1. **Purchasing system** (`purchasing@blackswifttech.com`) — 140+ messages
-   - **Established vendor activity (Jun 23–24):**
-     - McMaster-Carr (Jun 23, 11:28 & 10:17 UTC) — shipping certificates & tracking
-     - DigiKey (Jun 23, 16:44 & 16:41 UTC CDT) — action required on sales order #99879354; shipment notification invoice 128003092
-     - GetFPV (Jun 23, 18:55 & 18:55 UTC) — order confirmation & invoice
-     - DHL Express (Jun 23, 15:36 UTC) — payment receipt
-     - SendCutSend (Jun 23, 15:28 UTC) — order S1841769 delivered
-     - Hitec RCD USA (Jun 23, 21:25 UTC) — order confirmation #5526
-     - Jawstec (Jun 23, 21:01 UTC) — order #69507 received
-     - Pirate Ship (Jun 24, 06:35 UTC) — shipping cost adjustment & payment receipt ($13.43)
-     - Worldwide Express (Jun 24, 07:45 UTC) — invoice #260621W008238
+1. **Purchasing system** (`purchasing@blackswifttech.com`) — 180+ messages cumulative
+   - **Vendor activity (Jun 24–25):**
+     - McMaster-Carr (Jun 25, 02:26 UTC; Jun 24, 16:28, 15:28) — receipts, certificates, tracking for Jun 22–24 orders
+     - DigiKey (Jun 24, 12:34 CDT) — PO acknowledgement #100009799; previous sales order #99879354 still pending action
+     - Amazon (Jun 25, 05:40 UTC; Jun 24, 17:29, 17:27) — multiple order confirmations including WOLFBOX MF200 Compressed, Method Foaming Hand Soap (household supplies)
+     - Hitec RCD USA (Jun 24, 23:06 UTC) — order update #5526
+     - JawsTec Manufacturing (Jun 24, 14:12 UTC) — payment request for invoice 69507
+     - Driftaway Coffee (Jun 24, 22:16 UTC) — shipment notification (operational supplies)
    
-   - **Subscription/Promotional (new):**
-     - Spindrift (Jun 24, 04:02 UTC) — subscription order incoming
-     - Budget (Jun 23, 16:08 UTC) — Prime Day promotional alert
-     - Dell Technologies (Jun 23, 17:58 UTC) — seasonal pricing alert
+   - **Logistics & Compliance:**
+     - ATA Carnet Invoice (Jun 25, 00:36 UTC) — `US 89/26-64726` routed to operations@blackswifttech.com (international shipping/customs documentation)
    
-   - **Pattern:** Heavy fulfillment/tracking activity (Jun 23–24); multiple concurrent orders in delivery phase; equipment procurement continuing at high volume during Meredith's travel period
+   - **Promotional/Subscription (Jun 24–25):**
+     - Budget (Jun 24, 16:11 CDT) — Prime Day promotional alert
+     - Expedia (Jun 24, 18:15 CDT) — travel check-in feedback (Meredith likely traveling Jun 23–24)
+   
+   - **Pattern:** Heavy order fulfillment cycle (Jun 22–25); mixed hardware components + operational supplies; international shipping documentation (ATA Carnet) suggests export/customs-controlled equipment
 
 ---
 
-### **CRITICAL ESCALATION: Payroll & Banking Crisis (Jun 23, 09:20 UTC)**
+### **CRITICAL: Payroll & Banking Crisis — ESCALATION CONTINUES (Jun 24)**
 
-2. **Rippling Support** — **URGENT MULTI-ISSUE SEQUENCE**
-   - **Issue #1: PAYROLL FAILURE (Jun 23, 09:20 UTC — 11 duplicate alerts)**
-     - `[ACTION REQUIRED] Unable to Run Payroll for Black Swift Technologies` 
-     - **Status:** All marked UNREAD, IMPORTANT
-     - **Trigger:** Likely bank account switch complications (see Issue #2)
-     - **Implication:** Company-wide payroll blocked; time-sensitive executive action required
+2. **Rippling Support** — **ONGOING MULTI-ISSUE RESOLUTION**
+   - **Issue #1: Payroll Account Hold / Wire Transfer Delays**
+     - Meredith → Rippling (Jun 24, 12:16 CDT): `Payroll Account on hold - submitted wire transfers but no update` [SENT]
+     - Rippling → Meredith (Jun 24, 18:18 GMT): Response [IMPORTANT, YELLOW_STAR, STARRED]
+     - Rippling → Meredith (Jun 24, 22:16 GMT): Follow-up `Re: Payroll Account on hold...` [IMPORTANT, UNREAD]
+     - **Status:** Payroll account still on hold as of Jun 24 evening; wire transfers submitted but pending clearance
    
-   - **Issue #2: Bank Account Misconfiguration**
-     - Meredith → Rippling (Jun 23, 09:52 UTC): "Switched bank account in Rippling - was not used" [SENT]
-     - Rippling → Meredith (Jun 23, 15:32 UTC): Response [IMPORTANT, UNREAD]
-     - Meredith → Rippling (Jun 23, 09:31 UTC): Follow-up [SENT]
-     - **Context:** Meredith actively troubleshooting bank account configuration error
-     - **Payroll correction escalation:** "Cancel Payroll Corrections Due To Insufficient Funds" (Jun 23, 16:10 UTC) [IMPORTANT]
+   - **Issue #2: Tax Deduction Errors (2 employees)**
+     - Meredith → Rippling (Jun 24, 12:33 CDT): `Incorrect tax deductions for 2 employees in payroll` [SENT]
+     - Rippling → Meredith (Jun 24, 18:34 GMT): Response [IMPORTANT, UNREAD]
+     - Meredith → Rippling (Jun 24, 12:41 CDT): Follow-up [SENT]
+     - Rippling → Meredith (Jun 24, 18:42 GMT): Response [IMPORTANT, UNREAD]
+     - Meredith → Rippling (Jun 24, 12:47 CDT): Further engagement [SENT]
+     - **Pattern:** Rapid back-and-forth; Meredith actively troubleshooting specific employee records
    
-   - **Issue #3: Pay Run Approval Alert**
-     - Rippling (Jun 23, 20:11 UTC): "Reminder that the following pay runs are due for approval" [IMPORTANT]
-     - **Status:** Pending approval from Meredith
+   - **Issue #3: Employee Classification & Tax Status**
+     - Meredith → Rippling (Jun 24, 10:44 CDT): Draft email (unsent)
+     - Meredith → Rippling (Jun 24, 10:49 CDT): `Re: Help with fixing incorrect employee classification and changing tax status` [SENT]
+     - Rippling → Meredith (Jun 24, 21:23 GMT): Response [IMPORTANT, UNREAD]
+     - **Context:** Multi-part employee record corrections alongside Jun 23 bank account switch
    
-   - **Severity:** CRITICAL — Multi-part payroll system failure tied to banking integration; Meredith actively engaged in real-time resolution; may impact company operations
-
----
-
-### **CRITICAL: Banking/Wire Transfer Issue (Jun 23)**
-
-3. **Elevations Credit Union** — **3 PROFILE CHANGE ALERTS (Jun 23, 17:29–18:18 UTC)**
-   - `A change was made to your Elevations Credit Union online banking profile` (3x)
-   - **Status:** All marked IMPORTANT, UNREAD
-   - **Pattern:** Rapid-fire alerts (49 min apart) suggest either:
-     - Suspicious account activity / security incident
-     - Legitimate multi-step authorization process for wire transfers (see below)
-     - Account relink/reconfiguration following bank switch
-   
-   - **Direct wire transfer communications:**
-     - Candace DaSilva (Elevations CU) → admin@blackswifttech.com (Jun 23, 19:08 UTC): `Elevations Credit Union: Pending Wire Authorizations` [IMPORTANT, UNREAD]
-     - Meredith → Candace DaSilva (Jun 23, 13:24 UTC): `Re: Elevations Credit Union: Pending Wire Authorizations` [SENT]
-       - **Implication:** Meredith addressing pending wire authorization directly; may be tied to equipment/component shipment payments
-   
-   - **KCO Inc payment confirmation (Jun 23, 21:01 UTC):**
-     - `Payment Receipt from KCO Inc for $3,845.00` [UNREAD]
-     - **Context:** High-value payment processed during banking complications; may be equipment/service vendor
-   
-   - **Shelby Hammond (Elevations CU contact) direct coordination:**
-     - Meredith → Shelby (Jun 23, 15:10 UTC): `Jack tried calling` [SENT]
-     - Meredith → Shelby (Jun 23, 14:30 UTC): `Information for wire transfers` [SENT]
-     - **Implication:** Meredith & Jack Elston coordinating with Elevations CU to execute urgent wire transfers; possible supplier/vendor payment or contract fulfillment
-
-   - **Severity:** HIGH — Banking system reconfiguration underway concurrent with payroll failure; wire authorization chain in progress; suggests financial/operational disruption in progress
+   - **Severity:** CRITICAL ONGOING — Payroll system still non-functional as of Jun 24 PM; wire transfers authorized but not clearing; at least 3 separate employee record corrections in flight; indicates systemic payroll/HR configuration issues tied to banking reconfiguration
 
 ---
 
-### **CRITICAL: S0 NOAA Display Model Deal — ACTIVE MULTI-PARTY NEGOTIATION**
+### **CRITICAL: Banking/Wire Transfer Issue — Payroll Funding (Jun 24)**
 
-4. **NOAA Federal Contacts — Emergent Thursday Deal Sequence (Jun 23)**
-   
-   - **Grant Rawson (NOAA)** → Meredith (Jun 23, 17:28 UTC CDT): `Re: S0 display model cost` [IMPORTANT, UNREAD]
-   
-   - **Nikolai Pawlenko (NOAA)** → Meredith (Jun 23, 14:21 UTC PDT): `Permanent Change of Station (PCS) Re: S0 display model cost` [IMPORTANT, UNREAD]
-     - **NOTE:** "Permanent Change of Station" suggests Nikolai reassignment context; may affect ongoing deal negotiations
-   
-   - **Jack Elston (BST) → Grant Rawson (NOAA) (Jun 23, 15:12 UTC CDT):** `Re: S0 display model cost` [IMPORTANT]
-   
-   - **Nikolai Pawlenko → Grant Rawson (Jun 23, 21:04 UTC CDT):** `Re: S0 display model cost` [UNREAD, IMPORTANT]
-     - **Timing:** After business hours; indicates priority escalation
-   
-   - **Meredith → Jack Elston (Jun 23, 15:21 UTC CDT):** `Re: S0 display model cost` [SENT]
-   
-   - **Meredith → Joseph Orlando (NOAA) (Jun 23, 15:31 UTC CDT):** `Status of Model S0` [SENT]
-     - **Draft exists** (Jun 23, 14:00 UTC) — Meredith composed & sent formal status update
-   
-   - **Meredith → Jack Elston (Jun 23, 15:11 UTC
+3. **Elevations Credit Union / Shelby Hammond**
+   - Meredith → Shelby Hammond (Jun 24, 13:41 CDT): `Black Swift upcoming Payroll Wire Transfer` [SENT]
+   - Shelby Hammond → Meredith (Jun 24, 21:12 GMT): `RE: Black Swift upcoming Payroll Wire Transfer` [IMPORTANT, UNREAD]
+   - **Context:** Direct payroll funding wire authorization with bank contact; confirms Jun 23 wire authorization sequence was payroll-related
+   - **Status:** Shelby engaged specifically for payroll wire execution; response marked IMPORTANT suggests approval/action status
+
+---
+
+### **ACTIVE: S0 NOAA Display Model Deal — Multi-Party Negotiation (Jun 24)**
+
+4. **NOAA Federal Contacts & BST Internal**
+   - Meredith → Grant Rawson (NOAA) (Jun 24, 11:36 CDT): `Re: S0 display model cost` [SENT]
+   - Grant Rawson → Nikolai Pawlenko (NOAA) (Jun 24, 09:37 EDT): `Re: S0 display model cost` [IMPORTANT]
+   - **Status:** Deal continues active; Meredith engaged directly with NOAA on pricing/logistics as of Jun 24 morning
+
+---
+
+### **NEW: Healthcare/Benefits Coordination**
+
+5. **Chad Atwood** (`chad@theaiginc.com`)
+   - Meredith → Chad Atwood (Jun 24, 09:26 CDT): `Healthcare selection` [SENT]
+   - Chad Atwood → Meredith (Jun 24, 16:11 CDT): `Re: Healthcare selection` [IMPORTANT, UNREAD]
+   - **Context:** External contact (likely benefits broker or HR vendor); concurrent with employee classification corrections in Rippling
+   - **Relationship:** Direct coordination; suggests Chad manages BST benefits/health plan administration
+
+---
+
+### **HR/Payroll System Updates**
+
+6. **Human Interest** (401(k) provider)
+   - Notification → Meredith (Jun 25, 00:20 UTC): `Jack Elston has changed their 401(k) contribution rate` [UNREAD]
+   - **Context:** Jack Elston (BST exec) modified retirement contributions; routed directly to Meredith
+
+---
+
+### **Supporting Internal Communications**
+
+7. **Daniel Prendergast** (BST) → Robert Correia (external vendor)
+   - Meredith was copied/involved in discussion: `Re: Battery Shipment return from Ottawa Canada / Quote # 141681` [IMPORTANT, UNREAD]
+   - **Context:** Cross-border battery component logistics; BST-coordinated return/quote cycle
+
+---
+
+## Topic Patterns
+
+### **Critical Business Topics (Jun 24–25)**
+
+| Theme | Evidence | Status |
+|-------|----------|--------|
+| **Payroll System Failure** | Rippling support tickets (tax errors, employee classification, account hold, wire delays) | **CRITICAL ONGOING** |
+| **Banking
