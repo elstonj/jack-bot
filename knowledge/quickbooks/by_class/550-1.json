@@ -4,13 +4,16 @@
     "[550-1] Navy SBIR Magnetometer"
   ],
   "period": {
-    "start": "2026-06-23",
-    "end": "2026-06-24"
+    "start": "2026-06-24",
+    "end": "2026-06-25"
   },
   "totals": {
     "revenue": 49459.0,
-    "expenses": 0.0,
-    "by_category": {}
+    "expenses": 1302.91,
+    "by_category": {
+      "DIRECT COSTS:DC-Direct Material Purchases": 1261.34,
+      "FACILITIES:FA-Shop Supplies": 41.57
+    }
   },
   "invoices": [
     {
@@ -61,7 +64,59 @@
     }
   ],
   "bills": [],
-  "purchases": [],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-06-24",
+      "doc_number": "0624JELSTON",
+      "total": 207.28,
+      "attributed": 20.93,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - project listed under each item",
+      "lines": [
+        {
+          "amount": 2.58,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "By Light Supplies"
+        },
+        {
+          "amount": 183.77,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Shop Supplies"
+        },
+        {
+          "amount": 20.93,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Navy Magnetometer"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-24",
+      "doc_number": "0622JELSTON",
+      "total": 1305.41,
+      "attributed": 1281.98,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - project listed under each item",
+      "lines": [
+        {
+          "amount": 1281.98,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "supplies for 550-1 Navy: Magnetometer"
+        },
+        {
+          "amount": 23.43,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "T-Slotted Framing, Triple Nut and M8 Flanged Button Head"
+        }
+      ]
+    }
+  ],
   "purchase_orders": [],
   "payments": []
 }

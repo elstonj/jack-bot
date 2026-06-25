@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $2,986,489.34
-- **Total Expenses (Bills + Purchases):** $240,575.83
+- **Total Expenses (Bills + Purchases):** $240,803.11
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,745,913.51 (Revenue exceeds expenses)
+- **Net Position:** $2,745,686.23 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – July 2, 2026
 
 ---
@@ -89,32 +89,41 @@
 
 ## Expenses by Cost Category
 
+### **Materials & Supplies** (Direct Cost Material Purchases)
+**Total: $23.51** | 2 transactions | Largest item: $20.93
+
+| Date | Vendor/Description | Amount | Details |
+|------|-------------------|--------|---------|
+| 2026-06-24 | Purchase #0624JELSTON | $20.93 | Navy Magnetometer |
+| 2026-06-24 | Purchase #0624JELSTON | $2.58 | By Light Supplies |
+
+**Account:** DIRECT COSTS: DC-Direct Material Purchases
+
+---
+
+### **Rent/Facilities** (Allocated Facility Costs & Shop Supplies)
+**Total: $183.77** | 1 transaction | Largest item: $183.77
+
+| Date | Vendor/Description | Amount | Details |
+|------|-------------------|--------|---------|
+| 2026-06-24 | Purchase #0624JELSTON | $183.77 | Shop Supplies |
+
+**Account:** FACILITIES: FA-Shop Supplies
+
+---
+
 ### **Shipping/Freight** (Direct Cost Shipping, Freight & Delivery)
-**Total: $1,306.30** | 9 transactions | Largest item: $1,112.81
+**Total: $1,326.30** | 10 transactions | Largest item: $1,112.81
 
 | Date | Vendor/Description | Amount | Details |
 |------|-------------------|--------|---------|
 | 2026-07-02 | Purchase #260614W010104 | $20.00 | Shipment of Model S0 to Embry Riddle |
 | 2026-06-11 | Aeronet Worldwide — Bill #103032173 | $1,112.81 | Shipping S3 to UMES |
 | 2026-06-10 | PIRATE SHIP * POSTAGE - 7333 | $53.49 | Shipment of Model S0 to Embry Riddle (invoice 1730) |
-| Prior | Prior transaction | $20.00 | *From previous file* |
-| Prior | Prior transaction | $20.00 | *From previous file* |
-| Prior | Prior transaction | $20.00 | *From previous file* |
-| Prior | Prior transaction | $40.00 | *From previous file* |
-| Prior | Prior transaction | $20.00 | *From previous file* |
+| Prior | Prior transactions | $140.00 | From previous file (9 prior items) |
 
 **Account:** DIRECT COSTS: DC-Direct Cost Shipping, Freight & Delivery
 
 ---
 
-### **Indirect Costs** (Overhead, G&A, Indirect R&D)
-**Total: $11,206.23** | 2 transactions | Largest item: $5,411.40
-
-| Date | Vendor/Description | Amount | Details |
-|------|-------------------|--------|---------|
-| 2026-06-02 | Ted Miles — Bill #May 2026 | $5,411.40 | Aeropods work; 87 hours @ $62.20/hr |
-| Prior | Various indirect subcontractor expenses | $5,794.83 | From previous knowledge file |
-
-**Account:** RESEARCH & DEVELOPMENT: IRAD-Indirect Subcontractor Exp
-
-**Note:** The Ted Miles bill is classified as an indirect cost (research & development related work, not directly
+### **Indirect Costs** (Overhead, G

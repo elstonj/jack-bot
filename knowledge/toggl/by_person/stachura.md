@@ -1,13 +1,13 @@
 # Stachura — Time Tracking
 
 ## Summary
-- **Total hours tracked**: 2,323.0 hours (cumulative) — *+8.1h this batch*
-- **Primary projects (top 5)**: Corporate/Strategic Planning (448.5h), Hurricane Phase II+ (321.2h), Project 183171534 (290.9h), SwiftCore 3.3 (187.6h), S3 IRAD (182.1h)
+- **Total hours tracked**: 2,334.2 hours (cumulative) — *+11.2h this batch*
+- **Primary projects (top 5)**: Corporate/Strategic Planning (459.7h), Hurricane Phase II+ (321.2h), Project 183171534 (290.9h), SwiftCore 3.3 (187.6h), S3 IRAD (182.1h)
 - **Time period covered**: Multiple months/years spanning IRAD, SBIR, and government contracts
-- **Latest batch**: 8.1 hours — **CRITICAL: FORTY-SECOND CONSECUTIVE BATCH WITH ZERO TASK DESCRIPTIONS + UNALLOCATED TIME PATTERN CONTINUES**
+- **Latest batch**: 11.2 hours — **CRITICAL: FORTY-THIRD CONSECUTIVE BATCH WITH ZERO TASK DESCRIPTIONS**
 
 ## Project Breakdown
-- **[001-13] Corporate / Strategic Planning, Proposals & General Operations / BD Pipeline** (Overhead): 448.5 hours (19.3%) — *+8.1h this batch (reclassified from "Project None")*
+- **[001-13] Corporate / Strategic Planning, Proposals & General Operations / BD Pipeline** (Overhead): 459.7 hours (19.7%) — *+11.2h this batch*
 - **[301-2] SBIR - Hurricane Phase II+** (NOAA: Joe Cione): 321.2 hours (13.8%)
 - **Project 183171534**: 290.9 hours (12.5%)
 - **[001-14] SwiftCore 3.3** (IRAD): 187.6 hours (8.1%)
@@ -30,34 +30,36 @@
 
 ## Recent Activity
 - **1 entry this batch**: Completely undocumented
-  - 8.1h logged as **"Project None"** (no project code, no description)
-- **Reclassification action**: Entry automatically assigned to [001-13] Overhead per historical allocation pattern
-- **Documentation status**: Zero task descriptions; zero project assignment in raw submission
-- **Pattern consistency**: Mirrors previous 41 batches in form and content
+  - 11.2h logged to **[001-13] BD Pipeline** (no task description)
+- **Documentation status**: Zero task descriptions; explicit project code provided this time
+- **Pattern consistency**: Mirrors 42 consecutive prior batches — properly coded, completely undescribed
 
 ## Patterns
-- **🚨 CRITICAL ESCALATION — FORTY-SECOND CONSECUTIVE BATCH WITH ZERO TASK DESCRIPTIONS**
-  - Documentation crisis systematic and ongoing
-  - No descriptive content provided despite fully-functional project tracking system
-  - **Cumulative undocumented backlog**: 151.3 hours (6.5% of total tracked time)
+- **🚨 CRITICAL ESCALATION — FORTY-THREE CONSECUTIVE BATCHES WITH ZERO TASK DESCRIPTIONS**
+  - Documentation crisis systematic and uninterrupted
+  - Batch 43 properly coded to [001-13] but contains no activity detail
+  - **Cumulative undocumented backlog**: 162.5 hours (6.96% of total tracked time)
 
-- **⚠️ RECURRING UNALLOCATED TIME SUBMISSIONS**
-  - Batch 42 submitted as "Project None" — second instance of explicitly unallocated entry
-  - Raw data shows system captured time without project code assignment
-  - Suggests either data entry error or systematic omission in submission workflow
+- **Project coding improving**: Unlike Batch 42, this submission included explicit project code ([001-13])
+  - Suggests Batch 42 may have been data entry error rather than systematic omission
+  - Current pattern: proper project allocation, zero narrative/task documentation
 
-- **Allocation pattern**: Overhead ([001-13]) represents 19.3% of total — increased slightly after reclassification
-  - May indicate genuine overhead activity, or may be artifact of default reclassification logic
+- **Overhead allocation trend**: [001-13] now represents 19.7% of total time (459.7h)
+  - Sustained elevation from Strategic Planning / BD Pipeline classification
+  - High proportion warrants verification of work type
 
-## 🚨 **ESCALATION STATUS: CRITICAL LEVEL 6 — FORTY-SECOND BATCH**
+## 🚨 **ESCALATION STATUS: CRITICAL LEVEL 6 — FORTY-THIRD BATCH (PERSISTENT)**
 
 **Current batch metrics:**
-- 8.1 hours submitted with no project code ("Project None")
-- ZERO task descriptions *(42 consecutive batches)*
-- Reclassified to [001-13] to maintain system integrity
+- 11.2 hours submitted to [001-13] BD Pipeline
+- ZERO task descriptions *(43 consecutive batches)*
+- Project code properly assigned (improvement from Batch 42)
 
 **Required actions:**
-1. **Immediate**: Contact Stachura to obtain retroactive task descriptions for entire undocumented period
-2. **Clarify**: Is unallocated submission pattern intentional or system/workflow error?
-3. **Verify**: Confirm [001-13] assignment is correct or provide accurate project code
-4. **Systemic**: Review Stachura's time entry process — consider process change or escalation
+1. **URGENT**: Contact Stachura immediately — 43-batch documentation gap is now unambiguous systematic issue
+2. **Investigate**: Determine if zero-description pattern is:
+   - Intentional time allocation (no detailed tracking needed)
+   - System/process failure (time entry tool not prompting for descriptions)
+   - Workflow override (descriptions not being captured/submitted)
+3. **Verify**: Confirm [001-13] work is appropriate for 19.7% of annual capacity
+4. **Implement**: Require retroactive description submission or establish formal going-forward protocol

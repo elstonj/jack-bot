@@ -1,7 +1,7 @@
 # #25_1-navy-sbir-magnetometer
 
 ## Overview
-This channel is focused on Black Swift Technologies' Navy Small Business Innovation Research (SBIR) project for developing magnetometer-equipped aircraft systems. The project involves integrating QuSpin magnetometers with BST's aircraft platforms for magnetic signature detection applications (MAD - Magnetic Anomaly Detection). Key participants include Beck, Maciej, Tyler, Sam Hild, Alex Lomis, Joshua Fromm, and Jack Elston from BST, with external collaboration from QuSpin (Jeff), Ultra Maritime (Paul), Navy DEVCOM (Morris "DeSi"), Navy TPOC (Angel Ruiz-Reyes), Royal Navy contact Simon, and external consultant Eric Correa. Activity spans from October 2025 through June 2026, covering Phase I completion, Phase II proposal submission, kickoff, and ongoing Option period development with flight testing preparation and sensor optimization work.
+This channel is focused on Black Swift Technologies' Navy Small Business Innovation Research (SBIR) project for developing magnetometer-equipped aircraft systems. The project involves integrating QuSpin magnetometers with BST's aircraft platforms for magnetic signature detection applications (MAD - Magnetic Anomaly Detection). Key participants include Beck Cotter, Maciej, Tyler, Sam Hild, Alex Lomis, Joshua Fromm, and Jack Elston from BST, with external collaboration from QuSpin (Jeff), Ultra Maritime (Paul), Navy DEVCOM (Morris "DeSi"), Navy TPOC (Angel Ruiz-Reyes), Royal Navy contact Simon, and external consultant Eric Correa. Additional BST staff include Meredith Needham (administrative/coordination). Activity spans from October 2025 through June 2026, covering Phase I completion, Phase II proposal submission, kickoff, and ongoing Option period development with flight testing preparation and sensor optimization work.
 
 ## Key Decisions
 
@@ -70,5 +70,4 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Status Update (May 8, 2026): Informal indication received that Phase II award appears likely based on Navy contacts (not yet official)
 
 **Phase II Option Period (August 2026 - primary focus):**
-- Status: Task modifications approved by Navy on April 21, 2026
-- Primary objective: August 17-28 Camp Pend
+- Status: Task modifications approved by Navy on April

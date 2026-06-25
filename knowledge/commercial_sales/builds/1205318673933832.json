@@ -63,12 +63,11 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Two S0 VTOL units ordered and fully paid (Invoice 1667, May 2025; Invoice 1545, Jan 2023). Legal disclosure indicates delivery delays and pending settlement agreement. Original Asana task marked 'Closed' due to unfunded grant proposal, but QBO invoices confirm active customer obligation for hardware delivery.",
+  "notes": "Two S0 VTOL units fully paid (Invoice 1667, May 2025). Build complete as of May 2025; awaiting shipment for Aug/Sept 2026 ISARRA Flight Week campaign. Jack Elston confirmed delivery target of Aug/Sept 2026 and proposed shipping units to ISARRA site. Asana task marked 'Closed' due to unfunded grant proposal, but QBO invoices and recent live customer correspondence (May 2026) confirm active delivery obligation. KEPT per Step 1 override: QBO Invoice #1667 matched to this order + substantive email activity in last 90 days.",
   "missing_fields": [
-    "receive_by",
     "shipped_date",
     "tracking_number"
   ],
-  "last_evidence_date": "2026-06-22",
+  "last_evidence_date": "2026-06-24",
   "last_contact_date": "2026-05-21"
 }

@@ -4,11 +4,11 @@
 
 This channel tracks Black Swift Technologies' grant applications, funding pursuits, and government contracting efforts across federal agencies (NASA, DOD, NOAA, USDA, etc.). It serves as the central hub for proposal submissions, funding strategy discussions, budget development, and award management.
 
-**Key Participants:** Jack Elston (primary decision-maker and proposal reviewer), Maciej (technical/proposal support and field operations), Meredith Needham (budget/administrative), Dan Prendergast (proposal coordination), Beck Cotter (program management/budget formatting/export compliance), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm (hardware/integration), Paige Smith (presentation/logistics support), Arthur (technical partner for payload/antenna work), Bryan (external contact for Vulcan opportunity), Sona (operational/budget planning), Gijs (BNL partner), Kirsten Boogard (777 PM at NOAA), Bob and Lisa (camera/integration leads), SkyMesa (RF/EW partner), Hank (external contact with S3 design requests), Ariel (pipeline/portfolio oversight), Lockheed Martin UK (LMUK - partnership contact), Annette (format/process coordinator), Kreateo (external legal/compliance consultant for USML classification), Alex (RF analysis), Trenton/NexTech (external contact for temperature capability discussions), C-Astral (external contact), and others contributing to specific proposals.
+**Key Participants:** Jack Elston (primary decision-maker and proposal reviewer), Maciej (technical/proposal support and field operations), Meredith Needham (budget/administrative), Dan Prendergast (proposal coordination and logistics), Beck Cotter (program management/budget formatting/export compliance), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm (hardware/integration), Paige Smith (presentation/logistics support), Arthur (technical partner for payload/antenna work), Bryan (external contact for Vulcan opportunity), Sona (operational/budget planning), Gijs (BNL partner), Kirsten Boogard (777 PM at NOAA), Bob and Lisa (camera/integration leads), SkyMesa (RF/EW partner), Hank (external contact with S3 design requests), Ariel (pipeline/portfolio oversight), Lockheed Martin UK (LMUK - partnership contact), Annette (format/process coordinator), Kreateo (external legal/compliance consultant for USML classification), Alex (RF analysis), Trenton/NexTech (external contact for temperature capability discussions), C-Astral (external contact), and others contributing to specific proposals.
 
 **Activity Level:** Extremely high throughout the period (March 2024 - June 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. June 2026 represents a particularly intense period with concurrent work on Arctic customer qualification, SOCOM engagement, international demonstration travel logistics, customer questionnaire responses, camera/video integration troubleshooting, and demo preparation alongside ongoing proposal work.
 
-**Time Range:** March 3, 2024 - June 23, 2026
+**Time Range:** March 3, 2024 - June 24, 2026
 
 ---
 
@@ -74,4 +74,4 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 - **NASA 2026B SBIR focus** (April 21, 2026): Maciej confirmed only 2026B SBIR release contains non-space topics with BST fit (other releases space-focused)
 
 - **DOE Genesis Proposal finalized and submitted** (April 22-30, 2026):
-  - **April 22:** Beck Cotter raised concern about lead/subcontractor arrangement change requiring r
+  - **April 22:** Beck Cotter raised concern about lead/subcontractor arrangement change

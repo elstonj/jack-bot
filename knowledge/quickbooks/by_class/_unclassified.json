@@ -1,16 +1,20 @@
 {
   "project_code": "_unclassified",
   "qbo_class_names": [
-    "[012-3] Embry Riddle Model S0"
+    "",
+    "[012-3] Embry Riddle Model S0",
+    "[043] By Light Professional IT Services LLC"
   ],
   "period": {
-    "start": "2026-06-23",
-    "end": "2026-06-24"
+    "start": "2026-06-24",
+    "end": "2026-06-25"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 20.0,
+    "expenses": 315.26,
     "by_category": {
+      "FACILITIES:FA-Shop Supplies": 251.11,
+      "DIRECT COSTS:DC-Direct Material Purchases": 44.15,
       "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 20.0
     }
   },
@@ -32,6 +36,75 @@
           "amount": 20.0,
           "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
           "description": "Shipment of Model S0 to Embry Riddle"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-24",
+      "doc_number": "0624JELSTON",
+      "total": 207.28,
+      "attributed": 186.35000000000002,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - project listed under each item",
+      "lines": [
+        {
+          "amount": 2.58,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "By Light Supplies"
+        },
+        {
+          "amount": 183.77,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Shop Supplies"
+        },
+        {
+          "amount": 20.93,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Navy Magnetometer"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-24",
+      "doc_number": "0622JELSTON",
+      "total": 1305.41,
+      "attributed": 23.43,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - project listed under each item",
+      "lines": [
+        {
+          "amount": 1281.98,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "supplies for 550-1 Navy: Magnetometer"
+        },
+        {
+          "amount": 23.43,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "T-Slotted Framing, Triple Nut and M8 Flanged Button Head"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-24",
+      "doc_number": "",
+      "total": 85.48,
+      "attributed": 85.48,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*LL76Y6H03 - 4617",
+      "lines": [
+        {
+          "amount": 85.48,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Air Duster"
         }
       ]
     }

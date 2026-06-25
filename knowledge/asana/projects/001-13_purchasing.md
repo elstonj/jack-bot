@@ -3,73 +3,64 @@
 ## Overview
 - **Client/customer:** Internal BST purchasing system (serves all active projects)
 - **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across multiple projects
-- **Timeline:** Ongoing operational project; orders due Jun 22–25, 2026
-- **Status:** **ACTIVE — CRITICAL RECOVERY WITH NEW CONCERNS.** Task count increased to **6 open tasks** (up from 5 in prior cycle). ⚠️ **KEY CHANGES:**
-  - All 5 prior tasks now marked **"Order Placed"** status (form-based auto-status mechanism appears functional).
-  - **NEW DUPLICATE TASK DETECTED:** "JawsTec- ByLight Gimbal (again)" (#69507) is a duplicate of "JawsTec- ByLight Gimbal" (#69507) — both assigned to Ethan, same project, same due date. Indicates form submission error or manual re-submission.
-  - **GetFPV task now "Order Shipped"** (status advanced beyond prior "Order Placed" state).
-  - **All orders remain assigned 100% to Meredith O'hara Needham** — single-point-of-failure risk unresolved.
-  - **Project field truncation persists** in raw data (e.g., "[300-3] 2026 IDIQ (", "[043-3] Musta", "[550-1] Navy SBIR: Magnetomete").
+- **Timeline:** Ongoing operational project; orders due Jun 22–26, 2026
+- **Status:** **ACTIVE — CRITICAL WORKLOAD SPIKE & DUPLICATE TASK UNRESOLVED.** Task count increased from **6 to 9 open tasks** (50% growth). ⚠️ **KEY CONCERNS:**
+  - **DUPLICATE TASK PERSISTS:** "JawsTec- ByLight Gimbal (again)" (#69507) remains unresolved — appears to be exact duplicate of "JawsTec- ByLight Gimbal" (#69507).
+  - **3 NEW TASKS ADDED:** Amazon shop supplies, Amazon Lava Lamp bulb, Digikey for IDIQ (distinct from prior GCS wifi order). Form-based submission system appears to be functioning and attracting new requests.
+  - **Status progression visible:** 3 tasks now "Order Shipped" (GetFPV, Digikey GCS wifi, Digikey for IDIQ) vs. 1 in prior cycle — orders are executing.
+  - **ALL 9 TASKS 100% ASSIGNED TO MEREDITH O'HARA NEEDHAM** — Single-point-of-failure risk **CRITICAL and unaddressed.** Workload has increased 50% with no delegation.
+  - **NEW REQUESTERS ADDED:** Joshua Fromm (2 tasks) in addition to prior requesters (Ethan, Alex, Nate).
+  - **Project field truncation continues** in raw data.
 
 - **Team members involved:**
-  - **Meredith O'hara Needham** (6/6 assigned; 100% of open workload; project owner)
-  - **Requesters:** Alex (2 tasks), Ethan (3 tasks), Nate (1 task)
+  - **Meredith O'hara Needham** (9/9 assigned; 100% of open workload; project owner)
+  - **Requesters:** Ethan (3 tasks), Joshua Fromm (2 tasks), Alex (2 tasks), Nate (1 task)
 
 - **Risk signals:**
-  - 🔴 **DUPLICATE TASK:** "JawsTec- ByLight Gimbal (again)" is identical to existing task #69507. Requires immediate deduplication.
-  - 🔴 **PERSISTENT SINGLE-POINT-OF-FAILURE: MEREDITH 100%** — All 6 orders assigned exclusively to Meredith. No delegation to team despite prior recommendations.
-  - 🟡 **IMMINENT DEADLINES (JUN 22–25, 2026)** — All orders due within 1–4 days. Minimal buffer.
-  - 🟡 **FORM-BASED STATUS UPDATES WORKING** — Tasks now show "Order Placed" and "Order Shipped" statuses, suggesting form mechanism is functional. However, no auto-closure yet (tasks remain open despite status changes).
+  - 🔴 **UNRESOLVED DUPLICATE TASK:** "JawsTec- ByLight Gimbal (again)" (#69507) matches "JawsTec- ByLight Gimbal" (#69507) — identical vendor, amount due, requester (Ethan), project. Deduplication recommended in prior cycle but NOT EXECUTED.
+  - 🔴 **CRITICAL SINGLE-POINT-OF-FAILURE:** Meredith at 100% capacity (9 tasks due Jun 22–26). No mitigation despite prior risk flagging.
+  - 🟠 **IMMINENT DEADLINES:** 7 tasks due Jun 22–25; 2 due Jun 26. **TODAY IS LIKELY JUN 21 OR LATER** — minimal execution buffer remaining.
+  - 🟡 **NEW REQUESTER ONBOARDING:** Joshua Fromm submitting via form (2 tasks). Indicates form mechanism is working but may attract increased volume without corresponding workload distribution.
 
 ## Key Deliverables & Milestones
 
-### **DUE JUN 22–25, 2026 — 6 Tasks** *(5 unique orders + 1 duplicate)*
+### **DUE JUN 22–26, 2026 — 9 Tasks** *(8 unique + 1 duplicate)*
 
 | Task | Due | Vendor | Assigned | Project | Requester | Status | Duplicate? |
 |------|-----|--------|----------|---------|-----------|--------|-----------|
-| GetFPV | Jun 22, 2026 | GetFPV | Meredith O'hara Needham | Shop Supplies | Alex | **Order Shipped** | No |
-| Jawstec | Jun 23, 2026 | Jawstec | Meredith O'hara Needham | [550-1] Navy SBIR: Magnetometer | Alex | Order Placed | No |
-| HiTec- ByLight | Jun 23, 2026 | HiTec- ByLight | Meredith O'hara Needham | [043-3] Mustang Pt. 2 | Ethan | Order Placed | No |
-| JawsTec- ByLight Gimbal | Jun 23, 2026 | JawsTec- ByLight Gimbal | Meredith O'hara Needham | [043-3] Mustang Pt. 2 | Ethan | Order Placed | **YES (orig #69507)** |
-| JawsTec- ByLight Gimbal (again) | Jun 23, 2026 | JawsTec- ByLight Gimbal | Meredith O'hara Needham | [043-3] Mustang Pt. 2 | Ethan | Order Placed | **YES (duplicate)** |
-| Digikey (GCS wifi) | Jun 23, 2026 | Digikey | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Nate | Order Placed | No |
+| GetFPV (#1001480217) | Jun 22, 2026 | GetFPV | Meredith O'hara Needham | Shop Supplies | Alex | **Order Shipped** | No |
+| Digikey (GCS wifi) (#99989011) | Jun 23, 2026 | Digikey | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Nate | **Order Shipped** | No |
+| Jawstec (#69507) | Jun 23, 2026 | Jawstec | Meredith O'hara Needham | [550-1] Navy SBIR: Magnetometer | Alex | Order Placed | No |
+| HiTec- ByLight (#5526) | Jun 23, 2026 | HiTec- ByLight | Meredith O'hara Needham | [043-3] Mustang Pt. 2 | Ethan | Order Placed | No |
+| JawsTec- ByLight Gimbal (#69507) | Jun 23, 2026 | JawsTec- ByLight Gimbal | Meredith O'hara Needham | [043-3] Mustang Pt. 2 | Ethan | Order Placed | **YES (original)** |
+| JawsTec- ByLight Gimbal (again) (#69507) | Jun 23, 2026 | JawsTec- ByLight Gimbal | Meredith O'hara Needham | [043-3] Mustang Pt. 2 | Ethan | Order Placed | **YES (DUPLICATE)** |
+| Digikey for IDIQ (#009799) | Jun 24, 2026 | Digikey | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | **Order Shipped** | No |
+| Amazon for shop supplies | Jun 24, 2026 | Amazon | Meredith O'hara Needham | Shop Supplies | Joshua Fromm | Order Placed | No |
+| Amazon- Lava Lamp bulb | Jun 24, 2026 | Amazon | Meredith O'hara Needham | [001-1] IRAD General | Ethan | Order Placed | No |
 
 ## Task Summary
 
-- **Total tasks:** 6 open, 0 completed
-  - **5 unique orders** (GetFPV, Jawstec, HiTec-ByLight, JawsTec-ByLight Gimbal, Digikey)
-  - **1 duplicate** (JawsTec-ByLight Gimbal submitted twice)
+- **Total tasks:** 9 open, 0 completed
+  - **8 unique orders** (GetFPV, Digikey GCS wifi, Jawstec, HiTec-ByLight, JawsTec-ByLight Gimbal, Digikey for IDIQ, Amazon shop supplies, Amazon Lava Lamp bulb)
+  - **1 duplicate** (JawsTec-ByLight Gimbal submitted twice under identical task ID #69507)
 - **Tasks by assignee:**
-  - **Meredith O'hara Needham:** 6/6 (100%)
+  - **Meredith O'hara Needham:** 9/9 (100%)
 - **Requester distribution:**
-  - **Ethan:** 3/6 (HiTec-ByLight, JawsTec-ByLight Gimbal, JawsTec-ByLight Gimbal again)
-  - **Alex:** 2/6 (Jawstec, GetFPV)
-  - **Nate:** 1/6 (Digikey GCS wifi)
+  - **Ethan:** 3/9 (HiTec-ByLight, JawsTec-ByLight Gimbal x2, Amazon Lava Lamp bulb)
+  - **Joshua Fromm:** 2/9 (Amazon shop supplies, Digikey for IDIQ) — *NEW REQUESTER*
+  - **Alex:** 2/9 (Jawstec, GetFPV)
+  - **Nate:** 1/9 (Digikey GCS wifi)
 - **Projects covered:**
-  - [043-3] Mustang Pt. 2 (3 tasks; includes 1 duplicate)
+  - [043-3] Mustang Pt. 2 (2 tasks; includes 1 duplicate)
+  - [300-3] 2026 IDIQ (Hurricane) (2 tasks; distinct Digikey orders)
   - [550-1] Navy SBIR: Magnetometer (1 task)
-  - [300-3] 2026 IDIQ (Hurricane) (1 task)
-  - Shop Supplies (1 task)
+  - [001-1] IRAD General (1 task)
+  - Shop Supplies (2 tasks)
 - **Status distribution:**
-  - **Order Placed:** 5 tasks (HiTec-ByLight, Jawstec, JawsTec-ByLight Gimbal x2, Digikey)
-  - **Order Shipped:** 1 task (GetFPV)
+  - **Order Shipped:** 3 tasks (GetFPV, Digikey GCS wifi, Digikey for IDIQ)
+  - **Order Placed:** 6 tasks (Jawstec, HiTec-ByLight, JawsTec-ByLight Gimbal x2, Amazon shop supplies, Amazon Lava Lamp bulb)
 
 ## Recent Activity
 
-- **Form-based status updates working:** All 5 prior tasks now marked "Order Placed" (status field functional). GetFPV advanced to "Order Shipped" — suggests orders are being executed and tracked.
-- **Duplicate task created:** "JawsTec- ByLight Gimbal (again)" (#69507) is an exact duplicate of existing "JawsTec- ByLight Gimbal" (#69507). Both assigned to Ethan, both for [043-3] Mustang Pt. 2, both due Jun 23. Likely caused by:
-  - Form re-submission error (requester submitted twice), OR
-  - Manual re-entry by form processor, OR
-  - Asana UI glitch during task creation.
-  - **Action:** Immediate deduplication required. Close/delete one duplicate.
-- **All orders remain 100% assigned to Meredith:** No delegation to team members despite prior cycle's recommendation.
-- **Project field truncation persists:** Raw data shows incomplete project names (e.g., "[300-3] 2026 IDIQ (", "[043-3] Musta", "[550-1] Navy SBIR: Magnetomete"). Indicates custom field display or export issue in Asana.
-- **Prior task (sendcutsend #SC51C906) still absent:** Remains removed from task list. Status unclear (likely legitimately closed given new tasks are functioning properly).
-
-## Notes & Context
-
-- **URGENT ACTIONS (IMMEDIATE):**
-  1. **DEDUPLICATE JAWSTEC-BYLIGHT GIMBAL TASK IMMEDIATELY.** Close/delete "JawsTec- ByLight Gimbal (again)" and consolidate with original #69507. Confirm with Ethan whether one or two gimbals were actually needed.
-  2. **Distribute purchasing workload from Meredith NOW.** All 6 tasks (5 unique) are due Jun 22–25; Meredith cannot execute alone. Delegate to:
-     - **Nate Straus:** Digikey GCS wifi (1 task) — leverages prior purchasing history.
-     - **Alex or another team member:** Jawst
+- **Form-based purchasing system actively in use:** 3 new orders submitted via form (Amazon shop supplies, Amazon Lava Lamp bulb, Digikey for IDIQ). Form mechanism is functional and attracting requests from new requesters (Joshua Fromm).
+- **Order execution progressing:** 3 tasks now "Order Shipped" (GetFPV, Digikey GCS wifi, Di

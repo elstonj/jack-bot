@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $1,125,915.09
+- **Total Expenses (Bills + Purchases)**: $1,126,207.64
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,108,020.73 (expenses exceed revenue significantly)
-- **Date Range**: April 5, 2024 – June 19, 2026 (26+ months)
-- **Transaction Count**: 1,217 *(all confirmed)*
+- **Net Position**: -$1,108,313.28 (expenses exceed revenue significantly)
+- **Date Range**: April 5, 2024 – June 25, 2026 (26+ months)
+- **Transaction Count**: 1,220 *(all confirmed)*
 
 ---
 
@@ -35,10 +35,20 @@ No new transactions in this reporting period.
 
 ---
 
-### Materials & Direct Purchases: $521,023.52
-**Total: $521,023.52** | **73 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95**
+### Materials & Direct Purchases: $522,327.45
+**Total: $522,327.45** | **76 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95**
 
-No new transactions in this reporting period.
+**New Transactions (June 24, 2026):**
+
+| Purchase # | Date | Amount | Account | Description | Status |
+|-----------|------|--------|---------|-------------|--------|
+| 0624JELSTON | 2026-06-24 | $2.58 | Direct Material Purchases | By Light Supplies | ✓ Confirmed |
+| 0624JELSTON | 2026-06-24 | $20.93 | Direct Material Purchases | Navy Magnetometer | ✓ Confirmed |
+| 0622JELSTON | 2026-06-24 | $1,281.98 | Direct Material Purchases | Supplies for 550-1 Navy: Magnetometer | ✓ Confirmed |
+
+**June 24 Direct Material Purchases Total**: $1,305.49 *(three line items across two purchase orders)*
+
+**Strategic Context**: New materials acquisitions specifically designated for Navy magnetometer project (550-1). Purchases include precision components ($20.93 Navy Magnetometer, $1,281.98 magnetometer supplies) and supporting materials ($2.58 By Light Supplies). All items tagged to project-specific line items as noted in purchase memo. This represents continuation of active project procurement pipeline distinct from S3 production scaling.
 
 ---
 
@@ -50,15 +60,9 @@ No new transactions in this reporting period.
 ---
 
 ### Sales & Marketing: $5,259.14
-**Total: $5,259.14** | **5 transactions** | **Largest: $55.66 (Krateo Sky visit supplies)**
+**Total: $5,259.14** | **5 transactions** | **Largest: $55.66 (Krateo Sky visit supplies, June 18)**
 
-**New Transaction (June 18, 2026):**
-
-| Purchase # | Date | Amount | Account | Description | Status |
-|-----------|------|--------|---------|-------------|--------|
-| — | 2026-06-18 | $55.66 | Sales & Marketing | Supplies for Krateo Sky visit (in-person) | ✓ Confirmed |
-
-**June 2026 Sales & Marketing**: $55.66 (supplies for Krateo Sky customer visit)
+No new transactions in this reporting period.
 
 ---
 
@@ -72,19 +76,27 @@ No new transactions in this reporting period.
 ### Inventory Asset (S3 Sales & S2 Production Scaling): $10,405.74
 **Total: $10,405.74** | **35 transactions** | **Largest: Battery procurement and S3 component packages**
 
-**New Transactions (June 18–19, 2026):**
+No new transactions in this reporting period (June 24–25 acquisitions classified to Direct Materials, not Inventory Asset).
+
+---
+
+### Shop Supplies & Miscellaneous: $288.43
+**Total: $288.43** | **4 transactions** | **Largest: Air Duster $85.48 (June 25)*
+
+**New Transactions (June 24–25, 2026):**
 
 | Purchase # | Date | Amount | Account | Description | Status |
 |-----------|------|--------|---------|-------------|--------|
-| SO21126 | 2026-06-18 | $813.04 | Inventory Asset | Component procurement for S3 production scaling; for future S3 sales | ✓ Confirmed |
-| SC51C906 | 2026-06-18 | $158.58 | Inventory Asset | Component procurement for S3 production scaling; for future S3 sales | ✓ Confirmed |
-| YW1744139 | 2026-06-18 | $302.21 | Inventory Asset | Component procurement for S3 production scaling; for future S3 sales | ✓ Confirmed |
+| 0624JELSTON | 2026-06-24 | $183.77 | Shop Supplies | Shop Supplies | ✓ Confirmed |
+| 0622JELSTON | 2026-06-24 | $23.43 | Shop Supplies | T-Slotted Framing, Triple Nut and M8 Flanged Button Head | ✓ Confirmed |
+| — | 2026-06-25 | $85.48 | Shop Supplies | Air Duster (Amazon) | ✓ Confirmed |
 
-**Status**: June 18–19 transactions total **$1,273.83** in new inventory asset purchases. **Cumulative inventory asset spending in June 2026**: **$6,253.49** across 18 transactions.
+**June 24–25 Shop Supplies Total**: $292.68 *(three purchases)*
 
-**Strategic Context**: Accelerated multi-subsystem component acquisition continues to support S3 production scaling. Largest new purchase (SO21126, $813.04) indicates mid-sized component batch; all three purchases explicitly designated "for future S3 sales," confirming direct link to production and revenue pipeline. Combined with earlier June acquisitions (battery procurement $1,078.34 on June 9; staged components June 10, 17, 18), inventory buildup pattern reflects sustained momentum toward production ramp-up and anticipated revenue generation.
-
-**June 18–19 Inventory Velocity**: $1,273.83 in two days signals consistent procurement cadence supporting active manufacturing cycle.
+**Category Breakdown**:
+- **T-Slotted Framing & Hardware**: $23.43 (construction/assembly support)
+- **General Shop Supplies**: $183.77 (operational materials)
+- **Pneumatic Tools/Accessories**: $85.48 (Air Duster, operational maintenance)
 
 ---
 
@@ -109,13 +121,6 @@ No new transactions in this reporting period.
 
 ---
 
-### Shop Supplies & Miscellaneous: $68.05
-**Total: $68.05** | **1 transaction** | **Largest: Masking Tape for Powder Coating $68.05**
-
-No new transactions in this reporting period.
-
----
-
 ## Purchase Orders
 - **PO #1038**: Amprius | $1,700.00 | Outstanding | Battery procurement for advanced S3 power systems
 
@@ -123,70 +128,60 @@ No new transactions in this reporting period.
 
 ## Monthly Spend by Category
 
-### June 2026 (Partial: June 2–19, 2026)
+### June 2026 (June 2–25, 2026)
 
 | Category | Amount | # Txns | Notes |
 |----------|--------|--------|-------|
 | **Inventory Asset (S3 Production)** | $6,253.49 | 18 | Battery procurement ($1,078.34); component staging for 225+ unit scaling; major acquisitions on June 18–19 ($1,273.83 in two days) |
+| **Direct Material Purchases** | $1,305.49 | 3 | Navy Magnetometer project (550-1) components and supplies; June 24 acquisitions |
 | **Rent & Facilities** | $7,206.45 | 3 | July 2026 rent bill ($7,198.87, June 17); QuickBooks subscription + shop supplies |
+| **Shop Supplies** | $292.68 | 4 | T-slotted framing hardware ($23.43), general shop materials ($183.77), air duster ($85.48) |
 | **Fringe Benefits** | $6,498.51 | 1 | United Healthcare employee healthcare payment (June 10) |
 | **IRAD Indirect R&D** | $3,900.51 | 11 | USB adapter, S3 shipment, component procurement |
 | **Sales & Marketing** | $55.66 | 1 | Krateo Sky visit supplies (in-person, June 18) |
-| **Direct Materials** | $33.92 | 1 | Connectors and fasteners for assembly (June 17) |
-| **Shop Supplies** | $68.05 | 1 | Masking tape for powder coating (June 17) |
 | **Shipping/Freight** | $0.00 | 0 | — |
 | **Other Categories** | $0.00 | 0 | — |
-| **JUNE 2026 SUBTOTAL** | **$23,916.59** | **36** | Weighted toward inventory scaling (26% of spend), rent (30%), and fringe (27%) |
+| **JUNE 2026 SUBTOTAL** | **$25,512.79** | **41** | Weighted toward inventory scaling (25%), rent/facilities (28%), fringe (25%); new Navy project materials (5%) |
+
+**Cumulative June 2026 Burn Rate**: $25,512.79 across 25 days (June 2–25) = $30,615.35 **projected** for full month
 
 ---
 
 ## Notable Transactions
 
-1. **June 18, 2026 — Purchase #SO21126 (Inventory Asset)**: $813.04
+1. **June 24, 2026 — Navy Magnetometer Project Materials**: $1,305.49 total
+   - **Purchase #0624JELSTON (multi-line)**: $2.58 (By Light Supplies) + $20.93 (Navy Magnetometer)
+   - **Purchase #0622JELSTON (multi-line)**: $1,281.98 (supplies for 550-1 Navy: Magnetometer) + $23.43 (T-Slotted Framing/hardware)
+   - **Significance**: New project-specific materials acquisition; represents active procurement pipeline outside S3 production scaling
+   - **Account**: [DIRECT COSTS:DC-Direct Material Purchases]
+   - **Project Designation**: All items tagged to project-specific line items; memo indicates "project listed under each item"
+   - **Designation**: Explicitly tied to Navy Magnetometer development (project 550-1)
+   - **Strategic Context**: Indicates parallel project execution alongside S3 inventory buildup; Navy work represents additional revenue pipeline development
+
+2. **June 24–25, 2026 — Shop Supplies Acquisition**: $292.68 (three purchases)
+   - **T-Slotted Framing & Hardware** (June 24): $23.43 (construction/assembly infrastructure investment)
+   - **General Shop Materials** (June 24): $183.77 (operational supplies)
+   - **Air Duster** (June 25): $85.48 (pneumatic tool/maintenance supply)
+   - **Pattern**: Operational infrastructure spending; suggests active shop utilization and assembly activities
+   - **Account**: [FACILITIES:FA-Shop Supplies]
+   - **Correlation**: Timing aligns with Navy project materials acquisition; likely supporting dual-track manufacturing (S3 inventory + Navy magnetometer)
+
+3. **June 18, 2026 — Purchase #SO21126 (Inventory Asset)**: $813.04
    - **Significance**: Largest single inventory acquisition in new batch; component procurement for S3 production
    - **Account**: [Inventory Asset]
    - **Designation**: "for future S3 sales"
    - **Pattern**: Indicates mid-to-large component order; supports 225+ unit staging narrative
    - **Production Pipeline**: Directly linked to revenue-generating S3 product line
 
-2. **June 18, 2026 — Sales & Marketing (Krateo Sky Visit Supplies)**: $55.66
+4. **June 18, 2026 — Sales & Marketing (Krateo Sky Visit Supplies)**: $55.66
    - **Memo**: "Paige made purchase in person"
    - **Account**: [SALES & MARKETING:SM-Conferences/Seminars]
    - **Significance**: In-person customer engagement with Krateo Sky (invoice #1752 outstanding, $10,860.48)
    - **Context**: Direct customer relationship investment; aligns with collection priority on largest outstanding invoice
 
-3. **June 18–19, 2026 — Inventory Component Surge**: $1,273.83 (three purchases in two days)
+5. **June 18–19, 2026 — Inventory Component Surge**: $1,273.83 (three purchases in two days)
    - **Purchase #SO21126**: $813.04 (June 18)
    - **Purchase #SC51C906**: $158.58 (June 18)
    - **Purchase #YW1744139**: $302.21 (June 18)
    - **Pattern**: Coordinated, multi-purchase component acquisition within 24-hour window
-   - **Burn Rate Indicator**: Accelerated inventory velocity; sustained procurement momentum suggests imminent production cycle or fulfillment preparation
-   - **Account**: [Inventory Asset]
-   - **All Designated**: "for future S3 sales" (explicit revenue pipeline confirmation)
-
-4. **June 2026 Cumulative Inventory Spending**: $6,253.49 across 18 transactions
-   - **Breakdown**: 
-     - Battery procurement (June 9): $1,078.34 (225+ units staged)
-     - Supplementary components (June 10): Multi-item acquisition
-     - Materials & connectors (June 17): $33.92
-     - Component surge (June 18–19): $1,273.83
-   - **Trend**: Consistent week-over-week acquisition pattern; indicates staged, coordinated scaling strategy
-   - **Revenue Link**: All purchases explicitly tied to S3 sales pipeline
-   - **Production Readiness**: Inventory velocity suggests manufacturing is progressing; components positioned for fulfillment
-
-5. **Outstanding Receivables Alert**: $17,894.36 across three invoices
-   - All invoices remain unpaid as of June 19, 2026
-   - **Invoice #1752** (Krateo Sky, $10,860.48): **In-person visit on June 18** suggests collection/contract discussion likely
-   - **Invoice #1696** (Phase1 Aviation, $6,105.00): Contains documented double-payment error requiring recovery/credit
-   - **Collection Priority**: 26+ months without payment on oldest outstanding invoice; June 18 customer engagement with Krateo Sky represents escalation opportunity
-
-6. **June 2026 Burn Rate (Partial Period)**: $23,916.59 in 18 days (June 2–19)
-   - **Note**: Elevated month due to pre-paid July rent ($7,198.87) and accelerated inventory procurement ($6,253.49)
-   - **Excluding Prepaid Rent & Inventory**: $10,662.23 in core operational spend (18 days)
-   - **Annualized Operational Pace** (excluding rent prepayment & inventory scaling): ~$215,841 per month
-   - **Operational Breakdown**: Fringe benefits 27% + Facilities 30% + IRAD 17% + Inventory (production scaling) 26%
-   - **Production Momentum**: Accelerated inventory acquisition on June 18–19 signals manufacturing pipeline entering active fulfillment phase
-
----
-
-**Data Status**: All transactions through June
+   -
