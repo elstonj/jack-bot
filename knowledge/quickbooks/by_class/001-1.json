@@ -4,14 +4,14 @@
     "(001-1) IRAD- General"
   ],
   "period": {
-    "start": "2026-06-10",
-    "end": "2026-06-12"
+    "start": "2026-06-25",
+    "end": "2026-06-26"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 15.99,
+    "expenses": 35.98,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 15.99
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 35.98
     }
   },
   "invoices": [],
@@ -19,19 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-06-10",
+      "date": "2026-06-25",
       "doc_number": "",
-      "total": 15.99,
-      "attributed": 15.99,
+      "total": 35.98,
+      "attributed": 35.98,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "No Asana request - Jack Elston made purchase directly",
+      "memo": "AMAZON MKTPL*1R9DD5BP3 - 4617",
       "lines": [
         {
-          "amount": 15.99,
+          "amount": 35.98,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "USB C to Ethernet Adapter, Driver Free RJ45"
+          "description": "CKAuto 1/4oz, 0.25oz, Grey, Adhesive Stick on Wheel Weights,"
         }
       ]
     }

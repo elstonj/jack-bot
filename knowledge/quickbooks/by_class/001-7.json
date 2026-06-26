@@ -4,15 +4,14 @@
     "(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-06-10",
-    "end": "2026-06-12"
+    "start": "2026-06-25",
+    "end": "2026-06-26"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 254.01,
+    "expenses": 15.32,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 184.61,
-      "Inventory Asset": 69.4
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 15.32
     }
   },
   "invoices": [],
@@ -20,42 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-06-11",
+      "date": "2026-06-25",
       "doc_number": "",
-      "total": 140.59,
-      "attributed": 140.59,
+      "total": 15.32,
+      "attributed": 15.32,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "",
+      "memo": "PIRATE SHIP * POSTAGE - 7333",
       "lines": [
         {
-          "amount": 140.59,
+          "amount": 15.32,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "S3 IRAD shipmen to Sean Cole"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-06-10",
-      "doc_number": "",
-      "total": 292.24,
-      "attributed": 113.42,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request - project listed under each item",
-      "lines": [
-        {
-          "amount": 178.82,
-          "account": "Inventory Asset",
-          "description": "For future S3 Sales"
-        },
-        {
-          "amount": 113.42,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "S3 IRAD"
+          "description": "Shipment to Sean Cole for S3"
         }
       ]
     }

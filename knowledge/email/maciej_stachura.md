@@ -1,91 +1,84 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 98 across ~5-day period (21–25 Jun 2026)
-- **Estimated volume:** Moderate-to-high; mix of direct correspondence, internal coordination, external partnerships, procurement/automated traffic, and strategic business development
-- **Date range:** Peak activity 22–24 Jun; 25 Jun emerging (2 messages)
-- **Daily breakdown:** Monday 22 Jun (~20 messages), Tuesday 23 Jun (~15 messages), Wednesday 24 Jun (~35 messages, significant spike), Thursday 25 Jun (~2 messages so far)
-- **Notable shift:** 24 Jun shows substantial increase in Krateo Sky GTM coordination and technical job description discussions
+- **Total messages scanned:** 123 across ~6-day period (21–26 Jun 2026)
+- **Estimated volume:** Moderate-to-high; strategic mix of partnership coordination, technical R&D, procurement/supplier logistics, and government funding
+- **Date range:** Peak activity 22–24 Jun; activity continuing 25–26 Jun
+- **Daily breakdown:** 
+  - Monday 22 Jun (~20 messages)
+  - Tuesday 23 Jun (~15 messages)
+  - Wednesday 24 Jun (~35 messages, significant spike)
+  - Thursday 25 Jun (~30+ messages, sustained high activity)
+  - Friday 26 Jun (~3 messages so far, early morning/overnight)
+- **Pattern shift:** 25 Jun shows sustained engagement (no drop-off from 24 Jun spike); indicates ongoing critical negotiations/coordination
 
 ## Key Correspondents
 
 **Top Direct Contacts (by frequency/importance):**
-- **Jack Elston** (elstonj@blackswifttech.com) — 12+ interactions; primary internal coordinator; appears across Krateo Sky job description threads, CCRPP funding application, compensation adjustments, and strategic planning
-- **James Pinto** (pinto@ucar.edu, UCAR) — 5+ interactions (including 24 Jun); active two-way technical dialogue on wind heading corrections; marked IMPORTANT throughout
-- **Ariel Avitan** (Ariel@krateosky.com, Krateo Sky) — **NEW PROMINENCE; 6+ direct interactions** (24 Jun); dual IMPORTANT threads on "GTM efforts planning" and "BST GTM Discussion"; indicates Maciej as primary GTM/go-to-market liaison for Krateo Sky partnership
-- **Maia Varanda** (mvaranda@investottawa.ca, Invest Ottawa) — Continues; Arctic UAS location change (24 Jun 21:40 reply from Maciej)
-- **Brian Grubel** (Brian@krateosky.com, Krateo Sky) — **NEW; 4+ interactions** (24–25 Jun); "Technical Job Description Discussion" thread; IMPORTANT; coordination with Jack Elston and Thibault Bridel-Bertomeu
+- **Jack Elston** (elstonj@blackswifttech.com) — 15+ interactions; primary internal coordinator across Krateo Sky job description, GTM strategy, CCRPP funding, NASA SBIR/STTR opportunity, technical job descriptions, and compensation adjustments
+- **James Pinto** (pinto@ucar.edu, UCAR) — 6+ interactions (25 Jun wind heading corrections active); continued two-way technical dialogue marked IMPORTANT
+- **Ariel Avitan** (Ariel@krateosky.com, Krateo Sky) — 6+ direct interactions (24 Jun); primary GTM/go-to-market liaison for partnership strategy
+- **Brian Grubel** (Brian@krateosky.com, Krateo Sky) — 5+ interactions (24–25 Jun); technical job description thread; IMPORTANT; includes Thibault Bridel-Bertomeu and Jack Elston
+- **Bob Smith** (Bob@krateosky.com, Krateo Sky) — **NEW; ESCALATING** (25 Jun 16:13, IMPORTANT); "Technology improvements for Canadian demo" thread; multi-party with Jack Elston & Daniel Prendergast; indicates Canadian field trial or pilot coordination
+- **Joel Scott** (joel@joelscott-ts.com) — **NEW; IMPORTANT** (25 Jun 14:18 & 13:19, bidirectional); "Quick Follow Up"; external consultant or advisor (unknown domain)
+- **Tanay Topac** (tanaytopac@stanford.edu, Stanford) — **NEW; IMPORTANT** (26 Jun 07:00); "MHP data alignment"; atmospheric research collaboration or sensor data coordination
 
 **Key External Contacts & Organizations:**
-- **Krateo Sky** — **ESCALATED PRIORITY**
-  - Ariel Avitan: GTM strategy (6 exchanges, 24 Jun, IMPORTANT, back-and-forth rhythm suggests real-time negotiation/planning)
-  - Brian Grubel: Technical job description (4+ exchanges, 24–25 Jun, IMPORTANT, multi-party with Jack Elston & Thibault)
-  - Thibault Bridel-Bertomeu: Technical hiring/role definition thread continues
-  - Sona Raziabeegum: Compensation adjustments thread (24 Jun 23:58, IMPORTANT)
-  - **Interpretation:** Active partnership deepening; GTM planning and technical role definition concurrent; compensation discussions suggest equity or revenue-share alignment
 
-- **UCAR** (James Pinto) — Continues atmospheric research; wind heading corrections active (24 Jun 07:56–08:37, multiple IMPORTANT exchanges same day)
+- **Krateo Sky** — **CRITICAL ACTIVE PARTNERSHIP**
+  - Ariel Avitan: GTM strategy (6+ exchanges, 24 Jun, IMPORTANT, rapid back-and-forth)
+  - Brian Grubel: Technical job description (5+ exchanges, 24–25 Jun, IMPORTANT, multi-party)
+  - Bob Smith: **NEW thread** Technology improvements for Canadian demo (25 Jun 16:13, IMPORTANT, Jack Elston & Daniel Prendergast included)
+  - Thibault Bridel-Bertomeu: Technical hiring/role definition (25 Jun 17:11, IMPORTANT, four-party thread with Jack & Maciej)
+  - Sona Raziabeegum: Compensation adjustments (24 Jun 23:58, IMPORTANT)
+  - **Interpretation:** Active parallel workstreams: GTM planning, technical hiring, Canadian field demo, and compensation/equity alignment — suggests imminent partnership formalization or joint venture launch
 
-- **Invest Ottawa** (Noah Ray, Maia Varanda) — Arctic UAS location change (Maciej reply 24 Jun 21:40)
+- **UCAR** (James Pinto) — Atmospheric research; wind heading corrections (25 Jun 12:39 & 13:05, IMPORTANT, same-day exchanges); continued technical refinement
 
-- **QuSpin** (Jeffrey Orton, jorton@quspin.com) — Continues; sensor technical question routed via Sam Hild (24 Jun 08:45–09:03, IMPORTANT)
+- **Invest Ottawa** (Noah Ray, Stephen Rowlands, Maia Varanda)
+  - Arctic UAS location coordination continuing (25 Jun 10:42, Stephen Rowlands, IMPORTANT)
+  - Arctic UAS SFOC, Safety Briefing, Flight Envelope (25 Jun 16:32, Stephen Rowlands, IMPORTANT) — operational/regulatory coordination
+  - Battery shipment return (25 Jun 18:43, Noah Ray, IMPORTANT)
 
-- **Grant Engine** (Dan Garcia, dan@grantengine.com) — Counter-UAS funding solicitation (24 Jun 11:11, IMPORTANT); unsolicited DoW/Navy/NATO opportunity
+- **QuSpin** (Jeffrey Orton, jorton@quspin.com) — Sensor technical questions (25 Jun 13:40 & 08:45, IMPORTANT, relayed via Sam Hild)
 
-- **Halo Aero** (Daniel Hesselius) — No new 24–25 Jun activity; prior "Navy Topic" thread dormant
+- **Stanford University** (Tanay Topac, tanaytopac@stanford.edu) — **NEW; IMPORTANT** (26 Jun 07:00); MHP data alignment; likely atmospheric or meteorological research collaboration
 
-**Internal BST Contacts (new/emerging):**
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — **NEW; CCRPP funding coordination** (24 Jun 10:55–13:42); Jack Elston forwards CCRPP Application Period notice to Maciej & Beck; suggests grants/R&D funding pursuit
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Battery shipment return coordination with AeroNet (24 Jun 17:32, IMPORTANT); suggests supply chain/logistics role
-- **Sam Hild** (sam.hild@blackswifttech.com) — QuSpin technical relay (24 Jun 08:45–09:03, IMPORTANT)
+- **Joel Scott Consulting** (joel@joelscott-ts.com) — **NEW; IMPORTANT** (25 Jun, bidirectional); domain/role unclear; marked IMPORTANT both incoming and outgoing
 
-**Suppliers/Vendors (new):**
-- **McMaster-Carr** — Order receipt (25 Jun 02:26, automated)
-- **Amazon.com** — Shipping notification, office supplies (25 Jun 05:40, automated)
-- **AeroNet** (Robert Correia, rcorreia@aeronet.com) — Battery shipment return/quote (24 Jun 17:32, Daniel Prendergast handling; IMPORTANT)
-- **Google Business Profile** — Holiday hours inquiry (24 Jun 20:28, automated)
+**Internal BST Contacts:**
+- **Jack Elston** — Primary internal hub (noted above)
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — Continued CCRPP and NASA SBIR/STTR funding coordination (25 Jun 13:11, Jack Elston forwards NASA Post-Phase II opportunity to Maciej, Beck, Daniel Prendergast, Joshua Fromm)
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Supply chain, logistics, technical coordination; included in NASA opportunity and Krateo Sky Canadian demo thread (25 Jun)
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — **NEW** (25 Jun 13:11); NASA SBIR/STTR opportunity recipient; likely operations/proposal management role
+- **Sam Hild** (sam.hild@blackswifttech.com) — QuSpin technical relay (25 Jun 08:45–13:40, IMPORTANT)
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — **NEW** (25 Jun 20:42, IMPORTANT); calendar event cancellation: "Navy STTR Option Final Report @ Mon Jul 6, 2026 (Maciej Stachura)" — suggests Maciej is responsible for Navy STTR final report deliverable
 
-**Automated/Newsletters (continued):**
-- T-Mobile, Rockies Venture Club, Spindrift, WaiverDigital, NOAA Federal (from prior scan)
-- NEW: McMaster-Carr order receipt, Amazon shipping, Google Business Profile query
+**External Researchers/Universities:**
+- **Stanford University** — Tanay Topac (MHP data alignment, 26 Jun, IMPORTANT)
+- **University of Notre Dame** — David Richter, sascwatch-all mailing list (AMS ASI conference, 25 Jun, IMPORTANT, newsletter/forum)
+
+**Suppliers/Vendors (automated/secondary):**
+- **Utmel Electronics** (sales5@utmel.com) — **NEW unsolicited** (26 Jun 11:13, sales outreach, routed to purchasing@bst.aero)
+- **Constant Contact** (billing via purchasing, 26 Jun 03:14, automated)
+- **Pirate Ship** (shipping/logistics, 26 Jun 05:45, automated)
+- **Spindrift** (beverage subscription, 26 Jun 04:01, automated)
+- **Harbor Freight** (retail coupon, 26 Jun 02:57, automated)
+- **Amazon.com** (order shipping, 26 Jun 01:19, automated)
+- **McMaster-Carr, AeroNet** (continued from prior)
+
+**Automated/Newsletters:**
+- Google Docs (comment notification on CLIN document, 25 Jun 14:23, Alex Lomis)
+- Notre Dame AMS ASI conference (sascwatch-all list, 25 Jun 11:31)
+- Spindrift, Harbor Freight, Constant Contact, Pirate Ship (automated receipts/promotions)
+
+---
 
 ## Topic Patterns
 
 **Active/Escalating Work Areas:**
 
-1. **Krateo Sky GTM (Go-To-Market) Strategy** — **NEW; HIGH PRIORITY**
-   - Ariel Avitan ↔ Maciej (6 IMPORTANT exchanges, 24 Jun 08:29–15:18, rapid back-and-forth)
-   - Subjects: "GTM efforts planning" and "BST GTM Discussion"
-   - Multiple same-day exchanges suggest real-time negotiation or sprint planning
-   - Maciej appears as primary BST GTM owner for this partnership
-   - **Timing:** Overlaps with compensation adjustments thread, suggesting deal/partnership framework being finalized
-
-2. **Krateo Sky Technical Job Description / Hiring** — **ESCALATING**
-   - Brian Grubel (Krateo Sky) + Jack Elston (BST) + Thibault Bridel-Bertomeu (Krateo Sky Non-US)
-   - Multiple IMPORTANT exchanges (24 Jun 10:55–25 Jun 00:12)
-   - Job description refinement in progress; likely technical role within partnership or joint venture
-   - Maciej appears as observer/stakeholder rather than primary drafter
-
-3. **Internal Compensation Adjustments (Krateo Sky)** — **NEW; SENSITIVE**
-   - Jack Elston → Sona Raziabeegum (Krateo Sky) + Maciej (24 Jun 23:58, IMPORTANT)
-   - Suggests partnership equity, revenue-share, or personnel alignment being negotiated
-   - Timing coincides with GTM strategy and job description discussions
-
-4. **CCRPP Application / R&D Funding** — **NEW**
-   - Jack Elston + Beck Cotter + Maciej (24 Jun 10:55–13:42, IMPORTANT)
-   - "CCRPP Application Period Now Open" = likely Canadian research/commercialization grant
-   - Jack Elston initiates forward to Beck & Maciej; suggests grant strategy coordination
-   - **Interpretation:** BST pursuing government R&D funding; Maciej likely involved in project definition or budget planning
-
-5. **Wind Heading Corrections / Atmospheric Data** — **ACTIVE**
-   - James Pinto (UCAR) ↔ Maciej (24 Jun 07:56–08:37, multiple IMPORTANT)
-   - Same-day rapid exchanges; technical refinement ongoing
-   - Likely supports Arctic UAS or COTAK Summit deliverable
-
-6. **Arctic UAS Location Change** — **CONTINUING**
-   - Maciej → Noah Ray (Invest Ottawa) (24 Jun 21:40)
-   - Suggests ongoing operational/logistical coordination
-
-7. **Counter-UAS / Navy Sector Opportunity** — **EMERGING**
-   - Grant Engine (Dan Garcia) unsolicited outreach: "Counter-UAS Funding: DoW / Navy / NATO" (24 Jun 11:11, IMPORTANT)
-   - Maciej in recipient field; suggests continued interest in
+1. **Krateo Sky Canadian Field Demo / Technology Improvements** — **NEW; HIGH PRIORITY**
+   - Bob Smith (Krateo Sky) → Maciej, Jack Elston, Daniel Prendergast (25 Jun 16:13, IMPORTANT)
+   - Subject: "Technology improvements for Canadian demo"
+   - Multi-party coordination with operations/logistics (Daniel Prendergast)

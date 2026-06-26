@@ -16,7 +16,7 @@
 
 ## Task Summary
 - **Total:** 1 open, 0 completed
-- **By Assignee:** Meredith O'hara Needham (1 open task – 100%)
+- **By Assignee:** Meredith O'hara Needham (1 open task – 100% of active work)
 
 ## Recent Activity
 Single open shipment task awaiting execution by Meredith O'hara Needham. Project remains on track for June 25–30 delivery window. Per Maciej (2026-04-30), S0-VTOL deliveries (ERAU and Barbados) are BST's **#2 highest priority** after S3 IRAD.
@@ -26,3 +26,4 @@ Single open shipment task awaiting execution by Meredith O'hara Needham. Project
 - This ERAU delivery is part of a two-unit S0-VTOL deployment.
 - Customer Type: Commercial
 - Project notes reference attached email request for additional context.
+- Funding: $2,462.50 (total budget = total funding to BST)

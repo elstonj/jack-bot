@@ -1,10 +1,10 @@
 # Meredith O'hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 423 emails (385 previous + 38 new)
-- **Date range:** June 15–25, 2026 (11 days)
+- **Total messages scanned:** 461 emails (423 previous + 38 new)
+- **Date range:** June 15–26, 2026 (12 days)
 - **Approximate volume:** ~38–42 emails/day
-- **Trend:** Sustained critical operational load; payroll/banking crisis ongoing through Jun 24; S0 NOAA display model deal continues active coordination; equipment procurement at sustained high volume
+- **Trend:** Sustained critical operational load continues through Jun 26; payroll/banking crisis remains active; equipment procurement ongoing; new activity: HR/banking integrations (Plaid, Human Interest connections); potential partnership demo with Deel
 
 ---
 
@@ -14,103 +14,92 @@
 
 **Automated Systems & Purchasing Routing:**
 
-1. **Purchasing system** (`purchasing@blackswifttech.com`) — 180+ messages cumulative
-   - **Vendor activity (Jun 24–25):**
-     - McMaster-Carr (Jun 25, 02:26 UTC; Jun 24, 16:28, 15:28) — receipts, certificates, tracking for Jun 22–24 orders
-     - DigiKey (Jun 24, 12:34 CDT) — PO acknowledgement #100009799; previous sales order #99879354 still pending action
-     - Amazon (Jun 25, 05:40 UTC; Jun 24, 17:29, 17:27) — multiple order confirmations including WOLFBOX MF200 Compressed, Method Foaming Hand Soap (household supplies)
-     - Hitec RCD USA (Jun 24, 23:06 UTC) — order update #5526
-     - JawsTec Manufacturing (Jun 24, 14:12 UTC) — payment request for invoice 69507
-     - Driftaway Coffee (Jun 24, 22:16 UTC) — shipment notification (operational supplies)
+1. **Purchasing system** (`purchasing@blackswifttech.com`) — 190+ messages cumulative
+   - **Vendor activity (Jun 25–26):**
+     - McMaster-Carr (Jun 25, 16:06–16:49 CDT) — **3 confirmations/tracking emails** for Jun 25 orders; high-volume procurement cycle continues
+     - Amazon (Jun 25, 18:26 UTC) — **14+ item order** including Pololu 12V step-down converter and related components (embedded systems/drone hardware)
+     - SendCutSend (Jun 25, 15:39 UTC) — shipment in transit (manufacturing/fabrication services)
+     - UPS (Jun 25, 14:20 EDT) — package delivery notification
+     - Pirate Ship (Jun 26, 05:45 UTC) — $15.32 shipping label receipt
+     - Spindrift (Jun 26, 04:01 UTC) — subscription order confirmation (operational supplies)
+     - Harbor Freight (Jun 26, 02:57 UTC) — promotional coupon (tools)
+     - Driftaway Coffee (Jun 25, 23:02 UTC) — **Order #DR30134COF confirmed**; Jun 25 23:23 points notification
    
-   - **Logistics & Compliance:**
-     - ATA Carnet Invoice (Jun 25, 00:36 UTC) — `US 89/26-64726` routed to operations@blackswifttech.com (international shipping/customs documentation)
+   - **New Vendor (Jun 26):**
+     - **Utmel Electronics** (`sales5@utmel.com`) — Outbound sales inquiry to `purchasing@bst.aero` (Jun 26, 11:13 CST) — NEW CONTACT; electronics component supplier targeting BST procurement
    
-   - **Promotional/Subscription (Jun 24–25):**
-     - Budget (Jun 24, 16:11 CDT) — Prime Day promotional alert
-     - Expedia (Jun 24, 18:15 CDT) — travel check-in feedback (Meredith likely traveling Jun 23–24)
+   - **Billing/Services:**
+     - Liberty Mutual Insurance (Jun 26, 01:15 CDT) — Payment withdrawal scheduled 7/17/2026 (company insurance premium cycle)
+     - Constant Contact Billing (Jun 26, 03:14 EDT) — Payment receipt for Jack Elston (marketing/communications tool)
+     - Pirate Ship, Harbor Freight, Budget rental — routine operational/promotional emails
+
+---
+
+2. **Rippling Support** — **PAYROLL CRISIS ESCALATION CONTINUES**
+   - **New Issue (Jun 25):**
+     - Meredith → Rippling (Jun 25, 14:12 CDT): **`Employee was incorrectly charged for $13,587.10`** [SENT — NEW CRITICAL ISSUE]
+     - Rippling → Meredith (Jun 25, 20:13 GMT): Response [YELLOW_STAR, IMPORTANT, STARRED]
+     - **Severity:** Large-scale employee overcharge; suggests systematic payroll processing error
    
-   - **Pattern:** Heavy order fulfillment cycle (Jun 22–25); mixed hardware components + operational supplies; international shipping documentation (ATA Carnet) suggests export/customs-controlled equipment
+   - **Previous Issues (Ongoing):**
+     - Meredith → Rippling (Jun 25, 10:26 CDT): Follow-up on payroll account hold [SENT]
+     - Rippling → Meredith (Jun 25, 16:53 GMT): Response [IMPORTANT]
+     - **Status:** Payroll account hold still unresolved as of Jun 25; now compounded by employee charge error
 
 ---
 
-### **CRITICAL: Payroll & Banking Crisis — ESCALATION CONTINUES (Jun 24)**
-
-2. **Rippling Support** — **ONGOING MULTI-ISSUE RESOLUTION**
-   - **Issue #1: Payroll Account Hold / Wire Transfer Delays**
-     - Meredith → Rippling (Jun 24, 12:16 CDT): `Payroll Account on hold - submitted wire transfers but no update` [SENT]
-     - Rippling → Meredith (Jun 24, 18:18 GMT): Response [IMPORTANT, YELLOW_STAR, STARRED]
-     - Rippling → Meredith (Jun 24, 22:16 GMT): Follow-up `Re: Payroll Account on hold...` [IMPORTANT, UNREAD]
-     - **Status:** Payroll account still on hold as of Jun 24 evening; wire transfers submitted but pending clearance
-   
-   - **Issue #2: Tax Deduction Errors (2 employees)**
-     - Meredith → Rippling (Jun 24, 12:33 CDT): `Incorrect tax deductions for 2 employees in payroll` [SENT]
-     - Rippling → Meredith (Jun 24, 18:34 GMT): Response [IMPORTANT, UNREAD]
-     - Meredith → Rippling (Jun 24, 12:41 CDT): Follow-up [SENT]
-     - Rippling → Meredith (Jun 24, 18:42 GMT): Response [IMPORTANT, UNREAD]
-     - Meredith → Rippling (Jun 24, 12:47 CDT): Further engagement [SENT]
-     - **Pattern:** Rapid back-and-forth; Meredith actively troubleshooting specific employee records
-   
-   - **Issue #3: Employee Classification & Tax Status**
-     - Meredith → Rippling (Jun 24, 10:44 CDT): Draft email (unsent)
-     - Meredith → Rippling (Jun 24, 10:49 CDT): `Re: Help with fixing incorrect employee classification and changing tax status` [SENT]
-     - Rippling → Meredith (Jun 24, 21:23 GMT): Response [IMPORTANT, UNREAD]
-     - **Context:** Multi-part employee record corrections alongside Jun 23 bank account switch
-   
-   - **Severity:** CRITICAL ONGOING — Payroll system still non-functional as of Jun 24 PM; wire transfers authorized but not clearing; at least 3 separate employee record corrections in flight; indicates systemic payroll/HR configuration issues tied to banking reconfiguration
+3. **Shelby Hammond (Elevations Credit Union)** — **BANKING/PAYROLL WIRE COORDINATION**
+   - Shelby Hammond → Meredith + Jack Elston (Jun 25, 20:26 UTC): **`Follow Up Items`** [YELLOW_STAR, IMPORTANT, STARRED]
+   - Meredith → Shelby (Jun 25, 14:43 CDT): Response [SENT]
+   - Shelby → Meredith (Jun 25, 22:13 UTC): **`RE: Follow Up Items`** [UNREAD, IMPORTANT]
+   - **Pattern:** Continued high-priority coordination with bank on outstanding action items; Jack Elston now directly copied (executive visibility)
+   - **Context:** Appears to be follow-up on Jun 24 payroll wire authorization; suggests additional items requiring bank action
 
 ---
 
-### **CRITICAL: Banking/Wire Transfer Issue — Payroll Funding (Jun 24)**
-
-3. **Elevations Credit Union / Shelby Hammond**
-   - Meredith → Shelby Hammond (Jun 24, 13:41 CDT): `Black Swift upcoming Payroll Wire Transfer` [SENT]
-   - Shelby Hammond → Meredith (Jun 24, 21:12 GMT): `RE: Black Swift upcoming Payroll Wire Transfer` [IMPORTANT, UNREAD]
-   - **Context:** Direct payroll funding wire authorization with bank contact; confirms Jun 23 wire authorization sequence was payroll-related
-   - **Status:** Shelby engaged specifically for payroll wire execution; response marked IMPORTANT suggests approval/action status
-
----
-
-### **ACTIVE: S0 NOAA Display Model Deal — Multi-Party Negotiation (Jun 24)**
-
-4. **NOAA Federal Contacts & BST Internal**
-   - Meredith → Grant Rawson (NOAA) (Jun 24, 11:36 CDT): `Re: S0 display model cost` [SENT]
-   - Grant Rawson → Nikolai Pawlenko (NOAA) (Jun 24, 09:37 EDT): `Re: S0 display model cost` [IMPORTANT]
-   - **Status:** Deal continues active; Meredith engaged directly with NOAA on pricing/logistics as of Jun 24 morning
+4. **Jack Elston (BST CEO/Executive)** — **INCREASING DIRECT ENGAGEMENT**
+   - Jack → Meredith (Jun 25, 06:54 CDT): **`Fwd: Attention needed: You have 4 overdue Black Swift Technologies tasks`** [IMPORTANT]
+   - Meredith → Jack (Jun 25, 10:12 CDT): Response [SENT]
+   - Jack → Meredith (Jun 25, 13:10 CDT): **`Re: Attention needed: You have 4 overdue Black Swift Technologies tasks`** [IMPORTANT]
+   - Meredith → Jack (Jun 25, 14:20 CDT): Response [SENT]
+   - **Pattern:** 2 back-and-forth exchanges on Jun 25; task/action item escalation; suggests Meredith managing critical operational issues requiring CEO sign-off
+   - **New:** Jack now directly engaged in banking follow-up items (Shelby Hammond email)
 
 ---
 
-### **NEW: Healthcare/Benefits Coordination**
+### **NEW: Partnership/Sales Opportunity — Deel Integration Demo**
 
-5. **Chad Atwood** (`chad@theaiginc.com`)
-   - Meredith → Chad Atwood (Jun 24, 09:26 CDT): `Healthcare selection` [SENT]
-   - Chad Atwood → Meredith (Jun 24, 16:11 CDT): `Re: Healthcare selection` [IMPORTANT, UNREAD]
-   - **Context:** External contact (likely benefits broker or HR vendor); concurrent with employee classification corrections in Rippling
-   - **Relationship:** Direct coordination; suggests Chad manages BST benefits/health plan administration
-
----
-
-### **HR/Payroll System Updates**
-
-6. **Human Interest** (401(k) provider)
-   - Notification → Meredith (Jun 25, 00:20 UTC): `Jack Elston has changed their 401(k) contribution rate` [UNREAD]
-   - **Context:** Jack Elston (BST exec) modified retirement contributions; routed directly to Meredith
+5. **Sona Raziabeegum (Krateo Sky)** & **Ben Stavig (Deel)**
+   - Sona → Multi-party (Ben Stavig, Raquel Roberts, Taylor Simones, **Meredith Needham**, Jack Elston) (Jun 25, 16:09 UTC): **`Black Swift Demo with Deel`** [IMPORTANT, INBOX]
+   - Meredith → Sona (Jun 25, 10:15 CDT): Response [SENT]
+   - Sona → Meredith (Jun 25, 16:31 UTC): **`RE: Black Swift Demo with Deel`** [IMPORTANT]
+   - **Parties Involved:**
+     - Sona Raziabeegum (Krateo Sky — likely partner/integrator)
+     - Ben Stavig, Raquel Roberts, Taylor Simones (Deel — payroll/HR software company)
+     - Jack Elston (BST exec)
+   - **Context:** Demo coordination; Meredith engaged directly despite Deel being primarily payroll/HR platform (likely related to BST's payroll integration or platform expansion)
+   - **Status:** Active follow-up in progress Jun 25
 
 ---
 
-### **Supporting Internal Communications**
+### **HR/Finance System Integrations — New Connections**
 
-7. **Daniel Prendergast** (BST) → Robert Correia (external vendor)
-   - Meredith was copied/involved in discussion: `Re: Battery Shipment return from Ottawa Canada / Quote # 141681` [IMPORTANT, UNREAD]
-   - **Context:** Cross-border battery component logistics; BST-coordinated return/quote cycle
+6. **Human Interest / Plaid**
+   - Plaid (Jun 25, 20:36 UTC): **`You've connected your bank account to Human Interest with Plaid`** [UNREAD, IMPORTANT, CATEGORY_UPDATES]
+   - **Significance:** Bank account connection to 401(k) provider via Plaid API; indicates BST setting up automated retirement plan funding post-banking reconfiguration
+   - **Timeline:** Jun 25 — directly after Shelby Hammond's "Follow Up Items" message; suggests banking/HR integration workflow
 
 ---
 
-## Topic Patterns
+7. **Asana & Toggl Track** (Project management & time tracking)
+   - Asana (Jun 25, 23:29 UTC): **`👉 You have unread notifications`** [UNREAD, IMPORTANT]
+   - Toggl Track (Jun 25, 23:23 UTC): No subject [UNREAD]
+   - **Pattern:** Task/project management notifications; Meredith tracking workload across multiple systems
 
-### **Critical Business Topics (Jun 24–25)**
+---
 
-| Theme | Evidence | Status |
-|-------|----------|--------|
-| **Payroll System Failure** | Rippling support tickets (tax errors, employee classification, account hold, wire delays) | **CRITICAL ONGOING** |
-| **Banking
+### **Supporting Vendor & Research Communications**
+
+8. **Nikhila Ravikumar (NanoVeu)** → Daniel Prendergast
+   - Nikhila (Jun 26, 08:47 UTC): **`Re: Latest Stable Binary`** [UNREAD, IMPORTANT, INBOX]
+   - Meredith CC'd/visible; software/firmware development

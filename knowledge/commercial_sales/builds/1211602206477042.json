@@ -29,7 +29,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Active DoD engagement: USAF 53rd Weather Squadron lead engineer (Russ Evans) and NOAA partners visited BST facility 2026-06-22 for flight demo and lab meeting. S0-AD datasheet and whitepapers sent. Clear pathway to evaluation and potential CRADA. Facility visit planned for 2026-04-30 or 2026-05-01 per latest email (2026-02-25). Related separate SOCOM task also active with receive_by 2026-10-30.",
+  "notes": "Active DoD engagement: USAF 53rd Weather Squadron lead engineer (Russ Evans) and NOAA partners visited BST facility on 2026-06-22 for flight demonstration. Facility visit tentatively scheduled for 2026-04-30 or 2026-05-01. S0-AD datasheet and whitepapers sent. Clear pathway to evaluation and potential CRADA for C-130 air-launch integration. Related separate SOCOM S0-AD CRADA task also active (receive_by 2026-10-30).",
   "missing_fields": [
     "ship_to",
     "estimate_date",

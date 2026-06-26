@@ -35,4 +35,4 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Exterior Window Cleaning** (June 16, 2026): Meredith Needham notified team of exterior window cleaning scheduled for June 17, 2026.
 - **Camp Pendleton S0 Demo** (June 16, 2026): Maciej requesting Part 107 pilot licenses from team members for upcoming Camp Pendleton S0 demonstration. Dan Prendergast directed to BST Pilot Quals folder in Shared Drives → Operations: Flight for license documentation.
 - **KrateoSky Partnership Event - Execution** (June 18-19, 2026): Multi-location celebration event executed with Verde breakfast burritos and coffee, sod farm visit, Q&A session, and dinner at Hotel Boulderado. Final logistics managed by Paige Smith.
-- **Dan Prendergast Flight Cancellation
+- **Joshua Fromm Family Celebration** (June

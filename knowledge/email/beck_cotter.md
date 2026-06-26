@@ -1,93 +1,95 @@
 # Beck Cotter — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 11 (new data) + 34 (previous) = **45 total**
-- **Date range:** 21 Jun 2026 – 25 Jun 2026 (5 days)
-- **Approximate volume:** ~9 emails/day during this period
-- **Activity trend:** Peak activity Mon 22 Jun (13 emails), sustained high Tue 23 Jun (8 emails), cooling Wed 24 Jun (7 emails), light Thu 25 Jun (1 email to date)
+- **Total messages scanned:** 9 (new data) + 45 (previous) = **54 total**
+- **Date range:** 21 Jun 2026 – 26 Jun 2026 (6 days)
+- **Approximate volume:** ~9 emails/day
+- **Activity trend:** Peak Mon 22 Jun (13 emails), sustained Tue 23 Jun (8 emails), cooling Wed 24 Jun (7 emails), Thu 25 Jun (9 emails—higher than expected), Fri 26 Jun (1 email to date)
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Jack Elston** (elstonj@blackswifttech.com) — bidirectional; MHP data alignment, Arctic UAS collaboration, **NEW: CCRPP government application program**
-- **Maciej Stachura** (stachura@blackswifttech.com) — Arctic UAS Location Change; primary internal escalation point for Invest Ottawa coordination; **continues active on 24 Jun with Noah Ray**
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — operations/fulfillment coordinator; Slack direct message on 24 Jun (20:02) suggests urgent internal comms shift
-- **Nathaniel Straus** (nate.straus@blackswifttech.com) — Slack direct message on 24 Jun (20:31) — operations/management support
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — operational support (forwarding, order coordination)
+- **Jack Elston** (elstonj@blackswifttech.com) — bidirectional; MHP data alignment, Arctic UAS, CCRPP application, **NEW: NASA SBIR/STTR Post-Phase II funding coordination (25 Jun, IMPORTANT)**
+- **Maciej Stachura** (stachura@blackswifttech.com) — Arctic UAS, Invest Ottawa coordination, **now receives NASA SBIR/STTR forwarded information (25 Jun); primary on external stakeholder management**
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — operational/order coordination, **NEW: receives LM Technical Questions from Lockheed Martin (25 Jun, IMPORTANT)**
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — **NEW contact visible**: receives NASA SBIR/STTR forwarded information (25 Jun)
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — operations/fulfillment
+- **Nathaniel Straus** (nate.straus@blackswifttech.com) — operations/management support
 
 ### Top External Contacts
-- **Maia Varanda** (mvaranda@investottawa.ca) — Invest Ottawa; Arctic UAS coordination continuing
-- **Noah Ray** (nray@investottawa.ca) — Invest Ottawa; **now in active correspondence with Maciej (24 Jun 21:40)**
-- **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — UK MOD; Merlin Mk2/US Navy SBIR
-- **Bassil El Masri** (belmasri@murraystate.edu) — Murray State University; flight test and logistics
-- **Joseph Orlando** (joseph.orlando@noaa.gov) — NOAA Federal; Model S0 customer delivery
+- **Lockheed Martin (Stefan Golunski, Dhruti Shah)** — **NEW/ELEVATED PRIORITY**: 
+  - Stefan Golunski (stefan.golunski@global.lmco.com) — Direct to Beck on 25 Jun, IMPORTANT; re: **Black Swift S0™ Air Deployed UAS - ECCN** (export control/classification discussion)
+  - Dhruti Shah (dhruti.shah@global.lmco.com) — To Daniel Prendergast, 25 Jun, IMPORTANT; LM Technical Questions
+  - **Status: Active technical/regulatory engagement**
+
+- **Invest Ottawa (Stephen Rowlands, Noah Ray, Maia Varanda)** — Arctic UAS Location Change **still unresolved**; Stephen Rowlands now directly involved (25 Jun, IMPORTANT)
+
+- **NASA SBIR/STTR Program** — **NEW priority program** forwarded by Jack to Beck, Maciej, Daniel, Joshua (25 Jun, IMPORTANT); Post-Phase II Funding Opportunity
+
+- **NOAA (Joseph Orlando)** — Model S0 customer (lower recent activity)
+- **UK MOD (Simon Laurence)** — Merlin Mk2/US Navy SBIR (ongoing, lower recent activity)
+- **Murray State University (Bassil El Masri)** — Flight test and logistics
 
 ### Communication Breakdown
-- **Internal human:** ~13 emails (29%)
-- **External human:** ~12 emails (27%)
-- **Automated/Marketing/Newsletter/Slack notifications:** ~20 emails (44%) — newsletters, vendor marketing, Slack alerts, industry updates
+- **Internal human:** ~16 emails (30%)
+- **External human:** ~14 emails (26%)
+- **Automated/Marketing/Newsletter/Slack notifications:** ~24 emails (44%)
 
 ## Topic Patterns
 
 ### Active Projects/Topics
 
-1. **Arctic UAS Location Change** — CONTINUING DOMINANT THREAD
-   - **24 Jun 21:40:** Maciej sends reply to Noah Ray (Invest Ottawa) — still unresolved/active
-   - Beck no longer directly engaged in correspondence; Maciej fully owns stakeholder management
-   - Status: **Ongoing, delegated, monitoring phase**
+1. **NASA SBIR/STTR Post-Phase II Funding** — **NEW / HIGH PRIORITY**
+   - **25 Jun 13:11:** Jack Elston forwards to Beck, Maciej, Daniel, Joshua; marked IMPORTANT
+   - Forwarded from external source; indicates BST is pursuing or has pursued NASA Phase II funding
+   - **Status: New opportunity being evaluated/distributed for team awareness**
 
-2. **CCRPP Application Period** — **NEW / RISING PRIORITY**
-   - **24 Jun 10:55–13:42:** Jack Elston driving bidirectional exchange with Beck and Maciej
-   - Marked IMPORTANT (2 instances)
-   - Appears to be government grant/program application window
-   - Beck and Jack actively discussing strategy/application details
-   - **Status: Active coordination, urgent deadline window**
+2. **Lockheed Martin Technical & Export Control Engagement** — **NEW / ELEVATED PRIORITY**
+   - **25 Jun 11:52:** Stefan Golunski (LM) replies directly to Beck re: **Black Swift S0™ Air Deployed UAS - ECCN** (Export Control Classification Number)
+   - **25 Jun 14:39:** Dhruti Shah (LM) sends LM Technical Questions to Daniel Prendergast (forwarded via Daniel)
+   - Suggests active product evaluation, integration discussion, or regulatory approval process for S0 system
+   - **Status: Active technical and export control regulatory coordination with major defense contractor**
 
-3. **Model S0 / NOAA Delivery** — Lower recent activity
-   - Escalation triggered on 23 Jun but no new activity in 24–25 Jun window
-   - Likely escalation resolved internally or awaiting external response
+3. **Arctic UAS Location Change** — CONTINUING BUT ESCALATING
+   - **25 Jun 10:42:** Stephen Rowlands (Invest Ottawa) now directly involved in discussion with Maciej and Noah Ray; marked IMPORTANT
+   - Upgrade from bilateral (Beck/Maciej ↔ Invest Ottawa) to trilateral (Invest Ottawa HQ → decision-makers)
+   - **Status: Moving up decision chain; still unresolved; increasing urgency**
 
-4. **Merlin Mk2/US Navy SBIR** — Government program (ongoing, lower recent activity)
+4. **CCRPP Government Application** — Continues from previous period; status unclear pending Jack follow-up
+
+5. **Model S0 / NOAA Delivery** — Lower recent activity; likely completed or awaiting external response
 
 ### Industry Monitoring / External Intelligence
-- **UASweekly Newsletter** (24 Jun) — continuing daily sector intelligence
-- **UAS Magazine** (24 Jun 21:17) — Navy laser counter-drone systems, Red Cat Hellcat drone announcement
-- **SMK1.systems collaboration inquiry** (24 Jun 23:07) — **NEW unsolicited inbound**: "SAL-C autonomy safety engine" collaboration pitch; marked as forum/inquiry category
-- **Dronitaly marketing** (25 Jun 08:05) — continuing vendor/supplier communications
+- **UASweekly Newsletter** (25 Jun) — continuing daily sector intelligence
+- **U.S. Patent and Trademark Office** (26 Jun) — subscription alert (likely industry/patent monitoring)
+- **Eventbrite marketing** (25 Jun) — continuing event promotion
+- **Google Docs collaboration** (25 Jun, 2 notifications) — **Collaborative document N6833525C0492CLIN** with mentions of Maciej Stachura; Alex Lomis editing; appears to be internal working document (possibly related to one of active projects; codename/reference number suggests government/classified context)
 
 ## Communication Patterns
 
-- **Slack adoption for urgent internal coordination:** Multiple Slack direct messages received on 24 Jun (20:02, 20:31) from Meredith and Nate — suggests real-time escalation for NOAA shipment/invoice issue
-- **Government applications prioritized:** CCRPP exchange between Beck and Jack marked IMPORTANT twice in 6-hour window; suggests tight deadline or strategic importance
-- **Maciej owns external stakeholder comms:** Beck not directly replying to Invest Ottawa; Maciej handling Noah Ray correspondence on 24 Jun
-- **Vendor/partner inbound inquiry:** SMK1.systems autonomy safety engine unsolicited inquiry suggests BST reputation attracting partnership proposals
-- **Sustained industry monitoring:** UASweekly, UAS Magazine, and similar feeds continuing daily — Beck/team staying informed on competitive landscape and emerging tech
+- **Google Docs real-time collaboration:** Two timestamps (14:23 and 16:23) on Thu 25 Jun suggest active concurrent editing of document N6833525C0492CLIN with Maciej Stachura; mentions "Going to adjust and add more tomorrow" — active project planning/proposal drafting
+- **Government program distribution pattern:** Jack Elston distributes NASA SBIR/STTR opportunity to 4 people (Beck, Maciej, Daniel, Joshua) — suggests cross-functional team assessment of opportunity
+- **Defense contractor direct engagement:** Lockheed Martin reaching out directly to Beck (ECCN classification) and Daniel (technical questions) — indicates serious technical/commercial discussion, likely product integration or customer evaluation
+- **Invest Ottawa escalation:** Third party (Stephen Rowlands) now in loop on Arctic UAS — may signal mediation, approval gate, or escalation of decision
 
 ## Key Relationships
 
 ### Closest Internal Collaborators
-1. **Maciej Stachura** — now primary internal lead on Arctic UAS and external stakeholder management; independent decision-making
-2. **Jack Elston** — technical/strategic peer; driving CCRPP application (likely R&D or proposals lead)
-3. **Meredith Needham** — urgent operational escalation (Slack direct message 24 Jun) — critical fulfillment coordinator
-4. **Nathaniel Straus** — management/operations escalation (Slack direct message 24 Jun)
+1. **Jack Elston** — Proposals/funding lead; actively distributing NASA SBIR/STTR and CCRPP opportunities to team
+2. **Maciej Stachura** — Operations/external stakeholder management lead; collaborative editing on internal working document (Google Docs N6833525C0492CLIN)
+3. **Daniel Prendergast** — Technical/operational liaison; receiving LM Technical Questions directly; part of NASA SBIR/STTR distribution
+4. **Joshua Fromm** — **NEW elevated visibility**: included in NASA SBIR/STTR distribution (likely engineering/technical role)
+5. **Meredith Needham** — Fulfillment/operations escalation point
 
 ### Critical External Relationships
-1. **Noah Ray & Maia Varanda (Invest Ottawa)** — Arctic UAS decision-makers; Noah Ray now in active exchange with Maciej (24 Jun)
-2. **Joseph Orlando (NOAA Federal)** — active customer for Model S0; delivery phase
-3. **Jack Elston (internal, but strategic external impact)** — government funding/applications lead on CCRPP program
-4. **Simon Laurence (UK MOD)** — government relations on Merlin Mk2 SBIR
-5. **SMK1.systems** — **NEW unsolicited partnership inquiry** on autonomy safety engine; suggests BST is recognized player in autonomy/safety space
+1. **Lockheed Martin (Stefan Golunski, Dhruti Shah)** — **NEW primary relationship**: Active technical and regulatory engagement on Black Swift S0™ system; ECCN classification suggests export/defense implications
+2. **Invest Ottawa (Stephen Rowlands, Noah Ray, Maia Varanda)** — Arctic UAS decision still pending; escalating through organizational hierarchy
+3. **NASA SBIR/STTR Program** — New funding opportunity (Post-Phase II) actively under evaluation
+4. **Jack Elston** — Strategic proposals/funding lead; internal but drives external opportunities
 
 ## Notable Observations
 
-- **Arctic UAS delegation complete:** Beck fully stepped back from direct external correspondence; Maciej now solely driving Invest Ottawa discussions with Noah Ray (24 Jun). Status of underlying decision remains unresolved but de-escalated from Beck's inbox.
-
-- **CCRPP government application is active priority:** Jack and Beck exchanging on 24 Jun with IMPORTANT flags; likely a Canadian government R&D or commercialization program with application deadline. **Requires monitoring for project implications.**
-
-- **Slack adoption suggests operational urgency:** Meredith (20:02) and Nate (20:31) both sent Slack direct messages on 24 Jun evening — unusual pattern compared to email threading. Suggests NOAA/Model S0 fulfillment issue may have escalated or required real-time discussion. **Check Slack logs for context.**
-
-- **Unsolicited inbound partnership interest:** SMK1.systems autonomy safety engine pitch indicates BST is viewed as potential integration/collaboration partner in autonomous systems space — possible partnership or technology evaluation opportunity.
-
-- **No new NOAA escalation emails:** Despite 23 Jun urgency on Model S0/shipment, no follow-up on 24–25 Jun. Either resolved quickly, handed to operations (Meredith), or awaiting external response.
-
-- **Beck's role: strategic hub with operational hands-off:** Increasingly delegates day-to-day execution (Arctic UAS to Maciej, CCRPP coordination to Jack, operations escalation to Meredith/Nate) while monitoring. Acts as approval/decision-maker and cross-functional coordinator.
+- **Lockheed Martin engagement is significant new development:** Direct technical and export control conversation on Black Swift S0™ suggests:
+  - Possible integration partnership or customer evaluation
+  - ECCN classification required for export/defense procurement
+  - LM Technical Questions to Daniel indicate hands-on

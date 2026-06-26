@@ -8,15 +8,15 @@
   "ship_to": "NOAA UASD",
   "items": [
     {
-      "description": "S0 Display Model with tripod and collar support",
+      "description": "S0 Display Model",
       "quantity": 1
     },
     {
-      "description": "Shipping to NOAA UxSOC",
+      "description": "Shipping S0 display model to NOAA UxSOC",
       "quantity": 1
     }
   ],
-  "payment_state": "paid",
+  "payment_state": "invoice_sent",
   "build_state": "complete",
   "ship_state": "awaiting_pickup",
   "estimate_date": null,
@@ -33,7 +33,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "S0 Display Model invoice 1762 paid; customer (ENS Joseph Orlando, NOAA UASD) requested shipping update on 2026-06-23. Build complete and awaiting pickup/shipment to NOAA UxSOC.",
+  "notes": "S0 Display Model invoice 1762 issued 2026-05-08 for $4,580. Customer (ENS Joseph Orlando, NOAA UASD) requested shipping update on 2026-06-23. Build complete and awaiting pickup/shipment to NOAA UxSOC. Subject line indicates invoice paid but shipment tracking/status still pending.",
   "missing_fields": [
     "tracking_number",
     "shipped_date"
