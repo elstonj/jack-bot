@@ -17,14 +17,14 @@
   3. **Gateworks board sourcing status (Josh Fromm) — UNRESOLVED (queried 5/28–5/29/26, no documented response) — THREATENS GCS build due 7/1/26**
 - **Team Members:** 
   - Meredith O'hara Needham (project owner, shipments, invoice submissions)
-  - **Jack Elston** (firmware/software) — **CRITICAL PATH: deployment tube firmware OVERDUE**
+  - **Jack Elston** (firmware/software) — **CRITICAL PATH: deployment tube firmware OVERDUE; AP & PSNS firmware due 6/26/26**
   - **Sam Hild** (QC, hardware validation, kit assembly) — **CRITICAL PATH: deployment tube board QC overdue; kit assembly target 6/19**
   - Nate Straus (platform rebuild/validation, s0 builds, servo assembly, linkage construction, power switches)
   - Maciej Stachura (platform validation/testing, magnetic calibration, parameter file validation, failure analysis)
   - Alex Lomis (strategic partnerships, NASA opportunities)
-  - **Josh Fromm** (GCS assembly, long-lead parts, Gateworks board sourcing) — **⚠️ CRITICAL: Gateworks board status UNKNOWN; Joshua Fromm asked 5/28 and 5/29/26 "do we have the gateworks boards for the s0 ground stations for the idiq yet?" — no documented response found; GCS build due 7/1/26**
+  - **Josh Fromm** (GCS assembly, long-lead parts, Gateworks board sourcing) — **⚠️ CRITICAL: Gateworks board status UNKNOWN; queried 5/28–5/29/26 with no documented response; GCS build due 7/1/26**
   - Ben Busby (web-based controller development) — due 7/31/26
-  - Nick Pawlenko (UxSOC liaison) — **transitioned to UxSOC HQ effective 5/29/26; reduced availability — communications now include wider UASD team for scheduling, personnel, flight planning, maintenance**
+  - Nick Pawlenko (UxSOC liaison) — **transitioned to UxSOC HQ effective 5/29/26; reduced availability — communications now include broader UASD team for scheduling, personnel, flight planning, maintenance**
 
 ## Key Deliverables & Milestones
 
@@ -47,7 +47,7 @@
 | Deployment tube firmware | Jack Elston | 2026-06-04 | 🔴 **OVERDUE** |
 | QC at least one of each board as they arrive | Sam Hild | 2026-06-04 | 🔴 **OVERDUE** |
 | Finish deployment tube board QCs | Sam Hild | 2026-06-05 | 🔴 **OVERDUE** |
-| AP & PSNS firmware | Jack Elston | 2026-06-26 | ⏳ Upcoming |
+| **Finalize AP & PSNS firmware** | **Jack Elston** | **2026-06-26** | **⏳ OPEN (Asana)** |
 | **Rebuild old BST s0 (2024)** | **Nate Straus** | **2026-06-19** | **⏳ OPEN** |
 | **Begin kit assembly** | **Sam Hild** | **2026-06-19** | **⏳ OPEN** |
 | **Assembly latch carrier trays** | **Nate Straus** | — | ✅ **Completed 2026-06-23** |
@@ -61,18 +61,22 @@
 
 ## Task Summary
 
-**Overall (Asana):** 1 completed, 0 open (project in final execution phase)
+**Asana Status:** 1 open task, 0 completed (in final execution phase)
+
+**Open Task:**
+- **Finalize AP & PSNS firmware** (Jack Elston) — Due 2026-06-26
 
 **Recent Completions:**
 - ✅ **Assembly latch carrier trays** (Nate Straus) — completed 2026-06-23
 
-**Critical Path Items Requiring Immediate Action:**
-  - **Jack Elston:** Deployment tube firmware OVERDUE since 6/4/26 — blocks Invoice 4 ($72k) and hardware release
-  - **Sam Hild:** Deployment tube board QC overdue since 6/5/26 — blocks Invoice 4 and downstream assembly
-  - **Josh Fromm:** Gateworks board sourcing status unresolved; queried by Fromm on 5/28 and 5/29/26 with no documented response — threatens GCS build due 7/1/26
+**Critical Path Bottlenecks:**
+  - **Jack Elston:** 
+    - Deployment tube firmware OVERDUE since 6/4/26 — blocks Invoice 4 ($72k) and hardware release
+    - AP & PSNS firmware due 6/26/26 (approaching; likely to impact downstream validation)
+  - **Sam Hild:** Deployment tube board QC OVERDUE since 6/5/26 — blocks Invoice 4 and kit assembly start (target 6/19)
+  - **Josh Fromm:** Gateworks board sourcing status unresolved; no documented response to queries on 5/28–5/29/26 — threatens GCS build due 7/1/26
 
 ## Recent Activity
 
 - **June 23, 2026:** Assembly latch carrier trays completed (Nate Straus)
-- **May 29, 2026:** Nick Pawlenko transitioned to UxSOC HQ. Communication protocol updated to include broader UASD team for scheduling, personnel (especially foreign nationals), flight planning, and maintenance coordination due to potential availability constraints.
-- **May 28–29, 2026:** **Joshua Fromm queried twice regarding
+- **May 29, 2026:** Nick Pawlenko transitioned

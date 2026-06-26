@@ -101,7 +101,6 @@
   - **Direct Cost Materials & Supplies impact: $479.80**
 
 **Recent transactions confirmed (2026-06-24 to 2026-06-25):**
-- **Purchase #260607W011757** (2026-06-25): $90.16 [DC-Direct Cost Shipping] — *see Shipping/Freight section*
 - **Purchase #0624JELSTON** (2026-06-24): 
   - $2.58 [DC-Direct Material Purchases] — By Light Supplies
   - $20.93 [DC-Direct Material Purchases] — Navy Magnetometer
@@ -111,7 +110,7 @@
   - Subtotal materials: **$1,281.98**
 - **Purchase #009799** (2026-06-24): **$48.19** [DC-Direct Material Purchases]
 
-**Subtotal new materials & supplies (2026-06-24 to 2026-06-25): $1,354.68**
+**Subtotal new materials & supplies (2026-06-24 to 2026-06-25): $1,353.68**
 
 **Total direct cost materials & supplies through 2026-09-28: $472,433.53** *(confirmed final)*
 
@@ -144,4 +143,7 @@
 **Number of transactions:** 3  
 **Key transactions:**
 - **Purchase #0616JELSTON** (2026-06-17): **$68.05** [FA-Shop Supplies] — Masking Tape for Powder Coating, Blue, 1" Wide
-- **Purchase #0624JELSTON** (2026-06-24): **$183.77** [FA-Shop
+- **Purchase #0624JELSTON** (2026-06-24): **$183.77** [FA-Shop Supplies] — Shop supplies & consumables
+- **Earlier transaction:** $718.08 cumulative
+
+**Total indirect costs through 2026-09-28: $969.90** *(

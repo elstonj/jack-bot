@@ -5,44 +5,54 @@
   "customer_contact": "Dr. Bassil El Masri",
   "customer_email": "belmasri@murraystate.edu",
   "receive_by": "2025-10-31",
-  "ship_to": "",
+  "ship_to": "Dr. Bassil El Masri, Department of Earth and Environmental Sciences, 334 Blackburn Hall, Murray, KY 42071",
   "items": [
     {
       "description": "S2 Aircraft Rental (12 days)",
       "quantity": 1
+    },
+    {
+      "description": "Survey Services",
+      "quantity": 1
     }
   ],
-  "payment_state": "estimate_sent",
+  "payment_state": "invoice_sent",
   "build_state": "none",
-  "ship_state": "none",
-  "estimate_date": null,
-  "invoice_date": null,
-  "invoice_amount": null,
-  "invoice_number": "1343",
+  "ship_state": "in_transit",
+  "estimate_date": "2024-12-01",
+  "invoice_date": "2025-12-11",
+  "invoice_amount": 86862.94,
+  "invoice_number": "1728",
   "paid_date": null,
   "parts": [
     {
       "name": "S2 batteries (6S 22.2V)",
       "ordered": true,
-      "received": true,
+      "received": false,
+      "vendor": "BST",
+      "order_date": null
+    },
+    {
+      "name": "S3 Batteries",
+      "ordered": true,
+      "received": false,
       "vendor": "BST",
       "order_date": null
     }
   ],
-  "tracking_number": "",
-  "carrier": "",
-  "shipped_date": null,
+  "tracking_number": "103032275",
+  "carrier": "Aeronet",
+  "shipped_date": "2026-06-22",
   "owners": {
     "interface": "Beck",
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "NASA-funded methane emissions research project via Murray State. Estimate #1343 ($86,862.94) submitted Dec 2024; BST approved as vendor Jan 22, 2025. Project approved Jan 29, 2025. Aircraft rental period May\u2013Oct 2025 with travel dates aligned. Battery shipment in progress (Slack 2026-06-22: '3 x S3 Batteries enroute'). Field visit scheduled late June with crew travel booked.",
+  "notes": "Active research project [018-1] Murphy's Pond CH4 Monitoring. Estimate #1343 ($86,862.94) approved Jan 29, 2025; Invoice #1728 issued Dec 11, 2025 for Trip #2 data collection (Nov 6-7, 2025). Field campaign May\u2013Oct 2025. Battery shipment (3x S3) in transit via Aeronet (tracking 103032275) to Blackburn Hall; delivery expected end of week (as of June 22). BST team (Dan Prendergast, Jack) conducting data collection at Murphy's Pond weekend of June 21\u201322, 2026. Two additional trip invoices expected.",
   "missing_fields": [
-    "ship_to",
-    "invoice_date",
-    "invoice_amount"
+    "invoice_amount",
+    "paid_date"
   ],
   "last_evidence_date": "2026-06-22",
-  "last_contact_date": "2025-11-07"
+  "last_contact_date": "2026-06-22"
 }

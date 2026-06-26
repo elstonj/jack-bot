@@ -4,15 +4,14 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-06-24",
-    "end": "2026-06-25"
+    "start": "2026-06-25",
+    "end": "2026-06-26"
   },
   "totals": {
     "revenue": 144000.0,
-    "expenses": 138.35,
+    "expenses": 90.16,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 90.16,
-      "DIRECT COSTS:DC-Direct Material Purchases": 48.19
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 90.16
     }
   },
   "invoices": [
@@ -80,24 +79,6 @@
           "amount": 90.16,
           "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
           "description": "Phase1 Aviation shipment for IDIQ (5/28/26)"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-06-24",
-      "doc_number": "009799",
-      "total": 48.19,
-      "attributed": 48.19,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 48.19,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": ""
         }
       ]
     }

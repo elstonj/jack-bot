@@ -1,65 +1,51 @@
 # Slack Channels Overview
 
-Last scanned: 2026-06-25 02:13
+Last scanned: 2026-06-26 02:13
 
-Total channels scanned: 5
+Total channels scanned: 6
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 2 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#25_1-navy-sbir-magnetometer** -- 1 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#emass-bst** -- 3 messages -- [emass-bst.md](emass-bst.md)
 - **#general** -- 1 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 7 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#marketing** -- 2 messages -- [marketing.md](marketing.md)
-- **#s3** -- 15 messages -- [s3.md](s3.md)
+- **#grants-and-funding** -- 6 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#marketing** -- 6 messages -- [marketing.md](marketing.md)
+- **#s3** -- 36 messages -- [s3.md](s3.md)
 
 ## Strategic Summary
 
 # Black Swift Technologies - Cross-Channel Strategic Overview
 
 ## Active Projects
+- **Navy SBIR Magnetometer**: Integration of QuSpin magnetometers onto aircraft for Magnetic Anomaly Detection (MAD). Lead technical team includes Joshua Fromm, Jack Elston, and Maciej.
+- **S3 VTOL Aircraft**: Long-endurance hybrid fixed-wing/quadcopter platform (2-3 hour endurance) with tilting rotors and autonomous flight capability. Joshua Fromm leads design; Jack Elston handles systems architecture.
+- **ECSDoT Integration (eMASS AI Partnership)**: Energy management system hardware integration onto E2 aircraft platform with AI model training. Nikhila (eMASS) and Jack Elston (BST) driving development.
+- **Grants & Government Funding Pipeline**: Multi-agency pursuit (NASA, DOD, NOAA, USDA) with active proposal submissions and award tracking.
 
-**Core Hardware Platforms:**
-- **S3 VTOL Aircraft**: Hybrid fixed-wing/quadcopter with tilting rotors; targets 2-3 hour endurance and autonomous operations. Led by Joshua Fromm (engineering) and Jack Elston (systems/firmware).
-- **Navy SBIR Magnetometer Program**: Integration of QuSpin magnetometers into BST aircraft for Magnetic Anomaly Detection (MAD). Multi-disciplinary team across engineering and technical roles.
+## Key Decision-Makers & Roles
+- **Jack Elston**: Primary strategic decision-maker, autopilot/firmware expertise, proposal reviewer, funding strategy lead
+- **Joshua Fromm**: Lead aircraft designer/engineer (S3, magnetometer platforms)
+- **Maciej**: Project oversight, testing, control systems, field operations, technical support
+- **Sam Hild**: Firmware development (S3, magnetometer systems)
+- **Meredith Needham**: Budget development and funding administration
+- **Parker Vollmer & Sophia Henkels**: Marketing and external communications
 
-**Business Development:**
-- Continuous grant pursuit across federal agencies (NASA, DOD, NOAA, USDA) tracked in #grants-and-funding; Jack Elston drives proposal decisions and review.
+## Decision Patterns
+1. **Centralized Review**: Jack Elston maintains tight control over grant proposals, strategic decisions, and major technical approvals
+2. **Technical-First Approach**: Projects advance through engineering milestones before funding/marketing push
+3. **Cross-Project Resource Sharing**: Same core technical team (Joshua, Jack, Sam, Maciej) spans Navy SBIR, S3, and eMASS projects
+4. **External Partnership Model**: Collaborative integration with external partners (eMASS AI, QuSpin) leveraging specialized expertise
 
-## Key Decision Patterns
-
-- **Jack Elston**: Primary strategic decision-maker; reviews proposals, sets company direction, appears in all major channels
-- **Joshua Fromm & Maciej**: Technical project leads with cross-project responsibility; Maciej also handles operations and testing
-- **Hierarchical approval**: Proposals and budgets flow through Jack Elston for final sign-off; Meredith Needham manages budget details
-
-## Key People & Roles
-
-| Person | Primary Functions |
-|--------|------------------|
-| Jack Elston | Leadership, systems architecture, proposal review |
-| Joshua Fromm | S3 lead engineer/designer |
-| Maciej | Project oversight, testing, control systems, operations |
-| Sam Hild | Firmware development |
-| Meredith Needham | Budget management, grant administration |
-| Parker Vollmer | Marketing strategy and execution |
-| Sophia Henkels | Content and web management |
-
-## Recurring Topics Across Channels
-
-- **Funding cycles**: Proposals and grant opportunities continuously discussed; tight linkage between project timelines and funding availability
-- **Technical integration challenges**: Magnetometer integration, VTOL control systems, firmware optimization
-- **Operational readiness**: Testing, field operations, autonomous flight validation
-- **External communications**: Marketing efforts align with product capabilities (S3, magnetometer systems) for positioning
+## Recurring Themes
+- **Integration Complexity**: Multiple channels show systems integration challenges (magnetometers, energy systems, autopilot coordination)
+- **Endurance & Performance**: Core technical focus across aircraft platforms
+- **Government Contracting**: Heavy emphasis on SBIR, grants, and federal funding cycles
+- **Autonomous Operations**: Automatic flight capability across all aircraft platforms
+- **Testing & Validation**: Consistent emphasis on field testing and validation protocols
 
 ## Cross-Channel Connections
-
-- **S3 & Magnetometer Programs**: Both leverage BST's aircraft platforms; magnetometer SBIR may integrate onto S3 platform
-- **#general as coordination hub**: Announces project milestones, operational decisions that feed into specialized channels
-- **Funding enables execution**: Grant awards in #grants-and-funding directly resource S3 and magnetometer development discussed in project channels
-- **Marketing alignment**: #marketing develops collateral around active projects (S3, magnetometer capabilities) for customer/partner communication
-
-## Strategic Themes
-
-1. **Dual-track development**: Hardware platform (S3) and payload integration (magnetometer) advancing in parallel
-2. **Government-centric business model**: Heavy reliance on federal SBIR/grants rather than commercial revenue
-3. **Small, specialized team**: Same core people appear across projects, indicating lean operations with high individual accountability
-4. **Integration-focused engineering**: Success depends on coordinating firmware, control systems, and hardware design seamlessly
+- **Personnel**: Core team (Elston, Fromm, Maciej, Hild) appears across Navy SBIR, S3, and eMASS channels
+- **Technology Stack**: S3 VTOL platform serves as test bed for magnetometer and energy management integrations
+- **Funding Strategy**: Grants support individual projects; marketing amplifies capabilities for business development
+- **Hardware-Software Integration**: All active projects require tight autopilot/firmware coordination (Jack Elston's domain)

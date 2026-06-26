@@ -70,4 +70,5 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Status Update (May 8, 2026): Informal indication received that Phase II award appears likely based on Navy contacts (not yet official)
 
 **Phase II Option Period (August 2026 - primary focus):**
-- Status: Task modifications approved by Navy on April
+- Status: Task modifications approved by Navy
+-

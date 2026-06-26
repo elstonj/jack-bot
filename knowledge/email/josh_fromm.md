@@ -1,98 +1,88 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,343 emails (1,312 prior + 31 new from June 24–25)
-- **Date range:** May 18–June 25, 2026
+- **Total messages scanned:** 1,378 emails (1,343 prior + 35 new from June 25–26)
+- **Date range:** May 18–June 26, 2026
 - **Daily average:** ~15–17 emails/day (human correspondence); automated/logistics/procurement/travel volume substantial and accelerating
-- **Unread messages:** ~1,030+ unread (heavy promotional/automated volume dominating; component sourcing, logistics, travel bookings, vendor notifications, design tool alerts, and manufacturing logistics increasing)
-- **New data period (June 24–25):** 31 emails
-  - **Human correspondence:** 3 emails (10%)
-    - Marcela Lobo (marcela@techmaxmfg.com) → Josh: "Machining supplier for large aerospace components" (IMPORTANT; June 24, 15:58)
-    - Lisa Strod (lstrod@biscoind.com) → Josh: "Tracking Info" (IMPORTANT; June 24, 14:20) — **NEW contact; BISCO Industries (electronics distributor)**
-    - UAS VISION (russ@uasvision.com) → Josh: "DAILY NEWS" (IMPORTANT; June 24, 09:04) — **newsletter subscription (existing)**
-  - **Automated/Logistics/Procurement/Travel/Design/Promotional:** 28 emails (90%)
-    - **Component Procurement (June 24–25):**
-      - McMaster-Carr (3x: June 24 order confirmation + tracking/certificate + receipt — Jun 25, 02:26; Jun 24, 16:28 & 15:28)
-      - DigiKey (3x: shipment notifications for invoices 128017059 & 128078150 + PO acknowledgement #100009799 — Jun 24, 15:25–13:58)
-      - Hitec RCD USA (order #5526 status update — Jun 24, 23:45)
-      - JawsTec Manufacturing (invoice 69507 payment request — Jun 24, 14:12)
-      - Daniels Manufacturing Corporation (51 Series Mil-Spec qualification promotional — Jun 24, 16:09)
-      - Dronetag (July 4th promotional/5% off RIDER — Jun 24, 15:58) — **drone identifier/tracking system**
-      - MechStack/Fictiv (CNC scaling announcement — Jun 24, 09:03, marked IMPORTANT) — **on-demand manufacturing platform**
-      - Craftcloud (AI Material Assistant announcement — Jun 24, 14:01) — **manufacturing software/material selection**
-      - Battery Junction (Summer sale promotion — Jun 24, 13:00)
-      - Harbor Freight (ICON G2 tool lineup + separate 25% off coupon addressed to "MACIEJ" — Jun 24, 20:17 & 13:16) — **NOTE: coupon addressed to Maciej Stachura, not Josh**
-      - Strong Hold (mobile storage promotional — Jun 24, 15:04)
-    - **Shipping/Logistics/Office Supply (June 24–25):**
-      - Worldwide Express invoice (existing pattern)
-      - USPS Informed Delivery digest (Jun 24, 13:29)
-      - Amazon (2x: order confirmations for "Method Foaming Hand Soap" + 3-4 items + "WOLFBOX MF200 Compressed..." [dash cam] — Jun 24, 17:27–17:29; shipment notification Jun 25, 05:40)
-    - **Travel & Lodging (June 24):**
-      - Expedia (2x: check-in follow-up + Expedia One Key program changes — Jun 24, 18:15 & 08:29)
-    - **Subscription/Logistics (June 24):**
-      - Driftaway Coffee (upcoming shipment notification — Jun 24, 23:03) — **coffee subscription (existing)**
-    - **Project Management/Collab Tools (June 24):**
-      - Asana (unread notifications — Jun 24, 17:45) — **active task/project management (existing)**
-    - **Vendor/Promotional (June 24):**
-      - Dell Technologies (2x promotional — Jun 24, 16:30 & 06:18)
+- **Unread messages:** ~1,060+ unread (heavy promotional/automated volume dominating)
+- **New data period (June 25–26):** 35 emails
+  - **Human correspondence:** 4 emails (11%)
+    - Jack Elston (elstonj@blackswifttech.com) → Josh + team: "Post-Phase II Funding Opportunity from NASA SBIR/STTR" (IMPORTANT; June 25, 13:11) — **NEW; NASA funding focus**
+    - BatterySpace (sales@batteryspace.com) → Josh: "Re: MSDS & 38.3 testing documents" (IMPORTANT; June 25, 14:55) — **Josh initiated inquiry on Jun 25, 15:30 (2-way exchange)**
+    - Simon Laurence (Simon.Laurence157@mod.gov.uk) → Josh: "RE: Merlin Mk2/US Navy SBIR" (IMPORTANT; June 25, 09:01) — **UK MOD direct contact; Merlin Mk2 program (existing)**
+    - UAS VISION (russ@uasvision.com) → Josh: "DAILY NEWS" (IMPORTANT; June 25, 09:06) — **newsletter (existing)**
+  - **Automated/Logistics/Procurement/Travel/Design/Promotional:** 31 emails (89%)
+    - **Component Procurement/Manufacturing (June 25–26):**
+      - McMaster-Carr (3x: order confirmations + certificates/tracking for June 25 order — Jun 25, 16:06–16:41)
+      - SendCutSend (shipment notification — Jun 25, 15:39) — **sheet metal fabrication (existing)**
+      - CADDXFPV (promotional "Protos" — Jun 25, 14:50) — **FPV flight controller systems**
+      - TraceParts | Amphenol PCD (connector/cable samples — Jun 25, 16:15) — **industrial connectors (existing vendor type)**
+      - Utmel Electronics (sales5@utmel.com) → purchasing@bst.aero: "Quick Hi from Utmel(Peggy)" (Jun 26, 11:13) — **NEW vendor outreach; electronic components distributor**
+      - HeliDirect (helicopter newsletter — Jun 25, 19:53) — **rotor/helicopter components (existing pattern)**
+    - **Shipping/Logistics/Office Supply (June 25–26):**
+      - Amazon (4x: order confirmations + shipment notifications for "Pololu 12V Step-Down..." [power supply], "CKAuto 0.25oz Grey..." [lubricant/sealant], "Method Foaming Hand Soap" — Jun 25, 18:26, 19:53, 21:02, 14:09)
+      - UPS (package arrival notification — Jun 25, 14:20)
+      - Pirate Ship (payment receipt $15.32 — Jun 26, 05:45) — **shipping platform (existing)**
+      - USPS Informed Delivery (daily digest — Jun 25, 13:26)
+    - **Travel & Lodging (June 26):**
+      - Hilton Honors (credit card offer; $0 intro annual fee → $150 after year 1 — Jun 26, 00:37) — **NEW; marked IMPORTANT**
+    - **Subscriptions (June 25–26):**
+      - Driftaway Coffee (order confirmation #DR30134COF + points earned — Jun 25, 23:03–23:02) — **coffee subscription (existing)**
+      - Spindrift (beverage subscription order confirmation — Jun 26, 04:01) — **NEW subscription**
+      - Birdcall (restaurant/food promotion — Jun 25, 16:30) — **promotional (existing pattern)**
+    - **Project Management/Collab Tools (June 25):**
+      - Asana (2x unread notifications — Jun 25, 19:41 & 23:02) — **active use (existing)**
+    - **Billing/Admin (June 26):**
+      - Constant Contact (payment receipt for Jack Elston — Jun 26, 03:14) — **email marketing platform; receipt routed through purchasing@**
+      - PCI Compliance Reminder (Jun 25, 17:06)
+    - **Promotional/Hardware (June 25–26):**
+      - Harbor Freight (30% off coupon $10+ items — Jun 26, 02:57) — **tools/hardware (existing pattern)**
+      - Dell Technologies (seasonal sale promotion — Jun 25, 11:51)
+      - Vaisala (weather intelligence newsletter — Jun 25, 07:00)
+      - Anne Jalkala (survey request — Jun 25, 15:01)
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-1. **Jack Elston** (elstonj@blackswifttech.com) — **Purchasing lead; co-respondent on Critical Component Tiger Team (C2T2) Proposal**
+1. **Jack Elston** (elstonj@blackswifttech.com) — **Purchasing lead; C2T2 Proposal lead; now also coordinating NASA SBIR/STTR Post-Phase II opportunity (NEW focus)**
 
-2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Canada Demo/Sprint Lead; direct external partner liaison**
+2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Canada Demo/Sprint Lead; direct external partner liaison; copied on NASA funding email**
 
-3. **Beck Cotter** (beck.cotter@blackswifttech.com) — **MOD.gov.uk/Merlin Mk2 liaison**
+3. **Beck Cotter** (beck.cotter@blackswifttech.com) — **MOD.gov.uk/Merlin Mk2 liaison; copied on NASA funding email**
 
-4. **Maciej Stachura** (stachura@blackswifttech.com) — **Visible on C2T2 Proposal distribution; also receiving Harbor Freight promotional coupons (suggests co-purchasing authority or shared account)**
+4. **Maciej Stachura** (stachura@blackswifttech.com) — **C2T2 Proposal distribution; copied on NASA funding email**
 
-5. **Meredith Needham** (purchasing@blackswifttech.com) — **Procurement team**
+5. **Meredith Needham** (purchasing@blackswifttech.com) — **Procurement team; also receiving HeliDirect helicopter newsletter**
 
 ### Top External Contacts
-- **Krateo Sky (EXPANDED ROLE)**
-  - **Roger Riley** (Roger@krateosky.com) — **Leading "Critical Component Tiger Team (C2T2) Proposal"; prime contractor/consortium organizer**
-    - **C2T2 Consortium members:** Inspired Flight (Rick Stollmeyer, Nick Winsick), Vantage Robotics (Tobin Fisher), C-Astral (Samo Stopar, Nejc Trost)
 
-- **Tim Pearson** (tim@rotorworksmfg.com) — **Rotor Works Manufacturing; in-person meeting occurred; rotorcraft propulsion context**
+#### **Government/Military/Programs** (NEW/ELEVATED)
+- **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — **UK MOD; Merlin Mk2/US Navy SBIR liaison (direct 2-way correspondence)**
+- **NASA SBIR/STTR Program** — **Post-Phase II funding opportunity (NEW; Jack Elston leading distribution to core team)**
 
-- **Marcela Lobo** (marcela@techmaxmfg.com) — **TechMax Manufacturing; aerospace machining supplier (repeated outreach; marked IMPORTANT)**
+#### **Krateo Sky Consortium (C2T2 Proposal)**
+- **Roger Riley** (Roger@krateosky.com) — **Prime contractor/consortium organizer**
+- Consortium members: Inspired Flight, Vantage Robotics, C-Astral
 
-- **Lisa Strod** (lstrod@biscoind.com) — **BISCO Industries; electronics/component distributor (NEW; marked IMPORTANT; tracking notification Jun 24, 14:20)**
+#### **Component/Materials Suppliers** (ACTIVE)
+- **BatterySpace** (sales@batteryspace.com) — **Battery supplier; Josh actively requesting MSDS & 38.3 testing documents (IMPORTANT; regulatory/qualification focus)**
+- **McMaster-Carr** — Mechanical/structural components (3 orders in 2 days)
+- **SendCutSend** — Sheet metal/precision fabrication
+- **HeliDirect** — Helicopter/rotor components
+- **Hitec RCD USA** — Servo motors & RC control systems
+- **GetFPV** — FPV/drone flight control systems
+- **CADDXFPV** — FPV flight controller systems
+- **Utmel Electronics** (sales5@utmel.com) — **NEW vendor outreach (Jun 26, 11:13); electronic components distributor**
+- **Amphenol PCD / TraceParts** — Industrial connectors & cables
+- **Daniels Manufacturing Corporation** — Mil-spec connectors/components
 
-- **Component/Materials Vendors (ONGOING):**
-  - **Hitec RCD USA** — Servo motors & RC control systems
-  - **GetFPV** — FPV/drone flight control systems
-  - **Jawstec** — Electronics/precision connectors
-  - **SendCutSend** — Sheet metal/precision fabrication
-  - **McMaster-Carr** — Mechanical/structural components (3 orders in 3 days; Jun 22, 24)
-  - **DigiKey** — Electronics components (3 concurrent shipments)
-  - **Staubli** — Industrial connectors & coupling systems
-  - **Daniels Manufacturing Corporation** — Mil-spec connectors/components
+#### **Manufacturing/On-Demand Services**
+- **MechStack/Fictiv** — On-demand CNC/precision manufacturing
+- **Craftcloud** — Manufacturing software & AI material selection
 
-- **Logistics/Shipping:**
-  - **Pirate Ship** — Low-cost shipping platform
-  - **Worldwide Express** — International express carrier
-  - **USPS Informed Delivery** — Postal tracking service
-
-- **Industry News/Newsletters:**
-  - **UAS VISION** (russ@uasvision.com) — UAS/drone industry news (marked IMPORTANT; daily subscription)
-  - **OpenC3** — Open-source C&C systems
-
-- **Manufacturing/On-Demand Services (NEW/EMERGING):**
-  - **MechStack/Fictiv** (hello@fictiv.com) — On-demand CNC/precision manufacturing (marked IMPORTANT)
-  - **Craftcloud** — Manufacturing software & AI material selection
-  - **Dronetag** — Drone identification & tracking systems
-
----
-
-## Topic Patterns
-
-### Recurring Subject Themes
-
-#### **Critical Component Tiger Team (C2T2) Program** — HIGHEST PRIORITY
-- **Status:** Multi-company consortium proposal led by Krateo Sky
-- **Participants:** Inspired Flight, Vantage Robotics, C-Astral (Europe), plus BST internal team (Jack Elston, Maciej Stachura)
-- **Context:** Component development/sourcing program;
+#### **Logistics/Shipping**
+- **Pirate Ship** — Low-cost shipping platform
+- **UPS** — Package tracking
+- **USPS
