@@ -1,6 +1,6 @@
 {
-  "asana_gid": "1205318673933832",
-  "asana_task_name": "[1298] ERAU - S0 & S0 VTOL deployment ",
+  "asana_gid": "1205971100510799",
+  "asana_task_name": "[1313] ERAU 4 S0 VTOL",
   "customer": "Embry-Riddle Aeronautical University",
   "customer_contact": "Kevin Adkins",
   "customer_email": "adkinsk@erau.edu",
@@ -25,7 +25,7 @@
     }
   ],
   "payment_state": "paid",
-  "build_state": "complete",
+  "build_state": "in_qc",
   "ship_state": "none",
   "estimate_date": null,
   "invoice_date": "2025-05-07",
@@ -44,14 +44,21 @@
       "name": "Samsung Galaxy Tab Active2",
       "ordered": true,
       "received": false,
-      "vendor": "",
+      "vendor": "Black Swift Technologies",
       "order_date": null
     },
     {
       "name": "SwiftStation Ground Station",
       "ordered": true,
       "received": false,
-      "vendor": "",
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    },
+    {
+      "name": "S0 Case",
+      "ordered": true,
+      "received": false,
+      "vendor": "Black Swift Technologies",
       "order_date": null
     }
   ],
@@ -63,11 +70,8 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Two S0 VTOL units fully paid (Invoice 1667, May 2025). Build complete as of May 2025; delivery confirmed for Aug/Sept 2026 ISARRA Flight Week campaign. Jack Elston (CEO) and Kevin Adkins (ERAU) agreed May 21, 2026 to ship units directly to ISARRA site to simplify delivery and training logistics. KEPT per Step 1 override: QBO Invoice #1667 matched to this order + substantive direct customer correspondence (May 21, 2026) confirming active near-term delivery obligation within 6 months.",
-  "missing_fields": [
-    "shipped_date",
-    "tracking_number"
-  ],
+  "notes": "KEEP via QBO Invoice 1667 (paid 2025-05-07, $21,181.81). Two S0 VTOL units ordered, paid in full. Per internal legal docs and recent emails, BST has experienced delivery delays and intends to settle with customer. Slack indicates build is in QC with receive-by date 2026-08-31. Note: earlier Invoice 1545 (2023-01-10, paid, $15,028.39) is a separate prior order; only Invoice 1667 applies to this current build task.",
+  "missing_fields": [],
   "last_evidence_date": "2026-06-24",
-  "last_contact_date": "2026-05-21"
+  "last_contact_date": null
 }

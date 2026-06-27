@@ -4,13 +4,15 @@
     "[550-1] Navy SBIR Magnetometer"
   ],
   "period": {
-    "start": "2026-06-25",
-    "end": "2026-06-26"
+    "start": "2026-06-26",
+    "end": "2026-06-27"
   },
   "totals": {
     "revenue": 49459.0,
-    "expenses": 0.0,
-    "by_category": {}
+    "expenses": 138.4,
+    "by_category": {
+      "DIRECT COSTS:DC-Direct Material Purchases": 138.4
+    }
   },
   "invoices": [
     {
@@ -61,7 +63,31 @@
     }
   ],
   "bills": [],
-  "purchases": [],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-06-26",
+      "doc_number": "0625JELSTON",
+      "total": 192.1,
+      "attributed": 138.4,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MCMASTER-CARR - 4617",
+      "lines": [
+        {
+          "amount": 53.7,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Materials IDIQ"
+        },
+        {
+          "amount": 138.4,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Materials for 500-1 Navy: Magnetometer"
+        }
+      ]
+    }
+  ],
   "purchase_orders": [],
   "payments": []
 }

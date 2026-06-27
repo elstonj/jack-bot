@@ -3,22 +3,26 @@
   "asana_task_name": "NASA Ames - S3 (qty.2)",
   "customer": "NASA Ames Research Center",
   "customer_contact": "Will Wade",
-  "customer_email": "William.o.wade@nasa.gov",
-  "receive_by": null,
+  "customer_email": "william.o.wade@nasa.gov",
+  "receive_by": "2026-09-30",
   "ship_to": null,
   "items": [
     {
-      "description": "S3",
-      "quantity": 2
+      "description": "S2 Complete System",
+      "quantity": 1
+    },
+    {
+      "description": "S2 Spare Parts",
+      "quantity": 1
     }
   ],
-  "payment_state": "estimate_sent",
-  "build_state": "none",
+  "payment_state": "invoice_sent",
+  "build_state": "parts_ordered",
   "ship_state": "none",
   "estimate_date": null,
-  "invoice_date": null,
+  "invoice_date": "2026-02-17",
   "invoice_amount": null,
-  "invoice_number": null,
+  "invoice_number": "80NSSC25PC031",
   "paid_date": null,
   "parts": [],
   "tracking_number": null,
@@ -29,13 +33,11 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Asana task for NASA Ames S3 order (qty 2, ~$65k estimated value). Quote already sent; Lead Response is 'Maybe Later'. PDF invoice 1762 in evidence is for NOAA UASD (S0 Display Model, different customer/product) \u2014 not used to populate this NASA build record.",
+  "notes": "NASA Ames S2 order (PO 80NSSC25PC031, Estimate 1362) with Sep 30, 2026 delivery target. Daniel Prendergast confirmed executed PO; parts assembly and obsolete-component replacements in progress. Will Wade confirmed Sep 26 delivery works programmatically pending FY25 fund spend deadline. NOAA UASD invoice 1762 in evidence is for a different customer/product (S0 display model) \u2014 not used here.",
   "missing_fields": [
-    "receive_by",
     "ship_to",
-    "invoice_date",
     "invoice_amount"
   ],
-  "last_evidence_date": "2026-06-23",
-  "last_contact_date": null
+  "last_evidence_date": "2026-02-20",
+  "last_contact_date": "2026-02-20"
 }
