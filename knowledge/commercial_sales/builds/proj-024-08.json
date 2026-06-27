@@ -1,6 +1,6 @@
 {
-  "asana_gid": "1211892779240607",
-  "asana_task_name": "S0-AD with ATR",
+  "asana_gid": "proj-024-08",
+  "asana_task_name": "Multiple (NOAA, NASA, Navy, NSF, USGS, USFS, and others) [024-08]",
   "customer": "NOAA UASD",
   "customer_contact": "Joseph P. Orlando V, ENS",
   "customer_email": "joseph.orlando@noaa.gov",
@@ -8,7 +8,7 @@
   "ship_to": "NOAA UASD",
   "items": [
     {
-      "description": "S0 Display Model",
+      "description": "S0 Display Model. Includes a tripod and the \"collar\" that supports the S0.",
       "quantity": 1
     },
     {
@@ -16,15 +16,23 @@
       "quantity": 1
     }
   ],
-  "payment_state": "invoice_sent",
-  "build_state": "complete",
+  "payment_state": "paid",
+  "build_state": "packaged",
   "ship_state": "awaiting_pickup",
   "estimate_date": null,
   "invoice_date": "2026-05-08",
   "invoice_amount": 4580.0,
   "invoice_number": "1762",
-  "paid_date": null,
-  "parts": [],
+  "paid_date": "2026-06-23",
+  "parts": [
+    {
+      "name": "S0 Display Model",
+      "ordered": true,
+      "received": true,
+      "vendor": "BST",
+      "order_date": null
+    }
+  ],
   "tracking_number": null,
   "carrier": null,
   "shipped_date": null,
@@ -33,10 +41,10 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "S0 Display Model invoice 1762 issued 2026-05-08 for $4,580. Customer (ENS Joseph Orlando, NOAA UASD) requested shipping update on 2026-06-23. Build complete and awaiting pickup/shipment to NOAA UxSOC. Subject line indicates invoice paid but shipment tracking/status still pending.",
+  "notes": "Invoice 1762 paid as of 2026-06-23. Customer (Joseph Orlando, NOAA UASD) requesting shipping update on S0 Display Model. Build complete and packaged; awaiting pickup confirmation.",
   "missing_fields": [
-    "tracking_number",
-    "shipped_date"
+    "shipped_date",
+    "tracking_number"
   ],
   "last_evidence_date": "2026-06-23",
   "last_contact_date": null

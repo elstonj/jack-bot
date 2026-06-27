@@ -17,7 +17,7 @@
     }
   ],
   "payment_state": "invoice_sent",
-  "build_state": "none",
+  "build_state": "complete",
   "ship_state": "in_transit",
   "estimate_date": "2024-12-01",
   "invoice_date": "2025-12-11",
@@ -33,7 +33,7 @@
       "order_date": null
     },
     {
-      "name": "S3 Batteries",
+      "name": "S3 Batteries (qty 3)",
       "ordered": true,
       "received": false,
       "vendor": "BST",
@@ -48,9 +48,8 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Active research project [018-1] Murphy's Pond CH4 Monitoring. Estimate #1343 ($86,862.94) approved Jan 29, 2025; Invoice #1728 issued Dec 11, 2025 for Trip #2 data collection (Nov 6-7, 2025). Field campaign May\u2013Oct 2025. Battery shipment (3x S3) in transit via Aeronet (tracking 103032275) to Blackburn Hall; delivery expected end of week (as of June 22). BST team (Dan Prendergast, Jack) conducting data collection at Murphy's Pond weekend of June 21\u201322, 2026. Two additional trip invoices expected.",
+  "notes": "Active commercial S2 rental project [018-1] Murphy's Pond CH4 Monitoring. Invoice #1728 ($86,862.94) issued Dec 11, 2025 for Trip #2 (Nov 6-7, 2025). Dan Prendergast and Jack conducting data collection weekend Jun 21-22, 2026. Battery shipment (3x S3) in transit via Aeronet tracking 103032275 to Blackburn Hall; delivery expected end of week as of Jun 22. Two additional trip invoices expected per Jan 20 email from Dr. Masri.",
   "missing_fields": [
-    "invoice_amount",
     "paid_date"
   ],
   "last_evidence_date": "2026-06-22",

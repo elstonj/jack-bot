@@ -1,86 +1,92 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 72 emails (52 previous + 20 new)
-- **Date range:** 21–26 June 2026
+- **Total messages scanned:** 84 emails (64 previous + 20 new)
+- **Date range:** 21–27 June 2026
 - **Volume:** Light, primarily transactional/automated (1–2 direct work emails per day; bulk is vendor/procurement)
 
 ## Key Correspondents
 
 ### Top Senders
-1. **McMaster-Carr** (9 emails total) — chi.sales@mcmaster.com — **INCREASED**: 3 new orders placed on June 25
-2. **PCBWay Online Services Team** (3 emails) — support05@pcbway.com, sales01@pcbway.com
-3. **Purchasing alias forwarders** (purchasing@blackswifttech.com) — 25+ emails routed through/forwarded
-4. **Hitec RCD USA** (3 emails) — orders@hitecrcd.com
-5. **Automated vendors** — DigiKey, SendCutSend, GetFPV, Pirate Ship, Jawstec, Worldwide Express, Spindrift, Toggl Track, Driftaway Coffee, USPS, Dronetag, CADDXFPV, UPS, Dell Technologies, Constant Contact
-6. **Jeffrey Orton** (QuSpin) (4 emails) — jorton@quspin.com — **ACTIVE: Latest reply June 25, 13:40 CDT**
+1. **McMaster-Carr** (12 emails total) — chi.sales@mcmaster.com, invoice.reply@mcmaster.com — **SUSTAINED SURGE**: 3 new receipts (June 25–27); now largest single vendor by volume
+2. **Spindrift Market** (2 emails) — via purchasing@blackswifttech.com — beverage subscription (active orders continuing)
+3. **SendCutSend** (2 emails) — custom metal/part cutting (delivery confirmation June 26)
+4. **Pirate Ship** (2 emails) — shipping platform (payment receipts; $9.52 routed to Josh Fromm June 26)
+5. **Driftaway Coffee** (2 emails) — coffee subscription (active orders)
+6. **Toggl Track** (2 emails) — support@track.toggl.com — time tracking (continuing)
+7. **HeliDirect** (2 emails) — sales@helidirect.com — **SUSTAINED**: Helicopter components/event marketing
+8. **Automated vendors** — Asana, Daniels Manufacturing Corporation, IFC Studios
 
 ### Top Recipients
-- **purchasing@blackswifttech.com** — 25+ emails (shared alias/inbox Sam monitors or routes through)
-- **sam.hild@blackswifttech.com** — 10 direct emails (Toggl Track, Jeffrey Orton, Google Docs collaboration)
-- **Joshua Fromm** (purchasing@blackswifttech.com) — visible as explicit recipient; Pirate Ship payment routed to him June 26
-- **Jeffrey Orton** (jorton@quspin.com) — **ESCALATED: Active 4-message technical exchange ongoing**
-- **Meredith Needham** (purchasing@blackswifttech.com) — **NEW**: Explicitly addressed on HeliDirect newsletter (June 25, 20:00 UTC)
+- **purchasing@blackswifttech.com** — 9 new emails (shared alias; primary routing point for vendor communications)
+- **sam.hild@blackswifttech.com** — 2 direct emails (Toggl Track, Asana task reminder)
+- **Joshua Fromm** (purchasing@blackswifttech.com) — 2 explicit recipient lines (Pirate Ship payment, Daniels Manufacturing)
+- **purchasing@bst.aero** — 1 email (Driftaway Coffee June 26) — **variant domain; suggests secondary purchasing channel or alternate email routing**
 
 ### Internal vs External
-- **External:** Dominant (vendors, suppliers, shipping carriers, promotional)
-- **Internal:** Growing — Josh Fromm continues to appear on procurement emails; Meredith Needham now visible as explicit recipient on vendor newsletter; **Maciej Stachura** tagged in Google Docs collaboration (June 25, 14:23)
+- **External:** Dominant and steady (12/12 new emails from vendors/suppliers/services)
+- **Internal:** Minimal direct email; communications flow primarily through purchasing@blackswifttech.com alias
+- **Josh Fromm:** Continues as explicit co-recipient on payment/procurement confirmations
 
 ## Topic Patterns
 
-### Procurement & Supply Chain (Dominant — Accelerating)
-- **McMaster-Carr** — **SURGE**: 3 orders placed June 25 (certificates/tracking for all three; continued industrial/mechanical component sourcing)
-- **PCBWay** — Electronic component assembly (from prior sample; duty/centroid management)
-- **Hitec RCD USA** — RC/hobby electronics (order #5526 status from prior sample)
-- **DigiKey** — Electronics distributor (PO tracking)
-- **Jawstec Manufacturing** — Invoice payment tracking
-- **SendCutSend** — Shipment in transit notification (June 25) — custom metal/part cutting (active fulfillment)
-- **CADDXFPV** — FPV drone camera/imaging components (Protos product line promotional)
-- **HeliDirect** — **NEW**: Helicopter components/models (Newsletter: Nitron 5.0, Stratos 200, Goosky Deals) — **Suggests expanded aerial platforms or drone variant exploration**
+### Procurement & Supply Chain (Continued Dominance)
+- **McMaster-Carr** — **3 new receipts in 48 hours** (June 25 afternoon, June 26 afternoon, June 27 early AM) — consistent pattern of industrial/mechanical component orders; now largest vendor stream
+- **SendCutSend** — Order S1841769 **delivered June 26** — indicates active fulfillment cycle (custom metal/fabricated parts)
+- **Driftaway Coffee** — Order #DR30134COF shipment in transit (June 26) — routed to purchasing@bst.aero domain variant
+- **Spindrift Market** — Order SH62377201 confirmed (June 27, 04:01 UTC) — beverage subscription continuing
 
-### Emerging/New Categories
-- **Utmel Electronics** (sales5@utmel.com) — **NEW**: Outbound sales contact from China-based electronics vendor (June 26, 11:13 +0800 timestamp) — **Peggy from Utmel proactively reaching out to BST** — suggests **new supplier relationship initiation or vendor discovery**
-- **Dronetag** — Drone identification/tracking hardware (5% off RIDER promotion from prior) — continuing active interest
-- **Driftaway Coffee** — Coffee subscription continuing (order #DR30134COF, points earned notification) — routed to purchasing@bst.aero domain variant
-- **Alex Lomis (Google Docs)** — **NEW: Direct collaboration**: Document titled "N6833525C0492CLIN..." shared with Maciej Stachura (June 25, 14:23 PDT) — **Suggests active project documentation or technical specification work**
+### Emerging/New Signals
+- **Daniels Manufacturing Corporation** — **NEW**: Promotional email "The 51 Series is Now Mil-Spec Qualified" routed to Josh Fromm (June 26, 15:54) — **suggests military-specification component sourcing or compliance upgrade attention; potential new supplier or product line interest**
+- **IFC Studios** — **NEW**: Promotional email "Winning Clients & Google's Study: What You Need to Know" (June 26, 20:00) — business/marketing content; likely unsolicited or forwarded through purchasing alias
 
-### Tools & Services
-- **Toggl Track** — Time tracking (continuing)
-- **USPS Informed Delivery** — Daily mail digest (June 25)
-- **UPS** — Tracking notification ("Your Packages Arrive Tomorrow", June 25 14:20 EDT) — **indicates active inbound shipment expected**
-- **Constant Contact** — **NEW**: Email marketing platform payment receipt for Jack Elston (June 26, 03:14 EDT) — **External contact or vendor name; suggests marketing/communications task or third-party vendor management**
-- **Pirate Ship** — Shipping cost adjustments ($15.32 payment, June 26, routed explicitly to Josh Fromm)
+### Project Management & Operations
+- **Asana** — **NEW**: Task management system; notification of 1 **overdue task** (June 26, 15:54) — **indicates active project work and potential scheduling pressure or deadline tracking**
+- **Toggl Track** — Continued time tracking; support email with no subject (June 26, 22:56) — **suggests possible technical issue, account maintenance, or report request**
 
-### Operational/Personal
-- **Spindrift** — Beverage subscription (order creation notification, June 26)
-- **Dell Technologies** — Promotional tech deals (June 25) — seasonal sale alert
-- **UnitedHealthcare** — Benefits/wellness (from prior sample)
-- **PCI Compliance Reminder** — Security/compliance (June 25, 17:06 UTC) — **noreply system message suggesting payment processing exposure or vendor account compliance requirement**
-
-### **ACTIVE: External Technical Contact (QuSpin)**
-- **Jeffrey Orton (jorton@quspin.com)** — **Now 4 emails in conversation thread**
-  - Sam initiated: Tue 23 Jun 15:57 ("QuSpin Question")
-  - Orton replied: Tue 23 Jun 16:28 (marked IMPORTANT)
-  - Sam replied: Wed 24 Jun 08:45:50 CDT
-  - Orton replied: **Wed 24 Jun 09:03:20 CDT** (marked IMPORTANT)
-  - Orton replied again: **Thu 25 Jun 13:40:33 CDT** — **NEW: Additional reply same day** (marked IMPORTANT)
-  - Sam replied: **Thu 25 Jun 08:45:20 CDT** (sent by Sam) — **Conversation continuing at pace**
-  - **Status: Active, escalating technical dialogue; 4+ messages in 48 hours**
+### Aerial Platforms (Continued Low-Level Signal)
+- **HeliDirect** — Event marketing email (June 26, 20:00) featuring "Stephan Serrand & Wyatt Dakin | GA Heli Gathering 2026" — **sustained vendor engagement; suggests ongoing interest in helicopter/aerial platforms beyond drones**
 
 ## Communication Patterns
 
-### Transactional Volume
-- **97% automated/vendor notifications** — Order confirmations, shipping, delivery, invoices, promotional
-- **3% direct human correspondence** — **QuSpin exchange now 4 messages (2 from Sam, 2 from Orton)**
-- **June 25 Procurement Surge** — McMaster-Carr 3 confirmations (afternoon), SendCutSend shipment notification, UPS inbound tracking, Pirate Ship payment, Spindrift order — **suggests end-of-week inventory push or major project materials consolidation**
+### Volume & Frequency
+- **98% automated/vendor notifications** — Order confirmations, shipping, invoices, promotional
+- **2% system alerts** — Asana task reminder (overdue), Toggl Track support
+- **No direct human correspondence in this batch** — **Notably absent: QuSpin (Jeffrey Orton) exchange has paused after sustained activity through June 25**
 
-### Flagged/Important Emails
-- **Jeffrey Orton (QuSpin)** — 3rd IMPORTANT flag (June 25, 13:40) — **Sustained high priority; pattern indicates critical dependency or time-sensitive issue**
-- **PCBWay assembly issue** — Flagged from prior sample
-- **Ark Electron (Jacob Dahl)** — Flagged from prior sample
+### Temporal Clustering
+- **McMaster-Carr afternoon pattern sustained** — June 25 afternoon (3 orders from prior), June 26 afternoon (1 receipt), June 27 early AM (1 receipt) — **consistent end-of-business procurement rhythm**
+- **Overnight UTC processing** — Toggl Track (22:56 UTC), Spindrift (04:01 UTC), Driftaway (early AM) — vendor backend automation
+- **Friday afternoon vendor push** — June 26: 5 emails between 15:54–20:00 UTC (SendCutSend delivery, Pirate Ship payment, Daniels Manufacturing, HeliDirect event, IFC Studios) — **possible coordinated vendor/supplier communications window**
 
-### Time Patterns
-- **McMaster-Carr afternoon clustering (June 25)** — 14:23, 16:06, 16:41, 16:49 CDT — **end-of-business day procurement activity**
-- **Early morning UTC clusters** — 03:14 (Constant Contact, June 26), 04:01 (Spindrift, June 26), 05:45 (Pirate Ship, June 26) — overnight automated processing / off-hours supplier communications
-- **QuSpin exchange accelerating** — Sam 08:45, Orton 13:40 same day (June 25) — **rapid same-day technical problem-solving; extended engagement pattern**
-- **Utmel
+### Routing & Alias Patterns
+- **purchasing@blackswifttech.com** — Primary consolidation point (9/12 new emails)
+- **purchasing@bst.aero** — Emerging secondary domain (1 email: Driftaway Coffee) — **suggests organizational domain differentiation or team-specific routing**
+- **Josh Fromm** — Explicitly recipient on 2 payment-related confirmations (Pirate Ship, Daniels Manufacturing) — **indicates Josh handles payment processing or vendor qualification**
+
+### Flagged/Important Status
+- **Asana overdue task** — First task management notification visible in metadata; implies Sam has active project commitments with unmet deadlines
+- **No IMPORTANT flags in this batch** — Contrasts with prior period's multiple Jeffrey Orton IMPORTANT tags
+
+## Key Relationships
+
+### Internal Collaborators
+- **Joshua Fromm (purchasing@blackswifttech.com)** — Continues as primary payment/procurement co-recipient; handles Pirate Ship and vendor qualification communications
+- **Maciej Stachura** — Visible from prior sample (Google Docs collaboration, June 25); technical/project documentation work ongoing
+- **Meredith Needham (purchasing@blackswifttech.com)** — Explicitly addressed on HeliDirect newsletter (June 26); suggests shared vendor interest or team purchasing responsibility
+
+### External Relationships (Steady State)
+- **McMaster-Carr** — Dominant supplier; 3+ orders/week cadence
+- **SendCutSend** — Active fulfillment partner (custom metal/parts)
+- **HeliDirect** — Engaged vendor; event marketing suggests ongoing relationship
+- **Jeffrey Orton (QuSpin)** — **PAUSED**: No new emails in this batch after intensive June 24–25 exchange; conversation may be complete or waiting for external input
+
+## Notable Observations
+
+1. **QuSpin Engagement Hiatus** — After 4-message rapid exchange (June 23–25) marked IMPORTANT multiple times, Jeffrey Orton emails cease. Suggests either issue resolved, waiting for external party response, or shifted to alternative communication channel.
+
+2. **Asana Integration** — First visible task management system notification (overdue task June 26) indicates Sam is operating under formal project tracking; may correlate with increased procurement velocity.
+
+3. **Mil-Spec Sourcing Signal** — Daniels Manufacturing "51 Series Mil-Spec Qualified" promotional routed to Josh Fromm suggests either new compliance requirement or military/aerospace-grade component exploration. Combined with sustained HeliDirect engagement, may indicate higher-specification aerial platform development.
+
+4. **Procurement Acceleration Sustained** — 3 McMaster-Carr receipts in 48 hours (June 25–27) represents continued high-velocity inventory buildup. Aligns with SendCutSend delivery (custom parts fulfilled June 

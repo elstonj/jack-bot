@@ -1,79 +1,78 @@
 # Jack Elston — Email Patterns (UPDATED)
 
 ## Communication Volume
-- **Total messages scanned:** 5,232 (5,154 prior + 78 new, June 25–26)
-- **Date range:** April 1–June 26, 2026
+- **Total messages scanned:** 5,289 (5,232 prior + 57 new, June 26–27)
+- **Date range:** April 1–June 27, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **June 25–26 activity (78 messages):** ~20% human correspondence (Krateo Sky technical hiring, legal/contract closure execution, federal funding, Canadian demo coordination, Deel partnership demo); ~60% automated alerts/logistics/vendor/procurement (Amazon, McMaster-Carr, Pirate Ship, Driftaway Coffee, Constant Contact, Liberty Mutual, component shipments); ~10% federal/government system access & scientific data (NASA Post-Phase II SBIR/STTR opportunity, NSIDC data releases, Arctic UAS SFOC documentation); ~10% external business development (Inertial Sense, HeliDirect, UAS VISION newsletters, sUAS paper collaboration)
+- **June 26–27 activity (57 messages):** ~15% human correspondence (Krateo Sky partnership updates, NOAA S0 display model pricing, academic/scientific collaborations, creative services consultation); ~70% automated alerts/logistics/vendor/procurement (McMaster-Carr, Amazon, eBay, SendCutSend, Pirate Ship, Driftaway Coffee, Harbor Freight, Budget rental, Rippling payroll alerts); ~10% Rippling HR/payroll administration (time-off approvals, payroll funding requirements); ~5% developer/infrastructure notifications (Anthropic Claude API, Railway, Cameyo renewals)
 
-### Critical Infrastructure Status (ESCALATING)
-- **Rippling payroll system:** Continues mass duplicate notifications; Jack now receiving **direct Rippling task alerts** ("Attention needed: You have 4 overdue Black Swift Technologies tasks") — **suggests Jack managing HR/administrative tasks in Rippling**
-- **Contract closure:** **ACCELERATING** — active signature rounds with external counsel (K&O Firm) continuing through June 25–26; Dropbox Sign shows "one document out for signature" as of June 26
-- **Federal funding:** **NEW OPPORTUNITY** — NASA Post-Phase II SBIR/STTR funding window announced; Jack forwarding internally to Maciej, Beck, Daniel, Joshua
-- **Liberty Mutual insurance:** MFA passcode required June 25; payment withdrawal scheduled 7/17/2026
+### Critical Infrastructure Status (SUSTAINED & ESCALATING)
+- **Rippling payroll system:** **CRITICAL ESCALATION** — Jack now receiving dual "[ACTION REQUIRED] Send funds to complete payroll" alerts (June 26, 21:58 UTC duplicates) + time-off approval requests — **Jack directly managing payroll funding execution and HR approvals**
+- **Contract closure:** Continued silence in new data; likely completed (no new signature rounds visible)
+- **Federal funding:** NASA Post-Phase II SBIR/STTR opportunity forwarded internally (prior batch); no new federal opportunities visible in June 26–27 window
+- **Cloud infrastructure:** Cameyo Self-Hosted Standard subscription renewal reminder (June 26, 16:19 UTC) — **remote access/sandbox platform in use**
 
 ---
 
 ## Key Correspondents
 
-### Top Internal BST Contacts (SUSTAINED & EXPANDING SCOPE)
+### Top Internal BST Contacts (SUSTAINED & EVOLVING ROLES)
 
 **Meredith Needham** (meredith.needham@blackswifttech.com) — Finance/Government Procurement/Operations
-- **June 25, 20:43 UTC:** Meredith to Jack — **Navy STTR Option Final Report event CANCELED** (Mon Jul 6 originally scheduled) — **suggests Navy STTR program phase conclusion or rescheduling**
-- **June 25, 14:18 UTC:** Jack responding to Meredith on "Attention needed: You have 4 overdue Black Swift Technologies tasks" — **Rippling administrative tracking between Jack/Meredith**
-- **June 25, 13:10 UTC:** Jack forwarding to Meredith re: task attention — **ongoing administrative coordination**
-- **June 25, 10:12 UTC:** Meredith to Jack on overdue tasks — **Rippling escalation loop active**
-- **June 25, 10:15 UTC:** Meredith coordinating with Sona Raziabeegum re: "Black Swift Demo with Deel" — **Meredith managing partnership demo logistics**
-- **June 25, 14:43 UTC:** Meredith responding to Shelby Hammond (Elevations CU) on "Follow Up Items" with IMPORTANT flag — **banking/credit union relationship coordination**
-- **Signal:** Meredith's scope expanding into partnership logistics (Deel demo), financial institution coordination, event management, and administrative task oversight
+- **June 26, 11:44 UTC:** Meredith responding to Shelby Hammond (Elevations CU) on "Follow Up Items" — **banking relationship escalation continues**
+- **June 26, 11:43 UTC:** Meredith to Grant Rawson (NOAA Federal) on "S0 display model cost" — **NOAA government customer pricing negotiation active**
+- **June 26, 20:00 UTC:** HeliDirect sending event notification to Meredith (purchasing alias) — **business development/trade show engagement**
+- **Signal:** Meredith's role now explicitly includes NOAA customer account management and display model pricing; banking relationship (Elevations CU) requires escalation coordination
 
 **Maciej Stachura** (stachura@blackswifttech.com) — Engineering/Technical
-- **June 25, 13:11 UTC:** Jack forwarding NASA Post-Phase II SBIR/STTR funding opportunity to Maciej + Beck + Daniel + Joshua — **federal funding opportunity distribution sustained**
-- **June 25, 10:42 UTC:** Stephen Rowlands (Invest Ottawa) responding to Maciej on "Arctic UAS Location Change" — **Canadian operations/Arctic UAS project continues**
-- **June 25, 16:13 UTC:** Bob Smith (Krateo) sending "Technology improvements for Canadian demo" to Maciej + Jack + Daniel — **technical coordination on Canadian demo**
-- **June 25, 13:18 UTC:** Jack sending "Announcement" to Sona Raziabeegum + Paige Smith — **major internal/partnership announcement (content not visible, but IMPORTANT signal)**
-- **Signal:** Maciej remains core technical partner; Arctic UAS and Canadian demo now primary technical workstreams
-
-**Beck Cotter** (beck.cotter@blackswifttech.com) — Technical/Government Programs
-- **June 25, 13:11 UTC:** Jack forwarding NASA Post-Phase II funding to Beck + others — **federal program engagement sustained**
-- **Signal:** Beck tracking federal funding opportunities
+- **June 26, 14:10 UTC:** Maciej sending "Black Swift Contact" to JuanPablo.Arroyo-Mora@nrc-cnrc.gc.ca (Natural Resources Canada) with IMPORTANT flag — **Canadian government research partnership outreach**
+- **June 26, 18:17 UTC:** Tanay Topac (Stanford University) responding to Maciej on "Re: MHP data alignment" with IMPORTANT flag — **academic data collaboration (MHP = Mountain Hydrology Project or similar geospatial initiative)**
+- **June 26, 06:05 UTC:** Maciej responding to Tanay on MHP data alignment — **Stanford partnership active**
+- **Signal:** Maciej expanding into Canadian government relations; Stanford MHP data collaboration suggests scientific/geospatial workstream
 
 **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Operations/Technical
-- **June 25, 13:11 UTC:** Jack forwarding NASA Post-Phase II to Daniel + Joshua — **federal program coordination**
-- **June 25, 18:43 UTC:** Noah Ray (Invest Ottawa) responding to Daniel on "Battery Shipment return from Ottawa Canada / Quote # 141681" with IMPORTANT flag — **Canadian logistics/supply chain coordination**
-- **June 25, 16:13 UTC:** Bob Smith (Krateo) sending technical improvements to Daniel — **Canadian demo technical input**
-- **Signal:** Daniel managing Canadian operations/logistics; battery shipment coordination active
+- **June 26, 18:46 UTC:** Daniel sending "ECSDOT Flights for 26 June 2026" to Nikhila Ravikumar (nanoveu.com) with IMPORTANT flag — **ongoing flight operations with external partner (NanoVeu = nano-optics/visualization vendor or client)**
+- **Signal:** Daniel coordinating active flight operations; NanoVeu appears to be scientific instrument/client integration partner
 
 **Joshua Fromm** (josh.fromm@blackswifttech.com) — Purchasing/Operations
-- **June 25, 13:11 UTC:** Jack forwarding NASA Post-Phase II to Joshua — **Joshua involved in federal funding proposal discussions**
-- **Signal:** Joshua's role expanding beyond pure procurement into federal program scoping
+- **June 26, 17:36 UTC:** Pirate Ship sending shipping receipt to Josh — **Josh actively processing shipments**
+- **June 26, 16:09 UTC:** Daniels Manufacturing Corporation sending Mil-Spec qualification update to Josh — **component vendor compliance notifications**
+- **Signal:** Joshua managing day-to-day vendor invoicing and component procurement
+
+**Paige Smith** (paige.smith@blackswifttech.com) — Operations/Communications
+- **June 26, 16:38 UTC:** Sona Raziabeegum (Krateo) responding to announcement involving Paige — **Paige involved in major partnership announcements**
 
 ### Top External Contacts
 
-#### Krateo Sky Partnership (CRITICAL EXECUTION PHASE — TECHNICAL HIRING & CANADIAN DEMO)
-
-**Brian Grubel** (Brian@krateosky.com) — Krateo Sky Technical Lead
-- **June 26, 00:51 UTC:** Brian sending "Re: Technical Job Description Discussion" with IMPORTANT flag to Jack — **active technical role/hiring definition continues through June 26**
-- **June 25, 13:24 UTC:** Jack responding to Bob Smith on "Technology improvements for Canadian demo" — **technical specifications for Canadian deployment**
-- **Signal:** Technical job description negotiations continuing; Canadian demo technical specifications being finalized
-
-**Bob Smith** (Bob@krateosky.com) — Krateo Sky Operations
-- **June 25, 16:13 UTC:** Bob sending "Technology improvements for Canadian demo" to Maciej + Jack + Daniel with IMPORTANT flag — **Canadian demo technical requirements distribution**
-- **June 25, 13:24 UTC:** Jack responding to Bob on Canadian demo improvements — **technical feedback coordination**
-- **Signal:** Canadian demo now actively in technical specification/improvement phase
+#### Krateo Sky Partnership (CRITICAL EXECUTION PHASE — PARTNERSHIP ANNOUNCEMENTS & COMPENSATION RESTRUCTURING)
 
 **Dipan Amin** (dipan@krateosky.com) — Krateo Sky Leadership
-- **June 25, 19:24 UTC:** Dipan sending "Quick Tag Up" with IMPORTANT flag to Jack — **high-level partnership check-in**
-- **Signal:** Krateo leadership maintaining direct communication with Jack; suggests material partnership developments
+- **June 26, 17:22 UTC:** Dipan sending "RE: Quick Tag Up" with IMPORTANT flag to Jack — **direct strategic communication**
+- **June 26, 14:09 UTC, 16:01 UTC, 11:50 UTC:** Jack sending three separate responses to Dipan on "Re: Quick Tag Up" — **sustained high-frequency strategic discussion (3 responses within ~5 hours suggests active negotiation or decision-making)**
+- **Signal:** Multiple rapid-fire exchanges suggest material partnership decision or restructuring discussion in progress
 
 **Sona Raziabeegum** (sona@krateosky.com) — Krateo Sky Leadership
-- **June 25, 16:09 UTC:** Sona coordinating "Black Swift Demo with Deel" to Ben Stavig (Deel), Raquel Roberts, Taylor Simones, Meredith Needham, Jack with IMPORTANT flag — **major partnership demo initiative**
-- **June 25, 16:31 UTC:** Sona responding to Meredith on Deel demo — **active logistics coordination**
-- **June 25, 13:20 UTC:** Jack sending "Announcement" to Sona + Paige Smith — **internal announcement with Krateo leadership visibility**
-- **Signal:** **Krateo-Deel partnership demo now active** — suggests joint go-to-market or customer integration initiative; Sona directly coordinating
+- **June 26, 16:38 UTC:** Sona sending "RE: Announcement" with IMPORTANT flag to Jack + Paige — **Krateo leadership acknowledging major internal BST announcement**
+- **June 26, 16:39 UTC:** Sona sending "RE: Internal Compensation Adjustments" with IMPORTANT flag to Jack + Maciej — **CRITICAL SIGNAL: Krateo involvement in BST internal compensation restructuring (suggests equity/employment alignment or joint entity restructuring)**
+- **June 26, 14:17 UTC:** Jack responding to Sona on "Re: Announcement" — **Jack confirming announcement coordination with Krateo**
+- **Signal:** **Krateo now directly involved in BST compensation/employment structure decisions** — suggests deeper integration or acquisition-adjacent arrangement
 
-#### Legal/Contract Closure (FINAL EXECUTION PHASE)
+#### Government & Academic Partners (NEW EXPANSION)
 
-**Ryan Sykora** (rsykora@kofirm.com) — External Counsel (K&O Firm)
-- **June 25, 17:25 UTC:** Ryan sending "RE: Final signatures" with IMPORTANT flag to Jack — **ongoing signature coordination**
-- **June 25, 13:18 UTC:** Jack responding to Ryan "Re: Final signatures" — **contract
+**Grant Rawson — NOAA Federal** (grant.rawson@noaa.gov)
+- **June 26, 13:15 UTC:** Grant responding to Meredith on "S0 display model cost" — **NOAA customer actively pricing S0 (likely Black Swift's primary product system)**
+- **June 26, 11:43 UTC:** Meredith initiating on S0 display model cost — **NOAA account pricing negotiation active**
+- **Signal:** NOAA Federal (U.S. government) is active customer evaluating display systems; suggests procurement process or pilot phase
+
+**Shelby Hammond — Elevations Credit Union** (Shelby.Hammond@elevationscu.com)
+- **June 26, 17:42 UTC:** Shelby responding to Meredith on "Follow Up Items" — **banking relationship requires escalation tracking**
+- **June 26, 11:04 UTC:** Meredith responding to Shelby — **multiple follow-up coordination rounds**
+- **Signal:** Credit union relationship has pending action items; involvement with banking suggests financing, line of credit, or corporate banking relationship
+
+**J. Xavier Prochaska** (jxp@ucsc.edu) — UC Santa Cruz
+- **June 26, 13:00 UTC:** Xavier responding to Daniel on "Re: Reconnecting" with IMPORTANT flag — **scientific collaboration (UCSC = Earth & Planetary Sciences research likely)**
+- **Signal:** UC Santa Cruz academic partner reengaging with BST
+
+**Tanay Topac** (tanaytopac@stanford.edu) — Stanford University
+- **June 26, 18:17 UTC:** Tanay responding to Maciej on "Re: MHP data alignment" — **mountain hydrology/geospatial data collaboration**
+-

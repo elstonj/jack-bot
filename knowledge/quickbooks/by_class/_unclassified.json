@@ -1,18 +1,16 @@
 {
   "project_code": "_unclassified",
   "qbo_class_names": [
-    "",
     "[012-3] Embry Riddle Model S0"
   ],
   "period": {
-    "start": "2026-06-25",
-    "end": "2026-06-26"
+    "start": "2026-06-26",
+    "end": "2026-06-27"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 224.86,
+    "expenses": 20.0,
     "by_category": {
-      "FACILITIES:FA-Shop Supplies": 204.86,
       "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 20.0
     }
   },
@@ -34,60 +32,6 @@
           "amount": 20.0,
           "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
           "description": "Shipment of Model S0 to Embry Riddle"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-06-25",
-      "doc_number": "",
-      "total": 24.99,
-      "attributed": 24.99,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "AMAZON MKTPL*LL76Y6H03 - 4617",
-      "lines": [
-        {
-          "amount": 24.99,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-06-25",
-      "doc_number": "",
-      "total": 94.5,
-      "attributed": 94.5,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "AMAZON MKTPL*LL76Y6H03 - 4617",
-      "lines": [
-        {
-          "amount": 94.5,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-06-25",
-      "doc_number": "",
-      "total": 85.37,
-      "attributed": 85.37,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "AMAZON MKTPL*LL76Y6H03 - 4617",
-      "lines": [
-        {
-          "amount": 85.37,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": ""
         }
       ]
     }

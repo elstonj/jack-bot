@@ -24,7 +24,7 @@
   - Alex Lomis (strategic partnerships, NASA opportunities)
   - **Josh Fromm** (GCS assembly, long-lead parts, Gateworks board sourcing) — **⚠️ CRITICAL: Gateworks board status UNKNOWN; queried 5/28–5/29/26 with no documented response; GCS build due 7/1/26**
   - Ben Busby (web-based controller development) — due 7/31/26
-  - Nick Pawlenko (UxSOC liaison) — **transitioned to UxSOC HQ effective 5/29/26; reduced availability — communications now include broader UASD team for scheduling, personnel, flight planning, maintenance**
+  - **Nick Pawlenko** (UxSOC liaison) — **transitioned to UxSOC HQ effective 5/29/26; reduced availability — broader UASD team now included for scheduling, personnel, flight planning, maintenance**
 
 ## Key Deliverables & Milestones
 
@@ -79,4 +79,4 @@
 ## Recent Activity
 
 - **June 23, 2026:** Assembly latch carrier trays completed (Nate Straus)
-- **May 29, 2026:** Nick Pawlenko transitioned
+- **May 29, 2026:** Nick Pawlenko trans

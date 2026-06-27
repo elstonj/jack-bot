@@ -8,7 +8,7 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 **Activity Level:** Extremely high throughout the period (March 2024 - June 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. June 2026 represents a particularly intense period with concurrent work on Arctic customer qualification, SOCOM engagement, international demonstration travel logistics, customer questionnaire responses, camera/video integration troubleshooting, and demo preparation alongside ongoing proposal work.
 
-**Time Range:** March 3, 2024 - June 25, 2026
+**Time Range:** March 3, 2024 - June 26, 2026
 
 ---
 

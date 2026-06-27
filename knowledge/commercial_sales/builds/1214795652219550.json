@@ -1,0 +1,48 @@
+{
+  "asana_gid": "1214795652219550",
+  "asana_task_name": "Canadian Rangers Demo (Ottawa)",
+  "customer": "Canadian Defense Forces / NexTech Solutions",
+  "customer_contact": "NexTech Solutions",
+  "customer_email": "Trenton.mckibben@nexttechsol.com",
+  "receive_by": "2026-06-25",
+  "ship_to": "",
+  "items": [
+    {
+      "description": "S3 UAS with EO/IR gimbal",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "estimate_sent",
+  "build_state": "in_assembly",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": "",
+  "paid_date": null,
+  "parts": [
+    {
+      "name": "EO/IR gimbal",
+      "ordered": true,
+      "received": false,
+      "vendor": "Atmolab",
+      "order_date": null
+    }
+  ],
+  "tracking_number": "",
+  "carrier": "",
+  "shipped_date": null,
+  "owners": {
+    "interface": "Dan Prendergast",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "S3 Arctic demo for Canadian Defense Forces via NexTech Solutions integrator. 120km range / 1h 35min TOF with EO/IR gimbal required. Demo scheduled for Ottawa June 25, 2026. Team actively prepping: REX110 gimbal integration sprint underway, battery shipped to Canada, insurance requirements ($5M GL/Aviation) being coordinated. Follow-on Arctic demo planned post-Ottawa.",
+  "missing_fields": [
+    "ship_to",
+    "invoice_number",
+    "invoice_amount"
+  ],
+  "last_evidence_date": "2026-06-27",
+  "last_contact_date": "2026-06-24"
+}
