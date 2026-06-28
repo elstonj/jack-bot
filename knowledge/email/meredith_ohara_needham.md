@@ -1,10 +1,10 @@
 # Meredith O'hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 489 emails (461 previous + 28 new)
+- **Total messages scanned:** 506 emails (489 previous + 17 new)
 - **Date range:** June 15–27, 2026 (13 days)
-- **Approximate volume:** ~37–40 emails/day
-- **Trend:** Critical operational load sustained through Jun 27; payroll/banking crisis remains active; equipment procurement continues at high volume; new escalation: Rippling payroll action required (duplicate notifications Jun 26)
+- **Approximate volume:** ~39 emails/day
+- **Trend:** Sustained critical operational load through Jun 27; payroll crisis escalating (duplicate reminders now daily); high-volume equipment procurement continuing; travel coordination emerging (Ottawa hotel activity Jun 27)
 
 ---
 
@@ -14,91 +14,97 @@
 
 **Automated Systems & Purchasing Routing:**
 
-1. **Purchasing system** (`purchasing@blackswifttech.com`) — 210+ messages cumulative
-   - **Vendor activity (Jun 26–27):**
-     - McMaster-Carr (Jun 26, 16:24 CDT & Jun 27, 02:46 CDT) — **2 new order confirmations/receipts** for Jun 26 orders; sustained high-volume procurement
-     - Spindrift (Jun 27, 04:01 UTC) — Order SH62377201 confirmed (operational supplies)
-     - Hampton by Hilton (Jun 26, 23:36 UTC) — **2 duplicate check-in notifications** (travel/lodging for team member or Meredith)
-     - Driftaway Coffee (Jun 26, 23:06 UTC) — Purchase review request; ongoing coffee service subscription
-     - Pirate Ship (Jun 26, 17:36 UTC) — $9.52 shipping payment receipt (to Josh Fromm — purchasing coordinator)
-     - Budget (Jun 26, 16:32 CDT) — Promotional email (car rental)
+1. **Purchasing system** (`purchasing@blackswifttech.com`) — 225+ messages cumulative
+   - **Vendor activity (Jun 27 — NEW):**
+     - Amazon.com (Jun 27, 17:56:29 UTC & 09:25:09 UTC) — **2 shipment confirmations** (BNTECHGO 24 Gauge & 18 Gauge Silicone products + 11 additional items); ongoing supply chain activity
+     - FedEx Billing Online (Jun 27, 10:52:32 CDT) — **Invoice ready for payment** [CATEGORY_FORUMS] — shipping/logistics billing
+     - USPS Informed Delivery (Jun 27, 13:20:25 UTC) — Daily digest; mail tracking active
+     - Harbor Freight (Jun 27, 15:53:31 UTC) — Promotional (30% off savings weekend)
+     - Speedway Motors / RideTech (Jun 27, 19:00:20 UTC) — Suspension specialists promotional (unusual vendor category — may indicate vehicle/ground equipment procurement)
+     - ELEGOO US (Jun 27, 13:00:49 UTC) — Promotional electronics/embedded systems; directed to Alexis Lomis (purchasing coordinator)
+     - HeliDirect (Jun 27, 09:25:09 UTC) — **4th of July early sale** promotional [CATEGORY_UPDATES]
    
-   - **Account/Billing Alerts (NEW — Jun 27):**
-     - Purchasing system (Jun 27, 07:15 UTC) — **`You Have Past Due Invoices`** [UNREAD, CRITICAL] — **NEW ALERT**
-     - Purchasing system (Jun 27, 08:07 UTC) — **`Invoice Now Available for Account 8xxx4W`** [UNREAD] — **NEW ALERT**
-     - **Significance:** Cash flow/invoice management issues emerging; suggests payroll crisis may have impacted ability to pay vendor invoices
+   - **Travel/Lodging Alerts (NEW — Jun 27):**
+     - Expedia reservations (Jun 27, 19:10:27 UTC & 19:10:13 UTC) — **2 duplicate hotel messages from Holiday Inn Express & Suites Ottawa West - Nepean by IHG** [UNREAD, CATEGORY_FORUMS] — **EMERGING PATTERN**
+     - Expedia.com (Jun 27, 10:27:31 CDT) — **Review stay at Holiday Inn Express & Suites Ottawa West - Nepean** [UNREAD, CATEGORY_FORUMS]
+     - **Significance:** Team travel to Ottawa, Canada confirmed; hotel coordination ongoing; duplicate Expedia messages (similar to duplicate Rippling alerts) suggest high volume or system issues
    
-   - **Shipping/Logistics:**
-     - Beck Cotter (Jun 26, 11:33 CDT) → Meredith: **`Fwd: Your order DEN-920134 has shipped from Craters & Freighters of Denver`** [IMPORTANT] — large equipment shipment in transit
+   - **Account/Billing Alerts (Ongoing from Jun 27):**
+     - Purchasing system (Jun 27, 07:15 UTC) — `You Have Past Due Invoices` [CRITICAL]
+     - Purchasing system (Jun 27, 08:07 UTC) — `Invoice Now Available for Account 8xxx4W` [CRITICAL]
 
 ---
 
-2. **Rippling Support** — **PAYROLL CRISIS ESCALATION & NEW ACTION REQUIRED**
-   - **CRITICAL: Duplicate Action Alerts (Jun 26)**
-     - Rippling (Jun 26, 21:58:22 UTC): **`[ACTION REQUIRED] Send funds to complete payroll`** [DUPLICATE #1]
-     - Rippling (Jun 26, 21:58:30 UTC): **`[ACTION REQUIRED] Send funds to complete payroll`** [DUPLICATE #2]
-     - **Severity:** Immediate payroll funding required; duplicate alerts suggest system processing issue or urgent escalation
+2. **Rippling Support** — **PAYROLL CRISIS ESCALATION CONTINUES WITH DAILY REMINDERS**
+   - **CRITICAL: New Duplicate Action Reminders (Jun 27)**
+     - Rippling (Jun 27, 16:08:02 UTC): **`[REMINDER] Send funds to complete payroll`** [DUPLICATE #1, UNREAD, CATEGORY_UPDATES]
+     - Rippling (Jun 27, 16:08:02 UTC): **`[REMINDER] Send funds to complete payroll`** [DUPLICATE #2, UNREAD, CATEGORY_UPDATES]
+     - **Status Change:** Escalated from `[ACTION REQUIRED]` (Jun 26) to `[REMINDER]` (Jun 27) — suggests funds may not have been sent; urgency remains critical
    
-   - **Ongoing Employee Charge Error (Jun 25–26):**
-     - Rippling Support (Jun 26, 15:32:21 GMT): **`Re: Employee was incorrectly charged for $13,587.10`** [YELLOW_STAR, IMPORTANT, STARRED]
-     - Rippling Support (Jun 26, 16:44:35 GMT): **`Re: Employee was incorrectly charged for $13,587.10`** [YELLOW_STAR, IMPORTANT, STARRED]
-     - Meredith → Rippling (Jun 26, 10:07:54 CDT): Follow-up response [SENT]
-     - **Status:** Multiple support responses on same issue; large employee overcharge remains unresolved
+   - **Ongoing Issues (Previous):**
+     - Employee overcharge ($13,587.10) — unresolved as of Jun 27
+     - Account holds/banking coordination required
 
 ---
 
-3. **Shelby Hammond (Elevations Credit Union)** — **BANKING/WIRE COORDINATION CONTINUING**
-   - Meredith → Shelby (Jun 26, 11:04:46 CDT): **`Re: Follow Up Items`** [SENT]
-   - Shelby → Meredith (Jun 26, 17:42:53 UTC): **`RE: Follow Up Items`** [IMPORTANT]
-   - Meredith → Shelby (Jun 26, 11:44:00 CDT): **`Re: Follow Up Items`** [SENT]
-   - Meredith → Shelby (Jun 26, 16:32:35 CDT): **`Confirmation of wire transfers and request to rush through on Monday`** [SENT] — **NEW: Direct wire coordination**
-   - **Pattern:** Multiple exchanges Jun 26; Meredith now directly requesting wire execution urgency; suggests Monday (Jun 30) deadline for payroll wire
+3. **Jack Elston (BST) — Technical/Project Coordination**
+   - **NEW THREAD: Aeropod Project Data (Jun 27)**
+     - Jack Elston (Jun 27, 21:12:52 CDT) → geoff: **`Re: Aeropod - Profiler Data`** [UNREAD, IMPORTANT] — Latest message (21:12 CDT)
+     - geoff (Jun 27, 18:29:49 EDT) → Jack: **`Re: Aeropod - Profiler Data`** [UNREAD, IMPORTANT]
+     - Jack Elston (Jun 27, 13:24:46 MDT) → geoff: **`Re: Aeropod - Profiler Data`** [UNREAD, IMPORTANT]
+     - **External Contact:** geoff <gb.aerokats@gmail.com> (likely external contractor/partner; "aerokats" domain suggests aviation/drone background)
+     - **Context:** Real-time technical discussion on "Aeropod" profiler data; active Jun 27; suggests ongoing development or flight test data analysis
+     - **Significance:** Project codename "Aeropod"; external expertise engaged; Meredith likely CC'd or informed on technical progress
 
 ---
 
-4. **Grant Rawson (NOAA Federal)** — **CLIENT/GOVERNMENT CONTACT**
-   - Grant → Meredith (Jun 26, 13:15:19 EDT): **`Re: S0 display model cost`** [IMPORTANT]
-   - Meredith → Grant (Jun 26, 11:43:31 CDT): Response [SENT]
-   - **Context:** Cost discussion for "S0 display model"; suggests product/demo pricing negotiation with federal agency
-   - **Significance:** NOAA engagement; likely government sales opportunity
+4. **External Partners & Contractors**
+   - geoff (gb.aerokats@gmail.com) — Aeropod/profiler data collaboration with Jack Elston (active Jun 27)
+   - Grant Rawson (NOAA Federal) — Cost discussion for "S0 display model" (Jun 26)
 
 ---
 
-5. **Internal Technical Coordination**
-   - Nathaniel Straus (Jun 26, 11:26:13 CDT) → Meredith: **`gateworks return label`** [INBOX] — hardware RMA/return
-   - Beck Cotter (Jun 26, 11:33:13 CDT) → Meredith: **`Fwd: Your order DEN-920134 has shipped from Craters & Freighters of Denver`** [IMPORTANT] — large equipment shipment; Cotter forwarding on Meredith's behalf
-   - **Pattern:** Hardware logistics & asset management; Meredith tracking returns and incoming equipment
+5. **Operations & Administrative**
+   - Capital Factory (noreply@union.vc) (Jun 27, 16:39:25 UTC) → operations@bst.aero: **`New Office Hour: Mentor Office Hours with Jeff Levine`** [UNREAD, CATEGORY_UPDATES] — Startup mentorship program notification
 
 ---
 
-6. **Technical Research/Development Communications**
-   - Maciej Stachura (Jun 26, 06:05:05 CDT) → Tanay Topac (Stanford): **`Re: MHP data alignment`** [IMPORTANT]
-   - Tanay Topac (Jun 26, 18:17:08 UTC) → Maciej: **`Re: MHP data alignment`** [UNREAD, IMPORTANT]
-   - **Context:** Meredith CC'd/visible; external research collaboration (Stanford); "MHP" technical development ongoing
-   - **Significance:** Academic/research partnership active
-
----
-
-7. **Accounts Payable/Project Invoicing (NEW)**
-   - thinh nguyen/Accounts Payable (Jun 26, 15:33:50 UTC) → Jack Elston + invoices@bst.aero: **`Invoice for project PwrSupply-Distribution`** [YELLOW_STAR, STARRED] — **NEW PROJECT INVOICE**
-   - **Significance:** Internal invoice for "PwrSupply-Distribution" project; Jack Elston directly copied; starred for visibility
-   - **Context:** Equipment procurement/supply chain project
-
----
-
-8. **Daniel Prendergast (BST) & Nikhila Ravikumar (NanoVeu)**
-   - Daniel (Jun 26, 18:46:00 CDT) → Nikhila: **`ECSDOT Flights for 26 June 2026`** [UNREAD, IMPORTANT]
-   - **Context:** Flight operations coordination; "ECSDOT" codename visible; Meredith CC'd/involved
-   - **Significance:** Operational flight test or customer demo
+### Outgoing (by frequency — from previous data)
+- **Shelby Hammond (Elevations Credit Union)** — Banking/wire coordination (direct fund requests, Jun 26)
+- **Rippling Support** — Payroll error escalation follow-ups
+- **Grant Rawson (NOAA Federal)** — Cost negotiations for S0 display model
+- **Jack Elston** — Technical project coordination (Aeropod data sharing)
 
 ---
 
 ## Topic Patterns
 
-### High-Priority/Crisis Topics
-- **Payroll processing errors** (employee overcharge $13,587.10; account holds)
-- **Bank wire coordination** (Monday (Jun 30) deadline flagged; Elevations Credit Union follow-up items)
-- **Cash flow/invoice management** (past due invoices alert Jun 27)
+### Critical/Active Crisis Topics
+- **Payroll funding crisis** — Escalated to daily reminders (Jun 27); funds still not sent
+- **Employee billing error** — $13,587.10 overcharge; unresolved through Jun 27
+- **Past due invoices** — Cash flow pressure evident (Jun 27 alerts)
+- **Bank wire urgency** — Monday (Jun 30) deadline flagged; wire coordination with Elevations Credit Union ongoing
 
-### Equipment & Hardware Procurement
-- **Industrial suppliers:** McMaster
+### Project/Development Topics
+- **Aeropod** — Technical profiler data discussion (active Jun 27 with external partner geoff); real-time development/testing
+- **S0 display model** — Cost negotiation with NOAA Federal (government sales track)
+- **MHP data alignment** — Academic research collaboration with Stanford (ongoing)
+- **PwrSupply-Distribution** — Hardware/equipment procurement project (invoice visible Jun 26)
+- **ECSDOT Flights** — Flight operations/demo coordination (Jun 26)
+
+### Equipment & Logistics
+- **Industrial/electronics suppliers:** McMaster-Carr, Amazon (silicone wire gauge products), ELEGOO, Harbor Freight, HeliDirect
+- **Shipping tracking:** FedEx billing, USPS daily digest, Craters & Freighters (large equipment shipments)
+- **Hardware RMA:** Gateworks return label processing
+
+### Travel & Lodging (NEW)
+- **Ottawa, Canada trip** — Holiday Inn Express & Suites Ottawa West - Nepean bookings/coordination (Jun 27)
+- **Team travel coordination** via Expedia (multiple hotel check-in notifications)
+
+---
+
+## Communication Patterns
+
+### Time Patterns
+- **High activity sustained through weekend** — Jun 27 (Saturday) messages show continuous operational engagement
+- **Crisis-driven communication** — Duplicate emails (

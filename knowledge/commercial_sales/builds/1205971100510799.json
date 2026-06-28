@@ -70,8 +70,8 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "KEEP via QBO Invoice 1667 (paid 2025-05-07, $21,181.81). Two S0 VTOL units ordered, paid in full. Per internal legal docs and recent emails, BST has experienced delivery delays and intends to settle with customer. Slack indicates build is in QC with receive-by date 2026-08-31. Note: earlier Invoice 1545 (2023-01-10, paid, $15,028.39) is a separate prior order; only Invoice 1667 applies to this current build task.",
+  "notes": "KEEP via QBO Invoice 1667 (paid 2025-05-07, $21,181.81). Two S0 VTOL units in QC with receive_by 2026-08-31 for ISARRA Flight Week. Recent email (2026-05-21) confirms Jack Elston agreed to deliver by August/September for ISARRA campaign, with option to ship directly to event site. Build tracking bug noted in March 2026 email; Beck reported ongoing flight testing. Note: separate Invoice 1730 ($2,462.50, Jan 2026, unpaid balance) is follow-on item unrelated to this core 2-unit build.",
   "missing_fields": [],
   "last_evidence_date": "2026-06-24",
-  "last_contact_date": null
+  "last_contact_date": "2026-05-21"
 }

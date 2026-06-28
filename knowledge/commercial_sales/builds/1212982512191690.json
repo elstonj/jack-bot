@@ -4,7 +4,7 @@
   "customer": "National Oceanography Centre (NOC)",
   "customer_contact": "Adrien Martin",
   "customer_email": "admartin@noc.ac.uk",
-  "receive_by": "2026-05-15",
+  "receive_by": null,
   "ship_to": null,
   "items": [
     {
@@ -48,11 +48,11 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "UK ARIA-funded autonomous long-endurance UAS project for Greenland ice sheet melt monitoring. 2027 UK shakedown, 2028 Greenland deployment targeting 100\u2013600 km range in <10\u00b0C conditions. LDCR with L-band may satisfy mission; S3 integration under consideration. Technical collaboration with Eryan Dai (Weather Stream) ongoing as of 2026-01-21 on NEDT/RFI mitigation. Original receive_by 2026-05-15 now overdue; status update needed on revised delivery milestone. Slack #commercial-sales tracked through 2026-05-20.",
+  "notes": "UK ARIA-funded autonomous long-endurance UAS project for Greenland ice sheet melt monitoring. 2027 UK shakedown, 2028 Greenland deployment targeting 100\u2013600 km range in <10\u00b0C conditions. LDCR with L-band may satisfy mission; S3 integration under consideration. Technical collaboration with Eryan Dai (Weather Stream) ongoing as of 2026-01-21 on NEDT/RFI mitigation. Original receive_by 2026-05-15 now significantly overdue; status update needed on revised delivery milestone and customer commitment level.",
   "missing_fields": [
+    "receive_by",
     "ship_to",
-    "estimate_date",
-    "receive_by"
+    "estimate_date"
   ],
   "last_evidence_date": "2026-06-24",
   "last_contact_date": "2026-01-21"

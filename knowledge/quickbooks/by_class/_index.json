@@ -1,17 +1,17 @@
 {
   "period": {
-    "start": "2026-06-26",
-    "end": "2026-06-27"
+    "start": "2026-06-27",
+    "end": "2026-06-28"
   },
-  "scanned_at": "2026-06-27",
+  "scanned_at": "2026-06-28",
   "projects": [
     {
       "project_code": "300-3",
       "revenue": 144000.0,
-      "expenses": 63.22,
+      "expenses": 0.0,
       "invoice_count": 2,
       "bill_count": 0,
-      "purchase_count": 2,
+      "purchase_count": 0,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -21,10 +21,10 @@
     {
       "project_code": "550-1",
       "revenue": 49459.0,
-      "expenses": 138.4,
+      "expenses": 0.0,
       "invoice_count": 2,
       "bill_count": 0,
-      "purchase_count": 1,
+      "purchase_count": 0,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [

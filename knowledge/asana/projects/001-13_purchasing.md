@@ -3,73 +3,81 @@
 ## Overview
 - **Client/customer:** Internal BST purchasing system (serves all active projects)
 - **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across multiple projects
-- **Timeline:** Ongoing operational project; orders due Jun 22–28, 2026
-- **Status:** **ACTIVE — CRITICAL WORKLOAD IMBALANCE & DUPLICATE UNRESOLVED.** Task count has **dropped from 11 to 6 open tasks** (45% reduction). ⚠️ **KEY CONCERNS:**
-  - **DUPLICATE TASK STILL UNRESOLVED:** "JawsTec- ByLight Gimbal (again)" and "JawsTec- ByLight Gimbal" were reported as exact duplicates in prior cycle. **NOT PRESENT in current data — may have been closed or merged, but no confirmation in notes.**
-  - **WORKLOAD REBALANCING SIGNAL:** Sendcutsend task (#S1841769) now assigned to **Nate Straus** (due Jun 28, status "Order Received") — **FIRST delegation observed.** This breaks the 100% Meredith concentration pattern from prior cycle.
-  - **5 of 6 tasks remain assigned to Meredith O'hara Needham** — single-point-of-failure risk **reduced but NOT eliminated.**
-  - **IMMINENT DEADLINES:** 5 of 6 tasks due Jun 26–27; 1 task due Jun 28. **Timeline remains compressed.**
-  - **POSSIBLE DUPLICATE PERSISTS:** "Amazon Shop supplies" (Nate, due Jun 27) and "amazon for shop supplies" (Joshua Fromm, due Jun 26) remain unresolved near-duplicates — both target Shop Supplies, both Amazon.
+- **Timeline:** Ongoing operational project; orders due Jun 25–28, 2026
+- **Status:** **ACTIVE — CRITICAL WORKLOAD CONCENTRATION PERSISTS; TASK COUNT COLLAPSED 50%.** ⚠️ **KEY CHANGES FROM PRIOR CYCLE:**
+  - **DRAMATIC TASK REDUCTION:** Open tasks fell from 6 to **3 (50% decrease)** in current cycle. **Prior near-duplicates and JawsTec gimbal task have disappeared from task list — no documentation of resolution, merge, or archival.** Suggests either external closure or silent task deletion without audit trail.
+  - **WORKLOAD REBALANCING PARTIALLY SUSTAINED:** Sendcutsend remains assigned to **Nate Straus** (due Jun 28, status "Order Received") — first delegation still in effect.
+  - **SINGLE-POINT-OF-FAILURE RE-CONCENTRATED:** **2 of 3 tasks (67%) assigned to Meredith O'hara Needham.** Combined with 50% task reduction, suggests possible external handling or project slowdown, not healthy workload distribution.
+  - **NEAR-DUPLICATE AMAZON TASKS DISAPPEARED:** "amazon for shop supplies" (Joshua Fromm) and prior "digikey for idiq" tasks no longer in list — **unconfirmed whether resolved, merged, or archived.**
+  - **IMMINENT DEADLINES:** All 3 remaining tasks due Jun 27–28 (within 1–3 days). Compressed timeline persists.
 
 - **Team members involved:**
-  - **Meredith O'hara Needham** (5/6 assigned; 83% of open workload; project owner)
-  - **Nate Straus** (1/6 assigned; 17% of open workload; *first delegation observed*)
-  - **Requesters:** Nate (2 tasks), Joshua Fromm (2 tasks), Ethan (1 task), Alex (1 task)
+  - **Meredith O'hara Needham** (2/3 assigned; 67% of open workload; project owner)
+  - **Nate Straus** (1/3 assigned; 33% of open workload)
+  - **Requesters:** Nate (2 tasks), Alex (1 task)
 
 - **Risk signals:**
-  - 🟠 **UNRESOLVED NEAR-DUPLICATE (PERSISTS):** "Amazon Shop supplies" (Nate, due Jun 27) and "amazon for shop supplies" (Joshua Fromm, due Jun 26) — both target Shop Supplies, both Amazon, different requesters. **Not confirmed as duplicate in current data but matches prior pattern.** Requires deduplication review.
-  - 🟠 **MISSING DUPLICATE RESOLUTION INFO:** Prior cycle flagged "JawsTec- ByLight Gimbal (again)" as exact duplicate (3rd cycle unresolved). **Not present in current task list — status unclear.** Confirm whether merged, closed, or archived without documentation.
-  - 🟡 **SINGLE-POINT-OF-FAILURE REDUCED BUT PERSISTENT:** 5 of 6 tasks (83%) assigned to Meredith; workload down 45% from prior cycle. **First delegation to Nate (Sendcutsend) is positive signal, but concentration risk remains.**
-  - 🟡 **IMMINENT DEADLINES:** 5 of 6 tasks due Jun 26–27 (within 2–4 days). Minimal execution buffer.
-  - 🟡 **FORM SUBMISSION MECHANISM ACTIVE:** "Amazon Shop supplies" (Nate) and "amazon for shop supplies" (Joshua Fromm) likely submitted via form without deduplication check.
+  - 🔴 **TASK DISAPPEARANCE WITHOUT DOCUMENTATION:** 3 of 6 prior tasks now absent from task list (50% reduction). Prior cycle flagged "amazon for shop supplies" (Joshua Fromm, due Jun 26) and "digikey for idiq" (due Jun 26) as active. **Current data shows only 3 tasks; no closure notes, completion records, or archival explanation.** Possible causes:
+    - External order placement (form-based system may bypass Asana task lifecycle)
+    - Silent task deletion (form auto-delete referenced in project notes)
+    - Manual cleanup without audit trail
+    - **ACTION REQUIRED:** Confirm whether orders were placed externally and tasks auto-deleted per form rules, or if data integrity issue exists.
+  - 🟠 **SINGLE-POINT-OF-FAILURE RE-CONCENTRATED:** 2 of 3 tasks (67%) assigned to Meredith. Prior cycle showed delegation progress; current reduction suggests either project slowdown or external handling without task updates.
+  - 🟡 **IMMINENT DEADLINES:** All 3 tasks due Jun 27–28; minimal execution buffer.
+  - 🟡 **FORM SUBMISSION AUTO-DELETE MECHANISM ACTIVE:** Project notes state "YOUR TASK WILL AUTO DELETE" if form not used. This explains task disappearance but creates audit trail risk — no historical record of order placement, requester, or project billing.
 
 ## Key Deliverables & Milestones
 
-### **DUE JUN 26–28, 2026 — 6 Tasks** *(5 unique + 1 possible near-duplicate)*
+### **DUE JUN 27–28, 2026 — 3 Tasks**
 
 | Task | Due | Vendor | Assigned | Project | Requester | Status | Notes |
 |------|-----|--------|----------|---------|-----------|--------|-------|
-| digikey for idiq (#009799) | Jun 26, 2026 | Digikey | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | **Order Shipped** | Tax-exempt |
-| amazon for shop supplies | Jun 26, 2026 | Amazon | Meredith O'hara Needham | Shop Supplies | Joshua Fromm | Order Placed | **POSSIBLE NEAR-DUPLICATE** (see Amazon Shop supplies/Nate) |
-| Amazon- Lava Lamp bulb | Jun 26, 2026 | Amazon | Meredith O'hara Needham | [001-1] IRAD General | Ethan | Order Placed | |
-| Amazon Shop supplies | Jun 27, 2026 | Amazon | Meredith O'hara Needham | Shop Supplies | Nate | Order Placed | **POSSIBLE NEAR-DUPLICATE** (see amazon for shop supplies/Joshua Fromm) |
-| Amazon weights | Jun 27, 2026 | Amazon | Meredith O'hara Needham | [001-1] IRAD General | Nate | Order Placed | |
-| Sendcutsend (#S1841769) | Jun 28, 2026 | Sendcutsend | **Nate Straus** | [550-1] Navy SBIR: Magnetometer | Alex | **Order Received** | **FIRST DELEGATION — positive workload rebalancing signal** |
+| Amazon weights | Jun 27, 2026 | Amazon | Meredith O'hara Needham | [001-1] IRAD General | Nate | Order Placed | Requested for Jun 26 placement |
+| Amazon Shop supplies | Jun 27, 2026 | Amazon | Meredith O'hara Needham | Shop Supplies (form says [001-1] IRAD General) | Nate | Order Placed | Requested for Jun 25 placement; billing project discrepancy noted |
+| Sendcutsend (#S1841769) | Jun 28, 2026 | Sendcutsend | Nate Straus | [550-1] Navy SBIR: Magnetometer | Alex | Order Received | Originally requested Jun 17 |
 
 ## Task Summary
 
-- **Total tasks:** 6 open, 0 completed
-  - **5 assigned to Meredith O'hara Needham** (83%)
-  - **1 assigned to Nate Straus** (17%) — *first delegation observed in current cycle*
+- **Total tasks:** 3 open, 0 completed
+  - **2 assigned to Meredith O'hara Needham** (67%)
+  - **1 assigned to Nate Straus** (33%)
 
 - **Tasks by assignee:**
-  - **Meredith O'hara Needham:** 5/6 (83%)
-  - **Nate Straus:** 1/6 (17%)
+  - **Meredith O'hara Needham:** 2/3 (67%)
+  - **Nate Straus:** 1/3 (33%)
 
 - **Requester distribution:**
-  - **Nate:** 2/6 (Amazon weights, Amazon Shop supplies)
-  - **Joshua Fromm:** 2/6 (digikey for idiq, amazon for shop supplies)
-  - **Ethan:** 1/6 (Amazon Lava Lamp bulb)
-  - **Alex:** 1/6 (Sendcutsend)
+  - **Nate:** 2/3 (Amazon weights, Amazon Shop supplies)
+  - **Alex:** 1/3 (Sendcutsend)
 
 - **Status breakdown:**
-  - **Order Shipped:** 1 (digikey for idiq)
+  - **Order Placed:** 2 (Amazon weights, Amazon Shop supplies)
   - **Order Received:** 1 (Sendcutsend)
-  - **Order Placed:** 4 (amazon for shop supplies, Amazon Lava Lamp bulb, Amazon Shop supplies, Amazon weights)
 
 - **Notable patterns:**
-  - Amazon vendor concentration: 4/6 tasks (67%)
-  - Shop Supplies project concentration: 2/6 tasks + possible near-duplicate
-  - **First workload delegation to Nate Straus** (Sendcutsend, Order Received status) — breaks prior 100% Meredith pattern
-  - Form-based submission mechanism continues to generate requests without built-in deduplication
+  - Amazon vendor concentration: 2/3 tasks (67%)
+  - **Significant task reduction (6 → 3, 50% decrease)** — prior near-duplicate and multi-project tasks now absent
+  - **Workload rebalancing partially sustained:** Nate retains Sendcutsend delegation; however, concentration to Meredith on remaining 2 tasks suggests externally-placed orders or form auto-deletion without task closure documentation
 
 ## Recent Activity
 
-- **Workload rebalancing:** Sendcutsend task delegated to Nate Straus (due Jun 28, status "Order Received") — **first observed delegation outside Meredith**, indicating possible systemic response to prior cycle's single-point-of-failure warnings.
-- **Task count reduction:** Open tasks fell from 11 to 6 (45% decrease). **Unclear whether resolved, merged, or archived** — prior cycle flagged "JawsTec- ByLight Gimbal (again)" as unresolved duplicate; not present in current data.
-- **Imminent execution phase:** 5 of 6 tasks due Jun 26–27; Sendcutsend already "Order Received" (earliest requested date was Jun 17).
-- **Amazon Shop supplies near-duplicate unresolved:** Both "Amazon Shop supplies" (Nate, Jun 27) and "amazon for shop supplies" (Joshua Fromm, Jun 26) remain in task list; no deduplication action documented.
+- **Task list collapsed 50%** from prior cycle (6 → 3 open tasks). No closure notes or completion records for disappeared tasks. **Likely explanation:** Form-based auto-delete mechanism (`"YOUR TASK WILL AUTO DELETE"` per project notes) triggered when orders placed via form, removing Asana task without audit trail. **This creates compliance/audit risk if order records need historical retrieval.**
+- **Nate Straus delegation sustained:** Sendcutsend (Order Received, due Jun 28) remains assigned to Nate, confirming prior cycle's workload rebalancing attempt.
+- **All remaining tasks imminent:** Due Jun 27–28; execution phase active.
+- **Billing project discrepancy:** "Amazon Shop supplies" form shows project as both "Shop Supplies" (task title) and "[001-1] IRAD General" (form field) — requires reconciliation.
 
 ## Notes & Context
 
-- **Form submission mechanism:** Project notes reference form link (`https://form.asana.com/?
+- **Form submission mechanism with auto-delete creates audit trail gap:** Project notes state form link and threat of auto-deletion. This explains task disappearance but means **no historical record of orders placed via form.** Recommend:
+  - Confirm whether external order management system (e.g., vendor portal, procurement tool) is handling placed orders while Asana tasks are auto-deleted
+  - If using form auto-delete, establish complementary order log or archive to preserve audit trail
+  - Update project documentation to clarify task lifecycle (form submission → order placement → task auto-delete vs. manual closure)
+
+- **Billing project tagging inconsistencies:** "Amazon Shop supplies" (Nate's request) shows conflicting project assignments in task title vs. form field. Verify whether Shop Supplies is a valid billing project or if all orders should bill to [001-1] IRAD General.
+
+- **Requesters vs. assignees:** All 3 current tasks requested by Nate (2) or Alex (1), but only Sendcutsend assigned to requesting-adjacent team member (Nate). Amazon tasks remain with Meredith despite coming from Nate. Suggests Meredith is purchase order handler independent of requester.
+
+- **Prior cycle unresolved items now absent:**
+  - "digikey for idiq" (Joshua Fromm, due Jun 26, "Order Shipped") — not in current data
+  - "amazon for shop supplies" (Joshua Fromm, due Jun 26, "Order Placed") — not in current data
+  - "Amazon Lava Lamp bulb" (Et

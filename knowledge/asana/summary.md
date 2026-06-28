@@ -1,66 +1,58 @@
 # Asana Projects Overview
 
-Last scanned: 2026-06-27 02:06
+Last scanned: 2026-06-28 02:06
 
-Total projects scanned: 4
+Total projects scanned: 1
 
 ## Projects
 
-- **[001-13] Accounting** — 1 tasks — [001-13_accounting.md](001-13_accounting.md)
-- **[001-13] Purchasing** — 6 tasks — [001-13_purchasing.md](001-13_purchasing.md)
-- **[031-1] UMES S3** — 1 tasks — [031-1_umes_s3.md](031-1_umes_s3.md)
-- **[300-3] 2026 IDIQ (Hurricane)** — 1 tasks — [300-3_2026_idiq_hurricane.md](300-3_2026_idiq_hurricane.md)
+- **[001-13] Purchasing** — 3 tasks — [001-13_purchasing.md](001-13_purchasing.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Project Portfolio Overview
+# Black Swift Technologies – Project Portfolio Overview
 
 ## Portfolio Summary
-- **Total Active Project Value:** ~$663,000+
-- **Active Projects:** 4 (1 completed delivery, 3 ongoing)
-- **Open Tasks:** 8 across all projects
-- **Critical Status:** 2 projects flagged for attention
+
+| Metric | Value |
+|--------|-------|
+| **Total Project Value** | Not fully quantified (mix of tracked and operational) |
+| **Active Projects** | 1 identified (Purchasing) |
+| **Status** | ⚠️ CRITICAL |
 
 ---
 
-## Key Active Projects
+## Key Active Project
 
-| Project | Client | Value | Status | Key Deadline |
-|---------|--------|-------|--------|--------------|
-| **[300-3] 2026 IDIQ (Hurricane)** | NOAA UxSOC | $499,000 | ACTIVE | Jul 31, 2026 |
-| **[031-1] UMES S3** | University of Maryland Eastern Shore | $81,306 | DELIVERY COMPLETE (5/29/26) | Jul 23–25, 2026 (training) |
-| **[001-13] Purchasing** | Internal (multi-project) | High-volume ops | ACTIVE — WORKLOAD IMBALANCE ⚠️ | Jun 22–28, 2026 |
-| **[001-13] Accounting** | Internal | Minimal | ACTIVE | Ongoing |
-
----
-
-## Risk Areas & Alerts
-
-### 🔴 **[001-13] Purchasing — CRITICAL**
-- **Concern:** 45% task reduction (11→6 open); unresolved duplicate task flagged
-- **Impact:** Potential duplicate work or missed scope; workload imbalance across team
-- **Action Required:** Task deduplication & root-cause review
-
-### 🟡 **[031-1] UMES S3 — LOGISTICS GAP**
-- **Concern:** Training logistics task (due 6/26/26) remains unassigned
-- **Impact:** July 23–25 training at risk if coordination fails
-- **Action Required:** Immediate assignment needed
-
-### 🟡 **[300-3] Hurricane IDIQ — TIMELINE PRESSURE**
-- **Value:** Largest project ($499K); July 31 final deadline
-- **Status:** No task detail provided; confirm delivery/milestone status
+### [001-13] Purchasing
+- **Type:** Internal operational system (cross-project support)
+- **Value:** High-volume, not individually tracked
+- **Timeline:** Ongoing; critical orders due **Jun 25–28, 2026**
+- **Status:** ACTIVE with **critical workload concerns**
 
 ---
 
-## Team Allocation Pattern
-- **Accounting:** Meredith O'hara Needham (1 task)
-- **Purchasing & Operations:** Under-specified; duplicate workload flagged
-- **Training/Logistics:** Unassigned critical tasks
+## Risk Areas
+
+🔴 **CRITICAL:**
+- **Workload concentration:** 50% task reduction (6 → 3 open tasks) signals potential bottleneck or delayed task visibility
+- **Approaching deadline:** Q2 2026 purchasing orders at imminent risk
+- **Data completeness:** Project portfolio snapshot incomplete; limited visibility into other active projects
 
 ---
 
-## Upcoming Key Deadlines
-1. **Jun 22–28, 2026** — Purchasing orders due
-2. **Jun 26, 2026** — UMES training logistics task due (UNASSIGNED)
-3. **Jul 23–25, 2026** — UMES S3 training delivery
-4. **Jul 31, 2026** — NOAA Hurricane IDIQ final delivery
+## Team Allocation & Deadlines
+
+| Category | Notes |
+|----------|-------|
+| **Team Focus** | Concentrated on Purchasing operations (exact allocation unknown) |
+| **Upcoming Critical Deadline** | **Jun 25–28, 2026** – Purchasing orders |
+| **Staffing Insight** | Insufficient data; recommend team utilization audit |
+
+---
+
+## Recommendations
+
+1. **Immediate:** Verify task collapse in Purchasing—clarify whether reduction reflects completion or tracking gap
+2. **Portfolio visibility:** Provide complete project inventory with value, status, and assigned teams
+3. **Resource planning:** Confirm team capacity ahead of Jun 2026 deadline

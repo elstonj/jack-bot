@@ -4,16 +4,13 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-06-26",
-    "end": "2026-06-27"
+    "start": "2026-06-27",
+    "end": "2026-06-28"
   },
   "totals": {
     "revenue": 144000.0,
-    "expenses": 63.22,
-    "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 53.7,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 9.52
-    }
+    "expenses": 0.0,
+    "by_category": {}
   },
   "invoices": [
     {
@@ -64,49 +61,7 @@
     }
   ],
   "bills": [],
-  "purchases": [
-    {
-      "type": "Purchase",
-      "date": "2026-06-26",
-      "doc_number": "",
-      "total": 9.52,
-      "attributed": 9.52,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "PIRATE SHIP * POSTAGE - 7333",
-      "lines": [
-        {
-          "amount": 9.52,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": "Return Gateworks item (Digi-Key invoice 115505927)"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-06-26",
-      "doc_number": "0625JELSTON",
-      "total": 192.1,
-      "attributed": 53.7,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "MCMASTER-CARR - 4617",
-      "lines": [
-        {
-          "amount": 53.7,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Materials IDIQ"
-        },
-        {
-          "amount": 138.4,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Materials for 500-1 Navy: Magnetometer"
-        }
-      ]
-    }
-  ],
+  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

@@ -26,10 +26,10 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 15091.25,
+        "amount": 16653.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-06-27"
+        "last_updated": "2026-06-28"
       },
       "purchases": {
         "amount": 0.0,
@@ -43,13 +43,13 @@
         "confidence": "exact",
         "last_updated": "2026-04-22"
       },
-      "total": 31073.29,
+      "total": 32635.79,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 55789.65,
+    "remaining": 54227.15,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-06-27T08:58:37Z"
+    "last_reconciled": "2026-06-28T08:50:49Z"
   },
   "milestones": [
     {
@@ -96,14 +96,8 @@
       "author": "Joshua Fromm",
       "date": "2026-06-02",
       "text": "From Joshua Fromm: ok all the payload parts for modifying both the murphys pond payloads and the gimbal are in the process of ordering right now, most parts to arrive ~ end of the week. biggest task is going to be rewiring the new db9 to mate up to the new style, which isn't a big deal at all. should be able to modify all 3 payloads in one day or less"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Daniel Prendergast",
-      "date": "2026-05-28",
-      "text": "From Daniel Prendergast (ts=1779919029.775939): <@U01511MEQ90> I have two emails that show the history of sending the batteries down to Mexico.  Where do you want me to save them?\nTo answer their questions:  We did not get an ECCN for the battery, and it looks like we just paid the fees as if we were doing permanent import to MX.  I can email Javi (customs broker) to confirm if you need me to.  Do you want me to respond to the email chain to explain these things to the group?"
     }
   ],
-  "last_full_rebuild": "2026-06-27T08:58:37Z",
+  "last_full_rebuild": "2026-06-28T08:50:49Z",
   "last_incremental_update": null
 }

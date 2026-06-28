@@ -145,4 +145,4 @@
 
 ---
 
-### **Indirect Costs (Facilities & Shop
+### **Indirect Costs (Facilities & Shop Operations

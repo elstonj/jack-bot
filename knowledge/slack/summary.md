@@ -1,56 +1,49 @@
 # Slack Channels Overview
 
-Last scanned: 2026-06-27 02:12
+Last scanned: 2026-06-28 02:09
 
-Total channels scanned: 4
+Total channels scanned: 2
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 3 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#emass-bst** -- 7 messages -- [emass-bst.md](emass-bst.md)
-- **#grants-and-funding** -- 10 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#flight-testing** -- 1 messages -- [flight-testing.md](flight-testing.md)
 - **#marketing** -- 1 messages -- [marketing.md](marketing.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Cross-Channel Strategic Overview
+# Black Swift Technologies - Strategic Cross-Channel Overview
 
-## Active Projects
+## Active Projects & Initiatives
 
-**Major Development Initiatives:**
-- **Navy SBIR Magnetometer**: Integration of QuSpin magnetometers with BST aircraft for magnetic anomaly detection (MAD)
-- **eMASS AI Integration**: ECSDoT energy management hardware integration onto E2 aircraft platform with AI model training
-- **Grants & Funding Pipeline**: Active pursuit across multiple federal agencies (NASA, DOD, NOAA, USDA)
+**Flight Testing Operations**
+- Ongoing testing across multiple platform types: S-series (fixed-wing), E2/Flamewheel (multirotor), S0/S1-VTOL/S3 (VTOL)
+- Firmware and software development cycles tied to flight test schedules
+- Component sourcing and QA integration with testing workflows
+
+**Marketing & Communications**
+- Website content management and collateral development
+- Press release and social media campaign coordination
+- Product-marketing alignment efforts
 
 ## Key People & Roles
 
-**Leadership/Strategy:**
-- **Jack Elston**: Primary decision-maker across projects; oversees autopilot/simulation, grants strategy, and marketing direction
-
-**Technical Leadership:**
-- **Maciej**: Technical support for Navy SBIR and proposal development; field operations lead
-- **Nikhila (eMASS AI)**: Primary developer for chip integration and AI implementation
-
-**Support Functions:**
-- **Meredith Needham**: Budget development and grant administration
-- **Parker Vollmer, Sophia Henkels, Paige Smith**: Marketing and communications
-
-## Decision Patterns
-
-- **Jack Elston acts as central approval node** across technical, funding, and marketing decisions
-- **Proposal-driven workflow**: Grant submissions guide project timelines and resource allocation
-- **Collaborative hardware integration**: Cross-company partnerships (eMASS AI, QuSpin) require coordinated technical decisions
-
-## Recurring Topics
-
-- Hardware integration challenges and testing protocols
-- Proposal deadlines and funding application status
-- AI/ML model development and validation
-- Budget allocation and cost forecasting
-- Marketing collateral alignment with product capabilities
+| Person | Primary Channel(s) | Function |
+|--------|---|---|
+| Jack Elston | #flight-testing, #marketing | Firmware development & leadership/strategy |
+| Maciej | #flight-testing | Lead flight testing/analysis |
+| Joshua Fromm | #flight-testing | QA/component sourcing |
+| Parker Vollmer | #marketing | Marketing lead |
+| Sophia Henkels | #marketing | Content/web management |
+| Paige Smith | #marketing | (role pending) |
 
 ## Cross-Channel Connections
 
-- **Grants fund projects**: Navy SBIR and eMASS initiatives both dependent on funding approvals tracked in #grants-and-funding
-- **Marketing amplifies technical wins**: Project milestones inform promotional campaigns
-- **Technical teams support proposals**: Navy SBIR and eMASS AI teams provide data/documentation for grant applications
+1. **Jack Elston as Strategic Bridge** - Appears in both technical (firmware) and leadership/marketing contexts, suggesting direct alignment between product development and external messaging
+2. **Hardware-Comms Pipeline** - Flight testing outputs (firmware updates, platform developments) likely inform marketing content and product announcements
+3. **Operational-to-External Flow** - Testing progress and technical achievements move from #flight-testing into marketing narratives and communications
+
+## Decision Patterns & Recurring Topics
+
+- **Technical validation precedes marketing messaging** - Flight test results inform what can be promoted externally
+- **Multi-platform product management** - Coordination across diverse aircraft types requires systematic tracking
+- **Component-led development** - Sourcing and QA constraints appear to influence testing timelines
