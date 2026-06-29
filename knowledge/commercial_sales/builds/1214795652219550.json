@@ -8,7 +8,7 @@
   "ship_to": "",
   "items": [
     {
-      "description": "S3 UAS with EO/IR gimbal",
+      "description": "S3 Arctic UAS with EO/IR gimbal",
       "quantity": 1
     }
   ],
@@ -22,10 +22,17 @@
   "paid_date": null,
   "parts": [
     {
-      "name": "EO/IR gimbal",
+      "name": "EO/IR gimbal (REX110)",
       "ordered": true,
       "received": false,
       "vendor": "Atmolab",
+      "order_date": null
+    },
+    {
+      "name": "Battery",
+      "ordered": true,
+      "received": true,
+      "vendor": "",
       "order_date": null
     }
   ],
@@ -37,12 +44,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "S3 Arctic demo for Canadian Defense Forces via NexTech Solutions integrator. 120km range / 1h 35min TOF with EO/IR gimbal required. Demo scheduled for Ottawa June 25, 2026. Active prep: REX110 gimbal integration sprint underway (Atmolab camera auto-discovery issues being troubleshot by Daniel), battery shipped to Canada, insurance requirements ($5M GL/Aviation) being coordinated. Team traveling to Ottawa mid-June. Follow-on Arctic demo planned post-Ottawa.",
+  "notes": "S3 Arctic demo for Canadian Defense Forces via NexTech Solutions integrator. 120km range / 1h 35min TOF with EO/IR gimbal required. Demo scheduled for Ottawa June 25, 2026. REX110 gimbal integration sprint active with Atmolab troubleshooting camera auto-discovery issues; DB9 rewiring and mount integration in progress. Battery shipped to Canada. Insurance requirements ($5M GL/Aviation) being coordinated. Team traveling mid-June for demo; follow-on Arctic demo planned post-Ottawa.",
   "missing_fields": [
     "ship_to",
     "invoice_number",
     "invoice_amount"
   ],
-  "last_evidence_date": "2026-06-27",
+  "last_evidence_date": "2026-06-24",
   "last_contact_date": "2026-06-24"
 }

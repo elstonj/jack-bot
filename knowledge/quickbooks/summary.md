@@ -1,26 +1,18 @@
 # BST Financial Overview (QuickBooks)
 
 ## Company Totals
-Based on the available QuickBooks data for the period April 2024 – September 2026:
-
 - **Total Revenue (Invoices):** $7,448,665.62
-  - Commercial: $2,986,489.34
-  - Government: $4,462,176.28
-
-- **Total Expenses (Bills & Purchases):** $1,573,956.61
-  - Commercial: $240,863.11
-  - Government: $1,333,093.50
-
-- **Net Income Estimate:** $5,874,709.01
+- **Total Expenses:** $1,573,976.61
+- **Net Income:** $5,874,689.01
 
 ---
 
 ## By Project/Class
 
-| Project | Total Revenue | Total Expenses | Net Position | # Invoices |
-|---------|---|---|---|---|
-| **Government** | $4,462,176.28 | $1,333,093.50 | $3,129,082.78 | 76 |
-| **Commercial** | $2,986,489.34 | $240,863.11 | $2,745,626.23 | 1+ |
+| Project | Total Revenue | Total Expenses | Net Position | Status |
+|---------|---------------|----------------|--------------|--------|
+| **Government** | $4,462,176.28 | $1,333,093.50 | $3,129,082.78 | 76 active invoices |
+| **Commercial** | $2,986,489.34 | $240,883.11 | $2,745,606.23 | 1 recent transaction |
 
 **Government** is the largest revenue driver, representing 60% of total invoiced revenue.
 
@@ -28,23 +20,32 @@ Based on the available QuickBooks data for the period April 2024 – September 2
 
 ## Cash Flow Indicators
 
-### Outstanding Accounts Receivable
-- **Government Projects:** $3,194,865.82 outstanding
-- **Commercial Projects:** $25,000.00 recent (Invoice #1769, dated 2026-06-09)
+### Accounts Receivable
+- **Government Projects:** $3,194,865.82 outstanding (balance on open invoices)
+- **Commercial Projects:** $25,000.00 outstanding (Invoice 1769, dated 2026-06-09, from EMASS Chip Integration)
 - **Total A/R:** ~$3,219,865.82
 
 ### Recent Activity
-- Most recent invoice: **Invoice #1769** – $25,000 to EMASS Chip Integration (Commercial), dated 2026-06-09, currently unpaid
-- Government projects have 76 active invoices with significant outstanding balances
+- Most recent Government invoice activity through 2026-09-28
+- Most recent Commercial invoice: 2026-06-09 ($25,000)
+- Commercial project shows limited recent transaction volume (1 transaction noted)
+
+### Purchase Orders Outstanding
+- Government: $832.00
+- Commercial: $1,977.50
+- **Total POs:** $2,809.50
 
 ---
 
-## Data Limitations
-⚠️ The provided QuickBooks export is **incomplete**:
-- Detailed vendor breakdown not available
-- Customer names partially truncated
-- Per-invoice detail incomplete
-- Expense detail summary missing
-- Purchase order status unclear
+## Top Customer (Incomplete Data)
+- **EMASS Chip Integration [044-1]:** $25,000.00 (Commercial, outstanding balance)
 
-**Recommendation:** Export complete Profit & Loss statement and aged A/R report for comprehensive analysis.
+*Note: Complete customer list for Government invoices not fully displayed in source data.*
+
+---
+
+## Observations
+1. **Strong profitability:** Net margin of 79% across both divisions
+2. **Government-heavy portfolio:** 60% of revenue from Government projects with significant A/R ($3.2M outstanding)
+3. **Commercial underutilization:** Limited transaction volume; may warrant growth focus
+4. **Data completeness:** Report truncated for Commercial and Government customer details; full vendor and customer lists unavailable

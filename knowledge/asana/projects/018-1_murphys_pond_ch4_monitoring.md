@@ -24,21 +24,14 @@
 - **Flight #4 Funding Confirmation:** Due 2026-06-29 (Beck Cotter); $31k available from Dr. Masri
 
 ## Task Summary
-- **Total tasks:** 8 open, 0 completed
+- **Total tasks:** 1 open, 0 completed (per latest Asana sync)
 - **Tasks by assignee:**
-  - **Beck Cotter:** 2 open tasks
-    - Flight #3 (Due: 2026-05-27) — execution imminent; subject to competing project scheduling
+  - **Beck Cotter:** 1 open task
     - Confirm Bassil has funding for Flight #4 (Due: 2026-06-29)
-  - **Jack Elston:** 3 open tasks
-    - S2 aircraft rental order (2 units, S0 VTOL); Due 2026-06-01; training/travel required; **travel not yet scheduled** (Urgency: Medium)
-    - Look into rate of user payload data from CO2 payload (no due date)
-    - Figure out why FLIR stopped triggering (no due date)
-  - **Maciej Stachura:** 1 open task
-    - Update overlap to 80% for FLIR and A5100 (no due date)
-  - **Joshua Fromm:** 0 tasks assigned in Asana (but actively delivering payload modifications per feedback)
-  - **Unassigned:** 2 entries
-    - Flight #3 milestone (Due: 2026-03-02 — note: Asana due date appears stale; actual execution due is 2026-05-27 per Beck Cotter's task)
-    - Bassil El Masri contact card (High priority; no due date)
+- **Prior open tasks (likely in-progress or closed externally):**
+  - Jack Elston: S2 rental order (due 2026-06-01), methane payload data rate investigation, FLIR triggering investigation
+  - Maciej Stachura: Camera overlap configuration (FLIR + A5100 to 80%)
+  - Joshua Fromm: Payload modifications (actively delivering per 2026-06-03 feedback)
 
 ## Recent Activity
 - **2026-06-03 (Joshua Fromm feedback):** **Payload modifications in final stages.** All parts for Murphy's Pond payload modifications (3 payloads + gimbal) in process of ordering; most parts arriving end of week. DB9 rewiring is main remaining task (straightforward). **All modifications expected to complete within 1 day or less** once parts arrive.
@@ -50,12 +43,11 @@
 ## Notes & Context
 - **Research focus:** Methane emissions from wetlands and bottomland hardwood forests; using remote sensing to upscale site measurements to larger geographic areas
 - **Field location:** 7192 State Route 307 North, Fancy Farm, KY (landowner Joe Wilson, cwilson0036@gmail.com); Murray State University campus: 415 Blackburn, Murray, KY 42071
-- **Budget & funding:** $86,862.94 total committed; additional $31k available pending Flight #4 confirmation due 2026-06-29. Project required competitive bidding due to >$10k threshold.
+- **Budget & funding:** $86,862.94 total committed; additional $31k available pending Flight #4 confirmation due 2026-06-29. Project required competitive bidding due to >$10k threshold. Funding expires December 31, 2026 — all project work must conclude by this date.
 - **Products/Services:** S2, Survey Services, Aircraft Rental (S0 VTOL), Other
 - **Customer type:** Commercial; no subcontractors
 - **Priority:** Low
 - **Billing:** PaymentWorks
-- **Funding constraint:** Funding expires December 31, 2026 — all project work must conclude by this date
 - **Technical history:**
   - S2 experienced software issues during August 1 test flight; reverted to Oklahoma State's known-good configuration (Nate Straus, Aug 13, 2025)
   - FLIR triggering issues unresolved (Jack Elston)
@@ -63,4 +55,4 @@
   - Methane payload data rate investigation pending (Jack Elston)
   - **Payload modifications in final stages** (Joshua Fromm, 2026-06-02/03); parts arriving end of week; expected completion within 1 day or less
 - **Scheduling context:** Project competes with INSTAAR x2 and Ottawa demo projects for resource allocation. Execution order determined by "whatever actually happens first" (Jack Elston)
-- **Battery & customs:** Batteries already shipped to Mexico; no ECCN obtained; permanent import fees paid
+- **Battery & customs:** Batteries already shipped to Mexico; no ECCN obtained; permanent import fees paid. **Confirm destination aligns with project scope before escalation.**

@@ -1,15 +1,16 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 3,042 (3,030 previous + 12 new from Jun 27-28, 2026)
-- **Date range:** March 24 – June 28, 2026 (97 days)
-- **Approximate volume:** ~31.4 messages per day (sustained consistency)
-- **Pattern update (Jun 27-28, 2026):** **~92% automation/newsletters/news/recruiting/promotions** (11 of 12 messages)
-  - **Continued LinkedIn recruiting activity:** 3 new messages (1 invitation, Maciej Stachura connection prompt, 3 search appearances)
-  - **Defense/aerospace intelligence sustained:** Mitchell Institute CCA Update (Aerospace Advantage 296), NY Times U.S.-Iran strikes coverage
-  - **News consumption pattern broad:** NY Times (3 messages: breaking news Iran strikes, editor picks Yale/Trump, subscription promo), Inside Climate News, The Athletic
-  - **Digital marketing/web stack:** WPBeginner AI WordPress tool inquiry, Staples promotional
-  - **NO direct human correspondence Jun 27-28** — all messages automated/newsletters
+- **Total messages scanned:** 3,057 (3,042 previous + 15 new from Jun 28-29, 2026)
+- **Date range:** March 24 – June 29, 2026 (98 days)
+- **Approximate volume:** ~31.2 messages per day (sustained consistency)
+- **Pattern update (Jun 28-29, 2026):** **~87% automation/newsletters/news/promotions** (13 of 15 messages)
+  - **Direct human correspondence:** 1 critical message from Sona Raziabeegum (Krateosky partnership escalation — marked IMPORTANT)
+  - **New LinkedIn intelligence signal:** Scripps Institution of Oceanography activity flagged IMPORTANT (marked by system)
+  - **Sustained news consumption:** NY Times (4 messages: breaking news, editor picks, morning digest), Inside Climate News podcast promo, The Athletic
+  - **Emerging topic signal:** Agritecture Weekly (spinach/agriculture tech) — new vertical, likely promotional but flagged in promotions category
+  - **Recruiting/networking activity:** LinkedIn invitation, Scripps post notification
+  - **Retail/logistics:** Target (2), Staples travel promotions
 
 ---
 
@@ -19,107 +20,108 @@
 
 **Jack Elston** (elstonj@blackswifttech.com / media@blackswifttech.com)
   - Primary conduit for Krateosky partnership announcements
-  - Media team coordination on public/announcement phases
-  - Status: Active partnership escalation visible through Jun 26
+  - **Status:** Active — included on Jun 29 RE: Announcement from Sona Raziabeegum (IMPORTANT)
 
 **Daniel Prendergast** (daniel.prendergast@blackswifttech.com)
   - Operational flight/testing coordination (ECSDOT program)
-  - Real-time NanoVEU vendor integration
-  - Status: Active technical delivery cycle ongoing
+  - **Status:** No new messages in this batch
 
 ### Top External Senders & Vendors
 
-#### **Krateosky — PARTNERSHIP ESCALATION (SUSTAINED)**
+#### **Krateosky — PARTNERSHIP ESCALATION (CRITICAL PHASE)**
 
 **Sona Raziabeegum** (sona@krateosky.com)
-  - Direct multi-party coordination (Jack Elston, Paige Smith)
-  - Announcement coordination phase
-  - **Status:** Active (last activity Jun 26, 16:38 UTC)
+  - **Jun 29, 05:28:12 UTC: RE: Announcement [UNREAD, IMPORTANT]**
+  - Direct coordination with Jack Elston + Paige Smith
+  - **NEW SIGNAL:** Response pattern indicates announcement phase moving to execution/finalization
+  - **Status:** ACTIVE — announcement imminent or under approval
 
-#### **HubSpot — URGENT DECISION PHASE (SUSTAINED)**
+#### **HubSpot — CRM EVALUATION (SUSTAINED)**
 
-**Kylie Bliss** (kbliss@hubspot.com)
-  - Voicemail escalation pattern (Jun 25-26)
-  - Likely decision-maker/key stakeholder in CRM evaluation
-  - **Status:** Awaiting Paige response (last contact Jun 26, 07:55 PDT)
+**thehubspotteam@hubspot.com**
+  - Jun 28, 11:30:11 -0400: Educational content (shortcut/workflow tips)
+  - **Status:** Ongoing engagement (no escalation messages, but resource/educational outreach continuing)
 
-#### **NanoVEU — ACTIVE TECHNICAL DELIVERY (SUSTAINED)**
-
-**Nikhila Ravikumar** (Nikhila@nanoveu.com)
-  - Real-time operational coordination on ECSDOT flights
-  - Technical vendor in active project phase
-  - **Status:** Ongoing (last activity Jun 26, 18:46 MDT)
-
-#### **Mitchell Institute for Aerospace Studies — NEW/ESCALATING (IMPORTANT)**
-
-**mitchell@afa.org**
-  - Jun 27, 05:50:34 MDT: **"✈️ CCA Update: What Are the Next Steps? - Aerospace Advantage 296"** [UNREAD, IMPORTANT]
-  - **SIGNAL:** Defense/aerospace policy research organization. "CCA Update" (Collaborative Combat Aircraft? Commercial/Cooperative Aviation?) suggests strategic program briefing. "What Are the Next Steps?" indicates decision/milestone phase. **Marked IMPORTANT by system.**
-  - **NEW PATTERN:** Mitchell Institute engagement escalating alongside sustained Boeing CCA Pacific Exercise coverage in news digest.
-
-#### **The New York Times (Multiple Feeds)**
-
-**breakingnews@nytimes.com**
-  - Jun 28, 02:30:15 UTC: **"Breaking news: U.S. and Iran trade more strikes, testing truce"** [UNREAD, INBOX]
+#### **The New York Times (Multiple Feeds — SUSTAINED INTELLIGENCE PATTERN)**
 
 **editorpicks@nytimes.com**
-  - Jun 27, 21:01:19 UTC: Environmental/domestic policy coverage
-  - Jun 27, 12:02:30 UTC: **"Exclusive: Yale seeks to settle with Trump administration"** [UNREAD]
+  - Jun 28, 21:15:27 UTC: **"Where billionaires summer, a gardener died in the snow"** [UNREAD]
+  - Jun 28, 15:51:30 UTC: **"Opinion: Some leftists are boycotting this film. Everyone should watch it."** [UNREAD]
 
-**nytimes@e.newyorktimes.com**
-  - Jun 27, 23:24:06 UTC: Subscription promotion
+**nytdirect@nytimes.com**
+  - Jun 28, 11:44:31 UTC: **"The Morning: Dear diary"** [UNREAD, IMPORTANT]
 
-  - **SIGNAL:** Paige subscribed to 3 distinct NY Times feeds (breaking news, editor picks, subscription). Heavy real-time consumption of geopolitical/Iran coverage + domestic policy/higher education. Pattern suggests **active news monitoring for business intelligence** rather than casual reading.
+**breakingnews@nytimes.com**
+  - (No new messages in this batch, but pattern continues from Jun 28)
 
-#### **LinkedIn — Sustained Recruiting/Profile Activity**
+**SIGNAL:** 4 distinct NY Times feeds + IMPORTANT flag on morning digest. Indicates **curated daily intelligence consumption** — not casual news reading but structured information gathering (opinion, long-form investigations, breaking alerts, digestized briefing).
 
-**notifications-noreply@linkedin.com & messages-noreply@linkedin.com**
-  - Jun 28, 02:21:50 UTC: 1 new invitation [IMPORTANT]
-  - Jun 28, 00:59:50 UTC: Maciej Stachura connection prompt
-  - Jun 27, 16:59:50 UTC: "You appeared in 3 searches" [3 profile views]
-  - **SUSTAINED PATTERN:** Weekly recruiting activity (5+ messages in last 6 days). Profile high-visibility. Likely active hiring/recruiting involvement for BST or personal development network expansion.
+#### **LinkedIn — Sustained Recruiting & Intelligence Signal**
 
-#### **WPBeginner / Digital Marketing Stack**
+**updates-noreply@linkedin.com**
+  - Jun 29, 02:59:52 UTC: **"Scripps Institution of Oceanography recently posted"** [UNREAD, IMPORTANT]
+  - **NEW SIGNAL:** Scripps (marine science/oceanography research institution) posting activity monitored and flagged IMPORTANT by system. Suggests either:
+    - Follow relationship with Scripps institution (possible partnership/research interest)
+    - Interest in oceanographic/marine sensor/autonomous systems
+    - BST considering oceanographic applications for UAV/sensor platforms
 
-**Syed Balkhi** (support@wpbeginner.com)
-  - Jun 27, 14:58:09 UTC: **"You asked: can my own AI tool run my WordPress site?"** [CATEGORY_PROMOTIONS]
-  - **SIGNAL:** Paige inquired about AI WordPress automation. Suggests interest in website automation/CMS optimization (aligns with earlier AIOSEO, MonsterInsights, MailerLite stack).
+**notifications-noreply@linkedin.com**
+  - Jun 29, 02:21:50 UTC: 1 new invitation [UNREAD]
+  - **PATTERN:** Continued weekly recruiting activity (6+ messages in last 7 days)
 
-#### **Inside Climate News**
+#### **Inside Climate News — Environmental Intelligence (SUSTAINED)**
 
-**newsletters@insideclimatenews.org**
-  - Jun 27, 10:14:33 UTC: **"Elected Democrats have embraced 'climate hushing'"** [UNREAD, CATEGORY_UPDATES]
-  - **SIGNAL:** Environmental policy/climate intelligence newsletter. Thematic consistency with NY Times environmental coverage (Reflecting Pool algae story).
+**memberships@insideclimatenews.org**
+  - Jun 28, 10:31:52 UTC: **"Sneak preview: Our new podcast!"** [CATEGORY_PROMOTIONS]
+  - **SIGNAL:** Upgraded from news alerts to podcast/membership content. Indicates deepening engagement with climate/environmental policy intelligence
 
-#### **The Athletic Pulse**
+#### **Unmanned Systems Technology (LinkedIn Newsletter)**
+
+**newsletters-noreply@linkedin.com**
+  - Jun 28, 12:45:44 UTC: **"6 Technical Insights Shaping UAVs, Sensors & Mission-Critical Electronics"** [UNREAD, CATEGORY_UPDATES]
+  - **CORE SIGNAL:** Highly relevant to BST mission. Technical insights on UAV platforms, sensors, electronics. Directly aligned with ECSDOT, NanoVEU coordination, and carbon fiber materials sourcing.
+
+#### **STATION Austin — Community/Venue Activity (NEW)**
+
+**events@stationaustin.org**
+  - Jun 28, 14:02:13 -0500: **"This Week at STATION Austin 🚀 6/29 - 7/3"** [UNREAD, CATEGORY_FORUMS]
+  - **NEW PATTERN:** Events notification routed to media@blackswifttech.com but to Paige. STATION Austin is innovation/startup community space. Suggests either:
+    - BST media team attending/sponsoring events
+    - Paige involved in community engagement/partnership scouting
+  - **Status:** Weekly notification — likely subscription for ongoing event awareness
+
+#### **Agritecture Weekly (NEW VERTICAL)**
+
+**victoria@agritecture.com**
+  - Jun 29, 03:40:47 -0400: **"Solving Spinach's Root-Zone Problem — at 2x Industry Yields"** [CATEGORY_PROMOTIONS, UNREAD]
+  - **NEW SIGNAL:** Agriculture technology newsletter. Content focus: hydroponic/vertical farming yield optimization. Possible signals:
+    - Interest in controlled environment agriculture (CEA) sensors/UAV monitoring applications
+    - Agricultural drone/sensor research collaboration
+    - Purely promotional (unlikely given IMPORTANT flags on other sources)
+  - **Status:** First appearance in dataset — incoming subscriber or recently forwarded
+
+#### **Retail/Logistics (Noise — Not Work-Related)**
+
+**Target, Staples** — promotional consumer shopping feeds (college supplies, luggage deals)
+- **SIGNAL:** Mixed with work emails (PAIGE.SMITH@blackswifttech.com) — either mass forwarding or personal shopping account mapped to work email. Low signal value; consistent with earlier patterns.
+
+#### **The Athletic Pulse (Sports — Outlier)**
 
 **TheAthletic@e1.theathletic.com**
-  - Jun 27, 11:13:11 UTC: **"The Clark discourse darkens"** [UNREAD, CATEGORY_UPDATES]
-  - **SIGNAL:** Sports/athlete commentary. Outlier in pattern — single instance, likely auto-subscription or promotional. Not core to work focus.
-
-#### **YT Carbon Fiber — New Vendor (UAV Platforms)**
-
-**john@ytcarbonfiber.com**
-  - Jun 27, 15:58:03 SGT: "Carbon fiber plates and tubes for scientific UAV platforms" [UNREAD]
-  - **Status:** Inquiry routed; awaiting engagement
+  - Jun 28, 11:03:01 UTC: **"Buy the USMNT hype"** [UNREAD, IMPORTANT]
+  - **SIGNAL:** Sports subscription (U.S. Men's National Team coverage). Marked IMPORTANT by system — unusual for sports content. May indicate personal interest unrelated to work, or system flag artifact.
 
 ---
 
 ## Topic Patterns
 
-### High-Priority Defense/Aerospace Topics
-- **Boeing CCA (Collaborative Combat Aircraft / Cooperative Air/Aviation):** Sustained multi-message coverage (Boeing CCA Pacific Exercise, Air Force involvement)
-- **Iran/U.S. Geopolitical Conflict:** Real-time breaking news (strikes, truce negotiations) — Jun 28 breaking alert
-- **PLA/China Military & Space:** Ongoing intelligence (Conflict in Space Report, military strikes coverage)
-- **Air Force Missile Programs:** 1,000-nm missile program coverage
-- **Aerospace Policy Research:** Mitchell Institute CCA strategic updates (NEW ESCALATION — marked IMPORTANT)
+### High-Priority Defense/Aerospace Topics (SUSTAINED)
+- **Boeing CCA (Collaborative Combat Aircraft):** Multi-message policy briefing coverage
+- **Iran/U.S. Geopolitical Conflict:** Real-time breaking news tracking (sustained through Jun 28)
+- **PLA/China Military & Space:** Ongoing intelligence monitoring
+- **Air Force Missile Programs:** Coverage continues
 
 ### Project/Program Codenames Visible
-- **ECSDOT:** Environmental/Atmospheric/UAV testing program — active flights (Daniel Prendergast, NanoVEU coordination)
-- **CCA (Collaborative/Commercial Combat Aircraft):** Policy briefing + exercise coverage — strategic decision phase
-- **Krateosky Partnership:** Multi-phase announcement coordination (Jack Elston, Sona Raziabeegum) — content opaque but escalating
-
-### Operational/Technical Topics
-- **UAV Platforms:** Carbon fiber materials sourcing (YT Carbon Fiber), scientific/research applications
-- **AI/Web Automation:** WordPress AI integration, AI-powered website optimization (AIOSEO, WPBeginner)
-- **Marketing/Communications Stack:** CRM evaluation (HubSpot), email marketing (
+- **ECSDOT:** Active flights ongoing (no new messages this batch, but program active)
+- **CCA (Collaborative/Commercial Combat Aircraft):** Strategic decision phase (policy briefing + exercise coverage)
+- **Krat

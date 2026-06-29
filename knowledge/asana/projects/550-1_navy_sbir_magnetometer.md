@@ -14,7 +14,7 @@
   - Phase I: Completed (January 2026)
   - **Option Period (Apr 14 – Sep 28, 2026): $99,459**
     - CLIN 0005 (Kick-Off & FWA Certification): $50,000 ✓ **COMPLETED** (submitted Apr 14, 2026)
-    - CLIN 0006 (Progress Report): $35,000 — Due Jun 29, 2026 — **OPEN** (21 days from last status update, Jun 8)
+    - CLIN 0006 (Progress Report): $35,000 — Due **Jun 29, 2026** — **OPEN** 
     - CLIN 0007 (Final Report): $14,459 — Due Sep 28, 2026 — **OPEN**
 
 - **Timeline:** Option Period April 14 – September 28, 2026
@@ -22,26 +22,22 @@
   - **Compressed 6.5-month timeline:** design → build → ground test → hand-launched flights → Camp Pendleton demo (Sep 14–25) + three Navy reports
 
 - **Status:** 🔴 **CRITICAL — SIGNIFICANT OVERDUE BACKLOG**
-  - **17 open tasks, 0 completed**
-  - **Multiple critical technical milestones OVERDUE as of Jun 8, 2026:**
+  - **2 Asana tasks open** (CLIN 0006 Progress Report & Invoice, due Jun 29)
+  - **17 technical/administrative milestones, with 6 OVERDUE and multiple AT RISK as of Jun 8, 2026:**
     - Design of onboard logging (Jack Elston) — **31 days overdue** (due May 8)
     - Python plotting/analysis tools (Maciej Stachura) — **26 days overdue** (due May 13)
     - Build up ground testing S0-MAD (Alex Lomis) — **20 days overdue** (due May 19)
     - Ground testing with throttle variations (Alex Lomis) — **17 days overdue** (due May 22)
     - S0-AD launcher design (Alex Lomis) — **3 days overdue** (due Jun 5)
     - Camp Pendleton permissions/frequencies (Beck Cotter) — **7 days overdue** (due Jun 1)
-  - **Imminent critical tasks at risk** (due within 4–33 days from Jun 8):
-    - Build hand-launched S0-MAD (due Jun 12) — 4 days
-    - Build & ground test S0-AD Launcher (due Jun 15) — 7 days
-    - CLIN 0006 Progress Report due (due Jun 29) — 21 days
-  - **Team feedback (Maciej Stachura, Jun 8, 2026):** "For mag integration it's Alex and Sam on the critical engineering tasks" — indicates active work underway despite stale task tracking in Asana
-
-- **Priority:** **HIGH** (Navy government contract, compressed timeline, critical path delays)
+  - **Team feedback (Maciej Stachura, Jun 8, 2026):** "For mag integration it's Alex and Sam on the critical engineering tasks" — indicates active work underway despite stale Asana tracking
+  
+- **Priority:** **HIGH** (Navy SBIR government contract, compressed timeline, critical path delays, Camp Pendleton demo deadline Sep 14–25, 2026)
 
 - **Team Members:**
   - **Alex Lomis** (PM/Owner, technical lead) — **CRITICAL PATH**: 8+ build, test, and flight tasks
-  - **Sam** (Critical engineering on mag integration) — Contact info needed; appears to be on critical path per Jun 8 feedback
-  - **Jack Elston** (Technical lead, onboard logging & reporting, CLIN 0006/0007 reports) — Overdue design deliverable
+  - **Sam** (Critical engineering on mag integration) — Contact info needed
+  - **Jack Elston** (Technical lead, onboard logging & reporting; owns CLIN 0006/0007 reports) — Overdue design deliverable
   - **Maciej Stachura** (Python tools, sensor configuration, analysis) — Overdue analysis tools
   - **Beck Cotter** (Camp Pendleton coordination & permissions) — Overdue permissions task
   - **Meredith O'hara Needham** (Administrative, invoicing, FWA certification)
@@ -49,14 +45,14 @@
 
 ## Key Deliverables & Milestones
 
-**Administrative Deliverables (Navy-Required):**
+**Navy-Mandated Administrative Deliverables (CLINs):**
 | CLIN | Deliverable | Owner | Amount | Due Date | Status |
 |------|---|---|---|---|---|
 | 0005 | Kick-Off & FWA Certification Report + Invoice | Meredith O'hara Needham | $50,000 | Apr 14, 2026 | ✓ **COMPLETED** |
-| 0006 | Progress Report + Invoice | Jack Elston / Meredith O'hara Needham | $35,000 | **Jun 29, 2026** | **OPEN — 21 days from Jun 8 status** |
+| 0006 | Progress Report + Invoice | Jack Elston / Meredith O'hara Needham | $35,000 | **Jun 29, 2026** | **OPEN — IN ASANA** |
 | 0007 | Final Report + Invoice | Jack Elston / Meredith O'hara Needham | $14,459 | Sep 28, 2026 | **OPEN** |
 
-**Technical Milestones:**
+**Technical Milestones (Compressed Schedule):**
 | Milestone | Owner | Due Date | Status as of Jun 8 |
 |---|---|---|---|
 | Design of ground testing S0-MAD | — | Apr 27, 2026 | ✓ Completed |
@@ -75,7 +71,11 @@
 | **Camp Pendleton demo flights (Sep 14–25)** | Alex Lomis | **Sep 14–25, 2026** | 🔴 **CRITICAL DEADLINE** |
 
 ## Task Summary
-- **Total Tasks:** 17 open, 0 completed
-  - Contact information tasks: 2 (Angel Ruiz-Reyes, Anthony Brescia — tracking only)
-  - Administrative/reporting: 4 (CLIN 0006/0007 reports + invoices)
-  
+
+**Asana Tracking:**
+- **Total Asana tasks:** 2 open, 0 completed
+  - CLIN 0006 Progress Report (Jack Elston) — Due Jun 29, 2026
+  - CLIN 0006 Invoice (Meredith O'hara Needham) — Due Jun 29, 2026
+
+**Behind the Scenes:**
+Asana task count does not reflect the full scope of technical work. Per Maciej Stachura's Jun 8 feedback, there are 17+ active engineering milestones being tracked outside of As

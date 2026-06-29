@@ -1,10 +1,10 @@
 # Meredith O'hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 506 emails (489 previous + 17 new)
-- **Date range:** June 15–27, 2026 (13 days)
-- **Approximate volume:** ~39 emails/day
-- **Trend:** Sustained critical operational load through Jun 27; payroll crisis escalating (duplicate reminders now daily); high-volume equipment procurement continuing; travel coordination emerging (Ottawa hotel activity Jun 27)
+- **Total messages scanned:** 517 emails (506 previous + 11 new)
+- **Date range:** June 15–29, 2026 (15 days)
+- **Approximate volume:** ~34 emails/day
+- **Trend:** Sustained operational load through Jun 29; payroll crisis remains unresolved; procurement activity continues; weekend email processing (Jun 28–29) confirms ongoing operational engagement
 
 ---
 
@@ -14,65 +14,51 @@
 
 **Automated Systems & Purchasing Routing:**
 
-1. **Purchasing system** (`purchasing@blackswifttech.com`) — 225+ messages cumulative
-   - **Vendor activity (Jun 27 — NEW):**
-     - Amazon.com (Jun 27, 17:56:29 UTC & 09:25:09 UTC) — **2 shipment confirmations** (BNTECHGO 24 Gauge & 18 Gauge Silicone products + 11 additional items); ongoing supply chain activity
-     - FedEx Billing Online (Jun 27, 10:52:32 CDT) — **Invoice ready for payment** [CATEGORY_FORUMS] — shipping/logistics billing
-     - USPS Informed Delivery (Jun 27, 13:20:25 UTC) — Daily digest; mail tracking active
-     - Harbor Freight (Jun 27, 15:53:31 UTC) — Promotional (30% off savings weekend)
-     - Speedway Motors / RideTech (Jun 27, 19:00:20 UTC) — Suspension specialists promotional (unusual vendor category — may indicate vehicle/ground equipment procurement)
-     - ELEGOO US (Jun 27, 13:00:49 UTC) — Promotional electronics/embedded systems; directed to Alexis Lomis (purchasing coordinator)
-     - HeliDirect (Jun 27, 09:25:09 UTC) — **4th of July early sale** promotional [CATEGORY_UPDATES]
+1. **Purchasing system** (`purchasing@blackswifttech.com`) — 235+ messages cumulative
+   - **Vendor activity (Jun 28–29 — NEW):**
+     - Amazon.com (Jun 29, 04:23:59 UTC) — **Shipment confirmation** WOLFBOX MF200 Compressed + 2 additional items
+     - Spindrift Market (Jun 29, 04:05:03 UTC) — **Order confirmed** SH62377422
+     - Spindrift Market (Jun 28, 20:23:42 UTC) — **Order in transit** SH62377201 ("Ready your fridge" messaging — suggests beverage/refreshment supplies; unusual procurement category)
+     - UPS (Jun 28, 14:10:04 EDT) — **Package arrival notification** (next-day delivery expected)
+     - Harbor Freight (Jun 28, 13:15:59 UTC) — Promotional (30% off items under $10)
+     - USPS Informed Delivery (Jun 28, 13:15:59 UTC) — Daily digest
+     - HeliDirect (Jun 29, 01:25:29 UTC) — Promotional (4th of July sale messaging) [directed to `purchasing@blackswifttech.com` — routing change from Jun 27]
    
-   - **Travel/Lodging Alerts (NEW — Jun 27):**
-     - Expedia reservations (Jun 27, 19:10:27 UTC & 19:10:13 UTC) — **2 duplicate hotel messages from Holiday Inn Express & Suites Ottawa West - Nepean by IHG** [UNREAD, CATEGORY_FORUMS] — **EMERGING PATTERN**
-     - Expedia.com (Jun 27, 10:27:31 CDT) — **Review stay at Holiday Inn Express & Suites Ottawa West - Nepean** [UNREAD, CATEGORY_FORUMS]
-     - **Significance:** Team travel to Ottawa, Canada confirmed; hotel coordination ongoing; duplicate Expedia messages (similar to duplicate Rippling alerts) suggest high volume or system issues
-   
-   - **Account/Billing Alerts (Ongoing from Jun 27):**
-     - Purchasing system (Jun 27, 07:15 UTC) — `You Have Past Due Invoices` [CRITICAL]
-     - Purchasing system (Jun 27, 08:07 UTC) — `Invoice Now Available for Account 8xxx4W` [CRITICAL]
+   - **Supply Chain Status:** Continuous procurement activity across multiple vendors; weekend processing (Jun 28–29) suggests inventory/fulfillment urgency
 
 ---
 
-2. **Rippling Support** — **PAYROLL CRISIS ESCALATION CONTINUES WITH DAILY REMINDERS**
-   - **CRITICAL: New Duplicate Action Reminders (Jun 27)**
-     - Rippling (Jun 27, 16:08:02 UTC): **`[REMINDER] Send funds to complete payroll`** [DUPLICATE #1, UNREAD, CATEGORY_UPDATES]
-     - Rippling (Jun 27, 16:08:02 UTC): **`[REMINDER] Send funds to complete payroll`** [DUPLICATE #2, UNREAD, CATEGORY_UPDATES]
-     - **Status Change:** Escalated from `[ACTION REQUIRED]` (Jun 26) to `[REMINDER]` (Jun 27) — suggests funds may not have been sent; urgency remains critical
-   
-   - **Ongoing Issues (Previous):**
-     - Employee overcharge ($13,587.10) — unresolved as of Jun 27
-     - Account holds/banking coordination required
+2. **PCBWay Online Services** (feedback09@pcbway.com) — **CRITICAL HARDWARE COMPONENT THREAD**
+   - **NEW THREAD: Bartington Magnetometer ADC Samples (Jun 28–29)**
+     - PCBWay (Jun 28, 18:37:14 +0800) → `purchasing@blackswifttech.com`: **`Sample pictures for order T-S100W700226A, bartington_mag_adc`** [UNREAD, IMPORTANT]
+     - Sam Hild (Jun 28, 11:39:36 -0600) → PCBWay: **`Re: Sample pictures for order T-S100W700226A, bartington_mag_adc`** [UNREAD, IMPORTANT]
+     - PCBWay (Jun 29, 15:27:45 +0800) → Sam Hild: **`Re : Re: Sample pictures for order T-S100W700226A, bartington_mag_adc`** [UNREAD, IMPORTANT]
+     - **Significance:** 
+       - Custom PCB order for **"bartington_mag_adc"** (Bartington Instruments magnetometer ADC interface board)
+       - Sample verification phase (photos exchanged Jun 28–29)
+       - Direct involvement of Sam Hild (engineering/technical lead) in quality control
+       - Multi-timezone collaboration (China PCB fabricator + US team)
+       - **Critical component for sensor payload integration** — likely tied to Aeropod or broader sensor system development
 
 ---
 
-3. **Jack Elston (BST) — Technical/Project Coordination**
-   - **NEW THREAD: Aeropod Project Data (Jun 27)**
-     - Jack Elston (Jun 27, 21:12:52 CDT) → geoff: **`Re: Aeropod - Profiler Data`** [UNREAD, IMPORTANT] — Latest message (21:12 CDT)
-     - geoff (Jun 27, 18:29:49 EDT) → Jack: **`Re: Aeropod - Profiler Data`** [UNREAD, IMPORTANT]
-     - Jack Elston (Jun 27, 13:24:46 MDT) → geoff: **`Re: Aeropod - Profiler Data`** [UNREAD, IMPORTANT]
-     - **External Contact:** geoff <gb.aerokats@gmail.com> (likely external contractor/partner; "aerokats" domain suggests aviation/drone background)
-     - **Context:** Real-time technical discussion on "Aeropod" profiler data; active Jun 27; suggests ongoing development or flight test data analysis
-     - **Significance:** Project codename "Aeropod"; external expertise engaged; Meredith likely CC'd or informed on technical progress
+3. **geoff** (gb.aerokats@gmail.com) — **AEROPOD PROJECT PARTNER**
+   - **Continued thread (Jun 28):**
+     - geoff (Jun 28, 18:29:46 -0400) → Jack Elston: **`Re: Aeropod - Profiler Data`** [UNREAD, IMPORTANT]
+     - Indicates sustained technical collaboration through weekend
 
 ---
 
-4. **External Partners & Contractors**
-   - geoff (gb.aerokats@gmail.com) — Aeropod/profiler data collaboration with Jack Elston (active Jun 27)
-   - Grant Rawson (NOAA Federal) — Cost discussion for "S0 display model" (Jun 26)
+4. **Sam Hild** (sam.hild@blackswifttech.com) — **Engineering/Technical Lead**
+   - Appears as key contact in PCBWay hardware coordination (Jun 28–29)
+   - Likely manages sensor component sourcing and quality verification
 
 ---
 
-5. **Operations & Administrative**
-   - Capital Factory (noreply@union.vc) (Jun 27, 16:39:25 UTC) → operations@bst.aero: **`New Office Hour: Mentor Office Hours with Jeff Levine`** [UNREAD, CATEGORY_UPDATES] — Startup mentorship program notification
-
----
-
-### Outgoing (by frequency — from previous data)
-- **Shelby Hammond (Elevations Credit Union)** — Banking/wire coordination (direct fund requests, Jun 26)
-- **Rippling Support** — Payroll error escalation follow-ups
-- **Grant Rawson (NOAA Federal)** — Cost negotiations for S0 display model
+### Outgoing (by frequency — updated)
+- **PCBWay** — Custom PCB component verification (Jun 28–29)
+- **Rippling Support** — Payroll crisis escalation (ongoing; daily reminders continue through Jun 29)
+- **Shelby Hammond (Elevations Credit Union)** — Banking/wire coordination (Jun 30 deadline from Jun 26 messaging)
 - **Jack Elston** — Technical project coordination (Aeropod data sharing)
 
 ---
@@ -80,31 +66,67 @@
 ## Topic Patterns
 
 ### Critical/Active Crisis Topics
-- **Payroll funding crisis** — Escalated to daily reminders (Jun 27); funds still not sent
-- **Employee billing error** — $13,587.10 overcharge; unresolved through Jun 27
-- **Past due invoices** — Cash flow pressure evident (Jun 27 alerts)
-- **Bank wire urgency** — Monday (Jun 30) deadline flagged; wire coordination with Elevations Credit Union ongoing
+- **Payroll funding crisis** — Status unchanged; daily reminders continue through Jun 29; funds likely still not sent
+- **Employee billing error** — $13,587.10 overcharge; unresolved through Jun 29
+- **Past due invoices** — Ongoing billing pressure
 
-### Project/Development Topics
-- **Aeropod** — Technical profiler data discussion (active Jun 27 with external partner geoff); real-time development/testing
-- **S0 display model** — Cost negotiation with NOAA Federal (government sales track)
-- **MHP data alignment** — Academic research collaboration with Stanford (ongoing)
-- **PwrSupply-Distribution** — Hardware/equipment procurement project (invoice visible Jun 26)
-- **ECSDOT Flights** — Flight operations/demo coordination (Jun 26)
+### Project/Development Topics (Updated)
+- **Aeropod** — Real-time profiler data collaboration; external partner (geoff) engaged; active through Jun 28
+- **Bartington Magnetometer ADC Interface** — **NEW CRITICAL COMPONENT**
+  - Custom PCB order T-S100W700226A
+  - Sample verification phase (Jun 28–29)
+  - Suggests **magnetometer sensor integration** into payload system
+  - Quality-critical (photos exchanged for approval)
+  - **Likely tied to:** Aeropod sensor payload or broader geophysical/environmental measurement capability
+- **S0 display model** — NOAA Federal government sales (ongoing)
+- **MHP data alignment** — Stanford academic collaboration
+- **PwrSupply-Distribution** — Hardware/equipment procurement
+- **ECSDOT Flights** — Flight operations/demo
 
-### Equipment & Logistics
-- **Industrial/electronics suppliers:** McMaster-Carr, Amazon (silicone wire gauge products), ELEGOO, Harbor Freight, HeliDirect
-- **Shipping tracking:** FedEx billing, USPS daily digest, Craters & Freighters (large equipment shipments)
-- **Hardware RMA:** Gateworks return label processing
+### Equipment & Logistics (Updated)
+- **Specialized components:** PCBWay (custom PCBs), WOLFBOX (likely mobile video/telemetry equipment), Bartington (precision magnetometer sensors)
+- **Beverages/Supplies:** Spindrift Market orders (Jun 28–29) — **unusual for procurement system**; may indicate office/team supplies or team event coordination
+- **Standard suppliers:** Amazon, UPS, Harbor Freight, USPS, HeliDirect (continued)
 
-### Travel & Lodging (NEW)
-- **Ottawa, Canada trip** — Holiday Inn Express & Suites Ottawa West - Nepean bookings/coordination (Jun 27)
-- **Team travel coordination** via Expedia (multiple hotel check-in notifications)
+### Travel & Lodging
+- **Ottawa, Canada trip** — Hotel bookings confirmed; likely Jun 30 or later departure
 
 ---
 
 ## Communication Patterns
 
-### Time Patterns
-- **High activity sustained through weekend** — Jun 27 (Saturday) messages show continuous operational engagement
-- **Crisis-driven communication** — Duplicate emails (
+### Time Patterns (Updated)
+- **Weekend processing continues** — Jun 28–29 messages show sustained weekend operations (Friday through Sunday)
+- **Multi-timezone coordination** — Jun 28 shows activity across +0800 (China), -0400 (Eastern), -0600 (Mountain) time zones
+- **Overnight delivery urgency** — UPS next-day delivery notification (Jun 28) suggests time-sensitive component receipt
+
+### Mailing Lists & Automation
+- **Purchasing system routing:** Continues to consolidate vendor notifications
+- **Hardware development alerts:** PCBWay order status tracking (custom components — not routine procurement)
+
+---
+
+## Key Relationships
+
+### Internal Collaborators
+- **Sam Hild** — Engineering/Technical Lead
+  - Hardware component sourcing and quality control
+  - PCB design verification (Bartington magnetometer ADC)
+  - Direct communication with external fabricators
+- **Jack Elston** — Project Coordination
+  - Aeropod technical data management
+  - External partner coordination (geoff/gb.aerokats@gmail.com)
+  
+### External Partners
+- **geoff (gb.aerokats@gmail.com)** — Aeropod technical collaborator; likely aviation/sensor expertise
+- **PCBWay (feedback09@pcbway.com)** — Custom PCB fabricator (China-based); high-volume or specialized component orders
+- **Grant Rawson (NOAA Federal)** — Government sales contact (S0 display model)
+- **Shelby Hammond (Elevations Credit Union)** — Banking/operational finance coordination
+
+---
+
+## Notable Observations
+
+1. **Bartington Magnetometer ADC Integration — NEW INSIGHT:**
+   - Presence of custom magnetometer interface PCB suggests **geophysical or geomagnetic measurement capability**
+   - Sample verification phase
