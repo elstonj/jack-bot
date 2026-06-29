@@ -1,23 +1,27 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,419 emails (1,378 prior + 32 from June 26–27 + 9 new from June 27)
-- **Date range:** May 18–June 27, 2026
+- **Total messages scanned:** 1,430 emails (1,419 prior + 11 from June 28–29)
+- **Date range:** May 18–June 29, 2026
 - **Daily average:** ~15–17 emails/day (human correspondence); automated/logistics/procurement/travel volume substantial and accelerating
-- **Unread messages:** ~1,100+ unread (heavy promotional/automated volume dominating)
-- **New data period (June 27 — 9 additional emails):**
-  - **Human correspondence:** 0 emails (0%)
-  - **Automated/Logistics/Procurement/Travel/Promotional:** 9 emails (100%)
-    - **Component Procurement (June 27):**
-      - Amazon (2x shipments: BNTECHGO 24 Gauge Silicone wire + 11 more items — Jun 27, 09:25; BNTECHGO 18 Gauge Silicone wire — Jun 27, 15:53) — **High-velocity wire/cable procurement (bulk order, multi-gauge)**
-      - ELEGOO US (promotional sale up to $864 off — Jun 27, 13:00) — **NEW vendor contact; electronics/hobby prototyping components**
-    - **Travel/Lodging (June 27):**
-      - Expedia (2x Holiday Inn Express & Suites Ottawa West – Nepean by IHG messages — Jun 27, 19:10; hotel review request — Jun 27, 10:27) — **Confirmed Ottawa travel (checkout/review stage; location shift from Hampton by Hilton)**
-    - **Shipping/Logistics/Retail (June 27):**
-      - USPS Informed Delivery (daily digest — Jun 27, 13:20)
-      - Harbor Freight (30% off weekend sale — Jun 27, 15:53)
-    - **Vendor Marketing (June 27):**
-      - HeliDirect (4th of July early sale routed to Meredith Needham — Jun 27, 09:25) — **existing pattern; routed to procurement**
+- **Unread messages:** ~1,110+ unread (heavy promotional/automated volume dominating)
+- **New data period (June 28–29 — 11 additional emails):**
+  - **Human correspondence:** 1 email (9%) — Sam Hild/PCBWay (technical/manufacturing)
+  - **Automated/Logistics/Procurement/Travel/Promotional:** 10 emails (91%)
+    - **PCB Manufacturing (June 28–29):**
+      - PCBWay Online Services Team (2x sample picture confirmations for order T-S100W700226A, "bartington_mag_adc" — Jun 28, 18:37; Jun 29, 15:27) — **NEW vendor contact; PCB/magnetometer ADC board manufacturing; active sample/iteration phase**
+      - **Sam Hild** (sam.hild@blackswifttech.com) — Direct correspondence with PCBWay (Jun 28, 11:39) — **Internal PCB/electronics design lead**
+    - **Component Procurement (June 28–29):**
+      - Amazon (WOLFBOX MF200 Compressed + 2 more items — Jun 29, 04:23) — **Camera/video recording equipment (dash cam style)**
+      - AliExpress (customer experience survey — Jun 28, 21:33) — **NEW direct contact; electronics/component sourcing platform**
+    - **Shipping/Logistics (June 28–29):**
+      - UPS (package delivery notification — Jun 28, 14:10)
+      - USPS Informed Delivery (daily digest — Jun 28, 13:15)
+    - **Beverage/Wellness Orders (June 28–29):**
+      - Spindrift Market (2x order confirmations: SH62377201 — Jun 28, 20:23; SH62377422 — Jun 29, 04:05) — **Continuing beverage subscription pattern**
+    - **Vendor Marketing (June 28–29):**
+      - Harbor Freight (30% off weekend sale — Jun 28, 13:50) — **Continuing pattern**
+      - HeliDirect (4th of July sale to Meredith Needham — Jun 29, 01:25)
 
 ---
 
@@ -38,6 +42,8 @@
 
 7. **Ethan Domagala** (ethan.domagala@blackswifttech.com) — **Arctic UAS team member**
 
+8. **Sam Hild** (sam.hild@blackswifttech.com) — **NEW/ELEVATED; PCB/electronics design lead; direct PCBWay manufacturing liaison**
+
 ### Top External Contacts
 
 #### **Government/Military/Programs**
@@ -49,6 +55,7 @@
 - **Krateo Sky Consortium (C2T2 Proposal)**
 
 #### **Manufacturing/Precision Services**
+- **PCBWay Online Services** (feedback09@pcbway.com) — **NEW/ACTIVE; PCB manufacturing; magnetometer ADC board (bartington_mag_adc) in sample/iteration phase; active design-to-production flow**
 - **Sofia Alvarez** (sofia.alvarez@lnp-machining.com) — **Machining services vendor (direct 2-way correspondence; voicemail follow-up suggests ongoing negotiation/project alignment)**
 - **ProtoSpace Mfg / ProtoCASE** (marketingemail@protocase.com) — **Enclosure/case manufacturing (in-house graphics capability)**
 - **Daniels Manufacturing Corporation** — **Mil-spec connectors; tracking regulatory qualification milestones**
@@ -57,7 +64,8 @@
 
 #### **Component/Electronics Suppliers**
 - **BatterySpace** (sales@batteryspace.com) — **Battery qualification/regulatory documentation (MSDS & 38.3 testing)**
-- **ELEGOO US** — **NEW; electronics/hobby prototyping components**
+- **ELEGOO US** — **Electronics/hobby prototyping components**
+- **AliExpress** — **NEW; electronics/component sourcing platform (direct contact established)**
 - **Kollmorgen** — **Motor/drive systems (hazardous location compliance focus)**
 
 #### **Other Vendors**
@@ -69,13 +77,15 @@
 ## Topic Patterns
 
 ### Primary Focus Areas
+- **PCB/Electronics Design & Manufacturing** — NEW/ELEVATED; magnetometer ADC board (bartington_mag_adc) actively in production sampling phase
 - **Arctic UAS program** — Active development/deployment (location change coordination)
 - **C2T2 Proposal** — Ongoing proposal/funding effort (Krateo Sky Consortium)
-- **Component Procurement & Manufacturing** — Elevated velocity; wire/cable, enclosures, mil-spec connectors, sheet metal
+- **Component Procurement & Manufacturing** — Elevated velocity; wire/cable, enclosures, mil-spec connectors, sheet metal, video recording equipment
 - **Regulatory/Compliance Tracking** — Battery qualification (38.3 testing), mil-spec connectors, hazardous location standards
-- **Manufacturing Partnerships** — LNP Machining (new/active), ProtoSpace enclosures, SendCutSend sheet metal
+- **Manufacturing Partnerships** — PCBWay (new), LNP Machining (active), ProtoSpace enclosures, SendCutSend sheet metal
 
 ### Recurring Subject Themes
+- PCB sample pictures/design iteration (NEW)
 - Battery/power system qualification
 - Program location/logistics updates
 - Component shipment confirmations
@@ -83,6 +93,7 @@
 - Travel logistics (Canada-focused: Ottawa, Nepean)
 
 ### Visible Procurement Categories
+- PCBs & custom electronics (magnetometer ADC integration)
 - Wire/cable (18–24 gauge silicone, bulk multi-unit orders)
 - Enclosure/case manufacturing
 - Mil-spec connectors
@@ -90,37 +101,13 @@
 - Industrial adhesives/tapes
 - RC control systems (Futaba receivers/transmitters)
 - Motors/drive systems (hazardous location rated)
+- Video recording/camera equipment (WOLFBOX MF200)
 
 ---
 
 ## Communication Patterns
 
 ### Time Patterns
-- **June 27 activity:** 9 automated emails (all promotional/logistics) — weekend procurement processing
-- **High-velocity ordering window:** June 25–27 (3 McMaster-Carr orders, 2 Amazon silicone wire shipments, SendCutSend, Expedia hotel confirmation)
-- **Email routing:** Significant promotional/vendor content routed to **purchasing@blackswifttech.com** (Meredith Needham's team)
-
-### Mailing Lists & Group Emails
-- **AOGS E-News** (Asia-Oceania Geoscience Society) — professional conference interest
-- **MDPI Fire Journal** (Call for Papers) — academic publication opportunity
-- **UAS VISION** (russ@uasvision.com) — daily news/industry newsletter
-
-### Automated Email Patterns
-- **Logistics (USPS, Expedia, shipping carriers)** — Daily digest style
-- **E-commerce fulfillment** — Amazon, McMaster-Carr (order confirmations → receipt notifications)
-- **Subscriptions** — Driftaway Coffee, Spindrift (beverage)
-- **Promotional** — Harbor Freight, Dell, HeliDirect, ELEGOO (routed to procurement)
-- **Hotel/Travel** — Expedia/hotel chain messaging; confirmed Ottawa West stay (Nepean area)
-
----
-
-## Key Relationships
-
-### Closest Internal Collaborators (by frequency & criticality)
-1. **Jack Elston** — Purchasing/proposal coordination; frequent liaison
-2. **Daniel Prendergast** — Arctic UAS program lead; direct correspondence
-3. **Meredith Needham** — Procurement routing; vendor management
-4. **Alex Lomis, Ethan Domagala** — Arctic UAS team (cc'd on program updates)
-
-### Critical External Relationships
-1. **Sofia Alvarez (LNP Machining
+- **June 28–29 activity:** 11 automated emails (10 promotional/logistics, 1 human technical correspondence) — weekend procurement processing and design iteration coordination
+- **High-velocity ordering window:** June 25–29 (McMaster-Carr, Amazon, Spindrift, AliExpress, PCBWay active samples)
+- **Email routing:** Significant promotional/vendor content routed to **purchasing@blackswifttech.com** (Meredith Needham's team); PCBWay technical correspondence via **purchasing@blackswift

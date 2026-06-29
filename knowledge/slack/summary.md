@@ -1,49 +1,49 @@
 # Slack Channels Overview
 
-Last scanned: 2026-06-28 02:09
+Last scanned: 2026-06-29 02:11
 
-Total channels scanned: 2
+Total channels scanned: 4
 
 ## Channels
 
-- **#flight-testing** -- 1 messages -- [flight-testing.md](flight-testing.md)
-- **#marketing** -- 1 messages -- [marketing.md](marketing.md)
+- **#25_1-navy-sbir-magnetometer** -- 2 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#commercial-sales** -- 2 messages -- [commercial-sales.md](commercial-sales.md)
+- **#flight-testing** -- 8 messages -- [flight-testing.md](flight-testing.md)
+- **#general** -- 3 messages -- [general.md](general.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Strategic Cross-Channel Overview
+# Black Swift Technologies - Cross-Channel Strategic Overview
 
-## Active Projects & Initiatives
-
-**Flight Testing Operations**
-- Ongoing testing across multiple platform types: S-series (fixed-wing), E2/Flamewheel (multirotor), S0/S1-VTOL/S3 (VTOL)
-- Firmware and software development cycles tied to flight test schedules
-- Component sourcing and QA integration with testing workflows
-
-**Marketing & Communications**
-- Website content management and collateral development
-- Press release and social media campaign coordination
-- Product-marketing alignment efforts
+## Active Projects
+- **Navy SBIR Magnetometer**: Integration of QuSpin magnetometers with aircraft for Magnetic Anomaly Detection (MAD); led by Beck Cotter, Maciej, Tyler, with Jack Elston and Joshua Fromm involved
+- **Flight Testing Operations**: Continuous testing across multiple platform types (S-series fixed-wing, E2/Flamewheel multirotor, S0/S1-VTOL/S3 VTOL systems)
+- **Commercial Aircraft Delivery**: S-series, E2, S0, S0-VTOL, and S3 systems sold to universities, government agencies (NASA, NOAA), and international customers
 
 ## Key People & Roles
+- **Jack Elston**: Leadership, firmware development
+- **Maciej**: Flight testing lead, analysis
+- **Joshua Fromm**: QA, component sourcing
+- **Beck Cotter**: SBIR magnetometer project lead
+- **Dan Prendergast**: Business development, operations
+- **Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Ben Busby**: Operational support across functions
 
-| Person | Primary Channel(s) | Function |
-|--------|---|---|
-| Jack Elston | #flight-testing, #marketing | Firmware development & leadership/strategy |
-| Maciej | #flight-testing | Lead flight testing/analysis |
-| Joshua Fromm | #flight-testing | QA/component sourcing |
-| Parker Vollmer | #marketing | Marketing lead |
-| Sophia Henkels | #marketing | Content/web management |
-| Paige Smith | #marketing | (role pending) |
+## Decision Patterns
+- **Technical-first approach**: Flight testing and payload integration drive project decisions
+- **Cross-functional coordination**: Engineering (Maciej), QA (Joshua), and leadership (Jack) continuously align
+- **Customer-centric delivery**: Commercial sales channel tracks full project lifecycle from quote through support
+
+## Recurring Topics
+
+| Theme | Channels | Details |
+|-------|----------|---------|
+| Firmware/Software Updates | #flight-testing, #general | Ongoing development and deployment across aircraft platforms |
+| Payload Integration | #25_1-navy-sbir-magnetometer, #commercial-sales | Magnetometer and specialized equipment deployment |
+| Fleet Operations | #flight-testing, #general | Maintenance, testing schedules, and platform performance |
+| Customer Relationships | #commercial-sales, #general | Order management, delivery coordination, international engagement |
+| Component Sourcing | #flight-testing, #general | Parts availability and QA tracking |
 
 ## Cross-Channel Connections
-
-1. **Jack Elston as Strategic Bridge** - Appears in both technical (firmware) and leadership/marketing contexts, suggesting direct alignment between product development and external messaging
-2. **Hardware-Comms Pipeline** - Flight testing outputs (firmware updates, platform developments) likely inform marketing content and product announcements
-3. **Operational-to-External Flow** - Testing progress and technical achievements move from #flight-testing into marketing narratives and communications
-
-## Decision Patterns & Recurring Topics
-
-- **Technical validation precedes marketing messaging** - Flight test results inform what can be promoted externally
-- **Multi-platform product management** - Coordination across diverse aircraft types requires systematic tracking
-- **Component-led development** - Sourcing and QA constraints appear to influence testing timelines
+- **Flight testing insights feed commercial delivery**: Platform performance data from #flight-testing informs customer specifications and timelines in #commercial-sales
+- **SBIR project influences platform capabilities**: Magnetometer integration work advances aircraft payload capacity for broader commercial applications
+- **Centralized updates**: #general serves as synchronization point where decisions from specialized channels (#flight-testing, #25_1-navy-sbir-magnetometer) cascade to full organization

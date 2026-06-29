@@ -1,34 +1,40 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 142 across ~8-day period (21–27 Jun 2026)
+- **Total messages scanned:** 149 across ~8-day period (21 Jun – 29 Jun 2026)
 - **Estimated volume:** Moderate-to-high; strategic mix of partnership coordination, technical R&D, procurement/supplier logistics, and government funding
-- **Date range:** Peak activity 22–25 Jun; sustained through 26–27 Jun
-- **Daily breakdown:** 
+- **Date range:** Peak activity 22–25 Jun; sustained through 26–29 Jun
+- **Daily breakdown (updated):**
   - Monday 22 Jun (~20 messages)
   - Tuesday 23 Jun (~15 messages)
   - Wednesday 24 Jun (~35 messages, significant spike)
   - Thursday 25 Jun (~30+ messages, sustained high activity)
   - Friday 26 Jun (~20 messages, continued engagement)
-  - Saturday 27 Jun (~19 messages, significant weekend activity; mix of strategic outreach, technical discussion, and international coordination)
-- **Pattern shift:** High engagement continues through weekend (27 Jun); weekend activity shows strategic partnership escalation (Canadian federal research, UK/Canadian military outreach) rather than routine logistics
+  - Saturday 27 Jun (~19 messages, significant weekend activity; strategic partnership escalation)
+  - Sunday 28 Jun (~5 messages, sustained engagement including Geoff/Aeropod and PCBWay technical coordination)
+  - Monday 29 Jun (~3 messages, early morning automated/procurement receipts)
+- **Pattern shift:** High engagement continues through weekend into early week; weekend activity (27–28 Jun) shows strategic partnership escalation and technical supply chain coordination rather than routine logistics
 
 ## Key Correspondents
 
 **Top Direct Contacts (by frequency/importance):**
-- **Jack Elston** (elstonj@blackswifttech.com) — 20+ interactions; primary internal coordinator across Krateo Sky job description, GTM strategy, CCRPP funding, NASA SBIR/STTR opportunity, technical job descriptions, compensation adjustments, Google Drive document sharing, and **NEW: international military/government introductions (27 Jun 09:27, UK MOD & Canadian Armed Forces)**
+- **Jack Elston** (elstonj@blackswifttech.com) — 20+ interactions; primary internal coordinator across Krateo Sky job description, GTM strategy, CCRPP funding, NASA SBIR/STTR opportunity, technical job descriptions, compensation adjustments, Google Drive document sharing, international military/government introductions (27 Jun 09:27, UK MOD & Canadian Armed Forces), and **continued liaison with Geoff/Aeropod (28 Jun 18:29, IMPORTANT)**
 - **James Pinto** (pinto@ucar.edu, UCAR) — 6+ interactions; continued two-way technical dialogue marked IMPORTANT
 - **Ariel Avitan** (Ariel@krateosky.com, Krateo Sky) — 6+ direct interactions; primary GTM/go-to-market liaison for partnership strategy
-- **Brian Grubel** (Brian@krateosky.com, Krateo Sky) — 6+ interactions; technical job description thread; **NEW: continued weekend engagement (27 Jun 10:18, IMPORTANT)**
+- **Brian Grubel** (Brian@krateosky.com, Krateo Sky) — 6+ interactions; technical job description thread; continued weekend engagement (27 Jun 10:18, IMPORTANT)
 - **Bob Smith** (Bob@krateosky.com, Krateo Sky) — Escalating (25 Jun); "Technology improvements for Canadian demo" thread marked IMPORTANT
 - **Joel Scott** (joel@joelscott-ts.com) — IMPORTANT external consultant or advisor
 - **Tanay Topac** (tanaytopac@stanford.edu, Stanford) — IMPORTANT; "MHP data alignment"; atmospheric research collaboration
-- **Geoff** (gb.aerokats@gmail.com) — **NEW; ESCALATING; HIGH PRIORITY** (27 Jun 13:24–21:12, 4 bidirectional exchanges marked IMPORTANT); "Aeropod - Profiler Data"; sustained weekend dialogue suggests urgent technical/operational coordination
-- **Juan Pablo Arroyo-Mora** (JuanPablo.Arroyo-Mora@nrc-cnrc.gc.ca, NRC-CNRC) — **ESCALATING; INTERNATIONAL GOVERNMENT** (27 Jun 09:44 Maciej sent; 13:24 Juan Pablo replied IMPORTANT); Canadian federal research institution; Maciej direct engagement
+- **Geoff** (gb.aerokats@gmail.com) — **SUSTAINED HIGH PRIORITY; CONTINUING INTO 28 JUN** (28 Jun 18:29, bidirectional with Jack Elston, marked IMPORTANT); "Aeropod - Profiler Data"; sustained weekend dialogue into Monday indicates ongoing technical/operational coordination
+- **Juan Pablo Arroyo-Mora** (JuanPablo.Arroyo-Mora@nrc-cnrc.gc.ca, NRC-CNRC) — **ESCALATING; INTERNATIONAL GOVERNMENT** (27 Jun); Canadian federal research institution
+- **Sam Hild** (sam.hild@blackswifttech.com) — **ESCALATING (28–29 Jun); TECHNICAL PROCUREMENT COORDINATION**
+  - 28 Jun 11:39: direct engagement with PCBWay on Bartington magnetometer ADC sample pictures (IMPORTANT)
+  - Intermediary on PCBWay technical specifications and custom board coordination
+  - Links to QuSpin and Bartington sensor integration efforts
 
 **Key External Contacts & Organizations:**
 
-- **Krateo Sky** — **CRITICAL ACTIVE PARTNERSHIP; ESCALATING THROUGH WEEKEND**
+- **Krateo Sky** — **CRITICAL ACTIVE PARTNERSHIP; SUSTAINED ESCALATION**
   - Ariel Avitan: GTM strategy (6+ exchanges, 24 Jun, IMPORTANT)
   - Brian Grubel: Technical job description (6+ exchanges, 24–27 Jun, IMPORTANT, sustained weekend engagement)
   - Bob Smith: Technology improvements for Canadian demo (25 Jun 16:13, IMPORTANT)
@@ -42,50 +48,34 @@
 
 - **Stanford University** (Tanay Topac) — **ACTIVE BIDIRECTIONAL** (26 Jun); MHP data alignment; atmospheric/meteorological research collaboration
 
-- **Canadian Research Network / NRC-CNRC** — **MAJOR NEW ESCALATION (27 Jun)**
-  - Juan Pablo Arroyo-Mora (JuanPablo.Arroyo-Mora@nrc-cnrc.gc.ca) — **IMPORTANT, BIDIRECTIONAL** (27 Jun 09:44 Maciej initiates; 13:24 Juan Pablo replies IMPORTANT)
-  - Maciej direct outreach; federal research institution liaison; likely connected to Krateo Sky Canadian demo field trial expansion
+- **Canadian Research Network / NRC-CNRC** — **MAJOR ESCALATION (27 Jun); ONGOING**
+  - Juan Pablo Arroyo-Mora (JuanPablo.Arroyo-Mora@nrc-cnrc.gc.ca) — **IMPORTANT, BIDIRECTIONAL** (27 Jun)
+  - Maciej direct outreach; federal research institution liaison; connected to Krateo Sky Canadian demo field trial expansion
 
 - **NanoVeu** (Nikhila Ravikumar, Nikhila@nanoveu.com) — **OPERATIONAL** (26 Jun 18:46); "ECSDOT Flights for 26 June 2026" marked IMPORTANT; active flight operations coordination
 
 - **Joel Scott Consulting** (joel@joelscott-ts.com) — External advisor; role/domain still unclear but sustained IMPORTANT status
 
-- **Aeropod / Geoff Contact** (gb.aerokats@gmail.com) — **NEW; ESCALATING RAPIDLY (27 Jun)**
-  - 4 messages in 8-hour window (13:24–21:12, all marked IMPORTANT)
-  - Subject: "Aeropod - Profiler Data"
-  - Bidirectional with Jack Elston (not Maciej directly in thread, but Maciej visible in organizational context)
-  - Suggests urgent technical/operational profiler data coordination; weekend engagement indicates high priority
+- **Aeropod / Geoff Contact** (gb.aerokats@gmail.com) — **SUSTAINED HIGH PRIORITY (27–28 Jun)**
+  - 28 Jun 18:29: Geoff reply to Jack Elston on "Aeropod - Profiler Data" (IMPORTANT, bidirectional)
+  - Suggests ongoing technical/operational profiler data coordination; weekend engagement into early week indicates sustained urgent priority
 
-- **UK Ministry of Defence / Canadian Armed Forces** — **NEW; STRATEGIC OUTREACH (27 Jun 09:27)**
-  - Jack Elston introduction (IMPORTANT) to:
-    - Simon Laurence (Simon.Laurence157@mod.gov.uk, UK MOD)
-    - Jean-Philippe Oudet (jean-philippe.oudet@forces.gc.ca, Canadian Armed Forces)
-    - Maciej Stachura CC'd
-  - Subject: "Introduction"
-  - Signals **government/military partnership expansion** aligned with Canadian demo initiative
+- **PCBWay Online Services** (feedback09@pcbway.com) — **NEW; ESCALATING TECHNICAL PROCUREMENT (28–29 Jun)**
+  - 28 Jun 18:37: PCBWay sends sample pictures for order T-S100W700226A, "bartington_mag_adc" (IMPORTANT)
+  - 28 Jun 11:39: Sam Hild direct response to PCBWay (IMPORTANT, CATEGORY_FORUMS)
+  - 29 Jun 15:27: Follow-up coordination (UNREAD, IMPORTANT)
+  - **SIGNAL:** Custom PCB board ("bartington_mag_adc") for Bartington magnetometer ADC integration; active sample validation and technical iteration in progress
+  - Indicates hardware sensor integration work (magnetometer/ADC subsystem) on active development timeline
+
+- **UK Ministry of Defence / Canadian Armed Forces** — **STRATEGIC OUTREACH (27 Jun)**
+  - Simon Laurence (Simon.Laurence157@mod.gov.uk, UK MOD)
+  - Jean-Philippe Oudet (jean-philippe.oudet@forces.gc.ca, Canadian Armed Forces)
+  - Signals government/military partnership expansion aligned with Canadian demo initiative
 
 **Internal BST Contacts:**
-- **Jack Elston** — Primary internal hub; now actively coordinating international government/military introductions (27 Jun 09:27, UK MOD & Canadian AF)
+- **Jack Elston** — Primary internal hub; coordinating international government/military introductions and Aeropod liaison (27–28 Jun)
+- **Sam Hild** — **ESCALATING (28–29 Jun)** technical procurement coordination; Bartington ADC/magnetometer integration; QuSpin relay
 - **Beck Cotter** — CCRPP and NASA SBIR/STTR funding coordination
-- **Daniel Prendergast** — Supply chain, logistics, technical coordination; ECSDOT flight operations (26 Jun)
+- **Daniel Prendergast** — Supply chain, logistics, technical coordination; ECSDOT flight operations
 - **Joshua Fromm** — NASA SBIR/STTR opportunity
-- **Sam Hild** — QuSpin technical relay
-- **Meredith Needham** — Navy STTR final report responsibility (26 Jun, calendar event)
-
-**Suppliers/Vendors (automated/secondary):**
-- **McMaster-Carr, Spindrift, Utmel Electronics, YT Carbon Fiber** — Logistics/procurement (27 Jun)
-- **Constant Contact, Pirate Ship, Harbor Freight, Amazon.com** — Automated receipts/promotions
-
----
-
-## Topic Patterns
-
-**Active/Escalating Work Areas:**
-
-1. **Krateo Sky Partnership Finalization** — **CRITICAL; HIGH PRIORITY**
-   - Google Drive folder: "2026-06-25 Final Agreement Docs" shared by Jack Elston (26 Jun 11:37)
-   - Sona Raziabeegum compensation discussion (26 Jun 16:39, IMPORTANT, bidirectional with Jack Elston)
-   - Brian Grubel technical job description thread continues through weekend (27 Jun 10:18, IMPORTANT)
-   - **Timeline indicator:** Agreement docs dated 2026-06-25; shared 26 Jun morning; legal/technical coordination sustained through 27 Jun
-
-2. **Krateo Sky Canadian Field Demo / Government
+- **Meredith Needham** — Navy ST

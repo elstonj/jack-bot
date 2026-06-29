@@ -27,7 +27,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - NREL (prospective customer - E2 training request, June 19, 2026)
 - Tanay (prospective customer/contact - scheduling discussions underway, June 21, 2026)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: June 23, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: June 28, 2026.
 
 ---
 
@@ -103,4 +103,8 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - **Issue identified (May 12, 2026):** Unit lacks old 14" prop; Josh Fromm noted discrepancy
 - **XML Configuration Review (May 12, 2026):** Jack Elston directed verification against S2 master setup; Nate confirmed XML check was completed before flap servo replacement
 
-**NASA S2 Delivery -
+---
+
+## Projects & Initiatives
+
+###

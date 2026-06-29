@@ -145,4 +145,4 @@
 
 ---
 
-### **Indirect Costs (Facilities & Shop Operations
+### **Indirect Costs: $851,970.

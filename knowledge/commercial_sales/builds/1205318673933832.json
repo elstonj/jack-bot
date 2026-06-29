@@ -1,6 +1,6 @@
 {
-  "asana_gid": "1205971100510799",
-  "asana_task_name": "[1313] ERAU 4 S0 VTOL",
+  "asana_gid": "1205318673933832",
+  "asana_task_name": "[1298] ERAU - S0 & S0 VTOL deployment ",
   "customer": "Embry-Riddle Aeronautical University",
   "customer_contact": "Kevin Adkins",
   "customer_email": "adkinsk@erau.edu",
@@ -10,23 +10,11 @@
     {
       "description": "S0 UAS - VTOL",
       "quantity": 2
-    },
-    {
-      "description": "Samsung Galaxy Tab Active2",
-      "quantity": 1
-    },
-    {
-      "description": "SwiftStation\u2122 Ground Station",
-      "quantity": 1
-    },
-    {
-      "description": "S0 Case",
-      "quantity": 1
     }
   ],
   "payment_state": "paid",
-  "build_state": "in_qc",
-  "ship_state": "none",
+  "build_state": "complete",
+  "ship_state": "delivered",
   "estimate_date": null,
   "invoice_date": "2025-05-07",
   "invoice_amount": 21181.81,
@@ -36,28 +24,49 @@
     {
       "name": "S0 VTOL airframe",
       "ordered": true,
-      "received": false,
+      "received": true,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    },
+    {
+      "name": "Flight controller",
+      "ordered": true,
+      "received": true,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    },
+    {
+      "name": "ESC",
+      "ordered": true,
+      "received": true,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    },
+    {
+      "name": "Servos",
+      "ordered": true,
+      "received": true,
       "vendor": "Black Swift Technologies",
       "order_date": null
     },
     {
       "name": "Samsung Galaxy Tab Active2",
       "ordered": true,
-      "received": false,
-      "vendor": "Black Swift Technologies",
+      "received": true,
+      "vendor": "Samsung",
       "order_date": null
     },
     {
       "name": "SwiftStation Ground Station",
       "ordered": true,
-      "received": false,
+      "received": true,
       "vendor": "Black Swift Technologies",
       "order_date": null
     },
     {
       "name": "S0 Case",
       "ordered": true,
-      "received": false,
+      "received": true,
       "vendor": "Black Swift Technologies",
       "order_date": null
     }
@@ -70,8 +79,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "KEEP via QBO Invoice 1667 (paid 2025-05-07, $21,181.81). Two S0 VTOL units in QC with receive_by 2026-08-31 for ISARRA Flight Week. Recent email (2026-05-21) confirms Jack Elston agreed to deliver by August/September for ISARRA campaign, with option to ship directly to event site. Build tracking bug noted in March 2026 email; Beck reported ongoing flight testing. Note: separate Invoice 1730 ($2,462.50, Jan 2026, unpaid balance) is follow-on item unrelated to this core 2-unit build.",
-  "missing_fields": [],
+  "notes": "Two S0 VTOL units paid in full (Invoice 1667, 2025-05-07, $21,181.81). Legal disclosure indicates delivery was expected but delayed; settlement agreement planned per May 2026 internal email chain. This is the primary VTOL order; earlier Invoice 1545 (2023-01-10, $15,028.39) was for a separate/earlier VTOL unit. Current task marked 'Closed' in Asana with $0 custom fields, but KEPT due to QBO Invoice 1667 matching this order\u2014payment and delivery status override stale Asana metadata.",
+  "missing_fields": [
+    "receive_by",
+    "shipped_date",
+    "tracking_number"
+  ],
   "last_evidence_date": "2026-06-24",
   "last_contact_date": "2026-05-21"
 }

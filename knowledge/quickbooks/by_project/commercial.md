@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $2,986,489.34
-- **Total Expenses (Bills + Purchases):** $240,863.11
+- **Total Expenses (Bills + Purchases):** $240,883.11
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,745,626.23 (Revenue exceeds expenses)
+- **Net Position:** $2,745,606.23 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – July 2, 2026
 
 ---
@@ -113,14 +113,14 @@
 ---
 
 ### **Shipping/Freight** (Direct Cost Shipping, Freight & Delivery)
-**Total: $1,386.30** | 13 transactions | Largest item: $1,112.81
+**Total: $1,406.30** | 14 transactions | Largest item: $1,112.81
 
 | Date | Vendor/Description | Amount | Details |
 |------|-------------------|--------|---------|
 | 2026-07-02 | Purchase #260614W010104 | $20.00 | Shipment of Model S0 to Embry Riddle |
 | 2026-06-11 | Aeronet Worldwide — Bill #103032173 | $1,112.81 | Shipping S3 to UMES |
 | 2026-06-10 | PIRATE SHIP * POSTAGE - 7333 | $53.49 | Shipment of Model S0 to Embry Riddle (invoice 1730) |
-| Prior | Prior transactions | $200.00 | From previous file (10 prior items) |
+| Prior | Prior transactions | $220.00 | From previous file (10 prior items) |
 
 **Account:** DIRECT COSTS: DC-Direct Cost Shipping, Freight & Delivery
 

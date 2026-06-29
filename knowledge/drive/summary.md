@@ -1,56 +1,68 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-06-28 02:12
+Last scanned: 2026-06-29 02:14
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 2 files — [federal_projects.md](federal_projects.md)
-- **Sales** — 0 files — [sales.md](sales.md)
+- **Federal Projects** — 3 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 3182 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Shared Drive Strategic Overview
+# Black Swift Technologies — Strategic Drive Overview
 
-## Summary
+## Summary Statistics
+- **Total files across drives:** 3,188
+- **Active drives:** 2 (Federal Projects, Sales)
+- **Organization quality:** Highly uneven — Sales well-structured by asset type; Federal Projects minimal
 
-BST's shared drive infrastructure is **severely underdeveloped** with minimal documentation across the organization. Only 2 files exist across all accessible drives, presenting significant operational and compliance risks.
+---
 
-## Key Findings
+## Drive Breakdown
 
-| Metric | Status |
-|--------|--------|
-| Total Documents | 2 files |
-| Drives Audited | 2 shared drives |
-| Organization Quality | Poor |
-| Active Documentation | Minimal |
+### Sales Drive (99.9% of content)
+**3,182 files | 6 folders | Single modification date: 2026-06-28**
 
-## Drive-by-Drive Analysis
+**Organization:** Asset-based structure by sensor/platform type
+- **Sony camera imagery:** 1,856 files (58% of drive) — organized as JPG exports
+- **FLIR thermal data:** 1,285 files (40% of drive) — large thermal imagery dataset
+- **Aerial platform assets:** 36 files — TAG_*.CSV exports (likely flight/sensor metadata)
+- **CO2 assets:** 4 files (minimal)
+- **Empty folder:** mhp (possible placeholder or deprecated project)
 
-**Federal Projects**
-- Contains 2 video files (RC_VID_0008.MOV, RC_VID_0009.MOV)
-- Last modified: January 24, 2099 (appears to be data entry error)
-- No folder structure or contracts/proposals visible
-- **Concern**: Federal work typically requires extensive documentation (contracts, compliance records, deliverables)
+**Key observation:** All content modified on same date (2026-06-28), suggesting bulk export/migration event rather than ongoing operations.
 
-**Sales**
-- Completely empty
-- **Concern**: No proposals, client records, or sales documentation
+### Federal Projects Drive (0.1% of content)
+**3 files | Minimal organization**
 
-## Critical Observations
+- 2 video files (RC_VID_0008/0009.MOV) — modified 2099-01-24 (date anomaly)
+- 1 progress report — modified 2026-06-29
 
-🚨 **High Priority Issues:**
-- Virtual absence of business documentation (only 2 files total)
-- No visible client/project folders
-- No templates or shared resources identified
-- No naming conventions in evidence
-- Timestamp anomaly suggests data quality issues
+**Concern:** Extremely sparse for federal work; likely incomplete or represents subset of activity.
 
-## Recommendations
+---
 
-1. **Audit scope** — Verify whether other critical drives exist outside this review
-2. **Federal compliance** — Assess whether project documentation exists elsewhere (risk for federal contracts)
-3. **Sales enablement** — Establish proposal templates and client documentation structure
-4. **Governance** — Implement naming conventions and folder hierarchy across all drives
-5. **Data integrity** — Investigate timestamp anomalies in Federal drive metadata
+## Strategic Observations
+
+| Finding | Detail |
+|---------|--------|
+| **Primary focus** | Sensor data management (aerial imaging, thermal) |
+| **Naming conventions** | Consistent (TAG_*.CSV, DSC*.JPG, RC_VID_*.MOV) |
+| **Cross-drive patterns** | Sales = raw assets; Federal = contractual/reporting docs (minimal) |
+| **Active clients** | Not clearly identified from file names; likely mapped to folder names (sony, flir, ap) |
+| **Templates/resources** | FLIR manual present; no shared templates observed |
+
+---
+
+## Areas Requiring Attention
+
+⚠️ **Critical issues:**
+1. **Federal Projects severely underdocumented** — Only 3 files for federal contracts/projects
+2. **Date anomaly** — Federal video files show 2099 modification date (data integrity issue)
+3. **Stale content** — All Sales files from single date; no evidence of ongoing updates
+4. **No visible proposals/contracts** — Sales drive contains only raw assets; sales collateral may be elsewhere
+5. **mhp folder empty** — Possible abandoned project or organizational debt
+
+**Recommendation:** Verify Federal Projects completeness and investigate data migration event on 2026-06-28.
