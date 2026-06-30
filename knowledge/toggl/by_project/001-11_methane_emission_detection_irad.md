@@ -4,13 +4,13 @@
 - Client: [001] IRAD (Internal Research and Development)
 - Active/inactive status: Active
 - Billable status: Non-billable
-- Total hours tracked: 280.1 hours
+- Total hours tracked: 283.5 hours
 
 ## Team Allocation
-- **Stachura**: 129.0 hours (46.0% - Primary contributor)
-- **Jack Elston**: 118.1 hours (42.2% - Co-lead)
-- **Karen Young**: 23.8 hours (8.5% - Administrative support)
-- **Josh Fromm**: 9.2 hours (3.3% - Minor contributor)
+- **Stachura**: 132.4 hours (46.7% - Primary contributor)
+- **Jack Elston**: 118.1 hours (41.7% - Co-lead)
+- **Karen Young**: 23.8 hours (8.4% - Administrative support)
+- **Josh Fromm**: 9.2 hours (3.2% - Minor contributor)
 
 ## Activity Timeline
 Recent work shows active development and testing phases:
@@ -27,6 +27,7 @@ Recent work shows active development and testing phases:
 - NetCDF format updates
 - Code library cleanup and version 2.0.0 updates
 - Post-flight data processing
+- Recent work entry (3.4h) — description not provided
 
 **Administrative Tasks** (Karen Young):
 - Expense tracking and monthly invoicing
@@ -47,5 +48,6 @@ Recent work shows active development and testing phases:
 - FluxMapper partnership activities (BST-FM standups, proposals)
 - Regular administrative maintenance for compliance and invoicing
 - Recent focus on system integration and MVP validation
+- Stachura continues as primary contributor with ongoing development work
 
-The project appears to be in an active development phase with significant field testing and data processing work supporting methane detection capabilities.
+The project remains in active development phase with significant field testing and data processing work supporting methane detection capabilities.

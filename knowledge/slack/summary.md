@@ -1,49 +1,49 @@
 # Slack Channels Overview
 
-Last scanned: 2026-06-29 02:11
+Last scanned: 2026-06-30 02:13
 
-Total channels scanned: 4
+Total channels scanned: 3
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 2 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#commercial-sales** -- 2 messages -- [commercial-sales.md](commercial-sales.md)
-- **#flight-testing** -- 8 messages -- [flight-testing.md](flight-testing.md)
-- **#general** -- 3 messages -- [general.md](general.md)
+- **#25_1-navy-sbir-magnetometer** -- 18 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#flight-testing** -- 11 messages -- [flight-testing.md](flight-testing.md)
+- **#sbir-hurricane** -- 43 messages -- [sbir-hurricane.md](sbir-hurricane.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Cross-Channel Strategic Overview
+# Black Swift Technologies Slack Strategic Overview
 
-## Active Projects
-- **Navy SBIR Magnetometer**: Integration of QuSpin magnetometers with aircraft for Magnetic Anomaly Detection (MAD); led by Beck Cotter, Maciej, Tyler, with Jack Elston and Joshua Fromm involved
-- **Flight Testing Operations**: Continuous testing across multiple platform types (S-series fixed-wing, E2/Flamewheel multirotor, S0/S1-VTOL/S3 VTOL systems)
-- **Commercial Aircraft Delivery**: S-series, E2, S0, S0-VTOL, and S3 systems sold to universities, government agencies (NASA, NOAA), and international customers
+## Cross-Channel Themes
 
-## Key People & Roles
-- **Jack Elston**: Leadership, firmware development
-- **Maciej**: Flight testing lead, analysis
-- **Joshua Fromm**: QA, component sourcing
-- **Beck Cotter**: SBIR magnetometer project lead
-- **Dan Prendergast**: Business development, operations
-- **Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Ben Busby**: Operational support across functions
+### Active Projects
+- **SBIR Hurricane (S0 UAS)**: Primary focus in #sbir-hurricane; hurricane reconnaissance platform with extensive technical development (2020-2026)
+- **Navy SBIR Magnetometer**: MAD (Magnetic Anomaly Detection) system integration with QuSpin magnetometers across BST aircraft platforms
+- **Flight Testing Operations**: Active across multiple aircraft platforms (S-series, E2, Flamewheel, VTOL variants)
 
-## Decision Patterns
-- **Technical-first approach**: Flight testing and payload integration drive project decisions
-- **Cross-functional coordination**: Engineering (Maciej), QA (Joshua), and leadership (Jack) continuously align
-- **Customer-centric delivery**: Commercial sales channel tracks full project lifecycle from quote through support
+### Key People & Roles
+| Person | Primary Role(s) | Channels |
+|--------|-----------------|----------|
+| **Maciej** | Lead flight testing, analysis | #flight-testing, #sbir-hurricane, #25_1-navy-sbir-magnetometer |
+| **Jack Elston** | Firmware development, technical lead | #flight-testing, #sbir-hurricane, #25_1-navy-sbir-magnetometer |
+| **Joshua Fromm** | QA, component sourcing | #flight-testing, #sbir-hurricane, #25_1-navy-sbir-magnetometer |
+| **Beck Cotter** | Project coordination | #sbir-hurricane, #25_1-navy-sbir-magnetometer |
+| **Sam Hild** | Technical contributor | #sbir-hurricane, #25_1-navy-sbir-magnetometer |
+| **Alex Lomis** | Technical contributor | #sbir-hurricane, #25_1-navy-sbir-magnetometer, #flight-testing |
 
-## Recurring Topics
+### Decision Patterns
+- **Technical-first approach**: Detailed firmware, hardware, and integration discussions precede operational decisions
+- **Collaborative troubleshooting**: Issues escalated across channels when multi-platform implications exist
+- **Milestone-driven**: SBIR projects with structured deliverables shape activity cycles
 
-| Theme | Channels | Details |
-|-------|----------|---------|
-| Firmware/Software Updates | #flight-testing, #general | Ongoing development and deployment across aircraft platforms |
-| Payload Integration | #25_1-navy-sbir-magnetometer, #commercial-sales | Magnetometer and specialized equipment deployment |
-| Fleet Operations | #flight-testing, #general | Maintenance, testing schedules, and platform performance |
-| Customer Relationships | #commercial-sales, #general | Order management, delivery coordination, international engagement |
-| Component Sourcing | #flight-testing, #general | Parts availability and QA tracking |
+### Recurring Topics
+- Aircraft platform integration and compatibility
+- Payload sensor systems (magnetometers, reconnaissance equipment)
+- Flight testing coordination and troubleshooting
+- Firmware/software development and testing cycles
+- Mission planning and operational deployment
 
-## Cross-Channel Connections
-- **Flight testing insights feed commercial delivery**: Platform performance data from #flight-testing informs customer specifications and timelines in #commercial-sales
-- **SBIR project influences platform capabilities**: Magnetometer integration work advances aircraft payload capacity for broader commercial applications
-- **Centralized updates**: #general serves as synchronization point where decisions from specialized channels (#flight-testing, #25_1-navy-sbir-magnetometer) cascade to full organization
+### Cross-Channel Connections
+- **Shared expertise network**: Core technical team (Maciej, Jack, Joshua, Beck) actively engaged across all three channels
+- **Platform continuity**: S0 aircraft developed in #sbir-hurricane undergoes testing in #flight-testing and integration work in #25_1-navy-sbir-magnetometer
+- **SBIR projects**: Both SBIR initiatives (#sbir-hurricane and #25_1-navy-sbir-magnetometer) share personnel, testing infrastructure, and technical solutions

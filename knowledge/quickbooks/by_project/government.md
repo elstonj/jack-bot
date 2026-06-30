@@ -76,14 +76,17 @@
 
 ---
 
-### **Materials & Supplies: $472,625.63**
-**Number of transactions:** 210  
+### **Materials & Supplies: $472,622.22**
+**Number of transactions:** 212  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
   - **DKC*DIGI KEY CORP - 4617** (2026-06-17): $170.70 [DC-Direct Material Purchases]
   - **DKC*DIGI KEY CORP - 4617** (2026-06-03): $38.57 [DC-Direct Material Purchases]
   - **DKC*DIGI KEY CORP - 4617** (2026-06-01): $45.29 [DC-Direct Material Purchases]
-- **JAWSTEC:** $19,627.62 (components for S0 platforms)
+- **JAWSTEC:** 
+  - Prior balance: $19,627.62
+  - **Purchase #69631** (2026-06-29): **$562.44** [DC-Direct Material Purchases] — IDIQ components shipped to Sean Cole
+  - **Updated JAWSTEC total: $20,190.06**
 - **Amprius battery systems:** $28,637.13 (wire transfers, 01/06/26) + $399.00 (2026-04-29) + $399.00 (2026-05-01) + $399.00 (2026-05-14)
   - **Total Amprius: $29,834.13**
 - **Microwave Filter Company / Pressure sensor imports:** $46,079.48 (tariffs included)
@@ -99,8 +102,9 @@
 - **PCB boards, stencils, parts sourcing:** ~$30,000+
 - **Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head** (2026-05-07): $479.80 [DIRECT COSTS] + $306.08 [Inventory Asset]
   - **Direct Cost Materials & Supplies impact: $479.80**
+- **Amazon MKTPL*4Z8IL5283** (2026-06-29): **$34.59** [DC-Direct Material Purchases] — 64GB PNY Elite-X Fit USB 3.1 Flash Drive
 
-**Recent transactions (2026-06-24 to 2026-06-27):**
+**Recent transactions (2026-06-24 to 2026-06-29):**
 - **Purchase #0624JELSTON** (2026-06-24): 
   - $2.58 [DC-Direct Material Purchases] — By Light Supplies
   - $20.93 [DC-Direct Material Purchases] — Navy Magnetometer
@@ -113,10 +117,12 @@
   - $53.70 — Materials IDIQ
   - $138.40 — Materials for [550-1] Navy Magnetometer
   - Subtotal materials: **$192.10**
+- **Purchase #69631** (2026-06-29): **$562.44** [DC-Direct Material Purchases] — JAWSTEC IDIQ components
+- **Amazon MKTPL*4Z8IL5283** (2026-06-29): **$34.59** [DC-Direct Material Purchases] — USB Flash Drive
 
-**Subtotal new materials & supplies (2026-06-24 to 2026-06-27): $1,545.78**
+**Subtotal new materials & supplies (2026-06-24 to 2026-06-29): $2,142.41**
 
-**Total direct cost materials & supplies through 2026-09-28: $472,625.63** *(confirmed final)*
+**Total direct cost materials & supplies through 2026-09-28: $472,622.22** *(confirmed final)*
 
 ---
 
@@ -134,15 +140,4 @@
 - **Purchase #260531W011484** (2026-06-18): **$93.17** [DC-Direct Cost Shipping, Freight & Delivery]
   - Phase1 Aviation shipment for IDIQ (S0 wings)
 - **Purchase (Pirate Ship Postage)** (2026-06-10): **$102.08** [DC-Direct Cost Shipping, Freight & Delivery]
-  - Shipment from Paramount Tube to Lee Skidmore (2026 IDIQ)
-- **Purchase (PIRATE SHIP * POSTAGE)** (2026-06-26): **$9.52** [DC-Direct Cost Shipping, Freight & Delivery]
-  - Return Gateworks item (Digi-Key invoice 115505927)
-- **Earlier transactions (through 2026-06-09):** $749.19 cumulative
-- **Earlier transactions (2026-06-10 to 2026-06-16):** $182.81 cumulative
-- **Earlier transactions (2026-06-17 to 2026-06-23):** $180.52 cumulative
-
-**Total shipping/freight through 2026-09-28: $1,497.57** *(confirmed final)*
-
----
-
-### **Indirect Costs: $851,970.
+  - Shipment from Paramount Tube to Lee Skidmore (2

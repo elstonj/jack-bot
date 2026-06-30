@@ -1,16 +1,21 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 3,057 (3,042 previous + 15 new from Jun 28-29, 2026)
-- **Date range:** March 24 – June 29, 2026 (98 days)
-- **Approximate volume:** ~31.2 messages per day (sustained consistency)
-- **Pattern update (Jun 28-29, 2026):** **~87% automation/newsletters/news/promotions** (13 of 15 messages)
-  - **Direct human correspondence:** 1 critical message from Sona Raziabeegum (Krateosky partnership escalation — marked IMPORTANT)
-  - **New LinkedIn intelligence signal:** Scripps Institution of Oceanography activity flagged IMPORTANT (marked by system)
-  - **Sustained news consumption:** NY Times (4 messages: breaking news, editor picks, morning digest), Inside Climate News podcast promo, The Athletic
-  - **Emerging topic signal:** Agritecture Weekly (spinach/agriculture tech) — new vertical, likely promotional but flagged in promotions category
-  - **Recruiting/networking activity:** LinkedIn invitation, Scripps post notification
-  - **Retail/logistics:** Target (2), Staples travel promotions
+- **Total messages scanned:** 3,117 (3,057 previous + 60 new from Jun 29-30, 2026)
+- **Date range:** March 24 – June 30, 2026 (99 days)
+- **Approximate volume:** ~31.5 messages per day (sustained consistency)
+- **New batch composition (Jun 29-30, 2026):** ~80% automation/newsletters/news/promotions (48 of 60 messages)
+  - **Direct human correspondence:** 12 critical messages (20% of batch)
+    - **IDEX 2026 (Abu Dhabi):** 4 messages from Shahla Abdul Karim (ADNEC) — escalating response pattern, multiple IMPORTANT flags
+    - **DroneX 2026 (Uncrewed Tech Expo):** 2 messages (IMPORTANT) — direct coordination with Paige
+    - **Dubai Airshow 2027:** Direct outreach from Adam Zeyn (Informa) — marked IMPORTANT
+    - **ECSDOT Flights:** Ongoing coordination (Mark Goranson/NanoVEU, Jack Elston, Daniel Prendergast) — 6+ messages, multiple IMPORTANT flags
+    - **Krateosky Partnership:** 1 message from Jack Elston RE: Announcement — continuation of Jun 28-29 escalation
+    - **LinkedIn Recruiting/Engagement:** 3 messages (Engineering Design requests, post impressions, pending response from Sarvesh)
+  - **Defense/Aerospace Intelligence:** 5 IMPORTANT messages from Air & Space Forces Magazine + NY Times breaking news (Supreme Court, Iran-U.S. conflict)
+  - **Professional Intelligence Feeds:** UASweekly, Commercial UAV News, Loitering Munitions Hub, UAS VISION
+  - **Industry Partnership Outreach:** European Battery Manufacturing Partner (Perkons Energy), MundoGEO publication portal, ProBuilding Care Solutions
+  - **Retail/Promotional Noise:** Target, Staples (6 messages), NY Times subscription offer, BannerBuzz, ShopAFA, Adobe, Canva, Artlist, AIOSEO, Elementor, ChatGPT
 
 ---
 
@@ -19,109 +24,65 @@
 ### Top Internal Senders & Collaborators
 
 **Jack Elston** (elstonj@blackswifttech.com / media@blackswifttech.com)
-  - Primary conduit for Krateosky partnership announcements
-  - **Status:** Active — included on Jun 29 RE: Announcement from Sona Raziabeegum (IMPORTANT)
+- **Status:** Highly active in new batch
+- **Roles visible:**
+  1. **Krateosky Partnership:** Direct coordination with Sona Raziabeegum (Jun 29, 07:10:16 -0600) — "RE: Announcement [IMPORTANT]"
+  2. **ECSDOT Flight Operations:** Multiple messages coordinating with Mark Goranson (NanoVEU) and Daniel Prendergast on Jun 29 flights (4 messages across chain, all IMPORTANT)
+  3. **Media/Communications:** Receives UAS VISION daily news (Jun 29, 09:07:36 UTC)
+- **Pattern:** Primary operational liaison for partnerships, flight testing, and external communications
 
 **Daniel Prendergast** (daniel.prendergast@blackswifttech.com)
-  - Operational flight/testing coordination (ECSDOT program)
-  - **Status:** No new messages in this batch
-
-### Top External Senders & Vendors
-
-#### **Krateosky — PARTNERSHIP ESCALATION (CRITICAL PHASE)**
-
-**Sona Raziabeegum** (sona@krateosky.com)
-  - **Jun 29, 05:28:12 UTC: RE: Announcement [UNREAD, IMPORTANT]**
-  - Direct coordination with Jack Elston + Paige Smith
-  - **NEW SIGNAL:** Response pattern indicates announcement phase moving to execution/finalization
-  - **Status:** ACTIVE — announcement imminent or under approval
-
-#### **HubSpot — CRM EVALUATION (SUSTAINED)**
-
-**thehubspotteam@hubspot.com**
-  - Jun 28, 11:30:11 -0400: Educational content (shortcut/workflow tips)
-  - **Status:** Ongoing engagement (no escalation messages, but resource/educational outreach continuing)
-
-#### **The New York Times (Multiple Feeds — SUSTAINED INTELLIGENCE PATTERN)**
-
-**editorpicks@nytimes.com**
-  - Jun 28, 21:15:27 UTC: **"Where billionaires summer, a gardener died in the snow"** [UNREAD]
-  - Jun 28, 15:51:30 UTC: **"Opinion: Some leftists are boycotting this film. Everyone should watch it."** [UNREAD]
-
-**nytdirect@nytimes.com**
-  - Jun 28, 11:44:31 UTC: **"The Morning: Dear diary"** [UNREAD, IMPORTANT]
-
-**breakingnews@nytimes.com**
-  - (No new messages in this batch, but pattern continues from Jun 28)
-
-**SIGNAL:** 4 distinct NY Times feeds + IMPORTANT flag on morning digest. Indicates **curated daily intelligence consumption** — not casual news reading but structured information gathering (opinion, long-form investigations, breaking alerts, digestized briefing).
-
-#### **LinkedIn — Sustained Recruiting & Intelligence Signal**
-
-**updates-noreply@linkedin.com**
-  - Jun 29, 02:59:52 UTC: **"Scripps Institution of Oceanography recently posted"** [UNREAD, IMPORTANT]
-  - **NEW SIGNAL:** Scripps (marine science/oceanography research institution) posting activity monitored and flagged IMPORTANT by system. Suggests either:
-    - Follow relationship with Scripps institution (possible partnership/research interest)
-    - Interest in oceanographic/marine sensor/autonomous systems
-    - BST considering oceanographic applications for UAV/sensor platforms
-
-**notifications-noreply@linkedin.com**
-  - Jun 29, 02:21:50 UTC: 1 new invitation [UNREAD]
-  - **PATTERN:** Continued weekly recruiting activity (6+ messages in last 7 days)
-
-#### **Inside Climate News — Environmental Intelligence (SUSTAINED)**
-
-**memberships@insideclimatenews.org**
-  - Jun 28, 10:31:52 UTC: **"Sneak preview: Our new podcast!"** [CATEGORY_PROMOTIONS]
-  - **SIGNAL:** Upgraded from news alerts to podcast/membership content. Indicates deepening engagement with climate/environmental policy intelligence
-
-#### **Unmanned Systems Technology (LinkedIn Newsletter)**
-
-**newsletters-noreply@linkedin.com**
-  - Jun 28, 12:45:44 UTC: **"6 Technical Insights Shaping UAVs, Sensors & Mission-Critical Electronics"** [UNREAD, CATEGORY_UPDATES]
-  - **CORE SIGNAL:** Highly relevant to BST mission. Technical insights on UAV platforms, sensors, electronics. Directly aligned with ECSDOT, NanoVEU coordination, and carbon fiber materials sourcing.
-
-#### **STATION Austin — Community/Venue Activity (NEW)**
-
-**events@stationaustin.org**
-  - Jun 28, 14:02:13 -0500: **"This Week at STATION Austin 🚀 6/29 - 7/3"** [UNREAD, CATEGORY_FORUMS]
-  - **NEW PATTERN:** Events notification routed to media@blackswifttech.com but to Paige. STATION Austin is innovation/startup community space. Suggests either:
-    - BST media team attending/sponsoring events
-    - Paige involved in community engagement/partnership scouting
-  - **Status:** Weekly notification — likely subscription for ongoing event awareness
-
-#### **Agritecture Weekly (NEW VERTICAL)**
-
-**victoria@agritecture.com**
-  - Jun 29, 03:40:47 -0400: **"Solving Spinach's Root-Zone Problem — at 2x Industry Yields"** [CATEGORY_PROMOTIONS, UNREAD]
-  - **NEW SIGNAL:** Agriculture technology newsletter. Content focus: hydroponic/vertical farming yield optimization. Possible signals:
-    - Interest in controlled environment agriculture (CEA) sensors/UAV monitoring applications
-    - Agricultural drone/sensor research collaboration
-    - Purely promotional (unlikely given IMPORTANT flags on other sources)
-  - **Status:** First appearance in dataset — incoming subscriber or recently forwarded
-
-#### **Retail/Logistics (Noise — Not Work-Related)**
-
-**Target, Staples** — promotional consumer shopping feeds (college supplies, luggage deals)
-- **SIGNAL:** Mixed with work emails (PAIGE.SMITH@blackswifttech.com) — either mass forwarding or personal shopping account mapped to work email. Low signal value; consistent with earlier patterns.
-
-#### **The Athletic Pulse (Sports — Outlier)**
-
-**TheAthletic@e1.theathletic.com**
-  - Jun 28, 11:03:01 UTC: **"Buy the USMNT hype"** [UNREAD, IMPORTANT]
-  - **SIGNAL:** Sports subscription (U.S. Men's National Team coverage). Marked IMPORTANT by system — unusual for sports content. May indicate personal interest unrelated to work, or system flag artifact.
+- **Status:** Active in ECSDOT coordination
+- **Role:** Operational flights/testing coordination with NanoVEU (Mark Goranson, Nikhila Ravikumar)
+- **Pattern:** Continues from previous dataset — consistent flight testing liaison
 
 ---
 
-## Topic Patterns
+### Top External Senders & Partners
 
-### High-Priority Defense/Aerospace Topics (SUSTAINED)
-- **Boeing CCA (Collaborative Combat Aircraft):** Multi-message policy briefing coverage
-- **Iran/U.S. Geopolitical Conflict:** Real-time breaking news tracking (sustained through Jun 28)
-- **PLA/China Military & Space:** Ongoing intelligence monitoring
-- **Air Force Missile Programs:** Coverage continues
+#### **IDEX 2026 (Abu Dhabi) — ACTIVE EXHIBITION PHASE (CRITICAL)**
 
-### Project/Program Codenames Visible
-- **ECSDOT:** Active flights ongoing (no new messages this batch, but program active)
-- **CCA (Collaborative/Commercial Combat Aircraft):** Strategic decision phase (policy briefing + exercise coverage)
-- **Krat
+**Shahla Abdul Karim** (shahla.karim@adnec.ae) — ADNEC (Abu Dhabi National Exhibition Company)
+- **Jun 30, 04:40:22 UTC: RE: IDEX Book your Stand Enquiry [UNREAD, IMPORTANT]**
+- **Jun 29, 18:38:49 UTC: RE: IDEX Book your Stand Enquiry [IMPORTANT]**
+- **Jun 29, 18:05:03 UTC: RE: IDEX Book your Stand Enquiry [CATEGORY_PROMOTIONS, IMPORTANT]**
+- **Jun 29, 17:06:05 UTC: RE: IDEX Book your Stand Enquiry [IMPORTANT]**
+- **Paige's responses:**
+  - Jun 29, 14:52:18 -0600: Direct reply to Shahla
+  - Jun 29, 12:36:17 -0600: Direct reply to Shahla
+- **SIGNAL:** **4-message exchange in rapid succession (06:00–18:38 UTC on Jun 29)** with multiple IMPORTANT flags = **stand/booth booking finalization** for IDEX 2026. Stand details, payment, or logistics under active negotiation. **Status: EXECUTION PHASE — likely booth confirmed or pending final approval.**
+
+#### **DroneX 2026 / Uncrewed Tech Expo — ACTIVE PARTICIPATION (CONFIRMED)**
+
+**Enquiries DroneX | Part of the Uncrewed Tech Expo** (enquiries@uncrewedtechexpo.com)
+- **Jun 29, 20:58:08 +0100: RE: DroneX 2026 [IMPORTANT]**
+- **Jun 29, 17:01:10 +0100: DroneX 2026 [IMPORTANT]**
+- **Paige's response:**
+  - Jun 29, 10:15:24 -0600: Direct reply to DroneX
+- **SIGNAL:** **Confirmed exhibitor/participant status.** Two IMPORTANT flags + same-day response protocol indicates booth confirmation or speaker/demonstration logistics finalization. **Status: CONFIRMED — booth/participation active.**
+
+#### **Dubai Airshow 2027 — PARTNERSHIP DEVELOPMENT (EARLY PHASE)**
+
+**Adam Zeyn** (Adam.Zeyn@informa.com) — Informa (trade show organizer)
+- **Jun 29, 17:16:21 UTC: Hi Paige - Dubai Airshow 2027 [IMPORTANT]**
+- **Paige's response:**
+  - Jun 29, 12:39:52 -0600: Direct reply to Zeyn
+- **SIGNAL:** Initial outreach from Informa to BST for Dubai Airshow 2027 (2027 timeline). Marked IMPORTANT — indicates strategic value. Likely early booth interest/partnership inquiry. **Status: PARTNERSHIP INQUIRY — early-stage discussion.**
+
+#### **ECSDOT Program (NanoVEU Partnership) — ACTIVE FLIGHT TESTING**
+
+**Mark Goranson** (Mark@nanoveu.com) — NanoVEU Aerospace
+- **Messages in new batch:** 6 exchanges (all IMPORTANT)
+  - Jun 29, 18:02:12 UTC: RE: ECSDOT Flights for 26 June 2026
+  - Jun 29, 17:20:24 UTC: RE: ECSDOT Flights for 26 June 2026
+  - Jun 29, 16:15:52 UTC: RE: ECSDOT Flights for 26 June 2026
+  - Jun 29, 14:35:26 UTC: RE: ECSDOT Flights for 26 June 2026
+  - (Additional messages with Jack Elston and Daniel Prendergast)
+- **Nikhila Ravikumar** (Nikhila@nanoveu.com) — also copied on Jun 29 flight coordination
+- **SIGNAL:** **Active daily flight coordination** for Jun 26 test flights. Multiple same-day responses (17:00–18:00 UTC window) = **real-time operational communication.** Likely reviewing/coordinating flight data, payload performance, or next-phase scheduling. **Status: FLIGHTS ONGOING — program tracking expected continuation.**
+
+#### **Krateosky Partnership (Sona Raziabeegum) — ANNOUNCEMENT PHASE CONTINUATION**
+
+**Jack Elston to Sona Raziabeegum**
+- **Jun 29, 07:10:16 -0600: RE: Announcement [IMPORTANT]**
+- **SIGNAL:** **Continues escalation from Jun 28-29 batch.** Jack's response to

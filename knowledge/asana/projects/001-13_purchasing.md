@@ -3,80 +3,47 @@
 ## Overview
 - **Client/customer:** Internal BST purchasing system (serves all active projects)
 - **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across multiple projects
-- **Timeline:** Ongoing operational project; critical deadline Jun 28, 2026
-- **Status:** **🔴 CRITICAL COLLAPSE — ACTIVE BUT SEVERELY DEGRADED.** Task list has collapsed from 3 open tasks (prior cycle) to **1 open task (67% reduction in 1 cycle).** Two Amazon orders (due Jun 27–28) have disappeared from task list without documented closure, completion records, or archival. **Form-based auto-delete mechanism confirmed as active.** This creates severe audit trail and compliance risk.
+- **Timeline:** Ongoing operational project; most critical deadlines Jun 26–Jul 1, 2026
+- **Status:** **🔴 CRITICAL OPERATIONAL REVERSION — TASK LIST HAS REBOUNDED TO 17 OPEN TASKS.** Prior knowledge file reported catastrophic collapse (3 → 1 task, 67% reduction) attributed to form-based auto-delete mechanism. **NEW DATA CONTRADICTS PRIOR ASSESSMENT:** The missing Amazon orders from prior cycle have now REAPPEARED in task list with status "Order Placed in Inventory" (due Aug 28, 2026), and 15 additional tasks are now visible. **PRIOR COLLAPSE WAS NOT PERMANENT TASK LOSS — TASKS WERE RECLASSIFIED OR TEMPORARILY HIDDEN, NOT DELETED.** However, **workload distribution and assignment responsibility remain severely fragmented** (Meredith: 4/17; Nate: 2/17; Unassigned: 11/17 = 65% dark). No audit trail explains task reappearance or status/due date changes.
 
 - **Team members involved:**
-  - **Meredith O'hara Needham** (project owner; 0/1 current open tasks assigned)
-  - **Nate Straus** (1/1 current open tasks assigned; 100% of current workload)
-  - **Requesters:** Alex (1 task)
+  - **Meredith O'hara Needham** (project owner; 4/17 open tasks assigned = 24%)
+  - **Nate Straus** (2/17 open tasks assigned = 12%)
+  - **Unassigned** (11/17 = 65% — **CRITICAL VISIBILITY GAP**)
+  - **Requesters:** Joshua Fromm (6 tasks), Nate (8 tasks), Alex (1 task), Ethan (2 tasks)
 
 - **Risk signals:**
-  - 🔴 **CATASTROPHIC TASK LOSS:** Open tasks collapsed 67% in one cycle (3 → 1). Prior Amazon orders (due Jun 27–28, assigned to Meredith) now completely absent from task list. **No closure notes, completion records, or archival documentation.** 
-  - 🔴 **AUDIT TRAIL DESTROYED BY DESIGN:** Project notes confirm form-based auto-delete: `"YOUR TASK WILL AUTO DELETE"` if orders placed via form. This means **no historical record of order placement, vendor receipt, requester, project billing, or cost.** Creates compliance/SOX/audit risk if order records required for financial reconciliation or project cost tracking.
-  - 🔴 **UNKNOWN OPERATIONAL STATE:** Cannot determine whether missing Amazon orders were placed externally (form auto-deleted tasks), cancelled, merged, or lost due to system error. **Requires immediate reconciliation.**
-  - 🟡 **IMMINENT DEADLINE:** Remaining task (Sendcutsend) due Jun 28, 2026.
+  - 🔴 **UNEXPLAINED TASK REAPPEARANCE & RECLASSIFICATION:** 11 tasks now visible with status "Order Placed in Inventory" and due date Aug 28, 2026—including Amazon weights and Shop supplies that vanished in prior cycle and are now attributed to different projects/statuses. **No audit trail explaining reclassification, reassignment to "Order Placed in Inventory," or due date change from Jun 27–28 to Aug 28.** This creates compliance/traceability risk.
+  - 🔴 **65% UNASSIGNED WORKLOAD:** 11 of 17 tasks (65%) are unassigned—all status "Order Placed in Inventory." Cannot determine who is responsible for verification, receipt, or invoicing. **Single point of failure if these tasks require action.**
+  - 🟡 **IMMINENT DUE DATES (JUN 26–JUL 1):** 6 tasks due Jun 26–Jul 1; 11 tasks due Aug 28. Immediate action window closing.
+  - 🟡 **PROJECT BILLING INCONSISTENCIES PERSIST:** "Amazon for shop supplies" assigned to "Shop Supplies" project; duplicates exist with same vendor/requester but different project codes (e.g., two "Amazon Shop supplies" tasks assigned to different projects [001-1] vs. Shop Supplies).
+  - 🟡 **APPROVAL WORKFLOW ABSENT:** All tasks show "Requires Approval?: No" — unclear if procurement threshold policies are enforced or if approval is handled externally.
 
 ## Key Deliverables & Milestones
 
-### **DUE JUN 28, 2026 — 1 Task**
+### **DUE JUN 26–JUN 29, 2026 — 6 TASKS (IMMEDIATE ACTION WINDOW)**
 
 | Task | Due | Vendor | Assigned | Project | Requester | Status | Notes |
 |------|-----|--------|----------|---------|-----------|--------|-------|
-| Sendcutsend (#S1841769) | Jun 28, 2026 | Sendcutsend | Nate Straus | [550-1] Navy SBIR: Magnetometer | Alex | Order Received | Originally requested Jun 17 |
+| amazon for shop supplies | Jun 26, 2026 | Amazon | Meredith O'hara Needham | Shop Supplies | Joshua Fromm | Order Shipped | Requested Jun 24 |
+| digikey for idiq (#009799) | Jul 1, 2026 | Digikey | Nate Straus | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | Order Received | Requested Jun 24 |
+| HiTec- ByLight (#5526) | Jul 1, 2026 | HiTec/ByLight | Nate Straus | [043-3] Mustang Pt. 2 | Ethan | Order Received | Requested Jun 23 |
+| GetFPV (#1001480217) | Jul 1, 2026 | GetFPV | Nate Straus | Shop Supplies | Alex | Order Received | Requested Jun 22 |
+| jawstec for s0 idiq (#69631) | Jul 1, 2026 | Jawstec | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | Order Placed | Requested Jun 29 |
+| jawstec for s3 sales (#69630) | Jul 1, 2026 | Jawstec | Meredith O'hara Needham | General Sales | Joshua Fromm | Order Placed | Requested Jun 29 |
 
-## Task Summary
+### **DUE AUG 28, 2026 — 11 TASKS (INVENTORY/BACKLOG)**
 
-- **Total tasks:** 1 open, 0 completed
-  - **1 assigned to Nate Straus** (100%)
-
-- **Tasks by assignee:**
-  - **Nate Straus:** 1/1 (100%)
-
-- **Requester distribution:**
-  - **Alex:** 1/1 (Sendcutsend)
-
-- **Status breakdown:**
-  - **Order Received:** 1 (Sendcutsend)
-
-- **Notable patterns:**
-  - **Extreme workload concentration:** 100% of open tasks assigned to Nate (vs. 67% to Meredith in prior cycle)
-  - **Dramatic task list contraction:** 3 → 1 open tasks (67% reduction) in single cycle
-  - **Project owner (Meredith) has zero current assignments** — suggests either external order handling or task auto-deletion without reassignment
-
-## Recent Activity
-
-- **🔴 TASK COLLAPSE:** Two Amazon orders (Amazon weights, Amazon Shop supplies—both due Jun 27–28, assigned to Meredith O'hara Needham per prior cycle) have vanished from current task list **without documented closure, completion, or archival.**
-  - **Likely explanation:** Form-based auto-delete mechanism (`"YOUR TASK WILL AUTO DELETE"` per project notes) triggered when orders placed via form, silently removing Asana task from task list. **This destroys audit trail — no record of order placement, cost, requester, or project billing.**
-  - **ALTERNATIVE EXPLANATIONS UNCONFIRMED:** Orders cancelled, externally placed, or system error.
-- **Sendcutsend persists:** Single remaining task (Sendcutsend #S1841769, status "Order Received," due Jun 28) still assigned to Nate Straus. Confirms continued project activity but minimal workload visibility.
-- **No recent completion activity documented** in available data; prior cycle's 6 tasks reduced to current 1 without closure notes.
-
-## Notes & Context
-
-- **FORM AUTO-DELETE CREATES COMPLIANCE/AUDIT RISK:** Project explicitly instructs users: `"USE THIS FORM PLEASE OR YOUR TASK WILL AUTO DELETE"` (from project notes). This design removes Asana task from system when order is submitted via form, **eliminating any historical record of:**
-  - Order placement date and requester
-  - Project billing allocation
-  - Vendor and cost
-  - Order confirmation or receipt
-  
-  **RECOMMENDATION:** Establish complementary order management system (e.g., procurement log, vendor portal audit, or Asana form response archive) to preserve financial and operational records independent of auto-deleted tasks.
-
-- **OPERATIONAL VISIBILITY COLLAPSE:** With 1 of 3 prior tasks remaining visible, cannot assess:
-  - Whether Amazon orders were successfully placed and received
-  - Project billing (prior "Shop Supplies" task showed project field discrepancies)
-  - Cost and vendor status
-  - Cause of task disappearance (form submission vs. cancellation vs. external system)
-
-- **PROJECT OWNER WORKLOAD MISMATCH:** Meredith O'hara Needham is project owner but has zero current open task assignments. Prior cycle showed 67% workload concentration (2/3 tasks). Suggests either:
-  - Orders placed via form and auto-deleted, removing visible assignments
-  - Workload shifted externally (vendor portal, procurement tool)
-  - Project slowdown or hiatus
-
-- **Single Point of Failure Persists:** 100% of current visible workload assigned to Nate Straus (vs. prior 33%). Extremely narrow operational window if Nate becomes unavailable.
-
-- **IMMEDIATE ACTIONS REQUIRED:**
-  1. **AUDIT AMAZON ORDERS:** Confirm status of prior Amazon weights and Shop supplies tasks due Jun 27–28. Check order confirmation emails, vendor accounts, and receipts to determine actual placement status.
-  2. **RECONCILE FORM AUTO-DELETE:** Verify whether form submissions auto-deleted Amazon tasks or if disappearance due to other cause (cancellation, system error, manual archival).
-  3. **ESTABLISH AUDIT TRAIL:** If form auto-delete is intentional design, implement complementary order log or Asana form response archive to preserve financial and operational records.
-  4. **CLARIFY BILLING PROJECTS:** Resolve prior discrepancy between "Shop Supplies" task and "[001-1] IRAD General" project field.
+| Task | Due | Vendor | Assigned | Project | Requester | Status | Notes |
+|------|-----|--------|----------|---------|-----------|--------|-------|
+| Digikey (GCS parts) (#99853994) | Aug 28, 2026 | Digikey | Unassigned | [300-3] 2026 IDIQ (Hurricane) | Nate | Order Placed in Inventory | Requested Jun 15 |
+| Amazon weights | Aug 28, 2026 | Amazon | Unassigned | [001-1] IRAD General | Nate | Order Placed in Inventory | Requested Jun 26 (reappeared from prior cycle) |
+| Amazon Shop supplies | Aug 28, 2026 | Amazon | Unassigned | Shop Supplies | Nate | Order Placed in Inventory | Requested Jun 25 |
+| Digikey (GCS wifi) (#99989011) | Aug 28, 2026 | Digikey | Unassigned | [300-3] 2026 IDIQ (Hurricane) | Nate | Order Placed in Inventory | Requested Jun 23 |
+| Digikey GCS WiFi boards (#99879354) | Aug 28, 2026 | Digikey | Unassigned | [300-3] 2026 IDIQ (Hurricane) | Nate | Order Placed in Inventory | Requested Jun 17 |
+| Amazon / GCS | Aug 28, 2026 | Amazon | Unassigned | [300-3] 2026 IDIQ (Hurricane) | Nate | Order Placed in Inventory | Requested Jun 15 |
+| Amazon Shop supplies | Aug 28, 2026 | Amazon | Unassigned | [001-1] IRAD General | Nate | Order Placed in Inventory | Requested Jun 9 (duplicate project assignment) |
+| Wirecare (#6098749) | Aug 28, 2026 | Wirecare | Unassigned | [001-1] IRAD General | Nate | Order Placed in Inventory | Requested Jun 2 |
+| Microhard / Hurricane GCS | Aug 28, 2026 | Microhard | Unassigned | [300-3] 2026 IDIQ (Hurricane) | Nate | Order Placed in Inventory | Requested May 11 (OVERDUE REQUEST DATE) |
+| Amazon- Lava Lamp bulb | Aug 28, 2026 | Amazon | Unassigned | [001-1] IRAD General | Ethan | Order Placed in Inventory | Requested Jun 24 |
+| amazon for s0 hurricane idiq | Jul 1, 2026 | Amazon | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | Order Placed | Requested Jun 29 

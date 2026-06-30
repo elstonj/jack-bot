@@ -2,7 +2,7 @@
   "asana_gid": "1214795652219550",
   "asana_task_name": "Canadian Rangers Demo (Ottawa)",
   "customer": "Canadian Defense Forces / NexTech Solutions",
-  "customer_contact": "NexTech Solutions",
+  "customer_contact": "Trenton McKibben",
   "customer_email": "Trenton.mckibben@nexttechsol.com",
   "receive_by": "2026-06-25",
   "ship_to": "",
@@ -44,12 +44,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "S3 Arctic demo for Canadian Defense Forces via NexTech Solutions integrator. 120km range / 1h 35min TOF with EO/IR gimbal required. Demo scheduled for Ottawa June 25, 2026. REX110 gimbal integration sprint active with Atmolab troubleshooting camera auto-discovery issues; DB9 rewiring and mount integration in progress. Battery shipped to Canada. Insurance requirements ($5M GL/Aviation) being coordinated. Team traveling mid-June for demo; follow-on Arctic demo planned post-Ottawa.",
+  "notes": "S3 Arctic demo for Canadian Defense Forces via NexTech Solutions integrator. 120km range / 1h 35min TOF with EO/IR gimbal required. Demo scheduled for Ottawa June 25, 2026. REX110 gimbal integration sprint in final push with Atmolab troubleshooting camera auto-discovery issues; DB9 rewiring and mount integration tasks assigned. Battery shipped to Canada. Insurance requirements ($5M GL/Aviation) coordinated. BST team traveling mid-June for demo; follow-on Arctic demo planned post-Ottawa.",
   "missing_fields": [
     "ship_to",
     "invoice_number",
     "invoice_amount"
   ],
-  "last_evidence_date": "2026-06-24",
+  "last_evidence_date": "2026-06-30",
   "last_contact_date": "2026-06-24"
 }

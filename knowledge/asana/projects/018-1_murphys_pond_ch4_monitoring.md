@@ -56,3 +56,4 @@
   - **Payload modifications in final stages** (Joshua Fromm, 2026-06-02/03); parts arriving end of week; expected completion within 1 day or less
 - **Scheduling context:** Project competes with INSTAAR x2 and Ottawa demo projects for resource allocation. Execution order determined by "whatever actually happens first" (Jack Elston)
 - **Battery & customs:** Batteries already shipped to Mexico; no ECCN obtained; permanent import fees paid. **Confirm destination aligns with project scope before escalation.**
+- **Project initiation:** Dr. Masri reached out to BST in May 2024. Initial estimates sent for budgeting; project moved forward after Dr. Masri confirmed (per April meeting notes) willingness to proceed with vertical take-off aircraft at end of July/August 2025 for first flight.

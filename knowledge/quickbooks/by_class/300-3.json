@@ -4,13 +4,15 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-06-28",
-    "end": "2026-06-29"
+    "start": "2026-06-29",
+    "end": "2026-06-30"
   },
   "totals": {
     "revenue": 144000.0,
-    "expenses": 0.0,
-    "by_category": {}
+    "expenses": 597.03,
+    "by_category": {
+      "DIRECT COSTS:DC-Direct Material Purchases": 597.03
+    }
   },
   "invoices": [
     {
@@ -61,7 +63,44 @@
     }
   ],
   "bills": [],
-  "purchases": [],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-06-29",
+      "doc_number": "69631",
+      "total": 562.44,
+      "attributed": 562.44,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "JAWSTEC - 4617",
+      "lines": [
+        {
+          "amount": 562.44,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "IDIQ - shipped to Sean Cole"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-29",
+      "doc_number": "",
+      "total": 34.59,
+      "attributed": 34.59,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*4Z8IL5283 - 4617",
+      "lines": [
+        {
+          "amount": 34.59,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "64GB PNY Elite-X Fit USB 3.1 Flash Drive"
+        }
+      ]
+    }
+  ],
   "purchase_orders": [],
   "payments": []
 }
