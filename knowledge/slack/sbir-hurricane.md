@@ -26,6 +26,7 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Aluminum caps chosen over 3D printed ones after high-Q deployment failure (May 2022)
 - Switched to Samsung INR21700-50S cells replacing Panasonic NCR18650GA (February 2024)
 - Decision to use 76gsm wing skins instead of 160gsm for 50g weight savings (October 2024)
+- **Winsource removed from future supplier selection due to defective PMXB120EBE parts and other questionable components (June 29, 2026)**
 
 **Ground Control Station Operations (April 2026):**
 - Single operator per aircraft confirmed as acceptable by NOAA operational rules (April 2026)
@@ -87,6 +88,4 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 **Sparv Dropsonde Partnership Discussion (June 9, 2026):**
 - Decision deferred on Sparv dropsonde drop payload concept - insufficient funding currently; other R&D with NOAA prioritized instead (June 9, 2026)
 - Sparv sensor integration as secondary comparison to Vaisala flagged as potential interest pending NOAA model acceptance and certification requirements (June 9, 2026)
-- S0-mini development for NASA glider application deferred pending IP/licensing risk mitigation strategy; requires careful sandbox strategy to protect BST from critical NASA IP dependencies (June 9, 2026)
-
-**Ground Control Station
+- S0-mini development for NASA glider

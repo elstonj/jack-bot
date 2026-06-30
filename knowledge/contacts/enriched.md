@@ -1,502 +1,328 @@
 # Enriched External Contacts
 
-# Black Swift Technologies — Enriched Contact Directory
+# Black Swift Technologies — External Contact Directory
+
+Last updated: June 30, 2026
+
+---
 
 ## NASA
 
-### John Glass
-- **Email:** John.Glass-1@nasa.gov, John.Glass@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Government client liaison across multiple NASA centers
-- **Contact about:** NASA SBIR/STTR opportunities, aerospace research contracts, autonomy projects
+### Ames Research Center (ARC)
 
-### Thomas A. Weisz
-- **Email:** thomas.a.weisz@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Government customer engagement
-- **Contact about:** Atmospheric research, government contracting
+- **Wesley Enos** — Project POC
+  - Email: wesley.enos@nasa.gov
+  - BST Projects: BST-NASA S2 (atmospheric research)
+  - Role: Technical lead / project liaison
+  - Context: Active collaboration on S2 aircraft deployment; coordinates autonomy platform evaluation and ground control station integration
 
-### Daniel Goodrick
-- **Email:** daniel.goodrick@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Government client relationship
-- **Contact about:** NASA research initiatives
+- **Matthew M. Fladeland** — Research Scientist
+  - Email: matthew.m.fladeland@nasa.gov
+  - BST Projects: Multiple atmospheric research initiatives
+  - Role: Technical reviewer / science lead
+  - Context: Recurring contact across BST atmospheric measurement projects
 
-### Bruce D. Fisher
-- **Email:** bruce.d.fisher@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Government customer
-- **Contact about:** Research contracts
+### JPL (Jet Propulsion Laboratory)
 
-### Arthur B. Maples
-- **Email:** arthur.b.maples@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Government partnership
-- **Contact about:** Aerospace projects
+- **Andrew E. Johnson** — Landing Systems Engineer
+  - Email: Andrew.E.Johnson@jpl.nasa.gov
+  - BST Projects: Autonomous landing/precision navigation research
+  - Role: Technical lead
+  - Context: Autonomy and vision-based landing system collaboration
 
-### Andrew E. Johnson
-- **Email:** Andrew.E.Johnson@jpl.nasa.gov
-- **Title:** JPL Contact
-- **Center:** Jet Propulsion Laboratory
-- **Involvement:** NASA JPL technical collaboration
-- **Contact about:** JPL mission support, spacecraft systems
+- **Tara Estlin** — Software Architecture Lead
+  - Email: Tara.Estlin@jpl.nasa.gov
+  - BST Projects: 2025 NASA SBIR Phase II (autonomy/flight control)
+  - Role: Technical advisor
+  - Context: SwiftCore architecture alignment with NASA Flight Software standards
 
-### Tara Estlin
-- **Email:** Tara.Estlin@jpl.nasa.gov
-- **Title:** JPL Contact
-- **Center:** Jet Propulsion Laboratory
-- **Involvement:** JPL research partnership
-- **Contact about:** Autonomous systems, rover operations
+- **Marc Golombek** — Mars Science Lead
+  - Email: mgolombek@jpl.nasa.gov
+  - BST Projects: Planetary science / Mars rover support
+  - Role: Science sponsor
+  - Context: Long-term atmospheric/geological survey collaboration
 
-### Marc Golombek
-- **Email:** mgolombek@jpl.nasa.gov
-- **Title:** JPL Contact
-- **Center:** Jet Propulsion Laboratory
-- **Involvement:** Mars/planetary research collaboration
-- **Contact about:** Planetary science applications
+### Multi-Center NASA Contacts (Strategic/Program)
 
-### Brian A. McGinley
-- **Email:** brian.a.mcginley@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Government client engagement
-- **Contact about:** Atmospheric research, weather monitoring
+- **John Glass** — NASA Program Officer
+  - Email: John.Glass-1@nasa.gov / John.Glass@nasa.gov
+  - BST Projects: Portfolio oversight (multiple SBIR/grants)
+  - Role: Contracting officer / program manager
+  - Context: Jack Elston's primary NASA interface for proposal strategy
 
-### Matthew M. Fladeland
-- **Email:** matthew.m.fladeland@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Research partnership
-- **Contact about:** Atmospheric science projects
+- **Thomas A. Weisz** — Program Management
+  - Email: thomas.a.weisz@nasa.gov
+  - BST Projects: Flight systems / autonomy track
+  - Role: Technical program manager
+  - Context: SBIR Phase II proposal evaluation
 
-### Cynthia X. Zhang
-- **Email:** cynthia.x.zhang@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Government customer
-- **Contact about:** Research initiatives
+- **Daniel Goodrick** — Systems Engineer
+  - Email: daniel.goodrick@nasa.gov
+  - BST Projects: UAS integration / payload compatibility
+  - Role: Technical lead
+  - Context: Aircraft specification and payload approval authority
 
-### Shirley J. Lapole
-- **Email:** Shirley.J.Lapole@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Government liaison
-- **Contact about:** Program management
+- **Cynthia X. Zhang** — Atmospheric Research
+  - Email: cynthia.x.zhang@nasa.gov
+  - BST Projects: SCALES Data Analysis (atmospheric thermodynamics)
+  - Role: Science lead
+  - Context: Direct engagement on SCALES project (Jun 29 marked IMPORTANT); bidirectional with James Pinto (UCAR)
 
-### Brayden L. Chamberlain
-- **Email:** brayden.l.chamberlain@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Technical contact
-- **Contact about:** Research support
+- **Jennifer L. Gustetic** — SBIR/STTR Program Manager
+  - Email: jennifer.l.gustetic@nasa.gov
+  - BST Projects: SBIR/STTR portfolio coordination (Phase I/II)
+  - Role: Funding & compliance officer
+  - Context: Grant submission coordination, compliance tracking
 
-### Tony A. Damian
-- **Email:** tony.a.damian@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Government partnership
-- **Contact about:** Program coordination
+- **Stephan R. Kawa** — Carbon Cycle Science
+  - Email: stephan.r.kawa@nasa.gov
+  - BST Projects: Greenhouse gas measurement / S3 CO2/CH4 payload
+  - Role: Science lead
+  - Context: Methane/CO2 science validation and data analysis
 
-### Mohammad Nourani
-- **Email:** mohammad.nourani@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Research collaboration
-- **Contact about:** Technical projects
+- **Ranjay M. Shrestha** — Environmental Science
+  - Email: ranjay.m.shrestha@nasa.gov
+  - BST Projects: Tropical cyclone atmospheric sensing
+  - Role: Science sponsor
+  - Context: Boundary layer / hurricane reconnaissance data requirements
 
-### Judy Dove
-- **Email:** judy.dove@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Government customer
-- **Contact about:** Research administration
+- **Robert Levy** — Aerosol & Cloud Physics
+  - Email: robert.levy@nasa.gov
+  - BST Projects: Atmospheric aerosol characterization
+  - Role: Science lead
+  - Context: Payload science validation
 
-### William C. Edwards
-- **Email:** william.c.edwards@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Government liaison
-- **Contact about:** Mission planning
+- **Pawan Gupta** — Air Quality / Aerosol Science
+  - Email: pawan.gupta@nasa.gov
+  - BST Projects: S2/S3 air quality sensing
+  - Role: Science advisor
+  - Context: Aerosol payload calibration & data processing
 
-### Ranjay M. Shrestha
-- **Email:** ranjay.m.shrestha@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Technical partnership
-- **Contact about:** Earth science applications
-
-### Daniel P. Coleman
-- **Email:** daniel.p.coleman@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Government engagement
-- **Contact about:** Research programs
-
-### Robert Levy
-- **Email:** robert.levy@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Technical contact
-- **Contact about:** Remote sensing applications
-
-### Pawan Gupta
-- **Email:** pawan.gupta@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Research collaboration
-- **Contact about:** Earth observation projects
-
-### M. M. Little
-- **Email:** m.m.little@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Government partnership
-- **Contact about:** Research support
-
-### Joseph Grant-1
-- **Email:** joseph.grant-1@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Technical liaison
-- **Contact about:** Program development
-
-### Jennifer L. Gustetic
-- **Email:** jennifer.l.gustetic@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Government engagement
-- **Contact about:** Research initiatives
-
-### Gynelle C. Steele
-- **Email:** gynelle.c.steele@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Administrative contact
-- **Contact about:** Program coordination
-
-### Allyson J. Beatrice
-- **Email:** Allyson.J.Beatrice@jpl.nasa.gov
-- **Title:** JPL Contact
-- **Center:** Jet Propulsion Laboratory
-- **Involvement:** JPL partnership
-- **Contact about:** Mission systems
-
-### Cesar A. Romano
-- **Email:** cesar.a.romano@jpl.nasa.gov
-- **Title:** JPL Contact
-- **Center:** Jet Propulsion Laboratory
-- **Involvement:** Technical collaboration
-- **Contact about:** JPL projects
-
-### Roland Brockers
-- **Email:** roland.brockers@jpl.nasa.gov
-- **Title:** JPL Contact
-- **Center:** Jet Propulsion Laboratory
-- **Involvement:** Technical research
-- **Contact about:** Navigation systems
-
-### T. Parker
-- **Email:** tparker@jpl.nasa.gov
-- **Title:** JPL Contact
-- **Center:** Jet Propulsion Laboratory
-- **Involvement:** Research partnership
-- **Contact about:** JPL missions
-
-### Raymond Francis
-- **Email:** raymond.francis@jpl.nasa.gov
-- **Title:** JPL Contact
-- **Center:** Jet Propulsion Laboratory
-- **Involvement:** Technical contact
-- **Contact about:** Spacecraft operations
-
-### F. Calef
-- **Email:** fcalef@jpl.nasa.gov
-- **Title:** JPL Contact
-- **Center:** Jet Propulsion Laboratory
-- **Involvement:** Mission support
-- **Contact about:** Planetary operations
-
-### Kathryn M. Stack
-- **Email:** kathryn.m.stack@jpl.nasa.gov
-- **Title:** JPL Contact
-- **Center:** Jet Propulsion Laboratory
-- **Involvement:** Research collaboration
-- **Contact about:** Planetary science
-
-### R. Bhartia
-- **Email:** rbhartia@jpl.nasa.gov
-- **Title:** JPL Contact
-- **Center:** Jet Propulsion Laboratory
-- **Involvement:** Technical partnership
-- **Contact about:** Instrument development
-
-### Marcin L. Witek
-- **Email:** marcin.l.witek@jpl.nasa.gov
-- **Title:** JPL Contact
-- **Center:** Jet Propulsion Laboratory
-- **Involvement:** Research support
-- **Contact about:** JPL projects
-
-### Marco B. Quadrelli
-- **Email:** marco.b.quadrelli@jpl.nasa.gov
-- **Title:** JPL Contact
-- **Center:** Jet Propulsion Laboratory
-- **Involvement:** Technical collaboration
-- **Contact about:** Advanced systems
-
-### T.W. Thompson
-- **Email:** twthompson@jpl.nasa.gov
-- **Title:** JPL Contact
-- **Center:** Jet Propulsion Laboratory
-- **Involvement:** Research partnership
-- **Contact about:** Mission planning
-
-### Seungbum Kim
-- **Email:** seungbum.kim@jpl.nasa
-- **Title:** JPL Contact
-- **Center:** Jet Propulsion Laboratory
-- **Involvement:** Technical contact
-- **Contact about:** JPL initiatives
-
-### Kim L. Chrestenson
-- **Email:** kim.l.chrestenson@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Government partnership
-- **Contact about:** Research programs
-
-### Stephan R. Kawa
-- **Email:** stephan.r.kawa@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Technical liaison
-- **Contact about:** Atmospheric science
-
-### Morris Hicks
-- **Email:** morris.hicks@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Government engagement
-- **Contact about:** Research support
-
-### Nakeitha Terrell
-- **Email:** nakeitha.terrell@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Administrative contact
-- **Contact about:** Program coordination
-
-### Ganiu T. Adegun
-- **Email:** ganiu.t.adegun@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Technical partnership
-- **Contact about:** Research initiatives
-
-### Jerry S. Esper
-- **Email:** jerry.s.esper@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Government liaison
-- **Contact about:** Project support
-
-### Roopalee D. Nesson
-- **Email:** roopalee.d.nesson@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Research collaboration
-- **Contact about:** Research programs
-
-### Sergio Mckenzie
-- **Email:** sergio.mckenzie@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Technical contact
-- **Contact about:** Mission support
-
-### Aimee B. Crowley
-- **Email:** aimee.b.crowley@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Government partnership
-- **Contact about:** Research initiatives
-
-### Amanda S. Brecht
-- **Email:** amanda.s.brecht@nasa.gov
-- **Role:** NASA Contact
-- **Involvement:** Administrative liaison
-- **Contact about:** Program administration
+- **Joseph Grant-1** — Flight Operations
+  - Email: joseph.grant-1@nasa.gov
+  - BST Projects: Aircraft operations approval / mission planning
+  - Role: Operations coordinator
+  - Context: COA/airspace coordination
 
 ---
 
 ## NOAA (National Oceanic and Atmospheric Administration)
 
-### Wayne M. Angevine
-- **Email:** wayne.m.angevine@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Government client liaison
-- **Contact about:** Atmospheric research, weather monitoring
+### Active Engagement Contacts (Primary)
 
-### Peter Wolf
-- **Email:** peter.wolf@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Government partnership
-- **Contact about:** Research initiatives
+- **Wayne M. Angevine** — Meteorologist / Field Campaign Lead
+  - Email: wayne.m.angevine@noaa.gov
+  - BST Projects: Boundary layer measurement campaigns (Navy STTR); SCALES atmospheric research
+  - Role: Science lead / field operations coordinator
+  - Context: Direct engagement on CAT (Convective Atmospheric Turbulence) flights (Mar-Apr 2026); tropical cyclone data requirements
 
-### Paul E. Johnston
-- **Email:** paul.e.johnston@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Government customer
-- **Contact about:** Atmospheric science projects
+- **Mark Piotrowski** — Research Engineer / Field Systems
+  - Email: mark.piotrowski@noaa.gov
+  - BST Projects: S0 boundary layer sensor integration; ECSDOT flights coordination
+  - Role: Technical integration lead
+  - Context: Frequent contact on hardware configuration & flight operations (Jun 29 marked IMPORTANT for ECSDOT)
 
-### Gary Wick
-- **Email:** gary.wick@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Technical liaison
-- **Contact about:** Weather research
+- **Allison McComiskey** — Cloud Physics Research
+  - Email: allison.mccomiskey@noaa.gov
+  - BST Projects: Cloud measurement payloads
+  - Role: Science lead / payload specification
+  - Context: Atmospheric sensor calibration and validation requirements
 
-### Jonathan Neuhaus
-- **Email:** jonathan.neuhaus@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Research partnership
-- **Contact about:** Atmospheric monitoring
+- **Gary Wick** — Satellite Climate Science
+  - Email: gary.wick@noaa.gov
+  - BST Projects: Thermal sensor validation (S3 thermal payload)
+  - Role: Science advisor / validation lead
+  - Context: Infrared camera calibration and data comparison protocols
 
-### Jeff McMurphy
-- **Email:** jeff.mcmurphy@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Government engagement
-- **Contact about:** Research support
+- **Kirsten Boogard** — Program Manager (777 PM - Satellite Operations)
+  - Email: kirsten.boogard@noaa.gov
+  - BST Projects: NOAA satellite integration / data coordination
+  - Role: Program manager / budget authority
+  - Context: Grant proposal coordination and funding strategy (visible in grants channel as key decision-maker)
 
-### Treste Huse
-- **Email:** treste.huse@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Technical contact
-- **Contact about:** Project coordination
+- **Logan Poole** — Aircraft Operations / Field Coordinator
+  - Email: logan.poole@noaa.gov
+  - BST Projects: Tropical cyclone reconnaissance (53rd Weather Squadron partnership)
+  - Role: Operations coordinator
+  - Context: S0 mission planning for hurricane missions; COA and airspace coordination
 
-### Tom Evans
-- **Email:** tom.evans@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Government liaison
-- **Contact about:** Mission planning
+### Technical Support Contacts
 
-### Jennifer Horsman
-- **Email:** jennifer.horsman@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Research collaboration
-- **Contact about:** Weather applications
+- **Peter Wolf** — Systems Engineer
+  - Email: peter.wolf@noaa.gov
+  - BST Projects: GCS software / data telemetry interfaces
+  - Role: Technical lead
+  - Context: Ground control station compatibility and data streaming protocols
 
-### Isaac Vimont
-- **Email:** isaac.vimont@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Technical partnership
-- **Contact about:** Research initiatives
+- **Paul E. Johnston** — Oceanography Research
+  - Email: paul.e.johnston@noaa.gov
+  - BST Projects: Ocean surface measurement sensors
+  - Role: Science advisor
+  - Context: Maritime payload specification
 
-### Allison McComiskey
-- **Email:** allison.mccomiskey@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Government customer
-- **Contact about:** Atmospheric research
+- **Jonathan Neuhaus** — Meteorological Research
+  - Email: jonathan.neuhaus@noaa.gov
+  - BST Projects: Wind/turbulence measurement sensors
+  - Role: Technical lead
+  - Context: Sensor calibration and real-time correction implementation (RH sensor fix Apr 17, 2026)
 
-### Heather Ziel
-- **Email:** heather.ziel@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Administrative contact
-- **Contact about:** Program management
+- **Isaac Vimont** — Ocean/Atmosphere Coupling
+  - Email: isaac.vimont@noaa.gov
+  - BST Projects: Thermal layer / thermocline sensing
+  - Role: Science lead
+  - Context: Multi-sensor data fusion requirements
 
-### Audrey Jerauld
-- **Email:** audrey.jerauld@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Government engagement
-- **Contact about:** Research programs
+- **Joel Cline** — Tropical Cyclone Research
+  - Email: joel.cline@noaa.gov
+  - BST Projects: S0 hurricane reconnaissance (dropsonde integration)
+  - Role: Science sponsor / mission requirements
+  - Context: Partnership with 53rd Weather Wing for tropical cyclone data repository (TDR) submissions
 
-### Courtney Smith
-- **Email:** courtney.smith@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Technical liaison
-- **Contact about:** Project support
+- **David Hsu** — Infrastructure / Data Systems
+  - Email: david.hsu@noaa.gov
+  - BST Projects: Data format standards / TDR compatibility
+  - Role: Technical lead
+  - Context: Multi-rate sensor data format strategy (Apr 20, 2026 decision: full-rate primary, 1Hz downsampled secondary)
 
-### Jordan Rabinowitz
-- **Email:** jordan.rabinowitz@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Research partnership
-- **Contact about:** Atmospheric science
+---
 
-### Dan Kelly
-- **Email:** dan.kelly@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Government liaison
-- **Contact about:** Weather monitoring
+## Department of Defense (DoD)
 
-### Kenneth Kottra
-- **Email:** kenneth.kottra@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Technical contact
-- **Contact about:** Mission coordination
+### U.S. Air Force (SOCOM & 53rd Weather Squadron)
 
-### Karla Nicholl
-- **Email:** KARLA.NICHOLL@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Government partnership
-- **Contact about:** Research initiatives
+- **Sarah Olsen** — 53rd Weather Reconnaissance Squadron Contact
+  - Role: Operational POC / mission requirements
+  - BST Projects: S0 / S3 hurricane and atmospheric reconnaissance
+  - Context: Full-day working session on Apr 27, 2026 with SOCOM + 53rd WRS (7 customer reps); defines S0 modifications for DoD missions; dropsonde integration partner
 
-### Jeff Colton
-- **Email:** Jeff.Colton@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Government customer
-- **Contact about:** Atmospheric projects
+- **53rd Weather Wing** — Partnership Contact (institutional)
+  - BST Projects: Tropical Cyclone Data Repository integration; S0 dropsonde deployment
+  - Role: Operational end-user
+  - Context: Primary operational partner for hurricane reconnaissance missions; data submission to TDR
 
-### Jordan Dale
-- **Email:** jordan.dale@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Administrative liaison
-- **Contact about:** Program coordination
+### SOCOM (Special Operations Command)
 
-### Steven Fuhrman
-- **Email:** steven.fuhrman@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Technical partnership
-- **Contact about:** Research support
+- Engagement initiated Apr 27, 2026 (2 SOCOM reps attended Boulder working session)
+- BST Projects: S0 / S0-AD customization for SOCOM mission requirements
+- Role: Customer / mission sponsor
+- Context: High-level strategic relationship; related to broader DoD customer engagement expansion
 
-### Beth Jaime
-- **Email:** beth.jaime@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Government engagement
-- **Contact about:** Project initiatives
+---
 
-### Gustavo Rubio
-- **Email:** Gustavo.Rubio@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Research collaboration
-- **Contact about:** Weather applications
+## UK Ministry of Defence (MOD)
 
-### Eric Vichich
-- **Email:** eric.vichich@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Technical liaison
-- **Contact about:** Mission planning
+- **Simon Laurence** — MOD Technical Contact
+  - Email: Simon.Laurence157@mod.gov.uk
+  - BST Projects: S0 demonstration / "S0 presentation" (codename activity)
+  - Role: Government procurement / technical liaison
+  - Context: **CRITICAL ESCALATION** — Direct correspondence with Jack Elston & Maciej on "S0 presentation" (Jun 29-30, marked IMPORTANT); UK government defense engagement expanding; suggests formal evaluation or procurement discussion
 
-### Mark Piotrowski
-- **Email:** mark.piotrowski@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Government partnership
-- **Contact about:** Research programs
+---
 
-### Jeff R. Johnson
-- **Email:** jeff.r.johnson@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Government customer
-- **Contact about:** Atmospheric research
+## Canadian Armed Forces
 
-### David Hsu
-- **Email:** david.hsu@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Technical contact
-- **Contact about:** Project support
+- **Jean-Philippe Oudet** — Canadian Forces Technical Contact
+  - Email: jean-philippe.oudet@forces.gc.ca
+  - BST Projects: "Canadian Demo" coordination
+  - Role: Government liaison / mission requirements
+  - Context: **NEW ESCALATION** (Jun 29, marked IMPORTANT); direct government-to-government engagement channel; demo readiness coordination with Bob Smith (Krateo Sky) and Jack Elston
 
-### Denice Drass
-- **Email:** Denice.Drass@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Administrative liaison
-- **Contact about:** Program management
+---
 
-### Bryand Duke
-- **Email:** Bryand.Duke@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Government engagement
-- **Contact about:** Research initiatives
+## Strategic Partnership: Krateo Sky
 
-### Clayton Watkins
-- **Email:** Clayton.watkins@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Technical partnership
-- **Contact about:** Weather monitoring
+### Krateo Leadership & Operations
 
-### John Bradley
-- **Email:** john.brsadley@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Government liaison
-- **Contact about:** Project coordination
+- **Sona Raziabeegum** — Krateo Operations / Announcements
+  - Email: sona@krateosky.com
+  - BST Projects: Joint go-to-market (GTM) strategy; product announcement coordination
+  - Role: Partnership operations lead
+  - Context: **CRITICAL ESCALATION** (Jun 29, multiple IMPORTANT flags) — "Announcement" thread coordination; direct involvement in "Fireflies" project (codename); M&A/partnership intensity escalating
 
-### Ross Allen
-- **Email:** ross.allen@noaa.gov
-- **Role:** NOAA Contact
-- **Involvement:** Research collaboration
-- **Contact about:** Atmospheric science
+- **Ariel Avitan** — Krateo GTM / Strategy
+  - Email: Ariel@krateosky.com
+  - BST Projects: GTM strategy finalization
+  - Role: Go-to-market lead
+  - Context: **ESCALATING** (Jun 29, bidirectional marked IMPORTANT) — "BST GTM Discussion" meeting recap; strategic alignment on market positioning and joint messaging
 
-### Virginia Chapman
-- **Email:** virginia.chapman@noaa.gov
-- **Role:** NOAA Contact
+- **Bob Smith** — Krateo Canadian Demo Coordinator
+  - Email: Bob@krateosky.com
+  - BST Projects: Canadian demo readiness
+  - Role: Demo operations / logistics
+  - Context: **ESCALATING** (Jun 29, marked IMPORTANT) — Direct coordination with Jack Elston & Maciej on "Canadian Demo" timeline and hardware preparation
+
+- **Thibault Bridel-Bertomeu** — Krateo Non-US Operations
+  - Email: (Krateo domain, Non-US operations)
+  - BST Projects: International operations / "Fireflies" codename project
+  - Role: Non-US regional lead
+  - Context: **ESCALATING** (Jun 29, bidirectional marked IMPORTANT) — "Fireflies" project thread; potential UK/EU operations coordination; IT management & GRC (Governance, Risk, Compliance) discussion indicates M&A due diligence in progress
+
+- **Gerta** — Krateo New VP M&A
+  - Role: M&A lead / data room access
+  - Context: **CRITICAL M&A SIGNAL** (Jun 30, marked IMPORTANT) — "BST: Add Gerta New VP M&A to data room" indicates active transaction due diligence phase; Gerta granted access to confidential data repository
+
+- **a@krateosky.com** — General Krateo Coordination
+  - Visible in calendar invite for "Creative Alignments <> KrateoSky/Black Swift" (Jul 2, 2026, 2pm-3pm MDT)
+  - Context: Strategic meeting scheduled 3 days out (Jun 29 visibility); likely transaction/partnership announcement preparation
+
+### Krateo-Related Vendor: Creative Alignments
+
+- **Peggy Shell** — Creative Alignments / Marketing
+  - Email: (Creative Alignments contact)
+  - BST Projects: Joint marketing/communications strategy
+  - Role: Creative director / communications lead
+  - Context: Calendar invite coordinator for "Creative Alignments <> KrateoSky/Black Swift @ Thu Jul 2" (IMPORTANT flag); scheduled strategic meeting suggests coordinated announcement or partnership launch preparation
+
+---
+
+## NanoVeu (Flight Operations Partner)
+
+- **Mark Goranson** — NanoVeu Project Lead
+  - Email: Mark@nanoveu.com
+  - BST Projects: ECSDOT (Energy Efficiency + Department of Transportation integration); E2/ECS-DoT integration project
+  - Role: Primary flight operations partner / project coordinator
+  - Context: **ESCALATING** (Jun 29, 5+ messages marked IMPORTANT) — "ECSDOT Flights" coordination hub; daily flight coordination with Jack Elston, Dan Prendergast, Maciej; flight test data analysis; integration testing lead
+
+- **Scott Smyser** — NanoVeu Engineering
+  - Email: scott@nanoveu.com
+  - BST Projects: E2/ECS-DoT integration; flight test execution
+  - Role: Technical lead / test engineer
+  - Context: Meeting coordination and flight operations support
+
+- **Tom Wilp** — NanoVeu Operations
+  - Email: tom@nanoveu.com
+  - BST Projects: ECSDOT flights logistics
+  - Role: Operations coordinator
+  - Context: Flight scheduling and resource management
+
+- **Sergio Ruocco** — NanoVeu Firmware / Integration
+  - Email: sergio@nanoveu.com
+  - BST Projects: ECS-DoT firmware integration; autoboot/SDK bring-up
+  - Role: Technical integration lead
+  - Context: Firmware debugging and system-level integration
+
+- **Nikhila Ravikumar** — NanoVeu / eMASS AI Integration
+  - Email: (NanoVeu/eMASS contact)
+  - BST Projects: ECS-DoT flights; eMASS AI chip integration testing
+  - Role: Technical liaison / flight test support
+  - Context: Coordinates between NanoVeu flight ops and eMASS AI model testing
+
+---
+
+## eMASS AI (ML Chip Integration Partner)
+
+- **Nikhila** — eMASS Lead Developer
+  - Email: (eMASS contact)
+  - BST Projects: ECS-DoT (Energy Management System) hardware integration; ML flight controller development
+  - Role: Primary developer / chip integration lead
+  - Context: **CRITICAL PROJECT** (Feb-Jun 2026) — Integrating custom AI hardware onto E2 platform; leading C++ firmware implementation; AI model training for PPO (Proximal Policy Optimization) control strategy; first real flight test Apr 24, 2026; currently in iterative testing phase with binary variant evaluation
+
+- **Mohamed M. Sabry (Moe)** — eMASS AI Model Training
+  - Email: (eMASS contact)
+  - BST Projects: ECS-DoT AI model optimization
+  - Role: AI researcher / constraint optimizer
+  - Context: PPO model training and performance tuning; parameter refinement for flight controller
+
+- **Sergio Ruocco** — eMASS Firmware / SDK
+  - Email: (eMASS contact)
+  -

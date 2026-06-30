@@ -79,12 +79,11 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Two S0 VTOL units paid in full (Invoice 1667, 2025-05-07, $21,181.81). Legal disclosure indicates delivery was expected but delayed; settlement agreement planned per May 2026 internal email chain. This is the primary VTOL order; earlier Invoice 1545 (2023-01-10, $15,028.39) was for a separate/earlier VTOL unit. Current task marked 'Closed' in Asana with $0 custom fields, but KEPT due to QBO Invoice 1667 matching this order\u2014payment and delivery status override stale Asana metadata.",
+  "notes": "Two S0 VTOL units paid in full (Invoice 1667, 2025-05-07, $21,181.81). Delivered; customer confirms August/September 2026 availability for ISARRA Flight Week campaign (per 5/21/26 email exchange). Asana task marked 'Closed' with $0 custom fields, but KEPT per STEP 1 override\u2014QBO Invoice 1667 is authoritative and matches this order. Additional unpaid Invoice 1730 ($2,462.50, dated 2026-01-08) exists on account for same customer but is for separate/supplemental work.",
   "missing_fields": [
-    "receive_by",
     "shipped_date",
     "tracking_number"
   ],
-  "last_evidence_date": "2026-06-24",
+  "last_evidence_date": "2026-06-19",
   "last_contact_date": "2026-05-21"
 }

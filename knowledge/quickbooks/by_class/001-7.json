@@ -1,41 +1,46 @@
 {
   "project_code": "001-7",
   "qbo_class_names": [
-    "(001-7) IRAD - S3"
+    "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-06-25",
-    "end": "2026-06-26"
+    "start": "2026-06-29",
+    "end": "2026-06-30"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 15.32,
+    "expenses": 1822.0,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 15.32
+      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 1822.0
     }
   },
   "invoices": [],
-  "bills": [],
-  "purchases": [
+  "bills": [
     {
-      "type": "Purchase",
-      "date": "2026-06-25",
-      "doc_number": "",
-      "total": 15.32,
-      "attributed": 15.32,
-      "vendor": "",
+      "type": "Bill",
+      "date": "2026-06-29",
+      "doc_number": "PwrSupply",
+      "total": 2122.0,
+      "attributed": 1822.0,
+      "vendor": "Summit Assembly, LLC",
       "customer": "",
-      "balance": null,
-      "memo": "PIRATE SHIP * POSTAGE - 7333",
+      "balance": 0.0,
+      "memo": "June 2026 work",
       "lines": [
         {
-          "amount": 15.32,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Shipment to Sean Cole for S3"
+          "amount": 1822.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": "PCB Assembly Assembly x 4"
+        },
+        {
+          "amount": 300.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": "Stencil & Set Up"
         }
       ]
     }
   ],
+  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

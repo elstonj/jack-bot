@@ -53,6 +53,9 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Launcher parts procurement: Approved ordering launcher design parts totaling $1.3K from McMaster (June 22, 2026)
 - Magnetometer power supply: Sam Hild identified that magnetometer draws ~1A at 5V (higher than expected); current LDO is 500mA max and causing under-voltage/current condition preventing output. Maciej requested quick-turn procurement of higher-capacity LDO; Sam Hild to check existing inventory first (June 23, 2026)
 
+**June 2026 (Late - TCE scheduling):**
+- TCE event dates: Originally planned for August 17-28, rescheduled to September 14-24 at Camp Pendleton (June 29, 2026)
+
 ## Projects & Initiatives
 
 **Phase I (Completed January 2026):**
@@ -66,8 +69,4 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Contract signed March 25th, option start date April 12, 2026
 - Planned: 4 experimentation events, 6 S0-AD aircraft (4 base + 2 option)
 - Phase II kickoff meeting completed April 21, 2026 with TPOC Angel Ruiz-Reyes
-- Kickoff brief submitted April 14, 2026
-- Status Update (May 8, 2026): Informal indication received that Phase II award appears likely based on Navy contacts (not yet official)
-
-**Phase II Option Period (August 2026 - primary focus):**
-- Status
+- Kickoff brief submitted April 14

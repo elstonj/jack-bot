@@ -1,99 +1,73 @@
 # Jack Elston — Email Patterns (UPDATED)
 
 ## Communication Volume
-- **Total messages scanned:** 5,340 (5,320 prior + 20 new, June 28–29)
-- **Date range:** April 1–June 29, 2026
+- **Total messages scanned:** 5,440 (5,340 prior + 100 new, June 29–30)
+- **Date range:** April 1–June 30, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **June 28–29 activity (20 messages):** ~15% human correspondence (Krateo Sky/Sona Raziabeegum strategic discussions, Aeropod profiler data, NSF/DoW proposal inquiry); ~75% automated logistics/vendor/procurement (Amazon, Harbor Freight, USPS, UPS, Spindrift, HeliDirect, PCBWay electronics samples, Toggl time tracking); ~10% infrastructure/community notifications (Google Workspace legal update, Murray State guest account, STATION Austin events, Toggl Track)
+- **June 29–30 activity (100 messages):** ~20% human correspondence (Krateo Sky escalation, UK/Canadian government contacts, internal strategic meetings, university research coordination); ~60% automated logistics/vendor/procurement (Amazon, Harbor Freight, JawsTec Manufacturing, UPS, USPS, QuickBooks, battery/electronics suppliers); ~10% infrastructure/community/HR (Rippling excess hours alert, Principal benefits, payroll/tax corrections, CU Football invite, SOFEX webinar); ~10% spam/marketing/newsletters
 
-### Critical Infrastructure Status (SUSTAINED & NEW ESCALATION)
-- **Krateo Sky relationship INTENSIFYING:** **Sona Raziabeegum (Krateo) initiating rapid multi-part dialogue with Jack + Paige Smith (June 29, 04:41–05:28 UTC)**
-  - 04:41 UTC: Sona responding to "Great meeting you both yesterday!" (meeting reference continuing from June 27 Peggy Shell exchange)
-  - 04:45 UTC: Sona to Jack only on "Announcement" (IMPORTANT flag)
-  - 05:28 UTC: Sona to Jack + Paige on "Announcement" (IMPORTANT flag)
-  - **Signal:** **Multi-party announcement or decision escalating to Paige Smith (likely product, partnership, or operational commitment)**
+### Critical Infrastructure Status (SUSTAINED & MAJOR ESCALATION)
 
-- **Government customer expansion:** Aeropod profiler data work continuing with Geoff (June 28); no new NOAA/defense sector signals in this batch (suggests June 27 rapid exchanges resolved into implementation phase)
+#### **KRATEO SKY STRATEGIC ESCALATION — ACCELERATING**
 
-- **NSF/DoW proposal activity:** **NEW SIGNAL** — Emmanuel Gorce (EG Proposal Management, egproposalmanagement.com) contacting Meredith Needham (Operations) on June 28 re: "DoW or NSF Phase II proposals" (IMPORTANT flag) — **suggests Black Swift pursuing government research funding (likely NSF Small Business Phase II or Department of Work grant)**
+**Multi-layer announcement/partnership milestone (June 29, 04:00–21:33 UTC):**
 
-- **Hardware procurement accelerating:** PCBWay electronics order (bartington_mag_adc samples) receiving senior attention (Sam Hild + Meredith Needham flagging); suggests sensor/magnetometer integration work ongoing
+- **June 29, 07:10 UTC:** Jack responding to Sona Raziabeegum (Krateo) on "Announcement" (IMPORTANT flag) — Jack replying to announcement sequence
+- **June 29, 21:33 UTC:** Thibault Bridel-Bertomeu (Krateo Non-US, likely UK/EU ops) to Jack on **"Re: Fireflies"** (IMPORTANT flag) — **CODENAME SIGNAL: "Fireflies" project discussed between Jack + Thibault**
+- **June 29, 16:35 UTC:** Jack responding to Thibault on "Fireflies" (IMPORTANT flag)
+- **June 29, 15:27 UTC:** Jack initiating "Fireflies" discussion with Thibault (SENT, IMPORTANT flag)
+- **June 29, 21:38 UTC:** Peggy Shell (Creative Alignments) sending calendar invite to Jack + Krateo team (Sona, a@krateosky.com) for **"Creative Alignments <> KrateoSky/Black Swift @ Thu Jul 2, 2026 2pm - 3pm (MDT)"** (IMPORTANT flag) — **SCHEDULED STRATEGIC MEETING IN 3 DAYS**
+- **June 29, 21:36 UTC:** Thibault Bridel-Bertomeu (Krateo) to Jack on **"KrateoSky x BlackSwift IT management, technical positions & GRC"** (IMPORTANT flag) — **MAJOR SIGNAL: Krateo + Black Swift discussing IT management roles, technical positions, and GRC (Governance, Risk, Compliance) — suggests M&A/acquisition due diligence or deep partnership integration**
+- **June 30, 01:48 UTC:** Sona Raziabeegum to Jack on **"BST: Add Gerta New VP M&A to data room"** (IMPORTANT flag) — **CRITICAL SIGNAL: Gerta (new VP M&A at Krateo or Black Swift) being granted access to data room — M&A TRANSACTION IN PROGRESS**
 
-- **International government credentials issued:** Murray State University guest account provisioned to Jack (June 28) — **suggests Jack attending Murray State event or accessing research resources (acoustic profiling or atmospheric science context likely given AMS/ASTM engagement)**
+**Signal:** **Krateo-Black Swift strategic transaction framework advancing rapidly. "Fireflies" is operational codename. M&A due diligence (GRC, IT positions, data room access) underway. July 2 meeting likely finalizes creative/marketing coordination for transaction announcement or joint product launch.**
 
----
+#### **UK & CANADIAN GOVERNMENT RELATIONSHIPS — ELEVATED**
 
-## Key Correspondents
+**June 30, 07:11 UTC:** Simon Laurence (Simon.Laurence157@mod.gov.uk, UK Ministry of Defence) responding to Jack on **"RE: S0 presentation"** (IMPORTANT flag, UNREAD)
 
-### Top Internal BST Contacts (SUSTAINED & EXPANDING)
+**June 29, 11:54 UTC:** Simon Laurence (UK MOD) to Jack + Jean-Philippe Oudet (forces.gc.ca, Canadian Armed Forces) + Maciej Stachura (BST) on **"Re: Introduction"** (IMPORTANT flag) — **UK MOD + Canadian Forces multi-party dialogue on unspecified "Introduction" topic**
 
-**Paige Smith** (paige.smith@blackswifttech.com) — **NEW ELEVATED SIGNAL**
-- **June 29, 05:28 UTC:** Sona Raziabeegum (Krateo) copying Paige on "Announcement" (IMPORTANT flag, multi-party escalation)
-- **Signal:** **Paige elevated to Krateo strategic announcements; suggests product, partnership, or operational decision involving both Jack + Paige**
+**June 29, 23:56 UTC:** Jean-Philippe Oudet (Canadian Forces) responding to Simon Laurence (UK MOD) + Derek Gowanlock (NRC-CNRC, Canadian National Research Council) on **"Re: Introduction"** (IMPORTANT flag) — **Canada-UK government coordination involving NRC**
 
-**Meredith Needham** (purchasing@blackswifttech.com / operations@blackswifttech.com)
-- **June 28, 12:31 UTC:** Emmanuel Gorce (NSF/DoW proposal consultant) contacting Meredith on government funding proposals (IMPORTANT flag)
-- **June 29, 01:25 UTC:** HeliDirect (vendor) copying Meredith
-- **Signal:** **Meredith managing both procurement + government proposal coordination; NSF Phase II pursuit underway**
+**June 30, 01:49 UTC:** Trevor Simoneau (ERAU, Embry-Riddle Aeronautical University) to Jack (elstonj@gmail.com) + multiple academic/NOAA contacts on **"ISARRA Waiver Application Technical Questions"** (IMPORTANT flag) — **Jack involved in ISARRA (Interim Small UAS Rule for Research Activities) waiver application; multi-institutional academic group coordinating**
 
-**Sam Hild** (sam.hild@blackswifttech.com) — Hardware/Electronics Integration
-- **June 28, 11:39 UTC:** Sam responding to PCBWay on Bartington magnetometer ADC samples (IMPORTANT flag)
-- **Signal:** **Sam coordinating sensor hardware integration (magnetometer analog-to-digital conversion); suggests payload or atmospheric science instrument development**
+**Signal:** **Black Swift + Jack actively engaged in international government airspace/UAS regulatory discussions (UK MOD, Canadian Forces, NRC). ISARRA research waiver implies atmospheric science/UAS research approval process. S0 presentation is UK MOD-specific briefing topic (possibly sensor/technical capability demonstration).**
 
-### Top External Contacts
+#### **PARTS/HARDWARE SOURCING — ESCALATED & COORDINATED**
 
-#### Krateo Sky Partnership (ESCALATION IN PROGRESS)
+**June 29, 17:32 UTC:** Frank Strazzabosco (microfirm@earthlink.net) to Jack + Sam Hild on **"RE: Parts"** (IMPORTANT flag) — **external electronics/parts supplier responding**
 
-**Sona Raziabeegum** (sona@krateosky.com) — **Krateo Sky Leadership/Operations** — **NEW PROMINENCE**
-- **June 28, 12:28 UTC:** Jack responding to Sona on "Great meeting you both yesterday!" (creative/business development meeting reference)
-- **June 29, 04:41 UTC:** Sona responding to Jack (IMPORTANT flag, 4:41 AM UTC timing suggests urgent)
-- **June 29, 04:45 UTC:** Sona responding to Jack with "Announcement" (IMPORTANT flag)
-- **June 29, 05:28 UTC:** Sona to Jack + Paige with "Announcement" (IMPORTANT flag, escalation to BST product/operations leadership)
-- **Signal:** **Sona (likely Krateo ops/business lead) executing rapid announcement cycle involving Jack + Paige; 3 messages in 47 minutes at 04:00–05:30 UTC suggests time-sensitive coordination or partnership milestone**
+**June 29, 17:46 UTC:** Jack responding to Frank Strazzabosco on "Parts" (SENT)
 
-**Brian Grubel & Dipan Amin** (Krateo leadership)
-- No new messages in June 28–29 batch; June 27 technical job description discussion resolved
+**June 29, 17:48 UTC:** Jack forwarding to Matthew Crabtree (mjcrabtree21@gmail.com) on "Fwd: Parts" (SENT)
 
-#### Government & Research Partners
+**June 29, 20:50 UTC:** Matthew Crabtree responding to Jack on **"Re: Parts"** (IMPORTANT flag) — **Parts inquiry moving through multiple vendors/contractors**
 
-**Geoff** (gb.aerokats@gmail.com) — Aerokats / Aeropod Project
-- **June 28, 18:29 UTC:** Geoff responding to Jack on "Aeropod - Profiler Data" (IMPORTANT flag)
-- **Signal:** Aeropod atmospheric profiling system continuing development; Jack + Geoff technical dialogue sustained
+**June 29, 21:18 UTC:** JawsTec Manufacturing (info@jawstec.com) to purchasing@blackswifttech.com confirming **Order #69631 received**
 
-**Emmanuel Gorce** (emmanuel.gorce@egproposalmanagement.com) — Proposal Management Consultant
-- **June 28, 12:31 UTC:** Emmanuel contacting Meredith Needham (Operations) re: "DoW or NSF Phase II proposals" (IMPORTANT flag)
-- **Signal:** **NEW GOVERNMENT FUNDING INITIATIVE** — Black Swift pursuing NSF Phase II (Small Business Innovation Research) or Department of Work grant; consultant engaged for proposal development
+**June 29, 21:18 UTC:** JawsTec Manufacturing payment request for invoice 69631 (IMPORTANT flag)
 
-#### Creative Services / Business Development
+**June 29, 21:12 UTC:** JawsTec Manufacturing confirming **Order #69630 received**
 
-**Sona Raziabeegum** (via Krateo) — also coordinating with **Peggy Shell** (Creative Alignments)
-- **June 29, 04:41 UTC:** Sona responding to Jack + Peggy on "Great meeting you both yesterday!" (meeting follow-up continuing)
-- **Signal:** Krateo + Creative Alignments + Black Swift cross-party meeting (June 27–28) resulted in follow-up coordination; announcement sequence suggests decision/milestone reached
+**June 29, 22:20 UTC:** JawsTec Manufacturing payment request for invoice 69630 (IMPORTANT flag)
 
----
+**Signal:** **Dual large orders from JawsTec Manufacturing (orders 69630 + 69631) coordinated through Frank Strazzabosco and Matthew Crabtree. Suggests significant hardware assembly/manufacturing capacity engagement. Combined with Amazon WOLFBOX video recorder + silicone wire deliveries, indicates substantial systems integration work.**
 
-## Topic Patterns
+#### **PAYROLL/TAX CORRECTION CRISIS**
 
-### Recurring Subject Themes (NEW & SUSTAINED)
+**June 29, 10:29 UTC:** Meredith Needham to Jack + Maciej Stachura on **"Fwd: Employee was incorrectly charged for $13,587.10"** (IMPORTANT flag) — **PAYROLL ERROR: Employee (likely Jack or Maciej) overcharged $13,587.10**
 
-- **Krateo Sky announcements** — Multi-part escalation (Sona → Jack → Jack+Paige) suggests product release, partnership decision, or operational change
-- **Aeropod atmospheric profiler data** — Continued development with Geoff; scientific instrument integration
-- **Government proposals** — NSF Phase II or DoW funding pursuit (consultant engaged)
-- **Hardware procurement & sensor integration** — Bartington magnetometer ADC samples (electronics work); WOLFBOX mobile video recorder; aviation tools (HeliDirect); lab equipment (Spindrift beverages/supplies)
-- **Academic/standards engagement** — Murray State guest access provisioned (atmospheric science or measurement science context)
+**June 29, 10:22 UTC:** Meredith responding to Jack on same issue (IMPORTANT flag)
 
-### External Organizations & Projects
+**June 29, 10:11 UTC:** Jack responding to Meredith (SENT)
 
-- **Krateo Sky** — Strategic partner; multi-layer announcement in progress
-- **Aerokats/Aeropod** — Atmospheric profiling product; ongoing development
-- **EG Proposal Management** — Government grant consultant (NSF Phase II implied)
-- **Murray State University** — Research access or event attendance
-- **Creative Alignments** — Marketing/communications materials development
+**June 29, 09:52 UTC:** Meredith to Jack on **"Re: Invoice 2011536 from KCO, Inc."** (IMPORTANT flag)
 
----
+**June 29, 09:50 UTC:** Meredith to Jack (second message, IMPORTANT flag)
 
-## Communication Patterns
+**June 29, 09:42 UTC:** Meredith to Jack + Maciej forwarding payroll error (IMPORTANT flag)
 
-### Time Patterns (NEW DATA)
-- **Sona Raziabeegum (Krateo) messaging Jack at 04:00–05:30 UTC** (June 29) — **suggests offshore coordination (Krateo UK-based or coordinating with European/UK teams) OR urgent morning announcement execution**
-- **Jack responding to Sona at 12:28 UTC on June 28** (afternoon
+**June 29, 07:40 UTC:** Jack (from elstonj@gmail.com) responding to Cheryl Kloeckner (kcotax.com, tax advisor) on KCO invoice (IMPORTANT flag)
+
+**June 29, 13:11 UTC:** Meredith to Mark Kightlinger (kcotax.com) on **"Updates

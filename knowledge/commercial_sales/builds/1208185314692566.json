@@ -1,9 +1,9 @@
 {
-  "asana_gid": "1213756777376150",
-  "asana_task_name": "University of Colorado Boulder",
-  "customer": "University of Colorado Boulder",
-  "customer_contact": "Jazlynn Hall",
-  "customer_email": "jazlynn.hall@colorado.edu",
+  "asana_gid": "1208185314692566",
+  "asana_task_name": "[450] Alaska Coastline Erosion Surveys (University of Colorado)",
+  "customer": "University of Colorado",
+  "customer_contact": "Julia Moriarty",
+  "customer_email": "Julia.Moriarty@colorado.edu",
   "receive_by": "2026-08-31",
   "ship_to": null,
   "items": [
@@ -27,7 +27,7 @@
   "payment_state": "estimate_sent",
   "build_state": "none",
   "ship_state": "none",
-  "estimate_date": "2026-04-10",
+  "estimate_date": null,
   "invoice_date": null,
   "invoice_amount": null,
   "invoice_number": null,
@@ -63,9 +63,11 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "New professor Jazlynn Hall at CU Boulder seeking E2 system with custom sensor payload for scientific research. Estimate sent 2026-04-10. Customer will not purchase until August 2026 when new position starts. Receive-by 2026-08-31 confirmed via Asana task. KEEP signal: explicit receive_by date within 6 months (2026-08-31). QBO invoices #1759 and #1618 are for separate CU Boulder projects (IRISS and INSTAAR) and do not correspond to this E2 build.",
+  "notes": "Academic research project \u2014 Alaska Coastline Erosion Surveys measuring bathymetry/topography with LiDAR. Estimate sent May 2026; receive-by August 31, 2026. Customer (Julia Moriarty) requested guidance on S0 vs. S2 and asked for technician support option. Kept despite 'No action needed' status due to substantive Slack activity May 15\u2013May 20 confirming estimate_sent phase and future receive_by date within 6 months.",
   "missing_fields": [
-    "ship_to"
+    "ship_to",
+    "estimate_date",
+    "invoice_amount"
   ],
   "last_evidence_date": "2026-06-24",
   "last_contact_date": "2026-06-23"

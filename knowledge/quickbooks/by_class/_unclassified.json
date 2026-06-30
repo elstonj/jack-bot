@@ -1,21 +1,49 @@
 {
   "project_code": "_unclassified",
   "qbo_class_names": [
+    "",
     "[012-3] Embry Riddle Model S0"
   ],
   "period": {
-    "start": "2026-06-28",
-    "end": "2026-06-29"
+    "start": "2026-06-29",
+    "end": "2026-06-30"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 20.0,
+    "expenses": 1250.82,
     "by_category": {
+      "Uncategorized Asset": 882.61,
+      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 300.0,
+      "FACILITIES:FA-Shop Supplies": 48.21,
       "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 20.0
     }
   },
   "invoices": [],
-  "bills": [],
+  "bills": [
+    {
+      "type": "Bill",
+      "date": "2026-06-29",
+      "doc_number": "PwrSupply",
+      "total": 2122.0,
+      "attributed": 300.0,
+      "vendor": "Summit Assembly, LLC",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "June 2026 work",
+      "lines": [
+        {
+          "amount": 1822.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": "PCB Assembly Assembly x 4"
+        },
+        {
+          "amount": 300.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": "Stencil & Set Up"
+        }
+      ]
+    }
+  ],
   "purchases": [
     {
       "type": "Purchase",
@@ -32,6 +60,42 @@
           "amount": 20.0,
           "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
           "description": "Shipment of Model S0 to Embry Riddle"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-29",
+      "doc_number": "69630",
+      "total": 882.61,
+      "attributed": 882.61,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "JAWSTEC - 4617",
+      "lines": [
+        {
+          "amount": 882.61,
+          "account": "Uncategorized Asset",
+          "description": "For future S3 Sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-29",
+      "doc_number": "0626JELSTON",
+      "total": 48.21,
+      "attributed": 48.21,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MCMASTER-CARR - 4617",
+      "lines": [
+        {
+          "amount": 48.21,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": ""
         }
       ]
     }

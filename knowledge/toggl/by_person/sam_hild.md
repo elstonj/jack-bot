@@ -1,30 +1,32 @@
 # Sam Hild — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 57.8 hours
+- **Total hours tracked:** 65.9 hours
 - **Primary projects:** 
-  1. [001-07] S3 IRAD (11.6 hours, 20.1%)
-  2. Unassigned/None (18.3 hours, 31.7%)
-  3. [300-3] 2026 IDIQ (Hurricane) (10.1 hours, 17.5%)
-  4. [001-04] S0 VTOL IRAD (6.2 hours, 10.7%)
-  5. [550-1] Navy SBIR: Magnetometer (3.1 hours, 5.4%)
+  1. Unassigned/None (18.3 hours, 27.8%)
+  2. [001-07] S3 IRAD (11.6 hours, 17.6%)
+  3. [300-3] 2026 IDIQ (Hurricane) (16.9 hours, 25.6%)
+  4. [001-04] S0 VTOL IRAD (6.2 hours, 9.4%)
+  5. [550-1] Navy SBIR: Magnetometer (4.4 hours, 6.7%)
 - **Time period covered:** Multiple data batches (cumulative)
 
 ## Project Breakdown
-- **No project assigned:** 18.3 hours (31.7%) ⚠️ *increased*
-- **[001-07] S3 IRAD** (Client: [001] IRAD): 11.6 hours (20.1%)
-- **[300-3] 2026 IDIQ (Hurricane)** (Client: [300] NOAA): 10.1 hours (17.5%)
-- **[001-04] S0 VTOL IRAD** (Client: [001] IRAD): 6.2 hours (10.7%)
-- **[550-1] Navy SBIR: Magnetometer:** 3.1 hours (5.4%)
-- **Other projects:** 8.5 hours (14.7%)
+- **No project assigned:** 18.3 hours (27.8%) ⚠️ *still elevated*
+- **[300-3] 2026 IDIQ (Hurricane)** (Client: [300] NOAA): 16.9 hours (25.6%) ↑ *+6.8 hours*
+- **[001-07] S3 IRAD** (Client: [001] IRAD): 11.6 hours (17.6%)
+- **[001-04] S0 VTOL IRAD** (Client: [001] IRAD): 6.2 hours (9.4%)
+- **[550-1] Navy SBIR: Magnetometer:** 4.4 hours (6.7%) ↑ *+1.3 hours*
+- **Other projects:** 8.5 hours (12.9%)
 
 ## Recent Activity
-- **New unassigned entry:** 7.1 hours logged with no project code and no task description
-- This represents a **regression in tracking discipline** after the positive momentum from the NOAA "Deployment Tube QC" entry
-- Unassigned time has grown from 11.2 to 18.3 hours (6.1 hour increase)
+- **Positive trend:** This batch shows **100% project assignment compliance** (8.1 hours all coded)
+- **Hurricane project focus:** Two entries totaling 6.8 hours on "Deployment Tube QC" (0.7h + 6.1h)
+- **Navy SBIR work:** 1.3 hours logged on "Report"
+- **Notable:** Strong return to tracking discipline after previous unassigned entries
 
 ## Patterns
-- **Tracking compliance concern:** Unassigned/untracked time now represents **nearly one-third of total tracked hours** (31.7%)
-- **Inconsistent discipline:** Recent behavior shows oscillation between proper project/task assignment (NOAA entry) and incomplete entries (current batch)
-- **Clarification needed:** The 18.3 hours of unassigned time should be reconciled against actual work performed to restore accuracy
-- **Recommendation:** **Urgent:** Request Sam to review and properly classify the 18.3 hours of unassigned time. This batch's 7.1 hours specifically needs project code and task description assignment to maintain data integrity.
+- **Improved compliance:** Latest batch represents a recovery in proper project/task documentation
+- **NOAA (Hurricane) intensifying:** This project is now the second-largest by hours and showing consistent, well-documented work (Deployment Tube QC tasks)
+- **Unassigned overhang:** 18.3 hours of unassigned time remains from earlier batches—still represents ~28% of total and requires reconciliation
+- **S3 IRAD plateau:** No new hours logged on this project in latest batch; focus has shifted to NOAA work
+- **Recommendation:** **Continue current tracking discipline.** Request Sam to classify the outstanding 18.3 unassigned hours from earlier entries to restore full data accuracy.
