@@ -1,0 +1,15 @@
+[
+  {
+    "id": "19f1c945d7fff74a",
+    "is_purchase": true,
+    "status": "invoiced",
+    "amount_usd": null,
+    "vendor": "Worldwide Express",
+    "project_code": null,
+    "project_hint": null,
+    "description": "Worldwide Express shipping invoice",
+    "notes": "Invoice #260627W001050; system-generated payment portal notification",
+    "date": "2026-07-01",
+    "subject": "Worldwide Express Invoice 07/01/2026 #260627W001050 for BLACK SWIFT TECHNOLOGIES #W002346756"
+  }
+]

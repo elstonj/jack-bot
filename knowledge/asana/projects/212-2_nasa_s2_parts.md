@@ -38,15 +38,15 @@
 | **Final delivery** | **September 30, 2026** | **Nate Straus** | **🔄 Open** | **Contract due date** |
 
 ## Task Summary
-- **Total Tasks:** 1 open, 0 completed (Asana)
+- **Total Tasks:** 1 open in Asana, 0 completed
 - **Note:** Asana task list appears to have consolidated; detailed milestone tracking shows 4–5 substantive workstreams (design adjustments, parts ordering, airframe/launcher case orders, launcher refurbishment, final delivery)
 - **Tasks by Assignee:**
-  - **Nate Straus:** 1 open task
+  - **Nate Straus:** 1 open task in Asana
     - Perform launcher refurbishment (June 30, 2026) — Next critical milestone
   - **Josh Fromm:** Parts ordering substantially complete in real-world execution (June 2–3, 2026)
   - **Unassigned:** Design adjustments and case ordering tasks
 - **Project Owner:** Nate Straus
-- **Completion Rate:** 0% formal; however parts procurement is substantially complete in real-world execution
+- **Completion Rate:** 0% formal in Asana; however parts procurement is substantially complete in real-world execution
 
 ## Recent Activity
 
@@ -63,4 +63,4 @@
 
 ## Notes & Context
 
-- **Product Context:** S2 platform is officially end-of-life as of July 2025. Isaac Anderson (NASA Ames) requested cost breakdown for S2 parts replacement on July 11, 2025; Estimate 1362 was issued July 18, 2025 noting that "as we're now transitioning to the S3 platform, the S2 is officially end-of-life. Given that, there are a few
+- **Product Context:** S2 platform is officially end-of-life as of July 2025. Isaac Anderson (NASA Ames) requested cost breakdown for S2 parts replacement on July 11, 2025; Estimate 1362 was issued July 18, 2025 noting that "as we're now transitioning to the S3 platform, the S2 is officially end-of-life.

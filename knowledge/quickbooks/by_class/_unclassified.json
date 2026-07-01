@@ -5,45 +5,20 @@
     "[012-3] Embry Riddle Model S0"
   ],
   "period": {
-    "start": "2026-06-29",
-    "end": "2026-06-30"
+    "start": "2026-06-30",
+    "end": "2026-07-01"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 1250.82,
+    "expenses": 2176.24,
     "by_category": {
-      "Uncategorized Asset": 882.61,
-      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 300.0,
-      "FACILITIES:FA-Shop Supplies": 48.21,
+      "SALES & MARKETING:SM-Shipping": 2049.65,
+      "FACILITIES:FA-Shop Supplies": 106.59,
       "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 20.0
     }
   },
   "invoices": [],
-  "bills": [
-    {
-      "type": "Bill",
-      "date": "2026-06-29",
-      "doc_number": "PwrSupply",
-      "total": 2122.0,
-      "attributed": 300.0,
-      "vendor": "Summit Assembly, LLC",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "June 2026 work",
-      "lines": [
-        {
-          "amount": 1822.0,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
-          "description": "PCB Assembly Assembly x 4"
-        },
-        {
-          "amount": 300.0,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
-          "description": "Stencil & Set Up"
-        }
-      ]
-    }
-  ],
+  "bills": [],
   "purchases": [
     {
       "type": "Purchase",
@@ -65,37 +40,37 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-06-29",
-      "doc_number": "69630",
-      "total": 882.61,
-      "attributed": 882.61,
+      "date": "2026-06-30",
+      "doc_number": "100117560",
+      "total": 106.59,
+      "attributed": 106.59,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "JAWSTEC - 4617",
+      "memo": "DKC*DIGI KEY CORP - 4617",
       "lines": [
         {
-          "amount": 882.61,
-          "account": "Uncategorized Asset",
-          "description": "For future S3 Sales"
+          "amount": 106.59,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "FTDI USB boards"
         }
       ]
     },
     {
       "type": "Purchase",
-      "date": "2026-06-29",
-      "doc_number": "0626JELSTON",
-      "total": 48.21,
-      "attributed": 48.21,
+      "date": "2026-06-30",
+      "doc_number": "69182",
+      "total": 2049.65,
+      "attributed": 2049.65,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "MCMASTER-CARR - 4617",
+      "memo": "",
       "lines": [
         {
-          "amount": 48.21,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": ""
+          "amount": 2049.65,
+          "account": "SALES & MARKETING:SM-Shipping",
+          "description": "C-Astral camera shipment to BST for Canada Demo"
         }
       ]
     }

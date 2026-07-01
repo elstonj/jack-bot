@@ -3,9 +3,9 @@
 ## Overview
 The operations channel serves as Black Swift Technologies' central hub for coordinating day-to-day activities, project status updates, facility management, shipping/logistics, procurement, financial tracking, and administrative matters. It functions as a working operations log where decisions are documented, action items assigned, and resources tracked.
 
-**Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination), Paige Smith (admin), Ethan Domagala (project coordination), Kareem (team member returning from absence), and numerous other engineers and support staff.
+**Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination), Paige Smith (admin), Ethan Domagala (project coordination), Kareem (team member), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,430+ messages across multiple batches spanning from July 2020 through June 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through June 2026 with project refinements, AI assistant integration, NDAA compliance discussions, operational coordination, formalized post-flight reporting processes, S0 production planning, payload modifications, organizational structure refinements, facility maintenance, and personnel task assignments. Most recent activity (June 23, 2026) reflects ongoing operational meeting coordination and team communication.
+**Activity level:** High-volume channel with 3,430+ messages spanning from July 2020 through June 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through June 2026 with project refinements, AI assistant integration, NDAA compliance discussions, operational coordination, formalized post-flight reporting processes, S0 production planning, payload modifications, organizational structure refinements, facility maintenance, and personnel task assignments. Most recent activity (June 30, 2026) reflects ongoing battery import/customs coordination.
 
 ---
 
@@ -45,7 +45,9 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **Cost implications:** Extremely high ($1,225-$1,340 for 5x E2 batteries to Costa Rica via DHL without insurance). April 2022 Costa Rica mission required significant logistics planning due to battery shipping constraints.
 
-**May 2026 Mexico Shipment Follow-up:** Dan Prendergast identified historical correspondence regarding battery shipments to Mexico. Discovery that ECCN (Export Control Classification Number) was not obtained for batteries; Mexico import was processed as permanent import rather than temporary export. Dan coordinating with customs broker Javi to clarify procedures. Jack Elston deferring response pending additional information from interested parties (as of May 27, 2026).
+**May-June 2026 Mexico/Import Coordination:** Dan Prendergast identified historical correspondence regarding battery shipments to Mexico. Discovery that ECCN (Export Control Classification Number) was not obtained for batteries; Mexico import was processed as permanent import rather than temporary export. Dan coordinating with customs broker Javi to clarify procedures. Jack Elston deferred response pending additional information (May 27, 2026).
+
+**June 30, 2026 - Battery Import Authorization:** Dan Prendergast requested permission from Jack Elston to sign power of attorney document from Robert Correia (Aeronet/customs broker) to facilitate return of BST battery into the US. Jack Elston approved authorization (June 30, 2026).
 
 ### Remote ID (RID) Implementation
 - **November 20, 2023:** S1 RID accepted by FAA and became selectable in FAA database (RID000001894). Expanded to S0, S3, and other aircraft platforms through testing protocols established by Jack Elston and team.
@@ -66,7 +68,4 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **August 2023:** DigiKey account password set to BSTOct11!; account locked requiring tech support intervention.
 
 ### Vendor Management
-- **2023-2024:** Parker Vollmer organizing vendor list for procurement software evaluation. Goal: understand vendor roles, projects supported, and active status. Separate tracking needed from accounting system vendor list.
-- **Multiple vendor program setups:** Murray State, Notre Dame, and others onboarded with W9 collection and contract setup handled by Meredith Needham.
-
-### International Export & Customs
+- **2023-2024:** Parker Vollmer organizing vendor list for procurement software evaluation. Goal: understand vendor roles, projects supported

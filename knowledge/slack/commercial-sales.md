@@ -12,10 +12,10 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Danny Troke (QC, testing, batteries)
 - Meredith Needham (shipping, logistics, quote coordination, invoice tracking)
 - Nate (assembly, QC flights, payload prep, GCS builds, quotes, training coordination, customer outreach)
-- Paige Smith (sales coordination, customer communication)
+- Paige Smith (sales coordination, customer communication, website form submissions)
 - Beck Cotter (customer outreach, email coordination, S0/S0-VTOL ownership coordination, Arctic demo coordination, travel booking, presentation materials, meeting scheduling)
 - Ben Busby (team member, sales pipeline tracking, payload packet analysis)
-- Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead, demo participation, presentation management, field operations coordination)
+- Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead, demo participation, presentation management, field operations coordination, training pricing inquiries)
 - Dan H (CU - external customer, E2 battery interest)
 - Bassil (customer - methane research, travel May 19-June 9, 2026, field operations coordination)
 - Stefan (Atmofacts - external partner, methane algorithm tuning)
@@ -26,8 +26,9 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - CJFC (prospective government customer/contact, June 2026 presentation planned)
 - NREL (prospective customer - E2 training request, June 19, 2026)
 - Tanay (prospective customer/contact - scheduling discussions underway, June 21, 2026)
+- Ryan Nesselrodt (SRI International/Center for Innovation - prospective customer, quantum sensing interview request, July 28-29, 2026)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: June 28, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: June 30, 2026.
 
 ---
 
@@ -101,10 +102,4 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Joshua Fromm identified that multiple Iris batteries (units #2, #3, #5) do not have the "big bus bar mod"
 - Jack Elston decision: Flight path must be limited and old 14" prop must be used with these units
 - **Issue identified (May 12, 2026):** Unit lacks old 14" prop; Josh Fromm noted discrepancy
-- **XML Configuration Review (May 12, 2026):** Jack Elston directed verification against S2 master setup; Nate confirmed XML check was completed before flap servo replacement
-
----
-
-## Projects & Initiatives
-
-###
+- **XML Configuration Review (

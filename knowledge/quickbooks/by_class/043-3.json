@@ -4,16 +4,14 @@
     "[043-3] By Light Halo"
   ],
   "period": {
-    "start": "2026-05-14",
-    "end": "2026-05-15"
+    "start": "2026-06-30",
+    "end": "2026-07-01"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 48.07,
+    "expenses": 115.61,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 33.42,
-      "Inventory Asset": 11.83,
-      "FACILITIES:FA-Shop Supplies": 2.81
+      "DIRECT COSTS:DC-Direct Material Purchases": 115.61
     }
   },
   "invoices": [],
@@ -21,34 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-05-14",
-      "doc_number": "0513JELSTON",
-      "total": 366.29,
-      "attributed": 48.07,
+      "date": "2026-06-30",
+      "doc_number": "",
+      "total": 115.61,
+      "attributed": 115.61,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "No Asana request. Josh placed the order directly. See project listed under each item purchased",
+      "memo": "DKC*DIGI KEY CORP - 4617",
       "lines": [
         {
-          "amount": 206.62,
+          "amount": 115.61,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "For IDIQ 2026"
-        },
-        {
-          "amount": 90.17,
-          "account": "Inventory Asset",
-          "description": "Future S3 Sales"
-        },
-        {
-          "amount": 48.07,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "For By Light"
-        },
-        {
-          "amount": 21.43,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": ""
+          "description": "HEATSINK PWR DUAL BLACK T"
         }
       ]
     }

@@ -4,14 +4,14 @@
     "(001-1) IRAD- General"
   ],
   "period": {
-    "start": "2026-06-25",
-    "end": "2026-06-26"
+    "start": "2026-06-30",
+    "end": "2026-07-01"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 35.98,
+    "expenses": 200.61,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 35.98
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 200.61
     }
   },
   "invoices": [],
@@ -19,19 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-06-25",
-      "doc_number": "",
-      "total": 35.98,
-      "attributed": 35.98,
+      "date": "2026-06-30",
+      "doc_number": "100117933",
+      "total": 200.61,
+      "attributed": 200.61,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "AMAZON MKTPL*1R9DD5BP3 - 4617",
+      "memo": "",
       "lines": [
         {
-          "amount": 35.98,
+          "amount": 200.61,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "CKAuto 1/4oz, 0.25oz, Grey, Adhesive Stick on Wheel Weights,"
+          "description": "Protektive Pak"
         }
       ]
     }

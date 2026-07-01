@@ -17,7 +17,7 @@
 ⚠️ **CRITICAL: All milestone due dates originally in spring/summer 2026 are STALE per team corrections (Maciej Stachura, April 17, 2026; Jack Elston, April 20, 2026). Actual deployment timeline has shifted to FALL 2026. Do not action spring/summer 2026 due dates without confirmation.**
 
 ### Major Milestones (Original Planned Dates — Now Superseded by Fall 2026 Deployment)
-- **Operator Manual and Flight CONOPS for AFAC** | Dan Prendergast | Asana due: June 24, 2026 | **STALE**
+- **Operator Manual and Flight CONOPS for AFAC** | Dan Prendergast | Asana due: July 2, 2026 | **STALE**
 - **Obtain flight approvals from AFAC** | Dan Prendergast | Asana due: July 1, 2026 | **STALE**
 - **Verify ground permissions for national park (CENAPED leading)** | Dan Prendergast | Asana due: July 1, 2026 | **STALE**
 - **Sort out flight, radio, shipping, and import permissions** | Unassigned | Asana due: July 31, 2026 | **STALE** — Note: Batteries already shipped to Mexico (May 2026); customs/import details under review
@@ -32,14 +32,17 @@
 - **Spare parts and packing list** | Josh Fromm | Asana due: October 1, 2026 | **STALE**
 
 ## Task Summary
-- **Total Tasks**: 1 open, 0 completed (0% overall completion)
+- **Total Tasks**: 3 open, 0 completed (0% overall completion)
 - **Tasks by Assignee**:
-  - **Dan Prendergast**: 1 open task (0% completion) — Operator Manual and Flight CONOPS for AFAC (due June 24, 2026) **STALE**
+  - **Dan Prendergast**: 3 open tasks (0% completion)
+    - Operator Manual and Flight CONOPS for AFAC (due July 2, 2026) **STALE**
+    - Obtain flight approvals from AFAC (due July 1, 2026) **STALE**
+    - Verify ground permissions for national park/CENAPED (due July 1, 2026) **STALE**
 
 ## Recent Activity
 
 ### May 27–28, 2026 (TEAM CORRECTIONS — AUTHORITATIVE)
-**Daniel Prendergast** (May 27 & 28, 2026) raised three pending action items for Maciej Stachura:
+**Daniel Prendergast** raised three pending action items for Maciej Stachura:
 1. **Email archive location**: Two emails documenting battery shipment history to Mexico — awaiting direction on where to save them
 2. **ECCN clarification**: Battery was shipped without an ECCN; permanent import fees paid to Mexico. Prendergast offered to email customs broker Javi for formal confirmation if needed.
 3. **Group communication**: Asked whether to respond to email chain to explain battery import details to the group.

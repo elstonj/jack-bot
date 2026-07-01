@@ -25,7 +25,7 @@ This is a contact database, not a project with deliverables. Contains 100+ conta
 - **Government invoice portals**: PIEE (Navy/Air Force), IPP (NASA/NOAA/USGS)
 
 ## Task Summary
-- **Total tasks**: 2 open, 0 completed
+- **Total tasks**: 1 open, 0 completed
 - **Tasks by assignee**: All unassigned (contact records only)
 - **Data structure**: Each "task" represents a contact with structured custom fields:
   - Company/Agency/Name
@@ -55,10 +55,9 @@ This is a contact database, not a project with deliverables. Contains 100+ conta
 - **Paramount Tube (Precision Products)** — Precision products supplier; Gerald Yoquelet (Sales), gyoquelet@ppgintl.com, (260) 918-2127; 1430 Progress Road, Fort Wayne IN 46808; https://www.paramounttube.com
 - **K-Mac Plastics** — Precision products supplier; Marlo Gillion (contact), marlo@kmac-distribution.com, (616) 406-0671; 3821 Clay St SW, Wyoming MI 49548; https://www.k-mac-plastics.com/
 - **Human Interest** — 401k Provider; Address: 655 Montgomery St, Suite 1800, San Francisco, CA 94111; Phone: (877) 475-0179; Website: https://humaninterest.com/
+- **WorldWide Express (WWEX)** — **NEW** (April 2025); UPS authorized reseller; Kelsie Pierson (Account Manager), kelsie.pierson@wwex.com, support@wwex.com; Address: 3513 Brighton Blvd Suite 360, Denver, CO 80216; Phone: (214) 927-6575; Website: www.speedship.com; **Note**: As of 2025, all UPS shipments are billed through WWEX. Any shipping issues or assistance should route through WWEX.
 
 ### Closed/Inactive Contacts
 - **Jones & Associates CPAs PC (CLOSED)** — Tax consultant; Bill Jones (retired January 2026), info@jonescpapc.com, 947 Pope Dr Erie CO 80516, (303) 254-6613; **Note**: Replaced by KCO, Inc.
 - **Northwind Composites (CLOSED)** — Lee Skidmore contact; Lee@northwindcomp.com; 1323 N. Division Ave Suite 103, Sandpoint ID 83864; (208) 290-5585; https://northwindcomposites.com/
-- **Kay Rufty (CLOSED)** — NASA AREN contractor; kayrufty@gmail.com, Kay.rufty@blackswifttech.com; no longer working with BST as of mid-2025
-- **JB Advisory Group (CLOSED)** — CPA; Julie Beth Malone, juliebeth@jbadvisorygroup.com, 2595 Trailridge DR E Lafayette CO 80026, (720) 798-4441; did not have a background with government contracting, services ended
-- **Jennifer Rowe (CLOSED)** — Contractor (FAR
+- **Kay Rufty

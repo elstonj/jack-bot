@@ -1,78 +1,79 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 29 emails across 12-day period (27 Jun – 29 Jun 2026)
-- **Approximate volume:** Light; roughly 2–3 emails per day, with spike on 29 Jun (17 messages in one day)
-- **Note:** Significant increase in volume on latest scan date suggests either backlog or active project phase
+- **Total messages scanned:** 43 emails across 15-day period (27 Jun – 1 Jul 2026)
+- **Approximate volume:** Light; roughly 2–3 emails per day
+- **Pattern:** Spike on 30 Jun (10 messages); 1 Jul shows continued activity
+- **Note:** Significant increase in volume during late Jun–early Jul period suggests active procurement/project phase
 
 ## Key Correspondents
 
-**Top Senders (New Data):**
-1. JawsTec Manufacturing LLC (info@jawstec.com, via purchasing@blackswifttech.com) — 2 order confirmations + 2 payment requests
-2. Jack Elston (elstonj@blackswifttech.com) — 2 messages with Frank Strazzabosco re: Parts [IMPORTANT]
-3. Maciej Stachura (stachura@blackswifttech.com, Google Docs) — 2 messages (technical collaboration)
-4. Hotel/Travel automated — 2 confirmations (Hampton Inn & Suites Murray, KY)
+**Top Senders (Updated):**
+1. **JawsTec Manufacturing LLC** (briana@jawstec.com, info@jawstec.com) — 3 messages including order confirmations and **order delay notification** (30 Jun)
+2. **DigiKey** (orders via Purchasing) — 2 PO acknowledgements (sales orders #100124240, #100117933, #100117560)
+3. **Jeffrey Orton / QuSpin** (jorton@quspin.com) — 2 new messages in active thread with Maciej Stachura (30 Jun)
+4. **Worldwide Express** (do-not-reply via Purchasing) — Invoice #W002346756 (1 Jul)
+5. **Automated/Administrative:** Rippling payroll (30 Jun), Veeam, UnitedHealthcare, Harris Aerial, HeliDirect
 
 **Top Recipients:**
-- Still primarily receiving; Sam appears CC'd on Jack Elston → Frank Strazzabosco Parts thread
-- Direct recipient of Google Docs collaboration from Maciej Stachura
-- Direct recipient of UnitedHealthcare promotional email
+- Primary receipt still routed through purchasing@blackswifttech.com gateway
+- Direct recipient of Rippling payroll notification (sam.hild@blackswifttech.com)
+- CC'd on QuSpin technical thread (Maciej Stachura ↔ Jeffrey Orton)
+- UnitedHealthcare notification to personal account
 
 **Internal vs External:**
-- **New internal collaboration:** Jack Elston (elstonj@blackswifttech.com) and Maciej Stachura (stachura@blackswifttech.com) are active collaborators
-- **External partnerships:** JawsTec Manufacturing LLC (new vendor), Frank Strazzabosco/microfirm (external parts supplier)
-- Majority still routed through purchasing@blackswifttech.com gateway
+- **Internal:** Maciej Stachura (stachura@blackswifttech.com) — active technical collaboration
+- **External vendors:** JawsTec Manufacturing, DigiKey, Worldwide Express (logistics/shipping), QuSpin, Harris Aerial
 
 ## Topic Patterns
 
-**Hardware/Manufacturing (Priority):**
-- **JawsTec Manufacturing LLC** — Orders #69630 and #69631; invoice-level activity suggests active procurement
-- **PCBWay orders** — `bartington_mag_adc` project (previous data; still relevant)
-- **Parts sourcing** — Jack Elston thread with Frank Strazzabosco marked [IMPORTANT]; subject: "Parts" suggests active BOM/component procurement
-- **Instrumart credit card receipt (CS3381)** — Electronics supply vendor
+**Hardware/Manufacturing (Critical Priority):**
+- **JawsTec Manufacturing LLC** — **Order delay alert** from Briana Gonzalez (30 Jun 20:33); suggests time-sensitive procurement at risk
+- **DigiKey orders** — 3 PO acknowledgements in single day (30 Jun); sales orders #100124240, #100117933, #100117560 — indicates high-volume component purchasing
+- **Worldwide Express Invoice** — Shipping/logistics for components (1 Jul); invoice #W002346756
+- **PCBWay orders** — `bartington_mag_adc` project (continuing from previous scans)
 
-**Travel:**
-- **Hampton Inn & Suites by Hilton, Murray, KY** — Hotel stay confirmation (new location vs previous Ottawa)
-- Expedia feedback request (previous hotel reservation still in system)
+**Technical Collaboration (Active):**
+- **QuSpin inquiry thread** — 3 messages exchanged between Maciej Stachura and Jeffrey Orton (30 Jun 11:07–11:42 CDT), marked [IMPORTANT]
+- Likely regarding magnetometer/quantum sensor integration or specifications
+- Suggests active design phase with external sensor vendor
 
-**Technical Collaboration:**
-- **Google Docs reference:** `N6833525C0492CLIN...` — Shared document with Maciej Stachura; appears project/part number related
-- **QuSpin Question:** Maciej Stachura responding to external contact Jeffrey Orton (jorton@quspin.com) — likely magnetometer/sensor vendor (QuSpin makes quantum sensors)
+**Logistics/Shipping:**
+- **Worldwide Express** processing orders; invoice suggests component/parts shipment underway
 
-**Consumer/Retail:**
-- Spindrift Market order SH62377422 confirmation (repeat vendor)
-- Battery Junction promotional (Panasonic CR123A batteries)
-- UnitedHealthcare weight loss benefits (personal/wellness, unsolicited)
+**Consumer/Administrative:**
+- **Rippling payroll** notification (30 Jun 18:34) — payroll processed for period 6/1–6/30/26
+- UnitedHealthcare benefits (personal account notification)
+- Veeam backup/security promotional email (unsolicited)
+- Harris Aerial demo invitation (promotional)
+- HeliDirect holiday sale (promotional)
 
 ## Communication Patterns
 
-- **Mixed human and automated traffic** — Human-to-human now visible with internal BST colleagues
-- **Marked as IMPORTANT:** Parts thread (Jack Elston/Frank Strazzabosco), Maciej Stachura Google Docs, PCBWay (previous)
-- **Time zones:** UTC+0000 (JawsTec, UK/Europe-based), -0600 (Jack Elston, Central), -0700 (InstruMart, Pacific), suggesting geographically distributed team
-- **No mailing lists detected**
-- **Toggl Track** (time tracking software) notification suggests time-logging workflow
+- **Concentrated activity:** 30 Jun shows 10 messages (70% of new data), suggesting deadline or project push
+- **Marked as IMPORTANT:** QuSpin Question thread (ongoing technical discussion)
+- **No CC'd on parts thread this scan** — Maciej Stachura and Jeffrey Orton communicating directly; Sam may be receiving as fallout
+- **Time zones:** UTC+0000 (JawsTec, Worldwide Express), -0600/-0500 (DigiKey, Central US), -0600 (Maciej, QuSpin), suggesting global supply chain coordination
+- **Automation:** Rippling payroll, Worldwide Express invoice routing, Veeam security prompts
+- **Spam/marketing noise continues:** Veeam, HeliDirect, Harris Aerial (low-signal items)
 
 ## Key Relationships
 
-**Primary Internal Collaborators (New):**
-1. **Jack Elston** (elstonj@blackswifttech.com) — Active on Parts procurement thread [IMPORTANT]; appears to be coordinating with external vendor Frank Strazzabosco
-2. **Maciej Stachura** (stachura@blackswifttech.com) — Technical collaboration on shared Google Doc; also corresponds with external QuSpin contact (Jeffrey Orton, jorton@quspin.com)
+**Primary Internal Collaborators (Confirmed):**
+1. **Maciej Stachura** (stachura@blackswifttech.com) — Direct technical contact with QuSpin; marked IMPORTANT
 
-**External Vendors/Contacts (New):**
-- **JawsTec Manufacturing LLC** (info@jawstec.com) — Active manufacturing orders; invoices 69630–69631
-- **Frank Strazzabosco** (microfirm@earthlink.net) — Parts supplier; external collaborator on procurement
-- **Jeffrey Orton** (jorton@quspin.com) — QuSpin contact; Maciej Stachura is responding to his inquiry
-
-**Continuing Vendors:**
-- PCBWay (bartington_mag_adc project)
+**External Vendors/Contacts (Updated):**
+- **JawsTec Manufacturing LLC** (Briana Gonzalez, briana@jawstec.com) — **PRIMARY MANUFACTURING PARTNER** with emerging delivery risk (order delay alert 30 Jun)
+- **Jeffrey Orton / QuSpin** (jorton@quspin.com) — Active technical discussion on magnetometer/sensor integration (IMPORTANT)
+- **DigiKey** — High-volume component supplier (3 PO acknowledgements in one day suggests large BOM)
+- **Worldwide Express** — Logistics partner handling component shipments
 
 ## Notable Observations
 
-- **New hardware vendor emerging:** JawsTec Manufacturing appears to be a primary manufacturing partner (2 orders in single day); invoice workflow suggests payment processing underway
-- **Cross-functional hardware team:** Jack Elston + Maciej Stachura + Sam Hild appear to be coordinating component/manufacturing procurement for active project(s)
-- **QuSpin connection significant:** Magnetometer/quantum sensor vendor contact suggests `bartington_mag_adc` may be part of larger sensor integration (Bartington = magnetometer brand; QuSpin = quantum optically pumped magnetometer)
-- **Travel pattern:** Murray, KY and Ottawa suggest field work or vendor visits (manufacturing/testing sites?)
-- **Google Docs collaboration:** Real-time document with part numbers/references; suggests active design/specification phase
-- **Parts sourcing urgency:** Multiple [IMPORTANT] flags on parts/components thread suggests time-sensitive procurement
-- **Automation tooling:** Toggl Track integration indicates time tracking is being used (possibly for billing or project tracking on hardware work)
-- **Spam/Marketing noise:** Promotional emails (Battery Junction, HeliDirect, UnitedHealthcare) still present but don't reflect primary work focus
+- **Supply chain risk flagged:** JawsTec order delay notification suggests procurement schedule is tight; coordinated with Maciej Stachura likely needed
+- **High-volume component procurement:** 3 DigiKey PO acknowledgements in 24 hours (30 Jun 11:25–11:42 CDT) plus Worldwide Express invoice indicates sustained manufacturing push
+- **QuSpin technical engagement intensifying:** 3-message thread on same day suggests rapid back-and-forth on specifications or technical issue resolution
+- **Logistics operational:** Worldwide Express invoice (1 Jul) indicates component shipment in motion; timeline sensitive given JawsTec delay alert
+- **Payroll processed:** Rippling notification 30 Jun confirms Sam on standard payroll cycle (monthly period 6/1–6/30)
+- **Project phase assessment:** Concentrated email activity (30 Jun spike) + order delays + high-volume component orders + active technical vendor engagement suggests **hardware project in critical build/test phase**
+- **Continuing pattern:** Spam/marketing email noise (Veeam, HeliDirect, Harris Aerial, UnitedHealthcare) remains low-signal but present

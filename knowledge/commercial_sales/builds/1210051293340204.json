@@ -18,7 +18,7 @@
   ],
   "payment_state": "paid",
   "build_state": "complete",
-  "ship_state": "in_transit",
+  "ship_state": "delivered",
   "estimate_date": "2024-12-01",
   "invoice_date": "2025-12-11",
   "invoice_amount": 86862.94,
@@ -28,14 +28,14 @@
     {
       "name": "S2 batteries (6S 22.2V)",
       "ordered": true,
-      "received": false,
+      "received": true,
       "vendor": "BST",
       "order_date": null
     },
     {
       "name": "S3 Batteries (qty 3)",
       "ordered": true,
-      "received": false,
+      "received": true,
       "vendor": "BST",
       "order_date": null
     }
@@ -48,8 +48,8 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Active commercial S2 rental project [018-1] Murphy's Pond CH4 Monitoring. Invoice #1728 ($86,862.94) for Trip #2 (Nov 6-7, 2025) paid Dec 17, 2025. Dan Prendergast and Jack Elston conducted data collection Jun 21-22, 2026. Battery shipment (3x S3) shipped Jun 22 via Aeronet tracking 103032275 to Blackburn Hall. Dr. Masri inquired Jan 20, 2026 about cost for 2 remaining trips; email activity as recent as Jun 29, 2026 (thermal data delivery). Project funding expires Dec 31, 2026.",
+  "notes": "Active commercial S2 rental project [018-1] Murphy's Pond CH4 Monitoring. Invoice #1728 ($86,862.94) for Trip #2 (Nov 6-7, 2025) paid Dec 17, 2025. Dan Prendergast and Jack Elston conducted data collection Jun 21-22, 2026. Battery shipment (3x S3) shipped Jun 22 via Aeronet tracking 103032275 to Blackburn Hall and delivered. Thermal data and survey results delivered Jun 29-30, 2026. Dr. Masri inquired Jan 20, 2026 about cost for 2 remaining trips. Project funding expires Dec 31, 2026.",
   "missing_fields": [],
-  "last_evidence_date": "2026-06-29",
-  "last_contact_date": "2026-06-29"
+  "last_evidence_date": "2026-06-30",
+  "last_contact_date": "2026-06-30"
 }

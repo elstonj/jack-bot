@@ -1,30 +1,56 @@
 {
   "period": {
-    "start": "2026-06-29",
-    "end": "2026-06-30"
+    "start": "2026-06-30",
+    "end": "2026-07-01"
   },
-  "scanned_at": "2026-06-30",
+  "scanned_at": "2026-07-01",
   "projects": [
     {
-      "project_code": "001-7",
+      "project_code": "001-1",
       "revenue": 0.0,
-      "expenses": 1822.0,
+      "expenses": 200.61,
       "invoice_count": 0,
-      "bill_count": 1,
-      "purchase_count": 0,
+      "bill_count": 0,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
+        "(001-1) IRAD- General"
+      ]
+    },
+    {
+      "project_code": "018-1",
+      "revenue": 0.0,
+      "expenses": 499.0,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 1,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "[018-1] Murphy's Pond CH4"
+      ]
+    },
+    {
+      "project_code": "043-3",
+      "revenue": 0.0,
+      "expenses": 115.61,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 1,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "[043-3] By Light Halo"
       ]
     },
     {
       "project_code": "300-3",
       "revenue": 144000.0,
-      "expenses": 597.03,
+      "expenses": 0.0,
       "invoice_count": 2,
       "bill_count": 0,
-      "purchase_count": 2,
+      "purchase_count": 0,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -33,9 +59,9 @@
     },
     {
       "project_code": "550-1",
-      "revenue": 49459.0,
+      "revenue": 14459.0,
       "expenses": 0.0,
-      "invoice_count": 2,
+      "invoice_count": 1,
       "bill_count": 0,
       "purchase_count": 0,
       "po_count": 0,
@@ -47,9 +73,9 @@
     {
       "project_code": "_unclassified",
       "revenue": 0.0,
-      "expenses": 1250.82,
+      "expenses": 2176.24,
       "invoice_count": 0,
-      "bill_count": 1,
+      "bill_count": 0,
       "purchase_count": 3,
       "po_count": 0,
       "payment_count": 0,
