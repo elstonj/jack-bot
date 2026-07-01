@@ -1,81 +1,93 @@
 # Toggl Time Tracking Overview
 
 ## Key Metrics
-- **Total hours tracked:** 34,428.1 hours (2020-2026)
+- **Total hours tracked:** 34,485.8 hours (2020-2026)
 - **Number of active team members:** 28
 - **Number of projects tracked:** 53 projects with time, 151 total projects in workspace
 
 ## Team Time Allocation
 
 ### Hours by Team Member (Ranked)
-1. **Jack Elston:** 13,005.5 hours (37.79% of total time) — *↑ 12.2 hrs Murray State CH4 Monitoring travel (Jun 29-30)*
-2. **Stachura:** 2,360.1 hours (↑ 9.0 hrs: 1.0 hr BD Pipeline + 3.4 hrs Methane IRAD + ~4.6 hrs Hurricane IDIQ)
+1. **Jack Elston:** 13,013.7 hours (37.76% of total time) — ↑ 8.2 hrs (Jun 30-Jul 1): Hurricane IDIQ firmware/QC discussion + general ops
+2. **Stachura:** 2,368.2 hours (↑ 8.1 hrs: mixed project work)
 3. **Alex:** 1,987.1 hours
 4. **Kay Rufty:** 1,974.0 hours
 5. **Josh Fromm:** 1,799.4 hours
-6. **Nate:** 1,699.2 hours (↑ 8.0 hrs Hurricane IDIQ Jun 29-30)
+6. **Nate:** 1,707.4 hours (↑ 8.2 hrs Hurricane IDIQ)
 7. **Dan:** 1,594.5 hours
 8. **Jake Sahli:** 1,280.6 hours
 9. **Maciej Stachura:** 1,245.2 hours
 10. **Parker:** 1,218.7 hours
 11. **Beck Cotter:** 452.0 hours
-12. **Ethan Domagala:** 425.7 hours (↑ 8.0 hrs ByLight M2/Halo Jun 29-30)
-13. **Sam Hild:** 402.9 hours (↑ 8.1 hrs: 1.8 hrs Navy SBIR Magnetometer + 6.3 hrs Hurricane IDIQ Deployment Tube QC)
-14. **Paige Smith:** 262.1 hours (↑ 5.9 hrs Marketing Jun 29-30)
-15. **Meredith Needham:** 225.8 hours (↑ 6.1 hrs Operations/Admin Jun 29-30)
-16. **Spencer Hoehl:** 42.1 hours (↑ 7.0 hrs Hurricane IDIQ Jun 29-30)
+12. **Ethan Domagala:** 433.7 hours (↑ 8.0 hrs ByLight M2/Halo)
+13. **Sam Hild:** 410.7 hours (↑ 7.8 hrs mixed work)
+14. **Paige Smith:** 270.4 hours (↑ 8.3 hrs Marketing)
+15. **Meredith Needham:** 232.0 hours (↑ 6.2 hrs Operations/Admin)
+16. **Spencer Hoehl:** 44.8 hours (↑ 2.9 hrs Hurricane IDIQ)
 17. **Kareem Ahmed:** 19.6 hours
 18. **Remaining 10 team members:** ~4,300 hours combined
 
 ### Utilization Patterns
-- **Hurricane IDIQ surge:** 24.8 hours concentrated on [300-3] over Jun 29-30—represents 38.6% of period's tracked time; multi-person engagement (Stachura, Nate, Sam Hild, Spencer Hoehl) indicates active deployment phase
-- **Murray State continuation:** Jack Elston +12.2 hrs on return travel (Jun 29-30)—field campaign winding down; total 37.7 hours invested in project over Jun 27-30 window
-- **ByLight work resuming:** Ethan Domagala +8.0 hrs on M2/Halo project; aligns with existing quarterly engagement pattern
-- **Distributed team activity:** 8 team members active in 2-day period; no resource bottlenecks evident
+- **Sustained Hurricane IDIQ engagement:** 17.1 hours (Jun 30-Jul 1) across 4 contributors (Jack Elston, Nate, Spencer Hoehl, others)—continues deployment/QC phase from prior week; firmware release and MTS discussions indicate active development/testing cycle
+- **Overhead focus:** 16.8 hours combined on General Operations (8.5 hrs) and Marketing (8.3 hrs); Paige Smith primary marketing contributor
+- **ByLight M2/Halo active:** Ethan Domagala 8.0 hrs—consistent engagement; no project code on some entries suggests untracked work
+- **Distributed team activity:** 8 active contributors over 2-day period; typical summer staffing pattern
 
 ## Project Portfolio
 
 ### Top Projects by Hours (Updated)
-1. **Project None:** 8,680.6 hours (25.24%) — unallocated/overhead
-2. **Project 183171534:** 4,535.8 hours (13.17%)
-3. **[301-2] SBIR - Hurricane Phase II+ (NOAA):** 3,292.8 hours (9.57%)
-4. **[200-12] Aeropods (NASA):** 1,972.1 hours (5.73%)
-5. **[001-13] Corporate/Strategic Planning & Overhead:** 2,031.5 hours (5.90%) ↑ *+6.1 hrs General Ops + 5.9 hrs Marketing + 1.0 hr BD Pipeline*
-6. **[001-04] S0 VTOL IRAD:** 1,354.9 hours (3.94%)
-7. **[200-7] SBIR - Volcano CCRPP:** 1,248.1 hours (3.63%)
-8. **[018-1] Murray State CH4 Monitoring:** 37.7 hours (0.110%) ↑ *+12.2 hrs travel/return (Jun 29-30)*
+1. **Project None (Unallocated):** 8,696.5 hours (25.22%)
+2. **Project 183171534:** 4,535.8 hours (13.15%)
+3. **[301-2] SBIR - Hurricane Phase II+ (NOAA):** 3,292.8 hours (9.55%)
+4. **[200-12] Aeropods (NASA):** 1,972.1 hours (5.72%)
+5. **[001-13] Corporate/Strategic Planning & Overhead:** 2,048.3 hours (5.94%) ↑ *+16.8 hrs (General Ops 8.5 + Marketing 8.3)*
+6. **[001-04] S0 VTOL IRAD:** 1,354.9 hours (3.93%)
+7. **[200-7] SBIR - Volcano CCRPP:** 1,248.1 hours (3.62%)
+8. **[300-3] 2026 IDIQ (Hurricane):** 202.0 hours (0.586%) ↑ *+17.1 hrs (Jun 30-Jul 1)*
 9. **[001-07] S3 IRAD:** 359.3 hours (1.04%)
 10. **[400-5] SBIR - Soil Moisture Mapping (Air Force):** 1,006.2 hours (2.92%)
-11. **[001-08] Flight Testing IRAD:** 946.1 hours (2.75%)
-12. **[001-16] SwiftStation IRAD:** 901.3 hours (2.62%)
-13. **[001-14] SwiftCore 3.3 IRAD:** 790.6 hours (2.30%)
-14. **[001-03] S0-AD IRAD:** 271.1 hours (0.79%)
-15. **[300-3] 2026 IDIQ (Hurricane):** 184.9 hours (0.537%) ↑ *+24.8 hrs deployment phase activity*
-16. **[001-11] Methane Emission Detection IRAD:** 3.4 hours (0.010%) ↑ *new activity via Stachura*
-17. **[550-1] Navy SBIR: Magnetometer:** 79.8 hours (0.232%) ↑ *+2.8 hrs Sam Hild report work*
-18. **[043-3] ByLight M2/Halo:** 8.0 hours (0.023%) ↑ *new tracking entry, Ethan Domagala*
+11. **[001-08] Flight Testing IRAD:** 946.1 hours (2.74%)
+12. **[001-16] SwiftStation IRAD:** 901.3 hours (2.61%)
+13. **[001-14] SwiftCore 3.3 IRAD:** 790.6 hours (2.29%)
+14. **[043-3] ByLight M2/Halo:** 16.0 hours (0.046%) ↑ *+8.0 hrs*
+15. **[001-03] S0-AD IRAD:** 271.1 hours (0.79%)
+16. **[001-11] Methane Emission Detection IRAD:** 3.4 hours (0.010%)
+17. **[550-1] Navy SBIR: Magnetometer:** 79.8 hours (0.232%)
+18. **[018-1] Murray State CH4 Monitoring:** 37.7 hours (0.110%)
 19. Remaining projects: <100 hours each
 
 ### Client Distribution (Updated)
-- **IRAD (Internal R&D):** 7,115.6 hours (20.69%) ↑
-- **Overhead/Corporate/Operations:** 2,031.5 hours (5.90%) ↑
-- **NOAA:** 3,517.7 hours (10.22%) ↑ *+24.8 hrs Hurricane IDIQ*
-- **NASA:** 2,058.8 hours (5.98%)
-- **Department of Air Force:** 1,258.5 hours (3.66%)
-- **Navy (SBIR/STTR):** 79.8 hours (0.232%) ↑
-- **Murray State:** 37.7 hours (0.110%) ↑ *+12.2 hrs*
-- **ByLight:** 8.0 hours (0.023%) ↑ *new*
-- **PTO/Sick Leave:** 266.5 hours (0.775%)
-- **Unallocated:** 8,680.6 hours (25.23%)
+- **IRAD (Internal R&D):** 7,115.6 hours (20.65%)
+- **Overhead/Corporate/Operations:** 2,048.3 hours (5.94%) ↑
+- **NOAA:** 3,535.8 hours (10.26%) ↑ *+17.1 hrs Hurricane IDIQ*
+- **NASA:** 2,058.8 hours (5.97%)
+- **Department of Air Force:** 1,258.5 hours (3.65%)
+- **Navy (SBIR/STTR):** 79.8 hours (0.232%)
+- **ByLight:** 16.0 hours (0.046%) ↑ *+8.0 hrs*
+- **Murray State:** 37.7 hours (0.109%)
+- **PTO/Sick Leave:** 266.5 hours (0.773%)
+- **Unallocated:** 8,696.5 hours (25.22%)
 
 ## Patterns & Insights
 
-### Active Deployment Phase (Jun 29-30)
-- **Hurricane IDIQ acceleration:** 24.8 hours logged—38.6% of period's tracked time; Deployment Tube QC work (Sam Hild) + general support (Stachura, Nate, Spencer Hoehl) suggests preparation or active field phase
-- **Multi-team engagement:** 4 distinct contributors (Stachura, Nate, Sam Hild, Spencer Hoehl) indicates coordinated effort and operational readiness
-- **Emerging Spencer Hoehl role:** 7.0 hrs on Hurricane IDIQ; previously minimal activity (35.1 hrs total pre-Jun 29)—new contributor or expanded responsibilities
+### Sustained Hurricane IDIQ Momentum (Jun 30-Jul 1)
+- **17.1 hours across 2 days**—continued from Jun 29-30 surge (cumulative 41.9 hours in 4 days)
+- **Key activities:** Firmware release/QC, MTS discussions, deployment prep—indicates active development cycle or pre-deployment phase
+- **Four-person core team:** Jack Elston, Nate, Spencer Hoehl, plus others; consistent with coordinated deployment model
+- **Jack Elston leadership:** 8.2 hrs on Hurricane—leadership/technical decision-making focus (firmware, MTS discussions)
 
-### Murray State Project Lifecycle
-- **Field campaign complete:** Jack Elston return travel (Jun 29-30) marks end of 4-day deployment cycle
-- **Total investment 4-day window:** 37.7 hours accumulated; flight operations (13.0 hrs), data processing (12.5 hrs), travel/logistics (12.2 hrs)
-- **Specialist model:** Jack
+### Overhead & Marketing Surge
+- **16.8 hours (Jun 30-Jul 1)** concentrated on General Operations (8.5 hrs) and Marketing (8.3 hrs)
+- **Paige Smith dominance:** 8.3 hrs on Marketing alone—primary marketing resource
+- **Operational cadence:** Regular ops/admin contributions (Meredith Needham 6.2 hrs)—staffing or administrative peaks
+
+### ByLight Engagement Normalizing
+- **16.0 hours total** (now tracked); Ethan Domagala consistent 8.0 hr engagement pattern suggests established quarterly/project cycle
+- **Lower visibility:** Some team entries unassigned to projects—potential tracking inconsistency
+
+### Unallocated Time Concern
+- **15.9 hours in this period (27.6% of tracked time)** assigned to "Project None"—consistent 25%+ pattern suggests significant overhead, meeting time, or administrative work not coded to clients
+- **Recommendation:** Clarify project allocation standards to improve billability tracking
+
+### Team Capacity Assessment
+- **8 active contributors over 2-day period

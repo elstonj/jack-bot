@@ -4,11 +4,11 @@
     "[550-1] Navy SBIR Magnetometer"
   ],
   "period": {
-    "start": "2026-06-29",
-    "end": "2026-06-30"
+    "start": "2026-06-30",
+    "end": "2026-07-01"
   },
   "totals": {
-    "revenue": 49459.0,
+    "revenue": 14459.0,
     "expenses": 0.0,
     "by_category": {}
   },
@@ -31,29 +31,6 @@
         },
         {
           "amount": 14459.0,
-          "account": "",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Invoice",
-      "date": "2026-06-29",
-      "doc_number": "1749",
-      "total": 35000.0,
-      "attributed": 35000.0,
-      "vendor": "",
-      "customer": "[550-1] Navy SBIR Magnetometer",
-      "balance": 35000.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 35000.0,
-          "account": "",
-          "description": "CLIN 0006: Progress Report - Option"
-        },
-        {
-          "amount": 35000.0,
           "account": "",
           "description": ""
         }

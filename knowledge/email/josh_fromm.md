@@ -1,42 +1,42 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,463 emails (1,430 prior + 33 from June 29–30)
-- **Date range:** May 18–June 30, 2026
+- **Total messages scanned:** 1,499 emails (1,463 prior + 36 from July 1–2, 2026)
+- **Date range:** May 18–July 1, 2026
 - **Daily average:** ~15–17 emails/day (human correspondence); automated/logistics/procurement/travel volume substantial and accelerating
-- **Unread messages:** ~1,140+ unread (heavy promotional/automated volume dominating)
-- **New data period (June 29–30 — 33 additional emails):**
-  - **Human correspondence:** 4 emails (12%) — Simon Laurence (UK MOD), Santiago Silva (Xometry), Chance Rogers (VertIQ), Roger Riley (Krateo Sky)
-  - **Automated/Logistics/Procurement/Travel/Promotional:** 29 emails (88%)
-    - **Manufacturing/Precision Services (June 29):**
-      - **JawsTec Manufacturing LLC** (2x payment requests: invoices 69630, 69631 — Jun 29, 21:12–21:18) — **NEW vendor contact; precision machining/manufacturing; active dual-order phase**
-      - InstruMart (Credit Card Receipt CS3381 — Jun 29, 13:44) — **Electronics/component supplier billing**
-      - ProtoSpace/ProtoCASE (project checklist — Jun 29, 14:07)
-    - **Component Procurement (June 29):**
-      - Amazon (Delivered: 18 Gauge Silicone wire + 11 items; 24 Gauge Silicone wire; WOLFBOX MF200 + 2 items; 64GB PNY USB — Jun 29, 18:49–18:58) — **High-velocity wire/cable/storage/video equipment delivery wave**
-      - eBay (noco genm1 search/recommendation — Jun 29, 06:09) — **Generator/power equipment interest**
-      - ELEGOO US (summer 50% off sale — Jun 29, 13:01)
-      - DigiKey (summer component promotion — Jun 29, 10:01)
-      - Battery Junction (Panasonic CR123A sale — Jun 29, 17:01)
-    - **Shipping/Logistics (June 29–30):**
-      - UPS (package delivery notification, tracking 1ZX259760399716234 — Jun 29, 07:26; delivery confirmation — Jun 29, 10:25)
-      - USPS Informed Delivery (daily digest — Jun 29, 13:21)
-      - Hampton Inn & Suites (stay confirmation, Murray KY — Jun 29, 12:47, 14:03) — **Travel to Kentucky (possible manufacturing/supplier visit)**
-    - **Beverage/Wellness Orders (June 29):**
-      - Spindrift Market (Order SH62377422 shipping — Jun 29, 21:07) — **Continuing beverage subscription**
-    - **Vendor Marketing (June 29):**
-      - Harbor Freight (2x promotional: July 4th sale, Maciej coupon expiration — Jun 29, 17:32–17:33)
-      - Expedia (trip rating request — Jun 29, 16:04)
-    - **Travel/Hospitality (June 29):**
-      - Hampton Inn & Suites (2x stay confirmations — Jun 29, 12:47, 14:03)
-    - **Health/Benefits (June 29):**
-      - UnitedHealthcare (weight loss benefits promotion — Jun 29, 09:08)
-    - **Newsletter/Event Promotions (June 29–30):**
-      - UAS VISION (daily news digest — Jun 30, 09:07) — **Industry intelligence/updates**
-      - Luminary AI (Physics AI for Missile Aerodynamics webinar — Jun 29, 10:14)
-      - Space Software Summit (Fireworks flash sale — Jun 29, 15:17)
-    - **Project Management/Notifications (June 29):**
-      - Asana (unread notifications — Jun 29, 21:34)
+- **Unread messages:** ~1,170+ unread (heavy promotional/automated/logistics volume dominating)
+- **New data period (July 1–2 — 36 additional emails):**
+  - **Human correspondence:** 3 emails (8%) — Simon Laurence (UK MOD), Briana Gonzalez (JawsTec)
+  - **Automated/Logistics/Procurement/Travel/Promotional:** 33 emails (92%)
+    - **Manufacturing/Precision Services (July 1):**
+      - **JawsTec Manufacturing LLC** (Briana Gonzalez contact — Jun 30, 21:33; **"Possible order delay" — FLAGGED IMPORTANT**) — **Active dual-order phase; order fulfillment risk flagged**
+      - ProtoSpace/ProtoCASE (epoxy vs polyester powder coat educational/marketing — Jun 30, 20:04)
+    - **Component Procurement (July 1):**
+      - **DigiKey** (6x shipment notifications + PO acknowledgements — Jun 30, 11:25–16:23; high-velocity ordering pattern) — **Multiple concurrent orders (invoices 128393115, 128393825, 128407557, 128407666)**
+      - TraceParts (power conversion/clock/energy delivery component promotion — Jun 30, 16:50)
+    - **Shipping/Logistics (July 1):**
+      - **Worldwide Express** (Invoice 07/01/2026 #260627W001050 for BST — Jul 1, 07:28; Mid-2026 Shipping Update — Jun 30, 10:01) — **New logistics vendor emerging**
+      - USPS Informed Delivery (daily digest — Jun 30, 13:16)
+    - **Travel/Hospitality (June 30):**
+      - Hilton Honors (2x promotional: Points doubling, 100% more Points through July 24 — Jun 30, 17:28, 22:39) — **Continuing travel/loyalty engagement**
+      - Expedia (up to 40% off travel + extra 25% coupon — Jun 30, 08:42) — **Travel booking incentive active**
+    - **Vendor Marketing/Promotions (June 30):**
+      - Harris Aerial (Demo Day invitation — 2x emails to josh.fromm@blackswifttech.com and purchasing@blackswifttech.com, Jun 30, 23:24–23:28) — **New vendor outreach; possible UAS platform partner inquiry**
+      - Teledyne FLIR OEM (2x AI-powered Prism Ground ISR Software promotion — Jun 30, 10:04–10:09; duplicate to josh.fromm@bst.aero and josh.fromm@blackswifttech.com) — **ISR/imaging software interest; active targeting**
+      - HeliDirect (Fourth of July savings promotion to purchasing@blackswifttech.com — Jun 30, 20:00)
+      - Budget rental (25% off ride promotion — Jun 30, 17:07)
+      - Harbor Freight (NEW PRODUCT ALERT — Jun 30, 13:48)
+      - Luminary (Physics AI for aerospace/missile aerodynamics webinar — Jun 30, 15:41) — **Continuing advanced physics simulation interest**
+    - **Project Management/Notifications (June 30):**
+      - Asana (2x unread notifications — Jun 30, 17:11, 22:45)
+    - **HR/Payroll (June 30):**
+      - Rippling (Payroll: 6/1/26–6/30/26 — Jun 30, 18:34)
+    - **Survey/Feedback (June 30):**
+      - Anne Jalkala (2-question survey for improvement — Jun 30, 17:13)
+    - **Government/Program Correspondence (June 30):**
+      - Daniel Prendergast (forwarded to US SOCOM: (U) [Non-DoD Source] Re: RFI S0 — Jun 30, 12:28) — **SOCOM RFI activity; intelligence gathering/response coordination**
+    - **Industry Intelligence (June 30):**
+      - UAS VISION (daily news digest — Jun 30, 09:06)
 
 ---
 
@@ -45,15 +45,15 @@
 ### Top Internal Contacts
 1. **Jack Elston** (elstonj@blackswifttech.com) — **Purchasing lead; C2T2 Proposal lead; NASA SBIR/STTR Post-Phase II opportunity coordinator; Krateo Sky Consortium member**
 
-2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Canada Demo/Sprint Lead; Arctic UAS program liaison**
+2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Canada Demo/Sprint Lead; Arctic UAS program liaison; SOCOM RFI coordination**
 
 3. **Beck Cotter** (beck.cotter@blackswifttech.com) — **MOD.gov.uk/Merlin Mk2 liaison**
 
-4. **Maciej Stachura** (stachura@blackswifttech.com) — **C2T2 Proposal distribution; vendor procurement routing (Harbor Freight coupon recipient)**
+4. **Maciej Stachura** (stachura@blackswifttech.com) — **C2T2 Proposal distribution; vendor procurement routing**
 
-5. **Meredith Needham** (purchasing@blackswifttech.com) — **Procurement team; vendor/newsletter content routing**
+5. **Meredith Needham** (purchasing@blackswifttech.com) — **Procurement team; vendor/newsletter content routing; primary receiving contact for logistics/shipping alerts**
 
-6. **Alex Lomis** (alex.lomis@blackswifttech.com) — **Arctic UAS team member; ELEGOO promotional recipient**
+6. **Alex Lomis** (alex.lomis@blackswifttech.com) — **Arctic UAS team member**
 
 7. **Ethan Domagala** (ethan.domagala@blackswifttech.com) — **Arctic UAS team member**
 
@@ -62,30 +62,18 @@
 ### Top External Contacts
 
 #### **Government/Military/Programs**
-- **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — **UK MOD; Merlin Mk2/US Navy SBIR liaison; active 2-way correspondence June 29–30** ⚡
+- **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — **UK MOD; Merlin Mk2/US Navy SBIR liaison; 2-way correspondence active June 30 (RE: exchanges)** ⚡
+- **Zachary O. Kachel** (zachary.o.kachel.mil@socom.mil) — **US SOCOM; RFI S0 response coordination through Daniel Prendergast** ⚡
 
 #### **Active Consortium/Program Partners**
-- **Roger Riley** (Roger@krateosky.com) — **Krateo Sky Consortium; Critical Component Tiger Team lead (Jun 29); coordinating multi-partner initiative**
+- **Roger Riley** (Roger@krateosky.com) — **Krateo Sky Consortium; Critical Component Tiger Team lead**
 - **Jordan Weil** (jordan@inspiredflight.com) — **Inspired Flight; Krateo Sky Consortium partner**
 - **Vijay Santhakumar** (vijay@vantagerobotics.com) — **Vantage Robotics; Krateo Sky Consortium partner**
 - **Samo Stopar** (samo.stopar@c-astral.com) — **C-Astral; Krateo Sky Consortium partner**
 
 #### **Manufacturing/Precision Services**
-- **JawsTec Manufacturing LLC** (info@jawstec.com) — **NEW/ACTIVE; precision manufacturing; dual invoice orders (69630, 69631) June 29; active production phase**
+- **JawsTec Manufacturing LLC** (Briana Gonzalez, briana@jawstec.com) — **CRITICAL; precision manufacturing; dual invoice orders (69630, 69631) active June 29; "Possible order delay" flagged IMPORTANT June 30, 21:33 — order fulfillment risk/timeline jeopardy** ⚠️
 - **Sofia Alvarez** (sofia.alvarez@lnp-machining.com) — **Machining services vendor**
-- **Santiago Silva** (santiago.silva@xometry.com) — **Xometry (on-demand manufacturing platform); "Checking in on Josh's upcoming projects" — Jun 29; relationship-building/project alignment outreach** ⚡
-- **ProtoSpace Mfg / ProtoCASE** (marketingemail@protocase.com) — **Enclosure/case manufacturing**
-- **PCBWay Online Services** (feedback09@pcbway.com) — **PCB manufacturing; magnetometer ADC board (bartington_mag_adc) in iteration phase**
-- **Daniels Manufacturing Corporation** — **Mil-spec connectors**
-- **SendCutSend** — **Sheet metal fabrication**
-
-#### **Component/Electronics Suppliers**
-- **BatterySpace** — **Battery qualification/regulatory documentation**
-- **ELEGOO US** — **Electronics/hobby prototyping components**
-- **InstruMart** (credit@instrumart.com) — **Electronics component supplier (active billing June 29)**
-- **DigiKey** — **Electronics components distribution**
-- **Battery Junction** — **Battery supplier**
-- **AliExpress** — **Electronics/component sourcing platform**
-
-#### **Motor/Drive Systems**
-- **Chance Rogers** (chance.rogers@vertiq.co) — **VertIQ; motor/drive systems; "23-14 updates" correspondence June
+- **Santiago Silva** (santiago.silva@xometry.com) — **Xometry (on-demand manufacturing platform); project alignment outreach**
+- **ProtoSpace Mfg / ProtoCASE** (marketingemail@protocase.com) — **Enclosure/case manufacturing; material science guidance (epoxy vs polyester)**
+- **PCBWay Online Services** (feedback09@pcbway.com) — **PC

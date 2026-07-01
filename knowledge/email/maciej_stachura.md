@@ -1,9 +1,9 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 178 across ~9-day period (21 Jun – 30 Jun 2026)
-- **Estimated volume:** Moderate-to-high; strategic partnership escalation, government/military liaison, technical R&D coordination, and field operations
-- **Date range:** Peak activity 22–25 Jun; sustained high engagement through weekend (27–28 Jun); continued momentum 29–30 Jun
+- **Total messages scanned:** 216 across ~10-day period (21 Jun – 1 Jul 2026)
+- **Estimated volume:** Moderate-to-high; sustained strategic escalation through government/military liaison, Krateo Sky partnership finalization, technical R&D, and field operations
+- **Date range expansion:** Now extends through 1 Jul 2026
 - **Daily breakdown (updated):**
   - Monday 22 Jun (~20 messages)
   - Tuesday 23 Jun (~15 messages)
@@ -11,61 +11,78 @@
   - Thursday 25 Jun (~30+ messages, sustained high activity)
   - Friday 26 Jun (~20 messages, continued engagement)
   - Saturday 27 Jun (~19 messages, strategic partnership escalation)
-  - Sunday 28 Jun (~5 messages, sustained engagement including Geoff/Aeropod and PCBWay coordination)
-  - Monday 29 Jun (~20+ messages, **ESCALATING — government/military outreach, Krateo Sky GTM finalization, field operations**)
-  - Tuesday 30 Jun (~3 messages, early morning continuation)
-- **Pattern shift:** Sustained high engagement through weekend into early week; 29–30 Jun shows **critical escalation** in UK MOD/Canadian Armed Forces coordination and Krateo Sky GTM strategy finalization
+  - Sunday 28 Jun (~5 messages, sustained engagement)
+  - Monday 29 Jun (~20+ messages, **government/military outreach, Krateo Sky GTM finalization**)
+  - Tuesday 30 Jun (~36+ messages, **SUSTAINED CRITICAL ESCALATION — government/military coordination, NOAA software offering, counter-UAS partnerships, supply chain issues**)
+  - Wednesday 1 Jul (~3 messages, continued momentum)
+- **Pattern:** Sustained high engagement through 30 Jun with no decay; 30 Jun shows dramatic escalation in complexity and government contact density
 
 ## Key Correspondents
 
 **Top Direct Contacts (by frequency/importance):**
-- **Jack Elston** (elstonj@blackswifttech.com) — 30+ interactions; **CRITICAL HUB** across Krateo Sky GTM, Canadian demo coordination, government/military liaison (UK MOD, Canadian Armed Forces), ECSDOT flight operations, Murphy's Pond UAS thermal survey, and strategic partnership escalation (29 Jun, IMPORTANT)
-- **Ariel Avitan** (Ariel@krateosky.com, Krateo Sky) — 7+ interactions; **GTM strategy finalization** (29 Jun 20:44, bidirectional marked IMPORTANT); "BST GTM Discussion" meeting recap (29 Jun)
-- **James Pinto** (pinto@ucar.edu, UCAR) — 7+ interactions; **SCALES Data Analysis dialogue** (29 Jun 14:39–14:54, bidirectional marked IMPORTANT); continued technical refinement
-- **Bob Smith** (Bob@krateosky.com, Krateo Sky) — **ESCALATING (29 Jun)**; "Canadian Demo" thread (29 Jun 16:36 & 10:38, bidirectional with Jack Elston, marked IMPORTANT); direct coordination with Maciej on demo readiness
-- **Mark Goranson** (Mark@nanoveu.com, NanoVeu) — **ESCALATING (29 Jun)**; "ECSDOT Flights for 26 June 2026" (29 Jun, 5+ interactions marked IMPORTANT); flight operations coordination hub
-- **Simon Laurence** (Simon.Laurence157@mod.gov.uk, UK MOD) — **NEW ESCALATION (29–30 Jun)**; "S0 presentation" thread (29 Jun 11:54, 13:45, 30 Jun 07:11, marked IMPORTANT); direct government liaison with Jack Elston and Maciej
-- **Jean-Philippe Oudet** (jean-philippe.oudet@forces.gc.ca, Canadian Armed Forces) — **NEW ESCALATION (29 Jun)**; "Introduction" thread (29 Jun 23:56, marked IMPORTANT); government/military partnership expansion
-- **Jeffrey Orton** (jorton@quspin.com, QuSpin) — **ACTIVE (29 Jun 11:31)**; direct sensor component coordination
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — **INTERNAL HR/FINANCE ESCALATION (29 Jun)**; "Employee was incorrectly charged for $13,587.10" (29 Jun 10:11, 10:22, marked IMPORTANT); payroll/compensation issue requiring immediate attention
-- **Bassil El Masri** (belmasri@murraystate.edu, Murray State University) — **NEW FIELD OPERATIONS (29 Jun 11:02)**; "Murphy's Pond — UAS Thermal Survey, 28 Jun 2026" (marked IMPORTANT); university partner engagement
+- **Jack Elston** (elstonj@blackswifttech.com) — **CRITICAL HUB** (30+ interactions across period)
+  - Government/military escalation: S0 presentation coordination with UK MOD (Simon Laurence) and US Navy (Ruiz-Reyes, Kachel)
+  - Krateo Sky strategy and NOAA software offering coordination (30 Jun 11:25, marked IMPORTANT)
+  - Murphy's Pond UAS thermal survey field operations
+  - Central point of contact for all major strategic initiatives
 
-**Key External Contacts & Organizations:**
+- **Ariel Avitan** (Ariel@krateosky.com, Krateo Sky) — **SUSTAINED CRITICAL (7+ interactions)**
+  - **30 Jun 16:06:** "Possible Software offering to NOAA - Initial discussion" (marked IMPORTANT, bidirectional with Maciej, Krateo Sky team leads Thibault Bridel-Bertomeu, Brian Grubel, Adria Passola)
+  - **NEW SIGNAL:** NOAA partnership expansion; software-as-service strategy emerging
 
-- **Krateo Sky** — **CRITICAL ACTIVE PARTNERSHIP; SUSTAINED ESCALATION INTO FINALIZATION**
-  - Ariel Avitan: GTM strategy finalization (7+ exchanges, **29 Jun 20:44 bidirectional, marked IMPORTANT**); "BST GTM Discussion" meeting recap forwarded to Maciej (29 Jun 20:44)
-  - Bob Smith: **Canadian Demo coordination escalating (29 Jun); bidirectional with Jack Elston and Maciej** (29 Jun 16:36, marked IMPORTANT); direct Krateo Sky technical engagement
-  - **SIGNAL:** GTM planning meeting occurred 29 Jun 9:00–10:00 AM (Google Calendar notification); Ariel forwarding meeting recap same day indicates active strategic alignment
+- **Brian Grubel** (Brian@krateosky.com, Krateo Sky) — **ESCALATING (30 Jun)**
+  - 30 Jun 00:01: Re: "Another interesting company" (marked IMPORTANT, bidirectional with Maciej)
+  - Maciej sent initial "Another interesting company" message 30 Jun 16:05 (MT), Brian responded same date 00:01 (UTC) — indicates rapid engagement/high priority
 
-- **UCAR** (James Pinto) — **SCALES Data Analysis ongoing (29 Jun 14:39–14:54)**; atmospheric research collaboration; continued technical dialogue marked IMPORTANT
+- **Jeffrey Orton** (jorton@quspin.com, QuSpin) — **ACTIVE TECHNICAL ESCALATION (30 Jun)**
+  - 30 Jun 11:07 & 12:21: "Re: QuSpin Question" (marked IMPORTANT)
+  - 30 Jun 12:21: Maciej responds (SENT)
+  - Multiple rapid exchanges suggest sensor integration blocker or urgent technical resolution
 
-- **NanoVeu** (Mark Goranson, Daniel Prendergast liaison) — **OPERATIONAL ESCALATION (29 Jun)**; ECSDOT Flights coordination hub (29 Jun, 5+ interactions marked IMPORTANT); active field operations
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com, BST) — **SUPPLY CHAIN ESCALATION (30 Jun)**
+  - Battery shipment coordination with Aeronet (Robert Correia) — Ottawa Canada return, Quote #141681/103032391 (marked IMPORTANT, multiple exchanges 30 Jun 08:43–16:05)
+  - US Navy liaison: RE: "(U) [Non-DoD Source] Re: RFI S0" (30 Jun 12:28, marked IMPORTANT, with Kachel USSOCOM)
+  - Flight operations: E2/ECS-DoT Integration Project Meeting report (30 Jun 16:08, via Mark Goranson)
 
-- **UK Ministry of Defence** (Simon Laurence, Simon.Laurence157@mod.gov.uk) — **MAJOR ESCALATION (29–30 Jun)**
-  - "S0 presentation" thread (29 Jun 11:54, 13:45, 30 Jun 07:11, marked IMPORTANT)
-  - Direct participation by Maciej, Jack Elston, and Canadian Armed Forces (Jean-Philippe Oudet)
-  - **SIGNAL:** Strategic government/military partnership; "S0 presentation" suggests formal strategic offering or capability demonstration
+- **Simon Laurence** (Simon.Laurence157@mod.gov.uk, UK MOD) — **SUSTAINED GOVERNMENT ESCALATION (30 Jun)**
+  - "S0 presentation" thread (30 Jun 09:37, 09:42, 11:25, 15:41, marked IMPORTANT)
+  - Direct exchange with Jack Elston on strategic offering presentation timing and details
+  - **SIGNAL:** Multiple same-day exchanges (within hours) indicate urgent government coordination
 
-- **Canadian Armed Forces** (Jean-Philippe Oudet, jean-philippe.oudet@forces.gc.ca) — **MAJOR ESCALATION (29 Jun)**
-  - "Introduction" thread (29 Jun 23:56, marked IMPORTANT)
-  - CC'd with UK MOD (Simon Laurence) and NRC-CNRC (Derek Gowanlock)
-  - **SIGNAL:** Trilateral government coordination (UK, Canada federal, Canada research); aligned with Canadian demo expansion
+- **Ruiz-Reyes, Angel R** (angel.r.ruiz-reyes.civ@us.navy.mil, US Navy NAWCAD) — **MAJOR US MILITARY ESCALATION (30 Jun)**
+  - "[Non-DoD Source] S0 COTS WAIVER" thread (30 Jun 13:04, 15:19, 16:11, marked IMPORTANT)
+  - Copied: Paul Jaynes (American Systems), Donald Sapp (USN CNR Arlington VA), Daniel Klier (USN NSWC IHD)
+  - Maciej engaged directly (30 Jun 13:04, marked IMPORTANT)
+  - **SIGNAL:** COTS waiver process; procurement/acquisition pathway activation for S0 offering
 
-- **NRC-CNRC** (Derek Gowanlock, canadian federal research) — **ESCALATION SIGNAL (29 Jun)**; participating in military/government coordination thread (29 Jun 23:56); research institution liaison
+- **Kachel, Zachary O** (zachary.o.kachel.mil@socom.mil, USSOCOM) — **NEW US SPECIAL OPS ESCALATION (30 Jun)**
+  - "(U) [Non-DoD Source] Re: RFI S0" thread (30 Jun 12:28, marked IMPORTANT)
+  - Daniel Prendergast responding on behalf of BST
+  - RFI = Request for Information (formal DoD acquisition inquiry)
+  - **SIGNAL:** Special Operations Command formal interest in S0 offering
 
-- **Stanford University** (Tanay Topac) — Continued atmospheric/meteorological research collaboration
+- **Stefan Metzger** (smetzger@atmofacts.com, Atmofacts) — **ACTIVE DATA COORDINATION (30 Jun)**
+  - "Murphy's Pond Dataset" (30 Jun 11:26 sent, 13:05 reply, marked SENT)
+  - Suggests data processing/analysis partnership for field operations thermal survey
 
-- **Murray State University** (Bassil El Masri, belmasri@murraystate.edu) — **NEW FIELD OPERATIONS (29 Jun)**; "Murphy's Pond — UAS Thermal Survey, 28 Jun 2026" (marked IMPORTANT); university partner for thermal imaging deployment
+- **Bassil El Masri** (belmasri@murraystate.edu, Murray State University) — **SUSTAINED FIELD OPERATIONS (30 Jun)**
+  - "Re: Murphy's Pond — UAS Thermal Survey, 28 Jun 2026" (30 Jun 13:24, marked IMPORTANT, CC'd Jack Elston)
+  - University partner coordination continuing post-survey
 
-- **QuSpin** (Jeffrey Orton, jorton@quspin.com) — **Active sensor component coordination (29 Jun 11:31)**; magnetometer/sensor subsystem integration
+- **Daniel Hesselius** (daniel.hesselius@halo-aero.com, HALO Aerospace) — **NEW PARTNERSHIP ESCALATION (30 Jun)**
+  - "Re: Intro: HALO Aerospace (counter-UAS) with Krateosky team" (30 Jun 15:51, marked IMPORTANT)
+  - **NEW SIGNAL:** Counter-UAS capability partnership exploration
+  - Copied: Lisa Marie Cheney (Krateo Sky), Bob Smith (Krateo Sky)
+  - Maciej responds 30 Jun 09:35 (SENT)
+  - **CRITICAL:** Suggests counter-UAS/anti-drone capability integration or cross-sell with Krateo Sky
 
-- **PCBWay Online Services** — Hardware procurement (Bartington magnetometer ADC boards); active technical iteration (prior period)
+- **Briana Gonzalez** (briana@jawstec.com, JawsTec) — **NEW SUPPLY ALERT (30 Jun)**
+  - "Possible order delay" (30 Jun 21:33, marked IMPORTANT)
+  - Vendor relationship; procurement risk flagged
 
-- **Aeropod / Geoff** (gb.aerokats@gmail.com) — Sustained priority through prior period; profiler data coordination
+**Key External Organizations (Updated):**
 
-**Internal BST Contacts:**
-- **Jack Elston** — Central hub for government/military outreach, partnership coordination, field operations
-- **Daniel Prendergast** — Flight operations, supply chain, field deployment coordination (ECSDOT, Murphy's Pond)
-- **Meredith Needham** — **ESCALATING (29 Jun)** HR/finance; employee payroll issue ($13,587.10 incorrect charge) requiring urgent resolution
-- **Beck Cotter** — Funding coordination (prior period)
-- **Sam Hild** — Technical procurement coordination (prior period)
+- **Krateo Sky** — **CRITICAL ESCALATION INTO NOAA PARTNERSHIP PHASE (30 Jun)**
+  - New leadership engagement: Ariel Avitan, Brian Grubel, Thibault Bridel-Bertomeu, Adria Passola all active
+  - **30 Jun 16:06:** "Possible Software offering to NOAA - Initial discussion" (marked IMPORTANT) — **strategic pivot from GTM to NOAA federal customer**
+  - Counter-UAS partnership: HALO

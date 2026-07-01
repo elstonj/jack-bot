@@ -63,7 +63,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "New professor Jazlynn Hall at CU Boulder seeking E2 system with custom sensor payload for scientific research. Estimate sent 2026-04-10. Customer will not purchase until August 2026 when new position starts. Receive-by 2026-08-31 confirmed via Asana task. KEEP signal: explicit receive_by date within 6 months (2026-08-31). QBO invoices #1759 and #1618 are for separate CU Boulder projects (IRISS and INSTAAR) and do not correspond to this E2 build.",
+  "notes": "New professor Jazlynn Hall at CU Boulder seeking E2 system with custom sensor payload for scientific research. Estimate sent 2026-04-10. Customer will not purchase until August 2026 when new position starts. Receive-by 2026-08-31 confirmed via Asana task. KEEP signal: explicit receive_by date within 6 months. QBO invoices #1759 and #1618 are for separate CU Boulder projects (IRISS and INSTAAR) and do not correspond to this E2 build.",
   "missing_fields": [
     "ship_to"
   ],

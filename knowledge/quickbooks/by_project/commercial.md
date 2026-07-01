@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $2,986,489.34
-- **Total Expenses (Bills + Purchases):** $240,903.11
+- **Total Expenses (Bills + Purchases):** $240,948.72
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,745,586.23 (Revenue exceeds expenses)
+- **Net Position:** $2,745,540.62 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – July 2, 2026
 
 ---
@@ -90,10 +90,12 @@
 ## Expenses by Cost Category
 
 ### **Materials & Supplies** (Direct Cost Material Purchases)
-**Total: $23.51** | 2 transactions | Largest item: $20.93
+**Total: $638.12** | 4 transactions | Largest item: $499.00
 
 | Date | Vendor/Description | Amount | Details |
 |------|-------------------|--------|---------|
+| 2026-06-30 | Purchase #2026-0411 | $499.00 | Processing data for Murray State |
+| 2026-06-30 | Digi Key Corp — Purchase #DKC*DIGI KEY CORP - 4617 | $115.61 | HEATSINK PWR DUAL BLACK T |
 | 2026-06-24 | Purchase #0624JELSTON | $20.93 | Navy Magnetometer |
 | 2026-06-24 | Purchase #0624JELSTON | $2.58 | By Light Supplies |
 
@@ -113,17 +115,10 @@
 ---
 
 ### **Shipping/Freight** (Direct Cost Shipping, Freight & Delivery)
-**Total: $1,426.30** | 15 transactions | Largest item: $1,112.81
+**Total: $1,446.30** | 16 transactions | Largest item: $1,112.81
 
 | Date | Vendor/Description | Amount | Details |
 |------|-------------------|--------|---------|
 | 2026-07-02 | Purchase #260614W010104 | $20.00 | Shipment of Model S0 to Embry Riddle |
 | 2026-06-11 | Aeronet Worldwide — Bill #103032173 | $1,112.81 | Shipping S3 to UMES |
-| 2026-06-10 | PIRATE SHIP * POSTAGE - 7333 | $53.49 | Shipment of Model S0 to Embry Riddle (invoice 1730) |
-| Prior | Prior transactions | $240.00 | From previous file (11 prior items) |
-
-**Account:** DIRECT COSTS: DC-Direct Cost Shipping, Freight & Delivery
-
----
-
-### **Indirect Costs** (Overhead, G
+| 2026-06-10 | PIRATE SHIP * POSTAGE - 7333 | $53.

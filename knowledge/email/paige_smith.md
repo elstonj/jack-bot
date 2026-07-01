@@ -1,21 +1,11 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 3,117 (3,057 previous + 60 new from Jun 29-30, 2026)
-- **Date range:** March 24 – June 30, 2026 (99 days)
-- **Approximate volume:** ~31.5 messages per day (sustained consistency)
-- **New batch composition (Jun 29-30, 2026):** ~80% automation/newsletters/news/promotions (48 of 60 messages)
-  - **Direct human correspondence:** 12 critical messages (20% of batch)
-    - **IDEX 2026 (Abu Dhabi):** 4 messages from Shahla Abdul Karim (ADNEC) — escalating response pattern, multiple IMPORTANT flags
-    - **DroneX 2026 (Uncrewed Tech Expo):** 2 messages (IMPORTANT) — direct coordination with Paige
-    - **Dubai Airshow 2027:** Direct outreach from Adam Zeyn (Informa) — marked IMPORTANT
-    - **ECSDOT Flights:** Ongoing coordination (Mark Goranson/NanoVEU, Jack Elston, Daniel Prendergast) — 6+ messages, multiple IMPORTANT flags
-    - **Krateosky Partnership:** 1 message from Jack Elston RE: Announcement — continuation of Jun 28-29 escalation
-    - **LinkedIn Recruiting/Engagement:** 3 messages (Engineering Design requests, post impressions, pending response from Sarvesh)
-  - **Defense/Aerospace Intelligence:** 5 IMPORTANT messages from Air & Space Forces Magazine + NY Times breaking news (Supreme Court, Iran-U.S. conflict)
-  - **Professional Intelligence Feeds:** UASweekly, Commercial UAV News, Loitering Munitions Hub, UAS VISION
-  - **Industry Partnership Outreach:** European Battery Manufacturing Partner (Perkons Energy), MundoGEO publication portal, ProBuilding Care Solutions
-  - **Retail/Promotional Noise:** Target, Staples (6 messages), NY Times subscription offer, BannerBuzz, ShopAFA, Adobe, Canva, Artlist, AIOSEO, Elementor, ChatGPT
+- **Total messages scanned:** 3,199 (3,117 previous + 82 new from Jul 1-2, 2026)
+- **Date range:** March 24 – July 1, 2026 (101 days)
+- **Approximate volume:** ~31.7 messages per day (sustained consistency)
+- **New batch composition (Jul 1-2, 2026):** ~75% automation/newsletters/news/promotions (61 of 82 messages)
+  - **Direct human correspondence:** 21 critical messages (26% of batch)
 
 ---
 
@@ -24,65 +14,100 @@
 ### Top Internal Senders & Collaborators
 
 **Jack Elston** (elstonj@blackswifttech.com / media@blackswifttech.com)
-- **Status:** Highly active in new batch
-- **Roles visible:**
-  1. **Krateosky Partnership:** Direct coordination with Sona Raziabeegum (Jun 29, 07:10:16 -0600) — "RE: Announcement [IMPORTANT]"
-  2. **ECSDOT Flight Operations:** Multiple messages coordinating with Mark Goranson (NanoVEU) and Daniel Prendergast on Jun 29 flights (4 messages across chain, all IMPORTANT)
-  3. **Media/Communications:** Receives UAS VISION daily news (Jun 29, 09:07:36 UTC)
-- **Pattern:** Primary operational liaison for partnerships, flight testing, and external communications
+- **Status:** Highly active across multiple domains
+- **New batch activity:**
+  - **Geo Week 2027 Submission:** Jun 30, 20:36:08 -0600 (Paige forwards submission confirmation to Jack, marked IMPORTANT)
+  - **Krateosky Partnership:** Ongoing coordination (continuation from previous batch)
+- **Established roles:**
+  1. Conference/exhibition coordination (Geo Week, DroneX, IDEX)
+  2. Krateosky announcement liaison
+  3. Media/news distribution (UAS VISION daily briefing recipient)
+- **Pattern:** Primary point person for conference submissions, speaker coordination, and partnership announcements
 
-**Daniel Prendergast** (daniel.prendergast@blackswifttech.com)
-- **Status:** Active in ECSDOT coordination
-- **Role:** Operational flights/testing coordination with NanoVEU (Mark Goranson, Nikhila Ravikumar)
-- **Pattern:** Continues from previous dataset — consistent flight testing liaison
+**Sona Raziabeegum** (sona@krateosky.com)
+- **Status:** Active partnership executive
+- **New batch activity:**
+  - **Jun 30, 14:38:21 UTC:** RE: Announcement [IMPORTANT] — Sona responds to Jack Elston
+  - **Jun 30, 09:18:15 -0600:** Paige sends direct reply to Sona RE: Announcement
+- **Signal:** **Announcement phase** continues with multiple exchanges. Likely finalization of press release, partnership details, or public disclosure timeline. **Status: ANNOUNCEMENT COORDINATION — active draft/approval phase.**
 
 ---
 
 ### Top External Senders & Partners
 
-#### **IDEX 2026 (Abu Dhabi) — ACTIVE EXHIBITION PHASE (CRITICAL)**
+#### **Dubai Airshow 2027 — PARTNERSHIP DEVELOPMENT (ESCALATED)**
 
-**Shahla Abdul Karim** (shahla.karim@adnec.ae) — ADNEC (Abu Dhabi National Exhibition Company)
-- **Jun 30, 04:40:22 UTC: RE: IDEX Book your Stand Enquiry [UNREAD, IMPORTANT]**
-- **Jun 29, 18:38:49 UTC: RE: IDEX Book your Stand Enquiry [IMPORTANT]**
-- **Jun 29, 18:05:03 UTC: RE: IDEX Book your Stand Enquiry [CATEGORY_PROMOTIONS, IMPORTANT]**
-- **Jun 29, 17:06:05 UTC: RE: IDEX Book your Stand Enquiry [IMPORTANT]**
-- **Paige's responses:**
-  - Jun 29, 14:52:18 -0600: Direct reply to Shahla
-  - Jun 29, 12:36:17 -0600: Direct reply to Shahla
-- **SIGNAL:** **4-message exchange in rapid succession (06:00–18:38 UTC on Jun 29)** with multiple IMPORTANT flags = **stand/booth booking finalization** for IDEX 2026. Stand details, payment, or logistics under active negotiation. **Status: EXECUTION PHASE — likely booth confirmed or pending final approval.**
+**Adam Zeyn** (Adam.Zeyn@informa.com) — Informa
+- **Jun 30, 18:57:14 +0000: Paige & Adam Call - Dubai AIrshow [IMPORTANT]**
+- **Signal:** **Escalation from previous batch.** Subject line references scheduled call, indicating move from inquiry to active discussion/negotiation phase. Likely covering booth logistics, sponsorship tiers, or speaker opportunities. **Status: CALL SCHEDULED — relationship warming, partnership terms under discussion.**
 
-#### **DroneX 2026 / Uncrewed Tech Expo — ACTIVE PARTICIPATION (CONFIRMED)**
+#### **Geo Week 2027 — SPEAKER/EXHIBITOR SUBMISSION (CONFIRMED)**
 
-**Enquiries DroneX | Part of the Uncrewed Tech Expo** (enquiries@uncrewedtechexpo.com)
-- **Jun 29, 20:58:08 +0100: RE: DroneX 2026 [IMPORTANT]**
-- **Jun 29, 17:01:10 +0100: DroneX 2026 [IMPORTANT]**
+**Geo Week 2027** (rferris@divcom.com) / **Carla Lauter** (info@geo-week.com)
+- **Jun 30, 22:44:35 +0000 (UTC):** [Geo Week 2027] Submission Received [CATEGORY_UPDATES]
+- **Jun 30, 12:16:18 -0500 (CDT):** Carla Lauter — FWD: Ready to take the stage at Geo Week? Call for Speakers Now Open! [CATEGORY_PROMOTIONS]
 - **Paige's response:**
-  - Jun 29, 10:15:24 -0600: Direct reply to DroneX
-- **SIGNAL:** **Confirmed exhibitor/participant status.** Two IMPORTANT flags + same-day response protocol indicates booth confirmation or speaker/demonstration logistics finalization. **Status: CONFIRMED — booth/participation active.**
+  - Jun 30, 20:36:08 -0600: Forwards submission confirmation to Jack Elston (marked IMPORTANT)
+  - Jun 30, 17:12:12 -0600: Original submission sent
+- **Signal:** **Submission confirmed for Geo Week 2027.** Paige escalated confirmation to Jack immediately upon receipt — indicates speaker/booth participation is strategically important. **Status: CONFIRMED EXHIBITOR/SPEAKER — submission accepted, logistics TBD.**
 
-#### **Dubai Airshow 2027 — PARTNERSHIP DEVELOPMENT (EARLY PHASE)**
+#### **Krateosky Partnership — ANNOUNCEMENT FINALIZATION (CRITICAL)**
 
-**Adam Zeyn** (Adam.Zeyn@informa.com) — Informa (trade show organizer)
-- **Jun 29, 17:16:21 UTC: Hi Paige - Dubai Airshow 2027 [IMPORTANT]**
-- **Paige's response:**
-  - Jun 29, 12:39:52 -0600: Direct reply to Zeyn
-- **SIGNAL:** Initial outreach from Informa to BST for Dubai Airshow 2027 (2027 timeline). Marked IMPORTANT — indicates strategic value. Likely early booth interest/partnership inquiry. **Status: PARTNERSHIP INQUIRY — early-stage discussion.**
+**Sona Raziabeegum** (sona@krateosky.com) + **Jack Elston**
+- **Jun 30, 14:38:21 UTC:** Sona to Jack: RE: Announcement [IMPORTANT]
+- **Jun 30, 09:18:15 -0600:** Paige to Sona: Re: Announcement [SENT]
+- **Pattern:** **Direct Paige-Sona exchange + Jack-Sona parallel thread.** Multiple IMPORTANT flags over 2+ days indicates announcement is near finalization. Likely reviewing final press release copy, embargo timing, or joint media strategy. **Status: ANNOUNCEMENT IMMINENT — final coordination phase (48-72 hours pre-release likely).**
 
-#### **ECSDOT Program (NanoVEU Partnership) — ACTIVE FLIGHT TESTING**
+#### **NOAA/Weather Research Initiative — ACTIVE MEDIA OUTREACH CAMPAIGN (NEW PATTERN)**
 
-**Mark Goranson** (Mark@nanoveu.com) — NanoVEU Aerospace
-- **Messages in new batch:** 6 exchanges (all IMPORTANT)
-  - Jun 29, 18:02:12 UTC: RE: ECSDOT Flights for 26 June 2026
-  - Jun 29, 17:20:24 UTC: RE: ECSDOT Flights for 26 June 2026
-  - Jun 29, 16:15:52 UTC: RE: ECSDOT Flights for 26 June 2026
-  - Jun 29, 14:35:26 UTC: RE: ECSDOT Flights for 26 June 2026
-  - (Additional messages with Jack Elston and Daniel Prendergast)
-- **Nikhila Ravikumar** (Nikhila@nanoveu.com) — also copied on Jun 29 flight coordination
-- **SIGNAL:** **Active daily flight coordination** for Jun 26 test flights. Multiple same-day responses (17:00–18:00 UTC window) = **real-time operational communication.** Likely reviewing/coordinating flight data, payload performance, or next-phase scheduling. **Status: FLIGHTS ONGOING — program tracking expected continuation.**
+**Paige's Outbound Media Blitz (Jun 30, 14:16–17:12 -0600)**
 
-#### **Krateosky Partnership (Sona Raziabeegum) — ANNOUNCEMENT PHASE CONTINUATION**
+Paige conducted **coordinated multi-outlet media pitch** targeting 15+ major news organizations in <3 hours:
 
-**Jack Elston to Sona Raziabeegum**
-- **Jun 29, 07:10:16 -0600: RE: Announcement [IMPORTANT]**
-- **SIGNAL:** **Continues escalation from Jun 28-29 batch.** Jack's response to
+**Major Tier Outlets:**
+- Bloomberg (tips2@bloomberg.net)
+- Washington Post (jason.samenow@washpost.com, matthew.cappucci@washpost.com)
+- New York Times (raymond.zhong@nytimes.com)
+- NPR (Investigations@npr.org)
+- The Verge (tips@theverge.com)
+- Vox (justine.calma@voxmedia.com)
+
+**Regional/Specialty Outlets:**
+- Miami Herald (aharris@miamiherald.com)
+- Tampa Bay Times (mchesnes@tampabay.com)
+- WWNO New Orleans (hparker@wwno.org)
+
+**Trade/Industry:**
+- Aviation Week (michael.bruno@aviationweek.com, graham.warwick@aviationweek.com)
+- MundoGEO (editorial@mundogeo.com)
+- The Carbon Age (e@thecarbonage.com)
+- Paramount (jeremy.adler@paramount.com) [anomaly — unclear context]
+- Aria Alam freelancer (aria@ariaalam.com)
+- Ars Technica (eric.berger@arstechnica.com)
+
+**Subject Line (Uniform):** "As rapid storm intensification rises, NOAA deploys ultra-light drones to boost forecast precision by 25%"
+
+**Responses Received:**
+- **Justine Calma** (Vox): "I'm on maternity leave" [Jun 30, 13:08:50 -0700, marked IMPORTANT]
+- **Andrew Hawkins** (The Verge): "Out of the Office" [Jun 30, 13:08:34 -0700]
+
+**Signal:** **Large-scale press campaign for NOAA weather intelligence/drone deployment story.** Paige is PR/media relations lead. Story emphasizes 25% forecast precision improvement via ultra-light drones. High-touch approach (individual pitches vs. broadcast). **Status: ACTIVE CAMPAIGN — media embargoes likely coordinated, major outlet pickup expected within 24-48 hours.**
+
+---
+
+### LinkedIn & Professional Development Activity
+
+**LinkedIn Engagement (New Pattern):**
+- **Jun 30, 14:59:50 +0000 (UTC):** "Paige, you're on a roll on LinkedIn!" [IMPORTANT, CATEGORY_SOCIAL]
+- **Jun 30, 02:21:49 +0000 (UTC):** Marketing Specialist insights: $80K/yr+ salary at 7.9K job openings [IMPORTANT]
+- **Jun 30, 19:23:52 +0000 (UTC):** Multiple profile visit notifications (19 visitors)
+- **Jun 1, 04:59:50 +0000 (UTC):** Jan Hruška and others sharing thoughts [CATEGORY_UPDATES]
+
+**Signal:** **Sustained LinkedIn visibility growth.** Combination of organic engagement + job market notifications suggests Paige's profile activity is increasing (possibly sharing conference/partnership news or industry insights). **Context:** May indicate LinkedIn is being leveraged for thought leadership around BST initiatives.
+
+---
+
+### Calendar & Meeting Activity
+
+**Ryan Richardson** (ryan.richardson@thrivelocal.com)
+- **Jun 30, 17:00:07 +0000:** Updated invitation:

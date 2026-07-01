@@ -22,21 +22,21 @@
   - **Compressed 6.5-month timeline:** design → build → ground test → hand-launched flights → Camp Pendleton demo (Sep 14–25) + three Navy reports
 
 - **Status:** 🔴 **CRITICAL — SIGNIFICANT OVERDUE BACKLOG**
-  - **2 Asana tasks open** (CLIN 0006 Progress Report & Invoice, due Jun 29, 2026)
-  - **17 technical/administrative milestones, with 6 OVERDUE and multiple AT RISK as of Jun 8, 2026:**
+  - **Multiple technical milestones OVERDUE as of Jun 8, 2026:**
     - Design of onboard logging (Jack Elston) — **31 days overdue** (due May 8)
     - Python plotting/analysis tools (Maciej Stachura) — **26 days overdue** (due May 13)
     - Build up ground testing S0-MAD (Alex Lomis) — **20 days overdue** (due May 19)
     - Ground testing with throttle variations (Alex Lomis) — **17 days overdue** (due May 22)
     - S0-AD launcher design (Alex Lomis) — **3 days overdue** (due Jun 5)
     - Camp Pendleton permissions/frequencies (Beck Cotter) — **7 days overdue** (due Jun 1)
+  - **Asana currently shows 1 open task:** Local test flights with hand-launched S0-MAD (due Jul 1, 2026)
   - **Team feedback (Maciej Stachura, Jun 8, 2026):** "For mag integration it's Alex and Sam on the critical engineering tasks" — indicates active work underway despite stale Asana tracking
 
 - **Priority:** **HIGH** (Navy SBIR government contract, compressed timeline, critical path delays, Camp Pendleton demo deadline Sep 14–25, 2026)
 
 - **Team Members:**
   - **Alex Lomis** (PM/Owner, technical lead) — **CRITICAL PATH**: 8+ build, test, and flight tasks
-  - **Sam** (Critical engineering on mag integration) — Contact info needed
+  - **Sam** (Critical engineering on mag integration)
   - **Jack Elston** (Technical lead, onboard logging & reporting; owns CLIN 0006/0007 reports) — Overdue design deliverable
   - **Maciej Stachura** (Python tools, sensor configuration, analysis) — Overdue analysis tools
   - **Beck Cotter** (Camp Pendleton coordination & permissions) — Overdue permissions task
@@ -64,17 +64,22 @@
 | **Conduct ground testing with different throttle settings** | Alex Lomis | **May 22, 2026** | 🔴 **OVERDUE (17 days)** |
 | **Design of S0-AD ground launcher complete** | Alex Lomis | **Jun 5, 2026** | 🔴 **OVERDUE (3 days)** |
 | **Finalize permissions, frequencies for Camp Pendleton Demo** | Beck Cotter | **Jun 1, 2026** | 🔴 **OVERDUE (7 days)** |
-| **Build up hand-launched S0-MAD** | Alex Lomis | **Jun 12, 2026** | 🟡 **AT RISK (4 days from Jun 8)** |
-| **Build up and ground test of S0-AD Launcher** | Alex Lomis | **Jun 15, 2026** | 🟡 **AT RISK (7 days from Jun 8)** |
-| **Local test flights with hand-launched S0-MAD (both sensors)** | Alex Lomis | Jul 1, 2026 | 🟡 **AT RISK** |
+| **Build up hand-launched S0-MAD** | Alex Lomis | **Jun 12, 2026** | 🟡 **AT RISK** |
+| **Build up and ground test of S0-AD Launcher** | Alex Lomis | **Jun 15, 2026** | 🟡 **AT RISK** |
+| **Local test flights with hand-launched S0-MAD (both sensors)** | Alex Lomis | **Jul 1, 2026** | 🟡 **AT RISK** — *Current Asana task* |
 | **Finalize Camp Pendleton flight plans and Aircraft** | Alex Lomis | Aug 10, 2026 | 🟡 **AT RISK** |
 | **Camp Pendleton demo flights (Sep 14–25)** | Alex Lomis | **Sep 14–25, 2026** | 🔴 **CRITICAL DEADLINE** |
 
 ## Task Summary
 
 **Asana Tracking:**
-- **Total Asana tasks:** 2 open, 0 completed
-  - [OPEN] Submit CLIN 0006: Progress Report | Jack Elston | Due Jun 29, 2026
-  - [OPEN] Submit Invoice CLIN 0006 ($35,000) | Meredith O'hara Needham | Due Jun 29, 2026
+- **Total Asana tasks:** 1 open, 0 completed
+  - [OPEN] Local test flights with hand-launched S0-MAD with both sensors | Alex Lomis | Due Jul 1, 2026
 
-**Note:** Asana task count does not reflect full scope of technical work. Per Maciej Stachura's Jun 8 feedback, there are 17+ active
+**Technical Work Status:**
+Asana task count significantly underrepresents project scope. Based on known milestones, ~17 active technical/administrative milestones are tracked outside Asana or in stale states. Critical path items owned by Alex Lomis (build, test, flight) comprise majority of open work.
+
+## Recent Activity
+
+**As of Jun 8, 2026:**
+- **6 technical milestones are overdue

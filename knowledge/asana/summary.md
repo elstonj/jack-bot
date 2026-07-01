@@ -1,100 +1,93 @@
 # Asana Projects Overview
 
-Last scanned: 2026-06-30 02:07
+Last scanned: 2026-07-01 02:08
 
-Total projects scanned: 9
+Total projects scanned: 11
 
 ## Projects
 
+- **Contacts** — 1 tasks — [contacts.md](contacts.md)
+- **[001-07] S3 IRAD** — 12 tasks — [001-07_s3_irad.md](001-07_s3_irad.md)
 - **[001-13] BD Pipeline** — 1 tasks — [001-13_bd_pipeline.md](001-13_bd_pipeline.md)
-- **[001-13] Facilities Management** — 1 tasks — [001-13_facilities_management.md](001-13_facilities_management.md)
-- **[001-13] General Operations** — 3 tasks — [001-13_general_operations.md](001-13_general_operations.md)
-- **[001-13] Purchasing** — 17 tasks — [001-13_purchasing.md](001-13_purchasing.md)
-- **[018-1] Murphy's Pond CH4 Monitoring** — 1 tasks — [018-1_murphys_pond_ch4_monitoring.md](018-1_murphys_pond_ch4_monitoring.md)
-- **[043-3] ByLight M2/Halo** — 10 tasks — [043-3_bylight_m2halo.md](043-3_bylight_m2halo.md)
+- **[001-13] General Operations** — 1 tasks — [001-13_general_operations.md](001-13_general_operations.md)
+- **[001-13] Purchasing** — 10 tasks — [001-13_purchasing.md](001-13_purchasing.md)
+- **[001-16] SwiftStation IRAD** — 2 tasks — [001-16_swiftstation_irad.md](001-16_swiftstation_irad.md)
+- **[043-3] ByLight M2/Halo** — 11 tasks — [043-3_bylight_m2halo.md](043-3_bylight_m2halo.md)
 - **[212-2] NASA S2 & Parts** — 1 tasks — [212-2_nasa_s2_parts.md](212-2_nasa_s2_parts.md)
-- **[300-3] 2026 IDIQ (Hurricane)** — 3 tasks — [300-3_2026_idiq_hurricane.md](300-3_2026_idiq_hurricane.md)
-- **[550-1] NAVY SBIR: Magnetometer** — 2 tasks — [550-1_navy_sbir_magnetometer.md](550-1_navy_sbir_magnetometer.md)
+- **[300-3] 2026 IDIQ (Hurricane)** — 5 tasks — [300-3_2026_idiq_hurricane.md](300-3_2026_idiq_hurricane.md)
+- **[350-4] 2024 USGS - Chile (Mexico)** — 3 tasks — [350-4_2024_usgs_-_chile_mexico.md](350-4_2024_usgs_-_chile_mexico.md)
+- **[550-1] NAVY SBIR: Magnetometer** — 1 tasks — [550-1_navy_sbir_magnetometer.md](550-1_navy_sbir_magnetometer.md)
 
 ## Strategic Summary
 
-# BLACK SWIFT TECHNOLOGIES — PROJECT PORTFOLIO OVERVIEW
+# Black Swift Technologies – Project Portfolio Overview
 
-## Executive Summary
-
-| Metric | Value |
-|--------|-------|
-| **Total Portfolio Value** | ~$1.27M |
-| **Active Projects** | 7 major projects |
-| **Critical Risk Areas** | 3 (Purchasing rebound, NASA contact update, BD Pipeline data integrity) |
-| **Immediate Deadlines** | Jun 26–Jul 31, 2026 |
+## Portfolio Summary
+- **Total Quantified Value:** $1,323,703
+- **Active Projects:** 10 major initiatives
+- **Critical Status:** 🔴 One operational bottleneck; multiple Q3 2026 delivery clusters
+- **Key Risk:** Resource contention and deadline compression in July–August 2026
 
 ---
 
 ## Active Projects by Value
 
-| Project | Client | Budget | Status |
-|---------|--------|--------|--------|
-| **[300-3] 2026 IDIQ (Hurricane)** | NOAA | $499,000 | Active — delivery due 2026-07-31 |
-| **[043-3] ByLight M2/Halo** | By Light Commercial | $126,629 | Active — 10 open tasks, due 2026-06-30 |
-| **[212-2] NASA S2 & Parts** | NASA Ames | $89,844 | Active — PO in place |
-| **[018-1] Murphy's Pond CH4 Monitoring** | Murray State University | $86,863 | Active — Flight #3 imminent (due 2026-05-27); $31k pending |
-| **[550-1] NAVY SBIR: Magnetometer** | Navy (NAVAIR/NAWCAD) | *Not specified* | Active R&D program |
-| **[001-13] BD Pipeline** | Mixed (Gov/Defense/Academic/Commercial) | $0.00 recorded | Active sales pipeline — data integrity issue |
-| **[001-13] Facilities & General Ops** | Internal | Ongoing | Operational; 3 open tasks in General Operations |
+| Project | Client | Value | Status |
+|---------|--------|-------|--------|
+| [300-3] 2026 IDIQ (Hurricane) | NOAA UxSOC | $499,000 | Active — Deadline 2026-07-31 |
+| [001-07] S3 IRAD | BST Internal | TBD | Completed milestones; post-demo phase |
+| [350-4] USGS Chile (Mexico) | USGS Volcano Science | $124,230 | Deployment postponed to Fall 2026 |
+| [043-3] ByLight M2/Halo | By Light (Commercial) | $126,629 | Active — 11 open tasks; deadline 2026-07-31 |
+| [212-2] NASA S2 & Parts | NASA Ames | $89,844 | Active |
+| [550-1] NAVY SBIR Magnetometer | Navy NAVAIR | TBD | Active |
+| [001-16] SwiftStation IRAD | BST Internal | TBD | 2 open tasks (early stage) |
+| [001-13] BD Pipeline | Mixed (Gov/Defense/Commercial) | $0.00* | Sales pipeline — data integrity issue |
+| [001-13] Purchasing | BST Internal | TBD | 🔴 **CRITICAL** — 10 open tasks due JUL 1–2 |
+| [001-13] General Operations | BST Internal | TBD | 1 task (EAR ECCN classification) |
+
+*Data quality flag: BD Pipeline dollar value showing $0.00 despite active accounts
 
 ---
 
-## Critical Risk Areas
+## Key Deadlines (Q3 2026)
 
-🔴 **1. Purchasing System Operational Crisis**
-- Task rebound from 1 → 17 open tasks (catastrophic prior collapse now reversed)
-- Affects all project supply chains; critical deadlines **Jun 26–Jul 1, 2026**
-- Requires immediate root-cause investigation
+| Date | Deliverable | Project |
+|------|-------------|---------|
+| **JUL 1–2** | 10 purchasing tasks | [001-13] Purchasing — 🔴 CRITICAL |
+| **JUL 31** | Final deliveries (2 ground stations) | [300-3] NOAA Hurricane |
+| **JUL 31** | Most deliverables due | [043-3] ByLight M2/Halo |
+| **AUG 30** | Contract end date | [350-4] USGS Chile |
+| **FALL 2026** | Deployment window | [350-4] USGS Chile (postponed) |
 
-🔴 **2. NASA S2 & Parts Contact Change**
-- Isaac Anderson (listed contact) has departed NASA Ames
-- Route future communications to Randy Hobbs or Will Wade
-- Risk of miscommunication if outdated contact used
+---
 
-🔴 **3. BD Pipeline Data Integrity**
-- Custom fields show $0.00 for pipeline value (known issue)
-- Affects revenue forecasting and pipeline visibility
-- Active opportunities: Oklahoma State University (S0 VTOL), Westlake Corporation (Houston)
+## Risk Areas
+
+1. **Purchasing Operations** — 10 critical tasks due within 48 hours (JUL 1–2); unexplained recurring bottlenecks signal systemic process issue
+2. **Deadline Compression** — NOAA and ByLight both due 2026-07-31; overlapping resource demands
+3. **ByLight Workload Concentration** — Heavy reliance on Ethan Domagala (primary build/test); 11 open tasks with no completions yet
+4. **Data Integrity** — BD Pipeline showing $0.00 value despite active accounts (Oklahoma State, Westlake); portfolio visibility gap
+5. **Personnel Changes** — NASA contact (Isaac Anderson) departed; routing established but historical continuity risk
+6. **Funding Visibility** — S3 IRAD, SwiftStation IRAD, Navy SBIR, General Operations lack explicit dollar values
 
 ---
 
 ## Team Allocation Patterns
 
-**High-Utilization Staff:**
-- **Dan Prendergast** — EAR/ECCN compliance (General Ops), process improvement
-- **Meredith O'hara Needham** — Facilities management, invoicing (ByLight)
-- **Ethan Domagala** — ByLight M2/Halo primary deliverables
-
-**Single-Point Dependencies:**
-- Murphy's Pond CH4 program relies on specific scheduling coordination (Flight #3, #4)
-- Navy magnetometer program (Angel Ruiz-Reyes primary contact)
-
----
-
-## Upcoming Deadlines (Next 90 Days)
-
-| Date | Project | Milestone |
-|------|---------|-----------|
-| **2026-05-27** | Murphy's Pond CH4 | Flight #3 delivery (imminent) |
-| **2026-05-30** | ByLight M2/Halo | Project start date |
-| **2026-06-29** | Murphy's Pond CH4 | Flight #4 confirmation (unlocks $31k) |
-| **2026-06-30** | ByLight M2/Halo | All deliverables due |
-| **2026-06-26 to 07-01** | Purchasing | Critical operational deadline window |
-| **2026-07-31** | NOAA Hurricane IDIQ | Final delivery deadline |
-| **2026-12-31** | Murphy's Pond CH4 | Funding expires |
+- **Sam Hild** — SwiftStation IRAD (2 tasks: power board comms, cell module driver)
+- **Ethan Domagala** — ByLight primary build/test lead (bottleneck risk)
+- **Nate Straus** — ByLight launcher modifications
+- **Dan Prendergast** — EAR ECCN classification (General Operations)
+- **Beck Cotter** — Contact database owner
+- **USGS Lead:** Kevin Pesola (Vancouver, WA office)
+- **NASA Lead:** Randy Hobbs (Ames)
+- **Navy Lead:** Angel Ruiz-Reyes (NAWCAD)
 
 ---
 
 ## Recommendations
 
-1. **Resolve Purchasing task rebound immediately** — assess system stability before Jun 26 deadline
-2. **Update NASA contact records** across all project management systems
-3. **Reconcile BD Pipeline financial data** to enable accurate revenue forecasting
-4. **Confirm Murphy's Pond Flight #3 scheduling** to avoid conflicts with ByLight deliverables
-5. **Monitor ByLight project closely** — all 10 tasks due within 30 days of start
+1. **Immediate:** Resolve purchasing bottleneck before JUL 1–2 deadline; audit process for systemic delays
+2. **Short-term:** Redistribute ByLight workload from Ethan Domagala; cross-train team members
+3. **Data:** Correct BD Pipeline funding values and clarify internal project budgets (IRAD, SwiftStation, Navy SBIR)
+4. **Planning:** Stagger NOAA/ByLight deliverables if scope flexibility exists; confirm USGS Fall 2026 deployment readiness
