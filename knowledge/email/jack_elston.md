@@ -1,84 +1,63 @@
 # Jack Elston — Email Patterns (UPDATED)
 
 ## Communication Volume
-- **Total messages scanned:** 5,540 (5,440 prior + 100 new, June 30–July 1)
-- **Date range:** April 1–July 1, 2026
+- **Total messages scanned:** 5,637 (5,540 prior + 97 new, July 1–2, 2026)
+- **Date range:** April 1–July 2, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **June 30–July 1 activity (100 messages):** ~25% human correspondence (S0 presentation confirmation with UK MOD, NOAA software offering, government contracting escalation, M&A/Krateo coordination); ~50% automated logistics/vendor/procurement (DigiKey multiple shipments, JawsTec manufacturing coordination, battery returns from Ottawa, RFQ escalation); ~15% infrastructure/HR/compliance (FAMLI benefits corrections, payroll fixes continuing, CDLE access management); ~10% spam/marketing/newsletters
+- **July 1–2 activity (97 messages):** ~20% human correspondence (Krateo IT/GRC coordination, S0 UK MOD confirmation, Murphy's Pond dataset continuation, salary/HR discussions, Capital Factory legal entity fix, ASTM standards resolver requests); ~55% automated logistics/procurement/vendor (DigiKey new shipments, HeliDirect orders, B&H Photo, APC Propellers, SendCutSend, Rock West Composites, Amazon orders); ~15% infrastructure/compliance/HR (Human Interest 401k processing, GitLab SSH key expiration, Google Workspace invoicing, Payroll Amendments meeting, Copay plan resolution); ~10% spam/marketing/newsletters/regulatory (UASweekly, UAS Magazine, E-Verify TPS updates, Volcano Summit, commercial UAS expo, international drone news)
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Partners
-1. **Maciej Stachura** (stachura@blackswifttech.com) — Co-executive; critical strategic coordination on Murphy's Pond dataset, QuSpin sensor integration, Krateo partnership strategy
-2. **Meredith Needham** (meredith.needham@blackswifttech.com) — Operations/Finance; payroll crisis resolution, vendor RFQ coordination, invoice management, benefits administration
-3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Government/Defense contracts; S0 COTS waiver responses, Navy/SOCOM correspondence, battery/logistics issues
-4. **Paige Smith** (paige.smith@blackswifttech.com) — Marketing/Communications; Geo Week 2027 submission, Krateo announcement coordination
-5. **Alex Lomis** (alex.lomis@blackswifttech.com) — S0 program coordination; COTS waiver escalation
+1. **Maciej Stachura** (stachura@blackswifttech.com) — Co-executive; strategic coordination on Krateo partnership, Murphy's Pond dataset, salary policy alignment, interview/PR requests
+2. **Meredith Needham** (meredith.needham@blackswifttech.com) — Operations/Finance; payroll/salary administration (critical activity July 1), vendor RFQ coordination, health insurance copay plan resolution, invoice management
+3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Government/Defense; S0 COTS waiver coordination with Navy (Kachel/SOCOM), battery shipment logistics (Ottawa return), Arctic UAS location coordination with Canada partners
+4. **Beck Cotter** (beck.cotter@blackswifttech.com) — Communications/Marketing; media interview requests, FAA manufacturer's safety statement coordination
+5. **Paige Smith** (paige.smith@blackswifttech.com) — (referenced in prior knowledge; pattern continues)
 
 ### Top External Partners (Priority Order)
-1. **Krateo Sky (Sona Raziabeegum, Brian Grubel, Thibault Bridel-Bertomeu, Ariel Avitan)** — Strategic M&A/partnership framework; data room access, GRC integration, NOAA software offering, "Fireflies" codename project
-2. **UK Ministry of Defence (Simon Laurence, simon.laurence157@mod.gov.uk)** — S0 presentation briefing, capability demonstrations, government-to-government coordination
-3. **US Navy (Angel R. Ruiz-Reyes CIV NAWCAD, Donald Sapp CTR NSWC)** — S0 COTS waiver approvals, technical specifications
-4. **Canadian Government (Jean-Philippe Oudet CAF, NRC-CNRC Derek Gowanlock)** — ISARRA waiver coordination, international UAS research
-5. **NOAA/NASA (Aaron Duley NASA ARC)** — "NOAA, Blackswift, MTS Push" project; possible software offering from Krateo
-6. **Academic/Research (Bassil El Masri Murray State, Stefan Metzger AtmoFacts, Jeffrey Orton QuSpin)** — Murphy's Pond thermal survey dataset, sensor integration
 
-### Top Vendors/Suppliers
-1. **DigiKey** — Multiple large shipments (invoices 128407666, 128407557, 128393825, 128393115); electronics components
-2. **JawsTec Manufacturing** — Orders 69630 & 69631; manufacturing coordination with Frank Strazzabosco, Matthew Crabtree
-3. **Robert Correia / Aeronet** — Battery shipment returns from Ottawa, quote 141681/103032391 (critical logistics issue)
-4. **Worldwide Express / UPS / USPS** — Logistics coordination
-5. **Frank Strazzabosco (microfirm@earthlink.net)** — Electronics/parts broker
-6. **QuickBooks, Rippling, Human Interest** — Payroll/HR platforms
+#### **KRATEO SKY — ACCELERATING (M&A/STRATEGIC PARTNERSHIP)**
+1. **Thibault Bridel-Bertomeu** (Thibault@krateosky.com) — July 2, 04:51 UTC: "Re: KrateoSky x BlackSwift IT management, technical positions & GRC" (UNREAD, IMPORTANT) — ongoing GRC/IT integration discussion
+2. **Bob Smith** (Bob@krateosky.com) — July 1, 22:52 UTC: "Pressure" email to Jack, Maciej, LisaMarie Cheney, Jed Leonard, Daniel Prendergast (UNREAD, IMPORTANT) — escalation/tension signal on partnership progress
+3. **LisaMarie Cheney** (LisaMarie@krateosky.com) — July 2, 04:24 UTC: "Re: Intro: HALO Aerospace (counter-UAS) with Krateosky team" to Daniel Hesselius (Halo Aero), Maciej, Bob Smith (UNREAD, IMPORTANT) — new counter-UAS partner evaluation (HALO Aerospace)
+4. **Sona Raziabeegum** (sona@krateosky.com) — (prior M&A VP data room coordination continues)
+5. **Ariel Avitan** (Krateo) — (prior NOAA software offering discussion)
 
-### External Organizations (Marketing/Outreach)
-- **RTI International** — Maritime tech newsletter
-- **Ainstein AI** — UAV radar solutions (partner/competitor monitoring)
-- **Harris Aerial** — Demo day outreach
-- **HeliDirect, Bisco Industries** — Distribution partners
+#### **UK MINISTRY OF DEFENCE — S0 PROGRAM ACTIVE**
+1. **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — July 1, 11:42 UTC: "Re: S0 presentation" (UNREAD, IMPORTANT) — presentation briefing confirmed/progressing; UK engagement locked in
 
----
+#### **US DEFENSE/SOCOM**
+1. **Zachary O. Kachel** (zachary.o.kachel.mil@socom.mil) — July 1, 12:43 UTC: Daniel Prendergast response to "(U) [Non-DoD Source] Re: RFI S0" (IMPORTANT) — SOCOM S0 RFI coordination continuing
 
-## Topic Patterns
+#### **CANADIAN GOVERNMENT / ARCTIC UAS**
+1. **Maia Varanda, S Rowlands, Noah Ray** (Invest Ottawa) — July 1, 14:57 UTC: Daniel Prendergast coordinating "Re: Arctic UAS Location Change" with Trenton McKibben, Chris Pitfield (NextechSol) — facility/operations movement underway
 
-### Critical Strategic Projects
+#### **ACADEMIC/RESEARCH**
+1. **Stefan Metzger** (smetzger@atmofacts.com) — July 1–2: Active Murphy's Pond dataset exchange with Maciej (Stefan: "RE: Murphy's Pond Dataset"; Maciej: "Re: Murphy's Pond Dataset") — thermal survey data research active
+2. **Trevor Simoneau** (SIMONET1@erau.edu, Embry-Riddle Aeronautical University) — July 1, 19:41 & 19:57 UTC: ADS-B technical question (Jack response sent 13:45 UTC) — university collaboration
 
-#### **1. KRATEO SKY PARTNERSHIP / M&A FRAMEWORK — ACCELERATING**
-- **Codename:** "Fireflies" (operational project)
-- **Key emails:**
-  - June 29, 21:36 UTC: Thibault on "KrateoSky x BlackSwift IT management, technical positions & GRC"
-  - June 30, 01:48 UTC: Sona on "BST: Add Gerta New VP M&A to data room" (M&A VP access → data room)
-  - June 30, 09:38 UTC: Jack response to Sona on M&A data room access (SENT)
-  - July 1, 00:01 UTC: Brian Grubel (Krateo) to Maciej on "Another interesting company" (possible acquisition target)
-  - June 30, 16:06 UTC: Ariel Avitan (Krateo) to Jack + Maciej + Thibault + Brian on "Possible Software offering to NOAA - Initial discussion" (product co-offering discussion)
-- **Status:** M&A due diligence active (data room setup, VP M&A engagement); July 2 Creative Alignments meeting scheduled to coordinate announcement/product strategy
-- **Signal:** Transaction likely 60–90 days out; GRC and technical integration work underway
+#### **FLIGHT TEST / VALIDATION**
+1. **Scott Smyser, Mark** (nanoveu.com, NanoVEU) — July 1, 13:41 UTC: Meredith invoice coordination "Black Swift Invoice for Flight Testing" (IMPORTANT) — active flight testing/validation contract
 
-#### **2. S0 GOVERNMENT PROGRAM — ACCELERATING INTERNATIONALLY**
-- **Key participants:**
-  - Simon Laurence (UK MOD)
-  - Angel Ruiz-Reyes (US Navy NAWCAD)
-  - Daniel Prendergast (BST lead)
-  - Jack Elston (senior level coordination)
-- **Key emails:**
-  - June 30, 09:37 UTC: Jack to Simon Laurence "Re: S0 presentation" (SENT)
-  - June 30, 15:41 UTC: Simon Laurence to Jack "RE: S0 presentation" (accepting/confirming briefing)
-  - June 30, 09:32 UTC: Jack to Ruiz-Reyes "Re: [Non-DoD Source] Re: S0 COTS WAIVER" (SENT)
-  - June 30, 15:19 UTC: Ruiz-Reyes "RE: [Non-DoD Source] Re: S0 COTS WAIVER" (approval/next steps)
-  - July 1, 07:45 UTC: Neil Morphett (Global Lockheed Martin) calendar accept: "S0 Discussion @ Wed Jul 8, 2026 9:30am - 10:30am (MDT)" (LM engagement)
-  - June 30, 09:42 UTC: Alex Lomis to Jack on "Re: [Non-DoD Source] S0 COTS WAIVER" (internal escalation)
-  - June 30, 16:11 UTC: Navy multi-party email on "FW: [Non-DoD Source] S0 COTS WAIVER" (Paul Jaynes American Systems, Donald Sapp NSWC, Daniel Klier NSWC IHD)
-- **Status:** COTS waiver progressing; UK MOD presentation scheduled for early July; Lockheed Martin technical discussion scheduled July 8
-- **Signal:** International defense sales cycle accelerating; potential for U.S./UK/Canada trilateral UAS program
+#### **LEGAL / CORPORATE**
+1. **Jamie Serio** (jamieserio@capitalfactory.com, Capital Factory) — July 1, 12:38 & 16:33 UTC: "Black Swift — Capital Factory executed, one entity fix" (IMPORTANT) — legal entity consolidation/corporate restructuring completed
 
-#### **3. MURPHY'S POND UAS THERMAL RESEARCH PROJECT**
-- **Key participants:**
-  - Bassil El Masri (Murray State University)
-  - Stefan Metzger (AtmoFacts)
-  - Maciej Stachura (BST)
-  - Academic/research consortium
-- **Key emails:**
-  - June 30, 13:24 UTC: Bassil El Masri "Re: Murphy's Pond — UAS Thermal Survey, 28 Jun 2026"
-  - June 30, 11:20 UTC: Jack to Bassil "Re: Murphy's Pond — UAS Thermal Survey, 28 
+#### **STANDARDS / INDUSTRY**
+1. **Scott Scheff** (scottscheff@hfdesignworks.com) — July 1, 15:12 UTC: "Re: ASTM WK90326 Ground Control Station Human Factors Resolvers Requested" (IMPORTANT) — Jack is standards resolver for GCS human factors working group
+
+#### **GOVERNMENT AGENCIES**
+1. **Amy L. McLiverty** (amy.l.mcliverty@noaa.gov, NOAA Federal) — July 1, 13:46 UTC: Meredith requesting "Extension for 1305M225P0034" (IMPORTANT, likely NOAA contract extension)
+2. **Rama Haris** (rama.haris@state.co.us, Colorado OEDIT) — July 1, 15:04 UTC: "ACTION REQUIRED: Advanced Industries Annual Report - Due 9/1/26" (IMPORTANT)
+
+### Top Vendors/Suppliers (Expanding)
+1. **DigiKey** — Multiple new invoices: 128471192 (July 1, 16:22 UTC shipment); Salesorder #100145658 (July 1, 12:33 UTC); continued large component orders
+2. **HeliDirect** — Multiple orders: HDR664888 (confirmed, on the way, rewards earned); active small parts/accessories sourcing
+3. **B&H Photo** — Order #1130358693 (confirmed July 1, 01:20 UTC; shipped; large purchase)
+4. **APC Propellers** — Order received July 1, 18:18 UTC — propeller sourcing active
+5. **Rock West Composites** — New Order #Z100709106 (July 1, 18:43 UTC) — composite materials/structures
+6. **SendCutSend** — Order SQ29Q224 under review (July 1, 23:37 UTC) — metal cutting/fabrication services
+7. **Amazon Business** — Multiple small electronics orders (TUOLNK SMA/TNC connectors, July 1, 17:19 UTC)
+8. **Robert Correia / Aeronet** — July 1 (14:21, 11:41, 11:27 UTC):

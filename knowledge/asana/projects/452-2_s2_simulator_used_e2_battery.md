@@ -3,47 +3,49 @@
 ## Overview
 - **Client/Customer:** Dan Hesselius at CU Boulder
 - **Dollar Value:** $3,900 (payment received 2026-05-25)
-- **Timeline:** Due 2026-06-30 (32 days from payment receipt)
-- **Status:** **In fulfillment with critical export compliance gaps** — E2 Battery shipped to Mexico without ECCN; import classification and fee structure unconfirmed. S2 Simulator shipment status unknown.
+- **Timeline:** Due 2026-06-30
+- **Status:** **OVERDUE — fulfillment incomplete; battery stuck in Mexican customs; power of attorney authorization pending**
 - **Project Owner:** Meredith O'hara Needham
 - **Customer Type:** Commercial
 - **Priority:** Medium
 - **Team Members:** Daniel Prendergast (customs/logistics liaison)
 
 ## Key Deliverables & Milestones
-1. **S2 Simulator** — shipment status and ETA unknown; requires immediate confirmation
-2. **Used E2 Battery** — shipped to Mexico; customs documentation incomplete
+1. **S2 Simulator** — shipment status and ETA unknown
+2. **Used E2 Battery** — shipped to Mexico; stuck in customs pending power of attorney signature to retrieve and return to US
 
 ## Task Summary
 - **Total Tasks:** 0 open, 0 completed
-- Project tracked primarily outside Asana; managed via email and direct coordination with Daniel Prendergast
+- Project tracked outside Asana; managed via email and direct coordination with Daniel Prendergast
 
 ## Recent Activity
 
-**[2026-05-28] Customs & Export Compliance — Critical Gaps Flagged by Daniel Prendergast**
+**[2026-07-01] Battery Return Authorization — Power of Attorney Awaiting Signature**
 
-Daniel Prendergast identified unresolved compliance issues requiring immediate authorization from Meredith O'hara Needham:
+Daniel Prendergast received email from Robert Correia (Aeronet) with power of attorney document to authorize customs broker to retrieve battery from Mexico and return to US. Daniel requested Meredith O'hara Needham's authorization to sign the document. Status: **awaiting response**.
 
-1. **Documentation storage:** Two emails documenting battery shipment history require designated save location
-2. **ECCN missing:** No Export Control Classification Number obtained for the battery. Daniel offered to contact Javi (customs broker) to verify if authorized.
-3. **Import classification unconfirmed:** Battery fees paid as permanent import to Mexico, but accuracy unverified. Daniel offered to respond to stakeholder email chain if authorized.
+**[2026-06-30] Project Due Date Passed — Deliverables Outstanding**
 
-**Awaiting authorization:**
-- Contact Javi (customs broker) to verify ECCN and confirm import classification/fee accuracy
-- Designate documentation storage location for email records
-- Respond to stakeholder email chain
-- Confirm S2 Simulator shipment status and ETA separately
+Project hit due date with:
+- S2 Simulator: shipment status and ETA still unknown
+- E2 Battery: in Mexican customs, awaiting power of attorney signature for retrieval
+
+**[2026-05-28] Customs & Export Compliance — Critical Gaps Flagged**
+
+Daniel Prendergast identified unresolved compliance issues:
+- Battery shipped without ECCN (Export Control Classification Number)
+- Import classification to Mexico unconfirmed
+- Shipment history documentation storage undesignated
 
 ## Notes & Context
 
-**Compliance Risk:** Battery shipped without ECCN and with unconfirmed import classification. Current fee structure may be incorrect, creating potential rework or regulatory exposure.
+**Critical Blocker:** E2 Battery is stuck in Mexican customs. Retrieval requires Meredith O'hara Needham to authorize Daniel Prendergast to sign power of attorney document from Robert Correia (Aeronet) on behalf of customs broker. This is a straightforward administrative unblock — Daniel has reviewed and flagged no legal concerns, but seeks management approval before signing.
 
-**S2 Simulator Status Unknown:** Only E2 Battery activity documented; S2 Simulator shipment status and ETA require immediate confirmation from Meredith.
+**Compliance Status:** Battery shipped without proper export documentation (ECCN missing), creating regulatory and logistics complexity. Import classification accuracy unconfirmed.
 
-**Timeline Pressure:** 32 days from payment to due date leaves minimal margin for corrections if classification/fees require revision.
+**S2 Simulator Status Unknown:** No shipment confirmation or ETA documented; requires separate status check.
 
-**Immediate Actions Required (pending Meredith O'hara Needham authorization):**
-1. Contact Javi (customs broker) to verify ECCN and confirm import classification/fees
-2. Designate storage location for battery shipment history emails
-3. Respond to stakeholder email chain with compliance status
-4. Confirm S2 Simulator shipment status and ETA
+**Immediate Actions Required:**
+1. **[URGENT]** Meredith O'hara Needham: authorize Daniel Prendergast to sign power of attorney for customs broker (email from Robert Correia/Aeronet)
+2. Confirm S2 Simulator shipment status and revised ETA once battery retrieval initiated
+3. Document compliance lessons learned (ECCN requirements for future similar shipments)

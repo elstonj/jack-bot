@@ -1,87 +1,96 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- Total messages scanned: 50 (26 previous + 24 new)
-- Date range: 27 Jun – 30 Jun 2026
-- New data concentrated on 30 Jun (24 emails)
-- Still light volume over 4-day period; insufficient for reliable daily/weekly estimates
-- Pattern: Heavy email activity on final day of month (payroll processing, meeting invitations, vendor confirmations)
+- Total messages scanned: 69 (50 previous + 19 new)
+- Date range: 27 Jun – 2 Jul 2026
+- New data concentrated on 1–2 Jul (19 emails); continues end-of-month/early-month spike pattern
+- Estimated weekly volume: 17–20 emails (still light; insufficient for reliable daily average)
+- Pattern: Heavy vendor/procurement activity (11/19 new emails); internal and critical external correspondence lighter but consistent
 
 ## Key Correspondents
 
 **Top Senders:**
-- DigiKey (orders via Purchasing) — 2 new emails (PO Acknowledgements #100124240, #100117933, #100117560)
-- Jack Elston (elstonj@blackswifttech.com) — 5 new emails — **SIGNIFICANTLY INCREASED** — primary internal collaborator on S0/MOD work
-- Asana notifications — 3 new emails (task reminders, feature updates)
-- Promotional/transactional vendors — Harris Aerial, HeliDirect, GetFPV, Grafana Labs, Sealingdevices.com
-- Simon Laurence (Simon.Laurence157@mod.gov.uk) — 1 new email (direct MOD correspondence)
-- Rebecca Sakurdeep (RebeccaS@molienergy.com) — 3 new emails — **NEW KEY CONTACT** — appears to be external client/partner (Moli Energy)
-- Meredith Needham (meredith.needham@blackswifttech.com) — 3 new emails — **NEW INTERNAL CONTACT** — handles P50B Testing Request correspondence with external client
-- Rippling (payroll/HR system) — 1 new email (payroll notification)
-- Angel R. Ruiz-Reyes (angel.r.ruiz-reyes.civ@us.navy.mil) — **NEW** — US Navy contact; MOD/defense project coordination
+- Vendor/Purchasing group routing — 11/19 new emails (B&H Photo, SendCutSend, Rock West Composites, APC Propellers, HeliDirect, DigiKey)
+- Asana notifications — 1 new email (task reminder)
+- Google Gemini — 1 new email (meeting notes delivery)
+- Design Gateway Newsletter — 1 new email (FPGA/security IP update)
+- Protolabs — 1 new email (July newsletter)
+- Brittany Barrow (Rapid Axis) — 2 new emails (promotional; duplicate to two email addresses)
+- Simon Laurence (Simon.Laurence157@mod.gov.uk) — 1 new email (UK MOD; S0 presentation reply)
+- Meredith Needham (meredith.needham@blackswifttech.com) — 1 new email (P50B Testing project)
 
 **Top Recipients:**
-- Jack Elston (elstonj@blackswifttech.com) — 2 outbound from Alex (S0 COTS WAIVER responses)
-- purchasing@blackswifttech.com — 3 new emails routed through (vendor confirmations, orders)
-- Direct to Alex's inbox — 8 new emails (task notifications, meeting invitations, external partner emails)
+- purchasing@blackswifttech.com (group routing) — 11/19 new emails
+- Direct to Alex's inbox — 6/19 new emails (critical work: S0 MOD, P50B, meeting notes, task reminders)
+- Note: Meredith Needham email visible in thread to Rebecca Sakurdeep (Moli Energy) — **Alex appears CC'd or threaded but not primary sender**
 
 **Internal vs External:**
-- External: 14/24 new emails (vendors, MOD contact, US Navy, client/partner correspondence)
-- Internal: 10/24 new emails (Jack Elston: 5, Meredith Needham: 3, Asana group: 2, Rippling: 1 — plus routing through purchasing list)
-- **Shift**: Increased internal collaboration visible; more direct correspondence with Jack Elston and new contact Meredith Needham
+- External: 13/19 new emails (vendors: 11, external partners: 2)
+- Internal: 6/19 new emails (Meredith Needham: 1, Asana: 1, Gemini notes: 1, Simon Laurence MOD: 1; routing through purchasing: 2)
+- **Pattern shift**: Procurement/vendor activity dominates new batch; critical S0/P50B correspondence lighter (1 email each visible)
 
 ## Topic Patterns
 
 **Recurring Themes:**
-- **S0 MOD/Defense Project** — **MAJOR FOCUS** — 5+ emails on 30 Jun involving:
-  - S0 presentation (UK MOD, Jack Elston)
-  - S0 COTS WAIVER (Commercial Off-The-Shelf waiver; regulatory/compliance documentation)
-  - Meeting invitation: S0 Discussion, Wed Jul 8, 2026, 9:30am–10:30am (MDT)
-  - Participants: Alex Lomis, Jack Elston, Maciej Stachura, Simon Laurence (MOD), Neil Morphett (Lockheed Martin/@global.lmco.com — **NEW**)
-- **P50B Testing Request** — 3 new emails — external client project (Moli Energy/Rebecca Sakurdeep); testing/validation work
-- **PCB/Component procurement** — DigiKey orders continuing (multiple PO acknowledgements)
-- **Promotional/marketing** — 11/24 emails are vendor marketing (Harris Aerial, GetFPV, Grafana, Sealingdevices)
-- **Task management** — Asana task notifications (Tuesday task due soon)
+- **S0 MOD Project** — 1 new email (Simon Laurence reply on "S0 presentation"; marked IMPORTANT)
+  - Suggests ongoing presentation/review cycle from 30 Jun meeting prep
+- **P50B Testing Request** — 1 new email visible (Meredith Needham to Rebecca Sakurdeep/Moli Energy; marked IMPORTANT)
+  - Indicates active project coordination on testing work
+- **Vendor procurement** — 11/19 emails (component/manufacturing orders continuing):
+  - B&H Photo shipping notification
+  - SendCutSend order review (SQ29Q224)
+  - Rock West Composites order (#Z100709106)
+  - APC Propellers order received
+  - HeliDirect promotional (marked IMPORTANT — unusual for promotional)
+  - DigiKey PO Acknowledgement (#100145658; duplicate routing)
+- **Technical/Engineering updates** — 3 new emails (marked IMPORTANT):
+  - Design Gateway Newsletter: "SHA3-IP - Pure Hardware Hashing Engine for FPGA | Security IP Suite" — **NEW TECHNICAL FOCUS** — cryptographic IP/FPGA development
+  - Protolabs July newsletter (manufacturing/rapid prototyping)
+  - Asana task reminder (1 task due)
+- **Administrative/System notifications**:
+  - Gemini notes from "BST Internal Update Meeting" Jul 1 (auto-generated meeting notes; marked IMPORTANT)
+  - PCI Compliance Reminder (purchasing-related)
+  - Vendor promotional (Rapid Axis; marked IMPORTANT; duplicate routing to both @blackswifttech.com and @bst.aero addresses)
 
 **Project/Component Names Visible:**
-- `S0` — Defense/MOD project (presentation, COTS waiver, scheduled discussion)
-- `P50B` — Testing/validation project (external client: Moli Energy)
-- `bartington_mag_adc` — Continues from previous period (magnetometer/ADC component)
+- `S0` — Continues; MOD project presentation/review cycle
+- `P50B` — Continues; Moli Energy testing project
+- `SHA3-IP` — **NEW** — Cryptographic hashing IP (FPGA); suggests Alex may be evaluating security IP libraries for project
+- `bartington_mag_adc` — Not visible in new batch (component procurement ongoing but not explicitly mentioned)
 
 **Government/Defense/Aerospace Indicators:**
-- **Simon Laurence (@mod.gov.uk)** — UK Ministry of Defence
-- **Angel R. Ruiz-Reyes (@us.navy.mil)** — US Navy contact (NAWCAD — likely Naval Air Warfare Center Aircraft Division)
-- **Neil Morphett (@global.lmco.com)** — Lockheed Martin Corporation (aerospace/defense contractor)
-- **[Non-DoD Source] S0 COTS WAIVER** — Subject line explicitly flags compliance/regulatory documentation for defense work
-- Meeting scheduled with all parties suggests formal S0 project review/discussion
+- Simon Laurence (UK MOD) — S0 presentation reply thread continues
+- No new US Navy or Lockheed Martin correspondence visible in this batch
+- FPGA/cryptographic IP interest suggests possible defense/security applications (SHA3-IP is typical in encrypted communications/secure avionics)
 
 ## Communication Patterns
 
-- **End-of-month spike**: 24 emails on 30 Jun (payroll processing, meeting scheduling, vendor confirmations, task reminders)
-- **Incoming vs outgoing**: Alex sent 2 emails (both S0 COTS WAIVER responses to Jack Elston); primarily receiving emails
-- **Email threading**: Multiple email chains visible (S0 presentation thread: 3+ replies; P50B Testing thread: 3+ replies)
-- **Important flags**: 11/24 new emails marked IMPORTANT — including promotional emails (GetFPV, Grafana, Sealingdevices) alongside critical MOD/client correspondence
-- **Direct vs group routing**: Shift toward direct inbox delivery for critical work (S0 meetings, P50B client updates) vs purchasing group routing for vendor orders
+- **Vendor routing consolidation**: 11/19 emails use purchasing@blackswifttech.com group routing (order confirmations, shipping notifications, promotional)
+- **Critical correspondence filtering**: S0 MOD and P50B emails delivered directly to personal inbox; marked IMPORTANT
+- **Email address variants**: Alex receives emails at both `alex.lomis@blackswifttech.com` and `alex.lomis@bst.aero` (domain aliasing for external/internal communications)
+- **Meredith Needham prominence**: Visible as active sender in P50B thread; heliDirect email routed to Meredith as purchasing contact (suggests coordination on procurement for P50B project)
+- **Meeting notes automation**: Google Gemini auto-generates notes from "BST Internal Update Meeting" and delivers to Alex (suggests Alex attended or was enrolled; marked IMPORTANT)
+- **Newsletter/technical update interest**: Design Gateway and Protolabs newsletters marked IMPORTANT — indicates Alex actively follows manufacturing and IP supplier developments
+- **Promotional email tagging**: Rapid Axis holiday greeting marked both IMPORTANT and marked as duplicate (suggests Alex/team may monitor vendor relationship or campaign tracking)
 - **All new emails unread** at time of scan
 
 ## Key Relationships
 
 **Internal Collaboration:**
-- **Jack Elston (elstonj@blackswifttech.com)** — PRIMARY COLLABORATOR — 5 new emails show active co-work on S0 MOD project; Jack appears to lead external correspondence with MOD and US Navy; Alex provides supporting work (COTS waiver documentation)
-- **Meredith Needham (meredith.needham@blackswifttech.com)** — **NEW** — active on P50B Testing Request; coordinates with external client (Moli Energy); appears to be project/account lead on this initiative
-- **Maciej Stachura (stachura@blackswifttech.com)** — **NEW** — invited to S0 Discussion meeting; role/function unclear from headers
+- **Meredith Needham (meredith.needham@blackswifttech.com)** — **STRENGTHENED** — visible as lead on P50B Testing correspondence with Moli Energy; Alex appears to be in coordination/support role; shared procurement oversight (HeliDirect routed to Meredith as purchasing contact)
+- **Jack Elston (elstonj@blackswifttech.com)** — Not directly visible in new batch but S0 presentation thread ongoing (Simon Laurence reply suggests Jack's presentation is being reviewed by MOD)
+- **Maciej Stachura** — No new correspondence visible
 
 **External Relationships:**
-- **Simon Laurence (Simon.Laurence157@mod.gov.uk)** — UK MOD; S0 project stakeholder
-- **Angel R. Ruiz-Reyes (angel.r.ruiz-reyes.civ@us.navy.mil)** — US Navy (NAWCAD); S0 project coordination; COTS waiver sign-off chain
-- **Neil Morphett (@global.lmco.com)** — Lockheed Martin; scheduled for S0 Discussion meeting (Jul 8); likely aerospace/defense partner or customer
-- **Rebecca Sakurdeep (RebeccaS@molienergy.com)** — Moli Energy; P50B Testing project client/partner; marked IMPORTANT; primary contact for testing request correspondence
-- PCBWay, JawsTec Manufacturing, DigiKey — Continuing vendor relationships (components/manufacturing)
+- **Simon Laurence (Simon.Laurence157@mod.gov.uk)** — UK MOD; actively reviewing S0 presentation; direct reply to Jack Elston visible (Alex likely CC'd or in thread context)
+- **Rebecca Sakurdeep (RebeccaS@molienergy.com)** — Moli Energy; P50B Testing project client; Meredith Needham serving as primary point of contact
+- **Brittany Barrow (Rapid Axis)** — Vendor relationship (promotional emails; sent to dual email addresses)
+- **Vendor ecosystem** — B&H Photo, SendCutSend, Rock West Composites, APC Propellers, HeliDirect, DigiKey, Protolabs, Design Gateway — continued active procurement and supplier relationship management
 
 ## Notable Observations
 
-- **Defense/Aerospace sector confirmed**: S0 project involves UK MOD, US Navy, and Lockheed Martin participation; suggests BST is a tier-2 or technology supplier to defense ecosystem
-- **Regulatory compliance work**: "[Non-DoD Source] S0 COTS WAIVER" indicates Alex is involved in DoD procurement/compliance documentation; suggests engineering or technical program management role
-- **Dual project focus**: S0 MOD project (high-stakes, government) and P50B client project (Moli Energy) active simultaneously on 30 Jun
-- **Lockheed Martin involvement**: Neil Morphett (@global.lmco.com) on S0 Discussion meeting suggests either LM as prime contractor, systems integrator, or prime customer
-- **Meeting scheduled**: S0 Discussion on Jul 8 (1 week out) involves 5 parties across UK MOD, US Navy, Lockh
+- **FPGA/cryptography interest**: Design Gateway SHA3-IP newsletter marked IMPORTANT suggests Alex or team may be incorporating cryptographic hardware acceleration into S0 or related project; security-critical component for defense applications
+- **Dual email domain usage**: Alex receives mail at both `.blackswifttech.com` and `.bst.aero` addresses; `.bst.aero` appears used for external/vendor communications; suggests domain separation for partner/vendor interactions
+- **Procurement volume**: 11/19 new emails are vendor order confirmations/shipping — indicates sustained component sourcing activity; no indication of supply chain delays or cancellations
+- **Meredith Needham emerging as project owner**: Now visible as primary coordinator on P50B client engagement; Alex appears in supporting/collaborative role (no outbound emails from Alex visible in new batch)
+- **Administrative meeting captured**:

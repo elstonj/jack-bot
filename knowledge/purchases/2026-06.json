@@ -8002,8 +8002,8 @@
     "vendor": "DigiKey",
     "project_code": null,
     "project_hint": null,
-    "description": "DigiKey order shipment notification",
-    "notes": "Invoice 128407666; package in transit",
+    "description": "DigiKey shipment for invoice 128407666",
+    "notes": "Shipping notification; order amount not visible in email",
     "date": "2026-06-30",
     "subject": "DigiKey has shipped a package for invoice 128407666"
   },
@@ -8016,7 +8016,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "Event invitation (Harris Aerial Demo Day); not a purchase",
+    "notes": "Harris Aerial event invitation \u2014 Demo Day July 21, 2026; no purchase transaction",
     "date": "2026-06-30",
     "subject": "friend, you're invited to Harris Aerial Demo Day"
   },
@@ -8029,7 +8029,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "Marketing promotional email (Budget car rental sale); not a purchase",
+    "notes": "Budget car rental promotional email \u2014 Fourth of July sale; no purchase transaction",
     "date": "2026-06-30",
     "subject": "\ud83d\uddfd Star-spangled savings: up to 25% OFF your ride!"
   },
@@ -8041,8 +8041,8 @@
     "vendor": "JawsTec",
     "project_code": null,
     "project_hint": null,
-    "description": "3D printing part order",
-    "notes": "Order #69507; quality control delay reported; scheduled shipment 7/1/2026",
+    "description": "Part on order #69507",
+    "notes": "Quality control delay notification; scheduled shipment 7/1/2026",
     "date": "2026-06-30",
     "subject": "Possible order delay"
   },
@@ -8054,8 +8054,8 @@
     "vendor": "DigiKey",
     "project_code": null,
     "project_hint": null,
-    "description": "DigiKey order shipment notification",
-    "notes": "Invoice 128407557; package in transit",
+    "description": "DigiKey shipment for invoice 128407557",
+    "notes": "Shipping notification; order amount not visible in email",
     "date": "2026-06-30",
     "subject": "DigiKey has shipped a package for invoice 128407557"
   },
@@ -8067,8 +8067,8 @@
     "vendor": "DigiKey",
     "project_code": null,
     "project_hint": null,
-    "description": "DigiKey sales order acknowledgement",
-    "notes": "Salesorder #100124240; order being processed",
+    "description": "DigiKey PO Acknowledgement Salesorder #100124240",
+    "notes": "Order acknowledgement; processing status",
     "date": "2026-06-30",
     "subject": "PO Acknowledgement for DigiKey Salesorder # 100124240"
   },
@@ -8081,7 +8081,7 @@
     "project_code": null,
     "project_hint": null,
     "description": "DigiKey order confirmation",
-    "notes": "Order received and being processed; shipping confirmation pending",
+    "notes": "Order placed and processing; shipment confirmation pending",
     "date": "2026-06-30",
     "subject": "Thank you for your DigiKey order!"
   },
@@ -8094,7 +8094,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "Marketing promotional email (HeliDirect Fourth of July sale); not a purchase",
+    "notes": "HeliDirect promotional email \u2014 Fourth of July electronics sale; no purchase transaction",
     "date": "2026-06-30",
     "subject": "\ud83d\uddfd Celebrate Freedom with Huge Savings!"
   },
@@ -8106,8 +8106,8 @@
     "vendor": "DigiKey",
     "project_code": null,
     "project_hint": null,
-    "description": "DigiKey order shipment notification",
-    "notes": "Invoice 128393825; package in transit",
+    "description": "DigiKey shipment for invoice 128393825",
+    "notes": "Shipping notification; order amount not visible in email",
     "date": "2026-06-30",
     "subject": "DigiKey has shipped a package for invoice 128393825"
   },
@@ -8119,8 +8119,8 @@
     "vendor": "DigiKey",
     "project_code": null,
     "project_hint": null,
-    "description": "DigiKey order shipment notification",
-    "notes": "Invoice 128393115; package in transit",
+    "description": "DigiKey shipment for invoice 128393115",
+    "notes": "Shipping notification; order amount not visible in email",
     "date": "2026-06-30",
     "subject": "DigiKey has shipped a package for invoice 128393115"
   },
@@ -8132,8 +8132,8 @@
     "vendor": "DigiKey",
     "project_code": null,
     "project_hint": null,
-    "description": "DigiKey sales order acknowledgement",
-    "notes": "Salesorder #100117933; order being processed",
+    "description": "DigiKey PO Acknowledgement Salesorder #100117933",
+    "notes": "Order acknowledgement; processing status",
     "date": "2026-06-30",
     "subject": "Thank you for your DigiKey order!"
   },
@@ -8145,8 +8145,8 @@
     "vendor": "DigiKey",
     "project_code": null,
     "project_hint": null,
-    "description": "DigiKey sales order acknowledgement",
-    "notes": "Salesorder #100117560; order being processed",
+    "description": "DigiKey PO Acknowledgement Salesorder #100117560",
+    "notes": "Order acknowledgement; processing status",
     "date": "2026-06-30",
     "subject": "PO Acknowledgement for DigiKey Salesorder # 100117560"
   },
@@ -8159,7 +8159,7 @@
     "project_code": null,
     "project_hint": null,
     "description": "DigiKey order confirmation",
-    "notes": "Order received and being processed; shipping confirmation pending",
+    "notes": "Order placed and processing; shipment confirmation pending",
     "date": "2026-06-30",
     "subject": "Thank you for your DigiKey order!"
   },
@@ -8172,7 +8172,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "Industry report/newsletter from Worldwide Express; informational, not a purchase",
+    "notes": "Worldwide Express shipping trends report \u2014 informational; no purchase transaction",
     "date": "2026-06-30",
     "subject": "Mid-2026 Shipping Update: What Shippers Need to Know"
   },
@@ -8185,7 +8185,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "Survey request from Vaisala; feedback/relationship email, not a purchase",
+    "notes": "Vaisala customer feedback survey request \u2014 no purchase transaction",
     "date": "2026-06-30",
     "subject": "Help us improve with a brief 2\u2011question survey"
   },
@@ -8198,7 +8198,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "Marketing email (Bulk Container Express website update); not a purchase",
+    "notes": "Bulk Container Express website update announcement \u2014 promotional; no purchase transaction",
     "date": "2026-06-30",
     "subject": "The New Bulk Container Express"
   },
@@ -8211,7 +8211,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "Marketing promotional email (Harbor Freight new products); not a purchase",
+    "notes": "Harbor Freight new product alert \u2014 promotional; no purchase transaction",
     "date": "2026-06-30",
     "subject": "NEW PRODUCT ALERT"
   },
@@ -8224,7 +8224,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "USPS Informed Delivery digest; shipping notification chatter, not a purchase",
+    "notes": "USPS Informed Delivery digest notification \u2014 no purchase content",
     "date": "2026-06-30",
     "subject": "Your Daily Digest for Tue, 6/30 is ready to view"
   }

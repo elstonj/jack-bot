@@ -1,11 +1,12 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 3,199 (3,117 previous + 82 new from Jul 1-2, 2026)
-- **Date range:** March 24 – July 1, 2026 (101 days)
-- **Approximate volume:** ~31.7 messages per day (sustained consistency)
-- **New batch composition (Jul 1-2, 2026):** ~75% automation/newsletters/news/promotions (61 of 82 messages)
-  - **Direct human correspondence:** 21 critical messages (26% of batch)
+- **Total messages scanned:** 3,238 (3,199 previous + 39 new from Jul 1-2, 2026)
+- **Date range:** March 24 – July 2, 2026 (101 days)
+- **Approximate volume:** ~32.1 messages per day (sustained consistency)
+- **New batch composition (Jul 1-2, 2026):** ~87% automation/newsletters/news/promotions (34 of 39 messages)
+  - **Direct human correspondence:** 5 critical messages (13% of batch)
+  - **Note:** Sharp increase in newsletter/news subscriptions (NYT breaking news, sports, military/aerospace content). Heavy filtering by automation categories indicates email management strategy is in place.
 
 ---
 
@@ -14,100 +15,120 @@
 ### Top Internal Senders & Collaborators
 
 **Jack Elston** (elstonj@blackswifttech.com / media@blackswifttech.com)
-- **Status:** Highly active across multiple domains
-- **New batch activity:**
-  - **Geo Week 2027 Submission:** Jun 30, 20:36:08 -0600 (Paige forwards submission confirmation to Jack, marked IMPORTANT)
-  - **Krateosky Partnership:** Ongoing coordination (continuation from previous batch)
-- **Established roles:**
-  1. Conference/exhibition coordination (Geo Week, DroneX, IDEX)
-  2. Krateosky announcement liaison
-  3. Media/news distribution (UAS VISION daily briefing recipient)
-- **Pattern:** Primary point person for conference submissions, speaker coordination, and partnership announcements
+- **Continued activity:** UAS VISION daily briefing (Jul 1, 09:04:50 +0000) routed to Jack's media alias
+- **Pattern:** Primary distribution channel for industry intelligence; media coordination continues
+- **Status:** Sustained high-volume correspondence
 
-**Sona Raziabeegum** (sona@krateosky.com)
-- **Status:** Active partnership executive
-- **New batch activity:**
-  - **Jun 30, 14:38:21 UTC:** RE: Announcement [IMPORTANT] — Sona responds to Jack Elston
-  - **Jun 30, 09:18:15 -0600:** Paige sends direct reply to Sona RE: Announcement
-- **Signal:** **Announcement phase** continues with multiple exchanges. Likely finalization of press release, partnership details, or public disclosure timeline. **Status: ANNOUNCEMENT COORDINATION — active draft/approval phase.**
+**Ryan Richardson** (ryan.richardson@thrivelocal.com)
+- **Jul 1, 16:31:22 +0000:** Calendly reminder — 45-minute one-on-one meeting scheduled for Jul 2, 2026 at 10:30am Mountain Time
+- **Signal:** Recurring 1:1 meeting (appears systematic); external vendor/partner context (thrivelocal.com suggests marketing/growth services)
+
+**Beck Cotter** (beck.cotter@blackswifttech.com)
+- **Jul 1, 09:57:09 -0600:** Initiates interview request thread (CC'd to sales@blackswifttech.com, marked IMPORTANT)
+- **New contact:** Ryan Nesselrodt (ryan.nesselrodt@sri.com) — external interview subject
+- **Signal:** Media/PR coverage coordinated through sales team; possibly company spokesperson interviews
 
 ---
 
 ### Top External Senders & Partners
 
-#### **Dubai Airshow 2027 — PARTNERSHIP DEVELOPMENT (ESCALATED)**
+#### **Dubai Airshow 2027 — PARTNERSHIP ESCALATION (CRITICAL)**
 
-**Adam Zeyn** (Adam.Zeyn@informa.com) — Informa
-- **Jun 30, 18:57:14 +0000: Paige & Adam Call - Dubai AIrshow [IMPORTANT]**
-- **Signal:** **Escalation from previous batch.** Subject line references scheduled call, indicating move from inquiry to active discussion/negotiation phase. Likely covering booth logistics, sponsorship tiers, or speaker opportunities. **Status: CALL SCHEDULED — relationship warming, partnership terms under discussion.**
+**Adam Zeyn** (adam.zeyn@ind-group.com) — **NEW DOMAIN ALERT**
+- **Jul 1, 19:58:58 +0000 & 19:39:39 +0000:** Duplicate forwarded messages — "Fw: Hi Paige - Dubai Airshow 2027" (both marked IMPORTANT)
+- **Domain change:** Previously adam.zeyn@informa.com → now adam.zeyn@ind-group.com (possible email domain migration or role change within Informa Group)
+- **Signal:** **Duplicate sends suggest urgent re-contact or confirmation attempt.** Escalation continues from previous batch. **Status: ACTIVE NEGOTIATION — multiple contact attempts within 20 minutes indicates time-sensitive discussion.**
 
-#### **Geo Week 2027 — SPEAKER/EXHIBITOR SUBMISSION (CONFIRMED)**
+#### **LinkedIn Recruiting & Client Outreach (NEW PATTERN)**
 
-**Geo Week 2027** (rferris@divcom.com) / **Carla Lauter** (info@geo-week.com)
-- **Jun 30, 22:44:35 +0000 (UTC):** [Geo Week 2027] Submission Received [CATEGORY_UPDATES]
-- **Jun 30, 12:16:18 -0500 (CDT):** Carla Lauter — FWD: Ready to take the stage at Geo Week? Call for Speakers Now Open! [CATEGORY_PROMOTIONS]
-- **Paige's response:**
-  - Jun 30, 20:36:08 -0600: Forwards submission confirmation to Jack Elston (marked IMPORTANT)
-  - Jun 30, 17:12:12 -0600: Original submission sent
-- **Signal:** **Submission confirmed for Geo Week 2027.** Paige escalated confirmation to Jack immediately upon receipt — indicates speaker/booth participation is strategically important. **Status: CONFIRMED EXHIBITOR/SPEAKER — submission accepted, logistics TBD.**
+**LinkedIn Notifications (Surge Activity)**
+- **Jul 1, 17:42:17 +0000:** "Black Swift Technologies, Engineering Design request from Raymond STORM and other clients are available" (marked IMPORTANT)
+- **Jul 1, 11:13:01 -0700:** "Your Page has been mentioned!" 
+- **Jul 1, 09:03:01 +0000:** Nina Sabak (nina.sabak@echoblue.co.uk) messaged via LinkedIn
+- **Signal:** **High-volume inbound recruiting/client inquiries on LinkedIn.** Raymond STORM appears to be potential client/partner. Nina Sabak (EchoBlue UK) — unknown context but marked IMPORTANT.
 
-#### **Krateosky Partnership — ANNOUNCEMENT FINALIZATION (CRITICAL)**
+#### **Nina Sabak** (nina.sabak@echoblue.co.uk) — EchoBlue
+- **Jul 1, 01:53:19 -0700:** Direct message "UST news" (marked IMPORTANT)
+- **Signal:** **Time-sensitive news exchange.** EchoBlue operates in drone/UAS space (competitor or partner context unclear). Possible acquisition target or partnership news.
 
-**Sona Raziabeegum** (sona@krateosky.com) + **Jack Elston**
-- **Jun 30, 14:38:21 UTC:** Sona to Jack: RE: Announcement [IMPORTANT]
-- **Jun 30, 09:18:15 -0600:** Paige to Sona: Re: Announcement [SENT]
-- **Pattern:** **Direct Paige-Sona exchange + Jack-Sona parallel thread.** Multiple IMPORTANT flags over 2+ days indicates announcement is near finalization. Likely reviewing final press release copy, embargo timing, or joint media strategy. **Status: ANNOUNCEMENT IMMINENT — final coordination phase (48-72 hours pre-release likely).**
+#### **Conference & Exhibition Activity (Ongoing)**
 
-#### **NOAA/Weather Research Initiative — ACTIVE MEDIA OUTREACH CAMPAIGN (NEW PATTERN)**
+**Military Robotics and Autonomous Systems USA Conference**
+- **Jul 1, 14:21:17 +0000:** Adam Smith (saemediagroup.com) pitching conference sponsorship/participation
+- **Pattern:** Parallel to Geo Week, Dubai Airshow tracks; multiple defense/aerospace conferences being evaluated
 
-**Paige's Outbound Media Blitz (Jun 30, 14:16–17:12 -0600)**
+**Volcano Summit**
+- **Jul 1, 20:02:03 +0000:** Sent to both paige.smith@blackswifttech.com AND media@blackswifttech.com (50% sold out alert, marked UNREAD)
+- **Signal:** Paige individually on distribution list; suggests past event participation or specific interest
 
-Paige conducted **coordinated multi-outlet media pitch** targeting 15+ major news organizations in <3 hours:
+**TECNOSEC DRONExpo / EXPOSECURITY**
+- **Jul 1, 09:27:19 +0000:** Sent to info@blackswifttech.com; security + drone professional focus
+- **Pattern:** Consistent with BST's aerospace/defense positioning
 
-**Major Tier Outlets:**
-- Bloomberg (tips2@bloomberg.net)
-- Washington Post (jason.samenow@washpost.com, matthew.cappucci@washpost.com)
-- New York Times (raymond.zhong@nytimes.com)
-- NPR (Investigations@npr.org)
-- The Verge (tips@theverge.com)
-- Vox (justine.calma@voxmedia.com)
+#### **News & Intelligence Subscriptions (Curated Content)**
 
-**Regional/Specialty Outlets:**
-- Miami Herald (aharris@miamiherald.com)
-- Tampa Bay Times (mchesnes@tampabay.com)
-- WWNO New Orleans (hparker@wwno.org)
-
-**Trade/Industry:**
-- Aviation Week (michael.bruno@aviationweek.com, graham.warwick@aviationweek.com)
-- MundoGEO (editorial@mundogeo.com)
-- The Carbon Age (e@thecarbonage.com)
-- Paramount (jeremy.adler@paramount.com) [anomaly — unclear context]
-- Aria Alam freelancer (aria@ariaalam.com)
-- Ars Technica (eric.berger@arstechnica.com)
-
-**Subject Line (Uniform):** "As rapid storm intensification rises, NOAA deploys ultra-light drones to boost forecast precision by 25%"
-
-**Responses Received:**
-- **Justine Calma** (Vox): "I'm on maternity leave" [Jun 30, 13:08:50 -0700, marked IMPORTANT]
-- **Andrew Hawkins** (The Verge): "Out of the Office" [Jun 30, 13:08:34 -0700]
-
-**Signal:** **Large-scale press campaign for NOAA weather intelligence/drone deployment story.** Paige is PR/media relations lead. Story emphasizes 25% forecast precision improvement via ultra-light drones. High-touch approach (individual pitches vs. broadcast). **Status: ACTIVE CAMPAIGN — media embargoes likely coordinated, major outlet pickup expected within 24-48 hours.**
+- **Mitchell Institute / Air Force Association:** America250 updates, Schriever Spacepower Series (military space focus)
+- **UAS VISION:** Daily drone/UAS industry briefing (routed to Jack)
+- **A&SF Daily Report:** Air and Space Forces Magazine job specialties
+- **The New York Times:** Breakingnews alerts, editorial picks (general intelligence, not filtered)
+- **The Athletic, Sports News:** General interest (low signal)
 
 ---
 
-### LinkedIn & Professional Development Activity
+## Topic Patterns
 
-**LinkedIn Engagement (New Pattern):**
-- **Jun 30, 14:59:50 +0000 (UTC):** "Paige, you're on a roll on LinkedIn!" [IMPORTANT, CATEGORY_SOCIAL]
-- **Jun 30, 02:21:49 +0000 (UTC):** Marketing Specialist insights: $80K/yr+ salary at 7.9K job openings [IMPORTANT]
-- **Jun 30, 19:23:52 +0000 (UTC):** Multiple profile visit notifications (19 visitors)
-- **Jun 1, 04:59:50 +0000 (UTC):** Jan Hruška and others sharing thoughts [CATEGORY_UPDATES]
+### Primary Work Focus Areas
+1. **Drone/UAS Conference Participation & Sponsorship**
+   - Geo Week 2027 (confirmed submission)
+   - Dubai Airshow 2027 (active negotiations)
+   - DroneX (previous mentions, likely continuing)
+   - IDEX (previous mentions, likely continuing)
+   - Military Robotics & Autonomous Systems USA
+   - TECNOSEC DRONExpo
 
-**Signal:** **Sustained LinkedIn visibility growth.** Combination of organic engagement + job market notifications suggests Paige's profile activity is increasing (possibly sharing conference/partnership news or industry insights). **Context:** May indicate LinkedIn is being leveraged for thought leadership around BST initiatives.
+2. **Partnership & Press Release Coordination**
+   - Krateosky partnership announcement (finalization phase from previous batch)
+   - NOAA weather drone intelligence story (active media pitch from previous batch)
+
+3. **Media & Industry Relations**
+   - Interview request coordination (Beck Cotter's activity Jul 1)
+   - LinkedIn profile promotion & thought leadership
+   - News distribution through Jack Elston's media alias
+
+4. **Business Development / Client Intake**
+   - Raymond STORM inquiry via LinkedIn (engineering design request)
+   - Nina Sabak / EchoBlue contact (UST news)
+   - Inbound inquiries on LinkedIn (surge visible in notifications)
 
 ---
 
-### Calendar & Meeting Activity
+## Communication Patterns
 
-**Ryan Richardson** (ryan.richardson@thrivelocal.com)
-- **Jun 30, 17:00:07 +0000:** Updated invitation:
+### Time Patterns
+- **Jul 1 Activity Spike:** Concentrated between 06:11-20:56 UTC (14+ hour window)
+- **Heavy UTC/GMT timestamps:** Suggests either international coordination or email server timezone (likely company default to UTC)
+- **Adam Zeyn's duplicate sends:** 19:39 and 19:58 UTC (19 minutes apart) — indicates resend/urgent re-contact
+
+### Email Categories & Filtering
+- **Automation dominance (87% of new batch):** Newsletters, promotions, news digests, LinkedIn notifications
+- **IMPORTANT flags on strategic messages:**
+  - Dubai Airshow negotiations (Adam Zeyn)
+  - LinkedIn recruiting inquiries (Raymond STORM)
+  - Nina Sabak / EchoBlue (UST news)
+  - Mitchell Institute aerospace updates
+  - Internal meeting reminders (Ryan Richardson)
+
+### Newsletter & Subscription Mix
+- **Industry-specific:** UAS VISION, A&SF Daily Report, UAS Magazine, Geo Week News, TECNOSEC DRONExpo
+- **Military/Aerospace:** Mitchell Institute (AFA), Air and Space Forces Magazine
+- **General news:** NYT breaking news, sports (The Athletic, MLB coverage)
+- **Professional development:** LinkedIn jobs, marketing coordinator roles
+- **E-commerce:** Target, Shopify, Google Ads, Staples, BannerBuzz (low priority signals)
+
+---
+
+## Key Relationships
+
+### Internal Collaborators (by activity)
+1. **Jack Elston** — Conference/exhibition coordination, media distribution, press liaison
+2. **Ryan Richardson** — Regular 1:

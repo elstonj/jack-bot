@@ -1,9 +1,8 @@
 # Ethan Domagala — Email Patterns
 
-Only 5 emails found in scanned period.
+Only 4 emails found in scanned period.
 
-- Tue, 30 Jun 2026 18:34:18 +0000 (UTC): You just got paid! (6/1/26 - 6/30/26) (from: Rippling <no-reply@rippling.com>)
-- Tue, 30 Jun 2026 18:22:39 +0000 (UTC): Did you see something you liked? (from: GetFPV <noreply@getfpv.com>)
-- Tue, 30 Jun 2026 15:57:15 +0000 (UTC): 🔋 More Flight Time Starts Here (from: GetFPV <chloe@getfpv.com>)
-- Tue, 30 Jun 2026 14:15:47 +0000: Tuesday - tasks due soon: 10 - blackswifttech.com (from: Asana <no-reply@asana.com>)
-- Tue, 30 Jun 2026 08:09:03 -0400: Almost there - 1 more step until production (from: Xometry <hello@mkt1.xometry.com>)
+- Wed, 01 Jul 2026 19:39:07 +0000: Notes: “BST Internal Update Meeting” Jul 1, 2026 (from: Gemini <gemini-notes@google.com>)
+- Wed, 01 Jul 2026 18:23:56 +0000 (UTC): Your gear is waiting for you (from: GetFPV <noreply@getfpv.com>)
+- Wed, 01 Jul 2026 11:02:01 -0600: July 2026 Newsletter (from: Protolabs <news@protolabs.com>)
+- Wed, 01 Jul 2026 15:33:03 +0000: What’s new in Asana? Share your progress faster (from: Asana <learn@go.asana.com>)

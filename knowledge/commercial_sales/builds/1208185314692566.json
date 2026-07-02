@@ -1,9 +1,9 @@
 {
-  "asana_gid": "1213756777376150",
-  "asana_task_name": "University of Colorado Boulder",
-  "customer": "University of Colorado Boulder",
-  "customer_contact": "Jazlynn Hall",
-  "customer_email": "jazlynn.hall@colorado.edu",
+  "asana_gid": "1208185314692566",
+  "asana_task_name": "[450] Alaska Coastline Erosion Surveys (University of Colorado)",
+  "customer": "University of Colorado",
+  "customer_contact": "Julia Moriarty",
+  "customer_email": "Julia.Moriarty@colorado.edu",
   "receive_by": "2026-08-31",
   "ship_to": null,
   "items": [
@@ -27,7 +27,7 @@
   "payment_state": "estimate_sent",
   "build_state": "none",
   "ship_state": "none",
-  "estimate_date": "2026-04-10",
+  "estimate_date": null,
   "invoice_date": null,
   "invoice_amount": null,
   "invoice_number": null,
@@ -59,14 +59,17 @@
   "carrier": null,
   "shipped_date": null,
   "owners": {
-    "interface": "Beck",
-    "invoicing": "Meredith",
-    "build": "Nate"
+    "interface": null,
+    "invoicing": null,
+    "build": null
   },
-  "notes": "New professor Jazlynn Hall at CU Boulder seeking E2 system with custom sensor payload for scientific research. Estimate sent 2026-04-10. Customer will not purchase until August 2026 when new position starts. Receive-by 2026-08-31 confirmed via Asana task. KEEP signal: explicit receive_by date within 6 months. QBO invoices #1759 and #1618 are for separate CU Boulder projects (IRISS and INSTAAR) and do not correspond to this E2 build.",
+  "notes": "Alaska Coastline Erosion Surveys \u2014 academic research project for bathymetry/topography measurement over north slope lagoons. Customer requested quote for either drone rental + technician support (10 days in summer 2026) or drone + LiDAR system purchase. Estimate sent May 2026 per Slack; decision deadline was Aug 30, 2024 (appears to be date from form submission).",
   "missing_fields": [
-    "ship_to"
+    "ship_to",
+    "estimate_date",
+    "invoice_number",
+    "owners"
   ],
-  "last_evidence_date": "2026-07-01",
+  "last_evidence_date": "2026-06-19",
   "last_contact_date": "2026-06-23"
 }

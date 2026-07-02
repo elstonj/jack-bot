@@ -14,7 +14,7 @@ Key participants include:
 - **Nate** (Remote ID/registration support)
 - **Alex Lomis** (Team member, availability flexible)
 
-The channel covers activities from 2020 through June 2026, with high activity during deployment periods and report deadlines.
+The channel covers activities from 2020 through July 2026, with high activity during deployment periods and report deadlines.
 
 ## Key Decisions
 
@@ -70,6 +70,11 @@ The channel covers activities from 2020 through June 2026, with high activity du
 - Projected total inventory of approximately 37 S0 aircraft units on track to be delivered
 - No inventory shortage issues identified
 
+**Photogrammetry Payload Conversion for Popocatépetl (July 1, 2026)**
+- Joshua Fromm inquiry regarding required modifications to photogrammetry payload originally used in Kentucky deployment for volcano mission application
+- Gas payload parts on order with projected arrival and conversion completion before end of July 2026
+- Plan includes test flight before full deployment
+
 ## Projects & Initiatives
 
 **Makushin Volcano Monitoring (Alaska)**
@@ -85,8 +90,12 @@ The channel covers activities from 2020 through June 2026, with high activity du
 - **Results**: 6 flights completed, NASA personnel trained, science objectives met
 - **Restrictions**: Operations limited to west side of ridge until NASA crew qualified
 
+**Kentucky Deployment**
+- **Status**: Previously completed; photogrammetry payload available for potential reuse
+- **Significance**: Photogrammetry payload currently being evaluated for adaptation to Popocatépetl mission
+
 **Popocatépetl Volcano (Mexico)**
-- **Status**: Deployment deferred from April 19-27, 2026; awaiting S3 aircraft repairs and testing completion; documentation review ongoing as of May 18, 2026; manual flagged with content accuracy concerns but expected to proceed
+- **Status**: Deployment deferred from April 19-27, 2026; S3 repairs completed and testing underway as of late June 2026; payload conversion in progress with test flight planned before end of July 2026
 - **Significance**: SO2 output 10-50x higher than Makushin
 - **Aircraft**: S3 (Registration 20686S30001) selected due to high-altitude requirements (18,000-20,000 ft)
 - **Mission Parameters (As of April 13, 2026)**:
@@ -103,10 +112,3 @@ The channel covers activities from 2020 through June 2026, with high activity du
   - **Status**: Unresolved - no SOW or contract found in shared drive
   - **Question raised by Dan Prendergast**: No written agreement located; unclear if relationship is verbal only or documented elsewhere
   - **Action needed**: Clarification on formal relationship documentation and agreement status with AV3
-- **Regulatory Status**: Written permission from Mexican authorities not secured as of April 13, 2026; pursuing AFAC approval via operating manual
-- **Payload Status** (as of April 18, 2026): 
-  - Trace gas payload: Communication issue resolved with ADUM1201 magnetic isolator solution
-  - Photogrammetry payload: Confirmed operational
-  - Pitot system: Configured without drain (taped)
-- **Documentation** (as of May 19, 2026):
-  - Operating manual completed via Overleaf with

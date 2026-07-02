@@ -4,33 +4,38 @@
     "[044-1] EMASS Chip Integration"
   ],
   "period": {
-    "start": "2026-06-09",
-    "end": "2026-06-10"
+    "start": "2026-07-01",
+    "end": "2026-07-02"
   },
   "totals": {
-    "revenue": 25000.0,
+    "revenue": 6000.0,
     "expenses": 0.0,
     "by_category": {}
   },
   "invoices": [
     {
       "type": "Invoice",
-      "date": "2026-06-09",
-      "doc_number": "1769",
-      "total": 25000.0,
-      "attributed": 25000.0,
+      "date": "2026-07-01",
+      "doc_number": "1770",
+      "total": 6000.0,
+      "attributed": 6000.0,
       "vendor": "",
       "customer": "[044-1] EMASS Chip Integration",
-      "balance": 25000.0,
+      "balance": 6000.0,
       "memo": "",
       "lines": [
         {
-          "amount": 25000.0,
+          "amount": 3000.0,
           "account": "",
-          "description": "Engineering support + flights"
+          "description": "June 5, 2026"
         },
         {
-          "amount": 25000.0,
+          "amount": 3000.0,
+          "account": "",
+          "description": "June 26, 2026"
+        },
+        {
+          "amount": 6000.0,
           "account": "",
           "description": ""
         }

@@ -18,8 +18,8 @@
 
 ### Major Milestones (Original Planned Dates — Now Superseded by Fall 2026 Deployment)
 - **Operator Manual and Flight CONOPS for AFAC** | Dan Prendergast | Asana due: July 2, 2026 | **STALE**
-- **Obtain flight approvals from AFAC** | Dan Prendergast | Asana due: July 1, 2026 | **STALE**
-- **Verify ground permissions for national park (CENAPED leading)** | Dan Prendergast | Asana due: July 1, 2026 | **STALE**
+- **Obtain flight approvals from AFAC** | Dan Prendergast | Asana due: August 3, 2026 | **STALE**
+- **Verify ground permissions for national park (CENAPED leading)** | Dan Prendergast | Asana due: August 3, 2026 | **STALE**
 - **Sort out flight, radio, shipping, and import permissions** | Unassigned | Asana due: July 31, 2026 | **STALE** — Note: Batteries already shipped to Mexico (May 2026); customs/import details under review
 - **Look at FLIR stoppage at Murray State** | Maciej Stachura | Asana due: August 3, 2026 | **STALE**
 - **Test props for operations at 5700m** | Maciej Stachura | Asana due: August 3, 2026 | **STALE**
@@ -36,8 +36,8 @@
 - **Tasks by Assignee**:
   - **Dan Prendergast**: 3 open tasks (0% completion)
     - Operator Manual and Flight CONOPS for AFAC (due July 2, 2026) **STALE**
-    - Obtain flight approvals from AFAC (due July 1, 2026) **STALE**
-    - Verify ground permissions for national park/CENAPED (due July 1, 2026) **STALE**
+    - Obtain flight approvals from AFAC (due August 3, 2026) **STALE**
+    - Verify ground permissions for national park/CENAPED (due August 3, 2026) **STALE**
 
 ## Recent Activity
 

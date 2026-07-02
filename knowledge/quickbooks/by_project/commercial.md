@@ -1,10 +1,10 @@
 # Commercial — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $2,986,489.34
-- **Total Expenses (Bills + Purchases):** $240,948.72
+- **Total Invoiced (Revenue):** $2,992,489.34
+- **Total Expenses (Bills + Purchases):** $241,183.72
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,745,540.62 (Revenue exceeds expenses)
+- **Net Position:** $2,751,305.62 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – July 2, 2026
 
 ---
@@ -15,6 +15,7 @@
 
 | Invoice # | Date | Amount | Customer | Balance |
 |-----------|------|--------|----------|---------|
+| **1770** | **2026-07-01** | **$6,000.00** | **[044-1] EMASS Chip Integration** | **$6,000.00** |
 | **1769** | **2026-06-09** | **$25,000.00** | **[044-1] EMASS Chip Integration** | **$25,000.00** |
 | 1768 | 2026-06-04 | $1,000.00 | Black Swift Technologies | $1,000.00 |
 | 1766 | 2026-05-19 | $3,900.00 | Daniel Hesselius | $3,900.00 |
@@ -71,29 +72,28 @@
 | 1618 | 2024-04-19 | $13,853.10 | [451] INSTAAR Stable Isotope Lab, CU Boulder | Paid |
 
 ### Revenue Summary
-- **Total Invoiced:** $2,986,489.34
+- **Total Invoiced:** $2,992,489.34
 - **Total Collected (Paid):** $1,075,726.08
-- **Outstanding Balance:** $1,910,763.26
+- **Outstanding Balance:** $1,916,763.26
 
-#### Notable Recent Invoices (June 4–9, 2026)
+#### Notable Recent Invoices (July 1, 2026)
 
-**Invoice #1769 — [044-1] EMASS Chip Integration (June 9, 2026): $25,000.00** ⚠️ 
-- $25,000.00 — Engineering support + flights
-- *Outstanding balance; represents continuation of EMASS Chip Integration work*
-
-**Invoice #1768 — Black Swift Technologies (June 4, 2026): $1,000.00**
-- $1,000.00 — S3 battery pack
-- *Outstanding balance*
+**Invoice #1770 — [044-1] EMASS Chip Integration (July 1, 2026): $6,000.00** ⚠️
+- $3,000.00 — Dated June 5, 2026
+- $3,000.00 — Dated June 26, 2026
+- *Outstanding balance; continuation of EMASS Chip Integration work*
 
 ---
 
 ## Expenses by Cost Category
 
 ### **Materials & Supplies** (Direct Cost Material Purchases)
-**Total: $638.12** | 4 transactions | Largest item: $499.00
+**Total: $813.12** | 6 transactions | Largest item: $499.00
 
 | Date | Vendor/Description | Amount | Details |
 |------|-------------------|--------|---------|
+| 2026-07-01 | Purchase #03236 (Wire Transfer) | $130.00 | Wire Transfer — unauthorized email purchase via sales rep |
+| 2026-07-01 | Purchase #03236 (Wire Transfer) | $26.00 | Wire Transfer — unauthorized email purchase via sales rep |
 | 2026-06-30 | Purchase #2026-0411 | $499.00 | Processing data for Murray State |
 | 2026-06-30 | Digi Key Corp — Purchase #DKC*DIGI KEY CORP - 4617 | $115.61 | HEATSINK PWR DUAL BLACK T |
 | 2026-06-24 | Purchase #0624JELSTON | $20.93 | Navy Magnetometer |
@@ -101,24 +101,20 @@
 
 **Account:** DIRECT COSTS: DC-Direct Material Purchases
 
+⚠️ **Notable Issue:** Purchase #03236 ($156.00 combined) — Wire Transfer flagged in memo as "No Asana request - Alex made purchase via email with sales rep. Initial wire transfer through Wells Fargo was returned." This appears to be an unauthorized or non-standard procurement requiring investigation.
+
+---
+
+### **Inventory Asset** (Capitalized/Balance Sheet Items)
+**Total: $39.00** | 1 transaction | Largest item: $39.00
+
+| Date | Vendor/Description | Amount | Details |
+|------|-------------------|--------|---------|
+| 2026-07-01 | Purchase #03236 (Wire Transfer) | $39.00 | Wire Transfer — unauthorized email purchase via sales rep |
+
+**Account:** Inventory Asset
+
 ---
 
 ### **Rent/Facilities** (Allocated Facility Costs & Shop Supplies)
-**Total: $183.77** | 1 transaction | Largest item: $183.77
-
-| Date | Vendor/Description | Amount | Details |
-|------|-------------------|--------|---------|
-| 2026-06-24 | Purchase #0624JELSTON | $183.77 | Shop Supplies |
-
-**Account:** FACILITIES: FA-Shop Supplies
-
----
-
-### **Shipping/Freight** (Direct Cost Shipping, Freight & Delivery)
-**Total: $1,446.30** | 16 transactions | Largest item: $1,112.81
-
-| Date | Vendor/Description | Amount | Details |
-|------|-------------------|--------|---------|
-| 2026-07-02 | Purchase #260614W010104 | $20.00 | Shipment of Model S0 to Embry Riddle |
-| 2026-06-11 | Aeronet Worldwide — Bill #103032173 | $1,112.81 | Shipping S3 to UMES |
-| 2026-06-10 | PIRATE SHIP * POSTAGE - 7333 | $53.
+**

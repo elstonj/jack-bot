@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $4,462,176.28
-- **Total Expenses (Bills + Purchases):** $1,333,093.50
+- **Total Expenses (Bills + Purchases):** $1,333,288.50
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,129,082.78 (invoiced minus expenses)
+- **Net Position:** $3,128,887.78 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -76,8 +76,8 @@
 
 ---
 
-### **Materials & Supplies: $472,622.22**
-**Number of transactions:** 212  
+### **Materials & Supplies: $472,817.22**
+**Number of transactions:** 213  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
   - **DKC*DIGI KEY CORP - 4617** (2026-06-17): $170.70 [DC-Direct Material Purchases]
@@ -104,7 +104,7 @@
   - **Direct Cost Materials & Supplies impact: $479.80**
 - **Amazon MKTPL*4Z8IL5283** (2026-06-29): **$34.59** [DC-Direct Material Purchases] — 64GB PNY Elite-X Fit USB 3.1 Flash Drive
 
-**Recent transactions (2026-06-24 to 2026-06-29):**
+**Recent transactions (2026-06-24 to 2026-07-02):**
 - **Purchase #0624JELSTON** (2026-06-24): 
   - $2.58 [DC-Direct Material Purchases] — By Light Supplies
   - $20.93 [DC-Direct Material Purchases] — Navy Magnetometer
@@ -119,10 +119,15 @@
   - Subtotal materials: **$192.10**
 - **Purchase #69631** (2026-06-29): **$562.44** [DC-Direct Material Purchases] — JAWSTEC IDIQ components
 - **Amazon MKTPL*4Z8IL5283** (2026-06-29): **$34.59** [DC-Direct Material Purchases] — USB Flash Drive
+- **Purchase #03236** (2026-07-01): **$156.00** [DC-Direct Material Purchases] — Wire Transfer
+  - $130.00 [DC-Direct Material Purchases] — Wire transfer (no Asana request; Alex purchase via email)
+  - $26.00 [DC-Direct Material Purchases] — Wire transfer (no Asana request; Alex purchase via email)
+  - *Note: Initial wire transfer through Wells Fargo was returned*
+  - Subtotal materials: **$156.00**
 
-**Subtotal new materials & supplies (2026-06-24 to 2026-06-29): $2,142.41**
+**Subtotal new materials & supplies (2026-06-24 to 2026-07-02): $2,298.41**
 
-**Total direct cost materials & supplies through 2026-09-28: $472,622.22** *(confirmed final)*
+**Total direct cost materials & supplies through 2026-09-28: $472,817.22** *(confirmed final)*
 
 ---
 
@@ -136,10 +141,4 @@
 
 **Key transactions:**
 - **Purchase #260607W011757** (2026-06-25): **$90.16** [DC-Direct Cost Shipping, Freight & Delivery]
-  - Phase1 Aviation shipment for IDIQ (dated 5/28/26)
-- **Purchase #260531W011484** (2026-06-18): **$93.17** [DC-Direct Cost Shipping, Freight & Delivery]
-  - Phase1 Aviation shipment for IDIQ (S0 wings)
-- **Purchase (Pirate Ship Postage)** (2026-06-10): **$102.08** [DC-Direct Cost Shipping, Freight & Delivery]
-  - Shipment from Paramount Tube to Lee Skidmore
-
-**
+  - Phase1 Aviation shipment for IDIQ (dated

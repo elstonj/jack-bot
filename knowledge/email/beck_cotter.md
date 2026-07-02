@@ -1,77 +1,99 @@
 # Beck Cotter — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 14 emails across two scan periods
+- **Total messages scanned:** 30 emails across three scan periods
 - **Date range:** 29 Jun – 01 Jul 2026 (4-day window)
-- **Approximate volume:** ~3-4 emails per day during this period
+- **Approximate volume:** ~7-8 emails per day during this period
+- **Note:** Volume increased notably on 01 Jul 2026 (13 emails that day alone)
 
 ## Key Correspondents
 
 ### Top Senders (direct to Beck)
-1. Sam C. Tetlow (grantengine.com) — grant/SBIR webinar invitations
-2. AFWERX (usafafwerx.dod.govdelivery.com) — alerts/updates
-3. Peter Kuo (ubiqconn.com) — drone GCS partnerships
-4. Jack Elston (blackswifttech.com, internal) — NASA grant forwarding
-5. UASweekly.com — newsletter
+1. Daniel Prendergast (internal) — SOCOM RFI responses, LM technical collaboration, Asana task mentions
+2. Jack Elston (internal) — Safety statements, forwarded requests
+3. Ryan Nesselrodt (sri.com) — Interview request responses
+4. SOFWERX (sofwerx.org) — SBIR pre-release notifications
+5. UASweekly.com — Newsletter
+6. Gemini/Google Notes — Meeting notes summaries
+7. Becky Cotter (bcotter456@gmail.com) — Personal (photos)
 
 ### Top Recipients (emails Beck sends to)
-- Direct correspondence appears limited in metadata; most emails are **incoming**
-- Internal: Jack Elston, Daniel Prendergast (appears to CC/receive related threads)
-- External: Lockheed Martin (Alasdair Brackenridge), Ubiqconn (Peter Kuo)
+- **Jack Elston** (elstonj@blackswifttech.com) — Manufacturer safety statements, interview requests, forwarded items
+- **Ryan Nesselrodt / SRI** (ryan.nesselrodt@sri.com) — Interview coordination
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Multi-recipient forwards (with Maciej Stachura)
+- **Sales team** (sales@blackswifttech.com) — Interview request routing
 
 ### Internal vs External
-- **Primarily incoming** (newsletters, vendor outreach, grant notifications, partnership inquiries)
-- Internal collaboration visible through forwarded/replied threads with Jack Elston and Daniel Prendergast
+- **Incoming:** ~60% internal (Prendergast, Elston), ~40% external (SRI, SOFWERX, NOAA, FAA, UASweekly)
+- **Outgoing:** ~70% internal (Elston, Prendergast), ~30% external (SRI)
+- Strong internal collaboration visible with Jack Elston and Daniel Prendergast
 
 ## Topic Patterns
 
 ### Recurring Themes
-1. **NASA/Government Grants** — "Grant for UAS Development for Atmospheric Research - NASA" (flagged as important)
-2. **SBIR/Small Business Innovation Research** — Webinar invitations (Grant Engine)
-3. **DoD/Military Programs** — AFWERX alerts, SOCOM RFI responses
-4. **UAS/Drone Technology** — GCS partnerships, UAV radar solutions (Ainstein)
-5. **Component/Battery Partnerships** — European battery manufacturing inquiry
-6. **Technical Partnerships** — Lockheed Martin LM Technical Questions
+1. **FAA/Safety Compliance** — "Required Action: Manufacturer's Safety Statement" (multi-instance routing)
+2. **Government Grants & SBIR** — SOFWERX SBIR 26.BZ pre-release notifications
+3. **SOCOM/DoD Partnerships** — RFI responses (Zachary O. Kachel, USSOCOM)
+4. **Lockheed Martin Technical Collaboration** — LM technical questions (Dhruti Shah)
+5. **NOAA/NASA Projects** — "NOAA/NASA 777" proposals (Asana task)
+6. **Government Contract Extensions** — NOAA contract 1305M225P0034 extension request
+7. **Media/Interview Requests** — SRI interview coordination, public relations outreach
 
 ### Organizations/Vendors Visible
-- **Ubiqconn** — drone GCS partnerships
-- **Lockheed Martin (LMCo)** — technical collaboration
-- **Ainstein** — UAV radar solutions (inbound marketing)
-- **Perkons Energy** — battery manufacturing (European)
-- **Grant Engine** — SBIR/grant solicitation webinars
+- **SRI (Stanford Research Institute)** — Interview/media inquiry
+- **NOAA Federal** (Amy L. McLiverty) — Contract extension discussions
+- **SOFWERX** — Special Operations Forces innovation program
+- **FAA** — Safety/compliance notifications
+- **Lockheed Martin** — Ongoing technical partnership
+- **Invest Ottawa / NextechSol** — Arctic UAS location coordination
+- **USSOCOM** — Defense partnership responses
+
+### Projects/Codenames
+- **NOAA/NASA 777** — Active proposal work (flagged IMPORTANT in Asana)
+- **Arctic UAS** — Location change coordination with Canadian partners
+- **RFI S0** — SOCOM response (classified/sensitive, marked "U" for Unclassified)
 
 ## Communication Patterns
 
 ### Time Distribution
-- Concentrated activity mid-late afternoon US time (12:28–18:03 EDT/MDT)
-- Early morning activity visible (06:23, 06:53 UTC)
+- **Peak activity:** 10:00–16:00 MDT/EDT (early-mid afternoon US time)
+- **Early morning:** 08:40–09:57 activity visible
+- **Evening:** 19:00–21:02 activity (end-of-day newsletters, meeting notes)
 
 ### Email Categories
-- **Important/Unread:** Grant webinars, DoD RFI responses, technical LM questions
-- **Newsletters/Promotions:** UASweekly, Ainstein marketing (filtered as lower priority)
-- **Automated/Updates:** AFWERX alerts, website contact forms, system notifications
+- **IMPORTANT flags:** Safety statements, grant announcements, DoD RFIs, NOAA extensions, interview requests
+- **UNREAD marked:** SOCOM RFI response, LM technical questions, SOFWERX SBIR pre-release (high-priority items awaiting attention)
+- **Newsletters/Automated:** UASweekly, Gemini notes, Asana task mentions
 
-### Mailing Lists
-- AFWERX (DoD/Air Force innovation program alerts)
-- UASweekly (industry newsletter)
-- Grant Engine (SBIR solicitation updates)
+### Mailing Lists & Distributions
+- SOFWERX (Special Operations Forces tech innovation)
+- FAA manufacturer safety forums
+- UASweekly newsletter
+- Google Meet/Asana notifications
+- Invest Ottawa (Canadian economic development partner)
 
 ## Key Relationships
 
 ### Closest Internal Collaborators
-- **Jack Elston** (elstonj@blackswifttech.com) — NASA grant forwarding/discussion
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — DoD/SOCOM RFI responses, LM technical collaboration
+- **Jack Elston** — Safety compliance, interview/PR routing, primary escalation point
+- **Daniel Prendergast** — DoD/SOCOM technical responses, NOAA/NASA proposals, LM partnership
+- **Maciej Stachura** (stachura@blackswifttech.com) — Multi-recipient forwards (new collaborator visible)
 
 ### Key External Relationships
-1. **Peter Kuo / Ubiqconn** — Active partnership discussion (drone GCS)
-2. **Alasdair Brackenridge / Lockheed Martin** — Ongoing technical questions/collaboration
-3. **Grant Engine / Sam Tetlow** — SBIR/government funding channels
-4. **AFWERX** — DoD opportunity monitoring
+1. **Ryan Nesselrodt / SRI** — Active media/interview engagement
+2. **USSOCOM (Zachary O. Kachel)** — Defense RFI responses
+3. **Lockheed Martin (Dhruti Shah)** — Ongoing technical questions
+4. **NOAA Federal (Amy L. McLiverty)** — Government contract management
+5. **Invest Ottawa / Maia Varanda** — Arctic UAS partnership coordination
+6. **SOFWERX** — SBIR funding pipeline
 
 ## Notable Observations
 
-- **Grant-focused activity:** Heavy emphasis on NASA and SBIR funding solicitations suggests Beck may lead or support BST's government funding strategy
-- **DoD/Military alignment:** SOCOM RFI responses and AFWERX alerts indicate active defense/military sector engagement
-- **Technology partnerships:** Simultaneous pursuit of drone GCS (Ubiqconn), radar solutions (Ainstein), and battery manufacturing (Perkons) suggests multi-component platform development
-- **Low email volume but high-priority contacts:** Despite only 14 emails, recipients include senior defense contacts (SOCOM), major OEMs (Lockheed Martin), and grant specialists
-- **Inbox filtering pattern:** Important flags on grant/DoD items; promotions/newsletters filtered lower, suggesting Beck prioritizes funding and technical partnership emails
+- **Increased communication velocity:** 01 Jul shows 13 emails vs. ~3-4 per day earlier, suggesting deadline-driven activity (likely weekly updates/pre-release notifications)
+- **Multi-channel coordination:** Beck routes and escalates items to Jack Elston and team, suggesting coordination/approval role rather than sole decision-maker
+- **FAA compliance focus:** Multiple "Manufacturer's Safety Statement" threads indicate active regulatory engagement or product certification cycle
+- **Arctic expansion visible:** New geographic focus (Invest Ottawa, Canadian partners) alongside existing US-centric programs (NOAA, SOCOM, LM)
+- **Interview/PR activity:** SRI outreach suggests media/analyst coverage in progress; Beck coordinates with sales team
+- **NOAA contract active:** Extension request (1305M225P0034) indicates established government customer relationship
+- **High-priority filtering consistent:** IMPORTANT flags concentrated on compliance, grants, DoD, and contract items; newsletters/updates marked lower priority
+- **Personal communication:** Personal email (Becky Cotter) flagged IMPORTANT, indicating work-life integration or family emergency awareness

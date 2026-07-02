@@ -30,13 +30,13 @@
     - S0-AD launcher design (Alex Lomis) — **3 days overdue** (due Jun 5)
     - Camp Pendleton permissions/frequencies (Beck Cotter) — **7 days overdue** (due Jun 1)
   - **Asana currently shows 1 open task:** Local test flights with hand-launched S0-MAD (due Jul 1, 2026)
-  - **Team feedback (Maciej Stachura, Jun 8, 2026):** "For mag integration it's Alex and Sam on the critical engineering tasks" — indicates active work underway despite stale Asana tracking
+  - **Team feedback (Maciej Stachura, Jun 8, 2026):** "For mag integration it's Alex and Sam on the critical engineering tasks" — indicates active work underway despite stale Asana tracking. Note: Asana appears to significantly underrepresent actual project scope and real-time status.
 
 - **Priority:** **HIGH** (Navy SBIR government contract, compressed timeline, critical path delays, Camp Pendleton demo deadline Sep 14–25, 2026)
 
 - **Team Members:**
   - **Alex Lomis** (PM/Owner, technical lead) — **CRITICAL PATH**: 8+ build, test, and flight tasks
-  - **Sam** (Critical engineering on mag integration)
+  - **Sam** (Critical engineering on mag integration) — per Maciej Stachura, Jun 8
   - **Jack Elston** (Technical lead, onboard logging & reporting; owns CLIN 0006/0007 reports) — Overdue design deliverable
   - **Maciej Stachura** (Python tools, sensor configuration, analysis) — Overdue analysis tools
   - **Beck Cotter** (Camp Pendleton coordination & permissions) — Overdue permissions task
@@ -49,7 +49,7 @@
 | CLIN | Deliverable | Owner | Amount | Due Date | Status |
 |------|---|---|---|---|---|
 | 0005 | Kick-Off & FWA Certification Report + Invoice | Meredith O'hara Needham | $50,000 | Apr 14, 2026 | ✓ **COMPLETED** |
-| 0006 | Progress Report + Invoice | Jack Elston / Meredith O'hara Needham | $35,000 | **Jun 29, 2026** | **OPEN — IN ASANA** |
+| 0006 | Progress Report + Invoice | Jack Elston / Meredith O'hara Needham | $35,000 | **Jun 29, 2026** | **OPEN — DUE IN 21 DAYS** |
 | 0007 | Final Report + Invoice | Jack Elston / Meredith O'hara Needham | $14,459 | Sep 28, 2026 | **OPEN** |
 
 **Technical Milestones (Compressed Schedule):**
@@ -77,9 +77,4 @@
   - [OPEN] Local test flights with hand-launched S0-MAD with both sensors | Alex Lomis | Due Jul 1, 2026
 
 **Technical Work Status:**
-Asana task count significantly underrepresents project scope. Based on known milestones, ~17 active technical/administrative milestones are tracked outside Asana or in stale states. Critical path items owned by Alex Lomis (build, test, flight) comprise majority of open work.
-
-## Recent Activity
-
-**As of Jun 8, 2026:**
-- **6 technical milestones are overdue
+Asana task count significantly underrepresents project scope. Based on known milestones, ~17 active technical/administrative milestones are tracked outside Asana or in stale states. Critical path items owned by Alex Lomis (

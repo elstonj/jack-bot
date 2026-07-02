@@ -1,14 +1,14 @@
 {
   "period": {
-    "start": "2026-06-30",
-    "end": "2026-07-01"
+    "start": "2026-07-01",
+    "end": "2026-07-02"
   },
-  "scanned_at": "2026-07-01",
+  "scanned_at": "2026-07-02",
   "projects": [
     {
       "project_code": "001-1",
       "revenue": 0.0,
-      "expenses": 200.61,
+      "expenses": 106.29,
       "invoice_count": 0,
       "bill_count": 0,
       "purchase_count": 1,
@@ -19,38 +19,38 @@
       ]
     },
     {
-      "project_code": "018-1",
+      "project_code": "032-3",
       "revenue": 0.0,
-      "expenses": 499.0,
+      "expenses": 26.0,
       "invoice_count": 0,
       "bill_count": 0,
       "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "[018-1] Murphy's Pond CH4"
+        "[032-3] Sasquatch S0s x 4"
       ]
     },
     {
-      "project_code": "043-3",
-      "revenue": 0.0,
-      "expenses": 115.61,
-      "invoice_count": 0,
+      "project_code": "044-1",
+      "revenue": 6000.0,
+      "expenses": 0.0,
+      "invoice_count": 1,
       "bill_count": 0,
-      "purchase_count": 1,
+      "purchase_count": 0,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "[043-3] By Light Halo"
+        "[044-1] EMASS Chip Integration"
       ]
     },
     {
       "project_code": "300-3",
       "revenue": 144000.0,
-      "expenses": 0.0,
+      "expenses": 130.0,
       "invoice_count": 2,
       "bill_count": 0,
-      "purchase_count": 0,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -73,14 +73,15 @@
     {
       "project_code": "_unclassified",
       "revenue": 0.0,
-      "expenses": 2176.24,
+      "expenses": 8723.95,
       "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 3,
+      "bill_count": 1,
+      "purchase_count": 7,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
         "",
+        "[001] Black Swift Technologies - IRAD:[001-19] IRAD Aeropods",
         "[012-3] Embry Riddle Model S0"
       ]
     }

@@ -2,23 +2,46 @@
   "project_code": "_unclassified",
   "qbo_class_names": [
     "",
+    "[001] Black Swift Technologies - IRAD:[001-19] IRAD Aeropods",
     "[012-3] Embry Riddle Model S0"
   ],
   "period": {
-    "start": "2026-06-30",
-    "end": "2026-07-01"
+    "start": "2026-07-01",
+    "end": "2026-07-02"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 2176.24,
+    "expenses": 8723.95,
     "by_category": {
-      "SALES & MARKETING:SM-Shipping": 2049.65,
-      "FACILITIES:FA-Shop Supplies": 106.59,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 20.0
+      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 4851.6,
+      "Inventory Asset": 3794.71,
+      "DIRECT COSTS:DC-Direct Material Purchases": 31.2,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 20.0,
+      "FACILITIES:FA-Shop Supplies": 15.98,
+      "FACILITIES:FA-Office Supplies": 10.46
     }
   },
   "invoices": [],
-  "bills": [],
+  "bills": [
+    {
+      "type": "Bill",
+      "date": "2026-07-01",
+      "doc_number": "",
+      "total": 4851.6,
+      "attributed": 4851.6,
+      "vendor": "Ted Miles",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 4851.6,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": "Aeropods work (June 2026) 78 hours @ $62.20"
+        }
+      ]
+    }
+  ],
   "purchases": [
     {
       "type": "Purchase",
@@ -40,37 +63,134 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-06-30",
-      "doc_number": "100117560",
-      "total": 106.59,
-      "attributed": 106.59,
+      "date": "2026-07-01",
+      "doc_number": "Z100709106",
+      "total": 854.67,
+      "attributed": 854.67,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "DKC*DIGI KEY CORP - 4617",
+      "memo": "Virtual Card\n\nFor future S3 sales",
       "lines": [
         {
-          "amount": 106.59,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "FTDI USB boards"
+          "amount": 854.67,
+          "account": "Inventory Asset",
+          "description": "Tubes x 3 (for future S3 sales)"
         }
       ]
     },
     {
       "type": "Purchase",
-      "date": "2026-06-30",
-      "doc_number": "69182",
-      "total": 2049.65,
-      "attributed": 2049.65,
+      "date": "2026-07-01",
+      "doc_number": "1130358693",
+      "total": 937.22,
+      "attributed": 937.22,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Inventory Asset is for future sales of S3",
+      "lines": [
+        {
+          "amount": 524.8,
+          "account": "Inventory Asset",
+          "description": "Oben AC-1441 4-Section Aluminum Tripod x 4 (for S3 sales"
+        },
+        {
+          "amount": 412.42,
+          "account": "Inventory Asset",
+          "description": "Manfrotto 323 RC2 System Quick Release x 10 (for S3 sales)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-01",
+      "doc_number": "55048",
+      "total": 575.2,
+      "attributed": 575.2,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Digital card",
+      "lines": [
+        {
+          "amount": 287.6,
+          "account": "Inventory Asset",
+          "description": "20.5x14EPNC x 5 (for future S3 sales)"
+        },
+        {
+          "amount": 287.6,
+          "account": "Inventory Asset",
+          "description": "20.5x14EPNCP x 5 (for future S3 sales)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-01",
+      "doc_number": "HDR664888",
+      "total": 1419.82,
+      "attributed": 1419.82,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 2049.65,
-          "account": "SALES & MARKETING:SM-Shipping",
-          "description": "C-Astral camera shipment to BST for Canada Demo"
+          "amount": 1419.82,
+          "account": "Inventory Asset",
+          "description": "For future S3 sales: \nISDT X16 Professional Dual Channel AC/DC Smart Charger x 2"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-01",
+      "doc_number": "",
+      "total": 26.44,
+      "attributed": 26.44,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*4Z8IL5283 - 4617",
+      "lines": [
+        {
+          "amount": 15.98,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "TUOLNK SMA Female to TNC Male Coaxial Adapter x 2"
+        },
+        {
+          "amount": 10.46,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "Windex and refill"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-01",
+      "doc_number": "03236",
+      "total": 195.0,
+      "attributed": 39.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep. \n\nInitial wire transfer through Wells Fargo was returned.",
+      "lines": [
+        {
+          "amount": 130.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep"
+        },
+        {
+          "amount": 26.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep"
+        },
+        {
+          "amount": 39.0,
+          "account": "Inventory Asset",
+          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep"
         }
       ]
     }

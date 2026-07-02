@@ -4,14 +4,14 @@
     "(001-1) IRAD- General"
   ],
   "period": {
-    "start": "2026-06-30",
-    "end": "2026-07-01"
+    "start": "2026-07-01",
+    "end": "2026-07-02"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 200.61,
+    "expenses": 106.29,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 200.61
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 106.29
     }
   },
   "invoices": [],
@@ -19,19 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-06-30",
-      "doc_number": "100117933",
-      "total": 200.61,
-      "attributed": 200.61,
+      "date": "2026-07-01",
+      "doc_number": "100145658",
+      "total": 106.29,
+      "attributed": 106.29,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "",
+      "memo": "DKC*DIGI KEY CORP - 4617",
       "lines": [
         {
-          "amount": 200.61,
+          "amount": 106.29,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Protektive Pak"
+          "description": "HEATSINK PWR DUAL BLACK T"
         }
       ]
     }

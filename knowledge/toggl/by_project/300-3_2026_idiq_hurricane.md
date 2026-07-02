@@ -4,24 +4,25 @@
 - **Client:** NOAA [300]
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 399.8 hours (382.7h + 17.1h)
+- **Total hours tracked:** 419.5 hours (399.8h + 19.7h)
 
 ## Team Allocation
-- **Nate:** 159.6 hours (39.9%)
-- **Stachura:** 96.0 hours (24.0%)
-- **Jack Elston:** 79.9 hours (20.0%)
-- **Spencer Hoehl:** 42.2 hours (10.6%)
-- **Sam Hild:** 16.9 hours (4.2%)
-- **Josh Fromm:** 5.0 hours (1.3%)
+- **Nate:** 166.1 hours (39.6%)
+- **Stachura:** 103.5 hours (24.7%)
+- **Jack Elston:** 88.7 hours (21.2%)
+- **Spencer Hoehl:** 42.2 hours (10.1%)
+- **Sam Hild:** 16.9 hours (4.0%)
+- **Josh Fromm:** 5.0 hours (1.2%)
 - **Primary contributor:** Nate
 
 ## Activity Timeline
 
 ### Most Recent Work (Current Batch)
-- **Jack Elston** - Black Swift S0 - MTS Discussion (0.5h)
-- **Jack Elston** - Firmware Release and QC Tool (5.5h)
-- **Nate** - No description provided (8.2h)
-- **Spencer Hoehl** - No description provided (2.9h)
+- **Jack Elston** - Firmware Release and QC Tool (1.5h)
+- **Jack Elston** - Firmware Release and QC Tool (2.0h)
+- **Jack Elston** - Firmware Release and QC Tool (2.2h)
+- **Nate** - No description provided (6.5h)
+- **Stachura** - No description provided (7.5h)
 
 ### Prior Work
 See previous knowledge file. Documented work includes:
@@ -33,25 +34,29 @@ See previous knowledge file. Documented work includes:
 ## Insights
 
 ### Work Types (Documented)
-- **Jack Elston:** Firmware Release and QC Tool (9.2h cumulative); Black Swift S0 stakeholder coordination (0.5h)
+- **Jack Elston:** Firmware Release and QC Tool (14.9h cumulative); continuing consistent documentation on this work stream
 - **Sam Hild:** Deployment Tube QC procedures (16.9h, 100% documented)
 - **Nate, Stachura, Spencer Hoehl, Josh Fromm:** Undescribed work
 
 ### Documentation Status
-- **Current batch:** 6.0h documented / 17.1h submitted = **35.1% compliance** (improved from 27.4%)
-- **Overall project:** 86.7h documented / 399.8h total = **21.69% documented** (slight improvement from 21.08%)
-- **Undescribed backlog:** 313.1h (78.31% of project)
-  - **Nate:** 151.4h undescribed (95.1% of Nate's work)
+- **Current batch:** 5.7h documented / 19.7h submitted = **28.9% compliance** (decline from 35.1%)
+- **Overall project:** 92.4h documented / 419.5h total = **22.02% documented** (slight improvement from 21.69%)
+- **Undescribed backlog:** 327.1h (77.98% of project)
+  - **Nate:** 157.9h undescribed (95.1% of Nate's work)
+  - **Stachura:** 103.5h undescribed (100% of Stachura's work)
   - **Spencer Hoehl:** 42.2h undescribed (100% of Spencer's work)
-  - **Stachura:** 96.0h undescribed (100% of Stachura's work)
   - **Josh Fromm:** 5.0h undescribed (100% of Josh's work)
 
 ### Positive Notes
-- **Jack Elston** maintaining consistent documentation on Firmware Release and QC Tool work
+- **Jack Elston** maintaining strong documentation discipline on Firmware Release and QC Tool (5.7h documented this batch, 100% of his entries)
 - **Sam Hild** continues 100% documentation compliance
-- Current batch shows improved documentation rate (35.1% vs. 27.4% previous)
+
+### Concerns
+- **Documentation dip:** Current batch shows 28.9% compliance, down from 35.1% in previous batch
+- **Stachura & Nate:** New entries (14.0h combined) completely undescribed; no improvement in documentation patterns
+- Undescribed backlog continues to grow (now 327.1h, +14h net from undocumented entries)
 
 ---
 
 ## Summary
-This batch (+17.1h) shows modest improvement in documentation compliance from core team members, with Jack Elston continuing detailed firmware work logging. However, systemic undocumentation persists from Nate (95.1% undescribed), Stachura (100%), and Spencer Hoehl (100%). Project requires continued focus on entry descriptions from primary contributors to reduce the 313.1-hour undocumented backlog on this active NOAA contract.
+This batch (+19.7h) shows a documentation compliance decline to 28.9%, with Stachura contributing 7.5h entirely undocumented. Jack Elston continues exemplary documentation on Firmware Release and QC Tool work (5.7h documented), but systemic undocumentation persists from primary contributors. Project requires urgent renewed focus on entry descriptions from Nate (95.1% undescribed) and Stachura (100% undescribed) to address the growing 327.1-hour undocumented backlog on this active NOAA contract.

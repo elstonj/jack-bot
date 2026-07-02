@@ -43,7 +43,7 @@
 - **Tasks by Assignee**:
   - **Maciej Stachura**: SBIR proposal management, technical opportunities, proposal submissions (6+ proposals over 2022–2024); Navy project oversight (completed as of Apr 17, 2026)
   - **Jack Elston**: Strategic leadership, financial planning, business development, website updates, investor relations; coordinating team task allocation post-Kareem return (Jun 15-16, 2026)
-  - **Meredith O'Hara Needham**: Administrative support, document collection and organization, LOI/MOU/support letter curation
+  - **Meredith O'Hara Needham**: Administrative support, document collection and organization, LOI/MOU/support letter curation; coordinating wildfire video project division of labor (Jun 15-16, 2026)
   - **Kareem** (returned Jun 15, 2026): Being assigned to S0 component fabrication, ground station completion, or wildfire video project per Jack's delegation (Jun 15-16, 2026)
   - **Unassigned**: Lease termination planning
 - **Notable Patterns**: 
@@ -68,10 +68,10 @@
 
 ## Recent Activity
 
-### June 2026 — Current Activity
+### June 2026 — Current Activity (AUTHORITATIVE)
 **[FEEDBACK, Jack, Jun 15-16, 2026]**: Kareem returning June 15 @ 12:00 PM after absence. Jack coordinating immediate task allocation:
 - **Primary assignment options**: S0 component fabrication OR ground station completion
-- **Priority alternative**: **Wildfire video project needs completion** — Jack asking team to finalize division of labor and coordinate (cc: Meredith O'Hara Needham)
+- **Priority alternative**: **Wildfire video project needs completion** — Jack requesting Meredith and team member U083AAM8E9Y coordinate division of labor to finalize and complete
 - Additional tasks queued for Kareem pending team feedback on priorities
 
 ### Project Status Updates (April 2026 — TEAM CORRECTIONS AUTHORITATIVE)
@@ -114,7 +114,4 @@
 ### Core Competencies & Technical Focus
 - Methane emission detection, measurement, and localization
 - Wildfire applications and aerial support
-- UAS (Uncrewed Aircraft Systems) observations
-- S0 component fabrication and ground station infrastructure
-
-### Active Work
+- UAS

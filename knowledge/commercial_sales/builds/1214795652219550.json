@@ -44,7 +44,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "S3 Arctic demo for Canadian Defense Forces via NexTech Solutions integrator. 120km range / 1h 35min TOF with EO/IR gimbal required. Demo scheduled for Ottawa June 25, 2026. REX110 gimbal integration sprint in final push with Atmolab troubleshooting camera auto-discovery issues; DB9 rewiring and mount integration tasks assigned. Battery shipped to Canada. Insurance requirements ($5M GL/Aviation) coordinated. BST team traveling mid-June for demo; follow-on Arctic demo planned post-Ottawa. Team flights and accommodations booked for Ottawa demo.",
+  "notes": "S3 Arctic demo for Canadian Defense Forces via NexTech Solutions integrator. 120km range / 1h 35min TOF with EO/IR gimbal required. Demo scheduled for Ottawa June 25, 2026. REX110 gimbal integration in final push with Atmolab troubleshooting camera auto-discovery; DB9 rewiring and mount integration tasks underway. Battery shipped to Canada. Insurance requirements ($5M GL/Aviation) coordinated. BST team traveling mid-June for demo; follow-on Arctic demo planned post-Ottawa.",
   "missing_fields": [
     "ship_to",
     "invoice_number",

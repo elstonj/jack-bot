@@ -3,56 +3,40 @@
 ## Overview
 - **Client/customer:** Internal BST purchasing system (serves all active projects)
 - **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across multiple projects
-- **Timeline:** Ongoing operational project; critical deadlines **JUL 1–2, 2026** (10 open tasks due within 48 hours)
-- **Status:** 🔴 **CRITICAL OPERATIONAL STRESS.** Task list stabilized at **10 open tasks** (vs. prior cycle's rebound to 17). **PRIOR UNEXPLAINED REAPPEARANCE CYCLE RESOLVED** — the 11 "Order Placed in Inventory" tasks with Aug 28 due date are NO LONGER VISIBLE in current data pull. Current workload is **form-driven and assignment-focused:** 6 tasks assigned to Meredith O'hara Needham, 4 to Nate Straus, 0 unassigned. **However, immediate execution risk is ACUTE: 8 of 10 tasks due JUL 1–2 with status "Order Placed" or "Order Received"—no evidence of invoicing, receipt verification, or project reconciliation.**
+- **Timeline:** Ongoing operational project; **CRITICAL SURGE: 17 open tasks as of latest pull (up 70% from prior 10-task baseline).** Immediate deadlines **JUL 1–3, 2026** (16 of 17 tasks due within 72 hours).
+- **Status:** 🔴 **CRITICAL OPERATIONAL STRESS — ESCALATING.** Task volume rebounded sharply from 10 to **17 open tasks**. All tasks assigned (0 dark), but **execution risk remains ACUTE:** 11 tasks show "Order Placed" or "Order Shipped" status with no downstream visibility into receipt verification, invoice matching, or project reconciliation. **Meredith O'hara Needham now owns 13/17 tasks (76%), creating severe bottleneck.** Form discipline remains strong (all custom fields populated), but workload concentration is unsustainable.
 
 - **Team members involved:**
-  - **Meredith O'hara Needham** (project owner; 6/10 open tasks = 60%)
-  - **Nate Straus** (4/10 open tasks = 40%)
-  - **Requesters:** Joshua Fromm (5 tasks), Ethan (2 tasks), Nate (1 task), Sam (1 task), Alex (1 task)
+  - **Meredith O'hara Needham** (project owner; 13/17 open tasks = 76% — **INCREASE from prior 60%**)
+  - **Nate Straus** (4/17 open tasks = 24% — **DECREASE from prior 40%**)
+  - **Requesters:** Joshua Fromm (11 tasks — 65% of total), Ethan (2), Nate (2), Alex (1), Sam (1)
 
 - **Risk signals:**
-  - 🔴 **IMMINENT DUE DATES — NO SLACK:** 8 of 10 tasks due JUL 1–2, 2026 (within 48 hours of data pull). All assigned, but **no downstream visibility into receipt confirmation, invoice matching, or project cost reconciliation.** Tasks show "Order Placed" or "Order Shipped"/"Order Received" status but do **not** close upon completion—suggesting either manual archival required or workflow gap.
-  - 🔴 **PRIOR CYCLE ANOMALY UNRESOLVED:** Previous knowledge file reported catastrophic task collapse (67% reduction) + unexplained reappearance of 11 tasks with reclassified due dates and status. **Current pull does NOT include those 11 tasks**, suggesting either deletion, archival, or reclassification to hidden view. **No audit trail, no correction note from team.** Risk of silent data loss or external workflow bypass.
-  - 🟡 **TAX EXEMPTION & APPROVAL GAPS:** Multiple tasks show "Tax Exempt?: YES/NO" and "Requires Approval?: No" — no evidence of threshold-based approval enforcement. Jawstec orders (Tax Exempt: YES) are marked "Requires Approval?: No", but no PO trail visible in task notes.
-  - 🟡 **NO POST-ORDER WORKFLOW:** All tasks remain open after "Order Placed"/"Order Received"—no subtasks for invoice verification, three-way match, or project billing confirmation. Single point of failure if orders require follow-up.
+  - 🔴 **IMMINENT DUE DATES & SEVERE WORKLOAD CONCENTRATION:** 16 of 17 tasks due JUL 1–3, 2026. **Meredith O'hara Needham carries 13/17 (76%) — 3× prior concentration.** No sign of delegation to Nate despite his availability. All assigned but **no downstream workflow for receipt confirmation, invoice matching, or project cost reconciliation.** Risk of silent failures or untracked spending.
+  - 🔴 **UNEXPLAINED VOLUME SPIKE:** Prior cycle stabilized at 10 tasks; current pull shows 17 (+70%). No team correction note explaining the rebound. Three new requesters (SendCutSend, rockwest, tripods, APC props, amazon shop supplies, Digikey clikmate) appear with JUL 1–3 due dates — suggests batching or bulk submission. **No audit trail of what changed between pulls.**
+  - 🔴 **TASK CLOSURE WORKFLOW MISSING:** All 17 tasks remain open after "Order Placed," "Order Shipped," or "Order Received" — no subtasks for invoice verification, three-way match, or project billing. **Single point of failure if orders require follow-up or if receipt/invoice matching is delayed.**
+  - 🟡 **TAX EXEMPTION & APPROVAL GAPS:** Multiple tasks show "Tax Exempt?: YES/NO" and "Requires Approval?: No" — no evidence of threshold-based approval enforcement. 10 of 17 are tax-exempt (Jawstec, Amazon IDIQ, rockwest, tripods, APC props, compositeenvisions, digikey IDIQ), yet no PO trail or exemption certificate visible in task notes.
+  - 🟡 **MEREDITH OVERLOAD RISK:** If even one task requires follow-up (shipment delay, invoice mismatch, tax docs), Meredith's capacity evaporates. Nate is severely underutilized (4 of 17 tasks vs. 13 for Meredith).
 
 ## Key Deliverables & Milestones
 
-### **DUE JUL 1–2, 2026 — 10 TASKS (IMMEDIATE ACTION WINDOW, 48–72 HOURS)**
+### **DUE JUL 1–3, 2026 — 17 TASKS (IMMEDIATE ACTION WINDOW, 48–72 HOURS)**
 
 | Task | Due | Vendor | Assigned | Project | Requester | Status | Notes |
 |------|-----|--------|----------|---------|-----------|--------|-------|
 | jawstec for s0 idiq (#69631) | Jul 1, 2026 | Jawstec | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | Order Placed | Tax Exempt; Requested Jun 29 |
 | jawstec for s3 sales (#69630) | Jul 1, 2026 | Jawstec | Meredith O'hara Needham | General Sales | Joshua Fromm | Order Placed | Tax Exempt; Requested Jun 29 |
 | amazon for s0 hurricane idiq | Jul 1, 2026 | Amazon | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | Order Placed | Tax Exempt; Requested Jun 29 |
-| digikey for idiq (#009799) | Jul 1, 2026 | Digikey | Nate Straus | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | Order Received | Tax Exempt; Requested Jun 24 |
 | HiTec- ByLight (#5526) | Jul 1, 2026 | HiTec/ByLight | Nate Straus | [043-3] Mustang Pt. 2 | Ethan | Order Received | Requested Jun 23 |
 | GetFPV (#1001480217) | Jul 1, 2026 | GetFPV | Nate Straus | Shop Supplies | Alex | Order Received | Requested Jun 22 |
-| Digikey- Bylight Order (#100124240) | Jul 2, 2026 | Digikey/ByLight | Meredith O'hara Needham | [043-3] Mustang Pt. 2 | Ethan | Order Placed | Requested Jun 30 |
+| digikey for idiq (#009799) | Jul 1, 2026 | Digikey | Nate Straus | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | Order Received | Tax Exempt; Requested Jun 24 |
+| SendCutSend | Jul 1, 2026 | SendCutSend | Meredith O'hara Needham | General Sales | Alex | Order Placed | Tax Exempt; Requested Jul 1 |
+| Digikey- Bylight Order (#100124240) | Jul 2, 2026 | Digikey/ByLight | Meredith O'hara Needham | [043-3] Mustang Pt. 2 | Ethan | Order Shipped | Requested Jun 30 |
 | Digikey / Protektive Pak (#100117933) | Jul 2, 2026 | Digikey/Protektive Pak | Meredith O'hara Needham | [001-1] IRAD General | Nate | Order Shipped | Requested Jun 30 |
 | Extra FTDI USB boards (#100117560) | Jul 2, 2026 | [Unknown] | Meredith O'hara Needham | Shop Supplies | Sam | Order Shipped | Requested Jun 30 |
-| compositeenvisions for s3 sales | Jul 2, 2026 | Composite Envisions | Nate Straus | General Sales | Joshua Fromm | Order Received | Requested Jun 16 (oldest request in current batch) |
-
----
-
-## Task Summary
-
-- **Total tasks:** 10 open, 0 completed
-- **Tasks by assignee:**
-  - **Meredith O'hara Needham:** 6/10 (60%) — 3 "Order Placed", 3 "Order Shipped"
-  - **Nate Straus:** 4/10 (40%) — 3 "Order Received", 1 "Order Received"
-  - **Unassigned:** 0/10 (0%) — **IMPROVEMENT vs. prior cycle (65% dark)**
-
-- **Status distribution:**
-  - **Order Placed:** 4 tasks (Meredith: 3, Nate: 0, Meredith: 1 via Digikey-Bylight)
-  - **Order Received:** 4 tasks (Nate: 4)
-  - **Order Shipped:** 2 tasks (Meredith: 2)
-
-- **Notable patterns:**
-  - **Heavy concentration on two requesters:** Joshua Fromm (5 tasks), Ethan (2 tasks) account for 7/10 tasks.
-  - **Project concentration:** [300-3] 2026 IDIQ (Hurricane) appears in 3 tasks (digikey, jawstec s0, amazon); General Sales in 2; [043-3] Mustang Pt. 2 in 2; [001-1] IRAD in 1; Shop Supplies in 2.
-  - **Vendor concentration:** Digikey (3 tasks), Amazon (1), Jawstec (2), HiTec/ByLight (2), GetFPV, Composite Envisions, Protektive Pak (1 each).
-  - **All form-driven:** Custom fields (Tax Exempt, Requires Approval, Requester name) fully populated—suggests form submission discipline is working. **However, form-based auto-delete mechanism referenced in project notes remains undocumented and unexplained.**
-
----
+| compositeenvisions for s3 sales | Jul 2, 2026 | Composite Envisions | Nate Straus | General Sales | Joshua Fromm | Order Received | Tax Exempt; Requested Jun 16 (oldest request in current batch) |
+| rockwest for s3 sales (#Z100709106) | Jul 3, 2026 | Rockwest | Meredith O'hara Needham | General Sales | Joshua Fromm | Order Placed | Tax Exempt; Requested Jul 1 |
+| tripods for s3 sales (#1130358693) | Jul 3, 2026 | [Tripod vendor] | Meredith O'hara Needham | General Sales | Joshua Fromm | Order Placed | Tax Exempt; Requested Jul 1 |
+| apc props for s3 sales (#55048) | Jul 3, 2026 | APC | Meredith O'hara Needham | General Sales | Joshua Fromm | Order Placed | Tax Exempt; Requested Jul 1 |
+| amazon for shop supplies | Jul 3, 2026 | Amazon | Meredith O'hara Needham | Shop Supplies | Joshua Fromm | Order Placed | Tax Exempt: NO; Requested Jul 1 |
+| Digikey (clikmate etc) (#100145658) | Jul 3, 2026 | Digikey | Meredith O'hara Needham
