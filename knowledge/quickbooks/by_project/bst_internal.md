@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $1,131,515.73
+- **Total Expenses (Bills + Purchases)**: $1,139,967.17 *(+$8,451.44 new)*
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,113,621.37 (expenses exceed revenue significantly)
-- **Date Range**: April 5, 2024 – July 1, 2026 (27+ months)
-- **Transaction Count**: 1,231 *(all confirmed)*
+- **Net Position**: -$1,122,072.81 *(expenses exceed revenue significantly)*
+- **Date Range**: April 5, 2024 – July 2, 2026 (27+ months)
+- **Transaction Count**: 1,239 *(all confirmed)*
 
 ---
 
@@ -19,7 +19,7 @@
 | #1696 | 2025-08-26 | Phase1 Aviation | $6,105.00 | $6,105.00 |
 
 **Total Invoiced**: $17,894.36  
-**Total Collected**: $0.00 (all invoices remain outstanding)  
+**Total Collected**: $0.00 *(all invoices remain outstanding)*  
 **Outstanding Receivables**: $17,894.36
 
 **Notable**: Invoice #1696 includes accidental double-payment to Phase1 Aviation for 20 wings ($6,105.00). This amount should be recovered or credited.
@@ -28,94 +28,123 @@
 
 ## Expenses by Cost Category
 
-### Direct Labor & Subcontractors: $389,501.30
-**Total: $389,501.30** | **24 vendors** | **Largest: Matthew Crabtree $108,181.68**
+### Direct Labor & Subcontractors: $394,352.90
+**Total: $394,352.90** | **25 vendors** | **Largest: Matthew Crabtree $108,181.68; Ted Miles $4,851.60 (new)*
 
-No new transactions in this reporting period.
-
----
-
-### Materials & Direct Purchases: $522,327.45
-**Total: $522,327.45** | **76 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95**
-
-No new transactions in this reporting period.
-
----
-
-### IRAD Indirect R&D (Subcontractors & Internal): $89,021.42
-**Total: $89,021.42** | **81 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; Matthew Crabtree R&D Assembly $4,954.00; MicroFirm Engineering $6,257.60**
-
-**New Transactions (June 30 – July 1, 2026):**
+**New Transactions (July 1, 2026):**
 
 | Bill/Purchase # | Date | Amount | Account | Description | Status |
 |-----------|------|--------|---------|-------------|--------|
-| Purchase #100117933 | 2026-06-30 | $200.61 | IRAD-Internal R&D | Protektive Pak (protective packaging/materials for R&D prototypes) | ✓ Confirmed |
+| Bill — Ted Miles | 2026-07-01 | $4,851.60 | IRAD-Indirect Subcontractor Exp | Aeropods work (June 2026) 78 hours @ $62.20 | ✓ Confirmed |
 
-**June 30 IRAD R&D Total**: $200.61 *(one transaction)*
+**July 1 Subcontractor Total**: $4,851.60 *(one transaction)*
 
-**Strategic Context**: Protektive Pak purchase ($200.61) supports prototype packaging and internal R&D materials; follows pattern of protective materials procurement for product development and fulfillment.
+**Strategic Context**: Ted Miles invoiced for Aeropods development work (78 hours @ $62.20/hr); represents continuation of indirect R&D subcontracting for advanced projects beyond core S3 manufacturing pipeline.
 
-**Cumulative IRAD New Activity (June 25–July 1)**: $2,373.91 (includes prior period Summit Assembly $2,122.00, adhesive $35.98, postage $15.32, plus current Protektive Pak $200.61)
+---
+
+### Materials & Direct Purchases: $525,262.97
+**Total: $525,262.97** | **77 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95*
+
+**New Transactions (July 1, 2026):**
+
+| Bill/Purchase # | Date | Amount | Account | Description | Status |
+|-----------|------|--------|---------|-------------|--------|
+| Purchase #03236 (partial) | 2026-07-01 | $156.00 | DC-Direct Material Purchases | Wire transfer—direct material purchases (2 line items: $130.00 + $26.00) | ✓ Confirmed |
+
+**July 1 Direct Materials Total**: $156.00 *(one bill, 2 line items)*
+
+**Notable Flag**: Purchase #03236 flagged in memo as "No Asana request - Alex made purchase via email with sales rep. Initial wire transfer through Wells Fargo was returned." Indicates off-process procurement with potential internal control gap; recommend audit of vendor and amount verification.
+
+---
+
+### IRAD Indirect R&D (Subcontractors & Internal): $93,379.23
+**Total: $93,379.23** | **83 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; MicroFirm Engineering $6,257.60; Ted Miles $4,851.60 (new)*
+
+**New Transactions (July 1, 2026):**
+
+| Bill/Purchase # | Date | Amount | Account | Description | Status |
+|-----------|------|--------|---------|-------------|--------|
+| Purchase #100145658 | 2026-07-01 | $106.29 | IRAD-Internal Research and Development | Digi-Key HEATSINK PWR DUAL BLACK T (project 4617) | ✓ Confirmed |
+
+**July 1 IRAD R&D Total**: $106.29 *(one transaction)*
+
+**Strategic Context**: Heatsink component procurement (Digi-Key, project 4617) continues electronics/thermal management component staging for S3 product line; complements June 30 FTDI USB boards ($106.59) and June 29 Summit Assembly PCB work ($2,122.00).
+
+**Cumulative IRAD Activity (June 25–July 1)**: $2,480.20 (includes prior period Summit Assembly $2,122.00, adhesive $35.98, postage $15.32, Protektive Pak $200.61, plus current Digi-Key heatsink $106.29)
 
 ---
 
 ### Sales & Marketing (Including Shipping): $7,308.80
-**Total: $7,308.80** | **6 transactions** | **Largest: C-Astral camera shipment $2,049.65 (June 30); Krateo Sky visit supplies $55.66**
+**Total: $7,308.80** | **6 transactions** | **Largest: C-Astral camera shipment $2,049.65 (June 30)*
 
-**New Transactions (June 30, 2026):**
-
-| Purchase # | Date | Amount | Account | Description | Status |
-|-----------|------|--------|---------|-------------|--------|
-| Purchase #69182 | 2026-06-30 | $2,049.65 | SM-Shipping | C-Astral camera shipment to BST for Canada Demo | ✓ Confirmed |
-
-**June 30 Sales & Marketing Total**: $2,049.65 *(one transaction)*
-
-**Strategic Context**: C-Astral camera shipment ($2,049.65) represents significant demo equipment acquisition/logistics for Canada demonstration event; indicates active business development and customer engagement activities.
+No new transactions in this reporting period.
 
 ---
 
-### Facilities & Shop Supplies: $61,565.04
-**Total: $61,565.04** | **48 transactions** | **Rent: $60,516.58 (10 txns); Shop Supplies: $1,048.46 (12 prior) + $173.96 (2 current) = $1,222.42 total**
+### Inventory Asset (S3 Sales & S2 Production Scaling): $19,595.80
+**Total: $19,595.80** | **45 transactions** | **Largest: Battery procurement, S3 accessory packages, and tripod/quick-release systems (new)*
 
-**New Transactions (June 30, 2026):**
+**New Transactions (July 1, 2026):**
+
+| Purchase # | Date | Amount | Items | Description | Status |
+|-----------|------|--------|-------|-------------|--------|
+| Z100709106 | 2026-07-01 | $854.67 | Tubes x 3 | Tubes for future S3 sales | ✓ Confirmed |
+| #1130358693 | 2026-07-01 | $937.22 | Tripods + Quick-Release | Oben AC-1441 4-Section Aluminum Tripod x 4 ($524.80); Manfrotto 323 RC2 System Quick Release x 10 ($412.42) | ✓ Confirmed |
+| #55048 | 2026-07-01 | $575.20 | Composite Panels | 20.5x14EPNC x 5 ($287.60); 20.5x14EPNCP x 5 ($287.60) | ✓ Confirmed |
+| #HDR664888 | 2026-07-01 | $1,419.82 | Battery Chargers | ISDT X16 Professional Dual Channel AC/DC Smart Charger x 2 | ✓ Confirmed |
+| #03236 (partial) | 2026-07-01 | $39.00 | Wire Transfer | Miscellaneous inventory/material (third line item from split purchase) | ✓ Confirmed |
+
+**July 1 Inventory Asset Total**: $3,826.11 *(5 purchases, 9 line items)*
+
+**Strategic Context**: Major inventory procurement cycle focused on S3 sales scaling and accessory package completion. Purchases include:
+- **Camera Accessories (Tripods & Quick-Release Systems)**: $937.22 — indicates coordinated camera gimbal/mounting system integration for complete S3 customer package; suggests active product bundling for market launch
+- **Composite Panels**: $575.20 — continuation of structural component staging for S3 airframe/body assembly
+- **Battery Chargers**: $1,419.82 — 2x ISDT professional chargers for dual battery management; supports customer experience and product demonstration capabilities
+- **Tubes (Structural)**: $854.67 — airframe/structural component for S3 units
+
+**Cumulative Inventory Activity (June 25–July 1)**: $11,961.18 (prior period $7,135.06 + current July 1 $3,826.11) — sustained production ramp signaling 225+ unit scaling and accessory bundle completion.
+
+**Notable Pattern**: July 1 inventory purchases directly aligned with prior week S3 component procurement (JAWSTEC $882.61 June 29, C-Astral demo shipment $2,049.65 June 30); indicates integrated supply chain management for production and customer fulfillment pipeline.
+
+---
+
+### Facilities & Shop Supplies: $61,698.59
+**Total: $61,698.59** | **50 transactions** | **Rent: $60,516.58 (10 txns); Shop Supplies: $1,182.01*
+
+**New Transactions (July 1, 2026):**
 
 | Purchase # | Date | Amount | Account | Description | Status |
 |-----------|------|--------|---------|-------------|--------|
-| Purchase #100117560 | 2026-06-30 | $106.59 | FA-Shop Supplies | FTDI USB boards (Digi-Key Corp, project 4617) | ✓ Confirmed |
+| AMAZON MKTPL*4Z8IL5283 | 2026-07-01 | $26.44 | FA-Shop Supplies & FA-Office Supplies | TUOLNK SMA Female to TNC Male Coaxial Adapter x 2 ($15.98); Windex and refill ($10.46) | ✓ Confirmed |
 
-**June 30 Shop Supplies Total**: $106.59 *(one transaction)*
+**July 1 Shop Supplies Total**: $26.44 *(one purchase, 2 line items)*
 
 **Category Breakdown**:
-- **Industrial Components (Digi-Key, June 30)**: $106.59 (FTDI USB boards, project 4617 tagged; electronics components for S3 or related product)
-- **Cumulative Shop Supplies (incl. prior June 25-29)**: $1,222.42
+- **RF/Coaxial Components (Amazon, July 1)**: $15.98 (SMA-TNC adapter x 2, project 4617 tagged; RF interconnect hardware for S3 or antenna/telemetry systems)
+- **General Office Supplies (Amazon, July 1)**: $10.46 (Windex and refill; routine facility maintenance)
+- **Cumulative Shop Supplies (incl. prior June activity)**: $1,208.45
 
-**Notable Pattern**: Digi-Key FTDI USB boards purchase (June 30, project 4617) directly correlates with prior period Summit Assembly PCB work ($2,122.00 June 29) and JAWSTEC S3 component procurement ($882.61 June 29); represents coordinated electronics/USB interface component staging for S3 manufacturing pipeline.
-
----
-
-### Inventory Asset (S3 Sales & S2 Production Scaling): $11,287.35
-**Total: $11,287.35** | **36 transactions** | **Largest: Battery procurement and S3 component packages**
-
-No new transactions in this reporting period (JAWSTEC purchase $882.61 recorded in prior period June 29).
+**Notable Pattern**: July 1 SMA-TNC RF coaxial adapters (Amazon) continue electronics/RF interconnect component staging for S3 product line; coordinates with prior June Digi-Key FTDI USB boards ($106.59 June 30), June 30 heatsink ($106.29 July 1), and June 29 Summit Assembly PCB work ($2,122.00); indicates comprehensive hardware/firmware interface integration across S3 electronics platform.
 
 ---
 
 ### Shipping/Freight (Direct Cost): $204.16
 **Total: $204.16** | **1 transaction**
 
-No new transactions in this reporting period. *(Note: C-Astral camera shipment $2,049.65 categorized under Sales & Marketing per account coding [SALES & MARKETING:SM-Shipping]; separate from direct materials freight)*
+No new transactions in this reporting period.
 
 ---
 
 ### General & Administrative (Legal, Tariffs, Utilities, Accounting): $46,520.64
-**Total: $46,520.64** | **4 transactions** | **Largest: KO Law PC Investment Transaction $44,964.50; Tariff/Import Duties $498.57; Accounting Fees $360.00**
+**Total: $46,520.64** | **4 transactions** | **Largest: KO Law PC Investment Transaction $44,964.50*
 
 No new transactions in this reporting period.
 
 ---
 
 ### Fringe Benefits (Retirement Contributions & Healthcare): $13,531.07
-**Total: $13,531.07** | **3 transactions** | **Largest: Employee Healthcare $6,498.51**
+**Total: $13,531.07** | **3 transactions** | **Largest: Employee Healthcare $6,498.51*
 
 No new transactions in this reporting period.
 
@@ -128,46 +157,10 @@ No new transactions in this reporting period.
 
 ## Monthly Spend by Category
 
-### June 2026 (June 2–30, 2026) — *Updated with June 30 transactions*
+### July 2026 (July 1–2, 2026) — *New Activity*
 
 | Category | Amount | # Txns | Notes |
 |----------|--------|--------|-------|
-| **Shop Supplies & Facilities** | $857.20 | 12 | T-slotted framing hardware ($23.43), general shop materials ($204.86), air duster ($85.48), McMaster-Carr hardware ($48.21); **June 30 new**: FTDI USB boards Digi-Key ($106.59, project 4617) |
-| **Inventory Asset (S3 Production)** | $7,135.96 | 19 | Battery procurement ($1,078.34); component staging for 225+ unit scaling; JAWSTEC S3 component procurement ($882.61) |
-| **Direct Material Purchases** | $1,305.49 | 3 | Navy Magnetometer project (550-1) components and supplies; June 24 acquisitions |
-| **Rent & Facilities (Core)** | $7,206.45 | 3 | July 2026 rent bill ($7,198.87, June 17); QuickBooks subscription + shop supplies |
-| **IRAD Indirect R&D** | $6,324.41 | 17 | USB adapter, S3 shipment, component procurement; wheel weight adhesive ($35.98), S3 shipment postage ($15.32); Summit Assembly PCB work ($2,122.00); **June 30 new**: Protektive Pak ($200.61) |
-| **Sales & Marketing & Demo Shipping** | $2,105.31 | 2 | Krateo Sky visit supplies (June 18, $55.66); **June 30 new**: C-Astral camera shipment Canada Demo ($2,049.65) |
-| **Fringe Benefits** | $6,498.51 | 1 | United Healthcare employee healthcare payment (June 10) |
-| **Shipping/Freight (Direct)** | $0.00 | 0 | — |
-| **Other Categories** | $0.00 | 0 | — |
-| **JUNE 2026 SUBTOTAL** | **$31,333.33** | **57** | Weighted toward inventory/production (23%), demo/customer engagement (7%), rent/facilities (23%), IRAD subcontracting (20%), shop supplies (3%), fringe (21%), Navy project (3%); **updated with June 30 activity** |
-
-**Cumulative June 2026 Burn Rate**: $31,333.33 across 30 days (June 2–30) = **$31,333.33/month actual**
-
-**June 30 Key Activity Summary**:
-- **C-Astral Camera Shipment ($2,049.65)**: Major demo logistics expense for Canada demonstration; customer/partner engagement investment
-- **FTDI USB Boards ($106.59)**: Electronics component completion for S3 manufacturing pipeline; coordinates with prior week Summit Assembly PCB work and JAWSTEC procurement
-- **Protektive Pak ($200.61)**: R&D prototype/product packaging materials supporting fulfillment and shipment cycles
-
----
-
-## Notable Transactions
-
-1. **June 30, 2026 — C-Astral Camera Shipment (Canada Demo)**: $2,049.65
-   - **Purchase #69182**: C-Astral camera shipment to BST for Canada Demo
-   - **Account**: [SALES & MARKETING:SM-Shipping]
-   - **Significance**: Major demo equipment investment; indicates active business development cycle and customer engagement in Canadian market
-   - **Strategic Context**: Timing (end of June) suggests preparation for July demo event; represents strategic investment in sales pipeline and customer acquisition activities
-   - **Cost Category**: Customer-facing demo logistics; sales and marketing expense
-
-2. **June 30, 2026 — FTDI USB Boards (Digi-Key, Project 4617)**: $106.59
-   - **Purchase #100117560**: FTDI USB boards from Digi-Key Corp
-   - **Project Tag**: 4617 (S3 product line)
-   - **Account**: [FACILITIES:FA-Shop Supplies]
-   - **Significance**: Electronics interface component procurement; directly supports S3 manufacturing pipeline
-   - **Coordination Pattern**: Follows Summit Assembly PCB manufacturing ($2,122.00, June 29) and JAWSTEC S3 components ($882.61, June 29); indicates integrated hardware/firmware component staging for S3 production ramp
-   - **Timing**: End-of-June procurement cycle coordinated with SMT PCB assembly and general component acquisition
-
-3. **June 30, 2026 — Protektive Pak (R&D Packaging Materials)**: $200.61
-   - **Purchase #100117933**: Protektive
+| **Inventory Asset (S3 Production & Accessories)** | $3,826.11 | 5 | Tripods & quick-release systems ($937.22); composite panels ($575.20); battery chargers ($1,419.82); tubes ($854.67); misc. inventory ($39.00) — major accessory bundle and structural component procurement cycle |
+| **Direct Labor & Subcontractors** | $4,851.60 | 1 | Ted Miles Aeropods work (78 hrs @ $62.20) |
+| **IRAD Indirect R&D** | $106.29 | 1 | Digi-Key heatsink thermal management

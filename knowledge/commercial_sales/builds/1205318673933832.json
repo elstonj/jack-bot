@@ -1,0 +1,65 @@
+{
+  "asana_gid": "1205318673933832",
+  "asana_task_name": "[1298] ERAU - S0 & S0 VTOL deployment ",
+  "customer": "Embry-Riddle Aeronautical University",
+  "customer_contact": "Kevin Adkins",
+  "customer_email": "adkinsk@erau.edu",
+  "receive_by": "2026-08-31",
+  "ship_to": "Kevin Adkins\nEmbry-Riddle Aeronautical University\nAttn: Central Receiving\n1 Aerospace Boulevard\nDaytona Beach, FL 32114-3900\nUnited States",
+  "items": [
+    {
+      "description": "S0 UAS - VTOL",
+      "quantity": 2
+    }
+  ],
+  "payment_state": "paid",
+  "build_state": "complete",
+  "ship_state": "delivered",
+  "estimate_date": null,
+  "invoice_date": "2025-05-07",
+  "invoice_amount": 21181.81,
+  "invoice_number": "1667",
+  "paid_date": "2025-05-07",
+  "parts": [
+    {
+      "name": "S0 VTOL airframe",
+      "ordered": true,
+      "received": true,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    },
+    {
+      "name": "Samsung Galaxy Tab Active2",
+      "ordered": true,
+      "received": true,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    },
+    {
+      "name": "SwiftStation Ground Station",
+      "ordered": true,
+      "received": true,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    },
+    {
+      "name": "S0 Case",
+      "ordered": true,
+      "received": true,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    }
+  ],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "PAID INVOICE 1667 (05/07/2025, $21,181.81) confirms delivery of 2 S0 VTOL units to ERAU. Legal disclosure (5/5/2026) confirms both units paid in full but delivery delayed; settlement agreement pending. Invoice 1545 (01/10/2023, $15,028.39) appears to be a prior/related order. Asana task marked 'Closed' due to unfunded grant proposal, but QBO invoice overrides\u2014this is an active delivered order with pending legal settlement.",
+  "missing_fields": [],
+  "last_evidence_date": "2026-06-08",
+  "last_contact_date": "2026-05-21"
+}

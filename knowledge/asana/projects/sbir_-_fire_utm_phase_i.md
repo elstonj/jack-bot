@@ -4,8 +4,8 @@
 - **Client/Customer**: NASA SBIR program
 - **Dollar Value**: $56,318 total invoiced ($49,818 + $6,500)
 - **Timeline**: Mid-2023 through Phase I completion February 7, 2024
-- **Status**: **ARCHIVED** — Phase I fully completed February 7, 2024. All contractual deliverables closed out. Post-Phase I documentation work (wildfire video) ongoing as lower-priority item with Kareem returning June 16, 2026.
-- **Team Members**: Alex Lomis (project lead/coordinator), Jack Elston (hardware/flight operations, project coordinator), Maciej Stachura (algorithms/data processing), Josh Fromm (manufacturing), Kareem (post-Phase I work, returned June 16, 2026)
+- **Status**: **ARCHIVED** — Phase I fully completed February 7, 2024. All contractual deliverables closed out. Post-Phase I work (wildfire video completion) ongoing at lower priority with Kareem returned June 16, 2026.
+- **Team Members**: Alex Lomis (project lead/coordinator), Jack Elston (hardware/flight operations, project coordinator), Maciej Stachura (algorithms/data processing), Josh Fromm (manufacturing), Kareem (post-Phase I support, returned June 16, 2026)
 - **Key Partners**: NCAR/RAL, Colorado Center of Excellence for Advanced Technology Aerial Firefighting, CALFIRE, Argonne National Lab
 
 ## Key Deliverables & Milestones (All Completed)
@@ -23,12 +23,11 @@
 - No active task tracking in this project
 
 ## Recent Activity
-- All Phase I deliverables completed by February 7, 2024
-- Final invoicing processed January 26, 2024
-- Phase II proposal submitted February 3, 2024
-- NASA ROSES Call application submitted March 31, 2024
-- Post-Phase I technical work: Dubins path altitude profiling control (October 2025)
-- **Wildfire Video Completion (June 2026)**: Per Jack Elston (June 15–16, 2026), Kareem returning to team June 16 to support post-Phase I work. Jack coordinating with team on division of labor to finish the wildfire video, with Kareem potentially focusing on S0 components or ground stations depending on team priority.
+- **Phase I Completion**: All deliverables completed by February 7, 2024; final invoicing processed January 26, 2024
+- **Phase II Submission**: February 3, 2024
+- **NASA ROSES Call Application**: Submitted March 31, 2024
+- **Post-Phase I Technical Work**: Dubins path altitude profiling control (October 2025)
+- **Wildfire Video Work (Ongoing)**: Kareem returned June 16, 2026 to support post-Phase I work. Per Jack Elston (June 16, 2026), he may focus on S0 components or ground stations depending on team priority, or join Maciej Stachura on finishing the wildfire video. Jack has asked Maciej and team to coordinate division of labor.
 
 ## Priority & Context
 
@@ -43,4 +42,4 @@
 - Successfully positioned BST for Phase II and NASA ROSES funding with established partnerships
 
 **Next Steps (June 2026)**:
-Kareem will coordinate with team (likely Maciej Stachura) on division of labor to finish wildfire video production. Alternative work available if higher-priority tasks take precedence.
+Wildfire video completion pending coordination between Kareem and Maciej Stachura on division of labor. Alternative work (S0 components, ground stations) available if higher-priority tasks take precedence.

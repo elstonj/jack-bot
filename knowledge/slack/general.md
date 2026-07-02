@@ -1,7 +1,7 @@
 # #general
 
 ## Overview
-Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - June 2026). Key participants include Jack Elston (leadership), Dan Prendergast (business development/operations), Maciej, Joshua Fromm, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, Spencer Hoehl (intern as of June 5, 2026), Ethan Domagala, and numerous team members.
+Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - July 2026). Key participants include Jack Elston (leadership), Dan Prendergast (business development/operations), Maciej, Joshua Fromm, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, Spencer Hoehl (intern as of June 5, 2026), Ethan Domagala, and numerous team members.
 
 ## Key Decisions
 

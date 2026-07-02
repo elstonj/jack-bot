@@ -4,11 +4,11 @@
 - **Client:** ByLight
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 177.2 hours (169.2h previous + 8.0h new batch)
+- **Total hours tracked:** 184.7 hours (177.2h previous + 7.5h new batch)
 
 ## Team Allocation
-- **Ethan Domagala:** 144.4 hours (81.4%)
-- **Alex:** 30.8 hours (17.4%)
+- **Ethan Domagala:** 151.9 hours (82.2%)
+- **Alex:** 30.8 hours (16.7%)
 - **Nate:** 2.0 hours (1.1%)
 
 **Primary contributor:** Ethan Domagala
@@ -16,29 +16,32 @@
 ## Activity Timeline
 
 **Ethan Domagala** — ByLight M2 Design & Research
-- Latest session: 8.0h (no description provided)
-- Cumulative: 144.4 hours across all tracked time
+- Latest sessions: 4.0h + 3.5h (no descriptions provided)
+- Cumulative: 151.9 hours across all tracked time
 - Work scope includes design iteration and customer feedback research
 - Maintains consistent tracking; recent entries lack descriptions
-- **Fourth consecutive undescribed session:** 23.2h total now undocumented (8.0h this batch + 15.2h prior three batches)
+- **Fifth consecutive undescribed session:** 30.7h total now undocumented (7.5h this batch + 23.2h prior four batches)
 
 **Alex** — Undescribed work
 - Sessions: 8.2h, 8.2h, 8.7h (no recent activity)
 - Three large blocks with no descriptions provided
-- Accounts for 17.4% of project hours
+- Accounts for 16.7% of project hours
 
 **Nate** — Kit preparation
 - Single session: 2.0h
 - "Kit prep" work
 
 ## Insights
-- **Documentation gap escalating further:** Ethan's undescribed logging now reaches 23.2 hours across four consecutive sessions. Pattern has shifted from occasional to habitual.
-- **Sustained contributor dominance:** Ethan maintains ~81% of project work; consistent allocation pattern continues.
-- **Pervasive visibility issue intensifying:** Combined undescribed hours now reach 54.0 hours (30.5% of total project)—nearly one-third of all tracked time lacks context.
-- **Active but increasingly opaque:** 8.0h logged in this batch confirms ongoing work; however, persistent absence of descriptions prevents understanding of current priorities or deliverables.
+- **Documentation failure now critical:** Ethan's undescribed logging has escalated to five consecutive sessions. 30.7 hours (16.6% of total project time) now lacks any context or documentation.
+- **Sustained contributor dominance:** Ethan maintains ~82% of project work; allocation remains consistent.
+- **Pervasive visibility crisis:** Combined undescribed hours reach 61.5 hours (33.3% of total project)—one-third of all tracked time is invisible.
+- **Active but opaque:** 7.5h logged in this batch confirms ongoing engagement; however, absence of descriptions prevents understanding work status, deliverables, or priorities.
 - **Non-billable internal status maintained**
 
-**Recommendation:** **Urgent escalation needed.** Ethan's undescribed logging pattern has become entrenched—now four sessions in a row with zero context. This is no longer a tracking anomaly but a systemic documentation failure affecting 30% of project visibility. Request immediate meeting to:
-1. Retrieve retrospective descriptions for all 23.2 undocumented hours
-2. Understand root cause (workload, distraction, process gap, or intentional behavior change)
-3. Implement mandatory real-time descriptions going forward or reconsider tracking methodology
+**Recommendation:** **IMMEDIATE ACTION REQUIRED.** Pattern is now entrenched across five consecutive tracking sessions with zero documentation. This represents a systematic breakdown in accountability and project visibility. 
+
+**Required steps:**
+1. **Direct conversation with Ethan** — Immediate meeting to address documentation failure
+2. **Retrospective retrieval** — Obtain descriptions for all 30.7 undocumented hours
+3. **Root cause analysis** — Determine if workload, process, or intentional
+4. **Policy enforcement** — Mandate real-time descriptions or suspend non-billable time tracking for this project pending resolution

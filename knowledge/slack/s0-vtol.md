@@ -5,7 +5,7 @@ This channel is primarily used for development and testing of BST's S0 VTOL airc
 
 Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan Domagala, Dan, Ben Busby
 Activity: High activity with 1420+ messages covering approximately 2+ years of development
-Time range: Early development through June 16, 2026 (ongoing project)
+Time range: Early development through July 1, 2026 (ongoing project)
 
 ## Key Decisions
 
@@ -102,5 +102,8 @@ Time range: Early development through June 16, 2026 (ongoing project)
 - Comprehensive issue analysis and fixes applied to test rig (Sam Hild, May 26, 2026):
   
   **CAN Bus Issues (RESOLVED):**
-  1. Missing Termination → Fixed on Test Rig
-  2. Wires should be
+  - Missing termination fixed on test rig
+
+## Projects & Initiatives
+
+**S0 VT

@@ -4,15 +4,15 @@
     "[032-3] Sasquatch S0s x 4"
   ],
   "period": {
-    "start": "2026-05-18",
-    "end": "2026-05-19"
+    "start": "2026-07-01",
+    "end": "2026-07-02"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 555.3,
+    "expenses": 26.0,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 444.24,
-      "Inventory Asset": 111.06
+      "DIRECT COSTS:DC-Direct Material Purchases": 20.8,
+      "Inventory Asset": 5.2
     }
   },
   "invoices": [],
@@ -20,29 +20,29 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-05-18",
-      "doc_number": "334139",
-      "total": 4164.75,
-      "attributed": 555.3,
+      "date": "2026-07-01",
+      "doc_number": "03236",
+      "total": 195.0,
+      "attributed": 26.0,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "No Asana Request because all orders must be handled directly by the sales rep. Purchase for the three S0 projects: 2026 IDIQ, Sasquatch, 6 future S0 sales\n\nShipped to Lee Skidmore (Northwind) \nOrder placed 3/20 - payment occurs when it is shipped",
+      "memo": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep. \n\nInitial wire transfer through Wells Fargo was returned.",
       "lines": [
         {
-          "amount": 2776.5,
+          "amount": 130.0,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Thermoset Laminate Linen Tubes"
+          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep"
         },
         {
-          "amount": 555.3,
+          "amount": 26.0,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": ""
+          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep"
         },
         {
-          "amount": 832.95,
+          "amount": 39.0,
           "account": "Inventory Asset",
-          "description": "For future sales of 6 S0s"
+          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep"
         }
       ]
     }

@@ -27,14 +27,14 @@
 - **Total tasks:** 1 open, 0 completed (per latest Asana sync)
 - **Tasks by assignee:**
   - **Beck Cotter:** 1 open task
-    - Confirm Bassil has funding for Flight #4 (Due: 2026-06-29)
+    - Flight #3 - Spring '26 (no due date in Asana; execution scheduled 2026-05-27)
 - **Prior open tasks (likely in-progress or closed externally):**
   - Jack Elston: S2 rental order (due 2026-06-01), methane payload data rate investigation, FLIR triggering investigation
   - Maciej Stachura: Camera overlap configuration (FLIR + A5100 to 80%)
   - Joshua Fromm: Payload modifications (actively delivering per 2026-06-03 feedback)
 
 ## Recent Activity
-- **2026-06-03 (Joshua Fromm feedback):** **Payload modifications in final stages.** All parts for Murphy's Pond payload modifications (3 payloads + gimbal) in process of ordering; most parts arriving end of week. DB9 rewiring is main remaining task (straightforward). **All modifications expected to complete within 1 day or less** once parts arrive.
+- **2026-06-03 & 2026-06-02 (Joshua Fromm feedback):** **Payload modifications in final stages.** All parts for Murphy's Pond payload modifications (3 payloads + gimbal) in process of ordering; most parts arriving end of week. DB9 rewiring is main remaining task (straightforward). **All modifications expected to complete within 1 day or less** once parts arrive.
 - **2026-05-28 (Daniel Prendergast feedback):** **Battery shipment to Mexico completed.** Batteries dispatched with permanent import status; no ECCN obtained; import fees paid as permanent. Customs broker (Javi) documentation on file. Daniel holds two emails documenting shipment history and is ready to contact customs broker or explain details to group if needed. **Battery destination change warrants confirmation with Dr. Masri** to ensure alignment with project scope.
 - **Imminent deadlines:**
   - S2 rental order due 2026-06-01 (Jack Elston; training/travel not yet scheduled)

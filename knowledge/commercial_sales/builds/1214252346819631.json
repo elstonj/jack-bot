@@ -51,12 +51,13 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "S20004 repair completed 2026-05-15. Left flap servo failed; replaced with 2x Hitec servos and both wing replacement units. Invoice 1759 sent 2026-05-08 for $664.98 (unpaid). Build complete, awaiting shipment. Kept due to QBO invoice #1759.",
+  "notes": "S20004 repair completed 2026-05-15. Left flap servo failed; replaced with 2x Hitec servos and both wing replacement units. Invoice 1759 sent 2026-05-08 for $664.98 (unpaid, balance $664.98). Build complete, awaiting shipment. Kept due to QBO invoice #1759 matching this repair order.",
   "missing_fields": [
     "ship_to",
     "customer_email",
-    "shipped_date"
+    "shipped_date",
+    "receive_by"
   ],
-  "last_evidence_date": "2026-06-30",
-  "last_contact_date": "2026-06-18"
+  "last_evidence_date": "2026-07-01",
+  "last_contact_date": "2026-07-01"
 }

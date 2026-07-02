@@ -15,7 +15,7 @@
     - ⚠️ **April 30, 2026 (design adjustments & parts orders) — STALE/OVERRIDDEN per Maciej (2026-04-27 & 2026-05-04). Nate Straus directed to update Asana to "realistic numbers" post-ByLight meeting and communicate revised schedule to NASA customer.**
     - June 30, 2026 (launcher refurbishment)
     - September 30, 2026 (final delivery)
-- **Status:** **Active — forward progress in execution.** 1 open task. **🟢 PARTS ORDERING SUBSTANTIALLY COMPLETE (as of June 2–3, 2026):** Joshua Fromm confirms all payload parts for Murphy's Pond payloads and gimbal parts in ordering process; most parts expected to arrive by end of first week of June 2026. Main remaining work: rewiring new DB9 connector ("isn't a big deal at all"); all 3 payloads can be modified in ≤1 day post-parts-arrival. **🟡 CRITICAL SCHEDULE UPDATE STATUS UNKNOWN:** April 30, 2026 due dates in Asana are STALE. Nate Straus was directed to revise to realistic dates and communicate to NASA customer (not yet confirmed complete as of June 3).
+- **Status:** **Active — forward progress in execution.** 5 open tasks. **🟢 PARTS ORDERING SUBSTANTIALLY COMPLETE (as of June 2–3, 2026):** Joshua Fromm confirms all payload parts for Murphy's Pond payloads and gimbal parts in ordering process; most parts expected to arrive by end of first week of June 2026. Main remaining work: rewiring new DB9 connector ("isn't a big deal at all"); all 3 payloads can be modified in ≤1 day post-parts-arrival. **🟡 CRITICAL SCHEDULE UPDATE STATUS UNKNOWN:** April 30, 2026 due dates in Asana are STALE. Nate Straus was directed to revise to realistic dates and communicate to NASA customer (not yet confirmed complete as of June 3).
 - **Team Members:** 
   - Nate Straus (project owner — responsible for schedule update & customer communication; launcher refurbishment lead)
   - Josh Fromm (primary executor — parts procurement and design modifications; parts ordering substantially complete as of June 2–3)
@@ -38,15 +38,17 @@
 | **Final delivery** | **September 30, 2026** | **Nate Straus** | **🔄 Open** | **Contract due date** |
 
 ## Task Summary
-- **Total Tasks:** 1 open in Asana, 0 completed
-- **Note:** Asana task list appears to have consolidated; detailed milestone tracking shows 4–5 substantive workstreams (design adjustments, parts ordering, airframe/launcher case orders, launcher refurbishment, final delivery)
+- **Total Tasks:** 5 open in Asana, 0 completed
 - **Tasks by Assignee:**
-  - **Nate Straus:** 1 open task in Asana
+  - **Nate Straus:** 1 open task
     - Perform launcher refurbishment (June 30, 2026) — Next critical milestone
-  - **Josh Fromm:** Parts ordering substantially complete in real-world execution (June 2–3, 2026)
-  - **Unassigned:** Design adjustments and case ordering tasks
-- **Project Owner:** Nate Straus
-- **Completion Rate:** 0% formal in Asana; however parts procurement is substantially complete in real-world execution
+  - **Josh Fromm:** 2 open tasks
+    - Adjust designs based on component changes (April 30, 2026 — **STALE**)
+    - Place orders for S20009/launcher refurb parts and spares (April 30, 2026 — **STALE, but substantially complete in real-world execution**)
+  - **Unassigned:** 2 open tasks
+    - Place orders for new airframe case and launcher case
+    - S20009 Refurb and component replacement
+- **Completion Rate:** 0% formal in Asana; however parts procurement is substantially complete in real-world execution (June 2–3, 2026)
 
 ## Recent Activity
 
@@ -63,4 +65,4 @@
 
 ## Notes & Context
 
-- **Product Context:** S2 platform is officially end-of-life as of July 2025. Isaac Anderson (NASA Ames) requested cost breakdown for S2 parts replacement on July 11, 2025; Estimate 1362 was issued July 18, 2025 noting that "as we're now transitioning to the S3 platform, the S2 is officially end-of-life.
+- **Product Context:** S2 platform is officially end-of-life as of July 2025. Isaac Anderson (NASA Ames) requested cost breakdown for S2 parts replacement on July 11, 2025; Estimate 1362 was issued July 18, 2025 noting that "as we're

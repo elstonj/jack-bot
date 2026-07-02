@@ -1,55 +1,61 @@
 # Slack Channels Overview
 
-Last scanned: 2026-07-01 02:14
+Last scanned: 2026-07-02 02:18
 
-Total channels scanned: 5
+Total channels scanned: 7
 
 ## Channels
 
-- **#commercial-sales** -- 4 messages -- [commercial-sales.md](commercial-sales.md)
-- **#general** -- 1 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 8 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#marketing** -- 15 messages -- [marketing.md](marketing.md)
-- **#operations** -- 2 messages -- [operations.md](operations.md)
+- **#25_1-navy-sbir-magnetometer** -- 3 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#general** -- 3 messages -- [general.md](general.md)
+- **#marketing** -- 2 messages -- [marketing.md](marketing.md)
+- **#s0-vtol** -- 1 messages -- [s0-vtol.md](s0-vtol.md)
+- **#s3** -- 8 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 3 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#sbir-volcano** -- 1 messages -- [sbir-volcano.md](sbir-volcano.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Strategic Channel Overview
+# Black Swift Technologies - Cross-Channel Strategic Overview
 
-## Core Business Themes
+## Active Projects
+- **SBIR Hurricane (S0)**: Primary unmanned aircraft system for hurricane reconnaissance; mature project with ongoing operational missions and customer delivery prep
+- **Navy SBIR Magnetometer**: Developing magnetometer-equipped aircraft for magnetic anomaly detection; integrating QuSpin sensors with BST platforms
+- **SBIR Volcano (S2/S3)**: NASA-sponsored volcanic monitoring using specialized sensor payloads; collaboration with USGS
+- **S3 VTOL**: Long-endurance hybrid fixed-wing/quadcopter aircraft (2-3 hour endurance); in active development with tilting rotor design
+- **S0 VTOL**: Vertical takeoff/landing aircraft with forward flight transition capability; flight testing and hardware debugging ongoing
 
-**Active Projects & Products**
-- Aircraft systems development and delivery: E2, S2, S3, S0, S0-VTOL platforms
-- Government contracting across federal agencies: NASA, DOD, NOAA, USDA
-- University research partnerships and commercial customer engagement
-- Field operations and payload integrations
-
-**Key Decision-Makers & Roles**
-- **Jack Elston**: Primary leadership, proposal strategy, high-level decisions
-- **Joshua Fromm**: Hardware/shop operations
-- **Meredith Needham**: Finance and administrative coordination
+## Key Personnel & Roles
+- **Jack Elston**: Leadership, systems architecture, firmware, technical decisions across multiple projects
+- **Joshua Fromm**: Lead engineer/designer, S3 platform lead
+- **Maciej**: Project oversight, testing, control systems, cross-project involvement
+- **Sam Hild**: Firmware development across platforms
+- **Beck Cotter**: Navy magnetometer project, technical execution
 - **Dan Prendergast**: Business development and operations
-- **Maciej**: Technical support and field operations
-- **Parker Vollmer & Sophia Henkels**: Marketing and communications
+- **Parker Vollmer & Sophia Henkels**: Marketing and content strategy
 
-## Cross-Channel Patterns
+## Decision Patterns
+- **Technical decisions**: Decentralized by project with Jack Elston as systems architect providing oversight
+- **Project coordination**: Channel-specific for technical work; #general for company-wide announcements
+- **Hardware/testing**: Iterative approach with real-world flight testing informing design decisions
+- **Customer delivery**: Preparation and operational readiness discussed in project channels
 
-**Funding & Sustainability**
-- Grants/funding strategy drives project planning (#grants-and-funding hub)
-- Federal proposals feed into operational timelines (#operations)
-- Budget development connects across funding pursuits and project delivery
+## Recurring Topics Across Channels
+1. **Aircraft platform development**: Continuous improvement and variant testing (S0, S3 iterations)
+2. **Sensor integration**: Multiple projects adapting different payloads (magnetometers, volcanic sensors) to aircraft
+3. **Flight testing & field operations**: Regular missions generating operational insights
+4. **Firmware & control systems**: Consistent technical focus across VTOL and fixed-wing projects
+5. **Government contracting**: SBIR programs drive multiple concurrent projects with defined milestones
 
-**Sales-to-Operations Pipeline**
-- Commercial sales orders trigger hardware delivery (#commercial-sales → #operations)
-- Customer projects require payload integration and aircraft customization
-- International and domestic customer base managed through commercial channel
+## Cross-Channel Connections
+- **Personnel overlap**: Core team (Elston, Fromm, Maciej, Hild) work across 3+ projects simultaneously
+- **Platform reuse**: S0 and S3 designs leverage shared components and lessons learned
+- **Technology transfer**: Sensor integration approaches and firmware solutions adapted across projects
+- **Marketing support**: Campaign strategy for promoting multiple aircraft platforms and capabilities
+- **Operational rhythm**: SBIR project milestones and flight test schedules drive #general announcements
 
-**Communication Flow**
-- #general serves as announcement/coordination hub for company-wide decisions
-- Operational decisions cascade from leadership through task assignment
-- Marketing aligned with product announcements and customer-facing messaging
-
-## Recurring Decision Patterns
-- Hierarchical approval (Jack Elston as primary reviewer/approver)
-- Integrated planning between funding pursuits and execution capacity
-- Cross-functional coordination on customer deliverables
+## Strategic Themes
+- BST is executing a **multi-platform, multi-mission strategy** with government-funded (SBIR/NASA) development
+- **Core competency** is autonomous VTOL/hybrid aircraft with modular sensor integration
+- **Execution model** balances specialized project work with company-wide coordination and marketing positioning
+- **Timeline**: Projects span 2020-2026 indicating sustained, long-term R&D investment

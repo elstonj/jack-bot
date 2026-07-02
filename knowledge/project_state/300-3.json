@@ -12,79 +12,44 @@
     "contacts": []
   },
   "contract": {
-    "type": "fixed_price",
-    "number": "1305M226D0012",
+    "type": "unknown",
+    "number": null,
     "total_value": 483000.0,
-    "start_date": "2026-02-01",
-    "end_date": "2031-01-31",
-    "payment_cadence": "milestone-based per ordering period; NRE tasks requested at Task Order level",
-    "documents": [
-      "drive://Budget Structure",
-      "drive://(1305M226D0012) Attachment 1-Specifications_Black Swift.pdf",
-      "drive://(1305M226D0012) Attachment 2-Schedule of Items and Prices_1305M226D0012.pdf"
-    ]
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "payment_cadence": null,
+    "documents": []
   },
   "budget": {
-    "approved": 13999750.0,
-    "approved_source": "sow_drive",
-    "line_items": [
-      {
-        "category": "Equipment",
-        "amount": 10981250.0,
-        "description": "Black Swift S0 sUAS Platforms: 150 EA @ $18,000 (OP1) + 150 EA @ $18,630 (OP2) + 125 EA @ $19,282 (OP3) + 125 EA @ $19,957 (OP4) + 125 EA @ $20,655 (OP5)",
-        "source_doc": null
-      },
-      {
-        "category": "Labor",
-        "amount": 425500.0,
-        "description": "Operations and Training Support Services: Mission Days (30 @ $2,850 × 5 periods) + Operational/Testing Support (6 @ $6,000 × 5 periods) + Operator/Observer Training (1 @ $6,000 × 5 periods) + Instructor Training (1 @ $600 × 5 periods)",
-        "source_doc": null
-      },
-      {
-        "category": "Travel",
-        "amount": 250000.0,
-        "description": "Travel for Operational Support (NTE $50,000 × 5 periods) per Section 5.3, FTR-compliant",
-        "source_doc": null
-      },
-      {
-        "category": "Labor",
-        "amount": 60000.0,
-        "description": "Course Development: Operator and Observer Course Development (1 @ $6,000 × 5 periods) + Instructor Training Course Development (1 @ $6,000 × 5 periods)",
-        "source_doc": null
-      },
-      {
-        "category": "Labor",
-        "amount": 990000.0,
-        "description": "Non-Recurring Engineering: Technical Documentation (NTE $66,000 × 5 periods) + Modeling (NTE $66,000 × 5 periods) + NHC Workflow Integration (NTE $66,000 × 5 periods)",
-        "source_doc": null
-      }
-    ],
+    "approved": 483000.0,
+    "approved_source": "asana_custom_field",
+    "line_items": [],
     "spent": {
       "labor": {
-        "amount": 126385.0,
+        "amount": 133523.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-01"
+        "last_updated": "2026-07-02"
       },
       "purchases": {
         "amount": 970.76,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-07-01"
+        "last_updated": "2026-07-02"
       },
       "other_qbo": {
-        "amount": 0.0,
+        "amount": 130.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-07-01"
+        "last_updated": "2026-07-02"
       },
-      "total": 127355.76,
+      "total": 134624.51,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 13872394.24,
+    "remaining": 348375.49,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-01T09:03:16Z"
+    "last_reconciled": "2026-07-02T09:06:52Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -134,6 +99,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-07-01T09:03:16Z",
+  "last_full_rebuild": "2026-07-02T09:06:52Z",
   "last_incremental_update": null
 }

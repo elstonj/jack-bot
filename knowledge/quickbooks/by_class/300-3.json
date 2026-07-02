@@ -4,13 +4,16 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-06-30",
-    "end": "2026-07-01"
+    "start": "2026-07-01",
+    "end": "2026-07-02"
   },
   "totals": {
     "revenue": 144000.0,
-    "expenses": 0.0,
-    "by_category": {}
+    "expenses": 130.0,
+    "by_category": {
+      "DIRECT COSTS:DC-Direct Material Purchases": 104.0,
+      "Inventory Asset": 26.0
+    }
   },
   "invoices": [
     {
@@ -61,7 +64,36 @@
     }
   ],
   "bills": [],
-  "purchases": [],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-07-01",
+      "doc_number": "03236",
+      "total": 195.0,
+      "attributed": 130.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep. \n\nInitial wire transfer through Wells Fargo was returned.",
+      "lines": [
+        {
+          "amount": 130.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep"
+        },
+        {
+          "amount": 26.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep"
+        },
+        {
+          "amount": 39.0,
+          "account": "Inventory Asset",
+          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep"
+        }
+      ]
+    }
+  ],
   "purchase_orders": [],
   "payments": []
 }

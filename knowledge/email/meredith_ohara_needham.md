@@ -1,111 +1,126 @@
 # Meredith O'hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 641 emails (563 previous + 78 new)
-- **Date range:** June 15–July 1, 2026 (17 days)
-- **Approximate volume:** ~38 emails/day
-- **Trend:** Payroll crisis resolution phase (Jun 30–Jul 1); government payroll/HR system integration; shipping/logistics acceleration; vendor payment status updates
+- **Total messages scanned:** 719 emails (641 previous + 52 new)
+- **Date range:** June 15–July 2, 2026 (18 days)
+- **Approximate volume:** ~40 emails/day
+- **Trend:** Post-payroll-crisis stabilization (Jul 1–2); PEO evaluation (Deel); vendor/supplier payment processing; battery shipment return logistics from Ottawa; salary/employment discussions with Jack Elston
 
 ---
 
 ## Key Correspondents
 
-### Incoming (by frequency — updated)
+### Incoming (by frequency — cumulative update)
 
 **Automated Systems & Purchasing Routing:**
 
-1. **Purchasing system** (`purchasing@blackswifttech.com`) — 260+ messages cumulative
-   - **Shipping notifications (Jun 30–Jul 1):**
-     - Worldwide Express (Jul 1, 07:28:30 UTC) — Invoice #260627W001050 (rush shipment)
-     - DigiKey (Jun 30, 19:21:41 CDT) — Package shipped invoice 128407666
-     - DigiKey (Jun 30, 19:21:41 CDT) — Multiple PO acknowledgements (Salesorder #100124240, #100117933, #100117560)
-     - Harris Aerial Demo Day invitation (Jun 30, 23:24:29 UTC) — External vendor outreach
+1. **Purchasing system** (`purchasing@blackswifttech.com`) — 280+ messages cumulative
+   - **New shipping & order confirmations (Jul 1–2):**
+     - B&H Photo Order #1130358693 Shipped (Jul 2, 01:35:45 UTC)
+     - SendCutSend Order SQ29Q224 under review (Jul 1, 23:37:28 UTC)
+     - Amazon orders: SMA Female to TNC connectors + 2 more items (Jul 1, 17:19:43 UTC)
+     - APC Propellers order received (Jul 1, 18:18:26 UTC)
+     - HeliDirect Order HDR664888 confirmed (Jul 1, 18:11:22 UTC)
+     - Rock West Composites Order #Z100709106 (Jul 1, 18:43:50 UTC)
+     - DigiKey PO Acknowledgement #100145658 (Jul 1, 12:33:24 UTC)
    
-   - **Status:** Supply chain acceleration continues; high-velocity component/equipment procurement
+   - **Billing document (Jul 1, 20:01:04 UTC):**
+     - Black Swift ID #823121 New Billing Invoices routed to earellano@aeronet.com [unread]
+   
+   - **Status:** High-velocity component procurement continues; RF connectors, propellers, and composite materials being acquired; likely UAV/drone systems integration
 
 ---
 
-2. **Government/Regulatory Payroll Systems — CRITICAL ACTIVITY (Jun 30, 21:11–21:33 UTC)**
+2. **Deel (PEO Provider)** — **CRITICAL NEW VENDOR EVALUATION**
+   - **PEO Quoting Follow-up (Jul 1, 17:16:29 UTC):**
+     - Cora Sosa <cora.sosa@deel.com> to Meredith & Sona Raziabeegum [STARRED, IMPORTANT]
+     - Indicates active negotiation with PEO vendor
+   
+   - **Demo Meeting Reminder (Jul 1, 14:47:17 UTC):**
+     - Gong meeting reminder: "Black Swift Demo with Deel" [IMPORTANT]
+     - Meredith attended live demo meeting
+   
+   - **Significance:** Exploring Professional Employer Organization (PEO) for payroll/HR outsourcing post-crisis; Sona Raziabeegum (external accountant) included in discussions
 
-   **Colorado FAMLI+ (Family and Medical Leave Insurance) System:**
-   - **10+ automated alerts from CDLE FAMLI** (Jun 30, 21:11–21:33 UTC)
-   - **Pattern:** Multiple access grants/removals to Meredith and Karen Young across both `blackswifttech.com` and `bst.aero` email addresses
+---
+
+3. **Sona Raziabeegum (Krateo Sky — External CPA/Accountant)** — **CRITICAL TAX & AUDIT ENGAGEMENT**
+   - **Multiple audit/tax exchanges (Jul 1, 16:50–23:17 UTC):**
+     - "Upcoming audit question and 2025 taxes" (Jul 1, 16:50 UTC) [SENT by Meredith]
+     - RE responses from Sona (Jul 1, 22:53 & 23:17 UTC) [IMPORTANT, marked multiple times]
+   - **Meredith responses (Jul 1, 16:56 & 17:18 UTC)**
+   
    - **Significance:** 
-     - Employer account registration/remediation with Colorado state payroll system
-     - Indicates compliance action on state-mandated leave insurance
-     - Routing to operations contacts (Karen Young) suggests HR/ops coordination
-     - Timestamps suggest urgent registration before Jun 30 deadline
+     - Active audit preparation underway
+     - 2025 tax reconciliation in progress
+     - CPA directly involved in salary/employment structure decisions (copied on Deel PEO quote)
+     - Suggests ongoing tax remediation from previous payroll errors
+
+---
+
+4. **Jack Elston (Internal — VP/Co-founder)** — **SALARY & EMPLOYMENT DISCUSSIONS**
+   - **"Full-time Salary response" thread (Jul 1, 08:59–17:18 UTC):**
+     - Meredith (Jul 1, 08:59 UTC) → Jack: "Full-time Salary response" [SENT]
+     - Jack responses (Jul 1, 09:29 & 17:00 UTC) [IMPORTANT, marked multiple times]
+     - Meredith draft response (Jul 1, 17:19 UTC) [DRAFT status]
    
-   **Login.gov Integration (Jun 30, 21:17:49 UTC):**
-   - Meredith connected account to Colorado My FAMLI+ Employer portal
-   - Credential management for state system access
+   - **"Order confirmation" forward (Jul 1, 10:28 UTC):**
+     - Jack forwards purchase order to Meredith [IMPORTANT]
+     - Meredith responds same day (Jul 1, 12:19 UTC)
    
-   **FAMLI Payment Method Alerts (Jun 30, 19:53:48–19:53:57 UTC):**
-   - FirstBank payment method confirmation required
-   - Routed to admin@blackswifttech.com and operations@bst.aero (starred/important)
-   - Meredith forwarded to Jack Elston (Jun 30, 14:30:59 CDT)
-
----
-
-3. **Human Interest (401k Provider)** — **PAYROLL REMEDIATION CONFIRMED**
-   - **Correction Credits Issued (Jul 1, 00:05:05 UTC)** — Participant account corrections
-   - **401(k) Contributions Processing (Jun 30, 21:24:57 UTC)** — Regular payroll processing for 6/30/2026 period
-   - **Status:** Reconciliation of previous overcharge/errors; 401k system now processing correctly
-
----
-
-4. **Mark Kightlinger (KCO, Inc. Tax Firm)** — **PAYROLL TAX REMEDIATION ONGOING**
-   - **Multiple exchanges (Jun 30, 21:11–21:41 UTC):**
-     - "Payroll Amendments" (Jun 30, 21:41:06 UTC) [IMPORTANT]
-     - "RE: Updates on fixing Jack/Maciej's payroll/taxes" (Jun 30, 21:34:36 & 21:33:15 UTC) [IMPORTANT]
-     - "RE: Updates on Rippling info for 2025 taxes (Jack and Maciej)" (Jun 30, 21:16:38 UTC) [IMPORTANT]
-   - **Scope:** Specific employee payroll/tax corrections for Jack (Elston) and Maciej (unconfirmed last name)
-   - **Meredith responses:** (Jun 30, 15:37:20 & 15:24:09 CDT)
-   - **Status:** Tax remediation documentation in progress; amendments being filed
-
----
-
-5. **Rippling (HR/Payroll Platform)** — **OPERATIONAL RESOLUTION**
-   - **Bank Holiday Alert (Jun 30, 20:05:17 UTC)** — Pay run approval reminder [IMPORTANT]
-   - **Payroll Confirmation (Jun 30, 18:36:56 UTC)** — "You just got paid! (6/1/26–6/30/26)" [IMPORTANT]
-   - **Status:** Payroll cycle completed successfully for period ending 6/30/2026; crisis appears resolved
-
----
-
-6. **Shelby Hammond (Elevations Credit Union)** — **WIRE TRANSFER & BANKING COORDINATION**
-   - **International (Canada) Wire Discussion (Jun 30, multiple exchanges):**
-     - Hammond (Jun 30, 19:37:49 UTC) — RE: International (Canada) wire transfer? [IMPORTANT]
-     - Hammond (Jun 30, 17:33:31 UTC) — RE: International (Canada) wire transfer? [IMPORTANT]
-     - Hammond (Jun 30, 16:26:23 UTC) — Re: International (Canada) wire transfer? [IMPORTANT]
-     - Meredith (Jun 30, 12:31:40 CDT) — Re: International (Canada) wire transfer?
-     - Meredith (Jun 30, 10:56:18 CDT) — Re: International (Canada) wire transfer?
-     - Meredith (Jun 30, 09:53:14 CDT) — International (Canada) wire transfer? [SENT]
+   - **"Copay Plan Question" (Jul 1, 12:44–12:46 UTC):**
+     - Jack asks about health insurance copay plan [IMPORTANT]
+     - Meredith responds; also forwards to external contact (Chad Atwood, The AIG Inc.)
    
-   - **Plaid Bank Connection (Jun 30, 19:42:11 & 18:05:19 UTC):**
-     - "You've connected your bank account to Google with Plaid" [IMPORTANT]
-     - "You've connected your bank account to Comcast Business with Plaid" [IMPORTANT]
-     - Indicates setup for automated billing/payments
-   
-   - **Branch Meeting (Jun 30, 18:30:24 UTC):**
-     - Shane Blehm (Elevations) — "Meeting with Elevations - Longmont Hover Branch" [IMPORTANT]
-   
-   - **Status:** Canadian wire transfer in progress (possible battery/equipment shipment return from Ottawa); banking infrastructure remediation
+   - **Status:** 
+     - Ongoing employment/compensation discussions (likely related to full-time conversion or raise)
+     - Health plan questions suggest benefits administration coordination
+     - High frequency of urgent/important exchanges
 
 ---
 
-7. **Worldwide Express (WWEX)** — **SHIPPING/LOGISTICS ESCALATION**
-   - **Account Access Issue (Jun 30, 11:13–19:07 UTC):**
-     - Meredith (Jun 30, 11:13:09 CDT) → Support: "Locked out of account" [SENT]
-     - WWEX Support responses (Jun 30, 17:13:58, 17:45:17, 17:51:33, 19:07:21 UTC) [IMPORTANT, STARRED]
-     - Meredith (Jun 30, 11:47:05 & 11:55:27 CDT) — Multiple escalation responses
-     - **Case #28001982** opened Jun 30, 17:13:58 UTC
-   - **Jul 1 Invoice:** Worldwide Express Invoice 07/01/2026 #260627W001050 [UNREAD]
-   - **Status:** Account access restored; urgent shipping processing enabled; likely time-critical international shipment
+5. **Daniel Prendergast (Internal — Operations/Logistics)** — **BATTERY SHIPMENT & INVOICING**
+   - **Battery Shipment Return from Ottawa (Jul 1, 11:37–17:48 UTC):**
+     - Thread subject: "Battery Shipment return from Ottawa Canada / Quote # 141681 / 103032391"
+     - Daniel to Robert Correia (Jul 1, 11:41 UTC) [UNREAD, IMPORTANT]
+     - Robert Correia responses (Jul 1, 14:21 & 17:48 UTC) [IMPORTANT, marked multiple times]
+     - Meredith forwards related copay/insurance question to Daniel (Jul 1, 11:37 UTC) [context: salary/benefits discussion spillover]
+   
+   - **Invoice to EMASS for 2 Flight Days (Jul 1, 12:48 UTC):**
+     - Daniel requests invoice to EMASS [STARRED, IMPORTANT]
+     - Meredith responds immediately (same minute)
+   
+   - **Status:** 
+     - Return logistics from Canadian facility ongoing
+     - Flight testing invoicing/billing to customers (EMASS client)
+     - Daniel acting as ops coordinator for logistics & customer billing
 
 ---
 
-8. **Microhard Systems Inc.** — **NEW VENDOR / HARDWARE**
-   - **Invoice (Jun 30, 21:15:57 UTC):** New invoice #BFDD29D8-0007 via Stripe [IMPORTANT, CATEGORY_UPDATES]
-   - **Direct contact (Jun 30, 16:00:12 CDT):** Jeff Catherwood (jcatherwood@microhardcorp.com)
-     - Subject: "Re: RFQ" [IMPORTANT]
-     - Jack Elston initiated RFQ (
+6. **Robert Correia (AeroNet — External Logistics/Supplier)** — **CANADIAN BATTERY RETURN COORDINATION**
+   - **Multiple responses on Ottawa battery shipment (Jul 1, 14:21–17:48 UTC)** [UNREAD, IMPORTANT, marked multiple times]
+   - Discussions with Daniel Prendergast (internal ops)
+   - **Significance:** Reverse logistics for battery equipment from Ottawa facility; quote/RMA coordination
+
+---
+
+7. **Ted Miles (External Support/Vendor)** — **INVOICE PROCESSING**
+   - "Ted Miles Support Invoice June 2026" (Jul 1, 08:44 UTC) [IMPORTANT]
+   - Meredith response (Jul 1, 13:47 UTC) [SENT]
+   - Monthly support invoice processing
+
+---
+
+8. **Amy McLiverty (NOAA Federal)** — **CONTRACT EXTENSION REQUEST**
+   - "Extension for 1305M225P0034" (Jul 1, 13:46 UTC) [SENT by Meredith]
+   - Government contract/grant extension request
+   - Indicates ongoing NOAA project work
+
+---
+
+9. **Jeff Catherwood (Microhard Systems Inc.)** — **RFQ / HARDWARE PROCUREMENT**
+   - **RFQ responses (Jul 1, 11:27–14:25 UTC):**
+     - Jeff out-of-office auto-reply (Jul 1, 11:27 UTC) [IMPORTANT]
+     - Meredith reply (Jul 1, 11:27 UTC) [STARRED]
+     - Meredith follow-up (Jul 1, 14:25 UTC) [SENT]
+   - **Status:** RFQ in progress; Jeff temporarily unav
