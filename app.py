@@ -367,28 +367,16 @@ def route_message(message, say, client, user_id, channel_id, event_ts=""):
         user_name = resolve_user_name(client, user_id)
         store_entry(client, "INSIGHT", f"From {user_name}: {message}")
         say("Got it, noted for future reference.")
-    elif is_task_update_intent(message):
-        channel_ctx = get_channel_context(client, channel_id)
-        if channel_ctx and channel_ctx.get("project_gid"):
-            say(propose_task_updates(
-                strip_qa_prefix(message), channel_ctx, user_id, channel_id
-            ))
-        else:
-            # No project resolved — fall back to Q&A so the user gets some
-            # answer instead of silence.
-            say(answer_question(
-                strip_qa_prefix(message),
-                slack_client=client,
-                channel_id=channel_id,
-                channel_context=channel_ctx,
-                user_id=user_id,
-            ))
     elif cs_channel and channel_id == cs_channel and cs_is_update_intent(message):
         # #commercial-sales: top-level update requests ("add Dan as owner to
         # X", "mark CU IRISS complete", "set ship_to for SOCOM to ..."). These
         # used to route through is_work_update and get a fake "Got it —
         # stored." ack while losing the actual write — see Beck's 2026-05-18
         # "add Dan as owner..." which never persisted to either Build JSON.
+        # Checked BEFORE is_task_update_intent: the generic task-update path
+        # resolves nothing in #commercial-sales (no single project_gid) and
+        # would fall to answer_question, so an @mentioned "mark ERAU complete"
+        # must hit the commercial-sales handler here first.
         asker_name = resolve_user_name(client, user_id)
         resp = handle_update_propose(
             message, user_id, channel_id, client, asker_name
@@ -415,6 +403,22 @@ def route_message(message, say, client, user_id, channel_id, event_ts=""):
                 slack_client=client,
                 channel_id=channel_id,
                 channel_context=get_channel_context(client, channel_id),
+                user_id=user_id,
+            ))
+    elif is_task_update_intent(message):
+        channel_ctx = get_channel_context(client, channel_id)
+        if channel_ctx and channel_ctx.get("project_gid"):
+            say(propose_task_updates(
+                strip_qa_prefix(message), channel_ctx, user_id, channel_id
+            ))
+        else:
+            # No project resolved — fall back to Q&A so the user gets some
+            # answer instead of silence.
+            say(answer_question(
+                strip_qa_prefix(message),
+                slack_client=client,
+                channel_id=channel_id,
+                channel_context=channel_ctx,
                 user_id=user_id,
             ))
     elif is_question(message):
@@ -466,7 +470,14 @@ def handle_dm(event, say, client):
 
     cs_channel = os.environ.get("COMMERCIAL_SALES_CHANNEL", "")
 
-    # Commercial-sales top-level admin commands: "show filtered" + "track this: <x>".
+    # Commercial-sales top-level handling. Jack only *initiates* a reply here
+    # when directly addressed (@mentioned) — fresh inquiry/update intents on
+    # undirected human-to-human discussion used to make him butt in ("I matched
+    # this to UMES… but I'm not sure what you're asking") and get in the way.
+    # Those addressed messages are now owned by handle_mention → route_message,
+    # so this block only handles (a) explicit typed admin commands and (b)
+    # follow-ups to a proposal Jack already started (a continuation of a
+    # conversation the user opened *with* the bot, so no @mention required).
     # Threaded replies (the reply-to-update flow) are handled separately below.
     if (
         cs_channel
@@ -494,7 +505,11 @@ def handle_dm(event, say, client):
                 elif is_show_filtered_intent(text):
                     resp = handle_show_filtered()
                 else:
-                    # Try the admin command intents first…
+                    # Explicit typed admin commands only. Inquiry ("what's the
+                    # ship-to for SOCOM?") and update ("mark ERAU complete")
+                    # intents are deliberately NOT handled here anymore — they
+                    # require an @mention and are served by route_message, so
+                    # Jack no longer jumps into unaddressed channel discussion.
                     target = parse_force_include_target(text)
                     if target:
                         resp = handle_force_include_propose(target, user_id, cs_channel)
@@ -502,33 +517,6 @@ def handle_dm(event, say, client):
                         target = parse_create_task_target(text)
                         if target:
                             resp = handle_create_task_propose(target, user_id, cs_channel)
-                    # …then update intents ("add Dan as owner to X",
-                    # "mark X complete"). is_update_intent rejects question
-                    # marks, so it won't swallow inquiry-shaped messages.
-                    if not resp and cs_is_update_intent(text):
-                        asker_name = resolve_user_name(client, user_id)
-                        resp = handle_update_propose(
-                            text, user_id, cs_channel, client, asker_name
-                        )
-                    # …then the read-only inquiry handler for shipping/parts/
-                    # POC/etc. questions. Without this, top-level messages
-                    # like "what's the ship-to for SOCOM?" used to fall
-                    # through silently in #commercial-sales (no @-mention
-                    # required).
-                    if not resp and is_inquiry_intent(text):
-                        asker_name = resolve_user_name(client, user_id)
-                        # Only emit the "I don't have a record…" stub prompt when
-                        # the bot was actually addressed (@-mentioned). Undirected
-                        # channel chatter that merely trips an inquiry keyword
-                        # stays silent if it can't be answered — the canned
-                        # deflection on every passing message is what got Jack
-                        # mocked. A confident match still answers regardless.
-                        bot_uid = get_bot_user_id(client)
-                        addressed = bool(bot_uid) and (bot_uid in text)
-                        resp = handle_inquiry(
-                            text, user_id, cs_channel, client, asker_name,
-                            respond_when_unresolved=addressed,
-                        )
                 if resp:
                     client.chat_postMessage(channel=cs_channel, text=resp)
                     return
