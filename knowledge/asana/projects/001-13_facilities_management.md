@@ -4,11 +4,15 @@
 - **Client/customer**: Internal operations (BST office and shop space maintenance)
 - **Dollar value**: Lease costs ranging from $13.00–$14.63 NNN over 60-month term, plus $6.23 CAM for real estate taxes and building insurance
 - **Timeline**: Ongoing operational project with recurring monthly tasks
-- **Status**: Active - high completion rate; recurring batch completion cycle functioning smoothly
+- **Status**: Active - recurring tasks functioning, but **completion backlog detected**. Large batch of tasks (13 completed) all marked done on 2026-07-02, suggesting catch-up cycle or data sync issue
 - **Team members involved**: Meredith O'hara Needham (primary operational owner, Neat N Tidy owner), Nate Straus (facilities improvements & consumables)
 - **Risk signals**: 
-  - **Pay Rent due 2026-06-29** (recurring monthly; currently open)
-  - Note: Tasks consistently completed ahead of or on-schedule in recent cycles (May payment completed 2026-05-21, 4 days early)
+  - **Bulk task completion on single date (2026-07-02)**: 13 tasks backdated and marked complete simultaneously suggests either a catch-up cycle or task management workflow issue
+  - **Three open tasks approaching near-term due dates**:
+    - Ongoing Office Purchasing List due 2026-07-10 (4 days out)
+    - Office Cleaning due 2026-07-11 (5 days out)
+    - Pay Rent due 2026-07-27 (20 days out)
+  - Monitor whether tasks continue to complete on batch schedule or return to typical on-time pattern
 
 ## Key Deliverables & Milestones
 - **Monthly rent payments** (~$13.00–$14.63 NNN depending on lease year, plus $6.23 CAM, due ~25th–29th of each month)
@@ -20,19 +24,26 @@
 - **Lease termination planning** (unassigned, no due date)
 
 ## Task Summary
-- **Total tasks**: 1 open, 0 completed (in current snapshot)
+- **Total tasks**: 3 open, 13 completed (in current snapshot)
 - **Tasks by assignee**:
-  - **Meredith O'hara Needham**: 1 open
-    - Pay Rent (Due 2026-06-29) — currently open
+  - **Meredith O'hara Needham**: 3 open, 13 completed (100% of active work)
+    - Open: Pay Rent (due 2026-07-27), Office Cleaning (due 2026-07-11), Ongoing Office Purchasing List (due 2026-07-10)
+    - Recent completions: 13 tasks all marked done 2026-07-02 (bulk completion event)
 - **Notable patterns**: 
-  - Recurring monthly rent tasks maintain predictable cadence
-  - Historical office cleaning completion times within 4-day variance (mostly on-time to slightly late)
-  - Operational rhythm stable and reliable
+  - **Bulk completion event**: All 13 completed tasks backdated to completion on 2026-07-02, spanning work due from 2026-05-15 through 2026-07-03. This breaks historical on-time pattern and suggests catch-up batch or workflow change.
+  - Recurring weekly purchasing tasks and bi-weekly cleaning tasks maintain predictable structure
+  - All tasks assigned exclusively to Meredith O'hara Needham
 
 ## Recent Activity
-- **Current open task**: Pay Rent due 2026-06-29 (assigned to Meredith O'hara Needham)
-- **Historical pattern**: Monthly rent payments consistently completed on or ahead of schedule (most recent: May 2026 completed 2026-05-21, 4 days early)
-- **Operational momentum**: Project continues stable operations with focus on recurring cleaning and facilities management
+- **Bulk completion on 2026-07-02**: 13 tasks marked complete simultaneously, including:
+  - 5× Ongoing Office Purchasing List tasks (due dates: 2026-05-15, 2026-05-22, 2026-05-29, 2026-06-05, 2026-06-12, 2026-06-19, 2026-06-26, 2026-07-03)
+  - 4× Office Cleaning tasks (due dates: 2026-05-16, 2026-05-30, 2026-06-13, 2026-06-27)
+  - 1× Pay Rent (due 2026-06-29)
+- **Current open tasks**:
+  - Ongoing Office Purchasing List due 2026-07-10
+  - Office Cleaning due 2026-07-11
+  - Pay Rent due 2026-07-27
+- **Pattern shift**: Previous knowledge file showed monthly rent paid on-time or early (May 2026 completed 4 days early). New data shows bulk catch-up completion, which may indicate a change in task management workflow or backlog clearance.
 
 ## Notes & Context
 
@@ -58,4 +69,6 @@
 | Months 37–48 | $14.21 | $6.23 |
 | Months 49–60 | $14.63 | $6.23 |
 
-**Operational Focus**: Project serves as central hub for all physical office and shop space maintenance, found under the Operations portfolio. Monthly rent payment cycle stable and predictable. Consumables stock tracker maintained at https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus).
+**Operational Focus**: Project serves as central hub for all physical office and shop space maintenance, found under the Operations portfolio. Consumables stock tracker maintained at https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus).
+
+**Alert for next review**: Monitor whether 2026-07-02 bulk completion represents a one-time catch-up or a workflow change. If catch-up was due to Asana inactivity or manual sync, confirm that forward-looking tasks (July 10, 11, 27) complete on their normal schedule to re-establish baseline confidence.

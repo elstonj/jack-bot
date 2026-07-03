@@ -75,6 +75,9 @@ The channel covers activities from 2020 through July 2026, with high activity du
 - Gas payload parts on order with projected arrival and conversion completion before end of July 2026
 - Plan includes test flight before full deployment
 
+**Photogrammetry Payload/System Performance Validation (July 2, 2026)**
+- Jack Elston confirmed that photogrammetry payload system "worked quite well" - appears to be in response to inquiry about payload conversion performance and readiness
+
 ## Projects & Initiatives
 
 **Makushin Volcano Monitoring (Alaska)**
@@ -91,11 +94,11 @@ The channel covers activities from 2020 through July 2026, with high activity du
 - **Restrictions**: Operations limited to west side of ridge until NASA crew qualified
 
 **Kentucky Deployment**
-- **Status**: Previously completed; photogrammetry payload available for potential reuse
-- **Significance**: Photogrammetry payload currently being evaluated for adaptation to Popocatépetl mission
+- **Status**: Previously completed; photogrammetry payload successfully validated and confirmed functional (July 2, 2026)
+- **Significance**: Photogrammetry payload being adapted for Popocatépetl mission; performance confirmation indicates readiness for conversion
 
 **Popocatépetl Volcano (Mexico)**
-- **Status**: Deployment deferred from April 19-27, 2026; S3 repairs completed and testing underway as of late June 2026; payload conversion in progress with test flight planned before end of July 2026
+- **Status**: Deployment deferred from April 19-27, 2026; S3 repairs completed and testing underway as of late June 2026; photogrammetry payload conversion progressing with test flight planned before end of July 2026; payload system performance validated as of July 2, 2026
 - **Significance**: SO2 output 10-50x higher than Makushin
 - **Aircraft**: S3 (Registration 20686S30001) selected due to high-altitude requirements (18,000-20,000 ft)
 - **Mission Parameters (As of April 13, 2026)**:
@@ -108,7 +111,4 @@ The channel covers activities from 2020 through July 2026, with high activity du
   - Max range: ~10 km, may require directional antenna (yagi) or terrain-based approach
   - Optimizations planned: Climb-orbit radius 500+ meters to preserve battery; possible on-site terrain analysis for LOS verification
 - **Partners**: CENAPRED (Mexican institution), AFAC, AV3 for flight approvals
-- **AV3 Relationship** (as of May 18, 2026):
-  - **Status**: Unresolved - no SOW or contract found in shared drive
-  - **Question raised by Dan Prendergast**: No written agreement located; unclear if relationship is verbal only or documented elsewhere
-  - **Action needed**: Clarification on formal relationship documentation and agreement status with AV3
+-

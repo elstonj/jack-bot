@@ -1,63 +1,54 @@
 # Jack Elston — Email Patterns (UPDATED)
 
 ## Communication Volume
-- **Total messages scanned:** 5,637 (5,540 prior + 97 new, July 1–2, 2026)
-- **Date range:** April 1–July 2, 2026
+- **Total messages scanned:** 5,737 (5,637 prior + 100 new, July 2–3, 2026)
+- **Date range:** April 1–July 3, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **July 1–2 activity (97 messages):** ~20% human correspondence (Krateo IT/GRC coordination, S0 UK MOD confirmation, Murphy's Pond dataset continuation, salary/HR discussions, Capital Factory legal entity fix, ASTM standards resolver requests); ~55% automated logistics/procurement/vendor (DigiKey new shipments, HeliDirect orders, B&H Photo, APC Propellers, SendCutSend, Rock West Composites, Amazon orders); ~15% infrastructure/compliance/HR (Human Interest 401k processing, GitLab SSH key expiration, Google Workspace invoicing, Payroll Amendments meeting, Copay plan resolution); ~10% spam/marketing/newsletters/regulatory (UASweekly, UAS Magazine, E-Verify TPS updates, Volcano Summit, commercial UAS expo, international drone news)
+- **July 2–3 activity (100 messages):** ~8% human correspondence (NOAA P3 delivery planning, Krateo GRC/IT coordination, SOCOM escalation, financial sweep account coordination, salary policy, speaker slot request, QuSpin technical question); ~68% automated logistics/procurement/vendor (DigiKey, HeliDirect, Rock West Composites, SendCutSend, PayPal transactions, Aerobertics, Redwing RC, MKS Servos, FETtec, JawsTec, Spindrift Market, APC Propellers, Harbor Freight, USPS tracking); ~12% infrastructure/compliance/HR (Colorado FAMLI employment tax, Elevation CU sweep account, PayPal account management, NASA SATERN training expiration, Capital Factory office hours); ~12% spam/marketing/newsletters/recruitment (ITS World Congress 2027, PATENTSCOPE webinar, Austin Tech Week, Buddy RC July 4 sale, UAS career submissions, Unagi scooter promo, EIN Presswire, Project Spectrum networking, Boulder County Elections, All Roads nonprofit reminder, Denver Mining Club alumni)
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Partners
-1. **Maciej Stachura** (stachura@blackswifttech.com) — Co-executive; strategic coordination on Krateo partnership, Murphy's Pond dataset, salary policy alignment, interview/PR requests
-2. **Meredith Needham** (meredith.needham@blackswifttech.com) — Operations/Finance; payroll/salary administration (critical activity July 1), vendor RFQ coordination, health insurance copay plan resolution, invoice management
-3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Government/Defense; S0 COTS waiver coordination with Navy (Kachel/SOCOM), battery shipment logistics (Ottawa return), Arctic UAS location coordination with Canada partners
-4. **Beck Cotter** (beck.cotter@blackswifttech.com) — Communications/Marketing; media interview requests, FAA manufacturer's safety statement coordination
-5. **Paige Smith** (paige.smith@blackswifttech.com) — (referenced in prior knowledge; pattern continues)
+1. **Maciej Stachura** (stachura@blackswifttech.com) — Co-executive; Krateo partnership tension response ("Pressure" re-escalation July 2, 18:36 UTC), strategic coordination continuing
+2. **Meredith Needham** (meredith.needham@blackswifttech.com) — Operations/Finance; **NEW PRIORITY:** financial sweep account coordination with Elevation CU (Shelby Hammond); full-time salary policy discussions (multiple July 2 exchanges); vendor RFQ/invoice coordination; Colorado FAMLI employment tax action required
+3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Government/Defense; SOCOM escalation visible (Evan M. Wolff SOCOM response July 2, 19:04 UTC on RFI S0); follow-up response from Jack July 2, 11:21 UTC
+4. **Paige Smith** (paige.smith@blackswifttech.com) — Communications/Marketing; speaker slot availability request forwarded to Jack July 2, 11:25 UTC; UAS experiments update forwarded July 2, 10:26 UTC
+5. **Sam Hild** (sam.hild@blackswifttech.com) — **NEW:** Technical liaison; QuSpin technical question coordination with Jeffrey Orton (quspin.com) July 2, 13:02 & 09:34 UTC
 
 ### Top External Partners (Priority Order)
 
-#### **KRATEO SKY — ACCELERATING (M&A/STRATEGIC PARTNERSHIP)**
-1. **Thibault Bridel-Bertomeu** (Thibault@krateosky.com) — July 2, 04:51 UTC: "Re: KrateoSky x BlackSwift IT management, technical positions & GRC" (UNREAD, IMPORTANT) — ongoing GRC/IT integration discussion
-2. **Bob Smith** (Bob@krateosky.com) — July 1, 22:52 UTC: "Pressure" email to Jack, Maciej, LisaMarie Cheney, Jed Leonard, Daniel Prendergast (UNREAD, IMPORTANT) — escalation/tension signal on partnership progress
-3. **LisaMarie Cheney** (LisaMarie@krateosky.com) — July 2, 04:24 UTC: "Re: Intro: HALO Aerospace (counter-UAS) with Krateosky team" to Daniel Hesselius (Halo Aero), Maciej, Bob Smith (UNREAD, IMPORTANT) — new counter-UAS partner evaluation (HALO Aerospace)
-4. **Sona Raziabeegum** (sona@krateosky.com) — (prior M&A VP data room coordination continues)
-5. **Ariel Avitan** (Krateo) — (prior NOAA software offering discussion)
+#### **KRATEO SKY — PARTNERSHIP TENSION ESCALATING**
+1. **Bob Smith** (Bob@krateosky.com) — July 2, 18:36 UTC: "Re: Pressure" (UNREAD, IMPORTANT) to Maciej & Jack — second pressure escalation visible; partnership coordination friction evident
+2. **Thibault Bridel-Bertomeu** (Thibault@krateosky.com) — July 2, 23:37 UTC & 11:20 UTC: Jack responses to "KrateoSky x BlackSwift IT management, technical positions & GRC" (SENT) — GRC/IT integration discussion continuing; Jack actively engaged
+3. **LisaMarie Cheney** (LisaMarie@krateosky.com) — (prior references; HALO Aerospace counter-UAS evaluation ongoing per prior data)
 
-#### **UK MINISTRY OF DEFENCE — S0 PROGRAM ACTIVE**
-1. **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — July 1, 11:42 UTC: "Re: S0 presentation" (UNREAD, IMPORTANT) — presentation briefing confirmed/progressing; UK engagement locked in
+#### **NOAA — P3 PROGRAM ACTIVE**
+1. **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov, NOAA Federal) — July 2, 23:09 UTC: "Permanent Change of Station (PCS) Re: Delivery Planning, P3 Questions" (UNREAD, IMPORTANT) — **NEW SIGNAL:** PCS (personnel relocation) mention; P3 aircraft delivery coordination active
+2. **Joe Cione** (joe.cione@noaa.gov, NOAA Federal) — July 2, 22:07 UTC: **IMPORTANT meeting invite** "Invitation: HFP/ET discussions (crewing/seats/training) @ Tue Jul 14, 2026 8am - 9am (MDT)" — multi-NOAA team present (Mark Rogers, Danielle Varwig, Heather Holbach, Andrew Hazelton, Annette Hollingshead, Jun Zhang, Jason Sippel, Laura Rock); also includes Joshua Wadler (ERAU)
+3. **Laura Rock** (laura.rock@noaa.gov) — July 3, 00:09 UTC: Jack sent "Delivery Planning, P3 Questions" to her — direct NOAA contact on P3 logistics
+4. **Joseph Cione** (joe.cione@noaa.gov) — July 2, 08:07 UTC: Response to Jason Sippel re: "Update to UAS experiments" (IMPORTANT) — UAS experiment activity with NOAA
 
-#### **US DEFENSE/SOCOM**
-1. **Zachary O. Kachel** (zachary.o.kachel.mil@socom.mil) — July 1, 12:43 UTC: Daniel Prendergast response to "(U) [Non-DoD Source] Re: RFI S0" (IMPORTANT) — SOCOM S0 RFI coordination continuing
+#### **US DEFENSE/SOCOM — ESCALATION VISIBLE**
+1. **Evan M. Wolff** (evan.m.wolff.mil@socom.mil, USSOCOM) — July 2, 19:04 UTC: "RE: (U) [Non-DoD Source] Re: RFI S0" (IMPORTANT) to Daniel Prendergast & Kachel — **NEW CONTACT:** SOCOM escalation point; RFI S0 progression
+2. **Zachary O. Kachel** (zachary.o.kachel.mil@socom.mil) — (prior SOCOM RFI coordination; still active)
 
-#### **CANADIAN GOVERNMENT / ARCTIC UAS**
-1. **Maia Varanda, S Rowlands, Noah Ray** (Invest Ottawa) — July 1, 14:57 UTC: Daniel Prendergast coordinating "Re: Arctic UAS Location Change" with Trenton McKibben, Chris Pitfield (NextechSol) — facility/operations movement underway
+#### **FINANCIAL/BANKING — NEW PRIORITY**
+1. **Shelby Hammond** (Shelby.Hammond@elevationscu.com, Elevations Credit Union) — July 2, multiple times (19:14, 19:04, 21:10, 21:08, 20:48, 18:36 UTC — 6 separate messages, all IMPORTANT): "Sweep Account follow Up" and "Elevations Secure Email -Sweep Account Form" — **CRITICAL:** financial account sweep coordination with Meredith; multiple back-and-forth exchanges; Jack actively involved in financial decision-making
 
-#### **ACADEMIC/RESEARCH**
-1. **Stefan Metzger** (smetzger@atmofacts.com) — July 1–2: Active Murphy's Pond dataset exchange with Maciej (Stefan: "RE: Murphy's Pond Dataset"; Maciej: "Re: Murphy's Pond Dataset") — thermal survey data research active
-2. **Trevor Simoneau** (SIMONET1@erau.edu, Embry-Riddle Aeronautical University) — July 1, 19:41 & 19:57 UTC: ADS-B technical question (Jack response sent 13:45 UTC) — university collaboration
+#### **ACADEMIC/RESEARCH/PARTNERSHIPS**
+1. **Jeffrey Orton** (jorton@quspin.com, QuSpin) — July 2, 13:02 UTC: "Re: QuSpin Question" (UNREAD, IMPORTANT) directed to Sam Hild — **NEW VENDOR:** quantum sensing/physics equipment supplier; technical question coordination
+2. **Joshua Wadler** (wadlerj@erau.edu, Embry-Riddle) — Invited to NOAA HFP/ET meeting July 14 — university collaboration with NOAA integration
 
-#### **FLIGHT TEST / VALIDATION**
-1. **Scott Smyser, Mark** (nanoveu.com, NanoVEU) — July 1, 13:41 UTC: Meredith invoice coordination "Black Swift Invoice for Flight Testing" (IMPORTANT) — active flight testing/validation contract
+#### **LEGAL/CORPORATE SERVICES**
+1. **Capital Factory** (noreply@union.vc) — July 2, 21:52 UTC: "New Office Hour in Capital Factory: Marketing channels/tactics and communications" — BST remains engaged with accelerator; operations team invited
 
-#### **LEGAL / CORPORATE**
-1. **Jamie Serio** (jamieserio@capitalfactory.com, Capital Factory) — July 1, 12:38 & 16:33 UTC: "Black Swift — Capital Factory executed, one entity fix" (IMPORTANT) — legal entity consolidation/corporate restructuring completed
+#### **GOVERNMENT CONTRACTS**
+1. **Amy L. McLiverty** (amy.l.mcliverty@noaa.gov, NOAA) — (prior P3/NOAA contract; likely active)
 
-#### **STANDARDS / INDUSTRY**
-1. **Scott Scheff** (scottscheff@hfdesignworks.com) — July 1, 15:12 UTC: "Re: ASTM WK90326 Ground Control Station Human Factors Resolvers Requested" (IMPORTANT) — Jack is standards resolver for GCS human factors working group
+### Top Vendors/Suppliers (Expanded)
 
-#### **GOVERNMENT AGENCIES**
-1. **Amy L. McLiverty** (amy.l.mcliverty@noaa.gov, NOAA Federal) — July 1, 13:46 UTC: Meredith requesting "Extension for 1305M225P0034" (IMPORTANT, likely NOAA contract extension)
-2. **Rama Haris** (rama.haris@state.co.us, Colorado OEDIT) — July 1, 15:04 UTC: "ACTION REQUIRED: Advanced Industries Annual Report - Due 9/1/26" (IMPORTANT)
-
-### Top Vendors/Suppliers (Expanding)
-1. **DigiKey** — Multiple new invoices: 128471192 (July 1, 16:22 UTC shipment); Salesorder #100145658 (July 1, 12:33 UTC); continued large component orders
-2. **HeliDirect** — Multiple orders: HDR664888 (confirmed, on the way, rewards earned); active small parts/accessories sourcing
-3. **B&H Photo** — Order #1130358693 (confirmed July 1, 01:20 UTC; shipped; large purchase)
-4. **APC Propellers** — Order received July 1, 18:18 UTC — propeller sourcing active
-5. **Rock West Composites** — New Order #Z100709106 (July 1, 18:43 UTC) — composite materials/structures
-6. **SendCutSend** — Order SQ29Q224 under review (July 1, 23:37 UTC) — metal cutting/fabrication services
-7. **Amazon Business** — Multiple small electronics orders (TUOLNK SMA/TNC connectors, July 1, 17:19 UTC)
-8. **Robert Correia / Aeronet** — July 1 (14:21, 11:41, 11:27 UTC):
+**Active High-Volume Orders (July 2–3):**
+1. **Aerobertics** (info@aerobertics.be, platform@iamd.be) — July 2 (21:19, 21:17, 14:19 UTC): Order confirmation VO-2026-07-6668 (€451.03 EUR paid via PayPal); **delivery confirmation** July 3, 07:49 UTC — **NEW VENDOR:** European aviation components supplier; established account with active orders
+2. **Redwing RC** (

@@ -17,7 +17,7 @@
     "total_value": 242540.0,
     "start_date": "2026-09-28",
     "end_date": "2026-09-28",
-    "payment_cadence": "monthly",
+    "payment_cadence": "monthly milestone-based",
     "documents": [
       "drive://Statement of Work",
       "drive://CRT-90P Hydrophone User Guide Rev 2.pdf",
@@ -30,30 +30,30 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 55880.0,
+        "amount": 55956.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-02"
+        "last_updated": "2026-07-03"
       },
       "purchases": {
         "amount": 185.15,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-07-02"
+        "last_updated": "2026-07-03"
       },
       "other_qbo": {
         "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-07-02"
+        "last_updated": "2026-07-03"
       },
-      "total": 56065.15,
+      "total": 56141.4,
       "by_line_item": {}
     },
     "committed": 2874.06,
-    "remaining": 183600.79,
+    "remaining": 183524.54,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-02T09:07:41Z"
+    "last_reconciled": "2026-07-03T09:04:02Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -98,6 +98,6 @@
       "text": "From Maciej: <@U0AQE94HJUT> I don't see a Navy meeting at 9:30 this morning. Also, for mag integration it's Alex and Sam on the critical engineering tasks"
     }
   ],
-  "last_full_rebuild": "2026-07-02T09:07:41Z",
+  "last_full_rebuild": "2026-07-03T09:04:02Z",
   "last_incremental_update": null
 }

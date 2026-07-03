@@ -1,95 +1,94 @@
 # Dan Prendergast — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 51 (24 new + 27 from previous scan)
-- **Date range:** 27 Jun – 1 Jul 2026
+- **Total messages scanned:** 62 (11 new + 51 from previous scan)
+- **Date range:** 27 Jun – 3 Jul 2026
 - **Approximate volume:** ~8–10 emails per day
-- **Pattern shift:** Jul 1 shows sustained high-volume day (15+ emails in 24 hours) with significant outbound activity, suggesting active operational coordination phase
+- **Pattern shift:** High-intensity operational phase (Jul 1–2) now normalizing; Jul 2–3 shows continued critical issue tracking with reduced volume (11 emails over 2 days vs 15+ on Jul 1)
 
 ## Key Correspondents
 
-### Top Senders
-1. **Aeronet** (Adrian Sepulveda, Robert Correia) — 6 emails (up from 4; escalating pattern)
+### Top Senders (Updated)
+1. **Aeronet** (Adrian Sepulveda, Robert Correia) — 7 emails (sustained from previous)
 2. **Nanoveu team** (Scott Smyser, Mark Goranson, others) — 7 emails (sustained)
-3. **Black Swift Technologies internal** (Jack Elston, Nathaniel Straus, Meredith Needham) — 6 emails (sustained)
-4. **Government/Academic** (Joey Taylor/NOAA, Wesley Enos/NASA, Zachary Kachel/SOCOM, Matthew Neber/NLR) — 5 emails
-5. **External coordination** (Krateo Sky via Bob Smith, Invest Ottawa, Murray State) — 5 emails
-6. **Lockheed Martin** (Dhruti Shah) — 1 email
+3. **Black Swift Technologies internal** (Jack Elston, Nathaniel Straus, Meredith Needham) — 8 emails (slight increase)
+4. **Government/Academic** (Joey Taylor/NOAA, Wesley Enos/NASA, Zachary Kachel/SOCOM, Matthew Neber/NLR, Evan Wolff/SOCOM) — 6 emails (expanded SOCOM contact)
+5. **External coordination** (Krateo Sky, Invest Ottawa, Murray State) — 5 emails
+6. **Lockheed Martin** (Dhruti Shah) — 2 emails (escalated from 1)
+7. **Camera/Sensor vendors** (Natalia Bouzo/ThinkLucid) — 1 email (NEW)
 
-### Top Recipients
-1. **Aeronet** (Adrian Sepulveda, Robert Correia) — 5 outbound emails (direct escalation)
-2. **Government contacts** (Joey Taylor/NOAA, Wesley Enos/NASA, Zachary Kachel/SOCOM, Matthew Neber/NLR, Dhruti Shah/LM) — 5 outbound
-3. **Internal BST** (Jack Elston, Nathaniel Straus, Meredith Needham) — 3 outbound
-4. **Supply chain/Logistics** (Invest Ottawa team, Bassil El Masri/Murray State, Next-Tech) — 2 outbound
-5. **Bob Smith/Krateo Sky** — 1 outbound (via Maciej Stachura)
+### Top Recipients (Updated)
+1. **Aeronet** (Adrian Sepulveda) — 2 outbound (battery shipment tracking)
+2. **Government/Defense contacts** (Dhruti Shah/LM, Bassil El Masri/Murray State, sales@thinklucid.com) — 3 outbound
+3. **Internal BST** (Jack Elston, Nathaniel Straus) — 3 outbound/coordinated
+4. **External vendors** (ThinkLucid camera supplier, NLR Matthew Neber) — 2 outbound
 
 ### Internal vs External
-- **Internal BST:** ~18% of correspondence (slight decline)
-- **External:** ~82% (strong focus on operational partnerships and government liaison)
+- **Internal BST:** ~19% of correspondence (stable)
+- **External:** ~81% (sustained operational focus)
 
 ## Topic Patterns
 
-### Ongoing/Sustained Projects
-- **E2/ECS-DoT Integration** — NLR (formerly NREL) coordination continues (Matthew Neber, Jul 1)
-- **BST-NASA S2** — Ongoing NASA Ames work (Wesley Enos, Jul 1)
-- **ECSDOT Flights** — Operational flight coordination (Nanoveu invoicing visible)
-- **S3 delivery and training** — Continued coordination with Nathaniel Straus (Jul 1)
-- **Nightfox CAN bus configuration** — Technical troubleshooting with NOAA (Joey Taylor, Jul 1) — **emerging technical depth**
+### Sustained Projects
+- **E2/ECS-DoT Integration** — NLR coordination (Matthew Neber, Jul 2)
+- **BST-NASA S2** — Ongoing NASA Ames work
+- **S3 delivery and training** — UMES coordination (Christopher Hartman, Jul 2) — now marked [IMPORTANT]
+- **SOCOM RFI S0** — Escalated SOCOM military engagement (Evan Wolff/Zachary Kachel, Jul 2) — new senior contact (Evan Wolff MIL USSOCOM)
+- **Nightfox CAN bus configuration** — NOAA technical work (from previous scan)
 
-### Escalating/Critical Issues
-- **Battery supply chain crisis (continued Jul 1):** 7 emails across Jul 1 alone
-  - Quote #141681 / 103032391 / 103032432 tracking multiple shipments
-  - Coordination now includes **Murray State University** (Bassil El Masri) as stakeholder
-  - Direct engagement with Aeronet leadership (Robert Correia) + Invest Ottawa
-  - Multiple shipment statuses tracked (KY delivery, return from Ottawa)
-  - Suggests operational dependency: batteries required for active field operations
-- **"Pressure" subject (Bob Smith/Krateo Sky, Jul 1 22:52 UTC):** New external vendor involvement
-  - Group email to Jack Elston, Maciej Stachura, LisaMarie Cheney, Jed Leonard, Dan Prendergast
-  - Subject line escalation signal; indicates external pressure/urgency from client or partner
-  - **Krateo Sky** appears to be new vendor/partner (not in previous scan)
+### Critical/Escalating Issues (Continued)
+- **Battery supply chain crisis (persistent Jul 2):** Direct coordination continuation
+  - Quote #103032432 tracking (Aeronet/Murray State routing, Jul 2 10:29–10:30)
+  - Forwarding patterns indicate escalation chain: Dan → Adrian Sepulveda → Bassil El Masri (academic logistics partner)
+  - Subject line stability ("Battery Shipment to KY") suggests routine tracking phase post-crisis
 
 ### New/Emerging Technical Topics
-- **Nightfox CAN bus configuration** — Detailed technical support with NOAA (2 outbound responses Jul 1 16:01–16:03)
-- **LM Technical Questions** — Lockheed Martin technical liaison (Dhruti Shah, Jul 1)
-- **SOCOM RFI S0** — Continued classified/controlled unclassified information response (Jul 1 12:43)
+- **Camera/Sensor lead time procurement** — ThinkLucid PHX032 Cameras (Natalia Bouzo, Jul 2)
+  - Outbound query Jul 2 10:12 MDT, inbound response 18:30 UTC (8.5 hour turnaround)
+  - Marked [IMPORTANT] by vendor — suggests time-critical procurement
+  - **New equipment category:** Indicates possible platform upgrade or new mission variant
 
-### Vendor/Equipment References
-- **Aeronet** — Battery supplier (critical/escalating status)
-- **Krateo Sky** — New vendor (pressure/urgency signal)
-- **Invest Ottawa** — Logistics/Canadian supply chain coordination
-- **Murray State University** — Academic partner now directly involved in battery logistics
-- **Next-Tech Solutions** (Trenton McKibben, Chris Pitfield) — Supply chain partner (Arctic UAS location coordination)
-- **Lockheed Martin** — Technical partnership continued
-- **Nanoveu** — Primary operational platform partner
-
-### External Organizations (Expanded)
-Nanoveu, NASA Ames, NOAA, Lockheed Martin, Murray State University, UMES, CU Boulder, SOCOM, Aeronet, Invest Ottawa, **Krateo Sky** (new), **NLR/NREL**, **Next-Tech Solutions**
+### Vendor/Equipment References (Expanded)
+- **ThinkLucid** (Natalia Bouzo, sales@thinklucid.com) — **NEW:** Camera/imaging sensor supplier; PHX032 model (lead time inquiry)
+- **Aeronet** — Battery supplier (escalation phase normalizing)
+- **Lockheed Martin** (Dhruti Shah) — Technical liaison (2 emails; responding to Dan's draft)
+- **Murray State University** (Bassil El Masri) — Supply chain/logistics integration partner
+- **UMES** (Christopher Hartman) — S3 delivery/training coordination (escalated importance)
+- **NLR** (Matthew Neber) — E2 integration program
+- **SOCOM** (Evan Wolff, Zachary Kachel) — Military program (RFI S0) with new senior contact escalation
 
 ## Communication Patterns
 
-- **Sustained high-volume operational day (Jul 1):** 15 emails (10:51–22:52 UTC) spanning multiple time zones
-  - Early morning push (10:51–15:38 MDT): tactical responses to SOCOM RFI, battery issues, government liaison
-  - Late evening/overnight (20:53–22:52 UTC): inbound pressure from external vendors (Krateo Sky, Aeronet)
-- **Battery issue velocity:** 7 emails Jul 1 across 12-hour window (11:41, 14:57, 14:58, 15:27, 20:53, 21:26, 22:13 in mixed time zones)
-- **Multi-stakeholder coordination:** Battery crisis now involves 5+ organizations (BST, Aeronet, Invest Ottawa, Murray State, Next-Tech) indicating systemic supply chain issue
-- **Government engagement:** 3 separate government/government-affiliate responses (NASA, NOAA, SOCOM) in 2-hour window (12:43–15:10)
-- **Marked emails:** Multiple "[IMPORTANT]" flags on Aeronet, Krateo Sky, and NOAA correspondence (5 of 24 new emails marked important)
-- **Sequential rapid-fire responses:** Battery coordination shows back-to-back outbound emails (11:41, 14:57, 14:58, 15:27) suggesting real-time troubleshooting
+- **Reduced velocity post-Jul-1 peak:** Jul 2–3 shows 11 emails over 48 hours (vs 15+ on Jul 1), indicating operational phase transition from crisis management to routine tracking
+- **Battery coordination refinement:** Jul 2 shows 2 sequential outbound emails (10:29–10:30) with forward/reply structure (Dan → Adrian → Bassil), suggesting established escalation procedure
+- **Government contact expansion:** Evan Wolff (USSOCOM MIL) appears in SOCOM RFI thread (Jul 2 19:04 UTC) — senior military liaison beyond Zachary Kachel
+- **Marked emails:** 6 of 11 new emails flagged [IMPORTANT], consistent with previous high-priority communication pattern
+- **Vendor response velocity:** ThinkLucid camera inquiry shows 8.5-hour turnaround on time-sensitive procurement (Jul 2)
+- **Jack Elston calendar coordination:** Meeting reschedule for Jul 15 (Business Operations Meeting) suggests planning phase for next operational cycle
 
 ## Key Relationships
 
-### Closest Internal Collaborators
-- **Jack Elston** (BST) — Project lead; now also involved in external vendor pressure coordination (Krateo Sky group email)
-- **Nathaniel Straus** (BST) — S3 delivery/training; NLR E2 coordination (escalated involvement)
-- **Maciej Stachura** (BST) — Now appears in external coordination (Krateo Sky pressure email) — **emerging senior coordination role**
+### Closest Internal Collaborators (Updated)
+- **Jack Elston** (BST) — Meeting coordination role expanding (calendar management for Jul 15); strategic operations oversight
+- **Nathaniel Straus** (BST) — S3/UMES delivery coordination; technical partnership with external academy
+- **Maciej Stachura** (BST) — Continues in external coordination (implied from previous scan)
 
 ### Key External Partners (Ranked by Recent Activity)
-1. **Aeronet** (Adrian Sepulveda, Robert Correia) — **CRITICAL/ESCALATING:** 7 Jul 1 emails; direct supplier relationship under strain
-2. **Nanoveu** (Scott Smyser, Mark Goranson) — Sustained operational platform partnership; invoicing visible
-3. **SOCOM** (Zachary Kachel) — Military contract engagement (RFI S0 response; continued classified work)
-4. **NOAA** (Joey Taylor) — Technical troubleshooting partnership (Nightfox CAN bus config)
-5. **NASA Ames** (Wesley Enos) — S2 program continuation
-6. **Lockheed Martin** (Dhruti Shah) — Technical liaison
-7. **Krateo Sky** (Bob Smith, LisaMarie Cheney) — **NEW/HIGH PRESSURE:** Subject line escalation signal
-8. **Murray State University** (Bassil El Masri) — Now directly integrated into critical battery supply coordination
-9.
+
+1. **SOCOM** (Evan Wolff MIL, Zachary Kachel) — **ESCALATED:** Senior military contact (Evan Wolff) now directly engaged in RFI S0 response (Jul 2); indicates high-profile classified work
+2. **Aeronet** (Adrian Sepulveda, Robert Correia) — **NORMALIZED:** Battery tracking now in routine phase (forward/reply coordination)
+3. **Lockheed Martin** (Dhruti Shah) — **SUSTAINED:** 2 emails Jul 2; responding to Dan's technical questions (draft stage)
+4. **Nanoveu** (Scott Smyser, Mark Goranson) — Sustained operational platform partnership
+5. **NOAA** (Joey Taylor) — Technical troubleshooting (from previous scan)
+6. **NASA Ames** (Wesley Enos) — S2 program continuation
+7. **NLR** (Matthew Neber) — E2 integration coordination
+8. **UMES** (Christopher Hartman) — S3 delivery/training (marked [IMPORTANT])
+9. **Murray State University** (Bassil El Masri) — Battery logistics coordination (integrated stakeholder)
+10. **ThinkLucid** (Natalia Bouzo) — **NEW VENDOR:** Camera/imaging sensor supplier (time-critical procurement relationship)
+
+## Notable Observations
+
+- **SOCOM escalation signal:** Introduction of Evan Wolff (MIL USSOCOM senior contact) in RFI S0 thread indicates program elevation or classified work complexity increase
+- **Equipment upgrade cycle:** PHX032 camera lead time inquiry (ThinkLucid, Jul 2) suggests possible platform enhancement or new mission variant in planning phase
+- **Supply chain normalization:** Battery crisis shows transition from acute (7 emails Jul 1) to managed (2 emails Jul 2) — established escalation procedures now in place
+- **Academic-industry

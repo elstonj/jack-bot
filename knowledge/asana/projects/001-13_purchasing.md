@@ -3,40 +3,46 @@
 ## Overview
 - **Client/customer:** Internal BST purchasing system (serves all active projects)
 - **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across multiple projects
-- **Timeline:** Ongoing operational project; **CRITICAL SURGE: 17 open tasks as of latest pull (up 70% from prior 10-task baseline).** Immediate deadlines **JUL 1–3, 2026** (16 of 17 tasks due within 72 hours).
-- **Status:** 🔴 **CRITICAL OPERATIONAL STRESS — ESCALATING.** Task volume rebounded sharply from 10 to **17 open tasks**. All tasks assigned (0 dark), but **execution risk remains ACUTE:** 11 tasks show "Order Placed" or "Order Shipped" status with no downstream visibility into receipt verification, invoice matching, or project reconciliation. **Meredith O'hara Needham now owns 13/17 tasks (76%), creating severe bottleneck.** Form discipline remains strong (all custom fields populated), but workload concentration is unsustainable.
+- **Timeline:** Ongoing operational project; **CRITICAL SURGE CONTINUES: 21 open tasks as of latest pull (up from 17 tasks 3 days prior).** Immediate deadlines **JUN 25 – JUL 4, 2026** (18 of 21 tasks due within 7 days; 2 overdue as of pull date).
+- **Status:** 🔴 **CRITICAL OPERATIONAL STRESS — ESCALATING & UNSUSTAINABLE.** Task volume spiked from 17 to **21 open tasks** (+24% in ~3 days). **Meredith O'hara Needham now owns 19/21 tasks (90.5%), up from 76%.** Severe bottleneck at single person. **Two tasks are NOW OVERDUE** (due Jun 25 & Jun 5, 2026). Form discipline remains strong, but execution risk is ACUTE: 13 of 21 tasks show "Order Placed" or "Order Shipped" status with **zero downstream workflow for receipt verification, invoice matching, or project reconciliation.** One task requires approval but was not flagged for escalation. **No visible delegation despite Nate Straus availability.** Workload concentration is unsustainable and creates silent-failure risk.
 
 - **Team members involved:**
-  - **Meredith O'hara Needham** (project owner; 13/17 open tasks = 76% — **INCREASE from prior 60%**)
-  - **Nate Straus** (4/17 open tasks = 24% — **DECREASE from prior 40%**)
-  - **Requesters:** Joshua Fromm (11 tasks — 65% of total), Ethan (2), Nate (2), Alex (1), Sam (1)
+  - **Meredith O'hara Needham** (project owner; 19/21 open tasks = **90.5%** — **CRITICAL INCREASE from 76%**)
+  - **Nate Straus** (2/21 open tasks = 9.5% — **SEVERE DECREASE from 24%**)
+  - **Jack Elston** (1/21 open tasks = 4.8% — **NEW ASSIGNEE**)
+  - **Requesters:** Joshua Fromm (9 tasks — 43%), Alex (6), Ethan (2), Sam (2), Nate (1), Dan (1)
 
 - **Risk signals:**
-  - 🔴 **IMMINENT DUE DATES & SEVERE WORKLOAD CONCENTRATION:** 16 of 17 tasks due JUL 1–3, 2026. **Meredith O'hara Needham carries 13/17 (76%) — 3× prior concentration.** No sign of delegation to Nate despite his availability. All assigned but **no downstream workflow for receipt confirmation, invoice matching, or project cost reconciliation.** Risk of silent failures or untracked spending.
-  - 🔴 **UNEXPLAINED VOLUME SPIKE:** Prior cycle stabilized at 10 tasks; current pull shows 17 (+70%). No team correction note explaining the rebound. Three new requesters (SendCutSend, rockwest, tripods, APC props, amazon shop supplies, Digikey clikmate) appear with JUL 1–3 due dates — suggests batching or bulk submission. **No audit trail of what changed between pulls.**
-  - 🔴 **TASK CLOSURE WORKFLOW MISSING:** All 17 tasks remain open after "Order Placed," "Order Shipped," or "Order Received" — no subtasks for invoice verification, three-way match, or project billing. **Single point of failure if orders require follow-up or if receipt/invoice matching is delayed.**
-  - 🟡 **TAX EXEMPTION & APPROVAL GAPS:** Multiple tasks show "Tax Exempt?: YES/NO" and "Requires Approval?: No" — no evidence of threshold-based approval enforcement. 10 of 17 are tax-exempt (Jawstec, Amazon IDIQ, rockwest, tripods, APC props, compositeenvisions, digikey IDIQ), yet no PO trail or exemption certificate visible in task notes.
-  - 🟡 **MEREDITH OVERLOAD RISK:** If even one task requires follow-up (shipment delay, invoice mismatch, tax docs), Meredith's capacity evaporates. Nate is severely underutilized (4 of 17 tasks vs. 13 for Meredith).
+  - 🔴 **TWO OVERDUE TASKS (CRITICAL):**
+    - *JawsTec- ByLight Gimbal (69507)* — **Due Jun 25, 2026** (OVERDUE by ~6 days as of Jul 2 pull). Status: "Order Shipped" — **no follow-up recorded.** Assigned to Meredith; requested by Ethan for [043-3] Mustang Pt. 2 (active project).
+    - *instrumart for sales (#1083722)* — **Due Jun 5, 2026** (OVERDUE by ~27 days). Status: "Order Shipped" — **no receipt or invoice verification visible.** Assigned to Meredith; requested by Joshua Fromm for General Sales.
+  - 🔴 **CATASTROPHIC WORKLOAD CONCENTRATION:** Meredith O'hara Needham carries **19 of 21 tasks (90.5%)** — up from 76% in prior cycle. **Zero meaningful delegation to Nate (2 tasks) or Jack (1 task).** If Meredith is unavailable, all 21 tasks stall. **No visible plan to redistribute.**
+  - 🔴 **VOLUME SPIKE PATTERN & NO AUDIT TRAIL:** Tasks increased from 17 → 21 in ~3 days. No team correction, no explanation for rebound. New requesters include Dan (Nvidia Jetson order, requires approval, flagged but not escalated). **Batch submission pattern suggests backlog clearing or bulk request dump.** Unknown if orders were genuinely requested fresh or queued.
+  - 🔴 **APPROVAL WORKFLOW BROKEN:** 1 of 21 tasks requires approval (Nvidia Jetson Orin Nano, requested by Dan, due Jul 2, assigned to Jack Elston). **No evidence of approval step or escalation.** Task is live and due in 48 hours. **Risk: Meredith may be unaware Jack owns an approval-required purchase.**
+  - 🔴 **TASK CLOSURE WORKFLOW MISSING:** 13 of 21 tasks show "Order Placed" or "Order Shipped" — **none have downstream subtasks for:**
+    - Receipt confirmation / three-way match (PO ↔ invoice ↔ receipt)
+    - Tax exemption certificate storage or verification
+    - Project billing reconciliation
+    - Invoice approval / payment authorization
+    - **Silent failures likely:** If a shipment is delayed, invoice doesn't match, or receipt is lost, no one will know until project reconciliation or audit.
+  - 🟡 **TAX EXEMPTION & PAYMENT TRACKING GAPS:** 15 of 21 tasks are tax-exempt (70%); 6 are not. No evidence of exemption certificates, vendor account setup, or payment method tracking. "Requires Approval" custom field exists but is unenforced — single task flagged "Yes" was not routed to approver.
+  - 🟡 **MULTI-PROJECT BILLING CONFUSION:** One task (jawstec for various projects, #SF311738) is assigned to MULTIPLE PROJECTS with note "PLEASE PROVIDE BREAKDOWN IN THE DESCRIPTION" — **no breakdown provided.** Assigned to Meredith; cannot be billed correctly. Joshua Fromm (requester) may not know this is unresolved.
 
 ## Key Deliverables & Milestones
 
-### **DUE JUL 1–3, 2026 — 17 TASKS (IMMEDIATE ACTION WINDOW, 48–72 HOURS)**
+### **OVERDUE — IMMEDIATE ACTION REQUIRED**
 
 | Task | Due | Vendor | Assigned | Project | Requester | Status | Notes |
 |------|-----|--------|----------|---------|-----------|--------|-------|
-| jawstec for s0 idiq (#69631) | Jul 1, 2026 | Jawstec | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | Order Placed | Tax Exempt; Requested Jun 29 |
-| jawstec for s3 sales (#69630) | Jul 1, 2026 | Jawstec | Meredith O'hara Needham | General Sales | Joshua Fromm | Order Placed | Tax Exempt; Requested Jun 29 |
-| amazon for s0 hurricane idiq | Jul 1, 2026 | Amazon | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | Order Placed | Tax Exempt; Requested Jun 29 |
-| HiTec- ByLight (#5526) | Jul 1, 2026 | HiTec/ByLight | Nate Straus | [043-3] Mustang Pt. 2 | Ethan | Order Received | Requested Jun 23 |
-| GetFPV (#1001480217) | Jul 1, 2026 | GetFPV | Nate Straus | Shop Supplies | Alex | Order Received | Requested Jun 22 |
-| digikey for idiq (#009799) | Jul 1, 2026 | Digikey | Nate Straus | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | Order Received | Tax Exempt; Requested Jun 24 |
-| SendCutSend | Jul 1, 2026 | SendCutSend | Meredith O'hara Needham | General Sales | Alex | Order Placed | Tax Exempt; Requested Jul 1 |
-| Digikey- Bylight Order (#100124240) | Jul 2, 2026 | Digikey/ByLight | Meredith O'hara Needham | [043-3] Mustang Pt. 2 | Ethan | Order Shipped | Requested Jun 30 |
-| Digikey / Protektive Pak (#100117933) | Jul 2, 2026 | Digikey/Protektive Pak | Meredith O'hara Needham | [001-1] IRAD General | Nate | Order Shipped | Requested Jun 30 |
-| Extra FTDI USB boards (#100117560) | Jul 2, 2026 | [Unknown] | Meredith O'hara Needham | Shop Supplies | Sam | Order Shipped | Requested Jun 30 |
-| compositeenvisions for s3 sales | Jul 2, 2026 | Composite Envisions | Nate Straus | General Sales | Joshua Fromm | Order Received | Tax Exempt; Requested Jun 16 (oldest request in current batch) |
-| rockwest for s3 sales (#Z100709106) | Jul 3, 2026 | Rockwest | Meredith O'hara Needham | General Sales | Joshua Fromm | Order Placed | Tax Exempt; Requested Jul 1 |
-| tripods for s3 sales (#1130358693) | Jul 3, 2026 | [Tripod vendor] | Meredith O'hara Needham | General Sales | Joshua Fromm | Order Placed | Tax Exempt; Requested Jul 1 |
-| apc props for s3 sales (#55048) | Jul 3, 2026 | APC | Meredith O'hara Needham | General Sales | Joshua Fromm | Order Placed | Tax Exempt; Requested Jul 1 |
-| amazon for shop supplies | Jul 3, 2026 | Amazon | Meredith O'hara Needham | Shop Supplies | Joshua Fromm | Order Placed | Tax Exempt: NO; Requested Jul 1 |
-| Digikey (clikmate etc) (#100145658) | Jul 3, 2026 | Digikey | Meredith O'hara Needham
+| JawsTec- ByLight Gimbal (69507) | Jun 25, 2026 ⚠️ **OVERDUE ~6 days** | Jawstec | Meredith O'hara Needham | [043-3] Mustang Pt. 2 | Ethan | Order Shipped | Requested Jun 23; No follow-up recorded; Active project affected |
+| instrumart for sales (#1083722) | Jun 5, 2026 ⚠️ **OVERDUE ~27 days** | Instrumart | Meredith O'hara Needham | General Sales | Joshua Fromm | Order Shipped | Requested Jun 3; No receipt/invoice verification; Long overdue |
+
+### **DUE JUN 25 – JUL 4, 2026 — 19 TASKS (IMMEDIATE ACTION WINDOW, 1–7 DAYS)**
+
+| Task | Due | Vendor | Assigned | Project | Requester | Status | Requires Approval? | Notes |
+|------|-----|--------|----------|---------|-----------|--------|-----|-------|
+| Nvidia Jetson Orin Nano Super Developer Kit | Jul 2, 2026 | Nvidia | Jack Elston | [001-7] IRAD S3 | Dan | OPEN | **YES** | **ESCALATION REQUIRED:** Approval-required task due in 48 hrs; assigned to Jack (not typical approver); no approval visible; not routed to Meredith or manager |
+| Digikey- Bylight Order (#100124240) | Jul 2, 2026 | Digikey/ByLight | Meredith O'hara Needham | [043-3] Mustang Pt. 2 | Ethan | Order Shipped | No | Requested Jun 30; Status shows shipped but no receipt confirmation |
+| Digikey / Protektive Pak (#100117933) | Jul 2, 2026 | Digikey/Protektive Pak | Meredith O'hara Needham | [001-1] IRAD General | Nate | Order Shipped | No | Requested Jun 30; Status shows shipped but no receipt confirmation |
+| compositeenvisions for s3 sales | Jul 2, 2026 | Composite Envisions | Nate Straus | General Sales | Joshua Fromm | Order Received | No | Requested Jun 16 (oldest current request); Tax Exempt; One of only 2 tasks assigned to Nate |
+| amazon for shop supplies | Jul 3
