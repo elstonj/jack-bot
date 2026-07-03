@@ -13,43 +13,78 @@
   },
   "contract": {
     "type": "unknown",
-    "number": null,
+    "number": "1305M226D0012",
     "total_value": 483000.0,
-    "start_date": "2026-07-31",
-    "end_date": "2026-07-31",
-    "payment_cadence": null,
-    "documents": []
+    "start_date": "2026-02-01",
+    "end_date": "2031-01-31",
+    "payment_cadence": "milestone / task order based",
+    "documents": [
+      "drive://Budget Structure",
+      "drive://(1305M226D0012) Attachment 1-Specifications_Black Swift.pdf",
+      "drive://(1305M226D0012) Attachment 2-Schedule of Items and Prices_1305M226D0012.pdf"
+    ]
   },
   "budget": {
-    "approved": 483000.0,
-    "approved_source": "asana_custom_field",
-    "line_items": [],
+    "approved": 13281250.0,
+    "approved_source": "sow_drive",
+    "line_items": [
+      {
+        "category": "Equipment",
+        "amount": 10986625.0,
+        "description": "Black Swift S0 sUAS Platforms: 150 units @ $18k (Period 1), 150 @ $18,630 (Period 2), 125 @ $19,282 (Period 3), 125 @ $19,957 (Period 4), 125 @ $20,655 (Period 5)",
+        "source_doc": null
+      },
+      {
+        "category": "Labor",
+        "amount": 426000.0,
+        "description": "Mission Days Operational support (30 days/period @ $2,850 x 5 periods); Operational & Testing Support (6 days/period @ $6,000 x 5 periods); Training sessions (Operator/Observer $6k + Instructor $600 per period x 5 periods)",
+        "source_doc": null
+      },
+      {
+        "category": "Other",
+        "amount": 60000.0,
+        "description": "Course Development: Operator and Observer Course ($6k x 5 periods) + Instructor Training Course ($6k x 5 periods)",
+        "source_doc": null
+      },
+      {
+        "category": "Other",
+        "amount": 990000.0,
+        "description": "Non-Recurring Engineering: Technical Documentation NTE $66k x 5 periods; NRE Modeling NTE $66k x 5 periods; NHC workflow integration NTE $66k x 5 periods; Total NRE = $990k (5 periods × 3 line items × $66k)",
+        "source_doc": null
+      },
+      {
+        "category": "Travel",
+        "amount": 250000.0,
+        "description": "Travel for Operational Support (FTR-compliant): NTE $50k per ordering period x 5 periods",
+        "source_doc": null
+      }
+    ],
     "spent": {
       "labor": {
-        "amount": 133523.75,
+        "amount": 137382.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-02"
+        "last_updated": "2026-07-03"
       },
       "purchases": {
         "amount": 970.76,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-07-02"
+        "last_updated": "2026-07-03"
       },
       "other_qbo": {
-        "amount": 130.0,
+        "amount": 189.52,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-07-02"
+        "last_updated": "2026-07-03"
       },
-      "total": 134624.51,
+      "total": 138542.78,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 348375.49,
+    "remaining": 13142707.22,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-02T09:06:52Z"
+    "last_reconciled": "2026-07-03T09:03:06Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -99,6 +134,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-07-02T09:06:52Z",
+  "last_full_rebuild": "2026-07-03T09:03:06Z",
   "last_incremental_update": null
 }

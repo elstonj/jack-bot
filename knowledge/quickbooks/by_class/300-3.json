@@ -4,15 +4,15 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-07-01",
-    "end": "2026-07-02"
+    "start": "2026-07-02",
+    "end": "2026-07-03"
   },
   "totals": {
     "revenue": 144000.0,
-    "expenses": 130.0,
+    "expenses": 189.52,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 104.0,
-      "Inventory Asset": 26.0
+      "DIRECT COSTS:DC-Direct Material Purchases": 98.24,
+      "Inventory Asset": 91.28
     }
   },
   "invoices": [
@@ -67,29 +67,42 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-01",
-      "doc_number": "03236",
-      "total": 195.0,
-      "attributed": 130.0,
+      "date": "2026-07-02",
+      "doc_number": "",
+      "total": 479.9,
+      "attributed": 122.6,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep. \n\nInitial wire transfer through Wells Fargo was returned.",
+      "memo": "",
       "lines": [
         {
-          "amount": 130.0,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep"
-        },
-        {
-          "amount": 26.0,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep"
-        },
-        {
-          "amount": 39.0,
+          "amount": 357.3,
           "account": "Inventory Asset",
-          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep"
+          "description": "Items for S3 sales"
+        },
+        {
+          "amount": 122.6,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "IDIQ  GPS_ground_plane.dxf"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-02",
+      "doc_number": "100171793",
+      "total": 66.92,
+      "attributed": 66.92,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 66.92,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Extra AD parts"
         }
       ]
     }

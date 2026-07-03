@@ -1,10 +1,10 @@
 # Maciej Stachura — Email Patterns (UPDATED)
 
 ## Communication Volume
-- **Total messages scanned:** 238 across ~11-day period (21 Jun – 2 Jul 2026)
-- **New data:** 22 additional messages (2 Jul 2026)
-- **Estimated volume:** Moderate-to-high sustained; slight deceleration post 30 Jun but strategic momentum maintained
-- **Date range expansion:** Now extends through 2 Jul 2026
+- **Total messages scanned:** 251 across ~12-day period (21 Jun – 3 Jul 2026)
+- **New data:** 13 additional messages (2–3 Jul 2026)
+- **Estimated volume:** Moderate-to-high sustained; post-30 Jun shows operational consolidation and government follow-up rather than new escalation
+- **Date range expansion:** Now extends through 3 Jul 2026
 - **Daily breakdown (updated):**
   - Monday 22 Jun (~20 messages)
   - Tuesday 23 Jun (~15 messages)
@@ -16,8 +16,9 @@
   - Monday 29 Jun (~20+ messages, government/military outreach, Krateo Sky GTM finalization)
   - **Tuesday 30 Jun (~36+ messages, SUSTAINED CRITICAL ESCALATION — government/military coordination, NOAA software offering, counter-UAS partnerships, supply chain issues)**
   - Wednesday 1 Jul (~19 messages, continued operational and government coordination)
-  - Thursday 2 Jul (~3 messages through 01:46 UTC, continued momentum)
-- **Pattern:** Sustained high engagement through 30 Jun; post-30 Jun shows operational consolidation and government follow-up rather than new escalation. No decay in strategic initiatives.
+  - Thursday 2 Jul (~10 messages through 19:04 UTC, continued momentum with internal pressure escalation)
+  - Friday 3 Jul (~3 messages through 09:46 CEST, monitoring/automation focus)
+- **Pattern:** Peak activity 24–30 Jun; sustained high engagement through 2 Jul; post-2 Jul shows shift to vendor/supplier management and technical monitoring. No decay in strategic initiatives; operational phase transition visible.
 
 ## Key Correspondents
 
@@ -25,64 +26,68 @@
 
 - **Jack Elston** (elstonj@blackswifttech.com) — **CRITICAL HUB** (30+ interactions across period)
   - Government/military escalation: S0 presentation coordination with UK MOD (Simon Laurence) and US Navy (Ruiz-Reyes, Kachel)
-  - Krateo Sky strategy and NOAA software offering coordination (30 Jun 11:25, marked IMPORTANT)
+  - Krateo Sky strategy and NOAA software offering coordination
   - Murphy's Pond UAS thermal survey field operations
   - Central point of contact for all major strategic initiatives
-  - **NEW (1 Jul):** "Fwd: Full-time Salary response" (marked IMPORTANT, 09:36) — indicates compensation/HR escalation or staffing decision
-  - **SUSTAINED:** S0 presentation coordination with Simon Laurence (UK MOD) continuing (1 Jul 22:33, marked IMPORTANT)
+  - **NEW (2 Jul 10:40):** "Re: Pressure" (marked IMPORTANT) — direct response to internal Krateo Sky escalation; Jack's involvement confirms C-level decision-making authority
+  - **SUSTAINED:** S0 presentation coordination continuing
 
-- **Ariel Avitan** (Ariel@krateosky.com, Krateo Sky) — **SUSTAINED CRITICAL (7+ interactions)**
-  - NOAA partnership expansion; software-as-service strategy
-  - **NEW SIGNAL:** Murphy's Pond dataset coordination and NOAA technical engagement (see Stefan Metzger below)
-
-- **Brian Grubel** (Brian@krateosky.com, Krateo Sky) — **ESCALATING (30 Jun)**
-  - 30 Jun 00:01: Re: "Another interesting company" (marked IMPORTANT)
-  - Rapid engagement suggests high-priority partnership or acquisition evaluation
-
-- **Bob Smith** (Bob@krateosky.com, Krateo Sky) — **ESCALATING INTERNAL PRESSURE (1 Jul)**
-  - **NEW (1 Jul 22:52):** "Pressure" thread (marked IMPORTANT, copied to Jack Elston, LisaMarie Cheney, Jed Leonard, Daniel Prendergast)
-  - Maciej responds 1 Jul 20:12 (SENT)
-  - **SIGNAL:** Internal escalation/tension within Krateo Sky or BST-Krateo Sky partnership; subject line "Pressure" suggests deadline, resource, or strategic conflict
-  - **CRITICAL:** Multiple key stakeholders copied indicates company-wide decision point
-
-- **Jeffrey Orton** (jorton@quspin.com, QuSpin) — **ACTIVE TECHNICAL ESCALATION (30 Jun)**
-  - 30 Jun 11:07 & 12:21: "Re: QuSpin Question" (marked IMPORTANT)
-  - Sensor integration blocker or urgent technical resolution
+- **Bob Smith** (Bob@krateosky.com, Krateo Sky) — **ESCALATING INTERNAL PRESSURE (2 Jul)**
+  - **NEW (2 Jul 18:36):** "Re: Pressure" (marked IMPORTANT, copied to Jack Elston)
+  - Maciej directly engaged in resolution/response
+  - **SIGNAL:** Internal escalation within Krateo Sky or BST-Krateo Sky partnership persists through 2 Jul; multi-day thread suggests unresolved strategic or operational conflict requiring executive coordination
 
 - **Daniel Prendergast** (daniel.prendergast@blackswifttech.com, BST) — **SUPPLY CHAIN & GOVERNMENT ESCALATION (continued)**
-  - Battery shipment coordination with Aeronet (Robert Correia) — Quote #141681/103032391 (marked IMPORTANT)
-  - US Navy liaison: RE: "(U) [Non-DoD Source] Re: RFI S0" (1 Jul 12:43, marked IMPORTANT, with Kachel USSOCOM)
-  - **NEW (1 Jul 14:57):** "Re: Arctic UAS Location Change" (marked IMPORTANT)
-    - To: Maia Varanda, S Rowlands (Invest Ottawa), Noah Ray, Trenton McKibben, Chris Pitfield (Nextech Solutions)
-    - **SIGNAL:** Physical relocation of UAS operations or equipment; Canadian coordination (Ottawa, Invest Ottawa involvement)
-  - **SUSTAINED:** Aeronet battery logistics continue (1 Jul 11:22, 11:41, 14:21 UTC)
+  - **NEW (2 Jul 19:04):** "RE: (U) [Non-DoD Source] Re: RFI S0" (marked IMPORTANT)
+    - From: Evan M Wolff (USSOCOM), copied to Kachel (Zachary O, USSOCOM)
+    - Daniel receives direct US Navy/SOCOM response; Maciej in loop
+    - **SIGNAL:** Government RFI (Request for Information) response flowing through official military channels; formal procurement or evaluation process underway
+  - Battery shipment coordination with Aeronet (Robert Correia) continues
+  - Arctic UAS relocation coordination remains active
 
-- **Simon Laurence** (Simon.Laurence157@mod.gov.uk, UK MOD) — **SUSTAINED GOVERNMENT ESCALATION**
-  - **NEW (1 Jul 22:33):** "Re: S0 presentation" (marked IMPORTANT)
-  - Direct exchange with Jack Elston on S0 presentation timing and details
-  - **SUSTAINED SIGNAL:** Multiple same-day exchanges through 1 Jul indicate ongoing strategic coordination; UK MOD engagement remains active
+- **Jeffrey Orton** (jorton@quspin.com, QuSpin) — **SUSTAINED TECHNICAL ESCALATION (2 Jul)**
+  - **NEW (2 Jul 13:02):** "Re: QuSpin Question" (marked IMPORTANT)
+    - Addressed to Sam Hild (sam.hild@blackswifttech.com, new BST contact)
+    - Maciej copied on sensor integration coordination
+  - **SIGNAL:** QuSpin sensor technical issues escalated to BST engineering team; Sam Hild emerges as primary technical POC
 
-- **Stefan Metzger** (smetzger@atmofacts.com, Atmofacts) — **ACTIVE DATA COORDINATION (escalating)**
-  - **NEW (1 Jul 20:01):** "Re: Murphy's Pond Dataset" (marked IMPORTANT, sent 20:13; Metzger responds 1 Jul 01:46 UTC, marked IMPORTANT)
-  - Bidirectional rapid exchange indicates urgent data processing/analysis coordination for Murphy's Pond UAS thermal survey
-  - **SIGNAL:** Data from field operations being actively processed; continued partnership momentum post-survey
+- **Sam Hild** (sam.hild@blackswifttech.com, BST) — **NEW TECHNICAL ESCALATION (2 Jul)**
+  - **NEW:** "Re: QuSpin Question" (2 Jul 09:34, marked IMPORTANT, to Jeffrey Orton)
+  - **NEW:** "Re: QuSpin Question" (2 Jul 13:02, marked IMPORTANT, from Jeffrey Orton)
+  - **SIGNAL:** Bidirectional rapid exchange; Sam appears to be primary BST engineering contact for sensor integration; QuSpin blocker remains unresolved through 2 Jul
 
-- **Simoneau, Trevor** (SIMONET1@erau.edu, Embry-Riddle Aeronautical University) — **NEW TECHNICAL ESCALATION (1 Jul)**
-  - **NEW:** "Quick Question re ADS-B" (1 Jul 19:41, marked IMPORTANT)
-  - Jack Elston responds 1 Jul 13:45 (SENT, marked IMPORTANT)
-  - Simoneau replies 1 Jul 19:57 (marked IMPORTANT)
-  - Subject: "[EXTERNAL] Re: Quick Question re ADS-B" (bidirectional with Jack Elston)
-  - **SIGNAL:** Academic partnership (ERAU); ADS-B (Automatic Dependent Surveillance–Broadcast) integration or technical question; may relate to UAS flight operations/airspace integration
-  - **NEW CONTACT:** First appearance; suggests expanding academic/technical collaborations
-
-- **LisaMarie Cheney** (LisaMarie@krateosky.com, Krateo Sky) — **ESCALATING (1 Jul)**
-  - **NEW (2 Jul 04:24):** "Re: Intro: HALO Aerospace (counter-UAS) with Krateosky team" (marked IMPORTANT)
-    - To: Daniel Hesselius (HALO), Maciej Stachura, Bob Smith
-    - Maciej copied on bidirectional HALO counter-UAS discussion
+- **LisaMarie Cheney** (LisaMarie@krateosky.com, Krateo Sky) — **COUNTER-UAS ESCALATION (2 Jul)**
+  - **NEW (2 Jul 14:33):** Daniel Hesselius (HALO Aerospace) responds to LisaMarie regarding counter-UAS intro; Maciej remains in coordination loop
   - **SUSTAINED:** Counter-UAS/anti-drone capability integration continues with HALO Aerospace
 
-- **Daniel Hesselius** (daniel.hesselius@halo-aero.com, HALO Aerospace) — **SUSTAINED COUNTER-UAS ESCALATION**
-  - **NEW (2 Jul 04:24):** LisaMarie Cheney responds to original intro; Maciej remains in loop
-  - Counter-UAS partnership with Krateo Sky team continues
+- **Daniel Hesselius** (daniel.hesselius@halo-aero.com, HALO Aerospace) — **SUSTAINED COUNTER-UAS ESCALATION (2 Jul)**
+  - **NEW (2 Jul 14:33):** "Re: Intro: HALO Aerospace (counter-UAS) with Krateosky team" (marked IMPORTANT)
+    - To: LisaMarie Cheney, Bob Smith
+    - Maciej part of integration discussion
+  - Counter-UAS partnership momentum continues
 
-- **Kachel, Zachary O** (zachary.o.kachel.mil@socom.mil
+- **Joseph Cione** (joe.cione@noaa.gov, NOAA Federal) — **NEW SUSTAINED NOAA ESCALATION (2 Jul)**
+  - **NEW (2 Jul 08:07):** "Re: Update to UAS experiments" (marked IMPORTANT)
+    - To: Jason Sippel (jason.sippel@noaa.gov, NOAA Federal)
+    - Maciej copied on UAS experiments coordination
+  - **SIGNAL:** Direct NOAA-to-NOAA exchange with Maciej in loop; experiments (plural) suggests multiple concurrent UAS projects with NOAA; Murphy's Pond and broader NOAA software partnership expanding
+
+- **Evan M Wolff** (evan.m.wolff.mil@socom.mil, USSOCOM) — **NEW GOVERNMENT ESCALATION (2 Jul)**
+  - **NEW (2 Jul 19:04):** "RE: (U) [Non-DoD Source] Re: RFI S0" (marked IMPORTANT)
+    - Direct SOCOM response; formal government communication protocol visible (classified markings: "(U)" = Unclassified)
+  - **SIGNAL:** Official US Navy/SOCOM procurement process; RFI S0 response indicates formal evaluation phase
+
+- **Ariel Avitan** (Ariel@krateosky.com, Krateo Sky) — **SUSTAINED CRITICAL**
+  - NOAA partnership expansion; software-as-service strategy
+  - Murphy's Pond dataset coordination
+
+- **Brian Grubel** (Brian@krateosky.com, Krateo Sky) — **PARTNERSHIP EVALUATION**
+  - 30 Jun 00:01: Re: "Another interesting company" (marked IMPORTANT)
+
+- **Simon Laurence** (Simon.Laurence157@mod.gov.uk, UK MOD) — **SUSTAINED GOVERNMENT ESCALATION**
+  - S0 presentation coordination continues through 1 Jul
+
+- **Stefan Metzger** (smetzger@atmofacts.com, Atmofacts) — **ACTIVE DATA COORDINATION**
+  - Murphy's Pond dataset analysis; bidirectional rapid exchanges
+
+- **Simoneau, Trevor** (SIMONET1

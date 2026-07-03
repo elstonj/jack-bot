@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $4,462,176.28
-- **Total Expenses (Bills + Purchases):** $1,333,288.50
+- **Total Expenses (Bills + Purchases):** $1,333,357.42
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,128,887.78 (invoiced minus expenses)
+- **Net Position:** $3,128,818.86 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -76,13 +76,14 @@
 
 ---
 
-### **Materials & Supplies: $472,817.22**
-**Number of transactions:** 213  
+### **Materials & Supplies: $472,884.14**
+**Number of transactions:** 215  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
   - **DKC*DIGI KEY CORP - 4617** (2026-06-17): $170.70 [DC-Direct Material Purchases]
   - **DKC*DIGI KEY CORP - 4617** (2026-06-03): $38.57 [DC-Direct Material Purchases]
   - **DKC*DIGI KEY CORP - 4617** (2026-06-01): $45.29 [DC-Direct Material Purchases]
+  - **DKC*DIGI KEY CORP - 4617** (2026-07-02): **$66.92** [DC-Direct Material Purchases] — Extra AD parts *(NEW)*
 - **JAWSTEC:** 
   - Prior balance: $19,627.62
   - **Purchase #69631** (2026-06-29): **$562.44** [DC-Direct Material Purchases] — IDIQ components shipped to Sean Cole
@@ -124,21 +125,12 @@
   - $26.00 [DC-Direct Material Purchases] — Wire transfer (no Asana request; Alex purchase via email)
   - *Note: Initial wire transfer through Wells Fargo was returned*
   - Subtotal materials: **$156.00**
+- **Purchase** (2026-07-02): **$122.60** [DC-Direct Material Purchases] *(NEW)* — IDIQ GPS_ground_plane.dxf
 
-**Subtotal new materials & supplies (2026-06-24 to 2026-07-02): $2,298.41**
+**Subtotal new materials & supplies (2026-06-24 to 2026-07-03): $2,420.33**
 
-**Total direct cost materials & supplies through 2026-09-28: $472,817.22** *(confirmed final)*
+**Total direct cost materials & supplies through 2026-09-28: $472,884.14** *(confirmed final)*
 
 ---
 
 ### **Travel: $0.00**
-**Number of transactions:** 0
-
----
-
-### **Shipping/Freight: $1,497.57**
-**Number of transactions:** 15  
-
-**Key transactions:**
-- **Purchase #260607W011757** (2026-06-25): **$90.16** [DC-Direct Cost Shipping, Freight & Delivery]
-  - Phase1 Aviation shipment for IDIQ (dated

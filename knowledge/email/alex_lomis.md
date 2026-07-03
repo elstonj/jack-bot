@@ -1,96 +1,92 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- Total messages scanned: 69 (50 previous + 19 new)
-- Date range: 27 Jun – 2 Jul 2026
-- New data concentrated on 1–2 Jul (19 emails); continues end-of-month/early-month spike pattern
-- Estimated weekly volume: 17–20 emails (still light; insufficient for reliable daily average)
-- Pattern: Heavy vendor/procurement activity (11/19 new emails); internal and critical external correspondence lighter but consistent
+- **Total messages scanned: 104 (69 previous + 35 new)**
+- **Date range: 27 Jun – 3 Jul 2026**
+- **New data concentrated on 2 Jul 2026 (33/35 new emails; spike day)**
+- **Estimated weekly volume: 17–20 emails** (pattern consistent; light but steady)
+- **Pattern shift**: Procurement/vendor activity now dominates dramatically (31/35 new emails = 89% vendor routing); critical project correspondence minimal (1 visible); time-tracking tool added
 
 ## Key Correspondents
 
-**Top Senders:**
-- Vendor/Purchasing group routing — 11/19 new emails (B&H Photo, SendCutSend, Rock West Composites, APC Propellers, HeliDirect, DigiKey)
-- Asana notifications — 1 new email (task reminder)
-- Google Gemini — 1 new email (meeting notes delivery)
-- Design Gateway Newsletter — 1 new email (FPGA/security IP update)
-- Protolabs — 1 new email (July newsletter)
-- Brittany Barrow (Rapid Axis) — 2 new emails (promotional; duplicate to two email addresses)
-- Simon Laurence (Simon.Laurence157@mod.gov.uk) — 1 new email (UK MOD; S0 presentation reply)
-- Meredith Needham (meredith.needham@blackswifttech.com) — 1 new email (P50B Testing project)
+**Top Senders (Updated):**
+- **Vendor/Purchasing group routing — 31/35 new emails (89%)**
+  - New vendors: Aerobertics, RedwingRC (×3 emails), MKS Servos, JawsTec Manufacturing (×2), GetFPV, FETtec, Spindrift Market (×4 shipment notifications), SendCutSend (×4), DigiKey, APC Propellers (×2), General Air Service
+  - Continuing: Rock West Composites, PayPal transaction notifications (×3)
+- **Asana notifications — 1 new email (task reminder, Thu 2 Jul)**
+- **Toggl Track — 1 new email (time-tracking tool; marked IMPORTANT; no subject)**
+- **Beau Ritkes (Apex Capital Partners) — 1 new email (marked IMPORTANT; financial/investment discussion)**
+- **Melina Borin (Moli Energy) — 1 new email to Meredith Needham (marked IMPORTANT; P50B Testing reply)**
+- **Aerobertics — 2 new emails (order confirmation + delivery confirmation)**
 
 **Top Recipients:**
-- purchasing@blackswifttech.com (group routing) — 11/19 new emails
-- Direct to Alex's inbox — 6/19 new emails (critical work: S0 MOD, P50B, meeting notes, task reminders)
-- Note: Meredith Needham email visible in thread to Rebecca Sakurdeep (Moli Energy) — **Alex appears CC'd or threaded but not primary sender**
+- **purchasing@blackswifttech.com (group routing) — 31/35 new emails** (vendor confirmations, shipping, invoices, payment requests)
+  - Note: Jack Elston appears as recipient on PayPal transaction notifications (Redwing RC, MKS Servos, Aerobertics) — suggests Jack handles specific vendor payments
+- **Direct to alex.lomis@blackswifttech.com — 3/35 new emails**
+  - Toggl Track (time-tracking)
+  - GetFPV promotional (marked IMPORTANT)
+  - Asana task reminder
+- **Direct to alex.lomis@bst.aero — 1/35 new email** (Beau Ritkes / Apex Capital Partners financial discussion; marked IMPORTANT)
+- **Meredith Needham visible as primary recipient** on P50B Testing Reply (Melina Borin/Moli Energy; marked IMPORTANT)
 
-**Internal vs External:**
-- External: 13/19 new emails (vendors: 11, external partners: 2)
-- Internal: 6/19 new emails (Meredith Needham: 1, Asana: 1, Gemini notes: 1, Simon Laurence MOD: 1; routing through purchasing: 2)
-- **Pattern shift**: Procurement/vendor activity dominates new batch; critical S0/P50B correspondence lighter (1 email each visible)
+**Internal vs External (Updated):**
+- **External: 33/35 new emails (94%)** — vendors dominate; 1 financial/investment contact
+- **Internal: 2/35 new emails (6%)** — Asana task reminder; P50B thread (Moli Energy reply to Meredith)
+- **Pattern intensification**: Procurement activity now overwhelming; project/MOD correspondence absent from this batch
 
 ## Topic Patterns
 
-**Recurring Themes:**
-- **S0 MOD Project** — 1 new email (Simon Laurence reply on "S0 presentation"; marked IMPORTANT)
-  - Suggests ongoing presentation/review cycle from 30 Jun meeting prep
-- **P50B Testing Request** — 1 new email visible (Meredith Needham to Rebecca Sakurdeep/Moli Energy; marked IMPORTANT)
-  - Indicates active project coordination on testing work
-- **Vendor procurement** — 11/19 emails (component/manufacturing orders continuing):
-  - B&H Photo shipping notification
-  - SendCutSend order review (SQ29Q224)
-  - Rock West Composites order (#Z100709106)
-  - APC Propellers order received
-  - HeliDirect promotional (marked IMPORTANT — unusual for promotional)
-  - DigiKey PO Acknowledgement (#100145658; duplicate routing)
-- **Technical/Engineering updates** — 3 new emails (marked IMPORTANT):
-  - Design Gateway Newsletter: "SHA3-IP - Pure Hardware Hashing Engine for FPGA | Security IP Suite" — **NEW TECHNICAL FOCUS** — cryptographic IP/FPGA development
-  - Protolabs July newsletter (manufacturing/rapid prototyping)
-  - Asana task reminder (1 task due)
-- **Administrative/System notifications**:
-  - Gemini notes from "BST Internal Update Meeting" Jul 1 (auto-generated meeting notes; marked IMPORTANT)
-  - PCI Compliance Reminder (purchasing-related)
-  - Vendor promotional (Rapid Axis; marked IMPORTANT; duplicate routing to both @blackswifttech.com and @bst.aero addresses)
+**Vendor/Procurement Orders (31/35 emails — dominant theme):**
+- **Rotorcraft/Drone components** (suggests P50B or similar platform development):
+  - RedwingRC: Order #34416 ($705.87) — RC aircraft/quadcopter parts
+  - MKS Servos: $82.00 transaction (servo motors)
+  - APC Propellers: Orders #55048, complete status
+  - FETtec: Order received (likely motor controllers/ESCs)
+  - GetFPV promotional email marked IMPORTANT (commercial drone supplier)
+  - HeliDirect: 4th of July promotional (helicopter/rotorcraft equipment; routed to Meredith Needham as purchasing contact)
+- **Composite/Manufacturing components**:
+  - Rock West Composites: Invoice + shipment confirmation (continuing from previous batch)
+  - SendCutSend: ×4 emails (quotes + order approvals for custom sheet metal/laser cutting; order SQ29Q224 and SF311738)
+  - JawsTec Manufacturing: Order #69694 (×2 emails; invoice + shipment notification)
+  - Spindrift Market: ×4 shipment notifications (multiple orders SH62377201, SH62377422; out-for-delivery status)
+  - Aerobertics: Order VO-2026-07-6668 (European aerospace supplier; €451.03 transaction via PayPal)
+- **Electronics/Components**:
+  - DigiKey: PO Acknowledgement #100171793 (continuing component sourcing)
+- **Services/Support**:
+  - General Air Service: Invoice 97639213-1 for control# HOUSE (unclear service type; may be maintenance/logistics)
 
-**Project/Component Names Visible:**
-- `S0` — Continues; MOD project presentation/review cycle
-- `P50B` — Continues; Moli Energy testing project
-- `SHA3-IP` — **NEW** — Cryptographic hashing IP (FPGA); suggests Alex may be evaluating security IP libraries for project
-- `bartington_mag_adc` — Not visible in new batch (component procurement ongoing but not explicitly mentioned)
+**Project/Program References:**
+- **P50B Testing** — 1 new email visible (Melina Borin reply to Meredith Needham; marked IMPORTANT; indicates active client engagement)
+- **S0 MOD Project — absent from this batch** (was prominent in previous scan; no new correspondence visible)
+- No new mentions of `SHA3-IP`, `bartington_mag_adc`, or other cryptographic components
 
-**Government/Defense/Aerospace Indicators:**
-- Simon Laurence (UK MOD) — S0 presentation reply thread continues
-- No new US Navy or Lockheed Martin correspondence visible in this batch
-- FPGA/cryptographic IP interest suggests possible defense/security applications (SHA3-IP is typical in encrypted communications/secure avionics)
+**Financial/Investment Activity (New):**
+- **Beau Ritkes (Apex Capital Partners)** — "Exercise Anduril options without selling" (marked IMPORTANT)
+  - **Significant observation**: Suggests Alex or BST leadership managing investment/equity position in Anduril Industries (defense tech company)
+  - Not directly project-related; appears to be personal/corporate financial matter routed to alex.lomis@bst.aero
+
+**Administrative/System Activity:**
+- **Toggl Track** — Time-tracking tool notification (marked IMPORTANT; **NEW** — indicates Alex or team now using time-tracking; may signal project accounting/billing oversight)
+- **PayPal transaction notifications** — Routed to Jack Elston for payment approval (×3: Redwing RC, MKS Servos, Aerobertics)
 
 ## Communication Patterns
 
-- **Vendor routing consolidation**: 11/19 emails use purchasing@blackswifttech.com group routing (order confirmations, shipping notifications, promotional)
-- **Critical correspondence filtering**: S0 MOD and P50B emails delivered directly to personal inbox; marked IMPORTANT
-- **Email address variants**: Alex receives emails at both `alex.lomis@blackswifttech.com` and `alex.lomis@bst.aero` (domain aliasing for external/internal communications)
-- **Meredith Needham prominence**: Visible as active sender in P50B thread; heliDirect email routed to Meredith as purchasing contact (suggests coordination on procurement for P50B project)
-- **Meeting notes automation**: Google Gemini auto-generates notes from "BST Internal Update Meeting" and delivers to Alex (suggests Alex attended or was enrolled; marked IMPORTANT)
-- **Newsletter/technical update interest**: Design Gateway and Protolabs newsletters marked IMPORTANT — indicates Alex actively follows manufacturing and IP supplier developments
-- **Promotional email tagging**: Rapid Axis holiday greeting marked both IMPORTANT and marked as duplicate (suggests Alex/team may monitor vendor relationship or campaign tracking)
-- **All new emails unread** at time of scan
+- **Procurement consolidation extreme**: 31/35 emails (89%) are vendor order confirmations, shipping, and invoicing — all routed through purchasing@blackswifttech.com group
+- **Dual email domain active**: alex.lomis@bst.aero used for sensitive/external financial correspondence (Apex Capital Partners); alex.lomis@blackswifttech.com used for internal task/tool notifications
+- **Jack Elston appears as payment approver**: PayPal transactions routed to Jack for 3 specific vendors (Redwing RC, MKS Servos, Aerobertics); suggests Jack has procurement oversight for certain categories
+- **Meredith Needham continues as P50B primary**: Melina Borin (Moli Energy) replies directly to Meredith; Alex appears outside direct P50B client loop
+- **All new emails unread at time of scan** (consistent with previous pattern)
+- **Time-tracking tool activation**: Toggl Track marked IMPORTANT suggests Alex beginning/resuming time logging; may indicate project-billing phase or new management directive
 
 ## Key Relationships
 
-**Internal Collaboration:**
-- **Meredith Needham (meredith.needham@blackswifttech.com)** — **STRENGTHENED** — visible as lead on P50B Testing correspondence with Moli Energy; Alex appears to be in coordination/support role; shared procurement oversight (HeliDirect routed to Meredith as purchasing contact)
-- **Jack Elston (elstonj@blackswifttech.com)** — Not directly visible in new batch but S0 presentation thread ongoing (Simon Laurence reply suggests Jack's presentation is being reviewed by MOD)
-- **Maciej Stachura** — No new correspondence visible
+**Internal Collaboration (Updated):**
+- **Meredith Needham (meredith.needham@blackswifttech.com)** — **CONFIRMED as P50B project lead**: Direct client contact with Moli Energy (Melina Borin); Alex not on recent client correspondence threads
+- **Jack Elston (elstonj@blackswifttech.com)** — **NEW visibility**: Appears as payment approver/purchaser for specific vendor categories (RC aircraft suppliers: Redwing RC, MKS Servos, Aerobertics); likely owns rotorcraft/platform procurement
+- **Maciej Stachura — No new correspondence visible**
 
-**External Relationships:**
-- **Simon Laurence (Simon.Laurence157@mod.gov.uk)** — UK MOD; actively reviewing S0 presentation; direct reply to Jack Elston visible (Alex likely CC'd or in thread context)
-- **Rebecca Sakurdeep (RebeccaS@molienergy.com)** — Moli Energy; P50B Testing project client; Meredith Needham serving as primary point of contact
-- **Brittany Barrow (Rapid Axis)** — Vendor relationship (promotional emails; sent to dual email addresses)
-- **Vendor ecosystem** — B&H Photo, SendCutSend, Rock West Composites, APC Propellers, HeliDirect, DigiKey, Protolabs, Design Gateway — continued active procurement and supplier relationship management
-
-## Notable Observations
-
-- **FPGA/cryptography interest**: Design Gateway SHA3-IP newsletter marked IMPORTANT suggests Alex or team may be incorporating cryptographic hardware acceleration into S0 or related project; security-critical component for defense applications
-- **Dual email domain usage**: Alex receives mail at both `.blackswifttech.com` and `.bst.aero` addresses; `.bst.aero` appears used for external/vendor communications; suggests domain separation for partner/vendor interactions
-- **Procurement volume**: 11/19 new emails are vendor order confirmations/shipping — indicates sustained component sourcing activity; no indication of supply chain delays or cancellations
-- **Meredith Needham emerging as project owner**: Now visible as primary coordinator on P50B client engagement; Alex appears in supporting/collaborative role (no outbound emails from Alex visible in new batch)
-- **Administrative meeting captured**:
+**External Relationships (Updated):**
+- **Melina Borin (melinab@molienergy.com)** — Moli Energy; P50B Testing client; active correspondence with Meredith Needham
+- **Beau Ritkes (Apex Capital Partners)** — **NEW**: Financial/investment advisor; discussing Anduril options exercise; marked IMPORTANT; suggests strategic investment involvement
+- **Vendor ecosystem expansion**:
+  - **Rotorcraft/drone suppliers**: Redw

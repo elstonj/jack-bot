@@ -32,12 +32,10 @@
 - **Spare parts and packing list** | Josh Fromm | Asana due: October 1, 2026 | **STALE**
 
 ## Task Summary
-- **Total Tasks**: 3 open, 0 completed (0% overall completion)
+- **Total Tasks**: 1 open, 0 completed (0% overall completion)
 - **Tasks by Assignee**:
-  - **Dan Prendergast**: 3 open tasks (0% completion)
+  - **Dan Prendergast**: 1 open task (0% completion)
     - Operator Manual and Flight CONOPS for AFAC (due July 2, 2026) **STALE**
-    - Obtain flight approvals from AFAC (due August 3, 2026) **STALE**
-    - Verify ground permissions for national park/CENAPED (due August 3, 2026) **STALE**
 
 ## Recent Activity
 
@@ -54,6 +52,9 @@
 
 ### April 17, 2026 (TEAM CORRECTIONS — AUTHORITATIVE)
 **Maciej Stachura**: Mexico is moved to the Fall, so **no flight planning happening soon.**
+
+### November 22, 2023 (Initial Project Status)
+Project launched with USGS on Jan/Feb timing (superseded by current Fall 2026 schedule).
 
 ### Current Status
 Project paused pending Fall 2026 deployment timeline confirmation. Batteries in transit to or received in Mexico with permanent import fees paid. Customs/import documentation and timeline details under review; awaiting Maciej's direction on email archival, customs broker communication, and group notification. **No active flight planning, mission prep, or shipping coordination underway.**
@@ -75,4 +76,3 @@ Project paused pending Fall 2026 deployment timeline confirmation. Batteries in 
 
 - **Products/Services**: MHP, Survey Services, Aircraft Rental
 - **Contract End Date**: August 30, 2025 (note: this predates the Fall 2026 deployment; may require contract amendment or extension)
-- **Early Project Notes** (Nov 22, 2023): "Working with USGS on Jan/Feb timing" — superseded by current Fall 2026 timeline

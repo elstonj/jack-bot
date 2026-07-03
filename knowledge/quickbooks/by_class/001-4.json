@@ -4,14 +4,14 @@
     "(001-4) IRAD - S0 VTOL"
   ],
   "period": {
-    "start": "2026-06-04",
-    "end": "2026-06-05"
+    "start": "2026-07-02",
+    "end": "2026-07-03"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 235.98,
+    "expenses": 82.0,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 235.98
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 82.0
     }
   },
   "invoices": [],
@@ -19,19 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-06-04",
-      "doc_number": "260604",
-      "total": 235.98,
-      "attributed": 235.98,
+      "date": "2026-07-02",
+      "doc_number": "22794",
+      "total": 82.0,
+      "attributed": 82.0,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "",
+      "memo": "Paypal",
       "lines": [
         {
-          "amount": 235.98,
+          "amount": 82.0,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "ARK 4IN1 ESC"
+          "description": "10mm 4mm spline Carbon horn x 10"
         }
       ]
     }
