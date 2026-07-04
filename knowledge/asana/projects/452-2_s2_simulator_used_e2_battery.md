@@ -4,7 +4,7 @@
 - **Client/Customer:** Dan Hesselius at CU Boulder
 - **Dollar Value:** $3,900 (payment received 2026-05-25)
 - **Timeline:** Due 2026-06-30
-- **Status:** **OVERDUE — fulfillment incomplete; battery stuck in Mexican customs; power of attorney authorization pending**
+- **Status:** **OVERDUE — fulfillment incomplete; E2 battery stuck in Mexican customs; power of attorney authorization pending from Meredith O'hara Needham**
 - **Project Owner:** Meredith O'hara Needham
 - **Customer Type:** Commercial
 - **Priority:** Medium
@@ -20,15 +20,15 @@
 
 ## Recent Activity
 
-**[2026-07-01] Battery Return Authorization — Power of Attorney Awaiting Signature**
+**[2026-07-01] Power of Attorney Authorization — Awaiting Meredith O'hara Needham's Approval**
 
-Daniel Prendergast received email from Robert Correia (Aeronet) with power of attorney document to authorize customs broker to retrieve battery from Mexico and return to US. Daniel requested Meredith O'hara Needham's authorization to sign the document. Status: **awaiting response**.
+Daniel Prendergast requested authorization to sign power of attorney document from Robert Correia (Aeronet). Daniel flagged no legal concerns but is seeking management approval before proceeding. **Status: awaiting Meredith O'hara Needham's response.**
 
 **[2026-06-30] Project Due Date Passed — Deliverables Outstanding**
 
 Project hit due date with:
 - S2 Simulator: shipment status and ETA still unknown
-- E2 Battery: in Mexican customs, awaiting power of attorney signature for retrieval
+- E2 Battery: in Mexican customs, awaiting power of attorney authorization for retrieval
 
 **[2026-05-28] Customs & Export Compliance — Critical Gaps Flagged**
 
@@ -39,13 +39,13 @@ Daniel Prendergast identified unresolved compliance issues:
 
 ## Notes & Context
 
-**Critical Blocker:** E2 Battery is stuck in Mexican customs. Retrieval requires Meredith O'hara Needham to authorize Daniel Prendergast to sign power of attorney document from Robert Correia (Aeronet) on behalf of customs broker. This is a straightforward administrative unblock — Daniel has reviewed and flagged no legal concerns, but seeks management approval before signing.
+**Critical Blocker:** E2 Battery is stuck in Mexican customs. Retrieval requires Meredith O'hara Needham to authorize Daniel Prendergast to sign power of attorney document from Robert Correia (Aeronet) on behalf of customs broker. This is a straightforward administrative unblock.
 
 **Compliance Status:** Battery shipped without proper export documentation (ECCN missing), creating regulatory and logistics complexity. Import classification accuracy unconfirmed.
 
 **S2 Simulator Status Unknown:** No shipment confirmation or ETA documented; requires separate status check.
 
 **Immediate Actions Required:**
-1. **[URGENT]** Meredith O'hara Needham: authorize Daniel Prendergast to sign power of attorney for customs broker (email from Robert Correia/Aeronet)
+1. **[URGENT]** Meredith O'hara Needham: authorize Daniel Prendergast to sign power of attorney for customs broker
 2. Confirm S2 Simulator shipment status and revised ETA once battery retrieval initiated
 3. Document compliance lessons learned (ECCN requirements for future similar shipments)

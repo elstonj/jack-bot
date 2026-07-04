@@ -63,11 +63,11 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Two S0 VTOL units with ground station and tablet; invoice 1667 paid in full 2026-05-21. Per legal disclosure (2026-05-05), ERAU ordered two S0 VTOL units paid in full with expected delivery delays; settlement agreement being negotiated. Receive-by date 2026-08-31 per Slack. Build in QC per Slack; awaiting final assembly/testing completion.",
+  "notes": "Two S0 VTOL units with ground station and tablet for ISARRA Flight Week campaign (August/September 2026). Invoice 1667 paid in full 2026-05-21. Build in QC per Slack (2026-07-03); Beck (2026-03-17) reported flight testing ongoing to resolve tracking bug; Jack Elston (2026-05-21) confirmed delivery target aligns with August date and discussed transport/training logistics. Kevin Adkins confirmed acceptance of plan (2026-05-21). Settlement agreement previously negotiated per legal disclosure (2026-05-05).",
   "missing_fields": [
-    "parts: delivery confirmation",
-    "build_state: QC completion evidence"
+    "build_state: explicit QC completion evidence",
+    "parts: delivery confirmation for all components"
   ],
-  "last_evidence_date": "2026-06-19",
-  "last_contact_date": null
+  "last_evidence_date": "2026-07-03",
+  "last_contact_date": "2026-05-21"
 }

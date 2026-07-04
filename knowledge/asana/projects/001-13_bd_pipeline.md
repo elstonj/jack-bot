@@ -10,7 +10,7 @@
   - **🔴 OVERDUE – REQUIRES URGENT ACTION**: S0 VTOL (Oklahoma State) due 2026-06-30; **last contact 2025-04-14 (7+ months without update)**. Waiting on 2 of 3 equipment purchases; Estimate 1336 unofficially approved but BST not yet added to procurement list.
   - **🔴 OVERDUE – REQUIRES URGENT ACTION**: NextTech S3 Arctic due 2026-07-03; **last contact 2026-03-17 (5+ months without update)**. Requires 120km range / 1h 35min TOF with EO/IR gimbal.
   - **🔴 OVERDUE**: Milestone "$5M by end of 2025" (passed; status unknown).
-  - **🔴 OVERDUE**: BD hire target "end of July 2025" (passed; status update from June 2026 states hire still pending "by the end of July" — conflicting timeline).
+  - **🔴 OVERDUE**: BD hire target "end of July 2025" (passed; June 2026 status update states hire still pending "by the end of July" — conflicting timeline suggests extended delay or reset).
   - **⚠️ Stale contact activity**: UK Royal Navy, NOC — last recorded contact 2026-03-17 or earlier (3+ months without updates on known opportunities).
   - **⚠️ Data visibility gap**: NOC Greenland not visible in current export. Confirm status.
 
@@ -52,7 +52,7 @@
 - **Status**: Technical specification phase; awaiting response/next steps
 - **Next Steps**: Confirm current status and resume contact
 
-**Westlake Corporation – Garmin Equipment Order** *(NEW)*
+**Westlake Corporation – Garmin Equipment Order**
 - **Assigned to**: Beck Cotter
 - **Primary Contact**: Rodney Waddle (Westlake Corporation) | westlakecorp@proton.me | 713-389-8608
 - **Address**: 2801 Post Oak Blvd, Houston, TX 77056 USA

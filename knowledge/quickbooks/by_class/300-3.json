@@ -4,16 +4,13 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-07-02",
-    "end": "2026-07-03"
+    "start": "2026-07-03",
+    "end": "2026-07-04"
   },
   "totals": {
-    "revenue": 144000.0,
-    "expenses": 189.52,
-    "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 98.24,
-      "Inventory Asset": 91.28
-    }
+    "revenue": 72000.0,
+    "expenses": 0.0,
+    "by_category": {}
   },
   "invoices": [
     {
@@ -38,75 +35,10 @@
           "description": ""
         }
       ]
-    },
-    {
-      "type": "Invoice",
-      "date": "2026-07-02",
-      "doc_number": "1740",
-      "total": 72000.0,
-      "attributed": 72000.0,
-      "vendor": "",
-      "customer": "[300-3] 2026 IDIQ",
-      "balance": 72000.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 72000.0,
-          "account": "",
-          "description": "Invoice 5 of 6 for CLIN 1001 (Modification P26002)"
-        },
-        {
-          "amount": 72000.0,
-          "account": "",
-          "description": ""
-        }
-      ]
     }
   ],
   "bills": [],
-  "purchases": [
-    {
-      "type": "Purchase",
-      "date": "2026-07-02",
-      "doc_number": "",
-      "total": 479.9,
-      "attributed": 122.6,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 357.3,
-          "account": "Inventory Asset",
-          "description": "Items for S3 sales"
-        },
-        {
-          "amount": 122.6,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "IDIQ  GPS_ground_plane.dxf"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-02",
-      "doc_number": "100171793",
-      "total": 66.92,
-      "attributed": 66.92,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "DKC*DIGI KEY CORP - 4617",
-      "lines": [
-        {
-          "amount": 66.92,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Extra AD parts"
-        }
-      ]
-    }
-  ],
+  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }
