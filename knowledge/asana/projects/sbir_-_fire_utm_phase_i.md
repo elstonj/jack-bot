@@ -27,7 +27,7 @@
 - **Phase II Submission**: February 3, 2024
 - **NASA ROSES Call Application**: Submitted March 31, 2024
 - **Post-Phase I Technical Work**: Dubins path altitude profiling control (October 2025)
-- **Wildfire Video Work (Ongoing)**: Kareem returned June 16, 2026 to support post-Phase I work. Per Jack Elston (June 16, 2026), he may focus on S0 components or ground stations depending on team priority, or join Maciej Stachura on finishing the wildfire video. Jack has asked Maciej and team to coordinate division of labor.
+- **Wildfire Video Work (Ongoing)**: Per Jack Elston (June 15–16, 2026), Kareem returned June 16, 2026 to support post-Phase I work. Jack is coordinating division of labor between Kareem and Maciej Stachura to finish the wildfire video. Alternative work available includes S0 components or ground stations if higher-priority tasks take precedence.
 
 ## Priority & Context
 

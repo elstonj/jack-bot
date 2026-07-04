@@ -6,7 +6,7 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 
 **Key Participants:** Maciej (lead flight testing/analysis), Jack Elston (firmware development), Joshua Fromm (QA/component sourcing), Ben Busby (tablet/GCS software), Nate (videography/pilot), Alex Lomis (field operations/media/pilot), Sam Hild (Remote ID integration/test pilot), Dan Prendergast (autopilot/control systems/operations), Danny Troke (data management), Ethan Domagala (pilot), Beck Cotter (operations support), Paige Smith (media/video curation), Meredith Needham (logistics/administrative support), Scott (equipment/field operations), Stefan (payload data processing - CH4/CO2), Sunny Slope Sod Farm (external airspace contact/CU training partner), Chris & Kevin (external clients/stakeholders), Christoph & Angie (internal stakeholders), Dan H. (external contact/AUVSI show), Ken Jochim (BAS airfield operator)
 
-**Activity Level:** Extremely high — 5,600+ messages across June 2020 through June 2026. Daily operations with multiple aircraft flights, rapid issue turnaround, continuous firmware iterations, and intensive VTOL transition testing. Current activity (June 2026) shows ongoing S3 deployment with methane (CH4) and CO2 sensing payload data processing, AGL laser altitude data integration, magnetometer analysis, and S1-VTOL failure testing validation development.
+**Activity Level:** Extremely high — 5,600+ messages across June 2020 through July 2026. Daily operations with multiple aircraft flights, rapid issue turnaround, continuous firmware iterations, and intensive VTOL transition testing. Current activity (July 2026) shows ongoing S3 deployment with methane (CH4) and CO2 sensing payload data processing, AGL laser altitude data integration, magnetometer analysis, and quaternion (attitude) logging enhancements for S1-VTOL failure testing validation and flight control analysis.
 
 ---
 
@@ -44,5 +44,4 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
   - Alex Lomis confirmed to provide video/AV equipment for Friday operations
   - Log collection from CU flights prioritized for battery performance analysis during takeoff climbouts
 - **May 14, 2026:** S1-VTOL failure testing comprehensive test plan approved for May 15 flight operations; includes mag failure landing (gyro integration), loss of laser on landing, low battery flight terminate with transition, joystick transition, lost GPS, and loss of engine in flight. Loss of pitot and loss of pitot + GPS deferred due to simulation crashes; Jack Elston approved conducting tests at higher altitude to minimize takeover risk. S1-VTOL failure testing to be developed into customer training scenario after validation.
-- **May 14, 2026:** Emergency procedures training expansion approved by Dan Prendergast and Jack Elston; proposal to include 4G negative dive and loss-of-system scenarios in standard customer training curriculum
-- **June
+- **May 14, 2026:** Emergency procedures training expansion approved by Dan Prendergast and Jack Elston; proposal to include 4G negative dive and loss-

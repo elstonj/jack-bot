@@ -1,91 +1,101 @@
 # Asana Projects Overview
 
-Last scanned: 2026-07-03 02:07
+Last scanned: 2026-07-04 02:08
 
-Total projects scanned: 11
+Total projects scanned: 12
 
 ## Projects
 
-- **[001-13] Accounting** — 48 tasks — [001-13_accounting.md](001-13_accounting.md)
+- **SBIR - Fire UTM Phase I** — 0 tasks — [sbir_-_fire_utm_phase_i.md](sbir_-_fire_utm_phase_i.md)
+- **[001-13] Accounting** — 4 tasks — [001-13_accounting.md](001-13_accounting.md)
 - **[001-13] BD Pipeline** — 1 tasks — [001-13_bd_pipeline.md](001-13_bd_pipeline.md)
-- **[001-13] Facilities Management** — 16 tasks — [001-13_facilities_management.md](001-13_facilities_management.md)
-- **[001-13] General Operations** — 11 tasks — [001-13_general_operations.md](001-13_general_operations.md)
-- **[001-13] HR General ** — 2 tasks — [001-13_hr_general.md](001-13_hr_general.md)
-- **[001-13] Proposals** — 1 tasks — [001-13_proposals.md](001-13_proposals.md)
-- **[001-13] Purchasing** — 21 tasks — [001-13_purchasing.md](001-13_purchasing.md)
-- **[012-3] ERAU Model S0** — 1 tasks — [012-3_erau_model_s0.md](012-3_erau_model_s0.md)
-- **[300-3] 2026 IDIQ (Hurricane)** — 2 tasks — [300-3_2026_idiq_hurricane.md](300-3_2026_idiq_hurricane.md)
-- **[350-4] 2024 USGS - Chile (Mexico)** — 1 tasks — [350-4_2024_usgs_-_chile_mexico.md](350-4_2024_usgs_-_chile_mexico.md)
-- **[550-1] NAVY SBIR: Magnetometer** — 1 tasks — [550-1_navy_sbir_magnetometer.md](550-1_navy_sbir_magnetometer.md)
+- **[001-13] Corporate / Strategic Planning** — 1 tasks — [001-13_corporate_strategic_planning.md](001-13_corporate_strategic_planning.md)
+- **[001-13] Facilities Management** — 2 tasks — [001-13_facilities_management.md](001-13_facilities_management.md)
+- **[001-13] Purchasing** — 15 tasks — [001-13_purchasing.md](001-13_purchasing.md)
+- **[039-1] Refurbished S2 Oklahoma State** — 0 tasks — [039-1_refurbished_s2_oklahoma_state.md](039-1_refurbished_s2_oklahoma_state.md)
+- **[044-1] EMASS Chip Integration** — 5 tasks — [044-1_emass_chip_integration.md](044-1_emass_chip_integration.md)
+- **[200-11] Persistence Demo (NASA)** — 1 tasks — [200-11_persistence_demo_nasa.md](200-11_persistence_demo_nasa.md)
+- **[452-2] S2 Simulator & used E2 Battery** — 0 tasks — [452-2_s2_simulator_used_e2_battery.md](452-2_s2_simulator_used_e2_battery.md)
+- **[550-1] NAVY SBIR: Magnetometer** — 16 tasks — [550-1_navy_sbir_magnetometer.md](550-1_navy_sbir_magnetometer.md)
+- **[550-2] Navy STTR: Hazardous Weather** — 10 tasks — [550-2_navy_sttr_hazardous_weather.md](550-2_navy_sttr_hazardous_weather.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies – Project Portfolio Summary
+# Black Swift Technologies – Project Portfolio Overview
 
-## Portfolio Overview
-- **Total Active Project Value:** ~$1.13M (tracked billable projects)
-- **Portfolio Composition:** Mix of government contracts (USGS, Navy SBIR, NOAA), academic partnerships (ERAU, OSU), and internal operations
-- **Current Status:** 🔴 **CRITICAL** – Multiple urgent deadlines (Jun 25–Jul 31, 2026); operational backlog signals
+## Portfolio Summary
+- **Total Active Projects:** 10 (mix of operational, government contracts, and commercial)
+- **Total Tracked Value:** ~$428k+ (government contracts + commercial projects)
+- **Critical Status:** 🔴 Multiple high-priority issues requiring immediate attention
 
 ---
 
-## Key Active Projects
+## Active Projects by Category
 
+### Government Contracts (3 projects | ~$277k)
 | Project | Client | Value | Status | Key Deadline |
 |---------|--------|-------|--------|--------------|
-| [300-3] 2026 IDIQ (Hurricane) | NOAA UxSOC | $499,000 | Active | **2026-07-31** |
-| [350-4] 2024 USGS - Chile | USGS Volcano Science | $124,230 | Active | Deployment: Fall 2026 |
-| [550-1] NAVY SBIR: Magnetometer | NAVAIR/NAWCAD | TBD | Active | TBD |
-| [012-3] ERAU Model S0 | Embry-Riddle | $2,463 | ✅ Completed | 2026-07-02 |
-| [001-13] BD Pipeline | Mixed (OSU, Westlake, NextTech) | $0.00 (data integrity issue) | Active | Ongoing |
+| [550-2] Navy STTR: Hazardous Weather | Dept. of Navy (ONR) | $146,326 | In Progress | **Sep 1, 2026** |
+| [550-1] Navy SBIR: Magnetometer | Dept. of Navy (NAVAIR) | $131k+ (est.) | In Progress | TBD |
+| [200-11] Persistence Demo (NASA) | NASA Ames SBIR Phase III | $74,428 | ✓ Archived (closed Nov 2025) | — |
+
+### Commercial Projects (2 projects | ~$151k)
+| Project | Client | Value | Status | Key Issue |
+|---------|--------|-------|--------|-----------|
+| [044-1] EMASS Chip Integration | EMASS | $90,000 | In Progress | **Payment friction:** $35k final milestone unpaid; incomplete final report |
+| [452-2] S2 Simulator & E2 Battery | CU Boulder | $3,900 | 🔴 **OVERDUE** | E2 battery stuck in Mexican customs; PoA pending |
+
+### Business Development (1 project | Status TBD)
+| Project | Focus | Key Accounts | Status |
+|---------|-------|--------------|--------|
+| [001-13] BD Pipeline | Gov/Defense/Academic/Commercial | Oklahoma State (S0 VTOL), Westlake Corp (Garmin), NextTech (S3 Arctic) | Data integrity issues; pipeline value $0.00 |
+
+### Internal Operations (4 projects)
+| Project | Owner | Status | Key Issue |
+|---------|-------|--------|-----------|
+| [001-13] Purchasing | — | 🔴 **CRITICAL SURGE** | **15 open tasks due JUL 1–4, 2026** (3–4 days) |
+| [001-13] Facilities | — | Active | Recurring NNN lease ($13–$14.63) + CAM ($6.23); operational |
+| [001-13] Accounting | Meredith O'Hara Needham | Active | 2Q Sales Tax Returns due **JUL 9, 2026** |
+| [001-13] Corporate/Strategic | — | Archived (Jun 2024) | 1 open task: lease termination planning |
 
 ---
 
-## Critical Risk Areas
+## 🔴 Critical Risk Areas
 
-### 🔴 **Immediate (Next 7 Days)**
-- **[001-13] Purchasing:** 21 open tasks; 18 due within 7 days (Jun 25–Jul 4); 2 already overdue
-- **[300-3] NOAA Hurricane:** Final delivery **Jul 31, 2026** – critical path milestone
-- **[001-13] Accounting:** 2Q Sales Tax return due **Jul 9, 2026**
+### Immediate (Next 2 Weeks)
+1. **[001-13] Purchasing:** 15 open tasks; **JUL 1–4, 2026 deadline** — severe workload concentration
+2. **[452-2] S2 Simulator:** Overdue delivery; E2 battery customs hold; PoA authorization bottleneck (pending Meredith O'Hara Needham)
+3. **[001-13] Accounting:** 2Q Sales Tax Returns **due JUL 9**
 
-### 🟡 **Medium-Term**
-- **[350-4] USGS Chile:** Deployment postponed from Apr 2026 → Fall 2026; timeline now extended but planning dependencies affected
-- **[001-13] General Operations:** Process improvement tasks and Toggl check-ins show catch-up patterns; potential scheduling drift
-- **[001-13] Facilities Management:** Completion backlog detected; 13 tasks suddenly marked done on Jul 2 (possible data quality issue)
+### Medium-term
+4. **[044-1] EMASS Chip Integration:** $35k payment dispute; customer dissatisfaction over incomplete final report; transition to per-flight-day billing model may complicate cash flow
+5. **[001-13] BD Pipeline:** Data integrity issues; pipeline value shows $0.00 (potential tracking/forecasting blind spot)
 
-### ⚠️ **Data Integrity**
-- **[001-13] BD Pipeline:** Dollar values showing $0.00 across multiple opportunities (NOAA/NASA, others)
-- **[550-1] Magnetometer:** Project summary truncated; incomplete contact/timeline data
+### Medium-term Deliverables
+6. **[550-2] Navy STTR:** Final deliverables **due SEP 1, 2026** (both base & option periods completed; now in final documentation phase)
 
 ---
 
 ## Team Allocation Patterns
-
-- **Meredith O'hara Needham:** Owns HR, Accounting, General Operations, Facilities; also executing ERAU shipment – **potential bottleneck**
-- **Josh Fromm:** ERAU project owner (support role)
-- **Beck Cotter:** Proposals (NOAA/NASA 777 – open)
-- **Dan Prendergast:** General Operations process improvement (due Jul 2)
-- **Kevin Pesola (USGS):** External TPOC for Chile project
-- **Angel Ruiz-Reyes (Navy):** External TPOC for Magnetometer SBIR
+- **Meredith O'Hara Needham:** Owner on multiple high-priority projects (Accounting, [452-2], corporate strategic); bandwidth concern with customs/PoA bottleneck on [452-2]
+- **Whole Team:** Distributed across Navy contracts, NASA/SBIR projects, and operations
+- **Kareem:** Returned June 15–16, 2026; assigned to post-Phase I wildfire video (low priority)
+- **Alex Lomis, Jack Elston:** Government contracts (Navy/NASA SBIR leads)
+- **Daniel Prendergast:** Customs/logistics ([452-2])
 
 ---
 
-## Upcoming Deadlines (Next 60 Days)
-
-| Date | Project | Task |
-|------|---------|------|
-| Jun 25–Jul 4 | [001-13] Purchasing | 18 of 21 tasks due (🔴 CRITICAL) |
-| Jul 2 | [001-13] General Operations | Process improvement due |
-| Jul 9 | [001-13] Accounting | 2Q Sales Tax return (CO) |
-| Jul 31 | [300-3] NOAA Hurricane | **Final delivery deadline** |
-| Fall 2026 | [350-4] USGS Chile | System deployment |
+## Upcoming Milestones (Next 90 Days)
+| Date | Project | Deliverable | Priority |
+|------|---------|-------------|----------|
+| **JUL 1–4** | [001-13] Purchasing | 15 operational tasks | 🔴 CRITICAL |
+| **JUL 9** | [001-13] Accounting | 2Q Sales Tax Returns | High |
+| **SEP 1** | [550-2] Navy STTR | Final deliverables (Hazardous Weather) | High |
 
 ---
 
 ## Recommendations
-
-1. **Immediate Action:** Resolve [001-13] Purchasing surge; escalate overdue tasks
-2. **Data Audit:** Fix [001-13] BD Pipeline valuation ($0.00 entries) and complete [550-1] Magnetometer data
-3. **Resource Review:** Redistribute O'hara Needham's workload across operational projects to prevent bottleneck
-4. **NOAA Delivery:** Confirm Jul 31 readiness; validate critical path for Hurricane IDIQ
-5. **Timeline Tracking:** Monitor USGS Chile (Fall 2026 postponement) for downstream impacts
+1. **Immediate:** Triage [001-13] Purchasing surge; allocate resource relief for JUL 1–4 window
+2. **Escalate:** Authorize PoA for [452-2] customs clearance (Meredith O'Hara Needham signature)
+3. **Resolve:** [044-1] EMASS payment dispute; clarify final report completion expectations
+4. **Audit:** [001-13] BD Pipeline data integrity; restore accurate pipeline valuation for forecasting

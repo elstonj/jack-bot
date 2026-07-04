@@ -69,9 +69,9 @@
 ## Recent Activity
 
 ### June 2026 — Current Activity (AUTHORITATIVE)
-**[FEEDBACK, Jack, Jun 15-16, 2026]**: Kareem returning June 15 @ 12:00 PM after absence. Jack coordinating immediate task allocation:
+**[FEEDBACK, Jack, Jun 16, 2026]**: Kareem returning June 15 @ 12:00 PM after absence. Jack coordinating immediate task allocation:
 - **Primary assignment options**: S0 component fabrication OR ground station completion
-- **Priority alternative**: **Wildfire video project needs completion** — Jack requesting Meredith and team member U083AAM8E9Y coordinate division of labor to finalize and complete
+- **Priority alternative**: **Wildfire video project needs completion** — Jack requesting Meredith O'Hara Needham and team member U083AAM8E9Y coordinate division of labor to finalize and complete
 - Additional tasks queued for Kareem pending team feedback on priorities
 
 ### Project Status Updates (April 2026 — TEAM CORRECTIONS AUTHORITATIVE)
@@ -113,5 +113,4 @@
 
 ### Core Competencies & Technical Focus
 - Methane emission detection, measurement, and localization
-- Wildfire applications and aerial support
-- UAS
+- Wildfire applications and

@@ -4,15 +4,13 @@
 - **Client/customer**: Internal operations (BST office and shop space maintenance)
 - **Dollar value**: Lease costs ranging from $13.00–$14.63 NNN over 60-month term, plus $6.23 CAM for real estate taxes and building insurance
 - **Timeline**: Ongoing operational project with recurring monthly tasks
-- **Status**: Active - recurring tasks functioning, but **completion backlog detected**. Large batch of tasks (13 completed) all marked done on 2026-07-02, suggesting catch-up cycle or data sync issue
+- **Status**: Active - recurring tasks functioning. **Note: Previous snapshot showed 3 open + 13 completed tasks (bulk completion on 2026-07-02). Current snapshot shows 2 open + 0 completed**, suggesting either the "Pay Rent" task was manually closed or data refresh occurred. Monitor whether this represents normal workflow or a system sync issue.
 - **Team members involved**: Meredith O'hara Needham (primary operational owner, Neat N Tidy owner), Nate Straus (facilities improvements & consumables)
 - **Risk signals**: 
-  - **Bulk task completion on single date (2026-07-02)**: 13 tasks backdated and marked complete simultaneously suggests either a catch-up cycle or task management workflow issue
-  - **Three open tasks approaching near-term due dates**:
-    - Ongoing Office Purchasing List due 2026-07-10 (4 days out)
-    - Office Cleaning due 2026-07-11 (5 days out)
-    - Pay Rent due 2026-07-27 (20 days out)
-  - Monitor whether tasks continue to complete on batch schedule or return to typical on-time pattern
+  - **Two open tasks with imminent due dates**:
+    - Ongoing Office Purchasing List due 2026-07-10 (overdue or due today depending on current date)
+    - Office Cleaning due 2026-07-11 (due tomorrow/imminently)
+  - **Discrepancy in task count**: Previous snapshot showed 3 open tasks; current shows 2. "Pay Rent" (due 2026-07-27) is missing. Clarify whether this was completed, archived, or represents a data sync lag.
 
 ## Key Deliverables & Milestones
 - **Monthly rent payments** (~$13.00–$14.63 NNN depending on lease year, plus $6.23 CAM, due ~25th–29th of each month)
@@ -24,26 +22,22 @@
 - **Lease termination planning** (unassigned, no due date)
 
 ## Task Summary
-- **Total tasks**: 3 open, 13 completed (in current snapshot)
+- **Total tasks**: 2 open, 0 completed (current snapshot)
 - **Tasks by assignee**:
-  - **Meredith O'hara Needham**: 3 open, 13 completed (100% of active work)
-    - Open: Pay Rent (due 2026-07-27), Office Cleaning (due 2026-07-11), Ongoing Office Purchasing List (due 2026-07-10)
-    - Recent completions: 13 tasks all marked done 2026-07-02 (bulk completion event)
+  - **Meredith O'hara Needham**: 2 open
+    - Ongoing Office Purchasing List (due 2026-07-10)
+    - Office Cleaning (due 2026-07-11)
 - **Notable patterns**: 
-  - **Bulk completion event**: All 13 completed tasks backdated to completion on 2026-07-02, spanning work due from 2026-05-15 through 2026-07-03. This breaks historical on-time pattern and suggests catch-up batch or workflow change.
   - Recurring weekly purchasing tasks and bi-weekly cleaning tasks maintain predictable structure
-  - All tasks assigned exclusively to Meredith O'hara Needham
+  - All active tasks assigned to Meredith O'hara Needham
+  - **Task count change**: Previous snapshot (13 completed + 3 open) now shows 0 completed + 2 open. The "Pay Rent" task and bulk completion history are no longer visible. This may indicate a date range filter change in the Asana export or task archival.
 
 ## Recent Activity
-- **Bulk completion on 2026-07-02**: 13 tasks marked complete simultaneously, including:
-  - 5× Ongoing Office Purchasing List tasks (due dates: 2026-05-15, 2026-05-22, 2026-05-29, 2026-06-05, 2026-06-12, 2026-06-19, 2026-06-26, 2026-07-03)
-  - 4× Office Cleaning tasks (due dates: 2026-05-16, 2026-05-30, 2026-06-13, 2026-06-27)
-  - 1× Pay Rent (due 2026-06-29)
-- **Current open tasks**:
-  - Ongoing Office Purchasing List due 2026-07-10
+- **Current open tasks** (both imminent):
+  - Ongoing Office Purchasing List due 2026-07-10 (notes: "Collect purchases for the week here.")
   - Office Cleaning due 2026-07-11
-  - Pay Rent due 2026-07-27
-- **Pattern shift**: Previous knowledge file showed monthly rent paid on-time or early (May 2026 completed 4 days early). New data shows bulk catch-up completion, which may indicate a change in task management workflow or backlog clearance.
+- **Task count shift**: Previous snapshot showed "Pay Rent" (due 2026-07-27) as open along with the two above. Current snapshot does not display it. Verify whether rent task was auto-completed, archived, or filtered out of export.
+- **Bulk completion history cleared**: Previous data showed 13 tasks completed on 2026-07-02. Current snapshot shows 0 completed tasks, suggesting either a date range filter or historical data refresh.
 
 ## Notes & Context
 
@@ -71,4 +65,7 @@
 
 **Operational Focus**: Project serves as central hub for all physical office and shop space maintenance, found under the Operations portfolio. Consumables stock tracker maintained at https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus).
 
-**Alert for next review**: Monitor whether 2026-07-02 bulk completion represents a one-time catch-up or a workflow change. If catch-up was due to Asana inactivity or manual sync, confirm that forward-looking tasks (July 10, 11, 27) complete on their normal schedule to re-establish baseline confidence.
+**Action items for next review**: 
+- Confirm status of "Pay Rent" task (due 2026-07-27). If it was completed or archived, update task baseline.
+- Verify whether current snapshot reflects a filtered view (e.g., tasks due in next 7 days only) or represents the full current state of the project.
+- Ensure Ongoing Office Purchasing List (due 2026-07-10) and Office Cleaning (due 2026-07-11) are completed on schedule to re-establish confidence in recurring task workflow.

@@ -83,7 +83,7 @@
   - **DKC*DIGI KEY CORP - 4617** (2026-06-17): $170.70 [DC-Direct Material Purchases]
   - **DKC*DIGI KEY CORP - 4617** (2026-06-03): $38.57 [DC-Direct Material Purchases]
   - **DKC*DIGI KEY CORP - 4617** (2026-06-01): $45.29 [DC-Direct Material Purchases]
-  - **DKC*DIGI KEY CORP - 4617** (2026-07-02): **$66.92** [DC-Direct Material Purchases] — Extra AD parts *(NEW)*
+  - **DKC*DIGI KEY CORP - 4617** (2026-07-02): **$66.92** [DC-Direct Material Purchases] — Extra AD parts
 - **JAWSTEC:** 
   - Prior balance: $19,627.62
   - **Purchase #69631** (2026-06-29): **$562.44** [DC-Direct Material Purchases] — IDIQ components shipped to Sean Cole
@@ -125,7 +125,7 @@
   - $26.00 [DC-Direct Material Purchases] — Wire transfer (no Asana request; Alex purchase via email)
   - *Note: Initial wire transfer through Wells Fargo was returned*
   - Subtotal materials: **$156.00**
-- **Purchase** (2026-07-02): **$122.60** [DC-Direct Material Purchases] *(NEW)* — IDIQ GPS_ground_plane.dxf
+- **Purchase** (2026-07-02): **$122.60** [DC-Direct Material Purchases] — IDIQ GPS_ground_plane.dxf
 
 **Subtotal new materials & supplies (2026-06-24 to 2026-07-03): $2,420.33**
 
@@ -134,3 +134,7 @@
 ---
 
 ### **Travel: $0.00**
+
+---
+
+### **Shipping/

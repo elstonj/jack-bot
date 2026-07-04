@@ -31,13 +31,13 @@
       {
         "category": "Labor",
         "amount": 111481.0,
-        "description": "Engineering Tasks (NRE): Laser config, AirOps fields, Dual GPS RTK, 10Hz met data, firmware customization, battery endurance, manufacturability, data buffering",
+        "description": "Engineering Tasks (NRE): Laser configuration, AirOps fields, dual GPS for heading, 10Hz met data, firmware customization, extended endurance, manufacturability improvements, data buffering",
         "source_doc": null
       },
       {
         "category": "Materials",
         "amount": 1700.0,
-        "description": "Materials for Dual GPS ($1,000), Extended endurance battery tweaks ($200), Manufacturability improvements ($500)",
+        "description": "Dual GPS unit, extended endurance battery tweaks, manufacturability improvements materials",
         "source_doc": null
       },
       {
@@ -52,13 +52,13 @@
         "amount": 551648.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-03"
+        "last_updated": "2026-07-04"
       },
       "purchases": {
         "amount": 970.76,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-07-03"
+        "last_updated": "2026-07-04"
       },
       "other_qbo": {
         "amount": 321540.76,
@@ -72,7 +72,7 @@
     "committed": 0.0,
     "remaining": -741827.27,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-03T09:03:40Z"
+    "last_reconciled": "2026-07-04T08:56:57Z"
   },
   "milestones": [
     {
@@ -152,6 +152,6 @@
   "team": [],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-07-03T09:03:40Z",
+  "last_full_rebuild": "2026-07-04T08:56:57Z",
   "last_incremental_update": null
 }

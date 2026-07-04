@@ -1,18 +1,18 @@
 # Dan Prendergast — Time Tracking
 
 ## Summary
-- Total hours tracked: **1,589.2 hours** (+4.2h)
-- Primary projects: SBIR Volcano CCRPP (72.5%), SBIR SMM DoD Phase II (6.9%), SBIR Hurricane Phase II (4.7%)
-- Time period: Consistent daily tracking with 6–9 hour entries; latest batch continues overhead & internal work allocation
-- **Pattern**: Sustained focus on General Operations overhead work; Volcano CCRPP remains inactive this batch
+- Total hours tracked: **1,590.7 hours** (+1.5h)
+- Primary projects: SBIR Volcano CCRPP (72.4%), SBIR SMM DoD Phase II (6.9%), SBIR Hurricane Phase II (4.7%)
+- Time period: Consistent daily tracking with 6–9 hour entries; latest batch continues exclusive overhead allocation
+- **Pattern**: Sustained focus on General Operations overhead work; Volcano CCRPP remains inactive across three consecutive batches
 
 ## Project Breakdown
-- **[200-7] SBIR - Volcano CCRPP**: 1,150.5 hours (72.5%)
+- **[200-7] SBIR - Volcano CCRPP**: 1,150.5 hours (72.4%)
 - **[400-5] SBIR - SMM DoD 22.4D Phase II** (Department of the Air Force): 109.2 hours (6.9%)
 - **[301-2] SBIR - Hurricane Phase II+** (NOAA: Joe Cione): 74.8 hours (4.7%)
 - **[301-3] S0 Hurricane Phase II - 2025** (NOAA: Joe Cione): 1.5 hours (0.1%)
-- **[001-13] General Operations** (Overhead): 26.4 hours (1.7%) ⬆️ *+3.2h; continued elevated overhead allocation*
-- **[001-13] Proposals** (IRAD): 96.6 hours (6.1%) ➡️ *+1.0h; sustained baseline*
+- **[001-13] General Operations** (Overhead): 27.9 hours (1.8%) ⬆️ *+1.5h; elevated overhead allocation continues*
+- **[001-13] Proposals** (IRAD): 96.6 hours (6.1%) ➡️ *no change; sustained baseline*
 - **[044-1] EMASS Chip Integration**: 24.7 hours (1.6%)
 - **[001-13] BD Pipeline** (Overhead): 27.5 hours (1.7%)
 - **[001-07] S3 IRAD** (IRAD): 1.5 hours (0.1%)
@@ -23,15 +23,14 @@
 - **Other projects**: 16.5 hours (1.0%)
 
 ## Recent Activity
-- **General Operations dominance**: 3.2 hours logged; consistent with overhead cycle resumption pattern established in prior batch
-- **Proposals stable**: 1.0 hour; maintains steady baseline allocation
-- **No primary project engagement**: Volcano CCRPP remains inactive across consecutive batches
-- **Minimal batch size**: Only 4.2 hours tracked this period (lowest recent volume); suggests lighter allocation window or PTO/leave continuation
+- **General Operations only**: 1.5 hours logged; exclusive overhead allocation in this minimal batch
+- **No primary project engagement**: Volcano CCRPP, SMM DoD, and Hurricane projects absent; third consecutive batch with no primary project time
+- **Minimal batch size**: 1.5 hours tracked (lowest on record); indicates partial week, continued leave, or non-billable allocation window
 
 ## Patterns
-- **Sustained overhead focus**: General Operations now accumulating consistently at 3–5h per batch; indicates structural shift toward internal operations workload
-- **Proposals normalized**: Steady 1.0h allocation reflects baseline proposal/business development support activity
-- **Primary project (Volcano) extended absence**: Two consecutive tracking batches without Volcano CCRPP time; suggests multi-week project phase break or capacity reallocation
-- **Low-volume batch anomaly**: 4.2h total is atypical; may indicate partial week tracking, PTO overlap, or project hiatus
-- **Internal R&D baseline established**: S3 IRAD, EMASS, Web Applications, Customer Support now form secondary workload portfolio (~1–2h per visible batch)
+- **Sustained overhead focus**: General Operations now at 27.9 total hours; consistent 1–1.5h per recent batch indicates structural shift toward internal operations
+- **Extended primary project hiatus**: Three consecutive batches without Volcano CCRPP engagement; suggests extended project phase break, capacity constraints, or reallocation cycle
+- **Micro-batch tracking**: Two consecutive sub-5-hour batches (4.2h, then 1.5h); atypical pattern may indicate flexible scheduling, leave usage, or project hold
+- **Proposals stable**: No logged allocation this batch; baseline remains anchored at ~96.6 total hours
+- **Internal R&D portfolio dormant**: Secondary workload (EMASS, Web Apps, Customer Support) absent from recent batches
 - **Documentation remains sparse**: No descriptions across all entries; organizational standard maintained

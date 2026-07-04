@@ -1,30 +1,17 @@
 {
   "period": {
-    "start": "2026-07-02",
-    "end": "2026-07-03"
+    "start": "2026-07-03",
+    "end": "2026-07-04"
   },
-  "scanned_at": "2026-07-03",
+  "scanned_at": "2026-07-04",
   "projects": [
     {
-      "project_code": "001-4",
-      "revenue": 0.0,
-      "expenses": 82.0,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 1,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "(001-4) IRAD - S0 VTOL"
-      ]
-    },
-    {
       "project_code": "300-3",
-      "revenue": 144000.0,
-      "expenses": 189.52,
-      "invoice_count": 2,
+      "revenue": 72000.0,
+      "expenses": 0.0,
+      "invoice_count": 1,
       "bill_count": 0,
-      "purchase_count": 2,
+      "purchase_count": 0,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -42,20 +29,6 @@
       "payment_count": 0,
       "qbo_class_names": [
         "[550-1] Navy SBIR Magnetometer"
-      ]
-    },
-    {
-      "project_code": "_unclassified",
-      "revenue": 0.0,
-      "expenses": 2773.46,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 7,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "",
-        "[012-3] Embry Riddle Model S0"
       ]
     }
   ]

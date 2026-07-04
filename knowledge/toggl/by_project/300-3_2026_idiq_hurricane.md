@@ -4,57 +4,56 @@
 - **Client:** NOAA [300]
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 432.5 hours (419.5h + 13.0h)
+- **Total hours tracked:** 436.9 hours (432.5h + 4.4h)
 
 ## Team Allocation
-- **Nate:** 173.1 hours (40.0%)
-- **Stachura:** 103.5 hours (23.9%)
-- **Jack Elston:** 94.7 hours (21.9%)
-- **Spencer Hoehl:** 42.2 hours (9.8%)
+- **Nate:** 173.1 hours (39.6%)
+- **Stachura:** 104.9 hours (24.0%)
+- **Jack Elston:** 97.7 hours (22.4%)
+- **Spencer Hoehl:** 42.2 hours (9.7%)
 - **Sam Hild:** 16.9 hours (3.9%)
-- **Josh Fromm:** 5.0 hours (1.2%)
+- **Josh Fromm:** 5.0 hours (1.1%)
 - **Primary contributor:** Nate
 
 ## Activity Timeline
 
 ### Most Recent Work (Current Batch)
-- **Jack Elston** - Firmware Release and QC Tool (3.5h)
-- **Jack Elston** - Firmware Release and QC Tool (1.0h)
-- **Jack Elston** - Firmware Release and QC Tool (1.5h)
-- **Nate** - No description provided (7.0h)
+- **Jack Elston** - Flight Testing (1.0h)
+- **Jack Elston** - Firmware Release and QC Tool (2.0h)
+- **Stachura** - No description provided (1.4h)
 
 ### Prior Work
 See previous knowledge file. Documented work includes:
-- **Jack Elston:** Hardware/sensor investigation, data processing, firmware maintenance, UAS integration, GCS/radio configuration, Firmware Release and QC Tool
+- **Jack Elston:** Hardware/sensor investigation, data processing, firmware maintenance, UAS integration, GCS/radio configuration, Firmware Release and QC Tool, Flight Testing
 - **Sam Hild:** Deployment Tube QC (16.9h cumulative, 100% documented)
 - **Nate:** Ground Control Station work (7.2h documented); majority undescribed
-- **Stachura, Spencer Hoehl, Josh Fromm:** No documented scope
+- **Stachura, Spencer Hoehl, Josh Fromm:** Minimal documented scope
 
 ## Insights
 
 ### Work Types (Documented)
-- **Jack Elston:** Firmware Release and QC Tool (20.4h cumulative across batches); consistent focus with 100% documentation rate
-- **Sam Hild:** Deployment Tube QC procedures (16.9h, 100% documented)
-- **Nate, Stachura, Spencer Hoehl, Josh Fromm:** Undescribed work
+- **Jack Elston:** Firmware Release and QC Tool (22.4h cumulative); now includes Flight Testing (1.0h new)—consistent focus with 100% documentation rate
+- **Jack Elston introduces new work stream:** Flight Testing (1.0h)—aligns with UAS integration project phase
+- **Stachura:** Continues undescribed work pattern
 
 ### Documentation Status
-- **Current batch:** 6.0h documented / 13.0h submitted = **46.2% compliance** (significant improvement from 28.9%)
-- **Overall project:** 98.4h documented / 432.5h total = **22.75% documented** (modest improvement from 22.02%)
-- **Undescribed backlog:** 334.1h (77.25% of project)
+- **Current batch:** 3.0h documented / 4.4h submitted = **68.2% compliance** (excellent improvement from 46.2%)
+- **Overall project:** 101.4h documented / 436.9h total = **23.21% documented** (incremental gain from 22.75%)
+- **Undescribed backlog:** 335.5h (76.79% of project)
   - **Nate:** 164.9h undescribed (95.3% of Nate's work)
-  - **Stachura:** 103.5h undescribed (100% of Stachura's work)
+  - **Stachura:** 104.9h undescribed (100% of Stachura's work)
   - **Spencer Hoehl:** 42.2h undescribed (100% of Spencer's work)
   - **Josh Fromm:** 5.0h undescribed (100% of Josh's work)
 
 ### Positive Notes
-- **Jack Elston** sustains exemplary documentation discipline: 6.0h documented (100% of entries), bringing cumulative Firmware Release and QC Tool work to 20.4h
-- **Documentation rebound:** Current batch recovers to 46.2% compliance, up sharply from previous 28.9% decline
-- All documented work maintains clarity on project focus areas
+- **Jack Elston** maintains exemplary documentation: 3.0h documented (100% of entries)
+- **Documentation compliance spike:** Current batch reaches 68.2%, up from 46.2% baseline—strong upward trend
+- **New activity identified:** Flight Testing (1.0h) suggests project entering field validation phase
 
 ### Concerns
-- **Nate:** New 7.0h entry entirely undescribed; contributes to growing undocumented backlog (+7.0h net)
-- **Undescribed backlog now 334.1h** (77.25% of all time), up from 327.1h—primary contributors (Nate, Stachura) remain non-compliant
-- Stachura maintains 100% undocumented rate with no recent entries in this batch
+- **Stachura:** New 1.4h entry entirely undescribed; now at 104.9h with 100% undocumented rate—no improvement despite repeated visibility
+- **Undescribed backlog now 335.5h** (76.79% of total), up from 334.1h—Stachura contributes +1.4h undescribed
+- **Nate remains silent:** No entries in this batch; 164.9h cumulative undescribed work persists
 
 ## Summary
-This batch (+13.0h) shows strong recovery in documentation compliance to 46.2%, driven by Jack Elston's continued 100% rate on Firmware Release and QC Tool development (6.0h). However, Nate's 7.0-hour undescribed entry sustains systemic documentation gaps. Project total now 432.5 hours with 334.1h (77.25%) undocumented backlog. Urgent need: descriptions from Nate (95.3% undescribed) and Stachura (100% undescribed) to clarify work scope on this active NOAA contract.
+This batch (+4.4h) demonstrates strong documentation recovery to 68.2% compliance, driven entirely by Jack Elston's continued exemplary discipline (3.0h, 100% documented). Jack introduces Flight Testing work (1.0h), indicating project progression to field validation phase. However, Stachura adds 1.4h of entirely undescribed time without improvement in compliance behavior. Project total now 436.9 hours with 335.5h (76.79%) undocumented backlog. **Critical action:** Require descriptions from Stachura (100% undescribed, +1.4h this batch) and Nate (95.3% undescribed, 164.9h cumulative) to establish clear work scope on active NOAA contract.
