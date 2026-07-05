@@ -134,7 +134,4 @@
 ---
 
 ### **Travel: $0.00**
-
----
-
-### **Shipping/
+**Number of transactions:** 0

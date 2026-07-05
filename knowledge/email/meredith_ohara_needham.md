@@ -1,10 +1,10 @@
 # Meredith O'hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 816 emails (781 previous + 35 new)
-- **Date range:** June 15–July 4, 2026 (20 days)
-- **Approximate volume:** ~41 emails/day
-- **Trend:** Sustained high-velocity component procurement; out-of-office pattern active (Jul 3–4); payment processing ongoing; task backlog accumulating
+- **Total messages scanned:** 828 emails (816 previous + 12 new)
+- **Date range:** June 15–July 5, 2026 (21 days)
+- **Approximate volume:** ~39 emails/day
+- **Trend:** Sustained high-velocity component procurement; holiday promotional surge (Jul 4–5); out-of-office pattern active (Jul 3–4); payment processing ongoing; task backlog accumulating
 
 ---
 
@@ -14,7 +14,7 @@
 
 **Automated Systems & Purchasing Routing:**
 
-1. **Purchasing system** (`purchasing@blackswifttech.com`) — **330+ messages cumulative**
+1. **Purchasing system** (`purchasing@blackswifttech.com`) — **340+ messages cumulative**
    - **Component deliveries & confirmations (Jul 3–4):**
      - Amazon shipment: TUOLNK SMA Female to TNC connectors (Jul 4, 01:47 UTC)
      - B&H Photo Order #1130358693 delivered (Jul 3, 14:49 UTC)
@@ -22,10 +22,17 @@
      - Redwing RC Order #34416 completed (Jul 3, 12:51 UTC) [IMPORTANT]
      - Redwing RC shipment in transit (Jul 3, 12:50 UTC)
    
-   - **Supplier newsletters & promotional routing (Jul 3–4):**
-     - HeliDirect promotional emails (Jul 3, 20:00 & 18:14 & 11:00 UTC) [Multiple promotional touchpoints]
+   - **Supplier newsletters & promotional routing (Jul 3–5):**
+     - **Jul 4–5 Independence Day promotional surge (8 new messages):**
+       - Comcast Business Internet monthly dashboard (Jul 5, 02:39 UTC)
+       - Powerwerx: July 4th solar panels/power boxes sale (Jul 5, 01:57 UTC)
+       - Rock West Composites: cart abandonment reminder (Jul 4, 15:04 UTC)
+       - My Lenovo Rewards monthly recap (Jul 4, 18:13 UTC)
+       - Speedway Motors: up to 70% off sale (Jul 4, 14:00 UTC)
+       - Harbor Freight: 4th of July promotion (Jul 4, 13:15 UTC)
+       - ELEGOO US: 4th of July sale (Jul 4, 13:01 UTC, routed to Alexis Lomis)
+     - HeliDirect: 4th of July sale promotion (Jul 4, 20:00 UTC) [Continued pattern]
      - Battery Junction 4th of July deals (Jul 3, 16:03 UTC)
-     - Harbor Freight coupon (Jul 3, 13:45 UTC)
      - eBay alerts: sony a5100 camera (Jul 3, 06:08 UTC)
      - Hobbyking: KitFox 1250mm sports plane alert (Jul 3, 10:21 UTC)
    
@@ -36,94 +43,74 @@
    - **Critical alerts:**
      - **"You Have Past Due Invoices"** (Jul 4, 07:17 UTC) [UNREAD] — **FLAG: Accounts payable delinquency**
    
-   - **Status:** Sustained component procurement pattern continues; past due invoices alert suggests cash flow strain or processing delays post-payroll crisis.
+   - **Status:** Sustained component procurement pattern continues; holiday promotional volume spike suggests aggressive supplier engagement; past due invoices alert persists.
 
 ---
 
-2. **Daniel Prendergast (Internal — Engineering/Operations Lead)** — **EXECUTIVE COORDINATION**
+2. **Direct Vendor Contact (Email):**
+
+   - **uAvionix** (`squawk@uavionix.com`) — **AEROSPACE/UAV SUPPLIER**
+     - **"Celebrating 250 Years of American Innovation" (Jul 4, 14:30 UTC)** [UNREAD, IMPORTANT]
+     - **Recipients:** Jack Elston (`admin@blackswifttech.com` and `purchasing@blackswifttech.com`)
+     - **Significance:** uAvionix sent parallel messages to Jack Elston (not Meredith directly); suggests Jack manages uAvionix relationship; uAvionix is critical aerospace component vendor (likely avionics/certification-related)
+     - **Status:** Direct supplier coordination with executive team
+
+   - **HeliDirect** (`sales@helidirect.com`) — **HELICOPTER/DRONE COMPONENTS**
+     - **"🗽 250 Years of Independence, 1 Epic Sale!" (Jul 4, 20:00 UTC)** [UNREAD]
+     - Direct email to Meredith (not routed through purchasing system)
+     - **Significance:** HeliDirect maintains direct contact with Meredith; continued holiday promotional outreach; key supplier for rotorcraft components
+
+   - **NewBeeDrone** (`support@newbeedrone.com`) — **DRONE SUPPLIER**
+     - **"🇺🇸✨ Independence Day Sale | Save 5%–25%" (Jul 4, 19:03 UTC)** [UNREAD]
+     - Routed to `purchasing@blackswifttech.com`
+     - **Significance:** New entry; drone-specific supplier engaging BST
+
+   - **Baofeng Radio** (`support@baofengradio.com`) — **RADIO COMMUNICATIONS**
+     - **"🤫 Just for you: Your VIP 20% OFF Site-Wide Code inside!" (Jul 4, 14:30 UTC)** [UNREAD]
+     - Direct email to Meredith (personalized VIP offer)
+     - **Significance:** VIP status with Baofeng; radio/communication equipment sourcing ongoing
+
+---
+
+3. **Daniel Prendergast (Internal — Engineering/Operations Lead)** — **EXECUTIVE COORDINATION**
    - **"Updated invitation: Business Operations Meeting @ Tue Jul 14, 2026 1:30pm - 2pm (MDT)" (Jul 3, 16:06 UTC)** [IMPORTANT]
      - **Attendees:** Meredith Needham, Beck Cotter, Jack Elston, Nathaniel Straus, Paige Smith, Maciej Stachura
      - **Significance:** Core operations/executive team meeting scheduled for Jul 14; indicates ongoing cross-functional governance
-     - Meredith sent out-of-office response (Jul 3, 09:06 UTC) [SENT]
 
 ---
 
-3. **Asana (Task Management System)** — **WORKLOAD ALERTS**
+4. **Asana (Task Management System)** — **WORKLOAD ALERTS**
    - **"📅 You have 6 overdue tasks" (Jul 3, 15:40 UTC)** [UNREAD, IMPORTANT] — **FLAG: Task backlog**
    - **"Friday - tasks due soon: 10, tasks assigned: 12" (Jul 3, 14:56 UTC)** [UNREAD]
-   - **Significance:** Meredith has accumulated 6+ overdue tasks and 10–12 due-soon items; suggests high workload or attention gaps during Jul 3–4 period
+   - **Status:** 6+ overdue tasks persist; high workload unresolved
 
 ---
 
-4. **Rippling (HR/Payroll System)** — **SYSTEM ADMINISTRATION & COMPLIANCE**
-   - **"Updates to our Terms of Service" (Jul 3, 16:30 UTC)** [UNREAD, IMPORTANT]
-     - Meredith sent out-of-office response (Jul 3, 09:30 UTC) [SENT]
-   
-   - **"Action required: You have pending tasks in Black Swift Technologies" (Jul 3, 11:13 UTC)** [UNREAD, IMPORTANT]
-     - Meredith sent out-of-office response (Jul 3, 04:13 UTC) [SENT]
-   
-   - **Significance:** Active Rippling pending tasks; terms of service update indicates ongoing platform maintenance
+5. **Rippling (HR/Payroll System)** — **SYSTEM ADMINISTRATION & COMPLIANCE**
+   - **"Updates to our Terms of Service" (Jul 3, 16:30 UTC)** [UNREAD]
+   - **"Action required: You have pending tasks in Black Swift Technologies" (Jul 3, 11:13 UTC)** [UNREAD]
+   - **Status:** Active pending tasks; system maintenance ongoing
 
 ---
 
-5. **QuickBooks (Accounting System)** — **PAYMENT PROCESSING**
+6. **QuickBooks (Accounting System)** — **PAYMENT PROCESSING**
    - **"Processing payment to Ted Miles" (Jul 3, 08:31 UTC)** [UNREAD]
-     - Meredith sent out-of-office response (Jul 3, 01:31 UTC) [SENT]
-     - **Significance:** Individual payment processing (Ted Miles — likely vendor or contractor)
+   - **Status:** Individual vendor/contractor payment processing ongoing
 
 ---
 
-6. **Toggl Inc (Time Tracking Vendor)** — **SUBSCRIPTION RENEWAL**
+7. **Toggl Inc (Time Tracking Vendor)** — **SUBSCRIPTION RENEWAL**
    - **"Your Toggl Inc subscription will renew soon" (Jul 3, 22:30 UTC)** [UNREAD, IMPORTANT]
-   - Recipient: `invoices@bst.aero` — routed to accounting domain
-   - **Status:** Toggl subscription active; renewal notice suggests continued time-tracking deployment
+   - **Status:** Time-tracking subscription active; renewal pending
 
 ---
 
-7. **Sean Cihacek (Your ABT — Equipment/Facilities Vendor)** — **OFFICE EQUIPMENT**
-   - **"The Copier Still Works, but.." (Jul 3, 14:00 UTC)** [UNREAD, IMPORTANT]
-     - Routed to `info@blackswifttech.com`
-     - **Significance:** Facilities/copier maintenance issue; suggests ongoing office equipment management
+8. **Sean Cihacek (Your ABT — Equipment/Facilities Vendor)** — **OFFICE EQUIPMENT**
+   - **"The Copier Still Works, but.." (Jul 3, 14:00 UTC)** [UNREAD]
+   - **Status:** Facilities/copier maintenance issue active
 
 ---
 
-8. **Bloomberg (External News/Research)** — **MARKET INTELLIGENCE**
-   - **"Big Tech's AI field workers" (Jul 3, 11:05 UTC)** [UNREAD, IMPORTANT]
-     - Meredith sent out-of-office response (Jul 3, 04:05 UTC) [SENT]
-   
-   - **"America has a fun shortage" (Jul 3, 09:30 UTC)** [UNREAD, IMPORTANT]
-     - Meredith sent out-of-office response (Jul 3, 02:30 UTC) [SENT]
-   
-   - **Significance:** Meredith subscribed to Bloomberg Technology alerts; consuming industry-relevant news on AI field automation (potentially competitive intelligence)
-
----
-
-9. **Elevations Credit Union (Banking Partner)** — **BANKING/ACCOUNT MANAGEMENT**
-   - **"Reminder: Elevations Credit Union requests your feedback" (Jul 3, 12:10 UTC)** [UNREAD]
-   - **"Take advantage of these premium business features" (Jul 3, 11:31 UTC)** [UNREAD]
-   - **Significance:** Follow-up banking communications post-sweep account setup; suggests active account relationship
-
----
-
-10. **Hobbyking & HeliDirect (Supplier Alerts)** — **COMPONENT SOURCING**
-    - Hobbyking: KitFox 1250mm sports plane alert (Jul 3, 10:21 UTC)
-    - HeliDirect: Multiple promotional/product launch emails (Jul 3, 20:00 / 18:14 / 11:00 UTC)
-    - **Significance:** Regular supplier engagement; HeliDirect frequent contact suggests ongoing helicopter/drone component sourcing
-
----
-
-### Out-of-Office Pattern (Jul 3–4)
-
-**Auto-responses sent by Meredith (5 instances):**
-- Bloomberg subscription emails (2)
-- Rippling notifications (2)
-- QuickBooks payment notification (1)
-- **Inference:** Meredith out of office Jul 3–4 (likely weekend + 4th of July holiday)
-
----
-
-## Topic Patterns
-
-### Active Project/Procurement Themes
-
-1. **RF/
+9. **Bloomberg (External News/Research)** — **MARKET INTELLIGENCE**
+   - **"Big Tech's AI field workers" (Jul 3, 11:05 UTC)** [UNREAD]
+   - **

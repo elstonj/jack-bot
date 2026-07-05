@@ -63,7 +63,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Two S0 VTOL units with ground station and tablet for ISARRA Flight Week campaign (August/September 2026). Invoice 1667 paid in full 2026-05-21. Build in QC per Slack (2026-07-03); Beck (2026-03-17) reported flight testing ongoing to resolve tracking bug; Jack Elston (2026-05-21) confirmed delivery target aligns with August date and discussed transport/training logistics. Kevin Adkins confirmed acceptance of plan (2026-05-21). Settlement agreement previously negotiated per legal disclosure (2026-05-05).",
+  "notes": "Two S0 VTOL units with ground station and tablet for ISARRA Flight Week campaign (August/September 2026). Invoice 1667 ($21,181.81) paid 2026-05-21. Build in QC per Slack (2026-07-03). Jack Elston confirmed August delivery target aligns with ISARRA planning and transport logistics (2026-05-21); Kevin Adkins approved plan. Beck reported flight-testing ongoing to resolve tracking bug (2026-03-17). Settlement agreement previously negotiated per legal disclosure (2026-05-05). Parts remain ordered but not yet received.",
   "missing_fields": [
     "build_state: explicit QC completion evidence",
     "parts: delivery confirmation for all components"

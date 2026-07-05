@@ -8,13 +8,13 @@
 ## Team Time Allocation
 
 ### Hours by Team Member (Ranked)
-1. **Jack Elston:** 13,031.9 hours (37.64% of total time) — ↑ 3.0 hrs (Jul 3-4): Hurricane IDIQ firmware/QC, Flight Testing
-2. **Stachura:** 2,386.8 hours (↑ 1.4 hrs: Hurricane IDIQ)
-3. **Nate:** 1,737.9 hours (↑ 8.0 hrs: PTO) — *sustained high activity*
-4. **Alex:** 1,995.2 hours
-5. **Kay Rufty:** 1,974.0 hours
+1. **Jack Elston:** 13,031.9 hours (37.64% of total time)
+2. **Alex:** 1,995.2 hours
+3. **Kay Rufty:** 1,974.0 hours
+4. **Stachura:** 2,386.8 hours
+5. **Nate:** 1,737.9 hours
 6. **Josh Fromm:** 1,799.4 hours
-7. **Dan:** 1,600.2 hours (↑ 1.5 hrs: General Operations)
+7. **Dan:** 1,600.2 hours
 8. **Jake Sahli:** 1,280.6 hours
 9. **Maciej Stachura:** 1,245.2 hours
 10. **Parker:** 1,218.7 hours
@@ -26,64 +26,65 @@
 16. **Remaining 13 team members:** ~4,318.6 hours combined
 
 ### Utilization Patterns
-- **Hurricane IDIQ sustained momentum:** 5.8 hours (Jul 3-4) across 2 contributors (Jack Elston 3.0 hrs firmware/flight testing, Stachura 1.4 hrs)—continues high-velocity development pattern
-- **Nate's PTO week:** 8.0 hours confirmed (Jul 3-4)—full-day absence noted; team capacity reduced by lead contributor
-- **Jack Elston's dual focus:** Firmware Release/QC Tool + Flight Testing entries—indicates project phase transition or parallel workstreams
-- **Overhead stable:** 1.5 hours (Dan, General Operations)—minimal non-billable activity this period
-- **4 contributors active over 2-day period**; reduced from previous 6-person span due to PTO
+- **Jack Elston dominance:** 37.64% of all time tracked—core resource across firmware, flight testing, and project leadership
+- **Hurricane IDIQ sustained momentum:** Jack Elston (3.0 hrs) + Stachura (1.4 hrs) = 5.8 hours on Jul 3-4; three-person core team (Jack, Nate, Stachura) maintains velocity despite absences
+- **Nate's PTO week (Jul 3-4):** 8.0 hours recorded; full-day absence noted; team carries workload without lead contributor
+- **Overhead stable:** 1.5 hours (Dan, General Operations)—minimal non-billable activity
+- **Data gap alert:** No time entries recorded for Jul 4-5; possible weekend period or team pause
 
 ## Project Portfolio
 
-### Top Projects by Hours (Updated)
+### Top Projects by Hours (Current)
 1. **Project None (Unallocated):** 8,720.6 hours (25.19%)
 2. **Project 183171534:** 4,535.8 hours (13.10%)
-3. **[301-2] SBIR - Hurricane Phase II+ (NOAA):** 3,292.8 hours (9.52%)
+3. **[301-2] SBIR - Hurricane Phase II+ (NOAA):** 3,292.8 hours (9.52%) — *Core active project*
 4. **[200-12] Aeropods (NASA):** 1,972.1 hours (5.70%)
-5. **[001-13] Corporate/Strategic Planning & Overhead:** 2,090.1 hours (6.04%) ↑ *+1.5 hrs (General Operations)*
+5. **[001-13] Corporate/Strategic Planning & Overhead:** 2,090.1 hours (6.04%)
 6. **[001-04] S0 VTOL IRAD:** 1,363.0 hours (3.94%)
 7. **[200-7] SBIR - Volcano CCRPP:** 1,248.1 hours (3.61%)
-8. **[300-3] 2026 IDIQ (Hurricane):** 245.6 hours (0.710%) ↑ *+4.4 hrs (Jul 3-4)*
-9. **[001-07] S3 IRAD:** 359.3 hours (1.04%)
-10. **[400-5] SBIR - Soil Moisture Mapping (Air Force):** 1,006.2 hours (2.91%)
-11. **[001-08] Flight Testing IRAD:** 946.1 hours (2.74%)
-12. **[001-16] SwiftStation IRAD:** 901.3 hours (2.61%)
-13. **[001-14] SwiftCore 3.3 IRAD:** 790.6 hours (2.29%)
-14. **[043-3] ByLight M2/Halo:** 31.5 hours (0.091%)
-15. **[001-03] S0-AD IRAD:** 271.1 hours (0.79%)
-16. **[001-01] General IRAD:** 4.4 hours (0.013%)
-17. **[550-1] Navy SBIR: Magnetometer:** 80.4 hours (0.232%)
-18. **[001-20] PTO:** 282.5 hours (0.817%) ↑ *+8.0 hrs (Nate)*
-19. Remaining projects: <100 hours each
+8. **[300-3] 2026 IDIQ (Hurricane):** 245.6 hours (0.710%) — *+4.4 hrs (Jul 3-4)*
+9. **[400-5] SBIR - Soil Moisture Mapping (Air Force):** 1,006.2 hours (2.91%)
+10. **[001-08] Flight Testing IRAD:** 946.1 hours (2.74%)
+11. **[001-16] SwiftStation IRAD:** 901.3 hours (2.61%)
+12. **[001-14] SwiftCore 3.3 IRAD:** 790.6 hours (2.29%)
+13. **[001-07] S3 IRAD:** 359.3 hours (1.04%)
+14. **[001-03] S0-AD IRAD:** 271.1 hours (0.79%)
+15. **[001-20] PTO:** 282.5 hours (0.817%) — *+8.0 hrs (Nate, Jul 3-4)*
+16. Remaining projects: <100 hours each
 
-### Client Distribution (Updated)
+### Client Distribution (Current)
 - **IRAD (Internal R&D):** 7,125.7 hours (20.61%)
-- **Overhead/Corporate/Operations:** 2,090.1 hours (6.04%) ↑
-- **NOAA:** 3,538.4 hours (10.23%) ↑ *+4.4 hrs Hurricane IDIQ*
+- **NOAA (Hurricane IDIQ):** 3,538.4 hours (10.23%) — *Primary growth driver*
 - **NASA:** 2,058.8 hours (5.95%)
+- **Overhead/Corporate/Operations:** 2,090.1 hours (6.04%)
 - **Department of Air Force:** 1,258.5 hours (3.64%)
-- **Navy (SBIR/STTR):** 80.4 hours (0.232%)
-- **ByLight:** 31.5 hours (0.091%)
-- **PTO/Sick Leave:** 282.5 hours (0.817%) ↑ *+8.0 hrs*
 - **Unallocated:** 8,720.6 hours (25.19%)
-- **Murray State:** 37.7 hours (0.109%)
+- **PTO/Sick Leave:** 282.5 hours (0.817%)
+- **Navy (SBIR/STTR):** 80.4 hours (0.232%)
+- **Other:** 37.7 hours (0.109%)
 
 ## Patterns & Insights
 
-### Hurricane IDIQ Sustained Development (Jul 1-4)
-- **66.2 hours across 4 consecutive 2-day periods** (69.6 total hours in 8 days)—consistent 45%+ weekly allocation of core project team
-- **Three-person core team active:** Jack Elston, Nate, Stachura—reliable deployment unit; Nate absent this period (PTO) but team maintains momentum
-- **Jack Elston's dual responsibilities surfacing:** Firmware Release/QC Tool + Flight Testing work in single 2-day span—suggests project entering integrated testing phase or dependency between workstreams
-- **Team resilience without lead:** Despite Nate's PTO, Hurricane IDIQ received 5.8 hours from Jack + Stachura—project priority maintained
+### Hurricane IDIQ: Sustained Core Project
+- **3,538.4 total hours (10.23% of all time)** across project lifecycle
+- **Three-person core team:** Jack Elston, Nate, Stachura reliably allocated
+- **Recent activity (Jul 3-4):** 5.8 hours—demonstrates project maintains priority and velocity despite team absences
+- **Jack Elston's dual workstreams:** Firmware Release/QC Tool + Flight Testing in parallel—suggests integrated testing phase
 
-### Nate's PTO Pattern
-- **16.0 hours total PTO (Jul 2-4)** logged across entries—suggests 2-day block (likely Jul 3-4 full days); pattern consistent with mid-week absence
-- **Impact:** Reduces top contributor by ~6.5 hours/day equivalent; Hurricane IDIQ team carries load with Jack Elston + Stachura (5.8 hrs this period)
+### Resource Concentration Risk
+- **Jack Elston at 37.64%** of all tracked time—single point of failure for firmware, testing, and project continuity
+- **Top 4 contributors (Jack, Stachura, Nate, Josh):** 9,155.0 hours (26.46% of total)—team heavily dependent on core contributors
+- **Remaining 24 team members:** 25,467.5 hours—broad distribution but weaker than top tier
 
-### Overhead Allocation Stability
-- **Minimal overhead growth:** Only 1.5 hours added (Dan, General Operations)—indicates focus remains on billable/IRAD projects
-- **Marketing/HR activities paused:** No entries from Paige Smith or strategic planning entries this period
+### Unallocated Work Concern
+- **8,720.6 hours (25.19%)** logged to "Project None"—indicates significant tracking gaps
+- **Likely root causes:** Administrative work, general R&D, or time entries created without project assignment
+- **Recommendation:** Audit highest-hour unallocated contributors to reallocate to specific projects
 
-### Project Momentum Status
-- **Hurricane IDIQ:** Sustained high-priority status; small team maintaining velocity despite key person absence
-- **ByLight M2/Halo:** No new activity this period; remains exploratory phase at 31.5 hours cumulative
-- **Unallocated work:** Remains significant at 25.19%—continues to indicate time tracking gaps or overhead not assigned to specific projects
+### IRAD Portfolio Health
+- **20.61% (7,125.7 hours)** invested in internal R&D across 7 active projects (S0 VTOL, Flight Testing, SwiftStation, SwiftCore 3.3, S3, S0-AD, General)
+- **S0 VTOL (1,363 hrs) and Flight Testing (946.1 hrs)** lead IRAD efforts—strategic technology development areas
+- **Balanced portfolio:** IRAD allocation reasonable given billable project demands
+
+### Data Collection Note
+- **Jul 4-5 period shows 0 hours**—likely weekend or team pause; no activity anomaly flagged

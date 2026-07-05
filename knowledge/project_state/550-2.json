@@ -33,7 +33,7 @@
         "amount": 34565.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-04"
+        "last_updated": "2026-07-05"
       },
       "purchases": {
         "amount": 0.0,
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": 96929.0,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-04T08:57:33Z"
+    "last_reconciled": "2026-07-05T08:51:21Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -84,14 +84,8 @@
       "author": "Maciej",
       "date": "2026-06-05",
       "text": "From Maciej (ts=1780605896.832689): Yeah, turns out he just wanted to focus on discussing commercial markets moving forward for BST from the industrial plan. Looks like he mainly wants to focus on expanding our non-DOD weather stuff first."
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-06-04",
-      "text": "From Maciej: Yeah, turns out he just wanted to focus on discussing commercial markets moving forward for BST from the industrial plan. Looks like he mainly wants to focus on expanding our non-DOD weather stuff first."
     }
   ],
-  "last_full_rebuild": "2026-07-04T08:57:33Z",
+  "last_full_rebuild": "2026-07-05T08:51:21Z",
   "last_incremental_update": null
 }
