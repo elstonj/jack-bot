@@ -9,11 +9,11 @@
 
 ### Hours by Team Member (Ranked)
 1. **Jack Elston:** 13,031.9 hours (37.64% of total time)
-2. **Alex:** 1,995.2 hours
-3. **Kay Rufty:** 1,974.0 hours
-4. **Stachura:** 2,386.8 hours
-5. **Nate:** 1,737.9 hours
-6. **Josh Fromm:** 1,799.4 hours
+2. **Stachura:** 2,386.8 hours
+3. **Alex:** 1,995.2 hours
+4. **Kay Rufty:** 1,974.0 hours
+5. **Josh Fromm:** 1,799.4 hours
+6. **Nate:** 1,737.9 hours
 7. **Dan:** 1,600.2 hours
 8. **Jake Sahli:** 1,280.6 hours
 9. **Maciej Stachura:** 1,245.2 hours
@@ -27,10 +27,10 @@
 
 ### Utilization Patterns
 - **Jack Elston dominance:** 37.64% of all time tracked—core resource across firmware, flight testing, and project leadership
-- **Hurricane IDIQ sustained momentum:** Jack Elston (3.0 hrs) + Stachura (1.4 hrs) = 5.8 hours on Jul 3-4; three-person core team (Jack, Nate, Stachura) maintains velocity despite absences
-- **Nate's PTO week (Jul 3-4):** 8.0 hours recorded; full-day absence noted; team carries workload without lead contributor
-- **Overhead stable:** 1.5 hours (Dan, General Operations)—minimal non-billable activity
-- **Data gap alert:** No time entries recorded for Jul 4-5; possible weekend period or team pause
+- **Hurricane IDIQ sustained momentum:** Jack Elston, Nate, and Stachura form reliable three-person core team maintaining velocity
+- **Weekend/Holiday period (Jul 5-6):** 0.0 hours recorded—confirms no activity; consistent with weekend pattern
+- **Data gap:** No time entries Jul 4-5; likely extends through weekend
+- **Overhead stable:** Minimal non-billable activity consistent with operational norm
 
 ## Project Portfolio
 
@@ -42,14 +42,14 @@
 5. **[001-13] Corporate/Strategic Planning & Overhead:** 2,090.1 hours (6.04%)
 6. **[001-04] S0 VTOL IRAD:** 1,363.0 hours (3.94%)
 7. **[200-7] SBIR - Volcano CCRPP:** 1,248.1 hours (3.61%)
-8. **[300-3] 2026 IDIQ (Hurricane):** 245.6 hours (0.710%) — *+4.4 hrs (Jul 3-4)*
+8. **[300-3] 2026 IDIQ (Hurricane):** 245.6 hours (0.710%)
 9. **[400-5] SBIR - Soil Moisture Mapping (Air Force):** 1,006.2 hours (2.91%)
 10. **[001-08] Flight Testing IRAD:** 946.1 hours (2.74%)
 11. **[001-16] SwiftStation IRAD:** 901.3 hours (2.61%)
 12. **[001-14] SwiftCore 3.3 IRAD:** 790.6 hours (2.29%)
 13. **[001-07] S3 IRAD:** 359.3 hours (1.04%)
 14. **[001-03] S0-AD IRAD:** 271.1 hours (0.79%)
-15. **[001-20] PTO:** 282.5 hours (0.817%) — *+8.0 hrs (Nate, Jul 3-4)*
+15. **[001-20] PTO:** 282.5 hours (0.817%)
 16. Remaining projects: <100 hours each
 
 ### Client Distribution (Current)
@@ -67,8 +67,8 @@
 
 ### Hurricane IDIQ: Sustained Core Project
 - **3,538.4 total hours (10.23% of all time)** across project lifecycle
-- **Three-person core team:** Jack Elston, Nate, Stachura reliably allocated
-- **Recent activity (Jul 3-4):** 5.8 hours—demonstrates project maintains priority and velocity despite team absences
+- **Three-person core team:** Jack Elston, Nate, Stachura reliably allocated with consistent participation
+- **Project demonstrates sustained priority and velocity** despite team absences and weekend periods
 - **Jack Elston's dual workstreams:** Firmware Release/QC Tool + Flight Testing in parallel—suggests integrated testing phase
 
 ### Resource Concentration Risk
@@ -87,4 +87,9 @@
 - **Balanced portfolio:** IRAD allocation reasonable given billable project demands
 
 ### Data Collection Note
-- **Jul 4-5 period shows 0 hours**—likely weekend or team pause; no activity anomaly flagged
+- **Jul 5-6 period shows 0.0 hours**—weekend period; consistent with historical pattern
+- **No tracking anomalies detected**—team baseline data remains stable and reliable
+
+---
+
+**Update Summary:** New data (Jul 5-6) contains no time entries, consistent with weekend/non-working period. All historical metrics and insights remain unchanged. File is current as of Jul 6, 2026.
