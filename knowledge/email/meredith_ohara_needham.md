@@ -1,10 +1,10 @@
 # Meredith O'hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 828 emails (816 previous + 12 new)
-- **Date range:** June 15–July 5, 2026 (21 days)
-- **Approximate volume:** ~39 emails/day
-- **Trend:** Sustained high-velocity component procurement; holiday promotional surge (Jul 4–5); out-of-office pattern active (Jul 3–4); payment processing ongoing; task backlog accumulating
+- **Total messages scanned:** 881 emails (828 previous + 53 new)
+- **Date range:** June 15–July 7, 2026 (23 days)
+- **Approximate volume:** ~38 emails/day
+- **Trend:** Sustained high-velocity component procurement continuing through early July; significant operational/administrative load (payroll corrections, tax documents, benefits coordination); government contract coordination active (NOAA); supplier backorder issues emerging
 
 ---
 
@@ -14,103 +14,84 @@
 
 **Automated Systems & Purchasing Routing:**
 
-1. **Purchasing system** (`purchasing@blackswifttech.com`) — **340+ messages cumulative**
-   - **Component deliveries & confirmations (Jul 3–4):**
-     - Amazon shipment: TUOLNK SMA Female to TNC connectors (Jul 4, 01:47 UTC)
-     - B&H Photo Order #1130358693 delivered (Jul 3, 14:49 UTC)
-     - UPS package deliveries (Jul 3, 14:00 & 18:00 UTC) [MULTIPLE]
-     - Redwing RC Order #34416 completed (Jul 3, 12:51 UTC) [IMPORTANT]
-     - Redwing RC shipment in transit (Jul 3, 12:50 UTC)
+1. **Purchasing system** (`purchasing@blackswifttech.com`) — **380+ messages cumulative**
+   - **Component deliveries & new orders (Jul 6–7):**
+     - **DigiKey** — Order shipped (invoice 128702215, Jul 6), PO Acknowledgement (Salesorder #100222302, Jul 6)
+     - **Mini-box.com** — Invoice #139935 fulfilled via Fred Solis (Jul 6)
+     - **iTuner Networks Corporation** — Order #295-498797 fulfilled & received (Jul 6)
+     - **McMaster-Carr** — Multiple July 6 orders (3 separate confirmations/tracking: Jul 6, 16:24, 16:53, 17:15 UTC) [HIGH VOLUME SINGLE DAY]
+     - **ServoCity®** — Order Confirmation #300045463 (Jul 6) [IMPORTANT]
+     - **JawsTec Manufacturing LLC** — Order #69738 received; new payment request (Jul 6) [INVOICE 69738]
+     - **Rock West Composites** — Order Z100709106 delivered (Jul 6)
+     - **uAvionix** — Order received confirmation (Jul 6, 14:18 UTC)
    
-   - **Supplier newsletters & promotional routing (Jul 3–5):**
-     - **Jul 4–5 Independence Day promotional surge (8 new messages):**
-       - Comcast Business Internet monthly dashboard (Jul 5, 02:39 UTC)
-       - Powerwerx: July 4th solar panels/power boxes sale (Jul 5, 01:57 UTC)
-       - Rock West Composites: cart abandonment reminder (Jul 4, 15:04 UTC)
-       - My Lenovo Rewards monthly recap (Jul 4, 18:13 UTC)
-       - Speedway Motors: up to 70% off sale (Jul 4, 14:00 UTC)
-       - Harbor Freight: 4th of July promotion (Jul 4, 13:15 UTC)
-       - ELEGOO US: 4th of July sale (Jul 4, 13:01 UTC, routed to Alexis Lomis)
-     - HeliDirect: 4th of July sale promotion (Jul 4, 20:00 UTC) [Continued pattern]
-     - Battery Junction 4th of July deals (Jul 3, 16:03 UTC)
-     - eBay alerts: sony a5100 camera (Jul 3, 06:08 UTC)
-     - Hobbyking: KitFox 1250mm sports plane alert (Jul 3, 10:21 UTC)
+   - **Logistics & fulfillment (Jul 6):**
+     - UPS Pickup #29DE85F2692 completed (Jul 6, 14:51 UTC)
+     - UPS pickup request received (Jul 6, 13:02 UTC)
+     - **Pirate Ship** — Receipt for $59.87 payment (Jul 6, 16:58 UTC) [SHIPPING SERVICE]
+     - PayPal shipment notification (Jul 6, 07:46 UTC)
    
-   - **Logistics & fulfillment:**
-     - USPS Informed Delivery daily digest (Jul 3, 13:23 UTC)
-     - UPS tracking notifications (Jul 3, 14:00 & 18:14 UTC) [MULTIPLE]
-   
-   - **Critical alerts:**
-     - **"You Have Past Due Invoices"** (Jul 4, 07:17 UTC) [UNREAD] — **FLAG: Accounts payable delinquency**
-   
-   - **Status:** Sustained component procurement pattern continues; holiday promotional volume spike suggests aggressive supplier engagement; past due invoices alert persists.
+   - **Critical alerts & issues:**
+     - **uAvionix Support Ticket #50873 (Jul 6, 20:34–20:36 UTC)** — **"We just placed an order for 4 pingRX Pros, but noticed it is listed as being on back order. Do you have a general idea of when it might ship?"** [IMPORTANT, ROUTED TO JOSH FROMM] — **FLAG: CRITICAL BACKORDER ISSUE on aerospace/UAV component**
 
 ---
 
-2. **Direct Vendor Contact (Email):**
+2. **Direct Vendor Contact (Email — New/Updated):**
 
-   - **uAvionix** (`squawk@uavionix.com`) — **AEROSPACE/UAV SUPPLIER**
-     - **"Celebrating 250 Years of American Innovation" (Jul 4, 14:30 UTC)** [UNREAD, IMPORTANT]
-     - **Recipients:** Jack Elston (`admin@blackswifttech.com` and `purchasing@blackswifttech.com`)
-     - **Significance:** uAvionix sent parallel messages to Jack Elston (not Meredith directly); suggests Jack manages uAvionix relationship; uAvionix is critical aerospace component vendor (likely avionics/certification-related)
-     - **Status:** Direct supplier coordination with executive team
+   - **Sean Cole** (`sean@phase1av.com`) — **NEW VENDOR CONTACT**
+     - **"Re: Notice of shipment from Black Swift" (Jul 6, 20:31 UTC)** [UNREAD, IMPORTANT]
+     - Meredith initiated shipment notice to Sean (Jul 6, 14:25 UTC)
+     - **Significance:** Appears to be outbound shipment coordination from BST to Phase 1 AV (likely customer or partner); reverse logistics/fulfillment role
 
-   - **HeliDirect** (`sales@helidirect.com`) — **HELICOPTER/DRONE COMPONENTS**
-     - **"🗽 250 Years of Independence, 1 Epic Sale!" (Jul 4, 20:00 UTC)** [UNREAD]
-     - Direct email to Meredith (not routed through purchasing system)
-     - **Significance:** HeliDirect maintains direct contact with Meredith; continued holiday promotional outreach; key supplier for rotorcraft components
+   - **Thelma Moulds** (`thelma.moulds@wwex.com`) — **WORLDWIDE EXPRESS (SHIPPING/LOGISTICS)**
+     - **"RE: Locked out of account" (Jul 6, 13:32 UTC, 19:35 UTC)** [IMPORTANT, STARRED]
+     - Multiple exchanges (Jul 6, 10:47, 14:35, 13:32, 19:35 UTC) — account access issue being resolved
+     - **Significance:** Active account management with shipping/logistics partner; access/credential issue flagged
 
-   - **NewBeeDrone** (`support@newbeedrone.com`) — **DRONE SUPPLIER**
-     - **"🇺🇸✨ Independence Day Sale | Save 5%–25%" (Jul 4, 19:03 UTC)** [UNREAD]
-     - Routed to `purchasing@blackswifttech.com`
-     - **Significance:** New entry; drone-specific supplier engaging BST
-
-   - **Baofeng Radio** (`support@baofengradio.com`) — **RADIO COMMUNICATIONS**
-     - **"🤫 Just for you: Your VIP 20% OFF Site-Wide Code inside!" (Jul 4, 14:30 UTC)** [UNREAD]
-     - Direct email to Meredith (personalized VIP offer)
-     - **Significance:** VIP status with Baofeng; radio/communication equipment sourcing ongoing
+   - **uAvionix Support** — **CRITICAL BACKORDER COORDINATION**
+     - Support Ticket #50873 created (Jul 6, 20:34 UTC) regarding pingRX Pro units on backorder
+     - **Josh Fromm** is primary contact; escalated to purchasing team
+     - **Significance:** Critical aerospace avionics supplier experiencing stock issues; high priority component
 
 ---
 
-3. **Daniel Prendergast (Internal — Engineering/Operations Lead)** — **EXECUTIVE COORDINATION**
-   - **"Updated invitation: Business Operations Meeting @ Tue Jul 14, 2026 1:30pm - 2pm (MDT)" (Jul 3, 16:06 UTC)** [IMPORTANT]
-     - **Attendees:** Meredith Needham, Beck Cotter, Jack Elston, Nathaniel Straus, Paige Smith, Maciej Stachura
-     - **Significance:** Core operations/executive team meeting scheduled for Jul 14; indicates ongoing cross-functional governance
+3. **Internal Team — Operational & Administrative:**
+
+   - **Beck Cotter** (`beck.cotter@blackswifttech.com`) — **INTERNAL OPERATIONS**
+     - **"Fwd: Arctic UAS Location Change" (Jul 6, 14:26 UTC)** [IMPORTANT]
+     - Meredith replied: "Re: Arctic UAS Location Change" (Jul 6, 14:34 UTC) [SENT]
+     - Asana attachment: "NextTech Solutions - S3 Arctic [[001-13] BD Pipeline]" (Jul 6, 22:00 UTC) [UNREAD]
+     - **Significance:** Active Arctic UAS project coordination; location change logistics; business development pipeline tracking ("001-13" suggests project code)
+
+   - **Amy McLiverty — NOAA Federal** (`amy.l.mcliverty@noaa.gov`) — **GOVERNMENT CUSTOMER (CRITICAL)**
+     - **"Re: Extension for 1305M225P0034" (Jul 6, 20:21 UTC)** [IMPORTANT, INBOX]
+     - Meredith forwarded extension request (Jul 6, 14:21 UTC) [SENT]
+     - Meredith replied to extension request (Jul 6, 16:05 UTC) [SENT]
+     - **Significance:** Federal contract (1305M225P0034) deadline extension negotiation ongoing; NOAA is key government customer; contract administration active
 
 ---
 
-4. **Asana (Task Management System)** — **WORKLOAD ALERTS**
-   - **"📅 You have 6 overdue tasks" (Jul 3, 15:40 UTC)** [UNREAD, IMPORTANT] — **FLAG: Task backlog**
-   - **"Friday - tasks due soon: 10, tasks assigned: 12" (Jul 3, 14:56 UTC)** [UNREAD]
-   - **Status:** 6+ overdue tasks persist; high workload unresolved
+4. **Human Resources & Payroll — Administrative Load (New):**
 
----
+   - **Rippling Support** (`support@rippling.com`) — **PAYROLL CORRECTIONS (URGENT)**
+     - **"Trying to submit amendment for 2025 payroll corrections - instructions incorrect" (Jul 6, 16:08 UTC)** [DRAFT, UNSENT]
+     - Second draft: blank subject (Jul 6, 16:07 UTC) [DRAFT, UNSENT]
+     - **Significance:** 2025 payroll amendment corrections needed; system instructions are unclear; issue persists across multiple attempts
 
-5. **Rippling (HR/Payroll System)** — **SYSTEM ADMINISTRATION & COMPLIANCE**
-   - **"Updates to our Terms of Service" (Jul 3, 16:30 UTC)** [UNREAD]
-   - **"Action required: You have pending tasks in Black Swift Technologies" (Jul 3, 11:13 UTC)** [UNREAD]
-   - **Status:** Active pending tasks; system maintenance ongoing
+   - **Mark Kightlinger** (`Mark@kcotax.com`) — **TAX ADVISOR (BUSINESS & PERSONAL)**
+     - **"Fw: Time-Sensitive Request – Business Tax Returns & 2025 Extension" (Jul 6, 17:58 UTC)** [IMPORTANT]
+     - Meredith replied (Jul 6, 11:59 UTC) [SENT]
+     - Previous: "Re: 2025 taxes (Jack and Maciej)" (Jul 6, 11:28 UTC) [SENT]
+     - **Significance:** Business tax extension & returns being managed; **Jack Elston** and **Maciej Stachura** tax documents being coordinated; time-sensitive compliance issue
 
----
+   - **Chad Atwood** (`chad@theaiginc.com`) — **BENEFITS PROVIDER (THE AI GROUP INC)**
+     - **"Re: Benefit package request" (Jul 6, 16:11 UTC, 08:09 UTC)** [IMPORTANT, UNREAD]
+     - Meredith replied (Jul 6, 11:24 UTC) [SENT]
+     - **Significance:** Active benefits package coordination; likely employee benefits/health insurance administration
 
-6. **QuickBooks (Accounting System)** — **PAYMENT PROCESSING**
-   - **"Processing payment to Ted Miles" (Jul 3, 08:31 UTC)** [UNREAD]
-   - **Status:** Individual vendor/contractor payment processing ongoing
+   - **Crystal Aragon** (`CrystalAragon@rocketmortgage.com`) — **ROCKET MORTGAGE (LOAN PROCESSING)**
+     - **"RE: [External] Requested tax documents for Maciej Stachura" (Jul 6, 18:22 UTC)** [IMPORTANT]
+     - Meredith submitted tax documents (Jul 6, 12:07 UTC) [SENT]
+     - **Significance:** Personal mortgage loan processing for **Maciej Stachura** (executive team member); Meredith coordinating tax document submission
 
----
-
-7. **Toggl Inc (Time Tracking Vendor)** — **SUBSCRIPTION RENEWAL**
-   - **"Your Toggl Inc subscription will renew soon" (Jul 3, 22:30 UTC)** [UNREAD, IMPORTANT]
-   - **Status:** Time-tracking subscription active; renewal pending
-
----
-
-8. **Sean Cihacek (Your ABT — Equipment/Facilities Vendor)** — **OFFICE EQUIPMENT**
-   - **"The Copier Still Works, but.." (Jul 3, 14:00 UTC)** [UNREAD]
-   - **Status:** Facilities/copier maintenance issue active
-
----
-
-9. **Bloomberg (External News/Research)** — **MARKET INTELLIGENCE**
-   - **"Big Tech's AI field workers" (Jul 3, 11:05 UTC)** [UNREAD]
-   - **
+   - **Human Interest** (`nore

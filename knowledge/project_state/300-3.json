@@ -12,12 +12,12 @@
     "contacts": []
   },
   "contract": {
-    "type": "cost_reimbursable",
+    "type": "fixed_price",
     "number": "1305M226D0012",
     "total_value": 483000.0,
     "start_date": "2026-02-01",
     "end_date": "2031-01-31",
-    "payment_cadence": "milestone and task order based; NRE billed by completion of defined milestones; travel reimbursed per GSA FTR",
+    "payment_cadence": "milestone-based per ordering period",
     "documents": [
       "drive://Budget Structure",
       "drive://(1305M226D0012) Attachment 1-Specifications_Black Swift.pdf",
@@ -25,84 +25,60 @@
     ]
   },
   "budget": {
-    "approved": 13281250.0,
+    "approved": 16281750.0,
     "approved_source": "sow_drive",
     "line_items": [
       {
         "category": "Equipment",
-        "amount": 10986250.0,
-        "description": "Black Swift S0 sUAS Platforms: 150 units @ $18,000 (P1), 150 @ $18,630 (P2), 125 @ $19,282 (P3), 125 @ $19,957 (P4), 125 @ $20,655 (P5)",
+        "amount": 12981250.0,
+        "description": "Black Swift S0 sUAS Platforms: 150 EA @ $18,000 (Period 1) + 150 EA @ $18,630 (Period 2) + 125 EA @ $19,282 (Period 3) + 125 EA @ $19,957 (Period 4) + 125 EA @ $20,655 (Period 5)",
         "source_doc": null
       },
       {
         "category": "Labor",
-        "amount": 427500.0,
-        "description": "Mission Days Operational Support: 30 days @ $2,850 per period × 5 periods = $427,500",
-        "source_doc": null
-      },
-      {
-        "category": "Labor",
-        "amount": 180000.0,
-        "description": "Operational and Testing Support: 6 instances @ $6,000 per period × 5 periods = $180,000",
-        "source_doc": null
-      },
-      {
-        "category": "Labor",
-        "amount": 30000.0,
-        "description": "Operator and Observer Training Sessions: 1 @ $6,000 per period × 5 periods = $30,000",
-        "source_doc": null
-      },
-      {
-        "category": "Labor",
-        "amount": 3000.0,
-        "description": "Instructor Training Sessions: 1 @ $600 per period × 5 periods = $3,000",
+        "amount": 2640000.0,
+        "description": "Operations and Training Support Services across 5 periods: Mission Days (30 EA @ $2,850 each), Operational/Testing Support (6 EA @ $6,000 each), Operator Training (1 EA @ $6,000), Instructor Training (1 EA @ $600), Course Development (2 EA @ $6,000 each) = $127,500 per period x 5 periods",
         "source_doc": null
       },
       {
         "category": "Travel",
         "amount": 250000.0,
-        "description": "Travel for Operational Support (FTR-compliant): NTE $50,000 per period × 5 periods = $250,000",
+        "description": "Travel for Operational Support (Section 5.3): 1 LO NTE $50,000 per ordering period x 5 periods",
         "source_doc": null
       },
       {
-        "category": "Labor",
-        "amount": 60000.0,
-        "description": "Course Development (Operator/Observer and Instructor): 2 courses @ $6,000 each per period × 5 periods = $60,000",
-        "source_doc": null
-      },
-      {
-        "category": "Labor",
-        "amount": 990000.0,
-        "description": "Non-Recurring Engineering (NRE) - Technical Documentation, Modeling, and NHC Workflow: 3 tasks @ NTE $66,000 each per period × 5 periods = $990,000",
+        "category": "Other",
+        "amount": 370500.0,
+        "description": "Non-recurring Engineering: Technical Documentation ($66,000 NTE per period x 5), Modeling ($66,000 NTE per period x 5), NHC workflow integration ($66,000 NTE per period x 5) = $198,000 per period x 5 periods; plus $50,000 ODC contingency noted as NTE",
         "source_doc": null
       }
     ],
     "spent": {
       "labor": {
-        "amount": 139083.75,
+        "amount": 141992.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-05"
+        "last_updated": "2026-07-07"
       },
       "purchases": {
         "amount": 970.76,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-07-05"
+        "last_updated": "2026-07-07"
       },
       "other_qbo": {
-        "amount": 0.0,
+        "amount": 57.83,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-07-05"
+        "last_updated": "2026-07-07"
       },
-      "total": 140054.51,
+      "total": 143021.09,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 13141195.49,
+    "remaining": 16138728.91,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-05T08:50:16Z"
+    "last_reconciled": "2026-07-07T09:02:32Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -152,6 +128,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-07-05T08:50:16Z",
+  "last_full_rebuild": "2026-07-07T09:02:32Z",
   "last_incremental_update": null
 }

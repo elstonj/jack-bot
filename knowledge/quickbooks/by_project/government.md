@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $4,462,176.28
-- **Total Expenses (Bills + Purchases):** $1,333,357.42
+- **Total Expenses (Bills + Purchases):** $1,333,414.25
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,128,818.86 (invoiced minus expenses)
+- **Net Position:** $3,128,761.03 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -76,8 +76,8 @@
 
 ---
 
-### **Materials & Supplies: $472,884.14**
-**Number of transactions:** 215  
+### **Materials & Supplies: $472,941.97**
+**Number of transactions:** 216  
 **Key vendors & items:**
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
   - **DKC*DIGI KEY CORP - 4617** (2026-06-17): $170.70 [DC-Direct Material Purchases]
@@ -105,7 +105,7 @@
   - **Direct Cost Materials & Supplies impact: $479.80**
 - **Amazon MKTPL*4Z8IL5283** (2026-06-29): **$34.59** [DC-Direct Material Purchases] — 64GB PNY Elite-X Fit USB 3.1 Flash Drive
 
-**Recent transactions (2026-06-24 to 2026-07-02):**
+**Recent transactions (2026-06-24 to 2026-07-07):**
 - **Purchase #0624JELSTON** (2026-06-24): 
   - $2.58 [DC-Direct Material Purchases] — By Light Supplies
   - $20.93 [DC-Direct Material Purchases] — Navy Magnetometer
@@ -125,13 +125,8 @@
   - $26.00 [DC-Direct Material Purchases] — Wire transfer (no Asana request; Alex purchase via email)
   - *Note: Initial wire transfer through Wells Fargo was returned*
   - Subtotal materials: **$156.00**
-- **Purchase** (2026-07-02): **$122.60** [DC-Direct Material Purchases] — IDIQ GPS_ground_plane.dxf
+- **Purchase #03236** (2026-07-02): **$122.60** [DC-Direct Material Purchases] — IDIQ GPS_ground_plane.dxf
+- **Purchase** (2026-07-06): **$57.83** [DC-Direct Material Purchases] — Medium box foam corners
+  - *Memo: No Asana request - Josh Fromm made purchase in person*
 
-**Subtotal new materials & supplies (2026-06-24 to 2026-07-03): $2,420.33**
-
-**Total direct cost materials & supplies through 2026-09-28: $472,884.14** *(confirmed final)*
-
----
-
-### **Travel: $0.00**
-**Number of transactions:** 0
+**Subtotal new materials & supplies (2026-06-24 to 2026-07-07):

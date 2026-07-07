@@ -1,46 +1,59 @@
 {
   "project_code": "001-7",
   "qbo_class_names": [
-    "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
+    "(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-06-29",
-    "end": "2026-06-30"
+    "start": "2026-07-05",
+    "end": "2026-07-07"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 1822.0,
+    "expenses": 277.41,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 1822.0
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 277.41
     }
   },
   "invoices": [],
-  "bills": [
+  "bills": [],
+  "purchases": [
     {
-      "type": "Bill",
-      "date": "2026-06-29",
-      "doc_number": "PwrSupply",
-      "total": 2122.0,
-      "attributed": 1822.0,
-      "vendor": "Summit Assembly, LLC",
+      "type": "Purchase",
+      "date": "2026-07-09",
+      "doc_number": "260621W008238",
+      "total": 217.54,
+      "attributed": 217.54,
+      "vendor": "",
       "customer": "",
-      "balance": 0.0,
-      "memo": "June 2026 work",
+      "balance": null,
+      "memo": "",
       "lines": [
         {
-          "amount": 1822.0,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
-          "description": "PCB Assembly Assembly x 4"
-        },
+          "amount": 217.54,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipment from Lee Skidmore to BST"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-06",
+      "doc_number": "434939643",
+      "total": 59.87,
+      "attributed": 59.87,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PIRATE SHIP * POSTAGE - 7333",
+      "lines": [
         {
-          "amount": 300.0,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
-          "description": "Stencil & Set Up"
+          "amount": 59.87,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipment to Sean Cole for S3"
         }
       ]
     }
   ],
-  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

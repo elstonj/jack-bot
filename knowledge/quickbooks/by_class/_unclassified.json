@@ -2,157 +2,152 @@
   "project_code": "_unclassified",
   "qbo_class_names": [
     "",
-    "[012-3] Embry Riddle Model S0"
+    "Invest Ottawa"
   ],
   "period": {
-    "start": "2026-07-02",
-    "end": "2026-07-03"
+    "start": "2026-07-05",
+    "end": "2026-07-07"
   },
   "totals": {
-    "revenue": 0.0,
-    "expenses": 2773.46,
+    "revenue": 5000.0,
+    "expenses": 9610.7,
     "by_category": {
-      "Inventory Asset": 2662.18,
-      "DIRECT COSTS:DC-Direct Material Purchases": 91.28,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 20.0
+      "Inventory Asset": 8962.88,
+      "FACILITIES:FA-Shop Supplies": 320.65,
+      "DIRECT COSTS:DC-Direct Material Purchases": 237.23,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 87.44,
+      "GENERAL & ADMINISTRATIVE:GA-Professional Fees": 2.5
     }
   },
-  "invoices": [],
+  "invoices": [
+    {
+      "type": "Invoice",
+      "date": "2026-07-06",
+      "doc_number": "1771",
+      "total": 5000.0,
+      "attributed": 5000.0,
+      "vendor": "",
+      "customer": "Invest Ottawa",
+      "balance": 5000.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 5000.0,
+          "account": "",
+          "description": ""
+        },
+        {
+          "amount": 5000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    }
+  ],
   "bills": [],
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-02",
-      "doc_number": "34416",
-      "total": 705.87,
-      "attributed": 705.87,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Paypal",
-      "lines": [
-        {
-          "amount": 705.87,
-          "account": "Inventory Asset",
-          "description": "For future S0 VTOL sales"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-02",
-      "doc_number": "07-6668",
-      "total": 536.91,
-      "attributed": 536.91,
+      "date": "2026-07-09",
+      "doc_number": "260627W001050",
+      "total": 2.5,
+      "attributed": 2.5,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 536.91,
-          "account": "Inventory Asset",
-          "description": "For future S0 VTOL sales"
+          "amount": 2.5,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Professional Fees",
+          "description": "General fee"
         }
       ]
     },
     {
       "type": "Purchase",
-      "date": "2026-07-02",
-      "doc_number": "69694",
-      "total": 323.86,
-      "attributed": 323.86,
+      "date": "2026-07-06",
+      "doc_number": "0706JELSTON",
+      "total": 381.6,
+      "attributed": 349.8,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Items were incorrectly entered as ByLight, but the majority were shop supplies.",
+      "lines": [
+        {
+          "amount": 349.8,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": ""
+        },
+        {
+          "amount": 31.8,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-06",
+      "doc_number": "100222302",
+      "total": 4115.91,
+      "attributed": 4026.53,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 89.38,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "SwiftStation parts"
+        },
+        {
+          "amount": 4026.53,
+          "account": "Inventory Asset",
+          "description": "Future S3 sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-06",
+      "doc_number": "69738",
+      "total": 3750.77,
+      "attributed": 3529.65,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "JAWSTEC - 4617",
       "lines": [
         {
-          "amount": 323.86,
-          "account": "Inventory Asset",
-          "description": "For future S0 VTOL sales"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-02",
-      "doc_number": "",
-      "total": 326.92,
-      "attributed": 326.92,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Paypal\n\nFor future S0 VTOL Sales",
-      "lines": [
-        {
-          "amount": 15.51,
-          "account": "Inventory Asset",
-          "description": "FETtec Spike-Absorber x 6"
-        },
-        {
-          "amount": 311.41,
-          "account": "Inventory Asset",
-          "description": "SFOC 4in1 ESC 50APart x 6"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-02",
-      "doc_number": "",
-      "total": 479.9,
-      "attributed": 357.3,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 357.3,
-          "account": "Inventory Asset",
-          "description": "Items for S3 sales"
-        },
-        {
-          "amount": 122.6,
+          "amount": 221.12,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "IDIQ  GPS_ground_plane.dxf"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-02",
-      "doc_number": "SQ29Q224",
-      "total": 502.6,
-      "attributed": 502.6,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
+          "description": "For By Light"
+        },
         {
-          "amount": 502.6,
+          "amount": 3529.65,
           "account": "Inventory Asset",
-          "description": "Items for S0 VTOL sales"
+          "description": "For future S3 sales"
         }
       ]
     },
     {
       "type": "Purchase",
-      "date": "2026-07-02",
-      "doc_number": "260614W010104",
-      "total": 20.0,
-      "attributed": 20.0,
+      "date": "2026-07-06",
+      "doc_number": "",
+      "total": 1702.22,
+      "attributed": 1702.22,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 20.0,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": "Shipment of Model S0 to Embry Riddle"
+          "amount": 1702.22,
+          "account": "Inventory Asset",
+          "description": "for future S3 sales"
         }
       ]
     }

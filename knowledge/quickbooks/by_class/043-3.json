@@ -4,14 +4,16 @@
     "[043-3] By Light Halo"
   ],
   "period": {
-    "start": "2026-06-30",
-    "end": "2026-07-01"
+    "start": "2026-07-05",
+    "end": "2026-07-07"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 115.61,
+    "expenses": 252.92,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 115.61
+      "Inventory Asset": 208.08,
+      "FACILITIES:FA-Shop Supplies": 29.15,
+      "DIRECT COSTS:DC-Direct Material Purchases": 15.69
     }
   },
   "invoices": [],
@@ -19,19 +21,47 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-06-30",
-      "doc_number": "",
-      "total": 115.61,
-      "attributed": 115.61,
+      "date": "2026-07-06",
+      "doc_number": "0706JELSTON",
+      "total": 381.6,
+      "attributed": 31.8,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "DKC*DIGI KEY CORP - 4617",
+      "memo": "Items were incorrectly entered as ByLight, but the majority were shop supplies.",
       "lines": [
         {
-          "amount": 115.61,
+          "amount": 349.8,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": ""
+        },
+        {
+          "amount": 31.8,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "HEATSINK PWR DUAL BLACK T"
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-06",
+      "doc_number": "69738",
+      "total": 3750.77,
+      "attributed": 221.12,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "JAWSTEC - 4617",
+      "lines": [
+        {
+          "amount": 221.12,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "For By Light"
+        },
+        {
+          "amount": 3529.65,
+          "account": "Inventory Asset",
+          "description": "For future S3 sales"
         }
       ]
     }
