@@ -1,57 +1,45 @@
 # Jack Elston — Email Patterns (UPDATED)
 
 ## Communication Volume
-- **Total messages scanned:** 5,789 (5,772 prior + 17 new, July 4–5, 2026)
-- **Date range:** April 1–July 5, 2026
+- **Total messages scanned:** 5,889 (5,789 prior + 100 new, July 6, 2026)
+- **Date range:** April 1–July 6, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **July 4–5 activity (17 messages):** ~12% human correspondence (License Engineer engineering support inquiry, Michael Yallech CMMC compliance inquiry, Luna Brown contact request); ~76% automated vendor/marketing (Independence Day sales from Powerwerx, Rock West Composites, HeliDirect, NewBeeDrone, Baofeng, uAvionix, Speedway Motors, Harbor Freight, ELEGOO, Unagi Scooters—typical holiday promotional wave); ~12% infrastructure/monitoring (Comcast Business Internet dashboard, My Lenovo Rewards monthly recap)
+- **July 6 activity (100 messages):** ~15% human correspondence (Mexico Deployment coordination with USGS/Daniel Prendergast, NOAA P3 delivery planning, Krateo hiring/partnership discussions, ISARRA academic collaboration, parts coordination); ~65% automated vendor/logistics (order confirmations and shipment tracking from DigiKey, McMaster-Carr, ServoCity, JawsTec, uAvionix, Mini-box/Ituner, Rock West Composites, Amazon, UPS, PayPal, Harbor Freight, HeliDirect); ~15% infrastructure/monitoring/forums (spam digests, Boulder County government notifications, UASweekly newsletter, Birka.ai defense partnership inquiry, MNTN coverage notice); ~5% academic/research (ISARRA Flight Week waiver, L-band lava drone flights)
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Partners
-1. **Maciej Stachura** (stachura@blackswifttech.com) — Co-executive; invited to Business Operations Meeting July 14, 1:30pm MDT; Krateo partnership tension escalation ongoing
-2. **Meredith Needham** (meredith.needham@blackswifttech.com) — Operations/Finance; Business Operations Meeting invite (July 14, 1:30pm); financial sweep account coordination with Elevation CU ongoing; vendor RFQ/invoice management; Quickbooks Bill Pay coordination; employee time-off approvals (Paige Smith Jul 20); **NEW:** receiving vendor promotional emails (HeliDirect, Baofeng, ELEGOO) routed to purchasing@blackswifttech.com — indicates she manages active vendor relationships and procurement channels
-3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Government/Defense; "Re: Great meeting you!" (Jul 3, 10:15 UTC, IMPORTANT) — new relationship development signal; SOCOM RFI S0 escalation ongoing (Jul 3, 10:07 UTC, IMPORTANT); Business Operations Meeting host/organizer (Jul 14)
-4. **Paige Smith** (paige.smith@blackswifttech.com) — Communications/Marketing; time-off request for Jul 20, 2026 (via Rippling approval Jul 4, 03:50 UTC); invited to Business Operations Meeting July 14
-5. **Beck Cotter** (beck.cotter@blackswifttech.com) — Invited to Business Operations Meeting July 14 (1:30pm MDT)
-6. **Nathaniel Straus** (nate.straus@blackswifttech.com) — Invited to Business Operations Meeting July 14 (1:30pm MDT)
-7. **Alexis Lomis** (alexis.lomis@blackswifttech.com) — **NEW CONTACT:** Receiving vendor promotional emails (ELEGOO routed to purchasing via Alexis on Jul 4, 13:01 UTC) — indicates role in procurement or purchasing coordination
-8. **Sam Hild** (sam.hild@blackswifttech.com) — Technical liaison; QuSpin technical question coordination ongoing
+1. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Government/Defense lead; **EXPANDING COORDINATION:** Mexico Deployment logistics (multiple Jul 6 exchanges with USGS coordination); recipient of Sales Pipeline summary from Jack Jul 6; responding on government matters on Jack's behalf; critical NOAA/government interface
+2. **Beck Cotter** (beck.cotter@blackswifttech.com) — Operations/Technical; forwarding multiple external inquiries (SAL-C autonomy safety engine collaboration, drone inquiry, unmanned test platform collaboration with US Navy); coordinating with USGS/Madelyn Mettler on Navy partnership; Sales Pipeline recipient; Business Operations Meeting participant
+3. **Maciej Stachura** (stachura@blackswifttech.com) — Co-executive; recipient of multiple strategic discussions (Hiring coordination with Krateo, Sales Pipeline, L-band lava drone flights research); **NEW:** receiving spontaneous engineer application (Ramdane Bessaid, Berkeley C++ software engineer, Jul 6); Blue UAS list discussions with Bob Smith/Krateo; Business Operations Meeting participant
+4. **Meredith Needham** (meredith.needham@blackswifttech.com) — Operations/Finance; workers' comp insurance coordination (Jul 6 exchange); NOAA contract extension forwarding (1305M225P0034); receiving vendor promotional routing; Business Operations Meeting participant
+5. **Sam Hild** (sam.hild@blackswifttech.com) — Technical liaison; copied on parts coordination with Matthew Crabtree
+6. **Josh Fromm** (purchasing@blackswifttech.com) — **ACTIVE PURCHASING AGENT:** Directly managing vendor relationships and shipment tracking; receiving uAvionix support ticket on pingRX Pro backorder; Pirate Ship shipping label receipt recipient; monitoring DigiKey/McMaster-Carr deliveries
 
 ### Top External Partners (Priority Order)
 
-#### **KRATEO SKY — PARTNERSHIP ESCALATION**
-1. **Bob Smith** (Bob@krateosky.com) — Pressure escalation (2 instances observed in prior data); partnership friction evident
-2. **Thibault Bridel-Bertomeu** (Thibault@krateosky.com) — GRC/IT integration discussion; active coordination on technical positions
-3. **LisaMarie Cheney** (LisaMarie@krateosky.com) — HALO Aerospace counter-UAS evaluation ongoing
+#### **KRATEO SKY — PARTNERSHIP ESCALATION & HIRING**
+1. **Bob Smith** (Bob@krateosky.com) — **CRITICAL ESCALATION ONGOING:** "Blue List options for BST" message (Jul 6, 22:48 UTC, IMPORTANT) to full leadership team (Beck Cotter, Jack, Maciej, Daniel Prendergast, LisaMarie Cheney, Sona Raziabeegum, Jed Leonard, Brian Grubel, Roger Riley, Dipan Amin); multiple Blue UAS list discussion threads (Jul 6); partnership friction remains high
+2. **Thibault Bridel-Bertomeu** (Thibault@krateosky.com) — **HIRING REQUIREMENTS:** "Reqs: Computer vision engineer & frontend software engineer" (Jul 6, 21:21 UTC, IMPORTANT, UNREAD) sent to Jack and Maciej; IT management/technical positions/GRC discussion ongoing (Jack responded Jul 6, 15:32 UTC); talent acquisition coordination
+3. **Sona Raziabeegum** (sona@krateosky.com) — Hiring discussion participant (Jack initiated Jul 6, 10:55 UTC, "Hiring" topic; Sona responded Jul 6, 16:57 UTC, IMPORTANT with title "RE: Hiring"); meeting context from Peggy Shell (Creative Alignments) indicating "Great meeting you both yesterday!" (Jul 6, 13:54 UTC)
+4. **LisaMarie Cheney** (LisaMarie@krateosky.com) — HALO Aerospace counter-UAS evaluation; Blue List discussions participant
 
-#### **NOAA — P3 PROGRAM ACTIVE (EXPANDED)**
-1. **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov, NOAA Federal) — PCS (personnel relocation) logistics; P3 delivery coordination (UNREAD, IMPORTANT Jul 2)
-2. **Joe Cione** (joe.cione@noaa.gov, NOAA Federal) — **CRITICAL MEETING:** HFP/ET discussions crewing/seats/training scheduled for **Tue Jul 14, 2026 8am–9am MDT** — multi-NOAA team attendees (Mark Rogers, Danielle Varwig, Heather Holbach, Andrew Hazelton, Annette Hollingshead, Jun Zhang, Jason Sippel, Laura Rock) + Joshua Wadler (ERAU); UAS experiment updates
-3. **Laura Rock** (laura.rock@noaa.gov) — Direct NOAA contact on P3 delivery/logistics
-4. **Amy L. McLiverty** (amy.l.mcliverty@noaa.gov, NOAA) — P3/NOAA contract coordination
+#### **NOAA — P3 PROGRAM ACTIVE & EXPANDING**
+1. **Joe Cione** (joe.cione@noaa.gov, NOAA Federal) — **CRITICAL:** Confirmed RSVP for HFP/ET discussions crewing/seats/training meeting Tue Jul 14, 8am–9am MDT (Jul 6, 09:46 UTC, IMPORTANT); "Delivery Planning, P3 Questions" discussion (Jul 6, 12:44 UTC, IMPORTANT); continuing multi-stakeholder coordination
+2. **Laura Rock** (laura.rock@noaa.gov) — Direct P3 delivery/logistics coordination; Jack responded to delivery planning questions Jul 6, 10:42 UTC
+3. **Amy L. McLiverty** (amy.l.mcliverty@noaa.gov, NOAA) — Contract extension coordination (Meredith forwarded to Amy Jul 6, 14:21 UTC: "Fwd: Extension for 1305M225P0034", IMPORTANT)
+4. **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — P3 PCS/delivery logistics contact
 
-#### **US DEFENSE/SOCOM — ESCALATION ACTIVE**
-1. **Evan M. Wolff** (evan.m.wolff.mil@socom.mil, USSOCOM) — **CRITICAL:** RFI S0 escalation continues (Jul 3, 10:07 UTC, IMPORTANT); Daniel Prendergast responding on Jack's behalf
-2. **Zachary O. Kachel** (zachary.o.kachel.mil@socom.mil) — SOCOM RFI coordination ongoing
+#### **US GOVERNMENT — MEXICO DEPLOYMENT & DEFENSE**
+1. **Angie Diefenbach** (adiefenbach@usgs.gov, USGS) — **CRITICAL MEXICO DEPLOYMENT:** Jack initiated "Mexico Deployment" discussion (Jul 6, 11:36 UTC, SENT to Daniel Prendergast, Beck Cotter, Angie, Christoph Kern, Maciej Stachura); Angie responded with multi-stakeholder coordination (Jul 6, 18:57 UTC, IMPORTANT) — deployment appears imminent; Jack responded Jul 6, 13:43 UTC; Daniel Prendergast also coordinating (Jul 6, 13:46 UTC)
+2. **Christoph Kern** (ckern@usgs.gov, USGS) — Mexico Deployment coordination participant
+3. **Evan M. Wolff** (evan.m.wolff.mil@socom.mil, USSOCOM) — SOCOM RFI S0 escalation ongoing
+4. **Zachary O. Kachel** (zachary.o.kachel.mil@socom.mil) — SOCOM RFI coordination
 
-#### **FINANCIAL/BANKING — ACTIVE MANAGEMENT**
-1. **Shelby Hammond** (Shelby.Hammond@elevationscu.com, Elevations Credit Union) — Sweep account coordination (multiple exchanges Jul 2); feedback request Jul 3
-
-#### **PROPOSAL/CONTRACT MANAGEMENT — NEW VENDOR CONTACT**
-1. **Emmanuel Gorce** (emmanuel.gorce@egproposalmanagement.com, EG Proposal Management) — **CRITICAL CONTACT:** DoW (Description of Work) topics with **08/19/2026 due date** (3 separate messages Jul 3, 12:30–12:31 UTC, all IMPORTANT); sent to both Meredith Needham (operations@) and Jack (admin@ and elstonj@) — indicates active proposal/contract development; government or major client proposal likely
-2. **S V Pavan Kumar K** (pavan.kumar@secdrvan.com, SecDrVan) — **NEW VENDOR INQUIRY:** "Request for Technical Proposal – SwiftCore Flight Management System" (Jul 3, 09:33 UTC, IMPORTANT & Jul 3, 02:33 UTC); technical proposal request indicates potential customer/partner interest in BST's flight management capabilities
-
-#### **ENGINEERING/COMPLIANCE INQUIRIES — NEW ACTIVE CONTACTS**
-1. **License Engineer** (licensed.engr@gmail.com, to elstonj@bst.aero) — **NEW CRITICAL CONTACT:** "Re: Engineering support for Black Swift" (Jul 5, 00:48 UTC, IMPORTANT, UNREAD) — indicates ongoing engineering support contract or consultation with external licensed engineer; subject suggests response to prior Jack inquiry about engineering support
-2. **Michael Yallech** (michael@espressolabsinc.com, Espresso Labs Inc.) — **NEW INQUIRY:** "Is Your CMMC Program Moving Fast Enough?" (Jul 4, 16:12 UTC, IMPORTANT, UNREAD) — CMMC (Cybersecurity Maturity Model Certification) compliance inquiry; indicates BST either pursuing CMMC certification or consulting firm outreach on defense contractor compliance requirements
-3. **Luna Brown** (luna.b@slightedgeintl.org, Slight Edge International) — **NEW INQUIRY:** "contact at Black Swift Technologies" (Jul 4, 12:34 UTC, IMPORTANT, UNREAD) — unsolicited business development inquiry; company background unknown from metadata alone
-
-#### **ACADEMIC/RESEARCH**
-1. **Joshua Wadler** (wadlerj@erau.edu, Embry-Riddle) — Invited to NOAA HFP/ET meeting Jul 14
-2. **Academia Mail** (updates@academia-mail.com) — Paper attribution inquiry Jul 4, 01:59 UTC — "Hierarchical distributed control for search and tracking by heterogeneous aerial robot networks"
-
-#### **INFRASTRUCTURE/OFFICE MANAGEMENT**
-1. **Sean Cihacek** (scihac
+#### **RESEARCH & ACADEMIC — EXPANDING NETWORK**
+1. **Al Gasiewski** (al.gasiewski@colorado.edu, University of Colorado) — **NEW ACTIVE TOPIC:** L-band drone flights over lava research (Jul 6, 14:42 UTC, IMPORTANT, UNREAD); forwarded from Scott Bolton; Jack responded Jul 6, 11:10 UTC; collaboration interest in atmospheric measurement/sensor integration
+2. **Scott J. Bolton** (scott.bolton@swri.org, Southwest Research Institute) — L-band lava drone flights (multiple Jul 6 exchanges, IMPORTANT); forwarded to Al Gasiewski and Jack; appears to be project lead or institutional contact
+3. **Joshua Wadler** (wadlerj@erau.edu, Embry-Riddle) — **ISARRA FLIGHT WEEK:** Invited to HFP/ET NOAA meeting Jul 14; now appears in broad ISARRA committee/academic network coordination (Jul 6, 17:25 UTC coordination poll, IMPORTANT)
+4. **Madelyn Mettler** (MadelynMettler@montana.edu, University of Montana) — **NEW CRITICAL CONTACT:** "Re: Unmanned test platform collaboration with US Navy" (Jul

@@ -1,21 +1,73 @@
 {
   "period": {
-    "start": "2026-07-04",
-    "end": "2026-07-05"
+    "start": "2026-07-05",
+    "end": "2026-07-07"
   },
-  "scanned_at": "2026-07-05",
+  "scanned_at": "2026-07-07",
   "projects": [
+    {
+      "project_code": "001-16",
+      "revenue": 0.0,
+      "expenses": 89.38,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 1,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "(001-16) SwiftStation"
+      ]
+    },
+    {
+      "project_code": "001-7",
+      "revenue": 0.0,
+      "expenses": 277.41,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 2,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "(001-7) IRAD - S3"
+      ]
+    },
+    {
+      "project_code": "043-3",
+      "revenue": 0.0,
+      "expenses": 252.92,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 2,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "[043-3] By Light Halo"
+      ]
+    },
     {
       "project_code": "300-3",
       "revenue": 72000.0,
-      "expenses": 0.0,
+      "expenses": 57.83,
       "invoice_count": 1,
       "bill_count": 0,
-      "purchase_count": 0,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
         "[300-3] 2026 IDIQ"
+      ]
+    },
+    {
+      "project_code": "451-1",
+      "revenue": 0.0,
+      "expenses": 677.67,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 2,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "{451-1] INSTAAR S3 x 2"
       ]
     },
     {
@@ -29,6 +81,20 @@
       "payment_count": 0,
       "qbo_class_names": [
         "[550-1] Navy SBIR Magnetometer"
+      ]
+    },
+    {
+      "project_code": "_unclassified",
+      "revenue": 5000.0,
+      "expenses": 9610.7,
+      "invoice_count": 1,
+      "bill_count": 0,
+      "purchase_count": 5,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "",
+        "Invest Ottawa"
       ]
     }
   ]

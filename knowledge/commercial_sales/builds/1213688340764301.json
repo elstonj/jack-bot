@@ -1,0 +1,61 @@
+{
+  "asana_gid": "1213688340764301",
+  "asana_task_name": "S0-VTOL launch off Ron Brown",
+  "customer": "NOAA",
+  "customer_contact": "Chidong Zhang",
+  "customer_email": "chidong.zhang@noaa.gov",
+  "receive_by": "2028-05-01",
+  "ship_to": "",
+  "items": [
+    {
+      "description": "S0 VTOL",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "estimate_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": "2026-05-05",
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": "",
+  "paid_date": null,
+  "parts": [
+    {
+      "name": "Flight controller",
+      "ordered": false,
+      "received": false,
+      "vendor": "",
+      "order_date": null
+    },
+    {
+      "name": "ESC",
+      "ordered": false,
+      "received": false,
+      "vendor": "",
+      "order_date": null
+    },
+    {
+      "name": "Servos",
+      "ordered": false,
+      "received": false,
+      "vendor": "",
+      "order_date": null
+    }
+  ],
+  "tracking_number": "",
+  "carrier": "",
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Chidong Zhang (NOAA) concept for S0 VTOL autonomous launch/landing from research vessel Ron Brown with ~15k ft ceiling, 1+ km vertical sounding capability, 45-day cruise, Spring 2028 target mission. Preliminary estimate sent 5/5/26; customer pursuing larger NOAA funding via Ron Brown side; preliminary ~$18k identified. Requires publications collaboration.",
+  "missing_fields": [
+    "ship_to",
+    "receive_by"
+  ],
+  "last_evidence_date": "2026-07-03",
+  "last_contact_date": "2026-06-15"
+}

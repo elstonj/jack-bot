@@ -11,7 +11,7 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Switched from Castle ESC to 36A version for improved reliability (November 2020)
 - Spring steel antenna wrapped around fuselage confirmed as optimal design (November 2020)
 - Wing pivot system designed to "fall away" after deployment to save weight (December 2020)
-- Deployment timing set at 5 seconds (parachute flap) and 10 seconds (tube release) (April 2021)
+- Deployment timing set at 1s door open detection, 3s later chute deploy, 5s later tube jettison, 5s later aircraft release (updated July 6, 2026; previously April 2021: 5 seconds parachute flap, 10 seconds tube release)
 
 **Sensor & Electronics:**
 - Selected SF20 laser altimeter over SF22 due to Ardupilot/PX4 integration issues (January 2021)
@@ -87,5 +87,4 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 
 **Sparv Dropsonde Partnership Discussion (June 9, 2026):**
 - Decision deferred on Sparv dropsonde drop payload concept - insufficient funding currently; other R&D with NOAA prioritized instead (June 9, 2026)
-- Sparv sensor integration as secondary comparison to Vaisala flagged as potential interest pending NOAA model acceptance and certification requirements (June 9, 2026)
-- S0-mini development for NASA glider
+- Sparv sensor integration as secondary comparison to

@@ -2,10 +2,10 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $2,992,489.34
-- **Total Expenses (Bills + Purchases):** $241,203.72
+- **Total Expenses (Bills + Purchases):** $241,843.16
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,751,285.62 (Revenue exceeds expenses)
-- **Date Range:** April 5, 2024 – July 3, 2026
+- **Net Position:** $2,750,646.18 (Revenue exceeds expenses)
+- **Date Range:** April 5, 2024 – July 9, 2026
 
 ---
 
@@ -79,9 +79,7 @@
 #### Notable Recent Invoices
 
 **Invoice #1770 — [044-1] EMASS Chip Integration (July 1, 2026): $6,000.00** ⚠️
-- $3,000.00 — Dated June 5, 2026
-- $3,000.00 — Dated June 26, 2026
-- *Outstanding balance; continuation of EMASS Chip Integration work*
+- Outstanding balance; continuation of EMASS Chip Integration work
 
 **Invoice #1769 — [044-1] EMASS Chip Integration (June 9, 2026): $25,000.00**
 - Outstanding balance; part of ongoing chip integration project
@@ -90,29 +88,25 @@
 
 ## Expenses by Cost Category
 
-### **Shipping/Freight** (Direct Cost Shipping, Freight & Delivery)
-**Total: $20.00** | 1 transaction | Largest item: $20.00
-
-| Date | Vendor/Description | Amount | Details |
-|------|-------------------|--------|---------|
-| 2026-07-02 | Purchase #260614W010104 | $20.00 | Shipment of Model S0 to Embry Riddle |
-
-**Account:** DIRECT COSTS: DC-Direct Cost Shipping, Freight & Delivery
-
----
-
 ### **Materials & Supplies** (Direct Cost Material Purchases)
-**Total: $813.12** | 6 transactions | Largest item: $499.00
+**Total: $1,490.94** | 10 transactions | Largest item: $499.00
 
 | Date | Vendor/Description | Amount | Details |
 |------|-------------------|--------|---------|
-| 2026-07-01 | Purchase #03236 (Wire Transfer) | $130.00 | Wire Transfer — unauthorized email purchase via sales rep |
-| 2026-07-01 | Purchase #03236 (Wire Transfer) | $26.00 | Wire Transfer — unauthorized email purchase via sales rep |
+| 2026-07-09 | SERVOCITY #7333 | $189.43 | 2302 Series Aluminum MOD 0.8 Hub Mount Gear and 2305 Series Brass MOD 0.8 Servo Gear |
+| 2026-07-06 | Purchase #69738 (JAWSTEC) | $221.12 | For By Light |
+| 2026-07-06 | Purchase #69729 (JAWSTEC) | $488.24 | For INSTAAR (shipped to Sean Cole) |
+| 2026-07-06 | Purchase #0706JELSTON | $31.80 | Shop supplies (incorrectly coded as By Light) |
 | 2026-06-30 | Purchase #2026-0411 | $499.00 | Processing data for Murray State |
-| 2026-06-30 | Digi Key Corp — Purchase #DKC*DIGI KEY CORP - 4617 | $115.61 | HEATSINK PWR DUAL BLACK T |
+| 2026-06-30 | Digi Key Corp #DKC*DIGI KEY CORP - 4617 | $115.61 | HEATSINK PWR DUAL BLACK T |
 | 2026-06-24 | Purchase #0624JELSTON | $20.93 | Navy Magnetometer |
 | 2026-06-24 | Purchase #0624JELSTON | $2.58 | By Light Supplies |
+| 2026-07-01 | Purchase #03236 (Wire Transfer) | $130.00 | Wire Transfer — unauthorized email purchase via sales rep |
+| 2026-07-01 | Purchase #03236 (Wire Transfer) | $26.00 | Wire Transfer — unauthorized email purchase via sales rep |
 
 **Account:** DIRECT COSTS: DC-Direct Material Purchases
 
-⚠️ **Notable Issue:** Purchase #03236 ($156.00 combined) — Wire Transfer flagged in memo as "No Asana
+---
+
+### **Rent/Facilities** (Facility Costs & Shop Supplies)
+**Total: $349.80** | 1

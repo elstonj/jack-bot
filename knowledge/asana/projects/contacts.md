@@ -41,8 +41,8 @@ This is a contact database, not a project with deliverables. Contains 100+ conta
 - **Geoffrey Bland (NASA Ames → Aeropods project)** — **HIGH PRIORITY**; Personal email: geodronez@gmail.com; was with NASA until August 2025, now helps manage/run Aeropods project; Geoffrey.l.bland@nasa.gov, gbaerokats@gmail.com; Address: Goddard Space Flight Center, 613 Wallops Flight Facility, 34200 Fulton, Wallops Island VA 23337; Product: Aeropod
 - **Lee Skidmore (Rubicon Aerospace LLC)** — Subcontractor for UAV manufacturing; previously owned Northwind Composites; lee@rubiconaerospace.com, (208) 290-5585; 1323 N. Division Ave, Suite 101, Sandpoint, ID 83864
 - **Ted Miles (Aeropods)** — Contractor for NASA AREN; ted59@msn.com; 25130 Woodland Drive, Onancock VA 23417; Product: Aeropod
-- **Jon Vince** — **NEW**; Lawyer (drone government classification); jon.vince@rogers.com, (720) 361-8260
-- **Phase 1 Aviation** — Contractor for aircraft construction; Sean Cole (contact), Sean@phase1av.com, (541) 771-7233; USPS: 17493 N. Gaffney Ave, Nampa ID 83687; Non-USPS shipments: 514 Dishman Pl, Caldwell ID 83605; https://phase1av.com/
+- **Jon Vince** — Lawyer (drone government classification); jon.vince@rogers.com, (720) 361-8260
+- **Phase 1 Aviation** — Contractor for aircraft construction; Sean Cole (contact), Sean@phase1av.com, (541) 771-7233; **USPS shipments**: 17493 N. Gaffney Ave, Nampa ID 83687; **Other shipments**: 514 Dishman Pl, Caldwell ID 83605; https://phase1av.com/
 - **KCO, Inc.** — Tax firm (as of 2026); Mark Kightlinger, Mark@kcotax.com, 245 Century Cir Ste 206, Louisville CO 80027, (720) 613-0576; https://www.kcotax.com/ (replacement for Bill Jones/Jones & Associates CPAs PC who retired January 2026)
 - **United Healthcare** — Healthcare provider; Wendy Jones (Field Account Manager), wendy_w_jones@uhc.com, (763) 283-4036; contact for client/member education, open enrollment, onboarding support, wellness solutions
 - **Bolder Insurance** — Aviation insurance; Debbie Rampy (rep), debbie@bolderins.com, (303) 449-9595; https://www.bolderinsurance.com/
@@ -55,9 +55,11 @@ This is a contact database, not a project with deliverables. Contains 100+ conta
 - **Paramount Tube (Precision Products)** — Precision products supplier; Gerald Yoquelet (Sales), gyoquelet@ppgintl.com, (260) 918-2127; 1430 Progress Road, Fort Wayne IN 46808; https://www.paramounttube.com
 - **K-Mac Plastics** — Precision products supplier; Marlo Gillion (contact), marlo@kmac-distribution.com, (616) 406-0671; 3821 Clay St SW, Wyoming MI 49548; https://www.k-mac-plastics.com/
 - **Human Interest** — 401k Provider; Address: 655 Montgomery St, Suite 1800, San Francisco, CA 94111; Phone: (877) 475-0179; Website: https://humaninterest.com/
-- **WorldWide Express (WWEX)** — **NEW** (April 2025); UPS authorized reseller; Kelsie Pierson (Account Manager), kelsie.pierson@wwex.com, support@wwex.com; Address: 3513 Brighton Blvd Suite 360, Denver, CO 80216; Phone: (214) 927-6575; Website: www.speedship.com; **Note**: As of 2025, all UPS shipments are billed through WWEX. Any shipping issues or assistance should route through WWEX.
+- **WorldWide Express (WWEX)** — UPS authorized reseller; Kelsie Pierson (Account Manager), kelsie.pierson@wwex.com, support@wwex.com; Address: 3513 Brighton Blvd Suite 360, Denver, CO 80216; Phone: (214) 927-6575; Website: www.speedship.com; **Note**: As of 2025, all UPS shipments are billed through WWEX. Any shipping issues or assistance should route through WWEX.
 
 ### Closed/Inactive Contacts
 - **Jones & Associates CPAs PC (CLOSED)** — Tax consultant; Bill Jones (retired January 2026), info@jonescpapc.com, 947 Pope Dr Erie CO 80516, (303) 254-6613; **Note**: Replaced by KCO, Inc.
 - **Northwind Composites (CLOSED)** — Lee Skidmore contact; Lee@northwindcomp.com; 1323 N. Division Ave Suite 103, Sandpoint ID 83864; (208) 290-5585; https://northwindcomposites.com/
-- **Kay Rufty
+
+## Recent Activity
+No recent task changes noted. Contact database remains current as of April 21

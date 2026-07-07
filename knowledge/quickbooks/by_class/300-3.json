@@ -4,13 +4,15 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-07-04",
-    "end": "2026-07-05"
+    "start": "2026-07-05",
+    "end": "2026-07-07"
   },
   "totals": {
     "revenue": 72000.0,
-    "expenses": 0.0,
-    "by_category": {}
+    "expenses": 57.83,
+    "by_category": {
+      "DIRECT COSTS:DC-Direct Material Purchases": 57.83
+    }
   },
   "invoices": [
     {
@@ -38,7 +40,26 @@
     }
   ],
   "bills": [],
-  "purchases": [],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-07-06",
+      "doc_number": "",
+      "total": 57.83,
+      "attributed": 57.83,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - Josh Fromm made purchase in person",
+      "lines": [
+        {
+          "amount": 57.83,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Medium box foam corners"
+        }
+      ]
+    }
+  ],
   "purchase_orders": [],
   "payments": []
 }

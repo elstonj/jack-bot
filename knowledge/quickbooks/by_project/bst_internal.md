@@ -1,12 +1,12 @@
 # BST Internal — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue)**: $17,894.36
-- **Total Expenses (Bills + Purchases)**: $1,148,419.61 *(+$8,451.44 prior + $7,958.00 new)*
+- **Total Invoiced (Revenue)**: $22,894.36 *(+$5,000.00 new)*
+- **Total Expenses (Bills + Purchases)**: $1,165,741.26 *(+$17,321.65 new)*
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,130,525.25 *(expenses exceed revenue significantly)*
-- **Date Range**: April 5, 2024 – July 3, 2026 (27+ months)
-- **Transaction Count**: 1,246 *(all confirmed)*
+- **Net Position**: -$1,142,846.90 *(expenses exceed revenue significantly)*
+- **Date Range**: April 5, 2024 – July 9, 2026 (27+ months)
+- **Transaction Count**: 1,254 *(all confirmed)*
 
 ---
 
@@ -14,15 +14,18 @@
 
 | Invoice # | Date | Customer | Amount | Balance |
 |-----------|------|----------|--------|---------|
+| #1771 | 2026-07-06 | Invest Ottawa | $5,000.00 | $5,000.00 |
 | #1752 | 2026-04-03 | Krateo Sky | $10,860.48 | $10,860.48 |
 | #1727 | 2025-12-02 | Weather Stream (c) | $928.88 | $928.88 |
 | #1696 | 2025-08-26 | Phase1 Aviation | $6,105.00 | $6,105.00 |
 
-**Total Invoiced**: $17,894.36  
+**Total Invoiced**: $22,894.36  
 **Total Collected**: $0.00 *(all invoices remain outstanding)*  
-**Outstanding Receivables**: $17,894.36
+**Outstanding Receivables**: $22,894.36
 
-**Notable**: Invoice #1696 includes accidental double-payment to Phase1 Aviation for 20 wings ($6,105.00). This amount should be recovered or credited.
+**Notable**: 
+- **New Invoice #1771 (July 6, 2026)**: $5,000.00 from Invest Ottawa — appears to be grant/investment income; currently outstanding.
+- Invoice #1696 includes accidental double-payment to Phase1 Aviation for 20 wings ($6,105.00). This amount should be recovered or credited.
 
 ---
 
@@ -31,48 +34,46 @@
 ### Direct Labor & Subcontractors: $394,352.90
 **Total: $394,352.90** | **25 vendors** | **Largest: Matthew Crabtree $108,181.68; Ted Miles $4,851.60*
 
-**Recent Transactions (July 1, 2026):**
-
-| Bill/Purchase # | Date | Amount | Account | Description | Status |
-|-----------|------|--------|---------|-------------|--------|
-| Bill — Ted Miles | 2026-07-01 | $4,851.60 | IRAD-Indirect Subcontractor Exp | Aeropods work (June 2026) 78 hours @ $62.20 | ✓ Confirmed |
-
-**Strategic Context**: Ted Miles invoiced for Aeropods development work (78 hours @ $62.20/hr); represents continuation of indirect R&D subcontracting for advanced projects beyond core S3 manufacturing pipeline.
+No new transactions in this reporting period (July 5–9, 2026).
 
 ---
 
-### Materials & Direct Purchases: $525,483.97
-**Total: $525,483.97** | **78 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95*
+### Materials & Direct Purchases: $525,914.31
+**Total: $525,914.31** | **80 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95*
 
-**New Transactions (July 2–3, 2026):**
+**New Transactions (July 6, 2026):**
 
-| Bill/Purchase # | Date | Amount | Account | Description | Status |
+| Purchase # | Date | Amount | Account | Description | Status |
 |-----------|------|--------|---------|-------------|--------|
-| Purchase #479.90 (partial) | 2026-07-02 | $122.60 | DC-Direct Material Purchases | IDIQ GPS_ground_plane.dxf — direct material (GPS ground plane design file/PCB) | ✓ Confirmed |
+| #0706JELSTON | 2026-07-06 | $31.80 | DC-Direct Material Purchases | Shop supplies (corrected entry; originally miscategorized as ByLight) | ✓ Confirmed |
+| #69738 | 2026-07-06 | $221.12 | DC-Direct Material Purchases | JAWSTEC project 4617 — For ByLight (direct material) | ✓ Confirmed |
 
-**July 2–3 Direct Materials Total**: $122.60 *(one bill, 1 line item)*
-
-**Strategic Context**: GPS ground plane DXF (PCB design file) indicates continued integration of GPS/navigation systems into S3 or S0 VTOL platform; complements prior June RF/coaxial interconnect procurement and comprehensive electronics platform development.
-
----
-
-### IRAD Indirect R&D (Subcontractors & Internal): $93,485.52
-**Total: $93,485.52** | **84 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; MicroFirm Engineering $6,257.60; Ted Miles $4,851.60*
-
-**New Transactions (July 2–3, 2026):**
-
-| Bill/Purchase # | Date | Amount | Account | Description | Status |
-|-----------|------|--------|---------|-------------|--------|
-| Purchase #22794 | 2026-07-02 | $82.00 | IRAD-Internal Research and Development | 10mm 4mm spline Carbon horn x 10 | ✓ Confirmed |
-| Purchase #100145658 | 2026-07-01 | $106.29 | IRAD-Internal Research and Development | Digi-Key HEATSINK PWR DUAL BLACK T (project 4617) | ✓ Confirmed |
-
-**July 1–3 IRAD R&D Total**: $188.29 *(two transactions)*
+**July 6 Direct Materials Total**: $252.92 *(2 line items, corrected allocation)*
 
 **Strategic Context**: 
-- **Carbon Horn Components (July 2)**: $82.00 — 10x units of spline carbon horns (likely control surfaces or rotor arm components) for advanced aerodynamic/mechanical testing; indicates development work on aerial platform control systems
-- **Heatsink Thermal Management (July 1)**: $106.29 — Digi-Key component (project 4617) for electronics thermal management
+- **ByLight Integration (JAWSTEC, July 6)**: $221.12 — continued partnership with JAWSTEC for ByLight platform components; coordinates with prior JAWSTEC S0 VTOL procurement ($323.86 July 2) and indicates parallel development tracks for ByLight avionics/integration alongside S0 VTOL platform.
 
-**Cumulative IRAD Activity (June 25–July 3)**: $2,668.49 (includes prior period components plus current carbon horn and heatsink components) — sustained advanced development for S3 product line and next-generation platforms.
+---
+
+### IRAD Indirect R&D (Subcontractors & Internal): $93,743.33
+**Total: $93,743.33** | **87 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; MicroFirm Engineering $6,257.60; Ted Miles $4,851.60*
+
+**New Transactions (July 6–9, 2026):**
+
+| Purchase # | Date | Amount | Account | Description | Status |
+|-----------|------|--------|---------|-------------|--------|
+| #260621W008238 | 2026-07-09 | $217.54 | IRAD-Internal Research and Development | Shipment from Lee Skidmore to BST (external R&D collaboration) | ✓ Confirmed |
+| #100222302 | 2026-07-06 | $89.38 | IRAD-Internal Research and Development | Digi-Key CORP project 4617 — SwiftStation parts (electronics components) | ✓ Confirmed |
+| #434939643 | 2026-07-06 | $59.87 | IRAD-Internal Research and Development | Pirate Ship postage — Shipment to Sean Cole for S3 (logistics for internal testing/development) | ✓ Confirmed |
+
+**July 6–9 IRAD R&D Total**: $366.79 *(3 transactions)*
+
+**Strategic Context**:
+- **External R&D Collaboration (July 9)**: $217.54 — Lee Skidmore shipment indicates external research partnership for development support; suggests outsourced design/engineering work or component sourcing from specialized vendor.
+- **SwiftStation Components (July 6)**: $89.38 — Digi-Key project 4617 electronics for internal SwiftStation platform (likely ground control station or test bench infrastructure for S3/S0 VTOL development).
+- **S3 Logistics Support (July 6)**: $59.87 — postage to Sean Cole indicates internal testing distribution or demo unit logistics; supports S3 market validation/customer evaluation activities.
+
+**Cumulative IRAD Activity (July 1–9)**: $555.08 (includes prior carbon horn and heatsink components) — sustained advanced development and platform infrastructure investment.
 
 ---
 
@@ -83,59 +84,51 @@ No new transactions in this reporting period.
 
 ---
 
-### Inventory Asset (S3 Sales, S0 VTOL, & S2 Production Scaling): $23,421.91
-**Total: $23,421.91** | **50 transactions** | **Largest: S3 accessories, S0 VTOL components, structural components*
+### Inventory Asset (S3 Sales, S0 VTOL, & S2 Production Scaling): $29,957.94
+**Total: $29,957.94** | **59 transactions** | **Largest: S3 inventory, S0 VTOL components, structural components*
 
-**New Transactions (July 2–3, 2026):**
+**New Transactions (July 6, 2026):**
 
 | Purchase # | Date | Amount | Items | Description | Status |
 |-----------|------|--------|-------|-------------|--------|
-| #34416 | 2026-07-02 | $705.87 | Unspecified | For future S0 VTOL sales | ✓ Confirmed |
-| #07-6668 | 2026-07-02 | $536.91 | Unspecified | For future S0 VTOL sales | ✓ Confirmed |
-| #69694 | 2026-07-02 | $323.86 | Unspecified (JAWSTEC - 4617 tag) | For future S0 VTOL sales | ✓ Confirmed |
-| #SQ29Q224 | 2026-07-02 | $502.60 | Unspecified | For future S0 VTOL sales | ✓ Confirmed |
-| Purchase (partial) | 2026-07-02 | $15.51 | FETtec Spike-Absorber x 6 | For future S0 VTOL sales (vibration damping) | ✓ Confirmed |
-| Purchase (partial) | 2026-07-02 | $311.41 | SFOC 4in1 ESC 50A x 6 | For future S0 VTOL sales (electronic speed controllers) | ✓ Confirmed |
-| Purchase (partial) | 2026-07-02 | $357.30 | Unspecified | Items for S3 sales | ✓ Confirmed |
+| #100222302 | 2026-07-06 | $4,026.53 | Digi-Key components (project 4617) | For future S3 sales | ✓ Confirmed |
+| #69738 | 2026-07-06 | $3,529.65 | JAWSTEC project 4617 | For future S3 sales | ✓ Confirmed |
+| (Unspecified) | 2026-07-06 | $1,702.22 | Unspecified | For future S3 sales | ✓ Confirmed |
 
-**July 2–3 Inventory Asset Total**: $2,753.46 *(7 purchases, multiple line items)*
+**July 6 Inventory Asset Total**: $9,258.40 *(3 purchases)*
 
-**Prior July 1 Inventory Total**: $3,826.11
+**Prior July 1–3 Inventory Total**: $6,579.57
 
-**July 1–3 Combined Inventory Asset Total**: $6,579.57 *(12 transactions)*
+**July 1–9 Combined Inventory Asset Total**: $15,837.97 *(15 transactions over 9 days)*
 
 **Strategic Context**: 
-- **S0 VTOL Product Line Scaling**: $2,068.76 (July 2–3 S0 VTOL specific purchases) — significant expansion into next-generation vertical takeoff and landing platform with dedicated component procurement including:
-  - **Motor/Rotor Damping Systems**: $15.51 (FETtec Spike-Absorber vibration isolation x 6 units) — critical for VTOL stability and rotor resonance management
-  - **Motor Control Electronics**: $311.41 (SFOC 4-in-1 Electronic Speed Controller 50A x 6 units) — advanced multi-motor control for hexacopter/octocopter VTOL configuration
-  - **JAWSTEC Component Package (project 4617)**: $323.86 — continued integration with primary electronics partner for VTOL platform
-  - **Unspecified S0 Components**: $1,068.38 (purchases #34416, #07-6668, #SQ29Q224) — likely additional VTOL propulsion, structural, or avionics components
+- **S3 Component Scaling (July 6)**: $9,258.40 — significant acceleration in S3 inventory procurement; three large purchases indicate production ramp-up or stock replenishment for sales fulfillment:
+  - **Digi-Key Electronics (project 4617)**: $4,026.53 — advanced electronics components for S3 platform (likely avionics, telemetry, or sensor integration).
+  - **JAWSTEC Partnership (project 4617)**: $3,529.65 — continued integration with primary avionics/electronics partner for S3 production units.
+  - **Unspecified Vendor**: $1,702.22 — likely structural, propulsion, or accessory components for S3.
 
-- **S3 Camera Platform**: $357.30 (July 2 S3-specific inventory) — continued S3 accessory and component procurement for sales fulfillment
+- **Cumulative S3 & S0 VTOL Inventory (July 1–9)**: $15,837.97 total, with **S3-focused spending at 62.4%** ($9,867.78) and **S0 VTOL at 13.1%** ($2,068.76), indicating **primary production focus remains S3 platform** with **secondary VTOL market entry preparation**.
 
-**Notable Pattern**: 
-1. **Product Diversification Trend**: July 1–3 inventory spending heavily weighted toward **S0 VTOL platform development** ($2,068.76 of $6,579.57 = 31.4%), indicating strategic product line expansion beyond current S3 fixed-wing platform
-2. **VTOL Component Integration Strategy**: ESC (electronic speed controller) procurement for multi-motor systems suggests development of VTOL configuration with 4–8 rotors; FETtec dampers indicate precision vibration management for high-performance aerial work
-3. **Cumulative S0 Activity (June 25–July 3)**: $2,068.76 (new in this reporting period) — market entry preparation for VTOL product line
+**Notable Pattern**: July 6 purchases represent **highest single-day inventory investment** in current reporting period, suggesting either:
+1. Demand acceleration for S3 sales
+2. Batch procurement optimization (volume purchasing)
+3. Preparation for mid-July shipments or customer deliveries
 
 ---
 
-### Facilities & Shop Supplies: $61,725.03
-**Total: $61,725.03** | **51 transactions** | **Rent: $60,516.58 (10 txns); Shop Supplies: $1,208.45*
+### Facilities & Shop Supplies: $61,751.47
+**Total: $61,751.47** | **52 transactions** | **Rent: $60,516.58 (10 txns); Shop Supplies: $1,234.89*
 
-**Recent Transactions (July 1, 2026):**
+**New Transactions (July 6, 2026):**
 
 | Purchase # | Date | Amount | Account | Description | Status |
 |-----------|------|--------|---------|-------------|--------|
-| AMAZON MKTPL*4Z8IL5283 | 2026-07-01 | $26.44 | FA-Shop Supplies & FA-Office Supplies | TUOLNK SMA Female to TNC Male Coaxial Adapter x 2 ($15.98); Windex and refill ($10.46) | ✓ Confirmed |
+| #0706JELSTON | 2026-07-06 | $349.80 | FA-Shop Supplies | Corrected entry — Majority of items originally miscategorized as ByLight (routine shop supplies) | ✓ Confirmed |
 
-**July 1 Shop Supplies Total**: $26.44
+**July 6 Shop Supplies Total**: $349.80
 
 **Category Breakdown**:
-- **RF/Coaxial Components (Amazon, July 1)**: $15.98 (SMA-TNC adapter x 2, project 4617 tagged; RF interconnect hardware for S3 or antenna/telemetry systems)
-- **General Office Supplies (Amazon, July 1)**: $10.46 (Windex and refill; routine facility maintenance)
-
-**Notable Pattern**: July 1 SMA-TNC RF coaxial adapters (Amazon) continue electronics/RF interconnect component staging; coordinates with Digi-Key heatsink ($106.29 July 1) and carbon horn R&D components ($82.00 July 2).
+- **Shop Supplies Correction (July 6)**: $349.80 — invoice #0706JELSTON memo indicates items were originally entered under ByLight/direct costs but represent facility shop supplies; corrected allocation improves expense categorization accuracy.
 
 ---
 
@@ -146,10 +139,16 @@ No new transactions in this reporting period.
 
 ---
 
-### General & Administrative (Legal, Tariffs, Utilities, Accounting): $46,520.64
-**Total: $46,520.64** | **4 transactions** | **Largest: KO Law PC Investment Transaction $44,964.50*
+### General & Administrative (Legal, Tariffs, Utilities, Accounting): $46,522.64
+**Total: $46,522.64** | **5 transactions** | **Largest: KO Law PC Investment Transaction $44,964.50*
 
-No new transactions in this reporting period.
+**New Transactions (July 9, 2026):**
+
+| Purchase # | Date | Amount | Account | Description | Status |
+|-----------|------|--------|---------|-------------|--------|
+| #260627W001050 | 2026-07-09 | $2.50 | GA-Professional Fees | General fee (minimal transaction) | ✓ Confirmed |
+
+**July 9 G&A Total**: $2.50 *(minimal administrative charge)*
 
 ---
 
@@ -161,4 +160,19 @@ No new transactions in this reporting period.
 ---
 
 ## Purchase Orders
-- **PO #1038**: Amprius | $1,700
+- **PO #1038**: Amprius | $1,700.00 | Outstanding
+
+---
+
+## Monthly Spend by Category
+
+### July 2026 (July 1–9, YTD)
+
+| Category | Amount | # Txns | Notes |
+|----------|--------|--------|-------|
+| **IRAD Indirect R&D** | $555.08 | 3 | Lee Skidmore collaboration, SwiftStation parts, S3 logistics |
+| **Materials & Direct Purchases** | $252.92 | 2 | JAWSTEC ByLight integration, corrected shop supplies |
+| **Inventory Asset** | $15,837.97 | 15 | **Highest spend category** — S3 acceleration ($9,258.40 July 6), S0 VTOL prep |
+| **Facilities & Shop Supplies** | $349.80 | 1 | Corrected ByLight miscategorization |
+| **General & Administrative** | $2.50 | 1 | Minimal professional fee |
+| **Revenue (Invoices)

@@ -8,7 +8,7 @@ Key participants include:
 - **Joshua Fromm** (Payload development, technical integration, diagnostics, aircraft inventory tracking)
 - **Danny Troke** (Flight operations, equipment)
 - **Maciej Smolka** (Regulatory, reporting, flight planning)
-- **Dan Prendergast** (Flight planning software, technical development, logistics, contracting inquiries)
+- **Dan Prendergast** (Flight planning software, technical development, logistics, contracting inquiries, documentation)
 - **Meredith Needham** (Administrative support, travel coordination)
 - **Ethan Domagala** (Flight operations support)
 - **Nate** (Remote ID/registration support)
@@ -98,7 +98,7 @@ The channel covers activities from 2020 through July 2026, with high activity du
 - **Significance**: Photogrammetry payload being adapted for Popocatépetl mission; performance confirmation indicates readiness for conversion
 
 **Popocatépetl Volcano (Mexico)**
-- **Status**: Deployment deferred from April 19-27, 2026; S3 repairs completed and testing underway as of late June 2026; photogrammetry payload conversion progressing with test flight planned before end of July 2026; payload system performance validated as of July 2, 2026
+- **Status**: Deployment deferred from April 19-27, 2026; S3 repairs completed and testing underway as of late June 2026; photogrammetry payload conversion progressing with test flight planned before end of July 2026; payload system performance validated as of July 2, 2026; flight permissions documentation target completion by week of July 6, 2026
 - **Significance**: SO2 output 10-50x higher than Makushin
 - **Aircraft**: S3 (Registration 20686S30001) selected due to high-altitude requirements (18,000-20,000 ft)
 - **Mission Parameters (As of April 13, 2026)**:
@@ -110,5 +110,4 @@ The channel covers activities from 2020 through July 2026, with high activity du
   - Total mission duration: ~1 hour under power plus 15 minutes power-off descent
   - Max range: ~10 km, may require directional antenna (yagi) or terrain-based approach
   - Optimizations planned: Climb-orbit radius 500+ meters to preserve battery; possible on-site terrain analysis for LOS verification
-- **Partners**: CENAPRED (Mexican institution), AFAC, AV3 for flight approvals
--
+- **Partners**: CENAPRED

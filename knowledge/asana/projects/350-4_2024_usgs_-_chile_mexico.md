@@ -21,7 +21,7 @@
 - **Obtain flight approvals from AFAC** | Dan Prendergast | Asana due: August 3, 2026 | **STALE**
 - **Verify ground permissions for national park (CENAPED leading)** | Dan Prendergast | Asana due: August 3, 2026 | **STALE**
 - **Sort out flight, radio, shipping, and import permissions** | Unassigned | Asana due: July 31, 2026 | **STALE** — Note: Batteries already shipped to Mexico (May 2026); customs/import details under review
-- **Look at FLIR stoppage at Murray State** | Maciej Stachura | Asana due: August 3, 2026 | **STALE**
+- **Look at FLIR stoppage at Murray State** | Maciej Stachura | Asana due: August 3, 2026 | ✅ **COMPLETED July 6, 2026**
 - **Test props for operations at 5700m** | Maciej Stachura | Asana due: August 3, 2026 | **STALE**
 - **Finish payload updates** | Unassigned | Asana due: August 31, 2026 | **STALE**
 - **Conduct local flight testing** | Unassigned | Asana due: August 31, 2026 | **STALE**
@@ -32,10 +32,11 @@
 - **Spare parts and packing list** | Josh Fromm | Asana due: October 1, 2026 | **STALE**
 
 ## Task Summary
-- **Total Tasks**: 1 open, 0 completed (0% overall completion)
+- **Total Tasks**: 1 open, 1 completed (50% overall completion)
 - **Tasks by Assignee**:
-  - **Dan Prendergast**: 1 open task (0% completion)
-    - Operator Manual and Flight CONOPS for AFAC (due July 2, 2026) **STALE**
+  - **Maciej Stachura**: 1 open task, 1 completed task (50% completion)
+    - ⏳ **[OPEN]** Look into overheating at Murray State (due July 17, 2026) **STALE**
+    - ✅ **[DONE]** Look at FLIR stoppage at Murray State (completed July 6, 2026)
 
 ## Recent Activity
 
@@ -47,6 +48,9 @@
 
 **Current customs status**: Batteries shipped to Mexico (May 2026) as permanent import with fees paid. No ECCN obtained. Customs broker Javi managing process; final classification confirmation pending Maciej's direction.
 
+### July 6, 2026
+✅ **COMPLETED**: "Look at FLIR stoppage at Murray State" (Maciej Stachura) — 28 days ahead of Asana due date (Aug 3, 2026). Related open task "Look into overheating at Murray State" now pending (due July 17, 2026).
+
 ### April 20, 2026 (TEAM CORRECTIONS — AUTHORITATIVE)
 **Jack Elston**: Mexico USGS volcano deployment (350-4) is **DELAYED to Fall 2026**. Not departing April 20. **No flight planning, no shipping, no mission prep imminent.** Any Asana tasks referencing an April deployment are stale.
 
@@ -57,7 +61,7 @@
 Project launched with USGS on Jan/Feb timing (superseded by current Fall 2026 schedule).
 
 ### Current Status
-Project paused pending Fall 2026 deployment timeline confirmation. Batteries in transit to or received in Mexico with permanent import fees paid. Customs/import documentation and timeline details under review; awaiting Maciej's direction on email archival, customs broker communication, and group notification. **No active flight planning, mission prep, or shipping coordination underway.**
+Project paused pending Fall 2026 deployment timeline confirmation. Batteries in transit to or received in Mexico with permanent import fees paid. Customs/import documentation and timeline details under review; awaiting Maciej's direction on email archival, customs broker communication, and group notification. **No active flight planning, mission prep, or shipping coordination underway.** One task open relating to Murray State thermal performance; related FLIR task completed ahead of schedule in early July.
 
 ## Notes & Context
 - **Mission Purpose**: S3 aircraft deployment to Mexico for volcanic gas sampling using Multi-sensor Head Package (MHP), survey services, and aircraft rental through AV3
@@ -73,6 +77,4 @@ Project paused pending Fall 2026 deployment timeline confirmation. Batteries in 
   - **Customs broker Javi** managing import process; final classification confirmation pending Maciej's direction
   - **Pending Maciej's decisions**: Email archival location, customs broker confirmation request, group notification
   - **All remaining open tasks** assume spring/summer 2026 execution — **do not action without Fall 2026 timeline confirmation**
-
-- **Products/Services**: MHP, Survey Services, Aircraft Rental
-- **Contract End Date**: August 30, 2025 (note: this predates the Fall 2026 deployment; may require contract amendment or extension)
+  - **Murray State thermal testing**: FLIR stoppage resolved (July 6

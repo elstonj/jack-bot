@@ -1,14 +1,14 @@
 # Slack Channels Overview
 
-Last scanned: 2026-07-04 02:13
+Last scanned: 2026-07-07 02:12
 
 Total channels scanned: 3
 
 ## Channels
 
-- **#commercial-sales** -- 3 messages -- [commercial-sales.md](commercial-sales.md)
-- **#flight-testing** -- 2 messages -- [flight-testing.md](flight-testing.md)
-- **#s3** -- 14 messages -- [s3.md](s3.md)
+- **#general** -- 1 messages -- [general.md](general.md)
+- **#sbir-hurricane** -- 20 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#sbir-volcano** -- 3 messages -- [sbir-volcano.md](sbir-volcano.md)
 
 ## Strategic Summary
 
@@ -17,32 +17,30 @@ Total channels scanned: 3
 ## Cross-Channel Themes
 
 ### Active Projects
-- **S3 VTOL Development**: Primary focus across #s3 and #flight-testing. Hybrid fixed-wing/quadcopter with tilting rotors targeting 2-3 hour endurance and autonomous operations.
-- **Multi-Platform Fleet**: S-series (fixed-wing), E2 (multirotor), Flamewheel, S0/S1-VTOL variants all in active testing/deployment
-- **Commercial Deployment**: Aircraft systems actively sold and integrated for customer projects across multiple platforms
+- **SBIR Hurricane (S0 Aircraft)**: Primary focus in #sbir-hurricane; hurricane reconnaissance missions with extensive technical development and operational planning (2020-2026)
+- **SBIR Volcano (S2/S3 Aircraft)**: Primary focus in #sbir-volcano; volcanic monitoring with specialized sensor payloads, NASA oversight, USGS collaboration
+- Both are government-funded R&D initiatives with structured reporting and milestone tracking
 
 ### Key People & Roles
-
-| Person | Primary Role | Channels |
-|--------|--------------|----------|
-| Joshua Fromm | Lead engineer/designer, RF/antenna expertise, QA | #s3, #flight-testing |
-| Jack Elston | Systems architect, firmware development, hardware integration | #s3, #flight-testing |
-| Maciej | Flight test lead, analysis & operations | #flight-testing |
-| Ben Busby | (role undefined - appears in #flight-testing) | #flight-testing |
-| Sam H | (role undefined) | #s3 |
+- **Jack Elston**: Leadership/project lead across all channels; makes technical and strategic decisions
+- **Dan Prendergast**: Business development and operations; coordinates across channels
+- **Joshua Fromm, Maciej, Danny Troke**: Core technical team appearing across projects
+- **Project-specific leads**: Alex Lomis, Nate, Sam Hild, Beck Cotter (hurricane); others (volcano)
+- **Support functions**: Melissa Phillips, Paige Smith, Meredith Needham, Ben Busby (operations/admin)
 
 ### Decision Patterns
-- **Engineering-driven**: Technical decisions flow through core engineering team (Fromm, Elston) before commercial implementation
-- **Test-validate-deploy**: Flight-testing serves as validation gate between development and sales
-- **Customer-responsive**: Sales channel tracks delivery timelines and technical specifications informed by development status
+- Technical decisions flow through project leads with Jack Elston as final authority
+- SBIR projects require formal documentation and milestone reporting
+- Government/institutional partnerships (NASA, USGS) create structured decision processes
+- Company-wide coordination happens in #general; specialized technical work in project channels
 
-### Recurring Topics
-- **Firmware & hardware integration** (ongoing across channels)
-- **Component sourcing & RF optimization** (Joshua Fromm's expertise)
-- **Payload integration** (connects development to commercial delivery)
-- **Flight operations & autonomous systems** (central to S3 and platform strategy)
+### Recurring Topics Across Channels
+- Aircraft system development and testing (payload integration, flight performance)
+- Sensor and circuit design discussions
+- Government compliance and SBIR reporting requirements
+- Team coordination and resource allocation
+- Operational logistics and mission planning
 
-### Cross-Channel Connections
-- Development (S3) → Testing (#flight-testing) → Delivery (#commercial-sales)
-- Technical expertise (Fromm's RF knowledge, Elston's firmware) applied across all phases
-- Customer demands inform engineering priorities and test scope
+### Channel Purpose Hierarchy
+1. **#sbir-hurricane & #sbir-volcano**: Deep technical/operational work for specific funded projects
+2. **#general**: Company-wide announcements, cross-project coordination, business operations

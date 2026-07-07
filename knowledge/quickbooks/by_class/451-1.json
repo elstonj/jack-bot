@@ -1,0 +1,59 @@
+{
+  "project_code": "451-1",
+  "qbo_class_names": [
+    "{451-1] INSTAAR S3 x 2"
+  ],
+  "period": {
+    "start": "2026-07-05",
+    "end": "2026-07-07"
+  },
+  "totals": {
+    "revenue": 0.0,
+    "expenses": 677.67,
+    "by_category": {
+      "DIRECT COSTS:DC-Direct Material Purchases": 677.67
+    }
+  },
+  "invoices": [],
+  "bills": [],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-07-09",
+      "doc_number": "",
+      "total": 189.43,
+      "attributed": 189.43,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SERVOCITY - 7333",
+      "lines": [
+        {
+          "amount": 189.43,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "2302 Series Aluminum, MOD 0.8, Hub Mount Gear and 2305 Series Brass, MOD 0.8, Servo Gear"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-06",
+      "doc_number": "69729",
+      "total": 488.24,
+      "attributed": 488.24,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "JAWSTEC - 4617",
+      "lines": [
+        {
+          "amount": 488.24,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "for INSTAAR (shipped to Sean Cole)"
+        }
+      ]
+    }
+  ],
+  "purchase_orders": [],
+  "payments": []
+}
