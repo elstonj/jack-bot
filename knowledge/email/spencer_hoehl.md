@@ -1,6 +1,5 @@
 # Spencer Hoehl — Email Patterns
 
-Only 2 emails found in scanned period.
+Only 1 emails found in scanned period.
 
-- Mon, 6 Jul 2026 15:54:05 +0000: You've got 26 unread messages (from: "Black Swift Technologies (via Slack)" <notification@slack.com>)
-- Mon, 06 Jul 2026 14:00:22 +0000: Use Asana with tools you love (from: Asana <learn@email1.asana.com>)
+- Tue, 07 Jul 2026 11:07:12 -0400: Live tomorrow - See what’s new in Onshape (from: Greg Brown <onshape-nc@onshape.ptc.com>)

@@ -87,4 +87,5 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 
 **Sparv Dropsonde Partnership Discussion (June 9, 2026):**
 - Decision deferred on Sparv dropsonde drop payload concept - insufficient funding currently; other R&D with NOAA prioritized instead (June 9, 2026)
-- Sparv sensor integration as secondary comparison to
+
+**Flight Configuration Settings (July 7, 2

@@ -17,7 +17,7 @@
     "total_value": 483000.0,
     "start_date": "2026-02-01",
     "end_date": "2031-01-31",
-    "payment_cadence": "milestone-based per ordering period",
+    "payment_cadence": "annual ordering periods with fixed unit pricing",
     "documents": [
       "drive://Budget Structure",
       "drive://(1305M226D0012) Attachment 1-Specifications_Black Swift.pdf",
@@ -25,60 +25,60 @@
     ]
   },
   "budget": {
-    "approved": 16281750.0,
+    "approved": 13281750.0,
     "approved_source": "sow_drive",
     "line_items": [
       {
         "category": "Equipment",
-        "amount": 12981250.0,
-        "description": "Black Swift S0 sUAS Platforms: 150 EA @ $18,000 (Period 1) + 150 EA @ $18,630 (Period 2) + 125 EA @ $19,282 (Period 3) + 125 EA @ $19,957 (Period 4) + 125 EA @ $20,655 (Period 5)",
+        "amount": 10981250.0,
+        "description": "Black Swift S0 sUAS Platforms: 150 units @ $18,000 (Yr1) + 150 @ $18,630 (Yr2) + 125 @ $19,282 (Yr3) + 125 @ $19,957 (Yr4) + 125 @ $20,655 (Yr5)",
         "source_doc": null
       },
       {
         "category": "Labor",
-        "amount": 2640000.0,
-        "description": "Operations and Training Support Services across 5 periods: Mission Days (30 EA @ $2,850 each), Operational/Testing Support (6 EA @ $6,000 each), Operator Training (1 EA @ $6,000), Instructor Training (1 EA @ $600), Course Development (2 EA @ $6,000 each) = $127,500 per period x 5 periods",
+        "amount": 1287500.0,
+        "description": "Operations and Training Support Services across five years: Mission Days (30 @ $2,850 per year), Operational/Testing Support (6 @ $6,000 per year), Operator/Observer Training (1 @ $6,000 per year), Instructor Training (1 @ $600 per year)",
+        "source_doc": null
+      },
+      {
+        "category": "Other",
+        "amount": 60000.0,
+        "description": "Course Development: Operator and Observer Course Development (1 @ $6,000 per year) + Instructor Training Course Development (1 @ $6,000 per year)",
         "source_doc": null
       },
       {
         "category": "Travel",
         "amount": 250000.0,
-        "description": "Travel for Operational Support (Section 5.3): 1 LO NTE $50,000 per ordering period x 5 periods",
-        "source_doc": null
-      },
-      {
-        "category": "Other",
-        "amount": 370500.0,
-        "description": "Non-recurring Engineering: Technical Documentation ($66,000 NTE per period x 5), Modeling ($66,000 NTE per period x 5), NHC workflow integration ($66,000 NTE per period x 5) = $198,000 per period x 5 periods; plus $50,000 ODC contingency noted as NTE",
+        "description": "Travel for Operational Support: 1 Line of Effort NTE $50,000 per year for 5 years",
         "source_doc": null
       }
     ],
     "spent": {
       "labor": {
-        "amount": 141992.5,
+        "amount": 147091.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-07"
+        "last_updated": "2026-07-08"
       },
       "purchases": {
         "amount": 970.76,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-07-07"
+        "last_updated": "2026-07-08"
       },
       "other_qbo": {
-        "amount": 57.83,
+        "amount": 442.84,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-07-07"
+        "last_updated": "2026-07-08"
       },
-      "total": 143021.09,
+      "total": 148504.85,
       "by_line_item": {}
     },
-    "committed": 0.0,
-    "remaining": 16138728.91,
+    "committed": 296.47,
+    "remaining": 13132948.68,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-07T09:02:32Z"
+    "last_reconciled": "2026-07-08T09:03:26Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -128,6 +128,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-07-07T09:02:32Z",
+  "last_full_rebuild": "2026-07-08T09:03:26Z",
   "last_incremental_update": null
 }

@@ -1,0 +1,41 @@
+{
+  "asana_gid": "1210813239774018",
+  "asana_task_name": "Ultra PCS - pneumatic launcher collab",
+  "customer": "USAF",
+  "customer_contact": "Tracy Harris",
+  "customer_email": "Tracy.harris@ultra-ice.com",
+  "receive_by": null,
+  "ship_to": null,
+  "items": [
+    {
+      "description": "Pneumatic launch tube for C-130/KC-135 and S0",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "none",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Collaborative engineering phase with Ultra PCS/USAF on pneumatic launcher design. Active technical discussions ongoing regarding UAV dimensions, tube interface (Sonobuoy A vs. CLT), ejection velocity, and acceleration requirements as of Jan 2026.",
+  "missing_fields": [
+    "receive_by",
+    "ship_to",
+    "items",
+    "estimate_date"
+  ],
+  "last_evidence_date": "2026-01-15",
+  "last_contact_date": null
+}

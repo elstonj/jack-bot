@@ -109,7 +109,7 @@
 - **Service Accounts:** 2
 
 **Verification Status:**
-- ✅ All 18 directory entries verified against new raw data
+- ✅ All 18 directory entries validated against new raw data
 - ✅ All phone numbers normalized to consistent dash-separated format
 - ✅ **No changes detected** — all existing records confirmed current and accurate
 - ✅ New raw data validates all existing knowledge file records

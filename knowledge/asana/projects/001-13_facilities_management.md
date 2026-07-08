@@ -4,16 +4,15 @@
 - **Client/customer**: Internal operations (BST office and shop space maintenance)
 - **Dollar value**: Lease costs ranging from $13.00–$14.63 NNN over 60-month term, plus $6.23 CAM for real estate taxes and building insurance
 - **Timeline**: Ongoing operational project with recurring monthly tasks
-- **Status**: Active - recurring tasks functioning. **Current snapshot shows 1 open task (down from 2 in previous snapshot).** The "Ongoing Office Purchasing List" (due 2026-07-10) is no longer visible, suggesting it was completed or archived after its due date. The "Pay Rent" task remains absent from current export. Monitor task closure patterns.
+- **Status**: Active - recurring tasks functioning. **Current snapshot shows 1 open task.** "Office Cleaning" (previously due 2026-07-11) is no longer visible in current export—likely completed or archived. "Ongoing Office Purchasing List" has reappeared as open (due 2026-07-10). "Pay Rent" task continues to be absent from Asana export.
 - **Team members involved**: Meredith O'hara Needham (primary operational owner, Neat N Tidy owner), Nate Straus (facilities improvements & consumables)
 - **Risk signals**: 
   - **One open task with imminent due date**:
-    - Office Cleaning due 2026-07-11 (due imminently/may be overdue)
-  - **Task count reduction**: Previous snapshot showed 2 open tasks; current shows 1. "Ongoing Office Purchasing List" (due 2026-07-10) is no longer present—likely completed but not yet marked as such in current view.
+    - Ongoing Office Purchasing List due 2026-07-10 (due imminently/may be overdue)
 
 ## Key Deliverables & Milestones
 - **Monthly rent payments** (~$13.00–$14.63 NNN depending on lease year, plus $6.23 CAM, due ~25th–29th of each month)
-- **Weekly office purchasing coordination** (recurring collection and ordering, due ~1st–15th of month on weekly cycle)
+- **Weekly office purchasing coordination** (recurring collection and ordering; Ongoing Office Purchasing List due ~1st–15th of month)
 - **Bi-weekly office cleaning** (via Neat N Tidy, scheduled separately from primary task list)
 - **Facilities improvements** (ongoing, no due date set; assigned to Nate Straus)
 - **Equipment wish list** (ongoing, no due date set; assigned to Nate Straus)
@@ -24,17 +23,17 @@
 - **Total tasks**: 1 open, 0 completed (current snapshot)
 - **Tasks by assignee**:
   - **Meredith O'hara Needham**: 1 open
-    - Office Cleaning (due 2026-07-11)
+    - Ongoing Office Purchasing List (due 2026-07-10) — collect weekly purchases
 - **Notable patterns**: 
   - Recurring weekly purchasing and bi-weekly cleaning tasks maintain predictable structure
   - All active tasks assigned to Meredith O'hara Needham
-  - **Task count reduction**: "Ongoing Office Purchasing List" has dropped from visible open tasks, suggesting either completion or archival
+  - **Task visibility fluctuation**: "Office Cleaning" present in previous snapshot, absent in current; "Ongoing Office Purchasing List" absent in previous snapshot, present in current. Suggests either task cycling or inconsistent export/filtering.
 
 ## Recent Activity
 - **Current open task** (imminent):
-  - Office Cleaning due 2026-07-11 (assigned to Meredith O'hara Needham)
-- **Task closure**: "Ongoing Office Purchasing List" (due 2026-07-10) no longer appears in current snapshot—likely completed on or near due date
-- **Persistent gap**: "Pay Rent" task (due 2026-07-27) continues to be absent from current export. Verify whether this task is archived, auto-completing on a separate cadence, or filtered from Asana view.
+  - Ongoing Office Purchasing List due 2026-07-10 (assigned to Meredith O'hara Needham)
+- **Task status change**: "Office Cleaning" (previously due 2026-07-11) no longer appears in current snapshot—likely completed or archived
+- **Persistent gap**: "Pay Rent" task (due 2026-07-27) continues to be absent from Asana export. Verify whether this task is archived, auto-completing on a separate cadence, or filtered from view.
 
 ## Notes & Context
 
@@ -63,7 +62,7 @@
 **Operational Focus**: Project serves as central hub for all physical office and shop space maintenance, found under the Operations portfolio. Consumables stock tracker maintained at https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus).
 
 **Action items for next review**: 
-- Confirm completion of "Ongoing Office Purchasing List" (due 2026-07-10) and mark closed in Asana if not yet reflected
-- Ensure "Office Cleaning" (due 2026-07-11) is completed and marked on schedule
+- Confirm completion status of "Office Cleaning" task and update Asana if not yet marked closed
+- Ensure "Ongoing Office Purchasing List" (due 2026-07-10) is completed and marked on or before due date
 - Investigate status of "Pay Rent" task (due 2026-07-27). If handled externally or auto-closed, document that pattern
-- Clarify whether "Pay Rent" should remain as a visible recurring task in Asana or be managed outside the system
+- Clarify whether task visibility fluctuation reflects intentional cycling or needs process refinement

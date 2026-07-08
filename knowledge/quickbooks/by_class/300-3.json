@@ -4,14 +4,16 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-07-05",
-    "end": "2026-07-07"
+    "start": "2026-07-07",
+    "end": "2026-07-08"
   },
   "totals": {
     "revenue": 72000.0,
-    "expenses": 57.83,
+    "expenses": 442.84,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 57.83
+      "DIRECT COSTS:DC-Direct Material Purchases": 398.81,
+      "FACILITIES:FA-Shop Supplies": 37.01,
+      "Inventory Asset": 7.02
     }
   },
   "invoices": [
@@ -43,19 +45,52 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "doc_number": "",
-      "total": 57.83,
-      "attributed": 57.83,
+      "total": 296.48,
+      "attributed": 222.22,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "No Asana request - Josh Fromm made purchase in person",
+      "memo": "No Asana Request - project listed under each item purchased",
       "lines": [
         {
-          "amount": 57.83,
+          "amount": 15.52,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Medium box foam corners"
+          "description": ""
+        },
+        {
+          "amount": 49.38,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": ""
+        },
+        {
+          "amount": 222.22,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": ""
+        },
+        {
+          "amount": 9.36,
+          "account": "Inventory Asset",
+          "description": "future s3 sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-07",
+      "doc_number": "SP128831",
+      "total": 220.62,
+      "attributed": 220.62,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 220.62,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": ""
         }
       ]
     }

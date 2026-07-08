@@ -56,6 +56,9 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 **June 2026 (Late - TCE scheduling):**
 - TCE event dates: Originally planned for August 17-28, rescheduled to September 14-24 at Camp Pendleton (June 29, 2026)
 
+**July 2026:**
+- QuSpin firmware update approach: Decided to send QuSpin sensor back to manufacturer for firmware update and QC check rather than conducting testing in current "noisy mode" (July 7-8, 2026). Rationale: Quick turnaround expected from vendor for firmware update and configuration optimization, preferable to testing with known suboptimal settings.
+
 ## Projects & Initiatives
 
 **Phase I (Completed January 2026):**
@@ -66,7 +69,4 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 **Phase II (April 2026 - ongoing):**
 - Budget: $1.4M over 30 months
 - Proposal submitted March 27, 2026 (one day extension)
-- Contract signed March 25th, option start date April 12, 2026
-- Planned: 4 experimentation events, 6 S0-AD aircraft (4 base + 2 option)
-- Phase II kickoff meeting completed April 21, 2026 with TPOC Angel Ruiz-Reyes
-- Kickoff brief submitted April 14
+- Contract
