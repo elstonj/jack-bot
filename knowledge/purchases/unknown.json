@@ -76,5 +76,18 @@
     "notes": "Post-rental survey request; not a purchase",
     "date": "",
     "subject": ""
+  },
+  {
+    "id": "19f3e5e2cc500df",
+    "is_purchase": true,
+    "status": "ordered",
+    "amount_usd": null,
+    "vendor": "SendCutSend",
+    "project_code": null,
+    "project_hint": null,
+    "description": "Order S439K456 update acknowledgment",
+    "notes": "Team reviewing changes; typical followup within hours",
+    "date": "",
+    "subject": ""
   }
 ]

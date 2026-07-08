@@ -1,5 +1,5 @@
 # BST Financial Overview (QuickBooks)
-**Report Period: July 5–7, 2026 | Full Historical Data: April 2024 – September 2026**
+**Period: July 7–8, 2026 | Data Range: April 2024 – September 2026**
 
 ---
 
@@ -7,92 +7,109 @@
 
 | Metric | Amount |
 |--------|--------|
-| **Total Revenue (All Projects)** | $7,456,665.62 |
-| **Total Expenses (All Projects)** | $2,540,998.67 |
-| **Net Income (All Projects)** | **$4,915,666.95** |
-| **Outstanding Accounts Receivable** | $3,194,865.82 |
+| **Total Revenue (All Projects)** | $7,454,665.62 |
+| **Total Expenses (All Projects)** | $2,759,487.75 |
+| **Net Income (Overall)** | $4,695,177.87 |
+| **Current Period P&L (Jul 7–8)** | -$1,890.05 *(negative, minimal activity)* |
 
 ---
 
-## By Project/Class
-*Sorted by total revenue (highest first)*
+## Financial Performance by Project/Class
+*(Sorted by total activity)*
 
-| Project | Total Revenue | Total Expenses | Net Position | Status |
-|---------|---|---|---|---|
-| **Government** | $4,462,176.28 | $1,333,414.25 | **$3,128,761.03** | Active (76 invoices) |
-| **Commercial** | $2,992,489.34 | $241,843.16 | **$2,750,646.18** | Active |
-| **BST Internal** | $22,894.36 | $1,165,741.26 | **-$1,142,846.90** | Internal operations (cost center) |
-| **Current Period Only** | $5,000.00 | $1,298.04 | **$3,701.96** | P&L summary (July 5–7) |
+### 1. **Government**
+- **Total Revenue:** $4,462,176.28
+- **Total Expenses:** $1,334,581.68
+- **Net Position:** $3,127,594.60 ✓ (Strong positive)
+- **Outstanding Invoices:** $3,194,865.82 in open balances (76 active invoices)
+- **Status:** Largest revenue driver; significant A/R outstanding
 
-**Key Observation:** Government and Commercial projects are highly profitable; BST Internal is a cost center with expenses far exceeding billable revenue.
+### 2. **Commercial**
+- **Total Revenue:** $2,992,489.34
+- **Total Expenses:** $241,843.16
+- **Net Position:** $2,750,646.18 ✓ (Excellent margin)
+- **Recent Activity:** Invoice #1770 ($6,000) issued 2026-07-01
+- **Status:** Highly profitable; strong expense control
+
+### 3. **BST Internal**
+- **Total Revenue:** $22,894.36
+- **Total Expenses:** $1,183,062.91
+- **Total Purchase Orders:** $1,700.00 outstanding (PO #1038 – Amprius)
+- **Net Position:** -$1,160,168.55 ✗ (Significant loss)
+- **Transaction Count:** 1,260 transactions over 27+ months
+- **Status:** Internal R&D/operations project; expense-heavy, minimal revenue generation
 
 ---
 
-## Top Customers
-*By total revenue*
+## Top Vendors by Spend
+*(Based on expense data)*
 
-| Customer | Project | Total Revenue | Outstanding Balance |
-|----------|---------|---|---|
-| Government contracts (76 invoices) | Government | $4,462,176.28 | $3,194,865.82 |
-| EMASS Chip Integration [044-1] | Commercial | $6,000.00* | $6,000.00* |
-| *Additional commercial customers* | Commercial | $2,986,489.34 | TBD |
+| Vendor | Project | Amount |
+|--------|---------|--------|
+| *Data incomplete from source* | — | — |
 
-**Note:** *Latest invoice shown; full Commercial customer details incomplete in export.*
+**Note:** Full vendor breakdown requires detailed bill/purchase ledger. Significant spending visible in:
+- **BST Internal:** $1,183,062.91 (materials, supplies, R&D)
+- **Government:** $1,334,581.68 (project execution costs)
+- **Commercial:** $241,843.16
+
+---
+
+## Top Customers by Revenue
+
+| Customer | Project | Invoice | Amount | Balance |
+|----------|---------|---------|--------|---------|
+| [044-1] EMASS Chip Integration | Commercial | #1770 | $6,000.00 | $6,000.00 |
+| *Government contracts* | Government | 76 invoices | $4,462,176.28 | $3,194,865.82 |
+
+**Note:** Government project dominates revenue with 76 active invoices; Commercial showing recent activity.
 
 ---
 
 ## Cash Flow Indicators
 
 ### Accounts Receivable (Outstanding)
-- **Government projects:** $3,194,865.82 outstanding across 76 invoices
-- **Commercial (recent):** $6,000 outstanding on Invoice #1770 (July 1, 2026)
-- **Total AR:** ~$3.2M+
+- **Government Project:** $3,194,865.82 outstanding ⚠️
+  - 76 active invoices across 2024–2026
+  - Represents ~72% of Government revenue awaiting collection
+- **Commercial Project:** $6,000.00 recent (Invoice #1770, Jul 1)
+- **Total A/R:** ~$3.2M outstanding
 
-### Recent Large Expenses (3-Day Period: July 5–7, 2026)
-- Direct Material Purchases: $798.99
-- Shop Supplies (Facilities): $349.80
-- IRAD (R&D): $149.25
-- **3-Day Total:** $1,298.04
-
-### Recent Large Invoice
-- **Invoice #1770** (EMASS Chip Integration): $6,000.00 issued July 1, 2026 – **unpaid**
+### Recent Large Expenses *(Current Period)*
+- **Direct Material Purchases:** $1,452.19
+- **Shop Supplies:** $307.36
+- **R&D (IRAD):** $130.50
+- **YTD Pattern:** BST Internal accumulating costs; Government/Commercial generating offsets
 
 ### Project Activity Status
-- **Government & Commercial:** Active (ongoing invoices through July 2026)
-- **BST Internal:** Ongoing operational cost (no completion signal)
-
----
-
-## Top Vendors
-*By total spend (27-month period)*
-
-Vendor breakdown not fully detailed in export. Major expense categories:
-
-| Category | Total Spend | Notes |
-|----------|---|---|
-| Direct Material Purchases | $798.99* | Current period; historical total unknown |
-| Shop Supplies | $349.80* | Current period |
-| IRAD/R&D | $149.25* | Current period |
-
-**Note:** *Full vendor list and historical totals incomplete in provided data. Recommend exporting "Vendor Summary" report from QB for detailed analysis.*
-
-**Purchase Orders Outstanding:**
-- PO #1038 (Amprius, BST Internal): $1,700.00
+- **Active:** Government (76 invoices), Commercial (recent invoice Jul 1)
+- **Dormant/Maintenance:** BST Internal (27+ month history, primarily expense-driven; last revenue entry: Jul 9, 2026)
 
 ---
 
 ## Unclassified Transactions
 
-✓ All transactions in the P&L report are assigned to named expense or income categories.  
-✓ All project-level transactions are classified by Project/Class (Government, Commercial, BST Internal).
+| Category | Period Total | Notes |
+|----------|--------------|-------|
+| Current P&L (Jul 7–8) | -$1,890.05 | Minimal; primarily facilities & R&D expenses, no revenue |
+| Facilities (Shop Supplies) | $307.36 | Classified to general overhead; no project assignment shown |
+| R&D (IRAD) | $130.50 | Internal research; typically BST Internal project |
 
-**No unclassified transactions identified.**
+**Note:** Most transactions (1,260 in BST Internal; 76+ in Government) are classified by project. Current period shows low transactional volume.
 
 ---
 
-## Summary & Recommendations
+## Key Observations
 
-1. **Strong profitability**: Government ($3.1M net) and Commercial ($2.75M net) projects drive positive results.
-2. **AR aging concern**: $3.2M outstanding from Government contracts—verify aging and collection status.
-3. **Internal cost burden**: BST Internal expenses ($1.17M) significantly exceed internal billable revenue ($22.9K), suggesting overhead allocation may need review.
-4. **Recent activity minimal**: 3-day period shows only $5K revenue and $1.3K expenses—request full monthly P&L for trend analysis.
+✓ **Strengths:**
+- Strong overall profitability ($4.7M net)
+- Commercial project margin excellent (92%)
+- Government contracts generating $4.46M revenue
+
+⚠️ **Areas of Concern:**
+- **Significant A/R concentration** in Government ($3.2M outstanding; 27+ months to collect)
+- **BST Internal loss** of $1.16M over 27 months indicates R&D/overhead costs not offset by revenue
+- **Minimal current period activity** (Jul 7–8 data shows -$1,890 net)
+- **Outstanding PO** (Amprius, $1,700) in BST Internal awaiting fulfillment
+
+💡 **Recommendation:** Accelerate Government A/R collection; review BST Internal project ROI and cost structure.

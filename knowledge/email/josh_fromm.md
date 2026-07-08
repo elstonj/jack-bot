@@ -1,57 +1,72 @@
 # Josh Fromm — Email Patterns (UPDATED)
 
 ## Communication Volume
-- **Total messages scanned:** 1,688 emails (1,622 prior + 66 from July 5–6, 2026)
-- **Date range:** May 18–July 6, 2026
-- **Daily average:** ~15–17 emails/day (human correspondence); automated/logistics/procurement/travel volume substantial and **accelerating sharply**
-- **Unread messages:** ~1,350+ unread (automated/logistics/manufacturing/promotions dominating; human correspondence signal diminishing as percentage of total)
-- **New data period (July 5–6, 2026 — 66 additional emails):**
-  - **Human correspondence:** 6 emails (9%) — Strategic/technical focus; Simon Laurence (UK MOD), George Kusaba (Amprius), Tim Pearson (RotorWorks), Santiago Silva (Xometry), Alex Lomis (internal), Jack Elston (internal)
-  - **Automated/Logistics/Procurement/Travel/Promotions:** 60 emails (91%) — **Post-holiday surge continues; manufacturing orders accelerating (2x JawsTec, multiple ServoCity/McMaster-Carr); uAvionix backorder escalation (pingRX Pro stock issue); travel deal engagement remains high**
+- **Total messages scanned:** 1,767 emails (1,688 prior + 79 from July 7–8, 2026)
+- **Date range:** May 18–July 8, 2026
+- **Daily average:** ~15–17 emails/day (human correspondence); automated/logistics/procurement/travel volume **substantially increased**
+- **Unread messages:** ~1,420+ unread (automated/logistics/manufacturing/promotions now **dominant signal**)
+- **New data period (July 7–8, 2026 — 79 additional emails):**
+  - **Human correspondence:** 8 emails (10%) — Strategic/technical/operational; Amprius partnership escalation, Krateo Sky BOM discussion, uAvionix ticket escalation, technical vendor inquiry (Vertiq), Amphenol-Sine live chat, NOAA delivery planning coordination
+  - **Automated/Logistics/Procurement/Manufacturing/Travel/Promotions:** 71 emails (90%) — **Manufacturing surge continues; SendCutSend order escalation (7x vendor responses to S439K456 question; multiple order tracking); JawsTec shipment; McMaster-Carr triple orders (Jul 7); ServoCity updates; uAvionix backorder continues; travel deal engagement high**
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-1. **Jack Elston** (elstonj@blackswifttech.com) — Purchasing lead; C2T2 Proposal lead; NASA SBIR/STTR Post-Phase II opportunity coordinator; Krateo Sky Consortium member; NOAA delivery planning coordination; **NOAA payment acknowledgment flow (Joe Cione → Jack Elston Jul 6); continues as Purchasing coordinator for logistics**
+1. **Jack Elston** (elstonj@blackswifttech.com) — Purchasing lead; NOAA delivery planning coordination **escalating** (5x emails Jul 7 with Laura Rock/Joe Cione chain); **coordinating uAvionix pingRX Pro backorder escalation (Meredith forwarding to Josh via Jack)**; C2T2 Proposal lead
 
-2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Canada Demo/Sprint Lead; Arctic UAS program liaison; SOCOM RFI S0 coordination (no new activity in Jul 5–6 window)
+2. **Meredith Needham** (meredith.needham@blackswifttech.com) — Procurement team lead; **actively forwarding SendCutSend order issue (S439K456) to Josh Jul 7** (2x forwards marked IMPORTANT); managing uAvionix ticket escalation; primary logistics coordinator
 
-3. **Beck Cotter** (beck.cotter@blackswifttech.com) — MOD.gov.uk/Merlin Mk2 liaison
+3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Black Swift BOM Discussion invitation (Jul 8, 11:30am–12:30pm MDT) with Krateo Sky Roger Riley** IMPORTANT; LM technical question coordination (Dhruti Shah/Lockheed); Arctic UAS program liaison
 
-4. **Meredith Needham** (purchasing@blackswifttech.com) — **Procurement team lead; HeliDirect VIP reward engagement (5x emails in 72 hours through Jul 6); Baofeng rewards program enrollment; primary logistics receiver**
+4. **Alex Lomis** (alex.lomis@blackswifttech.com) — Arctic UAS team; procurement recipient (ELEGOO kit promotions forwarded to "Alexis Lomis" via purchasing channel)
 
-5. **Alex Lomis** (alex.lomis@blackswifttech.com) — Arctic UAS team member; **Josh forwarded "Possible Call" message Jul 6, 10:59 UTC (Tim Pearson/RotorWorks outreach)**
+5. **Beck Cotter** (beck.cotter@blackswifttech.com) — MOD.gov.uk/Merlin Mk2 liaison (no new activity Jul 7–8)
 
-6. **Sam Hild** (sam.hild@blackswifttech.com) — PCB/electronics design lead; PCBWay manufacturing liaison (no new activity)
+6. **Sam Hild** (sam.hild@blackswifttech.com) — PCB/electronics design lead (no new activity)
 
-7. **Ethan Domagala** (ethan.domagala@blackswifttech.com) — Arctic UAS team member (no new activity)
+7. **Ethan Domagala** (ethan.domagala@blackswifttech.com) — Arctic UAS team (no new activity)
 
 ### Top External Contacts
 
-#### **Government/Military/Research (ACTIVE/CRITICAL)**
-- **Laura Rock** (laura.rock@noaa.gov) — NOAA; **Jack Elston coordinating delivery planning + P3 questions (follow-up Jul 6, 10:42 UTC)**
-- **Joe Cione** (joe.cione@noaa.gov) — NOAA Federal; **Direct contact to Josh Fromm; NEOTAC event (NEw Observational Technologies and Advanced Conops) CANCELED by Joe Cione for Thu Jul 9, 2026 11am–12pm (MDT) with note (Jul 6, 15:55 UTC) — suggests Josh was registered/attending; also direct response to Jack Elston on delivery planning (Jul 6, 12:44 UTC) IMPORTANT**
-- **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — UK MOD; **Active Merlin Mk2/US Navy SBIR dialogue: Josh Fromm → Simon (Re: draft status) Jul 6, 16:00 UTC; Simon → Josh (RE: response received) Jul 6, 11:56 UTC IMPORTANT — ongoing negotiation/proposal stage**
-- **Evan M. Wolff** (evan.m.wolff.mil@socom.mil) — USSOCOM; RFI S0 (no new activity in Jul 5–6)
-- **Zachary O. Kachel** (zachary.o.kachel.mil@socom.mil) — US SOCOM; RFI S0 (no new activity)
+#### **Government/Military/Research (CRITICAL ACTIVITY SPIKE)**
+- **Laura Rock** (laura.rock@noaa.gov) — NOAA; **Multiple coordination rounds Jul 7 on Delivery Planning + P3 Questions (4x emails 09:55–15:12 EDT); Jack Elston responding to Laura with technical/logistics details; Joe Cione looped in; indicates live project execution phase**
 
-#### **Strategic Partners & Vendors (NEW ESCALATION)**
-- **George Kusaba** (george.kusaba@amprius.com) — **Amprius; Q3 Check-In: Josh → George (Re:) Jul 6, 16:40 UTC IMPORTANT — quarterly business review/partnership discussion; suggests ongoing strategic relationship (batteries/energy systems for UAS platforms)**
-- **Tim Pearson** (tim@rotorworksmfg.com) — **RotorWorks Manufacturing; "Possible Call" IMPORTANT to Josh Fromm (Jul 6, 16:15 UTC); Josh forwarded to Alex Lomis (Arctic UAS team) Jul 6, 10:59 UTC — NEW vendor/partnership outreach for rotor/propulsion systems; HIGH PRIORITY FLAG**
-- **Santiago Silva** (santiago.silva@xometry.com) — Xometry; **Re: Checking in on Josh's upcoming projects (Jul 6, 08:00 UTC) IMPORTANT — direct engagement on project scoping; manufacturing partnership deepening**
-- **Thomas Cooke** (Thomas@mksservosusa.com) — **MKS Servos USA; Josh → Thomas technical Q: "DroneCAN neutral point range set question" (Jul 6, 15:39 UTC) — active technical integration; flight control/servo tuning discussion**
+- **Joe Cione** (joe.cione@noaa.gov) — NOAA Federal; **Direct Josh Fromm engagement (Jul 7, 09:48 UTC) Re: Delivery Planning, P3 Questions SENT; Joe forwarding to broader NOAA team (Nick Underwood, Jun Zhang, Annette Hollingshead, Josh Wadler) — escalation to team review; active project coordination**
 
-#### **Manufacturing & Precision Components (SURGE CONTINUES & ACCELERATING)**
+- **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — NOAA Federal; **New correspondent Jul 7, 08:49 UTC — "Permanent Change of Station (PCS) Re: Delivery Planning, P3 Questions" IMPORTANT; indicates organizational/staffing impact on NOAA delivery project**
 
-**Critical Backorder Issue:**
-- **uAvionix** (support@uavionix.com) — **ESCALATION ALERT: Ticket Created #50873 (Jul 6, 20:34 UTC) — "We just placed an order for 4 pingRX Pros, but noticed it is listed as being on back order. Do you have a general idea of when it might ship?" MARKED IMPORTANT (2x duplicate ticket entries); also password reset + order received confirmations (Jul 6, 13:58–14:18 UTC) — **Indicates large pingRX order placed; BST dependent on supply; Josh directly handling vendor escalation with uAvionix support; stock constraint visible**
+- **Nick Underwood** (nicholas.underwood@noaa.gov) — NOAA Federal; **Looped into Joe Cione coordination chain Jul 7; team-level engagement**
 
-**Active Order Flow:**
-- **JawsTec Manufacturing LLC** — **2x invoices in 24 hours (Jul 6, 18:24–20:47 UTC): Invoice #69729 + Invoice #69738 (both UNREAD); order receipt + payment request flow active; manufacturing acceleration signal**
-- **McMaster-Carr** (chi.sales@mcmaster.com) — **3x certificates/tracking for July 6th orders (Jul 6, 16:24 / 16:53 / 17:15 UTC) — high-velocity industrial component ordering; same-day delivery/tracking confirmations**
-- **ServoCity®** (sales@servocity.com) — **Order Confirmation #300045463 (Jul 6, 21:49 UTC) IMPORTANT MARKED — servo/motion control components for aerial platforms**
-- **DigiKey** — **3x order confirmations in 24 hours (Jul 6, 15:58 / 15:58 / 21:57 UTC); Invoice 128702215 shipped; PO #100222302 acknowledgement; high-velocity electronics procurement**
-- **Mini-box.com / Ituner Networks Corporation** — **3x confirmations (Jul 6, 15:42 UTC): Invoice #139935; Order #295-498797 fulfilled/received/delivery — embedded systems/SBC components (Mini-box specializes in fanless embedded boxes for rugged/aviation applications)**
-- **Aerobertics, RedwingRC, FETtec, K-mac Plastics, Rock West Composites, SendCutSend, APC Propellers** — (Prior activity continues
+- **Jun Zhang** (jun.zhang@noaa.gov) — NOAA Affiliate; **Looped into Joe Cione delivery planning discussion Jul 7**
+
+- **Annette Hollingshead** (annette.hollingshead@noaa.gov) — NOAA Federal; **Looped into Joe Cione delivery planning discussion Jul 7**
+
+- **Josh Wadler** (wadlerj@erau.edu) — Embry-Riddle Aeronautical University; **Looped into Joe Cione delivery planning discussion Jul 7 (external academic partner involved)**
+
+- **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — UK MOD; **Merlin Mk2/US Navy SBIR dialogue continues (Jul 7, 15:07 UTC Josh → Simon Re: response received); Q3 engagement ongoing**
+
+- **Evan M. Wolff** (evan.m.wolff.mil@socom.mil) — USSOCOM; RFI S0 (no new activity in Jul 7–8)
+
+#### **Strategic Partners & Vendors (ESCALATING ENGAGEMENT)**
+
+- **George Kusaba** (george.kusaba@amprius.com) — **Amprius; Q3 Check-In (Jul 7, 21:37 UTC) FW: from George → Josh + Jonathan DiGiacomandrea IMPORTANT — escalation flag; forwarded message suggests strategic partnership discussion/review; Josh receiving direct message from Amprius leadership**
+
+- **Roger Riley** (roger@krateosky.com) — **Krateo Sky Consortium; Black Swift BOM Discussion invitation Jul 8 (11:30am–12:30pm MDT) with Daniel Prendergast — Bill of Materials review meeting; partnership technical engagement**
+
+- **Chance Rogers** (chance.rogers@vertiq.co) — **VertIQ; Josh → Chance Re: 23-14 updates (Jul 7, 09:09 UTC) SENT — active technical collaboration; motor/propulsion system integration discussion**
+
+- **Kyle Nadon** (KNadon@amphenol-sine.com) — **Amphenol-Sine; Live Chat offline message from Josh (Jul 7, 13:49 UTC) IMPORTANT — real-time vendor engagement; connector/cable/systems integration inquiry**
+
+- **Thomas Cooke** (Thomas@mksservosusa.com) — MKS Servos USA (prior engagement continues; no new activity Jul 7–8)
+
+#### **Manufacturing & Precision Components (SURGE ACCELERATING & ESCALATION SIGNALS)**
+
+**Critical Backorder Issue — ESCALATING:**
+- **uAvionix** — **ONGOING CRITICAL ISSUE: Ticket #50873 continues active escalation Jul 7 (4x communications: Tonya Trenkle → Jimmy Wiseman support; Josh → Tonya direct response Jul 10:58 UTC; Meredith Needham → support Jul 11:10 UTC; Jack Elston appears to be backup contact). Josh personally managing vendor relationship; Meredith now secondary escalation point. Order completion confirmed (website note added Jul 07:26 UTC) but stock constraint remains. pingRX Pro backorder still unresolved.**
+
+**Active Manufacturing Orders — HIGH VELOCITY:**
+- **SendCutSend** — **ESCALATION ALERT (Order S439K456): 7x vendor responses Jul 7 (18:37–22:56 UTC) from Jake, Seth, Max regarding order question; Meredith forwarding directly to Josh (2x forwards marked IMPORTANT at 15:45 & 14:43 UTC); suggests complex order issue or urgent clarification needed; parallel order SP128831 also tracking. High-priority custom fabrication.**
+
+- **JawsTec Manufacturing LLC** — **Shipment notification Jul 7, 15:17 UTC "Your order from JawsTec is on

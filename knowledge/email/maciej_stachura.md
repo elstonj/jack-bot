@@ -1,81 +1,104 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 28 emails (5 Jul – 6 Jul 2026)
+- **Total messages scanned:** 38 emails (7 Jul – 8 Jul 2026)
 - **Date range:** 2 days
-- **Approximate volume:** ~14 emails/day (high intensity burst period)
+- **Approximate volume:** ~19 emails/day (sustained high-intensity period)
+- **Previous scan:** 28 emails over same 2-day window
+- **Trend:** Communication volume increasing; pattern remains burst-intensive
 
 ## Key Correspondents
 
 ### Top Senders to Maciej
-1. Jack Elston (elstonj@blackswifttech.com) — 10+ emails (appears in many threads as initiator or cc'd)
-2. Bob Smith (Bob@krateosky.com) — 3 direct emails
-3. Scott J. Bolton (scott.bolton@swri.org) — 2 direct emails
-4. Thibault Bridel-Bertomeu (Thibault@krateosky.com) — 1 direct email
-5. Angie Diefenbach (adiefenbach@usgs.gov) — 1 direct email
-6. Joe Cione – NOAA Federal (joe.cione@noaa.gov) — 1 direct email
-7. Ramdane Bessaid (ramdane_bessaid@berkeley.edu) — 1 direct email
+1. **Jack Elston** (elstonj@blackswifttech.com) — 9 direct emails + multiple forwards (still primary correspondent)
+2. **Brian M Argrow** (Brian.Argrow@colorado.edu) — 4 emails (new high-frequency contact)
+3. **Al Gasiewski** (al.gasiewski@colorado.edu) — 2 emails
+4. **Michael Hurowitz** (mhurowitz@weatherstream.com) — 2 emails
+5. **Patricia A Vollmer** (patricia.a.vollmer.civ@mail.mil, NORAD) — 1 direct email
+6. **Daniel Hesselius** (daniel.hesselius@halo-aero.com) — 1 email
+7. **Curtis Vock** (cvock@cozen.com, patent attorney) — 1 email
+8. **Automated/Newsletters:** IWA Publishing, Rippling (HR benefits), ServoCity, Sigma Sourcing, Purchasing forum notifications
 
 ### Top Recipients (Maciej Emails To)
-- Primarily **cc'd or replied-to** rather than originating threads
-- Direct correspondence appears minimal in this sample
-- Often included in group emails initiated by Jack Elston
+- **Al Gasiewski** (al.gasiewski@colorado.edu) — 1 sent reply
+- **Brian M Argrow** (Brian.Argrow@colorado.edu) — 1 sent reply
+- **Daniel Hesselius** (daniel.hesselius@halo-aero.com) — 1 sent email
+- Still primarily **cc'd or receiving** rather than originating; limited outbound initiation visible
 
 ### Internal vs External
-- **Internal:** Jack Elston (frequent), Beck Cotter, Daniel Prendergast
-- **External:** Krateosky (Bob Smith, Thibault, LisaMarie Cheney, Brian Grubel, Roger Riley, Dipan Amin), USGS (Angie Diefenbach, Christoph Kern), SwRI (Scott Bolton), NOAA, UC Berkeley, TU Delft, University of Colorado, Montana University, QuSpin
+- **Internal:** Jack Elston, Beck Cotter, Daniel Prendergast, Ben Busby, Meredith Needham, Josh Fromm (purchasing)
+- **External Growth:** 
+  - **Universities:** University of Colorado (Brian Argrow, Al Gasiewski — L-band research)
+  - **Government/Military:** NORAD (Vollmer), USSOCOM (Saunders), Navy (implied in DoW opportunities)
+  - **Vendors/Partners:** Krateosky (Thibault), QuSpin (Jeffrey Orton), Halo Aero (Hesselius), WeatherStream (Hurowitz), uAvionix, ServoCity, Sigma Sourcing, Cozen (patent counsel)
+  - **Research Institutions:** SwRI (Bolton — continued), UC Colorado
+  - **Previously identified:** USGS, NOAA, TU Delft, Montana University
 
 ## Topic Patterns
 
 ### Recurring Themes
-- **UAS/Drone Projects:** L-band drone flights, unmanned test platforms, sensor integration on quadcopters
-- **Hiring & Staffing:** Computer vision engineer, frontend software engineer, C++ scientific software engineer recruitment
-- **Sales & Business Development:** Blue UAS list, Sales Pipeline, Technical Proposal requests
-- **Government/Academic Partnerships:** Mexico Deployment (USGS collaboration), US Navy collaboration, NOAA involvement
-- **Technical Integrations:** SwiftCore Flight Management System, atmospheric measurement sensors
+- **L-band drone flights over lava** — active multi-party technical discussion (Gasiewski, Bolton, Hurowitz, Argrow)
+- **Navy C-UAS (Counter-UAS) deadline July 22** + 3 new Descriptions of Work opportunities — urgent government contracts
+- **AE27 Black Swift UAS status/capability** — internal/NORAD coordination on platform maturity
+- **S3 customer potential** — sales pipeline with Argrow as key contact
+- **Flight data report** — technical operational data flowing
+- **Hiring:** Computer vision engineer, frontend software engineer (Krateosky recruitment still active)
+- **Patent renewal:** "Soil Moisture Company" patent application (July 2026 deadline)
+- **Equipment/supply chain:** uAvionix pingRX Pro (backorder issue), ServoCity orders, Sigma Sourcing UAV propulsion
 
 ### Key External Organizations
-- **Krateosky** — frequent multi-person correspondence (appears to be partner/vendor)
-- **USGS** — Mexico Deployment project
-- **NOAA** — Event cancellation notice (NEOTAC conference)
-- **SwRI (Southwest Research Institute)** — L-band drone research
-- **QuSpin** — technical inquiry
-- **Universities:** UC Berkeley, University of Colorado, Montana University, TU Delft
+- **University of Colorado** — Brian Argrow, Al Gasiewski (significant research collaboration on L-band work and S3 customer development)
+- **SwRI (Southwest Research Institute)** — Scott Bolton (L-band research continuation)
+- **Krateosky** — Thibault (hiring/staffing)
+- **NORAD/USSOCOM** — Patricia Vollmer, Kevin Saunders (AE27 platform status)
+- **Halo Aero** — Daniel Hesselius (Navy Work collaboration)
+- **Grant Engine** — Josh Brown (government opportunity pipeline)
+- **WeatherStream** — Michael Hurowitz (L-band sensor application)
+- **uAvionix** — equipment supplier (transponder backorders)
+- **Cozen O'Connor** — patent counsel (Curtis Vock)
+- **QuSpin** — technical collaboration (magnetometer/sensor vendor)
 
 ### Visible Projects/Codenames
-- **Mexico Deployment** (USGS-partnered)
-- **Blue UAS list / Blue List options**
-- **SwiftCore Flight Management System**
-- **L-band drone flights over lava**
-- **Unmanned test platform collaboration with US Navy**
-- **NEOTAC** (NEw Observational Technologies and Advanced Conops) — conference/event
+- **AE27 Black Swift UAS** — platform status inquiry to NORAD; appears to be formal designation
+- **Navy C-UAS** — Counter-UAS program, deadline 22 Jul 2026
+- **S3 customer** — potential significant customer through Argrow
+- **L-band drone flights over lava** — active research campaign (Hawaii deployment implied)
+- **Soil Moisture Company** — patent portfolio element (renewal due)
 
 ## Communication Patterns
 
-- **All messages marked [IMPORTANT, INBOX]** — suggests filtering/flagging system in use
-- **Heavy cluster on 6 Jul 2026** — rapid back-and-forth on multiple active projects
-- **Group email participation** — frequently cc'd on multi-party threads (not typically initiating)
-- **Response patterns** — often replies to Jack Elston's initiations
-- **Automated emails:** 2 from previous scan (Comcast, Powerwerx), 1 from BST Website contact form, 1 from NOAA event cancellation
+- **All messages marked [IMPORTANT, INBOX]** — consistent with previous scan; strong flagging discipline
+- **Jack Elston remains hub/coordinator** — initiating or forwarding across government, academic, vendor, and business contexts
+- **Maciej increasingly visible in direct correspondence** — 3 outbound emails in this sample vs. primarily passive participation in previous scan
+  - **L-band project:** Direct replies to Gasiewski and Hurowitz (technical contributor)
+  - **Navy Work:** Direct inquiry to Hesselius (Halo Aero) — suggests operational or partnership coordination
+- **Multi-stakeholder threads:** Vollmer (NORAD) looping in USSOCOM, BST team, and Jack (formal government coordination)
+- **Brian Argrow (CU) emerging as key external collaborator** — 4-email exchange thread on S3 customer suggests active business development partnership
+- **Heavy evening activity:** Jack Elston responding/forwarding extensively on 7 Jul evening (23:00-00:45 UTC-6)
+- **Automated emails:** HR enrollment (Rippling), journal metrics (IWA), equipment updates (ServoCity), purchasing notifications, vendor outreach (Sigma)
 
 ## Key Relationships
 
-### Primary Collaborators (by frequency)
-- **Jack Elston** — appears to be central hub; coordinates multiple projects and loops Maciej in across sales, hiring, technical, and deployment work
-- **Beck Cotter & Daniel Prendergast** — frequently in same project groups as Maciej
-- **Bob Smith (Krateosky)** — recurring external contact on strategic initiatives (Blue UAS, hiring)
+### Primary Internal Collaborators
+- **Jack Elston** — still central; coordinates across all business lines (sales, hiring, government contracts, technical projects)
+- **Beck Cotter & Daniel Prendergast** — remain in same project groups (platform status, operational data)
+- **Ben Busby** — may be internal hiring/staffing coordinator (forwarded requirements)
 
-### Important External Relationships
-- **Scott J. Bolton (SwRI)** — L-band drone research collaboration
-- **Angie Diefenbach (USGS)** — Mexico Deployment project coordination
-- **Thibault Bridel-Bertomeu (Krateosky)** — hiring/staffing coordination
-- **Joe Cione (NOAA)** — event/conference contact
+### High-Value External Relationships (increased visibility in this sample)
+- **Brian M Argrow (University of Colorado)** — **NEW HIGH FREQUENCY** (4 emails on S3 customer opportunity; appears to be primary business development contact for customer prospecting)
+- **Al Gasiewski (University of Colorado)** — technical collaborator on L-band research; coordination hub
+- **Scott J. Bolton (SwRI)** — L-band research partner (continued from previous scan)
+- **Michael Hurowitz (WeatherStream)** — technical partner on L-band sensor application; direct correspondence
+- **Patricia A Vollmer (NORAD)** — formal government point of contact for AE27 platform
+- **Daniel Hesselius (Halo Aero)** — Navy work partner; Maciej initiated direct contact
+- **Thibault Bridel-Bertomeu (Krateosky)** — hiring/staffing partner
+
+### Government/Military Channel
+- **NORAD (Vollmer)** → **USSOCOM (Saunders)** — formal hierarchy; AE27 platform discussion
+- **Grant Engine (Josh Brown)** — opportunity pipeline agent for Navy/DoD contracts
 
 ## Notable Observations
 
-- **Shift in communication pattern:** Previous scan showed only 2 automated/purchasing emails. New data shows **active project involvement** across multiple critical initiatives (deployments, hiring, partnerships, technical proposals).
-- **Integration point:** Maciej appears to be involved in **technical, operational, and business development decisions** — suggesting role with cross-functional responsibility.
-- **Krateosky relationship:** Multiple Krateosky contacts on shared emails suggests significant ongoing partnership or vendor/consultant engagement.
-- **Government/Academic focus:** Heavy representation of USGS, NOAA, SwRI, and university partners suggests research-oriented or government-contracting business lines.
-- **Hiring urgency:** Multiple hiring-related threads (Krateosky, Berkeley spontaneous application) suggest active recruitment push.
-- **No email originated by Maciej in this sample** — all messages show him as recipient or cc'd, not sender.
+- **Shift to active contributor role:** Maciej now originating emails on Navy work and L-band research, not just responding. Suggests elevated involvement in technical decisions or partnership management.
+
+- **L-band research gaining momentum:** Multi-party discussion thread (Gasiewski, Bolton, Hurowitz, Argrow) with Maciej as direct participant suggests this is **high-priority technical project**, possibly platform-critical sensor integration

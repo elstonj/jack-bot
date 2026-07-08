@@ -25,35 +25,35 @@
     ]
   },
   "budget": {
-    "approved": 20000.0,
-    "approved_source": "sow_drive",
+    "approved": 242540.0,
+    "approved_source": "asana_custom_field",
     "line_items": [],
     "spent": {
       "labor": {
         "amount": 55956.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-07"
+        "last_updated": "2026-07-08"
       },
       "purchases": {
         "amount": 185.15,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-07-07"
+        "last_updated": "2026-07-08"
       },
       "other_qbo": {
         "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-07-07"
+        "last_updated": "2026-07-08"
       },
       "total": 56141.4,
       "by_line_item": {}
     },
     "committed": 2874.06,
-    "remaining": -39015.46,
+    "remaining": 183524.54,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-07T09:03:27Z"
+    "last_reconciled": "2026-07-08T09:04:21Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -98,6 +98,6 @@
       "text": "From Maciej: <@U0AQE94HJUT> I don't see a Navy meeting at 9:30 this morning. Also, for mag integration it's Alex and Sam on the critical engineering tasks"
     }
   ],
-  "last_full_rebuild": "2026-07-07T09:03:27Z",
+  "last_full_rebuild": "2026-07-08T09:04:21Z",
   "last_incremental_update": null
 }

@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $4,462,176.28
-- **Total Expenses (Bills + Purchases):** $1,333,414.25
+- **Total Expenses (Bills + Purchases):** $1,334,581.68
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,128,761.03 (invoiced minus expenses)
+- **Net Position:** $3,127,594.60 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -76,57 +76,77 @@
 
 ---
 
-### **Materials & Supplies: $472,941.97**
-**Number of transactions:** 216  
+### **Materials & Supplies: $474,168.40**
+**Number of transactions:** 220  
+
 **Key vendors & items:**
+
 - **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
   - **DKC*DIGI KEY CORP - 4617** (2026-06-17): $170.70 [DC-Direct Material Purchases]
   - **DKC*DIGI KEY CORP - 4617** (2026-06-03): $38.57 [DC-Direct Material Purchases]
   - **DKC*DIGI KEY CORP - 4617** (2026-06-01): $45.29 [DC-Direct Material Purchases]
-  - **DKC*DIGI KEY CORP - 4617** (2026-07-02): **$66.92** [DC-Direct Material Purchases] — Extra AD parts
+  - **DKC*DIGI KEY CORP - 4617** (2026-07-02): $66.92 [DC-Direct Material Purchases] — Extra AD parts
+
 - **JAWSTEC:** 
   - Prior balance: $19,627.62
-  - **Purchase #69631** (2026-06-29): **$562.44** [DC-Direct Material Purchases] — IDIQ components shipped to Sean Cole
+  - **Purchase #69631** (2026-06-29): $562.44 [DC-Direct Material Purchases] — IDIQ components shipped to Sean Cole
   - **Updated JAWSTEC total: $20,190.06**
+
 - **Amprius battery systems:** $28,637.13 (wire transfers, 01/06/26) + $399.00 (2026-04-29) + $399.00 (2026-05-01) + $399.00 (2026-05-14)
   - **Total Amprius: $29,834.13**
+
 - **Microwave Filter Company / Pressure sensor imports:** $46,079.48 (tariffs included)
+
 - **General electronics components:** ~$50,000+ (various suppliers)
+
 - **Composite materials (thermoset laminates, tubes):** 
   - **Northwind Composites:**
     - $2,776.50 (2026-05-18, Thermoset Laminate Linen Tubes) [DC-Direct Material Purchases]
     - $555.30 (2026-05-18, Direct materials) [DC-Direct Material Purchases]
     - $832.95 (2026-05-18, Inventory asset for 6 future S0s)
   - **Total composite materials direct costs: $3,331.80**
+
 - **Motors, brushless components:** $181.85 + $55.46
+
 - **S0 wing components:** Multiple purchases totaling $12,200+
+
 - **PCB boards, stencils, parts sourcing:** ~$30,000+
+
 - **Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head** (2026-05-07): $479.80 [DIRECT COSTS] + $306.08 [Inventory Asset]
   - **Direct Cost Materials & Supplies impact: $479.80**
-- **Amazon MKTPL*4Z8IL5283** (2026-06-29): **$34.59** [DC-Direct Material Purchases] — 64GB PNY Elite-X Fit USB 3.1 Flash Drive
 
-**Recent transactions (2026-06-24 to 2026-07-07):**
+- **Amazon MKTPL*4Z8IL5283** (2026-06-29): $34.59 [DC-Direct Material Purchases] — 64GB PNY Elite-X Fit USB 3.1 Flash Drive
+
+**Recent transactions (2026-06-24 to 2026-07-08):**
 - **Purchase #0624JELSTON** (2026-06-24): 
   - $2.58 [DC-Direct Material Purchases] — By Light Supplies
   - $20.93 [DC-Direct Material Purchases] — Navy Magnetometer
-  - Subtotal materials: **$23.51**
+  - Subtotal: **$23.51**
+  
 - **Purchase #0622JELSTON** (2026-06-24): 
   - $1,281.98 [DC-Direct Material Purchases] — supplies for [550-1] Navy Magnetometer
-  - Subtotal materials: **$1,281.98**
+
 - **Purchase #009799** (2026-06-24): **$48.19** [DC-Direct Material Purchases]
+
 - **Purchase #0625JELSTON** (2026-06-26): **$192.10** [DC-Direct Material Purchases]
   - $53.70 — Materials IDIQ
   - $138.40 — Materials for [550-1] Navy Magnetometer
-  - Subtotal materials: **$192.10**
+
 - **Purchase #69631** (2026-06-29): **$562.44** [DC-Direct Material Purchases] — JAWSTEC IDIQ components
+
 - **Amazon MKTPL*4Z8IL5283** (2026-06-29): **$34.59** [DC-Direct Material Purchases] — USB Flash Drive
+
 - **Purchase #03236** (2026-07-01): **$156.00** [DC-Direct Material Purchases] — Wire Transfer
-  - $130.00 [DC-Direct Material Purchases] — Wire transfer (no Asana request; Alex purchase via email)
-  - $26.00 [DC-Direct Material Purchases] — Wire transfer (no Asana request; Alex purchase via email)
+  - $130.00 — Wire transfer (no Asana request; Alex purchase via email)
+  - $26.00 — Wire transfer (no Asana request; Alex purchase via email)
   - *Note: Initial wire transfer through Wells Fargo was returned*
-  - Subtotal materials: **$156.00**
+
 - **Purchase #03236** (2026-07-02): **$122.60** [DC-Direct Material Purchases] — IDIQ GPS_ground_plane.dxf
+
 - **Purchase** (2026-07-06): **$57.83** [DC-Direct Material Purchases] — Medium box foam corners
   - *Memo: No Asana request - Josh Fromm made purchase in person*
 
-**Subtotal new materials & supplies (2026-06-24 to 2026-07-07):
+- **Purchase** (2026-07-07): **$1,446.53** [DIRECT COSTS: DC-Direct Material Purchases]
+  - $15.52 [DC-Direct Material Purchases]
+  - $222.22 [DC-Direct Material Purchases]
+  - **Purchase #SP128831** (2026-07-07): **$220.

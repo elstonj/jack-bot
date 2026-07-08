@@ -31,19 +31,19 @@
       {
         "category": "Labor",
         "amount": 111481.0,
-        "description": "Engineering Tasks (NRE): Laser configuration, AirOps updates, Dual GPS, 10Hz met data, Firmware customization, Extended endurance, Manufacturability improvements, Data buffering and re-transmission",
-        "source_doc": null
-      },
-      {
-        "category": "Travel",
-        "amount": 20852.0,
-        "description": "Clear Air Testing 2025 ($4,852) and Hurricane Flights 2025 ($16,000)",
+        "description": "Engineering Tasks (NRE): laser configuration, AirOps updates, dual GPS RTK, 10Hz met data, firmware customization, extended endurance, manufacturability improvements, data buffering",
         "source_doc": null
       },
       {
         "category": "Materials",
         "amount": 1700.0,
-        "description": "Materials for Dual GPS ($1,000), Extended endurance ($200), and Manufacturability improvements ($500)",
+        "description": "Materials for dual GPS ($1,000), extended endurance battery tweaks ($200), manufacturability improvements ($500)",
+        "source_doc": null
+      },
+      {
+        "category": "Travel",
+        "amount": 20852.0,
+        "description": "Clear Air Testing 2025 ($4,852), Hurricane Flights 2025 ($16,000)",
         "source_doc": null
       }
     ],
@@ -52,13 +52,13 @@
         "amount": 551648.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-07"
+        "last_updated": "2026-07-08"
       },
       "purchases": {
         "amount": 970.76,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-07-07"
+        "last_updated": "2026-07-08"
       },
       "other_qbo": {
         "amount": 321540.76,
@@ -69,10 +69,10 @@
       "total": 874160.27,
       "by_line_item": {}
     },
-    "committed": 0.0,
-    "remaining": -741827.27,
+    "committed": 296.47,
+    "remaining": -742123.74,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-07T09:03:05Z"
+    "last_reconciled": "2026-07-08T09:03:59Z"
   },
   "milestones": [
     {
@@ -152,6 +152,6 @@
   "team": [],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-07-07T09:03:05Z",
+  "last_full_rebuild": "2026-07-08T09:03:59Z",
   "last_incremental_update": null
 }

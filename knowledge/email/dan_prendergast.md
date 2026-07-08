@@ -1,82 +1,93 @@
 # Dan Prendergast — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 14 (spanning 5–7 Jul 2026)
-- **Date range:** 3 days
-- **Approximate volume:** ~4–5 messages per day (filtered view; likely receives more)
+- **Total messages scanned:** 30 (spanning 5–8 Jul 2026)
+- **Date range:** 4 days
+- **Approximate volume:** ~5–7 messages per day (filtered view; likely receives more)
 - **Note:** Scan includes emails where Dan is recipient, sender, or CC'd; reflects active correspondence during this period
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-1. **Beck Cotter** (beck.cotter@blackswifttech.com) — appears in 6 threads; primary collaborator
-2. **Jack Elston** (elstonj@blackswifttech.com) — appears in 5 threads; frequent coordination
-3. **Maciej Stachura** (stachura@blackswifttech.com) — appears in 2 threads
+1. **Jack Elston** (elstonj@blackswifttech.com) — appears in 9+ threads; now tied or exceeds Beck Cotter; primary technical coordinator
+2. **Beck Cotter** (beck.cotter@blackswifttech.com) — appears in 5+ threads; senior/lead role
+3. **Maciej Stachura** (stachura@blackswifttech.com) — appears in 4 threads; technical team member
+4. **Ben Busby** (ben.busby@blackswifttech.com) — new appearance; recruitment/staffing coordination
 
 ### Top External Contacts
-1. **Lockheed Martin (LMCo)** — Alasdair Brackenridge, Dhruti Shah, Neil Morphett (global.lmco.com)
-2. **USGS (U.S. Geological Survey)** — Angie Diefenbach, Christoph Kern (usgs.gov)
-3. **NanoVeu** — Nikhila Ravikumar (nanoveu.com)
-4. **KraateoSky** — Bob Smith, Ariel Avitan (krateosky.com)
-5. **SMK1.systems** — contact via proton.me; appears to be technical partner/vendor
-6. **TU Delft** — Geet George (tudelft.nl)
-7. **University of Montana** — Madelyn Mettler (montana.edu)
+1. **Lockheed Martin (LMCo)** — Dhruti Shah, Alasdair Brackenridge (global.lmco.com) — continues active engagement
+2. **U.S. Military/Government (NEW)** — Patricia A. Vollmer (NORAD-USNC JOC), Kevin W. Saunders (USSOCOM SOCNORTH) — defense/special operations client
+3. **KraateoSky** — Thibault, Roger Riley (krateosky.com) — hiring and technical coordination
+4. **SMK1.systems** — encrypted partner (proton.me); SAL-C evaluation scope
+5. **USGS** — continues from prior data
+6. **UC Santa Cruz** — J. Xavier Prochaska (jxp@ucsc.edu) — academic contact (NEW, appears 3× in short span)
+7. **Bartington (magnetometer vendor)** — Tom Simcox (tom.simcox@bartington.com) — technical component supplier (NEW)
 
 ### Internal vs External
-- **Internal threads:** Beck Cotter, Jack Elston, Maciej Stachura dominate
-- **External:** Heavy LMCo engagement; government (USGS), academic (TU Delft, Montana), and vendor relationships
+- **Internal:** Jack Elston now appears as frequently or more than Beck Cotter; Ben Busby appears (HR/recruitment angle)
+- **External:** Significant expansion into U.S. military/special operations (NORAD, USSOCOM); academic reconnection (UCSC); new hardware vendor engagement (Bartington)
 
 ## Topic Patterns
 
 ### Recurring Projects/Products
-1. **MAD UAV** — Weekly catch-up with Lockheed Martin (active initiative)
-2. **SAL-C** — Multi-party technical collaboration and overview discussions (SMK1.systems, KraateoSky, internal BST team)
-3. **Mexico Deployment** — Multi-stakeholder coordination (USGS, internal team, external partners)
-4. **SwiftCore Flight Management System** — Technical proposal request circulated
-5. **Flight data report** — Operational deliverable (NanoVeu)
+1. **MAD UAV** — continues (Lockheed Martin weekly engagement)
+2. **SAL-C** — escalating; scope clarification with SMK1.systems; multi-party coordination continuing
+3. **Mexico Deployment** — appears less prominent in this window
+4. **AE27 Black Swift UAS** — **NEW, HIGH PRIORITY** — government client inquiry from NORAD-USNC and USSOCOM; multiple urgent responses
+5. **Flight data report** — continues (NanoVeu deliverable)
+6. **SwiftCore Flight Management System** — technical proposals
+7. **S0 BOM Discussion** — **NEW** — Bill of Materials discussion with KraateoSky (likely prototype/early-stage vehicle)
+8. **UAS-MAG high Performance Dronecan Compass** — **NEW** — sensor/component integration (Bartington partnership)
 
 ### Client/Vendor/Organization Names Visible
-- **Lockheed Martin** (LMCo) — strategic partner
-- **USGS** — government client/partner
-- **KraateoSky** — vendor/partner
-- **NanoVeu** — external technical contact
-- **SMK1.systems** — technical partner (encrypted/anonymous contact)
+- **NORAD-USNC** (North American Aerospace Defense Command) — U.S. military client
+- **USSOCOM SOCNORTH** (U.S. Special Operations Command, Northern) — special operations client
+- **Bartington** — magnetometer/sensor vendor
+- **UC Santa Cruz** — academic institution (professor contact)
+- Previous: Lockheed Martin, KraateoSky, SMK1.systems, USGS
 
 ## Communication Patterns
 
 ### Message Flow
-- **Heaviest activity:** Monday, 6 Jul (10 messages in various threads)
-- **Secondary peak:** Tuesday, 7 Jul (3 new messages)
-- **Dan's sending pattern:** Responds to incoming (replyto threads); acts as recipient more than originator in this sample
-- **Message types:** Mostly IMPORTANT/UNREAD flags indicate active, high-priority threads
+- **Heaviest activity:** Tuesday, 7 Jul (11+ messages across multiple threads)
+- **Secondary activity:** Wednesday, 8 Jul early morning (4 messages, likely overnight/early response)
+- **Dan's sending pattern:** More active as sender than prior window; direct outreach to external contacts (LM, UCSC, KraateoSky)
+- **Message types:** Nearly all IMPORTANT; 1 Asana automated notification (task management)
 
 ### Mailing Patterns
-- **Cc'd into group discussions** more often than initiating
-- **Multi-party coordination:** Large recipient lists (4–5 parties per thread) suggest project management / stakeholder alignment role
-- **Forwarded content:** Messages forwarded by Beck Cotter to Dan suggest Beck acts as hub; Dan involved in downstream execution/response
+- **Large government/military threads:** 5+ party recipient lists (Vollmer, Saunders, BST team, Jack Elston)
+- **Jack Elston as traffic hub:** forwards and coordinates replies across internal/external boundaries
+- **Direct external engagement:** Dan now initiates/responds directly to academic (UCSC), vendor (KraateoSky, Bartington), and military contacts
+- **Cc'd into strategic inquiries:** Government client questions routed through Beck Cotter and Jack Elston to Dan
 
 ### Automated/Newsletter
-- **Frontier Airlines promotional email** (5 Jul) — sole non-work message in sample
+- **Asana notifications** — project management tool in active use (1 message)
+- **Frontier Airlines** — continues from prior (non-work)
 
 ## Key Relationships
 
-### Closest Collaborators (by frequency & thread depth)
-1. **Beck Cotter** — senior/lead role; initiates many threads Dan is on; appears to be Dan's direct manager or project lead
-2. **Jack Elston** — peer collaborator; co-responds to external inquiries (USGS, TU Delft); handles some proposal requests
-3. **Maciej Stachura** — technical team member; involved in Mexico Deployment and proposal work
+### Closest Collaborators (by frequency & role)
+1. **Jack Elston** — now appears as frequently or more than Beck Cotter; acts as internal coordinator and external liaison; technical problem-solver
+2. **Beck Cotter** — senior/lead; receives escalations from government clients; Dan and Jack coordinate under his oversight
+3. **Maciej Stachura** — technical team member; involved in government inquiries, flight data, and proposals
 
 ### External Relationships of Note
-1. **Lockheed Martin (Dhruti Shah, Alasdair Brackenridge)** — strategic partnership; weekly structured meetings (MAD UAV)
-2. **USGS (Angie Diefenbach)** — active government client/partner; multi-week Mexico Deployment project
-3. **SMK1.systems** — technical vendor/partner; working on SAL-C (encrypted comms suggest higher confidentiality)
-4. **KraateoSky** — collaboration partner on SAL-C
+1. **U.S. Military (NORAD-USNC, USSOCOM)** — **HIGH-VALUE, NEW** — government client inquiry regarding "AE27 Black Swift UAS"; Patricia Vollmer is primary contact
+2. **Lockheed Martin (Dhruti Shah)** — continues strategic partnership; technical questions escalated to Dan
+3. **KraateoSky** — expanded engagement; now recruiting engineers (computer vision, frontend) and discussing BOM/prototypes (S0)
+4. **SMK1.systems** — SAL-C evaluation phase; scope clarification ongoing
+5. **J. Xavier Prochaska (UCSC)** — academic reconnection; appears to be prior colleague or collaborator; multiple rapid exchanges suggest active re-engagement
+
+### New Relationship
+- **Bartington magnetometer vendor** — technical supplier for UAS sensor integration (Dronecan compass)
 
 ## Notable Observations
 
-- **High proportion of IMPORTANT flags:** 11 of 14 messages marked IMPORTANT, indicating Dan handles mission-critical projects
-- **Multi-stakeholder coordination:** Dan is frequently CC'd into large group conversations (government, defense contractor, vendors), suggesting a systems integration or program management role
-- **Beck Cotter as hub:** Beck forwards and copies Dan into decisions; likely Dan's manager or lead
-- **Active external engagement:** Dan corresponds directly with government (USGS), defense (LMCo), and international academic partners (TU Delft)
-- **SAL-C and MAD UAV appear to be concurrent, active programs** with distinct stakeholder groups
-- **Mexico Deployment:** Multi-week or ongoing project with government partner (USGS) coordination
-- **Promotional noise:** Only 1 non-work email in 3-day window (airline deal) suggests clean inbox hygiene
+- **U.S. Military/Special Ops emergence:** Government client (NORAD, USSOCOM) representing potential high-value contract/partnership; "AE27 Black Swift UAS" positioning as government-ready system
+- **Jack Elston's elevated role:** Appears as frequently or more than Beck Cotter; acts as technical/operational coordinator between internal and external parties; may be project lead or technical lead
+- **Staffing activity:** KraateoSky hiring for computer vision and frontend engineers suggests scaled-up development effort; coordinated through Jack Elston → Ben Busby
+- **Hardware integration focus:** New engagement with Bartington (magnetometer) and continued BOM discussions (S0 phase with KraateoSky) suggest prototype/production phases advancing
+- **UCSC reconnection:** Multiple rapid exchanges with J. Xavier Prochaska in short window; suggests active recruitment, partnership, or collaborative proposal
+- **All 11 of 16 new messages flagged IMPORTANT:** Consistent with prior window; Dan handles mission-critical work
+- **SMK1.systems scope escalation:** SAL-C moving from overview to "evaluation scope" phase with formal scope clarification
+- **Multi-program simultaneity:** AE27 (government), MAD UAV (LMCo), SAL-C (SMK1/KraateoSky), and flight data operations running concurrently

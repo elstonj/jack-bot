@@ -4,15 +4,14 @@
     "(001-16) SwiftStation"
   ],
   "period": {
-    "start": "2026-07-05",
-    "end": "2026-07-07"
+    "start": "2026-07-07",
+    "end": "2026-07-08"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 89.38,
+    "expenses": 130.5,
     "by_category": {
-      "Inventory Asset": 87.44,
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 1.94
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 130.5
     }
   },
   "invoices": [],
@@ -20,24 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-06",
-      "doc_number": "100222302",
-      "total": 4115.91,
-      "attributed": 89.38,
+      "date": "2026-07-07",
+      "doc_number": "139935",
+      "total": 130.5,
+      "attributed": 130.5,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "DKC*DIGI KEY CORP - 4617",
+      "memo": "",
       "lines": [
         {
-          "amount": 89.38,
+          "amount": 130.5,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "SwiftStation parts"
-        },
-        {
-          "amount": 4026.53,
-          "account": "Inventory Asset",
-          "description": "Future S3 sales"
+          "description": "OpenUPS"
         }
       ]
     }

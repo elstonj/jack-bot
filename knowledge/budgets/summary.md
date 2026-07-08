@@ -7,70 +7,55 @@
 |-------|---------|
 | **Project Code** | 018-1 |
 | **Client** | Murray State University |
-| **Total Budget** | $88,862.94 |
-| **Contract Type** | Service contract (drone-based environmental measurement) |
-| **Period of Performance** | 3 field campaigns (May, July, August 2026) |
-| **Scope** | CH4, CO2, and H2O measurement collection over 5 km × 5 km area, Murphy's Pond, Hickman County, KY |
-| **Status** | Active (campaigns scheduled for 2026) |
+| **Contract Value** | $88,862.94 |
+| **Contract Type** | Service contract (drone-based greenhouse gas measurement) |
+| **Period of Performance** | 3 field campaigns in 2026 (May, July, August) |
+| **Scope** | CH4, CO2, and H2O measurements over 5 km × 5 km area, Murphy's Pond, Hickman County, KY |
 
----
-
-## Budget Breakdown Status
-
-### Personnel Costs (Partial Data Available)
-- **Jack Elston** (Principal Investigator): 96 hrs @ $150/hr + 29.28% fringe = $18,616
-- **Maciej Stachura** (Flight Ops & Data Processing): 96 hrs @ $150/hr + fringe = *[data incomplete]*
-- Additional personnel costs expected but not fully detailed in provided documentation
-
-### Known Expenses
-- Internal Budget document dated 12/16/2024 exists (BST_Budget_Murphy'sPond)
-- Quote reference: MUR-228S-25
+**Budget Status:** In planning phase; internal budget breakdown initiated (dated 12/16/2024)
 
 ---
 
 ## By Funding Source
 
-| Client/Agency | Total Funded |
-|---|---|
+| Agency/Client | Total Funded |
+|---------------|-------------|
 | Murray State University | $88,862.94 |
+| **TOTAL** | **$88,862.94** |
 
 ---
 
 ## By Contract Type
 
 | Contract Type | Project Count | Total Value |
-|---|---|---|
-| Service Contract (Environmental Measurement) | 1 | $88,862.94 |
+|---------------|---------------|-------------|
+| Service Contract (Field Measurement) | 1 | $88,862.94 |
+| **TOTAL** | **1** | **$88,862.94** |
 
 ---
 
 ## Financial Health Indicators
 
-⚠️ **Data Completeness Issue:**
-- Personnel budget breakdown is **incomplete** — Stachura's total cost not fully shown in provided extract
-- Unknown: Equipment costs, travel expenses, subcontractor fees, contingency allocations
-- **Recommendation:** Full internal budget spreadsheet (BST_Budget_Murphy'sPond) should be reviewed for complete financial picture
+### Project 018-1 Status
+- ✓ **Contract finalized** with Quote MUR-228S-25
+- ✓ **Internal budget in development** (BST_Budget_Murphy'sPond document shows personnel allocation breakdown)
+- ⚠ **Budget detail incomplete** — Personnel breakdown initiated but document appears truncated (Maciej Stachura hours/rate incomplete)
+- 📅 **Near-term milestone:** Field campaigns begin May 2026
 
-✓ **Positive Indicator:**
-- Campaign timeline is future-dated (2026), providing planning and cash flow runway
-- Client quote (MUR-228S-25) already issued, suggesting contract negotiations advanced
+### Budget Concerns
+- **None identified at this stage** — contract is in pre-execution phase with adequate lead time
 
 ---
 
 ## QuickBooks Integration Notes
 
-- **Status:** Drive-only documentation at this time
-- Budget data sourced from internal Drive spreadsheet (BST_Budget_Murphy'sPond, dated 12/16/2024)
-- No QuickBooks matching data provided in current documentation
-- **Action:** Confirm QuickBooks project code mapping and cost code allocations once project invoicing begins
+- **Project 018-1:** Drive-only documentation at present
+  - Source: Internal budget spreadsheet (BST_Budget_Murphy'sPond, dated 12/16/2024)
+  - Status: No QuickBooks reference found in current documents
+  - Action: Recommend QB setup prior to May 2026 field campaign start to track actual labor, equipment, and travel spend against $88,862.94 contract value
 
 ---
 
-## Next Steps to Complete Overview
+## Summary
 
-To create comprehensive financial documentation, request:
-1. Complete personnel cost breakdown (all team members + hours)
-2. Equipment and travel budget line items
-3. Subcontractor/vendor costs, if any
-4. QuickBooks cost allocation codes
-5. Invoice schedule/milestone payment plan for 2026 campaigns
+**Single active project with $88,862.94 in contracted value.** Financial planning is underway; full internal budget documentation should be completed before project execution begins in 2026.

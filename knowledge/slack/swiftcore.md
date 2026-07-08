@@ -52,6 +52,7 @@ This channel serves as the primary technical communication hub for Black Swift T
 **Multi-Radio GCS Support (April 2026):**
 - Approved feature/multi_radio_gcs branch development to support dual UAS operation with single ground control station
 - Implementation spans autopilot, comms_protocol, and web_controller repositories
+- Feature merged into main branch after flight testing and GCS validation (May 8, 2026)
 
 **VTOL Landing Plan Calculation Update (April 28, 2026):**
 - Landing plan final length calculation coefficient updated from `3 * land_ias * nav_lookahead` to `4 * land_ias * nav_lookahead`
@@ -65,11 +66,6 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Stub provides binary data reading functions for little-endian integer and float conversions (Uint16, Int16, Uint32, Int32, Uint64, Int64, Float32, Float64)
 - No changes to core web controller repository; stub is isolated to OpenWRT builds only
 - Implementation by: Jack Elston
-
-**Multi-Radio Feature Merge (May 8, 2026):**
-- Multi-radio GCS feature merged into main branch after completion of flight testing and GCS validation
-- Jack Elston notified team of merge; feature ready for production use
-- No anticipated impact on parallel development efforts but team advised to report any issues
 
 **Comms Code Generation Refactoring (May 13, 2026):**
 - Decision to create feature branch `feature/fix_type_resolution` for standardizing comms code generation syntax
@@ -110,13 +106,11 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Confirmed: Channel 13 reserved for heated pitot
 - Action: Payload setup spreadsheet identified as needing refresh (Jack Elston referenced existing configuration sheet)
 
-## Projects & Initiatives
+**GCS Hardware Platform Selection (July 7-8, 2026 - In Progress):**
+- Evaluating Gateworks board options for GCS hardware with significant cost differences ($350 vs $550 for lowest vs highest spec)
+- Comparing processors: i.MX8M Mini vs i.MX8M Plus variants
+- Initial preference identified: GW7101-21 (i.MX8M Plus, 4GB/64GB) with GW16112 in Mini-PCIe slot and GW17054 Wi-Fi AP stacked on top
+- Consideration: Whether tall stacking configuration is optimal or if boards with two expansion slots would be preferable
+- Participants: Alex Lomis (evaluating options), Jack Elston (providing technical guidance)
 
-**SwiftCore 3.2 Release (2021-2022):**
-- **Status:** Completed September 2021
-- **Features:** PPK implementation, Dubin's path display, streaming video, look-at points
-- **Testing:** End-of-month testing goal achieved December 2021
-
-**SwiftCore 3.3 Release (2022-2024):**
-- **Status:** Ongoing, targeting NOAA S0 deployment and S0/S2 VTOL testing
-- **Features:** Air deploy capability, payload
+## Projects

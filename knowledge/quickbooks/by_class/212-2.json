@@ -4,15 +4,14 @@
     "[212-2] NASA S2 & Parts"
   ],
   "period": {
-    "start": "2026-05-28",
-    "end": "2026-05-30"
+    "start": "2026-07-07",
+    "end": "2026-07-08"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 34.99,
+    "expenses": 929.43,
     "by_category": {
-      "Inventory Asset": 17.5,
-      "DIRECT COSTS:DC-Direct Material Purchases": 17.49
+      "DIRECT COSTS:DC-Direct Material Purchases": 929.43
     }
   },
   "invoices": [],
@@ -20,29 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-05-29",
+      "date": "2026-07-07",
       "doc_number": "",
-      "total": 139.97,
-      "attributed": 34.99,
+      "total": 929.43,
+      "attributed": 929.43,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "No Asana request - Jack made purchase directly and Slacked message",
+      "memo": "",
       "lines": [
         {
-          "amount": 34.99,
+          "amount": 929.43,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Logitech K400 Plus Wireless Touch TV Keyboard - for S2 simulator"
-        },
-        {
-          "amount": 34.99,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Logitech K400 Plus Wireless Touch TV Keyboard - for S2 simulator"
-        },
-        {
-          "amount": 69.99,
-          "account": "Inventory Asset",
-          "description": "Logitech K400 Plus Wireless Touch TV Keyboards x 2 - for 2 future S2 simulator sales"
+          "description": ""
         }
       ]
     }

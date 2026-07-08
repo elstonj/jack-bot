@@ -89,24 +89,18 @@
 ## Expenses by Cost Category
 
 ### **Materials & Supplies** (Direct Cost Material Purchases)
-**Total: $1,490.94** | 10 transactions | Largest item: $499.00
+**Total: $1,703.91** | 13 transactions | Largest item: $499.00
 
 | Date | Vendor/Description | Amount | Details |
 |------|-------------------|--------|---------|
 | 2026-07-09 | SERVOCITY #7333 | $189.43 | 2302 Series Aluminum MOD 0.8 Hub Mount Gear and 2305 Series Brass MOD 0.8 Servo Gear |
-| 2026-07-06 | Purchase #69738 (JAWSTEC) | $221.12 | For By Light |
-| 2026-07-06 | Purchase #69729 (JAWSTEC) | $488.24 | For INSTAAR (shipped to Sean Cole) |
-| 2026-07-06 | Purchase #0706JELSTON | $31.80 | Shop supplies (incorrectly coded as By Light) |
+| 2026-07-07 | Purchase (No Asana Request) | $287.74 | Multiple items: $15.52 + $222.22 = items for project work |
+| 2026-07-07 | Purchase #0707JELSTON | $64.40 | Shop/project materials |
 | 2026-06-30 | Purchase #2026-0411 | $499.00 | Processing data for Murray State |
 | 2026-06-30 | Digi Key Corp #DKC*DIGI KEY CORP - 4617 | $115.61 | HEATSINK PWR DUAL BLACK T |
 | 2026-06-24 | Purchase #0624JELSTON | $20.93 | Navy Magnetometer |
 | 2026-06-24 | Purchase #0624JELSTON | $2.58 | By Light Supplies |
-| 2026-07-01 | Purchase #03236 (Wire Transfer) | $130.00 | Wire Transfer — unauthorized email purchase via sales rep |
-| 2026-07-01 | Purchase #03236 (Wire Transfer) | $26.00 | Wire Transfer — unauthorized email purchase via sales rep |
-
-**Account:** DIRECT COSTS: DC-Direct Material Purchases
-
----
-
-### **Rent/Facilities** (Facility Costs & Shop Supplies)
-**Total: $349.80** | 1
+| 2026-07-06 | Purchase #69738 (JAWSTEC) | $221.12 | For By Light |
+| 2026-07-06 | Purchase #69729 (JAWSTEC) | $488.24 | For INSTAAR (shipped to Sean Cole) |
+| 2026-07-01 | Purchase #03236 (Wire Transfer) | $130.00 | Wire Transfer — unauthorized email purchase via sales rep ⚠️ |
+| 2026-07-01 | Purchase #03236 (Wire Transfer) | $26.00 | Wire Transfer — unauthorized email purchase via sales rep ⚠

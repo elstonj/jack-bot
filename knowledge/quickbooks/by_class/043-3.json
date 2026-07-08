@@ -4,16 +4,16 @@
     "[043-3] By Light Halo"
   ],
   "period": {
-    "start": "2026-07-05",
-    "end": "2026-07-07"
+    "start": "2026-07-07",
+    "end": "2026-07-08"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 252.92,
+    "expenses": 79.92,
     "by_category": {
-      "Inventory Asset": 208.08,
-      "FACILITIES:FA-Shop Supplies": 29.15,
-      "DIRECT COSTS:DC-Direct Material Purchases": 15.69
+      "DIRECT COSTS:DC-Direct Material Purchases": 76.85,
+      "FACILITIES:FA-Shop Supplies": 2.58,
+      "Inventory Asset": 0.49
     }
   },
   "invoices": [],
@@ -21,47 +21,52 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-06",
-      "doc_number": "0706JELSTON",
-      "total": 381.6,
-      "attributed": 31.8,
+      "date": "2026-07-07",
+      "doc_number": "",
+      "total": 296.48,
+      "attributed": 15.52,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "Items were incorrectly entered as ByLight, but the majority were shop supplies.",
+      "memo": "No Asana Request - project listed under each item purchased",
       "lines": [
         {
-          "amount": 349.8,
+          "amount": 15.52,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": ""
+        },
+        {
+          "amount": 49.38,
           "account": "FACILITIES:FA-Shop Supplies",
           "description": ""
         },
         {
-          "amount": 31.8,
+          "amount": 222.22,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": ""
+        },
+        {
+          "amount": 9.36,
+          "account": "Inventory Asset",
+          "description": "future s3 sales"
         }
       ]
     },
     {
       "type": "Purchase",
-      "date": "2026-07-06",
-      "doc_number": "69738",
-      "total": 3750.77,
-      "attributed": 221.12,
+      "date": "2026-07-07",
+      "doc_number": "0707JELSTON",
+      "total": 64.4,
+      "attributed": 64.4,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "JAWSTEC - 4617",
+      "memo": "",
       "lines": [
         {
-          "amount": 221.12,
+          "amount": 64.4,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "For By Light"
-        },
-        {
-          "amount": 3529.65,
-          "account": "Inventory Asset",
-          "description": "For future S3 sales"
+          "description": ""
         }
       ]
     }

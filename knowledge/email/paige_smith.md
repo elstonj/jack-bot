@@ -1,16 +1,18 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 3,395 (3,342 previous + 53 new from Jul 5-7, 2026)
-- **Date range:** March 24 – July 7, 2026 (106 days)
-- **Approximate volume:** ~32.0 messages per day (sustained consistency)
-- **New batch composition (Jul 5-7, 2026):** ~92% automation/newsletters/promotions (49 of 53 messages)
-  - **Direct human correspondence:** 4 messages (7.5%)
-    - Himanshu Rajak (Google Ads consultation invite, Jul 6)
-    - Jamie Saunders (AGU 2026 sponsorship brochure, Jul 6)
-    - BST website contact form submission (Jul 5)
-    - Brian Guest via BST generic inbox (MNTN coverage, Jul 6 — routed)
-  - **Note:** Midweek batch (Mon-Tue); resumption of work correspondence after extended weekend
+- **Total messages scanned:** 3,459 (3,395 previous + 64 new from Jul 5-8, 2026)
+- **Date range:** March 24 – July 8, 2026 (107 days)
+- **Approximate volume:** ~32.3 messages per day (sustained consistency)
+- **New batch composition (Jul 5-8, 2026):** ~84% automation/newsletters/promotions (54 of 64 messages)
+  - **Direct human correspondence:** 10 messages (15.6%)
+    - Jack Elston (5 messages — conference coordination, performance reporting, spreadsheet collaboration)
+    - Himanshu Rajak / Google Ads (3 messages — consultation follow-ups, Weather Republic reference)
+    - Adnan Hiroli / DroneX (2 messages — registration & exhibit coordination)
+    - Enquiries DroneX (1 message — response)
+    - Jessica Hanley / AMS (1 message — AMS Denver 2027 booth discussion)
+    - Meredith Needham (1 message — forwarded exhibit assignment)
+  - **Note:** Mid-week batch (Tue-Wed Jul 7-8); active conference coordination & Google partnership management
 
 ---
 
@@ -18,98 +20,85 @@
 
 ### Top Internal Senders & Collaborators
 
+**Jack Elston** (elstonj@blackswifttech.com / media@blackswifttech.com)
+- **Most recent activity (Jul 5-8):**
+  - Jul 8, 00:42:12 — AGU UAS/TBS session (invited author, cc: Mei Fan @ PNNL)
+  - Jul 7, 22:53:37 — June 2026 performance report forwarded to Paige (IMPORTANT)
+  - Jul 7, 22:13:13 — Google Sheets comment: "2026 BST Conferences - I would avoid this one - VERY bad exp..." (conference evaluation/curation)
+  - Jul 7, 17:00:51 — DOI Monthly UxS Conference Call cancellation
+  - Jul 7, 10:27:43 & 10:32:29 — Drones 2026 Barcelona abstract deadline (forwarded, Paige coordinating response)
+  - Jul 7, 10:27:43 — Exhibitor assignment for Main Exhibit Hall (coordinating with Meredith Needham)
+- **Pattern:** Primary internal operations partner for conference strategy, performance tracking, content distribution, and event coordination
+- **Status:** Core strategic collaborator — managing multiple concurrent conference projects
+
+**Meredith Needham** (meredith.needham@blackswifttech.com)
+- **Jul 7, 10:20:39 & 08:56:00 — Exhibitor assignment for Main Exhibit Hall (forwarded coordination)**
+- **Signal:** Cross-functional coordination on booth/exhibit logistics
+- **Status:** Recurring operational collaborator
+
 **Daniel Prendergast** (daniel.prendergast@blackswifttech.com)
-- **Most recent:** Jul 3, 16:06:04 +0000 — Business Operations Meeting (Tue Jul 14, 2026)
-- **Distribution:** Paige, Beck Cotter, Jack Elston, Meredith Needham, Nathaniel Straus, Maciej Stachura
-- **Signal:** Cross-functional leadership meeting; core operations team
-- **Status:** Recurring scheduled operational cadence
-
-**Jack Elston** (media@blackswifttech.com)
-- **Most recent:** Jul 6, 09:06:15 +0000 — DAILY NEWS (UAS VISION distribution)
-- **Pattern:** Sustained daily intelligence distribution
-- **Status:** Ongoing core collaborator
-
-**BST Website/Sales/Info Channels**
-- **Jul 5, 14:02:11 -0500:** Contact form submission routed to sales@blackswifttech.com & info@blackswifttech.com (marked IMPORTANT)
-- **Signal:** Inbound lead capture; Paige receives visibility on website inquiries
-- **Status:** Lead routing/awareness function
+- **Status:** Sustained presence; leadership operations cadence continues (from previous batch)
 
 ---
 
 ### Top External Senders & Partners
 
-#### **Active Sales & Partnership Development (New activity Jul 5-7)**
+#### **Conference & Exhibition Management (HIGH VELOCITY — ACTIVE NEGOTIATIONS)**
+
+**Adnan Hiroli / DroneX (Uncrewed Tech Expo)** (adnan.hiroli@uncrewedtechexpo.com)
+- **Jul 7, 19:16:00 & 12:37:32 — Re: DroneX 2026 (IMPORTANT, direct coordination)**
+- **Paige responses (Jul 7, 15:47:27 & 10:10:42) — rapid back-and-forth**
+- **Previous batch (Jul 6, 21:32:09) — Registration confirmation**
+- **Signal:** **ACTIVE EXHIBIT COORDINATION — negotiations ongoing (likely booth specifications, sponsorship levels, or content participation)**
+- **Status:** **PRIORITY CONTACT — Real-time coordination ongoing**
+
+**Juliette Binz / INTERGEO 2026** (Juliette.binz@hinte-expo.com)
+- **Jul 7, 11:18:12 — "INTERGEO 2026 - Your booth" (IMPORTANT)**
+- **Previous batch (Jul 6, 21:26:56) — RFQ received**
+- **Signal:** **Booth assignment/fulfillment stage — moving from quote to logistics**
+- **Status:** **ADVANCED STAGE — Booth confirmed, now coordinating details**
+
+**Jessica Hanley / American Meteorological Society (AMS)** (jhanley@ametsoc.org)
+- **Jul 7, 10:03:33 — RE: AMS Denver 2027 (IMPORTANT)**
+- **Paige response (Jul 7, 10:28:43) — same-day response**
+- **Previous batch (AMS Confex — Jul 6, 15:26:56) — Exhibit application initiated**
+- **Signal:** **AMS Denver 2027 booth/sponsorship in discussion; early planning stage**
+- **Status:** **ACTIVE NEGOTIATION — 2027 event planning already underway**
+
+**ams@confex.com** (Confex Conference Management)
+- **Jul 7, 10:02:51 — "Exhibitor assignment for the Main Exhibit Hall" (IMPORTANT, CATEGORY_UPDATES)**
+- **Broadcast recipient:** Meredith Needham, Jack Elston
+- **Signal:** Automated exhibit confirmation; AMS Denver booth assigned
+- **Status:** Confirmation received; logistics phase
+
+#### **Google Ads / Digital Marketing Partnership (ONGOING & ESCALATED)**
 
 **Himanshu Rajak** (rajakh@xwf.google.com)
-- **Jul 6, 15:21:46 +0000:** "Invitation: Google Ads Consultation @ Tue Jul 7, 2026 11:30am - 12:20pm (MDT)" (marked IMPORTANT, UNREAD)
-- **Also recipient:** allkestrel.com@gmail.com (external collaborator/account)
-- **Signal:** Direct calendar invitation for Google Ads consultation; escalated account management
-- **Status:** **IMMEDIATE ACTION ITEM — scheduled for Jul 7, 11:30am MDT**
+- **Jul 8, 02:35:00 — "Black Swift Technologies/ Google Ads Consultation / Himanshu Rajak" (IMPORTANT, CATEGORY_UPDATES)**
+- **Jul 7, 18:53:31 — Calendar invite: "Black Swift Technologies // Google Ads @ Tue Jul 7, 2026 12:30pm - 1pm (MDT)" (IMPORTANT)**
+- **Jul 7, 17:41:30 — "Weather Republic / Google Ads Consultation" (multi-recipient: allkestrel.com@gmail.com, Paige, Himanshu)**
+- **Jul 7, 15:10:58 — Paige response (SENT)**
+- **Previous batch (Jul 6, 15:21:46) — Calendar invite for Jul 7, 11:30am**
+- **Signal:** **Multiple consultation sessions scheduled; escalated account management; "Weather Republic" reference suggests multi-account or partner channel work**
+- **Status:** **ACTIVE ENGAGEMENT — Consultation meetings occurring; potential multi-week engagement**
 
-**Jamie Saunders** (jsaunders@taffyevents.com)
-- **Jul 6, 15:00:00 +0000:** "First Look at the AGU 2026 Sponsorship Brochure" (marked IMPORTANT)
-- **Signal:** AGU (American Geophysical Union) 2026 conference sponsorship opportunity; early sponsor materials
-- **Status:** ACTIVE SPONSORSHIP DISCUSSION
+#### **Google Technical Integration (NEW — STRATEGIC PRIORITY)**
 
-**Brian Guest (via Generic Information)** (info@blackswifttech.com)
-- **Jul 6, 15:37:47 +0000:** "MNTN to be covered as Top Drone Tech Company in 2026"
-- **Recipient:** info@bst.aero
-- **Signal:** PR/media coverage notification (repeated from Jul 3 batch; routed distribution)
-- **Status:** Inbound media notification
+**Google Ads Support / Calendar Notifications**
+- **Jul 7, 18:47:19 — "[SCHEDULED]: Google Support Tag Implementation Appointment @ Thu Jul 9, 2026 11:15am - 11:45am (MDT)" (IMPORTANT, CATEGORY_UPDATES)**
+- **Jul 7, 11:47:00 — "[9-9684000040738] Google Support Tag Implementation Appointment" (support ticket reference)**
+- **Signal:** **Technical onboarding for Google tracking/analytics; appointment Jul 9 (upcoming)**
+- **Status:** **IMMINENT — Scheduled for Jul 9; tag implementation underway**
 
-#### **Industry Intelligence & Publications (Sustained)**
+**Google Ads Generic** (ads-noreply@google.com)
+- **Jul 7, 15:25:22 — "Accelerate to best in class with Google Ads" (marketing automation)**
+- **Jul 7, 12:56:03 — "Maximize your results without spending more, Black Swift Technologies" (performance optimization)**
+- **Signal:** Account performance automation; optimization suggestions
+- **Status:** Sustained engagement
 
-**UAS VISION** (russ@uasvision.com)
-- **Jul 6, 09:06:15 +0000:** DAILY NEWS (to Jack Elston; Paige receives via distribution)
-- **Pattern:** Sustained daily briefing
-- **Status:** Ongoing intelligence feed
+**Google Analytics** (analytics-noreply@google.com)
+- **Jul 7, 13:32:05 — "Your Google Analytics performance report is in for June 10th - July 7th" (UNREAD)**
+- **Signal:** Monthly analytics review; data available for strategy optimization
+- **Status:** Standard reporting cadence
 
-**A&SF Daily Report** (AirAndSpaceForcesMagazine@afa.org)
-- **Jul 6, 03:49:28 -0600:** "F-15EX and MQ-28 Fly Together" (marked IMPORTANT, UNREAD)
-- **Signal:** Military aerospace daily briefing
-- **Status:** Sustained subscription
-
-**Air & Space Forces Association (AFA)**
-- Continued daily report distribution
-
-**LinkedIn Intelligence Feeds (Sustained & Escalated)**
-
-- **Jul 7, 00:59:59 +0000:** "Marketing Specialist insights: $80K/yr+ salary at 8.1K job openings" (marked IMPORTANT, UNREAD) — **recruiter targeting signal**
-- **Jul 6, 19:55:59 +0000:** "Paige, your posts got 919 impressions last week" (marked IMPORTANT) — **company content amplification**
-- **Jul 6, 17:38:34 +0000:** "Black Swift Technologies, Environmental Consulting request from Thomas Grant and other clients are available" (marked IMPORTANT, UNREAD) — **inbound service requests to company**
-- **Jul 6, 03:00:35 +0000:** "Censys Technologies Corporation recently posted" (marked IMPORTANT)
-- **Jul 6, 02:21:52 +0000:** "The Defense Post shared a post: 🇨🇳👀 China has offered a rare glimpse into…" (marked IMPORTANT, UNREAD)
-- **Signal:** Elevated LinkedIn engagement; company posts generating significant impressions (919); inbound service request activity
-- **Status:** Sustained professional networking; possible company brand/visibility campaign support
-
-#### **Conference & Exhibition Participation (New activity Jul 5-7 — SIGNIFICANT EXPANSION)**
-
-**Dronex 2026** (26registration@eventdata.uk)
-- **Jul 6, 21:32:09 +0000:** "Your registration confirmation for DroneX | Part of the Uncrewed Tech Expo" (marked IMPORTANT, UNREAD)
-- **Signal:** Confirmed registration; likely exhibitor/attendee participation
-- **Status:** **REGISTERED & ACTIVE**
-
-**INTERGEO 2026** (sales@hinte-expo.com)
-- **Jul 6, 21:26:56 +0000:** "INTERGEO 2026 - Your request for quotation!" (marked IMPORTANT, UNREAD)
-- **Signal:** RFQ submitted for exhibitor space/sponsorship
-- **Status:** **QUOTE RECEIVED — QUOTE EVALUATION IN PROGRESS**
-
-**AMS Confex** (ams@confex.com)
-- **Jul 6, 15:26:56 -0400:** "Exhibit Application Initiated" (CATEGORY_UPDATES)
-- **Signal:** Exhibit application submitted (likely conference not yet identified in subject)
-- **Status:** **APPLICATION PENDING**
-
-**UAS Summit & Expo** (noreply@bbiinternational.com)
-- **Jul 6, 21:00:55 +0000:** "LImited Expo Space Remains - View Expo Map - Start Doing Business in North Dakota" (CATEGORY_PROMOTIONS)
-- **Signal:** Promotional/sales outreach from UAS Summit (North Dakota location)
-- **Status:** Prospecting outreach; registration status unclear
-
-**UIFCW26 (NOAA UFS Service Account)** (ufs.secretariat@noaa.gov)
-- **Jul 6, 14:34:03 -0400:** "In-Person UIFCW26 Registration closes July 10th!" (sent to undisclosed-recipients)
-- **Signal:** NOAA-sponsored in-person event; registration deadline Jul 10
-- **Status:** Event deadline imminent
-
-**UASweekly.com** (newsletter@uasweekly.com)
-- **Jul 6, 21:01:17 -0000:** "UASweekly Daily Newsletter" (sent to info@blackswifttech.com)
-- **Signal:** Industry daily briefing
-- **Status:**
+**Google Search Console** (sc-noreply@google
