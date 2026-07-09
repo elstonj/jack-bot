@@ -4,55 +4,62 @@
 - **Client:** NOAA [300]
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 478.2 hours (452.8h + 25.4h)
+- **Total hours tracked:** 498.0 hours (478.2h + 19.8h)
 
 ## Team Allocation
-- **Nate:** 181.1 hours (37.8%)
-- **Stachura:** 114.0 hours (23.8%)
-- **Jack Elston:** 112.9 hours (23.6%)
-- **Spencer Hoehl:** 42.2 hours (8.8%)
-- **Sam Hild:** 25.9 hours (5.4%)
-- **Josh Fromm:** 5.0 hours (1.0%)
+- **Nate:** 189.3 hours (37.98%)
+- **Stachura:** 114.0 hours (22.89%)
+- **Jack Elston:** 120.9 hours (24.28%)
+- **Spencer Hoehl:** 42.2 hours (8.47%)
+- **Sam Hild:** 25.9 hours (5.20%)
+- **Ethan Domagala:** 5.5 hours (1.10%) — *New contributor*
+- **Josh Fromm:** 5.0 hours (1.00%)
 - **Primary contributor:** Nate
 
 ## Activity Timeline
 
 ### Most Recent Work (Current Batch)
-- **Jack Elston** - Firmware Release and QC Tool (9.0h) — continues this work stream
-- **Stachura** - No description provided (8.4h)
-- **Nate** - No description provided (8.0h)
+- **Jack Elston** - Firmware Release and QC Tool (6.0h) — continues primary work stream
+- **Nate** - No description provided (8.2h)
+- **Ethan Domagala** - No description provided (5.5h) — new team member entry
 
 ### Prior Work
 See previous knowledge file. Documented work includes:
-- **Jack Elston:** Hardware/sensor investigation, data processing, firmware maintenance, UAS integration, GCS/radio configuration, Firmware Release and QC Tool, Flight Testing
+- **Jack Elston:** Hardware/sensor investigation, data processing, firmware maintenance, UAS integration, GCS/radio configuration, Firmware Release and QC Tool (now 43.6h cumulative), Flight Testing
 - **Sam Hild:** Deployment Tube QC and PSNS QC (25.9h cumulative)
 - **Nate:** Ground Control Station work (7.2h documented); majority undescribed
-- **Stachura, Spencer Hoehl, Josh Fromm:** Minimal documented scope
+- **Stachura, Spencer Hoehl, Josh Fromm, Ethan Domagala:** Minimal/no documented scope
 
 ## Insights
 
 ### Work Types (Documented)
-- **Jack Elston:** Firmware Release and QC Tool continues (37.6h cumulative); maintains 100% documentation rate
-- **Nate & Stachura:** Both add entirely undescribed entries (8.0h and 8.4h respectively)
+- **Jack Elston:** Firmware Release and QC Tool continues (6.0h this batch, 43.6h cumulative); maintains 100% documentation rate
+- **Nate:** Adds 8.2h entirely undescribed entries
+- **Ethan Domagala:** New contributor; 5.5h entirely undescribed
 
 ### Documentation Status
-- **Current batch:** 9.0h documented / 25.4h submitted = **35.4% compliance** (sharp decline from prior batch's 95.6%)
-- **Overall project:** 125.6h documented / 478.2h total = **26.27% documented** (minimal net improvement)
-- **Undescribed backlog:** 352.6h (73.73% of project)
-  - **Nate:** 172.9h undescribed (95.5% of Nate's work) — *+8.0h undescribed*
-  - **Stachura:** 114.0h undescribed (100% of Stachura's work) — *+8.4h undescribed*
+- **Current batch:** 6.0h documented / 19.8h submitted = **30.3% compliance** (continuing decline from prior batch's 35.4%)
+- **Overall project:** 131.6h documented / 498.0h total = **26.41% documented** (minimal improvement, within noise)
+- **Undescribed backlog:** 366.4h (73.59% of project)
+  - **Nate:** 181.1h undescribed (95.7% of Nate's work) — *+8.2h undescribed*
+  - **Stachura:** 114.0h undescribed (100% of Stachura's work)
+  - **Ethan Domagala:** 5.5h undescribed (100% of Ethan's work) — *New backlog*
   - **Spencer Hoehl:** 42.2h undescribed (100% of Spencer's work)
   - **Josh Fromm:** 5.0h undescribed (100% of Josh's work)
 
 ### Concerns
-- **Documentation compliance regression:** Current batch drops to 35.4% after prior batch achieved 95.6%—regression driven entirely by undescribed entries from Nate (8.0h) and Stachura (8.4h)
-- **Stachura maintains 100% undescribed rate:** Now 114.0h cumulative across project with zero documented entries
-- **Nate adds 8.0h undescribed:** No entries from this session; cumulative undescribed backlog now 172.9h (95.5% of total work)
-- **Backlog growth:** Undescribed hours increased 16.4h this batch; minimal progress toward systematic documentation
+- **Continued documentation decline:** Current batch at 30.3% compliance continues downward trend from prior batch (35.4%) and project baseline (~26%)—no improvement trajectory
+- **Nate adds 8.2h undescribed:** Consistent pattern of minimal documentation discipline; now 181.1h cumulative undescribed (95.7% of total work)
+- **New contributor without baseline:** Ethan Domagala enters project with 5.5h entirely undescribed; no documentation standard established for onboarding
+- **Backlog acceleration:** Undescribed hours increased 13.7h this batch; project drifting toward 75% undocumented by end of next cycle
+- **Stachura persistent:** Maintains 100% undescribed rate across all 114.0h; no entries submitted in this batch suggests work may be backfilled or untracked
 
 ### Positive Notes
-- **Jack Elston** maintains exemplary discipline: 9.0h documented (100% of entries); Firmware Release and QC Tool work continues on schedule
-- **Prior momentum loss:** Prior batch's documentation surge (95.6%) appears isolated; baseline pattern reasserts with undescribed entries
+- **Jack Elston discipline remains exemplary:** 6.0h documented (100% of entries); Firmware Release and QC Tool work stable and fully transparent
+- **Firmware Release and QC Tool** remains the only consistently documented work stream (43.6h cumulative across entire project)
 
 ## Summary
-This batch (+25.4h) shows significant **documentation compliance regression to 35.4%** after the prior batch's exceptional 95.6%. While **Jack Elston continues full documentation of Firmware Release and QC Tool (9.0h cumulative 37.6h)**, both Nate (8.0h undescribed) and Stachura (8.4h undescribed) contribute entirely opaque entries. Project total now 478.2 hours with 352.6h (73.73%) undocumented. **Critical action required:** Enforce immediate descriptions for Nate and Stachura entries; establish documentation baseline to prevent recurrence of this pattern. Prior batch's compliance surge suggests discipline is achievable but inconsistently applied.
+This batch (+19.8h) shows **further documentation compliance deterioration to 30.3%**, continuing downward trend. **Jack Elston sustains excellence** with 6.0h fully documented Firmware Release and QC Tool work (43.6h cumulative), but **Nate (+8.2h undescribed) and new contributor Ethan Domagala (+5.5h undescribed) drive backlog growth without transparency.** Project now stands at 498.0 hours with 366.4h (73.59%) undocumented. **Critical actions required:** 
+1. **Immediate enforcement:** Require Nate retrospective descriptions for 8.2h entries; establish documentation standard for Ethan Domagala before hours accumulate
+2. **Stachura accountability:** Address 114.0h zero-documentation pattern; investigate whether work is legitimately undocumented or backfilled
+3. **Systemic intervention:** Prior batch's compliance spike (95.6%) demonstrated capability; current regression suggests discipline requires active enforcement, not voluntary compliance

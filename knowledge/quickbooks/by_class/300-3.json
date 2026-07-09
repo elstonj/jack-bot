@@ -4,16 +4,14 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-07-07",
-    "end": "2026-07-08"
+    "start": "2026-07-08",
+    "end": "2026-07-09"
   },
   "totals": {
     "revenue": 72000.0,
-    "expenses": 442.84,
+    "expenses": 31.31,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 398.81,
-      "FACILITIES:FA-Shop Supplies": 37.01,
-      "Inventory Asset": 7.02
+      "DIRECT COSTS:DC-Direct Material Purchases": 31.31
     }
   },
   "invoices": [
@@ -45,52 +43,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "doc_number": "",
-      "total": 296.48,
-      "attributed": 222.22,
+      "total": 31.31,
+      "attributed": 31.31,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "No Asana Request - project listed under each item purchased",
+      "memo": "No Asana request - Josh Fromm made purchase in person",
       "lines": [
         {
-          "amount": 15.52,
+          "amount": 31.31,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": ""
-        },
-        {
-          "amount": 49.38,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": ""
-        },
-        {
-          "amount": 222.22,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": ""
-        },
-        {
-          "amount": 9.36,
-          "account": "Inventory Asset",
-          "description": "future s3 sales"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-07",
-      "doc_number": "SP128831",
-      "total": 220.62,
-      "attributed": 220.62,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 220.62,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": ""
+          "description": "Supplies for IDIQ"
         }
       ]
     }

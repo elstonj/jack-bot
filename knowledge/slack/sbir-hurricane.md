@@ -27,6 +27,7 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Switched to Samsung INR21700-50S cells replacing Panasonic NCR18650GA (February 2024)
 - Decision to use 76gsm wing skins instead of 160gsm for 50g weight savings (October 2024)
 - **Winsource removed from future supplier selection due to defective PMXB120EBE parts and other questionable components (June 29, 2026)**
+- **Two battery pack versions in circulation: newer packs used in all new builds (post-2026), older packs in previously built aircraft (July 8, 2026)**
 
 **Ground Control Station Operations (April 2026):**
 - Single operator per aircraft confirmed as acceptable by NOAA operational rules (April 2026)
@@ -86,6 +87,4 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Joshua Fromm approved the change to Slack-only coordination (June 3, 2026)
 
 **Sparv Dropsonde Partnership Discussion (June 9, 2026):**
-- Decision deferred on Sparv dropsonde drop payload concept - insufficient funding currently; other R&D with NOAA prioritized instead (June 9, 2026)
-
-**Flight Configuration Settings (July 7, 2
+- Decision deferred on Sparv dropsonde

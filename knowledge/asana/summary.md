@@ -1,17 +1,16 @@
 # Asana Projects Overview
 
-Last scanned: 2026-07-08 02:07
+Last scanned: 2026-07-09 02:07
 
-Total projects scanned: 8
+Total projects scanned: 7
 
 ## Projects
 
-- **[001-13] Accounting** — 11 tasks — [001-13_accounting.md](001-13_accounting.md)
-- **[001-13] BD Pipeline** — 2 tasks — [001-13_bd_pipeline.md](001-13_bd_pipeline.md)
-- **[001-13] Facilities Management** — 1 tasks — [001-13_facilities_management.md](001-13_facilities_management.md)
-- **[001-13] General Operations** — 2 tasks — [001-13_general_operations.md](001-13_general_operations.md)
-- **[001-13] HR General ** — 2 tasks — [001-13_hr_general.md](001-13_hr_general.md)
-- **[001-13] Purchasing** — 23 tasks — [001-13_purchasing.md](001-13_purchasing.md)
+- **View: Major Milestones & Tasks** — 3 tasks — [view_major_milestones_tasks.md](view_major_milestones_tasks.md)
+- **[001-07] S3 IRAD** — 8 tasks — [001-07_s3_irad.md](001-07_s3_irad.md)
+- **[001-13] Accounting** — 1 tasks — [001-13_accounting.md](001-13_accounting.md)
+- **[001-13] BD Pipeline** — 8 tasks — [001-13_bd_pipeline.md](001-13_bd_pipeline.md)
+- **[001-13] Purchasing** — 21 tasks — [001-13_purchasing.md](001-13_purchasing.md)
 - **[018-1] Murphy's Pond CH4 Monitoring** — 5 tasks — [018-1_murphys_pond_ch4_monitoring.md](018-1_murphys_pond_ch4_monitoring.md)
 - **[300-3] 2026 IDIQ (Hurricane)** — 1 tasks — [300-3_2026_idiq_hurricane.md](300-3_2026_idiq_hurricane.md)
 
@@ -20,65 +19,53 @@ Total projects scanned: 8
 # Black Swift Technologies – Project Portfolio Overview
 
 ## Portfolio Summary
-- **Total Active Projects:** 7 operational projects
-- **Portfolio Value:** ~$583K+ (confirmed commitments)
-- **Critical Status:** Emergency workload surge in purchasing; multiple near-term deadlines
+- **Total Portfolio Value**: ~$1.07M (tracked)
+- **Active Projects**: 6 major initiatives
+- **Critical Status**: 🔴 Purchasing operations in emergency state; multiple projects at or past key milestones
 
 ---
 
 ## Key Active Projects
 
-| Project | Value | Status | Key Deadline |
-|---------|-------|--------|--------------|
-| **[300-3] 2026 IDIQ (Hurricane)** | $499,000 | Active | **2026-07-31** (Final delivery) |
-| **[018-1] Murphy's Pond CH4** | $86,863 | In-flight | 2026-12-31 (Funding expiry) |
-| **[001-13] Purchasing** | High-volume ops | CRITICAL SURGE | 2026-07-01 to 07-09 |
-| **[001-13] BD Pipeline** | Custom deal-dependent | Active | Ongoing (multi-sector) |
-| **[001-13] Accounting** | Internal | Active | 2026-10-08 (Q3 tax filing) |
-| **[001-13] Facilities** | Lease/CAM recurring | Stable | Monthly recurring |
-| **[001-13] HR General** | Internal | Minimal | Routine renewal |
+| Project | Client | Value | Status | Key Deadline |
+|---------|--------|-------|--------|--------------|
+| **[300-3] 2026 IDIQ (Hurricane)** | NOAA UxSOC | $499,000 | Active | 2026-07-31 |
+| **[018-1] Murphy's Pond CH4** | Murray State Univ. | $86,863 | Active | 2026-12-31 |
+| **[001-07] S3 IRAD** | Internal R&D | Not specified | Active (milestones complete) | Ongoing |
+| **[001-13] BD Pipeline** | Multi-sector sales | Mixed | Active pipeline | Ongoing |
+| **[001-13] Purchasing** | Internal ops | High-volume | 🔴 CRITICAL | 2026-07-01 to 07-09 |
+| **[001-13] Accounting** | Internal ops | Minimal | Active | Ongoing |
 
 ---
 
 ## Risk Areas
 
-### **Immediate (0–9 days)**
-- **Purchasing:** 23 open tasks (↑35% from prior cycle) all due JUL 1–9, 2026. **Emergency state continues.**
-- **NOAA Hurricane:** Final delivery deadline **JUL 31, 2026** — approaching critical window.
+### 🔴 **Critical Operational Stress**
+- **Purchasing system**: 21 open tasks concentrated in 0–9 day window (due Jul 1–9, 2026). Emergency workload state indicates supply chain or procurement bottleneck affecting all projects.
 
-### **Near-term (30–60 days)**
-- **Murphy's Pond Flight #4:** SOW update due 2026-07-10; flight execution targeting late August.
-- **Accounting Q3:** Sales tax filing due 2026-10-08.
+### 🟡 **Near-term Deadline Pressure**
+- **NOAA IDIQ**: Final delivery Jul 31, 2026 (imminent)
+- **Murphy's Pond**: Flight #4 unassigned and without due date despite active contract
 
-### **Data Quality Issues**
-- Accounting Q2 task shows anomalous future date (2027-07-09) — **verify compliance calendar**.
-- BD Pipeline summary incomplete — specific opportunity values not captured.
-- General Operations & HR showing duplicate open/done task pairs — **process clarity needed**.
+### 🟡 **Funding Expiration**
+- **Murphy's Pond**: Funding expires Dec 31, 2026 (5 months runway)
 
 ---
 
-## Team Allocation
+## Team Allocation Patterns
 
-- **Meredith O'hara Needham:** Primary owner for HR, Accounting, General Operations, Purchasing oversight
-- **Dr. Bassil El Masri (Murray State):** Murphy's Pond client contact
-- **NOAA UxSOC:** Hurricane IDIQ delivery partner
-- **Broader BST Team:** Distributed across operations; high purchasing workload suggests stretched capacity
-
----
-
-## Upcoming Deadlines (Next 90 Days)
-
-1. **JUL 1–9, 2026** → Purchasing tasks (23 items) — **CRITICAL**
-2. **JUL 10, 2026** → Murphy's Pond Flight #4 SOW update
-3. **JUL 31, 2026** → NOAA Hurricane final delivery — **CRITICAL**
-4. **AUG (TBD)** → Murphy's Pond Flight #4 execution window
-5. **OCT 8, 2026** → Q3 Sales Tax filing
+- **S3 IRAD**: Majority of recent work complete; minimal open tasks
+- **Murphy's Pond**: Under-assigned (Flight #4 unassigned)
+- **Purchasing**: Concentrated operational burden (21 tasks on skeleton crew)
+- **Accounting**: Minimal allocation (1 task assigned to Meredith O'hara Needham)
+- **BD Pipeline**: Multi-account management across government, defense, academic, and commercial sectors
 
 ---
 
-## Recommendations
+## Upcoming Deadlines (Next 30 Days)
 
-1. **Prioritize purchasing surge mitigation** — clarify task dependencies and resource allocation to prevent deadline slip.
-2. **Confirm NOAA delivery readiness** — validate JUL 31 timeline for final equipment/documentation.
-3. **Audit accounting compliance calendar** — resolve Q2 date anomaly and confirm all tax filing deadlines.
-4. **Strengthen BD Pipeline visibility** — capture opportunity values and sales-cycle stages for portfolio risk assessment.
+1. **Purchasing surge**: Jul 1–9, 2026 (21 tasks) — 🔴 Critical
+2. **NOAA IDIQ final delivery**: Jul 31, 2026
+3. **Murphy's Pond funding expiration**: Dec 31, 2026
+
+**Recommendation**: Immediate attention to Purchasing bottleneck; reassign Flight #4 (Murphy's Pond) with clear timeline.

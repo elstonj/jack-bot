@@ -1,18 +1,16 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 3,459 (3,395 previous + 64 new from Jul 5-8, 2026)
-- **Date range:** March 24 – July 8, 2026 (107 days)
-- **Approximate volume:** ~32.3 messages per day (sustained consistency)
-- **New batch composition (Jul 5-8, 2026):** ~84% automation/newsletters/promotions (54 of 64 messages)
-  - **Direct human correspondence:** 10 messages (15.6%)
-    - Jack Elston (5 messages — conference coordination, performance reporting, spreadsheet collaboration)
-    - Himanshu Rajak / Google Ads (3 messages — consultation follow-ups, Weather Republic reference)
-    - Adnan Hiroli / DroneX (2 messages — registration & exhibit coordination)
-    - Enquiries DroneX (1 message — response)
-    - Jessica Hanley / AMS (1 message — AMS Denver 2027 booth discussion)
-    - Meredith Needham (1 message — forwarded exhibit assignment)
-  - **Note:** Mid-week batch (Tue-Wed Jul 7-8); active conference coordination & Google partnership management
+- **Total messages scanned:** 3,533 (3,459 previous + 74 new from Jul 8-9, 2026)
+- **Date range:** March 24 – July 9, 2026 (108 days)
+- **Approximate volume:** ~32.7 messages per day (sustained consistency)
+- **New batch composition (Jul 8-9, 2026):** ~88% automation/newsletters/promotions/news (65 of 74 messages)
+  - **Direct human correspondence:** 9 messages (12.2%)
+    - Geoff (gb.aerokats@gmail.com) — 5 messages (product order coordination, meeting reschedule)
+    - Meredith Needham — 3 messages (calendar access, meeting coordination)
+    - Adnan Hiroli / DroneX — 1 message (draft response on DroneX 2026)
+    - Sona Raziabeegum / Krateo Sky — 1 message (events/conferences inquiry)
+  - **Note:** Heavy Wednesday activity (Jul 8); product launch coordination (BST Aeropods) + calendar/calendar access setup with Meredith; Google Support Tag Implementation confirmed for Jul 9
 
 ---
 
@@ -21,84 +19,93 @@
 ### Top Internal Senders & Collaborators
 
 **Jack Elston** (elstonj@blackswifttech.com / media@blackswifttech.com)
-- **Most recent activity (Jul 5-8):**
-  - Jul 8, 00:42:12 — AGU UAS/TBS session (invited author, cc: Mei Fan @ PNNL)
-  - Jul 7, 22:53:37 — June 2026 performance report forwarded to Paige (IMPORTANT)
-  - Jul 7, 22:13:13 — Google Sheets comment: "2026 BST Conferences - I would avoid this one - VERY bad exp..." (conference evaluation/curation)
-  - Jul 7, 17:00:51 — DOI Monthly UxS Conference Call cancellation
-  - Jul 7, 10:27:43 & 10:32:29 — Drones 2026 Barcelona abstract deadline (forwarded, Paige coordinating response)
-  - Jul 7, 10:27:43 — Exhibitor assignment for Main Exhibit Hall (coordinating with Meredith Needham)
-- **Pattern:** Primary internal operations partner for conference strategy, performance tracking, content distribution, and event coordination
-- **Status:** Core strategic collaborator — managing multiple concurrent conference projects
+- **Recent activity (Jul 8-9):** No direct messages to Paige this batch; remains primary strategy partner (from previous batch)
+- **Status:** Core strategic collaborator — conference strategy & operations lead
 
 **Meredith Needham** (meredith.needham@blackswifttech.com)
-- **Jul 7, 10:20:39 & 08:56:00 — Exhibitor assignment for Main Exhibit Hall (forwarded coordination)**
-- **Signal:** Cross-functional coordination on booth/exhibit logistics
-- **Status:** Recurring operational collaborator
+- **Jul 8, 18:23:24 – 18:29:27 — THREE calendar invitations**
+  - "Accept your invitation to join shared calendar: 'Meetings'" (18:23:24)
+  - "Accept your invitation to join shared calendar: 'BST Due Dates'" (18:23:24)
+  - "Meredith Needham updated your access to the calendar 'Meetings'" (18:29:27)
+- **Jul 8, 12:50:09 & 12:15:16 — Meeting reschedule coordination (Thu 7/9)**
+- **Signal:** **Expanded shared calendar access being provisioned — indicates elevated coordination responsibility or role expansion**
+- **Status:** Close operational collaborator; growing calendar/project management involvement
 
-**Daniel Prendergast** (daniel.prendergast@blackswifttech.com)
-- **Status:** Sustained presence; leadership operations cadence continues (from previous batch)
+**Ted Miles** (ted59@msn.com)
+- **Jul 8, 17:55:24 – 14:22:41 — BST Aeropods product order form thread (5 messages)**
+- **Multiple reschedule threads for Thu 7/9 meeting**
+- **Signal:** External partner or vendor (non-BST email); product order/fulfillment coordination
+- **Status:** Active product coordination partner
 
 ---
 
 ### Top External Senders & Partners
 
-#### **Conference & Exhibition Management (HIGH VELOCITY — ACTIVE NEGOTIATIONS)**
+#### **AEROPODS PRODUCT LAUNCH (NEW — HIGH PRIORITY)**
 
-**Adnan Hiroli / DroneX (Uncrewed Tech Expo)** (adnan.hiroli@uncrewedtechexpo.com)
-- **Jul 7, 19:16:00 & 12:37:32 — Re: DroneX 2026 (IMPORTANT, direct coordination)**
-- **Paige responses (Jul 7, 15:47:27 & 10:10:42) — rapid back-and-forth**
-- **Previous batch (Jul 6, 21:32:09) — Registration confirmation**
-- **Signal:** **ACTIVE EXHIBIT COORDINATION — negotiations ongoing (likely booth specifications, sponsorship levels, or content participation)**
-- **Status:** **PRIORITY CONTACT — Real-time coordination ongoing**
+**Geoff** (gb.aerokats@gmail.com)
+- **Jul 8, 21:43:18 — Calendar invite: "Updated invitation: Aeropod Website Tuesday 7-14-26 @ Tue Jul 14, 2026 11am - 12pm (MDT)" (IMPORTANT)**
+  - Recipients: Paige, Meredith Needham, Ted Miles, geodronez@gmail.com
+- **Jul 8, 17:41:40, 17:38:45, 17:38:24 — Multiple "Re: reschedule Thursday 7/9 meeting please?" responses (IMPORTANT)**
+  - Coordinating with Meredith & Ted
+- **Jul 8, 15:50:51 — Paige forwards "[BST Aeropods] Product Order Form" to Geoff, Ted Miles, Meredith (SENT)**
+- **Jul 8, 16:06:20 & 17:58:09 — Responses from Meredith & Paige (draft)**
+- **Signal:** **ACTIVE PRODUCT LAUNCH COORDINATION — website launch scheduled Jul 14; order form distribution underway; meeting reschedule indicates compressed timeline or urgency**
+- **Status:** **HIGH PRIORITY — Launch imminent (5 days); Paige coordinating across internal/external teams**
 
-**Juliette Binz / INTERGEO 2026** (Juliette.binz@hinte-expo.com)
-- **Jul 7, 11:18:12 — "INTERGEO 2026 - Your booth" (IMPORTANT)**
-- **Previous batch (Jul 6, 21:26:56) — RFQ received**
-- **Signal:** **Booth assignment/fulfillment stage — moving from quote to logistics**
-- **Status:** **ADVANCED STAGE — Booth confirmed, now coordinating details**
+**Ted Miles** (ted59@msn.com) — External Product Partner
+- **Jul 8, 17:55:24, 17:58:09, 14:22:41 — BST Aeropods order form responses (IMPORTANT)**
+- **Jul 8, 14:30:57 — Reschedule Thu 7/9 meeting (multi-party)**
+- **Signal:** External vendor/partner involved in Aeropods fulfillment or logistics
+- **Status:** Coordination partner for product launch
 
-**Jessica Hanley / American Meteorological Society (AMS)** (jhanley@ametsoc.org)
-- **Jul 7, 10:03:33 — RE: AMS Denver 2027 (IMPORTANT)**
-- **Paige response (Jul 7, 10:28:43) — same-day response**
-- **Previous batch (AMS Confex — Jul 6, 15:26:56) — Exhibit application initiated**
-- **Signal:** **AMS Denver 2027 booth/sponsorship in discussion; early planning stage**
-- **Status:** **ACTIVE NEGOTIATION — 2027 event planning already underway**
+#### **Conference & Exhibition Management (CONTINUED FROM PREVIOUS BATCH)**
 
-**ams@confex.com** (Confex Conference Management)
-- **Jul 7, 10:02:51 — "Exhibitor assignment for the Main Exhibit Hall" (IMPORTANT, CATEGORY_UPDATES)**
-- **Broadcast recipient:** Meredith Needham, Jack Elston
-- **Signal:** Automated exhibit confirmation; AMS Denver booth assigned
-- **Status:** Confirmation received; logistics phase
+**Adnan Hiroli / DroneX** (adnan.hiroli@uncrewedtechexpo.com)
+- **Jul 8, 15:59:57 — Paige drafts response: "Re: DroneX 2026 [DRAFT]"**
+- **Signal:** Active negotiation continuing; response still in draft stage (not yet sent)
+- **Status:** **ADVANCED STAGE — Booth coordination ongoing; possible delays or revisions**
 
-#### **Google Ads / Digital Marketing Partnership (ONGOING & ESCALATED)**
+#### **External Partnership (NEW)**
 
-**Himanshu Rajak** (rajakh@xwf.google.com)
-- **Jul 8, 02:35:00 — "Black Swift Technologies/ Google Ads Consultation / Himanshu Rajak" (IMPORTANT, CATEGORY_UPDATES)**
-- **Jul 7, 18:53:31 — Calendar invite: "Black Swift Technologies // Google Ads @ Tue Jul 7, 2026 12:30pm - 1pm (MDT)" (IMPORTANT)**
-- **Jul 7, 17:41:30 — "Weather Republic / Google Ads Consultation" (multi-recipient: allkestrel.com@gmail.com, Paige, Himanshu)**
-- **Jul 7, 15:10:58 — Paige response (SENT)**
-- **Previous batch (Jul 6, 15:21:46) — Calendar invite for Jul 7, 11:30am**
-- **Signal:** **Multiple consultation sessions scheduled; escalated account management; "Weather Republic" reference suggests multi-account or partner channel work**
-- **Status:** **ACTIVE ENGAGEMENT — Consultation meetings occurring; potential multi-week engagement**
+**Sona Raziabeegum / Krateo Sky** (sona@krateosky.com)
+- **Jul 8, 15:04:12 — Paige sends: "Events / Conferences [SENT]"**
+- **Signal:** New external contact; appears to be partnership or vendor inquiry regarding events/conference involvement
+- **Status:** **NEW RELATIONSHIP — Initial outreach; unknown scope/outcome**
 
-#### **Google Technical Integration (NEW — STRATEGIC PRIORITY)**
+#### **Google Ads / Technical Integration (CONFIRMED SCHEDULE)**
 
-**Google Ads Support / Calendar Notifications**
-- **Jul 7, 18:47:19 — "[SCHEDULED]: Google Support Tag Implementation Appointment @ Thu Jul 9, 2026 11:15am - 11:45am (MDT)" (IMPORTANT, CATEGORY_UPDATES)**
-- **Jul 7, 11:47:00 — "[9-9684000040738] Google Support Tag Implementation Appointment" (support ticket reference)**
-- **Signal:** **Technical onboarding for Google tracking/analytics; appointment Jul 9 (upcoming)**
-- **Status:** **IMMINENT — Scheduled for Jul 9; tag implementation underway**
+**Google Support (ads-support@google.com / calendar-notification@google.com)**
+- **Jul 8, 17:15:25 — "[CONFIRMED]: Google Support Tag Implementation Appointment @ Thu Jul 9, 2026 11:15am - 11:45am (MDT)" (IMPORTANT, CATEGORY_UPDATES)**
+- **Jul 8, 10:15:17 — "Re: [9-9684000040738] Google Support Tag Implementation Appointment" (IMPORTANT)**
+- **Signal:** **Tag implementation support meeting scheduled for TOMORROW (Jul 9); on-track for technical onboarding**
+- **Status:** **IMMINENT — Confirmed appointment; analytics/tracking deployment proceeding**
 
-**Google Ads Generic** (ads-noreply@google.com)
-- **Jul 7, 15:25:22 — "Accelerate to best in class with Google Ads" (marketing automation)**
-- **Jul 7, 12:56:03 — "Maximize your results without spending more, Black Swift Technologies" (performance optimization)**
-- **Signal:** Account performance automation; optimization suggestions
-- **Status:** Sustained engagement
+#### **Shared Google Sheets Requests (NEW — CONFERENCE TRACKING)**
 
-**Google Analytics** (analytics-noreply@google.com)
-- **Jul 7, 13:32:05 — "Your Google Analytics performance report is in for June 10th - July 7th" (UNREAD)**
-- **Signal:** Monthly analytics review; data available for strategy optimization
-- **Status:** Standard reporting cadence
+**Beck Cotter** (beck.cotter@blackswifttech.com via Google Sheets)
+- **Jul 8, 19:30:14 — "Share request for '2026 BST Conferences'" (IMPORTANT, CATEGORY_UPDATES)**
+- **Signal:** Internal stakeholder requesting access to Paige's conference tracking spreadsheet
+- **Status:** Conference planning transparency/collaboration expansion
 
-**Google Search Console** (sc-noreply@google
+**Alex Lomis** (alex.lomis via Google Sheets)
+- **Jul 8, 19:29:30 — "Share request for '2026 BST Conferences'" (IMPORTANT, CATEGORY_UPDATES)**
+- **Signal:** Additional internal stakeholder requesting conference visibility
+- **Status:** Conference planning becoming cross-functional
+
+---
+
+## Topic Patterns
+
+### High-Priority Projects
+1. **BST Aeropods Product Launch** — Website launch Jul 14, 2026; product order form distribution in progress
+2. **Conference/Events Strategy** — Multiple concurrent conference negotiations (DroneX, INTERGEO, AMS Denver 2027)
+3. **Google Ads Integration** — Technical tag implementation underway; consultation meetings ongoing
+4. **Krateo Sky Partnership** — New external relationship inquiry (events/conferences focus)
+
+### Recurring Subject Themes
+- **Conference/Events Management** — DroneX, INTERGEO, AMS Denver, Geo Week, AGU
+- **Product Order Coordination** — [BST Aeropods] Product Order Form
+- **Calendar/Meeting Logistics** — Reschedules, shared calendar access, meeting confirmations
+- **Google Services** — Google Ads, Google Analytics, Google Sheets, Google Support
+- **News/Industry Updates** — UAS

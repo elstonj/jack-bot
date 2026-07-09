@@ -77,6 +77,10 @@
   - Email: jameel.barkat@blackswifttech.com
   - Notes: Role and department unknown
 
+- **Tim Hegwood** — *NEW*
+  - Email: tim.hegwood@blackswifttech.com
+  - Notes: Role and department unknown
+
 ## Service Accounts
 
 - **BST Technician** — Service Account
@@ -89,7 +93,7 @@
 
 ## Summary
 
-**Total Headcount:** 18 (16 active employees + 2 service accounts)
+**Total Headcount:** 19 (15 active employees + 4 unclassified + 2 service accounts)
 
 **Key Leadership:**
 - Jack Elston (CEO)
@@ -105,18 +109,17 @@
   - Interns: 2 interns
 - **Operations & Administration:** 1 person
 - **Communications & Marketing:** 2 people
-- **Unclassified:** 3 people (Beck Cotter, Daniel Prendergast, Jameel Barkat — roles/departments unknown)
+- **Unclassified:** 4 people (Beck Cotter, Daniel Prendergast, Jameel Barkat, Tim Hegwood — roles/departments unknown)
 - **Service Accounts:** 2
 
-**Verification Status:**
-- ✅ All 18 directory entries validated against new raw data
-- ✅ All phone numbers normalized to consistent dash-separated format
-- ✅ **No changes detected** — all existing records confirmed current and accurate
-- ✅ New raw data validates all existing knowledge file records
+**Updates from New Data:**
+- ✅ **NEW EMPLOYEE:** Tim Hegwood added (role/department unknown)
+- ✅ All existing records validated and confirmed current
+- ✅ All phone numbers standardized to consistent format
 - ✅ Complete data integrity maintained
 
 **Notes:**
-- Three team members remain unclassified; recommend outreach to leadership for role clarification
+- Four team members remain unclassified; recommend outreach to leadership for role clarification
 - BST maintains an engineering-focused organization with balanced technical and administrative support
 - Engineering intern program active with two positions filled
 - All contact information verified and complete

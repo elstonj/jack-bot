@@ -12,18 +12,18 @@
   - Invoice schedule: March 2026 – July 2026
   - Critical hardware ship date: **2026-05-19** ✅ (2 SHOW s0's and tripods shipped early)
   - Field season active
-- **Status:** **✅ INVOICING COMPLETE — Project in final execution phase.** Both Invoice 4 ($72k, due 6/5) and Invoice 5 ($72k, due 7/6) submitted as of **2026-07-02** by Meredith O'hara Needham. Final invoice (Invoice 6, $72k) due 2026-07-31. ⚠️ **OPEN TASK:** "Deliver 2 ground stations" due 2026-07-12 (unassigned, overdue or imminent). All Asana-tracked invoicing complete. Underlying firmware, QC, GCS build completion, and ground station delivery remain operationally critical.
+- **Status:** **✅ INVOICING NEARLY COMPLETE — Project in final execution phase.** Invoices 1–5 of 6 submitted. Invoice 4 ($72k) and Invoice 5 ($72k) completed 2026-07-02 by Meredith O'hara Needham. Final invoice (Invoice 6, $72k) due 2026-07-31. ⚠️ **CRITICAL OPEN TASK:** "Deliver 2 ground stations" due 2026-07-12 (unassigned, likely overdue). All Asana-tracked invoicing complete; underlying firmware, QC, GCS build completion, and ground station delivery remain operationally critical.
 - **Team Members:** 
-  - **Meredith O'hara Needham** (project owner, invoice submissions) ✅ Invoices 4 & 5 submitted
+  - **Meredith O'hara Needham** (project owner, invoice submissions) ✅ Invoices 4 & 5 submitted 7/2/26
   - **Jack Elston** (firmware/software) — deployment tube firmware, AP & PSNS firmware validation
   - **Sam Hild** (QC, hardware validation, kit assembly)
   - **Nate Straus** (platform rebuild/validation, s0 builds, servo assembly) ✅ Assembly latch carrier trays completed 6/23/26
   - **Maciej Stachura** (platform validation, magnetic calibration, parameter file validation)
   - **Alex Lomis** (strategic partnerships, NASA opportunities)
-  - **Josh Fromm** (GCS assembly, long-lead parts, ground station delivery)
+  - **Josh Fromm** (GCS assembly, long-lead parts, ground station delivery) — likely owner of "Deliver 2 ground stations" task
   - **Ben Busby** (web-based controller development)
   - **Nick Pawlenko** (UxSOC liaison) — **transitioned to UxSOC HQ effective 5/29/26; reduced availability**
-  - **UASD expanded team** (as of 5/29/26: scheduling, personnel, flight planning, maintenance coordination per project note)
+  - **UASD expanded team** (as of 5/29/26: scheduling, personnel, flight planning, maintenance coordination)
 
 ## Key Deliverables & Milestones
 
@@ -36,8 +36,8 @@
 | 2 of 6 | $54,000 | 2026-04-14 | ✅ Completed |
 | Travel | $18,000 | 2026-04-15 | ✅ Completed |
 | 3 of 6 | $54,000 | 2026-05-04 | ✅ Completed (5/1 — 3 days early) |
-| 4 of 6 | $72,000 | 2026-06-05 | ✅ **Completed 2026-07-02** |
-| 5 of 6 | $72,000 | 2026-07-06 | ✅ **Completed 2026-07-02** (4 days early) |
+| 4 of 6 | $72,000 | 2026-06-05 | ✅ Completed 2026-07-02 (27 days late) |
+| 5 of 6 | $72,000 | 2026-07-06 | ✅ Completed 2026-07-02 (4 days early) |
 | **6 of 6** | **$72,000** | **2026-07-31** | ⏳ Final submission due end of month |
 
 **Hardware & Firmware Milestones:**
@@ -45,36 +45,38 @@
 |------|-------|----------|--------|
 | Hardware ship (SHOW s0's + tripods) | — | 2026-05-19 | ✅ Completed early |
 | Assembly latch carrier trays | Nate Straus | — | ✅ Completed 2026-06-23 |
-| **Deliver 2 ground stations** | **Unassigned** | **2026-07-12** | ⚠️ **OPEN — Due within days** |
-| Deployment tube firmware validation | Jack Elston | 2026-06-04 | ⏳ (underlying operational, not Asana-tracked) |
-| AP & PSNS firmware finalization | Jack Elston | 2026-06-26 | ⏳ (underlying operational, not Asana-tracked) |
-| QC board completion | Sam Hild | 2026-06-05 | ⏳ (underlying operational, not Asana-tracked) |
-| Parameter file validation & magnetic calibration | Maciej Stachura | 2026-06-30 | ⏳ (underlying operational, not Asana-tracked) |
-| Build 2x rack-mount GCS | Josh Fromm | 2026-07-01 | ⏳ (underlying operational, not Asana-tracked) |
+| **Deliver 2 ground stations** | **Josh Fromm (inferred)** | **2026-07-12** | ⚠️ **CRITICAL — Overdue or imminent** |
+| Deployment tube firmware validation | Jack Elston | 2026-06-04 | ⏳ (underlying operational) |
+| AP & PSNS firmware finalization | Jack Elston | 2026-06-26 | ⏳ (underlying operational) |
+| QC board completion | Sam Hild | 2026-06-05 | ⏳ (underlying operational) |
+| Parameter file validation & magnetic calibration | Maciej Stachura | 2026-06-30 | ⏳ (underlying operational) |
+| Build 2x rack-mount GCS | Josh Fromm | 2026-07-01 | ⏳ (underlying operational) |
 | Web-based controller | Ben Busby | 2026-07-31 | ⏳ Upcoming |
 | Final delivery (all units + GCS) | — | 2026-07-31 | ⏳ Critical path |
 
 ## Task Summary
 
-**Asana Status:** 1 open task, 0 completed (current pull)
+**Asana Status (current pull):** 0 open, 1 completed task
 
-**Open Tasks:**
-- ⚠️ **Deliver 2 ground stations** | Unassigned | Due 2026-07-12 | Notes: "IDIQ modification to include delivery of 2 ground stations." — **Task is unassigned and due within days (or possibly overdue depending on current date). Likely owned by Josh Fromm (GCS assembly) but requires confirmation.**
+**Completed Tasks:**
+- ✅ **Submit Invoice 4 of 6 for CLIN 1001 ($72k)** | Meredith O'hara Needham | Due 2026-06-05 | **Completed 2026-07-02** (27 days late)
 
-**Completed Tasks (from prior activity):**
-- ✅ **Submit Invoice 5 of 6 CLIN 1001 ($72k)** | Meredith O'hara Needham | Due 2026-07-06 | **Completed 2026-07-02**
-- ✅ **Submit Invoice 4 of 6 for CLIN 1001 ($72k)** | Meredith O'hara Needham | Due 2026-06-05 | **Completed 2026-07-02**
+**Known Open Tasks (not in current Asana pull, from prior knowledge):**
+- ⚠️ **Deliver 2 ground stations** | Unassigned (likely Josh Fromm) | Due 2026-07-12 | **CRITICAL — Unassigned and due within days or overdue**
 
-**Pattern:** Invoicing fully tracked and current in Asana (all 5 of 6 invoices submitted). Ground station delivery task newly visible; likely linked to final GCS build. Operational firmware, QC, and assembly tasks are not visible in current Asana pull, indicating they are either subtasks, tracked in a separate system, or managed outside formal task list during final execution phase.
+**Pattern:** Current Asana pull shows only completed invoicing task. Ground station delivery task and remaining firmware/QC/GCS work are either untracked in current Asana view, managed as subtasks, or tracked outside formal task list during final execution phase. Invoice submission lag (Invoice 4 submitted 27 days late) suggests prior blockers, now cleared.
 
 ## Recent Activity
 
-**2026-07-02:** Both Invoice 4 ($72k, overdue by 27 days) and Invoice 5 ($72k, due 7/6) submitted by Meredith O'hara Needham. Both invoices submitted same day, suggesting coordinated catch-up after prior blockers were resolved.
+**2026-07-02:** Invoices 4 ($72k, overdue) and 5 ($72k) submitted by Meredith O'hara Needham — coordinated batch submission after prior resolution.
 
 **2026-06-23:** Assembly latch carrier trays completed by Nate Straus.
 
-**Active Phase:** Hardware (SHOW s0's, tripods) shipped early (5/19/26). Invoices 1–5 complete. Final invoice (Invoice 6, $72k) due 2026-07-31. **Ground station delivery (2 units) due 2026-07-12 — imminent or overdue.**
+**2026-05-29:** Project note issued: Nick Pawlenko transitioning to UxSOC HQ; UASD expanding team (scheduling, personnel, flight planning, maintenance) to backfill communication gaps during field season.
+
+**Active Phase (as of 7/2/26):** Hardware shipped early (5/19/26). Invoices 1–5 complete. Final invoice (6 of 6, $72k) and ground station delivery (2 units) both due **within 4 weeks (by 7/31/26)**. Ground station task is **unassigned and due 2026-07-12 — likely overdue or imminent.**
 
 ## Notes & Context
 
-- **Contract Status:** Active, in final invoicing
+- **Contract Status:** Active, in final invoicing and hardware delivery phase
+- **Communication Risk:** Nick Pawlenko (UxSOC liaison) transitioned to HQ as of 5/29/26; UASD

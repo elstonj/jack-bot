@@ -1,0 +1,61 @@
+{
+  "asana_gid": "1213688340764301",
+  "asana_task_name": "S0-VTOL launch off Ron Brown",
+  "customer": "NOAA",
+  "customer_contact": "Chidong Zhang",
+  "customer_email": "chidong.zhang@noaa.gov",
+  "receive_by": "2028-05-01",
+  "ship_to": null,
+  "items": [
+    {
+      "description": "S0 VTOL",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "estimate_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": "2026-05-05",
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [
+    {
+      "name": "Flight controller",
+      "ordered": false,
+      "received": false,
+      "vendor": null,
+      "order_date": null
+    },
+    {
+      "name": "ESC",
+      "ordered": false,
+      "received": false,
+      "vendor": null,
+      "order_date": null
+    },
+    {
+      "name": "Servos",
+      "ordered": false,
+      "received": false,
+      "vendor": null,
+      "order_date": null
+    }
+  ],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "NOAA (Chidong Zhang) pursuing S0 VTOL for autonomous ship launch/landing from research vessel Ron Brown with ~15,000 ft ceiling, 1+ km vertical sounding capability, and 45-day cruise duration. Spring 2028 mission target. Preliminary $18k identified; customer preparing LOI for NOAA UxS Operation Center TEPEX RFP. Estimate sent 5/5/26; customer responded positively 5/8/26 requesting detailed cost breakdown.",
+  "missing_fields": [
+    "ship_to",
+    "invoice_amount"
+  ],
+  "last_evidence_date": "2026-07-03",
+  "last_contact_date": "2026-06-15"
+}

@@ -1,11 +1,11 @@
 # #marketing
 
 ## Overview
-The #marketing channel is the central hub for Black Swift Technologies' marketing strategy, content development, and external communications. It covers website content management, collateral creation, press releases, social media, promotional campaigns, and trade show strategy. The channel shows active collaboration between marketing, product, and leadership teams.
+The #marketing channel is the central hub for Black Swift Technologies' marketing strategy, content development, and external communications. It covers website content management, collateral creation, press releases, social media, promotional campaigns, trade show strategy, and conference submissions. The channel shows active collaboration between marketing, product, and leadership teams.
 
 **Key participants:** Jack Elston (leadership/strategy), Parker Vollmer (marketing), Sophia Henkels (content/web), Paige Smith (marketing), Alex Lomis (video/technical), Beck Cotter, Kareem, Dan Prendergast, Maciej, Brody Basset (external contact - US Commercial Service), Rob Marciano (external contact - media/video producer), WeatherNation (external contact - media partner), Sona (external contact - trade show/conference coordinator)
 
-**Activity level:** High frequency discussions across June 2024-July 2026 period, with multiple concurrent projects in various stages. Most recent activity (July 7, 2026) shows ongoing website redesign and automation planning.
+**Activity level:** High frequency discussions across June 2024-July 2026 period, with multiple concurrent projects in various stages. Most recent activity (July 8, 2026) shows ongoing conference abstract submissions and event planning.
 
 ---
 
@@ -119,6 +119,4 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 ### S0 VTOL Wildfire Visualizer Video Text Corrections (May 8, 2026)
 - Paige Smith created two versions (with and without captions) of S0 VTOL Wildfire Visualizer content
 - **Jack's required text corrections:**
-  - Change "accelerating at over 100mph" to **"capable of sprinting at over 100mph"**
-
-###
+  - Change "accelerating at over 100mph" to **"capable of sprinting at over 100mph"

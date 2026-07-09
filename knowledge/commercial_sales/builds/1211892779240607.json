@@ -44,7 +44,7 @@
     "invoicing": "Meredith",
     "build": "Dan Prendergast"
   },
-  "notes": "DoW assessment aircraft with quantum sensing payload. Ryan Nesselrodt (SRI Center for Innovation) requested in-person interview for July 28\u201329, 2026 to inform DOW assessment. Active flight testing ongoing at Murphy's Pond (CO2, photogrammetry, CH4 payloads completed 2026-06-28). System integration and payload development in progress.",
+  "notes": "DoW assessment aircraft with quantum sensing payload. SRI Center for Innovation conducting Department of War-sponsored assessment of quantum sensing technologies (atomic vapor magnetometers, inertial sensors). Ryan Nesselrodt (SRI) requested in-person interview July 28\u201329, 2026 with BST team to discuss UAV-based sensing applications and customer end-user considerations. Active flight testing at Murphy's Pond: 3 successful flights completed 2026-06-28 (CO2, photogrammetry, CH4 payloads). Flight #4 scheduled Aug 5\u20137. System integration and payload development ongoing.",
   "missing_fields": [
     "receive_by",
     "ship_to",
@@ -52,6 +52,6 @@
     "invoice_amount",
     "invoice_number"
   ],
-  "last_evidence_date": "2026-07-07",
-  "last_contact_date": "2026-07-01"
+  "last_evidence_date": "2026-07-08",
+  "last_contact_date": "2026-07-08"
 }

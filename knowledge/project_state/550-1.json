@@ -30,30 +30,30 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 55956.25,
+        "amount": 56081.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-08"
+        "last_updated": "2026-07-09"
       },
       "purchases": {
         "amount": 185.15,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-07-08"
+        "last_updated": "2026-07-09"
       },
       "other_qbo": {
-        "amount": 0.0,
+        "amount": 82.14,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-07-08"
+        "last_updated": "2026-07-09"
       },
-      "total": 56141.4,
+      "total": 56348.54,
       "by_line_item": {}
     },
     "committed": 2874.06,
-    "remaining": 183524.54,
+    "remaining": 183317.4,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-08T09:04:21Z"
+    "last_reconciled": "2026-07-09T09:04:39Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -90,14 +90,7 @@
     }
   ],
   "risks": [],
-  "overrides": [
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-06-08",
-      "text": "From Maciej: <@U0AQE94HJUT> I don't see a Navy meeting at 9:30 this morning. Also, for mag integration it's Alex and Sam on the critical engineering tasks"
-    }
-  ],
-  "last_full_rebuild": "2026-07-08T09:04:21Z",
+  "overrides": [],
+  "last_full_rebuild": "2026-07-09T09:04:39Z",
   "last_incremental_update": null
 }

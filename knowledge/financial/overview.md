@@ -1,181 +1,196 @@
 # BST Financial Health Overview
-**As of July 7–8, 2026**
-
----
 
 ## Portfolio Summary
-
 | Metric | Amount |
 |--------|--------|
-| **Total Contracted Value (All Projects)** | *Incomplete data; see notes below* |
-| **Total Revenue (Invoiced)** | $7,454,665.62 |
-| **Total Received (Payments)** | ~$4.26M (estimated from AR balances) |
-| **Total Expenses** | $2,759,487.75 |
-| **Net Income (Overall)** | $4,695,177.87 |
-| **Accounts Receivable Outstanding** | ~$3.2M |
+| Total Revenue (All Projects, Apr 2024–Jul 2026) | $7,469,119.98 |
+| Total Invoiced | $7,469,119.98 |
+| Total Received (Estimated) | ~$4.2M |
+| Total Expenses | $6,295,391.17 |
+| Net Position (27+ months) | $1,173,728.81 |
+| **Outstanding Accounts Receivable** | **~$3.2M+** |
 
 ---
 
-## By Project — Financial Summary
-*(Sorted by remaining budget/health status — Red/Yellow flags first)*
+## Projects by Financial Health Status
 
-### 🔴 CRITICAL ATTENTION REQUIRED
+### 🔴 CRITICAL / RED ALERT
 
-| Project Code | Project Name | Contracted | Invoiced | AR Balance | Status | Issues |
-|---|---|---|---|---|---|---|
-| **026-06** | S2 Simulator & Used E2 Battery | $3,900 | $3,900 | $3,900 | 🔴 RED | **OVERDUE (due 2026-06-30)**; customs hold on E2 battery in Mexico; awaiting power of attorney authorization |
-| **032-3** | Sasquatch S0s × 4 | ~$60K* | Pending | $0 | 🔴 RED | Verbal order only; 4-month timeline from 2026-02-19 → expect completion ~June 19, 2026 (now likely past due); no formal PO issued; pre-production phase; requires manufacturing/invoicing |
-| **018-1** | Murphy's Pond CH4 Monitoring | ~$97.5K* | ~$72.7K | ~$24.8K | 🟡 YELLOW | Flight #4 (~$24.5K) funding confirmed; SOW modification due 2026-07-10; training pending; contract expires 2026-12-31 |
-| **200-7** | Volcano CCRPP | Unknown* | $360,982 | Unknown | 🟡 YELLOW | Invoiced ~$361K but no budget data provided; project details unavailable; unable to assess remaining scope/margin |
-
----
-
-### 🟡 YELLOW — SIGNIFICANT A/R OR BUDGET CONCERNS
-
-| Project Code | Project Name | Contracted | Invoiced | AR Balance | Status | Issues |
-|---|---|---|---|---|---|---|
-| **300-3** | 2026 IDIQ (Hurricane) — NOAA | $7.5M* | $1.2M+ | $1.2M+ | 🟡 YELLOW | Five-year contract (2026–2030); only 9 months into year 1; significant remaining scope; 20 UAS platforms + operations through 2026 hurricane season (Jun–Nov); on track but AR buildup expected |
-| **301-3** | S0 Hurricane Phase II 2025 — NOAA | ~$6.5M* | $1.3M+ | $1.3M+ | 🟡 YELLOW | Extended to Aug 25, 2026; multiple platforms, training, ops support; strong revenue generation but large outstanding A/R typical for government contracts |
-| **024-03** | NASA ROSES Wildfire Susceptibility | $340K | $0 | $0 | 🟡 YELLOW | Award date: April 1, 2025; 3-year project (April 2025 – April 2028); no invoicing yet; likely early in execution phase; budget appears adequate but execution risk |
-| **024-04** | Soil Moisture Mapping (SMM) Phase II — Air Force SBIR | ~$1.2M* | $200K+ | $200K+ | 🟡 YELLOW | Extended completion to June 2026; mixed cost/expense data suggests budget variance; radiometer development + field testing ongoing |
-| **025-04** | DOE Methane Monitoring (Orphaned Wells) | $800K+ | $0 | $0 | 🟡 YELLOW | Proposal submitted 2025-04-09; no award notification in data; $800K+ potential value; may still be in review/award phase |
-| **043-2** | By Light Mustang (M2/Halo Development) | $350K+ | $200K+ | ~$150K+ | 🟡 YELLOW | Core deliverables completed Dec 31, 2025 (26 days late); post-delivery obligations on indefinite hold; travel/material reimbursement reconciliation pending |
-| **044-1** | EMASS Chip Integration | $90K | $42K | $42K | 🟡 YELLOW | Transitioning to per-flight-day billing as of June 2026; no firm end date; ongoing validation/reporting; relationship continuation uncertain |
+| Project | Client | Status | Issue |
+|---------|--------|--------|-------|
+| **300-3** (2026 IDIQ Hurricane) | NOAA | Active | $2.9M+ revenue invoiced; $2.6M outstanding AR; 25 S0 units in delivery/validation phase; high cash flow risk |
+| **301-3** (S0 Hurricane Phase II 2025) | NOAA/UM | Active | $723K revenue; large outstanding invoices; funding extension through Aug 2026 |
+| **550-1** (Navy Magnetometer SBIR II) | Navy NAVAIR | Active | Phase II contract not yet awarded (proposed Jan 2027); Phase I option period completed Sept 2026; uncertain revenue timing |
+| **452-2** (S2 Simulator & E2 Battery) | CU Boulder | **OVERDUE** | $3.9K contract; due 06/30/2026; E2 battery stuck in Mexican customs; S2 Simulator status unknown |
+| **026-06** (S2 Simulator & E2 Battery) | CU Boulder | **OVERDUE** | Same as 452-2; funding unclear |
+| **043-2** (ByLight Mustang LRFE) | ByLight/DISA | Archive/Incomplete | Delivered 26 days late (12/31/2025); still owes 2 months of contractual work (per Jack Elston, 4/30/2026); no near-term timeline assigned |
 
 ---
 
-### 🟢 GREEN — HEALTHY / COMPLETED
+### 🟡 YELLOW / NEEDS ATTENTION
 
-| Project Code | Project Name | Contracted | Revenue | Status | Notes |
-|---|---|---|---|---|---|
-| **025-07** | SMM DoD 22.4D Phase II (SBIR) | $1.2M | $1.2M+ | ✓ ARCHIVED | Completed & closed; all payments received; excellent delivery performance |
-| **200-11** | Persistence Demo (NASA SBIR III) | $156K | $156K | ✓ ARCHIVED | Contract completed; all deliverables accepted; fully paid; closed 11/24/2025 |
-| **200-13** | CRATER (Costa Rica, NASA) | $80,972 | $80,972 | ✓ ARCHIVED | Completed 8/20/2025; fully invoiced & paid; excellent execution |
-| **200-14** | Adaptive Autonomy for UAS (NASA SBIR I) | $156,211 | $156,211 | ✓ ARCHIVED | Completed 3/27/2026; all work finished; fully invoiced |
-| **031-1** | S3 UMES VTOL | $185K+ | $185K+ | ✓ COMPLETE | Delivery complete 5/29/2026; post-deadline training phase (7/23–25/26); fully invoiced |
-| **032-1** | ND Air Deployed S0s | $180K+ | $180K+ | ✓ COMPLETE | Archived 10/21/2025; fully invoiced; delivered on schedule |
-| **025-01** | ND Air Deployed S0s (earlier phase) | $45K+ | $45K+ | ✓ COMPLETE | Completed 10/13/2025; fully paid |
-| **039-1** | Refurbished S2 Oklahoma State | $95K+ | $95K+ | ✓ COMPLETE | Training completed 8/19/2025; archived 10/21/2025; fully invoiced |
-| **350-4** | USGS Volcano Monitoring (Nevado del Ruiz) | $165K+ | $120K+ | 🟢 PAUSED | Mission paused; 9/30/2025 contract expiration + no-cost extension signed 3/5/2024; awaiting field continuation |
-| **025-08** | NASA SBIR I + Navy Programs | $156K (NASA) | $156K+ | ✓ ACTIVE | Multiple concurrent initiatives; healthy revenue stream; on schedule |
-| **550-1** | Navy SBIR Magnetometer | $200K+ | $120K+ | 🟢 ACTIVE | Phase I Option (April–Sept 2026); Phase II option proposal pending; solid progress |
-| **550-2** | Navy STTR Hazardous Weather | $300K+ | $200K+ | ✓ COMPLETE | Base + option periods completed; final deliverables due 9/1/2026; fully paid through option |
+| Project | Client | Remaining Budget | Issue |
+|---------|--------|------------------|-------|
+| **031-1** (S3 UMES) | UMES | Low/Closed | Contract funding expired 05/31/2026; training phase (07/23–25/2026) pending; **product spec mismatch unresolved** (contract specifies S3 VTOL $65K; delivery status unclear) |
+| **024-04** (Runway Integrity – SMM Phase II) | USAF AFWERX SBIR II | Closed | Successfully completed 07/09/2026; work complete; final invoicing in progress |
+| **025-04** (Methane Monitoring – DOE) | DOE FECM | Active | Partial invoicing; expenses accumulating; funding timeline uncertain |
+| **550-2** (Navy STTR Hazardous Weather) | Navy ONR | Active | Base & option periods completed (07/06/2026); final deliverables due 09/01/2026; Phase II status unclear |
+| **043-3** (ByLight M2 Design) | ByLight/DISA | Active | Firm fixed price; scope 1 (design) 4/3–5/30/2026; scope 2 (build, within 1 month of receipt); fuselage delivery status unknown |
 
 ---
 
-## Revenue Pipeline — Upcoming Invoiceable Milestones
+### 🟢 GREEN / STABLE (Archived/Completed)
 
-### Immediate (Next 30 Days)
-
-| Project | Milestone | Est. Invoice Date | Amount | AR Impact |
-|---|---|---|---|---|
-| **018-1** Murphy's Pond | Flight #4 completion + final report | July 2026 | $24.5K | Release from pending |
-| **300-3** NOAA Hurricane IDIQ | Platform delivery + training | Jul–Aug 2026 | $200K–$500K | Staged invoicing |
-| **301-3** S0 Hurricane Phase II | Platform delivery + training deliverables | Jul–Aug 2026 | $300K–$800K | Staged invoicing |
-| **026-06** S2 Simulator | Resolution of customs hold + delivery | Jul 2026 | $3.9K | Likely uncollectible or delayed |
-
-### Medium-term (60–90 Days)
-
-| Project | Milestone | Est. Invoice Date | Amount | Status |
-|---|---|---|---|---|
-| **032-3** Sasquatch S0s × 4 | Manufacturing complete; delivery | Aug–Sept 2026 | $60K+ | Now past estimated delivery; requires formal invoicing |
-| **043-2** By Light Mustang | Final reconciliation + travel reimbursement | Aug 2026 | $50K–$150K | Pending invoice |
-| **044-1** EMASS | Per-flight-day billing initiation | Jul–Oct 2026 | $30K–$75K/month | Transition phase; uncertain continuation |
-
-### Future (> 90 Days)
-
-| Project | Milestone | Timeline | Amount | Status |
-|---|---|---|---|---|
-| **025-04** DOE Methane | Award notification + work initiation | Q3–Q4 2026 | $800K+ | Not yet awarded |
-| **024-03** NASA Wildfire | Year 1 monthly invoicing | Jul 2025–Jan 2026 (retroactive?) | $100K+/mo | Likely already invoiced; verify QBO |
-| **300-3** NOAA Hurricane | Remaining platforms (Years 2–5) | 2027–2030 | $5M+ | Multi-year revenue |
+| Project | Client | Disposition | Final Position |
+|---------|--------|-------------|-----------------|
+| **400-5** (SMM Phase II AFWERX) | USAF | ✓ Complete | Successfully closed Nov 2025 |
+| **200-14** (Autonomy NASA SBIR I) | NASA Stenlis | ✓ Complete | Delivered on schedule; all payments received (04/16/2026) |
+| **200-13** (CRATER Costa Rica) | NASA Ames | ✓ Complete | $80,972 awarded; 6-month campaign completed |
+| **200-11** (NightFOX IR - NASA SBIR III) | NASA Ames | ✓ Complete | Closed 11/24/2025; demonstrated wildfire IR monitoring |
+| **039-1** (S2 OSU) | Oklahoma State U | ✓ Complete | Equipment refurbishment; training completed 08/19/2025 |
+| **035-1** (ADONIS Unmanned Experts) | Unmanned Experts | ✓ Complete | Archived 04/10/2026; all deliverables finished |
+| **032-1** (ND Air-Deployed S0s) | Notre Dame | ✓ Complete | 2× S0 systems delivered 10/13/2025 |
+| **452-1** (Hesselius E2) | CU Boulder | ✓ Complete | E2 UAS sold at 46.6% discount; inventory cleared |
 
 ---
 
-## Cash Flow — Accounts Receivable Analysis
+## Accounts Receivable Deep Dive
 
-### A/R Summary
-| Category | Amount | Status |
-|---|---|---|
-| **Government/Sponsored (A/R)** | ~$3.0M | 76+ active invoices; typical 30–90 day payment cycle |
-| **Commercial (A/R)** | ~$200K | Smaller balances; faster payment cycles (15–30 days) |
-| **Total Accounts Receivable** | ~**$3.2M** | **~45% of total revenue invoiced but not yet received** |
+### A/R by Customer (High Risk First)
 
-### Breakdown by Client Type
+| Customer / Project | Amount Outstanding | % of Total A/R | Days Outstanding | Risk Level |
+|-------------------|-------------------|----------------|------------------|-----------|
+| **NOAA (300-3, 301-3 combined)** | **~$3.0M** | **93%** | 30–90+ days | 🔴 CRITICAL |
+| Commercial (044-1 EMASS, others) | ~$6K | <1% | 0–30 days | 🟢 Low |
+| Government (Other) | ~$200K | ~6% | 30–60 days | 🟡 Medium |
+| **TOTAL A/R** | **~$3.2M+** | **100%** | | |
 
-**Government Projects (High A/R):**
-- **300-3 / 301-3 (NOAA Hurricane):** $1.5M–$2.0M combined (typical for NOAA; 60-day payment cycle)
-- **Air Force SBIR / NASA contracts:** $200K–$500K (varied payment terms; 30–90 days typical)
-- **Navy SBIR/STTR:** $100K–$300K (slower government payment)
-
-**Commercial Projects (Lower A/R):**
-- **EMASS Chip Integration:** $42K (recent invoicing)
-- **By Light Services:** $150K (awaiting reconciliation)
-- **University Contracts:** $50K–$100K (mixed payment terms)
-
-### Recent Payment Trends
-*(Based on available data—July 7–8, 2026)*
-
-| Trend | Observation |
-|---|---|
-| **Government payments** | Expected 30–90 days post-invoice; NOAA historically slower (60–90 days) |
-| **Commercial payments** | Generally faster; 15–30 day cycles typical |
-| **Current bottleneck** | Large NOAA balances (300-3, 301-3) likely in standard government payment queue |
-| **Risk flags** | 026-06 overdue; 032-3 no formal invoice issued despite verbal commitment |
+**Cash Flow Impact:**
+- NOAA represents 71.7% of Government revenue and 46.8% of total company revenue.
+- Collection cycle is 30–90+ days from invoice.
+- Current A/R equals ~43% of annual revenue run rate.
+- **Recommendation:** Accelerate NOAA invoice collection; establish payment milestone schedule in future contracts.
 
 ---
 
-## Companies Financial Health — Overall Assessment
+## Revenue Pipeline (Upcoming Invoiceable Milestones)
 
-### Strengths ✓
-- **Strong net position:** $4.7M net income on $7.45M revenue (63% margin)
-- **Diversified revenue:** Government (60%), Commercial (40%) mix reduces concentration risk
-- **Healthy project pipeline:** Multiple active contracts through 2026–2030
-- **Award rate:** Successful SBIR/STTR track record; multiple Phase I/II wins
-- **Margin control:** Particularly strong on Commercial projects (92% margin)
+### Near-Term (Q3–Q4 2026)
 
-### Weaknesses & Risks ⚠️
+| Project | Client | Anticipated Milestone | Est. Revenue | Timeline |
+|---------|--------|---------------------|--------------|----------|
+| **550-2** | Navy ONR | Final deliverables due | $50K–$100K (estimated) | 09/01/2026 |
+| **550-1** | Navy NAVAIR | Phase II award (if approved) | $500K–$1M+ (proposed) | Jan 2027 (uncertain) |
+| **026-07** (Murphy's Pond) | Murray State U | Flight #4 (pending) | $30K–$50K | Aug/Sept 2026 |
+| **043-3** (ByLight M2) | ByLight/DISA | Scope 2 build/delivery | Firm fixed price (TBD) | Q4 2026 |
+| **025-04** (DOE Methane) | DOE FECM | Phase completion | Partial (TBD) | Q4 2026 |
 
-1. **Large A/R Balance ($3.2M):** 
-   - Represents 43% of revenue sitting in accounts receivable
-   - Government contracts (especially NOAA) have 60–90-day payment cycles
-   - Cash flow constraint if not carefully managed
+### Uncertain / Dependent on Awards
 
-2. **Data Quality Issues:**
-   - 30+ project codes lack complete budget documentation
-   - QuickBooks data aggregates multiple sub-projects under single codes (e.g., 004-00, 024-05 through 024-12)
-   - No central project tracking system visible; risk of misalignment between accounting/operational systems
-
-3. **Project-Specific Risks:**
-   - **026-06:** $3.9K overdue; customs hold blocking delivery
-   - **032-3:** $60K+ verbal order with no formal PO; 4-month timeline now likely exceeded
-   - **024-03, 025-04:** Large awards ($340K–$800K) with no invoicing yet; execution risk
-   - **044-1:** Relationship continuation uncertain; transitioning billing model
-
-4. **Expense Control:**
-   - **BST Internal project:** -$1.16M net loss (expense-heavy R&D with minimal revenue)
-   - R&D/IRAD spending substantial; value realization timing unclear
-
-5. **Contract Maturity:**
-   - Many projects now archived (2024–2025); pipeline depends on new awards
-   - Limited visibility on Phase II conversions (SBIR Phase I → Phase II success rate not documented)
+| Project | Client | Status | Est. Award |
+|---------|--------|--------|-----------|
+| **001-00** (DTRA PLUMES SBIR I) | DTRA | Proposal submitted (T252-001-0052) | $150K–$250K | TBD |
+| **024-03** (NASA Wildfire Susceptibility) | NASA ROSES | Step 2 submission (Apr 2025 start) | $518K (3-year) | Decision pending |
 
 ---
 
 ## Projects Requiring Immediate Attention
 
-### 🔴 **TIER 1 — URGENT (Action required within 7 days)**
+### 1. **NOAA A/R Collection Crisis**
+- **300-3 + 301-3 combined:** ~$3.0M outstanding
+- **Action:** Contact NOAA invoicing (Jun Zhang, Joe Cione) to confirm payment status; escalate if overdue >60 days
+- **Impact:** Represents critical cash flow constraint for company operations
 
-| Project | Issue | Action Required | Owner |
-|---|---|---|---|
-| **026-06** S2 Simulator & E2 Battery | **OVERDUE** (due 2026-06-30); customs hold on battery in Mexico; $3,900 at risk | 1. Confirm customs status immediately<br>2. Obtain power of attorney authorization<br>3. Re-invoice if not received by 7/15<br>4. Assess collectability | [Project Manager] |
-| **032-3** Sasquatch S0s × 4 | Verbal order only; $60K+ manufacturing commitment with no formal PO; now **past 4-month delivery timeline** (est. 6/19/2026) | 1. Issue formal PO immediately<br>2. Confirm manufacturing status & revised delivery date<br>3. Update customer with new timeline<br>4. Invoice upon delivery | [Sales/Account Manager] |
+### 2. **ByLight Mustang (043-2) – Incomplete Deliverables**
+- **Status:** Primary work completed 12/31/2025 (26 days late)
+- **Remaining:** "2 months of contractual work" (per Jack Elston, 4/30/2026)
+- **Risk:** No timeline assigned; scope creep potential
+- **Action:** Schedule meeting with ByLight (Bryan Sparling, Susan Nguyen) to define remaining work, timeline, and payment; document in amendment
 
-### 🟡 **TIER 2 — HIGH PRIORITY (Within 30 days)**
+### 3. **UMES S3 (031-1) – Product Spec Mismatch**
+- **Issue:** PO specifies S3 VTOL ($65K); delivery status unclear; funding expired 05/31/2026
+- **Training pending:** 07/23–25/2026
+- **Action:** Confirm delivery status immediately; resolve spec mismatch with UMES (PO #142750)
 
-| Project | Issue | Action Required |
-|---|---|---|
-| **018-1** Murphy's Pond CH4 | Flight #4 (~$24.5K) pending; SOW mod due 7/10/2026; contract expires 12/31/2026 | 1. Confirm SOW mod approval before 7/10<br>2. Schedule Flight #4<br>3. Invoice upon completion<br>4. Confirm Year-2 renewal opportunity (if applicable) |
-| **043-2** By Light Mustang | Core deliverables completed but reimbursement reconciliation pending; $50K–$150K invoice unissued | 1. Complete cost reconciliation<br>2. Submit final invoice within 7 days<br>3. Confirm post-delivery hold status |
-| **044-1** EMASS Chip Integration | Transitioning to per-flight-day billing; relationship continuation uncertain; $42K outstanding | 1. Clarify project scope/timeline with customer<br>2. Submit per-flight-day invoice schedule<br>3. Establish firm end date or renewal terms |
-| **200-7** Volcano CCRPP | $361K invoiced but **zero budget documentation** available; unable to assess margin/remaining scope | 1. Locate
+### 4. **CU Boulder Overdue Deliverables (452-2 / 026-06)**
+- **Due:** 06/30/2026 (now overdue)
+- **Blockers:** E2 battery stuck in Mexican customs (awaiting power of attorney); S2 Simulator delivery unknown
+- **Action:** Clarify Mexico customs status; expedite PoA authorization; confirm simulator shipment
+
+### 5. **Navy Magnetometer Phase II (550-1) – Award Uncertainty**
+- **Phase I option period completed:** 09/28/2026 ✓
+- **Phase II proposed:** Jan 2027 – Jun 2029 (30 months, $500K+)
+- **Risk:** Award not confirmed; no revenue visibility
+- **Action:** Confirm Phase II award timeline with Navy NAVAIR (Angel Ruiz-Reyes, NAWCAD)
+
+---
+
+## Cash Position & Liquidity Analysis
+
+### Current State (as of Jul 9, 2026)
+
+| Metric | Amount | Notes |
+|--------|--------|-------|
+| **Cumulative Net Income** (27 months) | $1,173,729 | Strong positive position |
+| **2-Day Period P&L (7/8–7/9)** | -$557 | Typical daily variance |
+| **Accounts Receivable** | $3.2M+ | 93% concentrated in NOAA |
+| **Estimated Cash on Hand** | ~$4.2M | Inferred from A/R + recent receipts |
+| **Current Burn Rate** | ~$80K–$100K/month | Estimated (gov't + internal ops) |
+| **Months of Operating Runway** | ~40–50 months | Based on current AR + expenses |
+
+**Assessment:** Company is financially solvent long-term but faces **near-term liquidity pressure** from NOAA A/R concentration.
+
+---
+
+## Expense Analysis
+
+### By Functional Category
+
+| Category | YTD Spend | % of Total | Trend |
+|----------|-----------|-----------|-------|
+| **Unclassified Expenses** | $3,518,468 | 55.8% | **⚠️ CRITICAL** — requires reclassification |
+| **BST Internal** (overhead/IRAD) | $1,200,385 | 19.1% | High internal cost burden |
+| **Government Projects** (direct delivery) | $1,334,695 | 21.2% | On target |
+| **Commercial Projects** (direct delivery) | $241,843 | 3.8% | Lean operations |
+| **TOTAL** | **$6,295,391** | **100%** | |
+
+**Red Flag:** $3.5M in **Unclassified Expenses** with only $1 revenue represents potential cost allocation errors, uncategorized R&D, or accounting system configuration issue. **Immediate audit required.**
+
+---
+
+## Company-Wide Recommendations
+
+### Priority 1: Urgent (This Month)
+1. **Reconcile Unclassified Expenses ($3.5M)** – Conduct full ledger review to properly allocate costs to projects
+2. **Accelerate NOAA A/R Collection** – Target $500K+ collection within 30 days
+3. **Resolve ByLight 043-2 Outstanding Work** – Define scope, timeline, budget amendment
+4. **Confirm UMES S3 Delivery Status** – Clarify product spec mismatch; confirm training schedule
+5. **Expedite CU Boulder Customs Issue** – Secure Mexico power of attorney; ship E2 battery and S2 Simulator
+
+### Priority 2: Medium-Term (Next 60 Days)
+1. **Navy SBIR Phase II (550-1) Award Status** – Confirm award timeline with NAVAIR; plan Phase II delivery
+2. **DoE Methane (025-04) Budget Clarity** – Clarify funding, invoicing schedule, and remaining work
+3. **ByLight M2 Design (043-3) Fuselage Delivery** – Track supplier status; confirm scope 2 schedule
+4. **Murphy's Pond Flight #4** – Schedule and budget remaining field campaign (expires 12/31/2026)
+
+### Priority 3: Strategic (Ongoing)
+1. **Implement Project Cost Accounting** – Eliminate Unclassified spend; standardize CLIN/task order mapping
+2. **Reduce NOAA Concentration Risk** – Diversify customer base; target commercial segment growth
+3. **Establish Payment Milestone Schedules** – Negotiate progress-based invoicing on future government contracts
+4. **Close Out Completed Projects** – Formally archive 18+ completed projects to reduce administrative overhead
+
+---
+
+## Summary Scorecard
+
+| Dimension | Status | Score |
+|-----------|--------|-------|
+| **Revenue Health** | Strong (27-month YTD: $7.5M) | 8/10 |
+| **Cash Position** | Good (positive net income) | 7/10 |
+| **Liquidity** | At Risk (NOAA concentration) | 4/10 |
+| **Cost Control** | Poor ($3.5M unclassified) | 3/10 |
+| **Project Execution** | Mixed (18 complete; 8+ overdue/uncertain) | 6/10 |
+| **Customer Concentration** | Very High (NOAA = 46.8%) | 3/10 |
+| **Pipeline Visibility** | Moderate (some awards pending) | 5/10 |
+
+**Overall Financial Health: AMBER** — Strong fundamentals with execution risk on customer concentration and cost accounting. Immediate action required on A/R collection and unclassified expenses.

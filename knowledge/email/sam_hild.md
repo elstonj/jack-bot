@@ -1,88 +1,86 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 85 (across three scan periods)
-- **Date range:** 04 Jul 2026 – 08 Jul 2026 (5 days)
-- **Volume:** Heavy purchasing/procurement activity; approximately 17 messages per day during this period
-- **New data period:** 07–08 Jul 2026 adds 43 additional messages, continuing sustained high-volume procurement activity
+- **Total messages scanned:** 93 (across four scan periods)
+- **Date range:** 04 Jul 2026 – 09 Jul 2026 (6 days)
+- **Volume:** Heavy purchasing/procurement activity; approximately 15.5 messages per day during this period
+- **Latest data period:** 08–09 Jul 2026 adds 8 additional messages; activity moderating slightly from Jul 7 peak but procurement continues
 
 ## Key Correspondents
 
 ### Internal (BST)
-- **Jack Elston** (elstonj@blackswifttech.com, also listed as purchasing@blackswifttech.com) — frequent collaborator on technical and procurement matters; receives promotional emails (AliExpress)
+- **Jack Elston** (elstonj@blackswifttech.com, also listed as purchasing@blackswifttech.com) — frequent collaborator on technical and procurement matters; receives promotional emails (AliExpress); active QuSpin technical discussions (Jul 8)
 - **Josh Fromm / Joshua Fromm** (purchasing@blackswifttech.com) — primary recipient of vendor order confirmations and support tickets; active uAvionix back-order coordination
 - **Meredith Needham** (meredith.needham@blackswifttech.com) — escalates uAvionix support tickets (ticket #50873); coordinates vendor communications
+- **Maciej Stachura** (stachura@blackswifttech.com) — **NEW internal contact** — QuSpin technical discussion (Jul 8, marked IMPORTANT); responds to Jack Elston on technical questions
 - **Chad Atwood** (chad@theaiginc.com) — external contact; sent Open Enrollment notice
 
 ### External Vendors (Procurement Focus)
-- **SendCutSend** (via Purchasing) — **NEW major vendor identified** — intense multi-day vendor coordination (Jul 7); multiple order updates and support interactions (orders S439K456, SP128831); rapid back-and-forth with Jake, Max, and Seth from SendCutSend regarding order questions; suggests custom fabrication/cutting service
-- **uAvionix** (support@uavionix.com, website@uavionix.com, squawk@uavionix.com) — **escalated back-order coordination** — Ticket #50873 active across multiple team members; 4 pingRX Pros on back-order; status inquiries from Josh Fromm and Meredith Needham; order completion confirmed Jul 7
-- **McMaster-Carr** (chi.sales@mcmaster.com, invoice.reply@mcmaster.com) — continuing high volume; multiple July 7 order confirmations and tracking certificates
-- **JawsTec Manufacturing** (info@jawstec.com) — shipment notification (Jul 7) indicates active order fulfillment
-- **ServoCity** (sales@servocity.com) — multiple order updates (#300045463); two identical updates on Jul 7–8
-- **Rock West Composites** — new order notification #Z100709976 (Jul 7)
-- **Eco-Cycle** (ar@ecocycle.org) — **NEW vendor** — invoice 272554 and payment receipt (Jul 7); appears to be recyclable materials or environmental compliance service
-- **Toggl Track** (support@track.toggl.com) — time tracking tool, direct to sam.hild@blackswifttech.com (Jul 7)
-- **Rippling** (no-reply@rippling.com) — payroll/benefits platform; Open Enrollment notice to sam.hild@blackswifttech.com (Jul 7)
-- **UnitedHealthcare** (UnitedHealthcare@advocate.uhc.com) — health plan promotional (Jul 7)
+- **McMaster-Carr** (chi.sales@mcmaster.com, invoice.reply@mcmaster.com) — continuing sustained high volume; Jul 7–9 order confirmations and receipts; receipt duplicates suggest high order frequency (two identical receipts Jul 8–9)
+- **SendCutSend** (custom fabrication/cutting vendor) — dominant Jul 7 activity with intensive vendor coordination (Jake, Max, Seth); orders S439K456, SP128831; activity appears to have subsided by Jul 8–9
+- **uAvionix** (support@uavionix.com, website@uavionix.com, squawk@uavionix.com) — escalated back-order coordination; Ticket #50873; 4 pingRX Pros on back-order; activity ongoing but intensity moderating
+- **JawsTec Manufacturing** (info@jawstec.com) — shipment notifications
+- **ServoCity** (sales@servocity.com) — multiple order updates (#300045463)
+- **Rock West Composites** — new order notification #Z100709976
+- **Eco-Cycle** (ar@ecocycle.org) — invoice and payment receipt (materials/environmental compliance service)
+- **Driftaway Coffee** (ops@driftaway.coffee) — **NEW vendor** — coffee shipment notification (Jul 8); routed to purchasing@bst.aero; appears to be office supplies/amenities rather than technical procurement
+- **Toggl Track** (support@track.toggl.com) — time tracking tool
+- **Rippling** (no-reply@rippling.com) — payroll/benefits platform; new task assignment notification (Jul 8) in addition to earlier Open Enrollment notice; suggests active HR system usage
 
 ### External (Non-Procurement)
-- **Jeffrey Orton** (jorton@quspin.com) — QuSpin technical contact; Jul 7 response thread includes Narayan Bhatta and Shweta Choudhury from QuSpin; marked IMPORTANT
+- **Jeffrey Orton** (jorton@quspin.com) — QuSpin technical contact; Jul 8 response thread includes Jack Elston and Maciej Stachura; marked IMPORTANT
+- **Speedway Motors** (via Purchasing) — **NEW external contact** — forum/educational content on automotive suspension components (sway bars/anti-roll bars); Jul 8; routed through purchasing distribution; suggests technical interest or educational interest rather than direct vendor relationship
 - **The X-Plane Team** (noreply@x-plane.com) — promotional/event (Oshkosh prep)
 - **Veeam Webinar** (webinars@veeam.com) — security webinar invitation
+- **Google Gemini** (gemini-notes@google.com) — **NEW** — AI note-taking service; captures BST Internal Update Meeting notes from Jul 8; marked IMPORTANT
 
 ## Topic Patterns
 
-### Procurement/Orders (Primary — Sustained)
-- **SendCutSend** — dominant Jul 7 activity; custom cutting/fabrication orders with intensive vendor coordination
-  - Order S439K456: multiple status updates, vendor support interactions (Jake, Max, Seth), quote creation, tracking
-  - Order SP128831: tracking notification
-  - Suggests rapid turnaround custom parts or rapid prototyping need
-- **uAvionix pingRX Pro back-order** — escalated ticket #50873; 4-unit order; cross-team follow-up (Josh Fromm, Meredith Needham); status unclear but timeline-sensitive
-- **McMaster-Carr** — continuing high-volume orders (Jul 6–7); multiple same-day order confirmations and tracking
-- **JawsTec Manufacturing** — order shipment notification
-- **Rock West Composites** — new order #Z100709976
-- **ServoCity** — order #300045463 status updates
-- **Eco-Cycle** — invoice and payment receipt (materials or services procurement)
-
-### Vendor Communications & Support
-- Active support ticket management (SendCutSend responses to order questions; uAvionix back-order coordination)
-- Order confirmations, tracking, and shipment notifications across multiple vendors
-- Promotional partnerships (uAvionix announcement of Extra USA partnership)
+### Procurement/Orders (Primary — Sustained, Moderating)
+- **McMaster-Carr** — continuing high-volume standard components; two identical order receipts (Jul 8–9) for Jul 7 orders; suggests automated receipt emails or rapid duplicate orders
+- **SendCutSend** — intensity subsided post-Jul 7; custom fabrication/cutting orders (S439K456, SP128831) appear to have progressed
+- **uAvionix pingRX Pro back-order** — continuing back-order coordination; ticket #50873 active across team
+- **JawsTec Manufacturing, ServoCity, Rock West Composites** — continuing ongoing orders
+- **Eco-Cycle** — procurement complete (invoice and payment received)
+- **Driftaway Coffee** — office supplies/amenities procurement
 
 ### Technical/Engineering
-- **QuSpin correspondence** — Jul 7 response from Jeffrey Orton to Jack Elston, Narayan Bhatta, Shweta Choudhury; marked IMPORTANT; indicates ongoing technical collaboration
+- **QuSpin correspondence** — Jul 8 active thread between Jack Elston and Jeffrey Orton; Maciej Stachura provides technical response (marked IMPORTANT); indicates ongoing collaborative technical work
+- **Speedway Motors** — automotive suspension technical content; suggests either research activity or technical team interest in vehicle engineering
 
 ### Administrative/HR
-- **Open Enrollment** — notice from Rippling and Chad Atwood (TheAIG Inc.); Action Required flag (Jul 7)
-- **Health insurance** — UnitedHealthcare promotional
-- **Time tracking** — Toggl Track notification to sam.hild@blackswifttech.com
-- **Webinar/events** — X-Plane Oshkosh event, Veeam security webinar
+- **Rippling task assignment** — New task (Jul 8) assigned in HR system; suggests Sam has active HR/administrative responsibilities
+- **Open Enrollment** — earlier notice from Rippling and Chad Atwood
+- **Time tracking** — Toggl Track notifications
+
+### Note-Taking & Knowledge Management
+- **Google Gemini** — AI-powered note capture for "BST Internal Update Meeting" (Jul 8, marked IMPORTANT); suggests Sam participates in or organizes internal strategy/update meetings
 
 ## Communication Patterns
 
-- **Intense Jul 7 activity** — 30+ messages; bulk from SendCutSend vendor coordination and order confirmations (McMaster-Carr, JawsTec, ServoCity, Rock West, uAvionix)
-- **SendCutSend coordination spike** — Rapid back-and-forth (6+ exchanges) with vendor support across single day suggests urgent issue resolution (order question S439K456)
-- **Centralized purchasing inbox routing** — Majority of vendor emails addressed to purchasing@blackswifttech.com distribution despite sam.hild@blackswifttech.com as inbox owner; some emails misdirected or CC'd to Jack Elston at purchasing address
-- **Multi-vendor same-day confirmations** — Clustered order confirmations (Jul 7: McMaster-Carr 3x, ServoCity 2x, uAvionix, JawsTec, Rock West, SendCutSend 2x) suggests coordinated procurement sprint or project milestone
-- **Time zones:** UTC, EST, CST, PDT — continued national/international vendor activity
-- **Direct personal emails** — Open Enrollment, health insurance, time tracking sent directly to sam.hild@blackswifttech.com; suggests Sam has direct role in HR/benefits administration or account ownership
+- **Cooling activity post-Jul 7** — Jul 7 showed 30+ messages; Jul 8–9 shows only 8 total, indicating peak procurement sprint has passed or project phase has transitioned
+- **Duplicate vendor receipts** — Two identical McMaster-Carr receipts (Jul 8–9) for same Jul 7 order; suggests either email system duplication or rapid re-ordering behavior
+- **Routing ambiguity continues** — Vendor emails addressed to both PURCHASING@BLACKSWIFTTECH.COM and purchasing@bst.aero; suggests two separate purchasing email addresses or domain aliases (blackswifttech.com vs bst.aero)
+- **Centralized distribution inbox** — Most procurement emails route to shared purchasing address despite sam.hild@blackswifttech.com inbox ownership
+- **Personal inbox emails** — HR/admin (Rippling task), time tracking, and note-taking tools route directly to sam.hild@blackswifttech.com; indicates direct personal account management for administrative functions
+- **IMPORTANT flags** — QuSpin technical thread and internal update meeting notes both marked IMPORTANT; suggests technical and strategic discussions are priority
 
 ## Key Relationships
 
 ### Primary Collaborators
-- **Jack Elston** (Internal) — remains closest technical collaborator; receives AliExpress promotional emails; listed as purchasing contact for vendor correspondence; joint QuSpin technical work
-- **Josh Fromm** (Internal) — primary contact for vendor order management; receives back-order escalations and support tickets from external vendors
-- **Meredith Needham** (Internal) — escalates vendor support; coordinates uAvionix back-order inquiries
-- **Jeffrey Orton** (QuSpin, External) — ongoing technical contact; recent IMPORTANT response (Jul 7)
+- **Jack Elston** (Internal) — remains closest technical collaborator; active QuSpin discussions (Jul 8)
+- **Maciej Stachura** (Internal) — **NEW key collaborator** — technical expert on QuSpin questions; responds with IMPORTANT-flagged input (Jul 8)
+- **Josh Fromm** (Internal) — primary vendor order management and escalation contact
+- **Meredith Needham** (Internal) — vendor support coordination
+- **Jeffrey Orton** (QuSpin, External) — ongoing technical partner; active dialog (Jul 8)
 
-### Vendor Relationships (Strategic Importance)
-- **SendCutSend** — **NEW high-priority vendor** — intensive Jul 7 coordination suggests custom fabrication critical to active project; responsive vendor support
-- **uAvionix** — back-order escalation indicates product is on critical path; cross-functional follow-up (purchasing, engineering, support)
-- **McMaster-Carr** — continuing high-volume standard components supplier
-- **JawsTec Manufacturing** — recurring supplier; active shipments
-- **ServoCity** — motion control/robotics components
+### Vendor Relationships
+- **McMaster-Carr** — sustained high-volume standard components supplier
+- **SendCutSend** — custom fabrication vendor; urgent phase appears resolved post-Jul 7
+- **uAvionix** — critical back-order on active timeline
+- **JawsTec Manufacturing, ServoCity, Rock West Composites** — recurring suppliers
 
 ## Notable Observations
 
-- **SendCutSend emerges as urgent vendor** — Jul 7 shows rapid vendor support interactions with multiple SendCutSend team members (Jake, Max, Seth); suggests either custom fabrication order in crisis or rapid prototyping need; order
+- **Project phase transition visible** — Jul 7 intensive procurement sprint (30+ messages, multiple vendors, SendCutSend crisis coordination) has cooled by Jul 8–9 (8 total messages); suggests either orders have been placed and phase completed, or activity has shifted to engineering/technical work
+- **Technical discussions intensifying** — QuSpin thread (marked IMPORTANT) active with new internal technical expert (Maciej Stachura) joining; suggests engineering phase may
