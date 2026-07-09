@@ -1,56 +1,79 @@
 # Slack Channels Overview
 
-Last scanned: 2026-07-08 02:13
+Last scanned: 2026-07-09 02:14
 
-Total channels scanned: 6
+Total channels scanned: 8
 
 ## Channels
 
 - **#25_1-navy-sbir-magnetometer** -- 2 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#commercial-sales** -- 3 messages -- [commercial-sales.md](commercial-sales.md)
-- **#grants-and-funding** -- 1 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#marketing** -- 6 messages -- [marketing.md](marketing.md)
-- **#sbir-hurricane** -- 5 messages -- [sbir-hurricane.md](sbir-hurricane.md)
-- **#swiftcore** -- 3 messages -- [swiftcore.md](swiftcore.md)
+- **#commercial-sales** -- 1 messages -- [commercial-sales.md](commercial-sales.md)
+- **#general** -- 15 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 3 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#marketing** -- 3 messages -- [marketing.md](marketing.md)
+- **#s3** -- 4 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 44 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#swiftcore** -- 4 messages -- [swiftcore.md](swiftcore.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Cross-Channel Strategic Overview
+# Black Swift Technologies Slack Strategic Overview
 
-## Active Projects
-- **S0 Hurricane Reconnaissance**: Primary focus in #sbir-hurricane; unmanned aircraft for hurricane missions (SBIR Phase ongoing)
-- **Navy Magnetometer System**: #25_1-navy-sbir-magnetometer; integrating QuSpin magnetometers for magnetic anomaly detection
-- **SwiftCore Drone Platform**: Core technical product in #swiftcore; firmware, flight testing, and continuous feature development
-- **Aircraft Product Line**: E2, S2, S3, S0, S0-VTOL variants sold through #commercial-sales
+## Cross-Channel Themes
 
-## Key Decision-Makers & Core Team
-- **Jack Elston**: Leadership across all channels; proposal decisions (#grants-and-funding), marketing strategy, commercial direction
-- **Maciej**: Technical lead and operations support; active in SBIR, magnetometer, SwiftCore, and grants channels
-- **Joshua Fromm & Danny Troke**: Technical/engineering (SwiftCore, Hurricane)
-- **Beck Cotter**: Hardware integration (magnetometer, Hurricane projects)
-- **Sam Hild & Alex Lomis**: Project support (multiple channels)
+### Active Projects
+- **S0 Hurricane Reconnaissance**: Primary focus in #sbir-hurricane; unmanned aircraft for hurricane monitoring (SBIR-funded)
+- **S3 VTOL**: Long-endurance hybrid fixed-wing/quadcopter in development (#s3); targets 2-3 hour endurance
+- **SwiftCore System**: Core drone firmware and control platform (#swiftcore); actively maintained with regular updates and flight testing
+- **Navy Magnetometer SBIR**: Integrating QuSpin magnetometers for magnetic anomaly detection (#25_1-navy-sbir-magnetometer)
+- **Commercial Aircraft**: E2, S2, S3, S0 variants in active sales and customer delivery (#commercial-sales)
 
-## Revenue Streams
-1. **Government/SBIR Contracts**: Hurricane and Navy magnetometer projects (#sbir-hurricane, #25_1-navy-sbir-magnetometer)
-2. **Federal Grants**: NASA, DOD, NOAA, USDA pursuits (#grants-and-funding)
-3. **Commercial Sales**: University research, government agencies, international customers (#commercial-sales)
-4. **Product Marketing**: Positioning SwiftCore and aircraft platforms (#marketing)
+### Key People & Roles
 
-## Decision Patterns
-- **Jack Elston** drives strategic and funding decisions
-- **Maciej** bridges technical feasibility with proposals
-- **Technical teams** (SwiftCore, Hurricane) operate autonomously on implementation
-- Parallel pursuit of government contracts + commercial sales
+| Person | Primary Role(s) |
+|--------|-----------------|
+| **Jack Elston** | Leadership; proposal/funding decisions; systems architecture; strategy |
+| **Joshua Fromm** | Lead engineer; RF/antenna design; requirements documentation |
+| **Maciej** | Technical support; proposal development; field operations |
+| **Danny Troke** | Technical development; firmware/flight testing |
+| **Beck Cotter** | Project lead (Navy magnetometer); technical coordination |
+| **Dan Prendergast** | Business development; operations |
+| **Ben Busby** | Application development; tablet/firmware |
+| **Meredith Needham** | Budget management |
+| **Parker Vollmer** | Marketing lead |
 
-## Recurring Themes
-- **Flight testing & validation** across multiple projects
-- **Payload integration** (magnetometers, sensors)
-- **Proposal/grant cycle management** (Phase progression, budget justification)
-- **Product delivery timelines** and customer support
-- **Marketing/positioning** tied to active projects
+### Decision Patterns
+- **Jack Elston** is the central decision-maker for funding, proposals, and strategic direction
+- **Proposal-driven development**: Projects align with SBIR and government funding cycles
+- **Collaborative technical review**: Multiple engineers review designs before implementation
+- **Customer-focused delivery**: Commercial sales drives product roadmap prioritization
 
-## Cross-Channel Connections
-- SBIR projects feed commercial applications (magnetometer, hurricane reconnaissance capabilities)
-- SwiftCore platform serves as baseline for specialized aircraft (#sbir-hurricane, #25_1-navy-sbir-magnetometer)
-- Grant funding (#grants-and-funding) supports both internal R&D and customer delivery (#commercial-sales)
-- Marketing (#marketing) leverages project wins and technical capabilities
+### Recurring Topics
+
+**Across all channels:**
+- Flight testing coordination and results
+- Technical integration challenges (payloads, avionics, software)
+- Funding/grant status and deadlines
+- Customer delivery schedules and requirements
+- Personnel coordination and resource allocation
+
+**Project-specific patterns:**
+- #sbir-hurricane: Mission planning, hurricane season operations, system reliability
+- #swiftcore: Release management, bug fixes, feature prioritization
+- #s3: Design iterations, power management, endurance optimization
+- #commercial-sales: Customer specifications, delivery timelines, payload compatibility
+- #grants-and-funding: Proposal deadlines, budget justification, award announcements
+
+### Cross-Channel Connections
+
+1. **Funding → Development**: Grant awards in #grants-and-funding spawn technical work in project channels (#sbir-hurricane, #25_1-navy-sbir-magnetometer)
+2. **R&D → Sales**: Successful projects transition to commercial offerings (#s3 development → #commercial-sales inventory)
+3. **SwiftCore Foundation**: #swiftcore firmware underpins multiple project platforms (S0, S3, commercial variants)
+4. **Technical Leadership**: Joshua Fromm and Jack Elston appear across hardware (#s3), systems (#swiftcore), and funding decisions
+5. **Marketing Enablement**: #marketing pulls from project milestones and customer success stories across #commercial-sales and #general
+
+### Strategic Dependencies
+- **Government funding critical**: SBIR projects fund core R&D capabilities
+- **Commercial sales leverage**: Government-developed platforms (S0, S3) become commercial products
+- **Integrated workforce**: Same engineers move between SBIR projects and commercial development
+- **Platform architecture**: SwiftCore and shared aircraft designs enable rapid project scaling

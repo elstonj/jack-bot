@@ -15,7 +15,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Paige Smith (sales coordination, customer communication, website form submissions)
 - Beck Cotter (customer outreach, email coordination, S0/S0-VTOL ownership coordination, Arctic demo coordination, travel booking, presentation materials, meeting scheduling)
 - Ben Busby (team member, sales pipeline tracking, payload packet analysis)
-- Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead, demo participation, presentation management, field operations coordination, training pricing inquiries, training logistics coordination, **UMES S3 flight training instructor**)
+- Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead, demo participation, presentation management, field operations coordination, training pricing inquiries, training logistics coordination, **UMES S3 flight training instructor**, **Murphy's Pond Flight campaign lead**)
 - Dan H (CU - external customer, E2 battery interest)
 - Bassil (customer - methane research, travel May 19-June 9, 2026, field operations coordination)
 - Stefan (Atmofacts - external partner, methane algorithm tuning)
@@ -28,7 +28,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Tanay (prospective customer/contact - scheduling discussions underway, June 21, 2026)
 - Ryan Nesselrodt (SRI International/Center for Innovation - prospective customer, quantum sensing interview request, July 28-29, 2026)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: July 7, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: July 8, 2026.
 
 ---
 
@@ -101,4 +101,9 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 **S2 Battery Configuration - Big Bus Bar Modification (May 12, 2026)**
 - Joshua Fromm identified that multiple Iris batteries (units #2, #3, #5) do not have the "big bus bar mod"
 - Jack Elston decision: Flight path must be limited and old 14" prop must be used with these units
-- **Issue identified (May 12, 2026):** Unit lacks old 
+
+---
+
+## Projects & Initiatives
+
+###

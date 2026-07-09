@@ -1,23 +1,10 @@
 {
   "period": {
-    "start": "2026-07-07",
-    "end": "2026-07-08"
+    "start": "2026-07-08",
+    "end": "2026-07-09"
   },
-  "scanned_at": "2026-07-08",
+  "scanned_at": "2026-07-09",
   "projects": [
-    {
-      "project_code": "001-16",
-      "revenue": 0.0,
-      "expenses": 130.5,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 1,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "(001-16) SwiftStation"
-      ]
-    },
     {
       "project_code": "001-7",
       "revenue": 0.0,
@@ -32,38 +19,12 @@
       ]
     },
     {
-      "project_code": "043-3",
-      "revenue": 0.0,
-      "expenses": 79.92,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 2,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "[043-3] By Light Halo"
-      ]
-    },
-    {
-      "project_code": "212-2",
-      "revenue": 0.0,
-      "expenses": 929.43,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 1,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "[212-2] NASA S2 & Parts"
-      ]
-    },
-    {
       "project_code": "300-3",
       "revenue": 72000.0,
-      "expenses": 442.84,
+      "expenses": 31.31,
       "invoice_count": 1,
       "bill_count": 0,
-      "purchase_count": 2,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -86,10 +47,10 @@
     {
       "project_code": "550-1",
       "revenue": 14459.0,
-      "expenses": 0.0,
+      "expenses": 82.14,
       "invoice_count": 1,
       "bill_count": 0,
-      "purchase_count": 0,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -98,15 +59,16 @@
     },
     {
       "project_code": "_unclassified",
-      "revenue": 0.0,
-      "expenses": 680.43,
+      "revenue": 664.98,
+      "expenses": 37.0,
       "invoice_count": 0,
       "bill_count": 0,
-      "purchase_count": 4,
+      "purchase_count": 2,
       "po_count": 0,
-      "payment_count": 0,
+      "payment_count": 1,
       "qbo_class_names": [
-        ""
+        "",
+        "IRISS, CU Boulder"
       ]
     }
   ]

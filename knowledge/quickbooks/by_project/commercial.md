@@ -89,7 +89,7 @@
 ## Expenses by Cost Category
 
 ### **Materials & Supplies** (Direct Cost Material Purchases)
-**Total: $1,703.91** | 13 transactions | Largest item: $499.00
+**Total: $1,893.34** | 14 transactions | Largest item: $499.00
 
 | Date | Vendor/Description | Amount | Details |
 |------|-------------------|--------|---------|

@@ -31,7 +31,7 @@
       {
         "category": "Labor",
         "amount": 111481.0,
-        "description": "Engineering Tasks (NRE): laser configuration, AirOps updates, dual GPS RTK, 10Hz met data, firmware customization, extended endurance, manufacturability improvements, data buffering",
+        "description": "Engineering Tasks (NRE): Laser configuration updates, AirOps fields, Dual GPS RTK, 10Hz met data, firmware/comms/UI customization, extended endurance battery tweaks, manufacturability improvements, data buffering and re-transmission",
         "source_doc": null
       },
       {
@@ -43,7 +43,7 @@
       {
         "category": "Travel",
         "amount": 20852.0,
-        "description": "Clear Air Testing 2025 ($4,852), Hurricane Flights 2025 ($16,000)",
+        "description": "Clear Air Testing 2025 ($4,852) and Hurricane Flights 2025 ($16,000)",
         "source_doc": null
       }
     ],
@@ -52,13 +52,13 @@
         "amount": 551648.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-08"
+        "last_updated": "2026-07-09"
       },
       "purchases": {
         "amount": 970.76,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-07-08"
+        "last_updated": "2026-07-09"
       },
       "other_qbo": {
         "amount": 321540.76,
@@ -69,10 +69,10 @@
       "total": 874160.27,
       "by_line_item": {}
     },
-    "committed": 296.47,
-    "remaining": -742123.74,
+    "committed": 592.94,
+    "remaining": -742420.21,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-08T09:03:59Z"
+    "last_reconciled": "2026-07-09T09:03:58Z"
   },
   "milestones": [
     {
@@ -152,6 +152,6 @@
   "team": [],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-07-08T09:03:59Z",
+  "last_full_rebuild": "2026-07-09T09:03:58Z",
   "last_incremental_update": null
 }

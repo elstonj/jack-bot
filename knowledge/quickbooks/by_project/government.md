@@ -1,10 +1,10 @@
 # Government — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $4,462,176.28
-- **Total Expenses (Bills + Purchases):** $1,334,581.68
+- **Total Invoiced (Revenue):** $4,476,635.28
+- **Total Expenses (Bills + Purchases):** $1,334,695.13
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,127,594.60 (invoiced minus expenses)
+- **Net Position:** $3,141,940.15 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -12,8 +12,8 @@
 ## Revenue (Invoices & Payments)
 
 ### Summary
-- **Total Invoiced:** $4,462,176.28
-- **Total Collected (Outstanding Balance):** $3,194,865.82 remaining (invoices with open balances)
+- **Total Invoiced:** $4,476,635.28
+- **Total Collected (Outstanding Balance):** $3,209,324.82 remaining (invoices with open balances)
 - **Number of Invoices:** 76 active invoices
 
 ### Major Revenue Streams by Project
@@ -23,7 +23,7 @@
 | (400-5) SMM Phase II 22.4D | $1,699,725.00 | CLIN work (004-008): Algorithm dev, field testing, refinement; Soil Moisture Mapping |
 | [300-3] 2026 IDIQ | $720,000.00 | 6 invoices (Invoices 2-6: #1737–#1741), CLIN 1001 modification P26002 + Operational Testing & Support (#1757) |
 | [301-3] S0 Hurricane Phase II 2025 | $844,449.61 | Progress payments, platform deliveries, training & operations |
-| [550-1] Navy SBIR Magnetometer | $647,754.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750) |
+| [550-1] Navy SBIR Magnetometer | $662,213.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750: $14,459.00) |
 | [550-2] Navy STTR Hazardous Weather | $251,326.00 | Kick-off, progress, final reports & TABA; Option period progress (#1767) |
 | [200-14] Autonomy | $156,211.00 | CLIN 0001-0005, initial through final invoicing |
 | [200-11] NASA Persistence Demo | $74,428.00 | Interim & final demonstration reports |
@@ -49,7 +49,7 @@
 | **#1750** | **2026-09-28** | **$14,459.00** | **[550-1] Navy SBIR Magnetometer** | **CLIN 0007: Final Report** | **$14,459.00** |
 
 **Recent invoice total (2026-06-01 to 2026-09-28):** $300,459.00  
-**All invoices confirmed through 2026-09-28.**
+**All invoices confirmed through 2026-09-28. New total includes Invoice #1750 final.**
 
 ---
 
@@ -76,8 +76,8 @@
 
 ---
 
-### **Materials & Supplies: $474,168.40**
-**Number of transactions:** 220  
+### **Materials & Supplies: $474,220.71**
+**Number of transactions:** 222  
 
 **Key vendors & items:**
 
@@ -117,7 +117,7 @@
 
 - **Amazon MKTPL*4Z8IL5283** (2026-06-29): $34.59 [DC-Direct Material Purchases] — 64GB PNY Elite-X Fit USB 3.1 Flash Drive
 
-**Recent transactions (2026-06-24 to 2026-07-08):**
+**Recent transactions (2026-06-24 to 2026-07-09):**
 - **Purchase #0624JELSTON** (2026-06-24): 
   - $2.58 [DC-Direct Material Purchases] — By Light Supplies
   - $20.93 [DC-Direct Material Purchases] — Navy Magnetometer
@@ -149,4 +149,5 @@
 - **Purchase** (2026-07-07): **$1,446.53** [DIRECT COSTS: DC-Direct Material Purchases]
   - $15.52 [DC-Direct Material Purchases]
   - $222.22 [DC-Direct Material Purchases]
-  - **Purchase #SP128831** (2026-07-07): **$220.
+
+- **Purchase**

@@ -1,7 +1,7 @@
 # #25_1-navy-sbir-magnetometer
 
 ## Overview
-This channel is focused on Black Swift Technologies' Navy Small Business Innovation Research (SBIR) project for developing magnetometer-equipped aircraft systems. The project involves integrating QuSpin magnetometers with BST's aircraft platforms for magnetic signature detection applications (MAD - Magnetic Anomaly Detection). Key participants include Beck Cotter, Maciej, Tyler, Sam Hild, Alex Lomis, Joshua Fromm, and Jack Elston from BST, with external collaboration from QuSpin (Jeff), Ultra Maritime (Paul), Navy DEVCOM (Morris "DeSi"), Navy TPOC (Angel Ruiz-Reyes), Royal Navy contact Simon, and external consultant Eric Correa. Additional BST staff include Meredith Needham (administrative/coordination) and Dan Prendergast. Activity spans from October 2025 through July 2026, covering Phase I completion, Phase II proposal submission, kickoff, and ongoing Option period development with flight testing preparation and sensor optimization work.
+This channel is focused on Black Swift Technologies' Navy Small Business Innovation Research (SBIR) project for developing magnetometer-equipped aircraft systems. The project involves integrating QuSpin magnetometers with BST's aircraft platforms for magnetic signature detection applications (MAD - Magnetic Anomaly Detection). Key participants include Beck Cotter, Maciej, Tyler, Sam Hild, Alex Lomis, Joshua Fromm, and Jack Elston from BST, with external collaboration from QuSpin (Jeff), Ultra Maritime (Paul), Navy DEVCOM (Morris "DeSi"), Navy TPOC (Angel Ruiz-Reyes), Royal Navy contact Simon, Lockheed Martin UK (LMUK), and external consultant Eric Correa. Additional BST staff include Meredith Needham (administrative/coordination) and Dan Prendergast. Activity spans from October 2025 through July 2026, covering Phase I completion, Phase II proposal submission, kickoff, and ongoing Option period development with flight testing preparation and sensor optimization work.
 
 ## Key Decisions
 
@@ -58,15 +58,5 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 
 **July 2026:**
 - QuSpin firmware update approach: Decided to send QuSpin sensor back to manufacturer for firmware update and QC check rather than conducting testing in current "noisy mode" (July 7-8, 2026). Rationale: Quick turnaround expected from vendor for firmware update and configuration optimization, preferable to testing with known suboptimal settings.
-
-## Projects & Initiatives
-
-**Phase I (Completed January 2026):**
-- Status: Final Report and TABA successfully submitted January 11-12, 2026
-- Payments: Final $20k payment received
-- Technical achievements: Magnetic noise target of ~30 pT RMS (half Navy requirement of 3 pT/sqrt(Hz))
-
-**Phase II (April 2026 - ongoing):**
-- Budget: $1.4M over 30 months
-- Proposal submitted March 27, 2026 (one day extension)
-- Contract
+- Royal Navy Q2 2027 helicopter drop specs: Open to all S0 options (S0-weather, S0-MAD, or S0 with onboard camera); would be dropped over ocean near airbase, ground-controlled initially (similar to C-130 setup), and recovered at airfield. Onboard video recording requested as marketing tool for project expansion (July 8, 2026)
+- Royal Navy long-term pricing target: $10K per unit for quantity 100+ orders to facilitate integration into operations (July 

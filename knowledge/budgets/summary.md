@@ -3,59 +3,44 @@
 ## Active Project Budgets
 
 ### Project 018-1: Murphy's Pond CH4 Monitoring
-| Field | Details |
-|-------|---------|
-| **Project Code** | 018-1 |
-| **Client** | Murray State University |
-| **Contract Value** | $88,862.94 |
-| **Contract Type** | Service contract (drone-based greenhouse gas measurement) |
-| **Period of Performance** | 3 field campaigns in 2026 (May, July, August) |
-| **Scope** | CH4, CO2, and H2O measurements over 5 km × 5 km area, Murphy's Pond, Hickman County, KY |
+- **Project Code:** 018-1
+- **Client:** Murray State University
+- **Total Contract Value:** $88,862.94
+- **Contract Type:** Service contract (drone-based environmental measurement)
+- **Period of Performance:** 3 field campaigns in 2026 (May, July, August)
+- **Scope:** CH4, CO2, and H2O measurements over 5 km × 5 km area above Murphy's Pond, Hickman County, KY
+- **Budget Status:** Active planning phase; internal budget drafted 12/16/2024
+- **Key Personnel Allocated:**
+  - Jack Elston (Principal Investigator): 96 hours @ $150/hr + 29.28% fringe = $18,616
+  - Maciej Stachura (Flight Ops & Data Processing): 96 hours @ $150/hr (fringe calculation incomplete in source document)
 
-**Budget Status:** In planning phase; internal budget breakdown initiated (dated 12/16/2024)
-
----
-
-## By Funding Source
-
-| Agency/Client | Total Funded |
-|---------------|-------------|
-| Murray State University | $88,862.94 |
-| **TOTAL** | **$88,862.94** |
+**Financial Health Note:** Contract value finalized per Quote MUR-228S-25. Personnel hours and fringe rates documented; full personnel budget breakdown incomplete in provided data.
 
 ---
 
-## By Contract Type
+## Unassigned/Portfolio-Level Data
 
-| Contract Type | Project Count | Total Value |
-|---------------|---------------|-------------|
-| Service Contract (Field Measurement) | 1 | $88,862.94 |
-| **TOTAL** | **1** | **$88,862.94** |
+### Large Portfolio of Budget Documents Identified
+- **Document Count:** 1,181 budget documents
+- **Funding Sources:** NASA, NOAA, DoD, and other federal agencies
+- **Project Status Mix:** Active, Proposals, Completed/Inactive
+- **Organization Method:** By funding source and project stage
 
----
-
-## Financial Health Indicators
-
-### Project 018-1 Status
-- ✓ **Contract finalized** with Quote MUR-228S-25
-- ✓ **Internal budget in development** (BST_Budget_Murphy'sPond document shows personnel allocation breakdown)
-- ⚠ **Budget detail incomplete** — Personnel breakdown initiated but document appears truncated (Maciej Stachura hours/rate incomplete)
-- 📅 **Near-term milestone:** Field campaigns begin May 2026
-
-### Budget Concerns
-- **None identified at this stage** — contract is in pre-execution phase with adequate lead time
+### NASA—AREN (Aeropods Commercial) — MiniCam Project
+- **Status:** Preliminary commercial product costing analysis
+- **Document Date:** February 2026 (modified 3/4/2026)
+- **Stage:** Preliminary cost analysis phase
+- **Note:** Detailed unit cost breakdown referenced but incomplete in provided data excerpt
 
 ---
 
-## QuickBooks Integration Notes
+## Summary of Data Gaps
 
-- **Project 018-1:** Drive-only documentation at present
-  - Source: Internal budget spreadsheet (BST_Budget_Murphy'sPond, dated 12/16/2024)
-  - Status: No QuickBooks reference found in current documents
-  - Action: Recommend QB setup prior to May 2026 field campaign start to track actual labor, equipment, and travel spend against $88,862.94 contract value
+⚠️ **Significant documentation exists but requires full review:**
+- 1,181 budget documents remain unindexed by project code
+- Project 018-1 personnel budget incomplete (Maciej Stachura hours cost not fully calculated)
+- MiniCam cost breakdown data truncated
+- No QuickBooks integration data provided
+- No consolidated funding source summary yet available
 
----
-
-## Summary
-
-**Single active project with $88,862.94 in contracted value.** Financial planning is underway; full internal budget documentation should be completed before project execution begins in 2026.
+**Recommendation:** Complete review of the 1,181 unassigned documents needed to establish comprehensive financial overview by project code, funding source, and contract type.

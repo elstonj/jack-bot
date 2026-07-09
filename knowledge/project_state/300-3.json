@@ -12,73 +12,44 @@
     "contacts": []
   },
   "contract": {
-    "type": "fixed_price",
-    "number": "1305M226D0012",
+    "type": "unknown",
+    "number": null,
     "total_value": 483000.0,
-    "start_date": "2026-02-01",
-    "end_date": "2031-01-31",
-    "payment_cadence": "annual ordering periods with fixed unit pricing",
-    "documents": [
-      "drive://Budget Structure",
-      "drive://(1305M226D0012) Attachment 1-Specifications_Black Swift.pdf",
-      "drive://(1305M226D0012) Attachment 2-Schedule of Items and Prices_1305M226D0012.pdf"
-    ]
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "payment_cadence": null,
+    "documents": []
   },
   "budget": {
-    "approved": 13281750.0,
-    "approved_source": "sow_drive",
-    "line_items": [
-      {
-        "category": "Equipment",
-        "amount": 10981250.0,
-        "description": "Black Swift S0 sUAS Platforms: 150 units @ $18,000 (Yr1) + 150 @ $18,630 (Yr2) + 125 @ $19,282 (Yr3) + 125 @ $19,957 (Yr4) + 125 @ $20,655 (Yr5)",
-        "source_doc": null
-      },
-      {
-        "category": "Labor",
-        "amount": 1287500.0,
-        "description": "Operations and Training Support Services across five years: Mission Days (30 @ $2,850 per year), Operational/Testing Support (6 @ $6,000 per year), Operator/Observer Training (1 @ $6,000 per year), Instructor Training (1 @ $600 per year)",
-        "source_doc": null
-      },
-      {
-        "category": "Other",
-        "amount": 60000.0,
-        "description": "Course Development: Operator and Observer Course Development (1 @ $6,000 per year) + Instructor Training Course Development (1 @ $6,000 per year)",
-        "source_doc": null
-      },
-      {
-        "category": "Travel",
-        "amount": 250000.0,
-        "description": "Travel for Operational Support: 1 Line of Effort NTE $50,000 per year for 5 years",
-        "source_doc": null
-      }
-    ],
+    "approved": 483000.0,
+    "approved_source": "asana_custom_field",
+    "line_items": [],
     "spent": {
       "labor": {
-        "amount": 147091.25,
+        "amount": 149560.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-08"
+        "last_updated": "2026-07-09"
       },
       "purchases": {
         "amount": 970.76,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-07-08"
+        "last_updated": "2026-07-09"
       },
       "other_qbo": {
-        "amount": 442.84,
+        "amount": 31.31,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-07-08"
+        "last_updated": "2026-07-09"
       },
-      "total": 148504.85,
+      "total": 150562.07,
       "by_line_item": {}
     },
-    "committed": 296.47,
-    "remaining": 13132948.68,
+    "committed": 592.94,
+    "remaining": 331844.99,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-08T09:03:26Z"
+    "last_reconciled": "2026-07-09T09:03:54Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -128,6 +99,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-07-08T09:03:26Z",
+  "last_full_rebuild": "2026-07-09T09:03:54Z",
   "last_incremental_update": null
 }
