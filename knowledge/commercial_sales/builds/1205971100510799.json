@@ -65,8 +65,8 @@
   },
   "notes": "Two S0 VTOL units with ground station and tablet for ISARRA Flight Week campaign (August/September 2026). Invoice 1667 ($21,181.81) paid 2026-05-21. Build in QC per Slack (2026-07-03). Jack Elston confirmed August delivery target aligns with ISARRA planning; Kevin Adkins approved plan (2026-05-21). Beck reported flight-testing ongoing to resolve tracking bug (2026-03-17). Parts remain ordered but not yet received. Expected delivery to ISARRA site in summer 2026.",
   "missing_fields": [
-    "parts: delivery confirmation for all components",
-    "ship_state: shipping arrangement pending"
+    "shipped_date",
+    "ship_state confirmation"
   ],
   "last_evidence_date": "2026-07-03",
   "last_contact_date": "2026-05-21"

@@ -1,102 +1,84 @@
 # Josh Fromm — Email Patterns (UPDATED)
 
 ## Communication Volume
-- **Total messages scanned:** 1,800 emails (1,767 prior + 33 from July 8–9, 2026)
-- **Date range:** May 18–July 9, 2026
-- **Daily average:** ~15–17 emails/day (human correspondence); automated/logistics/procurement/travel volume **remains dominant**
-- **Unread messages:** ~1,450+ unread (automated/logistics/manufacturing/promotions continuing at high volume)
-- **New data period (July 8–9, 2026 — 33 additional emails):**
-  - **Human correspondence:** 3 emails (9%) — VertIQ technical follow-up (Chance Rogers), NOAA delivery planning coordination (Jack Elston → Nick Underwood), Gemini meeting notes
-  - **Automated/Logistics/Procurement/Manufacturing/Travel/Promotions/Newsletters:** 30 emails (91%) — **DHL shipment tracking surge (8x duplicate/sequential notifications for tracking 8614299702 on Jul 9 alone); McMaster-Carr receipts (2x Jul 7–9); vendor promotions (ProtoSpace, Harbor Freight, Rock West Composites, Luxonis, Future Electronics, Czero, AliExpress, Battery Junction); shipment notifications (Driftaway Coffee); task management (Asana); USPS tracking**
+- **Total messages scanned:** 1,837 emails (1,800 prior + 37 from July 9–10, 2026)
+- **Date range:** May 18–July 10, 2026
+- **Daily average:** ~15–17 emails/day (human correspondence); automated/logistics/procurement/travel volume remains dominant
+- **Unread messages:** ~1,480+ unread (automated/logistics/manufacturing/promotions continuing at sustained high volume)
+- **New data period (July 9–10, 2026 — 37 additional emails):**
+  - **Human correspondence:** 3 emails (8%) — Krateo Sky critical system check (Roger Riley), JawsTec manufacturing order delay alert (Briana Gonzalez), case customization vendor response (Foster Hill/MM Solutions)
+  - **Automated/Logistics/Procurement/Manufacturing/Travel/Promotions/Newsletters:** 34 emails (92%) — **SendCutSend delivery confirmations (2x Jul 9); JawsTec invoice/order confirmations (2x Jul 9); Amazon shipments (3x including FNIRSI power supply, DC components); DHL import duty alert (Jul 9); Driftaway Coffee order + loyalty points (Jul 9); Rock West Composites cash sale (Jul 9); AliExpress engagement (3x); vendor promotions (Harbor Freight, Budget, Expedia, Hilton Honors, HeliDirect, Spindrift); tracking notifications (USPS); task management (Asana); industry newsletters (LightWare LiDAR, UAS Vision, Future Electronics)**
 
 ---
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-1. **Jack Elston** (elstonj@blackswifttech.com) — Purchasing lead; **NOAA coordination continues Jul 8 (11:59 UTC responding to Nick Underwood Re: Delivery Planning, P3 Questions); primary escalation point for government project execution**
+1. **Jack Elston** (elstonj@blackswifttech.com) — Purchasing lead; NOAA coordination (no new activity Jul 9–10); primary escalation point for government project execution
 
-2. **Meredith Needham** (meredith.needham@blackswifttech.com) — Procurement team lead; receiving bulk promotional emails (Bulk Container Express, Driftaway Coffee reference); continued logistics coordination role (referenced in prior activity)
+2. **Meredith Needham** (meredith.needham@blackswifttech.com) — Procurement team lead; referenced as recipient on HeliDirect vendor communications (Jul 9)
 
-3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — (No new activity Jul 8–9)
+3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **NEW ACTIVITY: Jul 9 co-recipient with Josh Fromm on Krateo Sky critical system check (Roger Riley); indicates involvement in S0 platform component validation**
 
-4. **Alex Lomis** (alex.lomis@blackswifttech.com) — (No new activity)
-
-5. **Beck Cotter** (beck.cotter@blackswifttech.com) — (No new activity)
-
-6. **Sam Hild** (sam.hild@blackswifttech.com) — (No new activity)
-
-7. **Ethan Domagala** (ethan.domagala@blackswifttech.com) — (No new activity)
+4. **Alex Lomis, Beck Cotter, Sam Hild, Ethan Domagala** — (No new activity)
 
 ### Top External Contacts
 
-#### **Government/Military/Research (SUSTAINED EXECUTION PHASE)**
-- **Nick Underwood** (nicholas.underwood@noaa.gov) — NOAA Federal; **Direct correspondence with Jack Elston Jul 8 (10:40 UTC) Re: Delivery Planning, P3 Questions — responding to Jack's earlier message; indicates active bilateral coordination on NOAA project execution**
+#### **Strategic Partners & Vendors (CRITICAL SYSTEM VALIDATION)**
+- **Roger Riley** (roger@krateosky.com) — Krateo Sky; **CRITICAL: Jul 9 (18:38 UTC) "Black Swift S0 Critical System/Component Check" [IMPORTANT] sent to Daniel Prendergast + Josh Fromm — indicates active system-level component evaluation/validation for S0 platform; time-sensitive technical engagement**
 
-- **Laura Rock, Joe Cione, Nikolai Pawlenko, Jun Zhang, Annette Hollingshead, Josh Wadler** — (No new activity in Jul 8–9 period; prior activity continues to be primary NOAA coordination channel)
+- **Chance Rogers** (chance.rogers@vertiq.co) — VertIQ (no new activity Jul 9–10; prior motor/propulsion integration ongoing)
 
-- **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — UK MOD (no new activity)
+#### **Manufacturing & Custom Fabrication (SUSTAINED PIPELINE)**
+- **JawsTec Manufacturing LLC** — **ESCALATION: Jul 9 (18:59, 19:04, 21:13 UTC) Order #69825 placed; payment request invoice; Briana Gonzalez (briana@jawstec.com) [IMPORTANT] flags "Possible order delay" (21:14 UTC) — indicates critical manufacturing order at risk; requires immediate attention**
 
-- **Evan M. Wolff** (evan.m.wolff.mil@socom.mil) — USSOCOM (no new activity)
+- **SendCutSend** — **2x delivery confirmations Jul 9: In-transit notification (19:22 UTC, order SF311738); delivered notification (20:05 UTC); indicates continued custom fabrication for structural/mechanical components**
 
-#### **Strategic Partners & Vendors (STEADY TECHNICAL ENGAGEMENT)**
-- **Chance Rogers** (chance.rogers@vertiq.co) — **VertIQ; Jul 8 Re: 23-14 updates (14:59 UTC) IMPORTANT — direct technical correspondence continuing; motor/propulsion integration discussion ongoing**
+- **Rock West Composites** — **Jul 9 (09:46 UTC) Cash Sale #CS013200 from Adriana Smith; indicates active material procurement (composites/structural components)**
 
-- **George Kusaba** (george.kusaba@amprius.com) — Amprius (no new activity in Jul 8–9)
+- **Foster Hill / MM Solutions** (fhill@mmsolutions.biz) — **Jul 9 (16:38 UTC Josh sends; 22:47 UTC Foster responds) [IMPORTANT, CAUTION: SUSPECT SENDER flagged] "Re: Case customization question for Black Swift" — indicates ongoing enclosure/case design/customization engagement; FLAG: sender marked as suspect by email system (verify legitimacy)**
 
-- **Roger Riley** (roger@krateosky.com) — Krateo Sky (no new activity in Jul 8–9)
+#### **Government/Military/Research**
+- **Nick Underwood, Laura Rock, Joe Cione, etc.** (NOAA) — (No new activity Jul 9–10; NOAA execution phase continues)
+- **Simon Laurence** (UK MOD), **Evan M. Wolff** (USSOCOM) — (No new activity)
 
-- **Kyle Nadon** (KNadon@amphenol-sine.com) — Amphenol-Sine (no new activity)
+#### **Component Suppliers & Vendors (SUSTAINED OPERATIONAL PROCUREMENT)**
 
-- **Thomas Cooke** (Thomas@mksservosusa.com) — MKS Servos USA (no new activity)
+**Critical Shipment & Delivery Activity:**
+- **DHL Express** — **ALERT: Import Duty Payment Alert (Jul 9, 09:06 UTC); Shipment Notification 8614299702 (Jul 9, 17:20 UTC) — combined with prior Jul 9 8x duplicate notifications indicates international shipment with customs/duty implications; tracking shows system repeated alerts suggesting system glitch or delivery urgency flag**
 
-#### **Manufacturing, Logistics & Component Suppliers (OPERATIONAL SURGE CONTINUES)**
+- **SendCutSend** — 2x confirmations (in-transit + delivered) for custom order; active fabrication pipeline
 
-**Shipment Tracking — CRITICAL ESCALATION:**
-- **DHL Express** — **ALERT: 8x duplicate/sequential shipment notifications for tracking number 8614299702 on Jul 9 alone (13:12–16:10 MYT); indicates potential delivery issue, system glitch, or high-priority time-sensitive shipment requiring repeated status updates. This is abnormal volume for single tracking ID. Likely critical component or system in active delivery pipeline.**
+- **JawsTec Manufacturing** — Order #69825 with flagged delivery risk (see escalation above)
 
-**Active Manufacturing & Component Orders:**
-- **McMaster-Carr** — **2x receipt confirmations Jul 7–9 for July 7th orders (02:30 UTC Jul 9; 17:15 UTC Jul 8); indicates sustained procurement of industrial/mechanical components; frequency consistent with prior week patterns**
+**Active Electronics & Component Orders:**
+- **Amazon (via Purchasing)** — **3x shipment confirmations Jul 10 + Jul 9:**
+  - FNIRSI DWS-200 200W power supply (2 units; Jul 10, 01:57 UTC)
+  - Maxmoral 3PCS DC-099 DC components (ordered Jul 9 18:59 UTC; shipped Jul 10 04:39 UTC)
+  - SanDisk 32GB 3-pack (shipped Jul 9 15:59 UTC)
+  - Promotional credit issued (Jul 10, 01:56 UTC)
 
-- **Amazon.com (via Purchasing)** — **Order activity Jul 8: Approval required notification (14:01 UTC); Item cancellation (64GB PNY Elite-X USB drive, 14:47 UTC); SanDisk 32GB 3-pack order confirmation (16:08 UTC); indicates active data storage procurement and order management iteration**
+- **Rock West Composites** — Cash Sale #CS013200 (Jul 9); material procurement
 
-- **Rock West Composites** — **Promotional engagement Jul 8 (14:34 UTC via Purchasing) "We picked these just for you"; indicates supplier relationship with potential composite/material component sourcing**
+- **AliExpress** — **3x engagement Jul 10 + Jul 9:**
+  - "Hi, Jack Elston, we saved it" (Jul 9, 15:20 UTC via Purchasing — note: addressed to Jack Elston but routed to Josh's purchasing account; indicates shared component cart or cross-team procurement)
+  - "Free gifts for you, Joshua.Fromm" (Jul 10, 13:46 UTC direct)
+  - "Good choice, your faves await!" (Jul 10, 05:34 UTC)
+  - **Pattern:** Sustained low-cost electronics/component sourcing channel
 
-- **ProtoSpace (ProtoCASE)** — **Jul 8 (19:53 UTC) promotional email marked IMPORTANT: "Not all color combinations work" — suggests active design/prototyping engagement; custom enclosure or structural component design iteration**
+- **HeliDirect** — Jul 9 (20:06 UTC) "New Goosky E2 Marine Scheme | July Coupons" sent to Meredith Needham (purchasing); vendor relationship awareness
 
-- **Craftcloud** (via Purchasing) — **Jul 8 (14:01 UTC) "Explore Our Technology Options For Your Next Project"; on-demand manufacturing platform; indicates exploration of fabrication alternatives**
+- **LightWare** (hello@lightwarelidar.com) — **Jul 9 (06:45 UTC) "LiDAR sourcing is becoming part of platform compliance" [UPDATES] — strategic sensor integration topic; indicates LiDAR component discussion underway**
 
-- **Luxonis** (via Purchasing) — **Jul 8 (18:55 UTC) "Big news: Our Series A, and what's coming next!"; vision sensor/camera system vendor; strategic partnership awareness**
+- **Future Electronics** — Jul 9 (11:18 UTC) "Engineer connected transportation solutions" [PROMOTIONS]; component distributor relationship
 
-- **Future Electronics News** — **Jul 8 (11:34 UTC) "The parts you need for your next project" (marked PROMOTIONS); component distributor relationship**
+**Logistics & Fulfillment:**
+- **Driftaway Coffee** — **Jul 9 (23:02 + 23:03 UTC) Order #DR32058COF confirmed + loyalty points earned — office supplies/team morale; recurring engagement pattern**
 
-- **Battery Junction** (via Purchasing) — **Jul 8 (13:01 UTC) "Save On High-Performance Ultralife CR123As!"; power system component sourcing**
+- **USPS Informed Delivery** — Jul 9 daily digest (tracking/delivery management)
 
-- **Harbor Freight** (2x Jul 8) — **Store Manager coupon (20:28 UTC); promotional engagement (13:38 UTC); tools/equipment purchasing channel**
+- **Budget Car Rental** — Jul 9 (18:07 UTC) "Double Deal" promotion
 
-- **AliExpress** — **Jul 8 (18:17 CST) "Free welcome gift"; alternate component sourcing (likely low-cost electronics/components)**
+- **Expedia.com** — Jul 9 (14:50 UTC, 15:09 UTC) travel booking promotions; business travel platform
 
----
-
-## Topic Patterns
-
-### Project/Technical Codenames
-- **23-14** (VertIQ motor/propulsion integration — Chance Rogers correspondence)
-- **S439K456, SP128831** (SendCutSend orders — prior period; custom fabrication tracking)
-- **#50873** (uAvionix ticket — pingRX Pro backorder escalation — ongoing)
-
-### Recurring Themes
-- **NOAA Delivery Planning & P3 Questions** — Government/research project execution (primary focus)
-- **BOM (Bill of Materials) discussions** — Krateo Sky partnership technical engagement
-- **Component backorder management** — uAvionix (critical), motor systems (VertIQ)
-- **Custom fabrication & prototyping** — SendCutSend, ProtoSpace, Craftcloud
-- **Data storage & electronics components** — McMaster-Carr, Amazon, Battery Junction, Future Electronics
-- **Vision systems** — Luxonis awareness
-- **Composite/structural materials** — Rock West Composites
-
----
-
-## Communication Patterns
-
-### Time Patterns
-- **NOAA coordination:** Early morning UTC (08:40–12:00 UTC), consistent with government working hours and
+- **Hilton Honors** — Jul 9 (21:29 UTC) [IMPORTANT] "$0 intro annual fee for the first year, then $150 + 130,000 Points" — credit card offer (indicates travel

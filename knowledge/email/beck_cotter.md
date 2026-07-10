@@ -1,70 +1,94 @@
 # Beck Cotter — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 106 emails (73 initial + 33 new)
+- **Total messages scanned:** 136 emails (106 initial + 30 new)
 - **Date range:** 5–9 July 2026
-- **Volume pattern:** Heavy activity Wed 8 Jul (21 emails in new batch); lighter on Thu 9 Jul (2 substantive emails)
-- **Estimated daily volume:** 15–20 emails on active days; Wednesday peak suggests meeting/decision day clustering
+- **Volume pattern:** Heavy activity Wed 8 Jul (21 emails); Thursday 9 Jul shows sustained but lighter activity (8 substantive threads + automated/noise); indicates mid-week decision clustering with follow-through Thursday
+- **Estimated daily volume:** 15–20 emails on active days; peak Wednesday; Thursday continuation suggests multi-day project momentum
 
 ## Key Correspondents
 
 ### Top Internal Collaborators
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 25+ threads; primary technical lead across SAL-C, AE27, academic partnerships, and Murphy's Pond; direct question/answer exchanges; forwards strategic materials to him
-- **Jack Elston** (elstonj@blackswifttech.com) — 18+ threads; sales pipeline, government contracting (AE27, USSOCOM), Krateo Sky hiring/staffing coordination; receives forwarded interview requests and customer inquiries
-- **Maciej Stachura** (stachura@blackswifttech.com) — 9+ threads; operations, sensor evaluation (UAS-MAG), supplier coordination; receives Krateo Sky customer inquiries
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — 12+ threads; business development pipeline, DCAA audit coordination, conference planning; BCCs on government correspondence
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 25+ threads; primary technical lead across SAL-C, AE27, academic partnerships (Murphy's Pond); now visible directing Murray State University coordination; forwards strategic materials; receives status questions
+- **Jack Elston** (elstonj@blackswifttech.com) — 18+ threads; sales pipeline, government contracting (AE27, USSOCOM), Krateo Sky hiring; now forwarding government supplier platform alerts (LYNX IBG); receives TCE 26.2 meeting notifications
+- **Maciej Stachura** (stachura@blackswifttech.com) — 9+ threads; operations, sensor evaluation (UAS-MAG), supplier coordination; receives Navy meeting invitations (TCE 26.2 Bi-Weekly Synch); visible on government correspondence
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — 12+ threads; now confirmed as DCAA audit coordinator (Christy Evans routing audit updates to her directly Thu 14:45 & 14:57); business development, compliance
 
 ### Top External Contacts
-- **US Navy / NORAD / USSOCOM / DCAA** — **ELEVATED**: Now including active DCAA audit correspondence; key contacts:
-  - **Alexandra N. Wilcox (DCAA AIR)** (alexandra.n.wilcox.civ@mail.mil) — direct 2-way exchange on N251-016 Navy contract audit; coordinates with Navy personnel (Kracinovich, Marinelli)
-  - **Donna M. Kracinovich** (Navy CIV) — DCAA audit stakeholder
-  - **Dina M. Marinelli** (Navy CIV USN) — DCAA audit stakeholder; direct recipient of government correspondence
-  - AE27 program continues as active track
-- **SMK1.systems** (SMK1.systems@proton.me) — 9+ threads; **SAL-C decision imminent**: Wednesday call completed, follow-up technical questions received same day (Wed 17:59 UTC); indicates active evaluation phase post-meeting
-- **Krateo Sky** — **NEW ELEVATED**: Staffing/hiring coordination visible; Jack Elston shares "Krateo Sky Reqs" folder (Google Drive); Ariel Avitan (ariel@krateosky.com) receives check-in scheduling request (Wed 14:48); indicates deeper operational engagement beyond reseller relationship
-- **SRI International (Stanford Research Institute)** — **NEW**: Ryan Nesselrodt (ryan.nesselrodt@sri.com) sends interview request response; indicates business development or partnership inquiry
-- **Reliascent** — **NEW**: Christy Evans (cevans@reliascent.com) coordinates DCAA audit support; appears to be compliance/audit services contractor
-- **Lockheed Martin (LMCo)** — MAD UAV partnership continues (not visible in new batch but ongoing)
-- **Bartington Instruments** — Tom Simcox; UAS-MAG Dronecan compass evaluation (Maciej forwarding Wed 19:58)
-- **Murray State University** — Bassil El Masri; Murphy's Pond Flight #4 CO2/CH4 data collection (active follow-up)
-- **UC Santa Cruz** — J. Xavier Prochaska; reconnection thread (Prendergast managing Wed 15:56)
 
-### Mailing Lists & Automated
-- **Asana** — Meredith Needham mention reminder (Wed 22:32)
-- **UASweekly Daily Newsletter** (Wed 21:02)
-- **FLARM Technology AG** — newsletter (Wed 17:01)
-- **Google Flights** — tracked flight alerts (Denver to Sint Maarten, Thu 9 Jul 00:12) — **travel planning signal**
-- **Google Sheets** — "2026 BST Conferences" spreadsheet shared by Paige Smith (Wed 19:34)
-- **Google Drive** — Jack Elston shares "Krateo Sky Reqs" folder; folder tag indicates staffing/hiring coordination
-- **anovIP (India)** — **NOISE**: Forum/newsletter email (unread, likely auto-subscribed)
+**Government (ELEVATED — Active Operational Engagement)**
+- **US Navy NAWCAD (Naval Air Warfare Center Aircraft Division)**
+  - **Angel R. Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil) — **NEW/ELEVATED**: Direct 2-way correspondence; hosts "TCE 26.2 Bi-Weekly Synch" meeting (Thu 16:33); invited Jack Elston & Maciej; coordinates with Anthony Brescia; indicates active program review/sync cadence
+  - **Anthony D. Brescia** (anthony.d.brescia.civ@us.navy.mil) — TCE 26.2 co-recipient; Navy NAWCAD CIV
+- **DCAA (Defense Counterintelligence and Security Agency)**
+  - **Alexandra N. Wilcox** (alexandra.n.wilcox.civ@mail.mil) — Continues active 2-way exchange on N251-016 Navy contract audit; Thu 16:12 incoming + Thu 09:05 Beck response; persistent correspondence indicates audit in active phase
+- **DIU (Defense Innovation Unit)** (info@diu.mil) — **NEW**: Thu 18:30 solicitation alert; appears to be monitoring government contracting pipeline
+
+**Commercial/Integrator Partnerships**
+- **Krateo Sky** — **ELEVATED ENGAGEMENT**: 
+  - **Ariel Avitan** (Ariel@krateosky.com) — Thu ongoing check-in scheduling; Thu 13:12 response to Beck's Thu 09:08 send; indicates weekly/bi-weekly recurring sync cadence being established; business relationship deepening
+- **Supercool Earth** — 
+  - **Dacia Leon** (dacia@supercool-earth.com) — Thu 13:10 "Drone Inquiry" response; continues drone opportunity pipeline
+- **Reliascent** (Audit Services)
+  - **Christy Evans** (cevans@reliascent.com) — **ELEVATED ROUTING**: Now BCCing Meredith Needham on audit coordination emails (Thu 14:45, 14:57); indicates formal audit support engagement; direct Beck coordination + administrative escalation pattern
+- **Bartington Instruments**
+  - **Tom Simcox** (tom.simcox@bartington.com) — UAS-MAG Dronecan compass technical response (Thu 13:13); component supplier track continues
+
+**Academic**
+- **Murray State University**
+  - **Bassil El Masri** (belmasri@murraystate.edu) — **INTENSIFIED**: Multi-party correspondence Thu morning (09:38, 10:56, 11:50, 12:54, 12:55, 16:33); Murphy's Pond #4 CO2/CH4 data collection active; Daniel Prendergast + Beck both engaged; suggests field operation coordination or data delivery/schedule discussion
+
+### Automated/Mailing Lists/Noise (New Thursday Activity)
+- **LYNX Connect / OSBP Webinars** (zoomgov.com, lynxconnect.io) — **NEW**: Thu 21:54 verification code + LYNX Industry confirmation; indicates Beck signing up for "Introduction to LYNX for Industry" webinar; relates to Jack's LYNX IBG Platform forwarding (see below)
+- **Defense Innovation Unit Solicitations** — Thu 18:30; monitoring channel
+- **WGI Insurance** (austin.micci@wgiinsurance.com) — **NOISE**: Thu 20:55 drone fleet insurance pitch
+- **Internal Sales/Unsubscribe Activity** — Thu 15:18 unsubscribe confirmation from sales+ channel; Thu 08:18 Google Groups unsubscribe; indicates housekeeping/notification management
 
 ## Topic Patterns
 
-### Primary Projects/Programs (Elevated Priority)
-- **SAL‑C (Autonomy Safety Engine)** — **DECISION PHASE**: Wednesday 10:30–11:30am call completed; follow-up technical "Question" from SMK1.systems received Wed 17:59 UTC (post-call); indicates scope clarification or technical deep-dive continues; executive summary + technical teaser prepared and sent pre-call
-- **AE27 Black Swift UAS (Government Program)** — **ACTIVE**: Daniel Prendergast confirms "Where are we now?" status to Jack Elston (Wed 09:22); DCAA audit coordination suggests contract/proposal advancement; Navy stakeholders (Marinelli, Kracinovich) actively engaged
-- **N251-016 Navy Contract** — **COMPLIANCE PHASE**: DCAA audit on behalf of this contract; Beck coordinating directly with Alexandra Wilcox (DCAA AIR); Reliascent (Christy Evans) providing audit support; multiple back-and-forths Wed 8 Jul (12:03, 14:51, 15:00, 15:37, 20:54, 21:31); indicates active audit in progress or imminent
+### Primary Projects/Programs (Sustained/Elevated)
 
-### Secondary Projects
-- **Murphy's Pond #4 (CO2/CH4 Data Collection)** — Murray State follow-up (Prendergast sends Wed 14:51; Bassil El Masri responds Wed 21:02); active environmental measurement campaign
-- **UAS-MAG / Dronecan Compass** — Bartington Instruments sensor evaluation (Maciej forwarding technical response Wed 19:58); component integration track continues
-- **Krateo Sky Staffing / Hiring** — **NEW FOCUS**: Jack Elston coordinates engineering requisitions; shares "Krateo Sky Reqs" folder with Beck (Wed 17:04 UTC); indicates BST involvement in Krateo hiring pipeline or staffing support
+**SAL-C (Autonomy Safety Engine)**
+- Previous Wednesday call (10:30–11:30am) completed with SMK1.systems
+- Follow-up technical engagement continues
+- Status: **Decision/negotiation phase continues**
 
-### Supplier/Component/Partnership Discussions
-- **Krateo Sky** — reseller/integrator; Blue List drone options; now showing staffing coordination (computer vision engineer, frontend software engineer positions visible)
+**AE27 Black Swift UAS (Government Program)**
+- Visible on Jack Elston TCE 26.2 meeting forward (Thu 15:48); broader context emerging
+- Status: **Active pipeline, government stakeholder engagement**
 
-## Communication Patterns
+**N251-016 Navy Contract (DCAA Audit)**
+- **THURSDAY CONTINUATION**: Alexandra Wilcox Thu 16:12 inbound + Beck Thu 09:05 response shows audit coordination ongoing across week boundary
+- Christy Evans (Reliascent) now formally coordinating with Meredith Needham (Thu 14:45, 14:57)
+- Status: **Active audit phase, multi-stakeholder coordination**
 
-### Time Patterns
-- **Wednesday 8 Jul: Heavy clustering** — 21 new emails concentrated Wed morning (08:51–15:37 MDT) + evening (19:31–22:32 UTC); indicates coordination day with multiple meetings and follow-ups
-- **Meeting aftermath pattern** — SAL-C call (Wed 10:30–11:30am); technical follow-up question arrives same day (Wed 17:59 UTC); suggests post-call questions/scope refinement
-- **Government correspondence compressed timing** — DCAA audit emails exchange 5 times in 9.5 hours (Wed 12:03–21:31); rapid back-and-forth with Alexandra Wilcox and Navy personnel
-- **Thursday 9 Jul: Light activity** — Only 2 substantive sends; suggests post-Wednesday wind-down
+**TCE 26.2 (NEW/ELEVATED)**
+- **NEW PROGRAM VISIBLE**: Angel Ruiz-Reyes (Navy NAWCAD) hosts "TCE 26.2 Bi-Weekly Synch meeting" Thu 16:33
+- Invited: Beck, Jack Elston, Maciej Stachura
+- Subject line "FW: TCE 26.2" suggests forwarded government notification/brief
+- Status: **Active bi-weekly program review cadence established**
 
-### Meeting Scheduling Confirmed
-- **Wed 8 Jul 10:30–11:30am (MDT)** — SMK1.systems SAL-C call (completed; Prendergast attended)
-- **Wed 8 Jul 3:00–3:30pm (MDT)** — BlackSwift/Supercool Earth meeting (from prior data; not visible in new batch)
+**Murphy's Pond #4 (CO2/CH4 Data Collection)**
+- **INTENSIFIED**: 6 emails Thu morning (09:38–12:55) between Bassil El Masri, Daniel Prendergast, Beck
+- Coordinate timing & email volume suggest:
+  - Field operation in progress OR
+  - Data delivery/schedule critical path item
+- Status: **Active academic partnership, potential scheduling/logistics coordination**
 
-### Email Behavior
-- **Government protocol compliance** — direct correspondence with DCAA (alexandra.n.wilcox.civ@mail.mil); includes Navy CIV personnel on CC; draft email (Wed 15:37) forwarded to Meredith Needham for coordination; indicates compliance-aware handling
-- **Rapid escalation forwarder** — forwards interview requests to Jack Elston + Prendergast + Maciej within minutes (Wed 08:56); distributes Krateo
+### Secondary/Emerging Tracks
+
+**Krateo Sky Staffing/Hiring & Partnership**
+- Ariel Avitan establishing recurring check-in cadence (weekly/bi-weekly)
+- Status: **Operational relationship maturing; regular sync required**
+
+**UAS-MAG / Dronecan Compass Sensor**
+- Tom Simcox (Bartington) technical response Thu 13:13
+- Status: **Component evaluation continues; Maciej driving**
+
+**LYNX Platform (DoD Supplier Enablement)**
+- Jack Elston forwards "Department of War's (DOW) Industrial Base Growth (IBG) LYNX Platform for Suppliers" Thu 15:48
+- Beck enrolls in "Introduction to LYNX for Industry" webinar Thu 21:54
+- Status: **NEW TRACK**: Government contracting platform registration; potential supplier/prime contractor opportunity or compliance requirement
+
+**Supercool Earth Drone Inquiry**
+-

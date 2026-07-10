@@ -1,24 +1,41 @@
 {
   "project_code": "_unclassified",
   "qbo_class_names": [
-    "",
-    "IRISS, CU Boulder"
+    ""
   ],
   "period": {
-    "start": "2026-07-08",
-    "end": "2026-07-09"
+    "start": "2026-07-09",
+    "end": "2026-07-10"
   },
   "totals": {
-    "revenue": 664.98,
-    "expenses": 37.0,
+    "revenue": 0.0,
+    "expenses": 72.74,
     "by_category": {
-      "QuickBooks Payments Fees": 34.5,
+      "Inventory Asset": 70.24,
       "GENERAL & ADMINISTRATIVE:GA-Professional Fees": 2.5
     }
   },
   "invoices": [],
   "bills": [],
   "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-07-09",
+      "doc_number": "",
+      "total": 70.24,
+      "attributed": 70.24,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "shipment for future VTOL sales",
+      "lines": [
+        {
+          "amount": 70.24,
+          "account": "Inventory Asset",
+          "description": "Import duty payment (Aerobertics Order 07-6668)"
+        }
+      ]
+    },
     {
       "type": "Purchase",
       "date": "2026-07-09",
@@ -36,45 +53,8 @@
           "description": "General fee"
         }
       ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-08",
-      "doc_number": "",
-      "total": 34.5,
-      "attributed": 34.5,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",
-      "lines": [
-        {
-          "amount": 34.5,
-          "account": "QuickBooks Payments Fees",
-          "description": "System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily."
-        }
-      ]
     }
   ],
   "purchase_orders": [],
-  "payments": [
-    {
-      "type": "Payment",
-      "date": "2026-07-08",
-      "doc_number": "",
-      "total": 664.98,
-      "attributed": 664.98,
-      "vendor": "",
-      "customer": "IRISS, CU Boulder",
-      "balance": null,
-      "memo": "Paid via QuickBooks Payments: Payment ID 042486",
-      "lines": [
-        {
-          "amount": 664.98,
-          "account": "",
-          "description": ""
-        }
-      ]
-    }
-  ]
+  "payments": []
 }

@@ -6,7 +6,7 @@
 - **Address:** 8484 Westpark Dr. Ste. 600, McLean, VA 22102
 - **Dollar Value:** $450,000 total budget; $450,000 funding to Black Swift
 - **Timeline:** Started 2025-10-06; Original due date 2025-12-05; Core deliverables completed 2025-12-31 (26 days late)
-- **Status:** **ARCHIVED/DELIVERY COMPLETE — OUTSTANDING CONTRACTUAL WORK PENDING (NO NEAR-TERM TIMELINE)**  
+- **Status:** **ARCHIVED/DELIVERY COMPLETE — OUTSTANDING CONTRACTUAL WORK INDEFINITELY POSTPONED**  
   Core project deliverables finished Dec 31, 2025. **Per Jack (2026-04-30): "we still owe 2 more flight opportunities."** **Critical Blocker (Maciej, 2026-04-30):** New fuselage arrival required before next test flights. "There won't be any test flights next week or until we get that new fuse so they're aware that it's them causing the delay." **VALIDATION FLIGHT #2 POSTPONED INDEFINITELY (Daniel Prendergast, 2026-05-13 & 2026-05-14):** CU IRISS training complete; flight postponed until customer provides functioning DoD autopilot controller. **Timeline Extended (Ethan, 2026-05-05):** "ByLight project timeline has been extended due to cancellation of a demo in India."
 - **Team Members:** Maciej Stachura (owner), Ethan Domagala, Nate Straus, Meredith O'hara Needham
 - **Priority:** **Rank 4 among active projects (Maciej, 2026-04-30):** (1) S3 IRAD end-of-May delivery, (2) S0-VTOL ERAU & Barbados, (3) EMASS closeout, (4) By-Lite, (5) SBIR Magnetometer
@@ -27,7 +27,7 @@ All invoicing milestones completed and paid; core delivery 26 days past original
 
 ## Task Summary
 - **Total Tasks:** 36 (33 completed, 3 open reference/contact entries)
-- **Completion Rate:** 92% (deliverables complete; follow-up work outstanding)
+- **Completion Rate:** 92% (deliverables complete; follow-up work indefinitely postponed per customer constraints)
 - **Open Tasks (3 — Contact/Vendor Reference Records Only):**
   - Bryan Sparling (ByLight primary contact record)
   - DSKinetic LLC / Spencer Lisenby (pilot services subcontractor)
@@ -64,7 +64,7 @@ All invoicing milestones completed and paid; core delivery 26 days past original
   - Rocky Mountain High Aviation (D. Hesselius, dhesselius@hotmail.com) — drone pilot services
 - **Key Outputs:** Flight data analysis, prototype aircraft (Mustang 2, Stock Chilli variants), propeller optimization testing, power/range/endurance performance reports
 - **Timeline Variance:** 26-day delay from original 12/5 due date. All major milestones tracked on schedule through December; final validation and demo flights extended into late December. **India demo cancelled (Ethan, 2026-05-05); timeline extended; Asana due dates updated to realistic numbers (Maciej direction 2026-04-27 & 2026-04-30).**
-- **Billing Structure:** Four milestone invoices tied to effort phases ($100k each for Weeks 1, 2-4, 5-7; $50k for Weeks 8-9)
+- **Billing Structure:** Four milestone invoices tied to effort phases ($100k each for Weeks 1, 2-4, 5-7; $50k for Weeks 8-9). All paid.
 - **Outstanding Contractual Work (As of May 2026):**
   - **2 additional flight opportunities** still owed per original contract
-  - Customer ready to test their own
+  - Customer ready

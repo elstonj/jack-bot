@@ -69,6 +69,10 @@
   - Email: beck.cotter@blackswifttech.com
   - Notes: Role and department unknown
 
+- **Brent Keefer** — *NEW*
+  - Email: brent.keefer@blackswifttech.com
+  - Notes: Role and department unknown
+
 - **Daniel Prendergast**
   - Email: daniel.prendergast@blackswifttech.com
   - Notes: Role and department unknown
@@ -77,7 +81,7 @@
   - Email: jameel.barkat@blackswifttech.com
   - Notes: Role and department unknown
 
-- **Tim Hegwood** — *NEW*
+- **Tim Hegwood**
   - Email: tim.hegwood@blackswifttech.com
   - Notes: Role and department unknown
 
@@ -93,7 +97,7 @@
 
 ## Summary
 
-**Total Headcount:** 19 (15 active employees + 4 unclassified + 2 service accounts)
+**Total Headcount:** 20 (14 active employees + 5 unclassified + 2 service accounts)
 
 **Key Leadership:**
 - Jack Elston (CEO)
@@ -109,17 +113,18 @@
   - Interns: 2 interns
 - **Operations & Administration:** 1 person
 - **Communications & Marketing:** 2 people
-- **Unclassified:** 4 people (Beck Cotter, Daniel Prendergast, Jameel Barkat, Tim Hegwood — roles/departments unknown)
+- **Unclassified:** 5 people (Beck Cotter, Brent Keefer, Daniel Prendergast, Jameel Barkat, Tim Hegwood — roles/departments unknown)
 - **Service Accounts:** 2
 
 **Updates from New Data:**
-- ✅ **NEW EMPLOYEE:** Tim Hegwood added (role/department unknown)
+- ✅ **NEW EMPLOYEE:** Brent Keefer added (role/department unknown)
+- ✅ Tim Hegwood now confirmed in roster (still unclassified)
 - ✅ All existing records validated and confirmed current
 - ✅ All phone numbers standardized to consistent format
 - ✅ Complete data integrity maintained
 
 **Notes:**
-- Four team members remain unclassified; recommend outreach to leadership for role clarification
+- Five team members remain unclassified; recommend outreach to leadership for role clarification
 - BST maintains an engineering-focused organization with balanced technical and administrative support
 - Engineering intern program active with two positions filled
 - All contact information verified and complete

@@ -2,13 +2,13 @@
 
 ## Overview
 - **Client/customer**: Internal operations (BST office and shop space maintenance)
-- **Dollar value**: Lease costs ranging from $13.00–$14.63 NNN over 60-month term, plus $6.23 CAM for real estate taxes and building insurance
+- **Dollar value**: Lease costs $13.00–$14.63 NNN over 60-month term, plus $6.23 CAM for real estate taxes and building insurance
 - **Timeline**: Ongoing operational project with recurring monthly tasks
-- **Status**: Active - recurring tasks functioning. **Current snapshot shows 1 open task.** "Office Cleaning" (previously due 2026-07-11) is no longer visible in current export—likely completed or archived. "Ongoing Office Purchasing List" has reappeared as open (due 2026-07-10). "Pay Rent" task continues to be absent from Asana export.
+- **Status**: Active - recurring operational cadence maintained. **Current snapshot: 1 open task (Ongoing Office Purchasing List, due 2026-07-10).** Weekly purchasing coordination and bi-weekly cleaning continue to cycle through the system.
 - **Team members involved**: Meredith O'hara Needham (primary operational owner, Neat N Tidy owner), Nate Straus (facilities improvements & consumables)
 - **Risk signals**: 
-  - **One open task with imminent due date**:
-    - Ongoing Office Purchasing List due 2026-07-10 (due imminently/may be overdue)
+  - **Ongoing Office Purchasing List due 2026-07-10** — imminent/may be overdue depending on current date
+  - **"Pay Rent" task absent from Asana exports** — verify if handled externally or auto-closed on separate cadence
 
 ## Key Deliverables & Milestones
 - **Monthly rent payments** (~$13.00–$14.63 NNN depending on lease year, plus $6.23 CAM, due ~25th–29th of each month)
@@ -20,20 +20,19 @@
 - **Lease termination planning** (unassigned, no due date)
 
 ## Task Summary
-- **Total tasks**: 1 open, 0 completed (current snapshot)
+- **Total tasks**: 1 open, 0 completed
 - **Tasks by assignee**:
   - **Meredith O'hara Needham**: 1 open
     - Ongoing Office Purchasing List (due 2026-07-10) — collect weekly purchases
 - **Notable patterns**: 
-  - Recurring weekly purchasing and bi-weekly cleaning tasks maintain predictable structure
+  - Recurring weekly purchasing and bi-weekly cleaning tasks maintain predictable operational structure
   - All active tasks assigned to Meredith O'hara Needham
-  - **Task visibility fluctuation**: "Office Cleaning" present in previous snapshot, absent in current; "Ongoing Office Purchasing List" absent in previous snapshot, present in current. Suggests either task cycling or inconsistent export/filtering.
+  - Task visibility fluctuation observed across snapshots ("Office Cleaning" present/absent, "Ongoing Office Purchasing List" cycling on/off) suggests either intentional task rotation or inconsistent export filtering
 
 ## Recent Activity
-- **Current open task** (imminent):
+- **Current open task** (imminent due date):
   - Ongoing Office Purchasing List due 2026-07-10 (assigned to Meredith O'hara Needham)
-- **Task status change**: "Office Cleaning" (previously due 2026-07-11) no longer appears in current snapshot—likely completed or archived
-- **Persistent gap**: "Pay Rent" task (due 2026-07-27) continues to be absent from Asana export. Verify whether this task is archived, auto-completing on a separate cadence, or filtered from view.
+- **Persistent gap**: "Pay Rent" task (due 2026-07-27 in prior snapshots) continues to be absent from Asana export. **Action**: Verify whether this task is archived, auto-completing on a separate cadence, or handled externally.
 
 ## Notes & Context
 
@@ -45,7 +44,7 @@
 
 - **Cleaning Service**: Neat N Tidy
   - Booking portal: https://neatntidy.bookingkoala.com/
-  - Login credentials: purchasing@blackswifttech.com / 297EZXULBMbZyY
+  - Login: purchasing@blackswifttech.com / 297EZXULBMbZyY
   - Owner: Meredith O'hara Needham
   - Team: Whole BST team supported
   - Drive reference: https://drive.google.com/file/d/1HwqI6kJ6fMWoW2uKUGwd9
@@ -59,10 +58,9 @@
 | Months 37–48 | $14.21 | $6.23 |
 | Months 49–60 | $14.63 | $6.23 |
 
-**Operational Focus**: Project serves as central hub for all physical office and shop space maintenance, found under the Operations portfolio. Consumables stock tracker maintained at https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus).
+**Operational Focus**: Central hub for all physical office and shop space maintenance, found under the Operations portfolio. Consumables stock tracker maintained at https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus).
 
 **Action items for next review**: 
-- Confirm completion status of "Office Cleaning" task and update Asana if not yet marked closed
-- Ensure "Ongoing Office Purchasing List" (due 2026-07-10) is completed and marked on or before due date
+- Complete and mark closed: Ongoing Office Purchasing List (due 2026-07-10)
 - Investigate status of "Pay Rent" task (due 2026-07-27). If handled externally or auto-closed, document that pattern
 - Clarify whether task visibility fluctuation reflects intentional cycling or needs process refinement

@@ -52,6 +52,9 @@
 
 ## Recent Activity
 
+**July 6, 2026 (Team Corrections — Contextual Note):**
+- **Jack Bot (Slack):** Related activity noted in #commercial-sales: Two S0 VTOL units with ground station and tablet being built in QC for ISARRA Flight Week campaign (August/September 2026). Invoice 1667 ($21,181.81) paid May 21, 2026. Jack Elston confirmed August delivery aligns with ISARRA planning and transport logistics (May 21, 2026); Kevin Adkins approved plan. Beck reported flight-testing ongoing to resolve tracking bug (March 17, 2026). *(Note: This appears to be a separate project or cross-project activity; included for context.)*
+
 **June 2–3, 2026 (Team Corrections — Authoritative):**
 - **Joshua Fromm:** All payload parts for Murphy's Pond payloads and gimbal parts ordering now in final stages. Most parts expected to arrive by end of week (early June 2026). Main remaining task is rewiring new DB9 connector to new mating style — "isn't a big deal at all." All 3 payloads can be modified in ≤1 day once parts arrive. **This indicates active forward progress and strongly suggests NDAA scope uncertainty has been resolved or accepted. Payload modification work can begin immediately upon parts arrival.**
 
@@ -59,10 +62,4 @@
 - **Maciej:** Reiterates directive to Nate Straus (post-ByLight meeting): **update Asana due dates to realistic numbers and communicate revised schedule to NASA customer.** ⚠️ Action status not yet confirmed complete. Requests Alex Lomis or Josh Fromm initiate AI-assisted NASA RFI analysis "soon."
 
 **April 27, 2026 (Team Corrections — Authoritative Override):**
-- **Maciej:** 
-  - **Directed Nate Straus to "update the due dates in Asana to realistic numbers" post-ByLight meeting and communicate revised schedule to NASA.** This OVERRIDES the April 30, 2026 dates currently listed in Asana.
-  - Requested Alex Lomis or Josh Fromm lead AI-assisted NASA RFI analysis immediately.
-
-## Notes & Context
-
-- **Product Context:** S2 platform is officially end-of-life as of July 2025. Isaac Anderson (NASA Ames) requested cost breakdown for S2 parts replacement on July 11, 2025; Estimate 1362 was issued July 18, 2025 noting that "as we're
+- **

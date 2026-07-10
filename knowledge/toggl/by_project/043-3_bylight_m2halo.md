@@ -4,44 +4,49 @@
 - **Client:** ByLight
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 210.9 hours (208.7h previous + 2.2h new batch)
+- **Total hours tracked:** 214.0 hours (210.9h previous + 3.1h new batch)
 
 ## Team Allocation
-- **Ethan Domagala:** 178.1 hours (84.4%)
-- **Alex:** 30.8 hours (14.6%)
+- **Ethan Domagala:** 178.1 hours (83.1%)
+- **Alex:** 30.8 hours (14.4%)
+- **Spencer Hoehl:** 3.1 hours (1.4%) — *NEW CONTRIBUTOR*
 - **Nate:** 2.0 hours (0.9%)
 
 **Primary contributor:** Ethan Domagala
 
 ## Activity Timeline
 
+**Spencer Hoehl** — New contributor (THIS BATCH)
+- Latest sessions: 1.6h, 1.5h (no descriptions)
+- Total: 3.1 hours
+- First appearance on project; no context provided
+
 **Ethan Domagala** — ByLight M2 Design & Research
-- Latest sessions: 1.5h, 0.8h (no descriptions)
 - Cumulative: 178.1 hours
 - Work scope includes design iteration and customer feedback research
-- **NINTH consecutive undescribed session:** 57.0h total now undocumented (2.2h this batch + 54.7h prior eight batches)
-- Pattern continues with escalating frequency—entries now logged in smaller increments without documentation
+- **NINTH consecutive undescribed session:** 57.0h total now undocumented
+- Pattern continues with escalating frequency—entries logged in smaller increments without documentation
 
 **Alex** — Undescribed work
 - Sessions: 8.2h, 8.2h, 8.7h (no recent activity)
 - Three large blocks with no descriptions provided
-- Accounts for 14.6% of project hours
+- Accounts for 14.4% of project hours
 
 **Nate** — Kit preparation
 - Single session: 2.0h
 - "Kit prep" work
 
 ## Insights
-- **Documentation crisis now critical:** Nine consecutive sessions from Ethan lack any context. 57.0 hours (27.0% of total project time) remains undocumented.
-- **Escalating frequency pattern:** New entries split into smaller time blocks (1.5h, 0.8h) rather than consolidated sessions, suggesting either fragmented work or intentional avoidance of description requirements.
-- **Combined undescribed hours:** 85.8 hours (40.7% of total)—remaining below 41% threshold but continuing to grow.
-- **Sustained contributor dominance:** Ethan maintains ~84% of project work despite documentation failure.
-- **Active ongoing engagement:** 2.2h in this batch confirms sustained work; purpose and status remain unknown.
+- **Documentation crisis now critical:** Nine consecutive sessions from Ethan + new undescribed entries from Spencer (2 sessions, 3.1h). Combined undescribed hours now **60.1 hours (28.1% of total)**.
+- **New contributor without onboarding context:** Spencer's appearance without project background or entry descriptions suggests possible lack of time tracking process compliance or project intake documentation.
+- **Escalating participation without documentation:** Addition of new team member coincides with continued documentation failure from primary contributor.
+- **Combined undescribed work:** 89.0 hours (41.6% of total)—now exceeds 41% threshold.
+- **Sustained contributor dominance:** Ethan maintains ~83% of documented project work.
 
-**Status:** **CRITICAL — ESCALATION PENDING.** Documentation failure now spans nine consecutive tracking sessions with zero improvement and shifting behavioral patterns (smaller entry increments). Immediate intervention required before additional hours accumulate undocumented.
+**Status:** **CRITICAL — ESCALATION OVERDUE.** Documentation failure persists across nine Ethan sessions (57.0h) + new contributor Spencer (3.1h, 2 undescribed entries). Project expansion without process improvement.
 
-**Required actions (reiterated):**
-1. **Direct escalation to Ethan** — Urgent meeting mandatory given persistence across nine sessions
-2. **Retrospective retrieval** — Obtain descriptions for all 57.0 undocumented hours
+**Required actions (reiterated + updated):**
+1. **Direct escalation to Ethan + Spencer onboarding** — Mandatory meeting; obtain missing descriptions + establish time entry requirements for new contributor
+2. **Retrospective retrieval** — Obtain descriptions for all 60.1 undocumented hours
 3. **Process intervention** — Implement mandatory real-time entry descriptions or suspend time tracking pending compliance
-4. **Leadership notification** — Escalate to BST project leadership if not already done
+4. **Leadership notification** — Escalate to BST project leadership immediately

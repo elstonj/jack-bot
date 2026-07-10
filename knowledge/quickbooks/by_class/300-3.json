@@ -4,14 +4,14 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-07-08",
-    "end": "2026-07-09"
+    "start": "2026-07-09",
+    "end": "2026-07-10"
   },
   "totals": {
     "revenue": 72000.0,
-    "expenses": 31.31,
+    "expenses": 1394.59,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 31.31
+      "DIRECT COSTS:DC-Direct Material Purchases": 1394.59
     }
   },
   "invoices": [
@@ -43,19 +43,37 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-08",
-      "doc_number": "",
-      "total": 31.31,
-      "attributed": 31.31,
+      "date": "2026-07-09",
+      "doc_number": "69825",
+      "total": 1387.6,
+      "attributed": 1387.6,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "No Asana request - Josh Fromm made purchase in person",
+      "memo": "JAWSTEC - 4617",
       "lines": [
         {
-          "amount": 31.31,
+          "amount": 1387.6,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Supplies for IDIQ"
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-09",
+      "doc_number": "",
+      "total": 6.99,
+      "attributed": 6.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 6.99,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Maxmoral 3PCS DC-099 DC Power Socket"
         }
       ]
     }

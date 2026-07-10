@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $4,476,635.28
-- **Total Expenses (Bills + Purchases):** $1,334,695.13
+- **Total Expenses (Bills + Purchases):** $1,336,089.73
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,141,940.15 (invoiced minus expenses)
+- **Net Position:** $3,140,545.55 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -49,7 +49,7 @@
 | **#1750** | **2026-09-28** | **$14,459.00** | **[550-1] Navy SBIR Magnetometer** | **CLIN 0007: Final Report** | **$14,459.00** |
 
 **Recent invoice total (2026-06-01 to 2026-09-28):** $300,459.00  
-**All invoices confirmed through 2026-09-28. New total includes Invoice #1750 final.**
+**All invoices confirmed through 2026-09-28. New data includes Invoice #1750 final (already in knowledge file).**
 
 ---
 
@@ -76,8 +76,8 @@
 
 ---
 
-### **Materials & Supplies: $474,220.71**
-**Number of transactions:** 222  
+### **Materials & Supplies: $475,608.31**
+**Number of transactions:** 224  
 
 **Key vendors & items:**
 
@@ -88,9 +88,9 @@
   - **DKC*DIGI KEY CORP - 4617** (2026-07-02): $66.92 [DC-Direct Material Purchases] — Extra AD parts
 
 - **JAWSTEC:** 
-  - Prior balance: $19,627.62
-  - **Purchase #69631** (2026-06-29): $562.44 [DC-Direct Material Purchases] — IDIQ components shipped to Sean Cole
-  - **Updated JAWSTEC total: $20,190.06**
+  - Prior balance: $20,190.06
+  - **Purchase #69825** (2026-07-09): $1,387.60 [DC-Direct Material Purchases] — JAWSTEC components
+  - **Updated JAWSTEC total: $21,577.66**
 
 - **Amprius battery systems:** $28,637.13 (wire transfers, 01/06/26) + $399.00 (2026-04-29) + $399.00 (2026-05-01) + $399.00 (2026-05-14)
   - **Total Amprius: $29,834.13**
@@ -116,6 +116,8 @@
   - **Direct Cost Materials & Supplies impact: $479.80**
 
 - **Amazon MKTPL*4Z8IL5283** (2026-06-29): $34.59 [DC-Direct Material Purchases] — 64GB PNY Elite-X Fit USB 3.1 Flash Drive
+
+- **Maxmoral 3PCS DC-099 DC Power Socket** (2026-07-09): $6.99 [DC-Direct Material Purchases]
 
 **Recent transactions (2026-06-24 to 2026-07-09):**
 - **Purchase #0624JELSTON** (2026-06-24): 
@@ -146,8 +148,4 @@
 - **Purchase** (2026-07-06): **$57.83** [DC-Direct Material Purchases] — Medium box foam corners
   - *Memo: No Asana request - Josh Fromm made purchase in person*
 
-- **Purchase** (2026-07-07): **$1,446.53** [DIRECT COSTS: DC-Direct Material Purchases]
-  - $15.52 [DC-Direct Material Purchases]
-  - $222.22 [DC-Direct Material Purchases]
-
-- **Purchase**
+- **Purchase** (2026-07-07): **$1,446.53** [DIRECT COSTS

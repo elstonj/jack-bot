@@ -1,91 +1,108 @@
 # Ben Busby — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 24 (10 prior + 14 new)
+- **Total messages scanned:** 33 (24 prior + 9 new)
 - **Date range:** July 6–9, 2026
 - **Approximate volume:** Low-to-moderate; sporadic messaging with activity spikes around recruiting and administrative deadlines
 
 ## Key Correspondents
 
 ### Top Senders
-1. **Jack Elston** (elstonj@blackswifttech.com) — 5 messages (direct + forwards)
-2. **Automated/System emails** — 10 messages (Rippling, Google Drive shares, MonsterInsights, WPForms, OEDIT Portal, Slack, Google Play, Colorado DOR, Elevations CU, USISTEF)
-3. **Ben Busby (self/internal system)** — 3 messages (sent replies, MonsterInsights summary)
-4. **Czero Solutions** (guy.babbitt@czero-solutions.com) — 1 message (newsletter)
-5. **Chad Atwood** (chad@theaiginc.com) — 1 message [prior data]
+1. **Jack Elston** (elstonj@blackswifttech.com) — 6 messages (direct + forwards, including SwiftCore meeting invite)
+2. **Rippling** (no-reply@rippling.com) — 7 messages (benefits enrollment reminders, open enrollment notifications, pending tasks)
+3. **Automated/System emails** — 12 messages (Google Drive shares, MonsterInsights, WPForms, OEDIT Portal, Slack, Google Play, Colorado DOR, Elevations CU, USISTEF, Egnyte)
+4. **Administration routing** (admin@blackswifttech.com) — 2 messages (OEDIT Portal password reset, Brian Chaney note)
+5. **Piper Ashwell** (piper@piperashwellconnect.com) — 1 message (Colorado student support)
+6. **Czero Solutions** (guy.babbitt@czero-solutions.com) — 1 message (newsletter, prior data)
+7. **Chad Atwood** (chad@theaiginc.com) — 1 message (prior data)
 
 ### Communication Breakdown
-- **Internal (BST):** 8 messages (Jack Elston primary; also Daniel Prendergast, Maciej Stachura in group forward)
-- **External:** 2 direct (Czero newsletter; prior Chad Atwood HR contact)
-- **Automated/Admin/System:** 10 messages (Rippling, Google Drive, OEDIT, Slack, MonsterInsights, tax/compliance, newsletters)
-- **Ben's outbound (captured):** 3 messages, all replies to Jack Elston on recruiting
+- **Internal (BST):** 9 messages (Jack Elston primary; also Maciej Stachura, Sam Hild, Brian Chaney via admin)
+- **External Direct:** 1 message (Piper Ashwell)
+- **Automated/Admin/System:** 17 messages (Rippling, Google Drive, OEDIT, Slack, MonsterInsights, tax/compliance, newsletters, Egnyte)
 
 ### Key External Contacts
 - **Krateo Sky** (Thibault@krateosky.com) — Staffing/recruitment partner
+- **Piper Ashwell** (piper@piperashwellconnect.com) — Colorado student support contact
 - **Czero Solutions** (guy.babbitt@czero-solutions.com) — Engineering/tech newsletter subscriber
 - **The AIGI Inc** (Chad Atwood) — HR/benefits coordination
 
 ## Topic Patterns
 
 ### Recurring Themes
-1. **Hiring/Recruitment** — Dominant thread on July 8
+1. **Hiring/Recruitment** — Dominant thread on July 8 (prior data)
    - Computer vision engineer & frontend software engineer requisitions
-   - Jack Elston–Ben Busby rapid back-and-forth exchange (3 replies from Ben in 12 minutes)
-   - Krateo Sky folder shared ("Krateo Sky Reqs") for candidate tracking
-   - Also forwarded to Daniel Prendergast and Maciej Stachura (internal team awareness)
+   - Jack Elston–Ben Busby rapid back-and-forth exchange
+   - Krateo Sky folder shared for candidate tracking
+   - Forwarded to Daniel Prendergast and Maciej Stachura
 
-2. **Benefits & HR/Admin** — Rippling task assignment notification
+2. **Benefits & HR/Admin** — Rippling dominates July 9
+   - Multiple open enrollment action-required reminders (3 separate notifications on July 9)
+   - Pending tasks flagged in Rippling system
+   - Benefits enrollment deadline appears active/imminent
 
-3. **Compliance/Administrative** — OEDIT Portal credentials, Colorado DOR, Slack billing renewal
+3. **Product/Project Review** — SwiftCore 3.1 Review meeting
+   - Thursday July 9, 1:30–2:00 PM MDT
+   - Attendees: Ben Busby, Jack Elston, Maciej Stachura, Sam Hild
+   - Updated invitation with note (suggests last-minute scheduling adjustment)
 
-4. **Website/Analytics** — MonsterInsights summary (bst.aero domain)
+4. **Compliance/Administrative** — OEDIT Portal credentials, Colorado DOR, Slack billing renewal, Egnyte promotional content
 
-5. **Newsletters/External Content** — Czero July newsletter (engineering focus)
+5. **Newsletters/External Content** — Czero July newsletter (engineering focus), Egnyte case study (C.W. Driver data management)
+
+6. **Government/Education Outreach** — Piper Ashwell contact on Colorado student support (new)
 
 ### Organizations & Domains Visible
 - **Krateo Sky** — Recruitment/staffing partner
+- **Piper Ashwell Connect** — Appears to be educational/student support organization in Colorado
 - **Czero Solutions** — Engineering community/newsletter
+- **Egnyte** — Cloud file management/data governance platform (case study routing)
 - **Elevations Credit Union** — Business banking/credit services
 - **USISTEF / Endowment Fund** — U.S.-India partnerships (critical minerals, quantum tech)
 - **OEDIT** — Colorado state economic development application platform
-- **bst.aero** — BST's web domain (MonsterInsights tracking)
+- **bst.aero** — BST's web domain (MonsterInsights tracking, external contact point)
 
 ## Communication Patterns
 
 ### Message Flow & Timing
-- **Heavy on July 8** (10 of 14 new messages) — recruiting coordination spike
-- **July 8, 10:08–10:34 AM (CDT)** — Rapid recruiting exchange with Jack Elston (3 Ben replies in 26 minutes, both parties marked IMPORTANT)
-- **Late evening July 8, 4:38 PM GMT onward** — System/automated messages (OEDIT, Elevations, USISTEF)
-- **Marked IMPORTANT:** Jack Elston's hiring-related messages, Google Drive share, MonsterInsights summary, Rippling task assignment
+- **Heavy on July 8** (10 of original 14 new messages) — recruiting coordination spike
+- **Heavy on July 9** (7 of 9 newest messages) — benefits enrollment deadline activity (all Rippling notifications on same day)
+- **July 9, 16:47 UTC** — SwiftCore 3.1 Review meeting updated invitation from Jack Elston (2:47 PM MDT, ~3 hours before meeting)
+- **July 9, 12:30 PM CDT** — Egnyte promotional email routed to Ben (cloud storage case study)
+- **Multiple IMPORTANT flags:** Rippling messages, Jack Elston updates, Google Drive shares, MonsterInsights, Egnyte case study, Piper Ashwell contact
 
 ### Participation Patterns
-- Appears on mailing lists: benefits/HR (Rippling), analytics (MonsterInsights), compliance (OEDIT Portal, Colorado DOR), business services (Slack, Elevations CU)
+- Appears on mailing lists: benefits/HR (Rippling), analytics (MonsterInsights), compliance (OEDIT Portal, Colorado DOR), business services (Slack, Elevations CU), file management (Egnyte promotions)
 - Newsletter subscriber: Czero Solutions (engineering/tech content)
 - Shared document access: Google Drive folder for recruitment tracking
+- Meeting attendee: SwiftCore 3.1 Review (product/project evaluation)
 
 ## Key Relationships
 
 ### Internal Collaborators
-- **Jack Elston** — Primary recruiting liaison; rapid back-and-forth on requisitions; also coordinates externally with Krateo Sky
+- **Jack Elston** — Primary recruiting liaison; also coordinates SwiftCore 3.1 review meeting; rapid back-and-forth on requisitions
+- **Maciej Stachura** — Copied on recruiting forward and SwiftCore review meeting; appears to have recruiting/technical authority
+- **Sam Hild** — SwiftCore 3.1 Review attendee (new visibility); possible product owner, technical lead, or engineer
 - **Daniel Prendergast** — Copied on recruiting forward; appears to have recruiting/hiring authority
-- **Maciej Stachura** — Copied on recruiting forward; appears to have recruiting/hiring authority
+- **Brian Chaney** — Referenced in admin note (forwarded via administration system)
 
 ### External Relationships
 - **Krateo Sky (Thibault)** — Active recruitment/staffing partner; dedicated folder for candidate tracking
+- **Piper Ashwell** — Colorado student support contact; relationship newly visible via direct email to ben.busby@bst.aero
 - **Czero Solutions** — Newsletter subscriber; potential engineering/tech industry connection
 
 ## Notable Observations
 
-- **Recruiting is a priority activity:** July 8 shows concentrated, rapid engagement (Jack Elston initiating, Ben responding multiple times quickly). Candidates for computer vision and frontend engineering suggest possible AI/ML or web product focus.
-  
-- **Organizational structure signal:** Daniel Prendergast and Maciej Stachura included in recruiting forward suggests decision-making or approval chain; Ben appears to be a key contributor or decision-maker in hiring.
+- **Benefits enrollment deadline imminent:** July 9 shows concentration of Rippling notifications (4 messages from same sender in single day), all marked IMPORTANT with "Action required" and "Reminder" language. Ben has pending tasks in benefits system.
 
-- **Google Drive integration:** Active use of shared folders for recruitment (Krateo Sky folder shared on July 8), indicating collaborative candidate management workflow.
+- **SwiftCore 3.1 project visible:** New meeting attendee visibility reveals product/project code name "SwiftCore" with version numbering (3.1). Review meeting scheduled with Jack Elston, Maciej Stachura, and Sam Hild—suggests scheduled product evaluation or milestone review.
 
-- **Government/funding activity:** USISTEF call for proposals (U.S.-India partnerships in critical minerals and quantum tech) routed to Ben via admin suggests possible interest in research grants or federal contracting opportunities.
+- **Last-minute meeting update:** SwiftCore meeting invitation marked "Updated invitation with note"—indicates scheduling change or agenda update ~3 hours before meeting time (2:47 PM MDT for 1:30 PM meeting).
 
-- **Web presence:** MonsterInsights tracking on bst.aero indicates BST maintains an active public web presence (possibly for recruitment, public relations, or product marketing).
+- **External student support outreach:** Piper Ashwell email to ben.busby@bst.aero (company domain, not personal Gmail) on "Colorado student support" is new direct external contact. Context unclear from subject line alone—could indicate BST educational partnership, recruitment pipeline, or outreach initiative in Colorado.
 
-- **Outbound email pattern:** Ben's 3 captured outbound messages are all rapid replies to Jack Elston on the same thread—suggests reactive, focused communication style on urgent recruiting matters.
+- **Recruiting remains active:** Jack Elston continues to initiate; Ben included in planning for ongoing hiring efforts.
 
-- **Low external direct contact volume:** Most communication is internal (Jack Elston) or automated; external direct contact limited to industry newsletters.
+- **Cloud/data governance tooling:** Egnyte promotional content routed to Ben suggests BST evaluating or considering cloud file management/data sprawl solutions (case study: C.W. Driver).
+
+- **Low external direct contact volume maintained:** Piper Ashwell is only non-automated external direct email in new batch; most communication remains internal or system-generated.

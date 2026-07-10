@@ -29,11 +29,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Collaborative engineering phase with Ultra PCS/USAF on pneumatic launcher design. Recent contact (Jan 2026) shows active technical discussions regarding UAV dimensions, tube interface (Sonobuoy A vs. CLT), ejection velocity, and acceleration requirements. Dan Prendergast is Asana assignee; Jack Elston, Maciej Stachura, and Beck Cotter involved. Tracy Harris mentioned potential Royal Navy interest and UK-US funding pathways.",
+  "notes": "Active collaborative engineering phase with Ultra PCS/USAF on pneumatic launcher design. Last contact 2026-02-25; Tracy Harris pursuing Royal Navy interest and UK-US funding pathways. Dan Prendergast (Asana assignee), Jack Elston, Maciej Stachura, and Beck Cotter involved in technical discussions on UAV dimensions, tube interface (Sonobuoy A vs. CLT), ejection velocity, and acceleration requirements. No purchase order or QBO invoice yet \u2014 purely pre-sales technical phase.",
   "missing_fields": [
     "receive_by",
     "ship_to",
-    "estimate_date"
+    "estimate_date",
+    "items"
   ],
   "last_evidence_date": "2026-02-25",
   "last_contact_date": "2026-02-25"

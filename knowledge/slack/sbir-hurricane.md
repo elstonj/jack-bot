@@ -39,6 +39,11 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Radio channel designation decided as "RADIO A / RADIO B" to minimize confusion with other numbering schemes (May 7, 2026)
 - Jack Elston approved RADIO A/B nomenclature over alternatives (RADIO 1/2, CH 1/2, etc.) (May 7, 2026)
 
+**Ground Control Station Channel Standardization (July 9, 2026):**
+- Channel labeling standardized across all systems from CH1/CH2 to A/B nomenclature for consistency (July 9, 2026)
+- Jack Elston implemented major firmware and QC tool overhaul to update channels from "one and two" to "a and b" (July 9, 2026)
+- Color coding updates applied alongside channel labeling changes (July 9, 2026)
+
 **Ground Control Station Design & Procurement (May 7-8, 2026):**
 - Joshua Fromm to review and modify ground station parts procurement list before finalization (May 7, 2026)
 - RF connector modification implemented for radio compatibility (May 7, 2026)
@@ -80,11 +85,4 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 
 **Stock Inventory Build (May 6, 2026):**
 - Jack Elston initiated procurement of 20 additional S0 aircraft units to maintain stock inventory for operational opportunities (May 6, 2026)
-- Decision made to use current 2026 configuration without waiting for 2027 mods (May 6, 2026)
-
-**Meeting Structure Decision (June 3, 2026):**
-- Jack Elston proposed discontinuing regular S0 meetings in favor of Slack-based coordination (June 3, 2026)
-- Joshua Fromm approved the change to Slack-only coordination (June 3, 2026)
-
-**Sparv Dropsonde Partnership Discussion (June 9, 2026):**
-- Decision deferred on Sparv dropsonde
+- Decision made to use current 2026 configuration without waiting for 2027 
