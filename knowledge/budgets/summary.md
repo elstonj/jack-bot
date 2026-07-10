@@ -1,46 +1,51 @@
 # BST Project Financial Overview
 
-## Active Project Budgets
+## ⚠️ DATA ORGANIZATION ISSUE
 
-### Project 018-1: Murphy's Pond CH4 Monitoring
-- **Project Code:** 018-1
-- **Client:** Murray State University
-- **Total Contract Value:** $88,862.94
-- **Contract Type:** Service contract (drone-based environmental measurement)
-- **Period of Performance:** 3 field campaigns in 2026 (May, July, August)
-- **Scope:** CH4, CO2, and H2O measurements over 5 km × 5 km area above Murphy's Pond, Hickman County, KY
-- **Budget Status:** Active planning phase; internal budget drafted 12/16/2024
-- **Key Personnel Allocated:**
-  - Jack Elston (Principal Investigator): 96 hours @ $150/hr + 29.28% fringe = $18,616
-  - Maciej Stachura (Flight Ops & Data Processing): 96 hours @ $150/hr (fringe calculation incomplete in source document)
+**Current Status:** Budget data received shows **1,181 documents** organized by funding source but **lacks clear project codes** for systematic tracking.
 
-**Financial Health Note:** Contract value finalized per Quote MUR-228S-25. Personnel hours and fringe rates documented; full personnel budget breakdown incomplete in provided data.
+**Impact:** Cannot provide complete financial overview as requested without project-level organization. Recommend implementing project code taxonomy before detailed analysis.
 
 ---
 
-## Unassigned/Portfolio-Level Data
+## Partially Identified Projects
 
-### Large Portfolio of Budget Documents Identified
-- **Document Count:** 1,181 budget documents
-- **Funding Sources:** NASA, NOAA, DoD, and other federal agencies
-- **Project Status Mix:** Active, Proposals, Completed/Inactive
-- **Organization Method:** By funding source and project stage
-
-### NASA—AREN (Aeropods Commercial) — MiniCam Project
-- **Status:** Preliminary commercial product costing analysis
-- **Document Date:** February 2026 (modified 3/4/2026)
-- **Stage:** Preliminary cost analysis phase
-- **Note:** Detailed unit cost breakdown referenced but incomplete in provided data excerpt
+### NASA — AREN (Aeropods Commercial) [Project Code: 200?]
+- **Client:** NASA
+- **Product/Focus:** MiniCam (preliminary commercial costing)
+- **Document Status:** Preliminary Cost Analysis (dated Feb 2026, modified Mar 2026)
+- **Budget Data:** Unit cost breakdown initiated but incomplete in provided summary
+- **Contract Type:** Commercial product development
+- **Budget Amount:** *Not specified in summary*
+- **Health Status:** Early-stage costing analysis
 
 ---
 
-## Summary of Data Gaps
+## Data Gaps Identified
 
-⚠️ **Significant documentation exists but requires full review:**
-- 1,181 budget documents remain unindexed by project code
-- Project 018-1 personnel budget incomplete (Maciej Stachura hours cost not fully calculated)
-- MiniCam cost breakdown data truncated
-- No QuickBooks integration data provided
-- No consolidated funding source summary yet available
+| Element | Status |
+|---------|--------|
+| **Project Codes** | Missing/Inconsistent |
+| **Total Budget Amounts** | Incomplete |
+| **Spend/Remaining Data** | Not provided |
+| **Contract Types** | Partially identified (SBIR, Commercial noted as categories) |
+| **QB Integration** | Unknown |
+| **Active vs. Inactive Status** | Organized but summaries cut off |
 
-**Recommendation:** Complete review of the 1,181 unassigned documents needed to establish comprehensive financial overview by project code, funding source, and contract type.
+---
+
+## Immediate Actions Required
+
+1. **Complete the unfinished summary** — MiniCam unit cost breakdown was truncated
+2. **Provide project-level rollup** — Separate data by:
+   - NASA projects with codes
+   - NOAA projects with codes
+   - DoD projects with codes
+   - Other agencies
+3. **Include financial metrics** for each:
+   - Total contract value
+   - Current spend
+   - Remaining budget
+   - Timeline to completion
+
+**Please resubmit with complete budget summaries and consistent project codes.**

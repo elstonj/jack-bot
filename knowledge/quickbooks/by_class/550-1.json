@@ -4,15 +4,13 @@
     "[550-1] Navy SBIR Magnetometer"
   ],
   "period": {
-    "start": "2026-07-08",
-    "end": "2026-07-09"
+    "start": "2026-07-09",
+    "end": "2026-07-10"
   },
   "totals": {
     "revenue": 14459.0,
-    "expenses": 82.14,
-    "by_category": {
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 82.14
-    }
+    "expenses": 0.0,
+    "by_category": {}
   },
   "invoices": [
     {
@@ -40,26 +38,7 @@
     }
   ],
   "bills": [],
-  "purchases": [
-    {
-      "type": "Purchase",
-      "date": "2026-07-08",
-      "doc_number": "",
-      "total": 82.14,
-      "attributed": 82.14,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 82.14,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": "Import duty payment (PCBWay order ##YQ1749285)"
-        }
-      ]
-    }
-  ],
+  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

@@ -41,5 +41,5 @@
 - Extensive regulatory coordination with CALFIRE, Boulder Sheriff/Parks, FireSense team, and Argonne National Lab
 - Successfully positioned BST for Phase II and NASA ROSES funding with established partnerships
 
-**Next Steps (June 2026)**:
-Wildfire video completion pending coordination between Kareem and Maciej Stachura on division of labor. Alternative work (S0 components, ground stations) available if higher-priority tasks take precedence.
+**Next Steps (June 16, 2026)**:
+Per Jack Elston (June 15–16, 2026), Kareem will coordinate with Maciej Stachura on division of labor to finish the wildfire video. Alternative work (S0 components, ground stations) available if higher-priority tasks take precedence.

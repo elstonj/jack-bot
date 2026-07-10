@@ -5,7 +5,7 @@
 - **Total Expenses (Bills + Purchases):** $241,843.16
 - **Total Purchase Orders:** $1,977.50
 - **Net Position:** $2,750,646.18 (Revenue exceeds expenses)
-- **Date Range:** April 5, 2024 – July 9, 2026
+- **Date Range:** April 5, 2024 – July 10, 2026
 
 ---
 
@@ -89,11 +89,11 @@
 ## Expenses by Cost Category
 
 ### **Materials & Supplies** (Direct Cost Material Purchases)
-**Total: $1,893.34** | 14 transactions | Largest item: $499.00
+**Total: $1,893.34** | 15 transactions | Largest item: $499.00
 
 | Date | Vendor/Description | Amount | Details |
 |------|-------------------|--------|---------|
-| 2026-07-09 | SERVOCITY #7333 | $189.43 | 2302 Series Aluminum MOD 0.8 Hub Mount Gear and 2305 Series Brass MOD 0.8 Servo Gear |
+| **2026-07-09** | **SERVOCITY #7333** | **$189.43** | **2302 Series Aluminum MOD 0.8 Hub Mount Gear and 2305 Series Brass MOD 0.8 Servo Gear** |
 | 2026-07-07 | Purchase (No Asana Request) | $287.74 | Multiple items: $15.52 + $222.22 = items for project work |
 | 2026-07-07 | Purchase #0707JELSTON | $64.40 | Shop/project materials |
 | 2026-06-30 | Purchase #2026-0411 | $499.00 | Processing data for Murray State |
@@ -103,4 +103,4 @@
 | 2026-07-06 | Purchase #69738 (JAWSTEC) | $221.12 | For By Light |
 | 2026-07-06 | Purchase #69729 (JAWSTEC) | $488.24 | For INSTAAR (shipped to Sean Cole) |
 | 2026-07-01 | Purchase #03236 (Wire Transfer) | $130.00 | Wire Transfer — unauthorized email purchase via sales rep ⚠️ |
-| 2026-07-01 | Purchase #03236 (Wire Transfer) | $26.00 | Wire Transfer — unauthorized email purchase via sales rep ⚠
+| 2026-07-01 | Purchase #03236 (Wire Transfer) | $26.00 | Wire Transfer — unauthorized email purchase via sales rep 

@@ -1,52 +1,72 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-07-09 02:22
+Last scanned: 2026-07-10 02:24
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 5 files — [federal_projects.md](federal_projects.md)
+- **Federal Projects** — 7 files — [federal_projects.md](federal_projects.md)
 - **Sales** — 1 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Google Drive Strategic Overview
+# Black Swift Technologies — Shared Drive Strategic Overview
 
-## Summary Statistics
-- **Total Drives Analyzed:** 2
-- **Total Documents:** 6 files
-- **Organization Status:** Minimal structure; appears early-stage or recently migrated
+## Document Volume & Organization
 
-## Drive-by-Drive Breakdown
+| Drive | Total Files | Folders | Organization Quality |
+|-------|------------|---------|----------------------|
+| Federal Projects | 7 | 1 | Good — clear categorical separation |
+| Sales | 1 | 0 | Minimal — requires growth |
 
-### Federal Projects (5 files)
-- **Focus:** Government contracts and compliance
-- **Key Documents:**
-  - Video files (2x .MOV) — possibly project documentation or training materials
-  - Contractor information & DCAAM compliance documentation (7641)
-  - Accounting system checklist (SF1408 form)
-  - Royal Navy meeting notes (2026-07-08)
-- **Observations:** Mix of compliance, finance, and meeting records; limited folder structure
+**Total across BST:** 8 files, minimal structured organization.
 
-### Sales (1 file)
-- **Focus:** Budget/project tracking for "Murphy's Pond" client
-- **Content:** Single budget document (BST_Budget_Murphy'sPond)
-- **Observations:** Severely underdeveloped; appears to be a single active project or incomplete migration
+---
 
-## Key Observations
+## Key Findings
 
-| Category | Finding |
-|----------|---------|
-| **Documentation Gaps** | Sales drive contains only 1 file; lacks proposals, contracts, or client records typical of active sales operations |
-| **Cross-Drive Patterns** | Federal drive shows compliance-heavy content; Sales lacks corresponding proposals/contracts |
-| **File Naming** | Inconsistent conventions (spaces vs. underscores; unclear versioning) |
-| **Organization** | No apparent folder hierarchies; files stored at root level |
-| **Timestamps** | Most recent activity: 2026-07-08; anomalous future dates (2099) on video files suggest metadata errors |
+### By Drive Purpose
+
+**Federal Projects Drive**
+- Focused on federal compliance and contracting requirements
+- Strong emphasis on accounting systems (SF1408), DCAA compliance, and application portals
+- Contains procedural documentation and regulatory checklists
+- Includes video assets (purpose unclear from naming)
+
+**Sales Drive**
+- Severely underdeveloped with single document: "BST Response to Final Report"
+- No proposal templates, client files, or organized project structure
+- Likely represents either new drive or consolidation needed from other locations
+
+### Cross-Drive Patterns
+- **Limited integration observed** — Federal and Sales drives show no apparent shared resources or templates
+- **No overlapping documentation** — Compliance/regulatory work appears siloed from business development
+
+### Important Resources & Templates
+- **SF1408 Accounting System Checklist** — Critical compliance template for federal contracts
+- **DCAAM Information Document** — Regulatory reference material
+- **No visible sales templates or proposal frameworks** — Gap in standardized business development materials
+
+---
 
 ## Areas Requiring Attention
-1. **Sales Drive Expansion** — Needs documented proposals, contracts, and client files for Murphy's Pond and other projects
-2. **Metadata Audit** — Video file dates (2099) appear corrupted
-3. **Folder Structure** — Establish consistent organization (by project, client, or document type)
-4. **Naming Conventions** — Standardize file naming across drives
-5. **Compliance Documentation** — Verify Federal drive contains all required DCAAM and accounting records
+
+1. **Sales Drive is severely underdeveloped** — Only 1 file suggests either:
+   - Documentation stored elsewhere (need consolidation)
+   - Sales processes lack formalization
+
+2. **Placeholder folders** — "Advanced Industries Annual Report (2024)" empty folder indicates incomplete setup
+
+3. **No apparent cross-functional resource sharing** — Compliance/federal materials not accessible to sales team
+
+4. **Limited metadata** — File names lack consistent dating or project tagging for easy retrieval
+
+---
+
+## Recommendations
+
+- Establish Sales Drive folder structure with proposal templates and client directories
+- Create shared template repository accessible across both drives
+- Implement consistent naming conventions (date-prefixed, project-coded)
+- Audit actual document locations across BST to identify consolidation opportunities

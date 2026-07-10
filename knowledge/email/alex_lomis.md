@@ -1,100 +1,83 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 92 (79 from previous scan + 13 new)
-- **Date range:** July 5–9, 2026
-- **Approximate volume:** Very high sustained activity July 6–7 (~58 messages); tapering to moderate activity July 8–9 (~13 messages over two days); procurement-dominated with emerging strategic communications
+- **Total messages scanned:** 115 (92 from previous scan + 23 new)
+- **Date range:** July 5–10, 2026
+- **Approximate volume:** High sustained activity July 6–9 (~71 messages); continuing procurement-dominated with active strategic technical coordination (QuSpin escalation intensifying); elevated administrative overhead (Rippling enrollment notifications)
 
 ## Key Correspondents
 
 ### Top Senders
-1. **Vendor order confirmations & shipping (automated):** McMaster-Carr (6 total, including 2 new), SendCutSend (7+), ServoCity (4), uAvionix (5), Rock West Composites, JawsTec, Pirate Ship, AliExpress, Home Depot, Eco-Cycle
-2. **Internal (new pattern):** Maciej Stachura (stachura@blackswifttech.com) — **NEW KEY CONTACT** — IMPORTANT communications on "S0 presentation" and "QuSpin Question" (2 IMPORTANT messages); Jack Elston continues to appear across vendor and strategic threads
-3. **External strategic/technical:** 
-   - **Simon.Laurence157@mod.gov.uk** (UK MOD) — Direct reply on "S0 presentation" (IMPORTANT, INBOX)
-   - **Jeffrey Orton** (QuSpin) — Technical question escalation via Jack Elston (IMPORTANT)
-   - **Beau Ritkes** (Apex Capital Partners) — Financial/options discussion (from previous scan)
-   - **Yair** (Grepow) — Battery sourcing (from previous scan)
-4. **Promotional/vendor outreach (new):** Workswell (defense/thermal imaging conference follow-up), Gemini (Google Notes integration), Grafana Labs, Driftaway Coffee, UnitedHealthcare, Rippling, Amazon Purchasing
+1. **Vendor order confirmations & shipping (automated):** McMaster-Carr (6 total), SendCutSend (7+), ServoCity (4), uAvionix (5), Rock West Composites, JawsTec (3 new messages July 9), Pirate Ship, AliExpress, Home Depot, Eco-Cycle, Pelican Products (NEW — July 9), Spindrift (NEW — July 10)
+2. **Internal (elevated pattern):**
+   - **Maciej Stachura** (stachura@blackswifttech.com) — S0 presentation coordination (from previous scan)
+   - **Ethan Domagala** (ethan.domagala@blackswifttech.com) — **NEW KEY CONTACT** — QuSpin technical escalation thread (3 IMPORTANT messages July 9); bridges QuSpin internal coordination with Maciej Stachura
+   - **Jack Elston** — MOD correspondence and vendor coordination
+   - **Meredith Needham** — Procurement coordination (Asana comment on SendCutSend order July 9)
+3. **External technical/strategic (NEW elevated activity):**
+   - **QuSpin team (NEW ESCALATION):** 
+     - Shweta Choudhury (schoudhury@quspin.com) — Technical response on "QuSpin Question" (IMPORTANT, July 10)
+     - Nbhatta@quspin.com — Escalated technical inquiry (IMPORTANT, July 9)
+     - Ethan Schalnat (echalnat@quspin.com) — Direct technical discussion with Ethan Domagala (IMPORTANT, July 9)
+   - **Simon.Laurence157@mod.gov.uk** (UK MOD) — S0 presentation (from previous scan)
+   - **Ryan Erbstoesser** (rerbstoesser@gateworks.com) — Technical support resolution on "Confirming compatibility" (IMPORTANT, July 9) — **NEW ACTIVE TECHNICAL CONTACT**
+   - **Paul O'Donnell** (paul@innovatechrm.com) — Sensor/gimbal pitch: "Your gimbal's sensor deserves a faster brain" (IMPORTANT, July 9) — **NEW EXTERNAL VENDOR/PARTNER OUTREACH**
+   - **Yair** (Grepow) — Battery sourcing quote request response (IMPORTANT, July 9)
+4. **Administrative/HR (new elevated volume):**
+   - **Rippling** (no-reply@rippling.com) — 3 IMPORTANT messages on open enrollment and pending tasks (July 9)
 
 ### Top Recipients (by Alex directly)
-- alex.lomis@blackswifttech.com — Receiving direct communication from Gemini (Google Notes), Grafana Labs, Workswell, UnitedHealthcare, Rippling (task assignment)
+- **alex.lomis@blackswifttech.com** — Receiving notifications from Pelican Products (form submission), Toggl Track (no-subject update), Rippling (enrollment/tasks—3 messages), Yair/Grepow (quote response)
+- **alex.lomis@bst.aero** — Paul O'Donnell outreach (gimbal sensor pitch)
+- **rerbstoesser@gateworks.com** — Alex sent technical compatibility confirmation (July 9)
+- **yair@grepow.com** — Alex sent quote request follow-up (July 9)
 
 ### Internal vs External
-- **External (vendor/supplier-dominated):** ~55+ messages (transactional confirmations routed through purchasing@blackswifttech.com)
-- **Internal BST:** 6+ messages (Maciej Stachura — NEW, Jack Elston, Joshua Fromm, Meredith Needham, Rippling task assignment)
-- **Direct external business (non-vendor):** 5 messages (UK MOD, QuSpin, Grafana, Workswell, Driftaway Coffee)
-- **Promotional/administrative:** 12+ messages (healthcare, coffee, software webinars, thermal imaging conference)
+- **External (vendor/supplier-dominated):** ~65+ messages (transactional confirmations + NEW technical escalations with QuSpin and Gateworks)
+- **Internal BST:** 9+ messages (Maciej Stachura, Ethan Domagala—NEW, Jack Elston, Meredith Needham, Asana notification)
+- **Direct external business (non-vendor):** 8 messages (QuSpin team—3, Paul O'Donnell—1, Yair/Grepow—1, Ryan Erbstoesser—1, UK MOD—from previous scan, form submissions—1)
+- **Promotional/administrative:** 15+ messages (Rippling—3, Spindrift, benefits, coffee, Pelican Products, tracking)
 
 ## Topic Patterns
 
 ### Primary Focus Areas
 
 **1. Procurement & Supply Chain (continuing dominant pattern)**
-- **McMaster-Carr orders:** 6 total messages (2 new July 8–9); continued steady component sourcing
-- **SendCutSend custom fabrication:** Ongoing (order S439K456 referenced in previous scan)
-- **uAvionix backorder coordination:** Continues across team (Josh Fromm, Meredith Needham)
+- **JawsTec Manufacturing:** 3 new messages (July 9)—order #69825, payment request, possible order delay notification from Briana Gonzalez (escalation signal)
+- **SendCutSend custom fabrication:** Continuing; "sendcutsend for hurric…" Asana comment from Meredith Needham (July 9) — **INFERENCE: "Hurricane" project codename or rapid-deployment design, likely related to aeronautical application**
+- **Rock West Composites:** Cash sale receipt (July 9)
+- **Grepow battery sourcing:** Quote request ongoing (July 9) — Alex exchanging directly with Yair
 
-**2. Strategic/Defense-Related Work (NEW — elevated significance)**
-- **"S0 presentation" (CRITICAL):** 
-  - UK MOD (Simon.Laurence157@mod.gov.uk) responding directly on July 8 (IMPORTANT, INBOX)
-  - Maciej Stachura forwarding/coordinating with Jack Elston (2 IMPORTANT exchanges on July 8)
-  - Gemini Google Notes capture: "S0 Discussion" on July 8 (IMPORTANT) — suggests formal meeting/discussion preparation
-  - **Inference:** S0 is likely a critical project milestone or government contract presentation; involves MOD engagement
-- **QuSpin technical question (IMPORTANT):** Jack Elston escalating to Jeffrey Orton (QuSpin) on July 8 (IMPORTANT); Maciej Stachura also engaged in follow-up — suggests sensor/technical component sourcing for defense application
+**2. Strategic/Defense-Related Work (ESCALATING)**
+- **"S0 presentation" (CRITICAL—from previous scan):** Active coordination with Maciej Stachura and UK MOD (Simon Laurence)
+- **"QuSpin Question" (CRITICAL—NEW ESCALATION):** 
+  - Internal escalation chain: Alex → Jack Elston → QuSpin (Ethan Schalnat) → QuSpin internal (Nbhatta) and response from Shweta Choudhury (July 9–10)
+  - Parallel internal coordination: Ethan Domagala (BST) engaging directly with Ethan Schalnat (QuSpin, July 9)
+  - Maciej Stachura also involved in escalation loop (IMPORTANT coordination July 9)
+  - **Status:** Multi-stakeholder technical question; high urgency indicated by IMPORTANT flags across all messages
+  - **Inference:** Sensor/magnetometry component critical path item; likely blocking feature development or certification
 
-**3. Financial/Professional Development (continuing)**
-- **Grafana Alloy workshop:** Final registration reminder (July 21 event, marked IMPORTANT) — cloud infrastructure monitoring
-- **Workswell thermal imaging:** Post-Eurosatory 2026 follow-up (marked IMPORTANT) — suggests BST attended defense/aerospace conference; thermal imaging may be relevant to projects
-- **UnitedHealthcare benefits:** Promotional health plan notification (marked IMPORTANT) — routine benefits administration
+**3. Technical Component Validation (NEW)**
+- **Gateworks compatibility:** Ryan Erbstoesser providing technical support response to Alex on "[Technical Support] Confirming compatibility" (IMPORTANT, July 9)
+  - Alex sent confirmation back same day
+  - **Inference:** Integration/compatibility verification for compute/embedded system component; likely for gimbal or sensor platform
 
-**4. Administrative/HR (routine)**
-- **Rippling task assignment:** New task assigned to Alex (July 8, IMPORTANT, CATEGORY_UPDATES) — nature of task not visible from header
+**4. External Vendor Outreach (NEW)**
+- **Paul O'Donnell (Innovate CHR):** Unsolicited outreach with "Your gimbal's sensor deserves a faster brain" (IMPORTANT, July 9)
+  - **Inference:** Sensor processor/brain module pitch; suggests external party aware of BST gimbal development project
+  - **Notable:** Uses .bst.aero domain address, indicating known business relationship context
 
-**5. Lifestyle/Operational**
-- **Driftaway Coffee:** Upcoming coffee shipment to purchasing@bst.aero (July 8) — routine office supply
+**5. Administrative/HR (elevated volume)**
+- **Rippling open enrollment:** 3 messages (July 9)—action required reminders + pending tasks notification (IMPORTANT, CATEGORY_UPDATES)
+- **Pelican Products form submission:** Confirmation received (July 9, IMPORTANT, INBOX) — nature of form not visible
+
+**6. Administrative Subscriptions/Services**
+- **Toggl Track:** No-subject IMPORTANT message (July 9) — time tracking software notification
+- **Spindrift subscription:** Order confirmation (July 10)
+- **Driftaway Coffee:** Order confirmation to purchasing@bst.aero (July 9)
 
 ### Recurring Vendor/Supplier Names
-- **Electronics/Sensors:** QuSpin (NEW — sensor/magnetometry components), uAvionix, Grepow, Gateworks, ServoCity, GetFPV
-- **Metal/Composite Fabrication:** SendCutSend, Rock West Composites, JawsTec Manufacturing
-- **General Industrial:** McMaster-Carr (increased activity), Home Depot
-- **Logistics:** Pirate Ship, AliExpress
-- **Software/Infrastructure:** Grafana Labs
-- **Thermal Imaging/Defense:** Workswell (NEW — suggests defense/security equipment sourcing)
-
-## Communication Patterns
-
-### Time Patterns
-- **July 8 concentrated burst:** 11 messages (Wed afternoon/evening UTC and -0500/-0600 US time zones)
-- **Heaviest activity:** Wed July 8, 12:00–18:00 UTC (corresponds to morning–afternoon US Central/Mountain)
-- **Early morning spillover:** July 9 02:30 UTC (McMaster-Carr receipt, transactional)
-- **Peak days:** Tuesday–Wednesday (mid-week procurement and strategic coordination)
-- **Geographic distribution:** North America primary; some international (UK MOD, Workswell/EU)
-
-### Automated vs Human Correspondence
-- **Automated/transactional:** ~45+ messages (order confirmations, shipping, receipts, benefits notifications)
-- **Human-initiated high-priority:** 7 messages
-  - Maciej Stachura (2 IMPORTANT on S0/QuSpin) — internal strategic coordination
-  - Simon.Laurence157@mod.gov.uk — IMPORTANT external government response on S0
-  - Jack Elston (QuSpin escalation) — technical/vendor coordination
-  - Gemini (Google Notes) — IMPORTANT meeting notes capture on "S0 Discussion"
-  - Grafana Labs — IMPORTANT workshop registration reminder
-  - Rippling — IMPORTANT task assignment
-  - Workswell — IMPORTANT post-conference follow-up
-- **Promotional/newsletter:** Workswell, Grafana, UnitedHealthcare, Driftaway Coffee, Amazon
-
-### Mailing Lists/Shared Inbox Routing
-- Continued heavy use of **purchasing@blackswifttech.com** for vendor confirmations
-- New routing pattern: **purchasing@bst.aero** (Driftaway Coffee) — indicates secondary procurement email address or domain variant (.aero suggests aerospace focus)
-- Coordination via Maciej Stachura and Jack Elston on MOD/QuSpin threads (not exclusively routed through purchasing inbox)
-
-## Key Relationships
-
-### Internal Collaborators
-- **Maciej Stachura** (stachura@blackswifttech.com) — **NEW PRIMARY CONTACT** — Directly involved in S0 presentation coordination and QuSpin technical escalation; appears to be strategic/technical lead on government/defense projects
-- **Jack Elston** (elstonj@blackswifttech.com) — Continues coordinating MOD correspondence (Simon Laurence) and QuSpin vendor escalation; bridges external government/supplier relationships
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Purchasing coordinator for uAvionix backorder
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — Supporting procurement team
-
-### External Relationships (Strategic/High-Value)
-- **Simon.Laurence157@
+- **Electronics/Sensors/Compute:** QuSpin (ESCALATED—primary sensor supplier), Gateworks (embedded compute—ACTIVE), Grepow (batteries—quote stage), GetFPV, ServoCity
+- **Metal/Composite Fabrication:** SendCutSend (hurric[ane project]), JawsTec Manufacturing (ESCALATED—possible delay signal), Rock West Composites
+- **General Industrial:** McMaster-Carr
+- **External Tech Vendors:** Paul O'Donnell/Innovate CHR (NEW), Pelican Products (NEW—cases

@@ -22,7 +22,7 @@
 
 **[2026-07-01] Power of Attorney Authorization — Awaiting Meredith O'hara Needham's Approval**
 
-Daniel Prendergast requested authorization to sign power of attorney document from Robert Correia (Aeronet). Daniel flagged no legal concerns but is seeking management approval before proceeding. **Status: awaiting Meredith O'hara Needham's response.**
+Daniel Prendergast sent follow-up message requesting permission to sign power of attorney document from Robert Correia (Aeronet) for customs broker. Daniel flagged no legal concerns ("Looks okay to me, but I'm not a lawyer") but is seeking management approval before proceeding. **Status: awaiting Meredith O'hara Needham's response.**
 
 **[2026-06-30] Project Due Date Passed — Deliverables Outstanding**
 

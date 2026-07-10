@@ -1,86 +1,70 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 93 (across four scan periods)
-- **Date range:** 04 Jul 2026 – 09 Jul 2026 (6 days)
-- **Volume:** Heavy purchasing/procurement activity; approximately 15.5 messages per day during this period
-- **Latest data period:** 08–09 Jul 2026 adds 8 additional messages; activity moderating slightly from Jul 7 peak but procurement continues
+- **Total messages scanned:** 116 (across five scan periods)
+- **Date range:** 04 Jul 2026 – 10 Jul 2026 (7 days)
+- **Volume:** Heavy purchasing/procurement activity with sustained baseline; approximately 16.6 messages per day
+- **Latest data period:** 09–10 Jul 2026 adds 23 additional messages; activity remains elevated; procurement orders continuing to complete/deliver
 
 ## Key Correspondents
 
 ### Internal (BST)
-- **Jack Elston** (elstonj@blackswifttech.com, also listed as purchasing@blackswifttech.com) — frequent collaborator on technical and procurement matters; receives promotional emails (AliExpress); active QuSpin technical discussions (Jul 8)
+- **Jack Elston** (elstonj@blackswifttech.com, also listed as purchasing@blackswifttech.com) — frequent collaborator on technical and procurement matters; receives promotional emails (AliExpress); active QuSpin technical discussions; **NEW:** SwiftCore 3.1 Review meeting invite (Jul 9, marked IMPORTANT; attendees include Sam Hild, Maciej Stachura, Ben Busby)
 - **Josh Fromm / Joshua Fromm** (purchasing@blackswifttech.com) — primary recipient of vendor order confirmations and support tickets; active uAvionix back-order coordination
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — escalates uAvionix support tickets (ticket #50873); coordinates vendor communications
-- **Maciej Stachura** (stachura@blackswifttech.com) — **NEW internal contact** — QuSpin technical discussion (Jul 8, marked IMPORTANT); responds to Jack Elston on technical questions
+- **Meredith Needham** (meredith.needham@blackswifttech.com, also receiving purchasing@blackswifttech.com) — escalates vendor support tickets; HeliDirect sales emails routed to her (Jul 9)
+- **Maciej Stachura** (stachura@blackswifttech.com) — QuSpin technical discussions; **NEW:** SwiftCore 3.1 Review attendee (Jul 9); **NEW:** direct collaboration with Tom Simcox (Bartington) on UAS-MAG high performance Dronecan compass (Jul 9, marked IMPORTANT)
+- **Ben Busby** (ben.busby@blackswifttech.com) — **NEW internal contact** — SwiftCore 3.1 Review attendee (Jul 9)
+- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — **NEW internal contact** — active in QuSpin technical thread (Jul 9); responds to Ethan Schalnat (QuSpin) and interfaces with Maciej Stachura (marked IMPORTANT); appears to be technical/engineering lead
 - **Chad Atwood** (chad@theaiginc.com) — external contact; sent Open Enrollment notice
 
 ### External Vendors (Procurement Focus)
-- **McMaster-Carr** (chi.sales@mcmaster.com, invoice.reply@mcmaster.com) — continuing sustained high volume; Jul 7–9 order confirmations and receipts; receipt duplicates suggest high order frequency (two identical receipts Jul 8–9)
-- **SendCutSend** (custom fabrication/cutting vendor) — dominant Jul 7 activity with intensive vendor coordination (Jake, Max, Seth); orders S439K456, SP128831; activity appears to have subsided by Jul 8–9
-- **uAvionix** (support@uavionix.com, website@uavionix.com, squawk@uavionix.com) — escalated back-order coordination; Ticket #50873; 4 pingRX Pros on back-order; activity ongoing but intensity moderating
-- **JawsTec Manufacturing** (info@jawstec.com) — shipment notifications
-- **ServoCity** (sales@servocity.com) — multiple order updates (#300045463)
-- **Rock West Composites** — new order notification #Z100709976
-- **Eco-Cycle** (ar@ecocycle.org) — invoice and payment receipt (materials/environmental compliance service)
-- **Driftaway Coffee** (ops@driftaway.coffee) — **NEW vendor** — coffee shipment notification (Jul 8); routed to purchasing@bst.aero; appears to be office supplies/amenities rather than technical procurement
-- **Toggl Track** (support@track.toggl.com) — time tracking tool
-- **Rippling** (no-reply@rippling.com) — payroll/benefits platform; new task assignment notification (Jul 8) in addition to earlier Open Enrollment notice; suggests active HR system usage
+- **McMaster-Carr** — continuing sustained high volume (not in latest 23-message scan, but pattern established)
+- **SendCutSend** (custom fabrication/cutting vendor) — **NEW:** Order SF311738 delivered (Jul 9); indicates earlier urgent orders have completed
+- **uAvionix** — continuing back-order coordination (not in latest scan, pattern ongoing)
+- **JawsTec Manufacturing** (info@jawstec.com, briana@jawstec.com) — **ESCALATION:** Order delay notification from Briana Gonzalez (Jul 9); invoice #69825 received (Jul 9); payment request pending; suggests timeline pressure or supply chain issue
+- **ServoCity** — continuing (not in latest scan)
+- **Rock West Composites** (adriana.smith@1rockwest.com) — Cash Sale #CS013200 received (Jul 9); multiple purchase prompts
+- **Eco-Cycle** — earlier pattern (not in latest scan)
+- **Driftaway Coffee** (hi@driftaway.coffee) — Loyalty points notification and order #DR32058COF confirmed (Jul 9); continuing office supplies/amenities procurement
+- **Spindrift** (shop@drinkspindrift.com) — **NEW vendor** — subscription order notification (Jul 10); office beverages/amenities supplier
+- **HeliDirect** (sales@helidirect.com) — **NEW vendor** — July coupons and product promotion (Goosky E2 Marine Scheme); routed to Meredith Needham; suggests recreational/hobby interest or potential hardware evaluation
+- **Toggl Track** — time tracking (pattern established)
+- **Rippling** — **ESCALATION:** Three action-required notifications (Jul 9); open enrollment reminders and pending tasks assigned; indicates active HR system engagement requiring Sam's action
+- **USPS Informed Delivery** (via Purchasing) — daily package tracking digest routed to purchasing inbox (Jul 9); suggests heavy incoming physical mail/packages
+
+### External (Technical/Research)
+- **QuSpin** — **INTENSIFIED:** Multiple parallel technical threads (Jul 9):
+  - **Jeffrey Orton** (jorton@quspin.com) — earlier contact (pattern established)
+  - **Shweta Choudhury** (schoudhury@quspin.com) — **NEW key contact** — active technical response to Jack Elston (Jul 9, marked IMPORTANT)
+  - **Nbhatta** (nbhatta@quspin.com) — **NEW contact** — responds to Shweta Choudhury on QuSpin Question thread (Jul 9, marked IMPORTANT)
+  - **Ethan Schalnat** (echalnat@quspin.com) — **NEW contact** — replies to Ethan Domagala (BST) on QuSpin Question (Jul 9, marked IMPORTANT); indicates BST-QuSpin technical dialog expanding
+- **Bartington** (Tom Simcox, tom.simcox@bartington.com) — **NEW external contact** — Maciej Stachura collaborating on UAS-MAG high performance Dronecan compass (Jul 9, marked IMPORTANT); suggests hardware/sensor evaluation partnership
 
 ### External (Non-Procurement)
-- **Jeffrey Orton** (jorton@quspin.com) — QuSpin technical contact; Jul 8 response thread includes Jack Elston and Maciej Stachura; marked IMPORTANT
-- **Speedway Motors** (via Purchasing) — **NEW external contact** — forum/educational content on automotive suspension components (sway bars/anti-roll bars); Jul 8; routed through purchasing distribution; suggests technical interest or educational interest rather than direct vendor relationship
-- **The X-Plane Team** (noreply@x-plane.com) — promotional/event (Oshkosh prep)
-- **Veeam Webinar** (webinars@veeam.com) — security webinar invitation
-- **Google Gemini** (gemini-notes@google.com) — **NEW** — AI note-taking service; captures BST Internal Update Meeting notes from Jul 8; marked IMPORTANT
+- **The X-Plane Team** (noreply@x-plane.com) — promotional/event (pattern established)
+- **Veeam Webinar** (veeam_team@veeam.com) — **NEW:** VeeamON Tour Orange County event invitation (Jul 9); suggests IT/security/infrastructure event interest
+- **Google Gemini** — earlier AI note-taking pattern (not in latest scan)
+- **Speedway Motors** — earlier automotive content (not in latest scan)
 
 ## Topic Patterns
 
-### Procurement/Orders (Primary — Sustained, Moderating)
-- **McMaster-Carr** — continuing high-volume standard components; two identical order receipts (Jul 8–9) for Jul 7 orders; suggests automated receipt emails or rapid duplicate orders
-- **SendCutSend** — intensity subsided post-Jul 7; custom fabrication/cutting orders (S439K456, SP128831) appear to have progressed
-- **uAvionix pingRX Pro back-order** — continuing back-order coordination; ticket #50873 active across team
-- **JawsTec Manufacturing, ServoCity, Rock West Composites** — continuing ongoing orders
-- **Eco-Cycle** — procurement complete (invoice and payment received)
-- **Driftaway Coffee** — office supplies/amenities procurement
+### Procurement/Orders (Primary — Ongoing, Diversifying)
+- **SendCutSend** — Order SF311738 delivery completed (Jul 9); earlier urgent phase resolved
+- **JawsTec Manufacturing** — **POTENTIAL ISSUE:** Briana Gonzalez reports possible order delay (Jul 9); Invoice #69825 and payment request received same day; suggests delay notification followed by immediate payment demand; may require escalation
+- **Rock West Composites** — Cash Sale #CS013200 completed (Jul 9); continuing orders
+- **Driftaway Coffee & Spindrift** — Continuing office amenities/beverage subscription orders; loyalty program engagement indicates recurring subscription model
+- **uAvionix back-order** — Continuing (not visible in latest scan but remains active from earlier pattern)
+- **McMaster-Carr** — Continuing standard components (not visible in latest scan but pattern sustained)
+- **USPS package tracking** — Daily digest routed to purchasing; suggests high-volume physical component delivery
 
-### Technical/Engineering
-- **QuSpin correspondence** — Jul 8 active thread between Jack Elston and Jeffrey Orton; Maciej Stachura provides technical response (marked IMPORTANT); indicates ongoing collaborative technical work
-- **Speedway Motors** — automotive suspension technical content; suggests either research activity or technical team interest in vehicle engineering
+### Technical/Engineering (Intensifying)
+- **QuSpin collaboration** — **EXPANDED COMPLEXITY:** Jul 9 shows multiple parallel QuSpin threads:
+  - Jack Elston + Shweta Choudhury + Nbhatta thread (marked IMPORTANT)
+  - Ethan Domagala + Ethan Schalnat thread (marked IMPORTANT)
+  - Suggests either multiple QuSpin modules under evaluation or escalated technical issue requiring specialist review
+- **SwiftCore 3.1 Review** — Meeting scheduled Thu Jul 9, 1:30pm–2pm MDT; attendees: Jack Elston, Sam Hild, Maciej Stachura, Ben Busby (marked IMPORTANT); suggests internal software/system review cycle
+- **UAS-MAG high performance Dronecan compass** — Maciej Stachura actively coordinating with Bartington's Tom Simcox (Jul 9, marked IMPORTANT); appears to be hardware sensor/integration project
+- **Speedway Motors & automotive suspension** — Earlier pattern suggests ongoing vehicle engineering research
 
 ### Administrative/HR
-- **Rippling task assignment** — New task (Jul 8) assigned in HR system; suggests Sam has active HR/administrative responsibilities
-- **Open Enrollment** — earlier notice from Rippling and Chad Atwood
-- **Time tracking** — Toggl Track notifications
-
-### Note-Taking & Knowledge Management
-- **Google Gemini** — AI-powered note capture for "BST Internal Update Meeting" (Jul 8, marked IMPORTANT); suggests Sam participates in or organizes internal strategy/update meetings
-
-## Communication Patterns
-
-- **Cooling activity post-Jul 7** — Jul 7 showed 30+ messages; Jul 8–9 shows only 8 total, indicating peak procurement sprint has passed or project phase has transitioned
-- **Duplicate vendor receipts** — Two identical McMaster-Carr receipts (Jul 8–9) for same Jul 7 order; suggests either email system duplication or rapid re-ordering behavior
-- **Routing ambiguity continues** — Vendor emails addressed to both PURCHASING@BLACKSWIFTTECH.COM and purchasing@bst.aero; suggests two separate purchasing email addresses or domain aliases (blackswifttech.com vs bst.aero)
-- **Centralized distribution inbox** — Most procurement emails route to shared purchasing address despite sam.hild@blackswifttech.com inbox ownership
-- **Personal inbox emails** — HR/admin (Rippling task), time tracking, and note-taking tools route directly to sam.hild@blackswifttech.com; indicates direct personal account management for administrative functions
-- **IMPORTANT flags** — QuSpin technical thread and internal update meeting notes both marked IMPORTANT; suggests technical and strategic discussions are priority
-
-## Key Relationships
-
-### Primary Collaborators
-- **Jack Elston** (Internal) — remains closest technical collaborator; active QuSpin discussions (Jul 8)
-- **Maciej Stachura** (Internal) — **NEW key collaborator** — technical expert on QuSpin questions; responds with IMPORTANT-flagged input (Jul 8)
-- **Josh Fromm** (Internal) — primary vendor order management and escalation contact
-- **Meredith Needham** (Internal) — vendor support coordination
-- **Jeffrey Orton** (QuSpin, External) — ongoing technical partner; active dialog (Jul 8)
-
-### Vendor Relationships
-- **McMaster-Carr** — sustained high-volume standard components supplier
-- **SendCutSend** — custom fabrication vendor; urgent phase appears resolved post-Jul 7
-- **uAvionix** — critical back-order on active timeline
-- **JawsTec Manufacturing, ServoCity, Rock West Composites** — recurring suppliers
-
-## Notable Observations
-
-- **Project phase transition visible** — Jul 7 intensive procurement sprint (30+ messages, multiple vendors, SendCutSend crisis coordination) has cooled by Jul 8–9 (8 total messages); suggests either orders have been placed and phase completed, or activity has shifted to engineering/technical work
-- **Technical discussions intensifying** — QuSpin thread (marked IMPORTANT) active with new internal technical expert (Maciej Stachura) joining; suggests engineering phase may
+- **Rippling open enrollment** — **ESCALATION:** Three separate notifications (Jul 9) including action-required reminders and pending tasks;

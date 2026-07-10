@@ -12,44 +12,79 @@
     "contacts": []
   },
   "contract": {
-    "type": "unknown",
-    "number": null,
+    "type": "fixed_price",
+    "number": "1305M226D0012",
     "total_value": 483000.0,
-    "start_date": "2026-07-31",
-    "end_date": "2026-07-31",
-    "payment_cadence": null,
-    "documents": []
+    "start_date": "2026-02-01",
+    "end_date": "2031-01-31",
+    "payment_cadence": "annual ordering periods with NTE line items for travel and NRE",
+    "documents": [
+      "drive://Budget Structure",
+      "drive://(1305M226D0012) Attachment 1-Specifications_Black Swift.pdf",
+      "drive://(1305M226D0012) Attachment 2-Schedule of Items and Prices_1305M226D0012.pdf"
+    ]
   },
   "budget": {
-    "approved": 483000.0,
-    "approved_source": "asana_custom_field",
-    "line_items": [],
+    "approved": 13281750.0,
+    "approved_source": "sow_drive",
+    "line_items": [
+      {
+        "category": "Equipment",
+        "amount": 10980250.0,
+        "description": "Black Swift S0 sUAS Platforms: 150 units @ $18,000 (Period 1) + 150 @ $18,630 (Period 2) + 125 @ $19,282 (Period 3) + 125 @ $19,957 (Period 4) + 125 @ $20,655 (Period 5)",
+        "source_doc": null
+      },
+      {
+        "category": "Labor",
+        "amount": 1458000.0,
+        "description": "Mission Days Operational Support (30 days @ $2,850 per period × 5 periods) + Operational and Testing Support (6 @ $6,000 × 5) + Operator and Observer Training (1 @ $6,000 × 5) + Instructor Training (1 @ $600 × 5)",
+        "source_doc": null
+      },
+      {
+        "category": "Other",
+        "amount": 60000.0,
+        "description": "Course Development: Operator and Observer Course ($6,000 × 5 periods) + Instructor Training Course ($6,000 × 5 periods)",
+        "source_doc": null
+      },
+      {
+        "category": "Other",
+        "amount": 250000.0,
+        "description": "Travel for Operational Support: Not-to-Exceed $50,000 per period × 5 periods",
+        "source_doc": null
+      },
+      {
+        "category": "Other",
+        "amount": 990000.0,
+        "description": "Non-Recurring Engineering: Technical Documentation ($66,000 × 5) + Modeling ($66,000 × 5) + NHC Workflow Integration ($66,000 × 5) = $990,000 NTE",
+        "source_doc": null
+      }
+    ],
     "spent": {
       "labor": {
-        "amount": 149560.0,
+        "amount": 154456.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-09"
+        "last_updated": "2026-07-10"
       },
       "purchases": {
         "amount": 970.76,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-07-09"
+        "last_updated": "2026-07-10"
       },
       "other_qbo": {
-        "amount": 31.31,
+        "amount": 1394.59,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-07-09"
+        "last_updated": "2026-07-10"
       },
-      "total": 150562.07,
+      "total": 156821.6,
       "by_line_item": {}
     },
     "committed": 592.94,
-    "remaining": 331844.99,
+    "remaining": 13124335.46,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-09T09:03:54Z"
+    "last_reconciled": "2026-07-10T09:05:03Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -99,6 +134,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-07-09T09:03:54Z",
+  "last_full_rebuild": "2026-07-10T09:05:03Z",
   "last_incremental_update": null
 }

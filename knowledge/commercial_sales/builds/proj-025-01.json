@@ -1,0 +1,41 @@
+{
+  "asana_gid": "proj-025-01",
+  "asana_task_name": "University of Notre Dame (Contact: David Richter, david.R.Richter.26@nd.edu, 574-631-4839) [025-01]",
+  "customer": "University of Notre Dame",
+  "customer_contact": "David Richter",
+  "customer_email": "david.R.Richter.26@nd.edu",
+  "receive_by": "2026-06-19",
+  "ship_to": "",
+  "items": [
+    {
+      "description": "S0 air-deployed platform",
+      "quantity": 2
+    }
+  ],
+  "payment_state": "invoice_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": "2025-02-04",
+  "invoice_date": "2025-03-01",
+  "invoice_amount": 38000,
+  "invoice_number": "P2154937",
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Jack Elston",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Commercial university research PO for 2 air-deployed S0 platforms. Contract period 02/07/2025\u201310/13/2025 (hurricane season delivery July\u2013October 2025). Invoice P2154937 for $38,000 recorded in QBO March 2025. 4-month timeline given by Jack Elston on verbal order 2026-02-19 based on estimate 1373.",
+  "missing_fields": [
+    "ship_to",
+    "build_state",
+    "ship_state",
+    "paid_date"
+  ],
+  "last_evidence_date": "2026-02-19",
+  "last_contact_date": null
+}
