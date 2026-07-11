@@ -106,11 +106,11 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Confirmed: Channel 13 reserved for heated pitot
 - Action: Payload setup spreadsheet identified as needing refresh (Jack Elston referenced existing configuration sheet)
 
-**GCS Hardware Platform Selection (July 7-9, 2026 - FINALIZED):**
-- Initial evaluation compared Gateworks board options with different cost ($350 vs $550) and processor capabilities (i.MX8M Mini vs i.MX8M Plus)
-- **Decision: Use exact setup from NOAA GCS regarding Gateworks board and expansion configuration** (July 7-8, 2026)
-  - Rationale: Maintains consistency across all BST ground stations for simplified setup and standardization
+**GCS Hardware Platform Selection (July 7-10, 2026 - FINALIZED):**
+- **Initial Decision (July 7-8, 2026):** Use exact setup from NOAA GCS regarding Gateworks board and expansion configuration
   - Two-slot board selected to provide more options for future expansion
   - Alternative approach considered: Using onboard UART for GPS and USB for radio to minimize expansion cards needed
-  - Final approach: Replicate proven NOAA GCS configuration for fastest path to deployment
--
+- **Final Configuration Approved (July 10, 2026):**
+  - Platform: GW7200 board in same setup as rack-mounted stations
+  - Components: High precision GPS, USB wifi card, USB+FTDI for P900 radio (allows easier radio swaps), USB to OpenUPS board (NOT SMBUS)
+  - Power management: Power

@@ -6,16 +6,16 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 
 **Key Participants:**
 - Jack Elston (leadership, customer relationships, technical decisions, travel coordination, firmware/GCS troubleshooting, training decisions)
-- Joshua Fromm (manufacturing, technical implementation, battery/avionics work, shipping coordination, aircraft configuration)
+- Joshua Fromm (manufacturing, technical implementation, battery/avionics work, shipping coordination, aircraft configuration, product strategy input)
 - Melissa Phillips (shipping/logistics coordination)
-- Maciej Tromba (payload/camera work, customer communication, sales decisions, demo participation, methane payload data processing)
+- Maciej Tromba (payload/camera work, customer communication, sales decisions, demo participation, methane payload data processing, stakeholder needs documentation, S0 ISR camera specifications)
 - Danny Troke (QC, testing, batteries)
 - Meredith Needham (shipping, logistics, quote coordination, invoice tracking)
 - Nate (assembly, QC flights, payload prep, GCS builds, quotes, training coordination, customer outreach)
 - Paige Smith (sales coordination, customer communication, website form submissions)
 - Beck Cotter (customer outreach, email coordination, S0/S0-VTOL ownership coordination, Arctic demo coordination, travel booking, presentation materials, meeting scheduling)
 - Ben Busby (team member, sales pipeline tracking, payload packet analysis)
-- Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead, demo participation, presentation management, field operations coordination, training pricing inquiries, training logistics coordination, **UMES S3 flight training instructor**, **Murphy's Pond Flight campaign lead**)
+- Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead, demo participation, presentation management, field operations coordination, training pricing inquiries, training logistics coordination, **UMES S3 flight training instructor**, **Murphy's Pond Flight campaign lead**, NASA S2 delivery coordination, field trip logistics)
 - Dan H (CU - external customer, E2 battery interest)
 - Bassil (customer - methane research, travel May 19-June 9, 2026, field operations coordination)
 - Stefan (Atmofacts - external partner, methane algorithm tuning)
@@ -27,8 +27,11 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - NREL (prospective customer - E2 training request, June 19, 2026)
 - Tanay (prospective customer/contact - scheduling discussions underway, June 21, 2026)
 - Ryan Nesselrodt (SRI International/Center for Innovation - prospective customer, quantum sensing interview request, July 28-29, 2026)
+- **Royal Navy (prospective international customer - S0 ISR system interest, camera/comm link requirements, July 2026)**
+- **Supercool (prospective customer - cloud seeding operations, S2 aircraft inquiry, July 10, 2026)**
+- Ethan & Spencer (team members attending Murphy's Pond field campaign, Aug 4-6)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: July 8, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: July 10, 2026.
 
 ---
 
@@ -95,15 +98,4 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Customer Dan H (CU) interested in purchasing used E2 battery pack
 - Maciej Tromba seeking guidance on discount vs. new pack ($3,699)
 - Rationale for discount: Significant labor savings from not building new unit
-- **DECISION FINALIZED (May 18, 2026):** Maciej Tromba approved pricing used E2 battery at $1,000 to CU/Dan H
-- Invoice to be resent to CU with used E2 battery quote and simulator invoice
-
-**S2 Battery Configuration - Big Bus Bar Modification (May 12, 2026)**
-- Joshua Fromm identified that multiple Iris batteries (units #2, #3, #5) do not have the "big bus bar mod"
-- Jack Elston decision: Flight path must be limited and old 14" prop must be used with these units
-
----
-
-## Projects & Initiatives
-
-###
+- **DECISION FINALIZED (May 18, 2026):** Maciej Tromba approved pricing used E2 battery at $1,000 to CU/
