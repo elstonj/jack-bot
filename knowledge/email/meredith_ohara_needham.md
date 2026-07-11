@@ -1,10 +1,10 @@
 # Meredith O'hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,073 emails (947 previous + 78 from Jul 8 + 48 new from Jul 9–10)
-- **Date range:** June 15–July 10, 2026 (26 days)
-- **Approximate volume:** ~41 emails/day
-- **Trend:** Sustained ultra-high-velocity operational management with escalating government compliance urgency (DCAA audit active), active PEO vendor engagement (Deel contract execution phase), and elevated component procurement velocity (Amazon, JawsTec, Rock West Composites, DHL international shipments)
+- **Total messages scanned:** 1,135 emails (1,073 previous + 62 new from Jul 10–11)
+- **Date range:** June 15–July 11, 2026 (27 days)
+- **Approximate volume:** ~42 emails/day
+- **Trend:** Sustained ultra-high-velocity operational management with critical government compliance urgency (DCAA audit active and intensifying), active PEO vendor engagement (Deel contract execution phase + pricing meeting scheduled Jul 13), elevated component procurement velocity with international logistics, and multi-vendor software/operational platform renewals (Toggl, Labelmaster, Rippling enrollment)
 
 ---
 
@@ -14,79 +14,74 @@
 
 **Automated Systems & Purchasing Routing:**
 
-1. **Purchasing system** (`purchasing@blackswifttech.com`) — **460+ cumulative messages**
+1. **Purchasing system** (`purchasing@blackswifttech.com`) — **470+ cumulative messages**
    
-   **Component & Equipment Deliveries (Jul 9–10):**
-   - **Amazon.com** — **4 new shipment notifications (Jul 9–10)**
-     - **Maxmoral 3PCS DC-099 DC Power Supply** (ordered Jul 9, 18:59 UTC; shipped Jul 10, 01:57 UTC, 04:39 UTC) [2 tracking emails]
-     - **FNIRSI DWS-200 200W Digital Oscilloscope** (2 units, shipped Jul 10, 01:56 UTC) [UNREAD]
-     - Promotional credit issued (Jul 10, 01:56 UTC) [UNREAD]
-     - **Pattern:** Rapid test/lab equipment procurement
+   **Component & Equipment Deliveries (Jul 10–11):**
+   - **DHL Express** — **Shipment #8614299702 continues (Jul 10–11)**
+     - **DHL Shipment Notification (Jul 11, 00:15 UTC, MYT timezone)** [CATEGORY_FORUMS, INBOX] — persistent international shipment tracking
+     - **DHL On Demand Delivery notifications (Jul 10, 19:16 UTC; Jul 10, 16:22 UTC)** [CATEGORY_FORUMS] — multiple delivery coordination attempts
+     - **Significance:** High-priority international logistics continuing across reporting period; Southeast Asian origin (MYT timezone confirms); delivery coordination escalating
    
-   - **DHL Express** — **Shipment #8614299702 continues (Jul 9)**
-     - **DHL Shipment Notification (Jul 9, 17:20 UTC, MYT timezone)** [CATEGORY_FORUMS, INBOX]
-     - **ADC Support Documentation for AWB 8614299702 (Jul 9, 16:56 UTC)** [CATEGORY_FORUMS]
-     - **Significance:** International shipment persists across reporting period; MYT timezone indicates Southeast Asian origin; high-priority tracking
+   - **JawsTec Manufacturing LLC** — **Shipment in transit (Jul 10)**
+     - **"Your order from JawsTec is on its way!" (Jul 10, 18:32 UTC)** [CATEGORY_UPDATES] — Order #69825 confirmation + tracking
    
-   - **JawsTec Manufacturing LLC** — **New active orders (Jul 9)**
-     - **Order #69825 received confirmation (Jul 9, 19:04 UTC)** [UNREAD, CATEGORY_UPDATES]
-     - **Payment request invoice 69825 (Jul 9, 19:08 UTC)** [UNREAD, CATEGORY_FORUMS]
-     - **Separate alert: "Possible order delay" from Briana Gonzalez (Jul 9, 21:13 UTC)** [IMPORTANT, CATEGORY_FORUMS]
-     - **Significance:** Active manufacturing vendor with potential supply chain friction
+   - **Rock West Composites** — **New order alert (Jul 10)**
+     - **"TBD OUT OF STOCK: Rock West Composites: New Order #Z100709976" (Jul 10, 15:13 UTC, from Sage Rawlings)** [CATEGORY_FORUMS] — inventory status issue flagged
    
-   - **Rock West Composites** — **Cash sale #CS013200 (Jul 9, 09:46 UTC)** [CATEGORY_FORUMS]
-     - Adriana Smith (direct contact) processing; completion request flagged (Jul 9, 15:03 UTC) [IMPORTANT]
+   - **Driftaway Coffee** — **Purchase review request (Jul 10, 23:07 UTC)** [CATEGORY_UPDATES, INBOX]
    
-   - **Driftaway Coffee** — **Subscription activity (Jul 9)**
-     - Order confirmation #DR32058COF (Jul 9, 23:02 UTC) [CATEGORY_PROMOTIONS]
-     - Loyalty points earned (Jul 9, 23:03 UTC) [CATEGORY_UPDATES]
-     - Subscription order pending creation (Jul 10, 04:02 UTC) [UNREAD]
-     - **Note:** Recurring operational expense, not critical
+   - **Toggl Inc** — **OPERATIONAL PLATFORM ACTIVITY (NEW PROMINENCE)**
+     - **Receipt #2237-7947 (Jul 10, 23:33 UTC)** [UNREAD, CATEGORY_UPDATES, INBOX]
+     - **Receipt #2227-6723 (Jul 11, 03:23 UTC)** [UNREAD, CATEGORY_UPDATES, INBOX]
+     - **Support email no subject (Jul 10, 22:35 UTC)** [UNREAD, CATEGORY_UPDATES, INBOX]
+     - **Support email no subject (Jul 11, 03:14 UTC)** [UNREAD, IMPORTANT, CATEGORY_UPDATES, INBOX]
+     - **Significance:** Multiple Toggl receipts in 24h; appears to be onboarding or account reconciliation; marked IMPORTANT suggests active configuration/setup
    
-   - **Spindrift (beverage subscription)** — Upcoming shipment (Jul 10, 04:02 UTC) [UNREAD, CATEGORY_UPDATES]
-   
-   - **AliExpress** — Cart saved (Jul 9, 15:20 UTC); addressed to Jack Elston [UNREAD]
-   
-   - **Harbor Freight Tools** — Promotional email (Jul 10, 03:51 UTC) [UNREAD]
+   - **PayPal** — **Payment transaction (Jul 10, 12:50 UTC)**
+     - **"You sent a $210.57 USD payment"** [CATEGORY_FORUMS, INBOX] — routed through purchasing system
 
-   **Payment & Finance Alerts:**
-   - **Budget (purchasing routing)** — Double deal promotion (Jul 9, 18:07 UTC) [IMPORTANT, CATEGORY_FORUMS]
+   **Finance & Administration Alerts:**
+   - **Liberty Mutual Insurance** — **Payment reminder (Jul 10, 20:46 UTC)** [UNREAD, CATEGORY_FORUMS] — withdrawal scheduled 7/17/2026
+   - **Xcel Energy** — **Statement ready (Jul 10, 11:55 UTC)** [UNREAD, CATEGORY_FORUMS]
+   - **E-Verify via Operations** — **[URGENT COMPLIANCE] Update on Termination of Temporary Protected Status for Somalia (Jul 11, 04:20 UTC)** [UNREAD, CATEGORY_FORUMS, INBOX] — **NEW: Immigration compliance alert; may affect hiring or contractor eligibility**
 
 ---
 
-2. **Deel PEO — ACTIVE CONTRACT PHASE (CONTINUED ESCALATION)**
+2. **Deel PEO — ESCALATED TO PRICING NEGOTIATION (CONTINUING)**
 
-   - **Raquel Roberts** (`raquel.roberts@deel.com`) — **5 new emails (Jul 9)**
-     - **"Re: Black Swift Demo with Deel"** (Jul 9, 16:39 UTC) [UNREAD, IMPORTANT, INBOX] — follow-up
-     - **"Updated invitation: Deel PEO Admin Pricing x BST (Krateosky) @ Mon Jul 13, 2026 1:30pm - 2pm (MDT)"** (Jul 9, 16:07 UTC) [IMPORTANT] — **NEXT SCHEDULED MEETING (3 days forward)**
-     - **"Group Meeting"** (Jul 9, 16:01 UTC via hello@cal.com) [UNREAD, CATEGORY_UPDATES]
-     - **Meredith replies logged:** (Jul 9, 10:02 UTC, 14:35 UTC SENT)
-   
-   - **Ben Stavig** (`benjamin.stavig@deel.com`) — **3 new emails (Jul 9)**
-     - **"Re: Black Swift Demo with Deel"** (Jul 9, 11:10 UTC) [IMPORTANT, INBOX]
-     - **"Re: Black Swift Demo with Deel"** (Jul 9, 10:15 UTC, internal Raquel conversation) [IMPORTANT]
-     - Meredith reply (Jul 9, 10:02 UTC SENT)
-   
-   - **Dropbox Sign (HelloSign) — SIGNATURE COMPLETED**
-     - **"You just signed Meredith - Signature For Revised RFP (Deel PEO)"** (Jul 9, 15:19 UTC) [IMPORTANT, CATEGORY_UPDATES]
-     - **Status change:** Contract signature now executed; RFP revision finalized
-   
-   **Overall Status:** PEO engagement escalated from demo/quoting to contract execution and pricing negotiation; next meeting scheduled Jul 13, 2026 (admin pricing discussion); **signature requirement satisfied**
+   - **Raquel Roberts** (`raquel.roberts@deel.com`) — **Pricing meeting confirmed for Jul 13, 2026**
+     - Calendar entries and follow-ups from previous period still active
+     - Meeting: "Deel PEO Admin Pricing x BST (Krateosky) @ Mon Jul 13, 2026 1:30pm - 2pm (MDT)" [SCHEDULED]
 
 ---
 
 3. **Internal Executive & Operations:**
 
-   - **Jack Elston** (`elstonj@blackswifttech.com`) — **CEO (3 new emails, Jul 9)**
-     - **"Fwd: Completed: Complete with Docusign: KrateoSky_Agreement_070826.docx"** (Jul 9, 10:42 UTC) [IMPORTANT, INBOX]
-     - **"Re: Completed: Complete with Docusign: KrateoSky_Agreement_070826.docx"** (Jul 9, 11:25 UTC SENT reply)
-     - **"Re: Black Swift Demo with Deel"** (Jul 9, 09:51 UTC SENT reply)
-     - **Significance:** Active DocuSign agreement execution (KrateoSky entity); CEO direct involvement in Deel demo coordination
+   - **Jack Elston** (`elstonj@blackswifttech.com`) — **CEO (3 new emails, Jul 10)**
+     - **"Help with planning" (Jul 10, 14:32 UTC, STARRED, IMPORTANT)** — multi-recipient: Brian Grubel, Dipan Amin, Beck Cotter, Maciej Stachura — **strategic planning discussion initiated**
+     - **KO Law PC invoice forwarded (Jul 10, 15:19 UTC SENT by Meredith)** — legal billing review
+     - Email to Sona Raziabeegum (KrateoSky) cc'd to Jack Elston (Jul 10, 21:06 UTC external) — KPMG kickoff call coordination
 
-   - **Beck Cotter** (`beck.cotter@blackswifttech.com`) — **DCAA AUDIT COORDINATION (CONTINUING CRITICAL)**
-     - **"Re: [Non-DoD Source] DCAA audit for Black Swift Technologies (on behalf of N251-016)"** (Jul 9, 09:05 UTC) [IMPORTANT, INBOX] — Beck → DCAA auditor Wilcox
-     - **Wilcox, Alexandra N CIV DCAA AIR (USA)** → Beck (Jul 9, 16:12 UTC) [IMPORTANT, INBOX] — auditor response
-     - **Christy Evans** (ReliAscent) → Meredith (Jul 9, 14:57 UTC, 16:12 UTC) [IMPORTANT, INBOX] — **2 updates on same thread**
-     - Meredith → Christy Evans (Jul 9, 14:34 UTC SENT reply)
-     - Beck → Christy Evans (Jul 9, 10:01 UTC SENT reply)
-     -
+   - **Beck Cotter** (`beck.cotter@blackswifttech.com`) — **DCAA AUDIT COORDINATION (CRITICAL ESCALATION)**
+     - **"Update SOW to include additional flight" (Jul 10, 22:00 UTC via Asana)** [UNREAD, CATEGORY_UPDATES] — task assignment; SOW scope expansion
+     - **"Black Swift P0011558 modification (Jul 10, 15:22 UTC)"** [IMPORTANT] — technical project communication with dliddle@murraystate.edu (likely university/research partner)
+     - **DCAA audit thread continues** — multiple exchanges with Christy Evans (ReliAscent), Beck, and Meredith on compliance documentation (Jul 10, 08:52 UTC through Jul 10, 14:59 UTC) — **heavy back-and-forth on audit response materials**
+     - **Beck → Wilcox, Alexandra N CIV DCAA AIR (USA) (Jul 10, 12:05 UTC SENT)** — direct DCAA auditor communication [IMPORTANT]
+
+   - **Maciej Stachura** (`stachura@blackswifttech.com`) — **Technical coordination (NEW)**
+     - **"Fwd: QuSpin Question (Jul 10, 16:54 UTC)"** [UNREAD, IMPORTANT, INBOX] — technical inquiry forwarded to Meredith; QuSpin appears to be equipment/technology in use
+
+   - **Paige Smith** (`paige.smith@blackswifttech.com`) — **Shared invoice forwarding (Jul 10)**
+     - **"Fwd: You have a new invoice INVUS2600155814 from Elementor (Jul 10, 15:01 UTC)"** [IMPORTANT] — website/design platform billing
+
+---
+
+4. **KrateoSky Partners — STRATEGIC ENGAGEMENT (ELEVATED)**
+
+   - **Brian Grubel** (`Brian@krateosky.com`) — **3 new emails (Jul 10)**
+     - **"Re: Reaching out regarding Toggl (Jul 10, 21:09 UTC)"** [IMPORTANT, INBOX]
+     - **"Re: Reaching out regarding Toggl (Jul 10, 21:08 UTC)"** — Meredith's outreach forwarded back
+     - Meredith SENT: "Reaching out regarding Toggl (Jul 10, 14:28 UTC)" — Meredith initiated Toggl discussion with KrateoSky partners
+     - **Significance:** Toggl platform discussion is strategic (involved CEO Jack Elston in "Help with planning" email); likely related to workflow/time tracking integration or adoption
+
+   - **Dipan Amin** (`dip

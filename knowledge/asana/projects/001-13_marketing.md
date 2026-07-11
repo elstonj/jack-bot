@@ -16,12 +16,19 @@
 
 - **Marketing Strategy & Plan**: Documented as completed February 2025 in prior assessment (not visible in current export)
 - **Social Media Plan**: Documented as completed November 2024 in prior assessment (not visible in current export)
-- **Media Kit**: **COMPLETED 2024-10-24** (originally due 2024-08-16). Canva link: https://www.canva.com/design/DAGJbkOxtvs/TYaEsITfY-Hr7SCY57VByA/edit
+- **Media Kit**: **COMPLETED 2024-10-24** (originally due 2024-08-16)
+  - Canva link: https://www.canva.com/design/DAGJbkOxtvs/TYaEsITfY-Hr7SCY57VByA/edit
+  - Custom field: Admin
 - **Website Updates**: 
-  - **S0 Air-Deployed Page**: **COMPLETED 2024-08-19** (originally due 2024-05-24). Notes reference Hurricane and S0 content.
+  - **S0 Air-Deployed Page**: **COMPLETED 2024-08-19** (originally due 2024-05-24)
+    - Notes reference Hurricane and S0 content; contact Paige for more information
   - Website audit, Kites website, new website design (documented as completed in 2026 in prior assessment — not visible in current export)
 - **Whitepapers & Datasheets**:
-  - **Sophia Engagement (was Michael Engagement)**: **COMPLETED 2024-10-24**. Create analog for S0 air-deployed on website. Notes indicate need to update soil moisture datasheet (out of date, needed for BD/marketing) and include Pepperwood work.
+  - **Sophia Engagement (was Michael Engagement)**: **COMPLETED 2024-10-24**
+    - Custom field: White Paper-Data Sheets
+    - Create analog for S0 air-deployed on website
+    - **Action Item**: Update soil moisture datasheet (noted as "quite out of date"; needed for BD/marketing efforts)
+    - **Action Item**: Include Pepperwood work
   - Precision Atmospheric Datasheet Rev2 (documented as completed 2026-04-20 in prior assessment — not visible)
 - **Conference Participation & Speaking Engagements**: 
   - AFA Warfare Symposium, Mountain West UAS Meetup, ISARRA Conference, AMS Conference (documented in prior assessment; status unclear)
@@ -38,9 +45,9 @@
 ## Task Summary
 - **Open Tasks**: 0 (current export)
 - **Completed Tasks Visible**: 3
-  - Media Kit (Oct 2024)
-  - Sophia Engagement / S0 analog (Oct 2024)
-  - S0 website page (Aug 2024)
+  - Media Kit (Oct 2024) — Admin
+  - Sophia Engagement / S0 analog (Oct 2024) — White Paper-Data Sheets
+  - S0 website page (Aug 2024) — Website updates
 - **Completed in Prior Assessments**: 63+ tasks (85%+ completion rate; now reduced to 3 visible)
 - **Tasks by Assignee**:
   - Paige Smith: Project owner; no tasks assigned to her in current export
@@ -51,6 +58,7 @@
   - **Severe task visibility collapse**: 63+ tasks in prior assessments reduced to 3 in current export; suggests systematic archival or external tracking
   - **All visible tasks are unassigned**: Despite clear ownership structure, completed work shows no assignee attribution
   - **No active discretionary work visible**: Current export shows 0 open tasks; project appears inactive or entirely externally managed
+  - **Custom field usage**: Tasks tagged with project type (Admin, White Paper-Data Sheets, Website updates)
 
 ## Recent Activity
 - **Currently visible activity**: 3 completed tasks from mid-to-late 2024 (Media Kit, Sophia Engagement, S0 website page)
@@ -61,6 +69,9 @@
   - Multi-drop marketing, newsletter, graphics, government outreach completed April 2026
   - Conference participation, datasheets, sales materials completed through 2026
 - **Status of 2026 deliverables remains unclear**: April 2026 completions documented in prior assessment are absent from current export; cannot confirm if work was finished or remains pending
+- **Action items identified** in Sophia Engagement task (completed Oct 2024) suggest ongoing work:
+  - Update soil moisture datasheet (out of date; needed for BD/marketing)
+  - Include Pepperwood work in deliverable
 
 ## Notes & Context
 Project aims to create comprehensive marketing strategy for BST brand promotion and business growth with emphasis on:
@@ -71,7 +82,7 @@ Project aims to create comprehensive marketing strategy for BST brand promotion 
 - **Industry Engagement**: Conference participation and speaking opportunities
 - **Google Ads & Analytics**: Ongoing optimization and monitoring
 
-**Data Integrity Alert**: The collapse from 63+ completed tasks (prior assessment) to 3 visible completed tasks (current export) is significant and unresolved. The presence of tasks from mid-2024 but absence of 2026 completions suggests either:
+**Data Integrity Alert**: The collapse from 63+ completed tasks (prior assessment) to 3 visible completed tasks (current export) persists and remains unresolved. The presence of tasks from mid-2024 but absence of 2026 completions suggests either:
 1. Marketing work completion is tracked externally and only selectively synced to or exported from Asana
 2. Asana task archival or view filtering is hiding completed task history
 3. Prior assessments captured tasks from a different project scope or view
@@ -79,5 +90,4 @@ Project aims to create comprehensive marketing strategy for BST brand promotion 
 
 **Recommended action**: 
 - Confirm with Paige Smith whether deliverables documented through April 2026 (website, datasheets, graphics, conferences, sales materials, newsletter, government outreach) were completed as scheduled or remain pending
-- Clarify whether marketing work is tracked in an external system (Sheets, Notion, etc.) in addition to or instead of Asana
-- Determine if completed tasks have been archived, filtered, or deleted from the current Asana project view
+- Clarify whether marketing work is tracked in

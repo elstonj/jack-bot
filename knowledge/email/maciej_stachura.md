@@ -1,76 +1,70 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 49 emails (9–10 Jul 2026)
-- **Total across all scans:** 136 emails (7–10 Jul; 4-day window)
-- **Date range:** 2 days (9–10 Jul)
-- **Approximate volume:** ~24.5 emails/day (this window; slightly lower than prior 29.5/day peak)
-- **Trend:** High-intensity sustained communication; volume stabilizing around 24–29 emails/day; pattern remains burst-intensive with deepening external engagement
+- **Total messages scanned:** 48 emails (10–11 Jul 2026)
+- **Total across all scans:** 184 emails (7–11 Jul; 5-day window)
+- **Date range:** 2 days (10–11 Jul)
+- **Approximate volume:** ~24 emails/day (this window; consistent with prior trend)
+- **Trend:** High-intensity sustained communication; volume stable around 24–29 emails/day; increasingly strategic involvement in major initiatives (Navy contracts, weather research partnerships, Krateosky integration)
 
 ## Key Correspondents
 
 ### Top Senders to Maciej
-1. **Jack Elston** (elstonj@blackswifttech.com) — continues dominant (forwarding, coordinating across domains)
-2. **Joe Cione** (joe.cione@noaa.gov) — **NEW escalation** (3 direct emails; NOAA weather data research coordination)
-3. **Sona Raziabeegum** (sona@krateosky.com) — 2 emails (Krateosky integration + Grant Thornton audit onboarding)
-4. **Daniel Hesselius** (daniel.hesselius@halo-aero.com) — 2 emails (Draft Letter of Intent; navy/Halo work continuing)
-5. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 1 email (flight data report forward)
-6. **Tom Simcox** (tom.simcox@bartington.com) — 1 email (UAS-MAG compass reply)
-7. **Bob Smith** (Bob@krateosky.com) — 1 email (Krateosky follow-up)
-8. **Brian Grubel** (Brian@krateosky.com) — 1 email (Tech Sync? inquiry)
-9. **Laura Rock** (laura.rock@noaa.gov) — 1 email (NEW; OOI Pioneer Array / weather data collaboration)
-10. **Angel Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil) — 1 email (NEW; **TCE 26.2 bi-weekly sync**)
+1. **Jack Elston** (elstonj@blackswifttech.com) — dominant coordinator; forwarding across all strategic domains
+2. **Shweta Choudhury** (schoudhury@quspin.com) — 4 direct emails (QuSpin sensor technical thread; escalating engagement)
+3. **Sona Raziabeegum** (sona@krateosky.com) — 1 email (BST Integration Progress Update; audit/onboarding continuing)
+4. **Dipan Amin** (dipan@krateosky.com) — **NEW escalation** (1 email; "Shearwater X Blackswift Project Albatross SOW" — new named project)
+5. **LisaMarie Cheney** (LisaMarie@krateosky.com) — 1 email (BST Integration Progress Update; Follow-up on call)
+6. **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — **NEW international contact** (2 emails; UK MOD S0 presentation coordination; defense collaboration)
+7. **Ariel Avitan** (Ariel@krateosky.com) — 1 email (Weather data sync; NOAA/Krateosky collaboration)
+8. **Joshua Wadler** (WADLERJ@erau.edu) — 1 email (OOI Pioneer Array follow-up; multi-agency)
+9. **Grant Thornton automation** (iascxPowerAppsDev@us.gt.com, svc_PowerAutomation@us.gt.com) — 2 emails (Background Check Privacy Notice; **due diligence/acquisition background check process underway**)
+10. **Gerard Gopez** (gerard.gopez@nexustek.com) — 1 email (Corporate entertainment: Coors Field suite; Nexustek vendor relationship)
 
 ### Top Recipients (Maciej Emails To)
-1. **Thibault Bridel-Bertomeu** (Thibault@krateosky.com) — 1 sent (Krateosky follow-ups meeting)
-2. **Brian Grubel** (Brian@krateosky.com) — 1 sent (Krateosky follow-ups meeting)
-3. **Jack Elston** (elstonj@blackswifttech.com) — 1 sent (Krateosky follow-ups meeting)
-4. **Ariel Avitan** (Ariel@krateosky.com) — 1 sent (Krateosky follow-ups meeting)
-5. **Sona Raziabeegum** (sona@krateosky.com) — 1 sent (Krateosky follow-ups meeting)
-6. **Adria Passola** (a@krateosky.com) — 1 sent (Krateosky follow-ups meeting)
-7. **Ariel Avitan** (Ariel@krateosky.com) — 1 sent (weather data idea sync)
-8. **Joe Cione** (joe.cione@noaa.gov) — 2 sent (weather data sync, OOI Pioneer Array follow-up)
-9. **Bob Smith** (Bob@krateosky.com) — 1 sent (follow-up on call)
-10. **Tom Simcox** (tom.simcox@bartington.com) — 1 sent (UAS-MAG compass reply)
+1. **Jack Elston** (elstonj@blackswifttech.com) — 3 sent (QuSpin Q&A, Follow-up on call, Coors Field forward)
+2. **Shweta Choudhury** (schoudhury@quspin.com) — 2 sent (QuSpin technical responses)
+3. **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — 1 sent (S0 presentation response)
+4. **Meredith Needham** (meredith.needham@blackswifttech.com) — 1 sent (QuSpin Question forward)
 
 ### Internal vs External
-- **Internal:** Jack Elston, Daniel Prendergast, Beck Cotter, Ethan Domagala
-- **External Growth:**
-  - **Government/Military (ESCALATED):**
-    - **NOAA/Weather Research:** Joe Cione, Laura Rock, Danielle Varwig, Joshua Wadler (ERAU), David Richter (University of Notre Dame) — **NEW major thread: OOI Pioneer Array weather data collaboration**
-    - **Navy:** Angel Ruiz-Reyes (NAWCAD), Anthony Brescia (NAWCAD) — **NEW: TCE 26.2 bi-weekly sync (appears to be formal contract vehicle)**
-    - Halo Aero (Hesselius — Letter of Intent coordination)
-  - **Krateosky:** Sona Raziabeegum, Bob Smith, Thibault Bridel-Bertomeu, Brian Grubel, Ariel Avitan, Adria Passola — **tech sync + audit onboarding (operational deepening)**
-  - **Vendors/Partners:** Tom Simcox (Bartington magnetometer), QuSpin (Ethan Schalnat, Shweta Choudhury, Nikhil Bhatta)
-  - **Automated/Transactional:** Google Scholar Citations (research updates), MDPI (journal invitation), Amazon/Harbor Freight/Budget (procurement routing), Grant Thornton (audit), Rippling (HR), Spindrift (beverage subscription)
+- **Internal:** Jack Elston, Beck Cotter, Meredith Needham
+- **External Growth (MAJOR ESCALATION):**
+  - **Government/Military (SIGNIFICANTLY EXPANDED):**
+    - **UK MOD (NEW):** Simon Laurence (MOD.gov.uk) — S0 presentation coordination; indicates UK defense/international partnership discussions
+    - **Navy (ACTIVE):** Angel Ruiz-Reyes (NAWCAD), Joshua Cossuth (CNR Arlington) — TCE 26.2 continuing; **Cossuth = NEW Navy contact; coordinating multi-agency OOI Pioneer Array research**
+    - **NOAA/Weather Research:** Joe Cione, Danielle Varwig, Joshua Wadler (ERAU) — **OOI Pioneer Array = multi-agency (Navy + NOAA + ERAU) oceanographic/weather research initiative**
+  - **Krateosky (OPERATIONAL DEEPENING):**
+    - Dipan Amin, LisaMarie Cheney, Thibault Bridel-Bertomeu, Brian Grubel, Sona Raziabeegum, Ariel Avitan
+    - **NEW PROJECT: "Shearwater X Blackswift Project Albatross SOW"** — formal Scope of Work; suggests Krateosky/BST joint project or acquisition integration milestone
+    - **BST Integration Progress Updates** — suggests acquisition or deep partnership integration underway; Grant Thornton audit component confirms due diligence phase
+  - **Sensors/Hardware:**
+    - **QuSpin (ESCALATED):** Shweta Choudhury, Nikhil Bhatta, Parker Ackerknecht — technical Q&A thread active; sensor integration work
+    - Tom Simcox (Bartington) — continuing magnetometer work
+  - **Research/Academia:**
+    - Joshua Wadler (ERAU), David Richter (Notre Dame, prior), Danielle Varwig (NOAA) — **multi-institutional UAS weather research**
+  - **Vendors/Other:**
+    - Gerard Gopez (Nexustek) — corporate entertainment/business development
+    - Scott Bolton (SwRI) — L-band drone flights (geophysics/remote sensing research)
+    - Michael Hurowitz (WeatherStream) — L-band drone discussions
+  - **Automated/Transactional:** Grant Thornton (background check notices), Rippling (HR enrollment), NOAA/JSOU mailing lists (research updates)
 
 ## Topic Patterns
 
-### Recurring Themes — EXPANDED
-- **Navy/Defense Contracts (ESCALATED):**
-  - **TCE 26.2** — **NEW formal government program** (bi-weekly sync with NAWCAD; direct Maciej involvement; Beck Cotter, Jack Elston coordinating)
-  - **Draft Letter of Intent** — Daniel Hesselius (Halo Aero) sending to Jack/Maciej; suggests formal partnership/subcontract negotiation on defense work
-  - Navy C-UAS (from prior window; continuing background presence)
+### Recurring Themes — MAJOR UPDATES
+- **Defense/Government Contracts (ESCALATED):**
+  - **TCE 26.2** — Navy contract vehicle; bi-weekly sync (Angel Ruiz-Reyes, Beck Cotter, Jack Elston coordinating); Maciej involved in technical execution
+  - **UK MOD S0 Presentation** — Maciej directly corresponding with UK Ministry of Defence (Simon Laurence); suggests **international defense partnership or export/licensing discussion**; Maciej appears to be technical/executive sponsor
+  - **Multi-Agency Oceanographic/Weather Research (NEW MAJOR INITIATIVE):**
+    - **OOI Pioneer Array follow-up** — Joshua Cossuth (Navy CNR), Joe Cione (NOAA), Joshua Wadler (ERAU) coordinating; **suggests Navy/NOAA/academia partnership on UAS-based weather/oceanographic data collection**
+    - **Shearwater X Blackswift Project Albatross** — Krateosky + BST joint project; formal SOW document; purpose unclear from metadata but suggests operational/research deployment
   
-- **Weather Data & Research Collaboration (NEW MAJOR THREAD):**
-  - **OOI Pioneer Array follow-up** — Maciej → Joe Cione (NOAA) on research partnership; Laura Rock (NOAA), Joshua Wadler (ERAU), David Richter (Notre Dame) all cc'd; suggests **multi-institutional UAS weather/oceanographic research initiative**
-  - **Sync up for weather data idea** — Maciej → Ariel Avitan (Krateosky), Joe Cione; **BST/Krateosky + NOAA collaboration on data pipeline/research**
-  
-- **Krateosky BST Integration & Operations:**
-  - **Follow-ups from meeting** — Maciej initiated; full Krateosky team (Thibault, Brian, Ariel, Sona, Adria) + Jack responding; **suggests Maciej now leading or co-leading strategic Krateosky integration discussions**
-  - **Tech Sync?** — Brian Grubel (Krateosky) → Jack/Maciej (KS/BST AI assistant generating calendar invite; escalating to formal recurring sync)
-  - **Grant Thornton Audit Company Onboarding** — Sona Raziabeegum, Jack Elston, Maciej cc'd on action; **suggests Krateosky due diligence/acquisition-related activity** (Grant Thornton = Big Four audit firm)
+- **Krateosky Integration & Acquisition (OPERATIONAL ESCALATION):**
+  - **"BST Integration Progress Update"** — email thread with Sona Raziabeegum (Krateosky), Jack Elston, LisaMarie Cheney, Brian Grubel; **suggests structured integration/acquisition workstream**
+  - **"Help with planning"** — Jack Elston to Maciej + Brian Grubel (Krateosky) + Dipan Amin (Krateosky) + Beck Cotter + Meredith Needham; **suggests BST/Krateosky joint planning/operational alignment meeting**
+  - **Grant Thornton Background Check Notices** — 2 automated reminders on 11 Jul (weekend); **due diligence process active; suggests acquisition/major contract vehicle requiring clearance verification**
+  - **KS/BST Tech Sync** — Formal recurring technical sync between Krateosky leadership (Thibault, Brian, Dipan) and Jack/Maciej; governance structure forming
   
 - **Sensor/Hardware Integration:**
-  - **UAS-MAG high Performance Dronecan Compass** — Tom Simcox (Bartington) directly replying to Maciej; magnetometer integration ongoing
-  - **QuSpin Question** — Ethan Domagala (BST internal), Ethan Schalnat, Shweta Choudhury, Nikhil Bhatta (QuSpin); Maciej receiving responses; sensor Q&A thread
-  
-- **Flight Operations:**
-  - **Flight data report** — Daniel Prendergast → Jack/Maciej; operational data pipeline continuing
-  
-- **Research & Recognition:**
-  - **Google Scholar Citations** — Hongliang MA articles (research tracking; suggests Maciej follows atmospheric/remote sensing literature)
-  - **MDPI journal invitation** — Special Issue "GNSS Remote Sensing in Atmosphere and Environment"; **suggests Maciej may be recognized as publication-worthy author in remote sensing field**
-
-### Key External Organizations — UPDATED
-- **
+  - **QuSpin Question (ACTIVE THREAD):** Maciej, Jack, Shweta Choudhury, Nikhil Bhatta, Parker Ackerknecht (QuSpin) in multi-round Q&A; technical problem-solving on quantum sensor integration
+  - **S0 Presentation (UK MOD)** — Maciej responding to Simon Laurence (MOD); likely

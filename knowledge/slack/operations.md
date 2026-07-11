@@ -5,7 +5,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination), Paige Smith (admin), Ethan Domagala (project coordination), Kareem (team member), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,430+ messages spanning from July 2020 through June 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through June 2026 with project refinements, AI assistant integration, NDAA compliance discussions, operational coordination, formalized post-flight reporting processes, S0 production planning, payload modifications, organizational structure refinements, facility maintenance, and personnel task assignments. Most recent activity (June 30, 2026) reflects ongoing battery import/customs coordination.
+**Activity level:** High-volume channel with 3,430+ messages spanning from July 2020 through July 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through July 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, and ongoing operational management. Most recent activity (July 10, 2026) reflects NOAA test flight planning and demo calendar updates.
 
 ---
 
@@ -69,3 +69,10 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 ### Vendor Management
 - **2023-2024:** Parker Vollmer organizing vendor list for procurement software evaluation. Goal: understand vendor roles, projects supported
+
+---
+
+## Projects & Initiatives
+
+### NOAA Testing & Partnerships
+- **

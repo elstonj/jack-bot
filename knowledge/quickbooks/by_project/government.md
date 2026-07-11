@@ -45,11 +45,11 @@
 | **#1767** | **2026-06-03** | **$35,000.00** | **[550-2] Navy STTR Hazardous Weather** | **CLIN 0006: Progress Report (Option)** | **$35,000.00** |
 | **#1749** | **2026-06-29** | **$35,000.00** | **[550-1] Navy SBIR Magnetometer** | **CLIN 0006: Progress Report - Option** | **$35,000.00** |
 | **#1740** | **2026-07-02** | **$72,000.00** | **[300-3] 2026 IDIQ** | **CLIN 1001 Invoice 5 of 6** | **$72,000.00** |
-| **#1741** | **2026-07-30** | **$72,000.00** | **[300-3] 2026 IDIQ** | **CLIN 1001 Invoice 6 of 6** | **$72,000.00** |
+| **#1741** | **2026-07-30** | **$72,000.00** | **[300-3] 2026 IDIQ** | **CLIN 1001 Invoice 6 of 6 (Final)** | **$72,000.00** |
 | **#1750** | **2026-09-28** | **$14,459.00** | **[550-1] Navy SBIR Magnetometer** | **CLIN 0007: Final Report** | **$14,459.00** |
 
 **Recent invoice total (2026-06-01 to 2026-09-28):** $300,459.00  
-**All invoices confirmed through 2026-09-28. New data includes Invoice #1750 final (already in knowledge file).**
+**All invoices confirmed through 2026-09-28. Both Invoice #1750 and Invoice #1741 verified in new data.**
 
 ---
 
@@ -148,4 +148,4 @@
 - **Purchase** (2026-07-06): **$57.83** [DC-Direct Material Purchases] — Medium box foam corners
   - *Memo: No Asana request - Josh Fromm made purchase in person*
 
-- **Purchase** (2026-07-07): **$1,446.53** [DIRECT COSTS
+- **Purchase** (2026-07-07): **$1,446.53**

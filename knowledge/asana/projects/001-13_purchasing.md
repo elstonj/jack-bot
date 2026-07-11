@@ -3,47 +3,45 @@
 ## Overview
 - **Client/customer:** Internal BST purchasing system (serves all active projects)
 - **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across multiple projects
-- **Timeline:** Ongoing operational project. **CRITICAL SURGE CONTINUES: 16 open tasks as of latest pull (Jul 1, 2026).** **ALL tasks due JUL 1–11, 2026 (0–10 days from pull date).**
-- **Status:** 🔴 **CRITICAL OPERATIONAL STRESS — WORKLOAD CONCENTRATED ON MEREDITH.** Meredith O'hara Needham owns 9/16 tasks (56.3%); Nate Straus owns 7/16 tasks (43.8%). **Workflow bottleneck persists:** Meredith manages "Order Placed" and "Order Shipped" stages; Nate manages "Order Received" stage with no visible closure process. **MULTI-PROJECT BILLING UNRESOLVED (2 TASKS):** digikey (#100222302) and jawstec for various projects (#SF311738) both marked "MULTIPLE PROJECT - PLEASE PROVIDE BREAKDOWN IN THE DESCRIPTION" with no breakdown provided — cannot bill. 
+- **Timeline:** Ongoing operational project. **CRITICAL SURGE CONTINUES: 14 open tasks as of latest pull.** **ALL tasks due JUL 8–12, 2026 (immediate action window).**
+- **Status:** 🔴 **CRITICAL OPERATIONAL STRESS — WORKLOAD CONCENTRATED ON MEREDITH & NATE.** Meredith owns 5/14 tasks (35.7%); Nate owns 9/14 tasks (64.3%). **Workflow bottleneck persists:** Meredith manages "Order Placed" and "Order Shipped" stages; Nate manages "Order Received" stage with no visible closure process. **MULTI-PROJECT BILLING UNRESOLVED (2 CRITICAL TASKS):** digikey (#100222302) and jawstec (#SF311738) both marked "MULTIPLE PROJECT - PLEASE PROVIDE BREAKDOWN IN THE DESCRIPTION" with no breakdown provided — cannot bill.
 - **Team members involved:**
-  - **Meredith O'hara Needham** (9/16 open tasks = 56.3%) — Order Placed & Order Shipped pipeline
-  - **Nate Straus** (7/16 open tasks = 43.8%) — Order Received pipeline (no closure process visible)
-  - **Requesters:** Joshua Fromm (11 tasks — 68.8%), Alex (3 tasks — 18.8%), Kareem Ahmed (1 task — 6.3%), Ethan (1 task — 6.3%)
+  - **Nate Straus** (9/14 open tasks = 64.3%) — Order Received pipeline (no closure process visible)
+  - **Meredith O'hara Needham** (5/14 open tasks = 35.7%) — Order Placed & Order Shipped pipeline
+  - **Requesters:** Joshua Fromm (8 tasks — 57.1%), Alex (4 tasks — 28.6%), Kareem Ahmed (1 task — 7.1%)
 - **Risk signals:**
-  - 🔴 **MEREDITH WORKLOAD CONCENTRATION:** 9/16 tasks (56.3%) assigned to Meredith. Owns entire "Order Placed" and "Order Shipped" pipeline. Single-person failure risk remains high.
-  - 🔴 **NATE'S "ORDER RECEIVED" QUEUE HAS ZERO CLOSURE PROCESS:** 7/16 tasks assigned to Nate, all status "Order Received." No subtasks, no receipt verification checklist, no invoice matching procedure visible. All due Jul 11 with no progress markers visible.
-  - 🔴 **MULTI-PROJECT BILLING UNRESOLVED (2 TASKS):**
+  - 🔴 **NATE WORKLOAD CONCENTRATION INCREASED:** 9/14 tasks (64.3%) now assigned to Nate (up from 43.8% in prior pull). Owns entire "Order Received" pipeline with zero visible closure process. All assigned "Order Received" tasks due Jul 11–12.
+  - 🔴 **MULTI-PROJECT BILLING UNRESOLVED (2 CRITICAL TASKS):**
     - digikey for various projects (#100222302) — Status: "Order Received" — assigned to Nate — marked "MULTIPLE PROJECT - PLEASE PROVIDE BREAKDOWN IN THE DESCRIPTION" — **No breakdown provided; cannot bill.**
     - jawstec for various projects (#SF311738) — Status: "Order Received" — assigned to Nate — marked "MULTIPLE PROJECT - PLEASE PROVIDE BREAKDOWN IN THE DESCRIPTION" — **No breakdown provided; cannot bill.**
     - Both from Joshua Fromm. **Represents billing risk and audit exposure.**
-  - 🟠 **REQUESTER CONCENTRATION EXTREME:** Joshua Fromm owns 11/16 tasks (68.8%). All three multi-project issues involve Joshua Fromm (jawstec #SF311738, digikey #100222302, plus 9 others).
-  - 🟡 **TAX EXEMPTION TRACKING:** 11/16 tasks are tax-exempt (68.8%); 5 are not. No evidence of exemption certificate management or vendor tax ID tracking in task notes.
-  - 🟡 **NEW PROJECTS IN PIPELINE:** sendcutsend for NASA S2 (S439K456), connectors/PDU for S0 ground station, and others indicate purchasing is supporting new/expanding contract ramps, increasing volume pressure.
+  - 🟠 **REQUESTER CONCENTRATION EXTREME:** Joshua Fromm owns 8/14 tasks (57.1%). All multi-project billing issues involve Joshua Fromm.
+  - 🟠 **TASK SHIFT: MORE "ORDER RECEIVED" BOTTLENECK AT NATE.** Previous pull had 16 tasks with 9 at Meredith and 7 at Nate. Current pull has 14 tasks with 5 at Meredith and 9 at Nate—indicates Orders are moving through Meredith's pipeline faster, but stalling at Nate's "Order Received" stage with no progression visible.
+  - 🟡 **TAX EXEMPTION TRACKING:** 9/14 tasks are tax-exempt (64.3%); 5 are not. No evidence of exemption certificate management or vendor tax ID tracking in task notes.
+  - 🟡 **REQUESTER CHANGE DETECTED:** "sendcutsend for hurricane (SP128831)" now assigned to **Nate** with status "Order Received" (previously was Meredith with status "Order Shipped"). Suggests task moved across pipeline or reassigned mid-workflow. Alex is requester (not Joshua Fromm).
 
 ## Key Deliverables & Milestones
 
-### **DUE JUL 1–11, 2026 — ALL 16 TASKS (IMMEDIATE ACTION WINDOW, 0–10 DAYS)**
+### **DUE JUL 8–12, 2026 — ALL 14 TASKS (IMMEDIATE ACTION WINDOW)**
 
 | Task | Due | Vendor | Assigned | Project | Requester | Status | Tax Exempt? | Notes |
 |------|-----|--------|----------|---------|-----------|--------|------------|-------|
-| amazon for s0 hurricane idiq | Jul 1, 2026 | Amazon | Meredith | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | Order Shipped | YES | **OVERDUE — Jul 1 due date passed** |
-| sendcutsend for hurricane (SP128831) | Jul 7, 2026 | SendCutSend | Meredith | [300-3] 2026 IDIQ (Hurricane) | Alex | Order Shipped | NO | |
-| rockwest for s3 sales (Z100709976) | Jul 9, 2026 | Rockwest | Meredith | General Sales | Joshua Fromm | Order Placed | YES | |
-| amazon for equipment | Jul 9, 2026 | Amazon | Meredith | Shop Supplies | Joshua Fromm | Order Placed | NO | |
-| sendcutsend order for s2 nasa (S439K456) | Jul 9, 2026 | SendCutSend | Meredith | [212-2] NASA S2 & Parts | Joshua Fromm | Order Placed | YES | New project in pipeline |
-| McMaster Carr- ByLight Motor Pods (0707JELSTON) | Jul 9, 2026 | McMaster Carr | Meredith | [043-3] Mustang Pt. 2 | Ethan | Order Shipped | NO | Receipt verification pending |
-| jawstec for s0 parts (#69825) | Jul 11, 2026 | Jawstec | Meredith | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | Order Placed | YES | |
-| connectors and power distribution board for s0 gcs | Jul 11, 2026 | (not specified) | Meredith | [300-3] 2026 IDIQ (Hurricane) | Kareem Ahmed | Order Placed | NO | S0 ground station supply |
-| McMaster | Jul 11, 2026 | McMaster | Meredith | [550-1] Navy SBIR: Magnetometer | Alex | Order Placed | NO | Order placed date: Jun 22, 2026 (9 days ago) |
-| digikey for various projects (#100222302) | Jul 11, 2026 | Digikey | Nate | **MULTIPLE PROJECT** | Joshua Fromm | Order Received | YES | **UNRESOLVED:** No project breakdown; cannot bill |
-| jawstec for various projects (#SF311738) | Jul 11, 2026 | Jawstec | Nate | **MULTIPLE PROJECT** | Joshua Fromm | Order Received | YES | **UNRESOLVED:** No project breakdown; cannot bill |
-| servocity for s3 sales (#300045463) | Jul 11, 2026 | Servocity | Nate | [451-1] INSTAAR S3 x2 | Joshua Fromm | Order Received | YES | Receipt verification pending |
-| uavionix for general sales (#107082) | Jul 11, 2026 | UAVionix | Nate | General Sales | Joshua Fromm | Order Received | YES | Receipt verification pending |
-| apc props for s3 sales (#55048) | Jul 11, 2026 | APC Props | Nate | General Sales | Joshua Fromm | Order Received | YES | Receipt verification pending |
-| mks (22794) | Jul 11, 2026 | MKS | Nate | [001-4] IRAD S0 VTOL | Alex | Order Received | YES | Receipt verification pending |
-| Jawstec (#69694) | Jul 11, 2026 | Jawstec | Nate | General Sales | Alex | Order Received | YES | Receipt verification pending |
+| jawstec for s3 sales (#69729) | Jul 8, 2026 | Jawstec | Meredith | [451-1] INSTAAR S3 x2 | Joshua Fromm | Order Shipped | YES | |
+| amazon for equipment | Jul 9, 2026 | Amazon | Meredith | Shop Supplies | Joshua Fromm | Order Shipped | NO | Misspelled in notes as "equpiment" |
+| jawstec for s0 parts (#69825) | Jul 11, 2026 | Jawstec | Meredith | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | Order Placed | YES | Order placement scheduled Jul 9 |
+| connectors and power distribution board for s0 gcs | Jul 11, 2026 | (not specified) | Meredith | [300-3] 2026 IDIQ (Hurricane) | Kareem Ahmed | Order Shipped | NO | S0 ground station supply; order placement scheduled Jul 8 |
+| McMaster | Jul 11, 2026 | McMaster | Meredith | [550-1] Navy SBIR: Magnetometer | Alex | Order Placed | NO | Order placed date: Jun 22, 2026 (19 days ago) |
+| digikey for various projects (#100222302) | Jul 11, 2026 | Digikey | Nate | **MULTIPLE PROJECT** | Joshua Fromm | Order Received | YES | **UNRESOLVED:** No project breakdown; cannot bill. Order placement scheduled Jul 6. |
+| Jawstec (#69694) | Jul 11, 2026 | Jawstec | Nate | General Sales (No Specific Project) | Alex | Order Received | YES | Order placement scheduled Jul 2 |
+| jawstec for various projects (#SF311738) | Jul 11, 2026 | Jawstec | Nate | **MULTIPLE PROJECT** | Joshua Fromm | Order Received | YES | **UNRESOLVED:** No project breakdown; cannot bill. Order placement scheduled Jul 2. |
+| servocity for s3 sales (#300045463) | Jul 11, 2026 | Servocity | Nate | [451-1] INSTAAR S3 x2 | Joshua Fromm | Order Received | YES | Order placement scheduled Jul 6. Receipt verification pending. |
+| uavionix for general sales (#107082) | Jul 11, 2026 | UAVionix | Nate | General Sales (No Specific Project) | Joshua Fromm | Order Received | YES | Order placement scheduled Jul 6. Receipt verification pending. |
+| apc props for s3 sales (#55048) | Jul 11, 2026 | APC Props | Nate | General Sales (No Specific Project) | Joshua Fromm | Order Received | YES | Order placement scheduled Jul 1 (overdue placement). Receipt verification pending. |
+| mks (22794) | Jul 11, 2026 | MKS | Nate | [001-4] IRAD S0 VTOL | Alex | Order Received | YES | Order placement scheduled Jul 2. Receipt verification pending. |
+| sendcutsend for hurricane (SP128831) | Jul 12, 2026 | SendCutSend | Nate | [300-3] 2026 IDIQ (Hurricane) | Alex | Order Received | NO | **TASK SHIFT DETECTED:** Previously Meredith (Order Shipped), now Nate (Order Received). Order placement scheduled Jul 7. |
+| OpenUPS (#139935) | Jul 12, 2026 | OpenUPS | Nate | [001-16] IRAD Swiftstation | Alex | Order Received | NO | Order placement scheduled Jul 6. |
 
 ## Task Summary
-- **Total tasks:** 16 open, 0 completed
+- **Total tasks:** 14 open, 0 completed
 - **Tasks by assignee:**
-  - **Meredith O'hara Needham:** 9/16 (56.3%) — 6
+  - **Nate Straus:** 9/14 (64

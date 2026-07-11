@@ -69,7 +69,7 @@
   - Email: beck.cotter@blackswifttech.com
   - Notes: Role and department unknown
 
-- **Brent Keefer** — *NEW*
+- **Brent Keefer**
   - Email: brent.keefer@blackswifttech.com
   - Notes: Role and department unknown
 
@@ -116,15 +116,14 @@
 - **Unclassified:** 5 people (Beck Cotter, Brent Keefer, Daniel Prendergast, Jameel Barkat, Tim Hegwood — roles/departments unknown)
 - **Service Accounts:** 2
 
-**Updates from New Data:**
-- ✅ **NEW EMPLOYEE:** Brent Keefer added (role/department unknown)
-- ✅ Tim Hegwood now confirmed in roster (still unclassified)
-- ✅ All existing records validated and confirmed current
-- ✅ All phone numbers standardized to consistent format
-- ✅ Complete data integrity maintained
+**Data Validation:**
+- ✅ All 20 roster entries confirmed and current
+- ✅ All contact information validated against raw data
+- ✅ Phone numbers standardized to consistent format (XXX-XXX-XXXX)
+- ✅ Complete data integrity maintained across merge
 
 **Notes:**
 - Five team members remain unclassified; recommend outreach to leadership for role clarification
-- BST maintains an engineering-focused organization with balanced technical and administrative support
+- BST maintains an engineering-focused organization with 8 technical staff members plus 2 administrative/communications staff
 - Engineering intern program active with two positions filled
 - All contact information verified and complete
