@@ -1,18 +1,13 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 3,626 (3,581 previous + 45 new from Jul 10-11, 2026)
-- **Date range:** March 24 – July 11, 2026 (110 days)
-- **Approximate volume:** ~32.96 messages per day (sustained consistency)
-- **New batch composition (Jul 10-11, 2026):** ~82% automation/newsletters/promotions/news (37 of 45 messages)
-  - **Direct human correspondence:** 8 messages (17.8%)
-    - Meredith Needham — 3 messages (Elementor invoice forwarding, MFA reset, Agricultural Sciences conference showcase invite)
-    - Adnan Hiroli / Uncrewed Tech Expo — 2 messages (DroneX 2026 event coordination)
-    - Benjamin Tay / MDPI — 1 message (Agricultural Sciences conference showcase)
-    - RacePow battery vendor — 3 messages (sent to multiple BST addresses: sales@, info@bst.aero, sales@bst.aero; **product spec for S2 platform**)
-    - Beck Cotter (via Google Sheets) — 1 message (shared resource allocation doc)
-    - Google Support — 1 message (appointment confirmation update)
-  - **Note:** Jul 10 shows spike in **Asana task reminders** (2 messages — 1 task due soon, 1 overdue task); Elementor (website builder) order confirmation and invoice on Jul 10; multiple vendor outreach on same day (RacePow) to different BST email aliases suggests coordinated sales approach
+- **Total messages scanned:** 3,644 (3,626 previous + 18 new from Jul 11-12, 2026)
+- **Date range:** March 24 – July 12, 2026 (111 days)
+- **Approximate volume:** ~32.83 messages per day (sustained consistency)
+- **New batch composition (Jul 11-12, 2026):** ~94% automation/newsletters/promotions/news (17 of 18 messages)
+  - **Direct human correspondence:** 1 message (5.6%)
+    - LinkedIn — Chad Vorthmann connection suggestion (Jul 12, 00:59:52)
+  - **Note:** Jul 11-12 batch shows **zero direct work correspondence**; purely inbound newsletters and promotional content; no task reminders or internal collaboration visible
 
 ---
 
@@ -21,91 +16,130 @@
 ### Top Internal Senders & Collaborators
 
 **Meredith Needham** (meredith.needham@blackswifttech.com)
-- **Jul 10, 15:00:27 — Forwards MFA reset notification (IMPORTANT)**
-- **Jul 10, 15:01:47 — Forwards Elementor invoice INVUS2600155814 (SENT by Paige)**
-- **Jul 10, 10:43:22 — Forwards Agricultural Sciences conference showcase event invite (IMPORTANT)**
-- **Status:** **Elevated coordinator role confirmed — handling administrative forwards, calendar/event management, and authentication resets; increasingly appears to be operations/logistics lead**
+- **Status:** Elevated coordinator role confirmed — operations/logistics/administrative lead; no new messages in Jul 11-12 batch
 
 **Jack Elston** (media@blackswifttech.com)
-- **Jul 10, 09:06:06 — UAS VISION daily news forwarded to Jack (still primary recipient)**
-- **Status:** Core media/intelligence correspondent maintained
+- **Status:** Core media/intelligence correspondent; no new messages in Jul 11-12 batch
 
 **Beck Cotter** (via Google Sheets)
-- **Jul 10, 16:49:10 — Shares "near term demo resource allocation" spreadsheet (IMPORTANT)**
-- **Signal:** New collaborator visible in this batch; involved in product demo planning/resource management
-- **Status:** Active project collaborator on near-term initiatives
+- **Status:** Active project collaborator on near-term demo planning/resource allocation; no new messages in Jul 11-12 batch
 
 ---
 
 ### Top External Senders & Partners
 
-#### **Conference/Events Management (EXPANDING)**
+**Conference/Events Management (Pending from Jul 10 interactions)**
 
-**Adnan Hiroli / Uncrewed Tech Expo** (adnan.hiroli@uncrewedtechexpo.com; enquiries@uncrewedtechexpo.com)
-- **Jul 10, 11:38:19 — Adnan RESPONDS: "Re: DroneX 2026" (IMPORTANT)**
-- **Jul 10, 09:53:53 — Enquiries team RESPONDS: "Re: DroneX 2026" (IMPORTANT)**
-- **Signal:** **Active negotiation on DroneX 2026 participation; same-day dual responses (inquiry desk + contact person) suggest BST is priority booth/sponsorship client**
-- **Status:** **KEY EVENT PARTNER — DroneX 2026 appears to be major conference alongside AGU26**
+**Adnan Hiroli / Uncrewed Tech Expo**
+- **Status:** DroneX 2026 negotiation active (last contact Jul 10); no follow-up in new batch
 
-**Benjamin Tay / MDPI** (benjamin.tay@mdpi.com)
-- **Jul 11, 00:00:44 — "Event Invite for Black Swift Technologies - Showcase at 2026 International Conference on Agricultural Sciences" (INBOX)**
-- **Also sent to:** info@bst.aero (via Generic Information forwarder)
-- **Signal:** **Agricultural Sciences conference — new vertical/application area for BST aeropods (not previously visible in earlier batches)**
-- **Status:** Conference showcase opportunity; cross-referenced with Meredith's Jul 10 forward of same event
+**Benjamin Tay / MDPI**
+- **Status:** Agricultural Sciences conference showcase opportunity (Jul 11 invite); no follow-up in new batch
 
-#### **Google Technical Services (CONFIRMED)**
-
-**Google Support / ads-support@google.com**
-- **Jul 10, 09:30:11 — Confirmation of rescheduled appointment (IMPORTANT)**
-- **Jul 10, 16:30:21 — Calendar update: **Wed Jul 15, 2026 10:30am - 11am (MDT)** confirmed**
-- **Status:** Appointment **proceeding as rescheduled**; tag implementation on track for Jul 15
-
-#### **Hardware/Component Vendors (NEW - ACTIVE)**
-
-**RacePow / Battery Solutions** (sales05@racepow.com)
-- **Jul 10, 18:03:55 — sales@blackswifttech.com (UNREAD)**
-- **Jul 10, 18:00:47 — info@bst.aero (IMPORTANT, INBOX)** ← **Primary recipient**
-- **Jul 10, 17:59:53 — sales@bst.aero (IMPORTANT, INBOX)**
-- **Subject line (all three):** "470Wh/kg 120Ah/150Ah for Black Swift S2 ; Long Endurance; Solid State Lipo Battery"
-- **Signal:** **CRITICAL: Vendor proactively contacted BST with battery specifications for "Black Swift S2" platform; multi-channel outreach (sales, info, sales alternative) suggests vendor awareness of BST decision-making structure; Solid State Lipo battery is high-energy-density component**
-- **Status:** **NEW SUPPLIER INITIATIVE — Likely in response to platform power/endurance requirements identified in product roadmap**
-
-#### **Industry & Media Intelligence (CONTINUED)**
-
-**James Barlia / Capital Factory** (jamesbarlia@capitalfactory.com)
-- **Jul 10, 09:14:38 — "🇺🇸 Nuclear satellites and AI laws" (UNREAD)**
-- **Signal:** Tech policy/emerging tech intelligence (Capital Factory is Austin startup accelerator); nuclear satellite topic suggests BST interest in emerging dual-use tech domains
-- **Status:** Newsletter/thought leadership source
-
-**Mitchell Institute / Air Force Association** (mitchell@afa.org)
-- **Jul 10, 12:07:40 — "🌎 What is the future of warfare?" (PROMOTIONS)**
-- **Jul 10, 07:10:17 — "🌎 Top Air and Space Accomplishments" (UPDATES)**
-- **Status:** Continued military/defense sector intelligence feed
-
-**A&SF Daily Report** (AirAndSpaceForcesMagazine@afa.org)
-- **Jul 10, 03:49:18 — "Air Force Sets B-21 Crew Composition" (IMPORTANT, UPDATES)**
-- **Status:** Military aerospace updates; marked IMPORTANT by system (suggests Paige prioritizes defense sector intel)
+**RacePow / Battery Solutions**
+- **Status:** S2 platform battery specs submitted Jul 10; no follow-up in new batch
 
 ---
 
 ### Newsletter & Automated Sources (High Volume Continued)
 
-**Dominant sources in new batch:**
-- The New York Times — 10 messages (Breaking News, Editor Picks, Morning Brief, Direct — mix of general news and perceived irrelevant content like parasite/UK politician murder)
-- Asana — 2 messages (task reminders; **1 overdue task noted**)
-- LinkedIn — 2 messages (profile views, Engineering Design client requests)
-- Elementor — 3 messages (order confirmation, invoice, welcome email)
-- Target — 2 messages (retail promotions)
-- Canva, Staples, BannerBuzz — promotional emails
-
-**Emerging sources:**
-- MailerLite — API token created notification (suggesting Paige/BST is building email automation infrastructure)
-- LinkedIn via Energy Drone & Robotics Coalition Brief (industry-specific newsletter)
+**Dominant sources in new batch (Jul 11-12):**
+- **The New York Times — 7 messages** (Breaking News: Senator Lindsey Graham death, Iran/Strait of Hormuz, U.K. lawmaker killing, Air Force One antimissile capabilities, Editor Picks: documentaries, Morning Brief)
+  - **Note:** Air Force One antimissile story marked UNREAD; military/defense content still prioritized
+- **LinkedIn — 3 messages** (Texas Division of Emergency Management post share, Chad Vorthmann connection suggestion, Victoria Ayer Legal Counsel network notification)
+- **Intuit Mailchimp — 1 message** ("You sent an email—what's next?") 
+  - **Signal:** Paige or BST recently sent a Mailchimp campaign; suggests email marketing campaign execution underway
+- **Target — 1 message** (college student discount promo; marked IMPORTANT — retail)
+- **Mitchell Institute / Air Force Association — 1 message** (Blended Wing Body aerospace article; marked IMPORTANT)
+- **The Athletic Pulse — 1 message** (MLB Draft story; marked IMPORTANT — unusual sports content)
+- **Inside Climate News — 1 message** (Invasive fish/salmon story; environmental/climate intelligence)
+- **Google AdSense — 1 message** (Account activation reminder)
+- **Staples — 1 message** (Printer upgrade promo)
+- **Syed Balkhi / WPBeginner — 1 message** (Email list growth coaching)
+- **Shopify — 1 message** (E-commerce business startup promo)
 
 ---
 
 ## Topic Patterns
 
-### Active Projects (Confirmed & Expanded)
+### Active Projects (Confirmed & Maintained)
 
-1. **Black Swift S2 Platform** — Battery vendor actively pitching 470Wh/kg Solid State Lipo cells (Jul 10
+1. **Black Swift S2 Platform** — Battery vendor (RacePow) proposal outstanding from Jul 10; 470Wh/kg Solid State Lipo cells for endurance optimization
+2. **Conference Participation (Multiple):**
+   - **DroneX 2026** — Uncrewed Tech Expo (active negotiation as of Jul 10)
+   - **2026 International Conference on Agricultural Sciences** — Showcase opportunity (invite received Jul 11)
+   - **AGU 2026** — Inferred from previous patterns
+
+### Intelligence & Industry Monitoring (Continued Pattern)
+
+**Defense/Aerospace Focus:**
+- Air Force One antimissile capabilities (marked UNREAD)
+- Blended Wing Body aircraft design (Mitchell Institute; marked IMPORTANT)
+- Military/defense emerging tech priorities visible across NYT Breaking News selection
+
+**Climate & Environmental (Secondary Pattern):**
+- Inside Climate News subscription active; invasive species/climate impact monitoring
+- Suggests possible environmental monitoring or atmospheric application interest for aeropods
+
+**Tech Infrastructure (Emerging):**
+- Email marketing campaign execution (Mailchimp send-confirmation; Paige or BST team recently deployed campaign)
+- Google AdSense account activation attempt (unclear purpose — possibly website monetization exploration or test)
+- WPBeginner email list growth tactics (email/web infrastructure optimization)
+
+---
+
+## Communication Patterns
+
+### Time Patterns
+- **Jul 11-12 batch:** Concentrated on weekend (Sat-Sun), indicating:
+  - Paige continues checking email on weekends
+  - No work correspondence over weekend (all automated)
+  - Newsletter consumption during off-hours
+
+### Mailing Lists & Group Participation
+- **Texas Division of Emergency Management** — LinkedIn activity suggests Paige follows this organization (shared post notification Jul 12)
+- **Mitchell Institute / Air Force Association** — Active subscriber to aerospace/defense content
+
+### Email Marketing Activity
+- **Mailchimp confirmation (Jul 11, 15:26:24)** — Suggests recent email campaign sent by Paige or BST team; implies email marketing infrastructure is in active use (ties to earlier MailerLite API notification)
+
+---
+
+## Key Relationships
+
+### Internal Collaboration Tier
+1. **Meredith Needham** — Operations/admin/events coordinator (primary internal contact)
+2. **Beck Cotter** — Demo/product resource planning (emerging collaborator)
+3. **Jack Elston** — Media/intelligence distribution lead
+
+### External Priority Partners (by activity)
+
+**High Priority (Active Negotiation/Implementation):**
+- **Uncrewed Tech Expo (Adnan Hiroli)** — DroneX 2026 booth/sponsorship negotiation
+- **RacePow Battery Solutions** — Component supplier engagement for S2 platform
+- **MDPI (Benjamin Tay)** — Conference showcase opportunity
+
+**Institutional Intelligence Sources (by frequency & marked importance):**
+- The New York Times (breaking news on defense/security)
+- Mitchell Institute / Air Force Association (military aerospace priority)
+- Google (ongoing services partnership)
+- LinkedIn (network intelligence & recruitment signals)
+
+---
+
+## Notable Observations
+
+1. **Weekend Email Patterns:** Paige continues active email consumption on weekends (Sat-Sun Jul 11-12); no indication of reduced weekend activity despite high daily volume during work week
+
+2. **Email Marketing Infrastructure Expansion:** Mailchimp send-confirmation (Jul 11) indicates BST is executing email campaigns; combined with earlier MailerLite API notification (Jul 10), suggests **building dual-channel email marketing/automation capability** — likely for customer outreach, event promotion, or product announcements
+
+3. **Unusual Consumer Signups:** Multiple B2C promotions (Target college discount, Shopify e-commerce startup, Google AdSense, WPBeginner) suggest either:
+   - Paige exploring personal side projects
+   - Testing platforms for BST's own marketing/sales infrastructure
+   - Legacy subscriptions not cleaned up from prior role(s)
+
+4. **LinkedIn Network Intelligence:** Victoria Ayer (Legal Counsel) identified as "popular in your network" (Jul 11) — signal that Legal/Compliance function is visible in Paige's professional network; may indicate corporate governance/contract review work underway
+
+5. **Zero Work Correspondence in Weekend Batch:** Unlike Jul 10 batch (8 direct human emails), Jul 11-12 weekend shows **complete absence of internal/external work collaboration** — suggests work correspondence concentrated Mon-Fri, newsletters fill weekend inbox
+
+6. **Defense Sector Intelligence Curated:** Air Force One antimissile story, Blended Wing Body aircraft, Iran/Strait of Hormuz geopolitical intel all marked UNREAD or IMPORTANT —

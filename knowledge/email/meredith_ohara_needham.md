@@ -1,10 +1,10 @@
 # Meredith O'hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,135 emails (1,073 previous + 62 new from Jul 10–11)
-- **Date range:** June 15–July 11, 2026 (27 days)
-- **Approximate volume:** ~42 emails/day
-- **Trend:** Sustained ultra-high-velocity operational management with critical government compliance urgency (DCAA audit active and intensifying), active PEO vendor engagement (Deel contract execution phase + pricing meeting scheduled Jul 13), elevated component procurement velocity with international logistics, and multi-vendor software/operational platform renewals (Toggl, Labelmaster, Rippling enrollment)
+- **Total messages scanned:** 1,143 emails (1,073 previous + 62 from Jul 10–11 + 8 from Jul 11–12)
+- **Date range:** June 15–July 12, 2026 (28 days)
+- **Approximate volume:** ~41 emails/day
+- **Trend:** Sustained ultra-high-velocity operational management with critical government compliance urgency (DCAA audit active and intensifying), active PEO vendor engagement (Deel contract execution phase + pricing meeting scheduled Jul 13), elevated component procurement velocity with international logistics, and multi-vendor software/operational platform renewals (Toggl, Labelmaster, Rippling enrollment). **New signal: Past due invoices alert (Jul 12); procurement email volume shows heavy automated vendor/marketing influx.**
 
 ---
 
@@ -14,9 +14,9 @@
 
 **Automated Systems & Purchasing Routing:**
 
-1. **Purchasing system** (`purchasing@blackswifttech.com`) — **470+ cumulative messages**
+1. **Purchasing system** (`purchasing@blackswifttech.com`) — **478+ cumulative messages**
    
-   **Component & Equipment Deliveries (Jul 10–11):**
+   **Component & Equipment Deliveries (Jul 10–12):**
    - **DHL Express** — **Shipment #8614299702 continues (Jul 10–11)**
      - **DHL Shipment Notification (Jul 11, 00:15 UTC, MYT timezone)** [CATEGORY_FORUMS, INBOX] — persistent international shipment tracking
      - **DHL On Demand Delivery notifications (Jul 10, 19:16 UTC; Jul 10, 16:22 UTC)** [CATEGORY_FORUMS] — multiple delivery coordination attempts
@@ -40,10 +40,20 @@
    - **PayPal** — **Payment transaction (Jul 10, 12:50 UTC)**
      - **"You sent a $210.57 USD payment"** [CATEGORY_FORUMS, INBOX] — routed through purchasing system
 
+   **Retail/Marketing Vendor Influx (NEW — Jul 11–12):**
+   - **AliExpress** — **Marketing email (Jul 11, 17:09 UTC)** [UNREAD, CATEGORY_FORUMS, INBOX] — "Good choice, your faves await!"
+   - **HeliDirect** — **Promotional email (Jul 11, 18:25 UTC)** [UNREAD, CATEGORY_UPDATES, INBOX] — reward points offer
+   - **Speedway Motors** — **Marketing email (Jul 11, 17:37 UTC)** [UNREAD, CATEGORY_FORUMS, INBOX] — engine maintenance content
+   - **Harbor Freight** — **Promotional email (Jul 11, 16:42 UTC)** [UNREAD, CATEGORY_FORUMS, INBOX] — 48-hour sale
+   - **ELEGOO US** — **Marketing email (Jul 11, 13:01 UTC)** [UNREAD, CATEGORY_FORUMS, INBOX] — "Summer Sale Ends Soon" (sent to Alexis Lomis via purchasing routing)
+   - **USPS Informed Delivery** — **Daily digest (Jul 11, 13:23 UTC)** [UNREAD, CATEGORY_FORUMS, INBOX] — physical mail tracking
+   - **Significance:** Heavy automated vendor/promotional email influx Saturday-Sunday; suggests broad purchasing account enrollment across retail platforms; likely feeds into component sourcing activities
+
    **Finance & Administration Alerts:**
+   - **Past Due Invoices Alert** — **[NEW CRITICAL FLAG] (Jul 12, 07:02 UTC)** [UNREAD, CATEGORY_FORUMS, INBOX] — "You Have Past Due Invoices" — routed through purchasing system; suggests payment processing delays or missed deadlines
    - **Liberty Mutual Insurance** — **Payment reminder (Jul 10, 20:46 UTC)** [UNREAD, CATEGORY_FORUMS] — withdrawal scheduled 7/17/2026
    - **Xcel Energy** — **Statement ready (Jul 10, 11:55 UTC)** [UNREAD, CATEGORY_FORUMS]
-   - **E-Verify via Operations** — **[URGENT COMPLIANCE] Update on Termination of Temporary Protected Status for Somalia (Jul 11, 04:20 UTC)** [UNREAD, CATEGORY_FORUMS, INBOX] — **NEW: Immigration compliance alert; may affect hiring or contractor eligibility**
+   - **E-Verify via Operations** — **[URGENT COMPLIANCE] Update on Termination of Temporary Protected Status for Somalia (Jul 11, 04:20 UTC)** [UNREAD, CATEGORY_FORUMS, INBOX] — Immigration compliance alert; may affect hiring or contractor eligibility
 
 ---
 
@@ -65,23 +75,4 @@
    - **Beck Cotter** (`beck.cotter@blackswifttech.com`) — **DCAA AUDIT COORDINATION (CRITICAL ESCALATION)**
      - **"Update SOW to include additional flight" (Jul 10, 22:00 UTC via Asana)** [UNREAD, CATEGORY_UPDATES] — task assignment; SOW scope expansion
      - **"Black Swift P0011558 modification (Jul 10, 15:22 UTC)"** [IMPORTANT] — technical project communication with dliddle@murraystate.edu (likely university/research partner)
-     - **DCAA audit thread continues** — multiple exchanges with Christy Evans (ReliAscent), Beck, and Meredith on compliance documentation (Jul 10, 08:52 UTC through Jul 10, 14:59 UTC) — **heavy back-and-forth on audit response materials**
-     - **Beck → Wilcox, Alexandra N CIV DCAA AIR (USA) (Jul 10, 12:05 UTC SENT)** — direct DCAA auditor communication [IMPORTANT]
-
-   - **Maciej Stachura** (`stachura@blackswifttech.com`) — **Technical coordination (NEW)**
-     - **"Fwd: QuSpin Question (Jul 10, 16:54 UTC)"** [UNREAD, IMPORTANT, INBOX] — technical inquiry forwarded to Meredith; QuSpin appears to be equipment/technology in use
-
-   - **Paige Smith** (`paige.smith@blackswifttech.com`) — **Shared invoice forwarding (Jul 10)**
-     - **"Fwd: You have a new invoice INVUS2600155814 from Elementor (Jul 10, 15:01 UTC)"** [IMPORTANT] — website/design platform billing
-
----
-
-4. **KrateoSky Partners — STRATEGIC ENGAGEMENT (ELEVATED)**
-
-   - **Brian Grubel** (`Brian@krateosky.com`) — **3 new emails (Jul 10)**
-     - **"Re: Reaching out regarding Toggl (Jul 10, 21:09 UTC)"** [IMPORTANT, INBOX]
-     - **"Re: Reaching out regarding Toggl (Jul 10, 21:08 UTC)"** — Meredith's outreach forwarded back
-     - Meredith SENT: "Reaching out regarding Toggl (Jul 10, 14:28 UTC)" — Meredith initiated Toggl discussion with KrateoSky partners
-     - **Significance:** Toggl platform discussion is strategic (involved CEO Jack Elston in "Help with planning" email); likely related to workflow/time tracking integration or adoption
-
-   - **Dipan Amin** (`dip
+     - **DCAA audit thread continues** — multiple exchanges with Christy Evans (ReliAscent), Beck, and Meredith on compliance documentation (Jul 10, 08:52 UTC through Jul 10, 14:59 UTC) — **heavy back-and

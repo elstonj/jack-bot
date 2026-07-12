@@ -1,0 +1,73 @@
+{
+  "asana_gid": "1208185314692566",
+  "asana_task_name": "[450] Alaska Coastline Erosion Surveys (University of Colorado)",
+  "customer": "University of Colorado",
+  "customer_contact": "Julia Moriarty",
+  "customer_email": "Julia.Moriarty@colorado.edu",
+  "receive_by": "2026-08-31",
+  "ship_to": null,
+  "items": [
+    {
+      "description": "Black Swift E2 UAS Flight System",
+      "quantity": 1
+    },
+    {
+      "description": "E2 Photogrammetry Payload (or custom multispectral/thermal/lidar)",
+      "quantity": 1
+    },
+    {
+      "description": "E2 Battery (spare)",
+      "quantity": 1
+    },
+    {
+      "description": "Travel case",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "estimate_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [
+    {
+      "name": "E2 UAS Airframe",
+      "ordered": false,
+      "received": false,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    },
+    {
+      "name": "SwiftCore Flight Management System",
+      "ordered": false,
+      "received": false,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    },
+    {
+      "name": "E2 Battery (spare)",
+      "ordered": false,
+      "received": false,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
+    }
+  ],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Academic research project for bathymetry and topography surveys of Alaskan north slope lagoons and coastlines using LiDAR. Estimate sent via Slack on 2026-05-18; decision deadline was 2026-08-30. Customer to receive by 2026-08-31 (summer 2026 field season). Next Steps field says 'No action needed' but recent Slack activity and firm receive_by date override; status is estimate_sent.",
+  "missing_fields": [
+    "ship_to",
+    "invoice_amount"
+  ],
+  "last_evidence_date": "2026-07-09",
+  "last_contact_date": "2026-08-04"
+}

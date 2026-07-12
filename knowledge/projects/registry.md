@@ -29,7 +29,7 @@ _Generated from Asana project overviews. 49 active projects._
 | 001_16 | SwiftStation IRAD | — | — | — | Yes |
 | 001_20 | SMM IRAD | — | — | — | Yes |
 | 001_22 | Fleet Maintenance | — | — | — | Yes |
-| 001_23 | SOCOM S0-AD | — | — | — | Yes |
+| 001_23 | SOCOM (CRADA) S0-AD | — | — | — | Yes |
 | 005_1 | BARBADOS VTOL S0 and Training | Barbados Meteorological S | $22,337 | — | — |
 | 012_2 | ERAU VTOL S0 | Embry-Riddle Aeronautical | $20,805.39 | — | — |
 | 012_3 | ERAU Model S0 | Embry-Riddle Aeronautical | $2,462.50 | — | — |

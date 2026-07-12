@@ -49,7 +49,7 @@
 | **#1750** | **2026-09-28** | **$14,459.00** | **[550-1] Navy SBIR Magnetometer** | **CLIN 0007: Final Report** | **$14,459.00** |
 
 **Recent invoice total (2026-06-01 to 2026-09-28):** $300,459.00  
-**All invoices confirmed through 2026-09-28. Both Invoice #1750 and Invoice #1741 verified in new data.**
+**All invoices confirmed through 2026-09-28. Both Invoice #1750 and Invoice #1741 verified in latest data pull.**
 
 ---
 
@@ -148,4 +148,4 @@
 - **Purchase** (2026-07-06): **$57.83** [DC-Direct Material Purchases] — Medium box foam corners
   - *Memo: No Asana request - Josh Fromm made purchase in person*
 
-- **Purchase** (2026-07-07): **$1,446.53**
+- **Purchase** (2026-07-07): **$1,446.53
