@@ -4,15 +4,14 @@
     ""
   ],
   "period": {
-    "start": "2026-07-09",
-    "end": "2026-07-10"
+    "start": "2026-07-10",
+    "end": "2026-07-12"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 72.74,
+    "expenses": 180.0,
     "by_category": {
-      "Inventory Asset": 70.24,
-      "GENERAL & ADMINISTRATIVE:GA-Professional Fees": 2.5
+      "FACILITIES:FA-Software Expenses": 180.0
     }
   },
   "invoices": [],
@@ -20,37 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-09",
-      "doc_number": "",
-      "total": 70.24,
-      "attributed": 70.24,
+      "date": "2026-07-10",
+      "doc_number": "INVUS2600155814",
+      "total": 180.0,
+      "attributed": 180.0,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "shipment for future VTOL sales",
+      "memo": "Purchased by Paige Smith for website",
       "lines": [
         {
-          "amount": 70.24,
-          "account": "Inventory Asset",
-          "description": "Import duty payment (Aerobertics Order 07-6668)"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-09",
-      "doc_number": "260627W001050",
-      "total": 2.5,
-      "attributed": 2.5,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 2.5,
-          "account": "GENERAL & ADMINISTRATIVE:GA-Professional Fees",
-          "description": "General fee"
+          "amount": 180.0,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "Software for website (1 year subscription)"
         }
       ]
     }

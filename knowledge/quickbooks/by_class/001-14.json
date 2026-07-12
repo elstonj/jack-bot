@@ -1,0 +1,41 @@
+{
+  "project_code": "001-14",
+  "qbo_class_names": [
+    "(001-14) IRAD SwiftCore 3.3"
+  ],
+  "period": {
+    "start": "2026-07-10",
+    "end": "2026-07-12"
+  },
+  "totals": {
+    "revenue": 0.0,
+    "expenses": 210.57,
+    "by_category": {
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 210.57
+    }
+  },
+  "invoices": [],
+  "bills": [],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-07-10",
+      "doc_number": "",
+      "total": 210.57,
+      "attributed": 210.57,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Alex arranged purchase directly via email\n\nPayPal",
+      "lines": [
+        {
+          "amount": 210.57,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "batteries for GCS redesign"
+        }
+      ]
+    }
+  ],
+  "purchase_orders": [],
+  "payments": []
+}

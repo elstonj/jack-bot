@@ -1,46 +1,95 @@
 # Jack Elston — Email Patterns (UPDATED)
 
 ## Communication Volume
-- **Total messages scanned:** 6,289 (6,189 prior + 100 new, July 10–11, 2026)
-- **Date range:** April 1–July 11, 2026
+- **Total messages scanned:** 6,301 (6,189 prior + 100 Jul 10–11 + 12 Jul 11–12)
+- **Date range:** April 1–July 12, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **July 10–11 activity (100 messages):** ~28% human correspondence (Krateo escalation intensity sustained: Dipan Amin SOW initiation, Sona/LisaMarie BST Integration Progress multi-turn, Hadley Solomon Creative Alignments Kickoff meeting invite, Ariel Avitan GTM discussion, Brian Grubel Tech Sync 2, Thibault follow-ups & hiring reqs, Navy TCE 26.2 continuation with Angel Ruiz-Reyes/Beck Cotter, QuSpin multi-turn with Parker Ackerknecht/Shweta Choudhury/Maciej, Joshua Wadler OOI Pioneer Array continuation, Maciej/Simon Laurence UK MOD S0 presentation, Scott Bolton/Michael Hurowitz L-band drone flights, Bryan Guinn SBIR Atmospheric Sounding UAS, Meredith Needham KO Law invoice & KPMG kickoff coordination, Aerospace Colorado event); ~48% automated vendor/logistics/compliance (Toggl receipts x2, DHL shipments x2, Amazon deliveries x2, JawsTec/SendCutSend orders, Rock West Composites stock notification, USPS Informed Delivery, DHL tracking 8614299702 continued, DIY500AMP high-performance cells, PayPal payment, Xcel Energy, Home Depot survey, DARPAConnect Maine event, Boulder County road project, E-Verify TPS updates x6 nations, OpenAI GPT-5.6 announcement, Constant Contact MFA/sign-on); ~15% finance/legal/HR (Meredith forwarded KO Law PC June invoice IMPORTANT, Liberty Mutual insurance payment reminder, Labelmaster software renewal, Rippling action required tasks, Power Platform background check, employment opportunities newsletters); ~9% strategic/external intelligence (Hadley Solomon/Creative Alignments kickoff Mon Jul 13, Meredith/Sona KPMG kickoff coordination Tuesday morning, Oleg Shilovitsky OpenBOM CAD/BOM inquiry, Maciej Coors Field private suite offer Aug 4, Robert Cone Aerospace Colorado Happy Hour July 23, Benjamin Tay International Conference Agricultural Sciences showcase, UASWeekly, Bryan Guinn Atmospheric Sounding, Craig Everett Pepperdine Private Capital Markets Report, Taylor Ford Mechanical Engineer UAV career inquiry)
-
----
+- **July 11–12 activity (12 messages):** ~8% human correspondence (Sona Raziabeegum Agreement Question escalation, J. Xavier Prochaska/Daniel Prendergast reconnection, David Richter ONR report to Notre Dame list); ~75% automated vendor/logistics/purchasing (AliExpress, USPS Informed Delivery, HeliDirect rewards, Speedway Motors, ELEGOO US, Harbor Freight, past due invoices notification); ~17% finance (Capital One Spark Cash Plus statement)
 
 ## Key Correspondents
 
 ### Top Internal Partners (Sustained/Escalating)
 
-1. **Maciej Stachura** (stachura@blackswifttech.com) — **SUSTAINED STRATEGIC LEAD:** Continues multi-thread escalation: QuSpin multi-turn technical (Jul 10, 09:50–10:07 IMPORTANT responses); KS/BST Tech Sync coordination (Jul 10, 08:13 SENT response to Thibault/Brian/Dipan/AI assistant); UK MOD S0 presentation (Jul 10, 09:44 IMPORTANT response to Simon Laurence); Follow-ups from meeting recipient (prior); OOI Pioneer Array Joshua Wadler coordination (Jul 10, 15:09 IMPORTANT); Ariel Avitan weather data sync (Jul 10, 13:46 IMPORTANT); Coors Field event forward (Jul 10, 11:39 IMPORTANT); **NEW ESCALATION:** directly engaged in all Krateo integration threads alongside Sona (implies decision-making authority)
+1. **Maciej Stachura** (stachura@blackswifttech.com) — **SUSTAINED STRATEGIC LEAD:** Continues multi-thread escalation: QuSpin technical coordination; UK MOD S0 presentation; OOI Pioneer Array; Krateo integration threads; decision-making authority across technical and strategic initiatives.
 
-2. **Meredith Needham** (meredith.needham@blackswifttech.com) — **OPERATIONAL/FINANCIAL/COMPLIANCE HUB (AMPLIFIED):** KO Law PC June 2026 invoice forwarded to Jack (Jul 10, 15:19 IMPORTANT — legal/corporate expense visibility); **NEW:** KPMG kickoff call coordination with Sona directly (Jul 10, 15:15 & 21:06 IMPORTANT multi-turn — indicates major audit/compliance initiative); Labelmaster software renewal response (Jul 10, 09:59 IMPORTANT); Extended to external: Amy McLiverty NOAA Federal on 1305M225P0034 extension (Jul 10, 12:22 IMPORTANT — government contract management)
+2. **Meredith Needham** (meredith.needham@blackswifttech.com) — **OPERATIONAL/FINANCIAL/COMPLIANCE HUB:** KO Law PC invoice management; **KPMG kickoff coordination** (major audit initiative); Labelmaster software renewal; Government contract extension (Amy McLiverty/NOAA 1305M225P0034); now receiving major purchasing alerts (HeliDirect, past due invoices routing through her purchasing alias).
 
-3. **Beck Cotter** (beck.cotter@blackswifttech.com) — **DEFENSE LIAISON (ONGOING):** Navy TCE 26.2 continued escalation with Angel Ruiz-Reyes/NAWCAD (Jul 10, 13:29, 23:28 IMPORTANT); OOI Pioneer Array forward (Jul 10, 09:20 SENT)
+3. **Beck Cotter** (beck.cotter@blackswifttech.com) — **DEFENSE LIAISON:** Navy TCE 26.2 escalation; OOI Pioneer Array coordination.
 
-4. **Ethan Domagala** — *No new activity this period*
-
-5. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **DEFENSE OPERATIONS (BACKGROUND):** Flight data report recipient via Scott Smyser/NanoVEU (Jul 10, 16:10 IMPORTANT external chain)
-
-6. **Tim Hegwood** — *No new activity this period*
+4. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **DEFENSE/ACADEMIC LIAISON (NEW SIGNAL):** J. Xavier Prochaska (UCSC) reconnection reply marked IMPORTANT (Jul 11, 12:04) — **NEW PATTERN:** Jack receiving academic/research network correspondence via Daniel; suggests Daniel manages university partnerships or research proposal coordination.
 
 ### Top External Partners (Hierarchical by Strategic Weight)
 
-#### **KRATEO SKY — INTEGRATION, AUDIT, GTM ACCELERATION (CRITICAL MULTI-AXIS ESCALATION)**
+#### **KRATEO SKY — INTEGRATION, AUDIT, GTM ACCELERATION (CRITICAL)**
 
-1. **Sona Raziabeegum** (sona@krateosky.com) — **EXPONENTIAL ENGAGEMENT CONTINUES:**
-   - **New July 10 multi-thread complex:**
-     - **Thread 1 — "BST Integration Progress Update"** (Jul 10, 18:19–21:31 IMPORTANT): Sona → Jack & Hadley Solomon response acknowledging "Great meeting you both yesterday!" escalation; LisaMarie Cheney added to thread (Jul 10, 21:31 IMPORTANT); Jack response 18:07 SENT; LisaMarie response 00:42 Jul 11 IMPORTANT — **indicates formal partnership integration checkpoint, Creative Alignments facilitating, senior Krateo exec (LisaMarie) now directly responding to Jack**
-     - **Thread 2 — "KPMG kickoff call, Tuesday morning availability"** (Jul 10, 21:06 IMPORTANT): Sona directly asking Meredith + Jack IMPORTANT availability for KPMG kickoff Tuesday morning — **NEW CRITICAL SIGNAL:** major audit/compliance firm engagement by Krateo/BST joint initiative, executive-level scheduling
-     - **Thread 3 — "Great meeting you both yesterday!"** continuation (Jul 10, 18:19 IMPORTANT): Sona acknowledging previous day's Creative Alignments facilitated kickoff, indicating formal partnership structure
-   - **Sustained context:** Now integrated with KPMG (major Big 4 accounting firm), Grant Thornton audit company initiation, formal Creative Alignments facilitation — **pattern suggests acquisition due diligence or major financing round preparation**
+1. **Sona Raziabeegum** (sona@krateosky.com) — **EXPONENTIALLY ESCALATING ENGAGEMENT:**
+   - **NEW Jul 11 escalation:** "RE: Agreement Question" (Jul 11, 16:59 IMPORTANT) — **CRITICAL SIGNAL:** formal agreement negotiation underway; Sona directly responding to Jack on contractual/partnership terms
+   - **Sustained multi-thread complex:** BST Integration Progress Update; KPMG kickoff coordination; Creative Alignments facilitation; Project Albatross SOW with Shearwater
+   - **Pattern interpretation:** Legal/commercial negotiation phase active; suggests acquisition, financing round, or major partnership agreement in final stages
 
-2. **Dipan Amin** (dipan@krateosky.com) — **NEW ELEVATED ENGAGEMENT:**
-   - **"Shearwater X Blackswift Project Albatross SOW"** (Jul 11, 03:10 IMPORTANT to Jack & Maciej): **NEW PROJECT CODENAME VISIBLE:** "Project Albatross" + Shearwater partnership + Statement of Work initiation — **indicates new joint venture or major partnership program launch**
-   - Also recipient of Help with planning request (Jul 10, 14:32 SENT)
+2. **Dipan Amin** (dipan@krateosky.com) — **NEW ELEVATED ENGAGEMENT:** Project Albatross (Shearwater X Blackswift) SOW initiation; Help with planning coordination.
 
-3. **Thibault Bridel-Bertomeu** (Thibault@krateosky.com) — **HIRING & TECH SYNC LEAD:**
-   - Re: Reqs: Computer vision engineer & frontend software engineer (Jul 10, 09:37 IMPORTANT) — **NEW ACTIVE HIRING ACCELERATION visible**
-   - KS/BST Tech Sync responses (Jul 10, 15:08 IMPORTANT multi-recipient with Brian Grubel, Dipan Amin, SA-XCA AI assistant)
-   - Follow-ups from meeting recipient (Jul 10, 11:39 IMPORTANT)
-   - Jack responses to follow-ups
+3. **Thibault Bridel-Bertomeu** (Thibault@krateosky.com) — **HIRING & TECH SYNC LEAD:** Active computer vision engineer + frontend software engineer hiring acceleration; KS/BST Tech Sync coordination.
+
+#### **ACADEMIC/RESEARCH NETWORK (NEW ESCALATION)**
+
+1. **J. Xavier Prochaska** (jxp@ucsc.edu) — **NEW IMPORTANT CONTACT:** Reconnection email to Daniel Prendergast marked IMPORTANT (Jul 11, 12:04); **suggests BST academic partnership development, possibly astronomy/observational science context** (UCSC Lick Observatory affiliation likely).
+
+2. **David Richter** (David.Richter.26@nd.edu) — **DEFENSE RESEARCH NETWORK:** ONR report posted to Notre Dame sascwatch-all list (Jul 12, 08:40 IMPORTANT); Jack on distribution list — **indicates Navy Office of Naval Research engagement or monitoring**.
+
+#### **VENDOR/LOGISTICS (ROUTINE, SUSTAINED)**
+
+- AliExpress, USPS Informed Delivery, HeliDirect, Harbor Freight, ELEGOO US (electronics/components sourcing — **consistent with hardware development focus**)
+- Speedway Motors (automotive/engine components — **potential drone/vehicle propulsion research**)
+
+---
+
+## Topic Patterns
+
+### Active Projects (Visible Codenames & Themes)
+- **Project Albatross** (NEW) — Shearwater X Blackswift partnership, SOW phase
+- **Navy TCE 26.2** — Sustained defense/maritime escalation
+- **OOI Pioneer Array** — Ocean Observing Initiative coordination (Joshua Wadler, Beck Cotter)
+- **UK MOD S0** — UK Ministry of Defense presentation/program (Maciej/Simon Laurence)
+- **QuSpin** — Multi-turn technical coordination (Parker Ackerknecht, Shweta Choudhury, Maciej)
+- **Krateo Sky Integration** — BST + Krateo formal partnership/integration (Creative Alignments facilitating)
+- **KPMG Audit Initiative** — Major compliance/financial review (Meredith/Sona coordinated)
+
+### Recurring Themes
+- **Defense/Government:** Navy, UK MOD, ONR, NOAA contracts
+- **Hardware/Components:** Drone systems, electronics, automotive propulsion
+- **Academic Partnerships:** UCSC (Prochaska), Notre Dame (Richter/ONR)
+- **Commercial Partnerships:** Krateo Sky (primary external focus), Shearwater
+
+---
+
+## Communication Patterns
+
+### Time Patterns
+- **High-intensity weekday escalation:** Jul 10 (100 messages) — sustained multi-thread management
+- **Weekend activity (Jul 11–12):** Minimal human correspondence; Sona agreement negotiation response Sat afternoon; automated/vendor mail dominates
+- **Off-hours responsiveness:** Sona responses on Saturday afternoon suggest high-priority negotiation or time-sensitive decisions
+
+### Mailing Lists & Group Participation
+- **srer@list.arizona.edu** — 22nd RISE Symposium (Research, Innovation, Sustainability & Education in Extreme Environments — Sep 26, 2026) — **indicates Jack/BST interest in extreme environment UAS/sensor applications**
+- **sascwatch-all-list@nd.edu** — Notre Dame SASC Watch (likely student/academic research in autonomous systems/controls) — **suggests advisory or research network role**
+
+### Automated/Vendor Patterns
+- **Purchasing department routing:** AliExpress, Harbor Freight, Speedway Motors, ELEGOO US, HeliDirect forwarded through purchasing@blackswifttech.com (likely Alexis Lomis or Meredith Needham managing procurement)
+- **Finance notifications:** Capital One Spark Cash Plus statement (Jul 11) — **indicates Jack may hold corporate card or direct budget authority**
+- **Logistics tracking:** USPS Informed Delivery, DHL continuation — consistent prior pattern
+
+---
+
+## Key Relationships
+
+### Closest Internal Collaborators (by frequency & decision authority)
+1. **Maciej Stachura** — Multi-domain technical/strategic authority (QuSpin, UK MOD, OOI, Krateo integration)
+2. **Meredith Needham** — Financial/operational/compliance (KO Law, KPMG, government contracts)
+3. **Beck Cotter** — Defense program liaison (Navy TCE, OOI)
+
+### Critical External Relationships
+1. **Sona Raziabeegum (Krateo Sky)** — **NOW IN ACTIVE NEGOTIATION PHASE:** Agreement question escalation indicates high-stakes commercial terms discussion; likely M&A or major partnership agreement in final review
+2. **Dipan Amin (Krateo Sky)** — SOW/project initiation lead
+3. **Thibault Bridel-Bertomeu (Krateo Sky)** — Hiring & technical integration
+4.
