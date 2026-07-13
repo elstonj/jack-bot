@@ -33,11 +33,11 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "NASA Ames S2 order (PO 80NSSC25PC031) with Sep 30, 2026 delivery target. Executed PO confirmed by Daniel Prendergast; parts assembly and obsolete-component replacements in progress. Will Wade confirmed Sep 26 delivery works programmatically pending FY25 fund spend deadline. QBO invoice #1633 (2024-11-04, $3,470) is for different project [211-1] NASA Ames MHP; this current S2 build has no matching paid invoice yet. Last substantive contact 2026-02-20.",
+  "notes": "NASA Ames S2 order (PO 80NSSC25PC031) with Sep 30, 2026 delivery target. Executed PO confirmed by Daniel Prendergast; parts assembly and obsolete-component replacements in progress. Will Wade confirmed Sep 26 delivery works programmatically pending FY25 fund spend deadline. QBO invoice #1633 (2024-11-04, $3,470) is for different project [211-1] NASA Ames MHP; this current S2 build has no matching paid invoice yet. Last substantive contact 2026-02-20. S20009 mentioned in July Slack as going to NASA.",
   "missing_fields": [
     "ship_to",
     "invoice_amount"
   ],
-  "last_evidence_date": "2026-02-20",
+  "last_evidence_date": "2026-07-10",
   "last_contact_date": "2026-02-20"
 }

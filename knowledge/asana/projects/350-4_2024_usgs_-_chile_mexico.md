@@ -76,3 +76,6 @@ Project paused pending Fall 2026 deployment timeline confirmation. Batteries in 
   - **Pending Maciej's decisions**: Email archival location, customs broker confirmation request, group notification
   - **All remaining open tasks** assume spring/summer 2026 execution — **do not action without Fall 2026 timeline confirmation**
   - **Murray State thermal testing**: FLIR stoppage resolved (July 6, 2026)
+
+- **Products/Services**: MHP, Survey Services, Aircraft Rental (AV3)
+- **

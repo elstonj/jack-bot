@@ -5,7 +5,7 @@
 The #commercial-sales channel is Black Swift Technologies' hub for customer orders, project delivery, and sales execution. It tracks aircraft systems (E2, S2, S3, S0, S0-VTOL), payload integrations, customer relationships, and the complete lifecycle from quotes through delivery and support. The channel shows active engagement with university research programs, government agencies (NASA, NOAA), and international customers, with discussion spanning technical specifications, shipping logistics, quality control, troubleshooting, and payload data processing.
 
 **Key Participants:**
-- Jack Elston (leadership, customer relationships, technical decisions, travel coordination, firmware/GCS troubleshooting, training decisions)
+- Jack Elston (leadership, customer relationships, technical decisions, travel coordination, firmware/GCS troubleshooting, training decisions, fleet management decisions)
 - Joshua Fromm (manufacturing, technical implementation, battery/avionics work, shipping coordination, aircraft configuration, product strategy input)
 - Melissa Phillips (shipping/logistics coordination)
 - Maciej Tromba (payload/camera work, customer communication, sales decisions, demo participation, methane payload data processing, stakeholder needs documentation, S0 ISR camera specifications)
@@ -31,7 +31,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - **Supercool (prospective customer - cloud seeding operations, S2 aircraft inquiry, July 10, 2026)**
 - Ethan & Spencer (team members attending Murphy's Pond field campaign, Aug 4-6)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: July 10, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: July 12, 2026.
 
 ---
 
@@ -98,4 +98,4 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Customer Dan H (CU) interested in purchasing used E2 battery pack
 - Maciej Tromba seeking guidance on discount vs. new pack ($3,699)
 - Rationale for discount: Significant labor savings from not building new unit
-- **DECISION FINALIZED (May 18, 2026):** Maciej Tromba approved pricing used E2 battery at $1,000 to CU/
+- **DECISION FINALIZED (May 18, 2026):** Maciej Tromba approved pricing used E2 battery at $1,000 

@@ -12,12 +12,12 @@
     "contacts": []
   },
   "contract": {
-    "type": "fixed_price",
+    "type": "unknown",
     "number": "1305M226D0012",
     "total_value": 483000.0,
     "start_date": "2026-02-01",
     "end_date": "2031-01-31",
-    "payment_cadence": "annual ordering periods",
+    "payment_cadence": "fixed price per unit/task per ordering period; NRE billed at task order level",
     "documents": [
       "drive://Budget Structure",
       "drive://(1305M226D0012) Attachment 1-Specifications_Black Swift.pdf",
@@ -30,26 +30,26 @@
     "line_items": [
       {
         "category": "Equipment",
-        "amount": 11981250.0,
-        "description": "Black Swift S0 sUAS Platforms (OP1: 150@$18,000=$2,700,000 + OP2: 150@$18,630=$2,794,500 + OP3: 125@$19,282=$2,410,250 + OP4: 125@$19,957=$2,494,625 + OP5: 125@$20,655=$2,581,875)",
+        "amount": 10981250.0,
+        "description": "Black Swift S0 sUAS Platforms: 150 EA @ $18,000 (Period 1) + 150 EA @ $18,630 (Period 2) + 125 EA @ $19,282 (Period 3) + 125 EA @ $19,957 (Period 4) + 125 EA @ $20,655 (Period 5)",
         "source_doc": null
       },
       {
         "category": "Labor",
-        "amount": 427500.0,
-        "description": "Mission Days Operational support and Operational/Testing Support (30 mission days @ $2,850 + 6 support days @ $6,000 per ordering period × 5 periods)",
+        "amount": 171000.0,
+        "description": "Operational support: Mission Days (30 days @ $2,850 per period × 5 periods = $427,500), Operational and Testing Support (6 @ $6,000 per period × 5 = $180,000), Training Sessions (Operator/Observer 1 @ $6,000 per period × 5 = $30,000; Instructor 1 @ $600 per period × 5 = $3,000); Course Development (Operator/Observer and Instructor each $6,000 per period × 5 = $60,000)",
         "source_doc": null
       },
       {
-        "category": "Labor",
-        "amount": 36000.0,
-        "description": "Operator and Observer Training Sessions (1 session @ $6,000 per ordering period × 5 periods + Instructor Training 1 session @ $600 per ordering period × 5 periods = $30,000 + $3,000)",
+        "category": "Travel",
+        "amount": 50000.0,
+        "description": "Travel for Operational Support NTE per ordering period (capped at $50,000 per period, only one period included in base calculation)",
         "source_doc": null
       },
       {
         "category": "Other",
-        "amount": 60000.0,
-        "description": "Course Development (Operator and Observer Course + Instructor Training Course @ $6,000 each per ordering period × 5 periods)",
+        "amount": 1050000.0,
+        "description": "Non-recurring Engineering: Technical Documentation NTE $66,000, Modeling NTE $66,000, NHC operational workflow integration NTE $66,000 per period × 5 = $990,000 (conservative single-period allocation for fixed budget)",
         "source_doc": null
       }
     ],
@@ -58,19 +58,19 @@
         "amount": 158167.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-12"
+        "last_updated": "2026-07-13"
       },
       "purchases": {
         "amount": 970.76,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-07-12"
+        "last_updated": "2026-07-13"
       },
       "other_qbo": {
         "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-07-12"
+        "last_updated": "2026-07-13"
       },
       "total": 159138.26,
       "by_line_item": {}
@@ -78,7 +78,7 @@
     "committed": 592.94,
     "remaining": 13121518.8,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-12T08:49:51Z"
+    "last_reconciled": "2026-07-13T08:51:20Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -128,6 +128,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-07-12T08:49:51Z",
+  "last_full_rebuild": "2026-07-13T08:51:20Z",
   "last_incremental_update": null
 }

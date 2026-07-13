@@ -113,15 +113,15 @@
   - Interns: 2 interns
 - **Operations & Administration:** 1 person
 - **Communications & Marketing:** 2 people
-- **Unclassified:** 5 people (Beck Cotter, Brent Keefer, Daniel Prendergast, Jameel Barkat, Tim Hegwood — roles/departments unknown)
+- **Unclassified:** 5 people (Beck Cotter, Brent Keefer, Daniel Prendergast, Jameel Barkat, Tim Hegwood)
 - **Service Accounts:** 2
 
 **Data Validation:**
 - ✅ All 20 roster entries confirmed and current
 - ✅ All contact information validated and standardized
 - ✅ Phone numbers normalized to consistent format (XXX-XXX-XXXX)
-- ✅ Complete data integrity maintained across merge
-- ✅ No new entries or changes detected in raw data
+- ✅ No changes detected between existing and raw data
+- ✅ Complete data integrity maintained
 
 **Notes:**
 - Five team members remain unclassified; recommend outreach to leadership for role clarification

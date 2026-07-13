@@ -1,10 +1,10 @@
 # Meredith O'hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,143 emails (1,073 previous + 62 from Jul 10–11 + 8 from Jul 11–12)
-- **Date range:** June 15–July 12, 2026 (28 days)
-- **Approximate volume:** ~41 emails/day
-- **Trend:** Sustained ultra-high-velocity operational management with critical government compliance urgency (DCAA audit active and intensifying), active PEO vendor engagement (Deel contract execution phase + pricing meeting scheduled Jul 13), elevated component procurement velocity with international logistics, and multi-vendor software/operational platform renewals (Toggl, Labelmaster, Rippling enrollment). **New signal: Past due invoices alert (Jul 12); procurement email volume shows heavy automated vendor/marketing influx.**
+- **Total messages scanned:** 1,154 emails (1,143 previous + 11 from Jul 12–13)
+- **Date range:** June 15–July 13, 2026 (29 days)
+- **Approximate volume:** ~40 emails/day
+- **Trend:** Sustained ultra-high-velocity operational management with critical government compliance urgency (DCAA audit active); active PEO vendor engagement (Deel pricing meeting Jul 13); elevated component procurement and benefits administration; multi-vendor software/operational platform renewals (Toggl, Rippling, Labelmaster). **Updated signal: KPMG audit kickoff preparation imminent (Tuesday morning); past due invoices resolved or in processing; broad vendor/marketing email influx continuing through weekend.**
 
 ---
 
@@ -14,65 +14,102 @@
 
 **Automated Systems & Purchasing Routing:**
 
-1. **Purchasing system** (`purchasing@blackswifttech.com`) — **478+ cumulative messages**
+1. **Purchasing system** (`purchasing@blackswifttech.com`) — **485+ cumulative messages**
    
-   **Component & Equipment Deliveries (Jul 10–12):**
-   - **DHL Express** — **Shipment #8614299702 continues (Jul 10–11)**
-     - **DHL Shipment Notification (Jul 11, 00:15 UTC, MYT timezone)** [CATEGORY_FORUMS, INBOX] — persistent international shipment tracking
-     - **DHL On Demand Delivery notifications (Jul 10, 19:16 UTC; Jul 10, 16:22 UTC)** [CATEGORY_FORUMS] — multiple delivery coordination attempts
-     - **Significance:** High-priority international logistics continuing across reporting period; Southeast Asian origin (MYT timezone confirms); delivery coordination escalating
+   **Component & Equipment Deliveries (continuing through Jul 13):**
+   - **DHL Express** — Shipment #8614299702 continues (international logistics ongoing)
+   - **JawsTec Manufacturing LLC** — Order #69825 in transit
+   - **Rock West Composites** — Inventory status issues flagged
    
-   - **JawsTec Manufacturing LLC** — **Shipment in transit (Jul 10)**
-     - **"Your order from JawsTec is on its way!" (Jul 10, 18:32 UTC)** [CATEGORY_UPDATES] — Order #69825 confirmation + tracking
-   
-   - **Rock West Composites** — **New order alert (Jul 10)**
-     - **"TBD OUT OF STOCK: Rock West Composites: New Order #Z100709976" (Jul 10, 15:13 UTC, from Sage Rawlings)** [CATEGORY_FORUMS] — inventory status issue flagged
-   
-   - **Driftaway Coffee** — **Purchase review request (Jul 10, 23:07 UTC)** [CATEGORY_UPDATES, INBOX]
-   
-   - **Toggl Inc** — **OPERATIONAL PLATFORM ACTIVITY (NEW PROMINENCE)**
-     - **Receipt #2237-7947 (Jul 10, 23:33 UTC)** [UNREAD, CATEGORY_UPDATES, INBOX]
-     - **Receipt #2227-6723 (Jul 11, 03:23 UTC)** [UNREAD, CATEGORY_UPDATES, INBOX]
-     - **Support email no subject (Jul 10, 22:35 UTC)** [UNREAD, CATEGORY_UPDATES, INBOX]
-     - **Support email no subject (Jul 11, 03:14 UTC)** [UNREAD, IMPORTANT, CATEGORY_UPDATES, INBOX]
-     - **Significance:** Multiple Toggl receipts in 24h; appears to be onboarding or account reconciliation; marked IMPORTANT suggests active configuration/setup
-   
-   - **PayPal** — **Payment transaction (Jul 10, 12:50 UTC)**
-     - **"You sent a $210.57 USD payment"** [CATEGORY_FORUMS, INBOX] — routed through purchasing system
-
-   **Retail/Marketing Vendor Influx (NEW — Jul 11–12):**
-   - **AliExpress** — **Marketing email (Jul 11, 17:09 UTC)** [UNREAD, CATEGORY_FORUMS, INBOX] — "Good choice, your faves await!"
-   - **HeliDirect** — **Promotional email (Jul 11, 18:25 UTC)** [UNREAD, CATEGORY_UPDATES, INBOX] — reward points offer
-   - **Speedway Motors** — **Marketing email (Jul 11, 17:37 UTC)** [UNREAD, CATEGORY_FORUMS, INBOX] — engine maintenance content
-   - **Harbor Freight** — **Promotional email (Jul 11, 16:42 UTC)** [UNREAD, CATEGORY_FORUMS, INBOX] — 48-hour sale
-   - **ELEGOO US** — **Marketing email (Jul 11, 13:01 UTC)** [UNREAD, CATEGORY_FORUMS, INBOX] — "Summer Sale Ends Soon" (sent to Alexis Lomis via purchasing routing)
-   - **USPS Informed Delivery** — **Daily digest (Jul 11, 13:23 UTC)** [UNREAD, CATEGORY_FORUMS, INBOX] — physical mail tracking
-   - **Significance:** Heavy automated vendor/promotional email influx Saturday-Sunday; suggests broad purchasing account enrollment across retail platforms; likely feeds into component sourcing activities
+   **Retail/Marketing Vendor Influx (expanding Jul 12–13):**
+   - **Spindrift Market** — **Order confirmation SH62379030 (Jul 13, 02:01 UTC)** [UNREAD, CATEGORY_FORUMS] — beverage/refreshment purchase
+   - **Harbor Freight** — **Final promotional email (Jul 12, 16:26 UTC)** [UNREAD, CATEGORY_FORUMS] — free bucket offer ending
+   - **USPS Informed Delivery** — **Daily digest (Jul 12, 13:17 UTC)** [UNREAD, CATEGORY_FORUMS] — physical mail tracking
+   - **AliExpress, HeliDirect, Speedway Motors** — Continuing from previous period
+   - **Significance:** Weekend promotional email volume sustained; Spindrift order suggests employee break-room or operational supplies purchasing
 
    **Finance & Administration Alerts:**
-   - **Past Due Invoices Alert** — **[NEW CRITICAL FLAG] (Jul 12, 07:02 UTC)** [UNREAD, CATEGORY_FORUMS, INBOX] — "You Have Past Due Invoices" — routed through purchasing system; suggests payment processing delays or missed deadlines
-   - **Liberty Mutual Insurance** — **Payment reminder (Jul 10, 20:46 UTC)** [UNREAD, CATEGORY_FORUMS] — withdrawal scheduled 7/17/2026
-   - **Xcel Energy** — **Statement ready (Jul 10, 11:55 UTC)** [UNREAD, CATEGORY_FORUMS]
-   - **E-Verify via Operations** — **[URGENT COMPLIANCE] Update on Termination of Temporary Protected Status for Somalia (Jul 11, 04:20 UTC)** [UNREAD, CATEGORY_FORUMS, INBOX] — Immigration compliance alert; may affect hiring or contractor eligibility
+   - **General Air** — **Payment Confirmation #10099275 (Jul 12, 05:05 UTC)** [UNREAD, IMPORTANT, CATEGORY_FORUMS] — BLACK SWIFT TECHNOLOGIES LLC payment processed; vendor/supplier name indicates aviation-related component or service provider
+   - **Liberty Mutual Insurance** — Payment withdrawal scheduled 7/17/2026
+   - **Xcel Energy** — Statement ready
+   - **E-Verify** — Immigration compliance alert (Termination of Temporary Protected Status for Somalia)
+   - **Significance:** Payment processing actively occurring; General Air transaction suggests aerospace/aviation component sourcing (aligned with BST's technical focus)
 
 ---
 
-2. **Deel PEO — ESCALATED TO PRICING NEGOTIATION (CONTINUING)**
-
-   - **Raquel Roberts** (`raquel.roberts@deel.com`) — **Pricing meeting confirmed for Jul 13, 2026**
-     - Calendar entries and follow-ups from previous period still active
-     - Meeting: "Deel PEO Admin Pricing x BST (Krateosky) @ Mon Jul 13, 2026 1:30pm - 2pm (MDT)" [SCHEDULED]
+2. **Rippling Inc** — **BENEFITS ENROLLMENT (NEW OPERATIONAL PRIORITY)**
+   - **"Your benefits enrollment" (Jul 13, 02:38 UTC)** [UNREAD, IMPORTANT, CATEGORY_UPDATES, INBOX] — active enrollment push; suggests Q3 benefits administration cycle or company-wide enrollment campaign
 
 ---
 
-3. **Internal Executive & Operations:**
+3. **UnitedHealthcare** — **Insurance Administration**
+   - **"Now Online: A new Explanation of Benefits is available" (Jul 12, 13:09 UTC)** [UNREAD, IMPORTANT, CATEGORY_UPDATES, INBOX] — new EOB posted; benefits claims activity
 
-   - **Jack Elston** (`elstonj@blackswifttech.com`) — **CEO (3 new emails, Jul 10)**
-     - **"Help with planning" (Jul 10, 14:32 UTC, STARRED, IMPORTANT)** — multi-recipient: Brian Grubel, Dipan Amin, Beck Cotter, Maciej Stachura — **strategic planning discussion initiated**
-     - **KO Law PC invoice forwarded (Jul 10, 15:19 UTC SENT by Meredith)** — legal billing review
-     - Email to Sona Raziabeegum (KrateoSky) cc'd to Jack Elston (Jul 10, 21:06 UTC external) — KPMG kickoff call coordination
+---
 
-   - **Beck Cotter** (`beck.cotter@blackswifttech.com`) — **DCAA AUDIT COORDINATION (CRITICAL ESCALATION)**
-     - **"Update SOW to include additional flight" (Jul 10, 22:00 UTC via Asana)** [UNREAD, CATEGORY_UPDATES] — task assignment; SOW scope expansion
-     - **"Black Swift P0011558 modification (Jul 10, 15:22 UTC)"** [IMPORTANT] — technical project communication with dliddle@murraystate.edu (likely university/research partner)
-     - **DCAA audit thread continues** — multiple exchanges with Christy Evans (ReliAscent), Beck, and Meredith on compliance documentation (Jul 10, 08:52 UTC through Jul 10, 14:59 UTC) — **heavy back-and
+4. **Internal Executive & Operations (ESCALATED):**
+
+   - **Jack Elston** (`elstonj@blackswifttech.com`) — **CEO (2 new critical emails, Jul 12–13)**
+     - **"Re: KPMG kickoff call, Tuesday morning availability (Jul 12, 23:32 UTC)"** [UNREAD, IMPORTANT, INBOX] — **KPMG audit/compliance engagement imminent; Meredith's calendar/availability requested for Tuesday morning kickoff**
+     - **"Fwd: June 2026 invoice for KO Law PC (Jul 12, 23:09 UTC)"** [UNREAD, IMPORTANT, INBOX] — forwarded to Ryan Sykora (KO Law), Nadia Bryan, Maciej Stachura — legal billing review and distribution; June invoice indicates ongoing legal services (likely audit/compliance support)
+     - **Significance:** KPMG engagement signals external audit/financial review preparation; Jack Elston coordinating calendar for Meredith's participation; legal counsel involvement suggests compliance/audit scope preparation
+
+---
+
+5. **External Audit/Compliance (NEW PROMINENCE):**
+   - **KPMG** — Kickoff call scheduled Tuesday morning (Jul 15, 2026, implied)
+     - Meredith's availability being coordinated by Jack Elston
+     - Thread originated Jul 10 (previous data); escalating to active scheduling phase
+   - **KO Law PC** — Legal counsel; June invoice forwarded Jul 12 for review/approval
+     - Ryan Sykora (lead contact)
+     - Supporting audit/compliance documentation preparation
+
+---
+
+6. **Event/Industry Communications (LOW PRIORITY):**
+   - **RMAME (Rocky Mountain Advanced Manufacturing Expo)** — **Promotional email (Jul 12, 17:26 UTC)** [UNREAD, CATEGORY_FORUMS] — September 18, 2026 event promotion; routed via Generic Information to `info@blackswifttech.com`
+   - **Boulder County Public Health** — **Heat advisory alert (Jul 12, 22:53 UTC)** [UNREAD, CATEGORY_UPDATES] — routed to `operations@bst.aero`; general community notification
+
+---
+
+## Topic Patterns
+
+**CRITICAL PRIORITIES (Jul 12–13):**
+1. **KPMG Audit Kickoff** — Tuesday morning (imminent)
+2. **Deel PEO Pricing Meeting** — Jul 13, 1:30pm (confirmed; Raquel Roberts)
+3. **Benefits Enrollment** — Rippling active push (employee/admin action required)
+4. **Legal Billing Review** — KO Law PC June invoice distributed for approval chain
+
+**ONGOING OPERATIONAL THEMES:**
+- International logistics (DHL Southeast Asia tracking)
+- Component procurement (JawsTec, Rock West Composites, General Air)
+- DCAA audit compliance documentation
+- Software platform renewals (Toggl receipts, Rippling enrollment)
+- Vendor/retail purchasing (broad marketplace enrollment)
+- Insurance/benefits administration (UnitedHealthcare EOB, Rippling enrollment)
+
+---
+
+## Communication Patterns
+
+**Time Patterns (Jul 12–13):**
+- **Weekend activity (Jul 12):** Multiple emails 13:09–23:32 UTC / 07:09–17:32 MDT; Jack Elston responding/initiating 23:09–23:32 UTC (11:09pm–11:32pm MDT Sunday) — executive urgency
+- **Early Monday morning (Jul 13, 00:01–04:01 UTC / Jul 12, 18:01–22:01 MDT):** Rippling enrollment, General Air payment confirmation, Spindrift order routing — overnight batch processing
+- **Sustained 24/7 inbound:** Automated systems, vendor notifications, and compliance alerts flow continuously
+
+**Mailing Lists/Group Emails:**
+- **Legal approval chain:** Jack Elston → Ryan Sykora (KO Law), Nadia Bryan (KO Law), Maciej Stachura (BST internal) — invoice review/approval distribution
+- **Purchasing routing:** Broad vendor/marketing emails auto-routed to `purchasing@blackswifttech.com`; Meredith receives as primary recipient or participant
+
+**Automated Email Categories:**
+- **CATEGORY_FORUMS:** Vendor/marketing/informational (low priority)
+- **CATEGORY_UPDATES:** Operational alerts, subscription/platform notifications (medium priority)
+- **IMPORTANT flag:** KPMG, legal billing, benefits, compliance communications (high priority)
+- **UNREAD:** All 11 new emails unread; suggests email volume or batch-processing delays
+
+---
+
+## Key Relationships
+
+**Internal (Primary Collaborators):**
+1. **Jack Elston (CEO)** —
