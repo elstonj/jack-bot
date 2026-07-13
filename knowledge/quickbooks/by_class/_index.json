@@ -1,23 +1,10 @@
 {
   "period": {
-    "start": "2026-07-10",
-    "end": "2026-07-12"
+    "start": "2026-07-12",
+    "end": "2026-07-13"
   },
-  "scanned_at": "2026-07-12",
+  "scanned_at": "2026-07-13",
   "projects": [
-    {
-      "project_code": "001-14",
-      "revenue": 0.0,
-      "expenses": 210.57,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 1,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "(001-14) IRAD SwiftCore 3.3"
-      ]
-    },
     {
       "project_code": "300-3",
       "revenue": 72000.0,
@@ -42,19 +29,6 @@
       "payment_count": 0,
       "qbo_class_names": [
         "[550-1] Navy SBIR Magnetometer"
-      ]
-    },
-    {
-      "project_code": "_unclassified",
-      "revenue": 0.0,
-      "expenses": 180.0,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 1,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        ""
       ]
     }
   ]

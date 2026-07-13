@@ -1,81 +1,48 @@
 # Slack Channels Overview
 
-Last scanned: 2026-07-11 02:14
+Last scanned: 2026-07-13 02:10
 
-Total channels scanned: 6
+Total channels scanned: 2
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 4 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#commercial-sales** -- 8 messages -- [commercial-sales.md](commercial-sales.md)
-- **#general** -- 3 messages -- [general.md](general.md)
-- **#operations** -- 2 messages -- [operations.md](operations.md)
-- **#sbir-hurricane** -- 8 messages -- [sbir-hurricane.md](sbir-hurricane.md)
-- **#swiftcore** -- 3 messages -- [swiftcore.md](swiftcore.md)
+- **#commercial-sales** -- 2 messages -- [commercial-sales.md](commercial-sales.md)
+- **#marketing** -- 1 messages -- [marketing.md](marketing.md)
 
 ## Strategic Summary
 
 # Black Swift Technologies - Cross-Channel Strategic Overview
 
-## Active Projects & Programs
+## Active Projects & Products
+- **Aircraft Systems**: E2, S2, S3, S0, S0-VTOL platforms driving commercial and research applications
+- **Payload Integrations**: Central to customer delivery and differentiation
+- **University Research Programs**: Active engagement channel for market development and validation
 
-**Core Product Lines:**
-- **SwiftCore System**: Firmware, tablet apps, flight testing, release management (highly active development)
-- **Aircraft Platforms**: E2, S2, S3, S0, S0-VTOL variants for various missions
-- **SBIR Programs**: 
-  - Hurricane reconnaissance (S0 UAS for NOAA/atmospheric missions)
-  - Navy magnetometer integration (MAD - Magnetic Anomaly Detection)
-
-**Customer Base:**
-- Government agencies (NASA, NOAA)
-- University research programs
-- International customers
-- Commercial/academic contracts
+## Key Customer Segments
+- **Government Agencies**: NASA, NOAA (priority accounts)
+- **International Customers**: Expanding geographic footprint
+- **Academic/Research Institutions**: University partnerships for R&D and market credibility
 
 ## Key People & Roles
-
-| Person | Primary Role(s) |
-|--------|-----------------|
-| Jack Elston | Leadership, strategic decisions, project oversight |
-| Joshua Fromm | Hardware/shop lead, operations coordination |
-| Maciej | Technical development (SwiftCore, SBIR projects) |
-| Danny Troke | Technical/operational (SwiftCore, Hurricane) |
-| Dan Prendergast | Business development, operations |
-| Beck Cotter | Navy magnetometer project, SBIR technical |
-| Sam Hild | Multiple projects (SwiftCore, magnetometer, Hurricane) |
-| Meredith Needham | Finance, administration |
-| Ben Busby | SwiftCore firmware/software development |
-
-## Decision Patterns
-
-1. **Cross-functional alignment**: Technical decisions flow between #swiftcore (development) → #general (announcements) → #operations (execution)
-2. **Project-specific channels**: Deep technical work in dedicated spaces (#sbir-hurricane, #25_1-navy-sbir-magnetometer) with leadership updates in #general
-3. **Sales-operations feedback loop**: Customer requirements from #commercial-sales inform development and operational planning
-4. **Leadership clearance**: Jack Elston appears as final decision authority on major items
-
-## Recurring Topics & Connections
-
-**Technical:**
-- Flight testing coordination and results
-- Payload integration challenges
-- Firmware/software releases and bug fixes
-- System performance optimization
-
-**Operational:**
-- Project delivery timelines and milestones
-- Procurement and inventory management
-- Facility/logistics coordination
-- Financial tracking and resource allocation
-
-**Business:**
-- Customer communications and fulfillment
-- Government agency requirements (SBIR deadlines, compliance)
-- Order status and delivery schedules
+- **Jack Elston**: Leadership/Strategy (involved in both commercial and marketing decisions)
+- **Parker Vollmer**: Marketing leadership
+- Additional commercial and marketing team members (partial visibility in summaries)
 
 ## Cross-Channel Themes
 
-- **SBIR Programs drive innovation**: Both magnetometer and Hurricane projects leverage BST's existing aircraft platforms
-- **Shared technical team**: Same core people (Maciej, Sam Hild, Beck Cotter, Joshua Fromm) contributing across multiple projects
-- **Integration focus**: Multiple projects centered on payload integration onto standard platforms
-- **Long operational timeline**: Projects span 2020-2026, indicating sustained, multi-year commitments
-- **Government-commercial blend**: SBIR funding enables advanced R&D that feeds into commercial platform development
+### 1. **Sales-Marketing Alignment**
+- Commercial execution directly informs marketing messaging and content strategy
+- Product demonstrations and customer wins feed into promotional campaigns
+- Need for coordinated narrative across customer-facing channels
+
+### 2. **Technical Product Focus**
+- Aircraft systems and payload capabilities are central to both sales pitches and marketing differentiation
+- Product specifications drive both deal structure and market positioning
+
+### 3. **Stakeholder Management**
+- Government and academic customers require tailored engagement strategies
+- Multi-team coordination needed for high-stakes accounts
+
+## Gaps & Opportunities
+- Summaries incomplete; full visibility into decision patterns and recurring topics limited
+- Potential need for clearer handoff protocols between commercial delivery and marketing communication

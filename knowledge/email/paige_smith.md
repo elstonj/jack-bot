@@ -1,13 +1,12 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 3,644 (3,626 previous + 18 new from Jul 11-12, 2026)
-- **Date range:** March 24 – July 12, 2026 (111 days)
-- **Approximate volume:** ~32.83 messages per day (sustained consistency)
-- **New batch composition (Jul 11-12, 2026):** ~94% automation/newsletters/promotions/news (17 of 18 messages)
-  - **Direct human correspondence:** 1 message (5.6%)
-    - LinkedIn — Chad Vorthmann connection suggestion (Jul 12, 00:59:52)
-  - **Note:** Jul 11-12 batch shows **zero direct work correspondence**; purely inbound newsletters and promotional content; no task reminders or internal collaboration visible
+- **Total messages scanned:** 3,664 (3,644 previous + 20 new from Jul 12-13, 2026)
+- **Date range:** March 24 – July 13, 2026 (112 days)
+- **Approximate volume:** ~32.71 messages per day (sustained consistency)
+- **New batch composition (Jul 12-13, 2026):** ~100% automation/newsletters/promotions/news (20 of 20 messages)
+  - **Direct human correspondence:** 0 messages (0%)
+  - **Note:** Jul 12-13 batch shows **zero direct work correspondence**; purely inbound newsletters, promotional content, and industry notifications; continues weekend/early Monday pattern of no task collaboration
 
 ---
 
@@ -16,47 +15,50 @@
 ### Top Internal Senders & Collaborators
 
 **Meredith Needham** (meredith.needham@blackswifttech.com)
-- **Status:** Elevated coordinator role confirmed — operations/logistics/administrative lead; no new messages in Jul 11-12 batch
+- **Status:** Elevated coordinator role confirmed — operations/logistics/administrative lead; no new messages in Jul 12-13 batch
 
 **Jack Elston** (media@blackswifttech.com)
-- **Status:** Core media/intelligence correspondent; no new messages in Jul 11-12 batch
+- **Status:** Core media/intelligence correspondent; no new messages in Jul 12-13 batch
+- **Note:** STATION Austin community events (Jul 13, 14:01:37) sent to media@blackswifttech.com, suggesting Jack may monitor venue/event notifications
 
 **Beck Cotter** (via Google Sheets)
-- **Status:** Active project collaborator on near-term demo planning/resource allocation; no new messages in Jul 11-12 batch
+- **Status:** Active project collaborator on near-term demo planning/resource allocation; no new messages in Jul 12-13 batch
 
 ---
 
 ### Top External Senders & Partners
 
-**Conference/Events Management (Pending from Jul 10 interactions)**
+**Conference/Events Management (Continuing Activity)**
 
-**Adnan Hiroli / Uncrewed Tech Expo**
-- **Status:** DroneX 2026 negotiation active (last contact Jul 10); no follow-up in new batch
+**STATION Austin Community Team** (events@stationaustin.org)
+- **Status:** New correspondent; venue/event notifications; sent to media@blackswifttech.com (Jul 13)
+- **Signal:** STATION Austin weekly events calendar (Jul 13-17) suggests potential venue partnership, demo space, or event monitoring activity
 
-**Benjamin Tay / MDPI**
-- **Status:** Agricultural Sciences conference showcase opportunity (Jul 11 invite); no follow-up in new batch
+**Rocky Mountain Advanced Manufacturing Expo (RMAME)**
+- **Status:** New event notification (Sep 18, 2026); forwarded to info@blackswifttech.com (Jul 12)
+- **Signal:** BST considering participation or monitoring advanced manufacturing conference; likely tied to S2 platform manufacturing/production scaling
 
-**RacePow / Battery Solutions**
-- **Status:** S2 platform battery specs submitted Jul 10; no follow-up in new batch
+**Agritecture Weekly** (victoria@agritecture.com)
+- **Status:** New correspondent; agricultural event/CEA calendar (Jul 12, 21:58:35)
+- **Signal:** Global Controlled Environment Agriculture (CEA) events promotion; aligns with potential agricultural/climate monitoring applications for aeropods
 
 ---
 
 ### Newsletter & Automated Sources (High Volume Continued)
 
-**Dominant sources in new batch (Jul 11-12):**
-- **The New York Times — 7 messages** (Breaking News: Senator Lindsey Graham death, Iran/Strait of Hormuz, U.K. lawmaker killing, Air Force One antimissile capabilities, Editor Picks: documentaries, Morning Brief)
-  - **Note:** Air Force One antimissile story marked UNREAD; military/defense content still prioritized
-- **LinkedIn — 3 messages** (Texas Division of Emergency Management post share, Chad Vorthmann connection suggestion, Victoria Ayer Legal Counsel network notification)
-- **Intuit Mailchimp — 1 message** ("You sent an email—what's next?") 
-  - **Signal:** Paige or BST recently sent a Mailchimp campaign; suggests email marketing campaign execution underway
-- **Target — 1 message** (college student discount promo; marked IMPORTANT — retail)
-- **Mitchell Institute / Air Force Association — 1 message** (Blended Wing Body aerospace article; marked IMPORTANT)
-- **The Athletic Pulse — 1 message** (MLB Draft story; marked IMPORTANT — unusual sports content)
-- **Inside Climate News — 1 message** (Invasive fish/salmon story; environmental/climate intelligence)
-- **Google AdSense — 1 message** (Account activation reminder)
-- **Staples — 1 message** (Printer upgrade promo)
-- **Syed Balkhi / WPBeginner — 1 message** (Email list growth coaching)
-- **Shopify — 1 message** (E-commerce business startup promo)
+**Dominant sources in new batch (Jul 12-13):**
+- **The New York Times — 8 messages** (Sam Neill actor death, McConnell hospitalization [duplicate], Lindsey Graham death cause, Graham ballot replacement, Marco Rubio/Venezuela geopolitics, The Morning: Cold plunging)
+  - **Volume note:** NYT breaking news frequency increasing; political/security intelligence continues high priority
+- **Target — 2 messages** (College shopping discount, Weekly Ad promo; one marked IMPORTANT)
+- **Google AdSense — 2 messages** (Account activation reminders; pub-8254650621938337; marked as "so close" to activation)
+  - **Signal:** AdSense account setup in progress; indicates website monetization or ad-serving infrastructure testing
+- **The New York Times Editor Picks — 2 messages** (Editorial picks curated content)
+- **LinkedIn — 1 message** (Roger Edwards commenting on Lauren Pounds post; network activity notification)
+- **Inside Climate News — 1 message** (Subscription confirmation/reminder; marked IMPORTANT)
+- **Elementor — 1 message** (Website builder pro tips; email marketing/web design)
+- **Staples — 1 message** (Computer hardware deal promo; $249.99 pricing point)
+- **The Athletic Pulse — 1 message** (World Cup semifinals coverage; marked IMPORTANT — sports content)
+- **The New York Times Morning Brief — 1 message** ("The Morning: Cold plunging"; marked IMPORTANT)
 
 ---
 
@@ -65,43 +67,51 @@
 ### Active Projects (Confirmed & Maintained)
 
 1. **Black Swift S2 Platform** — Battery vendor (RacePow) proposal outstanding from Jul 10; 470Wh/kg Solid State Lipo cells for endurance optimization
-2. **Conference Participation (Multiple):**
+2. **Conference Participation (Expanded):**
    - **DroneX 2026** — Uncrewed Tech Expo (active negotiation as of Jul 10)
    - **2026 International Conference on Agricultural Sciences** — Showcase opportunity (invite received Jul 11)
    - **AGU 2026** — Inferred from previous patterns
+   - **Rocky Mountain Advanced Manufacturing Expo (RMAME)** — Sep 18, 2026; NEW event under consideration (forwarded to info@blackswifttech.com)
+   - **STATION Austin venue** — Weekly events; potential venue for demos or community engagement
 
-### Intelligence & Industry Monitoring (Continued Pattern)
+### Intelligence & Industry Monitoring (Expanded Pattern)
 
-**Defense/Aerospace Focus:**
-- Air Force One antimissile capabilities (marked UNREAD)
-- Blended Wing Body aircraft design (Mitchell Institute; marked IMPORTANT)
-- Military/defense emerging tech priorities visible across NYT Breaking News selection
+**Defense/Geopolitics Focus (Intensified):**
+- McConnell hospitalization (political leadership continuity)
+- Lindsey Graham death and succession (political disruption)
+- Marco Rubio/Venezuela geopolitics (Latin America policy/intelligence)
+- Continuing high-velocity breaking news consumption on U.S. political/security matters
 
-**Climate & Environmental (Secondary Pattern):**
-- Inside Climate News subscription active; invasive species/climate impact monitoring
-- Suggests possible environmental monitoring or atmospheric application interest for aeropods
+**Agriculture & Climate Technology (NEW):**
+- **Agritecture Weekly** (Jul 12) — Global CEA events calendar; indicates active interest in controlled environment agriculture sector
+- **Inside Climate News subscription** (renewal notification marked IMPORTANT) — confirms sustained climate/environmental intelligence gathering
+- **Signal:** Potential pivot or expansion toward agricultural applications; aeropod atmospheric monitoring could support precision agriculture, crop yield optimization, or climate resilience projects
 
-**Tech Infrastructure (Emerging):**
-- Email marketing campaign execution (Mailchimp send-confirmation; Paige or BST team recently deployed campaign)
-- Google AdSense account activation attempt (unclear purpose — possibly website monetization exploration or test)
-- WPBeginner email list growth tactics (email/web infrastructure optimization)
+**Tech Infrastructure (Continuing Expansion):**
+- **Google AdSense** (two activation reminders) — account pub-8254650621938337 in active setup
+- **Elementor** (website builder) — suggests web properties or landing pages in development
+- **Signal:** Building digital/web presence; likely for product marketing, lead generation, or information architecture
 
 ---
 
 ## Communication Patterns
 
 ### Time Patterns
-- **Jul 11-12 batch:** Concentrated on weekend (Sat-Sun), indicating:
-  - Paige continues checking email on weekends
-  - No work correspondence over weekend (all automated)
-  - Newsletter consumption during off-hours
+- **Jul 12-13 batch:** Concentrated Sunday-early Monday (Jul 12 17:55 through Jul 13 06:17 UTC)
+- **Pattern confirmation:** All work-free; weekend/early morning newsletter consumption continues
+- **No indication of office hours work correspondence** — consistent with Mon-Fri work collaboration, weekend automation/intelligence consumption
 
 ### Mailing Lists & Group Participation
-- **Texas Division of Emergency Management** — LinkedIn activity suggests Paige follows this organization (shared post notification Jul 12)
-- **Mitchell Institute / Air Force Association** — Active subscriber to aerospace/defense content
+- **Texas Division of Emergency Management** — LinkedIn activity (previous batch)
+- **Mitchell Institute / Air Force Association** — Aerospace/defense content
+- **Agritecture Weekly** — NEW; global CEA event network
+- **STATION Austin** — Community venue events (forwarded to media@blackswifttech.com)
+- **The New York Times breaking news & editor picks** — Multiple subscription tiers active (breaking news, editor picks, morning brief, direct)
 
 ### Email Marketing Activity
-- **Mailchimp confirmation (Jul 11, 15:26:24)** — Suggests recent email campaign sent by Paige or BST team; implies email marketing infrastructure is in active use (ties to earlier MailerLite API notification)
+- **Mailchimp confirmation (Jul 11, previous batch)** — BST email campaign infrastructure active
+- **Elementor tips (Jul 12)** — Website/page builder subscription active; suggests ongoing web property development
+- **Google AdSense activation** — Monetization infrastructure being deployed (account pub-8254650621938337)
 
 ---
 
@@ -109,8 +119,9 @@
 
 ### Internal Collaboration Tier
 1. **Meredith Needham** — Operations/admin/events coordinator (primary internal contact)
-2. **Beck Cotter** — Demo/product resource planning (emerging collaborator)
-3. **Jack Elston** — Media/intelligence distribution lead
+2. **Jack Elston** — Media/intelligence distribution lead (STATION Austin events forwarded to his media@ inbox)
+3. **Beck Cotter** — Demo/product resource planning (emerging collaborator)
+4. **info@blackswifttech.com** — General BST inbox; RMAME event notification forwarded here (indicates company-wide conference consideration)
 
 ### External Priority Partners (by activity)
 
@@ -119,27 +130,5 @@
 - **RacePow Battery Solutions** — Component supplier engagement for S2 platform
 - **MDPI (Benjamin Tay)** — Conference showcase opportunity
 
-**Institutional Intelligence Sources (by frequency & marked importance):**
-- The New York Times (breaking news on defense/security)
-- Mitchell Institute / Air Force Association (military aerospace priority)
-- Google (ongoing services partnership)
-- LinkedIn (network intelligence & recruitment signals)
-
----
-
-## Notable Observations
-
-1. **Weekend Email Patterns:** Paige continues active email consumption on weekends (Sat-Sun Jul 11-12); no indication of reduced weekend activity despite high daily volume during work week
-
-2. **Email Marketing Infrastructure Expansion:** Mailchimp send-confirmation (Jul 11) indicates BST is executing email campaigns; combined with earlier MailerLite API notification (Jul 10), suggests **building dual-channel email marketing/automation capability** — likely for customer outreach, event promotion, or product announcements
-
-3. **Unusual Consumer Signups:** Multiple B2C promotions (Target college discount, Shopify e-commerce startup, Google AdSense, WPBeginner) suggest either:
-   - Paige exploring personal side projects
-   - Testing platforms for BST's own marketing/sales infrastructure
-   - Legacy subscriptions not cleaned up from prior role(s)
-
-4. **LinkedIn Network Intelligence:** Victoria Ayer (Legal Counsel) identified as "popular in your network" (Jul 11) — signal that Legal/Compliance function is visible in Paige's professional network; may indicate corporate governance/contract review work underway
-
-5. **Zero Work Correspondence in Weekend Batch:** Unlike Jul 10 batch (8 direct human emails), Jul 11-12 weekend shows **complete absence of internal/external work collaboration** — suggests work correspondence concentrated Mon-Fri, newsletters fill weekend inbox
-
-6. **Defense Sector Intelligence Curated:** Air Force One antimissile story, Blended Wing Body aircraft, Iran/Strait of Hormuz geopolitical intel all marked UNREAD or IMPORTANT —
+**Emerging Partners (NEW):**
+- **STATION Austin (events@stationaustin.org)** — Venue/

@@ -2,4 +2,4 @@
 
 Only 1 emails found in scanned period.
 
-- Fri, 10 Jul 2026 09:06:06 +0000: DAILY NEWS (from: UAS VISION <russ@uasvision.com>)
+- Sun, 12 Jul 2026 14:01:37 -0500: This Week at STATION Austin 🚀 7/13 - 7/17 (from: SATX Community Team <events@stationaustin.org>)
