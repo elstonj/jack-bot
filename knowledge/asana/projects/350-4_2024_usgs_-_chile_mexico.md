@@ -78,4 +78,4 @@ Project paused pending Fall 2026 deployment timeline confirmation. Batteries in 
   - **Murray State thermal testing**: FLIR stoppage resolved (July 6, 2026)
 
 - **Products/Services**: MHP, Survey Services, Aircraft Rental (AV3)
-- **
+- **Timeline

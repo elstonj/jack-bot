@@ -1,7 +1,8 @@
 # Ethan Domagala — Email Patterns
 
-Only 3 emails found in scanned period.
+Only 4 emails found in scanned period.
 
-- Fri, 10 Jul 2026 12:08:37 -0700: You’ve been added to the shared drive Operations:  Business (from: "Meredith Needham (via Google Drive) " <drive-shares-noreply@google.com>)
-- Fri, 10 Jul 2026 15:57:14 +0000 (UTC): ✈️ Your Next FPV Adventure Starts Here (from: GetFPV <chloe@getfpv.com>)
-- Fri, 10 Jul 2026 09:01:12 -0400: Quote expires soon - order now to guarantee price (from: Xometry <hello@mkt1.xometry.com>)
+- Mon, 13 Jul 2026 22:06:03 +0000: 👉 You have unread notifications (from: Asana <no-reply@asana.com>)
+- Mon, 13 Jul 2026 19:17:18 +0000: Updated invitation: Murphy's Pond Payloads @ Wed Jul 15, 2026 10am - 11am (MDT) (Ethan Domagala) (from: Daniel Prendergast <daniel.prendergast@blackswifttech.com>)
+- Mon, 13 Jul 2026 19:17:06 +0000: Invitation: (No Subject) @ Wed Jul 15, 2026 10am - 11am (MDT) (Ethan Domagala) (from: Daniel Prendergast <daniel.prendergast@blackswifttech.com>)
+- Mon, 13 Jul 2026 14:08:06 +0000: Monday - tasks assigned: 1 - blackswifttech.com (from: Asana <no-reply@asana.com>)

@@ -26,10 +26,10 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 24385.0,
+        "amount": 24510.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-13"
+        "last_updated": "2026-07-14"
       },
       "purchases": {
         "amount": 0.0,
@@ -43,13 +43,13 @@
         "confidence": "exact",
         "last_updated": "2026-07-01"
       },
-      "total": 24884.0,
+      "total": 25009.0,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 61978.94,
+    "remaining": 61853.94,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-13T08:50:55Z"
+    "last_reconciled": "2026-07-14T09:00:42Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -65,10 +65,16 @@
       "role": null,
       "allocation_pct": null,
       "hours_last_30d": null
+    },
+    {
+      "name": "Spencer Hoehl",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
     }
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-07-13T08:50:55Z",
+  "last_full_rebuild": "2026-07-14T09:00:42Z",
   "last_incremental_update": null
 }

@@ -1,10 +1,10 @@
 # Government — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $4,476,635.28
-- **Total Expenses (Bills + Purchases):** $1,336,089.73
+- **Total Invoiced (Revenue):** $4,490,094.28
+- **Total Expenses (Bills + Purchases):** $1,346,089.73
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,140,545.55 (invoiced minus expenses)
+- **Net Position:** $3,144,004.55 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -12,8 +12,8 @@
 ## Revenue (Invoices & Payments)
 
 ### Summary
-- **Total Invoiced:** $4,476,635.28
-- **Total Collected (Outstanding Balance):** $3,209,324.82 remaining (invoices with open balances)
+- **Total Invoiced:** $4,490,094.28
+- **Total Collected (Outstanding Balance):** $3,223,783.82 remaining (invoices with open balances)
 - **Number of Invoices:** 76 active invoices
 
 ### Major Revenue Streams by Project
@@ -23,7 +23,7 @@
 | (400-5) SMM Phase II 22.4D | $1,699,725.00 | CLIN work (004-008): Algorithm dev, field testing, refinement; Soil Moisture Mapping |
 | [300-3] 2026 IDIQ | $720,000.00 | 6 invoices (Invoices 2-6: #1737–#1741), CLIN 1001 modification P26002 + Operational Testing & Support (#1757) |
 | [301-3] S0 Hurricane Phase II 2025 | $844,449.61 | Progress payments, platform deliveries, training & operations |
-| [550-1] Navy SBIR Magnetometer | $662,213.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750: $14,459.00) |
+| [550-1] Navy SBIR Magnetometer | $676,672.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750: $14,459.00) |
 | [550-2] Navy STTR Hazardous Weather | $251,326.00 | Kick-off, progress, final reports & TABA; Option period progress (#1767) |
 | [200-14] Autonomy | $156,211.00 | CLIN 0001-0005, initial through final invoicing |
 | [200-11] NASA Persistence Demo | $74,428.00 | Interim & final demonstration reports |
@@ -76,8 +76,8 @@
 
 ---
 
-### **Materials & Supplies: $475,608.31**
-**Number of transactions:** 224  
+### **Materials & Supplies: $485,608.31**
+**Number of transactions:** 225  
 
 **Key vendors & items:**
 
@@ -91,6 +91,11 @@
   - Prior balance: $20,190.06
   - **Purchase #69825** (2026-07-09): $1,387.60 [DC-Direct Material Purchases] — JAWSTEC components
   - **Updated JAWSTEC total: $21,577.66**
+
+- **QuSpin, Inc. — Gen 2.0 QTFM Sensor:**
+  - **Bill #3419** (2026-07-13): **$10,000.00** [DC-Direct Material Purchases] — Gen 2.0 QTFM Sensor
+  - **Project:** [550-1] Navy SBIR Magnetometer
+  - *Note: High-value precision sensor component for magnetometer development*
 
 - **Amprius battery systems:** $28,637.13 (wire transfers, 01/06/26) + $399.00 (2026-04-29) + $399.00 (2026-05-01) + $399.00 (2026-05-14)
   - **Total Amprius: $29,834.13**
@@ -119,7 +124,7 @@
 
 - **Maxmoral 3PCS DC-099 DC Power Socket** (2026-07-09): $6.99 [DC-Direct Material Purchases]
 
-**Recent transactions (2026-06-24 to 2026-07-09):**
+**Recent transactions (2026-06-24 to 2026-07-13):**
 - **Purchase #0624JELSTON** (2026-06-24): 
   - $2.58 [DC-Direct Material Purchases] — By Light Supplies
   - $20.93 [DC-Direct Material Purchases] — Navy Magnetometer
@@ -143,9 +148,4 @@
   - $26.00 — Wire transfer (no Asana request; Alex purchase via email)
   - *Note: Initial wire transfer through Wells Fargo was returned*
 
-- **Purchase #03236** (2026-07-02): **$122.60** [DC-Direct Material Purchases] — IDIQ GPS_ground_plane.dxf
-
-- **Purchase** (2026-07-06): **$57.83** [DC-Direct Material Purchases] — Medium box foam corners
-  - *Memo: No Asana request - Josh Fromm made purchase in person*
-
-- **Purchase** (2026-07-07): **$1,446.53
+- **Purchase #03236** (2026-07

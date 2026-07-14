@@ -1,37 +1,40 @@
 # Dan Prendergast — Time Tracking
 
 ## Summary
-- Total hours tracked: **1,596.5 hours** (+5.8h)
-- Primary projects: SBIR Volcano CCRPP (72.1%), SBIR SMM DoD Phase II (6.8%), SBIR Hurricane Phase II (4.7%)
-- Time period: Consistent daily tracking with 6–9 hour entries; latest batch shows return to mixed allocation
-- **Pattern**: Rebalancing toward internal work; Volcano CCRPP remains inactive; EMASS Chip Integration re-engaged
+- Total hours tracked: **1,604.5 hours** (+8.0h)
+- Primary projects: SBIR Volcano CCRPP (71.7%), SBIR SMM DoD Phase II (6.8%), SBIR Hurricane Phase II (4.7%)
+- Time period: Consistent daily tracking with 6–9 hour entries; latest batch shows diversified allocation across five projects
+- **Pattern**: Rebalancing toward proposal and overhead work; internal projects re-engaged; Volcano CCRPP remains inactive
 
 ## Project Breakdown
-- **[200-7] SBIR - Volcano CCRPP**: 1,150.5 hours (72.1%)
+- **[200-7] SBIR - Volcano CCRPP**: 1,150.5 hours (71.7%)
 - **[400-5] SBIR - SMM DoD 22.4D Phase II** (Department of the Air Force): 109.2 hours (6.8%)
 - **[301-2] SBIR - Hurricane Phase II+** (NOAA: Joe Cione): 74.8 hours (4.7%)
-- **[301-3] S0 Hurricane Phase II - 2025** (NOAA: Joe Cione): 1.5 hours (0.1%)
-- **[001-13] General Operations** (Overhead): 31.1 hours (1.9%) ⬆️ *+3.2h; sustained overhead allocation*
-- **[044-1] EMASS Chip Integration**: 27.2 hours (1.7%) ⬆️ *+2.5h; re-entry after batch absence*
-- **[001-13] Proposals** (IRAD): 96.6 hours (6.1%) ➡️ *no change; stable baseline*
+- **[001-13] Proposals** (IRAD): 99.1 hours (6.2%) ⬆️ *+2.5h; uptick in proposal development*
+- **[001-13] General Operations** (Overhead): 33.3 hours (2.1%) ⬆️ *+2.2h; sustained elevated overhead*
+- **[044-1] EMASS Chip Integration**: 28.2 hours (1.8%) ⬆️ *+1.0h; continued engagement*
+- **[350-4] 2024 USGS - Chile (Mexico)** (USGS): 5.5 hours (0.3%) ⬆️ *+2.2h; reactivated after minimal prior tracking*
+- **[018-1] Murray State CH4 Monitoring** (Murray State): 0.5 hours (0.03%) ✨ *new; minimal entry*
 - **[001-13] BD Pipeline** (Overhead): 27.5 hours (1.7%)
-- **[001-07] S3 IRAD** (IRAD): 1.5 hours (0.1%)
 - **[001-20] PTO**: 8.0 hours (0.5%)
 - **[001-12] Customer Support** (IRAD): 10.5 hours (0.7%)
 - **[001-12] BST Web Applications 2.0 IRAD** (IRAD): 21.0 hours (1.3%)
-- **[350-4] 2024 USGS - Chile (Mexico)** (USGS): 3.3 hours (0.2%)
+- **[301-3] S0 Hurricane Phase II - 2025** (NOAA: Joe Cione): 1.5 hours (0.1%)
+- **[001-07] S3 IRAD** (IRAD): 1.5 hours (0.1%)
 - **Other projects**: 16.5 hours (1.0%)
 
 ## Recent Activity
-- **Mixed allocation returned**: 5.8 hours across General Operations (3.2h) and EMASS Chip Integration (2.5h)
-- **EMASS re-engagement**: 2.5 hours logged with tag `16782261`; indicates active work resumption after consecutive batch absence
-- **General Operations continued**: 3.2 hours maintains overhead focus established in prior batches
-- **Minimal descriptions**: EMASS entry tagged only; General Operations entry blank (consistent with organizational practice)
+- **Diversified allocation**: 8.0 hours distributed across five projects—highest fragmentation in recent batches
+- **USGS Chile reactivation**: 2.2 hours logged after extended gap; indicates renewed client engagement or phase restart
+- **Proposal work accelerating**: 2.5 hours continues steady upward trend in IRAD proposal development
+- **New client touchpoint**: Murray State CH4 Monitoring (0.5h)—minimal but signals potential new opportunity exploration
+- **Consistent overhead baseline**: 2.2 hours General Operations maintains elevated internal allocation pattern
+- **Minimal descriptions**: All five entries untagged and undescribed; consistent sparse documentation
 
 ## Patterns
-- **Cyclical internal workload**: EMASS Chip Integration shows reactivation after 1-batch pause; suggests periodic task cycles rather than abandoned project
-- **Overhead baseline elevated**: General Operations now stable at 31.1 total hours across recent batches; consistent 1.5–3.2h per allocation window
-- **Extended primary project hiatus sustained**: Volcano CCRPP, SMM DoD, Hurricane projects absent for four consecutive batches; duration suggests extended phase break or resource reallocation
-- **Secondary R&D portfolio re-emerging**: EMASS return signals potential shift from overhead-only phase back toward mixed technical/operational workload
-- **Batch volatility persists**: Hour counts range 1.5–5.8h across last three batches; atypical pattern for sustained full-time allocation
-- **Documentation sparse but consistent**: Tags used selectively (EMASS); overhead entries untagged; no descriptive narrative
+- **Portfolio widening**: Five distinct projects in single batch; marks shift from concentrated overhead focus (prior batches) toward broader client/internal engagement
+- **Client project re-engagement trend**: USGS Chile and Murray State entries suggest increased BD or proposal-stage exploration
+- **Proposal/overhead stabilization**: Combined Proposals + General Operations now ~8.3h per batch (from prior ~5.4h); sustained elevated internal allocation
+- **EMASS sustained but modest**: 0.5h entry maintains engagement but at reduced pace vs. prior batch (2.5h); suggests intermittent task cycles
+- **Extended primary project hiatus continues**: Volcano CCRPP, SMM DoD, Hurricane projects absent for five consecutive batches; duration and magnitude suggest extended resource reallocation or client pausing
+- **Batch predictability weakened**: Hour allocation now spans two to five projects per batch; prior pattern showed concentration; indicates operational flexibility or reactive resource scheduling

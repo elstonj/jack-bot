@@ -4,12 +4,13 @@
 - **Client/customer:** Murray State University / Dr. Bassil El Masri (belmasri@murraystate.edu, 270-809-3110)
 - **Dollar value:** $86,862.94 total committed funding to Black Swift Technologies (includes Flight #4 addition of ~$24.5K, per SOW modification completed 2026-07-09).
 - **Timeline:** Funding expires 2026-12-31. Flights #1 & #2 completed (Nov & Dec 2025). Flight #3 completed 2026-07-08. Flight #4 planned late August/early September 2026. Travel finalization due 2026-08-06.
-- **Status:** **Active.** Flight #3 successfully executed. Flight #4 formally added to SOW (completed 2026-07-09) and scheduled for late August/early September 2026. Immediate priority: finalize Flight #4 dates and travel logistics (due 2026-08-06).
-- **Team members involved:** Beck Cotter (owner/project lead), Jack Elston (lead technical/flight coordination), Joshua Fromm (payload engineering), Maciej Stachura (payload configuration), Nate Straus (software), Meredith O'Hara Needham (communications), Daniel Prendergast (logistics), Ethan Domagala (travel/logistics), Spencer (travel/logistics).
+- **Status:** **Active.** Flight #3 successfully executed. Flight #4 formally added to SOW (completed 2026-07-09) and scheduled for late August/early September 2026. Immediate priority: finalize Flight #4 dates and travel logistics (due 2026-08-06); payload checklists need completion before deployment.
+- **Team members involved:** Beck Cotter (owner/project lead), Jack Elston (lead technical/flight coordination), Joshua Fromm (payload engineering), Maciej Stachura (payload configuration), Nate Straus (software), Meredith O'Hara Needham (communications), Daniel Prendergast (logistics), Ethan Domagala (travel/logistics), Spencer Hoehl (travel/logistics, payload checklists).
 - **Risk signals:**
   - **Travel finalization deadline 2026-08-06** — Critical path item. Dates and logistics for Flight #4 field deployment must be locked in within ~2 weeks (targeting August 4–6 window).
+  - **Payload checklists (Spencer)** — No due date assigned; needs completion before Flight #4 execution. Should align with travel finalization timeline.
   - **Funding deadline:** All work must complete by 2026-12-31 (4.5 months out).
-  - **Tight execution window:** Flight #4 deployment must occur late August/early September to stay within funding year; concurrent travel coordination required.
+  - **Tight execution window:** Flight #4 deployment must occur late August/early September to stay within funding year; concurrent travel coordination and payload preparation required.
 
 ## Key Deliverables & Milestones
 - **Flight #1:** Completed November 11, 2025
@@ -19,19 +20,22 @@
 - **FLIR Triggering Issue Resolution:** Completed 2026-07-08 ✓
 - **Camera Overlap Configuration (FLIR + A5100 to 80%):** Completed 2026-07-08 ✓
 - **SOW Modification (Add Flight #4):** Completed 2026-07-09 ✓ (~$24.5K addition; same billing level as Flights 1–3)
+- **Payload Checklists (preflight/postflight):** **Open, no due date assigned** (Spencer Hoehl) — should be completed before Flight #4 execution
 - **Flight #4 Finalize Dates & Travel:** **Open, due 2026-08-06** (Ethan Domagala, Spencer; targeting August 4–6 field window)
 - **Flight #4 Execution:** Planned late August/early September 2026
 
 ## Task Summary
-- **Total tasks:** 1 open, 0 completed (in current view)
+- **Total tasks:** 2 open, 0 completed (in current view)
 - **Tasks by assignee:**
-  - **Ethan Domagala:** 1 open task (finalize dates/travel, due 2026-08-06)
-  - **Spencer:** 1 open task (finalize dates/travel, due 2026-08-06, shared with Ethan)
-- **Notable pattern:** Single critical-path task dominates active workload; most heavy lifting (Flights 1–3, payload engineering, SOW negotiation) completed. Project now bottlenecked on logistics coordination.
+  - **Spencer Hoehl:** 2 open tasks (payload checklists, no due date; finalize dates/travel, due 2026-08-06)
+  - **Ethan Domagala:** 1 open task (finalize dates/travel, due 2026-08-06, shared with Spencer)
+- **Notable pattern:** Single critical-path task dominates active workload (travel finalization); payload checklists task lacks deadline but is prerequisite for deployment. Most heavy lifting (Flights 1–3, payload engineering, SOW negotiation) completed. Project now bottlenecked on logistics coordination and pre-deployment checklist documentation.
 
 ## Recent Activity
 - **2026-07-09:** Beck Cotter completed SOW modification to add Flight #4 deployment. Flight #4 now formally funded at ~$24.5K (same rate as Flights 1–3), targeting late August/early September 2026 execution.
-- **Currently open (critical):** Ethan Domagala and Spencer tasked with finalizing Flight #4 dates and travel logistics. Due 2026-08-06 with August 4–6 field window in view. This is the immediate blocking item for project continuation.
+- **Currently open (critical):** 
+  - Ethan Domagala and Spencer Hoehl tasked with finalizing Flight #4 dates and travel logistics. Due 2026-08-06 with August 4–6 field window in view. This is the immediate blocking item for project continuation.
+  - Spencer Hoehl tasked with writing preflight/postflight checklists for Murphy's Pond deployment payloads. No due date assigned; should be prioritized to align with travel finalization and Flight #4 execution timeline.
 
 ## Notes & Context
 - **Research focus:** Methane emissions from wetlands and bottomland hardwood forests; using remote sensing to upscale site measurements to larger geographic areas.
@@ -44,4 +48,6 @@
 - **Project initiation:** Dr. Masri reached out May 2024; initial estimates sent for budgeting; project confirmed April 2025 for vertical take-off platform deployment end of July/August 2025 (Flight #1 executed November 2025).
 - **Technical status:** FLIR triggering and camera overlap issues resolved. S2 equipment rented. Payload engineering completed. Flight #4 now formally funded and scheduled.
 - **Resource contention:** Project competes with INSTAAR x2 and Ottawa demo projects for team allocation.
-- **Next immediate action:** Lock in Flight #4 dates and travel logistics by 2026-08-06 (Ethan + Spencer); execute Flight #4 late August/early September; complete all deliverables by 2026-12-31 funding deadline.
+- **Next immediate action:** 
+  1. Assign due date to payload checklists task (Spencer) — recommend 2026-08-04 to precede Flight #4 execution.
+  2. Lock in Flight #4 dates and travel logistics by 2026-08-06 (Ethan + Spencer); execute Flight #4 late August/early September; complete all deliverables by 2026-12-31 funding deadline.
