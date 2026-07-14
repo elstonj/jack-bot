@@ -4,13 +4,13 @@
 - Client: Overhead
 - Active/inactive status: Active
 - Billable status: No (overhead/internal operations)
-- Total hours tracked: 1,389.9 hours (1,381.9 + 8.0)
+- Total hours tracked: 1,417.5 hours (1,389.9 + 27.6)
 
 ## Team Allocation
-- Meredith Needham: 894.8 hours (64.3% of tracked time)
-- Jack Elston: 245.5 hours (17.6% of tracked time)
-- Beck Cotter: 212.8 hours (15.3% of tracked time)
-- Dan: 29.1 hours (2.1% of tracked time)
+- Meredith Needham: 903.1 hours (63.7% of tracked time)
+- Jack Elston: 247.0 hours (17.4% of tracked time)
+- Beck Cotter: 228.8 hours (16.1% of tracked time)
+- Dan: 31.3 hours (2.2% of tracked time)
 - Stachura: 21.1 hours (1.5% of tracked time)
 - Ethan Domagala: 15.2 hours (1.1% of tracked time)
 - Spencer Hoehl: 1.3 hours (0.1% of tracked time)
@@ -18,29 +18,37 @@
 
 ## Activity Timeline
 
-**Current batch (8.0 hours)**:
-- **Beck Cotter** (8.0h): *(no description provided)* ❌
+**Current batch (27.6 hours)**:
+- **Meredith Needham** (8.3h): Operations/Admin ✅
+- **Beck Cotter** (8.0h): *(no description)* ❌
+- **Jack Elston** (0.5h): Upcoming Deployments and Potential Sales ✅
+- **Dan** (2.2h): *(no description)* ❌
+- **Jack Elston** (0.5h): Quick Chat ✅
+- **Beck Cotter** (8.0h): *(no description)* ❌
 
 **Recent patterns**:
-- Beck Cotter: Continued undocumented submissions; **seventeenth consecutive batch with zero descriptions**
-- Jack Elston: Last documented entry (KS/BST Tech Sync 2)
-- Dan: Last documented as undocumented (3.2h)
-- Meredith Needham: Remains inactive
-- Stachura: Remains inactive
+- Beck Cotter: Continued non-compliance; **eighteenth and nineteenth consecutive undocumented submissions** (16.0h this batch)
+- Dan: Second undocumented submission (2.2h this batch)
+- Meredith Needham: Re-engaged with documented Operations/Admin work
+- Jack Elston: Documented entries (Upcoming Deployments, Quick Chat)
 
 ## Insights
 
 - **Documentation compliance status**:
-  - Current batch: **0% documented** (0 of 8.0 hours documented)
-  - Cumulative undocumented hours: **227.7 hours out of 1,389.9 tracked** (16.4% overall failure rate)
-  - **CRITICAL PATTERN ESCALATION**: Beck Cotter non-compliance accelerating; 17 consecutive batches, cumulative 213.8+ undocumented hours
+  - Current batch: **59.4% documented** (16.4 of 27.6 hours documented)
+  - Cumulative undocumented hours: **245.9 hours out of 1,417.5 tracked** (17.4% overall failure rate)
+  - **ESCALATION CONTINUES**: Beck Cotter non-compliance now at 18–19 consecutive undocumented batches; cumulative 229.8+ undocumented hours
+  - **NEW CONCERN**: Dan initiated non-compliance pattern (2.2h undocumented)
 
 - **Work composition**:
-  - Undocumented: Beck Cotter (8.0h) requires entry description
+  - Operations/Admin: Meredith Needham (8.3h)
+  - Upcoming Deployments/Sales: Jack Elston (0.5h)
+  - Quick Chat: Jack Elston (0.5h)
+  - Undocumented: Beck Cotter (16.0h) + Dan (2.2h) require entry descriptions
 
-- **⚠️ CRITICAL ESCALATION REQUIRED IMMEDIATELY**:
-  - **Beck Cotter non-compliance CRITICAL AND ACCELERATING**: Seventeen consecutive batches with zero descriptions; 213.8+ cumulative undocumented hours
-  - **Formal corrective action enforcement is NOW OVERDUE**
-  - Mandatory retroactive descriptions required for all 213.8+ undocumented Beck Cotter hours
+- **🚨 CRITICAL ESCALATION — IMMEDIATE ACTION REQUIRED**:
+  - **Beck Cotter non-compliance CRITICAL**: Eighteen–nineteen consecutive undocumented batches; 229.8+ cumulative undocumented hours
+  - **NEW RISK**: Dan entering non-compliance pattern; address immediately before escalation
+  - **Mandatory retroactive descriptions required** for all Beck Cotter undocumented hours
+  - **Formal corrective action enforcement OVERDUE** — escalate to management immediately
   - **Do not accept further submissions without documented descriptions**
-  - Escalate to management for immediate intervention and accountability measures

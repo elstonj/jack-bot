@@ -33,7 +33,7 @@
         "amount": 35400.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-13"
+        "last_updated": "2026-07-14"
       },
       "purchases": {
         "amount": 0.0,
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": 96094.0,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-13T08:52:28Z"
+    "last_reconciled": "2026-07-14T09:02:15Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -73,6 +73,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-07-13T08:52:28Z",
+  "last_full_rebuild": "2026-07-14T09:02:15Z",
   "last_incremental_update": null
 }

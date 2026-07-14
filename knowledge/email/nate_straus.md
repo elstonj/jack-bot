@@ -1,51 +1,62 @@
 # Nate Straus — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 10 emails across two data pulls
-- **Date range:** 9–10 July 2026
-- **Volume pattern:** Low volume; appears to be a selective inbox or limited scan period
+- **Total messages scanned:** 21 emails across three data pulls
+- **Date range:** 9–14 July 2026
+- **Volume pattern:** Low to moderate; mix of automated notifications and active project correspondence; recent spike in urgent technical discussion (14 Jul)
 
 ## Key Correspondents
 
 ### Internal (Black Swift Technologies)
-- **Rippling** (no-reply@rippling.com) — 5 messages — HR/benefits platform, automated notifications
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 1 message — colleague/collaborator
-- **Meredith Needham** (via Google Drive share) — 1 message — shared drive access notification
+- **Jack Elston** (elstonj@blackswifttech.com) — 8 messages — active collaborator on MHP project; high-frequency back-and-forth on 14 Jul
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 1 message — colleague/collaborator on S3 delivery
+- **Meredith Needham** — 1 message (shared drive notification)
 
 ### External
-- **Al Coelho** (a.coelho@comcast.net) — 1 message — external contact
-- **Christopher E Hartman** (chartman@umes.edu) — 1 message — appears in CC/thread with Daniel Prendergast (academic affiliation: UMES)
-- **sales05@racepow.com** — 1 message — vendor/supplier inquiry
+- **Tanay Topac** (tanaytopac@stanford.edu) — 2 messages direct to Nate, plus 6 in Jack Elston thread — Stanford academic contact; critical involvement in MHP data alignment discussion
+- **Christopher E Hartman** (chartman@umes.edu) — 1 message — UMES academic affiliation (S3-related)
+- **Al Coelho** (a.coelho@comcast.net) — 1 message — BAS website update
+- **Chenyang Wu** (chenyangwu@stablesensmail.com) — 1 message — external vendor (StableSens); compact IMU product inquiry
+- **Rippling** (no-reply@rippling.com) — 5 messages — HR/benefits automated notifications
+- **UnitedHealthcare Notifications** — 1 message — health insurance statement
+
+### Inbound Vendor/Support Routing
+- **sales05@racepow.com** — 1 message (battery vendor)
+- **sales@blackswifttech.com** / **Chenyang Wu** — IMU sensor inquiry (routed to general sales)
 
 ## Topic Patterns
 
 ### Primary Themes
-1. **HR/Benefits Administration** — Multiple Rippling notifications about open enrollment and pending tasks (dominant pattern)
-2. **Product/Technical Delivery** — "S3 delivery and training" (subject from Daniel Prendergast thread)
-3. **Shared Drive Access** — Operations: Business shared drive onboarding
-4. **Battery/Energy Products** — External vendor inquiry regarding "470Wh/kg 120Ah/150Ah" solid-state Lipo battery for "Black Swift S2"
+1. **MHP Data Alignment** — Dominant new topic (8 messages, 14 Jul); urgent, multi-turn technical discussion between Nate, Jack Elston, and Stanford academic contact Tanay Topac; marked IMPORTANT across all threads
+2. **HR/Benefits Administration** — Rippling notifications and UnitedHealthcare statements (ongoing pattern from prior scan)
+3. **S3 Delivery and Training** — Daniel Prendergast collaboration (continuing from prior period)
+4. **Hardware Components/Sensors** — StableSens compact IMU review inquiry; battery specifications (RacePow)
+5. **BAS Website Update** — External communication from Al Coelho
 
 ### Notable External Topics
-- **BAS Website update** (from Al Coelho) — Website maintenance or content update
-- **RacePow vendor contact** — Unsolicited sales inquiry about battery specifications; routed to support@blackswifttech.com (not directly to Nate)
+- **Stanford Academic Partnership** — Tanay Topac (Stanford) deeply engaged in MHP data alignment; suggests research collaboration or technical validation work
+- **Sensor/IMU Products** — StableSens outreach regarding compact IMU for Black Swift Technologies
 
 ## Communication Patterns
 
-- **Automated notifications dominate:** Rippling HR platform generates majority of recent messages (5/10)
-- **Timing:** Messages span multiple time zones and hours; no clear daily concentration pattern visible
-- **Directionality:** Nate appears primarily as recipient; limited outbound correspondence in sample
-- **List participation:** Added to "Operations: Business" shared drive (suggests ops/business role or cross-functional involvement)
+- **Rapid escalation on MHP project:** 8 messages in <7.5 hours on 14 Jul (06:13–07:50 UTC); indicates real-time problem-solving with external academic partner
+- **Timezone coordination:** Messages span UTC and -0600 (PDT/MDT); suggests cross-timezone collaboration (BST likely Pacific, Stanford California-based, possible international component)
+- **Priority flagging:** All MHP thread messages marked IMPORTANT and UNREAD — indicates recent arrival and high urgency
+- **Directionality shift:** Nate is direct recipient on MHP discussion (vs. prior pattern as secondary recipient); elevated from prior low-visibility email footprint
+- **Automated notifications remain steady:** HR/insurance statements continue; lower priority than active projects
 
 ## Key Relationships
 
-- **Daniel Prendergast** — Internal collaborator on S3 delivery/training project
-- **Christopher E Hartman** (UMES) — External contact involved in S3-related discussion
-- **Meredith Needham** — Appears to manage shared business operations resources
+- **Jack Elston** — Primary internal collaborator on MHP data alignment project; intensive real-time technical discussion
+- **Tanay Topac** (Stanford) — External academic partner; direct involvement in critical MHP work; represents university research or validation partnership
+- **Daniel Prendergast** — Ongoing S3 delivery/training collaboration
+- **Christopher E Hartman** (UMES) — Academic connection, S3-related
 
 ## Notable Observations
 
-1. **HR onboarding in progress:** Concentrated Rippling notifications (4 on 9 Jul, 2 on 10 Jul) suggest Nate may be new to BST or recently re-enrolled in benefits
-2. **Product focus visible:** References to "Black Swift S2" (product line) and solid-state battery specifications indicate hardware/energy product involvement
-3. **Cross-functional access:** Newly added to Operations: Business shared drive suggests role spans technical (S3 delivery) and operational domains
-4. **Vendor inbound:** External battery supplier inquiry routed to general support, not directly to Nate — may indicate supplier outreach phase rather than active vendor relationship
-5. **Academic connection:** UMES affiliation (Christopher Hartman) in S3 training thread — possible university partnership or research collaboration
+1. **MHP project is live and urgent:** The concentrated 14 Jul thread with Tanay Topac and Jack Elston indicates active technical problem-solving; "data alignment" suggests validation, integration, or reconciliation work on a product or research initiative
+2. **Stanford partnership materialized:** Tanay Topac (tanaytopac@stanford.edu) is now actively engaged in core technical work, confirming earlier hypothesis of academic collaboration; timing and intensity suggest project is in critical phase
+3. **Nate elevated to direct project contact:** First appearance as direct recipient in urgent thread (vs. prior pattern as secondary/BCC); indicates hands-on technical role in MHP validation or delivery
+4. **Hardware product validation pipeline:** Incoming IMU and battery sensor inquiries (StableSens, RacePow) suggest Black Swift S2 or related platform is in component selection or integration phase
+5. **Onboarding momentum:** HR notifications from Rippling and UnitedHealthcare suggest Nate remains in early enrollment/onboarding phase (benefits activation likely in progress)
+6. **Role clarity emerging:** Pattern suggests technical delivery and external partnership management; likely hardware engineering, product operations, or technical program management function

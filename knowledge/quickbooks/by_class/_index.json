@@ -1,9 +1,9 @@
 {
   "period": {
-    "start": "2026-07-12",
-    "end": "2026-07-13"
+    "start": "2026-07-13",
+    "end": "2026-07-14"
   },
-  "scanned_at": "2026-07-13",
+  "scanned_at": "2026-07-14",
   "projects": [
     {
       "project_code": "300-3",
@@ -21,14 +21,15 @@
     {
       "project_code": "550-1",
       "revenue": 14459.0,
-      "expenses": 0.0,
+      "expenses": 10000.0,
       "invoice_count": 1,
-      "bill_count": 0,
+      "bill_count": 1,
       "purchase_count": 0,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "[550-1] Navy SBIR Magnetometer"
+        "[550-1] Navy SBIR Magnetometer",
+        "[550] United States Navy:[550-1] Navy SBIR Magnetometer"
       ]
     }
   ]
