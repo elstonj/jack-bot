@@ -1,6 +1,6 @@
 {
-  "asana_gid": "1205971100510799",
-  "asana_task_name": "[1313] ERAU 4 S0 VTOL",
+  "asana_gid": "1205318673933832",
+  "asana_task_name": "[1298] ERAU - S0 & S0 VTOL deployment ",
   "customer": "Embry-Riddle Aeronautical University",
   "customer_contact": "Kevin Adkins",
   "customer_email": "adkinsk@erau.edu",
@@ -13,45 +13,38 @@
     },
     {
       "description": "Samsung Galaxy Tab Active2",
-      "quantity": 1
+      "quantity": 2
     },
     {
       "description": "SwiftStation\u2122 Ground Station",
-      "quantity": 1
+      "quantity": 2
     },
     {
       "description": "S0 Case",
-      "quantity": 1
+      "quantity": 2
     }
   ],
   "payment_state": "paid",
-  "build_state": "in_qc",
-  "ship_state": "none",
+  "build_state": "complete",
+  "ship_state": "delivered",
   "estimate_date": null,
   "invoice_date": "2025-05-07",
   "invoice_amount": 21181.81,
   "invoice_number": "1667",
-  "paid_date": "2026-05-21",
+  "paid_date": "2025-05-07",
   "parts": [
     {
       "name": "S0 VTOL airframe",
       "ordered": true,
-      "received": false,
-      "vendor": "Black Swift Technologies",
+      "received": true,
+      "vendor": "BST",
       "order_date": null
     },
     {
-      "name": "Samsung Galaxy Tab Active2",
+      "name": "Flight controller",
       "ordered": true,
-      "received": false,
-      "vendor": "",
-      "order_date": null
-    },
-    {
-      "name": "SwiftStation\u2122 Ground Station",
-      "ordered": true,
-      "received": false,
-      "vendor": "",
+      "received": true,
+      "vendor": "BST",
       "order_date": null
     }
   ],
@@ -63,10 +56,9 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Two S0 VTOL units with ground station and tablet for ISARRA Flight Week (August/September 2026). Invoice #1667 ($21,181.81) paid 2026-05-21. Build in QC as of 2026-07-03. Jack Elston and Kevin Adkins confirmed August 2026 delivery target aligns with ISARRA planning (2026-05-21). Flight-testing ongoing to resolve tracking bug (2026-03-17). Units may ship to ISARRA site vs. direct to ERAU pending final coordination with Jack. Kept due to QBO invoice #1667 (paid); substantial recent email engagement confirms active pursuit.",
+  "notes": "Kept due to QBO invoice 1667 (paid 2025-05-07, $21,181.81) and legal disclosure documenting 2 S0 VTOL units ordered and paid in full by ERAU with expected delivery delays and pending settlement agreement. Despite Asana showing 'Closed' status with $0 closed value (relating to unfunded grant proposal), the actual hardware order is active and BST is obligated to deliver. Asana task notes mention grant proposal, but commercial hardware invoices are separate and current.",
   "missing_fields": [
-    "shipped_date",
-    "ship_state"
+    "receive_by"
   ],
   "last_evidence_date": "2026-07-13",
   "last_contact_date": "2026-05-21"

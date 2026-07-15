@@ -1,48 +1,53 @@
 # Slack Channels Overview
 
-Last scanned: 2026-07-14 02:14
+Last scanned: 2026-07-15 02:16
 
-Total channels scanned: 5
+Total channels scanned: 6
 
 ## Channels
 
-- **#general** -- 5 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 1 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#marketing** -- 2 messages -- [marketing.md](marketing.md)
-- **#operations** -- 3 messages -- [operations.md](operations.md)
-- **#sbir-volcano** -- 2 messages -- [sbir-volcano.md](sbir-volcano.md)
+- **#25_1-navy-sbir-magnetometer** -- 3 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#general** -- 2 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 5 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#s3** -- 5 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 18 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#swiftcore** -- 1 messages -- [swiftcore.md](swiftcore.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Strategic Slack Overview
+# Black Swift Technologies - Cross-Channel Strategic Overview
 
-## Cross-Channel Themes
+## Active Projects
+- **S0 Hurricane Reconnaissance**: SBIR-funded unmanned aircraft system for hurricane missions (most mature project, 2020-2026 active)
+- **S3 VTOL**: Hybrid fixed-wing/quadcopter with tilting rotors, targeting 2-3 hour endurance and automatic flight ops
+- **SwiftCore**: Core drone platform with firmware, tablet application, and flight testing (highly active, 4400+ messages)
+- **Navy Magnetometer SBIR**: QuSpin magnetometer integration for magnetic anomaly detection (MAD) applications
 
-### Active Projects
-- **SBIR Volcanic Monitoring**: Primary R&D initiative using S2/S3 aircraft with specialized sensors; NASA-funded with USGS collaboration
-- **Government Contracting**: Diversified funding strategy across NASA, DOD, NOAA, USDA with multiple active proposals
-- **Product Development & Marketing**: Ongoing website, collateral, and promotional efforts tied to aircraft capabilities and market positioning
+## Key People & Roles
+- **Jack Elston**: Leadership, proposal decisions, funding strategy, core technical oversight
+- **Joshua Fromm**: Lead engineer/designer, RF components, CAD, antenna placement, requirements documentation
+- **Maciej**: Technical support, proposal work, field operations, project coordination
+- **Beck Cotter**: Technical contributor across SBIR and magnetometer projects
+- **Danny Troke**: SwiftCore and S0 project involvement, operational updates
+- **Dan Prendergast**: Business development and operations
+- **Meredith Needham**: Budget and grants administration
+- **Sam Hild, Alex Lomis, Ben Busby**: Technical/engineering roles across multiple platforms
 
-### Key Decision Makers & Roles
-- **Jack Elston**: Executive leadership across all channels; primary proposal reviewer, technical decisions, strategic direction
-- **Meredith Needham**: Finance/budget management and administrative coordination
-- **Joshua Fromm**: Hardware/shop operations and manufacturing
-- **Maciej**: Technical support and field operations across projects
-- **Parker Vollmer**: Marketing strategy and external communications
+## Decision Patterns
+- Funding decisions centralized through Jack Elston with Meredith Needham on budgeting
+- Technical design decisions led by Joshua Fromm (aircraft design) and Jack Elston (systems)
+- Proposals driven by federal agency priorities (SBIR focus: Navy, NOAA, DOD, NASA)
+- Flight testing coordinated across SwiftCore, S0, and S3 projects
 
-### Recurring Decision Patterns
-1. **Centralized approval**: Jack Elston reviews/approves major proposals, budgets, and strategic initiatives
-2. **Cross-functional coordination**: Technical (#sbir-volcano) feeds into funding (#grants-and-funding), which connects to operations/budgets (#operations)
-3. **Documentation-driven**: Decisions formally tracked in #operations; funding statuses logged in #grants-and-funding
-4. **Budget-first planning**: Financial constraints and grant opportunities drive project timelines
+## Recurring Topics
+- **Government funding**: Constant pursuit of SBIR/federal grants across multiple agencies
+- **Integration challenges**: Magnetometer, RF components, sensor mounting on aircraft
+- **Flight testing & validation**: Ongoing across all platforms
+- **Software/firmware development**: SwiftCore updates, feature implementation, bug fixes
+- **Design iteration**: CAD refinement, parts validation, requirements updates
 
-### Connected Topics Across Channels
-- **Budget development**: Proposals (#grants-and-funding) → approval (Jack) → resource allocation (#operations)
-- **Project visibility**: Technical progress (#sbir-volcano) → company updates (#general) → marketing narratives (#marketing)
-- **Operational constraints**: Facility/logistics (#operations) ↔ project feasibility (#sbir-volcano)
-- **Staffing coordination**: Team assignments span #general, #operations, and project-specific channels
-
-### Organizational Health Indicators
-- High activity across all channels indicates engaged workforce
-- Clear role specialization with minimal overlap
-- Long operational history (July 2020 - July 2026) suggests project continuity and institutional knowledge
+## Cross-Channel Connections
+- **Personnel overlap**: Core team (Jack Elston, Maciej, Joshua Fromm, Beck Cotter) active across hurricane, magnetometer, and S3 projects
+- **Platform synergies**: SwiftCore firmware supports S3 VTOL and hurricane S0 development
+- **Funding strategy**: Multiple SBIR projects (hurricane, magnetometer) leveraged in grants-and-funding channel
+- **Mission progression**: S0 hurricane → S3 VTOL → SwiftCore advancement represents product line maturation

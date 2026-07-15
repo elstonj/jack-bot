@@ -3,55 +3,64 @@
 ## Overview
 - **Client/customer:** Internal BST purchasing system (serves all active projects)
 - **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across multiple projects
-- **Timeline:** Ongoing operational project. **CRITICAL CHANGE: Task count surged from 2 back to 1 open task. Previous Jul 12, 2026 deadline window has passed; new task due JUL 15, 2026.**
-- **Status:** 🟡 **OPERATIONAL STRESS SIGNIFICANTLY REDUCED BUT RESURFACING.** Nate's 2 tasks (due Jul 12) have cleared; 1 new task assigned to Meredith (due Jul 15). **CRITICAL ISSUE PERSISTS:** Multi-project billing breakdown for digikey (#100222302) and jawstec (#SF311738) remains unresolved — tasks closed without audit trail.
+- **Timeline:** Ongoing operational project. **CRITICAL CHANGE: Task count surged from 1 open task to 5 open tasks.** Deadlines now span Jul 14–Jul 16, 2026; 2 tasks are OVERDUE (Jul 1 deadline passed).
+- **Status:** 🔴 **OPERATIONAL STRESS ESCALATING SIGNIFICANTLY.** Task backlog has grown 5x from prior week (1 → 5 open). 2 jawstec orders overdue by 13 days (due Jul 1, now Jul 14+). Ownership split between Meredith and Nate. **CRITICAL UNRESOLVED ISSUES:** (1) Multi-project billing exposure remains (jawstec tasks with truncated project codes), (2) digikey task reassigned from Meredith to Nate with truncated project field, (3) order placement dates have drifted beyond requested dates.
 - **Team members involved:**
-  - **Meredith O'hara Needham** (1/1 open task = 100%, Project Owner) — "Order Placed" pipeline
-  - **Nate Straus** (0/1 open tasks = 0%) — Prior workload cleared
-  - **Requesters:** Kareem (1 task — 100%)
+  - **Meredith O'hara Needham** (4/5 open tasks = 80%, Project Owner) — "Order Placed" & "Order Shipped" pipeline
+  - **Nate Straus** (1/5 open tasks = 20%) — DigiKey antenna task, "Order Received" status
+  - **Requesters:** Alex (1), Nate (1), Joshua Fromm (2), Kareem (1)
 - **Risk signals:**
-  - 🟡 **TASK SURGE RESUMING: 2 → 1 → cycle continues.** Prior critical tasks (Nate's Jul 12 deadlines) cleared; new intake from Kareem entered pipeline. Indicates steady-state high-volume operations.
-  - 🟡 **MEREDITH NOW 100% OF REMAINING WORKLOAD.** Ownership shifted entirely to project owner (from Nate). Suggests intake/approval flow or hand-off in progress.
-  - 🟡 **REQUESTER CONCENTRATION EXTREME:** Kareem owns 1/1 remaining task (100%). New requester in pipeline (prior tasks dominated by Alex and Joshua Fromm).
-  - 🟡 **UNRESOLVED BILLING EXPOSURE CRITICAL:** Multi-project billing tasks (#100222302 digikey, #SF311738 jawstec) **still missing from open list.** If these orders have been invoiced and closed without project allocation, audit and cash-flow risks remain active.
-  - ⚠️ **FORM INCOMPLETE/TRUNCATED:** Task notes show "Select project to bill purchase: [30" — project code cut off. **Kareem's task may lack proper project assignment.** High risk of billing misallocation if not corrected before order placement.
+  - 🔴 **TASK BACKLOG EXPLOSION:** 1 → 5 open tasks in 1 cycle. Intake velocity has jumped dramatically or prior tasks not being closed properly.
+  - 🔴 **OVERDUE TASKS (2):** jawstec orders (#69630, #69631) due Jul 1, 2026 — **13 days overdue.** Both "Order Shipped" status suggests fulfillment completed, but tasks remain open. Likely closure automation failure.
+  - 🔴 **OWNERSHIP WHIPSAW:** DigiKey antenna task reassigned from Meredith (Project Owner) to Nate Straus without clear handoff note. Suggests approval gate or approval conflict.
+  - 🔴 **FORM DATA TRUNCATION PERSISTS & WORSENED:** 
+    - DigiKey project field now shows only "[30" (was "[300-3]" in notes — confirms form submission error)
+    - jawstec S0 IDIQ project field shows "[300-3] 20" (truncated from "[300-3] 2026 IDIQ (Hurricane)")
+    - jawstec S3 Sales project field shows "General S" (truncated from "General Sales")
+    - **HIGH RISK:** Orders may be billed to wrong projects if form data not manually corrected.
+  - 🟠 **TAX EXEMPTION SPLIT:** 3/5 tasks are tax-exempt (60%); 2 are non-exempt. Verify tax handling on Microhard and Amazon orders.
+  - 🟠 **REQUESTER CONCENTRATION:** Joshua Fromm now owns 2/5 tasks (40%); new requester pressure from Alex and continued Nate/Kareem intake.
 
 ## Key Deliverables & Milestones
 
-### **DUE JUL 15, 2026 — 1 REMAINING TASK**
+### **OVERDUE & OPEN TASKS**
 
-| Task | Due | Vendor | Assigned | Project | Requester | Status | Tax Exempt? | Notes |
-|------|-----|--------|----------|---------|-----------|--------|------------|-------|
-| digikey - antennas for hurricane (#100363511) | Jul 15, 2026 | DigiKey | Meredith O'hara Needham | [300-3] 2026 IDIQ (Hurricane) | Kareem | Order Placed | NO | Order placement scheduled Jul 13. **PROJECT CODE TRUNCATED IN FORM — verify [300-3] is correct.** |
+| Task | Due | Status | Vendor | Assigned | Project | Requester | Tax Exempt? | Notes |
+|------|-----|--------|--------|----------|---------|-----------|------------|-------|
+| jawstec for s3 sales (#69630) | **Jul 1, 2026 (OVERDUE 13 days)** | Order Shipped | jawstec | Meredith | General Sales (form: "General S" — **TRUNCATED**) | Joshua Fromm | YES | Fulfillment complete; task should close. Form project code incomplete. |
+| jawstec for s0 idiq (#69631) | **Jul 1, 2026 (OVERDUE 13 days)** | Order Shipped | jawstec | Meredith | [300-3] 2026 IDIQ (Hurricane) (form: "[300-3] 20" — **TRUNCATED**) | Joshua Fromm | YES | Fulfillment complete; task should close. Form project code incomplete. |
+| Microhard | Jul 14, 2026 | (not started) | Microhard | Meredith | [001-16] IRAD Swiftstation | Alex | NO | Placement due TODAY or TOMORROW. No status update yet. |
+| Amazon Shop supplies | Jul 16, 2026 | Order Placed | Amazon | Meredith | [001-1] IRAD General (form: "[001-1] IRAD Gene" — **TRUNCATED**) | Nate | NO | Order placed; task due Jul 16. Project code incomplete in form. |
+| digikey - antennas for hurricane (#100363511) | Jul 16, 2026 | Order Received | DigiKey | Nate | [300-3] 2026 IDIQ (Hurricane) (form: "[30" — **SEVERELY TRUNCATED**) | Kareem | NO | **REASSIGNED TO NATE** from Meredith. Placement was due Jul 13 (3 days ago); order already received. Project code severely incomplete in form. |
+
+### **UPCOMING DEADLINES**
+- **Jul 14, 2026:** Microhard order (Meredith) — **DUE IMMINENTLY**
+- **Jul 16, 2026:** Amazon and DigiKey tasks (Meredith & Nate) — both in progress or received
 
 ## Task Summary
-- **Total tasks:** 1 open, 0 completed in this dataset (prior 10 tasks have cleared; 2 prior Nate tasks due Jul 12 now closed)
+- **Total tasks:** 5 open, 0 completed in this dataset
 - **Tasks by assignee:**
-  - **Meredith O'hara Needham:** 1/1 (100%) — "Order Placed" status
-  - **Nate Straus:** 0/1 (0%) — Prior workload cleared
+  - **Meredith O'hara Needham:** 4/5 (80%) — jawstec S3, jawstec S0, Microhard, Amazon
+  - **Nate Straus:** 1/5 (20%) — DigiKey antenna
 - **Tasks by requester:**
-  - **Kareem:** 1/1 (100%)
+  - **Joshua Fromm:** 2/5 (40%) — both jawstec orders
+  - **Alex:** 1/5 (20%) — Microhard
+  - **Nate:** 1/5 (20%) — Amazon supplies
+  - **Kareem:** 1/5 (20%) — DigiKey
 - **Notable patterns:**
-  - **Steady-state intake cycle:** Tasks clearing and re-entering pipeline on predictable cadence (Jul 12 deadline cleared; Jul 15 task entered).
-  - **Ownership by project lead:** Meredith (project owner) now directly assigned; suggests either approval gate or delegation chain initiated.
-  - **FORM DATA INCOMPLETE:** Project field truncated ("Select project to bill purchase: [30") — **blocking proper project code verification.**
+  - **BACKLOG SURGE:** 5x increase from prior snapshot (1 → 5 open). Indicates either high intake velocity or failure to close completed orders (jawstec tasks "Order Shipped" but still open).
+  - **FORM SUBMISSION QUALITY DEGRADATION:** 4/5 tasks have truncated project codes in form data. Suggests form field character limits, clipboard truncation, or data entry errors.
+  - **TASK LIFECYCLE BREAKDOWN:** jawstec tasks are "Order Shipped" (fulfillment complete) but remain open — automation/closure workflow not triggering.
+  - **OWNERSHIP INSTABILITY:** DigiKey task bounced from Meredith to Nate; reason unclear.
 
 ## Recent Activity
-- **Jul 12, 2026 deadline window cleared:** Both Nate's "Order Received" tasks (sendcutsend, OpenUPS) have completed or transitioned.
-- **New intake from Kareem entered pipeline:** DigiKey antenna order for Hurricane project, due Jul 15.
-- **Prior multi-project billing tasks (digikey #100222302, jawstec #SF311738) remain unresolved** — no status update; likely closed without audit resolution.
+- **Jul 14, 2026 (NOW):** 2 jawstec orders overdue by 13 days (due Jul 1); status "Order Shipped" suggests fulfillment complete but tasks not closed.
+- **Jul 14, 2026 (NOW):** Microhard order due today with no status update — placement may not have occurred.
+- **Jul 13, 2026 (3 days ago):** DigiKey antenna order was requested for placement; now showing "Order Received" — order has already been processed, but task remains in pipeline.
+- **Task reassignment noted:** DigiKey antenna reassigned from Meredith (Project Owner) to Nate Straus — reason not documented.
+- **Amazon order:** Status "Order Placed" suggests placement occurred (due date was Jul 14, now listed as due Jul 16 — possible date drift).
 
 ## Notes & Context
 
-### **🔴 CRITICAL: FORM DATA TRUNCATION**
-Task form shows incomplete project selection: "Select project to bill purchase: [30" — **project code cut off.** While task notes reference "[300-3] 2026 IDIQ (Hurricane)", the form submission appears incomplete. **Verify with Kareem or Meredith that correct project is assigned before order placement on Jul 13.**
-
-### **🟠 URGENT: UNRESOLVED BILLING EXPOSURE**
-Multi-project billing tasks (#100222302 digikey, #SF311738 jawstec) from prior pull **have closed without visible resolution.** If these orders were received and invoiced:
-- **Risk:** Unbilled revenue, audit gaps, cash-flow misalignment
-- **Action:** Query Nate, Joshua Fromm, and Meredith on status of these tasks. Obtain email/note evidence of project allocation or billing correction before next audit cycle.
-
-### **Process & Compliance**
-- **Form intake working:** Steady-state task cadence and project assignment suggest form workflow is functional (form link in project notes is active).
-- **TAX EXEMPTION:** 0/1 remaining tasks are tax-exempt (0%); no tax compliance risk for open task.
-- **Non-tax-exempt:** Current task (Kareem's DigiKey order) will incur tax — ensure project budget accounts for it.
+### **🔴 CRITICAL: FORM DATA TRUNCATION EPIDEMIC**
+**ALL 5 TASKS** have truncated or incomplete project codes in the form submission

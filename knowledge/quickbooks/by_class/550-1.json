@@ -1,19 +1,16 @@
 {
   "project_code": "550-1",
   "qbo_class_names": [
-    "[550-1] Navy SBIR Magnetometer",
-    "[550] United States Navy:[550-1] Navy SBIR Magnetometer"
+    "[550-1] Navy SBIR Magnetometer"
   ],
   "period": {
-    "start": "2026-07-13",
-    "end": "2026-07-14"
+    "start": "2026-07-14",
+    "end": "2026-07-15"
   },
   "totals": {
     "revenue": 14459.0,
-    "expenses": 10000.0,
-    "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 10000.0
-    }
+    "expenses": 0.0,
+    "by_category": {}
   },
   "invoices": [
     {
@@ -40,26 +37,7 @@
       ]
     }
   ],
-  "bills": [
-    {
-      "type": "Bill",
-      "date": "2026-07-13",
-      "doc_number": "3419",
-      "total": 10000.0,
-      "attributed": 10000.0,
-      "vendor": "QuSpin, Inc.",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 10000.0,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Gen 2.0 QTFM Sensor"
-        }
-      ]
-    }
-  ],
+  "bills": [],
   "purchases": [],
   "purchase_orders": [],
   "payments": []

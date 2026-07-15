@@ -1,10 +1,23 @@
 {
   "period": {
-    "start": "2026-07-13",
-    "end": "2026-07-14"
+    "start": "2026-07-14",
+    "end": "2026-07-15"
   },
-  "scanned_at": "2026-07-14",
+  "scanned_at": "2026-07-15",
   "projects": [
+    {
+      "project_code": "001-12",
+      "revenue": 0.0,
+      "expenses": 18.92,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 1,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "(001-12)  General Customer Support/Project Support"
+      ]
+    },
     {
       "project_code": "300-3",
       "revenue": 72000.0,
@@ -21,15 +34,27 @@
     {
       "project_code": "550-1",
       "revenue": 14459.0,
-      "expenses": 10000.0,
+      "expenses": 0.0,
       "invoice_count": 1,
-      "bill_count": 1,
+      "bill_count": 0,
       "purchase_count": 0,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "[550-1] Navy SBIR Magnetometer",
-        "[550] United States Navy:[550-1] Navy SBIR Magnetometer"
+        "[550-1] Navy SBIR Magnetometer"
+      ]
+    },
+    {
+      "project_code": "_unclassified",
+      "revenue": 0.0,
+      "expenses": 1682.21,
+      "invoice_count": 0,
+      "bill_count": 1,
+      "purchase_count": 1,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        ""
       ]
     }
   ]
