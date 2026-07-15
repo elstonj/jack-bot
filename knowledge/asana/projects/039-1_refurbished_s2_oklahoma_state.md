@@ -9,7 +9,7 @@
   - Original due date: March 3, 2025
   - Delivery/Freight pickup: March 14, 2025
   - Training completed: August 19, 2025
-- **Status**: **ARCHIVED/COMPLETED** — All work delivered and training completed. Project closed successfully. (Status updated Oct 21, 2025)
+- **Status**: **ARCHIVED/COMPLETED** — All work delivered and training completed. Project closed successfully October 21, 2025.
 - **Team Members**: Nate Straus (primary technician), Meredith O'hara Needham (project manager), Dan Prendergast (training), Ethan Domagala, Josh Fromm
 - **Risk Signals**: None — project completed successfully. Minor 11-day delay (pickup March 14 vs. due March 3) driven by customer spring weather observation timeline requirements.
 
@@ -47,14 +47,10 @@ Project completed and archived in August–October 2025. Final timeline:
 
 ## Notes & Context
 - **Multi-aircraft opportunity**: OSU initially requested estimate [1336] for VTOL, S2, and E2 systems but chose to order separately (each as individual PO). This refurbished S2 was first order; additional systems may follow.
-- **Customer priority**: March 2025 delivery for spring weather observation season (achieved with 11-day minor slip)
+- **Customer priority**: March 2025 delivery for spring weather observation season (achieved with 11-day minor slip due to customer spring weather observation timeline requirements)
 - **Shipping logistics**: Aircraft launcher rail is unusually long, requiring non-standard double-long pallet with power lift gate and pallet jack operator onsite (BST has no loading dock)
 - **Air spring condition**: Rear air spring rods showed wear; swapped with S20009's units (documented damage patterns on each shaft)
 - **Battery specifications**: GCS battery required JST balance lead 16awg with no connector; sourced from MaxAmps
 - **Case logistics**: Josh Fromm delivered case on Feb 5, 2025
 - **Refurbishment scope**: Brought aging S2 to like-new condition with modern avionics upgrades (RTK, ADS-B, Remote ID)
 - **Customer type**: Commercial
-
----
-
-**Note on Recent Feedback**: Team feedback from June 2026 regarding BST Steam Deck UPS tracking is unrelated to this archived project and appears to be metadata from a different context.

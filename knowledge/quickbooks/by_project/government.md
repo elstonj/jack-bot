@@ -146,6 +146,10 @@
 - **Purchase #03236** (2026-07-01): **$156.00** [DC-Direct Material Purchases] — Wire Transfer
   - $130.00 — Wire transfer (no Asana request; Alex purchase via email)
   - $26.00 — Wire transfer (no Asana request; Alex purchase via email)
-  - *Note: Initial wire transfer through Wells Fargo was returned*
 
-- **Purchase #03236** (2026-07
+---
+
+### **Travel: $233,889.68**
+**Number of transactions:** 89
+
+**Key vendors & categories:**

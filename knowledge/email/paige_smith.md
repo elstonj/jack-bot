@@ -1,14 +1,16 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 3,707 (3,664 previous + 43 new from Jul 12-14, 2026)
-- **Date range:** March 24 – July 14, 2026 (113 days)
-- **Approximate volume:** ~32.8 messages per day (sustained)
-- **New batch composition (Jul 12-14, 2026):** ~95% automation/newsletters/promotions (41 of 43 messages)
-  - **Direct human correspondence:** 2 messages (4.7%)
-    - Jack Elston (podcast invite forward) — Jul 13, 12:54 PM
-    - Mihaela (LinkedIn waiting response) — Jul 13, 14:59 UTC
-  - **Inbound business inquiries:** 5-6 messages (forwarded to sales@/info@ addresses, not directly to Paige)
+- **Total messages scanned:** 3,757 (3,707 previous + 50 new from Jul 14-15, 2026)
+- **Date range:** March 24 – July 15, 2026 (114 days)
+- **Approximate volume:** ~32.9 messages per day (sustained)
+- **New batch composition (Jul 14-15, 2026):** ~96% automation/newsletters/promotions (48 of 50 messages)
+  - **Direct human correspondence:** 2 messages (4%)
+    - Chenyang Wu (StableSens) — Jul 15, 07:01 AM — **Follow-up on air-data sensor** [IMPORTANT, UNREAD]
+    - Ted Miles (x2 messages) — Jul 14, 3:10 PM & 3:13 PM — AeroCam & Profiler resource files [IMPORTANT]
+    - Geoff (aerokats) — Jul 14, 5:55 PM — Aeropod-BST Website meeting scheduled **Aug 19, 2026** [IMPORTANT]
+  - **Internal/administrative:** Google Calendar support appointment, Gemini meeting notes from Jul 14 internal update
+  - **Sales/business forwarding:** UASweekly, US Commercial Service Aerospace (MRO Brazil), UAS Summit & Expo
 
 ---
 
@@ -16,103 +18,92 @@
 
 ### Top Internal Senders & Collaborators
 
-**Jack Elston** (elstonj@blackswifttech.com / media@blackswifttech.com)
-- **Status:** Primary media/intelligence correspondent — NEW direct message to Paige (Jul 13, 12:54 PM)
-- **Subject:** Podcast invite [IMPORTANT]
-- **Signal:** Increasing direct collaboration; suggesting media outreach/interview opportunities; UAS VISION daily news also forwarded to media@ address (Jul 13, 21:00 UTC)
+**Geoff (gb.aerokats@gmail.com)**
+- **Status:** NEW direct contact; appears to be technical/product collaborator
+- **Recent activity:** 
+  - Sent updated meeting invitation for **"Aeropod-BST Website"** scheduled **Wednesday, August 19, 2026, 11am-12pm (MDT)** [IMPORTANT]
+  - CC'd: paige.smith@blackswifttech.com, geodronez@gmail.com, meredith.needham@blackswifttech.com, ted59@msn.com
+  - **Signal:** Website/product integration project; cross-functional collaboration between aerokats and BST teams
+  - **Note:** Domain suggests external contractor or partner (aerokats.com); "Aeropod" codename suggests new product or integrations feature
+
+**Ted Miles (ted59@msn.com)**
+- **Status:** NEW direct correspondent; appears to be technical resource/systems developer
+- **Recent activity (Jul 14, 2026):**
+  - Sent **"Profiler resource files"** [IMPORTANT] — CC'd Geoff (gb.aerokats@gmail.com), Meredith Needham, Paige Smith
+  - Sent **"AeroCam resource files"** [IMPORTANT] — same distribution
+  - **Signal:** Two distinct products/systems under active development: Profiler (likely image processing/analysis) and AeroCam (likely camera system integration)
+  - **Frequency pattern:** Both messages on same day suggests coordinated resource delivery or sprint completion
+
+**Jack Elston** (media@blackswifttech.com)
+- **Status:** Continues as primary media correspondent; receiving UAS VISION daily news (Jul 14, 21:52 UTC) directed to media@ address
+- **Signal:** Maintains media intelligence ingest; forwarding through media address rather than direct email
 
 **Meredith Needham** (meredith.needham@blackswifttech.com)
-- **Status:** Continues operations/admin role; CC'd on QuickBooks bill payment notification (Jul 13, 18:26 UTC)
-- **Note:** Financial tracking/approval involvement confirmed
+- **Status:** Continues operations/admin role; CC'd on Ted Miles resource file deliverables
+- **Signal:** Maintains oversight of technical resource distribution and project coordination
 
-**info@blackswifttech.com** — General company inbox
-- **Status:** Routing point for business inquiries and event notifications; 6+ new messages in batch directed here
-
-**sales@blackswifttech.com** — Sales inbox
-- **Status:** Receiving inbound inquiries; QuickBooks notification also CC'd here; 3+ new business inquiries in batch
+**info@blackswifttech.com** & **sales@blackswifttech.com**
+- **Status:** Continued routing points for business inquiries and event registrations
+- **Jul 14 new activity:** UAS Summit & Expo investor pitch opportunity, US Commercial Service Aerospace (MRO Brazil registration), Aveo Engineering EAA AirVenture 2026 announcement, Elita Hester Colorado Christian University career fair
 
 ---
 
 ### Top External Senders & Partners
 
-**New Business Inquiry Sources (Jul 13, 2026):**
+**Chenyang Wu (chenyangwu@stablesensmail.com) — StableSens**
+- **Status:** ESCALATING engagement; direct message to Paige (not forwarded to sales@)
+- **Recent activity:**
+  - Jul 15, 07:01 AM: **"Compact air-data follow-up for Black Swift Technologies"** [IMPORTANT, UNREAD]
+  - **Signal:** Air-data sensor (pitot/static/angle-of-attack) follow-up suggests component evaluation advancing beyond initial IMU discussion
+  - **Implication:** S2 platform sensor suite expanding to include aerodynamic state measurement; critical for flight control and performance optimization
+  - **Status pattern:** Direct engagement with Paige + immediate follow-up indicates active vendor negotiation/integration
 
-**Joanne Yu** (joanne.yu@ultrapower.hk) — UltraPower
-- **Contact:** info@blackswifttech.com
-- **Subject:** 20,000W charger – 28S ready, double the speed [UNREAD, IMPORTANT]
-- **Signal:** High-power charging solutions vendor; likely for S2 platform power delivery/rapid charge capability; marked IMPORTANT suggests relevance to active project
+**Geoff (gb.aerokats@gmail.com) — AeroKats (External Partner/Contractor)**
+- **Status:** NEW; appears to be strategic integration partner for website/product platform
+- **Recent activity:** Aeropod-BST Website meeting (Aug 19, 2026)
+- **Signal:** Website modernization or product platform integration project; cross-domain collaboration suggests either web development contractor or embedded systems partner
 
-**Chenyang Wu** (chenyangwu@stablesensmail.com) — StableSens
-- **Contact:** sales@blackswifttech.com
-- **Subject:** Compact IMU review for Black Swift Technologies [UNREAD, IMPORTANT]
-- **Signal:** Inertial Measurement Unit (IMU) component review/vendor evaluation; core sensor for navigation/stabilization systems; marked IMPORTANT
+**Ted Miles (ted59@msn.com) — External Developer/Consultant**
+- **Status:** NEW direct contact; likely freelance/contract resource
+- **Deliverables:** AeroCam and Profiler system resource files
+- **Signal:** Specialized software/firmware developer for dual camera and analysis systems; resource files suggest code repositories, documentation, or development packages being transferred
 
-**Manuel Rivas** (mrivas@formin.com.pe) — Formin Peru
-- **Contact:** sales@blackswifttech.com
-- **Subject:** Request for quotation - VTOL Drone
-- **Signal:** South American customer inquiry for VTOL platform; sales qualification lead
+**US Commercial Service Aerospace Team** (Aerospace@public.govdelivery.com)
+- **Status:** Government trade promotion contact
+- **Activity:** MRO Brazil pavilion registration [Jul 14, 5:10 PM]
+- **Signal:** BST exploring maintenance/repair/overhaul services opportunity in Brazil; may indicate S2 platform aftermarket services strategy
 
-**Varshith Reddy** (varshith.reddy@aksi-aerospace.com) — AKSI Aerospace Group
-- **Contact:** sales@blackswifttech.com
-- **Subject:** End-to-End Manufacturing Solutions from AKSI Aerospace Group [UNREAD]
-- **Signal:** Indian manufacturing/contract manufacturing partner outreach; likely related to S2 platform production scaling
-
-**Eduardo Freitas** (mundogeo@mundogeo.net) — MundoGEO
-- **Contact:** info@blackswifttech.com AND info@bst.aero (duplicate, both domains)
-- **Subject:** Learn how to send news for publication on MundoGEO web portal
-- **Signal:** Latin American geospatial/aerospace media outlet; outreach for press release distribution and publication; NEW domain bst.aero appears here
-
----
-
-### Newsletter & Automated Sources (High Volume Continuing)
-
-**Dominant sources in new batch (Jul 13-14):**
-
-**The New York Times — 7 messages** (Israel/counterintelligence operation, Lindsey Graham succession [2 messages], ICE agent incident, Trump I.R.S. ruling, U.K. lawmaker death/counterterrorism, Putin/Japan spies, Venezuela viceroy)
-  - **Intensity note:** Highest breaking news frequency to date; political/security/international intelligence focus
-
-**LinkedIn — 6 messages** (Shane Zentner/GISP network activity, profile search appearances [2 messages], Marketing Specialist job insights, Industrial Design client requests, Mihaela follow-up message)
-  - **Signal:** Increased recruiter/talent acquisition activity; "Industrial Design request from Simone Horowitz" suggests design service inquiries
-
-**Google Ads / SEO — 3 messages** (Google Ads campaign optimization, Google Ads product update, All in One SEO schema updates)
-  - **Signal:** Active digital marketing/web presence management; Google Ads account optimization in progress
-
-**UAS/Drone Industry — 3 messages:**
-  - **UASweekly Daily Newsletter** (Jul 13, 21:01 UTC) — forwarded to info@blackswifttech.com [IMPORTANT]
-  - **UAS VISION Daily News** (Jul 13, 21:00 UTC) — forwarded to media@blackswifttech.com [Russ Callow]
-  - **Geo Week Webinars** — "Grounded Perspectives on Drone Lidar" registration
-
-**Web/Design/Video Tools — 3 messages** (Adobe Creative Cloud video editing, Onshape CAD/Keyshot visualization webinar, All in One SEO)
-
-**Trade Shows/Events — 3 messages:**
-  - **Geo Week Webinars** — Drone Lidar seminar
-  - **Aveo Engineering Group** (newsletter@aveoengineering.com) — FIA 2026 exhibit notification, forwarded to info@blackswifttech.com
-  - **Luke Cotton** (luke.cotton@saemediagroupevents.com) — "Position Your Organisation for the UK's UAV Investment Drive"
-
-**Defense/Security Intelligence — 2 messages:**
-  - **A&SF Daily Report** (AirAndSpaceForcesMagazine@afa.org) — "F-22s Depart Middle East" [IMPORTANT]
-  - **The Athletic Pulse** — "The new* Home Run Derby" [IMPORTANT, secondary/background consumption]
-
-**Other Automation:** Toggl Track (time tracking), Asana task management (1 task due), QuickBooks bill pay, Target retail, Staples, BannerBuzz, NOAA UFS modeling initiative, Manufyn India sourcing
+**Aveo Engineering Group** (newsletter@aveoengineering.com)
+- **Status:** Continued partnership visibility
+- **New activity:** **EAA AirVenture 2026** exhibit announcement [Jul 14, 11:02 AM, forwarded to info@blackswifttech.com]
+- **Signal:** Major aviation trade show presence planned; likely joint booth or partnership showcase
 
 ---
 
-## Topic Patterns
+### LinkedIn Activity (Elevated Recruitment/Professional Visibility)
 
-### Active Projects (Confirmed & Expanded)
+**LinkedIn messages/notifications (5 new messages Jul 14-15):**
+- Roger Edwards post activity
+- 20 profile views in recent period
+- Appeared in 9 searches this week
+- Keith Molenaar connection request
+- Tech Startup CEOs & Investors group activity (AI/ML/FinTech/SaaS/ChatGPT focus)
+- **Signal:** Significantly elevated inbound professional interest; likely recruiting interest or partnership inquiries; CEO/investor network engagement suggests visibility as technical leader or founder
 
-1. **Black Swift S2 Platform (Component Sourcing Phase):**
-   - **Battery/Power:** UltraPower 20,000W charger (28S Solid State Lipo proposed)
-   - **Sensors:** StableSens Compact IMU under review
-   - **Manufacturing:** AKSI Aerospace Group outreach suggests contract manufacturing exploration for production scaling
-   - **Sales:** VTOL Drone quotation request from Peru (Manuel Rivas/Formin) — first geographic sales lead visible
+---
 
-2. **Conference/Event Participation (Continuing Expansion):**
-   - **Aveo at FIA 2026** — Forwarded to info@blackswifttech.com (automotive/aviation intersection likely)
-   - **Geo Week** — Drone Lidar seminar (sensor technology/mapping focus)
-   - **UK UAV Investment Drive** — Regulatory/funding opportunity in UK market
-   - **Podcast Invite** — Jack Elston forwarding media opportunity (Jul 13) — brand visibility/PR initiative
+### Newsletter & Automated Sources (Continuing High Volume)
 
-3. **Media/PR Outreach (NEW):**
-   - **MundoGEO publication pathway** — Latin American aerospace/geospatial press; dual domain registration (info@blackswifttech.com + info@bst.aero)
-   - **
+**Breaking News/Daily Briefings — 11 messages**
+- **The New York Times:** 9 messages (boat capsizing near Alcatraz, Supreme Court testimony, Navy promotions, Trump taxation policy, ICE vehicle stops, E. Jean Carroll settlement, inflation data, Trump retribution campaign emails, publisher book withdrawal)
+  - **Intensity:** Sustained high-frequency political/security intelligence consumption
+- **A&SF Daily Report:** 1 message — **"SDA Hands Out $1.75B for Golden Dome Missile Tracking Sats"** [IMPORTANT]
+  - **Signal:** Defense space satellite acquisition tracking; relevant to potential S2 integration with government payloads or military applications
+- **Energy Drone & Robotics News:** 1 message — "AI Shark-Spotting Drones to Patrol Sydney Beaches"
+  - **Signal:** Competitive intelligence on drone applications in wildlife/public safety sectors
+
+**Industry/Trade Conferences — 3 messages**
+- **UASweekly Daily Newsletter** [Jul 14, 9:01 PM, forwarded to info@blackswifttech.com] [IMPORTANT]
+- **UAS Summit & Expo** — Investor pitch opportunity [Jul 14, 2:50 PM, forwarded to info@]
+- **Geo Week Media Kit** [Jul 14, 10:02 AM]
+- **AFA Speaker Lineup** (Air & Space Forces Association) [Jul 14, 7:35 AM]

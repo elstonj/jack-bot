@@ -1,72 +1,65 @@
 # Jack Elston — Email Patterns (UPDATED)
 
 ## Communication Volume
-- **Total messages scanned:** 6,427 (6,327 prior + 100 Jul 13–14)
-- **Date range:** April 1–July 14, 2026
+- **Total messages scanned:** 6,527 (6,427 prior + 100 Jul 14–15)
+- **Date range:** April 1–July 15, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **Jul 13–14 activity (100 messages):** ~28% human correspondence (MHP data alignment multi-turn with Tanay Topac IMPORTANT x4; Krateo escalation LisaMarie Cheney x2, Sona KPMG coordination; Halo Aero NAVY SBIR docs IMPORTANT; NOAA procurement/Pioneer Array coordination multi-stakeholder; S3 demo, Deel PEO sync); ~35% automated vendor/logistics/purchasing/platform (DigiKey x2, SendCutSend, Spindrift, AliExpress, Speedway Motors, Harbor Freight, Daniels Mfg, Rippling, QuickBooks Bill Pay, Dropbox Sign, SAP, Concentra HUB); ~20% system/infrastructure/research (Google Gemini notes, Read AI meeting report, SpaceXAI, UASweekly newsletter, Aveo Engineering, Climate Startups Exelon grant); ~17% external research/academic (Scott Scheff sUAS paper, 2027 NFCS Call for Abstracts, Chenyang Wu IMU review, ultrapower charger, Manuel Rivas quotation)
+- **Jul 14–15 activity (100 messages):** ~22% human correspondence (Deel PEO sync multi-turn x7 IMPORTANT; Navy SBIR sub escalation Maciej/Daniel Hesselius x4 IMPORTANT; Pioneer Array travel coordination Beck/David Richter/Joshua Wadler/Laura Rock/Danielle Varwig x5 IMPORTANT; Black Swift S0 ground station Nick Underwood/Meredith x3 IMPORTANT; Black Swift Demo with Deel Sona x3 IMPORTANT; KPMG finance kickoff Sona coordination x3 IMPORTANT; Lockheed Martin SBIR.R4 forward to Beck/Daniel; Creative Alignments kickoff summary Hadley Solomon; Aetna wrap-up Chad Atwood x2 IMPORTANT; QuSpin/Maciej technical question x1 IMPORTANT; AtmoFacts Murphy's Pond dataset; NOAA extension Amy McLiverty x2 IMPORTANT; SOCOM RFI S0 Daniel Prendergast x1 IMPORTANT); ~40% automated vendor/logistics/purchasing/platform (Worldwide Express, Amazon x2, Pirate Ship x2, HeliDirect, SkyGeek, Deel Ben Stavig invitations x3, JawsTec x2, UPS, Beon Shipper, Expedia, Home Depot Pro Xtra, Rock West Composites, Quickbooks Bill Pay x2, Human Interest); ~18% system/infrastructure/newsletters (Google Cloud Identity, E-Verify, WordPress, UASweekly, AGI Summit, Bay AI Circle, US Commercial Service, Cloud AI); ~10% external research/academic/governance (IWA Publishing water treatment, Boulder County commissioners & grants, ND SASC watch quarterly report, Colorado Christian career fair, Media Relations)
 
 ## Key Correspondents
 
-### Top Internal Partners (Sustained/New Escalation)
+### Top Internal Partners (Sustained & New Escalation Vectors)
 
-1. **Maciej Stachura** (stachura@blackswifttech.com) — **STRATEGIC EXECUTIVE OVERSIGHT SUSTAINED:** 
-   - **New escalation vector (Jul 13–14):** CC'd on LisaMarie Cheney follow-up calls (x2 IMPORTANT); Daniel Hesselius Halo Aero LOI follow-up (CC'd both Jack & Maciej); Hunter Ray S3 Demo response (CC'd both); Joe Cione NOAA Pioneer Array escalation (CC'd both)
-   - **Interpretation:** Maciej now explicitly copied on all high-stakes partner negotiations (Krateo, Halo, NOAA), indicating executive-level decision authority consolidation
+1. **Maciej Stachura** (stachura@blackswifttech.com) — **EXECUTIVE OVERSIGHT SUSTAINED + STRATEGIC DEEPENING:**
+   - **New escalation (Jul 14–15):** 
+     - Navy SBIR sub direct origination (Jul 14, 10:15 IMPORTANT) → routed to Daniel Hesselius directly with Maciej as lead sender
+     - Daniel Hesselius response (Jul 14, 16:37 IMPORTANT) → to Maciej (not Jack)
+     - QuSpin technical question response (Jul 15, 06:17 IMPORTANT) from Shweta Choudhury → to Maciej Stachura
+     - Parker Ackerknecht QuSpin response (Jul 14, 11:10 IMPORTANT) from Maciej
+   - **Pattern deepening:** Maciej now **originating** (not just CC'd) on Navy SBIR negotiations; technical vendor relationships (QuSpin) now routing through Maciej
+   - **Interpretation:** Executive decision-making authority consolidation visible; Maciej now primary interface on propulsion/advanced components
 
-2. **Meredith Needham** (meredith.needham@blackswifttech.com) — **OPERATIONAL/FINANCIAL/COMPLIANCE HUB SUSTAINED:**
-   - KPMG finance kickoff coordination (Sona's large distribution list Jul 14); Deel PEO sync invitation (multi-party); Black Swift Demo coordination; Halo Aero LOI signed notification (Meredith forwarded to Daniel Hesselius Jul 13, 14:17); Rippling 3rd-party access grant (Mark Kightlinger tax coordination)
-   - **Pattern:** Meredith remains chief operational/financial routing hub; now managing Deel HR integration & Halo partnership execution
+2. **Beck Cotter** (beck.cotter@blackswifttech.com) — **DEFENSE/NOAA OPERATIONS SUSTAINED + FIELD EXECUTION LEADING:**
+   - Pioneer Array travel coordination (multi-turn Jul 14: David Richter, Joshua Wadler, Laura Rock, Danielle Varwig, Nick Underwood IMPORTANT x5) — Beck now field-managing NOAA stakeholder calendar
+   - Black Swift S0 ground station (Nick Underwood/Meredith x3 IMPORTANT Jul 14) — Beck primary NOAA interface on procurement/ops
+   - Lockheed Martin SBIR.R4 forward recipient (Jack forwarded Jul 14, 10:55 SENT)
+   - Navy SBIR sub follow-up (Beck/Daniel Hesselius direct Jul 14, 16:27 IMPORTANT)
+   - **Pattern:** Beck elevated from liaison to **field operations lead** on NOAA/Pioneer Array + defense procurement
 
-3. **Tim Hegwood** (tim.hegwood@blackswifttech.com) — **IT INFRASTRUCTURE EXPANSION SIGNAL:**
-   - Jul 13 response on IT Admin Setup; continues Red Hat/developer resources coordination
-   - **Interpretation:** Infrastructure buildout ongoing (likely Krateo integration technical environment)
+3. **Meredith Needham** (meredith.needham@blackswifttech.com) — **OPERATIONAL/FINANCIAL HUB DEEPENING:**
+   - Deel PEO sync multi-turn coordination (7 IMPORTANT messages Jul 14, including Ben Stavig coordination)
+   - Black Swift finance kickoff with KPMG (Sona coordination x3 IMPORTANT)
+   - Black Swift S0 ground station (Nick Underwood/Beck x3 IMPORTANT)
+   - Black Swift Demo with Deel (Sona coordination x3 IMPORTANT)
+   - Aetna wrap-up (Chad Atwood x2 IMPORTANT)
+   - DCAA pre-award audit preliminary info request (Michael A. Maldonado, CIV IMPORTANT Jul 14, 16:01)
+   - Halo Aero LOI execution notification (Daniel Hesselius response Jul 14, 16:01 IMPORTANT)
+   - **Pattern:** Meredith now managing Deel HR integration **operationally** (not just Rippling); DCAA federal compliance now active (pre-award audit)
 
-4. **Beck Cotter** (beck.cotter@blackswifttech.com) — **DEFENSE/NOAA LIAISON (ELEVATED):**
-   - Pioneer Array travel coordination (multi-stakeholder NOAA chain: Joshua Wadler, Joe Cione, David Richter, Danielle Varwig, Annette Hollingshead, Laura Rock); Black Swift S0 ground station procurement (NOAA officials); S3 Demo coordination with Hunter Ray
-   - **Pattern:** Beck now managing active NOAA/Pioneer Array field operations planning; elevated from prior observation-only status
+4. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **TECHNICAL DELIVERY & DEFENSE ENGAGEMENT:**
+   - SOCOM RFI S0 response (Evan M. Wolff MIL USSOCOM, Jul 14, 12:35 IMPORTANT) — direct military contact
+   - Lockheed Martin SBIR.R4 forward recipient (Jack forwarded Jul 14, 10:55)
+   - Navy SBIR sub coordination (referenced in Maciej/Beck chain Jul 14)
+   - **Pattern:** Daniel now managing direct SOCOM engagement on S0 platform; SBIR response drafting
 
-5. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **DEFENSE/ACADEMIC & TECHNICAL LEAD (ELEVATED):**
-   - Flight data report to NanoVEU partners (Mark Goranson, Mohamed Sabry, Scott Smyser, Tom Wilp) x2; Battery shipment return coordination (Robert Correia, Aeronet)
-   - **Pattern:** Now managing technical delivery & logistics on NanoVEU partnership; elevated engagement frequency
+5. **Tim Hegwood** (tim.hegwood@blackswifttech.com) — **IT INFRASTRUCTURE:**
+   - Google Workspace assistance (Brent Keefer onboarding Jul 14, 12:59 IMPORTANT) — Tim copied on introduction
+   - **Pattern:** Infrastructure scaling for incoming personnel/vendors
 
-### Top External Partners (Hierarchical by Strategic Weight & New Signals)
+### Top External Partners (Hierarchical & New Strategic Depth)
 
-#### **KRATEO SKY — CRITICAL ESCALATION ACCELERATING**
+#### **KRATEO SKY — EXECUTION PHASE DEEPENING**
 
-1. **LisaMarie Cheney** (LisaMarie@krateosky.com) — **NEW LEAD ESCALATION (MAJOR SIGNAL):**
-   - **Dual IMPORTANT follow-up calls (Jul 14, 01:07 & 23:31):** "Re: Follow-up on call" — **both CC'd to Maciej Stachura**
-   - **New signal:** LisaMarie replaces Ariel Avitan as primary escalation contact; Maciej executive visibility indicates top-priority matter (likely go-to-market/partnership decision point)
-   - **Pattern:** Executive escalation now routed through LisaMarie (possibly CEO/COO role or commercial lead)
+1. **Sona Raziabeegum** (sona@krateosky.com) — **LEGAL/COMMERCIAL/OPERATIONS COORDINATION + VENDOR INTEGRATION LEAD:**
+   - **New escalation vector (Jul 14–15):**
+     - Deel PEO sync coordination (7 IMPORTANT messages, Jul 14) — Sona now primary liaison managing Deel on-boarding multi-turn with Ben Stavig, Meredith, Jack
+     - Black Swift Demo with Deel (3 IMPORTANT, Jul 14) — Sona coordinating demo execution
+     - Black Swift finance kickoff with KPMG (3 IMPORTANT, Jul 14, 15:40–16:10) — Sona confirming Wednesday kickoff details with Meredith & Jack
+     - Creative Alignments kickoff summary (1 IMPORTANT, Jul 14, 17:15) with Hadley Solomon & Jack — marketing/BD partnership execution
+   - **Pattern:** Sona now **primary vendor integration manager** (Deel, KPMG, Creative Alignments); elevated from legal to operational/commercial lead
+   - **Interpretation:** Krateo serving as **operational hub** for BST vendor/partner relationships; Sona acting as de facto COO-level coordinator
 
-2. **Sona Raziabeegum** (sona@krateosky.com) — **LEGAL/COMMERCIAL & OPERATIONS COORDINATION (SUSTAINED/EXPANDED):**
-   - **KPMG finance kickoff (Jul 14, 00:29):** Large distribution list (Meredith, Jack, Aamir Husain, Peter Choi, Tod Short, Joseph Davoren, Samuel Rexon, Travis Foerschner, Adrianna DosSantos) — **Wednesday kickoff coordinated through Sona**
-   - Black Swift finance kickoff confirmation (Jul 13, 21:58 SENT by Jack)
-   - Grant Thornton Audit onboarding (Jul 13, 20:22 & 17:26 IMPORTANT x2 — Maciej/Jack coordination)
-   - Creative Alignments meeting follow-up (Jul 13, 18:22 with Hadley Solomon, Danielle Octavi) — **possibly marketing/BD partnership**
-   - **Interpretation:** Sona now managing both legal/commercial AND audit/financial partner integration; elevated operational scope
-
-3. **Ariel Avitan** (Ariel@krateosky.com) — **GTM & PRODUCT (SUSTAINED FROM PRIOR):**
-   - No new direct messages in Jul 13–14 dataset; pattern from prior analysis continues (weather data, GTM strategy)
-
-4. **Thibault Bridel-Bertomeu** (Thibault@krateosky.com) — **HIRING COORDINATION (SUSTAINED):**
-   - No new activity in this dataset; prior hiring coordination pattern continues
-
-5. **Brian Grubel** (Brian@krateosky.com) — **PROJECT DELIVERY (SUSTAINED):**
-   - No new activity in this dataset; prior IMPORTANT planning escalation to Maciej continues in background
-
-#### **HALO AERO — PARTNERSHIP ESCALATING TO EXECUTION PHASE**
-
-1. **Daniel Hesselius** (daniel.hesselius@halo-aero.com) — **MATERIAL PARTNER ELEVATION:**
-   - **Jul 13, 22:43 IMPORTANT INBOX:** "NAVY SBIR Documents For Your Review" — **CC'd to Maciej Stachura** — **CRITICAL NEW SIGNAL**
-   - **Jul 13, 20:25 IMPORTANT:** "Re: BST signed letter of intent" (response to Meredith who forwarded LOI execution confirmation to Daniel at 14:17)
-   - **Pattern interpretation:** 
-     - LOI **SIGNED** (Meredith notification to Daniel Hesselius Jul 13, 14:17)
-     - NAVY SBIR proposal documentation now in active circulation (Jack & Maciej reviewing)
-     - **Halo Aero partnership moved from negotiation → execution phase**
-     - **NAVY SBIR suggests federal contracting pathway, possibly for propulsion/platform integration**
-
-#### **NOAA & OCEANOGRAPHIC RESEARCH — NEW ESCALATION VECTOR**
-
-1. **Joe Cione - NOAA Federal** (joe.cione@noaa.gov) — **NOAA STRATEGIC LEAD (ELEVATED):**
-   - **Jul 13, 15
+2. **Roger Riley** (Roger@krateosky.com) — **SUPPLY CHAIN/COMPONENT INTEGRATION (NEW VISIBILITY):**
+   - **Critical Component Tiger Team Kick-Off (Jul 14, 19:15 IMPORTANT):** 
+     - Sent to Joshua Fromm (BST), Jack Elston, Jordan Weil (Inspired Flight), Vijay Santhakumar (Vantage Robotics), Samo Stopar (C-Astral)
+     - **NEW SIGNAL:** Multi-vendor component sourcing initiative; Krateo organizing cross-company tiger team

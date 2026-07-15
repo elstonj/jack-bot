@@ -39,6 +39,9 @@ Final development phase completed October 21, 2025:
 - Wind estimation integrated into full processing pipeline with NetCDF inclusion
 - Log-parse tools integrated as Git submodule with auto-deploy triggering
 
+**Post-completion feedback (July 2026):**
+Daniel Prendergast has requested enhancement to post-flight workflow: add a link to the [Maintenance Action Form](https://form.asana.com/?k=lRN5n1GO5ItVorzEDqbgWg&d=12804948716594) at the end of the log upload process in log-parse. Goal is to automate checklist discipline by prompting users to create Asana tasks for hardware issues and software bugs immediately after each flight upload (messages 2026-07-13, 2026-07-14).
+
 ## Notes & Context
 Comprehensive flight data analysis platform developed over multiple years:
 - **April 2024**: Expanded support for Multirotor aircraft types
@@ -51,4 +54,4 @@ Comprehensive flight data analysis platform developed over multiple years:
 - Python SDK + SWIG parsing for backend processing
 - Wind estimation pipeline integrated end-to-end with NetCDF generation
 
-Project represents successful delivery of a full-featured web application with robust data processing capabilities and modern DevOps practices serving external customers.
+Project represents successful delivery of a full-featured web application with robust data processing capabilities and modern DevOps practices serving external customers. Post-launch improvements requested focus on operational workflow automation.

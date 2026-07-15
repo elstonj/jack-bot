@@ -4,14 +4,14 @@
     "(001-12)  General Customer Support/Project Support"
   ],
   "period": {
-    "start": "2026-05-11",
-    "end": "2026-05-12"
+    "start": "2026-07-14",
+    "end": "2026-07-15"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 289.57,
+    "expenses": 18.92,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 289.57
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 18.92
     }
   },
   "invoices": [],
@@ -19,19 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-05-11",
-      "doc_number": "USW554503",
-      "total": 289.57,
-      "attributed": 289.57,
+      "date": "2026-07-14",
+      "doc_number": "",
+      "total": 18.92,
+      "attributed": 18.92,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 289.57,
+          "amount": 18.92,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "7-Port USB 2.0 Hub - Metal Industrial USB-A Hub with ESD Protection & 350W Surge Protection x 2"
+          "description": "Maxmoral 3PCS DC-099 DC Power Socket"
         }
       ]
     }

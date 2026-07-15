@@ -1,21 +1,18 @@
 # Commercial Sales — Pipeline Index
 
-_Last scanned 2026-07-14 03:19_
+_Last scanned 2026-07-15 03:22_
 
-## Builds (12)
+## Builds (9)
 
 | Customer | Receive By | Payment | Build | Ship | Asana |
 |----------|------------|---------|-------|------|-------|
-| University of Colorado Boulder | 2026-08-31 | estimate_sent | none | none | `1213756777376150` |
 | USAF SOCOM | 2026-10-30 | estimate_sent | none | delivered | `1211537088605200` |
 | DoW | — | none | in_assembly | none | `1211892779240607` |
-| USAF | 2026-05-01 | estimate_sent | none | none | `1211602206477042` |
-| NOAA | 2028-05-01 | estimate_sent | none | none | `1213688340764301` |
-| USAF / Ultra PCS | — | none | none | none | `1210813239774018` |
+| Lockheed Martin UK & UK Royal Navy | — | none | none | none | `1212843096762001` |
 | UC Santa Cruz Ocean Sciences | 2026-07-18 | estimate_sent | none | none | `1210367257543500` |
 | Murray State University | 2026-12-31 | paid | complete | delivered | `1210051293340204` |
 | NASA Ames Research Center | 2026-09-30 | invoice_sent | parts_ordered | none | `1210367258005710` |
-| Embry-Riddle Aeronautical University | 2026-08-31 | paid | in_qc | none | `1205971100510799` |
+| Embry-Riddle Aeronautical University | 2026-08-31 | paid | complete | delivered | `1205318673933832` |
 | NASA Ames | 2026-09-30 | paid | in_assembly | none | `1206482266586173` |
 | Canadian Defense Forces / NexTech Solutions | 2026-06-25 | estimate_sent | in_assembly | none | `1214795652219550` |
 

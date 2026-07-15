@@ -1,20 +1,20 @@
 # Stachura — Time Tracking
 
 ## Summary
-- **Total hours tracked**: 2,411.6 hours (cumulative) — *+9.1h this batch*
-- **Primary projects (top 5)**: Corporate/Strategic Planning (464.2h), Hurricane Phase II+ (321.2h), Project 183171534 (290.9h), SwiftCore 3.3 (187.6h), S3 IRAD (182.6h)
+- **Total hours tracked**: 2,420.8 hours (cumulative) — *+9.2h this batch*
+- **Primary projects (top 5)**: Corporate/Strategic Planning (464.7h), Hurricane Phase II+ (321.2h), Project 183171534 (290.9h), SwiftCore 3.3 (187.6h), S3 IRAD (182.6h)
 - **Time period covered**: Multiple months/years spanning IRAD, SBIR, and government contracts
-- **Latest batch**: 9.1 hours — **❌ 93.4% UNALLOCATED** | **❌ 0% DESCRIBED**
+- **Latest batch**: 9.2 hours — **❌ 94.6% UNALLOCATED** | **❌ 0% DESCRIBED**
 
 ## Project Breakdown
-- **[001-13] Corporate / Strategic Planning, Proposals & General Operations / BD Pipeline** (Overhead): 464.2 hours (19.2%)
+- **[001-13] Corporate / Strategic Planning, Proposals & General Operations / BD Pipeline** (Overhead): 464.7 hours (19.2%) — *+0.5h this batch*
 - **[301-2] SBIR - Hurricane Phase II+** (NOAA: Joe Cione): 321.2 hours (13.3%)
 - **Project 183171534**: 290.9 hours (12.0%)
 - **[001-14] SwiftCore 3.3** (IRAD): 187.6 hours (7.8%)
 - **[001-07] S3 IRAD** (IRAD): 182.6 hours (7.6%)
 - **Project 160309352**: 144.6 hours (6.0%)
 - **[001-11] Methane Emission Detection IRAD** (IRAD): 132.4 hours (5.5%)
-- **[300-3] 2026 IDIQ (Hurricane)** (NOAA): 121.9 hours (5.0%) — *+0.7h this batch*
+- **[300-3] 2026 IDIQ (Hurricane)** (NOAA): 121.9 hours (5.0%)
 - **Project 180222280**: 77.9 hours (3.2%)
 - **[200-11] ROSES Wildfire** (NASA): 70.6 hours (2.9%)
 - **[550-2] Navy STTR: Hazardous Weather** (Navy): 68.6 hours (2.9%)
@@ -25,32 +25,34 @@
 - **[001-08] Flight Testing** (IRAD): 15.7 hours (0.7%)
 - **[031-1] UMES S3** (University of Maryland Eastern Shore): 2.8 hours (0.1%)
 - **[018-1] Murray State CH4 Monitoring** (Murray State): 0.2 hours (0.01%)
-- **UNALLOCATED**: 8.4 hours (0.3%) — *critical issue*
+- **UNALLOCATED**: 17.1 hours (0.7%) — *critical escalation*
 - **Other smaller projects**: 79.3 hours (3.3%)
 
 ## Recent Activity
-- **3 entries this batch**:
-  - **[Unallocated]** — 0.0h | *No project, no description*
-  - **[Unallocated]** — 8.4h | *No project, no description* ⚠️
-  - **[300-3] 2026 IDIQ (Hurricane)** — 0.7h | *No description*
+- **2 entries this batch**:
+  - **[001-13] BD Pipeline** — 0.5h | *No description*
+  - **[Unallocated]** — 8.7h | *No project, no description* ⚠️⚠️
 
-- **Critical**: 8.4h (92.3% of batch) entered with **no project allocation**
+- **CRITICAL ESCALATION**: 8.7h (94.6% of batch) entered with **no project allocation**
+- **Cumulative unallocated over last 2 batches**: 17.1 hours (8.4h batch 53 + 8.7h batch 54)
 
 ## Patterns
-- **🔴 ALLOCATION CRISIS**
+- **🔴 SEVERE ALLOCATION CRISIS — DETERIORATING TREND**
   - Batch 50: ✅ 100% allocated
   - Batch 51: ❌ 0% allocated
   - Batch 52: ✅ 100% allocated
-  - **Batch 53: ❌ 6.6% allocated** — *regression: 8.4h unassigned*
+  - Batch 53: ❌ 6.6% allocated (8.4h unassigned)
+  - **Batch 54: ❌ 5.4% allocated (8.7h unassigned)** — *pattern continues*
 
-- **🔴 DESCRIPTION DISCIPLINE COMPLETELY ABSENT**
-  - 0 of 3 entries (0%) include task descriptions
-  - 9.1 hours contributed with zero context
-  - **Cumulative**: 17.3h over last 2 batches with no documentation
+- **🔴 DESCRIPTION DISCIPLINE COMPLETELY ABSENT — 5 ENTRIES RUNNING**
+  - 0 of 2 entries (0%) include task descriptions this batch
+  - **Cumulative over last 2 batches**: 5 entries, 17.1 hours, zero documentation
+  - **Total 17.3h+ unallocated with no context**
 
-- **[300-3] 2026 IDIQ (Hurricane)**: Minimal activity (0.7h only) this batch
+- **[001-13] BD Pipeline**: Minor allocation (0.5h) — only dedicated work to this project this batch
 
 **RECOMMENDATIONS**:
-1. **🔴 CRITICAL: Allocate 8.4h unassigned time** — Requires immediate correction; determine which project(s) this work belongs to
-2. **🔴 URGENT: Add task descriptions** — All 3 entries lack any work context
-3. **Follow-up**: Contact Stachura to recover project code for 8.4h entry and document all work performed
+1. **🔴 CRITICAL ESCALATION: Allocate 17.1h unassigned time** — Two consecutive batches show systemic allocation failure; requires immediate intervention and recovery
+2. **🔴 URGENT: Add task descriptions** — All 2 entries this batch + 5 entries over last 2 batches lack work context
+3. **IMMEDIATE ACTION**: Contact Stachura regarding pattern of unallocated entries; determine project codes for 8.7h this batch + 8.4h previous batch and document work performed
+4. **Process review**: Investigate root cause of allocation gap — possible time tracking process breakdown

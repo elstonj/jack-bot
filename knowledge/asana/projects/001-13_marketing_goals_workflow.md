@@ -23,7 +23,7 @@
 | How do we get to #1 for drone? | Unassigned | 2025-03-29 | 2025-04-10 | Strategic planning |
 
 ## Task Summary
-- **Total tasks:** 0 open, 5 completed (visible in latest raw data; full project shows 9 completed total)
+- **Total tasks:** 0 open, 0 visible in current snapshot (full project history: 9 tasks completed)
 - **Tasks by assignee:**
   - Jack Elston: 1 task (NASA symposium submission) — 100% completion
   - Unassigned: 4 tasks (website, media kit, conference participation, content) — 100% completion
@@ -39,6 +39,7 @@
 - **Strategic planning phase:** Marketing Budget and Marketing Strategy finalized by Paige Smith on 2025-02-21
 - **Visibility push completed:** Multiple initiatives (media kit, conference submissions, website updates) finished by late October 2024
 - **Project archived:** April 2025 (end of fiscal marketing cycle)
+- **Current status (as of 2026):** No open tasks; project fully archived
 
 ## Notes & Context
 
@@ -80,3 +81,8 @@ Goal management workflow template used to brainstorm, draft, and approve BST's m
 This project successfully established BST's marketing framework, digital infrastructure, and strategic positioning within the geoscience and UAS communities through 2025. It is no longer active. New marketing goals are tracked in subsequent project cycles.
 
 **⚠️ Important Clarification:** This archived project is separate from active technical engineering work. Concurrent active projects include EMASS flight tests, S0-VTOL debugging, S3 work, and Mustang progress — those belong to different, active engineering initiatives and should not be confused with this completed marketing goals workflow (May 2024 – April 2025).
+
+---
+
+### Administrative Note (July 2026)
+Team feedback from Daniel Prendergast (July 13–14, 2026) references a separate workflow initiative for post-flight maintenance processes (Maintenance Action Form integration with log parse). This is unrelated to the archived marketing goals project and belongs to active operational/engineering workflows.

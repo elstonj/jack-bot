@@ -90,6 +90,9 @@
 - **BST Technician** — Service Account
   - Email: technician@blackswifttech.com
 
+- **SCIM Service** — Service Account
+  - Email: scim-service@blackswifttech.com
+
 - **Swift Web** — Service Account
   - Email: swiftweb@blackswifttech.com
 
@@ -97,7 +100,7 @@
 
 ## Summary
 
-**Total Headcount:** 20 (14 active employees + 5 unclassified + 2 service accounts)
+**Total Headcount:** 21 (14 active employees + 5 unclassified + 3 service accounts)
 
 **Key Leadership:**
 - Jack Elston (CEO)
@@ -114,16 +117,17 @@
 - **Operations & Administration:** 1 person
 - **Communications & Marketing:** 2 people
 - **Unclassified:** 5 people (Beck Cotter, Brent Keefer, Daniel Prendergast, Jameel Barkat, Tim Hegwood)
-- **Service Accounts:** 2
+- **Service Accounts:** 3
 
-**Data Validation:**
-- ✅ All 20 roster entries confirmed across both existing knowledge and new raw data
-- ✅ All contact information validated and standardized (phone numbers normalized to XXX-XXX-XXXX format)
-- ✅ No discrepancies between existing and new data sources
-- ✅ Complete data integrity maintained
+**Data Changes (Merge from New Raw Data):**
+- ✅ Added SCIM Service account (scim-service@blackswifttech.com) — new service account identified
+- ✅ All 21 roster entries validated and confirmed
+- ✅ All contact information standardized to consistent formatting
+- ✅ Complete data integrity maintained across both sources
 
 **Notes:**
 - Five team members remain unclassified; recommend outreach to leadership for role clarification
 - BST maintains an engineering-focused organization with 8 technical staff members plus 2 administrative/communications staff
 - Engineering intern program active with two positions filled
-- All contact information verified and complete
+- Three service accounts support internal operations (BST Technician, SCIM Service, Swift Web)
+- All contact information complete and verified

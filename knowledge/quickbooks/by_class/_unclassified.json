@@ -4,34 +4,54 @@
     ""
   ],
   "period": {
-    "start": "2026-07-10",
-    "end": "2026-07-12"
+    "start": "2026-07-14",
+    "end": "2026-07-15"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 180.0,
+    "expenses": 1682.21,
     "by_category": {
-      "FACILITIES:FA-Software Expenses": 180.0
+      "OVERHEAD:OH-Other Travel Expenses": 1615.75,
+      "GA-Business Development": 66.46
     }
   },
   "invoices": [],
-  "bills": [],
+  "bills": [
+    {
+      "type": "Bill",
+      "date": "2026-07-14",
+      "doc_number": "103032391",
+      "total": 1615.75,
+      "attributed": 1615.75,
+      "vendor": "Aeronet Worldwide",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 1615.75,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "Shipping batteries to Ottawa for demo"
+        }
+      ]
+    }
+  ],
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-10",
-      "doc_number": "INVUS2600155814",
-      "total": 180.0,
-      "attributed": 180.0,
+      "date": "2026-07-14",
+      "doc_number": "",
+      "total": 66.46,
+      "attributed": 66.46,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "Purchased by Paige Smith for website",
+      "memo": "PIRATE SHIP * POSTAGE - 7333",
       "lines": [
         {
-          "amount": 180.0,
-          "account": "FACILITIES:FA-Software Expenses",
-          "description": "Software for website (1 year subscription)"
+          "amount": 66.46,
+          "account": "GA-Business Development",
+          "description": "NOAA shipping back ground station needed for Air Force demo"
         }
       ]
     }

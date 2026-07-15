@@ -15,9 +15,9 @@
     "type": "t_and_m",
     "number": null,
     "total_value": 242540.0,
-    "start_date": "2025-07-30",
-    "end_date": "2025-10-14",
-    "payment_cadence": "paid in advance",
+    "start_date": "2026-09-28",
+    "end_date": "2026-09-28",
+    "payment_cadence": "monthly",
     "documents": [
       "drive://Statement of Work",
       "drive://CRT-90P Hydrophone User Guide Rev 2.pdf",
@@ -27,40 +27,33 @@
   "budget": {
     "approved": 242540.0,
     "approved_source": "asana_custom_field",
-    "line_items": [
-      {
-        "category": "Labor",
-        "amount": 1323.0,
-        "description": "9 hours @ $147/hr (senior engineer) for T&M R&D development work 7/30/25–10/14/25",
-        "source_doc": null
-      }
-    ],
+    "line_items": [],
     "spent": {
       "labor": {
         "amount": 56286.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-14"
+        "last_updated": "2026-07-15"
       },
       "purchases": {
         "amount": 185.15,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-07-14"
+        "last_updated": "2026-07-15"
       },
       "other_qbo": {
-        "amount": 10000.0,
+        "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-07-14"
+        "last_updated": "2026-07-15"
       },
-      "total": 66471.4,
+      "total": 56471.4,
       "by_line_item": {}
     },
     "committed": 2874.06,
-    "remaining": 173194.54,
+    "remaining": 183194.54,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-14T09:02:05Z"
+    "last_reconciled": "2026-07-15T09:06:13Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -98,6 +91,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-07-14T09:02:05Z",
+  "last_full_rebuild": "2026-07-15T09:06:13Z",
   "last_incremental_update": null
 }
