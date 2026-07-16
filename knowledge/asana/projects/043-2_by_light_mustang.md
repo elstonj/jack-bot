@@ -6,14 +6,14 @@
 - **Address:** 8484 Westpark Dr. Ste. 600, McLean, VA 22102
 - **Dollar Value:** $450,000 total budget; $450,000 funding to Black Swift
 - **Timeline:** Started 2025-10-06; Original due date 2025-12-05; Core deliverables completed 2025-12-31 (26 days late)
-- **Status:** **ARCHIVED — CORE DELIVERY COMPLETE; OUTSTANDING CONTRACTUAL WORK RESUMING (July 2026)**
+- **Status:** **ARCHIVED — CORE DELIVERY COMPLETE; OUTSTANDING CONTRACTUAL WORK ACTIVE (July 2026)**
   - Core project deliverables finished Dec 31, 2025 (26 days past original due date).
-  - **Per Jack (2026-04-30):** "we still owe 2 more flight opportunities."
   - **Per Maciej (2026-07-10 & 2026-07-13):** One additional NOAA clear-air test flight scheduled for late July or early August 2026 over ocean array (North Carolina region). Requires one of Jack, Josh, Alex, or Maciej. Exact date TBD.
+  - **Per Jack (2026-04-30):** "we still owe 2 more flight opportunities" — one NOAA flight now confirmed (July/Aug 2026); one additional flight TBD.
   - **VALIDATION FLIGHT #2 PREVIOUSLY POSTPONED (Daniel Prendergast, 2026-05-13 & 2026-05-14)** — was blocked on customer DoD autopilot controller; status unclear post-July 2026.
   - **Timeline Extended (Ethan, 2026-05-05):** "ByLight project timeline has been extended due to cancellation of a demo in India."
 - **Team Members:** Maciej Stachura (owner), Ethan Domagala, Nate Straus, Meredith O'hara Needham; Pilot support: Jack Elston, Josh, Alex
-- **Priority:** Rank 4 among active projects (Maciej, 2026-04-30): (1) S3 IRAD end-of-May delivery, (2) S0-VTOL ERAU & Barbados, (3) EMASS closeout, (4) By-Lite, (5) SBIR Magnetometer
+- **Priority:** Rank 4 among active projects (Maciej, 2026-04-30): (1) S3 IRAD end-of-May delivery, (2) S0-VTOL ERAU & Barbados, (3) EMASS closeout, (4) By-Light, (5) SBIR Magnetometer
 - **Product/Service:** Design/prototyping; Consulting
 
 ## Key Deliverables & Milestones
@@ -57,14 +57,14 @@ All core invoicing milestones (4×) completed and paid through 12/17/2025.
 - **Post-Completion Activity (Late April–May 2026):**
   - **2026-04-27 (Maciej):** Directed Ethan after ByLight meeting: "let's update the due dates in Asana to realistic numbers and let them know."
   - **2026-04-30 (Jack):** Confirmed "we still owe 2 more flight opportunities." Customer has SWIL setup ready to test their own DoD autopilot controller; flight data delivered 2026-04-30.
-  - **2026-04-30 (Maciej):** **Critical blocker (then):** "Tell them there won't be any test flights next week or until we get that new fuse so they're aware that it's them causing the delay." New fuselage arrival required before next test flights. Ranked By-Lite **Priority 4** among five active projects.
+  - **2026-04-30 (Maciej):** **Critical blocker (then):** "Tell them there won't be any test flights next week or until we get that new fuse so they're aware that it's them causing the delay." New fuselage arrival required before next test flights. Ranked By-Light **Priority 4** among five active projects.
   - **2026-05-05 (Ethan):** **Timeline extended.** "ByLight project timeline has been extended due to cancellation of a demo in India. The 'yellow version' project has been clarified and asana tasks and timelines have been updated accordingly."
   - **2026-05-13 & 2026-05-14 (Daniel Prendergast):** **VALIDATION FLIGHT #2 POSTPONED** (indefinite hold at that time). CU IRISS training complete; flight postponed pending customer DoD autopilot controller readiness.
 
 - **NEW ACTIVITY (July 2026):**
   - **2026-07-10 & 2026-07-13 (Maciej):** **One additional NOAA test flight confirmed** for late July or early August 2026. Clear-air test flight over ocean array (North Carolina region, outside). Exact date TBD. Requires one of Jack, Josh, Alex, or Maciej.
-  - **2026-07-13 & 2026-07-14 (Daniel Prendergast):** Process improvement initiative: implementing automatic Maintenance Action Form workflow. At end of each flight, crew should fill out form to create Asana tasks for hardware fixes and software bugs. Request: add form link to log parse at end of log upload process.
-  - **2026-07-10 & 2026-07-13 (Beck):** Updated demo/flight calendar through September 2026 (link: Google Sheets).
+  - **2026-07-13 & 2026-07-14 (Daniel Prendergast):** Process improvement initiative: implementing automatic Maintenance Action Form workflow. At the end of each flight, crew should fill out form to create Asana tasks for hardware fixes and software bugs. Request: add form link to log parse at end of log upload process.
+  - **2026-07-10 & 2026-07-13 (Beck):** Updated demo/flight calendar through September 2026 (Google Sheets link available).
 
 ## Notes & Context
-- **Project Type:** Long-Range Fixed-Wing Evaluation & DoD Autopilot Enablement (BYL-
+- **Project Type:** Long-Range

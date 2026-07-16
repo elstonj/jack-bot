@@ -1,294 +1,266 @@
 # Enriched External Contacts
 
-# BLACK SWIFT TECHNOLOGIES — ENRICHED CONTACT DIRECTORY
+# Black Swift Technologies — Enriched External Contact Directory
 
 ## NASA
 
-### John Glass
-- **Email:** John.Glass-1@nasa.gov, John.Glass@nasa.gov
-- **Organization:** NASA
-- **Role:** Government contact
-- **Context:** Core NASA relationship; appears in broad contact list across multiple centers
-- **Projects:** Likely multi-center research and aerospace contracts
+### Core Contacts
 
-### Andrew E. Johnson
-- **Email:** Andrew.E.Johnson@jpl.nasa.gov
-- **Title:** JPL Contact
-- **Organization:** NASA Jet Propulsion Laboratory
-- **Role:** Technical lead/research liaison
-- **Context:** JPL representative on BST's external contacts
-- **Projects:** Autonomous systems, robotics, or autonomous flight research partnerships
+**Chris Meek** — NASA Langley Research Center (LARC-D201)
+- Email: christopher.b.meek@nasa.gov
+- **Role:** S0 Procurement lead; primary technical contact for Black Swift S0 system acquisition
+- **Projects:** 301-3 (S0 Procurement — NASA Langley)
+- **Recent Context:** Active procurement discussion spike (Jul 15–16, 2026); direct multi-turn coordination with Beck Cotter and Jack Elston on acquisition timeline and approval cycle. Status appears time-sensitive with multiple exchanges 11:55–20:51 UTC.
+- **Contact About:** S0 procurement decision/approval status, technical specifications for LARC-D201 deployment, delivery timeline
 
-### Tara Estlin
-- **Email:** Tara.Estlin@jpl.nasa.gov
-- **Title:** JPL Contact
-- **Organization:** NASA Jet Propulsion Laboratory
-- **Role:** Technical/scientific liaison
-- **Context:** JPL collaborator; likely involved in autonomous mission planning or rover/aerial platform work
+**John Glass** — NASA Contact
+- Email: John.Glass-1@nasa.gov, John.Glass@nasa.gov
+- **Role:** General NASA liaison (center/division TBD)
+- **Projects:** Multiple (TBD from context)
 
-### Marc Golombek
-- **Email:** mgolombek@jpl.nasa.gov
-- **Title:** JPL Contact
-- **Organization:** NASA Jet Propulsion Laboratory
-- **Role:** Science lead/Mars mission liaison
-- **Context:** Known for Mars rover mission work; likely advisor on terrain analysis or environmental sensing
-- **Contact Topics:** Mars mission parallels, terrain sensing, or atmospheric analysis for planetary missions
+**Thomas A. Weisz** — NASA Contact
+- Email: thomas.a.weisz@nasa.gov
+- **Role:** Government technical contact
 
-### Matthew M. Fladeland
-- **Email:** matthew.m.fladeland@nasa.gov
-- **Title:** NASA Contact
-- **Organization:** NASA (likely ARC — Ames Research Center)
-- **Role:** Research scientist/atmospheric expert
-- **Context:** Track record in atmospheric research and flight operations
-- **Projects:** Likely NOAA/atmospheric sensing collaboration; possibly SBIR autonomy work
+**Matthew M. Fladeland** — NASA Contact
+- Email: matthew.m.fladeland@nasa.gov
+- **Role:** Atmospheric/aeronautics research contact
 
-### Stephan R. Kawa
-- **Email:** stephan.r.kawa@nasa.gov
-- **Title:** NASA Contact
-- **Organization:** NASA (likely GSFC — Goddard Space Flight Center)
-- **Role:** Climate/atmospheric science lead
-- **Context:** Known for carbon cycle and atmospheric composition research
-- **Projects:** Atmospheric CO₂/CH₄ sensing (ties to BST's methane payload work); NOAA collaboration
+### JPL Contacts
+
+**Andrew E. Johnson** — Jet Propulsion Laboratory
+- Email: Andrew.E.Johnson@jpl.nasa.gov
+- **Role:** JPL technical lead (autonomy/robotics focus likely)
+
+**Tara Estlin** — Jet Propulsion Laboratory
+- Email: Tara.Estlin@jpl.nasa.gov
+- **Role:** JPL technical/mission planning contact
+
+**Marc Golombek** — Jet Propulsion Laboratory
+- Email: mgolombek@jpl.nasa.gov
+- **Role:** Planetary science/field operations contact
 
 ---
 
 ## NOAA (National Oceanic and Atmospheric Administration)
 
-### Laura Rock
-- **Email:** laura.rock@noaa.gov
-- **Title:** NOAA Federal Contact
-- **Organization:** NOAA
-- **Role:** Program manager / OOI (Ocean Observing Initiative) liaison
-- **Recent Interaction:** Multi-email thread (Jul 14, 2026) coordinating Pioneer Array travel with Beck Cotter, Joshua Wadler, David Richter, Danielle Varwig
-- **Projects:** 
-  - **OOI Pioneer Array** — *[ESCALATING PRIORITY]* Multi-institution ocean observation network requiring BST aircraft deployment
-- **Contact Topics:** Pioneer Array deployment timeline, aircraft configuration for ocean ops, station data collection
+### Primary Procurement & Operations
 
-### Nick Underwood
-- **Email:** nicholas.underwood@noaa.gov
-- **Title:** NOAA Federal Contact (weather/atmospheric systems)
-- **Organization:** NOAA
-- **Role:** Technical project lead / Black Swift S0 ground station procurement
-- **Recent Interaction:** **HIGH PRIORITY** — Multiple rapid exchanges (Jul 14, 2026, 9:07am–9:42am EDT) with Maciej Stachura on Black Swift S0 ground station technical specs and deployment
-- **Projects:**
-  - **Black Swift S0 ground station** — *[ACTIVE PROCUREMENT]* Integration and deployment coordination
-  - **Atmospheric research** — Boundary layer / tropical cyclone measurements
-- **Contact Topics:** S0 system specifications, ground station deployment timeline, technical requirements, integration milestones
-- **Next Steps:** Follow up on procurement schedule; likely RFQ or delivery milestone pending
+**Laura Rock** — NOAA Federal (S0 Ground Station)
+- Email: laura.rock@noaa.gov
+- **Role:** Lead technical coordinator for Black Swift S0 ground station procurement and deployment
+- **Projects:** 301-4 (S0 Ground Station — NOAA Federal deployment)
+- **Recent Context:** Direct coordination with Beck Cotter and Maciej on ground station technical requirements (Jul 15, 2026). Internal NOAA coordination with Nikolai Pawlenko on deployment logistics.
+- **Contact About:** S0 ground station specifications, deployment timelines, technical coordination with NOAA Federal divisions, equipment delivery
 
-### Danielle Varwig
-- **Email:** Not provided; likely danielle.varwig@noaa.gov
-- **Title:** NOAA Federal Contact
-- **Organization:** NOAA
-- **Role:** Administrative/coordination liaison
-- **Recent Interaction:** Jul 14, 2026 Pioneer Array travel coordination thread
-- **Projects:** OOI Pioneer Array
-- **Contact Topics:** Logistics, scheduling, administrative support for field operations
+**Nicholas Underwood** — NOAA Federal
+- Email: nicholas.underwood@noaa.gov
+- **Role:** High-priority NOAA S0 procurement contact; rapid coordination authority
+- **Projects:** 301-4 (S0 Ground Station — NOAA)
+- **Recent Context:** 6+ rapid-response emails to Maciej (Jul 14, 2026); expedited procurement coordination
+- **Contact About:** S0 ground station procurement status, urgent technical questions, delivery coordination
 
-### Steve Feuer
-- **Email:** Not provided; likely steve.feuer@noaa.gov
-- **Title:** NOAA Federal Contact
-- **Organization:** NOAA
-- **Role:** Technical or program support
-- **Recent Interaction:** Jul 14, 2026 Pioneer Array thread
-- **Projects:** OOI Pioneer Array
-- **Contact Topics:** Technical coordination, mission planning
+**Nikolai Pawlenko** — NOAA Federal
+- Email: nikolai.pawlenko@noaa.gov
+- **Role:** NOAA internal coordination on S0 ground station deployment
+- **Projects:** 301-4
+- **Recent Context:** Internal NOAA coordination with Laura Rock on S0 deployment (Jul 15, 10:41–10:47 EDT)
+- **Contact About:** Ground station technical requirements, NOAA Federal integration, multi-division coordination
 
-### Amy McLiverty
-- **Email:** Not provided; likely amy.mcliverty@noaa.gov
-- **Title:** NOAA Federal Contact
-- **Organization:** NOAA
-- **Role:** Program/extension coordinator
-- **Recent Interaction:** Jul 14–15, 2026 emails to Jack Elston regarding NOAA extension work
-- **Projects:** Active NOAA extension or continuation work
-- **Contact Topics:** Extension scope, deliverables, budget or timeline
+### Atmospheric Research Contacts
+
+**Wayne M. Angevine** — NOAA Contact
+- Email: wayne.m.angevine@noaa.gov
+- **Role:** Atmospheric boundary layer research
+
+**Allison McComiskey** — NOAA Contact
+- Email: allison.mccomiskey@noaa.gov
+- **Role:** Aerosol and atmospheric observations research
+
+**Logan Poole** — NOAA Contact
+- Email: logan.poole@noaa.gov
+- **Role:** Aerosol lidar and remote sensing contact
 
 ---
 
-## UNIVERSITIES & ACADEMIC PARTNERS
+## U.S. Navy / DoD
 
-### Joshua Wadler
-- **Email:** WADLERJ@erau.edu
-- **Title:** Faculty / Research Lead
-- **Organization:** Embry-Riddle Aeronautical University (ERAU)
-- **Role:** Pioneer Array technical lead / academic collaborator
-- **Recent Interaction:** Jul 14, 2026 travel coordination thread (Pioneer Array deployment); increasingly central to multi-institution OOI effort
-- **Projects:**
-  - **OOI Pioneer Array** — *[CRITICAL]* Leading ERAU participation; travel coordination active
-- **Contact Topics:** ERAU team logistics, academic data processing requirements, student involvement, field operation schedule
-- **Collaboration Signal:** Direct involvement suggests ERAU is co-lead or primary data processing partner for Pioneer Array
+### Naval Air Warfare Center Aircraft Division (NAWCAD)
 
-### David Richter
-- **Email:** David.Richter.26@nd.edu
-- **Title:** Researcher / Graduate Student
-- **Organization:** University of Notre Dame
-- **Role:** Pioneer Array team member
-- **Recent Interaction:** Jul 14, 2026 travel coordination (Pioneer Array deployment); active logistics planning
-- **Projects:** OOI Pioneer Array
-- **Contact Topics:** Notre Dame team logistics, academic schedule, data processing support
+**Angel R. Ruiz-Reyes CIV USN NAWCAD** — Lead Navy Contact
+- Email: angel.r.ruiz-reyes.civ@us.navy.mil
+- **Role:** Navy technical POC; primary contact for magnetometer procurement and TCE 26.2 event coordination
+- **Projects:** 301-2 (Navy Magnetometer SBIR), 301-5 (TCE 26.2 Technical Event)
+- **Recent Context:** CRITICAL ESCALATION (Jul 15–16, 2026): Direct coordination with Maciej on "Shipping Address for Bartington Sensor" (magnetometer hardware procurement); updated TCE 26.2 meeting invitation to multi-person BST team (Jul 15, 20:33 UTC). Coordinating with American Systems (Paul Jaynes), NSWC IHD (Daniel E. Klier), CNR Arlington (Donald W. Sapp).
+- **Contact About:** Magnetometer sensor fulfillment & shipping, TCE 26.2 technical event details, Navy hardware requirements, sensor integration timeline
 
-### Christopher E Hartman
-- **Email:** chartman@umes.edu
-- **Title:** Faculty / Program Lead
-- **Organization:** University of Maryland Eastern Shore (UMES)
-- **Role:** S3 training/delivery coordinator
-- **Recent Interaction:** Marked IMPORTANT (Jul 14, 2026); direct communication on S3 delivery and training
-- **Projects:**
-  - **S3 Aircraft Delivery & Training** — *[ACTIVE]* Full-day E2 Quadcopter Training scheduled Jul 28, 2026 (9am–5pm)
-- **Contact Topics:** Training schedule, aircraft configuration, student logistics, post-delivery support
-- **Next Steps:** Confirm training date; prepare curriculum/materials; coordinate aircraft shipping
+**Anthony D. Brescia** — NAWCAD Contact
+- Email: anthony.d.brescia@us.navy.mil
+- **Role:** TCE 26.2 event coordination, Navy technical review
+- **Projects:** 301-5 (TCE 26.2)
+- **Recent Context:** TCE 26.2 invitation to Black Swift team (Jul 15, 2026, 1pm MDT)
+- **Contact About:** TCE 26.2 technical presentation topics, Navy evaluation criteria, integration timeline
 
-### Tanay Topac
-- **Email:** tanaytopac@stanford.edu
-- **Title:** Researcher / Engineer
-- **Organization:** Stanford University
-- **Role:** MHP (Murphy's Pond Payloads) data alignment technical lead
-- **Recent Interaction:** Marked IMPORTANT (Jul 14, 2026); urgent multi-turn technical discussion with Nate Straus and Jack Elston
-- **Projects:**
-  - **Murphy's Pond Payloads (MHP)** — *[URGENT]* Data alignment and processing
-- **Contact Topics:** Data format specifications, payload calibration, algorithm validation, joint publication planning
-- **Next Steps:** Technical discussion ongoing; appears to be blocking issue on payload validation
+### Special Operations Command (USSOCOM)
 
----
+**Evan M. Wolff** — U.S. Special Operations Command
+- Email: evan.m.wolff.mil@socom.mil (also evan.m.wolff@socom.mil)
+- **Role:** USSOCOM RFI lead; engagement on Black Swift S0 system capabilities
+- **Projects:** 301-6 (USSOCOM RFI / S0 engagement)
+- **Recent Context:** 2 recent messages to Dan Prendergast (Jul 13–15, 2026) on "RFI S0 / USSOCOM engagement" — IMPORTANT priority. Multiple recipients indicate escalating interest.
+- **Contact About:** RFI requirements and timeline, S0 mission specifications, SOCOM evaluation process, technical demonstrations
 
-## U.S. MILITARY & SPECIAL OPERATIONS
+### U.S. Air Force / USSPACECOM
 
-### Evan M. Wolff
-- **Email:** evan.m.wolff.mil@socom.mil
-- **Title:** Government contact / Technical program lead
-- **Organization:** USSOCOM (U.S. Special Operations Command)
-- **Role:** RFI (Request for Information) lead; government procurement/requirements
-- **Recent Interaction:** Marked IMPORTANT (Jul 14, 2026); direct communication from Dan Prendergast on RFI S0 engagement; same-day back-and-forth (5-hour turnaround)
-- **Projects:**
-  - **RFI S0 / USSOCOM engagement** — *[NEW BUSINESS OPPORTUNITY]* Request for Information on S0 platform capability; likely prelude to formal solicitation
-- **Contact Topics:** S0 specifications, payload integration capability, operational requirements, delivery timeline, pricing
-- **Strategy Notes:** This appears to be new government opportunity; rapid response suggests high priority. Likely to escalate to proposal/contract phase if RFI response favorable.
-- **Next Steps:** Prepare RFI response; clarify SOCOM mission requirements; anticipate follow-up technical discussions
+**Thomas N. Wilcox** — U.S. Air Force
+- Email: thomas.wilcox.1@us.af.mil
+- **Role:** USAF clearance/certification contact
+- **Projects:** Personnel security clearances for government work
+- **Recent Context:** NEW (Jul 15, 2026) — Direct communication with Dan Prendergast on clearance status; forwarded to Claire Lybrand (USSPACECOM). IMPORTANT priority.
+- **Contact About:** Security clearance status, USAF certification requirements, USSPACECOM coordination
 
-### Anthony D. Brescia
-- **Email:** Not provided; likely anthony.d.brescia@navy.mil or similar
-- **Title:** Government contact / Navy NAWCAD (Naval Air Warfare Center Aircraft Division)
-- **Organization:** U.S. Navy
-- **Role:** Technical program officer / Navy contact
-- **Recent Interaction:** Direct collaboration with Beck Cotter on Navy SBIR matters
-- **Projects:**
-  - **Navy SBIR Magnetometer Program** — Phase II active; ongoing development and flight testing
-  - **Navy SBIR Boundary Layer** — Phase II active; tropical cyclone/high wind measurement
-- **Contact Topics:** Phase II deliverables, flight test coordination, sensor integration, field operation schedule
-- **Relationship Strength:** Established; Phase II contractor; regular technical coordination
+**Claire Lybrand** — USSPACECOM
+- Email: (implied from context; specific email not provided in source)
+- **Role:** USSPACECOM clearance/space operations coordination
+- **Projects:** Personnel clearance and space operations integration
+- **Recent Context:** Clearance status forwarded from USAF (Jul 15, 2026)
+- **Contact About:** USSPACECOM coordination on Black Swift activities, space operations integration
+
+### U.S. Navy NSWC / Other
+
+**Daniel E. Klier** — NSWC Indian Head Division
+- Email: (implied Navy contact; exact email not provided)
+- **Role:** Navy underwater/sensors research coordination
+- **Projects:** 301-2 (Magnetometer-related Navy projects)
+- **Recent Context:** Included in Angel Ruiz-Reyes coordination email chain (Jul 15–16, 2026)
+- **Contact About:** Navy sensor integration requirements, underwater operations considerations
+
+**Donald W. Sapp** — CNR Arlington
+- Email: (implied Navy contact)
+- **Role:** Navy contract/research office coordination
+- **Projects:** Government contracting and requirements
+- **Recent Context:** Included in coordination email chain
+- **Contact About:** Navy contracting requirements, technical specifications
 
 ---
 
-## DEFENSE CONTRACTORS & PARTNERS
+## Academic & Research Partners
 
-### Daniel Hesselius
-- **Email:** daniel.hesselius@halo-aero.com
-- **Title:** Business development / Technical lead
-- **Organization:** Halo Aero (defense/aerospace contractor)
-- **Role:** Navy SBIR subcontracting partner
-- **Recent Interaction:** Marked IMPORTANT (Jul 14, 2026, 16:37 UTC); direct communication with Maciej Stachura on Navy SBIR subcontract opportunity; routed through Maciej (not Jack), signaling Maciej's role as technical decision-maker
-- **Projects:**
-  - **Navy SBIR subcontracting** — *[PARTNERSHIP EXPLORATION]* Likely teaming arrangement for magnetometer or propulsion work
-- **Contact Topics:** Teaming agreement terms, technical scope division, cost share, timeline
-- **Strategy Notes:** Hesselius initiating contact suggests Halo Aero is pursuing Navy SBIR and seeking BST as subcontractor. Maciej's direct involvement (not Jack) suggests technical/propulsion focus.
-- **Next Steps:** Clarify teaming scope; review Halo's Navy SBIR proposal; define work share
+### University of Maryland Eastern Shore (UMES)
 
----
+**Christopher E. Hartman** — UMES
+- Email: (implied from context)
+- **Role:** S3 delivery and training coordination
+- **Projects:** 301-7 (S3 Delivery & Training — UMES)
+- **Recent Context:** S3 delivery and training logistics (Jul 13–15, 2026) — IMPORTANT. 2+ messages on project status.
+- **Contact About:** S3 aircraft delivery status, training schedule and requirements, payload integration
 
-## TECHNOLOGY PARTNERS & VENDORS
+### Murray State University
 
-### Shweta Choudhury
-- **Email:** schoudhury@quspin.com
-- **Title:** Technical contact / Sensor specialist
-- **Organization:** QuSpin (quantum sensing technology)
-- **Role:** Magnetometer sensor vendor; technical integration lead
-- **Recent Interaction:** Marked IMPORTANT (Jul 14, 2026); direct question to Maciej Stachura on sensor integration (routed through Maciej, not Jack, indicating Maciej owns vendor relationship)
-- **Projects:**
-  - **Navy SBIR Magnetometer Program** — *[ACTIVE]* QuSpin sensors being integrated for magnetic anomaly detection
-- **Contact Topics:** Sensor specifications, MuMetal shielding design, power/interface requirements, delivery schedule, technical support
-- **Relationship Strength:** Active integration partner; appears to be preferred vendor for Phase II magnetometer work
-
-### Parker Ackerknecht
-- **Email:** packerknecht@quspin.com
-- **Title:** Technical / Business contact
-- **Organization:** QuSpin
-- **Role:** Secondary contact; likely project manager or applications engineer
-- **Recent Interaction:** Jul 14, 2026 response from Maciej on QuSpin technical question
-- **Projects:** Navy SBIR Magnetometer
-- **Contact Topics:** Technical support, integration assistance, sensor optimization
-
-### Stefan Metzger
-- **Email:** smetzger@atmofacts.com
-- **Title:** Founder / Technical lead
-- **Organization:** AtmoFacts (atmospheric data/analytics company)
-- **Role:** Technical collaborator on Murphy's Pond dataset
-- **Recent Interaction:** Marked IMPORTANT (Jul 14, 2026); direct exchanges with Maciej Stachura on "Murphy's Pond Dataset" (9:34am and 20:27 UTC) — indicates time-sensitive technical work
-- **Projects:**
-  - **Murphy's Pond Dataset** — *[ACTIVE COLLABORATION]* Joint data processing/analysis initiative
-- **Contact Topics:** Data format, processing pipeline, validation methods, publication timeline
-- **Next Steps:** Technical coordination ongoing; appears to be payload data processing partnership
+**Darcie Liddle** — Murray State University
+- Email: dliddle@murraystate.edu
+- **Role:** P0011558 project modification coordinator
+- **Projects:** P0011558 (OOI Pioneer Array / Ocean Observatories Initiative)
+- **Recent Context:** P0011558 modification coordination (Jul 13–15, 2026) — ongoing technical updates to Dan Prendergast
+- **Contact About:** P0011558 deliverable modifications, deployment timeline, technical requirements
 
 ---
 
-## COMMERCIAL CUSTOMERS & AEROSPACE ECOSYSTEM
+## Commercial Partners & Subcontractors
 
-### Roger Riley
-- **Email:** roger@krateosky.com
-- **Title:** Program coordinator / Strategic partner
-- **Organization:** Krateo Sky (appears to be business development/operations support firm working with BST)
-- **Role:** Program management; organizing cross-company technical initiatives
-- **Recent Interaction:** Marked IMPORTANT (Jul 14, 2026); email subject "Critical Component Tiger Team Kick-Off" organizing BST, Inspired Flight, Vantage Robotics, and C-Astral
-- **Projects:**
-  - **Critical Component Tiger Team** — *[NEW INITIATIVE]* Cross-company component sourcing/supply chain effort involving:
-    - **Black Swift Technologies** (Jack Elston, Joshua Fromm)
-    - **Inspired Flight** (Jordan Weil)
-    - **Vantage Robotics** (Vijay Santhakumar)
-    - **C-Astral** (Samo Stopar)
-- **Contact Topics:** Component sourcing strategy, supply chain coordination, cost/schedule optimization, inter-company collaboration logistics
-- **Signal:** High-stakes initiative suggests critical bottleneck or capability gap in aircraft components (likely propulsion, avionics, or structural materials)
-- **Next Steps:** Join tiger team kickoff; clarify component scope; engage on technical/cost-share approach
+### Halo Aero
 
-### Jordan Weil
-- **Email:** Not directly provided; likely jord@inspiredflight.com or similar
-- **Title:** Engineering lead / Co-founder (inferred)
-- **Organization:** Inspired Flight (electric aircraft/propulsion)
-- **Role:** Technical partner on component tiger team
-- **Recent Interaction:** Jul 14, 2026 tiger team kick-off email
-- **Projects:** Critical Component Tiger Team (joint propulsion/component sourcing)
-- **Contact Topics:** Component specifications, integration feasibility, cost/schedule alignment
+**Kevin Rozmiarek** — Halo Aero
+- Email: kevin.rozmiarek@halo-aero.com
+- **Role:** SBIR subcontracting lead; Navy SBIR modifications coordinator
+- **Projects:** 301-8 (Navy SBIR Subcontracting with Halo Aero)
+- **Recent Context:** MAJOR ESCALATION (Jul 15, 2026): Rapid 4-email exchange with Beck Cotter on "Modifications to HALO SBIR" (13:36–14:03 MDT). High-volume communication spike. Also in Jack Elston coordination threads. Marked IMPORTANT across all exchanges.
+- **Contact About:** Navy SBIR modification scope and timeline, subcontracting deliverables, technical requirements, invoicing/payment
 
-### Vijay Santhakumar
-- **Email:** Not directly provided; likely vsanthakumar@vantageair.com or similar
-- **Title:** Engineering lead / Co-founder (inferred)
-- **Organization:** Vantage Robotics (advanced robotics/aerial platforms)
-- **Role:** Technical partner on component tiger team
-- **Recent Interaction:** Jul 14, 2026 tiger team kick-off email
-- **Projects:** Critical Component Tiger Team
-- **Contact Topics:** Component integration, performance requirements, timeline coordination
+**Daniel Hesselius** — Halo Aero
+- Email: daniel.hesselius@halo-aero.com
+- **Role:** Navy SBIR documentation and project management
+- **Projects:** 301-8 (Navy SBIR Subcontracting)
+- **Recent Context:** Navy SBIR document review with Jack Elston (Jul 15, 2026)
+- **Contact About:** Navy SBIR documentation requirements, project timeline, technical specifications
 
-### Samo Stopar
-- **Email:** Not directly provided; likely s.stopar@c-astral.com or similar
-- **Title:** Engineering/Business lead (inferred)
-- **Organization:** C-Astral (tactical UAS manufacturer)
-- **Role:** Technical partner on component tiger team
-- **Recent Interaction:** Jul 14, 2026 tiger team kick-off email
-- **Projects:** Critical Component Tiger Team
-- **Contact Topics:** Component sourcing, supply chain coordination, cost optimization
+### Krateo Sky (External Operations/Business Development)
+
+**Sona Raziabeegum** — Krateo Sky
+- Email: sona@krateosky.com
+- **Role:** Finance/audit coordinator; external operations partner; company announcement coordination
+- **Projects:** Multiple (finance/audit, business development)
+- **Recent Context:** KPMG audit coordination with Meredith Needham (Jul 15, 2026 — "KPMG / Black Swift Intro Call"). Joint company announcement with Jack Elston and Paige Smith (Jul 15, 2026 — internal/external communication).
+- **Contact About:** KPMG audit logistics, company announcements, business development coordination
+
+### C-Astral
+
+**Nejc Trost** — C-Astral
+- Email: nejc.trost@c-astral.com
+- **Role:** Vertiq component discussion and technical partnership
+- **Projects:** Vertiq integration/component sourcing (301-9)
+- **Recent Context:** NEW (Jul 15, 2026) — IMPORTANT: Direct multi-turn discussion on "Vertiq" component selection with Josh Fromm, Roger Riley (Krateo Sky), and Jack Elston. Appears to be urgent tactical decision. ~6-hour burst of high-priority correspondence (10:45 AM–16:48 PM MDT).
+- **Contact About:** Vertiq component technical specifications, sourcing timeline, integration requirements, cost/availability
+
+### Krateo Sky — Component Tiger Team
+
+**Roger Riley** — Krateo Sky
+- Email: Roger@krateosky.com
+- **Role:** Vertiq component discussion and critical component procurement tiger team
+- **Projects:** Component sourcing, Vertiq integration (301-9)
+- **Recent Context:** Vertiq discussion spike (Jul 15, 2026 — marked IMPORTANT). Initiated "Critical Component Tiger Team Kick-Off" (Jul 14, 2026). Active coordination with Josh Fromm, Nejc Trost (C-Astral), Jack Elston on urgent component decisions.
+- **Contact About:** Vertiq sourcing timeline and availability, component tiger team progress, technical specifications, cost options
 
 ---
 
-## EQUIPMENT & COMPONENT SUPPLIERS
+## Component & Technology Suppliers
 
-### Steven White
-- **Email:** steven@4casetech.com
-- **Title:** Sales/Product specialist
-- **Organization:** 4CaseTech (protective cases and enclosures)
-- **Role:** Pelican R60 enclosure supplier
-- **Recent Interaction:** 4 direct emails to Alex Lomis (Jul 12–14, 2026); high priority marked; rapid back-and-forth on CAD requests
-- **Projects:**
-  - **Pelican R60 CAD** — *[ACTIVE PROCUREMENT]* Custom protective case for aircraft/payload; design coordination underway
-- **Contact Topics:** CAD specifications, manufacturing timeline, prototype delivery, NDA compliance
-- **Next Steps:** Finalize CAD; prepare manufacturing quote; coordinate lead time with build schedule
+### Magnetometer / Sensor Components
 
-### Dan Fernback
-- **Email:** dan@juggerbot
+**Tom Simcox** — Bartington Instruments
+- Email: tom.simcox@bartington.com
+- **Role:** UAS-MAG high-performance Dronecan compass supplier
+- **Projects:** 301-2 (Navy Magnetometer SBIR — sensor component)
+- **Recent Context:** Magnetometer sensor shipping coordination (Jul 15–16, 2026) with Maciej and Navy NAWCAD. Appears to be on critical path for Navy delivery.
+- **Contact About:** Sensor shipping status, technical specifications, integration support, delivery timeline
+
+**Shweta Choudhury** — QuSpin
+- Email: schoudhury@quspin.com
+- **Role:** QuSpin magnetometer technical lead; direct vendor engagement on technical questions
+- **Projects:** 301-2 (Navy Magnetometer SBIR — QuSpin sensor integration)
+- **Recent Context:** Rapid technical exchanges (Jul 15–16, 2026) marked IMPORTANT. Multi-day conversation spanning 09:01am UTC Jul 15 through 04:10am IST Jul 16 (India timezone). Suggests active development/integration work with tight timeline.
+- **Contact About:** QuSpin sensor technical specifications, integration Q&A, magnetometer calibration, software/firmware updates
+
+### Avionics & Flight Control
+
+**Steven White** — 4casetech
+- Email: steven@4casetech.com, steven@4casetech.com
+- **Role:** Pelican R60 CAD design and aircraft case engineering
+- **Projects:** Aircraft case/integration design (support for 301-2, 301-5)
+- **Recent Context:** Pelican R60 CAD request with HIGH PRIORITY (Jul 2026). 4+ messages from Alex Lomis on CAD iterations and design coordination. Stevens is primary CAD contact for aircraft integration.
+- **Contact About:** Pelican R60 case design status, CAD updates, manufacturing timeline, aircraft integration specifications
+
+### Manufacturing / Electronics Components
+
+**Briana Gonzalez** — JawsTec Manufacturing LLC
+- Email: briana@jawstec.com, info@jawstec.com
+- **Role:** Manufacturing supplier; order fulfillment and logistics
+- **Projects:** Multiple (component manufacturing, orders)
+- **Recent Context:** **SUPPLY CHAIN ALERT** — "Possible order delay" flagged (Jul 15, 20:34 UTC). Multiple recent order confirmations with potential shipping delays. Affected: Alex Lomis, Sam Hild, Meredith Needham, purchasing system. IMPORTANT priority.
+- **Contact About:** Order status and delay timeline, alternative sourcing options, expedited fulfillment, manufacturing capabilities
+
+**Olivia Bakos** — Nominal.io
+- Email: olivia.bakos@nominal.io
+- **Role:** Test & validation software and bottleneck analysis
+- **Projects:** 301-9 (Test & validation — S0-AD program)
+- **Recent Context:** NEW (Jul 15, 2026) — marked IMPORTANT; direct question to Josh Fromm: "test & validation bottlenecks?" Suggests external evaluation or partnership discussion on S0-AD readiness.
+- **Contact About:** Test and validation software capabilities, process bottleneck analysis, integration timeline
+
+### 3D Printing & Fabrication
+
+**Dan Fernback** — JuggerBot 3D
+- Email: dan@juggerbot3d.com
+- **Role:** Agile manufacturing and 3D printing inquiry
+- **Projects:** Rapid prototyping and manufacturing support (project TBD)
+- **Recent Context:** Agile manufacturing inquiry from Ethan Domagala (Jul 2026)
+- **Contact About:**

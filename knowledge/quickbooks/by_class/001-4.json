@@ -4,14 +4,14 @@
     "(001-4) IRAD - S0 VTOL"
   ],
   "period": {
-    "start": "2026-07-02",
-    "end": "2026-07-03"
+    "start": "2026-07-15",
+    "end": "2026-07-16"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 82.0,
+    "expenses": 119.66,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 82.0
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 119.66
     }
   },
   "invoices": [],
@@ -19,19 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-02",
-      "doc_number": "22794",
-      "total": 82.0,
-      "attributed": 82.0,
+      "date": "2026-07-15",
+      "doc_number": "39830975",
+      "total": 119.66,
+      "attributed": 119.66,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "Paypal",
+      "memo": "",
       "lines": [
         {
-          "amount": 82.0,
+          "amount": 119.66,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "10mm 4mm spline Carbon horn x 10"
+          "description": "Wakefield Thermal"
         }
       ]
     }

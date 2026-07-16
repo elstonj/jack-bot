@@ -1,53 +1,54 @@
 # Slack Channels Overview
 
-Last scanned: 2026-07-15 02:16
+Last scanned: 2026-07-16 02:16
 
 Total channels scanned: 6
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 3 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#general** -- 2 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 5 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#s3** -- 5 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 18 messages -- [sbir-hurricane.md](sbir-hurricane.md)
-- **#swiftcore** -- 1 messages -- [swiftcore.md](swiftcore.md)
+- **#25_1-navy-sbir-magnetometer** -- 7 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#commercial-sales** -- 7 messages -- [commercial-sales.md](commercial-sales.md)
+- **#flight-testing** -- 11 messages -- [flight-testing.md](flight-testing.md)
+- **#general** -- 5 messages -- [general.md](general.md)
+- **#sbir-hurricane** -- 45 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#swiftcore** -- 10 messages -- [swiftcore.md](swiftcore.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Cross-Channel Strategic Overview
+# Black Swift Technologies - Strategic Channel Overview
 
-## Active Projects
-- **S0 Hurricane Reconnaissance**: SBIR-funded unmanned aircraft system for hurricane missions (most mature project, 2020-2026 active)
-- **S3 VTOL**: Hybrid fixed-wing/quadcopter with tilting rotors, targeting 2-3 hour endurance and automatic flight ops
-- **SwiftCore**: Core drone platform with firmware, tablet application, and flight testing (highly active, 4400+ messages)
-- **Navy Magnetometer SBIR**: QuSpin magnetometer integration for magnetic anomaly detection (MAD) applications
+## Cross-Channel Themes
 
-## Key People & Roles
-- **Jack Elston**: Leadership, proposal decisions, funding strategy, core technical oversight
-- **Joshua Fromm**: Lead engineer/designer, RF components, CAD, antenna placement, requirements documentation
-- **Maciej**: Technical support, proposal work, field operations, project coordination
-- **Beck Cotter**: Technical contributor across SBIR and magnetometer projects
-- **Danny Troke**: SwiftCore and S0 project involvement, operational updates
-- **Dan Prendergast**: Business development and operations
-- **Meredith Needham**: Budget and grants administration
-- **Sam Hild, Alex Lomis, Ben Busby**: Technical/engineering roles across multiple platforms
+### Active Projects
+- **SBIR Initiatives**: Two primary SBIR projects dominate technical work—Hurricane reconnaissance (S0 UAS) and Navy magnetometer integration (QuSpin MAD systems)
+- **SwiftCore Platform**: Central firmware/software development hub affecting all aircraft systems
+- **Multi-Platform Fleet**: Ongoing development across fixed-wing (S-series), multirotor (E2, Flamewheel), and VTOL (S0, S1-VTOL, S3) platforms
 
-## Decision Patterns
-- Funding decisions centralized through Jack Elston with Meredith Needham on budgeting
-- Technical design decisions led by Joshua Fromm (aircraft design) and Jack Elston (systems)
-- Proposals driven by federal agency priorities (SBIR focus: Navy, NOAA, DOD, NASA)
-- Flight testing coordinated across SwiftCore, S0, and S3 projects
+### Key Decision Patterns
+- **Technical-first approach**: Flight testing and engineering challenges drive project decisions across channels
+- **Vertical integration**: Projects span from firmware (#swiftcore) → flight testing (#flight-testing) → customer delivery (#commercial-sales)
+- **Government/Research focus**: SBIR projects and university/government customer base (NASA, NOAA) anchor revenue and R&D strategy
 
-## Recurring Topics
-- **Government funding**: Constant pursuit of SBIR/federal grants across multiple agencies
-- **Integration challenges**: Magnetometer, RF components, sensor mounting on aircraft
-- **Flight testing & validation**: Ongoing across all platforms
-- **Software/firmware development**: SwiftCore updates, feature implementation, bug fixes
-- **Design iteration**: CAD refinement, parts validation, requirements updates
+### Key People & Roles
+- **Jack Elston**: Leadership, firmware oversight, cross-project coordination
+- **Maciej**: Flight testing lead, technical analysis, operational coordination
+- **Joshua Fromm**: QA, component sourcing, project management
+- **Dan Prendergast**: Business development, operations, strategic planning
+- **Beck Cotter, Sam Hild, Alex Lomis**: Multi-project contributors (SBIR, magnetometer, flight testing)
+- **Danny Troke, Ben Busby**: Firmware/software and tablet application development
 
-## Cross-Channel Connections
-- **Personnel overlap**: Core team (Jack Elston, Maciej, Joshua Fromm, Beck Cotter) active across hurricane, magnetometer, and S3 projects
-- **Platform synergies**: SwiftCore firmware supports S3 VTOL and hurricane S0 development
-- **Funding strategy**: Multiple SBIR projects (hurricane, magnetometer) leveraged in grants-and-funding channel
-- **Mission progression**: S0 hurricane → S3 VTOL → SwiftCore advancement represents product line maturation
+### Recurring Topics Across Channels
+1. **Flight test coordination**: Bridges #flight-testing, #swiftcore, and project-specific channels (#sbir-hurricane, #25_1-navy-sbir-magnetometer)
+2. **Firmware/software releases**: Central bottleneck affecting all platforms and customers
+3. **Payload integration**: Recurring in both SBIR projects and commercial sales
+4. **Component sourcing & supply chain**: Spans QA, flight testing, and project delivery
+
+### Cross-Channel Connections
+- **#swiftcore ↔ #flight-testing**: Firmware updates tested immediately; bugs reported back to development
+- **#sbir-hurricane ↔ #flight-testing**: S0 development heavily dependent on test results and iteration cycles
+- **#25_1-navy-sbir-magnetometer ↔ #flight-testing**: Magnetometer payloads integrated and validated through flight operations
+- **#general ↔ All technical channels**: Leadership announcements cascade through project-specific channels; operational decisions affect all teams
+- **#commercial-sales ↔ All technical channels**: Customer delivery deadlines drive firmware priorities and flight test schedules
+
+### Operational Tempo
+High-velocity development environment (2020-2026 timeline) with overlapping SBIR deadlines, customer deliveries, and platform iterations creating concurrent engineering demands.

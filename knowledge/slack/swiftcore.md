@@ -113,4 +113,4 @@ This channel serves as the primary technical communication hub for Black Swift T
 - **Final Configuration Approved (July 10, 2026):**
   - Platform: GW7200 board in same setup as rack-mounted stations
   - Components: High precision GPS, USB wifi card, USB+FTDI for P900 radio (allows easier radio swaps), USB to OpenUPS board (NOT SMBUS)
-  - Power management:
+  - Power management: Open

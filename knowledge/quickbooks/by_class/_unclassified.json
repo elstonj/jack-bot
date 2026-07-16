@@ -4,54 +4,34 @@
     ""
   ],
   "period": {
-    "start": "2026-07-14",
-    "end": "2026-07-15"
+    "start": "2026-07-15",
+    "end": "2026-07-16"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 1682.21,
+    "expenses": 5355.31,
     "by_category": {
-      "OVERHEAD:OH-Other Travel Expenses": 1615.75,
-      "GA-Business Development": 66.46
+      "FACILITIES:FA-Office Supplies": 5355.31
     }
   },
   "invoices": [],
-  "bills": [
-    {
-      "type": "Bill",
-      "date": "2026-07-14",
-      "doc_number": "103032391",
-      "total": 1615.75,
-      "attributed": 1615.75,
-      "vendor": "Aeronet Worldwide",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 1615.75,
-          "account": "OVERHEAD:OH-Other Travel Expenses",
-          "description": "Shipping batteries to Ottawa for demo"
-        }
-      ]
-    }
-  ],
+  "bills": [],
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-14",
-      "doc_number": "",
-      "total": 66.46,
-      "attributed": 66.46,
+      "date": "2026-07-30",
+      "doc_number": "R718378251",
+      "total": 5355.31,
+      "attributed": 5355.31,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "PIRATE SHIP * POSTAGE - 7333",
+      "memo": "Ben Busby made a request via Slack. Discussion of officer servers occurred between him and Jack Elston.",
       "lines": [
         {
-          "amount": 66.46,
-          "account": "GA-Business Development",
-          "description": "NOAA shipping back ground station needed for Air Force demo"
+          "amount": 5355.31,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "Office Server Ryze AI Max+ 395 - 64GB x 2"
         }
       ]
     }

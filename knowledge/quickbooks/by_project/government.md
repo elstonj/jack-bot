@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $4,490,094.28
-- **Total Expenses (Bills + Purchases):** $1,346,089.73
+- **Total Expenses (Bills + Purchases):** $1,354,444.73
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,144,004.55 (invoiced minus expenses)
+- **Net Position:** $3,135,649.55 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -76,8 +76,8 @@
 
 ---
 
-### **Materials & Supplies: $485,608.31**
-**Number of transactions:** 225  
+### **Materials & Supplies: $493,963.31**
+**Number of transactions:** 226  
 
 **Key vendors & items:**
 
@@ -124,32 +124,26 @@
 
 - **Maxmoral 3PCS DC-099 DC Power Socket** (2026-07-09): $6.99 [DC-Direct Material Purchases]
 
-**Recent transactions (2026-06-24 to 2026-07-13):**
-- **Purchase #0624JELSTON** (2026-06-24): 
-  - $2.58 [DC-Direct Material Purchases] — By Light Supplies
-  - $20.93 [DC-Direct Material Purchases] — Navy Magnetometer
-  - Subtotal: **$23.51**
+- **Recent transactions (2026-06-24 to 2026-07-13):**
+  - **Purchase #0624JELSTON** (2026-06-24): $23.51 [DC-Direct Material Purchases]
+    - $2.58 — By Light Supplies
+    - $20.93 — Navy Magnetometer
   
-- **Purchase #0622JELSTON** (2026-06-24): 
-  - $1,281.98 [DC-Direct Material Purchases] — supplies for [550-1] Navy Magnetometer
+  - **Purchase #0622JELSTON** (2026-06-24): $1,281.98 [DC-Direct Material Purchases] — supplies for [550-1] Navy Magnetometer
 
-- **Purchase #009799** (2026-06-24): **$48.19** [DC-Direct Material Purchases]
+  - **Purchase #009799** (2026-06-24): $48.19 [DC-Direct Material Purchases]
 
-- **Purchase #0625JELSTON** (2026-06-26): **$192.10** [DC-Direct Material Purchases]
-  - $53.70 — Materials IDIQ
-  - $138.40 — Materials for [550-1] Navy Magnetometer
+  - **Purchase #0625JELSTON** (2026-06-26): $192.10 [DC-Direct Material Purchases]
+    - $53.70 — Materials IDIQ
+    - $138.40 — Materials for [550-1] Navy Magnetometer
 
-- **Purchase #69631** (2026-06-29): **$562.44** [DC-Direct Material Purchases] — JAWSTEC IDIQ components
+  - **Purchase #69631** (2026-06-29): $562.44 [DC-Direct Material Purchases] — JAWSTEC IDIQ components
 
-- **Amazon MKTPL*4Z8IL5283** (2026-06-29): **$34.59** [DC-Direct Material Purchases] — USB Flash Drive
+  - **Amazon MKTPL*4Z8IL5283** (2026-06-29): $34.59 [DC-Direct Material Purchases] — USB Flash Drive
 
-- **Purchase #03236** (2026-07-01): **$156.00** [DC-Direct Material Purchases] — Wire Transfer
-  - $130.00 — Wire transfer (no Asana request; Alex purchase via email)
-  - $26.00 — Wire transfer (no Asana request; Alex purchase via email)
+  - **Purchase #03236** (2026-07-01): $156.00 [DC-Direct Material Purchases] — Wire Transfer
+    - $130.00 — Wire transfer (no Asana request; Alex purchase via email)
+    - $26.00 — Wire transfer (no Asana request; Alex purchase via email)
 
----
-
-### **Travel: $233,889.68**
-**Number of transactions:** 89
-
-**Key vendors & categories:**
+- **Purchase #1010** (2026-07-30): **$8,355.00** [DC-Direct Material Purchases] — **S0 Deployment Tubes & Hardware**
+  - **

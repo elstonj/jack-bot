@@ -1,8 +1,8 @@
 # Asana Projects Overview
 
-Last scanned: 2026-07-15 02:09
+Last scanned: 2026-07-16 02:09
 
-Total projects scanned: 15
+Total projects scanned: 14
 
 ## Projects
 
@@ -10,12 +10,11 @@ Total projects scanned: 15
 - **SBIR - Fire UTM Phase I** — 0 tasks — [sbir_-_fire_utm_phase_i.md](sbir_-_fire_utm_phase_i.md)
 - **[001-12] Log Parse Website** — 0 tasks — [001-12_log_parse_website.md](001-12_log_parse_website.md)
 - **[001-13] Corporate / Strategic Planning** — 1 tasks — [001-13_corporate_strategic_planning.md](001-13_corporate_strategic_planning.md)
-- **[001-13] Facilities Management** — 1 tasks — [001-13_facilities_management.md](001-13_facilities_management.md)
+- **[001-13] HR General ** — 1 tasks — [001-13_hr_general.md](001-13_hr_general.md)
 - **[001-13] Marketing Goals Workflow** — 0 tasks — [001-13_marketing_goals_workflow.md](001-13_marketing_goals_workflow.md)
 - **[001-13] Purchasing** — 5 tasks — [001-13_purchasing.md](001-13_purchasing.md)
 - **[005-1] BARBADOS VTOL S0 and Training ** — 4 tasks — [005-1_barbados_vtol_s0_and_training.md](005-1_barbados_vtol_s0_and_training.md)
 - **[012-2] ERAU VTOL S0** — 5 tasks — [012-2_erau_vtol_s0.md](012-2_erau_vtol_s0.md)
-- **[039-1] Refurbished S2 Oklahoma State** — 0 tasks — [039-1_refurbished_s2_oklahoma_state.md](039-1_refurbished_s2_oklahoma_state.md)
 - **[043-2] By Light Mustang** — 3 tasks — [043-2_by_light_mustang.md](043-2_by_light_mustang.md)
 - **[043-3] ByLight M2/Halo** — 1 tasks — [043-3_bylight_m2halo.md](043-3_bylight_m2halo.md)
 - **[200-11] Persistence Demo (NASA)** — 1 tasks — [200-11_persistence_demo_nasa.md](200-11_persistence_demo_nasa.md)
@@ -30,68 +29,89 @@ Total projects scanned: 15
 
 | Metric | Value |
 |--------|-------|
-| **Total Active Revenue** | ~$1.3M+ |
-| **Active Projects** | 8 |
-| **Archived/Completed** | 4 |
-| **Critical Risk Projects** | 3 |
-| **Overdue Projects** | 3 |
+| **Total Active Project Value** | ~$1.1M+ |
+| **Critical/Overdue Projects** | 3 |
+| **Archived/Completed Projects** | 4 |
+| **Key Deadline Window** | Jul–Aug 2026 |
 
 ---
 
-## Key Active Projects
+## Active Projects (High Priority)
 
-### High-Value & Strategic
-1. **[043-2] By Light Mustang** – $450,000 | Started Oct 2025; core deliverable due Dec 5, 2025 (likely imminent/overdue)
-2. **[212-2] NASA S2 & Parts** – $89,844 | PO 80NSSC25PC031; active delivery phase
-3. **[005-1] Barbados VTOL S0 & Training** – $43,519 ($22,337 + $21,181.81) | **CRITICAL: Delivery due May 22, 2026 (at critical risk)**
-4. **[012-2] ERAU VTOL S0** – ~$42,000 | **21+ months overdue** (original Aug 2024); corrected target Aug/Sep 2026
+### 1. **[043-2] By Light Mustang** — $450,000
+- **Status:** Active; core deliverables due 2025-12-05 (timeline requires verification)
+- **Client:** By Light Professional IT Services (Bryan Sparling, Jeff Adelman)
+- **Risk:** Large contract requires close schedule management
 
-### Medium-Value
-5. **Flight Checklists** – $21,181.81 (ISARRA S0 units) | Delivery target: Aug/Sep 2026
-6. **[452-2] S2 Simulator & E2 Battery (CU Boulder)** – $3,900 | **OVERDUE (due Jun 30, 2026)** – customs delay + approval pending
-7. **[001-13] Purchasing** – High-volume operational | **🔴 ESCALATING STRESS: tasks surged 1→5; 2 overdue (Jul 1); deadlines Jul 14–16, 2026**
-8. **[001-13] Facilities Management** – Lease ($13–$14.63 NNN + $6.23 CAM) | 1 open task; routine operational
+### 2. **[212-2] NASA S2 & Parts** — $89,844
+- **Status:** Active; PO No. 80NSSC25PC031
+- **Client:** NASA Ames (Randy Hobbs, Will Wade; *Isaac Anderson contact outdated*)
+- **Risk:** Moderate; standard NASA contract execution
 
-### Corporate/Strategic
-9. **[001-13] Corporate/Strategic Planning** – ISARRA Flight Week ($21,181.81 paid May 2026) + historical pipeline ($90K–$200K+ unfunded proposals)
-
----
-
-## Risk Areas
-
-| Project | Risk Level | Issue |
-|---------|-----------|-------|
-| [001-13] Purchasing | 🔴 Critical | Task surge (1→5), 2 overdue, operational stress escalating |
-| [043-2] By Light Mustang | 🔴 Critical | $450K contract; core delivery likely due/overdue (Dec 5, 2025) |
-| [012-2] ERAU VTOL S0 | 🟠 High | 21+ months overdue; corrected target Aug/Sep 2026 |
-| [005-1] Barbados VTOL | 🟠 High | Delivery due May 22, 2026 (at critical risk) |
-| [452-2] CU Boulder Simulator | 🟠 High | Overdue; E2 battery stuck in Mexican customs; approval bottleneck (Meredith O'Hara Needham) |
-| [212-2] NASA S2 & Parts | 🟡 Medium | Contact update needed: Isaac Anderson has left NASA Ames; route to Randy Hobbs/Will Wade |
+### 3. **ISARRA Flight Week Campaign** — $21,181.81 (Invoice 1667, paid May 21, 2026)
+- **Target Delivery:** August/September 2026
+- **Scope:** 2× S0 VTOL units + ground station + tablet
+- **Clients:** ERAU (Kevin Adkins) & Barbados Meteorological Services (Sabu Best)
+- **Risk:** ⚠️ **CRITICAL** — Multiple S0 VTOL projects converging on same delivery window; supply chain/manufacturing delays evident
 
 ---
 
-## Team Allocation Patterns
+## Critical Risk Areas
 
-- **ERAU & Barbados VTOL projects**: Stretched across multiple overdue milestones
-- **Flight Checklists**: Led by Ethan Domagala (Owner) & Daniel Prendergast (Project Lead); cross-functional (EMASS, By-Lite, CU IRISS, SOCOM partners)
-- **CU Boulder (452-2)**: Daniel Prendergast awaiting sign-off from Meredith O'Hara Needham
-- **By Light Mustang**: Contact: Bryan Sparling; Tech Lead: Jeff Adelman
-- **NASA projects**: Multiple contacts; verify Isaac Anderson routing to Randy Hobbs/Will Wade
+### 🔴 **Severely Overdue Projects**
 
----
+| Project | Due Date | Status | Impact |
+|---------|----------|--------|--------|
+| **[005-1] Barbados VTOL S0** | May 22, 2026 | **OVERDUE** | Client: Barbados Met Services; $43,518 total contract |
+| **[012-2] ERAU VTOL S0** | Aug 16, 2024 | **21+ MONTHS OVERDUE** | Client: ERAU; $42,000+ revenue; repeat order risk |
+| **[452-2] S2 Simulator/E2 Battery (CU Boulder)** | Jun 30, 2026 | **OVERDUE** | $3,900 contract; E2 battery stuck in Mexican customs; awaiting Meredith O'hara Needham's authorization |
+| **[001-13] Purchasing – SendCutSend Task** | Jul 4, 2026 | **OVERDUE (Jul 14+)** | Affects all projects; 3 additional tasks due Jul 15–16 |
 
-## Upcoming Deadlines (Critical)
+### ⚠️ **Systemic Issues**
 
-| Date | Project | Status |
-|------|---------|--------|
-| Jul 1, 2026 | [001-13] Purchasing | **OVERDUE** (2 tasks) |
-| Jul 14–16, 2026 | [001-13] Purchasing & Facilities | Tasks due |
-| Aug/Sep 2026 | [012-2] ERAU VTOL & Flight Checklists | Delivery target |
-| May 22, 2026 | [005-1] Barbados VTOL | At critical risk |
-| Dec 5, 2025 | [043-2] By Light Mustang | Core delivery likely due/overdue |
+1. **S0 VTOL Manufacturing Bottleneck:** Two major clients (ERAU, Barbados) severely delayed; ISARRA campaign (Aug/Sep 2026) at risk of same delays
+2. **Supply Chain Delays:** Mexican customs hold on battery; SendCutSend vendor delays affecting purchasing workflow
+3. **Approval Bottleneck:** Meredith O'hara Needham (payroll/legal sign-off) is blocking CU Boulder project completion and potentially customs clearance
+4. **Contact Management:** Isaac Anderson (NASA) outdated; routing needs correction to Randy Hobbs/Will Wade
 
 ---
 
-## Summary
+## Team Allocation & Key Personnel
 
-BST manages **~$1.3M+ in active revenue** across 8 projects, with **3 critical overdue deliverables** (Purchasing operations surge, By Light Mustang, ERAU VTOL) and **2 at-risk projects** (Barbados VTOL, CU Boulder). **Immediate action required** on operational purchasing stress and By Light core delivery verification. Long-running VTOL projects (ERAU, Barbados) require timeline remediation planning for Aug/Sep 2026 targets.
+| Role/Person | Key Assignments |
+|-------------|-----------------|
+| **Daniel Prendergast** | Flight Checklists (lead); S2 Simulator logistics; awaiting clearance |
+| **Ethan Domagala** | Flight Checklists (owner) |
+| **Meredith O'hara Needham** | HR/Payroll approval; blocking customs authorization |
+| **Nate Straus** | ByLight M2/Halo launcher modification |
+| **Ben Busby** | *Archived projects* (Log Parse Website lead) |
+| **Alex Lomis** | *Archived projects* (SBIR Fire UTM lead) |
+
+---
+
+## Archived/Completed Projects
+
+- **[001-12] Log Parse Website** ✓ (Completed Oct 2025)
+- **[200-11] Persistence Demo (NASA)** ✓ (Completed Nov 24, 2025; $74,428 received)
+- **SBIR - Fire UTM Phase I** ✓ (Completed Feb 7, 2024; $56,318 invoiced)
+- **[001-13] Marketing Goals Workflow** ✓ (Completed Apr 2025)
+
+---
+
+## Upcoming Deadlines & Action Items
+
+| Date | Task/Deliverable | Owner | Action |
+|------|------------------|-------|--------|
+| **Jul 4–17, 2026** | Purchasing workflow (5 open tasks) | Operations | **URGENT:** Resolve SendCutSend delay; process 3 Jul 15–16 tasks |
+| **Aug/Sep 2026** | ISARRA Flight Week deliverables | Flight Ops | **CRITICAL:** Manufacturing/QA sign-off for 2× S0 VTOL units |
+| **TBD (2025-12-05?)** | By Light Mustang core deliverables | Eng/Ops | Verify schedule; align with resource capacity |
+
+---
+
+## Key Recommendations
+
+1. **Immediate:** Unblock Meredith O'hara Needham's approval queue (customs + CU Boulder)
+2. **Escalate:** VTOL manufacturing timeline for ISARRA campaign (Aug/Sep risk is high)
+3. **Correct:** Update NASA contact to Randy Hobbs (Isaac Anderson no longer active)
+4. **Monitor:** By Light Mustang ($450K) schedule; largest contract on books
+5. **Review:** ERAU client relationship (21+ month delay); assess retention risk

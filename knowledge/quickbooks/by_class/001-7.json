@@ -4,14 +4,14 @@
     "(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-07-09",
-    "end": "2026-07-10"
+    "start": "2026-07-15",
+    "end": "2026-07-16"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 217.54,
+    "expenses": 19.69,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 217.54
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 19.69
     }
   },
   "invoices": [],
@@ -19,19 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-09",
-      "doc_number": "260621W008238",
-      "total": 217.54,
-      "attributed": 217.54,
+      "date": "2026-07-30",
+      "doc_number": "260712W002688",
+      "total": 19.69,
+      "attributed": 19.69,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 217.54,
+          "amount": 19.69,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Shipment from Lee Skidmore to BST"
+          "description": "Pick-up fee for shipment to Sean Cole for S3 on 7/6/26"
         }
       ]
     }

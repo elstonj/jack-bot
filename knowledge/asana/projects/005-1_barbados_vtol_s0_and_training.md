@@ -8,7 +8,7 @@
   - $21,181.81 (ISARRA Flight Week campaign—two S0 VTOL units + ground station + tablet; Invoice 1667 paid May 21, 2026)
 - **Timeline:**
   - Original project due: 2024-10-01 (passed)
-  - **S0 VTOL delivery due: May 22, 2026 (AT CRITICAL RISK)**
+  - **S0 VTOL delivery due: May 22, 2026 (CRITICAL DELAY)**
   - S0 VTOL handoff meeting: June 23, 2026
   - Operator training delivery: July 1–4, 2026 (Barbados; 6 trainees including Junior Brathwaite)
   - ISARRA Flight Week campaign: August/September 2026 (two units in QC as of July 3, 2026; August delivery target confirmed)
@@ -50,4 +50,4 @@
 | **Generate NetCDF on UA or Tablet** | Maciej Stachura | *No due date* | ⚠️ **OPEN** | Technical requirement for meteorological data collection and analysis; supports mission objective to intercept developing storms. |
 | **ISM Band Interference Verification** | *Not assigned* | *Not scheduled* | ⚠️ **CRITICAL** | **ACTION REQUIRED:** Verify Microhard P900 (FCC ID: NS913P900; IC ID: 3143A-13P900; PN: MHS185000; 902–928 MHz frequency-hopping, 200 kHz channels) mitigation against interference risk in unregulated ISM band. **Barbados Prime Minister's Office flagged concern:** "the frequency range 902 MHz to 928 MHz is the unregulated ISM band and your drone may be prone to interference when it operates in this band." Brochure: https://www.microhardcorp.com/brochures/P900.Brochure.Rev.1.4.4.pdf. Must complete before operational deployment. |
 | **NDAA Compliance Finalization** | *Not assigned* | *Not scheduled* | ⚠️ **OPEN** | Per Alex Lomis (April 17, 2026): S0 VTOL "can be" compliant but not "fully" compliant yet. Status and timeline unclear. |
-| **ISARRA Flight Week Campaign —
+| **ISARRA Flight Week Campaign — Two

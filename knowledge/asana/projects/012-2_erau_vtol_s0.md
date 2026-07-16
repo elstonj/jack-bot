@@ -11,10 +11,10 @@
 - **Status:** **ACTIVE — SECOND-HIGHEST PRIORITY** (after S3 IRAD per Maciej, April 30, 2026). **Severely delayed but progressing.** Two S0 VTOL units **in QC as of July 3, 2026** (per Jack Elston). Flight-testing ongoing to resolve tracking bug (per Beck, March 17, 2026). Revenue secured; customer approved August delivery plan.
 - **Team Members:** Alex Lomis (owner/lead), Jack Elston (delivery coordination), Dan Prendergast (training), Maciej (project coordination), Beck (flight-testing), engineering support (bench testing, troubleshooting, crash bug investigation)
 - **Risk Signals:** 
-  - **CRITICAL: August/September 2026 delivery commitment for ISARRA Flight Week** — tight timeline with flight-testing still unresolved as of March 2026
-  - **QC stage now active (July 3, 2026)** — units progressing but logistics undefined
+  - **CRITICAL: August/September 2026 delivery commitment for ISARRA Flight Week** — tight timeline with flight-testing tracking bug still unresolved as of March 2026
+  - **QC stage now active (July 3, 2026)** — units progressing but final logistics undefined
   - **Ownership gap on final-mile delivery:** 3 of 5 delivery/closure tasks unassigned; Jack Elston has not yet set "Final due date for delivery" task date
-  - **Original contract payment status unclear** — ISARRA Invoice 1667 paid, but $20,805.39 original invoice status unknown
+  - **Original contract payment status:** ISARRA Invoice 1667 ($21,181.81) confirmed paid May 21, 2026; status of original $20,805.39 invoice unknown
 
 ## Key Deliverables & Milestones
 
@@ -22,7 +22,7 @@
 - **Contract Value:** $21,181.81 (Invoice 1667, paid May 21, 2026)
 - **Timeline:** August/September 2026 delivery to align with ISARRA Flight Week logistics
 - **Customer Approval:** Kevin Adkins approved plan (per Jack Elston, May 21, 2026)
-- **Current Status:** In QC as of July 3, 2026 (per Jack Elston)
+- **Current Status:** In QC as of July 3, 2026 (per Jack Elston, July 6 Slack confirmation)
 - **Technical Blockers:** Flight-testing ongoing to resolve tracking bug (per Beck, March 17, 2026); **no resolution ETA or current status as of latest update**
 
 ### Original S0 VTOL Unit Delivery — $20,805.39
@@ -43,14 +43,14 @@
 - **Pattern:** All logistics tasks lack ownership and due dates despite August 2026 commitment and paid invoice
 
 ## Recent Activity
-- **July 6, 2026:** Jack Bot relayed Slack correction confirming QC status and paid invoice (ISARRA campaign, Invoice 1667, $21,181.81)
+- **July 6, 2026:** Jack Bot relayed Slack confirmation: Two units in QC, Invoice 1667 ($21,181.81) paid May 21, 2026; Jack Elston and Kevin Adkins confirmed August delivery target aligned with ISARRA planning and transport logistics
 - **July 3, 2026:** Units transitioned to QC stage (per Jack Elston Slack)
 - **May 21, 2026:** Invoice 1667 ($21,181.81) paid; Kevin Adkins approved August delivery target aligned with ISARRA planning (Jack Elston, Slack #commercial-sales)
 - **March 17, 2026:** Flight-testing ongoing; tracking bug resolution in progress (per Beck)
 
 ## Notes & Context
 - **Scope Expansion Confirmed:** Original single-unit contract ($20,805.39) expanded to **two units with ground station and tablet for ISARRA Flight Week campaign** (additional $21,181.81, Invoice 1667 paid May 21, 2026). Project notes indicate ERAU evaluating potential 4-unit follow-on purchase (estimates pending).
-- **Tracking Bug:** Per Beck (March 17, 2026), flight-testing to resolve tracking bug is ongoing. Units in QC suggest issue is contained but **still unresolved as of latest update**. No current status or ETA provided.
+- **Tracking Bug:** Per Beck (March 17, 2026), flight-testing to resolve tracking bug is ongoing. Units in QC as of July 6 suggest issue is contained but **still unresolved as of latest update**. No current status or ETA provided.
 - **NDAA Compliance:** S0 VTOL "can be" NDAA compliant but not fully compliant yet (per Alex Lomis, April 17, 2026).
 - **Immediate Action Items:**
   1. **Jack Elston:** Set final due date for delivery task (target: early August 2026 to meet ISARRA Flight Week timeline)

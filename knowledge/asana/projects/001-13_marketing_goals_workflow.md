@@ -23,7 +23,7 @@
 | How do we get to #1 for drone? | Unassigned | 2025-03-29 | 2025-04-10 | Strategic planning |
 
 ## Task Summary
-- **Total tasks:** 0 open, 0 visible in current snapshot (full project history: 9 tasks completed)
+- **Total tasks:** 0 open, 9 completed (full project history)
 - **Tasks by assignee:**
   - Jack Elston: 1 task (NASA symposium submission) — 100% completion
   - Unassigned: 4 tasks (website, media kit, conference participation, content) — 100% completion
@@ -39,7 +39,7 @@
 - **Strategic planning phase:** Marketing Budget and Marketing Strategy finalized by Paige Smith on 2025-02-21
 - **Visibility push completed:** Multiple initiatives (media kit, conference submissions, website updates) finished by late October 2024
 - **Project archived:** April 2025 (end of fiscal marketing cycle)
-- **Current status (as of 2026):** No open tasks; project fully archived
+- **Current status (as of July 2026):** No open tasks; project fully archived
 
 ## Notes & Context
 
@@ -77,12 +77,10 @@ Goal management workflow template used to brainstorm, draft, and approve BST's m
 ### Cross-Project References
 - S0 documentation work tracked in separate Asana project 1207199631174002 (engineering/product documentation)
 
+### Related Active Initiatives (Out of Scope for This Archive)
+- **Maintenance Action Form workflow:** Daniel Prendergast is working to integrate a Maintenance Action Form into post-flight processes to automatically create Asana tasks for hardware fixes and software bugs (July 2026). This is part of active operational/engineering workflows, not this archived marketing goals project.
+
 ## Archive Note
 This project successfully established BST's marketing framework, digital infrastructure, and strategic positioning within the geoscience and UAS communities through 2025. It is no longer active. New marketing goals are tracked in subsequent project cycles.
 
 **⚠️ Important Clarification:** This archived project is separate from active technical engineering work. Concurrent active projects include EMASS flight tests, S0-VTOL debugging, S3 work, and Mustang progress — those belong to different, active engineering initiatives and should not be confused with this completed marketing goals workflow (May 2024 – April 2025).
-
----
-
-### Administrative Note (July 2026)
-Team feedback from Daniel Prendergast (July 13–14, 2026) references a separate workflow initiative for post-flight maintenance processes (Maintenance Action Form integration with log parse). This is unrelated to the archived marketing goals project and belongs to active operational/engineering workflows.
