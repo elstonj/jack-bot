@@ -1,55 +1,75 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-07-15 02:23
+Last scanned: 2026-07-16 02:23
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 5 files — [federal_projects.md](federal_projects.md)
-- **Sales** — 1 files — [sales.md](sales.md)
+- **Federal Projects** — 7 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 7 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Shared Drive Strategic Overview
+# Black Swift Technologies — Google Drive Strategic Overview
 
 ## Summary Statistics
-- **Total Files:** 6 documents across 2 drives
-- **Organization Quality:** Minimal — drives are severely underdeveloped
-- **Last Activity:** July 2026 (current), with anomalous 2099 dates
+- **Total documented files:** 14 files across 2 active drives
+- **Primary organization:** Federal compliance vs. Sales/Client work (siloed by business function)
+- **Activity window:** All recent activity concentrated in July 2026
 
-## Drive Breakdown
+---
+
+## Drive-Level Analysis
 
 ### Federal Projects Drive
-**5 files** — Focus on compliance and contracting
-- **Key Resources:** CIS form, IRF template, OGX system documentation
-- **Media:** 2 video files (RC_VID_0008/0009) with future timestamps — likely data entry errors
-- **Assessment:** Sparse but organized by document type; appears to be a repository for federal compliance templates
+**Status:** Minimal but critical compliance focus
+- **7 files, 0 folders** — Flat structure with no organizational hierarchy
+- **Key content:** Federal contractor compliance (CIS surveys, reference DAQA2605)
+- **Observations:**
+  - Duplicate/versioned CIS documents suggest ongoing compliance updates (last modified July 2026)
+  - No folder structure = difficult to scale as federal engagement grows
+  - Single point of contact (Meredith Needham) for recent updates
 
 ### Sales Drive
-**1 file** — Minimal documentation
-- Single sales quote document
-- Severely underdeveloped for a sales function
+**Status:** Active client engagement in progress
+- **7 files, 2 folders** — Minimal structure with one active client folder
+- **Key client:** Halo Aerospace (Phase 1 CUAS SBIR submission)
+- **Content types:** Technical proposals, budget justification, statements of work, cover letters
+- **Observations:**
+  - 2026-06-28 folder is empty (archive or abandoned)
+  - All activity concentrated on single active client (Halo Aerospace)
+  - Files show collaborative editing (Beck Cotter, Jack Elston)
+  - Naming conventions inconsistent (mixed case, embedded dates, redundant .pdf.pdf extension)
 
-## Key Observations
+---
 
-| Category | Finding |
-|----------|---------|
-| **Documentation Gap** | Only 6 total files across both drives suggests either incomplete migration or minimal use of shared drives |
-| **Client/Project Tracking** | No visible organization by client, project, or opportunity |
-| **Templates** | IRF and CIS templates indicate federal compliance infrastructure; templates could be standardized across organization |
-| **Cross-Drive Patterns** | Clear separation (Federal = compliance; Sales = minimal) but little integration |
-| **Naming Conventions** | Inconsistent — mix of descriptive names and generic titles |
+## Cross-Drive Patterns & Observations
+
+| Pattern | Federal | Sales |
+|---------|---------|-------|
+| **Organization** | Flat, no folders | Minimal folder structure |
+| **Activity** | Compliance-driven | Client project-driven |
+| **Collaboration** | Single editor (Needham) | Multiple editors (Cotter, Elston) |
+| **Documents** | Static/evergreen | Time-sensitive (proposals) |
+
+---
 
 ## Areas Requiring Attention
 
-🔴 **Critical Issues:**
-- Sales drive severely under-resourced — missing proposals, contracts, pipeline tracking
-- No visible folder structure or project organization
-- Timestamp anomalies (2099 dates) suggest data quality issues
+1. **Organizational structure:** Both drives lack scalable folder hierarchies
+2. **Naming conventions:** Inconsistent formatting, duplicate file extensions, unclear versioning
+3. **Empty folders:** 2026-06-28 on Sales drive should be archived or deleted
+4. **Documentation gaps:** Sales folder incomplete (summary cut off); Federal drive missing contract/SOW details
+5. **Version control:** Duplicate CIS documents suggest unclear versioning strategy
+6. **Growth readiness:** Current structure will not support multiple clients or federal contracts
 
-🟡 **Recommendations:**
-- Establish standardized folder hierarchy by client/project
-- Migrate additional sales collateral and proposal templates
-- Audit and correct file metadata (timestamps)
-- Define documentation standards for federal vs. commercial work
+---
+
+## Key Recommendations
+
+- Implement consistent folder taxonomy by client/project + document type
+- Establish naming convention standard (e.g., `[Client]_[DocType]_[Date]_v#`)
+- Clarify version control process (remove duplicates or clearly label iterations)
+- Archive or delete empty folders
+- Add templates folder for proposals, budgets, and compliance documents

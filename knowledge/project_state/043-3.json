@@ -26,16 +26,16 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 38927.5,
+        "amount": 39015.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-15"
+        "last_updated": "2026-07-16"
       },
       "purchases": {
         "amount": 0.0,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-07-15"
+        "last_updated": "2026-07-16"
       },
       "other_qbo": {
         "amount": 79.92,
@@ -43,13 +43,13 @@
         "confidence": "exact",
         "last_updated": "2026-07-08"
       },
-      "total": 39007.42,
+      "total": 39094.92,
       "by_line_item": {}
     },
-    "committed": 1517.92,
-    "remaining": 86103.66,
+    "committed": 1824.82,
+    "remaining": 85709.26,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-15T09:04:57Z"
+    "last_reconciled": "2026-07-16T09:04:15Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -75,6 +75,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-07-15T09:04:57Z",
+  "last_full_rebuild": "2026-07-16T09:04:15Z",
   "last_incremental_update": null
 }

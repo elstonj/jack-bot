@@ -2,38 +2,39 @@
 
 ## By Product/System
 
-### S-Series Aircraft Platforms
-- **BST Response to Final Report** – EMASS, 2026-07-09 – Technical assessment of ECS-DOT integration with S-series platforms and BST AP (Autopilot) system (bst_response_to_final_report.md)
+### S0 (Magnetometer Variant)
+- **N251-016 Expendable Sonobuoy-Launched UAV for ASW Cued Search** – U.S. Navy – July 15, 2026 – Phase I Option meeting for magnetometer-equipped aerial platform for submarine detection and classification (2026-07-15_meeting.md)
 
-### Multi-Product/General
-- **Phase I Final Report Instructions - CLIN 0007** – Department of the Navy, 2023 – Standard template and instruction document for SBIR/STTR Phase I final reports (phase_i_final_report_instructions_clin0007.md)
+### Bartington UAS-MAG
+- **N251-016 Expendable Sonobuoy-Launched UAV for ASW Cued Search** – U.S. Navy – July 15, 2026 – Integration of Bartington magnetometer in Navy SBIR UAV platform (2026-07-15_meeting.md)
+
+### QuSpin Magnetometer
+- **N251-016 Expendable Sonobuoy-Launched UAV for ASW Cued Search** – U.S. Navy – July 15, 2026 – Magnetometer sensor evaluation for submarine detection capability (2026-07-15_meeting.md)
 
 ---
 
 ## By Client/Agency
 
-### Department of the Navy (DON)
-- **Phase I Final Report Instructions - CLIN 0007** – 2023 – Standard template and instruction document for SBIR/STTR Phase I final reports (phase_i_final_report_instructions_clin0007.md)
-
-### EMASS
-- **BST Response to Final Report** – 2026-07-09 – Technical assessment of ECS-DOT integration with S-series platforms and BST AP (Autopilot) system (bst_response_to_final_report.md)
+### U.S. Navy
+- **N251-016 Expendable Sonobuoy-Launched UAV for ASW Cued Search, Detection, Tracking, and Classification - Phase I Option Meeting** – July 15, 2026 – Navy SBIR program progress update on ASW detection platform (2026-07-15_meeting.md)
 
 ---
 
 ## By Application Area
 
-### Systems Integration & Partnership Evaluation
-- **BST Response to Final Report** – EMASS, 2026-07-09 – Technical assessment of ECS-DOT integration with S-series platforms and BST AP (Autopilot) system (bst_response_to_final_report.md)
+### Anti-Submarine Warfare (ASW)
+- **N251-016 Expendable Sonobuoy-Launched UAV for ASW Cued Search** – U.S. Navy – July 15, 2026 – Magnetometer-equipped UAV for submarine detection, tracking, and classification (2026-07-15_meeting.md)
 
-### Government Contracting (SBIR/STTR)
-- **Phase I Final Report Instructions - CLIN 0007** – Department of the Navy, 2023 – Standard template and instruction document for SBIR/STTR Phase I final reports (phase_i_final_report_instructions_clin0007.md)
+### Submarine Detection
+- **N251-016 Expendable Sonobuoy-Launched UAV for ASW Cued Search** – U.S. Navy – July 15, 2026 – Airborne magnetometry for undersea target localization (2026-07-15_meeting.md)
 
 ---
 
 ## By Document Type
 
-### Instructions & Templates
-- **Phase I Final Report Instructions - CLIN 0007** – Department of the Navy, 2023 – Standard template and instruction document for SBIR/STTR Phase I final reports (phase_i_final_report_instructions_clin0007.md)
+### Meeting Presentations / Progress Updates
+- **N251-016 Expendable Sonobuoy-Launched UAV for ASW Cued Search, Detection, Tracking, and Classification - Phase I Option Meeting** – U.S. Navy – July 15, 2026 – Phase I Option progress meeting and technical discussion (2026-07-15_meeting.md)
 
-### Technical Assessments & Reports
-- **BST Response to Final Report** – EMASS, 2026-07-09 – Technical assessment of ECS-DOT integration with S-series platforms and BST AP (Autopilot) system (bst_response_to_final_report.md)
+---
+
+**Note:** Only one document provided. Catalog will expand as additional BST proposals, reports, and technical documents are added.

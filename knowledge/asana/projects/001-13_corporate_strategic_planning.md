@@ -78,9 +78,9 @@
 - **Risk**: Delivery contingent on successful bug resolution
 
 ### June 2026 — Kareem Return & Task Allocation (AUTHORITATIVE)
-**[FEEDBACK, Jack, Jun 15–16, 2026]**: Kareem returning June 15 @ 12:00 PM. Jack coordinating immediate task allocation:
-- **Primary options**: S0 component fabrication OR ground station completion (needs input from Meredith and unnamed team member on priority)
-- **Priority alternative**: **Wildfire video project** — Jack requesting Meredith O'Hara Needham coordinate division of labor to finalize and complete
+**[FEEDBACK, Jack, Jun 16, 2026]**: Kareem returning June 15 @ 12:00 PM. Jack coordinating immediate task allocation:
+- **Primary options**: S0 component fabrication OR ground station completion
+- **Priority alternative**: **Wildfire video project** — Jack requesting Meredith O'Hara Needham coordinate division of labor with Kareem to finalize and complete
 - Additional slide projects queued pending team feedback on priorities
 - **Status**: Task assignment pending team coordination
 
@@ -104,6 +104,7 @@ Project notes indicate ongoing development of marketing strategy with the follow
 - Current/past customers: NOAA, NASA (Aren 2023: $90K), DoD, CO OEDIT ($152K)
 - Primary channels: LinkedIn, email
 
-### Outstanding Item
+### Outstanding Items
 - **Lease Termination Planning** (Open, unassigned, no due date)
   - Property: 6
+  - Context: 6.23 CAM real

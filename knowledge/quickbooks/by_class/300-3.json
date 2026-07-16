@@ -4,13 +4,15 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-07-14",
-    "end": "2026-07-15"
+    "start": "2026-07-15",
+    "end": "2026-07-16"
   },
   "totals": {
     "revenue": 72000.0,
-    "expenses": 0.0,
-    "by_category": {}
+    "expenses": 8355.0,
+    "by_category": {
+      "DIRECT COSTS:DC-Direct Material Purchases": 8355.0
+    }
   },
   "invoices": [
     {
@@ -38,7 +40,26 @@
     }
   ],
   "bills": [],
-  "purchases": [],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-07-30",
+      "doc_number": "1010",
+      "total": 8355.0,
+      "attributed": 8355.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 8355.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "S0 Deployment Tubes & Hardware"
+        }
+      ]
+    }
+  ],
   "purchase_orders": [],
   "payments": []
 }

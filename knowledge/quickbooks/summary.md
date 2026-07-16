@@ -1,6 +1,5 @@
 # BST Financial Overview (QuickBooks)
-
-**Report Period:** July 14-15, 2026 | **Data Span:** April 2024 – September 2026
+**Report Period: July 15–16, 2026 | Data Range: April 2024 – September 2026**
 
 ---
 
@@ -9,66 +8,57 @@
 | Metric | Amount |
 |--------|--------|
 | **Total Revenue (Invoiced)** | $4,512,988.64 |
-| **Total Expenses** | $2,547,689.77 |
-| **Net Income (Period)** | -$1,701.13 |
-| **Net Position (Cumulative)** | $1,965,298.87 |
+| **Total Expenses** | $2,581,979.70 |
+| **Net Income (Period P&L)** | -$119.66 |
+| **Net Position (Revenue vs. Expenses)** | $1,931,008.94 |
 
-*Note: Period P&L shows 2-day window (-$1,701.13); cumulative position reflects 27+ months of activity across all projects.*
+**Note:** The period P&L shows only transactions from July 15–16 (minimal activity). The net position reflects cumulative project data across the full tracking period.
 
 ---
 
 ## By Project/Class
 
-### 1. **Government** *(Primary Revenue Driver)*
-- **Total Revenue:** $4,490,094.28
-- **Total Expenses:** $1,346,089.73
-- **Net Position:** $3,144,004.55
-- **Active Invoices:** 76
-- **Outstanding AR:** $3,223,783.82
-- **Status:** Strong profitability; significant cash-in-transit
+| Project | Total Revenue | Total Expenses | Net Position |
+|---------|----------------|----------------|--------------|
+| **Government** | $4,490,094.28 | $1,354,444.73 | **$3,135,649.55** |
+| **BST Internal** | $22,894.36 | $1,227,594.97 | **-$1,204,700.61** |
+| **Unclassified (P&L)** | $0.00 | $119.66 | **-$119.66** |
 
-### 2. **BST Internal** *(Overhead/Operations)*
-- **Total Revenue:** $22,894.36
-- **Total Expenses:** $1,201,600.04
-- **Net Position:** -$1,178,705.68
-- **Transactions:** 1,270 (all confirmed)
-- **Outstanding POs:** $1,700.00 (Amprius, PO #1038)
-- **Status:** Cost center; expenses far exceed revenue (expected for internal operations)
+**Status:** Government contracts are highly profitable. BST Internal operations are operating at a significant loss (expenses exceed revenue by $1.2M+).
 
 ---
 
 ## Cash Flow Indicators
 
-| Indicator | Amount | Status |
-|-----------|--------|--------|
-| **Accounts Receivable (Outstanding)** | $3,223,783.82 | ⚠️ Large pending collections from Government contracts |
-| **Recent Expenses (Period)** | $1,701.13 | Business Development, Travel, R&D |
-| **Outstanding Purchase Orders** | $2,532.00 | Amprius supplies ($1,700 BST Internal; $832 Government) |
+### Accounts Receivable (Outstanding)
+- **Government Projects:** $3,223,783.82 outstanding across 76 active invoices
+- **BST Internal:** Balance not detailed in provided data
+- **Total Outstanding:** ~$3.2M+ in unpaid invoices
 
----
+### Expense Patterns
+- **Research & Development (IRAD):** $119.66 (current period)
+- **Cumulative New Expenses (Recent):** $25,994.93
+- **Outstanding Purchase Orders:** $2,532.00 total
+  - BST Internal: PO #1038 to Amprius ($1,700.00)
+  - Government: $832.00
 
-## Top Expense Categories (Current Period)
-
-| Category | Amount |
-|----------|--------|
-| OH-Other Travel Expenses | $1,615.75 |
-| GA-Business Development | $66.46 |
-| IRAD-Internal Research & Development | $18.92 |
+### Project Activity Status
+- **Government:** Active (76 recent invoices through Sept 2026)
+- **BST Internal:** Ongoing operations (1,273 transactions over 27 months; consistent burn rate)
 
 ---
 
 ## Key Observations
 
-✅ **Strengths:**
-- Government contracts generating $4.49M in revenue with 70% net margin
-- Positive cumulative net position of $1.97M over 27-month period
-- Strong AR collection basis ($3.2M outstanding from creditworthy customers)
+⚠️ **Cash Flow Risk:** While Government projects show $3.1M net profitability, $3.2M remains uncollected. BST Internal projects are consuming cash at an unsustainable rate ($1.2M deficit).
 
-⚠️ **Attention Points:**
-- BST Internal operations running at significant loss ($1.18M negative) — verify this reflects expected overhead allocation
-- Large AR balance requires management; 76 active invoices suggest concentration in Government client base
-- Minimal activity in current 2-day report period may reflect weekend/reporting lag
+✓ **Revenue Health:** Government contracts are the primary profit driver.
+
+⚠️ **Operational Concern:** Internal R&D expenses significantly exceed internal revenue, suggesting either:
+  - Overhead allocation to internal projects
+  - Investment in product development (deferred revenue recognition)
+  - Need for cost reduction or revenue model adjustment
 
 ---
 
-**Data Quality:** All transactions confirmed. Government project data appears incomplete in provided dataset (revenue breakdown by sub-project cut off). Recommend full Government detail review for complete performance analysis.
+**Data Limitations:** Vendor and customer detail reports were incomplete in the source data. Recommend running detailed Vendor/Customer reports for additional analysis.

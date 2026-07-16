@@ -1,100 +1,84 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 38 emails (20 previous + 18 new)
-- **Date range:** 12 Jul 2026 – 15 Jul 2026
-- **Volume:** Light but active; primarily transactional, vendor coordination, and HR/task notifications across 4 days
+- **Total messages scanned:** 56 emails (38 previous + 18 new)
+- **Date range:** 12 Jul 2026 – 16 Jul 2026
+- **Volume:** Light but active; primarily transactional, vendor coordination, HR/task notifications, and engineering procurement across 5 days
 
 ## Key Correspondents
 
 ### Top Senders
-1. **Rippling** (HR/task management) — 6 emails total
+1. **Rippling** (HR/task management) — 7 emails total
 2. **Purchasing alias** (purchasing@blackswifttech.com) — Primary routing for vendor communications, tracking, and internal order forwarding
-3. **Jawstec** (info@jawstec.com) — 4 emails (up from 2); order shipment confirmations now showing active fulfillment
-4. **Tracking notifications** (tracking via Purchasing) — 4 emails (new); order delivery/shipment status
-5. **SkyGeek, uAvionix, Veeam, UnitedHealthcare, Pirate Ship, Worldwide Express** — 1 email each
-6. **Shweta Choudhury** (QuSpin) — 1 email (indirect; routed through Maciej Stachura)
+3. **Jawstec** (info@jawstec.com, briana@jawstec.com) — 5 emails total; order shipment confirmations and now **new delay alert** (15 Jul 20:34 UTC)
+4. **Tracking notifications** (tracking via Purchasing) — 5 emails; order delivery/shipment status
+5. **McMaster-Carr** (chi.sales@mcmaster.com) — 2 emails (new); order confirmation and tracking for 15 Jul order
+6. **SendCutSend, Mouser Electronics, USPS Informed Delivery** — 1 email each (tracking/fulfillment)
+7. **SkyGeek, uAvionix, Veeam, UnitedHealthcare, Pirate Ship, Worldwide Express** — 1 email each
 
-### Internal Contacts (New/Updated)
-- **Maciej Stachura** (stachura@blackswifttech.com) — Now visible; appears to be technical/engineering contact (QuSpin correspondence)
-- **Jack Elston** (purchasing@blackswifttech.com) — Receiving vendor emails (uAvionix, Black Swift tracking notifications); possible co-worker in purchasing
-- **Josh Fromm** (joshua.fromm@blackswifttech.com) — Continues to appear; receiving vendor emails (SkyGeek, Pirate Ship)
-- **Sage Rawlings** — Internal contact flagging Rock West Composites stock issue
-- **Santiago Silva** — Internal contact with project updates via purchasing alias
-- **Parker Ackerknecht** (packerknecht@quspin.com) — External; appears to be QuSpin technical contact
+### Internal Contacts (Updated)
+- **Maciej Stachura** (stachura@blackswifttech.com) — **Now prominent in new data**; technical/engineering procurement (QuSpin correspondence, UAS-MAG compass supplier contact with Tom Simcox at Bartington)
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **New key contact**; engineering/project lead (S0-AD BOM Discussion, Blue List/NDAA project ownership, calendar coordination)
+- **Jack Elston** (elstonj@blackswifttech.com) — Receiving vendor emails and meeting invitations (purchasing operations)
+- **Josh Fromm** (joshua.fromm@blackswifttech.com) — Continues to appear; receiving vendor emails and project meeting invitations
+- **Sage Rawlings, Santiago Silva** — Previous internal contacts (less visible in new batch)
 
 ### Key External Contacts/Organizations (Updated)
-- **Jawstec** — Now showing active order fulfillment (2 shipment notifications on 14 Jul)
-- **SkyGeek** — Aviation/aerospace supplier (marketing/product announcement)
-- **uAvionix** — Aviation/UAV electronics (SkyPlay product announcement)
-- **QuSpin** (quspin.com) — Technical supplier/partner with ongoing Q&A (Shweta Choudhury, Parker Ackerknecht)
-- **Rock West Composites** — Materials supplier (out-of-stock issue flagged)
-- **Pirate Ship** — Shipping/logistics service ($1.88 payment)
-- **Worldwide Express** — Shipping carrier (invoice issued)
-- **Veeam** — Software/backup platform (webinar invitation)
-- **UnitedHealthcare** — Benefits provider (promotional outreach)
+- **McMaster-Carr** — Industrial/mechanical supplier (new vendor, 15 Jul order placed)
+- **Jawstec** — **Now flagging possible order delay** (15 Jul); previous shipments may face fulfillment issues
+- **QuSpin** (Shweta Choudhury) — Technical supplier with active Q&A thread (16 Jul, 03:46 UTC IST response)
+- **Bartington** (Tom Simcox, tom.simcox@bartington.com) — **New external contact**; supplier of UAS-MAG high-performance Dronecan compass (drone/UAV electronics)
+- **SkyGeek, uAvionix** — Aviation/aerospace supplier ecosystem
+- **Mouser Electronics** — Electronics component supplier (PO #39830975)
+- **SendCutSend** — Custom cutting/fabrication service
+- **Veeam, UnitedHealthcare, Pirate Ship, Worldwide Express** — Previous vendors
 
 ## Topic Patterns
 
 ### Recurring Themes
-1. **Order management & fulfillment** — Shipment confirmations, delivery tracking, order status updates (Jawstec, generic tracking notifications)
-2. **Vendor communications** — Product announcements, pricing/stock updates, invoices
-3. **HR/Task management** — Rippling task assignments (now showing active task delegation)
-4. **Technical/Engineering procurement** — QuSpin questions, Rock West Composites orders, SkyGeek/uAvionix vendor interactions
-5. **Shipping & logistics** — Pirate Ship payment, Worldwide Express invoices, tracking notifications
+1. **Order management & fulfillment** — Order confirmations, shipment tracking, delivery notifications (McMaster-Carr, Jawstec, Mouser, SendCutSend, USPS)
+2. **Vendor communications** — New supplier integration (McMaster-Carr), supplier alerts (Jawstec delay), technical Q&A (QuSpin)
+3. **Engineering/UAV procurement** — QuSpin, Bartington (UAS-MAG compass), SkyGeek, uAvionix component sourcing
+4. **Project management** — **S0-AD BOM Discussion** for **Blue List/NDAA** (engineering bill of materials, compliance-related)
+5. **HR/Task management** — Rippling task assignments
+6. **Logistics** — Shipping notifications (USPS Informed Delivery, tracking)
 
-### Visible Project/Order Numbers (Updated)
-- **Jawstec** — Order now in fulfillment (2 "on the way" notifications, 14 Jul)
-- **Rock West Composites** — New order **#Z100709976** (out-of-stock status flagged)
-- **Pirate Ship** — Payment receipt for $1.88
-- **Worldwide Express** — Invoice **#260712W002688**, shipment **#W002346756**
-- Previous: SendCutSend **S439K456**, DigiKey **PO #100363511**, Spindrift **SH62379030**, General Air **10099275**
+### Visible Project/Order Numbers & Programs (Updated)
+- **S0-AD** — Project codename (Blue List/NDAA compliance BOM discussion, scheduled 20 Jul 10am-11am MDT)
+- **Blue List/NDAA** — Likely defense/aerospace procurement compliance program
+- **McMaster-Carr Order** — 15 Jul placement (confirmation + tracking emails same day)
+- **Mouser PO #39830975** — Electronics order (shipment notification 15 Jul)
+- **UAS-MAG high Performance Dronecan Compass** — Specific component sourcing (Bartington supplier)
+- **Jawstec** — Order with possible delay (15 Jul alert)
+- Previous: Jawstec (in fulfillment), Rock West Composites #Z100709976, SendCutSend S439K456, DigiKey PO #100363511, Spindrift SH62379030, General Air 10099275
 
 ## Communication Patterns
 
 ### Routing & Aliases (Updated)
-- **Heavy purchasing alias routing continues** — 12+ of 18 new emails arrived via purchasing@blackswifttech.com
-- **Direct personal emails (sam.hild@blackswifttech.com)** — Now receiving task assignments and promotional emails (Veeam, UnitedHealthcare, Gemini notes)
-- **Gemini Notes integration** — New signal: Sam uses Google Gemini for meeting notes ("BST Internal Update Meeting" on 14 Jul)
-- **Multiple internal recipients visible** — Jack Elston, Josh Fromm, Sage Rawlings, Santiago Silva, Maciej Stachura all receiving vendor/tracking emails routed through purchasing
+- **Heavy purchasing alias routing continues** — 11 of 18 new emails routed via purchasing@blackswifttech.com
+- **Direct personal emails (sam.hild@blackswifttech.com)** — Now receiving **project calendar invitations** from Daniel Prendergast (S0-AD BOM Discussion) and Rippling task notifications
+- **Maciej Stachura threads** — Not directly addressed to Sam, but appear in Sam's inbox; suggests Sam monitors technical procurement discussions or is on a shared inbox/thread
+- **Multi-recipient invitations** — Daniel Prendergast sending calendar invites to Sam Hild, Joshua Fromm, and Jack Elston (suggests coordinated BOM/procurement review)
 
-### Time Patterns (New)
-- **Early morning activity:** Worldwide Express invoice (07:43 UTC Wed 15 Jul), Pirate Ship payment (06:41 UTC), SkyGeek email (04:30 UTC)
-- **Afternoon cluster on 14 Jul:** Multiple shipment confirmations between 16:47–19:53 UTC (Jawstec x2, tracking x2, Black Swift shipment)
-- **Cross-timezone coordination:** Emails spanning UTC, CDT, IST, IST+5:30 (global vendor/team network)
+### Time Patterns (Updated)
+- **Early morning UTC activity:** Shweta Choudhury QuSpin response (04:10 UTC Thu 16 Jul), Mouser shipment notification (14:05 UTC Wed 15 Jul), USPS Digest (11:10 UTC Wed 15 Jul)
+- **Late evening UTC cluster (15 Jul):** McMaster-Carr tracking (19:42 UTC), McMaster-Carr confirmation (17:44 UTC), Briana Gonzalez Jawstec delay alert (20:34 UTC), Daniel Prendergast meeting updates (19:05–20:04 UTC)
+- **Mid-afternoon CDT/MDT activity:** Maciej Stachura compass email (11:39 CDT), Daniel Prendergast meeting invitations (16:18 CDT), Rippling tasks (11:10 UTC = 05:10 MDT — early morning)
+- **Cross-timezone coordination:** UTC, CDT, MDT, IST+5:30 (global team + India-based QuSpin partner)
 
 ### Automated/Newsletter Patterns
-- **Veeam Webinar** — Software platform invitation (not previous pattern)
-- **UnitedHealthcare** — Benefits platform promotional (not HR enrollment, but benefits-adjacent)
-- **SkyGeek, uAvionix** — Vendor product announcements (marketing)
+- **USPS Informed Delivery** — Daily digest (not previous pattern; new mail notification service)
+- **Vendor shipment notifications** — SendCutSend, Mouser, McMaster-Carr, tracking (transactional automation)
+- **Veeam, UnitedHealthcare** — Previous promotional/software patterns (continuing)
 
 ## Key Relationships
 
 ### Internal Collaborators (Updated)
-- **Josh Fromm** — Continues to appear; now receiving SkyGeek and Pirate Ship emails directly (likely co-procurement role)
-- **Jack Elston** — New visibility; receiving uAvionix and shipment tracking notifications (possible purchasing operations)
-- **Maciej Stachura** — New; technical/engineering focus (QuSpin correspondence with Parker Ackerknecht)
-- **Sage Rawlings** — Internal contact flagging supplier stock issues
-- **Santiago Silva** — Internal contact with project updates ("upcoming projects")
+- **Daniel Prendergast** — **New key relationship**; appears to be engineering/project lead for S0-AD (Blue List/NDAA program); directly coordinating with Sam, Josh Fromm, and Jack Elston on BOM discussion
+- **Maciej Stachura** — Technical/engineering procurement specialist; managing supplier relationships (QuSpin, Bartington UAS-MAG compass)
+- **Joshua Fromm & Jack Elston** — Procurement/operations team members; receiving coordinated BOM meeting invitations with Sam
+- **Sage Rawlings, Santiago Silva** — Internal contacts (less visible in current batch)
 
 ### External Relationships (Updated)
-- **Jawstec** — Now showing **active fulfillment** (2 shipments in flight as of 14 Jul); appears to be key supplier with recent order completion
-- **QuSpin** (Shweta Choudhury, Parker Ackerknecht) — Technical/engineering supplier with active Q&A; appears important to BST projects
-- **SkyGeek, uAvionix** — Aviation/aerospace vendor ecosystem (new focus area)
-- **Rock West Composites** — Materials supplier (recent order, stock constraints)
-
-## Notable Observations
-
-1. **Jawstec delay resolved:** Previous alerts about order delays are now showing as fulfilled shipments (2 "on the way" notifications on 14 Jul); supply chain issue appears to have cleared.
-
-2. **Expanded vendor footprint:** New vendors appearing (SkyGeek, uAvionix, Pirate Ship, Worldwide Express, QuSpin) suggest either:
-   - Broader procurement responsibilities across engineering/operations
-   - New project involving aviation/UAV components (SkyGeek + uAvionix are aerospace-focused)
-
-3. **Gemini Notes usage:** Sam is using Google Gemini to capture meeting notes ("BST Internal Update Meeting" 14 Jul), indicating AI-assisted documentation practices.
-
-4. **Technical procurement focus:** QuSpin correspondence (Maciej Stachura thread with Parker Ackerknecht) and SkyGeek/uAvionix vendor interactions suggest Sam may have visibility into engineering supply chain, not just general purchasing.
-
-5. **Cross-functional email routing:** Multiple BST employees (Jack Elston, Josh Fromm, Sage Rawlings, Santiago Silva, Maciej Stachura) receiving vendor emails via purchasing alias suggests Sam may be **managing or coordinating a purchasing/procurement inbox** rather than being a single purchaser.
-
-6. **Promotional/marketing volume:** Increase in vendor product announcements (Veeam, SkyGeek, uAvionix) and benefits offers (UnitedHealthcare) suggests email is well-subscribed
+- **Shweta Choudhury (QuSpin)** — Technical supplier with active technical Q&A; appears important to engineering projects
+- **Briana Gonzalez (Jawstec)** — Supplier contact; now flagging order

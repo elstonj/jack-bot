@@ -22,7 +22,7 @@
 
 ## Recent Activity
 
-**[2026-07-01] AWAITING DECISION — Power of Attorney Authorization**
+**[2026-07-01] AWAITING DECISION — Power of Attorney Authorization (CRITICAL BLOCKER)**
 
 Daniel Prendergast sent urgent follow-up requesting Meredith O'hara Needham's approval to sign power of attorney document from Robert Correia (Aeronet) for customs broker. Daniel flagged no legal concerns ("Looks okay to me, but I'm not a lawyer") but is seeking management authorization before proceeding. **This is a critical unblock holding the entire project.**
 

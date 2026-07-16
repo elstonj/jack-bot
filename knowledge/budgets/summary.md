@@ -1,49 +1,58 @@
 # BST Project Financial Overview
 
-## CRITICAL ASSESSMENT
-
-**⚠️ Data Organization Issue:** The provided dataset contains **1,181 budget documents** with **no identifiable project codes** detected across the collection. This represents a significant organizational challenge for financial tracking.
-
----
-
-## Identified Project Information
-
-### NASA Projects
-
-#### **[200] NASA — AREN (Aeropods Commercial)**
-- **Project Type:** Commercial product development
-- **Sub-project:** MiniCam Project
-- **Document Status:** Preliminary cost analysis (as of Feb 2026)
-- **Last Modified:** 2026-03-04
-- **Current Status:** Preliminary/Commercial costing phase
-- **Budget Data:** Unit cost breakdown exists but incomplete in provided summary
+## ⚠️ Data Quality Notice
+The provided budget data is **incomplete and fragmented**. The collection contains 1,181 budget documents across multiple projects, but:
+- **No consistent project codes identified** across documents
+- **Document excerpt cuts off mid-table** (MiniCam unit costs incomplete)
+- **Limited dollar amounts visible** in the provided sample
+- **Unclear project status** for most initiatives
 
 ---
 
-## Data Quality Issues Preventing Complete Financial Overview
+## Active Project Budgets
+*Based on available information:*
 
-| Issue | Impact | Recommendation |
-|-------|--------|-----------------|
-| **No consistent project codes** | Cannot track spending across documents | Implement standardized project code system (e.g., NASA-AREN-001) |
-| **Incomplete budget summaries** | Cannot provide accurate totals | Extract complete budget tables from all 1,181 documents |
-| **Mixed document stages** | Proposals, active, and completed projects mixed without clear labels | Create separate tracking for each project status |
-| **No QuickBooks references noted** | Cannot cross-validate with accounting system | Establish QB integration framework |
-
----
-
-## Known Funding Sources (Partial)
-- **NASA** (at least 1 active project identified)
-- **NOAA** (referenced but no projects detailed)
-- **DoD** (referenced but no projects detailed)
-- Other federal agencies (referenced but not detailed)
+| Project | Client | Total Budget | Contract Type | Status |
+|---------|--------|--------------|---------------|--------|
+| [200] NASA AREN (Aeropods Commercial) | NASA | *Not specified* | Commercial (MiniCam) | Preliminary costing phase |
+| *Other projects* | NOAA, DoD, other federal agencies | *Unknown* | Multiple (SBIR Phase I/II, IRAD, Commercial) | Portfolio stage unclear |
 
 ---
 
-## Immediate Actions Required
+## By Funding Source
+- **NASA** – AREN project (Aeropods/MiniCam commercial initiative)
+- **NOAA** – Projects referenced but not detailed
+- **DoD** – Projects referenced but not detailed
+- **Other Federal Agencies** – Not specified
 
-1. **Assign project codes** to all 1,181 documents
-2. **Extract complete budget data** from MiniCam and other projects
-3. **Create master project registry** with codes, clients, contract types, and budget totals
-4. **Establish QuickBooks mapping** for verified spend tracking
+---
 
-**Status:** Cannot provide complete financial health assessment without organized project coding system.
+## By Contract Type
+- Commercial (MiniCam preliminary costing detected)
+- SBIR Phase I/II (referenced as present, not detailed)
+- IRAD (referenced as present, not detailed)
+
+---
+
+## Financial Health Indicators
+**Cannot assess** – insufficient data:
+- No total budgets provided for active projects
+- No spend or remaining balance data shown
+- No milestone or invoice schedules visible
+- No budget concern flags identified
+
+---
+
+## QuickBooks Integration Notes
+- **No QuickBooks data referenced** in the provided excerpt
+- All references appear to be **Drive-based spreadsheets** (.xlsx files)
+- Requires full document review to identify QB integration
+
+---
+
+## Recommendation
+**Please provide:**
+1. Complete budget spreadsheet with project codes, totals, and spend data
+2. Project status summary (active vs. inactive)
+3. Any QuickBooks export or reconciliation files
+4. Current year spend and remaining balance by project
