@@ -13,7 +13,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Meredith Needham (shipping, logistics, quote coordination, invoice tracking)
 - Nate (assembly, QC flights, payload prep, GCS builds, quotes, training coordination, customer outreach)
 - Paige Smith (sales coordination, customer communication, website form submissions)
-- Beck Cotter (customer outreach, email coordination, S0/S0-VTOL ownership coordination, Arctic demo coordination, travel booking, presentation materials, meeting scheduling, **Halo project folder management**, **Murphy's Pond PO coordination**)
+- Beck Cotter (customer outreach, email coordination, S0/S0-VTOL ownership coordination, Arctic demo coordination, travel booking, presentation materials, meeting scheduling, **Halo project folder management**, **Murphy's Pond PO coordination**, **LMUK/Raven SOW drafting**)
 - Ben Busby (team member, sales pipeline tracking, payload packet analysis)
 - Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead, demo participation, presentation management, field operations coordination, training pricing inquiries, training logistics coordination, **UMES S3 flight training instructor**, **Murphy's Pond Flight campaign lead**, NASA S2 delivery coordination, field trip logistics, **photogrammetry mission planning**)
 - Dan H (CU - external customer, E2 battery interest)
@@ -29,9 +29,10 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Ryan Nesselrodt (SRI International/Center for Innovation - prospective customer, quantum sensing interview request, July 28-29, 2026)
 - Royal Navy (prospective international customer - S0 ISR system interest, camera/comm link requirements, July 2026)
 - Supercool (prospective customer - cloud seeding operations, S2 aircraft inquiry, July 10, 2026)
+- LMUK/Raven (**NEW - July 16, 2026, international customer**, SOW in development)
 - Ethan & Spencer (team members attending Murphy's Pond field campaign, Aug 4-6)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: July 15, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: July 16, 2026.
 
 ---
 
@@ -94,8 +95,5 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Dan Prendergast requested keeping 4 E2 batteries reserved until after EMASS completion (April 21, 2026)
 - Maciej Tromba approved proposal (April 2026)
 
-**Used E2 Battery Pricing Decision (April 30, 2026 → May 18, 2026)**
-- Customer Dan H (CU) interested in purchasing used E2 battery pack
-- Maciej Tromba seeking guidance on discount vs. new pack ($3,699)
-- Rationale for discount: Significant labor savings from not building new unit
-- **DECISION
+**Used E2 Battery Pricing Decision (April 30, 2026 → May 18, 2026 - PENDING FINALIZATION)**
+- Customer Dan H (CU) interested in purchasing

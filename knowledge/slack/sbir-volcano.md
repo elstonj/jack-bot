@@ -8,7 +8,7 @@ Key participants include:
 - **Joshua Fromm** (Payload development, technical integration, diagnostics, aircraft inventory tracking)
 - **Danny Troke** (Flight operations, equipment)
 - **Maciej Smolka** (Regulatory, reporting, flight planning)
-- **Dan Prendergast** (Flight planning software, technical development, logistics, contracting inquiries, documentation, S3 operator's manual)
+- **Dan Prendergast** (Flight planning software, technical development, logistics, contracting inquiries, documentation, S3 operator's manual, data collection patterns)
 - **Meredith Needham** (Administrative support, travel coordination)
 - **Ethan Domagala** (Flight operations support)
 - **Nate** (Remote ID/registration support)
@@ -76,7 +76,14 @@ The channel covers activities from 2020 through July 2026, with high activity du
 - Plan includes test flight before full deployment
 
 **Photogrammetry Payload/System Performance Validation (July 2, 2026)**
-- Jack Elston confirmed that photogrammetry payload system "worked quite well" - appears to be in response to inquiry about payload conversion performance and readiness
+- Jack Elston confirmed that photogrammetry payload system "worked quite well" - assessment indicates readiness for Popocatépetl deployment
+
+**Takeoff/Landing Location Selection for Popocatépetl (July 16, 2026)**
+- Dan Prendergast querying flight safety constraints regarding southernmost of three identified takeoff/landing sites
+- Issue: Determine if southernmost location (yellow polygon North of crater) is too close to crater for safety reasons
+- Trade-off: Southernmost site offers shortest transit time and best view of valley with target vents and sensors (white translucent areas)
+- Status: Decision pending (awaiting input from Jack Elston and Joshua Fromm, tagged at time of message)
+- Reference tool: Google Earth project created documenting all three candidate locations
 
 ## Projects & Initiatives
 
@@ -94,19 +101,10 @@ The channel covers activities from 2020 through July 2026, with high activity du
 - **Restrictions**: Operations limited to west side of ridge until NASA crew qualified
 
 **Kentucky Deployment**
-- **Status**: Previously completed; photogrammetry payload successfully validated and confirmed functional (July 2, 2026)
+- **Status**: Completed; photogrammetry payload successfully validated and confirmed functional
 - **Significance**: Photogrammetry payload being adapted for Popocatépetl mission; performance confirmation indicates readiness for conversion
 
 **Popocatépetl Volcano (Mexico)**
-- **Status**: Deployment deferred from April 19-27, 2026; S3 repairs completed and testing underway as of late June 2026; photogrammetry payload conversion progressing with test flight planned before end of July 2026; payload system performance validated as of July 2, 2026; flight permissions documentation target completion by week of July 6, 2026; S3 operator's manual in progress as of July 13-14, 2026 with submission expected very soon
+- **Status**: Deployment deferred from April 19-27, 2026; S3 repairs completed and testing underway as of late June 2026; photogrammetry payload conversion progressing with test flight planned before end of July 2026; payload system performance validated as of July 2, 2026; flight permissions documentation target completion by week of July 6, 2026; S3 operator's manual in progress as of July 13-14, 2026 with submission expected very soon; data collection patterns and takeoff/landing location analysis underway as of July 16, 2026
 - **Significance**: SO2 output 10-50x higher than Makushin
-- **Aircraft**: S3 (Registration 20686S30001) selected due to high-altitude requirements (18,000-20,000 ft)
-- **Mission Parameters (As of April 13, 2026)**:
-  - Launch height: 3,650 m (~12,000 ft)
-  - Mapping altitude: 5,500 m (18,000 ft) with 200m clearance over volcano summit
-  - Estimated climb time: 13 minutes to altitude
-  - Transit time to summit: 5.6 minutes
-  - Mapping mission duration: 40 minutes (75% overlap)
-  - Total mission duration: ~1 hour under power plus 15 minutes power-off descent
-  - Max range: ~10 km, may require directional antenna (yagi) or terrain-based approach
-  - Optimizations planned
+- **Aircraft**: S3 (Registration 20686S30001) selected due to high-altitude requirements (18,000-20,000 ft
