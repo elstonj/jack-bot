@@ -4,14 +4,15 @@
     ""
   ],
   "period": {
-    "start": "2026-07-15",
-    "end": "2026-07-16"
+    "start": "2026-07-16",
+    "end": "2026-07-17"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 5355.31,
+    "expenses": 5404.35,
     "by_category": {
-      "FACILITIES:FA-Office Supplies": 5355.31
+      "FACILITIES:FA-Office Supplies": 5355.31,
+      "Inventory Asset": 49.04
     }
   },
   "invoices": [],
@@ -32,6 +33,24 @@
           "amount": 5355.31,
           "account": "FACILITIES:FA-Office Supplies",
           "description": "Office Server Ryze AI Max+ 395 - 64GB x 2"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-16",
+      "doc_number": "",
+      "total": 49.04,
+      "attributed": 49.04,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "shipment for future VTOL sales",
+      "lines": [
+        {
+          "amount": 49.04,
+          "account": "Inventory Asset",
+          "description": "Import duty payment (Fettec order #25867)"
         }
       ]
     }

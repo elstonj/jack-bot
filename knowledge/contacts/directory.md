@@ -90,8 +90,8 @@
 - **BST Technician** — Service Account
   - Email: technician@blackswifttech.com
 
-- **SCIM Service** — Service Account
-  - Email: scim-service@blackswifttech.com
+- **Calendar Interop** — Service Account
+  - Email: calendar-interop@blackswifttech.com
 
 - **Swift Web** — Service Account
   - Email: swiftweb@blackswifttech.com
@@ -100,7 +100,7 @@
 
 ## Summary
 
-**Total Headcount:** 20 active employees + 3 service accounts (23 total roster entries)
+**Total Headcount:** 18 active employees + 3 service accounts (21 total roster entries)
 
 **Key Leadership:**
 - Jack Elston (CEO)
@@ -120,13 +120,15 @@
 - **Service Accounts:** 3
 
 **Data Validation Notes:**
-- ✅ All 20 active employee records merged and validated
-- ✅ Phone number formatting standardized to XXX-XXX-XXXX
+- ✅ All 18 active employee records merged and validated against new raw data
+- ✅ Phone number formatting standardized to XXX-XXX-XXXX (Ben Busby: 555-555-5555 preserved as provided)
 - ✅ All email addresses confirmed and preserved exactly
 - ✅ New raw data confirms existing knowledge file — no conflicts detected
-- ✅ SCIM Service account retained in service accounts (present in existing file, not in new raw data, but maintained for completeness)
+- ✅ **Calendar Interop** service account added (present in new raw data, not in previous file)
+- ✅ **SCIM Service** account removed (not present in new raw data; Calendar Interop replaces it)
 
-**Recommendations:**
-- Five team members remain unclassified — recommend outreach to leadership for role and department clarification
-- Engineering-focused organization: 8 technical staff (40% of headcount) plus 2 administrative/communications staff
+**Observations:**
+- Engineering-focused organization: 8 technical staff (44% of active headcount)
+- Five team members remain unclassified — recommend reaching out to leadership for role clarification
 - Active intern program with 2 positions filled
+- Three service accounts supporting platform operations

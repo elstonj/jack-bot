@@ -52,11 +52,10 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Bartington sensor model confirmation: Identified as UAS Mag PC298 with 105 µT range (June 16, 2026)
 - Launcher parts procurement: Approved ordering launcher design parts totaling $1.3K from McMaster (June 22, 2026)
 - Magnetometer power supply: Sam Hild identified that magnetometer draws ~1A at 5V (higher than expected); current LDO is 500mA max and causing under-voltage/current condition preventing output. Maciej requested quick-turn procurement of higher-capacity LDO; Sam Hild to check existing inventory first (June 23, 2026)
-
-**June 2026 (Late - TCE scheduling):**
 - TCE event dates: Originally planned for August 17-28, rescheduled to September 14-24 at Camp Pendleton (June 29, 2026)
 
 **July 2026:**
 - QuSpin firmware update approach: Decided to send QuSpin sensor back to manufacturer for firmware update and QC check rather than conducting testing in current "noisy mode" (July 7-8, 2026). Rationale: Quick turnaround expected from vendor for firmware update and configuration optimization, preferable to testing with known suboptimal settings.
 - Royal Navy Q2 2027 helicopter drop specs: Open to all S0 options (S0-weather, S0-MAD, or S0 with onboard camera); would be dropped over ocean near airbase, ground-controlled initially (similar to C-130 setup), and recovered at airfield. Onboard video recording requested as marketing tool for project expansion (July 8, 2026)
 - Royal Navy long-term pricing target: $10K per unit for quantity 100+ orders
+- GPS jamming contingency: Decided to add RC receiver/

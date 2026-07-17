@@ -1,52 +1,71 @@
 # Jack Elston — Email Patterns (UPDATED)
 
 ## Communication Volume
-- **Total messages scanned:** 6,627 (6,527 prior + 100 Jul 15–16)
-- **Date range:** April 1–July 16, 2026
+- **Total messages scanned:** 6,727 (6,627 prior + 100 Jul 16–17)
+- **Date range:** April 1–July 17, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **Jul 15–16 activity (100 messages):** ~28% human correspondence (Feral Hogs S3 project inquiry Keven Gambold/Maciej IMPORTANT; CMMC Discussion Jay Cuthrell/Maciej IMPORTANT; Navy sensor procurement Angel Ruiz-Reyes/Maciej multi-turn IMPORTANT; Black Swift TCE 26.2 Navy call Angel Ruiz-Reyes attendee list IMPORTANT; Creative Alignments leadership culture discovery Hadley Solomon IMPORTANT; BST Compensation Benchmarking Hadley/Sona IMPORTANT; Black Swift S0 Procurement NASA Chris Meek multi-turn IMPORTANT; HALO SBIR modifications Kevin Rozmiarek/Beck multi-turn IMPORTANT; Immersive NOAA film Jonathan Griffith IMPORTANT; S0-AD BOM Discussion for Blue List/NDAA Daniel Prendergast IMPORTANT x2; Shearwater X Black Swift Project Albatross SOW Dipan Amin IMPORTANT; Vertiq component sourcing Roger Riley/Joshua Fromm/Nejc Trost multi-turn IMPORTANT x6; NAVY SBIR Documents Daniel Hesselius IMPORTANT; OOI buoys and drones Joshua Wadler IMPORTANT; S3 Demo Maciej/Hunter Ray IMPORTANT x2; Hiring Priority Brian Grubel/Sona IMPORTANT; Munro Defense introduction Justin Branch IMPORTANT; Murphy's Pond Dataset Stefan Metzger IMPORTANT); ~35% automated vendor/logistics/purchasing (DHL, AliExpress, McMaster-Carr x3, Pirate Ship, Mouser x2, Briana Gonzalez JawsTec delay, Amazon x2, UPS, Framework x2, B&H Photo, Speedway Motors, Battery Junction, Ethan Domagala Google Drive share); ~22% system/infrastructure/newsletters (Google Workspace Cameyo subscription, Google Gemini notes auto-capture TCE 26.2, UASweekly, AGI Summit 2026, Project Spectrum CMMC suspension notice, DARPA MXO Pitch Day, UHC eServices invoice x2, E-Verify webinar); ~15% external research/academic/governance/partnerships (UASweekly, SASCWATCH science meeting cancellation, Lost Fox Studios (media), Electrify Nevada gener8tor recruiting)
+- **Jul 16–17 activity (100 messages):** ~20% human correspondence (NOAA/Navy/SBIR technical); ~45% automated vendor/logistics/purchasing (PayPal, Jetpack, WordPress, Harbor Freight, HeliDirect, JawsTec, tracking); ~20% system/infrastructure/newsletters (Rippling benefits card, NASA SATERN, Google Workspace, UASweekly, E-Verify, OnBlick webinar); ~15% external forums/marketing (Austin Tech Week, Kallman Worldwide/SOFEX, Volcano Summit, media relations)
 
 ## Key Correspondents
 
-### Top Internal Partners (Sustained + New Escalations)
+### Top Internal Partners (Sustained + New Escalations Jul 16–17)
 
-1. **Maciej Stachura** (stachura@blackswifttech.com) — **EXECUTIVE DECISION-MAKING + VENDOR TECHNICAL LEADERSHIP DEEPENING:**
-   - **New critical escalations (Jul 15–16):**
-     - Feral Hogs S3 project inquiry (Jul 16, 05:05 IMPORTANT) from Keven Gambold (Unmanned Experts) → copied Maciej; Maciej now gating project inquiries
-     - CMMC Discussion (Jul 16, 04:16 IMPORTANT) Jay Cuthrell (NexusTek) responding to Maciej re: compliance oversight
-     - Navy Bartington sensor procurement (Jul 15, 18:59–Jul 16, 00:47 IMPORTANT x3) — Maciej originating direct Navy communication with Angel Ruiz-Reyes (NAWCAD); shipping address negotiation with vendor
-     - QuSpin technical Q&A (Jul 15–16 IMPORTANT x3) — Shweta Choudhury responding to Maciej directly; propulsion vendor escalation path now routed through Maciej
-     - S3 Demo follow-up (Jul 15, 12:26 IMPORTANT) from Maciej to Jack re: demo execution
-   - **Pattern:** Maciej now **originating** Navy SBIR/defense procurement negotiations; vendor technical questions routing through Maciej (not Jack); CMMC compliance positioned under Maciej oversight
+1. **Maciej Stachura** (stachura@blackswifttech.com) — **EXECUTIVE DECISION-MAKING + VENDOR TECHNICAL ESCALATION:**
+   - **New escalations (Jul 16–17):**
+     - CA Foundations: Discovery - BST Leadership Culture (Jul 16, 15:02 & 14:09 IMPORTANT) — Jack & Maciej both responding to Hadley Solomon; leadership culture research coordination
+     - COTS WAIVER discussion (Jul 16, 10:16 SENT) — Jack forwarding Navy COTS waiver (Daniel Klier, NSWC IHD) to Maciej for decision
+     - UAS-MAG high Performance Dronecan Compass (Jul 17, 07:59 IMPORTANT) — Tom Simcox (Bartington) now emailing Maciej directly re: compass/sensor procurement
+   - **Pattern:** Maciej handling vendor escalations (Bartington sensor routing to him); executive-level compliance/waiver decisions flowing through Maciej
 
-2. **Beck Cotter** (beck.cotter@blackswifttech.com) — **NOAA OPERATIONS + DEFENSE PROCUREMENT LEAD:**
-   - Black Swift S0 Procurement NASA interface (Jul 15, 15:44–15:49 IMPORTANT x2) — Beck multi-turn with Chris Meek (NASA LARC); Jack copied on final response
-   - Black Swift S0 ground station (Jul 15, 09:39 IMPORTANT) — Beck direct NOAA liaison (Laura Rock); procurement execution
-   - HALO SBIR modifications (Jul 15, 13:36–14:05 IMPORTANT x4) — Beck co-originating with Kevin Rozmiarek (Halo Aero); SBIR document modifications/technical coordination
-   - Website consultation (Jul 15, 15:41 IMPORTANT) from ed.kase@ekaseconsulting.com — Beck managing external consulting
-   - **Pattern:** Beck now **independent executor** on NASA/NOAA technical procurement; SBIR response drafting authority; reduced dependency on Jack routing
+2. **Beck Cotter** (beck.cotter@blackswifttech.com) — **NOAA OPERATIONS + SBIR TECHNICAL EXECUTION:**
+   - **New escalations (Jul 16–17):**
+     - Phase_1_CUAS_SBIR_Technical_Volume (Jul 16, 14:42, 14:18, 12:44 IMPORTANT x4) — Beck commenting on SBIR technical volume document via Google Docs; Jack receiving multiple comment notifications
+     - Meeting Updates (Jul 16, 15:50 IMPORTANT) — Beck responding to Jack re: meeting coordination
+     - Meeting Updates (Jul 16, 15:07–13:29 IMPORTANT x3) — Beck copied on multi-turn NOAA (Nikolai Pawlenko, Joe Cione) meeting logistics
+     - Modifications to HALO SBIR (Jul 16, 16:02, 11:54 IMPORTANT x2) — Beck multi-turn with Kevin Rozmiarek & Daniel Hesselius (Halo Aero); SBIR modifications coordination
+   - **Pattern:** Beck now **primary SBIR technical executor**; NOAA meeting coordination (Nikolai Pawlenko, Joe Cione Federal); multi-turn vendor technical negotiation (Halo Aero modifications)
 
-3. **Joshua Fromm** (josh.fromm@blackswifttech.com) — **COMPONENT INTEGRATION & LOGISTICS COORDINATION (NEW VISIBILITY):**
-   - Vertiq component sourcing (Jul 15, 10:45–10:55 IMPORTANT x6) — Joshua multi-turn with Roger Riley (Krateo), Nejc Trost (C-Astral), Jack; critical component tiger team coordination
-   - Delivery Planning P3 Questions (Jul 15, 13:10 IMPORTANT) — Joshua asking Jack for clarification
-   - S0-AD BOM Discussion for Blue List/NDAA (Jul 15, 19:05–19:10 IMPORTANT x2) — Joshua invited to Blue List compliance BOM discussion (Daniel Prendergast lead)
-   - **Pattern:** Joshua elevated to **logistics/component procurement lead**; multi-vendor component sourcing visible; Blue List/NDAA compliance discussions now at Joshua level
+3. **Tim Hegwood** (tim.hegwood@blackswifttech.com) — **IT INFRASTRUCTURE ADMINISTRATION (NEW VISIBILITY):**
+   - IT Admin Setup (Jul 16, 21:42, 21:27, 16:27, 14:15 IMPORTANT x4) — Tim & Jack multi-turn re: IT admin setup; Jack responding to Tim's requests
+   - **Pattern:** Tim managing **IT infrastructure upgrades**; Jack in approval/coordination role
 
-4. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **FEDERAL COMPLIANCE & BOM EXECUTION:**
-   - S0-AD BOM Discussion for Blue List/NDAA (Jul 15, 19:05–19:10 IMPORTANT x2) — Daniel originating meeting (Jack, Joshua Fromm, Sam Hild); Blue List/NDAA compliance requirement visible
-   - **Pattern:** Daniel now managing **Blue List/NDAA compliance** for S0 advanced development; executive-level BOM coordination
+4. **Meredith Needham** (meredith.needham@blackswifttech.com) — **OPERATIONS + FACILITIES COORDINATION:**
+   - Quote to repackage recovered UAS (Jul 16, 10:21, 10:21, 10:17, 10:12 IMPORTANT x4) — Jack & Meredith multi-turn re: UAS recovery/repackaging; Nikolai Pawlenko (NOAA) also involved
+   - Space / Office space requirements (Jul 16, 10:15, 10:11, 10:09 IMPORTANT x3) — Jack & Meredith multi-turn; Colorado Group office space negotiation (Ashley Overton); linked to Sona Raziabeegum (Krateo)
+   - Black Swift landlord contact (Jul 16, 10:15 IMPORTANT) — Meredith coordinating with Sona re: landlord
+   - QB Access and requested items (Jul 16, 14:34 IMPORTANT) — Meredith sending KPMG team (audit/financial) QuickBooks access
+   - **Pattern:** Meredith managing **facilities/space expansion** + **financial audit coordination with KPMG**
 
-5. **Sam Hild** (sam.hild@blackswifttech.com) — **TECHNICAL DELIVERY (NEW VISIBILITY):**
-   - S0-AD BOM Discussion Blue List/NDAA (Jul 15, 19:05–19:10 IMPORTANT x2) — Sam invited to Blue List compliance discussion
-   - **Pattern:** Sam now part of **federal compliance procurement chain**
+### Top External Partners (Strategic Deepening + New Navy/NOAA Integration)
 
-### Top External Partners (Strategic Deepening + New Vendor Integration)
+#### **NOAA Federal — OPERATIONAL INTEGRATION DEEPENING**
 
-#### **KRATEO SKY — OPERATIONAL HUB EXPANSION + COMPONENT SOURCING**
+1. **Nikolai Pawlenko - NOAA Federal** (nikolai.f.pawlenko@noaa.gov) — **NOAA OPERATIONS LIAISON:**
+   - Meeting Updates (Jul 16, 15:07, 13:29 IMPORTANT x3) — Nikolai multi-turn with Jack, Beck Cotter, Meredith Needham re: meeting logistics
+   - Quote to repackage recovered UAS (Jul 16, 10:17 IMPORTANT) — Nikolai involved in recovered UAS repackaging coordination
+   - **Pattern:** Nikolai now **primary NOAA operational contact**; multi-turn meeting coordination visible
 
-1. **Sona Raziabeegum** (sona@krateosky.com) — **OPERATIONAL COORDINATION + BD EXPANSION:**
-   - Creative Alignments leadership culture discovery (Jul 15, 15:44 IMPORTANT) — Sona co-recipient with Jack & Maciej; Hadley Solomon (Creative Alignments) designing BST leadership culture research
-   - BST Compensation Benchmarking (Jul 15, 15:21 IMPORTANT) — Sona & Jack receiving benchmarking analysis from Hadley Solomon (HR/comp strategy phase)
-   - FW: Announcement (Jul 15, 16:13 IMPORTANT) — Sona forwarding announcement to Pam Kermisch (Krateo), Jack, Paige Smith (BST); multi-org coordination
-   - Hiring Priority (Jul 15, 09:56 IMPORTANT) — Jack sent to Brian Grubel (Krateo) & Sona re: hiring priorities
-   - **Pattern:** Sona now managing **org development + people strategy** coordination; Creative
+2. **Joe Cione - NOAA Federal** (joe.cione@noaa.gov) — **NOAA PROGRAM LEAD:**
+   - Meeting Updates (Jul 16, 21:42 IMPORTANT) — Joe responding to Beck re: meeting updates
+   - **Pattern:** Joe coordinating **NOAA program logistics** with Beck (not Jack directly)
+
+#### **U.S. NAVY — COTS WAIVER + PROCUREMENT ESCALATION**
+
+1. **Daniel E. Klier CIV USN NSWC IHD** (daniel.e.klier.civ@us.navy.mil) — **NAVY COTS WAIVER AUTHORITY:**
+   - [Non-DoD Source] Re: /External/ - COTS WAIVER (Jul 16, 16:42, 12:57 IMPORTANT x2) — Jack multi-turn with Daniel re: COTS waiver request; Paul Jaynes (American Systems) CC'd
+   - **Pattern:** Jack now **direct Navy waiver requestor**; escalation to Maciej for final decision
+
+2. **Donald W. Sapp CTR USN CNR** (donald.w.sapp.ctr@us.navy.mil) — **NAVY AUTO-REPLY:**
+   - Automatic reply: [Non-DoD Source] (Jul 16, 16:31) — Out-of-office auto-reply received
+   - **Pattern:** Jack has parallel Navy contact channels
+
+#### **KRATEO SKY — FACILITIES + BUSINESS DEVELOPMENT EXPANSION**
+
+1. **Brian Grubel** (Brian@krateosky.com) — **KRATEO OPERATIONAL SYNC:**
+   - Tech Sync Availability? (Jul 16, 23:46 IMPORTANT) — Brian asking Jack & Maciej re: tech sync meeting
+   - [External] - Introduction: Justin Branch (Munro Defense) + Jack Eltson (BlackSwift) (Jul 16, 19:03 IMPORTANT) — Brian facilitating Munro Defense/BST introduction; Don Spinozzi (Krateo) also CC'd
+   - **Pattern:** Brian facilitating **external partnership introductions** (Munro Defense); tech sync meetings escalating
+
+2. **Jed Leonard** (jed@krateosky.com) — **KRATEO PROJECT FOLLOW-UP:**
+   - Follow-up on call (Jul 16, 19:19, 19:02, 18:19 IMPORTANT x3) — Jed multi-turn with Jack re: follow-up discussion
+   - **Pattern:** Jed managing **project-level

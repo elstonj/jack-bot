@@ -13,16 +13,12 @@
   },
   "contract": {
     "type": "unknown",
-    "number": "N6833525C0270",
+    "number": null,
     "total_value": 138494.0,
-    "start_date": "2025-07-30",
+    "start_date": null,
     "end_date": "2026-09-01",
-    "payment_cadence": "milestone",
-    "documents": [
-      "drive://Black Swift DD882 N6833525C0270 SIGNED 1.pdf",
-      "drive://Embry Riddle Invoice CI011557 (June 2026).pdf",
-      "drive://ODU Option Period Black Swift.FE.pdf"
-    ]
+    "payment_cadence": null,
+    "documents": []
   },
   "budget": {
     "approved": 138494.0,
@@ -33,7 +29,7 @@
         "amount": 35525.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-16"
+        "last_updated": "2026-07-17"
       },
       "purchases": {
         "amount": 0.0,
@@ -53,7 +49,7 @@
     "committed": 0.0,
     "remaining": 95969.0,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-16T09:05:43Z"
+    "last_reconciled": "2026-07-17T09:02:51Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -73,6 +69,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-07-16T09:05:43Z",
+  "last_full_rebuild": "2026-07-17T09:02:51Z",
   "last_incremental_update": null
 }

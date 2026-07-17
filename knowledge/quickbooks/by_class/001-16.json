@@ -4,14 +4,14 @@
     "(001-16) SwiftStation"
   ],
   "period": {
-    "start": "2026-07-07",
-    "end": "2026-07-08"
+    "start": "2026-07-16",
+    "end": "2026-07-17"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 130.5,
+    "expenses": 626.0,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 130.5
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 626.0
     }
   },
   "invoices": [],
@@ -19,19 +19,37 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-07",
-      "doc_number": "139935",
-      "total": 130.5,
-      "attributed": 130.5,
+      "date": "2026-07-16",
+      "doc_number": "",
+      "total": 459.0,
+      "attributed": 459.0,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "",
+      "memo": "WWW.MICROHARDCORP.COM - 7333",
       "lines": [
         {
-          "amount": 130.5,
+          "amount": 459.0,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "OpenUPS"
+          "description": "1 x p900-SWP"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-16",
+      "doc_number": "17721",
+      "total": 167.0,
+      "attributed": 167.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PayPal",
+      "lines": [
+        {
+          "amount": 167.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": ""
         }
       ]
     }

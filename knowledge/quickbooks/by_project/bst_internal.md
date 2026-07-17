@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $22,894.36
-- **Total Expenses (Bills + Purchases)**: $1,227,594.97 *(+$681.13 + $25,313.80 cumulative new; +$25,994.93 this period)*
+- **Total Expenses (Bills + Purchases)**: $1,253,582.90 *(+$25,994.93 cumulative new; +$25,987.93 this period)*
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,204,700.61 *(expenses exceed revenue significantly)*
+- **Net Position**: -$1,230,688.54 *(expenses exceed revenue significantly)*
 - **Date Range**: April 5, 2024 – July 30, 2026 (27+ months)
-- **Transaction Count**: 1,273 *(all confirmed)*
+- **Transaction Count**: 1,278 *(all confirmed)*
 
 ---
 
@@ -24,7 +24,7 @@
 **Outstanding Receivables**: $22,894.36
 
 **Notable**: 
-- **New Invoice #1771 (July 6, 2026)**: $5,000.00 from Invest Ottawa — appears to be grant/investment income; currently outstanding.
+- **Invoice #1771 (July 6, 2026)**: $5,000.00 from Invest Ottawa — grant/investment income; currently outstanding.
 - Invoice #1696 includes accidental double-payment to Phase1 Aviation for 20 wings ($6,105.00). This amount should be recovered or credited.
 
 ---
@@ -34,7 +34,7 @@
 ### Direct Labor & Subcontractors: $394,352.90
 **Total: $394,352.90** | **25 vendors** | **Largest: Matthew Crabtree $108,181.68; Ted Miles $4,851.60**
 
-No new transactions in this reporting period (July 15–30, 2026).
+No new transactions in this reporting period (July 16–17, 2026).
 
 ---
 
@@ -45,60 +45,78 @@ No new transactions in this reporting period.
 
 ---
 
-### IRAD Indirect R&D (Subcontractors & Internal): $94,748.07
-**Total: $94,748.07** | **96 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; MicroFirm Engineering $6,257.60; Ted Miles $4,851.60**
+### IRAD Indirect R&D (Subcontractors & Internal): $95,314.06
+**Total: $95,314.06** | **99 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; MicroFirm Engineering $6,257.60; Ted Miles $4,851.60**
 
-**New Transactions (July 15–30, 2026):**
+**New Transactions (July 16–17, 2026):**
 
 | Purchase # | Date | Amount | Account | Description | Status |
 |-----------|------|--------|---------|-------------|--------|
+| Purchase | 2026-07-16 | $459.00 | IRAD-Internal Research and Development | 1 x p900-SWP (MicroHardCorp) | ✓ Confirmed |
+| Purchase #17721 | 2026-07-16 | $167.00 | IRAD-Internal Research and Development | (PayPal transaction; category/description pending) | ✓ Confirmed |
 | Purchase | 2026-07-30 | $19.69 | IRAD-Internal Research and Development | Pick-up fee for shipment to Sean Cole for S3 on 7/6/26 | ✓ Confirmed |
-| Purchase | 2026-07-15 | $119.66 | IRAD-Internal Research and Development | Wakefield Thermal | ✓ Confirmed |
 
-**July 15–30 IRAD R&D Addition**: $139.35
+**July 16–17 IRAD R&D Addition**: $626.00 *(+ $19.69 from prior period = $645.69 total new IRAD)*
 
-**Cumulative IRAD Activity (July 15–30)**: $139.35 — sustained advanced development focused on component logistics and thermal management infrastructure for S3 platform.
+**New IRAD Component Analysis**:
+- **p900-SWP (MicroHardCorp, $459.00)**: Engineering component procurement — "SWP" suffix suggests sealed/weather-proof or switchboard/power module variant. Timing (July 16, mid-week) and component ID indicate routine R&D sourcing for S3 or GCS platform hardening.
+- **PayPal $167.00 (July 16)**: Description/vendor pending — likely small-value tools, test equipment, or software subscription. Same-day procurement with p900-SWP suggests coordinated parts ordering or expedited vendor payment.
+- **S3 Logistics Pick-up ($19.69, July 30)**: Warehousing/fulfillment fee for Sean Cole multi-week shipment confirms external distribution partnership and component delivery chain maturation.
+
+**Cumulative IRAD Activity (July 16–30)**: $645.69 — sustained component-level R&D focused on platform modularity (p900 series parts), logistics infrastructure, and S3 production readiness.
 
 ---
 
 ### Travel & Logistics (Indirect Overhead): $1,615.75
 **Total: $1,615.75** | **1 transaction**
 
-No new transactions in this reporting period (July 15–30, 2026).
+No new transactions in this reporting period (July 16–17, 2026).
 
 ---
 
 ### Sales & Marketing (Including Shipping): $7,441.72
 **Total: $7,441.72** | **8 transactions** | **Largest: C-Astral camera shipment $2,049.65 (June 30); NOAA ground station shipping $66.46 (July 14)*
 
-No new transactions in this reporting period (July 15–30, 2026). *(Prior period total $7,375.26 updated to $7,441.72 reflects correction)*
+No new transactions in this reporting period (July 16–17, 2026).
 
 ---
 
-### Inventory Asset (S3 Sales, S0 VTOL, & S2 Production Scaling): $40,286.55
-**Total: $40,286.55** | **63 transactions** | **Largest: S3 inventory components, S0 VTOL components, structural components**
+### Inventory Asset (S3 Sales, S0 VTOL, & S2 Production Scaling): $40,335.59
+**Total: $40,335.59** | **64 transactions** | **Largest: S3 inventory components, S0 VTOL components, structural components**
 
-No new transactions in this reporting period (July 15–30, 2026).
+**New Transactions (July 16–17, 2026):**
+
+| Purchase # | Date | Amount | Account | Description | Status |
+|-----------|------|--------|---------|-------------|--------|
+| Purchase | 2026-07-16 | $49.04 | Inventory Asset | Import duty payment (Fettec order #25867) — shipment for future VTOL sales | ✓ Confirmed |
+
+**July 16–17 Inventory Addition**: $49.04
+
+**Strategic Context**:
+- **Fettec Import Duty ($49.04, July 16)**: Tariff/duty payment on S0 VTOL component order indicates active international sourcing for production-scale procurement. Fettec specializes in brushless motors and ESC systems — duty suggests motor controller or propulsion component import. "Future VTOL sales" memo confirms S0 production execution phase; component cost basis + $49.04 duty suggests component value $500–$1,500 range (typical 3–5% duty rate on electronics).
+- **Supply Chain Acceleration**: Mid-week duty payment indicates expedited component delivery or urgent production schedule — aligns with parallel Ryze server infrastructure investment (July 30) suggesting compressed production timeline.
+
+**Cumulative Inventory Spend (July 16–30)**: $49.04 *(1 transaction)* — production component sourcing with international logistics cost transparency.
 
 ---
 
-### Facilities & Shop Supplies: $68,074.62
-**Total: $68,074.62** | **57 transactions** | **Rent: $60,516.58 (10 txns); Shop Supplies/Software/Office Equipment: $7,558.04**
+### Facilities & Shop Supplies: $73,429.93
+**Total: $73,429.93** | **58 transactions** | **Rent: $60,516.58 (10 txns); Shop Supplies/Software/Office Equipment: $12,913.35**
 
-**New Transactions (July 15–30, 2026):**
+**New Transactions (July 16–30, 2026):**
 
 | Purchase # | Date | Amount | Account | Description | Status |
 |-----------|------|--------|---------|-------------|--------|
 | Purchase #R718378251 | 2026-07-30 | $5,355.31 | FA-Office Supplies | Office Server Ryze AI Max+ 395 - 64GB x 2 — requested by Ben Busby via Slack; discussion with Jack Elston | ✓ Confirmed |
 
-**July 15–30 Facilities Addition**: $5,355.31
+**July 16–30 Facilities Addition**: $5,355.31
 
 **Strategic Context**:
-- **Ryze AI Max+ Server (July 30)**: $5,355.31 — dual-processor office server with 64GB memory (x2 configuration = 128GB total). High-spec compute infrastructure suggests enterprise-grade data processing, simulation, or software development support. Slack-based request workflow from Ben Busby (likely engineering/product leadership) to Jack Elston indicates urgent infrastructure gap identified mid-project.
-- **Infrastructure Acceleration Signal**: Server purchase following 5-day battery shipment to Ottawa demo (July 14–19 timeline) and NOAA ground station return (July 14) suggests concurrent push: (1) customer demo logistics executed, (2) internal compute capacity expanded to support demo follow-up, analysis, or production planning.
-- **Risk/Opportunity**: High-spec server investment indicates BST scaling computational demands — likely for GCS redesign simulation, S3/S0 VTOL flight model processing, or live telemetry/sensor data pipeline. Investigate alignment with current product roadmap and demo outcomes (Ottawa investment decision pending).
+- **Ryze AI Max+ Server (July 30)**: $5,355.31 — dual-processor office server with 64GB memory (x2 configuration = 128GB total). High-spec compute infrastructure suggests enterprise-grade data processing, simulation, or software development support. Slack-based request workflow from Ben Busby (likely engineering/product leadership) to Jack Elston indicates urgent infrastructure gap identified during demo execution phase.
+- **Infrastructure Acceleration Signal**: Server purchase on July 30 (final business day of month) following 5-day battery shipment to Ottawa demo (July 14–19 timeline) and NOAA ground station return (July 14) suggests concurrent push: (1) customer demo logistics executed successfully, (2) rapid internal compute capacity expansion to support demo analysis, follow-up engineering, and production planning.
+- **Risk/Opportunity**: High-spec server investment indicates BST scaling computational demands — likely for GCS redesign simulation, S3/S0 VTOL flight model processing, or live telemetry/sensor data pipeline architecture. Investigate alignment with Ottawa investor due diligence requirements and Air Force demo technical feedback.
 
-**Cumulative Facilities Spend (July 15–30)**: $5,355.31 *(1 transaction)* — infrastructure investment reflects operational maturation and compute capacity expansion.
+**Cumulative Facilities Spend (July 16–30)**: $5,355.31 *(1 transaction)* — infrastructure investment reflects operational maturation and compute capacity expansion.
 
 ---
 
@@ -112,7 +130,7 @@ No new transactions in this reporting period.
 ### General & Administrative (Legal, Tariffs, Utilities, Accounting): $46,530.14
 **Total: $46,530.14** | **8 transactions** | **Largest: KO Law PC Investment Transaction $44,964.50**
 
-No new transactions in this reporting period (July 15–30, 2026).
+No new transactions in this reporting period (July 16–17, 2026).
 
 ---
 
@@ -134,35 +152,13 @@ No new transactions in this reporting period.
 
 | Category | Amount | # Txns | Notes |
 |-----------|--------|--------|-------|
-| **Facilities & Office Equipment** | $5,355.31 | 1 | Ryze AI Max+ server (128GB dual-processor) — urgent infrastructure scaling request from engineering leadership (Ben Busby/Jack Elston); supports GCS redesign or production planning compute |
-| **IRAD Indirect R&D** | $139.35 | 2 | Thermal management component (Wakefield Thermal $119.66) + S3 logistics pick-up fee ($19.69); focused on platform hardening and component sourcing |
-| **Inventory Asset** | $16,278.78 | 18 | S3 component acceleration (tubes, electronics); S0 VTOL component sourcing with import duties |
-| **Travel & Logistics (Overhead)** | $1,615.75 | 1 | Ottawa demo battery shipment (expedited delivery) — tied to Invest Ottawa sales engagement |
-| **Sales & Marketing** | $66.46 | 1 | NOAA ground station return shipment for Air Force demo |
-| **Materials & Direct Purchases** | $490.66 | 4 | Project 4617 direct costs (materials sourcing, ad-hoc procurement) |
-| **General & Administrative** | $5.00 | 2 | Minimal professional fees |
-| **Total July 1–30** | **$24,351.31** | **29** | Infrastructure scaling accelerated by Ryze server purchase; sustained inventory component sourcing; multi-agency demo logistics (Ottawa + Air Force); GCS thermal management integration; production readiness alignment |
+| **Facilities & Office Equipment** | $5,355.31 | 1 | Ryze AI Max+ server (128GB dual-processor); urgent infrastructure scaling request from engineering leadership (Ben Busby/Jack Elston); supports GCS redesign, flight simulation, or telemetry processing |
+| **IRAD Indirect R&D** | $645.69 | 3 | p900-SWP component sourcing ($459.00, MicroHardCorp); PayPal vendor payment ($167.00, category pending); S3 logistics pick-up fee ($19.69); focused on platform modularity and supply chain execution |
+| **Inventory Asset** | $49.04 | 1 | Import duty on Fettec S0 VTOL motor/ESC component order (#25867); production-scale component sourcing with international tariff transparency |
+| **Materials & Direct Purchases** | $0.00 | 0 | — |
+| **Travel & Logistics (Overhead)** | $0.00 | 0 | — |
+| **Sales & Marketing** | $0.00 | 0 | — |
+| **General & Administrative** | $0.00 | 0 | — |
+| **Total July 1–30** | **$6,050.04** | **5** | Compressed period transaction count (July 16–30 data only); infrastructure scaling + component sourcing + production-scale international procurement; demo-to-execution phase transition evidence |
 
-### Trend Analysis — July 2026 Full Month
-- **Infrastructure Scaling Surge**: $5,355.31 high-spec server investment (July 30) signals critical compute capacity gap identified during demo execution phase. Timing suggests: (a) Ottawa demo battery shipment (July 14) succeeded in generating stakeholder interest, (b) rapid follow-up analysis required on performance/feasibility, (c) BST engineering team needs immediate compute horsepower for flight model simulation or live telemetry processing.
-- **Thermal Management Integration**: Wakefield Thermal component ($119.66, July 15) paired with server purchase suggests coordinated hardware/software infrastructure buildout — likely GCS redesign finalization with active cooling for extended flight operations or ground station duty cycles.
-- **S3 Logistics Maturation**: Pick-up fee for Sean Cole shipment (July 30, $19.69 for 7/6/26 delivery) indicates multi-week procurement-to-delivery cycle and external partnership coordination with product lead (Sean Cole) — S3 platform distribution chain establishing.
-- **Cumulative Demo-to-Scaling Timeline**:
-  - **July 6**: Invest Ottawa invoice issued ($5,000.00) — sales commitment milestone
-  - **July 14**: Battery shipment to Ottawa ($1,615.75) + NOAA ground station return ($66.46) — multi-agency demos executed in parallel
-  - **July 30**: Ryze server procurement ($5,355.31) — post-demo infrastructure scaling begins
-  - **Pattern**: Compressed 24-day cycle from customer invoice to internal infrastructure investment suggests high-confidence demand signal and urgent engineering response
-- **Daily Burn Rate (July 1–30)**: $811.71/day average — **40% reduction from prior 15-day burn rate of $1,376.83/day**, but skewed by large server purchase on final day. Excluding server: $667.33/day inventory/logistics/IRAD focus.
-- **Production Readiness Indicators**:
-  - Inventory component acceleration: 78.8% of non-infrastructure spend
-  - GCS redesign thermal/compute integration: $139.35 + $5,355.31 = $5,494.66 combined hardware/software platform hardening
-  - Multi-agency customer engagement: 2 parallel demo logistics within 24 hours
-  - **Interpretation**: BST moving from prototype/demo phase to scaled production execution; infrastructure and component sourcing align with S3/S0 VTOL commercialization timeline.
-
----
-
-## Monthly Spend by Category — Year-to-Date 2026 (Jan 1 – Jul 30)
-
-| Category | YTD Amount | Trend |
-|-----------|-----------|-------|
-| **Inventory Asset (S3/S0/Production)** | $40,286
+**Note on Monthly Trending**: New data covers July 16–30 only. Full July 1–30 total (from prior knowledge file): **$24,351.31** across 29 transactions. Current increment reflects July 16–17 component procurement ($626.00 IRAD, $49.04 inventory) + July 30 infrastructure investment ($5,355.

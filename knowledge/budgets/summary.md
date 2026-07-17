@@ -1,58 +1,56 @@
 # BST Project Financial Overview
 
-## ⚠️ Data Quality Notice
-The provided budget data is **incomplete and fragmented**. The collection contains 1,181 budget documents across multiple projects, but:
-- **No consistent project codes identified** across documents
-- **Document excerpt cuts off mid-table** (MiniCam unit costs incomplete)
-- **Limited dollar amounts visible** in the provided sample
-- **Unclear project status** for most initiatives
+## CRITICAL ISSUE: Data Organization Problem
+
+**Status:** ⚠️ **INCOMPLETE DATA**
+
+The provided budget data appears to be a document index or summary header rather than complete project financial information. The data cuts off mid-table during the MiniCam cost breakdown and does not include:
+
+- Complete project codes and naming conventions
+- Total budget amounts
+- Contract values or funding amounts
+- Spend/remaining data
+- Project status timelines
+- Complete cost breakdowns
 
 ---
 
-## Active Project Budgets
-*Based on available information:*
+## What We Can Partially Identify
 
-| Project | Client | Total Budget | Contract Type | Status |
-|---------|--------|--------------|---------------|--------|
-| [200] NASA AREN (Aeropods Commercial) | NASA | *Not specified* | Commercial (MiniCam) | Preliminary costing phase |
-| *Other projects* | NOAA, DoD, other federal agencies | *Unknown* | Multiple (SBIR Phase I/II, IRAD, Commercial) | Portfolio stage unclear |
-
----
-
-## By Funding Source
-- **NASA** – AREN project (Aeropods/MiniCam commercial initiative)
-- **NOAA** – Projects referenced but not detailed
-- **DoD** – Projects referenced but not detailed
-- **Other Federal Agencies** – Not specified
+### **Project [200]: NASA AREN (Aeropods Commercial)**
+- **Client:** NASA
+- **Initiative:** MiniCam Project
+- **Document Status:** Preliminary cost analysis (as of March 2026)
+- **Contract Type:** Commercial product development
+- **Data Completeness:** ❌ Incomplete (cost breakdown table cut off)
 
 ---
 
-## By Contract Type
-- Commercial (MiniCam preliminary costing detected)
-- SBIR Phase I/II (referenced as present, not detailed)
-- IRAD (referenced as present, not detailed)
+## Known Limitations
+
+1. **Portfolio Scale:** 1,181 budget documents referenced but not individually indexed
+2. **Project Codes:** No consistent project code system detected across documents
+3. **Funding Sources Identified But Incomplete:**
+   - NASA
+   - NOAA
+   - DoD
+   - Other federal agencies
+
+4. **Project Stages Referenced But Not Detailed:**
+   - Active projects
+   - Proposals (not yet funded)
+   - Completed/Inactive projects
 
 ---
 
-## Financial Health Indicators
-**Cannot assess** – insufficient data:
-- No total budgets provided for active projects
-- No spend or remaining balance data shown
-- No milestone or invoice schedules visible
-- No budget concern flags identified
+## Immediate Actions Needed
 
----
+To create a complete financial overview, please provide:
 
-## QuickBooks Integration Notes
-- **No QuickBooks data referenced** in the provided excerpt
-- All references appear to be **Drive-based spreadsheets** (.xlsx files)
-- Requires full document review to identify QB integration
+1. **Complete project listing** with codes, names, and status
+2. **Budget summary table** with totals and funding amounts
+3. **The complete MiniCam cost breakdown**
+4. **QuickBooks export** showing actual spend vs. budget
+5. **Project milestone timeline** with invoice/payment schedules
 
----
-
-## Recommendation
-**Please provide:**
-1. Complete budget spreadsheet with project codes, totals, and spend data
-2. Project status summary (active vs. inactive)
-3. Any QuickBooks export or reconciliation files
-4. Current year spend and remaining balance by project
+**Would you like to provide the complete budget data?**

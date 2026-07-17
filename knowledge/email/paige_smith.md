@@ -1,21 +1,21 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 3,800 (3,757 previous + 43 new from Jul 15-16, 2026)
-- **Date range:** March 24 – July 16, 2026 (115 days)
+- **Total messages scanned:** 3,851 (3,800 previous + 51 new from Jul 16-17, 2026)
+- **Date range:** March 24 – July 17, 2026 (116 days)
 - **Approximate volume:** ~33 messages per day (sustained)
-- **New batch composition (Jul 15-16, 2026):** ~86% automation/newsletters/promotions (37 of 43 messages)
-  - **Direct human correspondence:** 6 messages (14%)
-    - Paige Smith (self-sent) — Jul 15, 11:27 AM — **Re: Profiler resource files** [IMPORTANT] — *Reply to Geoff*
-    - Geoff (gb.aerokats@gmail.com) — Jul 15, 12:38 PM — **Re: Profiler resource files** [IMPORTANT] — *Discussion with Ted Miles*
-    - Beck Cotter (beck.cotter@blackswifttech.com) — Jul 15, 15:41 PM — **Fwd: website** [IMPORTANT, UNREAD]
-    - Jack Elston (elstonj@blackswifttech.com) — Jul 15, 10:21 AM — **Re: FW: Announcement** [IMPORTANT] — *To Sona Raziabeegum (Krateo Sky)*
-    - Jack Elston (elstonj@blackswifttech.com) — Jul 15, 09:41 AM — **Announcement** [IMPORTANT] — *To Sona Raziabeegum + Paige Smith*
-    - Sona Raziabeegum (sona@krateosky.com) — Jul 15, 16:13 PM — **FW: Announcement** [IMPORTANT] — *To Pam Kermisch, Jack Elston, Paige Smith*
-  - **Sales/Business forwarding:** Bessey/FXHTECH PCB manufacturing inquiry (SwiftCore Flight Management System)
-  - **Government/Defense briefings:** A&SF Daily Report (JASSM/LRASM procurement), US Commercial Service (Egypt Defense webinar), Air & Space Forces Magazine (Pentagon cruise missile agreements), NOAA UFS Science Coordinator
-  - **Industry newsletters/news:** UASweekly, UAS VISION, Geo Week (reality capture/civil construction), Air & Space Forces Association
-  - **Personal/misc:** Target, Staples, LinkedIn notifications, Google Ads, The New York Times, The Athletic, Agritecture Weekly, WPBeginner
+- **New batch composition (Jul 16-17, 2026):** ~92% automation/newsletters/promotions (47 of 51 messages)
+  - **Direct human correspondence:** 4 messages (8%)
+    - Meredith Needham (meredith.needham@blackswifttech.com) — Jul 16, 15:08 PM — **Fwd: WordPress.com Business: Migration request for groovywizard90.wpcomstaging.com** [IMPORTANT, UNREAD]
+    - Juliette Binz (Juliette.binz@hinte-expo.com) — Jul 16, 10:23 AM — **AW: INTERGEO 2026 - Your booth** [IMPORTANT] — *Trade show booth coordination*
+    - Chandler Crist (chandler@cristsecurity.com) — Jul 16, 13:30 PM — **CMMC Proposal** [CATEGORY_FORUMS] — *Sent to info@blackswifttech.com*
+    - Aksi Aerospace Group (varshith.reddy@aksi-aerospace.com) — Jul 16, 15:19 PM — **End-to-End Manufacturing Solutions from AKSI Aerospace Group** [UNREAD, CATEGORY_FORUMS] — *Sent to info@blackswifttech.com*
+  - **Website/Infrastructure Management:** Jetpack backups (3 messages), WordPress password reset, Elementor credit usage notifications
+  - **Government/Defense briefings:** A&SF Daily Report (Anduril CCA live missile test), Mitchell Institute (Gen. Kevin Schneider Pacific region brief), Loitering Munitions Hub (Europe procurement)
+  - **Industry newsletters/news:** UASweekly, UAS VISION, Unmanned Systems Technology, Commercial UAV Expo, Geo Week, MundoGEO (GNSS surveying/C-UAS)
+  - **Professional/Business Events:** SOFEX 2026 (Kallman Worldwide), INTERGEO 2026 (trade show), Austin Tech Week, Geo Week 2027 CFP
+  - **Standards/Compliance:** CMMC Proposal (defense contractor compliance), Friends of Energy Drone & Robotics Coalition (FAA UAS rules)
+  - **Personal/misc:** Target, Staples, BannerBuzz, The New York Times, The Athletic, LinkedIn (job postings, group activity, Sales Navigator), ChatGPT, Shopify
 
 ---
 
@@ -23,80 +23,73 @@
 
 ### Top Internal Senders & Collaborators
 
+**Meredith Needham (meredith.needham@blackswifttech.com)**
+- **Status:** ELEVATED — NEW direct message with IMPORTANT flag
+- **Recent activity (Jul 16, 15:08 PM):**
+  - Sent **"Fwd: WordPress.com Business: Migration request for groovywizard90.wpcomstaging.com"** [IMPORTANT, UNREAD]
+  - **Signal:** Website infrastructure migration underway; forwarded request suggests staging site operations or content management system upgrade
+  - **Context:** Aligns with Jetpack backup/restore activity (Jul 16, 20:02-20:55 UTC) — confirms active website platform migration in progress
+  - **Implication:** Company website rebuild or major platform migration requiring operations coordination
+
 **Beck Cotter (beck.cotter@blackswifttech.com)**
-- **Status:** NEW direct contact
-- **Recent activity (Jul 15, 15:41 PM):**
-  - Sent **"Fwd: website"** [IMPORTANT, UNREAD] — forwarded message, subject line suggests website-related matter
-  - **Signal:** Potential website update or integration requiring Paige's attention; may relate to Aeropod-BST Website project or broader web platform
-  - **Context:** Timing aligns with Geoff/Ted Miles resource file discussions; possible cross-functional coordination
+- **Status:** Continues as recent contact; not visible in new batch (Jul 15 last contact)
 
 **Jack Elston (elstonj@blackswifttech.com)**
-- **Status:** Elevated activity; direct human correspondence (new pattern)
-- **Recent activity (Jul 15):**
-  - 09:41 AM: Sent **"Announcement"** [IMPORTANT] to Sona Raziabeegum (Krateo Sky) + Paige Smith
-  - 10:21 AM: **Re: FW: Announcement** [IMPORTANT] — Response to Sona Raziabeegum
-  - **Signal:** Joint announcement with external partner (Krateo Sky); Paige included in distribution suggests company-wide or partnership-level communication
-  - **New external connection:** Krateo Sky partnership/announcement visible at director/media level
-
-**Geoff (gb.aerokats@gmail.com) — AeroKats**
-- **Status:** ACTIVE technical collaboration continuing
-- **Recent activity (Jul 15, 12:38 PM):**
-  - **Re: Profiler resource files** [IMPORTANT] — Direct response in thread with Ted Miles
-  - **Signal:** Paige replied (11:27 AM) to resource file distribution; three-way technical discussion between Geoff, Ted, and Paige on Profiler system
-  - **Implication:** Profiler software/firmware integration progressing; resource files being actively reviewed and discussed
-
-**Ted Miles (ted59@msn.com) — External Developer/Consultant**
-- **Status:** Continues as primary technical resource provider
-- **Recent activity:** Implied in Geoff thread (Jul 15, 12:38 PM response) — continued Profiler resource file discussion
-- **Signal:** Resource file distribution and integration moving into active development/integration phase
-
-**Meredith Needham (meredith.needham@blackswifttech.com)**
-- **Status:** Not visible in new batch; continues operations oversight role
+- **Status:** Continues elevated activity; not visible in new batch (Jul 15 last contact on Krateo Sky announcement)
+- **Note:** UAS VISION newsletter addressed to "Jack <media@blackswifttech.com>" (Jul 16, 09:05 AM) — may indicate Jack's media relations responsibility or distribution alias
 
 ---
 
 ### Top External Senders & Partners
 
-**Krateo Sky (sona@krateosky.com, pam@krateosky.com)**
-- **Status:** NEW strategic partner; elevated visibility
-- **Key contact:** Sona Raziabeegum (primary contact)
-- **Recent activity (Jul 15):**
-  - Sona sent **FW: Announcement** [IMPORTANT] at 16:13 UTC to Pam Kermisch, Jack Elston, Paige Smith
-  - Jack Elston initiated announcement coordination (09:41 AM, 10:21 AM responses)
-  - **Signal:** Joint announcement with Krateo Sky; likely product partnership, integration, or joint offering
-  - **Implication:** Strategic partnership at director/leadership level; company-wide announcement readiness suggests material business development
+**Krateo Sky (sona@krateosky.com)**
+- **Status:** Strategic partner; not visible in new batch (last contact Jul 15)
+- **Remains active priority based on previous IMPORTANT announcements**
 
-**Chenyang Wu (chenyangwu@stablesensmail.com) — StableSens**
-- **Status:** Continues escalating engagement; awaiting follow-up response on air-data sensor (UNREAD from Jul 15, 07:01 AM)
-- **Signal:** Vendor integration advancing; sensor suite expansion for S2 platform remains active priority
+**Juliette Binz (Juliette.binz@hinte-expo.com) — INTERGEO 2026**
+- **Status:** NEW direct contact; IMPORTANT trade show coordination
+- **Recent activity (Jul 16, 10:23 AM):**
+  - Sent **"AW: INTERGEO 2026 - Your booth"** [IMPORTANT] — Subject line in German ("AW:" = "RE:")
+  - **Signal:** BST has booth commitment at INTERGEO 2026 (international geospatial/surveying trade show); Paige involved in logistics/messaging
+  - **Implication:** Major trade show presence; likely showcasing S2 platform or reality capture/surveying capabilities
+  - **Context:** Aligns with Geo Week CFP invitation (Jul 16) and MundoGEO GNSS surveying content — indicates reality capture/surveying vertical expansion
 
-**FXHTECH / Bessey (sales01@fxhtech.com)**
-- **Status:** NEW PCB/PCBA manufacturing inquiry
-- **Recent activity (Jul 15, 21:10 UTC):**
-  - Sent **"PCB & PCBA Manufacturing for SwiftCore Flight Management System"** [CATEGORY_FORUMS] to sales@blackswifttech.com
-  - **Signal:** SwiftCore Flight Management System (FMS) entering manufacturing/production phase; vendor evaluation for PCB assembly
-  - **Implication:** Significant product development milestone; flight control system moving toward physical production
+**Chandler Crist (chandler@cristsecurity.com) — Crist Security**
+- **Status:** NEW defense contractor compliance contact
+- **Recent activity (Jul 16, 13:30 PM):**
+  - Sent **"CMMC Proposal"** to info@blackswifttech.com
+  - **Signal:** Cybersecurity Maturity Model Certification (CMMC) consulting proposal; BST pursuing defense contractor compliance framework
+  - **Implication:** Company positioning for DoD contracts; compliance maturity assessment/remediation planning underway
 
-**Geo Week News / Reality Capture Industry**
-- **Status:** Continued newsletter activity (Jul 15, 17:15 UTC) — "Reality capture grows up in civil construction"
-- **Signal:** Competitive intelligence on photogrammetry/3D mapping applications; relevant to S2 payload integration or new market verticals
+**Aksi Aerospace Group (varshith.reddy@aksi-aerospace.com)**
+- **Status:** NEW manufacturing vendor outreach
+- **Recent activity (Jul 16, 15:19 PM):**
+  - Sent **"End-to-End Manufacturing Solutions from AKSI Aerospace Group"** to info@blackswifttech.com
+  - **Signal:** Aerospace manufacturing partnership inquiry; likely response to BST's manufacturing needs (SwiftCore FMS, S2 platform components)
+  - **Context:** Follows FXHTECH PCB inquiry (Jul 15) — indicates active manufacturing partner evaluation
+
+**News/Intelligence Feeds — Competitive & Regulatory Intelligence**
+
+**A&SF Daily Report (AirAndSpaceForcesMagazine@afa.org)**
+- **Recent priority content (Jul 16, 03:47 AM) [IMPORTANT]:**
+  - **"Anduril CCA Fires Live Missile in Test Milestone"** — Critical competitive intelligence on autonomous combat aircraft development
+  - **Signal:** Tracking advanced autonomous systems competition; relevant to BST's autonomy roadmap
+
+**Loitering Munitions Hub Newsletter**
+- **Recent content (Jul 16, 06:00 AM):**
+  - **"Is Europe buying the loitering munitions it actually needs?"** — European defense procurement trends
+  - **Signal:** Market intelligence on European UAS/loitering munitions demand; potential export market analysis
+
+**MundoGEO Newsletter (mundogeo@mundogeo.net)**
+- **Recent content (Jul 16, 17:52 PM):**
+  - **"Netpipe launches 3tag, the world's first integrated standalone GNSS surveying system | MatrixSpace's C-UAS leader Matt Kling joins SIA's Drone Security Subcommittee"**
+  - **Signal:** Competitive intelligence on integrated GNSS surveying (direct S2 payload competitor); C-UAS regulatory/standards development tracking
+  - **Note:** Sent to both info@blackswifttech.com and info@bst.aero (dual domain routing)
 
 ---
 
-### LinkedIn Activity (Sustained High Engagement)
+### LinkedIn Activity (Sustained & Elevated)
 
-**LinkedIn messages/activity (4 new notifications Jul 15-16):**
-- New message notification (Jul 16, 02:21 UTC) [UNREAD]
-- Engineering Design Service Requests from Hima Valleru and other clients (Jul 15, 17:39 UTC) [UNREAD]
-- Business Owners & Investors Network group activity — "Entrepreneurs, Real Estate, Wealth Building & Capital Raising" (Jul 15, 17:55 UTC) [IMPORTANT, UNREAD]
-- LinkedIn mobile app notification (Jul 15, 15:55 UTC)
-- LinkedIn Editors article suggestion (Jul 15, 23:15 UTC)
-- **Signal:** Sustained inbound service requests and investor network engagement; elevated business development/partnership inquiry activity
-
----
-
-### Newsletter & Automated Sources (Continuing High Volume)
-
-**Breaking News/Daily Briefings — 9 messages**
-- **The New York Times:** 6 messages (Wimbledon fashion, House Democrats Israel aid vote, Todd Blanche attorney general hearing, airport security system, Morning newsletter — fatal encounters theme, Europe aviation security)
-  - **Pattern:** Mix of
+**LinkedIn messages/activity (7 new notifications Jul 16-17):**
+- Jul 17, 04:59 AM: **"Marketing Specialist: WeTheHobby and Sarkes Tarzian, Inc. hired roles near you"** [UNREAD] — Job alert
+-

@@ -13,7 +13,7 @@
   },
   "contract": {
     "type": "unknown",
-    "number": "1305M225Q0064",
+    "number": "RFQ 1305M225Q0064",
     "total_value": 1700000.0,
     "start_date": "2026-08-25",
     "end_date": "2026-08-25",
@@ -31,13 +31,13 @@
       {
         "category": "Labor",
         "amount": 111481.0,
-        "description": "Engineering Tasks (NRE): laser configuration, AirOps updates, dual GPS, 10Hz met data, firmware customization, extended endurance, manufacturability improvements, data buffering",
+        "description": "Engineering Tasks (NRE): laser configuration, AirOps updates, dual GPS, 10Hz met data, firmware customization, battery endurance, manufacturability improvements, data buffering",
         "source_doc": null
       },
       {
         "category": "Materials",
         "amount": 1700.0,
-        "description": "Materials for dual GPS ($1,000), extended endurance battery tweaks ($200), manufacturability improvements ($500)",
+        "description": "Materials for dual GPS, extended endurance battery tweaks, manufacturability improvements",
         "source_doc": null
       },
       {
@@ -52,13 +52,13 @@
         "amount": 551648.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-16"
+        "last_updated": "2026-07-17"
       },
       "purchases": {
         "amount": 970.76,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-07-16"
+        "last_updated": "2026-07-17"
       },
       "other_qbo": {
         "amount": 321540.76,
@@ -69,10 +69,10 @@
       "total": 874160.27,
       "by_line_item": {}
     },
-    "committed": 899.84,
-    "remaining": -742727.11,
+    "committed": 1197.76,
+    "remaining": -743025.03,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-16T09:05:12Z"
+    "last_reconciled": "2026-07-17T09:02:18Z"
   },
   "milestones": [
     {
@@ -152,6 +152,6 @@
   "team": [],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-07-16T09:05:12Z",
+  "last_full_rebuild": "2026-07-17T09:02:18Z",
   "last_incremental_update": null
 }

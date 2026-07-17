@@ -1,92 +1,87 @@
 # Dan Prendergast — Email Patterns
 
 ## Communication Volume
-- **33 messages scanned** covering Jul 13–15, 2026 (expanded from previous 26)
+- **46 messages scanned** covering Jul 13–17, 2026 (expanded from previous 33)
 - **Monday, Jul 13**: 14 messages
 - **Tuesday, Jul 14**: 12 messages
-- **Wednesday, Jul 15**: 7 messages (sustained activity through mid-week)
-- Approximately **11 messages per day** across three-day period (operational baseline maintained)
+- **Wednesday, Jul 15**: 7 messages
+- **Thursday, Jul 16**: 13 messages (new data) — sustained mid-week surge
+- Approximately **11.5 messages per day** across five-day period (operational baseline maintained)
 
 ## Key Correspondents
 
 ### Top Senders to Dan
-- **Robert Correia** (rcorreia@aeronet.com) — 2 messages
-- **Evan M Wolff** (evan.m.wolff.mil@socom.mil, USSOCOM) — 2 messages
-- **Thomas N Wilcox** (thomas.wilcox.1@us.af.mil, USAF) — 1 message [NEW, IMPORTANT]
-- **Ruiz-Reyes, Angel R** (angel.r.ruiz-reyes.civ@us.navy.mil, NAWCAD) — 1 message [NEW, IMPORTANT]
-- **Shah, Dhruti** (dhruti.shah@global.lmco.com, Lockheed Martin) — 1 message (follow-up)
-- **Heather Freedman** (heather.freedman@tegus.com, Tegus Research) — 1 message [NEW]
-- **Christopher E Hartman, Jack Elston, Adrian Sepulveda** — 1 each
+- **Adrian Sepulveda** (asepulveda@aeronet.com, AeroNet) — 2 messages [ESCALATING: Battery Shipment coordination]
+- **Olaf Dietz** (olaf@supercool-earth.com, SuperCool Earth) — 1 message [NEW: Drone Inquiry response]
+- **Alasdair Brackenridge** (alasdair.brackenridge@global.lmco.com, Lockheed Martin) — 1 message [NEW, IMPORTANT: Raven SOW]
+- **Robert Correia, Evan M Wolff, Thomas N Wilcox, Ruiz-Reyes, Shah (Dhruti), Heather Freedman** — continuing from Jul 13–15
+- **Bassil El Masri** (belmasri@murraystate.edu, Murray State University) — 1 message [NEW: Battery Shipment]
 
 ### Top Recipients (Dan sending to)
-- **USAF/USSPACECOM** (Thomas N Wilcox) — 1 message (clearance status)
-- **Lockheed Martin** (Dhruti Shah) — 1 message (UAV/Sensor Classification)
-- **SuperCool Earth** (Dacia Leon) — 1 message [NEW: Drone Inquiry]
-- **NanoVeu team, AeroNet, University partners, NLR/NREL** — continuing from Jul 13–14
+- **Adrian Sepulveda** (AeroNet) — 3 messages [ESCALATING: Battery Shipment, operational logistics]
+- **Dacia Leon** (SuperCool Earth) — 1 message [Drone Inquiry response]
+- **Christopher E Hartman** (UMES) — 1 message [S3 delivery and training]
+- **dtprendergast@hotmail.com** (personal/external) — 1 message [Clearance Status forward]
+- **contact@flyermaps.com** (FlyerMaps) — 1 message [NEW: Mexico VFR Chart request]
+- **USAF, USSOCOM, Lockheed Martin, SuperCool Earth** — continuing from Jul 13–15
 
 ### Internal vs External
-- **External: ~75%** (increase: USAF, Navy NAWCAD, Lockheed Martin, Tegus, SuperCool Earth)
-- **Internal: ~25%** (Beck Cotter, Maciej Stachura, Jack Elston, Alex Lomis in group threads)
+- **External: ~80%** (increase: Lockheed Martin escalation [Alasdair Brackenridge], SuperCool Earth, FlyerMaps, Murray State, Tom Simcox/Bartington)
+- **Internal: ~20%** (Beck Cotter, Maciej Stachura, Jack Elston visible in group threads)
 
 ## Topic Patterns
 
-### Primary Projects/Subjects (Jul 13–15 cumulative)
-1. **RFI S0 / USSOCOM engagement** — 2 messages (USSOCOM, Evan Wolff) [IMPORTANT]
-2. **S3 Delivery and Training** — 2 messages (UMES, Christopher Hartman) [IMPORTANT]
-3. **Clearance Status** — 1 message to USAF (Thomas Wilcox); forwarded to USSPACECOM (Claire Lybrand) [IMPORTANT]
-4. **Black Swift TCE 26.2** — Navy event (NAWCAD/Anthony Brescia invitation, Jul 15 1pm MDT) [IMPORTANT, MULTIPLE RECIPIENTS]
-5. **UAV and Sensor Classification** — 1 message from Dhruti Shah (Lockheed Martin) [IMPORTANT]
-6. **Drone Inquiry** — 1 message to SuperCool Earth (Dacia Leon) [NEW, DRAFT]
-7. **National Security Software Experience** — Tegus Research interview request [NEW]
-8. **JASSM/LRASM Procurement** — Automated news digest (Air & Space Forces Magazine) [BACKGROUND]
-9. **NLR E2, Flight data report, Battery shipments, MHP data alignment, Lockheed Martin SBIR.R4** — continuing from Jul 13–14
+### Primary Projects/Subjects (Jul 13–17 cumulative)
+1. **Battery Shipment to KY 103032432** — 4 messages (Adrian Sepulveda, Bassil El Masri, SAN Operations) [ESCALATING, OPERATIONAL]
+2. **Raven - Draft Statement of Work** — 1 message from Alasdair Brackenridge (Lockheed Martin) [NEW, IMPORTANT, HIGH-LEVEL]
+3. **RFI S0 / USSOCOM engagement** — 2 messages (continuing from Jul 13–15)
+4. **S3 Delivery and Training** — continuing (UMES, Christopher Hartman)
+5. **Clearance Status** — forwarded to personal email (dtprendergast@hotmail.com) [OPERATIONAL/SECURITY]
+6. **Drone Inquiry** — 2 messages (SuperCool Earth: Dacia Leon, Olaf Dietz) [ADVANCING, COMMERCIAL]
+7. **UAS-MAG High Performance Dronecan Compass** — 1 message from Tom Simcox (Bartington) to Maciej Stachura [NEW, TECHNICAL, INBOX]
+8. **Popocatépetl Planning** — Google Drive document shared with Dan [NEW, GEOGRAPHIC FOCUS: MEXICO]
+9. **Mexico VFR Chart** — Dan requesting chart from FlyerMaps [NEW, GEOGRAPHIC FOCUS: MEXICO]
+10. **UAV and Sensor Classification** — continuing (Lockheed Martin)
 
 ### Key Organizations (New/Expanded)
-- **U.S. Air Force / USSPACECOM** — direct clearance status communication (Thomas Wilcox, USAF; Claire Lybrand, USSPACECOM) [NEW]
-- **U.S. Navy NAWCAD (Naval Air Warfare Center Aircraft Division)** — TCE 26.2 technical event (Angel Ruiz-Reyes, Anthony Brescia) [NEW]
-- **Lockheed Martin** — UAV/Sensor Classification topic (Dhruti Shah, follow-up) [ESCALATING]
-- **Tegus Research** — national security software interview request [NEW, EXTERNAL RESEARCH FIRM]
-- **SuperCool Earth** — drone inquiry [NEW, COMMERCIAL CONTACT]
-- **USSOCOM, UMES, NLR, NanoVeu, AeroNet, Stanford** — continuing
+- **Lockheed Martin** — escalating involvement: UAV/Sensor Classification (Jul 15), now **Raven SOW draft** from Alasdair Brackenridge (Jul 16) [TIER 1, ESCALATING]
+- **AeroNet** — battery shipment coordination spike (3 outbound messages from Dan to Adrian Sepulveda on Jul 16) [OPERATIONAL PRIORITY]
+- **Murray State University** — battery shipment destination/coordination (Bassil El Masri) [NEW]
+- **SuperCool Earth** — drone inquiry advancing (response from Olaf Dietz) [COMMERCIAL, ADVANCING]
+- **Bartington** — UAS-MAG compass components (Tom Simcox, visible in Maciej Stachura thread) [NEW, TECHNICAL SUPPLIER]
+- **FlyerMaps** — Mexico VFR chart provider [NEW, OPERATIONAL PLANNING]
+- **USSOCOM, USAF, Navy NAWCAD, UMES, NLR, Stanford** — continuing
+
+### Geographic Pattern (New)
+- **Mexico focus**: Popocatépetl Planning document shared (Jul 16), Mexico VFR Chart requested (Jul 16) [SUGGESTS OPERATIONAL/MISSION PLANNING]
 
 ## Communication Patterns
 
 ### Time Patterns
-- **Wednesday Jul 15**: Activity from 03:46 (automated), 08:03 (Tegus), 13:30 (Navy TCE invite), 16:37 (Dan to USAF), 17:03 (Dan to SuperCool), 20:33 (USAF forward to USSPACECOM), 22:45 (USAF chain complete)
-- **Cross-timezone coordination**: USAF/USSPACECOM thread spans UTC and MDT with rapid relay (16:37 MDT send → 22:45 UTC forward = 6-hour relay through military channels)
-- **Sustained government engagement**: Three separate DoD/military touchpoints on single day (USAF clearance, Navy TCE, NAWCAD coordination)
-- **Automated background monitoring**: Air & Space Forces Magazine daily digest (JASSM/LRASM procurement news) suggests monitoring of defense industry/procurement trends
+- **Thursday Jul 16**: Heavy activity (13 messages) — operational surge
+  - Morning/early: Lockheed Martin SOW (08:37 UTC)
+  - Mid-morning: FlyerMaps chart request (16:41 MDT)
+  - Midday: Battery shipment coordination spike (13:23, 14:05, 14:10, 14:41, 15:09, 15:45 MDT)
+  - UMES S3 response (14:10 MDT)
+  - Google Drive notification async (22:26 UTC, appears earlier due to timezone)
+  - AeroNet/SAN Operations relay (22:26 UTC = 16:26 MDT previous day relay)
+- **Friday Jul 17**: Tom Simcox/Bartington message (07:59 UTC) to Maciej Stachura [morning European time, early morning US time]
+- **Cross-timezone coordination**: Continued use of UTC timestamps with UTC-6 (MDT) activity; military/DoD partners using UTC
+- **Sustained multi-front engagement**: Jul 16 shows simultaneous activity on: Lockheed Martin (strategic), AeroNet (operational), UMES (delivery), Mexico planning (mission), SuperCool (commercial)
 
 ### Email Types (Updated)
-- **Government engagement**: RFI (USSOCOM), clearance status (USAF/USSPACECOM), technical event (Navy NAWCAD) — all marked IMPORTANT
-- **Defense contractor coordination**: UAV/Sensor Classification with Lockheed Martin (follow-up from Jul 14)
-- **External research/interview**: Tegus Research requesting national security software experience (qualitative research/intelligence)
-- **Commercial inquiry**: SuperCool Earth drone inquiry (status: DRAFT, not finalized)
-- **University partnerships, operational/logistics, proposal work**: Continuing from Jul 13–14
+- **Strategic partnerships**: Lockheed Martin Raven SOW (draft) — high-level coordination
+- **Operational logistics**: Battery shipment coordination (AeroNet, Murray State) — multi-party, multi-message threads
+- **Government/military engagement**: USSOCOM RFI, USAF clearance, Navy TCE (continuing from Jul 13–15)
+- **Commercial inquiry advancement**: SuperCool Earth drone inquiry receiving response from Olaf Dietz
+- **Mission/operational planning**: Mexico VFR chart, Popocatépetl planning document
+- **Technical component sourcing**: Bartington UAS-MAG compass (Tom Simcox)
+- **Automated/background**: Air & Space Forces Magazine digest (continuing)
 
 ### Marked IMPORTANT Indicators (Expanded)
-- **RFI S0 with USSOCOM** (continuing from Jul 13–14)
-- **S3 delivery and training with UMES** (continuing from Jul 13–14)
-- **Clearance Status** (USAF/USSPACECOM, new, Jul 15)
-- **Black Swift TCE 26.2** (Navy NAWCAD, new, Jul 15)
-- **UAV and Sensor Classification** (Lockheed Martin, new, Jul 15)
-- **Experience with National Security Software** (Tegus Research, new, Jul 15)
-
-## Key Relationships
-
-### Closest Collaborators
-- **Jack Elston** (Internal) — BD/proposal lead; now visible in Navy NAWCAD group thread alongside Beck Cotter, Maciej Stachura, Alex Lomis
-- **Beck Cotter** (Internal) — appears in multiple group threads (SBIR, Navy TCE); operations/finance likely role
-- **NanoVeu team, AeroNet partners** — continuing from Jul 13–14
-- **Navy NAWCAD team** (Angel Ruiz-Reyes, Anthony Brescia) — new direct engagement on TCE 26.2 technical event
-
-### External Relationships (High Priority — Tier 1)
-- **Evan M Wolff, USSOCOM** — active RFI engagement (continuing)
-- **Thomas N Wilcox, USAF** — clearance status coordination [NEW, TIER 1]
-- **Angel Ruiz-Reyes / Anthony Brescia, Navy NAWCAD** — technical event host [NEW, TIER 1]
-- **Dhruti Shah, Lockheed Martin** — UAV/Sensor Classification (escalating)
-- **Christopher E Hartman, UMES** — S3 delivery/training (continuing)
-
-### External Relationships (Secondary)
-- **Heather Freedman, Tegus Research** — national security software interview
-- **Dacia Leon, SuperCool Earth** — drone commercial inquiry
+- **Raven - Draft Statement of Work** (Lockheed Martin, Alasdair Brackenridge) [NEW, TIER 1]
+- **Battery Shipment to KY 103032432** (AeroNet, Murray State) [NEW, OPERATIONAL]
+- **Popocatépetl Planning** (Google Drive shared document) [NEW, MISSION PLANNING]
+- **Drone Inquiry** (SuperCool Earth, Olaf Dietz response) [ADVANCING]
+- **UAS-MAG High Performance Dronecan Compass** (Bartington/Tom Simcox, Maciej Stachura thread) [NEW, TECHNICAL]
+-

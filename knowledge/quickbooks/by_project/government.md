@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $4,490,094.28
-- **Total Expenses (Bills + Purchases):** $1,354,444.73
+- **Total Expenses (Bills + Purchases):** $1,362,799.73
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,135,649.55 (invoiced minus expenses)
+- **Net Position:** $3,127,294.55 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -76,8 +76,8 @@
 
 ---
 
-### **Materials & Supplies: $493,963.31**
-**Number of transactions:** 226  
+### **Materials & Supplies: $502,318.31**
+**Number of transactions:** 227  
 
 **Key vendors & items:**
 
@@ -146,4 +146,4 @@
     - $26.00 — Wire transfer (no Asana request; Alex purchase via email)
 
 - **Purchase #1010** (2026-07-30): **$8,355.00** [DC-Direct Material Purchases] — **S0 Deployment Tubes & Hardware**
-  - **
+  - *

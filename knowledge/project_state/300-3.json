@@ -12,85 +12,44 @@
     "contacts": []
   },
   "contract": {
-    "type": "fixed_price",
-    "number": "1305M226D0012",
+    "type": "unknown",
+    "number": null,
     "total_value": 483000.0,
-    "start_date": "2026-02-01",
-    "end_date": "2031-01-31",
-    "payment_cadence": "By ordering period (annual); travel reimbursable per FTR; NRE at task order level",
-    "documents": [
-      "drive://Budget Structure",
-      "drive://(1305M226D0012) Attachment 1-Specifications_Black Swift.pdf",
-      "drive://(1305M226D0012) Attachment 2-Schedule of Items and Prices_1305M226D0012.pdf"
-    ]
+    "start_date": "2026-07-31",
+    "end_date": "2026-07-31",
+    "payment_cadence": null,
+    "documents": []
   },
   "budget": {
-    "approved": 14680250.0,
-    "approved_source": "sow_drive",
-    "line_items": [
-      {
-        "category": "Equipment",
-        "amount": 10986250.0,
-        "description": "Black Swift S0 sUAS Platforms (550 EA across 5 periods at escalating unit prices: $18,000–$20,655)",
-        "source_doc": null
-      },
-      {
-        "category": "Labor",
-        "amount": 258000.0,
-        "description": "Mission Days Operational Support (30 EA per period × 5 periods = 150 missions @ $2,850 per mission day) and Operational/Testing Support (6 EA per period × 5 periods @ $6,000 each)",
-        "source_doc": null
-      },
-      {
-        "category": "Labor",
-        "amount": 18000.0,
-        "description": "Training: Operator and Observer Training Sessions (1 per period × 5 @ $6,000) + Instructor Training Sessions (1 per period × 5 @ $600)",
-        "source_doc": null
-      },
-      {
-        "category": "Travel",
-        "amount": 250000.0,
-        "description": "Travel for Operational Support (CLIN 1006/2006/3006/4006/5006: 5 × NTE $50,000 = $250,000 NTE, FTR-compliant)",
-        "source_doc": null
-      },
-      {
-        "category": "Other",
-        "amount": 60000.0,
-        "description": "Course Development: Operator and Observer Course Development + Instructor Training Course Development (10 CLINs × $6,000 across 5 periods)",
-        "source_doc": null
-      },
-      {
-        "category": "Other",
-        "amount": 990000.0,
-        "description": "Non-Recurring Engineering (NRE): Technical Documentation, Modeling, NHC Workflow Integration (9 NRE CLINs × $66,000 NTE across 5 periods = $990,000 NTE)",
-        "source_doc": null
-      }
-    ],
+    "approved": 483000.0,
+    "approved_source": "asana_custom_field",
+    "line_items": [],
     "spent": {
       "labor": {
-        "amount": 182853.75,
+        "amount": 185808.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-16"
+        "last_updated": "2026-07-17"
       },
       "purchases": {
         "amount": 970.76,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-07-16"
+        "last_updated": "2026-07-17"
       },
       "other_qbo": {
         "amount": 8355.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-07-16"
+        "last_updated": "2026-07-17"
       },
-      "total": 192179.51,
+      "total": 195134.51,
       "by_line_item": {}
     },
-    "committed": 899.84,
-    "remaining": 14487170.65,
+    "committed": 1197.76,
+    "remaining": 286667.73,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-16T09:04:37Z"
+    "last_reconciled": "2026-07-17T09:01:44Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -140,6 +99,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-07-16T09:04:37Z",
+  "last_full_rebuild": "2026-07-17T09:01:44Z",
   "last_incremental_update": null
 }
