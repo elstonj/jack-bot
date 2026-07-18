@@ -13,23 +13,27 @@
   },
   "contract": {
     "type": "unknown",
-    "number": null,
+    "number": "140G0323P0280",
     "total_value": 124230.0,
-    "start_date": null,
-    "end_date": null,
+    "start_date": "2023-09-01",
+    "end_date": "2025-09-30",
     "payment_cadence": null,
-    "documents": []
+    "documents": [
+      "drive://UAS Volcano Monitoring BST Nevado del Ruiz Mission Statement of Work",
+      "drive://140G0323P0280 Black Swift_P00002 (updated COR) (7.30.24).pdf",
+      "drive://P0001 Signed Modification for_no_cost_extension_with_USGS (03.05.24).pdf"
+    ]
   },
   "budget": {
     "approved": 124230.0,
-    "approved_source": "asana_custom_field",
+    "approved_source": "sow_drive",
     "line_items": [],
     "spent": {
       "labor": {
         "amount": 13803.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-17"
+        "last_updated": "2026-07-18"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +53,7 @@
     "committed": 0.0,
     "remaining": 104005.9,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-17T09:02:31Z"
+    "last_reconciled": "2026-07-18T09:04:50Z"
   },
   "milestones": [
     {
@@ -121,6 +125,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-07-17T09:02:31Z",
+  "last_full_rebuild": "2026-07-18T09:04:50Z",
   "last_incremental_update": null
 }

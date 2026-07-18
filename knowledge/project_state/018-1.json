@@ -15,10 +15,12 @@
     "type": "unknown",
     "number": null,
     "total_value": 86862.94,
-    "start_date": null,
-    "end_date": "2026-12-31",
+    "start_date": "2026-08-04",
+    "end_date": "2026-08-06",
     "payment_cadence": null,
-    "documents": []
+    "documents": [
+      "drive://Budget Car Rental Confirmation Nashville (Aug. 2026).pdf"
+    ]
   },
   "budget": {
     "approved": 86862.94,
@@ -26,10 +28,10 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 24635.0,
+        "amount": 25235.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-17"
+        "last_updated": "2026-07-18"
       },
       "purchases": {
         "amount": 0.0,
@@ -43,13 +45,13 @@
         "confidence": "exact",
         "last_updated": "2026-07-01"
       },
-      "total": 25134.0,
+      "total": 25734.0,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 61728.94,
+    "remaining": 61128.94,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-17T09:01:17Z"
+    "last_reconciled": "2026-07-18T09:03:42Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -75,6 +77,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-07-17T09:01:17Z",
+  "last_full_rebuild": "2026-07-18T09:03:42Z",
   "last_incremental_update": null
 }

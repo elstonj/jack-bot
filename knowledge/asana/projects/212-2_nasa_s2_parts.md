@@ -15,7 +15,7 @@
     - ⚠️ **April 30, 2026 (design adjustments & parts orders) — STALE/OVERRIDDEN per Maciej (2026-04-27 & 2026-05-04). Nate Straus directed to update Asana to "realistic numbers" post-ByLight meeting and communicate revised schedule to NASA customer.**
     - June 30, 2026 (launcher refurbishment)
     - September 30, 2026 (final delivery)
-- **Status:** **Active — forward progress in execution.** 5 open tasks. **🟢 PARTS ORDERING SUBSTANTIALLY COMPLETE (as of June 2–3, 2026):** Joshua Fromm confirms all payload parts for Murphy's Pond payloads and gimbal parts in ordering process; most parts expected to arrive by end of first week of June 2026. Main remaining work: rewiring new DB9 connector ("isn't a big deal at all"); all 3 payloads can be modified in ≤1 day post-parts-arrival. **🟡 CRITICAL SCHEDULE UPDATE STATUS UNKNOWN:** April 30, 2026 due dates in Asana are STALE. Nate Straus was directed to revise to realistic dates and communicate to NASA customer (not yet confirmed complete as of June 3).
+- **Status:** **Active — forward progress in execution.** 5 open tasks. **🟢 PARTS ORDERING SUBSTANTIALLY COMPLETE (as of June 2–3, 2026):** Joshua Fromm confirms all payload parts for Murphy's Pond payloads and gimbal parts in ordering process; most parts expected to arrive by end of first week of June 2026. Main remaining work: rewiring new DB9 connector ("isn't a big deal at all"); all 3 payloads can be modified in ≤1 day post-parts-arrival. **🟡 CRITICAL SCHEDULE UPDATE STATUS UNKNOWN:** April 30, 2026 due dates in Asana are STALE. Nate Straus was directed to revise to realistic dates and communicate to NASA customer (not yet confirmed complete as of July 6).
 - **Team Members:** 
   - Nate Straus (project owner — responsible for schedule update & customer communication; launcher refurbishment lead)
   - Josh Fromm (primary executor — parts procurement and design modifications; parts ordering substantially complete as of June 2–3)
@@ -23,9 +23,9 @@
   - Alex Lomis (oversight; RFI assessment lead)
 - **Priority:** Medium
 - **Risk Signals:** 
-  - **🟡 SCHEDULE UPDATE STATUS UNKNOWN:** Nate Straus was directed to update Asana with realistic dates and communicate revised schedule to NASA (directive as of April 27–May 4). Confirmation of completion not yet available as of June 3.
+  - **🟡 SCHEDULE UPDATE STATUS UNKNOWN:** Nate Straus was directed to update Asana with realistic dates and communicate revised schedule to NASA (directive as of April 27–May 4). Confirmation of completion not yet available as of July 6.
   - **🟢 NDAA COMPLIANCE LIKELY RESOLVED:** Joshua Fromm was blocking on NDAA scope uncertainty (April 17–20, 2026) but is now actively ordering payload parts with delivery expected (June 2–3, 2026), suggesting scope has been clarified or accepted.
-  - **🟡 RFI RESPONSE STATUS UNCLEAR:** NASA RFI analysis assigned to Alex Lomis or Josh Fromm (Maciej, April 27–May 4); no confirmation of initiation as of June 3. Link: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
+  - **🟡 RFI RESPONSE STATUS UNCLEAR:** NASA RFI analysis assigned to Alex Lomis or Josh Fromm (Maciej, April 27–May 4); no confirmation of initiation as of July 6. Link: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
 
 ## Key Deliverables & Milestones
 | Milestone | Original Due Date | Assignee | Status | Notes |
@@ -53,7 +53,7 @@
 ## Recent Activity
 
 **July 6, 2026:**
-- No updates specific to NASA S2 & Parts project this date.
+- No updates specific to NASA S2 & Parts project this date. *(Note: Jack Bot feedback entry references ISARRA Flight Week campaign with S0 VTOL units — appears to be different project context; included for completeness but not directly relevant to S2 & Parts scope.)*
 
 **June 2–3, 2026 (Team Corrections — Authoritative):**
 - **Joshua Fromm:** All payload parts for Murphy's Pond payloads and gimbal parts ordering now in final stages. Most parts expected to arrive by end of week (early June 2026). Main remaining task is rewiring new DB9 connector to new mating style — "isn't a big deal at all." All 3 payloads can be modified in ≤1 day once parts arrive. **This indicates active forward progress and strongly suggests NDAA scope uncertainty has been resolved or accepted. Payload modification work can begin immediately upon parts arrival.**
@@ -66,4 +66,4 @@
 
 ## Notes & Context
 
-- **S2 End-of-Life Context (July 2025):** Isaac Anderson requested cost breakdown for S2 parts including full S2 unit (July 11, 2025). BST sent Estimate 1362 (July 18, 2025) noting S2 is officially end-of-life as BST transitions to S3 
+- **S2 End-of-Life Context (July 2025):** Isaac Anderson requested cost breakdown for S2 parts including full S2

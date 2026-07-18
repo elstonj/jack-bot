@@ -96,7 +96,7 @@
 ## Open Items
 
 **1 Administrative Data Entry Task (No Due Date):**
-- Matthew Fladeland contact information record — data entry for NASA Ames Technology Transfer Office contact details (address: MS 202A-3 Moffett Field, CA 94035-1000). Created post-closure for reference purposes. **Status:** Open (administrative; no deadline).
+- Matthew Fladeland contact information record — data entry for NASA Ames Technology Transfer Office contact details (address: MS 202A-3 Moffett Field, CA 94035-1000; phone: 650.604.3325; email: matthew.fladeland@nasa.gov). Created post-closure for reference purposes. **Status:** Open (administrative; no deadline).
 
 ---
 
@@ -124,6 +124,4 @@
 
 **Daniel Prendergast (06/09/26, URGENT — Canada demo insurance requirement):**
 - ⚠️ **ACTION REQUIRED: CONFIRM S3 PLATFORM INSURANCE RENEWAL COMPLETION**
-- **Canada demo insurance requirements (06/09/26):**
-  - $5M Commercial General Liability policy
-  - $5
+- **Canada demo insurance requirements (06

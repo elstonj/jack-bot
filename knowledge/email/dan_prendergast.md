@@ -1,87 +1,76 @@
 # Dan Prendergast — Email Patterns
 
 ## Communication Volume
-- **46 messages scanned** covering Jul 13–17, 2026 (expanded from previous 33)
+- **55 messages scanned** covering Jul 13–17, 2026 (expanded from 46)
 - **Monday, Jul 13**: 14 messages
 - **Tuesday, Jul 14**: 12 messages
 - **Wednesday, Jul 15**: 7 messages
-- **Thursday, Jul 16**: 13 messages (new data) — sustained mid-week surge
-- Approximately **11.5 messages per day** across five-day period (operational baseline maintained)
+- **Thursday, Jul 16**: 13 messages
+- **Friday, Jul 17**: 9 messages (new data) — continued operational tempo into week's end
+- Approximately **11 messages per day** across five-day period (sustained operational baseline)
 
 ## Key Correspondents
 
 ### Top Senders to Dan
-- **Adrian Sepulveda** (asepulveda@aeronet.com, AeroNet) — 2 messages [ESCALATING: Battery Shipment coordination]
-- **Olaf Dietz** (olaf@supercool-earth.com, SuperCool Earth) — 1 message [NEW: Drone Inquiry response]
-- **Alasdair Brackenridge** (alasdair.brackenridge@global.lmco.com, Lockheed Martin) — 1 message [NEW, IMPORTANT: Raven SOW]
-- **Robert Correia, Evan M Wolff, Thomas N Wilcox, Ruiz-Reyes, Shah (Dhruti), Heather Freedman** — continuing from Jul 13–15
-- **Bassil El Masri** (belmasri@murraystate.edu, Murray State University) — 1 message [NEW: Battery Shipment]
+- **Evan M Wolff** (evan.m.wolff.mil@socom.mil, USSOCOM) — 1 message [ESCALATING: RFI S0 response, Friday]
+- **Jack Elston** (elstonj@blackswifttech.com, BST internal) — 1 message [IMPORTANT: RFI S0 context/relay, Friday]
+- **Bassil El Masri** (belmasri@murraystate.edu, Murray State University) — 2 messages [CONTINUING: Battery Shipment KY 103032432]
+- **Nejc Trost** (nejc.trost@c-astral.com, C-Astral) — 1 message [NEW: Vertiq, marked IMPORTANT, directed to Joshua Fromm but visible to Dan's inbox]
+- **Meredith Needham** (meredith.needham@blackswifttech.com, BST internal) — 1 message [NLR E2 coordination]
+- **Continuing**: Adrian Sepulveda (AeroNet), Alasdair Brackenridge (Lockheed Martin, via Beck Cotter relay), Christopher Hartman (UMES)
 
 ### Top Recipients (Dan sending to)
-- **Adrian Sepulveda** (AeroNet) — 3 messages [ESCALATING: Battery Shipment, operational logistics]
-- **Dacia Leon** (SuperCool Earth) — 1 message [Drone Inquiry response]
-- **Christopher E Hartman** (UMES) — 1 message [S3 delivery and training]
-- **dtprendergast@hotmail.com** (personal/external) — 1 message [Clearance Status forward]
-- **contact@flyermaps.com** (FlyerMaps) — 1 message [NEW: Mexico VFR Chart request]
-- **USAF, USSOCOM, Lockheed Martin, SuperCool Earth** — continuing from Jul 13–15
+- **Isabelle Laird** (Isabelle.Laird@nlr.gov, NLR/NREL) — 1 message [NEW: NLR E2 coordination, Friday]
+- **Matthew Neber** (Matthew.Neber@nlr.gov, NLR/NREL) — 1 message [NEW: NLR E2 coordination, Friday]
+- **Bassil El Masri** (Murray State) — 1 message [Battery Shipment follow-up]
+- **Evan M Wolff** (USSOCOM) — implied recipient [RFI S0 thread continuation]
+- **Continuing**: Adrian Sepulveda (AeroNet), Dacia Leon (SuperCool Earth), Christopher Hartman (UMES)
 
 ### Internal vs External
-- **External: ~80%** (increase: Lockheed Martin escalation [Alasdair Brackenridge], SuperCool Earth, FlyerMaps, Murray State, Tom Simcox/Bartington)
-- **Internal: ~20%** (Beck Cotter, Maciej Stachura, Jack Elston visible in group threads)
+- **External: ~75%** (slight decrease: NLR/NREL escalation, C-Astral, USSOCOM, Murray State, AeroNet, SuperCool Earth)
+- **Internal: ~25%** (increase: Beck Cotter relay on Lockheed Martin, Jack Elston on RFI S0, Meredith Needham on NLR E2)
+- **BST internal CC/relay pattern**: Beck Cotter and Meredith Needham facilitating external coordination (Lockheed Martin, NLR)
 
 ## Topic Patterns
 
-### Primary Projects/Subjects (Jul 13–17 cumulative)
-1. **Battery Shipment to KY 103032432** — 4 messages (Adrian Sepulveda, Bassil El Masri, SAN Operations) [ESCALATING, OPERATIONAL]
-2. **Raven - Draft Statement of Work** — 1 message from Alasdair Brackenridge (Lockheed Martin) [NEW, IMPORTANT, HIGH-LEVEL]
-3. **RFI S0 / USSOCOM engagement** — 2 messages (continuing from Jul 13–15)
-4. **S3 Delivery and Training** — continuing (UMES, Christopher Hartman)
-5. **Clearance Status** — forwarded to personal email (dtprendergast@hotmail.com) [OPERATIONAL/SECURITY]
-6. **Drone Inquiry** — 2 messages (SuperCool Earth: Dacia Leon, Olaf Dietz) [ADVANCING, COMMERCIAL]
-7. **UAS-MAG High Performance Dronecan Compass** — 1 message from Tom Simcox (Bartington) to Maciej Stachura [NEW, TECHNICAL, INBOX]
-8. **Popocatépetl Planning** — Google Drive document shared with Dan [NEW, GEOGRAPHIC FOCUS: MEXICO]
-9. **Mexico VFR Chart** — Dan requesting chart from FlyerMaps [NEW, GEOGRAPHIC FOCUS: MEXICO]
+### Primary Subjects (Jul 13–17 cumulative, ranked by activity)
+1. **Battery Shipment to KY 103032432** — 5 messages total (continuing: Bassil El Masri, AeroNet, SAN Operations) [OPERATIONAL, SUSTAINED]
+2. **RFI S0 / USSOCOM engagement** — 3 messages (Jack Elston relay + Evan M Wolff USSOCOM direct response, Jul 17) [ESCALATING: DIRECT DoD ENGAGEMENT]
+3. **NLR (formerly NREL) E2** — 3 messages (Dan to Isabelle Laird, Matthew Neber; Meredith Needham coordination, Jul 17) [NEW, ESCALATING, INTERNAL COORDINATION]
+4. **Raven - Draft Statement of Work** — 2 messages (Alasdair Brackenridge/Lockheed Martin, now relayed via Beck Cotter, Jul 17) [STRATEGIC, INTERNAL HANDOFF]
+5. **S3 Delivery and Training** — continuing (UMES)
+6. **Drone Inquiry** — 2 messages (SuperCool Earth: Dacia Leon, Olaf Dietz) [COMMERCIAL]
+7. **Vertiq** — 1 message from C-Astral (Nejc Trost to Joshua Fromm, visible to Dan) [NEW, COMPONENT/VENDOR, IMPORTANT]
+8. **Popocatépetl Planning** — continuing (mission planning)
+9. **Mexico VFR Chart** — continuing (operational planning)
 10. **UAV and Sensor Classification** — continuing (Lockheed Martin)
+11. **UAS-MAG High Performance Dronecan Compass** — continuing (Bartington)
 
-### Key Organizations (New/Expanded)
-- **Lockheed Martin** — escalating involvement: UAV/Sensor Classification (Jul 15), now **Raven SOW draft** from Alasdair Brackenridge (Jul 16) [TIER 1, ESCALATING]
-- **AeroNet** — battery shipment coordination spike (3 outbound messages from Dan to Adrian Sepulveda on Jul 16) [OPERATIONAL PRIORITY]
-- **Murray State University** — battery shipment destination/coordination (Bassil El Masri) [NEW]
-- **SuperCool Earth** — drone inquiry advancing (response from Olaf Dietz) [COMMERCIAL, ADVANCING]
-- **Bartington** — UAS-MAG compass components (Tom Simcox, visible in Maciej Stachura thread) [NEW, TECHNICAL SUPPLIER]
-- **FlyerMaps** — Mexico VFR chart provider [NEW, OPERATIONAL PLANNING]
-- **USSOCOM, USAF, Navy NAWCAD, UMES, NLR, Stanford** — continuing
+### Key Organizations (Expanded/Escalated)
+- **USSOCOM** — escalating: direct response from Evan M Wolff (USSOCOM MIL) on Friday (Jul 17), RFI S0 thread [TIER 1, DIRECT DoD MILITARY ENGAGEMENT, ESCALATING]
+- **NLR (formerly NREL)** — NEW escalation: dual direct messages from Isabelle Laird and Matthew Neber (Jul 17), internal BST coordination via Meredith Needham [TIER 1, NEW, GOVERNMENT LAB]
+- **Lockheed Martin** — continuing: Raven SOW now handled via internal relay (Beck Cotter) on Friday [STRATEGIC, INTERNAL COORDINATION PATTERN]
+- **AeroNet** — battery shipment operational lead (Adrian Sepulveda) [OPERATIONAL]
+- **Murray State University** — battery destination/coordination (Bassil El Masri, active through Friday) [OPERATIONAL]
+- **C-Astral** — NEW vendor/partner: Vertiq component inquiry (Nejc Trost) [NEW, COMPONENT SOURCING, MARKED IMPORTANT]
+- **SuperCool Earth, UMES, Bartington, FlyerMaps** — continuing
 
-### Geographic Pattern (New)
-- **Mexico focus**: Popocatépetl Planning document shared (Jul 16), Mexico VFR Chart requested (Jul 16) [SUGGESTS OPERATIONAL/MISSION PLANNING]
+### New Organizations/Contacts (Jul 17)
+- **C-Astral** (Nejc Trost, nejc.trost@c-astral.com) — Vertiq inquiry, routed to Joshua Fromm but visible in Dan's inbox [VENDOR, ESCALATED: MARKED IMPORTANT]
+- **NLR/NREL** direct contacts: **Isabelle Laird, Matthew Neber** — E2 project engagement [GOVERNMENT LAB, SIGNIFICANT]
 
 ## Communication Patterns
 
-### Time Patterns
-- **Thursday Jul 16**: Heavy activity (13 messages) — operational surge
-  - Morning/early: Lockheed Martin SOW (08:37 UTC)
-  - Mid-morning: FlyerMaps chart request (16:41 MDT)
-  - Midday: Battery shipment coordination spike (13:23, 14:05, 14:10, 14:41, 15:09, 15:45 MDT)
-  - UMES S3 response (14:10 MDT)
-  - Google Drive notification async (22:26 UTC, appears earlier due to timezone)
-  - AeroNet/SAN Operations relay (22:26 UTC = 16:26 MDT previous day relay)
-- **Friday Jul 17**: Tom Simcox/Bartington message (07:59 UTC) to Maciej Stachura [morning European time, early morning US time]
-- **Cross-timezone coordination**: Continued use of UTC timestamps with UTC-6 (MDT) activity; military/DoD partners using UTC
-- **Sustained multi-front engagement**: Jul 16 shows simultaneous activity on: Lockheed Martin (strategic), AeroNet (operational), UMES (delivery), Mexico planning (mission), SuperCool (commercial)
+### Time Patterns (Expanded)
+- **Friday, Jul 17**: 9 messages across full operational day
+  - **Early morning**: Jack Elston RFI S0 relay (11:46 MDT)
+  - **Mid-morning**: Dan to NLR contacts Laird & Neber (12:13 MDT), then to Bassil El Masri (12:33 MDT)
+  - **Early afternoon**: Dan to Laird/Needham (12:34 MDT), Meredith Needham response (13:35 local, ~CST)
+  - **Late afternoon**: Evan M Wolff USSOCOM response (16:12 UTC = 10:12 MDT) [overnight from military perspective]
+  - **Evening**: Beck Cotter to Lockheed Martin (Raven SOW) — late Friday coordination
+  - **Late evening CET**: Nejc Trost C-Astral response (20:24 CET = 12:24 MDT, appears later) [cross-timezone vendor response]
+- **Sustained cross-timezone ops**: UTC, UTC-6 (MDT/MST), CET coordination
+- **High-priority Friday engagement**: Multiple government/military partners responding same day (USSOCOM, NLR, Lockheed Martin)
 
-### Email Types (Updated)
-- **Strategic partnerships**: Lockheed Martin Raven SOW (draft) — high-level coordination
-- **Operational logistics**: Battery shipment coordination (AeroNet, Murray State) — multi-party, multi-message threads
-- **Government/military engagement**: USSOCOM RFI, USAF clearance, Navy TCE (continuing from Jul 13–15)
-- **Commercial inquiry advancement**: SuperCool Earth drone inquiry receiving response from Olaf Dietz
-- **Mission/operational planning**: Mexico VFR chart, Popocatépetl planning document
-- **Technical component sourcing**: Bartington UAS-MAG compass (Tom Simcox)
-- **Automated/background**: Air & Space Forces Magazine digest (continuing)
-
-### Marked IMPORTANT Indicators (Expanded)
-- **Raven - Draft Statement of Work** (Lockheed Martin, Alasdair Brackenridge) [NEW, TIER 1]
-- **Battery Shipment to KY 103032432** (AeroNet, Murray State) [NEW, OPERATIONAL]
-- **Popocatépetl Planning** (Google Drive shared document) [NEW, MISSION PLANNING]
-- **Drone Inquiry** (SuperCool Earth, Olaf Dietz response) [ADVANCING]
-- **UAS-MAG High Performance Dronecan Compass** (Bartington/Tom Simcox, Maciej Stachura thread) [NEW, TECHNICAL]
--
+### Email Relay/Coordination Patterns (New Observation)
+- **Beck Cotter → Dan → Lockheed Martin (Alasdair Brackenridge)**: Internal BST relay on strategic Raven SO

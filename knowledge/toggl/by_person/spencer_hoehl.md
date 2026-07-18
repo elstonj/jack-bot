@@ -1,63 +1,62 @@
 # Spencer Hoehl — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 73.8 hours
-- **Primary projects (top 3-4):**
+- **Total hours tracked:** 79.0 hours
+- **Primary projects (top 4):**
   1. [300-3] 2026 IDIQ (Hurricane) — 50.8 hours
-  2. Flight Checklists — 8.4 hours
-  3. [043-3] ByLight M2/Halo — 9.2 hours
-  4. [001-08] Flight Testing — 3.2 hours
-- **Time period covered:** Multiple tracking batches (latest batch: 6.7 hours)
+  2. [043-3] ByLight M2/Halo — 9.2 hours
+  3. Flight Checklists — 8.4 hours
+  4. [001-08] Flight Testing — 8.4 hours
+- **Time period covered:** Multiple tracking batches (latest batch: 5.2 hours)
 
 ## Project Breakdown
 - **[300-3] 2026 IDIQ (Hurricane)** (Client: NOAA)
   - Hours: 50.8
-  - Percentage: 68.8%
+  - Percentage: 64.3%
 
 - **[043-3] ByLight M2/Halo** (Client: ByLight)
   - Hours: 9.2
-  - Percentage: 12.5%
+  - Percentage: 11.6%
 
 - **Flight Checklists** (Client: Internal/Operations)
   - Hours: 8.4
-  - Percentage: 11.4%
+  - Percentage: 10.6%
 
 - **[001-08] Flight Testing** (Client: Internal)
-  - Hours: 3.2
-  - Percentage: 4.3%
+  - Hours: 8.4
+  - Percentage: 10.6%
 
 - **[001-13] General Operations** (Client: Overhead)
   - Hours: 1.3
-  - Percentage: 1.8%
+  - Percentage: 1.6%
 
 - **Project None** (Unallocated)
   - Hours: 0.9
-  - Percentage: 1.2%
+  - Percentage: 1.1%
 
 ## Recent Activity
-- **Latest batch (6.7 hours):** Significant shift toward Flight Checklists; now represents 77.6% of latest batch allocation (5.2 of 6.7 hours)
-- **Most recent entries (chronologically):**
-  - 0.7 hours on ByLight M2/Halo (no description)
-  - 3.1 hours on Flight Checklists (no description)
-  - 2.1 hours on Flight Checklists with tag: "QC"
-  - 0.8 hours on [300-3] 2026 IDIQ (Hurricane) (no description)
-  - 0.0 hours unallocated (no description)
-- **Documentation status:** Flight Checklists QC entry confirms first tagged task description in recent batches; indicates quality control work is emerging as distinct operational component
-- **Hurricane IDIQ declining allocation:** Dropped from 74.5% → 68.8% of total; lowest proportional allocation since tracking began
+- **Latest batch (5.2 hours):** Significant shift back to [001-08] Flight Testing; 100% of new batch allocation
+- **Most recent entry (chronologically):**
+  - 5.2 hours on [001-08] Flight Testing (no description)
+- **Notable pattern reversal:** Previous batch showed Flight Checklists surge (77.6% allocation); current batch pivots entirely to Flight Testing, suggesting project-level task completion or prioritization change
+- **Documentation continues:** Still no description on Flight Testing entry; maintains gap in task-level traceability
 
 ## Patterns
-- **Flight operations acceleration:** Flight Checklists workload surged 2.6× in latest batch (3.2h → 5.2h); combined with Flight Testing, flight ops now represent 15.7% of total tracked time (11.6 hours)
-- **Documented QC activity:** "QC" tag on 2.1h Flight Checklists entry suggests formalized quality control process; first explicit operational description in flight operations workstream
-- **Hurricane IDIQ sustained but decreasing emphasis:** Remains dominant (68.8%) but shows declining proportion; suggests capacity reallocation toward flight operations maturation
-- **ByLight M2/Halo stable:** 12.5% allocation consistent with prior batch; secondary project commitment maintained
-- **Session granularity maintained:** Blocks range 0.7–3.1 hours; consistent with established patterns
-- **Documentation gap narrowing:** First task description ("QC") in flight operations workstream; positive trend toward traceability
+- **Flight operations sustained emphasis:** Combined Flight Testing + Flight Checklists now represent 21.2% of total tracked time (16.8 hours); flight ops workload remains elevated but with oscillating project focus
+- **Batch-level volatility in flight ops:** Latest two batches show inverse allocation patterns—Flight Checklists dominated previous batch (5.2h), Flight Testing dominates current batch (5.2h); suggests either sprint-based workflow or resource scheduling across related operational domains
+- **Hurricane IDIQ declining proportion:** Now 64.3% (down from 68.8%); reflects capacity reallocation to flight ops without absolute hours reduction on NOAA work
+- **ByLight M2/Halo stable:** 11.6% allocation consistent; secondary project commitment maintained
+- **Session blocks:** Latest entry of 5.2 hours is larger than typical 0.7–3.1h blocks observed previously; suggests either extended focused session or aggregated logging
+- **QC tagging precedent not replicated:** Flight Testing entry lacks descriptors; QC pattern introduced in previous batch did not extend to this entry
 
 ## Recommendations
-- **Flight Checklists acceleration critical:** 77.6% of latest batch allocation warrants clarity—is this a temporary sprint or sustained operational shift? Clarify whether QC activity is part of flight readiness process or independent validation cycle
-- **QC tagging best practice:** Extend "QC" tagging pattern to other Flight Checklists entries retroactively and prospectively to build operational taxonomy
-- **Hurricane IDIQ rebalance watch:** 68.8% allocation remains healthy, but declining trend (−5.7pp) suggests shifting priorities; assess capacity impact and NOAA deliverable timeline
-- **Documentation urgency remains:** Three of five entries still lack descriptions; prioritize Flight Checklists entries given high batch allocation (5.2h untagged across entries 1 & 2)
-- **Flight operations standardization:** Consider checklist category tagging (e.g., "Flight Checklists - Preflight," "Flight Checklists - Post-flight") to distinguish operational phases
-- **Productivity sustainable:** 73.8 total hours with diversified allocation; no capacity concerns evident, but flight ops acceleration should be monitored for burnout risk given context-switching with Hurricane work
-- **Unallocated time:** 0.9 hours in "Project None" should be recategorized to appropriate project in next batch
+- **Flight Testing priority clarification urgent:** 100% batch allocation with 5.2h block warrants immediate context—is this a flight test event or sustained testing campaign? Clarify relationship to Flight Checklists work completed in prior batch
+- **Documentation enforcement critical:** Three consecutive entries now without descriptions across flight ops projects (Flight Checklists 3.1h + 2.1h QC; Flight Testing 5.2h); implement mandatory task description policy for entries >2 hours
+- **Batch oscillation analysis:** Investigate whether Flight Testing/Flight Checklists alternation reflects:
+  - Planned sprint cycles (checklist prep → testing execution → repeat)?
+  - Resource conflicts or capacity constraints?
+  - Distinct operational gates (preflight QC → flight execution)?
+- **Task taxonomy urgently needed:** Extend QC tagging to Flight Testing entries and create standardized categories (e.g., "Flight Testing - Preflight," "Flight Testing - Execution," "Flight Testing - Data Review") to disambiguate 16.8 hours of flight operations work
+- **Hurricane IDIQ impact assessment:** 64.3% allocation sustainable but declining trend (−4.5pp since previous batch); confirm NOAA deliverable status and capacity headroom for upcoming sprints
+- **Unallocated time recategorization:** 0.9 hours in "Project None" persists; assign to appropriate project immediately
+- **Burnout monitoring:** Flight ops intensity (5.2h single entry + prior 5.2h batch) suggests elevated context density; monitor for fatigue given concurrent 50.8h Hurricane commitment

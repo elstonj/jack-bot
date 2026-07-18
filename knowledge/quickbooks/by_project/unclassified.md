@@ -2,10 +2,10 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $1.00
-- **Total Expenses (Payments):** $3,518,468.32
+- **Total Expenses (Payments):** $3,521,608.07
 - **Total Purchase Orders:** $0.00
-- **Net Position:** -$3,518,467.32
-- **Date Range:** 2024-04-05 to 2026-07-09 (27 months, 5 days)
+- **Net Position:** -$3,521,607.07
+- **Date Range:** 2024-04-05 to 2026-07-18 (27 months, 13 days)
 
 ---
 
@@ -24,7 +24,7 @@
 ## Expenses by Cost Category
 
 **Note:** Transaction data does not include explicit account coding for cost categorization beyond project/class codes. The explicit account tags identified:
-- **GA-Finance & Bank Charges / QuickBooks Payments Fees:** $730.57 (cumulative)
+- **GA-Finance & Bank Charges / QuickBooks Payments Fees:** $870.82 (cumulative)
 
 All other transactions are recorded at project/class level without detailed cost category breakdown. Below is a **provisional categorization** based on vendor/project type and typical BST operations:
 
@@ -33,15 +33,15 @@ All other transactions are recorded at project/class level without detailed cost
 | Category | Total | # Transactions | Largest Items |
 |----------|-------|-----------------|----------------|
 | **Direct Labor** | ~$150,000–200,000 | ~15 | Isaac Anderson ($2,900), Mark Motter ($5,435), Prof. Fu-Kuo Change ($5,000), Temple Lee ($22,142) |
-| **Subcontractors** | ~$400,000–510,000 | ~28 | University partners, research institutions, specialized vendors, Embry-Riddle Aeronautical University ($23,865.99 cumulative), NOAA UASD ($4,580.00), IRISS CU Boulder ($664.98) |
+| **Subcontractors** | ~$400,000–513,000 | ~29 | University partners, research institutions, specialized vendors, Embry-Riddle Aeronautical University ($23,865.99 cumulative), NOAA UASD ($4,580.00), IRISS CU Boulder ($664.98), **Alliance for Energy Innovation, LLC ($3,000.00)** |
 | **Equipment** | ~$600,000–800,000 | ~20 | Navy SBIR/STTR programs, By Light Mustang ($350K), equipment-focused projects |
 | **Materials & Supplies** | ~$300,000–400,000 | ~18 | Murphy's Pond CH4, CRATER, AREN, prototype build materials |
 | **Travel** | ~$50,000–75,000 | ~8 | Phase1 Aviation ($6,105), Krateo Sky ($10,860.48), travel/logistics for field projects |
 | **Shipping/Freight** | ~$30,000–50,000 | ~5 | Implied in project expenses (not separately itemized) |
-| **Indirect Costs / G&A** | ~$730.57 | 7 | QuickBooks Payments fees (cumulative: $25.75 + $250.00 + $7.50 + $250.00 + $127.07 + $236.12 + $34.50) |
+| **Indirect Costs / G&A** | ~$870.82 | 8 | QuickBooks Payments fees (cumulative: $25.75 + $250.00 + $7.50 + $250.00 + $127.07 + $236.12 + $34.50 + **$139.75**) |
 | **Rent/Facilities** | ~$0 | 0 | None explicitly recorded |
-| **Other** | ~$800,000–1,000,000 | ~30 | Project pass-throughs, research partnerships, institutional charges |
-| **TOTAL** | **$3,518,468.32** | **103** | — |
+| **Other** | ~$800,000–1,000,000 | ~31 | Project pass-throughs, research partnerships, institutional charges |
+| **TOTAL** | **$3,521,608.07** | **105** | — |
 
 **⚠️ Limitation:** Without detailed account-level coding on each line item, precise cost categorization is not possible from this dataset. **To improve cost tracking, recommend:**
 1. Require all QB transactions to include account/cost-category tags
@@ -93,12 +93,13 @@ All other transactions are recorded at project/class level without detailed cost
 | (unclassified) | Nestor Rivera | $500.00 | 2 |
 | (unclassified) | NOAA UASD | $4,580.00 | 1 |
 | (unclassified) | IRISS, CU Boulder | $664.98 | 1 |
-| (unclassified) | QuickBooks Payments Fees | $730.57 | 7 |
-| **TOTAL** | | **$3,518,468.32** | **103** |
+| (unclassified) | **Alliance for Energy Innovation, LLC** | **$3,000.00** | **1** |
+| (unclassified) | QuickBooks Payments Fees | $870.82 | 8 |
+| **TOTAL** | | **$3,521,608.07** | **105** |
 
 **July 2026 Updates (New):**
-- **IRISS, CU Boulder:** +$664.98 (new transaction 2026-07-08; Payment ID 042486)
-- **QuickBooks Payments Fees:** +$34.50 (DiscountRateFee daily fee 2026-07-08; cumulative total now $730.57)
+- **Alliance for Energy Innovation, LLC:** +$3,000.00 (new transaction 2026-07-17; Payment ID 18ab0rtuep3k)
+- **QuickBooks Payments Fees:** +$139.75 (DiscountRateFee daily fee 2026-07-17; cumulative total now $870.82)
 
 ---
 
@@ -123,5 +124,4 @@ All other transactions are recorded at project/class level without detailed cost
 | 2025-06 | $166,581.81 | S0 Hurricane ($140,400), Embry-Riddle ($21,182) |
 | 2025-07 | $70,000.00 | S0 Hurricane Phase II ($70,000) |
 | 2025-08 | $284,340.10 | S0 Hurricane ($105,610), Navy STTR ($70,000), SMM Phase II ($99,725), Isaac Anderson ($2,900), Phase1 Aviation ($6,105) |
-| 2025-09 | $112,492.50 | Navy SBIR ($70,000), CRATER ($39,310), Murphy's Pond ($37,704), NASA Persistence ($4,428), UVA ($492.50) |
-| 2025-10 | $242,310.00 | S0 Hurricane ($0, deferred
+| 2025-09 | $112,492.50 | Navy SBIR ($70,

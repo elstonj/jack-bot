@@ -4,11 +4,11 @@
 This channel is primarily used for coordinating Black Swift Technologies' SBIR (Small Business Innovation Research) projects focused on volcanic monitoring using unmanned aircraft systems. The main projects involve deploying S2 and S3 aircraft with specialized sensor payloads to study volcanic emissions and activity, with NASA oversight and collaboration with USGS scientists.
 
 Key participants include:
-- **Jack Elston** (Project lead, technical decisions, circuit design, documentation)
+- **Jack Elston** (Project lead, technical decisions, circuit design, documentation, flight logistics)
 - **Joshua Fromm** (Payload development, technical integration, diagnostics, aircraft inventory tracking)
 - **Danny Troke** (Flight operations, equipment)
 - **Maciej Smolka** (Regulatory, reporting, flight planning)
-- **Dan Prendergast** (Flight planning software, technical development, logistics, contracting inquiries, documentation, S3 operator's manual, data collection patterns)
+- **Dan Prendergast** (Flight planning software, technical development, logistics, contracting inquiries, documentation, S3 operator's manual, data collection patterns, site selection analysis)
 - **Meredith Needham** (Administrative support, travel coordination)
 - **Ethan Domagala** (Flight operations support)
 - **Nate** (Remote ID/registration support)
@@ -78,12 +78,12 @@ The channel covers activities from 2020 through July 2026, with high activity du
 **Photogrammetry Payload/System Performance Validation (July 2, 2026)**
 - Jack Elston confirmed that photogrammetry payload system "worked quite well" - assessment indicates readiness for Popocatépetl deployment
 
-**Takeoff/Landing Location Selection for Popocatépetl (July 16, 2026)**
-- Dan Prendergast querying flight safety constraints regarding southernmost of three identified takeoff/landing sites
-- Issue: Determine if southernmost location (yellow polygon North of crater) is too close to crater for safety reasons
-- Trade-off: Southernmost site offers shortest transit time and best view of valley with target vents and sensors (white translucent areas)
-- Status: Decision pending (awaiting input from Jack Elston and Joshua Fromm, tagged at time of message)
-- Reference tool: Google Earth project created documenting all three candidate locations
+**Takeoff/Landing Location Selection for Popocatépetl (July 16-17, 2026)**
+- **Issue**: Three candidate takeoff/landing sites identified, with analysis of southernmost location's proximity to crater
+- **Constraints**: Paso de Cortés confirmed as end of public access - may be required as operational base
+- **Options**: Jack Elston recalled that the closer location (presumably the southernmost site) was discussed as an option but Paso de Cortés may be necessary operational constraint
+- **Status**: Decision finalized - operations will likely proceed from Paso de Cortés as the designated takeoff/landing location
+- **Reference tool**: Google Earth project created documenting candidate locations
 
 ## Projects & Initiatives
 
@@ -105,6 +105,6 @@ The channel covers activities from 2020 through July 2026, with high activity du
 - **Significance**: Photogrammetry payload being adapted for Popocatépetl mission; performance confirmation indicates readiness for conversion
 
 **Popocatépetl Volcano (Mexico)**
-- **Status**: Deployment deferred from April 19-27, 2026; S3 repairs completed and testing underway as of late June 2026; photogrammetry payload conversion progressing with test flight planned before end of July 2026; payload system performance validated as of July 2, 2026; flight permissions documentation target completion by week of July 6, 2026; S3 operator's manual in progress as of July 13-14, 2026 with submission expected very soon; data collection patterns and takeoff/landing location analysis underway as of July 16, 2026
+- **Status**: Deployment deferred from April 19-27, 2026; S3 repairs completed and testing underway as of late June 2026; photogrammetry payload conversion progressing with test flight planned before end of July 2026; payload system performance validated as of July 2, 2026; flight permissions documentation target completion by week of July 6, 2026; S3 operator's manual in progress as of July 13-14, 2026 with submission expected very soon; takeoff/landing location determined as Paso de Cortés as of July 17, 2026
 - **Significance**: SO2 output 10-50x higher than Makushin
-- **Aircraft**: S3 (Registration 20686S30001) selected due to high-altitude requirements (18,000-20,000 ft
+- **Aircraft**: S3 (Registration 20686S30001) selected

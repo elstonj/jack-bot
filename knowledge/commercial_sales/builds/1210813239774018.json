@@ -3,7 +3,7 @@
   "asana_task_name": "Ultra PCS - pneumatic launcher collab",
   "customer": "USAF",
   "customer_contact": "Tracy Harris",
-  "customer_email": "Tracy.harris@ultra-ice.com",
+  "customer_email": "tracy.harris@ultra-ice.com",
   "receive_by": null,
   "ship_to": null,
   "items": [
@@ -29,13 +29,13 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Early-stage engineering collaboration with USAF/Ultra PCS on pneumatic launcher design for C-130/KC135 and S0 platform. Technical discussion underway on UAV dimensions, tube interfaces (P3 sonobuoy vs. Common Launch Tube), and ejection velocity requirements. Last contact 2026-01-15.",
+  "notes": "Early-stage engineering collaboration with USAF/Ultra PCS on pneumatic launcher design for C-130/KC135 and S0 platform. Technical discussion underway on UAV dimensions, tube interfaces (P3 sonobuoy vs. Common Launch Tube), and ejection velocity requirements. Last substantive contact 2026-02-25 (meeting attempt); most recent Asana activity 2026-01-15.",
   "missing_fields": [
     "receive_by",
     "ship_to",
-    "invoice_amount",
-    "estimate_date"
+    "estimate_date",
+    "invoice_amount"
   ],
-  "last_evidence_date": "2026-01-15",
-  "last_contact_date": null
+  "last_evidence_date": "2026-02-25",
+  "last_contact_date": "2026-02-25"
 }

@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $4,490,094.28
-- **Total Expenses (Bills + Purchases):** $1,362,799.73
+- **Total Expenses (Bills + Purchases):** $1,371,154.73
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,127,294.55 (invoiced minus expenses)
+- **Net Position:** $3,118,939.55 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -76,8 +76,8 @@
 
 ---
 
-### **Materials & Supplies: $502,318.31**
-**Number of transactions:** 227  
+### **Materials & Supplies: $510,673.31**
+**Number of transactions:** 228  
 
 **Key vendors & items:**
 
@@ -124,7 +124,7 @@
 
 - **Maxmoral 3PCS DC-099 DC Power Socket** (2026-07-09): $6.99 [DC-Direct Material Purchases]
 
-- **Recent transactions (2026-06-24 to 2026-07-13):**
+- **Recent transactions (2026-06-24 to 2026-07-30):**
   - **Purchase #0624JELSTON** (2026-06-24): $23.51 [DC-Direct Material Purchases]
     - $2.58 — By Light Supplies
     - $20.93 — Navy Magnetometer
@@ -145,5 +145,5 @@
     - $130.00 — Wire transfer (no Asana request; Alex purchase via email)
     - $26.00 — Wire transfer (no Asana request; Alex purchase via email)
 
-- **Purchase #1010** (2026-07-30): **$8,355.00** [DC-Direct Material Purchases] — **S0 Deployment Tubes & Hardware**
-  - *
+  - **Purchase #1010** (2026-07-30): **$8,355.00** [DC-Direct Material Purchases] — **S0 Deployment Tubes & Hardware**
+    -

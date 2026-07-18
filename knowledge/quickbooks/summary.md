@@ -1,5 +1,5 @@
 # BST Financial Overview (QuickBooks)
-**Period: July 16–17, 2026 | Data Through September 28, 2026**
+**Period: July 17–18, 2026 | Cumulative Data: April 2024 – July 2026**
 
 ---
 
@@ -7,56 +7,76 @@
 
 | Metric | Amount |
 |--------|--------|
-| **Total Revenue (Invoices)** | $4,512,988.64 |
-| **Total Expenses** | $2,616,382.63 |
-| **Net Income (Estimated)** | $1,896,606.01 |
-
-*Note: P&L report shows only -$626.00 for the 2-day period (7/16–7/17); cumulative project data reflects longer historical period.*
+| **Total Revenue (Invoiced)** | **$7,478,479.00** |
+| **Total Expenses** | **$5,387,204.39** |
+| **Net Income (Position)** | **$2,091,274.61** |
+| **Outstanding Receivables** | **$3,223,783.82** |
 
 ---
 
 ## By Project/Class
+*(Sorted by total revenue, highest first)*
 
-### 1. **Government**
-- **Total Revenue:** $4,490,094.28
-- **Total Expenses:** $1,362,799.73
-- **Net Position:** $3,127,294.55 ✓ (Strong profit)
-- **Status:** Active – 76 invoices outstanding
-- **Outstanding A/R:** $3,223,783.82
-
-### 2. **BST Internal**
-- **Total Revenue:** $22,894.36
-- **Total Expenses:** $1,253,582.90
-- **Net Position:** -$1,230,688.54 ✗ (Significant loss)
-- **Status:** Active – 1,278 transactions over 27+ months
-- **Outstanding Purchase Orders:** $1,700.00 (PO #1038, Amprius)
+| Project | Total Revenue | Total Expenses | Net Position | Status |
+|---------|--------------|----------------|--------------|--------|
+| **Government** | $4,490,094.28 | $1,371,154.73 | **+$3,118,939.55** | Profitable |
+| **Commercial** | $2,995,489.34 | $241,843.16 | **+$2,753,646.18** | Highly Profitable |
+| **BST Internal** | $22,894.36 | $1,253,598.43 | **-$1,230,703.07** | Loss (internal ops) |
+| **Unclassified** | $1.00 | $3,521,608.07 | **-$3,521,607.07** | Critical concern |
+| **TOTAL** | **$7,508,478.98** | **$6,388,204.39** | **+$1,120,274.59** | Overall Positive |
 
 ---
 
 ## Cash Flow Indicators
 
 ### Accounts Receivable (Outstanding)
-- **Government:** $3,223,783.82 remaining on invoices (71.6% of total government revenue)
-- **BST Internal:** Limited invoice data provided; revenue-to-expense ratio suggests minimal A/R
+- **Government projects**: $3,223,783.82 outstanding (72% of AR)
+- **Commercial projects**: $3,000.00 outstanding (Invoice #1772, Alliance for Energy Innovation, 2026-07-17)
+- **Total AR**: ~$3,226,783.82
 
-### Recent Large Expenses
-- **BST Internal R&D:** $626.00 (period activity, IRAD code)
-- **Cumulative new expenses (BST Internal, this period):** $25,987.93–$25,994.93
+### Outstanding Purchase Orders
+- BST Internal: $1,700.00 (PO #1038, Amprius)
+- Commercial: $1,977.50
+- Government: $832.00
+- **Total POs**: $4,509.50
 
-### Purchase Orders Outstanding
-- **BST Internal:** $1,700.00 (Amprius, PO #1038)
-- **Government:** $832.00
-
----
-
-## Key Observations
-
-1. **Government contracts** are the primary revenue driver and profit source (+$3.1M net).
-2. **BST Internal** operations show significant cumulative losses (-$1.2M), suggesting R&D or overhead costs exceed internal billing.
-3. **Cash flow concern:** $3.2M in government A/R outstanding; collection timing will impact liquidity.
-4. **Transaction volume:** BST Internal shows 1,278 transactions over 27 months (high activity), while Government has 76 active invoices.
+### Recent Activity
+- **Most recent invoice**: Invoice #1772 (Commercial) – July 17, 2026 – $3,000.00 from Alliance for Energy Innovation
+- **Period P&L (July 17–18 only)**: $3,000.00 revenue, $155.28 expenses, $2,844.72 net
 
 ---
 
-## Unclassified Transactions
-No unclassified transactions identified in provided data; all transactions assigned to either Government or BST Internal classes.
+## ⚠️ Critical Issues
+
+### 1. **Unclassified Transactions** (Severe)
+- **Revenue**: $1.00 (Oklahoma State University, settled in Sept 2024)
+- **Expenses**: $3,521,608.07
+- **Net**: -$3,521,607.07
+- **Implication**: Over $3.5M in unclassified expenses represent a major accounting concern. These must be reclassified to proper projects/cost centers immediately.
+
+### 2. **BST Internal (Likely Overhead)**
+- **Net Position**: -$1,230,703.07
+- **Expenses**: $1,253,598.43 (cumulative)
+- **Revenue**: Only $22,894.36 (1.8% cost recovery)
+- **Implication**: Operating costs exceed internal billing significantly; may indicate overhead allocation issue.
+
+---
+
+## Profitability Summary
+
+| Category | % of Total Revenue |
+|----------|-------------------|
+| Government (Profitable) | 60.0% |
+| Commercial (Highly Profitable) | 40.0% |
+| Internal/Unclassified (Loss-making) | 0.03% |
+
+**Key Finding**: Excluding unclassified expenses, revenue-generating projects (Government + Commercial) show **$5,872,585.73 net profit** across $7.49B in revenue.
+
+---
+
+## Recommendations
+
+1. **Immediately reclassify the $3.5M in unclassified expenses** to appropriate projects
+2. **Review BST Internal cost allocation**—consider whether expenses should be distributed to billable projects
+3. **Monitor Government AR**—$3.2M outstanding requires collection follow-up
+4. **Follow up on Alliance for Energy Innovation Invoice #1772** ($3,000 balance)

@@ -107,4 +107,4 @@ Project notes indicate ongoing development of marketing strategy with the follow
 ### Outstanding Items
 - **Lease Termination Planning** (Open, unassigned, no due date)
   - Property: 6
-  - Context: 6.23 CAM real
+  - Context: Real estate property taxes and building insurance;

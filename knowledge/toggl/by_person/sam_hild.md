@@ -1,39 +1,40 @@
 # Sam Hild — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 155.8 hours
+- **Total hours tracked:** 164.6 hours
 - **Primary projects:** 
-  1. Unassigned/None (83.8 hours, 53.8%)
-  2. [300-3] 2026 IDIQ (Hurricane) (35.0 hours, 22.5%)
-  3. [001-07] S3 IRAD (11.6 hours, 7.4%)
-  4. [001-04] S0 VTOL IRAD (6.2 hours, 4.0%)
-  5. [550-1] Navy SBIR: Magnetometer (10.6 hours, 6.8%)
+  1. Unassigned/None (83.8 hours, 50.9%)
+  2. [300-3] 2026 IDIQ (Hurricane) (36.7 hours, 22.3%)
+  3. [001-07] S3 IRAD (13.4 hours, 8.1%)
+  4. [550-1] Navy SBIR: Magnetometer (20.8 hours, 12.6%)
+  5. [001-04] S0 VTOL IRAD (6.2 hours, 3.8%)
 - **Time period covered:** Multiple data batches (cumulative)
 
 ## Project Breakdown
-- **No project assigned:** 83.8 hours (53.8%) 🚨 **ELEVATED** — *Unassigned backlog increased by 2.5 hours; slight uptick in current batch (2.5h with no description)*
-- **[300-3] 2026 IDIQ (Hurricane)** (Client: [300] NOAA): 35.0 hours (22.5%) — *Stable; no new activity in this batch*
-  - Latest entry: "General QC" (7.3h from prior batch)
-- **[550-1] Navy SBIR: Magnetometer:** 10.6 hours (6.8%) — **✅ PROJECT ACTIVE AGAIN** — *5.6 hours added; renewed engagement with clear task documentation*
-  - Latest entry: "QUSpin Sensor Setup and Bug Fixing" (5.6h)
-- **[001-07] S3 IRAD** (Client: [001] IRAD): 11.6 hours (7.4%)
-- **[001-04] S0 VTOL IRAD** (Client: [001] IRAD): 6.2 hours (4.0%)
-- **Other projects:** 8.5 hours (5.5%)
+- **No project assigned:** 83.8 hours (50.9%) — *Unassigned backlog stabilized; no new unassigned entries in current batch; continues downward trend*
+- **[300-3] 2026 IDIQ (Hurricane)** (Client: [300] NOAA): 36.7 hours (22.3%) — *Steady activity; +1.7 hours (General QC)*
+- **[550-1] Navy SBIR: Magnetometer:** 20.8 hours (12.6%) — **✅ SUSTAINED ACTIVITY** — *+5.3 hours; maintains momentum from previous batch; now 2nd largest active project by hours*
+  - Latest entry: "QUSpin Sensor Setup and Bug Fixing" (5.3h)
+- **[001-07] S3 IRAD** (Client: [001] IRAD): 13.4 hours (8.1%) — *+1.8 hours (Motor Bug); continued engagement*
+- **[001-04] S0 VTOL IRAD** (Client: [001] IRAD): 6.2 hours (3.8%)
+- **Other projects:** 3.7 hours (2.3%)
 
 ## Recent Activity
-- **Latest entries (this batch):**
-  1. 5.6 hours on **[550-1] Navy SBIR: Magnetometer** — "QUSpin Sensor Setup and Bug Fixing" (descriptive, project-assigned)
-  2. 2.5 hours on **No project** — (no description provided) ⚠️ *Unassigned with missing task detail*
-- **Positive signal:** Magnetometer project shows technical focus (sensor setup, debugging)
-- **Concern:** Unassigned time increased; entry lacks task description
+- **Latest entries (this batch, all project-assigned):**
+  1. 5.3 hours on **[550-1] Navy SBIR: Magnetometer** — "QUSpin Sensor Setup and Bug Fixing" (technical, focused)
+  2. 1.8 hours on **[001-07] S3 IRAD** — "Motor Bug" (specific task, problem-focused)
+  3. 1.7 hours on **[300-3] 2026 IDIQ (Hurricane)** — "General QC" (maintenance task)
+- **Positive signals:** All tracked time is project-assigned with descriptive task labels; no unassigned entries in this batch
+- **Current focus:** Technical debugging and sensor work (magnetometer, motor issues); quality assurance activities
 
 ## Patterns
-- **Unassigned backlog trend:**
+- **Unassigned backlog trend (improving):**
   - Batch 3: 55.6%
   - Batch 4: 57.9%
-  - Batch 5: 55.0% (prior) — *Decline suggested improvement*
-  - Batch 6 (current): 53.8% — *Continues downward trajectory, but only marginally*
-- **Project rotation observed:** Focus shifting between [300-3] Hurricane IDIQ and [550-1] Magnetometer SBIR; both active projects within last two batches
-- **Documentation variance:** Assigned project time includes clear task descriptions; unassigned time lacks detail
-- **Outstanding concern:** 83.8 cumulative unassigned hours (53.8%) remains substantial and requires systematic allocation/clarification
-- **Compliance status:** **SLOWLY IMPROVING** — Unassigned percentage declining, assigned project work documented, but backlog still >50% of tracked time
+  - Batch 5: 55.0%
+  - Batch 6: 53.8%
+  - Batch 7 (current): 50.9% — *Continued decline; now below 51%*
+- **Project portfolio stabilizing:** Magnetometer SBIR now consistently active; three primary projects (Hurricane, Magnetometer, S3 IRAD) dominating recent work
+- **Documentation quality:** Current batch shows 100% assignment rate with clear task descriptions—substantial improvement over prior batches
+- **Work type distribution:** Mix of sensor/hardware work (magnetometer), software debugging (motor bug), and QC activities
+- **Compliance status:** **IMPROVING TREND CONTINUES** — Unassigned percentage down to 50.9%; all current batch entries properly categorized and documented; backlog allocation progressing systematically
