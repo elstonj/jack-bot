@@ -1,88 +1,82 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **170 messages total** scanned across ~5 days (Jul 12-17, 2026)
-- Average ~34 messages/day
-- Peak activity remains Jul 14-16; continued high volume through Jul 17
-- Significant noise persists from automated/promotional emails and vendor transactional messages routed through purchasing@blackswifttech.com
+- **197 messages total** scanned across ~6 days (Jul 12-18, 2026)
+- Average ~33 messages/day
+- Sustained high volume Jul 14-18; slight moderation on Jul 18 (weekend)
+- Continued noise from automated/promotional emails and vendor transactional messages routed through purchasing@blackswifttech.com
 
 ## Key Correspondents
 
 ### Top Senders (Direct to josh.fromm@blackswifttech.com)
-1. **Jack Elston** (elstonj@blackswifttech.com) — **SUSTAINED ELEVATED**: "Meeting Updates" thread (marked IMPORTANT, Jul 16); now includes NOAA Federal coordination
-2. **UAS VISION** (russ@uasvision.com) — DAILY NEWS (marked UNREAD, Jul 16; ongoing subscription)
-3. **Harris Aerial** (marketing@harrisaerial.com) — New product launch (H4C model, marked UNREAD, Jul 16)
-4. **AliExpress** (ae-ug-ut-interest29@mail.aliexpress.com) — Promotional (Jul 16-17)
-5. **DigiKey** (reply-to@e.digikey.com) — Design trend webinars (marked UNREAD, Jul 16)
-6. **Frontier Airlines** (deals@emails.flyfrontier.com) — Promotional (marked IMPORTANT, Jul 16)
-7. **Hilton Honors** (noreply@h5.hilton.com) — Promotional (marked IMPORTANT, Jul 16)
+1. **Jack Elston** (elstonj@blackswifttech.com) — "Meeting Updates" thread (marked IMPORTANT, Jul 16-17); NOAA Federal coordination ongoing
+2. **Nejc Trost** (nejc.trost@c-astral.com) — **NEW/REACTIVATED**: "Re: Vertiq" (marked IMPORTANT, Jul 17) — C-Astral partner, technical discussion
+3. **Roger Riley** (Roger@krateosky.com) — **NEW VISIBLE**: "Critical Component Tiger Team (C2T2): Bi-Weekly Meeting" (marked IMPORTANT, Jul 17); multi-party vendor/partner coordination
+4. **Foster Hill** (fhill@mmsolutions.biz) — Case customization follow-up (marked IMPORTANT, Jul 17); escalated from previous sales order
+5. **UAS VISION** (russ@uasvision.com) — DAILY NEWS (Jul 17)
+6. **ProtoSpace Mfg** (marketingemail@protocase.com) — Custom manufacturing promotional (Jul 17)
+7. **TraceParts** (email@news.traceparts.com) — Interconnect review #4 (Jul 18)
 
-### Top Senders via Purchasing (Group Inbox)
-- **Jetpack** — WordPress backup/restoration notifications (3+ messages, Jul 16)
-- **WordPress.com** — Site migration and setup (3+ messages, Jul 16)
-- **Harbor Freight** — Promotional (Jul 16-17)
-- **SendCutSend** — Shipment tracking (multiple, Jul 16)
-- **USPS Informed Delivery** — Daily mail digest (Jul 16)
-- **eBay** — Search alerts (futaba 14sg, Jul 16)
-- **FTDI**, **CADDXFPV**, **McMaster-Carr**, **Spindrift Market** — Vendor transactional
+### External Government (NOAA Federal) — Continued Thread Activity
+- **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov)
+- **Joe Cione** (joe.cione@noaa.gov)
+- **Danielle Varwig** (danielle.varwig@noaa.gov)
+- **Status**: "Meeting Updates" thread continued Jul 17 with additional exchanges; 3+ visible rounds (10:49 AM, 13:31 PM, 14:46 PM EDT); marked IMPORTANT; indicates ongoing coordination (weather/atmospheric research partnership likely)
 
-### Primary Recipients (When Josh Initiates)
-- **Foster Hill** (fhill@mmsolutions.biz) — Sales Order 43213 Confirmation (marked IMPORTANT, Jul 16)
+### Military/DoD Contact — NEW
+- **Evan M Wolff** (evan.m.wolff.mil@socom.mil) — "RE: (U) [Non-DoD Source] Re: RFI S0" (marked IMPORTANT, Jul 17) — direct to Daniel Prendergast (BST); RFI S0 likely related to SOCOM S0-AD procurement; security classification indicator "(U)" = Unclassified
 
-### Internal vs External
-- **Internal BST**: Jack Elston, Meredith Needham (newly visible on PayPal transaction), Maciej Stachura (visible on "Meeting Updates" thread)
-- **External Government (NOAA Federal)**: Nikolai Pawlenko, Joe Cione, Annette Hollingshead, Laura Rock — all participants in "Meeting Updates" coordination (Jul 16, marked IMPORTANT)
-- **External Academic**: Joshua Wadler (wadlerj@erau.edu) — Embry-Riddle Aeronautical University, included on "Meeting Updates" thread
-- **External Partners (Previous Vertiq Context)**: Roger Riley (Krateo Sky), Nejc Trost (C-Astral) — not visible in new data
-- **External Vendors/Services**: Harris Aerial, SkyGeek, HeliDirect, uAvionix, DigiKey, Jawstec, SendCutSend, McMaster-Carr, Spindrift Market, AliExpress, eBay, FTDI, CADDXFPV
-- **Vendor Contact (MMS Solutions)**: Foster Hill — sales order confirmation (marked IMPORTANT)
+### External Partners/Vendors — Critical Component Tiger Team (C2T2)
+- **Roger Riley** (Krateo Sky) — Organizer of "Critical Component Tiger Team (C2T2): Bi-Weekly Meeting" (Jul 17)
+- **Participants visible in CC**:
+  - Jordan Weil (Inspired Flight)
+  - Vijay Santhakumar (Vantage Robotics)
+  - Samo Stopar (C-Astral)
+  - Jack Elston (Black Swift Technologies)
+  - Joshua Fromm (Black Swift Technologies)
+- **Implication**: Multi-vendor collaboration on critical components; likely UAS/robotics supply chain coordination for defense/government applications
+
+### Top Senders via Purchasing (Group Inbox) — NEW/UPDATED
+- **Phase1 Aviation LLC** (Sean Cole, sean@phase1av.com) — **CRITICAL NEW**: "S0 wings" (marked UNREAD, Jul 17 22:58 UTC); QuickBooks payment confirmation for Phase1 Aviation LLC Invoice #1115 (Jul 17 22:55 UTC); **indicates active procurement of S0-AD aircraft components/wings**
+- **United Airlines** — 2 booking confirmations (PL1XZQ itinerary & receipt, Jul 17); suggests business travel by BST personnel
+- **Budget Rent A Car** — Reservation #00120432US4 at BNA (Nashville) for "ETHAN" (likely Ethan Domagala based on Travel Guard policy); Jul 17
+- **Travel Guard** — Travel insurance policy 1004731332 for Domagala, Ethan (Jul 17)
+- **WordPress.com Support** — Migration support survey (groovywizard90.wpcomstaging.com, Jul 17); web infrastructure ongoing
+- **Expedia.com** — Hotel search promotional (2 messages, Jul 17)
+- **Framework** — Order shipment #R718378251 (Jul 18); likely electronics/computer hardware
+- **McMaster-Carr**, **USPS Informed Delivery**, **Harbor Freight**, **AliExpress** — Continued transactional/promotional pattern
+
+### Internal vs External (Updated)
+- **Internal BST**: Jack Elston, Daniel Prendergast, Meredith Needham
+- **External Government**: NOAA Federal (Pawlenko, Cione, Varwig, Hollingshead, Rock); SOCOM (Evan M Wolff)
+- **External Academic**: Joshua Wadler (ERAU)
+- **External Strategic Partners (C2T2 Ecosystem)**: Roger Riley (Krateo Sky), Nejc Trost (C-Astral), Samo Stopar (C-Astral), Jordan Weil (Inspired Flight), Vijay Santhakumar (Vantage Robotics)
+- **External Aerospace Vendors**: Phase1 Aviation LLC (NEW CRITICAL), Harris Aerial, SkyGeek, HeliDirect, uAvionix, DigiKey
+- **External Manufacturing/Engineering**: Foster Hill (MMS Solutions), ProtoSpace Mfg (custom enclosures), TraceParts (component sourcing)
+- **External Travel/Logistics**: Expedia, Budget, United Airlines, Frontier, Hilton
 
 ## Topic Patterns
 
-### NEW CRITICAL THREAD: "Meeting Updates" — NOAA Federal Coordination
-- **Date**: Jul 16, 2026 (09:22 AM – 21:27 PM, multi-hour coordination thread marked IMPORTANT)
-- **Initiator**: Jack Elston (elstonj@blackswifttech.com)
+### CRITICAL: S0-AD Component Procurement — PHASE1 AVIATION WINGS
+- **Vendor**: Phase1 Aviation LLC (Sean Cole, sean@phase1av.com)
+- **Date**: Jul 17, 2026 22:58 UTC
+- **Subject**: "S0 wings" (laconic; subject line suggests aircraft wing components for S0-AD platform)
+- **Payment**: QuickBooks confirmation for Invoice #1115, Phase1 Aviation LLC (Jul 17 22:55 UTC) — indicates invoice processed same day
+- **Context**: First direct evidence of S0-AD airframe procurement; "wings" likely refers to aircraft wing assemblies or modifications
+- **Implication**: S0-AD project transitioning from BOM/compliance phase to active component acquisition; Phase1 Aviation now added to critical vendor list
+
+### SOCOM RFI S0 — Active DoD Coordination
+- **Contact**: Evan M Wolff (evan.m.wolff.mil@socom.mil) — SOCOM/Special Operations Command point of contact
+- **Email to**: Daniel Prendergast (daniel.prendergast@blackswifttech.com) — BST leadership/program management
+- **Subject**: "RE: (U) [Non-DoD Source] Re: RFI S0" (marked IMPORTANT, Jul 17 16:12 UTC)
+- **Classification**: (U) = Unclassified; [Non-DoD Source] indicates vendor/partner response tagged
+- **Status**: Multiple rounds visible; ongoing RFI (Request for Information) response/clarification cycle
+- **Context**: Confirms SOCOM S0 procurement RFI remains active; may involve Phase1 Aviation component approval or technical questions
+
+### NOAA Federal Coordination — Sustained Engagement
+- **Thread**: "Meeting Updates" (Jul 16-17, multiple rounds)
 - **Participants**: 
-  - **NOAA Federal**: Nikolai Pawlenko, Joe Cione, Annette Hollingshead, Laura Rock
-  - **Black Swift**: Jack Elston, Joshua Fromm, Maciej Stachura
-  - **Academic**: Joshua Wadler (ERAU)
-- **Status**: At least 5 email rounds (13:29, 15:04, 15:50, 15:07, 19:38 EDT/MDT) — rapid iteration, escalating engagement
-- **Context**: Subject line visible only as "Re: Meeting Updates" — actual meeting details/agenda not exposed in headers; however, pattern of NOAA participation suggests federal research coordination or operational planning
-- **Related Artifacts**: 
-  - Google Docs collaboration comments (Jul 16, 08:08, 08:15) from Jack Elston and Joe Cione on "Black Swift Bi-We..." document (title truncated; likely "Black Swift Bi-Weekly" or similar standing meeting doc)
-- **Implication**: Indicates sustained NOAA-BST operational partnership beyond previous S0-AD/SOCOM procurement context; possibly weather/meteorological research or U.S. federal atmospheric data collection
-
-### Government Contract Activity: S0-AD BOM Discussion (Continued)
-- **Status**: Rescheduled for Mon Jul 20, 2026, 10am-10:30am (MDT) — no changes visible in new data; meeting stands as of Jul 17
-- **Context**: S0-AD (SOCOM-related) Bill of Materials for Blue List/NDAA compliance
-
-### Operational/Supply Chain Escalations
-- **MM Solutions (Foster Hill)** — **Sales Order 43213 Confirmation** (marked IMPORTANT, Jul 16 14:41 GMT) — new vendor, direct to Josh; likely critical component or service order
-- **Jawstec** — Order status: now showing shipment "on its way" (Jul 16 19:09 UTC); previously flagged with "possible order delay" — appears to be in transit post-escalation
-- **SendCutSend** — 2 shipments tracked (both delivered/in transit as of Jul 16)
-- **McMaster-Carr** — Receipt for Jul 15 order (Jul 16 05:59 UTC)
-- **Spindrift Market** — Order SH62379030 tracking (in transit/out for delivery Jul 16)
-
-### Research & Academic Outreach
-- **AMS (American Meteorological Society) Annual Meeting** — "Share your Research!" solicitation (Jul 16); continuation of academic conference/publication outreach pattern
-- **Google Docs** — "Black Swift Bi-We[ekly]..." collaborative doc with NOAA participants (Jul 16) — internal project planning/coordination artifact
-
-### Hardware & Aerospace Technology
-- **Harris Aerial** — New product announcement (H4C model) — marked unread, promotional; likely relevant to BST operational platforms
-- **uAvionix** — pingRX Pro registration (product registration, Jul 16) — likely avionics/transponder system
-- **SkyGeek** — Newsletter/propeller hat promotional (Jul 16)
-- **HeliDirect** — Helicopter accessories newsletter (Jul 16) — ongoing relationship with rotorcraft supplies
-
-### Travel & Logistics (Increased Signal)
-- **Frontier Airlines** — 60,000 miles offer (marked IMPORTANT, Jul 16) — suggests either business travel activity or frequent flyer status
-- **Hilton Honors** — Annual fee offer (marked IMPORTANT, Jul 16) — hotel loyalty program
-- **U-Haul** — Reservation cancellation (via Purchasing, Jul 16) — possible field operation or equipment transport originally planned but canceled
-
-### Infrastructure/IT Maintenance (New)
-- **Jetpack (WordPress)** — Multiple backup/restoration notifications (Jul 16); suggests BST website maintenance or migration activity; possibly related to blog/public communications
-- **WordPress.com** — Domain migration (groovywizard90.wpcomstaging.com) and Business plan setup (Jul 16) — staging environment or new web property under development
-
-### Electronics & Components (Ongoing)
-- **DigiKey** — Design trend webinars (Jul 16) — passive engagement, educational
-- **FTDI** — Account registration (Jul 16) — USB interface chip manufacturer; likely component procurement prep
-- **CADDXF
+  - NOAA: Nikolai Pawlenko, Joe Cione, Danielle Varwig (+ previously: Annette Hollingshead, Laura Rock)
+  - BST: Jack Elston, Joshua Fromm, Maciej Stachura
+  - Academic: Joshua Wadler (ERAU)
+- **Jul 17 Activity**: At least 3 visible exchanges (10:49 AM, 13:31 PM,

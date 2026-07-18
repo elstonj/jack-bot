@@ -1,11 +1,11 @@
 # Commercial — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $2,992,489.34
+- **Total Invoiced (Revenue):** $2,995,489.34
 - **Total Expenses (Bills + Purchases):** $241,843.16
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,750,646.18 (Revenue exceeds expenses)
-- **Date Range:** April 5, 2024 – July 10, 2026
+- **Net Position:** $2,753,646.18 (Revenue exceeds expenses)
+- **Date Range:** April 5, 2024 – July 18, 2026
 
 ---
 
@@ -15,8 +15,9 @@
 
 | Invoice # | Date | Amount | Customer | Balance |
 |-----------|------|--------|----------|---------|
-| **1770** | **2026-07-01** | **$6,000.00** | **[044-1] EMASS Chip Integration** | **$6,000.00** |
-| **1769** | **2026-06-09** | **$25,000.00** | **[044-1] EMASS Chip Integration** | **$25,000.00** |
+| **1772** | **2026-07-17** | **$3,000.00** | **Alliance for Energy Innovation, LLC** | **$3,000.00** |
+| 1770 | 2026-07-01 | $6,000.00 | [044-1] EMASS Chip Integration | $6,000.00 |
+| 1769 | 2026-06-09 | $25,000.00 | [044-1] EMASS Chip Integration | $25,000.00 |
 | 1768 | 2026-06-04 | $1,000.00 | Black Swift Technologies | $1,000.00 |
 | 1766 | 2026-05-19 | $3,900.00 | Daniel Hesselius | $3,900.00 |
 | 1765 | 2026-05-18 | $79,338.00 | (031-1) University of Maryland Eastern Shore | $79,338.00 |
@@ -72,13 +73,18 @@
 | 1618 | 2024-04-19 | $13,853.10 | [451] INSTAAR Stable Isotope Lab, CU Boulder | Paid |
 
 ### Revenue Summary
-- **Total Invoiced:** $2,992,489.34
+- **Total Invoiced:** $2,995,489.34
 - **Total Collected (Paid):** $1,075,726.08
-- **Outstanding Balance:** $1,916,763.26
+- **Outstanding Balance:** $1,919,763.26
 
 #### Notable Recent Invoices
 
-**Invoice #1770 — [044-1] EMASS Chip Integration (July 1, 2026): $6,000.00** ⚠️
+**Invoice #1772 — Alliance for Energy Innovation, LLC (July 17, 2026): $3,000.00** ✨ NEW
+- Outstanding balance
+- Service: E2 training and familiarization with SwiftCore FMS, including emergency procedures and regulatory requirements
+- Includes simulation session and flight training
+
+**Invoice #1770 — [044-1] EMASS Chip Integration (July 1, 2026): $6,000.00**
 - Outstanding balance; continuation of EMASS Chip Integration work
 
 **Invoice #1769 — [044-1] EMASS Chip Integration (June 9, 2026): $25,000.00**
@@ -93,7 +99,7 @@
 
 | Date | Vendor/Description | Amount | Details |
 |------|-------------------|--------|---------|
-| **2026-07-09** | **SERVOCITY #7333** | **$189.43** | **2302 Series Aluminum MOD 0.8 Hub Mount Gear and 2305 Series Brass MOD 0.8 Servo Gear** |
+| 2026-07-09 | SERVOCITY #7333 | $189.43 | 2302 Series Aluminum MOD 0.8 Hub Mount Gear and 2305 Series Brass MOD 0.8 Servo Gear |
 | 2026-07-07 | Purchase (No Asana Request) | $287.74 | Multiple items: $15.52 + $222.22 = items for project work |
 | 2026-07-07 | Purchase #0707JELSTON | $64.40 | Shop/project materials |
 | 2026-06-30 | Purchase #2026-0411 | $499.00 | Processing data for Murray State |
@@ -101,6 +107,4 @@
 | 2026-06-24 | Purchase #0624JELSTON | $20.93 | Navy Magnetometer |
 | 2026-06-24 | Purchase #0624JELSTON | $2.58 | By Light Supplies |
 | 2026-07-06 | Purchase #69738 (JAWSTEC) | $221.12 | For By Light |
-| 2026-07-06 | Purchase #69729 (JAWSTEC) | $488.24 | For INSTAAR (shipped to Sean Cole) |
-| 2026-07-01 | Purchase #03236 (Wire Transfer) | $130.00 | Wire Transfer — unauthorized email purchase via sales rep ⚠️ |
-| 2026-07-01 | Purchase #03236 (Wire Transfer) | $26.00 | Wire Transfer — unauthorized email purchase via sales rep 
+| 2026-07-06 | Purchase #69729 (JAWST

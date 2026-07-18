@@ -1,56 +1,60 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-07-17 02:21
+Last scanned: 2026-07-18 02:23
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 7 files — [federal_projects.md](federal_projects.md)
-- **Sales** — 3 files — [sales.md](sales.md)
+- **Federal Projects** — 5 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 5 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
 # Black Swift Technologies — Shared Drive Strategic Overview
 
-## Document Volume & Organization
+## Summary Statistics
+- **Total Drives Analyzed:** 2
+- **Total Documents:** 10 files
+- **Organization Level:** Minimal (both drives severely underdeveloped)
 
-**Total Documents:** 10 files across 2 drives
-- **Federal Projects:** 7 files (no folder structure)
-- **Sales:** 3 files (no folder structure)
+## Drive-by-Drive Analysis
 
-**Organization Quality:** Poor. Both drives lack folder hierarchies, with all files stored at root level. This creates scalability issues as document volume grows.
+### Federal Projects
+**Volume:** 5 files | **Organization:** Poor
 
-## Key Clients/Projects
+- **Content Mix:** 2 video files (RC_VID_0008/0009), 1 CPFF cost template, 1 process document, 1 monthly checklist
+- **Key Observation:** Appears to be a template/procedural repository rather than active project documentation
+- **Last Updates:** July 2026 (templates/processes) and anomalous 2099 dates (videos—likely data entry errors)
 
-- **CUAS/SBIR:** Multiple technical and compliance documents (Phase 1 CUAS SBIR Technical Volume, SOW/Spec drafts)
-- **HALO:** Active proposal/LOC documentation
-- **Federal Contracting:** CIS (Contractor Information Survey) forms for federal registration and compliance
+### Sales
+**Volume:** 5 files | **Organization:** Poor
 
-## Cross-Drive Patterns
+- **Content Mix:** 1 proposal/quote (P0011558), 4 travel/lodging confirmations (airlines, rental car, hotels)
+- **Last Updates:** All July 2026
+- **Key Observation:** Travel expense documentation mixed with sales materials; lacks proposal library structure or client records
 
-| Drive | Primary Content | Key Pattern |
-|-------|---|---|
-| **Federal Projects** | Compliance, contracts, internal governance | Regulatory documentation; CIS survey duplicated (2 versions) |
-| **Sales** | Proposals, technical volumes, scopes of work | Business development materials supporting federal opportunities |
+## Key Findings
 
-**Observation:** Sales drive documents appear to feed Federal drive — technical proposals and SOWs likely precede federal contract submissions.
-
-## Shared Resources & Templates
-
-No dedicated template repository identified. SOW and specification documents appear to be project-specific rather than standardized templates.
-
-## Document Management Observations
-
-- **Naming Conventions:** Inconsistent (some date-prefixed like "DAQA2605", others descriptive)
-- **Versioning:** Files show recent modifications (July 2026), but no version indicators in names
-- **Metadata:** Good — last editor and modification dates tracked
-- **Duplication:** CIS document exists in two versions; unclear which is authoritative
+| Category | Observation |
+|----------|------------|
+| **Document Volume** | Critically low (10 total files across company); insufficient for organizational scale |
+| **Organization Quality** | Minimal folder structure; no apparent naming conventions or hierarchical organization |
+| **Cross-Drive Patterns** | Federal and Sales are siloed with no shared resources or templates |
+| **Shared Resources** | Limited—only CPFF template and monthly checklist exist |
+| **Client Documentation** | Only identifiable clients: United Airlines, Budget Car Rental, Hilton (transactional only) |
 
 ## Areas Requiring Attention
 
-1. **Folder Structure:** Implement taxonomy for Federal/Sales separation and project grouping
-2. **Duplication:** Resolve CIS document redundancy; establish single source of truth
-3. **Stale Content:** Verify documents dated 2022 remain relevant or archive
-4. **Templates:** Develop standardized SOW/CIS templates to improve consistency
-5. **Version Control:** Add version numbers or dates to filenames
+⚠️ **High Priority:**
+- **Data integrity:** Video files dated 2099 suggest corruption or entry errors
+- **Missing infrastructure:** No centralized proposal library, client database, or contract repository
+- **Sales organization:** Travel confirmations should be filed separately from sales documentation
+- **Completeness:** These drives do not appear to represent full company documentation
+
+⚠️ **Recommendations:**
+- Establish folder taxonomy across drives (by client, project phase, document type)
+- Implement consistent naming conventions
+- Audit for missing/archived drives
+- Create centralized template library accessible across Federal and Sales teams
+- Segregate operational (travel) from business-critical (proposals, contracts) documents

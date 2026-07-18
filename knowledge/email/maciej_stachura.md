@@ -1,90 +1,89 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 186 emails (149 previous + 37 new)
-- **Date range:** 11 Jul 2026 – 17 Jul 2026
-- **Volume:** Sustained heavy traffic; Jul 16–17 shows continued concentrated activity across Navy, NOAA, Krateo Sky, and hardware vendors. Plateau of activity suggests ongoing major procurement/project cycles.
+- **Total messages scanned:** 213 emails (186 previous + 27 new)
+- **Date range:** 11 Jul 2026 – 18 Jul 2026
+- **Volume:** Sustained heavy traffic with continued spike activity Jul 16–18. Activity stabilizing at elevated plateau; weekend coordination (Jul 18, 05:15 UTC) indicates active project cycle management.
 
 ## Key Correspondents
 
 ### Top Senders/Recipients (Updated)
 
-1. **Jack Elston** (elstonj@blackswifttech.com) — 20+ emails (SUSTAINED PRIMARY COORDINATOR)
+1. **Jack Elston** (elstonj@blackswifttech.com) — 25+ emails (SUSTAINED PRIMARY COORDINATOR)
    - Central hub for government procurement, SBIR, COTS WAIVER approvals, and vendor coordination
-   - Jul 16: Heavy activity coordinating NOAA "Meeting Updates" across multiple teams
-   - Jul 16: COTS WAIVER discussions with Navy (Daniel Klier, Paul Jaynes) and American Systems
-   - Jul 16: Space coordination with Krateo Sky (Sona Raziabeegum) involving Meredith Needham
+   - Jul 17: Continued Krateo Sky coordination with Jed Leonard ("Stop in - BST & Jed", 11:52 MDT)
+   - Jul 17: Leadership development engagement with Hadley Solomon (CA Foundations response, 15:02 MDT)
+   - Jul 17: Atmospheric data coordination with Stefan Metzger (Murphy's Pond Dataset, 17:16 UTC)
    - Marked IMPORTANT across all threads
 
-2. **Krateo Sky (Project Albatross)** — NEW SPIKE, HIGH PRIORITY (6+ emails, Jul 16)
-   - **Contacts:** Brian Grubel, Jed Leonard, LisaMarie Cheney, Sona Raziabeegum
+2. **Krateo Sky (Project Albatross)** — SUSTAINED HIGH PRIORITY (8+ emails, Jul 17–18)
+   - **Contacts:** Jed Leonard, LisaMarie Cheney, Thibault Bridel-Bertomeu, Dipan Amin, Tim Hegwood
    - **New threads:**
-     - "Tech Sync Availability?" (Brian Grubel, Jul 16, 23:46 UTC) — technical coordination with Jack Elston & Maciej
-     - "Follow-up on call" (Jed Leonard, Jul 16, multiple responses 12:52–19:02 UTC) — rapid technical exchange with Jack Elston
-     - "Space" (Sona Raziabeegum / Jack Elston / Maciej, Jul 16, 09:48–16:01 UTC) — space-related resource/coordination discussion
-   - Marked IMPORTANT across all threads; suggests active technical/logistics engagement
+     - "Stop in - BST & Jed" (Jed Leonard, Jul 17, 15:51 UTC) — direct engagement with Maciej + Jack Elston coordination
+     - "Follow-up on call" (LisaMarie Cheney, Jul 17, 19:06 MDT) — Maciej direct response continuing technical exchange
+     - "Shearwater X Blackswift Project Albatross SOW" (Thibault Bridel-Bertomeu, Jul 17, 11:06 UTC) — **NEW CRITICAL THREAD:** Statement of Work discussion between Krateo Sky team (Dipan Amin, Tim Hegwood) and Jack Elston
+   - Marked IMPORTANT across all threads; Project Albatross SOW now visible in subject lines
 
-3. **Beck Cotter** (beck.cotter@blackswifttech.com) — 7+ emails (SUSTAINED, NEW SPIKE)
-   - Jul 16: Continued HALO SBIR "Modifications" exchanges with Kevin Rozmiarek & Daniel Hesselius (11:54–15:50 MDT)
-   - Jul 16: "Meeting Updates" response (15:50 MDT) coordinating with Jack Elston & NOAA
+3. **Beck Cotter** (beck.cotter@blackswifttech.com) — 9+ emails (SUSTAINED, INCREASED ACTIVITY)
+   - Jul 17: HALO SBIR "Modifications" continued exchange with Daniel Hesselius (Halo Aero) — 13:51 & 14:38 MDT
+   - Jul 17: **NEW SUSTAINED TOPIC:** "Follow up on OOI Pioneer Array Possibility" — Beck engaging with Joshua Wadler (ERAU) on external research coordination (13:51–21:39 UTC timespan)
    - Marked IMPORTANT across all threads
 
-4. **NOAA (Multiple Contacts)** — CRITICAL SUSTAINED ENGAGEMENT (8+ emails, Jul 16)
-   - **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — 4+ emails
-     - "Meeting Updates" thread (Jul 16, 13:29–15:07 EDT) — rapid multi-party coordination with Jack Elston, Beck Cotter, Meredith Needham
-   - **Joe Cione** (joe.cione@noaa.gov) — 3+ emails (NEW ACTIVITY)
-     - "Meeting Updates" (Jul 16, 21:27 EDT) — response to Jack Elston coordination
-     - "Follow up on OOI Pioneer Array Possibility" (Jul 16, 10:39 EDT) — NEW topic, external research coordination
-   - **Laura Rock** (laura.rock@noaa.gov) — included in "Meeting Updates" distribution (Jul 16, 09:22 MDT)
-   - **Annette Hollingshead** (annette.hollingshead@noaa.gov) — NEW, included in large "Meeting Updates" distribution
+4. **NOAA (Multiple Contacts)** — CRITICAL SUSTAINED ENGAGEMENT (12+ emails, Jul 17)
+   - **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — 5+ emails
+     - "Meeting Updates" thread (Jul 17, 10:49–14:46 EDT) — continued multi-party coordination with Joe Cione, Danielle Varwig
+   - **Joe Cione** (joe.cione@noaa.gov) — 4+ emails
+     - "Meeting Updates" (Jul 17, 13:31 EDT) — active coordination within NOAA internal chain
+     - Coordinating with Danielle Varwig on BST engagement continuation
+   - **Danielle Varwig** (danielle.varwig@noaa.gov) — NEW ACTIVE CONTACT (2+ emails)
+     - "Meeting Updates" chain (Jul 17, 12:13–18:02 EDT) — internal NOAA coordination on BST project
    - Marked IMPORTANT across all threads
 
-5. **Navy/Defense (Sustained & New Coordination)** — CRITICAL (6+ emails, Jul 16)
-   - **Daniel E. Klier, CIV USN NSWC IHD** (daniel.e.klier.civ@us.navy.mil) — 2+ emails (NEW SPIKE)
-     - "COTS WAIVER" thread (Jul 16, 10:16–16:42 UTC) — commercial equipment waiver approval pathway
-     - Multi-party: Jack Elston, Paul Jaynes (American Systems), Klier
-   - **Paul Jaynes, American Systems** (Paul.Jaynes@americansystems.com) — 2+ emails (NEW SPIKE)
-     - Same COTS WAIVER thread (Jul 16, 10:16–12:12 UTC)
-     - Also coordinating with Navy (Ruiz-Reyes, Klier, Sapp) on waiver approvals
-   - **Angel R. Ruiz-Reyes, NAWCAD** — included in Paul Jaynes COTS WAIVER coordination (Jul 16, 12:12 UTC)
-   - **Donald W. Sapp, CNR Arlington** — included in same COTS WAIVER chain (Jul 16, 12:12 UTC)
+5. **Navy/Defense (Sustained Coordination)** — CRITICAL (3+ emails visible in new data)
+   - **Evan M. Wolff, USSOCOM** (evan.m.wolff.mil@socom.mil) — CONTINUED ACTIVE ENGAGEMENT
+     - "RE: (U) [Non-DoD Source] Re: RFI S0" (Jul 17, 16:12 UTC) — **RFI (Request for Information) on S0 platform continues**; direct to Daniel Prendergast
+     - Marked IMPORTANT
 
-6. **Hadley Solomon** (hadley.solomon@creativealignments.com) — NEW (2+ emails, Jul 16)
-   - "CA Foundations: Discovery - BST Leadership Culture" (Jul 16, 14:08–16:52 MDT)
-   - Maciej direct response (14:09 MDT); Jack Elston also engaged (15:02 MDT)
-   - Marked IMPORTANT; suggests organizational/leadership development engagement
+6. **Krateo Sky Technical Leads** — CRITICAL DIRECT ENGAGEMENT (NEW PATTERN)
+   - **Jed Leonard** (jed@krateosky.com) — Direct coordination with Maciej on Project Albatross status ("Stop in - BST & Jed", Jul 17, 15:51 UTC)
+   - **LisaMarie Cheney** (LisaMarie@krateosky.com) — Direct response from Maciej (Jul 17, 19:06 MDT) on "Follow-up on call"
+   - Suggests Maciej has become point-of-contact for technical/operational coordination with Krateo
 
-7. **Tom Simcox, Bartington** (tom.simcox@bartington.com) — 2+ emails (SUSTAINED, Jul 16–17)
-   - "UAS-MAG high Performance Dronecan Compass" (Jul 16, 14:26 UTC; Jul 17, 06:07 UTC)
-   - Direct engagement with Maciej on sensor hardware specifications
-   - Marked IMPORTANT
-
-8. **Halo Aero (SBIR Subcontracting)** — SUSTAINED (4+ emails, Jul 16)
-   - **Kevin Rozmiarek** (kevin.rozmiarek@halo-aero.com) — SBIR modifications (Jul 16, 11:54 MDT)
-   - **Daniel Hesselius** (daniel.hesselius@halo-aero.com) — SBIR modifications (Jul 16, 11:59–15:50 MDT)
+7. **Halo Aero (SBIR Subcontracting)** — SUSTAINED (3+ emails visible, Jul 17)
+   - **Daniel Hesselius** (daniel.hesselius@halo-aero.com) — SBIR modifications (Jul 17, 13:51–14:38 MDT)
    - Marked IMPORTANT across thread
 
-9. **Meredith Needham** (meredith.needham@blackswifttech.com) — 3+ emails (INCREASED ACTIVITY)
-   - "Space" coordination (Jul 16, 10:09–10:16 MDT) with Jack Elston, Krateo Sky
-   - "Meeting Updates" responder (Jul 16)
-   - "QuSpin Question" response (Jul 16, 08:54 MDT) — QuSpin vendor engagement
+8. **QuSpin (Sensor Vendor)** — NEW ACTIVE ENGAGEMENT (3+ emails, Jul 17)
+   - **Shweta Choudhury** (schoudhury@quspin.com) — 2+ emails (Jul 17, 09:17–18:02 MDT/IST)
+   - **Parker Ackerknecht** (packerknecht@quspin.com) — 1 email (Jul 17, 09:18 MDT)
+   - "Re: QuSpin Question" thread involving Meredith Needham as primary coordinator, but high priority across team
    - Marked IMPORTANT
+
+9. **C-Astral (Drone/UAS)** — NEW CONTACT (1 email, Jul 17)
+   - **Nejc Trost** (nejc.trost@c-astral.com) — "Re: Vertiq" (Jul 17, 20:24 UTC) 
+   - Responding to Joshua Fromm inquiry; potential new vendor for motor/propulsion systems
+   - Marked IMPORTANT
+
+10. **Meredith Needham** (meredith.needham@blackswifttech.com) — 4+ emails (INCREASED ACTIVITY)
+    - QuSpin coordination (3 emails, Jul 17, 09:17–18:02 MDT)
+    - Primary technical contact for sensor vendor engagement
+    - Marked IMPORTANT
+
+11. **Stefan Metzger / AtmoFacts** (smetzger@atmofacts.com) — NEW ACTIVE CONTACT (1 email, Jul 17)
+    - "Re: Murphy's Pond Dataset" (Jul 17, 17:16 UTC) — Jack Elston coordination
+    - Atmospheric/meteorological data provider engagement
+    - Marked IMPORTANT
+
+12. **Hadley Solomon / Creative Alignments** (hadley.solomon@creativealignments.com) — CONTINUED ENGAGEMENT (1 email visible, Jul 17)
+    - "Re: CA Foundations: Discovery - BST Leadership Culture" (Jul 17, 16:37 MDT)
+    - Jack Elston response indicates ongoing organizational development/culture assessment
+
+13. **Joshua Wadler / Embry-Riddle Aeronautical University** (WADLERJ@erau.edu) — NEW SUSTAINED CONTACT (3+ emails, Jul 17)
+    - "Re: [EXTERNAL] Follow up on OOI Pioneer Array Possibility" (Jul 17, 13:51–21:39 UTC)
+    - Beck Cotter primary; external academic/research coordination on OOI (Ocean Observing Initiative) Pioneer Array project
+    - Marked IMPORTANT
 
 ### Internal vs. External (Updated)
 
 **Internal primary coordinators:**
-- Jack Elston, Beck Cotter, Daniel Prendergast, Joshua Fromm, Meredith Needham
-
-**Government (EXPANDED):**
-- **NOAA:** Nick Underwood, Laura Rock, Nikolai Pawlenko, Joe Cione, Annette Hollingshead
-- **Navy:** Angel R. Ruiz-Reyes (NAWCAD), Anthony D. Brescia (NAWCAD), Daniel E. Klier (NSWC IHD), Donald W. Sapp (CNR Arlington), Evan M. Wolff (USSOCOM)
-- **NASA:** Chris Meek (Langley/LARC-D201)
-
-**Defense/Contracting:**
-- Halo Aero (Daniel Hesselius, Kevin Rozmiarek, Tyler Jones, Jack Briggs)
-- American Systems (Paul Jaynes) — NEW ACTIVE ROLE in COTS WAIVER coordination
-- NSWC IHD (Daniel E. Klier)
-- CNR Arlington (Donald W. Sapp)
-
-**Commercial/Hardware Vendors:**
-- **Krateo Sky** (Project Albatross) — Brian Grubel, Jed Leonard, LisaMarie
+- Jack

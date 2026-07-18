@@ -1,80 +1,68 @@
 # Beck Cotter — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 148 emails (129 prior + 19 new)
-- **Date range:** 12 Jul 2026 – 17 Jul 2026 (6 days)
-- **Approximate volume:** ~25 emails/day (sustained high activity, slight moderation 16–17 Jul vs. 15 Jul spike)
-- **New observation:** Activity continues at elevated levels through 17 Jul; 16 Jul shows heavy coordination on Halo Aero SBIR modifications and NOAA ground station meetings
+- **Total messages scanned:** 169 emails (148 prior + 21 new)
+- **Date range:** 12 Jul 2026 – 18 Jul 2026 (7 days)
+- **Approximate volume:** ~24 emails/day (sustained high activity with wind-down 17–18 Jul)
+- **New observation:** Activity moderates significantly 17–18 Jul after 16 Jul peak; shift from internal coordination to external partner engagement and compliance follow-up
 
 ## Key Correspondents
 
 ### Top Senders (by frequency — updated)
-1. **Jack Elston** (elstonj@blackswifttech.com) — Internal, central coordination hub; **16 Jul:** active on NOAA meeting updates coordination
-2. **Kevin Rozmiarek** (kevin.rozmiarek@halo-aero.com) — **Sustained high activity:** 4 messages 16 Jul (10:24–11:54 MDT) on Halo Aero SBIR modifications; appears to be active negotiation/scope phase
-3. **Daniel Hesselius** (daniel.hesselius@halo-aero.com) — **Elevated:** 2 messages 16 Jul (11:59 & 21:52 UTC) on Phase_1_CUAS_SBIR documents
-4. **NOAA Federal contacts** — Joe Cione (new/elevated 16 Jul), Nikolai Pawlenko, Laura Rock, Annette Hollingshead
-5. **Meredith Needham** (meredith.needham@blackswifttech.com) — Internal, DCAA audit escalation; **16 Jul:** coordinating updated contractor survey
-6. **Chris Meek** (christopher.b.meek@nasa.gov) — NASA Langley; S0 procurement (activity from prior period continues)
-7. **Alasdair Brackenridge** (alasdair.brackenridge@global.lmco.com) — **New:** Lockheed Martin (LM); Raven drone statement-of-work coordination (16 Jul)
+1. **Jack Elston** (elstonj@blackswifttech.com) — Internal, central coordination hub; continues filtering escalations across NOAA, Navy, NASA
+2. **Kevin Rozmiarek** (kevin.rozmiarek@halo-aero.com) — **Sustained:** Halo Aero SBIR modifications primary contact
+3. **Daniel Hesselius** (daniel.hesselius@halo-aero.com) — **Continued engagement:** Re: Modifications to HALO SBIR (17 Jul, 14:38 UTC); indicates ongoing scope/technical discussions
+4. **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — NOAA Federal; continued meeting coordination thread through 17 Jul
+5. **Joe Cione** (joe.cione@noaa.gov) — NOAA Federal; active on Meeting Updates thread (17 Jul)
+6. **Joshua Wadler** (WADLERJ@erau.edu) — **New/elevated:** Embry-Riddle Aeronautical University; OOI Pioneer Array opportunity discussion (3 exchanges 17 Jul)
+7. **Meredith Needham** (meredith.needham@blackswifttech.com) — Internal; DCAA audit coordination continued (17 Jul)
+8. **Alasdair Brackenridge** (alasdair.brackenridge@global.lmco.com) — Lockheed Martin; Raven SOW continued (17 Jul)
 
 ### Top Recipients (outbound from Beck)
-1. **Kevin Rozmiarek (Halo Aero)** — Halo Aero SBIR modifications (4 messages 16 Jul)
-2. **Jack Elston** (internal coordination/NOAA escalation)
-3. **Daniel Hesselius (Halo Aero)** — SBIR phase documents
-4. **Alasdair Brackenridge (Lockheed Martin)** — Raven SOW (new)
+1. **Joshua Wadler (ERAU)** — OOI Pioneer Array follow-up (3 outbound 17 Jul: 13:51, 15:33, 15:41 MDT)
+2. **Daniel Hesselius (Halo Aero)** — Halo Aero SBIR modifications (1 outbound 17 Jul)
+3. **Alasdair Brackenridge (Lockheed Martin)** — Raven SOW response (1 outbound 17 Jul, 09:18 MDT)
+4. **Jack Elston** (internal coordination)
 
 ### Internal vs External
 - **Internal BST:** Jack Elston, Meredith Needham, Daniel Prendergast
-- **External:** ~85% of correspondence; Halo Aero (Rozmiarek, Hesselius), NOAA (Cione, Pawlenko), Lockheed Martin (Brackenridge), NASA (Meek), academic/vendors, marketing/newsletters
-- **Notable addition:** Supercool Earth (Olaf Dietz, Dacia Leon; drone inquiry forwarded to Daniel Prendergast)
+- **External:** ~80% of new messages; academic (ERAU), federal (NOAA, SOCOM), prime contractors (Lockheed Martin, Halo Aero), vendors, automated services
+- **New external relationships:** Joshua Wadler (ERAU academic partnership), Evan M. Wolff (SOCOM — S0 RFI, message to Daniel Prendergast but visible in BST context)
+
+### Notable New/Elevated Contacts
+- **Joshua Wadler (ERAU)** — Academic institution; OOI Pioneer Array oceanographic monitoring opportunity (new focus area)
+- **Evan M. Wolff (SOCOM)** — U.S. Special Operations Command; S0 RFI response (17 Jul, 16:12 UTC, addressed to Daniel Prendergast)
+- **Thibault Bridel-Bertomeu (Krateo Sky)** — **New:** Multi-party SOW discussion; "Shearwater X Blackswift Project Albatross SOW" (17 Jul, 17:25 UTC) — indicates partnership/integration work
+- **Danielle Varwig (NOAA Federal)** — New NOAA contact; Meeting Updates thread (17 Jul)
 
 ## Topic Patterns
 
 ### Primary Projects/Initiatives (Updated/Expanded)
-1. **Halo Aero Navy SBIR Modifications** — **SUSTAINED ESCALATION:** 6 messages 16 Jul (10:24–16:02 MDT) between Beck, Kevin Rozmiarek, Daniel Hesselius; rapid back-and-forth indicates active scope negotiation or technical coordination phase. Phase_1_CUAS_SBIR document referenced.
-2. **Black Swift S0 Ground Station (NOAA)** — **Active coordination:** Joe Cione (NOAA Federal, new correspondent) and Nikolai Pawlenko exchanging "Meeting Updates" 16 Jul; Jack Elston coordinating with Beck and Meredith on same thread
-3. **Lockheed Martin Raven Project** — **New:** Alasdair Brackenridge (Lockheed LM) sending draft statement-of-work to Beck and Daniel Prendergast (16 Jul); suggests partnership or integration work
-4. **Black Swift S0 Procurement (NASA Langley)** — Prior escalation; activity appears continued from 15 Jul
-5. **DCAA Pre-Award Accounting System Audit** — Ongoing; Meredith coordinating updated contractor survey with Reliascent (Christy Evans) 16 Jul
-6. **Supercool Earth Drone Inquiry** — Daniel Prendergast responding to drone inquiry (Dacia Leon, Olaf Dietz); forwarded/delegated inquiry (not directly from Beck, but visible in team coordination)
+1. **Halo Aero Navy SBIR Modifications** — **Continued escalation:** Beck-Hesselius exchange 17 Jul (13:51 & 14:38 UTC) indicates ongoing technical or scope negotiations; subject remains "Modifications to HALO SBIR"
+2. **Black Swift S0 Ground Station (NOAA)** — **Continued:** Multi-party NOAA thread (Pawlenko, Cione, Varwig) spanning 17 Jul; suggests meeting coordination or status update phase. **Parallel:** Evan M. Wolff (SOCOM) responding to RFI on S0 (17 Jul, 16:12 UTC), suggesting military stakeholder involvement
+3. **OOI Pioneer Array Oceanographic Monitoring** — **New:** Joshua Wadler (ERAU) engaging Beck on "Follow up on OOI Pioneer Array Possibility" (3 exchanges 17 Jul, 13:51–21:39 UTC). ERAU likely academic/research partner; OOI = Ocean Observatories Initiative (NSF-funded). Rapid back-and-forth (3 in 8 hours) suggests active opportunity assessment
+4. **Lockheed Martin Raven Project** — **Continued:** Alasdair Brackenridge responding to Beck on draft SOW (17 Jul, 09:18 MDT); active partnership/integration phase
+5. **Krateo Sky "Project Albatross" Partnership** — **New:** Thibault Bridel-Bertomeu (Krateo Sky, international) circulating SOW; "Shearwater X Blackswift Project Albatross SOW" (17 Jul, 17:25 UTC); suggests new integration or joint venture with weather/wind monitoring vendor
+6. **Black Swift S0 Procurement (NASA Langley)** — Prior escalation; SOCOM involvement (S0 RFI) indicates broadening of military/federal stakeholder base
+7. **DCAA Pre-Award Accounting System Audit** — **Continued:** Meredith coordinating updated contractor survey with Reliascent; compliance effort ongoing through 17 Jul
 
 ### Recurring Subject Themes (Updated)
-- **Halo Aero SBIR Modifications:** Dominant subject line across 16 Jul (6 messages)
-- **NOAA Meeting Updates & Coordination:** Multi-party thread (Pawlenko, Cione, Elston, Beck)
-- **Lockheed Martin Partnership/SOW:** Raven drone statement-of-work (new emphasis)
-- **Compliance/Admin:** DCAA audit contractor surveys
-- **Vendor/Partnership Inquiries:** Supercool Earth drone inquiry
-- **Newsletter/Marketing:** UASweekly daily newsletter (automated, lower priority)
+- **HALO SBIR Modifications:** Ongoing technical/scope discussions
+- **NOAA Meeting Updates & Coordination:** Multi-party federal coordination (Pawlenko, Cione, Varwig)
+- **OOI Pioneer Array Possibility:** New oceanographic/coastal monitoring opportunity (ERAU-led)
+- **Raven SOW (Lockheed Martin):** Partnership statement-of-work finalization
+- **Project Albatross (Krateo Sky):** New international partnership on weather monitoring/integration
+- **S0 RFI (SOCOM):** Broadening military stakeholder interest
+- **Compliance/Admin:** DCAA audit contractor surveys, CMMC Phase 2 suspension alerts (compliance update)
+- **Vendor/Partnership Inquiries:** AKSI Aerospace, Alternative Logistics (unsolicited, low priority)
+- **Automated/Marketing:** UASweekly, Zoom CMMC webinar, Journeys order confirmation, QuickBooks payment notification (low priority)
 
 ### External Organizations/Vendors (Updated)
-- **Halo Aero** — SBIR modifications (elevated focus 16 Jul)
-- **NOAA Federal** — Joe Cione (new contact; likely operational/technical lead), Nikolai Pawlenko, Laura Rock
-- **Lockheed Martin** — Alasdair Brackenridge (RAVEN drone partnership/SOW)
-- **NASA Langley** — Chris Meek (S0 procurement, prior escalation)
-- **Supercool Earth** — Olaf Dietz, Dacia Leon (drone inquiry; forwarded to internal team)
-- **Reliascent** — Christy Evans (DCAA audit support services)
-- **AKSI Aerospace Group** — Varshith Reddy (unsolicited manufacturing solutions outreach; low priority)
-- **OpenAI/ChatGPT** — Automated marketing email (low relevance)
-
-## Communication Patterns
-
-### Time Distribution (Updated)
-- **16 Jul 2026:** Concentrated activity 08:37–21:52 UTC (overnight UTC, morning/afternoon MDT). Halo Aero SBIR burst 10:24–16:02 MDT (4.5 hours, 6 messages). NOAA thread spans 12:26–17:04 MDT. Lockheed Martin 15:19 IST (evening India time, morning UTC).
-- **17 Jul 2026:** Minimal activity; ChatGPT automated email only (05:17 UTC)
-- **Pattern:** Intensive activity 12 Jul–15 Jul; moderate continuation 16 Jul; wind-down 17 Jul
-- **International coordination:** UTC, MDT, IST, and +0000 timestamps indicate global partner engagement
-
-### Mailing Lists & Group Threads
-- **NOAA Meeting Updates thread:** Multi-party (Pawlenko, Cione, Elston, Beck, Meredith); appears to be meeting preparation/debrief coordination
-- **Halo Aero SBIR rapid back-and-forth:** Direct pair exchanges (Beck ↔ Rozmiarek, Hesselius) suggesting urgent scope or technical discussions
-
-### Newsletter/Automated Patterns
-- **UASweekly Daily Newsletter** — Sent to info@blackswifttech.com (company inbox), not directly to Beck; lower priority marketing
-- **ChatGPT marketing email** — Automated promotional (very low relevance)
-- **AKSI Aerospace unsolicited outreach** — Vendor solicitation (low relevance)
-
-## Key Relationships
-
-### Closest Collaborators (by recent activity)
-1. **Kevin Rozmiarek (Halo Aero)** — **Sustained primary focus:** 4 direct exchanges 16 Jul; appears to be lead point on SBIR modifications negotiations
-2. **Jack Elston** — Central internal coordinator; filters/escalates across NOAA, Navy, NASA, and internal teams
+- **Halo Aero** — SBIR modifications (continued primary focus)
+- **NOAA Federal** — Joe Cione, Nikolai Pawlenko, Danielle Varwig (multi-party operational/technical coordination)
+- **Embry-Riddle Aeronautical University (ERAU)** — Joshua Wadler; OOI Pioneer Array oceanographic monitoring partnership (new)
+- **Lockheed Martin** — Alasdair Brackenridge (RAVEN drone partnership SOW)
+- **Krateo Sky** — Thibault Bridel-Bertomeu (weather/wind monitoring; "Project Albatross" integration — new)
+- **U.S. Special Operations Command (SOCOM)** — Evan M. Wolff (S0 RFI stakeholder; military procurement interest)
+- **NASA Langley** — Prior contact (Chris Meek); S0 procurement continuation
+- **Reliascent** — Christy

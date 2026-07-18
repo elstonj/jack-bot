@@ -1,65 +1,53 @@
 # Slack Channels Overview
 
-Last scanned: 2026-07-17 02:14
+Last scanned: 2026-07-18 02:16
 
-Total channels scanned: 8
+Total channels scanned: 6
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 9 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#commercial-sales** -- 1 messages -- [commercial-sales.md](commercial-sales.md)
-- **#flight-testing** -- 4 messages -- [flight-testing.md](flight-testing.md)
-- **#general** -- 3 messages -- [general.md](general.md)
-- **#s3** -- 10 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 7 messages -- [sbir-hurricane.md](sbir-hurricane.md)
-- **#sbir-volcano** -- 1 messages -- [sbir-volcano.md](sbir-volcano.md)
-- **#swiftcore** -- 1 messages -- [swiftcore.md](swiftcore.md)
+- **#25_1-navy-sbir-magnetometer** -- 3 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#flight-testing** -- 14 messages -- [flight-testing.md](flight-testing.md)
+- **#general** -- 2 messages -- [general.md](general.md)
+- **#s3** -- 5 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 2 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#sbir-volcano** -- 2 messages -- [sbir-volcano.md](sbir-volcano.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Cross-Channel Strategic Overview
+# Black Swift Technologies - Strategic Slack Overview
 
-## Active Projects (Priority Order)
-1. **SBIR Hurricane (S0 UAS)** - Primary government-funded development; reconnaissance missions; extensive technical focus
-2. **S3 VTOL Aircraft** - Hybrid fixed-wing/quadcopter; 2-3 hour endurance; active design/component integration
-3. **Navy Magnetometer SBIR** - Sensor integration (QuSpin); MAD applications; integration phase
-4. **Volcano Monitoring (S2/S3)** - NASA/USGS collaboration; volcanic emissions research
-5. **SwiftCore System** - Firmware, tablet application, flight control ecosystem; ongoing refinement
+## Active Projects
+- **SBIR Hurricane (S0)**: Unmanned aircraft for hurricane reconnaissance; longest-running project (2020-2026)
+- **Navy SBIR Magnetometer**: QuSpin magnetometer integration for magnetic anomaly detection
+- **SBIR Volcano**: S2/S3 aircraft for volcanic monitoring with NASA/USGS collaboration
+- **S3 Development**: Hybrid VTOL platform (tilting rotors, 2-3 hour endurance)
+- **Flight Testing Operations**: Cross-platform testing for S-series, E2, Flamewheel, and VTOL variants
 
-## Key People & Their Roles
-- **Jack Elston** - Technical leadership across all projects; firmware decisions; project direction
-- **Joshua Fromm** - Lead engineer/designer; RF components; CAD/requirements; QA coordination
-- **Maciej** - Flight testing lead; analysis; operational troubleshooting
-- **Dan Prendergast** - Business development; operations; sales coordination
-- **Beck Cotter** - Navy magnetometer project involvement; sensor integration
-- **Ben Busby** - SwiftCore firmware/tablet application development
-- **Danny Troke** - Flight testing; SwiftCore development
-- **Sam Hild** - Cross-project contributor (SBIR, magnetometer, commercial)
+## Key People & Roles
+- **Jack Elston**: Technical leadership, firmware, project decisions
+- **Joshua Fromm**: Lead engineer/designer, CAD, RF components, battery design, QA
+- **Maciej**: Flight testing/analysis lead, operational troubleshooting
+- **Dan Prendergast**: Business development, operations
+- **Beck Cotter**: Magnetometer project, technical contributions
+- **Sam Hild**: Multi-project involvement (Hurricane, Magnetometer, Volcano)
+- **Alex Lomis**: Technical support across projects
 
 ## Decision Patterns
-- **Jack Elston** drives technical architecture and project prioritization
-- **Maciej** owns flight test validation and operational feasibility
-- **Joshua Fromm** controls component selection and design specifications
-- Government funding (SBIR) takes priority; commercial sales secondary but growing
-- Real-world testing drives iteration cycles
+- Technical decisions centralized through Jack Elston and Joshua Fromm
+- Project-specific channels (#sbir-hurricane, #sbir-volcano, #25_1-navy-sbir-magnetometer, #s3) handle specialized discussions
+- Flight testing outcomes feed back into design iterations
+- Government SBIR projects (#sbir-volcano, #sbir-hurricane, magnetometer) involve external stakeholder coordination
 
-## Recurring Themes Across Channels
-- **Component sourcing challenges** - RF, magnetometer, motor integration constraints
-- **Flight testing as validation** - Extensive testing before deployment/delivery
-- **Firmware stability** - Ongoing SwiftCore refinement; bug fixes prioritized
-- **Payload integration complexity** - Sensor mounting, power management, weight management
-- **Government-academic partnerships** - SBIR funding, NASA/USGS collaboration, university customers
+## Cross-Channel Themes
+- **Aircraft Platform Reuse**: S2/S3/S0 platforms adapted across multiple SBIR missions (volcano, hurricane, magnetometer)
+- **Sensor Integration**: Common challenge across projects (magnetometers, volcanic sensors, reconnaissance payloads)
+- **Flight Testing**: Central validation hub connecting all hardware development
+- **Federal Partnerships**: Consistent collaboration with NASA, USGS, Navy across SBIR projects
 
-## Cross-Channel Connections
-- **#sbir-hurricane, #sbir-volcano, #25_1-navy-sbir-magnetometer** → SBIR portfolio; overlapping technical teams; shared component/firmware challenges
-- **#s3 ↔ #flight-testing** → S3 development relies on flight test feedback; integration progress tracked in both
-- **#swiftcore ↔ #flight-testing** → Firmware issues identified in flight ops, resolved in SwiftCore; tablet app critical for operations
-- **#commercial-sales ↔ #general** → Customer delivery timelines communicated company-wide; S2/S3/E2 orders tracked
-- **All technical channels ↔ #general** → Major milestones, resource needs, timeline impacts announced to full team
-
-## Strategic Posture
-- **Government focus**: 3+ active SBIR projects generating steady funding and technical complexity
-- **Product maturation**: SwiftCore system approaching stability; S3 VTOL moving toward deployment
-- **Commercial potential**: Growing sales pipeline (universities, agencies); E2/S2 established; S3 emerging
-- **Operational capability**: Established flight test infrastructure; proven deployment experience (volcano, hurricane missions)
-- **Resource constraint**: Recurring component sourcing issues; tight team requiring clear prioritization
+## Recurring Topics
+- Firmware/software development and updates
+- Component sourcing and procurement
+- Battery and power system optimization
+- CAD design validation
+- Mission-critical troubleshooting during field operations

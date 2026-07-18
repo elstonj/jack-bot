@@ -1,56 +1,55 @@
 # BST Project Financial Overview
 
-## CRITICAL ISSUE: Data Organization Problem
+## Active Project Budgets
 
-**Status:** ⚠️ **INCOMPLETE DATA**
+### Project 018-1: Murphy's Pond CH4 Monitoring
+| Field | Details |
+|-------|---------|
+| **Project Code** | 018-1 |
+| **Client** | Murray State University |
+| **Total Contract Value** | $88,862.94 |
+| **Contract Type** | Service contract (drone-based environmental measurement) |
+| **Period of Performance** | 3 field campaigns in 2026 (May, July, August) |
+| **Scope** | CH4, CO2, H2O measurement collection over 5 km × 5 km area, Murphy's Pond, Hickman County, KY |
 
-The provided budget data appears to be a document index or summary header rather than complete project financial information. The data cuts off mid-table during the MiniCam cost breakdown and does not include:
+#### Budget Breakdown (Internal BST Budget)
+**Personnel (Employees):**
+- Jack Elston (PI): 96 hrs @ $150/hr = $14,400 + fringe (29.28%) = **$18,616**
+- Maciej Stachura (Flight Ops & Data Processing): 96 hrs @ $150/hr = *[incomplete in source document]*
 
-- Complete project codes and naming conventions
-- Total budget amounts
-- Contract values or funding amounts
-- Spend/remaining data
-- Project status timelines
-- Complete cost breakdowns
-
----
-
-## What We Can Partially Identify
-
-### **Project [200]: NASA AREN (Aeropods Commercial)**
-- **Client:** NASA
-- **Initiative:** MiniCam Project
-- **Document Status:** Preliminary cost analysis (as of March 2026)
-- **Contract Type:** Commercial product development
-- **Data Completeness:** ❌ Incomplete (cost breakdown table cut off)
+**Status:** Personnel section incomplete; document cut off during Maciej Stachura line item.
 
 ---
 
-## Known Limitations
-
-1. **Portfolio Scale:** 1,181 budget documents referenced but not individually indexed
-2. **Project Codes:** No consistent project code system detected across documents
-3. **Funding Sources Identified But Incomplete:**
-   - NASA
-   - NOAA
-   - DoD
-   - Other federal agencies
-
-4. **Project Stages Referenced But Not Detailed:**
-   - Active projects
-   - Proposals (not yet funded)
-   - Completed/Inactive projects
+## By Funding Source
+- **Murray State University:** $88,862.94
 
 ---
 
-## Immediate Actions Needed
+## By Contract Type
+- **Service Contract (Environmental/Drone Measurement):** $88,862.94
 
-To create a complete financial overview, please provide:
+---
 
-1. **Complete project listing** with codes, names, and status
-2. **Budget summary table** with totals and funding amounts
-3. **The complete MiniCam cost breakdown**
-4. **QuickBooks export** showing actual spend vs. budget
-5. **Project milestone timeline** with invoice/payment schedules
+## Financial Health Indicators
 
-**Would you like to provide the complete budget data?**
+⚠️ **Data Completeness Issues:**
+- Internal BST budget document is incomplete (personnel costs partially documented)
+- Full cost breakdown not available for review
+- No spend-to-date or remaining budget information provided
+- No QuickBooks integration data referenced
+
+⚠️ **Timeline Note:**
+- All work scheduled for 2026 (future fiscal year)
+- No immediate budget pressure but should confirm resource allocation for personnel hours
+
+---
+
+## QuickBooks Integration Notes
+- No QuickBooks references found in provided documents
+- Budget data sourced from Google Drive document dated 12/16/2024
+- Recommend cross-referencing with QuickBooks when available for cost tracking against $88,862.94 contract value
+
+---
+
+**Note:** Documentation requires completion of personnel cost section and full budget detail to provide comprehensive financial overview.

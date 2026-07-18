@@ -56,8 +56,8 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "KEEP despite Asana 'Closed' status. QBO invoice 1667 (paid 2025-05-07, $21,181.81) confirms BST is on the hook for this order. Recent substantive email activity (2026-05-21) from Kevin Adkins and Jack Elston confirming delivery plan for Aug/Sep ISARRA Flight Week. Beck's 2026-03-17 update describes ongoing flight testing and bug resolution \u2014 this is active QC-level work, not post-delivery testing. Units in_qc and aimed for delivery within 6 months.",
+  "notes": "KEEP despite Asana 'Closed' status. QBO invoice 1667 (paid 2025-05-07, $21,181.81) confirms BST is on the hook for this order. Active engagement: Kevin Adkins (2026-05-21) confirmed delivery plan for Aug/Sep ISARRA Flight Week; Beck (2026-03-17) reported ongoing flight-testing and bug resolution. Slack (2026-07-17) confirms S0 VTOL still in active QC testing with identified bugs requiring fixes before deployment. Units remain in_qc and aimed for delivery within 6 months (receive_by 2026-08-31).",
   "missing_fields": [],
-  "last_evidence_date": "2026-07-16",
+  "last_evidence_date": "2026-07-17",
   "last_contact_date": "2026-05-21"
 }

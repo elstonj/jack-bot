@@ -36,8 +36,6 @@
 - **Tasks by Assignee**:
   - **Maciej Stachura**: 1 open task
     - ⏳ **[OPEN]** Look into overheating at Murray State (due July 17, 2026) **NOTE: Related FLIR stoppage task was completed July 6, 2026; thermal testing resolved**
-  - **Dan Prendergast**: 1 open task (carries stale due date)
-    - ⏳ **[OPEN]** Operator Manual and Flight CONOPS for AFAC (due July 13, 2026) **STALE**
 
 ## Recent Activity
 
@@ -59,7 +57,7 @@
 **Maciej Stachura**: Mexico is moved to the Fall, so **no flight planning happening soon.**
 
 ### Current Status
-Project paused pending Fall 2026 deployment timeline confirmation. Batteries in transit to or received in Mexico with permanent import fees paid. Customs/import documentation and timeline details under review; awaiting Maciej's direction on email archival, customs broker communication, and group notification. **No active flight planning, mission prep, or shipping coordination underway.** Open tasks (Dan Prendergast: Operator Manual and Flight CONOPS; Maciej Stachura: overheating investigation) carry stale July 2026 due dates; related FLIR thermal task completed ahead of schedule in early July.
+Project paused pending Fall 2026 deployment timeline confirmation. Batteries in transit to or received in Mexico with permanent import fees paid. Customs/import documentation and timeline details under review; awaiting Maciej's direction on email archival, customs broker communication, and group notification. **No active flight planning, mission prep, or shipping coordination underway.** One open task (Maciej Stachura: overheating investigation) carries stale July 2026 due date; related FLIR thermal task completed ahead of schedule in early July.
 
 ## Notes & Context
 - **Mission Purpose**: S3 aircraft deployment to Mexico for volcanic gas sampling using Multi-sensor Head Package (MHP), survey services, and aircraft rental through AV3
@@ -75,4 +73,4 @@ Project paused pending Fall 2026 deployment timeline confirmation. Batteries in 
   - **Customs broker Javi** managing import process; final classification confirmation pending Maciej's direction
   - **Pending Maciej's decisions**: Email archival location, customs broker confirmation request, group notification
   - **All remaining open tasks** assume spring/summer 2026 execution — **do not action without Fall 2026 timeline confirmation**
-  - **Murray State thermal testing**: FL
+  - **Murray State thermal testing**: Related FLIR stoppage task completed July 6, 2026; overheating investigation task (due July 17) likely resolved or part of same testing cycle

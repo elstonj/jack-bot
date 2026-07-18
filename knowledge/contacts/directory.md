@@ -120,12 +120,11 @@
 - **Service Accounts:** 3
 
 **Data Validation Notes:**
-- ✅ All 18 active employee records merged and validated against new raw data
-- ✅ Phone number formatting standardized to XXX-XXX-XXXX (Ben Busby: 555-555-5555 preserved as provided)
+- ✅ All 18 active employee records validated against new raw data — **perfect match**
+- ✅ Phone numbers standardized to XXX-XXX-XXXX format from raw data sources
 - ✅ All email addresses confirmed and preserved exactly
-- ✅ New raw data confirms existing knowledge file — no conflicts detected
-- ✅ **Calendar Interop** service account added (present in new raw data, not in previous file)
-- ✅ **SCIM Service** account removed (not present in new raw data; Calendar Interop replaces it)
+- ✅ No conflicts between existing knowledge file and new raw data
+- ✅ All 21 roster entries accounted for and included
 
 **Observations:**
 - Engineering-focused organization: 8 technical staff (44% of active headcount)

@@ -1,71 +1,69 @@
 # Jack Elston — Email Patterns (UPDATED)
 
 ## Communication Volume
-- **Total messages scanned:** 6,727 (6,627 prior + 100 Jul 16–17)
-- **Date range:** April 1–July 17, 2026
+- **Total messages scanned:** 6,801 (6,727 prior + 74 Jul 17–18)
+- **Date range:** April 1–July 18, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **Jul 16–17 activity (100 messages):** ~20% human correspondence (NOAA/Navy/SBIR technical); ~45% automated vendor/logistics/purchasing (PayPal, Jetpack, WordPress, Harbor Freight, HeliDirect, JawsTec, tracking); ~20% system/infrastructure/newsletters (Rippling benefits card, NASA SATERN, Google Workspace, UASweekly, E-Verify, OnBlick webinar); ~15% external forums/marketing (Austin Tech Week, Kallman Worldwide/SOFEX, Volcano Summit, media relations)
+- **Jul 17–18 activity (74 messages):** ~15% human correspondence (NOAA/Navy/SBIR technical, external partnerships); ~50% automated vendor/logistics/purchasing (Principal, PayPal, Harbor Freight, WordPress, QuickBooks, United Airlines, Budget, McMaster-Carr, HeliDirect); ~20% system/infrastructure/newsletters (E-Verify TPS updates, DARPAConnect, UAS Vision, Railway, Aerospace Colorado); ~15% external forums/business development (Krateo, Munro Defense, AKSI Aerospace, Deel payroll, Murphy's Pond dataset, Immersive NOAA film)
 
 ## Key Correspondents
 
-### Top Internal Partners (Sustained + New Escalations Jul 16–17)
+### Top Internal Partners (Sustained + New Escalations Jul 17–18)
 
-1. **Maciej Stachura** (stachura@blackswifttech.com) — **EXECUTIVE DECISION-MAKING + VENDOR TECHNICAL ESCALATION:**
-   - **New escalations (Jul 16–17):**
-     - CA Foundations: Discovery - BST Leadership Culture (Jul 16, 15:02 & 14:09 IMPORTANT) — Jack & Maciej both responding to Hadley Solomon; leadership culture research coordination
-     - COTS WAIVER discussion (Jul 16, 10:16 SENT) — Jack forwarding Navy COTS waiver (Daniel Klier, NSWC IHD) to Maciej for decision
-     - UAS-MAG high Performance Dronecan Compass (Jul 17, 07:59 IMPORTANT) — Tom Simcox (Bartington) now emailing Maciej directly re: compass/sensor procurement
-   - **Pattern:** Maciej handling vendor escalations (Bartington sensor routing to him); executive-level compliance/waiver decisions flowing through Maciej
+1. **Maciej Stachura** (stachura@blackswifttech.com) — **EXECUTIVE VENDOR + KRATEO COORDINATION:**
+   - **New escalations (Jul 17–18):**
+     - Follow-up on call (Jul 17, 19:06 IMPORTANT) — Maciej responding to LisaMarie Cheney (Krateo Sky) re: follow-up discussion; continuing Krateo tech/partnership coordination
+   - **Pattern:** Maciej maintaining **direct Krateo partnership channel**; vendor escalations flowing through him
 
-2. **Beck Cotter** (beck.cotter@blackswifttech.com) — **NOAA OPERATIONS + SBIR TECHNICAL EXECUTION:**
-   - **New escalations (Jul 16–17):**
-     - Phase_1_CUAS_SBIR_Technical_Volume (Jul 16, 14:42, 14:18, 12:44 IMPORTANT x4) — Beck commenting on SBIR technical volume document via Google Docs; Jack receiving multiple comment notifications
-     - Meeting Updates (Jul 16, 15:50 IMPORTANT) — Beck responding to Jack re: meeting coordination
-     - Meeting Updates (Jul 16, 15:07–13:29 IMPORTANT x3) — Beck copied on multi-turn NOAA (Nikolai Pawlenko, Joe Cione) meeting logistics
-     - Modifications to HALO SBIR (Jul 16, 16:02, 11:54 IMPORTANT x2) — Beck multi-turn with Kevin Rozmiarek & Daniel Hesselius (Halo Aero); SBIR modifications coordination
-   - **Pattern:** Beck now **primary SBIR technical executor**; NOAA meeting coordination (Nikolai Pawlenko, Joe Cione Federal); multi-turn vendor technical negotiation (Halo Aero modifications)
+2. **Beck Cotter** (beck.cotter@blackswifttech.com) — **NOAA OPERATIONS + ACADEMIC PARTNERSHIPS:**
+   - **New escalations (Jul 17–18):**
+     - Follow up on OOI Pioneer Array Possibility (Jul 17, 21:39, 15:41 IMPORTANT x3) — Beck multi-turn with Joshua Wadler (ERAU - Embry-Riddle Aeronautical University); Jack receiving notifications re: oceanographic/research infrastructure coordination
+     - Modifications to HALO SBIR (Jul 17, 13:51, 14:38 IMPORTANT x2) — Beck & Daniel Hesselius (Halo Aero) continuing technical modification discussions
+   - **Pattern:** Beck now coordinating **academic partnerships (ERAU)** + **oceanographic research (OOI Pioneer Array)** alongside SBIR technical execution
 
-3. **Tim Hegwood** (tim.hegwood@blackswifttech.com) — **IT INFRASTRUCTURE ADMINISTRATION (NEW VISIBILITY):**
-   - IT Admin Setup (Jul 16, 21:42, 21:27, 16:27, 14:15 IMPORTANT x4) — Tim & Jack multi-turn re: IT admin setup; Jack responding to Tim's requests
-   - **Pattern:** Tim managing **IT infrastructure upgrades**; Jack in approval/coordination role
+3. **Meredith Needham** (meredith.needham@blackswifttech.com) — **OPERATIONS + AUDIT + FACILITIES + VENDOR TECHNICAL:**
+   - **New escalations (Jul 17–18):**
+     - QB Access and requested items (Jul 17, 15:52, 21:37 IMPORTANT x2) — Meredith multi-turn with KPMG team (Brandon Dalton, Aamir Husain, Peter Choi) re: financial audit access; continuing QuickBooks coordination
+     - Need Rippling Payroll Reports (Jul 17, 15:34, 15:33, 21:01, 22:03 IMPORTANT x4) — Meredith multi-turn with Mark Kightlinger (KCOTAX); Jack receiving multi-turn payroll/tax coordination emails
+     - Quote to repackage recovered UAS (Jul 17, 12:02, 11:45 IMPORTANT x2) — Meredith finalizing refurbishment estimates with NOAA (Nikolai Pawlenko); recovered S0 aircraft logistics
+     - Final estimate for refurbished S0 (Jul 17, 11:59 IMPORTANT) — Meredith sending final cost estimate to nick.pawlenko@noaa.gov
+     - DCAA Pre-Award Accounting System Audit (Jul 17, 08:50 IMPORTANT) — Meredith responding to michael.a.maldonado8.civ@mail.mil (DCAA auditor); compliance coordination
+     - QuSpin Question (Jul 17, 09:17, 09:18 IMPORTANT x2) — Meredith coordinating with Parker Ackerknecht & Shweta Choudhury (QuSpin) re: magnetometer/sensor technical questions
+   - **Pattern:** Meredith managing **multiple simultaneous audit streams (KPMG financial + DCAA compliance)** + **UAS recovery/refurbishment logistics** + **sensor vendor technical coordination (QuSpin)**
 
-4. **Meredith Needham** (meredith.needham@blackswifttech.com) — **OPERATIONS + FACILITIES COORDINATION:**
-   - Quote to repackage recovered UAS (Jul 16, 10:21, 10:21, 10:17, 10:12 IMPORTANT x4) — Jack & Meredith multi-turn re: UAS recovery/repackaging; Nikolai Pawlenko (NOAA) also involved
-   - Space / Office space requirements (Jul 16, 10:15, 10:11, 10:09 IMPORTANT x3) — Jack & Meredith multi-turn; Colorado Group office space negotiation (Ashley Overton); linked to Sona Raziabeegum (Krateo)
-   - Black Swift landlord contact (Jul 16, 10:15 IMPORTANT) — Meredith coordinating with Sona re: landlord
-   - QB Access and requested items (Jul 16, 14:34 IMPORTANT) — Meredith sending KPMG team (audit/financial) QuickBooks access
-   - **Pattern:** Meredith managing **facilities/space expansion** + **financial audit coordination with KPMG**
+4. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **NAVY RFI COORDINATION (NEW VISIBILITY):**
+   - RFI S0 (Jul 17, 11:46, 16:12 IMPORTANT x2) — Jack responding to Daniel re: Navy RFI S0 request; Evan M. Wolff (USSOCOM) responding directly to Daniel
+   - **Pattern:** Daniel managing **direct Navy Special Operations Command (SOCOM) RFI coordination**; Jack in copy/support role
 
-### Top External Partners (Strategic Deepening + New Navy/NOAA Integration)
+5. **Joshua Fromm** (josh.fromm@blackswifttech.com) — **PROPULSION SYSTEMS COORDINATION (NEW VISIBILITY):**
+   - Vertiq (Jul 17, 20:24 IMPORTANT) — Nejc Trost (C-Astral) responding to Joshua re: Vertiq motor procurement; Jack receiving notification
+   - **Pattern:** Joshua coordinating **motor/propulsion vendor discussions (Vertiq via C-Astral)**
 
-#### **NOAA Federal — OPERATIONAL INTEGRATION DEEPENING**
+### Top External Partners (Strategic Deepening + New Business Development)
 
-1. **Nikolai Pawlenko - NOAA Federal** (nikolai.f.pawlenko@noaa.gov) — **NOAA OPERATIONS LIAISON:**
-   - Meeting Updates (Jul 16, 15:07, 13:29 IMPORTANT x3) — Nikolai multi-turn with Jack, Beck Cotter, Meredith Needham re: meeting logistics
-   - Quote to repackage recovered UAS (Jul 16, 10:17 IMPORTANT) — Nikolai involved in recovered UAS repackaging coordination
-   - **Pattern:** Nikolai now **primary NOAA operational contact**; multi-turn meeting coordination visible
+#### **NOAA FEDERAL — OPERATIONAL DEEPENING (RECOVERY + REFURBISHMENT)**
 
-2. **Joe Cione - NOAA Federal** (joe.cione@noaa.gov) — **NOAA PROGRAM LEAD:**
-   - Meeting Updates (Jul 16, 21:42 IMPORTANT) — Joe responding to Beck re: meeting updates
-   - **Pattern:** Joe coordinating **NOAA program logistics** with Beck (not Jack directly)
+1. **Nikolai Pawlenko - NOAA Federal** (nikolai.f.pawlenko@noaa.gov) — **NOAA OPERATIONS LIAISON + ASSET RECOVERY:**
+   - Meeting Updates (Jul 17, 14:46, 10:49 IMPORTANT x2) — Nikolai multi-turn with Joe Cione (NOAA), Danielle Varwig (NOAA); Jack receiving notifications
+   - Quote to repackage recovered UAS (Jul 17, 12:02, 11:45 IMPORTANT x2) — Nikolai coordinating recovered aircraft refurbishment with Meredith
+   - **Pattern:** Nikolai now managing **UAS asset recovery + refurbishment coordination** (S0 aircraft recovery ops); NOAA meeting logistics deepening
 
-#### **U.S. NAVY — COTS WAIVER + PROCUREMENT ESCALATION**
+2. **Joe Cione - NOAA Federal** (joe.cione@noaa.gov) — **NOAA PROGRAM MANAGEMENT:**
+   - Meeting Updates (Jul 17, 13:31 IMPORTANT) — Joe responding to Danielle Varwig (NOAA) re: meeting coordination; Jack in notification chain
+   - **Pattern:** Joe coordinating **NOAA internal meeting logistics** (may include Jack/BST operational sync)
 
-1. **Daniel E. Klier CIV USN NSWC IHD** (daniel.e.klier.civ@us.navy.mil) — **NAVY COTS WAIVER AUTHORITY:**
-   - [Non-DoD Source] Re: /External/ - COTS WAIVER (Jul 16, 16:42, 12:57 IMPORTANT x2) — Jack multi-turn with Daniel re: COTS waiver request; Paul Jaynes (American Systems) CC'd
-   - **Pattern:** Jack now **direct Navy waiver requestor**; escalation to Maciej for final decision
+3. **Danielle Varwig - NOAA Federal** (danielle.varwig@noaa.gov) — **NOAA COORDINATION (NEW CONTACT):**
+   - Meeting Updates (Jul 17, 12:13 IMPORTANT) — Danielle responding to Nikolai re: meeting updates; Jack receiving notification
+   - **Pattern:** New NOAA contact in **meeting coordination chain**
 
-2. **Donald W. Sapp CTR USN CNR** (donald.w.sapp.ctr@us.navy.mil) — **NAVY AUTO-REPLY:**
-   - Automatic reply: [Non-DoD Source] (Jul 16, 16:31) — Out-of-office auto-reply received
-   - **Pattern:** Jack has parallel Navy contact channels
+#### **U.S. NAVY + SPECIAL OPERATIONS — RFI + WAIVER ESCALATION**
 
-#### **KRATEO SKY — FACILITIES + BUSINESS DEVELOPMENT EXPANSION**
+1. **Evan M. Wolff MIL USSOCOM** (evan.m.wolff.mil@socom.mil) — **USSOCOM RFI AUTHORITY (NEW ESCALATION):**
+   - RFI S0 (Jul 17, 16:12 IMPORTANT) — Evan responding directly to Daniel Prendergast (BST) re: Navy RFI S0; Jack receiving notification
+   - **Pattern:** Jack now in **U.S. Special Operations Command RFI response chain**; high-priority military technical response
 
-1. **Brian Grubel** (Brian@krateosky.com) — **KRATEO OPERATIONAL SYNC:**
-   - Tech Sync Availability? (Jul 16, 23:46 IMPORTANT) — Brian asking Jack & Maciej re: tech sync meeting
-   - [External] - Introduction: Justin Branch (Munro Defense) + Jack Eltson (BlackSwift) (Jul 16, 19:03 IMPORTANT) — Brian facilitating Munro Defense/BST introduction; Don Spinozzi (Krateo) also CC'd
-   - **Pattern:** Brian facilitating **external partnership introductions** (Munro Defense); tech sync meetings escalating
+#### **KRATEO SKY — TECH PARTNERSHIP + FACILITIES EXPANSION**
 
-2. **Jed Leonard** (jed@krateosky.com) — **KRATEO PROJECT FOLLOW-UP:**
-   - Follow-up on call (Jul 16, 19:19, 19:02, 18:19 IMPORTANT x3) — Jed multi-turn with Jack re: follow-up discussion
-   - **Pattern:** Jed managing **project-level
+1. **Brian Grubel** (Brian@krateosky.com) — **KRATEO OPERATIONAL SYNC + INTRODUCTIONS:**
+   - [Continuing from prior update; no new Jul 17–18 activity in this scan]
+   - **Pattern:** Facilitating **external partnership introductions** (

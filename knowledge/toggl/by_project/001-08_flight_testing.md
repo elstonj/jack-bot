@@ -4,13 +4,13 @@
 - **Client:** Internal/Black Swift Technologies
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked (cumulative):** 100.1 hours
+- **Total hours tracked (cumulative):** 113.0 hours
 
 ## Team Allocation
-- **Ethan Domagala:** 42.2 hours (42%)
-- **Nate:** 39.0 hours (39%)
-- **Stachura:** 15.7 hours (16%)
-- **Spencer Hoehl:** 3.2 hours (3%)
+- **Ethan Domagala:** 50.0 hours (44%)
+- **Nate:** 39.0 hours (35%)
+- **Stachura:** 15.7 hours (14%)
+- **Spencer Hoehl:** 8.4 hours (7%)
 - **Primary contributor:** Ethan
 
 ## Activity Timeline
@@ -28,25 +28,29 @@ Recent work entries show continued Flight Testing focus:
 - **Flights and logs:** 6.0 hours (Nate)
   - Status: No new activity this batch
   
+- **Current batch activity (12.9h):**
+  - Ethan Domagala: 7.8h (no description provided)
+  - Spencer Hoehl: 5.2h (no description provided)
+  - **Note:** Both entries lack task descriptions
+
 - **Stachura involvement:** 15.7 hours total
-  - Current batch: 2.2h (1.9h + 0.3h; both undescribed)
-  - Previous batch: 4.8h (undescribed)
-  - Prior batch: 8.7h
-  - **Trend:** Consistent contributor; third-largest by hours
-  - **Documentation gap:** 7.0 hours (45% of Stachura's total work) unexplained across last two batches
+  - Most recent activity: Previous batch 2.2h (1.9h + 0.3h; both undescribed)
+  - **Trend:** No new activity this cycle; consistent tertiary contributor
+  - **Documentation gap:** 7.0 hours (45% of Stachura's total work) unexplained across earlier batches
   
-- **Nate prep work:** 1.0 hour (previous batch)
+- **Nate prep work:** 1.0 hour (prior batch)
   - Type: Prep work
   - **Status:** Minor activity; supports preparation pattern
 
-- **Spencer Hoehl involvement:** 3.2 hours total
-  - **Current batch:** 1.7h (no description)
-  - **Status:** Growing contributor; second entry added this cycle
-  - **Documentation gap:** Both entries lack descriptions
+- **Spencer Hoehl involvement:** 8.4 hours total
+  - **Current batch:** 5.2h (no description)
+  - **Previous batch:** 1.7h (no description)
+  - **Status:** Growing contributor; doubled activity this cycle
+  - **Documentation gap:** All 8.4 hours lack task descriptions (100%)
 
 ## Insights
-- **Documentation gaps expanding:** 8.7 hours now undescribed (9% of project total)—Stachura (7.0h) + Spencer (1.7h). Recommend mandatory entry descriptions for future tracking.
-- **Spencer Hoehl activity increasing:** 1.7h added this batch (doubled from 1.5h baseline); expanding role warrants clarification.
-- **Stachura documentation critical:** 7.0 hours across last two batches lack descriptions. Immediate clarification needed on task scope.
-- **Team composition stable:** Four consistent contributors; Stachura (16%) and Spencer (3%) growing as secondary/tertiary support.
-- **S3/S1-22 testing between cycles:** No new entries; projects appear in inter-activity phases.
+- **Critical documentation gaps:** 13.0 hours now undescribed (11.5% of project total)—Spencer (8.4h, 100%) + Ethan current batch (7.8h, 100%). Recommend mandatory entry descriptions for all future tracking.
+- **Spencer Hoehl rapid expansion:** 5.2h added this batch; now 7.5% of project. Growing from minimal contributor (3.2h) to meaningful role. Clarify responsibilities and project scope.
+- **Ethan activity uptick:** 7.8h new hours; maintains position as primary driver (44% of total).
+- **Stachura inactive this cycle:** No entries; may indicate phase completion or resource reallocation.
+- **Undescribed work pattern:** All current batch entries lack descriptions—systematic issue requiring process enforcement.

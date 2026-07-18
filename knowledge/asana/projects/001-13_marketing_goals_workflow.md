@@ -77,10 +77,11 @@ Goal management workflow template used to brainstorm, draft, and approve BST's m
 ### Cross-Project References
 - S0 documentation work tracked in separate Asana project 1207199631174002 (engineering/product documentation)
 
-### Related Active Initiatives (Out of Scope for This Archive)
-- **Maintenance Action Form workflow:** Daniel Prendergast is working to integrate a Maintenance Action Form into post-flight processes to automatically create Asana tasks for hardware fixes and software bugs (July 2026). This is part of active operational/engineering workflows, not this archived marketing goals project.
-
 ## Archive Note
 This project successfully established BST's marketing framework, digital infrastructure, and strategic positioning within the geoscience and UAS communities through 2025. It is no longer active. New marketing goals are tracked in subsequent project cycles.
 
-**⚠️ Important Clarification:** This archived project is separate from active technical engineering work. Concurrent active projects include EMASS flight tests, S0-VTOL debugging, S3 work, and Mustang progress — those belong to different, active engineering initiatives and should not be confused with this completed marketing goals workflow (May 2024 – April 2025).
+**⚠️ Important Clarification:** This archived project is separate from active technical engineering work. Concurrent active projects include EMASS flight tests, S0-VTOL debugging, S3 work, Mustang progress, and postflight workflow improvements — those belong to different, active engineering initiatives and should not be confused with this completed marketing goals workflow (May 2024 – April 2025).
+
+---
+
+**Note:** Team feedback received July 2026 regarding postflight maintenance workflows (Daniel Prendergast) does not affect this archived marketing project and is instead relevant to active engineering operational processes.
