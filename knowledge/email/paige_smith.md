@@ -1,22 +1,16 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 3,889 (3,851 previous + 38 new from Jul 17-18, 2026)
-- **Date range:** March 24 – July 18, 2026 (117 days)
+- **Total messages scanned:** 3,911 (3,889 previous + 22 new from Jul 18-19, 2026)
+- **Date range:** March 24 – July 19, 2026 (118 days)
 - **Approximate volume:** ~33 messages per day (sustained)
-- **New batch composition (Jul 17-18, 2026):** ~95% automation/newsletters/promotions/job alerts (36 of 38 messages)
-  - **Direct human correspondence:** 2 messages (5%)
-    - Paige Smith → Meredith Needham (meredith.needham@blackswifttech.com) — Jul 17, 09:20 AM — **Toggl Issue** [SENT] — *Internal operations/time tracking system*
-    - Sean Cihacek (scihacek@yourabt.com) — Jul 17, 19:30 PM — **Is Black Swift Budgeting for 2027?** [IMPORTANT, UNREAD, CATEGORY_FORUMS] — *Sent to info@blackswifttech.com* — *Vendor/supplier budgeting inquiry*
-  - **Manufacturing/Aerospace vendor outreach:** AKSI Aerospace (Kavya Sree) — Jul 18, 10:36 AM — **"AKSI Aerospace – Advanced UAV Systems & Aerospace Solutions"** [UNREAD, CATEGORY_FORUMS] — *Follow-up to previous contact; elevated vendor engagement*
-  - **Website/Infrastructure:** Google Support Tag Implementation (Google Ads), All in One SEO (2 messages), MailerLite (email platform)
-  - **Government/Defense briefings:** A&SF Daily Report (CSO nominee on China space capabilities), Mitchell Institute (Lt. Gen. Whitney, Hon. Frank Kendall visit)
-  - **Industry/Event registration:** Volcano Innovation Summit 2026 (registration + reminder), Capital Factory (chip allies briefing)
-  - **Industry newsletters/news:** UAS VISION, Energy Drone & Robotics Coalition (LinkedIn-distributed), LinkedIn News (trade schools)
-  - **Professional/Business:** LinkedIn (18 profile views, 1 new invitation, job posting alerts, group activity notifications — Investors Club Access, Engineering Design requests from Josh Cutlip/other clients)
-  - **Personal/news:** The New York Times (6 messages: breaking news, weather, opinion), The Athletic Pulse, Inside Climate News
-  - **Retail/promotions:** Target (2), Staples, BannerBuzz, Shopify
-  - **Other vendor inquiries:** Yasir Qasemi (Alternative Logistics) — "Request for Quote – Drone" [undisclosed-recipients broadcast]
+- **New batch composition (Jul 18-19, 2026):** ~91% automation/newsletters/promotions (20 of 22 messages)
+  - **Direct human correspondence:** 0 messages (0%)
+  - **News/Intelligence feeds:** A&SF Alerts, Mitchell Institute, The New York Times (8 messages), The Athletic Pulse, Inside Climate News
+  - **Website/Infrastructure/Technical:** Google Search Console (indexing issues on bst.aero), Elementor, All in One SEO (2 messages), WPBeginner, Shopify
+  - **Professional networking:** LinkedIn (2 messages: new invitation, connection suggestion for Chad Vorthmann)
+  - **Retail/Promotions:** Target (college shopping), Staples, ShopAFA (AFA merchandise)
+  - **Subscriptions/Offers:** The New York Times (3 subscription/offer messages), All in One SEO (2 promotional messages)
 
 ---
 
@@ -25,76 +19,134 @@
 ### Top Internal Senders & Collaborators
 
 **Meredith Needham (meredith.needham@blackswifttech.com)**
-- **Status:** CONFIRMED elevated priority — Paige initiated outbound contact
-- **Recent activity (Jul 17, 09:20 AM):**
-  - Paige SENT **"Toggl Issue"** to Meredith
-  - **Signal:** Toggl (time tracking/project management platform) issue requiring operations coordination
-  - **Context:** Continues website/infrastructure migration coordination pattern; cross-functional issue resolution
+- **Status:** CONFIRMED elevated priority — Paige initiated outbound contact (Jul 17)
+- **Collaboration type:** Operations/time tracking system coordination (Toggl Issue)
 
 ---
 
 ### Top External Senders & Partners
 
-**AKSI Aerospace Group — Escalated Engagement**
-- **Previous contact:** Varshith Reddy (varshith.reddy@aksi-aerospace.com) — Jul 16
-- **New contact (Jul 18, 10:36 AM):** Kavya Sree (kavya.sree@aksi-aerospace.com) — **"AKSI Aerospace – Advanced UAV Systems & Aerospace Solutions"** [UNREAD]
-- **Signal:** Follow-up contact from different AKSI representative; indicates escalated vendor discussion (multiple stakeholders engaging BST)
-- **Implication:** Manufacturing partnership negotiations advancing; Kavya Sree assigned as account lead or expanded scope contact
-- **Context:** Aligns with PCB/manufacturing partner evaluation activity (ongoing vendor due diligence)
+**AKSI Aerospace Group — Manufacturing Partnership**
+- **Contact:** Kavya Sree (kavya.sree@aksi-aerospace.com)
+- **Status:** Escalated engagement (Jul 18, 10:36 AM) — Follow-up from previous contact with Varshith Reddy
+- **Signal:** Multi-stakeholder vendor discussion; potential manufacturing/PCB partnership
 
-**Sean Cihacek (scihacek@yourabt.com) — NEW BUDGET/PROCUREMENT CONTACT**
-- **Status:** NEW important vendor communication
-- **Recent activity (Jul 17, 19:30 PM):**
-  - Sent **"Is Black Swift Budgeting for 2027?"** to info@blackswifttech.com [IMPORTANT, UNREAD, CATEGORY_FORUMS]
-  - **Signal:** Vendor conducting 2027 budget inquiry; suggests sales/procurement cycle outreach (likely manufacturing/component supplier or service provider)
-  - **Domain:** yourabt.com (unclear vendor type — requires clarification; possibly procurement/supply chain platform or consulting)
-  - **Implication:** Vendor database suggesting BST actively engaging budget planning conversations; Q4 2026 procurement planning underway
+**Sean Cihacek (scihacek@yourabt.com)**
+- **Status:** NEW vendor budget inquiry (Jul 17, 19:30 PM)
+- **Signal:** 2027 budget planning conversation; procurement cycle engagement
 
-**News/Intelligence Feeds — Competitive & Strategic Intelligence**
+---
 
-**A&SF Daily Report (AirAndSpaceForcesMagazine@afa.org) — Escalated Content**
-- **Recent priority content (Jul 17, 03:49 AM) [UNREAD]:**
-  - **"CSO Nominee Talks China's Space Capabilities"** — Strategic policy/intelligence on U.S. space capabilities vs. China
-  - **Pattern:** Consistent tracking of space/defense policy intelligence; relevant to BST's autonomy and strategic positioning
+### News/Intelligence Feeds — Active Monitoring
+
+**A&SF Alerts (AirAndSpaceForcesMagazine@afa.org) — Defense Policy Intelligence**
+- **Frequency:** Continued regular delivery
+- **Recent content (Jul 18, 14:46 PM):** **"News Alert | US Troops Killed in Jordan"** [UNREAD]
+- **Pattern:** Active monitoring of U.S. military/defense incidents and policy
 
 **Mitchell Institute (mitchell@afa.org)**
-- **Recent content (Jul 17, 08:22 AM):**
-  - **"Lt. Gen. Whitney and the Hon. Frank Kendall Visit the Mitchell Institute"** — High-level DoD leadership engagement
-  - **Signal:** Tracking defense policy leadership; relevant to government contracting/regulatory environment
+- **Recent content (Jul 18, 05:39 AM):** **"Air Force Reserve Update: Lt Gen Healy - Aerospace Advantage 299"** [UNREAD]
+- **Signal:** Continued tracking of Air Force strategy and leadership communications
 
-**UAS VISION (russ@uasvision.com)**
-- **Recent content (Jul 17, 09:07 AM) [UNREAD]:**
-  - **"DAILY NEWS"** — Addressed to Jack (media@blackswifttech.com)
-  - **Note:** Distribution continues to Jack's media alias; confirms regular industry news circulation
+**The New York Times (multiple addresses)**
+- **Volume (Jul 18-19):** 8 messages (breaking news alerts, editor picks, subscription offers, morning briefing)
+- **Topics tracked:** Breaking news (geopolitical/security incidents), general interest/lifestyle, subscription promotions
+- **Pattern:** High-volume consumer news subscription; likely personal interest mixed with potential market awareness
 
-**Energy Drone & Robotics Coalition (via LinkedIn)**
-- **Recent content (Jul 17, 22:59 PM):**
-  - **"Energy Drone & Robotics Brief | July 17, 2026"** [UNREAD]
-  - **Signal:** Continues regulatory/industry tracking on drone/robotics policy affecting energy sector
-  - **Context:** Aligns with Friends of Energy coalition participation and FAA UAS rules monitoring
+**Inside Climate News**
+- **Recent content (Jul 18, 10:16 AM):** **"Sea level rise creates agricultural crisis in Gambia"** [UNREAD]
+- **Pattern:** Environmental/climate policy tracking continues
 
----
-
-### LinkedIn Activity — Elevated Business Development Signals
-
-**LinkedIn notifications (9 new signals Jul 17-18):**
-- Jul 18, 02:59 AM: **18 profile views** [UNREAD] — Elevated profile interest
-- Jul 18, 02:21 AM: **1 new invitation** [UNREAD] — New professional connection request
-- Jul 17, 22:59 PM: **"You're on a roll on LinkedIn!"** — Activity engagement notification
-- Jul 17, 18:08 PM: **"Black Swift Technologies, Engineering Design request from Josh Cutlip and other clients are available"** [UNREAD, CATEGORY_SOCIAL]
-  - **Signal:** Active service requests/leads from Josh Cutlip and unnamed additional clients for engineering design services
-  - **Implication:** BST receiving inbound demand for engineering services; business development pipeline active
-- Jul 17, 17:56 PM: **"Don't miss conversations in Investors Club Access: Accredited Investor, Doctor, Dentist, Founder, and Family Office Investors"** [UNREAD]
-  - **Signal:** Paige active in investor/founder networks on LinkedIn; potential capital/partnership exploration
-- Jul 17, 20:55 PM: **"Marketing Specialist at Compass"** — Job posting alert
-- Jul 17, 09:07 AM: **"Does hiring feel like a 2nd job?"** — LinkedIn Recruiter promo (hiring intelligence/recruitment signal)
+**The Athletic Pulse**
+- **Recent content (Jul 18, 11:29 AM):** **"Baseball's beautiful mess"** [UNREAD, IMPORTANT]
+- **Pattern:** Sports news consumption (personal interest)
 
 ---
 
-### Event Registration & Conferences
+### Website/Infrastructure Contacts
 
-**Volcano Innovation Summit 2026**
-- **Status:** REGISTERED participant
-- **Recent activity (Jul 17, 16:30 PM & 17:30 PM):**
-  - Access registration confirmation sent
-  - Reminder: **"Your still on
+**Google Search Console Team (sc-noreply@google.com)**
+- **Recent alert (Jul 18, 04:10 AM):** **"New reasons prevent pages from being indexed on site https://bst.aero/"** [UNREAD]
+- **Signal:** TECHNICAL ISSUE — BST website indexing problems detected
+- **Implication:** Website migration/technical work ongoing; requires SEO/infrastructure attention
+- **Context:** Aligns with previous pattern of website/infrastructure coordination with Meredith Needham
+
+**All in One SEO (support@aioseo.com)**
+- **Activity (Jul 18):** 2 promotional messages (Basic plan $49.50 offers)
+- **Pattern:** Active tool subscription for website optimization
+
+---
+
+### LinkedIn Activity
+
+**LinkedIn Notifications (2 new signals Jul 19):**
+- Jul 19, 02:21 AM: **1 new invitation** [UNREAD, CATEGORY_SOCIAL]
+- Jul 19, 00:59 AM: **"Add Chad Vorthmann"** connection suggestion [UNREAD, CATEGORY_SOCIAL]
+- **Signal:** Continued inbound professional networking activity; potential new business contact (Chad Vorthmann identity requires clarification)
+
+---
+
+### Shopping/Retail Activity
+
+**Target (Jul 18, 12:43 PM)**
+- **Subject:** **"College shopping starts here 🎓"** [IMPORTANT]
+- **Pattern:** Consumer activity; possible personal relevance (college-age family member or personal interest)
+
+**ShopAFA (Jul 18, 14:25 PM)**
+- **Subject:** **"Top Seller: Minuteman III ICBM T-shirt"** [IMPORTANT]
+- **Pattern:** AFA merchandise promotional; aligned with defense/aerospace industry interest
+
+---
+
+## Topic Patterns
+
+### Defense/Aerospace/Policy Intelligence (Consistent)
+- U.S. military operations and incidents (Jordan troop deaths, Iranian attack)
+- Air Force strategy and leadership communications
+- Space policy and capabilities (CSO nominee briefing, China space capabilities)
+- Defense contractor environment tracking
+
+### Website/Infrastructure/Technical Operations
+- bst.aero website indexing and SEO issues
+- WordPress/Elementor website platform management
+- Email platform management (MailerLite referenced in prior data)
+- Google Search Console monitoring
+
+### Energy/Climate Policy
+- Environmental policy tracking (sea level rise, agricultural impacts)
+- Energy sector regulation (Friends of Energy coalition activity in prior data)
+
+### Professional Networking & Business Development
+- LinkedIn profile views and connection requests (elevated activity)
+- Engineering design service inquiries (Josh Cutlip and other clients)
+- Investor/founder network participation (Investors Club Access)
+
+### Professional Subscriptions & Tools
+- LinkedIn job alerts and recruiter content
+- News subscriptions (The New York Times, The Athletic Pulse)
+- Website optimization tools (All in One SEO, WPBeginner, Elementor)
+
+---
+
+## Communication Patterns
+
+### Email Volume Consistency
+- Sustained ~33 messages/day across all batches
+- Consistent split: ~90-95% automation/newsletters vs. 5-10% direct human correspondence
+- Pattern indicates high subscription load (news, industry alerts, tool providers) rather than heavy interpersonal communication
+
+### Timing Patterns (Jul 18-19 data)
+- **Early morning (00:59–05:39 UTC):** LinkedIn notifications, Google alerts, Mitchell Institute briefings
+- **Late morning/afternoon (10:16–14:46 UTC):** News alerts (NYT, A&SF, Inside Climate), tool promotions (All in One SEO, Staples, Target)
+- **Evening/weekend dominance:** 18 of 22 messages arrived Sat Jul 18–Sun Jul 19 (weekend bias in newsletter/promotional delivery)
+- **Consistent 24/7 receipt:** Automated systems; no clear work-hours-only pattern
+
+### Unread Message Status (Jul 18-19)
+- **100% of messages marked UNREAD** — Suggests batch viewing/filtering rather than real-time processing
+- **IMPORTANT flags:** 5 of 22 messages (23%)
+  - The Athletic Pulse (sports), Target (college shopping), NYT Morning Briefing, ShopAFA (merchandise)
+  - Pattern: Mixed personal/professional importance signals
+
+### Mailing Lists & Automated Systems
+- **News/Intelligence Feeds:** A&SF Alerts, Mitchell Institute, NYT (breaking news + editor picks + direct newsletter + subscription offers + morning briefing), Inside Climate News, The Athletic Pulse
+- **Website/Infrastructure Alerts

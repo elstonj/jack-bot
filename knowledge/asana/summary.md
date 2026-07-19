@@ -1,126 +1,115 @@
 # Asana Projects Overview
 
-Last scanned: 2026-07-18 02:09
+Last scanned: 2026-07-19 02:10
 
-Total projects scanned: 18
+Total projects scanned: 17
 
 ## Projects
 
 - **Flight Checklists** — 12 tasks — [flight_checklists.md](flight_checklists.md)
+- **View: Shop Pipeline** — 1 tasks — [view_shop_pipeline.md](view_shop_pipeline.md)
 - **[001-12] Log Parse Website** — 0 tasks — [001-12_log_parse_website.md](001-12_log_parse_website.md)
-- **[001-13] Accounting** — 2 tasks — [001-13_accounting.md](001-13_accounting.md)
+- **[001-13] BD Pipeline** — 1 tasks — [001-13_bd_pipeline.md](001-13_bd_pipeline.md)
 - **[001-13] Corporate / Strategic Planning** — 1 tasks — [001-13_corporate_strategic_planning.md](001-13_corporate_strategic_planning.md)
-- **[001-13] Facilities Management** — 2 tasks — [001-13_facilities_management.md](001-13_facilities_management.md)
-- **[001-13] General Operations** — 1 tasks — [001-13_general_operations.md](001-13_general_operations.md)
+- **[001-13] Facilities Management** — 1 tasks — [001-13_facilities_management.md](001-13_facilities_management.md)
 - **[001-13] Marketing Goals Workflow** — 0 tasks — [001-13_marketing_goals_workflow.md](001-13_marketing_goals_workflow.md)
-- **[001-13] Proposals** — 1 tasks — [001-13_proposals.md](001-13_proposals.md)
 - **[001-13] Purchasing** — 5 tasks — [001-13_purchasing.md](001-13_purchasing.md)
-- **[001-14] SwiftCore 3.3** — 1 tasks — [001-14_swiftcore_33.md](001-14_swiftcore_33.md)
-- **[001-22] Fleet Maintenance** — 2 tasks — [001-22_fleet_maintenance.md](001-22_fleet_maintenance.md)
 - **[005-1] BARBADOS VTOL S0 and Training ** — 4 tasks — [005-1_barbados_vtol_s0_and_training.md](005-1_barbados_vtol_s0_and_training.md)
 - **[012-2] ERAU VTOL S0** — 5 tasks — [012-2_erau_vtol_s0.md](012-2_erau_vtol_s0.md)
 - **[043-2] By Light Mustang** — 3 tasks — [043-2_by_light_mustang.md](043-2_by_light_mustang.md)
+- **[044-1] EMASS Chip Integration** — 1 tasks — [044-1_emass_chip_integration.md](044-1_emass_chip_integration.md)
 - **[200-11] Persistence Demo (NASA)** — 1 tasks — [200-11_persistence_demo_nasa.md](200-11_persistence_demo_nasa.md)
+- **[200-14] Autonomy** — 2 tasks — [200-14_autonomy.md](200-14_autonomy.md)
 - **[212-2] NASA S2 & Parts** — 5 tasks — [212-2_nasa_s2_parts.md](212-2_nasa_s2_parts.md)
 - **[350-4] 2024 USGS - Chile (Mexico)** — 1 tasks — [350-4_2024_usgs_-_chile_mexico.md](350-4_2024_usgs_-_chile_mexico.md)
 - **[452-2] S2 Simulator & used E2 Battery** — 0 tasks — [452-2_s2_simulator_used_e2_battery.md](452-2_s2_simulator_used_e2_battery.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies – Project Portfolio Summary
+# Black Swift Technologies – Project Portfolio Overview
 
-## Portfolio Overview
+## Portfolio Summary
 
 | Metric | Value |
 |--------|-------|
-| **Total Portfolio Value** | ~$908K+ (active/funded contracts) |
-| **Active Projects** | 12 major projects + 6 internal operations |
-| **Overdue/At-Risk** | 4 projects |
-| **Archived/Completed** | 3 projects |
+| **Total Active Project Value** | **~$1.07M** |
+| **Total Archived/Completed** | **$230.6K** |
+| **Grand Total (All Projects)** | **~$1.3M** |
 
 ---
 
-## Active Project Portfolio
+## Active Projects by Value
 
-### **High-Value Contracts**
+| Project | Client | Value | Status |
+|---------|--------|-------|--------|
+| [043-2] By Light Mustang | By Light Professional IT | $450,000 | 🟡 In Progress (Dec 2025 target) |
+| [212-2] NASA S2 & Parts | NASA Ames | $89,844 | 🟡 In Progress |
+| [044-1] EMASS Chip Integration | EMASS (Commercial) | $90,000 | 🔴 **PAYMENT FRICTION** — $35K final milestone unpaid |
+| [350-4] 2024 USGS Chile | USGS Volcano Science | $124,230 | 🟡 Funded; **deployment postponed to Fall 2026** |
+| [012-2] ERAU VTOL S0 | Embry-Riddle University | ~$42,000 | 🔴 **21+ months overdue** (orig. Aug 2024) |
+| [005-1] Barbados VTOL S0 | Barbados Met. Services | $43,519 | 🔴 **CRITICAL DELAY** — May 2026 delivery missed |
+| [452-2] S2 Simulator & Battery | CU Boulder (Hesselius) | $3,900 | 🔴 **OVERDUE** — Customs holds, pending sign-off |
+| Corporate/Strategic (ISARRA) | Internal/Mixed | $21,182 | 🟡 Aug/Sep 2026 campaign |
 
-| Project | Client | Value | Status | Key Risk |
-|---------|--------|-------|--------|----------|
-| **[043-2] By Light Mustang** | By Light Professional IT Services | $450,000 | Active (started Oct 2025) | Delivery delayed beyond Dec 5, 2025 target |
-| **[212-2] NASA S2 & Parts** | NASA Ames Research Center | $89,844 | Active | Contact (Isaac Anderson) has departed NASA; routing unclear |
-| **[350-4] USGS Chile (Mexico)** | USGS Volcano Science Center | $124,230 | Active | **Deployment postponed to Fall 2026** (was April 2026) |
-| **[001-14] SwiftCore 3.3** | Internal R&D | Not specified | Substantially complete (May–Jun 2026) | Transition to release readiness phase |
-
-### **Medium-Value / Operational Projects**
-
-| Project | Client | Value | Status | Key Risk |
-|---------|--------|-------|--------|----------|
-| **Flight Checklists / ISARRA Campaign** | Multiple (EMASS, By-Lite, CU, NOAA, 53rd Weather Squadron) | $21,181.81 | Active | **Delivery target: Aug/Sep 2026** |
-| **[012-2] ERAU VTOL S0** | Embry-Riddle Aeronautical University | ~$42,000 | Active | **21+ months overdue**; corrected target Aug/Sep 2026 |
-| **[005-1] Barbados VTOL S0 & Training** | Barbados Meteorological Services | $43,518.81 | Active | **CRITICAL DELAY—S0 delivery due May 22, 2026** (past due) |
-| **[452-2] S2 Simulator & E2 Battery** | CU Boulder | $3,900 | **OVERDUE** (due Jun 30, 2026) | E2 battery stuck in Mexican customs; authorization pending |
-
-### **Internal Operations**
-
-| Project | Owner | Status | Open Tasks | Key Issues |
-|---------|-------|--------|-----------|-----------|
-| **[001-13] Purchasing** | — | Active | 5 overdue tasks | **Critical operational crisis** (partially resolved) |
-| **[001-13] Facilities Management** | — | Active | 2 open | Lease ops ongoing (NNN + CAM structure) |
-| **[001-13] Accounting** | Meredith O'hara Needham | Active | 2 open | Invoice processing backlog |
-| **[001-13] General Operations** | Dan Prendergast | Active | Complete | Process improvement delivered |
-| **[001-13] Proposals** | Beck Cotter | Active | 1 open | Navy 26BX Release 3 (HALO Aero sub) |
-| **[001-22] Fleet Maintenance** | Dan Prendergast | Active | Ongoing | 10 aircraft in scope; no defined timeline |
+**Operational Projects (Ongoing, Non-Billable):**
+- [001-13] Purchasing | 🔴 **CRITICAL** — 5 tasks due Jul 18, 2026 (4 days); automation failures persist
+- [001-13] Facilities Management | 🟢 Active; 1 open task
+- [001-13] BD Pipeline | 🟡 Active across gov/defense/academic sectors
 
 ---
 
-## Risk Assessment
+## Key Risk Areas
 
-### 🔴 **Critical Risks**
-1. **[005-1] Barbados VTOL** — S0 delivery **past due (May 22, 2026)**
-2. **[452-2] CU Boulder Simulator** — **Overdue (Jun 30, 2026)**; Mexican customs hold on E2 battery; authorization chain blocked
-3. **[001-13] Purchasing** — Operational crisis with 5 overdue tasks (Jul 18, 2026 deadline); procurement backlog affecting multiple projects
-4. **[043-2] By Light Mustang** — $450K contract delivery slipped beyond Dec 5, 2025 target
+### 🔴 Critical Risks
 
-### ⚠️ **High Risks**
-1. **[012-2] ERAU VTOL** — 21+ months past original deadline; corrected target Aug/Sep 2026
-2. **[350-4] USGS Chile** — Deployment postponed 12+ months (April 2026 → Fall 2026)
-3. **Contact management** — NASA S2 project point-of-contact Isaac Anderson no longer at NASA Ames; routing uncertain
+1. **[001-13] Purchasing** — Operational bottleneck with closure automation failures; **4-day deadline imminent** (Jul 18, 2026)
+2. **[012-2] ERAU VTOL S0** — **21+ months overdue**; corrected target Aug/Sep 2026 uncertain
+3. **[005-1] Barbados VTOL S0** — **Critical delivery miss** on May 2026 commitment; ISARRA flight campaign at risk
+4. **[044-1] EMASS Chip Integration** — Client refused $35K final payment; payment friction and incomplete reporting
+5. **[452-2] S2 Simulator & Battery** — Customs-blocked battery; authorization pending from Meredith O'hara Needham
 
-### ✓ **Low Risk / Closed**
-- **[001-12] Log Parse Website** — Archived; completed Oct 2025
-- **[200-11] NASA Persistence Demo** — Archived; closed Nov 24, 2025; 100% payment received
-- **[001-14] SwiftCore 3.3** — Substantially complete; transitioning to release phase
+### 🟡 Medium Risks
+
+- **[043-2] By Light Mustang** — $450K contract at risk if Dec 2025 core deliverable misses (status unclear)
+- **[350-4] USGS Chile** — Deployment postponement (Apr 2026 → Fall 2026) requires timeline resync
+- **BD Pipeline** — Multiple unfunded proposals ($300K–$896.5K); commercialization momentum uncertain
+
+---
+
+## Upcoming Deadlines
+
+| Date | Project | Deliverable | Risk Level |
+|------|---------|-------------|-----------|
+| **Jul 18, 2026** | [001-13] Purchasing | 5 open tasks | 🔴 CRITICAL |
+| **Aug/Sep 2026** | [012-2] ERAU VTOL S0 | S0 delivery | 🔴 HIGH |
+| **Aug/Sep 2026** | Flight Checklists/ISARRA | Flight campaign | 🔴 HIGH |
+| **Fall 2026** | [350-4] USGS Chile | Deployment | 🟡 MEDIUM |
+| **Aug 30, 2025** | [350-4] USGS Chile | Contract end | ℹ️ FYI |
 
 ---
 
 ## Team Allocation Patterns
 
-**Key Personnel & Workload:**
-- **Dan Prendergast** — Fleet maintenance, facilities, operations oversight
-- **Meredith O'hara Needham** — Accounting, customs/authorization bottleneck (CU Boulder project)
-- **Jack Elston** — Fleet, flight checklists, archived marketing goals
-- **Ben Busby** — Log Parse Website (completed)
-- **Daniel Prendergast** — Flight checklists, customs clearance pending
+### High-Utilization Personnel
 
-**Constraint:** Authorization chain (Meredith O'hara Needham) blocking CU Boulder E2 battery customs clearance.
+- **Dan Prendergast** — Flight ops lead; ERAU, Barbados, EMASS, CU Boulder projects; awaiting customs clearance
+- **Jack Elston** — Multi-project contributor (archived NASA work, strategic planning)
+- **Maciej Stachura** — Development/autonomy expertise
+- **Ben Busby** — Development and software integration
+- **Meredith O'hara Needham** — Approval authority (customs clearance bottleneck); finance/admin
 
----
+### Identified Gaps
 
-## Upcoming Deadlines (Next 90 Days)
-
-| Date | Project | Deadline Type | Status |
-|------|---------|----------------|--------|
-| **Jul 17, 2026** | [001-13] Facilities Management | Office purchasing list | Open |
-| **Jul 18, 2026** | [001-13] Purchasing | 5 task completions | **OVERDUE** |
-| **Aug/Sep 2026** | [012-2] ERAU VTOL S0 | Delivery | At risk |
-| **Aug/Sep 2026** | Flight Checklists / ISARRA | Delivery | At risk |
-| **Fall 2026** | [350-4] USGS Chile | Deployment | Postponed from Apr 2026 |
+- **Hardware fulfillment pipeline** — Barbados & ERAU delays suggest manufacturing/supply chain constraints
+- **Purchasing/Operations** — Critical backlog automation failures impacting all projects
+- **Project management** — Multiple overdue projects (21+ months) indicate tracking/accountability gaps
 
 ---
 
-## Summary
+## Summary Assessment
 
-**BST's portfolio spans ~$908K in active funded work**, with strong revenue concentration in the By Light Mustang ($450K) and NASA contracts ($89K+). However, **4 critical projects are overdue or at significant risk**, primarily in VTOL delivery (Barbados, ERAU) and operational logistics (Purchasing, CU Boulder customs). Immediate intervention required on:
-- Customs clearance blockage (CU Boulder)
-- VTOL delivery timeline recovery (Barbados, ERAU)
-- Purchasing operational crisis resolution
+**Portfolio Health: 🔴 GUARDED**
+
+- **Strengths:** $1.07M active revenue; high-value government contracts (NASA, USGS, DoD pipeline)
+- **Acute Threats:** Operational purchasing breakdown, critical hardware delivery delays (ERAU 21+ mo, Barbados/EMASS payment friction), customs hold on CU Boulder
+- **Strategic Priority:** Resolve Jul 18 purchasing crisis, unblock Hesselius battery customs clearance, restart Barbados/ERAU hardware fulfillment pipeline, recover EMASS $35K payment

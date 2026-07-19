@@ -28,7 +28,7 @@
 
 ## Task Summary
 
-**Total Tasks in Asana:** 1 open (administrative), 32 completed  
+**Total Tasks in Asana:** 1 open (administrative contact data entry), 32 completed  
 **Completion Rate:** 97%
 
 ### Tasks by Assignee (Completed Work)
@@ -96,7 +96,7 @@
 ## Open Items
 
 **1 Administrative Data Entry Task (No Due Date):**
-- Matthew Fladeland contact information record — data entry for NASA Ames Technology Transfer Office contact details (address: MS 202A-3 Moffett Field, CA 94035-1000; phone: 650.604.3325; email: matthew.fladeland@nasa.gov). Created post-closure for reference purposes. **Status:** Open (administrative; no deadline).
+- Matthew Fladeland contact information record — data entry for NASA Ames Technology Transfer Office contact details (Company/Agency: NASA AMES; Email: Matthew.fladeland@nasa.gov; Address: Technology Transfer Office MS 202A-3 Moffett Field, CA 94035-1000; Phone: (650) 604-3325; Website: www.nasa.gov). Created post-closure for reference purposes. **Status:** Open (administrative; no deadline).
 
 ---
 
@@ -112,16 +112,7 @@
 
 ---
 
-## Team Action Items & Status (May–June 2026)
+## Demo/Flight Calendar (July–September 2026)
 
-**Maciej Stachura (04/27/26 & 05/04/26, authoritative):**
-- Update Asana due dates to realistic numbers after ByLight meeting and communicate to stakeholders
-- Coordinate with team on S0-VTOL workload and resource allocation; assess Dan Prendergast and Ethan Domagala availability for support on time-sensitive S0-VTOL deliverables
-
-**Ethan Domagala (05/05/26, authoritative correction):**
-- **ByLight project timeline has been extended due to cancellation of a demo in India**
-- "Yellow version" project has been clarified; Asana tasks and timelines updated accordingly
-
-**Daniel Prendergast (06/09/26, URGENT — Canada demo insurance requirement):**
-- ⚠️ **ACTION REQUIRED: CONFIRM S3 PLATFORM INSURANCE RENEWAL COMPLETION**
-- **Canada demo insurance requirements (06
+**Updated by Beck (07/10/26 & 07/13/26):**
+Demo and flight schedule maintained through September 2026 in shared Google calendar: https://docs.google.com/spreadsheets/d/1Eq3XtejLRPeJSFTAvk-Zqy-QDKM1Yc0dtcM27cy_8Ik/edit?usp=sharing

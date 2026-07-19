@@ -1,79 +1,105 @@
 # Meredith O'hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,478 emails (1,430 previous + 48 from Jul 17–18)
-- **Date range:** June 15–July 18, 2026 (34 days)
+- **Total messages scanned:** 1,498 emails (1,478 previous + 20 from Jul 18–19)
+- **Date range:** June 15–July 19, 2026 (35 days)
 - **Approximate volume:** ~43 emails/day
-- **Trend:** Sustained ultra-high-velocity operational management with **KPMG audit in active information-access phase (multiple new auditor engagements Jul 17); DCAA pre-award audit documentation advancing; NOAA contract negotiations intensifying (S0 wing quotes, refurbished aircraft estimates); NLR/NREL partnership engagement (new government research contact); travel coordination for field operations; employee records/time-tracking system issues requiring resolution; QuSpin component vendor engagement.**
+- **Trend:** Sustained ultra-high-velocity operational management. **KPMG audit escalating with direct Meredith engagement on QB access (Jul 18); NOAA relationship maturing; internal BST coordination intensifying (Jack Elston as secondary audit point-of-contact); vendor procurement activity consistent.**
 
 ---
 
 ## Key Correspondents
 
-### Incoming (by frequency — updated through Jul 18)
+### Incoming (by frequency — updated through Jul 19)
 
 **Automated Systems & Purchasing Routing:**
 
-1. **Purchasing system** (`purchasing@blackswifttech.com`) — **600+ cumulative messages**
+1. **Purchasing system** (`purchasing@blackswifttech.com`) — **620+ cumulative messages**
    
-   **Recent Equipment & Component Deliveries (Jul 17–18):**
-   - **Harbor Freight** — Promotional (PREDATOR Generators) (Jul 18, 05:15 UTC) [UNREAD, CATEGORY_FORUMS] — power generation equipment advertising
-   - **AliExpress** — Abandoned cart follow-up (cleaning brush) (Jul 17, 19:25 UTC) [UNREAD, CATEGORY_FORUMS] — low-priority consumable
-   - **WordPress.com Support** — Migration satisfaction survey (Jul 17, 23:02 UTC) [UNREAD, CATEGORY_FORUMS] — website platform finalization
-   - **QuickBooks Payments** — Invoice payment confirmation: PHASE1 AVIATION LLC (Jul 17, 22:55 UTC) [UNREAD, CATEGORY_FORUMS] — **active UAS component/aviation supplier payment**
-   - **United Airlines** — Flight booking confirmation PL1XZQ + eTicket (Jul 17, 20:18–20:19 UTC) [CATEGORY_FORUMS] — **corporate travel for Ethan Domagala**
-   - **Travel Guard** — Policy confirmation (Ethan Domagala trip insurance 1004731332) (Jul 17, 15:18 UTC) [UNREAD, CATEGORY_FORUMS] — trip protection active
-   - **Budget Rent A Car** — Reservation confirmation BNA (Nashville): Ethan Domagala #00120432US4 (Jul 17, 14:27 UTC) [CATEGORY_UPDATES] — **ground transportation for field operations**
-   - **Framework** — Order shipment notification #R718378251 (Jul 17, 08:40 UTC) [CATEGORY_FORUMS] — laptop/hardware delivery
-   - **McMaster-Carr** — Receipt for July 15th order (Jul 17, 04:57 UTC) [CATEGORY_UPDATES] — industrial components procurement
-   - **Aetna** — Health plan enrollment setup (Jul 17, 09:42 UTC) [YELLOW_STAR, STARRED, CATEGORY_UPDATES] — benefits administration
+   **Recent Activity (Jul 18–19):**
+   - **Promotional/Marketing (High Volume):**
+     - **Harbor Freight** — "10 DAYS OF DEALS! Day 3: 35% Off All CENTRAL MACHINERY Shop Fans" (Jul 19, 04:43 UTC) [UNREAD, CATEGORY_FORUMS]
+     - **Harbor Freight** — "2 Days Left! 25% Off All Floor Jacks & Jack Stands" (Jul 18, 18:40 UTC) [UNREAD, CATEGORY_FORUMS]
+     - **WordPress.com** — "Claim your free domain name" (Jul 18, 19:59 UTC) [UNREAD, CATEGORY_FORUMS]
+     - **WordPress.com** — "Migrate your WordPress site, hassle-free" (Jul 18, 18:01 UTC) [UNREAD, CATEGORY_FORUMS]
+     - **Amazon Health** — "Real care. Real providers. Real easy." (Jul 18, 10:59 UTC) [UNREAD, CATEGORY_FORUMS]
+     - **Speedway Motors** — "Find the Best Brake Parts for Your Build" (Jul 18, 14:10 UTC) [UNREAD, CATEGORY_FORUMS]
+     - **ELEGOO US** — "Your Winning Deals End in 48 Hours" (Jul 18, 13:02 UTC) [UNREAD, CATEGORY_FORUMS]
 
-   **Finance & Administration (Jul 17–18):**
-   - **QuickBooks Payments (Accounts Payable)** — Payment received: Alliance for Energy Innovation, LLC Invoice #1772 (Jul 17, 21:23 UTC) [UNREAD, CATEGORY_UPDATES] — vendor payment processed
-   - **Toggl Track** — No-subject message (Jul 17, 22:15 UTC) [UNREAD, CATEGORY_UPDATES] — employee time-tracking system
-   - **Mark Kightlinger (KCO Tax)** — **"Need Rippling Payroll Reports" (Jul 17, 21:01 UTC)** [IMPORTANT] — **tax filing/payroll coordination**
-     - Meredith responded Jul 17, 15:34 UTC [SENT]
+   **Operational/Administrative (Jul 18–19):**
+   - **Budget Rent A Car** — Reservation reminder #00120432US4 at BNA (Nashville) (Jul 18, 23:02 UTC) [UNREAD, CATEGORY_UPDATES] — **continued field operations travel coordination**
+   - **Comcast Business** — Billing statement ready (Jul 18, 17:19 UTC) [UNREAD, CATEGORY_FORUMS]
+   - **USPS Informed Delivery** — Daily digest (Jul 18, 13:27 UTC) [UNREAD, CATEGORY_FORUMS]
+   - **CDLE FAMLI Alerts** — "My FAMLI+ Employer Total Premium Amount is updated for 2026 Q2" (Jul 18, 22:59 UTC) [UNREAD, CATEGORY_UPDATES] — **Colorado payroll/benefits admin**
+
+   **Vendor/Technical (Jul 18–19):**
+   - **Baofeng** (`support@baofengradio.com`) — "25% OFF accessories!" (Jul 18, 16:30 UTC) [UNREAD, CATEGORY_PROMOTIONS] — **communications equipment vendor**
+   - **SkyGeek** (`service@skygeek.com`) — "JOSHUA Restock Without Breaking the Bank" (Jul 18, 13:02 UTC) [UNREAD, CATEGORY_UPDATES] — **routed to Joshua Fromm; aviation supplies vendor**
 
 ---
 
-2. **KPMG Audit Team (INFORMATION ACCESS PHASE — EXPANDED TEAM):**
-   - **Brandon C Dalton (KPMG)** — **NEW primary point of contact (replacing earlier team members in intensity)**
-     - **Multiple messages Jul 17 (22:57–23:00 UTC)** [UNREAD, IMPORTANT, INBOX] — "RE: QB Access and requested items"
-     - **Meredith responded Jul 17, 15:52 UTC [SENT]** — confirming account access & document submission
-     - **Brandon coordinated with:** Aamir M Husain, Peter Choi (cc'd in Jul 17, 21:37 UTC response)
-   - **Pattern:** KPMG team actively retrieving QuickBooks access; documentation exchange in progress
+2. **KPMG Audit Team (ESCALATING — DIRECT MEREDITH ENGAGEMENT):**
+   
+   - **Brandon C Dalton (KPMG)** — **Primary contact; now engaging Meredith directly on QB access**
+     - **"RE: QB Access and requested items" (Jul 18, 13:12 UTC)** [UNREAD, IMPORTANT, INBOX] — **cc'd to Jack Elston & Meredith Needham; dual BST contacts now active**
+     - **Jack Elston (BST)** — Responding to Dalton (Jul 18, 07:44 UTC) [UNREAD, IMPORTANT]
+     - **Pattern:** Escalation from Jack Elston alone to joint Jack + Meredith engagement indicates audit complexity or access permission delegation
+   
+   - **Peter Choi (KPMG)** — **Secondary auditor (new visibility)**
+     - **"Re: QB Access and requested items" (Jul 18, 14:10 UTC)** [UNREAD, IMPORTANT, INBOX] — responding to Dalton; coordinating audit team
+   
+   - **Meredith direct receipt:** Message from Dalton (Jul 18, 13:12 UTC) confirms she is now **direct recipient** of QB access requests alongside Jack Elston
 
 ---
 
-3. **DCAA Pre-Award Audit (DOCUMENTATION ADVANCEMENT):**
-   - **Christy Evans (ReliAscent)** — Compliance coordinator
-     - **"RE: Updated Contractor Survey for audit" (Jul 17, 13:30 UTC)** [IMPORTANT, INBOX] — received follow-up confirmation
-     - **Meredith sent:** "Re: Updated Contractor Survey for audit" (Jul 17, 08:41 UTC) [SENT] — compliance documentation submission continued
-   - **Michael A Maldonado (DCAA)** — Government auditor
-     - **Meredith sent:** "Re: DCAA Pre-Award Accounting System Audit-Preliminary Information Request - 7/14/2026" (Jul 17, 08:50 UTC) [SENT] — responding to formal government audit request
+3. **Internal BST Coordination:**
+   
+   - **Jack Elston** (`elstonj@blackswifttech.com`) — **Emerging as secondary operational point-of-contact**
+     - **"Re: QB Access and requested items"** (Jul 18, 07:44 UTC, 07:40 UTC) [UNREAD, IMPORTANT] — **responding to KPMG audit team**
+     - **"Re: [External] - Introduction: Justin Branch (Munro Defense) + Jack Eltson (BlackSwift)" (Jul 18, 07:40 UTC)** [UNREAD, IMPORTANT] — **NEW external partnership introduction; Jack escalating to Munro Defense contact**
+     - **"Re: Meeting Updates" (Jul 18, 07:06 UTC)** [UNREAD, IMPORTANT] — **responding to NOAA Federal (Nikolai Pawlenko); internal coordination on government meetings**
+     - **Pattern:** Jack Elston handling audit interface, external partnerships, and NOAA coordination in parallel with Meredith's ongoing engagement
 
 ---
 
-4. **Strategic Partnerships & Government Procurements:**
+4. **Strategic Partnerships & Government Procurements (CONTINUATION):**
 
-   **A. NOAA Federal Contracts (QUOTE PHASE — INTENSIFYING WITH AIRCRAFT COMPONENTS):**
-   
-   - **Nikolai Pawlenko - NOAA Federal** (`nikolai.f.pawlenko@noaa.gov`) — **Primary NOAA operational contact**
-     - **"Re: Quote to repackage recovered UAS" (Jul 17, 12:02 UTC, 11:45 UTC)** [SENT] — **Meredith providing quotes for UAS recovery services**
-     - **"Final estimate for refurbished S0" (Jul 17, 11:59 UTC)** [SENT] — **NEW: S0 aircraft refurbishment estimate (high-value component)**
-     - **NOAA internal discussion thread:** Nikolai, Joe Cione, Danielle Varwig exchanging "Meeting Updates" (Jul 17, 09:20–14:46 UTC) [IMPORTANT] — strategic discussion visible (Meredith not in thread, but flagged)
-   
-   - **Joe Cione - NOAA Federal** (`joe.cione@noaa.gov`) — **Secondary NOAA stakeholder**
-     - Active in internal NOAA "Meeting Updates" conversation (Jul 17, 10:49–13:31 UTC)
-   
-   - **Danielle Varwig - NOAA Federal** (`danielle.varwig@noaa.gov`) — **NEW NOAA contact**
-     - Engaged in "Re: Meeting Updates" (Jul 17, 12:13 UTC) — expanding NOAA team engagement
-   
-   - **Phase 1 Aviation LLC** — UAS component vendor
-     - **Sean Cole (phase1av.com):** "S0 wings" (Jul 17, 22:58 UTC) [UNREAD, CATEGORY_FORUMS] — **aircraft wing components sourcing**
-     - **QuickBooks payment processed** to Phase 1 Aviation (Jul 17, 22:55 UTC)
+   **A. NOAA Federal (QUOTE PHASE — CONTINUED):**
+   - **Nikolai Pawlenko - NOAA Federal** — Jack Elston responding to "Re: Meeting Updates" (Jul 18, 07:06 UTC) [UNREAD, IMPORTANT] — **ongoing operational synchronization**
 
-   **B. NLR (formerly NREL) Research Partnership (NEW ENGAGEMENT):**
-   - **Isabelle Laird (NLR)** (`Isabelle.Laird@nlr.gov`) — **NEW government research contact (Jul 17)**
-     - **"RE: NLR (formerly NREL) E2" (Jul 17, 19:21 UTC)** [IMPORTANT, INBOX] — direct engagement with research institution
-     - **Daniel Prendergast (BST CTO)** — "Re: NLR (formerly NREL) E2" (Jul 17, 12:34 UTC) [YELLOW_
+   **B. New External Relationship — Munro Defense:**
+   - **Justin Branch** (`jbranch@munrodefense.com`) — **NEW external partner/vendor introduction (Jul 18)**
+     - **Jack Elston response:** "Re: [External] - Introduction: Justin Branch (Munro Defense) + Jack Eltson (BlackSwift)" (Jul 18, 07:40 UTC) [UNREAD, IMPORTANT]
+     - **Significance:** External email flagged as IMPORTANT; suggests defense sector partnership or procurement engagement
+
+---
+
+## Topic Patterns
+
+**KPMG Audit Focus:**
+- QB (QuickBooks) access provisioning — recurring theme Jul 17–18
+- "Requested items" documentation submission
+
+**NOAA Contract Activity:**
+- "Meeting Updates" — strategic discussion and coordination
+- Quote requests for S0 wing refurbishment and UAS repackaging continuing (from Jul 17)
+
+**Travel & Field Operations:**
+- Budget Rent A Car reservations (Nashville, BNA) — Ethan Domagala field ops
+- Framework hardware delivery (Jul 17)
+- McMaster-Carr industrial components (Jul 17)
+
+**Payroll & Benefits Administration:**
+- CDLE FAMLI (Colorado family leave) employer premium updates
+- Aetna health plan enrollment (Jul 17)
+- Rippling payroll coordination (Jul 17)
+
+**New Partnership/Vendor Development:**
+- Munro Defense introduction (Jul 18) — defense sector engagement emerging
+- Phase 1 Aviation LLC (S0 wings sourcing) — active procurement
+- Baofeng radio equipment — communications equipment sourcing
+
+**Website/Infrastructure:**
+- WordPress.com migration and domain claim offers (repeated Jul 18)
+
+---

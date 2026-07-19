@@ -10,7 +10,7 @@
 - **Project Owner:** Meredith O'hara Needham
 - **Customer Type:** Commercial
 - **Priority:** Medium
-- **Team Members:** Daniel Prendergast (customs/logistics liaison)
+- **Team Members:** Daniel Prendergast (customs/logistics liaison), Meredith O'hara Needham (project owner/decision authority)
 
 ## Key Deliverables & Milestones
 1. **S2 Simulator** — shipment status and ETA unknown; requires status check

@@ -1,47 +1,20 @@
 {
   "project_code": "_unclassified",
   "qbo_class_names": [
-    "",
-    "Alliance for Energy Innovation, LLC"
+    ""
   ],
   "period": {
-    "start": "2026-07-17",
-    "end": "2026-07-18"
+    "start": "2026-07-18",
+    "end": "2026-07-19"
   },
   "totals": {
-    "revenue": 6000.0,
-    "expenses": 5510.59,
+    "revenue": 0.0,
+    "expenses": 5355.31,
     "by_category": {
-      "FACILITIES:FA-Office Supplies": 5355.31,
-      "QuickBooks Payments Fees": 139.75,
-      "FACILITIES:FA-Software Expenses": 15.53
+      "FACILITIES:FA-Office Supplies": 5355.31
     }
   },
-  "invoices": [
-    {
-      "type": "Invoice",
-      "date": "2026-07-17",
-      "doc_number": "1772",
-      "total": 3000.0,
-      "attributed": 3000.0,
-      "vendor": "",
-      "customer": "Alliance for Energy Innovation, LLC",
-      "balance": 0.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 3000.0,
-          "account": "",
-          "description": "E2 training and familiarization with SwiftCore FMS, including emergency procedures and regulatory requirements.  Consists of both a simulation session as well as flight training."
-        },
-        {
-          "amount": 3000.0,
-          "account": "",
-          "description": ""
-        }
-      ]
-    }
-  ],
+  "invoices": [],
   "bills": [],
   "purchases": [
     {
@@ -61,63 +34,8 @@
           "description": "Office Server Ryze AI Max+ 395 - 64GB x 2"
         }
       ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-17",
-      "doc_number": "",
-      "total": 139.75,
-      "attributed": 139.75,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",
-      "lines": [
-        {
-          "amount": 139.75,
-          "account": "QuickBooks Payments Fees",
-          "description": "System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily."
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-17",
-      "doc_number": "",
-      "total": 15.53,
-      "attributed": 15.53,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 15.53,
-          "account": "FACILITIES:FA-Software Expenses",
-          "description": "Software for WordPress (website)"
-        }
-      ]
     }
   ],
   "purchase_orders": [],
-  "payments": [
-    {
-      "type": "Payment",
-      "date": "2026-07-17",
-      "doc_number": "",
-      "total": 3000.0,
-      "attributed": 3000.0,
-      "vendor": "",
-      "customer": "Alliance for Energy Innovation, LLC",
-      "balance": null,
-      "memo": "Paid via QuickBooks Payments: Payment ID 18ab0rtuep3k",
-      "lines": [
-        {
-          "amount": 3000.0,
-          "account": "",
-          "description": ""
-        }
-      ]
-    }
-  ]
+  "payments": []
 }

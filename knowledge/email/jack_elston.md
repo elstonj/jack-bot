@@ -1,69 +1,92 @@
 # Jack Elston — Email Patterns (UPDATED)
 
 ## Communication Volume
-- **Total messages scanned:** 6,801 (6,727 prior + 74 Jul 17–18)
-- **Date range:** April 1–July 18, 2026
+- **Total messages scanned:** 6,826 (6,801 prior + 25 Jul 18–19)
+- **Date range:** April 1–July 19, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **Jul 17–18 activity (74 messages):** ~15% human correspondence (NOAA/Navy/SBIR technical, external partnerships); ~50% automated vendor/logistics/purchasing (Principal, PayPal, Harbor Freight, WordPress, QuickBooks, United Airlines, Budget, McMaster-Carr, HeliDirect); ~20% system/infrastructure/newsletters (E-Verify TPS updates, DARPAConnect, UAS Vision, Railway, Aerospace Colorado); ~15% external forums/business development (Krateo, Munro Defense, AKSI Aerospace, Deel payroll, Murphy's Pond dataset, Immersive NOAA film)
+- **Jul 18–19 activity (25 messages):** ~28% human correspondence (KPMG audit, NOAA operations, Munro Defense intro, office space, leadership culture); ~48% automated vendor/logistics/purchasing (Budget car rental, Harbor Freight promotions, WordPress, Comcast Business, Amazon Health, Baofeng, Speedway Motors, USPS, ELEGOO, SkyGeek); ~12% system/administrative alerts (CDLE FAMLI payroll notifications, calendar confirmations); ~12% internal training/coordination (Aircraft Update Training with Alex Lomis)
 
 ## Key Correspondents
 
-### Top Internal Partners (Sustained + New Escalations Jul 17–18)
+### Top Internal Partners (Sustained + New Escalations Jul 18–19)
 
-1. **Maciej Stachura** (stachura@blackswifttech.com) — **EXECUTIVE VENDOR + KRATEO COORDINATION:**
-   - **New escalations (Jul 17–18):**
-     - Follow-up on call (Jul 17, 19:06 IMPORTANT) — Maciej responding to LisaMarie Cheney (Krateo Sky) re: follow-up discussion; continuing Krateo tech/partnership coordination
-   - **Pattern:** Maciej maintaining **direct Krateo partnership channel**; vendor escalations flowing through him
+1. **Meredith Needham** (meredith.needham@blackswifttech.com) — **OPERATIONS + AUDIT + FACILITIES + VENDOR TECHNICAL:**
+   - **New escalations (Jul 18–19):**
+     - QB Access and requested items (Jul 18, 14:10, 13:12, 06:53 IMPORTANT x3) — Jack multi-turn with Meredith & KPMG team (Brandon Dalton, Peter Choi) re: QuickBooks audit access; continuing financial coordination
+   - **Pattern:** Jack directly engaged in **KPMG audit coordination** alongside Meredith; direct escalation authority on financial access
 
-2. **Beck Cotter** (beck.cotter@blackswifttech.com) — **NOAA OPERATIONS + ACADEMIC PARTNERSHIPS:**
-   - **New escalations (Jul 17–18):**
-     - Follow up on OOI Pioneer Array Possibility (Jul 17, 21:39, 15:41 IMPORTANT x3) — Beck multi-turn with Joshua Wadler (ERAU - Embry-Riddle Aeronautical University); Jack receiving notifications re: oceanographic/research infrastructure coordination
-     - Modifications to HALO SBIR (Jul 17, 13:51, 14:38 IMPORTANT x2) — Beck & Daniel Hesselius (Halo Aero) continuing technical modification discussions
-   - **Pattern:** Beck now coordinating **academic partnerships (ERAU)** + **oceanographic research (OOI Pioneer Array)** alongside SBIR technical execution
+2. **Alex Lomis** (alex.lomis@blackswifttech.com) — **TRAINING + OPERATIONS:**
+   - Aircraft Updtate Training (Jul 18, 18:34) — Alex confirming meeting with Jack for Aircraft Update Training; Mon Jul 20, 10am–10:30am
+   - **Pattern:** Jack scheduled for **aircraft system training** (likely S0/operational systems update)
 
-3. **Meredith Needham** (meredith.needham@blackswifttech.com) — **OPERATIONS + AUDIT + FACILITIES + VENDOR TECHNICAL:**
-   - **New escalations (Jul 17–18):**
-     - QB Access and requested items (Jul 17, 15:52, 21:37 IMPORTANT x2) — Meredith multi-turn with KPMG team (Brandon Dalton, Aamir Husain, Peter Choi) re: financial audit access; continuing QuickBooks coordination
-     - Need Rippling Payroll Reports (Jul 17, 15:34, 15:33, 21:01, 22:03 IMPORTANT x4) — Meredith multi-turn with Mark Kightlinger (KCOTAX); Jack receiving multi-turn payroll/tax coordination emails
-     - Quote to repackage recovered UAS (Jul 17, 12:02, 11:45 IMPORTANT x2) — Meredith finalizing refurbishment estimates with NOAA (Nikolai Pawlenko); recovered S0 aircraft logistics
-     - Final estimate for refurbished S0 (Jul 17, 11:59 IMPORTANT) — Meredith sending final cost estimate to nick.pawlenko@noaa.gov
-     - DCAA Pre-Award Accounting System Audit (Jul 17, 08:50 IMPORTANT) — Meredith responding to michael.a.maldonado8.civ@mail.mil (DCAA auditor); compliance coordination
-     - QuSpin Question (Jul 17, 09:17, 09:18 IMPORTANT x2) — Meredith coordinating with Parker Ackerknecht & Shweta Choudhury (QuSpin) re: magnetometer/sensor technical questions
-   - **Pattern:** Meredith managing **multiple simultaneous audit streams (KPMG financial + DCAA compliance)** + **UAS recovery/refurbishment logistics** + **sensor vendor technical coordination (QuSpin)**
-
-4. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **NAVY RFI COORDINATION (NEW VISIBILITY):**
-   - RFI S0 (Jul 17, 11:46, 16:12 IMPORTANT x2) — Jack responding to Daniel re: Navy RFI S0 request; Evan M. Wolff (USSOCOM) responding directly to Daniel
-   - **Pattern:** Daniel managing **direct Navy Special Operations Command (SOCOM) RFI coordination**; Jack in copy/support role
-
-5. **Joshua Fromm** (josh.fromm@blackswifttech.com) — **PROPULSION SYSTEMS COORDINATION (NEW VISIBILITY):**
-   - Vertiq (Jul 17, 20:24 IMPORTANT) — Nejc Trost (C-Astral) responding to Joshua re: Vertiq motor procurement; Jack receiving notification
-   - **Pattern:** Joshua coordinating **motor/propulsion vendor discussions (Vertiq via C-Astral)**
+3. **Maciej Stachura** (stachura@blackswifttech.com) — **KRATEO + LEADERSHIP CULTURE:**
+   - CA Foundations: Discovery - BST Leadership Culture (Jul 18, 06:51 SENT) — Jack responding to multi-party group (Hadley Solomon/Creative Alignments, Sona Raziabeegum/Krateo, Danielle Octavi/Creative Alignments); Maciej in copy
+   - **Pattern:** Jack engaging in **leadership/culture development initiative** with external consultant (Creative Alignments) + Krateo partnership visibility
 
 ### Top External Partners (Strategic Deepening + New Business Development)
 
-#### **NOAA FEDERAL — OPERATIONAL DEEPENING (RECOVERY + REFURBISHMENT)**
+#### **NOAA FEDERAL — OPERATIONAL DEEPENING**
 
-1. **Nikolai Pawlenko - NOAA Federal** (nikolai.f.pawlenko@noaa.gov) — **NOAA OPERATIONS LIAISON + ASSET RECOVERY:**
-   - Meeting Updates (Jul 17, 14:46, 10:49 IMPORTANT x2) — Nikolai multi-turn with Joe Cione (NOAA), Danielle Varwig (NOAA); Jack receiving notifications
-   - Quote to repackage recovered UAS (Jul 17, 12:02, 11:45 IMPORTANT x2) — Nikolai coordinating recovered aircraft refurbishment with Meredith
-   - **Pattern:** Nikolai now managing **UAS asset recovery + refurbishment coordination** (S0 aircraft recovery ops); NOAA meeting logistics deepening
+1. **Nikolai Pawlenko - NOAA Federal** (nikolai.f.pawlenko@noaa.gov) — **NOAA OPERATIONS LIAISON:**
+   - Meeting Updates (Jul 18, 07:06 SENT) — Jack responding directly to Nikolai re: meeting coordination
+   - **Pattern:** Jack maintaining **direct operational sync** with NOAA liaison; rapid response protocol
 
-2. **Joe Cione - NOAA Federal** (joe.cione@noaa.gov) — **NOAA PROGRAM MANAGEMENT:**
-   - Meeting Updates (Jul 17, 13:31 IMPORTANT) — Joe responding to Danielle Varwig (NOAA) re: meeting coordination; Jack in notification chain
-   - **Pattern:** Joe coordinating **NOAA internal meeting logistics** (may include Jack/BST operational sync)
+#### **KPMG FINANCIAL AUDIT — ESCALATION TO LEADERSHIP**
 
-3. **Danielle Varwig - NOAA Federal** (danielle.varwig@noaa.gov) — **NOAA COORDINATION (NEW CONTACT):**
-   - Meeting Updates (Jul 17, 12:13 IMPORTANT) — Danielle responding to Nikolai re: meeting updates; Jack receiving notification
-   - **Pattern:** New NOAA contact in **meeting coordination chain**
+1. **Brandon Dalton - KPMG** (bdalton@kpmg.com) — **FINANCIAL AUDIT LEAD:**
+   - QB Access and requested items (Jul 18, 14:04, 13:12 IMPORTANT x2) — Brandon multi-turn directly with Jack & Meredith re: QuickBooks access; Jack providing direct responses
+   - **Pattern:** Jack as **primary point of contact for KPMG on financial access** (not just Meredith); suggests CEO/leadership-level audit coordination
 
-#### **U.S. NAVY + SPECIAL OPERATIONS — RFI + WAIVER ESCALATION**
+2. **Peter Choi - KPMG** (petechoi@kpmg.com) — **KPMG AUDIT TEAM:**
+   - QB Access and requested items (Jul 18, 14:10 IMPORTANT) — Peter copying Jack on QuickBooks access confirmation
+   - **Pattern:** Jack visible to **entire KPMG audit team**
 
-1. **Evan M. Wolff MIL USSOCOM** (evan.m.wolff.mil@socom.mil) — **USSOCOM RFI AUTHORITY (NEW ESCALATION):**
-   - RFI S0 (Jul 17, 16:12 IMPORTANT) — Evan responding directly to Daniel Prendergast (BST) re: Navy RFI S0; Jack receiving notification
-   - **Pattern:** Jack now in **U.S. Special Operations Command RFI response chain**; high-priority military technical response
+#### **REAL ESTATE + FACILITIES EXPANSION**
 
-#### **KRATEO SKY — TECH PARTNERSHIP + FACILITIES EXPANSION**
+1. **Ashley Overton - Colorado Group** (ashley@coloradogroup.com) — **OFFICE SPACE NEGOTIATION (NEW PRIORITY):**
+   - Office Space (Jul 18, 13:54, 07:02 IMPORTANT x2) — Jack directly negotiating office space with Ashley; multi-turn response indicating **active real estate discussions**
+   - **Pattern:** Jack as **primary negotiator on facilities expansion**; likely CEO/leadership role in site selection
 
-1. **Brian Grubel** (Brian@krateosky.com) — **KRATEO OPERATIONAL SYNC + INTRODUCTIONS:**
-   - [Continuing from prior update; no new Jul 17–18 activity in this scan]
-   - **Pattern:** Facilitating **external partnership introductions** (
+#### **BUSINESS DEVELOPMENT + PARTNERSHIPS**
+
+1. **Justin Branch - Munro Defense** (jbranch@munrodefense.com) — **DEFENSE VENDOR PARTNERSHIP (ACTIVE):**
+   - [External] - Introduction: Justin Branch (Munro Defense) + Jack Eltson (BlackSwift) (Jul 18, 07:40 SENT) — Jack responding to introduction email; formal partnership/introduction sequence
+   - **Pattern:** Jack directly **accepting/responding to defense sector introductions** (Munro Defense = high-capability defense contractor)
+
+#### **LEADERSHIP + ORGANIZATIONAL DEVELOPMENT**
+
+1. **Hadley Solomon - Creative Alignments** (hadley.solomon@creativealignments.com) — **ORGANIZATIONAL CONSULTANT (NEW CONTACT):**
+   - CA Foundations: Discovery - BST Leadership Culture (Jul 18, 06:51, 06:28 SENT x2) — Jack multi-turn with Hadley re: leadership culture discovery; also copying Maciej (Krateo partnership) + Sona Raziabeegum (Krateo)
+   - **Pattern:** Jack engaging **external organizational consultant** on **leadership/culture strategy**; involves Krateo stakeholder visibility
+
+2. **Sona Raziabeegum - Krateo Sky** (sona@krateosky.com) — **KRATEO PARTNERSHIP + LEADERSHIP ALIGNMENT:**
+   - CA Foundations: Discovery - BST Leadership Culture (Jul 18, 06:51 SENT) — Sona copied on leadership culture initiative; suggests **Krateo stakeholder alignment** on BST organizational development
+   - **Pattern:** Leadership/culture work includes **external partner (Krateo) visibility/input**
+
+## Topic Patterns
+
+### High-Priority Work Streams (Jul 18–19)
+- **KPMG Financial Audit** — QuickBooks access provisioning; Jack direct escalation point
+- **Office Space Expansion** — Real estate negotiation with Colorado Group; active multi-turn
+- **Aircraft System Training** — S0/operational systems update scheduled Jul 20
+- **NOAA Operational Sync** — Meeting coordination with NOAA liaison
+- **Leadership/Culture Development** — Organizational consultant engagement; involves Krateo partner alignment
+- **Defense Sector Introductions** — Munro Defense partnership initiation
+
+### Vendor/Logistics Categories (Sustaining)
+- **Travel/Transportation:** Budget car rental (BNA airport—Nashville), United Airlines
+- **Facilities/Tools:** Harbor Freight, Speedway Motors, ELEGOO electronics, SkyGeek aviation supplies
+- **Infrastructure:** Comcast Business, WordPress, USPS
+- **Payroll/Benefits:** CDLE FAMLI alerts (Colorado family/medical leave insurance)
+- **Purchasing Vendors:** Amazon Health, Baofeng radio equipment
+
+## Communication Patterns
+
+### Day/Time Patterns
+- **Early morning activity (06:28–07:40 MDT):** Jack sending responses to strategic items (Hadley Solomon, Munro Defense, NOAA, Meredith) — suggests **executive review/decision cycle at start of business day**
+- **Weekend activity (Jul 18 Sat):** Jack actively responding to strategic correspondence during weekend; indicates **ongoing operational pressure or leadership engagement**
+
+### Mailing Lists & Group Correspondence
+- **KPMG audit chain:** Jack, Meredith Needham, Brandon Dalton, Peter Choi — formal financial coordination
+- **Leadership culture initiative:** Jack, Maciej Stachura, Hadley Solomon (Creative Alignments), Sona Raziabeegum (Krateo), Danielle Octavi (Creative Alignments) — strategic stakeholder group
+- **Purchasing digest distribution:** Broad purchasing system emails routing through Meredith/purchasing@blackswifttech.com, but

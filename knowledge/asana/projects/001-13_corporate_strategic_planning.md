@@ -8,9 +8,9 @@
   - Multiple unfunded proposals (2024–2025): $300K–$896.5K range
 - **Timeline**: Ongoing strategic initiatives; ISARRA delivery **August 2026** (confirmed); Mexico USGS deployment **delayed to Fall 2026**
 - **Status**: **ARCHIVED (Jun 16, 2024)** — **NOTE: Despite archive status, active commercial hardware delivery and project work continues (Jul 2026)**
-- **Team Members**: Jack Elston (strategic lead, business development), Maciej Stachura (proposals, technical), Meredith O'Hara Needham (admin, documentation), Kareem (returned Jun 15, 2026 — assigned to S0 components, ground stations, or wildfire video)
+- **Team Members**: Jack Elston (strategic lead, business development), Maciej Stachura (proposals, technical), Meredith O'Hara Needham (admin, documentation), Kareem (returned Jun 15, 2026 — assigned to S0 components, ground stations, or wildfire video), Beck (flight-testing)
 - **Risk Signals**: 
-  - **ISARRA Flight Week (Aug/Sep 2026)**: Build in QC; flight-testing ongoing to resolve tracking bug; August delivery target confirmed but dependent on test resolution
+  - **ISARRA Flight Week (Aug/Sep 2026)**: Build in QC (Jul 3, 2026); flight-testing ongoing to resolve tracking bug; August delivery target confirmed but dependent on test resolution
   - **Wildfire video project**: Jack flagging completion priority (Jun 15–16, 2026); division of labor between Kareem and Meredith O'Hara Needham pending coordination
   - **S0 ground station completion**: Task allocation to Kareem pending; competes with component fabrication and wildfire video priorities
   - 1 open task (lease termination planning) — unassigned, no due date
@@ -58,6 +58,7 @@
     1. S0 component fabrication
     2. Ground station completion
     3. Wildfire video project (priority alternative per Jack)
+  - **Beck**: Flight-testing for ISARRA (tracking bug resolution)
   - **Unassigned**: Lease termination planning (no due date)
 - **Notable Patterns**: 
   - Heavy government funding focus (NASA, USDA, NSF, DoD)
@@ -104,7 +105,5 @@ Project notes indicate ongoing development of marketing strategy with the follow
 - Current/past customers: NOAA, NASA (Aren 2023: $90K), DoD, CO OEDIT ($152K)
 - Primary channels: LinkedIn, email
 
-### Outstanding Items
-- **Lease Termination Planning** (Open, unassigned, no due date)
-  - Property: 6
-  - Context: Real estate property taxes and building insurance;
+### Real Estate / Facility Matters
+- **
