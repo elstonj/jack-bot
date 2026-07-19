@@ -1,82 +1,114 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **197 messages total** scanned across ~6 days (Jul 12-18, 2026)
-- Average ~33 messages/day
-- Sustained high volume Jul 14-18; slight moderation on Jul 18 (weekend)
-- Continued noise from automated/promotional emails and vendor transactional messages routed through purchasing@blackswifttech.com
+- **207 messages total** scanned across ~7 days (Jul 12-19, 2026)
+- Average ~30 messages/day
+- High volume sustained Jul 14-18; weekend moderation Jul 18-19
+- Significant ongoing noise from automated/promotional emails and vendor transactional messages routed through purchasing@blackswifttech.com
 
 ## Key Correspondents
 
 ### Top Senders (Direct to josh.fromm@blackswifttech.com)
-1. **Jack Elston** (elstonj@blackswifttech.com) — "Meeting Updates" thread (marked IMPORTANT, Jul 16-17); NOAA Federal coordination ongoing
-2. **Nejc Trost** (nejc.trost@c-astral.com) — **NEW/REACTIVATED**: "Re: Vertiq" (marked IMPORTANT, Jul 17) — C-Astral partner, technical discussion
-3. **Roger Riley** (Roger@krateosky.com) — **NEW VISIBLE**: "Critical Component Tiger Team (C2T2): Bi-Weekly Meeting" (marked IMPORTANT, Jul 17); multi-party vendor/partner coordination
-4. **Foster Hill** (fhill@mmsolutions.biz) — Case customization follow-up (marked IMPORTANT, Jul 17); escalated from previous sales order
-5. **UAS VISION** (russ@uasvision.com) — DAILY NEWS (Jul 17)
-6. **ProtoSpace Mfg** (marketingemail@protocase.com) — Custom manufacturing promotional (Jul 17)
-7. **TraceParts** (email@news.traceparts.com) — Interconnect review #4 (Jul 18)
+1. **Jack Elston** (elstonj@blackswifttech.com) — "Meeting Updates" thread (marked IMPORTANT, Jul 16-18); NOAA Federal coordination ongoing
+2. **Nejc Trost** (nejc.trost@c-astral.com) — "Re: Vertiq" (marked IMPORTANT, Jul 17); C-Astral technical discussion
+3. **Roger Riley** (Roger@krateosky.com) — "Critical Component Tiger Team (C2T2): Bi-Weekly Meeting" (marked IMPORTANT, Jul 17); multi-party vendor coordination
+4. **Foster Hill** (fhill@mmsolutions.biz) — Case customization follow-up (marked IMPORTANT, Jul 17); escalated vendor issue
+5. **Evan M Wolff** (evan.m.wolff.mil@socom.mil) — "RE: (U) [Non-DoD Source] Re: RFI S0" (marked IMPORTANT, Jul 17); SOCOM RFI coordination
+6. **UAS VISION** (russ@uasvision.com) — Daily news feed (Jul 17)
+7. **SkyGeek** (service@skygeek.com) — "JOSHUA Restock Without Breaking the Bank" (Jul 18); aerospace supply vendor
+8. **Hilton Honors** (noreply@h5.hilton.com) — Promotional (Jul 18)
 
-### External Government (NOAA Federal) — Continued Thread Activity
+### External Government (NOAA Federal) — Active Coordination
 - **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov)
 - **Joe Cione** (joe.cione@noaa.gov)
 - **Danielle Varwig** (danielle.varwig@noaa.gov)
-- **Status**: "Meeting Updates" thread continued Jul 17 with additional exchanges; 3+ visible rounds (10:49 AM, 13:31 PM, 14:46 PM EDT); marked IMPORTANT; indicates ongoing coordination (weather/atmospheric research partnership likely)
+- **Status**: "Meeting Updates" thread continues into weekend (Jul 18 exchange visible); marked IMPORTANT; at least 4+ visible rounds of communication; indicates sustained government partnership engagement
 
-### Military/DoD Contact — NEW
-- **Evan M Wolff** (evan.m.wolff.mil@socom.mil) — "RE: (U) [Non-DoD Source] Re: RFI S0" (marked IMPORTANT, Jul 17) — direct to Daniel Prendergast (BST); RFI S0 likely related to SOCOM S0-AD procurement; security classification indicator "(U)" = Unclassified
+### Military/DoD Contact
+- **Evan M Wolff** (evan.m.wolff.mil@socom.mil) — Direct SOCOM S0 RFI coordinator; communication routed through Daniel Prendergast (BST leadership)
 
-### External Partners/Vendors — Critical Component Tiger Team (C2T2)
-- **Roger Riley** (Krateo Sky) — Organizer of "Critical Component Tiger Team (C2T2): Bi-Weekly Meeting" (Jul 17)
-- **Participants visible in CC**:
-  - Jordan Weil (Inspired Flight)
-  - Vijay Santhakumar (Vantage Robotics)
-  - Samo Stopar (C-Astral)
-  - Jack Elston (Black Swift Technologies)
-  - Joshua Fromm (Black Swift Technologies)
-- **Implication**: Multi-vendor collaboration on critical components; likely UAS/robotics supply chain coordination for defense/government applications
+### Critical Component Tiger Team (C2T2) — Strategic Partners
+- **Roger Riley** (Krateo Sky) — Meeting organizer
+- **Nejc Trost** (C-Astral) — Active technical engagement (marked IMPORTANT, Jul 17)
+- **Samo Stopar** (C-Astral)
+- **Jordan Weil** (Inspired Flight)
+- **Vijay Santhakumar** (Vantage Robotics)
+- **Jack Elston** (BST)
 
-### Top Senders via Purchasing (Group Inbox) — NEW/UPDATED
-- **Phase1 Aviation LLC** (Sean Cole, sean@phase1av.com) — **CRITICAL NEW**: "S0 wings" (marked UNREAD, Jul 17 22:58 UTC); QuickBooks payment confirmation for Phase1 Aviation LLC Invoice #1115 (Jul 17 22:55 UTC); **indicates active procurement of S0-AD aircraft components/wings**
-- **United Airlines** — 2 booking confirmations (PL1XZQ itinerary & receipt, Jul 17); suggests business travel by BST personnel
-- **Budget Rent A Car** — Reservation #00120432US4 at BNA (Nashville) for "ETHAN" (likely Ethan Domagala based on Travel Guard policy); Jul 17
-- **Travel Guard** — Travel insurance policy 1004731332 for Domagala, Ethan (Jul 17)
-- **WordPress.com Support** — Migration support survey (groovywizard90.wpcomstaging.com, Jul 17); web infrastructure ongoing
-- **Expedia.com** — Hotel search promotional (2 messages, Jul 17)
-- **Framework** — Order shipment #R718378251 (Jul 18); likely electronics/computer hardware
-- **McMaster-Carr**, **USPS Informed Delivery**, **Harbor Freight**, **AliExpress** — Continued transactional/promotional pattern
+### Aerospace/Component Vendors (via purchasing inbox)
+- **Phase1 Aviation LLC** (Sean Cole, sean@phase1av.com) — **CRITICAL**: "S0 wings" procurement (Jul 17 22:58 UTC); Invoice #1115 processed; active airframe component acquisition
+- **SkyGeek** (service@skygeek.com) — Jul 18 restocking outreach
+- **Harris Aerial**, **HeliDirect**, **uAvionix**, **DigiKey** — Continued vendor relationships
+- **Baofeng Radio** (support@baofengradio.com) — Communication equipment (Jul 18); promotional
 
 ### Internal vs External (Updated)
 - **Internal BST**: Jack Elston, Daniel Prendergast, Meredith Needham
-- **External Government**: NOAA Federal (Pawlenko, Cione, Varwig, Hollingshead, Rock); SOCOM (Evan M Wolff)
-- **External Academic**: Joshua Wadler (ERAU)
-- **External Strategic Partners (C2T2 Ecosystem)**: Roger Riley (Krateo Sky), Nejc Trost (C-Astral), Samo Stopar (C-Astral), Jordan Weil (Inspired Flight), Vijay Santhakumar (Vantage Robotics)
-- **External Aerospace Vendors**: Phase1 Aviation LLC (NEW CRITICAL), Harris Aerial, SkyGeek, HeliDirect, uAvionix, DigiKey
-- **External Manufacturing/Engineering**: Foster Hill (MMS Solutions), ProtoSpace Mfg (custom enclosures), TraceParts (component sourcing)
-- **External Travel/Logistics**: Expedia, Budget, United Airlines, Frontier, Hilton
+- **External Government**: NOAA Federal (weather/atmospheric research); SOCOM (military procurement)
+- **External Strategic Partners**: C-Astral, Krateo Sky, Inspired Flight, Vantage Robotics
+- **External Aerospace/Manufacturing**: Phase1 Aviation LLC, SkyGeek, Harris Aerial, HeliDirect, MMS Solutions
+- **External Communications**: Baofeng Radio (comms equipment)
+- **Travel/Logistics**: Hilton Honors, Budget Rent A Car, United Airlines
+
+### Travel Activity — Continued
+- **Budget Rent A Car** — Reservation #00120432US4 at BNA (Nashville); reminder Jul 18
+- **Hilton Honors** — Promotional offer Jul 18
 
 ## Topic Patterns
 
-### CRITICAL: S0-AD Component Procurement — PHASE1 AVIATION WINGS
-- **Vendor**: Phase1 Aviation LLC (Sean Cole, sean@phase1av.com)
+### CRITICAL: S0-AD Component Procurement — Phase1 Aviation Wings
+- **Vendor**: Phase1 Aviation LLC (Sean Cole)
 - **Date**: Jul 17, 2026 22:58 UTC
-- **Subject**: "S0 wings" (laconic; subject line suggests aircraft wing components for S0-AD platform)
-- **Payment**: QuickBooks confirmation for Invoice #1115, Phase1 Aviation LLC (Jul 17 22:55 UTC) — indicates invoice processed same day
-- **Context**: First direct evidence of S0-AD airframe procurement; "wings" likely refers to aircraft wing assemblies or modifications
-- **Implication**: S0-AD project transitioning from BOM/compliance phase to active component acquisition; Phase1 Aviation now added to critical vendor list
+- **Subject**: "S0 wings"
+- **Payment**: QuickBooks Invoice #1115 processed same day
+- **Status**: First direct evidence of aircraft wing component acquisition for S0-AD platform
+- **Implication**: Active transition from planning to procurement phase
 
-### SOCOM RFI S0 — Active DoD Coordination
-- **Contact**: Evan M Wolff (evan.m.wolff.mil@socom.mil) — SOCOM/Special Operations Command point of contact
-- **Email to**: Daniel Prendergast (daniel.prendergast@blackswifttech.com) — BST leadership/program management
-- **Subject**: "RE: (U) [Non-DoD Source] Re: RFI S0" (marked IMPORTANT, Jul 17 16:12 UTC)
-- **Classification**: (U) = Unclassified; [Non-DoD Source] indicates vendor/partner response tagged
-- **Status**: Multiple rounds visible; ongoing RFI (Request for Information) response/clarification cycle
-- **Context**: Confirms SOCOM S0 procurement RFI remains active; may involve Phase1 Aviation component approval or technical questions
+### SOCOM RFI S0 — Ongoing DoD Engagement
+- **Contact**: Evan M Wolff (SOCOM/Special Operations Command)
+- **Subject**: "RE: (U) [Non-DoD Source] Re: RFI S0"
+- **Classification**: Unclassified; vendor response coordination
+- **Status**: Multiple rounds visible; RFI clarification/response cycle ongoing
 
-### NOAA Federal Coordination — Sustained Engagement
-- **Thread**: "Meeting Updates" (Jul 16-17, multiple rounds)
-- **Participants**: 
-  - NOAA: Nikolai Pawlenko, Joe Cione, Danielle Varwig (+ previously: Annette Hollingshead, Laura Rock)
-  - BST: Jack Elston, Joshua Fromm, Maciej Stachura
-  - Academic: Joshua Wadler (ERAU)
-- **Jul 17 Activity**: At least 3 visible exchanges (10:49 AM, 13:31 PM,
+### NOAA Federal Partnership — Sustained Meetings
+- **Thread**: "Meeting Updates" (Jul 16-18, continuous activity)
+- **Participants**: NOAA (Pawlenko, Cione, Varwig) + BST (Elston, Fromm) + ERAU (Wadler)
+- **Status**: Marked IMPORTANT; weekend activity (Jul 18) suggests urgent or high-priority discussion rounds
+- **Context**: Weather/atmospheric research coordination ongoing
+
+### Aerospace Supply Chain Engagement
+- **SkyGeek** (Jul 18) — "Restock Without Breaking the Bank" outreach suggests active ordering relationship
+- **Baofeng Radio** (Jul 18) — Communication equipment procurement; 25% accessory discount offer
+
+## Communication Patterns
+
+### Temporal Patterns
+- High email activity sustained through weekend (Jul 18-19), suggesting urgent projects or time-sensitive deliverables
+- NOAA coordination continues into weekend with marked IMPORTANT classification
+- Promotional/automated emails dominate volume (Jul 18-19), but core work communication concentrated in Jul 16-17
+
+### Mailing List/Group Email Participation
+- **Critical Component Tiger Team (C2T2)** — Bi-weekly formal coordination (marked IMPORTANT, Jul 17)
+- **NOAA Federal meeting thread** — Regular structured updates with multiple rounds per day
+- **SOCOM RFI coordination** — Formal government procurement response process
+
+### Automated/Promotional Email Sources
+- **Routing through purchasing@blackswifttech.com**: Budget, Harbor Freight, WordPress.com, Comcast Business, Amazon Health, SkyGeek
+- **Direct promotional**: AliExpress, Hilton Honors, Baofeng Radio
+- **Status**: Substantial noise but contained within automated email stream; core work communication clear
+
+## Key Relationships
+
+### Closest Internal Collaborator
+- **Jack Elston** — Multiple IMPORTANT threads (NOAA coordination, meeting updates); acts as primary internal bridge to government contacts
+
+### Government/Institutional
+- **NOAA Federal (Nikolai Pawlenko lead)** — Sustained partnership; regular meetings; marked IMPORTANT; likely weather/atmospheric research for UAS applications
+- **SOCOM (Evan M Wolff)** — Direct military procurement coordination; RFI response process ongoing
+
+### Strategic External Partners
+- **C-Astral (Nejc Trost, Samo Stopar)** — Active technical engagement (marked IMPORTANT); part of C2T2 multi-vendor ecosystem
+- **Krateo Sky (Roger Riley)** — C2T2 organizer; critical component supply coordination across multiple vendors
+- **Inspired Flight & Vantage Robotics** — C2T2 members; competitive/collaborative dynamic visible
+
+### Critical Vendor Relationships
+- **Phase1 Aviation LLC (Sean Cole)** — New/elevated

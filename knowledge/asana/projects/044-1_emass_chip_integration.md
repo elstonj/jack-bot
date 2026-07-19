@@ -26,12 +26,14 @@
 - **Milestone 4b: Final reports** ($10k) — **IN PROGRESS** *(validation flights now complete; reporting can proceed)*
 
 ## Task Summary
-- **Total Tasks**: 2 completed; 0 open (as of July 13, 2026)
+- **Total Tasks**: 1 completed; 0 open (as of latest raw data pull)
+  - ✅ Design PCB to integrate ECS-DoT chip — Completed Feb 3, 2026 (4 days late; due Jan 30)
   - ✅ Validation Flight #2 (Dan Prendergast) — Completed July 13, 2026
   - ✅ Validation Flight #3 (Dan Prendergast) — Completed July 13, 2026
   - Final Report (Dan Prendergast) — Status unclear from raw data; likely in progress or pending start
   - Data analysis tasks (Maciej Stachura × 2) — Status unclear; awaiting validation flight completion
 - **Tasks by Assignee**:
+  - **Unassigned**: Design PCB to integrate ECS-DoT chip (completed Feb 3, 2026)
   - **Dan Prendergast**: 2 validation flights completed July 13, 2026; owns final reporting phase
   - **Maciej Stachura**: Data analysis tasks (2) — unblocked as of July 13, 2026; status unknown
   - **Jack Elston & Nate Straus**: Field execution coordination in April–May (not formally assigned in Asana)
@@ -66,3 +68,4 @@
 - **Final reporting phase now unblocked**: Milestone 4b ($10k final reports) can proceed. No due date currently set in Asana; recommend scheduling final report completion to close engagement.
 - **Data analysis tasks unblocked**: Maciej Stachura's data analysis work (2 tasks) can now proceed with completed validation flight data.
 - **Priority shift**: EMASS ranked Priority #3 (April 30, 2026) behind S3 IRAD and S0-VTOL; remains lower priority for BST despite project progress.
+- **Asana project dates stale**: Raw data shows "Project Due: 2026-01-31" and "Project Start: 2026-01-31" (identical dates); project notes indicate original timeline has been superseded. No set end date as of June 2026. Use real-world activity dates (validation flights July 13, 

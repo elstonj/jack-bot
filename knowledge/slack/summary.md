@@ -1,53 +1,41 @@
 # Slack Channels Overview
 
-Last scanned: 2026-07-18 02:16
+Last scanned: 2026-07-19 02:13
 
-Total channels scanned: 6
+Total channels scanned: 2
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 3 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#flight-testing** -- 14 messages -- [flight-testing.md](flight-testing.md)
-- **#general** -- 2 messages -- [general.md](general.md)
-- **#s3** -- 5 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 2 messages -- [sbir-hurricane.md](sbir-hurricane.md)
-- **#sbir-volcano** -- 2 messages -- [sbir-volcano.md](sbir-volcano.md)
+- **#s0-vtol** -- 3 messages -- [s0-vtol.md](s0-vtol.md)
+- **#sbir-hurricane** -- 3 messages -- [sbir-hurricane.md](sbir-hurricane.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Strategic Slack Overview
+# Black Swift Technologies - Cross-Channel Strategic Overview
 
 ## Active Projects
-- **SBIR Hurricane (S0)**: Unmanned aircraft for hurricane reconnaissance; longest-running project (2020-2026)
-- **Navy SBIR Magnetometer**: QuSpin magnetometer integration for magnetic anomaly detection
-- **SBIR Volcano**: S2/S3 aircraft for volcanic monitoring with NASA/USGS collaboration
-- **S3 Development**: Hybrid VTOL platform (tilting rotors, 2-3 hour endurance)
-- **Flight Testing Operations**: Cross-platform testing for S-series, E2, Flamewheel, and VTOL variants
+- **S0 VTOL Aircraft**: Core development platform with emphasis on vertical takeoff/landing and forward flight transition capabilities
+- **SBIR Hurricane**: Government-funded reconnaissance mission development using S0 platform for hurricane data collection
 
-## Key People & Roles
-- **Jack Elston**: Technical leadership, firmware, project decisions
-- **Joshua Fromm**: Lead engineer/designer, CAD, RF components, battery design, QA
-- **Maciej**: Flight testing/analysis lead, operational troubleshooting
-- **Dan Prendergast**: Business development, operations
-- **Beck Cotter**: Magnetometer project, technical contributions
-- **Sam Hild**: Multi-project involvement (Hurricane, Magnetometer, Volcano)
-- **Alex Lomis**: Technical support across projects
+## Key Personnel & Roles
+- **Joshua Fromm, Jack Elston**: Core technical leadership across both channels
+- **Maciej, Sam Hild, Alex Lomis**: Active engineering contributors
+- **Dan Prendergast, Danny Troke**: Operations and mission support
+- **Ethan Domagala, Ben Busby**: Hardware/systems engineering
+
+## Connected Themes
+1. **Platform-centric approach**: Both channels leverage the S0 VTOL as the primary operational system
+2. **Hardware iteration**: Concurrent focus on aircraft development improvements and mission-specific modifications
+3. **Testing cycle**: Both channels show extensive flight testing and validation activities
+4. **Customer/stakeholder delivery**: Preparation for operational deployment (hurricane missions + customer handoff)
 
 ## Decision Patterns
-- Technical decisions centralized through Jack Elston and Joshua Fromm
-- Project-specific channels (#sbir-hurricane, #sbir-volcano, #25_1-navy-sbir-magnetometer, #s3) handle specialized discussions
-- Flight testing outcomes feed back into design iterations
-- Government SBIR projects (#sbir-volcano, #sbir-hurricane, magnetometer) involve external stakeholder coordination
-
-## Cross-Channel Themes
-- **Aircraft Platform Reuse**: S2/S3/S0 platforms adapted across multiple SBIR missions (volcano, hurricane, magnetometer)
-- **Sensor Integration**: Common challenge across projects (magnetometers, volcanic sensors, reconnaissance payloads)
-- **Flight Testing**: Central validation hub connecting all hardware development
-- **Federal Partnerships**: Consistent collaboration with NASA, USGS, Navy across SBIR projects
+- Technical decisions driven by hands-on testing and engineering review
+- Long-term project continuity (2+ years of sustained activity, 2020-2026 timeline)
+- Collaborative problem-solving across engineering disciplines
 
 ## Recurring Topics
-- Firmware/software development and updates
-- Component sourcing and procurement
-- Battery and power system optimization
-- CAD design validation
-- Mission-critical troubleshooting during field operations
+- Flight performance and system debugging
+- Hardware component integration
+- Mission readiness and operational procedures
+- Technical troubleshooting from field operations

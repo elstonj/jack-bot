@@ -58,10 +58,8 @@
 
 ### Team Coordination (Authoritative — Overrides Asana Dates)
 
-**2026-07-14** — Daniel Prendergast: **Post-flight workflow automation in progress.** Seeking to embed Maintenance Action Form link in log parse at end of log upload process to drive automatic checklist discipline and task creation for hardware/software issues.
+**2026-07-14** — Daniel Prendergast: **Post-flight workflow automation in progress.** Seeking to embed Maintenance Action Form link in log parse at end of log upload process to drive automatic checklist discipline and task creation for hardware/software issues. (Slack feedback)
 
-**2026-07-13** — Daniel Prendergast: Repeating request to automate Maintenance Action Form linkage in log parse workflow for post-flight discipline.
+**2026-07-13** — Daniel Prendergast: Repeating request to automate Maintenance Action Form linkage in log parse workflow for post-flight discipline. (Slack feedback)
 
 **2026-07-13** — Maciej: **NOAA ocean array test flight (By-Lite).** NOAA requesting one additional clear air test flight over ocean array outside North Carolina in late July or early August; exact date TBD. Will require Jack, Josh, Alex, or Maciej.
-
-**2026-07-13** —

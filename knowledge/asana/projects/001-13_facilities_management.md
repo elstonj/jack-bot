@@ -4,15 +4,15 @@
 - **Client/customer**: Internal operations (BST office and shop space maintenance)
 - **Dollar value**: Lease costs $13.00–$14.63 NNN over 60-month term, plus $6.23 CAM for real estate taxes and building insurance
 - **Timeline**: Ongoing operational project with recurring weekly and bi-weekly tasks
-- **Status**: Active - recurring operational cadence maintained. **Current snapshot: 2 open tasks** (Ongoing Office Purchasing List due 2026-07-17; Equipment wish list unscheduled). Weekly purchasing coordination and bi-weekly cleaning continue to cycle through the system.
+- **Status**: Active - recurring operational cadence maintained. **Current snapshot: 1 open task** (Equipment wish list, unscheduled). Weekly purchasing coordination and bi-weekly cleaning continue to cycle through the system.
 - **Team members involved**: Meredith O'hara Needham (primary operational owner, Neat N Tidy owner), Nate Straus (facilities improvements & consumables, equipment planning)
 - **Risk signals**: 
-  - Ongoing Office Purchasing List due 2026-07-17 (weekly recurring, imminent deadline)
   - Equipment wish list has no due date (may need scheduling or clarification)
+  - No current visibility on "Ongoing Office Purchasing List" task (previously due 2026-07-17; may have been completed or archived)
 
 ## Key Deliverables & Milestones
 - **Monthly rent payments** (~$13.00–$14.63 NNN depending on lease year, plus $6.23 CAM, due ~25th–29th of each month)
-- **Weekly office purchasing coordination** (Ongoing Office Purchasing List; due 2026-07-17; assigned to Meredith O'hara Needham)
+- **Weekly office purchasing coordination** (Ongoing Office Purchasing List; recurring; assigned to Meredith O'hara Needham)
 - **Bi-weekly office cleaning** (via Neat N Tidy; managed through booking portal)
 - **Equipment wish list** (unscheduled; assigned to Nate Straus)
 - **Facilities improvements** (ongoing, no due date set; assigned to Nate Straus)
@@ -20,22 +20,19 @@
 - **Lease termination planning** (unassigned, no due date)
 
 ## Task Summary
-- **Total tasks**: 2 open, 0 completed (in current export)
+- **Total tasks**: 1 open, 0 completed
 - **Tasks by assignee**:
-  - **Meredith O'hara Needham**: 1 open
-    - Ongoing Office Purchasing List (due 2026-07-17) — weekly collection of purchases for ordering
   - **Nate Straus**: 1 open
     - Equipment wish list (no due date) — ongoing equipment planning for facilities
 - **Notable patterns**: 
-  - Recurring weekly purchasing task maintains operational structure
-  - Equipment wish list lacks due date; may need scheduling or clarification of intent
-  - "Office Cleaning" task remains absent from export (previously due 2026-07-14) — bi-weekly cleaning likely managed through Neat N Tidy booking portal rather than Asana task completion
+  - Only Equipment wish list visible in current export
+  - "Ongoing Office Purchasing List" no longer appears (likely completed/archived after 2026-07-17 deadline)
+  - "Office Cleaning" task remains absent from export — bi-weekly cleaning managed through Neat N Tidy booking portal rather than Asana task tracking
 
 ## Recent Activity
-- **Current open tasks** (approaching or unscheduled):
-  - Ongoing Office Purchasing List due 2026-07-17 (assigned to Meredith O'hara Needham) — weekly purchasing coordination
-  - Equipment wish list (assigned to Nate Straus) — **no due date set; clarify intent or add target date**
-- **Tasks no longer in export**: "Office Cleaning" (previously tracked bi-weekly) and "Pay Rent" remain absent. **Assessment**: These are likely managed via external calendar/payment system or auto-recycling on completion. Confirm with Meredith O'hara Needham if needed.
+- **Current open tasks**:
+  - Equipment wish list (assigned to Nate Straus) — **no due date set; requires scheduling or clarification of intent**
+- **Task status change**: "Ongoing Office Purchasing List" (previously due 2026-07-17) no longer appears in open list — likely completed or cycled out after deadline
 
 ## Notes & Context
 
@@ -64,8 +61,7 @@
 **Operational Focus**: Central hub for all physical office and shop space maintenance, found under the Operations portfolio. Consumables stock tracker maintained at https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus).
 
 **Action items for next review**: 
-- Close Ongoing Office Purchasing List task upon completion (due 2026-07-17)
 - **Set or clarify due date for Equipment wish list (Nate Straus)** — currently unscheduled
-- Confirm whether "Office Cleaning" task has been replaced by direct portal bookings (Neat N Tidy) or if it should be manually recycled
-- Confirm recurring task cadence for "Pay Rent" — if externally managed, document that pattern to avoid false alarms
+- Confirm whether "Ongoing Office Purchasing List" task has completed/archived or if it requires manual recycling for next cycle
+- Confirm recurring task cadence for "Pay Rent" and "Office Cleaning" — if externally managed, document that pattern to avoid false alarms
 - Verify consumables stock levels and ordering cycle with Nate Straus if needed

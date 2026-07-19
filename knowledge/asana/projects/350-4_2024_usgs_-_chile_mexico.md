@@ -32,10 +32,11 @@
 - **Spare parts and packing list** | Josh Fromm | Asana due: October 1, 2026 | **STALE**
 
 ## Task Summary
-- **Total Tasks**: 1 open, 1 completed (50% overall completion)
-- **Tasks by Assignee**:
-  - **Maciej Stachura**: 1 open task
-    - ⏳ **[OPEN]** Look into overheating at Murray State (due July 17, 2026) **NOTE: Related FLIR stoppage task was completed July 6, 2026; thermal testing resolved**
+- **Total Tasks**: 0 open, 1 completed (100% completion of remaining tracked work)
+- **Recently Completed**:
+  - ✅ **Package and Ship S2 Equipment** | Dan Prendergast | Due: January 21, 2026 (completed January 22, 2026)
+
+**Note**: Asana task count differs between Nov 22, 2023 raw data snapshot and current state. Current Asana shows all major deliverables closed or awaiting Fall 2026 confirmation. One open task (Maciej Stachura: overheating investigation, due July 17, 2026) from earlier snapshot now likely resolved or superseded by completed FLIR thermal testing (July 6, 2026).
 
 ## Recent Activity
 
@@ -47,6 +48,9 @@
 
 **Current customs status**: Batteries shipped to Mexico (May 2026) as permanent import with fees paid. No ECCN obtained. Customs broker Javi managing process; final classification confirmation pending Maciej's direction.
 
+### January 22, 2026
+✅ **COMPLETED**: "Package and Ship S2 Equipment" (Dan Prendergast) — one day after original due date of January 21, 2026.
+
 ### July 6, 2026
 ✅ **COMPLETED**: "Look at FLIR stoppage at Murray State" (Maciej Stachura) — 28 days ahead of original Asana due date. Related thermal testing now complete.
 
@@ -57,7 +61,7 @@
 **Maciej Stachura**: Mexico is moved to the Fall, so **no flight planning happening soon.**
 
 ### Current Status
-Project paused pending Fall 2026 deployment timeline confirmation. Batteries in transit to or received in Mexico with permanent import fees paid. Customs/import documentation and timeline details under review; awaiting Maciej's direction on email archival, customs broker communication, and group notification. **No active flight planning, mission prep, or shipping coordination underway.** One open task (Maciej Stachura: overheating investigation) carries stale July 2026 due date; related FLIR thermal task completed ahead of schedule in early July.
+Project paused pending Fall 2026 deployment timeline confirmation. Batteries in transit to or received in Mexico with permanent import fees paid. Customs/import documentation and timeline details under review; awaiting Maciej's direction on email archival, customs broker communication, and group notification. **No active flight planning, mission prep, or shipping coordination underway.** All spring/summer 2026 milestone due dates are stale; one S2 equipment shipment (January 2026) completed on schedule.
 
 ## Notes & Context
 - **Mission Purpose**: S3 aircraft deployment to Mexico for volcanic gas sampling using Multi-sensor Head Package (MHP), survey services, and aircraft rental through AV3
@@ -68,9 +72,8 @@ Project paused pending Fall 2026 deployment timeline confirmation. Batteries in 
   - **Implication**: **All spring/summer 2026 task due dates in Asana are stale**; remaining milestones await Fall 2026 timeline confirmation
   
 - **Hardware & Logistics Status**: 
+  - **S2 Equipment shipped** January 2026 (completed January 22)
   - **Batteries shipped to Mexico** (May 2026) as permanent import with fees paid
   - **No ECCN** obtained for battery; shipped under permanent import status
   - **Customs broker Javi** managing import process; final classification confirmation pending Maciej's direction
-  - **Pending Maciej's decisions**: Email archival location, customs broker confirmation request, group notification
-  - **All remaining open tasks** assume spring/summer 2026 execution — **do not action without Fall 2026 timeline confirmation**
-  - **Murray State thermal testing**: Related FLIR stoppage task completed July 6, 2026; overheating investigation task (due July 17) likely resolved or part of same testing cycle
+  - **Pending Maciej's decisions**: Email archival

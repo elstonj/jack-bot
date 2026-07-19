@@ -7,7 +7,7 @@
 - Dollar value: Not specified in available data
 - Timeline: Multi-year development through October 2025; final task completed 2025-10-21
 - Status: Archived — all development work completed
-- Team members: Ben Busby (primary developer), Maciej Stachura, Jack Elston
+- Team members: Ben Busby (primary developer), Maciej Stachura, Jack Elston, Daniel Prendergast (post-launch operations)
 - Risk signals: None — project successfully completed with no overdue items
 
 ## Key Deliverables & Milestones
@@ -30,7 +30,7 @@
 - **Ben Busby**: Primary contributor — final task (Create users db on RDS) completed 2025-10-21
 
 ## Recent Activity
-Final development phase completed October 21, 2025:
+**Final development phase completed October 21, 2025:**
 - Email-based authentication system implemented (transitioned from usernames to emails)
 - Password recovery functionality added
 - RDS user database established (final task completed)
@@ -40,7 +40,7 @@ Final development phase completed October 21, 2025:
 - Log-parse tools integrated as Git submodule with auto-deploy triggering
 
 **Post-completion enhancement request (July 2026):**
-Daniel Prendergast requested workflow improvement: add a link to the [Maintenance Action Form](https://form.asana.com/?k=lRN5n1GO5ItVorzEDqbgWg&d=12804948716594) at the end of the log upload process in log-parse (messages 2026-07-13, 2026-07-14). Goal is to automate checklist discipline by prompting users to create Asana tasks for hardware issues and software bugs immediately after each flight upload. This enhancement is intended to improve field team operational workflows post-launch.
+Daniel Prendergast requested workflow improvement to add a link to the [Maintenance Action Form](https://form.asana.com/?k=lRN5n1GO5ItVorzEDqbgWg&d=12804948716594) at the end of the log upload process in log-parse (messages 2026-07-13 and 2026-07-14). Goal is to automate checklist discipline by prompting users to create Asana tasks for hardware issues and software bugs immediately after each flight upload. This enhancement is intended to improve field team operational workflows post-launch.
 
 ## Notes & Context
 Comprehensive flight data analysis platform developed over multiple years:

@@ -61,10 +61,10 @@ All core invoicing milestones (4×) completed and paid through 12/17/2025.
   - **2026-05-05 (Ethan):** **Timeline extended.** "ByLight project timeline has been extended due to cancellation of a demo in India. The 'yellow version' project has been clarified and asana tasks and timelines have been updated accordingly."
   - **2026-05-13 & 2026-05-14 (Daniel Prendergast):** **VALIDATION FLIGHT #2 POSTPONED** (indefinite hold at that time). CU IRISS training complete; flight postponed pending customer DoD autopilot controller readiness.
 
-- **NEW ACTIVITY (July 2026):**
-  - **2026-07-10 & 2026-07-13 (Maciej):** **One additional NOAA test flight confirmed** for late July or early August 2026. Clear-air test flight over ocean array (North Carolina region, outside). Exact date TBD. Requires one of Jack, Josh, Alex, or Maciej.
-  - **2026-07-13 & 2026-07-14 (Daniel Prendergast):** Process improvement initiative: implementing automatic Maintenance Action Form workflow. At the end of each flight, crew should fill out form to create Asana tasks for hardware fixes and software bugs. Request: add form link to log parse at end of log upload process.
-  - **2026-07-10 & 2026-07-13 (Beck):** Updated demo/flight calendar through September 2026 (Google Sheets link available).
+- **LATEST ACTIVITY (July 2026):**
+  - **2026-07-13 (Maciej):** **One additional NOAA test flight confirmed** for late July or early August 2026. Clear-air test flight over ocean array (North Carolina region, outside). Exact date TBD. Requires one of Jack, Josh, Alex, or Maciej.
+  - **2026-07-13 & 2026-07-14 (Daniel Prendergast):** Workflow improvement initiative — post-flight Maintenance Action Form implementation. All crew members should complete form at end of each flight to auto-create Asana tasks for hardware fixes and software bugs. Request: integrate form link into log parse at end of log upload process.
+  - **2026-07-10 & 2026-07-13 (Beck):** Updated demo/flight calendar through September 2026 (Google Sheets).
 
 ## Notes & Context
-- **Project Type:** Long-Range
+- **Project Type:** Long-Range Fixed-Wing Evaluation & Do
