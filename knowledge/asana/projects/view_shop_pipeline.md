@@ -36,6 +36,7 @@
   - Training event inviting local agencies to witness BST flight
   - Permission from OSMP rangers required for S2 and S0 demonstrations in Boulder area
   - Contact: Hunter Ray (hunterray@boulderrescue.org), last contact Nov 11, 2025
+  - Training/travel dates considered: Feb 16, 17, or 18
   - Next steps: No action needed
 
 ## Notes & Context

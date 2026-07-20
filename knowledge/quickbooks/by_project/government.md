@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $4,504,553.28
-- **Total Expenses (Bills + Purchases):** $1,379,509.73
+- **Total Expenses (Bills + Purchases):** $1,387,864.73
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,125,043.55 (invoiced minus expenses)
+- **Net Position:** $3,116,688.55 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -76,8 +76,8 @@
 
 ---
 
-### **Materials & Supplies: $519,028.31**
-**Number of transactions:** 229  
+### **Materials & Supplies: $527,383.31**
+**Number of transactions:** 230  
 
 **Key vendors & items:**
 
@@ -88,8 +88,8 @@
   - **DKC*DIGI KEY CORP - 4617** (2026-07-02): $66.92 [DC-Direct Material Purchases] — Extra AD parts
 
 - **JAWSTEC:** 
-  - Prior balance: $20,190.06
   - **Purchase #69825** (2026-07-09): $1,387.60 [DC-Direct Material Purchases] — JAWSTEC components
+  - **Purchase #69631** (2026-06-29): $562.44 [DC-Direct Material Purchases] — JAWSTEC IDIQ components
   - **Updated JAWSTEC total: $21,577.66**
 
 - **QuSpin, Inc. — Gen 2.0 QTFM Sensor:**
@@ -137,13 +137,16 @@
     - $53.70 — Materials IDIQ
     - $138.40 — Materials for [550-1] Navy Magnetometer
 
-  - **Purchase #69631** (2026-06-29): $562.44 [DC-Direct Material Purchases] — JAWSTEC IDIQ components
-
-  - **Amazon MKTPL*4Z8IL5283** (2026-06-29): $34.59 [DC-Direct Material Purchases] — USB Flash Drive
-
-  - **Purchase #03236** (2026-07-01): $156.00 [DC-Direct Material Purchases] — Wire Transfer
-    - $130.00 — Wire transfer (no Asana request; Alex purchase via email)
-    - $26.00 — Wire transfer (no Asana request; Alex purchase via email)
-
   - **Purchase #1010** (2026-07-30): **$8,355.00** [DC-Direct Material Purchases] — **S0 Deployment Tubes & Hardware**
-    -
+    - *Largest single materials transaction in latest data pull*
+    - **Project:** Attributed to direct S0 platform development/deployment
+
+---
+
+### **Travel: $262,922.73**
+**Number of transactions:** 47  
+
+**Key vendors:**
+- **Airline tickets & transportation (American Airlines, Southwest, United, JetBlue, Frontier, etc.):** ~$95,000+
+- **Hotel accommodations (Marriott, Hilton, VRBO, local hotels):** ~$85,000+
+- **Rental vehicles (Hertz, Enterprise, A

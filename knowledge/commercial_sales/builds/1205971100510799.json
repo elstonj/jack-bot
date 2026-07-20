@@ -49,8 +49,8 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Paid order (Inv #1667, $21,181.81). Two S0 VTOL units ordered; company intends settlement agreement with ERAU per legal disclosure due to delivery delays. In QC per Slack 5/20/26. Receive-by 2026-08-31.",
+  "notes": "Paid order (Inv #1667, $21,181.81, paid 2025-05-07). Two S0 VTOL units in QC; on track for August/September 2026 ISARRA Flight Week delivery per Kevin's May 19-21, 2026 emails. Settlement agreement with ERAU per legal disclosure regarding prior delays. Receive-by 2026-08-31.",
   "missing_fields": [],
   "last_evidence_date": "2026-07-16",
-  "last_contact_date": null
+  "last_contact_date": "2026-05-21"
 }

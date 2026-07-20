@@ -1,16 +1,17 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 3,911 (3,889 previous + 22 new from Jul 18-19, 2026)
-- **Date range:** March 24 – July 19, 2026 (118 days)
+- **Total messages scanned:** 3,931 (3,911 previous + 20 new from Jul 20, 2026)
+- **Date range:** March 24 – July 20, 2026 (119 days)
 - **Approximate volume:** ~33 messages per day (sustained)
-- **New batch composition (Jul 18-19, 2026):** ~91% automation/newsletters/promotions (20 of 22 messages)
-  - **Direct human correspondence:** 0 messages (0%)
-  - **News/Intelligence feeds:** A&SF Alerts, Mitchell Institute, The New York Times (8 messages), The Athletic Pulse, Inside Climate News
-  - **Website/Infrastructure/Technical:** Google Search Console (indexing issues on bst.aero), Elementor, All in One SEO (2 messages), WPBeginner, Shopify
-  - **Professional networking:** LinkedIn (2 messages: new invitation, connection suggestion for Chad Vorthmann)
-  - **Retail/Promotions:** Target (college shopping), Staples, ShopAFA (AFA merchandise)
-  - **Subscriptions/Offers:** The New York Times (3 subscription/offer messages), All in One SEO (2 promotional messages)
+- **New batch composition (Jul 20, 2026):** ~95% automation/newsletters/promotions (19 of 20 messages)
+  - **Direct human correspondence:** 1 message (5%)
+    - **Jameel Barkat (Google Slides share request, Jul 19, 22:07 UTC)** — Document collaboration [IMPORTANT]
+  - **News/Intelligence feeds:** The New York Times (3 breaking news + 2 editor picks), The Athletic Pulse, Inside Climate News, LinkedIn News, Unmanned Systems Technology
+  - **Professional/Industry:** PteroDynamics Inc. (LinkedIn), Aveo Engineering Group (drone newsletter), SATX Community Team (Station Austin events)
+  - **Uncrewed Systems:** Matthew A. Burgess/USGS (7th Federal Uncrewed Systems Workshop) [IMPORTANT]
+  - **Subscriptions/Tools:** Toggl Track (no subject), Agritecture Weekly (GreenTech discount)
+  - **Retail/Promotions:** Target (2 messages), Staples, Mt. Princeton Hot Springs (golf tournament)
 
 ---
 
@@ -21,6 +22,11 @@
 **Meredith Needham (meredith.needham@blackswifttech.com)**
 - **Status:** CONFIRMED elevated priority — Paige initiated outbound contact (Jul 17)
 - **Collaboration type:** Operations/time tracking system coordination (Toggl Issue)
+
+**Jameel Barkat (via Google Slides)**
+- **Status:** NEW — Active document collaboration (Jul 19, 22:07 UTC)
+- **Signal:** Real-time collaboration on template document ("03/14/25 Copy of Template")
+- **Importance:** Marked IMPORTANT
 
 ---
 
@@ -35,118 +41,89 @@
 - **Status:** NEW vendor budget inquiry (Jul 17, 19:30 PM)
 - **Signal:** 2027 budget planning conversation; procurement cycle engagement
 
+**Matthew A. Burgess (maburgess@usgs.gov)**
+- **Status:** NEW — 7th Federal Uncrewed Systems (UxS) Workshop organizer (Jul 20, 02:26 UTC)
+- **Signal:** Registration & abstracts for federal uncrewed systems workshop; received at feduxsworkshop@gmail.com
+- **Importance:** Marked IMPORTANT — Suggests active interest in federal UAS/autonomous systems community
+- **Implication:** BST may be planning participation or abstract submission for federal UxS workshop
+
 ---
 
 ### News/Intelligence Feeds — Active Monitoring
 
+**The New York Times (multiple addresses)**
+- **Volume (Jul 20):** 5 messages (breaking news alerts: Air Force One upgrades, Iran war expansion; editor picks: Statue of Liberty, "Disaster Mansion" feature)
+- **Recent critical content (Jul 20, 03:29 UTC):** **"Breaking news: New Air Force One to be 'maxed out,' Trump says"** [UNREAD]
+- **Recent critical content (Jul 19, 21:33 UTC):** **"Breaking news: 3 U.S. soldiers were killed since Friday as Iran war expands"** [UNREAD]
+- **Pattern:** High-volume breaking news on defense/military topics + consumer lifestyle pieces; continued geopolitical/security focus
+
 **A&SF Alerts (AirAndSpaceForcesMagazine@afa.org) — Defense Policy Intelligence**
-- **Frequency:** Continued regular delivery
-- **Recent content (Jul 18, 14:46 PM):** **"News Alert | US Troops Killed in Jordan"** [UNREAD]
+- **Status:** Continues from prior batch (not in Jul 20 batch but sustained pattern)
 - **Pattern:** Active monitoring of U.S. military/defense incidents and policy
 
-**Mitchell Institute (mitchell@afa.org)**
-- **Recent content (Jul 18, 05:39 AM):** **"Air Force Reserve Update: Lt Gen Healy - Aerospace Advantage 299"** [UNREAD]
-- **Signal:** Continued tracking of Air Force strategy and leadership communications
-
-**The New York Times (multiple addresses)**
-- **Volume (Jul 18-19):** 8 messages (breaking news alerts, editor picks, subscription offers, morning briefing)
-- **Topics tracked:** Breaking news (geopolitical/security incidents), general interest/lifestyle, subscription promotions
-- **Pattern:** High-volume consumer news subscription; likely personal interest mixed with potential market awareness
+**The Athletic Pulse**
+- **Recent content (Jul 19, 11:20 UTC):** **"World. Cup. Final."** [UNREAD, IMPORTANT]
+- **Pattern:** High-priority sports content (World Cup coverage); personal interest indicator
 
 **Inside Climate News**
-- **Recent content (Jul 18, 10:16 AM):** **"Sea level rise creates agricultural crisis in Gambia"** [UNREAD]
-- **Pattern:** Environmental/climate policy tracking continues
+- **Recent content (Jul 19, 09:46 UTC):** **"Podcast: A Texas-Sized Water Crisis"** [UNREAD]
+- **Pattern:** Environmental/climate policy tracking continues; Texas-focused content (geographic relevance)
 
-**The Athletic Pulse**
-- **Recent content (Jul 18, 11:29 AM):** **"Baseball's beautiful mess"** [UNREAD, IMPORTANT]
-- **Pattern:** Sports news consumption (personal interest)
-
----
-
-### Website/Infrastructure Contacts
-
-**Google Search Console Team (sc-noreply@google.com)**
-- **Recent alert (Jul 18, 04:10 AM):** **"New reasons prevent pages from being indexed on site https://bst.aero/"** [UNREAD]
-- **Signal:** TECHNICAL ISSUE — BST website indexing problems detected
-- **Implication:** Website migration/technical work ongoing; requires SEO/infrastructure attention
-- **Context:** Aligns with previous pattern of website/infrastructure coordination with Meredith Needham
-
-**All in One SEO (support@aioseo.com)**
-- **Activity (Jul 18):** 2 promotional messages (Basic plan $49.50 offers)
-- **Pattern:** Active tool subscription for website optimization
+**LinkedIn News (multiple addresses)**
+- **Editors (Jul 19, 18:02 UTC):** **"'AI guilt' causes a stir"** [UNREAD]
+- **Unmanned Systems Technology via LinkedIn (Jul 19, 15:01 UTC):** **"Unmanned Systems Roundup: Navigation, Partnerships & Autonomous Platforms"** [UNREAD]
+- **PteroDynamics Inc. (Jul 20, 02:59 UTC):** Recent company post [UNREAD]
+- **Pattern:** Curated professional/industry content; active monitoring of UAS/autonomous systems sector
 
 ---
 
-### LinkedIn Activity
+### Professional/Industry Newsletters
 
-**LinkedIn Notifications (2 new signals Jul 19):**
-- Jul 19, 02:21 AM: **1 new invitation** [UNREAD, CATEGORY_SOCIAL]
-- Jul 19, 00:59 AM: **"Add Chad Vorthmann"** connection suggestion [UNREAD, CATEGORY_SOCIAL]
-- **Signal:** Continued inbound professional networking activity; potential new business contact (Chad Vorthmann identity requires clarification)
+**Aveo Engineering Group (newsletter@aveoengineering.com)**
+- **Recent content (Jul 19, 16:30 UTC):** **"Aveo DroneV Pico™ the Smallest 3 in 1 Light!"** [UNREAD]
+- **Recipient:** info@blackswifttech.com (company address, not personal)
+- **Signal:** Drone/UAS product innovation tracking; competitive intelligence on lightweight drone platforms
+
+**Agritecture Weekly (victoria@agritecture.com)**
+- **Recent content (Jul 20, 00:26 UTC):** **"Your Discount for GreenTech North America"** [UNREAD]
+- **Signal:** NEW subscription; interest in agricultural technology/sustainability sector
+
+**SATX Community Team (events@stationaustin.org)**
+- **Recent content (Jul 19, 14:02 UTC):** **"This Week at STATION Austin 🚀 7/20 - 7/24"** [UNREAD]
+- **Recipient:** media@blackswifttech.com (company media address, not personal)
+- **Signal:** Community engagement in Austin tech/aerospace ecosystem; potential marketing/PR participation
+
+---
+
+### Toggl Track (Automated System)
+
+**Toggl Track (support@track.toggl.com)**
+- **Recent activity (Jul 20, 06:04 UTC):** No subject line message [UNREAD]
+- **Status:** Confirmed time tracking system integration (referenced in prior Meredith Needham coordination)
+- **Pattern:** Ongoing operational use; possibly automated reports or alerts
 
 ---
 
 ### Shopping/Retail Activity
 
-**Target (Jul 18, 12:43 PM)**
-- **Subject:** **"College shopping starts here 🎓"** [IMPORTANT]
-- **Pattern:** Consumer activity; possible personal relevance (college-age family member or personal interest)
+**Target (2 messages Jul 19)**
+- **Jul 19, 18:20 UTC:** **"40% off women's swim + 30% off sandals 🌊"** [IMPORTANT]
+- **Jul 19, 06:21 UTC:** **"Your New Weekly Ad is here"** [UNREAD]
+- **Pattern:** Consistent consumer engagement; apparel focus
 
-**ShopAFA (Jul 18, 14:25 PM)**
-- **Subject:** **"Top Seller: Minuteman III ICBM T-shirt"** [IMPORTANT]
-- **Pattern:** AFA merchandise promotional; aligned with defense/aerospace industry interest
+**Mt. Princeton Hot Springs Resort (information@mtprinceton.com)**
+- **Recent content (Jul 19, 18:02 UTC):** **"Collegiate Peaks Golf Tournament"** [IMPORTANT]
+- **Location:** Colorado resort (Mt. Princeton Hot Springs)
+- **Signal:** Recreational/networking event interest; Colorado geographic relevance (aligns with prior pattern)
 
----
-
-## Topic Patterns
-
-### Defense/Aerospace/Policy Intelligence (Consistent)
-- U.S. military operations and incidents (Jordan troop deaths, Iranian attack)
-- Air Force strategy and leadership communications
-- Space policy and capabilities (CSO nominee briefing, China space capabilities)
-- Defense contractor environment tracking
-
-### Website/Infrastructure/Technical Operations
-- bst.aero website indexing and SEO issues
-- WordPress/Elementor website platform management
-- Email platform management (MailerLite referenced in prior data)
-- Google Search Console monitoring
-
-### Energy/Climate Policy
-- Environmental policy tracking (sea level rise, agricultural impacts)
-- Energy sector regulation (Friends of Energy coalition activity in prior data)
-
-### Professional Networking & Business Development
-- LinkedIn profile views and connection requests (elevated activity)
-- Engineering design service inquiries (Josh Cutlip and other clients)
-- Investor/founder network participation (Investors Club Access)
-
-### Professional Subscriptions & Tools
-- LinkedIn job alerts and recruiter content
-- News subscriptions (The New York Times, The Athletic Pulse)
-- Website optimization tools (All in One SEO, WPBeginner, Elementor)
+**Staples (Jul 19, 13:01 UTC)**
+- **Subject:** **"🤩 New tech + fresh finds for the school year."** [UNREAD]
+- **Pattern:** Continues back-to-school season engagement
 
 ---
 
-## Communication Patterns
+### LinkedIn Activity
 
-### Email Volume Consistency
-- Sustained ~33 messages/day across all batches
-- Consistent split: ~90-95% automation/newsletters vs. 5-10% direct human correspondence
-- Pattern indicates high subscription load (news, industry alerts, tool providers) rather than heavy interpersonal communication
-
-### Timing Patterns (Jul 18-19 data)
-- **Early morning (00:59–05:39 UTC):** LinkedIn notifications, Google alerts, Mitchell Institute briefings
-- **Late morning/afternoon (10:16–14:46 UTC):** News alerts (NYT, A&SF, Inside Climate), tool promotions (All in One SEO, Staples, Target)
-- **Evening/weekend dominance:** 18 of 22 messages arrived Sat Jul 18–Sun Jul 19 (weekend bias in newsletter/promotional delivery)
-- **Consistent 24/7 receipt:** Automated systems; no clear work-hours-only pattern
-
-### Unread Message Status (Jul 18-19)
-- **100% of messages marked UNREAD** — Suggests batch viewing/filtering rather than real-time processing
-- **IMPORTANT flags:** 5 of 22 messages (23%)
-  - The Athletic Pulse (sports), Target (college shopping), NYT Morning Briefing, ShopAFA (merchandise)
-  - Pattern: Mixed personal/professional importance signals
-
-### Mailing Lists & Automated Systems
-- **News/Intelligence Feeds:** A&SF Alerts, Mitchell Institute, NYT (breaking news + editor picks + direct newsletter + subscription offers + morning briefing), Inside Climate News, The Athletic Pulse
-- **Website/Infrastructure Alerts
+**LinkedIn (multiple signals Jul 19–20):**
+- Jul 20, 02:21 UTC: **1 new invitation** [UNREAD, CATEGORY_SOCIAL]
+- Jul 20, 
