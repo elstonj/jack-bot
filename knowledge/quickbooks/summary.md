@@ -1,80 +1,48 @@
-# BST Financial Overview (QuickBooks)
-**Period: April 2024 – September 2026**
+# BST Financial Overview – QuickBooks Summary
+
+## Company Totals (All Projects)
+| Metric | Amount |
+|--------|--------|
+| **Total Revenue (Invoiced)** | $4,527,447.64 |
+| **Total Expenses** | $2,641,463.16 |
+| **Net Income** | **$1,885,984.48** |
 
 ---
 
-## Company Totals
+## Financial Position by Project/Class
 
-| Metric | Amount |
-|--------|--------|
-| **Total Revenue (Invoices)** | $4,527,447.64 |
-| **Total Expenses (Bills + Purchases)** | $2,633,108.16 |
-| **Total Purchase Orders Outstanding** | $2,532.00 |
-| **Net Income** | $1,894,339.48 |
-
----
-
-## By Project/Class
-
-### 1. Government
-| Metric | Amount |
-|--------|--------|
-| **Total Revenue** | $4,504,553.28 |
-| **Total Expenses** | $1,379,509.73 |
-| **Net Position** | **$3,125,043.55** |
-| **Outstanding A/R** | $3,238,242.82 |
-| **Transaction Count** | 76 active invoices |
-
-**Status:** Strongest performing project. Significant outstanding balance (71% of revenue) suggests large contracts with payment terms.
-
----
-
-### 2. BST Internal
-| Metric | Amount |
-|--------|--------|
-| **Total Revenue** | $22,894.36 |
-| **Total Expenses** | $1,253,598.43 |
-| **Net Position** | **-$1,230,703.07** |
-| **Outstanding PO** | $1,700.00 (PO #1038 – Amprius) |
-| **Transaction Count** | 2 transactions |
-
-**Status:** Cost center, not revenue-generating. Expenses significantly exceed invoiced revenue (internal overhead/operations).
+| Project | Total Revenue | Total Expenses | Net Position | Status |
+|---------|---|---|---|---|
+| **Government** | $4,504,553.28 | $1,387,864.73 | **+$3,116,688.55** | Highly Profitable |
+| **BST Internal** | $22,894.36 | $1,253,598.43 | **−$1,230,703.07** | Loss (Overhead/Cost Center) |
 
 ---
 
 ## Cash Flow Indicators
 
-### Accounts Receivable at Risk
-- **Outstanding Balance:** $3,238,242.82 (primarily Government contracts)
-- **Collection Rate:** 71.6% of total invoices remain unpaid
-- **Recommendation:** Monitor Government project payment terms; may indicate slower-paying government clients or large ongoing contracts.
+### Accounts Receivable
+- **Government projects:** $3,238,242.82 outstanding across 76 active invoices
+- **BST Internal:** Balance not fully specified in data
+- **Total A/R: ~$3.24M** (significant collection opportunity)
 
-### Purchase Orders Outstanding
-- **Total Outstanding PO Value:** $2,532.00
-- **Notable PO:** #1038 to Amprius for $1,700.00
+### Outstanding Purchase Orders
+- **PO #1038** (Amprius): $1,700.00 — Government project
+- **Other PO:** $832.00 — Government project
 
-### Project Activity Status
-- **Government:** Active (76 invoices, recent through Sept 2026)
-- **BST Internal:** Minimal activity (2 transactions) – appears to be administrative overhead
+### Recent Significant Activity
+- Government invoicing through **September 28, 2026** (future-dated; likely forecast)
+- BST Internal period covers **April 5, 2024 – July 30, 2026** (27+ months)
+- Total confirmed transactions: **1,285**
 
 ---
 
 ## Key Observations
 
-1. **Revenue Concentration:** 99.5% of revenue comes from Government contracts ($4.5M of $4.5M)
-2. **Profitability:** Overall net income is strong at $1.89M, driven entirely by Government project margin
-3. **Cash Flow Risk:** $3.24M in outstanding receivables represents significant collection dependency
-4. **Internal Operations:** BST Internal is a cost center with $1.25M in expenses against minimal revenue
-5. **Expense Efficiency:** Government project operates at 30.6% expense ratio (healthy for professional services)
+✓ **Strong Government Performance:** Government contracts drive profitability with $3.1M net positive position.  
+⚠ **BST Internal Costs:** Operating at significant loss (−$1.23M), indicating substantial overhead or internal investments.  
+⚠ **Collection Priority:** $3.24M in Government A/R requires attention for cash flow optimization.  
+📊 **Data Limitation:** Detailed vendor and customer breakdowns incomplete in provided dataset.
 
 ---
 
-## Data Limitations
-
-The provided QuickBooks extract is incomplete:
-- Vendor and customer breakdowns not fully populated
-- Expense category detail missing
-- Invoice detail for BST Internal incomplete
-- No aging analysis of receivables provided
-
-**Recommendation:** Request complete P&L detail, aging reports, and vendor summaries for comprehensive analysis.
+**Note:** Full vendor and customer rankings require additional detail from the original QuickBooks data (top vendors/customers lists were truncated).

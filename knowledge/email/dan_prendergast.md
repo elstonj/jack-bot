@@ -1,7 +1,8 @@
 # Dan Prendergast — Email Patterns
 
-Only 3 emails found in scanned period.
+Only 4 emails found in scanned period.
 
-- Sat, 18 Jul 2026 14:47:05 -0600: News Alert | US Troops Killed in Jordan (from: "A&SF Alerts" <AirAndSpaceForcesMagazine@afa.org>)
-- Sat, 18 Jul 2026 14:25:37 +0000: Top Seller: Minuteman III ICBM T-shirt (from: ShopAFA <shopafa@afa.org>)
-- Sat, 18 Jul 2026 05:41:06 -0600: ✈️ Air Force Reserve Update: Lt Gen Healy - Aerospace Advantage 299 (from: Mitchell Institute <mitchell@afa.org>)
+- Sun, 19 Jul 2026 19:52:46 -0600: Re: SOCOM Demo Aug 16-19 in Nevada (from: Daniel Prendergast <daniel.prendergast@blackswifttech.com>)
+- Sun, 19 Jul 2026 16:57:38 -0600: Re: SOCOM Demo Aug 16-19 in Nevada (from: Jack Elston <elstonj@blackswifttech.com>)
+- Sun, 19 Jul 2026 16:51:20 -0600: Re: (U) [Non-DoD Source] Re: RFI S0 (from: Daniel Prendergast <daniel.prendergast@blackswifttech.com>)
+- Sun, 19 Jul 2026 16:46:36 -0600: SOCOM Demo Aug 16-19 in Nevada (from: Daniel Prendergast <daniel.prendergast@blackswifttech.com>)

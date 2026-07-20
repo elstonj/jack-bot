@@ -52,7 +52,7 @@
 ## Task Summary
 - **Total tasks:** 0 open, 1 completed
 - **Completed tasks (1 total):**
-  - Hurricane Controller Algorithm Fixes (Due July 24, 2025; Completed August 18, 2025) — Dan Prendergast ✅
+  - Hardware design improvements for manufacturability, cost, and reliability (Completed February 18, 2026) — Unassigned; Airframe subject; New Feature/Improvement
 - **Discrepancy note:** Earlier data listed 23 open tasks with multiple assignees; current raw data shows 0 open, 1 completed. **Asana project appears to have been archived with tasks removed or archived alongside it.** Recommend reconciliation with team on actual work status vs. Asana record.
 - **Historical completion rate (April 2026):** 
   - Clear Air Testing (May 1 due, Apr 16 completed) — Maciej Stachura ✅
@@ -65,6 +65,9 @@
 - Project moving forward; NOAA has $115K + $54K earmarked for extension/early part ordering or 3 UAS builds (status yet to be determined)
 - Jack Elston actively negotiating IDIQ contract with NOAA for 25–30 UAS builds (FY25) — represents significant follow-on opportunity beyond current Phase II contract
 - Funds also being added to current Hurricane contract for early part ordering or full UAS builds
+
+**Completed (February 2026):**
+- Hardware design improvements for manufacturability, cost, and reliability (Completed February 18, 2026) — Airframe improvements
 
 **Completed (August 2025):**
 - Hurricane Controller Algorithm Fixes (Due July 24, 2025; completed August 18, 2025) — Dan Prendergast
@@ -91,5 +94,4 @@
 - **Jack Elston actively negotiating IDIQ contract with NOAA for 25–30 UAS builds (FY25)** — represents significant follow-on opportunity beyond current Phase II contract; funding also being added to current Hurricane contract for early part ordering or full UAS builds
 
 ### Technical Focus
-- **IAS (Indicated Airspeed) failures remain primary concern:** Recurring during flights, causing wind measurement loss and aircraft loss — increasingly frequent observed in late 2025
-- Recent fixes completed:
+-
