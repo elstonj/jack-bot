@@ -4,14 +4,15 @@
     ""
   ],
   "period": {
-    "start": "2026-07-19",
-    "end": "2026-07-20"
+    "start": "2026-07-20",
+    "end": "2026-07-21"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 5355.31,
+    "expenses": 7724.54,
     "by_category": {
-      "FACILITIES:FA-Office Supplies": 5355.31
+      "FACILITIES:FA-Office Supplies": 5355.31,
+      "FRINGE:FR-Employee Healthcare": 2369.23
     }
   },
   "invoices": [],
@@ -32,6 +33,24 @@
           "amount": 5355.31,
           "account": "FACILITIES:FA-Office Supplies",
           "description": "Office Server Ryze AI Max+ 395 - 64GB x 2"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-20",
+      "doc_number": "",
+      "total": 2369.23,
+      "attributed": 2369.23,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "BUSINESS TO BUSINESS ACH MYFAMLI CDLE FAMLI a0Rcs00000S0Yw1 Jack Elston",
+      "lines": [
+        {
+          "amount": 2369.23,
+          "account": "FRINGE:FR-Employee Healthcare",
+          "description": "2026 Q2 payment"
         }
       ]
     }

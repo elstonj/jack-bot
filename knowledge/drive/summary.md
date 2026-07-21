@@ -1,50 +1,70 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-07-20 02:13
+Last scanned: 2026-07-21 02:22
 
-Total drives scanned: 1
+Total drives scanned: 2
 
 ## Drives
 
 - **Federal Projects** — 2 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 4 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Shared Drive Overview
+# Black Swift Technologies — Strategic Drive Overview
 
-## Summary
+## Drive Summary
 
-BST's current Google Drive infrastructure shows **minimal documentation** with only 2 files across the Federal Projects drive. This represents a concerning gap in organizational documentation.
+| Drive | File Count | Status |
+|-------|-----------|--------|
+| Federal Projects | 2 | Minimal, video-only |
+| Sales | 4 | Active, proposal-focused |
+| **Total** | **6** | **Limited documentation** |
 
 ## Key Findings
 
-| Metric | Status |
-|--------|--------|
-| **Total Documents** | 2 files |
-| **Primary Content** | Video files (MOV format) |
-| **Organization** | Flat structure, minimal hierarchy |
-| **Documentation Quality** | Critical gaps |
+### Document Volume & Organization
+- **Very sparse across both drives** (6 files total)
+- Minimal folder structure observed
+- Sales drive shows more organization than Federal Projects
 
-## Drive Breakdown
+### Content by Drive
 
-**Federal Projects Drive:**
-- Contains 2 video files (RC_VID_0008.MOV, RC_VID_0009.MOV)
-- Both dated 2099-01-24 (likely data entry error)
-- No supporting documentation, contracts, proposals, or project files
+**Federal Projects Drive**
+- Contains only 2 video files (RC_VID_0008.MOV, RC_VID_0009.MOV)
+- Recent modification dates (2099-01-24 — likely data entry error; should verify actual dates)
+- Purpose unclear; no supporting documentation or metadata
 
-## Critical Observations
+**Sales Drive**
+- Mix of proposals and letters related to CUAS SBIR (Counter-UAS Small Business Innovation Research)
+- HALO-related documentation (location/letter of credit)
+- Includes both PDF and document versions of materials
+- Modification dates: 2026-07-20 (future date — verify accuracy)
 
-⚠️ **Areas Requiring Immediate Attention:**
-- **Severely underdocumented** — Only 2 files for an entire federal projects drive
-- **Missing core business records** — No contracts, proposals, statements of work, or compliance documentation
-- **Date anomalies** — Files show year 2099 (data quality issue)
-- **No organizational structure** — Lacks folder hierarchy, templates, or shared resources
-- **Undefined scope** — Unclear if this represents incomplete migration, new drive, or data loss
+### Cross-Drive Patterns
+- **No clear overlap or cross-referencing** between drives
+- Federal Projects appears disconnected from Sales activity
+- Minimal shared templates or resources identified
+
+### Areas Requiring Attention
+
+1. **Data Quality Issues**
+   - Modification dates appear incorrect (2026, 2099) — requires verification
+   - No version control apparent (duplicate file formats: .pdf and document versions)
+
+2. **Documentation Gaps**
+   - Federal Projects lacks context, metadata, or supporting documentation
+   - No client or project information visible in Federal drive
+   - Sales drive missing proposal timelines or project status tracking
+
+3. **Organization Deficiencies**
+   - No consistent naming conventions
+   - Minimal folder hierarchy
+   - No apparent document management system (templates, standards, archives)
 
 ## Recommendations
-
-1. Audit whether federal project documentation exists elsewhere (other drives, systems)
-2. Establish folder structure (by client, project, or contract type)
-3. Develop naming conventions and templates
-4. Verify data integrity (investigate 2099 date stamps)
-5. Create document retention and management policies
+- Audit and correct file dates
+- Establish folder structure by client/project
+- Implement naming conventions and version control
+- Create centralized templates and resource library
+- Document purpose and status of all projects

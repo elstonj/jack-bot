@@ -2,8 +2,8 @@
   "asana_gid": "1206482266586173",
   "asana_task_name": "NASA Ames",
   "customer": "NASA Ames",
-  "customer_contact": "Randy Hobbs, Will Wade, Farina Remo",
-  "customer_email": "r.hobbs@nasa.gov, william.o.wade@nasa.gov, farina.c.remo@nasa.gov",
+  "customer_contact": "Randy Hobbs, Will Wade, Farina Remo, Hai-Nam Tran",
+  "customer_email": "r.hobbs@nasa.gov, william.o.wade@nasa.gov, farina.c.remo@nasa.gov, hai-nam.h.tran@nasa.gov",
   "receive_by": "2026-09-30",
   "ship_to": null,
   "items": [
@@ -35,7 +35,7 @@
   "payment_state": "paid",
   "build_state": "in_assembly",
   "ship_state": "none",
-  "estimate_date": null,
+  "estimate_date": "2026-07-18",
   "invoice_date": "2024-11-04",
   "invoice_amount": 3470.0,
   "invoice_number": "1633",
@@ -85,7 +85,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "KEPT due to QBO Invoice #1633 (paid 2024-11-04, $3,470.00). Primary contact transitioned Dec 30, 2025 from Isaac Anderson to Randy Hobbs with Will Wade, Farina Remo (also CC Hai-Nam Tran). Build includes S2 Simulator, Iridium retrofit to S2 (S20009), 2\u00d7 ground stations, spare tail, warranty repair work on Isaac's original S2, and complete S2 airframe with nosecone (confirmed Slack 2026-05-21). In-assembly as of June 1, 2026; receive-by 2026-09-30. PO 80NSSC25PC031. Pallet shipping in prep (aircraft case, accessory case, battery case; batteries Class 9).",
+  "notes": "KEPT due to QBO Invoice #1633 (paid 2024-11-04, $3,470.00). Primary contact transitioned Dec 30, 2025 from Isaac Anderson to Randy Hobbs with Will Wade, Farina Remo, Hai-Nam Tran. Build includes S2 Simulator, Iridium retrofit to S2 (S20009), 2\u00d7 ground stations, spare tail, warranty repair work (flap servo, payload computer, mux board), and complete S2 airframe with nosecone. In-assembly as of June 1, 2026; receive-by 2026-09-30. PO 80NSSC25PC031. Pallet shipping in prep (aircraft case, accessory case, battery case; batteries Class 9). Awaiting shipped_date confirmation from Slack thread.",
   "missing_fields": [
     "ship_to",
     "parts.vendor",

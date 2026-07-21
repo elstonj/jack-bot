@@ -20,9 +20,7 @@
   - **ERAU** / Josh Wadler (wadlerj@erau.edu; 1 Aeronautical Blvd, Daytona Beach, FL 32114; Ph: 386-226-6000); Pre-award contracting officer: Garrett Filson (filsong@erau.edu)
   - **Old Dominion University** / John Park (h1park@odu.edu; 2101F Engineering Systems Bldg, Norfolk, VA 23352; Ph: 757-683-3759); Pre-award contracting officer: Stephanie Haskell (sl2harri@odu.edu)
   - **University of Miami** / Jun Zhang (jun.zhang@earth.miami.edu; Ph: 305-979-0903); **CRITICAL: must be included on all correspondence**; funds flow: BST (Prime) → ERAU (Sub) → U Miami (ERAU Sub)
-- **Risk Signals**: 
-  - Two deliverables pending for September 1, 2026 deadline: Final Report (CLIN 0007) and Final Invoice (CLIN 1007).
-  - One overdue task: "Fix ISARRA data for James Pinto" due June 5, 2026.
+- **Risk Signals**: Two deliverables pending for September 1, 2026 deadline: Final Report (CLIN 0007) and Final Invoice (CLIN 1007).
 
 ## Key Deliverables & Milestones
 | Deliverable | Due Date | Value | Status |
@@ -39,19 +37,16 @@
 | **Option Final Invoice (CLIN 1007)** | **September 1, 2026** | **$14,446** | **OPEN — Ready to Submit** |
 
 ## Task Summary
-- **Total Tasks**: 10 open, 0 completed
-  - **Critical Action Items** (2):
-    1. OPTION CLIN0007: Final Report | Maciej Stachura | Due: September 1, 2026
-    2. Submit CLIN 1007 Invoice ($14,446) | Meredith O'hara Needham | Due: September 1, 2026
-  - **Stale/Overdue Task** (1):
-    - Fix ISARRA data for James Pinto | Maciej Stachura | Due: June 5, 2026 (**OVERDUE** — clarify status with Maciej)
-  - **Contact/Reference Records** (6): Joshua Wadler (ERAU), John Park (ODU), Jun Zhang (U Miami), Joshua Cosseth (Navy TPOC), and two duplicate entries — administrative reference entries, not action items; no due dates
-- **Notable Patterns**: 
-  - Majority of "open" tasks are contact/subcontractor records with no due dates (administrative reference entries).
-  - Two critical deliverables are due simultaneously on September 1, 2026.
-  - Invoicing handled through Meredith O'hara Needham via WAWF system.
+- **Total Tasks**: 0 open, 1 completed
+  - **Recently Completed** (1):
+    - ✓ Fix ISARRA data for James Pinto | Maciej Stachura | Due: June 5, 2026 | **Completed July 20, 2026** (45 days late)
+- **Critical Action Items Pending**: 
+  1. OPTION CLIN0007: Final Report | Maciej Stachura | Due: September 1, 2026
+  2. Submit CLIN 1007 Invoice ($14,446) | Meredith O'hara Needham | Due: September 1, 2026
+- **Notable Patterns**: All administrative tasks and contact records have been cleared from the active task list; focus is now on two critical September 1 deliverables.
 
 ## Recent Activity
+- **July 20, 2026** (Asana): ✓ **ISARRA data task completed** by Maciej Stachura (45 days past original June 5 due date; clarification noted June 8 that Navy meeting was not scheduled and work was proceeding on critical mag integration engineering).
 - **June 25, 2026** (Meredith O'hara Needham): ✓ **CLIN 1006 Invoice ($35,000) successfully submitted** via WAWF (22 days late, but now completed). Invoicing submission instructions: https://docs.google.com/document/d/1Ea2PCGd6xCM0RdUq0AGeMnHPoyHjwV-WrF-1N7E4-Vc/edit?usp=sharing
 - **June 8, 2026** (Maciej): Clarified that Navy meeting was not scheduled; confirmed **Alex and Sam are leading critical mag integration engineering tasks**.
 - **June 5, 2026** (Maciej): Strategic discussion with Navy TPOC (Joshua Cosseth) — Navy expressed interest in **focusing on commercial markets and expanding non-DOD weather applications**. Navy interested in BST's industrial plan and commercial weather capabilities. This aligns with Phase II strategic planning and does not indicate contract changes.
@@ -61,7 +56,6 @@
 - **Invoicing**: All payments processed through Wide Area Workflow (WAWF). Meredith O'hara Needham manages BST invoicing submissions. Final Invoice (CLIN 1007; $14,446) due September 1, 2026. Contact: Joshua Cosseth (Navy billing contact).
 - **Subcontractor Coordination**: Jun Zhang (University of Miami) **must be included on all correspondence**, though funds flow through Josh Wadler at ERAU. Pre-award contracting officers: Garrett Filson (ERAU, filsong@erau.edu); Stephanie Haskell (ODU, sl2harri@odu.edu).
 - **Commercial Market Strategy**: Navy TPOC indicated interest in BST's industrial plan for commercial market expansion and non-DOD weather applications; this is aligned with Phase II strategic planning and does not indicate contract changes.
-- **Stale Task Note**: "Fix ISARRA data for James Pinto" (due June 5) is overdue; clarify with Maciej whether this task should be closed, rescheduled, or deprioritized relative to September 1 Final Report and Invoice deliverables.
 - **Next Steps**: 
   1. Finalize Option Final Report (CLIN 0007) for September 1, 2026 deadline (Maciej Stachura).
-  2. Prepare Final Invoice (
+  2. Prepare and submit Final Invoice (CLIN 1007; $14,446) by September 1, 2026 (Meredith O'hara Needham).

@@ -38,8 +38,8 @@ _Generated from Asana project overviews. 49 active projects._
 | 032_3 | Sasquatch S0s x 4 | Notre Dame | $88,705 | — | Yes |
 | 043_3 | ByLight M2/Halo | By Light | $126,629 | — | Yes |
 | 044_1 | EMASS Chip Integration | EMASS | $90,000 | — | Yes |
-| 212_1 | S2 Simulator | NASA (Will Wade) | $2,900 | — | — |
-| 212_2 | NASA S2 & Parts | NASA (Will Wade) | $89,844 | — | — |
+| 212_1 | S2 Simulator | NASA (Will Wade) | $2,900 | — | Yes |
+| 212_2 | NASA S2 & Parts | NASA (Will Wade) | $89,844 | — | Yes |
 | 300_3 | 2026 IDIQ (Hurricane) | NOAA | $483,000 | #sbir-hurricane | Yes |
 | 350_4 | 2024 USGS - Chile (Mexico) | USGS (Volcano Science Cen | $124,230 | #sbir-volcano | Yes |
 | 451_1 | INSTAAR S3 x 2 | INSTAAR, CU Boulder | $120,000 | — | — |

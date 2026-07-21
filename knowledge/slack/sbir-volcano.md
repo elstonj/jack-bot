@@ -85,6 +85,12 @@ The channel covers activities from 2020 through July 2026, with high activity du
 - **Status**: Decision finalized - operations will likely proceed from Paso de Cortés as the designated takeoff/landing location
 - **Reference tool**: Google Earth project created documenting candidate locations
 
+**Popocatépetl Flight Planning Parameters (July 20, 2026)**
+- **Altitude Profile Decision**: Selected level flight at 120m AGL above highest volcano point (5,380m elevation) over terrain-following approach
+- **Rationale for Level Flight**: Reduces mission complexity from 85 waypoints/90km (terrain-following) to 34 waypoints/39km (level); maintains communication line-of-sight on far side of crater; avoids excessive climbing/descending in challenging terrain and wind environments at altitude where S3 may struggle to maintain required climb rates
+- **Approved Parameters**: 80% overlap in both directions maintained
+- **Performance Consideration**: S3 will operate above 100 km/h true airspeed at that altitude
+
 ## Projects & Initiatives
 
 **Makushin Volcano Monitoring (Alaska)**
@@ -105,6 +111,3 @@ The channel covers activities from 2020 through July 2026, with high activity du
 - **Significance**: Photogrammetry payload being adapted for Popocatépetl mission; performance confirmation indicates readiness for conversion
 
 **Popocatépetl Volcano (Mexico)**
-- **Status**: Deployment deferred from April 19-27, 2026; S3 repairs completed and testing underway as of late June 2026; photogrammetry payload conversion progressing with test flight planned before end of July 2026; payload system performance validated as of July 2, 2026; flight permissions documentation target completion by week of July 6, 2026; S3 operator's manual in progress as of July 13-14, 2026 with submission expected very soon; takeoff/landing location determined as Paso de Cortés as of July 17, 2026
-- **Significance**: SO2 output 10-50x higher than Makushin
-- **Aircraft**: S3 (Registration 20686S30001) selected

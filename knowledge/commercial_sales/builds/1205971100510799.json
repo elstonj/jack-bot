@@ -39,6 +39,13 @@
       "received": false,
       "vendor": "Black Swift Technologies",
       "order_date": null
+    },
+    {
+      "name": "S0 ESC/servos",
+      "ordered": true,
+      "received": true,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
     }
   ],
   "tracking_number": null,
@@ -49,8 +56,8 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Paid order (Inv #1667, $21,181.81, paid 2025-05-07). Two S0 VTOL units in QC; on track for August/September 2026 ISARRA Flight Week delivery per Kevin's May 19-21, 2026 emails. Settlement agreement with ERAU per legal disclosure regarding prior delays. Receive-by 2026-08-31.",
+  "notes": "Paid order (Inv #1667, $21,181.81, paid 2025-05-07). Two S0 VTOL units in QC with new ESC/servos as of mid-July 2026. On track for August/September 2026 ISARRA Flight Week delivery per Kevin's May 19-21, 2026 emails and Jack's confirmation to deliver at ISARRA site. Settlement agreement with ERAU per legal disclosure regarding prior delays. Receive-by 2026-08-31. QBO also shows Inv #1730 (2026-01-08, $2,462.50, unpaid balance) \u2014 appears to be follow-on or ancillary charges; primary delivery tracked under Inv #1667.",
   "missing_fields": [],
-  "last_evidence_date": "2026-07-16",
+  "last_evidence_date": "2026-07-20",
   "last_contact_date": "2026-05-21"
 }

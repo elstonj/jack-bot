@@ -1,5 +1,6 @@
 # Flight Testing
 
-Small project with 2 tasks.
-- [Done] Validation flight #3 — Dan Prendergast
-- [Done] Validation Flight #2 — Dan Prendergast
+Small project with 3 tasks.
+- [Open] S10019 Autopilot Test — Maciej Stachura
+- [Open] S30001 Rear Motor Test — Ethan Domagala
+- [Open] Murphy's Pond Practice Deployment — Spencer Hoehl

@@ -1,69 +1,72 @@
 # Jack Elston — Email Patterns (UPDATED)
 
 ## Communication Volume
-- **Total messages scanned:** 6,862 (6,826 prior + 36 new Jul 19–20)
-- **Date range:** April 1–July 20, 2026
+- **Total messages scanned:** 6,962 (6,862 prior + 100 new Jul 20–21)
+- **Date range:** April 1–July 21, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **Jul 19–20 activity (36 messages):** ~25% human correspondence (KRATEO compensation alignment, SOCOM demo coordination, NOAA operations, recruitment inquiry); ~53% automated vendor/logistics/purchasing (Harbor Freight, WordPress, USPS, HeliDirect, AliExpress, UPS, Mt. Princeton); ~11% system/administrative alerts (Human Interest 401k signature reminder, DISA WAWF payment confirmations, Toggl Track); ~11% NOAA operational/scientific distributed lists (Hurricane Field Program, flight tracks, ET/HFP tag-up meetings)
+- **Jul 20–21 activity (100 messages):** ~30% human correspondence (KRATEO partnership intensification, SOCOM demo logistics, NOAA hurricane ops, recruiting kickoffs, technical coordination); ~38% automated vendor/logistics/purchasing (JawsTec, Harbor Freight, WordPress, Pirate Ship, Battery Junction, USPS, HALO-Aero quotes); ~17% system/administrative alerts (NASA Guest account setup, Login.gov authentication, CDLE FAMLI, DISA WAWF); ~15% NOAA operational/scientific distributed lists (Hurricane Field Program flight tracks, tropical depression coordination, sascwatch-all listserv)
 
 ## Key Correspondents
 
-### Top Internal Partners (Sustained + New Escalations Jul 19–20)
+### Top Internal Partners (Intensifying Engagement)
 
-1. **Sona Raziabeegum - Krateo Sky** (sona@krateosky.com) — **KRATEO PARTNERSHIP + COMPENSATION ALIGNMENT (ESCALATION):**
-   - **New high-priority exchanges (Jul 19–20):**
-     - BST compensation adjustments, for your sign-off (Jul 20, 04:40 IMPORTANT) — Sona sending compensation adjustment to Jack for direct sign-off
-     - Re: BST compensation adjustments (Jul 19, 23:03 DRAFT) — Jack drafting response to Sona re: compensation
-     - RE: Space (Jul 20, 05:10 IMPORTANT) — Sona & Meredith Needham copying Jack on space negotiation follow-up
-     - Re: BST Compensation Benchmarking (Jul 19, 17:10 SENT) — Jack responding directly to Sona on compensation benchmarking
-   - **Pattern:** Jack as **primary decision-maker on compensation/HR adjustments** involving Krateo stakeholder approval; **dual-authority pattern** (Jack + Krateo sign-off required)
+1. **Sona Raziabeegum - Krateo Sky** (sona@krateosky.com) — **KRATEO COMPENSATION + RECRUITING ALIGNMENT (MAJOR ESCALATION):**
+   - **New high-priority exchanges (Jul 20–21):**
+     - Re: BST compensation adjustments, for your sign-off (Jul 21, 01:54 SENT) — Jack responding directly to Sona on compensation sign-off
+     - Re: KS / BST Recruiting Kickoffs (Jul 21, 01:38 SENT) — Jack addressing recruiting kickoff coordination with Krateo
+     - Re: Supply Chain Specialist, recruiting kickoff (Jul 21, 01:02 SENT) — Jack engaged in recruitment planning
+     - RE: KS / BST Recruiting Kickoffs (Jul 20, 23:37 IMPORTANT) — Sona copying Jack on recruiting strategy
+     - Multiple recruiting kickoff threads (Supply Chain Specialist, Technical Project Manager, North America Account Executive) — Sona initiating **BST-Krateo joint recruiting** with Creative Alignments recruiter (Hadley Solomon, Danielle Octavi)
+   - **Pattern:** Jack serving as **primary decision-maker on dual-authority HR/compensation matters** (BST + Krateo approval required); **active co-recruitment** with Krateo partners indicates **integrated hiring function**
 
-2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **SOCOM + DEFENSE OPERATIONS (NEW ESCALATION):**
-   - **New high-priority exchanges (Jul 19–20):**
-     - SOCOM Demo Aug 16-19 in Nevada (Jul 19, 16:46 IMPORTANT) — Daniel escalating SOCOM demo coordination to Jack, Maciej, Joshua Fromm, + Krateo partners (Bob Smith, Lisa Marie Cheney)
-     - Re: SOCOM Demo Aug 16-19 in Nevada (Jul 19, 16:57 SENT) — Jack direct response to Daniel on SOCOM demo logistics
-     - Re: (U) [Non-DoD Source] Re: RFI S0 (Jul 19, 16:51 IMPORTANT) — Daniel's chain with USSOCOM (Evan M. Wolff) re: RFI S0; Jack visibility suggests **S0 platform involvement in SOCOM submission**
-   - **Pattern:** Jack directly engaged in **major SOCOM demonstration** (Aug 16-19 Nevada); involves **Krateo co-leadership visibility** (Bob Smith, Lisa Marie); **classified/sensitive DoD sourcing** (Non-DoD Source marking)
+2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **SOCOM + USSOCOM RFI (ACTIVE ENGAGEMENT):**
+   - **New high-priority exchanges (Jul 20–21):**
+     - Re: SOCOM Demo Aug 16-19 in Nevada (Jul 21, 00:18 SENT) — Jack direct response to Daniel on SOCOM demo planning
+     - Re: SOCOM Demo Aug 16-19 in Nevada (Jul 20, 11:17 IMPORTANT) — Daniel escalating demo logistics to Jack
+     - Re: (U) [Non-DoD Source] Re: RFI S0 (Jul 20, 13:47 IMPORTANT) — Daniel responding to USSOCOM (Evan M. Wolff) with Jack visibility
+     - Re: [EXTERNAL] Re: UAS Deployment at Popocatépetl (Jul 20, 17:36 IMPORTANT) — Daniel coordinating with UNAM Mexico (Paulino Alonso Rivera) on UAS deployment
+   - **Pattern:** Jack **embedded in SOCOM demo execution** (Aug 16-19 Nevada confirmed); **S0 platform** central to RFI response; **international UAS operations** (Mexico volcanology) coordinated through Daniel
 
-3. **Maciej Stachura** (stachura@blackswifttech.com) — **SOCOM + NOAA OPERATIONS:**
-   - Copied on SOCOM Demo (Jul 19, 16:46) and HFP-APHEX call invitation (Jul 19, 13:50)
-   - **Pattern:** Maciej as **secondary operations lead** on both defense demo and NOAA hurricane operations
+3. **Maciej Stachura** (stachura@blackswifttech.com) — **NOAA OPERATIONS + NASA PROPOSALS (DEEPENING):**
+   - **New high-priority exchanges (Jul 20–21):**
+     - Copied on SOCOM Demo (Jul 21, 00:18)
+     - Copied on QC Website coordination (Jul 21, 02:16) — Jack + Maciej + Brian Grubel (Krateo)
+     - Re: Cost Estimate for NASA Juno Proposal (Jul 20, 15:41 IMPORTANT) — Maciej coordinating with WeatherStream (ERYAN Dai) on NASA cost estimate
+     - Re: Cost Estimate for NASA Juno Proposal (Jul 20, 12:06 IMPORTANT) — Beck Cotter escalating NASA Juno proposal to Maciej
+     - Preliminary Flight Tracks for Wednesday, Jul 22, 2026 (Jul 20, 20:00 IMPORTANT) — Jason Sippel (NOAA) direct distribution to Maciej on hurricane ops
+   - **Pattern:** Maciej managing **NASA Juno proposal costing** (WeatherStream vendor); **integrated with NOAA HFP daily operations** (flight track distribution)
 
-### Top External Partners (Strategic Deepening)
+4. **Brian Grubel - Krateo Sky** (Brian@krateosky.com) — **KRATEO OPERATIONS + RECRUITMENT (NEW ESCALATION):**
+   - **New high-priority exchanges (Jul 20–21):**
+     - Re: Technical Project Manager, recruiting kickoff (Jul 21, 00:51 SENT) — Jack responding to Brian on recruitment
+     - QC Website (Jul 21, 02:16 SENT) — Jack directly coordinating website QC with Brian + Maciej
+     - Re: Technical Project Manager, recruiting kickoff (Jul 21, 01:15 IMPORTANT) — Brian escalating recruiting (with Creative Alignments recruiters Hadley Solomon, Danielle Octavi)
+   - **Pattern:** Brian as **Krateo operations point** on recruitment + technical projects (QC Website); suggests **collaborative product/website development**
 
-#### **NOAA FEDERAL — OPERATIONAL INTENSIFICATION + HURRICANE SEASON**
+### Top External Partners (Operational Integration + Strategic Expansion)
 
-1. **Joe Cione - NOAA Federal** (joe.cione@noaa.gov) — **NOAA OPERATIONS LEAD:**
-   - Updated invitation: ET/HFP tag up (Jul 20, 00:50 IMPORTANT) — Joe scheduling Monday Jul 20, 7:45–8:45am MDT meeting with Jack, Andrew Hazelton, Annette Hollingshead, Danielle Varwig, Heather Holbach, Jason Sippel, Jun Zhang, Laura Rock, Mark Rogers, Nikolai Pawlenko, Joshua Wadler
-   - **Pattern:** Jack **integrated into core NOAA Hurricane Field Program operational meetings** (seating/crewing/ops coordination for Tropical Depression tracking)
+#### **NOAA FEDERAL — HURRICANE OPS (REAL-TIME OPERATIONAL INTEGRATION)**
 
-2. **Jason Sippel - NOAA Federal** (jason.sippel@noaa.gov) — **NOAA SCIENTIFIC + OPERATIONAL DISTRIBUTION:**
-   - Invitation: HFP-APHEX Call (Jul 19, 13:50 IMPORTANT) — Jason directly inviting Jack to Mon Jul 20, 7–7:15am MDT call; 50+ recipient scientific consortium (UCSD, MIT Lincoln Lab, UM, WHOI, Navy, Air Force, academic institutions)
-   - Preliminary Flight Tracks for Tuesday, Jul 21, 2026 (Jul 19, 16:35 IMPORTANT) — Jason distributing tropical depression flight coordination; Jack in direct recipient list (50+ organization scientific/operational personnel)
-   - Proposed Flight Track for 20260720I1 (TD2) (Jul 19, 13:05 IMPORTANT) — Jason operational flight track distribution to NOAA operations + Navy/Air Force liaisons; Jack in distribution
-   - Hurricane Field Program POD (Jul 19, 15:41 IMPORTANT) — Jason managing NOAA internal operations coordination
-   - **Pattern:** Jack **embedded in real-time NOAA hurricane operations planning** (TD2 tracking, flight coordination, crewing); **daily operational sync** during active tropical season
+1. **Jason Sippel - NOAA Federal** (jason.sippel@noaa.gov) — **NOAA HFP OPERATIONS LEAD:**
+   - **New operational distributions (Jul 20–21):**
+     - Preliminary Flight Tracks for Wednesday, Jul 22, 2026 (Jul 20, 20:00 IMPORTANT) — Direct Jack distribution in 70+ recipient scientific/operational consortium
+     - **Pattern:** Jack **daily recipient** of operational flight track coordination; tropical depression (TD2) tracking coordination **active on 24-hour cycle**
 
-3. **Nikolai Pawlenko - NOAA Federal** (nikolai.f.pawlenko@noaa.gov) — **NOAA OPERATIONS LIAISON (CONTINUING):**
-   - Copied on ET/HFP tag-up (Jul 20, 00:50) — Joe Cione's operational meeting invitation
-   - **Pattern:** Jack maintaining **direct ops channel** with Nikolai (sustained from prior period)
+2. **Joe Cione - NOAA Federal** (joe.cione@noaa.gov) — **NOAA OPERATIONS LEAD (CONTINUING):**
+   - **No new direct emails in Jul 20–21 batch** but sustained operational integration evidenced by prior period
 
-#### **DEFENSE/USSOCOM — CLASSIFIED RFI + DEMO COORDINATION**
+3. **Roland Brian - NOAA Affiliate** (roland.brian@noaa.gov) — **NOAA EQUIPMENT/LOGISTICS COORDINATION:**
+   - **New exchanges (Jul 20–21):**
+     - Re: Charging S0's (Jul 20, 16:35 SENT) — Jack responding to Roland on S0 platform charging/logistics
+     - Re: Charging S0's (Jul 20, 12:46 IMPORTANT) — Roland inquiring on S0 charging status to Jack
+   - **Pattern:** Jack **directly managing S0 platform logistics** for NOAA operations (charging, maintenance, deployment readiness)
 
-1. **Evan M. Wolff - USSOCOM** (evan.m.wolff.mil@socom.mil) — **USSOCOM RFI LEAD (INDIRECT):**
-   - Daniel Prendergast forwarding to Jack: Re: (U) [Non-DoD Source] Re: RFI S0 (Jul 19, 16:51 IMPORTANT) — USSOCOM's RFI S0 communication; Daniel escalating to Jack/Maciej/Joshua Fromm + Krateo partners
-   - **Pattern:** Jack **visibility into USSOCOM RFI process** for S0 platform; **non-DoD source coordination** implies vendor/contractor RFI response pathway
+4. **Nicholas Underwood - NOAA Federal** (nicholas.underwood@noaa.gov) — **NOAA OPS COORDINATION:**
+   - **New exchanges (Jul 20–21):**
+     - Fwd: ET Hotwash Due Out (Jul 20, 13:28 IMPORTANT) — Nick forwarding ET (Evaluation Team) hotwash report to Jack
+     - Re: Checklist (Jul 20, 09:34 SENT) — Jack responding to Nick on operational checklist
+   - **Pattern:** Jack participating in **post-flight evaluation** (hotwash) process; **daily operational checklists** coordinated
 
-#### **KRATEO SKY — DUAL-AUTHORITY PARTNERSHIP (DEEPENING)**
-
-1. **Bob Smith & Lisa Marie Cheney - Krateo Sky** (Bob@krateosky.com, LisaMarie@krateosky.com) — **KRATEO LEADERSHIP:**
-   - Copied on SOCOM Demo coordination (Jul 19, 16:46) — Daniel Prendergast's escalation includes Krateo partners in demo planning
-   - **Pattern:** **Krateo co-leadership** on SOCOM demonstration; suggests **formal co-bidding or partnership structure** for defense contracts
-
-2. **Sona Raziabeegum - Krateo Sky** (sona@krateosky.com) — **KRATEO HR/COMP ALIGNMENT (SEE ABOVE):**
-   - Escalation to Jack for compensation sign-off indicates **Krateo veto/approval rights** on BST HR decisions
-
-### External Contacts (Secondary)
-
-1. **Michael E. Drews - Lockheed Martin** (michael.e.drews@lmco.com) — **LMCO PARTNER (EDUCATIONAL ADVISORY):**
-   - RE: REMINDER: Request to Renew Term on EAB (Jul
+5. **Heather Holbach - NOAA Affiliate** (heather.holbach@noaa.gov) — **NOAA FLIGHT OPERATIONS (NEW VISIBLE ENGAGEMENT):**
+   - **New operational distributions (Jul 20):**
+     - Proposed Flight
