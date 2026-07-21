@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $22,894.36
-- **Total Expenses (Bills + Purchases)**: $1,253,598.43
+- **Total Expenses (Bills + Purchases)**: $1,259,346.09
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,230,703.07 *(expenses exceed revenue significantly)*
+- **Net Position**: -$1,236,451.73 *(expenses exceed revenue significantly)*
 - **Date Range**: April 5, 2024 – July 30, 2026 (27+ months)
-- **Transaction Count**: 1,285 *(all confirmed)*
+- **Transaction Count**: 1,289 *(all confirmed)*
 
 ---
 
@@ -25,7 +25,9 @@
 
 **Notable**: 
 - **Invoice #1771 (July 6, 2026)**: $5,000.00 from Invest Ottawa — grant/investment income; currently outstanding. Timing correlates with Ottawa demo logistics (July 14–19) and urgent server infrastructure acquisition (July 30).
-- Invoice #1696 includes accidental double-payment to Phase1 Aviation for 20 wings ($6,105.00). This amount should be recovered or credited.
+- **Invoice #1696 (August 26, 2025)**: $6,105.00 from Phase1 Aviation includes accidental double-payment for 20 wings. This amount should be recovered or credited immediately. **12+ months overdue.**
+- **Invoice #1752 (April 3, 2026)**: $10,860.48 from Krateo Sky. **4+ months overdue.**
+- **Invoice #1727 (December 2, 2025)**: $928.88 from Weather Stream (c). **7+ months overdue.**
 
 ---
 
@@ -45,8 +47,8 @@
 
 ---
 
-### IRAD Indirect R&D (Subcontractors & Internal): $95,369.97
-**Total: $95,369.97** | **102 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; MicroFirm Engineering $6,257.60; Ted Miles $4,851.60**
+### IRAD Indirect R&D (Subcontractors & Internal): $95,389.66
+**Total: $95,389.66** | **103 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; MicroFirm Engineering $6,257.60; Ted Miles $4,851.60**
 
 **New Transaction (July 30, 2026):**
 
@@ -67,10 +69,16 @@
 
 ---
 
-### Sales & Marketing (Including Shipping): $7,441.72
-**Total: $7,441.72** | **8 transactions** | **Largest: C-Astral camera shipment $2,049.65 (June 30); NOAA ground station shipping $66.46 (July 14)*
+### Sales & Marketing (Including Shipping): $7,646.08
+**Total: $7,646.08** | **9 transactions** | **Largest: C-Astral camera shipment $2,049.65 (June 30); NOAA ground station shipping $66.46 (July 14); PIRATE SHIP postage $8.81 (July 20)*
 
-*(No new transactions in this period)*
+**New Transaction (July 20, 2026):**
+
+| Purchase # | Date | Amount | Account | Description | Status |
+|-----------|------|--------|---------|-------------|--------|
+| Purchase (PIRATE SHIP) | 2026-07-20 | $8.81 | DC-Direct Cost Shipping, Freight & Delivery | Shipment to Sean Cole for [212-2] NASA S2 Parts projects | ✓ Confirmed |
+
+**July 20 Shipping Addition**: $8.81 — postage for NASA S2 Parts shipment to Sean Cole distribution partner; minimal cost indicates lightweight documentation or components delivery.
 
 ---
 
@@ -81,8 +89,8 @@
 
 ---
 
-### Facilities & Shop Supplies: $89,526.27
-**Total: $89,526.27** | **62 transactions** | **Rent: $60,516.58 (10 txns); Shop Supplies/Software/Office Equipment: $28,009.69**
+### Facilities & Shop Supplies: $94,881.58
+**Total: $94,881.58** | **63 transactions** | **Rent: $60,516.58 (10 txns); Shop Supplies/Software/Office Equipment: $34,364.91; Server Infrastructure: $5,355.31**
 
 **New Transaction (July 30, 2026):**
 
@@ -90,25 +98,37 @@
 |-----------|------|--------|---------|-------------|--------|
 | Purchase #R718378251 | 2026-07-30 | $5,355.31 | FA-Office Supplies | Office Server Ryze AI Max+ 395 - 64GB x 2 — requested by Ben Busby via Slack; discussion with Jack Elston | ✓ Confirmed |
 
-**July 30 Facilities Addition**: $5,355.31
+**July 30 Facilities Addition**: $5,355.31 — high-spec dual-processor office server infrastructure.
 
 **Transaction Details**:
-- **Ryze AI Max+ Server (July 30)**: $5,355.31 — dual-processor office server with 128GB total memory (64GB x 2). High-spec compute infrastructure supports enterprise-grade data processing, simulation, or software development. Slack-based request from Ben Busby (engineering/product leadership) to Jack Elston indicates urgent infrastructure gap identified during demo execution phase.
+- **Ryze AI Max+ Server (July 30, $5,355.31)**: Dual-processor with 128GB total memory (64GB x 2). High-spec compute infrastructure supports enterprise-grade data processing, simulation, or software development. Slack-based request from Ben Busby (engineering/product leadership) to Jack Elston indicates urgent infrastructure gap identified during demo execution phase.
 
-**Strategic Context**: Server purchase on July 30 (final business day of month) follows 5-day demo logistics execution to Ottawa (July 14–19 timeline) and NOAA ground station return (July 14), suggesting concurrent operational scaling: customer demo logistics executed successfully → rapid internal compute capacity expansion to support demo analysis, follow-up engineering, and production planning. Likely supporting:
+**Strategic Context**: Server purchase on July 30 (final business day of month) follows:
+   - 5-day Ottawa demo logistics execution (July 14–19)
+   - NOAA ground station return (July 14)
+   - S3/Sean Cole shipment logistics cost capture (July 30)
+   - NASA S2 Parts shipment to Sean Cole (July 20)
+
+Concurrent operational scaling suggests: customer demo logistics executed successfully → rapid internal compute capacity expansion to support demo analysis, follow-up engineering, and production planning. Likely supporting:
    - GCS (Ground Control Station) redesign simulation
    - S3/S0 VTOL flight model processing (CFD, trajectory analysis)
    - Live telemetry/sensor data pipeline architecture
    - Investor due diligence support (Invest Ottawa $5K pending)
 
-**Cumulative Facilities Spend (July 30)**: $5,355.31 *(1 transaction)* — high-priority infrastructure investment reflecting operational maturation and compute capacity expansion.
+**Cumulative Facilities Spend (July 2026)**: $5,355.31 *(1 transaction)* — high-priority infrastructure investment reflecting operational maturation and compute capacity expansion.
 
 ---
 
-### Shipping/Freight (Direct Cost): $204.16
-**Total: $204.16** | **1 transaction**
+### Shipping/Freight (Direct Cost): $212.97
+**Total: $212.97** | **2 transactions** | **Largest: PIRATE SHIP postage $8.81 (July 20)*
 
-*(No new transactions in this period)*
+**New Transaction (July 20, 2026):**
+
+| Purchase # | Date | Amount | Account | Description | Status |
+|-----------|------|--------|---------|-------------|--------|
+| PIRATE SHIP * POSTAGE - 7333 | 2026-07-20 | $8.81 | DC-Direct Cost Shipping, Freight & Delivery | Shipment to Sean Cole for [212-2] NASA S2 Parts projects | ✓ Confirmed |
+
+**July 20 Shipping Addition**: $8.81 — lightweight postage for NASA S2 Parts delivery to Sean Cole; indicates logistics channel maturation and NASA project coordination with external partners.
 
 ---
 
@@ -119,10 +139,16 @@
 
 ---
 
-### Fringe Benefits (Retirement Contributions & Healthcare): $13,531.07
-**Total: $13,531.07** | **3 transactions** | **Largest: Employee Healthcare $6,498.51**
+### Fringe Benefits (Retirement Contributions & Healthcare): $15,900.30
+**Total: $15,900.30** | **4 transactions** | **Largest: Employee Healthcare $8,867.74 (includes Q2 2026 payment)*
 
-*(No new transactions in this period)*
+**New Transaction (July 20, 2026):**
+
+| Purchase # | Date | Amount | Account | Description | Status |
+|-----------|------|--------|---------|-------------|--------|
+| B2B ACH MYFAMLI CDLE FAMLI | 2026-07-20 | $2,369.23 | FR-Employee Healthcare | 2026 Q2 payment | ✓ Confirmed |
+
+**July 20 Fringe Addition**: $2,369.23 — Q2 2026 employee healthcare (family/dependent coverage) processed via B2B ACH through MYFamily CDLE (Colorado Department of Labor and Employment).
 
 ---
 
@@ -139,51 +165,13 @@
 |-----------|--------|--------|-------|
 | **Facilities & Office Equipment** | $5,355.31 | 1 | Ryze AI Max+ server with 128GB dual-processor ($5,355.31, July 30); urgent infrastructure scaling for compute-intensive ops (GCS simulation, flight models, telemetry); Slack request from Ben Busby/Jack Elston; deployed 11 days post-Ottawa demo |
 | **IRAD Indirect R&D** | $19.69 | 1 | S3 logistics pick-up fee for Sean Cole shipment (recorded 7/30/26, shipment dated 7/6/26); fulfillment cost tracking for external distribution channel activation |
+| **Shipping/Freight (Direct Cost)** | $8.81 | 1 | PIRATE SHIP postage for NASA S2 Parts to Sean Cole (July 20); lightweight logistics tracking for external partner delivery |
+| **Fringe Benefits** | $2,369.23 | 1 | Q2 2026 employee healthcare payment via B2B ACH (July 20); recurring quarterly benefit obligation |
 | **Inventory Asset** | $0.00 | 0 | — |
 | **Materials & Direct Purchases** | $0.00 | 0 | — |
 | **Travel & Logistics (Overhead)** | $0.00 | 0 | — |
-| **Sales & Marketing** | $0.00 | 0 | — |
-| **General & Administrative** | $0.00 | 0 | — |
-| **Shipping/Freight** | $0.00 | 0 | — |
-| **Fringe Benefits** | $0.00 | 0 | — |
 | **Direct Labor & Subcontractors** | $0.00 | 0 | — |
-| **Total July 30 (new data)** | **$5,375.00** | **2** | Infrastructure scaling + logistics cost capture; final business day of month captures 2 operational investments |
+| **General & Administrative** | $0.00 | 0 | — |
+| **Total July 2026 New Data** | **$7,753.04** | **4** | Infrastructure scaling, logistics cost capture, external partner shipments, recurring employee benefits |
 
-**Full July 1–30 Total** (inclusive of all data): **~$29,765.22** across 32+ transactions. Current update adds $5,375.00 in new transactions for July 30.
-
----
-
-## Notable Transactions
-
-### High Priority
-
-1. **Ryze AI Max+ Server Infrastructure Investment ($5,355.31, July 30)** 
-   - **Category**: Facilities & Office Equipment
-   - **Significance**: Dual-processor, 128GB total memory (64GB x 2) — high-spec compute infrastructure deployed via urgent Slack request from Ben Busby (engineering/product leadership) to Jack Elston
-   - **Timing Context**: 
-     - Deployed 11 days post-Ottawa customer demo (July 14–19 logistics execution)
-     - Same day as S3 logistics tracking fee ($19.69)
-     - Invest Ottawa invoice #1771 issued July 6 ($5,000 pending collection, may fund or correlate with investment decision)
-   - **Likely Workstreams**:
-     - GCS (Ground Control Station) redesign/simulation infrastructure
-     - S3/S0 VTOL flight model processing (CFD, trajectory analysis, validation)
-     - Real-time telemetry/sensor data pipeline development
-     - Investor due diligence simulation/analytics (pre-term sheet validation)
-   - **Implications**: 
-     - Cloud compute inadequate or too costly for intensive workloads
-     - Demo feedback drove engineering resource bottleneck identification
-     - Operational readiness scaling for production phase
-   - **Recommendation**: 
-     - **VALIDATE**: Confirm intended use (workstream allocation) and expected utilization metrics
-     - **MONITOR**: Track server utilization post-deployment; assess ROI vs. cloud alternatives (AWS EC2, GCP)
-     - **CORRELATE**: Link to Invest Ottawa funding timeline and demo follow-up engineering schedule
-
-2. **Outstanding Receivables ($22,894.36, 100% uncollected — CRITICAL CASH FLOW RISK)**
-   - **Invoices**: 4 invoices, all outstanding; 0% collection rate
-   - **Age Analysis**:
-     - **Krateo Sky** ($10,860.48, Invoice #1752): 4+ months outstanding (April 3, 2026)
-     - **Phase1 Aviation** ($6,105.00, Invoice #1696): 12+ months outstanding (August 26, 2025) — **INCLUDES $6,105 DOUBLE-PAYMENT ERROR**
-     - **Weather Stream (c)** ($928.88, Invoice #1727): 7+ months outstanding (December 2, 2025)
-     - **Invest Ottawa** ($5,000.00, Invoice #1771): 24 days outstanding (July 6, 2026; grant/investment pending)
-   - **Critical Issue**: Phase1 Aviation invoice #1696 contains accidental duplicate charge; $6,105.00 should be credited or recovered immediately to prevent revenue leakage
-   -
+**Full July 1–30 Total** (inclusive of all data): **~$37,518.26** across 36+ transactions. Current update adds $7

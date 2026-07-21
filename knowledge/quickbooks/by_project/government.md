@@ -1,10 +1,10 @@
 # Government — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $4,504,553.28
-- **Total Expenses (Bills + Purchases):** $1,387,864.73
+- **Total Invoiced (Revenue):** $4,519,012.28
+- **Total Expenses (Bills + Purchases):** $1,404,419.46
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,116,688.55 (invoiced minus expenses)
+- **Net Position:** $3,114,592.82 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -12,8 +12,8 @@
 ## Revenue (Invoices & Payments)
 
 ### Summary
-- **Total Invoiced:** $4,504,553.28
-- **Total Collected (Outstanding Balance):** $3,238,242.82 remaining (invoices with open balances)
+- **Total Invoiced:** $4,519,012.28
+- **Total Collected (Outstanding Balance):** $3,252,701.82 remaining (invoices with open balances)
 - **Number of Invoices:** 76 active invoices
 
 ### Major Revenue Streams by Project
@@ -23,7 +23,7 @@
 | (400-5) SMM Phase II 22.4D | $1,699,725.00 | CLIN work (004-008): Algorithm dev, field testing, refinement; Soil Moisture Mapping |
 | [300-3] 2026 IDIQ | $720,000.00 | 6 invoices (Invoices 2-6: #1737–#1741), CLIN 1001 modification P26002 + Operational Testing & Support (#1757) |
 | [301-3] S0 Hurricane Phase II 2025 | $844,449.61 | Progress payments, platform deliveries, training & operations |
-| [550-1] Navy SBIR Magnetometer | $691,131.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750: $14,459.00) |
+| [550-1] Navy SBIR Magnetometer | $705,590.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750: $14,459.00) |
 | [550-2] Navy STTR Hazardous Weather | $251,326.00 | Kick-off, progress, final reports & TABA; Option period progress (#1767) |
 | [200-14] Autonomy | $156,211.00 | CLIN 0001-0005, initial through final invoicing |
 | [200-11] NASA Persistence Demo | $74,428.00 | Interim & final demonstration reports |
@@ -60,14 +60,19 @@
 
 ---
 
-### **Subcontractors: $7,000.00**
-**Number of transactions:** 1  
+### **Subcontractors: $13,777.40**
+**Number of transactions:** 2  
 **Key transactions:**
-- **Bill #AR262124** (2026-06-09): **$7,000.00** — Old Dominion University Research Foundation
+- **Bill #AR262124** (2026-06-09): $7,000.00 — Old Dominion University Research Foundation
   - Subcontract Agreement NO. N6833525C0270, Project No. 500567-010
   - Payment for STTR: N25A-T025-0009 — "Expendable Air-Sea Profiling Observations in Hazardous Weather Conditions via Small Aircraft"
   - $3,500.00 February 2026 Invoice + $3,500.00 June 2026 Invoice
   - **Project:** [550-2] Navy STTR Hazardous Weather
+
+- **Bill #1116** (2026-07-20): **$6,777.40** — PHASE1 AVIATION LLC [DC-Direct Cost Subcontractors]
+  - **S0 Model wings x 10 (NOAA IDIQ - extras purchased)**
+  - Order placed by Josh Fromm via email; NOAA requested more S0s via email
+  - *Notable: Unplanned supplemental procurement for NOAA IDIQ expansion*
 
 ---
 
@@ -76,8 +81,8 @@
 
 ---
 
-### **Materials & Supplies: $527,383.31**
-**Number of transactions:** 230  
+### **Materials & Supplies: $540,239.30**
+**Number of transactions:** 233  
 
 **Key vendors & items:**
 
@@ -90,7 +95,8 @@
 - **JAWSTEC:** 
   - **Purchase #69825** (2026-07-09): $1,387.60 [DC-Direct Material Purchases] — JAWSTEC components
   - **Purchase #69631** (2026-06-29): $562.44 [DC-Direct Material Purchases] — JAWSTEC IDIQ components
-  - **Updated JAWSTEC total: $21,577.66**
+  - **Purchase #JT70002** (2026-07-20): **$2,500.33** [DC-Direct Material Purchases] — JAWSTEC materials
+  - **Updated JAWSTEC total: $24,077.99**
 
 - **QuSpin, Inc. — Gen 2.0 QTFM Sensor:**
   - **Bill #3419** (2026-07-13): **$10,000.00** [DC-Direct Material Purchases] — Gen 2.0 QTFM Sensor
@@ -137,16 +143,4 @@
     - $53.70 — Materials IDIQ
     - $138.40 — Materials for [550-1] Navy Magnetometer
 
-  - **Purchase #1010** (2026-07-30): **$8,355.00** [DC-Direct Material Purchases] — **S0 Deployment Tubes & Hardware**
-    - *Largest single materials transaction in latest data pull*
-    - **Project:** Attributed to direct S0 platform development/deployment
-
----
-
-### **Travel: $262,922.73**
-**Number of transactions:** 47  
-
-**Key vendors:**
-- **Airline tickets & transportation (American Airlines, Southwest, United, JetBlue, Frontier, etc.):** ~$95,000+
-- **Hotel accommodations (Marriott, Hilton, VRBO, local hotels):** ~$85,000+
-- **Rental vehicles (Hertz, Enterprise, A
+  - **Purchase #1010** (2026-07-30): **$8,355.00** [DC-Direct

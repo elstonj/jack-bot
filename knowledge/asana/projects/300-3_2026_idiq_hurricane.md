@@ -18,12 +18,15 @@
   - **Jack Elston** (firmware/software) — ✅ AP & PSNS firmware finalized 7/16/26 (10 days overdue); ✅ Deployment tube firmware finalized 7/16/26 (42 days overdue)
   - **Sam Hild** (QC, hardware validation, kit assembly)
   - **Nate Straus** (platform rebuild/validation, s0 builds, servo assembly) ✅ Assembly latch carrier trays completed 6/23/26
-  - **Maciej Stachura** (platform validation, magnetic calibration, parameter file validation)
+  - **Maciej Stachura** (platform validation, magnetic calibration, parameter file validation, field support)
   - **Alex Lomis** (strategic partnerships, NASA opportunities)
   - **Josh Fromm** (GCS assembly, long-lead parts, ground station delivery) — likely owner of "Deliver 2 ground stations" task
   - **Ben Busby** (web-based controller development)
-  - **Nick Pawlenko** (UxSOC liaison) — **transitioned to UxSOC HQ effective 5/29/26; reduced availability**
-  - **UASD expanded team** (as of 5/29/26: scheduling, personnel, flight planning, maintenance coordination)
+  - **Nick Pawlenko** (UxSOC liaison) — **transitioned to UxSOC HQ effective 5/29/26; reduced availability. UASD expanded team now handles scheduling, personnel, flight planning, maintenance coordination; Nick remains in process but may be pulled in other directions**
+- **Risk Signals:** 
+  - ⚠️ Ground station delivery (2 units) due 2026-07-12, unassigned and likely overdue
+  - ⚠️ **Final delivery deadline 2026-07-31 is 11 days away** (as of 7/20/26)
+  - ⚠️ Nick Pawlenko transition may impact UxSOC communication flow; mitigated by expanded UASD team involvement
 
 ## Key Deliverables & Milestones
 
@@ -56,21 +59,17 @@
 
 ## Task Summary
 
-**Asana Status (current pull):** 0 open, 2 completed tasks
+**Asana Status (current pull):** 0 open, 1 completed task
 
 **Completed Tasks:**
-- ✅ **Finalize AP & PSNS firmware** | Jack Elston | Due 2026-06-26 | **Completed 2026-07-16** (10 days overdue)
-- ✅ **Finalize deployment tube firmware** | Jack Elston | Due 2026-06-04 | **Completed 2026-07-16** (42 days overdue)
+- ✅ **Figure out why S0-70 rolled over during CAT on 04-09** | Maciej Stachura | Due 2026-05-08 | **Completed 2026-07-20** (73 days overdue; field troubleshooting resolved late in season)
 
 **Known Open Tasks (not in current Asana pull, from prior knowledge):**
 - ⚠️ **Deliver 2 ground stations** | Unassigned (likely Josh Fromm) | Due 2026-07-12 | **CRITICAL — Unassigned and overdue or imminent**
 
-**Pattern:** Both firmware finalization tasks completed 2026-07-16 by Jack Elston — 10–42 days late. This reflects execution blockers that have now been cleared. Remaining open task is ground station delivery (2 units), due 2026-07-12, which is unassigned and likely now overdue. Project is in final execution phase with compressed timeline (10 days remaining to final 7/31/26 deadline as of 7/16/26 completion date).
+**Pattern:** Project now in final execution phase with less than 2 weeks to deadline (7/31/26). Firmware finalization completed 7/16/26 (late). Field troubleshooting task (S0-70 rollover) completed 7/20/26, 73 days overdue—reflects real-world operational debugging during active field season. Ground station delivery remains the critical open item; all invoicing 5 of 6 complete.
 
 ## Recent Activity
 
-**2026-07-16:** 
-- ✅ **Finalize AP & PSNS firmware** completed by Jack Elston (10 days overdue; due 2026-06-26)
-- ✅ **Finalize deployment tube firmware** completed by Jack Elston (42 days overdue; due 2026-06-04)
-
-**2026-07-02:** Invoices 4 ($72k, 27 days overdue) and 5 ($72k, 4 days early) submitted by Meredith O'h
+**2026-07-20:**
+- ✅ **Figure out why S0-70 rolled over during CAT on 04-09** completed by Maciej Stachura (73 days overdue; due 

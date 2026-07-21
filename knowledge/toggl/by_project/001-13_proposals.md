@@ -4,57 +4,58 @@
 - Client: [001] IRAD
 - Active: Yes
 - Billable: No
-- Total hours tracked: **325.1 hours (cumulative)** ⬆️ (+2.5h)
+- Total hours tracked: **332.3 hours (cumulative)** ⬆️ (+7.2h)
 
 ## Team Allocation
-- **Beck Cotter**: 173.7 hours (53.4% of total)
-- **Dan**: 100.3 hours (30.8% of total) ⬆️ (+2.5h)
-- **Jack Elston**: 32.3 hours (9.9% of total)
-- **Stachura**: 18.7 hours (5.7% of total)
-- **Meredith Needham**: 5.7 hours (1.8% of total)
-- **Nate**: 1.8 hours (0.6% of total)
+- **Beck Cotter**: 180.9 hours (54.5% of total) ⬆️ (+7.2h)
+- **Dan**: 100.3 hours (30.2% of total)
+- **Jack Elston**: 32.3 hours (9.7% of total)
+- **Stachura**: 18.7 hours (5.6% of total)
+- **Meredith Needham**: 5.7 hours (1.7% of total)
+- **Nate**: 1.8 hours (0.5% of total)
 
 **Primary contributors:** 
-- **Beck Cotter** — 173.7h cumulative (53.4%); dormant (current batch) after 2.0h re-entry last batch; **twelve-batch engagement window**; sustained mechanical execution across proposal workstreams
-- **Dan** — 100.3h cumulative (30.8%); **re-activated current batch** ⬆️ (+2.5h) after one-batch dormancy; leadership/oversight role; **oscillating engagement pattern confirmed**
-- **Jack Elston** — 32.3h cumulative (9.9%); proposal review engagement; dormant (eleven batches ago)
+- **Beck Cotter** — 180.9h cumulative (54.5%); **re-activated current batch** ⬆️ (+7.2h) after one-batch dormancy; sustained mechanical execution across proposal workstreams; **thirteen-batch engagement window**
+- **Dan** — 100.3h cumulative (30.2%); dormant (current batch) after 2.5h re-entry last batch; leadership/oversight role; **oscillating engagement pattern confirmed**
+- **Jack Elston** — 32.3h cumulative (9.7%); proposal review engagement; dormant (twelve batches ago)
 
 ## Activity Timeline
 
-**Current batch (2.5 hours):**
-- **Dan**: 
-  - 2.5h — *(no description)*
+**Current batch (7.2 hours):**
+- **Beck Cotter**: 
+  - 7.2h — Eryan (lava) and Kevin R. (Halo)
 
-**Recent trajectory (last 18 batches):**
-- Dan: **2.5h (current)** ⬆️ [re-activation; resuming oscillating pattern] ← [0.0h previous] ← 1.0h (two batches ago)
-- Beck Cotter: **0.0h (current)** [dormant after 2.0h previous] ← 2.0h ← 0.0h ← 4.0h ← 8.0h ← 4.0h ← 8.5h ← 8.0h ← 4.0h ← 4.0h ← 4.0h ← 4.0h ← [9.0h]
-- Jack Elston: dormant (current through 10 batches ago)
+**Recent trajectory (last 19 batches):**
+- Beck Cotter: **7.2h (current)** ⬆️ [re-activation; resuming execution cycle] ← [0.0h previous] ← 2.0h ← 0.0h ← 4.0h ← 8.0h ← 4.0h ← 8.5h ← 8.0h ← 4.0h ← 4.0h ← 4.0h ← 4.0h ← [9.0h]
+- Dan: **0.0h (current)** [dormant after 2.5h previous] ← 2.5h ← 0.0h ← 1.0h
+- Jack Elston: dormant (current through 12 batches ago)
 - Stachura: dormant (18.7h cumulative; no new activity)
 
 ## Insights
 
 **Types of work** (from documented entries):
-- **Mechanical Execution** — Beck Cotter's workstream; **currently dormant** after brief 2.0h re-entry; undocumented
-- **Leadership/Oversight** — Dan's role; **re-activated current batch**; oscillating engagement pattern now strongly confirmed; undocumented
-- **Proposal Review** — Jack Elston's workstream; frozen (eleven-batch pause ongoing)
+- **Proposal development & coordination** — Beck Cotter; current focus: *Eryan (lava) and Kevin R. (Halo)* proposal workstreams; documented (first substantive entry description)
+- **Leadership/Oversight** — Dan's role; currently dormant; last active 2.5h previous batch
+- **Proposal Review** — Jack Elston's workstream; frozen (twelve-batch pause ongoing)
 
 **Work patterns:**
-- **Dan oversight cycle: PATTERN CONFIRMED** ⬆️
-  - **Clear alternating cycle detected**: 1.0h (two batches ago) → 0.0h (previous) → **2.5h (current)**
-  - **Assessment**: Established checkpoint/coordination cadence; likely weekly or milestone-based oversight reviews
-  - **Intensity increase**: 2.5h vs. 1.0h (150% increase); suggests higher coordination complexity or expanded oversight scope this cycle
+- **Beck Cotter execution: CYCLE RESUMED** ⬆️
+  - One-batch dormancy followed by **7.2h re-engagement** (highest single-batch contribution since 8.5h five batches ago)
+  - **Workstream clarity**: First documented entry names specific proposal targets (Eryan lava, Kevin R. Halo)
+  - Suggests post-recovery sprint initiation or accelerated workstream focus
   
-- **Beck Cotter execution: RECOVERY PHASE CONCLUDED** 
-  - Two-batch re-entry window (2.0h last batch, 0.0h current) represents brief post-sprint pause
-  - **Cycle reset**: Ready for next execution sprint or awaiting task allocation
-  - Continued full documentation opacity persists (173.7h cumulative, 35.1% undescribed)
-
-- **Documentation opacity persists** 🔴
-  - Both Beck and Dan entries **undocumented** (2.5h current); continuing full opacity pattern
-  - **Cumulative undocumented**: 63.5h of combined 274.0h (23.2%) lacks descriptive context
+- **Dan oversight cycle: ENTERING DORMANCY PHASE** 
+  - Two-batch active window (1.0h → 2.5h) now reverting to dormancy
+  - **Pattern holds**: Oscillating checkpoint rhythm continues (active → dormant → active)
+  - Next activation cycle expected in 1–2 batches
+  
+- **Documentation improvement** 🟢
+  - Beck Cotter **now providing descriptive context** for first time
+  - Single entry names specific proposal targets (Eryan lava, Kevin R. Halo) — actionable reference
+  - Cumulative undocumented hours reduced slightly; trend toward transparency emerging
 
 **Critical patterns:**
-- ✅ **Dan oversight cycle: Highly predictable** emerging; two-batch oscillation (active → dormant → active) now confirmed across three consecutive cycles; suggests structured coordination/checkpoint rhythm independent of Beck execution intensity
-- ⬆️ **Dan current surge**: 2.5h (up from 1.0h two batches ago) indicates either increased scope complexity or concentrated checkpoint effort this cycle
-- 🔴 **Documentation critical gap**: Both primary contributors (Beck + Dan) providing zero descriptive context for all tracked time
-- ⏸️ **Beck readiness signal**: One-batch dormancy after re-entry suggests recovery complete; available for next execution sprint allocation
+- ✅ **Beck execution cadence: Resuming strong phase** — 7.2h current batch represents material re-engagement after one-batch rest; suggests sprint-based allocation or milestone-driven work cycles
+- ✅ **Dan oversight cycle: Predictable oscillation confirmed** — Now four consecutive cycles observable; two-batch rhythm (active/checkpoint → dormant → active) highly stable
+- 🟢 **Documentation transparency breakthrough** — Beck Cotter entry now includes specific proposal names; critical step toward full workstream visibility
+- 📊 **Proposal focus**: Eryan (lava) and Kevin R. (Halo) are current active workstreams requiring tracking

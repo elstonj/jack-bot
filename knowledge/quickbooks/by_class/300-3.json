@@ -1,17 +1,19 @@
 {
   "project_code": "300-3",
   "qbo_class_names": [
-    "[300-3] 2026 IDIQ"
+    "[300-3] 2026 IDIQ",
+    "[300] NOAA:[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-07-19",
-    "end": "2026-07-20"
+    "start": "2026-07-20",
+    "end": "2026-07-21"
   },
   "totals": {
     "revenue": 72000.0,
-    "expenses": 8355.0,
+    "expenses": 17632.73,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 8355.0
+      "DIRECT COSTS:DC-Direct Material Purchases": 10855.33,
+      "DIRECT COSTS:DC-Direct Cost Subcontractors": 6777.4
     }
   },
   "invoices": [
@@ -39,7 +41,26 @@
       ]
     }
   ],
-  "bills": [],
+  "bills": [
+    {
+      "type": "Bill",
+      "date": "2026-07-20",
+      "doc_number": "1116",
+      "total": 6777.4,
+      "attributed": 6777.4,
+      "vendor": "PHASE1 AVIATION LLC",
+      "customer": "",
+      "balance": 6777.4,
+      "memo": "Order placed by Josh Fromm via email. NOAA requested more S0s via email.",
+      "lines": [
+        {
+          "amount": 6777.4,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "S0 Model wings x 10 (NOAA IDIQ - extras purchased)"
+        }
+      ]
+    }
+  ],
   "purchases": [
     {
       "type": "Purchase",
@@ -56,6 +77,24 @@
           "amount": 8355.0,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "S0 Deployment Tubes & Hardware"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-20",
+      "doc_number": "JT70002",
+      "total": 2500.33,
+      "attributed": 2500.33,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "JAWSTEC - 4617",
+      "lines": [
+        {
+          "amount": 2500.33,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": ""
         }
       ]
     }

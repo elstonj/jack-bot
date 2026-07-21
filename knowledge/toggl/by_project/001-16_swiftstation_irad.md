@@ -4,14 +4,15 @@
 - Client: [001] IRAD (Internal Research and Development)
 - Active: Yes
 - Billable: No
-- Total hours tracked: 901.3 hours
+- Total hours tracked: 905.3 hours
 
 ## Team Allocation
-- **Sam Hild**: 702.7 hours (78% - Primary contributor)
-- **Sriraj**: 139.5 hours (15%)
-- **Dani Urbina**: 43.9 hours (5%)
-- **Jake Sahli**: 14.0 hours (2%)
-- **Andy**: 1.3 hours (<1%)
+- **Sam Hild**: 702.7 hours (77.6% - Primary contributor)
+- **Sriraj**: 139.5 hours (15.4%)
+- **Dani Urbina**: 43.9 hours (4.8%)
+- **Jake Sahli**: 14.0 hours (1.5%)
+- **Alex**: 4.0 hours (0.4%)
+- **Andy**: 1.3 hours (<0.1%)
 
 ## Activity Timeline
 Recent work shows active development across multiple team members:
@@ -33,9 +34,13 @@ Recent work shows active development across multiple team members:
 - Company profile updates on Sourcehere platform
 - Market research on competitor profiles
 
+**Alex** (New contributor):
+- 4.0 hours tracked (no description provided)
+
 ## Insights
 - **Hardware-focused IRAD project**: Heavy emphasis on embedded systems, sensors, and ground control systems
 - **Multi-domain development**: Combining UAV ground control, environmental sensors (weather, NDVI), and cellular communications
 - **Systematic approach**: Clear progression from component development through integration to testing
 - **Agricultural/environmental focus**: NDVI sensor work suggests applications in precision agriculture or environmental monitoring
-- **Documentation gaps**: High percentage of entries lack descriptions, particularly from primary contributor Sam Hild
+- **Documentation gaps**: High percentage of entries lack descriptions, particularly from primary contributor Sam Hild and new contributor Alex
+- **Team expansion**: Alex has recently joined the project with 4 hours tracked

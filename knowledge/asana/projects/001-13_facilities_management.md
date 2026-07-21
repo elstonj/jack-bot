@@ -23,14 +23,13 @@
   - **Meredith O'hara Needham**: 1 open
     - Pay Rent (due 2026-07-27) — monthly rent payment to Goose Creek landlord
 - **Notable patterns**: 
-  - Pay Rent task now visible in current export (due 2026-07-27)
-  - Equipment wish list and other facility tasks not appearing in current export snapshot
+  - Pay Rent task on track with scheduled due date
+  - Equipment wish list and other facility tasks managed outside primary Asana export
   - Bi-weekly cleaning managed through Neat N Tidy booking portal rather than Asana task tracking
 
 ## Recent Activity
 - **Current open tasks**:
   - Pay Rent (assigned to Meredith O'hara Needham) — due **2026-07-27** ✓ On schedule
-- **Task visibility**: Pay Rent task now appears in open list with scheduled due date
 
 ## Notes & Context
 

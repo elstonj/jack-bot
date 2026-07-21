@@ -1,5 +1,6 @@
 # Nate Straus — Email Patterns
 
-Only 1 emails found in scanned period.
+Only 2 emails found in scanned period.
 
-- Sat, 18 Jul 2026 07:40:34 -0600: Re: [External] - Introduction: Justin Branch (Munro Defense) + Jack Eltson (BlackSwift) (from: Jack Elston <elstonj@blackswifttech.com>)
+- Mon, 20 Jul 2026 17:26:04 +0000: Re: NLR (formerly NREL) E2 (from: "Neber, Matthew" <Matthew.Neber@nlr.gov>)
+- Mon, 20 Jul 2026 11:24:37 -0600: Re: NLR (formerly NREL) E2 (from: Daniel Prendergast <daniel.prendergast@blackswifttech.com>)

@@ -4,14 +4,14 @@
     "[212-2] NASA S2 & Parts"
   ],
   "period": {
-    "start": "2026-07-07",
-    "end": "2026-07-08"
+    "start": "2026-07-20",
+    "end": "2026-07-21"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 929.43,
+    "expenses": 8.81,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 929.43
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 8.81
     }
   },
   "invoices": [],
@@ -19,19 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-07",
+      "date": "2026-07-20",
       "doc_number": "",
-      "total": 929.43,
-      "attributed": 929.43,
+      "total": 8.81,
+      "attributed": 8.81,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "",
+      "memo": "PIRATE SHIP * POSTAGE - 7333",
       "lines": [
         {
-          "amount": 929.43,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": ""
+          "amount": 8.81,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipment to Sean Cole for [212-2] NASA S2 Parts projects"
         }
       ]
     }

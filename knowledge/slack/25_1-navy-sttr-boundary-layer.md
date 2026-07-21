@@ -1,7 +1,7 @@
 # #25_1-navy-sttr-boundary-layer
 
 ## Overview
-This channel manages Black Swift Technologies' Navy STTR project focused on boundary layer measurements using the S0 UAS platform. The project aims to develop atmospheric sensing capabilities for hazardous weather conditions, particularly tropical cyclones and high wind environments. Key participants include Beck Cotter, Maciej, Josh Wadler, Jun Zhang, Dan Prendergast, Jack Elston, Joshua Fromm, Joe, and Meredith Needham (Navy contact/administrator). The channel shows high activity from July 2024 through June 2026, covering Phase I completion, Phase II proposal development, and active field operations including ocean validation missions and CAT (Convective and Atmospheric Turbulence) flights.
+This channel manages Black Swift Technologies' Navy STTR project focused on boundary layer measurements using the S0 UAS platform. The project aims to develop atmospheric sensing capabilities for hazardous weather conditions, particularly tropical cyclones and high wind environments. Key participants include Beck Cotter, Maciej, Josh Wadler, Jun Zhang, Dan Prendergast, Jack Elston, Joshua Fromm, Joe, and Meredith Needham (Navy contact/administrator). The channel shows high activity from July 2024 through June 2026, covering Phase I completion, Phase II proposal development, and active field operations including ocean validation missions and CAT (Convective and Atmospheric Turbulence) flights. As of July 2026, the team is actively planning OOI (Ocean Observatories Initiative) array validation flights and implementing comprehensive sensor calibration improvements.
 
 ## Key Decisions
 - **July 2024**: Focused Phase 1 on tropical cyclone/high wind measurements rather than cold weather applications
@@ -27,6 +27,8 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **June 12, 2026**: Maciej outlined comprehensive testing plan for fixes/issues discovered from recovered S0 test, prioritizing affine magnetometer calibration (0.5 m/s average error correction), accelerometer corrections (4° roll error at max roll), accelerometer calibration (0.3 m/s wind error reduction), mag-IMU alignment (0.5 m/s error on S0-70), and pressure scaling corrections (with plan to correct both tunnel and aircraft data to recalibrate IAS)
 - **June 15, 2026**: Decided OOI array test should be framed as internal R&D effort (not Navy-funded) for at least July; team to assess feasibility of pursuing in July versus deferring to October when Phase II funding clarity and available flight hours are confirmed; noted no guarantee of flight hours after October 1
 - **June 17, 2026**: Confirmed no S0 flight scheduled over OOI array for weekend of June 20-21; Maciej following up on outcome of SASCWATCH meeting
+- **July 20, 2026**: OOI flight planning initiated for stepped descent out-and-back pattern starting at 100 m or below; orientation to be finalized day-of based on wind conditions; S0 recovery over OOI array deemed unlikely due to insufficient funding (Nick P. unable to secure recovery funding); confirmed S0 will not be painted orange and should be assumed unrecoverable unless last-minute funding materialized
+- **July 20, 2026**: P-3 crew identified: aircraft will have personnel on board for S0 operations during OOI flights
 
 ## Projects & Initiatives
 **Navy STTR Boundary Layer Measurements Project (Award: N6833535C0270)**
@@ -36,15 +38,18 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - Phase II announcement still pending as of June 15, 2026; evaluation package awaiting transmission to Lakehurst for contracting office processing
 - Current focus: S0 sensor characterization, turbulence measurements, wave height detection, air-sea interactions
 
+**OOI (Ocean Observatories Initiative) Array Validation Flights**
+- Framed as internal R&D effort (not Navy-funded) as of June 2026
+- Flight pattern: stepped descent out-and-back profiles starting at 100 m or below
+- Orientation weather-dependent, to be finalized day-of
+- Similar flight profile previously executed during Avon Park flight (reference point for planning)
+- S0 recovery unlikely; no dedicated recovery funding available
+- Near-term focus: July 2026 execution pending flight hour availability; potential deferral to October if feasibility unclear
+
 **Technical Development Areas:**
 - S0 sensor suite: PTH (Vaisala) at 5Hz, wind at 100Hz, additional static pressure sensor at 100Hz
 - Cold weather specifications: -40°C to -60°C operation capability
 - De-ice heater development for standalone system with COTS process controller
 - Ocean validation missions in 4 phases testing sensing, algorithms, wave height, QC, and AI autonomy
 - **Humidity Sensor Correction**: Vaisala humidity error identified and corrected with post-processing fix; real-time correction now active in firmware (as of April 17, 2026); contributes minimal wind error (<a few cm/s)
-- **Wind Data Improvements**: Dual GPS heading data enabling improved wind estimation techniques for CAT flights
-- **5-Hole Probe & Magnetometer Calibration (June 2, 2026)**: S0-63 flight analysis revealed firmware error in 5-hole probe center port and issues with new magnetometer calibration method; both issues resolved with post-processing corrections showing improved agreement with dropsonde measurements
-- **Wind Calculation Method Trade-off (June 4, 2026)**: Identified technical consideration that recomputing winds from low-rate data produces noisier results due to loss of high-rate gyro data access; Maciej flagged this as potential limitation for re-analysis of CAT flights
-- **Turbulence Metrics Reproducibility (June 5, 2026)**: Investigating differences in turbulence metrics between two S0 aircraft flying at same low altitude during CAT flights; Josh Wadler seeking reproducibility validation; Maciej exploring multiple post-processing approaches to improve data quality and reduce noise
-- **Flux Calculation Methodology (June 8, 2026)**: Josh Wadler calculating turbulent flux components (u, v, w wind components) with mean wind subtraction per leg; focus on high-rate 04-09 data for validation; Maciej investigating whether pressure sensor bias corrections improve or worsen flux results
-- **Comprehensive Calibration/Validation Initiative (June 12
+- **Wind Data Improvements**: Dual GPS heading data enabling improved wind estimation techniques
