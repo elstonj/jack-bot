@@ -1,97 +1,84 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 42 (13 previous + 29 new)
-- **Date range:** 18 Jul – 21 Jul 2026
-- **Approximate volume:** Moderate-to-high; spike in activity 20-21 Jul driven by SOCOM Demo coordination, NASA proposal discussions, and Krateo Sky partnership formalization
+- **Total messages scanned:** 70 (42 previous + 28 new)
+- **Date range:** 18 Jul – 22 Jul 2026
+- **Approximate volume:** High; sustained intensity across SOCOM Demo, NASA proposals, Krateo Sky partnership operationalization, and new government/academic partnerships emerging
 
 ## Key Correspondents
 
 ### Top Senders
-1. **Jack Elston** (elstonj@blackswifttech.com) — Internal, SOCOM/Krateo Sky coordination, multiple IMPORTANT messages (QC Website, collaboration messaging, shared files)
-2. **ERYAN Dai** (edai@weatherstream.com) — External vendor/consultant, NASA Juno Proposal cost estimates (frequent back-and-forth with Beck Cotter and Maciej)
-3. **Beck Cotter** (beck.cotter@blackswifttech.com) — Internal, NASA Juno Proposal lead, L-band drone flights, HALO SBIR modifications
-4. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Internal, SOCOM/DoD liaison, UAS deployment coordination
-5. **Bob Smith** (Bob@krateosky.com) — External Krateo Sky partner, SOCOM Demo responses
-6. **Tim Hegwood** (tim@krateosky.com) — External Krateo Sky, Teams/collaboration setup
-7. **NOAA/Federal Research Listserv** — Passive recipient on Hurricane Field Program POD (Jason Sippel via sascwatch-all)
+1. **Jack Elston** (elstonj@blackswifttech.com) — Internal, strategic lead; SOCOM Demo, Krateo Sky coordination, CMMC security discussions, multiple IMPORTANT messages
+2. **Bob Smith** (Bob@krateosky.com) — External Krateo Sky partner; SOCOM Demo responses, RFI S0 government coordination, escalating frequency and importance
+3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Internal, DoD liaison; SOCOM RFI S0, government contact relay (Evan M. Wolff USSOCOM)
+4. **Beck Cotter** (beck.cotter@blackswifttech.com) — Internal, NASA proposals, flight operations, Arctic UAS coordination
+5. **Trenton McKibben** (Trenton.McKibben@nextechsol.com) — **NEW EXTERNAL:** Engineering Sprint and Whitehorse Test Event coordinator; multi-party project
+6. **Al Gasiewski** (al.gasiewski@colorado.edu) — **NEW EXTERNAL (Academic):** NASA ROSES-25 opportunity forwarding; appears to be research collaboration initiator
+7. **Tim Hegwood** (tim@krateosky.com) — External Krateo Sky; Project Albatross SOW (statement of work) coordination
 
 ### Top Recipients
-1. **Jack Elston** — Direct correspondence on strategic topics
-2. **ERYAN Dai** — Direct responses on NASA proposal
-3. **Daniel Prendergast** — SOCOM/DoD coordination
-4. **Krateo Sky team** (Bob Smith, Tim Hegwood, Sona Raziabeegum) — Partnership collaboration
-5. **Beck Cotter** — NASA proposal coordination
+1. **Jack Elston** — Direct strategic correspondence
+2. **Daniel Prendergast** — Government coordination
+3. **Bob Smith** — Krateo Sky partnership matters
+4. **Beck Cotter** — NASA/technical coordination
+5. **Trenton McKibben** — Engineering Sprint / Whitehorse Test Event
 
 ### Internal vs External
-- **Internal:** Jack Elston, Daniel Prendergast, Beck Cotter, Joshua Fromm, Meredith Needham, Sam Hild
-- **External (Strategic Partners):** Krateo Sky (Bob Smith, Tim Hegwood, Sona Raziabeegum), ERYAN Dai/WeatherStream, NOAA Federal Research Network, CENAPRED Mexico (Paulino Alonso Rivera)
-- **External (Vendors/Consultants):** HALO Aero (Tyler Jones), C-Astral (Nejc Trost), Phase1 AV (Sean Cole), Creative Alignments (Hadley Solomon)
-- **Automated/Marketing:** Harbor Freight, EIN Presswire, Rockies Venture Club, GitLab, BST Website contact forms
+- **Internal:** Jack Elston, Daniel Prendergast, Beck Cotter
+- **External (Strategic Partners):** Krateo Sky (Bob Smith, Tim Hegwood, Brian Grubel, Thibault Bridel-Bertomeu, Dipan Amin, LisaMarie Cheney, Jed Leonard)
+- **External (Government):** USSOCOM (Evan M. Wolff), NASA (agency-sbir@mail.nasa.gov), NOAA Federal Research Network (40+ recipients on HFP listserv)
+- **External (Academic/Research):** University of Colorado (Al Gasiewski, Eryan Dai), Murray State University (Bassil El Masri), Precision Terra (Maithreyi Gopalakrishnan)
+- **External (Consulting/Vendor):** Nextech Solutions (Trenton McKibben), Creative Alignments (Hadley Solomon), Invest Ottawa (SRowlands), Orbital Micro Systems (Michael Hurowitz)
+- **Automated/Marketing:** IWA Publishing, WordPress.com, McMaster-Carr, Amazon, Harbor Freight
 
 ## Topic Patterns
 
-### Active Projects (HIGH PRIORITY)
-- **SOCOM Demo Aug 16-19 Nevada** — CRITICAL; multi-party coordination involving Jack Elston, Daniel Prendergast, Bob Smith, Krateo Sky; explicit USSOCOM contact (Evan M. Wolff, USSOCOM); marked IMPORTANT repeatedly
-- **NASA Juno Proposal** — Cost estimation phase; involves Beck Cotter, ERYAN Dai (WeatherStream), multiple revisions; appears to be multi-day negotiation (11 emails spanning 20 Jul)
-- **L-band Drone Flights** — Technical specification work; Jack Elston, Beck Cotter involved
-- **UAS Deployment at Popocatépetl** — Coordination with CENAPRED Mexico (volcanic monitoring); Daniel Prendergast lead
-- **HALO SBIR Modifications** — Beck Cotter coordinating with HALO Aero (Tyler Jones)
+### Active Projects (CRITICAL PRIORITY)
+- **SOCOM Demo Aug 16-19 Nevada** — CONTINUED ESCALATION; now involving Krateo Sky formal coordination (Bob Smith leading), USSOCOM direct contact (Evan M. Wolff), government RFI response (marked "RFI S0"); multi-day coordination cycle; explicit non-DoD source marking on communications
+- **RFI S0 / Government Request for Information** — **NEW PROMINENCE:** Multi-party DoD-related RFI; forwarded through Bob Smith → Daniel Prendergast → Evan M. Wolff USSOCOM; appears tied to SOCOM Demo or larger government requirement; marked IMPORTANT and includes "Non-DoD Source" disclaimers
+- **NASA Proposals (Juno, Phase II SBIR)** — CONTINUED; Beck Cotter coordinating; Maithreyi Gopalakrishnan (Precision Terra) sending "Exciting News - Phase II NASA SBIR" (indicates award or advancement); NASA agency-sbir listserv direct contact
+- **Project Albatross / Shearwater X Blackswift SOW** — **NEW:** Krateo Sky-led project; Statement of Work in circulation; Tim Hegwood coordinating with BST team (Jack Elston cc'd)
+- **Engineering Sprint and Whitehorse Test Event** — **NEW:** Trenton McKibben (Nextech Solutions) coordinating multi-party engineering sprint; Maciej sent direct response 21 Jul 15:17 UTC
 
-### Partnerships & Collaboration
-- **Krateo Sky <> Black Swift Technologies** — Formal partnership; shared Teams workspace, shared files infrastructure, "interim collaboration" messaging (21 Jul); involves coordination on multiple fronts (SOCOM, website QC, shared documentation)
-- **Hurricane Field Program (HFP)** — NOAA collaboration; Jason Sippel lead on federal listserv
+### Emerging/New Topics (22 Jul new data)
+- **Arctic UAS Location Change** — Beck Cotter coordinating with external parties (Invest Ottawa); appears to be logistics/deployment shift
+- **Flight #4 Schedule Change** — Beck Cotter broadcasting schedule change to Maciej, Daniel, Jack, and Bassil El Masri (Murray State University); cascading responses marked IMPORTANT
+- **BST Engineering Recruiting Kickoff** — Hadley Solomon (Creative Alignments) scheduling Monday 27 Jul event with Krateo Sky attendees (Thibault, Brian) and BST; appears to be joint recruitment effort
 
-### New/Emerging Topics (21 Jul)
-- **QC Website** — Website quality control project with Krateo Sky involvement (Jack Elston, Brian Grubel)
-- **Mag Log from Office** — Sam Hild sending magnetic field log data (possible instrument calibration/testing)
-- **Vertiq Component** — Joshua Fromm coordinating with C-Astral on component (Nejc Trost)
-- **S0 Wings** — Meredith Needham discussing S0 airframe component with Phase1 AV
+### Research Partnerships (NEW)
+- **ROSES-25 Amendment 65 (NASA Planetary Science)** — Al Gasiewski forwarding new NASA opportunity to Michael Hurowitz (Orbital Micro), Eryan Dai (University of Colorado), Jack Elston, Maciej Stachura; appears to be collaborative research opportunity exploration
+- **Precision Terra / NASA SBIR Phase II** — Maithreyi Gopalakrishnan contact suggests possible partnership or award announcement
+
+### Government/Security Topics
+- **CMMC Discussion** — Jack Elston exchanging with Jay Cuthrell (Nexus Tek); Cybersecurity Maturity Model Certification discussion (compliance-related)
+- **Non-DoD Source Disclaimers** — Multiple RFI S0 emails include formal government classification/handling language; indicates sensitive government coordination
 
 ### Conferences/Events
-- **ITS World Congress Birmingham 2027** — Still visible (from previous data)
-- **Federal UxS Workshop** — Still visible (from previous data)
-
-### Strategic Discussions
-- **CA Foundations: Discovery - BST Leadership Culture** — Hadley Solomon (Creative Alignments consultant) responding to Jack Elston; ongoing leadership/cultural work
+- **ITS World Congress Birmingham 2027** — Still present
+- **Federal UxS Workshop** — Still present
+- **Whitehorse Test Event** — NEW, associated with Engineering Sprint (Nextech Solutions)
 
 ## Communication Patterns
 
 ### Time Patterns
-- **Overnight UTC activity:** Heavy clustering of messages 00:00–05:00 UTC (corresponds to midnight–5 AM Mountain Time), particularly on evening of 20 Jul / early morning 21 Jul
-- **Rapid response cycles:** Multiple rounds of NASA Juno cost estimates within 6-hour window (11:03 to 17:01 UTC, 20 Jul) — urgent negotiation
-- **Weekend/late-night engagement:** Activity on Mon-Tue (20-21 Jul) suggests on-call status; urgent project coordination
-- **Multi-timezone coordination:** Messages timestamped across UTC, Mountain Time (-06/-07), indicating real-time collaboration across distributed teams
+- **Sustained 24-hour operations:** Heavy clustering 19:00–22:00 UTC on 21 Jul (1–4 PM MDT), then 02:00–08:00 UTC on 22 Jul (8 PM–2 AM previous day + early morning MDT); suggests round-the-clock coordination
+- **Multi-timezone real-time collaboration:** Messages in UTC, MDT (-06/-07), and FAA/military UTC-based operations (NOAA flight tracking timestamps in UTC)
+- **Overnight spike continues:** Similar pattern to previous scan; 21 Jul evening through early 22 Jul morning shows concentrated activity on SOCOM RFI and Krateo Sky coordination
+- **Government operational tempo:** NOAA flight planning email (13:18 UTC 21 Jul) shows integration with federal mission operations
 
 ### Mailing Lists & Group Communications
-- **SASCWATCH-ALL / Hurricane Field Program POD** — Large NOAA federal research network (visible from headers showing 20+ recipients)
-- **KrateoSky <> Black Swift Technologies** — New formal group (Microsoft Teams, shared Google Drive infrastructure)
-- **USSOCOM distribution** — Evan M. Wolff as DoD contact for SOCOM Demo
+- **SASCWATCH-ALL / Hurricane Field Program (HFP):** 40+ NOAA federal + military recipients (Jason Sippel distributing TS Bertha flight track proposals); large-scale operational coordination
+- **KrateoSky <> Black Swift Technologies:** Formal multi-team groups continuing (Project Albatross SOW visible)
+- **NASA agency-sbir:** Direct contact with NASA SBIR program office
+- **USSOCOM distribution:** Evan M. Wolff as primary DoD contact; RFI S0 coordination flowing through Daniel Prendergast
+- **Multi-party Engineering Sprint:** Trenton McKibben group email to Jack Elston, Daniel Prendergast, Maciej Stachura
 
 ### Automated/Vendor Email
-- Harbor Freight "10 DAYS OF DEALS" (Day 5) continuing from previous data
-- GitLab identity verification (development/code repository access)
-- BST Website contact form (passive receipt via sales/info aliases)
-- Billing/procurement system notifications (Aeronet Invoices)
-- Newsletter: Rockies Venture Club (Angel Funders Report)
-- EIN Presswire promotional outreach (routed to sales@)
-- Google Drive document sharing (proposal collaboration)
+- IWA Publishing (water treatment/technical publications — new vendor)
+- WordPress.com, McMaster-Carr, Amazon, Harbor Freight (continuing procurement patterns)
+- GitLab, BST contact forms (continuing)
 
 ## Key Relationships
 
 ### Closest Internal Collaborators
-1. **Jack Elston** — Strategic lead on SOCOM, Krateo Sky partnership, website QC, leadership culture discussions; highest frequency IMPORTANT messages
-2. **Beck Cotter** — Technical lead on NASA Juno Proposal; coordinating with external vendors (ERYAN Dai, HALO Aero, Phase1 AV)
-3. **Daniel Prendergast** — DoD/SOCOM liaison; also leading international UAS coordination (Mexico volcanic monitoring)
-4. **Joshua Fromm** — Component sourcing (Vertiq, C-Astral)
-5. **Meredith Needham** — Airframe component coordination (S0 wings, Phase1 AV)
-
-### External Strategic Relationships
-- **Krateo Sky** (Bob Smith, Tim Hegwood, Sona Raziabeegum) — **NEW FORMALIZATION:** Shared Teams workspace, shared file infrastructure, explicit "interim collaboration" messaging; appears to be contractual partnership being operationalized in real-time
-- **ERYAN Dai (WeatherStream)** — Technical consultant on cost estimation; appears to have proprietary knowledge relevant to NASA Juno proposal
-- **NOAA Federal Research Community** — Large network; focused on hurricane/atmospheric research (HFP-APHEX)
-- **USSOCOM** (Evan M. Wolff) — Government contact for SOCOM Demo; coordinated through Daniel Prendergast
-
-### Vendor/Partner Relationships
-- **HALO Aero** (Tyler Jones) — SBIR modifications coordination
-- **Phase1 AV** (Sean Cole) — S0 airframe wings component
+1. **Jack Elston** — Strategic

@@ -1,93 +1,86 @@
 # Meredith O'hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,557 emails (1,514 previous + 43 from Jul 20–21)
-- **Date range:** June 15–July 21, 2026 (37 days)
+- **Total messages scanned:** 1,612 emails (1,557 previous + 55 from Jul 21–22)
+- **Date range:** June 15–July 22, 2026 (38 days)
 - **Approximate volume:** ~42 emails/day
-- **Trend:** Sustained ultra-high-velocity operational management with **escalating strategic partnership activity (Krateo Sky "Space" initiative now confirmed as active negotiation); international logistics coordination (C-Astral shipment); financial/banking infrastructure setup (Elevations CU wire transfer letter); HR/recruiting acceleration; KPMG audit reaching resolution phase; vendor procurement diversifying across battery/charging, manufacturing, and aviation components.**
+- **Trend:** **Ultra-high-velocity operational management sustained; SBIR/STTR federal contract execution confirmed (AFRL); DCAA pre-award audit now active; Krateo Sky/C-Astral shipment coordination escalated to tracking/confirmation phase; international financing activity (Canada-based Invest Ottawa outreach); Munro Defense partnership introduction; multiple vendor order cycles (JawsTec #70044, #70045; DigiKey; McMaster-Carr; Amazon; SparkFun)**
 
 ---
 
 ## Key Correspondents
 
-### Incoming (by frequency — updated through Jul 21)
+### Incoming (by frequency — updated through Jul 22)
 
 **Automated Systems & Purchasing Routing:**
 
-1. **Purchasing system** (`purchasing@blackswifttech.com`) — **650+ cumulative messages**
+1. **Purchasing system** (`purchasing@blackswifttech.com`) — **700+ cumulative messages**
    
-   **Recent Activity (Jul 20–21):**
+   **Recent Activity (Jul 21–22):**
    
-   **Vendor Orders & Invoicing (New):**
-   - **JawsTec Manufacturing LLC** (`info@jawstec.com`) — **"We have received Order #70002"** (Jul 20, 17:15 UTC) [UNREAD, IMPORTANT, CATEGORY_UPDATES]
-     - Payment request routed via purchasing system (Jul 20, 17:16 UTC)
-     - **Significance:** Active manufacturing procurement; order #70002 confirms ongoing vendor relationship
+   **New Vendor Orders & Invoicing (Jul 21–22):**
+   - **JawsTec Manufacturing LLC** — **Multiple orders** (Jul 21, 20:08–20:09 UTC)
+     - Order #70044 received confirmation (Jul 21, 20:08:26 UTC) [IMPORTANT, CATEGORY_UPDATES]
+     - Order #70045 received confirmation (Jul 21, 20:08:33 UTC) [IMPORTANT, CATEGORY_UPDATES]
+     - Invoice 70044 payment request (Jul 21, 20:09:13 UTC) [UNREAD, CATEGORY_FORUMS]
+     - Invoice 70045 payment request (Jul 21, 20:09:17 UTC) [UNREAD, CATEGORY_FORUMS]
+     - Order #70045 refund notification (Jul 21, 20:23:21 UTC) [UNREAD, CATEGORY_UPDATES]
+     - **Significance:** Accelerated manufacturing procurement cycle; rapid order placement (orders #70002, #70044, #70045 within 2 days); partial refund suggests order adjustment/consolidation
    
-   - **Phase1 Aviation LLC** (`sean@phase1av.com`) — **"RE: New S0 wing order"** (Jul 20, 17:03 UTC) [IMPORTANT]
-     - Joshua Fromm initiated S0 wing order (Jul 20, 10:57 UTC)
-     - Payment confirmation via QuickBooks Payments (Jul 20, 17:00 UTC)
-     - **Significance:** S0 platform wing components; continuation of NOAA-related refurbishment activity
+   - **DigiKey** — **Multiple electronics orders** (Jul 21, 15:17–21:44 UTC)
+     - Order confirmation + PO acknowledgement (Jul 21, 15:17:15 & 15:18:45 UTC) [CATEGORY_FORUMS]
+     - Shipment notification for invoice 129575492 (Jul 21, 21:44:21 UTC) [UNREAD, CATEGORY_FORUMS]
+     - **Significance:** Electronics component procurement; fast shipping turnaround
    
-   - **Aeronet (via Elisa Arellano)** — "Aeronet Invoices 823121" (Jul 20, 23:38 UTC) [UNREAD, CATEGORY_FORUMS]
-     - Also routed to earellano@aeronet.com (Jul 20, 20:00 UTC) — "New Billing Invoices - 07/20/2026"
-     - **Significance:** Ongoing aviation component/service vendor
+   - **McMaster-Carr** — **New order** (Jul 21, 10:59:37 & receipt Jul 22, 02:48:08 UTC)
+     - Order confirmation + receipt (Jul 21, 10:59:37 UTC & Jul 22, 02:48 UTC) [UNREAD, CATEGORY_UPDATES]
+     - **Significance:** Industrial supply vendor for mechanical/fastening components
    
-   - **Pirate Ship** — Receipt for $8.81 payment (Jul 20, 16:36 UTC) [CATEGORY_FORUMS]
-     - Shipping/logistics vendor
+   - **Amazon.com** — **Multiple electronics orders** (Jul 21, 20:23–20:25 UTC & Jul 22, 05:28 UTC)
+     - 5 tools + electronics items ordered (Jul 21, 20:25:24 UTC) [UNREAD, CATEGORY_FORUMS]
+     - 1 electronics item shipped (Jul 22, 05:28:32 UTC) [UNREAD, CATEGORY_FORUMS]
+   
+   - **SparkFun Electronics** — Order confirmation (Jul 21, 20:32:42 UTC) [CATEGORY_FORUMS]
+     - **Significance:** Microcontroller/embedded systems components
+   
+   - **FedEx Tracking** — Shipment 874700664011 (Jul 21, 18:45:36 UTC) [UNREAD, CATEGORY_FORUMS]
+     - Inbound tracking update
+   
+   - **WordPress.com** — Receipt #119223828 (Jul 22, 07:49:53 UTC) [UNREAD, CATEGORY_FORUMS]
+     - Website/CMS infrastructure purchase
    
    **Promotional/Marketing (Continued):**
-   - **Harbor Freight** — "10 DAYS OF DEALS! Day 5: 40% Off BAUER and HERCULES Battery and Charger Starter Kits..." (Jul 21, 04:56 UTC) [UNREAD, CATEGORY_FORUMS]
-     - **Trend:** Daily promotional series (Days 4–5 observed); tool/battery equipment interest pattern
+   - **Harbor Freight** — "Day 6: 37% Off ICON Locking Flex-Head Ratchet + 30% Off Solar/Decorative Outdoor Lighting" (Jul 22, 04:46:48 UTC) [UNREAD, CATEGORY_FORUMS]
+     - Daily deals series continuing (Days 4–6 observed over 2 days)
    
-   **International/Non-English Vendor Marketing:**
-   - **Dace Spandega** (`perkonsenergy.notifications@mail.ozols.lv`) — "A common issue we see" (Jul 21, 06:29 UTC) [UNREAD, CATEGORY_FORUMS]
-     - **Source:** Latvia (.lv domain) — energy/battery vendor outreach
+   - **Budget Car Rental** — "Summer Savings" promotional (Jul 21, 17:08:52 UTC) [UNREAD, CATEGORY_FORUMS]
    
-   - **XBW Lithium Battery Revolution** (`info@xbw.it`) — **"Quanto può essere ampia una gamma di batterie per carrelli elevatori?"** (Jul 21, 06:17 UTC) [UNREAD, CATEGORY_FORUMS]
-     - **Subject:** Italian: "How wide can a range of forklift batteries be?"
-     - **Significance:** International battery/energy equipment vendor; suggests global procurement scanning for material handling power systems
-     - **Source:** Italy (.it domain)
+   - **SkyGeek** — "Simplify Your Maintenance Tasks" (Jul 22, 01:00:34 UTC) [UNREAD, CATEGORY_UPDATES]
+     - Aviation maintenance vendor marketing
 
 ---
 
-2. **Strategic Partnerships & New Business Development (ESCALATED):**
+2. **FEDERAL CONTRACTS & COMPLIANCE (ESCALATED — CRITICAL):**
 
-   **A. Krateo Sky (ACTIVE NEGOTIATION — CRITICAL):**
-   - **Sona Raziabeegum** (`sona@krateosky.com`) — **"Re: Space"** (Jul 20, 09:18 UTC — Meredith outbound) [SENT]
-     - Jack Elston also engaged: **"Re: Space"** (Jul 20, 09:24 UTC) [IMPORTANT, INBOX]
-     - Jack Elston escalated with **"IT Tasks"** to Tim Hegwood + Meredith (Jul 20, 09:28 UTC) [YELLOW_STAR, IMPORTANT, STARRED]
-     - **Beck Cotter** (internal) engaged via forward: **"Fwd: Space"** (Jul 20, 09:36 UTC) [SENT]
-     - Roger (Krateo Sky) contacted re: **"Shipment to C-Astral"** (Jul 20, 15:17 UTC) [SENT]
-     - **Significance:** "Space" initiative now confirmed as **multi-party internal coordination with Beck Cotter involvement; C-Astral connection suggests product/equipment handoff or partnership manufacturing/distribution flow**
+   **A. SBIR/STTR Contract Execution (NEW — CONFIRMED ACTIVE):**
+   - **Open Topic P2** (`afrl.rgv.p2@us.af.mil`) — **"Congratulations: Your SBIR/STTR Contract is Now Executed"** (Jul 21, 20:34:29 UTC) [IMPORTANT, INBOX]
+     - **Beck Cotter also received** forward: **"Fwd: Congratulations: Your SBIR/STTR Contract is Now Executed"** (Jul 21, 14:35:31 UTC) [IMPORTANT]
+     - **Significance:** **Air Force SBIR/STTR Phase II contract signed and active; critical federal program entry for BST**
    
-   **B. C-Astral (NEW — LOGISTICS PARTNER):**
-   - **Nejc Trost** (`nejc.trost@c-astral.com`) — **Rapid 3-message exchange** (Jul 20, 13:26–22:40 UTC)
-     - Meredith initiated: **"Information for shipment from Black Swift"** (Jul 20, 13:26 UTC) [SENT]
-     - Nejc Trost replied: **"Re: Information for shipment from Black Swift"** (Jul 20, 21:29 UTC) [IMPORTANT, INBOX]
-     - Meredith follow-up response (Jul 20, 14:37 UTC) [SENT]
-     - **Second incoming from Nejc:** (Jul 20, 22:40 UTC) [IMPORTANT, INBOX]
-     - **Significance:** C-Astral appears to be **international logistics/distribution partner receiving BST shipment; likely Slovenia-based (Nejc Trost common Slovenian name); active high-priority coordination**
+   - **NASA SBIR Phase II Update** — `agency-sbir` via Administration (Jul 21, 19:04:06 UTC) [CATEGORY_FORUMS]
+     - Subject: "PY2025 NASA SBIR Phase II: Update on Your Proposal"
+     - **Significance:** Parallel NASA SBIR proposal activity (under evaluation)
 
-   **B. NOAA Federal (CONTINUATION):**
-   - Ongoing via Jack Elston coordination
-
-   **C. Krateo Sky — IT Tasks (New Layer):**
-   - Jack Elston + Tim Hegwood (Krateo Sky) IT infrastructure discussion (Jul 20, 09:28 UTC) — suggests systems integration or data exchange setup
-
----
-
-3. **Financial Services & Banking (NEW — BUSINESS INFRASTRUCTURE):**
-
-   - **Shelby Hammond** (`Shelby.Hammond@elevationscu.com`) — **"Elevations Secure Email - RE: Request for Wire Transfer letter"** (Jul 20, 23:38 UTC) [UNREAD, IMPORTANT, INBOX]
-     - Meredith initiated: **"Request for Wire Transfer letter"** (Jul 20, 14:58 UTC) [SENT]
-     - **Significance:** Elevations Credit Union relationship; wire transfer documentation request suggests **large international payment or business transaction setup (likely connected to Krateo Sky, C-Astral, or NOAA partnership)**
-
----
-
-4. **KPMG Audit (REACHING RESOLUTION):**
-
-   - **Brandon C. Dalton** (`bdalton@kpmg.com`) — **"RE: QB Access and requested items"** (Jul 20, 15:34 UTC) [IMPORTANT, INBOX]
-     - Meredith responses: (Jul 20, 10:27 UTC; 09:26 UTC) [SENT]
-     - **Matthew C. Helton** (KPMG senior) — **"RE: QB Access and requested items"** (Jul 20, 15:12 UTC) [IMPORTANT]
-       - CC: Peter Choi (KPMG), Brandon Dalton, Jack Elston
-     - **Significance:** Dual-party audit coordination (Meredith + Jack) entering final documentation phase; Matthew Helton involvement suggests
+   **B. DCAA Pre-Award Audit (NEW — ACTIVE):**
+   - **Michael A. Maldonado CIV (USA)** (`michael.a.maldonado8.civ@mail.mil`) — **"DCAA Pre-Award Accounting System Audit-Preliminary Information Request"** (Jul 21, 19:49:15 UTC) [IMPORTANT, INBOX]
+     - Meredith responses (Jul 21, 14:37–14:57 UTC — drafted/in progress) [SENT/DRAFT]
+     - **Forwarded to Christy Evans** (reliascent.com — accounting firm) (Jul 21, 14:40:17 UTC) [SENT]
+     - **Significance:** Pre-award compliance audit required before federal contract obligation; Christy Evans (likely ReliAscent, BST's accounting/compliance partner) engaged for documentation support
+   
+   - **Alexandra N. Wilcox CIV DCAA AIR (USA)** (`alexandra.n.wilcox.civ@mail.mil`) — **"RE: [Non-DoD Source] DCAA audit for Black Swift Technologies (on behalf of N251-016)"** (Jul 21, 16:08:10 UTC) [IMPORTANT, INBOX]
+     - CC: Beck Cotter, Christy Evans (cevans@reliascent.com), Meredith Needham
+     - Meredith response (Jul 21, 10:09:01 UTC) [SENT]
+     - **Significance:** DCAA auditor coordination; contract number reference (N251-016); multi-party compliance tracking
+   
+   - **DOD SAFE File Access** — NoReplyTo@mail.mil (Jul 21, 18:45:28 & 18:45:01 UTC) [IMPORTANT, CATEGORY_UPDATES]
+     - "[DOD SAFE] Black Swift

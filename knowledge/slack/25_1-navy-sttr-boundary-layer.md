@@ -1,7 +1,7 @@
 # #25_1-navy-sttr-boundary-layer
 
 ## Overview
-This channel manages Black Swift Technologies' Navy STTR project focused on boundary layer measurements using the S0 UAS platform. The project aims to develop atmospheric sensing capabilities for hazardous weather conditions, particularly tropical cyclones and high wind environments. Key participants include Beck Cotter, Maciej, Josh Wadler, Jun Zhang, Dan Prendergast, Jack Elston, Joshua Fromm, Joe, and Meredith Needham (Navy contact/administrator). The channel shows high activity from July 2024 through June 2026, covering Phase I completion, Phase II proposal development, and active field operations including ocean validation missions and CAT (Convective and Atmospheric Turbulence) flights. As of July 2026, the team is actively planning OOI (Ocean Observatories Initiative) array validation flights and implementing comprehensive sensor calibration improvements.
+This channel manages Black Swift Technologies' Navy STTR project focused on boundary layer measurements using the S0 UAS platform. The project aims to develop atmospheric sensing capabilities for hazardous weather conditions, particularly tropical cyclones and high wind environments. Key participants include Beck Cotter, Maciej, Josh Wadler, Jun Zhang, Dan Prendergast, Jack Elston, Joshua Fromm, Joe, Alex Lomis, and Meredith Needham (Navy contact/administrator). The channel shows high activity from July 2024 through July 2026, covering Phase I completion, Phase II proposal development, and active field operations including ocean validation missions and CAT (Convective and Atmospheric Turbulence) flights. As of July 2026, the team is actively executing OOI (Ocean Observatories Initiative) array validation flights with coordinated P-3 support and aircraft system updates.
 
 ## Key Decisions
 - **July 2024**: Focused Phase 1 on tropical cyclone/high wind measurements rather than cold weather applications
@@ -29,6 +29,7 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **June 17, 2026**: Confirmed no S0 flight scheduled over OOI array for weekend of June 20-21; Maciej following up on outcome of SASCWATCH meeting
 - **July 20, 2026**: OOI flight planning initiated for stepped descent out-and-back pattern starting at 100 m or below; orientation to be finalized day-of based on wind conditions; S0 recovery over OOI array deemed unlikely due to insufficient funding (Nick P. unable to secure recovery funding); confirmed S0 will not be painted orange and should be assumed unrecoverable unless last-minute funding materialized
 - **July 20, 2026**: P-3 crew identified: aircraft will have personnel on board for S0 operations during OOI flights
+- **July 21, 2026**: OOI array validation flight mission scheduled: Alex Lomis available Monday-Wednesday (arrives Monday, flies mission Tuesday, returns Wednesday); aircraft at AOC being updated to current specifications; Josh Wadler arriving Tuesday for flight operations; coordination with GCS access confirmed as needed
 
 ## Projects & Initiatives
 **Navy STTR Boundary Layer Measurements Project (Award: N6833535C0270)**
@@ -44,12 +45,10 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - Orientation weather-dependent, to be finalized day-of
 - Similar flight profile previously executed during Avon Park flight (reference point for planning)
 - S0 recovery unlikely; no dedicated recovery funding available
-- Near-term focus: July 2026 execution pending flight hour availability; potential deferral to October if feasibility unclear
+- **Active execution**: Mission scheduled for week of July 21-23, 2026 with Alex Lomis as pilot; P-3 crew coordinated for S0 operations support
+- Aircraft systems at AOC being updated to current specifications prior to flight
 
 **Technical Development Areas:**
 - S0 sensor suite: PTH (Vaisala) at 5Hz, wind at 100Hz, additional static pressure sensor at 100Hz
 - Cold weather specifications: -40°C to -60°C operation capability
-- De-ice heater development for standalone system with COTS process controller
-- Ocean validation missions in 4 phases testing sensing, algorithms, wave height, QC, and AI autonomy
-- **Humidity Sensor Correction**: Vaisala humidity error identified and corrected with post-processing fix; real-time correction now active in firmware (as of April 17, 2026); contributes minimal wind error (<a few cm/s)
-- **Wind Data Improvements**: Dual GPS heading data enabling improved wind estimation techniques
+- De-ice heater development for standalone system

@@ -1,5 +1,5 @@
 # BST Financial Overview (QuickBooks)
-**Period: July 20–21, 2026 | Data Range: April 2024 – September 2026**
+**Report Period:** April 5, 2024 – September 28, 2026
 
 ---
 
@@ -7,76 +7,69 @@
 
 | Metric | Amount |
 |--------|--------|
-| **Total Revenue (Invoices)** | $4,541,906.64 |
-| **Total Expenses** | $2,663,765.55 |
-| **Net Income (Period P&L)** | -$11,655.77* |
-| **Net Position (Cumulative)** | $1,878,141.09 |
-
-*Period P&L shows only July 20–21 activity; cumulative net position reflects all data in QuickBooks.*
+| **Total Revenue (Invoices)** | **$7,537,395.98** |
+| **Total Expenses** | **$2,922,593.82** |
+| **Net Income** | **$4,614,802.16** |
 
 ---
 
-## By Project/Class
-**Sorted by Total Activity (Revenue + Expenses)**
+## Financial Summary by Project/Class
+*(Sorted by Total Activity)*
 
-### 1. Government
+### 1. **Government**
 - **Total Revenue:** $4,519,012.28
-- **Total Expenses:** $1,404,419.46
-- **Net Position:** +$3,114,592.82
-- **Status:** Strong positive; 76 active invoices with $3.25M outstanding
+- **Total Expenses:** $1,412,774.46
+- **Net Position:** $3,106,237.82 ✅ *Profitable*
+- **Transaction Count:** 76 active invoices
+- **Outstanding A/R:** $3,252,701.82
 
-### 2. BST Internal
+### 2. **Commercial**
+- **Total Revenue:** $2,995,489.34
+- **Total Expenses:** $242,720.23
+- **Net Position:** $2,752,769.11 ✅ *Highly Profitable*
+- **Recent Activity:** Invoice #1772 ($3,000, Alliance for Energy Innovation, 2026-07-17) outstanding
+- **Outstanding Purchase Orders:** $1,977.50
+
+### 3. **BST Internal**
 - **Total Revenue:** $22,894.36
-- **Total Expenses:** $1,259,346.09
-- **Net Position:** -$1,236,451.73
-- **Status:** Significant loss; 1,289 transactions over 27+ months; appears to be overhead/internal operations
-
----
-
-## Top Vendors
-*(By expense amount)*
-
-| Vendor | Amount |
-|--------|--------|
-| Subcontractors | $6,777.40 |
-| Direct Material Purchases | $2,500.33 |
-| Employee Healthcare (Fringe) | $2,369.23 |
-| Shipping, Freight & Delivery | $8.81 |
-
-*Note: Full vendor breakdown not detailed in provided data; these reflect Q1 2026 sample.*
-
----
-
-## Top Customers
-*(By revenue)*
-
-| Customer | Amount | Status |
-|----------|--------|--------|
-| Government Projects (76 invoices) | $4,519,012.28 | Primary revenue driver |
-| Invest Ottawa | Partial (Invoice #1771, 2026-07-06) | Open balance |
+- **Total Expenses:** $1,267,099.13
+- **Net Position:** -$1,244,204.77 ❌ *Loss Position*
+- **Transaction Count:** 1,295 transactions over 27+ months
+- **Outstanding Purchase Orders:** $1,700.00 (PO #1038, Amprius)
+- **Note:** Internal operations running at significant loss; expenses far exceed revenue
 
 ---
 
 ## Cash Flow Indicators
 
-| Indicator | Details |
-|-----------|---------|
-| **Accounts Receivable Outstanding** | $3,252,701.82 (Government invoices with open balances) |
-| **Purchase Orders Pending** | $2,532.00 total ($1,700 Amprius for BST Internal; $832 for Government) |
-| **Recent Large Expenses** | Subcontractors ($6,777.40), Direct Materials ($2,500.33), Healthcare ($2,369.23) in reporting period |
-| **Long-Inactive Projects** | BST Internal spans 27+ months with minimal recent revenue; may be overhead allocation |
+### Accounts Receivable (Outstanding)
+- **Government Projects:** $3,252,701.82 outstanding
+- **Commercial Projects:** $3,000.00 outstanding (Invoice #1772)
+- **Total A/R:** $3,255,701.82
+
+### Outstanding Purchase Orders
+- PO #1038 (Amprius) – BST Internal: $1,700.00
+- Commercial POs: $1,977.50
+
+### Recent Large Activity
+- Invoice #1772 (Commercial): $3,000 – July 17, 2026
+- Multiple Government invoices with significant balances (76 active invoices)
+
+---
+
+## Key Insights
+
+✅ **Strengths:**
+- Government contracts driving majority of revenue ($4.52M)
+- Commercial segment highly profitable ($2.75M net)
+- Combined profitability of $4.61M
+
+⚠️ **Concerns:**
+- **BST Internal Operations:** Running at -$1.24M loss with limited revenue generation
+- **High A/R Balance:** $3.26M outstanding across Government/Commercial – collection risk
+- **P&L Report Anomaly:** Recent 2-day P&L (7/21-7/22) shows -$2,771.08, suggesting negative cash flow period requiring investigation
 
 ---
 
 ## Unclassified Transactions
-
-**None identified.** All 1,293+ transactions are assigned to either **Government** or **BST Internal** classes.
-
----
-
-## Key Observations
-
-1. **Government work is the revenue engine:** $4.5M invoiced vs. $22.9K internal revenue; represents 99.5% of total invoicing.
-2. **Cash flow lag:** $3.25M outstanding on Government invoices creates working capital pressure despite positive net position.
-3. **BST Internal appears to be overhead:** $1.26M in cumulative expenses against minimal revenue suggests internal operations, R&D, or project setup costs.
-4. **Strong cumulative position:** Despite current period loss, company shows +$1.88M net cumulative position from all activities.
+No significant unclassified transactions noted in the data provided. All expenses are assigned to project classes (DIRECT COSTS, R&D).

@@ -7,32 +7,30 @@
 - **Status:** Active
 - **Dollar value:** Not specified
 - **Timeline:** No defined project timeline; no current due dates set
-- **Team members involved:** Dan Prendergast, Jack Elston, Spencer Hoehl, Maciej Stachura
+- **Team members involved:** Dan Prendergast, Jack Elston, Spencer Hoehl, Maciej Stachura, Ethan Domagala
 
 ## Key Deliverables & Milestones
 None defined.
 
 ## Task Summary
-- **Total tasks:** 0 open, 1 completed
+- **Total tasks:** 1 open, 0 completed
 - **Tasks by assignee:**
-  - Spencer Hoehl: 1 completed task (100% completion)
-  - Maciej Stachura: 0 tasks (previous S30001 task no longer in current data)
-- **Recent completion:**
-  1. **S10019 Aileron Misalignment** (Spencer Hoehl, completed 2026-07-20)
+  - Ethan Domagala: 1 open task (0% completion)
+- **Open task:**
+  1. **Trims** (Ethan Domagala, S10019)
      - Work Type: Fix
      - Aircraft Status: Up (Operational)
      - QC Required: No
      - Issue Type: Hardware
-     - Description: Fix the aileron misalignment that is present when they are at neutral deflection
+     - Description: S1-19 was out of trim; Jack trimmed it manually. Need to reset the surfaces for the current center points in manual.
 
 ## Recent Activity
-- **S10019 Aileron Misalignment completed** (2026-07-20 by Spencer Hoehl) — aileron alignment work on operational aircraft resolved
-- Previous S30001 rear motor task no longer appears in current data — either completed, archived, or handled externally
-- No open maintenance tasks currently tracked in Asana; fleet maintenance backlog appears clear or moved to external tracking
+- **New open task:** Trims (S10019) assigned to Ethan Domagala — aircraft is operational but requires trim surface reset following manual adjustment by Jack
+- **Change from previous state:** S10019 Aileron Misalignment was previously marked completed (2026-07-20); new Trims task now open on same aircraft
 
 ## Notes & Context
 - Project structure uses aircraft tail numbers as section headers (List view)
 - Custom fields: Work Type (Fix/New Feature), Aircraft Status (Up/Down), QC Required (Yes/No), Hardware or Software
 - Fleet now includes: E20006, E20009, E20014, S10022, S10005, S20009, S20004, S30001, S10019, S10021
-- All tracked maintenance items currently complete; no open items suggests either backlog cleared or maintenance prioritization managed outside Asana
-- **Change from previous state:** S10019 was open (0% complete); now marked completed (100% complete) as of 2026-07-20
+- **S10019 activity:** Aircraft appears to be receiving active maintenance attention — aileron alignment recently completed; trim work now in progress
+- No due date set on Trims task; no urgency indicated despite aircraft being operational

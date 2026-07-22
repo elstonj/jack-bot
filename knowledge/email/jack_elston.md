@@ -1,72 +1,65 @@
 # Jack Elston — Email Patterns (UPDATED)
 
 ## Communication Volume
-- **Total messages scanned:** 6,962 (6,862 prior + 100 new Jul 20–21)
-- **Date range:** April 1–July 21, 2026
+- **Total messages scanned:** 7,062 (6,962 prior + 100 new Jul 21–22)
+- **Date range:** April 1–July 22, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **Jul 20–21 activity (100 messages):** ~30% human correspondence (KRATEO partnership intensification, SOCOM demo logistics, NOAA hurricane ops, recruiting kickoffs, technical coordination); ~38% automated vendor/logistics/purchasing (JawsTec, Harbor Freight, WordPress, Pirate Ship, Battery Junction, USPS, HALO-Aero quotes); ~17% system/administrative alerts (NASA Guest account setup, Login.gov authentication, CDLE FAMLI, DISA WAWF); ~15% NOAA operational/scientific distributed lists (Hurricane Field Program flight tracks, tropical depression coordination, sascwatch-all listserv)
+- **Jul 21–22 activity (100 messages):** ~28% human correspondence (Krateo partnership expansion, Whitehorse test event coordination, Stanford CAD requests, NOAA flight ops, NASA SBIR execution, recruiting kickoffs); ~45% automated vendor/logistics/purchasing (McMaster-Carr, Amazon, DigiKey, JawsTec, FedEx, UPS, SparkFun, WordPress, SkyGeek); ~12% system/administrative alerts (UnitedHealthcare, AFRL P2 SBIR execution, Boulder County health, DARPAConnect); ~15% NOAA operational/scientific distributed lists (Proposed Flight Track for TS Bertha, ROSES-25 planetary science amendment, sascwatch-all)
 
 ## Key Correspondents
 
 ### Top Internal Partners (Intensifying Engagement)
 
-1. **Sona Raziabeegum - Krateo Sky** (sona@krateosky.com) — **KRATEO COMPENSATION + RECRUITING ALIGNMENT (MAJOR ESCALATION):**
-   - **New high-priority exchanges (Jul 20–21):**
-     - Re: BST compensation adjustments, for your sign-off (Jul 21, 01:54 SENT) — Jack responding directly to Sona on compensation sign-off
-     - Re: KS / BST Recruiting Kickoffs (Jul 21, 01:38 SENT) — Jack addressing recruiting kickoff coordination with Krateo
-     - Re: Supply Chain Specialist, recruiting kickoff (Jul 21, 01:02 SENT) — Jack engaged in recruitment planning
-     - RE: KS / BST Recruiting Kickoffs (Jul 20, 23:37 IMPORTANT) — Sona copying Jack on recruiting strategy
-     - Multiple recruiting kickoff threads (Supply Chain Specialist, Technical Project Manager, North America Account Executive) — Sona initiating **BST-Krateo joint recruiting** with Creative Alignments recruiter (Hadley Solomon, Danielle Octavi)
+1. **Sona Raziabeegum - Krateo Sky** (sona@krateosky.com) — **KRATEO COMPENSATION + RECRUITING ALIGNMENT:**
+   - **Status:** Sustained high-priority coordination (no new direct emails in Jul 21–22 batch, but Hadley Solomon recruiting kickoff emails show Sona as co-organizer)
    - **Pattern:** Jack serving as **primary decision-maker on dual-authority HR/compensation matters** (BST + Krateo approval required); **active co-recruitment** with Krateo partners indicates **integrated hiring function**
 
-2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **SOCOM + USSOCOM RFI (ACTIVE ENGAGEMENT):**
-   - **New high-priority exchanges (Jul 20–21):**
-     - Re: SOCOM Demo Aug 16-19 in Nevada (Jul 21, 00:18 SENT) — Jack direct response to Daniel on SOCOM demo planning
-     - Re: SOCOM Demo Aug 16-19 in Nevada (Jul 20, 11:17 IMPORTANT) — Daniel escalating demo logistics to Jack
-     - Re: (U) [Non-DoD Source] Re: RFI S0 (Jul 20, 13:47 IMPORTANT) — Daniel responding to USSOCOM (Evan M. Wolff) with Jack visibility
-     - Re: [EXTERNAL] Re: UAS Deployment at Popocatépetl (Jul 20, 17:36 IMPORTANT) — Daniel coordinating with UNAM Mexico (Paulino Alonso Rivera) on UAS deployment
-   - **Pattern:** Jack **embedded in SOCOM demo execution** (Aug 16-19 Nevada confirmed); **S0 platform** central to RFI response; **international UAS operations** (Mexico volcanology) coordinated through Daniel
+2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **SOCOM RFI + NASA SBIR (ESCALATING):**
+   - **New high-priority exchanges (Jul 21–22):**
+     - Re: (U) [Non-DoD Source] Re: RFI S0 (Jul 21, 22:01 SENT) — Daniel responding to USSOCOM (Evan M. Wolff) with SOCOM RFI S0 response
+     - Re: Exciting News - Phase II NASA SBIR! (Jul 21, 19:29 IMPORTANT) — Daniel corresponding with Maithreyi Gopalakrishnan (Precision Terra) on Phase II NASA SBIR award
+     - Fwd: (U) [Non-DoD Source] Re: RFI S0 (Jul 21, 14:42 SENT) — Daniel forwarding to Bob Smith (Krateo) on SOCOM coordination
+     - Bob Smith response (Jul 21, 21:23) confirms **Krateo involvement in S0 platform SOCOM bid**
+   - **Pattern:** Jack **embedded in SOCOM RFI strategy** through Daniel; **NASA SBIR Phase II award** visible (Precision Terra partnership); S0 platform central to multiple government streams
 
-3. **Maciej Stachura** (stachura@blackswifttech.com) — **NOAA OPERATIONS + NASA PROPOSALS (DEEPENING):**
-   - **New high-priority exchanges (Jul 20–21):**
-     - Copied on SOCOM Demo (Jul 21, 00:18)
-     - Copied on QC Website coordination (Jul 21, 02:16) — Jack + Maciej + Brian Grubel (Krateo)
-     - Re: Cost Estimate for NASA Juno Proposal (Jul 20, 15:41 IMPORTANT) — Maciej coordinating with WeatherStream (ERYAN Dai) on NASA cost estimate
-     - Re: Cost Estimate for NASA Juno Proposal (Jul 20, 12:06 IMPORTANT) — Beck Cotter escalating NASA Juno proposal to Maciej
-     - Preliminary Flight Tracks for Wednesday, Jul 22, 2026 (Jul 20, 20:00 IMPORTANT) — Jason Sippel (NOAA) direct distribution to Maciej on hurricane ops
-   - **Pattern:** Maciej managing **NASA Juno proposal costing** (WeatherStream vendor); **integrated with NOAA HFP daily operations** (flight track distribution)
+3. **Maciej Stachura** (stachura@blackswifttech.com) — **NOAA OPS + WHITEHORSE TEST EVENT + NASA ROSES:**
+   - **New high-priority exchanges (Jul 21–22):**
+     - Fwd: Engineering Sprint and the Whitehorse Test Event (Jul 21, 19:09 IMPORTANT) — Bob Smith (Krateo) copying Maciej + Daniel on **Whitehorse Test Event** with Nextech Solutions (Trenton McKibben)
+     - Maciej response (Jul 21, 15:17 IMPORTANT) — Maciej actively coordinating Whitehorse test event with Trenton McKibben
+     - Fwd: [Smd] ROSES-25 Amendment 65: New Opportunity: C.4 Planetary Science Enabling Facilities (Jul 21, 11:07) — Al Gasiewski (CU Boulder) forwarding NASA ROSES amendment to Jack + Maciej + Eryan Dai (Colorado) + Michael Hurowitz (Orbital Micro)
+   - **Pattern:** Maciej managing **Whitehorse test event** (possible Arctic location based on prior Beck Cotter email on "Arctic UAS Location Change"); **NASA Planetary Science proposal opportunities** being evaluated; **WeatherStream/Orbital Micro collaboration** visible
 
-4. **Brian Grubel - Krateo Sky** (Brian@krateosky.com) — **KRATEO OPERATIONS + RECRUITMENT (NEW ESCALATION):**
-   - **New high-priority exchanges (Jul 20–21):**
-     - Re: Technical Project Manager, recruiting kickoff (Jul 21, 00:51 SENT) — Jack responding to Brian on recruitment
-     - QC Website (Jul 21, 02:16 SENT) — Jack directly coordinating website QC with Brian + Maciej
-     - Re: Technical Project Manager, recruiting kickoff (Jul 21, 01:15 IMPORTANT) — Brian escalating recruiting (with Creative Alignments recruiters Hadley Solomon, Danielle Octavi)
-   - **Pattern:** Brian as **Krateo operations point** on recruitment + technical projects (QC Website); suggests **collaborative product/website development**
+4. **Brian Grubel - Krateo Sky** (Brian@krateosky.com) — **KRATEO WHITEHORSE + RECRUITING (ESCALATING):**
+   - **New high-priority exchanges (Jul 21–22):**
+     - Fwd: Engineering Sprint and the Whitehorse Test Event (Jul 21, 14:39 SENT) — Jack forwarding Whitehorse event details to Brian + Bob Smith + Lisa Marie Cheney
+     - Re: Engineering Sprint and the Whitehorse Test Event (Jul 21, 21:56 IMPORTANT) — Brian responding on Whitehorse coordination
+     - Re: Engineering Sprint and the Whitehorse Test Event (Jul 21, 21:56 IMPORTANT) — Brian escalating to Bob Smith + Jack on engineering sprint status
+   - **Pattern:** Brian **actively participating in Whitehorse test event engineering** (suggests field deployment readiness testing); **joint BST-Krateo engineering effort**
 
 ### Top External Partners (Operational Integration + Strategic Expansion)
 
 #### **NOAA FEDERAL — HURRICANE OPS (REAL-TIME OPERATIONAL INTEGRATION)**
 
-1. **Jason Sippel - NOAA Federal** (jason.sippel@noaa.gov) — **NOAA HFP OPERATIONS LEAD:**
-   - **New operational distributions (Jul 20–21):**
-     - Preliminary Flight Tracks for Wednesday, Jul 22, 2026 (Jul 20, 20:00 IMPORTANT) — Direct Jack distribution in 70+ recipient scientific/operational consortium
-     - **Pattern:** Jack **daily recipient** of operational flight track coordination; tropical depression (TD2) tracking coordination **active on 24-hour cycle**
+1. **Jason Sippel - NOAA Federal** (jason.sippel@noaa.gov / sascwatch-all-list@nd.edu) — **NOAA HFP OPERATIONS LEAD:**
+   - **New operational distributions (Jul 21–22):**
+     - Proposed Flight Track for 20260722I1 (TS Bertha) (Jul 21, 13:18 IMPORTANT) — Jason distributing tropical storm flight track to 50+ member consortium including Jack
+   - **Pattern:** Jack **embedded in real-time tropical storm (TS Bertha) operations** on 24-hour flight track cycle; **active participant in distributed NOAA scientific network**
 
-2. **Joe Cione - NOAA Federal** (joe.cione@noaa.gov) — **NOAA OPERATIONS LEAD (CONTINUING):**
-   - **No new direct emails in Jul 20–21 batch** but sustained operational integration evidenced by prior period
+2. **Beck Cotter - Black Swift (NOAA Liaison)** (beck.cotter@blackswifttech.com) — **NOAA INTERFACE + NASA SBIR COORDINATION:**
+   - **New high-priority exchanges (Jul 21–22):**
+     - Fwd: PY2025 NASA SBIR Phase II: Update on Your Proposal (Jul 21, 14:34 SENT) — Jack forwarding NASA SBIR Phase II update to Beck
+     - Fwd: Congratulations: Your SBIR/STTR Contract is Now Executed (Jul 21, 14:33 SENT) — Jack forwarding executed SBIR/STTR contract notice to Beck
+     - Request for feedback (Jul 21, 14:42 IMPORTANT) — Beck sending request for feedback to agency-sbir@mail.nasa.gov
+     - Re: New Delivery Order/Upcoming (Jul 21, 12:28 IMPORTANT) — Beck coordinating with Amy McLiverty (NOAA Federal) on delivery order
+     - Re: Arctic UAS Location Change (Jul 21, 11:24 IMPORTANT) — Beck coordinating with Trenton McKibben (Nextech) + Invest Ottawa on **Arctic UAS location change** (confirms Arctic deployment)
+   - **Pattern:** Beck functioning as **NASA SBIR execution manager** (Phase II contract now active); **Arctic UAS operations** logistics coordinated through Beck + Invest Ottawa partnership
 
-3. **Roland Brian - NOAA Affiliate** (roland.brian@noaa.gov) — **NOAA EQUIPMENT/LOGISTICS COORDINATION:**
-   - **New exchanges (Jul 20–21):**
-     - Re: Charging S0's (Jul 20, 16:35 SENT) — Jack responding to Roland on S0 platform charging/logistics
-     - Re: Charging S0's (Jul 20, 12:46 IMPORTANT) — Roland inquiring on S0 charging status to Jack
-   - **Pattern:** Jack **directly managing S0 platform logistics** for NOAA operations (charging, maintenance, deployment readiness)
+3. **Amy McLiverty - NOAA Federal** (amy.l.mcliverty@noaa.gov) — **NOAA DELIVERY ORDER COORDINATION:**
+   - **New exchanges (Jul 21–22):**
+     - Re: New Delivery Order/Upcoming (Jul 21, 14:09 IMPORTANT) — Amy responding to Beck on delivery order status
+   - **Pattern:** NOAA formal procurement channel open; **delivery orders** for UAS operations in flight phase
 
-4. **Nicholas Underwood - NOAA Federal** (nicholas.underwood@noaa.gov) — **NOAA OPS COORDINATION:**
-   - **New exchanges (Jul 20–21):**
-     - Fwd: ET Hotwash Due Out (Jul 20, 13:28 IMPORTANT) — Nick forwarding ET (Evaluation Team) hotwash report to Jack
-     - Re: Checklist (Jul 20, 09:34 SENT) — Jack responding to Nick on operational checklist
-   - **Pattern:** Jack participating in **post-flight evaluation** (hotwash) process; **daily operational checklists** coordinated
+#### **KRATEO SKY TECHNICAL PARTNERSHIPS (EMERGING HIGH-PRIORITY)**
 
-5. **Heather Holbach - NOAA Affiliate** (heather.holbach@noaa.gov) — **NOAA FLIGHT OPERATIONS (NEW VISIBLE ENGAGEMENT):**
-   - **New operational distributions (Jul 20):**
-     - Proposed Flight
+1. **Thibault Bridel-Bertomeu - Krateo Sky** (Thibault@krateosky.com) — **KRATEO INTERIM COLLABORATION + SHARED MESSAGING:**
+   - **New high-priority exchanges (Jul

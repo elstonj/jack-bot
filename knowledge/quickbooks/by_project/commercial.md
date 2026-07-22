@@ -2,10 +2,10 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $2,995,489.34
-- **Total Expenses (Bills + Purchases):** $241,843.16
+- **Total Expenses (Bills + Purchases):** $242,720.23
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,753,646.18 (Revenue exceeds expenses)
-- **Date Range:** April 5, 2024 – July 18, 2026
+- **Net Position:** $2,752,769.11 (Revenue exceeds expenses)
+- **Date Range:** April 5, 2024 – July 21, 2026
 
 ---
 
@@ -94,17 +94,21 @@
 
 ## Expenses by Cost Category
 
+### **Shipping/Freight** (Direct Cost Shipping, Freight & Delivery)
+**Total: $877.07** | 1 transaction | Largest item: $877.07
+
+| Date | Vendor/Description | Amount | Details |
+|------|-------------------|--------|---------|
+| 2026-07-21 | Aeronet Worldwide (Bill #103032432) | $877.07 | Shipping items to Murray State for Trip #3 |
+
 ### **Materials & Supplies** (Direct Cost Material Purchases)
 **Total: $1,893.34** | 15 transactions | Largest item: $499.00
 
 | Date | Vendor/Description | Amount | Details |
 |------|-------------------|--------|---------|
 | 2026-07-09 | SERVOCITY #7333 | $189.43 | 2302 Series Aluminum MOD 0.8 Hub Mount Gear and 2305 Series Brass MOD 0.8 Servo Gear |
-| 2026-07-07 | Purchase (No Asana Request) | $287.74 | Multiple items: $15.52 + $222.22 = items for project work |
+| 2026-07-07 | Purchase (No Asana Request) | $287.74 | Multiple items for project work |
 | 2026-07-07 | Purchase #0707JELSTON | $64.40 | Shop/project materials |
 | 2026-06-30 | Purchase #2026-0411 | $499.00 | Processing data for Murray State |
 | 2026-06-30 | Digi Key Corp #DKC*DIGI KEY CORP - 4617 | $115.61 | HEATSINK PWR DUAL BLACK T |
-| 2026-06-24 | Purchase #0624JELSTON | $20.93 | Navy Magnetometer |
-| 2026-06-24 | Purchase #0624JELSTON | $2.58 | By Light Supplies |
-| 2026-07-06 | Purchase #69738 (JAWSTEC) | $221.12 | For By Light |
-| 2026-07-06 | Purchase #69729 (JAWST
+| 2026-06-24 | Purchase #0624JEL

@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $4,519,012.28
-- **Total Expenses (Bills + Purchases):** $1,404,419.46
+- **Total Expenses (Bills + Purchases):** $1,412,774.46
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,114,592.82 (invoiced minus expenses)
+- **Net Position:** $3,106,237.82 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -81,8 +81,8 @@
 
 ---
 
-### **Materials & Supplies: $540,239.30**
-**Number of transactions:** 233  
+### **Materials & Supplies: $548,594.30**
+**Number of transactions:** 234  
 
 **Key vendors & items:**
 
