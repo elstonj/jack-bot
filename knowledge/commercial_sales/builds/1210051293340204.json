@@ -48,8 +48,8 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Commercial S2 rental + survey services for Murphy's Pond CH4 monitoring [018-1]. Invoice #1728 ($86,862.94) paid Dec 17, 2025. Trip #2 (Jun 21-22, 2026): Dan Prendergast and Jack Elston conducted successful data collection. S3 battery shipment (qty 3) shipped Jun 22 via Aeronet #103032275; delivered week of Jun 29. Thermal orthomosaic and survey data delivered Jun 29-30. Dr. Masri confirmed satisfaction Jun 30, 2026; inquired about cost for remaining two site visits (estimated same per trip). Project funding expires Dec 31, 2026.",
+  "notes": "Commercial S2 rental + survey services for Murphy's Pond CH4 monitoring [018-1]. Invoice #1728 ($86,862.94) paid Dec 17, 2025. Trip #2 (Jun 21-22, 2026): Dan Prendergast and Jack Elston conducted successful data collection; thermal orthomosaic and survey data delivered Jun 29-30. Dr. Masri confirmed satisfaction Jun 30, 2026. S3 structural failure occurred Jul 21, 2026 during testing; remaining flight(s) tentatively scheduled end of year before Dec 31 funding expiration. Dr. Masri requested maximum flights by mid-October if possible.",
   "missing_fields": [],
-  "last_evidence_date": "2026-07-17",
-  "last_contact_date": "2026-06-30"
+  "last_evidence_date": "2026-07-21",
+  "last_contact_date": "2026-07-21"
 }

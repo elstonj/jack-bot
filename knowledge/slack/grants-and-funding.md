@@ -6,9 +6,9 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 **Key Participants:** Jack Elston (primary decision-maker and proposal reviewer), Maciej (technical/proposal support and field operations), Meredith Needham (budget/administrative), Dan Prendergast (proposal coordination and logistics), Beck Cotter (program management/budget formatting/export compliance), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm (hardware/integration), Paige Smith (presentation/logistics support), Arthur (technical partner for payload/antenna work), Bryan (external contact for Vulcan opportunity), Sona (operational/budget planning), Gijs (BNL partner), Kirsten Boogard (777 PM at NOAA), Bob and Lisa (camera/integration leads), SkyMesa (RF/EW partner), Hank (external contact with S3 design requests), Ariel (pipeline/portfolio oversight), Lockheed Martin UK (LMUK - partnership contact), Annette (format/process coordinator), Kreateo (external legal/compliance consultant for USML classification), Alex (RF analysis), Trenton/NexTech (external contact for temperature capability discussions), C-Astral (external contact), Bassil (customer/funder for flight operations), Roger (external contact for COO/parts analysis), and others contributing to specific proposals.
 
-**Activity Level:** Extremely high throughout the period (March 2024 - July 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. June 2026 represented a particularly intense period with concurrent work on Arctic customer qualification, SOCOM engagement, international demonstration travel logistics, customer questionnaire responses, camera/video integration troubleshooting, and demo preparation alongside ongoing proposal work. Activity continues into July 2026 with funded flight operations management, demo/personnel calendar coordination, tracking of major government program announcements, and hardware supply chain coordination.
+**Activity Level:** Extremely high throughout the period (March 2024 - July 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. June 2026 represented a particularly intense period with concurrent work on Arctic customer qualification, SOCOM engagement, international demonstration travel logistics, customer questionnaire responses, camera/video integration troubleshooting, and demo preparation alongside ongoing proposal work. Activity continues into July 2026 with funded flight operations management, demo/personnel calendar coordination, tracking of major government program announcements, hardware supply chain coordination, and international partnership engagement.
 
-**Time Range:** March 3, 2024 - July 14, 2026
+**Time Range:** March 3, 2024 - July 21, 2026
 
 ---
 
@@ -71,4 +71,4 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
   - **Due Date:** May 21, 2026 (quick turnaround)
   - **Previous funding status:** Only one Phase 1 funded in wildfire topic so far; decision pending on which angle to pursue for wildfire proposal
 
-- **NASA 2026B SBIR focus** (April 21, 2026): Maciej confirmed only 2026B SBIR release contains non-space topics
+- **NASA 2026B SBIR focus** (April 21, 2026): Maciej confirmed only 2026B SBIR release contains

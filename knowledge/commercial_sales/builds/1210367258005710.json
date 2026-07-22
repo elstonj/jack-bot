@@ -19,12 +19,48 @@
   "payment_state": "invoice_sent",
   "build_state": "parts_ordered",
   "ship_state": "none",
-  "estimate_date": null,
+  "estimate_date": "2025-07-18",
   "invoice_date": "2026-02-17",
   "invoice_amount": null,
   "invoice_number": "80NSSC25PC031",
   "paid_date": null,
-  "parts": [],
+  "parts": [
+    {
+      "name": "S20009 launcher system",
+      "ordered": true,
+      "received": false,
+      "vendor": "Internal",
+      "order_date": null
+    },
+    {
+      "name": "Gimbal modification components",
+      "ordered": true,
+      "received": false,
+      "vendor": "Internal/Sourced",
+      "order_date": null
+    },
+    {
+      "name": "DB9 connectors and rewiring materials",
+      "ordered": true,
+      "received": false,
+      "vendor": "Sourced",
+      "order_date": null
+    },
+    {
+      "name": "Launcher case refurbishment materials",
+      "ordered": true,
+      "received": false,
+      "vendor": "MM Solutions (cases on delivery 2026-06-01)",
+      "order_date": null
+    },
+    {
+      "name": "3D-printed components (drop-ship capable)",
+      "ordered": false,
+      "received": false,
+      "vendor": "Internal/Subcontractor",
+      "order_date": null
+    }
+  ],
   "tracking_number": null,
   "carrier": null,
   "shipped_date": null,
@@ -38,6 +74,6 @@
     "ship_to",
     "invoice_amount"
   ],
-  "last_evidence_date": "2026-02-20",
+  "last_evidence_date": "2026-07-20",
   "last_contact_date": "2026-02-20"
 }

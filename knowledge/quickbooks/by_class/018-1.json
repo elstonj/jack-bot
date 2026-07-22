@@ -1,41 +1,41 @@
 {
   "project_code": "018-1",
   "qbo_class_names": [
-    "[018-1] Murphy's Pond CH4"
+    "[018] Murray State University:[018-1] Murphy's Pond CH4"
   ],
   "period": {
-    "start": "2026-06-30",
-    "end": "2026-07-01"
+    "start": "2026-07-21",
+    "end": "2026-07-22"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 499.0,
+    "expenses": 877.07,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 499.0
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 877.07
     }
   },
   "invoices": [],
-  "bills": [],
-  "purchases": [
+  "bills": [
     {
-      "type": "Purchase",
-      "date": "2026-06-30",
-      "doc_number": "2026-0411",
-      "total": 499.0,
-      "attributed": 499.0,
-      "vendor": "",
+      "type": "Bill",
+      "date": "2026-07-21",
+      "doc_number": "103032432",
+      "total": 877.07,
+      "attributed": 877.07,
+      "vendor": "Aeronet Worldwide",
       "customer": "",
-      "balance": null,
+      "balance": 0.0,
       "memo": "",
       "lines": [
         {
-          "amount": 499.0,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Processing data for Murray State"
+          "amount": 877.07,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping items to Murray State for Trip #3"
         }
       ]
     }
   ],
+  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

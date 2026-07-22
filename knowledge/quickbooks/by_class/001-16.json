@@ -4,14 +4,14 @@
     "(001-16) SwiftStation"
   ],
   "period": {
-    "start": "2026-07-16",
-    "end": "2026-07-17"
+    "start": "2026-07-21",
+    "end": "2026-07-22"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 626.0,
+    "expenses": 1894.01,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 626.0
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 1894.01
     }
   },
   "invoices": [],
@@ -19,37 +19,78 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-16",
-      "doc_number": "",
-      "total": 459.0,
-      "attributed": 459.0,
+      "date": "2026-07-21",
+      "doc_number": "000419974",
+      "total": 305.75,
+      "attributed": 305.75,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "WWW.MICROHARDCORP.COM - 7333",
+      "memo": "",
       "lines": [
         {
-          "amount": 459.0,
+          "amount": 305.75,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "1 x p900-SWP"
+          "description": "SparkFun GPS-RTK Board - NEO-M8P-2; GNSS L1/L2 Multi-Band Magnetic Mount Antenna - 5m (SMA)"
         }
       ]
     },
     {
       "type": "Purchase",
-      "date": "2026-07-16",
-      "doc_number": "17721",
-      "total": 167.0,
-      "attributed": 167.0,
+      "date": "2026-07-21",
+      "doc_number": "",
+      "total": 154.17,
+      "attributed": 154.17000000000002,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "PayPal",
+      "memo": "No Asana request",
       "lines": [
         {
-          "amount": 167.0,
+          "amount": 129.0,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": ""
+          "description": "Pelican 1170 case x 2"
+        },
+        {
+          "amount": 25.17,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "cable and connectors"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-21",
+      "doc_number": "100525116",
+      "total": 1324.32,
+      "attributed": 1324.32,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 1324.32,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Supplies for SwiftStation"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-21",
+      "doc_number": "7004",
+      "total": 109.77,
+      "attributed": 109.77,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "JAWSTEC - 4617",
+      "lines": [
+        {
+          "amount": 109.77,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "parts for IRAD Swiftstation"
         }
       ]
     }

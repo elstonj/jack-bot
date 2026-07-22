@@ -2,54 +2,63 @@
 
 ## Active Project Budgets
 
-### Project 018-1: Murphy's Pond CH4 Monitoring
-| Field | Details |
-|-------|---------|
-| **Project Code** | 018-1 |
-| **Client** | Murray State University |
-| **Total Contract Value** | $88,862.94 |
-| **Contract Type** | Service contract (drone-based environmental measurement) |
-| **Period of Performance** | 3 field campaigns in 2026 (May, July, August) |
-| **Scope** | CH4, CO2, H2O measurement collection over 5 km × 5 km area, Murphy's Pond, Hickman County, KY |
-
-#### Budget Breakdown (Internal BST Budget)
-**Personnel (Employees):**
-- Jack Elston (PI): 96 hrs @ $150/hr = $14,400 + fringe (29.28%) = **$18,616**
-- Maciej Stachura (Flight Ops & Data Processing): 96 hrs @ $150/hr = *[incomplete in source document]*
-
-**Status:** Personnel section incomplete; document cut off during Maciej Stachura line item.
+### Project 301-2
+- **Project Code:** 301-2
+- **Client:** University of Miami (NOAA/AOML Hurricane Research Division)
+- **Total Budget:** $986,000 (as of October 2024 addendum)
+- **Contract Type:** Services Agreement (Research & Development) — NOAA tropical cyclone research
+- **Period of Performance:** 10/31/2021 – 06/30/2025 (extended)
+- **PO Number:** PO-0000470189 (02/02/2022)
+- **Key Contacts:** Jun Zhang (University of Miami/CIMAS); Dr. Joseph Cione (NOAA/AOML/HRD)
+- **Status:** Active (extended through mid-2025)
+- **Financial Data Available:** Contract value documented; detailed spend/remaining breakdown incomplete in provided data
 
 ---
 
 ## By Funding Source
-- **Murray State University:** $88,862.94
+
+| Agency/Client | Project Code(s) | Total Funded | Notes |
+|---|---|---|---|
+| NOAA/University of Miami | 301-2 | $986,000 | Primary active award; tropical cyclone research |
+| NASA | [200] AREN (MiniCam) | TBD | Preliminary costing phase; commercial product development |
+| Multi-agency portfolio | Unassigned | TBD | 1,181 budget documents spanning NASA, NOAA, DoD, others |
 
 ---
 
 ## By Contract Type
-- **Service Contract (Environmental/Drone Measurement):** $88,862.94
+
+- **NOAA Services Agreement (R&D):** Project 301-2 ($986,000)
+- **NASA Commercial/IRAD:** [200] AREN/MiniCam (preliminary phase, amount TBD)
+- **Mixed Federal Portfolio:** Unassigned documents (NASA, NOAA, DoD — details incomplete)
 
 ---
 
 ## Financial Health Indicators
 
-⚠️ **Data Completeness Issues:**
-- Internal BST budget document is incomplete (personnel costs partially documented)
-- Full cost breakdown not available for review
-- No spend-to-date or remaining budget information provided
-- No QuickBooks integration data referenced
-
-⚠️ **Timeline Note:**
-- All work scheduled for 2026 (future fiscal year)
-- No immediate budget pressure but should confirm resource allocation for personnel hours
+| Project | Status | Concern Level | Notes |
+|---|---|---|---|
+| 301-2 | Active | **Low-Medium** | Contract extended through 06/30/2025; budget structure established but spend/remaining data not provided |
+| MiniCam [200] | Preliminary | **Pending** | In preliminary cost analysis phase (Feb 2026 document); not yet funded |
+| Unassigned Portfolio | Mixed | **Unknown** | 1,181 documents present but lack centralized project tracking; requires organization |
 
 ---
 
 ## QuickBooks Integration Notes
-- No QuickBooks references found in provided documents
-- Budget data sourced from Google Drive document dated 12/16/2024
-- Recommend cross-referencing with QuickBooks when available for cost tracking against $88,862.94 contract value
+
+- **Project 301-2:** Budget data documented but **no QuickBooks cross-reference provided** in available docs; recommend matching PO-0000470189 and contract value against QB records
+- **Unassigned Projects:** Portfolio of 1,181 documents indicates fragmented record-keeping; **high priority to audit QB against Drive documents** to reconcile funding sources and project codes
+- **Critical Gap:** No spend-to-date, invoice history, or remaining balance data provided for any active project; QB integration needed for cash flow visibility
 
 ---
 
-**Note:** Documentation requires completion of personnel cost section and full budget detail to provide comprehensive financial overview.
+## Data Completeness Summary
+
+| Data Point | 301-2 | Unassigned Portfolio | Status |
+|---|---|---|---|
+| Contract value | ✓ | Partial | Need QB linkage |
+| Spend/remaining | ✗ | ✗ | **Missing** |
+| Period of performance | ✓ | Partial | Documented |
+| Client/agency | ✓ | Documented | Complete |
+| Contact information | ✓ | Partial | Available for 301-2 |
+
+**Recommendation:** Consolidate unassigned projects into QB and Drive with consistent project codes; reconcile 301-2 spend against contract value.

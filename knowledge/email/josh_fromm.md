@@ -1,94 +1,70 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total: 258 messages** scanned across ~9 days (Jul 12-21, 2026)
-- Average ~29 messages/day
-- **New data (Jul 20-21)**: 36 messages; predominantly automated/transactional (vendor confirmations, shipping, procurement tracking)
-- Significant sustained noise from purchasing inbox routing, promotional emails, and automated vendor notifications
+- **Total: 305 messages** scanned across ~10 days (Jul 12-22, 2026)
+- Average ~30.5 messages/day
+- **New data (Jul 21-22)**: 47 messages; continuing high volume of automated/transactional (procurement confirmations, shipping, vendor orders) with critical leadership coordination mixed in
+- Sustained heavy procurement inbox routing; significant noise from vendor confirmations, promotional emails, and automated notifications
 
 ## Key Correspondents
 
 ### Top Senders (Direct to josh.fromm@blackswifttech.com)
 
 **Leadership & Strategic Coordination**
-1. **Jack Elston** (elstonj@blackswifttech.com) — "Meeting Updates" thread (IMPORTANT); **NEW**: SOCOM Demo coordination ongoing (Jul 21, marked IMPORTANT, CC'd to Krateo Sky Bob Smith)
-2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **UPDATED**: Direct SOCOM RFI response coordination with Evan Wolff (Jul 20, marked IMPORTANT); leadership-level demonstration planning
-3. **Roger Riley** (Roger@krateosky.com) — **NEW**: "Vertiq Motor Sample" thread (Jul 20, marked IMPORTANT); includes multi-party technical coordination (C-Astral, Jack Elston, Joshua Fromm)
-4. **Nejc Trost** (nejc.trost@c-astral.com) — **UPDATED**: "Vertiq Motor Sample" response (Jul 20, marked IMPORTANT); active technical engagement on motor procurement/testing
+1. **Jack Elston** (elstonj@blackswifttech.com) — SOCOM Demo ongoing coordination; **NEW**: "Re: SOCOM Demo Aug 16-19 in Nevada" thread (Jul 21, marked IMPORTANT, multiple exchanges with Bob Smith); active logistics planning
+2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **NEW**: "Fwd: Engineering Sprint and the Whitehorse Test Event" (Jul 21 20:01, marked IMPORTANT); now forwarding strategic operations updates directly to Joshua
+3. **Evan Wolff** (evan.m.wolff.mil@socom.mil) — SOCOM direct; **NEW**: "RE: (U) [Non-DoD Source] Re: RFI S0" (Jul 21 16:35, marked IMPORTANT); executive-level RFI response coordination visible
+4. **Bob Smith** (Bob@krateosky.com) — Krateo Sky partnership; **NEW**: Multiple SOCOM demo coordination threads (Jul 21, marked IMPORTANT); directly engaged with Jack Elston on logistics
 
 **Component & Technical Partnerships**
-5. **Chance Rogers** (chance.rogers@vertiq.co) — **NEW**: "Motor repairs" (Jul 20, marked IMPORTANT); Vertiq motor system technical issue escalation; includes Theresa Nguyen (Vertiq)
-6. **Sean Cole** (sean@phase1av.com) — **NEW**: "New S0 wing order" direct engagement (Jul 20, marked IMPORTANT); airframe procurement continuation; Invoice #1116 processed (QuickBooks confirmation Jul 20)
-7. **Olivia Bakos** (olivia.bakos@nominal.io) — **NEW**: "Test & validation bottlenecks?" (Jul 20, marked IMPORTANT); third-party technical oversight/testing partnership identified
+5. **Sean Cole** (sean@phase1av.com) — Phase1 Aviation; **NEW**: "Tail spar" thread (Jul 21 15:05 & 15:57, marked IMPORTANT, bidirectional); airframe component follow-up after earlier "S0 wing order"
+6. **Samantha** (Samantha@bestinparts.com) — **NEW CONTACT**: "CNC machining, Swiss turning, sheet metal fabrication" (Jul 21 09:19 UTC, marked IMPORTANT); response from Joshua Fromm outbound (Jul 21 11:18); active precision manufacturing vendor coordination
+7. **Chance Rogers** (chance.rogers@vertiq.co) — Vertiq; Vertiq motor repair thread visible in CC'd correspondence (Jul 21 08:20, Theresa Nguyen response marked IMPORTANT)
+8. **Theresa Nguyen** (theresa.nguyen@vertiq.co) — Vertiq technical; **UPDATED**: "Re: Motor repairs" (Jul 21 08:20, marked IMPORTANT); indicates ongoing motor system troubleshooting resolution
 
-**Vendor & Operational**
-8. **UAS VISION** (russ@uasvision.com) — Daily news feed (Jul 21, marked IMPORTANT, UNREAD)
+**New Outreach (Jul 21)**
+9. **Dan Fernback** (dan@juggerbot3d.com) — **NEW CONTACT**: "Agile manufacturing for tomorrow's requirements" (Jul 21 18:54, marked IMPORTANT); potential manufacturing partnership inquiry
+10. **Diana Brunel** (bruneld@agrainermfg.com) — **NEW CONTACT**: "Fast-turn aerospace components - Alpha Grainger" (Jul 21 19:13, marked IMPORTANT); aerospace-focused component supplier outreach
+
+**Foster Hill** (fhill@mmsolutions.biz) — **NEW**: Draft response regarding "Case customization question for Black Swift" (Jul 21 13:50); case/enclosure customization vendor engagement
 
 ### Internal vs External (Updated)
-- **Internal BST**: Jack Elston, Daniel Prendergast, Meredith Needham, Maciej Stachura
+- **Internal BST**: Jack Elston, Daniel Prendergast, Meredith Needham (now coordinating Contacts project via Asana, Jul 21 15:49)
 - **External Strategic Partners**: 
-  - **Krateo Sky** (Bob Smith, Lisa Marie Cheney, Roger Riley) — now directly CC'd on SOCOM Demo coordination
-  - **C-Astral** (Nejc Trost, Samo Stopar) — active Vertiq motor integration testing
-  - **Nominal** (Olivia Bakos) — test & validation bottleneck resolution
+  - **Krateo Sky** (Bob Smith, Roger Riley, Lisa Marie Cheney) — SOCOM demo logistics actively coordinated
+  - **C-Astral** (Nejc Trost, Samo Stopar) — motor integration testing
+  - **Nominal** (Olivia Bakos) — test & validation support
 - **External Component Vendors**: 
-  - **Vertiq** (Chance Rogers, Theresa Nguyen) — motor system repairs/technical support
-  - **Phase1 Aviation** (Sean Cole) — S0 wing procurement (Invoice #1116, Jul 20)
-  - **JawsTec Manufacturing** — custom manufacturing (Order #70002, received Jul 20; payment request submitted)
-  - **SendCutSend** — precision cutting services (Order S439K456, delivered Jul 20)
-- **External Government**: SOCOM (Evan Wolff) — via Daniel Prendergast coordination
-- **Automated/Promotional**: Asana (task notifications), UnitedHealthcare, Hilton Honors, AliExpress, Harbor Freight, DigiKey, USPS Informed Delivery, Pirate Ship, Speedway Motors
+  - **Vertiq** (Chance Rogers, Theresa Nguyen) — motor system repair (ongoing issue as of Jul 21)
+  - **Phase1 Aviation** (Sean Cole) — **UPDATED**: "Tail spar" follow-up (Jul 21); sequential airframe component procurement
+  - **Best In Parts** (Samantha) — **NEW**: CNC machining, Swiss turning, sheet metal fabrication; active quote/coordination (Jul 21)
+  - **JawsTec Manufacturing** — **UPDATED**: Orders #70044 & #70045 received (Jul 21 20:08); #70045 refunded (Jul 21 20:23); active manufacturing with payment requests pending
+  - **SendCutSend** — precision cutting services
+  - **Protolabs** — Quote 6794-871 shared (Jul 21 16:24, via purchasing); on-demand manufacturing option
+  - **Alpha Grainger / Agrainer Mfg** (Diana Brunel) — **NEW**: fast-turn aerospace components vendor
+  - **JuggerBot 3D** (Dan Fernback) — **NEW**: agile manufacturing inquiry
+  - **MM Solutions / Foster Hill** (fhill@mmsolutions.biz) — **NEW**: case/enclosure customization (draft response)
+- **External Government**: SOCOM (Evan Wolff at evan.m.wolff.mil@socom.mil) — direct coordination escalated Jul 21
+- **Automated/Promotional**: Asana (task notifications, Meredith Needham project invitation), UnitedHealthcare, AliExpress, Harbor Freight, DigiKey, USPS Informed Delivery, Amazon, SparkFun, McMaster-Carr, FedEx, UPS, WordPress.com, BaseCam Electronics, Staubli, SkyGeek, HeliDirect, UAS VISION
 
-### Procurement Activity (New Visibility)
-- **JawsTec Manufacturing LLC** (info@jawstec.com) — **NEW**: Custom manufacturing partnership; Invoice #70002 received and payment processed (Jul 20); active component fabrication
-- **SendCutSend** — **NEW**: Precision sheet metal/laser cutting order S439K456 delivered Jul 20; suggests structural component manufacturing
-- **Vertiq Repair Request** — **NEW**: Motor technical issue requiring vendor support (Jul 20); indicates field failure or testing-phase problem
+### Procurement Activity (Expanded)
+- **McMaster-Carr** — **NEW**: Orders placed Jul 21 (confirmations received Jul 21-22); industrial/mechanical components
+- **DigiKey** — **NEW**: Invoice 129575492 shipped (Jul 21 16:48); PO Acknowledgement #100525116 received (Jul 21 15:18); electronics/components
+- **SparkFun Electronics** — **NEW**: Order confirmation received (Jul 21 20:25); electronics/prototyping components
+- **Amazon** — **NEW**: 5 tools and electronics items ordered (Jul 21 20:23)
+- **JawsTec Manufacturing** — Orders #70044 and #70045 both received same day (Jul 21 20:08); #70045 refunded but payment request issued (Jul 21 20:09); suggests order quantity/scope iteration
+- **Protolabs** — Quote 6794-871 active (Jul 21 16:24); rapid prototyping/manufacturing option
+- **FedEx, UPS Shipping** — Multiple active shipment trackings (Jul 21-22)
 
 ## Topic Patterns
 
-### CRITICAL: SOCOM Demo Aug 16-19 Nevada — Leadership Coordination Continues
-- **Timeline Update**: Leadership-level email exchanges Jul 20-21 between:
-  - Daniel Prendergast (BST CEO/leadership) ↔ Evan Wolff (SOCOM)
-  - Daniel Prendergast ↔ Jack Elston (BST)
-  - Jack Elston ↔ Bob Smith (Krateo Sky) — Jul 21 00:18 UTC, marked IMPORTANT
-  - Bob Smith ↔ Daniel Prendergast & Jack Elston (Jul 21 01:21 UTC, marked IMPORTANT)
-- **Status**: Active leadership briefing cascade; Krateo Sky directly engaged at executive level
-- **Implication**: 26 days to event; system integration and field readiness critical path
+### CRITICAL: SOCOM Demo Aug 16-19 Nevada — Escalated to Logistics Planning
+- **Timeline**: 25 days to event; intensive coordination Jul 21
+- **Leadership Cascade** (Jul 21):
+  - Evan Wolff (SOCOM) ↔ Daniel Prendergast (BST CEO) — "RE: (U) [Non-DoD Source] Re: RFI S0" (16:35, marked IMPORTANT)
+  - Daniel Prendergast → Joshua Fromm — Forward "Engineering Sprint and the Whitehorse Test Event" (20:01, marked IMPORTANT); indicates internal strategic briefing
+  - Jack Elston ↔ Bob Smith (Krateo Sky) — Multiple SOCOM Demo Aug 16-19 coordination threads (12:35, 12:45, 18:54, marked IMPORTANT); logistics planning underway
+- **Status**: CEO-level coordination with SOCOM; Jack Elston managing Krateo Sky partnership logistics; system field-readiness critical path
 
-### CRITICAL: Component Procurement & System Integration — Accelerating
-- **Vertiq Motor System** (Jul 20):
-  - Outbound request from Joshua Fromm to Chance Rogers (Vertiq) requesting motor repairs
-  - Forwarded to internal technical lead (Meredith Needham)
-  - Response from Nejc Trost (C-Astral) marked IMPORTANT — indicates multi-vendor integration testing underway
-  - Motor technical issue requires vendor repair/support (exact problem not visible from headers)
-  - **Status**: Active motor system troubleshooting; likely impacts system readiness
-
-- **S0 Wing Procurement** (Jul 20):
-  - Joshua Fromm → Sean Cole (Phase1 Aviation): "New S0 wing order" (direct outreach)
-  - Sean Cole response same day marked IMPORTANT
-  - QuickBooks payment confirmation (Invoice #1116 processed Jul 20)
-  - Parallel communication from Meredith Needham to Sean Cole (Jul 20 09:55), CC'd on earlier wing discussion
-  - **Status**: Follow-on airframe procurement; second wing order suggests increased build volume or replacement (possible Vertiq motor failure led to wing replacement)
-
-- **Custom Manufacturing** (Jul 20):
-  - JawsTec Manufacturing LLC: Order #70002 received and payment processed
-  - SendCutSend: Custom cutting order S439K456 delivered same day
-  - **Status**: Precision structural components being fabricated; consistent with UAS system manufacturing scale-up
-
-### SOCOM RFI S0 — Escalation to Leadership
-- **Daniel Prendergast** (CEO) now directly coordinating RFI response with **Evan Wolff** (SOCOM) — Jul 20, marked IMPORTANT
-- **Subject**: "RE: (U) [Non-DoD Source] Re: RFI S0"
-- **Prior context**: Evan Wolff routed through RFI response process; now escalated to executive-level coordination
-- **Implication**: RFI response phase (Jul 17) transitioning to formal demonstration logistics (Aug 16-19); CEO involvement indicates executive-level commitment required
-
-### Technical Validation & Testing Bottleneck
-- **Olivia Bakos** (Nominal.io) — **NEW CONTACT**: Sends inquiry marked IMPORTANT (Jul 20 10:38 UTC): "Joshua, test & validation bottlenecks?"
-- **Status**: Third-party technical consultant/validator identifying testing constraints
-- **Implication**: System-level testing may be constraining schedule; external expertise being engaged to resolve
-
-## Communication Patterns
-
-### Time Patterns
-- **Concentrated activity**: Jul 20 (Monday) — 20+ messages, predominantly:
-  - Outbound technical/procurement coordination (morning/midday: Vertiq, Phase1 Aviation, C-Astral)
-  - Inbound vendor confirmations (afternoon/evening: JawsTec, SendCutSend, QuickBooks, shipping confirmations)
-- **Jul 21 (Tuesday, early AM)**: Leadership SOCOM demo coordination (00:04–01:46 UTC); multi-party thread escalation
+### CRITICAL: Airframe Component Supply — Escalated Frequency
+- **Tail Spar Procurement** (Jul 21):
