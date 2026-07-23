@@ -1,31 +1,23 @@
 # BST Document Catalog
 
 ## By Product/System
-
-### RAVEN Unmanned Air System
-- **RAVEN UAS Procurement Specification and SOW** | Lockheed Martin / Royal Navy | July 16, 2026 | Draft procurement specification and statement of work for unmanned air system programme (blackswift_draft_sow_and_specdocx.md)
-
----
+*No specific BST products (S2, S3, SwiftCore, MultiScat, AeroPod, etc.) referenced in this document set*
 
 ## By Client/Agency
 
-### Lockheed Martin / Royal Navy
-- **RAVEN UAS Procurement Specification and SOW** | July 16, 2026 | Draft SOW and technical specification for RAVEN Unmanned Air System Programme (blackswift_draft_sow_and_specdocx.md)
-
----
+### U.S. Air Force (AFWERX)
+- **DD Form 882 - Report of Inventions and Subcontracts** | SBIR Phase II - Soil Moisture Mapping (X22.4) | 2026-07-13 | Government compliance form for reporting inventions and subcontracts under SBIR Phase II program (dd0882pdf.md)
 
 ## By Application Area
 
-### Maritime/Naval Operations
-- **RAVEN UAS Procurement Specification and SOW** | Lockheed Martin / Royal Navy | July 16, 2026 | Unmanned air system procurement specification (blackswift_draft_sow_and_specdocx.md)
-
----
+### Soil Moisture Mapping / Agricultural Applications
+- **DD Form 882 - Report of Inventions and Subcontracts** | U.S. Air Force | 2026-07-13 | SBIR Phase II reporting for soil moisture mapping initiative (dd0882pdf.md)
 
 ## By Document Type
 
-### Procurement Specifications & Statements of Work
-- **RAVEN UAS Procurement Specification and SOW** | Lockheed Martin / Royal Navy | July 16, 2026 | Draft SOW and technical specifications for RAVEN programme (blackswift_draft_sow_and_specdocx.md)
+### Government Compliance & Administrative Forms
+- **DD Form 882 - Report of Inventions and Subcontracts** | U.S. Air Force (AFWERX) | 2026-07-13 | Required reporting form for SBIR Phase II inventions and subcontracts; Reporting Period: 2023-10-11 to 2025-07-11 (dd0882pdf.md)
 
 ---
 
-**Note:** Current catalog contains 1 document. This appears to be a preliminary catalog entry. Additional BST proposals, reports, and technical documents should be added as they are provided.
+**Note:** This catalog currently contains only one document. As additional BST proposals, reports, and technical documents are provided, they will be organized comprehensively across all four organizational dimensions (Product/System, Client/Agency, Application Area, and Document Type).

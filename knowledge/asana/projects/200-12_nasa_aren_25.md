@@ -19,6 +19,7 @@ BST participated in the AEROKATS and ROVER Education Network (AREN), a NASA Scie
   - **Current role:** Manages/runs Aeropods project post-retirement from NASA
   - **Location:** Goddard Space Flight Center, Wallops Flight Facility, 34200 Fulton, Wallops Island, VA 23337
   - **Organization:** NASA Ames
+  - **Website:** https://www.nasa.gov/ames/
 - **Billing POC:** PIEE
 
 ## Key Deliverables & Milestones
@@ -36,6 +37,7 @@ BST participated in the AEROKATS and ROVER Education Network (AREN), a NASA Scie
 - Geoffrey Bland retired from NASA (August 2025), now manages Aeropods project independently
 - One administrative contact info task remains open and unassigned
 - Primary deliverable (Aeropods platform) completed testing phase in October 2025
+- **[2026-07-22] Murphy's Pond Flight #4 postponed indefinitely** (Daniel Prendergast) — any travel or logistics arrangements should be cancelled
 
 ## Notes & Context
 - Project is archived and concluded

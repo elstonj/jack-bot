@@ -53,7 +53,7 @@
 ## Recent Activity
 
 **July 6, 2026:**
-- No project-specific updates. *(Note: Jack Bot entry references separate ISARRA Flight Week campaign with S0 VTOL units; not directly relevant to S2 & Parts scope.)*
+- No project-specific updates on [212-2] NASA S2 & Parts. *(Note: Jack Bot entry references separate ISARRA Flight Week campaign with S0 VTOL units; not directly relevant to S2 & Parts scope.)*
 
 **June 2–3, 2026 (Team Corrections — Authoritative):**
 - **Joshua Fromm:** All payload parts for Murphy's Pond payloads and gimbal parts ordering now in final stages. Most parts expected to arrive by end of week (early June 2026). Main remaining task is rewiring new DB9 connector to new mating style — "isn't a big deal at all." All 3 payloads can be modified in ≤1 day once parts arrive. **This indicates active forward progress and strongly suggests NDAA scope uncertainty has been resolved or accepted. Payload modification work can begin immediately upon parts arrival.**
@@ -66,4 +66,4 @@
 
 ## Notes & Context
 
-- **S2 End-of-Life Context (July 2025):** Isaac Anderson requested cost breakdown for S2 parts including full S2. Estimate 1362 was sent July 18, 2025, noting that as
+- **S2 End-of-Life Context (July 2025):** Isaac Anderson requested cost breakdown for S2 parts including full S2. Estimate 1362 was

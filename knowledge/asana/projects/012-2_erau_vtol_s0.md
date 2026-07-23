@@ -2,10 +2,9 @@
 
 ## Overview
 - **Client/Customer:** Embry-Riddle Aeronautical University (ERAU) — Kevin Adkins, adkinsk@erau.edu, 386.481.9059
-- **Dollar Value:** $20,805.39 (original S0 VTOL contract) + **$21,181.81 (Invoice 1667 for ISARRA Flight Week expansion, paid May 21, 2026)** = **~$42,000+ total revenue**
+- **Dollar Value:** $20,805.39 (original S0 VTOL contract) + **$21,181.81 (Invoice 1667 for ISARRA Flight Week expansion, paid May 21, 2026)** = **~$42,000 total revenue**
 - **Timeline:** 
-  - Original Asana due date: August 16, 2024 (**21+ months overdue**)
-  - Custom field due: May 26, 2025 (**stale**)
+  - Original Asana due dates: August 16, 2024 (**stale/overdue**); Custom field due: May 26, 2025 (**stale**)
   - **CORRECTED delivery target: August/September 2026 for ISARRA Flight Week campaign** (per Jack Elston, May 21, 2026; Kevin Adkins approved)
   - Training: Originally scheduled June 2025 (**deferred; no current date set**)
 - **Status:** **ACTIVE — SECOND-HIGHEST PRIORITY** (after S3 IRAD per Maciej, April 30, 2026). **Severely delayed but progressing.** Two S0 VTOL units **in QC as of July 3, 2026** (per Jack Elston). Flight-testing ongoing to resolve tracking bug (per Beck, March 17, 2026). Revenue secured ($21.2K paid May 21, 2026); customer approved August delivery plan.
@@ -13,7 +12,7 @@
 - **Risk Signals:** 
   - **CRITICAL: August/September 2026 delivery commitment for ISARRA Flight Week** — tight timeline with flight-testing tracking bug still unresolved as of March 2026
   - **QC stage now active (July 3, 2026)** — units progressing but final logistics undefined
-  - **Ownership gap on final-mile delivery:** 3 of 5 delivery/closure tasks unassigned; Jack Elston has not yet set "Final due date for delivery" task date
+  - **Ownership & scheduling gap on final-mile delivery:** 3 of 5 delivery/closure tasks unassigned; 5 of 5 tasks lack due dates despite committed August/September delivery
   - **Original contract payment status:** ISARRA Invoice 1667 ($21,181.81) confirmed paid May 21, 2026; status of original $20,805.39 invoice unknown
 
 ## Key Deliverables & Milestones
@@ -23,16 +22,16 @@
 - **Timeline:** August/September 2026 delivery to align with ISARRA Flight Week logistics
 - **Customer Approval:** Kevin Adkins approved plan (per Jack Elston, May 21, 2026)
 - **Current Status:** In QC as of July 3, 2026 (per Jack Elston)
-- **Technical Blockers:** Flight-testing ongoing to resolve tracking bug (per Beck, March 17, 2026); **no resolution ETA or current status as of latest update**
+- **Technical Blockers:** Flight-testing ongoing to resolve tracking bug (per Beck, March 17, 2026); **no resolution ETA as of latest update**
 
 ### Original S0 VTOL Unit Delivery — $20,805.39
 - **Status:** Merged into ISARRA campaign scope; now delivering two units total
-- **Logistics Tasks (All Unassigned or Undated):**
-  - Final due date for delivery — Jack Elston (**no date set**)
-  - Ship S0 VTOL to ERAU — Unassigned
+- **Logistics Tasks (All Unassigned and Undated):**
+  - Final due date for delivery — Jack Elston (**no date set; blocking downstream**)
+  - Ship S0 VTOL to ERAU — Unassigned (**no due date**)
   - S0 VTOL Training for ERAU — Dan Prendergast (**no due date**)
-  - Verify payment from ERAU — Unassigned
-  - Close project — Unassigned
+  - Verify payment from ERAU — Unassigned (**no due date**)
+  - Close project — Unassigned (**no due date**)
 
 ## Task Summary
 - **Total tasks:** 5 open, 0 completed
@@ -40,11 +39,11 @@
   - Jack Elston: 1 task (no due date — blocking downstream)
   - Dan Prendergast: 1 task (no due date)
   - Unassigned: 3 tasks (Ship, Verify Payment, Close Project)
-- **Pattern:** All logistics tasks lack ownership and due dates despite August 2026 commitment and paid invoice
+- **Pattern:** All logistics tasks lack ownership and due dates despite August/September 2026 commitment and paid $21.2K invoice
 
 ## Recent Activity
-- **July 6, 2026:** Jack Bot relayed Slack confirmation: Two units in QC, Invoice 1667 ($21,181.81) paid May 21, 2026; Jack Elston and Kevin Adkins confirmed August delivery target aligned with ISARRA planning and transport logistics
-- **July 3, 2026:** Units transitioned to QC stage (per Jack Elston Slack)
+- **July 6, 2026:** Jack Bot relayed Slack confirmation: Two units in QC, Invoice 1667 ($21,181.81) paid May 21, 2026; August delivery target aligned with ISARRA planning and transport logistics (Jack Elston & Kevin Adkins confirmed)
+- **July 3, 2026:** Units transitioned to QC stage (per Jack Elston)
 - **May 21, 2026:** Invoice 1667 ($21,181.81) paid; Kevin Adkins approved August delivery target aligned with ISARRA planning (Jack Elston, Slack #commercial-sales)
 - **March 17, 2026:** Flight-testing ongoing; tracking bug resolution in progress (per Beck)
 
@@ -52,9 +51,9 @@
 - **Scope Expansion Confirmed:** Original single-unit contract ($20,805.39) expanded to **two units with ground station and tablet for ISARRA Flight Week campaign** (additional $21,181.81, Invoice 1667 paid May 21, 2026). Project notes indicate ERAU evaluating potential 4-unit follow-on purchase (estimates pending).
 - **Tracking Bug:** Per Beck (March 17, 2026), flight-testing to resolve tracking bug is ongoing. Units in QC as of July 3 suggest issue is contained but **still unresolved as of latest update**. No current status or ETA provided.
 - **NDAA Compliance:** S0 VTOL "can be" NDAA compliant but not fully compliant yet (per Alex Lomis, April 17, 2026).
-- **Immediate Action Items:**
-  1. **Jack Elston:** Set final due date for delivery task (target: early August 2026 to meet ISARRA Flight Week timeline)
-  2. **Assign and date remaining logistics:** Ship, Verify Payment, Close Project tasks need owners and due dates aligned with August delivery
-  3. **Resolve tracking bug:** Clarify current status and expected completion date with Beck
-  4. **Verify original contract payment:** Confirm $20,805.39 invoice receipt (separate from paid ISARRA Invoice 1667)
-  5. **Training scheduling:** Dan Prendergast to set due date contingent on unit delivery and validation completion
+- **Immediate Action Items (URGENT):**
+  1. **Jack Elston:** Set final due date for delivery task immediately (recommend early August 2026 to meet ISARRA Flight Week timeline and allow buffer for QC completion)
+  2. **Assign and date all logistics tasks:** Ship, Verify Payment, Close Project tasks need owners and due dates aligned with August/September delivery window
+  3. **Resolve tracking bug status:** Get current status and expected completion date from Beck; if resolved, document closure; if not, assess impact to August delivery
+  4. **Verify original contract payment:** Confirm $20,805.39 invoice receipt and payment status (separate from paid ISARRA Invoice 1667)
+  5. **Training scheduling:** Dan Prendergast to set training due date contingent on unit QC completion and delivery confirmation

@@ -5,7 +5,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination), Paige Smith (admin), Ethan Domagala (project coordination), Kareem (team member), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,430+ messages spanning from July 2020 through July 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through July 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, and ongoing operational management. Most recent activity (July 13, 2026) reflects postflight workflow improvements and maintenance process automation.
+**Activity level:** High-volume channel with 3,430+ messages spanning from July 2020 through July 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through July 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, and ongoing operational management. Most recent activity (July 22, 2026) reflects flight schedule changes and logistics management.
 
 ---
 
@@ -70,4 +70,5 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 ### Vendor Management
 - **2023-2024:** Parker Vollmer organizing vendor list for procurement software evaluation. Goal: understand vendor roles, projects supported.
 
-### Postflight Workflow & Maintenance Process (July 13, 2026
+### Flight Operations & Project Scheduling
+- **July 22, 2026:** Murphy's Pond

@@ -33,7 +33,7 @@
         "amount": 36361.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-22"
+        "last_updated": "2026-07-23"
       },
       "purchases": {
         "amount": 0.0,
@@ -53,11 +53,17 @@
     "committed": 0.0,
     "remaining": 95132.75,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-22T09:04:06Z"
+    "last_reconciled": "2026-07-23T09:05:17Z"
   },
   "milestones": [],
   "deliverables": [],
   "team": [
+    {
+      "name": "Alex Lomis",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    },
     {
       "name": "Maciej Stachura",
       "role": null,
@@ -73,6 +79,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-07-22T09:04:06Z",
+  "last_full_rebuild": "2026-07-23T09:05:17Z",
   "last_incremental_update": null
 }

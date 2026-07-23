@@ -30,8 +30,10 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **July 20, 2026**: OOI flight planning initiated for stepped descent out-and-back pattern starting at 100 m or below; orientation to be finalized day-of based on wind conditions; S0 recovery over OOI array deemed unlikely due to insufficient funding (Nick P. unable to secure recovery funding); confirmed S0 will not be painted orange and should be assumed unrecoverable unless last-minute funding materialized
 - **July 20, 2026**: P-3 crew identified: aircraft will have personnel on board for S0 operations during OOI flights
 - **July 21, 2026**: OOI array validation flight mission scheduled: Alex Lomis available Monday-Wednesday (arrives Monday, flies mission Tuesday, returns Wednesday); aircraft at AOC being updated to current specifications; Josh Wadler arriving Tuesday for flight operations; coordination with GCS access confirmed as needed
+- **July 22, 2026**: OOI array flight pattern finalized: centered location (35.9500, -75.1250) with 10-minute legs at altitudes 100 m, 75 m, 50 m, 40 m, 30 m, 25 m, 20 m, 15 m, 10 m, and 5 m; orientation dependent on forecasted winds with preference for N/S alignment; note that 5 m descent may be limited to final battery phase; boat traffic concerns may restrict minimum altitude below 10 m
 
 ## Projects & Initiatives
+
 **Navy STTR Boundary Layer Measurements Project (Award: N6833535C0270)**
 - Phase I Base completed January 2026 with kick-off document, progress report, and final deliverables
 - Phase I Option awarded January 26, 2026, funding released March 20, 2026
@@ -41,14 +43,5 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 
 **OOI (Ocean Observatories Initiative) Array Validation Flights**
 - Framed as internal R&D effort (not Navy-funded) as of June 2026
-- Flight pattern: stepped descent out-and-back profiles starting at 100 m or below
-- Orientation weather-dependent, to be finalized day-of
-- Similar flight profile previously executed during Avon Park flight (reference point for planning)
-- S0 recovery unlikely; no dedicated recovery funding available
-- **Active execution**: Mission scheduled for week of July 21-23, 2026 with Alex Lomis as pilot; P-3 crew coordinated for S0 operations support
-- Aircraft systems at AOC being updated to current specifications prior to flight
-
-**Technical Development Areas:**
-- S0 sensor suite: PTH (Vaisala) at 5Hz, wind at 100Hz, additional static pressure sensor at 100Hz
-- Cold weather specifications: -40°C to -60°C operation capability
-- De-ice heater development for standalone system
+- **Active execution**: Mission scheduled for week of July 21-23, 2026 with Alex Lomis as pilot; P-3 crew coordinated for S0 operations support; Josh Wadler arriving Tuesday for flight operations
+- **Flight pattern finalized

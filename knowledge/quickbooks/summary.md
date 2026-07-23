@@ -1,5 +1,5 @@
 # BST Financial Overview (QuickBooks)
-**Report Period:** April 5, 2024 – September 28, 2026
+**Period: July 22–23, 2026 | Full Dataset Range: April 2024–September 2026**
 
 ---
 
@@ -7,69 +7,61 @@
 
 | Metric | Amount |
 |--------|--------|
-| **Total Revenue (Invoices)** | **$7,537,395.98** |
-| **Total Expenses** | **$2,922,593.82** |
-| **Net Income** | **$4,614,802.16** |
+| **Total Revenue (Invoiced)** | $4,541,906.64 |
+| **Total Expenses (Bills & Purchases)** | $2,698,672.59 |
+| **Total Purchase Orders (Outstanding)** | $2,532.00 |
+| **Net Income Position** | $1,843,234.05 |
 
 ---
 
-## Financial Summary by Project/Class
-*(Sorted by Total Activity)*
+## Financial Performance by Project/Class
 
-### 1. **Government**
-- **Total Revenue:** $4,519,012.28
-- **Total Expenses:** $1,412,774.46
-- **Net Position:** $3,106,237.82 ✅ *Profitable*
-- **Transaction Count:** 76 active invoices
-- **Outstanding A/R:** $3,252,701.82
-
-### 2. **Commercial**
-- **Total Revenue:** $2,995,489.34
-- **Total Expenses:** $242,720.23
-- **Net Position:** $2,752,769.11 ✅ *Highly Profitable*
-- **Recent Activity:** Invoice #1772 ($3,000, Alliance for Energy Innovation, 2026-07-17) outstanding
-- **Outstanding Purchase Orders:** $1,977.50
-
-### 3. **BST Internal**
-- **Total Revenue:** $22,894.36
-- **Total Expenses:** $1,267,099.13
-- **Net Position:** -$1,244,204.77 ❌ *Loss Position*
-- **Transaction Count:** 1,295 transactions over 27+ months
-- **Outstanding Purchase Orders:** $1,700.00 (PO #1038, Amprius)
-- **Note:** Internal operations running at significant loss; expenses far exceed revenue
+| Project | Revenue | Expenses | Net Position | Status |
+|---------|---------|----------|--------------|--------|
+| **Government** | $4,519,012.28 | $1,420,926.46 | **$3,098,085.82** | Strong performer |
+| **BST Internal** | $22,894.36 | $1,277,746.13 | **-$1,254,851.77** | Expense-heavy; likely cost center |
 
 ---
 
 ## Cash Flow Indicators
 
-### Accounts Receivable (Outstanding)
-- **Government Projects:** $3,252,701.82 outstanding
-- **Commercial Projects:** $3,000.00 outstanding (Invoice #1772)
-- **Total A/R:** $3,255,701.82
+### Accounts Receivable (Outstanding Invoice Balances)
+- **Government Projects:** $3,252,701.82 outstanding across 76 active invoices
+- **BST Internal:** Balance detail not provided in dataset
+- **Total A/R:** ~$3.25M+ in collectible revenue
 
-### Outstanding Purchase Orders
-- PO #1038 (Amprius) – BST Internal: $1,700.00
-- Commercial POs: $1,977.50
+### Purchase Commitments
+- **Outstanding POs:** $2,532.00
+  - BST Internal: $1,700.00 (PO #1038 – Amprius)
+  - Government: $832.00
 
-### Recent Large Activity
-- Invoice #1772 (Commercial): $3,000 – July 17, 2026
-- Multiple Government invoices with significant balances (76 active invoices)
-
----
-
-## Key Insights
-
-✅ **Strengths:**
-- Government contracts driving majority of revenue ($4.52M)
-- Commercial segment highly profitable ($2.75M net)
-- Combined profitability of $4.61M
-
-⚠️ **Concerns:**
-- **BST Internal Operations:** Running at -$1.24M loss with limited revenue generation
-- **High A/R Balance:** $3.26M outstanding across Government/Commercial – collection risk
-- **P&L Report Anomaly:** Recent 2-day P&L (7/21-7/22) shows -$2,771.08, suggesting negative cash flow period requiring investigation
+### Recent Large Expenses (July 2026)
+- BST Internal: $10,647.00 in new July transactions noted
 
 ---
 
-## Unclassified Transactions
-No significant unclassified transactions noted in the data provided. All expenses are assigned to project classes (DIRECT COSTS, R&D).
+## Project Status Notes
+
+**Government (Active & Profitable)**
+- Largest revenue generator ($4.5M invoiced)
+- 76 active invoices indicate ongoing engagement
+- Healthy net position of $3.1M
+- Significant outstanding balance suggests ongoing cash collection cycle
+
+**BST Internal (Cost Center)**
+- Minimal revenue ($22.9K) relative to expenses ($1.28M)
+- Likely represents corporate overhead, R&D, or infrastructure costs
+- Accumulated deficit of $1.25M over 27-month period
+- 1,297 confirmed transactions indicate heavy internal activity
+
+---
+
+## Data Limitations
+
+The provided QuickBooks extract is **incomplete**:
+- Vendor and customer detail tables are truncated
+- Detailed revenue breakdown by Government sub-projects not shown
+- Profit & Loss line items show only totals without categories
+- Individual invoice and bill details missing
+
+**Recommendation:** Request full P&L report with vendor/customer summaries and project-level detail for complete analysis.
